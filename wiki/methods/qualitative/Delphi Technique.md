@@ -8,7 +8,7 @@ summary: "一种通过多轮书面问卷迭代收集和反馈群体意见的结�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 9
+method_related_count: 8
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
-  - "[[Attrition]]"
 related_methods:
   - "[[Nominal Group Technique]]"
   - "[[Questionnaire]]"
@@ -31,7 +30,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
 status: draft
 created: 2026-07-18
-updated: 2026-09-18
+updated: 2026-10-15
 ---
 # Delphi Technique
 
@@ -111,7 +110,7 @@ updated: 2026-09-18
 
 > [!method-limits] 方法局限
 > - **偏误来源** 组长的整理和概括可能无意识地引入解释偏误；高频回应可能在反馈中过度影响后续轮次。
-> - **适用边界** 多轮迭代的耗时可观；参与者可能在多轮后[[Attrition\|流失]]。
+> - **适用边界** 多轮迭代的耗时可观；参与者可能在多轮后流失。
 > - **误用风险** 将共识识别误认为客观真理；忽视少数异议声音。
 > - **补救方式** 在反馈中同时报告频率和异议内容；将最终讨论放在全体会议中以确保所有声音被听取；明确组长角色——整理而非解释。
 

@@ -9,7 +9,7 @@ title: "Argument_Boyadjieva_2022_Springer"
 argument_key: "Argument_Boyadjieva_2022_Springer"
 argument_display_title: "(Un)avoidable clash: Higher education at the altar of its missions and rankings"
 argument_kind: "book"
-argument_related_count: 27
+argument_related_count: 24
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -29,12 +29,10 @@ related_concepts:
   - "[[Global Universities Rankings]]"
   - "[[Social Charter]]"
   - "[[Champ]]"
-  - "[[Document]]"
   - "[[Hidden Curriculum]]"
   - "[[Research Universities]]"
   - "[[Employability]]"
   - "[[Critical Thinking]]"
-  - "[[Hypothesis]]"
   - "[[Corporate University]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Competitiveness]]"
@@ -51,7 +49,6 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Questionnaire]]"
 related_persons:
-  - "[[Alfred Nobel]]"
   - "[[Pepka Boyadjieva]]"
   - "[[Ellen Hazelkorn]]"
 related_facts:
@@ -92,7 +89,7 @@ citation_aliases:
 
 > [!info]
 > - **方法类型** 规范性概念分析 + 批判性政策评论。研究先构建一个理论模型（多维使命模型），再以该模型为"检验标准"去审查 全球排名系统，识别后者在哪些维度上系统地偏离了高等教育的完整使命。
-> - **资料来源** 排名系统文件（[[Academic Ranking of World Universities\|ARWU]]、THE、QS 等的指标和方法说明）、排名实证研究[[Document\|文献]]（Hazelkorn 2015/2018 的国际调查数据；Marginson 2009/2014 的排名批判分析；Altbach 2011 的评论等）、制度理论和新制度主义文献（Meyer 1970/1977、Scott & Davis 2016、Ramirez 2013）、美国肯塔基大学排名驱动转型的案例分析(DeYoung & Baas, 2012)。
+> - **资料来源** 排名系统文件（[[Academic Ranking of World Universities\|ARWU]]、THE、QS 等的指标和方法说明）、排名实证研究文献（Hazelkorn 2015/2018 的国际调查数据；Marginson 2009/2014 的排名批判分析；Altbach 2011 的评论等）、制度理论和新制度主义文献（Meyer 1970/1977、Scott & Davis 2016、Ramirez 2013）、美国肯塔基大学排名驱动转型的案例分析(DeYoung & Baas, 2012)。
 
 
 ## 论证结构
@@ -108,7 +105,7 @@ citation_aliases:
 > [!example]
 > 制度理论告诉我们，制度和组织不一样。组织追求效率，而制度塑造人们的认知框架和行为规范。大学作为制度，不仅通过正式课程教学生知识，更通过它如何运作——它的建筑、仪式、等级关系、对成功的定义——向学生传递一整套关于"世界是什么样""什么样的人算成功"的隐含信息。这就是所谓的"隐藏课程"（[[Hidden Curriculum]]）。
 >
-> 举个具体的例子：一所大学把[[Alfred Nobel|诺贝尔]]奖得主的照片挂满走廊，在开学典礼上反复强调"我们培养的是未来领袖"——它传递的信息是：伟大的标志是个人卓越和国家荣誉。另一所大学在入学教育中带学生去社区做服务，在走廊展示的是校友在本地非营利组织工作的故事——它传递的信息是：成功的标志是服务他人和改善社区。这两种"隐藏课程"塑造了完全不同的毕业生，但任何排名指标都无法捕捉这种差异(pp.127–128)。
+> 举个具体的例子：一所大学把诺贝尔奖得主的照片挂满走廊，在开学典礼上反复强调"我们培养的是未来领袖"——它传递的信息是：伟大的标志是个人卓越和国家荣誉。另一所大学在入学教育中带学生去社区做服务，在走廊展示的是校友在本地非营利组织工作的故事——它传递的信息是：成功的标志是服务他人和改善社区。这两种"隐藏课程"塑造了完全不同的毕业生，但任何排名指标都无法捕捉这种差异(pp.127–128)。
 
 **1.2 大学的"[[Social Charter|社会宪章]]"——它向社会承诺了什么？**
 
@@ -172,7 +169,7 @@ citation_aliases:
 ### 第三步：理解排名为什么会出现——它不只是"有人搞出来的坏东西"
 
 > [!example]
-> 在批判排名之前，需要先做一件重要的事：解释排名为什么"不可避免"。这不是为排名辩护，而是为了避免一个天真的[[Hypothesis\|假设]]——以为排名只是某个坏人发明的阴谋，只要大家清醒过来就可以丢掉。
+> 在批判排名之前，需要先做一件重要的事：解释排名为什么"不可避免"。这不是为排名辩护，而是为了避免一个天真的假设——以为排名只是某个坏人发明的阴谋，只要大家清醒过来就可以丢掉。
 
 **3.1 八股结构性力量**
 
@@ -371,7 +368,7 @@ Boyadjieva 公平地承认，一些排名系统已经意识到了上述问题并
 ## 局限性与批评
 
 > [!warning]
-> - **作者未陈述方法论局限** 该研究本身为规范性概念分析和[[Literature Review\|文献综述]]，未包含独立的一手实证数据收集。其对排名系统的批判力度，部分取决于读者是否接受其理论框架的前提[[Hypothesis\|假设]]。
+> - **作者未陈述方法论局限** 该研究本身为规范性概念分析和[[Literature Review\|文献综述]]，未包含独立的一手实证数据收集。其对排名系统的批判力度，部分取决于读者是否接受其理论框架的前提假设。
 > - **理想类型的局限** 多维使命模型被作者明确定位为"韦伯意义上的理想类型——没有本体实在，仅作为认知工具"(p.130)。这意味着该模型是分析的起点而非终点——不同国家和制度脉络中的高等教育使命可能与该模型有显著偏差。
 > - **结论的乐观倾向** Boyadjieva 最终建议"通过排名的多样化和与其他问责工具的互补来回应使命多样性"，但这个结论可能低估了排名逻辑本身的某些特性——比如排名所创造的市场式竞争是否在结构上就与高等教育的多元价值不相容？该研究没有充分处理这一矛盾。
 > - **忽略了一个经验性问题**Altbach & Hazelkorn(2017)的"专注于使命而非排名"的呼吁，和 Boyadjieva 的"在结构上不可能放弃排名"的回应之间，是否存在一个中间地带？该研究没有探讨那些在排名压力下仍然成功保持多元使命的高校案例——如果存在这样的案例，它们会是"如何做到的"的重要经验证据。

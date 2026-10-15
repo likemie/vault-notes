@@ -8,7 +8,7 @@ summary: "系统收集和分析机构网站公开内容的研究方法，通过�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 19
+method_related_count: 17
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Interpretivism]]"
   - "[[Paradigm]]"
-  - "[[Hypothesis]]"
   - "[[University-Industry Collaboration]]"
   - "[[Research Question]]"
   - "[[Research Topic]]"
@@ -34,7 +33,6 @@ related_methods:
   - "[[Content Analysis]]"
   - "[[Questionnaire]]"
   - "[[Mixed Methods Research]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Content Analysis]]"
   - "[[Transcription in Qualitative Research]]"
 related_persons: []
@@ -45,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-27
-updated: 2026-10-02
+updated: 2026-10-15
 ---
 
 # Website Content Analysis
@@ -58,7 +56,7 @@ updated: 2026-10-02
 ## 认识论立场
 
 > [!abstract]
-网站[[Content Analysis|内容分析]]属于**[[Interpretivism|解释主义]]（interpretivist）**研究[[Paradigm|范式]]，通常不追求统计推断或因果识别。其核心[[Hypothesis|假设]]是：组织网站的公开内容是一种经过精心策划的"自我呈现"（self-presentation）——它既不完全等同于组织的实际运作（可能夸大或省略某些职能），也不完全是虚构（因为它受到组织内部审核和外部期待的约束）。研究的任务不是简单地"相信"或"否定"网站内容，而是解读组织通过网站**选择呈现什么、忽略什么、强调什么**，以及这些选择所反映的组织逻辑和制度环境（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.56]]）。
+网站[[Content Analysis|内容分析]]属于**[[Interpretivism|解释主义]]（interpretivist）**研究[[Paradigm|范式]]，通常不追求统计推断或因果识别。其核心假设是：组织网站的公开内容是一种经过精心策划的"自我呈现"（self-presentation）——它既不完全等同于组织的实际运作（可能夸大或省略某些职能），也不完全是虚构（因为它受到组织内部审核和外部期待的约束）。研究的任务不是简单地"相信"或"否定"网站内容，而是解读组织通过网站**选择呈现什么、忽略什么、强调什么**，以及这些选择所反映的组织逻辑和制度环境（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b, p.56]]）。
 
 ## 研究程序
 
@@ -100,7 +98,7 @@ updated: 2026-10-02
 > [!warning]
 - **公开内容与实际运作的偏差** 网站可能夸大中心办公室的覆盖范围（为了展示"一站式服务"的形象），也可能未反映非正式但有效的内部协调机制。Boccanfuso & Hall（2025, p.56）明确承认"网站分析基于大学公开呈现的内容，可能与实际组织结构存在偏差"
 - **样本代表性的局限** 如果样本来自特定组织网络（如 [[University Industry Demonstration Partnership|UIDP]] 会员），结论可能无法推广到非会员组织。Boccanfuso & Hall（2025）的样本以美国大型[[Research Universities|研究型大学]]为主，对小型文理学院和非美国大学的适用性有限（p.56）
-- **[[Coding in Qualitative Research|编码]]的主观性** 将网页描述归类为五种组织模式或六级权限等级，需要研究者判断。不同研究者可能对同一网页归类不同——网站[[Content Analysis|内容分析]]通常缺乏文本分析中常见的"编码员间[[Reliability|信度]]"（inter-coder reliability）报告
+- **编码的主观性** 将网页描述归类为五种组织模式或六级权限等级，需要研究者判断。不同研究者可能对同一网页归类不同——网站[[Content Analysis|内容分析]]通常缺乏文本分析中常见的"编码员间[[Reliability|信度]]"（inter-coder reliability）报告
 - **网站内容的时效性** 网站可能未及时更新，反映的是过去的组织结构而非当前状态
 
 ## 方法变体与相近方法

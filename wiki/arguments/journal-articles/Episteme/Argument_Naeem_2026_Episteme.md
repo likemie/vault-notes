@@ -43,7 +43,6 @@ related_concepts:
   - "[[Counterfactual]]"
   - "[[Avatar]]"
   - "[[Humility]]"
-  - "[[Hypothesis]]"
   - "[[Working Memory]]"
   - "[[Concept Mapping]]"
   - "[[Brainstorming]]"
@@ -83,7 +82,7 @@ title: "Argument_Naeem_2026_Episteme"
 argument_key: "Argument_Naeem_2026_Episteme"
 argument_display_title: "Teaching skills and intellectual virtues with generative AI"
 argument_kind: "journal-article"
-argument_related_count: 44
+argument_related_count: 43
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -234,7 +233,7 @@ issuing_organization: ""
 #### 2. 大脑认知机能遵循用进废退规律，长期把构思与写作外包给算法会导致独立推理能力退化
 
 > [!case] 思想实验：钢琴家技能退化隐喻与内生认知萎缩
-> [[Hypothesis|假设]]有一位从小接受极其严苛音乐训练、琴艺精湛绝伦的钢琴演奏家。如果这位演奏家因某种原因连续数年完全停止弹奏钢琴，他的演奏技能便不可能保持原样；由于长期缺乏实际弹奏练习，其手指的灵敏度、指尖的触键感知、手眼神经协调以及肌肉记忆都将发生无可挽回的衰退。（p. 271）
+> 假设有一位从小接受极其严苛音乐训练、琴艺精湛绝伦的钢琴演奏家。如果这位演奏家因某种原因连续数年完全停止弹奏钢琴，他的演奏技能便不可能保持原样；由于长期缺乏实际弹奏练习，其手指的灵敏度、指尖的触键感知、手眼神经协调以及肌肉记忆都将发生无可挽回的衰退。（p. 271）
 >
 > [[Lev Vygotsky|维果茨基]]（Lev Vygotsky, 1981）与斯腾伯格（Robert Sternberg, 2024）指出，认知技能必须在最高能力边界上接受持续挑战与刻意练习才能维持。生物大脑的认知机能完全遵循相同的规律，长期回避认知挣扎必致心智钝化。
 

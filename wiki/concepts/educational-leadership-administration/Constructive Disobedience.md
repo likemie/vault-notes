@@ -7,7 +7,7 @@ aliases:
 summary: "指组织成员在深刻理解并内化领导层宏观战略愿景的前提下，主动质疑、调整甚至拒绝执行不切实际的自上而下具体指令，依据实战物理反馈实施能动修正与系统重构的微观行动哲学。在卡普与扎米斯卡（2025）的科技治理体系中，建设性不服从是打破科层盲从与管理自恋、维系复杂自适应软件演化与重塑技术共和国工程思维的微观制度基石。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 25
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Technological Republic]]"
   - "[[Social Deafness]]"
   - "[[Hard Power]]"
-  - "[[Document]]"
 related_theories:
   - "[[Organizational Culture]]"
 related_methods:
@@ -45,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Constructive Disobedience
@@ -191,7 +190,7 @@ updated: 2026-10-12
 > [!ref-table]- 经典质性与组织案例实证记录
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 案例与[[Document\|文献]]来源 | 组织场景与情境 | 考察维度 | 核心观察与实证表现 | 组织启示与边界 |
+> | 案例与文献来源 | 组织场景与情境 | 考察维度 | 核心观察与实证表现 | 组织启示与边界 |
 > |---|---|---|---|---|
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp & Zamiska (2025, pp. 130–136)]] | 耶鲁大学心理学实验室（1961） | 权威压力与个体抵抗 | 65% 受试者在实验员程序性催促下完全服从施加致命电击，仅少数坚守自由意志的抗命者（如德国女技师）当面拒绝执行指令 | 证实盲从是人类普遍弱点，抗命需要强大的道德韧性与批判性认知 |
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp & Zamiska (2025, pp. 122–129)]] | 硅谷软件初创企业与[[Palantir Technologies\|帕兰提尔]]内部治理 | [[Shadow Hierarchy\|影子层级]]与去中心化决策 | 一线工程师在现场部署中频繁推翻后方高管制定的技术架构，依据前线实战数据敏捷重写算法模块 | 证实包容建设性不服从能够显著提升复杂软件系统的实战交付效能 |

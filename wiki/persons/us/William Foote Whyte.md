@@ -7,7 +7,7 @@ summary: "美国社会学家，《街角社会》（Street Corner Society）作�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 12
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -21,7 +21,6 @@ tags:
   - region/global
 related_concepts:
   - "[[Reflexivity]]"
-  - "[[Hypothesis]]"
   - "[[Qualitative Validity]]"
 related_theories: []
 related_methods:
@@ -40,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-16
-updated: 2026-09-11
+updated: 2026-10-15
 ---
 
 # William Foote Whyte
@@ -65,7 +64,7 @@ updated: 2026-09-11
 ## 核心思想
 
 > [!claim] 核心主张
-> [[Fieldwork\|田野工作]]者的个人经验长期被学界遮蔽，研究者必须对自己诚实并把个人卷入纳入反思；[[Participatory Action Research\|参与式行动研究]]提供弥合研究者与所研究组织成员鸿沟的途径。选择研究对象依赖内隐或外显的理论，过程在很大程度上主观，但说明[[Hypothesis\|假设]]与方法后他人可以验证或挑战结论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|(Cohen et al., 2011, 28.2)]]
+> [[Fieldwork\|田野工作]]者的个人经验长期被学界遮蔽，研究者必须对自己诚实并把个人卷入纳入反思；[[Participatory Action Research\|参与式行动研究]]提供弥合研究者与所研究组织成员鸿沟的途径。选择研究对象依赖内隐或外显的理论，过程在很大程度上主观，但说明假设与方法后他人可以验证或挑战结论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|(Cohen et al., 2011, 28.2)]]
 
 ## 影响路径
 

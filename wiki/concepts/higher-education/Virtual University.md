@@ -8,10 +8,10 @@ aliases:
 summary: "指依托现代信息通信技术开展纯线上或混合式高等教育教学、跨国学位授予与课程特许经营的高等教育机构形态，它打破了实体校园的地理边界，但同时也引发了学术商品化、文凭去脉络化以及大学公共民主职能流失的深刻危机。"
 type: concept
 domain: "higher-education"
-related_count: 21
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - subject/higher-education
   - theme/educational-technology
@@ -24,11 +24,9 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Lifelong Learning]]"
   - "[[Paradigm]]"
-  - "[[Teaching Assistant]]"
   - "[[Knowledge Production]]"
   - "[[Time-Space Compression]]"
   - "[[Champ]]"
-  - "[[Attrition]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Analytical Stance]]"
 related_theories:
@@ -50,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-29
-updated: 2026-10-02
+updated: 2026-10-15
 ---
 
 # Virtual University
@@ -95,7 +93,7 @@ updated: 2026-10-02
 > - **去地域化的课程交付** 借助高速数字通信网络，消解地理阻隔，使中心国家的标准化教学课件能够以边际成本几乎为零的方式即时流向全球受众。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 112)]]
 > - **跨国特许经营协议（Franchising Agreements）** 欧美大都市知名高校将其品牌、教学大纲与考试系统租赁或授权给边缘国家的本土营利性机构，由后者负责招生并收取高额学费分成。
 > - **教学语言与[[Hegemony|文化霸权]]** 课程绝大多数采用全球通用语言（特别是英语），课程内容直接移植西方工业化国家知识[[Paradigm|范式]]，存在漠视甚至压抑本土知识传统与本土发展需求的风险。
-> - **学术劳动与[[Peer Debriefing|同行审议]]的剥离** 课程研发往往由少数核心专家统一录制，实际日常辅导转包给廉价的线上[[Teaching Assistant|助教]]，传统大学内部基于面对面交流的学术共同体被流水线式的客户服务支持所取代。
+> - **学术劳动与[[Peer Debriefing|同行审议]]的剥离** 课程研发往往由少数核心专家统一录制，实际日常辅导转包给廉价的线上助教，传统大学内部基于面对面交流的学术共同体被流水线式的客户服务支持所取代。
 
 > [!logic-map]- 虚拟大学的跨国运作机制
 > ```mermaid
@@ -144,7 +142,7 @@ updated: 2026-10-02
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **资本积累与空间去地域化** | 阐明虚拟大学如何借助电信技术与特许协议突破国家边界，实现全球高等教育服务的商业化套利 | 跨国在线学位教育、离岸高等教育办学、[[GATS and Trade in Education Services\|教育服务贸易]]研究 | Castells, M.; Arnove, R. F. |
-> | **民主批判性与公共性[[Attrition\|流失]]** | 揭示实体学术共同体消解对大学批判公共功能、国民认同塑造与民主公民培养的深远负面影响 | 高等教育公共性反思、大学与国家关系、数字化教育异化批评 | Edwards, R.; Arnove, R. F. |
+> | **民主批判性与公共性流失** | 揭示实体学术共同体消解对大学批判公共功能、国民认同塑造与民主公民培养的深远负面影响 | 高等教育公共性反思、大学与国家关系、数字化教育异化批评 | Edwards, R.; Arnove, R. F. |
 
 ---
 

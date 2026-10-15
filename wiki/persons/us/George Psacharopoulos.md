@@ -8,7 +8,7 @@ summary: "国际著名教育经济学家、世界银行资深教育顾问与人�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 25
+person_related_count: 24
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Scientism]]"
   - "[[Empiricism]]"
-  - "[[Document]]"
   - "[[Paradigm]]"
   - "[[International Education]]"
   - "[[Discourse]]"
@@ -55,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # George Psacharopoulos
@@ -83,7 +82,7 @@ updated: 2026-10-07
 > - **1969** 获美国芝加哥大学经济学博士学位，深受西奥多·舒尔茨（Theodore Schultz）与加里·贝克尔（Gary Becker）[[Human Capital Theory\|人力资本理论]]熏陶。
 > - **1970–1981** 任教于伦敦政治经济学院（LSE）比较教育与经济学系，1973 年出版里程碑著作《教育收益率：国际比较》，奠定跨国教育回报率计算的经验分析规程。
 > - **1981–1998** 加入[[World Bank\|世界银行]]，历任教育研究处处长、人力资源与社会发展局首席顾问及教育政策部主管；期间主持起草 1980 年代及 1990 年代世行教育旗舰战略，推动世界银行脱离[[UNESCO\|教科文组织]]的技术依附。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
-> - **1998–至今** 离开世行后曾当选希腊议会议员，并持续担任欧洲大学研究所（EUI）、世界银行与国际智库的特聘资深顾问，2018 年与哈里·帕特里诺斯联合发布涵盖 60 年[[Document\|文献]]的全球[[Return on Investment\|教育投资回报率]]综述。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 548)]]
+> - **1998–至今** 离开世行后曾当选希腊议会议员，并持续担任欧洲大学研究所（EUI）、世界银行与国际智库的特聘资深顾问，2018 年与哈里·帕特里诺斯联合发布涵盖 60 年文献的全球[[Return on Investment\|教育投资回报率]]综述。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 548)]]
 
 ---
 
@@ -155,7 +154,7 @@ updated: 2026-10-07
 > > 比较教育学科史学者对战后人力资本跨国实证建模的反思与学术大论战。
 > >
 > > - **萨卡罗普洛斯与实证经济学派** 秉持自然科学一元论，坚信存在跨越时空与国界的通用单一[[Scientific Method|科学方法]]，通过大样本跨国横截面数据检验教育收益率函数。
-> > - **卡扎米亚斯与科学社会学家（[[Bernard Barber|巴伯]]）** 指责这种实证[[Empiricism|经验主义]]陷入了“唯方法论主义”（Methodologism），将客观研究与复杂的社会文化、历史情境及不可测量之物人为割裂，其模型客观上充当了战后国家发展计划与多边金融援助规避政治问责的合法化借口。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
+> > - **卡扎米亚斯与科学社会学家（巴伯）** 指责这种实证[[Empiricism|经验主义]]陷入了“唯方法论主义”（Methodologism），将客观研究与复杂的社会文化、历史情境及不可测量之物人为割裂，其模型客观上充当了战后国家发展计划与多边金融援助规避政治问责的合法化借口。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
 
 > [!critique]- 批评索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 揭示萨卡罗普洛斯所主导构建的 1,120 项教育回报率数据库，是世界银行为了在国际组织竞争中独占鳌头而打造的自指性政策研究帝国，将公共教育政策全面窄化为金融资本投资逻辑。

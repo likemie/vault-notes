@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 34
+fact_related_count: 32
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -27,7 +27,6 @@ tags:
 related_concepts:
   - "[[Teacher Professional Agency]]"
   - "[[Grandes Ecoles]]"
-  - "[[Document]]"
   - "[[Critical Thinking]]"
   - "[[Problem Solving]]"
   - "[[Creativity]]"
@@ -40,7 +39,6 @@ related_concepts:
   - "[[School Choice]]"
   - "[[Performance Pay]]"
   - "[[Endogenous and Exogenous Privatisation]]"
-  - "[[Attrition]]"
   - "[[Professional Judgment]]"
   - "[[Discourse]]"
   - "[[Democratising Evidence]]"
@@ -68,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # National Education Association
@@ -94,7 +92,7 @@ updated: 2026-10-07
 > - **1857–1960 年代 — 全国学术团体的创立与课程标准奠定** 1857 年创立后于 1870 年更名为全美教育协会（NEA）；早期主要由[[Grandes Ecoles|大学校]]长与学区督学主导，具有浓厚的精英学术学会色彩。1892 年设立著名的“十人委员会”（Committee of Ten），确立了全美中等教育以核心学术科目为基础的现代课程标准体系。
 > - **1960–2000 年代 — 劳工工会化转型与联邦教育立法攻坚** 1960 年代伴随公立雇员集体谈判权兴起，NEA 逐步从传统专业协会转型为具有强大集体谈判权与基层动员能力的现代劳工工会；1979 年通过强有力的两党游说推动卡特政府设立美国内阁级教育部（US Department of Education）；此后在《[[Elementary and Secondary Education Act of 1965\|初等与中等教育法]]案》（ESEA）历次再授权中坚定捍卫公立学校财政拨款与教师编制。
 > - **2000 年代至今 — 21 世纪技能引领与跨国循证共治突破** 
->   - **国家课程标准审读与专业纠偏（2009–2010）** 在[[Common Core State Standards|共同核心州立标准]]（CCSS）方案设计阶段，面对学术实证[[Document|文献]]的广泛空白，全美教育协会抽调全美委员会认证教师（National-Board Certified Members）组成专家审查组，对草案进行多轮次封闭审读，并与起草团队面对面对质。NEA 教师团队重点针对英语语言艺术（ELA）标准提出关键专业修正，坚持将“评估信息的价值与相关性”（judging the worthiness and relevance of information）纳入核心阅读素养，并严格区分“支撑性技能（enabling skills）”与“终极教学目标（goals）”，清理脱离课堂现实的晦涩学术行话，成为保障国家标准具备教学可行性的关键专业力量。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 15, 20)]]
+>   - **国家课程标准审读与专业纠偏（2009–2010）** 在[[Common Core State Standards|共同核心州立标准]]（CCSS）方案设计阶段，面对学术实证文献的广泛空白，全美教育协会抽调全美委员会认证教师（National-Board Certified Members）组成专家审查组，对草案进行多轮次封闭审读，并与起草团队面对面对质。NEA 教师团队重点针对英语语言艺术（ELA）标准提出关键专业修正，坚持将“评估信息的价值与相关性”（judging the worthiness and relevance of information）纳入核心阅读素养，并严格区分“支撑性技能（enabling skills）”与“终极教学目标（goals）”，清理脱离课堂现实的晦涩学术行话，成为保障国家标准具备教学可行性的关键专业力量。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 15, 20)]]
 >   - **跨国循证协商建制（2011）** 2011 年联合美国教育部前部长阿恩·邓肯（Arne Duncan）、[[American Federation of Teachers|美国教师联盟]]（AFT）、[[OECD|经合组织]]（OECD）及[[Education International|国际教育协会]]（EI）共同创设[[International Summits on the Teaching Profession|国际教师职业峰会]]（International Summits on the Teaching Profession, ISTP），成为全球唯一实现民选教育部长与教师工会领袖闭门平等协商的跨国治理平台。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 211)]]
 >   - **4C 核心技能框架确立（2012）** 2012 年发布里程碑式指南《为全球社会培养 21 世纪学生：教育者 4C 指南》，将[[Critical Thinking|批判性思维]]、[[Problem Solving|问题解决]]、沟通、协作以及[[Creativity|创造力]]与创新确立为全美基础教育[[21st Century Skills and Competencies Discourse|核心素养]]支柱。[[Argument_Park_2026_TSC|(Park et al., 2026, p. 1)]]
 >   - **抵制片面测试与主办第 11 届 ISTP 峰会（2015–2021）** 2015 年深度推动《[[Every Student Succeeds Act|每个学生成功法]]案》（ESSA 2015）通过，终结有缺陷的狭隘高利害统考惩罚机制；2021 年在华盛顿联合主办第 11 届 ISTP 峰会，围绕后疫情时代教育重建、教师身心福祉与[[Whole Person Education|全人教育]]达成全球共识。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 216)]]
@@ -159,7 +157,7 @@ updated: 2026-10-07
 > > 保守派与新自由主义市场化改革者（倡导凭证[[School Choice\|择校]]、特许学校扩张、按学生考试成绩发放[[Performance Pay\|绩效工资]]及取消教师终身聘用保护）长期指责 NEA 阻碍教育创新与清除不合格教师。
 > >
 > > - **批评视角** 认为工会严格的资历制与聘用保护压制了青年优秀教师的积极性，增加了学校解雇低效教师的行政成本。
-> > - **工会立场** 坚决指出缺乏工会保护的教师极易成为地方行政专断的牺牲品；集体谈判不仅是维权手段，更是维护专业独立性与防止公共[[Endogenous and Exogenous Privatisation\|教育私有化]][[Attrition\|流失]]的最后防线。
+> > - **工会立场** 坚决指出缺乏工会保护的教师极易成为地方行政专断的牺牲品；集体谈判不仅是维权手段，更是维护专业独立性与防止公共[[Endogenous and Exogenous Privatisation\|教育私有化]]流失的最后防线。
 >
 > > [!axis] 政治行动与政党结盟争议
 > > 批评者质疑 NEA 经常性为特定政党候选人背书并投入巨额政治捐款，可能造成部分持不同政治立场会员的异化感。

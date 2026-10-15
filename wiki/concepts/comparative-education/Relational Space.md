@@ -7,7 +7,7 @@ aliases:
 summary: "将空间理解为社会网络、制度安排与耐用材料构成的动态拓扑构型而非静态领土容器；在教育政策研究中用于解构全球与国家二元对立，透视政策网络中的策略性外在化以及耐用客体构建的异层支配秩序。"
 type: concept
 domain: "comparative-education"
-related_count: 48
+related_count: 45
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -28,11 +28,9 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Space of Flows]]"
   - "[[Discourse]]"
-  - "[[Hypothesis]]"
-  - "[[Transfer Translation Transformation]]"
+  - "[[Transfer Space]]"
   - "[[Shape-Shifting]]"
   - "[[Externalization]]"
-  - "[[Transfer Space]]"
   - "[[Recontextualization]]"
   - "[[Policy Mobility]]"
   - "[[Policy Borrowing]]"
@@ -44,7 +42,6 @@ related_concepts:
   - "[[Policy Brokerage]]"
   - "[[Champ]]"
   - "[[Variable]]"
-  - "[[Document]]"
   - "[[Co-affiliation]]"
   - "[[Venture Philanthropy]]"
 related_theories:
@@ -84,7 +81,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> 关系性空间（Relational Space）是空间社会学与比较教育研究中的核心[[Ontology\|本体论]][[Paradigm\|范式]]，指将空间理解为由社会行动者、制度网络与权力实践相互交织而动态生成的网络拓扑构型，而非先验给定、边界固定的物理领土或静态地理容器（[[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015]]; Murdoch, 2006）。在跨国教育政策、批判[[Policy Network\|政策网络]]与社会-物质[[Assemblage\|装配]]（assemblage）视阈中，该范式不仅打破了传统“全球与地方”、“国家与国际”的二元对立，主张将全球与国家视为高度相互依存的关系性空间（interdependent spaces）而非物理隔离的孤立处所（distinct places）（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024, p. 540]]）；更进一步指出，关系性空间不仅是主观人际互动，而且依赖于税法豁免法条、公司法人注册与证据量规等“耐用客体”（durable materials）的持续装配，从而在传统国家科层管辖之外构筑起具有排他性与支配性的异层治理拓扑。[[Argument_Rowe_2022_IJER\|(Rowe, 2022, p. 8)]]; [[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 520–522)]]
+> 关系性空间（Relational Space）是空间社会学与比较教育研究中的核心[[Ontology\|本体论]][[Paradigm\|范式]]，指将空间理解为由社会行动者、制度网络与权力实践相互交织而动态生成的网络拓扑构型，而非先验给定、边界固定的物理领土或静态地理容器（[[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015]]; Murdoch, 2006）。在跨国教育政策、批判[[Policy Network\|政策网络]]与社会-物质装配（[[Assemblage]]）视阈中，该范式不仅打破了传统“全球与地方”、“国家与国际”的二元对立，主张将全球与国家视为高度相互依存的关系性空间（interdependent spaces）而非物理隔离的孤立处所（distinct places）（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024, p. 540]]）；更进一步指出，关系性空间不仅是主观人际互动，而且依赖于税法豁免法条、公司法人注册与证据量规等“耐用客体”（durable materials）的持续装配，从而在传统国家科层管辖之外构筑起具有排他性与支配性的异层治理拓扑。[[Argument_Rowe_2022_IJER\|(Rowe, 2022, p. 8)]]; [[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 520–522)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 空间并非容纳社会事件的客观容器，而是由社会关系、制度联结与网络[[Assemblage\|组装]]（Assemblage）持续生产的效果。
@@ -112,7 +109,7 @@ updated: 2026-10-15
 > |------|-----------------------------|------------------------------|--------------------------|
 > | **空间本质** | 社会关系、制度网络与[[Discourse\|话语]]实践生成的动态拓扑 | 边界固定的地理领土与行政管辖物理容器 | 电子脉冲、全球资本与信息技术构建的技术拓扑 |
 > | **全球/国家关系** | 相互依存、多维渗透与共生的重叠空间 | 外部环境与内部主权的二元对立与排他割裂 | 超越并架空民族国家的无缝技术网络与速度支配 |
-> | **知识流动[[Hypothesis\|假设]]** | 知识在转移空间（Transfer Space）中被[[Transfer Translation Transformation\|转译]]重构 | 知识从发源国到输入国的线性空间平移 | 去语境化信息在全球信息通道中的瞬时全域覆盖 |
+> | **知识流动假设** | 知识在[[Transfer Space\|转移空间]]（Transfer Space）中被转译重构 | 知识从发源国到输入国的线性空间平移 | 去语境化信息在全球信息通道中的瞬时全域覆盖 |
 > | **治理分析焦点** | 行动者网络[[Assemblage\|组装]]、策略性外在化与两阶段过滤 | 主权国家的国家利益、科层规制与边境管控 | 跨国精英网络、自动化算法协议与全球流动控制 |
 
 ---
@@ -147,7 +144,7 @@ updated: 2026-10-15
 ### 命题一　空间由行动者网络动态构型而非由领土边界先验规定
 
 > [!concept-lens] 网络生产空间
-> 探讨社会学空间转向如何打破地理容器[[Hypothesis\|假设]]，确立以网络拓扑为基准的空间本体。
+> 探讨社会学空间转向如何打破地理容器假设，确立以网络拓扑为基准的空间本体。
 
 > [!claim] [[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015)]]
 > **网络配置对实践空间的动态生成** 空间并非等待事物填入的被动空盒，而是由行动者网络持续交织生成的社会效果。在教育知识传播中，不存在脱离沟通网络的绝对空间；知识也不是在固定地点生产后再向外扩散，而是在跨越不同节点的沟通交互网络中被共同建构。教育空间分析的核心任务从测绘领土地图转向解析行动者网络的配置与[[Assemblage\|组装]]过程。[[Argument_Beech_2015_GSE\|(Beech & Artopoulos, 2015, pp. 182–184)]]
@@ -166,7 +163,7 @@ updated: 2026-10-15
 
 ### 命题三　转移空间是政策知识转译与意义重塑的实质性关系场域
 
-> [!concept-lens] [[Transfer Space\|转移空间]]中的[[Transfer Translation Transformation\|转译]]与过滤
+> [!concept-lens] [[Transfer Space\|转移空间]]中的转译与过滤
 > 分析[[Policy Borrowing\|政策借用]]在转移空间中所经历的多阶段非对称筛选与[[Going Native\|本土化]]变异。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]]
@@ -202,7 +199,7 @@ updated: 2026-10-15
 > - **2005–2006 — 人文地理学与社会学空间转向** Massey 提出将空间视作多元共存之维；Murdoch 阐述网络对[[Lefebvre's Spatial Triad|空间的生产]]机制，为超越绝对空间奠定理论基石。
 > - **2014–2015 — 比较教育学科的空间论引入** Larsen & Beech 以及 [[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015)]] 正式将关系性空间概念引入比较教育，主张超越[[Methodological Nationalism\|方法论民族主义]]，从网络生成与知识沟通过程理解教育转移。
 > - **2020–2023 — 跨国[[Policy Network\|政策网络]]与[[Transfer Space\|转移空间]]概念化** Diane Stone 提倡跨国政策研究的[[Methodological Transnationalism\|方法论跨国主义]]；Porto de Oliveira and Osorio Gonnet (2023) 提出“转移空间”（Transfer Space），使关系性空间在政策分析中具备可操作的中介载体。
-> - **2022–2023 — 批判政策网络与社会-物质[[Assemblage\|装配]]实证应用** 埃玛·罗威（Emma Rowe）结合社会-物质理论（Law, 1992; Murdoch, 2006），将关系性空间拓展至[[Philanthrocapitalism\|慈善资本主义]]与国家科研机构治理分析，揭示立法修正案、法人实体与证据阶梯等耐用客体如何在关系性网络拓扑中形塑“防野狗围栏”式的排他秩序与超流动异层权力。[[Argument_Rowe_2022_IJER\|Rowe (2022)]]; [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]]
+> - **2022–2023 — 批判政策网络与社会-物质装配实证应用** 埃玛·罗威（Emma Rowe）结合社会-物质理论（Law, 1992; Murdoch, 2006），将关系性空间拓展至[[Philanthrocapitalism\|慈善资本主义]]与国家科研机构治理分析，揭示立法修正案、法人实体与证据阶梯等耐用客体如何在关系性网络拓扑中形塑“防野狗围栏”式的排他秩序与超流动异层权力。[[Argument_Rowe_2022_IJER\|Rowe (2022)]]; [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]]
 > - **2024 — [[Governing by Numbers\|数字治理]] 2.0 时代的关系性空间理论升华** [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] 进一步发展关系性空间论，确立国家与全球为相互依存空间，系统解析国际组织[[Policy Brokerage\|政策中介]]与国家政府多阶段过滤在转移空间中的动态博弈。
 
 ---
@@ -217,7 +214,7 @@ updated: 2026-10-15
 > > - **网络空间派** 坚称全球化与数字化使信息和[[Policy Mobility\|政策流动]]实质性穿透了地理边界，若退回领土容器视角将彻底失去对跨国治理的解释力。[[Argument_Beech_2015_GSE\|(Beech & Artopoulos, 2015)]]
 > > - **新现实主义/主权学派** 批评关系性空间视角容易滑向去中心化的流动浪漫主义，在面对国家安全管控、制裁封锁与教育本土主权防御等硬性领土权力时解释力受限。
 >
-> > [!axis] [[Transfer Space\|转移空间]]中的[[Transfer Translation Transformation\|转译]]是促进了政策杂糅还是隐蔽了新自由主义同质化
+> > [!axis] [[Transfer Space\|转移空间]]中的转译是促进了政策杂糅还是隐蔽了新自由主义同质化
 > > 关于转移空间内的中介活动究竟赋予了本土多元转译能动性，还是更有效地隐蔽推行了全球量化同质化规制。
 > >
 > > - **本土能动论** 强调行动者在转移空间中的重构、抵抗与策略性借用，认为政策输入永远伴随[[Recontextualization\|再脉络化]]变异。
@@ -235,7 +232,7 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | 挪威能力课程改革（5 个专家委员会[[Document\|文献]] vs 最终部长令）；全球 30 个涉教育国际组织 | 跨国政策咨询文献引用网络追踪；国际组织职能分类数据库 | 政策咨询采纳率；经济类国际组织在教育领域的占比 | 专家委员会共引 464 篇文献，最终部长令急剧收缩至 22 篇（其中 20 篇被[[OECD\|经合组织]]审查组垄断）；涉教育国际组织中 33.3% 属于经济协调类 | — | 实证揭示主权国家在关系性[[Transfer Space\|转移空间]]中跨周期的剧烈行政过滤，以及跨界经济组织在关系性网络中的优势地位 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | 挪威能力课程改革（5 个专家委员会文献 vs 最终部长令）；全球 30 个涉教育国际组织 | 跨国政策咨询文献引用网络追踪；国际组织职能分类数据库 | 政策咨询采纳率；经济类国际组织在教育领域的占比 | 专家委员会共引 464 篇文献，最终部长令急剧收缩至 22 篇（其中 20 篇被[[OECD\|经合组织]]审查组垄断）；涉教育国际组织中 33.3% 属于经济协调类 | — | 实证揭示主权国家在关系性[[Transfer Space\|转移空间]]中跨周期的剧烈行政过滤，以及跨界经济组织在关系性网络中的优势地位 |
 > | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]]; [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | 澳大利亚公立教育政策网络与国家级证据中介（[[Social Ventures Australia\|SVA]]、[[Australian Philanthropic Services\|APS]]、[[Australian Schools Plus]]、[[Evidence for Learning\|E4L]]、[[Australian Education Research Organisation\|AERO]] 历时二十年网络） | 质性网络拓扑测绘（Gephi）、监管档案调档、税法与公司法文本追踪（[[Process Tracing\|过程追踪]]与社会-物质分析） | 组织间[[Co-affiliation\|共同从属度]]；董事会兼职频次；立法特许条款与免税资质获批 | 揭示 4 层控股网络及跨界投行精英在 5 个中介实体间高度重叠兼职；推动《1997年所得税评估法》修正特许 [[Deductible Gift Recipient\|DGR1]] 避税资质；获得 5000 万澳元公私联合注资及 1500 万澳元非公开竞标 | — | 实证证明关系性空间通过法律规章与中介实体等耐用客体得以物理化锚定，生成独立于科层管辖的异层治理秩序 |
 
 ---

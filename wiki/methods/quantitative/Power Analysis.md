@@ -73,7 +73,7 @@ updated: 2026-05-31
 ## 适用场景
 
 > [!success]
-> - 规划任何涉及[[Hypothesis\|假设]]检验的[[Quantitative Research\|量化研究]]时，均应在数据收集前进行功效分析。
+> - 规划任何涉及假设检验的[[Quantitative Research\|量化研究]]时，均应在数据收集前进行功效分析。
 > - [[Survey Research\|调查研究]]中，需要确定[[Sample Size Determination\|样本量]]以检测[[Variable\|变量]]间关联。
 > - [[Experimental Research\|实验研究]]中，需要估计每个条件下检测显著组间差异所需的人数。
 > - 许多科学期刊现在要求在方法部分报告功效分析（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）。

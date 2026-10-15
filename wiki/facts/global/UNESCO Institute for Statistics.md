@@ -11,9 +11,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 24
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 23
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: specialized-un-institute
 headquarters: "蒙特利尔（加拿大）"
@@ -35,7 +35,6 @@ related_concepts:
   - "[[International Large-Scale Assessments]]"
 related_theories: []
 related_methods:
-  - "[[Exploratory Factor Analysis]]"
   - "[[Questionnaire]]"
 related_instruments: []
 related_persons: []
@@ -71,7 +70,7 @@ updated: 2026-10-15
 > [[UNESCO\|联合国教科文组织]]统计研究所（UNESCO Institute for Statistics，UIS）是联合国系统内唯一专责教育、科学、文化与传播领域跨国可比统计数据生产的官方机构，为《2030 年可持续发展议程》第四项教育目标（[[UN Sustainable Development Goals\|SDG 4]]）的全球法定监测体系提供权威底层数据支撑，是[[Global Education Governing Complex\|全球教育治理复合体]]借以构建"[[Governing by Numbers\|数字治理]]"的关键[[Data Infrastructure\|数据基础设施]]。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541, 543)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 1999 年由联合国教科文组织大会决议通过、在加拿大蒙特利尔正式设立，作为回应 1990 年《[[Education for All\|全民教育]]》（[[Exploratory Factor Analysis\|EFA]]）宣言后国际社会对权威跨国可比教育数据的迫切需求而建立。
+> - **成立时间 / 创设背景** 1999 年由联合国教科文组织大会决议通过、在加拿大蒙特利尔正式设立，作为回应 1990 年《[[Education for All\|全民教育]]》（EFA）宣言后国际社会对权威跨国可比教育数据的迫切需求而建立。
 > - **总部地点 / 业务辐射** 总部设于加拿大蒙特利尔，为全球 200 余个国家和地区定期收集、核查并发布教育统计年报数据；UIS 数据库（UIS Databank）是联合国所有监测系统的官方统计权威来源。
 > - **法人属性与经费基础** 作为[[UNESCO\|联合国教科文组织]]下设具有独立预算的一类专业统计研究所，经费由成员国缴款与多方捐助共同构成；与[[World Bank\|世界银行]]、[[OECD\|经合组织]]等建立数据共享与联合发布协议。
 > - **核心职责** 制定并维护[[International Education\|国际教育]]标准分类法（International Standard Classification of Education，ISCED），为全球教育政策比较分析提供统一的分类口径基准，是国家间教育统计可比性的根本保障。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 543)]]
@@ -81,7 +80,7 @@ updated: 2026-10-15
 ## 历史沿革与组织演变
 
 > [!dev-timeline]- 组织发展历程
-> - **1999 年 — 响应 [[Exploratory Factor Analysis\|EFA]] 数据需求而成立** [[UNESCO\|联合国教科文组织]]大会批准设立 UIS，弥补[[International Education\|国际教育]]统计领域数据[[Reliability\|可靠性]]不足的系统性缺口；初期重点工作为在全球南方推行统一的行政统计数据收集模板。
+> - **1999 年 — 响应 EFA 数据需求而成立** [[UNESCO\|联合国教科文组织]]大会批准设立 UIS，弥补[[International Education\|国际教育]]统计领域数据[[Reliability\|可靠性]]不足的系统性缺口；初期重点工作为在全球南方推行统一的行政统计数据收集模板。
 > - **2000–2015 年 — EFA 全球监测数据权威** 成为《[[Global Education Monitoring Report\|全民教育全球监测报告]]》（EFA GMR，即后来的 [[Global Education Monitoring Report\|GEMR]]）不可替代的数据供应商；主导建立全球识字率、净入学率与学校完成率的标准化统计口径。
 > - **2015 年至今 — [[UN Sustainable Development Goals\|SDG 4]] 法定数据中枢** 《2030 年可持续发展议程》正式通过，UIS 被联合国统计委员会指定为 [[UN Sustainable Development Goals\|SDG 4]] 全部 11 项全球监测指标的法定托管数据机构（Custodian Agency），承担对各主权国数据的质量核查与全球汇总发布职责。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541, 543)]]
 

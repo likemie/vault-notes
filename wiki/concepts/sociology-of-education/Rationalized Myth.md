@@ -8,7 +8,7 @@ aliases:
 summary: "组织社会学与新制度主义核心概念，指在特定制度环境中被广泛接受为理性、正当和有效的规则与信念，作为文化认知框架为组织实践赋予合法性"
 type: concept
 domain: "sociology-of-education"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,14 +28,13 @@ related_concepts:
 related_theories:
   - "[[Institutional Isomorphism]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
 related_arguments:
   - "[[Argument_Helgetun_2022_JEP]]"
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Rationalized Myth
@@ -89,7 +88,7 @@ updated: 2026-10-08
 ## 机制与动态
 
 > [!proc] 合理化神话的生成与扩散路径
-> 1. **议题理性化[[Coding in Qualitative Research\|编码]]** 社会行动者将复杂的实践问题转化为具有标准化解法的理性化规则（如将教学改进编码为循证干预）。
+> 1. **议题理性化编码** 社会行动者将复杂的实践问题转化为具有标准化解法的理性化规则（如将教学改进编码为循证干预）。
 > 2. **[[Champ\|场域]]符号扩散** 通过政策文本、专业认证机构与国际组织等中介节点，将理性化规则确立为最佳实践蓝图。
 > 3. **默认常识沉淀** 规则脱离最初的产生语境，演变为场域内不证自明、无需反思的前提假定。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 91–92)]]
 

@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 18
+fact_related_count: 16
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -25,7 +25,6 @@ tags:
 related_concepts:
   - "[[Research Universities]]"
   - "[[Academic Freedom]]"
-  - "[[Teaching Assistant]]"
   - "[[Indirect Costs of Research]]"
   - "[[Soft-Money Faculty Model]]"
   - "[[Shopping Mall Model of Research Universities]]"
@@ -33,7 +32,6 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
-  - "[[Alfred Nobel]]"
   - "[[Vannevar Bush]]"
   - "[[Dwight D. Eisenhower]]"
   - "[[Paula Stephan]]"
@@ -50,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Seaborg Report 1960
@@ -60,7 +58,7 @@ updated: 2026-10-08
 ## 背景
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 1960 年 11 月由美国[[President's Science Advisory Committee|总统科学顾问委员会]]（President's Science Advisory Committee, PSAC）正式发布，报告由[[Alfred Nobel|诺贝尔]]化学奖得主、加利福尼亚大学伯克利分校校长格伦·西博格（Glenn T. Seaborg）领衔的主题专家小组起草完成。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 15)]]
+> - **发布时间 / 发布主体** 1960 年 11 月由美国[[President's Science Advisory Committee|总统科学顾问委员会]]（President's Science Advisory Committee, PSAC）正式发布，报告由诺贝尔化学奖得主、加利福尼亚大学伯克利分校校长格伦·西博格（Glenn T. Seaborg）领衔的主题专家小组起草完成。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 15)]]
 > - **适用地区 / 对象** 美国联邦行政分支、国会拨款委员会、全美主要[[Research Universities|研究型大学]]与医学院管理层。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 15)]]
 > - **问题背景** 二战后至 1950 年代末，美国大学在冷战科技军备竞赛与苏联人造卫星（[[Sputnik Shock 1957|Sputnik]]）上天的剧烈震动下，迫切需要升级前沿科学与工程研发能力；然而联邦科研拨款间接成本过低、地方与新兴院校科研能力薄弱、高层次科研人员短缺等结构性瓶颈日益凸显。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 10–11, 15)]]
 > - **制度位置** 承接并重构了 1945 年范内瓦·布什（[[Vannevar Bush]]）的《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》，标志着美国科学政策议程从“二战战时体制善后”全面升级为“国家战略主导的大学科研能力系统性大扩张”。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 15–17)]]
@@ -87,7 +85,7 @@ updated: 2026-10-08
 > *"If a university makes permanent professorial appointments in reliance upon particular federal project support, and rejects any residual responsibility for financing the appointment if federal funds should fail, a most unsatisfactory sort of 'second-class citizenry' is created, and we are firmly against this sort of thing."*
 
 > [!citation-card] 西博格报告论科研用工对青年学者的潜在剥削风险
-> 助研岗位与[[Teaching Assistant|助教]]岗位并非没有危险：青年科学家完全有可能遭受严重伤害——要么是将他对于生动研究探索的个人需要屈从于一个庞大科研组织的行政需求，要么是将其最初的教学热情仅仅消耗在日复一日的常规程序化任务中而沦为被剥削的对象。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 15)]]
+> 助研岗位与助教岗位并非没有危险：青年科学家完全有可能遭受严重伤害——要么是将他对于生动研究探索的个人需要屈从于一个庞大科研组织的行政需求，要么是将其最初的教学热情仅仅消耗在日复一日的常规程序化任务中而沦为被剥削的对象。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 15)]]
 >
 > *"These instruments are not without hazard: it is possible to do much harm to a young scientist, either by subordinating his need for a lively research experience to the requirements of a large organization or by exploiting his first enthusiasm for teaching by assignment exclusively to routine pedagogical tasks."*
 

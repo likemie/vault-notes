@@ -6,7 +6,7 @@ aliases:
 summary: "指在全球量化治理与新自由主义基于结果的规制驱动下，教育系统将关注焦点从教学转移到学习，并将复杂的育人过程与认知成长还原为可追踪、可量化、跨国可比的数字流、能力指标与数据库资产的认识论与社会技术过程。"
 type: concept
 domain: "sociology-of-education"
-related_count: 38
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -17,7 +17,6 @@ tags:
   - theme/comparative-education
 related_concepts:
   - "[[New Public Management]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Academic Achievement]]"
   - "[[Commensuration]]"
   - "[[Policy Borrowing]]"
@@ -40,7 +39,6 @@ related_concepts:
 related_theories:
   - "[[Governing at a Distance]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Item Response Theory]]"
   - "[[Effect Size]]"
   - "[[Correlational Research]]"
@@ -73,7 +71,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **学习数据化（Datafication of Learning）**是指在全球教育治理量化转向与[[New Public Management\|新公共管理]]结果规制的影响下，教育系统通过将外部绩效问责逻辑内化并将其[[Transfer Translation Transformation\|转译]]为从“教学”（Teaching）向“学习”（Learning）的重心转移，进而把学习者的认知发展、情感态度与[[Academic Achievement\|学业表现]]彻底转化为离散的数字[[Coding in Qualitative Research\|编码]]、跨国基准与标准化测评数据的社会技术过程。这一过程将原本深植于课堂情境、人际互动与文化脉络中的复杂育人活动，剥离、提炼并[[Commensuration\|通约化]]为跨时空可比的指标流，使[[Governing at a Distance\|远处治理]]、算法审计与跨国[[Policy Borrowing\|政策借用]]成为可能。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 546)]]
+> **学习数据化（Datafication of Learning）**是指在全球教育治理量化转向与[[New Public Management\|新公共管理]]结果规制的影响下，教育系统通过将外部绩效问责逻辑内化并将其转译为从“教学”（Teaching）向“学习”（Learning）的重心转移，进而把学习者的认知发展、情感态度与[[Academic Achievement\|学业表现]]彻底转化为离散的数字编码、跨国基准与标准化测评数据的社会技术过程。这一过程将原本深植于课堂情境、人际互动与文化脉络中的复杂育人活动，剥离、提炼并[[Commensuration\|通约化]]为跨时空可比的指标流，使[[Governing at a Distance\|远处治理]]、算法审计与跨国[[Policy Borrowing\|政策借用]]成为可能。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 546)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向认知、反思与成长等活态教育经验被全面技术化还原为机器可读、可计算、可存储的数字表征与资产形态。
@@ -88,7 +86,7 @@ updated: 2026-10-15
 > [!boundary]- 概念边界
 > - 不等于 教育数字化（Digitalisation of Education） — 数字化主要是技术载体与媒介工具的电子化转换（如电子课本、智慧教室、在线授课）；数据化则是将原本非量化的学习行为与心理状态编码为离散数据的认识论转变。
 > - 不等于 [[Learning Analytics\|学习分析]]（Learning Analytics） — 学习分析是具体的数据科学分析方法与算法[[Application Engineering|应用工程]]；学习数据化则是揭示这种技术潮流背后意识形态、社会权力结构与治理异化的批判社会学概念。
-> - 不适用于彻底排斥量化评价、追求无法通约之生命领悟的传统[[Bildung\|教化]]（Bildung）哲学[[Paradigm\|范式]]。
+> - 不适用于彻底排斥量化评价、追求无法通约之生命领悟的传统教化（[[Bildung]]）哲学[[Paradigm\|范式]]。
 
 ---
 
@@ -132,7 +130,7 @@ updated: 2026-10-15
 
 ### 命题一　结果导向的行政规制必须经由从教到学的系统论转译才能演变为学习数据化
 
-> [!concept-lens] 系统论外在化与语篇[[Transfer Translation Transformation\|转译]]
+> [!concept-lens] 系统论外在化与语篇转译
 > 阐释外部公共行政逻辑如何被教育系统内部消化吸收，以及“学习”[[Discourse|话语]]如何充当了数据化的特洛伊木马。
 
 > [!claim] Fenwick, T.
@@ -191,7 +189,7 @@ updated: 2026-10-15
 > > 关注教育的本真是追求可度量的标准化产出，还是无法被预设算法捕捉的生命成长。
 > >
 > > - **[[Positivism\|实证主义]]绩效论者** 主张“无法测量的东西就无法管理”，学习数据化提升了公共教育财政的透明度与问责水平。
-> > - **欧陆[[Bildung\|教化]]（Bildung）传统学者** 抨击数据化是将生命还原为数字的“测验还原论”，导致学校彻底沦为应试与指标跑分工厂，瓦解了师生之间深沉的伦理与情感联结。
+> > - **欧陆教化（[[Bildung]]）传统学者** 抨击数据化是将生命还原为数字的“测验还原论”，导致学校彻底沦为应试与指标跑分工厂，瓦解了师生之间深沉的伦理与情感联结。
 
 > [!critique] 外部批评
 > - **数据主权侵蚀与数字新殖民主义** 全球南方的基础学习数据被[[World Bank\|世行]]、[[Building Evidence in Education\|BE2]] 联盟与西方商业平台免费吸纳、分析与垄断，而受援国却丧失了对自己国民认知数据的解释权与治理自主性。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
@@ -215,4 +213,4 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 在探讨[[Policy Brokerage\|政策中介]]沿政策周期的运作时，运用系统论外在化与学习数据化概念，揭示新自由主义结果规制如何被[[Transfer Translation Transformation\|转译]]为微观[[Performance Indicators\|教育指标]]流水线。
+> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 在探讨[[Policy Brokerage\|政策中介]]沿政策周期的运作时，运用系统论外在化与学习数据化概念，揭示新自由主义结果规制如何被转译为微观[[Performance Indicators\|教育指标]]流水线。

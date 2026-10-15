@@ -6,7 +6,7 @@ aliases:
 summary: "PISA 声称测量未来生活所需的基本技能，但这一主张没有任何实证依据，且 PISA 测量的构念与其他国际评估高度相关"
 type: concept
 domain: "educational-policy-reform"
-related_count: 8
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -15,7 +15,6 @@ tags:
   - theory/critical-theory
   - critique/pisa
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Evaluation Research]]"
   - "[[Construct]]"
 related_theories: []
@@ -31,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-09-18
+updated: 2026-10-15
 ---
 
 # PISA Made-up Claim
@@ -53,7 +52,7 @@ updated: 2026-09-18
 ## 概念辨析
 
 > [!example]
-> - vs 单一教育观 — 捏造的主张关注 [[PISA]] 声称测量的内容是否有实证依据，单一教育观关注 PISA 将什么[[Hypothesis\|假设]]强加于全球教育系统。两者是 PISA 批评的不同维度。
+> - vs 单一教育观 — 捏造的主张关注 [[PISA]] 声称测量的内容是否有实证依据，单一教育观关注 PISA 将什么假设强加于全球教育系统。两者是 PISA 批评的不同维度。
 > - vs 扭曲的教育观 — 扭曲的教育观关注 PISA 如何定义教育目的，捏造的主张关注 PISA 声称测量的内容是否真实存在。
 
 ---

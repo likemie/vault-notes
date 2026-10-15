@@ -9,7 +9,7 @@ subtype: program
 region: europe
 fact_region: "europe"
 fact_kind: "program"
-fact_related_count: 11
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -27,7 +27,6 @@ related_methods:
   - "[[Action Research]]"
 related_instruments: []
 related_persons:
-  - "[[Peter A. Hall]]"
   - "[[Gerard Renaud]]"
   - "[[Alec Peterson]]"
 related_facts:
@@ -39,7 +38,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-08-22
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Oxford Council of Europe Studies in Curriculum and Examinations
@@ -51,7 +50,7 @@ updated: 2026-10-12
 > [!event-context] 项目档案
 > - **项目名称** 牛津—欧洲委员会课程与考试研究（Oxford Council of Europe Studies in Curriculum and Examinations，OCESCE）。
 > - **发起机构** 牛津大学教育系与欧洲委员会。
-> - **负责人** 比较教育导师威廉·[[Peter A. Hall|霍尔]]斯（W. D. Halls）负责实施，并随后成为[[International Schools Examination Syndicate\|国际学校考试辛迪加]]（[[International Schools]] Examination Syndicate，ISES）及[[International Baccalaureate\|国际文凭组织]]（International Baccalaureate Organization，IBO）的主要顾问。
+> - **负责人** 比较教育导师威廉·霍尔斯（W. D. Halls）负责实施，并随后成为[[International Schools Examination Syndicate\|国际学校考试辛迪加]]（[[International Schools]] Examination Syndicate，ISES）及[[International Baccalaureate\|国际文凭组织]]（International Baccalaureate Organization，IBO）的主要顾问。
 > - **研究对象** 欧洲委员会成员国的高中课程和考试制度，成果以 OCESCE 系列出版。
 > - **与国际文凭的关系** 项目使牛津团队能够把各国课程改革、学科要求和考试趋势带入国际文凭（International Baccalaureate，IB）的可行性研究与制度设计。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 21–22)]]
 

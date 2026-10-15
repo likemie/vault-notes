@@ -7,7 +7,7 @@ aliases:
 summary: "Meyer 提出的概念，指大学与社会之间关于毕业生地位、资格和社会认可的不成文约定。"
 type: concept
 domain: "higher-education"
-related_count: 4
+related_count: 3
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Research Universities]]"
   - "[[Global Universities Rankings]]"
-  - "[[Hypothesis]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -30,7 +29,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-12'
-updated: 2026-10-02
+updated: 2026-10-15
 ---
 
 # Social Charter
@@ -94,7 +93,7 @@ updated: 2026-10-02
 
 1. **排名只能测量"组织"维度的产出** 论文数、引用率、科研经费——这些都是大学作为"组织"的效率指标。
 2. **排名无法捕捉"制度"维度的社会宪章** 一所大学授予的文凭在社会分层中意味着什么——是通往精英阶层的门票还是服务本地的资质——没有任何排名指标可以测量。
-3. **排名因此推行了一种残缺的大学观** 它[[Hypothesis|假设]]大学=生产毕业生和论文的工厂，忽略了大学作为社会地位分配者和文化规范塑造者的制度角色。
+3. **排名因此推行了一种残缺的大学观** 它假设大学=生产毕业生和论文的工厂，忽略了大学作为社会地位分配者和文化规范塑造者的制度角色。
 
 > [!example]
 > 肯塔基大学案例 是这一关系的最佳例证：该大学的赠地使命（社会宪章=为弱势群体增加教育机会）与 USNWR 排名指标（惩罚招收低收入学生）直接冲突——大学必须在"履行社会宪章"和"追求高排名"之间二选一([[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022, pp.125–126]])。

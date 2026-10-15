@@ -6,7 +6,7 @@ summary: "用于判断观察到的差异是否足以拒绝零假设的统计判�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 25
+method_related_count: 24
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -18,7 +18,6 @@ tags:
 - research-methodology
 related_concepts:
   - "[[Null Hypothesis]]"
-  - "[[Hypothesis]]"
   - "[[Threats to Internal Validity]]"
   - "[[Evaluation Research]]"
   - "[[Internal Validity]]"
@@ -50,13 +49,13 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 ## 定义
 
 > [!def] 核心定义
-> 统计显著性（Statistical Significance）用于判断观察到的差异是否足以拒绝"两个总体均值相同"之类的[[Null Hypothesis\|零假设]]。统计检验的核心不是把差异评为"大"或"小"，而是判断检验统计量是否超过临界值；超过则认为差异具有统计显著性，否则不能排除零[[Hypothesis\|假设]]仍然成立的可能（[[Argument_Allerup_2015_Paideia\|Allerup, 2015, p.45]]）。
+> 统计显著性（Statistical Significance）用于判断观察到的差异是否足以拒绝"两个总体均值相同"之类的[[Null Hypothesis\|零假设]]。统计检验的核心不是把差异评为"大"或"小"，而是判断检验统计量是否超过临界值；超过则认为差异具有统计显著性，否则不能排除零假设仍然成立的可能（[[Argument_Allerup_2015_Paideia\|Allerup, 2015, p.45]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 统计显著性回答"观察到的差异是否可能仅由随机因素造成"，而非"差异有多大"或"差异是否重要"。
@@ -93,7 +92,7 @@ Fitz-Gibbon（1985）在[[Meta-analysis|元分析]]发展早期即主张以效�
 ## 核心要素
 
 > [!feature] 核心要素
-> - **[[Null Hypothesis\|零假设]]** 在两个分布均值比较中，零[[Hypothesis\|假设]]写作 $H_0: \mu_1 = \mu_2$（[[Argument_Allerup_2015_Paideia\|Allerup, 2015, p.45]]）。
+> - **[[Null Hypothesis\|零假设]]** 在两个分布均值比较中，零假设写作 $H_0: \mu_1 = \mu_2$（[[Argument_Allerup_2015_Paideia\|Allerup, 2015, p.45]]）。
 > - **t 值与[[Sample Size Determination\|样本量]]** 在[[Effect Size\|效应量]] $d$ 已知时，若观测数为 $n$，可构造 $t = d\sqrt{n}$；样本量越大，同样 $d$ 值越容易达到统计显著。
 > - **p 值** p 值表示在零假设成立时获得当前或更极端 $t$ 值的概率，是统计分析结果的核心呈现形式。
 > - **显著不等于重要** Terhart 强调统计显著性不说明效应大小和实践意义，需[[Effect Size\|效应量]]或原始量表差异补充（[[Argument_Terhart_2011_JCS\|Terhart, 2011, p.427]]）。

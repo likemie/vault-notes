@@ -9,7 +9,7 @@ subtype: organization
 region: denmark
 fact_region: "denmark"
 fact_kind: "organization"
-fact_related_count: 29
+fact_related_count: 25
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -28,13 +28,10 @@ related_concepts:
   - "[[Educational Brokerage Agency]]"
   - "[[Evidence-Based Education]]"
   - "[[Research Translation]]"
-  - "[[Transfer Translation Transformation]]"
-  - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Return on Investment]]"
   - "[[Knowledge Mediation]]"
   - "[[Incubation]]"
-  - "[[Hypothesis]]"
   - "[[International Education]]"
   - "[[Knowledge Transfer]]"
   - "[[Evidence-Informed Practice]]"
@@ -43,7 +40,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Systematic Review]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
 related_instruments: []
@@ -62,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-23
-updated: 2026-09-27
+updated: 2026-10-15
 ---
 
 # Danish Clearinghouse for Educational Research
@@ -78,14 +74,14 @@ updated: 2026-09-27
 > - **成立时间 / 创设背景** 2006 年创立于哥本哈根，旨在将英美兴起的循证教育理念引入北欧福利国家语境，打破丹麦教育决策长期依赖地方经验与政治妥协的传统惯性。
 > - **总部地点 / 业务辐射** 丹麦哥本哈根（依托奥克兰/奥胡斯大学 DPU 校区）；业务覆盖丹麦全境初等与中等教育学校系统，并深度参与北欧及欧洲循证教育网络协作。
 > - **法人属性与经费依托** 设于公立综合性大学内部的半官方证据中心；主要依托丹麦政府授予的 2 至 3 年期短期专项委托合同拨款维持运转，未能获得类似美国 [[What Works Clearinghouse\|WWC]] 的法定强制预算保护([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 64]])。
-> - **核心宗旨与法定职责** 开展高质量教育研究[[Systematic Review\|系统综述]]（Systematic Review），将国际与本土分散的实证因果[[Research Translation\|研究转化]]为丹麦母语表述的实践者证据指南，消除学术界与中小学一线教师之间的语言与技术[[Transfer Translation Transformation\|转译]]壁垒。
+> - **核心宗旨与法定职责** 开展高质量教育研究[[Systematic Review\|系统综述]]（Systematic Review），将国际与本土分散的实证因果[[Research Translation\|研究转化]]为丹麦母语表述的实践者证据指南，消除学术界与中小学一线教师之间的语言与技术转译壁垒。
 
 ---
 
 ## 历史沿革与组织演变
 
 > [!dev-timeline]- 组织发展与兴衰历程
-> - **2006 — 创设与奠基期** 在丹麦教育科学部支持下，奥胡斯大学正式组建丹麦教育研究清算中心，率先在欧陆确立教育[[Systematic Review\|系统综述]]技术标准与[[Document\|文献]][[Coding in Qualitative Research\|编码]]规程([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 32]])。
+> - **2006 — 创设与奠基期** 在丹麦教育科学部支持下，奥胡斯大学正式组建丹麦教育研究清算中心，率先在欧陆确立教育[[Systematic Review\|系统综述]]技术标准与文献编码规程([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 32]])。
 > - **2007 — 确立为 [[OECD]] 国际标杆样本** 经合组织在 2007 年标志性研究报告中将该中心列为全球 6 家核心中介机构之一，赞誉其在非英语国家推动循证决策的先驱探索([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 57]])。
 > - **2008–2015 — 跨国网络参与与成果高产期** 深度加入欧洲教育证据知情政策与实践网络（[[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]]），针对包容教育、小班化教学、教师合作与学生心理福祉连续发布数十部丹麦语系统综述，成为北欧循证政策的重要智力依托。
 > - **2017 — 资助中断与彻底关停** 伴随丹麦政党轮替与新一届政府财政紧缩，教育科研资助重心发生重组；政府决定不再续签 2–3 年期的清算中心资助合同，该中心因缺乏独立捐赠基金与法定预算而被迫于 2017 年彻底关停（Closed in 2017）([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 64–65]])。
@@ -96,11 +92,11 @@ updated: 2026-09-27
 
 > [!actor-grid] 组织治理与协同矩阵
 > - **行政委托方（丹麦教育部）** 掌控短期项目合同的发包权与资金规模，按政府政策优先级确定年度重大综述采购主题。
-> - **大学管理与研发层（奥胡斯大学 DPU）** 提供学术研究人员编制、办公场所与图书馆数字[[Document\|文献]]资源，保障证据审查的方法学严谨性。
+> - **大学管理与研发层（奥胡斯大学 DPU）** 提供学术研究人员编制、办公场所与图书馆数字文献资源，保障证据审查的方法学严谨性。
 > - **方法学质量审查组** 参照坎贝尔协作网（[[Campbell Collaboration]]）规程，建立双人独立文献筛选、偏倚风险评定与[[Effect Size\|效应量]]计算机制。
 > - **实践者咨询伙伴** 与丹麦教师工会、校长协会建立定期沟通渠道，确保综述结论符合丹麦学校民主平等的教学传统。
 
-> [!pathways]- 证据生产与[[Transfer Translation Transformation\|转译]]流程
+> [!pathways]- 证据生产与转译流程
 > - **需求导向议题确定** 由教育部会同一线教育专家提炼重大改革痛点（如随班就读包容性教学成效）。
 > - **全文献系统检索与筛选** 系统检索丹麦语、北欧各语种及国际英文期刊数据库，按明确标准剔除低质量研究。
 > - **母语化知识提炼** 将高深复杂的[[Meta-analysis\|元分析]]统计结论转化为简明扼要的丹麦语“证据快报”（Evidence Briefs）与政策咨询备忘录。
@@ -126,7 +122,7 @@ updated: 2026-09-27
 > [!indicators]- 影响力维度与指标
 > - **欧陆先驱示范** 在欧洲大陆率先落地[[Systematic Review\|系统综述]]机制，摆脱了长期以来对英美英语平台（如英国 [[EPPI-Centre]]、美国 [[What Works Clearinghouse\|WWC]]）的被动依赖([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 32]])。
 > - **北欧政策渗透** 撰写的综述结论被丹麦议会辩论与教育部白皮书频繁征引，推动了北欧从意识形态争论向实证证据知情的[[Paradigm\|范式]]转型。
-> - **跨国协作贡献** 成为泛欧 [[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] 跨国网络中活跃的核心发起成员，积极探索跨国教育证据的共享与[[Transfer Translation Transformation\|转译]]。
+> - **跨国协作贡献** 成为泛欧 [[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] 跨国网络中活跃的核心发起成员，积极探索跨国教育证据的共享与转译。
 
 > [!stat-cards]- 机构演进与存续关键指标
 > - **2006–2017** 存续历经 **11 年**，成为非英语国家[[Educational Evidence Clearinghouses\|证据清算中心]]从创生到夭折的完整标本
@@ -145,7 +141,7 @@ updated: 2026-09-27
 > > - **行政与财政逻辑（官方做法）** 政府部门倾向于将清算中心视为采购外部服务的“临时项目”，以便在政党换届或财政吃紧时随时缩减开支。
 > > - **中介组织存续规律（Burns & Schuller, 2022 批判）** [[Educational Brokerage Agency\|知识中介机构]]的信任建立与实践渗透需要漫长的[[Incubation\|潜伏期]]；2 至 3 年的政党轮替与合同周期与教育改革周期发生致命错配，直接扼杀了欧洲先驱机构的生命力([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 64]])。
 >
-> > [!axis] 清算机构底层转移[[Hypothesis|假设]]与实证成效验证赤字
+> > [!axis] 清算机构底层转移假设与实证成效验证赤字
 > > 丹麦清算中心作为欧洲大陆早期探索的先驱，其发展与夭折反映了[[International Education|国际教育]]清算机制在底层[[Knowledge Transfer|知识转移]]模型与因果作用假设（Wirkannahmen）上的深刻理论反思赤字。[[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, p. 10)]]
 > >
 > > - **转移目标达成度知之甚少** [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] 指出，包括丹麦教育研究清算中心、美国 [[What Works Clearinghouse|WWC]]、英国 [[EPPI-Centre]] 在内的国际代表性清算机构，关于其在多大程度上真正达成预期的转移目标（intendierte Transferziele），迄今为止在实证层面依然极度匮乏严格的经验检验。
@@ -172,4 +168,4 @@ updated: 2026-09-27
 > | [[EPPI-Centre]] | Fact (Organization) | 英国学术型证据先驱，与丹麦中心共同构成欧洲系统综述中介的早期核心力量。 |
 > | [[Kunnskapssenter for utdanning]] | Fact (Organization) | 挪威教育知识中心，北欧地区共同探索证据清算与[[Going Native\|本土化]]中介机制的兄弟机构。 |
 > | [[Systematic Review]] | Method | 机构赖以开展证据审查的核心[[Scientific Method\|科学方法]]。 |
-> | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] | Argument | 剖析丹麦清算中心等国际机构在底层转移模型与因果作用[[Hypothesis\|假设]]上的反思贫困及成效验证赤字。 |
+> | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] | Argument | 剖析丹麦清算中心等国际机构在底层转移模型与因果作用假设上的反思贫困及成效验证赤字。 |

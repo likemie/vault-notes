@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 30
+fact_related_count: 29
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -35,7 +35,6 @@ related_concepts:
   - "[[International Education]]"
   - "[[Growth]]"
   - "[[Class Size]]"
-  - "[[Attrition]]"
   - "[[Shadow State]]"
   - "[[State Educational Sovereignty]]"
   - "[[Development Education]]"
@@ -127,7 +126,7 @@ updated: 2026-10-15
 > - **旗舰研究与全球风险监测（World Economic Outlook & Global Financial Stability Report, WEO/GFSR）** 定期发布全球与区域经济预测，设定国际资本流动与宏观风险基准，主导全球经济治理议程。
 
 > [!finding-cards] 对国家公共教育的规训与结构性冲击
-> - **公共部门工资总额封顶（Wage Bill Ceilings）** 要求借贷国严格冻结或削减公立部门人员编制与薪酬支出，直接导致教育部无法招聘急需的合格中小学教师，加剧大[[Class Size|班额]]恶化与优秀师资[[Attrition|流失]]。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 107)]]
+> - **公共部门工资总额封顶（Wage Bill Ceilings）** 要求借贷国严格冻结或削减公立部门人员编制与薪酬支出，直接导致教育部无法招聘急需的合格中小学教师，加剧大[[Class Size|班额]]恶化与优秀师资流失。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 107)]]
 > - **外债偿付优先与经常性教育经费挤出** 强制将外债本息偿付置于国内民生支出之上，迫使借款国削减基础教育基础设施投资与学校日常公用经费。
 > - **促成教育服务外包与[[Shadow State|影子国家]]** 宏观财政紧缩摧毁了国家自主保障全民义务教育的能力，迫使政府引入民间资金、推行学校用户自费收费（User Fees），并将基础教学转包给跨国非政府组织，导致公共教育主权被“影子国家”架空。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 111–112)]]
 > - **外债借贷上限引发的教育投资阻断** 当极度贫困国家的外债存量达到 IMF 协定的债务上限时，即便国内存在巨大的基础教育校舍与师资缺口，亦被绝对禁止向[[Multilateral Development Bank|多边开发银行]]借入增量资金，造成长期的[[Human Capital Theory|人力资本]]投资断层。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 475)]]
@@ -192,7 +191,7 @@ updated: 2026-10-15
 > > - **演化与制度经济学批评** 批评 IMF 忽视借款国微观制度环境与官僚承载力差异，强推工资总额封顶导致基层治理毛细管系统瓦解。
 > > - **IMF 技术官僚** 辩称标准化附加条件是控制道德风险、确保借款国认真履约与保护国际出资国纳税人资金的必要防火墙。
 
-> [!citation-card] 弗里戈托与[[Carlos Alberto Torres|托雷斯]]论国际金融机构对教育行政机器的系统性瓦解
+> [!citation-card] 弗里戈托与托雷斯论国际金融机构对教育行政机器的系统性瓦解
 > 像国际货币基金组织和世界银行这样的超国家机构……就像是过渡资本的某种经济与政治部……它们是世界的领主，或是世界事实上的统治力量。……在很大程度上，教育部的瓦解是世界银行与国际货币基金组织一揽子政策直接和间接导致的后果……这一揽子方案存在严重的结构性缺陷，它不仅未能推动所预期的变革，反而加剧了学校系统的低效、低质与不平等。高登西奥·弗里戈托与[[Carlos Alberto Torres|卡洛斯·阿尔贝托·托雷斯]]（引自 [[Argument_Castro_2009_MultilateralBanks|Castro, 2009, pp. 467–468]]）
 >
 > *The supra-national agencies such as the IMF and the World Bank . . . [are] like a kind of economical and political ministries of transitional capital. . .They are the lords of the world or the de facto power in the world. (Frigotto, 1995, p. 82) . . . The dismantling of Education Ministries is, to a large extent, the direct and indirect result of the World Bank and IMF packages . . . reinforces inefficiency, poor quality and inequality in school systems. (Torres)*

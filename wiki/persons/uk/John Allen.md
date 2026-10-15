@@ -7,7 +7,7 @@ summary: "英国开放大学经济与人文地理学荣休教授，拓扑空间�
 type: person
 nationality: "uk"
 person_region: "uk"
-person_related_count: 26
+person_related_count: 24
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Relational Space]]"
   - "[[Assemblage]]"
   - "[[Paradigm]]"
-  - "[[Document]]"
   - "[[Policy Mobility]]"
   - "[[Governing by Numbers]]"
   - "[[Disciplina and Doctrina]]"
@@ -40,7 +39,6 @@ related_methods:
 related_persons:
   - "[[Sigrid Hartong]]"
   - "[[Bob Lingard]]"
-  - "[[Isaiah Berlin]]"
   - "[[Bruno Latour]]"
   - "[[Stephen Ball]]"
 related_facts:
@@ -82,7 +80,7 @@ updated: 2026-10-15
 > - **1980 年代–1990 年代** 长期执教于英国开放大学地理系，专注于服务业经济地理、城市变迁与权力空间性研究。
 > - **2003 年** 出版里程碑式专著《失落的权力地理学》（*Lost Geographies of Power*），系统批判传统政治地理学中将权力等同于领土面积或资源的容器化倾向，奠定[[Relational Space\|关系性空间]]权力观。
 > - **2010 年** 与艾伦·科克伦（Allan Cochrane）合著发表《国家权力的[[Assemblage\|组装]]：政府与政治组织中的拓扑转移》（*Assemblages of State Power: Topological Shifts in the Organization of Government and Politics*），将拓扑学与[[Assemblage\|装配理论]]全面结合，开创国家治理[[Topological Spatialisation\|拓扑重组]]新[[Paradigm\|范式]]。
-> - **2011 年** 发表经典论文《拓扑扭转：权力转移的地理学》（*Topological Twists: Power's Shifting Geographies*），成为当代社会科学与教育治理空间分析的权威引用[[Document\|文献]]。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, p. 137)]]
+> - **2011 年** 发表经典论文《拓扑扭转：权力转移的地理学》（*Topological Twists: Power's Shifting Geographies*），成为当代社会科学与教育治理空间分析的权威引用文献。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, p. 137)]]
 > - **2016 年至今** 担任开放大学荣休教授，理论成果被广泛迁移至全球教育[[Policy Mobility\|政策流动]]、[[Governing by Numbers\|数字治理]]与大[[Data Infrastructure\|数据基础设施]]研究中。
 
 ---
@@ -91,7 +89,7 @@ updated: 2026-10-15
 
 > [!work-line] 主要著作
 > - **2003 — *Lost Geographies of Power*** 颠覆了传统的权力空间分布论，提出权力的空间形态并非均匀铺展，而是以集中、弥散、诱导或[[Disciplina and Doctrina\|规训]]等不同模式在网络中差异化运作。
-> - **2010 — *Assemblages of State Power: Topological Shifts in the Organization of Government and Politics*（与 Allan Cochrane 合著）** 提出当代国家治理已从严格的行政层级转向由多元主体[[Assemblage\|装配]]而成的拓扑网络，权力以关系触达重塑区域与地方治理。
+> - **2010 — *Assemblages of State Power: Topological Shifts in the Organization of Government and Politics*（与 Allan Cochrane 合著）** 提出当代国家治理已从严格的行政层级转向由多元主体装配而成的拓扑网络，权力以关系触达重塑区域与地方治理。
 > - **2011 — *Topological Twists: Power's Shifting Geographies*** 系统奠定了“拓扑权力”概念，论证远距离主体如何通过技术中介与关系折叠实现“物理缺席却实质临近”的治理效应。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, p. 137)]]
 > - **2016 — *Topologies of Power: Beyond territory and networks*** 进一步深化[[Topological Spatialisation\|拓扑空间]]理论，系统整合领土、网络与拓扑[[Champ\|场域]]，提出多重空间性并存的复杂[[Analytic Framework\|分析框架]]。
 
@@ -100,7 +98,7 @@ updated: 2026-10-15
 ## 核心思想
 
 > [!claim] 核心主张
-> 空间并非独立于社会实践之外的客观物理舞台，而是由权力关系不断建构、拉伸与折叠的拓扑构型。传统以公里或国界测量的“远与近”不再反映权力的真实效能；通过[[Data Infrastructure\|数据基础设施]]、标准工具与象征符号的连接，处于遥远物理时空的行动者（如巴黎的 [[OECD]] 或[[Isaiah Berlin|柏林]]的 [[Institute for Educational Quality Improvement\|IQB]]）能够在微观基层空间中实现高度密集的即时在场与有效[[Disciplina and Doctrina\|规训]]（Allen, 2011; [[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 137–138]]）。
+> 空间并非独立于社会实践之外的客观物理舞台，而是由权力关系不断建构、拉伸与折叠的拓扑构型。传统以公里或国界测量的“远与近”不再反映权力的真实效能；通过[[Data Infrastructure\|数据基础设施]]、标准工具与象征符号的连接，处于遥远物理时空的行动者（如巴黎的 [[OECD]] 或柏林的 [[Institute for Educational Quality Improvement\|IQB]]）能够在微观基层空间中实现高度密集的即时在场与有效[[Disciplina and Doctrina\|规训]]（Allen, 2011; [[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 137–138]]）。
 
 > [!citation-card] 拓扑临近性与空间的折叠
 > 拓扑学视角重塑了对距离与权力的理解：

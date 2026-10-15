@@ -7,7 +7,7 @@ summary: "澳大利亚与美国著名教育政策与跨国治理学者，墨尔�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 54
+person_related_count: 51
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
@@ -49,8 +49,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Governing by Numbers]]"
   - "[[Methodological Nationalism]]"
-  - "[[Transfer Translation Transformation]]"
-  - "[[Document]]"
   - "[[Determinism]]"
   - "[[Policy Network]]"
   - "[[International Education Hubs]]"
@@ -64,7 +62,6 @@ related_theories:
   - "[[Orientalism]]"
   - "[[Governing at a Distance]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Discourse Analysis]]"
   - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
@@ -85,7 +82,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-11'
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Fazal Rizvi
@@ -134,7 +131,7 @@ updated: 2026-10-14
 > 里兹维的核心主张在于：当代教育政策转型与全球高等教育重构不能仅在民族国家封闭疆域内或孤立的技术效率层面被理解，而必须置于跨国[[Social Imaginary|社会想象]]、国际组织[[Discourse|话语]]霸权以及全球地缘政治权力转移的多维透镜下审视。一方面，以[[OECD|经合组织]]为代表的跨国行动者依托[[New Growth Theory|内生新增长理论]]建构了排他性的“[[Knowledge-Based Economy|知识经济]]社会想象”，借由标准化测评数据制造跨国[[Space of Equivalence|等值空间]]，将公平与民主诉求降格为劳动力生产率的附庸；另一方面，亚洲的经济与政治崛起构成了重塑全球高等教育系统与[[Geopolitics of Knowledge|知识地缘政治]]格局的“独立因果力量”，驱动国际化理性从传统的现代化援助向全额付费的出口创收市场理性深刻转变。
 
 > [!citation-card] 经合组织与知识经济的全球社会想象
-> 结合查尔斯·泰勒（Charles Taylor, 2004）与阿尔君·阿帕杜莱（Arjun Appadurai, 1996）的理论，经合组织在 1990 年代中期后演变为自身独立的政策行动者。该组织将经济全球化本体化为不可抗拒的客观规律，融合内生新增长理论建构起一套兼具描述性与规范性的知识经济社会想象，推动学习从正规[[Coding in Qualitative Research|编码]]化的“[[Knowledge-that and Know-how-to|知其然]]”（knowing that）转向网络化、商业化的“知其操作”（[[Procedural Knowledge|knowing how]]）与[[Lifelong Learning|终身学习]]。在[[Economic Fundamentalism|经济基要主义]]框架下，性别平权、教育公平与社会资本并未被公然否定，而是被抽离了实质正义内涵，彻底重构为服务于[[Human Capital Theory|人力资本]]开发与生产率最大化的附属工具。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438, 444–452)]]
+> 结合查尔斯·泰勒（Charles Taylor, 2004）与阿尔君·阿帕杜莱（Arjun Appadurai, 1996）的理论，经合组织在 1990 年代中期后演变为自身独立的政策行动者。该组织将经济全球化本体化为不可抗拒的客观规律，融合内生新增长理论建构起一套兼具描述性与规范性的知识经济社会想象，推动学习从正规编码化的“[[Knowledge-that and Know-how-to|知其然]]”（knowing that）转向网络化、商业化的“知其操作”（[[Procedural Knowledge|knowing how]]）与[[Lifelong Learning|终身学习]]。在[[Economic Fundamentalism|经济基要主义]]框架下，性别平权、教育公平与社会资本并未被公然否定，而是被抽离了实质正义内涵，彻底重构为服务于[[Human Capital Theory|人力资本]]开发与生产率最大化的附属工具。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438, 444–452)]]
 >
 > *The OECD has now become a policy actor in its own right, promoting a particular social imaginary of the knowledge economy where social justice and [[Social Capital Theory|social capital]] are residualized to economic imperatives.*
 
@@ -155,9 +152,9 @@ updated: 2026-10-14
 
 > [!influence-path] 影响路径
 > - **理论路径** 与 [[Bob Lingard]] 共同奠定批判性全球教育政策研究的核心[[Paradigm|范式]]，提出[[Social Imaginary|社会想象]]分析进路与[[Governing by Numbers|数字治理]]批判框架；率先将[[Critical Geopolitics|批判地缘政治学]]引入高等教育与[[Geopolitics of Knowledge|知识地缘政治]]分析，开辟国际化双重理性研究前沿。
-> - **方法路径** 结合后殖民文化理论、批判政策[[Discourse Analysis|话语分析]]与多标度空间分析，打破[[Methodological Nationalism|方法论民族主义]]的局限，提供追踪国际学生跨国流动、教育政策本土[[Transfer Translation Transformation|转译]]与制度[[Discourse|话语]]杂糅的质性批判分析示范。
+> - **方法路径** 结合后殖民文化理论、批判政策[[Discourse Analysis|话语分析]]与多标度空间分析，打破[[Methodological Nationalism|方法论民族主义]]的局限，提供追踪国际学生跨国流动、教育政策本土转译与制度[[Discourse|话语]]杂糅的质性批判分析示范。
 > - **政策路径** 深刻剖析高等教育商业化出口与[[New Public Management|新公共管理]]合谋的技术机制，为揭露留学生高额学费依赖、抵制大学学术市场化以及保护一线公共教育价值提供了强有力的理论武器。
-> - **跨国／跨领域传播** 思想广泛辐射至比较教育学、高教社会学、文化研究与国际关系学界，成为全球多国教育政策研究生培养与学术辩论的基准参考[[Document|文献]]。
+> - **跨国／跨领域传播** 思想广泛辐射至比较教育学、高教社会学、文化研究与国际关系学界，成为全球多国教育政策研究生培养与学术辩论的基准参考文献。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 系统解构[[OECD|经合组织]]从 1960–1990 年社会民主多元协商到[[Knowledge-Based Economy|知识经济]]社会想象与 [[PISA]] 数字治理的历史演进与理论机制。

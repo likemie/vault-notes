@@ -4,13 +4,12 @@ aliases: ["APA style manual", "Publication Manual of the APA", "APA 7th edition"
 summary: "美国心理学会出版手册规定的学术写作与文献著录规范，是社会科学、行为科学与教育学研究中应用最广泛的学术格式，涵盖文中引用、参考文献表、标题层级、图表呈现、章节时态及包容性无偏见语言等核心规则。"
 type: concept
 domain: "academic-writing"
-related_count: 15
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
 tags: [source/textbook, method/research-process]
 related_concepts:
-  - "[[Document]]"
   - "[[GB/T 7714-2015]]"
   - "[[Voice, Tense, and Concision in Academic Writing]]"
   - "[[Literature Review]]"
@@ -23,7 +22,6 @@ related_concepts:
 related_theories:
   - "[[Critical Theory]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Quantitative Research]]"
   - "[[Correlational Research]]"
 related_persons: []
@@ -33,14 +31,14 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-31
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 # APA Style
 
 ## 定义
 
 > [!def] APA 格式（APA Style）
-> APA 格式（APA Style）是由美国心理学会（American Psychological Association, APA）在其《美国心理学会出版手册》（*Publication Manual of the American Psychological Association*）中确立的学术写作与引文著录规范体系。它是全球社会科学、教育学、心理学和行为科学领域最通行的学术标准，涵盖正文[[Document\|文献]]引用、文后参考文献表、论文结构、标题五级系统、图表设计以及包容性语言规范（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）。
+> APA 格式（APA Style）是由美国心理学会（American Psychological Association, APA）在其《美国心理学会出版手册》（*Publication Manual of the American Psychological Association*）中确立的学术写作与引文著录规范体系。它是全球社会科学、教育学、心理学和行为科学领域最通行的学术标准，涵盖正文文献引用、文后参考文献表、论文结构、标题五级系统、图表设计以及包容性语言规范（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** APA 格式提供了一整套标准化的学术交流形式语言，旨在规范研究成果的呈现逻辑、证据引证路径和出版排版机制。
@@ -59,9 +57,9 @@ updated: 2026-10-08
 > | 维度 | APA Style（第7版） | [[GB/T 7714-2015]] | Chicago Style（第17版） | MLA Style（第9版） |
 > |---|---|---|---|---|
 > | **主要应用领域** | 心理学、教育学、社会科学、管理学 | 中国学术期刊、高校硕博学位论文、专著 | 历史学、经济学、综合人文社科 | 文学、语言学、艺术、人文学科 |
-> | **核心引用制式** | 著者-出版年制（Author-Date） | 顺序[[Coding in Qualitative Research\|编码]]制 / 著者-出版年制 | 注释-书目制（Notes-Bib）/ 著者-出版年制 | 著者-页码制（Author-Page） |
+> | **核心引用制式** | 著者-出版年制（Author-Date） | 顺序编码制 / 著者-出版年制 | 注释-书目制（Notes-Bib）/ 著者-出版年制 | 著者-页码制（Author-Page） |
 > | **文中引用示例** | `(Author, 2022)` | `[1]` 或 `(Author, 2022)` | `(Author 2022)` 或 脚注 `^1` | `(Author 45)` |
-> | **[[Document\|文献]]类型代码** | 无（通过斜体刊名/书名区分） | 强制代码（`[J]`, `[M]`, `[D]`, `[EB/OL]` 等） | 无 | 无 |
+> | **文献类型代码** | 无（通过斜体刊名/书名区分） | 强制代码（`[J]`, `[M]`, `[D]`, `[EB/OL]` 等） | 无 | 无 |
 > | **出版地要求** | 已取消出版地（仅保留出版社名） | 必须标注单一城市名（如 `北京:`） | 必须标注城市名与州名（如 `Chicago, IL:`） | 已取消出版地 |
 > | **DOI / URL 呈现** | 统一为标准可点击链接（`https://doi.org/...`） | 文本呈现或链接 | 文本或链接 | 推荐附完整 DOI/URL |
 
@@ -90,7 +88,7 @@ APA 格式采用“著者-出版年”制，主要分为**括号引用（Parenth
 
 ### 参考文献表四大核心要素（Reference List Elements）
 
-参考[[Document|文献]]表置于文末，所有条目按第一作者姓氏字母顺序升序排列，采用**悬挂缩进（Hanging Indent 0.5 英寸 / 1.27 cm）**。每个条目均围绕四大核心问题构建：
+参考文献表置于文末，所有条目按第一作者姓氏字母顺序升序排列，采用**悬挂缩进（Hanging Indent 0.5 英寸 / 1.27 cm）**。每个条目均围绕四大核心问题构建：
 
 ```text
 责任者（Who）        年代（When）          题名（What）                      来源与出处（Where）
@@ -216,7 +214,7 @@ APA 格式对学术论文不同章节的动词时态与语态提出了明确的�
 ## 争议与批评
 
 > [!warning] 频繁改版的迁移成本与工具依赖
-> - **版本迭代成本** APA 格式从第 6 版到第 7 版的规则变更（如取消出版地、et al. 阈值调整为 3 人、DOI 格式变更）导致大量既有[[Document\|文献]]数据库、课程大纲与学术软件需全面重新配置，增加了研究者的格式迁移负担。
+> - **版本迭代成本** APA 格式从第 6 版到第 7 版的规则变更（如取消出版地、et al. 阈值调整为 3 人、DOI 格式变更）导致大量既有文献数据库、课程大纲与学术软件需全面重新配置，增加了研究者的格式迁移负担。
 > - **软件[[Automation Bias|自动化偏差]]** 虽然 EndNote、Zotero 等引文软件极大简化了著录，但各数据库元数据清洗不全时，自动生成的 APA 格式常出现大小写错误（如期刊论文题名错误使用了 Title Case）或作者姓名颠倒，仍高度依赖人工校对。
 
 > [!warning] [[Positivism\|实证主义范式]]倾向与人文学科适配局限

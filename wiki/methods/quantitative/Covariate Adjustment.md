@@ -9,9 +9,9 @@ summary: "在统计与因果推断模型中纳入基线预测变量以减少混�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 40
-method_related_level: 5
-method_related_stars: "⭐⭐⭐⭐⭐"
+method_related_count: 39
+method_related_level: 4
+method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/covariate-adjustment
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Causality]]"
   - "[[Statistical Analysis Plan]]"
-  - "[[Document]]"
   - "[[Academic Achievement]]"
   - "[[Preregistration]]"
   - "[[Researcher Degrees of Freedom]]"
@@ -69,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Covariate Adjustment
@@ -126,7 +125,7 @@ updated: 2026-09-17
 ## 研究程序
 
 > [!proc] 通用程序
-> 1. **协[[Variable\|变量]]前置识别与理论论证** 基于既有[[Document\|文献]]与理论框架挑选关键前置协变量（如[[Pre-test and Post-test\|前测]][[Academic Achievement\|学业成绩]]、家庭社会经济地位 SES、特殊教育需求资格），坚决杜绝纳入受到干预结果影响的中介变量（Bad Controls）。
+> 1. **协[[Variable\|变量]]前置识别与理论论证** 基于既有文献与理论框架挑选关键前置协变量（如[[Pre-test and Post-test\|前测]][[Academic Achievement\|学业成绩]]、家庭社会经济地位 SES、特殊教育需求资格），坚决杜绝纳入受到干预结果影响的中介变量（Bad Controls）。
 > 2. **制定[[Statistical Analysis Plan\|统计分析计划]]并预先锁定（[[Preregistration]]）** 在干预后测数据收集前，于统计分析计划（SAP）中刚性明确主效应模型所包含的全部协变量清单，防范[[Researcher Degrees of Freedom\|研究者自由度]]与模型钓鱼。
 > 3. **基线均衡核查与前测采集** 采集试验启动前的基线数据，检验处理组与对照组在前测与背景协变量上的均值差与标准化偏差。
 > 4. **拟合协变量调整因果模型** 将基线协变量矩阵纳入回归方程，同时控制学校/班级层面的集群嵌套结构。

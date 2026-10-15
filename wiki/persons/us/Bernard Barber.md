@@ -7,10 +7,10 @@ summary: "哥伦比亚大学社会学教授、美国文理科学院院士，科�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 25
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_count: 23
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1918"
 died: "2006"
 lifespan: "1918–2006"
@@ -25,11 +25,9 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Value Neutrality]]"
   - "[[Reliability]]"
-  - "[[Document]]"
   - "[[Knowledge Production]]"
   - "[[Scientific Method]]"
   - "[[Postpositivism]]"
-  - "[[Hypothesis]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Scientific Paradigm]]"
   - "[[Paradigm]]"
@@ -54,7 +52,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-01
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Bernard Barber
@@ -93,7 +91,7 @@ updated: 2026-10-08
 
 > [!work-line] 代表著作
 > - **1952 — *Science and the Social Order*** 科学社会学开山之作，全面剖析了科学在现代民主社会中的社会控制、同行评议与价值关联。
-> - **1962 — *The Sociology of Science* (Ed.)** 与沃尔特·赫希合编，汇聚战后科学社会学前沿成果的奠基性[[Document|文献]]集。
+> - **1962 — *The Sociology of Science* (Ed.)** 与沃尔特·赫希合编，汇聚战后科学社会学前沿成果的奠基性文献集。
 > - **1972 — *Science, Salience and Social Scientific Inquiry*** 发表于《比较教育评论》，系统界定并批判[[Empiricism|唯方法论主义]]（Methodologism）的经典论文。
 > - **1983 — *The Logic and Limits of Trust*** 组织社会学与制度分析权威名著，阐释技术能力期望与道德信义义务在社会秩序维持中的功能。
 > - **1990 — *Social Studies of Science*** 晚期反思专著，重申科学[[Knowledge Production|知识生产]]中社会结构与[[Epistemology|认识论]]自主性的辩证张力。
@@ -116,7 +114,7 @@ updated: 2026-10-08
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Empiricism\|经验主义]] | 概念 | 核心批判靶标；揭露战后经验[[Positivism\|实证主义]]异化为唯方法论主义的技术迷信。 |
-> | [[Positivism\|实证主义]] | 概念 | 深刻解构其实证中立与公理化数学[[Hypothesis\|假设]]对人文价值维度的粗暴放逐。 |
+> | [[Positivism\|实证主义]] | 概念 | 深刻解构其实证中立与公理化数学假设对人文价值维度的粗暴放逐。 |
 > | [[Value Neutrality\|价值中立]] | 概念 | 揭露所谓中立方法论不过是逃避伦理反思与政治问责的技术屏障。 |
 > | [[Social Science as Legitimation Alibi\|社会科学作为合法化借口]] | 概念 | 其唯方法论批判直接启发了卡扎米亚斯揭露实证模型充当冷战技术援助与国家五年计划合法化借口。 |
 > | [[Scientific Paradigm\|科学范式]] | 概念 | 阐发科学社会学对科学[[Paradigm\|范式]]外部制度环境与同行交往规范的考察准则。 |

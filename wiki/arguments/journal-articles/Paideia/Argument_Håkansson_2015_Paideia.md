@@ -9,7 +9,7 @@ title: "Argument_Håkansson_2015_Paideia"
 argument_key: "Argument_Håkansson_2015_Paideia"
 argument_display_title: "Vad hände efter Hattierevolutionen? Undervisningsrenässansen i det svenska skolutvecklingsarbetet"
 argument_kind: "journal-article"
-argument_related_count: 9
+argument_related_count: 8
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#dbeafe"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Source of Knowledge]]"
   - "[[Effective Teaching]]"
   - "[[Epistemology]]"
-  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
@@ -120,7 +119,7 @@ citation_aliases:
 > [!warning] 局限性与批评
 > - 文章不是严格的因果评估，而是把研究综述、政策变化和一项进行中的地方研究放在一起讨论，因此更适合识别改进方向与机制，不足以证明 Hattie 直接造成了哪些结果(pp.52–59)。
 > - Håkansson 明确承认，国家项目和课堂近端策略最终会产生什么效果仍不确定，因为地方学校文化和具体情境会强烈影响改革落实(pp.57–58)。
-> - 文中对 Hattie 的方法论批评着墨不多，主要任务是解释瑞典的接受与转化过程；如果要评估 VL 本身的统计与[[Epistemology\|认识论]]问题，还需要与 Allerup et al.[[Document\|文献]]并读。
+> - 文中对 Hattie 的方法论批评着墨不多，主要任务是解释瑞典的接受与转化过程；如果要评估 VL 本身的统计与[[Epistemology\|认识论]]问题，还需要与 Allerup et al.文献并读。
 
 ## 来源
 

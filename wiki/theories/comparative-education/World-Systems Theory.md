@@ -8,7 +8,7 @@ aliases:
 summary: "由沃勒斯坦创立的历史社会学宏观理论，将全球资本主义组织为中心、半边缘和边缘三层分工结构，为比较教育学打破方法论民族主义、揭示跨国教育依附链条与国际援助政治经济学提供了核心批判范式。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 44
+theory_related_count: 42
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Geopolitics of Higher Education]]"
   - "[[Geopolitics of Knowledge]]"
-  - "[[Hypothesis]]"
   - "[[Value Neutrality]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Structural Adjustment Programs]]"
@@ -36,7 +35,6 @@ related_concepts:
   - "[[Multiplicity]]"
   - "[[Determinism]]"
   - "[[Historical Amnesia]]"
-  - "[[Attrition]]"
 related_theories:
   - "[[Structural Functionalism]]"
   - "[[Human Capital Theory]]"
@@ -70,7 +68,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-12'
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # World-Systems Theory
@@ -126,8 +124,8 @@ updated: 2026-10-07
 > [!dev-timeline] 理论演进与学术史
 > - **1974–1980 — [[Immanuel Wallerstein|沃勒斯坦]]创立宏观分析[[Paradigm|范式]]** 沃勒斯坦深入西非去殖民化实地考察后，出版四卷本巨著首卷《现代世界体系》（*The Modern World-System I*, 1974），将资本主义世界经济起源追溯至“漫长的 16 世纪”，奠定中心-半边缘-边缘宏观理论范式。
 > - **1980–1982 — [[Robert Arnove|阿诺夫]]引入比较教育学（第四阶段[[Discourse|话语]]的激进突破）** [[Robert Arnove|罗伯特·阿诺夫]]（Robert F. Arnove, 1980）发表纲领性论文《比较教育与世界体系分析》，率先将体系分析引入比较教育学；在比较教育学第四阶段话语（Discourse 4, 1970–1990）中，该理论成为颠覆[[Structural Functionalism|结构功能主义]]与[[Human Capital Theory|人力资本理论]]神话的核心基石（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a, pp. 152–153]]）。
-> - **1990s–2000s — 全球与本土辩证法的综合发展** 为克服宏观体系决定的机械倾向，阿诺夫与卡洛斯·阿尔贝托·[[Carlos Alberto Torres|托雷斯]]（Carlos Alberto Torres, 1999）构建“[[Dialectic of the Global and the Local|全球化与本土实践的辩证法]]”，将世界体系宏观政治经济学与微观学校[[Ethnography|民族志]]相贯通，并提出[[Globalization from Below|自下而上的全球化]]抗争构想。
-> - **2010s–至今 — 全球科学网络与[[Geopolitics of Higher Education|高等教育地缘政治]]反思** 世界体系理论被广泛应用于全球高等教育与[[Geopolitics of Knowledge|知识地缘政治]]研究（Olechnicka et al., 2019）；同时，以西蒙·马金森（Simon Marginson, 2025）为代表的学者批判其刚性空间[[Hypothesis|假设]]与零和剩余偏见，推动多标度国家自主性研究。
+> - **1990s–2000s — 全球与本土辩证法的综合发展** 为克服宏观体系决定的机械倾向，阿诺夫与[[Carlos Alberto Torres|卡洛斯·阿尔贝托·托雷斯]]（Carlos Alberto Torres, 1999）构建“[[Dialectic of the Global and the Local|全球化与本土实践的辩证法]]”，将世界体系宏观政治经济学与微观学校[[Ethnography|民族志]]相贯通，并提出[[Globalization from Below|自下而上的全球化]]抗争构想。
+> - **2010s–至今 — 全球科学网络与[[Geopolitics of Higher Education|高等教育地缘政治]]反思** 世界体系理论被广泛应用于全球高等教育与[[Geopolitics of Knowledge|知识地缘政治]]研究（Olechnicka et al., 2019）；同时，以西蒙·马金森（Simon Marginson, 2025）为代表的学者批判其刚性空间假设与零和剩余偏见，推动多标度国家自主性研究。
 
 ---
 
@@ -165,14 +163,14 @@ updated: 2026-10-07
 > > - **[[Immanuel Wallerstein|沃勒斯坦]]与[[Robert Arnove|阿诺夫]]现实主义世界体系派 (1980, 2009)** 坚称全球学校扩张服务于跨国资本积累与劳动分工，形式上的制度趋同掩盖了实质上的不平等依附、剥削与阶级再生产。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–106)]]
 > > - **[[John W. Meyer|约翰·迈耶]][[Stanford School|斯坦福学派]] (1997)** 主张源自启蒙理性的普遍[[Cultural Models|文化模型]]在全球自发扩散，使民族国家自发采纳现代正规学校制度作为获取文明国家合法性的“理性化神话”，国际体系是由形式平等的国家构成的世界社会。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101–104)]]、[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 152)]]
 >
-> > [!axis] [[Methodological Globalism|方法论全球主义]]与零和[[Hypothesis|假设]]批评
+> > [!axis] [[Methodological Globalism|方法论全球主义]]与零和假设批评
 > > 争论焦点在于世界体系分析的空间刚性与剩余假设是否符合过去三十年的全球发展现实。
 > >
 > > - **马金森（[[Argument_Marginson_2025_ECNUROE|Marginson, 2025]]）** 指出沃勒斯坦理论犯了**方法论全球主义（Methodological Globalism）**的镜像错误，将国家尺度完全化约为全球尺度的函数，否定国家自主能动性；其“零和剩余假设”被过去三十年全球科学与高等教育事实[[Falsification|证伪]]（如中国、新加坡、韩国大学的多极化崛起）。[[Argument_Marginson_2025_ECNUROE|(Marginson, 2025, pp. 12–13)]]
 > > - **[[Doreen Massey|多琳·马西]]的空间[[Multiplicity|多重性]]理论 (Massey, 2005)** 批评世界体系的空间[[Determinism|决定论]]，强调空间始终具有未完成的松散末端与[[Multiplicity|多重性]]，权力和等级结构绝非永久固定不变。[[Argument_Marginson_2025_ECNUROE|(Marginson, 2025, pp. 6–7, 12–13)]]
 >
 > > [!axis] 长时段史学理论与学科“[[Historical Amnesia|历史健忘症]]”的历史学悖论
-> > 争论焦点在于世界体系理论在比较教育学界普及与学科历史传统[[Attrition|流失]]之间的悖论关联。
+> > 争论焦点在于世界体系理论在比较教育学界普及与学科历史传统流失之间的悖论关联。
 > >
 > > - **卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a, pp. 154–156]]）** 深刻揭示了一个学术史悖论：沃勒斯坦本人的社会学建构深植于布罗代尔的长时段历史学；然而在比较教育学第四阶段[[Discourse|话语]]（1970–1990）全面拥抱世界体系分析时，学者们却将全部精力投入当代宏观结构的[[Ideology Critique|意识形态批判]]与当下危机分析，在客观上加速了传统历史-哲学传统的边缘化，导致学科深陷“历史健忘症”（历史论文占比跌破 5%）。
 
@@ -200,7 +198,7 @@ updated: 2026-10-07
 > | [[Robert Arnove\|罗伯特·阿诺夫]] | 人物 | 比较教育奠基引介者；率先将世界体系分析引入本学科，揭示跨国教育依附传递链条。 |
 > | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 学科史定性；将世界体系理论确立为第四阶段[[Discourse\|话语]]的批判基石，并反思长时段史学悖论。 |
 > | [[Argument_Arnove_2009_WorldSystems\|Arnove (2009)]] | 论证 | 权威专论；系统总结世界体系分析在比较教育学中的演进、跨国援助解构与本土辩证抗争。 |
-> | [[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]] | 论证 | 当代批评；以多极化全球科学事实[[Falsification\|证伪]]零和剩余[[Hypothesis\|假设]]，倡导国家尺度的相对自主性。 |
+> | [[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]] | 论证 | 当代批评；以多极化全球科学事实[[Falsification\|证伪]]零和剩余假设，倡导国家尺度的相对自主性。 |
 
 ---
 

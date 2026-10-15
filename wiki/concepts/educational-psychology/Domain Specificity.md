@@ -9,7 +9,7 @@ aliases:
 summary: "指出个体的认知能力、思维技能与认识论信念并非跨情境通用的，而是深度内嵌于特定学科知识结构与社会情境中；现代研究主张通过通用规则与学科融入相结合的混合双层模型实现认知迁移"
 type: concept
 domain: "educational-psychology"
-related_count: 55
+related_count: 52
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -36,10 +36,8 @@ related_concepts:
   - "[[Simplicity of Knowledge]]"
   - "[[Construct Validity]]"
   - "[[STEM Education]]"
-  - "[[Hypothesis]]"
   - "[[Direct Instruction]]"
   - "[[Task Structure]]"
-  - "[[Document]]"
   - "[[Construct]]"
   - "[[Creativity]]"
   - "[[Divergent Thinking]]"
@@ -59,7 +57,6 @@ related_methods:
   - "[[Discourse Analysis]]"
   - "[[Intervention Research]]"
   - "[[Questionnaire]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
   - "[[Correlational Research]]"
   - "[[Experimental Research]]"
@@ -84,7 +81,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Domain Specificity
@@ -182,7 +179,7 @@ updated: 2026-10-07
 > [!claim] [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]]
 > **跨学科通用有效性与显性混合模式的实证突破**
 > 该项对 341 项实证研究的元分析提供了里程碑式的裁决证据：
-> 1. **批判性思维具有跨学科可训练性** 教学干预在 [[STEM Education\|STEM]] 理工科（$g+ = 0.31$）、非 STEM 文社科（$g+ = 0.29$）与医学健康领域（$g+ = 0.20$）均取得显著正向效果，且组间无统计差异（$Q_b(2) = 1.05, p = .59$），彻底推翻了“批判性思维完全被学科壁垒封锁”的极端特异论[[Hypothesis\|假设]]。
+> 1. **批判性思维具有跨学科可训练性** 教学干预在 [[STEM Education\|STEM]] 理工科（$g+ = 0.31$）、非 STEM 文社科（$g+ = 0.29$）与医学健康领域（$g+ = 0.20$）均取得显著正向效果，且组间无统计差异（$Q_b(2) = 1.05, p = .59$），彻底推翻了“批判性思维完全被学科壁垒封锁”的极端特异论假设。
 > 2. **混合模式（Mixed Approach）取得最佳综合成效** 在 Ennis 的四类课程模式中，**将显性通用思维教学与具体学科内容深度融入的“混合模式”获得了最高的干预效应（$g+ = 0.38$）**，显著优于单纯的学科内隐性沉浸（$g+ = 0.23$）或纯粹的独立通用[[Direct Instruction\|直接教学]]（$g+ = 0.26$）。
 > 3. **理论启示** 批判性思维既不是纯粹的通用空洞技巧，也不是封闭于学科内部的孤立知识；最有效的教学是将通用的论证反思原则作为[[Scaffolding\|认知脚手架]]，在具体学科的真实[[Task Structure\|劣构任务]]中进行实践淬炼。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 280–281, 291–294)]]
 
@@ -194,7 +191,7 @@ updated: 2026-10-07
 > 探讨即便将“领域”细分到学科层面，是否依然过于粗放，不足以捕捉动态的课堂认知交互。
 
 > [!claim] [[William A. Sandoval|Sandoval, W. A.]]
-> **颗粒度（Grain Size）危机与动态[[Epistemic Resources\|认识论资源]]** 将“科学”或“历史”视为铁板一块的领域依然过于粗放。质性[[Discourse Analysis\|话语分析]]显示，在面对同一篇历史[[Document\|文献]]或科学文本时，学习者的认知标准会随任务目标发生即时漂移（如专业历史学家在严谨学术考据与宗教情感认同间的无缝切换）。因此，宏观领域特异性应向微观“情境特异性（Context Specificity）”深化：心智并非携带固化的学科特异信念，而是在具体社会情境中按需激活的细粒度“[[Epistemic Resources\|认识论资源]]”。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016, pp. 473–474)]]
+> **颗粒度（Grain Size）危机与动态[[Epistemic Resources\|认识论资源]]** 将“科学”或“历史”视为铁板一块的领域依然过于粗放。质性[[Discourse Analysis\|话语分析]]显示，在面对同一篇历史文献或科学文本时，学习者的认知标准会随任务目标发生即时漂移（如专业历史学家在严谨学术考据与宗教情感认同间的无缝切换）。因此，宏观领域特异性应向微观“情境特异性（Context Specificity）”深化：心智并非携带固化的学科特异信念，而是在具体社会情境中按需激活的细粒度“[[Epistemic Resources\|认识论资源]]”。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016, pp. 473–474)]]
 
 ---
 
@@ -224,13 +221,13 @@ updated: 2026-10-07
 ## 命题总览
 
 > [!contrast-table] 领域特异性核心命题体系
-> | 命题维度 | 核心论点 | 实践与研究适用情境 | 代表学者与关键[[Document\|文献]] |
+> | 命题维度 | 核心论点 | 实践与研究适用情境 | 代表学者与关键文献 |
 > |---|---|---|---|
 > | **发展序列非同步性** | 劣构与主观领域的认知发展独立于良构/客观领域，发展难度甚至呈现逆向反转。 | 跨学科素养对比、思维发展阶段评估 | [[Deanna Kuhn\|Kuhn et al. (2000)]]; Greene et al. |
 > | **测量结构特异性** | 心理测量数据显示不同学科的[[Epistemological Beliefs\|认识论信念]]在统计上构成相互独立的潜在因子。 | [[Epistemology\|认识论]]量表开发、[[Questionnaire\|问卷]][[Construct Validity\|结构效度]]验证 | [[Argument_Greene_2010_JEP\|Greene et al. (2010)]]; [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] |
 > | **跨学科有效与混合最优** | [[Critical Thinking\|批判性思维]]在所有学科均可训练，且通用显性原则与学科融入相结合的混合模式效果最强。 | 课程体系设计、批判性思维教学改革 | McPeck (1981); [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] |
 > | **微观情境资源化** | 宏观学科边界颗粒度过大，主张用微观任务情境中按需激活的认知资源替代固定领域信念。 | 课堂互动[[Discourse Analysis\|话语分析]]、真实探究任务设计 | [[Argument_Sandoval_2016_RRE\|Sandoval et al. (2016)]]; Hammer & Elby (2002) |
-> | **领域负荷与测量后果** | [[Creativity\|创造力]]与批判性思维均具领域特殊性，创造力测量依赖领域特定产出，任务特异技能重叠抬高[[Construct\|构念]]间观察相关。 | 创造力测量设计、构念间相关解读、[[Meta-analysis\|元分析]]测量[[Coding in Qualitative Research\|编码]] | [[Argument_Park_2026_TSC\|Park et al. (2026)]]; Baer (2012); Myszkowski (2024) |
+> | **领域负荷与测量后果** | [[Creativity\|创造力]]与批判性思维均具领域特殊性，创造力测量依赖领域特定产出，任务特异技能重叠抬高[[Construct\|构念]]间观察相关。 | 创造力测量设计、构念间相关解读、[[Meta-analysis\|元分析]]测量编码 | [[Argument_Park_2026_TSC\|Park et al. (2026)]]; Baer (2012); Myszkowski (2024) |
 > | **特异性层级两极优势** | 微观主题特定与宏观通用干预显著优于中观学科干预，且实证研究存在严重的理工科倾斜 | 课程单元设计、认识论教学特异性定位 | Cartiff et al. |
 
 ---

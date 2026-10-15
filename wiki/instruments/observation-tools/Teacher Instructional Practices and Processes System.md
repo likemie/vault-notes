@@ -8,9 +8,9 @@ aliases:
 summary: "由纽约大学全球儿童TIES中心爱德华·塞德曼等人研发的面向低资源、脆弱及危机冲突环境的标准化高推论课堂观察系统，围绕促进深度学习、情感支持与积极氛围以及课堂组织管理三大领域构建，通过行为发生强度与频率的精细量规评定，为弱势教育情境下的教学质量诊断与循证干预提供情境敏感的测量标尺。"
 type: instrument
 instrument_type: observation-tool
-instrument_related_count: 10
-instrument_related_level: 2
-instrument_related_stars: "⭐⭐"
+instrument_related_count: 9
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#cffafe"
 part_of: ""
 developers:
@@ -35,7 +35,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Classroom Observation]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Correlational Research]]"
 related_instruments:
@@ -94,7 +93,7 @@ TIPPS 将复杂弱势情境下的教学互动解构为三大核心支柱领域�
 > [!observation-focus] TIPPS 核心观察指标重点
 > <span class="instrument-observation-table-marker" aria-hidden="true"></span>
 >
-> | 编号 | 观察维度 | 观察重点 | 记录方式 | 判定或[[Coding in Qualitative Research\|编码]] | 来源 |
+> | 编号 | 观察维度 | 观察重点 | 记录方式 | 判定或编码 | 来源 |
 > |---|---|---|---|---|---|
 > | 1 | 情感支持 | 教师是否为经历创伤或极度贫困的儿童提供温暖接纳与心理安全感 | 连续片段观察记录 | 行为强度等级 | Seidman et al. (2018) |
 > | 2 | 深度学习 | 在缺乏纸笔教材的情境下，教师能否通过口头问题启发深入推理 | 连续片段观察记录 | 行为强度等级 | 同上 |

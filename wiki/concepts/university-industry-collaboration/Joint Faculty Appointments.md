@@ -11,7 +11,7 @@ aliases:
 summary: "产学合作中学者同时持有企业正式雇员与大学专任教授双重法律身份的高带宽协同构型。研究者以企业雇员身份解决短期专有工程难题，以大学教授身份主持长期开放科研并指导研究生；通过在个体层面并行运作化解校企时间尺度错配，但需依托成熟的学术参与团队（AET）与知识产权分割机制平衡商业保密与学术发表冲突。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 18
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,8 +30,6 @@ related_concepts:
   - "[[Technology Transfer Office]]"
   - "[[Heterogeneity]]"
   - "[[Technology Transfer]]"
-  - "[[Document]]"
-  - "[[Attrition]]"
   - "[[Variable]]"
   - "[[Paradigm]]"
 related_theories: []
@@ -48,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-04
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Joint Faculty Appointments
@@ -153,7 +151,7 @@ updated: 2026-10-14
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者与[[Document\|文献]] |
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
 > | **时间尺度协同命题** | 双重身份并行运作在个体行动者层面化解了校企在研发节奏与保密边界上的制度错配 | 高科技、人工智能与先进制程等需要理论洞察与工程实战紧密结合的领域 | UIDP (2024); [[Argument_Ramming_2025_CorporateSupport\|Ramming (2025, p. 230)]] |
 > | **高带宽治理成本命题** | 联合教职创造极高隐性知识密度的同时带来严重的双重评价冲突与组织摩擦 | 顶尖[[Research Universities\|研究型大学]]教授在跨国科技巨头设立兼职研发岗位 | [[Argument_Ramming_2025_CorporateSupport\|Ramming (2025)]] |
@@ -186,7 +184,7 @@ updated: 2026-10-14
 > > - **专有保护派** 企业出资支持学者旨在构建商业竞争壁垒，若所有成果均完全开源，企业将缺乏承担高额薪酬与研发投入的经济动力。
 
 > [!warning] 适用局限
-> 联合教职聘任机制高度依赖学者个体的自律协调能力与双方机构的成熟法务支持。在需要高度保密的国防武器研发、或理论与工程应用严重脱节的纯抽象基础数学领域，联合教职适用性较低；对于缺乏专职 [[Academic Engagement Team|AET]] 和成熟 [[Technology Transfer Office|TTO]] 治理经验的中小型企业与普通高校，极易演变为法律纠纷与人才[[Attrition|流失]]风险。
+> 联合教职聘任机制高度依赖学者个体的自律协调能力与双方机构的成熟法务支持。在需要高度保密的国防武器研发、或理论与工程应用严重脱节的纯抽象基础数学领域，联合教职适用性较低；对于缺乏专职 [[Academic Engagement Team|AET]] 和成熟 [[Technology Transfer Office|TTO]] 治理经验的中小型企业与普通高校，极易演变为法律纠纷与人才流失风险。
 
 ---
 

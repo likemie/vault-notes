@@ -7,7 +7,7 @@ title: "Argument_Lei_Ding_Chiu_2026_ERR"
 argument_key: "Argument_Lei_Ding_Chiu_2026_ERR"
 argument_display_title: "The effect of graphic organizers on cultivating higher-order thinking: Evidence from a meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 54
+argument_related_count: 52
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -51,7 +51,6 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Creativity]]"
   - "[[Brainstorming]]"
-  - "[[Document]]"
   - "[[STEM Education]]"
   - "[[Critical Thinking]]"
   - "[[Heterogeneity]]"
@@ -62,7 +61,6 @@ related_concepts:
   - "[[Floor and Ceiling Effects]]"
   - "[[Seductive Details Effect]]"
   - "[[Literature Search]]"
-  - "[[Hypothesis]]"
 related_theories:
   - "[[Cognitive Load Theory]]"
   - "[[Dual Coding Theory]]"
@@ -70,7 +68,6 @@ related_theories:
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Meta-regression]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Inter-Rater Reliability]]"
@@ -89,7 +86,8 @@ related_instruments:
   - "[[Kmet Quality Assessment Checklist]]"
 related_persons:
   - "[[Jean Piaget]]"
-related_facts: []
+related_facts:
+  - "[[World Bank]]"
 related_arguments: []
 sources:
   - "[[sources/Lei_Ding_Chiu_2026_ERR/Lei_Ding_Chiu_2026_ERR|Lei_Ding_Chiu_2026_ERR]]"
@@ -133,7 +131,7 @@ updated: 2026-09-17
 
 ### 核心变量与操作化编码表
 
-> [!index-table] 核心[[Variable\|变量]][[Operationalization\|操作化]]定义与[[Coding in Qualitative Research\|编码]]规程
+> [!index-table] 核心[[Variable\|变量]][[Operationalization\|操作化]]定义与编码规程
 > | 变量类别与维度 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
 > | **结果变量：[[Higher-Order Thinking Skills\|高阶思维倾向]]**<br>（HOT Disposition） | 个体主动探究未知、寻求理由、保持开放心智与坚持探究的主观心向与态度习惯。 | 34 项研究采用 5 点李克特量表；代表题项如“我喜欢提出前人从未想象过的问题”（Chiu & Hwang, 2024）。 |
@@ -145,7 +143,7 @@ updated: 2026-09-17
 > | **干预变量：[[Argument Mapping\|论证图]]**<br>（Argument Mapping） | 严格依循主张、证据、保证与反驳的逻辑语法，表征线性或树状论辩推导链条。 | 教学引导学生梳理争议论据与批判性写作逻辑，结构化支撑论辩推理（Botley & Hakim, 2014; Ristanto et al., 2022）。 |
 > | **干预变量：[[Concept Mapping\|概念图]]**<br>（Concept Mapping） | 包含多节点交叉连接（Cross-links）与命题连接词的复杂网状语义表征工具。 | 教学用于复杂领域概念建模，要求标明概念间命题关系，结构复杂度较高（Bilik et al., 2020; Su, 2018）。 |
 > | **调节变量：学习者学段**<br>（Grade Level） | 划分为小学、中学与大学三个发展阶段。 | 检验[[Jean Piaget\|皮亚杰]]形式运算、[[Meta-Representational Competence\|元表征能力]]成熟度与[[Self-Scaffolding\|自我脚手架]]水平对促学效应的调节作用（纳入大学 49 项、中学 17 项、小学 5 项）。 |
-> | **调节变量：宏观社会经济**<br>（GDP & Publication Year） | 纳入国家人均国内生产总值（按世界银行数据做 Z 分数标准化）与[[Document\|文献]]发表年份（反映技术发展）。 | 检验经济投入、数字化图示工具可获得性与现代教学法培训对工具促学效能的正向赋能效应（[[Meta-regression\|元回归]]模型）。 |
+> | **调节变量：宏观社会经济**<br>（GDP & Publication Year） | 纳入国家人均国内生产总值（按[[World Bank\|世界银行]]数据做 Z 分数标准化）与文献发表年份（反映技术发展）。 | 检验经济投入、数字化图示工具可获得性与现代教学法培训对工具促学效能的正向赋能效应（[[Meta-regression\|元回归]]模型）。 |
 > | **控制变量：学科与时长**<br>（Subject & Duration） | 学科划分为科学、技术、工程与数学领域（Science, Technology, Engineering, and Mathematics, [[STEM Education\|STEM]]）与人文社科；干预时长划分为 4 周以内、4 至 12 周与 12 周以上。 | 检验图形组织器的跨学科普适性与时间效应稳定性（[[Meta-analysis\|元分析]]证实学科与时长均无显著调节作用）。 |
 >
 > **图表解读** 本表系统界定了元分析中高阶思维结果构念的三元层级与二元类型，并解构了三种核心图形组织器的空间拓扑特征与实施规程，为多水平调节检验提供了标准化的变量编码框架。（pp.5–8）
@@ -157,7 +155,7 @@ updated: 2026-09-17
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **文献检索与筛选**<br>Systematic Search & PRISMA | 系统检索 Web of Science、Scopus、ERIC、PsycINFO 与 CNKI 数据库（建库至 2024 年 1 月），采用[[Graphic Organizer\|图形组织器]]关键词（concept map, mind map, argument map, visual organizer 等）与[[Higher-Order Thinking Skills\|高阶思维]]关键词（higher-order thinking, [[Critical Thinking]], problem solving, [[Creativity\|creative thinking]] 等）布尔组合检索。依据严格的实验/[[Quasi-Experimental Designs\|准实验设计]]与完整统计量报告标准，依循[[PRISMA\|系统评价和元分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）]]最终纳入 66 篇符合标准的实证[[Document\|文献]]（共 72 个[[Effect Size\|效应量]]，图 3 PRISMA 流程图）。（pp.4–5） |
+> | **文献检索与筛选**<br>Systematic Search & PRISMA | 系统检索 Web of Science、Scopus、ERIC、PsycINFO 与 CNKI 数据库（建库至 2024 年 1 月），采用[[Graphic Organizer\|图形组织器]]关键词（concept map, mind map, argument map, visual organizer 等）与[[Higher-Order Thinking Skills\|高阶思维]]关键词（higher-order thinking, [[Critical Thinking]], problem solving, [[Creativity\|creative thinking]] 等）布尔组合检索。依据严格的实验/[[Quasi-Experimental Designs\|准实验设计]]与完整统计量报告标准，依循[[PRISMA\|系统评价和元分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）]]最终纳入 66 篇符合标准的实证文献（共 72 个[[Effect Size\|效应量]]，图 3 PRISMA 流程图）。（pp.4–5） |
 > | **数据提取与质量评估**<br>Coding & Quality Assessment | 由两位研究者独立提取样本量、均值、标准差、$t/F/\chi^2$ 统计量及调节变量信息，[[Inter-Rater Reliability\|编码者间一致性信度（Inter-Rater Reliability）]]达 Krippendorff's $\alpha = 0.813$。采用 [[Kmet Quality Assessment Checklist\|Kmet 方法学质量评价量表]]（14 项准则，满分 28 分）评估各研究的组别等质性、测量信效度与控制严密性（纳入研究得分介于 17 至 28 分，$M = 23.6$）。（pp.5–8） |
 > | **效应量计算与统计建模**<br>Meta-Analysis & Meta-Regression | 计算无偏[[Effect Size\|效应量]] Hedges' $g$；采用 [[Cochran's Q Test\|Cochran's Q 检验]]与 [[I-squared Statistic\|I² 统计量]]检验效应[[Heterogeneity\|异质性]]；鉴于初级研究在教学情境与人群上的异质性，采用[[Fixed-Effect and Random-Effects Models\|随机效应模型（Random-Effects Model）]]估计总体效应；运用亚组 $Q_{between}$ 检验与[[Pairwise Wald Tests\|成对 Wald 检验（Pairwise Wald Tests）]]比较分类调节变量组间及两两亚组差异；运用单变量[[Meta-regression\|元回归（Meta-regression）]]检验连续型协变量（人均 GDP、发表年份、性别比例）。（pp.5–6, 9–10） |
 > | **发表偏倚诊断**<br>Publication Bias Diagnostics | 综合运用[[Funnel Plot\|漏斗图（Funnel Plot）]]、[[Egger Regression Test\|Egger 线性回归检验]]、Begg 秩相关检验与 [[Fail-Safe N\|Rosenthal 失安全系数（Fail-Safe N）]]系统诊断潜在[[Publication Bias\|发表偏倚]]。（pp.6, 9） |
@@ -196,7 +194,7 @@ updated: 2026-09-17
 
 > [!case] 理论案例解析：Ana 的蒲公英重金属探究与高阶思维三元结构
 > 为直观阐释高阶思维的内在运作机制，论文构建了经典教学情境案例：
-> - **观察与好奇（倾向触发）** 学生 Ana 在工厂附近的重金属污染土壤中看到生长茂盛的蒲公英，心生好奇（Curiosity）；其开放心智（[[Open-Mindedness]]）驱动她查阅学术[[Document\|文献]]并向植物修复专家请教植物吸收重金属的机制。面对晦涩难懂的学术概念，她的探究坚毅力（Perseverance）促使其克服挫折；其系统性（Systematicity）驱动她设计对照实验，系统对比清洁土壤与污染土壤中的蒲公英根系特征。
+> - **观察与好奇（倾向触发）** 学生 Ana 在工厂附近的重金属污染土壤中看到生长茂盛的蒲公英，心生好奇（Curiosity）；其开放心智（[[Open-Mindedness]]）驱动她查阅学术文献并向植物修复专家请教植物吸收重金属的机制。面对晦涩难懂的学术概念，她的探究坚毅力（Perseverance）促使其克服挫折；其系统性（Systematicity）驱动她设计对照实验，系统对比清洁土壤与污染土壤中的蒲公英根系特征。
 > - **认知加工与推论（过程展开）** Ana 借助专业仪器检验发现，污染土壤中的蒲公英含有更多重金属且根系更为错综复杂（**分析 Analysis**）；她审慎评估了根系复杂性与抗毒生存的相关性而非巧合（**评价 Evaluation**）；随后将重金属与根系结构信息综合，[[Creativity\|创造性]]地推论出基因突变可能赋予其特殊根系从而在毒土中存活（**推论与综合 Inference & Synthesis**）；最后她反思其他潜在[[Variable\|变量]]（如土壤 pH 值与水分），展现出高度的[[Metacognition\|元认知]]反思（**[[Reflective Thinking\|反思性思维]] Reflective Thinking**）。
 > - **三元层级映射** Ana 的探究过程生动表明，好奇、开放、坚毅与系统性等思维倾向是点燃探究的发动机；它们驱动了分析、评价、综合等认知过程；而这一系列心智运作最终沉淀为解决复杂真实问题的思维技能。（pp.2–3）
 
@@ -211,7 +209,7 @@ updated: 2026-09-17
 > **图表解读** 随机效应模型证实图形组织器对高阶思维具有高度显著且稳健的中到强促进效应，同时极高的组间[[Heterogeneity\|异质性]]（$I^2 = 84.0\%$）表明促学成效受到多重调节变量的深刻制约。（p.9）
 
 > [!warrant]- 推理桥梁
-> 空间隐喻理论与双重[[Coding in Qualitative Research\|编码]]理论指出，视觉空间排布利用海马体空间记忆通道将语义关系外显化，避免了纯文本阅读中[[Working Memory\|工作记忆]]对零散词句的大量维持性消耗。这一负荷卸载机制使学生能够调配更多神经加工资源用于复杂分析与推理，从而在经验层面表现出跨学科、跨国界的普遍促学效应。（pp.2–3, 11）
+> 空间隐喻理论与[[Dual Coding Theory|双重编码理论]]指出，视觉空间排布利用海马体空间记忆通道将语义关系外显化，避免了纯文本阅读中[[Working Memory\|工作记忆]]对零散词句的大量维持性消耗。这一负荷卸载机制使学生能够调配更多神经加工资源用于复杂分析与推理，从而在经验层面表现出跨学科、跨国界的普遍促学效应。（pp.2–3, 11）
 
 ---
 
@@ -335,10 +333,10 @@ updated: 2026-09-17
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **确立总体显著促进基准** [[Graphic Organizer\|图形组织器]]对学生[[Higher-Order Thinking Skills\|高阶思维]]的培养具有中等到强效的显著促进作用（$g = 0.778$），证实了空间可视化工具卸载低阶认知负荷、赋能高阶加工的理论[[Hypothesis\|假设]]。（pp.1, 9）
+> 1. **确立总体显著促进基准** [[Graphic Organizer\|图形组织器]]对学生[[Higher-Order Thinking Skills\|高阶思维]]的培养具有中等到强效的显著促进作用（$g = 0.778$），证实了空间可视化工具卸载低阶认知负荷、赋能高阶加工的理论假设。（pp.1, 9）
 > 2. **揭示思维层级与类型级差** 图形组织器对高阶思维倾向（$g = 0.945$）与认知过程（$g = 0.912$）的促进显著强于技能结果（$g = 0.560$），对[[Divergent Thinking\|发散思维]]（$g = 1.167$）的提升显著强于[[Convergent Thinking\|聚合思维]]（$g = 0.680$）。（pp.9–10）
 > 3. **厘清组织器形态结构开销** 工具形态复杂度直接决定促学效能，[[Mind Mapping\|思维导图]]（$g = 1.041$）显著优于[[Argument Mapping\|论证图]]（$g = 0.798$）与[[Concept Mapping\|概念图]]（$g = 0.548$）。（pp.9–10）
-> 4. **发现学段发展倒U型与社会技术红利** 中学生群体获益最大（$g = 1.113$），且国家人均 GDP 与近年发表[[Document\|文献]]表现出更强的促学效应，性别、学科门类与干预时长无显著调节作用。（pp.10–11）
+> 4. **发现学段发展倒U型与社会技术红利** 中学生群体获益最大（$g = 1.113$），且国家人均 GDP 与近年发表文献表现出更强的促学效应，性别、学科门类与干预时长无显著调节作用。（pp.10–11）
 
 > [!stat-cards]- 核心数据
 > - **$g = 0.778$** 图形组织器对高阶思维的随机效应加权总体[[Effect Size\|效应量]]（$k = 72, N = 4{,}824$）。（p.1）
@@ -369,7 +367,7 @@ updated: 2026-09-17
 > 原文明确自述以下四项研究局限与未来方向：
 > 1. **样本学段分布不均衡** 纳入的 66 项初级研究中大学样本占绝大多数（$k = 49$），而小学样本较少（$k = 5$），限制了跨基础教育阶段结论的全面推论深度。（p.13）
 > 2. **缺乏教师预制与学生自主生成的对比** 纳入研究中绝大多数（除 1 项外）均为学生自主绘制生成组织器，未能充分检验教师直接提供专家预制图示与学生自主绘制之间的效能差异。（p.13）
-> 3. **[[Document\|文献]]语言范围受限** 检索仅覆盖英文与中文学术文献，未纳入其他语种的实证研究，可能存在潜在的语言选择偏倚。（p.13）
+> 3. **文献语言范围受限** 检索仅覆盖英文与中文学术文献，未纳入其他语种的实证研究，可能存在潜在的语言选择偏倚。（p.13）
 > 4. **缺乏长期延迟迁移测量** 初级研究绝大多数仅测量了干预结束后的即时表现，极少追踪[[Graphic Organizer\|图形组织器]]对[[Higher-Order Thinking Skills\|高阶思维]]的长期保留与远迁移效应。（p.13）
 
 ---

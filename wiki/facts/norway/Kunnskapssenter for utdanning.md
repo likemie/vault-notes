@@ -12,7 +12,7 @@ subtype: organization
 region: norway
 fact_region: "norway"
 fact_kind: "organization"
-fact_related_count: 30
+fact_related_count: 29
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Phronesis]]"
   - "[[Professional Judgment]]"
   - "[[Heterogeneity]]"
-  - "[[Hypothesis]]"
   - "[[Absorptive Capacity]]"
   - "[[Business as Usual]]"
   - "[[Educational Brokerage Agency]]"
@@ -65,7 +64,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-09-13'
-updated: 2026-10-02
+updated: 2026-10-15
 ---
 
 # Kunnskapssenter for utdanning
@@ -135,7 +134,7 @@ updated: 2026-10-02
 > > - **自治优势与跨周期稳定性** 独立行政法人地位与大学依托属性，使机构能够在政党轮替时维持研究议程的连续性，不受特定部长个人政治偏好左右；大学归属也赋予其国际同行认可的学术公信力。
 > > - **政策对齐压力与资源瓶颈** 政府经常性资助必然带来对政策优先议题的议程对齐压力；当研究综合结论与当届政府政策方向出现冲突时，机构独立性面临现实考验。此外，北欧小国的有限财政规模限制了[[Systematic Review|系统综述]]的产出数量与跨学科覆盖广度。
 >
-> > [!axis] 清算中介因果作用[[Hypothesis|假设]]与实际转移效能的验证赤字
+> > [!axis] 清算中介因果作用假设与实际转移效能的验证赤字
 > > 尽管机构通过平行评审创新性吸纳了实践者声音，但在宏观清算中介机制的因果作用假设（Wirkannahmen）层面，依然面临教育科学界的深层反思。[[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, p. 10)]]
 > >
 > > - **转移目标达成度知之甚少** [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] 指出，包括挪威教育知识中心在内的国际清算机构，虽然受到政策界广泛资助并快速扩增，但关于此类机构在多大程度上真正达成了预期的转移目标（intendierte Transferziele），迄今为止在实证经验层面依然知之甚少。
@@ -158,4 +157,4 @@ updated: 2026-10-02
 > | [[Kenniskamer]] | 机构事实 | 与 Kenniskamer 形成制度对比——同为政府资助，但 Kunnskapssenter 凭借大学依托与法定自治跨越政治周期，而 Kenniskamer 因部委直属而随部长离任停摆。 |
 > | [[Professional Judgment]] | 概念 | 平行评审机制从制度层面为教师专业判断提供系统性尊重，是落实"捍卫教师[[Phronesis\|实践智慧]]"承诺的机构化实践。 |
 > | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] | 论证条目 | 将其作为"多元方法论综合派"与"政府资助自治型"中介的北欧标杆，论证实践者参与平行评审对弥合[[Research-Practice Gap\|研究-实践鸿沟]]的制度价值。 |
-> | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] | 论证条目 | 将挪威知识中心确立为国际四大代表性清算机构之一，剖析其底层转移作用[[Hypothesis\|假设]]与目标达成度验证赤字。 |
+> | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] | 论证条目 | 将挪威知识中心确立为国际四大代表性清算机构之一，剖析其底层转移作用假设与目标达成度验证赤字。 |

@@ -9,7 +9,7 @@ aliases:
 summary: "公共政策多源流框架的核心概念，指问题流、政策方案流与政治流三者汇聚时短暂开启的有利于政策采纳的关键机遇期；在教育循证改革中，政策之窗的时间压缩特性直接决定了证据的形态选择，促使行动者转向专业经验、同行信任与微观对标分析等高效能替代证据。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 19
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,11 +21,9 @@ tags:
   - multiple-streams
 related_concepts:
   - "[[Policy Entrepreneur]]"
-  - "[[Document]]"
   - "[[Professional Judgment]]"
   - "[[College and Career Readiness]]"
   - "[[Competitiveness]]"
-  - "[[Hypothesis]]"
   - "[[Venue Shopping]]"
 related_theories:
   - "[[Multiple Streams Framework]]"
@@ -48,7 +46,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Policy Window
@@ -66,7 +64,7 @@ updated: 2026-10-07
 > - **边界** 政策之窗本身并不自发产生政策方案，它仅提供制度通道；能否转化为法律，完全取决于[[Policy Entrepreneur|政策企业家]]是否预先备好了方案与证据。
 
 > [!citation-card] 政策之窗对证据利用的时间压缩约束
-> 政策分析[[Document|文献]]揭示出，政策制定者是否使用以及如何使用研究证据，在很大程度上受制于政策机会之窗的时间紧迫性。政策之窗的开启往往短暂且难以预测，这种极度紧迫的时间约束迫使政策倡导者在完备严谨的研究出炉之前就必须拿出成型方案，从而导致决策过程不得不高度依赖[[Professional Judgment|专业判断]]、实践经验与即时性的替代论据。
+> 政策分析文献揭示出，政策制定者是否使用以及如何使用研究证据，在很大程度上受制于政策机会之窗的时间紧迫性。政策之窗的开启往往短暂且难以预测，这种极度紧迫的时间约束迫使政策倡导者在完备严谨的研究出炉之前就必须拿出成型方案，从而导致决策过程不得不高度依赖[[Professional Judgment|专业判断]]、实践经验与即时性的替代论据。
 >
 > *Policy entrepreneurs' ability to take advantage of policy windows is constrained by the speed with which they open and close. The compression of time during an open policy window often forces actors to rely on professional judgment and ready-made crosswalks rather than waiting for long-term [[Experimental Research]].* [[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 2–3, 6)]]
 
@@ -103,7 +101,7 @@ updated: 2026-10-07
 ### 命题一　政策之窗的时间紧迫性迫使证据形态由复杂基础研究收敛为操作性对标工具
 
 > [!concept-lens] 证据形态的阶段权变机制
-> 传统循证政策理论[[Hypothesis|假设]]决策者有充分的时间消化严密的对照实验；但在真实世界中，政策之窗的开启往往稍纵即逝，迫使行动者根据时间约束调整证据形态。
+> 传统循证政策理论假设决策者有充分的时间消化严密的对照实验；但在真实世界中，政策之窗的开启往往稍纵即逝，迫使行动者根据时间约束调整证据形态。
 
 > [!claim] McDonnell, L. M. & Weatherford, M. S.
 > **时间压缩下的证据形态转换** 麦克唐纳与韦瑟福德指出，[[Common Core State Standards|共同核心标准]]各州法定采纳阶段的推进时间被极度压缩（Truncated adoption stage）。各州官员为了争夺联邦[[Race to the Top|力争上游]]（RTTT）的 43.5 亿美元拨款，必须在数月内将法案提交州教育委员会表决。在此极端时间限制下，决策者根本无法等待学术界进行长周期的对照实验；厚重的学术论文全面隐退，取而代之的是由智库编制的高度工具化的逐条对标分析（Crosswalks）与同行专家审查声誉，以此充当火速表决的合法性证据。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 6, 16–18)]]

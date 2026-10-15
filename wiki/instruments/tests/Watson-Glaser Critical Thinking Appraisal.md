@@ -9,7 +9,7 @@ aliases:
 summary: "用于测量个体批判性思维认知能力维度的经典标准化测试工具，包含推论、假设识别、演绎、解释与论点评价五个核心分测验。"
 type: instrument
 instrument_type: test
-instrument_related_count: 11
+instrument_related_count: 10
 instrument_related_level: 2
 instrument_related_stars: "⭐⭐"
 instrument_related_color: "#dbeafe"
@@ -32,7 +32,6 @@ tags:
 related_concepts:
   - "[[Critical Thinking]]"
   - "[[Higher-Order Thinking Skills]]"
-  - "[[Hypothesis]]"
   - "[[AI Agent in Education]]"
   - "[[Dependent Variable]]"
   - "[[Reliability]]"
@@ -49,7 +48,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-08-26
+updated: 2026-10-15
 ---
 
 # Watson-Glaser Critical Thinking Appraisal
@@ -74,7 +73,7 @@ updated: 2026-08-26
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
 > |---|---|---|---|
 > | **推论（Inference）** | 8–16 题 | 评估从给定事实推断不同结论的真实性程度（真、可能真、信息不足、可能假、假）的能力。 | 正确得 1 分，错误得 0 分 |
-> | **[[Hypothesis\|假设]]识别（Recognition of Assumptions）** | 8–16 题 | 识别陈述中未明言的前提、预设假设或隐含偏见的能力（假设成立／不成立）。 | 正确得 1 分，错误得 0 分 |
+> | **假设识别（Recognition of Assumptions）** | 8–16 题 | 识别陈述中未明言的前提、预设假设或隐含偏见的能力（假设成立／不成立）。 | 正确得 1 分，错误得 0 分 |
 > | **演绎（Deduction）** | 8–16 题 | 依据给定的前提判断某些结论是否在逻辑上必然成立（结论成立／不成立）。 | 正确得 1 分，错误得 0 分 |
 > | **解释（Interpretation）** | 8–16 题 | 权衡证据并判断所提结论是否超越合理怀疑而由数据合理推出的能力。 | 正确得 1 分，错误得 0 分 |
 > | **论点评价（Evaluation of Arguments）** | 8–16 题 | 区分与问题紧密相关且核心的强论点与情绪化、不相关的弱论点的能力（强论点／弱论点）。 | 正确得 1 分，错误得 0 分 |

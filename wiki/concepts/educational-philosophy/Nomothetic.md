@@ -8,7 +8,7 @@ aliases:
 summary: "以发现普遍法则为目标的方法论取向：聚焦分析选定因素之间的关系与规律性，以量化为主，是量化研究的方法论根基，与个例式相对"
 type: concept
 domain: "educational-philosophy"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Positivism]]"
   - "[[Interpretive Paradigm]]"
-  - "[[Hypothesis]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
   - "[[Determinism]]"
@@ -36,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-16
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Nomothetic
@@ -76,10 +75,10 @@ updated: 2026-09-17
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1979 — 方法论维度区分** Burrell & Morgan 将通则式与[[Idiographic\|个例式]]列为社会研究方法论的两极之一，作为其四组[[Hypothesis\|假设]]推导链的方法论终点：实在论[[Ontology\|本体论]]、[[Positivism\|实证主义]][[Epistemology\|认识论]]、[[Determinism\|决定论]]人性假设通向通则式方法论。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, Ch. 1)]]
+> - **1979 — 方法论维度区分** Burrell & Morgan 将通则式与[[Idiographic\|个例式]]列为社会研究方法论的两极之一，作为其四组假设推导链的方法论终点：实在论[[Ontology\|本体论]]、[[Positivism\|实证主义]][[Epistemology\|认识论]]、[[Determinism\|决定论]]人性假设通向通则式方法论。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, Ch. 1)]]
 > - **1994 — 质性数据分析中的应用** Miles & Huberman（1994）以通则式数据分析为代表，处理模式、主题、趋势等跨案例的规律性。
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] — 系统阐释通则式取向的方法论位置：在哲学基础中将其作为 Burrell & Morgan [[Hypothesis\|假设]]推导链的方法论终点（Ch. 1），并在质性分析中阐明通过跨案例模式、主题共性与规律性提炼实现通则化分析的路径（Ch. 28）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] — 系统阐释通则式取向的方法论位置：在哲学基础中将其作为 Burrell & Morgan 假设推导链的方法论终点（Ch. 1），并在质性分析中阐明通过跨案例模式、主题共性与规律性提炼实现通则化分析的路径（Ch. 28）。

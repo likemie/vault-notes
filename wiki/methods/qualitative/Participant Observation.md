@@ -7,7 +7,7 @@ summary: "质性研究中研究者同时扮演参与者和观察者角色，通�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 56
+method_related_count: 53
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Saturation]]"
   - "[[Gatekeepers]]"
   - "[[Reflexivity]]"
-  - "[[Hypothesis]]"
   - "[[Reliability]]"
   - "[[Educational Immunology]]"
   - "[[Covert Research]]"
@@ -33,7 +32,6 @@ related_concepts:
   - "[[Causality]]"
   - "[[Halo Effect]]"
   - "[[Paradigm]]"
-  - "[[Document]]"
   - "[[Big Science]]"
   - "[[Scientific Method]]"
   - "[[Primary and Secondary Documents]]"
@@ -53,7 +51,6 @@ related_methods:
   - "[[Non-participant Observation]]"
   - "[[Field Notes]]"
   - "[[Semi-structured Interview]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Domain Analysis]]"
   - "[[Progressive Focussing]]"
   - "[[Narrative Analysis]]"
@@ -107,7 +104,7 @@ updated: 2026-10-15
 > [!method-stack] 方法层级
 > - **研究设计** 民族志、[[Case Study\|案例研究]]、[[Critical Ethnography\|批判民族志]]、[[Grounded Theory\|扎根理论]]民族志、[[Autoethnography\|自我民族志]]。
 > - **数据收集** 参与观察、[[Non-participant Observation\|非参与观察]]、[[Field Notes\|田野笔记]]、[[Semi-structured Interview\|半结构化访谈]]、非正式对话、文档收集、日记和生命史、视听记录。
-> - **分析方法**[[Coding in Qualitative Research\|编码]]（实体/描述/理论编码）、[[Domain Analysis\|领域分析]]、主题分析、[[Progressive Focussing\|逐步聚焦]]、[[Narrative Analysis\|叙事分析]]、[[Analytic Induction\|分析归纳法]]。
+> - **分析方法**编码（实体/描述/理论编码）、[[Domain Analysis\|领域分析]]、主题分析、[[Progressive Focussing\|逐步聚焦]]、[[Narrative Analysis\|叙事分析]]、[[Analytic Induction\|分析归纳法]]。
 > - **辅助技术** 抽样（[[Theoretical Sampling\|理论抽样]]、目的抽样、滚雪球）、[[Gatekeepers\|守门人]]关系管理、[[Reflexivity\|反身性]]日志。
 
 ## 研究程序
@@ -122,8 +119,8 @@ updated: 2026-10-15
 
 > [!proc] 数据分析程序
 > 1. 书写详尽的田野笔记——既在现场书写也远离现场补充——记录观察到的行为、对话、非语言线索和研究者自身的反应。
-> 2. 将田野笔记和[[Transcription in Qualitative Research\|转录]]材料[[Coding in Qualitative Research\|编码]]为[[Unit of Analysis\|分析单元]]；进行[[Domain Analysis\|领域分析]]以归组相关主题；识别核心主题和"底层关联"。
-> 3. 撰写分析备忘录，记录[[Reflexivity\|反身性]]观察、临时[[Hypothesis\|假设]]和理论之间的关系发展。
+> 2. 将田野笔记和[[Transcription in Qualitative Research\|转录]]材料编码为[[Unit of Analysis\|分析单元]]；进行[[Domain Analysis\|领域分析]]以归组相关主题；识别核心主题和"底层关联"。
+> 3. 撰写分析备忘录，记录[[Reflexivity\|反身性]]观察、临时假设和理论之间的关系发展。
 > 4. 使用[[Triangulation\|三角验证]]（多数据源、多方法）、成员检查和同伴情况报告来增强可[[Reliability\|信度]]；主动寻找负面案例和偏差案例。
 
 ---
@@ -178,7 +175,7 @@ Wolff（2004, pp. 195–196）和 Flick（1998, p. 57）指出进入现场的六
 > - **偏误来源** 反应性（研究者改变情境）、研究者偏见（选择性注意和解释）、光环/[[Halo Effect|牛角效应]]（对参与者的预判影响观察）。
 > - **适用边界** 研究发现通常不可统计概括到总人口；严重依赖研究者在场时间长度和质量；进入和维持[[Champ\|场域]]关系可能极困难或不可能。
 > - **误用风险** 将短暂的现场访问等同于参与观察；未进行足够时间的驻留即声称达到"饱和"；以研究者自身解释替代参与者观点。
-> - **政策制定中的法定贬抑与[[Paradigm|范式]]抗辩** 在美国 2000 年卡斯尔草案（H.R. 4875, Sec. 6）中，参与观察与[[In-depth Interview|深度访谈]]、[[Document|文献]]收集被共同捆绑归类为“[[Qualitative Research|质性研究]]标准”，在法律条文中被明文贬抑为仅在相关因素“尚未充分提炼、理解或无法进行实验控制时”使用的“初步形式”（Preliminary Form）；[[National Research Council|国家研究委员会]]（NRC）六[[Big Science|大科学]]原则与学者共同体的国会质证成功反驳了将田野深度观察视为量化附庸的立法企图，促成 2002 年《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA）删除了此类歧视性条款（[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, pp. 33–34]]）。
+> - **政策制定中的法定贬抑与[[Paradigm|范式]]抗辩** 在美国 2000 年卡斯尔草案（H.R. 4875, Sec. 6）中，参与观察与[[In-depth Interview|深度访谈]]、文献收集被共同捆绑归类为“[[Qualitative Research|质性研究]]标准”，在法律条文中被明文贬抑为仅在相关因素“尚未充分提炼、理解或无法进行实验控制时”使用的“初步形式”（Preliminary Form）；[[National Research Council|国家研究委员会]]（NRC）六[[Big Science|大科学]]原则与学者共同体的国会质证成功反驳了将田野深度观察视为量化附庸的立法企图，促成 2002 年《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA）删除了此类歧视性条款（[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, pp. 33–34]]）。
 > - **补救方式** 延长驻留、成员检查、[[Triangulation\|三角验证]]（多方法、多观察者）、[[Reflexivity\|反身性]]日志、同伴情况报告。
 
 ---

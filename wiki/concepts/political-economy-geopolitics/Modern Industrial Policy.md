@@ -9,7 +9,7 @@ aliases:
 summary: "现代产业政策区别于20世纪以纠正市场失灵与追求经济效率为单一导向的传统产业政策；它深度交织了国家安全、地缘政治对抗、供应链韧性与去风险目标，综合运用巨额直接补贴、前置研发资助、投资审查、单边及多边出口管制、友岸外包、制度化附加条件与战略矿产反制等全方位政策工具包。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 58
+related_count: 56
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Learning by Doing]]"
   - "[[Technological Catch-up]]"
   - "[[Vertical Disintegration]]"
-  - "[[Hypothesis]]"
   - "[[Electronic Design Automation]]"
   - "[[Market Shaping and Creating]]"
   - "[[Policy Conditionalities]]"
@@ -35,7 +34,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Research Translation]]"
   - "[[Innovation Ecosystem]]"
-  - "[[Document]]"
   - "[[Liberalization]]"
   - "[[Washington Consensus]]"
   - "[[Apprenticeship]]"
@@ -122,7 +120,7 @@ updated: 2026-10-15
 > | 维度 | 传统产业政策（20世纪70–80年代） | 现代产业政策（2020年代以来） |
 > |------|--------------------------------|----------------------------|
 > | **核心动机** | 纠正[[Market Failure\|市场失灵]]、实现规模经济、抢占产业先发优势 | 确保国家安全、防范地缘对抗风险、推动关键供应链多元化与防卡脖子 |
-> | **产业组织[[Hypothesis\|假设]]** | 假设企业为纵向一体化（IDM），易于扶植单一“国家冠军” | 面对全球 [[Vertical Disintegration\|纵向离散]] 与高度模块化的超长供应链网络 |
+> | **产业组织假设** | 假设企业为纵向一体化（IDM），易于扶植单一“国家冠军” | 面对全球 [[Vertical Disintegration\|纵向离散]] 与高度模块化的超长供应链网络 |
 > | **主导政策工具** | 研发财团联盟资助（如 [[Sematech]]、[[VLSI Project]]）、双边管理贸易协定（如 [[1986 U.S.-Japan Semiconductor Trade Agreement\|美日半导体贸易协定]]） | 巨额资本补贴（如 [[CHIPS and Science Act\|芯片与科学法案]]、[[European Chips Act\|欧洲芯片法案]]）、单边与多边出口管制、投资审查与战略矿产限制 |
 > | **国际协调机制** | 双边关税谈判、[[World Trade Organization\|世贸组织]]（WTO）多边争端解决机制 | 阵营化友岸外包协作网络、多边技术封锁联盟、非关税单边制裁工具 |
 > | **经济成本特征** | 主要是贸易扭曲与下游用户成本上升 | 丧失[[Agglomeration Externalities\|集聚经济]]与规模效应、产能重复建设与潜在全球结构性产能过剩 |
@@ -190,7 +188,7 @@ updated: 2026-10-15
 > 探讨现代高科技产业极端细分与专业化的全球网络如何瓦解封闭式国家冠军扶持逻辑。
 
 > [!claim] [[Argument_Bown_2024_JEP|Bown & Wang (2024)]]
-> **产业组织与政策工具失配** 现代半导体产业已由 1980 年代的纵向一体化模式全面演进为由核心 IP、[[Electronic Design Automation|EDA]] 软件、精密装备、无晶圆厂设计、晶圆代工与封装测试组成的跨国多阶段网络；在如此细分且相互高度依赖的全球供应链中，任何单一国家试图通过封闭式产业政策建立全栈自主可控的国家冠军都将面临极高技术门槛与协调成本，必须依赖跨国联盟与多边协同。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 86–90, 102)]]
+> **产业组织与政策工具失配** 现代半导体产业已由 1980 年代的纵向一体化模式全面演进为由核心 IP、EDA 软件、精密装备、无晶圆厂设计、晶圆代工与封装测试组成的跨国多阶段网络；在如此细分且相互高度依赖的全球供应链中，任何单一国家试图通过封闭式产业政策建立全栈自主可控的国家冠军都将面临极高技术门槛与协调成本，必须依赖跨国联盟与多边协同。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 86–90, 102)]]
 
 ---
 
@@ -250,7 +248,7 @@ updated: 2026-10-15
 ### 命题总览
 
 > [!contrast-table] 现代产业政策核心命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 核心逻辑依据 | 代表学者与[[Document\|文献]] |
+> | 命题类型 | 核心指向 | 适用情境 | 核心逻辑依据 | 代表学者与文献 |
 > |---|---|---|---|---|
 > | **效率换安全保险** | 产业政策主动牺牲集聚外部性以换取供应链韧性与地缘安全 | 跨国半导体建厂补贴、回流本土与友岸外包 | 空间分散与产能重复建设的长期成本 | [[Argument_Bown_2024_JEP\|Bown & Wang (2024, p. 86)]] |
 > | **国家冠军模式失效** | [[Vertical Disintegration\|纵向离散]]网络使单一国家封闭式全产业链自主政策面临技术与成本天花板 | 全球高科技多阶段供应链、出口管制同盟 | 模块化全球分工对全栈自研的协调阻力 | [[Argument_Bown_2024_JEP\|Bown & Wang (2024, p. 93)]] |

@@ -7,10 +7,10 @@ aliases:
 summary: "约翰·威廉姆森于1989年提出的宏观经济改革准则，最初由华盛顿多边金融机构与美国政策圈达成，聚焦财政赤字控制、公共开支重构、税制改革与贸易自由化；后渗透至多边开发银行教育借贷，衍生出涵盖循证政策、成本核算、量化指标、效率优先、精英择优、市场竞争、取消补贴与私有化的审查信条，但在官僚放贷实践中常陷入形式主义合规。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 30
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 28
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/political-economy
   - neoliberalism
@@ -21,7 +21,6 @@ tags:
 related_concepts:
   - "[[Operationalization]]"
   - "[[Endogenous and Exogenous Privatisation]]"
-  - "[[Bildung]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Market Fundamentalism]]"
   - "[[Structural Adjustment Programs]]"
@@ -29,7 +28,6 @@ related_concepts:
   - "[[State Educational Sovereignty]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Performance Pay]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Paradigm]]"
   - "[[Development Education]]"
   - "[[Policy Brokerage]]"
@@ -76,7 +74,7 @@ updated: 2026-10-15
 > - **边界** 威廉姆森的原初共识是针对拉美特定债务困境总结的经验性经济管理工具箱（“控制赤字、按时付账与抑制通胀”），不宜与外界左翼批评者后来赋予其的所有极端新自由主义霸权符号完全等同。
 
 > [!citation-card] 华盛顿共识的本源与多边教育借贷信条
-> 世界银行与[[Inter-American Development Bank|泛美开发银行]]仍然信奉某种温和版本的“华盛顿共识”。但值得注意的是，这一共识本身是一个不断流变的概念。此外，这种信念在两家银行内部的强度存在巨大差异。世界银行内部充斥着真正的教条信徒，而泛美开发银行则远没有那么宗[[Bildung|教化]]，更偏向[[Pragmatic Paradigm|实用主义]]。然而，剥离掉朋友与敌人强加给这个概念的所有外加成分，诸如预算平衡、按时支付账单以及控制通货膨胀等原则，是当今绝大多数国家都能接受的基本目标。值得注意的是，约翰·威廉姆森最初提出的华盛顿共识本质上也不过如此。以下是世界银行目前流行并以某种方式影响其教育贷款的核心原则列表（在泛美开发银行则是这些原则的温和版本）：循证政策、成本核算、量化指标、效率优先、精英择优、市场竞争、市场激励、取消补贴、推行私有化。[[Claudio de Moura Castro|克劳迪奥·德·莫拉·卡斯特罗]]（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, pp. 459–460]]）
+> 世界银行与[[Inter-American Development Bank|泛美开发银行]]仍然信奉某种温和版本的“华盛顿共识”。但值得注意的是，这一共识本身是一个不断流变的概念。此外，这种信念在两家银行内部的强度存在巨大差异。世界银行内部充斥着真正的教条信徒，而泛美开发银行则远没有那么宗教化，更偏向[[Pragmatic Paradigm|实用主义]]。然而，剥离掉朋友与敌人强加给这个概念的所有外加成分，诸如预算平衡、按时支付账单以及控制通货膨胀等原则，是当今绝大多数国家都能接受的基本目标。值得注意的是，约翰·威廉姆森最初提出的华盛顿共识本质上也不过如此。以下是世界银行目前流行并以某种方式影响其教育贷款的核心原则列表（在泛美开发银行则是这些原则的温和版本）：循证政策、成本核算、量化指标、效率优先、精英择优、市场竞争、市场激励、取消补贴、推行私有化。[[Claudio de Moura Castro|克劳迪奥·德·莫拉·卡斯特罗]]（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, pp. 459–460]]）
 >
 > *Stripped of all that has been added to this concept – by friends and foes – principles such as balanced budgets, paying your bills, and controlling inflation are goals that most countries accept these days. Notice that the original Washington consensus of John Williamson was not much more than that... Below is a list of the principles current in the World Bank that, in a way or another, influence education lending: Evidence-driven policies; Cost accounting; Quantification; Efficiency; Meritocracy; Competition; Market incentives; No subsidies; Privatization.*
 
@@ -148,7 +146,7 @@ updated: 2026-10-15
 
 ### 命题二　华盛顿共识在教育放贷中衍生出以量化、效率与市场激励为轴心的技术官僚规约体系
 
-> [!concept-lens] 宏观信条向微观教育治理的工具化[[Transfer Translation Transformation|转译]]
+> [!concept-lens] 宏观信条向微观教育治理的工具化转译
 > 探讨宏观经济层面的市场化原则如何被多边机构转译为具体的教育行政与借贷技术准则。
 
 > [!claim] [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]]

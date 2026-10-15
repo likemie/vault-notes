@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt"
 argument_key: "Argument_Peterson_1987_OpenCourt"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges"
 argument_kind: "book"
-argument_related_count: 41
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -41,7 +41,6 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[International Qualification Recognition]]"
   - "[[Network Governance]]"
-  - "[[Document]]"
   - "[[International Schools]]"
   - "[[Reliability]]"
   - "[[Advanced Placement Program]]"
@@ -55,7 +54,6 @@ related_persons:
   - "[[Alec Peterson]]"
   - "[[Louis Mountbatten]]"
   - "[[Gilbert Nicol]]"
-  - "[[Paul Pierson]]"
 related_facts:
   - "[[United World Colleges]]"
   - "[[Founding of Atlantic College]]"
@@ -123,7 +121,7 @@ updated: 2026-10-08
 这些工具用于追踪制度形成和解释决策，材料性质限制了可得结论的强度。
 
 > [!monograph-method] 历史叙事与材料边界
-> - **资料来源** 个人经历、大西洋学院募款文件与课程计划、早期组织记录、利奇与马丁·梅耶（Martin Mayer）的同时代记述、政府协商和章末历史[[Document|文献]]。
+> - **资料来源** 个人经历、大西洋学院募款文件与课程计划、早期组织记录、利奇与马丁·梅耶（Martin Mayer）的同时代记述、政府协商和章末历史文献。
 > - **分析策略** 以关键行动者、课程比较、学校案例、资金变化和资格障碍，追踪创校、试验、常设治理、区域扩展与目标回检。
 > - **方法边界** 前言明确界定为个人记录，非官方历史。制度采纳、考试人数、学校规模和参与者解释可以说明运行条件，不能替代外部史料核验或独立的学习效果研究。
 
@@ -193,7 +191,7 @@ updated: 2026-10-08
 
 > [!book-synthesis] 网络增长改变了治理与资源责任
 > - **规模化需要区域实施基础** 第4章基金会退出和财务危机促成考试费、学校订阅、政府出资与业务分权。第6章北美增长则依赖地方课程权、AP先例、质量焦虑、大学关系，以及[[International Baccalaureate North America|IBNA]]本地筹资和[[Gilbert Nicol|吉尔伯特·尼科尔]]（Gilbert Nicol）建立的教师网络。增长由制度环境和实施支持共同促成，不是课程吸引力的自动结果（pp. 83–97, 131–152）。
-> - **地方差异使单校复制转为身份治理** 第5章[[Paul Pierson|皮尔逊]]、东南亚、沃特福德和亚得里亚海书院形成寄宿、奖学金、课程、服务、政府支持与自治的不同组合；第7章农业和美国西部项目扩大使命，也增加许可、财政和学术准备的协调。国际网络维持共同方向，各校承担地方责任，成员身份因而需要持续判断（pp. 99–129, 169–178）。
+> - **地方差异使单校复制转为身份治理** 第5章皮尔逊、东南亚、沃特福德和亚得里亚海书院形成寄宿、奖学金、课程、服务、政府支持与自治的不同组合；第7章农业和美国西部项目扩大使命，也增加许可、财政和学术准备的协调。国际网络维持共同方向，各校承担地方责任，成员身份因而需要持续判断（pp. 99–129, 169–178）。
 > - **成熟制度把冲突纳入常设协商** 政府会议、学校付费、区域办公室、考试中心与课程专家，共同处理公共与私人、中央与区域、国际与国家的关系。第8章将这种治理进一步连接到文化平衡、择优录取与资助规则：通过支持其他地区增长增加文化贡献，同时区分不因贫困失去机会、人人受助与全员全额免费。接受政府资助的民间组织还需协调出资责任与政策影响（pp. 161–168, 186–191, 207–216）。
 
 ---

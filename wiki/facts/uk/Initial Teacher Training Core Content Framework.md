@@ -11,7 +11,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 22
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Classroom Management]]"
   - "[[Effective Teaching]]"
   - "[[Evidence Era]]"
-  - "[[Document]]"
   - "[[Working Memory]]"
   - "[[Formative Assessment]]"
   - "[[Output-Oriented Governance]]"
@@ -36,8 +35,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Policy-Based Evidence-Making]]"
 related_theories: []
-related_methods:
-  - "[[Coding in Qualitative Research]]"
+related_methods: []
 related_instruments:
   - "[[Thinking Skills Assessment]]"
 related_persons: []
@@ -52,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-17
-updated: 2026-09-18
+updated: 2026-10-15
 ---
 
 # Initial Teacher Training Core Content Framework
@@ -93,7 +91,7 @@ updated: 2026-09-18
 > - **2015 年** — [[Carter Review of Initial Teacher Training\|卡特审查]]发布独立报告，明确建议中央政府制定全国统一的[[Initial Teacher Training\|初始教师培训]]核心课程框架。
 > - **2016 年** — 英国教育部发布《卓越教育无处不在》（*Educational Excellence Everywhere*）白皮书，正式采纳卡特审查建议。
 > - **2019 年 1 月** — 英国教育部发布《教师招聘与留任战略》及《早期职业框架》（ECF）。
-> - **2019 年 11 月** — 英国教育部正式颁布《初始教师培训核心内容框架》（CCF），并附带独立专家组审查的实证[[Document\|文献]]清单。
+> - **2019 年 11 月** — 英国教育部正式颁布《初始教师培训核心内容框架》（CCF），并附带独立专家组审查的实证文献清单。
 > - **2020 年 9 月** — CCF 在英格兰全境所有初始教师培训机构中全面强制推行。
 > - **2024 年** — 英国教育部将 CCF 与 ECF 合并升级为统一的《初始教师培训与早期职业框架》（ITTECF）。
 
@@ -102,14 +100,14 @@ updated: 2026-09-18
 ## 实施情况
 
 > [!actor-grid] 实施角色分工
-> - **发布主体** 英国教育部（DfE），负责框架制定、实证[[Document\|文献]]审核与法定标准颁布。
+> - **发布主体** 英国教育部（DfE），负责框架制定、实证文献审核与法定标准颁布。
 > - **执行主体** 大学教育学院、校本培训联合体（SCITT）与[[Teaching Schools\|教学学校联盟]]（[[Thinking Skills Assessment\|TSA]]），负责将框架逐项转化为具体教学模块与实习指导。
 > - **督导主体** 英国皇家教育标准局，依据全新修订的 [[Initial Teacher Training\|ITT]] 督导框架，将 CCF 落实程度作为评定培训质量的核心硬性指标。
 > - **支持主体** [[Education Endowment Foundation\|教育捐赠基金会]]（EEF）与[[Chartered College of Teaching\|特许教学学院]]（CCT），提供配套研究证据指南与专业进修资源。
 
 > [!pathways]- 实施路径
 > - **双轨结构拆解** 框架将国家教师标准的八个领域逐一拆解为两列：左列为“了解理论（Learn that...）”，规定必须掌握的研究原则；右列为“掌握实践（Learn how to...）”，规定导师必须示范并在实践中评估的具体教学动作。
-> - **认知科学基底绑定** 深度嵌入[[Working Memory\|工作记忆]]容量限制、双重[[Coding in Qualitative Research\|编码]]、精细复述、检索练习及[[Formative Assessment\|形成性评价]]等认知心理学核心论断。
+> - **认知科学基底绑定** 深度嵌入[[Working Memory\|工作记忆]]容量限制、双重编码、精细复述、检索练习及[[Formative Assessment\|形成性评价]]等认知心理学核心论断。
 > - **行政督导挂钩** [[Ofsted]] 开展拉网式专项督导检查，未严格按 CCF 循证清单组织教学的大学机构被判定为不合格并限期整改。
 
 ---

@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27"
 argument_display_title: "Research Methods in Education · Ch27"
 argument_kind: "book-chapter"
-argument_related_count: 29
+argument_related_count: 28
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -54,7 +54,6 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Case Study]]"
   - "[[Random Sampling]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Content Analysis]]"
   - "[[Grounded Theory]]"
   - "[[Constant Comparison]]"
@@ -121,7 +120,7 @@ updated: '2026-08-27'
 > 1. **确定[[Research Question\|研究问题]]与资料来源** 确定要研究什么问题、由谁制作或提供图像，涉及研究者、受访者、既有档案或再现。
 > 2. **选择图像** 由研究者或参与者选取；无现成图像时指定选择标准（目的抽样、分层[[Random Sampling\|随机抽样]]、代表性抽样等），并说明与辩护选择。
 > 3. **收集数据** 按媒体类型执行，照片拍摄或收集、录像记录、器物观察；考虑自然／摆拍、固定／移动镜头、位置与照明。
-> 4. **处理解读** [[Coding in Qualitative Research\|编码]]、[[Content Analysis\|内容分析]]、[[Grounded Theory\|扎根理论]]式的图像与编码[[Constant Comparison\|不断比较]]、反复观看并允许第三方核查；纳入[[Triangulation\|三角互证]]。
+> 4. **处理解读** 编码、[[Content Analysis\|内容分析]]、[[Grounded Theory\|扎根理论]]式的图像与编码[[Constant Comparison\|不断比较]]、反复观看并允许第三方核查；纳入[[Triangulation\|三角互证]]。
 > 5. **伦理处理** 获得知情同意（含拍摄与复制许可）、匿名化或遮蔽识别特征，对[[Covert Research\|隐蔽研究]]与公开场所拍摄保持审慎。
 
 ---

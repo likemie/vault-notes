@@ -9,7 +9,7 @@ summary: "美国加州大学圣巴巴拉分校心理学杰出教授，当代教�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 21
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -23,12 +23,9 @@ tags:
   - theme/multimedia-learning
   - theme/cognitive-science
 related_concepts:
-  - "[[APA Style]]"
   - "[[International Education]]"
   - "[[Discovery Learning]]"
-  - "[[Document]]"
   - "[[Direct Instruction]]"
-  - "[[Hypothesis]]"
   - "[[Working Memory]]"
   - "[[Independent Knowing]]"
   - "[[Problem Solving]]"
@@ -44,14 +41,13 @@ related_theories:
   - "[[Cognitive Load Theory]]"
 related_arguments:
   - "[[Argument_DeJong_2023_ERR]]"
-related_methods:
-  - "[[Coding in Qualitative Research]]"
+related_methods: []
 related_persons:
   - "[[Ton de Jong]]"
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Richard E. Mayer
@@ -59,14 +55,14 @@ updated: 2026-09-22
 ## 学者概述
 
 > [!def] 学者生平与定位
-> 理查德·E·梅耶（Richard E. Mayer，1947–至今）是美国当代著名认知心理学家、学习科学与教育心理学学者，加州大学圣巴巴拉分校（University of California, Santa Barbara, UCSB）心理学杰出教授，美国心理学会（[[APA Style\|APA]]）前教育心理学分会主席。Mayer 是当代[[International Education\|国际教育]]心理学界被引用次数最高的学者之一，其最卓越的学术贡献在于创立了**多媒体学习认知理论（Cognitive Theory of Multimedia Learning, CTML）**并实证提炼了十二项多媒体教学设计原则；同时，其在 2004 年发表的关于[[Discovery Learning\|纯发现学习]]的“三振出局”经典[[Document\|文献]]，深刻重塑了国际科学探究与[[Direct Instruction\|直接教学]]大论战的理论格局（Mayer, 2004; [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 5]]）。
+> 理查德·E·梅耶（Richard E. Mayer，1947–至今）是美国当代著名认知心理学家、学习科学与教育心理学学者，加州大学圣巴巴拉分校（University of California, Santa Barbara, UCSB）心理学杰出教授，美国心理学会（APA）前教育心理学分会主席。Mayer 是当代[[International Education\|国际教育]]心理学界被引用次数最高的学者之一，其最卓越的学术贡献在于创立了**多媒体学习认知理论（Cognitive Theory of Multimedia Learning, CTML）**并实证提炼了十二项多媒体教学设计原则；同时，其在 2004 年发表的关于[[Discovery Learning\|纯发现学习]]的“三振出局”经典文献，深刻重塑了国际科学探究与[[Direct Instruction\|直接教学]]大论战的理论格局（Mayer, 2004; [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 5]]）。
 
 ---
 
 ## 核心学术理论与里程碑贡献
 
 ### 1. 多媒体学习认知理论（CTML）
-Mayer 将认知心理学三大经典假定（双通道加工[[Hypothesis|假设]]、[[Working Memory|工作记忆]]容量有限假设、主动加工假设）系统整合，构建了多媒体环境下的认知学习架构：
+Mayer 将认知心理学三大经典假定（双通道加工假设、[[Working Memory|工作记忆]]容量有限假设、主动加工假设）系统整合，构建了多媒体环境下的认知学习架构：
 - **双通道假设（Dual-Channel）** 人类拥有分别处理听觉/言语表征与视觉/图像表征的[[Independent Knowing|独立认知]]通路（继承 Paivio 的[[Dual Coding Theory|双重编码理论]]）。
 - **有限容量假设（Limited Capacity）** 每个加工通道在同一瞬间能够保持和操作的信息量极其有限（继承 Baddeley 的[[Working Memory|工作记忆]]模型与 Sweller 的[[Cognitive Load Theory|认知负荷理论]]）。
 - **主动加工假设（Active Processing）** 深层理解要求学习者有意识地经历“选择相关语词与图像 ➔ 组织为言语与视觉心智模型 ➔ 将新模型与已有长时记忆图式整合”的主动认知加工链。
@@ -117,7 +113,7 @@ Mayer 的核心洞见在于：**学习者的“主动性”必须是“内部认
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Cognitive Load Theory]] | 理论 | CTML 与认知负荷理论紧密交织，共同为现代教学设计提供信息加工认知架构。 |
-> | [[Dual Coding Theory]] | 理论 | Paivio 的双重[[Coding in Qualitative Research\|编码]][[Hypothesis\|假设]]是 Mayer 确立双通道多媒体学习模型的理论源流。 |
+> | [[Dual Coding Theory]] | 理论 | Paivio 的双重编码假设是 Mayer 确立双通道多媒体学习模型的理论源流。 |
 > | [[Inquiry-Based Learning]] | 概念 | Mayer 的论战确立了指导式探究的合理性，终结了放任自流的[[Discovery Learning\|纯发现学习]]神话。 |
 > | [[Discovery Learning]] | 概念 | Mayer 提出三振出局论，对无指导纯发现学习给予了决定性认知科学裁决。 |
 > | [[Scaffolding]] | 概念 | Mayer 主张指导式发现的核心在于教师或系统提供精准的认知脚手架。 |

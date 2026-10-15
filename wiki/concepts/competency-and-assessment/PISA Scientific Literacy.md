@@ -7,7 +7,7 @@ aliases:
 summary: "OECD 国际学生评估项目（PISA）确立的面向全体未来公民的科学胜任力评价框架，强调在真实个人、社会与全球情境中解释科学现象、评估探究设计与审视数据证据。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 37
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Computer Simulation]]"
   - "[[Variable]]"
   - "[[Alternative Hypothesis]]"
-  - "[[Hypothesis]]"
   - "[[Falsification]]"
   - "[[Self-Efficacy]]"
   - "[[Rote Learning]]"
@@ -42,7 +41,6 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Direct Instruction]]"
   - "[[Authentic Science Practices]]"
-  - "[[Document]]"
   - "[[International Large-Scale Assessments]]"
   - "[[Operationalization]]"
   - "[[Critique of PISA]]"
@@ -63,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-10-11'
-updated: 2026-10-11
+updated: 2026-10-15
 ---
 
 # PISA Scientific Literacy
@@ -110,7 +108,7 @@ updated: 2026-10-11
 > - **考查胜任力（Competencies）**
 >   包含科学地解释现象、评估与设计科学探究、科学地解释数据与证据。2025 年进一步融入对算法、模型不确定性与虚假信息的批判性审查。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
 > - **三维知识体系（Knowledge）**
->   ① **内容知识（Content）** 物理、生命、地球与宇宙系统的基本理论；② **[[Procedural Knowledge|程序性知识]]（Procedural）** 测量误差、[[Variable|变量]]控制与重复观察的操作规范；③ **[[Epistemology|认识论]]知识（Epistemic）** 理解科学[[Hypothesis|假设]]的[[Falsification|可证伪性]]、模型的局限以及科学共识的建构过程。
+>   ① **内容知识（Content）** 物理、生命、地球与宇宙系统的基本理论；② **[[Procedural Knowledge|程序性知识]]（Procedural）** 测量误差、[[Variable|变量]]控制与重复观察的操作规范；③ **[[Epistemology|认识论]]知识（Epistemic）** 理解科学假设的[[Falsification|可证伪性]]、模型的局限以及科学共识的建构过程。
 > - **情境载体与态度倾向（Contexts & Attitudes）**
 >   跨越个人健康、地方资源管理与全球环境危机情境；同时通过[[Questionnaire|问卷]]测量学生对科学事业的价值认同、环保责任感与探究[[Self-Efficacy|自我效能感]]。
 
@@ -186,7 +184,7 @@ updated: 2026-10-11
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
 > | [[PISA]] | Fact | 宏观发起与常设运营主体；PISA [[Scientific Literacy\|科学素养]]为该评估三大核心轮换主测领域之一。 |
-> | [[Beyond 2000 Report]] | Fact | 1998 年科学教育里程碑[[Document\|文献]]，直接为 PISA 科学素养测评[[Construct\|构念]]提供了普惠公民导向的理论底座。 |
+> | [[Beyond 2000 Report]] | Fact | 1998 年科学教育里程碑文献，直接为 PISA 科学素养测评[[Construct\|构念]]提供了普惠公民导向的理论底座。 |
 > | [[Scientific Literacy]] | Concept | 科学素养的母概念；PISA 科学素养为其在[[International Large-Scale Assessments\|国际大规模评估]]中的特定[[Operationalization\|操作化]]形态。 |
 > | [[Nature of Science]] | Concept | 科学本质；PISA 科学素养[[Epistemology\|认识论]]知识维度的核心测量要素。 |
 > | [[Inquiry-Based Learning]] | Concept | 探究式学习；其在 PISA 中的测量频次与科学成就呈现倒 U 型调节关系。 |

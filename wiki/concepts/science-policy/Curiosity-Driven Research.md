@@ -10,7 +10,7 @@ aliases:
 summary: "由科学家学术好奇心与纯粹求知欲所驱动的科学探索范式，不预设即时实用目标与交付成果，依赖充分学术自治、同行评议与容忍失败的长周期投入；既是二战后无止境前沿契约的核心基石与重大底层颠覆性发现的源头，也在当代技术安全化与使命型国家创新战略中面临与应用启发研究（FuSe）及中试转化的深层协同与张力。"
 type: concept
 domain: "science-policy"
-related_count: 32
+related_count: 30
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -36,7 +36,6 @@ related_concepts:
   - "[[Research Security]]"
   - "[[Valley of Death]]"
   - "[[Translational Research]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[University-Industry Collaboration]]"
 related_theories:
   - "[[Pasteur's Quadrant]]"
@@ -48,7 +47,6 @@ related_facts:
   - "[[Department of Energy]]"
   - "[[Restoring Gold Standard Science Executive Order]]"
 related_persons:
-  - "[[Peter A. Hall]]"
   - "[[Vannevar Bush]]"
 related_arguments:
   - "[[Argument_Fan_2026_BCAS]]"
@@ -61,7 +59,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Curiosity-Driven Research
@@ -75,7 +73,7 @@ updated: 2026-10-12
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种“由内而外”展开的认知活动，以拓展人类对宇宙、生命与物质基本法则的认识边界为唯一宗旨，拒绝将科研异化为线性指标交付。
-> - **用途** 帮助科学社会学者与科技政策分析师揭示科研体系中“不可预测性（Unpredictability）”与偶发性发现（Serendipity）的制度价值，阐明基础物质科学探索（如二维材料、量子[[Peter A. Hall|霍尔]]效应、自旋拓扑态）如何充当后续整个技术创新链条的源头活水。
+> - **用途** 帮助科学社会学者与科技政策分析师揭示科研体系中“不可预测性（Unpredictability）”与偶发性发现（Serendipity）的制度价值，阐明基础物质科学探索（如二维材料、量子霍尔效应、自旋拓扑态）如何充当后续整个技术创新链条的源头活水。
 > - **边界** 自由探索并不等同于脱离学术共同体规范的漫无边际的空想，其依然受到同行评议与严格经验证据检验的自洽性约束；与追求特定产品原型的应用研究及工程制造具有清晰分界。
 
 > [!citation-card] 边疆隐喻下自由探索的制度退守
@@ -98,7 +96,7 @@ updated: 2026-10-12
 > | **典型象限** | 玻尔象限（纯基础机理探索） | [[Pasteur's Quadrant\|巴斯德象限]]（应用启发基础探索） | 爱迪生象限 / 曼哈顿范式（纯应用开发与工程集成） |
 > | **核心驱动力** | 科学家学术敏感度与同行共同体探索欲 | 产业共性技术难题倒逼与基础机理穿透 | 国家战略意志、地缘竞争动员与行政采购合同 |
 > | **评价机制** | 学术共同体同行评议（Peer Review）与学术首创权 | 科学认知突破与应用转化潜力双重评估 | 目标里程碑达成率、技术就绪度（[[Technology Readiness Level\|TRL]]）爬升与实体交付 |
-> | **微电子映射** | 二维量子[[Peter A. Hall\|霍尔]]效应、自旋拓扑绝缘体物理探索 | 未来半导体计划（FuSe）、多维[[Co-Design\|协同设计]]基础理论 | 300mm 先进制程中试、微系统[[Hardware Security\|硬件安全]]根攻坚 |
+> | **微电子映射** | 二维量子霍尔效应、自旋拓扑绝缘体物理探索 | 未来半导体计划（FuSe）、多维[[Co-Design\|协同设计]]基础理论 | 300mm 先进制程中试、微系统[[Hardware Security\|硬件安全]]根攻坚 |
 
 ---
 
@@ -210,7 +208,7 @@ updated: 2026-10-12
 > | [[Blue Skies Research]] | Concept | 同义概念，指称不受即时应用目标约束的纯学术探索。 |
 > | [[Use-Inspired Basic Research]] | Concept | 对偶概念，兼具基础机理探索与明确应用导向的[[Pasteur's Quadrant\|巴斯德象限]]研究。 |
 > | [[Mission-Oriented Research]] | Concept | 对照[[Paradigm\|范式]]，由国家战略目标与紧迫安全需求自上而下驱动的研究。 |
-> | [[Translational Research]] | Concept | 将自由探索发现的底层科学原理转化为可制造技术原型的[[Transfer Translation Transformation\|转译]]过程。 |
+> | [[Translational Research]] | Concept | 将自由探索发现的底层科学原理转化为可制造技术原型的转译过程。 |
 > | [[Pasteur's Quadrant]] | Theory | 科学研究分类框架，将自由探索定位于玻尔象限。 |
 > | [[Science, The Endless Frontier 1945]] | Fact | 确立联邦政府对自由探索型研究予以制度化资助的纲领性报告。 |
 > | [[National Science Foundation]] | Fact (Organization) | 承担自由探索基础研究投资的核心联邦文职机构。 |

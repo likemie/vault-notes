@@ -8,7 +8,7 @@ aliases:
 summary: "基于美国哲学学会APA德尔菲共识报告开发的经典标准化批判性思维认知能力测验，包含分析、推论、评价、演绎与归纳五个核心分测验。"
 type: instrument
 instrument_type: test
-instrument_related_count: 13
+instrument_related_count: 11
 instrument_related_level: 2
 instrument_related_stars: "⭐⭐"
 instrument_related_color: "#dbeafe"
@@ -31,8 +31,6 @@ tags:
   - cognitive-assessment
 related_concepts:
   - "[[Critical Thinking]]"
-  - "[[APA Style]]"
-  - "[[Hypothesis]]"
   - "[[Reliability]]"
   - "[[Higher-Order Thinking Skills]]"
 related_theories:
@@ -52,7 +50,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-09-11
+updated: 2026-10-15
 ---
 
 # California Critical Thinking Skills Test
@@ -64,7 +62,7 @@ updated: 2026-09-11
 > [!instrument-profile] California [[Critical Thinking\|critical thinking skills]] Test（CCTST）
 > - **工具类型** 标准化能力测验（Standardized Cognitive Ability Test）。
 > - **开发者与年份** [[Peter Facione\|Peter A. Facione]] & Noreen C. Facione (1990, 2000 修订版)。
-> - **测量目的** 依据美国哲学学会（[[APA Style\|APA]]）[[APA Delphi Consensus on Critical Thinking\|德尔菲专家共识]]报告界定的批判性思维核心认知技能，测量个体在日常与专业情境中的分析、推论、评价与逻辑推导能力，广泛应用于高等教育学业增益评估与课程[[Intervention Research\|干预研究]]。
+> - **测量目的** 依据美国哲学学会（APA）[[APA Delphi Consensus on Critical Thinking\|德尔菲专家共识]]报告界定的批判性思维核心认知技能，测量个体在日常与专业情境中的分析、推论、评价与逻辑推导能力，广泛应用于高等教育学业增益评估与课程[[Intervention Research\|干预研究]]。
 > - **实施方式** 纸笔测试或计算机机考（限时 45–50 分钟），题项以文本、图表或短情境呈现。
 
 ---
@@ -76,7 +74,7 @@ updated: 2026-09-11
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
 > |---|---|---|---|
-> | **分析（Analysis）** | 6–9 题 | 识别文本与论证中各命题之间的意图与逻辑关系，提取核心论点、理由与前提[[Hypothesis\|假设]]。 | 正确得 1 分，错误得 0 分 |
+> | **分析（Analysis）** | 6–9 题 | 识别文本与论证中各命题之间的意图与逻辑关系，提取核心论点、理由与前提假设。 | 正确得 1 分，错误得 0 分 |
 > | **推论（Inference）** | 10–14 题 | 识别并获取推导合逻辑结论所需的必要元素，形成推测并权衡相关信息。 | 正确得 1 分，错误得 0 分 |
 > | **评价（Evaluation）** | 8–12 题 | 评判陈述或陈述间逻辑推论的置[[Reliability\|信度]]、可信性与论据充足性。 | 正确得 1 分，错误得 0 分 |
 > | **演绎推理（Deductive Reasoning）** | 10–14 题 | 依据既定规则与逻辑结构，判断从前提出发结论是否必然成立（从一般到特殊）。 | 正确得 1 分，错误得 0 分 |

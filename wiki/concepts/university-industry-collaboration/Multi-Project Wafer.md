@@ -11,7 +11,7 @@ aliases:
 summary: "通过在单片物理晶圆上拼版整合多个独立设计团队的掩模图案，以分摊昂贵光罩与代工制造成本的集成电路先导中试与样片制造共享机制；作为发展型网络国家打破重资产制造壁垒的核心基础设施，使去中心化的学术界与初创企业得以低成本流片验证激进芯片架构。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 28
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Technology Readiness Level]]"
   - "[[Variable]]"
   - "[[Electronic Design Automation]]"
-  - "[[Document]]"
 related_theories:
   - "[[Developmental Network State]]"
   - "[[Historical Institutionalism]]"
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Multi-Project Wafer
@@ -214,7 +213,7 @@ updated: 2026-10-12
 > | [[Fred Block]] | Person | 深刻揭示 [[MOSIS]] 与多项目晶圆机制以微小公共支出打破芯片设计壁垒的经济社会学家。 |
 > | [[National Semiconductor Technology Center]] | Fact (Org) | [[National Science and Technology Council\|NSTC]] 统筹管理全美面向商业代工厂的多项目晶圆聚合准入与先导中试服务。 |
 > | [[DARPA]] | Fact (Org) | 历史上出资创建 [[MOSIS]] 确立了现代 MPW 先河，现今持续推动先进封装拼圆计划。 |
-> | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 从发展型网络国家演进视角阐明 MPW 原型设施打破芯片制造瓶颈的理论[[Document\|文献]]。 |
+> | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 从发展型网络国家演进视角阐明 MPW 原型设施打破芯片制造瓶颈的理论文献。 |
 
 ---
 

@@ -9,7 +9,7 @@ aliases:
 summary: "严格依循非形式逻辑语法将论辩推论链条（主张、理由、证据、反驳）进行空间树状或网络可视化的认知脚手架"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 16
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,7 +19,6 @@ tags:
   - theme/higher-order-thinking
   - cognition/learning-science
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Chain of Evidence]]"
   - "[[Scaffolding]]"
   - "[[Mind Mapping]]"
@@ -44,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-03
+updated: 2026-10-15
 ---
 
 # Argument Mapping
@@ -54,7 +53,7 @@ updated: 2026-10-03
 ## 定义
 
 > [!def] 核心定义
-> 论证图（Argument Mapping）是指依据非形式逻辑与论辩推论语法（如 Toulmin 论证模型的六要素：主张 Claim、证据 Data/Evidence、保证 Warrant、支撑 Backing、反驳 Rebuttal 与限定 Qualifier），将复杂文本或思维中的论证结构、前提[[Hypothesis\|假设]]与[[Chain of Evidence\|证据链]]条进行双向或多层空间树状可视化的[[Scaffolding\|认知支架]]与教学工具。与自由发散的[[Mind Mapping\|思维导图]]（Mind Map）和多向语义交叉的[[Concept Mapping\|概念图]]（Concept Map）不同，论证图的核心特征在于其严格的逻辑推导约束与说服性论证链条表征。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 4, 9–10)]]
+> 论证图（Argument Mapping）是指依据非形式逻辑与论辩推论语法（如 Toulmin 论证模型的六要素：主张 Claim、证据 Data/Evidence、保证 Warrant、支撑 Backing、反驳 Rebuttal 与限定 Qualifier），将复杂文本或思维中的论证结构、前提假设与[[Chain of Evidence\|证据链]]条进行双向或多层空间树状可视化的[[Scaffolding\|认知支架]]与教学工具。与自由发散的[[Mind Mapping\|思维导图]]（Mind Map）和多向语义交叉的[[Concept Mapping\|概念图]]（Concept Map）不同，论证图的核心特征在于其严格的逻辑推导约束与说服性论证链条表征。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 4, 9–10)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 将抽象隐蔽的论辩逻辑与反驳结构转化为清晰可见的空间树状拓扑图。

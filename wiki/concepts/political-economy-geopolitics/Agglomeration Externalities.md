@@ -8,7 +8,7 @@ aliases:
 summary: "地理空间上高密度集聚的产业与研发集群所内生的正向经济溢出效应，由共享专业劳动力池、投入品供应商网络及隐性技术知识外溢三大马歇尔微观机制驱动；在现代产业政策与高科技竞争视角下，集聚外部性构成半导体产业极端地理集中的经济学动因，而追求地缘安全与供应链分散化的政策干预将显著稀释集聚红利并推高长期制造成本。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 21
+related_count: 20
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -34,7 +34,6 @@ related_concepts:
 related_theories:
   - "[[Path Dependence]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
 related_instruments: []
 related_persons: []
@@ -48,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Agglomeration Externalities
@@ -99,7 +98,7 @@ updated: 2026-10-14
 > [!feature] 核心要素
 > - **高度稠密的专业劳动力池（Thick Labor Markets）** 集群内部聚集着大量具备精深制造经验与工艺排障直觉的工程师、技工与管理人员，使企业招募与人才重组的摩擦成本降至极低。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 82–83)]]
 > - **深度嵌套的本地供应商与配套网络（Specialized Input Sharing）** 洁净室耗材、特种气体、高纯化学品、精密机加工维修与零部件配送网络形成小时级即时响应圈，极大压降了供应链库存与停机维护成本。
-> - **高频面对面的[[Tacit Knowledge|隐性知识]]外溢（Tacit Knowledge Spillovers）** 最前沿的先进制程调试参数与制造良率改进方案无法完全[[Coding in Qualitative Research|编码]]，高度依存于工程师跨企业非正式交流、学术研讨与同行流动中的[[Knowledge Exchange|知识交流]]。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 82, 102–103)]]
+> - **高频面对面的[[Tacit Knowledge|隐性知识]]外溢（Tacit Knowledge Spillovers）** 最前沿的先进制程调试参数与制造良率改进方案无法完全编码，高度依存于工程师跨企业非正式交流、学术研讨与同行流动中的[[Knowledge Exchange|知识交流]]。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 82, 102–103)]]
 > - **空间多地分散带来的效率稀释（Dispersion Friction）** 当政策力量强制将高技术制造工厂分散至缺乏本地配套与熟练劳动力的多个国家与地区时，集聚红利被严重稀释，产生高昂的结构性运营溢价。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 103)]]
 
 > [!logic-map]- 集聚红利与安全保险的权衡机理

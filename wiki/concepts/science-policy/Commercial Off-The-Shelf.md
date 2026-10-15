@@ -10,7 +10,7 @@ aliases:
 summary: "指由私营市场基于商业竞争自主研发并公开发售的标准化成熟产品或软件服务；在现代防务创新与科技政策中，COTS 采购模式作为打破传统军工科层制定制采购垄断、解决软硬件开发迟滞并加速前沿民用技术向国家硬实力转化的关键制度工具。"
 type: concept
 domain: "science-policy"
-related_count: 18
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -34,7 +34,6 @@ related_concepts:
   - "[[Demand-side Innovation Policy]]"
 related_theories: []
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -48,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Commercial Off-The-Shelf
@@ -71,7 +70,7 @@ updated: 2026-10-08
 > *The Federal Acquisition Streamlining Act of 1994 required that the U.S. government, "to the maximum extent practicable," acquire "commercial items," when such products are readily available on the market, as opposed to attempting to build new products from scratch.*
 
 > [!boundary]- 概念边界
-> - 不等于政府定制外包（Custom-built Government Procurement）— 后者由政府官员起草数百页技术规范并指定承包商从零[[Coding in Qualitative Research|编码]]制造，周期漫长且脱离实际用户；COTS 直接采购商业市场上经过用户实战检验的现成方案。
+> - 不等于政府定制外包（Custom-built Government Procurement）— 后者由政府官员起草数百页技术规范并指定承包商从零编码制造，周期漫长且脱离实际用户；COTS 直接采购商业市场上经过用户实战检验的现成方案。
 > - 不等于双重用途技术（[[Dual-Use Technology|Dual-Use Technology]]）构想本身 — 双重用途强调技术在军事与民用层面的潜在功能兼顾，而 COTS 强调具体的商业采购机制与现货采纳原则。
 
 ---

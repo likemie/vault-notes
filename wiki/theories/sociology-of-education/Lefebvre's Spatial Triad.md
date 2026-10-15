@@ -9,7 +9,7 @@ aliases:
 summary: "法国哲学家与社会学家亨利·列斐伏尔（Henri Lefebvre）在《空间的生产》（1991）中创立的批判空间理论分析框架，确立空间并非自然中立的被动容器，而是由社会关系生产的动态产物；通过空间实践（感知空间）、空间表征（构想空间）与表征性空间（活生生空间）三元辩证互动，为比较教育学解构学校空间治理规训以及分析高等教育区域产学政网络提供了核心理论透镜。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 37
+theory_related_count: 36
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -43,7 +43,6 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Social Cartography]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Ethnography]]"
   - "[[In-depth Interview]]"
   - "[[Network Analysis]]"
@@ -66,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-11
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Lefebvre's Spatial Triad
@@ -111,7 +110,7 @@ updated: 2026-10-14
 > | 构件名称 | 原文术语 | 构件属性 | 在理论中的核心功能 |
 > |:---|:---|:---|:---|
 > | **感知空间**<br>（Perceived Space） | *Espace perçu* / Spatial Practice | 物质性维度 | 对应日常**空间实践（Spatial Practice）**；指可感知的物理基础设施、地理区位、建筑形态与人体具身移动动线，确保社会形态的物质凝聚力。 |
-> | **构想空间**<br>（Conceived Space） | *Espace conçu* / Representations of Space | 观念与制度维度 | 对应**空间表征（Representations of Space）**；由规划者、行政官员与技术官僚通过政策文本、蓝图制图、学区划界与法律法规[[Coding in Qualitative Research\|编码]]所建构的主导性空间。 |
+> | **构想空间**<br>（Conceived Space） | *Espace conçu* / Representations of Space | 观念与制度维度 | 对应**空间表征（Representations of Space）**；由规划者、行政官员与技术官僚通过政策文本、蓝图制图、学区划界与法律法规编码所建构的主导性空间。 |
 > | **活生生空间**<br>（Lived Space） | *Espace vécu* / Representational Spaces | 经验与意义维度 | 对应**表征性空间（Representational Spaces）**；日常行动者通过具身体验、象征想象与非正规抗争所经历和“活出来”的空间，是被支配者潜藏能动性与创新的源泉。 |
 > | **空间封闭容器**<br>（Spatial Enclosures） | Spatial Enclosures | 治理机制构件 | 现代学校通过砖石校舍、打铃作息与学籍门槛将学龄人口固定在受控物理场所内的制度技术。[[Argument_Sobe_Fischer_2009_MobilityMigration\|(Sobe & Fischer, 2009, p. 361)]] |
 > | **结构洞跨界**<br>（Structural Hole Spanning） | [[Structural Holes\|structural hole]] Spanning | 网络机制构件 | 战略行动者在分割的制度与物理空间之间架设桥梁，填补学术、产业与政府之间的连接空洞。[[Argument_Cai_Gao_Liu_2025_HE\|(Cai et al., 2025)]] |
@@ -183,7 +182,7 @@ updated: 2026-10-14
 > - **适合分析** 涉及地理空间位移、建筑物理环境[[Disciplina and Doctrina|规训]]、跨区域政策扩散、超国家与区域一体化[[Space Production|空间生产]]，以及行动者具身实践与制度结构冲突的研究。
 > - **成立条件** 需要研究者同时收集物理环境、政策制度文本以及日常行动者具身体验三套不同属性的经验材料，具备跨学科对话能力。
 > - **解释不足** 理论原初模型高度偏重哲学与宏观社会学思辨，对微观心理过程、个体认知加工机制以及纯粹虚拟网络空间（如元宇宙与[[Generative Artificial Intelligence|生成式人工智能]]生成的数字空间）的具身性缺乏细致处理。
-> - **转化困难** 感知空间、构想空间与活生生空间的三元界限在实际质性资料[[Coding in Qualitative Research|编码]]中容易重叠，研究者常难以严格切分某项口述材料究竟属于空间的表征还是表征性空间。
+> - **转化困难** 感知空间、构想空间与活生生空间的三元界限在实际质性资料编码中容易重叠，研究者常难以严格切分某项口述材料究竟属于空间的表征还是表征性空间。
 > - **不能直接推出** 不能仅指出某项教育现象具有“空间维度”就直接推导出现象产生的原因；空间是社会关系的载体与中介，必须结合具体的政治经济学权力机制与行动者动机方能形成严密因果解释。
 
 ---

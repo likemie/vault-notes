@@ -8,7 +8,7 @@ aliases:
 summary: "设立于高校和研究机构内部依据法规在数据收集前审查涉及人类受试者研究方案的伦理治理机构；在规范受试者风险防范与知情同意的同时，也因规章形式主义、情境伦理钝感与抑制激进科学探索而面临深刻的制度批评。"
 type: concept
 domain: "research-methodology"
-related_count: 37
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Clinical Trial]]"
   - "[[Gatekeepers]]"
   - "[[Academic Medical Center]]"
-  - "[[APA Style]]"
   - "[[Research Universities]]"
   - "[[Research Purpose]]"
   - "[[Variable]]"
@@ -63,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Institutional Review Board
@@ -91,7 +90,7 @@ updated: 2026-10-09
 > [!contrast-table] 概念辨析
 > | 维度 | 本地机构审查委员会（Local IRB） | 中心/商业审查委员会（Central IRB） | 专业学术协会伦理守则 |
 > |---|---|---|---|
-> | **组织设立主体** | 单一大学、医院或[[Academic Medical Center\|学术医疗中心]]内部设立 | 独立商业伦理服务机构或国家级统一伦理协作网络 | 学术同行共同体（如 [[American Educational Research Association\|AERA]]、[[British Educational Research Association\|BERA]]、[[APA Style\|APA]]） |
+> | **组织设立主体** | 单一大学、医院或[[Academic Medical Center\|学术医疗中心]]内部设立 | 独立商业伦理服务机构或国家级统一伦理协作网络 | 学术同行共同体（如 [[American Educational Research Association\|AERA]]、[[British Educational Research Association\|BERA]]、APA） |
 > | **审查周期与效率** | 较长（通常需 30–60 天，受限于校内例会排期） | 极快（通常 0–15 天，支持高频次线上集中评审） | 非审批制（提供自律指引，无直接项目批复权） |
 > | **核心管辖特征** | 强调机构本地政策、[[Informed Consent\|知情同意]]定制与属地责任 | 支持多中心试验共享依赖协议（sIRB），加速启动 | 依靠同行学术规范、期刊发表门槛与学者自律维系 |
 > | **典型现实代表** | 传统[[Research Universities\|研究型大学]] IRB、公立医院伦理委员会 | WCG IRB、Advarra、[[Clinical Trials Transformation Initiative\|CTTI]] 倡导的单中心伦理协作网 | BERA (2004) 伦理指南、APA (2002) 伦理原则 |
@@ -118,7 +117,7 @@ updated: 2026-10-09
 > - **机构伦理审查委员会层**
 >   高校、医疗中心与商业科研机构设立的 IRB 承担事前准入审查与持续监督。
 > - **专业学会伦理守则层**
->   [[American Educational Research Association|AERA]]、[[British Educational Research Association|BERA]] 与 [[APA Style|APA]] 等专业协会制定行业自律标准（如限制[[Deception in Research|研究欺骗]]、倡导行善与[[Non-maleficence and Beneficence in Research|不伤害原则]]）。
+>   [[American Educational Research Association|AERA]]、[[British Educational Research Association|BERA]] 与 APA 等专业协会制定行业自律标准（如限制[[Deception in Research|研究欺骗]]、倡导行善与[[Non-maleficence and Beneficence in Research|不伤害原则]]）。
 > - **研究者情境自律层**
 >   依托研究者个人的学术诚信、良知与对复杂田野现场的情境化伦理反思。
 

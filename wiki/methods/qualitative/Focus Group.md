@@ -9,7 +9,7 @@ summary: "一种群体访谈方法，依赖小组成员围绕研究者提供的�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 20
+method_related_count: 18
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -19,7 +19,6 @@ tags:
   - group-interview
 related_concepts:
   - "[[Emergence]]"
-  - "[[Hypothesis]]"
   - "[[Causality]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
@@ -32,7 +31,6 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Content Analysis]]"
   - "[[Transcription in Qualitative Research]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Interview]]"
   - "[[Interview Protocol]]"
   - "[[Correlational Research]]"
@@ -43,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-09-23
+updated: 2026-10-15
 ---
 
 # Focus Group
@@ -57,7 +55,7 @@ updated: 2026-09-23
 
 > [!method-scope] 方法范围
 > - **研究对象** 群体对特定议题的态度、价值观、意见、经验以及群体内部的互动模式和共识/分歧的形成过程。
-> - **问题类型** 适合探索性研究——定向特定领域、开发后续访谈/[[Questionnaire\|问卷]]的主题和提纲、生成[[Hypothesis\|假设]]、收集对先前研究的反馈。不适合回答需要数值估计或[[Causality\|因果关系]]的问题。
+> - **问题类型** 适合探索性研究——定向特定领域、开发后续访谈/[[Questionnaire\|问卷]]的主题和提纲、生成假设、收集对先前研究的反馈。不适合回答需要数值估计或[[Causality\|因果关系]]的问题。
 > - **[[Unit of Analysis\|分析单位]]** 群体整体，而非个体成员。即使群体内部存在个体差异，也寻求集体性群体回应（p.457）。
 > - **输出形式** 质性主题、群体共识与分歧地图、态度和价值观的集体表述，以及用于[[Triangulation\|三角互证]]和后续工具开发的主题框架。
 
@@ -75,7 +73,7 @@ updated: 2026-09-23
 > - **研究设计** [[Qualitative Research\|质性研究]]设计，常与其他方法（个别访谈、[[Questionnaire\|问卷]]、观察）[[Triangulation\|三角互证]]。
 > - **数据收集** 同质性小组（4–12 人，Morgan 建议；6–8 人，Fowler 建议），半结构化话题指南，技能性主持，录音记录。
 > - **分析方法** 主题分析、[[Content Analysis\|内容分析]]、群体互动分析（关注参与者如何相互支持、影响、补充、同意和不同意）。
-> - **辅助技术** 过度招募（超额招募多达 20% 以应对缺席，Morgan, 1988, p. 44）；目的抽样确保每人是所需特征的承载者或群体具有所需背景的同质性；[[Transcription in Qualitative Research\|转录]]与[[Coding in Qualitative Research\|编码]]。
+> - **辅助技术** 过度招募（超额招募多达 20% 以应对缺席，Morgan, 1988, p. 44）；目的抽样确保每人是所需特征的承载者或群体具有所需背景的同质性；[[Transcription in Qualitative Research\|转录]]与编码。
 
 ---
 
@@ -95,7 +93,7 @@ updated: 2026-09-23
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 定向特定领域的初步探索（Morgan, 1988; Krueger, 1988）；灵活开发后续访谈和/或[[Questionnaire\|问卷]]的主题和提纲；从群体洞见和数据生成[[Hypothesis\|假设]]；生成和评估不同亚群体的数据；快速、低成本收集质性数据；收集态度、价值观和意见数据；赋权参与者用自己的话发言；鼓励不识字参与者；提供比调查更广泛的问题覆盖；收集对先前研究的反馈（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al., 2011, pp. 464–465]]）。
+> - **适合使用** 定向特定领域的初步探索（Morgan, 1988; Krueger, 1988）；灵活开发后续访谈和/或[[Questionnaire\|问卷]]的主题和提纲；从群体洞见和数据生成假设；生成和评估不同亚群体的数据；快速、低成本收集质性数据；收集态度、价值观和意见数据；赋权参与者用自己的话发言；鼓励不识字参与者；提供比调查更广泛的问题覆盖；收集对先前研究的反馈（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al., 2011, pp. 464–465]]）。
 > - **谨慎使用** 当话题敏感时（陌生人可能不愿坦诚分享）；当权力或地位差异在群体内显著时（可能导致某些声音被压制）；当需要个体层面深度数据时。
 > - **不适合使用** 需要个体深度叙述时；话题高度个人性或敏感时；需要可量化和可推广数据时；需要明确[[Causality\|因果推断]]时。
 

@@ -8,7 +8,7 @@ aliases:
 summary: "指当代精英青年与专业阶层过度追求保留退路与最大化未来可能性，从而系统性规避做出不可逆承诺、亮明明确立场或承担现实冒险后果的心智与行为模式。"
 type: concept
 domain: "sociology-of-education"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,7 +18,6 @@ tags:
   - theme/careerism
   - theme/higher-education
 related_concepts:
-  - "[[Attrition]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:
@@ -34,7 +33,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Cult of Optionality
@@ -74,7 +73,7 @@ updated: 2026-10-08
 ### 命题一　选择权最大化驱动精英人才从实体创造向金融与咨询等中介行业群体性漂移
 
 > [!concept-lens] 职业流动与社会资本分配
-> 考察选择权崇拜如何深刻扭曲高等教育的人才导向，导致顶尖智力资源从前沿工程、人文学科与公共治理领域[[Attrition|流失]]。
+> 考察选择权崇拜如何深刻扭曲高等教育的人才导向，导致顶尖智力资源从前沿工程、人文学科与公共治理领域流失。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]]
 > **智力资源的避险转移** 对选择权的无休止追逐导致当代最优秀的一代头脑普遍游离于重大历史与现实问题之外；哈佛大学等顶尖学府毕业生近半数涌向金融与管理咨询业，正是选择权崇拜在职业选择中的制度化体现。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 75–76)]]

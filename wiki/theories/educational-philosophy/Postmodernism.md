@@ -7,7 +7,7 @@ aliases:
 summary: "反抗启蒙现代性与实证主义决定论的思想思潮；在教育研究中解构宏大元叙事，肯定断裂、差异与本土微观情境，揭示知识的社会建构性与权力纽带，并以变色龙般的亲和性连接诠释范式、复杂性理论与批判理论。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 47
+theory_related_count: 45
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -38,7 +38,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[International Education]]"
   - "[[Research Question]]"
-  - "[[Hypothesis]]"
   - "[[Policy Borrowing]]"
   - "[[Analytical Stance]]"
 related_theories:
@@ -56,7 +55,6 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Ethnography]]"
   - "[[Discourse Analysis]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_persons:
   - "[[Jean-François Lyotard]]"
@@ -72,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Postmodernism
@@ -156,7 +154,7 @@ updated: 2026-10-08
 > [!theory-proposition] 命题二｜地方微观情境与时间性构成教育意义的不可还原边界，去情境化的通则测量必然失效
 > **解释** 詹姆逊（1991）与科恩等人（2011）指出，教学与学习的真实意涵永远根植于即时的时间、微观物理空间与师生交往的特定历史文化脉络中。任何试图将教学事件剥离出具体生活世界、抽象为标准化量化[[Variable|变量]]的举措，不仅无法解释教育事实，反而会人为斩断事件的历史连续性与主体间意义，导致对经验复杂性的粗暴抹杀。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, pp. 20, 28)]]
 >
-> **应用实例** 在课堂微观研究的“草莓事件”（Walker & Adelman, 1975）中，外来观察者仅凭行为[[Coding in Qualitative Research|编码]]系统无法理解全班学生为何在一声看似无关的打断后哄堂大笑；唯有置身于该班级数周以来师生共同演进的微观历史情境中，才能发现“草莓”是此前一次互动留下的共享象征密码。脱离情境的测量彻底失去了理解微观现实的能力。
+> **应用实例** 在课堂微观研究的“草莓事件”（Walker & Adelman, 1975）中，外来观察者仅凭行为编码系统无法理解全班学生为何在一声看似无关的打断后哄堂大笑；唯有置身于该班级数周以来师生共同演进的微观历史情境中，才能发现“草莓”是此前一次互动留下的共享象征密码。脱离情境的测量彻底失去了理解微观现实的能力。
 
 > [!theory-proposition] 命题三｜知识与权力共生纽带要求解构研究者特权，在[[Reflexivity|反思性]]重构中赋权多元与边缘声音
 > **解释** 福柯与后现代学者阐明，科学知识绝非超然于政治与利益之外的纯洁镜像，它始终深嵌于知识-权力纽带（Knowledge-Power Nexus）之中。研究者对现象的解释不再享有先验神圣的“客观仲裁权”，其理论本身就是特定权力网络的生产物。后现代主义要求研究者放下全知全能的权威姿态，将自身置于与受访者平等的对话网络中，对自身的学术偏见与权力涉入进行持续的反身性（Reflexivity）审视，进而为边缘声音赋权。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, pp. 28–29)]]
@@ -179,7 +177,7 @@ updated: 2026-10-08
 > |:---|:---|:---|:---|
 > | [[Grand Theory\|元叙事]]解构（Lyotard, 1979） | **宏大理论与普适律解构** 文本是否宣称发现了所有学校适用的铁律？排除了哪些不合拍的地方经验？ | 政策前言中的“普适真理”话语、对不同路径国家/学校的落后标签。 | 出现单一[[Determinism\|决定论]]发展模型并抹杀例外者，判定为受到宏大元叙事宰制。 |
 > | 时空情境依赖（Jameson, 1991） | **微观脉络与时间黏着性** 行动者的意义赋予如何取决于具体微观场所与历史时刻？去情境化指标造成了何种失真？ | 地方特定俚语、微观历史偶发事件在意义生成中的关键中介作用。 | 若某种行为仅在特定历史交往中具有意义，强行跨情境量化必致效度破产。 |
-> | 知识-权力共生（Foucault, 1980） | **权威特权与研究者去中心化** 报告由谁执笔、谁的声音被放大、谁被沉默？研究者是否暴露了自身偏好？ | 第一人称叙事比例、矛盾解释的保留程度、[[Reflexivity\|反身性]]自我审查声明。 | 单一全知视角的专断报告反映权力霸权；并列多重视角支持去中心化[[Hypothesis\|假设]]。 |
+> | 知识-权力共生（Foucault, 1980） | **权威特权与研究者去中心化** 报告由谁执笔、谁的声音被放大、谁被沉默？研究者是否暴露了自身偏好？ | 第一人称叙事比例、矛盾解释的保留程度、[[Reflexivity\|反身性]]自我审查声明。 | 单一全知视角的专断报告反映权力霸权；并列多重视角支持去中心化假设。 |
 > | 多重实在并存（Jameson, 1991） | **浅表多元与异质声音赋权** 实践现场是否存在互不相容却合法共存的多元解释？弱势群体如何自我表征？ | 学生、家长与管理者的相互矛盾叙述；非主流文化群体的原生态表述。 | 拒绝以唯一标准判定对错，承认矛盾叙事本身就是社会实在的真实构成部分。 |
 
 ---

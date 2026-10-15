@@ -7,7 +7,7 @@ aliases:
 summary: "教育研究中因果性的一种刻画方式，主张因果关系是概率性的而非确定性的——原因提高效果发生的可能性而非保证效果发生"
 type: concept
 domain: "educational-philosophy"
-related_count: 6
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,7 +19,6 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Causal Processes]]"
   - "[[Ways of Knowing]]"
-  - "[[Hypothesis]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -29,7 +28,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-09-11
+updated: 2026-10-15
 ---
 
 # Probabilistic Causation
@@ -74,5 +73,5 @@ updated: 2026-09-11
 > [!implication] 概率因果性的方法论后果
 > 接受概率因果性意味着：
 > - 研究者需要在因果推断中容纳不确定性和不可预测性。
-> - 统计工具（如偏相关、回归、结构方程模型）可以辅助因果分析，但背后的因果[[Hypothesis\|假设]]来自理论而非统计模型本身。
+> - 统计工具（如偏相关、回归、结构方程模型）可以辅助因果分析，但背后的因果假设来自理论而非统计模型本身。
 > - 质性数据在揭示[[Causal Processes\|因果过程]]如何在具体情境中运作方面具有优先地位。

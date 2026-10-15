@@ -9,7 +9,7 @@ aliases:
 summary: "教育包容与排斥的双重问题式是托马斯·S·波普科维茨与斯韦克·林德布拉德提出的教育社会学批判分析框架，区隔了聚焦入学机会、资源分配与国家制度代表性的“公平-参与问题式”，以及聚焦思维理性系统、文化分类图式与主体资格筛选的“知识问题式”；在比较教育学中，空间治理实践被视作沟通并统一这两大问题式的关键纽带。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 26
+theory_related_count: 24
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Cultural Capital]]"
   - "[[Operationalization]]"
   - "[[Unit of Analysis]]"
-  - "[[Bildung]]"
   - "[[Language Skills]]"
   - "[[Boarding Schools]]"
   - "[[Sedentarism]]"
@@ -41,7 +40,6 @@ related_theories:
   - "[[Critical Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
-  - "[[Coding in Qualitative Research]]"
 related_instruments: []
 related_persons:
   - "[[Thomas S. Popkewitz]]"
@@ -55,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Two Problematics of Educational Inclusion and Exclusion
@@ -114,7 +112,7 @@ graph TD
 > | **理论源流** | 自由主义政治哲学、再分配正义、韦伯国家社会学 | 福柯知识-权力学说、社会认识论、文化社会学 |
 > | **国家定位** | 利益协调者、资源再分配与公民权利的实体行政保障者 | 生产真理体系、界定“正常/异常”主体资格的理性治理装置 |
 > | **[[Unit of Analysis\|分析单位]]** | 法律条文、财政预算、入学率、师生比、人口学亚群 | 推理系统（Systems of Reasoning）、评价标准、心理学分类图式 |
-> | **排斥机制** | 物理准入门槛、歧视性法律法规、学区隔离、经济剥夺 | 象征贬抑、赤字病理化[[Coding in Qualitative Research\|编码]]、资格驱逐（Abjection） |
+> | **排斥机制** | 物理准入门槛、歧视性法律法规、学区隔离、经济剥夺 | 象征贬抑、赤字病理化编码、资格驱逐（Abjection） |
 > | **政策盲区** | 误以为消除法律壁垒与增加投入即可实现彻底平等 | 容易偏向纯粹文本批判，而弱化对国家物质权力的追踪 |
 > | **空间实践映射** | 校舍地理分布、学区边界设立、户籍与身份登记准入 | 课桌排列、时间[[Disciplina and Doctrina\|规训]]、空间合规性界定与心理测验区隔 |
 
@@ -134,7 +132,7 @@ graph TD
 ### 命题二　包容性政策话语与推理系统内生性地生产对边缘群体的象征驱逐
 
 > [!claim] Popkewitz & Lindblad (2000)
-> **包容政策中的象征驱逐机制（Abjection）** 针对弱势群体的补偿性教育方案（如“处境不利儿童干预”、“多元文化扶助”），其政策推理系统往往预先将这部分儿童界定为在家庭[[Bildung|教养]]、[[Language Skills|语言能力]]或心理品质上“有缺陷”的异常客体。这种以“包容”为名的救赎[[Discourse|话语]]，实质上在把弱势儿童纳入学校物理空间的同时，在象征认知空间内完成了对他们文化主体性的深刻驱逐。
+> **包容政策中的象征驱逐机制（Abjection）** 针对弱势群体的补偿性教育方案（如“处境不利儿童干预”、“多元文化扶助”），其政策推理系统往往预先将这部分儿童界定为在家庭教养、[[Language Skills|语言能力]]或心理品质上“有缺陷”的异常客体。这种以“包容”为名的救赎[[Discourse|话语]]，实质上在把弱势儿童纳入学校物理空间的同时，在象征认知空间内完成了对他们文化主体性的深刻驱逐。
 
 ---
 
@@ -156,7 +154,7 @@ graph TD
 
 [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] 借助五国经验材料，系统展现了空间实践如何统合两大问题式：
 1. **中国进城务工随迁学童** 在公平-参与层面，二元[[Hukou System|户籍制度]]直接在物理空间上将[[Migrant Children|随迁子女]]排斥在城市公立学校之外；在知识问题式层面，政策与社会话语将城市常住视为合规，将流动自发创办的学校定性为缺乏资质与秩序的“黑校”，即便公立学校逐步接纳随迁儿童，仍通过借读标签与积分制实施隐性筛选。
-2. **美国农业流动儿童** 在公平-参与层面，1982 年《[[Plyler v. Doe 1982|普莱勒诉多伊案]]》裁定公立学校不得核查移民身份并赋予无证儿童受教育权；但在知识问题式层面，2001 年《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（NCLB）的问责指标将学生学年中途流动[[Coding in Qualitative Research|编码]]为拉低 [[Adequate Yearly Progress|AYP]] 达标率的“漂泊”失范，在校园内部诱发隐性的分班隔离与教学排斥。
+2. **美国农业流动儿童** 在公平-参与层面，1982 年《[[Plyler v. Doe 1982|普莱勒诉多伊案]]》裁定公立学校不得核查移民身份并赋予无证儿童受教育权；但在知识问题式层面，2001 年《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》（NCLB）的问责指标将学生学年中途流动编码为拉低 [[Adequate Yearly Progress|AYP]] 达标率的“漂泊”失范，在校园内部诱发隐性的分班隔离与教学排斥。
 3. **英国大篷车游民儿童** 在公平-参与层面，地方教育当局推行多元文化接纳与巡回教师支持；但在知识问题式层面，学校建筑高度结构化的物理微观空间（固定课桌椅、封闭走廊、严苛考勤节律）与游民自由迁徙的生活节律产生剧烈文化失调，游民儿童被病理化为具有多动或注意力障碍的“异常学生”。
 4. **印度拉巴里游牧部族与定居[[Boarding Schools|寄宿学校]]** 在公平-参与层面，国家在边疆兴建公立[[Boarding Schools|寄宿学校]]以提供免费入学指标；但在知识问题式层面，国家将寄宿学校明确用作消解部族流动性、强推[[Sedentarism|定居主义]]（Sedentarization）的同化工具；拉巴里家庭则展现出反向能动性，策略性将单个儿子送入寄宿学校作为生计风险的“保险单”，用以对冲外部文字盘剥（Dyer, 2001; [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009, p. 367]]）。
 

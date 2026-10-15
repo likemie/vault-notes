@@ -9,9 +9,9 @@ title: "Argument_Klerides_2023_CE"
 argument_key: "Argument_Klerides_2023_CE"
 argument_display_title: "Comparative education and international relations"
 argument_kind: "journal-article"
-argument_related_count: 60
-argument_related_level: 4
-argument_related_stars: "⭐⭐⭐⭐"
+argument_related_count: 56
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Comparative Education
 citation: "Klerides, E. (2023). Comparative education and international relations. Comparative Education, 59(3), 416-435."
@@ -25,7 +25,6 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Knowledge Production]]"
-  - "[[Document]]"
   - "[[Policy Borrowing]]"
   - "[[Paradigm]]"
   - "[[Agendas of Attention]]"
@@ -40,10 +39,8 @@ related_concepts:
   - "[[International Education]]"
   - "[[Discourse]]"
   - "[[Post-Fordism]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Unit of Analysis]]"
   - "[[Reference Society]]"
-  - "[[Hypothesis]]"
   - "[[International Mind]]"
   - "[[Externalization]]"
   - "[[Policy Entrepreneur]]"
@@ -76,7 +73,6 @@ related_persons:
   - "[[Immanuel Kant]]"
   - "[[Michael Sadler]]"
   - "[[Isaac Kandel]]"
-  - "[[Marc-Antoine Jullien]]"
   - "[[Philip Altbach]]"
 related_facts:
   - "[[Comparative and International Education Society]]"
@@ -110,7 +106,7 @@ citation_aliases:
 > 比较教育与国际关系之间存在着深层的学科纠缠，这种纠缠贯穿了学术界的各个维度。比较教育往往以民族国家为分析的逻辑起点，追求基于他国经验的本国教育进步，倡导通过国际合作促进世界和平，探索跨国身份与[[Knowledge Production\|知识生产]]网络，并在全球与地方的互动中解读教育的不平等。比较教育学者选择居住和工作的地点、给专业学术学会起的名称、所在院系的机构归属以及专业期刊编委会的国籍构成，都深刻反映了当下或正在发生转变的国际关系格局(p. 416)。
 > 
 > 然而，一个显著的学术悖论贯穿始终：比较教育从未系统性地运用[[Wight's Three Traditions of International Theory\|国际关系理论]]的透镜来阐述自身的学科身份、历史和未来。纠缠如此之深，理论自觉如此之少，这种不对称性本身就值得追问。这之所以构成悖论，还因为三个现实条件使这种理论自觉变得既需要也可行：
-> 1. 这种纠缠本身一直支撑着比较教育的历史[[Document\|文献]]。
+> 1. 这种纠缠本身一直支撑着比较教育的历史文献。
 > 2. 纠缠深刻地形塑了当下的学术可能性。
 > 3. 纠缠正将比较教育引向具有[[Path Dependence|路径依赖]]性质的未来。
 > 
@@ -145,7 +141,7 @@ citation_aliases:
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **理论建构与概念分析**<br>Theoretical Analysis and Conceptual Deconstruction | 这属于思辨性探讨，不涉及经验数据收集，具体方法逻辑是将怀特的[[Wight's Three Traditions of International Theory\|国际关系三大传统]]作为分析透镜，逐一提取比较教育思想与实践在过去与现在的形态(p. 417)。 |
-> | **历史与当代案例检索**<br>Case Retrieval and Extraction | 从比较教育的历史[[Document\|文献]]与当代文献中检索与三大传统核心概念（权力、权威、武力）相匹配的学术议程、政策实践和大学建制安排(pp. 417–418)。 |
+> | **历史与当代案例检索**<br>Case Retrieval and Extraction | 从比较教育的历史文献与当代文献中检索与三大传统核心概念（权力、权威、武力）相匹配的学术议程、政策实践和大学建制安排(pp. 417–418)。 |
 
 ---
 
@@ -207,7 +203,7 @@ citation_aliases:
 >   - 1961年 [[OECD\|经合组织]]（OECD）成立，系统将教育规划纳入经济增长议程(Elfert, 2017)。
 >   - 1963年 [[UNESCO\|联合国教科文组织]]成立[[International Education\|国际教育]]规划研究所（[[International Institute for Educational Planning\|IIEP]]），由前美国助理国务卿库姆斯领导，将教育经济学与[[Human Capital Theory\|人力资本]]投资在全球推广，芝加哥大学 Anderson 的比较教育中心在融合比较教育与教育经济学中发挥了关键作用。
 > - **1990s 至今 — 新自由主义全球化的延续** 苏联解体后，“发展[[Paradigm\|范式]]”演变为新自由主义的“最佳实践”输出[[Discourse|话语]]，[[World Bank\|世界银行]]、OECD 等国际组织通过输出“高效教育系统”的标准模型，维持[[Post-Fordism|后福特主义]]的资本积累和以美国为核心的全球资本主义权力网络(p. 422)。
-> - **2000s 至今 — 解释学与转移研究的权力制约** 考恩等学者深化了转移、[[Transfer Translation Transformation\|转译]]与转化的解释学框架([[Argument_Cowen_2009_CE\|Cowen, 2009b]])，但“适应教育”模型从美国南方黑人学校流向非洲再到太平洋殖民地的跨国流动轨迹表明，思想的转移流向依然受到全球地缘权力等级链条的严格支配。
+> - **2000s 至今 — 解释学与转移研究的权力制约** 考恩等学者深化了转移、转译与转化的解释学框架([[Argument_Cowen_2009_CE\|Cowen, 2009b]])，但“适应教育”模型从美国南方黑人学校流向非洲再到太平洋殖民地的跨国流动轨迹表明，思想的转移流向依然受到全球地缘权力等级链条的严格支配。
 
 > [!evidence-grid-a] 在场（Presences）
 > - **以国家为[[Unit of Analysis\|分析单位]]** 聚焦于国家管理和运行的公共学校系统。
@@ -222,7 +218,7 @@ citation_aliases:
 > - **固化本质主义国家身份** 将国民身份视为统一和本质的，排除了性别、种族和阶级的内在分层。
 
 > [!warrant]- 推理桥梁
-> 现实主义无政府状态的[[Hypothesis\|假设]]，使比较教育成为国家间实力竞争和地缘博弈的实用科学，这直接解释了地缘危机和殖民扩张如何驱动学科的焦点转换。
+> 现实主义无政府状态的假设，使比较教育成为国家间实力竞争和地缘博弈的实用科学，这直接解释了地缘危机和殖民扩张如何驱动学科的焦点转换。
 
 ---
 
@@ -265,7 +261,7 @@ citation_aliases:
 > 革命主义将国际秩序解构为压迫与被压迫的阶级与殖民支配结构。这推动比较教育成为一项道德批判事业，旨在揭露不平等、挑战殖民性并为被压迫群体争取解放(p. 426)。
 
 > [!dev-timeline] 革命主义比较教育的演进脉络
-> - **1817 — 学科源头的殖民纠缠** 革命主义学者指出，[[Marc-Antoine Jullien\|朱利安]]的学科奠基计划（1817年）本身就诞生于欧洲列强帝国扩张时期的旅行、观察和差异分类技术中，带着与殖民分类学密不可分的历史烙印(Sobe, 2017)。
+> - **1817 — 学科源头的殖民纠缠** 革命主义学者指出，朱利安的学科奠基计划（1817年）本身就诞生于欧洲列强帝国扩张时期的旅行、观察和差异分类技术中，带着与殖民分类学密不可分的历史烙印(Sobe, 2017)。
 > - **1970s–1980s — [[Dependency Theory\|依附理论]]与新马克思主义的介入** 卡诺伊、[[Philip Altbach|阿特巴赫]]等学者引入“中心-边缘”模型，解构西方资本主义世界秩序对穷国的剥削，将西方输出的学校系统解读为延续帝国支配、造成“心智奴役”的手段(p. 426)。
 >   - 1974年 卡诺伊出版《教育作为文化帝国主义》，主张通过“解放学校”打破社会阶级等级。
 >   - 1970s-1980s 越南、古巴和莫桑比克等革命政府借鉴苏联“工人学院”模式，从工农中重塑社会主义知识分子以取代资产阶级精英(Kaiser, 2015)。

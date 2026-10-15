@@ -8,7 +8,7 @@ aliases:
 summary: "以 Nelson & Winter（1982）为奠基的经济学流派，将经济变迁视为多样性变异、组织惯例学习、路径依赖与动态选择的演化过程；批判新古典静态均衡假设，为技术轨迹、创新系统、公共动态能力与引领和学习范式提供底层理论基石"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 64
+theory_related_count: 62
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -19,7 +19,6 @@ tags:
   - industrial-economics
   - science-policy
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Market Shaping and Creating]]"
   - "[[Public Dynamic Capabilities]]"
   - "[[Heterogeneity]]"
@@ -42,7 +41,6 @@ related_concepts:
   - "[[Grand Challenges]]"
   - "[[New Public Management]]"
   - "[[University-Industry Collaboration]]"
-  - "[[Document]]"
   - "[[Competitiveness]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Complexity Paradox]]"
@@ -91,7 +89,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-10
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Evolutionary Economics
@@ -102,7 +100,7 @@ updated: 2026-10-09
 
 > [!theory-position] 理论定位
 > - **解释对象** 解释技术创新、产业演进、企业行为差异与宏观经济长期动态变迁的内在机理，重点解构经济系统中的多样性产生、组织惯例变异、[[Path Dependence|路径依赖]]与动态选择机制。[[Argument_Bogliacino_Pianta_2016_EP|(Bogliacino & Pianta, 2016, pp. 153–156)]]
-> - **理论问题** 回应并打破新古典经济学关于完全理性、代表性企业（Representative Agent）、边际最优化行为与静态市场均衡的刚性[[Hypothesis|假设]]，揭示现实经济如何在极度不确定性与非线性互动中演进。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 806–807)]]
+> - **理论问题** 回应并打破新古典经济学关于完全理性、代表性企业（Representative Agent）、边际最优化行为与静态市场均衡的刚性假设，揭示现实经济如何在极度不确定性与非线性互动中演进。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 806–807)]]
 > - **理论类型** 异端经济学理论体系、中观产业演进理论与宏观创新治理哲学。
 > - **知识位置** 承接[[Joseph Schumpeter|熊彼特]]创新理论与西蒙[[Bounded Rationality|有限理性]]假说，是Pavitt 产业分类法、[[Technological Trajectories|技术轨迹]]理论、国家[[Systems of Innovation|创新系统理论]]以及现代[[Market Shaping and Creating|市场塑造]]、[[Public Dynamic Capabilities|公共动态能力]]与使命导向政策的底层基石。
 
@@ -114,7 +112,7 @@ updated: 2026-10-09
 ## 理论来源与形成
 
 > [!theory-origin] 理论渊源与思想演进
-> - **理论先驱** [[Friedrich List|弗里德里希·李斯特]]（Friedrich List, 1841）对古典物质资本观的批判奠定了演化经济学关于无形[[Intellectual Capital|智力资本]]跨代积累与国家生产力思想的深层先声；[[Joseph Schumpeter|约瑟夫·熊彼特]]（Joseph Schumpeter）的“[[Creativity|创造性]]破坏”（[[Creative Destruction]]）理论奠定了创新作为资本主义动态引擎的核心地位；[[Herbert A. Simon|赫伯特·西蒙]]（[[Herbert A. Simon|Herbert Simon]]）的[[Bounded Rationality|有限理性]]（Bounded Rationality）理论打破了完全理性的最大化[[Hypothesis|假设]]；生物演化论提供了“变异–选择–保留”（Variation-Selection-Retention）的演化隐喻。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–6)]]
+> - **理论先驱** [[Friedrich List|弗里德里希·李斯特]]（Friedrich List, 1841）对古典物质资本观的批判奠定了演化经济学关于无形[[Intellectual Capital|智力资本]]跨代积累与国家生产力思想的深层先声；[[Joseph Schumpeter|约瑟夫·熊彼特]]（Joseph Schumpeter）的“[[Creativity|创造性]]破坏”（[[Creative Destruction]]）理论奠定了创新作为资本主义动态引擎的核心地位；[[Herbert A. Simon|赫伯特·西蒙]]（[[Herbert A. Simon|Herbert Simon]]）的[[Bounded Rationality|有限理性]]（Bounded Rationality）理论打破了完全理性的最大化假设；生物演化论提供了“变异–选择–保留”（Variation-Selection-Retention）的演化隐喻。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–6)]]
 > - **奠基著作** [[Richard Nelson|理查德·纳尔逊]]与西德尼·温特（Nelson & Winter, 1982）出版里程碑著作《经济变迁的演化理论》（*An Evolutionary Theory of Economic Change*），系统确立了以“组织惯例（Organizational Routines）”替代边际最优、以“市场选择”替代均衡出清的微观–中观演化[[Paradigm|范式]]。
 > - **中观拓展与技术范式** 乔瓦尼·多西（Dosi, 1982, 1988）提出技术[[Paradigm|范式]]（Technological Paradigms）与[[Technological Trajectories|技术轨迹]]（Technological Trajectories），基思·帕维特（[[Argument_Pavitt_1984_RP|Pavitt, 1984]]）构建了产业创新分类学，将演化逻辑[[Operationalization|操作化]]为中观产业分析工具。
 > - **技术差距与后发赶超模型** 波斯纳（Posner, 1961）、弗里曼（Freeman, 1963, 1965）与法格伯格（Fagerberg, 1987, 1988）构建技术差距（Technology Gaps）与模仿滞后模型，证明跨国增长分化取决于本土知识积累，打破了新古典要素禀赋自发趋同假说。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–8)]]
@@ -154,7 +152,7 @@ updated: 2026-10-09
 > | 比较维度 | 新古典经济学（Neoclassical Economics） | 演化经济学（Evolutionary Economics） |
 > |---|---|---|
 > | **基本[[Unit of Analysis\|分析单元]]** | 同质化的代表性企业（Representative Agent） | 具有[[Heterogeneity\|异质性]]惯例与能力的差异化组织（Heterogeneous Firms） |
-> | **行为[[Hypothesis\|假设]]** | 完全理性与全局边际利润最大化 | [[Bounded Rationality\|有限理性]]、满意准则与搜寻试错学习 |
+> | **行为假设** | 完全理性与全局边际利润最大化 | [[Bounded Rationality\|有限理性]]、满意准则与搜寻试错学习 |
 > | **技术性质** | 外生的通用信息蓝图，可无摩擦自由获取与复制 | 具有内生性、默会性、路径依赖与累积性学习特征 |
 > | **系统状态** | 静态帕累托最优与市场自发出清（Equilibrium） | 远离均衡的动态开放系统、持续变异与结构演化（Open Evolution） |
 > | **市场本质认知** | 先验给定的资源配置自发实体 | 由公私行动者与制度共同演化建构的制度形态 |
@@ -182,7 +180,7 @@ updated: 2026-10-09
 
 ### 命题一　异质性是经济演化的本质内生驱动力而非统计计量噪音
 
-> [!concept-lens] [[Heterogeneity|异质性]]常态[[Hypothesis|假设]]
+> [!concept-lens] [[Heterogeneity|异质性]]常态假设
 > 传统新古典模型将企业间的生产率与策略差异视为围绕代表性均值波动的随机噪音，演化经济学则将其确立为核心分析本体。
 
 > [!claim] Bogliacino & Pianta
@@ -243,7 +241,7 @@ updated: 2026-10-09
 ### 命题总览
 
 > [!contrast-table] 命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者与[[Document\|文献]] |
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
 > | **微观异质性常态命题** | 论证企业生产率与创新能力差异是经济演化的本体性驱动力 | 产业经济学实证建模、全要素生产率测算与异质性分析 | [[Argument_Bogliacino_Pianta_2016_EP\|Bogliacino & Pianta (2016)]]; Nelson & Winter (1982) |
 > | **技术轨迹决定命题** | 阐明不同产业因知识基础与搜寻模式差异形成稳定的分类模式 | 产业技术政策制定、创新模式分类与跨国[[Competitiveness\|竞争力]]比较 | [[Argument_Pavitt_1984_RP\|Pavitt (1984)]]; Dosi (1982, 1988) |
@@ -272,7 +270,7 @@ updated: 2026-10-09
 > [!debates] 学术争议
 >
 > > [!axis] 数学形式化与主流经济学接纳度
-> > 新古典经济学主流学者批评演化经济学依赖[[Computer Simulation|计算机仿真]]模拟和历史叙事，缺乏解析性（Analytical）的封闭数学均衡解；演化学者反驳指出，为了数学上的优雅而强行[[Hypothesis|假设]]代表性企业与市场出清完全是对经济现实的歪曲。
+> > 新古典经济学主流学者批评演化经济学依赖[[Computer Simulation|计算机仿真]]模拟和历史叙事，缺乏解析性（Analytical）的封闭数学均衡解；演化学者反驳指出，为了数学上的优雅而强行假设代表性企业与市场出清完全是对经济现实的歪曲。
 > >
 > > - **Lucas / Solow** 坚持宏观经济模型必须具备基于最优化行为的微观基础。
 > > - **Nelson & Winter (1982)** 强调经济系统的非线性和[[Path Dependence|路径依赖]]使得计算机仿真比封闭方程更能真实再现产业演化动力学。
@@ -306,7 +304,7 @@ updated: 2026-10-09
 > | [[Systems of Innovation]] | 理论 | 演化经济学在国家与区域宏观多主体[[Network Governance\|网络治理]]上的理论拓展。 |
 > | [[Three Generations of Mission-Oriented Policy]] | 理论 | 演化经济学在使命政策历史演变与治理形态变迁上的理论总结。 |
 > | [[ROAR Framework]] | 理论 | 演化经济学在使命导向公共政策领域的四大操作化支柱。 |
-> | [[Market Shaping and Creating]] | 概念 | 演化经济学打破市场失灵修补[[Hypothesis\|假设]]、确立国家主动引领的核心范式。 |
+> | [[Market Shaping and Creating]] | 概念 | 演化经济学打破[[Market Failure\|市场失灵]]修补假设、确立国家主动引领的核心范式。 |
 > | [[Modern Industrial Policy]] | 概念 | 演化经济学在 21 世纪国家产业战略、韧性重构与实验治理中的前沿实践。 |
 > | [[Public Dynamic Capabilities]] | 概念 | 将演化企业动态能力拓展至公共部门的三层制度能力构件。 |
 > | [[Lead-and-Learn Paradigm]] | 概念 | 演化经济学指导公共创新政策治理的[[Active Learning\|主动学习]]与适应范式。 |

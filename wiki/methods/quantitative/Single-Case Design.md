@@ -9,7 +9,7 @@ summary: "多义词：量化实验中个体作为自身控制的重复测量设�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 35
+method_related_count: 34
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Causality]]"
   - "[[Analytic Generalization]]"
-  - "[[Document]]"
   - "[[Theories of Policy Change]]"
   - "[[Epistemology]]"
   - "[[Internal Validity]]"
@@ -64,7 +63,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 ## 概念辨析：两种含义
@@ -79,7 +78,7 @@ Single-case design 在教育研究方法论中有两种截然不同的含义，�
 > | [[Unit of Analysis\|分析单位]] | 个体作为自身控制，重复测量 | 一个案例（可包含多个子分析单位） |
 > | [[Causality\|因果]]逻辑 | 通过撤除/引入干预排除替代解释 | 通过深度理解情境中的机制建立因果解释 |
 > | 推广方式 | 复制逻辑（跨被试、跨情境） | [[Analytic Generalization\|分析性推广]]，案例不是样本 |
-> | 代表[[Document\|文献]] | Kazdin (2011); [[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015)]] | Yin (2009, pp. 46ff.); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|Cohen et al. (2011, Ch14)]] |
+> | 代表文献 | Kazdin (2011); [[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015)]] | Yin (2009, pp. 46ff.); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|Cohen et al. (2011, Ch14)]] |
 > | 核心风险 | 推广性受限，单一研究不足以支撑[[Theories of Policy Change\|政策变革]] | 全有或全无风险，把所有鸡蛋放在一个篮子里 |
 
 本条目聚焦量化实验传统中的 SCD。个案研究中的单案例设计见 [[Case Study]] 和 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14|Cohen et al. (2011, Ch14)]]。

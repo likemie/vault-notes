@@ -8,7 +8,7 @@ aliases:
 summary: "按最终验证结果而非前期投入付费的创新政策工具，涵盖重大技术悬赏奖金、高级市场承诺（AMC）与事后追溯资助；适用于攻坚目标明确但技术路径开放的战略瓶颈，能以高杠杆激发多元解题主体并行试错。"
 type: concept
 domain: "science-policy"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Academic Medical Center]]"
   - "[[Quadratic Funding in Science]]"
   - "[[Grand Challenges]]"
-  - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Variable]]"
 related_theories:
@@ -41,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Pull Mechanisms for Innovation
@@ -82,7 +81,7 @@ updated: 2026-10-09
 
 > [!taxonomy] 创新拉动机制的主要工具形态
 > - **重大技术悬赏奖金（Inducement Prize Contests）** 设立数百万至数千万美元奖金池，奖励首个达到严苛物理或工程指标的团队（如 [[DARPA]] 自动驾驶大挑战、安萨里 X 大奖）。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 28)]]
-> - **跨学科开放破译竞赛（Open Decoding Challenges）** 针对特定历史、生物或数学难题开放原始数据，吸引非领域内算法专家攻关（如赫库兰尼姆卷轴碳化[[Document|文献]] CT 扫描图像破译竞赛）。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 29)]]
+> - **跨学科开放破译竞赛（Open Decoding Challenges）** 针对特定历史、生物或数学难题开放原始数据，吸引非领域内算法专家攻关（如赫库兰尼姆卷轴碳化文献 CT 扫描图像破译竞赛）。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 29)]]
 > - **[[Advance Market Commitments|高级市场承诺]]（Advance Market Commitments, [[Academic Medical Center|AMC]]）** 政府或慈善基金预先承诺，一旦研发出符合特定临床效力的新型疫苗或特定能量密度的储能电池，即以保障价格采购预定规模，彻底消除商业化需求风险。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 28–29)]]
 > - **[[Quadratic Funding in Science|二次方配比资助]]（Quadratic Funding）** 依据广泛基层共同体的背书人数而非少数评委打分进行资金配比，探索降低把关者偏倚的新型配置模式。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 30)]]
 

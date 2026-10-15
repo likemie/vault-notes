@@ -15,7 +15,7 @@ subtype: policy
 region: germany
 fact_region: "germany"
 fact_kind: "policy"
-fact_related_count: 18
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -28,10 +28,9 @@ tags:
   - theme/policy-borrowing
   - nineteenth-century
 related_concepts:
-  - "[[Bildung]]"
   - "[[Normal School]]"
   - "[[Faculty Psychology]]"
-  - "[[Transfer Translation Transformation]]"
+  - "[[Bildung]]"
   - "[[Paradigm]]"
   - "[[Policy Borrowing]]"
   - "[[Dual School System]]"
@@ -55,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Prussian Draft Education Law of 1819
@@ -64,7 +63,7 @@ updated: 2026-09-17
 
 ## 背景
 
-1819 年[[Johann Wilhelm Süvern|聚芬]]普鲁士教育法草案是近代欧洲国家构建国民教育体系的关键制度蓝本，标示着普鲁士国家机器在危机后全面重构国民[[Bildung|教化]]的顶层制度设计：
+1819 年[[Johann Wilhelm Süvern|聚芬]]普鲁士教育法草案是近代欧洲国家构建国民教育体系的关键制度蓝本，标示着普鲁士国家机器在危机后全面重构国民教化的顶层制度设计：
 
 > [!policy-context] 政策背景
 > - **起草时间 / 主持起草** 1817–1819 年由普鲁士新设立的宗教、教育与医疗事务部（Kultusministerium）枢密顾问官约翰·威廉·聚芬（Johann Wilhelm Süvern, 1769–1829）受部长卡尔·阿尔滕施泰因男爵（Karl Freiherr vom Stein zum Altenstein）委托主笔起草。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 26–27; Brewer, 1971, p. 44)]]
@@ -85,7 +84,7 @@ updated: 2026-09-17
 
 > [!policy-design]- 政策设计：支撑普鲁士国家教育机器的四大制度支柱
 > - **法定送学义务与市镇自筹建校责任（Statutory School Duty and Communal Obligation）**
->   草案规定适龄儿童父母负有必须送子女入学的法定义务（*Schulpflicht*）；同时规定每个教区和市镇社团必须由自身财政税收建立并维持至少一所初等学校（*Schullasten*），确保乡村与城镇贫困阶层儿童均能接受基础[[Bildung\|教化]]。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, p. 27]]; Cousin, 1930:130–155）
+>   草案规定适龄儿童父母负有必须送子女入学的法定义务（*Schulpflicht*）；同时规定每个教区和市镇社团必须由自身财政税收建立并维持至少一所初等学校（*Schullasten*），确保乡村与城镇贫困阶层儿童均能接受基础教化。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, p. 27]]; Cousin, 1930:130–155）
 > - **基层分权治理委员会与国家最高行政监督（Decentralized Local Boards and Supreme State Oversight）**
 >   草案破除封建领主单一专断，规定每一所初等学校均设独立的基层管理委员会（*Schulvorstand*），吸纳地方市长、教士与民众代表参与日常督导；但所有地方学校与委员会必须服从省教育公署及中央宗教教育事务部大臣的绝对最高督学主权。（pp. 27–28; Cousin, 1930:189–198）
 > - **学制垂直双轨分流与全人官能启迪课程（Vertical Two-TIER Stratification and Faculty-Based Curricula）**
@@ -108,13 +107,13 @@ updated: 2026-09-17
 
 > [!timeline] 政策时间线
 > - **1806** 普鲁士于耶拿惨败于拿破仑法军，王室与改革精英启动国家体制现代化重构，将初等教育视为国民凝聚力的救亡纽带。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 24–26)]]
-> - **1809** 威廉·冯·洪堡出任普鲁士内政部宗教与公立教育局长，奠定人本主义[[Bildung\|教化]]（*Bildung*）与三段制学校改革哲学。
+> - **1809** 威廉·冯·洪堡出任普鲁士内政部宗教与公立教育局长，奠定人本主义教化（*[[Bildung]]*）与三段制学校改革哲学。
 > - **1817** 阿尔滕施泰因出任独立的普鲁士宗教、教育与医疗事务部首任大臣，委任枢密顾问官聚芬起草全境统一教育法案。（Brewer, 1971:44）
 > - **1819** 聚芬历经两年调研起草完成涵盖全学段的综合法案草案（Süvern Draft）；同年卡尔斯巴德决议出台，王权保守派压制宪政与激进教育自由，草案未获正式签署。（Brewer, 1971:44）
 > - **1820s** 普鲁士教育部以行政通告、规程与视导细则方式，将聚芬草案的核心条款逐步落实为各省事实上的管理制度。
 > - **1831** 法国七月王朝特使[[Victor Cousin\|维克多·库森]]赴普鲁士考察，详尽研读并高度赞扬聚芬法案草案，将其列为《普鲁士公共教育现状报告》的核心论述内容。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 26–28]]）
 > - **1833** 法国国民议会通过由[[François Guizot\|基佐]]领衔、库森主笔起草的 [[Guizot Law of 1833\|1833年基佐法案]]，将聚芬草案的核心条款直接转置为法国国民教育法典。（pp. 28–30）
-> - **1834–1837** [[Report on the State of Public Instruction in Prussia\|库森报告]]英美译本相继面世，聚芬草案通过英美[[Transfer Translation Transformation\|转译]]成为[[Calvin Stowe\|卡尔文·斯托]]、[[Horace Mann\|霍勒斯·曼]]与[[Henry Barnard\|亨利·巴纳德]]推动北美公立教育立法的关键蓝本。（pp. 31–34）
+> - **1834–1837** [[Report on the State of Public Instruction in Prussia\|库森报告]]英美译本相继面世，聚芬草案通过英美转译成为[[Calvin Stowe\|卡尔文·斯托]]、[[Horace Mann\|霍勒斯·曼]]与[[Henry Barnard\|亨利·巴纳德]]推动北美公立教育立法的关键蓝本。（pp. 31–34）
 
 ---
 
@@ -149,8 +148,8 @@ updated: 2026-09-17
 
 > [!finding-cards] 历史影响与制度评价
 > - **近代国家教育机器的原型建构** [[Johann Wilhelm Süvern\|聚芬]]草案在世界近代教育史上第一次系统厘清了中央督导、地方自筹、专业师范与学制阶梯的科层运作逻辑，构成了 19 世纪欧美公共学校机器的基石。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 26–27)]]
-> - **欧陆比较[[Policy Borrowing\|政策借用]]的技术母本** 通过[[Report on the State of Public Instruction in Prussia\|库森报告]]的中介[[Transfer Translation Transformation\|转译]]，聚芬法案成为法国七月王朝消除教育荒漠的“即插即用”立法技术库，催生了法国逾三万所公立市镇小学的强制普及。（pp. 28–30）
-> - **全人官能启迪与世俗教育的平衡点** 草案巧妙融合了基督教道德[[Bildung\|教化]]与近代自然科学、体操与美育，为启蒙理性与宗教传统的调和提供了范例。（pp. 27–28; Cousin, 1930:159）
+> - **欧陆比较[[Policy Borrowing\|政策借用]]的技术母本** 通过[[Report on the State of Public Instruction in Prussia\|库森报告]]的中介转译，聚芬法案成为法国七月王朝消除教育荒漠的“即插即用”立法技术库，催生了法国逾三万所公立市镇小学的强制普及。（pp. 28–30）
+> - **全人官能启迪与世俗教育的平衡点** 草案巧妙融合了基督教道德教化与近代自然科学、体操与美育，为启蒙理性与宗教传统的调和提供了范例。（pp. 27–28; Cousin, 1930:159）
 
 ---
 
@@ -162,7 +161,7 @@ updated: 2026-09-17
 > > 各方对普鲁士教育法案服务于霍亨索伦王权服从抑或国民全面自由发展的根本属性存在持续争议。
 > >
 > > - **北美保守派与反对借用论者（1840s）** 指斥普鲁士法案由君主专制国家强推，其本质是生产顺从专制指令的奴民工具，决不可引入自由合众国。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 32–34)]]
-> > - **[[Horace Mann\|霍勒斯·曼]]与[[Calvin Stowe\|卡尔文·斯托]]（1837/1844）** 坚决驳斥专制论，强调普鲁士卓越教育技术本身属于人类文明成果；君主国尚能赋予儿童优质普惠[[Bildung\|教化]]，共和国更无理由让人民陷于无知野蛮。（pp. 32–33; Knight, 1930:255）
+> > - **[[Horace Mann\|霍勒斯·曼]]与[[Calvin Stowe\|卡尔文·斯托]]（1837/1844）** 坚决驳斥专制论，强调普鲁士卓越教育技术本身属于人类文明成果；君主国尚能赋予儿童优质普惠教化，共和国更无理由让人民陷于无知野蛮。（pp. 32–33; Knight, 1930:255）
 >
 > > [!axis] 制度法典化流产 vs. 事实行政实效
 > > 历史学者对[[Johann Wilhelm Süvern\|聚芬]]草案未能正式颁行帝国法典的历史定性存在分歧。
@@ -186,4 +185,4 @@ updated: 2026-09-17
 | [[Normal School]] | 概念 | 聚芬法案中强制各省设立的师范研习所建制（*Lehrerseminare*），为现代师范教育奠立制度标准。 |
 > | [[Faculty Psychology]] | 概念 | 聚芬法案中初等学校全人官能启蒙课程设计的核心[[Epistemology\|认识论]]依据。 |
 > | [[Common School Movement]] | 概念 | 北美教育家借助聚芬法案在普鲁士的卓越成效击退保守派、推动公立学校立法。 |
-> | [[Policy Borrowing]] | 概念 | 聚芬法案在法国与美国的[[Transfer Translation Transformation\|转译]]与采纳，构成了 19 世纪国际政策借用的经典案例。 |
+> | [[Policy Borrowing]] | 概念 | 聚芬法案在法国与美国的转译与采纳，构成了 19 世纪国际政策借用的经典案例。 |

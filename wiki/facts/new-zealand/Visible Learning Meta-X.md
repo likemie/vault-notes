@@ -10,7 +10,7 @@ subtype: program
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "program"
-fact_related_count: 23
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -26,7 +26,6 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Academic Achievement]]"
-  - "[[Document]]"
   - "[[School Leadership]]"
   - "[[Class Size]]"
   - "[[Technology Infusion]]"
@@ -43,7 +42,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Random Sampling]]"
   - "[[Intraclass Correlation Coefficient]]"
 related_instruments: []
@@ -56,7 +54,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-18
-updated: 2026-10-03
+updated: 2026-10-15
 ---
 
 # Visible Learning Meta-X
@@ -81,7 +79,7 @@ updated: 2026-10-03
 
 > [!feature] 数据库核心特征
 > - **收录规模** 截至 2026 年，已收录超过 2,100 项涉及学生[[Academic Achievement\|学业成就]]的教育一阶[[Meta-analysis\|元分析]]，是目前同类研究基础设施中规模最大的。[[Argument_Jansen_2026_EPR\|(Jansen et al., 2026, pp. 1–2)]]
-> - **核心字段** 每项元分析均记录综合[[Effect Size\|效应量]]（Cohen's $d$ 或 Hedges' $g$）、贡献研究篇数（$k$）、参与者总人数（$N$），并对教育干预进行主题分类与来源[[Document\|文献]]标注。
+> - **核心字段** 每项元分析均记录综合[[Effect Size\|效应量]]（Cohen's $d$ 或 Hedges' $g$）、贡献研究篇数（$k$）、参与者总人数（$N$），并对教育干预进行主题分类与来源文献标注。
 > - **覆盖主题** 跨越课程内容、教学方式、反馈机制、教师专业发展、[[School Leadership\|学校领导]]、[[Class Size\|班级规模]]、家庭参与、[[Technology Infusion\|技术整合]]等数百个教育影响因素分类。
 > - **访问形式** 数据库通过[[John Hattie\|哈蒂]]团队的合作学术渠道和 Corwin [[Visible Learning]] Plus 平台向研究伙伴机构提供访问；公开摘要数据可通过出版物获取，完整字段数据库限于合作[[Research Utilization\|研究使用]]。
 
@@ -89,7 +87,7 @@ updated: 2026-10-03
 > | 字段 | 定义 | 提取规范要点 |
 > |---|---|---|
 > | **综合效应量** $d$ | 一阶元分析报告的主要总体综合效应量（Cohen's $d$ 或 Hedges' $g$） | 优先提取与学业成就最相关的全域加权汇总值；同时汇报固定与随机效应时，优先提取主分析模型数值 |
-> | **纳入研究篇数** $k$ | 贡献于综合效应量的独立一阶原始研究篇数 | 严格区分检索总篇数与定量合成纳入篇数；仅报告效应量个数而缺失独立研究数时[[Coding in Qualitative Research\|编码]]为缺失值（NA） |
+> | **纳入研究篇数** $k$ | 贡献于综合效应量的独立一阶原始研究篇数 | 严格区分检索总篇数与定量合成纳入篇数；仅报告效应量个数而缺失独立研究数时编码为缺失值（NA） |
 > | **参与者总量** $N$ | 纳入定量合并分析的学生/被试总人数 | 若分散在多分表或亚组中需执行跨表累加；全文均未报告时编码为缺失值 |
 
 ---
@@ -99,7 +97,7 @@ updated: 2026-10-03
 > [!dev-timeline] 数据库发展历程
 > - **2009 — 初版发布** [[John Hattie\|哈蒂]]出版《[[Visible Learning\|可见的学习]]》，首次系统汇聚 800+ 项[[Meta-analysis\|元分析]]，确立 $d = 0.40$ 关节点基准，数据库以附录与工作文件形式伴随出版物发布。
 > - **2012 — 教师版扩展** 出版《教师可见的学习》（*Visible Learning for Teachers*），进一步扩充至 900+ 项元分析，强化教学实践导向。
-> - **2015 至 2023 — 持续滚动更新** 数据库随哈蒂团队的持续[[Document\|文献]]监测同步更新，元分析数量稳步增长，主题分类体系随证据积累调整精化；至 2023 年前后已超过 2,100 项。[[Argument_Jansen_2026_EPR\|(Jansen et al., 2026, p. 7)]]
+> - **2015 至 2023 — 持续滚动更新** 数据库随哈蒂团队的持续文献监测同步更新，元分析数量稳步增长，主题分类体系随证据积累调整精化；至 2023 年前后已超过 2,100 项。[[Argument_Jansen_2026_EPR\|(Jansen et al., 2026, p. 7)]]
 > - **2024 至今 — [[Meta-meta-analysis\|二阶元分析]]研究平台** Meta-X 数据库逐步成为国际研究团队开展二阶元分析与[[Automated Data Extraction\|自动化数据提取]]方法学研究的标准测试平台，[[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] 即以其[[Random Sampling\|随机抽样]]的 156 项元分析开展大语言模型（Large Language Models, LLMs）数据提取准确性评估。
 
 ---

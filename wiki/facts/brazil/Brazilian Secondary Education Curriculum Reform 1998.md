@@ -10,7 +10,7 @@ subtype: policy
 region: brazil
 fact_region: "brazil"
 fact_kind: "policy"
-fact_related_count: 13
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -28,10 +28,8 @@ related_concepts:
   - "[[Geisteswissenschaften]]"
   - "[[Floating Signifier]]"
   - "[[Governance by Spin]]"
-  - "[[Transfer Translation Transformation]]"
 related_theories: []
-related_methods:
-  - "[[Coding in Qualitative Research]]"
+related_methods: []
 related_persons: []
 related_facts:
   - "[[OECD]]"
@@ -67,7 +65,7 @@ updated: 2026-10-15
 
 课程文件围绕学生必须发展的基本能力和技能来组织，包括[[Creativity|创造力]]、适应性、学会学习、[[Problem Solving|问题解决]]，分布在三大领域：
 
-- **语言、[[Coding in Qualitative Research|编码]]及其技术（Languages, Codes and their Technologies）**
+- **语言、编码及其技术（Languages, Codes and their Technologies）**
 - **自然科学、数学及其技术（Natural Sciences, Mathematics and their Technologies）**
 - **[[Geisteswissenschaften|人文科学]]及其技术（Human Sciences and their Technologies）**
 
@@ -103,4 +101,4 @@ updated: 2026-10-15
 > - [[Encyclopaedism\|百科全书主义]] — 巴西改革在修辞层面批判百科全书主义，但在实践层面保留了其核心结构（14 门学科）。
 > - [[Floating Signifier\|漂浮能指]] — 能力发展这一全球漂浮能指在巴西被选择性具体化：既采纳了能力[[Discourse|话语]]的修辞，又保留了百科全书式学科知识。
 > - [[Governance by Spin\|舆论操控]] — 三大领域与 14 门学科的共存体现了舆论操控的双层运作：对国际机构展示革新面，对国内保守派展示延续面。
-> - [[Transfer Translation Transformation\|转译]] — 全球能力话语在巴西国家层面被转译为革新修辞加保守实质的混合话语。
+> - 转译 — 全球能力话语在巴西国家层面被转译为革新修辞加保守实质的混合话语。

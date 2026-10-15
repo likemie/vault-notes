@@ -9,7 +9,7 @@ aliases:
 summary: "Douglas Walton 提出的非形式逻辑论证分析理论，将日常与专业论辩归纳为数十种基于似真推理的论证型式，并配套批判性提问清单以检验论证的辩护效力。"
 type: theory
 theory_field: "argumentation-and-logic"
-theory_related_count: 21
+theory_related_count: 20
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -33,7 +33,6 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Accounts]]"
   - "[[Transcription in Qualitative Research]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Meta-analysis]]"
   - "[[Systematic Review]]"
   - "[[Correlational Research]]"
@@ -48,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-10
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Walton's Argumentation Schemes
@@ -116,7 +115,7 @@ updated: 2026-09-22
 > - **不能直接推出的东西** 不能仅因论证完全匹配某型式就断言其结论必然正确；它仅赋予结论假定合理性。
 
 > [!theory-use] 如何用于研究
-> - **作为分析工具** 对学生在[[Classroom Debate\|课堂辩论]]中的发言进行[[Coding in Qualitative Research\|编码]]，识别其调动了何种论辩型式（如因果、类比、迹象），并评估其是否能提出切中要害的批判性问题。
+> - **作为分析工具** 对学生在[[Classroom Debate\|课堂辩论]]中的发言进行编码，识别其调动了何种论辩型式（如因果、类比、迹象），并评估其是否能提出切中要害的批判性问题。
 > - **作为批判视角** 揭示纯[[Toulmin's Argumentation Model\|图尔敏模型]]对推论实质的盲区：图尔敏模型只核对“是否有保证”，而[[Douglas Walton\|沃尔顿]]模型通过 CQs 追问“保证是否成立”。
 
 ---

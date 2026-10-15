@@ -9,7 +9,7 @@ aliases:
 summary: "在教学过程中系统收集学生理解与表现证据、提供指向改进的对话式反馈并动态调整教与学行动的评价范式"
 type: concept
 domain: "competency-and-assessment"
-related_count: 27
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,10 +27,8 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Scaffolding]]"
   - "[[Learning Gap]]"
-  - "[[Teaching Assistant]]"
   - "[[Reflexivity]]"
   - "[[Classroom Learning Culture]]"
-  - "[[Hypothesis]]"
   - "[[Feedback]]"
   - "[[Dialogue in Education]]"
   - "[[Metacognition]]"
@@ -55,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-25
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Formative Assessment
@@ -69,11 +67,11 @@ updated: 2026-09-17
 
 > [!concept-lens] 概念透镜
 > - **含义** 评价作为教学有机组成部分，服务于识别[[Learning Gap\|学习差距]]（Learning Gap）并指导即时与后续认知修正。
-> - **用途** 帮[[Teaching Assistant\|助教]]师超越单一的期末选拔与打分，构建支持学生深度探究与[[Reflexivity\|反思性]]修正的[[Classroom Learning Culture\|课堂学习文化]]。
+> - **用途** 帮助教师超越单一的期末选拔与打分，构建支持学生深度探究与[[Reflexivity\|反思性]]修正的[[Classroom Learning Culture\|课堂学习文化]]。
 > - **边界** 形成性评价不是单纯增加平时测验次数；若频繁测试仅给出分数或等级而无实质性改进指导，仍属于碎片化的总结性考核。
 
 > [!citation-card] 形成性评价对高阶思维的支撑机制
-> 教育研究表明，创造力与批判性思维等复杂能力的培养高度依赖低利害的试错环境与多轮形成性反馈。传统的终结性考试往往过早施加评分压力，导致学生追求唯一正确答案而规避智识风险；而形成性评价通过非评判性的描述性反馈与多轮草稿修订，使学生敢于探索新颖[[Hypothesis\|假设]]并审慎修正论证。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 33–34)]]
+> 教育研究表明，创造力与批判性思维等复杂能力的培养高度依赖低利害的试错环境与多轮形成性反馈。传统的终结性考试往往过早施加评分压力，导致学生追求唯一正确答案而规避智识风险；而形成性评价通过非评判性的描述性反馈与多轮草稿修订，使学生敢于探索新颖假设并审慎修正论证。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 33–34)]]
 >
 > *Assessment should be used not only to certify skills acquisition but also, and most importantly, for learning... Formative assessment provides students with qualitative [[Feedback]] and low-stakes opportunities to practice, reflect and iterate on complex tasks.*
 

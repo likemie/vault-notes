@@ -9,7 +9,7 @@ aliases:
 summary: "流动儿童教育是指面向因父母生计迁移、季节性务工或无证流动而处于迁徙过渡状态的学龄儿童所实施的教育供给与治理模式；在比较教育学与空间治理视野下，流动儿童教育不同于预设永久定居与文化同化的传统移民教育，而是深受身份登记、空间封闭与学籍准入制度的规制，体现了现代学校作为人口治理容器与向上流动资格筛选关卡的双重政治功能。"
 type: concept
 domain: "comparative-education"
-related_count: 24
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Student Mobility]]"
   - "[[Traveller Education]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Habitus]]"
   - "[[Nomadic Education]]"
   - "[[Knowledge Questions]]"
   - "[[Discourse]]"
@@ -38,7 +37,6 @@ related_theories:
   - "[[Two Problematics of Educational Inclusion and Exclusion]]"
 related_methods:
   - "[[Ethnography]]"
-  - "[[Coding in Qualitative Research]]"
 related_instruments: []
 related_persons:
   - "[[Thomas S. Popkewitz]]"
@@ -53,7 +51,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Migrant Education
@@ -104,7 +102,7 @@ graph TD
 ### 4. 英国：传统游民社群与空间文化冲突
 在英国，流动儿童教育的典型对象是罗姆人与爱尔兰大篷车游民儿童：
 - 参见专题条目：[[Traveller Education|旅行者教育]]。
-- **空间文化不协调** [[Ethnography|民族志研究]]显示，流动儿童难以适应正规学校“高度结构化的空间使用”（Highly Structured Use of Space）与固定课桌椅[[Disciplina and Doctrina|规训]]，这种生活[[Habitus|习性]]与校园封闭空间的错位，导致其在多元文化政策表象下依然承受深层的制度性孤立。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 366)]]
+- **空间文化不协调** [[Ethnography|民族志研究]]显示，流动儿童难以适应正规学校“高度结构化的空间使用”（Highly Structured Use of Space）与固定课桌椅[[Disciplina and Doctrina|规训]]，这种生活习性与校园封闭空间的错位，导致其在多元文化政策表象下依然承受深层的制度性孤立。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 366)]]
 
 ### 5. 印度：游牧生计与学校教育的能动性博弈
 在印度西部古吉拉特邦等干旱牧区，流动儿童教育涉及拉巴里等游牧部族：
@@ -119,7 +117,7 @@ graph TD
 > **Popkewitz & Lindblad (2000) 论[[Two Problematics of Educational Inclusion and Exclusion|双重问题式]]在流动教育中的交织**
 > [[Thomas S. Popkewitz|托马斯·S·波普科维茨]]与斯韦克·林德布拉德指出，对弱势人口教育处境的考察必须统合“公平-参与问题式”与“[[Knowledge Questions|知识问题]]式”：
 > - **公平-参与维度** [[Migrant Children|流动儿童]]在国家治理中往往面临实体性的资源匮乏与准入剥夺（如公立学校门槛、拨款短缺、办学资质受限）；
-> - **知识与文化分类维度** 更为隐蔽的是，教育体制内部运作着将“流动性”视为病态、将“定居”视为常态的知识理性体系。流动儿童即使坐在同一间教室里，也往往被测试标准与分类[[Discourse|话语]][[Coding in Qualitative Research|编码]]为“落后”、“文化缺失”或“有待矫正的偏常群体”，在象征秩序上完成二次排斥。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 367–368)]]
+> - **知识与文化分类维度** 更为隐蔽的是，教育体制内部运作着将“流动性”视为病态、将“定居”视为常态的知识理性体系。流动儿童即使坐在同一间教室里，也往往被测试标准与分类[[Discourse|话语]]编码为“落后”、“文化缺失”或“有待矫正的偏常群体”，在象征秩序上完成二次排斥。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 367–368)]]
 
 > [!warrant] 比较教育学研究的新启示
 > 流动儿童教育的跨国经验彻底动摇了传统比较教育学以“主权国家/稳定社会”为基本[[Unit of Analysis|分析单位]]的[[Positivism|实证主义]]前提：

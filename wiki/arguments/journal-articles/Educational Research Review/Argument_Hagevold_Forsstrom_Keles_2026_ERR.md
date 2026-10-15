@@ -7,7 +7,7 @@ title: "Argument_Hagevold_Forsstrom_Keles_2026_ERR"
 argument_key: "Argument_Hagevold_Forsstrom_Keles_2026_ERR"
 argument_display_title: "Research on research use in schools: A systematic review with a framework synthesis"
 argument_kind: "journal-article"
-argument_related_count: 58
+argument_related_count: 55
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -33,14 +33,11 @@ tags:
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Evaluation Research]]"
-  - "[[Hypothesis]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Innovation Hub]]"
   - "[[New Public Management]]"
   - "[[Global Education Reform Movement]]"
   - "[[Research Utilization]]"
-  - "[[Document]]"
   - "[[Deficit Framing]]"
   - "[[Research Literacy]]"
   - "[[Knowledge Mobilisation]]"
@@ -64,6 +61,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Knowledge Transfer]]"
   - "[[Side Effects]]"
+  - "[[School Autonomy]]"
 related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
   - "[[Governing Mechanisms of Research Use]]"
@@ -76,7 +74,6 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Documentary Analysis]]"
   - "[[Framework Synthesis]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Meta-analysis]]"
   - "[[Mixed Methods Research]]"
   - "[[Action Research]]"
@@ -109,11 +106,11 @@ updated: 2026-09-15
 ## 研究问题
 
 > [!question]
-> 二十年来，各国教育系统都把"用研究证据改进学校"当作目标，但多项国际测试显示，学生成绩在许多领域仍在下滑。这段历史可追溯到 1996 年 Hargreaves 在伦敦[[Teacher Training Agency\|教师培训署]]（Teacher Training Agency）的演讲，它引发了与 Hammersley 关于"教学能否成为研究本位专业"的争论。此后"什么有效"（What Works）运动兴起：[[Argument_Slavin_2002_ER\|Slavin (2002)]]主张用[[Randomised Controlled Trials\|随机对照试验]]检验教学法，Hattie（2008）的《[[Visible Learning\|可见的学习]]》把"[[Effect Size\|效应量]]"带进教师词汇，美国 What Works 信息交换所和英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）等机构负责[[Evaluation Research\|评价研究]]质量、充当证据中介。但"识别并传播有效干预本身就会带来实践改变"的[[Hypothesis\|假设]]并未如期实现，于是出现了强调把证据[[Transfer Translation Transformation\|转译]]进实践的实施研究（implementation research）。
+> 二十年来，各国教育系统都把"用研究证据改进学校"当作目标，但多项国际测试显示，学生成绩在许多领域仍在下滑。这段历史可追溯到 1996 年 Hargreaves 在伦敦[[Teacher Training Agency\|教师培训署]]（Teacher Training Agency）的演讲，它引发了与 Hammersley 关于"教学能否成为研究本位专业"的争论。此后"什么有效"（What Works）运动兴起：[[Argument_Slavin_2002_ER\|Slavin (2002)]]主张用[[Randomised Controlled Trials\|随机对照试验]]检验教学法，Hattie（2008）的《[[Visible Learning\|可见的学习]]》把"[[Effect Size\|效应量]]"带进教师词汇，美国 What Works 信息交换所和英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）等机构负责[[Evaluation Research\|评价研究]]质量、充当证据中介。但"识别并传播有效干预本身就会带来实践改变"的假设并未如期实现，于是出现了强调把证据转译进实践的实施研究（implementation research）。
 >
 > 在数据问责的推动下，标准化的"证据本位"做法常常变成对研究的[[Conceptual, Instrumental, and Symbolic Use of Research\|象征性使用]]（Weiss, 1979）：新做法只是浅层叠加在旧思维之上。[[OECD]] 教育研究与[[Innovation Hub\|创新中心]]（[[Centre for Educational Research and Innovation]], CERI）2021 年启动"加强教育研究的影响"项目，呼吁从"中介"转向"参与"，并指出深思熟虑的参与只有在信任的环境里才能生长（[[Argument_Revai_2022_ChangingLandscape\|Révai, 2022]]; Révai & Mouthaan, 2023）。与此同时，[[New Public Management\|新公共管理]]与[[Global Education Reform Movement\|全球教育改革运动]]（Global Education Reform Movement, GERM）带来的竞争、标准化与问责，进一步压缩了信任与创新的空间（Sahlberg, 2023）。
 >
-> 既有[[Systematic Review\|系统综述]]反复列出[[Research Utilization\|研究使用]]的障碍清单，却很少说明研究参与真正发生时是什么样子，也没有解释这些障碍为何如此顽固。要回答的问题有两个：第一，经验研究如何描述学校中的[[Research Utilization\|研究使用]]，其中包含哪些组成部分，它们之间是什么关系？第二，[[Document\|文献]]里提到了哪些阻碍和促进研究使用的因素？
+> 既有[[Systematic Review\|系统综述]]反复列出[[Research Utilization\|研究使用]]的障碍清单，却很少说明研究参与真正发生时是什么样子，也没有解释这些障碍为何如此顽固。要回答的问题有两个：第一，经验研究如何描述学校中的[[Research Utilization\|研究使用]]，其中包含哪些组成部分，它们之间是什么关系？第二，文献里提到了哪些阻碍和促进研究使用的因素？
 
 > [!claim] 核心主张
 > 学校里的研究使用受系统条件塑造，但[[Documentary Analysis\|文献研究]]它时，大多把目光落在教师个体的技能和心态上。实际上，最顽固的障碍和最有用的促进条件都横跨个体、组织、系统三个层级，由信任、技能发展、可持续结构和关系这四类相互强化的机制共同塑造。因此，研究使用没法靠自上而下的政策指令强制实现，而应从实施（implementation）研究结论转向整合（integration）研究，依靠可持续的结构来培育教师的专业能动性。
@@ -138,7 +135,7 @@ updated: 2026-09-15
 > | **内外复杂性（Internal and External Complexity）**<br>Kvernbekk (2016); Perry & Morris (2023) | 实践者面对研究时该追问四件事：研究在什么内部条件下产生、将用到什么外部情境、会有什么副作用、有没有替代办法；用来界定深思熟虑参与要回答的判定问题。（p.4） |
 
 > [!warrant]- 理论如何支撑论证
-> 初始框架（图 1）以 QURE 为主体：深层使用的双向箭头用来界定"用什么、怎么用"，研究素养的敏感度用来判断研究是否恰当，生态系统模型提供三个层级的子主题，系统层级还额外加入一般社会因素与教育政策两个子主题。这个框架不是结论，而是[[Framework Synthesis\|框架综合]]的先验透镜，用来组织数据提取与[[Coding in Qualitative Research\|编码]]，同时允许综合中浮现框架之外的新主题。分析分两步：聚合式分析把发现映射回框架并统计来源研究数；配置式分析跨越层级识别反复出现的主题，后者直接产出了四类治理机制。（pp.4–5, 8）
+> 初始框架（图 1）以 QURE 为主体：深层使用的双向箭头用来界定"用什么、怎么用"，研究素养的敏感度用来判断研究是否恰当，生态系统模型提供三个层级的子主题，系统层级还额外加入一般社会因素与教育政策两个子主题。这个框架不是结论，而是[[Framework Synthesis\|框架综合]]的先验透镜，用来组织数据提取与编码，同时允许综合中浮现框架之外的新主题。分析分两步：聚合式分析把发现映射回框架并统计来源研究数；配置式分析跨越层级识别反复出现的主题，后者直接产出了四类治理机制。（pp.4–5, 8）
 
 > [!example]- 图1：研究使用的整合框架（初始框架）
 > ![](https://img.mylikemie.icu/sources/Hagevold_Forsstrom_Keles_2026_ERR/figures/Hagevold_Forsstrom_Keles_2026_ERR_Fig1_Consolidated_Framework.jpg)
@@ -152,7 +149,7 @@ updated: 2026-09-15
 > |------|----------------|
 > | **文献检索与筛选**<br>Systematic Search & PRISMA | 检索词覆盖[[Research Utilization\|研究使用]]的各种说法（如 evidence-based practice、[[Knowledge Mobilisation\|knowledge mobilization]]、use of research evidence、research-informed teaching 等）与教育情境词。2025 年 1 月在 Scopus、Web of Science 和教育资源信息中心（Education Resources Information Center, ERIC）三个数据库正式检索，共得到 32,333 条记录，去重后剩 23,299 条。用 EPPI-Reviewer 做两轮独立盲筛（先标题摘要、后全文），标题摘要一致率 98.1%、全文一致率 81%，最终纳入 109 项实证研究。方案预先在开放科学框架（Open Science Framework, OSF）注册，报告遵循[[Systematic Review\|系统综述]]和[[Meta-analysis\|元分析]]优先报告条目（[[PRISMA\|Preferred Reporting Items for Systematic Reviews and Meta-Analyses]], PRISMA）。（pp.6–7, 9） |
 > | **纳入标准与质量评估**<br>Eligibility & Quality Appraisal | 纳入对象限定为小学或中学的教师和[[School Leadership\|学校领导]]者、以英语发表、刊登在同行评议期刊、采用质性/定量/[[Mixed Methods Research\|混合方法]]设计的实证研究；学前教育（Early Childhood Education and Care, ECEC）、高等教育、职前教师等不在范围内。质量由配对评价者用[[Mixed Methods Appraisal Tool\|混合方法评价工具]]（Mixed Methods Appraisal Tool, MMAT；Hong et al., 2018）双盲评估，分歧由第三方裁定；低质量研究的发现只在至少一项较高质量研究佐证时才被采用。（pp.7–8） |
-> | **数据提取与综合**<br>[[Framework Synthesis]] | 提取分两阶段。第一阶段记录每项研究的年份、国家、设计、对象等特征；第二阶段在 NVivo 15 里按[[Research Question\|研究问题]]对应的主节点（框定与描述、障碍、促进因素）对结果和部分讨论[[Coding in Qualitative Research\|编码]]，障碍节点由团队盲编码并讨论到 100% 一致。聚合式分析统计各主代码来自多少项研究；配置式分析进一步识别跨越层级的主题。（pp.7–8） |
+> | **数据提取与综合**<br>[[Framework Synthesis]] | 提取分两阶段。第一阶段记录每项研究的年份、国家、设计、对象等特征；第二阶段在 NVivo 15 里按[[Research Question\|研究问题]]对应的主节点（框定与描述、障碍、促进因素）对结果和部分讨论编码，障碍节点由团队盲编码并讨论到 100% 一致。聚合式分析统计各主代码来自多少项研究；配置式分析进一步识别跨越层级的主题。（pp.7–8） |
 
 > [!ref-table]- 表 1：纳入标准（Eligibility Criteria）
 > | 标准 | 纳入 | 排除 |
@@ -161,7 +158,7 @@ updated: 2026-09-15
 > | **目标人群** | 在小学或中学工作的教师或学校领导者 | 学区层面学校领导者、学校董事会成员、高等教育教师／领导者、学前教育（ECEC）教师／领导者、职前教师、研究者、学生、学校图书馆员／护士／社工／心理学家 |
 > | **语言** | 英语 | 非英语 |
 > | **研究类型** | 采用质性、定量或[[Mixed Methods Research\|混合方法]]设计的实证研究 | 理论或概念性论文、评论、二手研究 |
-> | **发表类型** | 同行评议期刊 | 书籍章节、灰色[[Document\|文献]]、报告 |
+> | **发表类型** | 同行评议期刊 | 书籍章节、灰色文献、报告 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -197,7 +194,7 @@ updated: 2026-09-15
 > [!claim] 步骤一主张
 > 纳入的研究大多把研究参与说成一种"缺失"或"挑战"，并把问题和部分解决办法归到个体、组织或系统三个层面之一。但聚合统计显示，个体层面的因素出现在 83% 的研究里，组织与系统层面的因素则很少被提及，说明[[Research Utilization\|研究使用]]研究明显偏向个体视角。（p.9）
 
-> [!dimension] 研究使用在[[Document\|文献]]中被描述的四个分析层面
+> [!dimension] 研究使用在文献中被描述的四个分析层面
 > - **系统层面（k = 46）**
 >   文献里同时存在两种对立的模型：
 >   **自上而下** 政策驱动的工具性预期：教学实践应建立在证据上，但问责体系只考核学生成绩，并不奖励学校用研究。
@@ -209,13 +206,13 @@ updated: 2026-09-15
 >   **组织结构（k = 32）** 时间、角色、材料等正式资源，以及[[Professional Learning Community\|专业学习共同体]]这类整合性惯例。
 >   **领导（k = 20）** 既是示范、赋权和战略性桥接的催化剂，也可能[[Conceptual, Instrumental, and Symbolic Use of Research\|象征性使用]]研究、甚至主动阻碍教师。（pp.9–10）
 > - **个体层面（k = 91）**
->   **技能集（k = 39）** 跨度很大：从不懂什么是教育研究，到不同水平的研究与[[Data Literacy\|数据素养]]，再到能把研究发现[[Transfer Translation Transformation\|转译]]到本校本班；而且教师的自信与实际技能常常不一致。
+>   **技能集（k = 39）** 跨度很大：从不懂什么是教育研究，到不同水平的研究与[[Data Literacy\|数据素养]]，再到能把研究发现转译到本校本班；而且教师的自信与实际技能常常不一致。
 >   **心态（k = 47）** 包含三个维度：重视却不用（价值-行动鸿沟）、从怀疑到热忱的连续体、以及对来源的信任与可[[Reliability\|信度]]判断（研究往往只充当专业对话中的"第三声音" third voice）。
 >   **[[Epistemic Stances\|认识论立场]]** 把教学看作艺术还是科学，影响教师怎么看研究。
 >   **关系（k = 39）** 被视为个体用研究的基本社会基础设施；社交媒体正成为实践者可能的个人学习共同体，但研究者（这些平台上往往是同时当研究者和教师的教师教育者）很少讨论自己的教学实践（Aukland, 2022）。（pp.10–11）
 > - **核心构件（k = 94）**
 >   **恰当研究（k = 59）** 可归纳为四个主题：与本校情境匹配、实用（可及且可操作）、能与其他[[Source of Knowledge\|知识来源]]整合、可信。
->   **箭头[[Coding in Qualitative Research\|编码]]（k = 70）** 涉及教师为何、在何时、在哪里参与研究：来源上，同事和网络最常见，正式学术渠道最少被使用。
+>   **箭头编码（k = 70）** 涉及教师为何、在何时、在哪里参与研究：来源上，同事和网络最常见，正式学术渠道最少被使用。
 >   **深思熟虑参与（k = 57）** 在文献中比工具性、象征性使用都更罕见。（pp.11–12）
 
 > [!warrant]- 推理桥梁
@@ -313,7 +310,7 @@ updated: 2026-09-15
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **[[Document\|文献]]偏向个体视角，且带缺陷框定** 多数研究把"不用研究"归咎于教师个人，个体层面的因素出现在 83% 的研究里，组织与系统层面则很少被提到（p.9）。
+> 1. **文献偏向个体视角，且带缺陷框定** 多数研究把"不用研究"归咎于教师个人，个体层面的因素出现在 83% 的研究里，组织与系统层面则很少被提到（p.9）。
 > 2. **四类跨层机制共同塑造[[Research Utilization\|研究使用]]** 信任、技能发展、可持续结构和关系四类机制横跨并贯通个体、组织、系统三个层级，相互强化地决定研究使用，取代了层级嵌套的逻辑（pp.15–17）。
 > 3. **深思熟虑参与少见，象征性、[[Conceptual, Instrumental, and Symbolic Use of Research\|工具性使用]]常见** 研究常常只充当专业对话里的"第三声音"（third voice），正式学术渠道是最少被使用的来源（pp.10–11, 17–18）。
 > 4. **从实施转向整合** 摆脱[[Conceptual, Instrumental, and Symbolic Use of Research\|象征性使用]]，靠的是可持续结构培育专业能动性，而不是证据本位的工具性指令；[[Epistemology\|认识论]]上把研究知识与专业智慧整合，组织上把研究参与嵌入学校文化与结构（pp.17–18）。
@@ -354,8 +351,8 @@ updated: 2026-09-15
 
 > [!warning]
 > 原文明确自述以下研究局限与边界条件：
-> 1. **范围收窄** 检索结果量太大，因此排除了理论/概念性论文、非同行评议期刊和非英语研究，也没有手工检索参考[[Document\|文献]]清单或灰色文献，可能漏掉一些符合条件的研究。发表时间窗口也因此受限，难以捕捉[[Research Utilization\|研究使用]]框定的历史变化（以初始框架整合既有理论与概念工作作为缓解）（p.19）。
-> 2. **跨情境适用性未定** 修订框架主要依据英语国家和西欧的研究，这些系统普遍有较高的学校自主、成熟的教师专业发展和运转中的研究基础设施。在中央集权、后社会主义或低资源情境下是否适用，仍是开放问题；比如高度中央集权的系统里，信任机制可能因结构性[[Institutional Distrust\|制度性不信任]]而运作得很不一样；在低资源环境里，可持续结构可能受到很大约束，框架的建议恐怕只能算理想目标，难以立刻落地（p.19）。
+> 1. **范围收窄** 检索结果量太大，因此排除了理论/概念性论文、非同行评议期刊和非英语研究，也没有手工检索参考文献清单或灰色文献，可能漏掉一些符合条件的研究。发表时间窗口也因此受限，难以捕捉[[Research Utilization\|研究使用]]框定的历史变化（以初始框架整合既有理论与概念工作作为缓解）（p.19）。
+> 2. **跨情境适用性未定** 修订框架主要依据英语国家和西欧的研究，这些系统普遍有较高的[[School Autonomy|学校自主]]、成熟的教师专业发展和运转中的研究基础设施。在中央集权、后社会主义或低资源情境下是否适用，仍是开放问题；比如高度中央集权的系统里，信任机制可能因结构性[[Institutional Distrust\|制度性不信任]]而运作得很不一样；在低资源环境里，可持续结构可能受到很大约束，框架的建议恐怕只能算理想目标，难以立刻落地（p.19）。
 > 3. **不作因果主张** 不声称不同研究使用方式与其结果之间存在因果联系，需要后续研究来检验（p.19）。
 > 4. **团队取向可能影响分析** 团队偏向专业能动性与社会生态框架，可能让个体层面的因素在配置式综合里相对不突出；换成别的团队，也许会对不同机制给出不同权重（pp.6, 8）。
 

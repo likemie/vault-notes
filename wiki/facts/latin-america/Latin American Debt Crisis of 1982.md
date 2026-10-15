@@ -12,7 +12,7 @@ subtype: event
 region: "latin-america"
 fact_region: "latin-america"
 fact_kind: "event"
-fact_related_count: 14
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -36,7 +36,6 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Liliana Esther Olmos]]"
-  - "[[Carlos Alberto Torres]]"
 related_facts:
   - "[[World Bank]]"
   - "[[International Monetary Fund]]"
@@ -46,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-09-29
+updated: 2026-10-15
 ---
 
 # Latin American Debt Crisis of 1982
@@ -89,7 +88,7 @@ updated: 2026-09-29
 
 ## 历史定性
 
-> [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]论债务危机与结构调整对拉美教育的重塑
+> [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论债务危机与结构调整对拉美教育的重塑
 > 历史和哲学上，新自由主义在拉美的推行始终与债务危机后的[[Structural Adjustment Programs|结构调整方案]]形影相随。从政治经济学视角看，经济危机的爆发成为了重组教育政策的基石，而结构调整处方非但未能治愈经济弊病，反而严重恶化了该地区的教育扩张质量与教育机会均等，彻底改变了教师组织、[[Conditioned State Theory|受限国家]]与跨国金融机构之间的政治力量博弈格局。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79, 82)]]
 >
 > *From a political economy of education perspective, the performance of the economy is a major issue underpinning educational policies. The question is to what extent the prescribed recipes of structural adjustment as a cure to the economic malaise will help or hinder educational expansion, quality of education, and equality of educational opportunity in the region.*

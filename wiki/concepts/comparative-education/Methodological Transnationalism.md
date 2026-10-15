@@ -5,7 +5,7 @@ aliases:
 summary: "Diane Stone (2020) 与 Steiner-Khamsi 等倡导的方法论立场，主张超越方法论民族主义与线性层级霸权观，将国家与全球视作相互依存的关系性空间，聚焦全球/国家联结。"
 type: concept
 domain: "comparative-education"
-related_count: 33
+related_count: 30
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -20,13 +20,11 @@ related_concepts:
   - "[[Methodological Nationalism]]"
   - "[[Relational Space]]"
   - "[[Transfer Space]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Determinism]]"
   - "[[Construct]]"
   - "[[Unit of Analysis]]"
   - "[[Network Governance]]"
   - "[[Methodological Globalism]]"
-  - "[[Hypothesis]]"
   - "[[Policy Borrowing]]"
   - "[[Policy Mobility]]"
   - "[[Policy Brokerage]]"
@@ -38,7 +36,6 @@ related_concepts:
   - "[[Hard Power]]"
   - "[[Discourse]]"
   - "[[Variable]]"
-  - "[[Document]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Effect Size]]"
@@ -66,7 +63,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> 方法论跨国主义（Methodological Transnationalism）是跨国公共政策与比较教育研究中的一种[[Epistemology\|认识论]]与方法论[[Paradigm\|范式]]。它既拒斥将民族国家预设为自足封闭分析容器的[[Methodological Nationalism\|方法论民族主义]]，亦反对将全球与国家关系机械设定为自上而下、单向线性的等级霸权支配模式；该范式主张将“全球”与“国家”理解为高度相互依存、多维渗透的[[Relational Space\|关系性空间]]而非物理隔离的孤立处所，倡导通过解构政府实体的多元空间尺度（全球、区域、国家）、职能部门（咨询、行政、立法）与公私属性，系统探究行动者在[[Transfer Space\|转移空间]]（Transfer Space）中构建的“全球/国家联结”（Global/National Nexus），重点揭示本土行动者如何策略性动员、[[Transfer Translation Transformation\|转译]]与重构全球政策工具，以及跨国中介如何内生于国家治理变迁过程。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 540)]]
+> 方法论跨国主义（Methodological Transnationalism）是跨国公共政策与比较教育研究中的一种[[Epistemology\|认识论]]与方法论[[Paradigm\|范式]]。它既拒斥将民族国家预设为自足封闭分析容器的[[Methodological Nationalism\|方法论民族主义]]，亦反对将全球与国家关系机械设定为自上而下、单向线性的等级霸权支配模式；该范式主张将“全球”与“国家”理解为高度相互依存、多维渗透的[[Relational Space\|关系性空间]]而非物理隔离的孤立处所，倡导通过解构政府实体的多元空间尺度（全球、区域、国家）、职能部门（咨询、行政、立法）与公私属性，系统探究行动者在[[Transfer Space\|转移空间]]（Transfer Space）中构建的“全球/国家联结”（Global/National Nexus），重点揭示本土行动者如何策略性动员、转译与重构全球政策工具，以及跨国中介如何内生于国家治理变迁过程。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 540)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 将分析焦点从割裂的领土单位转向跨尺度流动、网络互动与关系性构型。
@@ -89,7 +86,7 @@ updated: 2026-10-15
 > [!contrast-table] 概念辨析
 > | 维度 | 方法论跨国主义 | [[Methodological Nationalism\|方法论民族主义]] | [[Methodological Globalism\|方法论全球主义]] |
 > |------|--------------|---------------------------------------------|--------------|
-> | **空间[[Hypothesis\|假设]]** | 关系性、相互依存与多尺度重叠的空间 | 封闭、自足且领土边界固定的国家容器 | 去疆界化、均质且抹平差异的全球平面 |
+> | **空间假设** | 关系性、相互依存与多尺度重叠的空间 | 封闭、自足且领土边界固定的国家容器 | 去疆界化、均质且抹平差异的全球平面 |
 > | **分析焦点** | 全球/国家联结（Global/National Nexus）与[[Transfer Space\|转移空间]] | 国家内部制度发生学与跨国平行横向对比 | 全球同质化模型、世界文化与超国家规制 |
 > | **权力视角** | 多元节点[[Network Governance\|网络治理]]、策略性外在化与双向转译 | 主权科层垄断与自上而下的行政强制 | 单向、等级制与不可抗拒的外部结构霸权 |
 > | **国家角色** | 被解构的多功能复合体（行政、立法、咨询公私缠绕） | 均质统一的单一理性行动主体 | 逐步边缘化并被动服从全球规范的受体 |
@@ -138,13 +135,13 @@ updated: 2026-10-15
 > 分析传统政策研究将国家均质化造成的认知盲区，主张在细分治理层级中辨析[[Policy Mobility\|政策流动]]的断裂与重组。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]]
-> **[[Pluri-Scalar Governance|多尺度治理]]实体的分离与冲突** 将国家政府视为均质统一体的[[Hypothesis\|假设]]遮蔽了不同部门对跨国政策的异质反应；必须将政府拆解为咨询、行政与立法等不同职能主体。实证研究表明，政府委任的专家咨询委员会所采纳的跨国知识，往往在进入行政部门起草法定法令阶段遭到大规模过滤或选择性遗弃，这种政策周期的断裂只有在解构国家主体的视角下才能被准确捕捉。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 540, 546–547)]]
+> **[[Pluri-Scalar Governance|多尺度治理]]实体的分离与冲突** 将国家政府视为均质统一体的假设遮蔽了不同部门对跨国政策的异质反应；必须将政府拆解为咨询、行政与立法等不同职能主体。实证研究表明，政府委任的专家咨询委员会所采纳的跨国知识，往往在进入行政部门起草法定法令阶段遭到大规模过滤或选择性遗弃，这种政策周期的断裂只有在解构国家主体的视角下才能被准确捕捉。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 540, 546–547)]]
 
 ---
 
 ### 命题三　转移空间中的政策流动呈现非线性的选择性过滤与组织利基重构
 
-> [!concept-lens] [[Transfer Space\|转移空间]]与非线性[[Transfer Translation Transformation\|转译]]
+> [!concept-lens] [[Transfer Space\|转移空间]]与非线性转译
 > 探讨[[Policy Borrowing\|政策借用]]在转移空间中如何摆脱机械扩散假定，表现为中介工具打包与行政过滤的双重重构。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]]
@@ -190,7 +187,7 @@ updated: 2026-10-15
 > > - **国家自主性论** 指出行政官僚对法案的最终签署权表明主权国家仍牢牢掌握政策关卡。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 548)]]
 
 > [!critique] 外部批评
-> - **微观实操界限与物质权力稀释** 批评者指出，过于强调跨尺度关系网络与[[Transfer Space\|转移空间]]的[[Discourse|话语]][[Transfer Translation Transformation\|转译]]，容易模糊硬性国家财政约束、地缘政治强制与主权安全审查等刚性结构力量对政策流动的决定性封锁作用。
+> - **微观实操界限与物质权力稀释** 批评者指出，过于强调跨尺度关系网络与[[Transfer Space\|转移空间]]的[[Discourse|话语]]转译，容易模糊硬性国家财政约束、地缘政治强制与主权安全审查等刚性结构力量对政策流动的决定性封锁作用。
 
 > [!warning] 适用局限
 > 该方法论高度适用于高度开放、积极参与跨国治理对话与国际评测的政策体系；对于极度封闭、排斥外部评估或面临严重外部制裁的孤立政权，全球/国家联结的解释力相对有限。
@@ -204,7 +201,7 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | 挪威能力课程改革（5 个专家委员会 vs 部长令）；全球 30 个涉教育国际组织 | 跨国政策咨询[[Document\|文献]]引用网络追踪；国际组织职能分类数据库 | 政策咨询采纳率；经济协调类国际组织在教育中的占比 | 专家委员会共列入 464 篇文献，最终颁布的行政法令仅引用 22 篇（其中 20 篇来自[[OECD\|经合组织]]审查组）；涉教育国际组织中 33.3% 属于经济协调类组织 | — | 实证支持解构国家治理实体的必要性，揭示主权国家在行政出台阶段对跨国中介知识的剧烈自主过滤 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | 挪威能力课程改革（5 个专家委员会 vs 部长令）；全球 30 个涉教育国际组织 | 跨国政策咨询文献引用网络追踪；国际组织职能分类数据库 | 政策咨询采纳率；经济协调类国际组织在教育中的占比 | 专家委员会共列入 464 篇文献，最终颁布的行政法令仅引用 22 篇（其中 20 篇来自[[OECD\|经合组织]]审查组）；涉教育国际组织中 33.3% 属于经济协调类组织 | — | 实证支持解构国家治理实体的必要性，揭示主权国家在行政出台阶段对跨国中介知识的剧烈自主过滤 |
 
 ---
 
@@ -212,4 +209,4 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 践行方法论跨国主义框架，将全球五大组织与国家政策周期置于统一的[[Relational Space\|关系性空间]]中加以考察。
-> - [[Argument_Beech_2009_CE\|Beech (2009)]] — 批判比较教育学中的国家术语偏见，倡导[[Space of Flows\|流动空间]]与[[Space of Places\|地方空间]]的多尺度[[Transfer Translation Transformation\|转译]]分析。
+> - [[Argument_Beech_2009_CE\|Beech (2009)]] — 批判比较教育学中的国家术语偏见，倡导[[Space of Flows\|流动空间]]与[[Space of Places\|地方空间]]的多尺度转译分析。

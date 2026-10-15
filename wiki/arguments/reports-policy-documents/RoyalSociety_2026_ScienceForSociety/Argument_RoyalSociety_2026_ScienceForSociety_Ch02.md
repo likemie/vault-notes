@@ -44,7 +44,7 @@ related_concepts:
   - "[[Cultural Capital]]"
   - "[[Deficit Model of Science Communication]]"
   - "[[Science Capital]]"
-  - "[[Attrition]]"
+  - "[[Habitus]]"
   - "[[Creativity]]"
   - "[[Epistemology]]"
   - "[[Rich and Thick Description]]"
@@ -195,7 +195,7 @@ updated: 2026-09-15
 > [!warrant]- 信息渴求与治理边缘化深层结构性断层的四大制度根源
 > - **1. [[Deficit Model of Science Communication\|赤字模型]]残余与单向说教的[[Path Dependence|路径依赖]]** 许多科研机构和政府决策部门仍潜意识地将公众视为缺乏科学知识的认知赤字群体，习惯于在方案敲定后进行单向宣传与公关解释，而非在研发初期开展平等对话。
 > - **2. 上游公众审议（Upstream Public Deliberation）的制度化机制缺失** 在人工智能伦理边界、基因编辑监管、绿色低碳基础设施选址等重大前沿科技决策中，缺乏常设性公民陪审团（Citizens' Juries）或公众协商程序，公众诉求无法实质性进入政策制定管道。
-> - **3. [[Science Capital\|科学资本]]阶层惯习与自选受众壁垒（Self-Selecting Audiences）** 收费特展的高昂门槛与科学活动的学术精英化表达，导致校外科学参与往往沦为高[[Science Capital\|科学资本]]家庭的自选特权（Dawson, 2019），中下阶层与少数族裔群体在心理上形成科学与我们无关的文化疏离感。
+> - **3. [[Science Capital\|科学资本]]阶层[[Habitus|惯习]]与自选受众壁垒（Self-Selecting Audiences）** 收费特展的高昂门槛与科学活动的学术精英化表达，导致校外科学参与往往沦为高[[Science Capital\|科学资本]]家庭的自选特权（Dawson, 2019），中下阶层与少数族裔群体在心理上形成科学与我们无关的文化疏离感。
 > - **4. 政府部门管辖割裂与非正式部门的资金贫困** 科学探索中心与校外参与网络处于英国科学、创新与技术部（Department for Science, Innovation and Technology, DSIT）、英国教育部（Department for Education, DfE）、英国文化、媒体与体育部（Department for Culture, Media and Sport, DCMS）与地方政府的四不管地带，导致这套支撑全民终身学习的关键社会基础设施长期缺乏法定财政兜底。（p. 48）
 
 ---
@@ -210,7 +210,7 @@ updated: 2026-09-15
 > [!factors] 非正式科学参与的三重排斥机制
 > - **地理空间过度极化（Geographical Clustering）** 顶级国家场馆（如伦敦科学博物馆、自然历史博物馆、格林威治皇家天文台、弗朗西斯·克里克研究所）过度集中于东南英格兰，英格兰东北、西南及苏格兰高地等区域面临高昂的交通与时间成本。（pp. 44–45）
 > - **受众自选与科学资本马太效应（Self-Selecting Audiences & Science Capital Gap）** 商业化高昂门票、学术精英语话体系及场馆文化氛围，使传统场馆访客高度偏向中高社会经济地位家庭，低科学资本家庭在心理上产生科学不属于我们阶层的疏离感。（p. 48）
-> - **高校公共参与转向的意外挤出效应（Crowding-out of Generic Outreach）** 近年大学科研评估激励科研人员投身与特定课题挂钩的[[Participatory Research\|参与式研究]]（Participatory Research），导致通用型地方科学节与中小学外展讲座遭遇学者与资源[[Attrition\|流失]]。（p. 49）
+> - **高校公共参与转向的意外挤出效应（Crowding-out of Generic Outreach）** 近年大学科研评估激励科研人员投身与特定课题挂钩的[[Participatory Research\|参与式研究]]（Participatory Research），导致通用型地方科学节与中小学外展讲座遭遇学者与资源流失。（p. 49）
 
 > [!case] [[Case Study\|案例研究]]一：[[Big Butterfly Count\|大蝴蝶计数]]：全民参与的 15 分钟生态观察
 > - **发起背景与组织架构** 英国蝴蝶保护协会（Butterfly Conservation UK）于 2010 年正式发起该项目，著名自然纪录片主持人戴维·阿滕伯勒爵士（Sir David Attenborough）担任长期倡议大使。项目旨在应对全英授粉昆虫生境急剧退化危机，每年夏季 7 月中旬至 8 月初（蝴蝶羽化繁殖高峰期）开展为期三周的全民生态监测。（p. 43）

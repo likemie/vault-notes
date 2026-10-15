@@ -6,7 +6,7 @@ aliases:
 summary: "Cole et al. (2015) 开发的半结构化课堂观察工具，用于记录 ToK 课堂中的批判性思维教学实践"
 type: instrument
 instrument_type: observation-tool
-instrument_related_count: 12
+instrument_related_count: 11
 instrument_related_level: 2
 instrument_related_stars: "⭐⭐"
 instrument_related_color: "#cffafe"
@@ -36,7 +36,6 @@ related_methods:
   - "[[Classroom Observation]]"
   - "[[Field Notes]]"
   - "[[Non-participant Observation]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Triangulation]]"
 related_instruments: []
 related_persons: []
@@ -89,7 +88,7 @@ updated: 2026-10-15
 > [!observation-focus] 观察重点
 > <span class="instrument-observation-table-marker" aria-hidden="true"></span>
 >
-> | 编号 | 观察维度 | 观察重点 | 记录方式 | 判定或[[Coding in Qualitative Research\|编码]] | 来源 |
+> | 编号 | 观察维度 | 观察重点 | 记录方式 | 判定或编码 | 来源 |
 > |---|---|---|---|---|---|
 > | 1 | 教学法与内容 | ToK 如何被教授？教师做了什么来解释 ToK？ | 描述性田野笔记 | — | [[Argument_Cole_2015_AJE\|Cole et al. (2015, Appendix A)]] |
 > | 2 | 教学法与内容 | 学生如何回应特定的 ToK 教学法？学生在课堂上做了什么？ | 描述性田野笔记 | — | 同上 |

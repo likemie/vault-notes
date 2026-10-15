@@ -35,13 +35,11 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Paradigm]]"
   - "[[Professional Judgment]]"
-  - "[[Document]]"
   - "[[Technical Rationality]]"
   - "[[Phronesis]]"
   - "[[Evidence Ecosystem]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Epistemology]]"
-  - "[[Hypothesis]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Literature Search]]"
   - "[[Research Literacy]]"
@@ -98,7 +96,7 @@ title: "Argument_Rickinson_2022_ER"
 argument_key: "Argument_Rickinson_2022_ER"
 argument_display_title: "A framework for understanding the quality of evidence use in education"
 argument_kind: "journal-article"
-argument_related_count: 54
+argument_related_count: 52
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -123,7 +121,7 @@ issuing_organization: ""
 > 研究证据使用不能被简化为外部信息的被动输入或现成方案的机械套用，高质量研究证据使用（Quality Use of Research Evidence, QURE）是在复杂教育系统内，由个体使能构件（技能集、心智倾向、人际关系）与组织使能构件（领导力、文化、基础架构）协同支持的、对适切研究证据的审慎参与与实施；推动证据使用改善必须实现从聚焦证据本身质量向聚焦证据使用质量的[[Paradigm\|范式]]转向，充分发挥一线教育工作者的[[Professional Judgment\|专业判断力]]与情境调适能力。（pp. 134, 140–145）
 
 > [!concept-lens] 阅读透镜
-> - **对象** 跨越卫生保健、社会关照、教育与公共政策四大实践领域的 112 篇代表性核心[[Document\|文献]]，以及澳大利亚教育系统一线教师、校长、政策制定者与中介专家的多轮咨询反馈。（pp. 134–138）
+> - **对象** 跨越卫生保健、社会关照、教育与公共政策四大实践领域的 112 篇代表性核心文献，以及澳大利亚教育系统一线教师、校长、政策制定者与中介专家的多轮咨询反馈。（pp. 134–138）
 > - **张力** 传统[[Technical Rationality\|技术理性]]取向将研究使用等同于自上而下的线性证据供给与合规采纳，忽视了教育实践现场的复杂性、教师[[Phronesis\|实践智慧]]的不可替代性以及组织环境与宏观治理的结构性制约。（pp. 138–140）
 > - **贡献** 首次系统提炼跨实践领域的证据使用质态共识，建构了教育领域中研究证据质量使用框架（QURE），确立双核心构件、六维使能要素与宏观系统影响，为学校自我诊断、专业能力建设干预及系统生态重塑确立了分析透镜。（pp. 140–146）
 
@@ -140,7 +138,7 @@ issuing_organization: ""
 > | **专业判断**<br>[[Professional Judgment]] | 作为连接外部科学证据与临床教学决策的关键纽带，解释为何证据的适切性取决于实践者对具体学情、育人目标与复杂情境的审慎权衡。（pp. 138–139） |
 
 > [!warrant]- 理论如何支撑论证
-> 理论框架通过从证据供给侧向实践需求侧的视角转换，搭建起贯穿[[Document\|文献]]综合与框架建构的逻辑桥梁。借助证据知情实践与专业判断理论，打破了循证运动长期预设的[[Technical Rationality\|技术理性]][[Hypothesis\|假设]]，将教师确立为具备反思与调适能动性的专业主体；借助证据[[Ecological Systems Theory\|生态系统理论]]，超越个体层面的认知技能局限，将学校[[Organizational Culture\|组织文化]]、制度性资源保障及宏观政策环境纳入分析视野，从而合理解释了高质量研究证据使用为何必须依赖多层使能构件的协同互动。（pp. 138–145）
+> 理论框架通过从证据供给侧向实践需求侧的视角转换，搭建起贯穿文献综合与框架建构的逻辑桥梁。借助证据知情实践与专业判断理论，打破了循证运动长期预设的[[Technical Rationality\|技术理性]]假设，将教师确立为具备反思与调适能动性的专业主体；借助证据[[Ecological Systems Theory\|生态系统理论]]，超越个体层面的认知技能局限，将学校[[Organizational Culture\|组织文化]]、制度性资源保障及宏观政策环境纳入分析视野，从而合理解释了高质量研究证据使用为何必须依赖多层使能构件的协同互动。（pp. 138–145）
 
 ---
 
@@ -150,7 +148,7 @@ issuing_organization: ""
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **跨领域系统综述**<br>Cross-sector Systematic Review | 遵循[[Systematic Review\|系统综述]]原则，检索教育资源信息中心（Education Resources Information Center, ERIC）、Scopus、Web of Science 与 ProQuest 四大数据库，并补充网络检索、专家咨询与引文滚雪球；制定涵盖评估、发展与改善研究使用的检索式；经 Covidence 平台双人初筛与团队多轮协调质评，最终纳入 112 篇核心文献。（pp. 134–136） |
-> | **[[Narrative Synthesis\|叙事综合]]与框架构建**<br>Narrative Synthesis & Framework Construction | 依据 Popay et al. (2006) 规范撰写卫生保健、社会关照、教育与公共政策四大领域的[[Narrative Synthesis\|叙事综合]]文本（各 6,000–12,000 字），并经领域专家外部盲审；第一阶段通过主题分析提炼跨领域共性洞见并拓展先验框架；第二阶段结合教育[[Document\|文献]]展开比较分析，细化各构件内涵。（pp. 136–138） |
+> | **[[Narrative Synthesis\|叙事综合]]与框架构建**<br>Narrative Synthesis & Framework Construction | 依据 Popay et al. (2006) 规范撰写卫生保健、社会关照、教育与公共政策四大领域的[[Narrative Synthesis\|叙事综合]]文本（各 6,000–12,000 字），并经领域专家外部盲审；第一阶段通过主题分析提炼跨领域共性洞见并拓展先验框架；第二阶段结合教育文献展开比较分析，细化各构件内涵。（pp. 136–138） |
 > | **利益相关者多轮咨询**<br>Stakeholder Consultation | 贯穿框架研制全程，与澳大利亚跨州教育行政官员、中小学领导者、教师、[[Educational Brokerage Agency\|证据中介机构]]以及国际循证专家开展会议、工作坊和结构化书面咨询，检验框架的专业相关性与实践可行性。（p. 138） |
 
 > [!sample-panel]- 样本与材料快照
@@ -220,13 +218,13 @@ issuing_organization: ""
 ### 论证步骤一　跨领域循证实践普遍缺失使用质量界定，专业判断与系统动态性构成跨界共识基石
 
 > [!claim] 步骤一核心主张
-> 卫生保健、社会关照、教育与公共政策四大实践领域的[[Document\|文献]]普遍聚焦于证据生产与采纳合规，极少显性界定[[Research Utilization\|证据使用]]质量；然而，四大领域的深层实践与实施科学探索一致证实，高质量证据使用绝非[[Technical Rationality\|技术理性]]的机械套用，而是根本依赖一线[[Professional Judgment\|专业判断]]对复杂情境的审慎调适，并深嵌于多层动态系统之中。（pp. 138–140）
+> 卫生保健、社会关照、教育与公共政策四大实践领域的文献普遍聚焦于证据生产与采纳合规，极少显性界定[[Research Utilization\|证据使用]]质量；然而，四大领域的深层实践与实施科学探索一致证实，高质量证据使用绝非[[Technical Rationality\|技术理性]]的机械套用，而是根本依赖一线[[Professional Judgment\|专业判断]]对复杂情境的审慎调适，并深嵌于多层动态系统之中。（pp. 138–140）
 
 为了突破教育界长期的技术主义局限，研究团队首先将视线投向卫生保健、社会关照与公共政策等循证实践起步更早的领域，通过跨领域的[[Systematic Review|系统综述]]寻找理论共识。
 
 #### 1. 跨实践领域文献普遍聚焦证据生产与采纳合规，显性界定使用质量存在严重概念真空
 
-对四大实践领域海量文献的梳理表明，既有评估[[Paradigm|范式]]深陷于“证据本位”的技术理性[[Hypothesis|假设]]，极少对“何谓高质量的使用”给出操作性指标。
+对四大实践领域海量文献的梳理表明，既有评估[[Paradigm|范式]]深陷于“证据本位”的技术理性假设，极少对“何谓高质量的使用”给出操作性指标。
 
 > [!feature] 跨领域文献对使用质量的概念盲区与转化资源（pp. 138–139）
 > - **显性定义极其罕见** 海量跨实践领域文献将重心置于证据本身的生产、传播渠道或被动采纳，除少数先驱性文献（如 Sackett et al., 1996; Earl & Timperley, 2009; Parkhurst, 2017; Rutter & Gold, 2015）外，普遍缺乏关于使用质量的操作性指标。
@@ -339,7 +337,7 @@ issuing_organization: ""
 审慎参与和实施具体表现为一个由批判审视、集体探讨到情境整合的三重递进过程。
 
 > [!proc] 审慎参与和实施的三重递进过程（pp. 141–142）
-> 1. **批判性研读** 教师与学校管理者深入审视研究结论的前提[[Hypothesis\|假设]]、证据效力、局限性与适用边界，拒绝盲从权威。
+> 1. **批判性研读** 教师与学校管理者深入审视研究结论的前提假设、证据效力、局限性与适用边界，拒绝盲从权威。
 > 2. **共同审议** 依托教研团队开展深度专业对话，结合本校特定学情与办学目标，探讨研究启示在本土情境中的可行性。
 > 3. **情境化整合** 将提炼出的核心原理或策略与学校既有课程、教学规程及专业实践有机融通，推动渐进式实践改进（Sharples, 2013）。
 

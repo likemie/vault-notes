@@ -7,7 +7,7 @@ summary: "澳大利亚莫纳什大学教育学教授与莫纳什 Q 项目负责�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 22
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -34,7 +34,6 @@ related_methods:
   - "[[In-depth Interview]]"
   - "[[Narrative Synthesis]]"
   - "[[Qualitative Interview]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Questionnaire]]"
   - "[[Mixed Methods Research]]"
 related_facts:
@@ -49,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-09-18
+updated: 2026-10-15
 ---
 
 # Mark Rickinson
@@ -107,7 +106,7 @@ updated: 2026-09-18
 
 > [!influence-path] 影响路径
 > - **理论路径** 开辟了教育[[Knowledge Mobilisation\|知识动员]]研究中从“证据生产供给”转向“[[Research Utilization\|证据使用]]质量”的新分析纲领，为理解实践端循证行为提供了理论透镜。
-> - **方法路径** 结合跨领域[[Systematic Review\|系统综述]]、质性[[Qualitative Interview\|质性访谈]]分析（Braun & Clarke 法典式[[Coding in Qualitative Research\|编码]]）与大规模[[Questionnaire\|问卷调查]]，树立了研究利用领域多阶段[[Mixed Methods Research\|混合方法研究]]的设计典范。
+> - **方法路径** 结合跨领域[[Systematic Review\|系统综述]]、质性[[Qualitative Interview\|质性访谈]]分析（Braun & Clarke 法典式编码）与大规模[[Questionnaire\|问卷调查]]，树立了研究利用领域多阶段[[Mixed Methods Research\|混合方法研究]]的设计典范。
 > - **政策路径** [[Quality Use of Research Evidence Framework\|QURE]] 框架被[[OECD\|经合组织]]（OECD）“[[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]”采纳为跨国政策调查的核心理论支柱，广泛影响欧美与亚太国家的教育证据治理政策。（[[Argument_Revai_2022_ChangingLandscape\|Révai, 2022, p. 24]]）
 
 ---

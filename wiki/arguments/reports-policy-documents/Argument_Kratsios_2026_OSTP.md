@@ -21,7 +21,6 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Academic Freedom]]"
-  - "[[Hypothesis]]"
   - "[[Falsification]]"
   - "[[Research Universities]]"
   - "[[Linear Model of Innovation]]"
@@ -29,7 +28,6 @@ related_concepts:
   - "[[Success Criteria]]"
   - "[[Pull Mechanisms for Innovation]]"
   - "[[Process Knowledge]]"
-  - "[[Attrition]]"
   - "[[Epistemology]]"
   - "[[Innovation Ecosystem]]"
   - "[[Knowledge Production]]"
@@ -48,7 +46,6 @@ related_concepts:
   - "[[Seniority Barrier in Academia]]"
   - "[[Eroom's Law]]"
   - "[[Star Scientists]]"
-  - "[[Document]]"
   - "[[Creativity]]"
   - "[[Diversity, Equity, and Inclusion]]"
   - "[[Discourse]]"
@@ -91,7 +88,6 @@ related_theories:
   - "[[Pasteur's Quadrant]]"
   - "[[Path Dependence]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Design-Based Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"
@@ -102,7 +98,6 @@ related_persons:
   - "[[Franklin D. Roosevelt]]"
   - "[[Vannevar Bush]]"
   - "[[Donald Stokes]]"
-  - "[[Alfred Nobel]]"
   - "[[Max Planck]]"
 related_facts:
   - "[[Science A New Golden Age 2026]]"
@@ -147,7 +142,7 @@ title: "Argument_Kratsios_2026_OSTP"
 argument_key: "Argument_Kratsios_2026_OSTP"
 argument_display_title: "Science: A new golden age (Report to the President)"
 argument_kind: "report"
-argument_related_count: 110
+argument_related_count: 105
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -167,7 +162,7 @@ issuing_organization: "Office of Science and Technology Policy"
 > 当私人部门成为国家研发经费的主要来源、前沿发现日益发生在基础与应用的双向交汇之中，而联邦资助体制仍受困于二十世纪中叶的学科壁垒、项目短周期与高校课题组模式时，面对全球竞争对手的举国动员与人工智能对科研[[Paradigm|范式]]的重构，联邦政府应当如何重组科学体制，以赋予研究者探索高风险根本问题的[[Academic Freedom|学术自由]]，并将科学发现转化为本土产业能力与广泛的国家繁荣。
 
 > [!claim] 核心主张
-> 1945 年建立的政府资助基础研究、市场负责技术开发的线性分工模式已无法有效解释当代科研机制。联邦政府必须坚守资助私人资本难以充分承担之基础研究的公共职能，但资助重心应从项目转向科学家个人。科研体制需引入多元选拔机制与新型组织形态并进行实证检验；必须将科学发现重新锚定于本土试验、先进制造与工程技艺；面对人工智能大幅降低[[Hypothesis|假设]]生成成本的新现实，国家必须同步建设具有同等规模的可重复、可共享与可[[Falsification|证伪]]的核验基础设施。
+> 1945 年建立的政府资助基础研究、市场负责技术开发的线性分工模式已无法有效解释当代科研机制。联邦政府必须坚守资助私人资本难以充分承担之基础研究的公共职能，但资助重心应从项目转向科学家个人。科研体制需引入多元选拔机制与新型组织形态并进行实证检验；必须将科学发现重新锚定于本土试验、先进制造与工程技艺；面对人工智能大幅降低假设生成成本的新现实，国家必须同步建设具有同等规模的可重复、可共享与可[[Falsification|证伪]]的核验基础设施。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 美国联邦科研资助体系、国家实验室、[[Research Universities|研究型大学]]、产业研发机构，以及连接科学发现与本土能力的监管规制、测试试验场与技术技能劳动力制度。
@@ -192,7 +187,7 @@ issuing_organization: "Office of Science and Technology Policy"
 > | **[[Science, The Endless Frontier 1945\|无尽的前沿]]**<br>[[Vannevar Bush]] | 确立联邦公共资助基础研究的合法性起点。政府必须承担私人市场由于收益外溢而不愿充分投资的长期探索，并协调高校与产业协同攻关，但该公共职能不能固化为僵化的单向流水线。 |
 > | **[[Pasteur's Quadrant\|巴斯德象限]]**<br>[[Donald Stokes]] | 阐明科学研究可以同时追求根本性机制理解与明确的现实应用目标。晶体管、信息论、蛋白质结构预测与量子器件表明，当代科技前沿大量分布于这一双重驱动象限。 |
 > | **机制设计** | 将科研资助规则视为主体行为与风险偏好的激励结构。在低资助率下，传统同行评议往往奖励低风险共识；必须通过金券、对人资助、[[Pull Mechanisms for Innovation\|拉动机制]]与快速资助等机制试验优化配置效率。 |
-> | **[[Process Knowledge\|过程知识]]** | 将技术解构为物理工具、可[[Coding in Qualitative Research\|编码]]规程与深植于熟练人员的排障手感及默会经验。若科学发现脱离本土制造，后一种关键知识将随产线迁移而[[Attrition\|流失]]。 |
+> | **[[Process Knowledge\|过程知识]]** | 将技术解构为物理工具、可编码规程与深植于熟练人员的排障手感及默会经验。若科学发现脱离本土制造，后一种关键知识将随产线迁移而流失。 |
 
 > [!warrant]- 理论如何支撑论证
 > 布什报告论证了联邦公共科研投入不可替代的必要性；巴斯德象限破除了基础与应用截然二分的传统预算切分逻辑；机制设计理论揭示了选拔规则如何系统性塑造学术界的风险承担意愿；过程知识理论则阐明了论文专利无法替代实体试验场、学徒训练与本土制造生态。四大理论工具构成了贯穿全篇的诊断逻辑：当科研体制与前沿探索规律发生结构性错位时，资本与人才将被双重浪费。
@@ -253,7 +248,7 @@ issuing_organization: "Office of Science and Technology Policy"
 > - **第二章　重塑以研究者个人为核心的科研资助体制** 破除行政文书羁绊，扩大可随人迁移的早期奖学金与长周期对人资助；引入金券、快速资助、[[Pull Mechanisms for Innovation|拉动机制]]等多元选拔渠道；在联邦机构内设立具有对照实验权限的[[Metascience|元科学]]单元。
 > - **第三章　确保科学发现高效转化为本土产业能力** 恢复[[Permissionless Innovation|无许可创新]]并推行[[Regulatory Sandbox|监管沙盒]]；向产业界全面开放能源部（[[Department of Energy]], DOE）国家实验室与国防部测试试验场；依托前竞争联合体与[[Grand Challenges|重大挑战]]计划攻克行业共性工程瓶颈。
 > - **第四章　推动科技红利回归本土制造、手艺技能与区域生态** 拆除高等教育与职业培训的壁垒，将[[Apprenticeship|学徒制]]与动手实践计入培养体系；设立驻校实践者与[[Practitioner-in-Residence|国家工匠学者计划]]；建设基于地方制造集群与[[Community College Strategic Anchoring|社区学院战略产业锚定]]的区域[[Innovation Hub|创新中心]]。
-> - **第五章　在智能时代同步扩大[[Hypothesis|假设]]生成与实验核验规模** 全面推进[[Genesis Mission|创世纪计划]]，整合国家超级算力与仪器网络；践行[[Gold Standard Science|黄金标准科学]]，建立机器可读的自动化复现基础设施；发展适应人工智能科研[[Paradigm|范式]]的新型学术交流机制。
+> - **第五章　在智能时代同步扩大假设生成与实验核验规模** 全面推进[[Genesis Mission|创世纪计划]]，整合国家超级算力与仪器网络；践行[[Gold Standard Science|黄金标准科学]]，建立机器可读的自动化复现基础设施；发展适应人工智能科研[[Paradigm|范式]]的新型学术交流机制。
 
 ---
 
@@ -294,7 +289,7 @@ issuing_organization: "Office of Science and Technology Policy"
 企业研发已深入基础科学核心腹地，其产出的突破性成果表明传统机构界限正在瓦解。
 
 > [!case] 企业实验室里的前沿基础研究
-> 从晶体管的发明到支撑现代机器学习的 Transformer 架构，均诞生于雇佣数千名顶尖科学家的企业实验室。这些实验室发表的论文具有极高的学术引用与理论深度，其研究薪资往往数倍乃至数十倍于传统高校，对全球拔尖人才形成强大吸附力。历史上，企业科学家在电子隧穿、表面化学、高分子科学与激光物理等领域屡获[[Alfred Nobel|诺贝尔]]奖；如今，教授与博士生亦能筹集数亿美元创办直面根本性科学突破的初创企业。除了航天探测与粒子对撞等政府主导的[[Big Science|大科学]]项目外，高校扩展复杂工程系统的能力存在天然局限，而初创企业自主开展基础研究的普及，使基础与应用的传统界限彻底模糊（pp. 5–6）。
+> 从晶体管的发明到支撑现代机器学习的 Transformer 架构，均诞生于雇佣数千名顶尖科学家的企业实验室。这些实验室发表的论文具有极高的学术引用与理论深度，其研究薪资往往数倍乃至数十倍于传统高校，对全球拔尖人才形成强大吸附力。历史上，企业科学家在电子隧穿、表面化学、高分子科学与激光物理等领域屡获诺贝尔奖；如今，教授与博士生亦能筹集数亿美元创办直面根本性科学突破的初创企业。除了航天探测与粒子对撞等政府主导的[[Big Science|大科学]]项目外，高校扩展复杂工程系统的能力存在天然局限，而初创企业自主开展基础研究的普及，使基础与应用的传统界限彻底模糊（pp. 5–6）。
 
 #### 3. 基础与应用研究呈现双向循环，资助体制仍僵化固守学科与课题组
 
@@ -341,7 +336,7 @@ issuing_organization: "Office of Science and Technology Policy"
 若缺乏本土制造生态承接，单纯的科学开放将面临严重的战略外溢。
 
 > [!threat] 单向开放模式下的技术外溢与产业脱节风险
-> - **人才[[Attrition|流失]]隐患** 计算机科学、数学与工程博士毕业生中临时签证持有者占比高达 40%–50%，人才去留深刻影响关键技术掌控。（pp. 10–11）
+> - **人才流失隐患** 计算机科学、数学与工程博士毕业生中临时签证持有者占比高达 40%–50%，人才去留深刻影响关键技术掌控。（pp. 10–11）
 > - **研发制造脱节** 极紫外光刻核心技术与先进锂电化学起源于美国公共资金，但因本土制造缺失，产业主导权被国外承接。（p. 10）
 > - **非对称竞争劣势** 美国承担基础研发成本，外部竞争者凭借全社会动员体制与制造优势低成本获取并实现产业垄断。（pp. 9–10）
 
@@ -379,7 +374,7 @@ issuing_organization: "Office of Science and Technology Policy"
 学徒期的过度拉长导致早期科研选题严重趋于保守，青年学者在学术等级结构中过早丧失了学术探索的胆识与野心。
 
 > [!case] [[Star Scientists|明星科学家]]逝世后的知识垄断打破效应
-> 1980 至 2008 年间，NIH 课题负责人平均年龄自 39 岁攀升至 51 岁，新入选者平均年龄达 42 岁，已显著超越诺贝尔奖级原始创新产出的黄金年龄。生物医学界的实证研究显示，当某领域的[[Star Scientists|明星科学家]]意外离世后，由其学派控制的封闭学术网络被打破，圈外年轻学者发表的论文开始大量涌入，且这些外部成果更易成为该领域的标志性高被引[[Document|文献]]。传统学科规模扩大后，注意力往往固化于既有经典[[Document|文献]]，严重阻碍了前沿范式的迭代升级（p. 16）。
+> 1980 至 2008 年间，NIH 课题负责人平均年龄自 39 岁攀升至 51 岁，新入选者平均年龄达 42 岁，已显著超越诺贝尔奖级原始创新产出的黄金年龄。生物医学界的实证研究显示，当某领域的[[Star Scientists|明星科学家]]意外离世后，由其学派控制的封闭学术网络被打破，圈外年轻学者发表的论文开始大量涌入，且这些外部成果更易成为该领域的标志性高被引文献。传统学科规模扩大后，注意力往往固化于既有经典文献，严重阻碍了前沿范式的迭代升级（p. 16）。
 
 > [!figure]- 图4　首次获得 R01 等效资助的研究者平均年龄
 > ![](https://img.mylikemie.icu/sources/Kratsios_2026_OSTP/figures/Kratsios_2026_OSTP_Fig4_Age_First_Time_NIH_Investigators.jpg)
@@ -634,7 +629,7 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 ### 论证步骤五　将过程知识与熟练手艺重构为科研生态的核心支柱
 
 > [!claim] 步骤五核心主张
-> 技术能力本质上深植于无法完全[[Coding in Qualitative Research|编码]]的[[Process Knowledge|过程知识]]与熟练手艺之中；制造业的外流切断了科学探索与生产实践的反馈回路，必须重振学徒制并拓宽传统学术阶梯之外的科研参与路径。（pp. 47–56）
+> 技术能力本质上深植于无法完全编码的[[Process Knowledge|过程知识]]与熟练手艺之中；制造业的外流切断了科学探索与生产实践的反馈回路，必须重振学徒制并拓宽传统学术阶梯之外的科研参与路径。（pp. 47–56）
 
 #### 1. 过程知识深植于实践现场而无法仅凭发表文献传递
 
@@ -812,7 +807,7 @@ NSF [[Directorate for Technology, Innovation and Partnerships|技术、创新与
 
 > [!finding-cards] 核心发现
 > 1. **单向线性模型失真** 企业每年约 7000 亿美元的研发投入已超过政府与高等教育总和的三倍，当代重大突破多呈现基础研究与工程应用的双向迭代，[[Pasteur's Quadrant|巴斯德象限]]成为前沿科学的主导形态。（pp. 5–7）
-> 2. **制度摩擦推高创新成本** 近一半科研时间被行政文书消耗，[[National Institutes of Health|NIH]] 课题负责人平均年龄推迟至 51 岁，同行评议趋于保守求稳，亟需引入对人资助、金券与快速资助等多元选拔[[Hypothesis|假设]]。（pp. 8, 16, 27–28）
+> 2. **制度摩擦推高创新成本** 近一半科研时间被行政文书消耗，[[National Institutes of Health|NIH]] 课题负责人平均年龄推迟至 51 岁，同行评议趋于保守求稳，亟需引入对人资助、金券与快速资助等多元选拔假设。（pp. 8, 16, 27–28）
 > 3. **转化与[[Process Knowledge|过程知识]]决定竞争成败** 仅资助论文发表会导致技术被国外制造接走；必须恢复[[Permissionless Innovation|无许可创新]]，依托国家实验室开放设施与前竞争联合体，重振深植于本土制造与熟练技艺中的默会过程知识。（pp. 34, 40, 47–48）
 > 4. **生成与核验必须等规模扩建** [[Genesis Mission|创世纪计划]]将国家实验室算力、数据与仪器整合成发现引擎，同时必须建立[[Gold Standard Science|黄金标准科学]]与机器可读的自动化复现机制，防止人工智能成倍放大未经核验的虚假发现。（pp. 62–66）
 

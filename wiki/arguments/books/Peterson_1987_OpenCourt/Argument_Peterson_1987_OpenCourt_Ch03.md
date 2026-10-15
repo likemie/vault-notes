@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch03"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch03"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch03"
 argument_kind: "book-chapter"
-argument_related_count: 34
+argument_related_count: 32
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -31,7 +31,6 @@ tags:
 related_concepts:
   - "[[International Baccalaureate]]"
   - "[[Whole Person Education]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Extended Essay]]"
   - "[[Creativity, Action, Service]]"
   - "[[Theory of Knowledge]]"
@@ -64,7 +63,6 @@ related_persons:
   - "[[William Foote Whyte]]"
   - "[[Kurt Hahn]]"
   - "[[Gerard Renaud]]"
-  - "[[Peter A. Hall]]"
 related_facts:
   - "[[United World Colleges]]"
   - "[[Educational Testing Service]]"
@@ -83,7 +81,7 @@ updated: '2026-08-27'
 ## 核心主旨
 
 > [!claim] 核心主旨
-> [[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）的教育理念需要通过课程与考试落实。设计者把发展个人理解、改变并享受其内外环境的[[Whole Person Education\|全人教育]]目标[[Transfer Translation Transformation\|转译]]为一套制度：六门分布式学科训练不同思维方式，[[Extended Essay\|拓展论文]]（Extended Essay，EE）提供自主深究，创造、审美与社会服务（[[Creativity, Action, Service\|Creative, Aesthetic and Social Service]]，[[Creativity, Action, Service\|CASS]]）保留直接经验与社会服务，[[Theory of Knowledge\|知识论]]（Theory of Knowledge，TOK）统整学科认识方式，多元考试则在效度、[[Reliability\|可靠性]]与[[Assessment Backwash\|评估反拨]]之间取得平衡（pp. 33–59）。
+> [[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）的教育理念需要通过课程与考试落实。设计者把发展个人理解、改变并享受其内外环境的[[Whole Person Education\|全人教育]]目标转译为一套制度：六门分布式学科训练不同思维方式，[[Extended Essay\|拓展论文]]（Extended Essay，EE）提供自主深究，创造、审美与社会服务（[[Creativity, Action, Service\|Creative, Aesthetic and Social Service]]，[[Creativity, Action, Service\|CASS]]）保留直接经验与社会服务，[[Theory of Knowledge\|知识论]]（Theory of Knowledge，TOK）统整学科认识方式，多元考试则在效度、[[Reliability\|可靠性]]与[[Assessment Backwash\|评估反拨]]之间取得平衡（pp. 33–59）。
 
 > [!phase] 从教育目标到课程与评价体系
 > 国际文凭办公室（International Baccalaureate Office，IBO）缺乏国家教育系统的法律处方权、统一师资培训和督学，只能主要通过考试规则影响学校。设计者比较欧陆十三科式百科全书课程、英国过早专门化和美国大学通识三条道路，把[[General Education\|通识教育]]定义为运用多种思维方式的能力，并形成共同核心、深度选项、六学科、EE、CASS 和 TOK。课程框架确立后，语言 A 与语言 B 的设计在测量稳定性和教学反拨之间权衡，最终形成覆盖口试、论文、项目、实践、校内评价和客观题的综合评价（pp. 34–57）。[[Alec Peterson\|亚历克·皮特森]]（Alec Peterson）随后检验这套制度对理解、行动和享受环境等目标的实现程度，并指出仍待解决的问题（pp. 57–59）。
@@ -396,7 +394,7 @@ EE 的早期调整在学生选择、长期投入和整体课程负担之间重�
 ### 全人教育目标的课程检验（约1970–1985）
 
 > [!claim] 课程运行后重新检验最初目标
-> IB 的总体课程与考试结构由 Peterson、Renaud、威廉·[[Peter A. Hall|霍尔]]斯（W. D. Halls）、Dreyfus、各学科国际小组及试验学校共同形成。运行约十五年后，Peterson 依照最初的[[Whole Person Education\|全人教育]]目标检查六学科、EE、CASS、TOK 和评价制度能否支持个人理解、改变和享受内外环境，范围覆盖物质、社会、道德、审美和精神层面。理解环境获得了最完整的课程结构，改变环境只得到有限保障，享受环境主要依靠间接条件，而且最难验证（Ch. 2, pp. 22–31；Ch. 3, pp. 33–34, 57–59）。
+> IB 的总体课程与考试结构由 Peterson、Renaud、威廉·霍尔斯（W. D. Halls）、Dreyfus、各学科国际小组及试验学校共同形成。运行约十五年后，Peterson 依照最初的[[Whole Person Education\|全人教育]]目标检查六学科、EE、CASS、TOK 和评价制度能否支持个人理解、改变和享受内外环境，范围覆盖物质、社会、道德、审美和精神层面。理解环境获得了最完整的课程结构，改变环境只得到有限保障，享受环境主要依靠间接条件，而且最难验证（Ch. 2, pp. 22–31；Ch. 3, pp. 33–34, 57–59）。
 
 > [!framework-table] 三项目标及 Peterson 的总体判断
 > | 原始目标 | 课程提供的主要机制 | Peterson 的判断 |

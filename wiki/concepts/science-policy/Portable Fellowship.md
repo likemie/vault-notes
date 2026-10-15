@@ -9,7 +9,7 @@ aliases:
 summary: "科技人才与高等教育资助中直接赋权早期青年学者的流动性支持机制；将高额科研经费与生活津贴直接授予研究生或博士后学者本人（而非挂靠在资深课题负责人 PI 的特定基金项目下），并允许其自由携带经费跨校、跨院系及跨课题组流动，以打破资历垄断、对冲学术避险并重构平等的导师指导关系。"
 type: concept
 domain: "science-policy"
-related_count: 19
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Research Topic]]"
   - "[[Research Scope]]"
-  - "[[Document]]"
   - "[[Research Universities]]"
   - "[[Paradigm]]"
   - "[[Seniority Barrier in Academia]]"
@@ -39,7 +38,6 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Michael Kratsios]]"
-  - "[[Alfred Nobel]]"
 related_facts:
   - "[[National Institutes of Health]]"
   - "[[National Science Foundation]]"
@@ -48,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Portable Fellowship
@@ -122,21 +120,21 @@ updated: 2026-10-08
 > [!ref-table]- 可携带式学术资助长期产出与资历壁垒实证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究[[Document\|文献]] | 样本与情境 | 考察指标与设计 | 原始实证结果 | 理论解释边界 |
+> | 研究文献 | 样本与情境 | 考察指标与设计 | 原始实证结果 | 理论解释边界 |
 > |:---|:---|:---|:---|:---|
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 16)]] | 1980–2024 年全美各学科博士生与青年学者年龄普查 | 获得首个独立联邦资助的 PI 平均年龄纵向追踪 | [[National Institutes of Health\|NIH]] 课题负责人平均年龄由 39 岁攀升至 51 岁，首次获资助者平均年龄推迟至 42 岁 | 揭示资历壁垒加剧与青年学者独立延后对国家科技[[Creativity\|创造力]]的系统性侵蚀 |
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 28)]] | [[National Science Foundation\|美国国家科学基金会]]研究生研究奖学金计划（NSF GRFP）50 年追踪 | 可携带资助获得者与传统 PI 课题组助研（RA）的长期学术产出对比 | 获得可携带资助的学者在 10 年内成为独立学术领军人才（院士/顶刊高引/独角兽创始人）的概率较对照组高出 110% | 实证验证早期直接赋权与自主流动对释放突破性创造力的显著正向效应 |
 
 > [!example] 典型制度实践案例
 > - **霍华德·休斯医学研究所（HHMI）青年研究员与博士后可携带资助计划**
->   HHMI 为入选学者提供为期 5–7 年的全额免考核直接资助，学者可在全美任何[[Research Universities|研究型大学]]自由建立实验室。该机制孕育了数十位[[Alfred Nobel|诺贝尔]]奖得主，成为全球践行“对人资助、自由携带”的公认黄金[[Paradigm|范式]]。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 28)]]
+>   HHMI 为入选学者提供为期 5–7 年的全额免考核直接资助，学者可在全美任何[[Research Universities|研究型大学]]自由建立实验室。该机制孕育了数十位诺贝尔奖得主，成为全球践行“对人资助、自由携带”的公认黄金[[Paradigm|范式]]。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 28)]]
 
 ---
 
 ## 命题总览
 
 > [!contrast-table] 可携带式学术资助核心命题归纳
-> | 命题维度 | 核心命题名称 | 关键作用机制 | 核心论证[[Document\|文献]] |
+> | 命题维度 | 核心命题名称 | 关键作用机制 | 核心论证文献 |
 > |:---|:---|:---|:---|
 > | **避险诊断** | **依附避险与[[Seniority Barrier in Academia\|资历垄断]]** | 资金挂靠资深 PI 导致青年学者沦为依附性劳动力，加剧老龄化学术避险 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 16, 28)]] |
 > | **权力重构** | **退出权倒逼效应与优选** | 赋予学生用脚投票的流动特权，打破导师人身依附，倒逼指导质量提升 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 28)]] |

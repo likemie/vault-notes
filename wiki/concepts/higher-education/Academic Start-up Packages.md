@@ -9,7 +9,7 @@ aliases:
 summary: "研究型大学向新招聘理工科教职人员提供的专属科研启动资金包，用于实验室装修、昂贵科研仪器购置、研究生与博士后津贴及前三年日常运转，是学者在缺乏外部资助时获取预实验数据参与项目竞争的生存期资助工具。"
 type: concept
 domain: "higher-education"
-related_count: 23
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,11 +25,9 @@ related_concepts:
   - "[[Seed Funding]]"
   - "[[Competitiveness]]"
   - "[[Indirect Costs of Research]]"
-  - "[[Document]]"
   - "[[Academic Risk Aversion]]"
   - "[[Creativity]]"
   - "[[Variable]]"
-  - "[[Assemblage]]"
 related_theories: []
 related_methods:
   - "[[Pilot Testing]]"
@@ -51,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Academic Start-up Packages
@@ -145,7 +143,7 @@ updated: 2026-10-07
 > **三年窗口期倒逼青年学者规避探索风险** 在商场模型下，大学提供的启动金仅能维持约 3 年的实验室运作。青年学者面临极其严酷的时间窗口：一旦启动金在 3 年内耗尽而未能斩获首个联邦项目，其实验室便面临人员解散与事实倒闭的危机。这种严酷的“自负盈亏倒计时”迫使青年学者在启动金阶段极力规避高风险、长周期的开创性研究，转而选择最容易产出[[Pilot Testing|预实验]]数据、最符合主流评审口味的渐进性题目。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 28, 30–32)]]
 
 > [!claim] [[Richard C. Atkinson|Atkinson, R. C.]]; Blanpied, W. A.
-> **长聘倒计时与资助率暴跌驱动学术成果平庸化** 理工科新聘青年教师通常享有大学提供的 3 年启动金以配置仪器并建立团队，但高校要求其必须在 3 年内斩获联邦竞争性课题，否则将在终身教职考评中被淘汰；加之联邦资助率低迷（青年博士中标率仅约 20%），迫使学者主动规避任何颠覆性高风险假说，转而选择稳妥平庸的安全项目，导致学术期刊充斥大量缺乏开创性价值的平庸[[Document|文献]]。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 44–45)]]
+> **长聘倒计时与资助率暴跌驱动学术成果平庸化** 理工科新聘青年教师通常享有大学提供的 3 年启动金以配置仪器并建立团队，但高校要求其必须在 3 年内斩获联邦竞争性课题，否则将在终身教职考评中被淘汰；加之联邦资助率低迷（青年博士中标率仅约 20%），迫使学者主动规避任何颠覆性高风险假说，转而选择稳妥平庸的安全项目，导致学术期刊充斥大量缺乏开创性价值的平庸文献。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 44–45)]]
 
 ---
 
@@ -204,5 +202,5 @@ updated: 2026-10-07
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Stephan_2013_NBER|Stephan (2013)]] — 系统梳理启动配套金在商场模型中的微观功能，揭示其在仪器采购、生师比恶化及学费上涨中的制度传导链条。
-> - [[Argument_Atkinson_2008_TIS|Atkinson & Blanpied (2008)]] — 指出[[Research Universities|研究型大学]]为新进青年学者提供实验室[[Assemblage|装配]]启动经费，但后续三年若无法获得外部联邦项目资助则面临离职或退出学术界的严苛淘汰机制。
+> - [[Argument_Atkinson_2008_TIS|Atkinson & Blanpied (2008)]] — 指出[[Research Universities|研究型大学]]为新进青年学者提供实验室装配启动经费，但后续三年若无法获得外部联邦项目资助则面临离职或退出学术界的严苛淘汰机制。
 

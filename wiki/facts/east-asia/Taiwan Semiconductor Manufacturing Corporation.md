@@ -11,7 +11,7 @@ subtype: organization
 region: east-asia
 fact_region: "east-asia"
 fact_kind: "organization"
-fact_related_count: 29
+fact_related_count: 27
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Modern Industrial Policy]]"
   - "[[Paradigm]]"
   - "[[Technological Catch-up]]"
-  - "[[Electronic Design Automation]]"
   - "[[Process Design Kit]]"
   - "[[Learning by Doing]]"
   - "[[Innovation Ecosystem]]"
@@ -38,7 +37,6 @@ related_concepts:
   - "[[Agglomeration Externalities]]"
   - "[[Strategic Autonomy]]"
   - "[[Research Universities]]"
-  - "[[Document]]"
   - "[[Policy Conditionalities]]"
   - "[[National Innovation System]]"
   - "[[Pilot Scale Platform]]"
@@ -64,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Taiwan Semiconductor Manufacturing Corporation
@@ -110,7 +108,7 @@ updated: 2026-10-10
 
 > [!pathways]- 业务运行机制
 > - **纯代工客户信任基石** 坚决不涉足芯片终端设计，彻底消除苹果、英伟达等客户关于核心设计架构与商业机密外泄的顾虑。
-> - **开放创新平台（Open Innovation Platform, OIP）** 联合 [[Electronic Design Automation|EDA]] 巨头（新思科技、铿腾电子）、IP 供应商（Arm）与设备材料商，为全球设计公司提供标准化的先进制程[[Process Design Kit|工艺设计套件]]（PDK），构建起强大的软件与生态护城河。在《[[CHIPS and Science Act|芯片与科学法案]]》下，美国[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）的共享中试产线与设计赋能网关（DEG）亦以台积电等主流商业晶圆厂的 PDK 基准与工艺流程为参照，确保大学和初创团队在中试线验证的原型能无缝导入商业代工厂进行规模化量产。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 14–22)]]
+> - **开放创新平台（Open Innovation Platform, OIP）** 联合 EDA 巨头（新思科技、铿腾电子）、IP 供应商（Arm）与设备材料商，为全球设计公司提供标准化的先进制程[[Process Design Kit|工艺设计套件]]（PDK），构建起强大的软件与生态护城河。在《[[CHIPS and Science Act|芯片与科学法案]]》下，美国[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）的共享中试产线与设计赋能网关（DEG）亦以台积电等主流商业晶圆厂的 PDK 基准与工艺流程为参照，确保大学和初创团队在中试线验证的原型能无缝导入商业代工厂进行规模化量产。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 14–22)]]
 > - **良率与规模的正反馈飞轮** 庞大的客户代工规模为台积电提供了海量晶圆缺陷数据，使其[[Learning by Doing|在做中学]]的学习曲线斜率远陡于同行，持续巩固“良率领先 $\to$ 成本更低 $\to$ 利润更厚 $\to$ 研发开支更大 $\to$ 新制程再次领跑”的垄断闭环。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 81, 88)]]
 
 ---
@@ -185,7 +183,7 @@ updated: 2026-10-10
 > | [[Learning by Doing]] | Concept | 晶圆制造良率提升的组织化学习曲线是台积电拉大与追赶者制程成本代差的核心动力。 |
 > | [[Strategic Autonomy]] | Concept | 美欧引进台积电设厂的深层战略动因，在于摆脱对单一地缘热点的先进制程制造依赖以实现供应链自主。 |
 > | [[Research Universities]] | Concept | 作为城市与区域创新网络的[[Anchor Institution\|锚定机构]]（如 ASU），为台积电等晶圆制造龙头集聚提供多级工程人才支撑。 |
-> | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | Argument | 剖析大学作为锚定机构吸引台积电入驻凤凰城并重塑城市创新网络的制度[[Document\|文献]]。 |
+> | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | Argument | 剖析大学作为锚定机构吸引台积电入驻凤凰城并重塑城市创新网络的制度文献。 |
 > | [[Argument_NIST_2023_NSTC\|NIST (2023)]] | Argument | 阐明国家半导体技术中心（[[National Science and Technology Council\|NSTC]]）中试研发网络与纯代工巨头（TSMC）及产业界多方协同的战略机制。 |
 
 ---

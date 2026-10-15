@@ -12,7 +12,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 44
+fact_related_count: 43
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -46,7 +46,6 @@ related_concepts:
   - "[[Public Value]]"
   - "[[Gatekeepers]]"
   - "[[Research Translation]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Proof of Concept Programs]]"
   - "[[Technology Readiness Level]]"
   - "[[Multi-Project Wafer]]"
@@ -82,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-29
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # NSF I-Corps
@@ -177,7 +176,7 @@ updated: 2026-10-10
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
 > | [[Academic Entrepreneurship]] | Concept | I-Corps 是推动高校学者学术创业与创业思维重塑的核心政策载体。 |
-> | [[Research Translation]] | Concept | I-Corps 构成了从实验室学术原型向市场商业模式[[Transfer Translation Transformation\|转译]]的关键中介机制。 |
+> | [[Research Translation]] | Concept | I-Corps 构成了从实验室学术原型向市场商业模式转译的关键中介机制。 |
 > | [[Valley of Death]] | Concept | 计划的核心设立初衷即为跨越实验室与产业量产之间的死亡之谷。 |
 > | [[Proof of Concept Programs]] | Concept | 为学术团队在极早期提供技术与商业可行性双重验证的资助[[Paradigm\|范式]]。 |
 > | [[Technology Readiness Level]] | Concept | 重点支撑科研团队将技术从 TRL 3（概念验证）提升至 TRL 4–5（组件原型）。 |

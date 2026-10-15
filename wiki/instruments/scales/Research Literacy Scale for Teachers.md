@@ -7,9 +7,9 @@ aliases:
 summary: "基于计划行为理论与研究利用模型开发的20题5级李克特自陈量表，涵盖研究意识、研究态度、研究技能与研究使用四个维度，具备良好的二阶因子结构与跨性别严格测量等值性。"
 type: instrument
 instrument_type: scale
-instrument_related_count: 10
-instrument_related_level: 2
-instrument_related_stars: "⭐⭐"
+instrument_related_count: 9
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#dcfce7"
 part_of: ""
 developers:
@@ -36,14 +36,13 @@ related_methods:
   - "[[Likert Scale]]"
   - "[[Cronbach's Alpha]]"
   - "[[McDonald's Omega]]"
-  - "[[Exploratory Factor Analysis]]"
   - "[[Confirmatory Factor Analysis]]"
 related_arguments:
   - "[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO]]"
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-08-29
+updated: 2026-10-15
 ---
 
 # Research Literacy Scale for Teachers
@@ -176,4 +175,4 @@ updated: 2026-08-29
 >
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
-> | 原始版（RLS） | 土耳其语/英语，土耳其 | 中小学在职教师 | 20 | 初始 56 题池经专家评审与 [[Exploratory Factor Analysis\|EFA]]/[[Confirmatory Factor Analysis\|CFA]] 筛选确立 20 题 4 因子结构 | [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] |
+> | 原始版（RLS） | 土耳其语/英语，土耳其 | 中小学在职教师 | 20 | 初始 56 题池经专家评审与 EFA/[[Confirmatory Factor Analysis\|CFA]] 筛选确立 20 题 4 因子结构 | [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] |

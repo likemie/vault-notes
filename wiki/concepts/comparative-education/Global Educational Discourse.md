@@ -19,6 +19,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Educational Meliorism]]"
+  - "[[School Autonomy]]"
   - "[[Space of Flows]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
@@ -27,7 +28,7 @@ related_concepts:
   - "[[Recontextualization]]"
   - "[[Policy Borrowing]]"
   - "[[Cognitive Decoupling]]"
-  - "[[School Autonomy]]"
+  - "[[Habitus]]"
   - "[[Knowledge Production]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Shape-Shifting]]"
@@ -49,7 +50,6 @@ related_theories:
   - "[[Beech's Model of Discourse Circulation]]"
   - "[[Network Society]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Discourse Analysis]]"
   - "[[Correlational Research]]"
 related_instruments: []
@@ -80,7 +80,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> 全球教育[[Discourse|话语]]（Global Educational Discourse）由杰森·比奇（Jason Beech, 2009b）提出，特指以[[UNESCO|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization, UNESCO）、[[World Bank|世界银行]]（World Bank, WB）与[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD，简称经合组织）为代表的国际组织，在 20 世纪 80 年代与 90 年代起，基于紧迫[[Pragmatic Paradigm|实用主义]]（urgent pragmatism）与[[Educational Meliorism|改良主义]]行动诉求，通过对复杂专深的全球学术话语进行过度简化（oversimplification）所生产并跨国推广的一整套抽象、通用的教育改革话语体系。该话语将未来统一步调地界定为“信息时代”（information age），推销一套以分权化、学校自主、教师专业化、胜任力课程（competencies-based curriculum）与中央评估系统为核心支柱的普遍主义模型，并自诩为能够解决任何本土教育问题的灵丹妙药，实质上严重窄化并闭合了借款国与受援国的政策探索空间，并在微观学校机构遭遇显著的实践脱节。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–353)]]
+> 全球教育[[Discourse|话语]]（Global Educational Discourse）由杰森·比奇（Jason Beech, 2009b）提出，特指以[[UNESCO|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization, UNESCO）、[[World Bank|世界银行]]（World Bank, WB）与[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD，简称经合组织）为代表的国际组织，在 20 世纪 80 年代与 90 年代起，基于紧迫[[Pragmatic Paradigm|实用主义]]（urgent pragmatism）与[[Educational Meliorism|改良主义]]行动诉求，通过对复杂专深的全球学术话语进行过度简化（oversimplification）所生产并跨国推广的一整套抽象、通用的教育改革话语体系。该话语将未来统一步调地界定为“信息时代”（information age），推销一套以分权化、[[School Autonomy|学校自主]]、教师专业化、胜任力课程（competencies-based curriculum）与中央评估系统为核心支柱的普遍主义模型，并自诩为能够解决任何本土教育问题的灵丹妙药，实质上严重窄化并闭合了借款国与受援国的政策探索空间，并在微观学校机构遭遇显著的实践脱节。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–353)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向国际组织在[[Space of Flows|流动空间]]中对学术知识进行技术官僚化加工后形成的去情境化通用政策[[Paradigm|范式]]。
@@ -117,7 +117,7 @@ updated: 2026-10-15
 > - **紧迫[[Pragmatic Paradigm|实用主义]]与过度简化生成机制** 国际组织受制于必须在短期内交付“见效且相关”政策咨询报告的组织逻辑，对全球学术空间中高度复杂、充满争议的专业知识进行剧烈的去语境化删剪与模式化提炼，锻造出高度可塑的通用处方。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 350–351)]]
 > - **信息时代前景与五大支柱模型** 话语将未来单向度地描摹为信息社会，并捆绑输出五项标配改革原则：治理维度的行政分权化（Decentralisation）、机构维度的[[School Autonomy|学校自主权]]（School Autonomy）、队伍维度的教师专业化（Teacher Professionalisation）、教学维度的胜任力/能力本位课程（Competency-based Curriculum），以及质量监控维度的中央标准化评估体系（Central Evaluation Systems）。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349)]]
 > - **议程设定与话语空间闭合** 国际组织通过提供评估诊断，同时垄断了受援国教育“问题定义权”与“方案裁定权”，将合法政策讨论范围压缩在极度狭隘的既定技术选项内，排斥其他根本性思考路径。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 349)]]
-> - **基层实践脱节与反常异化后果** 抽离本土情境的抽象模型在进入学校与师训机构等微观实践场所时，必然遭遇本土认知惯习、专业储备不足与物质匮乏的强力反弹，产生如教师依赖商业教辅、实习制度行政瘫痪等未曾预料的破坏性后果。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 353–354)]]
+> - **基层实践脱节与反常异化后果** 抽离本土情境的抽象模型在进入学校与师训机构等微观实践场所时，必然遭遇本土认知[[Habitus|惯习]]、专业储备不足与物质匮乏的强力反弹，产生如教师依赖商业教辅、实习制度行政瘫痪等未曾预料的破坏性后果。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 353–354)]]
 
 > [!logic-map]- 全球教育话语的生成、推销与实践异化链条
 > ```mermaid
@@ -182,7 +182,7 @@ updated: 2026-10-15
 
 > [!dev-timeline] 概念演变
 > - **1950s–1960s — 战后技术官僚与发展主义[[Discourse|话语]]奠基** 二战后 [[UNESCO]]、[[World Bank|世界银行]]与[[OECD|经合组织]]前身 [[Organisation for European Economic Co-operation|OEEC]] 转型为发展促进机构，在拉美等地区推行以国家计划委员会和“教育计划”为代表的[[Technical Rationality|技术理性]]社会技术，确立国际机构作为“中立科学专家”的合法性地位。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 345)]]
-> - **1980s–1990s — 信息时代同质化改革[[Paradigm|范式]]成型** 伴随冷战结束与新自由主义全球化，三大国际机构跨越意识形态分歧，将未来统一[[Coding in Qualitative Research|编码]]为“信息时代”，确立了以分权化、学校自主、教师专业化、能力本位与质量测评为核心的五支柱全球教育话语体系。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 347–348)]]
+> - **1980s–1990s — 信息时代同质化改革[[Paradigm|范式]]成型** 伴随冷战结束与新自由主义全球化，三大国际机构跨越意识形态分歧，将未来统一编码为“信息时代”，确立了以分权化、[[School Autonomy|学校自主]]、教师专业化、能力本位与质量测评为核心的五支柱全球教育话语体系。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 347–348)]]
 > - **2005–2009 — 全球教育话语概念的学术化建构** 杰森·比奇（[[Jason Beech]]）基于对阿根廷与巴西教师教育改革的长达十余年实证追踪，在其博士论文及 2009 年论著中正式提出“全球教育话语”概念与五位置流通模型，揭示国际机构过度简化[[Knowledge Production|知识生产]]与窄化地方政策空间的批判性机制。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–354)]]
 > - **2010s 至今 — 全球治理网络与数字化话语拓展** 随着 [[PISA]] 跨国数据治理体系的强化以及跨国教育科技公司的兴起，全球教育话语进一步融入[[Governing by Numbers|数字治理]]、[[Lifelong Learning|终身学习]]与[[Social-Emotional Learning|社会情感能力]]等新维度，空间分析与批判[[Discourse Analysis|话语分析]]成为剖析该范式演进的主导工具。
 
@@ -214,7 +214,7 @@ updated: 2026-10-15
 > |:---|:---|:---|
 > | [[Beech's Model of Discourse Circulation]] | Theory | 全球教育[[Discourse\|话语]]在学术、国际组织、国家、本土学者与学校五位置流转的系统理论模型。 |
 > | [[Discourse]] | Concept | 全球教育话语依托的[[Epistemology\|认识论]]上位概念，体现宏观权力-知识[[Disciplina and Doctrina\|规训]]与[[Floating Signifier\|漂浮能指]]动员。 |
-> | [[Floating Signifier]] | Concept | 解释全球教育话语（如“能力发展”、“学校自主”）如何通过语义空洞化实现在多元利益主体间共识动员。 |
+> | [[Floating Signifier]] | Concept | 解释全球教育话语（如“能力发展”、“[[School Autonomy\|学校自主]]”）如何通过语义空洞化实现在多元利益主体间共识动员。 |
 > | [[Gatekeepers]] | Concept | 在后发国家跨界垄断全球教育话语解释权、依附国际贷款并排斥本土独立[[Knowledge Production\|知识生产]]的精英行动者网络。 |
 > | [[Transfer Translation Transformation]] | Concept | 追踪全球教育话语从空间转移、官方政策转译到基层学校权力压缩转化的完整生命周期框架。 |
 > | [[Pragmatic Paradigm]] | Concept | 剖析国际组织因“紧迫实用主义”将学术知识过度简化为五大支柱模型并陷入话语盲区的哲学认识论根源。 |

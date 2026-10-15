@@ -7,10 +7,10 @@ aliases:
 summary: "儒家文化家庭中以学习美德为中心的家长辅导方式，强调学习关键在于品德、自我改进和持续努力而非天赋"
 type: concept
 domain: "chinese-philosophy"
-related_count: 11
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/learning
   - theme/parenting
@@ -24,20 +24,18 @@ related_concepts:
   - "[[Parental Cognitive and Affective Socialization]]"
   - "[[Pride in Learning]]"
   - "[[Discourse]]"
-  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Discourse Analysis]]"
 related_persons:
   - "[[Socrates]]"
-related_facts:
-  - "[[Microelectronics and Computer Technology Corporation]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Confucian Tutoring Style
@@ -60,7 +58,7 @@ updated: 2026-10-07
 台湾母亲在引导儿童思考学习时，持续调用"[[Learning Virtues|学习美德]]"作为**[[Cognitive Source|认知来源]]（cognitive source）**——从学习品德的角度概念化学习，以儒家文化共识（"人不应该懒惰""功夫不负有心人"）为合法性资源([[Argument_Li_2012_Cambridge|Li, 2012]])。关于"来源"概念的两层含义及其与心理框架、因果归因的区分，详见 [[Cognitive Source]]。
 
 > [!example]
-> 一位母亲在与七岁儿子讨论他的良好课堂表现时，完全不触及智力或聪明的话题。相反，她追问"你为什么要认真（serious）上课？"、"你睡觉也可以啊——为什么要认真？"，最终引导儿子自己说出"因为我的考试成绩挺差的"——将"好学习"的讨论转化为对自身不足的认识([[Argument_Li_2012_Cambridge\|Li, 2012]])。完整对话与 Li 的分析见 [[Microelectronics and Computer Technology Corporation|MCC]] 示例 9–10。
+> 一位母亲在与七岁儿子讨论他的良好课堂表现时，完全不触及智力或聪明的话题。相反，她追问"你为什么要认真（serious）上课？"、"你睡觉也可以啊——为什么要认真？"，最终引导儿子自己说出"因为我的考试成绩挺差的"——将"好学习"的讨论转化为对自身不足的认识([[Argument_Li_2012_Cambridge\|Li, 2012]])。完整对话与 Li 的分析见 MCC 示例 9–10。
 
 ### 因果归因：学习美德的效力（virtue potency）
 
@@ -106,13 +104,13 @@ updated: 2026-10-07
 > [!example]
 > 一个典型的[[Discourse|话语]]案例：母亲与女儿 Jia 讨论写作。母亲先肯定女儿理解课文主旨的进步（"你甚至不需要我教你了"），但紧接着就转向"你还需要在作文上加把劲"和"我觉得你在其他方面也需要坚持"——她甚至在表扬之前就已经提到需要改进([[Argument_Li_2012_Cambridge\|Li, 2012]])。
 >
-> 更多儒家式辅导的对话示例与 Li 的[[Discourse Analysis\|话语分析]]操作，见 [[Microelectronics and Computer Technology Corporation|MCC]] 话语分析示例。
+> 更多儒家式辅导的对话示例与 Li 的[[Discourse Analysis\|话语分析]]操作，见 MCC 话语分析示例。
 
 ---
 ## 一个重要澄清：不是"专制型"教养
 
 > [!warning]
-> 西方[[Document\|文献]]长期以来将亚洲家长刻画为"专制型"（authoritarian）——单方面施压、要求服从、不给儿童讨论空间。但 Li 的研究数据显示了**相反的情况** 台湾母子对话中的儿童反驳（child's quibble）与欧裔美国母子对话**同样普遍([[Argument_Li_2012_Cambridge\|Li, 2012]])**。
+> 西方文献长期以来将亚洲家长刻画为"专制型"（authoritarian）——单方面施压、要求服从、不给儿童讨论空间。但 Li 的研究数据显示了**相反的情况** 台湾母子对话中的儿童反驳（child's quibble）与欧裔美国母子对话**同样普遍([[Argument_Li_2012_Cambridge\|Li, 2012]])**。
 
 > [!example]
 > 一位七岁台湾女儿在母亲刚开口批评她不认真写字时，立即反击："只有你在说话，我还没说话呢！"母亲立刻让步并邀请女儿说话。女儿此后通过实际写字展示她的能力，母亲也给予了认可([[Argument_Li_2012_Cambridge\|Li, 2012]])。

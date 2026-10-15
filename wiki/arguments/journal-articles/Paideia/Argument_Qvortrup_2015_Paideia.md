@@ -9,7 +9,7 @@ title: "Argument_Qvortrup_2015_Paideia"
 argument_key: "Argument_Qvortrup_2015_Paideia"
 argument_display_title: "Baggrund for og diskussioner af Visible Learning med særligt henblik på lærings- og vidensbegrebet"
 argument_kind: "journal-article"
-argument_related_count: 18
+argument_related_count: 16
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -28,11 +28,9 @@ related_concepts:
   - "[[SOLO Taxonomy]]"
   - "[[Variable]]"
   - "[[Surface and Deep Learning]]"
-  - "[[Document]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Geisteswissenschaften]]"
   - "[[Problem Solving]]"
-  - "[[Hypothesis]]"
   - "[[Dependent Variable]]"
   - "[[Heterogeneity]]"
 related_theories:
@@ -81,7 +79,7 @@ citation_aliases:
 > [!info] 研究方法
 > - 方法：讨论论文（discussion paper）与概念分析。
 > - 分析策略：先重建实证统计教育研究的历史背景，再分类回应 [[Visible Learning]] 批评，最后围绕"学习结果"这一因[[Variable\|变量]]提出概念重建方案(pp.23–32)。
-> - 数据来源：Hattie (2009, 2013)、Glass (1976, 2000)、Helmke (2013)、Hattie & Yates (2014)、Bereiter (2002)、Bateson (2000)、Ryle (1949) 等二手理论与方法论[[Document\|文献]]；没有独立收集新的实证数据(p.33)。
+> - 数据来源：Hattie (2009, 2013)、Glass (1976, 2000)、Helmke (2013)、Hattie & Yates (2014)、Bereiter (2002)、Bateson (2000)、Ryle (1949) 等二手理论与方法论文献；没有独立收集新的实证数据(p.33)。
 
 ## 核心论证
 
@@ -90,7 +88,7 @@ citation_aliases:
 >
 > 2. **论证步骤**
 >    - **步骤一：实证转向不是 Hattie 发明的。** 德语／受德国影响的教育研究从[[Geisteswissenschaften|精神科学]]教育学转向结果导向研究，与 [[TIMSS]]、[[PISA]] 等国际比较评价有关；英美传统中，Glass 早在 1976 年已提出[[Meta-analysis\|元分析]]，以回应教育研究结果太多却难以综合的问题(pp.23–24)。
->    - **步骤二：三类常见批评可以被回应。** Hattie 明确区分相关与因果，也把证据理解为"智能[[Problem Solving\|问题解决]]的[[Hypothesis\|假设]]"而非行动规则；方法论和情境批评的核心不是原则上不能比较，而是必须选择透明且适当的概括层次(pp.25–26)。
+>    - **步骤二：三类常见批评可以被回应。** Hattie 明确区分相关与因果，也把证据理解为"智能[[Problem Solving\|问题解决]]的假设"而非行动规则；方法论和情境批评的核心不是原则上不能比较，而是必须选择透明且适当的概括层次(pp.25–26)。
 >    - **步骤三：真正未充分讨论的问题是学习结果本身。** Hattie 使用 achievement、student achievement、learning、study outcome 等不同词汇，且学习与学习结果并非良定义概念；[[Effect Size\|效应量]]可以比较相对效果，但由此得到的是抽象学习结果，难以说明测量的是表层知识、深层理解、社会能力还是概念学习(p.27)。
 >    - **步骤四：需要从分类转向动态模型。** Hattie 借 Popper、Bereiter、Bloom 和 [[SOLO Taxonomy\|SOLO]] 来区分知识层次，但这些框架之间的对应关系不清；Qvortrup 因此提出以 Bateson 为起点的动态模型，说明教学不是只刺激某一种知识形式，而是启动一连串学习过程，使多种知识形式相互影响(pp.29–32)。
 >
@@ -117,7 +115,7 @@ citation_aliases:
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - 论文是一篇支持方讨论论文，主要依赖概念论证和[[Document\|文献]]重读，没有提供独立实证检验；因此它能说明"为何[[Meta-analysis\|元分析]]在原则上可以辩护"，但不能证明 Hattie 具体数据处理在统计上充分可靠(pp.23–32)。
+> - 论文是一篇支持方讨论论文，主要依赖概念论证和文献重读，没有提供独立实证检验；因此它能说明"为何[[Meta-analysis\|元分析]]在原则上可以辩护"，但不能证明 Hattie 具体数据处理在统计上充分可靠(pp.23–32)。
 > - Qvortrup 将意识形态、方法论和情境批评总体判断为已被"完全令人满意地"回应，可能低估了后续 Wecker et al.对[[Effect Size\|效应量]]、二级聚合和源研究[[Heterogeneity\|异质性]]提出的技术批评。
 > - 论文对 Hattie 的"学习结果"概念限制提出了温和内部修正，而不是 Rømer (2018) 那种外部哲学批判；因此它更像是改良 [[Visible Learning]] 的方案，而不是拒绝 Visible Learning 的方案。
 

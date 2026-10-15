@@ -16,7 +16,7 @@ alias_reviewed:
 summary: "衡量教育、研发、社会创新或组织协同投入与所产生综合收益之间比率的核心经济学与治理构念。在宏观层面被建构为跨国放贷与远处治理的自指性指标帝国；在中观风险慈善层面演化为以商业纪律与因果量规重塑公共教育再分配的意识形态杠杆；在微观产学合作层面则通过各方对回报定义的结构性分歧驱动复合创新。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 69
+related_count: 68
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -57,7 +57,6 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Social Imaginary]]"
   - "[[Variable]]"
-  - "[[Document]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Educational Level]]"
   - "[[Hypothesis]]"
@@ -250,7 +249,7 @@ updated: 2026-10-15
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者与[[Document\|文献]] |
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
 > | **宏观金融规制命题** | 教育投资回报率被异化为跨国结构调整贷款的前置门槛与免责借口，并被自辩为经受三十年检验 | 国际金融组织对全球南方的教育援助与财政紧缩[[Disciplina and Doctrina\|规训]] | Psacharopoulos (1981); [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024, pp. 541–542)]]; [[Argument_Beech_2009_GlobalGarden\|Beech (2009b, p. 347)]] |
 > | **中观异层再分配命题** | 社会投资回报修辞将公共供给转为准市场竞标，掩护公共财富流向中介 | 风险慈善兴起、税法特许修正案与公立教育准市场化 | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023, pp. 520–528)]]; [[Argument_Rowe_2022_IJER\|Rowe (2022)]]; [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] |

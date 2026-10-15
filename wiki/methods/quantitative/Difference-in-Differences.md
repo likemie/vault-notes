@@ -11,7 +11,7 @@ summary: "一种用于评估公共政策或教育干预因果效应的准实验�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 34
+method_related_count: 32
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -28,14 +28,12 @@ related_concepts:
   - "[[Causality]]"
   - "[[Variable]]"
   - "[[Heterogeneity]]"
-  - "[[Hypothesis]]"
   - "[[Dependent Variable]]"
   - "[[Internal Validity]]"
   - "[[Performance Indicators]]"
   - "[[School Choice]]"
   - "[[Reliability]]"
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Random Assignment]]"
@@ -64,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Difference-in-Differences
@@ -93,7 +91,7 @@ updated: 2026-09-17
 
 > [!method-position] [[Epistemology\|认识论]]与因果识别定位
 > - **知识观** 遵循[[Counterfactual\|反事实]][[Causality\|因果推断]]框架。认为虽然非实验数据中存在不可忽视的遗漏[[Variable\|变量]]偏误，但只要未观测的混杂因素在时间维度上保持恒定（Time-Invariant Unobserved [[Heterogeneity]]），便可通过组间横向差异与组内时间纵向差异的代数正交消除偏误。
-> - **核心识别假定** **平行趋势假定（Parallel Trends Assumption）**，即反事实[[Hypothesis\|假设]]：在未发生政策干预的情形下，处理组的[[Dependent Variable\|结果变量]]将沿着与对照组完全相同的轨迹演进。
+> - **核心识别假定** **平行趋势假定（Parallel Trends Assumption）**，即反事实假设：在未发生政策干预的情形下，处理组的[[Dependent Variable\|结果变量]]将沿着与对照组完全相同的轨迹演进。
 > - **有效性标准** [[Internal Validity\|内部效度]]取决于平行趋势检验（Pre-trend Testing）与政策外生性；统计推断效度需严谨校正群聚[[Standard Error\|标准误]]（Cluster-Robust Standard Errors）。
 > - **不声称回答的问题** DID 不能直接消除随时间动态变化的未观测混杂偏误（Time-Varying Confounders），亦不能在缺乏前[[Pre-test and Post-test\|后测]]数据的横截面中推断因果。
 
@@ -143,7 +141,7 @@ updated: 2026-09-17
 > - $\bar{Y}_{C,\text{post}}, \bar{Y}_{C,\text{pre}}$：对照组在政策出台后与出台前的均值产出。
 > - $\beta_{\text{DID}}$：标准双重差分因果估计量。
 >
-> **数学直觉** [[Hypothesis\|假设]]处理组的变化包含“政策真实效应 + 时间演进趋势”，而对照组的变化仅包含“时间演进趋势”。在平行趋势成立的条件下，两者相减即完全抵消了共有时间趋势，提纯出纯粹由政策带来的增量。
+> **数学直觉** 假设处理组的变化包含“政策真实效应 + 时间演进趋势”，而对照组的变化仅包含“时间演进趋势”。在平行趋势成立的条件下，两者相减即完全抵消了共有时间趋势，提纯出纯粹由政策带来的增量。
 >
 > **结果怎么读** $\beta_{\text{DID}} > 0$ 表明政策使处理组取得了超越常规自然趋势的净正向产出；若接近 0 则表明两组的变化步调与未受干预的基线完全一致。
 >
@@ -212,11 +210,11 @@ updated: 2026-09-17
 > > [!axis] [[Random Assignment\|随机分配]]纯粹性 vs 准实验田野真实性
 > > [[Educational Evidence Clearinghouses\|证据清算中心]]与循证资助者对 DID 证据等级的定位争辩。
 > >
-> > - **实验至上派观点** 严格认为准实验始终建立在不可验证的平行趋势[[Hypothesis\|假设]]之上，任何微小的时变遗漏[[Variable\|变量]]都会摧毁[[Causality\|因果性]]，因此在挂锁评级中通常只赋予中等信用（3 把锁上限）。
+> > - **实验至上派观点** 严格认为准实验始终建立在不可验证的平行趋势假设之上，任何微小的时变遗漏[[Variable\|变量]]都会摧毁[[Causality\|因果性]]，因此在挂锁评级中通常只赋予中等信用（3 把锁上限）。
 > > - **田野决策派抗辩** 现实世界中绝大多数重大战略决策（如学区兼并、校长负责制、学费减免）根本不可能进行人为随机试验。[[Education Endowment Foundation\|EEF]] 创立“[[Researching School Choices\|研究学校选择]]”资助流，正是承认 DID 等准实验是连接循证科学与真实宏观教育决策的生命线（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）。
 >
 > > [!axis] 传统面板 TWFE vs [[Heterogeneity\|异质性]]稳健估计革命
-> > 近年来计量经济学界对过去几十年发表的交错 DID [[Document\|文献]]的系统反思。
+> > 近年来计量经济学界对过去几十年发表的交错 DID 文献的系统反思。
 > >
 > > - **传统回归习惯** 研究者习惯简单运行含双向固定效应的 [[Ordinary Least Squares\|OLS]] 交互项回归。
 > > - **新计量[[Paradigm\|范式]]确立** 学界已达成共识：在交错落地政策中必须弃用传统 TWFE，全面转向异质性稳健估计量以根除负权重风险。

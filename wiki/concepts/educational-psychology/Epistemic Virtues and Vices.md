@@ -13,7 +13,7 @@ aliases:
 summary: "指认识主体在求知过程中促进或阻碍达到认识论目标的性格倾向与品格特质。在德性责任论视角下由追求认知善品的求真动机与成功导向的智力技能双重构件所组成。"
 type: concept
 domain: "educational-psychology"
-related_count: 33
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Open-Mindedness]]"
   - "[[Humility]]"
   - "[[Creativity]]"
-  - "[[Teaching Assistant]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Epistemology]]"
   - "[[Value Neutrality]]"
@@ -66,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Epistemic Virtues and Vices
@@ -80,7 +79,7 @@ updated: 2026-10-07
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向认识主体的求真动机与高阶认知胜任力在具体探究活动中的稳固品格表征。
-> - **用途** 帮[[Teaching Assistant|助教]]育学与教育心理学研究者突破单纯“信息加工技巧传授”的狭隘技能主义，解释为何掌握[[Higher-Order Thinking Skills|高阶思维]]技巧的学生在现实情境中仍可能表现出偏见、盲从或教条主义，为品格教育与数智时代的育人目标重塑提供规范基石。
+> - **用途** 帮助教育学与教育心理学研究者突破单纯“信息加工技巧传授”的狭隘技能主义，解释为何掌握[[Higher-Order Thinking Skills|高阶思维]]技巧的学生在现实情境中仍可能表现出偏见、盲从或教条主义，为品格教育与数智时代的育人目标重塑提供规范基石。
 > - **边界** 核心在于指向获取真理与深层理解等[[Epistemology|认识论]]善品。纯粹为了消遣或游戏而进行的脑力活动（如缺乏求真动机的解谜游戏），属于非认识论的认知需求；单纯掌握雄辩或应试技巧而无求真意图者亦不构成理智美德。
 
 > [!citation-card] 德性责任论双重构件视角

@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch06"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch06"
 argument_display_title: "Chapter six: Academic scientific community"
 argument_kind: "book-chapter"
-argument_related_count: 42
+argument_related_count: 40
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -42,12 +42,10 @@ related_concepts:
   - "[[Upstream Public Engagement]]"
   - "[[Citizen Science]]"
   - "[[Research Problem]]"
-  - "[[Hypothesis]]"
   - "[[Epistemic Resources]]"
   - "[[Patient and Public Involvement]]"
   - "[[Clinical Trial]]"
   - "[[Informed Consent]]"
-  - "[[Document]]"
   - "[[Soft Power]]"
   - "[[Conatus]]"
   - "[[STEM Education]]"
@@ -150,7 +148,7 @@ updated: 2026-10-04
 
 > [!tension] 下游补丁式科普与上游全流程平权共创的认识论张力（p. 92）
 > - **下游补丁式传播（传统赤字范式）** 将公众参与置于科研成果发表或技术定型之后的末端环节，形式以单向发布、公关宣传与通俗解读为主；公众处于被动接受与被说教地位，无法对科研设计与价值取向产生实质影响。
-> - **上游全流程共创（现代参与范式）** 在[[Research Problem\|研究议题]]设定、立项[[Hypothesis\|假设]]论证及方案设计的最前端即深度吸纳社会关切，将患者与公众的真实生活经验（Lived Experience）确立为关键[[Epistemic Resources\|认识论资源]]，实现平权共研。
+> - **上游全流程共创（现代参与范式）** 在[[Research Problem\|研究议题]]设定、立项假设论证及方案设计的最前端即深度吸纳社会关切，将患者与公众的真实生活经验（Lived Experience）确立为关键[[Epistemic Resources\|认识论资源]]，实现平权共研。
 
 > [!case] 案例研究二：造梦机器与[[The Perception Census\|感知普查]]：认知科学的上游深度共创（pp. 43, 92）
 > 脑科学与认知科学研究通过深度整合艺术体验与大规模公众共创，开创了上游参与的典范范式：
@@ -166,7 +164,7 @@ updated: 2026-10-04
 
 #### 主题三：科研理事会提炼的学者个体五大参与收益（RCUK 框架，pp. 92–93）
 
-英国研究理事会（Research Councils UK, RCUK）在其纲领性[[Document|文献]]《对我有什么好处？科研人员开展公众参与的收益》（*What's In It For Me? The Benefits of Public Engagement for Researchers*）中，系统梳理了学术界一线研究人员从公众参与中获取的核心多维回报（p. 92）：
+英国研究理事会（Research Councils UK, RCUK）在其纲领性文献《对我有什么好处？科研人员开展公众参与的收益》（*What's In It For Me? The Benefits of Public Engagement for Researchers*）中，系统梳理了学术界一线研究人员从公众参与中获取的核心多维回报（p. 92）：
 
 > [!dimension] 科研人员公众参与五维收益体系（RCUK, pp. 92–93）
 > - **学术科研质量提升（Academic）**
@@ -445,7 +443,7 @@ REF 作为决定英国各大学每年数十亿英镑质量相关（Quality-Relat
 > [!pathways] 建议二十：学术科研共同体内部价值倡导与上游前置嵌入（Recommendation 20, p. 105）
 > 一线科研人员与学术社群应当成为重塑学术文化的活跃推动者：
 > - **在所在依托高校内部及全社会层面广泛开展价值倡导** 一线科研人员应主动担当，向大学管理层、资助评审专家及社会各界大声呼吁公众参与对于守护科研[[Social License to Operate\|社会运营许可]]与学术公信力的不可替代价值。
-> - **在科研全生命周期中全面推行上游前置嵌入** 依托双向平权交流范式，将公众科学参与彻底推向前沿科研全流程的最前端，在选题构思、[[Hypothesis\|假设]]论证与方案制定中前置引入公众视角与社会关切。（p. 105）
+> - **在科研全生命周期中全面推行上游前置嵌入** 依托双向平权交流范式，将公众科学参与彻底推向前沿科研全流程的最前端，在选题构思、假设论证与方案制定中前置引入公众视角与社会关切。（p. 105）
 
 > [!ref-table] 表6-8：英国学术界科学共同体四大核心建议（Recommendations 17–20）落地实施机制与责任矩阵表（pp. 103–105）
 > | 建议维度与编号 | 核心政策诉求与改革靶标 | 主要牵头负责主体 | 配套实施抓手与约束工具 | 预期达成的治理成效 |

@@ -10,7 +10,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 39
+fact_related_count: 36
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -24,12 +24,10 @@ tags:
   - theme/school-networks
   - theme/professional-development
 related_concepts:
-  - "[[Transfer Translation Transformation]]"
   - "[[International Education]]"
   - "[[Knowledge Mediation]]"
   - "[[Communities of Practice]]"
   - "[[Abstract]]"
-  - "[[Teaching Assistant]]"
   - "[[Metacognition]]"
   - "[[Self-Efficacy]]"
   - "[[Paradigm]]"
@@ -40,7 +38,6 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Academic Achievement]]"
   - "[[Emergence]]"
-  - "[[Document]]"
   - "[[School Leadership]]"
   - "[[Evaluator Independence]]"
   - "[[Educational Brokerage Agency]]"
@@ -71,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Research Schools Network
@@ -81,7 +78,7 @@ updated: 2026-10-09
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 英国研究学校网络（Research Schools Network, RSN）是由英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）与约克大学[[Institute for Effective Education\|有效教育研究所]]（IEE）于 2016 年联合发起创设的全国性分布式校际中介组织网络。该网络通过在英格兰各区域竞争性遴选一批在循证实践方面成效显著的优秀中小学确立为“研究学校”，由其作为区域证据枢纽，向周边学校网络辐射基于实证证据的教师专业发展培训、工具包本地化[[Transfer Translation Transformation\|转译]]与变革教练辅导，是[[International Education\|国际教育]][[Knowledge Mediation\|知识中介]]从“中央智库向分布式校际[[Communities of Practice|实践共同体]]规模化下沉”的代表性制度创新。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 62)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 149–150)]]
+> 英国研究学校网络（Research Schools Network, RSN）是由英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）与约克大学[[Institute for Effective Education\|有效教育研究所]]（IEE）于 2016 年联合发起创设的全国性分布式校际中介组织网络。该网络通过在英格兰各区域竞争性遴选一批在循证实践方面成效显著的优秀中小学确立为“研究学校”，由其作为区域证据枢纽，向周边学校网络辐射基于实证证据的教师专业发展培训、工具包本地化转译与变革教练辅导，是[[International Education\|国际教育]][[Knowledge Mediation\|知识中介]]从“中央智库向分布式校际[[Communities of Practice|实践共同体]]规模化下沉”的代表性制度创新。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 62)]]; [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 149–150)]]
 
 > [!org-context] 机构背景与设立渊源
 > - **设立年份与发起方** 2016 年由 EEF 与 IEE 联合启动试点，首批确立 5 所领头学校；后在英国教育部（DfE）专项“机会区”（Opportunity Areas）资金支持下迅速扩展至全英近 40 所学校网络。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 62)]]
@@ -96,7 +93,7 @@ updated: 2026-10-09
 > [!dev-timeline]- 组织发展历程
 > - **2016 — 试点启动与标准奠基** [[Education Endowment Foundation\|EEF]] 联合 [[Institute for Effective Education\|IEE]] 启动试点项目，在全英格兰遴选首批 5 所具有深厚教学反思底蕴的公立学校挂牌为“研究学校”，制定统一的学校认证标准与同伴辅导操作规程。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 62)]]
 > - **2017–2019 — 规模化扩张与机会区覆盖** 英国教育部将 RSN 纳入解决区域教育不平等的“机会区”（Opportunity Areas）国家战略，投入数百万英镑专项经费，将网络规模大幅扩展至英格兰黑石、布拉德福德等教育薄弱地区的近 40 所中小学，形成覆盖全英各区域的知识辐射网。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 118)]]
-> - **2020 年代至今 — 实施科学指南研发与业务深化** 研发标准化的《学校证据实施指南》（Putting Evidence to Work: A School's Guide to Implementation），确立“探索—准备—交付—维持”四阶段实施框架；围绕[[Teaching Assistant\|助教]]循证配置、早期阅读及数学教学法等专项模块开展区域跨校轮训，成为全球教育体系中规模最大、制度化程度最高的校际证据中介实体网络之一。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 149–151)]]
+> - **2020 年代至今 — 实施科学指南研发与业务深化** 研发标准化的《学校证据实施指南》（Putting Evidence to Work: A School's Guide to Implementation），确立“探索—准备—交付—维持”四阶段实施框架；围绕助教循证配置、早期阅读及数学教学法等专项模块开展区域跨校轮训，成为全球教育体系中规模最大、制度化程度最高的校际证据中介实体网络之一。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 149–151)]]
 
 ---
 
@@ -126,7 +123,7 @@ updated: 2026-10-09
 > [!finding-cards] 核心业务矩阵与实施工具
 > - **全英校际教研与教练辐射** 每年面向英格兰数千所中小学校长与教研骨干提供跨校研修、入校辅导与同行评议服务。
 > - **《学校证据实施指南》及工具箱** 编制出版《Putting Evidence to Work: A School's Guide to Implementation》，配套提供学校自诊[[Questionnaire\|问卷]]、行动计划模板与成效监测工具。
-> - **区域重点干预推广战役（Regional Campaigns）** 深度参与 [[Education Endowment Foundation\|EEF]] 组织的区域规模化推广行动，例如在南约克郡与西约克郡深入数百所学校推进“[[Teaching Assistant\|助教]]（TAs）循证配置指南”，重塑学校排课机制与师徒协同规程。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 150, 157)]]
+> - **区域重点干预推广战役（Regional Campaigns）** 深度参与 [[Education Endowment Foundation\|EEF]] 组织的区域规模化推广行动，例如在南约克郡与西约克郡深入数百所学校推进“助教（TAs）循证配置指南”，重塑学校排课机制与师徒协同规程。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 150, 157)]]
 
 > [!citation-card] 核心使命与中介功能
 > “人们越来越努力提升干预的层级并在学校网络之间建立协同，例如 2016 年启动的英国教育捐赠基金会（EEF）研究学校网络。”[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 62)]]
@@ -145,7 +142,7 @@ updated: 2026-10-09
 > [!finding-cards] 关键成效与辐射影响
 > - **突破单向供给的“同伴中介”[[Paradigm\|范式]]** [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] 指出，教育中介若仅停留在象牙塔极易异化；RSN 证实最有效的中介往往由一线教育同行充当，共享的职业文化与微观现实感极大地化解了教师面对外部研究时的抵触情绪与[[Evidence Backlash\|证据反弹]]。
 > - **平衡标准化证据与情境化[[Professional Judgment\|专业判断]]** RSN 不搞一刀切的机械套用，而是指导教师理解证据背后的核心机制（Active Ingredients），在校本情境中开展适应性微调，护持了教师的[[Professional Judgment\|专业判断力]]与[[Phronesis\|实践智慧]]。
-> - **[[Teaching Assistant\|助教]]配置区域推广达成终极学业显著增益** 深度参与南西约克郡助教指南推广战役，经英国财政研究所（IFS）[[Difference-in-Differences\|双重差分]]评估证实，参与学校 11 岁学童在全国统考（KS2）阅读与数学测试中获得数个月的显著学业进展。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, p. 157)]]
+> - **助教配置区域推广达成终极学业显著增益** 深度参与南西约克郡助教指南推广战役，经英国财政研究所（IFS）[[Difference-in-Differences\|双重差分]]评估证实，参与学校 11 岁学童在全国统考（KS2）阅读与数学测试中获得数个月的显著学业进展。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, p. 157)]]
 
 > [!stat-cards]- 核心规模数据
 > 覆盖英格兰近 40 所研究学校、设立数十个区域研究学习网络、培训认证数百名教育证据带头人（ELEs）、间接辐射英格兰数千所公立中小学校。
@@ -174,7 +171,7 @@ updated: 2026-10-09
 > 1. **机会区三年独立评估：文化转变与学业产出的短期脱节（Null Effect）** 伦敦大学学院（UCL）顾青团队（Gu et al., 2020, 2021）针对英国教育部“机会区”设立的 RSN 开展了为期三年的独立综合评估。结果表明：RSN 成功重塑了薄弱区域参与学校的专业文化，教师对实证研究的知晓度与反思自觉性显著提高；然而，对学生全国普通中等教育证书（GCSE）统考成绩的量化追踪证实，在项目实施的前三年内，未检测到学生[[Academic Achievement\|学业表现]]出现统计学意义上的显著提升。
 > 2. **证据中介的非线性与漫长时间滞后** [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a, p. 118)]] 强调，教育证据转化绝非机械的短周期线性工程，必须经历“网络构建 $\rightarrow$ 领导文化转变 $\rightarrow$ 教学行为微调 $\rightarrow$ 课堂生态改善 $\rightarrow$ 学生认知[[Emergence\|涌现]]”的多层复杂中介耗散过程。三年追踪仅能捕获前段的文化奠基，政策决策者必须警惕短期功利主义问责对深度教改的扼杀。
 
-> [!citation-card] 代表性反思[[Document\|文献]]
+> [!citation-card] 代表性反思文献
 > “在教育领域，对英国资助的研究学校网络（RSN）项目开展的一项独立评估显示，该项目在其前三年的实施中改变了教师和[[School Leadership\|学校领导]]者的实践，但在学生学业结果方面尚未展现出任何影响迹象（Gu et al., 2021）。”[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 118)]]
 >
 > *In education, an [[Evaluator Independence\|independent evaluation]] of the British-funded Research School Network project achieved a change in the practices of teachers and school leaders in its first three years of implementation but has not shown any sign of impact in terms of student outcomes (Gu et al., 2021).*

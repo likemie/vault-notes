@@ -8,7 +8,7 @@ aliases:
 summary: "研究伦理中通过移除个人标识符使参与者身份无法被追踪的保护技术，包括化名、编码和聚合等多种手段，是保护参与者隐私的基本方式之一"
 type: concept
 domain: "research-methodology"
-related_count: 8
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,7 +20,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Questionnaire]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Survey Research]]"
   - "[[Experimental Research]]"
   - "[[Visual Research Methods]]"
@@ -32,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-18
-updated: 2026-08-11
+updated: 2026-10-15
 ---
 
 # Anonymity in Research
@@ -54,7 +53,7 @@ updated: 2026-08-11
 > [!feature] 匿名化的主要技术
 > Frankfort-Nachmias & Nachmias (1992) 列出的匿名化方法（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05\|Cohen et al., 2011, pp. 100–101]]）：
 
-1. **不使用姓名或其他个人标识** 最基本的方法——[[Questionnaire|问卷]]不包含姓名、地址、职业细节或[[Coding in Qualitative Research|编码]]符号
+1. **不使用姓名或其他个人标识** 最基本的方法——[[Questionnaire|问卷]]不包含姓名、地址、职业细节或编码符号
 2. **使用化名（aliases / pseudonyms）** 为参与者分配虚构姓名代替真实姓名
 3. **使用编码标识个人** 将个人信息与接触信息分离，只有研究者持有编码密钥
 4. **使用密码保护文件** 通过技术手段限制对可识别数据的访问

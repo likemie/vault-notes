@@ -11,7 +11,7 @@ subtype: organization
 region: "us"
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 21
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -41,7 +41,6 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
-  - "[[Alfred Nobel]]"
   - "[[Dwight D. Eisenhower]]"
 related_facts:
   - "[[Manhattan Project]]"
@@ -56,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-07
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # National Aeronautics and Space Administration
@@ -69,7 +68,7 @@ updated: 2026-10-08
 > 美国国家航空航天局（National Aeronautics and Space Administration, NASA）是美国联邦政府负责民用航天规划、尖端航空工程研究以及空间与地球科学探索的独立行政机构。作为冷战时期美国[[Technological Republic|技术共和国]][[Big Science|大科学工程]]与国家战略动员的旗舰中枢，NASA 体现了国家最高政治领导层与顶尖科学家群体之间的高度战略互信，开创了超大规模跨学科前沿技术集成的国家研发[[Paradigm|范式]]。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 17)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 7–8)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 成立于 1958 年。1957 年 10 月苏联发射首颗人造地球卫星（斯普特尼克危机）后，[[Alfred Nobel|诺贝尔]]奖得主汉斯·贝特与伊西多·拉比面见[[Dwight D. Eisenhower|德怀特·艾森豪威尔]]总统并提出赋予科学家实质战略决策权；艾森豪威尔迅速设立总统科学顾问机制，并于次年依据《1958 年国家航空航天法案》整合原国家航空咨询委员会（NACA）正式组建 NASA。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 7–8)]]
+> - **成立时间 / 创设背景** 成立于 1958 年。1957 年 10 月苏联发射首颗人造地球卫星（斯普特尼克危机）后，诺贝尔奖得主汉斯·贝特与伊西多·拉比面见[[Dwight D. Eisenhower|德怀特·艾森豪威尔]]总统并提出赋予科学家实质战略决策权；艾森豪威尔迅速设立总统科学顾问机制，并于次年依据《1958 年国家航空航天法案》整合原国家航空咨询委员会（NACA）正式组建 NASA。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 7–8)]]
 > - **总部地点 / 业务辐射** 总部位于华盛顿特区，在全美建有林登·约翰逊航天中心、肯尼迪航天中心、喷气推进实验室（JPL）、艾姆斯研究中心、戈达德太空飞行中心等十个大型研发与深空测控中枢。
 > - **法人属性与经费基础** 联邦独立行政机构，经费由美国[[Congressional Earmarks|国会专项拨款]]全额支持，年度预算规模超 250 亿美元。
 > - **核心宗旨与法定职责** 拓展人类在空间与航空领域的知识疆界，引领民用太空探索，促进空间科学、对地观测与航空工程技术的根本突破与军民协同转化。

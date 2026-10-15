@@ -9,7 +9,7 @@ aliases:
 summary: "在特定区域或城市创新生态中，凭借其空间不可移动性、高密度智力资本与长效社会网络，发挥引力中枢、产业集聚载体与抗风险稳定支柱作用的高等教育或大型科研医疗实体。"
 type: concept
 domain: "higher-education"
-related_count: 21
+related_count: 20
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Third Mission]]"
   - "[[University-Industry Collaboration]]"
   - "[[Workforce Development]]"
-  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Correlational Research]]"
@@ -49,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Anchor Institution
@@ -220,4 +219,4 @@ updated: 2026-10-09
 > | [[Workforce Development]] | Concept | 锚定机构为区域高技术产业集群提供的多层次、模块化技能人才供给管道。 |
 > | [[Taiwan Semiconductor Manufacturing Corporation]] | Fact (Organization) | 受到 ASU 锚定机构引力效应吸引而在凤凰城设立大型先进制程晶圆厂的全球领航企业。 |
 > | [[Regional Technology and Innovation Hubs]] | Fact (Program) | 联邦《[[CHIPS and Science Act\|芯片法案]]》下依托大学锚定机构在全美布局的多极分布式区域创新集群工程。 |
-> | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | Argument | 系统阐述 ASU 作为锚定机构重塑凤凰城半导体创新生态机制的实证[[Document\|文献]]。 |
+> | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | Argument | 系统阐述 ASU 作为锚定机构重塑凤凰城半导体创新生态机制的实证文献。 |

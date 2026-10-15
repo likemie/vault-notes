@@ -9,7 +9,7 @@ title: "Argument_Nordahl_2015_Paideia"
 argument_key: "Argument_Nordahl_2015_Paideia"
 argument_display_title: "Visible Learning som grunnlag for evidens og forbedringsarbeid i utdanningssystemet"
 argument_kind: "journal-article"
-argument_related_count: 19
+argument_related_count: 16
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -27,14 +27,11 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Knowledge Mobilisation]]"
   - "[[New Public Management]]"
-  - "[[Document]]"
   - "[[Primary and Secondary Documents]]"
-  - "[[Hypothesis]]"
   - "[[Problem Solving]]"
   - "[[Homework]]"
   - "[[Empiricism]]"
   - "[[Learning Gap]]"
-  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods:
   - "[[Classroom Observation]]"
@@ -75,7 +72,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info]
-> - 方法：理论评论 + 政策论证 + [[Document\|文献]]综合。
+> - 方法：理论评论 + 政策论证 + 文献综合。
 > - 资料来源：Hattie 的 [[Visible Learning]] 系列、关于教师[[Professional Judgment\|专业判断]]与学习共同体的研究，以及对证据争论和学校改进路径的[[Primary and Secondary Documents\|二手文献]]讨论(pp.61–69)。
 > - 类型：不是实证研究，也不是方法报告，而是一篇面向学校改进实践的立场性综述，重点是把多个争论串起来，说明为什么“聚焦学习并使用研究证据”会被推到教育系统改革的主线上。
 
@@ -96,7 +93,7 @@ citation_aliases:
 >
 > 这一层推出的中间结论是：**学校改进不是“想不想改”的问题，而是“必须找到更有效改法”的问题。**
 >
-> ### 第二层：既然必须改，就不能再[[Hypothesis\|假设]]“所有教学都差不多”
+> ### 第二层：既然必须改，就不能再假设“所有教学都差不多”
 >
 > 这一步把论证从“为什么要改”推进到“改的依据是什么”。
 >
@@ -191,7 +188,7 @@ citation_aliases:
 > [!warning]
 > - 这是一篇立场鲜明的评论文章，不是独立实证研究。它善于搭建论证链，但并不自己提供新的课堂数据来证明这些主张(pp.61–69)。
 > - 对 [[Visible Learning]] 的采用总体偏支持立场，虽然提到批评者如 [[Gert Biesta]]，但主要重心放在回应和反驳，而不是平衡展示双方证据强弱(pp.64–68)。
-> - 斯堪的纳维亚语境中的“差异性”批评被处理得比较强势，不同国家之间的共性被放大来支持经验转移；这种说法有助于推进改革，但可能低估地方历史、制度与文化条件对证据[[Transfer Translation Transformation\|转译]]的影响(pp.65–66)。
+> - 斯堪的纳维亚语境中的“差异性”批评被处理得比较强势，不同国家之间的共性被放大来支持经验转移；这种说法有助于推进改革，但可能低估地方历史、制度与文化条件对证据转译的影响(pp.65–66)。
 > - 价值导向与研究证据被放成一种先后关系，即先有共同价值，再追问什么有效。这种安排很清楚，但仍可能被批评为把复杂教育目的压缩成“更好实现既定目标”的技术问题(pp.67–68)。
 
 ## 来源

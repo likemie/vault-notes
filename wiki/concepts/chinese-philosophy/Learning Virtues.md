@@ -7,7 +7,7 @@ aliases:
 summary: "儒家学习传统中的核心学习品质，由认真、勤奋、刻苦、恒心、专心、尊师和谦虚等美德构成学习者的个人能动性"
 type: concept
 domain: "chinese-philosophy"
-related_count: 25
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,10 +23,8 @@ related_concepts:
   - "[[Ideal Learner]]"
   - "[[Refined Mastery]]"
   - "[[Take the World Upon Oneself]]"
-  - "[[Familiarization]]"
   - "[[Western Learner]]"
   - "[[Chinese Learner]]"
-  - "[[Benevolence]]"
   - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Humility]]"
@@ -34,8 +32,8 @@ related_concepts:
   - "[[Concept Mapping]]"
   - "[[Cognitive Source]]"
   - "[[Necessary and Sufficient Conditions]]"
+  - "[[Benevolence]]"
   - "[[Rote Learning]]"
-  - "[[Hypothesis]]"
 related_theories:
   - "[[Phenomenology]]"
 related_methods:
@@ -44,14 +42,13 @@ related_methods:
 related_persons:
   - "[[Cheng Brothers]]"
   - "[[Confucius]]"
-related_facts:
-  - "[[Microelectronics and Computer Technology Corporation]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Learning Virtues
@@ -87,7 +84,7 @@ updated: 2026-10-07
 > [!success] 实证发现
 > 在实证研究中，勤奋（qinfen）指做出明确决心之后的**频繁学习行为**——因此意味着大量时间投入。一个独特的实证细节：学习者常在做出决心后与家人、密友或教师**分享学习目标**，这些"见证人"（witnesses）负责监督决心与后续行动的一致性([[Argument_Li_2012_Cambridge\|Li, 2012, pp.91-92]])。这显示了勤奋不仅是个体内在品质，还是**社会嵌入的行为**——与 [[Take the World Upon Oneself\|以天下为己任]] 中"学习者的社会角色"一脉相承。
 
-> [!tip]- 勤奋的三阶段过程：[[Familiarization\|熟]] → 练 → 精
+> [!tip]- 勤奋的三阶段过程：熟 → 练 → 精
 > Li 在分析学习过程时，将勤奋／自勉拆解为三个连续的阶段，描述了从初次接触到最终精通的完整路径([[Argument_Li_2012_Cambridge\|Li, 2012, pp.126-134]])：
 >
 > | 阶段 | 中文 | 核心任务 | 目标 |
@@ -123,7 +120,7 @@ updated: 2026-10-07
 > 从始至终的持久力量。两个关键信念：学习是漫长而渐进的过程，"没有突然的顿悟或捷径可以替代这一累积过程"；道路上充满障碍和分心之事，要求人紧紧把握承诺([[Argument_Li_2012_Cambridge\|Li, 2012, p.50]])。
 >
 > > [!example] 冉有问孔子
-> > 冉有说并非不喜欢 [[Benevolence\|仁]] 道，而是"力不足也"。[[Confucius\|孔子]] 答："力不足者，中道而废。今女画"——真正力量不够的人会在中途倒下，而你是在出发前就给自己画了界限。恒心不是能力问题，而是**意志问题**。
+> > 冉有说并非不喜欢 仁 道，而是"力不足也"。[[Confucius\|孔子]] 答："力不足者，中道而废。今女画"——真正力量不够的人会在中途倒下，而你是在出发前就给自己画了界限。恒心不是能力问题，而是**意志问题**。
 
 > [!success] 实证发现
 > 恒心被珍视，是因为相信**学习没有捷径**——知识不会一夜之间获得，而是通过一点一滴、累积的长期过程，途中充满障碍和分心。恒心被认为能有效帮助学习者从头到尾坚持任务([[Argument_Li_2012_Cambridge\|Li, 2012, p.93]])。
@@ -182,7 +179,7 @@ updated: 2026-10-07
 ### 家庭社会化：儒家式辅导中的美德传递
 
 > [!success]
-> Li and Heidi Fung 的母子对话研究（第 7 章）直接观察到了学习美德如何通过日常的母子对话（[[Microelectronics and Computer Technology Corporation|MCC]]）从一代传递到下一代([[Argument_Li_2012_Cambridge\|Li, 2012]])。
+> Li and Heidi Fung 的母子对话研究（第 7 章）直接观察到了学习美德如何通过日常的母子对话（MCC）从一代传递到下一代([[Argument_Li_2012_Cambridge\|Li, 2012]])。
 
 **序列分析证据** 在对 !CD 组台湾母子对话的序列分析中，学习美德（mV / cV）是台湾母子对话的**引力中心**——无论对话以什么话题开头（心智活动、积极情感或消极情感），台湾母子都会在第二轮或第三轮**转回学习美德([[Argument_Li_2012_Cambridge|Li, 2012]])**。具体而言：
 
@@ -248,7 +245,7 @@ updated: 2026-10-07
 
 **2. 基础阶段混淆：将基础学习阶段的共性当作文化缺陷。** [[Western Learner|西方学习者]]同样大量进行这类重复练习——钢琴初学者、芭蕾学生、医学院基础课学生都在做大量的"盲目"和"无意义"的重复。Li 引用了 Rachmaninoff 早期钢琴训练的真实记录：每天早晨 6 点起床练习数小时，弹错一个音老师会怒吼。然而在西方天才叙事中，"天才的勤奋付出通常被从赞誉[[Discourse|话语]]中删除了——但在东亚却没有"。Li 的要点是：在学习的**基础阶段**，大量重复和记忆在任何文化中都是必要的——这不是中国独有的"缺陷"([[Argument_Li_2012_Cambridge|Li, 2012, pp.137-138]])。
 
-**3. 静态观察谬误：[[Hypothesis|假设]]观察到的行为不随时间变化。** 观察者看到一个[[Chinese Learner|中国学习者]]在熟悉阶段（[[Familiarization|熟]]）的重复背诵，就推断这个学习者永远是一个"背诵机器人"。但几天后，同一个学习者可能已经能解释一首诗的含义；几周后，可能能比较不同诗体的差异；一学期后，可能能自己创作诗歌——"这些后期的学习与第一阶段的熟悉和练习完全不同"。然而观察者将一次观察的片段误认为是学习者整个学习生涯的全部([[Argument_Li_2012_Cambridge|Li, 2012, p.138]])。
+**3. 静态观察谬误：假设观察到的行为不随时间变化。** 观察者看到一个[[Chinese Learner|中国学习者]]在熟悉阶段（熟）的重复背诵，就推断这个学习者永远是一个"背诵机器人"。但几天后，同一个学习者可能已经能解释一首诗的含义；几周后，可能能比较不同诗体的差异；一学期后，可能能自己创作诗歌——"这些后期的学习与第一阶段的熟悉和练习完全不同"。然而观察者将一次观察的片段误认为是学习者整个学习生涯的全部([[Argument_Li_2012_Cambridge|Li, 2012, p.138]])。
 
 **4. 即时理解谬误：假设理解必须是即时的、口头表达的。** 在西方课堂中，理解通常要求学生当场口头或书面表达。但 Li 论证："理解可以有多个阶段和面向——有些可能需要数轮的思考、反思、实践、应用、再思考、修正原有理解"，这正是"温故知新"的本质。"我敢说，在一个五十分钟的课堂内可观察到的理解，是一种低级理解，很可能不值得追求——因为它不需要深度思考和长期投入。"庖丁展示的那种精，不可能在短时间内被观察和评估([[Argument_Li_2012_Cambridge|Li, 2012, pp.138-139]])。
 

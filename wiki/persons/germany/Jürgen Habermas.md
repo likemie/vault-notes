@@ -9,7 +9,7 @@ summary: "德国当代哲学家与社会理论家，法兰克福学派第二代�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 48
+person_related_count: 46
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -50,7 +50,6 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Incommensurability]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[Critical Theory]]"
   - "[[Legitimation Crisis]]"
@@ -66,7 +65,6 @@ related_persons:
   - "[[Immanuel Kant]]"
   - "[[Thomas Schelling]]"
   - "[[Max Planck]]"
-  - "[[Marc-Antoine Jullien]]"
   - "[[Victor Cousin]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
@@ -176,7 +174,7 @@ updated: 2026-10-15
 
 > [!influence-path] 影响路径
 > - **现代性工程与公共教育的制度起源（比较教育史学路径）**
->   卡洛扬纳基与卡扎米亚斯（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009]]）在分析 19 世纪比较教育发轫（[[Marc-Antoine Jullien|朱利安]]、[[Victor Cousin|库森]]、曼、斯托、巴纳德）时，运用哈贝马斯的“现代性工程”作为总括性历史哲学框架：国民公共教育体系的建立，是启蒙现代性重构“理性公共领域”与形塑自主爱国公民的必要制度条件。
+>   卡洛扬纳基与卡扎米亚斯（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009]]）在分析 19 世纪比较教育发轫（朱利安、[[Victor Cousin|库森]]、曼、斯托、巴纳德）时，运用哈贝马斯的“现代性工程”作为总括性历史哲学框架：国民公共教育体系的建立，是启蒙现代性重构“理性公共领域”与形塑自主爱国公民的必要制度条件。
 > - **国家能力、公共技术供给与政治[[Legitimation Crisis|合法化危机]]（政治经济学与技术政策路径）**
 >   [[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska, 2025]]）在构建[[Technological Republic|技术共和国]]理论时，运用哈贝马斯的“合法化危机”分析现代民主政体的治理公信力：民主国家的合法性并非仅凭抽象选举程序维系，而是根本上取决于能否为公民提供安全、医疗与经济繁荣；当关键公共部门因体制排斥沦为[[Innovation Desert|创新荒漠]]、前沿技术红利无法转化为公共治理效能时，政权将面临深层的合法化危机。
 > - **合法化危机与现代教育评价的技术主义批判（政策社会学路径）**
@@ -230,7 +228,7 @@ updated: 2026-10-15
 > | [[Critical Theory]] | 理论 | 作为法兰克福学派第二代领袖，重构了批判理论的认识论与交往行动[[Paradigm\|范式]]。 |
 > | [[Ideology Critique]] | 方法 | 确立揭露对可普遍化利益的压制的意识形态批判核心方法。 |
 > | [[Emancipatory Action Research]] | 方法 | 思想被直接作为批判教育[[Action Research\|行动研究]]的哲学基石与方法论指针。 |
-> | [[Stephen Kemmis]] | 人物 | 将哈贝马斯交往理性与知识兴趣理论[[Transfer Translation Transformation\|转译]]为批判教育行动研究领袖学者。 |
+> | [[Stephen Kemmis]] | 人物 | 将哈贝马斯交往理性与知识兴趣理论转译为批判教育行动研究领袖学者。 |
 > | [[Klaus Nielsen]] | 人物 | 运用哈贝马斯合法化危机理论对现代量化[[Evidence-Based Education\|循证教育]]模式进行社会学解构。 |
 > | [[John Hattie]] | 人物 | 其《[[Visible Learning\|可见的学习]]》全球流行被尼尔森运用哈贝马斯危机理论作为典型案例剖析。 |
 > | [[Post-structuralism]] | 概念 | 哈贝马斯与之展开关于理性、现代性工程与普遍主义规范的世纪交锋。 |

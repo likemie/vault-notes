@@ -10,7 +10,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 20
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -34,7 +34,6 @@ related_concepts:
   - "[[Evidence Ecosystem]]"
   - "[[Evidence Standards]]"
   - "[[Educational Brokerage Agency]]"
-  - "[[Document]]"
 related_theories:
   - "[[COM-B Model]]"
   - "[[Human Capital Theory]]"
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Early Intervention Foundation
@@ -165,5 +164,5 @@ updated: 2026-09-22
 > | [[Evidence Standards]] | Concept | EIF 研制的 Level 1–4 证据分级体系是英国儿童与家庭服务领域公认的准入标杆。 |
 > | [[Educational Brokerage Agency]] | Concept | EIF 展现了学术型智库如何转型为深度赋能地方公共服务体系的现代中介机构。 |
 > | [[Implementation Fidelity]] | Concept | EIF 指南手册极力强调方案在真实世界实施中的保真度与去偏差。 |
-> | [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022]] | Argument | 将 EIF 作为通用策略类证据门户与行为科学[[Knowledge Mobilisation\|知识动员]]典范展开深度分析的核心[[Document\|文献]]。 |
+> | [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022]] | Argument | 将 EIF 作为通用策略类证据门户与行为科学[[Knowledge Mobilisation\|知识动员]]典范展开深度分析的核心文献。 |
 

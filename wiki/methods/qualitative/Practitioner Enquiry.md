@@ -9,7 +9,7 @@ summary: "一线教师与教育领导者在自身真实教育情境中开展的�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 31
+method_related_count: 29
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -20,7 +20,6 @@ tags:
   - theme/knowledge-mobilisation
   - action-research
 related_concepts:
-  - "[[Document]]"
   - "[[Heterogeneity]]"
   - "[[Unit of Analysis]]"
   - "[[Contributory Expertise]]"
@@ -39,7 +38,6 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Teacher Professional Agency]]"
   - "[[Research Utilization]]"
-  - "[[Teaching Assistant]]"
 related_theories: []
 related_methods:
   - "[[Action Research]]"
@@ -70,7 +68,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 方法定义
-> **实践者探究（Practitioner Enquiry / Practitioner Inquiry）**，亦称教师探究，指一线教育工作者（教师、中小学校长及教育管理者）在自身所处的微观教育与课堂情境中，以批判反思为动力、以改善学生学习与优化教学为目的，自主发起并系统实施的实证探究方法（[[Argument_Kelly_2025_ROE\|Kelly et al., 2025, pp. 3, 14–16]]；Menter et al., 2011；Cochran-Smith & Lytle, 2009）。该方法主张突破外来专家自上而下的线性知识灌输，将教师定位为情境化知识的共创者与研究者，通过在真实课堂中界定问题、收集分析多维证据、批判性对话学术[[Document\|文献]]并迭代教学策略，实现实践手艺与学术理论的有机融合。
+> **实践者探究（Practitioner Enquiry / Practitioner Inquiry）**，亦称教师探究，指一线教育工作者（教师、中小学校长及教育管理者）在自身所处的微观教育与课堂情境中，以批判反思为动力、以改善学生学习与优化教学为目的，自主发起并系统实施的实证探究方法（[[Argument_Kelly_2025_ROE\|Kelly et al., 2025, pp. 3, 14–16]]；Menter et al., 2011；Cochran-Smith & Lytle, 2009）。该方法主张突破外来专家自上而下的线性知识灌输，将教师定位为情境化知识的共创者与研究者，通过在真实课堂中界定问题、收集分析多维证据、批判性对话学术文献并迭代教学策略，实现实践手艺与学术理论的有机融合。
 
 > [!method-scope] 方法范围
 > - **研究对象** 真实的校本教学实践、课堂师生互动、生源[[Heterogeneity\|异质性]]学情、课程干预方案的本土适切性以及学校组织微观改进过程。
@@ -103,7 +101,7 @@ updated: 2026-10-15
 
 > [!proc] 实践者探究的核心五步循环
 > 1. **锚定真实痛点与界定问题（Problem Framing）** 教师立足自身课堂中真实的学业困境或教学瓶颈，提出具有明确行动指向的核心探究问题，严禁套用抽象的学术伪命题。
-> 2. **基线诊断与[[Document\|文献]]批判性对话（Critical Reading）** 收集初始课堂数据（[[Homework\|作业]]、观察、测验），同时查阅相关领域的学术研究与实证文献，以去魅与审慎心态评估外部理论的本土适切性。
+> 2. **基线诊断与文献批判性对话（Critical Reading）** 收集初始课堂数据（[[Homework\|作业]]、观察、测验），同时查阅相关领域的学术研究与实证文献，以去魅与审慎心态评估外部理论的本土适切性。
 > 3. **校本方案共设与情境实施（Contextualized Action）** 将外部策略剪裁为契合本班学情的微观教学改良措施，并在日常课堂教学中落地推行。
 > 4. **多源证据收集与[[Reflexivity\|反思性]]评估（Evidence Gathering & Reflection）** 持续追踪干预过程中的师生互动反馈，收集质性与量化证据，评估教学举措的真实成效与意外衍生结果。
 > 5. **同侪研讨、[[Knowledge Co-production\|知识共创]]与实践迭代（Sharing & Iteration）** 在教研组或跨校网络中分享探究发现，与同行和大学研究者展开辩论激荡，实现校本知识的沉淀与持续迭代。
@@ -150,7 +148,7 @@ updated: 2026-10-15
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Contributory Expertise]] | 概念 | 实践者探究是一线教师积累、运用与升华具身贡献型专长的方法载体。 |
-> | [[Interactional Expertise]] | 概念 | 实践者探究要求教师与学者[[Dialogue in Education\|对话]]，逐步掌握理解与批判学术[[Document\|文献]]的交互专长。 |
+> | [[Interactional Expertise]] | 概念 | 实践者探究要求教师与学者[[Dialogue in Education\|对话]]，逐步掌握理解与批判学术文献的交互专长。 |
 > | [[Knowledge Co-production]] | 概念 | 实践者探究突破了单向证据灌输，是大学与中小学实现知识合作生产的核心机制。 |
 > | [[Teacher Professional Agency]] | 概念 | 实践者探究以激活教师在教学决策中的专业能动性为首要旨归。 |
 > | [[Action Research]] | 替代/关联方法 | 实践者探究继承了行动研究的传统，更强调批判性文献对话与专业标准内嵌。 |
@@ -162,4 +160,4 @@ updated: 2026-10-15
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] — 跨国比较英、苏、德三国[[School Leadership\|学校领导]]者的[[Research Utilization\|研究使用]]经验，实证指出苏格兰依托 [[General Teaching Council for Scotland\|GTCS]] 实践者探究机制，赋能一线校长和教师批判性校准外部证据、抵制[[Teaching Assistant\|助教]]裁员等官方教条，展现了弥合专长断裂的有效路径。（pp. 14–16, 20–24）
+> - [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] — 跨国比较英、苏、德三国[[School Leadership\|学校领导]]者的[[Research Utilization\|研究使用]]经验，实证指出苏格兰依托 [[General Teaching Council for Scotland\|GTCS]] 实践者探究机制，赋能一线校长和教师批判性校准外部证据、抵制助教裁员等官方教条，展现了弥合专长断裂的有效路径。（pp. 14–16, 20–24）

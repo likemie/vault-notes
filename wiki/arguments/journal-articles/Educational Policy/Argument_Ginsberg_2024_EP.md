@@ -37,11 +37,11 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Academic Achievement]]"
   - "[[Paradigm]]"
-  - "[[Document]]"
   - "[[Critique of Randomized Controlled Trials]]"
   - "[[Variable]]"
   - "[[Operationalization]]"
   - "[[Construct]]"
+  - "[[School Autonomy]]"
   - "[[STEM Education]]"
   - "[[Experiential Learning]]"
   - "[[Advanced Placement Program]]"
@@ -49,7 +49,6 @@ related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
-  - "[[Teaching Assistant]]"
   - "[[Champ]]"
   - "[[Going Native]]"
 related_theories: []
@@ -58,7 +57,6 @@ related_methods:
   - "[[Quasi-Experimental Designs]]"
   - "[[Correlational Research]]"
   - "[[Systematic Review]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Semi-structured Interview]]"
   - "[[Meta-analysis]]"
   - "[[Experimental Research]]"
@@ -87,7 +85,7 @@ title: "Argument_Ginsberg_2024_EP"
 argument_key: "Argument_Ginsberg_2024_EP"
 argument_display_title: "Does ESSA assure the use of evidence-based educational practices? Educational Policy, 38(1), 161–185"
 argument_kind: "journal-article"
-argument_related_count: 40
+argument_related_count: 38
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -126,11 +124,11 @@ issuing_organization: ""
 > | **教育财政投入与产出关联假说**<br>Compensatory Education Hypotheses | Dynarski & Kainz (2015) 提出的资金强度不足假说与无效实践挤占假说，以及 Gordon (2004) 证实的地方财政挤出效应（crowd-out effect），用于解释 [[Title I of the Elementary and Secondary Education Act\|Title I]] 资金为何长期未能一致改善处境不利学生的[[Academic Achievement\|学业成就]]。（pp. 164–165） |
 
 > [!warrant]- 理论框架对实证审计的支撑机理
-> 论文通过并置比较 [[Every Student Succeeds Act\|ESSA]] 法定四级证据框架与全量证据评价[[Paradigm\|范式]]，搭建起检验政策执行实质效力的理论桥梁。长期以来关于 Title I 资金对学业影响的实证[[Document\|文献]]结论分歧严重：Borman & D'Agostino (1996) 与 Torgesen et al. (2007) 发现了积极效果，而 Puma et al. (1997)、van der Klaauw (2008) 及 Deke et al. (2012) 则未发现显著影响。Dynarski & Kainz (2015) 明确提出两大理论猜想：其一是人均拨款强度过低；其二是大量资金被耗散在缺乏实效的实践中。若法定证据标准过于宽松（仅需单项研究证明显著效果），学区便可利用挑樱桃（cherry-picking）策略为既有低效支出披上合法外衣；这一治理困境深度呼应了[[Critique of Randomized Controlled Trials\|随机对照试验批判]]对法定单项因果证据作为政策通货的质疑；只有引入全量证据综合视角，才能测出形式合规与实质有效之间的真实差距。（pp. 163–165）
+> 论文通过并置比较 [[Every Student Succeeds Act\|ESSA]] 法定四级证据框架与全量证据评价[[Paradigm\|范式]]，搭建起检验政策执行实质效力的理论桥梁。长期以来关于 Title I 资金对学业影响的实证文献结论分歧严重：Borman & D'Agostino (1996) 与 Torgesen et al. (2007) 发现了积极效果，而 Puma et al. (1997)、van der Klaauw (2008) 及 Deke et al. (2012) 则未发现显著影响。Dynarski & Kainz (2015) 明确提出两大理论猜想：其一是人均拨款强度过低；其二是大量资金被耗散在缺乏实效的实践中。若法定证据标准过于宽松（仅需单项研究证明显著效果），学区便可利用挑樱桃（cherry-picking）策略为既有低效支出披上合法外衣；这一治理困境深度呼应了[[Critique of Randomized Controlled Trials\|随机对照试验批判]]对法定单项因果证据作为政策通货的质疑；只有引入全量证据综合视角，才能测出形式合规与实质有效之间的真实差距。（pp. 163–165）
 
 ### 核心变量与操作化编码表
 
-> [!coding-frame] 核心[[Variable\|变量]][[Operationalization\|操作化]]定义与[[Coding in Qualitative Research\|编码]]规程
+> [!coding-frame] 核心[[Variable\|变量]][[Operationalization\|操作化]]定义与编码规程
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
 > | **支出循证评级**<br>（Evidence Rating of Outlays） | 将每笔财务支出对应的教育实践在证据库中进行归类：分为符合 ESSA Tier I–III 门槛与全量证据七级评级。 | 全量证据七级量表：积极（Positive）、多半积极（Mostly Positive）、混合效应（Mixed）、多半消极（Mostly Negative）、消极（Negative）、无显著差异（No Significant Evidence）、无研究（No Studies）。（p. 172） |
@@ -192,7 +190,7 @@ issuing_organization: ""
 在以往的教育财政研究中，由于缺乏细粒度的账目穿透，学者往往难以厘清大规模联邦资金究竟采购了何种具体的课堂实践。
 
 > [!feature] 学区 [[Title I of the Elementary and Secondary Education Act\|Title I]] 资金的双轨分配与宏观支出结构
-> - **学区中心统筹与校本分配格局** SUD 学区每年将约三分之二（4,800 万至 4,900 万美元，约占总额 50%）的 Title I 资金直接下拨至各公立学校用于全校范围项目（Schoolwide Programs），由学校自主采购人员编制（如专职干预教师）、购买服务（如教师专业发展）、课堂耗材与教学技术；其余约三分之一资金由学区中心办公室统筹，支持各校自愿参与的辅导项目、暑期学校及教师教练。（p. 167）
+> - **学区中心统筹与校本分配格局** SUD 学区每年将约三分之二（4,800 万至 4,900 万美元，约占总额 50%）的 Title I 资金直接下拨至各公立学校用于全校范围项目（Schoolwide Programs），由[[School Autonomy|学校自主]]采购人员编制（如专职干预教师）、购买服务（如教师专业发展）、课堂耗材与教学技术；其余约三分之一资金由学区中心办公室统筹，支持各校自愿参与的辅导项目、暑期学校及教师教练。（p. 167）
 > - **通用行政与法定义务支出** 中心办公室每年支出约 500 万美元（三年累计 1,490 万美元）用于会计、预算、外部资助管理及研究与问责部（负责评估 Title I 项目成效）；此外，按联邦法规必须向辖区内私立非营利学校（Private Non-Profit, PNP）划拨专项资金。（pp. 168–169）
 
 > [!figure]- 图 1　SUD 学区 Title I 年度资金大致分配结构
@@ -204,7 +202,7 @@ issuing_organization: ""
 
 > [!case] 样本学校微观财务细项与实践归因典型案例
 > - **微观采购穿透与会计科目还原（约 1,300 笔细项流水）**
->   样本学校的财务报表通常只记录物品本身的会计代码（如物料耗材、人员工资[[Coding in Qualitative Research\|编码]]），完全不标示具体的教学方案。研究对 4 所样本学校三年间总计 397 万美元的 1,300 笔流水展开逐笔审查，通过学区操作手册、内部项目档案及对 2 所小学和 1 所高中校长的[[Semi-structured Interview\|半结构化访谈]]，成功将琐碎流水归并映射至 109 项具体的教育实践中。
+>   样本学校的财务报表通常只记录物品本身的会计代码（如物料耗材、人员工资编码），完全不标示具体的教学方案。研究对 4 所样本学校三年间总计 397 万美元的 1,300 笔流水展开逐笔审查，通过学区操作手册、内部项目档案及对 2 所小学和 1 所高中校长的[[Semi-structured Interview\|半结构化访谈]]，成功将琐碎流水归并映射至 109 项具体的教育实践中。
 > - **机器人项目电池采购（620.98 美元）**
 >   2016–2017 学年某小学账面支出 620.98 美元用于采购电池。此类通用工业耗材在传统教育财政统计中常被归为无法评估的“常规办公耗材”；研究通过一线校长与行政助理访谈，核实并确证该笔电池专用于课后机器人 [[STEM Education\|STEM]] 教育项目（Robotics Program），从而将无特征的物料支出成功转化为具备明确科研评价目标的教育干预对象。
 > - **多用途彩色卡纸的等额三分法分摊（Colored Paper）**
@@ -243,7 +241,7 @@ issuing_organization: ""
 
 #### 1. 单项合格研究门槛下的合规表象：逾 95% 资金跨过法定红线
 
-法定标准的宽松性赋予了学区巨大的自由裁量权，只要能在某一数据库中找到一篇显示积极效果的[[Document|文献]]，该项采购即可获得法律正当性。
+法定标准的宽松性赋予了学区巨大的自由裁量权，只要能在某一数据库中找到一篇显示积极效果的文献，该项采购即可获得法律正当性。
 
 > [!figure]- 图 2　依据 ESSA 法定定义投资于循证实践的资金比例
 > ![](https://img.mylikemie.icu/sources/Ginsberg_2024_EP/figures/Ginsberg_2024_EP_Fig2_ESSA_Tiers_Fund_Percentage.jpg)
@@ -278,7 +276,7 @@ issuing_organization: ""
 >   - **全量证据体下的真实降级** 当汇聚四大公共数据库所有相关研究时，由于后续多项大规模评价显示全校性拨款对初中和高中的学业提升并不一致（甚至存在零效应），初中与高中的全校项目直接降级为混合效应（Mixed），瞬间导致全学区积极循证资金比例骤降至 49%。
 >   - **最保守敏感度测试（涉及 8,400 万美元）** 若在方法一中将复合全校项目统一赋予最低证据等级，小学全校项目（涉及 8,000 万美元）同样转入混合效应；在全部 35 项实践中，有 6 项从积极/多半积极跌入混合（总金额达 8,400 万美元），直接导致学区获得稳定积极实证支持的资金比例从 49% 压缩至冰点的 **20%**。（pp. 174–177）
 > - **细分教学形态与外购商业软件的证据空白**
->   学区采购的大量驻校咨询辅导（on-site consulting）与商业外购软件（如 Imagine Learning），在证据库中往往只能检索到宏观的“教师专业发展”或“计算机辅[[Teaching Assistant\|助教]]学”文献；对于驻校顾问这种具体交付形态，在相关学段几乎毫无独立因果检验，使巨额经常性外包采购完全游离于有效证据监控之外。（pp. 177–178）
+>   学区采购的大量驻校咨询辅导（on-site consulting）与商业外购软件（如 Imagine Learning），在证据库中往往只能检索到宏观的“教师专业发展”或“计算机辅助教学”文献；对于驻校顾问这种具体交付形态，在相关学段几乎毫无独立因果检验，使巨额经常性外包采购完全游离于有效证据监控之外。（pp. 177–178）
 
 上述微观分化案例揭示了法定单项门槛为何在实践中难以保障资金的实质有效性。
 
@@ -364,7 +362,7 @@ issuing_organization: ""
 > [!warning]
 > - **单学区微观样本限制** 研究聚焦于一所特大型南部城市学区（SUD），其人口结构（少数族裔与贫困生比例极高）与资金统筹模式可能不同于中小型或农村学区，影响结论的普适性。（pp. 166, 179）
 > - **校级支出样本代表性局限** 校级详细实践分析基于由学区推荐的 4 所典型学校，虽覆盖小初高不同学段，但可能未能穷尽全学区 200 余所学校所有个性化采购。（pp. 167, 179）
-> - **检索范围局限于四大公开数据库** 证据检索限定于 [[What Works Clearinghouse\|WWC]]、[[Evidence for ESSA]]、[[Education Endowment Foundation\|EEF]] 和 [[Education Resources Information Center\|ERIC]] 四大公开平台，虽贴近学区决策者的真实检索场景，但未穷尽 PsycINFO 等专业商业付费[[Document\|文献]]库。（p. 171）
+> - **检索范围局限于四大公开数据库** 证据检索限定于 [[What Works Clearinghouse\|WWC]]、[[Evidence for ESSA]]、[[Education Endowment Foundation\|EEF]] 和 [[Education Resources Information Center\|ERIC]] 四大公开平台，虽贴近学区决策者的真实检索场景，但未穷尽 PsycINFO 等专业商业付费文献库。（p. 171）
 > - **排除 Tier IV 理论依据层级** 因无法清晰[[Operationalization\|操作化]]何为合格的基于高质量研究或积极评价的理论逻辑，研究排除了 Tier IV 证据，可能低估了早期创新实践的理论支持度。（p. 179）
 > - **缺乏直接因果影响检验** 研究旨在量化审计资金分配在证据等级上的分布与纵向变动，未直接建立学区资金转移与学生标准化测验成绩增值之间的微观因果模型。
 

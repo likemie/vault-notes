@@ -6,7 +6,7 @@ aliases:
 summary: "研究对某一特定事件、问题或数据集的解释实际上能为数据所支撑的程度，在量化研究中关乎因果推断的可信性，在质性研究中转化为可信性、真实性和可确认性等标准"
 type: concept
 domain: "research-methodology"
-related_count: 62
+related_count: 59
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -35,15 +35,12 @@ related_concepts:
   - "[[Counterfactual]]"
   - "[[Rich and Thick Description]]"
   - "[[Evidence Ecosystem]]"
-  - "[[Attrition]]"
   - "[[Operationalization]]"
   - "[[Qualitative Validity]]"
   - "[[Ontology]]"
   - "[[Catalytic Validity]]"
-  - "[[Hypothesis]]"
   - "[[Evidence-Based Education]]"
   - "[[Cultural Validity]]"
-  - "[[Document]]"
   - "[[Interpretive Paradigm]]"
   - "[[Ecological Validity]]"
   - "[[Praxis]]"
@@ -82,7 +79,7 @@ related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
 status: draft
 created: 2026-05-31
-updated: 2026-09-28
+updated: 2026-10-15
 ---
 # Internal Validity
 
@@ -169,7 +166,7 @@ updated: 2026-09-28
 
 > [!claim] [[Experimental Research\|实验研究]]中的内部效度威胁分类与控制
 > **内部效度威胁的三维分类与控制机制** 实验研究中的内部效度威胁源于三个主要维度，研究者必须通过严格设计予以规避：
-> 1. **受试者维度威胁** 涵盖历史因素（实验期间外部突发事件干扰[[Dependent Variable\|因变量]]）、成熟因素（被试生理心理自然成长混淆干预效果）、统计回归（极端得分受试者向均值回归产生的虚假增益）、选择偏差（组间初始不均衡导致的系统偏误）以及被试[[Attrition\|流失]]（退出者与坚持者特征不一致扭曲最终效果）。
+> 1. **受试者维度威胁** 涵盖历史因素（实验期间外部突发事件干扰[[Dependent Variable\|因变量]]）、成熟因素（被试生理心理自然成长混淆干预效果）、统计回归（极端得分受试者向均值回归产生的虚假增益）、选择偏差（组间初始不均衡导致的系统偏误）以及被试流失（退出者与坚持者特征不一致扭曲最终效果）。
 > 2. **实验处理维度威胁** 涵盖处理扩散（对照组与实验组交流导致方案污染）、补偿性竞争（对照组因竞争心理加倍努力以抗衡实验组）以及补偿性怨恨（对照组因未获处理产生挫折与消极行为）。
 > 3. **实验程序维度威胁** 涵盖测验效应（[[Pre-test and Post-test\|前测]]练习使受试者熟悉试卷产生虚假进步）以及测量工具变异（前后测工具难度不一或评分标准发生漂移）。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch. 8)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, pp. 164–166)]]
 
@@ -202,7 +199,7 @@ updated: 2026-09-28
 > - **长期田野参与** 沉浸于现场足够长的时间以消除初期的防卫扭曲，建立深层专业信任。
 > - **持续观察** 聚焦核心研究特征展开深度追踪，把握现象微观演变脉络。
 > - **[[Triangulation\|三角验证]]** 依托多元方法、异质数据源、不同研究者与理论透镜开展交叉核验。
-> - **同伴汇报** 主动将分析暴露于无利害关系的学者面前，以对抗性审问检验[[Hypothesis\|假设]]与解释盲点。
+> - **同伴汇报** 主动将分析暴露于无利害关系的学者面前，以对抗性审问检验假设与解释盲点。
 > - **[[Negative Case Analysis\|负面案例分析]]** 持续搜寻反例证据，回溯修正并精炼解释模型以包容异质例外。
 > - **[[Member Checking\|成员核查]]** 将分析摘要返还参与者核验，核实意向性并纠正事实偏差。
 
@@ -221,7 +218,7 @@ updated: 2026-09-28
 ### 命题总览
 
 > [!contrast-table] 内部效度理论命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者与[[Document\|文献]] |
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
 > | **实验控制因果命题** | 实验设计通过排除受试者、处理与程序干扰，保障因果推断无偏性 | 实验室试验、现场随机对照试验、教育干预评估 | Campbell & Stanley (1963); [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011)]] |
 > | **质性可信重构命题** | 质性探究通过多维真实性、成员核查与三角验证重构可信性表征 | [[Ethnography\|民族志]]田野[[Rich and Thick Description\|深描]]、多[[Case Study\|案例研究]]、[[Interpretive Paradigm\|自然主义探究]] | Lincoln & Guba (1985); LeCompte & Preissle (1993); Hammersley (1992b) |
@@ -249,7 +246,7 @@ updated: 2026-09-28
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a, pp. 135–141)]] | 跨卫生、社会关照、教育与公共政策四大领域[[Document\|文献]]库 | PRISMA [[Systematic Review\|系统综述]]（初检 10,813 篇 $\to$ 纳入 112 篇核心文献） | [[Evidence Standards\|证据质量标准]]与内部效度权衡 | 4 位研究员多轮交叉质评证实：仅强调内部效度的等级制（如纯粹 [[Randomised Controlled Trials\|RCT]] 排行榜）在多[[Paradigm\|范式]]复杂实践中易遭边缘化；高质量使用需方法严谨性与情境适切性多维兼顾 | 定性[[Narrative Synthesis\|叙事综合]]确证 | 证实内部效度必须与问题类型、组织脉络相匹配方能驱动高质量[[Research Utilization\|证据使用]] |
+> | [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a, pp. 135–141)]] | 跨卫生、社会关照、教育与公共政策四大领域文献库 | PRISMA [[Systematic Review\|系统综述]]（初检 10,813 篇 $\to$ 纳入 112 篇核心文献） | [[Evidence Standards\|证据质量标准]]与内部效度权衡 | 4 位研究员多轮交叉质评证实：仅强调内部效度的等级制（如纯粹 [[Randomised Controlled Trials\|RCT]] 排行榜）在多[[Paradigm\|范式]]复杂实践中易遭边缘化；高质量使用需方法严谨性与情境适切性多维兼顾 | 定性[[Narrative Synthesis\|叙事综合]]确证 | 证实内部效度必须与问题类型、组织脉络相匹配方能驱动高质量[[Research Utilization\|证据使用]] |
 > | [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, Ch. 8)]] | 经典社会科学与教育实验干预范例库 | [[Experimental Research\|实验研究]]程序[[Meta-analysis\|元分析]]考证 | 受试者、处理与程序三类共 10 种[[Threats to Internal Validity\|内部效度威胁]]的发生率 | [[Random Assignment\|随机化]]分配能控制 80% 以上的受试者初始偏差，但处理扩散与测量工具漂移仍需前置协议（如[[Preregistration\|预注册]]与[[Implementation Fidelity\|实施保真度]]打卡）约束 | 规范方法学案例实证 | 确立实验控制无法彻底消解生态交互，内部效度需与[[Implementation and Process Evaluation\|过程评估]]（IPE）协同保障 |
 
 ---

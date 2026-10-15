@@ -10,7 +10,7 @@ aliases:
 summary: "混合方法研究中的两类基本数据形式，开放式数据由参与者自由表达而研究者不预设回答选项，封闭式数据由研究者提供预设回答选项（如评分量表），区分两类数据比数字-文本二分法更精确"
 type: concept
 domain: "research-methodology"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,7 +31,6 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Questionnaire]]"
   - "[[Case Study]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Pilot Testing]]"
 related_persons: []
 related_facts: []
@@ -41,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-02
-updated: 2026-06-02
+updated: 2026-10-15
 ---
 
 # Open-Ended and Closed-Ended Data
@@ -91,7 +90,7 @@ updated: 2026-06-02
 > | 维度 | 封闭式问题 | 开放式问题 |
 > |---|---|---|
 > | 适用规模 | 大样本 | 小样本、特定情境[[Case Study\|案例研究]] |
-> | [[Coding in Qualitative Research\|编码]]与分析 | 快速编码，适合统计处理 | 难以编码和分类，不易跨参与者比较 |
+> | 编码与分析 | 快速编码，适合统计处理 | 难以编码和分类，不易跨参与者比较 |
 > | 受访者负担 | 快速完成，不因表达能力产生歧视 | 耗时较长，可能导致拒绝完成 |
 > | 数据特性 | 可生成回应频率，便于跨组比较（Oppenheim, 1992, p. 115） | 可捕捉真实性、丰富性和诚实性——质性数据的标志 |
 > | 风险 | 类别可能不穷尽、存在偏差 | 可能产生无关或冗余信息 |

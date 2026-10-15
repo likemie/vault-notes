@@ -5,7 +5,7 @@ aliases:
 summary: "Luhmann 的观察概念，指每次观察都建立在某个无法被观察者同时看见的盲点之上。"
 type: concept
 domain: "educational-philosophy"
-related_count: 15
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,7 +18,6 @@ related_concepts:
   - "[[Humility]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
-  - "[[Hypothesis]]"
   - "[[Commensuration]]"
   - "[[School Leadership]]"
   - "[[Structural Coupling]]"
@@ -27,7 +26,6 @@ related_theories:
   - "[[Phenomenology]]"
 related_methods:
   - "[[Effect Size]]"
-  - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Niklas Luhmann]]"
 related_facts: []
@@ -36,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-04
-updated: 2026-09-23
+updated: 2026-10-15
 ---
 
 ## 定义
@@ -63,9 +61,9 @@ updated: 2026-09-23
 > [[Argument_Larsen_2019_EducSci\|Larsen (2019)]] 将 Luhmann 的盲点概念应用于对 VL [[Paradigm\|范式]]的批判，提出以下核心论点：
 >
 > - **VL 的盲视** — 强大的科学与政治学习追随者"不能看见他们不能看见的东西——无论当他们看见他们认为自己看见的东西时，还是当他们没有看见他们不想看见的东西时"([[Argument_Larsen_2019_EducSci\|Larsen, 2019, p.1, 10]])
-> - **[[Ontology\|本体论]]与[[Epistemology\|认识论]]的混淆** — VL 范式似乎忽视或过于频繁地将深刻的、谜一般的存在本体论做糟糕的'翻译'，因此它在蒙蔽自身，却同时主张认识论的角色是施肥和合法化研究'结果'，而非质疑科学[[Hypothesis\|假设]]和主流可见性程序的质量与缺陷([[Argument_Larsen_2019_EducSci\|Larsen, 2019, p.4]])
+> - **[[Ontology\|本体论]]与[[Epistemology\|认识论]]的混淆** — VL 范式似乎忽视或过于频繁地将深刻的、谜一般的存在本体论做糟糕的'翻译'，因此它在蒙蔽自身，却同时主张认识论的角色是施肥和合法化研究'结果'，而非质疑科学假设和主流可见性程序的质量与缺陷([[Argument_Larsen_2019_EducSci\|Larsen, 2019, p.4]])
 > - **三个'世界'的不可调和** — 学生的一阶[[Phenomenology\|现象学]]'内在'、教师的'外在'（试图评估和最大化学生学习结果）、科学透明的'外在'（基于[[Visible Learning\|可见的学习]]（Visible Learning，VL）研究的模板和建议）这三者"并不相等且可能永远不会被调和或统一"
-> - **社会系统与心理系统的不可[[Commensuration\|通约]]** — 教师/[[School Leadership\|学校领导]]/研究者/教育政策制定者的社会沟通系统永远无法观察个体学生/儿童的心理系统。这两个系统[[Coding in Qualitative Research\|编码]]不共享，彼此不透明
+> - **社会系统与心理系统的不可[[Commensuration\|通约]]** — 教师/[[School Leadership\|学校领导]]/研究者/教育政策制定者的社会沟通系统永远无法观察个体学生/儿童的心理系统。这两个系统编码不共享，彼此不透明
 
 ## 理论基础
 

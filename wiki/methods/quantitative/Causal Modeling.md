@@ -10,7 +10,7 @@ summary: "通过结构方程等统计模型表示变量之间因果路径并同�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 31
+method_related_count: 29
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -23,7 +23,6 @@ tags:
 related_concepts:
   - "[[Causality]]"
   - "[[Variable]]"
-  - "[[Hypothesis]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Evaluation Research]]"
@@ -44,7 +43,6 @@ related_methods:
   - "[[Multiple Regression]]"
   - "[[Matching]]"
   - "[[Correlational Research]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Covariate Adjustment]]"
   - "[[Effect Size]]"
   - "[[Standard Error]]"
@@ -59,7 +57,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-03
-updated: 2026-08-29
+updated: 2026-10-15
 ---
 
 # Causal Modeling
@@ -70,7 +68,7 @@ updated: 2026-08-29
 > 因果建模（Causal Modeling），也称为结构方程建模（Structural Equation Modeling, SEM），是随机实验之外最常用的[[Causality\|因果推断]]替代方法。其目标是对观察性研究施加一个关于"自然如何生成数据"的模型，然后从数据中估计自然使用的参数值。它于 1970 年代进入社会科学领域，承诺将实质性社会科学理论与统计学进行形式上的整合（[[Argument_Berk_2011_ER\|Berk, 2011, p.196]]）。
 
 > [!method-scope] 方法范围
-> - **研究对象**[[Variable\|变量]]之间的因果路径和结构关系，通常基于理论[[Hypothesis\|假设]]构建模型。
+> - **研究对象**[[Variable\|变量]]之间的因果路径和结构关系，通常基于理论假设构建模型。
 > - **问题类型** 适合检验理论驱动的因果结构——"这些变量之间的因果方向、中介路径和效应强度是怎样的？"可用于分析直接效应、间接效应和总效应。
 > - **[[Unit of Analysis\|分析单位]]** 个体、群体或组织层面的观察数据。
 > - **输出形式** 路径系数、[[Model Fit Indices in SEM and CFA\|模型拟合指数]]、直接效应与间接效应估计、总效应分解。
@@ -83,7 +81,7 @@ updated: 2026-08-29
 ## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
-> - **知识观**因果建模隐含一种强[[Hypothesis\|假设]]——研究者可以通过统计模型捕捉数据生成过程的结构性特征。这与[[Potential Outcomes Framework\|潜在结果框架]]形成对比——后者从假设性比较出发定义因果效应，而非从模型假设出发估计因果参数。[[Argument_Berk_2011_ER\|Berk (2011, p.196)]] 认为因果建模对[[Evaluation Research\|评估研究]]的影响"最好说是好坏参半的"（mixed at best）。
+> - **知识观**因果建模隐含一种强假设——研究者可以通过统计模型捕捉数据生成过程的结构性特征。这与[[Potential Outcomes Framework\|潜在结果框架]]形成对比——后者从假设性比较出发定义因果效应，而非从模型假设出发估计因果参数。[[Argument_Berk_2011_ER\|Berk (2011, p.196)]] 认为因果建模对[[Evaluation Research\|评估研究]]的影响"最好说是好坏参半的"（mixed at best）。
 > - **研究者角色** 研究者基于理论构建模型结构（指定[[Variable\|变量]]间的因果路径和方向），然后从数据中估计参数。研究者的理论判断决定了模型的形式——模型的力量不可能强大过支撑它的因果假设。
 > - **有效性标准** 模型拟合优度（[[Model Fit Indices in SEM and CFA\|CFI]]、RMSEA、SRMR 等）、路径系数的[[Statistical Significance\|统计显著性]]、理论模型与竞争模型的比较。但模型拟合良好不等于因果结构正确——"模型'足够接近正确'与模型'不正确'之间没有明确的经验界限"（[[Argument_Berk_2011_ER\|Berk, 2011, p.197]]）。
 > - **不声称回答的问题** 因果建模本身不能证明因果方向——它只能检验预设的因果结构是否与数据一致。它不能替代随机实验来确立[[Causality\|因果关系]]。统计工具"可能只是强化已有假设和模型而非识别实际因果性"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al., 2011, p. 71]]）。
@@ -132,7 +130,7 @@ updated: 2026-08-29
 >    - 2004 — Berk 出版 *Regression Analysis: A Constructive Critique*
 > - 2005 — David Freedman 出版 *Statistical Models: Theory and Practice*，基于二十年的批判性关切提供了对因果建模"可能最彻底的处理"
 > 3. **当代定位（2011–至今）**
->    - 2011 — Berk 系统回顾因果建模的局限，推荐匹配作为替代策略；Cohen, Manion & Morrison 指出 SEM、[[Multiple Regression\|多元回归]]和多变量分析"不可能强大过支撑它们的因果[[Hypothesis\|假设]]"，在追求简洁清晰模型的过程中"严重简化"了情境中原因的数量或范围（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al., 2011, p. 71]]）
+>    - 2011 — Berk 系统回顾因果建模的局限，推荐匹配作为替代策略；Cohen, Manion & Morrison 指出 SEM、[[Multiple Regression\|多元回归]]和多变量分析"不可能强大过支撑它们的因果假设"，在追求简洁清晰模型的过程中"严重简化"了情境中原因的数量或范围（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al., 2011, p. 71]]）
 >    - 2023 — [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] 从教育心理学期刊实践层面补充批评：依赖建模的分析更可能包含因果化语言，2010 年后建模类型和用途急剧增加
 
 ---
@@ -144,7 +142,7 @@ updated: 2026-08-29
 > [!method-limits] 模型选择的根本性局限
 > [[Argument_Berk_2011_ER\|Berk (2011, p.197)]] 识别的最核心问题：因果建模的常见实践涉及在多个模型中选择"最佳"模型，但这使得基于同一数据集的统计推断变得无效（Leeb & Pötscher, 2005, 2006; Berk, Brown, & Zhao, 2010）。
 
-> [!critique-logic] [[Hypothesis\|假设]]先于统计——模型无法超越其前提
+> [!critique-logic] 假设先于统计——模型无法超越其前提
 > 因果建模的力量不可能强大过支撑它的因果假设。统计——即使是 SEM、[[Multiple Regression\|多元回归]]和多[[Variable\|变量]]分析——"可能只是强化已有假设和模型而非识别实际[[Causality\|因果性]]"。在追求简洁清晰模型的过程中，它们经常"严重简化了情境中原因的数量或范围"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al., 2011, p. 71]]）。
 
 > [!critique-logic] 缺乏明确的经验边界
@@ -179,14 +177,14 @@ updated: 2026-08-29
 ### 因果语言风险
 
 > [!warning] 观察数据中的因果语言风险
-> [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] 从教育心理学期刊实践层面补充了方法论批评：Reinhart et al. (2013) 曾发现，依赖建模作为分析方法的观察/[[Correlational Research\|相关研究]]更可能包含[[Recommendations for Practice\|实践建议]]（RFP），可能因为建模语汇会"导致"更多类似 "predictors""mediators""outcomes" 的因果化命名。Brady et al. 原本计划继续[[Coding in Qualitative Research\|编码]]"建模"，但 2010 年后建模类型和用途急剧增加，以至于区分"什么算建模"已不再有实质意义（[[Argument_Brady_2023_EPR\|Brady et al., 2023, p.9]]）。
+> [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] 从教育心理学期刊实践层面补充了方法论批评：Reinhart et al. (2013) 曾发现，依赖建模作为分析方法的观察/[[Correlational Research\|相关研究]]更可能包含[[Recommendations for Practice\|实践建议]]（RFP），可能因为建模语汇会"导致"更多类似 "predictors""mediators""outcomes" 的因果化命名。Brady et al. 原本计划继续编码"建模"，但 2010 年后建模类型和用途急剧增加，以至于区分"什么算建模"已不再有实质意义（[[Argument_Brady_2023_EPR\|Brady et al., 2023, p.9]]）。
 
 ---
 
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 当[[Research Question\|研究问题]]涉及检验预设的理论因果结构、估计多重路径的直接和间接效应时。在研究者能对模型[[Hypothesis\|假设]]提供有力辩护、且模型选择过程透明且预先注册的情况下，才可能产生可信的结果。
+> - **适合使用** 当[[Research Question\|研究问题]]涉及检验预设的理论因果结构、估计多重路径的直接和间接效应时。在研究者能对模型假设提供有力辩护、且模型选择过程透明且预先注册的情况下，才可能产生可信的结果。
 > - **谨慎使用** 在观察性研究中用于[[Causality\|因果推断]]——因果建模不能替代随机实验来确立因果关系。模型拟合良好不等于因果结构正确。需要同时使用[[Screening Off\|筛选隔离]]等方法识别并控制混淆[[Variable\|变量]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al., 2011, pp. 59–60]]）。
 > - **不适合使用** 当理论基础薄弱、模型假设无法辩护时；当主要研究目标是确立因果关系而非检验因果结构时——此时真实验是更强的设计。不适合回答[[Causal Processes\|因果过程]]"如何"运作的问题——因果建模能建立因果的"是什么"但不能建立"如何"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al., 2011, pp. 70–71]]）。
 

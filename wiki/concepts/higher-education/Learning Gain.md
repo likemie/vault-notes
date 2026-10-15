@@ -10,7 +10,7 @@ aliases:
 summary: "衡量学生在特定教学干预或高等教育求学期间，在专业知识储备、概念理解、高阶思维技能及综合素养等方面所实现的净增长幅度与纵向发展距离。"
 type: concept
 domain: "higher-education"
-related_count: 44
+related_count: 42
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Incommensurability]]"
   - "[[Going Native]]"
   - "[[Direct Instruction]]"
-  - "[[Document]]"
   - "[[Interaction Effect]]"
   - "[[Academic Achievement]]"
   - "[[Paradigm]]"
@@ -46,7 +45,6 @@ related_concepts:
   - "[[Inquiry-Based Learning]]"
   - "[[Surface and Deep Learning]]"
   - "[[Homework]]"
-  - "[[Teaching Assistant]]"
   - "[[Sampling Error]]"
   - "[[Heterogeneity]]"
   - "[[Dependent Variable]]"
@@ -75,7 +73,7 @@ related_arguments:
   - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_Serpell_2020_EP]]"
 created: 2026-08-26
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Learning Gain
@@ -95,7 +93,7 @@ updated: 2026-10-09
 > [!citation-card] 高等教育增值评估与探究教学中的学习增益归因
 > 学习增益被理解为学生在求学期间所实现的知识、技能、就业准备及个人发展的提升。英国高等教育拨款委员会（[[Higher Education Funding Council for England\|HEFCE]]）资助的“学习增益项目”将批判性思维作为多项增值试点研究的核心组成部分，采用标准化表现测试（如 [[Collegiate Learning Assessment\|CLA+]] [[Going Native\|本土化]]版）探索跨院校的能力成长测度。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 17)]]
 >
-> [[Direct Instruction\|直接教学]]倡导者声称探究教学中学生的学习增益完全来自程序中追加的直接解释，这是对实证[[Document\|文献]]的严重误读。[[Meta-analysis\|元分析]]表明，六类指导脚手架在促进学习增益上完全等价（平均提升 $d = 0.50$），直接讲授仅是六分之一，学习增益本质上源于结构化支架对认知负荷的适时调节。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 4)]]
+> [[Direct Instruction\|直接教学]]倡导者声称探究教学中学生的学习增益完全来自程序中追加的直接解释，这是对实证文献的严重误读。[[Meta-analysis\|元分析]]表明，六类指导脚手架在促进学习增益上完全等价（平均提升 $d = 0.50$），直接讲授仅是六分之一，学习增益本质上源于结构化支架对认知负荷的适时调节。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 4)]]
 >
 > *The type of guidance had no significant [[Interaction Effect\|moderation effect]]... Only one of the six types of guidance was direct instruction, so it is misleading to claim that the learning gains resulted solely from direct explanations.*
 
@@ -205,7 +203,7 @@ updated: 2026-10-09
 > > - **学科情境派（[[VALUE Rubrics]]）** 认为[[Higher-Order Thinking Skills\|高阶思维]]无法脱离具体的学科专业知识孤立存在，通用测验容易退化为脱离学科脉络的智力题，主张依赖教师嵌入式真实评分量规。
 >
 > > [!axis] 增益结果用途：形成性诊断教学 vs 终结性高利害问责
-> > 争论学习增益指标应当用于帮[[Teaching Assistant\|助教]]师改进教学，还是直接挂钩拨款与人事奖惩。
+> > 争论学习增益指标应当用于帮助教师改进教学，还是直接挂钩拨款与人事奖惩。
 > >
 > > - **形成性改进派** 强调增值指标具有较大幅度的[[Sampling Error\|抽样误差]]与年份波动，只能作为识别教学短板、开展教研反思的内部反馈线索。
 > > - **高利害问责派** 主张必须将增值绩效作为公共教育财政问责与教师末位考核的核心抓手。

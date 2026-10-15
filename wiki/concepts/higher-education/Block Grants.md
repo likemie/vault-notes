@@ -11,7 +11,7 @@ aliases:
 summary: "中央或上级资助主体向学校、地方学区或下级自治实体划拨的未指定微观细项用途的整笔总额预算，由受资助机构在宏观法定框架内自主统筹分配于教学、人事与基建等支出，构成现代高等教育去规制化与远距离操纵治理的核心财政工具。"
 type: concept
 domain: "higher-education"
-related_count: 18
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,8 +27,6 @@ related_concepts:
   - "[[Red Tape]]"
   - "[[Bureaucracy]]"
   - "[[New Public Management]]"
-  - "[[Transfer Translation Transformation]]"
-  - "[[Document]]"
   - "[[Academic Freedom]]"
   - "[[Research Universities]]"
   - "[[Performance Indicators]]"
@@ -48,7 +46,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Block Grants
@@ -131,7 +129,7 @@ updated: 2026-10-12
 > 探讨在面临宏观公共财政严重紧缩时，整笔拨款如何通过下放重组选择权化解改革的社会对抗。
 
 > [!claim] Kickert
-> **总额包干机制将紧缩阵痛[[Transfer Translation Transformation|转译]]为内部战略调适** 20 世纪 80 年代荷兰面临严峻财政赤字，教育部对高等教育实施硬性预算削减。在高等专业教育学院（HBO）大改革中，政府下达了削减 9700 万荷盾的硬性指标，但放弃了由中央指令具体裁撤哪些专业和岗位的传统做法，转而通过整笔拨款将减支任务交由合并后的综合学院领导层自主调配。院校管理层通过学科交叉整合与内部资源优化，在没有引发全行业罢工瘫痪的前提下平稳吸收了紧缩冲击，证明了整笔拨款赋权机制在危机调适中的独特制度韧性。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 144, 146)]]
+> **总额包干机制将紧缩阵痛转译为内部战略调适** 20 世纪 80 年代荷兰面临严峻财政赤字，教育部对高等教育实施硬性预算削减。在高等专业教育学院（HBO）大改革中，政府下达了削减 9700 万荷盾的硬性指标，但放弃了由中央指令具体裁撤哪些专业和岗位的传统做法，转而通过整笔拨款将减支任务交由合并后的综合学院领导层自主调配。院校管理层通过学科交叉整合与内部资源优化，在没有引发全行业罢工瘫痪的前提下平稳吸收了紧缩冲击，证明了整笔拨款赋权机制在危机调适中的独特制度韧性。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 144, 146)]]
 
 ---
 
@@ -148,7 +146,7 @@ updated: 2026-10-12
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心理论判定 | 适用分析情境 | 代表学者与[[Document\|文献]] |
+> | 命题类型 | 核心理论判定 | 适用分析情境 | 代表学者与文献 |
 > |---|---|---|---|
 > | **治理主体确立** | 整笔拨款终结逐项行政报销审批，从制度上确立院校作为战略自组织管理实体的法定地位 | 高教去规制化、高校自治改革、内部治理现代化 | [[Argument_Kickert_1995_Governance\|Kickert (1995, p. 140)]] |
 > | **紧缩吸收韧性** | 总额预算机制将自上而下的削减压力转译为机构内部战略调控，平稳化解系统对抗 | 财政紧缩治理、高等教育机构兼并、院系重组 | [[Argument_Kickert_1995_Governance\|Kickert (1995, p. 146)]] |
@@ -195,5 +193,5 @@ updated: 2026-10-12
 
 ## 相关研究
 
-> [!evidence-grid] 相关[[Document|文献]]索引
+> [!evidence-grid] 相关文献索引
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 实证剖析荷兰高教从细项报销转向总额预算的制度实践，系统论证整笔拨款作为[[Steering at a Distance|远距离操纵]]财政基石与危机吸收机制的有效性。

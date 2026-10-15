@@ -9,7 +9,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 15
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -25,12 +25,10 @@ related_concepts:
   - "[[Intelligent Tutoring Systems]]"
   - "[[Evaluation Research]]"
   - "[[Academic Achievement]]"
-  - "[[Attrition]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Evidence-Based Reform]]"
 related_theories: []
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Regression Discontinuity Design]]"
@@ -45,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-09-12
+updated: 2026-10-15
 ---
 
 # Collaborative for Academic Social and Emotional Learning Guide
@@ -82,7 +80,7 @@ updated: 2026-09-12
 ## 因果推断与方法学标准
 
 > [!abstract] 因果设计与质量规程
-> CASEL 因果设计描述程度[[Coding in Qualitative Research\|编码]]为 **[[Randomised Controlled Trials\|RCT]]=1, [[Quasi-Experimental Designs\|QED]]=1, [[Regression Discontinuity Design\|RDD]]=0, [[Intelligent Tutoring Systems\|ITS]]=0**([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 10]])。
+> CASEL 因果设计描述程度编码为 **[[Randomised Controlled Trials\|RCT]]=1, [[Quasi-Experimental Designs\|QED]]=1, [[Regression Discontinuity Design\|RDD]]=0, [[Intelligent Tutoring Systems\|ITS]]=0**([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 10]])。
 >
 > 1. **对照组实证设计** 要求拥有至少 1 项包含实验组与对照组（RCT 或严格匹配 QED）的实证[[Evaluation Research\|评估研究]]。
 > 2. **统计显著成效** 在干预结束后的即时或延时测量中，在学生的行为改善、心理健康或[[Academic Achievement\|学业成绩]]上呈现具有[[Statistical Significance\|统计显著性]]的积极成效。
@@ -104,7 +102,7 @@ updated: 2026-09-12
 
 > [!warning] 跨中心分歧与典型案例
 > CASEL 专注于 [[Social-Emotional Learning\|SEL]] 领域的垂直深耕，其认证方案在全美学区选购情绪管理与霸凌预防课程时具有极高号召力：
-> - 与 [[What Works Clearinghouse\|WWC]] 相比，CASEL 更强调**教学法设计与教师培训可获得性**，而 WWC 则更聚焦于微观统计偏差与数据[[Attrition\|流失]]率，体现了专业学科中介与通用因果清算中心的侧重点差异([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 6–8]])。
+> - 与 [[What Works Clearinghouse\|WWC]] 相比，CASEL 更强调**教学法设计与教师培训可获得性**，而 WWC 则更聚焦于微观统计偏差与数据流失率，体现了专业学科中介与通用因果清算中心的侧重点差异([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 6–8]])。
 
 ---
 

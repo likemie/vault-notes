@@ -7,7 +7,7 @@ aliases:
 summary: "指发端于功利主义道德哲学、在硅谷科技界广泛流行的意识形态运动，主张以单一量化指标计算福利最大化；被批评为一种空洞功利主义与非道德避险策略，使科技精英得以披上廉价理想主义外衣以逃避对政治共同体、国家防卫与人生意义的实质承诺。"
 type: concept
 domain: "ethics-of-technology"
-related_count: 19
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Technological Agnosticism]]"
   - "[[Hard Belief]]"
   - "[[Junzi]]"
-  - "[[Bildung]]"
   - "[[Hard Power]]"
   - "[[Technological Republic]]"
   - "[[Civic Rituals]]"
@@ -45,7 +44,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-09
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Effective Altruism
@@ -80,7 +79,7 @@ updated: 2026-10-09
 > |---|---|---|---|
 > | **伦理判准** | 单一量化效用计算与福利最大化 | 仁义礼智信、家国忠诚与实质德性修养 | 捍卫宪政民主与制度理想的坚定意志 |
 > | **共同体态度** | 超脱民族国家边界的抽象全球主义 | 根植于家庭、社会与国家的差序伦理格局 | 明确承担捍卫特定政治共同体与国家安全的责任 |
-> | **应对政治现实** | 以算术慈善回避地缘竞争与制度防卫 | 勇于承担公共治理与政治[[Bildung\|教化]]天职 | 面对地缘安全危机，动用[[Hard Power\|硬实力]]捍卫自由秩序 |
+> | **应对政治现实** | 以算术慈善回避地缘竞争与制度防卫 | 勇于承担公共治理与政治教化天职 | 面对地缘安全危机，动用[[Hard Power\|硬实力]]捍卫自由秩序 |
 > | **潜在危机** | 沦为科技精英免除道德审查的廉价掩护与虚无主义 | 若缺乏法治约束易蜕变为宗族依附 | 若缺乏审慎节制易滑入意识形态教条 |
 
 ---

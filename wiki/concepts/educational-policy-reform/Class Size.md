@@ -8,7 +8,7 @@ alias_reviewed:
 summary: "班级学生人数这一关键教育组织变量，其对教学互动与学业成果的影响不仅取决于人数变化本身，更取决于教师质量、物质资源、教学方式调整以及跨情境测量精度的系统约束。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 55
+related_count: 54
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -39,7 +39,6 @@ related_concepts:
   - "[[Individualised Instruction]]"
   - "[[Effective Teaching]]"
   - "[[Going Native]]"
-  - "[[Document]]"
   - "[[Paradigm]]"
 related_theories: []
 related_methods:
@@ -323,7 +322,7 @@ updated: 2026-10-15
 
 ## 相关研究
 
-本 vault 中围绕班级规模展开的方法学批判、政策实证与跨国观察[[Document|文献]]索引如下。
+本 vault 中围绕班级规模展开的方法学批判、政策实证与跨国观察文献索引如下。
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 针对[[John Hattie|哈蒂]][[Meta-analysis|元分析]]平均值视角的系统批判，系统梳理 STAR、伦敦研究与德州 15 校案例中班级规模与教学法交互的实证证据。

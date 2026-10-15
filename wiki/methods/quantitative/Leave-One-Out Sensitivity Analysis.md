@@ -11,7 +11,7 @@ summary: "元分析与统计建模中基于刀切法（Jackknife）原理的稳�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 22
+method_related_count: 21
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Variable]]"
-  - "[[Document]]"
   - "[[Publication Bias]]"
   - "[[Internal Validity]]"
   - "[[AI Agent in Education]]"
@@ -52,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Leave-One-Out Sensitivity Analysis
@@ -169,7 +168,7 @@ updated: 2026-09-17
 > | 维度 | 留一法敏感性分析（Leave-One-Out） | 亚组敏感性分析（Subgroup Sensitivity） | [[Trim and Fill Method\|剪补法]]（Trim-and-Fill） |
 > |---|---|---|---|
 > | **分析颗粒度** | 单项初级研究（微观逐个扫描） | 研究特征类别（宏观学段/学科/设计） | [[Funnel Plot\|漏斗图]]对称性（总体虚拟填补） |
-> | **核心诊断目标** | 识别单一极端异常值与过度影响力样本 | 检验特定调节[[Variable\|变量]]情境下的效应稳健性 | 评估未发表[[Document\|文献]]造成的[[Publication Bias\|发表偏倚]]程度 |
+> | **核心诊断目标** | 识别单一极端异常值与过度影响力样本 | 检验特定调节[[Variable\|变量]]情境下的效应稳健性 | 评估未发表文献造成的[[Publication Bias\|发表偏倚]]程度 |
 > | **[[Heterogeneity\|异质性]]敏感度** | 能精确定位引起 $\tau^2$ 剧增的单项异源文献 | 仅能按类别对比组间异质性 $Q_B$ | 不以降低真实异质性为主要目标 |
 > | **自动化程度** | 完全自动化迭代，无需人工预设分组 | 依赖研究者预先设定的分组标签 | 依赖非参数迭代算法 |
 
@@ -198,7 +197,7 @@ updated: 2026-09-17
 > |:-----|:-----|:-----|
 > | [[Meta-analysis]] | 上位方法 | 留一法作为元分析全流程质控中的关键敏感性压力测试技术。 |
 > | [[Fixed-Effect and Random-Effects Models]] | 基础模型 | 留一法在每次迭代中调用的核心加权拟合算法。 |
-> | [[Fail-Safe N]] | 互补方法 | 失安全数评估抵御抽屉未发表[[Document\|文献]]的极限容量，留一法检验已纳入文献内部的单点扰动。 |
+> | [[Fail-Safe N]] | 互补方法 | 失安全数评估抵御抽屉未发表文献的极限容量，留一法检验已纳入文献内部的单点扰动。 |
 > | [[Trim and Fill Method]] | 互补方法 | 剪补法针对宏观[[Funnel Plot\|漏斗图]]不对称进行镜像修剪填补，留一法针对微观异常值进行逐项诊断。 |
 > | [[Between-Study Variance]] | 核心统计量 | 留一法每次迭代均重新解构研究间方差 $\tau_{(-i)}^2$，用于识别异质性异源。 |
 > | [[Forest Plot]] | 可视化工具 | 留一法分析结果的标准展示形式（逐项排除森林图）。 |

@@ -83,7 +83,7 @@ OPERA 工具体系将课堂互动解构为四大关联维度。
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
 > |---|---|---|---|
 > | 教学时间与任务类型（Time & Tasks） | 多项分类网格 | 教师讲授、组织讨论、监督练习与非教学空转的时间占比 | 定时切片频次统计与累计百分比 |
-> | 课堂组织与互动结构（Classroom Organization） | 3 项模式 | 全班单向讲授、分组协作及师生一对一问答 | 互动模式发生率[[Coding in Qualitative Research\|编码]] |
+> | 课堂组织与互动结构（Classroom Organization） | 3 项模式 | 全班单向讲授、分组协作及师生一对一问答 | 互动模式发生率编码 |
 > | 课堂言语与[[Discourse\|话语]]形态（Classroom Discourse） | 4 项类别 | 机械重复合唱、封闭事实提问、开放启发讨论及纠错反馈 | 话语回合质性分类统计 |
 > | 学生实际书写与阅读练习（Pupil Engagement） | 3 项指标 | 学生在黑板或本子上的实际书写量、教材使用频率及在轨率 | 任务追踪与样本检查 |
 
@@ -92,7 +92,7 @@ OPERA 工具体系将课堂互动解构为四大关联维度。
 ## 题项与作答方式
 
 > [!instrument-items] 作答规则
-> - **题项形式** 定时互动[[Coding in Qualitative Research|编码]]表格（Observation Grid）与录像深度[[Transcription in Qualitative Research|转录]]规程。
+> - **题项形式** 定时互动编码表格（Observation Grid）与录像深度[[Transcription in Qualitative Research|转录]]规程。
 > - **作答格式** 每隔固定时间间隔（如 1 分钟或 3 分钟）勾选主要活动形态，并同步记录教师提问与学生回应语句。
 > - **反向题与跳题** 无跳题；强调完整记录教学从开场导入到总结练习的全流程。
 

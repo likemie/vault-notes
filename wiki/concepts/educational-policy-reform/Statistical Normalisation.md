@@ -8,10 +8,10 @@ aliases:
 summary: "在循证教育改革与量化政策评估中，指依据高斯正态分布假说，将平均效应量与集中趋势作为衡量干预有效性最高标尺的认识论与治理机制；该机制在方法学上将正态分布两端的异质性个体与极端弱势群体视为可忽略的离群值（Outliers），在治理上迎合追求高性价比（Value for Money）的政治多数派修辞，从而在制度层面造成对边缘学童的系统性忽视并剥夺教师的情境化专业判断权。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 30
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/educational-policy-reform
   - theme/evidence-based-education
@@ -20,7 +20,6 @@ tags:
   - theme/ethics-in-education
 related_concepts:
   - "[[Evidence-Based Education]]"
-  - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Heterogeneity]]"
   - "[[Positivism]]"
@@ -58,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-29
+updated: 2026-10-15
 ---
 
 # Statistical Normalisation
@@ -68,7 +67,7 @@ updated: 2026-09-29
 ## 定义
 
 > [!def] 核心定义
-> **统计正态化（Statistical Normalisation）**在[[Evidence-Based Education\|循证教育]]改革、[[Randomised Controlled Trials\|随机对照实验]]与教育政策量化评估中，指一种以高斯正态分布（Gaussian Normal Distribution）为核心数理[[Hypothesis\|假设]]的[[Epistemology\|认识论]]倾向与政策治理机制。该机制将干预手段在样本群体中所取得的平均[[Effect Size\|效应量]]（Mean Effect Size）与集中趋势视为评判干预是否有效与值得推广的最高金标准；其在技术上将分布曲线两端的极端案例、[[Heterogeneity\|异质性]]个体与处于困境的边缘学生判定为可被滤除的统计学离群值（Outliers），在政治与行政上则包装为追求公共财政物有所值（Value for Money）与立即可用性的功利主义修辞，进而从制度层面剥夺了最脆弱弱势群体的受托权益与教师因材施教的专业伦理裁量权。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 224–227)]]
+> **统计正态化（Statistical Normalisation）**在[[Evidence-Based Education\|循证教育]]改革、[[Randomised Controlled Trials\|随机对照实验]]与教育政策量化评估中，指一种以高斯正态分布（Gaussian Normal Distribution）为核心数理假设的[[Epistemology\|认识论]]倾向与政策治理机制。该机制将干预手段在样本群体中所取得的平均[[Effect Size\|效应量]]（Mean Effect Size）与集中趋势视为评判干预是否有效与值得推广的最高金标准；其在技术上将分布曲线两端的极端案例、[[Heterogeneity\|异质性]]个体与处于困境的边缘学生判定为可被滤除的统计学离群值（Outliers），在政治与行政上则包装为追求公共财政物有所值（Value for Money）与立即可用性的功利主义修辞，进而从制度层面剥夺了最脆弱弱势群体的受托权益与教师因材施教的专业伦理裁量权。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 224–227)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向[[Positivism\|实证主义]]量化[[Paradigm\|范式]]在教育决策中对钟形正态分布假说的教条化崇拜，以及对均值以外异质个体的统计性消解。

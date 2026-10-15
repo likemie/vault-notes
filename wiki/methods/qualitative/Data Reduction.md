@@ -79,7 +79,7 @@ updated: 2026-09-17
 > *One of the enduring problems of qualitative data analysis is how to reduce large amounts of written data to manageable and understandable proportions whilst preserving their essential qualities. Data reduction is a core pillar of qualitative data analysis.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Winnowing\|数据筛选]] — Winnowing（Creswell 框架）主要指在[[Coding in Qualitative Research\|编码]]后期选择聚焦少数核心主题、略去非核心细节的选择性过滤；数据缩减（Miles & Huberman 框架）则是一个贯穿研究设计、数据采集、转录编码与模型建构的持续转化与分析流。
+> - 不等于 [[Winnowing\|数据筛选]] — Winnowing（Creswell 框架）主要指在编码后期选择聚焦少数核心主题、略去非核心细节的选择性过滤；数据缩减（Miles & Huberman 框架）则是一个贯穿研究设计、数据采集、转录编码与模型建构的持续转化与分析流。
 > - 不等于 随意删减或数据损耗 — 缩减过程受[[Research Question\|研究问题]]和[[Theoretical Perspective\|理论视角]]引导，须通过审核追踪（audit trail）确保缩减决策可追溯、可审计。
 
 ---
@@ -100,7 +100,7 @@ updated: 2026-09-17
 
 > [!feature] 数据缩减的四大演进要素
 > - **前期预缩减（Anticipatory Reduction）** 在数据收集前即已自发启动，通过[[Research Question\|研究问题]]选定、概念框架确立、个案与抽样边界界定、[[Interview Protocol\|访谈提纲]]编制等先验决策，对潜在数据范围施加首次结构性缩减。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|(Cohen et al., 2011, p. 537)]]
-> - **过程单位化与粗[[Coding in Qualitative Research\|编码]]（Unitizing and Coarse Coding）** 将连贯连续文本划分为可独立分析的意义单元（Lincoln & Guba, 1985），剔除冗余修辞并赋予宽泛的描述性代码（Bogdan & Biklen, 1992），实现第一波文本密度压缩。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 560)]]
+> - **过程单位化与粗编码（Unitizing and Coarse Coding）** 将连贯连续文本划分为可独立分析的意义单元（Lincoln & Guba, 1985），剔除冗余修辞并赋予宽泛的描述性代码（Bogdan & Biklen, 1992），实现第一波文本密度压缩。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 560)]]
 > - **层级归并与范畴化（Hierarchical Subsumption and Categorization）** 依据类属相似性或逻辑包含关系将粗编码不断合并归拢（Gibbs, 2007），控制层级树深度，将数以百计的原始代码收敛为少数[[Central Phenomenon\|核心范畴]]及其维度属性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 562)]]
 > - **展示性浓缩与质性计数（Display-driven Condensation and Counting）** 借助矩阵、网络图、频数统计单（Weber, 1990）与因果链，将庞杂叙述转换为高信息密度的视觉结构，支持横向交叉对比与整体推论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|(Cohen et al., 2011, p. 538)]]
 
@@ -130,7 +130,7 @@ updated: 2026-09-17
 > 探讨质性数据缩减的时间维度，强调缩减不仅是收集后的文本删剪，而是在研究设想、[[Qualitative Observation\|田野观察]]、记录重构与分析推论中始终在场的分析活动。
 
 > [!claim] Miles & Huberman
-> **全周期分析流判定** Miles 与 Huberman 论证指出，数据缩减不是独立于分析的预备步骤，其本身就是分析的核心组成部分。在研究者实际收集数据之前，通过选定概念框架、界定[[Research Question\|研究问题]]、筛选个案样本与设计访谈工具，预见性数据缩减（anticipatory data reduction）就已经悄然发生；在田野进行期间，通过撰写现场摘要、即时备忘录、挑选题材深化追踪，缩减持续推进；而在田野结束后，通过单位化切分、[[Coding in Qualitative Research\|编码]]重组、范畴抽象与建立矩阵，缩减工作一直延续至最终报告产出。因此，数据缩减是[[Qualitative Research\|质性研究]]者不可回避的主动认知决策过程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|(Cohen et al., 2011, p. 537)]]
+> **全周期分析流判定** Miles 与 Huberman 论证指出，数据缩减不是独立于分析的预备步骤，其本身就是分析的核心组成部分。在研究者实际收集数据之前，通过选定概念框架、界定[[Research Question\|研究问题]]、筛选个案样本与设计访谈工具，预见性数据缩减（anticipatory data reduction）就已经悄然发生；在田野进行期间，通过撰写现场摘要、即时备忘录、挑选题材深化追踪，缩减持续推进；而在田野结束后，通过单位化切分、编码重组、范畴抽象与建立矩阵，缩减工作一直延续至最终报告产出。因此，数据缩减是[[Qualitative Research\|质性研究]]者不可回避的主动认知决策过程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|(Cohen et al., 2011, p. 537)]]
 
 ---
 
@@ -162,7 +162,7 @@ updated: 2026-09-17
 > [!dev-timeline] 概念演变
 > - **1976 — 渐进聚焦的萌芽** Hamilton（1976）与 Parlett & Hamilton（1976）在阐释阐明性评价时提出渐进聚焦原则，主张质性探究应随着田野深入逐步收敛焦点，构成了质性数据在场缩减的最早方法论雏形。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|(Cohen et al., 2011, p. 535)]]
 > - **1984/1994 — 交互分析流模型的奠基** Miles & Huberman 提出质性数据分析的三联交互框架（数据缩减、[[Data Display\|数据展示]]、结论得出/验证），首次将“数据缩减”确立为正当、系统、全生命周期的方法论核心概念，打破了只有量化才能缩减数据的偏见。
-> - **2007 — 缩减与膨胀的双向张力反思** Gibbs（2007）对单一的缩减说提出学理修正，指出质性分析在[[Coding in Qualitative Research\|编码]]、反思备忘录与理论阐释阶段往往伴随着材料体量与复杂度的局部膨胀（expansion），数据缩减与解释膨胀共同构成了分析的动态循环。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 562)]]
+> - **2007 — 缩减与膨胀的双向张力反思** Gibbs（2007）对单一的缩减说提出学理修正，指出质性分析在编码、反思备忘录与理论阐释阶段往往伴随着材料体量与复杂度的局部膨胀（expansion），数据缩减与解释膨胀共同构成了分析的动态循环。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 562)]]
 > - **2011 — 教育研究多[[Meta-analysis\|元分析]]体系的整合** Cohen、Manion & Morrison 将数据缩减与矩阵展示、[[Content Analysis\|内容分析]]11步流程深度整合，以学校教育中的大量实证案例系统示范了质性数据缩减的[[Operationalization\|操作化]]路径。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29\|(Cohen et al., 2011, p. 537)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 559)]]
 
 ---
@@ -178,7 +178,7 @@ updated: 2026-09-17
 > > - **Gibbs** 指出质性分析并非单纯的单向缩减过程；在进行深层诠释、[[Reflexivity\|反身性]]思考和备忘录撰写时，分析材料的体量与认知密度往往会出现显著膨胀。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 562)]]
 
 > [!warning] 适用局限
-> - **离散切片的去情境化风险** 过度激进的文本切分（unitizing）和孤立[[Coding in Qualitative Research\|编码]]容易剥离受访者言语的情境脉络与叙事时序连贯性，导致碎片化代码丧失整体意义。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 562)]]
+> - **离散切片的去情境化风险** 过度激进的文本切分（unitizing）和孤立编码容易剥离受访者言语的情境脉络与叙事时序连贯性，导致碎片化代码丧失整体意义。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 562)]]
 > - **伪[[Positivism\|实证主义]]量化陷阱** 将缩减等同于粗糙的频数计数或词频统计，容易使质性分析退化为缺乏理论深度的伪量化指标，忽视文本背后的隐喻、情感与权力关系。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 564)]]
 
 ---
@@ -186,6 +186,6 @@ updated: 2026-09-17
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011, Ch. 30)]] — 将数据缩减确立为质性分析的核心支柱，系统阐述[[Qualitative Content Analysis\|质性内容分析]]的 11 步规程与[[Coding in Qualitative Research\|编码]]技术，论证如何借助单位化、层级归并与频数统计单实现高保真数据缩减。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011, Ch. 30)]] — 将数据缩减确立为质性分析的核心支柱，系统阐述[[Qualitative Content Analysis\|质性内容分析]]的 11 步规程与编码技术，论证如何借助单位化、层级归并与频数统计单实现高保真数据缩减。
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 阐释质性[[Winnowing\|数据筛选]]（Winnowing）机制，论述在面对密集文本与图像时如何进行结构性过滤，将海量资料聚焦提炼为少数核心主题。
 > - [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015)]] — 详述质性资料从[[Open Coding\|初始编码]]、[[Axial Coding\|轴心编码]]到聚焦与[[Selective Coding\|选择性编码]]的多阶段浓缩提炼过程，示范如何在教育研究中逐步收拢范畴并建立理论连贯性。

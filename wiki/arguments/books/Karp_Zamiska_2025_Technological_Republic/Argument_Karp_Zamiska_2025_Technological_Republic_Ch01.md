@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch01"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch01"
 argument_display_title: "Lost valley"
 argument_kind: "book-chapter"
-argument_related_count: 39
+argument_related_count: 38
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -41,7 +41,6 @@ related_concepts:
   - "[[Star Scientists]]"
   - "[[Intellectual Capital]]"
   - "[[Techno-Utopianism]]"
-  - "[[Attrition]]"
   - "[[Other Transaction Authority]]"
   - "[[Artificial General Intelligence]]"
   - "[[Red Tape]]"
@@ -243,7 +242,7 @@ updated: 2026-10-08
 > | 理论依据 | 分析维度与提问 | 可观察线索与材料 | 判读规则与边界 |
 > |:---|:---|:---|:---|
 > | **公众期望与制度承诺**<br>(Plant, 1982) | 资本主义演进是否推高了大众对公共品供给的刚性预期？ | 大众对公共安全、高质量健康医疗与现代公共服务的刚性诉求 | 生产力增长必须转化为满足公众可普遍化利益的公共产品 |
-> | **私人利益与公共利益脱节**<br>(Habermas, 1975) | 技术红利是否被狭隘的私人商业目标完全垄断？ | 硅谷巨额利润集中于广告变现，公共部门沦为[[Innovation Desert\|创新荒漠]] | 当技术增长脱离全人口普遍利益时，行政系统将面临大众忠诚[[Attrition\|流失]]（pp. 8–9） |
+> | **私人利益与公共利益脱节**<br>(Habermas, 1975) | 技术红利是否被狭隘的私人商业目标完全垄断？ | 硅谷巨额利润集中于广告变现，公共部门沦为[[Innovation Desert\|创新荒漠]] | 当技术增长脱离全人口普遍利益时，行政系统将面临大众忠诚流失（pp. 8–9） |
 > | **技术供给效能维系合法性**<br>([[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp & Zamiska, 2025]]) | 国家能否利用前沿软件与 AI 解决核心治理挑战？ | 国防智能采办滞后、医疗与教育基础设施软件化不足 | 选民可原谅偶发政治过错，但绝不原谅核心公共品供给的系统性技术无能（p. 11） |
 
 > [!contrast-table] 传统动能战争范式 vs. 现代软件与人工智能战争范式

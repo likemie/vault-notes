@@ -13,7 +13,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 34
+fact_related_count: 33
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -32,10 +32,9 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Paradigm]]"
   - "[[Development Education]]"
-  - "[[Attrition]]"
-  - "[[Hypothesis]]"
   - "[[Scientific Method]]"
   - "[[International Education]]"
+  - "[[Hypothesis]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Soft Power]]"
   - "[[Technical Rationality]]"
@@ -70,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-08
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # International Institute for Educational Planning
@@ -120,7 +119,7 @@ updated: 2026-10-12
 > [!finding-cards] 核心产品与业务矩阵
 > - **普世危机叙事与理论经典** 库姆斯《世界教育危机》（1968）开辟了以系统论审视教育供需失衡的经典[[Analytic Framework\|分析框架]]。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 > - **国家教育规划基础丛书** 连续出版百余种《教育规划基础》（*Fundamentals of Educational Planning*）权威专著，覆盖成本核算、课程资源分配、教师供需平衡等多维专题。
-> - **教育反腐败与伦理平台（ETICO）** 设立全球教育反腐与透明治理知识资源库，指导各国治理教育腐败、文凭造假与资源[[Attrition\|流失]]。
+> - **教育反腐败与伦理平台（ETICO）** 设立全球教育反腐与透明治理知识资源库，指导各国治理教育腐败、文凭造假与资源流失。
 > - **危机与应急规划指南** 研制涵盖流离失所儿童教育保护、冲突后学校重建与公共卫生危机下的韧性教育规划导则。
 
 > [!citation-card] 库姆斯论教育规划系统危机与国际通用属性
@@ -129,9 +128,9 @@ updated: 2026-10-12
 > *Educational planning must be seen as more than a set of mechanical techniques; it is a dynamic, continuous process of rational adjustment to changing economic and social realities... without qualitative reform and balanced resource allocation, the rapid expansion of educational systems threatens to provoke a worldwide crisis.* (Coombs, 1968; 引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 422]]; [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024, p. 542]])
 
 > [!citation-card] 马修论战后国家规划理性与技术官僚科学渴求
-> 战后国家深信依托严谨观察、实证[[Hypothesis\|假设]]检验与精确测量的社会[[Scientific Method\|科学方法]]是确保公共政策效率的唯一可靠途径；数以百计的专家（包括比较教育学者）纷纷加入各国教育部以及[[UNESCO\|联合国教科文组织]][[International Education\|国际教育]]规划研究所等跨国机构，试图为国家五年计划编制科学蓝图。
+> 战后国家深信依托严谨观察、实证假设检验与精确测量的社会[[Scientific Method\|科学方法]]是确保公共政策效率的唯一可靠途径；数以百计的专家（包括比较教育学者）纷纷加入各国教育部以及[[UNESCO\|联合国教科文组织]][[International Education\|国际教育]]规划研究所等跨国机构，试图为国家五年计划编制科学蓝图。
 >
-> *Firmly believing that the social science approach based on rigorous observation, empirical testing of hypotheses and accurate measurements was the only way to ensure efficiency, scores of experts, comparative educationists among them, joined ministries and international institutes like UNESCO's IIEP, in an attempt to elaborate national educational plans.* ([[Argument_Mattheou_2009_ScientificParadigm\|Mattheou, 2009, p. 61]]; 引自 [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou, 2009]])
+> *Firmly believing that the social science approach based on rigorous observation, empirical testing of [[Hypothesis|hypotheses]] and accurate measurements was the only way to ensure efficiency, scores of experts, comparative educationists among them, joined ministries and international institutes like UNESCO's IIEP, in an attempt to elaborate national educational plans.* ([[Argument_Mattheou_2009_ScientificParadigm\|Mattheou, 2009, p. 61]]; 引自 [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou, 2009]])
 
 ---
 

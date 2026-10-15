@@ -9,9 +9,9 @@ summary: "扎根理论质性数据分析的三级编码枢纽，在开放编码�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 33
-method_related_level: 4
-method_related_stars: "⭐⭐⭐⭐"
+method_related_count: 31
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
-  - "[[Document]]"
   - "[[Causality]]"
   - "[[Meaningful Human Control]]"
   - "[[Scaffolding]]"
@@ -36,7 +35,6 @@ related_concepts:
   - "[[Generative Artificial Intelligence]]"
 related_theories: []
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Grounded Theory]]"
   - "[[Open Coding]]"
   - "[[Selective Coding]]"
@@ -61,7 +59,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-09-26
+updated: 2026-10-15
 ---
 
 # Axial Coding
@@ -71,7 +69,7 @@ updated: 2026-09-26
 ## 定义
 
 > [!def] 方法定义
-> **主轴[[Coding in Qualitative Research\|编码]]（Axial Coding，又称轴心编码、枢轴编码）** 是[[Grounded Theory\|扎根理论]]质性数据分析的核心分析阶梯之一：在初级[[Open Coding\|开放编码]]将原始文本细化切片并确立概念属性与维度连续统之后，围绕一个轴心范畴（axis category）重新拼装和组织碎化数据，建立范畴内部子群以及不同范畴之间的有机联结（Strauss & Corbin, 1990, pp. 96–106；Flick, 2009, pp. 305–332；[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, pp. 561–562]]）。主轴编码将开放编码生成的静态范畴转化为包含因果条件、情境脉络、中介条件、[[Central Phenomenon\|核心现象]]、行动互动策略与实质结果的动态关系模型，是通往[[Selective Coding\|选择性编码]]和提炼统摄性核心理论的决定性枢纽。
+> **主轴编码（Axial Coding，又称轴心编码、枢轴编码）** 是[[Grounded Theory\|扎根理论]]质性数据分析的核心分析阶梯之一：在初级[[Open Coding\|开放编码]]将原始文本细化切片并确立概念属性与维度连续统之后，围绕一个轴心范畴（axis category）重新拼装和组织碎化数据，建立范畴内部子群以及不同范畴之间的有机联结（Strauss & Corbin, 1990, pp. 96–106；Flick, 2009, pp. 305–332；[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, pp. 561–562]]）。主轴编码将开放编码生成的静态范畴转化为包含因果条件、情境脉络、中介条件、[[Central Phenomenon\|核心现象]]、行动互动策略与实质结果的动态关系模型，是通往[[Selective Coding\|选择性编码]]和提炼统摄性核心理论的决定性枢纽。
 
 > [!method-scope] 方法范围
 > - **研究对象** 经开放编码初筛与概念化提炼的访谈[[Transcription in Qualitative Research\|转录]]稿片段、观察手记、[[Reflexivity\|反思性]]备忘录与田野档案。
@@ -89,14 +87,14 @@ updated: 2026-09-26
 ## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
-> - **知识观** 经验世界中的社会现象并非孤立离散的概念点，而是内嵌于具体情境、受制度与物质条件制约的行动互动网络；主轴[[Coding in Qualitative Research\|编码]]主张知识的生成有赖于揭示现象内部的结构性与过程性因果关联。
+> - **知识观** 经验世界中的社会现象并非孤立离散的概念点，而是内嵌于具体情境、受制度与物质条件制约的行动互动网络；主轴编码主张知识的生成有赖于揭示现象内部的结构性与过程性因果关联。
 > - **研究者角色** 研究者是理论建构的主动编织者，需同时保持理论敏感度与经验扎根性，运用系统性提问技巧和常驻比较机制，防止过早封闭理论框架。
 > - **有效性标准** 范畴联结的理论密实度（conceptual density）、条件-策略-结果逻辑链条的内在一致性，以及能够经受原始经验数据反向核对的理论拟合度。
 > - **不声称回答的问题** 主轴编码本身并不直接确立唯一的最终核心理论（该任务由[[Selective Coding\|选择性编码]]完成），亦不脱离质性情境追求[[Positivism\|实证主义]]的普遍统计因果律。
 
 > [!method-stack] 方法层级
 > - **研究设计** [[Grounded Theory\|扎根理论]]（施特劳斯学派）、质性[[Case Study\|案例研究]]、[[Process Tracing|过程追踪分析]]。
-> - **数据收集** 半结构化[[In-depth Interview\|深度访谈]]、[[Participant Observation\|参与观察]]记录、[[Reflexivity\|反思性]]自述、组织[[Document\|文献]]。
+> - **数据收集** 半结构化[[In-depth Interview\|深度访谈]]、[[Participant Observation\|参与观察]]记录、[[Reflexivity\|反思性]]自述、组织文献。
 > - **分析方法** [[Open Coding\|开放编码]]、[[Paradigm\|范式]]模型匹配、[[Constant Comparison\|持续比较法]]、属性维度化展开、[[Domain Analysis\|领域分析]]。
 > - **辅助技术** 质性分析软件（[[Qualitative Computer Software\|CAQDAS]]）网络视图模型、[[Causality\|因果关系]]图、理论备忘录（[[Memos]]）、大语言模型[[Meaningful Human Control|人在回路]]（HITL）关系矩阵抽取。
 
@@ -104,7 +102,7 @@ updated: 2026-09-26
 
 ## 概念辨析
 
-在[[Grounded Theory|扎根理论]]的抽象阶梯中，[[Open Coding|开放编码]]、主轴[[Coding in Qualitative Research|编码]]与[[Selective Coding|选择性编码]]构成了层层递进的分析谱系（Strauss & Corbin, 1990；[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 561–562]]）：
+在[[Grounded Theory|扎根理论]]的抽象阶梯中，[[Open Coding|开放编码]]、主轴编码与[[Selective Coding|选择性编码]]构成了层层递进的分析谱系（Strauss & Corbin, 1990；[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 561–562]]）：
 
 > [!contrast-table] 扎根理论三级编码阶梯辨析
 > | 维度 | 开放编码（Open Coding） | 主轴编码（Axial Coding） | 选择性编码（Selective Coding） |
@@ -119,7 +117,7 @@ updated: 2026-09-26
 
 ## 核心机制：六要素范式模型
 
-施特劳斯与科宾（Anselm Strauss & Juliet Corbin, 1990）确立的经典六要素[[Paradigm|范式]]模型，是主轴[[Coding in Qualitative Research|编码]]最核心的分析[[Scaffolding|脚手架]]，将经验材料从横向脉络与纵向行动两个向度整合为自洽网络（Buckley & Waring, 2009；[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 561]]）：
+施特劳斯与科宾（Anselm Strauss & Juliet Corbin, 1990）确立的经典六要素[[Paradigm|范式]]模型，是主轴编码最核心的分析[[Scaffolding|脚手架]]，将经验材料从横向脉络与纵向行动两个向度整合为自洽网络（Buckley & Waring, 2009；[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 561]]）：
 
 > [!layer] 主轴编码的六要素范式模型（Strauss & Corbin, 1990, pp. 100–106）
 >
@@ -169,7 +167,7 @@ updated: 2026-09-26
 > | 研究者位置 | 作为具备理论敏感度的解释者，持续运用反思备忘录（[[Memos]]）监控主观强加偏误。 |
 > | 资料边界 | 以轴心范畴达到经验密实度为标准，持续回溯原始文本直至新数据不再提供新增属性。 |
 
-> [!proc] 主轴[[Coding in Qualitative Research\|编码]]四阶段标准化实操规程
+> [!proc] 主轴编码四阶段标准化实操规程
 > 1. **轴心范畴锁定与维度化锚定** 从[[Open Coding\|开放编码]]形成的范畴清单中，挑选具有高概括力、丰富经验支撑与深层理论潜力的范畴作为轴心，细化其属性及在维度连续统上的分布。
 > 2. **六要素[[Paradigm\|范式]]模型匹配与要素填充** 围绕轴心范畴提出系统性追问（谁参与、何处发生、出于何种动因、采取何种策略、造成何种后果），将相关次级范畴分别归入因果条件、情境、中介条件、行动策略与结果。
 > 3. **维度水平上的范畴交叉关联** 在属性与维度水平上建立范畴间的精准关联（例如：在“学校管理失控度极高”的情境脉络下，“教师专业标准妥协”这一行动策略将直接引发“躯体化自毁行为”这一严重后果）。
@@ -181,7 +179,7 @@ updated: 2026-09-26
 
 巴克利与沃林（Buckley & Waring, 2009）在关于英国中小学儿童身体活动（Physical Activity）的质性探究中，系统展示了如何运用六要素模型将碎化的观察与访谈数据拼装为有机分析结构（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, p. 561]]）：
 
-> [!case] Buckley & Waring（2009）儿童身体活动主轴[[Coding in Qualitative Research\|编码]]范例
+> [!case] Buckley & Waring（2009）儿童身体活动主轴编码范例
 > - **[[Central Phenomenon\|核心现象]]** 儿童对体育课与课间身体活动的参与程度及态度模式。
 > - **因果条件** 同伴群体压力、家庭运动习惯、个人体育能力[[Self-Efficacy\|自我效能感]]。
 > - **情境脉络** 校园操场空间布局、气象条件、课程时间表安排。
@@ -195,7 +193,7 @@ updated: 2026-09-26
 
 ### 经典扎根与施特劳斯学派的大分裂
 
-围绕主轴[[Coding in Qualitative Research|编码]]和[[Paradigm|范式]]模型的合法性，[[Grounded Theory|扎根理论]]两位创始人之间爆发了著名的学术争鸣（Glaser, 1992；Strauss & Corbin, 1990）：
+围绕主轴编码和[[Paradigm|范式]]模型的合法性，[[Grounded Theory|扎根理论]]两位创始人之间爆发了著名的学术争鸣（Glaser, 1992；Strauss & Corbin, 1990）：
 
 > [!tension] 范式模型预设 vs 经验归纳[[Emergence\|涌现]]的理论张力
 > - **经典涌现论（Glaser, 1992）** 格拉瑟（Barney Glaser）严厉批评六要素范式模型带有过度的人为先验强加（forcing）。他认为这套机械化的模式将多样化的现实强行套入预设框架，违背了扎根理论从数据中无偏见纯粹涌现（emergence）的哲学初衷。
@@ -213,6 +211,6 @@ updated: 2026-09-26
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] 经典理论与方法[[Document\|文献]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen, Manion & Morrison (2011)]] — 详述主轴[[Coding in Qualitative Research\|编码]]在[[Grounded Theory\|扎根理论]]编码阶梯中的枢纽定位，系统解析六要素[[Paradigm\|范式]]模型与儿童身体活动实证建模范例（Ch. 30）。
+> [!evidence-grid-a] 经典理论与方法文献索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen, Manion & Morrison (2011)]] — 详述主轴编码在[[Grounded Theory\|扎根理论]]编码阶梯中的枢纽定位，系统解析六要素[[Paradigm\|范式]]模型与儿童身体活动实证建模范例（Ch. 30）。
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 将主轴编码定位为系统化质性分析中连接[[Open Coding\|开放编码]]范畴与叙事[[Story Line\|故事线]]解释的核心分析步骤（Ch. 9）。

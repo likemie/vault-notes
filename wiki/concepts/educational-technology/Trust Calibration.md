@@ -10,7 +10,7 @@ aliases:
 summary: "人类操作者对自动化与智能系统赋予的主观信任水平与系统客观实际能力及情境边界相匹配的动态平衡状态，其失调（过度信任）是诱发认识论顺从与强自动化偏差的根本根源。"
 type: concept
 domain: "educational-technology"
-related_count: 23
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -36,7 +36,6 @@ related_concepts:
   - "[[Epistemic Deference]]"
   - "[[Scaffolding]]"
   - "[[Evaluative Judgement]]"
-  - "[[Document]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Trust Calibration
@@ -155,7 +154,7 @@ updated: 2026-10-10
 > [!dev-timeline] 信任校准概念的演变历程
 > - **1980s–1990s — 工效学与自动化信任奠基** Bonnie Muir (1987) 首次将社会心理学信任理论引入人机系统，界定信任校准为操作者主观信任与机器客观[[Reliability|可靠性]]（Reliability）的吻合度。
 > - **2004 — 动态信任框架与适当依赖模型** John D. Lee & Katrina A. See (2004) 在 *Human Factors* 发表里程碑综述，构建“信息—信念—信任—依赖”动态回路，系统辨析过度信任（Overtrust）与信任不足（Distrust）的促发机制。
-> - **2015 — 信任影响因素的多层三元整合** Kevin Anthony Hoff & Masooda Bashir (2015) 整合实证[[Document|文献]]，提出倾向性信任（Dispositional）、情境性信任（Situational）与习得性信任（Learned）的三层分析模型。
+> - **2015 — 信任影响因素的多层三元整合** Kevin Anthony Hoff & Masooda Bashir (2015) 整合实证文献，提出倾向性信任（Dispositional）、情境性信任（Situational）与习得性信任（Learned）的三层分析模型。
 > - **2026 — 社会[[Epistemology|认识论]]转向与客观理由确证** [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] 将信任校准从心理测量与行为工效学拓展至规范认识论，论证过度信任向[[Epistemic Deference|认识论顺从]]转化的因果路径，确立自信解耦机制，并提出利用[[Defeater|击败者]]与反思机器校准批判性信任的交互架构。
 
 ---

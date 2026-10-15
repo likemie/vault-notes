@@ -9,7 +9,7 @@ aliases:
 summary: "20世纪美国高等教育中作为核心通识仪式的西方文明经典课程体系，旨在建构共同公民身份与公民宗教，后在多元解构批判中被广泛废除"
 type: concept
 domain: "curriculum"
-related_count: 13
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,7 +22,6 @@ tags:
 related_concepts:
   - "[[Civic Religion]]"
   - "[[Canon Wars]]"
-  - "[[Hypothesis]]"
   - "[[Grand Theory]]"
   - "[[Technological Agnosticism]]"
 related_theories: []
@@ -42,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Western Civilization Course
@@ -82,7 +81,7 @@ updated: 2026-10-08
 > [!contrast-table] 西方文明通识课程的两大阵营立场对比
 > | 比较维度 | 传统正典派（如 [[William H. McNeill\|威廉·麦克尼尔]]） | 批判解构派（如 [[Fredric L. Cheyette\|切耶特]]、[[Kwame Anthony Appiah\|阿皮亚]]） |
 > |---|---|---|
-> | **核心[[Hypothesis\|假设]]** | 西方文明存在一脉相承的思想演进脉络与自由法治宪政成果 | “西方文明”是19世纪末生硬编织、缺乏内在连贯性的[[Grand Theory\|宏大叙事]]神话 |
+> | **核心假设** | 西方文明存在一脉相承的思想演进脉络与自由法治宪政成果 | “西方文明”是19世纪末生硬编织、缺乏内在连贯性的[[Grand Theory\|宏大叙事]]神话 |
 > | **教育目的** | 培育共同公民身份与[[Civic Religion\|公民宗教]]，抵御道德相对主义 | 破除欧洲中心主义与排他性，展现复数多元的历史经验与边缘声音 |
 > | **选目机制** | 围绕经受历史检验的核心哲人与制度文本构建共同理性基础 | 选目具有主观武断性与编辑特权，掩盖了被遮蔽与压迫群体的历史 |
 > | **历史后果** | 废除课程导致国家共同体认同软化与公共精神空洞化 | 拆解正典消除了殖民特权傲慢，但在废墟上未能确立替代性实质价值 |

@@ -8,7 +8,7 @@ aliases:
 summary: "企业通过设立独立风险投资基金对初创企业进行股权投资的协同创新机制。决策时同时应用战略对齐与财务回报双重标准，既充当企业防范外部颠覆性创新与获取前沿技术洞察的战略雷达，又因其偏好后期阶段、成熟团队与高技术就绪度（TRL），与大学早期衍生企业存在系统性错配。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 21
+related_count: 20
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Sponsored Research Agreement]]"
   - "[[Non-dilutive Funding]]"
   - "[[Paradigm]]"
-  - "[[Document]]"
   - "[[Corporate R&D Labs]]"
   - "[[Variable]]"
   - "[[Research Universities]]"
@@ -48,7 +47,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-05-29
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Corporate Venture Capital
@@ -154,7 +153,7 @@ updated: 2026-10-12
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者与[[Document\|文献]] |
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
 > | **资本错配命题** | CVC 的双重标准、成熟团队要求与 TRL 门槛导致其与大学早期衍生企业系统性脱节 | 早期高校科研成果商业化、种子前阶段大学衍生企业融资 | [[Argument_Gilison_Wilson_2025_UniversityStartups\|Gilison & Wilson (2025, pp. 144–146)]] |
 > | **战略防御命题** | CVC 作为外部初创与并购路径的战略雷达，防范企业内部研发惯性引发的颠覆性技术危机 | 高科技成熟企业科研成果转化、防范如 Google PageRank 式的产业颠覆 | [[Argument_Ramming_2025_CorporateSupport\|Ramming (2025, pp. 232–233)]] |

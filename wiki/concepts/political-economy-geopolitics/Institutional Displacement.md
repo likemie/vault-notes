@@ -7,7 +7,7 @@ aliases:
 summary: "历史制度主义与比较政治经济学中的制度变迁核心机制；指通过废除、取消或边缘化既有规则并引入全新规则体系的过程；既包含关键节点上的突发性体制颠覆，也涵盖边缘竞争性新体制通过持续吸引背叛与资源转移、最终累积挤出并彻底取代旧体制的渐进替代过程。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 21
+related_count: 20
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Opportunists]]"
   - "[[Liberalization]]"
   - "[[Paradigm]]"
-  - "[[Document]]"
 related_theories:
   - "[[Historical Institutionalism]]"
   - "[[Theory of Gradual Institutional Change]]"
@@ -46,7 +45,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-15
 ---
 
 # Institutional Displacement
@@ -159,7 +158,7 @@ updated: 2026-10-11
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1980年代–1990年代 — 间断均衡与外生更替[[Paradigm|范式]]** 早期新制度主义[[Document|文献]]普遍将制度更替界定为外生重大冲击（战争、经济大萧条）摧毁既有制度垄断后的激进外生替代（Punctuated Equilibrium）。
+> - **1980年代–1990年代 — 间断均衡与外生更替[[Paradigm|范式]]** 早期新制度主义文献普遍将制度更替界定为外生重大冲击（战争、经济大萧条）摧毁既有制度垄断后的激进外生替代（Punctuated Equilibrium）。
 > - **2005年 — [[Wolfgang Streeck|施特雷克]]与希伦开启内生类型学探讨** 沃尔夫冈·施特雷克（Wolfgang Streeck）与[[Kathleen Thelen|凯瑟琳·希伦]]（Kathleen Thelen）在《超越延续性》（*Beyond Continuity*）导论中首次系统界定置换（Displacement）机制，指出边缘新规则如何通过背叛（Defection）与入侵（Invasion）逐步挤出旧规则并实现质变。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 19–24)]]
 > - **2009年 — [[James Mahoney|马奥尼]]与希伦建构因果矩阵与行动者模型** 马奥尼与希伦在《解释制度变迁》中系统界定置换在弱否决、低裁量语境下的因果机制，将[[Insurrectionaries|起义者]]确立为主导变革主体，确立双轨竞争置换模型。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 15–16, 23–24)]]
 

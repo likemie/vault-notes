@@ -6,7 +6,7 @@ aliases:
 summary: "一种将认知科学发现与算法技术设计深度整合的跨学科治理范式，由Lewandowsky等学者提出并在Burns & Schuller（2022）教育中介研究中被倡导，旨在超越单纯提供更多科学事实的传统理性假设，通过算法事实核查、自动化虚假信息预警以及扩大推荐内容多样性来主动阻断后真相时代的网络回音室与反科学偏见。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,7 +17,6 @@ tags:
   - theme/misinformation
 related_concepts:
   - "[[Educational Brokerage Agency]]"
-  - "[[Hypothesis]]"
   - "[[Deficit Model of Science Communication]]"
   - "[[Value Neutrality]]"
   - "[[Falsification]]"
@@ -39,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-09-24
+updated: 2026-10-15
 ---
 
 # Technocognition
@@ -52,7 +51,7 @@ updated: 2026-09-24
 > 技术认知法（Technocognition）是一种将**认知科学（Cognitive Science）**关于人类记忆、偏见防卫与信息加工的心理规律，与**技术架构设计（Design & Technology）**（如推荐算法、事实核查与交互提示）深度结合的跨学科治理方法。该范式由认知心理学家 Stephan Lewandowsky 等人（2017）提出，并在 [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] 反思后真相时代[[Educational Brokerage Agency\|教育中介机构]]角色的研究中被明确确立为应对算法茧房与科学公信力危机的根本治理进路。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 69]])
 
 > [!concept-lens] 概念透镜
-> - **含义** 告别“只要提供更多客观证据就能消除错误偏见”的启蒙式古典理性[[Hypothesis\|假设]]，转向在算法技术底层植入认知免疫与主动纠偏机制。
+> - **含义** 告别“只要提供更多客观证据就能消除错误偏见”的启蒙式古典理性假设，转向在算法技术底层植入认知免疫与主动纠偏机制。
 > - **用途** 帮助研究者透视为何在社交网络算法高度极化的后真相时代，单纯增加教育科研产出与常规培训无法遏止虚假信息扩散，甚至会诱发反弹；进而为知识中介机构的技术化转型提供设计工具。
 > - **边界** 它不等于单纯的代码开发或平台算法审查，也不等于纯粹的个体心理学培训，而是要求认知科学理论对技术架构规则的直接结构化映射。
 
@@ -71,7 +70,7 @@ updated: 2026-09-24
 > | **对信息危机的诊断** | 算法回音室与认知心理防卫机制共振 | 用户缺乏渠道或缺乏专业素养（知识赤字） | 平台代码缺陷或缺乏行政强制过滤 |
 > | **核心干预逻辑** | 结合认知规律设计算法（预先接种与茧房破壁） | 增加报告供给、通俗摘要与科研培训 | 关键词封禁、人工删帖与刚性限流 |
 > | **中介机构的角色** | 主动技术认知介入者（如 [[Education Media Centre\|EMC]] 快速事实核查） | 被动的证据货架与分发仓库 | 行政监管执行者 |
-> | **受众状态[[Hypothesis\|假设]]** | 具有情绪认同诉求与偏见防卫的认知主体 | [[Value Neutrality\|价值中立]]、随时准备被证据说服的理性经济人 | 容易被操纵的被动流量受众 |
+> | **受众状态假设** | 具有情绪认同诉求与偏见防卫的认知主体 | [[Value Neutrality\|价值中立]]、随时准备被证据说服的理性经济人 | 容易被操纵的被动流量受众 |
 
 ---
 

@@ -8,7 +8,7 @@ aliases:
 summary: "大学与科研体系为保护学术研究、关键技术与知识产权免受外国不当干预、经济间谍活动与未经授权转移而建立的制度性风险防范机制；近年在大国地缘技术博弈中进一步上升为国家科技治理重塑国际科研合作边界、将学术自治置于国家安全合规之下的核心治理工具。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 29
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Dual-Use Technology]]"
   - "[[Foreground IP]]"
-  - "[[Attrition]]"
   - "[[Academic Risk Aversion]]"
   - "[[Securitization of Technology]]"
   - "[[Technology-Oriented Social Contract]]"
@@ -37,7 +36,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Innovation Ecosystem]]"
   - "[[University-Industry Collaboration]]"
-  - "[[Document]]"
   - "[[Sensitive Research]]"
 related_theories:
   - "[[Social Contract of Science]]"
@@ -57,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-03
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Research Security
@@ -137,7 +135,7 @@ updated: 2026-10-09
 > 这类命题探讨高校如何通过组织内部的制度创新与专业服务团队建设，将外部强加的地缘安全压力从阻碍合作的官僚壁垒转化为促进深度互信的润滑机制。
 
 > [!claim] [[Argument_Dean_2025_UICollaborationSupport|Dean et al. (2025)]]
-> **制度后盾赋能合作信任** 在地缘政治紧张局势下，研究安全不应被简化为阻碍合作的被动壁垒，而应转化为大学面向教师的专业化风险管理服务。如滑铁卢大学建立隶属于研究办公室的保障研究（Safeguarding Research）团队，在透明性、可预测性与[[Academic Freedom|学术自由]]之间寻求平衡，通过承担尽职调查与安全审查的制度责任，消除学者对知识产权[[Attrition|流失]]与外部制裁的恐慌，反而使产业伙伴与学术团队能够更加放心地建立长远深度合作。[[Argument_Dean_2025_UICollaborationSupport|(Dean et al., 2025, pp. 249–250)]]
+> **制度后盾赋能合作信任** 在地缘政治紧张局势下，研究安全不应被简化为阻碍合作的被动壁垒，而应转化为大学面向教师的专业化风险管理服务。如滑铁卢大学建立隶属于研究办公室的保障研究（Safeguarding Research）团队，在透明性、可预测性与[[Academic Freedom|学术自由]]之间寻求平衡，通过承担尽职调查与安全审查的制度责任，消除学者对知识产权流失与外部制裁的恐慌，反而使产业伙伴与学术团队能够更加放心地建立长远深度合作。[[Argument_Dean_2025_UICollaborationSupport|(Dean et al., 2025, pp. 249–250)]]
 
 ---
 
@@ -192,7 +190,7 @@ updated: 2026-10-09
 > > - **官僚压制论** 批评层层加码的申报表、背景审查与审批延宕，极大地消耗了科研人员宝贵的科研探索精力。
 
 > [!critique] 外部批评
-> - **学术界的寒蝉效应与族裔偏见** 过度泛化的安全调查往往导致特定族裔背景（如华裔）的科学家面临不公正的怀疑与审查，促发学术恐惧与顶尖人才[[Attrition|流失]]。
+> - **学术界的寒蝉效应与族裔偏见** 过度泛化的安全调查往往导致特定族裔背景（如华裔）的科学家面临不公正的怀疑与审查，促发学术恐惧与顶尖人才流失。
 > - **中小机构与年轻学者的资源劣势** 顶尖[[Research Universities|研究型大学]]有充沛资源组建庞大的合规团队，而一般院校由于缺乏专业法务与安全人员支持，往往采取一刀切的禁用策略，加剧学术不平等。
 
 > [!warning] 适用局限
@@ -208,7 +206,7 @@ updated: 2026-10-09
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Dean_2025_UICollaborationSupport\|Dean et al. (2025)]] | 加拿大滑铁卢大学研究办公室；多伦多-滑铁卢走廊[[Innovation Ecosystem\|创新生态]]（15,000 家科技公司） | 机构[[Case Study\|案例研究]]与制度机制审计 | ① 保障研究团队运作机制；② [[University-Industry Collaboration\|产学合作]]与杠杆经费占比 | ① 建立 Safeguarding Research 制度化团队，消除教师合同与合规顾虑；② 一个学院 5 年产业及产业杠杆经费达 1.34 亿加元（占总经费 34%） | 单一[[Research Universities\|研究型大学]]定性经验与财务审计 | 证实通过专业化制度后盾能够化解安全担忧并激活高额产学合作网络 |
-> | [[Argument_Fan_2026_BCAS\|樊春良 (2026)]] | 1945—2025 年美国联邦科技政策历程与科研治理变局；白宫政策备忘录（NSPM-33）及立法 | 宏观制度分析与历史[[Document\|文献]]比较 | ① 科研安全政策工具演化；② 国际合作受限程度与契约属性变迁 | ① 2016 年起科研安全进入核心议程，2020 年后经《[[CHIPS and Science Act\|芯片与科学法案]]》等全面法定化；② 科学活动由公共知识品取向转为战略竞争工具，科学自治演变为受限自治 | 权威政策文本与长时段制度推导 | 揭示大国竞争情境下科研安全对二战后[[Social Contract of Science\|科学社会契约]]国际主义基础的根本性动摇 |
+> | [[Argument_Fan_2026_BCAS\|樊春良 (2026)]] | 1945—2025 年美国联邦科技政策历程与科研治理变局；白宫政策备忘录（NSPM-33）及立法 | 宏观制度分析与历史文献比较 | ① 科研安全政策工具演化；② 国际合作受限程度与契约属性变迁 | ① 2016 年起科研安全进入核心议程，2020 年后经《[[CHIPS and Science Act\|芯片与科学法案]]》等全面法定化；② 科学活动由公共知识品取向转为战略竞争工具，科学自治演变为受限自治 | 权威政策文本与长时段制度推导 | 揭示大国竞争情境下科研安全对二战后[[Social Contract of Science\|科学社会契约]]国际主义基础的根本性动摇 |
 > | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | 美国《[[CHIPS and Science Act\|芯片与科学法案]]》立法实施与顶尖研究型大学半导体创新体系案例 | 政策制度分析与多案例追踪 | ① [[Securitization of Technology\|技术安全化]]传导机制；② 外籍人才政策与学术生态开放度 | ① 联邦政府通过立法与安全审查强化对高校科研经费来源与去向管控；② 外籍人才政策收紧与意识形态化壁垒迫使学术交流从开放协作转向消极合作与科研生态封闭化 | 战略性硬科技产业与高校制度博弈 | 实证揭示地缘博弈下半导体竞争安全化对大学[[Academic Freedom\|学术自由]]与颠覆性创新源头活力的结构性侵蚀 |
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 10–11)]] | 已确定毕业去向的美国博士学位获得者 | 报告转述的学位统计 | 临时签证持有者占比 | 2024 年，计算机科学和数学中约占一半。自然科学与工程领域，有明确毕业安排的临时签证持有者占比四十年内大约从 20% 升到 40%。社会、行为与健康科学大约从 10% 升到 20% | — | 报告用此说明开放培养与不对称抽取。它不是间谍案件的计数，也不能推出每一位签证持有者都会离开 |
 

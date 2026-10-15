@@ -7,10 +7,10 @@ aliases:
 summary: "比较教育的四种理解形式之一，认为不同社会的教育系统正在趋向相似，经历了从 UNESCO 科学理想到新制度主义的多个阶段"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 8
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_count: 7
+theory_related_level: 0
+theory_related_stars: ""
+theory_related_color: "#e5e7eb"
 domain: "comparative-education"
 related_count: 8
 related_level: 0
@@ -23,7 +23,6 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Variable]]"
-  - "[[Hypothesis]]"
 related_theories:
   - "[[Institutional Isomorphism]]"
   - "[[Hegemony]]"
@@ -37,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Convergence Theory in Comparative Education
@@ -77,7 +76,7 @@ updated: 2026-09-22
 ## 核心要素
 
 > [!abstract]
-> - **趋同[[Hypothesis\|假设]]**。不同社会的教育系统正在趋向相似，这一假设贯穿趋同理论的所有历史阶段。
+> - **趋同假设**。不同社会的教育系统正在趋向相似，这一假设贯穿趋同理论的所有历史阶段。
 > - **温和的动词（Semantic Strategy of Gentle Verbs）**。趋同理论大量使用温和、中性的动词（如出现/emerge、发生/happen、成形/take shape），且行动主体模糊不清（unclear agents of action），这一语义策略故意规避了对主导政策施动者的拷问，从而掩盖了趋同过程中的权力和胁迫关系([[Argument_Cowen_2023_CE\|Cowen, 2023, p.333]])。
 > - **中性化与良性化伪装**。将全球同构（isomorphisms）的发生和蔓延框架化为一种自然、进化且普遍良性的过程，从而在理论表述上使全球教育制度的同构化显得天然、正常和良性，实际上消解了其地缘政治和意识形态对抗属性。
 

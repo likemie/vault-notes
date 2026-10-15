@@ -7,7 +7,7 @@ summary: "通过操纵教育处理、项目或实践条件来检验效果及因�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 27
+method_related_count: 24
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -21,12 +21,10 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Epistemology]]"
   - "[[Causality]]"
-  - "[[Hypothesis]]"
   - "[[Recommendations for Practice]]"
   - "[[Homework]]"
   - "[[Academic Achievement]]"
   - "[[Experiential Learning]]"
-  - "[[Attrition]]"
   - "[[Reproducibility Crisis]]"
   - "[[Evidence-Based Education]]"
   - "[[Chain of Evidence]]"
@@ -35,7 +33,6 @@ related_concepts:
   - "[[Source Evaluation]]"
 related_theories: []
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Experimental Research]]"
   - "[[Random Assignment]]"
   - "[[Correlational Research]]"
@@ -51,13 +48,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-05'
-updated: 2026-10-06
+updated: 2026-10-15
 ---
 
 ## 定义
 
 > [!info] 定义
-> 干预研究（Intervention Research）是在研究中操纵自[[Variable\|变量]]、检验某种教育处理或实践是否影响结果的研究设计。[[Argument_Brady_2023_EPR\|Brady et al. (2023)]] 在[[Coding in Qualitative Research\|编码]]教育心理学期刊文章时，将"干预研究"和"[[Experimental Research\|实验研究]]"都定义为包含[[Independent Variable\|自变量]]操纵；二者区别在于实验研究进一步包含[[Random Assignment\|随机分配]]([[Argument_Brady_2023_EPR\|Brady et al., 2023, p.4]])。
+> 干预研究（Intervention Research）是在研究中操纵自[[Variable\|变量]]、检验某种教育处理或实践是否影响结果的研究设计。[[Argument_Brady_2023_EPR\|Brady et al. (2023)]] 在编码教育心理学期刊文章时，将"干预研究"和"[[Experimental Research\|实验研究]]"都定义为包含[[Independent Variable\|自变量]]操纵；二者区别在于实验研究进一步包含[[Random Assignment\|随机分配]]([[Argument_Brady_2023_EPR\|Brady et al., 2023, p.4]])。
 
 ---
 
@@ -71,7 +68,7 @@ updated: 2026-10-06
 ## 操作步骤
 
 > [!example] 操作步骤
-> - **形成干预[[Hypothesis\|假设]]** 从描述性、观察性或[[Correlational Research\|相关性研究]]中识别可能的[[Causality\|因果关系]]，并据此设计可能改善学习的处理([[Argument_Brady_2023_EPR\|Brady et al., 2023, p.2]])。
+> - **形成干预假设** 从描述性、观察性或[[Correlational Research\|相关性研究]]中识别可能的[[Causality\|因果关系]]，并据此设计可能改善学习的处理([[Argument_Brady_2023_EPR\|Brady et al., 2023, p.2]])。
 > - **操纵自[[Variable\|变量]]** 研究者主动引入某种教育实践、处理或项目，而不是仅观察既有变量关系([[Argument_Brady_2023_EPR\|Brady et al., 2023, p.4]])。
 > - **与标准实践比较** 干预假设应通过把新处理与既有标准实践比较来正式检验。
 > - **[[Random Assignment\|随机分配]]作为更强版本** 若研究还包含随机分配，则在 [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] 的分类中属于 experimental studies，而不仅是 intervention studies。
@@ -104,7 +101,7 @@ updated: 2026-10-06
 > [!warning] 局限性
 > - **数量下降或停滞** 五本[[Experiential Learning\|经验教育]]心理学期刊中，干预研究比例从 2000 年的 40% 降至 2010 年的 25%，2020 年仍为 25%；随机实验则从 2010 年的 23% 继续降至 2020 年的 20%([[Argument_Brady_2023_EPR\|Brady et al., 2023, pp.6-7]])。
 > - **资源与时间成本高** 干预研究通常需要时间、经费和学校合作；研究者的发表压力可能促使他们选择较快完成的数据收集设计([[Argument_Brady_2023_EPR\|Brady et al., 2023, p.8]])。
-> - **学校合作条件受限** K-12 学校中的问责指标、高风险测试、教师压力和[[Attrition\|流失]]可能降低学校参与课堂实验的意愿；干预虽旨在改善学生经验，但对教师和管理者而言可能显得笨重。
+> - **学校合作条件受限** K-12 学校中的问责指标、高风险测试、教师压力和流失可能降低学校参与课堂实验的意愿；干预虽旨在改善学生经验，但对教师和管理者而言可能显得笨重。
 > - **小样本和统计功效问题** 许多干预研究，尤其是[[Experimental Research\|实验研究]]，样本较小；心理学[[Reproducibility Crisis|复制危机]]可能提高了研究者对低统计功效的敏感度，并推动他们转向大型既有数据集，尽管这些数据通常是相关性的。
 
 ---
@@ -121,14 +118,14 @@ updated: 2026-10-06
 
 - vs [[Non-intervention Research]] — 干预研究操纵自[[Variable|变量]]，非干预研究不操纵[[Independent Variable|自变量]]；[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 的核心批评正是教育心理学常把本应由干预研究检验的[[Causality|因果关系]]，提前写成非干预研究中的[[Recommendations for Practice|实践建议]]([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.2-4]])。
 - vs [[Randomised Controlled Trials]] — RCT 是干预研究的更强版本：二者都操纵自变量，但 RCT 还要求[[Random Assignment|随机分配]]；因此 [[Argument_Brady_2023_EPR|Brady et al. (2023)]] 同时报告"干预研究"比例和"随机实验"比例([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.4, 6-7]])。
-- vs [[Correlational Research]] — 观察/相关研究可以识别可能的因果线索，但不操纵变量；干预研究则把这些线索转化为可检验的处理[[Hypothesis|假设]]([[Argument_Brady_2023_EPR|Brady et al., 2023, p.2]])。
+- vs [[Correlational Research]] — 观察/相关研究可以识别可能的因果线索，但不操纵变量；干预研究则把这些线索转化为可检验的处理假设([[Argument_Brady_2023_EPR|Brady et al., 2023, p.2]])。
 
 ---
 
 ## 使用此方法的研究
 
 > [!example] 使用此方法的研究
-> - [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] — 将干预研究作为五类方法之一进行趋势[[Coding in Qualitative Research\|编码]]，发现其比例自 2010 年后稳定在 25%，但随机实验继续下降([[Argument_Brady_2023_EPR\|Brady et al., 2023, pp.6-7]])。
+> - [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] — 将干预研究作为五类方法之一进行趋势编码，发现其比例自 2010 年后稳定在 25%，但随机实验继续下降([[Argument_Brady_2023_EPR\|Brady et al., 2023, pp.6-7]])。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 针对 26 项旨在促进[[Epistemic Cognition\|认识论认知]]的实验与准实验干预研究开展[[Meta-analysis\|元分析]]，证实教学干预对[[Academic Achievement\|学业成就]]具有显著因果提升作用（Cohen's $d = 0.509$），并确立了[[Inquiry-Based Learning\|指导式探究]]与[[Source Evaluation\|信源评估]]的优势地位。
 
 ---

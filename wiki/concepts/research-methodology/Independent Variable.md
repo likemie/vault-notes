@@ -10,7 +10,7 @@ aliases:
 summary: "实验或量化研究中被有意识操纵、控制或选择以观察其对因变量效应的变量，是因果推断中的输入条件"
 type: concept
 domain: "research-methodology"
-related_count: 16
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Dependent Variable]]"
   - "[[Causality]]"
-  - "[[Hypothesis]]"
   - "[[Operationalization]]"
   - "[[Construct]]"
   - "[[Definition of Terms]]"
@@ -44,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-12
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 # Independent Variable
 
@@ -57,7 +56,7 @@ updated: 2026-09-17
 
 > [!concept-lens] 自变量在[[Causality\|因果推断]]中的角色
 > - **含义** 自变量是因果链条中的**前因**，被假定为对因变量产生影响的变量。在实验设计中，自变量是可以控制的条件或处理。
-> - **用途** 通过操纵自变量的不同水平（如干预的有无、干预的不同强度），检验因果[[Hypothesis\|假设]]：自变量的变化是否系统性地引起了因变量的变化。
+> - **用途** 通过操纵自变量的不同水平（如干预的有无、干预的不同强度），检验因果假设：自变量的变化是否系统性地引起了因变量的变化。
 > - **边界** 自变量不等于原因本身，它只是原因的[[Operationalization\|操作化]]指标。一个自变量能否真正代表[[Construct\|理论构念]]取决于[[Definition of Terms\|操作性定义]]的有效性。自变量与因变量的区分只在特定研究设计中成立，同一变量在不同研究中可以扮演不同角色。
 
 > [!boundary]- 概念边界

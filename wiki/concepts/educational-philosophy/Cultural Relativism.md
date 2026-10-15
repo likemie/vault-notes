@@ -8,7 +8,7 @@ aliases:
 summary: "指发端于20世纪人类学、主张所有文化模式与生活形态同等有效且免受外部规范审查的理论范式；在当代被批评为一种不敢声称真理、美与美好生活的集体心理防御，泛化后不仅将审美品味贬低为单纯的地位争夺，更导致社会丧失辨别卓越与平庸的本能，构成战后通识正典瓦解与技术不可知论的哲学根源。"
 type: concept
 domain: "educational-philosophy"
-related_count: 29
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -34,7 +34,6 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Canon Wars]]"
   - "[[General Education]]"
-  - "[[Bildung]]"
   - "[[Consumer Internet]]"
   - "[[Value Neutrality]]"
   - "[[Enlightenment]]"
@@ -56,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-09
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Cultural Relativism
@@ -197,7 +196,7 @@ updated: 2026-10-09
 > |:-----|:-----|:-----|
 > | [[Western Civilization Course]] | 概念 | 被文化相对主义思潮拆解的西方大学核心必修课，其瓦解导致科技精英历史锚桩断裂。 |
 > | [[Canon Wars]] | 概念 | 20世纪后半叶围绕文化相对主义与西方经典必修大纲展开的激烈学术政治论战。 |
-> | [[General Education]] | 概念 | 承载国家共同体公民认同与审美[[Bildung\|教化]]、但在相对主义冲击下碎裂的高等教育体制。 |
+> | [[General Education]] | 概念 | 承载国家共同体公民认同与审美教化、但在相对主义冲击下碎裂的高等教育体制。 |
 > | [[Technological Agnosticism]] | 概念 | 文化相对主义抽空国家信念后，科技精英向[[Consumer Internet\|消费互联网]]与[[Value Neutrality\|价值中立]]退缩的意识形态表现。 |
 > | [[Enlightenment]] | 概念 | 启蒙运动追求理性与客观进步的[[Grand Theory\|宏大叙事]]，在后现代遭到文化相对主义的系统解构。 |
 > | [[Technological Republic]] | 概念 | 摆脱文化相对主义虚无、重铸共享文化特质与实质公民美德的理想政体。 |

@@ -9,7 +9,7 @@ summary: "罗兰·保尔斯顿（Rolland Paulston）开创的比较教育质性�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 37
+method_related_count: 35
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -37,9 +37,7 @@ related_concepts:
   - "[[Temporalization of Space]]"
   - "[[Reflexivity]]"
   - "[[Variable]]"
-  - "[[Hypothesis]]"
   - "[[Concept Mapping]]"
-  - "[[Document]]"
   - "[[Epistemic Stances]]"
   - "[[Student Mobility]]"
 related_theories:
@@ -64,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-10
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Social Cartography
@@ -95,7 +93,7 @@ updated: 2026-10-10
 > - **知识观** 彻底摒弃现代主义与[[Positivism|实证主义]]的普世真理与线性进化论，坚持[[Postmodernism|后现代主义]]的多元视角主义与空间[[Ontology|本体论]]。批判[[Enlightenment|启蒙运动]]以来的“空间时间化”（[[Temporalization of Space]]）偏向——即欧洲旅行者自视为“时间旅行者”，将非西方世界与边缘人群划入“未开化”的历史时间阶梯（Leed, 1991; Sayre, 1997）；社会制图学通过共时性空间并置（Synchronic Spatial Juxtaposition）拆解这种等级叙事。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 360)]]
 > - **研究者角色** 研究者不是超然物外的客观测量者，而是身处图景之内的制图员（Cartographer）；其自身绘制的地图同样是一种有立场的视角表达，需持续保持认识论自省与[[Reflexivity|反身性]]。
 > - **有效性标准** 强调诠释的启发性（Heuristic Value）、对话性开放度（Dialogic Openness）、[[Paradigm|范式]]区分的清晰度与对边缘知识盲区的发掘能力，而非统计精确度。
-> - **不声称回答的问题** 不能检验[[Variable|变量]]间的因果[[Effect Size|效应量]]，不能进行[[Hypothesis|假设]]检验，亦不能为公共教育政策提供技术官僚式的单一标准化处方。
+> - **不声称回答的问题** 不能检验[[Variable|变量]]间的因果[[Effect Size|效应量]]，不能进行假设检验，亦不能为公共教育政策提供技术官僚式的单一标准化处方。
 
 > [!method-stack] 方法层级
 > - **研究设计** 跨学科[[Discourse|话语]]制图设计、学术史谱系学图绘、跨国[[Policy Mobility|政策流动]]空间分析与批判政策解构设计。
@@ -111,7 +109,7 @@ updated: 2026-10-10
 > | 维度 | 信息 |
 > |---|---|
 > | 材料来源 | 学术专著、权威期刊论文、学会纪要、国际组织政策报告及课程改革法案。 |
-> | 抽样或选案 | 采用[[Theoretical Sampling\|理论抽样]]与关键[[Paradigm\|范式]]抽样，选取具有代表性争论特征的纲领性[[Document\|文献]]。 |
+> | 抽样或选案 | 采用[[Theoretical Sampling\|理论抽样]]与关键[[Paradigm\|范式]]抽样，选取具有代表性争论特征的纲领性文献。 |
 > | 研究者位置 | 作为学术[[Champ\|场域]]的批判性反思者与跨流派对话促进者，阐明自身制图目的与认知局限。 |
 > | 学者应用谱系 | 包含 Beech (2002)、Dussel et al. (2000)、English (2004)、Epstein (2006)、Gordon & Lahelma (1996)、Ninnes & Burnett (2003)、Nóvoa & Lawn (2002) 等。[[Argument_Sobe_Fischer_2009_MobilityMigration\|(Sobe & Fischer, 2009, p. 360)]] |
 

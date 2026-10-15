@@ -11,7 +11,7 @@ summary: "由大野耐一在丰田生产方式中创立、后被帕兰提尔拓�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 22
+method_related_count: 20
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -25,14 +25,12 @@ related_concepts:
   - "[[Lean Production]]"
   - "[[Totally Pedagogised Society]]"
   - "[[Unit of Analysis]]"
-  - "[[Assemblage]]"
   - "[[Epistemology]]"
   - "[[Epoché]]"
   - "[[Causality]]"
   - "[[Technological Republic]]"
   - "[[Chain of Evidence]]"
   - "[[Bureaucracy]]"
-  - "[[Hypothesis]]"
   - "[[Engineering Mindset]]"
   - "[[Constructive Disobedience]]"
   - "[[Determinism]]"
@@ -53,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Five Whys
@@ -72,7 +70,7 @@ updated: 2026-10-08
 > - **输出形式** 多层递进因果链条诊断流程图、不指责具体个人的免责式系统审查报告与结构性纠错行动方案。
 
 > [!citation-card]- 关键定义
-> 排查任何复杂系统故障的原因，无论是企业级软件平台还是内燃机[[Assemblage|装配]]线，都必然要求将焦点放在系统内部的运行机制上。在帕兰提尔，我们将这一探究方法扩展到对作为软件前置条件的人际系统的剖析中……通过追踪因果链条，往往能够解开阻碍组织发展的核心死结。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 164–166)]]
+> 排查任何复杂系统故障的原因，无论是企业级软件平台还是内燃机装配线，都必然要求将焦点放在系统内部的运行机制上。在帕兰提尔，我们将这一探究方法扩展到对作为软件前置条件的人际系统的剖析中……通过追踪因果链条，往往能够解开阻碍组织发展的核心死结。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 164–166)]]
 >
 > *Identifying the reasons for the failure of a system, whether it be an enterprise software platform or an assembly line for internal combustion engines, necessarily requires a focus on the inner workings and mechanics of the system at issue. At Palantir, we build on this method of inquiry to incorporate an analysis and indeed acknowledgment of the human systems that are precursors to the software that we are building.*
 
@@ -155,7 +153,7 @@ updated: 2026-10-08
 > [!contrast-table] 物理制造系统 vs. 软件与人际系统的五问法诊断对比
 > | 诊断维度 | 丰田物理制造五问法（TPS） | 帕兰提尔软件与人际五问法 |
 > |:---|:---|:---|
-> | **排查对象** | 物理机械装置、[[Assemblage\|装配]]线设备、工件物理损伤 | 软件代码架构、跨部门研发协同、高管决策动态 |
+> | **排查对象** | 物理机械装置、装配线设备、工件物理损伤 | 软件代码架构、跨部门研发协同、高管决策动态 |
 > | **追问终点** | 机械零件磨损、物理过滤与润滑设计缺陷 | 薪酬考核导向、资源分配机制与高层人际博弈 |
 > | **根本对策** | 加装进油滤网、改进润滑泵机械防护设计 | 理顺高层权力结构、重构组织考核与激励模型 |
 > | **文化前提** | 现场现物（Genba）、尊重一线工人操作反馈 | 彻底免责保护（Blameless）、打破对失业与问责的恐惧 |
@@ -189,7 +187,7 @@ updated: 2026-10-08
 > - **停顿过早风险** 调查团队常常在追问两到三次后便止步于“某人粗心”或“某部门执行不力”等浅层原因，未能彻底触及结构与激励根源。
 > - **主观偏见引导** 若调查主持者预设立场，容易在追问过程中选择性采纳线索，强行将原因引导至特定部门。
 > - **文化依赖性** 极度依赖开放宽容、鼓励主动暴露问题的工程文化；在恐惧掩盖文化的组织中容易退化为形式主义应付。
-> - **线性[[Hypothesis|假设]]局限** 真实世界常存在网状因果与多元反馈回路，单一链条追问可能简化复杂的非线性系统交互。
+> - **线性假设局限** 真实世界常存在网状因果与多元反馈回路，单一链条追问可能简化复杂的非线性系统交互。
 
 ---
 

@@ -9,18 +9,16 @@ aliases:
 summary: "比较政治经济学核心概念，指不同制度领域之间相互支持、相互强化的协同配置状态，即某一制度的存在能提升另一制度的运行效能；传统理论视其为资本主义多样性的超稳定均衡基石，渐进变迁学派则批判其功能主义偏误，揭示行动者如何在松弛与杂糅的互补性外壳下推进局部演化。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 18
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/political-economy
   - theme/political-economy
   - theory/historical-institutionalism
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Structural Coupling]]"
-  - "[[Document]]"
   - "[[Institutional Layering]]"
   - "[[Institutional Conversion]]"
   - "[[Patient Capital]]"
@@ -47,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-15
 ---
 
 # Institutional Complementarity
@@ -57,7 +55,7 @@ updated: 2026-10-11
 ## 定义
 
 > [!def] 核心定义
-> **制度互补性（Institutional Complementarity）**指一国经济体制中不同子领域的制度安排之间存在的协同增效关系，即某一制度（如劳资协调）的存在或运作能够显著提高另一制度（如特定技能培训或长期关系型融资）的边际运行回报（Marginal Return）；[[Varieties of Capitalism|资本主义多样性]]（Varieties of Capitalism, VoC）理论将其视为区分协调市场经济（CME）与自由市场经济（LME）的核心支柱，而[[Historical Institutionalism|历史制度主义]]渐进变迁学派则批判其将互补性视为“无外生激变便不可变动”的功能主义超稳定[[Hypothesis|假设]]，主张将互补性重新理解为充满结构性松弛与内生杂糅的动态过程。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 4–6, 19–21)]]
+> **制度互补性（Institutional Complementarity）**指一国经济体制中不同子领域的制度安排之间存在的协同增效关系，即某一制度（如劳资协调）的存在或运作能够显著提高另一制度（如特定技能培训或长期关系型融资）的边际运行回报（Marginal Return）；[[Varieties of Capitalism|资本主义多样性]]（Varieties of Capitalism, VoC）理论将其视为区分协调市场经济（CME）与自由市场经济（LME）的核心支柱，而[[Historical Institutionalism|历史制度主义]]渐进变迁学派则批判其将互补性视为“无外生激变便不可变动”的功能主义超稳定假设，主张将互补性重新理解为充满结构性松弛与内生杂糅的动态过程。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 4–6, 19–21)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 刻画金融、公司治理、劳动关系、教育培训与社会保障等不同制度子系统之间的[[Structural Coupling|结构耦合]]与相互强化效应。
@@ -65,7 +63,7 @@ updated: 2026-10-11
 > - **边界** 不等于所有制度要素必须严格自洽的刚性闭环；不能将制度共存简单等同于功能互补，忽视制度间的张力与内在矛盾。
 
 > [!citation-card] 制度互补性及其功能主义陷阱
-> 资本主义多样性[[Document|文献]]倾向于将制度互补性描绘为高度精密、自成一体的均衡闭环。在这种功能主义视野下，任何局部变迁都会导致整个体制失衡，从而推导出体制要么整体保持连续性、要么在外生巨变下全盘崩溃的极端断言。然而现实中的政治经济制度从来不是完全连贯的钟表机械，制度之间的摩擦与松弛恰恰为渐进重构提供了可能。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 4–6)]]
+> 资本主义多样性文献倾向于将制度互补性描绘为高度精密、自成一体的均衡闭环。在这种功能主义视野下，任何局部变迁都会导致整个体制失衡，从而推导出体制要么整体保持连续性、要么在外生巨变下全盘崩溃的极端断言。然而现实中的政治经济制度从来不是完全连贯的钟表机械，制度之间的摩擦与松弛恰恰为渐进重构提供了可能。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 4–6)]]
 >
 > *Contemporary scholarship on varieties of capitalism has often fallen into a functionalist trap by treating institutional complementarity as a tightly integrated equilibrium system ... Such frameworks are singularly ill-equipped to capture significant ongoing transformations that proceed through incremental [[Institutional Layering|layering]] and [[Institutional Conversion|conversion]] without systemic breakdown.*
 
@@ -153,7 +151,7 @@ updated: 2026-10-11
 
 > [!dev-timeline] 概念演变
 > - **1990年代初 — 比较制度分析的博弈论建模** 青木昌彦（Masahiko Aoki）率先将制度互补性形式化表述为多重博弈系统中的相互增益关系。
-> - **2001 — [[Varieties of Capitalism|资本主义多样性]]框架的主流确立** [[Peter A. Hall|霍尔]]与索斯基斯合编《资本主义多样性》，将互补性置于核心位置，确立双元资本主义经典模型。
+> - **2001 — [[Varieties of Capitalism|资本主义多样性]]框架的主流确立** 霍尔与索斯基斯合编《资本主义多样性》，将互补性置于核心位置，确立双元资本主义经典模型。
 > - **2005 — [[Historical Institutionalism|历史制度主义]]的演化转向与批判重构** [[Wolfgang Streeck|施特雷克]]与希伦合编《制度变迁的超越》，系统反思互补性概念的功能主义偏误，开辟聚焦制度松弛、杂糅与渐进解构的新议程。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 4–6, 19–21)]]
 
 ---
@@ -176,4 +174,4 @@ updated: 2026-10-11
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 批判[[Varieties of Capitalism|资本主义多样性]][[Document|文献]]中的制度互补性静态偏误，提出基于制度松弛、杂糅与层叠的渐进演化模型（pp. 4–6, 19–22）。
+> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 批判[[Varieties of Capitalism|资本主义多样性]]文献中的制度互补性静态偏误，提出基于制度松弛、杂糅与层叠的渐进演化模型（pp. 4–6, 19–22）。

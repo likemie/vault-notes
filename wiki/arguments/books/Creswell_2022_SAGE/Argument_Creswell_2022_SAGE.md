@@ -7,7 +7,7 @@ title: "Argument_Creswell_2022_SAGE"
 argument_key: "Argument_Creswell_2022_SAGE"
 argument_display_title: "Research Design: Qualitative, Quantitative, and Mixed Methods Approaches"
 argument_kind: "book"
-argument_related_count: 196
+argument_related_count: 193
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -55,11 +55,11 @@ related_concepts:
   - "[[Research Writing Script]]"
   - "[[Central Phenomenon]]"
   - "[[Nondirectional Language]]"
-  - "[[Hypothesis]]"
   - "[[Null Hypothesis]]"
   - "[[Alternative Hypothesis]]"
   - "[[Central Question]]"
   - "[[Integration in Mixed Methods]]"
+  - "[[Hypothesis]]"
   - "[[Mixed Methods Question]]"
   - "[[Internal Validity]]"
   - "[[External Validity]]"
@@ -68,7 +68,6 @@ related_concepts:
   - "[[Open-Ended and Closed-Ended Data]]"
   - "[[Metainferences]]"
   - "[[Integration Statement]]"
-  - "[[Document]]"
   - "[[Emergence]]"
   - "[[Determinism]]"
   - "[[Positivism]]"
@@ -78,7 +77,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Dependent Variable]]"
   - "[[Epistemic Stances]]"
-  - "[[APA Style]]"
   - "[[Operationalization]]"
   - "[[Multiplicity]]"
   - "[[Construct]]"
@@ -105,7 +103,6 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Experimenter Bias]]"
   - "[[Threats to Internal Validity]]"
-  - "[[Attrition]]"
   - "[[Threats to External Validity]]"
   - "[[Interaction Effect]]"
   - "[[Researcher as Key Instrument]]"
@@ -246,9 +243,9 @@ citation_aliases:
 | 第4章 写作策略与伦理考量 | 提供量化、质性和混合方法研究计划的结构模型，讨论学术写作的过程策略、连贯性技巧和语言精炼方法，按研究前—启动—数据收集—分析—报告五个阶段系统梳理伦理问题与应对策略。                                                                                                                                                                                                                              | [[Research Ethics]], [[Institutional Review Board]], [[Informed Consent]], [[Writing Habit]], [[Coherence in Writing]], [[Hook and Eye Technique]]         |
 | 第5章 引言        | 提供撰写学术引言的系统方法，首先讨论撰写研究摘要的五个核心组成部分，随后比较量化、质性和混合方法[[Research Introduction\|研究引言]]写法的差异，最后重点介绍[[Deficiencies Model for an Introduction\|引言缺陷模型]]的四个部分——陈述研究问题（含[[Narrative Hook\|叙事钩子]]）、综述文献证据（含倒三角检索策略）、指出文献缺陷和说明研究对受众的重要性。                                                                                                                                                                                  | [[Research Introduction]], [[Research Problem]], [[Deficiencies Model for an Introduction]], [[Narrative Hook]], [[Deficiencies in Past Literature]]       |
 | 第6章 [[Purpose Statement\|目的陈述]]      | 系统讲解研究计划中目的陈述（或研究目标）的核心地位。区分研究问题、目的陈述和研究问题三个环节的递进逻辑，逐一剖析质性目的陈述七要素、量化目的陈述八要素和混合方法目的陈述四要素，为每种路径提供填空式[[Research Writing Script\|写作脚本]]，并辅以已发表研究的多个范例。                                                                                                                                                                                            | [[Purpose Statement]], [[Central Phenomenon]], [[Nondirectional Language]], [[Research Writing Script]]                                                    |
-| 第7章 研究问题与[[Hypothesis\|假设]]   | 系统讲解量化研究问题和假设（描述性与关系型、[[Null Hypothesis\|零假设]]与[[Alternative Hypothesis\|方向性备择假设]]）、质性[[Central Question\|核心研究问题]]和子问题、混合方法的三类研究问题（量化、质性、[[Integration in Mixed Methods\|混合方法整合]]问题），每一类均提供填空式写作脚本和已发表研究范例。                                                                                                                                                                                                               | [[Research Question]], [[Hypothesis]], [[Central Question]], [[Mixed Methods Question]], [[Null Hypothesis]]                                               |
+| 第7章 研究问题与假设   | 系统讲解量化研究问题和假设（描述性与关系型、[[Null Hypothesis\|零假设]]与[[Alternative Hypothesis\|方向性备择假设]]）、质性[[Central Question\|核心研究问题]]和子问题、混合方法的三类研究问题（量化、质性、[[Integration in Mixed Methods\|混合方法整合]]问题），每一类均提供填空式写作脚本和已发表研究范例。                                                                                                                                                                                                               | [[Research Question]], [[Hypothesis]], [[Central Question]], [[Mixed Methods Question]], [[Null Hypothesis]]                                               |
 | 第8章 量化方法      | 系统讲解调查研究和实验研究的方法计划组成部分：调查研究计划涵盖调查目的与设计类型、总体与样本（抽样设计、分层、[[Power Analysis]]）、工具信效度、变量与数据分析六步骤；实验研究计划涵盖参与者分配与[[Random Assignment]]、变量（独立变量、操纵检查、因变量、混淆变量）、工具与封面故事、实验程序（[[Pre-Experimental Designs]]、准实验、[[Factorial Design]]、[[Single-Subject Design]]）、[[Internal Validity]]与[[External Validity]]威胁控制、数据分析步骤和预注册。 | [[Survey Research]], [[Experimental Research]], [[Power Analysis]], [[Internal Validity]], ANOVA                                                           |
-| 第9章 质性方法      | 系统讲解质性研究方法的全部组成部分：九大核心特征、[[Descriptive Methods\|描述性方法]]与[[Analytic Framework\|分析框架]]的区分、四种数据收集类型与协议设计、七步数据分析流程与 Tesch [[Coding in Qualitative Research\|编码]]八步骤、解释的组成部分、八种效度策略与信度程序，以及质性写作的六种策略。                                                                                                                                                                                                                             | [[Qualitative Research]], [[Descriptive Methods]], [[Coding in Qualitative Research]], [[Purposeful Sampling]], [[Qualitative Validity]], [[Reflexivity]]                                |
+| 第9章 质性方法      | 系统讲解质性研究方法的全部组成部分：九大核心特征、[[Descriptive Methods\|描述性方法]]与[[Analytic Framework\|分析框架]]的区分、四种数据收集类型与协议设计、七步数据分析流程与 Tesch 编码八步骤、解释的组成部分、八种效度策略与信度程序，以及质性写作的六种策略。                                                                                                                                                                                                                             | [[Qualitative Research]], [[Descriptive Methods]], [[Coding in Qualitative Research]], [[Purposeful Sampling]], [[Qualitative Validity]], [[Reflexivity]]                                |
 | 第10章 混合方法程序   | 界定混合方法研究的六个核心特征与历史定位，论证使用混合方法的多元理由，区分开放式与[[Open-Ended and Closed-Ended Data\|封闭式数据]]，详解三种核心设计（聚敛式、解释性序列、探索性序列）的意图、程序、[[Joint Display\|联合展示]]模板、[[Metainferences\|元推论]]与效度威胁，拓展四种复杂设计（实验干预、案例研究、参与式社会正义、评价），提供设计选择流程图和[[Integration Statement\|整合陈述]]写作指南，以四个完整研究实例展示各类设计的实际运用。 | [[Mixed Methods Research]], [[Integration in Mixed Methods]], [[Convergent Design]], [[Joint Display]], [[Metainferences]], [[Mixed Methods Evaluation Design]], [[Integration Statement]] |
 
 ---
@@ -259,7 +256,7 @@ citation_aliases:
 
 #### 概览
 
-全书为研究者提供[[Design-Based Research|设计研究]]计划或研究方案的框架、流程和写作方法，覆盖量化、质性和[[Mixed Methods Research|混合方法]]三种研究路径。这一比较从三个路径共有的初步要素（哲学[[Hypothesis|假设]]、[[Literature Review|文献综述]]、理论使用、写作与伦理）出发，再逐一拆解研究设计的各个关键组成部分，包括引言撰写、[[Purpose Statement|目的陈述]]、[[Research Question|研究问题]]与假设，以及数据收集、分析和解释的方法程序。
+全书为研究者提供[[Design-Based Research|设计研究]]计划或研究方案的框架、流程和写作方法，覆盖量化、质性和[[Mixed Methods Research|混合方法]]三种研究路径。这一比较从三个路径共有的初步要素（哲学假设、[[Literature Review|文献综述]]、理论使用、写作与伦理）出发，再逐一拆解研究设计的各个关键组成部分，包括引言撰写、[[Purpose Statement|目的陈述]]、[[Research Question|研究问题]]与假设，以及数据收集、分析和解释的方法程序。
 
 > [!quote]
 > “本书提出了一套框架、过程和写作方法，用于在人类科学、健康科学和社会科学领域设计质性、量化和混合方法研究计划或项目。”
@@ -277,7 +274,7 @@ citation_aliases:
 > “设计一项研究是一个困难且耗时的过程。本书不一定会让这个过程变得更容易或更快，但它可以提供在研究中有用的具体技能、关于该过程所涉及步骤的知识，以及撰写学术研究的实用指南。”
 > ("Designing a study is a difficult and time-consuming process. This book will not necessarily make the process easier or faster, but it can provide specific skills useful in research, knowledge about the steps involved in the process, and a practical guide to composing and writing scholarly research.")（前言）
 
-全书分为两大部分。第一部分（第1–4章）涉及研究设计前的预备步骤，包括选择研究路径、综述[[Document|文献]]、运用理论、处理写作与伦理问题。第二部分（第5–10章）逐项展开研究计划各组成部分的撰写方法。
+全书分为两大部分。第一部分（第1–4章）涉及研究设计前的预备步骤，包括选择研究路径、综述文献、运用理论、处理写作与伦理问题。第二部分（第5–10章）逐项展开研究计划各组成部分的撰写方法。
 
 > [!quote]
 > “第一部分讨论了在设计研究计划或方案之前必须考虑的几个初步因素。这些考虑涉及选择合适的研究路径、审查文献以将拟议的研究置于现有文献之中、决定是否在研究中使用理论，以及在开始时就采用良好的写作和伦理实践。”
@@ -404,7 +401,7 @@ citation_aliases:
 
 量化设计中，[[Survey Research|调查研究]]通过[[Questionnaire|问卷]]或结构化访谈从样本收集数据以推广至总体(Fowler, 2008)。[[Experimental Research|实验研究]]通过[[Random Assignment|随机分配]]处理条件并比较组间差异来检验因果效应(Keppel, 1991)，真实验使用随机分配，准实验使用非随机分配，[[Single-Subject Design|单受试者设计]]在时间维度上对少数个体施加和撤销处理(Cooper et al., 2007)。
 
-质性设计中，[[Narrative Research|叙事研究]]研究个体生活故事并重构为叙事编年史(Clandinin & Connelly, 2000)；现象学描述多个个体对某一现象的共同本质体验(Moustakas, 1994)；[[Grounded Theory|扎根理论]]通过多阶段[[Coding in Qualitative Research|编码]]从参与者视角归纳生成抽象理论(Charmaz, 2006; Corbin & Strauss, 2007)；[[Ethnography|民族志]]在自然情境中长时间观察文化群体的共享行为模式(Wolcott, 1994)；案例研究对受时空限定的个案进行深度多源分析(Stake, 1995; Yin, 2009)。
+质性设计中，[[Narrative Research|叙事研究]]研究个体生活故事并重构为叙事编年史(Clandinin & Connelly, 2000)；现象学描述多个个体对某一现象的共同本质体验(Moustakas, 1994)；[[Grounded Theory|扎根理论]]通过多阶段编码从参与者视角归纳生成抽象理论(Charmaz, 2006; Corbin & Strauss, 2007)；[[Ethnography|民族志]]在自然情境中长时间观察文化群体的共享行为模式(Wolcott, 1994)；案例研究对受时空限定的个案进行深度多源分析(Stake, 1995; Yin, 2009)。
 
 混合方法设计中，[[Convergent Design|聚敛式设计]]同时收集两类数据并合并分析；解释性序列先量化后质性，用质性深入解释量化结果；探索性序列先质性后量化，用量化检验或推广质性发现；复杂设计将核心设计嵌入更大的框架或流程之中。
 
@@ -531,7 +528,7 @@ citation_aliases:
 
 ---
 
-**第七步：呈现规范。** [[APA Style|APA]] 格式提供统一的学术写作规范，其目的是让读者"专注于内容而非格式"。[[Definition of Terms|术语定义]]的核心原则是[[Operationalization|操作化]]。量化研究倾向于在开头"锁定"术语意义，质性研究则允许意义在研究过程中"涌现"。
+**第七步：呈现规范。** APA 格式提供统一的学术写作规范，其目的是让读者"专注于内容而非格式"。[[Definition of Terms|术语定义]]的核心原则是[[Operationalization|操作化]]。量化研究倾向于在开头"锁定"术语意义，质性研究则允许意义在研究过程中"涌现"。
 
 > [!quote]
 > “日常语言中的词汇具有丰富的多重含义。就像其他符号一样，它们的力量来自于特定情境中意义的组合……科学语言表面上出于精确性的考虑，剥离了词汇的这种[[Multiplicity\|多重性]]意义。”
@@ -1332,7 +1329,7 @@ Creswell & Creswell 建议，理想格式是将三类问题分别写入不同章
 >
 > | 威胁类别 | 数量 | 核心问题 | 应对逻辑 | 详见 |
 > |---|---|---|---|---|
-> | [[Internal Validity\|内部效度威胁]]—受试者相关 | 5 种（历史、成熟、回归、选择、[[Attrition\|流失]]） | 受试者自身变化或特征是否替代了处理效应？ | 保持组间等价（随机分配、同质样本） | [[Internal Validity]] |
+> | [[Internal Validity\|内部效度威胁]]—受试者相关 | 5 种（历史、成熟、回归、选择、流失） | 受试者自身变化或特征是否替代了处理效应？ | 保持组间等价（随机分配、同质样本） | [[Internal Validity]] |
 > | [[Internal Validity\|内部效度威胁]]—处理相关 | 3 种（扩散、补偿性怨恨、补偿性竞争） | 组间互动或心理反应是否污染了处理效应？ | 隔离或补偿对照组 | [[Internal Validity]] |
 > | [[Internal Validity\|内部效度威胁]]—程序相关 | 2 种（测验、工具） | 测量过程本身是否改变了结果？ | 统一前后测工具、延长间隔 | [[Internal Validity]] |
 > | [[External Validity\|外部效度威胁]] | 3 种（选择×处理、情境×处理、历史×处理） | 结果能否推广到其他人群、情境和时间？ | 限制推广范围、在不同条件下复制 | [[External Validity]] |

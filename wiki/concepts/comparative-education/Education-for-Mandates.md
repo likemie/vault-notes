@@ -7,7 +7,7 @@ aliases:
 summary: "Martens, Niemann, & Krogmann (2024) 与 Steiner-Khamsi 等提出的比较教育与全球治理分析概念，指原本缺乏专门教育法定职能的国际组织（如经合组织、世界银行、区域开发银行及贸易联盟），通过将教育重新编码为服务于经济增长、和平、可持续发展或知识经济等核心法定使命的工具性手段，从而合法化自身对教育政策领域的跨界介入与资源动员。"
 type: concept
 domain: "comparative-education"
-related_count: 32
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Discourse]]"
   - "[[Grand Theory]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Paradigm]]"
   - "[[Soft Power]]"
   - "[[Global Education Governing Complex]]"
@@ -58,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Education-for-Mandates
@@ -124,7 +123,7 @@ updated: 2026-10-07
 
 ### 命题一　非专门国际组织通过将教育工具化为核心使命载体实现对教育政策场域的合法性突围
 
-> [!concept-lens] 工具性[[Transfer Translation Transformation\|转译]]与管辖权突围
+> [!concept-lens] 工具性转译与管辖权突围
 > 探讨国际组织如何在欠缺教育法理授权的先天限制下，运用使命延伸[[Discourse|话语]]完成制度性自我赋权。
 
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]]

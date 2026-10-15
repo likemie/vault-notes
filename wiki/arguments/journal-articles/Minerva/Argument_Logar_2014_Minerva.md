@@ -7,7 +7,7 @@ title: "Argument_Logar_2014_Minerva"
 argument_key: "Argument_Logar_2014_Minerva"
 argument_display_title: "Semiconductor Research Corporation: A case study in cooperative innovation partnerships"
 argument_kind: "journal-article"
-argument_related_count: 28
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Membership-based Research Consortium]]"
   - "[[Precompetitive Research]]"
   - "[[Mentorship]]"
-  - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Academic Freedom]]"
   - "[[Technology Transfer]]"
@@ -117,7 +116,7 @@ tags:
 > | 样本层面 | 构成 |
 > |----------|------|
 > | **访谈样本** | 共计 19 位关键决策与参与主体（部分受访者兼具多重身份）：包括 9 位 SRC 机构高管与项目主管（涵盖总裁兼首席执行官 Larry Sumney、执行副总裁 Steven Hillenius、首席科学家 Ralph Cavin、高级科学家 James Hutchby、[[Focus Center Research Program\|FCRP]] 主管 Elizabeth Weitzman、NRI 主管 Jeffrey Walser、纳米制造主管 Daniel Herr、计算机辅助设计（Computer-Aided Design, CAD）主管 William Joyner 等）、7 位来自工业界成员企业的代表（涵盖应用材料高级总监 David Kyser、GLOBALFOUNDRIES 院士 Paul Besser、[[Mentorship\|mentor]] Graphics 董事长兼首席执行官 Walden Rhines、Novellus 前执行副总裁 Wilbert Van den Howk 等），以及 8 位受资助的高校教授（涵盖哈佛大学物理学教授 Robert Westervelt、麻省理工学院（Massachusetts Institute of Technology, MIT）电子工程教授 Charles Sodini 等）与现任/前任 SRC 资助研究生。每场访谈时长 30 至 60 分钟，多位关键受访者接受了多轮跟进访谈。（pp. 240, 259–260） |
-> | **[[Document\|文献]]与档案样本** | 涵盖 SRC 历年年度报告、各项目任务章程、美国国家技术与创新奖章授奖档案、ITRS 路线图公开文件，以及 1982–2010 年间全美集成电路与硅器件相关博士论文数据库。 |
+> | **文献与档案样本** | 涵盖 SRC 历年年度报告、各项目任务章程、美国国家技术与创新奖章授奖档案、ITRS 路线图公开文件，以及 1982–2010 年间全美集成电路与硅器件相关博士论文数据库。 |
 > | **材料情境** | 研究依托哈佛大学肯尼迪政府学院贝尔弗科学与国际事务中心开展，属于一项关于国家创新机构与能源科技创新治理的大型比较研究项目的一部分。 |
 
 ---
@@ -224,7 +223,7 @@ tags:
 > - **科研产出与行业采纳** 攻克了 FinFET 的核心栅极结构、物理建模与关键制造参数，为英特尔等企业随后商业化 22nm 及以下先进制程奠定了核心工艺理论基石；该突破以极小的前期投入大幅延长了全美既有硅制造基础设施的服役寿命，避免了推倒重建的高昂沉没成本。
 
 > [!stat-cards]- SRC 关键科研产出指标
-> - **377 项专利** 截至[[Document|文献]]发表，SRC 资助的大学科研累计催生 377 项授权专利，为全行业提供共有技术底座。（p. 244）
+> - **377 项专利** 截至文献发表，SRC 资助的大学科研累计催生 377 项授权专利，为全行业提供共有技术底座。（p. 244）
 > - **72 篇高工业引用文献** 在 125 篇被引超过 100 次的高影响力论文中，多达 72 篇（58%）的引用中超过 15% 来自工业界，彰显了极高的商业相关性。
 > - **年均 1,500 名博士生** 每年稳定资助近 1,500 名博士研究生开展半导体相关前沿探索，成为全美集成电路人才核心摇篮。（p. 245）
 > - **9,200+ 毕业生储备** 各子计划累计培养超过 9,200 名高层次工程技术毕业生（其中 GRC 培养 6,861 人，FCRP 培养 1,963 人，NRI 培养 382 人）。（p. 246）
@@ -319,7 +318,7 @@ tags:
 
 > [!warning]
 > - **单[[Case Study|案例研究]]的设计局限** 研究基于对 [[Semiconductor Research Corporation|SRC]] 单一机构的[[Qualitative Interview|质性访谈]]（$N=19$）与内部档案梳理，尽管对部分关键角色进行了深入追踪，但在多大程度上能够完全外推至其他不同产业领域仍存在[[External Validity|外部效度]]约束。（pp. 240, 256–257）
-> - **未直接调研弃权未加入的企业群体** 访谈样本主要集中于 SRC 内部管理者、积极出资的成员企业技术高管及受资助大学学者，未能对未加入 SRC 的半导体初创企业进行直接的深度质性调研，对小企业不参与决策的分析主要依据[[Document|文献]]与间接访谈推断。（pp. 243–244, 255–256）
+> - **未直接调研弃权未加入的企业群体** 访谈样本主要集中于 SRC 内部管理者、积极出资的成员企业技术高管及受资助大学学者，未能对未加入 SRC 的半导体初创企业进行直接的深度质性调研，对小企业不参与决策的分析主要依据文献与间接访谈推断。（pp. 243–244, 255–256）
 > - **论文发表与专利数据的代理局限** 研究者明确指出，论文发表量、引文数与专利授权量仅是技术产出与潜在经济效益的间接代理指标，无法完全度量科研隐性[[Knowledge Transfer|知识转移]]、学术网络构建及劳动力整体效能的实质贡献。（pp. 244–245）
 
 ---

@@ -8,7 +8,7 @@ summary: "研究者不参与群体活动而从外部系统观察和记录行为�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 22
+method_related_count: 21
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -30,7 +30,6 @@ related_methods:
   - "[[Participant Observation]]"
   - "[[Case Study]]"
   - "[[Classroom Observation]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Structured Observation]]"
   - "[[Observation Method]]"
   - "[[Time Sampling]]"
@@ -52,7 +51,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 方法定义
-> 非[[Participant Observation\|参与观察]]是研究者不参与被观察群体活动、从外部保持距离地系统观察和记录行为的方法。与参与式观察不同，非参与观察者回避群体成员身份，保持研究者与研究对象之间的明确边界。在 Gold（1958）的观察者角色连续体中，非参与观察涵盖完全观察者和观察者即参与者两种角色（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al., 2011, Ch. 23, 23.1 节]]）。这一方法在[[Case Study\|个案研究]]、[[Classroom Observation|课堂观察]]和结构化行为[[Coding in Qualitative Research\|编码]]中广泛应用（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|Cohen et al., 2011, Ch14, pp. 291–292]]）。
+> 非[[Participant Observation\|参与观察]]是研究者不参与被观察群体活动、从外部保持距离地系统观察和记录行为的方法。与参与式观察不同，非参与观察者回避群体成员身份，保持研究者与研究对象之间的明确边界。在 Gold（1958）的观察者角色连续体中，非参与观察涵盖完全观察者和观察者即参与者两种角色（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al., 2011, Ch. 23, 23.1 节]]）。这一方法在[[Case Study\|个案研究]]、[[Classroom Observation|课堂观察]]和结构化行为编码中广泛应用（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|Cohen et al., 2011, Ch14, pp. 291–292]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 个体或群体的外显行为、互动模式、语言使用、空间布置和环境特征。
@@ -65,7 +64,7 @@ updated: 2026-10-15
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 以可观察的外显行为为证据基础；研究者通过系统记录和分类来获取知识，而非通过沉浸和共情
 > - **研究者角色** 研究者是外部观察者，不介入、不参与、不干扰。King（1979）在幼儿课堂中站立保持社会距离、故意避免眼神接触以确立非参与地位。Gold（1958）的完全观察者即为典型非参与角色——只观察、脱离群体，如通过单向镜或视频录像（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al., 2011, Ch. 23, 23.1, 23.9 节]]）
-> - **有效性标准** 观察表的[[Reliability\|信度]]（观察者间一致性）、[[Coding in Qualitative Research\|编码]]系统的[[Content Validity\|内容效度]]、记录的完整性和系统覆盖
+> - **有效性标准** 观察表的[[Reliability\|信度]]（观察者间一致性）、编码系统的[[Content Validity\|内容效度]]、记录的完整性和系统覆盖
 > - **不声称回答的问题** 不能直接获取参与者的内在意义、主观体验或内部人视角的理解；不适合探究隐性文化规则或[[Tacit Knowledge|默会知识]]
 
 > [!method-stack] 方法层级
@@ -77,7 +76,7 @@ updated: 2026-10-15
 ## 研究程序
 
 > [!proc] 通用程序
-> 1. 确定观察焦点、行为类别和[[Coding in Qualitative Research\|编码]]系统，定义需要记录的具体行为及其[[Operationalization\|操作化]]指标
+> 1. 确定观察焦点、行为类别和编码系统，定义需要记录的具体行为及其[[Operationalization\|操作化]]指标
 > 2. 设计[[Structured Observation\|结构化观察]]表，明确[[Time Sampling|时间抽样]]或事件抽样的规则
 > 3. 培训观察者，确保[[Intercoder Agreement\|编码一致性]]和观察者间[[Reliability\|信度]]
 > 4. 在自然或半自然情境中实施观察，保持非参与地位，避免干扰被观察者
@@ -112,14 +111,14 @@ Bailey（1994, p. 247）解释：在自然情境中，研究者很难进行非�
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 需要精确量化行为频数和模式；需要在不同情境或时间点之间进行系统比较；课堂互动研究、师生行为[[Coding in Qualitative Research\|编码]]；研究者无法或不适合成为参与者（如成人观察幼儿课堂）；需要多位观察者同时收集标准化数据
+> - **适合使用** 需要精确量化行为频数和模式；需要在不同情境或时间点之间进行系统比较；课堂互动研究、师生行为编码；研究者无法或不适合成为参与者（如成人观察幼儿课堂）；需要多位观察者同时收集标准化数据
 > - **谨慎使用** 需要理解参与者深层意义或主观体验的情境；被观察者可能因意识到被观察而改变行为（反应性）的情境；需要长期建立信任才能观察到的行为
 > - **不适合使用** 需要获取内部人视角或默会文化知识；需要理解行为背后的复杂动机和意义建构；隐蔽或敏感行为的研究
 
 ## 局限性
 
 > [!method-limits] 方法局限
-> - **偏误来源** 反应性（被观察者因意识到被观察而改变行为，即反应性效应）；观察者偏差（不同观察者对同一行为的[[Coding in Qualitative Research\|编码]]不一致）；选择性注意（观察表的结构可能过滤掉重要但未预编码的行为）；[[Halo Effect\|光环效应]]（对个体的整体印象影响行为编码）。
+> - **偏误来源** 反应性（被观察者因意识到被观察而改变行为，即反应性效应）；观察者偏差（不同观察者对同一行为的编码不一致）；选择性注意（观察表的结构可能过滤掉重要但未预编码的行为）；[[Halo Effect\|光环效应]]（对个体的整体印象影响行为编码）。
 > - **适用边界** 研究发现限于可观察的外显行为；不可推广到参与者的主观体验和内在状态；编码类别预设可能限制发现的范围。
 > - **误用风险** 将编码频数等同于行为的重要性；忽略编码类别之外的重要行为；仅凭外显行为推断意图或动机。
 > - **补救方式** 观察者培训与观察者间[[Reliability\|信度]]检验；试测观察表并迭代修订；辅以参与式观察或访谈弥补内部视角的缺失。

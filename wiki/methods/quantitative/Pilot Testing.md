@@ -13,7 +13,7 @@ summary: "在正式数据收集或评估工具发布前，通过小规模试运�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 45
+method_related_count: 43
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -42,7 +42,6 @@ related_concepts:
   - "[[Open-Mindedness]]"
   - "[[Literature Review]]"
   - "[[Saturation]]"
-  - "[[Document]]"
   - "[[Predictive Validity]]"
   - "[[Heterogeneity]]"
   - "[[Hawthorne Effect]]"
@@ -55,7 +54,6 @@ related_methods:
   - "[[Survey Research]]"
   - "[[Questionnaire]]"
   - "[[Experimental Research]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Multiple Regression]]"
   - "[[Sample Size Determination]]"
   - "[[Item Analysis]]"
@@ -111,7 +109,7 @@ updated: 2026-10-15
 > [!method-position] 认识论与方法定位
 > - **研究者角色** 工具开发者、程序诊断者与质量审核者；需在正式施测或大规模立项前完成可行性诊断与程序调优。
 > - **有效性标准** 能否敏锐捕获工具、程序与测量操纵中导致数据失真、认知超载或项目流产的潜在隐患。
-> - **不声称回答的问题** 预测试本身不能回答实[[Qualitative Research|质性研究]][[Hypothesis|假设]]；不能替代正式大样本的最终心理测量学检验；预测试在受控小样本中的可行性不能完全保证复杂现场的总体成功。
+> - **不声称回答的问题** 预测试本身不能回答实[[Qualitative Research|质性研究]]假设；不能替代正式大样本的最终心理测量学检验；预测试在受控小样本中的可行性不能完全保证复杂现场的总体成功。
 > - **竞争性资助门槛外溢** 在科研资助生态中，预实验数据被同行评审委员会视作规避失败风险的硬指标，诱发了“预实验完成大半方敢申报课题”的科研异化现象。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 28)]]
 
 在实证方法体系中，预测试贯穿了从方案设计到数据采集与分析准备的各个层次。
@@ -151,7 +149,7 @@ updated: 2026-10-15
 
 > [!dimension] 两类问卷预测试的对比
 > - **第一类：格式与覆盖范围预测试**
->   不关注样本统计参数，而聚焦题面覆盖度、措辞准确性与版面格式。通过少量受试者与同行专家反馈，排查题目歧义、可读性门槛、敏感侵入性、引导性提问及[[Coding in Qualitative Research|编码]]分类缺陷。奥本海姆强调问卷上的一切（乃至字体大小与纸张质地）均须经过预测试。
+>   不关注样本统计参数，而聚焦题面覆盖度、措辞准确性与版面格式。通过少量受试者与同行专家反馈，排查题目歧义、可读性门槛、敏感侵入性、引导性提问及编码分类缺陷。奥本海姆强调问卷上的一切（乃至字体大小与纸张质地）均须经过预测试。
 > - **第二类：统计缩减预测试**
 >   从宽泛的候选题库出发，通过 50–100 人的中等规模代表性样本进行量化统计筛选（Kgaile & Morrison, 2006）。综合运用[[Reliability|信度]]分析（剔除拉低 Cronbach's α 的题项）、多重共线性诊断（合并高度冗余题项）、[[Multiple Regression|多元回归]]（剔除标准化回归系数接近零的无预测力题项）以及[[Exploratory Factor Analysis|探索性因子分析]]（确定[[Construct|构念]]因子结构）。专家[[Professional Judgment|专业判断]]必须凌驾于纯粹统计指标之上，避免因单纯追求统计显著而丢失关键理论领域。
 
@@ -196,7 +194,7 @@ Teach 历经两年的三阶段迭代式预测试规程如下：
 > [!proc] Teach 工具的三阶段预测试与架构迭代规程
 > 1. **第一阶段 [[Literature Review|文献综述]]与专家审查精简（Conceptual Screening）**
 >    - 初始由 22 名全球顶尖学者组成的技术顾问委员会从 5 套主流工具（Gill et al., 2016）中提炼出 43 项微观教学行为；
->    - 经过[[Saturation|理论饱和]]度筛选初步压缩至 25 项，再经实证[[Document|文献]]审查凝练为 14 项核心要素，开发出第一代原型量表。
+>    - 经过[[Saturation|理论饱和]]度筛选初步压缩至 25 项，再经实证文献审查凝练为 14 项核心要素，开发出第一代原型量表。
 > 2. **第二阶段 跨国现场与视频预测试诊断认知过载（Pilot Feasibility & Diagnostic Shift）**
 >    - 原型工具试图要求观察员**同时对教学行为的“发生频率”与“实施质量”进行编码**（例如既要统计教师提问了多少次高阶问题，又要实时评定每次提问的认知深度）；
 >    - 在巴基斯坦、乌拉圭现场以及跨 7 个中低收入国家教学录像的实地测试中，观察员反馈出极其严重的认知负荷过载（Cognitive Overload），导致评分者间一致率极低且数据严重失真；

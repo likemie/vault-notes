@@ -8,10 +8,10 @@ aliases:
 summary: "以规范、认知和知识为基础的治理机制，用于说明高等教育机构如何通过知识权威、专家培养和价值框架参与全球治理。"
 type: concept
 domain: "higher-education"
-related_count: 30
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 28
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
 - region/global
 - level/higher-ed
@@ -20,7 +20,6 @@ related_concepts:
   - "[[University Social Responsibility]]"
   - "[[Scientization of Politics]]"
   - "[[Otherhood]]"
-  - "[[Hypothesis]]"
   - "[[Paradigm]]"
   - "[[Innovation Hub]]"
   - "[[Knowledge Production]]"
@@ -30,7 +29,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Evidence-Based Education]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Document]]"
   - "[[Literature Review]]"
   - "[[Epistemic Drift]]"
 related_theories:
@@ -54,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-11'
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Epistemic Governance
@@ -72,7 +70,7 @@ updated: 2026-10-08
 > - vs 硬治理（hard governance） — 硬治理依赖强制性和规制性工具（法律、制裁、军事力量），以国家为中心；知识治理依赖规范性、认知性工具（观念、知识、[[Cultural Models\|文化模型]]），以多行动者网络为架构。二者的关系不是替代而是层叠——知识治理更多地在硬治理的框架之上运作，为其提供合法性和认知基础([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.145–146]])
 > - vs [[Scientization of Politics\|政策的科学化]]（Scientization of Politics） — 政策的科学化是知识治理兴起的关键前提：当政策制定者接受"决策应依据科学证据"时，大学和研究者获得进入治理核心的制度通道；知识治理描述的是这一通道打开后的整体治理架构及其运作机制([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.145–149]])
 > - vs 证据本位政策（evidence-based policy） — 证据本位政策主要关注"政策制定是否依据科学证据"这一工具性问题，通常在国家政策层面讨论；知识治理是一个更广泛的生成性概念（generative concept），关注"知识如何在去中心化的全球治理架构中产生治理效应"——不仅包括证据被使用，更包括知识如何通过 [[Otherhood]] 机制建构治理的文化模型本身
-> - vs 技术官僚（technocracy） — 技术官僚指"专家统治"，暗示科学知识替代民主决策；知识治理不[[Hypothesis\|假设]]科学家取代政治家，而是分析知识、规范和观念如何与权力、利益和制度相互作用，共同构成治理的认知基础设施([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.154–155]])
+> - vs 技术官僚（technocracy） — 技术官僚指"专家统治"，暗示科学知识替代民主决策；知识治理不假设科学家取代政治家，而是分析知识、规范和观念如何与权力、利益和制度相互作用，共同构成治理的认知基础设施([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.154–155]])
 
 ---
 ## 概念演变
@@ -119,7 +117,7 @@ updated: 2026-10-08
 
 > [!success]
 > - 全球[[Knowledge-Based Economy\|知识经济]]（global knowledge economy）的诊断为知识治理的兴起提供了宏观叙事背景：高度受教育劳动力的规模化扩张正在将社会转型为"学校化社会"（schooled society），其影响远超直接的经济收益（Baker, 2014，引自 [[Argument_Zapp_2022_Springer\|Zapp, 2022, p.146]]）。参见 [[Knowledge-Based Economy]]
-> - Zapp (2020a) 对 1947–2019 年间 100+ 份国际组织全球报告的分析发现，从 1980 年代末起所有报告均开始引用科学资源，部分报告已类似于包含数千条学术参考[[Document\|文献]]的大规模[[Literature Review\|文献综述]]——知识从大学流向 IO，IO 再用这些知识塑造全球政策议程，构成知识治理的物质循环([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.151]])
+> - Zapp (2020a) 对 1947–2019 年间 100+ 份国际组织全球报告的分析发现，从 1980 年代末起所有报告均开始引用科学资源，部分报告已类似于包含数千条学术参考文献的大规模[[Literature Review\|文献综述]]——知识从大学流向 IO，IO 再用这些知识塑造全球政策议程，构成知识治理的物质循环([[Argument_Zapp_2022_Springer\|Zapp, 2022, p.151]])
 > - Zapp (2017b) 发现 1325+ 个国际组织与大学之间存在广泛的研究合作关系，公立大学是所有国际组织最频繁的研究合作者——平均 40,000 篇共同署名出版物。这种合作是双向的：大学知识渗透进 IO 的运作，同时 IO（如 [[OECD]]）也塑造了大学的研究议程
 > - 在全球治理实践中，知识权威的崛起体现在多个层面：研究评估体系（如英国 REF）中"影响"权重的持续增加（从 2009 年讨论到 REF 2014 成为第二重要评分项）；[[THE Impact Ranking]] 将大学的社会贡献转化为排名指标；以及全球 200+ 所大学在过去 5 年内首次发布 CSR/可持续发展报告([[Argument_Zapp_2022_Springer\|Zapp, 2022, pp.146–147, 152–153]])
 

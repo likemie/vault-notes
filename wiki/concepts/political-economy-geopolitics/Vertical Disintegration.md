@@ -94,7 +94,7 @@ updated: 2026-10-12
 > [!contrast-table] 纵向离散与纵向一体化的创新机制与治理对比
 > | 比较维度 | 纵向离散模式（Vertical Disintegration） | 传统纵向一体化模式（Vertical Integration, IDM） |
 > |:---|:---|:---|
-> | **组织形态** | 模块化解耦、无晶圆设计商、专业代工厂、设备商多边协作 | 单一巨头企业内部集成研发、[[Electronic Design Automation\|EDA]]、晶圆制造与封测 |
+> | **组织形态** | 模块化解耦、无晶圆设计商、专业代工厂、设备商多边协作 | 单一巨头企业内部集成研发、EDA、晶圆制造与封测 |
 > | **资本与进入门槛** | 设计企业无需承担数十亿至数百亿美元建厂固定成本，进入壁垒极低 | 必须承担全产业链重资产投资，沉没资本与技术换代风险极高 |
 > | **创新优势** | 细分模块内专业化程度极高、设计迭代与微架构创新极其敏捷 | 跨部门内部信息无缝交互、能有效承受长周期颠覆性架构探索 |
 > | **核心失灵与缺陷** | 跨环节协调失灵、共性技术供给不足、单点咽喉依赖与断链风险 | 组织官僚化僵化、对非主营颠覆性创新产生阻抗、大宗产能沉没锁定 |
@@ -106,7 +106,7 @@ updated: 2026-10-12
 
 > [!feature] 现代半导体纵向离散产业生态的六大核心环节与特征
 > - **基础原材料与高纯度化学品（Basic Materials）** 晶圆基板、多晶硅及专用光刻胶等高度依赖日本与德国等少数专业材料巨头。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 87)]]
-> - **核心研发、[[Electronic Design Automation|EDA]] 软件与 IP 核（Core R&D & Software）** 芯片架构与电子设计自动化软件（EDA）被美国新思科技（Synopsys）、楷登电子（Cadence）等寡头垄断，构成设计端咽喉。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 88)]]
+> - **核心研发、EDA 软件与 IP 核（Core R&D & Software）** 芯片架构与[[Electronic Design Automation|电子设计自动化]]软件（EDA）被美国新思科技（Synopsys）、楷登电子（Cadence）等寡头垄断，构成设计端咽喉。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 88)]]
 > - **半导体精密制造设备（Manufacturing Equipment）** 极紫外光刻机（EUV）、刻蚀机与薄膜沉积设备分别由荷兰阿斯麦（ASML）、美国应用材料与日本东京电子等极少数企业垄断。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 89)]]
 > - **无晶圆厂设计商（Fabless Design）** 专注于特定架构、算法与微电路创新，彻底剥离重资产制造负担。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 118–120)]]
 > - **纯晶圆代工制造（Foundry Fabrication）** 依托庞大产能、精细良率控制与数百亿美元投资实现极限规模经济，以[[Taiwan Semiconductor Manufacturing Corporation|台积电]]（TSMC）和三星为代表。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 91)]]
@@ -176,7 +176,7 @@ updated: 2026-10-12
 > 探讨现代跨国极度细分与地理集中的分工体系如何瓦解传统封闭式[[Import Substitution Industrialisation|进口替代]]与国家冠军扶持逻辑。
 
 > [!claim] [[Argument_Bown_2024_JEP|Bown & Wang (2024)]]
-> **多阶段离散网络与国家冠军模式的破产** 现代半导体产业已演变为跨越材料、[[Electronic Design Automation|EDA]]、精密设备、设计、代工与封测六大工序的高阶纵向离散网络；各工序在技术复杂度与资本密度上均达到历史极值，并在特定国家形成不可替代的单点咽喉（如荷兰 ASML 垄断 EUV 光刻、台湾[[Taiwan Semiconductor Manufacturing Corporation|台积电]]垄断尖端先进制程代工）。在如此细分且相互深度锁定的全球网络中，任何单一国家试图通过封闭式产业政策打造全栈自主的“国家冠军”企业均面临无法逾越的技术与资本壁垒；现代战略竞争因而必须转向跨国技术管制联盟与友岸外包协作。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 86–92, 102)]]
+> **多阶段离散网络与国家冠军模式的破产** 现代半导体产业已演变为跨越材料、EDA、精密设备、设计、代工与封测六大工序的高阶纵向离散网络；各工序在技术复杂度与资本密度上均达到历史极值，并在特定国家形成不可替代的单点咽喉（如荷兰 ASML 垄断 EUV 光刻、台湾[[Taiwan Semiconductor Manufacturing Corporation|台积电]]垄断尖端先进制程代工）。在如此细分且相互深度锁定的全球网络中，任何单一国家试图通过封闭式产业政策打造全栈自主的“国家冠军”企业均面临无法逾越的技术与资本壁垒；现代战略竞争因而必须转向跨国技术管制联盟与友岸外包协作。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 86–92, 102)]]
 
 ---
 

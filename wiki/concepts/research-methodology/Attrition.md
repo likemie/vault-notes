@@ -13,10 +13,10 @@ aliases:
 summary: "实验或追踪研究中参与者因各种原因中途脱落导致初始随机等价性被破坏的内部效度威胁，WWC通过整体流失与差异流失二维边界模型度量其潜在因果偏误。"
 type: concept
 domain: "research-methodology"
-related_count: 40
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 39
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - subject/research-methodology
   - experiment
@@ -35,7 +35,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Response Bias]]"
   - "[[Initial Teacher Training]]"
-  - "[[Hypothesis]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
@@ -73,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-12
-updated: 2026-09-18
+updated: 2026-10-15
 ---
 
 # Attrition
@@ -174,7 +173,7 @@ ight|$$
 
 > [!case] 宏观综合学生支持中的人口流动 vs 政策倦怠脱落
 > 在全美大型防辍干预项目（如 [[Success for All]]、[[Communities in Schools]]）的多年期评估中：
-> - 贫困学区每年面临高达 20%–40% 的自然家庭搬迁流动（符合 [[What Works Clearinghouse\|WWC]] 宽容边界[[Hypothesis\|假设]]）；
+> - 贫困学区每年面临高达 20%–40% 的自然家庭搬迁流动（符合 [[What Works Clearinghouse\|WWC]] 宽容边界假设）；
 > - 若某一实验校因实施过严导致学生主动转学逃避（符合保守边界假设），研究者必须区分两类流失的微观机理，否则无法向清算中心合理解释[[Internal Validity\|内部效度]]。
 
 ---

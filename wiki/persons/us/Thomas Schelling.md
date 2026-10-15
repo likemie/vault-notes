@@ -13,10 +13,10 @@ summary: "美国著名经济学家、博弈论大师、诺贝尔经济学奖得�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 8
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 born: "1921"
 died: "2016"
 lifespan: "1921–2016"
@@ -36,12 +36,11 @@ related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03]]"
 related_theories:
   - "[[Strategic Bargaining Theory]]"
-related_persons:
-  - "[[Alfred Nobel]]"
+related_persons: []
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Thomas Schelling
@@ -51,7 +50,7 @@ updated: 2026-10-08
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国经济学家、外交政策顾问，曾任教于耶鲁大学与哈佛大学，2005年因“通过博弈论分析加深了对冲突与合作的理解”荣获[[Alfred Nobel|诺贝尔]]经济学奖。
+> - **身份位置** 美国经济学家、外交政策顾问，曾任教于耶鲁大学与哈佛大学，2005年因“通过博弈论分析加深了对冲突与合作的理解”荣获诺贝尔经济学奖。
 > - **核心角色** 冷战时期战略研究与博弈论的核心奠基人，将微观经济学博弈工具引入国际安全、军备控制与危机外交分析。
 > - **代表贡献** 提出[[Hard Power|硬实力]]与强制外交理论、威慑博弈模型、聚焦理论（Focal Point）以及关于伤害能力与谈判筹码关系的经典论断。
 
@@ -71,7 +70,7 @@ updated: 2026-10-08
 > - **1958–1990** 长期担任哈佛大学经济系与肯尼迪政府学院教授，期间参与兰德公司（RAND Corporation）的高级战略研讨，为美国冷战时期的核战略与危机管控提供理论支持。
 > - **1960** 出版奠基之作《[[Strategic Bargaining Theory|冲突的战略]]》（*The Strategy of Conflict*），系统奠定非零和博弈与战略威慑分析[[Paradigm|范式]]。
 > - **1966** 出版《武器与影响》（*Arms and Influence*），提出关于强制外交、暴力预期与谈判筹码的经典命题。
-> - **2005** 与罗伯特·奥曼（Robert Aumann）共同荣获[[Alfred Nobel|诺贝尔]]经济学奖。
+> - **2005** 与罗伯特·奥曼（Robert Aumann）共同荣获诺贝尔经济学奖。
 > - **2016** 逝世于马里兰州贝塞斯达，享年95岁。
 
 ---

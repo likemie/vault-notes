@@ -9,7 +9,7 @@ summary: "丹麦著名演化经济学家、创新系统理论奠基人之一，�
 type: person
 nationality: denmark
 person_region: "denmark"
-person_related_count: 27
+person_related_count: 25
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Growth]]"
   - "[[Tacit Knowledge]]"
   - "[[Competitiveness]]"
-  - "[[Hypothesis]]"
   - "[[Learning Economy]]"
   - "[[Knowledge Production]]"
   - "[[Lifelong Learning]]"
@@ -41,7 +40,6 @@ related_theories:
   - "[[Bounded Rationality]]"
   - "[[Human Capital Theory]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_persons:
@@ -57,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Bengt-Åke Lundvall
@@ -111,7 +109,7 @@ updated: 2026-10-14
 > 技术创新在本质上是一个跨越企业边界的“互动学习”过程；当将不确定性、局域化学习和[[Bounded Rationality|有限理性]]作为微观经济行为的基本假定时，微观用户—生产者关系网络与宏观国家制度环境的差异，必然导向多样化与差异化的经济演进路径，而非标准化的全球趋同。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 11, 15, 17)]]
 
 > [!citation-card] 伦德瓦尔论有限理性与国家创新路径的多样性
-> 如果将不确定性、局域化学习（Localized Learning）与有限理性作为关于微观经济行为的基本且更符合现实的[[Hypothesis|假设]]，而非传统完全信息与超理性的假设，那么必然能够得出结论：地方与国家在外部环境上的差异将往往导致完全不同的发展道路，走向日益增强的多样性，而非标准化与收敛趋同。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 15)]]
+> 如果将不确定性、局域化学习（Localized Learning）与有限理性作为关于微观经济行为的基本且更符合现实的假设，而非传统完全信息与超理性的假设，那么必然能够得出结论：地方与国家在外部环境上的差异将往往导致完全不同的发展道路，走向日益增强的多样性，而非标准化与收敛趋同。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 15)]]
 >
 > *If uncertainty, localised learning and bounded rationality are introduced as basic and more realistic assumptions about microeconomic behaviour, rather than the traditional assumptions of perfect information and hyperrationality, then it must follow that local and national variations in circumstances may often lead to different paths of development and to increasing diversity rather than to standardisation and convergence.*
 
@@ -121,7 +119,7 @@ updated: 2026-10-14
 > *Even in the case of continuous incremental innovation in open economies, the drive towards standardisation is limited. Geographical and cultural proximity to advanced users and a network of institutionalised (even if often informal) [[User-Producer Interaction|user-producer relationships]] are an important source of diversity and of comparative advantage, as is the local supply of managerial and technical skills and accumulated tacit knowledge.*
 
 > [!citation-card] 福瑞与伦德瓦尔论[[Knowledge-Based Economy|知识经济]]向“学习型经济”的[[Paradigm|范式]]转型
-> [[Dominique Foray|多米尼克·福瑞]]（Dominique Foray）与本格特-奥克·伦德瓦尔（Bengt-Åke Lundvall）在 1996 年[[OECD|经合组织]]报告中指出：现代经济的决定性特征不仅在于信息与[[Coding in Qualitative Research|编码]]知识的激增，更在于知识更新与折旧周期的急剧加快。因此，一个国家在知识经济中的核心能力，取决于其多快能够完成向“学习型经济（[[Learning Economy]]）”的转型；而学习绝不仅仅是利用现代信息技术获取全球编码化知识，更关乎与他人互动沟通以提升协作生产力的隐性能力与反思能力。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
+> [[Dominique Foray|多米尼克·福瑞]]（Dominique Foray）与本格特-奥克·伦德瓦尔（Bengt-Åke Lundvall）在 1996 年[[OECD|经合组织]]报告中指出：现代经济的决定性特征不仅在于信息与编码知识的激增，更在于知识更新与折旧周期的急剧加快。因此，一个国家在知识经济中的核心能力，取决于其多快能够完成向“学习型经济（[[Learning Economy]]）”的转型；而学习绝不仅仅是利用现代信息技术获取全球编码化知识，更关乎与他人互动沟通以提升协作生产力的隐性能力与反思能力。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
 >
 > *A nation's capacity in the knowledge-based economy depends on how quickly it can transition to a 'learning economy'... Learning is not simply about using new information and communications technologies to access global knowledge, but about communicating with others to enhance productivity.*
 

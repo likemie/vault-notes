@@ -8,9 +8,9 @@ aliases:
 summary: "由美国大学入学考试机构（ACT）研发的标准化通识能力测评工具，其批判性思维模块通过33道情境单选题测量大学生分析要素、评估论证与拓展论点的能力。"
 type: instrument
 instrument_type: test
-instrument_related_count: 10
-instrument_related_level: 2
-instrument_related_stars: "⭐⭐"
+instrument_related_count: 9
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#dbeafe"
 part_of: ""
 developers:
@@ -29,7 +29,6 @@ tags:
 related_concepts:
   - "[[General Education]]"
   - "[[Critical Thinking]]"
-  - "[[Hypothesis]]"
   - "[[Causality]]"
   - "[[Scientifically Based Research]]"
   - "[[Reliability]]"
@@ -46,7 +45,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-09-18
+updated: 2026-10-15
 ---
 
 # Collegiate Assessment of Academic Proficiency
@@ -70,7 +69,7 @@ updated: 2026-09-18
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
 > |---|---|---|---|
-> | **分析论证要素（Analysis of Elements）** | 10–12 题 | 识别论述中的基本要素，区分事实断言与价值判断，辨析核心[[Hypothesis\|假设]]与[[Causality\|因果关系]]。 | 机器阅卷（0–1 分） |
+> | **分析论证要素（Analysis of Elements）** | 10–12 题 | 识别论述中的基本要素，区分事实断言与价值判断，辨析核心假设与[[Causality\|因果关系]]。 | 机器阅卷（0–1 分） |
 > | **评估论据与推理（Evaluation of Arguments）** | 10–12 题 | 评判论据的有效性、相关性与充分性，识别逻辑谬误与修辞偏差。 | 机器阅卷（0–1 分） |
 > | **拓展论点与推导结论（Extension of Arguments）** | 9–11 题 | 将论点推导至新情境，预测可能后果，辨析竞争性假设与替代解释。 | 机器阅卷（0–1 分） |
 

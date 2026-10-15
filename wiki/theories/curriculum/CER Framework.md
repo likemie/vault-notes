@@ -6,7 +6,7 @@ aliases:
 summary: "Katherine McNeill 与 Joseph Krajcik 提出的科学论证教学与评估框架，将科学解释解构为主张、证据与推理三个核心部件，是基础教育中广泛应用的学习进阶支架。"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 22
+theory_related_count: 21
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -34,7 +34,6 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Qualitative Observation]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -46,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-10
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # CER Framework
@@ -88,7 +87,7 @@ updated: 2026-10-08
 
 > [!proposition-chain] 核心命题一｜将论证拆解为主张-证据-推理三联结构能够显著降低学习者的认知负荷并促进[[Scientific Explanation\|科学解释]]规范内化
 > - **前提一** 基础教育阶段学生普遍缺乏自发协调证据与理论的[[Metacognition\|元认知]]习惯，容易将个人直觉或无根结论当作充分解释。
-> - **前提二** 图尔敏原始六部件模型中保证（Warrant）与支撑（Backing）的界线极其模糊，在中小学教学与评分中造成极高的[[Coding in Qualitative Research\|编码]]混乱与认知超载。
+> - **前提二** 图尔敏原始六部件模型中保证（Warrant）与支撑（Backing）的界线极其模糊，在中小学教学与评分中造成极高的编码混乱与认知超载。
 > - **推导** 将论证模型简化为三联结构（CER） $\rightarrow$ 降低概念理解与应用门槛 $\rightarrow$ 学习者在显式支架下逐步掌握“用证据说话、用原理说理”的科学论辩规范。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 202–204)]]
 
 > [!mechanism-map]- CER 框架结构机制
@@ -113,7 +112,7 @@ updated: 2026-10-08
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
 > - **[[Ontology\|本体论]]** 将科学论辩视为遵循句法规范的解释建构活动。
 > - **[[Epistemology\|认识论]]** 侧重结构主义与功能主义认识论，假定只要学生能够正确匹配证据与推理部件，其科学思维便得到了发展。
-> - **方法含义** 广泛作为课堂[[Formative Assessment\|形成性评价]]、论证写作模板（[[Scaffolding]] Worksheets）以及标准化评测的[[Coding in Qualitative Research\|编码]]量表。
+> - **方法含义** 广泛作为课堂[[Formative Assessment\|形成性评价]]、论证写作模板（[[Scaffolding]] Worksheets）以及标准化评测的编码量表。
 > - **不能直接推出的东西** 不能仅凭文本包含三部件就证明该论证具有科学真实性或认识论合理性。
 
 > [!theory-use] 如何用于研究与教学

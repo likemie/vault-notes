@@ -7,7 +7,7 @@ aliases:
 summary: "个体在执行复杂认知任务时，用于短暂保持、动态操纵与更新信息的容量有限的认知加工系统，构成人类新异信息加工的瓶颈与高级思维的核心基石。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 39
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Areas of Knowledge]]"
   - "[[Variable]]"
-  - "[[Hypothesis]]"
   - "[[Cognitive Offloading]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Epistemic Friction]]"
@@ -44,7 +43,6 @@ related_concepts:
 related_theories:
   - "[[Cognitive Load Theory]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Multiple Regression]]"
@@ -65,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Working Memory
@@ -115,7 +113,7 @@ updated: 2026-10-09
 
 > [!feature] 工作记忆系统的核心结构要素
 > - **中央执行系统（Central Executive）** 工作记忆的最高调控中枢，依赖[[Prefrontal Cortex\|前额叶皮层]]运行，负责注意力分配、任务集转换以及对无关直觉与冲动的[[Inhibitory Control\|抑制控制]]。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, p. 8)]]
-> - **语音回路与视空间画板（Phonological Loop & Visuospatial Sketchpad）** 分别负责处理口头语言声学信息与物体形状、空间位置的子系统，在初级实验操作与图表观察中发挥双重[[Coding in Qualitative Research\|编码]]功能。
+> - **语音回路与视空间画板（Phonological Loop & Visuospatial Sketchpad）** 分别负责处理口头语言声学信息与物体形状、空间位置的子系统，在初级实验操作与图表观察中发挥双重编码功能。
 > - **动态容量瓶颈（3–4 组块法则）** 无论智力水平高低，成年人意识中同时容纳且能自由操纵的独立未加工组块仅为 3–4 个，儿童在 4–6 岁时仅能容纳 1–2 个。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, p. 5)]]
 > - **前额叶能量代谢与注意力衰竭周期** 前额叶以葡萄糖为主要燃料，持续高强度专注约 10 分钟即出现神经疲劳，迫使大脑暂时转向默认模式网络进行能量重构与联想修复。[[Argument_Fredens_2015_Paideia\|(Fredens, 2015, pp. 71–72)]]
 > - **标准化测量[[Paradigm\|范式]]** 包含检验视觉维持的非语言面孔任务（Non-verbal Face Task）、检验序列更新的空间自排序任务（Spatial Self-ordered Task）以及针对幼儿的噪声书序列任务（Noisy Book Task）。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, p. 11)]]
@@ -169,7 +167,7 @@ updated: 2026-10-09
 > 阐明如何通过外部教学设计与长时记忆联动，打破工作记忆瓶颈并实现高阶概念建构。
 
 > [!claim] [[Argument_Fredens_2015_Paideia\|Fredens (2015)]]; [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]
-> **支架卸载外在负荷与长时记忆图式的双轨解放机制** 脱离指导的自由探究常因工作记忆被过度塞满杂乱信息而陷入瘫痪（即所谓垃圾桶过载效应）。通过在探究中引入针对性的[[Scaffolding\|教学支架]]（如变量控制提示、状态看板、即时原理解释），能够将机械搜索与信息保持负担外包给学习环境，使有限的工作记忆容量完全集中于[[Hypothesis\|假设]]验证与证据协调。同时，长时记忆中积累的自动化图式能够将繁复的知识网络打包为单一复合单元调入工作记忆，彻底突破 3–4 组块的生理限制，为高水平自主探究创造认知空间。[[Argument_Fredens_2015_Paideia\|(Fredens, 2015, pp. 71–73)]]; [[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 3, 8)]]
+> **支架卸载外在负荷与长时记忆图式的双轨解放机制** 脱离指导的自由探究常因工作记忆被过度塞满杂乱信息而陷入瘫痪（即所谓垃圾桶过载效应）。通过在探究中引入针对性的[[Scaffolding\|教学支架]]（如变量控制提示、状态看板、即时原理解释），能够将机械搜索与信息保持负担外包给学习环境，使有限的工作记忆容量完全集中于假设验证与证据协调。同时，长时记忆中积累的自动化图式能够将繁复的知识网络打包为单一复合单元调入工作记忆，彻底突破 3–4 组块的生理限制，为高水平自主探究创造认知空间。[[Argument_Fredens_2015_Paideia\|(Fredens, 2015, pp. 71–73)]]; [[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 3, 8)]]
 
 ---
 

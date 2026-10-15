@@ -11,7 +11,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 26
+fact_related_count: 25
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -40,7 +40,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Analytical Stance]]"
-  - "[[Attrition]]"
   - "[[Competitiveness]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories:
@@ -60,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-10
-updated: 2026-10-11
+updated: 2026-10-15
 ---
 
 # GATS and Trade in Education Services
@@ -168,7 +167,7 @@ updated: 2026-10-11
 
 > [!debates] 政策争议
 >
-> > [!axis] 新自由主义商品化常识化 vs 公共利益与[[Analytical Stance|批判立场]][[Attrition|流失]]
+> > [!axis] 新自由主义商品化常识化 vs 公共利益与[[Analytical Stance|批判立场]]流失
 > > 争论 GATS 是否导致了教育公共本质的彻底异化。
 > >
 > > - **柯林斯（Collins, 2007）与里兹维（[[Argument_Rizvi_2022_Springer|Rizvi, 2022]]）** 批判 GATS 构成了“新帝国主义”——发达中心国家借助文本与法律规则，将发展中国家固化为教育消费市场，并在其中继续进行智识统治；GATS 消除边境壁垒的修辞掩盖了资本积累对第三世界智识主权的掠夺。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, p. 97)]]

@@ -6,7 +6,7 @@ summary: "通过反讽、错位和颠倒主导叙事来追踪矛盾与隐藏权�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 11
+method_related_count: 10
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -18,7 +18,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
-  - "[[Hypothesis]]"
   - "[[Open-Mindedness]]"
   - "[[Reliability]]"
 related_theories: []
@@ -34,7 +33,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 ## 定义
@@ -48,7 +47,7 @@ updated: 2026-10-07
 ## 认识论立场
 
 > [!abstract] [[Epistemology\|认识论]]立场
-> 该方法属于批判[[Paradigm\|范式]]（critical paradigm），旨在揭露和挑战主导[[Discourse|话语]]的权力运作。其认识论[[Hypothesis\|假设]]是：数据不仅应被严肃对待，也应被"玩味地"（playfully）处理，以暴露政策论证中的荒谬性和矛盾。正如 Allen（2000）所指出的，Bakhtin 的嘉年华概念在解放被作者权威控制的声音方面具有独特作用([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.17]])。
+> 该方法属于批判[[Paradigm\|范式]]（critical paradigm），旨在揭露和挑战主导[[Discourse|话语]]的权力运作。其认识论假设是：数据不仅应被严肃对待，也应被"玩味地"（playfully）处理，以暴露政策论证中的荒谬性和矛盾。正如 Allen（2000）所指出的，Bakhtin 的嘉年华概念在解放被作者权威控制的声音方面具有独特作用([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.17]])。
 >
 
 ## 研究程序
@@ -72,7 +71,7 @@ updated: 2026-10-07
 > - 证据在政策论证中被如何选择性使用或扭曲
 > - 政策论证的内在矛盾和不一致性
 >
-> [[Argument_Bainbridge_2022_ROE\|Bainbridge et al. (2022)]]指出该方法不仅是研究策略，也是对研究者自身[[Hypothesis\|假设]]的检验——通过保持"被自己的发现所惊讶"的[[Open-Mindedness|开放性]]（即不简单地确认预期），嘉年华式分析也强化了方法论的可[[Reliability\|信度]]([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.19]])。
+> [[Argument_Bainbridge_2022_ROE\|Bainbridge et al. (2022)]]指出该方法不仅是研究策略，也是对研究者自身假设的检验——通过保持"被自己的发现所惊讶"的[[Open-Mindedness|开放性]]（即不简单地确认预期），嘉年华式分析也强化了方法论的可[[Reliability\|信度]]([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.19]])。
 >
 
 ## 局限性

@@ -9,7 +9,7 @@ aliases:
 summary: "系统评价与元分析方法学概念，指运用自然语言处理与大语言模型等人工智能技术从学术文献全文中自动识别、抽取并结构化效应量、样本量等统计量与研究特征的自动化规程。"
 type: concept
 domain: "research-methodology"
-related_count: 27
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,7 +20,6 @@ tags:
   - theme/artificial-intelligence
   - method/systematic-review
 related_concepts:
-  - "[[Document]]"
   - "[[Variable]]"
   - "[[Meaningful Human Control]]"
   - "[[Paradigm]]"
@@ -29,7 +28,6 @@ related_concepts:
   - "[[Flow]]"
   - "[[General Purpose Technology]]"
   - "[[Operationalization]]"
-  - "[[Hypothesis]]"
   - "[[Reliability]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Man-Computer Symbiosis]]"
@@ -42,7 +40,6 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Sample Size Determination]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Intraclass Correlation Coefficient]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Random Sampling]]"
@@ -56,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Automated Data Extraction
@@ -67,7 +64,7 @@ updated: 2026-10-07
 ## 定义
 
 > [!def] 核心定义
-> 自动化数据提取（Automated Data Extraction，亦称机器辅助数据提取 Machine-Assisted Data Extraction）指在系统评价（[[Systematic Review]]）、[[Meta-analysis\|元分析]]（Meta-Analysis）与[[Meta-meta-analysis\|二阶元分析]]（Second-Order Meta-Analysis, SOMA）研究流程中，运用自然语言处理（Natural Language Processing, NLP）与大语言模型（Large Language Models, LLMs）等人工智能技术，从非结构化[[Document\|文献]]全文（如 PDF 格式的期刊论文）中自动定位、识别、抽取并结构化呈现[[Effect Size\|效应量]]（Effect Size）、[[Sample Size Determination\|样本量]]（Sample Size）、亚组特征及方法学[[Variable\|变量]]的自动化计算规程。[[Argument_Jansen_2026_EPR\|(Jansen et al., 2026, pp. 2–5)]]
+> 自动化数据提取（Automated Data Extraction，亦称机器辅助数据提取 Machine-Assisted Data Extraction）指在系统评价（[[Systematic Review]]）、[[Meta-analysis\|元分析]]（Meta-Analysis）与[[Meta-meta-analysis\|二阶元分析]]（Second-Order Meta-Analysis, SOMA）研究流程中，运用自然语言处理（Natural Language Processing, NLP）与大语言模型（Large Language Models, LLMs）等人工智能技术，从非结构化文献全文（如 PDF 格式的期刊论文）中自动定位、识别、抽取并结构化呈现[[Effect Size\|效应量]]（Effect Size）、[[Sample Size Determination\|样本量]]（Sample Size）、亚组特征及方法学[[Variable\|变量]]的自动化计算规程。[[Argument_Jansen_2026_EPR\|(Jansen et al., 2026, pp. 2–5)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 区别于传统纯人工双人独立提取（Dual Human Extraction），自动化数据提取旨在通过算法替代或辅助人工完成最耗时的文献信息结构化转化。
@@ -100,15 +97,15 @@ updated: 2026-10-07
 ## 核心要素与评估指标
 
 > [!feature] 自动化数据提取的核[[Flow\|心流]]程要素
-> - **提取提示词架构** 包含角色设定、精确代码簿定义、优先级规则与少样本示例，使模型牢牢锚定在[[Document\|文献]]原文。[[Argument_Jansen_2026_EPR\|(Jansen et al., 2026, pp. 7–8)]]
+> - **提取提示词架构** 包含角色设定、精确代码簿定义、优先级规则与少样本示例，使模型牢牢锚定在文献原文。[[Argument_Jansen_2026_EPR\|(Jansen et al., 2026, pp. 7–8)]]
 > - **基准金标准** 通过多位人类专家独立交叉复核与仲裁研讨，消除单一专家提取中的固有瑕疵，确立无偏真值参照系。[[Argument_Jansen_2026_EPR\|(Jansen et al., 2026, pp. 9–10)]]
 > - **多模型共识机制** 结合多个异构大语言模型（如 Gemini 2.5 Pro 与 [[General Purpose Technology|GPT]]-4.1）进行背对背独立提取与交集比对，自动标记分歧点并交由人类专家裁决。[[Argument_Jansen_2026_EPR\|(Jansen et al., 2026, pp. 16–18, 24)]]
 
 > [!contrast-table] 自动化数据提取准确性[[Operationalization\|操作化]]评估指标体系（[[Argument_Jansen_2026_EPR\|Jansen et al., 2026]], 表 1）
 > | 评估指标 | 指标定义 | 统计优势 | 方法学局限 |
 > |---|---|---|---|
-> | **直接百分比一致率**<br>（Percentage Agreement） | 提取数值与参考标准完全一致的字段占全部[[Coding in Qualitative Research\|编码]]字段的比例。 | 概念直观清晰、计算透明、适用于各类任务与[[Variable\|变量]]类型。 | 易受类别不平衡影响；对数值型变量的微小偏差缺乏宽容度。 |
-> | **组内相关系数**<br>（[[Intraclass Correlation Coefficient\|ICC(2,1)]]） | 双向随机效应、绝对一致性、单评分者组内相关系数。 | 能够同时捕捉评分主体之间的绝对一致水平与相对排序一致性，为[[Inter-Rater Reliability\|评分者信度]]黄金标准。 | [[Hypothesis\|假设]]数据近似正态分布；对受限范围与极端离群值较为敏感。 |
+> | **直接百分比一致率**<br>（Percentage Agreement） | 提取数值与参考标准完全一致的字段占全部编码字段的比例。 | 概念直观清晰、计算透明、适用于各类任务与[[Variable\|变量]]类型。 | 易受类别不平衡影响；对数值型变量的微小偏差缺乏宽容度。 |
+> | **组内相关系数**<br>（[[Intraclass Correlation Coefficient\|ICC(2,1)]]） | 双向随机效应、绝对一致性、单评分者组内相关系数。 | 能够同时捕捉评分主体之间的绝对一致水平与相对排序一致性，为[[Inter-Rater Reliability\|评分者信度]]黄金标准。 | 假设数据近似正态分布；对受限范围与极端离群值较为敏感。 |
 > | **皮尔逊相关系数**<br>（Pearson Correlation, $r$） | 两组提取数据之间的线性关联程度。 | 灵敏检测数值间的单调对齐趋势；便于跨不同量纲变量进行横向比较。 | 对系统性偏倚不敏感（例如存在恒定的固定截距漂移或尺度缩放时 $r$ 仍可极高）。 |
 > | **平均绝对误差**<br>（Mean Absolute Error, MAE） | 提取数值与真实基准值之间绝对差值的算术平均数。 | 直观反映绝对误差幅度，且对极端离群值的敏感度低于均方根误差。 | 尺度依存性强；若未进行标准化，无法在不同量纲与取值范围的变量间直接对比。 |
 
@@ -139,7 +136,7 @@ updated: 2026-10-07
 > 评估大语言模型与人类专家在面对高度复杂的学术[[Meta-analysis\|元分析]]文本时，提取[[Effect Size\|效应量]]、研究数与[[Sample Size Determination\|样本量]]的统计一致度与分布对齐性。
 
 > [!claim] Jansen et al.
-> **模型提取准确度与专家基准无偏对齐** [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] 对 156 项教育元分析进行实证评测显示，三大前沿模型（Gemini 2.5 Pro、[[General Purpose Technology|GPT]]-4.1、GPT-o3）与仲裁金标准的[[Intraclass Correlation Coefficient\|组内相关系数]]达到了卓越水平（$\text{ICC} = 0.96–0.97$），百分比一致率介于 77%–81%，不仅模型间彼此高度收敛（$\text{ICC} = 0.95–0.97$），且表现完全匹敌甚至超越了单一人类专家的提取精度（$\text{ICC} = 0.81–0.95$），彻底打破了以往将人类单次提取视为无误差真值的传统[[Hypothesis\|假设]]。[[Argument_Jansen_2026_EPR\|(Jansen et al., 2026, pp. 16–19)]]
+> **模型提取准确度与专家基准无偏对齐** [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] 对 156 项教育元分析进行实证评测显示，三大前沿模型（Gemini 2.5 Pro、[[General Purpose Technology|GPT]]-4.1、GPT-o3）与仲裁金标准的[[Intraclass Correlation Coefficient\|组内相关系数]]达到了卓越水平（$\text{ICC} = 0.96–0.97$），百分比一致率介于 77%–81%，不仅模型间彼此高度收敛（$\text{ICC} = 0.95–0.97$），且表现完全匹敌甚至超越了单一人类专家的提取精度（$\text{ICC} = 0.81–0.95$），彻底打破了以往将人类单次提取视为无误差真值的传统假设。[[Argument_Jansen_2026_EPR\|(Jansen et al., 2026, pp. 16–19)]]
 
 ---
 
@@ -159,7 +156,7 @@ updated: 2026-10-07
 > | 命题类型 | 核心主张 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **准确性等值命题** | 前沿大语言模型在规范提示词引导下达到甚至超越人类单专家提取精度 | 证据综合、系统评价与二阶元分析自动化 | [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]]; Gartlehner et al. (2025) |
-> | **误差结构命题** | 提取误差主要源于跨表计算累加与原始[[Document\|文献]]报告模糊性，而非生成式幻觉 | 二阶元分析统计提取、复杂医学与教育[[Literature Review\|文献综述]] | Marshall & Wallace (2019) |
+> | **误差结构命题** | 提取误差主要源于跨表计算累加与原始文献报告模糊性，而非生成式幻觉 | 二阶元分析统计提取、复杂医学与教育[[Literature Review\|文献综述]] | Marshall & Wallace (2019) |
 
 ---
 
@@ -171,7 +168,7 @@ updated: 2026-10-07
 > > 争论是否可以直接使用 LLMs 提取结果发布系统评价，还是必须保留人类逐条复核。
 > >
 > > - **全自动乐观派（Cao et al., 2025）** 认为多模型投票共识已具备极高置[[Reliability\|信度]]，可在两天内重现十几项系统评价，极大加速科学积累。
-> > - **有意义控制派（Thomas et al., 2025a; [[Argument_Jansen_2026_EPR\|Jansen et al., 2026]]）** 强调基于负责任证据综合指南，由于[[Document\|文献]]模糊性与法律伦理问责，必须保持人类对分歧数据的最终裁决权。
+> > - **有意义控制派（Thomas et al., 2025a; [[Argument_Jansen_2026_EPR\|Jansen et al., 2026]]）** 强调基于负责任证据综合指南，由于文献模糊性与法律伦理问责，必须保持人类对分歧数据的最终裁决权。
 >
 > > [!axis] 商业黑盒闭源模型依赖 vs 科学可复现性
 > > 商业模型（如 OpenAI [[General Purpose Technology|GPT]] 与 Google Gemini）应用程序编程接口版本频繁更迭，且存在训练集数据泄露嫌疑。
@@ -186,7 +183,7 @@ updated: 2026-10-07
 > [!ref-table]- 自动化数据提取实证准确性基准表（[[Argument_Jansen_2026_EPR\|Jansen et al., 2026]], 表 2）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 样本与情境 | 提取对象与[[Variable\|变量]] | [[Coding in Qualitative Research\|编码]]者 / 模型 | 准确性指标（[[Intraclass Correlation Coefficient\|ICC]] / 一致率） | 误差分布特征 | 解释边界 |
+> | 研究 | 样本与情境 | 提取对象与[[Variable\|变量]] | 编码者 / 模型 | 准确性指标（[[Intraclass Correlation Coefficient\|ICC]] / 一致率） | 误差分布特征 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | Gemini 2.5 Pro | 156 项教育[[Meta-analysis\|元分析]]（[[Visible Learning\|可见的学习]]数据库[[Random Sampling\|随机抽样]]，共 468 个数据点） | 效应量 $d$、纳入研究数 $k$、总学生数 $N$ | Gemini 2.5 Pro | $\text{ICC} = 0.96$（vs 金标准），一致率 81%（381/468）；幻觉 3 例，遗漏 21 例 | 准确率位列三大模型之首，高度对齐专家基准 | 提示词经过 10 篇预试验校准；使用专有商业模型 API |
 > | [[General Purpose Technology\|GPT]]-4.1 | 同上（共 468 个数据点） | 效应量 $d$、纳入研究数 $k$、总学生数 $N$ | GPT-4.1 | $\text{ICC} = 0.97$（vs 金标准），一致率 78%（367/468）；幻觉 3 例，遗漏 22 例 | ICC 表现最高，相关性极强 | 遗漏集中于跨多表格的学生总数 $N$ 抽取 |
@@ -200,4 +197,4 @@ updated: 2026-10-07
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] — 系统评估大语言模型在 156 项教育[[Meta-analysis\|元分析]]中提取统计数据的准确性，确立大模型达到人类专家水平，并提出基于有意义人类控制的混合验证工作流。
-> - [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] — [[Creativity\|创造力]][[Meta-meta-analysis\|二阶元分析]]研究，采用人工双人背对背[[Coding in Qualitative Research\|编码]]提取 52 项一阶元分析数据。
+> - [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] — [[Creativity\|创造力]][[Meta-meta-analysis\|二阶元分析]]研究，采用人工双人背对背编码提取 52 项一阶元分析数据。

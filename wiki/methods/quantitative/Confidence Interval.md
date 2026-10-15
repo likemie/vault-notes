@@ -22,11 +22,11 @@ related_concepts:
   - "[[Sampling Error]]"
   - "[[Null Hypothesis]]"
   - "[[Counterfactual]]"
-  - "[[Attrition]]"
   - "[[Effective Sample Size]]"
   - "[[Heterogeneity]]"
   - "[[Visible Learning]]"
   - "[[Statistical Analysis Plan]]"
+  - "[[Attrition]]"
 related_theories: []
 related_methods:
   - "[[Sample Size Determination]]"
@@ -139,7 +139,7 @@ updated: 2026-09-17
 > 统计学界日益主张摒弃基于 $p < 0.05$ 任意阈值的机械二分法，转向全面报告点估计与其 95% 置信区间（Wasserstein et al., 2019；Amrhein et al., 2019）。然而，在教育证据向一线实践者转化的传播端，置信区间常被视作认知负荷过重的专业壁垒。以英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）为例，尽管其独立试验评估报告和统计分析计划（SAP）强制要求报告效应量估计的 95% CI，但在面向校长的[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]中，干预效应被单维度转换为“额外学习月数”（months of additional progress）。这种将连续区间估计折叠为离散整数的简化策略，虽然提升了证据在时间匮乏的教育决策者中的易读性，却隐蔽了估计精度较宽时的统计不确定性，构成了证据中介机构在“科学严谨性”与“行动易读性”之间的长期制度张力（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 57–58]]）。
 
 > [!claim] 试验信息量判断中区间宽度与因果效度维度的争辩
-> 对大规模教育现场试验中 CI 宽度的评价存在方法论争议。对英国 EEF 与美国 [[National Center for Education Evaluation and Regional Assistance\|NCEE]] 资助的 141 项大样本 [[Randomised Controlled Trials\|RCT]]（覆盖逾 122 万名学生）的元分析重析显示，许多试验效应量微弱（均值 0.06 SD）且 95% 置信区间过宽（平均宽度达 0.30 SD），因而被部分研究者定性为“无法提供有效信息”（uninformative）（Lortie-Forgues & Inglis, 2019）。但证据治理视角对此提出反驳：仅凭估计精度单项指标判定试验价值过于狭隘，试验的实际价值还取决于[[Counterfactual\|反事实]]构建质量、[[Attrition\|流失]]率控制与偏倚防范；且随着设计经验积累与[[Effective Sample Size\|有效样本量]]（Effective Sample Size）的逐年翻倍提升，大规模现场 RCT 的置信区间精度正稳步改善（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 56–57]]）。
+> 对大规模教育现场试验中 CI 宽度的评价存在方法论争议。对英国 EEF 与美国 [[National Center for Education Evaluation and Regional Assistance\|NCEE]] 资助的 141 项大样本 [[Randomised Controlled Trials\|RCT]]（覆盖逾 122 万名学生）的元分析重析显示，许多试验效应量微弱（均值 0.06 SD）且 95% 置信区间过宽（平均宽度达 0.30 SD），因而被部分研究者定性为“无法提供有效信息”（uninformative）（Lortie-Forgues & Inglis, 2019）。但证据治理视角对此提出反驳：仅凭估计精度单项指标判定试验价值过于狭隘，试验的实际价值还取决于[[Counterfactual\|反事实]]构建质量、流失率控制与偏倚防范；且随着设计经验积累与[[Effective Sample Size\|有效样本量]]（Effective Sample Size）的逐年翻倍提升，大规模现场 RCT 的置信区间精度正稳步改善（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 56–57]]）。
 
 ---
 

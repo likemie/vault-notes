@@ -10,7 +10,7 @@ summary: "奥地利著名动物行为学家、鸟类学家，经典习性学（E
 type: person
 nationality: "austria"
 person_region: "austria"
-person_related_count: 11
+person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -24,7 +24,6 @@ tags:
   - theme/pecking-order
   - theme/organizational-culture
 related_concepts:
-  - "[[Habitus]]"
   - "[[Pecking Order]]"
   - "[[Status Transactions]]"
   - "[[Bureaucracy]]"
@@ -36,7 +35,6 @@ related_persons:
   - "[[Max Planck]]"
   - "[[Karl von Frisch]]"
   - "[[Keith Johnstone]]"
-  - "[[Alfred Nobel]]"
 related_facts:
   - "[[Nobel Prize in Physiology or Medicine]]"
 related_arguments:
@@ -44,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Konrad Lorenz
@@ -54,7 +52,7 @@ updated: 2026-10-10
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 奥地利动物学家、动物心理学家，比较行为学与经典[[Habitus|习性]]学（Ethology）奠基人，[[Max Planck|马克斯·普朗克]]行为生理学研究所所长，1973 年[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]共同得主（与[[Karl von Frisch|卡尔·冯·弗里施]]、尼古拉斯·廷伯根共获）。
+> - **身份位置** 奥地利动物学家、动物心理学家，比较行为学与经典习性学（Ethology）奠基人，[[Max Planck|马克斯·普朗克]]行为生理学研究所所长，1973 年[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]共同得主（与[[Karl von Frisch|卡尔·冯·弗里施]]、尼古拉斯·廷伯根共获）。
 > - **核心角色** 揭示本能行为模式、幼体印刻机制（Imprinting）以及鸟类与哺乳动物社会内部的[[Pecking Order|支配等级]]结构；以细腻生动的野外与半野外动物群体长期观察著称。
 > - **代表贡献** 著有科普与行为学名著《所罗门王的指环》（*King Solomon's Ring*, 1949）与《论攻击》（*On Aggression*, 1963）；详尽描绘了寒鸦（Jackdaws）等群居动物中极度严苛、不容逾越的啄序支配等级，对现代人际互动理论与组织社会学产生了深远影响。
 
@@ -81,7 +79,7 @@ updated: 2026-10-10
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **1949 — *King Solomon's Ring: New Light on Animal Ways*** 经典[[Habitus|习性]]学著作，基于亲身饲养与细致野外观测，揭示动物的认知世界、情感交流以及鸟群社会内残酷的[[Pecking Order|啄序]]统治等级。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, pp. 123–124)]]
+> - **1949 — *King Solomon's Ring: New Light on Animal Ways*** 经典习性学著作，基于亲身饲养与细致野外观测，揭示动物的认知世界、情感交流以及鸟群社会内残酷的[[Pecking Order|啄序]]统治等级。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11|(Karp & Zamiska, 2025, pp. 123–124)]]
 > - **1963 — *On Aggression*** 探讨动物攻击行为的种系发生功能与物种内等级秩序的生物学根源。
 
 ---
@@ -108,7 +106,7 @@ updated: 2026-10-10
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **[[Alfred Nobel|诺贝尔]]奖同僚** [[Karl von Frisch]] — 共同奠定现代行为生物学与动物沟通机制研究基础。
+> - **诺贝尔奖同僚** [[Karl von Frisch]] — 共同奠定现代行为生物学与动物沟通机制研究基础。
 > - **跨学科受启发者** [[Keith Johnstone]] — 约翰斯通在《即兴》中明确将劳伦兹的[[Pecking Order|寒鸦啄序]]研究作为其[[Status Transactions|地位交易]]理论的生物学灵感来源。
 
 ---

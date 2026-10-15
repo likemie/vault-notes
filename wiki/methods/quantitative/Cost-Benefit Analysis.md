@@ -3,7 +3,7 @@ summary: "一种系统评估公共政策、工程项目与投资方案经济合�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 9
+method_related_count: 8
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -18,7 +18,6 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Counterfactual]]"
   - "[[Paradigm]]"
-  - "[[Hypothesis]]"
   - "[[Grand Challenges]]"
   - "[[Market Failure]]"
   - "[[Lead-and-Learn Paradigm]]"
@@ -32,7 +31,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-15
 title: Cost-Benefit Analysis
 aliases:
   - 成本收益分析
@@ -86,7 +85,7 @@ aliases:
 >
 > | 评估维度 | 传统微观成本收益分析（CBA / NPM [[Paradigm\|范式]]） | 使命导向动态演化评估（Lead-and-Learn 范式） |
 > |:---|:---|:---|
-> | **基本[[Hypothesis\|假设]]** | 假设未来技术与市场结果的概率分布已知且可测。 | 承认创新充满根本不确定性（Fundamental Uncertainty）。 |
+> | **基本假设** | 假设未来技术与市场结果的概率分布已知且可测。 | 承认创新充满根本不确定性（Fundamental Uncertainty）。 |
 > | **视野盲区** | **青蛙视角（Frog View）** 局限于单个孤立项目的短期合规。 | **全景演化视角** 关注跨部门投资组合与全系统结构跃迁。 |
 > | **对外溢效应处理** | 将非预期外溢视为分析误差或次要副产品，难以量化。 | 将跨领域技术与制度外溢视为使命政策的核心演化资产。 |
 > | **贴现惩罚机制** | 高贴现率使得 20–30 年后的气候与健康长期收益几乎归零。 | 强调代际正义与不可逆生态红线，摆脱机械金融贴现。 |

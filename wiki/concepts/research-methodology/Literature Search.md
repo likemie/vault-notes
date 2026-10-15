@@ -4,13 +4,12 @@ aliases: ["文献检索", "文献搜索", "literature retrieval", "searching for
 summary: "研究过程中系统检索、筛选和评估文献的操作性步骤，包括检索策略、网络操作符、数据库选择、信息类型识别、文献优先级排序与质量评估及网站评估。"
 type: concept
 domain: "research-methodology"
-related_count: 57
+related_count: 56
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
 tags: [source/textbook, method/research-process]
 related_concepts:
-  - "[[Document]]"
   - "[[Literature Review]]"
   - "[[Research Topic]]"
   - "[[Inverted Triangle Literature Search]]"
@@ -37,8 +36,8 @@ related_concepts:
   - "[[Construct]]"
   - "[[Variable]]"
   - "[[Man-Computer Symbiosis]]"
-  - "[[Hypothesis]]"
   - "[[Tacit Knowledge]]"
+  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Literature Map]]"
@@ -82,7 +81,7 @@ updated: 2026-10-15
 
 ## 定义
 
-> [!def] [[Document\|文献]]检索（Literature Search）
+> [!def] 文献检索（Literature Search）
 > 文献检索是[[Literature Review\|文献综述]]的操作性环节，指运用系统策略从多种来源定位、筛选和获取与[[Research Topic\|研究主题]]相关的已有文献的过程。它服务于文献综述的论证构建，但本身是技术性操作而非论证性写作（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al., 2011, Ch.7]]）。
 
 > [!concept-lens] 概念透镜
@@ -99,7 +98,7 @@ updated: 2026-10-15
 
 ## 概念辨析
 
-> [!contrast-table] [[Document\|文献]]检索 vs [[Literature Review\|文献综述]]
+> [!contrast-table] 文献检索 vs [[Literature Review\|文献综述]]
 > | 维度 | 文献检索 | [[Literature Review\|文献综述]] |
 > |---|---|---|
 > | 本质 | 技术性操作 | 论证性写作 |
@@ -113,7 +112,7 @@ updated: 2026-10-15
 
 ### 检索流程与操作方法
 
-Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）：
+Creswell 提出了一套系统的文献检索流程（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）：
 
 > [!proc] 文献检索七步法
 > 1. **确定关键词** 从宽泛术语开始，逐步缩小和精确化（如从 mental health 缩小到 autism [[SPECTRUM]] disorder，再指定为 family factors, support, autism spectrum disorder）
@@ -402,7 +401,7 @@ Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Cr
 ### 命题一　文献检索是奠定研究信效度与构建理论框架的逻辑起点
 
 > [!concept-lens] 论证推进逻辑
-> 探讨[[Document\|文献]]检索如何从技术性资料收集上升为确立研究[[Reliability\|信度]]、效度与学术合法性的论证基石。
+> 探讨文献检索如何从技术性资料收集上升为确立研究[[Reliability\|信度]]、效度与学术合法性的论证基石。
 
 > [!claim] [[Louis Cohen\|Cohen, L.]], [[Lawrence Manion\|Manion, L.]], & [[Keith Morrison\|Morrison, K.]]
 > **论证目的链条** 文献检索不是孤立的技术操作，而是一连串论证目的的逻辑起点。通过彻底的文献检索与综述为项目奠定[[Construct Validity\|构念效度]]和[[Content Validity\|内容效度]]基础，指明理论与经验领域现状以建立理论框架，识别需要填补的空白与关键议题，从而确立研究的可信度、效度、主题性与重要性，并作为进入实证研究的跳板。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|(Cohen et al., 2011, Ch.7, pp.126–127)]]
@@ -458,7 +457,7 @@ Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Cr
 
 ## 概念演变历程
 
-> [!dev-timeline] [[Document|文献]]检索[[Paradigm|范式]]与工具的谱系演化脉络
+> [!dev-timeline] 文献检索[[Paradigm|范式]]与工具的谱系演化脉络
 > - **19 世纪–20 世纪中叶 — 印刷目录、卡片索引与人工追溯时代** 文献检索主要依赖图书馆实体卡片目录、印刷索引年鉴（如 Index Medicus）、学位论文书目与学者间互助追溯。
 > - **1960s–1980s — 计算机化专业数据库与布尔逻辑检索** 1966 年美国[[Education Resources Information Center|教育资源信息中心]]（[[Education Resources Information Center|ERIC]]）创设，计算机数据库与布尔操作符（AND, OR, NOT）成为系统检索的标准工具。
 > - **1990s–2000s — 互联网学术搜索平台与引文[[Network Analysis|网络分析]]** Web of Science、Google Scholar、中国知网（CNKI）等大型在线平台崛起，SSCI 引文追踪（绵延法）与关键词倒三角检索成为规范流程。
@@ -470,7 +469,7 @@ Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Cr
 ## 争议与批评
 
 > [!warning] 网络检索与未审查信息的局限
-> 互联网是大量无序且大多未经审查的材料库，需要通过试错和偶然发现来寻找信息。网络中存在大量低质或无帮助的信息，且连接速度和信息稳定性参差不齐，研究者必须建立系统的书签与[[Document\|文献]]管理机制，并严格甄别网络材料的学术价值（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al., 2011, Ch.7, p.131]]）。
+> 互联网是大量无序且大多未经审查的材料库，需要通过试错和偶然发现来寻找信息。网络中存在大量低质或无帮助的信息，且连接速度和信息稳定性参差不齐，研究者必须建立系统的书签与文献管理机制，并严格甄别网络材料的学术价值（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al., 2011, Ch.7, p.131]]）。
 
 > [!warning] 期刊影响因子的评价边界
 > 影响因子（impact factor）指某刊物近两年刊出的论文被 SSCI 或 CSSCI 论文引用的总次数与刊出论文总数之比（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015, Ch.1]]）。影响因子仅衡量期刊层面的整体引用影响力，不代表单篇论文的具体质量。在文献检索中，影响因子可作为筛选期刊的参考指标之一，但不应替代对单篇文献内容的实质性评估。
@@ -480,7 +479,7 @@ Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Cr
 > > [!axis] 手工精读与结构化布尔检索 vs AI 代理自动化文献挖掘与算法黑箱
 > > 争论研究者应当坚守人工逐篇阅读与关键词精确布尔筛选，还是依托大模型代理进行全自动文献综合。
 > >
-> > - **传统方法规范派** 强调人工亲身精读文献是培养学术品味、洞察隐性方法[[Hypothesis|假设]]与体会作者论证手感的不可替代过程；AI 检索容易产生幻觉假引用并忽略非结构化[[Tacit Knowledge|默会知识]]。
+> > - **传统方法规范派** 强调人工亲身精读文献是培养学术品味、洞察隐性方法假设与体会作者论证手感的不可替代过程；AI 检索容易产生幻觉假引用并忽略非结构化[[Tacit Knowledge|默会知识]]。
 > > - **AI 增强与[[Man-Computer Symbiosis|人机协同]]派（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）** 论证面对全球每年数百万篇海量论文爆发，传统人工检索已达认知极限；唯有利用智能代理执行全景式文献挖掘与机器验证，人类学者才能在高阶理论层面维系跨学科视野。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 70–72)]]
 
 > [!feature] 质量评估标准
@@ -511,7 +510,7 @@ Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Cr
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 系统阐述了[[Document\|文献]]检索七步法、主要学术数据库、搜索优先级与迭代搜索策略。
+> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 系统阐述了文献检索七步法、主要学术数据库、搜索优先级与迭代搜索策略。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al. (2011, Ch.7)]] — 提出了文献检索服务于论证与信效度的推进逻辑、网络检索操作符、信息类型分类（Box 7.2）及网站评估标准。
 > - [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015, Ch.1)]] — 提出了文献分类的双维度（公开性与加工程度）、文献资料的三类载体、文献检索的五种操作方法以及在课题选题中的四项发现机制。
 > - [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] — 白宫科技战略报告，阐述在智能时代自主研究代理如何承担微观文献检索与假说生成，驱动人类科研分工向宏观战略综合演化。

@@ -9,7 +9,7 @@ aliases:
 summary: "由简·斯托林斯研发、后经世界银行在拉美和非洲广泛标准化推广的低推论课堂观察系统，通过在一堂课中均匀抽取十次瞬时定格快照，精确记录教师与学生的教学互动类型、材料使用以及任务在轨时间百分比，主要用于评估发展中国家课堂时间利用效率、师生缺勤离轨损耗及基础教学常规落实情况。"
 type: instrument
 instrument_type: observation-tool
-instrument_related_count: 12
+instrument_related_count: 10
 instrument_related_level: 2
 instrument_related_stars: "⭐⭐"
 instrument_related_color: "#cffafe"
@@ -32,13 +32,11 @@ related_concepts:
   - "[[International Education]]"
   - "[[Classroom Management]]"
   - "[[Effective Teaching]]"
-  - "[[Attrition]]"
   - "[[Time on Task]]"
 related_theories: []
 related_methods:
   - "[[Classroom Observation]]"
   - "[[Time Sampling]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments:
   - "[[Teach Classroom Observation Tool]]"
@@ -60,7 +58,7 @@ updated: 2026-10-15
 ## 工具定位
 
 > [!instrument-profile] Stallings [[Classroom Observation]] System
-> - **工具类型** 课堂外部低推论[[Time Sampling|时间抽样]]与活动矩阵客观[[Coding in Qualitative Research|编码]]规程（observation-tool）。
+> - **工具类型** 课堂外部低推论[[Time Sampling|时间抽样]]与活动矩阵客观编码规程（observation-tool）。
 > - **开发者与年份** Stallings (1975, 1977)（最初由简·斯托林斯在斯坦福研究所研制，2000 年代后由[[World Bank|世界银行]]芭芭拉·布伦斯（Barbara Bruns）团队系统标准化并在全球南方推广）。
 > - **测量目的** 用于客观量化课堂教学时间的实际利用率，精准测定教师教学时间、行政管理耗时与师生离轨损耗，评估公共教育财政在课堂微观交付端的转化效率。
 > - **实施方式** 外部观察员在一节课（约 45–60 分钟）内等距执行 10 次持续约 15 秒的定格快照（Snapshots），在预制矩阵表格中勾选“谁在与谁、使用何种材料、进行何种活动”。
@@ -94,7 +92,7 @@ updated: 2026-10-15
 
 ### 核心观察要素与行为重点
 
-> [!observation-focus] 斯托林斯系统快照[[Coding in Qualitative Research|编码]]重点
+> [!observation-focus] 斯托林斯系统快照编码重点
 > <span class="instrument-observation-table-marker" aria-hidden="true"></span>
 >
 > | 编号 | 观察维度 | 观察重点 | 记录方式 | 判定或编码 | 来源 |
@@ -107,7 +105,7 @@ updated: 2026-10-15
 
 ## 使用该工具的研究
 
-[[World Bank|世界银行]]在拉美和加勒比地区开展了横跨数万间课堂的大规模研究，揭示了发展中国家惊人的课堂时间[[Attrition|流失]]。
+[[World Bank|世界银行]]在拉美和加勒比地区开展了横跨数万间课堂的大规模研究，揭示了发展中国家惊人的课堂时间流失。
 
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
@@ -125,7 +123,7 @@ updated: 2026-10-15
 >
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
-> | 斯坦福原始版 | 英语（美国早期教育） | 幼儿与小学低段 | 矩阵多格网 | 奠定瞬时时间快照与行为[[Coding in Qualitative Research\|编码]]矩阵基础 | Stallings (1977) |
+> | 斯坦福原始版 | 英语（美国早期教育） | 幼儿与小学低段 | 矩阵多格网 | 奠定瞬时时间快照与行为编码矩阵基础 | Stallings (1977) |
 > | [[World Bank\|世行]]全球南方版 | 英语、西班牙语、葡萄牙语 | 发展中国家小学全科教师 | 10 次快照矩阵 | 简化操作流程，配套统一的平板数据输入与自动化生成报告算法 | Bruns & Luque (2014) |
 
 ---

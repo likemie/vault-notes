@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch03"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch03"
 argument_display_title: "Chapter three: Mass media and misinformation"
 argument_kind: "book-chapter"
-argument_related_count: 41
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -50,15 +50,12 @@ related_concepts:
   - "[[Big Science]]"
   - "[[Knowledge Co-production]]"
   - "[[Literature Search]]"
-  - "[[Document]]"
   - "[[AI Hallucination]]"
-  - "[[Hypothesis]]"
   - "[[Knowledge Production]]"
   - "[[Responsible Conduct of Research]]"
   - "[[Research Universities]]"
   - "[[Causality]]"
   - "[[Trustworthiness]]"
-  - "[[Attrition]]"
   - "[[Emergence]]"
   - "[[Outcomes-based Education]]"
 related_methods:
@@ -70,15 +67,13 @@ related_methods:
   - "[[Effect Size]]"
 related_instruments:
   - "[[VALUE Rubrics]]"
-related_persons:
-  - "[[Peter A. Hall]]"
+related_persons: []
 related_facts:
   - "[[Science Media Centre]]"
   - "[[Public Attitudes to Science]]"
   - "[[National Academy of Sciences]]"
   - "[[Chinese Academy of Sciences]]"
-related_theories:
-  - "[[Theory of Mind]]"
+related_theories: []
 status: draft
 created: 2026-09-03
 updated: 2026-09-16
@@ -292,13 +287,13 @@ updated: 2026-09-16
 #### 主题一：生成式 AI 对科学传播与搜索引擎生态的底层重构
 
 > [!opportunity] 生成式 AI 赋能科学新闻与知识检索的创新机遇（p. 61）
-> - **深度[[Literature Search\|文献检索]]与智能分析** 协助专业记者与研究人员在海量学术[[Document\|文献]]中秒级提炼核心实证发现、样本特征与方法学要点。
+> - **深度[[Literature Search\|文献检索]]与智能分析** 协助专业记者与研究人员在海量学术文献中秒级提炼核心实证发现、样本特征与方法学要点。
 > - **受众自适应与知识平权** 能够根据不同年龄、认知水平与文化背景，将晦涩艰深的前沿理论转化为通俗易懂、量身定制的多模态科普形态。
 > - **数据纠错与模式识别** 高效识别大规模实验数据集与统计报表中人类肉眼难以察觉的微小计算偏差与逻辑漏洞。
 
 > [!threat] 生成式 AI 在科学传播中的系统性风险与信任侵蚀
 > - **模型幻觉与学术伪证（[[AI Hallucination]]）** 大语言模型在复杂科技问答中极易捏造虚假的论文引文、伪造实验数据与无中生有的科研结论。
-> - **过度简化与语境脱落** 抹去科学知识探索所必须依附的前提[[Hypothesis\|假设]]、样本边界、置信区间与不确定性，输出武断绝对的伪定论。
+> - **过度简化与语境脱落** 抹去科学知识探索所必须依附的前提假设、样本边界、置信区间与不确定性，输出武断绝对的伪定论。
 > - **版权侵权与撤稿反刍** 缺乏透明的训练数据溯源机制，可能在搜索引擎人工智能概要（AI Overviews）中持续反刍陈旧乃至已被撤稿的错误结论。
 
 > [!question] 人工智能媒体时代的制度核心追问
@@ -372,7 +367,7 @@ updated: 2026-09-16
 
 > [!pathways] 建议八：重构与科学新闻界合作并捍卫解决方案新闻（Recommendation 8, p. 63）
 > - **战略协同专业科技记者与编辑团队** 科学共同体重新承诺深化与主流新闻界科技采编人员的紧密协同，敦促媒体管理层定期评估科学新闻报道的社会成效，将科学报道置于编辑部的优先议程中；
-> - **坚决抵制点击率“竞次”并捍卫解决方案导向** 向新闻产业界发出明确倡议：在社交网络算法时代赢回[[Attrition\|流失]]受众的唯一破局之道，绝非跟随自媒体沉沦于煽动性负面恐慌的“竞次”（Race to the bottom）泥潭，而在于坚定提供英国公众反复渴求的高品质、赋能希望的“解决方案新闻”。（p. 63）
+> - **坚决抵制点击率“竞次”并捍卫解决方案导向** 向新闻产业界发出明确倡议：在社交网络算法时代赢回流失受众的唯一破局之道，绝非跟随自媒体沉沦于煽动性负面恐慌的“竞次”（Race to the bottom）泥潭，而在于坚定提供英国公众反复渴求的高品质、赋能希望的“解决方案新闻”。（p. 63）
 
 > [!pathways] 建议九：参照统计守则制定科学传播《行为守则》并融合科研诚信（Recommendation 9, p. 64）
 > - **起草并敦促全行业采纳科学传播《行为守则》** 英国皇家学会牵头研制面向科学家与科研机构新闻官的统一媒体沟通《行为守则》（Code of Practice），设定科学外联与通稿发布的最低专业合规红线；
@@ -392,11 +387,11 @@ updated: 2026-09-16
 >   - 阿里·贝利（Ali Bailey）：弗朗西斯·克里克研究所（The Francis Crick Institute）传播与公共参与总监；
 >   - 莫希特·巴卡亚（Mohit Bakaya）：英国广播公司第四台（BBC Radio 4）主监兼话语节目总监；
 >   - 安德鲁·科恩（Andrew Cohen）：BBC 影业（BBC Studios）科学制作部主管；
->   - 汤姆·克拉克（[[Theory of Mind\|ToM]] Clarke）：天空新闻台（Sky News）科技主编；
+>   - 汤姆·克拉克（ToM Clarke）：天空新闻台（Sky News）科技主编；
 >   - 弗兰克·凯利教授（Professor Frank Kelly）：大英帝国司令勋章获得者（Commander of the Order of the British Empire, CBE）、英国皇家学会院士（Fellow of the Royal Society, FRS）、剑桥大学系统数学教授；
 >   - 阿比盖尔·莫布斯（Abigail Mobbs）：BBC 新闻部（BBC News）社交媒体主管；
 >   - 亨利·斯科夫罗夫特（Henry Scowcroft）：资深自由科学作家兼传播战略专家；
->   - 戴维·施皮格尔[[Peter A. Hall|霍尔]]特爵士（Sir David Spiegelhalter）：大英帝国官佐勋章获得者（Officer of the Order of the British Empire, [[Outcomes-based Education\|OBE]]）、英国皇家学会院士（Fellow of the Royal Society, FRS）、剑桥大学统计学荣休教授，全球风险与不确定性量化沟通领域顶级权威。（p. 110）
+>   - 戴维·施皮格尔霍尔特爵士（Sir David Spiegelhalter）：大英帝国官佐勋章获得者（Officer of the Order of the British Empire, [[Outcomes-based Education\|OBE]]）、英国皇家学会院士（Fellow of the Royal Society, FRS）、剑桥大学统计学荣休教授，全球风险与不确定性量化沟通领域顶级权威。（p. 110）
 
 
 ---
@@ -432,7 +427,7 @@ updated: 2026-09-16
 > *Scientists should not shy away from acknowledging limitations and uncertainties, which does not appear to confuse or deter readers, and may actually increase trust... enhancing scientific literacy will help members of the public appreciate the nuances of scientific evidence generation.*
 
 > [!citation-card]- 科学传播与科研诚信的合流
-> 科学界目前正致力于提升科学[[Document\|文献]]的标准，越来越关注科研诚信与可重复性；但这些努力往往与科学传播割裂开来——这两项事业应当合二为一。（p. 64）
+> 科学界目前正致力于提升科学文献的标准，越来越关注科研诚信与可重复性；但这些努力往往与科学传播割裂开来——这两项事业应当合二为一。（p. 64）
 >
 > *The science community is currently trying to improve the standards of scientific literature, with increasing focus on [[Responsible Conduct of Research\|research integrity]] and reproducibility, but these efforts often take place separately from science communication – the two endeavours should be merged.*
 

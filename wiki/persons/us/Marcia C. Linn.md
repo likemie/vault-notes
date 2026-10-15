@@ -9,7 +9,7 @@ summary: "美国加州大学伯克利分校荣休教授、美国国家教育科�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 23
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -34,7 +34,6 @@ related_concepts:
   - "[[Scientific Literacy]]"
   - "[[Business as Usual]]"
   - "[[Paradigm]]"
-  - "[[Teaching Assistant]]"
   - "[[Formative Assessment]]"
   - "[[Computer Simulation]]"
 related_theories:
@@ -54,7 +53,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-02
+updated: 2026-10-15
 ---
 
 # Marcia C. Linn
@@ -116,7 +115,7 @@ updated: 2026-10-02
 
 > [!influence-path] 影响路径
 > - **理论体系建构** 创立的“[[Knowledge Integration\|知识整合]]”（Knowledge Integration）理论成为当代国际学习科学中最具影响力的科学教学设计[[Paradigm\|范式]]之一。
-> - **规模化实践创新** 历时二十余年研发的开源 WISE 平台直接服务于全球数十万师生，成为 [[National Science Foundation\|NSF]] 资[[Teaching Assistant\|助教]]育科研向常态课堂转化的国家级标杆。
+> - **规模化实践创新** 历时二十余年研发的开源 WISE 平台直接服务于全球数十万师生，成为 [[National Science Foundation\|NSF]] 资助教育科研向常态课堂转化的国家级标杆。
 > - **技术前沿开拓** 率先将自然语言处理与机器学习算法应用于课堂开放式科学论述的自动化[[Formative Assessment\|形成性评价]]，奠定了教育人工智能（AIED）在科学教育领域的奠基性实践。
 
 ---

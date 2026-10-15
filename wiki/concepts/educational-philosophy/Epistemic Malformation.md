@@ -8,7 +8,7 @@ aliases:
 summary: "由 A. C. Nikolaidis (2021) 提出的教育哲学核心概念，指教育教学安排、评价偏见或技术代劳对个体作为求知者的认知机能、探究习惯与理智美德所造成的系统性扭曲与发育阻滞，构成了成长性认识不正义的微观病理学机制。"
 type: concept
 domain: "educational-philosophy"
-related_count: 19
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Epistemology]]"
   - "[[Generative Artificial Intelligence]]"
-  - "[[Teaching Assistant]]"
   - "[[Academic Achievement]]"
   - "[[Homework]]"
   - "[[Disciplina and Doctrina]]"
@@ -47,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-09-24
+updated: 2026-10-15
 ---
 
 # Epistemic Malformation
@@ -61,7 +60,7 @@ updated: 2026-09-24
 
 > [!concept-lens] 概念透镜
 > - **含义** 区别于知识储备的单纯匮乏，它特指求知者心智发育过程遭遇结构性偏离，形成了不健康的认知习惯（如理智傲慢、盲信算法、自贬退缩）。
-> - **用途** 帮[[Teaching Assistant|助教]]育哲学与学习科学研究者穿透表层[[Academic Achievement|学业成绩]]或格式完美的[[Homework|作业]]成品，诊断微观教学干预与智能技术介入对学习者心智成长造成的深层致残风险。
+> - **用途** 帮助教育哲学与学习科学研究者穿透表层[[Academic Achievement|学业成绩]]或格式完美的[[Homework|作业]]成品，诊断微观教学干预与智能技术介入对学习者心智成长造成的深层致残风险。
 > - **边界** 正常的认知困惑、试错挫折与学科知识[[Disciplina and Doctrina|规训]]属于健康的认识塑造（Formation），不构成畸变；唯有当教育环境诱发不可自拔的虚假信度或剥夺核心探究演练时，才构成认知畸变。
 
 > [!citation-card] 认知畸变的规范定义与教育之恶

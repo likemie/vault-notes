@@ -8,7 +8,7 @@ aliases:
 summary: "阿诺夫与托雷斯开创的批判比较教育学核心理论框架，强调全球经济、政治与文化力量并非单向决定本土教育，而是与民族国家和基层社区的能动力量发生持续的相互渗透、中介过滤与冲突重塑。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 48
+theory_related_count: 47
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Credential Inflation]]"
-  - "[[Document]]"
   - "[[School Autonomy]]"
   - "[[Research Question]]"
   - "[[Policy Brokerage]]"
@@ -149,7 +148,7 @@ updated: 2026-10-15
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者与[[Document\|文献]] |
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
 > | **双向辩证互动命题** | 全球化改革在各地绝不会产生相同结果，自上而下规约与地方实践构成动态双重视野 | 跨国教学法借用、国际组织课程指南落地 | [[Argument_Arnove_2009_WorldSystems\|Arnove (2009)]]; Anderson-Levitt (2003, 2004) |
 > | **中介制度过滤命题** | 宏观形式趋同掩盖微观结构分化，国家与地方社会阶层结构深度重组外部政策分配 | 课程分权改革、[[School Autonomy\|学校自主权]]与教育券政策评估 | Benavot & Resh (2001); Robertson et al. (2002) |

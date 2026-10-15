@@ -11,7 +11,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 43
+fact_related_count: 42
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -24,7 +24,6 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Heterogeneity]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Discourse]]"
   - "[[Evidence-Based Education]]"
   - "[[Knowledge Mediation]]"
@@ -73,7 +72,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-23
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # EU Evidence-Informed Education Policy Initiatives
@@ -93,7 +92,7 @@ updated: 2026-10-10
 ## 政策文本摘要
 
 > [!claim] 政策核心
-> 欧盟证据知情教育政策倡议是一套自 2006 年以来逐步成型的软法战略框架，通过培育全欧评价文化、资助欧洲教育证据知情政策与实践网络（EIPPEE）以及依托欧洲教育信息网（Eurydice）监测机制，倡导在承认多元[[Paradigm\|研究范式]]与国家制度[[Heterogeneity\|异质性]]的前提下，推进跨国教育证据的共建、[[Transfer Translation Transformation\|转译]]与深度使用([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 58, 67–68]]; [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, pp. 26–31]])。
+> 欧盟证据知情教育政策倡议是一套自 2006 年以来逐步成型的软法战略框架，通过培育全欧评价文化、资助欧洲教育证据知情政策与实践网络（EIPPEE）以及依托欧洲教育信息网（Eurydice）监测机制，倡导在承认多元[[Paradigm\|研究范式]]与国家制度[[Heterogeneity\|异质性]]的前提下，推进跨国教育证据的共建、转译与深度使用([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 58, 67–68]]; [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, pp. 26–31]])。
 
 > [!policy-design]- 政策设计与核心三维框架
 > - **证据术语的范式定位（Evidence-Informed vs Evidence-Based）** 欧洲官方[[Discourse|话语]]严谨区分“证据知情教育”（Evidence-Informed Education）与英美盛行的“[[Evidence-Based Education\|证据本位教育]]”（Evidence-Based Education）；在研究层面，包容[[Qualitative Research\|定性研究]]（Qualitative Research）与[[Mixed Methods Research\|混合方法]]（Mixed Methods Research），拒绝单一 [[Randomised Controlled Trials\|RCT]] 垄断；在政策层面，强调研究证据是复杂决策的参考资源之一，而非机械处方([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 26]])。
@@ -128,7 +127,7 @@ updated: 2026-10-10
 > [!actor-grid] 实施架构与多层级分工
 > - **超国家统筹方（欧盟委员会 / DG EAC）** 负责制定宏观政策导向、发起倡议文件并资助跨国联合研究与流动网络。
 > - **跨国元中介网络（EIPPEE 执委会）** 由 [[EPPI-Centre]] 等机构牵头，负责协调各国清算机构、开发跨国证据检索库并主持二阶证据研讨。
-> - **国家级官方与学术中介** 包括英国 [[Education Endowment Foundation\|EEF]]、[[EPPI-Centre]]、丹麦 [[Danish Clearinghouse for Educational Research\|Danish Clearinghouse]]、瑞典 [[Swedish Institute for Educational Research]]、荷兰 TIER 及约克大学 [[Institute for Effective Education\|IEE]] 等，承担具体领域的因果评估与本土[[Transfer Translation Transformation\|转译]]。
+> - **国家级官方与学术中介** 包括英国 [[Education Endowment Foundation\|EEF]]、[[EPPI-Centre]]、丹麦 [[Danish Clearinghouse for Educational Research\|Danish Clearinghouse]]、瑞典 [[Swedish Institute for Educational Research]]、荷兰 TIER 及约克大学 [[Institute for Effective Education\|IEE]] 等，承担具体领域的因果评估与本土转译。
 > - **一线实践与教师组织** 包括英国 [[Centre for the Use of Research and Evidence in Education\|CUREE]]、[[Evidence-Based Teachers Network\|EBTN]] 等，深耕基层教师[[Scientific Literacy\|证据素养]]与实践落地。
 
 > [!pathways]- 实施路径与 EIPPEE 三大实证发现
@@ -175,7 +174,7 @@ updated: 2026-10-10
 > [!stat-cards]- 核心欧洲治理规模数据
 > - **38 个** [[Erasmus Programme|Erasmus+]] 参与国家纳入 Eurydice 监测体系
 > - **43 个** [[Heterogeneity\|异质性]]教育系统共同构成了欧洲极其复杂的制度拼图([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 36]])
-> - **24 种** 欧盟官方工作语言，构成了跨国证据快速流通与[[Transfer Translation Transformation\|转译]]的天然语言壁垒
+> - **24 种** 欧盟官方工作语言，构成了跨国证据快速流通与转译的天然语言壁垒
 > - **23 国 36 家机构** 构成了 EIPPEE 跨国中介协作网络的最鼎盛规模([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 67]])
 
 ---

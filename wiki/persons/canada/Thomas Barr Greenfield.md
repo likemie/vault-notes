@@ -7,7 +7,7 @@ summary: "加拿大教育行政学者，主观主义教育行政研究代表人�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 12
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -22,7 +22,6 @@ tags:
 related_concepts:
   - "[[Empiricism]]"
   - "[[Epistemology]]"
-  - "[[Hypothesis]]"
   - "[[Reliability]]"
   - "[[Definition of Terms]]"
   - "[[Subjectivism]]"
@@ -40,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-02
-updated: 2026-09-11
+updated: 2026-10-15
 ---
 ## 简介
 
@@ -56,7 +55,7 @@ updated: 2026-09-11
 >
 > > "all our knowledge of reality, natural and social, contains an irreducible subjective component"（引自 Eacott, 2015, p.316）
 >
-> 这一主张直接挑战了理论运动的基石——理论运动的核心[[Hypothesis\|假设]]是：通过"客观性、[[Reliability\|可靠性]]、[[Definition of Terms\|操作性定义]]"（Griffiths, 1959）可以实现对教育行政的科学研究。
+> 这一主张直接挑战了理论运动的基石——理论运动的核心假设是：通过"客观性、[[Reliability\|可靠性]]、[[Definition of Terms\|操作性定义]]"（Griffiths, 1959）可以实现对教育行政的科学研究。
 >
 > **"人性科学"的提出**
 >

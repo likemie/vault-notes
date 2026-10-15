@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10"
 argument_display_title: "Research Methods in Education · Ch10"
 argument_kind: "book-chapter"
-argument_related_count: 140
+argument_related_count: 137
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -36,7 +36,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[External Validity]]"
   - "[[Value Neutrality]]"
-  - "[[Hypothesis]]"
   - "[[Construct Validity]]"
   - "[[Content Validity]]"
   - "[[Qualitative Validity]]"
@@ -49,7 +48,6 @@ related_concepts:
   - "[[Convergent and Discriminant Validity]]"
   - "[[Criterion-related Validity]]"
   - "[[Internal Validity]]"
-  - "[[Document]]"
   - "[[Descriptive Validity]]"
   - "[[Interpretive Validity]]"
   - "[[Theoretical Validity]]"
@@ -100,10 +98,10 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Incommensurability]]"
   - "[[Leading Questions]]"
-  - "[[Attrition]]"
   - "[[Halo Effect]]"
   - "[[Trustworthiness]]"
   - "[[Qualitative Reliability]]"
+  - "[[Hypothesis]]"
   - "[[Paradigm Wars]]"
   - "[[Fitness for Purpose]]"
   - "[[Face Validity]]"
@@ -130,7 +128,6 @@ related_methods:
   - "[[Member Checking]]"
   - "[[Ethnography]]"
   - "[[Audit Trail]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Peer Debriefing]]"
   - "[[Negative Case Analysis]]"
   - "[[Triangulation]]"
@@ -233,7 +230,7 @@ updated: 2026-10-08
 > - **中立性与客观性（neutrality/objectivity）** 研究者[[Value Neutrality\|价值无涉]]
 > - **可观测性（observability）** 只研究可被直接或间接观测的行为
 
-量化研究还必须确保所用的统计[[Hypothesis|假设]]得到满足，测量工具的[[Construct Validity|构念效度]]和[[Content Validity|内容效度]]得到妥善处理，抽样谨慎，以及一系列对内部和外部效度的威胁得到规避。
+量化研究还必须确保所用的统计假设得到满足，测量工具的[[Construct Validity|构念效度]]和[[Content Validity|内容效度]]得到妥善处理，抽样谨慎，以及一系列对内部和外部效度的威胁得到规避。
 
 ---
 
@@ -281,11 +278,11 @@ Lincoln & Guba (1985) 提出了质性研究效度的四项核心标准，每一�
 
 > [!tip]- 在这四项标准内达成严谨性的具体策略
 > - **[[Audit Trail\|审计追踪]]（audit trails）** 记录研究全过程证据，包括原始数据、分析记录、数据还原与重构、过程笔记和工具开发信息
-> - **成员核查（member checking / respondent validation）** 在[[Coding in Qualitative Research\|编码]]或分类时让参与者确认、修正或补充
+> - **成员核查（member checking / respondent validation）** 在编码或分类时让参与者确认、修正或补充
 > - **同伴汇报（[[Peer Debriefing]]）** 将研究暴露于无利害关系的同行面前进行交叉审问式检验
 > - **[[Negative Case Analysis\|负面案例分析]]（negative case analysis）** 系统检验不符合已有假设的案例以修正和完善理论
 > - **结构互证（structural corroboration）** 即[[Triangulation\|三角验证]]，在方法、来源、研究者和理论之间交叉检验
-> - **参照材料充分性（referential material adequacy）** 充分引用领域内标准[[Document\|文献]]作为发现的外部参照（pp.160–161）
+> - **参照材料充分性（referential material adequacy）** 充分引用领域内标准文献作为发现的外部参照（pp.160–161）
 
 ---
 
@@ -956,7 +953,7 @@ Onwuegbuzie & Johnson (2006) 主张在混合方法研究中用**"合法化"（le
 > [!ref-table] 资料收集阶段：参与者管理
 > | 措施 | 说明 |
 > |---|---|
-> | **避免受访者[[Attrition\|流失]]** | 长期研究中受试者退出可能混淆变量效果 |
+> | **避免受访者流失** | 长期研究中受试者退出可能混淆变量效果 |
 > | **避免问卷不回收** | 不回应者可能与回应者在关键变量上系统不同 |
 > | **建立在受访者的动机之上** | 理解并利用受访者参与研究的动机 |
 > | **调整工具以适应注意力集中期** | 并处理其他情境因素（如健康、环境、噪音、干扰、威胁） |

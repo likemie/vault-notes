@@ -10,10 +10,10 @@ aliases:
 summary: "指阻碍创新系统自发实现社会技术转型与应对重大挑战的四类根本性制度失灵"
 type: concept
 domain: "science-policy"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/science-policy
   - innovation-policy
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Paradigm]]"
   - "[[Technology Transfer]]"
-  - "[[Document]]"
   - "[[Public Value]]"
   - "[[Problem of Many Hands]]"
   - "[[Grand Challenges]]"
@@ -47,7 +46,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-10-03
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Transformative System Failures
@@ -83,7 +82,7 @@ updated: 2026-10-09
 > | **核心关切** | 研发投资不足与知识外溢 | 产学研网络割裂与制度阻滞 | 重大社会挑战与不可持续发展锁定 |
 > | **失灵根源** | 价格机制无法内部化外部性 | [[Systems of Innovation\|创新系统]]内部构件连接不畅 | 缺乏转型方向、需求表达与反思机制 |
 > | **政策取向** | 技术中立、普惠税收优惠与研发资助 | 建设中介机构、培育创新集群与[[Technology Transfer\|技术转移]] | 确立国家使命、开展多方共治与引导系统收敛 |
-> | **代表[[Document\|文献]]** | Arrow (1962); Nelson (1959) | Freeman (1987); Lundvall (1992) | Weber & Rohracher (2012); [[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020)]] |
+> | **代表文献** | Arrow (1962); Nelson (1959) | Freeman (1987); Lundvall (1992) | Weber & Rohracher (2012); [[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020)]] |
 
 ---
 

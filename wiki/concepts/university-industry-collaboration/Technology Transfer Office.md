@@ -13,7 +13,7 @@ alias_reviewed:
 summary: "研究型大学内部负责知识产权法律保护、专利许可谈判、商业化路径评估与衍生企业孵化支持的专业职能部门；作为《拜杜法案》赋权与大学第三使命制度化的核心组织载体，既充当学术研究与产业市场的交易中介，又面临职能局限于正式交易端、院系微观碎片化，以及知识虚构商品化对跨组织科研协作构成梗阻的制度张力。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 38
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -46,13 +46,11 @@ related_concepts:
   - "[[Absorptive Capacity]]"
   - "[[Variable]]"
   - "[[Clinical Trial]]"
-  - "[[Document]]"
 related_theories:
   - "[[Systems of Innovation]]"
   - "[[Developmental Network State]]"
 related_methods:
   - "[[Effect Size]]"
-  - "[[Coding in Qualitative Research]]"
 related_instruments: []
 related_persons:
   - "[[Richard C. Atkinson]]"
@@ -245,7 +243,7 @@ created: 2026-06-03
 > | 研究来源 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Atkinson_2008_TIS\|Atkinson & Blanpied (2008, p. 41)]] | 全美[[Research Universities\|研究型大学]]（1988 与 2003） | 国家宏观科技统计比较追踪 | 全美大学年度获得专利授权数量 | 1988 年为 800 项；2003 年跃升至 3,200 项（4 倍增长） | — | 实证确立了[[Bayh-Dole Act of 1980\|拜杜法案]]与 TTO 设立后大学专利产出的爆发性增长趋势 |
-> | [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso & Hall (2025b, pp. 62–63)]] | 65 所美国 [[University Industry Demonstration Partnership\|UIDP]] 成员大学中心产学机构 | 机构网站多维度[[Coding in Qualitative Research\|编码]]与权限分析 | 中心办公室直接负责产学活动领域数 | 在 12 个潜在产学活动领域中，中心机构平均仅覆盖 3.5 个；直接负责仅占 39 次，未提及占 187 次，以“导航者”为主 | — | 证实了 TTO 及中心企业参与机构在全谱系活动中的微观碎片化局限 |
+> | [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso & Hall (2025b, pp. 62–63)]] | 65 所美国 [[University Industry Demonstration Partnership\|UIDP]] 成员大学中心产学机构 | 机构网站多维度编码与权限分析 | 中心办公室直接负责产学活动领域数 | 在 12 个潜在产学活动领域中，中心机构平均仅覆盖 3.5 个；直接负责仅占 39 次，未提及占 187 次，以“导航者”为主 | — | 证实了 TTO 及中心企业参与机构在全谱系活动中的微观碎片化局限 |
 > | 产学合作研发资金历史走势（见 [[Argument_Ulrichsen_2025_UIR_Evolution\|Ulrichsen, 2025, p. 44]]） | 美国大学来自产业的科研经费（1990 与 2022） | 纵向宏观财政追踪（不变价格） | 产业资助大学研发经费规模 | 1990 年为 22 亿美元；2022 年增长至 57 亿美元（按 2022 年不变价） | — | 展现了 TTO 与现代产学契约机制支撑下产业科研资本的持续涌入 |
 > | [[Argument_Ramming_2025_CorporateSupport\|Ramming (2025, p. 224)]]; AUTM & BIO | 大学许可技术向商业产品转化的跨期追踪 | 转化时间尺度与产业基准综合分析 | 大学许可技术至商业产品上市周期、[[Clinical Trial\|临床试验]]审批周期 | 大学许可技术在企业内部二次开发至产品上市通常需 3–8 年；生命科学领域从 I 期临床至监管批准超过 10 年 | 行业基准与转化统计综合 | 证实大学发明距现实商业化存在显著时间滞后，需企业持续多阶段研发投入 |
 
@@ -253,7 +251,7 @@ created: 2026-06-03
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关[[Document|文献]]索引
+> [!evidence-grid-a] 相关文献索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 从[[Developmental Network State|发展型网络国家]]与波兰尼虚构商品视角，系统剖析《[[Bayh-Dole Act of 1980|拜杜法案]]》后大学 TTO 追求排他性专利与独家许可所引发的制度弊端，揭示法务壁垒对跨组织科研协作的阻断以及公私利益倒挂。
 > - [[Argument_Atkinson_2008_TIS|Atkinson & Blanpied (2008)]] — 详述《[[Bayh-Dole Act of 1980|拜杜法案]]》前全美大学成果商业化匮乏的历史教训，印证法律赋权促成各校建立 TTO 并带来专利四倍暴增的体制跨越。
 > - [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall (2025b)]] — 对 65 所美国顶尖[[Research Universities|研究型大学]]进行组织学实证分析，揭示 TTO 在中心办公室架构中的五种模式及其在全谱系产学活动中的碎片化与导航者局限。

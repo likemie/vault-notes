@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15"
 argument_display_title: "Research Methods in Education · Ch15"
 argument_kind: "book-chapter"
-argument_related_count: 33
+argument_related_count: 32
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -33,7 +33,6 @@ tags:
 related_concepts:
   - "[[Concept Mapping]]"
   - "[[Causality]]"
-  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Dependent Variable]]"
   - "[[Independent Variable]]"
@@ -41,7 +40,6 @@ related_concepts:
   - "[[Homework]]"
   - "[[Student Attitude]]"
   - "[[Effective Teaching]]"
-  - "[[Document]]"
   - "[[Post Hoc Ergo Propter Hoc Fallacy]]"
   - "[[Research Purpose]]"
   - "[[Evidence-Based Education]]"
@@ -50,6 +48,7 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Alternative Hypothesis]]"
   - "[[Probabilistic Causation]]"
+  - "[[Hypothesis]]"
 related_methods:
   - "[[Ex Post Facto Research]]"
   - "[[Experimental Research]]"
@@ -104,7 +103,7 @@ sources:
 
 事后回溯研究的字面翻译是事后（after the fact），含义包括事后所做（from what is done afterwards）、事件之后（from after the event）或从已发生的事情推演（from what has happened）。在社会和教育研究中，指回溯性地（retrospectively）探索可能的因果-效应关系，即通过观察已存在的条件或状态，逆时间搜索可能的因果因素（p. 304）。
 
-在因果关系的框架中（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|第4章]]），事后回溯研究关注研究结果的原因（causes of effects），区别于研究原因的结果（effects of causes）。核心追问是：哪些因素似乎与特定事件、条件或行为方面有关联？这些都已发生，因此必须[[Hypothesis|假设]]可能的原因，然后对照证据逐一检验，例如通过将因素保持不变、控制样本并进行匹配（p. 304）。
+在因果关系的框架中（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|第4章]]），事后回溯研究关注研究结果的原因（causes of effects），区别于研究原因的结果（effects of causes）。核心追问是：哪些因素似乎与特定事件、条件或行为方面有关联？这些都已发生，因此必须假设可能的原因，然后对照证据逐一检验，例如通过将因素保持不变、控制样本并进行匹配（p. 304）。
 
 > [!def] 事后回溯研究的正式定义
 > 事后回溯研究是一种梳理已发生事件的先行因素的方法，这些事件已发生因此无法被控制、设计或操纵（Cooper & Schindler, 2001, p. 136）。只能报告已发生或正在发生的事情，通过谨慎关注抽样来设法将因素保持不变。自[[Variable\|变量]]无法像在真正实验中那样被操纵，因为它们已经发生。因此整个推断在概率性因果关系的领域内进行：试探性地推断原因（inferring causes tentatively），无法确定性地展示因果关系（p. 304）。
@@ -116,7 +115,7 @@ sources:
 >
 > 她可以做的事情包括：(1) 研究医院记录，看哪些群体遭受了最大创伤，是公交车、卡车还是摩托车冲击受害者；(2) 通过分析统计数据、勘验事故地点、收集受害者和目击者的陈述来重建事件。通过这种方式，可以识别可能的事故决定因素：超速、路况不佳、疏忽驾驶、挫折感、车辆故障、药物或酒精影响等。
 >
-> 在她的勘验基础上，她可以就可能的原因形成[[Hypothesis\|假设]]，并以建议的形式提交给相关权威机构。这些建议可能包括改善路况、降低限速或加强警察巡逻。关键在于：她在回溯性识别原因的过程中，采用的正是事后回溯视角（p. 304）。
+> 在她的勘验基础上，她可以就可能的原因形成假设，并以建议的形式提交给相关权威机构。这些建议可能包括改善路况、降低限速或加强警察巡逻。关键在于：她在回溯性识别原因的过程中，采用的正是事后回溯视角（p. 304）。
 
 ---
 
@@ -278,7 +277,7 @@ Ary et al.（2009, p. 335）进一步将这两种路径分别命名为前瞻性�
 > | 维度 | 因果-比较设计 | 历史设计 |
 > |---|---|---|
 > | 时间焦点 | 关注当前事件 | 追溯过去事件的历史 |
-> | 数据性质 | 可直接观察和访谈当前参与者 | 依赖档案、[[Document\|文献]]和二手记录 |
+> | 数据性质 | 可直接观察和访谈当前参与者 | 依赖档案、文献和二手记录 |
 > | 与研究对象的关系 | 研究者可接触活着的当事人 | 研究者与研究对象之间存在时间距离 |
 > | 核心任务 | 比较当前组别差异，逆向搜索原因 | 基于史料重建过去情境和因果脉络 |
 
@@ -453,7 +452,7 @@ Ary et al.（2009, p. 335）进一步将这两种路径分别命名为前瞻性�
 事后回溯研究关注发现数据中变量之间的关系，可通过因果模型或因果-比较模型来实现。
 
 > [!proc] Lord（1973, p. 6）的八阶段程序
-> 1. **界定问题并回顾[[Document\|文献]]** 明确研究领域。通过[[Literature Review\|文献回顾]]了解前人研究的议题、问题、障碍和发现（pp. 315–316）。
+> 1. **界定问题并回顾文献** 明确研究领域。通过[[Literature Review\|文献回顾]]了解前人研究的议题、问题、障碍和发现（pp. 315–316）。
 > 2. **陈述假设与前提假设** 明确待检验的假设以及研究程序所基于的前提或假设。
 > 3. **选择被试与数据收集方法** 确定抽样策略（sampling）和数据收集工具。
 > 4. **建立数据分类标准与类别** 建立尽可能无歧义、能发现关系和相似性的分类标准，使数据适合研究目的。
@@ -501,10 +500,10 @@ Ary et al.（2009, p. 335）进一步将这两种路径分别命名为前瞻性�
 >
 > *Frequently, causal relationships seem to be established on nothing more substantial than the premise that any related event occurring prior to the phenomenon under study is assumed to be its cause – the classical post hoc, ergo propter hoc fallacy. Even when we do find a relationship between two variables, we must recognize the possibility that both are individual results of a common third factor rather than the first being necessarily the cause of the second. There is also the real possibility of reverse causation.*
 
-> [!citation-card]- 证据只能说明[[Hypothesis\|假设]]，不能检验假设
+> [!citation-card]- 证据只能说明假设，不能检验假设
 > 事后回溯假设生成于数据收集之后，因此无法被[[Falsification\|证伪]]（Babbie, 2010, p. 462）。正如 Lord（1973, p. 7）所强调的，证据说明假设，不能检验假设：假设不能在与推导出假设的同一数据上进行检验。（第15章，pp. 313, 316）
 >
-> *The ex post facto hypothesis is generated after the data have been collected, so it is not possible to disconfirm it (Babbie, 2010, p. 462). The evidence illustrates rather than tests the hypothesis here .*
+> *The ex post facto [[Hypothesis]] is generated after the data have been collected, so it is not possible to disconfirm it (Babbie, 2010, p. 462). The evidence illustrates rather than tests the hypothesis here .*
 
 > [!citation-card]- 将事后回溯研究重新定位为调查
 > 事后回溯设计更适合被理解为调查（surveys），作为需由更常规实验方法在日后检验的假设的有用来源。尽管有诸多局限，教育和心理学中许多重要研究都是事后回溯设计：通常别无选择，无法使一组人成为失败者、犯罪者、自杀者或脑损伤者，研究必须依赖已有群体。（第15章，p. 310）

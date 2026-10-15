@@ -8,7 +8,7 @@ summary: "质性研究中通过系统检验不符合已有假设或模式的案�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 13
+method_related_count: 12
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -16,7 +16,6 @@ tags:
   - method/qualitative-research
   - theme/validity
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Falsification]]"
   - "[[Saturation]]"
   - "[[Interpretive Paradigm]]"
@@ -34,14 +33,14 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
 created: 2026-06-23
-updated: 2026-09-11
+updated: 2026-10-15
 ---
 # Negative Case Analysis
 
 ## 定义
 
 > [!def] 核心定义
-> 负面案例分析（negative case analysis）是在[[Qualitative Research\|质性研究]]中系统审视那些不符合、不支持或与正在形成的理论、[[Hypothesis\|假设]]或模式相矛盾的案例或数据的过程。其目的是通过不断修正理论以包容所有案例，最终建立一个"适合每一个案例"的理论。
+> 负面案例分析（negative case analysis）是在[[Qualitative Research\|质性研究]]中系统审视那些不符合、不支持或与正在形成的理论、假设或模式相矛盾的案例或数据的过程。其目的是通过不断修正理论以包容所有案例，最终建立一个"适合每一个案例"的理论。
 
 负面案例分析源自 Glaser & Strauss (1967) 的[[Grounded Theory|扎根理论方法]]论中的**[[Constant Comparison|持续比较法]]（constant comparative method）**。它与简单寻找"反例"的区别在于：负面案例分析是主动的、系统性的研究策略——研究者不是等待反例出现，而是主动寻找和检验反例。
 
@@ -54,7 +53,7 @@ updated: 2026-09-11
 ## 核心要素
 
 > [!feature] 负面案例分析的操作要素
-> - **识别异常** 系统地检查数据以寻找与正在形成的模式、命题或[[Hypothesis\|假设]]不一致的案例
+> - **识别异常** 系统地检查数据以寻找与正在形成的模式、命题或假设不一致的案例
 > - **修正假设** 当发现异常案例时，修正理论/假设以使其能同时涵盖异常案例和此前已覆盖的案例
 > - **迭代循环** 修正后继续寻找新的异常案例——此过程反复进行，直到再无异常案例可发现
 > - **终止标准** 当理论已经适合所有案例、无法再找到需要修正的负面案例时，过程终止——此时达到了[[Saturation\|理论饱和]]

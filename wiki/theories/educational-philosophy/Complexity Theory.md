@@ -8,7 +8,7 @@ aliases:
 summary: "一种将教育系统视为复杂适应系统的新兴研究范式，以非线性和整体论取代简单的线性因果模型，强调反馈、涌现、连接性和自组织等核心概念"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 61
+theory_related_count: 60
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Determinism]]"
   - "[[Variable]]"
-  - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
   - "[[Positivism]]"
@@ -86,7 +85,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Complexity Theory
@@ -97,7 +96,7 @@ updated: 2026-10-09
 
 > [!theory-position] 理论定位
 > - **解释对象** 教育生态系统中多元主体的非线性交互、高阶全局模式的自发[[Emergence\|涌现]]、网络连接性、自组织适应以及系统相变与临界转折。
-> - **理论问题** 彻底扬弃机械牛顿力学的线性[[Determinism\|因果决定论]]、受控实验的孤立[[Variable\|变量]]还原论以及实验室封闭系统推广[[Hypothesis\|假设]]，确立开放教育世界中不确定性、生成性与整体关系的[[Epistemology\|认识论]]正当性。
+> - **理论问题** 彻底扬弃机械牛顿力学的线性[[Determinism\|因果决定论]]、受控实验的孤立[[Variable\|变量]]还原论以及实验室封闭系统推广假设，确立开放教育世界中不确定性、生成性与整体关系的[[Epistemology\|认识论]]正当性。
 > - **理论类型** 元理论（Meta-theory）、[[Paradigm\|范式]]级[[Analytic Framework\|分析框架]]、跨学科复杂适应系统理论。
 > - **知识位置** 发轫于 20 世纪下半叶混沌理论（Lorenz, Gleick）与自组织临界性（Bak），经考夫曼（[[Stuart Kauffman]]）与圣塔菲研究所（[[Science Foundation Ireland|SFI]]）提炼为复杂适应系统（[[Chinese Academy of Sciences|CAS]]）理论；在教育研究领域由[[Keith Morrison\|莫里森]]（Keith Morrison）、拉德福德（Luis Radford）与萨拉·库恩（Sarah Kuhn）系统引入，成为超越传统[[Positivism\|实证主义]]与微观[[Interpretivism|诠释主义]]的新兴研究[[Paradigm\|范式]]。
 
@@ -224,7 +223,7 @@ updated: 2026-10-09
 > - **推论边界** 复杂性理论否定的是**简单线性因果模型**，而非因果探究本身；它呼唤更具情境敏感性、注重网络因果与共演化机制的深层因果理解。
 
 > [!theory-use] 理论使用方式
-> - **作为反思批判棱镜** 审视各类实证研究的线性[[Hypothesis\|假设]]，追问其因果结论在多大程度上忽视了系统的全息连接与正负反馈调节。
+> - **作为反思批判棱镜** 审视各类实证研究的线性假设，追问其因果结论在多大程度上忽视了系统的全息连接与正负反馈调节。
 > - **作为设计启发框架** 在课程与学校变革设计中引入奇异吸引子、分散化协作与基层自组织空间，避免过度规约导致的生机窒息。
 > - **严禁滥用为虚无借口** 绝不可将复杂性异化为放弃学术严谨性或否定一切因果解释的托辞；复杂性理论要求研究者付出更严密的情境[[Rich and Thick Description\|深描]]与关系网络追踪。
 
@@ -262,7 +261,7 @@ updated: 2026-10-09
 > > [!axis] 过程的精密精致 vs 概念的模糊粗糙
 > > 争论焦点在于：复杂系统模拟与数学建模是否存在过度形式化倾向？
 > > 
-> > - **批判观点（Ruddock, 1981, p. 49）** 复杂性模型在[[Computer Simulation\|计算机仿真]]上展现出令人叹为观止的精巧与繁复，但其底层所依赖的教育[[Hypothesis\|假设]]和概念界定却可能极为粗糙单薄，存在“用精巧技术包裹简陋思想”的风险。
+> > - **批判观点（Ruddock, 1981, p. 49）** 复杂性模型在[[Computer Simulation\|计算机仿真]]上展现出令人叹为观止的精巧与繁复，但其底层所依赖的教育假设和概念界定却可能极为粗糙单薄，存在“用精巧技术包裹简陋思想”的风险。
 > > - **辩护回应** 现代教育复杂性探究已超越纯粹的数值模拟，走向质性[[Ethnography\|民族志]]、深度案例叙事与计算社会科学的有机融合。
 > 
 > > [!axis] 自然生态类比 vs 人类[[Reflexivity\|反思性]]能动性

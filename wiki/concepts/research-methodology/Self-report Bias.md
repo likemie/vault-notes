@@ -23,6 +23,7 @@ related_concepts:
   - "[[Response Bias]]"
   - "[[Common Method Variance]]"
   - "[[Construct]]"
+  - "[[Habitus]]"
   - "[[Construct Validity]]"
   - "[[Heterogeneity]]"
   - "[[Research Impact]]"
@@ -32,7 +33,6 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Confidentiality]]"
   - "[[Anonymity in Research]]"
-  - "[[Document]]"
   - "[[Phronesis]]"
   - "[[Internal Validity]]"
 related_arguments:
@@ -102,7 +102,7 @@ updated: 2026-10-15
 > | 维度 | 自报偏差（Self-report Bias） | 社会期望偏差（Social Desirability Bias） | 回忆偏差（Recall Bias） | 默许偏差（Acquiescence Bias） | [[Response Bias\|无回应偏差]]（Non-response Bias） |
 > |---|---|---|---|---|---|
 > | **偏差来源** | 受访者内在认知过滤（动机、记忆与理解） | 维护积极社会形象、逃避污名化审查 | 记忆衰退、遗忘或事后合理化重构 | 无论题项内容一律倾向于勾选“赞同” | 回应者与未回应者特征不均衡 |
-> | **核心机制** | 整合性系统偏倚（涵盖高报、低报与曲解） | 心理防御与社会赞许动机单向驱动 | 认知检索困难与时间距离效应 | 顺从心理、认知惰性或文化礼貌惯习 | 系统性拒答诱发样本代表性截断 |
+> | **核心机制** | 整合性系统偏倚（涵盖高报、低报与曲解） | 心理防御与社会赞许动机单向驱动 | 认知检索困难与时间距离效应 | 顺从心理、认知惰性或文化礼貌[[Habitus\|惯习]] | 系统性拒答诱发样本代表性截断 |
 > | **典型表现** | 政策自陈高认同但低实践；教学行为自评偏高 | 夸大环保、读书与反思；掩盖违规与偏见 | 难以准确回忆一年前具体备课课时数 | 对正反陈述均给出高度赞同 | 低社会经济地位群体或底层教师拒答 |
 > | **主要控制** | 多源[[Triangulation\|三角互证]]、客观指标核验、保证匿名 | 强制选择量表、中立化措辞、第三方评价 | 缩短回忆时间窗口、日志追踪法（EMA） | 正反题项平衡设计、语义区分量表 | 提高回应率策略、无回应缺失数据插补 |
 
@@ -249,7 +249,7 @@ updated: 2026-10-15
 
 > [!tip] 减少自报偏差的多重设计与分析策略
 > - **严格的匿名与[[Confidentiality\|保密承诺]]（[[Anonymity in Research\|anonymity]] Assurance）** 明确告知受访者数据仅用于统计聚合分析，切断作答内容与个体人事考核的联结，最大限度降低社会赞许防备。
-> - **问题措辞中立化与非评判性表述（Neutral Wording）** 避免使用道德色彩浓厚或暗示“官方正确答案”的导向性语词；在敏感事项中提供合理解释以降低受访者的负罪感（如“许多教师在忙碌时难以查阅[[Document\|文献]]”）。
+> - **问题措辞中立化与非评判性表述（Neutral Wording）** 避免使用道德色彩浓厚或暗示“官方正确答案”的导向性语词；在敏感事项中提供合理解释以降低受访者的负罪感（如“许多教师在忙碌时难以查阅文献”）。
 > - **行为锚定与具体情境化（Behavioral Anchoring）** 避免抽象模糊的宏观自评（如“你是否经常使用研究”），改为具体、可验证的短期客观行为陈述（如“过去两周内，你是否基于学术期刊调整过教案”）。
 > - **生态瞬时评估与日志法（Ecological Momentary Assessment / Diaries）** 针对回忆衰减，要求受访者在行为发生当天或即时记录日志，替代跨越数月甚至数年的长周期事后回溯。
 > - **多源数据[[Triangulation\|三角互证]]（Data [[Triangulation]]）** 结合自报[[Questionnaire\|问卷]]与客观数据（行政调阅记录、数据库检索日志、第三方[[Classroom Observation|课堂观察]]与学生反馈）展开交叉验证。
@@ -263,7 +263,7 @@ updated: 2026-10-15
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13\|Cohen et al. (2011d, pp. 262–265)]] — 系统阐明[[Survey Research\|调查研究]]中自报偏差的三重机制（低报、高报、理解不一致）与回忆偏差，以及数据收集方式对偏差的调节作用。
 > - [[Argument_Hill_2022_FacilitatingActors\|Hill (2022, pp. 76–80, 93)]] — 在[[OECD\|经合组织]] 29 国政策调查中深刻反思部委单一自陈调查的局限性，揭示部委自陈偏高掩盖基层学校阻力的方法论偏差，以及跨国文化基准[[Heterogeneity\|异质性]]。
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 通过对 568 名在职教师的心理测量学调查，实证揭示教师自陈科研态度（4.37）与实际使用行为（3.78）之间的知行断层与自报赞许效应。
-> - [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] — 批判性指出 30 年来[[Research Utilization\|研究使用]][[Document\|文献]]过度依赖横截面自陈[[Questionnaire\|问卷]]，导致对教师[[Phronesis\|实践智慧]]与情境复杂性的测量失真。
+> - [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] — 批判性指出 30 年来[[Research Utilization\|研究使用]]文献过度依赖横截面自陈[[Questionnaire\|问卷]]，导致对教师[[Phronesis\|实践智慧]]与情境复杂性的测量失真。
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 在教育研究设计中深入剖析问卷调查与相关研究设计的核心效度威胁，明确将自陈偏差界定为限制[[Causality\|因果推断]]的重要[[Internal Validity\|内部效度]]缺陷。
 > - Tourangeau, Rips, & Rasinski (2000) — 开创调查应答四阶段认知处理模型，奠定自报偏差在信息检索与社会化编辑阶段形成的认知心理学基石。
 > - Podsakoff et al. (2003) — 组织与行为科学中关于自报方法变异与测量偏倚控制的奠基性[[Meta-analysis\|元分析]]文献，系统提出事前设计与事后统计校正指南。

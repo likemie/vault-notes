@@ -8,7 +8,7 @@ aliases:
 summary: "梳理公共部门与教育领域证据使用思维演进的分析框架，从理性-线性（第一代）、关系网络（第二代）、系统全局（第三代）递进至以教师多源知识整合与专业规范为核心的专业敏感型（第四代）模型"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 28
+theory_related_count: 26
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -32,11 +32,9 @@ related_concepts:
   - "[[Professional Learning Community]]"
   - "[[Teacher Knowledge Base]]"
   - "[[School Leadership]]"
-  - "[[Document]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
-  - "[[Hypothesis]]"
   - "[[Evidence-Based Education]]"
   - "[[Knowledge Production]]"
 related_methods:
@@ -53,7 +51,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Four Generations of Research Use
@@ -118,7 +116,7 @@ updated: 2026-10-07
 > - **前提一** 第一代模型建立在单向传递的假定之上，将研究使用视为从学者到教师的自上而下输送，教师被视作被动的执行者（Boaz & Nutley, 2019；[[Argument_Mausethagen_2025_ERR\|Mausethagen et al., 2025, p. 2]]）。
 > - **前提二** 第二代模型引入了伙伴合作与交流网络，虽然增加了教师互动，但在底层机制上依然假定外部研究需要向实践扩散与推广。
 > - **前提三** 第三代模型强调[[School Leadership\|学校领导]]与制度环境的支持，但若脱离对教学实践本质的理解，往往停留在外部条件的排列组合，无法解释为何具备制度支持后教师依然极少直接套用研究（[[Argument_Mausethagen_2025_ERR\|Mausethagen et al., 2025, p. 7]]）。
-> - **推导** ① 单向输送预设 → ② 即使扩展至网络与系统层面，研究焦点仍停留在如何促使教师更多采纳外部研究 → ③ 导致学术[[Document\|文献]]长期停留在归咎教师能力不足的赤字循环中。
+> - **推导** ① 单向输送预设 → ② 即使扩展至网络与系统层面，研究焦点仍停留在如何促使教师更多采纳外部研究 → ③ 导致学术文献长期停留在归咎教师能力不足的赤字循环中。
 
 > [!proposition-chain] 核心命题二｜第四代专业敏感型模型将研究使用重构为基于育人伦理的多源知识动态整合
 > - **前提一** 教师的专业知识结构具备多元与复合特征（Shulman, 1987; Grimen, 2008），外部科研论文只是教师应对具体教学难题时可供调用的参考资源之一（[[Argument_Mausethagen_2025_ERR\|Mausethagen et al., 2025, p. 8]]）。
@@ -156,9 +154,9 @@ updated: 2026-10-07
 > - **理论边界** 本模型并非否定科研证据的价值，而是主张准确定位研究证据在专业教学中的功能，既不盲从，亦非全盘排斥。
 
 > [!theory-use] 如何用于研究
-> - **分析政策[[Hypothesis\|假设]]** 用于审视[[Evidence-Based Education\|循证教育]]政策或教师培训方案，辨识其隐含的思维代际（例如是否仍将教师预设为被动接受者）。
+> - **分析政策假设** 用于审视[[Evidence-Based Education\|循证教育]]政策或教师培训方案，辨识其隐含的思维代际（例如是否仍将教师预设为被动接受者）。
 > - **分析教研实践** 用于深入观察教师在集体备课或校本教研中，如何将外部研究结论转化为具体的教学设计。
-> - **反思过度量化** 批判将[[Document\|文献]]阅读量或循证指标作为考核教师硬性标准的行政化倾向。
+> - **反思过度量化** 批判将文献阅读量或循证指标作为考核教师硬性标准的行政化倾向。
 
 ---
 
@@ -183,4 +181,4 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - **[[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]** 基于 34 项[[Document\|文献]]的[[Critical Review\|批判性综述]]提出该四代模型，论证教育研究必须从第三代系统观推进至以[[Knowledge Integration\|知识整合]]与专业规范为支柱的第四代概念化。
+> - **[[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]** 基于 34 项文献的[[Critical Review\|批判性综述]]提出该四代模型，论证教育研究必须从第三代系统观推进至以[[Knowledge Integration\|知识整合]]与专业规范为支柱的第四代概念化。

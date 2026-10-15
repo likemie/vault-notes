@@ -5,10 +5,10 @@ aliases:
 summary: "Downey & Condron (2016) 的学校与不平等折射理论：学校可沿不同维度以补偿性、加剧性或中性方式塑造不平等，强调差距在学校入学前已形成"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 16
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 14
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - refraction-framework
   - inequality
@@ -17,13 +17,11 @@ tags:
   - paradigm/sociological
 related_concepts:
   - "[[Counterfactual]]"
-  - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Postpositivism]]"
   - "[[Causality]]"
   - "[[Learning Gain]]"
-  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Seasonal Comparison]]"
@@ -40,7 +38,7 @@ related_arguments:
 confidence: low
 status: draft
 created: 2026-05-04
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 ## 核心主张
@@ -84,7 +82,7 @@ updated: 2026-09-17
 > | 视角 | 学校的角色 | 核心代表 |
 > |------|----------|---------|
 > | 再生产理论（Reproduction） | 学校传递已有的不平等 | [[Pierre Bourdieu\|Bourdieu]] (1977); Bowles & Gintis (1976) |
-> | 加剧理论（Exacerbation） | 学校不仅再生产且放大不平等 | Kozol (1992); 教师质量差异[[Document\|文献]] |
+> | 加剧理论（Exacerbation） | 学校不仅再生产且放大不平等 | Kozol (1992); 教师质量差异文献 |
 > | Coleman 报告立场 | 学校对成就差距作用很小 | Coleman et al. (1966); Jencks (1972) |
 > | 折射框架（Refraction） | 学校沿不同维度以不同方式塑造不平等 | [[Argument_Downey_2016_SoE\|Downey & Condron (2016)]] |
 >
@@ -114,7 +112,7 @@ updated: 2026-09-17
 > - SES 认知技能差距可能是例外而非规则——学校可能对大多数其他结果是不平等的引擎
 
 
-> [!warning] [[Seasonal Comparison\|季节性比较]]方法的[[Hypothesis\|假设]]
+> [!warning] [[Seasonal Comparison\|季节性比较]]方法的假设
 > 框架的核心经验基础——季节性比较——依赖一系列假设（见 [[Seasonal Comparison]] 条目的「局限性」章节），这些假设的合理性仍在学术讨论中([[Argument_Downey_2016_SoE\|Downey & Condron, 2016, pp.4–5]])。
 
 

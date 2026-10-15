@@ -7,14 +7,14 @@ aliases:
 summary: "支配群体将其文化视角合法化为社会正统标准，将边缘或少数群体文化降至从属地位的符号支配与教育再生产机制"
 type: concept
 domain: "sociology-of-education"
-related_count: 19
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
 confidence: high
 status: active
 created: '2026-07-23'
-updated: 2026-10-07
+updated: 2026-10-15
 tags:
   - cultural-hierarchy
   - official-knowledge
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Official Knowledge]]"
   - "[[Discourse]]"
   - "[[Symbolic Boundary]]"
-  - "[[Bildung]]"
   - "[[Zhonghua Minzu]]"
   - "[[Paradigm]]"
   - "[[Sinicisation]]"
@@ -88,7 +87,7 @@ related_arguments:
 
 > [!feature] 核心要素
 > - **正统[[Discourse|话语]]的垄断（Discursive Monopolisation）** — 将主导群体的文化（如汉族儒家传统）提升为国家“唯一”或“核心”的文化象征，剥夺其他文化的代表性[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 67)]]。
-> - **师生与[[Bildung\|教化]]隐喻（Teacher-Student Metaphor）** — 在历史与文化叙事中，将主导文化塑造为“施教者/文明化者”，将非主导群体塑造为“受教者/学习者”，固定两者的支配-服从关系[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 67)]]。
+> - **师生与教化隐喻（Teacher-Student Metaphor）** — 在历史与文化叙事中，将主导文化塑造为“施教者/文明化者”，将非主导群体塑造为“受教者/学习者”，固定两者的支配-服从关系[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 67)]]。
 > - **少数文化的“异域化”与边缘化（Exoticisation & Marginalisation）** — 将少数族群文化置于非主流的“民俗展示”或“落后待改造”位置，排除在核心知识体系之外[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 60)]]。
 > - **文化不平等的制度化再生产** — 通过国家课程、审查制度与评价体系，将符号层面的文化等级硬化为社会与政治层面的结构性不平等[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]]。
 

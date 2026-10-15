@@ -11,7 +11,7 @@ aliases:
 summary: "指将传统的联邦学徒制前置输入型经费补助改造为与学徒实际录用、薪酬增长与长期留任率等真实产出严格绑定的按绩效付费资助机制。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 8
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Apprenticeship]]"
   - "[[Competitiveness]]"
   - "[[Block Grants]]"
-  - "[[Attrition]]"
   - "[[Goodhart's Law]]"
 related_theories: []
 related_methods:
@@ -37,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Outcome-Based Apprenticeship Funding
@@ -71,7 +70,7 @@ updated: 2026-10-12
 > | 维度 | 结果导向[[Apprenticeship\|学徒制]]资助（Outcome-Based Funding） | 传统前置输入型补助（Input-Based Grants） | 企业自费学徒培训（Internal Corporate Apprenticeship） |
 > |---|---|---|---|
 > | **拨付时点与条件** | 阶段性后置拨付，必须核验真实录用与留任率 | 开班前一次性或按阶段人头拨付，仅考核出勤与结业 | 企业自主根据产线预算实时承担，无外部公共核验 |
-> | **风险承担主体** | 培训机构与用人单位共同承担就业转化风险 | 公共财政承担全部资金沉没与学员失业风险 | 企业独立承担员工[[Attrition\|流失]]（Poaching）风险 |
+> | **风险承担主体** | 培训机构与用人单位共同承担就业转化风险 | 公共财政承担全部资金沉没与学员失业风险 | 企业独立承担员工流失（Poaching）风险 |
 > | **防范指标异化** | 引入多维核验（薪酬底线、连续留任）防刷量 | 极易诱发假结业、低质培训等[[Goodhart's Law\|古德哈特定律]]现象 | 纯市场导向，无需防范虚假结业 |
 
 ---

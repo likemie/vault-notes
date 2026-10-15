@@ -2,7 +2,7 @@
 summary: "将软件工程敏捷哲学、实验设计与工程实用主义跨界引入公共行政与科技政策制定的核心治理范式；通过短周期快速迭代、跨职能流动团队、以用户为中心的设计、免责根因复盘以及小步快跑的试错实验，打破新公共管理的僵化瀑布外包与去技能化困境，支持公共部门在不确定环境中实现自适应演化与持续反思性学习。"
 type: concept
 domain: "science-policy"
-related_count: 35
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Externalization]]"
   - "[[Lead-and-Learn Paradigm]]"
   - "[[Technological Republic]]"
-  - "[[Hypothesis]]"
   - "[[Cognitive Deskilling]]"
   - "[[Bureaucracy]]"
   - "[[Feedback]]"
@@ -58,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-08
+updated: 2026-10-15
 title: Agile Governance
 aliases:
   - 敏捷治理
@@ -78,7 +77,7 @@ aliases:
 > **敏捷治理（Agile Governance / 敏捷公共管理与敏捷试错）**是指将源自软件工程、以人为本服务设计（User-Centred Service Design）与[[Engineering Pragmatism|工程实用主义]]的敏捷迭代哲学跨界引入公共行政、国家防务与科技政策制定中的新型治理[[Paradigm|范式]]；其核心特征在于彻底打破传统[[New Public Management|新公共管理]]（New Public Management, NPM）所依赖的事前僵化规划、长周期线性推进与全面[[Externalization|外部化]]的“瀑布模型”（Waterfall Model），在公共部门内部构建敏捷软件工程与跨学科流动团队能力，通过短周期快速迭代、最小可行产品（Minimum Viable Product, MVP）测试、真实运行反馈、免责根因追溯以及[[Randomised Controlled Trials|随机对照试验]]（Randomised Controlled Trial, RCT）等实证工具，在持续的“小步快跑、试错修正与快速止损”中动态优化政策设计与公共系统交付。[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）将敏捷治理确立为支撑第三代使命导向政策与落实[[Lead-and-Learn Paradigm|引领与学习范式]]的核心行政操作方法论；[[Alexander Karp|亚历山大·卡普]]（Alexander Karp）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（Nicholas Zamiska）则进一步将敏捷工程试错升华为现代国家克服官僚教条主义与重塑[[Technological Republic|技术共和国]]的组织认知基石。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–798)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 156–167)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 标识了公共治理从“基于[[Hypothesis|假设]]的事前合规审查与瀑布式外包”向“基于代码运行、实证原型与真实环境反馈的自适应演化学习”的深刻哲学转向。
+> - **含义** 标识了公共治理从“基于假设的事前合规审查与瀑布式外包”向“基于代码运行、实证原型与真实环境反馈的自适应演化学习”的深刻哲学转向。
 > - **用途** 帮助公共组织克服行政[[Cognitive Deskilling|去技能化]]、破除大型私营咨询寡头锁定，并以极低试错成本应对技术与国家安全领域的复杂突变。
 > - **边界** 敏捷治理不是缺乏战略导向的盲目摇摆或草率行政，而是在宏观明确使命指引下，对具体执行路径保持自适应迭代与制度化纠错。
 
@@ -117,7 +116,7 @@ aliases:
 
 > [!feature] 敏捷治理的核心支柱要素
 > - **跨职能流动团队（Liquid Cross-Functional Teams）** 打破部委条块分割与固定岗位编制，根据具体使命任务灵活抽调技术、政策、法律与设计专家组成项目特区，任务完成后即刻重组。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 795–796)]]
-> - **快速原型与最小可行产品（Rapid Prototyping & MVPs）** 坚决避免未经检验的全国性一刀切铺开，优先开发轻量级原型在局部场景快速验证核心[[Hypothesis|假设]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 796)]]
+> - **快速原型与最小可行产品（Rapid Prototyping & MVPs）** 坚决避免未经检验的全国性一刀切铺开，优先开发轻量级原型在局部场景快速验证核心假设。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, p. 796)]]
 > - **以人为本的服务设计（User-Centred Service Design）** 将公共政策与数字服务的评估基准从“官僚审批便利”彻底倒逼至“公众与一线作战人员的实际使用体验与实效”。（pp. 795–796）
 > - **循证社会实验与闭环验证（Evidence-Based Social Experimentation & [[Randomised Controlled Trials|RCTs]]）** 结合[[Randomised Controlled Trials|随机对照试验]]、A/B 测试与实时运行数据，为政策迭代提供高[[Reliability|信度]]的因果实证支持。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 796–798)]]
 > - **免责根因追溯与快速止损机制（Blameless Root-Cause Tracing & Rapid Pivoting）** 借助[[Taiichi Ohno|大野耐一]]（Taiichi Ohno）[[Five Whys|五问法]]等工程复盘工具，在出现故障时剥离个人归咎、追溯系统与激励根因，并在数天内果断放弃死胡同方案。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 158–163)]]

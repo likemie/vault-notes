@@ -2,7 +2,7 @@
 summary: "知识资金（Funds of Knowledge, FoK）是指深植于家庭、社区与日常文化实践中，历史上积累、代际传递且对个体生存与福祉至关重要的战略性知识、技能与文化资源网络。该取向彻底批判并将教育实践从“文化亏空”假设中解放出来，主张教师深入社区挖掘学生的家庭文化资本与地方性知晓方式，将其转化为课堂学科探究的合法认识论资产与认知支架。"
 type: concept
 domain: "curriculum-instruction"
-related_count: 21
+related_count: 20
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,15 +22,14 @@ tags:
 related_concepts:
   - "[[Deficit Model of Science Communication]]"
   - "[[Scaffolding]]"
-  - "[[Teaching Assistant]]"
   - "[[Epistemology]]"
   - "[[Epistemic Resources]]"
   - "[[Epistemic Practices]]"
   - "[[Ways of Knowing]]"
   - "[[Cultural Capital]]"
   - "[[Phronesis]]"
-  - "[[Problem Solving]]"
   - "[[Habitus]]"
+  - "[[Problem Solving]]"
   - "[[Going Native]]"
   - "[[Knowledge Production]]"
   - "[[Humility]]"
@@ -50,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 # Funds of Knowledge
 
@@ -63,7 +62,7 @@ updated: 2026-10-07
 
 > [!concept-lens] 概念透镜
 > - **含义** 学生在家庭与社区日常文化实践中习得的非正式但具有高度实用价值的知识体系与技能网络。
-> - **用途** 帮[[Teaching Assistant\|助教]]师超越单一主流文化视角的教学盲区，搭建连接学生日常生活经验与正规学科知识的[[Epistemology\|认识论]]桥梁。
+> - **用途** 帮助教师超越单一主流文化视角的教学盲区，搭建连接学生日常生活经验与正规学科知识的[[Epistemology\|认识论]]桥梁。
 > - **边界** 不同于去情境化的学术学科命题体系，亦不等于简单的“通俗兴趣引入”，而是要求对社区文化实践进行严肃的质性人类学考察与学科重构。
 
 > [!citation-card] 论多元文化背景下知识资金向课堂[[Epistemic Resources\|认识论资源]]的转化
@@ -78,7 +77,7 @@ updated: 2026-10-07
 > [!contrast-table] 知识资金与相关教育资本概念的辨析
 > | 维度 | 知识资金（Funds of Knowledge） | [[Cultural Capital\|文化资本]]（Cultural Capital） | 文化亏空模型（[[Deficit Model of Science Communication\|deficit model]]） |
 > |---|---|---|---|
-> | **价值立场** | 肯定性：所有家庭均蕴含丰富的[[Phronesis\|实践智慧]]与生存资源 | 批判性：揭示统治阶级惯习在学校中的排他性优势 | 否定性：将弱势群体学业困境归因于家庭文化匮乏 |
+> | **价值立场** | 肯定性：所有家庭均蕴含丰富的[[Phronesis\|实践智慧]]与生存资源 | 批判性：揭示统治阶级[[Habitus\|惯习]]在学校中的排他性优势 | 否定性：将弱势群体学业困境归因于家庭文化匮乏 |
 > | **知识形态** | 根植于社区劳作、家庭互助与日常生活的实用技能与知晓方式 | 由主流阶级界定的高雅文化趣味、学术语言与文凭制度 | 假定弱势家庭缺乏认知刺激与正规学术准备 |
 > | **教学功能** | 作为课堂学科探究的合法资源与生成性支架 | 作为阶层再生产与筛选分类的隐性符号机制 | 倡导补偿性教学或强行同化为主流规范 |
 > | **研究方法** | 教师参与式社区[[Ethnography\|人种志]]与家庭[[In-depth Interview\|深度访谈]] | 大样本社会学[[Questionnaire\|问卷调查]]与阶层流动统计 | 标准化认知测验与去情境的学业落差归因 |
@@ -95,7 +94,7 @@ updated: 2026-10-07
 > - **双语与多模态沟通实践** 
 >   在家庭与多元文化社区中穿梭使用的多语言代码转换能力、叙事传统与口头沟通技艺。
 > - **地方性知晓方式与[[Epistemology\|认识论]]直觉** 
->   对自然气候、动植物[[Habitus\|习性]]及物理环境的长期观察直觉与[[Going Native\|本土化]]解释框架。
+>   对自然气候、动植物习性及物理环境的长期观察直觉与[[Going Native\|本土化]]解释框架。
 
 ---
 

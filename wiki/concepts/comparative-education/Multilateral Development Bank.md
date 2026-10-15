@@ -8,7 +8,7 @@ aliases:
 summary: "由多个主权国家共同创立持股的超国家开发性金融机构；其金融本质是依托发达出资国的最高信用评级在国际债券市场极低息筹集资金、以保本微利原则向发展中借款国发放长期优惠贷款的主权信用合作社；在教育治理中，其通过信贷资金注入、对等资金绑定、政策附加条件与技术建议施加深层影响，但深陷繁琐官僚报销与评估重投入轻产出的执行困境。"
 type: concept
 domain: "comparative-education"
-related_count: 25
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Disbursement-Driven Evaluation]]"
   - "[[Academic Achievement]]"
   - "[[Red Tape]]"
-  - "[[Habitus]]"
   - "[[Knowledge Bank]]"
   - "[[School Choice]]"
   - "[[Performance Pay]]"
@@ -174,7 +173,7 @@ updated: 2026-10-15
 > |---|---|---|---|
 > | **主权信用合作机制** | 银行本质是通过借用发达国高信用评级实现国际债券低息转贷的主权信用合作社 | 国际多边金融架构与主权借贷制度分析 | [[Argument_Castro_2009_MultilateralBanks\|Castro (2009, pp. 456–457)]] |
 > | **借贷契约制度惯性** | 漫长谈判与对等资金绑定机制为项目提供了抵抗本国政客轮替与短期挪用的制度庇护 | 发展中国家（特别是拉美）教育行政频繁换届情境 | [[Argument_Castro_2009_MultilateralBanks\|Castro (2009, p. 458)]] |
-> | **执行端非学[[Habitus\|习性]]困境** | 银行在设计端具备学习能力，但在执行端重投入轻产出并陷入繁琐审计僵化 | 多边贷款项目全周期追踪与绩效评估审查 | [[Argument_Castro_2009_MultilateralBanks\|Castro (2009, pp. 470–472)]]; Castro & Verdisco (2000) |
+> | **执行端非学习性困境** | 银行在设计端具备学习能力，但在执行端重投入轻产出并陷入繁琐审计僵化 | 多边贷款项目全周期追踪与绩效评估审查 | [[Argument_Castro_2009_MultilateralBanks\|Castro (2009, pp. 470–472)]]; Castro & Verdisco (2000) |
 > | **援助与能力倒挂悖论** | 最需要救助的低收入国因官僚毛细能力孱弱无法落地复杂项目，导致受援效果与实际需求严重倒挂 | 全球南方极贫国家教育治理与中等收入国家借贷转型 | [[Argument_Castro_2009_MultilateralBanks\|Castro (2009, pp. 468–469, 475–476)]] |
 
 ---

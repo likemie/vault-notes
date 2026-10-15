@@ -31,8 +31,6 @@ related_concepts:
   - "[[Epistemic Stances]]"
   - "[[Epistemology]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Document]]"
-  - "[[Hypothesis]]"
   - "[[Knowledge Production]]"
   - "[[Research Question]]"
   - "[[Empiricism]]"
@@ -54,7 +52,6 @@ related_methods:
   - "[[Regression Discontinuity Design]]"
   - "[[Single-Subject Design]]"
   - "[[Time Series Design]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
 related_instruments:
   - "[[Study Design and Implementation Assessment Device]]"
@@ -87,9 +84,9 @@ title: "Argument_Eisenhart_Towne_2003_ER"
 argument_key: "Argument_Eisenhart_Towne_2003_ER"
 argument_display_title: "Contestation and change in national policy on \\\"scientifically based\\\" education research"
 argument_kind: "journal-article"
-argument_related_count: 46
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_count: 43
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Educational Researcher"
 book_title: ""
@@ -181,7 +178,7 @@ issuing_organization: ""
 #### 2. 《卓越阅读法》将财政拨款与科学证据挂钩，开创了强制资金合规的立法先例
 
 > [!case] 罗伯特·斯威特（Robert Sweet）起草 [[Reading Excellence Act|REA]] 科学定义的立法过程
-> - **历史背景** 1997 年国会启动 K–12 阅读项目重新授权。时任[[House Committee on Education and the Workforce|众议院教育与劳动力委员会]]主席比尔·古德林（Bill Goodling）注意到 NRC 与国家阅读专家组（[[National Reading Panel]], NRP）正在系统梳理儿童早期阅读[[Document|文献]]，决定通过立法将研究成果直接转化为政策要求。
+> - **历史背景** 1997 年国会启动 K–12 阅读项目重新授权。时任[[House Committee on Education and the Workforce|众议院教育与劳动力委员会]]主席比尔·古德林（Bill Goodling）注意到 NRC 与国家阅读专家组（[[National Reading Panel]], NRP）正在系统梳理儿童早期阅读文献，决定通过立法将研究成果直接转化为政策要求。
 > - **立法目标** 委员会多数党资深幕僚罗伯特·斯威特（Robert Sweet, 2003 年 7 月 16 日访谈）证实，起草该条款的核心意图是强制要求受资助者必须开发或选用基于最佳科学证据的阅读方案，以确保公共资金专款专用。
 > - **专家咨询网络** 为确立条文中的科学标准，斯威特查阅了包括 NRC 在内的科研机构资料，并集中咨询了约 20–25 位大学学者（绝大多数具有认知心理学背景），与他们反复传阅并修改条文草案。
 > - **制度后果** 该条款最终作为法定科学定义写入 1999 年《[[Reading Excellence Act|卓越阅读法]]》（REA），并在没有引发学界普遍关注的情况下顺利通过，成为后续多项联邦教育法案界定科学证据的最初范本。（p. 32）
@@ -194,7 +191,7 @@ issuing_organization: ""
 > | **代表性法案** | 1999 年 REA、2001 年 NCLB、《残疾人教育法》（Individuals with Disabilities Education Act, IDEA）、《[[Higher Education Act of 1965\|高等教育法]]》（Higher Education Act, HEA） | 2000 年 Castle 草案（H.R. 4875 重新授权 [[Office of Educational Research and Improvement\|OERI]]）、2002 年 ESRA（H.R. 3801 设立 IES） |
 > | **适用主体** | 地方学区、受资助学校及教育服务提供机构 | 联邦科研资助机构（[[Office of Educational Research and Improvement\|OERI]] / [[Institute of Education Sciences\|IES]]）及大学、研究机构学者 |
 > | **核心制度意图** | 规约受助者证明资金合规，要求财政拨款只能用于经证实有效的方案 | 设定国家公共资金资助学术研究的质量标准与准入门槛 |
-> | **条文表述特征** | 严格限定于预设[[Hypothesis\|假设]]检验与实验/准实验对照设计 | 侧重探究原则，强调研究设计与具体探究问题的内在契合 |
+> | **条文表述特征** | 严格限定于预设假设检验与实验/准实验对照设计 | 侧重探究原则，强调研究设计与具体探究问题的内在契合 |
 
 > [!tension] 财政问责诉求与[[Knowledge Production|知识生产]]规律的制度张力
 > 服务类法案直接规约数百亿美元公共教育经费的流向，立法者出于对纳税人资金的财务问责诉求，倾向于制定统一、硬性的实验因果标准；而科研资助类法案旨在界定学者能够申请哪些资助，若同样施加僵硬的方法限制，将直接压制探究空间并损害学术知识生产。（pp. 32–33）
@@ -268,7 +265,7 @@ issuing_organization: ""
 > |:---|:---|:---|
 > | **[[Quantitative Research\|量化研究]]取向** | 众多学者抗议 WWC 过度偏向定量实验而忽视质性研究，建议制定平行的质性研究指南。 | 在规程引言中正式改写声明，明确强调：(a) WWC 聚焦评估因果有效性的最佳方法，但 (b) WWC 绝不认为定量方法是唯一可被称为科学的方法。 |
 > | **不同研究设计处理** | 学者质询除随机对照试验外，其他设计如何被 Study DIAD 容纳。 | 增设独立的[[Regression Discontinuity Design\|断点回归设计]]（Regression Discontinuity Design, RDD）评估专章；将实验与准实验拆分为两个独立审查部分；预留[[Single-Subject Design\|单被试设计]]与[[Time Series Design\|时间序列设计]]模块。 |
-> | **重要设计特征[[Coding in Qualitative Research\|编码]]** | 评议者提出大量应纳入编码的设计与实施特征。 | 将原仅提及的附录正式纳入规程，列出 30 多项涉及研究设计与实施情境的特征，作为[[Effect Size\|效应量]]的潜在调节[[Variable\|变量]]进行编码。 |
+> | **重要设计特征编码** | 评议者提出大量应纳入编码的设计与实施特征。 | 将原仅提及的附录正式纳入规程，列出 30 多项涉及研究设计与实施情境的特征，作为[[Effect Size\|效应量]]的潜在调节[[Variable\|变量]]进行编码。 |
 > | **干预与测量指标对齐** | 学界担忧干预方案与测量结果之间的过度重合或脱节偏差。 | 增设对齐审查：排查关联过小（如教数学测阅读）与过度重合（如测试题直接包含干预材料原文而对照组未接触）的效度扭曲。 |
 
 ---
@@ -297,8 +294,8 @@ issuing_organization: ""
 
 > [!finding-cards] 核心发现
 > 1. **华盛顿政策文本存在根本制度功能分野** 规约教育服务提供者证明经费支出的标准（如 [[Reading Excellence Act|REA]]、[[No Child Left Behind Act 2001|NCLB]]）偏好狭隘的实验因果检验；而规范联邦科研机构资助范围的标准（如 [[Education Sciences Reform Act 2002|ESRA]]）则确立了研究方法契合具体问题的宽泛探究原则。（pp. 32–34）
-> 2. **专业质证实质性扭转了科研立法的狭隘化取向** 2000 年初始 Castle 草案（H.R. 4875）对[[Qualitative Research|质性研究]]的贬低与硬性[[Hypothesis|假设]]检验门槛，经由 NRC 科学原则委员会报告（SRE）及国会质证的全力抗辩，在正式颁行的 ESRA（2002）中被彻底删除。（pp. 33–35）
-> 3. **行政执行层面的微观规程同样具备政策可变性** [[What Works Clearinghouse|WWC]] 在推行初版 [[Study Design and Implementation Assessment Device|Study DIAD]] 规程后，吸纳了来自学界的 47 条公众评议，在正式修正案中承认量化非唯一科学、增设[[Regression Discontinuity Design|断点回归]]及 30 余项调节[[Variable|变量]][[Coding in Qualitative Research|编码]]。（pp. 35–36）
+> 2. **专业质证实质性扭转了科研立法的狭隘化取向** 2000 年初始 Castle 草案（H.R. 4875）对[[Qualitative Research|质性研究]]的贬低与硬性假设检验门槛，经由 NRC 科学原则委员会报告（SRE）及国会质证的全力抗辩，在正式颁行的 ESRA（2002）中被彻底删除。（pp. 33–35）
+> 3. **行政执行层面的微观规程同样具备政策可变性** [[What Works Clearinghouse|WWC]] 在推行初版 [[Study Design and Implementation Assessment Device|Study DIAD]] 规程后，吸纳了来自学界的 47 条公众评议，在正式修正案中承认量化非唯一科学、增设[[Regression Discontinuity Design|断点回归]]及 30 余项调节[[Variable|变量]]编码。（pp. 35–36）
 > 4. **共同体公共参与是维系探究多元的关键保障** 科学标准的界定绝非封闭定论，若学界因抵触而放弃参与，政治力量必将迅速收拢并垄断科研标准；持续且富有建设性的公共审议是守护学术多元的决定性纽带。（pp. 36–37）
 
 > [!stat-cards]- 核心数据

@@ -5,9 +5,9 @@ summary: "一种用于预测二分类因变量（如是否陪读、是否择校�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 24
-method_related_level: 3
-method_related_stars: "⭐⭐⭐"
+method_related_count: 21
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/quantitative
@@ -15,14 +15,12 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Peidu]]"
-  - "[[Attrition]]"
   - "[[Dependent Variable]]"
   - "[[Independent Variable]]"
   - "[[Unit of Analysis]]"
   - "[[Study Population and Sample]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
-  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Statistical Significance]]"
@@ -30,7 +28,6 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Mixed Methods Research]]"
   - "[[Questionnaire]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Confidence Interval]]"
   - "[[Longitudinal Study]]"
   - "[[Sample Size Determination]]"
@@ -46,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-12
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Binary Logistic Regression
@@ -56,7 +53,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 方法定义
-> 二元 Logistic 回归模型（Binary Logistic Regression Model）是一种专门用于因[[Variable\|变量]]为二分类变量（Binary/Dichotomous Variable，例如是否[[Peidu\|陪读]]、是否录取、是否[[Attrition\|流失]]）的广义线性回归分析方法。它通过 Logit 变换，将[[Dependent Variable\|因变量]]发生的概率与不发生概率之比的对数（即 Logit 变换值）表示为[[Independent Variable\|自变量]]的线性组合，并在不受自变量分布限制的情况下，估计各预测因子的优势比（Odds Ratio, OR）并检验其[[Statistical Significance\|统计显著性]]。
+> 二元 Logistic 回归模型（Binary Logistic Regression Model）是一种专门用于因[[Variable\|变量]]为二分类变量（Binary/Dichotomous Variable，例如是否[[Peidu\|陪读]]、是否录取、是否流失）的广义线性回归分析方法。它通过 Logit 变换，将[[Dependent Variable\|因变量]]发生的概率与不发生概率之比的对数（即 Logit 变换值）表示为[[Independent Variable\|自变量]]的线性组合，并在不受自变量分布限制的情况下，估计各预测因子的优势比（Odds Ratio, OR）并检验其[[Statistical Significance\|统计显著性]]。
 
 > [!method-scope] 方法范围
 > - **研究对象** 二分类分类变量与一组连续或分类自变量之间的统计预测关系。
@@ -70,7 +67,7 @@ updated: 2026-09-17
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 基于概率论和[[Positivism\|实证主义]]，认为社会选择行为在群体层面上遵循特定的概率分布规律，可以通过数学模型加以测度和预测。
-> - **研究者角色** 模型构建与参数解释者。研究者需基于理论[[Hypothesis\|假设]]选择自[[Variable\|变量]]与控制变量，指定参照组，并进行共线性诊断以避免过拟合。
+> - **研究者角色** 模型构建与参数解释者。研究者需基于理论假设选择自[[Variable\|变量]]与控制变量，指定参照组，并进行共线性诊断以避免过拟合。
 > - **有效性标准** 统计结论效度（显著性水平）、模型拟合优度（如 Nagelkerke $R^2$ 或 Hosmer-Lemeshow 检验的 p 值）、预测准确率以及共线性指标（VIF）。
 > - **不声称回答的问题** 该模型本身无法直接推导因果方向。若使用横截面数据，显著的回归系数仅代表预测因子与[[Dependent Variable\|因变量]]之间的关联，不能排除反向因果或遗漏变量偏误。
 
@@ -85,7 +82,7 @@ updated: 2026-09-17
 ## 研究程序
 
 > [!proc] 量化分析程序
-> 1. **明确因[[Variable\|变量]]和参考组** 将二分类[[Dependent Variable\|因变量]][[Coding in Qualitative Research\|编码]]为 0 和 1（1 代表目标事件发生，0 代表未发生），并为分类[[Independent Variable\|自变量]]指定合理的参照组。
+> 1. **明确因[[Variable\|变量]]和参考组** 将二分类[[Dependent Variable\|因变量]]编码为 0 和 1（1 代表目标事件发生，0 代表未发生），并为分类[[Independent Variable\|自变量]]指定合理的参照组。
 > 2. **筛选自变量与共线性诊断** 依据理论筛选自变量，并通过相关系数矩阵或方差膨胀因子（VIF）检验，确保预测变量间不存在严重的多重共线性。
 > 3. **模型估计与求解** 代入分析数据，采用最大似然估计法计算各变量的回归系数 $B$、[[Standard Error\|标准误]] $SE$ 及其指数化后的优势比 $Exp(B)$。
 > 4. **模型拟合与诊断** 通过似然比检验评估模型整体显著性，采用 Hosmer-Lemeshow 检验诊断拟合程度，并计算 Pseudo $R^2$ 评估解释力。
@@ -148,7 +145,7 @@ updated: 2026-09-17
 > >   由于无法计算传统线性回归的 $R^2$，Logistic 回归采用 Pseudo $R^2$（如 Nagelkerke $R^2$）来评估模型整体解释力。在社会学微观行为和决策研究中，**Pseudo $R^2$ 处于 0.2 到 0.4 之间即可视为极佳的拟合度**。人类行为极其复杂，包含大量不可控或未测量的随机/主观因素，能用几个核心结构性变量解释 20% 以上的决策变动就已是非常强有力的实证发现。
 >
 > > [!software-impl] 软件实现
-> - **数据处理** 对分类自变量进行虚拟变量（Dummy Variable）[[Coding in Qualitative Research\|编码]]并指定参照组，自变量标准化（若需比较不同量纲的系数）。
+> - **数据处理** 对分类自变量进行虚拟变量（Dummy Variable）编码并指定参照组，自变量标准化（若需比较不同量纲的系数）。
 > - **推荐软件** SPSS, R, Stata, Python。
 > - **核心包或命令** 
 >   - R: `glm(y ~ x1 + x2, family = binomial(link = "logit"), data)`

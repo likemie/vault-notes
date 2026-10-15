@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 21
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -31,8 +31,6 @@ related_concepts:
   - "[[Boarding Schools]]"
 related_persons:
   - "[[Louis Mountbatten]]"
-  - "[[Paul Pierson]]"
-  - "[[Peter A. Hall]]"
   - "[[Desmond Hoare]]"
 related_arguments:
   - "[[Argument_Peterson_1987_OpenCourt_Ch05]]"
@@ -77,7 +75,7 @@ updated: 2026-10-15
 > [!dev-timeline]- 从单校到多模型网络
 > - **1963–1968 年　第一轮扩展探索** 加拿大和德国计划因场地、资本、资格承认与政治记忆受阻，证明大西洋学院模式难以直接复制。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 99–104)]]
 > - **1968–1972 年　国际组织成形** [[Louis Mountbatten|路易斯·蒙巴顿]]建立国际理事会、公司、办公室与国家委员会网络，使扩展从志愿行动转向专门组织。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 104–107)]]
-> - **1975 年　两种成员模式同时获得确认** 莱斯特·B·[[Paul Pierson|皮尔逊]]书院以国家支持、寄宿和全奖目标代表经典强模式；东南亚书院则由全龄城市[[International Schools|国际学校]]转为正式成员。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 115–122)]]
+> - **1975 年　两种成员模式同时获得确认** 莱斯特·B·皮尔逊书院以国家支持、寄宿和全奖目标代表经典强模式；东南亚书院则由全龄城市[[International Schools|国际学校]]转为正式成员。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 115–122)]]
 > - **1977–1982 年　关联路径制度化** 1977年关联学校政策设置非正式联系期，沃特福德再经关联、课程转换和财政协议成为正式成员。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 123–126)]]
 > - **1978–1985 年　使命向农业发展与地方社会问题扩展** 迪奇利公园会议（Ditchley Park Indaba）要求从人民关系、毕业生终身行动和地方真正需要重新解释服务。[[Simon Bolivar United World Institute of Experimental Agriculture|西蒙·玻利瓦尔联合世界实验农业学院]]把国际理解与农业管理、粮食及营养问题结合，但截至 1985 年仍因跨部门许可未能开学。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 168–174)]]
 > - **1981–1982 年　美国西部书院快速成立** [[Armand Hammer United World College of the American West|阿曼德·哈默美国西部联合世界书院]]依靠单一资助者同时提供校址、赤字担保、未来捐赠和执行资源，在一年多内完成选址、治理和首届招生。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 175–178)]]
@@ -140,7 +138,7 @@ updated: 2026-10-15
 > - **择优录取** 学生按能力和品格选拔，不因家庭无法支付费用而被排除。
 > - **社会开放** 奖学金用于跨越阶级、收入、国籍、种族与宗教壁垒。
 > - **经常开支** 书院仍需由学生带来的学费或奖学金收入承担日常成本。
-> - **公共身份** [[Paul Pierson|皮尔逊]]书院和亚得里亚海书院的百分之百奖学金与政府支持，使 UWC 被表述为国际公共教育的一部分。
+> - **公共身份** 皮尔逊书院和亚得里亚海书院的百分之百奖学金与政府支持，使 UWC 被表述为国际公共教育的一部分。
 > - **概念边界** 全员获得奖学金不必然等于每份奖学金覆盖全部成本。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 102, 107–109, 121, 128)]]
 
 ### 奖学金资助可以多样化，择优选拔仍需独立于家庭财富
@@ -159,7 +157,7 @@ updated: 2026-10-15
 > 数据见 [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, p. 212)]]。不同国家委员会对择优因素的识别和权重仍有困难，但资助程序的差异不等于选拔放弃共同标准。
 
 > [!stat-cards] 全额承诺之前的资助构想
-> - **70%** 是[[Peter A. Hall|霍尔]]与蒙巴顿原先希望维持的奖学金学生比例。
+> - **70%** 是霍尔与蒙巴顿原先希望维持的奖学金学生比例。
 > - **30%** 是相应的缴费学生比例；即使这一混合模式，没有充分政府支持也很难长期维持。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, p. 210)]]
 
 > [!tension] 统一全额承诺与家庭经济能力审查

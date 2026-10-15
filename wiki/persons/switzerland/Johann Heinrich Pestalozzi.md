@@ -9,7 +9,7 @@ summary: "瑞士近代著名民主主义教育家与小学教学法之父，首�
 type: person
 nationality: switzerland
 person_region: "switzerland"
-person_related_count: 22
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -27,24 +27,22 @@ tags:
 related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Normal School]]"
-  - "[[Bildung]]"
   - "[[Faculty Psychology]]"
   - "[[Rote Learning]]"
   - "[[Paradigm]]"
   - "[[Establishing One's Will]]"
   - "[[Educational Meliorism]]"
-  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Questionnaire]]"
 related_instruments: []
 related_persons:
-  - "[[Marc-Antoine Jullien]]"
   - "[[Victor Cousin]]"
   - "[[Jean-Jacques Rousseau]]"
   - "[[Johann Wilhelm Süvern]]"
   - "[[Horace Mann]]"
   - "[[Calvin Stowe]]"
+  - "[[Marc-Antoine Jullien]]"
 related_facts:
   - "[[Common School Movement]]"
   - "[[Seventh Annual Report of the Massachusetts Board of Education]]"
@@ -56,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Johann Heinrich Pestalozzi
@@ -69,10 +67,10 @@ updated: 2026-09-22
 
 > [!person-profile] 人物档案
 > - **身份位置** 瑞士教育思想家、初等学校实验家、近代平民教育运动先驱；西方现代教育学由思辨与残酷[[Disciplina and Doctrina\|规训]]走向心理学化与人道主义的奠基者。
-> - **核心角色** 在 19 世纪欧美公共教育转型与比较借用网络中，裴斯泰洛齐是连接启蒙人性向善哲学与基层学校教学革新的核心枢纽；其首创的直观教学法不仅被普鲁士采纳为国家公学与[[Normal School\|师范学院]]的标准典范，更成为法美比较先驱（[[Marc-Antoine Jullien\|朱利安]]、[[Victor Cousin\|库森]]、曼、斯托）打破本土机械背诵与体罚传统的共同思想武器。
+> - **核心角色** 在 19 世纪欧美公共教育转型与比较借用网络中，裴斯泰洛齐是连接启蒙人性向善哲学与基层学校教学革新的核心枢纽；其首创的直观教学法不仅被普鲁士采纳为国家公学与[[Normal School\|师范学院]]的标准典范，更成为法美比较先驱（朱利安、[[Victor Cousin\|库森]]、曼、斯托）打破本土机械背诵与体罚传统的共同思想武器。
 > - **代表贡献**
 > 1. **教育心理学化原则** 首倡顺应儿童身心发展规律，创立以感官直观（*Anschauung*）为基础的实物教学与要素教学法（数、形、词）；
-> 2. **头、心、手和谐展开的全人[[Bildung\|教化]]论** 依据[[Faculty Psychology\|官能心理学]]，主张全面发展儿童智力、道德情感与劳动实践能力，彻底终结[[Rote Learning\|死记硬背]]（[[Rote Learning]]）与残酷体罚；
+> 2. **头、心、手和谐展开的全人教化论** 依据[[Faculty Psychology\|官能心理学]]，主张全面发展儿童智力、道德情感与劳动实践能力，彻底终结[[Rote Learning\|死记硬背]]（[[Rote Learning]]）与残酷体罚；
 > 3. **伊弗东（Yverdon）实验学院** 创办闻名全欧的师范实验机构，成为普鲁士公立师范学校（*Lehrerseminare*）的师资摇篮与 19 世纪大西洋跨国考察者的朝圣圣地。
 
 比较教育史学者在追溯学科思想源流时，将裴斯泰洛齐视为人道儿童中心[[Paradigm|范式]]的重要源泉：
@@ -107,7 +105,7 @@ updated: 2026-09-22
 >   - **关键概念／方法** 感性直观（*Anschauung*）、要素教学（数、形、词）、教育心理学化。
 > - **1805–1827 — 伊弗东全盛期与跨国人道教育辐射阶段** 建立全欧瞩目的师范实验中心，教学思想全面制度化与国际化。
 >   - **代表著作** 《天鹅之歌》（*Schwanengesang*, 1826）。
->   - **关键概念／方法** 全人和谐[[Bildung\|教化]]（头、心、手）、[[Normal School\|师范教育]]专业化、温和人道纪律。
+>   - **关键概念／方法** 全人和谐教化（头、心、手）、[[Normal School\|师范教育]]专业化、温和人道纪律。
 
 ---
 
@@ -124,7 +122,7 @@ updated: 2026-09-22
 
 > [!influence-path] 影响路径
 > - **普鲁士国家教育机器的师范化** 普鲁士改革精英（[[Johann Wilhelm Süvern\|聚芬]]、洪堡等）将裴斯泰洛齐直观教学法确立为全国[[Normal School\|师范学校]]（*Lehrerseminare*）的核心大纲，使普鲁士初等课堂呈现出欧洲最先进的温和启发与人道秩序。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 27–28]], 31）
-> - **[[Marc-Antoine Jullien\|朱利安]]实证[[Questionnaire\|问卷]]的教学法取向** 朱利安在 1817 年 《计划》 的标准化问卷中，将“学校是否采纳裴斯泰洛齐先生成功运用的初等算术方法”作为衡量欧洲各国教学法优劣的直接正向指标。（pp. 16–18）
+> - **朱利安实证[[Questionnaire\|问卷]]的教学法取向** 朱利安在 1817 年 《计划》 的标准化问卷中，将“学校是否采纳裴斯泰洛齐先生成功运用的初等算术方法”作为衡量欧洲各国教学法优劣的直接正向指标。（pp. 16–18）
 > - **美洲[[Common School Movement\|公学运动]]与波士顿大论战的理论武器** [[Horace Mann\|霍勒斯·曼]]在 1844 年 《[[Seventh Annual Report of the Massachusetts Board of Education\|第七次年度报告]]》 与随后的 [[Boston Schoolmasters Controversy\|波士顿文法学校校长大论战]] 中，将普鲁士采纳的裴斯泰洛齐教学法作为降维打击本土加尔文传统体罚与[[Rote Learning\|死记硬背]]的合法化武器；斯托在 1837 年 《[[Report on Elementary Public Instruction in Europe\|斯托报告]]》 中亦极力向全美各州推崇这一人道教学法。（pp. 31–32）
 
 ---
@@ -133,7 +131,7 @@ updated: 2026-09-22
 
 > [!person-network] 思想网络与学术关联
 > - **哲学思想渊源** [[Jean-Jacques Rousseau\|卢梭]] — 继承《爱弥儿》的自然主义与儿童中心思想，但克服了卢梭否定公共教育的偏颇，将其转化为可操作的学校实验。
-> - **跨国比较传播者** [[Marc-Antoine Jullien\|朱利安]] — 1810 年亲赴伊弗东考察，将裴斯泰洛齐教学法纳入跨国比较指标。
+> - **跨国比较传播者** 朱利安 — 1810 年亲赴伊弗东考察，将裴斯泰洛齐教学法纳入跨国比较指标。
 > - **跨国借用与政策转化者** [[Horace Mann\|霍勒斯·曼]]、[[Calvin Stowe\|卡尔文·斯托]]与[[Victor Cousin\|维克多·库森]] — 在普鲁士实地考察其推广成果并将其引入美法本土立法。
 > - **反向保守论敌** 波士顿 31 位[[Grammar School\|文法学校]]校长 — 在 波士顿大论战 中将裴斯泰洛齐人道管教斥为“软弱无能的危险空想”。
 
@@ -153,6 +151,6 @@ updated: 2026-09-22
 > | [[Marc-Antoine Jullien]] | 人物 | 早期实地考察伊弗东并将其方法吸纳为比较教育[[Questionnaire\|问卷]]核心指标的学者。 |
 > | [[Horace Mann]] | 人物 | 在第七次报告与波士顿大论战中极力捍卫并推广裴斯泰洛齐方法的美国公学领袖。 |
 > | [[Calvin Stowe]] | 人物 | 在 1837 年欧洲报告中向俄亥俄州与全美议会推崇其教学法的美国教育家。 |
-> | [[Seventh Annual Report of the Massachusetts Board of Education]] | 政策 | 详尽记录普鲁士推行裴斯泰洛齐人道教学法卓越实效的官方[[Document\|文献]]。 |
+> | [[Seventh Annual Report of the Massachusetts Board of Education]] | 政策 | 详尽记录普鲁士推行裴斯泰洛齐人道教学法卓越实效的官方文献。 |
 > | [[Boston Schoolmasters Controversy]] | 事件 | 因推行裴斯泰洛齐温和人道纪律与直观教学而引发的全美教育大论战。 |
 > | [[Report on Elementary Public Instruction in Europe]] | 政策 | 斯托向全美系统推荐普鲁士裴斯泰洛齐师范模式的政策报告。 |

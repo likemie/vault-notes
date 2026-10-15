@@ -10,7 +10,7 @@ title: "Argument_Jornitz_2022_Bildung_algorithmic"
 argument_key: "Argument_Jornitz_2022_Bildung_algorithmic"
 argument_display_title: "\"Bildung\" as a Forgotten Aspect of Algorithmic Technologies"
 argument_kind: "book"
-argument_related_count: 19
+argument_related_count: 16
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -29,7 +29,6 @@ tags:
   - level/k12
   - region/germany
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Global Education Industry]]"
   - "[[Bildung]]"
   - "[[Interaction Effect]]"
@@ -37,7 +36,6 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Gamification]]"
   - "[[Knowledge Production]]"
-  - "[[Teaching Assistant]]"
   - "[[Externalization]]"
   - "[[Reliability]]"
   - "[[Variable]]"
@@ -46,7 +44,6 @@ related_theories:
   - "[[Knowledge Building Theory]]"
   - "[[Self-Determination Theory]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Quantitative Research]]"
 related_persons: []
 related_facts:
@@ -70,7 +67,7 @@ citation_aliases:
 ## 研究问题
 
 > [!question]
-> 数字学习技术——学习软件、教育 App、学习平台——并不是教育学上中立的工具。它们的开发者、[[Coding in Qualitative Research\|编码]]者和设计者通过编程，将特定的学习主体[[Hypothesis\|假设]]和对"什么是学习"的理解写入产品之中。如果这些技术在 [[Global Education Industry\|全球教育产业]] 中大规模流通，它们不仅改变了教学的"效率"，更改变了教学**本身**——改变了教师与学生的关系、知识被呈现的方式、以及学习的终极目标。由此产生一个根本性的追问：算法技术是否以及如何系统性地排除了教育的核心目标——[[Bildung]]（人格陶成／教养）？
+> 数字学习技术——学习软件、教育 App、学习平台——并不是教育学上中立的工具。它们的开发者、编码者和设计者通过编程，将特定的学习主体假设和对"什么是学习"的理解写入产品之中。如果这些技术在 [[Global Education Industry\|全球教育产业]] 中大规模流通，它们不仅改变了教学的"效率"，更改变了教学**本身**——改变了教师与学生的关系、知识被呈现的方式、以及学习的终极目标。由此产生一个根本性的追问：算法技术是否以及如何系统性地排除了教育的核心目标——[[Bildung]]（人格陶成／教养）？
 
 ## 理论框架
 
@@ -94,11 +91,11 @@ citation_aliases:
 
 ### 第一步：观察——GEI 中的算法技术不是中立的工具
 
-[[Global Education Industry|全球教育产业]]（GEI）被描述为"教育从现代制度向晚期现代制度转型的核心"(Amos, 2019, p.226)。在这一转型中，软件开发者、[[Coding in Qualitative Research|编码]]者和设计者通过对硬件、软件和学习平台的编程，对"什么是教育、什么是学习"施加了显著影响(p.231)。
+[[Global Education Industry|全球教育产业]]（GEI）被描述为"教育从现代制度向晚期现代制度转型的核心"(Amos, 2019, p.226)。在这一转型中，软件开发者、编码者和设计者通过对硬件、软件和学习平台的编程，对"什么是教育、什么是学习"施加了显著影响(p.231)。
 
 关键在于：这些"专有"（proprietorial）数字技术将"[[Knowledge Production|知识生产]]的手段集中在自己的手中"(Williamson, 2017, p.118)。这不是一个中立的工具供给过程——Dieter et al.（2019, p.12）将特定企业的主导地位直接称为"硅谷帝国主义"（Silicon Valley imperialism）。当 Google Classroom 被免费提供给学校时，学校获得的不是"免费的工具"，而是一整套关于学习应该如何被组织、追踪和评估的预设(pp.231–232)。
 
-> 例：一位教师决定使用一款数学学习 App 来辅[[Teaching Assistant\|助教]]学。她可能认为这只是增加了一种"练习方式"——就像在纸质练习册之外多了一个选项。但实际上，这款 App 已经预设了：数学应该被拆成哪些知识点、每个知识点应该按什么顺序学习、什么算"掌握"（比如连续答对 5 题）、学生答错时应该给什么反馈（再试一次？看提示？跳转到更简单的题？）。教师在"使用工具"，但工具的逻辑已经在重塑教学。
+> 例：一位教师决定使用一款数学学习 App 来辅助教学。她可能认为这只是增加了一种"练习方式"——就像在纸质练习册之外多了一个选项。但实际上，这款 App 已经预设了：数学应该被拆成哪些知识点、每个知识点应该按什么顺序学习、什么算"掌握"（比如连续答对 5 题）、学生答错时应该给什么反馈（再试一次？看提示？跳转到更简单的题？）。教师在"使用工具"，但工具的逻辑已经在重塑教学。
 
 ### 第二步：算法如何建构"知识"——信息论与控制论的遗产
 

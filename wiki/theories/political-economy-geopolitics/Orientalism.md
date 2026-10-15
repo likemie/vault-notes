@@ -5,7 +5,7 @@ aliases:
 summary: "通过知识生产把东方建构为被观看、被解释和被支配对象的批判概念，用于揭示文化优越感和殖民想象的再生产"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 31
+theory_related_count: 30
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -23,7 +23,6 @@ tags:
 related_concepts:
   - "[[Knowledge Production]]"
   - "[[Discourse]]"
-  - "[[Bildung]]"
   - "[[Epistemology]]"
   - "[[Chinese Learner]]"
   - "[[Intercultural Education]]"
@@ -60,13 +59,13 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 ## 定义
 
 > [!info] 定义
-> 东方主义（Orientalism）指殖民者通过[[Knowledge Production|知识生产]]和[[Discourse|话语]]实践对被殖民者进行"东方化"想象建构的过程与机制。这一概念由 Edward Said (1983) 系统阐述，核心论点是：西方关于"东方"的知识不是对东方的客观描述，而是**服务于帝国权力的意识形态建构**——它将"东方"表征为异域的、落后的、需要被西方文明[[Bildung|教化]]的他者，从而为殖民统治提供了文化和[[Epistemology|认识论]]的合法性（[[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp. 91–92]]）。
+> 东方主义（Orientalism）指殖民者通过[[Knowledge Production|知识生产]]和[[Discourse|话语]]实践对被殖民者进行"东方化"想象建构的过程与机制。这一概念由 Edward Said (1983) 系统阐述，核心论点是：西方关于"东方"的知识不是对东方的客观描述，而是**服务于帝国权力的意识形态建构**——它将"东方"表征为异域的、落后的、需要被西方文明教化的他者，从而为殖民统治提供了文化和[[Epistemology|认识论]]的合法性（[[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp. 91–92]]）。
 >
 > > 在 [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] 的理论框架中，东方主义是[[Post-colonial Theory|后殖民理论]]的三大核心资源之一，与 Fanon (1967) 的去殖民化理论和 Escobar (1995) 的发展主义批判并列。三条路径共同揭示了一个核心洞察：**知识与权力之间存在内在的共构关系**——知识生产从来不是政治中立的，它始终嵌入在殖民、发展和全球化的权力结构之中。
 

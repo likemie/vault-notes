@@ -8,9 +8,9 @@ summary: "通过电话进行的数据收集方法，具有成本低、覆盖广�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 16
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 14
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -23,11 +23,9 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Reliability]]"
   - "[[Reflexivity]]"
-  - "[[Hypothesis]]"
 related_methods:
   - "[[Survey Research]]"
   - "[[Pilot Testing]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Content Analysis]]"
   - "[[Triangulation]]"
   - "[[Qualitative Interview]]"
@@ -38,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Telephone Interview
@@ -68,7 +66,7 @@ updated: 2026-09-17
 
 > [!method-stack] 方法层级
 > - **研究设计** [[Survey Research\|调查研究]]、简短结构化调查
-> - **数据收集** 电话通话、结构化提纲、预[[Coding in Qualitative Research\|编码]]回答类别
+> - **数据收集** 电话通话、结构化提纲、预编码回答类别
 > - **分析方法** 频数统计、交叉表分析、简单[[Content Analysis\|内容分析]]
 > - **辅助技术** 随机拨号、回拨系统、电话员培训、集中监控
 
@@ -99,7 +97,7 @@ updated: 2026-09-17
 > [!method-limits] 方法局限
 > - **偏误来源** 抽样偏态——并非所有人都有电话（往往是低收入家庭），多达 25% 号码未列入电话号码簿（Oppenheim, 1992, p. 97）；受访者可能轻易挂断；可能做出快照式判断而未充分反思；可能隐瞒信息或说谎且非语言行为不被见证。
 > - **适用边界** 标准化格式可能阻碍深思熟虑的回答；注意力持续时间更短；复杂性有限；回答类别须非常简单。
-> - **误用风险** [[Hypothesis\|假设]]电话访谈可完全替代面对面访谈获取同等深度数据；忽视抽样偏态导致的系统性排除。
+> - **误用风险** 假设电话访谈可完全替代面对面访谈获取同等深度数据；忽视抽样偏态导致的系统性排除。
 > - **补救方式** 通过频繁回拨增强[[Reliability\|信度]]；[[Pilot Testing\|预测试]]提纲；培训电话员；结合其他方法[[Triangulation\|三角互证]]。
 
 ---

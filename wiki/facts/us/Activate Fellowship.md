@@ -14,7 +14,7 @@ subtype: program
 region: "us"
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 26
+fact_related_count: 25
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -35,7 +35,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Big Science]]"
   - "[[Non-dilutive Funding]]"
-  - "[[Attrition]]"
   - "[[Competitiveness]]"
   - "[[Technology Readiness Level]]"
   - "[[Portable Fellowship]]"
@@ -64,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Activate Fellowship
@@ -144,7 +143,7 @@ updated: 2026-10-10
 > > [!axis] 国家公共设施商业用途与利益冲突治理
 > > 探讨利用纳税人全额资助的国家实验室公共设备为私人营利性初创企业赋能的合规边界与知识产权归属。
 > >
-> > - **合规与公地占用质疑（反方）** 批评者担忧公共高端科研仪器被少数特定私营公司过度占用，可能挤占基础科学探索资源，并引发潜在的公职利益冲突与国家知识产权[[Attrition|流失]]风险。
+> > - **合规与公地占用质疑（反方）** 批评者担忧公共高端科研仪器被少数特定私营公司过度占用，可能挤占基础科学探索资源，并引发潜在的公职利益冲突与国家知识产权流失风险。
 > > - **国家战略收益辩护（正方）** 政策制定者强调，在关键核心技术博弈背景下，若不向青年学者开放国家实验室基础设施，大量前沿专利将直接在象牙塔内沉没；通过严格的合规协议与准入审查，能够实现公共投入向产业[[Competitiveness|竞争力]]的高效转化。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 43)]]
 >
 > > [!axis] 实验室中试局限与后续大规模制造资金断层

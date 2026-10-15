@@ -10,9 +10,9 @@ title: "Argument_Yu_2024_CE"
 argument_key: "Argument_Yu_2024_CE"
 argument_display_title: "Confucianism in multicultural China: 'official knowledge' vs marginalised views"
 argument_kind: "journal-article"
-argument_related_count: 32
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 28
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: Comparative Education
 citation: "Yu, T. & Zhao, Z. (2024). Confucianism in multicultural China: 'official knowledge' vs marginalised views. Comparative Education, 60(1), 59-76."
@@ -28,7 +28,6 @@ tags:
   - paradigm/critical
 related_concepts:
   - "[[Official Knowledge]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Discourse]]"
   - "[[Cultural Hierarchy]]"
   - "[[Cultural Disembedding]]"
@@ -37,13 +36,11 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Dialogue in Education]]"
   - "[[Soft Power]]"
-  - "[[Bildung]]"
   - "[[Zhonghua Minzu]]"
   - "[[Confucian Heritage Cultures]]"
   - "[[Symbolic Boundary]]"
   - "[[Epistemology]]"
   - "[[Self-Cultivation]]"
-  - "[[Benevolence]]"
   - "[[Epistemic Resources]]"
   - "[[Academic Freedom]]"
   - "[[Paradigm]]"
@@ -53,7 +50,6 @@ related_theories:
   - "[[Hegemony]]"
 related_methods:
   - "[[In-depth Interview]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Discourse Analysis]]"
   - "[[Fieldwork]]"
@@ -85,7 +81,7 @@ citation_aliases:
 > [!question] 核心关切与经验谜题
 > 当代中国国家强制性学校课程中，复兴的儒家传统如何作为[[Official Knowledge\|官方知识]]被呈现与建构，以及处于文化边缘位置的非汉少数民族及宗教背景学生如何理解和评价这一传统 (pp. 59–60)。
 > 
-> 经验谜题在于：自1980年代末以来，儒家复兴与党国主导的“中华优秀传统文化”宣传已持续三十余年，中小学生在学校大量接受儒家内容教育。然而，那些文化与信仰身份游离于“汉儒圈”之外的边缘学生——例如在清真寺礼拜的回族与东乡族学生、在转经筒旁长大的藏族学生或西北地区的基督教学生——究竟如何接收、[[Transfer Translation Transformation\|转译]]乃至抵制这些被教科书塑造成“中华文化唯一核心”的内容？这一长期被主导[[Discourse|话语]]遮蔽的经验盲区，正是本研究追问的起点。
+> 经验谜题在于：自1980年代末以来，儒家复兴与党国主导的“中华优秀传统文化”宣传已持续三十余年，中小学生在学校大量接受儒家内容教育。然而，那些文化与信仰身份游离于“汉儒圈”之外的边缘学生——例如在清真寺礼拜的回族与东乡族学生、在转经筒旁长大的藏族学生或西北地区的基督教学生——究竟如何接收、转译乃至抵制这些被教科书塑造成“中华文化唯一核心”的内容？这一长期被主导[[Discourse|话语]]遮蔽的经验盲区，正是本研究追问的起点。
 
 > [!claim] 核心主张
 > 官方教科书将儒家传统塑造为“中华性”（Chinese-ness）的唯一缩影与文化等价物，并通过“非汉政权向汉儒学习”的文明化叙事强化了汉文化中心与少数民族边缘之间的[[Cultural Hierarchy\|文化等级]]；然而，处于边缘位置的学生并未单向内化该霸权话语，而是将其降格为中国多元文化与世界观中的一种，并从自身民族与灵性信仰出发对儒学的人类中心主义、男权等级性与终极关怀匮乏发起了跨文化反思。
@@ -119,7 +115,7 @@ citation_aliases:
 > |------|----------------|
 > | **教科书分析／批判话语分析**<br>Critical Discourse Analysis (CDA) | 涵盖语文、英语、政治、地理、历史、历史与社会六门中小学必修科目共217册教科书。以[[Confucius]]（孔子）、[[Mencius]]（孟子）、[[Zhu Xi]]（朱熹）及“儒家”为关键词定位文本，分析其修辞策略、话语等价化及象征边界构建 (pp. 64–65)。 |
 > | **深度访谈／最大变异抽样**<br>In-Depth Semi-Structured Interview | 2017年在西北与东南两所大学（西北集中度更高）面对面访谈37名非汉少数民族及宗教背景大学生。通过最大变异抽样 (Miles et al. 2014) 覆盖15个民族、多种宗教信仰及学科分布 (pp. 65–66)。 |
-> | **叙事分析／分类内容取向**<br>Categorical-Content Approach | 采用 Lieblich 等 (1998) 的分类内容法，提取学生关于儒学学习体验、道德/政治功能、灵性追求及跨文化对比的独立语段，归类[[Coding in Qualitative Research\|编码]]为核心维度 (p. 66)。 |
+> | **叙事分析／分类内容取向**<br>Categorical-Content Approach | 采用 Lieblich 等 (1998) 的分类内容法，提取学生关于儒学学习体验、道德/政治功能、灵性追求及跨文化对比的独立语段，归类编码为核心维度 (p. 66)。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -170,7 +166,7 @@ citation_aliases:
 >   儒家复兴始于1980年代末。1989年后针对共产主义吸引力下降与西方自由主义冲击，党国急需新的合法性资源。官方精心将儒家包装为“传统文化”与“道德伦理”，剥离其宗教属性，从而巧妙避开了与无神论官方意识形态的正面冲突。在习近平时代，儒家与国家主义深度绑定，对内充当统治合法性外衣，对外通过[[Confucius\|孔子]]学院作为[[Soft Power\|软实力]]出口 (p. 63)。
 >
 > - **切面三：儒家伦理对中心—边缘统治秩序的隐性支撑**
->   儒家伦理的核心在于基于家庭模式的威权等级（父子、君臣、夫妻），社会“和谐”建立在严格的服从之上而非平等民主。历史上汉族统治者将儒家“[[Bildung\|教化]]”包装为文明化使命；清朝满族统治者（如康熙、乾隆）亦通过尊孔祭孔与编纂《四库全书》换取统治合法性。在当代，这一逻辑在新疆“再教育营”中达到极致——扣押人员被强制背诵《三字经》并放弃信仰，儒家经典再次被直接用作国家同化工具 (p. 64; Finley 2019)。
+>   儒家伦理的核心在于基于家庭模式的威权等级（父子、君臣、夫妻），社会“和谐”建立在严格的服从之上而非平等民主。历史上汉族统治者将儒家“教化”包装为文明化使命；清朝满族统治者（如康熙、乾隆）亦通过尊孔祭孔与编纂《四库全书》换取统治合法性。在当代，这一逻辑在新疆“再教育营”中达到极致——扣押人员被强制背诵《三字经》并放弃信仰，儒家经典再次被直接用作国家同化工具 (p. 64; Finley 2019)。
 
 ---
 
@@ -222,7 +218,7 @@ citation_aliases:
 >
 > - **倡导多元文化兼容并蓄（西北回族穆斯林学生，电信专业）** 明确表达对道家自由哲学而非儒家的偏好，指出中国文化的魅力建立在容纳儒、道等相互冲突却同样丰富的多元思想之上，儒家无权垄断“中国性” (p. 68)。
 > - **解构男权与父权支配（土家族女性学生，政治学专业）** 直言不讳地指出：“儒家文化是男性主导的，强调[[Self-Cultivation\|修身]]、齐家、治国、平天下，极少重视女性的角色和价值。我不认为那是对的。” (p. 69)。
-> - **揭示阶级控制与不平等的本质（汉族佛教徒学生，社会科学专业）** 指出儒学本质上是封建统治精英的控制工具：“孔子的‘[[Benevolence\|仁]]’不是包容性的，而是等级性的。儒家最初的设计目的，就是为了说服底层大众顺从于统治阶级。”
+> - **揭示阶级控制与不平等的本质（汉族佛教徒学生，社会科学专业）** 指出儒学本质上是封建统治精英的控制工具：“孔子的‘仁’不是包容性的，而是等级性的。儒家最初的设计目的，就是为了说服底层大众顺从于统治阶级。”
 > - **质疑当代的现实相关性（33%的信教学生）** 一整批西北少数民族学生指出，在充满了清真寺、转经筒与多元民俗的现实生活中，教科书里“儒家是中华文化核心”的说法完全是脱离实际的官方幻觉。
 
 > [!evidence-grid-b] 主题B：灵性、生态与终极关怀的跨文化反思
@@ -260,7 +256,7 @@ citation_aliases:
 
 > [!finding-cards] 核心发现
 > 1. **[[Discourse|话语]]垄断与符号等价化** 教科书将儒家传统塑造为“中华性”的唯一代名词，通过跨学科符号堆叠完成了“中华文化 = 儒家文化”的排他性[[Official Knowledge\|官方知识]]建构 (p. 67)。
-> 2. **隐秘等级与文明化[[Bildung\|教化]]** 教科书表面承认多民族存在，实则通过“非汉政权学习汉儒”的统一模板，将汉族置于“文明施教者”的高位，建构了中心—边缘的[[Cultural Hierarchy\|文化等级]]。
+> 2. **隐秘等级与文明化教化** 教科书表面承认多民族存在，实则通过“非汉政权学习汉儒”的统一模板，将汉族置于“文明施教者”的高位，建构了中心—边缘的[[Cultural Hierarchy\|文化等级]]。
 > 3. **边缘抵制与主体性再定位** 边缘学生并未盲从官方叙事，86%的学生将其降格为多元文化之一，并立足于自身信仰批判了儒学的男权性、人类中心主义及灵性匮乏 (pp. 68–70)。
 > 4. **单向同化的反讽后果** 强行推广汉儒正统抹平差异的政策，导致边缘族群产生严重的[[Cultural Disembedding\|文化脱嵌]]与异化感，加剧了民族与文化分裂 (p. 71)。
 

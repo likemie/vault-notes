@@ -13,7 +13,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 25
+fact_related_count: 24
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#fef3c7"
@@ -37,7 +37,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Content Analysis]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Ethnography]]"
   - "[[Questionnaire]]"
   - "[[Descriptive Analysis]]"
@@ -57,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Research Strategies in Comparative Education
@@ -81,7 +80,7 @@ updated: 2026-10-07
 
 > [!dev-timeline] 调查推进历程
 > - **1990年代中 — 研究设计与期刊全样本抽取** 确定以英美主流比较教育三大旗舰刊物——《比较教育评论》（*Comparative Education Review*, CER）、《比较教育》（*Comparative Education*, CE）以及《[[International Education|国际教育]]发展杂志》（*International Journal of Educational Development*, IJED）为分析对象，建立跨越三十余年的论文全息数据库。
-> - **1996–1998 — [[Coding in Qualitative Research|编码]]开发与实证[[Content Analysis|内容分析]]** 制定涵盖研究设计类型、数据搜集手段（一手访谈、[[Ethnography|民族志]]、观察、[[Questionnaire|问卷]]、[[Primary and Secondary Documents|二手文献]]）、数据分析策略（定性解释、[[Descriptive Analysis|描述统计]]、高级推断统计）及母学科认同的严密类目体系，实施多轮双盲编码与评分者一致性校准。
+> - **1996–1998 — 编码开发与实证[[Content Analysis|内容分析]]** 制定涵盖研究设计类型、数据搜集手段（一手访谈、[[Ethnography|民族志]]、观察、[[Questionnaire|问卷]]、[[Primary and Secondary Documents|二手文献]]）、数据分析策略（定性解释、[[Descriptive Analysis|描述统计]]、高级推断统计）及母学科认同的严密类目体系，实施多轮双盲编码与评分者一致性校准。
 > - **1999 — 调查报告发表与国际反响** 成果以《比较教育中的研究策略》（*Research Strategies in Comparative Education*）为题在 CER 刊发，引发全球比较教育学界关于学科方法论转型的热烈讨论。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 136 注 6)]]
 > - **2000年代至今 — 学科史引据标准** 该调查数据成为此后二十余年间各类比较教育教科书、学术手册及总统演说中评述战后学科演变不可绕过的权威量化基准。
 

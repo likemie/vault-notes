@@ -7,7 +7,7 @@ aliases:
 summary: "学习或态度干预结束后，认知增益或说服效果不仅未随时间消退，反而随时间推移显著放大或充分显现的心理学现象；在认识论认知干预中，深层评价标准的内化沉淀使延时后测效应量达即时后测的两倍以上。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 31
+related_count: 30
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -18,7 +18,6 @@ tags:
 related_concepts:
   - "[[Epistemic Ideals]]"
   - "[[Higher-Order Thinking Skills]]"
-  - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Academic Achievement]]"
   - "[[Problem Solving]]"
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-03
+updated: 2026-10-15
 ---
 
 # Sleeper Effect
@@ -66,7 +65,7 @@ updated: 2026-10-03
 > 沉睡者效应（Sleeper Effect，亦称延时发酵效应）是指在干预处理结束一段时间后，个体的认知增益、态度转变或行为改进不仅没有随时间衰减，反而随着心理结构的沉淀、内化与自主整合，在延时追踪测评中展现出比即时[[Pre-test and Post-test\|后测]]更为显著或翻倍放大的反直觉心理学现象。在教育心理学领域，深层[[Epistemic Ideals\|认识论标准]]的学习往往需要经历认知重构的“潜伏酝酿期”，使得延时后测成为捕捉深层概念转变与[[Higher-Order Thinking Skills\|高阶思维]]质变的关键窗口。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 490–493)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 揭示人类高阶认知改变具有非线性的“延迟显效”特征，挑战了传统心理学关于记忆与技能干预收益必然随时间指数衰减的单调[[Hypothesis\|假设]]。
+> - **含义** 揭示人类高阶认知改变具有非线性的“延迟显效”特征，挑战了传统心理学关于记忆与技能干预收益必然随时间指数衰减的单调假设。
 > - **用途** 解释为何部分深层教学改革（如探究性教学、[[Epistemology\|认识论]]干预）在课程结束时的即时测验中表现平平，却在后续长期[[Academic Achievement\|学业表现]]和[[Problem Solving\|复杂问题解决]]中展现出巨大的后劲。
 > - **边界** 适用于触及个体[[Metacognition\|元认知]]信念、解释框架和价值评价尺度的深层[[Construct\|构念]]转变；不适用于依赖快速提取的机械事实记忆或特定计算套路的程序性训练。
 

@@ -11,7 +11,7 @@ summary: "伞状综述与二阶元分析中用于量化系统评价间初级研�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 12
+method_related_count: 11
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -21,7 +21,6 @@ tags:
   - method/meta-meta-analysis
 related_concepts:
   - "[[Primary and Secondary Documents]]"
-  - "[[Document]]"
   - "[[Variable]]"
   - "[[Study Population and Sample]]"
 related_theories: []
@@ -41,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-09-11
+updated: 2026-10-15
 ---
 
 # Corrected Covered Area
@@ -55,7 +54,7 @@ updated: 2026-09-11
 
 > [!concept-lens] 概念透镜
 > - **测量对象** 跨多个一阶[[Meta-analysis\|元分析]]或系统评价的初级研究引用矩阵（Citation Matrix）。
-> - **核心功能** 揭示二阶证据库中的[[Document\|文献]]重复包含程度，量化因重复计算同一批受试者样本而导致的[[Standard Error\|标准误]]虚假收缩与假阳性检验膨胀风险。
+> - **核心功能** 揭示二阶证据库中的文献重复包含程度，量化因重复计算同一批受试者样本而导致的[[Standard Error\|标准误]]虚假收缩与假阳性检验膨胀风险。
 > - **应用决策** 为研究者筛选、合并或剔除高重叠一阶元分析提供客观的数学门槛（通常以 $CCA > 10\%$ 作为不可接受的高重叠排除界限）。
 
 ---
@@ -63,7 +62,7 @@ updated: 2026-09-11
 ## 数学原理与计算公式
 
 > [!formula-step] 公式推导与[[Variable\|变量]]界定
-> 在包含 $c$ 项系统评价/[[Meta-analysis\|元分析]]、共涉及 $r$ 篇不重复初级研究的伞状[[Document\|文献]]集中：
+> 在包含 $c$ 项系统评价/[[Meta-analysis\|元分析]]、共涉及 $r$ 篇不重复初级研究的伞状文献集中：
 >
 > 1. **未校正覆盖面积（Covered Area, CA）**
 >    $$CA = \frac{N}{r \cdot c}$$
@@ -98,4 +97,4 @@ updated: 2026-09-11
 > [!warrant]- 为什么[[Meta-meta-analysis\|二阶元分析]]必须报告并控制 CCA
 > 1. **破除抽样独立性假定破产危机** 经典二阶固定/随机效应合并模型的数学充要条件是各一阶单元在初级样本上互不重叠（[[Argument_Wecker_2016_ZfE\|Wecker et al., 2016]]）。无视重叠会导致相同的经典[[Study Population and Sample\|研究样本]]被赋予不成比例的双重甚至三重方差权重。
 > 2. **克服主观选择偏差** 过去[[Umbrella Review\|伞状综述]]常依赖研究者主观经验判断综述是否相似；CCA 提供了标准化、可复现的数学标尺。
-> 3. **与可视化工具协同集成** 配合基于 Excel 与 R 语言的 [[GROOVE]]（Graphical Representation of Overlap for OVErviews）工具，CCA 不仅能计算全数据集的总体覆盖度，更能生成两两配对的 CCA 交叉热力图，精准定位重叠发生的[[Document\|文献]]节点（Bracchiglione et al., 2022; [[Argument_Unal_2026_JECR\|Ünal et al., 2026]]）。
+> 3. **与可视化工具协同集成** 配合基于 Excel 与 R 语言的 [[GROOVE]]（Graphical Representation of Overlap for OVErviews）工具，CCA 不仅能计算全数据集的总体覆盖度，更能生成两两配对的 CCA 交叉热力图，精准定位重叠发生的文献节点（Bracchiglione et al., 2022; [[Argument_Unal_2026_JECR\|Ünal et al., 2026]]）。

@@ -36,8 +36,8 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Positivism]]"
   - "[[Causality]]"
+  - "[[School Autonomy]]"
   - "[[School Choice]]"
-  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Cluster Randomized Trials]]"
@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Teensleep
@@ -147,7 +147,7 @@ updated: 2026-09-22
 
 > [!lessons] 经验教训与启示
 > - **界定因果推断方法的适用边界** 宏观组织变革（如作息重构、能力编班）涉及复杂的组织契约与公共协调，不适宜采取强行[[Random Assignment\|随机化]]指令；而教室内教学微习惯与手册化课程包则更适合开展 RCT。
-> - **依托国家级行政数据库转向[[Quasi-Experimental Designs\|准实验设计]]** 对于学校组织体制变革，应当利用政策自然演变与学校自主决策形成的天然方差，借助[[Difference-in-Differences\|双重差分法]]（DID）或回归断点设计（[[Regression Discontinuity Design\|RDD]]）等严谨准实验工具挖掘纵向普查数据，实现因果推断效度与实践可行性的双赢。
+> - **依托国家级行政数据库转向[[Quasi-Experimental Designs\|准实验设计]]** 对于学校组织体制变革，应当利用政策自然演变与[[School Autonomy|学校自主]]决策形成的天然方差，借助[[Difference-in-Differences\|双重差分法]]（DID）或回归断点设计（[[Regression Discontinuity Design\|RDD]]）等严谨准实验工具挖掘纵向普查数据，实现因果推断效度与实践可行性的双赢。
 
 ---
 
@@ -163,4 +163,4 @@ updated: 2026-09-22
 > | [[School Choice]] | 概念 | 实践领域；涉及作息与编班等学校层面的宏观组织与体制决策。 |
 > | [[Randomised Controlled Trials]] | 方法 | 试验方法；该项目展示了[[Cluster Randomized Trials\|集群随机对照试验]]在面临复杂社会互嵌时的实施瓶颈。 |
 > | [[National Pupil Database]] | 事实 | 数据基础；准实验替代方案赖以追踪学业长效收益的国家行政数据库。 |
-> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]] | 论证 | 来源[[Document\|文献]]；将 Teensleep 确立为反思干预方案可接受度、招募可行性审查与早期试点必要性的核心案例。 |
+> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]] | 论证 | 来源文献；将 Teensleep 确立为反思干预方案可接受度、招募可行性审查与早期试点必要性的核心案例。 |

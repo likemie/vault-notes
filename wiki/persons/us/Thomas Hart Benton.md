@@ -8,7 +8,7 @@ summary: "美国20世纪著名壁画家与地方主义（Regionalism）绘画运
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 12
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -34,7 +34,6 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Jackson Pollock]]"
-  - "[[Marc-Antoine Jullien]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
 related_facts: []
@@ -43,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Thomas Hart Benton
@@ -68,7 +67,7 @@ updated: 2026-10-08
 
 > [!timeline] 生平与职涯
 > - **1889** 出生于美国密苏里州尼欧肖的一个显赫政治世家（其父为美国国会议员，其叔曾祖父为著名参议员）。
-> - **1908–1911** 先后就读于芝加哥艺术学院并赴法国巴黎[[Marc-Antoine Jullien|朱利安]]学院深造，广泛研习欧洲古典构图与现代主义流派。
+> - **1908–1911** 先后就读于芝加哥艺术学院并赴法国巴黎朱利安学院深造，广泛研习欧洲古典构图与现代主义流派。
 > - **1920年代–1930年代** 回归美国本土现实，开创展现中西部与南部工农劳动生活的地方主义具象壁画流派；在纽约艺术学生联盟长期执教。
 > - **1930年代** 指导[[Jackson Pollock|杰克逊·波洛克]]，二人建立起一段充满激烈艺术争论却历久弥坚的深厚交情。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, p. 156)]]
 > - **1940年代–1970年代** 持续在堪萨斯城艺术学院任教，在抽象表现主义横扫欧美艺术界的潮流中坚持具象历史叙事壁画创作。

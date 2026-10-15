@@ -27,9 +27,7 @@ related_concepts:
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Heterogeneity]]"
   - "[[Allgemeine Pädagogik]]"
-  - "[[Bildung]]"
   - "[[Knowledge Production]]"
-  - "[[Document]]"
   - "[[Unit of Analysis]]"
   - "[[Enlightenment]]"
   - "[[Geisteswissenschaften]]"
@@ -44,7 +42,6 @@ related_concepts:
   - "[[Primary and Secondary Documents]]"
   - "[[Competitiveness]]"
   - "[[Insider-Outsider Perspective in Comparative Education]]"
-  - "[[Attrition]]"
   - "[[Educational Meliorism]]"
   - "[[Disciplinary Institutionalization]]"
   - "[[Policy Borrowing]]"
@@ -87,7 +84,6 @@ related_persons:
   - "[[Friedrich Schneider]]"
   - "[[Oskar Anweiler]]"
   - "[[Wolfgang Mitter]]"
-  - "[[Isaiah Berlin]]"
   - "[[Jurgen Schriewer]]"
   - "[[Le Thanh Khoi]]"
   - "[[Torsten Husén]]"
@@ -133,7 +129,7 @@ title: "Argument_Mitter_2009_Europe"
 argument_key: "Argument_Mitter_2009_Europe"
 argument_display_title: "Comparative Education in Europe"
 argument_kind: "book-chapter"
-argument_related_count: 98
+argument_related_count: 94
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -166,7 +162,7 @@ publisher: "Springer"
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **统一性与多样性的二分法**<br>Dichotomy between Diversity and Unity | 解释欧洲文明与教育体系的核心结构性原则。多样性体现为民族国家学制的独特性、制度[[Heterogeneity\|异质性]]与国别边界分割；统一性体现为共享的哲学、科学、艺术精神传统与趋同驱动力，二者构成了现代普遍主义与文化[[Pluralism\|多元主义]]张力的历史原型。（pp.87–88） |
-> | **比较教育作为交叉领域**<br>[[Comparative Education as a Cross-Sectional Area]] | 阐明欧陆（特别是德国）教育科学体系中比较教育的建制形态：在学科母体上深度依托[[Allgemeine Pädagogik\|普通教育学]]（Allgemeine Pädagogik）与[[Bildung\|教化]]哲学，在问题意识与研究工具上面向历史学、政治学与社会学纵深切入，实现规范反思与经验解释的统一。（pp.97–98） |
+> | **比较教育作为交叉领域**<br>[[Comparative Education as a Cross-Sectional Area]] | 阐明欧陆（特别是德国）教育科学体系中比较教育的建制形态：在学科母体上深度依托[[Allgemeine Pädagogik\|普通教育学]]（Allgemeine Pädagogik）与教化哲学，在问题意识与研究工具上面向历史学、政治学与社会学纵深切入，实现规范反思与经验解释的统一。（pp.97–98） |
 > | **比较教育的航海隐喻**<br>[[Navigation Metaphor in Comparative Education]] | 厘定比较教育研究在政策咨询中的职业伦理边界，将研究者定位为提供多重航线备选方案与潜在暗礁风险预测的罗盘与地图供给者，学者恪守学术中立，绝不代替决策者掌舵操盘。（pp.95–96） |
 
 > [!warrant]- 理论如何支撑论证
@@ -187,7 +183,7 @@ publisher: "Springer"
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **[[Document\|文献]]与文本样本** | 涵盖 19 世纪经典著作（Jullien, Dilthey）、20 世纪学科奠基专著（Sadler, Hans, Schneider, [[Franz Hilker\|Hilker]], Lauwerys, Holmes, Robinsohn, King, Anweiler, Schriewer）以及当代前沿文献与学会论文集（1994 哥本哈根、2006 格拉纳达）。（pp.98–99） |
+> | **文献与文本样本** | 涵盖 19 世纪经典著作（Jullien, Dilthey）、20 世纪学科奠基专著（Sadler, Hans, Schneider, [[Franz Hilker\|Hilker]], Lauwerys, Holmes, Robinsohn, King, Anweiler, Schriewer）以及当代前沿文献与学会论文集（1994 哥本哈根、2006 格拉纳达）。（pp.98–99） |
 > | **机构与组织样本** | 英国伦敦大学教育研究院（Institute of Education, IOE）、国王学院、牛津大学、剑桥大学；德国汉堡大学、波鸿大学、海德堡大学、[[Leibniz Institute for Educational Research and Educational Information\|德国国际教育研究所]]（Deutsches Institut für Internationale Pädagogische Forschung, DIPF）、[[Max Planck Institute for Human Development\|柏林马克斯·普朗克教育研究所]]、柏林洪堡大学；法国国际教学研究中心（Centre international d'études pédagogiques, CIEP）；[[Comparative Education Society in Europe\|欧洲比较教育学会]]（CESE）及各国国家、区域和语言学会；国际组织：[[UNESCO\|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization, UNESCO）、[[OECD\|经济合作与发展组织]]（OECD）、国际教育成就评价协会（IEA）、[[World Bank\|世界银行]]（World Bank）。（pp.89–92） |
 > | **历史时空覆盖** | 覆盖 19 世纪拿破仑战争后、一战后、二战后冷战时期、两德统一与东欧剧变、世纪之交欧洲一体化深入推进全周期。（pp.87–98） |
 
@@ -255,7 +251,7 @@ publisher: "Springer"
 > 现代大学比较教育首先在英国生根。[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler）推动英国政府创设[[Office of Special Inquiries and Reports|特别查询与报告办公室]]（[[Office of Special Inquiries and Reports]]），以德国为核心参照系开创了系统的比较研究；此后，伦敦大学教育研究院（IOE）全面发扬萨德勒的学术遗产，先后汇聚了约瑟夫·劳威斯（[[Joseph Lauwerys]]）、[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）、[[Brian Holmes|布莱恩·霍姆斯]]（Brian Holmes）、[[Janusz Tomiak|雅努什·托米亚克]]（Janusz Tomiak）、[[Robert Cowen|罗伯特·考恩]]（Robert Cowen）与马丁·麦克莱恩（Martin McLean）等代表性学者。与此同时，伦敦国王学院（[[Edmund King|埃德蒙·金]]）、牛津大学（哈尔斯、菲利普斯）与剑桥大学（图拉谢维奇）等名校相继跟进，形成了紧密的学科网络。（pp.88, 89–90）
 
 > [!line-b] 德国学术脉络：从天主教人文全景到冷战阵营研究与两德融合
-> 德国比较教育早期主要依靠[[Friedrich Schneider|弗里德里希·施奈德]]（Friedrich Schneider）与[[Franz Hilker|弗朗茨·希尔克]]（Franz Hilker）的个人专著奠基。战后，汉堡大学、马堡大学、海德堡大学、波鸿鲁尔大学（[[Oskar Anweiler|奥斯卡·安维勒]]、阿迪克）、明斯特大学，以及[[Leibniz Institute for Educational Research and Educational Information|德国国际教育研究所]]（DIPF，舒尔策、[[Wolfgang Mitter|沃尔夫冈·米特]]）和[[Max Planck Institute for Human Development|柏林马克斯·普朗克教育研究所]]（罗宾逊、戈尔德施密特）先后设立教席与研究实体。两德统一后，西德部分大学虽因财政紧缩出现教席收缩，但学科重心向东部转移，[[Isaiah Berlin|柏林]]洪堡大学（[[Jurgen Schriewer|于尔根·施里韦尔]]主持）、莱比锡大学（赫尔纳）与德累斯顿工业大学（瓦特坎普）成为新的学术重镇。（pp.89–90）
+> 德国比较教育早期主要依靠[[Friedrich Schneider|弗里德里希·施奈德]]（Friedrich Schneider）与[[Franz Hilker|弗朗茨·希尔克]]（Franz Hilker）的个人专著奠基。战后，汉堡大学、马堡大学、海德堡大学、波鸿鲁尔大学（[[Oskar Anweiler|奥斯卡·安维勒]]、阿迪克）、明斯特大学，以及[[Leibniz Institute for Educational Research and Educational Information|德国国际教育研究所]]（DIPF，舒尔策、[[Wolfgang Mitter|沃尔夫冈·米特]]）和[[Max Planck Institute for Human Development|柏林马克斯·普朗克教育研究所]]（罗宾逊、戈尔德施密特）先后设立教席与研究实体。两德统一后，西德部分大学虽因财政紧缩出现教席收缩，但学科重心向东部转移，柏林洪堡大学（[[Jurgen Schriewer|于尔根·施里韦尔]]主持）、莱比锡大学（赫尔纳）与德累斯顿工业大学（瓦特坎普）成为新的学术重镇。（pp.89–90）
 
 除了英德双核，全欧范围内的学术机构呈现出多元繁荣格局：（pp.90–91）
 
@@ -348,7 +344,7 @@ publisher: "Springer"
 
 > [!challenges] 跨洲比较视界扩张与学术语言张力
 > - **[[Insider-Outsider Perspective in Comparative Education|内外视角]]的辩证平衡** 全球化要求展开跨大洲横向比较，研究者必须将本土专家的深度内部洞察与外来学者的审慎疏离视界（Verfremdung）辩证结合，确立[[Insider-Outsider Perspective in Comparative Education|比较教育中的内外视角]]，克服各自的认知盲区。（pp.96–97）
-> - **通用语支配与本土学术传统的[[Attrition|流失]]** 英语作为全球学术通用语加速了研究成果的流通，但也带来了学术训练同质化以及本土特有学术概念与语言表达流失的长期隐忧。（p.97）
+> - **通用语支配与本土学术传统的流失** 英语作为全球学术通用语加速了研究成果的流通，但也带来了学术训练同质化以及本土特有学术概念与语言表达流失的长期隐忧。（p.97）
 
 在研究对象上，传统的单一民族国家制度比较正受到移民潮与多民族社会现实的深刻冲击，促成了与跨文化教育的范式合流：（pp.97–98）
 
@@ -363,7 +359,7 @@ publisher: "Springer"
 > [!contrast-table] 德英比较教育学科建制双轨模式对比（pp.89, 97–98）
 > | 维度 | 德国交叉领域模式 | 英国独立分支模式 |
 > |---|---|---|
-> | 学科母体依托 | 牢固依附[[Allgemeine Pädagogik\|普通教育学]]母体与[[Bildung\|教化]]哲学 | 不设抽象的普通教育学，与各分支平行并列 |
+> | 学科母体依托 | 牢固依附[[Allgemeine Pädagogik\|普通教育学]]母体与教化哲学 | 不设抽象的普通教育学，与各分支平行并列 |
 > | [[Knowledge Production\|知识生产]]目标 | 兼顾形而上学价值反思与历史社会学经验解释 | 面向专业实践、[[Policy Borrowing\|政策借用]]与国别实务对比 |
 > | 组织建制形态 | 依托教育学系二级建制，横切邻近学科 | 设立独立的大学系所与专门研究中心 |
 > | 当代演变归宿 | 走向全球跨学科合作，传统二元界线逐步消解 | 融入超学科网络，强化多学科联合攻关 |

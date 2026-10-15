@@ -6,10 +6,10 @@ aliases:
 summary: "跨越单一国家教育体系、服务跨国流动家庭或本地国际课程需求的学校类型，其历史从侨民国家通道逐步发展出共同课程、跨国资格协调与市场化运营。"
 type: concept
 domain: "comparative-education"
-related_count: 30
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 27
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
 - region/global
 - level/k12
@@ -20,11 +20,8 @@ related_concepts:
   - "[[Policy Brokerage]]"
   - "[[State Educational Sovereignty]]"
   - "[[Policy Borrowing]]"
-  - "[[Document]]"
   - "[[Advanced Placement Program]]"
   - "[[Fourth Culture]]"
-  - "[[Hypothesis]]"
-  - "[[Attrition]]"
   - "[[Policy Mobility]]"
   - "[[Avatar]]"
 related_theories: []
@@ -165,7 +162,7 @@ updated: 2026-10-15
 ### 命题总览
 
 > [!row-contrast] 国际学校的五类制度判断
-> | 命题 | 核心关系 | 解释边界 | 代表[[Document\|文献]] |
+> | 命题 | 核心关系 | 解释边界 | 代表文献 |
 > |---|---|---|---|
 > | **共同资格回应跨国升学** | 国家考试重复配置与学校共同体目标 | 共同课程仍需跨国承认及组织能力 | [[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, pp. 15–22)]] |
 > | **国际性需要地方社会联系** | 学术课程、服务与周围社会 | 护照多样和国际课程不能替代实际接触 | [[Argument_Peterson_1987_OpenCourt_Ch08\|Peterson (1987, pp. 204–207)]] |
@@ -192,7 +189,7 @@ updated: 2026-10-15
 > [!ref-table]- 学校规模、生源与运营条件
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究 | 时期与情境 | 指标 | [[Document\|文献]]记录的数据 | 解释边界 |
+> | 研究 | 时期与情境 | 指标 | 文献记录的数据 | 解释边界 |
 > |---|---|---|---|---|
 > | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, pp. 22–23)]] | 1964、1994、2005 年全球规模 | 学校、教师、学生 | 1964 年约 50 所学校；1994 年约 1,000 所、5 万名教师、50 万名学生；2005 年约 3,000 所、200 万名学生 | 历史规模描述，不是本次更新的现况 |
 > | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010, p. 23)]] | 2008 年地区规模 | 学校数量 | 香港 58 所、中国大陆 64 所、印度 76 所 | 地区计数不代表各校教学模式相同 |
@@ -219,10 +216,10 @@ updated: 2026-10-15
 > <!-- 原条目将牛津布鲁克斯机构记为 OICEM；本次未取得原始章节，英文全称未核验。 -->
 > - **美国** 密歇根州立大学（海外教育研究）、恩迪科特学院（国际教育硕士）、乔治梅森大学（国际教育中心）、佛蒙特国际培训学校
 >
-> 对于一个服务 200 多万名学生、3,000 多所学校的教育领域，这一师资培养体系规模很小。许多教师未经国际教育专门训练，容易把本国形成的教学[[Hypothesis|假设]]直接带入多元文化课堂，使刻板印象和智识殖民主义持续存在。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, p. 33)]]
+> 对于一个服务 200 多万名学生、3,000 多所学校的教育领域，这一师资培养体系规模很小。许多教师未经国际教育专门训练，容易把本国形成的教学假设直接带入多元文化课堂，使刻板印象和智识殖民主义持续存在。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, p. 33)]]
 
 > [!critique] 对公立系统的冲击
-> 香港英基学校协会（English Schools Foundation，[[English Schools Foundation Hong Kong|ESF]]）等国际学校扩张并吸纳本地优秀学生，使本地英文中学和中文中学在出生率下降之外进一步[[Attrition|流失]]生源。这会削弱公立学校，并可能引发对国际教育部门的不满。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, p. 5)]]
+> 香港英基学校协会（English Schools Foundation，[[English Schools Foundation Hong Kong|ESF]]）等国际学校扩张并吸纳本地优秀学生，使本地英文中学和中文中学在出生率下降之外进一步流失生源。这会削弱公立学校，并可能引发对国际教育部门的不满。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, p. 5)]]
 
 > [!critique] 全球精英再生产与社会阶层极化
 > 休·劳德（Lauder, 2007）与杰森·比奇（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, p. 344]]）指出，跨国商业资本运营的国际学校网络收取高昂学费，将优质教育资源定向供给跨国精英与本土新富阶层，加剧了全球范围内的社会分层；这些跨国教育公司同时充当政府政策智囊，将私立市场的治理逻辑反向输入国家公共教育决策，进一步挤压了公共教育的公平空间。
@@ -262,7 +259,7 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid] [[Document|文献]]与论证索引
+> [!evidence-grid] 文献与论证索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch02|Peterson (1987, pp. 15–22, 27–31)]] — 国际学校的国家课程并行、教师协作与共同资格创制。
 > - [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 20–33)]] — 市场化、生源变化、文[[Avatar|化身]]份及师资培养条件。
 > - [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–216)]] — 地方社会联系、创新课程实施、[[United World Colleges|UWC]] 多样化与公共支持边界。

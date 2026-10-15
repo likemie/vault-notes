@@ -9,9 +9,9 @@ title: "Argument_Wiliam_2019_ERE"
 argument_key: "Argument_Wiliam_2019_ERE"
 argument_display_title: "Some reflections on the role of evidence in improving education"
 argument_kind: "journal-article"
-argument_related_count: 15
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 14
+argument_related_level: 0
+argument_related_stars: ""
 argument_related_color: "#dbeafe"
 journal: Educational Research and Evaluation
 citation: "Wiliam, D. (2019). Some reflections on the role of evidence in improving education. Educational Research and Evaluation, 25(7–8), 392–404. https://doi.org/10.1080/13803611.2019.1617993"
@@ -29,7 +29,6 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Reflexivity]]"
-  - "[[Document]]"
   - "[[Evidence-Based Education]]"
   - "[[Tracking]]"
   - "[[Emergence]]"
@@ -74,7 +73,7 @@ citation_aliases:
 > [!info] 研究方法
 > - 方法：[[Philosophical Analysis in Education\|哲学分析]]与[[Reflexivity\|反思性]]综合
 > - 样本：不适用
-> - 数据来源：特刊论文（Simpson, Cowen, Cartwright, Joyce, Phillips, Kvernbekk, Wrigley & McCusker et al.）+ 外部[[Document\|文献]]
+> - 数据来源：特刊论文（Simpson, Cowen, Cartwright, Joyce, Phillips, Kvernbekk, Wrigley & McCusker et al.）+ 外部文献
 
 ## 核心论证
 

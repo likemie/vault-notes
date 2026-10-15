@@ -9,7 +9,7 @@ aliases:
 summary: "由 Miranda Fricker (2007) 开创的批判性社会认识论理论，指个体或群体在作为求知者（knowers）的身份上所遭受的系统性损害与特权剥夺，核心涵盖证词不正义、诠释不正义以及教育领域的成长性认识不正义。在智能求知时代，该理论揭示了大模型语料偏倚与平台垄断对边缘群体认识主体性与知识多样性的隐蔽侵害。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 34
+theory_related_count: 33
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Epistemological Theories]]"
   - "[[Critical Pedagogy]]"
   - "[[Man-Computer Symbiosis]]"
-  - "[[Hypothesis]]"
   - "[[Paradigm]]"
   - "[[Epistemic Virtues and Vices]]"
   - "[[Generative Artificial Intelligence]]"
@@ -62,7 +61,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Epistemic Injustice
@@ -88,7 +87,7 @@ updated: 2026-10-07
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 英国哲学家[[Miranda Fricker|米兰达·弗里克]]（Miranda Fricker, 2007）在开创性专著《认识不正义：权力与求知的伦理学》（*Epistemic Injustice: Power and the Ethics of Knowing*）中首次系统提出。
 > - **原初问题** 探索传统正义理论（侧重财富、机会与权利分配）所遗漏的“[[Epistemology\|认识论]]维度”——当一个人在诉说真相却因性别、种族偏见被判定为不可信时，其所遭受的道德与智识不公究竟该如何界定。
-> - **理论资源与材料** 批判性整合伯纳德·威廉斯（Bernard Williams）的真实性美德理论、爱德华·克雷格（Edward Craig）关于知识者概念的实用[[Hypothesis\|假设]]，以及哈珀·李小说《杀死一只知更鸟》（*To Kill a Mockingbird*）中黑人青年汤姆·鲁宾逊在法庭上遭遇系统性怀疑的司法案例。
+> - **理论资源与材料** 批判性整合伯纳德·威廉斯（Bernard Williams）的真实性美德理论、爱德华·克雷格（Edward Craig）关于知识者概念的实用假设，以及哈珀·李小说《杀死一只知更鸟》（*To Kill a Mockingbird*）中黑人青年汤姆·鲁宾逊在法庭上遭遇系统性怀疑的司法案例。
 > - **形成路径** 弗里克将社会权力的运作机制引入认识论核心，精准划分出两类基本形式：一是言说者在交往中遭遇[[Reliability\|信度]]赤字的“证词不正义”；二是弱势群体在概念框架中遭遇理解赤字的“诠释不正义”，奠定了批判认识论的分析[[Paradigm\|范式]]。
 
 ### 后续修订与扩展

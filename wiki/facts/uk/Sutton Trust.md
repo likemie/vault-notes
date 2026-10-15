@@ -10,7 +10,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 35
+fact_related_count: 33
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -37,14 +37,12 @@ related_concepts:
   - "[[Cultural Capital]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Philanthrocapitalism]]"
-  - "[[Teaching Assistant]]"
   - "[[Selective Education]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
   - "[[Ethnography]]"
   - "[[Meta-analysis]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -71,7 +69,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Sutton Trust
@@ -136,7 +134,7 @@ updated: 2026-10-09
 
 > [!indicators]- 影响力维度与指标
 > - **直接受益学生规模** 累计资助超过 50,000 名来自低收入与家庭第一代大学生的英国高中生通过暑期学校和职业通路项目获得深度学业支持。
-> - **高等教育招生政策重构** 萨顿信托的持续倡导直接促成了全英顶尖大学普遍采纳“上下文背景招生”（Contextual Admissions），即依据学生高中学校背景和邮政[[Coding in Qualitative Research\|编码]]适度降低录取门槛。
+> - **高等教育招生政策重构** 萨顿信托的持续倡导直接促成了全英顶尖大学普遍采纳“上下文背景招生”（Contextual Admissions），即依据学生高中学校背景和邮政编码适度降低录取门槛。
 > - **国家实证中介的制度孵化** 成功作为核心母体出资并联合设立了[[Education Endowment Foundation\|教育捐赠基金会]]（EEF），开启了英国乃至全球教育领域的有效性运动。
 
 > [!finding-cards] 关键成效与制度塑造
@@ -163,7 +161,7 @@ updated: 2026-10-09
 > > - **萨顿信托与功绩制支持者立场** 强调在彻底变革社会阶层结构短期内难以实现的现实制度下，打破牛津剑桥与跨国投行对特权阶层的世袭垄断，为工薪子弟夺取实质性的决策权力，是打破阶级天花板最具可行性的变革突破口。
 >
 > > [!axis] [[Venture Philanthropy\|风险慈善]]公关洗白与跨国金融寡头合法化（[[Philanthrocapitalism\|philanthro-capitalism]] & Tax Shelter）
-> > 探讨华尔街投行与全球顶尖商业律所资[[Teaching Assistant\|助教]]育慈善，是否属于企业形象公关与政策霸权渗透。
+> > 探讨华尔街投行与全球顶尖商业律所资助教育慈善，是否属于企业形象公关与政策霸权渗透。
 > >
 > > - **跨国[[Policy Network\|政策网络]]批判视阈** [[Argument_Rowe_2022_IJER\|Rowe (2022, pp. 6–8, Fig. 2)]] 尖锐揭露，萨顿信托的资助网络充斥着高盛集团、美洲银行、摩根大通等跨国金融寡头以及普华永道和跨国商业律所；这些跨国资本通过向萨顿信托输送慈善资金，不仅获取了全额免税待遇，更将自身塑造为“热心弱势群体教育公平”的道德楷模。这种风险慈善网络与澳大利亚 [[Social Ventures Australia\|SVA]]、[[BHP Foundation\|必和必拓基金会]]高度重叠交织，构成了资本精英介入国家教育科研与政策议程的隐秘通道。
 > > - **官方与慈善资本立场** 认为现代教育改革必须动员社会全部资本与智力资源，跨国金融与法律机构提供的资金、带薪实习岗位与高端导师，直接弥补了国家公立教育系统的资源短板。

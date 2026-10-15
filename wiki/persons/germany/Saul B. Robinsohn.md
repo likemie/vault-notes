@@ -9,10 +9,10 @@ summary: "德国与以色列比较教育学家、课程改革理论家，曾任�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 17
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 14
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1916"
 died: "1972"
 lifespan: "1916–1972"
@@ -24,17 +24,14 @@ tags:
 related_concepts:
   - "[[Navigation Metaphor in Comparative Education]]"
   - "[[Paradigm]]"
-  - "[[Bildung]]"
   - "[[Post-Nationalism]]"
   - "[[Academic Freedom]]"
   - "[[Determinism]]"
   - "[[Variable]]"
-  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
-  - "[[Isaiah Berlin]]"
   - "[[Joseph Lauwerys]]"
   - "[[Max Planck]]"
 related_facts:
@@ -48,7 +45,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-29
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Saul B. Robinsohn
@@ -58,7 +55,7 @@ updated: 2026-10-09
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 德国与以色列杰出比较教育学家、社会学家与课程改革理论家。曾任[[UNESCO|联合国教科文组织]]汉堡教育研究所（UNESCO-UIE）所长（1958–1963），后任[[Max Planck Institute for Human Development|柏林马克斯·普朗克人类发展与教育研究所]]（MPIB）首任联合所长（1963–1972），兼任[[Isaiah Berlin|柏林]]自由大学教育学讲座教授。
+> - **身份位置** 德国与以色列杰出比较教育学家、社会学家与课程改革理论家。曾任[[UNESCO|联合国教科文组织]]汉堡教育研究所（UNESCO-UIE）所长（1958–1963），后任[[Max Planck Institute for Human Development|柏林马克斯·普朗克人类发展与教育研究所]]（MPIB）首任联合所长（1963–1972），兼任柏林自由大学教育学讲座教授。
 > - **核心角色** 战后联邦德国教育科学经验转向与比较教育社会学化的领袖人物。1961 年与约瑟夫·劳威斯（[[Joseph Lauwerys]]）在伦敦联合创立[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）；在比较教育政策咨询功能光谱中，开创了与“[[Navigation Metaphor in Comparative Education|航海隐喻]]”相对峙的“激进立法干预模式”；其主持的《社会进程中的学校改革》项目是战后欧洲首个宏观实证社会学比较课题。
 > - **代表贡献** 创立情境分析导向的现代课程改革理论（*Bildungsreform als Revision des Curriculum*, 1967）；主持七国跨国比较项目《社会进程中的学校改革》（1970/1975）；参与起草并主导联邦德国《全面教育改革计划》（Bildungsgesamtplan）。
 
@@ -70,11 +67,11 @@ updated: 2026-10-09
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1916** **[[Isaiah Berlin|柏林]]出生与流亡巴勒斯坦** 出生于德国柏林的一个犹太知识分子家庭。纳粹上台后，被迫于 1930 年代流亡巴勒斯坦，在耶路撒冷希伯来大学攻读历史学、社会学与教育学，后投身历史教学与学术研究。
+> - **1916** **柏林出生与流亡巴勒斯坦** 出生于德国柏林的一个犹太知识分子家庭。纳粹上台后，被迫于 1930 年代流亡巴勒斯坦，在耶路撒冷希伯来大学攻读历史学、社会学与教育学，后投身历史教学与学术研究。
 > - **1958–1963** **执掌汉堡[[UNESCO|教科文组织]]教育研究所** 战后重返欧洲，出任联合国教科文组织汉堡教育研究所（UNESCO Institute for Education, UIE）所长，利用多边国际平台推动跨国教育研究与战后和解。
 > - **1961** **联合发起成立[[Comparative Education Society in Europe|欧洲比较教育学会]]** 与英国比较教育学者约瑟夫·劳威斯密切合作，在伦敦组织创立欧洲比较教育学会（[[Comparative Education Society in Europe|CESE]]），力主确立超越冷战阵营与民族国家界限的“跨国个人会员制”与学术独立原则。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 91)]]
 > - **1963–1972** **组建柏林[[Max Planck Institute for Human Development|马克斯·普朗克人类发展研究所]]** 接受赫尔穆特·贝克尔（Hellmut Becker）邀请，赴柏林共同创建[[Max Planck|马克斯·普朗克]]教育研究所（MPIB），与迪特里希·戈尔德施密特（Dietrich Goldschmidt）共同担任所长，开辟了德国教育科学基于实证经验与跨学科协作的全新[[Paradigm|研究范式]]。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 90)]]
-> - **1967** **出版《作为课程修订的教育改革》引发德意志课程革命** 出版划时代名著《作为课程修订的教育改革》（*Bildungsreform als Revision des Curriculum*），系统颠覆了德国传统以人文经典[[Bildung|教养]]为中心的教学大纲（Lehrplan）体系，确立以现实生活情境、社会功能与行为胜任力为导向的科学课程研制范式。
+> - **1967** **出版《作为课程修订的教育改革》引发德意志课程革命** 出版划时代名著《作为课程修订的教育改革》（*Bildungsreform als Revision des Curriculum*），系统颠覆了德国传统以人文经典教养为中心的教学大纲（Lehrplan）体系，确立以现实生活情境、社会功能与行为胜任力为导向的科学课程研制范式。
 > - **1970–1972** **主持《社会进程中的学校改革》跨国大课题** 领导 MPIB 跨学科团队开展覆盖西欧与东欧 7 个国家的《社会进程中的学校改革》项目；同时深度参与联邦德国教育委员会（Deutscher Bildungsrat）咨询，作为核心专家参与起草《结构计划》（Strukturplan für das Bildungswesen）。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 95–96)]]
 > - **1972** **柏林英年早逝与学术定论** 逝世于柏林，年仅 56 岁。联邦德国与国际比较教育学界高度评价其推动教育科学从思辨哲学向经验社会学跨越的奠基贡献。
 
@@ -131,7 +128,7 @@ updated: 2026-10-09
 ### 命题总览
 
 > [!contrast-table] 罗宾逊核心学术命题归纳
-> | 命题类型 | 核心指向 | 理论对手 / 对照立场 | 关键[[Document\|文献]] |
+> | 命题类型 | 核心指向 | 理论对手 / 对照立场 | 关键文献 |
 > |---|---|---|---|
 > | **命题一：经验社会学比较** | 跨国学制比较必须建立在宏观社会结构与社会进程分析基石之上 | 传统孤立的历史考据与纯思辨哲学描述 | *Schulreform im gesellschaftlichen Prozess* (1970/1975) |
 > | **命题二：激进政策咨询干预** | 比较学者应积极起草法案蓝图，发挥直接的国家政策咨询导向功能 | 劳威斯的[[Navigation Metaphor in Comparative Education\|航海隐喻]]模式（中立审慎、不干预决策） | [[Argument_Mitter_2009_Europe\|Mitter (2009, pp. 95–96)]] |
@@ -153,6 +150,6 @@ updated: 2026-10-09
 ## 论证索引
 
 > [!evidence-grid-a] 相关论证索引
-> - [[Argument_Mitter_2009_Europe|Mitter (2009, pp. 90, 91, 95–96)]] — 系统评析罗宾逊在[[Isaiah Berlin|柏林]] [[Max Planck Institute for Human Development|MPIB]] 的体制领导力、主持《社会进程中的学校改革》跨国项目的先驱意义，以及其作为欧洲比较教育政策咨询激进干预极的经典地位。
+> - [[Argument_Mitter_2009_Europe|Mitter (2009, pp. 90, 91, 95–96)]] — 系统评析罗宾逊在柏林 [[Max Planck Institute for Human Development|MPIB]] 的体制领导力、主持《社会进程中的学校改革》跨国项目的先驱意义，以及其作为欧洲比较教育政策咨询激进干预极的经典地位。
 > - [[Argument_Klerides_2023_CE|Klerides (2023, pp. 423–424)]] — 记述罗宾逊在任[[UNESCO|联合国教科文组织]]汉堡研究所所长期间，携手约瑟夫·劳威斯于 1961 年发起创立[[Comparative Education Society in Europe|欧洲比较教育学会]]（CESE）的历史实践。
 > - [[Argument_Rappleye_2006_RCIE|Rappleye (2006, p. 231)]] — 援引罗宾逊与库尔曼关于联邦德国战后“不做实验”非改革停滞期的经典历史社会学剖析。

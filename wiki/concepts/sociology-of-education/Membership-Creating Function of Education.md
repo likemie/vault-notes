@@ -5,7 +5,7 @@ aliases:
 summary: "现代教育通过培养忠诚、归属和共同体边界来创造成员身份的基础功能，同时界定谁属于我们以及谁被排除在外"
 type: concept
 domain: "sociology-of-education"
-related_count: 8
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,13 +16,11 @@ tags:
 - citizenship
 - boundaries
 related_concepts:
-  - "[[Document]]"
   - "[[Self-Directed Learning]]"
 related_theories:
   - "[[Nation Building through Education]]"
   - "[[World Society Theory]]"
-related_methods:
-  - "[[Coding in Qualitative Research]]"
+related_methods: []
 related_persons:
   - "[[Stanford School]]"
 related_facts:
@@ -32,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-09-29
+updated: 2026-10-15
 ---
 
 ## 定义
@@ -62,13 +60,13 @@ updated: 2026-09-29
 > - **普遍性的宣称与实际限制** 公共教育被设想为普遍的——包括两性、不顾宗教和社会阶级归属——但这些"普遍性"不延伸至国界之外。即使在国内，"普遍性"可能也只是"仪式性地"实现
 > - **持续至今的当代回响** Amos 指出，"直到今天，关于谁有权利接受教育的问题仍然相关——围绕难民儿童、移民或所谓非法外国人的学校教育争议就是明证"
 >
-> > 例：今天欧洲的难民儿童入学权争论，正是 membership-creating 逻辑的当代回响。如果难民儿童在德国公立学校接受教育、学会德语、学习德国历史和文化——从功能上讲，他们就在经历 membership-creating 过程。反对者担心的是：这些人"不是我们的公民"，为什么要用公共资源为他们创造成员身份？争议之所以棘手，正是因为现代教育的 DNA 里就[[Coding in Qualitative Research\|编码]]了这个"内外之分"。
+> > 例：今天欧洲的难民儿童入学权争论，正是 membership-creating 逻辑的当代回响。如果难民儿童在德国公立学校接受教育、学会德语、学习德国历史和文化——从功能上讲，他们就在经历 membership-creating 过程。反对者担心的是：这些人"不是我们的公民"，为什么要用公共资源为他们创造成员身份？争议之所以棘手，正是因为现代教育的 DNA 里就编码了这个"内外之分"。
 >
 
 ## 理论基础
 
 > [!info] 理论基础
-> - [[World Society Theory]] — Ramirez & Boli (1987) 是[[Stanford School|斯坦福学派]]（Meyer 等）的核心[[Document\|文献]]。Membership-creating 是这一理论的历史基础：全球学校模式的扩散之所以可能，正是因为现代民族国家普遍用教育来创造成员身份
+> - [[World Society Theory]] — Ramirez & Boli (1987) 是[[Stanford School|斯坦福学派]]（Meyer 等）的核心文献。Membership-creating 是这一理论的历史基础：全球学校模式的扩散之所以可能，正是因为现代民族国家普遍用教育来创造成员身份
 > - [[Nation Building through Education]] — membership-creating 是国族建构的基础性社会机制：国家先用教育划定"谁是公民"的边界（membership-creating），再在边界内部——特别是边疆地区——推行统一的身份认同（nation building）
 >
 

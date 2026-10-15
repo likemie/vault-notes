@@ -10,7 +10,7 @@ title: "Argument_Zhou_2024_CE"
 argument_key: "Argument_Zhou_2024_CE"
 argument_display_title: "A fragmentation of Dewey: Dewey in the political and educational reforms of China, 1910s–1920s"
 argument_kind: "journal-article"
-argument_related_count: 27
+argument_related_count: 25
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -37,14 +37,12 @@ related_concepts:
   - "[[Champ]]"
   - "[[Operationalization]]"
   - "[[Knowledge Transfer]]"
-  - "[[Document]]"
   - "[[Going Native]]"
   - "[[Praxis]]"
   - "[[Normal School]]"
   - "[[Growth]]"
 related_theories: []
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Discourse Analysis]]"
   - "[[Meta-analysis]]"
 related_persons:
@@ -77,7 +75,7 @@ citation_aliases:
 ## 研究问题
 
 > [!question]
-> 在[[John Dewey\|杜威]]（John Dewey）访华百周年（2019年）的学术纪念热潮中，学界长期形成了一个主流叙事：杜威的[[Pragmatic Paradigm\|实用主义]]哲学（[[Pragmatism in China\|Pragmatism in China]]）不仅深刻推动了中国1922年新学制改革的民主化方向，其渐进改良的实验方法也落实在了民国教育实践中（pp.609–610）。然而，这一传统叙事忽略了一个深层悖论——杜威在其原典体系中将[[Democratic Education\|民主教育]]理想（democratic education）与渐进实验方法（gradualist experimental approach）融为一体，是因为美国社会已具备基本的民主框架，渐进改良是巩固民主的手段；但在尚无民主制度保障的民国中国，要实现民主教育本身就需要激进变革，这使得追求民主与坚持渐进变成了不可兼得的冲突选项（pp.610–611）。本文旨在回答：在1910–1920年代民国动荡的社会政治语境中，这一内在张力如何重塑了杜威思想的引入、[[Transfer Translation Transformation\|转译]]与演变路径？(p.611)
+> 在[[John Dewey\|杜威]]（John Dewey）访华百周年（2019年）的学术纪念热潮中，学界长期形成了一个主流叙事：杜威的[[Pragmatic Paradigm\|实用主义]]哲学（[[Pragmatism in China\|Pragmatism in China]]）不仅深刻推动了中国1922年新学制改革的民主化方向，其渐进改良的实验方法也落实在了民国教育实践中（pp.609–610）。然而，这一传统叙事忽略了一个深层悖论——杜威在其原典体系中将[[Democratic Education\|民主教育]]理想（democratic education）与渐进实验方法（gradualist experimental approach）融为一体，是因为美国社会已具备基本的民主框架，渐进改良是巩固民主的手段；但在尚无民主制度保障的民国中国，要实现民主教育本身就需要激进变革，这使得追求民主与坚持渐进变成了不可兼得的冲突选项（pp.610–611）。本文旨在回答：在1910–1920年代民国动荡的社会政治语境中，这一内在张力如何重塑了杜威思想的引入、转译与演变路径？(p.611)
 
 > [!claim] 核心主张
 > [[John Dewey\|杜威]]思想在民国中国的传播并非一次忠实或扭曲的整体移植，而是遭遇了结构性的碎片化（fragmentation）。民国教育界受制于缺乏民主与国家危亡的现实语境，将原本统一的杜威体系拆解为彼此隔离的知识碎片——激进派抽取其民主目标与儿童中心，温和派抽取其实验主义与渐进方法，民族主义者抽取其教育服务社会——杜威由此被重构成了一组服务于不同乃至相反政治议程的知识资源（pp.622–623）。
@@ -99,7 +97,7 @@ citation_aliases:
 > [!framework-table] 核心理论工具
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Transfer Translation Transformation\|3T 框架]]（[[Argument_Cowen_2009_CE\|Cowen, 2009]]）**<br>Cowen's 3T Framework | 作为核心结构分析工具，将[[John Dewey\|杜威]]思想在华演进划分为三个阶段：**转移（Transfer）**关注1919年前后杜威演讲与思想跨太平洋移动的接收语境；**转译（Translation）**关注1922–1923年改革中中国改革者如何用本土制度语言与法规重新[[Coding in Qualitative Research\|编码]]杜威；**转化（Transformation）**关注1923–1928年间政治环境恶化导致杜威思想在本土脉络中发生二次变质与[[Paradigm\|范式]]重组（pp.611–612）。 |
+> | **[[Transfer Translation Transformation\|3T 框架]]（[[Argument_Cowen_2009_CE\|Cowen, 2009]]）**<br>Cowen's 3T Framework | 作为核心结构分析工具，将[[John Dewey\|杜威]]思想在华演进划分为三个阶段：**转移（Transfer）**关注1919年前后杜威演讲与思想跨太平洋移动的接收语境；**转译（Translation）**关注1922–1923年改革中中国改革者如何用本土制度语言与法规重新编码杜威；**转化（Transformation）**关注1923–1928年间政治环境恶化导致杜威思想在本土脉络中发生二次变质与[[Paradigm\|范式]]重组（pp.611–612）。 |
 > | **[[Geometries of Insertion\|接入几何学]]**<br>Geometries of Insertion | 分析接收国社会政治[[Champ\|场域]]在知识引入前已存在的结构性裂隙。民国教育界在杜威到来前已形成的温和渐进派 vs. 激进系统重建派的二元对立，构成了杜威思想传入中国时的初始思想土壤（pp.612–613）。 |
 > | **目标-方法双重维度（Means-Ends Pair）**<br>Dewey's Means-Ends Nexus | 将杜威哲学[[Operationalization\|操作化]]为民主教育理想（目标）与渐进[[Pragmatism in China\|实验主义]]（方法）的对偶关系，以此检验二者在民国不同历史时期的结合、分离与对立过程（pp.610–611）。 |
 
@@ -116,14 +114,14 @@ citation_aliases:
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **杜威在华讲演原始记录**<br>Primary Lecture Transcripts | 分析[[John Dewey\|杜威]]1919–1921年在华200余场演讲的中文记录（收录于《杜威在华教育演讲》及《民主与现代社会：杜威在华演讲集》），厘清杜威本人针对中国社会现实提出的原始方法论建议。 |
-> | **民国教育法规与官方文本**<br>Official Legislation & Decrees | 分析1922年《学校系统改革案》（Decree on Reforming the Educational System）、1919年全国教育联合会决议案、1923年《新学制小学课程纲要草案总说明》等官方制度文本，考察[[Transfer Translation Transformation\|转译]]阶段的制度[[Coding in Qualitative Research\|编码]]。 |
+> | **民国教育法规与官方文本**<br>Official Legislation & Decrees | 分析1922年《学校系统改革案》（Decree on Reforming the Educational System）、1919年全国教育联合会决议案、1923年《新学制小学课程纲要草案总说明》等官方制度文本，考察转译阶段的制度编码。 |
 > | **教育期刊与报刊档案**<br>Periodical & Archival Analysis | 针对《新教育》（1919–1925）、《新教育评论》（1925–1928）、《教育杂志》、《新闻报》、《解放与改造》、《教育潮》等民国核心期刊进行文本检索与[[Discourse Analysis\|话语分析]]，重建改革者内部的学术论争与代际转向。 |
 
-> [!sample-panel]- 历史[[Document\|文献]]与史料构成（p.612）
+> [!sample-panel]- 历史文献与史料构成（p.612）
 > | 样本层面 | 构成 |
 > |----------|------|
 > | **演讲记录样本** | 杜威在华两年间巡回11个省份的讲演记录、口译与笔录整理文本。 |
-> | **期刊与文本数据库** | 瀚文民国书库（Hanwei Database）、CNKI中文期刊全文数据库、馆际互借档案及重印汇编[[Document\|文献]]。 |
+> | **期刊与文本数据库** | 瀚文民国书库（Hanwei Database）、CNKI中文期刊全文数据库、馆际互借档案及重印汇编文献。 |
 > | **核心人物[[Discourse\|话语]]** | [[Jiang Menglin\|蒋梦麟]]、[[Tao Xingzhi\|陶行知]]、[[Hu Shi\|胡适]]、蒋琦、沈颐、赵乃传、查良钊等改革领袖的发表文章与社论（pp.613, 619–620）。 |
 
 > [!warning] 史料使用说明：讲演记录的二次转译问题
@@ -194,7 +192,7 @@ citation_aliases:
 ### 步骤三（制度落地）：1922年新学制改革——民主理念的淡化与美式课程的脱节（1922–1923）
 
 > [!claim] 主张
-> 在1922–1923年1922年新学制改革中，杜威思想被翻译为具体法规与课程标准。然而，改革者在[[Transfer Translation Transformation\|转译]]（Translation）过程中对杜威实施了双重折扣（double discount）：不仅剥离了民主教育的政治批判内涵，而且在制度推行上彻底背离了渐进方法，甚至产生了脱离国情的课程歪曲（pp.617–618）。
+> 在1922–1923年1922年新学制改革中，杜威思想被翻译为具体法规与课程标准。然而，改革者在转译（Translation）过程中对杜威实施了双重折扣（double discount）：不仅剥离了民主教育的政治批判内涵，而且在制度推行上彻底背离了渐进方法，甚至产生了脱离国情的课程歪曲（pp.617–618）。
 
 > [!index-table] 1922年新学制七项标准与杜威原意的对比（p.618）
 > | 1922年新学制标准内容 | 杜威原典对应理念 | 本土转译中的折扣与偏离机制 |
@@ -283,10 +281,10 @@ citation_aliases:
 > [!finding-cards] 核心研究发现
 > 1. **民主与渐进的悖论分离** [[John Dewey\|杜威]]原典中统一的民主目标与渐进方法，在缺乏民主的民国中国演变为二选一的冲突：追求民主需要激进变革，坚持渐进则需接受民主遥遥无期。
 > 2. **杜威思想的结构性碎片化** 杜威在华并非被整体接受，而是被拆解为民主、儿童中心、渐进实验、[[Scientific Attitude\|科学态度]]等碎片，分别服务于激进派、温和派与民族主义者。
-> 3. **1922年新学制的双重折扣** [[Transfer Translation Transformation\|转译]]过程中，民主被简化为平民/普及教育而去政治化；适应进化被误用为彻底废除旧学制的根据，抛弃了渐进过渡的改良路径（pp.617–618）。
+> 3. **1922年新学制的双重折扣** 转译过程中，民主被简化为平民/普及教育而去政治化；适应进化被误用为彻底废除旧学制的根据，抛弃了渐进过渡的改良路径（pp.617–618）。
 > 4. **1923年课程的美式错位** 新课程在适应地方名义下引入美式园艺与手工，却删除了农业科，在农民占绝大多数的中国造成了严重的本土脱节。
 > 5. **从民主到科学态度的[[Paradigm\|范式]]转向** 1923年后《新教育评论》取代《新教育》，标志着教育范式从激进追赶美式民主转向立足国情、注重调查与实验的科学态度（pp.619–621）。
-> 6. **跨国[[Knowledge Transfer\|知识转移]]的普遍规律** 证实了 Cowen 3T 框架的解释力：接收国政治[[Champ\|场域]]的裂隙与危机，决定了外来复合学术思想被拆解、选择性吸收与[[Going Native\|本土化]]的必然轨迹。
+> 6. **跨国[[Knowledge Transfer\|知识转移]]的普遍规律** 证实了 Cowen [[Transfer Translation Transformation|3T 框架]]的解释力：接收国政治[[Champ\|场域]]的裂隙与危机，决定了外来复合学术思想被拆解、选择性吸收与[[Going Native\|本土化]]的必然轨迹。
 
 > [!stat-cards]- 核心历史数据与关键节点
 > - **200余场** 杜威1919–1921年在华巡回11省发表的演讲总数。

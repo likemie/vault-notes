@@ -9,7 +9,7 @@ aliases:
 summary: "教育科学与认知心理学构念，指旨在否定、推翻或证伪教师既有经验直觉与伪科学迷思的实证研究成果，若缺乏建设性替代方案易触发教师心理防御与专业疏离"
 type: concept
 domain: "science-communication"
-related_count: 27
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,11 +21,9 @@ tags:
 related_concepts:
   - "[[Falsification]]"
   - "[[Causality]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Self-Efficacy]]"
   - "[[Empiricism]]"
   - "[[Educational Science Communication]]"
-  - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Deficit Model of Science Communication]]"
   - "[[Heterogeneity]]"
@@ -99,7 +97,7 @@ updated: 2026-10-15
 
 ## 核心要素
 
-> [!feature] 反驳性证据的心理阻抗机制与[[Transfer Translation Transformation\|转译]]沟通支柱
+> [!feature] 反驳性证据的心理阻抗机制与转译沟通支柱
 > - **专业自尊与效能威胁（Threat to Professional [[Self-Efficacy]]）** 教师将长期采用的教学策略视作专业身份的重要组成部分；反驳性证据直接暗示其过往教学可能“误人子弟”，极易诱发自我防卫性归因（Bauer & Kollar, 2023）。
 > - **[[Empiricism\|经验主义]]的反弹防御（Anecdotal Backfire Effect）** 面对统计[[Falsification\|证伪]]，教师倾向于调用个案生动记忆（如“某学生用此方法确实进步了”）来反驳宏观实证结论，强化对非科学经验的执念。
 > - **概念转变沟通框架（Conceptual Change Framework）** 借鉴认知发展心理学规律，反驳性证据必须分步推进：
@@ -132,7 +130,7 @@ updated: 2026-10-15
 > 揭示单纯陈述“传统做法无效”的单向科学传播为何在实践界不仅难以达成启蒙效果，反而会激发教师的群体性心理反弹与专业抗拒。
 
 > [!claim] [[Argument_Besa_2024_UW\|Besa, 2024]] & Bauer & Kollar
-> **反驳性证据的心理防御与专业疏离效应** 鲍尔与科拉尔指出，教育科学出版物中普遍存在的挑错式倾向——将焦点单向置于对教师传统经验与常态做法的“反驳性证据”（widerlegende Evidenz）之上——构成了教师证据疏离的深层心理诱因。当一线教师感知到科研成果不断否定其教学智慧却未提供任何落地出路时，极易产生“学者脱离实际、纸上谈兵”的群体共识，促使其筑起心理防御屏障并彻底拒绝研读实证[[Document\|文献]]。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 254)]]；Bauer & Kollar (2023, p. 134)
+> **反驳性证据的心理防御与专业疏离效应** 鲍尔与科拉尔指出，教育科学出版物中普遍存在的挑错式倾向——将焦点单向置于对教师传统经验与常态做法的“反驳性证据”（widerlegende Evidenz）之上——构成了教师证据疏离的深层心理诱因。当一线教师感知到科研成果不断否定其教学智慧却未提供任何落地出路时，极易产生“学者脱离实际、纸上谈兵”的群体共识，促使其筑起心理防御屏障并彻底拒绝研读实证文献。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 254)]]；Bauer & Kollar (2023, p. 134)
 
 ---
 
@@ -173,7 +171,7 @@ updated: 2026-10-15
 > - **1990s — 认知心理学异常数据响应理论** 钦与布鲁尔（Chinn & Brewer, 1993）提出学习者面对“异常与反驳性数据（Anomalous Data）”的七种心理响应模型，奠定了[[Falsification\|证伪]]性信息引发认知拒斥的微观认知基础。
 > - **2000s–2010s — 概念转变理论与反驳性文本应用** 沃斯尼亚杜（Vosniadou, 2013）等学者将概念转变框架引入科学教育，开发出“反驳性文本（Refutational Texts）”结构，证实直接对比错误观念与科学原理解释能显著提升教学效果。
 > - **2023 — 德语区教师教育反驳性证据概念化** 鲍尔与科拉尔（Bauer & Kollar, 2023）正式提出“反驳性证据（widerlegende Evidenz）”[[Construct\|构念]]，将其作为解释教师抵触[[Evidence-Based Education\|循证教育]]与坚持神经神话的关键心理[[Variable\|变量]]。
-> - **2024 — [[Educational Science Communication\|教育科学传播]][[Paradigm\|范式]]整合** 贝萨（[[Argument_Besa_2024_UW\|Besa, 2024]]）将反驳性证据深度融入教育科学传播理论，确立了“反驳性证据 + 建设性行动方案 + 双向递归对话”的现代中介[[Transfer Translation Transformation\|转译]]范式。
+> - **2024 — [[Educational Science Communication\|教育科学传播]][[Paradigm\|范式]]整合** 贝萨（[[Argument_Besa_2024_UW\|Besa, 2024]]）将反驳性证据深度融入教育科学传播理论，确立了“反驳性证据 + 建设性行动方案 + 双向递归对话”的现代中介转译范式。
 
 ---
 
@@ -201,12 +199,12 @@ updated: 2026-10-15
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Educational Science Communication]] | 概念 | 反驳性证据是教育科学传播中最具挑战性但也最关键的[[Transfer Translation Transformation\|转译]]形态。 |
+> | [[Educational Science Communication]] | 概念 | 反驳性证据是教育科学传播中最具挑战性但也最关键的转译形态。 |
 > | [[Deficit Model of Science Communication]] | 概念 | 孤立单向推送反驳性证据是赤字模型的典型表征，已被实证证明因果无效。 |
 > | [[Learning Style Myth]] | 概念 | 反驳性证据在教育领域最典型的[[Falsification\|证伪]]对象与应用案例。 |
 > | [[Teacher Beliefs]] | 概念 | 反驳性证据旨在重塑的微观认知中枢与阻抗源头。 |
 > | [[Self-Efficacy]] | 概念 | 科学传播需避免反驳性证据对教师教学自我效能感造成毁灭性打击。 |
-> | [[Ratgeberliteratur]] | 概念 | 商业指南[[Document\|文献]]大量充斥未经反驳性证据检验的伪科学假说。 |
+> | [[Ratgeberliteratur]] | 概念 | 商业指南文献大量充斥未经反驳性证据检验的伪科学假说。 |
 > | [[Educational Brokerage Agency]] | 概念 | 中介机构承担着将尖锐反驳性证据转化为温和建设性方案的专业转译职能。 |
 
 ---

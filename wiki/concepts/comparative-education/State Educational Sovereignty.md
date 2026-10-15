@@ -10,7 +10,7 @@ aliases:
 summary: "近代世俗民族国家在打破宗教神权与宗族私权中确立的最高教育管辖权与视察责任，主张教育属神圣国家公共资源。20世纪末以来，国家教育主权面临超国家测评治理、WTO/GATS跨国经贸规约与非政府组织影子国家外包的多标度侵蚀，并在多层网络治理中转型为由跨国软法测评与国内政治合法化共同维系的“权力共享行使”机制。"
 type: concept
 domain: "comparative-education"
-related_count: 48
+related_count: 47
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Intercultural Education]]"
-  - "[[Attrition]]"
   - "[[Competitiveness]]"
   - "[[New Public Management]]"
   - "[[Policy Borrowing]]"
@@ -56,12 +55,12 @@ related_persons:
   - "[[Calvin Stowe]]"
   - "[[Henry Barnard]]"
   - "[[Wolfgang Mitter]]"
-  - "[[Marc-Antoine Jullien]]"
   - "[[Robert Arnove]]"
   - "[[José Luis García Garrido]]"
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
   - "[[Michael Sadler]]"
+  - "[[Marc-Antoine Jullien]]"
 related_facts:
   - "[[World Trade Organization]]"
   - "[[GATS and Trade in Education Services]]"
@@ -79,7 +78,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-13
+updated: 2026-10-15
 ---
 
 # State Educational Sovereignty
@@ -194,7 +193,7 @@ updated: 2026-10-13
 > 探讨民族国家教育主权如何成为比较教育长期排他的经验容器，以及当代超国家治理（[[OECD]]/EU）与多元移民社会如何对其发起上下夹击的解构与重塑。
 
 > [!claim] [[Wolfgang Mitter|Mitter, W.]]
-> **民族国家教育主权垄断奠定了比较教育的基本经验单元** 自 19 世纪初[[Marc-Antoine Jullien|朱利安]]构想以跨欧经验数据服务和平治理以来，法国大革命确立的民族国家浪潮迅速垄断了教育主权，使得以领土为刚性边界的国家教育体制成为整个 20 世纪比较教育学无可争议且几乎排他的分析容器；民族国家主权的制度个殊性构成了欧洲比较教育的多样性之极，与欧洲共享文化精神遗产的统一性之极形成了贯穿两个世纪的深层辩证张力。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 87–88, 94–95)]]
+> **民族国家教育主权垄断奠定了比较教育的基本经验单元** 自 19 世纪初朱利安构想以跨欧经验数据服务和平治理以来，法国大革命确立的民族国家浪潮迅速垄断了教育主权，使得以领土为刚性边界的国家教育体制成为整个 20 世纪比较教育学无可争议且几乎排他的分析容器；民族国家主权的制度个殊性构成了欧洲比较教育的多样性之极，与欧洲共享文化精神遗产的统一性之极形成了贯穿两个世纪的深层辩证张力。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 87–88, 94–95)]]
 
 > [!claim] Mitter, W.
 > **超国家测评[[Disciplina and Doctrina|规训]]与跨文化实践双向重塑国家教育主权** 世纪之交以来，国家教育主权面临前所未有的双重解构与重构：向上受到经合组织（OECD）[[PISA|国际学生评估项目]]（PISA）等大规模跨国测评的技术官僚规训，国家教育目标被迫对接全球[[Human Capital Theory|人力资本]]竞争指标与欧盟资格框架的制度渗透；向下及横向则受到大规模移民潮与多民族社会现实的冲击，迫使单一民族国家学制比较进路走向与包容微观文化互动的[[Intercultural Education|跨文化教育]]进路相合流。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 95–98)]]
@@ -204,7 +203,7 @@ updated: 2026-10-13
 ### 命题四　新自由主义经贸规制与非政府组织外包共同侵蚀了民族国家的教育主权与公共责任
 
 > [!concept-lens] 超国家穿透与[[Shadow State|影子国家]]外包双重侵蚀
-> 探讨全球化时代[[World Trade Organization|世贸组织]]经贸规约与民间组织外包如何深度穿透传统民族国家主权边界，导致国家公共调控责任严重[[Attrition|流失]]。
+> 探讨全球化时代[[World Trade Organization|世贸组织]]经贸规约与民间组织外包如何深度穿透传统民族国家主权边界，导致国家公共调控责任严重流失。
 
 > [!claim] [[Robert Arnove|Arnove, R.]] and Robertson, S.
 > **超国家经贸规制削弱小国调控主权与造成非对称分化** 阿诺夫（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）与罗伯逊等人（2002）指出，WTO/[[GATS and Trade in Education Services|GATS]] 致力于消除跨境教育壁垒，导致大国与小国陷入极不平等的自主权鸿沟。大国（如加入世贸后的中国）能够主动借力规则增强[[Competitiveness|国家竞争力]]，而牙买加、尼加拉瓜等经济弱小国家则在世贸规约面前彻底丧失了宏观调控教育与维护国民福利的主权能力。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 111)]]
@@ -314,7 +313,7 @@ updated: 2026-10-13
 > | [[Dual School System]] | 概念 | 19 世纪欧陆国家运用国家教育权构建阶级分选双轨学制，固化阶层区隔。 |
 > | [[Normal School]] | 概念 | 国家教育权的关键操作载体，通过国家公立师范垄断教师资格准入与专业化标准。 |
 > | [[Pluri-Scalar Governance]] | 概念 | 全球化多标度治理模型解构了民族国家单一排他性的教育主权容器。 |
-> | [[Shadow State]] | 概念 | 刻画国际援助绕过政府直接外包基础教育导致国家教育主权与公共责任[[Attrition\|流失]]的现象。 |
+> | [[Shadow State]] | 概念 | 刻画国际援助绕过政府直接外包基础教育导致国家教育主权与公共责任流失的现象。 |
 > | [[Educational Decentralization]] | 概念 | 揭示国家教育权从中央向地方下放时可能伴生的行政官僚膨胀与体系割裂风险。 |
 > | [[Guizot Law of 1833]] | 政策事实 | 法国七月王朝以国家公共资源法哲学为推论桥梁确立国家教育权的经典法案。 |
 > | [[Prussian Draft Education Law of 1819]] | 政策事实 | [[Johann Wilhelm Süvern\|聚芬]]主持设计的普鲁士草案，确立国家最高监督与省立师范，成为欧陆国家教育权技术蓝本。 |

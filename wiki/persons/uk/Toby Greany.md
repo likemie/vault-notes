@@ -7,10 +7,10 @@ summary: "英国诺丁汉大学教育领导力教授，前伦敦大学学院教�
 type: person
 nationality: "uk"
 person_region: "uk"
-person_related_count: 24
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_count: 22
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1958"
 died: ""
 lifespan: "1958–至今"
@@ -32,8 +32,6 @@ related_concepts:
   - "[[Evidence-Informed Practice]]"
   - "[[Construct]]"
   - "[[Research-Engaged School]]"
-  - "[[Hypothesis]]"
-  - "[[Document]]"
 related_theories:
   - "[[Organizational Culture]]"
   - "[[Inquiry Cycle]]"
@@ -54,7 +52,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-16
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Toby Greany
@@ -138,10 +136,10 @@ updated: 2026-10-12
 > | [[School Leadership]] | 概念 | 提出领导者在证据知情自改进中必须重点投入文化建设、行动理论审思与正式研讨支持。 |
 > | [[Evidence-Informed Practice]] | 概念 | 批判单向证据推送，强调结合教师缄默智慧与微观[[Inquiry Cycle\|探究循环]]的情境化循证落地。 |
 > | [[Research-Engaged School]] | 概念 | 剖析学校由被动应付技巧示范向全校性探究文化转型的领导力路径与组织支撑。 |
-> | [[Activity Traps]] | 概念 | 揭示学校在缺乏因果[[Hypothesis\|假设]]审思与效果评估时，极易陷入教学形式主义空转的实证病理。 |
+> | [[Activity Traps]] | 概念 | 揭示学校在缺乏因果假设审思与效果评估时，极易陷入教学形式主义空转的实证病理。 |
 > | [[Joint Practice Development]] | 概念 | 在 NCSL 期间推动 JPD 成为国家级领导力战略，并确立其为课堂微观证据转化的核心机制。 |
 > | [[Teaching Schools]] | 事实 | 主导完成教学学校联盟国家级追踪评估，实证确立其在专业发展与科研协调上的贡献与局限。 |
 > | [[The Importance of Teaching]] | 事实 | 系统解构 2010 年白皮书确立的自我改进系统目标与横向[[Network Governance\|网络治理]]预设。 |
 > | [[Ofsted]] | 事实 | 尖锐批评现行督导框架对学校循证自改进的制度性压制，提出督导指标重构方案。 |
 > | [[Research Learning Communities]] | 事实 | 与[[Chris Brown\|克里斯·布朗]]共同主持该项目的实证检验与跨校合作网络追踪。 |
-> | [[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018]] | 论证 | 合作构建四因素模型、分析 79 所小学基线准备度并提出领导力优先投入方向的核心[[Document\|文献]]。 |
+> | [[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018]] | 论证 | 合作构建四因素模型、分析 79 所小学基线准备度并提出领导力优先投入方向的核心文献。 |

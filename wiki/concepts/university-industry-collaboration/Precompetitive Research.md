@@ -8,7 +8,7 @@ aliases:
 summary: "处于探索阶段、产出的知识产权尚不具备直接商业化价值的共性技术研发活动。在产学合作与产业研发联盟中，前竞争研究充当了多边协同的制度边界：使同行竞争者在共性工艺、行业标准与基础设施层面共享成果与分摊风险，同时保留各自在专有产品设计与商业市场的独立竞争优势；Grindley et al. (1994) 揭示了其在同业横向联盟中的专有权张力及向纵向供应链协同演化的规律。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 38
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -36,7 +36,6 @@ related_concepts:
   - "[[Academic Freedom]]"
   - "[[Public-Private Partnership in Research]]"
   - "[[Return on Investment]]"
-  - "[[Document]]"
   - "[[Cost of Ownership]]"
   - "[[Research Scope]]"
   - "[[Variable]]"
@@ -55,7 +54,6 @@ related_facts:
   - "[[Sematech]]"
   - "[[VLSI Project]]"
   - "[[ESPRIT]]"
-  - "[[Microelectronics and Computer Technology Corporation]]"
   - "[[CHIPS and Science Act]]"
   - "[[National Semiconductor Technology Center]]"
   - "[[National Science and Technology Council]]"
@@ -72,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Precompetitive Research
@@ -169,7 +167,7 @@ updated: 2026-10-09
 ### 命题总览
 
 > [!contrast-table] 前竞争研究核心命题归纳
-> | 命题类型 | 核心机制与指向 | 适用情境 | 代表学者与[[Document\|文献]] |
+> | 命题类型 | 核心机制与指向 | 适用情境 | 代表学者与文献 |
 > |:---|:---|:---|:---|
 > | **双层知识产权解耦命题** | 区分共有前竞争知识池与个体产品专项开发，保障竞争对手协同攻关 | 大学–企业联合体、先进制造中心 | [[Argument_Hoffman_2025_UI_Alliances_Consortia\|Hoffman et al. (2025)]]; [[Argument_Ramming_2025_CorporateSupport\|Ramming (2025)]] |
 > | **分层时域矩阵命题** | 依据技术成熟度建立近中远期多轨道计划，以路线图解耦底层共性探索与终端产品竞争 | 行业级多边研发联合体（如半导体） | [[Argument_Logar_2014_Minerva\|Logar et al. (2014)]] |
@@ -181,7 +179,7 @@ updated: 2026-10-09
 ## 概念演变
 
 > [!dev-timeline] 概念演变历程
-> - **1980s — 反垄断豁免与半导体联盟兴起** 美国通过 1984 年《国家合作研究法》（NCRA），首次从法律层面界定前竞争研发（Pre-competitive R&D）并免除反垄断三倍赔偿风险；直接催生了 [[Sematech]]、[[Microelectronics and Computer Technology Corporation|MCC]] 等高技术研发联合体，以及欧洲 [[ESPRIT]] 计划。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 724–728)]]
+> - **1980s — 反垄断豁免与半导体联盟兴起** 美国通过 1984 年《国家合作研究法》（NCRA），首次从法律层面界定前竞争研发（Pre-competitive R&D）并免除反垄断三倍赔偿风险；直接催生了 [[Sematech]]、MCC 等高技术研发联合体，以及欧洲 [[ESPRIT]] 计划。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 724–728)]]
 > - **1990s — 战略转向与纵向通用基础设施确立** [[Sematech]] 的实践证明横向工艺配方共享难以维系，前竞争研究的内涵拓展为国家半导体技术路线图（NTRS）、[[Cost of Ownership|所有权成本模型]]（COO）及共有中试线认证等通用基础设施。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 731–736)]]
 > - **2000s–至今 — 产学两层知识产权与公私伙伴关系（[[Public-Private Partnership in Research|PPP]]）制度化** 前竞争原则广泛融入[[University-Industry Collaboration|产学合作]]管理与国家战略科技政策（如英国 [[Advanced Manufacturing Research Centre|AMRC]] 两层知识产权模型、美国《[[CHIPS and Science Act|芯片与科学法案]]》[[National Semiconductor Technology Center|国家半导体技术中心]] [[National Science and Technology Council|NSTC]]），演化为调节公私协同与市场竞争平衡的核心制度工具。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025)]]; [[Argument_Narayan_Spohrer_2025_Metrics|(Narayan & Spohrer, 2025)]]
 

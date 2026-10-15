@@ -37,11 +37,9 @@ related_concepts:
   - "[[Justification for Knowing]]"
   - "[[Epistemological Beliefs]]"
   - "[[Homework]]"
-  - "[[Hypothesis]]"
   - "[[Epistemic Responsibility]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[AI Hallucination]]"
-  - "[[Document]]"
   - "[[Metacognition]]"
   - "[[Open-Mindedness]]"
   - "[[Discourse]]"
@@ -91,7 +89,7 @@ title: "Argument_Wu_2025_ER"
 argument_key: "Argument_Wu_2025_ER"
 argument_display_title: "Strengthening Human Epistemic Agency in the Symbiotic Learning Partnership With Generative Artificial Intelligence"
 argument_kind: "journal-article"
-argument_related_count: 53
+argument_related_count: 51
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -149,7 +147,7 @@ issuing_organization: ""
 > [!sample-panel]- 案例材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **交互语料样本** | 3 位具有不同认识立场与先验知识水平的研究生（Student A, Student B, Student C）在解决统计[[Hypothesis\|假设]]检验作业时与 ChatGPT 的完整人机对话记录（含原始交互与中英文对照面板）。（pp. 362–365） |
+> | **交互语料样本** | 3 位具有不同认识立场与先验知识水平的研究生（Student A, Student B, Student C）在解决统计假设检验作业时与 ChatGPT 的完整人机对话记录（含原始交互与中英文对照面板）。（pp. 362–365） |
 > | **任务情境** | 涵盖孟德尔豌豆遗传学实验数据拟合优度检验、方差分析（Analysis of Variance, ANOVA）效应量指标 $\omega^2$ 计算公式比较，以及李克特量表一致性检验的方法学决策。（pp. 362–364） |
 
 ---
@@ -180,7 +178,7 @@ issuing_organization: ""
 
 > [!feature] 生成式人工智能介入教育的双重效应与认知危机
 > - **多轮对话与拟人化支持** 能够依据学习者的模糊提问即时给出条理清晰、步骤详尽的整合性解答，极大地降低了寻找分散资料的时间成本。（p. 358）
-> - **算法幻觉与虚假事实扩散** 大语言模型的概率生成机制伴随着算法幻觉（[[AI Hallucination]]），可能生成看似言之成理却完全错误的虚假推论或伪造[[Document\|文献]]。
+> - **算法幻觉与虚假事实扩散** 大语言模型的概率生成机制伴随着算法幻觉（[[AI Hallucination]]），可能生成看似言之成理却完全错误的虚假推论或伪造文献。
 > - **[[Cognitive Offloading\|认知卸载]]与能动性让渡** 当机器能够一键交付完整答案包时，容易诱发认知卸载（Cognitive Offloading），使学习者跳过矛盾辨析与逻辑论证，削弱[[Epistemic Agency\|认识能动性]]（Epistemic Agency）。（pp. 358–359）
 
 从交互模式与认知负荷的角度审视，两类技术系统在底层逻辑与[[Epistemology|认识论]]风险上存在显著差异：
@@ -201,7 +199,7 @@ issuing_organization: ""
 > - **主体定位：从单向操控转向共享认识能动性**
 >   人类与智能系统构成人机共享认识能动性（Shared Epistemic Agency）网络；大模型承担观点初步整合，人类维持最高调控。（pp. 359–360）
 > - **核心职责：坚守批判审问与最终裁决权**
->   学习者承担[[Metacognition\|元认知]]调控职责，运用[[Hypothesis\|假设]]检验与多源核实对模型输出保持持续审问，牢固掌握评判裁决权。
+>   学习者承担[[Metacognition\|元认知]]调控职责，运用假设检验与多源核实对模型输出保持持续审问，牢固掌握评判裁决权。
 > - **思维调适：采纳自适应[[Epistemic Stances\|认识立场]]**
 >   学习者具备自适应认识立场（Adaptive Epistemic Stance），根据情境复杂度与系统反馈动态调整检验标准与批判审慎态度。（p. 360）
 

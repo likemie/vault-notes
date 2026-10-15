@@ -10,9 +10,9 @@ subtype: event
 region: china
 fact_region: "china"
 fact_kind: "event"
-fact_related_count: 8
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: ""
 fact_related_color: "#fef3c7"
 tags:
 - evidence-based-reform
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Evidence-Based Education]]"
   - "[[International Education]]"
-  - "[[Hypothesis]]"
   - "[[Operationalization]]"
 related_theories: []
 related_methods:
@@ -35,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-09-15
+updated: 2026-10-15
 ---
 ## 背景
 
@@ -79,7 +78,7 @@ updated: 2026-09-15
 ## 争议与评论
 
 > [!warning] 争议与评论
-> **定义分歧**石中英 (2017) 区分广义实证（收集观察数据提出[[Hypothesis\|假设]]）与狭义实证（程序化、[[Operationalization\|操作化]]、定量化），暗示若按广义理解中国学术一直从事证据本位研究([[Argument_Slavin_2021_ECNUROE\|Slavin et al., 2021, p.15]])。
+> **定义分歧**石中英 (2017) 区分广义实证（收集观察数据提出假设）与狭义实证（程序化、[[Operationalization\|操作化]]、定量化），暗示若按广义理解中国学术一直从事证据本位研究([[Argument_Slavin_2021_ECNUROE\|Slavin et al., 2021, p.15]])。
 >
 > **统计主义批判**李军 (2018) 警告不应将证据本位研究等同于**统计主义(statisticalism)**——聚焦方法而忽视问题，聚焦数据而忽视事实，聚焦格式而忽视思想，认为证据本位排斥了难以量化的教育理念、价值和情感 (p.15-16)。
 >

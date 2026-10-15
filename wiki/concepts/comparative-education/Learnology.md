@@ -8,7 +8,7 @@ aliases:
 summary: "20 世纪末英国比较教育学派开创的微观研究范式，由帕特丽夏·布罗德富特系统阐发，主张将比较研究重心从宏观体制与财政政策下沉至课堂场域中学习者的主体体验、心智过程与评价认同互动，与罗宾·亚历山大的“比较教学论”共同构成比较教育微观转向的双翼。"
 type: concept
 domain: "comparative-education"
-related_count: 22
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Self-Efficacy]]"
   - "[[Geisteswissenschaften]]"
-  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Learnology
@@ -125,4 +124,4 @@ updated: 2026-10-07
 > | [[Robin Alexander\|罗宾·亚历山大]] | 人物 | 核心同行与盟友；五国初等教育比较与学习学研究形成深层学理共振。 |
 > | [[Michael Sadler\|迈克尔·萨德勒]] | 人物 | 其文化有机体论与精神力量观点为微观学习学提供了深厚的思想源头。 |
 > | [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] | 人物 | 在学科史反思中将学习学誉为英国比较教育富有人文关怀与稳健学风的典范。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 权威评述英国比较教育学派向“比较教学论”与“学习学”演进的母体[[Document\|文献]]。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 权威评述英国比较教育学派向“比较教学论”与“学习学”演进的母体文献。 |

@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09"
 argument_display_title: "Research Methods in Education · Ch09"
 argument_kind: "book-chapter"
-argument_related_count: 42
+argument_related_count: 41
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -27,7 +27,6 @@ tags:
   - source/textbook
   - theme/sensitive-research
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Sensitive Research]]"
   - "[[Gatekeepers]]"
   - "[[Informed Consent]]"
@@ -110,7 +109,7 @@ updated: 2026-10-08
 
 敏感性是一个内在于一切教育研究的连续谱，不能简化为"有"或"没有"的二元判断。
 
-> [!assumptions] 被挑战的隐含[[Hypothesis\|假设]]
+> [!assumptions] 被挑战的隐含假设
 > - **假设一：研究是技术流水线。** 设计好方案 → 收集数据 → 分析 → 报告——这是"理想主义的天真或无知"（p.202）。
 > - **假设二：敏感性存在于话题中。** 研究者可能认为选了一个"安全"的话题就万事大吉——但敏感性来自社会情境而非话题标签。
 > - **假设三：研究者是中立的技术执行者。** 实际上研究者自身就是研究情境的一部分——其特征、身份、行为本身就是敏感性的来源。

@@ -139,7 +139,7 @@ updated: 2026-10-15
 
 > [!indicators]- 评估指标体系
 > - **投入规模** 联邦财政出资逾 14 亿美元，撬动社会配比资金数亿美元。
-> - **研究方法学纯度** 采用 [[Randomised Controlled Trials\|RCT]] 与 [[Quasi-Experimental Designs\|QED]] 的比例，试验参与学生与学校的[[Attrition\|流失]]率（Attrition）。
+> - **研究方法学纯度** 采用 [[Randomised Controlled Trials\|RCT]] 与 [[Quasi-Experimental Designs\|QED]] 的比例，试验参与学生与学校的流失率（[[Attrition]]）。
 > - **学业产出指标** 覆盖 K-12 阶段标准化阅读与数学考试成绩标准差变化（[[Effect Size\|效应量]] $d$），毕业率与高中辍学预防率。
 
 > [!finding-cards] 核心实证结论
@@ -162,7 +162,7 @@ updated: 2026-10-15
 > > 关于评估机构受雇于被评估项目开发者所导致的潜在利益冲突与方法学妥协。
 > >
 > > - **美国 i3 模式缺陷** 美国 [[Education Sciences Reform Act 2002|ESRA]] 法案虽要求由外部专家开展评估，但在 i3 具体操作中由受资助者自行选聘评估团队并管理预算，导致评估者受制于开发者的商业考量，难以坚持高难度的严格 [[Randomised Controlled Trials\|RCT]]。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 50)]]
-> > - **英国 EEF 独立中介创新** 英国 EEF 吸取了 i3 漏洞，建立彻底的三方资助隔离机制：由中介机构直接向独立专家库招标，分别与开发者和评估团队签订相互独立的法律合同，强制保障了 89% 的项目采用大样本 RCT，且 85% 达成[[Attrition\|流失]]率低于 30% 的高安全水准。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 51)]]
+> > - **英国 EEF 独立中介创新** 英国 EEF 吸取了 i3 漏洞，建立彻底的三方资助隔离机制：由中介机构直接向独立专家库招标，分别与开发者和评估团队签订相互独立的法律合同，强制保障了 89% 的项目采用大样本 RCT，且 85% 达成流失率低于 30% 的高安全水准。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 51)]]
 
 > [!lessons] 经验教训与启示
 > - **实施教训** 研发者自主聘用评估团队的财务依附关系会削弱独立性审查，导致部分评估向准实验妥协并推高流失率。

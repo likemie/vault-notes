@@ -10,7 +10,7 @@ aliases:
 summary: "澳大利亚税法中赋予特定非营利机构接受企业与个人捐款并向捐赠人提供全额个税扣除的法定特许资质（以 DGR1 为最高等级）；在教育政策中作为国家特许的法律与财政管道，引导免税资本绕过公共部门直达特定中介，构成异层治理的核心物质载体。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 15
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,14 +20,12 @@ tags:
   - policy-tools
   - educational-governance
 related_concepts:
-  - "[[Assemblage]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Philanthrocapitalism]]"
   - "[[Venture Philanthropy]]"
   - "[[Seed Funding]]"
   - "[[Professional Judgment]]"
   - "[[Construct]]"
-  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods:
   - "[[Correlational Research]]"
@@ -44,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-20
-updated: 2026-10-04
+updated: 2026-10-15
 ---
 
 # Deductible Gift Recipient
@@ -54,7 +52,7 @@ updated: 2026-10-04
 ## 定义
 
 > [!def] 核心定义
-> **可扣税赠款受赠人（Deductible Gift Recipient, DGR）**是澳大利亚税法体系中由澳大利亚税务局（ATO）及联邦立法特许赋予特定非营利机构的法律资质。持有该资质的机构有权接收纳税人的税后捐赠并向其开具有法律效力的税收扣除收据，使捐赠者在申报个人所得税或企业所得税时享受 100% 的税基抵扣。在 DGR 体系中，**第一类（DGR Item 1, DGR1）**属于最高特许等级，允许机构直接开展运营并接受来自私人辅助基金（Private Ancillary Funds, PAFs）与各类免税信托的无限制资助。在教育政策社会学中，DGR1 不仅是税收优惠代码，更是现代资本主义国家用于[[Assemblage\|装配]]异层治理、特许商业资本进入公立教育以及重构公共财富再分配形态的“耐用法律与财政管道”。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 522–525, 528, 530)]]
+> **可扣税赠款受赠人（Deductible Gift Recipient, DGR）**是澳大利亚税法体系中由澳大利亚税务局（ATO）及联邦立法特许赋予特定非营利机构的法律资质。持有该资质的机构有权接收纳税人的税后捐赠并向其开具有法律效力的税收扣除收据，使捐赠者在申报个人所得税或企业所得税时享受 100% 的税基抵扣。在 DGR 体系中，**第一类（DGR Item 1, DGR1）**属于最高特许等级，允许机构直接开展运营并接受来自私人辅助基金（Private Ancillary Funds, PAFs）与各类免税信托的无限制资助。在教育政策社会学中，DGR1 不仅是税收优惠代码，更是现代资本主义国家用于装配异层治理、特许商业资本进入公立教育以及重构公共财富再分配形态的“耐用法律与财政管道”。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 522–525, 528, 530)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向国家通过税法特许修正案，将税收减免权利让渡给特定免税中介机构以引导民间资本流动的制度工具。
@@ -111,7 +109,7 @@ updated: 2026-10-04
 
 ### 命题一　DGR1 特许立法是资本主义国家将风险慈善制度化装配进公共教育的法定核心载体
 
-> [!concept-lens] 制度与法律[[Assemblage\|装配]]机制
+> [!concept-lens] 制度与法律装配机制
 > 阐明抽象的[[Philanthrocapitalism\|慈善资本主义]]理念如何通过税法修正案与 DGR1 资质等无生命耐用材料，在主权国家内部完成制度化具身与法定固化。
 
 > [!claim] [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]]; [[Argument_Rowe_2022_IJER\|Rowe (2022)]]
@@ -146,7 +144,7 @@ updated: 2026-10-04
 > - **2001 — 私人辅助基金（PAFs）制度创生** 联邦政府创设 PAFs 机制，允许富裕家族与跨国企业设立免税基金池，催生了巨额沉淀资金寻找 DGR1 承接载体的迫切需求。
 > - **2011 — Gonski 审查提议公立学校引入民间慈善捐款** [[David Gonski\|戴维·冈斯基]]领衔的首期资助审查报告正式建议联邦政府为公立学校设立免税募款通道。
 > - **2014 — 联邦税法修正案打破公立教育 DGR1 禁区** 议会通过专项修正案，向 [[Social Ventures Australia\|SVA]] 孵化的 [[Australian Schools Plus\|Schools Plus]] 授予覆盖全澳公立学校的 DGR1 资质，确立了国家主导的异层税收减免通道。
-> - **2023 — 批判治理研究揭示 DGR1 的异层[[Assemblage\|装配]]实质** [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] 结合 ACNC 与 ASIC 实证账目，从理论上将 DGR1 提炼为新自由主义国家用于侵蚀公立教育民主问责的关键法律技术工具。
+> - **2023 — 批判治理研究揭示 DGR1 的异层装配实质** [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] 结合 ACNC 与 ASIC 实证账目，从理论上将 DGR1 提炼为新自由主义国家用于侵蚀公立教育民主问责的关键法律技术工具。
 
 ---
 
@@ -159,7 +157,7 @@ updated: 2026-10-04
 > > - **批判政治经济学视角** [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] 强调 DGR1 是合法的“国家级避税庇护所”；它赋予非民选资本用原本应上缴国库的税收来指定特定教育项目的特权，将公共教育保障退化为不稳定的道德施舍。
 
 > [!warning] 适用局限
-> DGR 与 DGR1 属于澳大利亚普通法与税法特有法定[[Construct\|构念]]；在国际比较研究中，其功能与美国的 501(c)(3) 组织免税地位及英国的慈善信托（Charitable Trusts）税收 Gift Aid 减免机制高度同构，迁移至其他国家分析时需结合当地税制条文进行对等[[Transfer Translation Transformation\|转译]]。
+> DGR 与 DGR1 属于澳大利亚普通法与税法特有法定[[Construct\|构念]]；在国际比较研究中，其功能与美国的 501(c)(3) 组织免税地位及英国的慈善信托（Charitable Trusts）税收 Gift Aid 减免机制高度同构，迁移至其他国家分析时需结合当地税制条文进行对等转译。
 
 ---
 
@@ -179,4 +177,4 @@ updated: 2026-10-04
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 系统追踪全澳公立学校首个 DGR1 资质的立法确立过程，揭示其作为税收特许管道重塑公共财政再分配的运作机理。
-> - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 结合无生命客体理论，分析 DGR1 与公司法注册等耐用材料在教育政策跨国流动中的[[Assemblage\|装配]]效应。
+> - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 结合无生命客体理论，分析 DGR1 与公司法注册等耐用材料在教育政策跨国流动中的装配效应。

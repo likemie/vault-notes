@@ -8,7 +8,7 @@ summary: "美国著名社会心理学家，曾在耶鲁大学主持极具震撼�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 17
+person_related_count: 16
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -24,7 +24,6 @@ tags:
   - region/us
 related_concepts:
   - "[[Banality of Evil]]"
-  - "[[Document]]"
   - "[[Constructive Disobedience]]"
   - "[[Deception in Research]]"
   - "[[Institutional Review Board]]"
@@ -47,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Stanley Milgram
@@ -85,7 +84,7 @@ updated: 2026-10-08
 > [!work-line] 主要著作与标志性论文
 > - **1963 — *Behavioral Study of Obedience*** 在《变态与社会心理学期刊》发表耶鲁服从实验首批基准数据（65% 参与者施加 450 伏最大电击），震动全球心理学界与伦理学界。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, p. 133)]]
 > - **1967 — *The Small World Problem*** 在《今日心理学》发表小世界现象研究，确立了社交网络中六度分离假说的实验基石。
-> - **1974 — *Obedience to Authority: An Experimental View*** 系统总结服从实验的 18 种情境变式，正式确立“代理态理论”，成为社会科学探讨权威与个体的经典[[Document|文献]]。
+> - **1974 — *Obedience to Authority: An Experimental View*** 系统总结服从实验的 18 种情境变式，正式确立“代理态理论”，成为社会科学探讨权威与个体的经典文献。
 > - **1977 — *The Individual in a Social World: Essays and Experiments*** 汇集其在城市环境心理学、去个性化与社会网络动态领域的开创性论述。
 
 ---
@@ -155,4 +154,4 @@ updated: 2026-10-08
 > | [[Constructive Disobedience]] | 概念 | 克服米尔格拉姆实验所揭示的盲从弱点的核心组织行动[[Paradigm\|范式]]。 |
 > | [[Engineering Mindset]] | 概念 | 依托客观事实反馈抵御权威盲从的科技组织微观文化。 |
 > | [[Technological Republic]] | 概念 | 倡导打破官僚盲从、重塑前沿技术治理的国家体制构想。 |
-> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12]] | 论证 | 深入探讨米尔格拉姆实验对重塑现代科技组织工程文化的论证[[Document\|文献]]。 |
+> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12]] | 论证 | 深入探讨米尔格拉姆实验对重塑现代科技组织工程文化的论证文献。 |

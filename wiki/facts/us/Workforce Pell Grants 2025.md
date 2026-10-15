@@ -11,7 +11,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 14
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -24,16 +24,13 @@ tags:
   - level/higher-education
   - theme/vocational-education
 related_concepts:
-  - "[[Assemblage]]"
   - "[[Process Knowledge]]"
   - "[[Apprenticeship]]"
   - "[[Outcome-Based Apprenticeship Funding]]"
   - "[[Community College Strategic Anchoring]]"
-  - "[[Attrition]]"
   - "[[Engineering Education]]"
 related_theories: []
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -47,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Workforce Pell Grants 2025
@@ -60,7 +57,7 @@ updated: 2026-10-08
 > - **立法通过与生效时间** 2025 年经美国国会通过并生效实施。
 > - **适用地区与受惠对象** 全美经认证的短周期高质量职业技术培训项目、社区学院（Community Colleges）、技术学校及其学员。
 > - **历史制度扭曲与文凭垄断** 长期以来，美国联邦高等教育学生资助体系（尤其是《[[Higher Education Act of 1965|高等教育法]]》第四章下的佩尔助学金 [Federal Pell Grants] 及联邦学生贷款）受到严格的“学时与学位门槛”限制，仅资助至少 15 周（或 600 个学时）的副学士或学士学位项目。这种资助倾斜在财政上极大偏向了传统四年制文凭教育，导致不以学位为导向的高质量动手手艺、职业技能培训与短周期技术证书项目被系统性排除在联邦资助之外。
-> - **国家科技安全与制造生态紧迫感** 在半导体制造回流、先进核反应堆建造、生物医药发酵与精密仪器[[Assemblage|装配]]等战略领域，美国面临严重的熟练技术工人与排障技师断层；白宫科技报告指出，缺乏掌握默会[[Process Knowledge|过程知识]]的产业工人，导致前沿科学发现无法在本土实现中试与规模化量产。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 48–53)]]
+> - **国家科技安全与制造生态紧迫感** 在半导体制造回流、先进核反应堆建造、生物医药发酵与精密仪器装配等战略领域，美国面临严重的熟练技术工人与排障技师断层；白宫科技报告指出，缺乏掌握默会[[Process Knowledge|过程知识]]的产业工人，导致前沿科学发现无法在本土实现中试与规模化量产。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 48–53)]]
 
 ---
 
@@ -81,7 +78,7 @@ updated: 2026-10-08
 
 > [!finding-cards] 政策意义与体系辐射
 > - **重构国家科研生态的技能底座** 白宫科技政策办公室在 2026 年报告中强调，科研政策不能孤立地关注大学博士生培养，必须将[[Apprenticeship|学徒制]]、短期技能证书与四年制学位置于同等重要的地位，破除对单一学术文凭的制度垄断。
-> - **弥补本土[[Process Knowledge|过程知识]]（Process Knowledge）[[Attrition|流失]]** 尖端半导体光刻、精密机电调试与高真空仪器维护依赖于无法完全[[Coding in Qualitative Research|编码]]的现场排障经验，劳动力佩尔助学金为培育这一关键工匠群体提供了制度化财政支撑。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 47, 53)]]
+> - **弥补本土[[Process Knowledge|过程知识]]（Process Knowledge）流失** 尖端半导体光刻、精密机电调试与高真空仪器维护依赖于无法完全编码的现场排障经验，劳动力佩尔助学金为培育这一关键工匠群体提供了制度化财政支撑。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 47, 53)]]
 > - **推动区域创新集群均衡发展** 帮助非传统高校聚集区、锈带及中西部制造中心依托社区学院吸聚高技术产业投资，实现科技红利向全美广泛社区的包容性分配。
 
 ---

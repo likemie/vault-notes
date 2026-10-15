@@ -8,7 +8,7 @@ aliases:
 summary: "战后主导科技政策资源配置的核心分类范式，以研究者即时立项动机将科研割裂为基础与应用两轨；后因其文化阶层偏见、单向因果谬误及导致关键硬件发明资助断档而遭系统性解构"
 type: concept
 domain: "science-policy"
-related_count: 25
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[Long-Term Public Utility]]"
   - "[[Theory of Knowledge]]"
-  - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[National Innovation System]]"
   - "[[Innovation Ecosystem]]"
@@ -38,8 +37,6 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Vannevar Bush]]"
-  - "[[Peter A. Hall]]"
-  - "[[Alfred Nobel]]"
   - "[[Donald Stokes]]"
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
@@ -51,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-02
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Basic-Applied Research Dichotomy
@@ -96,7 +93,7 @@ updated: 2026-10-12
 
 > [!feature] 二分法[[Paradigm|范式]]的四大理论支柱与制度预设
 > - **文化阶层偏见的[[Theory of Knowledge|知识论]]投影** 深植于西方古老文化中将动脑思考置于动手操作之上的智识偏见，武断推定纯理论认知天然优越于工程实践专长。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 31)]]
-> - **单向线性因果链[[Hypothesis|假设]]** 坚信科学发现具有绝对的历史与逻辑在先性，技术进步必然是上游科学理论向下游自然渗透溢出的结果，忽视工程技术的自主演进规律。
+> - **单向线性因果链假设** 坚信科学发现具有绝对的历史与逻辑在先性，技术进步必然是上游科学理论向下游自然渗透溢出的结果，忽视工程技术的自主演进规律。
 > - **基于申报动机的分类标准** 将资助与评估标准完全建立在项目立项时研究者口头声称的主观意图上，完全脱离知识在长达 30 至 50 年演化网络中的真实贡献形态。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 32)]]
 > - **制度化部门隔离** 确立了大学负责基础探索、企业承担应用开发的体制割裂，并形成以[[Market Failure|市场失灵]]作为政府资助边界的机械教条。
 
@@ -115,7 +112,7 @@ updated: 2026-10-12
 > **基础研究的逻辑在先性** 基础科学研究是不考虑实用目的的自由探索，是技术进步与产业新发明的源头起搏器；若失去[[Curiosity-Driven Research|纯基础研究]]的知识储备，工业开发必将枯竭。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 31)]]
 
 > [!claim] Narayanamurti, V. et al.
-> **工程实践的科学使能机制** 科学技术史事实证明，技术发明往往大幅领先于理论科学；瓦特蒸汽机工程直接催生了热力学定律，半导体异质结与先进晶体生长等关键发明直接充当了分数量子[[Peter A. Hall|霍尔]]流体等物理新发现的极端实验载体。二分法将发明矮化为科学的从属副产品，在认识论上完全倒置了历史事实。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–35)]]
+> **工程实践的科学使能机制** 科学技术史事实证明，技术发明往往大幅领先于理论科学；瓦特蒸汽机工程直接催生了热力学定律，半导体异质结与先进晶体生长等关键发明直接充当了分数量子霍尔流体等物理新发现的极端实验载体。二分法将发明矮化为科学的从属副产品，在认识论上完全倒置了历史事实。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–35)]]
 
 ---
 
@@ -137,7 +134,7 @@ updated: 2026-10-12
 > [!contrast-table] 围绕基础/应用二分法形成的批判性命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |:---|:---|:---|:---|
-> | **认识论有效性命题** | 检验先懂原理后造技术[[Hypothesis\|假设]]是否成立，揭示发明作为科学发现载体的普遍性 | 科学技术史实证、[[Alfred Nobel\|诺贝尔]]物理学奖谱系考证 | 布什; 纳拉亚纳穆尔提等 |
+> | **认识论有效性命题** | 检验先懂原理后造技术假设是否成立，揭示发明作为科学发现载体的普遍性 | 科学技术史实证、诺贝尔物理学奖谱系考证 | 布什; 纳拉亚纳穆尔提等 |
 > | **资助制度异化命题** | 揭示以立项动机定资助边界导致的战略性硬件研发断档与机构壁垒 | 国家实验室治理、科研预算编制、产业关键技术突破 | 阿罗; 纳拉亚纳穆尔提等 |
 
 ---

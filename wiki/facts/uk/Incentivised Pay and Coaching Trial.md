@@ -11,7 +11,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 19
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -34,11 +34,9 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Business as Usual]]"
   - "[[Statistical Analysis Plan]]"
-  - "[[Document]]"
   - "[[Informed Consent]]"
   - "[[Theoretical Standpoint]]"
   - "[[Zero-Sum Competition]]"
-  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Classroom Observation]]"
@@ -100,7 +98,7 @@ updated: 2026-10-15
 ## 推进历程与阶段演进
 
 > [!dev-timeline]- 项目推进历程
-> - **2014–2015 — 国际经验借鉴与方案论证** 汲取印度等发展中经济体关于教师[[Performance Pay\|绩效工资]]显著提振成绩的实证[[Document\|文献]]（如 Muralidharan & Sundararaman, 2011），[[Education Endowment Foundation\|EEF]] 决策层论证在英国引入绩效激励试验的可行性。
+> - **2014–2015 — 国际经验借鉴与方案论证** 汲取印度等发展中经济体关于教师[[Performance Pay\|绩效工资]]显著提振成绩的实证文献（如 Muralidharan & Sundararaman, 2011），[[Education Endowment Foundation\|EEF]] 决策层论证在英国引入绩效激励试验的可行性。
 > - **2015–2016 — 招募启动与全系统伦理抵制** 兰德欧洲评估团队与干预开发方启动全英公立中学招募，然而方案一经公开便遭遇全国校长协会与教师工会的严厉谴责，多数校长拒绝在学校内部制造金钱待遇的人为分裂。
 > - **2017 — 招募彻底流产与里程碑式《关闭报告》发布** 在多次放宽招募标准与延期仍无法招到最低[[Sample Size Determination\|样本量]]后，EEF 宣布终止试验；评估团队出具《招募失败因素分析与关闭报告》（Closure Report; Sutherland et al., 2017），开创了循证资助机构正式公布失败试验教训的先河。
 > - **2018–至今 — 确立前置伦理与可行性审查制度** ICR 试验的关闭促使 EEF 全面重构立项机制，建立强制性的“干预可行性与参与者伦理可接受度审查机制”，杜绝未经文化适配的机械模型移植。
@@ -144,7 +142,7 @@ updated: 2026-10-15
 > > - **职业社会学与利他[[Theoretical Standpoint\|理论立场]]（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）** 指出教师职业高度依赖内在动机与同行协作（Bénabou & Tirole, 2006）；在教研组内强加奖金[[Zero-Sum Competition\|排他性竞争]]不仅违背职业伦理，更会腐蚀专业协作基石，导致学校治理机制的全面失灵。
 
 > [!lessons] 经验教训与启示
-> - **前置干预可行性与伦理可接受度审查** 任何外部干预方案在投入昂贵的 [[Randomised Controlled Trials\|RCT]] 试验之前，必须前置开展深度的定性可行性研究与教师参与者伦理可接受度调研，严防理论[[Hypothesis\|假设]]脱离一线文化土壤。
+> - **前置干预可行性与伦理可接受度审查** 任何外部干预方案在投入昂贵的 [[Randomised Controlled Trials\|RCT]] 试验之前，必须前置开展深度的定性可行性研究与教师参与者伦理可接受度调研，严防理论假设脱离一线文化土壤。
 > - **正视“失败试验”的公共知识价值** 循证资助机构必须具备直面招募流产与零效应的制度勇气；将 ICR 试验的流产过程与机制阻力以《关闭报告》形式完整公开，为全球循证政策设计树立了极具价值的避坑指南。
 
 ---
@@ -161,4 +159,4 @@ updated: 2026-10-15
 > | [[Academic Achievement]] | 概念 | 核心结局；项目试图通过经济与教学双重手段提升的学生学科成绩。 |
 > | [[Implementation and Process Evaluation]] | 方法 | 诊断工具；在招募阶段用于解剖学校拒绝参试与制度脱嵌原因的过程评估。 |
 > | [[Randomised Controlled Trials]] | 方法 | 试验设计；展示了当实验分配违背一线职业伦理时 RCT 招募面临的致命阻力。 |
-> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]] | 论证 | 来源[[Document\|文献]]；将 ICR 确立为反思外部经济激励局限与建立可行性审查的基石案例。 |
+> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]] | 论证 | 来源文献；将 ICR 确立为反思外部经济激励局限与建立可行性审查的基石案例。 |

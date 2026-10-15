@@ -145,7 +145,7 @@ updated: 2026-10-07
 > [!dev-timeline] 概念演变
 > - **1973 — 积累与[[Legitimation Crisis|合法化危机]]理论** 詹姆斯·奥康纳（James O'Connor）在《国家的财政危机》中提出资本主义国家必须兼顾积累与合法化双重矛盾职能，奠定理论前驱。
 > - **1980年代 — 魏勒论教育合法化** 汉斯·魏勒（Hans N. Weiler）系统分析现代国家如何将教育规划与科研作为平抑治理矛盾的补偿性合法化机制。
-> - **1990/1991 — [[State Corporatism|国家法团主义]]结合** [[Carlos Alberto Torres|托雷斯]]（Torres）与莫拉莱斯-戈麦斯将该概念植入拉美国家[[Neocorporatism|法团主义]]分析，明确指出成人扫盲是墨西哥政权的补偿性工程。
+> - **1990/1991 — [[State Corporatism|国家法团主义]]结合** 托雷斯（Torres）与莫拉莱斯-戈麦斯将该概念植入拉美国家[[Neocorporatism|法团主义]]分析，明确指出成人扫盲是墨西哥政权的补偿性工程。
 > - **2009 — 全球化结构调整视阈拓展** [[Liliana Esther Olmos|奥尔莫斯]]（Olmos）与托雷斯（Torres）将补偿性合法化拓展至新自由主义全球化下[[Conditioned State Theory|受限国家]]的应对策略，揭示市场化改革中的边际福利吸纳功能。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
 
 ---

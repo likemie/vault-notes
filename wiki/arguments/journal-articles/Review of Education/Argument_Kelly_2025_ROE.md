@@ -30,12 +30,10 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Research Literacy]]"
   - "[[Contributory Expertise]]"
-  - "[[Document]]"
   - "[[Epistemology]]"
   - "[[Interactional Expertise]]"
   - "[[Boundary Spanner]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Hypothesis]]"
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
   - "[[Epistemological Break]]"
@@ -50,10 +48,11 @@ related_concepts:
   - "[[Gatekeepers]]"
   - "[[School Autonomy]]"
   - "[[Reflective Thinking]]"
-  - "[[Teaching Assistant]]"
   - "[[Knowledge Co-production]]"
+  - "[[Teaching Assistant]]"
   - "[[Reflexivity]]"
   - "[[Visible Learning]]"
+  - "[[Document]]"
   - "[[Professional Judgment]]"
   - "[[Bureaucracy]]"
 related_theories: []
@@ -62,7 +61,6 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Systematic Review]]"
   - "[[Documentary Analysis]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[In-depth Interview]]"
   - "[[Practitioner Enquiry]]"
@@ -93,7 +91,7 @@ title: "Argument_Kelly_2025_ROE"
 argument_key: "Argument_Kelly_2025_ROE"
 argument_display_title: "Comparing school leaders' experiences of research use in England, Scotland and Germany"
 argument_kind: "journal-article"
-argument_related_count: 54
+argument_related_count: 52
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -116,7 +114,7 @@ issuing_organization: ""
 > 学校领导者的[[Research Utilization\|研究使用]]经验并非单纯由个体信息获取能力或[[Research Literacy\|研究素养]]决定，而是受制于宏观政治语境与教育治理机制。英格兰的高度市场化与高利害问责催生了过剩的知识中介与表演性依从，使研究异化为向督导证明专业合法性的防御工具；而在具备地方缓冲与低利害传统的苏格兰和德国，根植于日常教学的[[Contributory Expertise\|贡献型专长]]为抵制抽象证据教条与开展合作探究保留了关键的专业空间。（pp. 21–23）
 
 > [!concept-lens] 阅读透镜
-> - **对象** 英格兰、苏格兰与德国汉堡三地的基础教育治理政策与中介[[Document\|文献]]（49 份），以及 9 位对应学段中小学校长与高级管理者的深度[[Semi-structured Interview\|半结构化访谈]]。
+> - **对象** 英格兰、苏格兰与德国汉堡三地的基础教育治理政策与中介文献（49 份），以及 9 位对应学段中小学校长与高级管理者的深度[[Semi-structured Interview\|半结构化访谈]]。
 > - **张力** 倡导通用有效做法（what works）的技术客观性与扎根一线学校复杂偶发环境的实践者受训判断力之间的[[Epistemology\|认识论]]与制度冲突。
 > - **贡献** 打破系统论与功能主义关于知识顺畅线性流动的乌托邦神话，引入专长社会学与政治治理视角，揭示宏观权力与问责利害如何重塑微观证据实践。
 
@@ -130,7 +128,7 @@ issuing_organization: ""
 > | **[[Interactional Expertise\|交互型专长（Interactional Expertise）]]**<br>Collins & Evans (2007); Eyal (2019) | 指涉研究者、[[Boundary Spanner\|知识经纪人]]与智库专家凭借技术客观性、论辩修辞与方法论标准建立的知识权威，其特征在于能够流利转述与重构专业概念，但缺乏现场操作的具身实践经验。（pp. 7–8） |
 > | **[[Contributory Expertise\|贡献型专长（Contributory Expertise）]]**<br>一线实践手艺知识与受训判断力 | 指涉一线教师与校长在微观物理与社会情境中长年积累的具身手艺知识（craft knowledge）与受训判断力（trained judgement），构成一线专业人员审视与校准外部通用证据的基石。（p. 8） |
 > | **不可知政治治理观（Agnostic-Political View）**<br>Wilkins & Gobby (2021) | 将[[School Leadership\|学校领导]]视为在多重冲突价值、稀缺资源与外部[[Disciplina and Doctrina\|规训]]之间艰难斡旋的政治博弈过程，破除假定校长能按部就班执行循证决策的功能主义管理迷思。（p. 7） |
-> | **医学化与学习科学模型批判**<br>Furlong & Whitty (2017); Biesta (2007) | 剖析以[[Randomised Controlled Trials\|随机对照试验（Randomised Controlled Trial, RCT）]]和[[Systematic Review\|系统综述]]为代表的新教育科学还原论[[Hypothesis\|假设]]，指出将医学临床[[Paradigm\|范式]]生硬套用于充满价值冲突与伦理考量的教育[[Champ\|场域]]所必然带来的水土不服。（pp. 7, 12） |
+> | **医学化与学习科学模型批判**<br>Furlong & Whitty (2017); Biesta (2007) | 剖析以[[Randomised Controlled Trials\|随机对照试验（Randomised Controlled Trial, RCT）]]和[[Systematic Review\|系统综述]]为代表的新教育科学还原论假设，指出将医学临床[[Paradigm\|范式]]生硬套用于充满价值冲突与伦理考量的教育[[Champ\|场域]]所必然带来的水土不服。（pp. 7, 12） |
 
 > [!warrant]- 理论如何支撑论证
 > 传统系统模型（如英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）的五步实施指南）将学校领导者与教师设想为标准信息传送带上的理性执行者，假定只需消除沟通障碍与认知盲区即可实现循证改进。然而，专长社会学（Collins & Evans, 2007）揭示了外部[[Knowledge Production\|知识生产]]者所秉持的技术客观性与一线从业人员所依赖的受训判断力之间存在先天的[[Epistemological Break\|认识论断裂]]。这一断裂在不同的教育治理架构下被显著放大：在高利害市场化体制下，交互专长被商业化包装为免责护身符，导致表演性依从；而在低利害与专业自主体制下，贡献专长方能获得生长土壤，使证据作为反思探究的起点而非终点。（pp. 6–8, 21–23）
@@ -142,7 +140,7 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **[[Documentary Analysis\|文献分析（Documentary Analysis）]]** | 系统检索并[[Coding in Qualitative Research\|编码]]英格兰、苏格兰与德国汉堡三地的中央与地方政府政策文件、法定督导标准、国际组织报告（OECD、欧盟委员会、[[UNESCO\|联合国教育、科学及文化组织（United Nations Educational, Scientific and Cultural Organization, UNESCO）]]）及核心[[Educational Brokerage Agency\|知识中介机构]]公开[[Document\|文献]]（共 49 份），按受众定位、证据呈现形式与支持路径归类。（pp. 8–10） |
+> | **[[Documentary Analysis\|文献分析（Documentary Analysis）]]** | 系统检索并编码英格兰、苏格兰与德国汉堡三地的中央与地方政府政策文件、法定督导标准、国际组织报告（OECD、欧盟委员会、[[UNESCO\|联合国教育、科学及文化组织（United Nations Educational, Scientific and Cultural Organization, UNESCO）]]）及核心[[Educational Brokerage Agency\|知识中介机构]]公开文献（共 49 份），按受众定位、证据呈现形式与支持路径归类。（pp. 8–10） |
 > | **[[Semi-structured Interview\|半结构化访谈（Semi-structured Interview）]]** | 在三国相近的都会与次都会区域各遴选 3 位中小学与特殊教育[[School Leadership\|学校领导]]者（共 9 位），展开约 1 小时的深度半结构化访谈，系统探讨证据可及性、[[Research Utilization\|研究使用]]体验、学校改进影响与效用评价。（pp. 9–11） |
 > | **比较质性分析（Comparative Qualitative Analysis）** | 依托[[Refined Mastery\|精通]]本土语言与教育体制的内部研究者（insider researchers）进行第一阶段独立[[Transcription in Qualitative Research\|转录]]与主题归纳，再由跨国研究团队通过局内人—局外人多重视角[[Dialogue in Education\|对话]]进行跨案例交叉比较与理论提炼。（pp. 9–10） |
 
@@ -213,7 +211,7 @@ issuing_organization: ""
 一线校长与教师面对外部研究并非出于无知，其实践本质上是在资源匮乏与多重制度期望之间斡旋的政治博弈。
 
 > [!warrant]- 专长合法性冲突的理论推论
-> 专长社会学揭示了专长合法性来源的根本分裂：交互型专家的信誉建立在[[Document\|文献]]规范与方法论修辞的严密性之上，而贡献型专家的权威则完全取决于其在特定物理时空中解决具体复杂问题的实际成效。当政策制定者试图以交互专长的技术客观性凌驾并[[Disciplina and Doctrina\|规训]]一线实践者的受训判断力时，必然引发基层的疏离、敷衍与防御性抗拒。（pp. 7–8）
+> 专长社会学揭示了专长合法性来源的根本分裂：交互型专家的信誉建立在文献规范与方法论修辞的严密性之上，而贡献型专家的权威则完全取决于其在特定物理时空中解决具体复杂问题的实际成效。当政策制定者试图以交互专长的技术客观性凌驾并[[Disciplina and Doctrina\|规训]]一线实践者的受训判断力时，必然引发基层的疏离、敷衍与防御性抗拒。（pp. 7–8）
 
 ---
 
@@ -271,12 +269,12 @@ issuing_organization: ""
 > |---|---|---|
 > | **核心驱动力** | 督导问责合规、家长市场信任与晋升声誉区隔 | 校本实际问题诊断、弱势学童关照与教学手艺提升 |
 > | **证据吸收逻辑** | 机械采纳现成商业工具包，以证据之名压制校内反思 | 将文献作为[[Dialogue in Education\|对话]]起点，通过实践者探究开展情境化校准 |
-> | **对冲突证据的态度** | 顺从官方中介结论（如借 EEF 结论为削减[[Teaching Assistant\|助教]]岗位辩护） | 依凭贡献专长坚决反驳（痛斥官方助教无用论脱离实际） |
+> | **对冲突证据的态度** | 顺从官方中介结论（如借 EEF 结论为削减助教岗位辩护） | 依凭贡献专长坚决反驳（痛斥官方助教无用论脱离实际） |
 > | **教师与领导角色** | 外部验证方案的被动执行者与消费者 | 协同改进的探究者、提问者与专业[[Knowledge Co-production\|知识共创]]者 |
 
 #### 2. 一线实践手艺抵制脱离情境的官方证据教条
 
-围绕课堂教学助教（Teaching Assistant, TA）成效这一典型争议议题，英格兰与苏格兰校长在官方循证结论与微观现场经验发生冲突时，展现出鲜明的应对策略分野。
+围绕课堂教学助教（[[Teaching Assistant]], TA）成效这一典型争议议题，英格兰与苏格兰校长在官方循证结论与微观现场经验发生冲突时，展现出鲜明的应对策略分野。
 
 > [!line-a] 英格兰校长的表演性依从与经济合理化辩护
 > - **引用证据确立权威** Leader A 指出在教研会与校长联席会上，校长们频繁引用 EEF 词句为自身管理决策增添权威感，[[Reflexivity\|反思性]]实践被完全边缘化，蜕变为看数据、查现成方案和直接采购资源的机械流程。（pp. 11, 19）
@@ -300,12 +298,12 @@ issuing_organization: ""
 
 > [!finding-cards] 核心发现
 > 1. **治理体制深刻决定[[Knowledge Mediation\|知识中介]]形态与实践者心理负荷** 英格兰的市场化治理催生了过载的中介机构与商业方案，导致校长陷入信息疲劳并转向熟人网络求助；苏格兰通过地方当局与高校协作保留了弹性缓冲；德国汉堡依托稳定的州级官僚研训与低利害监测，校长对外部研究光环保持淡定与去魅。（pp. 11–15）
-> 2. **[[Interactional Expertise\|交互型专长]]与[[Contributory Expertise\|贡献型专长]]的[[Epistemology\|认识论]]鸿沟制约[[Research Translation\|研究转化]]** 推崇技术客观性与还原论的医学化循证模型脱离一线教学的复杂情境；当外部中介证据（如 [[Education Endowment Foundation\|EEF]] 评估认为[[Teaching Assistant\|助教]]成本高而成效低）与一线校长长期积累的具身手艺知识直接冲突时，一线专业人员展现出强烈的怀疑主义与实践抵触。（pp. 19–21）
+> 2. **[[Interactional Expertise\|交互型专长]]与[[Contributory Expertise\|贡献型专长]]的[[Epistemology\|认识论]]鸿沟制约[[Research Translation\|研究转化]]** 推崇技术客观性与还原论的医学化循证模型脱离一线教学的复杂情境；当外部中介证据（如 [[Education Endowment Foundation\|EEF]] 评估认为助教成本高而成效低）与一线校长长期积累的具身手艺知识直接冲突时，一线专业人员展现出强烈的怀疑主义与实践抵触。（pp. 19–21）
 > 3. **高利害问责导致研究证据被异化为表演性防卫工具** 在生存焦虑笼罩下的英格兰体系中，[[Evidence-Informed Practice\|证据知情实践]]在很大程度上退化为校长迎合督导审查、向家长证明专业胜任力乃至为财政裁员提供合理化借口的工具性外衣，反而挤压了真正的[[Reflexivity\|反思性]]实践空间。（pp. 19–23）
 > 4. **[[Practitioner Enquiry\|实践者探究]]构筑弥合专长断裂的制度桥梁** 苏格兰将[[Practitioner Enquiry\|实践者探究]]（Practitioner Enquiry）制度化嵌入教师专业标准（[[General Teaching Council for Scotland\|GTCS]]），使教师能够结合具体学校情境对外部证据进行调适、检验与重构，展现了弥合交互专长与贡献专长的有效路径。（pp. 15–16, 23–24）
 
 > [!stat-cards]- 核心数据
-> - **49** 份纳入系统[[Documentary Analysis\|文献分析]]的官方政策、督导规程与中介[[Document\|文献]]总量。（p. 9）
+> - **49** 份纳入系统[[Documentary Analysis\|文献分析]]的官方政策、督导规程与中介文献总量。（p. 9）
 > - **9** 位接受深度[[Semi-structured Interview\|半结构化访谈]]的三国中小学与特殊教育[[School Leadership\|学校领导]]者。（p. 10）
 > - **3** 个极具制度对照价值的欧洲国家与地区教育治理体系（英格兰、苏格兰、德国）。（p. 2）
 
@@ -324,7 +322,7 @@ issuing_organization: ""
 > *We don't really talk about reflective practice anymore—it is more, look at the data, find out where we can improve, look at what someone says research tells us about how to do that and then buy in the resources or make the changes.*
 
 > [!citation-card] 一线实践手艺对外部证据教条的坚决抵制
-> 我们新任的教育局长曾说过这样的话：‘我不希望在你们的 [[Pupil Equity Funding\|PEF]] 计划中看到招聘课堂[[Teaching Assistant\|助教]]，因为证据表明那完全起不到任何作用’。但在基层现场，我们都在说：‘这纯粹是胡说八道，一个优秀的课堂助教其价值胜过黄金’。（p. 20）
+> 我们新任的教育局长曾说过这样的话：‘我不希望在你们的 [[Pupil Equity Funding\|PEF]] 计划中看到招聘[[Teaching Assistant|课堂助教]]，因为证据表明那完全起不到任何作用’。但在基层现场，我们都在说：‘这纯粹是胡说八道，一个优秀的课堂助教其价值胜过黄金’。（p. 20）
 >
 > *We had our fairly new Director of Education saying things like ‘I don't want to see that you're hiring classroom assistants in your PEF plans because … that makes absolutely no difference whatsoever’. Now at ground level, we're saying ‘that is nonsense, a good classroom assistant is worth their weight in gold’.*
 

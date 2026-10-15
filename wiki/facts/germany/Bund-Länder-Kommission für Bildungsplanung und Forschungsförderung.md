@@ -12,7 +12,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 14
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -36,8 +36,7 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons:
-  - "[[Peter A. Hall]]"
+related_persons: []
 related_facts:
   - "[[Max Planck Society]]"
   - "[[Fraunhofer Society Model]]"
@@ -50,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-27
-updated: 2026-10-11
+updated: 2026-10-15
 ---
 
 # Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung
@@ -101,7 +100,7 @@ updated: 2026-10-11
 
 > [!finding-cards] BLK 模式在[[Knowledge Transfer|知识转移]]维度的经验与教训
 > - **为德国[[Transfer Science|转移科学]]提供了首批系统经验标本**
->   正如韦罗妮卡·玛尼修斯与尼尔斯·范[[Peter A. Hall|霍尔]]特（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, p. 9]]）指出，早在大规模引入“新治理”外部督导与全域统考之前的 15 至 20 年间，德语区关于知识转移的政策推进主要就是依托 BLK 的模型试验方案完成的。学界对 [[SINUS]] 和 [[Chemie im Kontext|CHiK]] 等 BLK 项目的全程追踪，为解剖“转移对象特征”（Transfergegenstand）与微观教研网络运作提供了不可替代的历史基石（Nickolaus & Gräsel, 2006）。
+>   正如韦罗妮卡·玛尼修斯与尼尔斯·范霍尔特（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, p. 9]]）指出，早在大规模引入“新治理”外部督导与全域统考之前的 15 至 20 年间，德语区关于知识转移的政策推进主要就是依托 BLK 的模型试验方案完成的。学界对 [[SINUS]] 和 [[Chemie im Kontext|CHiK]] 等 BLK 项目的全程追踪，为解剖“转移对象特征”（Transfergegenstand）与微观教研网络运作提供了不可替代的历史基石（Nickolaus & Gräsel, 2006）。
 > - **“试验孤岛”与“规模化扩散陷阱”的制度反思**
 >   实证研究亦揭示出 BLK 模式的结构性困境：多数模型试验在享受专项资助、高校专家密集进驻与优秀骨干教师聚集时成效显著；但一旦资助周期结束或尝试向普通非试点学校推广时，往往因缺乏中层研训机构的制度化承接而陷入“试验田繁荣、全域贫瘠”的扩散断裂，这一教训直接倒逼德国学界在 2010 年代后确立了以中层制度化研训为枢纽的转移科学纲领。
 

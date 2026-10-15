@@ -9,7 +9,7 @@ aliases:
 summary: "在高度竞争性科研资助、同行评审可行性偏见与短周期考评约束下，科研人员与资助机构系统性偏向选择高确定性、短期可见的渐进型研究，极力规避长周期、高失败率之颠覆性探索的制度性行为偏好。"
 type: concept
 domain: "higher-education"
-related_count: 23
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[Paradigm]]"
   - "[[Falsification]]"
-  - "[[Document]]"
   - "[[Return on Investment]]"
   - "[[Soft-Money Faculty Model]]"
   - "[[Scientific Autarky]]"
@@ -52,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-03
+updated: 2026-10-15
 ---
 
 # Academic Risk Aversion
@@ -141,7 +140,7 @@ updated: 2026-10-03
 > 揭示微观考核压力与低中标率如何迫使学术新星放弃高风险创新。
 
 > [!claim] [[Richard C. Atkinson|Atkinson, R. C.]]; Blanpied, W. A.
-> **稀缺资金竞争倒逼学者提交安全型项目并加剧论文平庸化** 理查德·C·阿特金森（Richard C. Atkinson）与威廉·A·布兰皮德（William A. Blanpied）指出，面对多数学科联邦经费增长停滞及极低的中标率（如 [[National Science Foundation|NSF]] 总体资助率约为 30%，新毕业博士申请资助率仅约 20%），大学顶尖青年学者在 2 至 3 年启动资金耗尽后，为了在长聘考核与课题续期中生存，往往主动进行选题自我审查，选择申报高把握、低风险的“安全”课题；其直接后果是科学[[Document|文献]]中充斥着平庸琐碎的研究成果，除拉长作者的发表篇目外几乎缺乏实质科学突破价值。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 44–45)]]
+> **稀缺资金竞争倒逼学者提交安全型项目并加剧论文平庸化** 理查德·C·阿特金森（Richard C. Atkinson）与威廉·A·布兰皮德（William A. Blanpied）指出，面对多数学科联邦经费增长停滞及极低的中标率（如 [[National Science Foundation|NSF]] 总体资助率约为 30%，新毕业博士申请资助率仅约 20%），大学顶尖青年学者在 2 至 3 年启动资金耗尽后，为了在长聘考核与课题续期中生存，往往主动进行选题自我审查，选择申报高把握、低风险的“安全”课题；其直接后果是科学文献中充斥着平庸琐碎的研究成果，除拉长作者的发表篇目外几乎缺乏实质科学突破价值。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 44–45)]]
 
 ---
 
@@ -171,7 +170,7 @@ updated: 2026-10-03
 > [!dev-timeline] 学术避险机制演进脉络
 > - **1945–1960s — 战后科学契约的冒险绿洲假定** 《[[Science, The Endless Frontier 1945|布什报告]]》确立国家财政无条件支持大学自由探索，预设大学是最少受到即时功利与短期成败考核制约的探索绿洲。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 5)]]
 > - **1970s–1980s — [[Soft-Money Faculty Model|软钱教职模式]]普及与资助竞争抬头** 战后高校大规模扩张后联邦经常性预算收紧，大学开始广泛采用软钱岗位与管理费扣取机制，学者个人生计与项目中标率深度绑定。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 30–31)]]
-> - **1990s–2000s — 同行评审可行性偏见固化与[[Document|文献]]平庸化** 随着自然科学各领域竞争加剧，评审委员会将“[[Pilot Testing|预实验]]完备性”奉为圭臬；阿特金森与布兰皮德揭示青年教师在 2–3 年启动金耗尽后集体退守“安全课题”，文献平庸化成为系统性顽疾。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 44–45)]]
+> - **1990s–2000s — 同行评审可行性偏见固化与文献平庸化** 随着自然科学各领域竞争加剧，评审委员会将“[[Pilot Testing|预实验]]完备性”奉为圭臬；阿特金森与布兰皮德揭示青年教师在 2–3 年启动金耗尽后集体退守“安全课题”，文献平庸化成为系统性顽疾。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 44–45)]]
 > - **2010s 至今 — 科学经济学批判与新型资助机制探索** 科学经济学界系统批判商场化大学与学术避险主义，催生了霍华德·休斯医学研究所（HHMI）“资助人而非项目（people, not projects）”模式、[[National Institutes of Health|NIH]] 院长开拓者奖以及各种高风险高回报（High-Risk High-Reward）专项基金改革。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 32)]]
 
 ---
@@ -201,7 +200,7 @@ updated: 2026-10-03
 >
 > | 观察情境 / 研究 | 样本与分析对象 | 核心考察维度 | 原始统计与制度发现 | 解释边界与政策启示 |
 > |---|---|---|---|---|
-> | [[Argument_Atkinson_2008_TIS\|Atkinson & Blanpied (2008, pp. 44–45)]] | 全美[[Research Universities\|研究型大学]]自然科学与工程学部青年教师群像 | 课题资助中标率与选题避险行为 | [[National Science Foundation\|NSF]] 总体中标率跌至约 30%，新毕业博士首申资助率跌至约 20%；顶尖大学仅能提供 2 至 3 年启动金，青年学者在启动金耗尽后面临解组压力，被迫放弃高风险颠覆性假说并申报渐进安全项目 | 实证揭示极度竞争压力下的微观考核直接扭曲了学者行使探索自由的行为取向，诱发[[Document\|文献]]平庸化 |
+> | [[Argument_Atkinson_2008_TIS\|Atkinson & Blanpied (2008, pp. 44–45)]] | 全美[[Research Universities\|研究型大学]]自然科学与工程学部青年教师群像 | 课题资助中标率与选题避险行为 | [[National Science Foundation\|NSF]] 总体中标率跌至约 30%，新毕业博士首申资助率跌至约 20%；顶尖大学仅能提供 2 至 3 年启动金，青年学者在启动金耗尽后面临解组压力，被迫放弃高风险颠覆性假说并申报渐进安全项目 | 实证揭示极度竞争压力下的微观考核直接扭曲了学者行使探索自由的行为取向，诱发文献平庸化 |
 > | [[Argument_Stephan_2013_NBER\|Stephan (2013, p. 31)]] | [[National Institutes of Health\|美国国立卫生研究院]]（NIH）R01 基金申请人与生命科学实验室 | 标书提交时的实质完成度 | 知名生命科学家与评审专家调查证实，获得资助的申请书中，三个核心研究目标通常有两个在标书提交前已在实验室内实质完成 | 证实同行评审过度偏重技术可行性与完备[[Pilot Testing\|预实验]]数据，使未完成的高风险探索无法获得支持 |
 > | [[Argument_Stephan_2013_NBER\|Stephan (2013, pp. 28, 30)]] | 美国研究型大学医学院科研人员薪酬结构 | 软钱薪资依赖度 | 医学院教师 60%–80% 的个人基本工资依赖外部科研项目提成（软钱），科研中断直接导致个人降薪甚至失业 | 表明个人生计威胁是驱动学者采取极端避险策略的最强微观经济诱因 |
 
@@ -209,6 +208,6 @@ updated: 2026-10-03
 
 ## 相关研究
 
-> [!evidence-grid] 相关[[Document|文献]]索引
+> [!evidence-grid] 相关文献索引
 > - [[Argument_Atkinson_2008_TIS|Atkinson & Blanpied (2008)]] — 从资助率持续走低（[[National Science Foundation|NSF]] 总体 30%、青年博士 20%）与青年学者 2–3 年启动金耗尽压力切入，阐明科研人员主动选择“安全课题”以维持生存的避险逻辑及其导致的文献平庸化代价。
 > - [[Argument_Stephan_2013_NBER|Stephan (2013)]] — 科学经济学经典文献，将学术避险主义列为战后科研体系异化的首要结构性危机，深入剖析同行评审可行性偏见、标书实质完成度潜规则与软钱求生压力对开创性探索的扼杀机制。

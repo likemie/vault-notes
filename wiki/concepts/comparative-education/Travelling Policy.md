@@ -8,10 +8,10 @@ aliases:
 summary: "在比较教育与政策分析中，指代全球化背景下教育改革模型脱离原有社会脉络，通过国际组织和政策网络在跨国空间中多维循环，并在不同本土情境中被不断转译、重新合法化和变形的非线性流变过程。"
 type: concept
 domain: "comparative-education"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 theory_related_count: 4
 theory_related_level: 1
 theory_related_stars: "⭐"
@@ -23,14 +23,13 @@ tags:
   - theme/globalization
   - region/global
 related_concepts:
-  - "[[Transfer Translation Transformation]]"
   - "[[Policy Mobility]]"
   - "[[Discourse]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Creativity]]"
   - "[[Policy Network]]"
   - "[[Policy Borrowing]]"
-  - "[[Hypothesis]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Global Policy Space]]"
   - "[[Recontextualization]]"
   - "[[Policy Entrepreneur]]"
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-11
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Travelling Policy
@@ -61,7 +60,7 @@ updated: 2026-10-07
 ## 定义
 
 > [!def] 核心定义
-> 旅途政策（Travelling Policy，亦称旅途改革 travelling reforms）是全球化时代比较教育政策转移研究的核心概念。它指的是特定的教育改革方案（如“以学生为中心”的教学法或“能力本位”课程）脱离了其原有的社会和历史脉络，在跨国政策空间中进行多维循环，并在不同本土情境中被不断解构、[[Transfer Translation Transformation\|转译]]（translation）和重新合法化的非线性流变过程。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 424–425]])
+> 旅途政策（Travelling Policy，亦称旅途改革 travelling reforms）是全球化时代比较教育政策转移研究的核心概念。它指的是特定的教育改革方案（如“以学生为中心”的教学法或“能力本位”课程）脱离了其原有的社会和历史脉络，在跨国政策空间中进行多维循环，并在不同本土情境中被不断解构、转译（translation）和重新合法化的非线性流变过程。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 424–425]])
 
 > [!concept-lens] 概念透镜
 > - **非线性流动** 否定了传统线性“输入-输出”或简单“借用-出借”的双边对称模式，认为[[Policy Mobility\|政策流动]]是多向、网格式且难以预测的流变过程。(引自 [[Argument_Beech_2009_CE\|Beech, 2009]])
@@ -79,7 +78,7 @@ updated: 2026-10-07
 > | 维度 | Travelling Policy (旅途政策) | [[Policy Borrowing\|Policy Borrowing (政策借用)]] | [[Transfer Translation Transformation\|3T 框架 (Cowen)]] |
 > |------|----------------------------|-------------------------------------------------|----------------------------------------------------|
 > | **流动路径** | [[Snowball Sampling\|网络化]]、多边、非线性、无固定源头。 | 双边、线性、有明确的源头与目的地。 | 跨境移动（转移）后在目的地转译与转化。 |
-> | **空间[[Hypothesis\|假设]]** | **[[Global Policy Space\|全球政策空间]]**/流动的空间。 | 国家间独立地理实体边界。 | 领土物理空间与社会空间叠合。 |
+> | **空间假设** | **[[Global Policy Space\|全球政策空间]]**/流动的空间。 | 国家间独立地理实体边界。 | 领土物理空间与社会空间叠合。 |
 > | **核心机制** | 全球流动[[Discourse\|话语]]的多维循环与网格转译。 | 寻求外部“方案”来解决国内“问题”。 | 政策在结构性社会挤压下的“变形”。 |
 > | **代表学者** | Ozga & Jones (2006); Steiner-Khamsi (2012)。 | Phillips & Ochs (2003)。 | [[Argument_Cowen_2009_CE\|Cowen (2009)]]; [[Argument_Beech_2009_CE\|Beech (2009)]]。 |
 
@@ -108,7 +107,7 @@ updated: 2026-10-07
 
 ### 命题一　旅途政策并非简单的制度复制，而是本土政治力量借用全球话语进行“二次创作”的转译过程
 
-> [!concept-lens] 政策[[Transfer Translation Transformation\|转译]]与本土博弈
+> [!concept-lens] 政策转译与本土博弈
 > 这一命题分析为何同一政策模型在不同国家呈现出完全相异的实践面貌。
 
 > [!claim] [[Gita Steiner-Khamsi\|Steiner-Khamsi, G.]] et al.

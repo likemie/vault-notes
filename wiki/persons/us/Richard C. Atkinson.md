@@ -9,7 +9,7 @@ summary: "美国认知心理学家、科学政策制定者与高等教育领袖�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 21
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[University-Industry Collaboration]]"
   - "[[Import Substitution Industrialisation]]"
-  - "[[Document]]"
   - "[[Congressional Earmarks]]"
   - "[[Technology Transfer]]"
   - "[[Critical Thinking]]"
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-02
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Richard C. Atkinson
@@ -89,7 +88,7 @@ updated: 2026-10-12
 
 ## 主要著作与思想发展
 
-> [!work-line] 主要著作与政策[[Document|文献]]
+> [!work-line] 主要著作与政策文献
 > - **1968 — *Human Memory: A Proposed System and Its Control Processes***（with R. M. Shiffrin）提出将人类记忆划分为感觉记忆、短时记忆和长时记忆的三阶段理论模型，成为认知科学奠基之作。
 > - **1990 — *Supply and Demand for Scientists and Engineers: A National Crisis in the Making*** 预警美国科学与工程高层次拔尖创新人才供需结构失衡与国家科技人力资源战略危机。
 > - **1992 — *Equilibrium in the [[Research Universities|Research University]]***（with D. Tuzin）首次系统剖析现代研究型大学面临的科研经费学科倾斜、青年学者项目申请负担与机构运转失衡难题。

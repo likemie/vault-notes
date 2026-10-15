@@ -6,7 +6,7 @@ aliases:
 summary: "Cole et al. (2015) 开发的半结构化访谈与焦点小组工具，用于收集教师、学生和行政人员对 ToK 课程和批判性思维教学的看法"
 type: instrument
 instrument_type: interview-tool
-instrument_related_count: 11
+instrument_related_count: 10
 instrument_related_level: 2
 instrument_related_stars: "⭐⭐"
 instrument_related_color: "#fce7f3"
@@ -34,7 +34,6 @@ related_theories: []
 related_methods:
   - "[[Focus Group]]"
   - "[[Semi-structured Interview]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Triangulation]]"
 related_instruments: []
@@ -45,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-01
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # ToK Interview and Focus Group Protocol
@@ -69,7 +68,7 @@ updated: 2026-09-22
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
 > |---|---|---|---|
-> | ToK 课程体验 | 4 | ToK 的有效性、改进方向、个人意义、与 [[International Baccalaureate\|IB]] 学习的关系 | 定性[[Coding in Qualitative Research\|编码]] |
+> | ToK 课程体验 | 4 | ToK 的有效性、改进方向、个人意义、与 [[International Baccalaureate\|IB]] 学习的关系 | 定性编码 |
 > | 批判性思维理解 | 7 | 批判性思维的定义、可教性、要素、特质、标准、效用、必要技能 | 定性编码 |
 > | CT and ToK 的关联 | 3 | CT and ToK 的关系、CT 在 ToK 中的评价方式、CT 改进路径 | 定性编码 |
 > | 课堂[[Praxis\|实践]]与态度 | 4 | CT 在课堂中的诱发方式、学校对 CT/ToK 的态度、好课标准、自我评价 | 定性编码 |

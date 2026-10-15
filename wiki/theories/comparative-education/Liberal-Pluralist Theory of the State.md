@@ -9,7 +9,7 @@ aliases:
 summary: "主流西方政治学与正统教育政策分析的基石国家范式，假定国家是超越生产关系与社会阶级结构的自主政治实体与中立裁判者，将公立教育界定为国家提供给全体公民的均质公共品，遭到马克思主义与批判教育政治社会学关于阶级霸权与资本积累矛盾的根本性解构"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 15
+theory_related_count: 14
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -22,7 +22,6 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Construct]]"
-  - "[[Hypothesis]]"
   - "[[Technical Rationality]]"
   - "[[Return on Investment]]"
   - "[[Disciplina and Doctrina]]"
@@ -44,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-09-28
+updated: 2026-10-15
 ---
 
 # Liberal-Pluralist Theory of the State
@@ -82,7 +81,7 @@ updated: 2026-09-28
 > |:-----|:-----|:--------------|
 > | 中立裁判者（Neutral Referee） | [[Construct\|构念]] | 设定国家在阶级与利益集团冲突中不偏不倚，仅负责程序公正。 |
 > | 共同社会产品（Common Social Goods） | 概念 | 将国防、司法与公共教育视为全体公民共享的无排他性公共福利。 |
-> | 利益集团竞争（Interest Group [[Pluralism]]） | 机制 | [[Hypothesis\|假设]]不同社会力量均有平等的组织与抗辩渠道，政策是妥协的均衡解。 |
+> | 利益集团竞争（Interest Group [[Pluralism]]） | 机制 | 假设不同社会力量均有平等的组织与抗辩渠道，政策是妥协的均衡解。 |
 
 ---
 

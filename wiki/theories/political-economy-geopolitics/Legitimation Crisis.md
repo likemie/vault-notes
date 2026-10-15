@@ -18,9 +18,9 @@ tags:
   - theme/legitimation
   - theme/public-goods
 related_concepts:
-  - "[[Attrition]]"
   - "[[Innovation Desert]]"
   - "[[Technological Republic]]"
+  - "[[Attrition]]"
   - "[[Institutional Displacement]]"
   - "[[Intellectual Capital]]"
   - "[[Red Tape]]"
@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-12
+updated: 2026-10-16
 ---
 
 # Legitimation Crisis
@@ -55,7 +55,7 @@ updated: 2026-10-12
 ## 理论定位
 
 > [!theory-position] 理论定位
-> - **解释对象** 现代民主与晚期资本主义国家中，行政系统在经济干预、技术资源配置与社会大众忠诚维系之间产生的结构性断裂与政治合法性[[Attrition|流失]]。
+> - **解释对象** 现代民主与晚期资本主义国家中，行政系统在经济干预、技术资源配置与社会大众忠诚维系之间产生的结构性断裂与政治合法性流失。
 > - **理论问题** 解释为何单纯的经济增长与技术生产力飞跃无法自动保障政体稳定，当技术红利被私人资本垄断而公共品供给匮乏时，政权公信力为何陷入系统性衰退。
 > - **理论类型** 批判社会理论、政治经济学危机理论、国家治理与公共政策[[Analytic Framework|分析框架]]。
 > - **知识位置** 承袭法兰克福学派[[Critical Theory|批判理论]]传统，拓展了经典马克思主义经济危机论，将分析重心转向政治行政系统与文化社会生活界面的合法化困境。
@@ -90,7 +90,7 @@ updated: 2026-10-12
 > |:-----|:-----|:--------------|
 > | **合法化系统（Legitimation System）** | 概念 | 国家通过制度承诺、意识形态与公共品供给维系社会大众普遍忠诚与政治服从的体制机制。 |
 > | **可普遍化利益（Generalizable Interests）** | 概念 | 区别于个别集团或私人资本私利的、全体公民共同享有的根本性公共利益（如国家安全、公共健康、公平教育）。 |
-> | **大众忠诚[[Attrition\|流失]]（Loyalty Attrition）** | 机制 | 当公众感知到制度承诺落空、公共治理失效时，对政体的主动认同降至冷漠、质疑甚至公开反抗的过程。 |
+> | **大众忠诚流失（Loyalty [[Attrition]]）** | 机制 | 当公众感知到制度承诺落空、公共治理失效时，对政体的主动认同降至冷漠、质疑甚至公开反抗的过程。 |
 > | **危机置换（Crisis [[Institutional Displacement\|displacement]]）** | 机制 | 国家通过财政补贴与技术干预暂时压制经济危机，却导致矛盾向行政理性危机与政治合法化危机转移。 |
 > | **[[Innovation Desert\|创新荒漠]]** | 衍生构件 | 因公共部门防卫型官僚主义与私人资本避险而导致的公共服务技术停滞形态，直接加剧合法化赤字。 |
 
@@ -98,7 +98,7 @@ updated: 2026-10-12
 
 ## 核心命题
 
-> [!theory-proposition] 命题一｜私人利益对技术增长的垄断必然诱发大众忠诚[[Attrition|流失]]
+> [!theory-proposition] 命题一｜私人利益对技术增长的垄断必然诱发大众忠诚流失
 > **解释** [[Jürgen Habermas|哈贝马斯]]指出，即便国家机器成功提高了劳动生产率并维持了经济总量的无危机增长，但如果这一增长优先满足的是私人商业集团的狭隘目标，而非全人口的可普遍化利益，大众对现行政体的忠诚度依然会发生结构性流失。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Habermas, 1975, p. 73)]]
 >
 > **应用实例** 当代硅谷将数百亿美元顶尖[[Intellectual Capital|智力资本]]与算力投入于在线广告精准投放与短视频算法，使得商业巨头利润激增，然而公共医疗分配迟滞、基础教育基础设施落后、国防采办周期漫长，导致公众对民主治理效能产生普遍信任危机。

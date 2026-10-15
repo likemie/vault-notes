@@ -8,7 +8,7 @@ summary: "社会心理学创始人之一、行动研究的奠基人，提出群�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 12
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -33,16 +33,14 @@ related_theories:
   - "[[Luhmann's Systems Theory]]"
 related_methods:
   - "[[Action Research]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Participatory Action Research]]"
   - "[[Experimental Research]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
-related_persons:
-  - "[[Isaiah Berlin]]"
+related_persons: []
 status: draft
 created: 2026-07-18
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 # Kurt Lewin
 
@@ -51,7 +49,7 @@ updated: 2026-10-08
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 德裔美国社会心理学家（1890–1947），先后任教于[[Isaiah Berlin|柏林]]大学、康奈尔大学、艾奥瓦大学和麻省理工学院，在 MIT 创立群体动力学研究中心（Research Center for Group Dynamics）。
+> - **身份位置** 德裔美国社会心理学家（1890–1947），先后任教于柏林大学、康奈尔大学、艾奥瓦大学和麻省理工学院，在 MIT 创立群体动力学研究中心（Research Center for Group Dynamics）。
 > - **核心角色** [[Action Research\|行动研究]]的两位奠基人之一（与 Corey 并列）；社会心理学创始人之一；群体动力学、力场分析和变革管理理论的创立者。
 > - **代表贡献** 提出行动研究的"计划—行动—观察—反思"螺旋模型；创立力场分析和变革三步模型（unfreezing → moving → refreezing）；开创群体决策和参与式管理研究。
 
@@ -66,7 +64,7 @@ updated: 2026-10-08
 
 > [!timeline] 生平与职涯
 > - **1890** 出生于普鲁士莫吉尔诺（今波兰境内）的犹太家庭。
-> - **1916** 在[[Isaiah Berlin|柏林]]大学获心理学博士学位，师从格式塔心理学家 Carl Stumpf。
+> - **1916** 在柏林大学获心理学博士学位，师从格式塔心理学家 Carl Stumpf。
 > - **1921–1933** 在柏林大学心理学研究所任教，与格式塔心理学派（Wertheimer、Köhler、Koffka）密切合作，发展场论（[[Champ\|field]] theory）。
 > - **1933** 因纳粹上台移居美国，先后在康奈尔大学和艾奥瓦大学儿童福利研究所工作。
 > - **1944** 在麻省理工学院（MIT）创立群体动力学研究中心。
@@ -79,7 +77,7 @@ updated: 2026-10-08
 
 > [!thought-timeline] 思想发展
 > - **1910s–1930s — 格式塔心理学与场论**
->   在[[Isaiah Berlin|柏林]]大学期间，勒温将格式塔心理学的整体性原则扩展到社会行为和动机领域。
+>   在柏林大学期间，勒温将格式塔心理学的整体性原则扩展到社会行为和动机领域。
 >   - **代表著作** *A Dynamic Theory of Personality*（1935）; *Principles of Topological Psychology*（1936）
 >   - **关键概念／方法** 场论（行为是人与环境的函数: B = f(P, E)）、生活空间（life space）、拓扑心理学
 >   - **阶段转向** 从个体心理动力学转向群体和社会行为研究
@@ -99,7 +97,7 @@ updated: 2026-10-08
 ## 核心思想
 
 > [!claim] 勒温的核心主张：研究必须与行动结合以改变社会现实
-> 勒温的根本信念是：社会研究不应只是描述现实，而应成为改变现实的工具。[[Action Research\|行动研究]]将研究者的分析能力与实践者的行动能力相结合，通过"计划—行动—观察—反思"的螺旋循环，在解决真实社会问题（如住房、就业、偏见）的过程中同时产生知识和变革。他将行动研究[[Coding in Qualitative Research\|编码]]为一种"理性社会管理"——计划、行动和关于行动结果之查证的螺旋（Lewin, 1948, p. 205）。
+> 勒温的根本信念是：社会研究不应只是描述现实，而应成为改变现实的工具。[[Action Research\|行动研究]]将研究者的分析能力与实践者的行动能力相结合，通过"计划—行动—观察—反思"的螺旋循环，在解决真实社会问题（如住房、就业、偏见）的过程中同时产生知识和变革。他将行动研究编码为一种"理性社会管理"——计划、行动和关于行动结果之查证的螺旋（Lewin, 1948, p. 205）。
 
 > [!citation-card]- 关键表述
 > "理性社会管理"可被视为计划、行动和关于所采取行动结果之查证的螺旋。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|(Cohen et al., 2011, p. 280, citing Lewin, 1948, p. 205)]]
@@ -133,7 +131,7 @@ updated: 2026-10-08
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Action Research]] | 方法 | 奠基人——提出计划—行动—观察—反思的螺旋循环模型（1946），将研究[[Coding in Qualitative Research\|编码]]为"理性社会管理" |
+> | [[Action Research]] | 方法 | 奠基人——提出计划—行动—观察—反思的螺旋循环模型（1946），将研究编码为"理性社会管理" |
 > | 力场分析（Force [[Champ\|field]] Analysis） | 方法 | 创立——分析变革情境中推动力和阻力之间的动态平衡 |
 > | [[Participatory Action Research]] | 方法 | 思想渊源——关注弱势和边缘群体（Kemmis & McTaggart 将合作性定位在勒温对群体决策的承诺中） |
 > | 群体动力学（Group Dynamics） | 概念 | 创立——开创群体决策、群体规范和群体凝聚力的[[Experimental Research\|实验研究]] |

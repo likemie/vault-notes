@@ -7,7 +7,7 @@ aliases:
 summary: "指贯穿个体全生命周期的持续性、适应性与累积性学习过程。在人本主义视阈下涵盖支撑健康、理性协商与社会文化基础设施的全人发展生态；在经合组织等主导的知识经济与学习型经济中，则被重塑为应对知识快速折旧、以掌握实践诀窍（knowing how）为核心的生产力生存命令与可测倾向。"
 type: concept
 domain: "educational-philosophy"
-related_count: 67
+related_count: 65
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -51,7 +51,6 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Theoretical Knowledge]]"
   - "[[Praxis]]"
-  - "[[Document]]"
   - "[[Variable]]"
   - "[[International Education]]"
 related_theories:
@@ -60,7 +59,6 @@ related_theories:
   - "[[Spatial Governmentality]]"
   - "[[Governmentality]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Cohort Study]]"
   - "[[Questionnaire]]"
   - "[[Correlational Research]]"
@@ -94,7 +92,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-07
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Lifelong Learning
@@ -196,7 +194,7 @@ updated: 2026-10-14
 > 超国家教育治理（如[[European Education Space|欧洲教育空间]]）将终身学习构型与[[Student Mobility|学生流动性]]深度嵌套，使跨国流动从早期的文化交融与欧洲公民认同培育，转变为个体终身维持人力资本与就业[[Competitiveness|竞争力]]的战略工具。
 
 > [!claim] [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] & Papatsiba (2005)
-> **终身学习对流动性的工具化吸纳与新自由主义就业规训** 索贝与菲舍尔（Noah W. Sobe & Trevor Fischer, 2009, pp. 362–363）援引瓦西莉基·帕帕齐巴（Vassiliki Papatsiba, 2005）的批判考证指出，欧盟通过“终身学习计划 2007–2013”（LLP）将伊拉斯谟（[[Erasmus Programme|ERASMUS]]）等跨国流动项目全面整合进终身学习政策伞下，标志着流动性质的根本转型。流动不再仅仅关乎文化探索或政治一体化，而是被重新[[Coding in Qualitative Research|编码]]为个体必须具备的终身学习核心技能与就业胜任力（Employability）。在这种超国家空间[[Governmentality|治理术]]下，宏观经济与劳动力市场的结构性动荡风险被系统性地个体化：个体被要求通过终身跨国流动展现持续的适应性与灵活性，流动的缺席则被归咎为个人的技能缺陷与自我投资不足。
+> **终身学习对流动性的工具化吸纳与新自由主义就业规训** 索贝与菲舍尔（Noah W. Sobe & Trevor Fischer, 2009, pp. 362–363）援引瓦西莉基·帕帕齐巴（Vassiliki Papatsiba, 2005）的批判考证指出，欧盟通过“终身学习计划 2007–2013”（LLP）将伊拉斯谟（[[Erasmus Programme|ERASMUS]]）等跨国流动项目全面整合进终身学习政策伞下，标志着流动性质的根本转型。流动不再仅仅关乎文化探索或政治一体化，而是被重新编码为个体必须具备的终身学习核心技能与就业胜任力（Employability）。在这种超国家空间[[Governmentality|治理术]]下，宏观经济与劳动力市场的结构性动荡风险被系统性地个体化：个体被要求通过终身跨国流动展现持续的适应性与灵活性，流动的缺席则被归咎为个人的技能缺陷与自我投资不足。
 
 ---
 
@@ -213,7 +211,7 @@ updated: 2026-10-14
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | [[Praxis\|实践]]机制与政策含义 | 代表[[Document\|文献]] / 来源 |
+> | 命题类型 | 核心指向 | [[Praxis\|实践]]机制与政策含义 | 代表文献 / 来源 |
 > |---|---|---|---|
 > | **政策借用与修辞合法化** | 终身学习被用作外部化国内矛盾与推动争议改革的话语工具，人本主义内核在多边金融机构主导下遭遇工具主义异化 | 批判性审视国家政策借用与国际多边治理[[Paradigm\|范式]]转型 | [[Argument_Yan_2025_JCS\|Yan & Morris (2025)]]; Elfert (2015); [[Robert Arnove\|Arnove (2009)]] |
 > | **社会文化基础设施定位** | 终身科学参与构成与绿地、图书馆并列的核心公共品 | 建立政府采购 10% 社会价值与财税激励平权机制 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|The Royal Society (2026, p. 43)]] |

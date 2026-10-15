@@ -10,7 +10,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 6
+fact_related_count: 5
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#fef3c7"
@@ -24,8 +24,7 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Innovation Park]]"
   - "[[Placemaking]]"
-related_theories:
-  - "[[Theory of Mind]]"
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
@@ -35,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-05-28
+updated: 2026-10-15
 ---
 
 # Tech Square at Georgia Tech
@@ -57,6 +56,6 @@ updated: 2026-05-28
 
 > [!success]
 > - Tech Square 经历了两次严重的经济衰退和一场全球疫情——后者不仅打乱了商业房地产市场，也永久改变了美国劳动者的心理——但仍保持了活力和韧性。[[TUFF]] 认为，这是通过成功的文化建设、长期投资和真正响应式的[[Placemaking\|场所营造]]实现的（p.139）
-> - TUFF 的 [[Theory of Mind\|ToM]] Hall 在 Tech Square 创新了"非传统激活"（unconventional activation）概念——通过乐高搭建比赛、知识问答、桌游、Taco Tuesday 等活动，让研究人员和企业人士在非正式场景中建立真实的人际关系（pp.136–137）
+> - TUFF 的 ToM Hall 在 Tech Square 创新了"非传统激活"（unconventional activation）概念——通过乐高搭建比赛、知识问答、桌游、Taco Tuesday 等活动，让研究人员和企业人士在非正式场景中建立真实的人际关系（pp.136–137）
 > - TUFF 的口号"密度就是命运"（density is destiny）在 Tech Square 得到最直接的验证（p.136）
 

@@ -8,7 +8,7 @@ summary: "行动研究中最激进的一支，以哈贝马斯批判理论为认�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 31
+method_related_count: 29
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -29,14 +29,12 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Teacher-as-Researcher]]"
   - "[[Positivism]]"
-  - "[[Hypothesis]]"
   - "[[Typification]]"
   - "[[Critical Thinking Disposition]]"
   - "[[Humility]]"
   - "[[Theoretical Perspective]]"
   - "[[Discourse]]"
   - "[[Dialogue in Education]]"
-  - "[[Document]]"
 related_theories:
   - "[[Critical Theory]]"
   - "[[Knowledge Building Theory]]"
@@ -166,7 +164,7 @@ updated: 2026-10-15
 > 3. **选择研究对象** 识别需要批判审视的具体实践、制度或关系。
 > 4. **获取多样研究策略** 掌握多种数据收集和分析方法，使研究不被单一方法论限制。
 > 5. **理解所收集信息** 将数据放回社会和政治语境中解释。
-> 6. **获得对默会理论和[[Hypothesis\|假设]]的意识** 揭示平时不被质疑的、指导实践的前设。
+> 6. **获得对默会理论和假设的意识** 揭示平时不被质疑的、指导实践的前设。
 > 7. **将教学视为解放性的、以实践为基础的行动** 将教学重新框架化为解放性实践。
 
 ### 理想言说情境
@@ -193,7 +191,7 @@ updated: 2026-10-15
 ## 解放性行动研究的障碍
 
 > [!warning] 祖伯-斯凯里特（Zuber-Skerritt, 1996b, p. 90）识别的四个主要障碍
-> - **单环学习而非双环学习** 只解决表层问题而不质疑前提[[Hypothesis\|假设]]，无法触及根本的结构性约束
+> - **单环学习而非双环学习** 只解决表层问题而不质疑前提假设，无法触及根本的结构性约束
 > - **过度依赖专家或上级** 独立思考和表达被权威压制
 > - **效率导向而非研究开发导向** 缺乏反思和提问的空间
 > - **关注操作性思维而非战略性思考** 被日常事务束缚，无法进行系统和长远的批判分析
@@ -210,7 +208,7 @@ updated: 2026-10-15
 
 > [!critique-logic] 逻辑与概念矛盾
 > - **三分[[Typification\|类型化]]站不住脚** 技术性—实践性—解放性的三分法过于简化行动研究的多样性，三种类型之间边界模糊，实际研究常同时包含多种取向
-> - **非批判和自相矛盾** 标榜[[Critical Thinking Disposition\|批判精神]]，却拒绝将同样的批判标准应用于自身的前提[[Hypothesis\|假设]]
+> - **非批判和自相矛盾** 标榜[[Critical Thinking Disposition\|批判精神]]，却拒绝将同样的批判标准应用于自身的前提假设
 > - **假设行动研究的无差别观** 将多种形式的行动研究视为同质整体，忽视不同流派之间的根本差异
 > - **试图殖民和重定向行动研究** 以[[Critical Theory\|批判理论]]的名义重新定义行动研究，将原本属于实践者的方法纳入学术理论家的控制范围
 > - **乌托邦性和不可实现** 改变社会宏观结构的目标过于宏大，缺乏实现路径和可验证的中间步骤
@@ -258,4 +256,4 @@ updated: 2026-10-15
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|Cohen et al. (2011, Ch. 18)]] — 系统阐述了解放性[[Action Research\|行动研究]]的三分类型学定位、祖伯-斯凯里特（Zuber-Skerritt）四步循环和金奇洛（Kincheloe）七步过程、[[Ideal Speech Situation\|理想言说情境]]的六个前提、两个阵营的分化以及来自多位批评者的 17 条批评，是理解该方法的核心[[Document\|文献]]。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|Cohen et al. (2011, Ch. 18)]] — 系统阐述了解放性[[Action Research\|行动研究]]的三分类型学定位、祖伯-斯凯里特（Zuber-Skerritt）四步循环和金奇洛（Kincheloe）七步过程、[[Ideal Speech Situation\|理想言说情境]]的六个前提、两个阵营的分化以及来自多位批评者的 17 条批评，是理解该方法的核心文献。

@@ -6,7 +6,7 @@ aliases:
 summary: "在量化实验研究中可能混淆自变量与因变量之间真实因果关系的系统性偏差来源，Campbell and Stanley 经典框架列出十种主要威胁，Onwuegbuzie and Leech 将其扩展至质性研究中的十二种威胁"
 type: concept
 domain: "research-methodology"
-related_count: 29
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Type I and Type II Errors]]"
   - "[[Attrition]]"
   - "[[Null Hypothesis]]"
-  - "[[Hypothesis]]"
   - "[[Descriptive Validity]]"
   - "[[Hawthorne Effect]]"
   - "[[Positivism]]"
@@ -48,7 +47,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
 status: draft
 created: 2026-06-23
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 # Threats to Internal Validity
 
@@ -81,7 +80,7 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 >   选择极端得分的受试者，其得分自然会随时间向均值回归。应对：选择入组特征非极端得分的受试者。
 > - **选择（Selection）**
 >   受试者因具有某些特征而倾向于产生特定结果。应对：随机选择受试者，使特征在各实验组中概率均等分布。
-> - **[[Attrition\|流失]]/研究减员（Mortality/Attrition）**
+> - **流失/研究减员（Mortality/[[Attrition]]）**
 >   受试者因多种原因退出实验，其结果是未知的。应对：招募大样本以应对退出，或比较退出者与继续者的结果特征。
 > - **选择-成熟交互（Selection-maturation interaction）**
 >   实验组和对照组在成熟速度上不同，这种差异被误判为处理效应——是选择偏差与成熟效应的复合威胁。
@@ -124,7 +123,7 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 > - **工具（Instrumentation）**
 >   前测和后测之间测量工具发生变化，影响结果得分。应对：前后测使用相同的测量工具。
 > - **第一类与[[Type I and Type II Errors\|第二类错误]]（Type I and Type II errors）**
->   统计推断中拒绝真[[Null Hypothesis\|零假设]]（第一类）或接受假零[[Hypothesis\|假设]]（第二类）的决策错误。两类错误存在内在权衡——降低一类错误的风险必然增加另一类错误的风险。在 Cook & Campbell 框架中属于统计结论效度。
+>   统计推断中拒绝真[[Null Hypothesis\|零假设]]（第一类）或接受假零假设（第二类）的决策错误。两类错误存在内在权衡——降低一类错误的风险必然增加另一类错误的风险。在 Cook & Campbell 框架中属于统计结论效度。
 
 > [!example]- 程序威胁的案例
 > **测验（Testing）** 逻辑推理训练实验中，前后测使用了同一套题目。受试者后测成绩提高可能不是训练的效果，而是做前测时就记住了题目和答案。延长两次测试的时间间隔（如从一周延至两个月），或使用难度相当的平行题本，可以降低这一威胁。
@@ -157,7 +156,7 @@ Onwuegbuzie & Leech (2006b: 235–7) 将质性[[Internal Validity|内部效度]]
 > - **4. 过度合法化（Voluptuous legitimation）** 对数据的解释是否超出了研究者从数据中支持该解释的能力？例如从三个教师的访谈中推断出全国性结论——数据不足以承载这个主张。
 > - **5. [[Descriptive Validity\|描述效度]]（Descriptive validity）** 研究者所给描述的准确性——事实层面的[[Reliability\|可靠性]]。
 > - **6. 观察偏差（Observational bias）** 对研究中词语、观察或行为的不充分抽样——收集的数据太少或太窄，不足以支撑结论。
-> - **7. 研究者偏差（Researcher bias）** 研究者的偏见、[[Hypothesis\|假设]]或价值观影响数据的收集和解释。
+> - **7. 研究者偏差（Researcher bias）** 研究者的偏见、假设或价值观影响数据的收集和解释。
 > - **8. 反应性（Reactivity）** 研究在多大程度上改变了正在研究的情境或参与者——例如[[Hawthorne Effect\|霍桑效应]]和新奇效应（novelty effect）。
 > - **9. 确认偏差（Confirmation bias）** 研究倾向于确认已有发现或假设——寻找支持已有信念的证据而忽略反证。
 > - **10. 虚假确认（Illusory confirmation）** 在实际不存在关系时倾向于发现关系——过度解释数据中的偶然模式。
@@ -180,4 +179,4 @@ Onwuegbuzie & Leech (2006b: 235–7) 将质性[[Internal Validity|内部效度]]
 > | **效度标准** | 内部效度——[[Causality\|因果推断]]的可信性 | 可信性（credibility）——解释对参与者而言是否可信 |
 
 > [!note] 一个关键区别
-> [[Positivism\|实证主义]]研究将历史和成熟视为对效度的威胁，而民族志研究简单地**[[Hypothesis\|假设]]这些会发生**——民族志研究允许随时间变化，它将**变化纳入研究设计**。民族志研究还通过让观察者既广泛采样又在情境中停留足够长时间使其在场被视为理所当然来减少观察者效应（p.168）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10)]]
+> [[Positivism\|实证主义]]研究将历史和成熟视为对效度的威胁，而民族志研究简单地**假设这些会发生**——民族志研究允许随时间变化，它将**变化纳入研究设计**。民族志研究还通过让观察者既广泛采样又在情境中停留足够长时间使其在场被视为理所当然来减少观察者效应（p.168）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10)]]

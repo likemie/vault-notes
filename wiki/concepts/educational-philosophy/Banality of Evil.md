@@ -23,9 +23,9 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Pillarization]]"
   - "[[Technological Republic]]"
-  - "[[Bildung]]"
   - "[[Constructive Disobedience]]"
   - "[[Social Deafness]]"
+  - "[[Bildung]]"
   - "[[Paradigm]]"
   - "[[Variable]]"
   - "[[Positivism]]"
@@ -148,7 +148,7 @@ updated: 2026-10-12
 ### 命题三　培育批判性判断力与建设性抗命是阻断组织性平庸之恶的教育与制度解药
 
 > [!concept-lens] 制度与教育解药
-> 探讨如何通过微观行动文化建设与深层[[Bildung|教化]]传统重建对抗盲从与平庸的免疫系统。
+> 探讨如何通过微观行动文化建设与深层教化传统重建对抗盲从与平庸的免疫系统。
 
 > [!claim] [[Gert Biesta|Biesta, G.]]
 > **教育的主体化维度与判断力守护** 赫特·比斯塔基于阿伦特的政治哲学指出，真正的教育绝不仅是资格获得与社会化融入（即训练合格的合规齿轮），其最高使命在于促进学生作为独立行动主体的“主体化”（Subjectification）——即培养个体在面对群体压力与权威[[Disciplina and Doctrina|规训]]时能够停下来反思、做出自主道德判断的能动性。[[Argument_Rømer_2018_EPT|(Rømer, 2018, p. 8)]]
@@ -175,7 +175,7 @@ updated: 2026-10-12
 > - **1961–1963 — 政治哲学发端与艾希曼审判批判** [[Hannah Arendt|汉娜·阿伦特]]旁听耶路撒冷审判，发表《艾希曼在耶路撒冷》，打破传统神学与心理学对极端罪恶的“病态妖魔化”[[Paradigm|范式]]，正式奠立“平庸之恶”与“无思状态”概念范畴。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, p. 135)]]
 > - **1963–1974 — 社会心理学实验实证与代理态理论化** 斯坦利·[[Stanley Milgram|米尔格拉姆]]在耶鲁大学开展权威服从电击实验（[[Milgram Obedience Experiment|米尔格拉姆服从实验]]），以 65% 的极端服从率确立代理态理论，为平庸之恶提供了无可辩驳的微观实证支撑。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 132–135)]]
 > - **1986 — 组织行为学与高风险技术灾难反思** 挑战者号航天飞机升空解体灾难引发学界对“组织化平庸之恶”的深入剖析，揭示防卫型[[Bureaucracy|科层制]]中的合规文化与层级压力如何系统性抹杀一线工程师的关键技术警告。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 132–136)]]
-> - **2010s — 欧洲教育哲学转向与批判性[[Bildung|教化]]重构** 赫特·比斯塔与托马斯·奥斯特鲁普·勒梅尔将阿伦特的判断力理论引入 [[Bildung]] 传统，批判当代以效能度量与可见产出为导向的教育技术官僚化，捍卫学生抵抗平庸盲从的批判主体性。[[Argument_Rømer_2018_EPT|(Rømer, 2018, p. 8)]]
+> - **2010s — 欧洲教育哲学转向与批判性教化重构** 赫特·比斯塔与托马斯·奥斯特鲁普·勒梅尔将阿伦特的判断力理论引入 [[Bildung]] 传统，批判当代以效能度量与可见产出为导向的教育技术官僚化，捍卫学生抵抗平庸盲从的批判主体性。[[Argument_Rømer_2018_EPT|(Rømer, 2018, p. 8)]]
 > - **2025 — [[Technological Republic|技术共和国]]工程治理与反盲从文化构建** [[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]在《技术共和国》中，将抵御平庸之恶确立为硅谷前沿创新组织与国家科技安全的核心支柱，提倡以[[Constructive Disobedience|建设性不服从]]和[[Social Deafness|社交失聪]]重塑微观工程师文化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, pp. 136–138)]]
 
 ---

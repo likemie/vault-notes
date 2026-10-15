@@ -7,10 +7,10 @@ summary: "德国教育学家，一般教育学代表人物和 Bildung/Erziehung 
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 8
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 born: "1941"
 died: ""
 lifespan: "1941–至今"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Geisteswissenschaften]]"
   - "[[Allgemeine Pädagogik]]"
-  - "[[Hypothesis]]"
   - "[[Democratic Education]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
@@ -35,7 +34,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: 2026-09-29
+updated: 2026-10-15
 ---
 ## 简介
 
@@ -61,7 +60,7 @@ updated: 2026-09-29
 > **传统模型（经典版教学三角）：**
 > - "课程"（Curriculum）扮演关键角色，是"教师"和"学习者"之间的交换对象
 > - 教育被理解为知识与技能在拥有者与需掌握者之间的传递
-> - "教学"等同于"学习"——[[Hypothesis\|假设]]教师教了什么学生就学到了什么
+> - "教学"等同于"学习"——假设教师教了什么学生就学到了什么
 > - "教育"（educating）被局限于道德领域或礼仪培养，与教学分离
 >
 > **修正模型：**

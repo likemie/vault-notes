@@ -9,7 +9,7 @@ aliases:
 summary: "Freeman 与 Lundvall 等人发展的理论框架，将创新理解为多行动者在特定制度环境下通过网络与市场互动进行的集体学习活动；主张创新绩效取决于行动者能力、网络连接密度与制度规则适配性，推动公共政策从弥补市场失灵转向修复系统失灵。"
 type: theory
 theory_field: "university-industry-collaboration"
-theory_related_count: 88
+theory_related_count: 84
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -21,7 +21,6 @@ tags:
 related_concepts:
   - "[[Heterogeneity]]"
   - "[[Linear Model of Innovation]]"
-  - "[[Hypothesis]]"
   - "[[Market Failure]]"
   - "[[Paradigm]]"
   - "[[National Innovation System]]"
@@ -48,9 +47,7 @@ related_concepts:
   - "[[Flow]]"
   - "[[Problem Solving]]"
   - "[[Learning by Doing]]"
-  - "[[Document]]"
   - "[[Research Translation]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Industrial District]]"
   - "[[Open-Mindedness]]"
   - "[[General Purpose Technology]]"
@@ -81,7 +78,6 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[In-depth Interview]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -116,7 +112,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-27
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Systems of Innovation
@@ -127,7 +123,7 @@ updated: 2026-10-14
 
 > [!theory-position] 理论定位
 > - **解释对象** 解释技术创新的产生、扩散与商业应用过程，重点揭示多类[[Heterogeneity|异质性]]行动者（大学、科研机构、企业、金融中介与政府部门）在特定制度环境中如何通过网络连接与非市场互动进行集体学习。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 29–31)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5, 20–21)]]
-> - **理论问题** 破解单向[[Linear Model of Innovation|线性创新模型]]（科学发现 → 技术开发 → 商业产品）的简单因果[[Hypothesis|假设]]，纠正新古典经济学仅将创新视为对“[[Market Failure|市场失灵]]”（公共品投资不足）之被动弥补的狭隘视野，回应各国科技投入与经济增长脱节的现实政策困境。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 862–865)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–11)]]
+> - **理论问题** 破解单向[[Linear Model of Innovation|线性创新模型]]（科学发现 → 技术开发 → 商业产品）的简单因果假设，纠正新古典经济学仅将创新视为对“[[Market Failure|市场失灵]]”（公共品投资不足）之被动弥补的狭隘视野，回应各国科技投入与经济增长脱节的现实政策困境。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 862–865)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–11)]]
 > - **理论类型** 中观与宏观维度的[[Evolutionary Economics|演化经济学]]元理论[[Paradigm|范式]]与多标量[[Analytic Framework|分析框架]]（涵盖[[National Innovation System|国家创新系统]] NIS、[[Regional Innovation System|区域创新系统]] RIS 与部门创新系统 SIS）。
 > - **知识位置** 处于[[Evolutionary Economics|演化经济学]]、科学技术政策与高等教育学的[[Comparative Education as a Cross-Sectional Area|交叉领域]]；向上衔接[[Knowledge-Based Economy|知识经济]]、[[National Competitive Advantage|国家竞争优势]]与地缘政治竞争理论，中观统摄[[National Innovation System|国家创新系统]]与[[Regional Innovation System|区域创新系统]]，平行对话[[Triple Helix|三重螺旋模型]]与[[Innovation Ecosystem|创新生态系统]]，向下对话大学[[Third Mission|第三使命]]与微观[[University-Industry Collaboration|产学合作]]。
 
@@ -189,7 +185,7 @@ updated: 2026-10-14
 > **应用实例** 在高端制造与工程机械领域，创新极少直接来自大学理论物理学家的纯理论推导，而是企业工程师与供应商、最终用户以及大学工程系研究人员在反复试错与调试中共同攻关的结果；这印证了多主体双向反馈才是技术演进的核心机制。
 
 > [!theory-proposition] 命题二｜显性知识只是冰山一角，[[Tacit Knowledge|隐性知识]]在网络界面的转移与[[Absorptive Capacity|吸收能力]]共同决定系统绩效
-> **解释** 专利[[Document|文献]]、学术论文与技术标准等[[Coding in Qualitative Research|编码]]化显性知识（Codified Knowledge）虽易于远距离跨国扩散，但真正决定[[Research Translation|技术转化]]胜败的是深植于个体经验、团队协作惯例和[[Organizational Culture|组织文化]]中的隐性知识（Tacit Knowledge）。若缺乏由工程经验、实验手感构筑的[[Absorptive Capacity|吸收能力]]，即便政府强制推行技术公开或企业无偿获得高技术专利，组织依然无法将其[[Transfer Translation Transformation|转译]]为现实生产力。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, p. 29)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 6–7, 13–15)]]
+> **解释** 专利文献、学术论文与技术标准等编码化显性知识（Codified Knowledge）虽易于远距离跨国扩散，但真正决定[[Research Translation|技术转化]]胜败的是深植于个体经验、团队协作惯例和[[Organizational Culture|组织文化]]中的隐性知识（Tacit Knowledge）。若缺乏由工程经验、实验手感构筑的[[Absorptive Capacity|吸收能力]]，即便政府强制推行技术公开或企业无偿获得高技术专利，组织依然无法将其转译为现实生产力。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, p. 29)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 6–7, 13–15)]]
 >
 > **应用实例** 欠发达地区即使全额引进跨国高科技企业研发专利，若本地企业缺乏具备研发经验的技术骨干（缺乏吸收能力），相关专利将长期闲置；而具备深厚工程技艺积累的成熟[[Industrial District|工业区]]（如德国巴伐利亚或中国长三角），即使仅获得初步构想，也能迅速通过本地工匠与工程师网络完成工程化落地。
 
@@ -277,7 +273,7 @@ updated: 2026-10-14
 >       - **判读规则** 新产业形成需要前沿科学与天使创投；产业移植需要定制化人才与配套供应链；老[[Industrial District|工业区]]升级需要工艺微调与管理咨询。
 >       - **归属与出处** 本地创新系统实证框架（[[Argument_Lester_2005_MIT|Lester, 2005]], Table 2; [[Argument_Freeman_1995_CJE|Freeman, 1995, p. 21]]）。
 > - **D3｜微观组织互动与知识交换界面**
->   考察微观组织（大学、企业、研发机构）之间跨越边界进行吸收、[[Transfer Translation Transformation|转译]]与联合学习的具体机制。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 864–866)]]
+>   考察微观组织（大学、企业、研发机构）之间跨越边界进行吸收、转译与联合学习的具体机制。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 864–866)]]
 >   - **D3.1｜吸收能力与技术承接**
 >     - **D3.1.1｜企业吸收与转化能力**
 >       - **含义** 评估企业理解、消化并二次开发外部科学成果的专有技术储备。

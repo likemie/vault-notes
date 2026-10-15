@@ -160,7 +160,7 @@ updated: 2026-10-10
 > |:-----|:-----|:-----|
 > | [[General Purpose Technology]] | Concept | 仙童半导体推动硅微电子转化为跨行业的通用目的技术。 |
 > | [[Technological Republic]] | Concept | 仙童早期依托 CIA 侦察卫星与国防军工订单繁衍壮大的历史[[Paradigm\|范式]]。 |
-> | [[Dual In-Line Package]] | Concept | 仙童半导体为打破商业计算机整机[[Assemblage\|装配]]瓶颈而发明的标准物理封装。 |
+> | [[Dual In-Line Package]] | Concept | 仙童半导体为打破商业计算机整机装配瓶颈而发明的标准物理封装。 |
 > | [[Vertical Disintegration]] | Concept | 仙童开创的海外封测外包与衍生设计网络开启了产业纵向离散历史。 |
 > | [[Modern Industrial Policy]] | Concept | 1987 年阻止富士通收购仙童成为现代外资安全审查与产业保护的先例。 |
 > | [[Bell Labs]] | Fact | 肖克利半导体技术源自贝尔实验室，仙童创始人八叛逆脱胎于肖克利实验室。 |

@@ -8,10 +8,10 @@ aliases:
 summary: "历史制度主义的核心中观理论，由沃尔夫冈·施特雷克、凯瑟琳·希伦与詹姆斯·马奥尼先后奠定；突破传统间断均衡模型将制度视为静态稳态的偏误，将制度界定为具有权力分配后果的社会规制；基于成文规则与基层执行之间的内生缝隙，系统建构置换、分层、漂移、转换与耗竭五大变迁形态，并通过否决门槛、执行裁量权与微观行动者联盟动力学，解释常态历史时期的颠覆性质变。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 40
-theory_related_level: 5
-theory_related_stars: "⭐⭐⭐⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_count: 39
+theory_related_level: 4
+theory_related_stars: "⭐⭐⭐⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theory/institutionalism
   - theme/institutional-change
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Symbionts]]"
   - "[[Opportunists]]"
   - "[[Policy Science in Comparative Education]]"
-  - "[[Document]]"
   - "[[Variable]]"
   - "[[Strategic Compliance]]"
   - "[[Research Question]]"
@@ -67,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-15
 ---
 
 # Theory of Gradual Institutional Change
@@ -100,7 +99,7 @@ updated: 2026-10-11
 > [!dev-timeline] 理论演进与学术扩展
 > - **2005 年 — 经验形态学奠基** 施特雷克与希伦打破间断均衡二元对立，正式提出渐进制度变迁形态学，系统界定置换（[[Institutional Displacement|displacement]]）、分层（[[Institutional Layering|layering]]）、漂移（Drift）、转换（[[Institutional Conversion|conversion]]）与耗竭（[[Institutional Exhaustion|exhaustion]]）五大机制，揭示资本主义[[Liberalization|自由化]]如何以渐进演变为特权推进路径。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 18–34)]]
 > - **2009 年 — 因果建模与行动者整合** 马奥尼与希伦建构“[[Veto Possibilities|否决可能性]] × [[Enforcement Discretion|执行裁量权]]”二维因果矩阵，将[[Insurrectionaries|起义者]]、[[Subversives|颠覆者]]、[[Symbionts|共生者]]与[[Opportunists|机会主义者]]四类变革行动者及同盟动力学引入模型，确立中观因果解释规范。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 1–37)]]
-> - **2011 年 — [[Policy Science in Comparative Education|政策科学]]对话与指标审视** 耶龙·[[Jeroen van der Heijden|范德海登]]（Jeroen van der Heijden）系统梳理六十年期刊[[Document|文献]]，指出经验研究常将制度适应性再生产误判为渐进变迁，提出通过被添加的行动者与规制工具[[Variable|变量]]精确测量制度层叠，搭建起渐变模型与突变模型的微观桥梁。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 9–16)]]
+> - **2011 年 — [[Policy Science in Comparative Education|政策科学]]对话与指标审视** 耶龙·[[Jeroen van der Heijden|范德海登]]（Jeroen van der Heijden）系统梳理六十年期刊文献，指出经验研究常将制度适应性再生产误判为渐进变迁，提出通过被添加的行动者与规制工具[[Variable|变量]]精确测量制度层叠，搭建起渐变模型与突变模型的微观桥梁。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 9–16)]]
 
 ---
 
@@ -206,7 +205,7 @@ updated: 2026-10-11
 > > [!axis] 渐进变迁与制度再生产的经验判读边界
 > > 争论聚焦于经验研究中如何区分微小的渐进演变与体制的自我复制修复。
 > > 
-> > - **范德海登（2011）的批评** 指出许多实证[[Document|文献]]机械套用渐进变迁标签，将旨在修补旧制的防御性增补误读为[[Institutional Layering|制度分层]]，呼吁引入严格的时间跨度与行动者[[Variable|变量]]标尺。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 10–14)]]
+> > - **范德海登（2011）的批评** 指出许多实证文献机械套用渐进变迁标签，将旨在修补旧制的防御性增补误读为[[Institutional Layering|制度分层]]，呼吁引入严格的时间跨度与行动者[[Variable|变量]]标尺。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 10–14)]]
 > > - **施特雷克与希伦（2005）的判定准则** 强调必须检验长期结果是否产生结构性断裂（Discontinuity），只有当行动逻辑发生实质性置换或旧核心被彻底从属化时，才构成真正的渐进质变。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 8–9, 31)]]
 
 ---
@@ -216,4 +215,4 @@ updated: 2026-10-11
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 渐进制度变迁理论奠基之作，系统建构置换、分层、漂移、转换与耗竭五大变迁形态学，揭示资本主义[[Liberalization|自由化]]演进机制。（pp. 18–34）
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 渐进制度变迁理论[[Causal Modeling|因果建模]]里程碑，建构双维情境矩阵与四类变革行动者微观博弈模型。（pp. 1–37）
-> - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 检验[[Institutional Layering|制度分层]]概念在六十年期刊[[Document|文献]]中的应用，反思渐进变迁与制度再生产的边界划分。
+> - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 检验[[Institutional Layering|制度分层]]概念在六十年期刊文献中的应用，反思渐进变迁与制度再生产的边界划分。

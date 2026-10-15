@@ -11,9 +11,9 @@ subtype: organization
 region: latin-america
 fact_region: "latin-america"
 fact_kind: "organization"
-fact_related_count: 24
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 22
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: multilateral-development-bank
 headquarters: "华盛顿特区（美国）"
@@ -31,11 +31,9 @@ related_concepts:
   - "[[Policy Conditionalities]]"
   - "[[Educational Decentralization]]"
   - "[[Discourse]]"
-  - "[[Document]]"
   - "[[Refined Mastery]]"
   - "[[Academic Achievement]]"
   - "[[Variable]]"
-  - "[[Attrition]]"
   - "[[State Educational Sovereignty]]"
   - "[[Multilateral Development Bank]]"
   - "[[Washington Consensus]]"
@@ -102,7 +100,7 @@ updated: 2026-10-15
 > [!contrast-table] 泛美开发银行与世界银行在[[Organizational Culture|组织文化]]与借贷模式上的二元对照（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, pp. 464–465]]）
 > | 比较维度 | [[Inter-American Development Bank\|泛美开发银行]]（IDB） | [[World Bank\|世界银行]]（WB） |
 > |:---|:---|:---|
-> | **行动逻辑起点** | 深入借款国现场，直接倾听教育部部长阐述紧迫难题与实际需求。 | 携带预先撰写的典雅方案、深厚学术[[Document\|文献]]与宏观计量模型主动开赴借款国。 |
+> | **行动逻辑起点** | 深入借款国现场，直接倾听教育部部长阐述紧迫难题与实际需求。 | 携带预先撰写的典雅方案、深厚学术文献与宏观计量模型主动开赴借款国。 |
 > | **在地知识与语言** | 官员常年深耕拉美本土，深度熟悉在地官僚机构人事脉络，全部通晓当地语言。 | 官员[[Refined Mastery\|精通]]宏观经济模型与规范理论，但往往不熟悉借款国地方政治派系与微观生态。 |
 > | **谈判与政策态度** | 谈判风格务实温和，高度尊重政治可行性，偏好渐进改良与利益妥协。 | 态度偏向规范指引甚至强硬推介，对方案的技术纯粹性与优雅性抱有执念。 |
 > | **改革附加条件力度** | 早期坚守物理基建与设备，后期推行渐进改良，较少施加激进化制度休克条件。 | 激进捆绑宏观体制重构条件（人事编制冻结、私有化），易在借款国激化政治对抗。 |
@@ -184,7 +182,7 @@ updated: 2026-10-15
 > > 探讨多边贷款错综复杂的报销审批规程是否侵蚀了教育援助的实质成效。
 > >
 > > - **组织执行反思** 内部反腐审计与层层合规要求演变为极度沉重的官僚负担；基层官员出于防范审计风险的考量，宁可让项目停摆也不愿冒任何违规风险，导致资金实际拨付周期常常拖延数年甚至逾期翻倍。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 469–472)]]
-> > - **财务合规立场** 坚称作为在国际债券市场公开发债的机构，严密审计是维持国际信用评级与防范公共资金[[Attrition|流失]]的不可动摇的底线。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 456, 470)]]
+> > - **财务合规立场** 坚称作为在国际债券市场公开发债的机构，严密审计是维持国际信用评级与防范公共资金流失的不可动摇的底线。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 456, 470)]]
 >
 > > [!axis] 外部激进学者的经验失焦与阴谋论定性
 > > 探讨外部左翼学者对多边银行干预教育主权的批评是否符合内部实际运作。

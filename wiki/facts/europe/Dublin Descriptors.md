@@ -11,7 +11,7 @@ subtype: policy
 region: europe
 fact_region: "europe"
 fact_kind: "policy"
-fact_related_count: 11
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -27,12 +27,10 @@ related_concepts:
   - "[[Wicked Problem]]"
   - "[[Critical Thinking]]"
   - "[[Lifelong Learning]]"
-  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons:
-  - "[[Isaiah Berlin]]"
+related_persons: []
 related_facts:
   - "[[Bologna Process]]"
   - "[[European Qualifications Framework]]"
@@ -43,7 +41,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-28
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Dublin Descriptors
@@ -62,7 +60,7 @@ updated: 2026-10-08
 ## 政策文本摘要
 
 > [!claim] 政策核心
-> 都[[Isaiah Berlin|柏林]]描述符构建了涵盖五大通用维度的阶梯式素养进阶体系，在学士（第 1 周期）、硕士（第 2 周期）与博士（第 3 周期）各层级明确将批判性反思与创新[[Problem Solving\|问题解决]]确立为法定毕业资质。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 12–14, 27)]]
+> 都柏林描述符构建了涵盖五大通用维度的阶梯式素养进阶体系，在学士（第 1 周期）、硕士（第 2 周期）与博士（第 3 周期）各层级明确将批判性反思与创新[[Problem Solving\|问题解决]]确立为法定毕业资质。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 12–14, 27)]]
 
 > [!policy-design]- 五大通用维度与三级学位进阶标准
 > - **1. 知识与理解（Knowledge and Understanding）**
@@ -88,4 +86,4 @@ updated: 2026-10-08
 
 > [!finding-cards] 影响与后果
 > - **宏观治理影响** 成为欧洲各国编制国家资格框架（NQFs）与[[European Qualifications Framework\|欧洲资格框架]]（EQF 6–8 级）的直接法理母本。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 12)]]
-> - **[[Transfer Translation Transformation\|转译]]瓶颈与微观断裂** 都[[Isaiah Berlin|柏林]]描述符的高度抽象性导致欧洲高校教师在微观课程考核中普遍遭遇对齐困难，直接催生了 [[Tuning Project\|Tuning]] 调谐项目 与 [[CALOHEE Project\|CALOHEE]] 项目 的学科化操作破局。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 27–28)]]
+> - **转译瓶颈与微观断裂** 都柏林描述符的高度抽象性导致欧洲高校教师在微观课程考核中普遍遭遇对齐困难，直接催生了 [[Tuning Project\|Tuning]] 调谐项目 与 [[CALOHEE Project\|CALOHEE]] 项目 的学科化操作破局。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 27–28)]]

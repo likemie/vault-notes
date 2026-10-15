@@ -9,7 +9,7 @@ aliases:
 summary: "对随机对照试验（RCT）作为证据本位教育‘黄金标准’的多维度批评体系，涵盖复杂系统认识论悖论、真实学校操作与效度困境，以及政策治理异化与法定单项合格门槛下的合规假象。"
 type: concept
 domain: "research-methodology"
-related_count: 89
+related_count: 86
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -21,7 +21,6 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Variable]]"
-  - "[[Hypothesis]]"
   - "[[Ontology]]"
   - "[[Stable Unit Treatment Value Assumption]]"
   - "[[Business as Usual]]"
@@ -41,7 +40,6 @@ related_concepts:
   - "[[Phronesis]]"
   - "[[Policy-Based Evidence-Making]]"
   - "[[Internal Validity]]"
-  - "[[Attrition]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Emergence]]"
   - "[[Independent Variable]]"
@@ -68,7 +66,6 @@ related_concepts:
   - "[[Pragmatism in China]]"
   - "[[Academic Achievement]]"
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Document]]"
   - "[[School Choice]]"
   - "[[Evidence Era]]"
 related_theories:
@@ -117,7 +114,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Critique of Randomized Controlled Trials
@@ -127,7 +124,7 @@ updated: 2026-10-07
 ## 定义
 
 > [!def] 核心定义
-> [[Critique of Randomized Controlled Trials\|随机对照试验批判]]（Critique of [[Randomised Controlled Trials\|randomized controlled trials]] / RCT Critique）指围绕随机对照试验在教育学、社会政策与公共治理中被奉为证据“黄金标准”所形成的系统性反思与跨学科批评体系。该批判涵盖三个递进层面：一是**复杂性[[Epistemology\|认识论]]层面**，解构其控制[[Variable\|变量]][[Hypothesis\|假设]]与机械还原论在动态自组织开放教育系统中的[[Ontology\|本体论]]悖论；二是**真实学校效度层面**，揭示主体间干扰（违背 [[Stable Unit Treatment Value Assumption\|SUTVA]] 假设）、未测量教师质量混淆、[[Business as Usual\|常态教学]]基线[[Heterogeneity\|异质性]]与大规模实效衰减对内部与[[External Validity\|外部效度]]的破坏；三是**政策治理异化层面**，批判将医学试验教条化为[[Rationalized Myth\|合理化神话]]、跨国金融机构技术[[Screening Off\|屏蔽]]宏观政治经济结构，以及法定单项合格门槛所诱发的“合规假象”与科研供给侧结构性赤字（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, pp. 28–30]]；[[Argument_Wiliam_2019_ERE\|Wiliam, 2019, pp. 5–9]]；[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024, pp. 11–13]]）。
+> [[Critique of Randomized Controlled Trials\|随机对照试验批判]]（Critique of [[Randomised Controlled Trials\|randomized controlled trials]] / RCT Critique）指围绕随机对照试验在教育学、社会政策与公共治理中被奉为证据“黄金标准”所形成的系统性反思与跨学科批评体系。该批判涵盖三个递进层面：一是**复杂性[[Epistemology\|认识论]]层面**，解构其控制[[Variable\|变量]]假设与机械还原论在动态自组织开放教育系统中的[[Ontology\|本体论]]悖论；二是**真实学校效度层面**，揭示主体间干扰（违背 [[Stable Unit Treatment Value Assumption\|SUTVA]] 假设）、未测量教师质量混淆、[[Business as Usual\|常态教学]]基线[[Heterogeneity\|异质性]]与大规模实效衰减对内部与[[External Validity\|外部效度]]的破坏；三是**政策治理异化层面**，批判将医学试验教条化为[[Rationalized Myth\|合理化神话]]、跨国金融机构技术[[Screening Off\|屏蔽]]宏观政治经济结构，以及法定单项合格门槛所诱发的“合规假象”与科研供给侧结构性赤字（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, pp. 28–30]]；[[Argument_Wiliam_2019_ERE\|Wiliam, 2019, pp. 5–9]]；[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024, pp. 11–13]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向对受控实验在社会开放系统中[[Causality\|因果推断]]合法性、操作严谨性与政策转化有效性的多维度反思，追问在何种边界条件下[[Random Assignment\|随机分配]]能够成立，以及过度崇拜单一实验对公共教育治理造成的制度性扭曲。
@@ -153,7 +150,7 @@ updated: 2026-10-07
 > |:---|:---|:---|:---|
 > | **核心靶标** | 一级因果识别设计：[[Randomised Controlled Trials\|随机对照试验]]（RCT） | 二级证据合成技术：[[Meta-analysis\|元分析]]与[[Effect Size\|效应量]]汇总 | 宏观政策治理范式：[[Evidence-Based Education\|循证实践运动]]与技术治理主义 |
 > | **核心[[Epistemology\|认识论]]质疑** | 开放系统中的变量控制悖论、原子化还原与 [[Stable Unit Treatment Value Assumption\|SUTVA]] 违背 | 去情境化数据拼接、“苹果加橙子”分类失真与有偏估计无法相互抵消 | [[Scientism\|科学主义]]垄断教育价值判定、压制专业[[Phronesis\|实践智慧]]与依策造据（[[Policy-Based Evidence-Making\|PBEM]]） |
-> | **效度威胁焦点** | [[Internal Validity\|内部效度]]受损（[[Attrition\|流失]]/混淆）与实效规模化效应断崖衰减 | [[Publication Bias\|发表偏倚]]、质性证据遗漏与跨研究平均效应量的无解释性 | 教育民主性削弱、教师去专业化与自指性[[Social Science as Legitimation Alibi\|科学借口]] |
+> | **效度威胁焦点** | [[Internal Validity\|内部效度]]受损（流失/混淆）与实效规模化效应断崖衰减 | [[Publication Bias\|发表偏倚]]、质性证据遗漏与跨研究平均效应量的无解释性 | 教育民主性削弱、教师去专业化与自指性[[Social Science as Legitimation Alibi\|科学借口]] |
 > | **典型代表学者** | Morrison; Berliner; Wiliam; Berk; Ginsberg | Eysenck; Glass; Higgins; Simpson | Biesta; Hammersley; Helgetun & Menter; Steiner-Khamsi |
 
 ---
@@ -198,7 +195,7 @@ updated: 2026-10-07
 ### 命题二　真实教育情境中的主体交互、未测量变异与实施稀释使试验的内部与外部效度面临结构性损耗
 
 > [!concept-lens] 真实学校生态的操作与效度困境
-> 该命题从实地实验的操作细节出发，系统梳理课堂与学校中违背计量模型[[Hypothesis\|假设]]、侵蚀统计推断基础的结构性偏误。
+> 该命题从实地实验的操作细节出发，系统梳理课堂与学校中违背计量模型假设、侵蚀统计推断基础的结构性偏误。
 
 > [!claim] Berliner, D. (2002) & Møller, J. (2017)
 > **教育作为难以完成的科学与本地条件限制** 伯利纳指出教育研究是“难以完成的科学”（hard-to-do-science），因为教育研究者必须处理限制推广的严苛本地条件。学校嵌套在复杂多变的社会关系中，学习过程永远不可能被完全控制，使得药物试验式的组间等价假设在学校中格外脆弱。[[Argument_Møller_2017_EERJ\|(Møller, 2017, p. 379; Berliner, 2002)]]
@@ -305,7 +302,7 @@ updated: 2026-10-07
 > | [[Argument_Kraft_2023_ER\|Kraft (2023)]] | 全美 3,426 个教育干预 RCT 效应量 | [[Meta-meta-analysis\|元综合]]与分布基准分析 | 标准化[[Academic Achievement\|学业成就]]测验效应量（Hedges' g） | 效应量中位数仅为 0.10 SD；36% 的研究效应量小于 0.05 SD；94% 的试验属于[[Business as Usual\|常态教学]]（BAU）对照 | 均值约 0.10，经验分布呈重尾特征 | 确立真实学校对照下的因果效应量现实基准，打破了 0.40 的经验神话。 |
 > | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] | 12 所[[Educational Evidence Clearinghouses\|教育证据清算中心]]，1,359 项研究，429 对交叉评级 | 跨机构政策评级元评估 | 多机构因果评级一致率与极端冲突率 | 完全一致率仅 30.5%；完全对立冲突率（推荐 vs 不推荐）高达 35.4% | $\chi^2$ 检验显示跨中心评级高度不收敛 | 单项 RCT [[Internal Validity\|内部效度]]达标绝非宏观政策推荐的[[Necessary and Sufficient Conditions\|充分条件]]，综合标准割裂打破客观收敛假象。 |
 > | [[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]] | 全美 15 个大型城市学区三年间 2.88 亿美元 [[Title I of the Elementary and Secondary Education Act\|Title I]] 联邦经费，138 项干预 | 政策微观实证审计 | 单项合规率、全证据集支持率、学段供给赤字 | 法定单项合规率超 95%；全证据集积极支持率腰斩至 49%–58%；26 项干预在采购学段因果研究数为 0 | 实证审计全部受资助干预清单 | 证实法定单项 RCT 门槛在学区实践中演化为“合规假象”，揭示科研供给侧学段与构件断层。 |
-> | [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] | 五本主流教育心理学经验期刊（1983–2020 年跨度） | 期刊抽样[[Document\|文献]]计量分析 | 经验研究中[[Random Assignment\|随机分配]]实验（RCT）占比 | 随机实验占比从 1983 年的近 50% 持续下滑至 2010 年的 23%，2020 年进一步降至 20% | 描述性统计全样本扫描 | 展现经验学术界从单一[[Pragmatism in China\|实验主义]]向质性与方法多元主义的实质转向。 |
+> | [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] | 五本主流教育心理学经验期刊（1983–2020 年跨度） | 期刊抽样文献计量分析 | 经验研究中[[Random Assignment\|随机分配]]实验（RCT）占比 | 随机实验占比从 1983 年的近 50% 持续下滑至 2010 年的 23%，2020 年进一步降至 20% | 描述性统计全样本扫描 | 展现经验学术界从单一[[Pragmatism in China\|实验主义]]向质性与方法多元主义的实质转向。 |
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] 引述 Lortie-Forgues & Inglis (2019) | 英美两国（[[Education Endowment Foundation\|EEF]] 与 [[National Center for Education Evaluation and Regional Assistance\|NCEE]]）委托的 141 项大规模教育 RCT（覆盖 122 万学生） | 独立试验数据元再分析 | 大规模[[Effectiveness Trial\|实效试验]]平均效应量与[[Confidence Interval\|置信区间]] | 平均效应量仅为 0.06 SD；平均置信区间宽达 0.30 SD | 效应量估计包含 0 的比例极高 | 揭示盲目追求[[Sample Size Determination\|样本量]]扩张在大规模推广阶段无法避免保真度稀释与效应断崖衰减。 |
 > | [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker (2019)]] 引述 Ginsburg & Smith (2016) | 27 项被有效教育清算所（[[What Works Clearinghouse\|WWC]]）高评级的数学课程 RCT | 内部效度逐项威胁审计 | 开发者利益冲突、教学时间非均等、测量偏倚 | 26/27 项存在多重严重问题；单一威胁误差幅度已大于干预平均效应量 | 质性与计量混合威胁核查 | 揭示被权威认证的高等级 RCT 仍普遍充斥着损害内部效度的隐蔽漏洞。 |
 
@@ -315,7 +312,7 @@ updated: 2026-10-07
 
 > [!evidence-grid-a] 核心研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011)]] — 第 1 章与第 4 章系统阐释[[Complexity Theory\|复杂性理论]]对受控实验的四大解构、Kuhn 五大公理与[[Unit of Analysis\|分析单位]]向生态网络的转向，详述概率因果、[[Counterfactual\|反事实]]、[[Screening Off\|筛选隔离]]及真实课堂复杂性对 [[Randomised Controlled Trials\|RCT]] 的方法论挑战。
-> - [[Argument_Berk_2011_ER\|Berk (2011)]] — 基于 35 年主编经验揭示集群 RCT 对 [[Stable Unit Treatment Value Assumption\|SUTVA]] [[Hypothesis\|假设]]的违背，提出[[Pragmatic Paradigm\|实用主义]]“铜标准”辩护。
+> - [[Argument_Berk_2011_ER\|Berk (2011)]] — 基于 35 年主编经验揭示集群 RCT 对 [[Stable Unit Treatment Value Assumption\|SUTVA]] 假设的违背，提出[[Pragmatic Paradigm\|实用主义]]“铜标准”辩护。
 > - [[Argument_Wiliam_2019_ERE\|Wiliam (2019)]] — 揭示田纳西 STAR 实验[[Random Assignment\|随机化]]被家长转组与数据缺失破坏的机制，指出未测量教师质量的颠覆性混淆。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 英国 [[Education Endowment Foundation\|EEF]] 独立评估人机制与十年制度演进，剖析效力向[[Effectiveness Trial\|实效试验]]的[[Fade-out Effect\|效应衰减]]与[[School Choice\|学校选择]]新设计。
 > - [[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]] — 实证解剖英格兰[[Evidence Era\|证据时代]]临床医学 RCT 的[[Rationalized Myth\|合理化神话]]、[[Epistemological Coherence\|全流程认识论连贯性]]断裂及“依策造据”（[[Policy-Based Evidence-Making\|PBEM]]）。

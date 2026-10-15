@@ -28,13 +28,11 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Areas of Knowledge]]"
   - "[[Pure Evaluation]]"
-  - "[[Hypothesis]]"
   - "[[Multiplicity]]"
   - "[[Cognitive Inhibition]]"
 related_theories:
   - "[[Theory of Mind]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Sample Size Determination]]"
   - "[[In-depth Interview]]"
 related_instruments:
@@ -55,7 +53,7 @@ title: "Argument_Kuhn_2000_CD"
 argument_key: "Argument_Kuhn_2000_CD"
 argument_display_title: "The development of epistemological understanding"
 argument_kind: "journal-article"
-argument_related_count: 20
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -116,7 +114,7 @@ issuing_organization: ""
 > |------|----------------|
 > | **评估工具**<br>[[Epistemological Understanding Assessment\|认识论理解评估工具]] (EUA) | 包含 15 对相互冲突的主张（如 Robin and Chris 对某事的不同看法），横跨五个判断领域。测验通过追踪参与者的两步判断（“是否只有一个正确？”和“是否有一个更正确？”），来诊断个体在不同领域所处的[[Epistemology\|认识论]]层次。 |
 > | **横向比较／量化分析**<br>Cross-sectional Analysis | 收集不同年龄和教育背景群体的数据，统计各领域达到绝对论、多元论或评价论的频次，并使用四字母组合模型来记录个体的跨领域表现模式。 |
-> | **跨领域模式编码**<br>Pattern Coding | 排除难度过低的个人品味领域后，个体在审美、价值观、社会事实、物理事实四个核心领域的[[Epistemology\|认识论]]层级被依次[[Coding in Qualitative Research\|编码]]为由四个首字母组成的序列：绝对论（[[Absolutist]], A）、多元论（[[Multiplist]], M）或评价论（[[Evaluativist]], E）。例如，MMMM 代表在四个领域均为多元论。 |
+> | **跨领域模式编码**<br>Pattern Coding | 排除难度过低的个人品味领域后，个体在审美、价值观、社会事实、物理事实四个核心领域的[[Epistemology\|认识论]]层级被依次编码为由四个首字母组成的序列：绝对论（[[Absolutist]], A）、多元论（[[Multiplist]], M）或评价论（[[Evaluativist]], E）。例如，MMMM 代表在四个领域均为多元论。 |
 > | **访谈验证／儿童组测验**<br>One-on-one Interview | 研究一针对 5 年级以上及成人使用纸笔测试；研究二为验证向多元论过渡的最早阶段，对 21 名 2-3 年级儿童进行了详细的口头理解和追问访谈。 |
 
 > [!stat-cards]- 样本构成
@@ -199,7 +197,7 @@ issuing_organization: ""
 > - **跨领域混合的高度规律性** 剩下的近半数参与者呈现出看似混乱的跨阶段混合模式。但数据表明，在 129 名参与者中，有 107 人（83%）的混合模式完全符合理论预期的难度序列（如在事实领域达到了评价论，但在价值观领域仍是多元论），排除了随机作答的可能（p. 318）。
 
 > [!warrant]- 推理桥梁
-> 这种系统性的领域非同步性打破了传统认知发展理论的[[Hypothesis\|假设]]。它证明了认识论的成熟度并不是一种一旦获得就会全盘应用到所有场景的通用心智结构（General cognitive structure），而是一种高度[[Domain Specificity\|领域特异性]]（Domain-specific）的分布式成就。个体能否在某领域取得突破，取决于该领域特有的知识属性对其协调主客观维度的挑战难度。
+> 这种系统性的领域非同步性打破了传统认知发展理论的假设。它证明了认识论的成熟度并不是一种一旦获得就会全盘应用到所有场景的通用心智结构（General cognitive structure），而是一种高度[[Domain Specificity\|领域特异性]]（Domain-specific）的分布式成就。个体能否在某领域取得突破，取决于该领域特有的知识属性对其协调主客观维度的挑战难度。
 
 ---
 
@@ -288,7 +286,7 @@ issuing_organization: ""
 ## 关键引用
 
 > [!citation-card]- 主观性向多元论的极速渗透（投毒隐喻）
-> 正如 Chandler et al. (1990)从理论层面所提出的[[Hypothesis\|假设]]，这种转变发生得极为迅速；一旦认知的主观性被承认，犹如“井水被投了毒”（the well is poisoned），向彻底主观的多元论立场的滑落就会极速发生。（p. 320）
+> 正如 Chandler et al. (1990)从理论层面所提出的假设，这种转变发生得极为迅速；一旦认知的主观性被承认，犹如“井水被投了毒”（the well is poisoned），向彻底主观的多元论立场的滑落就会极速发生。（p. 320）
 > 
 > *A second explanation is one argued on theoretical grounds by Chandler, Boyes, and Ball (1990), namely that this transition occurs very rapidly; once the “well is poisoned,” as Chandler et al. put it, by the acknowledgment of subjectivity, the movement toward the [[Multiplist]] position of total subjectivity occurs very rapidly.*
 

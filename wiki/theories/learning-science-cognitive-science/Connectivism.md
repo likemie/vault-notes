@@ -9,10 +9,10 @@ aliases:
 summary: "由 George Siemens 与 Stephen Downes 提出的数字时代学习理论，认为学习是连接专业节点或信息源的网络构建过程，知识分布于人际与非人类技术网络的动态连接之中"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 24
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_count: 23
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory/learning-science
   - field/educational-technology
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Epistemology]]"
   - "[[Generative Artificial Intelligence]]"
-  - "[[Document]]"
   - "[[AI Agent in Education]]"
   - "[[Emergence]]"
   - "[[Flow]]"
@@ -49,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-31
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Connectivism
@@ -80,7 +79,7 @@ updated: 2026-10-07
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
-> | **节点（Nodes）** | 概念 | 网络中任何能够连接并传递信息的基本实体，包括人类个体、[[Document\|文献]]数据库、软件算法、社群或[[Generative Artificial Intelligence\|生成式 AI]] [[AI Agent in Education\|智能体]]。 |
+> | **节点（Nodes）** | 概念 | 网络中任何能够连接并传递信息的基本实体，包括人类个体、文献数据库、软件算法、社群或[[Generative Artificial Intelligence\|生成式 AI]] [[AI Agent in Education\|智能体]]。 |
 > | **连接（Connections）** | 机制 | 节点之间建立的信息通道与交互关系；连接的强度、路径与通畅度决定知识流动的效能。 |
 > | **分布式知识（Distributed Knowledge）** | [[Epistemology\|认识论]] | 知识存在于网络整体的[[Emergence\|涌现]]连接中，而非单一节点的静态占有。 |
 > | **模式识别（Pattern Recognition）** | 认知过程 | 学习者在海量、碎片化和快速演变的网络信息流中识别关键结构、洞察关联并整合观点的核心能力。 |
@@ -114,7 +113,7 @@ updated: 2026-10-07
 > ```
 
 > [!exegesis]- 教育研究例子
-> 在高等教育跨学科研究型教学中，学生围绕复杂气候变化议题展开探究。学生并不直接[[Rote Learning\|死记硬背]]环境科学、经济学与政策分析的离散术语，而是利用 ChatGPT 作为连通主义智能中继节点，快速建立经济模型与气象数据之间的概念关联；随后学生通过多源[[Document\|文献]]核对与同行评审检验这些连接的合理性，最终生成兼具原创性与实证严密性的政策方案（[[Argument_Li_2026_CEAI\|Li et al., 2026, pp. 11–12]]）。
+> 在高等教育跨学科研究型教学中，学生围绕复杂气候变化议题展开探究。学生并不直接[[Rote Learning\|死记硬背]]环境科学、经济学与政策分析的离散术语，而是利用 ChatGPT 作为连通主义智能中继节点，快速建立经济模型与气象数据之间的概念关联；随后学生通过多源文献核对与同行评审检验这些连接的合理性，最终生成兼具原创性与实证严密性的政策方案（[[Argument_Li_2026_CEAI\|Li et al., 2026, pp. 11–12]]）。
 
 ---
 

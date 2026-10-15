@@ -30,7 +30,6 @@ related_concepts:
   - "[[Domain Specificity]]"
   - "[[Variable]]"
   - "[[Study Population and Sample]]"
-  - "[[Document]]"
   - "[[Publication Bias]]"
   - "[[Heterogeneity]]"
   - "[[Epistemological Beliefs]]"
@@ -44,7 +43,6 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Procedural Knowledge]]"
   - "[[Educational Level]]"
-  - "[[Hypothesis]]"
   - "[[Chain of Evidence]]"
   - "[[Open-Mindedness]]"
   - "[[Justificatory Standards]]"
@@ -98,7 +96,7 @@ title: "Argument_Greene_2018_JEP"
 argument_key: "Argument_Greene_2018_JEP"
 argument_display_title: "A meta-analytic review of the relationship between epistemic cognition and academic achievement"
 argument_kind: "journal-article"
-argument_related_count: 66
+argument_related_count: 64
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -162,7 +160,7 @@ issuing_organization: ""
 > |----------|------|
 > | **[[Study Population and Sample\|研究样本]]** | 132 项非[[Experimental Research\|实验研究]]，151 个独立样本，752 个[[Effect Size\|效应量]]，共 55,418 名参与者。 |
 > | **样本阶段** | 大学生最多（68 个样本），其次为高中（39 个），小学（8 个）、初中（10 个）、研究生（4 个）及职前教师（10 个）。 |
-> | **[[Document\|文献]]清洗** | 初始搜到 737 篇，剔除不含相关性的（278 篇）、非该主题的（105 篇）、干预类（36 篇）等。 |
+> | **文献清洗** | 初始搜到 737 篇，剔除不含相关性的（278 篇）、非该主题的（105 篇）、干预类（36 篇）等。 |
 
 > [!index-table]- 表 4：研究报告中编码的信息
 > | 类别 (Category) | 编码指标 (Codes) |
@@ -360,7 +358,7 @@ issuing_organization: ""
 >   - 认识论认知对**概念性知识（$r = .190$）**与**论证能力（$r = .154$）**表现出极强的正向关联，构成了预测效力的核心阵地；
 >   - 对综合性通用成就（GPA / 统考，$r = .160$）保持稳健正相关；
 >   - 而对底层机械的**陈述性知识（$r = .127$）**和**程序性知识（$r = .077$）**效应量急剧衰减，程序性知识的 95% CI 跨越 0（$[-.102, .251]$），在统计学上不显著异于 0。
-> - **学段（[[Educational Level]]）的“反直觉”倒挂** 传统阶段发展理论（如 Perry）默认儿童与青少年缺乏成熟认识论思维。然而数据显示，**初中生（$r = .246$）和小学生（$r = .212$）的整体效应量显著高于大学生（$r = .131$）**，且初中生与大学生的 95% CI 完全不重叠，颠覆了大学专属性[[Hypothesis\|假设]]。
+> - **学段（[[Educational Level]]）的“反直觉”倒挂** 传统阶段发展理论（如 Perry）默认儿童与青少年缺乏成熟认识论思维。然而数据显示，**初中生（$r = .246$）和小学生（$r = .212$）的整体效应量显著高于大学生（$r = .131$）**，且初中生与大学生的 95% CI 完全不重叠，颠覆了大学专属性假设。
 > - **成就测量方式的客观性惩罚** 采用**标准化测试（$r = .214$）**和研究者开发客观测试（$r = .177$）的研究效应量，显著碾压参与者主观自报成绩（$r = .083$），证实主观报告的测量误差严重稀释了理论关联。
 
 > [!ma-table]- 表 12：成就类型调节变量分析
@@ -415,7 +413,7 @@ issuing_organization: ""
 > 剥开理论外衣，工具本身的设计方法（同侪评审状态、测量信度以及所选用的特定问卷）极大地决定了最终效应量的上限。[[Meta-regression\|元回归]]分析揭示了一个惊人的事实：信度才是王道。
 
 > [!chain-link] 证据到判断
-> - **同行评审的质量门槛** 经过同行评审的期刊[[Document\|文献]]（$r = .175$）由于数据清洗和质量把控更严，其报告的效应量显著高于学术会议论文（$r = .097$），两者的 95% CI 互不重叠。
+> - **同行评审的质量门槛** 经过同行评审的期刊文献（$r = .175$）由于数据清洗和质量把控更严，其报告的效应量显著高于学术会议论文（$r = .097$），两者的 95% CI 互不重叠。
 > - **问卷效力的巨大方差** 当[[Sample Size Determination\|样本量]] $k > 5$ 时，各问卷捕获的效应量存在天壤之别。领域对口的印第安纳数学信念量表（Indiana Mathematics Belief Scale, $r = .421$）和 Conley et al. (2004) 问卷（Conley et al. Questionnaire, $r = .242$）表现出极强的预测力；而曾经非常流行的 Hofer (2000) 特定学科认识论信念问卷（Discipline-Focused Epistemological Beliefs Questionnaire, DEBQ，$r = .059$）和 Jehng et al. (1993) 问卷（Jehng et al. Questionnaire, $r = .051$）的整体效应竟然在统计学上不显著异于 0。
 > - **决定性的“信度回归”** [[Meta-regression\|元回归]]分析揭示，问卷的[[Internal Consistency\|内部一致性]]信度直接决定了效应量大小（$b = .300, p < .001$）。在这个回归模型中，如果一份问卷的信度是 0，那么它与成绩的相关性也会归 0；而如果一份问卷的信度达到完美的 1.0，它与成绩的预期相关性将高达 $r = .300$！
 

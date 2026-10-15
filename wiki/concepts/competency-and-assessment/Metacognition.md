@@ -14,7 +14,7 @@ aliases:
 summary: "个体对自己认知过程的意识、评估与主动调节，包括元认知知识与元认知调节两个核心成分。它不仅构成批判性思维与人机协同认识论警觉的防御中介，更是驱动创造性问题解决、策略内化与克服思维定势的核心高阶认知机制。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 85
+related_count: 83
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -39,7 +39,6 @@ related_concepts:
   - "[[Wicked Problem]]"
   - "[[Problem Solving]]"
   - "[[Man-Computer Symbiosis]]"
-  - "[[Hypothesis]]"
   - "[[Scale of Measurement]]"
   - "[[Epistemic Agency]]"
   - "[[Epistemological Beliefs]]"
@@ -47,7 +46,6 @@ related_concepts:
   - "[[Self-Efficacy]]"
   - "[[Study Population and Sample]]"
   - "[[Threats to Internal Validity]]"
-  - "[[Document]]"
   - "[[Scaffolding]]"
   - "[[Epistemic Practices]]"
   - "[[Epistemology]]"
@@ -59,6 +57,7 @@ related_concepts:
   - "[[Metacognitive Laziness]]"
   - "[[Language Skills]]"
   - "[[Academic Achievement]]"
+  - "[[Hypothesis]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Evaluative Judgement]]"
   - "[[Epistemic Stances]]"
@@ -83,7 +82,6 @@ related_concepts:
 related_theories:
   - "[[Creative Problem Solving]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Random Assignment]]"
   - "[[Three-Level Meta-Analysis]]"
   - "[[Systematic Review]]"
@@ -120,7 +118,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-07-01
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Metacognition
@@ -144,11 +142,11 @@ updated: 2026-10-07
 >
 > 显性元认知指导使学生习得规划、监控与评价自身思维过程的策略，能显著提高学生在[[Wicked Problem|劣构问题]]中的顿悟表征重构能力与远距离概念联想表现，证明创造性[[Problem Solving\|问题解决]]本质上依赖高质量的元认知调控。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, p. 10; Hargrove & Nietfeld, 2015)]]
 >
-> 在[[Man-Computer Symbiosis|人机共生]]探究中，高阶元认知监控表现为对生成式 AI 输出的[[Hypothesis\|假设]]前提、逻辑一致性与[[Scale of Measurement\|测量尺度]]展开持续审问，防止被动认知卸载侵蚀人类的[[Epistemic Agency\|认识主体性]]。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 363–365)]]
+> 在[[Man-Computer Symbiosis|人机共生]]探究中，高阶元认知监控表现为对生成式 AI 输出的假设前提、逻辑一致性与[[Scale of Measurement\|测量尺度]]展开持续审问，防止被动认知卸载侵蚀人类的[[Epistemic Agency\|认识主体性]]。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 363–365)]]
 
 > [!boundary]- 概念边界辨析
 > - **认知加工（Cognition）** 认知加工直接针对任务对象（如阅读文本、计算公式、生成创意用途）；元认知则针对认知加工本身（如审视当前生成的构想是否陷入某种思维定势，或检验特定解题路径是否有效）。
-> - **[[Epistemological Beliefs\|认识论信念]]（Epistemic Beliefs）** 认识论信念是个体关于知识本质、结构与确定性的哲学[[Hypothesis\|假设]]与态度倾向；元认知是将这些信念转化为即时监控、证据审校与策略重构的操作性调控过程。
+> - **[[Epistemological Beliefs\|认识论信念]]（Epistemic Beliefs）** 认识论信念是个体关于知识本质、结构与确定性的哲学假设与态度倾向；元认知是将这些信念转化为即时监控、证据审校与策略重构的操作性调控过程。
 > - **[[Self-Regulated Learning\|自我调节学习]]（SRL）** 元认知是自我调节学习的核心认知成分；自我调节学习除元认知外，还广泛涵盖动机意志调适、情绪管理与物理环境建构等维度。
 > - **[[Creative Self-Efficacy\|创造性自我效能感]]（CSE）** 创造性[[Self-Efficacy\|自我效能感]]是对自身完成创新任务的自信与主观预期；元认知则是用于评估与引导具体思维流动的策略知识与监控操作。
 
@@ -160,9 +158,9 @@ updated: 2026-10-07
 > | 比较维度 | **元认知（Metacognition）** | **认知加工（Cognition）** | **[[Critical Thinking\|批判性思维]]（Critical Thinking）** | **[[Self-Regulated Learning\|自我调节学习]]（SRL）** | **[[Creative Self-Efficacy\|创造性自我效能感]]（CSE）** |
 > |---|---|---|---|---|---|
 > | **核心对象** | 认知过程本身（二阶心智反思） | 外部任务客体或领域知识（一阶加工） | 论证推理的真伪、效度与偏倚 | 整个学习生态系统与自我行为 | 个体应对创新挑战的自信与信念 |
-> | **主要功能** | 监控、评估、调准策略与突破定势 | [[Coding in Qualitative Research\|编码]]、存储、提取、运算与生成表达 | 评估论据、识别谬误、权衡替代解释 | 统合动机、情感、行为与物理环境 | 激发启动动机、维持抗挫折韧性 |
+> | **主要功能** | 监控、评估、调准策略与突破定势 | 编码、存储、提取、运算与生成表达 | 评估论据、识别谬误、权衡替代解释 | 统合动机、情感、行为与物理环境 | 激发启动动机、维持抗挫折韧性 |
 > | **经典操作示例** | “我当前这套解题策略可能陷入了死胡同，需要退回重新表征问题” | “根据欧姆定律公式，计算当前电路的电流与电压数值” | “该[[Study Population and Sample\|研究样本]]缺乏[[Random Assignment\|随机分组]]，因而因果推论存在[[Threats to Internal Validity\|内部效度威胁]]” | “设定每天早晨专注阅读 45 分钟，并清理桌面手机干扰” | “我相信自己面对新颖[[Wicked Problem\|劣构问题]]时能构想出突破性解决方案” |
-> | **在[[Man-Computer Symbiosis\|人机协同]]中的角色** | 维持[[Epistemological Vigilance\|认识论警觉]]，抵抗算法流畅假象 | 借助 AI 提高打字、翻译与检索效率 | 核验 AI 生成[[Document\|文献]]与证据的真实性 | 规划人机协作分工并监控交互耗时 | 维持对自身原创能力的信心防线 |
+> | **在[[Man-Computer Symbiosis\|人机协同]]中的角色** | 维持[[Epistemological Vigilance\|认识论警觉]]，抵抗算法流畅假象 | 借助 AI 提高打字、翻译与检索效率 | 核验 AI 生成文献与证据的真实性 | 规划人机协作分工并监控交互耗时 | 维持对自身原创能力的信心防线 |
 
 ---
 
@@ -354,7 +352,7 @@ updated: 2026-10-07
 > | Hargrove & Nietfeld (2015) | 高校设计与工程专业学生（$EG = 118 / CG = 88$） | 准实验前[[Pre-test and Post-test\|后测]]：**【干预变量】**显性元认知指导 vs 替代训练；**【[[Dependent Variable\|结果变量]]】**元认知意识量表（MAI）得分与[[Creative Problem Solving\|创造性问题解决]]质量 | 干预组在创造性问题解决质量、新颖性评价及 MAI 元认知意识量表得分上均显著超越对照组（$p < .01$） | 直接因果证实显性元认知策略教学不仅能提升元认知意识，更能有效迁移至劣构问题解决中 |
 > | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | 3,000+ 名全球 IB 毕业生与非 IB 对照学生 | 准实验与倾向得分匹配对比：ToK 认识论课程学习为[[Independent Variable\|自变量]]，**【结果变量】**大学阶段元认知监控意识与批判反思倾向 | 修读 ToK 课程的学生在大学期间展现出显著更强的批判反思与元认知监控意识，有效防范教条主义盲从（$p < .01$） | 证实长期显性认识论追问对个体高阶元认知监控习惯的深远塑造作用 |
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] | 67 项高等教育 ChatGPT 实证研究（PRISMA 2020 框架） | [[Systematic Review\|系统综述]]与主题综合：显性反思支架为干预，**【结果变量】**人机交互中的元认知监控与[[Cognitive Offloading\|认知外包]]状态 | 27 项研究证实反思支架能激活元认知监控；12 项研究报告缺乏支架时出现元认知监控外包；被动工具使用与批判反思负相关（$\beta = -0.34, p < .001$） | 确立显性元认知监控在[[Generative Artificial Intelligence\|生成式 AI]] 时代作为抵御表面流畅性与心智侵蚀的核心防御机制 |
-> | [[Argument_Wu_2025_ER\|Wu et al. (2025, pp. 363–365)]] | N=124 名研究生统计推论任务 | 质性交互语料与认知追踪：高阶元认知监控 vs 算法盲从 | Student C 凭借元认知监控实施 7 轮持续质询，成功识别 ChatGPT 建议中的 3 处关键统计[[Hypothesis\|假设]]违背，完成从[[Chi-Squared Test\|卡方检验]]到非参数相关的正确决策演进 | 实证证实人机[[Dialogue in Education\|对话]]中的多轮元认知质询是打破绝对论依从、实现评价论建构的关键操作机制 |
+> | [[Argument_Wu_2025_ER\|Wu et al. (2025, pp. 363–365)]] | N=124 名研究生统计推论任务 | 质性交互语料与认知追踪：高阶元认知监控 vs 算法盲从 | Student C 凭借元认知监控实施 7 轮持续质询，成功识别 ChatGPT 建议中的 3 处关键统计假设违背，完成从[[Chi-Squared Test\|卡方检验]]到非参数相关的正确决策演进 | 实证证实人机[[Dialogue in Education\|对话]]中的多轮元认知质询是打破绝对论依从、实现评价论建构的关键操作机制 |
 
 ---
 
@@ -372,7 +370,7 @@ updated: 2026-10-07
 > 2. **压力测试与自相矛盾暴露** 再次输入相同情境确认，ChatGPT 改推卡方齐性检验；学生凭借元认知监控指出 8 名学生属于同一批被试而非独立总体，推翻齐性检验。
 > 3. **开放式探询** 要求模型推荐其他方法，ChatGPT 提出针对配对频数的麦克尼马尔检验（McNemar's test）。
 > 4. **[[Scale of Measurement\|测量尺度]]辨析** 追问为何独立性检验不可行，模型澄清独立性检验针对分类[[Variable\|变量]]，顺序量表更宜采用配对检验。
-> 5. **推翻模型[[Hypothesis\|假设]]** 学生审视后指出数据非配对二分类，排除麦克尼马尔检验。
+> 5. **推翻模型假设** 学生审视后指出数据非配对二分类，排除麦克尼马尔检验。
 > 6. **同伴研讨与多源印证** 将大模型给出的互相冲突建议与同学展开深入研讨。
 > 7. **最终决策收束** 综合[[Sample Size Determination\|样本量]]过小（$N=8$）、顺序尺度与非正态特征，排除所有卡方检验，选定非参数的斯皮尔曼等级相关。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 363–364)]]
 

@@ -7,10 +7,10 @@ aliases:
 summary: "研究伦理中保护参与者个人信息的核心权利，涉及信息敏感性、观察场所私密性和信息传播三个维度，是参与者自决权和尊严保护的基础"
 type: concept
 domain: "research-methodology"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - method/research-ethics
   - theme/research-governance
@@ -19,7 +19,6 @@ related_concepts:
   - "[[Anonymity in Research]]"
   - "[[Informed Consent]]"
   - "[[Rich and Thick Description]]"
-  - "[[Bildung]]"
   - "[[Sensitive Research]]"
 related_theories: []
 related_methods:
@@ -33,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-18
-updated: 2026-07-11
+updated: 2026-10-15
 ---
 
 # Privacy in Research
@@ -94,7 +93,7 @@ updated: 2026-07-11
 ## 应用案例
 
 > [!case] 应用案例索引
-> - 研究者在调查家庭[[Bildung\|教养]]方式时，在[[Questionnaire\|问卷]]中询问收入、宗教信仰和性取向等高度敏感信息——这些信息越敏感，保护措施应越多
+> - 研究者在调查家庭教养方式时，在[[Questionnaire\|问卷]]中询问收入、宗教信仰和性取向等高度敏感信息——这些信息越敏感，保护措施应越多
 > - 课堂[[Observation Method\|观察研究]]——研究者应将观察限于公共行为，而非跟踪教师进入私人空间
 
 ---

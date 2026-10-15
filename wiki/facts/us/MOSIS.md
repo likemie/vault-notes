@@ -11,9 +11,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 32
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
+fact_related_count: 30
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: 联邦资助的微电子原型制造与公共科研基础设施平台
 headquarters: 美国加利福尼亚州玛丽安德尔湾（Marina del Rey, California）
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Import Substitution Industrialisation]]"
   - "[[Multi-Project Wafer]]"
   - "[[Heterogeneous Integration]]"
-  - "[[Electronic Design Automation]]"
   - "[[Process Design Kit]]"
   - "[[Cognitive Decoupling]]"
   - "[[Competitiveness]]"
@@ -41,7 +40,6 @@ related_concepts:
   - "[[Creativity]]"
   - "[[General Purpose Technology]]"
   - "[[Demand-side Innovation Policy]]"
-  - "[[Document]]"
 related_theories:
   - "[[Developmental Network State]]"
 related_methods:
@@ -93,7 +91,7 @@ updated: 2026-10-15
 > - **1978–1980 — 米德–康威革命与早期 MPC 试验** 米德与康威出版划时代著作《超大规模集成电路系统导论》，提出独立于具体晶圆代工厂工艺的“Lambda 可伸缩几何设计规则”；1979 年通过 [[ARPANET]] 开展首个多项目芯片（Multi-Project Chip, MPC79）远程流片试验，汇聚了全美十余所顶尖高校的 82 个芯片设计方案。
 > - **1981–1990 — [[DARPA]] 资助建制化与打破芯片制造瓶颈** DARPA 在战略计算倡议（SCI）中敏锐识别到物理流片是全美芯片架构创新的最大外部瓶颈，出资正式设立 MOSIS 并由丹尼·科恩（Danny Cohen）等主持；MOSIS 面向大学与初创企业提供免费或极低成本的流片拼版服务，直接培育了斯坦福大学（MIPS 架构）与加州大学伯克利分校（RISC 架构）微处理器革命，支撑了全美 100 多所大学的 [[VLSI Project|VLSI]] 实验教学。[[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 183)]]; [[Argument_Block_2008_PS|(Block, 2008, p. 189)]]
 > - **1990s–至今 — 商业化 Fabless 生态奠基与先进工艺拓展** 随着[[Taiwan Semiconductor Manufacturing Corporation|台积电]]（TSMC）等商业晶圆代工厂的崛起，MOSIS 成为连接全球主流代工厂（TSMC、格罗方德、意法半导体）与全球科研机构的枢纽，支持深亚微米、FinFET 及硅光子前沿芯片原型的敏捷迭代。
-> - **2023 年 — [[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）全国 [[Multi-Project Wafer|MPW]] 与先进封装网络整合** 美国商务部在《国家半导体技术中心愿景与战略》（[[Argument_NIST_2023_NSTC|NIST, 2023]]）中将多项目晶圆与封装流片（MPW and Packaging Runs）确立为国家级核心中试项目，继承并升级了 MOSIS 开创的共享拼版模式。面对先进制程与 2.5D/3D [[Heterogeneous Integration|异构集成]]时代单次掩膜成本突破千万美元的门槛，NSTC 联合商业晶圆厂、大学产线与国家级中试设施建立全美聚合排期机制，并深度集成设计支持网关（DEG）提供云端 [[Electronic Design Automation|EDA]] 与预验证 IP 模块，实现从前端晶圆到后端先进封装测试载具（Test Vehicles）的全链条成本分摊。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 15, 24–25)]]
+> - **2023 年 — [[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）全国 [[Multi-Project Wafer|MPW]] 与先进封装网络整合** 美国商务部在《国家半导体技术中心愿景与战略》（[[Argument_NIST_2023_NSTC|NIST, 2023]]）中将多项目晶圆与封装流片（MPW and Packaging Runs）确立为国家级核心中试项目，继承并升级了 MOSIS 开创的共享拼版模式。面对先进制程与 2.5D/3D [[Heterogeneous Integration|异构集成]]时代单次掩膜成本突破千万美元的门槛，NSTC 联合商业晶圆厂、大学产线与国家级中试设施建立全美聚合排期机制，并深度集成设计支持网关（DEG）提供云端 EDA 与预验证 IP 模块，实现从前端晶圆到后端先进封装测试载具（Test Vehicles）的全链条成本分摊。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 15, 24–25)]]
 
 ---
 
@@ -176,7 +174,7 @@ updated: 2026-10-15
 > | [[National Science Foundation]] | Fact (Organization) | 协同资助全美大学师生通过 MOSIS 开展微电子科研与教学。 |
 > | [[1956 AT&T Consent Decree]] | Fact (Policy) | 与 MOSIS 共同构成了破除垄断、促进美国半导体专业化分工的制度力量。 |
 > | [[Fred Block]] | Person | 系统揭示 MOSIS 作为隐蔽发展型网络国家微观靶向公共平台打破研发瓶颈的经济社会学家。 |
-> | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 从隐蔽发展型网络国家演进视角论证 MOSIS 打破芯片物理流片瓶颈的权威[[Document\|文献]]。 |
+> | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 从隐蔽发展型网络国家演进视角论证 MOSIS 打破芯片物理流片瓶颈的权威文献。 |
 
 ---
 

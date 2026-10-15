@@ -8,7 +8,7 @@ aliases:
 summary: "治理中的结构性偏向机制，使某些政策选项、行动者和利益更容易获得支持，而其他替代方案被系统性边缘化"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 18
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Operationalization]]"
   - "[[Innovation Ecosystem]]"
-  - "[[Hypothesis]]"
   - "[[Spatial Sortings]]"
   - "[[Policy Network]]"
   - "[[Scientization of Politics]]"
@@ -43,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-13'
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Selectivity
@@ -85,7 +84,7 @@ updated: 2026-10-07
 
 ### 同质化效应
 
-通用政策框架将高度异质的区域纳入同一讨论范畴，忽视区域之间的根本结构性差异。尽管区域创新记分牌明确显示北欧、德语区和西大西洋区域的创新能力远高于南欧和东欧，官方的"创新生态体系"[[Discourse|话语]]仍[[Hypothesis|假设]]所有区域适合同一政策框架([[Argument_Rambla_2022_Springer|Rambla, 2022, p.174]])。这与 [[Spatial Sortings]] 的机制相通：知识密集型资本主义系统性地将地点和人口划分为"赢家"与"输家"。
+通用政策框架将高度异质的区域纳入同一讨论范畴，忽视区域之间的根本结构性差异。尽管区域创新记分牌明确显示北欧、德语区和西大西洋区域的创新能力远高于南欧和东欧，官方的"创新生态体系"[[Discourse|话语]]仍假设所有区域适合同一政策框架([[Argument_Rambla_2022_Springer|Rambla, 2022, p.174]])。这与 [[Spatial Sortings]] 的机制相通：知识密集型资本主义系统性地将地点和人口划分为"赢家"与"输家"。
 
 ### 就业维度优先于赋权维度
 

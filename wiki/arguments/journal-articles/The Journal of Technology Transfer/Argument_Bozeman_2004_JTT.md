@@ -24,7 +24,7 @@ title: "Argument_Bozeman_2004_JTT"
 argument_key: "Argument_Bozeman_2004_JTT"
 argument_display_title: "The NSF Engineering Research Centers and the University–Industry Research Revolution: A Brief History Featuring an Interview with Erich Bloch"
 argument_kind: "journal-article"
-argument_related_count: 27
+argument_related_count: 26
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -38,7 +38,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Competitiveness]]"
   - "[[Academic Freedom]]"
-  - "[[Document]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Engineering Education]]"
   - "[[Scientific Autarky]]"
@@ -112,7 +111,7 @@ updated: 2026-10-07
 > | 样本层面 | 构成 |
 > |----------|------|
 > | **口述访谈样本** | NSF 前主任[[Erich Bloch\|埃里希·布洛赫（Erich Bloch）]]（时任美国竞争委员会杰出研究员），深度追溯 ERC 动议、同行评审、淘汰关闭与行政干预历程。 |
-> | **[[Document\|文献]]与统计样本** | [[National Science Foundation\|NSF]] FastLane 数据库中 1984–2004 年获资助的全部 56 所中心（含地震工程中心）；NSF 2005 财年国会预算申请文本及工程教育与中心处（Division of Engineering Education and Centers, [[Educational Evidence Clearinghouses\|EEC]]）历年财务决算数据。 |
+> | **文献与统计样本** | [[National Science Foundation\|NSF]] FastLane 数据库中 1984–2004 年获资助的全部 56 所中心（含地震工程中心）；NSF 2005 财年国会预算申请文本及工程教育与中心处（Division of Engineering Education and Centers, [[Educational Evidence Clearinghouses\|EEC]]）历年财务决算数据。 |
 > | **材料情境** | 访谈于华盛顿特区进行，由作者团队主导提问并[[Transcription in Qualitative Research\|逐字转录]]；聚焦 ERC 成立二十周年之际的制度反思与模式扩散。 |
 
 ---

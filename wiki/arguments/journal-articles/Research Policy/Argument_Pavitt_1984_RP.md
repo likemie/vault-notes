@@ -7,9 +7,9 @@ title: "Argument_Pavitt_1984_RP"
 argument_key: "Argument_Pavitt_1984_RP"
 argument_display_title: "Sectoral patterns of technical change: Towards a taxonomy and a theory"
 argument_kind: "journal-article"
-argument_related_count: 11
+argument_related_count: 9
 argument_related_level: 0
-argument_related_stars: ""
+argument_related_stars: "☆"
 argument_related_color: "#dbeafe"
 journal: "Research Policy"
 authors:
@@ -30,8 +30,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Source of Knowledge]]"
   - "[[Epistemic Stances]]"
-  - "[[Hypothesis]]"
-  - "[[Assemblage]]"
   - "[[Competitiveness]]"
   - "[[Interaction Effect]]"
 related_theories:
@@ -123,13 +121,13 @@ updated: 2026-09-24
 Pavitt 通过三个维度的系统比较——企业规模分布、技术多样化模式和创新来源与使用——将产业归入三个基本类别，其中生产密集型进一步拆分为两个子类，实际构成四类[[Analytic Framework|分析框架]]：
 
 > [!line-a] 供应商主导型（Supplier Dominated）——纺织、农业、印刷、传统制造
-> Table 3 的数据显示，纺织产业 56% 的创新来自 10,000 人以上的大企业，但按创新企业主业分类时这一比例降至 35.1%，而 1,000 人以下小企业的贡献高达 24.1%。这意味着大量纺织创新实际上由主业在其他产业的企业（即设备供应商）产生。这些产业的技术变迁主要来自外部：制造部门提供新设备、新材料和新组件，使用部门仅进行选择性的采纳和适应。Salter 的[[Hypothesis\|假设]]——技术进步等同于资本品相对降价——在此类产业中基本成立，因为用户确实主要通过购买设备来获取新技术。
+> Table 3 的数据显示，纺织产业 56% 的创新来自 10,000 人以上的大企业，但按创新企业主业分类时这一比例降至 35.1%，而 1,000 人以下小企业的贡献高达 24.1%。这意味着大量纺织创新实际上由主业在其他产业的企业（即设备供应商）产生。这些产业的技术变迁主要来自外部：制造部门提供新设备、新材料和新组件，使用部门仅进行选择性的采纳和适应。Salter 的假设——技术进步等同于资本品相对降价——在此类产业中基本成立，因为用户确实主要通过购买设备来获取新技术。
 
 > [!line-a] 生产密集型（Production Intensive）
 > 这类产业内部研发和工程技术能力强，企业规模通常较大。Pavitt 将其进一步拆分为两个子类，二者的创新逻辑和企业规模分布截然不同。
 >
 > > [!col-l] 规模密集型（Scale Intensive）
-> > 以金属制造（143 项创新）、汽车（128 项）、食品加工（65 项）为代表。企业以大企业为主（汽车 72.2%、食品 74.9% 的创新来自万人以上企业）。创新围绕大规模连续流程和[[Assemblage\|装配]]线，核心目标是降低成本和提高产能。Pavitt 指出这类产业对自身流程技术有显著贡献——它们不仅使用设备，也在内部开发流程创新。
+> > 以金属制造（143 项创新）、汽车（128 项）、食品加工（65 项）为代表。企业以大企业为主（汽车 72.2%、食品 74.9% 的创新来自万人以上企业）。创新围绕大规模连续流程和装配线，核心目标是降低成本和提高产能。Pavitt 指出这类产业对自身流程技术有显著贡献——它们不仅使用设备，也在内部开发流程创新。
 >
 > > [!col-r] 专业化供应商（Specialised Suppliers）
 > > 以机械工程（662 项创新）和仪器工程（332 项）为代表。Table 3 揭示了一个关键模式：按创新企业主业分类时，中小企业贡献极高（机械工程 38.8%，仪器工程 54.0%）。这些企业与规模密集型产业形成共生关系：大企业需要专业设备实现流程创新，小企业专门设计和制造这些设备。Pavitt 特别指出，产品创新是核心——"没有任何流程创新能使机械计算器在电子芯片的产品创新面前保持[[Competitiveness|竞争力]]"。

@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 127
+fact_related_count: 126
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -61,7 +61,6 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Reference Society]]"
   - "[[Policy Borrowing]]"
-  - "[[Document]]"
   - "[[Discourse]]"
   - "[[Epistemology]]"
   - "[[Competitiveness]]"
@@ -298,7 +297,7 @@ updated: 2026-10-15
 > - **学术[[Paradigm\|范式]]迁移** 强力助推了“[[Evidence-Based Education\|循证教育]]政策”在全球的合法性确立，引导教育决策从传统的政治协商或意识形态偏好转向高度依赖量化测量的[[Positivism\|实证主义]]逻辑。
 > - **政策震慑与标杆树立** 借助公开排名触发跨国“PISA 冲击”，迫使德国、日本等传统教育强国展开自上而下的全国性标准改革与课程洗牌，树立以高表现国家为原型的“[[Reference Society\|参考社会]]”，引发广泛的[[Policy Borrowing\|政策借用]]。
 > - **治理形态创新** 成功探索出无须依托强制性国际公约约束、仅凭借数据披露、公开排队与同行声誉压力调控主权国家政策的[[Governing at a Distance\|远处治理]]（Governing at a Distance）与[[Governing by Numbers\|数字治理]]典型模式。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 424–425)]]
-> - **主权国家法定行政转化中的中介垄断** 在国家教育改革从议程设置迈向官方行政立法或颁行阶段时，OECD 的[[Policy Brokerage\|政策中介]]工具与指标表现出极强的排他性垄断力。实证研究显示，在挪威能力课程改革中，尽管前期咨询吸纳了 464 篇多元[[Document\|文献]]，但教育部最终颁布的官方行政法规中仅保留 22 篇参考文献，其中高达 20 篇被经合组织审查组垄断（涵盖[[Definition and Selection of Competencies\|能力界定与选择]]（Definition and Selection of Competencies，DeSeCo）项目框架及 OECD 挪威教育政策审查报告），印证了经合组织在主权国家行政决策出台阶段无与伦比的[[Discourse|话语]]权威。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
+> - **主权国家法定行政转化中的中介垄断** 在国家教育改革从议程设置迈向官方行政立法或颁行阶段时，OECD 的[[Policy Brokerage\|政策中介]]工具与指标表现出极强的排他性垄断力。实证研究显示，在挪威能力课程改革中，尽管前期咨询吸纳了 464 篇多元文献，但教育部最终颁布的官方行政法规中仅保留 22 篇参考文献，其中高达 20 篇被经合组织审查组垄断（涵盖[[Definition and Selection of Competencies\|能力界定与选择]]（Definition and Selection of Competencies，DeSeCo）项目框架及 OECD 挪威教育政策审查报告），印证了经合组织在主权国家行政决策出台阶段无与伦比的[[Discourse|话语]]权威。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
 
 > [!stat-cards]- 核心规模数据
 > 38 个正式成员国，逾 80 个 PISA 测评参与经济体，单轮受测学生样本约 60 万人，汇聚 3,000 余名专业雇员及数亿欧元年度综合运作预算。
@@ -362,7 +361,7 @@ updated: 2026-10-15
 > > [!axis] 技术规划先行介入与北方霸权扩张：从 1964 拉美规划到对联合国多边体系的挤压
 > > 批判比较教育学者解构经合组织技术官僚规划的外向渗透，及其对联合国[[Educational Multilateralism|多边教育治理]]体系的挤压。
 > >
-> > - **[[Technical Rationality|技术理性]]输出与地缘扩张批判（比奇、南威尔、琼斯与[[David Coleman|科尔曼]]）** 历史档案证实，经合组织的技术官僚规划远在 PISA 之前便已跨越欧美边界：1964 年 OECD 便与阿根廷国家发展委员会（CONADE）联合发布人力资源规划报告，凭借去情境化的社会技术确立其凌驾于受援国内部之上的客观科学专家地位（Southwell, 1997; [[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）。进入 1990 年代后，菲利普·琼斯与戴维·科尔曼（Jones & Coleman, 2005）指出，经合组织在北方发达国家的强势扩张构成了对联合国教科文组织传统权威的全面侵蚀与挤压，直接诱发了后者的领导权危机并逼出《德洛尔报告》反击；与此同时，OECD 协同世行深度参与“信息时代”五大支柱话语建构，其能力本位与质量评估框架在全球扩散中系统否定了后发国家的博雅知识传统。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 345–349)]]
+> > - **[[Technical Rationality|技术理性]]输出与地缘扩张批判（比奇、南威尔、琼斯与科尔曼）** 历史档案证实，经合组织的技术官僚规划远在 PISA 之前便已跨越欧美边界：1964 年 OECD 便与阿根廷国家发展委员会（CONADE）联合发布人力资源规划报告，凭借去情境化的社会技术确立其凌驾于受援国内部之上的客观科学专家地位（Southwell, 1997; [[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）。进入 1990 年代后，菲利普·琼斯与[[David Coleman|戴维·科尔曼]]（Jones & Coleman, 2005）指出，经合组织在北方发达国家的强势扩张构成了对联合国教科文组织传统权威的全面侵蚀与挤压，直接诱发了后者的领导权危机并逼出《德洛尔报告》反击；与此同时，OECD 协同世行深度参与“信息时代”五大支柱话语建构，其能力本位与质量评估框架在全球扩散中系统否定了后发国家的博雅知识传统。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 345–349)]]
 > > - **经合组织官方治理立场** 强调经合组织确立的是以同行评议、指标监测与趋势破译为核心的软性治理，致力于在经济效率与人类福祉之间维系适度平衡（Papadopoulos, 1994），旨在通过客观量化证据协助各主权国应对全球化与知识经济转型的挑战，而非推行指令性强制干预。
 >
 > > [!citation-card] 琼斯与科尔曼论经合组织在北方扩张对教科文组织的挤压
@@ -423,7 +422,7 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid] [[Document|文献]]与论证索引
+> [!evidence-grid] 文献与论证索引
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 运用国际政治理论三流派透视 OECD 从冷战前沿地缘工具向新自由主义数字[[Governing at a Distance|远处治理]]帝国的演化（pp. 420–425）。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 运用[[World Education Reform Database|世界教育改革数据库]]实证剖析 OECD [[Policy Brokerage|政策中介]]工具打包与经验横向借鉴机制，及其在挪威行政立法中的垄断影响（pp. 538–550）。
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 从[[Evolutionary Economics|演化经济学]]考察 OECD 科技统计与[[National Innovation System|国家创新系统]]概念的演进，反思单一研发投入排行的局限（pp. 8–11, 19–20）。

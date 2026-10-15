@@ -11,7 +11,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 38
+fact_related_count: 34
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Paradigm]]"
   - "[[Evidence-Based Education]]"
-  - "[[Document]]"
   - "[[Research Problem]]"
   - "[[Chain of Evidence]]"
   - "[[Educational Brokerage Agency]]"
@@ -38,8 +37,6 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[External Validity]]"
   - "[[Heterogeneity]]"
-  - "[[Transfer Translation Transformation]]"
-  - "[[Hypothesis]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Boundary Spanner]]"
 related_theories:
@@ -50,7 +47,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Qualitative Research]]"
   - "[[Weight of Evidence Framework]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
   - "[[Randomised Controlled Trials]]"
 related_instruments: []
@@ -73,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-10-01
+updated: 2026-10-15
 ---
 
 # EPPI-Centre
@@ -98,7 +94,7 @@ updated: 2026-10-01
 > [!dev-timeline]- 组织发展历程
 > - **1995 — 创设与方法奠基期** 在 UCL IOE 正式成立，以医学循证综合为[[Paradigm\|范式]]参照，开创适应教育与社会科学特性的[[Systematic Review\|系统综述]]规程，开发质性证据综合（Qualitative Evidence Synthesis）与主题综合方法([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 33]])。
 > - **1999–2000 — 纳入国家循证政策基础设施** 英国工党政府大力推进“循证公共决策”（Evidence-Based Policy），出资设立国家证据中心网络，EPPI-Centre 正式确立为国家级[[Evidence-Based Education\|循证教育]]与社会关怀核心支撑平台([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 31]])。
-> - **2007–2010s — 探索关系型中介与发起 [[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] 跨国网络** 面对单纯[[Document\|文献]]线性推送在推动实践变革上的局限，中心由[[David Gough\|戴维·高夫]]（David Gough）等人牵头，发起联合欧盟多国的 EIPPEE 计划，主动由单向文献分发转向多方参与式综述（Participatory Reviews）、决策者能力建设及“中介的中介”元协调生态([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 64, 67–68]]; [[Argument_Revai_2022_ChangingLandscape\|Révai, 2022, pp. 20–21]])。
+> - **2007–2010s — 探索关系型中介与发起 [[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] 跨国网络** 面对单纯文献线性推送在推动实践变革上的局限，中心由[[David Gough\|戴维·高夫]]（David Gough）等人牵头，发起联合欧盟多国的 EIPPEE 计划，主动由单向文献分发转向多方参与式综述（Participatory Reviews）、决策者能力建设及“中介的中介”元协调生态([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 64, 67–68]]; [[Argument_Revai_2022_ChangingLandscape\|Révai, 2022, pp. 20–21]])。
 > - **2020s — 数字化基础设施与纵向存续标杆** 持续升级 EPPI-Reviewer 智能系统综述协作软件；在[[OECD\|经合组织]]回顾 2007 年确立的 6 家国际标杆中介机构时，EPPI-Centre 与美国 [[What Works Clearinghouse\|WWC]] 成为仅有的两家保持持续完全活跃的机构([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 64]])。
 
 ---
@@ -114,14 +110,14 @@ updated: 2026-10-01
 > [!pathways]- 业务运行与多元协同机制
 > - **参与式议程设置（Participatory Agendas）** 邀请政策制定者、学校教师与服务对象早期介入选题界定，确保综述问题精准呼应复杂教育现实，而非闭门造车。
 > - **质性与定量[[Mixed Methods Research\|混合方法]]矩阵** 突破单一量化[[Meta-analysis\|元分析]]的狭隘界限，系统吸纳[[Qualitative Research\|定性研究]]（Qualitative Research）与实地经验，研制“实证因果效应 $+$ 实施机制解释”的综合[[Chain of Evidence\|证据链]]。
-> - **全流程透明与质量控制** 强制执行公开注册审查方案（Protocol Registration）、双人独立[[Document\|文献]]筛选、严格偏倚风险评价与证据权重（[[Weight of Evidence Framework\|Weight of Evidence]]）分级。
+> - **全流程透明与质量控制** 强制执行公开注册审查方案（Protocol Registration）、双人独立文献筛选、严格偏倚风险评价与证据权重（[[Weight of Evidence Framework\|Weight of Evidence]]）分级。
 
 ---
 
 ## 核心业务与旗舰产出
 
 > [!finding-cards] 核心业务矩阵与技术产品
-> - **EPPI-Reviewer 智能[[Systematic Review\|系统综述]]软件平台** 自主研发的端到端综述管理系统，集成机器学习[[Document\|文献]]筛选、定性[[Coding in Qualitative Research\|编码]]、[[Effect Size\|效应量]][[Meta-analysis\|元分析]]与报告生成功能，被坎贝尔协作网（[[Campbell Collaboration]]）及全球数千个研究机构广泛采购采用。
+> - **EPPI-Reviewer 智能[[Systematic Review\|系统综述]]软件平台** 自主研发的端到端综述管理系统，集成机器学习文献筛选、定性编码、[[Effect Size\|效应量]][[Meta-analysis\|元分析]]与报告生成功能，被坎贝尔协作网（[[Campbell Collaboration]]）及全球数千个研究机构广泛采购采用。
 > - **方法论专著与前沿审查指南** 连续发布《系统综述导论》（An Introduction to Systematic Reviews）等权威指南，奠定了国际跨学科系统综述的方法学教科书标准。
 > - **高利害教育与公共政策专题综述** 针对教师留任、小班化教学、贫困学生学业干预及早期教育等重大议题受托发布百余项深度系统综述，直接进入英国国会辩论与政府白皮书。
 > - **跨国元中介网络平台（[[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]]）** 主导建立欧洲教育循证政策与实践知识库，统筹制定跨国教育综述的共享质量标准，实现证据成果跨国流转([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 67]])。
@@ -164,9 +160,9 @@ updated: 2026-10-01
 > > [!axis] 关系型中介与全系统生态网络（Ecosystem）的距离
 > > 探讨依托精英大学的研究中心能否充分激发一线教师的主动实践变革。
 > >
-> > - **[[Knowledge Mediation\|知识中介]]演进批判** [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] 指出，尽管 EPPI-Centre 积极探索多方协作与能力建设，但其运行重心依然偏向大学象牙塔内的“证据生产与[[Transfer Translation Transformation\|转译]]供给”；相比于 [[Education Endowment Foundation\|EEF]] 构建的“[[Research Schools Network\|研究学校网络]]”（Research Schools Network）扎根学校基层、驱动一线主动“拉动”（Pull）证据的全系统生态模型，传统学术证据中心依然存在一定程度的供给侧偏斜。
+> > - **[[Knowledge Mediation\|知识中介]]演进批判** [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] 指出，尽管 EPPI-Centre 积极探索多方协作与能力建设，但其运行重心依然偏向大学象牙塔内的“证据生产与转译供给”；相比于 [[Education Endowment Foundation\|EEF]] 构建的“[[Research Schools Network\|研究学校网络]]”（Research Schools Network）扎根学校基层、驱动一线主动“拉动”（Pull）证据的全系统生态模型，传统学术证据中心依然存在一定程度的供给侧偏斜。
 >
-> > [!axis] 清算中介因果作用[[Hypothesis|假设]]与微观转移实效知之甚少
+> > [!axis] 清算中介因果作用假设与微观转移实效知之甚少
 > > 探讨清算机构模式在推动微观教育教学常态化变革中的实证成效赤字。[[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, p. 10)]]
 > >
 > > - **国际转移目标达成度证据匮乏** [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] 指出，包括英国 EPPI-Centre、美国 [[What Works Clearinghouse|WWC]] 及丹麦清算所在内的国际代表性机构，虽然在宏观政策与学术界广受赞誉，但关于此类清算机构究竟在多大程度上真正达成了预期的转移目标（intendierte Transferziele），迄今为止在实证层面依然极度匮乏严格检验。
@@ -190,4 +186,4 @@ updated: 2026-10-01
 > | [[EU Evidence-Informed Education Policy Initiatives]] | Fact (Policy) | EPPI-Centre 牵头发起并深度协调的泛欧洲证据知情政策与实践合作网络（EIPPEE）。 |
 > | [[Boundary Spanner]] | Concept | 机构在大学学术研究界与公共政策/一线教育社群之间承担的关键跨界协调功能。 |
 > | [[Systematic Review]] | Method | 机构研发、拓展与制度化推广的核心证据综合方法体系。 |
-> | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] | Argument | 剖析 EPPI-Centre 等国际清算中介底层转移作用[[Hypothesis\|假设]]的反思贫困与预期目标达成度验证赤字。 |
+> | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] | Argument | 剖析 EPPI-Centre 等国际清算中介底层转移作用假设的反思贫困与预期目标达成度验证赤字。 |

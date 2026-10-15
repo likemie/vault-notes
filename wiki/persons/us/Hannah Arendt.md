@@ -7,7 +7,7 @@ summary: "德裔美籍著名政治哲学家、思想家，20世纪最具原创�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 28
+person_related_count: 27
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -22,7 +22,6 @@ tags:
 related_concepts:
   - "[[Banality of Evil]]"
   - "[[Bureaucracy]]"
-  - "[[Document]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Critical Thinking]]"
   - "[[Bildung]]"
@@ -57,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Hannah Arendt
@@ -83,7 +82,7 @@ updated: 2026-10-08
 > [!timeline] 生平与职涯
 > - **1906** 出生于德国下诺曼底汉诺威附近的林登（Linden），在柯尼斯堡成长；青年时期展现出非凡的古典语文学与哲学天赋。
 > - **1924–1928** 先后在马尔堡大学师从马丁·海德格尔（Martin Heidegger）、在弗莱堡大学师从[[Edmund Husserl|埃德蒙德·胡塞尔]]（Edmund Husserl），最终在海德堡大学卡尔·雅斯贝尔斯（Karl Jaspers）指导下完成博士论文《圣奥古斯丁爱之概念》（*Der Liebesbegriff bei Augustin*）。
-> - **1933** 纳粹上台后因参与反纳粹犹太复国主义地下[[Document|文献]]收集遭盖世太保逮捕，随后流亡法国巴黎，投身青年移民救助机构。
+> - **1933** 纳粹上台后因参与反纳粹犹太复国主义地下文献收集遭盖世太保逮捕，随后流亡法国巴黎，投身青年移民救助机构。
 > - **1941** 逃离维希法国集中营，流亡到达美国纽约；此后十年作为无国籍流亡学者在学术界与出版界艰难求索。
 > - **1951** 获得美国国籍；出版划时代巨著《极权主义的起源》，系统奠定其世界级政治理论家地位。
 > - **1958** 出版《人的境况》，确立行动（Action）、劳动（Labor）与工作（Work）的三元哲学框架与公共领域理论。
@@ -154,7 +153,7 @@ updated: 2026-10-08
 > *The experiment punctured the illusion that wartime atrocities were the work of a few twisted sadists, vindicating Hannah Arendt's insight into the banality of evil: under the cloak of administrative obedience, ordinary people perform terrible deeds with impeccable politeness.*
 
 > [!citation-card] 勒梅尔论阿伦特思想对反思教育测评工具主义的价值
-> 从[[John Dewey|杜威]]、[[Immanuel Kant|康德]]到阿伦特，西方教育哲学传统始终将想象力、反思与审慎的判断力视为教育实践的核心；当代将教育简化为单一[[Effect Size|效应量]]与可见控制的技术官僚取向，构成了对这一深厚人文[[Bildung|教化]]传统的深刻断裂。[[Argument_Rømer_2018_EPT|(Rømer, 2018, p. 8)]]
+> 从[[John Dewey|杜威]]、[[Immanuel Kant|康德]]到阿伦特，西方教育哲学传统始终将想象力、反思与审慎的判断力视为教育实践的核心；当代将教育简化为单一[[Effect Size|效应量]]与可见控制的技术官僚取向，构成了对这一深厚人文教化传统的深刻断裂。[[Argument_Rømer_2018_EPT|(Rømer, 2018, p. 8)]]
 >
 > *From Dewey and Kant to Arendt, imagination and judgment are at the very heart of educational action.*
 
@@ -178,7 +177,7 @@ updated: 2026-10-08
 > > 围绕 1961 年耶路撒冷审判中阿道夫·艾希曼究竟是不加反思的技术官僚还是狂热的反犹主义意识形态狂徒，历史学界与哲学界展开了长达数十年的激烈论战。
 > >
 > > - **Hannah Arendt（1963）** 强调艾希曼既非心理变态亦非狂热撒旦，其可怕之处在于语言贫乏、无法站在他人立场思考的“无思状态”（Thoughtlessness），体现了现代官僚体制特有的平庸之恶。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, p. 135)]]
-> > - **David Cesarani（2004）** 基于阿根廷录音档案等新发掘历史[[Document|文献]]，主张艾希曼在私下表现出极其狂热且深思熟虑的纳粹意识形态信仰，阿伦特低估了其主观恶意，但平庸之恶作为现代组织理论范畴依然具有超越个案的普遍分析价值。
+> > - **David Cesarani（2004）** 基于阿根廷录音档案等新发掘历史文献，主张艾希曼在私下表现出极其狂热且深思熟虑的纳粹意识形态信仰，阿伦特低估了其主观恶意，但平庸之恶作为现代组织理论范畴依然具有超越个案的普遍分析价值。
 
 > [!warning] 未解问题与边界
 > 平庸之恶概念旨在揭示[[Bureaucracy|科层制]]与[[Disciplina and Doctrina|规训]]体制中思考能力被系统性剥夺的普遍心理危机，但绝不构成对具体行动者道德与法律罪责的赦免；在组织应用中，必须严格区分“对体制盲从的批判”与“借结构之名推卸个人责任的合规借口”。

@@ -9,7 +9,7 @@ aliases:
 summary: "皮亚杰开创的发生认识论与认知发展四阶段建构主义理论体系，揭示感觉运动、前运算、具体运算与形式运算的层级质变机制，现代脑科学研究进一步确立了前额叶皮层发育及执行功能成熟与其高度平行的生物-认知机制。"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 42
+theory_related_count: 41
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Executive Function]]"
   - "[[Prefrontal Cortex]]"
   - "[[Construct]]"
-  - "[[Hypothesis]]"
   - "[[Cognitive Shifting]]"
   - "[[Working Memory]]"
   - "[[Generative Artificial Intelligence]]"
@@ -69,7 +68,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-04
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Piaget's Theory of Cognitive Development
@@ -107,7 +106,7 @@ updated: 2026-09-22
 > | **客体永久性（Object Permanence）** | 阶段特征 | 感觉运动阶段的核心成就，认识到物理客体即使在视野之外也依然客观存在。 |
 > | **自我中心与集中性（Egocentrism & Centration）** | 阶段特征 | 前运算阶段的思维局限，仅能从自身视角出发，且注意力局限于情境的单一维度。 |
 > | **守恒（Conservation）与可逆性（Reversibility）** | 阶段特征 | 具体运算阶段的标志，理解物体的物理属性（如体积、质量）不随形态变换而改变。 |
-> | **[[Hypothesis\|假设]]演绎推理（Hypothetico-Deductive Reasoning）** | 阶段特征 | 形式运算阶段的顶峰，能脱离具象事物，依据抽象命题进行逻辑演绎与反思。 |
+> | **假设演绎推理（Hypothetico-Deductive Reasoning）** | 阶段特征 | 形式运算阶段的顶峰，能脱离具象事物，依据抽象命题进行逻辑演绎与反思。 |
 > | **[[Executive Function\|执行功能（Executive Function, EF）]]** | 神经心理构件 | 包含抑制控制、[[Cognitive Shifting\|认知转换]]与[[Working Memory\|工作记忆]]更新三核心成分，是大脑前额叶驱动认知阶段转化的生理引擎。 |
 
 ---
@@ -129,7 +128,7 @@ updated: 2026-09-22
 >   - **感觉运动期（0–2 岁）** 背外侧前额叶皮层（Dorsolateral Prefrontal Cortex, dlPFC）第 III 层锥体细胞经历爆发性[[Synaptogenesis\|突触发生]]（Synaptogenesis）与葡萄糖代谢加速，支撑注意力启动与客体永久性形成；
 >   - **前运算期（2–7 岁）** 灰质密度在 3 岁达峰后开启大规模[[Synaptic Pruning\|突触修剪]]（Synaptic Pruning）与轴突[[Myelination\|髓鞘化]]（Myelination），右下腹外侧前额叶（Ventrolateral Prefrontal Cortex, vlPFC）激活突破[[Attentional Inertia\|注意力惯性]]；
 >   - **具体运算期（7–11 岁）** 额纹状体通路（Frontostriatal Pathway）环路化，抑制与[[Cognitive Shifting\|认知转换]]功能平稳熟化，掌握守恒与可逆逻辑；
->   - **形式运算期（11–16 岁）** 双侧 PFC 皮层选择性变薄与神经网络全局整合，[[Working Memory\|工作记忆]]更新能力全面达标，支持[[Hypothesis\|假设]]演绎推理。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, pp. 8–16)]]
+>   - **形式运算期（11–16 岁）** 双侧 PFC 皮层选择性变薄与神经网络全局整合，[[Working Memory\|工作记忆]]更新能力全面达标，支持假设演绎推理。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, pp. 8–16)]]
 
 > [!mechanism-map]- 四阶段脑-认知平行发育与执行功能对齐架构图
 > ```mermaid
@@ -187,7 +186,7 @@ updated: 2026-09-22
 > - **执行功能与干预敏感度** 抑制与转换平稳成熟，为具体向形式运算的抽象跨越奠定基础。在 K-12 阶段 AI [[AI Agent in Education\|智能体]]干预中，高小学段展现出全学段最高的认知敏感度（$g = 0.877$）。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, p. 7)]]
 
 > [!phase] 形式运算阶段（Formal Operational Stage, 11–16 岁及以上）
-> - **认知表征** 脱离具象实物约束，掌握基于[[Hypothesis\|假设]]命题的组合分析与假设演绎推理，发展出[[Reflexivity\|反思性]]智能（Reflective Intelligence）。
+> - **认知表征** 脱离具象实物约束，掌握基于假设命题的组合分析与假设演绎推理，发展出[[Reflexivity\|反思性]]智能（Reflective Intelligence）。
 > - **典型测评范式** 威斯康星卡片分类测验（Wisconsin Card Sorting Test, WCST）与保持追踪任务（Keep-track Task）。
 > - **脑发育机制** 皮层选择性变薄（Cortical Thinning），双侧 PFC 及前扣带回（Anterior Cingulate Cortex, ACC）的皮层厚度减少精准预测了更新任务成绩；dlPFC 第 III 层锥体网络在 16 岁锁定成人结构，全局脑网络整合协同。
 > - **执行功能表征** 工作记忆更新能力与转换速度在 15 至 16 岁全面登顶成人基准。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, pp. 14–17)]]

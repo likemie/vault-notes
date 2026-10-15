@@ -22,7 +22,7 @@ related_concepts:
   - "[[Bureaucracy]]"
   - "[[Picking the Willing]]"
   - "[[Social Impact Investing]]"
-  - "[[Attrition]]"
+  - "[[Competitiveness]]"
   - "[[Public Dynamic Capabilities]]"
   - "[[Embedded Autonomy]]"
   - "[[Directionality of Innovation]]"
@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-08
+updated: 2026-10-15
 title: French Modernisation Commissions
 aliases:
   - 法国现代化委员会
@@ -81,7 +81,7 @@ aliases:
 > | **机构行政能力** | 高度集中、内生培育顶级技术文官与战略专才。 | 缺乏内部行政能力，沦为松散外部委员会与短期外包。 |
 > | **企业合作策略** | [[Picking the Willing\|挑选意愿者]]，与最具创新活力的前沿企业协同。 | 受制于传统行会代表制，被落后平庸的既得利益俘获。 |
 > | **政策周期视野** | 跨越政党更迭的 5–10 年长期稳定指导性规划。 | 频繁受选举周期动荡影响，政策落入短期化与摇摆。 |
-> | **产业升级结果** | 成功催生高速铁路（TGV）、核电体系与空中客车（Airbus）。 | 规划全盘受挫，关键制造业竞争力持续[[Attrition\|流失]]。 |
+> | **产业升级结果** | 成功催生高速铁路（TGV）、核电体系与空中客车（Airbus）。 | 规划全盘受挫，关键制造业[[Competitiveness\|竞争力]]持续流失。 |
 
 > [!dimension] 理论意义与实践贡献
 > - **欧洲国家自主能力的典范** [[Andrew Schonfield|安德鲁·肖恩菲尔德]]（Schonfield, 1966）在《现代资本主义》中将法国计划署作为战后欧洲国家能力的最强典范；正是法国在公共部门内部长期培育的技术规划能力，使法国能够在 1960–70 年代成功主导了欧洲协和飞机、阿丽亚娜火箭及核能自主化等一系列大型技术使命。（pp. 794, 796）

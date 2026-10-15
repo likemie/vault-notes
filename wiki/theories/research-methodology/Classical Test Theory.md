@@ -11,7 +11,7 @@ alias_reviewed:
 summary: "将测验分数分解为真实分数与误差之和的测量理论，假设真实分数是无限次独立施测的期望值，是题目分析和信度计算的基础框架"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 17
+theory_related_count: 16
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Construct]]"
   - "[[Cultural Capital]]"
-  - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
   - "[[Achievement and Aptitude Tests]]"
@@ -43,7 +42,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-07-24
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Classical Test Theory
@@ -92,7 +91,7 @@ updated: 2026-09-17
 > - **受试者态度** 受试者对测验的动机、焦虑或抵触情绪影响真实能力的展现
 
 > [!proposition-chain] 核心命题一｜观测分数可以分解为真实分数与随机误差两部分
-> - **前提一** [[Hypothesis\|假设]]存在一个真实分数——即个体在完全无误差测量条件下本应获得的分数，等于无限次独立施测的期望均值。
+> - **前提一** 假设存在一个真实分数——即个体在完全无误差测量条件下本应获得的分数，等于无限次独立施测的期望均值。
 > - **前提二** 在现实世界中，由于文化与社经背景、测验偏差、施测与计分方式、受试者态度等因素，误差不可避免地存在。
 > - **推导** 每次施测得到的观测分数是真实分数叠加了误差项的结果：$X = T + E$。这是 CTT 最基本的数学模型。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24\|(Ch24, 24.5 节)]]
 
@@ -109,7 +108,7 @@ updated: 2026-09-17
 ## 理论立场与使用方式
 
 > [!theory-stance] [[Epistemology\|认识论]]立场
-> - **[[Ontology\|本体论]]** [[Hypothesis\|假设]]存在稳定的个体差异（真实能力或特质），这些差异可以通过测验以概率方式被估计。
+> - **[[Ontology\|本体论]]** 假设存在稳定的个体差异（真实能力或特质），这些差异可以通过测验以概率方式被估计。
 > - **认识论** 测量误差是随机的、不可消除但可估计的；通过[[Reliability\|信度]]系数可以量化误差的大小。
 > - **方法含义** 要求研究者通过信度分析（重测、复本、分半、[[Internal Consistency\|内部一致性]]）评估测验质量；通过[[Item Analysis\|题目分析]]筛选和改进题目。
 > - **不能直接推出的东西** 不能从观测分数声称获得了真实分数；不能假设不同测验上的分数可以直接比较；不能假设题目参数独立于施测样本。

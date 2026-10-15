@@ -9,7 +9,7 @@ aliases:
 summary: "约翰·科特提出的组织变革领导力经典理论，将成功的复杂组织变革提炼为营造变革氛围、动员全员参与、实施并固化变革三大阶段与八个递进步骤。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 21
+theory_related_count: 19
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -19,11 +19,9 @@ tags:
   - theme/higher-education
 related_concepts:
   - "[[Research Universities]]"
-  - "[[Hypothesis]]"
   - "[[Paradigm]]"
   - "[[Competitiveness]]"
   - "[[STEM Education]]"
-  - "[[Attrition]]"
   - "[[Research Question]]"
   - "[[Communities of Practice]]"
   - "[[Scaffolding]]"
@@ -47,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Kotter's 8-Step Change Model
@@ -58,7 +56,7 @@ updated: 2026-10-07
 
 > [!theory-position] 理论定位
 > - **解释对象** 复杂科层组织（包括大型企业、政府部门与[[Research Universities|研究型大学]]）如何克服组织惯性与系统阻力，成功实施系统性深层变革。
-> - **理论问题** 传统组织管理理论往往[[Hypothesis|假设]]变革可以通过行政命令自上而下线性推进，忽视了多数组织转型失败根源于未能在组织成员中营造紧迫感、缺乏强有力跨部门领导联盟以及新[[Paradigm|范式]]未能制度化固化。
+> - **理论问题** 传统组织管理理论往往假设变革可以通过行政命令自上而下线性推进，忽视了多数组织转型失败根源于未能在组织成员中营造紧迫感、缺乏强有力跨部门领导联盟以及新[[Paradigm|范式]]未能制度化固化。
 > - **理论类型** 组织社会学与领导力过程解释理论、规范性战略变革操作规程。
 > - **知识位置** 植根于卢因（[[Kurt Lewin]]）变革三阶段论（解冻—变革—再冻结），发展为现代组织管理与高等教育学术治理变革的主流领导力[[Analytic Framework|分析框架]]。
 
@@ -104,7 +102,7 @@ updated: 2026-10-07
 > [!theory-proposition] 命题一｜没有营造足够的组织紧迫感，跨部门变革注定在自满与惯性中流产
 > **解释** Kotter (1995) 强调，超过 50% 的组织变革之所以在起点夭折，原因在于领导层未能打破成员的舒适区与自满情绪（Complacency）。组织内部往往被虚假的安全感所笼罩；唯有当领导层借助外部危机（如产业政策突变、技术脱节威胁）将紧迫感提升至全员阈值以上，组织成员才会自发产生改变既有行为[[Paradigm|范式]]的意愿。
 >
-> **应用实例** 在高校面对国家半导体危机与《[[CHIPS and Science Act|芯片法案]]》立法时，学者通常习惯于在各自狭隘的细分学科内安稳发文；校级领导层通过高调宣示全美 140 万 [[STEM Education|STEM]] 人才断层与制造产能[[Attrition|流失]]危机，成功打破了高校院系原有的学术孤岛惯性，调动起各系骨干学者参与跨学科动员的紧迫感。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 2–3)]]
+> **应用实例** 在高校面对国家半导体危机与《[[CHIPS and Science Act|芯片法案]]》立法时，学者通常习惯于在各自狭隘的细分学科内安稳发文；校级领导层通过高调宣示全美 140 万 [[STEM Education|STEM]] 人才断层与制造产能流失危机，成功打破了高校院系原有的学术孤岛惯性，调动起各系骨干学者参与跨学科动员的紧迫感。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 2–3)]]
 
 > [!theory-proposition] 命题二｜跨领域领导联盟与实体制度化交接保障深层变革的可持续性
 > **解释** 复杂的系统性变革不能仅依靠单一行政长官发号施令，必须组建由具备高学术威望与跨学科专长的骨干构成的强有力指导联盟（专班机制）；更重要的是，当专班完成早期的危机动员后，必须将自发机制固化为常态化组织实体，否则变革成果将伴随专班解散而迅速衰退。
@@ -176,7 +174,7 @@ updated: 2026-10-07
 > [!theory-boundary] 局限性与适用边界
 > - **适合分析** 复杂大型组织在遭遇外部战略冲击时有组织的顶层再造、跨部门动员与重大制度演进。
 > - **成立条件** 必须拥有高层领导的坚定授权，且组织面临的外部危机或机遇具有高度可信的紧迫性。
-> - **解释不足** 强[[Hypothesis|假设]]了自上而下的领导力推进次序，对草根自下而上的自组织[[Emergence|涌现]]创新、学术共同体追求纯粹[[Academic Freedom|学术自由]]时的抵触心理缺乏充分包容。
+> - **解释不足** 强假设了自上而下的领导力推进次序，对草根自下而上的自组织[[Emergence|涌现]]创新、学术共同体追求纯粹[[Academic Freedom|学术自由]]时的抵触心理缺乏充分包容。
 > - **不能直接推出** 机械照搬八个步骤不必然确保实质技术突破；学术科研具有不可预测性，组织架构的变革需要与基层学者的学术自驱力及微观学习机制（如情境学习与[[Transformative Learning Theory|转化学习]]）深度共振。
 
 ---

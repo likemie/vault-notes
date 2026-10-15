@@ -8,7 +8,7 @@ aliases:
 summary: "先完整论述古典哲学层面（杜威等的经验、探究与行动后果），再阐述延伸出的研究方法论层次（混合方法研究的问题驱动与方法自由），并剖析跨国治理中将教育窄化为绩效精算的实用主义范式与紧迫实用主义认知盲区。"
 type: concept
 domain: "educational-philosophy"
-related_count: 61
+related_count: 59
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Pragmatism in China]]"
   - "[[Recontextualization]]"
   - "[[Constructivist Paradigm]]"
-  - "[[Hypothesis]]"
   - "[[Ontology]]"
   - "[[Communities of Practice]]"
   - "[[Operationalization]]"
@@ -46,7 +45,6 @@ related_concepts:
   - "[[Engineering Mindset]]"
   - "[[Global Educational Discourse]]"
   - "[[Educational Meliorism]]"
-  - "[[Document]]"
   - "[[Commensuration]]"
   - "[[Research Ethics]]"
   - "[[Technological Republic]]"
@@ -133,7 +131,7 @@ updated: 2026-10-15
 > [!contrast-table] 实用主义范式与其他研究范式的对比
 > | 维度 | [[Pragmatic Paradigm\|实用主义范式]] | [[Positivism\|实证主义]] | [[Postpositivism\|后实证主义]] | [[Constructivist Paradigm\|建构主义范式]] |
 > |:---|:---|:---|:---|:---|
-> | **分析对象** | 问题解答与行动后果 | 客观法则与因果规律 | 独立于主体的[[Hypothesis\|假设]]理论 | 参与者的主观经验与社会建构 |
+> | **分析对象** | 问题解答与行动后果 | 客观法则与因果规律 | 独立于主体的假设理论 | 参与者的主观经验与社会建构 |
 > | **[[Ontology\|本体论]]** | 兼具单一与多重实在 | 单一、绝对的客观实在 | 单一但只能不完美理解的客观实在 | 多重、主观建立的实在 |
 > | **[[Epistemology\|认识论]]** | [[Praxis\|实践]]有效性（What works） | 主客体分离的绝对客观 | 概率性的客观与[[Falsification\|证伪]] | 互动的主观建构 |
 > | **方法论取向** | [[Fitness for Purpose\|适合目的]]与折中多元主义 | 纯量化与控制实验 | 假设检验与量化修正 | 质性深入探究 |
@@ -145,7 +143,7 @@ updated: 2026-10-15
 ### 第一部分：哲学层面核心要素（古典哲学传统）
 
 > [!feature] 哲学层面要素
-> - **行动后果与担保性断言（Action Consequences）** 知识的价值不在于对抽象实在的静止再现，而在于行动产生的实际后果与可修正的[[Hypothesis|假设]]（Peirce, James, Dewey）。
+> - **行动后果与担保性断言（Action Consequences）** 知识的价值不在于对抽象实在的静止再现，而在于行动产生的实际后果与可修正的假设（Peirce, James, Dewey）。
 > - **经验连续性与[[Reflexivity|反思性]]探究** 将经验理解为人与环境的互动交易，探究是消除怀疑、重构情境的连续动作（Dewey, 1916）。
 > - **渐进[[Pragmatism in China|实验主义]]（Piecemeal Experimentalism）** 反对一步到位的激进重构，主张社会与教育重组只能“零碎地完成，一步一个脚印”（Dewey [1916] 2018, pp. 146–147）。
 
@@ -227,7 +225,7 @@ updated: 2026-10-15
 ### 命题四（比较教育学方法论层）　实用主义问题求解传统催生比较教育的假设-演绎问题法与实用互动范式
 
 > [!concept-lens] 比较教育学方法论争鸣与多元范式演进
-> 探讨实用主义从杜威反思思维向比较教育学“[[Hypothesis|假设]]-演绎[[Problem Approach|问题法]]”及微观批判范式的演化逻辑。
+> 探讨实用主义从杜威反思思维向比较教育学“假设-演绎[[Problem Approach|问题法]]”及微观批判范式的演化逻辑。
 
 > [!claim] Holmes (1965) & [[Argument_Rust_2009_Reflections|Rust et al. (2009)]]
 > **杜威反思思维与假设-演绎问题法** [[Brian Holmes|布莱恩·霍姆斯]]依据[[John Dewey|杜威]]（Dewey, 1910, *How We Think*）的问题求解传统与[[Karl Popper|卡尔·波普尔]]（Karl Popper）的批判理性主义，在比较教育学中倡导“问题法（Problem Approach）”与“假设-演绎法（Hypothetico-deductive Approach）”，向[[George Bereday|乔治·贝雷迪]]（George Bereday）的纯经验描述与归纳法传统发起有力挑战，强调在具体社会背景中检验改革假设并预测行动后果。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 128–129)]]
@@ -268,7 +266,7 @@ updated: 2026-10-15
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 所属层次 | 核心指向 | 适用情境 | 代表学者与[[Document\|文献]] |
+> | 命题类型 | 所属层次 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |:---|:---|:---|:---|:---|
 > | **行动后果与真理工具论** | 层次一：哲学层面 | 将真理定义为情境行动中经受检验的有效后果 | 认识论与探究哲学 | Dewey (1916); Cherryholmes (1992) |
 > | **问题驱动与方法自由** | 层次二：方法论层次 | 强调方法服务于研究问题，主张适合目的与技术自由 | [[Mixed Methods Research\|混合方法研究]]设计 | [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] |
@@ -283,7 +281,7 @@ updated: 2026-10-15
 
 > [!dev-timeline] 概念演变
 > - **19世纪末–20世纪初 — 哲学起源（哲学层面）** Peirce, James, Mead 与 [[John Dewey|杜威]] 建立实用主义哲学体系，重构经验、探究、民主与行动后果；1922年杜威发表《实用主义美国》，阐发深入具体事物运作机理的实验精神。
-> - **1960s–1970s — 比较教育方法论论争与实用互动论（比较教育学层）** [[Brian Holmes|布莱恩·霍姆斯]]（Holmes, 1965）借鉴[[John Dewey|杜威]]问题求解逻辑提出“[[Hypothesis|假设]]-演绎[[Problem Approach|问题法]]”，掀起与归纳法的[[Paradigm|范式]]论争；“实用互动论”被确认为 1970 年代打破[[Structural Functionalism|结构功能主义]]实证霸权的核心批判范式之一。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 128–129, 136)]]
+> - **1960s–1970s — 比较教育方法论论争与实用互动论（比较教育学层）** [[Brian Holmes|布莱恩·霍姆斯]]（Holmes, 1965）借鉴[[John Dewey|杜威]]问题求解逻辑提出“假设-演绎[[Problem Approach|问题法]]”，掀起与归纳法的[[Paradigm|范式]]论争；“实用互动论”被确认为 1970 年代打破[[Structural Functionalism|结构功能主义]]实证霸权的核心批判范式之一。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 128–129, 136)]]
 > - **1990s–2000s — 方法论[[Paradigm|范式]]奠基（方法论层次）** Cherryholmes (1992), Patton (1990), Tashakkori and Teddlie (2010), Johnson and Onwuegbuzie (2004), Denscombe (2008), Morgan (2007) 将实用主义确立为[[Mixed Methods Research|混合方法研究]]的官方哲学基础。
 > - **2000 年代 — 超国家治理的技术主义规约与紧迫实用主义盲区** 里兹维与林加德（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）揭示[[OECD|经合组织]]如何将教育治理窄化为劳动力技能精算；比奇（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）进一步提炼国际机构的“紧迫实用主义（urgent pragmatism）”机制，揭示其实用主义解题冲动如何导致学术理论过度简化与政策空间闭合。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 451–452)]]; [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 350–352)]]
 > - **2010s至今 — 教育研究应用、跨国解构与现代工程[[Epistemology|认识论]]复兴** 深入[[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]]与[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]]教材体系；在比较教育中被用来分析实用主义哲学在非西方社会的跨国转移与结构性拆解（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024]]）；并在现代科技哲学中被卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）升华为[[Engineering Mindset|工程思维]]与反官僚推诿的核心认识论。
@@ -321,7 +319,7 @@ updated: 2026-10-15
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 详述实用主义作为[[Mixed Methods Research|混合方法研究]]取向的哲学前提与[[Fitness for Purpose|适合目的]]原则。
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 阐释实用主义世界观（Pragmatic Worldview）在研究设计与方法选择中的具体应用。
-> - [[Argument_Rust_2009_Reflections|Rust, Johnstone & Allaf (2009)]] — 梳理比较教育学术史中的[[Paradigm|范式]]演化，阐述霍姆斯基于[[John Dewey|杜威]]实用主义建立的[[Hypothesis|假设]]-演绎[[Problem Approach|问题法]]，并确认实用互动论在挑战功能主义单一霸权中的范式地位。
+> - [[Argument_Rust_2009_Reflections|Rust, Johnstone & Allaf (2009)]] — 梳理比较教育学术史中的[[Paradigm|范式]]演化，阐述霍姆斯基于[[John Dewey|杜威]]实用主义建立的假设-演绎[[Problem Approach|问题法]]，并确认实用互动论在挑战功能主义单一霸权中的范式地位。
 > - [[Argument_Zhou_2024_CE|Zhou and Westberg (2024)]] — 揭示实用主义[[Paradigm|范式]]（民主目标与渐进方法）在民国中国跨国转移中的拆解与[[Recontextualization|本土重构]]。
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 追踪实用主义范式在建国后中国教育政治[[Discourse|话语]]中的三重变形。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 451–452)]] — 揭示[[OECD|经合组织]]如何将教育治理窄化为劳动力技能核算的实用主义范式，遮蔽教育的民主与伦理目的。
@@ -340,7 +338,7 @@ updated: 2026-10-15
 > | [[Mixed Methods Research]] | 方法 | 方法论载体：以实用主义为官方哲学基础，主张[[Research Question\|研究问题]]驱动与方法自由选择。 |
 > | [[Engineering Mindset]] | 概念 | 现代延伸：将实用主义转化为以物理运行反馈与代码实测为尺度的工程[[Epistemology\|认识论]]。 |
 > | [[Fitness for Purpose]] | 概念 | 核心原则：主张方法选择应取决于能否最有效地回答研究问题。 |
-> | [[Problem Approach]] | 方法 | 比较教育学应用：[[Brian Holmes\|布莱恩·霍姆斯]]基于杜威实用主义构建的[[Hypothesis\|假设]]-演绎比较[[Paradigm\|范式]]。 |
+> | [[Problem Approach]] | 方法 | 比较教育学应用：[[Brian Holmes\|布莱恩·霍姆斯]]基于杜威实用主义构建的假设-演绎比较[[Paradigm\|范式]]。 |
 > | [[Operation Paperclip]] | 事实 | 历史案例：国家安全危机中以行动后果与实际技术收益为首要考量的[[Engineering Pragmatism\|工程实用主义]]典范。 |
 > | [[Herbert Hoover]] | 人物 | 历史人物：阐述工程实践直接面对客观物理结果、拒绝语言辩解的实用主义责任观。 |
 > | [[Alexander Karp]] | 人物 | 现代学者：《[[Technological Republic\|技术共和国]]》作者，将实用主义重新激活为高科技组织与防务工程的治理认识论。 |

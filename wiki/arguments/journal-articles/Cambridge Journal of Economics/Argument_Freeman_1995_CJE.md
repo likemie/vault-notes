@@ -28,7 +28,6 @@ related_concepts:
   - "[[Tacit Knowledge]]"
   - "[[Theoretical Perspective]]"
   - "[[Apprenticeship]]"
-  - "[[Document]]"
   - "[[Intellectual Capital]]"
   - "[[Big Science]]"
   - "[[Learning by Doing]]"
@@ -77,7 +76,7 @@ title: "Argument_Freeman_1995_CJE"
 argument_key: "Argument_Freeman_1995_CJE"
 argument_display_title: "The 'National System of Innovation' in historical perspective"
 argument_kind: "journal-article"
-argument_related_count: 41
+argument_related_count: 40
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -124,7 +123,7 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **思想史考据与文献分析**<br>Historical Textual Analysis | 深入考证弗里德里希·李斯特 1841 年《政治经济学的国家系统》、[[Alexander Hamilton\|Hamilton (1791)]]《制造业报告》以及二战后[[Vannevar Bush\|万尼瓦尔·布什]]报告与[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）系列科技政策审查[[Document\|文献]]。（pp. 5–8, 10–11） |
+> | **思想史考据与文献分析**<br>Historical Textual Analysis | 深入考证弗里德里希·李斯特 1841 年《政治经济学的国家系统》、[[Alexander Hamilton\|Hamilton (1791)]]《制造业报告》以及二战后[[Vannevar Bush\|万尼瓦尔·布什]]报告与[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）系列科技政策审查文献。（pp. 5–8, 10–11） |
 > | **[[Historical-Comparative Method\|比较历史与制度分析]]**<br>Comparative-Historical Analysis | 跨越 19 世纪工业革命至 20 世纪末，构建三组长周期两两对照案例：19 世纪英国自发工业化与普鲁士国家协调赶超的对照；1970 年代日本民用企业集成创新与前苏联军工隔离院所体制的对照；1980 年代东亚外向型吸收跃升与拉美外债危机下制度退化的对照。（pp. 6–15） |
 > | **科技统计指标解构与综合对比**<br>Technometric & Socio-economic Indicator Synthesis | 收集与解构 1934–1983 年美、欧、日、苏 GERD/GNP 比率、民用研发净值，以及 1980 年代巴西与韩国在高等教育普及率、工程师占比、工业研发占比、自动化装备密度与电信基础设施上的横向指标。（pp. 9, 12, 14） |
 

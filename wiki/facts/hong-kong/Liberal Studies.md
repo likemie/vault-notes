@@ -8,7 +8,7 @@ subtype: policy
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "policy"
-fact_related_count: 28
+fact_related_count: 27
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[General Education]]"
   - "[[Critical Thinking]]"
   - "[[Constructivist Paradigm]]"
-  - "[[Teaching Assistant]]"
   - "[[Multiplicity]]"
   - "[[Zhonghua Minzu]]"
   - "[[Disciplina and Doctrina]]"
@@ -54,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Liberal Studies
@@ -79,7 +78,7 @@ updated: 2026-09-22
 > [!policy-design]- 政策设计
 > - **设计目标** 克服灌输式应试教学，引导学生从多角度分析争议性社会议题，培养理性沟通、尊重证据、包容不同价值观的开放态度（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.150]]）。
 > - **学习领域** 包含个人成长与人际关系、今日香港、现代中国、全球化、公共卫生、能源科技与环境六大关联的探究领域。
-> - **核心工具** 实行议题为本的[[Constructivist Paradigm\|建构主义]]教学法，采用包含独立专题探究（IES）的校本评估（SBA），鼓励使用即时社会新闻等非常规辅[[Teaching Assistant\|助教]]材，豁免教育局教科书前置评审（[[Argument_Yan_2025_JCS\|Yan & Morris, 2025, p. 483]]）。
+> - **核心工具** 实行议题为本的[[Constructivist Paradigm\|建构主义]]教学法，采用包含独立专题探究（IES）的校本评估（SBA），鼓励使用即时社会新闻等非常规辅助教材，豁免教育局教科书前置评审（[[Argument_Yan_2025_JCS\|Yan & Morris, 2025, p. 483]]）。
 > - **知识构建** 倡导知识是情境化的、跨学科的以及由个人和社会共同建构的，强调认同的[[Multiplicity\|多重性]]与多元文化共存的协商价值（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp.148, 150]]）。
 
 > [!citation-card]- 关键条文

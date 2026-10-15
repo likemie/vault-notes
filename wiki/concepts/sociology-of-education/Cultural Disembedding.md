@@ -23,7 +23,6 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Champ]]"
-  - "[[Habitus]]"
   - "[[Discourse]]"
   - "[[The Shock of the Elite]]"
   - "[[Cultural Disorientation]]"
@@ -32,6 +31,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Cultural Hierarchy]]"
   - "[[Sense of Shame]]"
+  - "[[Habitus]]"
 related_theories: []
 related_methods:
   - "[[Correlational Research]]"
@@ -51,7 +51,7 @@ related_arguments:
 ## 定义
 
 > [!def] 核心定义
-> 文化脱嵌（Cultural Disembedding），指个体或群体在进入或面对某一特定的主导文化[[Champ\|场域]]（如精英大学、国家学校课程或主流体制）时，因其原本内化的语言、习俗、信仰与生活习惯（[[Habitus\|习性]]）与该场域认定的“默认常识”或“官方正统”相脱节，从而产生的强烈疏离感、不适应与身份断裂（Bourdieu & Wacquant, 1992; Lamont et al., 2015; [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023, p. 115]]; [[Argument_Yu_2024_CE\|Yu & Zhao, 2024, p. 71]]）。
+> 文化脱嵌（Cultural Disembedding），指个体或群体在进入或面对某一特定的主导文化[[Champ\|场域]]（如精英大学、国家学校课程或主流体制）时，因其原本内化的语言、习俗、信仰与生活习惯（习性）与该场域认定的“默认常识”或“官方正统”相脱节，从而产生的强烈疏离感、不适应与身份断裂（Bourdieu & Wacquant, 1992; Lamont et al., 2015; [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023, p. 115]]; [[Argument_Yu_2024_CE\|Yu & Zhao, 2024, p. 71]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指指向行动者在其文化属性与制度化场域的默认规范不匹配时所体验到的主客观疏离现象。
@@ -75,7 +75,7 @@ related_arguments:
 > | 维度 | 微观阶层脱嵌（Zheng, 2023） | 宏观国族课程脱嵌（[[Argument_Yu_2024_CE\|Yu & Zhao, 2024]]） |
 > |:---|:---|:---|
 > | **发生[[Champ\|场域]]** | 特定高等教育机构（精英大学场域）[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, p. 115)]] | 国家基础教育体系（课程与教科书场域）[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]] |
-> | **核心矛盾** | 寒门阶层[[Habitus\|习性]] vs. 大都市精英大学默认常识 | 少数民族/宗教身份 vs. 汉儒中心[[Official Knowledge\|官方知识]] |
+> | **核心矛盾** | 寒门阶层习性 vs. 大都市精英大学默认常识 | 少数民族/宗教身份 vs. 汉儒中心[[Official Knowledge\|官方知识]] |
 > | **表现形式** | 社交语码障碍、不善用都市工具、跟老师同辈隔阂 | 课本无自身文化表达、国家身份异化、[[Reflexivity\|反思性]]疏离 |
 > | **时间性特征** | 偏短期，可通过同伴与学校支持逐步适应缓解 | 偏长期与结构性，由制度化[[Cultural Hierarchy\|文化等级]]造成 |
 > | **代表研究** | [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]（高等教育第一代大学生研究） | [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]]（课程话语与少数民族访谈） |
@@ -131,7 +131,7 @@ related_arguments:
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 场域层级 | 机制与后果 | 代表学者 |
 > |:---|:---|:---|:---|
-> | **微观阶层脱嵌** | 微观机构（精英大学） | [[Habitus\|习性]]与语码不匹配；短期疏离与同伴调适 | [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] |
+> | **微观阶层脱嵌** | 微观机构（精英大学） | 习性与语码不匹配；短期疏离与同伴调适 | [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] |
 > | **宏观国族脱嵌** | 宏观制度（国家学校课程） | 汉儒正统抹平多元；结构性排斥与反思抵抗 | [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] |
 
 ---

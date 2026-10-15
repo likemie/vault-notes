@@ -9,7 +9,7 @@ aliases:
 summary: "国际发展金融与超国家教育借贷中的组织评估异化机制；指多边开发银行内部将资金顺利拨付率与合同硬件投入（校舍修建、培训人数、教材分发）作为项目成功的核心乃至唯一考核指标，而系统性回避与淡化学生实际学业成果是否实质提升的制度惯性；该机制揭示了多边机构在方案设计端具备敏捷吸收前沿理念的学习能力，而在执行与评估端数十年来持续固化于合规账目核查与非学习状态的组织悖论。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 19
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Multilateral Development Bank]]"
   - "[[Academic Achievement]]"
   - "[[Absorptive Capacity]]"
-  - "[[Teaching Assistant]]"
   - "[[Bureaucracy]]"
   - "[[International Education]]"
   - "[[Paradigm]]"
@@ -63,7 +62,7 @@ updated: 2026-10-15
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种将发展贷款的“资金流转进度”和“物理资产采购量”异化为衡量项目终极成败的组织考核偏误。
-> - **用途** 帮[[Teaching Assistant|助教]]育政策学者与组织社会学研究者揭示国际援助机构“现代化改革愿景”与“基层实施瘫痪”并存的制度根源，解析为何巨额教育贷款常常蜕变为现代“白象工程”（White Elephants）。
+> - **用途** 帮助教育政策学者与组织社会学研究者揭示国际援助机构“现代化改革愿景”与“基层实施瘫痪”并存的制度根源，解析为何巨额教育贷款常常蜕变为现代“白象工程”（White Elephants）。
 > - **边界** 严格区别于纯粹由于技术能力匮乏导致的数据采集不全；放贷驱动评估是一种深植于官僚机构内部晋升规则、追责风险与部门合谋的系统性制度防御策略。
 
 > [!citation-card] 投入测量对学生实质学习成效的系统性置换

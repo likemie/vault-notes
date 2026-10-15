@@ -9,7 +9,7 @@ title: "Argument_Slavin_2019_EP"
 argument_key: "Argument_Slavin_2019_EP"
 argument_display_title: "How evidence-based reform will transform research and practice in education"
 argument_kind: "journal-article"
-argument_related_count: 99
+argument_related_count: 96
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -48,7 +48,6 @@ related_concepts:
   - "[[Evidence Standards]]"
   - "[[Evaluation Research]]"
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Document]]"
   - "[[Whole Language]]"
   - "[[Effective Teaching]]"
   - "[[Active Learning]]"
@@ -58,7 +57,6 @@ related_concepts:
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Seed Funding]]"
   - "[[Developer-Made Measures]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Gatekeepers]]"
   - "[[School Leadership]]"
   - "[[Academic Achievement]]"
@@ -75,7 +73,6 @@ related_concepts:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Matching]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Hierarchical Linear Model]]"
   - "[[Cluster Randomized Trials]]"
@@ -172,7 +169,7 @@ updated: 2026-10-04
 
 ### 核心变量与操作化编码表
 
-> [!index-table] 核心[[Variable\|变量]][[Operationalization\|操作化]]定义与[[Coding in Qualitative Research\|编码]]规程
+> [!index-table] 核心[[Variable\|变量]][[Operationalization\|操作化]]定义与编码规程
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
 > | **教学干预层级**<br>（Intervention Tiers） | 依据干预范围、组织形式与支持强度划分的层级化教学服务结构。 | **Tier 1 全班教学** [[Success for All\|全员成功方案（Success for All, SFA）]]、[[Direct Instruction\|直接教学（Direct Instruction, DI）]]、[[Cooperative Integrated Reading and Composition\|合作整合阅读与写作（Cooperative Integrated Reading and Composition, CIRC）]]；<br>**Tier 2 小组辅导**（1:2–6）：[[QuickReads\|Quick Reads]]、[[Fraction Face-Off!]]、[[ROOTS]]；<br>**Tier 3 个别辅导**（1:1）：[[Reading Recovery]]、[[Sound Partners]]、[[Number Rockets]]。 |
@@ -198,7 +195,7 @@ updated: 2026-10-04
 > |----------|------|
 > | **实证项目库** | 涵盖美国[[Investing in Innovation Program\|创新投资项目（Investing in Innovation, i3）]]（171 项）、[[Education Innovation and Research\|教育创新与研究项目（Education Innovation and Research, EIR）]]及英国[[Education Endowment Foundation\|教育捐赠基金会（Education Endowment Foundation, EEF）]]（180+ 项）[[Evaluator Independence\|第三方独立评估]]项目池。（pp. 23–24） |
 > | **[[Educational Evidence Clearinghouses\|循证审查与清算平台（EEC）]]** | [[What Works Clearinghouse\|强效清算中心（What Works Clearinghouse, WWC）]]官方数据库、[[Best Evidence Encyclopedia\|最佳证据百科全书（Best-Evidence Encyclopedia, BEE）]]学术综述网及 [[Evidence for ESSA]] 平台收录的约 100 个合规方案。（pp. 24–25） |
-> | **[[Document\|文献]]与法案语料** | 跨越 1988–2019 年三十余年间中小学数学、基础阅读与补救辅导领域的上百篇发表文献与联邦评估报告。（pp. 23, 27–31） |
+> | **文献与法案语料** | 跨越 1988–2019 年三十余年间中小学数学、基础阅读与补救辅导领域的上百篇发表文献与联邦评估报告。（pp. 23, 27–31） |
 
 ---
 
@@ -279,7 +276,7 @@ updated: 2026-10-04
 
 #### 2. 面向实践者的独立证据审查系统打破信息壁垒
 
-仅有学术论文和冗长的政府报告不足以指导学区采购，必须依托制度化的教育证据清算机构（Educational Evidence Clearinghouses, EEC）构建面向一线决策者的证据[[Transfer Translation Transformation|转译]]平台。（pp. 24–25）
+仅有学术论文和冗长的政府报告不足以指导学区采购，必须依托制度化的教育证据清算机构（Educational Evidence Clearinghouses, EEC）构建面向一线决策者的证据转译平台。（pp. 24–25）
 
 > [!claim] 独立证据清算机构（EEC）的制度中介与过滤职能
 > 斯莱文指出，循证改革三条件框架中的第二项条件——独立证据审查，本质上依赖于具备公信力的**教育证据清算机构（EEC）**。EEC 承担着双重核心功能：一是作为“因果方法学[[Gatekeepers\|守门人]]”，通过严格证据标准剔除存在利益冲突、缺乏基线等值性或依赖[[Developer-Made Measures\|开发者自编测验]]的伪阳性研究；二是作为“决策友好型信息转译器”，将复杂繁复的计量统计参数转化为基层教育管理者可理解、可比对、可直接用于采购的证据徽章与方案清单。（pp. 24–25）
@@ -335,7 +332,7 @@ updated: 2026-10-04
 > | **小组辅导：专业教师（Tier 2）** | [[Lindamood Phoneme Sequencing\|LiPS]] | 1 年级 | 1:3 小组 | 1 项 | $+0.64$ | 强证据（Strong） |
 > | **小组辅导：专业教师（Tier 2）** | [[Read, Write, & Type]] | 1 年级 | 1:3 小组 | 1 项 | $+0.42$ | 强证据（Strong） |
 > | **小组辅导：专业教师（Tier 2）** | [[Butterfly Phonics]] | 6 年级 | 1:6/8 小组 | 1 项 | $+0.30$ | 强证据（Strong） |
-> | **小组辅导：教学[[Teaching Assistant\|助教]]（Tier 2）** | [[QuickReads\|Quick Reads]] | 2–3 年级 | 1:3 小组 | 2 项 | $+0.22$ | 强证据（Strong） |
+> | **小组辅导：教学助教（Tier 2）** | [[QuickReads\|Quick Reads]] | 2–3 年级 | 1:3 小组 | 2 项 | $+0.22$ | 强证据（Strong） |
 > | **小组辅导：教学助教（Tier 2）** | [[Early Reading Intervention]] | K 年级 | 1:3/5 小组 | 1 项 | $+0.31$ | 强证据（Strong） |
 > | **小组辅导：教学助教（Tier 2）** | [[Lightning Squad]] | 1–3 年级 | 1:4–6 小组 | 3 项 | $+0.34$ | 强证据（Strong） |
 > | **一对一辅导：专业教师（Tier 3）** | [[Reading Recovery]] | 1 年级 | 1:1 个别 | 4 项 | $+0.42$ | 强证据（Strong） |
@@ -357,7 +354,7 @@ updated: 2026-10-04
 > | 教学层级与模式 | 项目名称 | 验证学段 | 验证单位 | 核心研究数 | 平均效应量（$ES$） | ESSA 证据等级 |
 > |---|---|---|---|---|---|---|
 > | **小组辅导：专业教师（Tier 2）** | [[Number Rockets]] | 1 年级 | 1:2–3 小组 | 1 项 | $+0.34$ | 强证据（Strong） |
-> | **小组辅导：教学[[Teaching Assistant\|助教]]（Tier 2）** | [[Fraction Face-Off!]] | 4 年级 | 1:2 小组 | 2 项 | $+0.51$ | 强证据（Strong） |
+> | **小组辅导：教学助教（Tier 2）** | [[Fraction Face-Off!]] | 4 年级 | 1:2 小组 | 2 项 | $+0.51$ | 强证据（Strong） |
 > | **小组辅导：教学助教（Tier 2）** | [[ROOTS]] | 1 年级 | 1:2–5 小组 | 2 项 | $+0.24$ | 强证据（Strong） |
 > | **小组辅导：教学助教（Tier 2）** | [[FocusMath]] | 3, 5 年级 | 1:6–8 小组 | 1 项 | $+0.24$ | 强证据（Strong） |
 > | **一对一辅导：专业教师（Tier 3）** | [[Numbers Count]] | 1–2 年级 | 1:1 个别 | 1 项 | $+0.33$ | 强证据（Strong） |
@@ -411,7 +408,7 @@ updated: 2026-10-04
 > [!finding-cards] 核心发现
 > 1. **循证改革完成历史性制度跨越** 从 2002 年提出概念到 2015 年 [[Every Student Succeeds Act\|ESSA]] 确立国家法定[[Evidence Standards\|证据标准]]，[[Evidence-Based Reform\|EBR]] 成功从学术边缘走向联邦立法核心。（pp. 22–23）
 > 2. **合规项目库已达规模化临界点** 经过 i3、[[Education Innovation and Research\|EIR]] 与 [[Education Endowment Foundation\|EEF]] 的数十亿美元投资，全美已有约 100 个 K-12 阅读与数学方案达到 ESSA 强/中证据标准，并通过 [[Educational Evidence Clearinghouses\|教育证据清算机构]]（EEC） 平台向基层学校常态化开放。（pp. 23–25）
-> 3. **[[Teaching Assistant\|助教]]辅导是实证证据最强效且最具成本效益的干预突破** 经系统培训的[[Teaching Assistant\|助教]]主导的小组辅导（TIER 2，[[Effect Size\|效应量]] $+0.22 \sim +0.64$）与一对一辅导（Tier 3，效应量 $+0.21 \sim +0.86$）效能逼近认证教师，打破了高昂师资成本对个别化补救辅导的制约。（pp. 27–28）
+> 3. **助教辅导是实证证据最强效且最具成本效益的干预突破** 经系统培训的助教主导的小组辅导（TIER 2，[[Effect Size\|效应量]] $+0.22 \sim +0.64$）与一对一辅导（Tier 3，效应量 $+0.21 \sim +0.86$）效能逼近认证教师，打破了高昂师资成本对个别化补救辅导的制约。（pp. 27–28）
 > 4. **以 [[Response to Proven Instruction\|RTPI]] 方案替代传统 [[Response to Intervention\|RTI]]** 将经验证的强证据项目刚性配置于普通教学与特殊教育衔接的三层谱系中，能够系统性消除高危学生的早期学业失败。（pp. 27–29）
 
 > [!stat-cards]- 核心数据

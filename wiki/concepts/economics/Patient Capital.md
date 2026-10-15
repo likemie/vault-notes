@@ -9,7 +9,7 @@ aliases:
 summary: "指具有跨周期长远投资视野、高风险耐受力且不以短期流动性套利为目的的战略性金融资本；多由公共开发银行与国家使命机构供给，是支撑深度科技跨越死亡之谷、三代使命演化与实现重大社会转型破局的核心金融支柱"
 type: concept
 domain: "economics"
-related_count: 56
+related_count: 54
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -38,8 +38,6 @@ related_concepts:
   - "[[Lead-and-Learn Paradigm]]"
   - "[[Reflexivity]]"
   - "[[Determinism]]"
-  - "[[Hypothesis]]"
-  - "[[Document]]"
   - "[[Complexity Paradox]]"
   - "[[Non-dilutive Funding]]"
   - "[[Picking the Willing]]"
@@ -84,7 +82,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Patient Capital
@@ -214,14 +212,14 @@ updated: 2026-10-10
 > 探讨耐心资本在不同技术产品生命周期中的双刃剑效应：破除“只要有低成本长期资本就能赢得产业竞争”的单向[[Determinism|决定论]]，揭示重资产产能锁定与敏捷产品创新的权衡机制。
 
 > [!claim] [[Argument_Macher_1998_CMR|Macher, Mowery, & Hodges (1998)]]
-> **重资产沉没锁定与敏捷资本制衡命题** 80 年代学界曾将美国半导体产业的暂时衰退简单归咎于“缺乏日本大财团式的低成本耐心资本”；然而 90 年代的产业逆转证实，日本银企财团供给的长期信贷被过度固化于大宗标准化 DRAM 制造产线的资本开支竞赛中，在面临周期性价格暴跌与亚洲新兴低成本厂商切入时形成了巨大的折旧包袱。相反，美国依托活跃的风险投资体系、股权资本与纵向专业化分工（无晶圆厂设计公司与代工厂模式），将金融资源敏捷注入微处理器与高附加值逻辑芯片等架构创新中，打破了“耐心资本匮乏必然导致高科技竞争失败”的悲观[[Hypothesis|假设]]。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 123–125)]]
+> **重资产沉没锁定与敏捷资本制衡命题** 80 年代学界曾将美国半导体产业的暂时衰退简单归咎于“缺乏日本大财团式的低成本耐心资本”；然而 90 年代的产业逆转证实，日本银企财团供给的长期信贷被过度固化于大宗标准化 DRAM 制造产线的资本开支竞赛中，在面临周期性价格暴跌与亚洲新兴低成本厂商切入时形成了巨大的折旧包袱。相反，美国依托活跃的风险投资体系、股权资本与纵向专业化分工（无晶圆厂设计公司与代工厂模式），将金融资源敏捷注入微处理器与高附加值逻辑芯片等架构创新中，打破了“耐心资本匮乏必然导致高科技竞争失败”的悲观假设。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 123–125)]]
 
 ---
 
 ### 命题总览
 
 > [!contrast-table] 命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者与[[Document\|文献]] |
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
 > | **转化断层命题** | 论证深度科技的长研发周期与重资产属性必须依赖耐心资本跨越死亡之谷 | 前沿硬科技成果转化、生物医药中试与先进制程半导体 | [[Argument_OxfordUIDP_2019_UIPartnerships\|Oxford & UIDP (2019)]]; [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]]; [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] |
 > | **战略供给主体命题** | 阐明公共开发银行与国家使命机构是抵御金融短视的核心中枢 | 绿色能源基础设施、国家重大战略产业培育与公共开发性金融 | [[Mariana Mazzucato\|马祖卡托（开发性金融理论）]]; [[Rainer Kattel\|卡特尔]] |
@@ -318,6 +316,6 @@ updated: 2026-10-10
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 系统阐明在硬科技与微电子战略攻坚中，如何通过[[Non-dilutive Funding|非稀释性资助]]（[[SBIR and STTR Programs|SBIR]]/STTR）、私营资本匹配（[[AFVentures]]）、战略股权基金与国家债务信贷（[[Loan Programs Office|LPO]]）构建多层级混合耐心资本生态（Goal 4.5）。
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 结合三代使命演化理论，系统论证耐心资本与公共部门三层动态能力及引领学习[[Paradigm|范式]]的协同逻辑。
-> - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 奠定当代[[Mission-Oriented Innovation Policy|使命导向创新政策]]中耐心资本供给机制、ROAR [[Analytic Framework|分析框架]]与风险收益共享理论的核心[[Document|文献]]。
+> - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 奠定当代[[Mission-Oriented Innovation Policy|使命导向创新政策]]中耐心资本供给机制、ROAR [[Analytic Framework|分析框架]]与风险收益共享理论的核心文献。
 > - [[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP (2019)]] — 论证[[University-Industry Collaboration|产学合作]]中长周期战略伙伴关系如何依托耐心资本跨越成果转化的[[Valley of Death|死亡之谷]]。
-> - [[Argument_Macher_1998_CMR|Macher et al. (1998)]] — 实证反思 1980 年代日美半导体竞争中的耐心资本[[Hypothesis|假设]]，指出重资产大宗制造对长期资本的锁定风险，并揭示风险资本与纵向分工在敏捷架构创新中的制衡作用。
+> - [[Argument_Macher_1998_CMR|Macher et al. (1998)]] — 实证反思 1980 年代日美半导体竞争中的耐心资本假设，指出重资产大宗制造对长期资本的锁定风险，并揭示风险资本与纵向分工在敏捷架构创新中的制衡作用。

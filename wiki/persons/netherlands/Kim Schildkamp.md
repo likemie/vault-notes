@@ -7,7 +7,7 @@ summary: "荷兰特温特大学教育学教授，国际数据驱动决策与数�
 type: person
 nationality: netherlands
 person_region: "netherlands"
-person_related_count: 11
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Data-Based Decision Making]]"
   - "[[Data Literacy]]"
   - "[[School Enquiry Cycle]]"
-  - "[[Hypothesis]]"
   - "[[Research-Informed Teaching Practice]]"
   - "[[Evidence-Based Education]]"
   - "[[Academic Achievement]]"
@@ -38,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-15
-updated: 2026-09-15
+updated: 2026-10-15
 ---
 
 # Kim Schildkamp
@@ -53,7 +52,7 @@ updated: 2026-09-15
 > - **代表贡献** 开发并系统推广了“[[Data Team Intervention\|数据团队干预模型]]”（Data Team Intervention Model），在荷兰与瑞典等国80余所学校开展长期设计实证；与 [[Chris Brown]] 共同提出整合校本数据诊断与外部研究证据的“证据知情学校与教师改进”（[[School Enquiry Cycle\|ESTI]]）模型。
 
 > [!citation-card] 希尔德坎普论基于数据的决策与校本探究
-> 基于数据的决策不是自上而下的机械问责，而是一个立足真实教育问题、由教师与管理者组成的专业探究团队，借助结构化数据分析与[[Hypothesis\|假设]]检验共同解决教学难题的持续专业发展历程。[[Argument_Brown_2017_ER\|(Brown et al., 2017, pp. 158–159)]]
+> 基于数据的决策不是自上而下的机械问责，而是一个立足真实教育问题、由教师与管理者组成的专业探究团队，借助结构化数据分析与假设检验共同解决教学难题的持续专业发展历程。[[Argument_Brown_2017_ER\|(Brown et al., 2017, pp. 158–159)]]
 >
 > *Data-based decision-making is not a top-down accountability mandate, but an ongoing professional development process wherein structured inquiry by collaborative teacher teams turns school data into meaningful educational action.*
 

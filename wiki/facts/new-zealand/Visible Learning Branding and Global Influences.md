@@ -10,7 +10,7 @@ subtype: event
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "event"
-fact_related_count: 54
+fact_related_count: 53
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -34,7 +34,6 @@ related_concepts:
   - "[[Global Education Reform Movement]]"
   - "[[Technical Rationality]]"
   - "[[Class Size]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Cult of the Guru]]"
   - "[[Neo-Taylorism]]"
@@ -89,7 +88,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Visible Learning Branding and Global Influences
@@ -140,7 +139,7 @@ Visible Learning 凭借其高度简化的[[Effect Size|效应量]]排名图表�
 > - **新西兰 — 课程改革与财政误用** 早期深度嵌入教育部《有效教师特征》与《[[The New Zealand Curriculum\|新西兰课程]]》（2010），Hattie 出任国家标准技术顾问；新西兰财政部（Treasury）2011 年甚至引用其效应量数据提出“[[Class Size\|班级规模]]不重要”，建议削减师资编制以增加生师比，遭到学界强烈反弹。[[Argument_ONeill_2012_NZJES\|(O'Neill, 2012, pp. 154–157)]]
 > - **澳大利亚 — 国家标准嵌入与官方背书** Hattie 出任 [[Australian Institute for Teaching and School Leadership\|AITSL]] 董事会主席，将 VL 指标要求全面嵌入国家教师与校长专业标准及持续认证体系；维多利亚州教育部官方背书并将 10 项高影响教学策略（[[Victorian HITS and Literacy Toolkit\|HITS]]）以 VL 为首选参考；ABC 纪录片《革命学校》将其描绘为公共教育拯救者。[[Argument_Sarbiewska_2019_JSR\|(Sarbiewska, 2019, pp. 126–128)]]
 > - **丹麦 — 公立学校法案采纳与剧烈反弹** 2014 年丹麦议会公立学校改革明确引用 VL 将科目目标改为学习成果；但因改革与削减教师劳动权益的争议法案捆绑，迅速引发教师工会与学界的强烈抗议，出版批判文集《[[Hattie på dansk]]》，促成支持者与反对者的激烈论战。[[Argument_Qvortrup_2019_NordSTEP\|(Qvortrup, 2019, pp. 3–5)]]
-> - **瑞典 — “科学基础”下的学校改进重塑** 瑞典依据学校法对“科学基础与实证证据”的要求，将 VL [[Transfer Translation Transformation\|转译]]为聚焦课堂近端策略、同伴观察与教师协作的校本改进工作流程（详见 [[Visible Learning in Sweden]]）。
+> - **瑞典 — “科学基础”下的学校改进重塑** 瑞典依据学校法对“科学基础与实证证据”的要求，将 VL 转译为聚焦课堂近端策略、同伴观察与教师协作的校本改进工作流程（详见 [[Visible Learning in Sweden]]）。
 > - **俄罗斯 — 译著传播与适用性争鸣** 2017 年 Prosveshchenie 集团出版俄文版并与国家标准（FSES）关联，但在学界引发关于数据极端不均匀与跨文化适应性的方法论警告（详见 [[Russian Translation of Visible Learning]]）。[[Argument_Golovchin_2019_ESC\|(Golovchin, 2019, p. 237)]]
 
 ---

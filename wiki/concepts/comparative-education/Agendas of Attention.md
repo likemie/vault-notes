@@ -7,7 +7,7 @@ aliases:
 summary: "克莱里德斯在国际关系理论视域下提出的概念，指比较教育在不同国际关系思想传统影响下，选择性关注某些问题（在场）而忽略另一些问题（缺席）的话语过滤与知识生产机制"
 type: concept
 domain: "comparative-education"
-related_count: 37
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Readings of the Global]]"
   - "[[Comparative Educations]]"
-  - "[[Hypothesis]]"
   - "[[Research Scope]]"
   - "[[Revoicing]]"
   - "[[Reference Society]]"
@@ -43,7 +42,6 @@ related_methods:
   - "[[Correlational Research]]"
 related_persons:
   - "[[Eleftherios Klerides]]"
-  - "[[Marc-Antoine Jullien]]"
   - "[[Michael Sadler]]"
   - "[[Martin Carnoy]]"
   - "[[Robert Cowen]]"
@@ -61,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-08'
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Agendas of Attention
@@ -85,7 +83,7 @@ updated: 2026-10-07
 
 > [!boundary]- 概念边界
 > - 不等于 [[Readings of the Global\|阅读全球]] — 考恩的“阅读全球”强调阅读行为本身的多重主体性，而“注意力议程”则进一步解构这一阅读所带来的政治选择性后果（即“在场”与“缺席”的分布状态）。
-> - 不等于 研究议程（Research Agenda） — 研究议程通常指学者或机构有意识规划的研究项目与范围，而“注意力议程”更深层地植根于底层对国际秩序性质的不自觉政治哲学[[Hypothesis\|假设]]，其过滤机制通常在无意识中形塑着[[Research Scope\|研究边界]]。
+> - 不等于 研究议程（Research Agenda） — 研究议程通常指学者或机构有意识规划的研究项目与范围，而“注意力议程”更深层地植根于底层对国际秩序性质的不自觉政治哲学假设，其过滤机制通常在无意识中形塑着[[Research Scope\|研究边界]]。
 
 ---
 
@@ -95,7 +93,7 @@ updated: 2026-10-07
 > | 维度 | 注意力议程 | [[Readings of the Global\|阅读全球]] | 研究议程 |
 > |---|---|---|---|
 > | **分析焦点** | [[Knowledge Production\|知识生产]]中“在场”与“缺席”的政治选择性后果 | 跨国空间中多重阅读全球的能动行为与体验 | 具体的有意识科研规划、项目设立与学科热点 |
-> | **底层动力** | 对国际社会性质（权力/权威/武力）的不自觉政治哲学[[Hypothesis\|假设]] | 晚期现代性社会系统翻转与学术[[Revoicing\|话语重构]] | 学术体制需求、资金支持与学者个人兴趣 |
+> | **底层动力** | 对国际社会性质（权力/权威/武力）的不自觉政治哲学假设 | 晚期现代性社会系统翻转与学术[[Revoicing\|话语重构]] | 学术体制需求、资金支持与学者个人兴趣 |
 > | **典型表征** | 现实主义工具、理性主义治理或[[Revolutionism\|革命主义]]批判的分野 | 将全球化视为多重文本并加以折射的阅读 | 学科指南、课题分类与论文选题规划 |
 
 ---
@@ -124,7 +122,7 @@ updated: 2026-10-07
 ### 命题类型一　不同的国际关系预设通过注意力议程决定了比较教育的在场与缺席分布
 
 > [!concept-lens] [[Knowledge Production\|知识生产]]的过滤透镜
-> 探讨注意力议程如何在中介底层政治[[Hypothesis\|假设]]与表层学术选题之间起作用。学者们普遍倾向于揭示学术客观性背后的选择性偏差。
+> 探讨注意力议程如何在中介底层政治假设与表层学术选题之间起作用。学者们普遍倾向于揭示学术客观性背后的选择性偏差。
 
 > [!claim] [[Eleftherios Klerides\|Klerides, E.]]
 > **注意力过滤** 对国际社会是处于“自助竞争”（现实主义）、“规则合作”（理性主义）还是“压迫抗争”（[[Revolutionism\|革命主义]]）的不同设定，通过注意力议程在无意识中过滤了比较教育学者的视野，规定了什么是可以被看见并讨论的“在场”，以及什么是必须被排除并遗忘的“缺席”，由此决定了什么值得比较、如何比较以及比较服务于什么目的。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 431]])
@@ -157,7 +155,7 @@ updated: 2026-10-07
 > 探讨革命主义假设下解构主义研究的本体偏好与现实边界。学者们倾向于反思批判话语与制度改良的张力。
 
 > [!claim] Klerides, E.
-> **道德解放事业** 革命主义注意力议程通过[[Dependency Theory\|依附理论]]和去殖民透镜，将“中心-边缘剥削关系”、“教育作为革命与反支配的工具”以及“解构学科自身的殖民认识型（如[[Marc-Antoine Jullien\|朱利安]]奠基计划的殖民纠缠）”确立为在场核心；但这一激进的决裂立场和道德激情同时也使得现实主义的国家[[Hard Power|硬实力]]竞争约束、多边体制内的渐进改良途径以及非西方帝国的自身地缘扩张演变为盲区与缺席。([[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 429–430]])
+> **道德解放事业** 革命主义注意力议程通过[[Dependency Theory\|依附理论]]和去殖民透镜，将“中心-边缘剥削关系”、“教育作为革命与反支配的工具”以及“解构学科自身的殖民认识型（如朱利安奠基计划的殖民纠缠）”确立为在场核心；但这一激进的决裂立场和道德激情同时也使得现实主义的国家[[Hard Power|硬实力]]竞争约束、多边体制内的渐进改良途径以及非西方帝国的自身地缘扩张演变为盲区与缺席。([[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 429–430]])
 
 ---
 

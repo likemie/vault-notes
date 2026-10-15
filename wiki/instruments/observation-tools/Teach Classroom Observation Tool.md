@@ -130,7 +130,7 @@ Teach 工具将复杂的课堂生态[[Operationalization|操作化]]为四大核
 > [!observation-focus] 时间抽样快照观察重点
 > <span class="instrument-observation-table-marker" aria-hidden="true"></span>
 >
-> | 编号 | 观察维度 | 观察重点 | 记录方式 | 判定或[[Coding in Qualitative Research\|编码]] | 来源 |
+> | 编号 | 观察维度 | 观察重点 | 记录方式 | 判定或编码 | 来源 |
 > |---|---|---|---|---|---|
 > | 0.1 | 学习时间 | 教师是否正在教学或为绝大多数学生提供学习活动 | 瞬时快照（第 4、9、14 分钟各扫视 1–10 秒） | 二元判定（是/否） | [[Argument_WorldBank_2019_Teach\|World Bank Group, 2019, p. 16]] |
 > | 0.2 | 学习时间 | 学生是否专注在轨参与学习任务 | 瞬时快照（扫视全班[[Student Engagement\|学生投入]]状态） | 发生率分级（低: <50%; 中: 50%–89%; 高: ≥90%; 教师无教学时记 N/A） | 同上 |
@@ -140,7 +140,7 @@ Teach 工具将复杂的课堂生态[[Operationalization|操作化]]为四大核
 > [!observation-focus] 课堂文化观察重点
 > <span class="instrument-observation-table-marker" aria-hidden="true"></span>
 >
-> | 编号 | 观察维度 | 观察重点 | 记录方式 | 判定或[[Coding in Qualitative Research\|编码]] | 来源 |
+> | 编号 | 观察维度 | 观察重点 | 记录方式 | 判定或编码 | 来源 |
 > |---|---|---|---|---|---|
 > | 1.1 | 支持性学习环境 | 教师是否尊重对待所有学生（使用礼貌用语、平等待人） | 连续观察（15 分钟全段记录） | 行为等级（低: 不尊重/歧视; 中: 偶发冷漠; 高: 一贯尊重） | [[Argument_WorldBank_2019_Teach\|World Bank Group, 2019, p. 28]] |
 > | 1.2 | 支持性学习环境 | 教师是否对学生使用积极肯定的语言（鼓励性、温暖态度） | 连续观察（15 分钟全段记录） | 行为等级（低: 无积极语言/冷漠; 中: 偶有肯定; 高: 贯穿始终） | 同上 |
@@ -155,7 +155,7 @@ Teach 工具将复杂的课堂生态[[Operationalization|操作化]]为四大核
 > [!observation-focus] 教学指导观察重点
 > <span class="instrument-observation-table-marker" aria-hidden="true"></span>
 >
-> | 编号 | 观察维度 | 观察重点 | 记录方式 | 判定或[[Coding in Qualitative Research\|编码]] | 来源 |
+> | 编号 | 观察维度 | 观察重点 | 记录方式 | 判定或编码 | 来源 |
 > |---|---|---|---|---|---|
 > | 3.1 | 课程推进与呈现 | 教师是否明确阐述课时学习目标并将课堂活动与目标相锚定 | 连续观察（15 分钟全段记录） | 行为等级（低: 未提目标; 中: 简单报题; 高: 阐述目标并阐明活动关联） | [[Argument_WorldBank_2019_Teach\|World Bank Group, 2019, p. 30]] |
 > | 3.2 | 课程推进与呈现 | 教师对核心教学内容的解释与讲授是否清晰明了 | 连续观察（15 分钟全段记录） | 行为等级（低: 混乱含糊; 中: 基本清晰但偶有跳跃; 高: 逻辑严密生动清晰） | 同上 |
@@ -175,7 +175,7 @@ Teach 工具将复杂的课堂生态[[Operationalization|操作化]]为四大核
 > [!observation-focus] 社会情感技能观察重点
 > <span class="instrument-observation-table-marker" aria-hidden="true"></span>
 >
-> | 编号 | 观察维度 | 观察重点 | 记录方式 | 判定或[[Coding in Qualitative Research\|编码]] | 来源 |
+> | 编号 | 观察维度 | 观察重点 | 记录方式 | 判定或编码 | 来源 |
 > |---|---|---|---|---|---|
 > | 7.1 | 自主性 | 教师是否为学生提供在学习内容、方式或次序上的选择权 | 连续观察（15 分钟全段记录） | 行为等级（低: 绝对指令/无选择; 中: 表面微小选择; 高: 实质性自主选择与决策） | [[Argument_WorldBank_2019_Teach\|World Bank Group, 2019, p. 37]] |
 > | 7.2 | 自主性 | 教师是否为学生提供在[[Classroom Management\|课堂管理]]或教学活动中承担实质角色的机会 | 连续观察（15 分钟全段记录） | 行为等级（低: 教师独揽所有事务; 中: 仅委派收发作业杂务; 高: 赋予主持、汇报或互助责任） | 同上 |

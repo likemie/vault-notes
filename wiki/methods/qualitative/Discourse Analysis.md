@@ -5,7 +5,7 @@ summary: "以日常谈话和文本中的语言使用为研究对象的方法，�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 56
+method_related_count: 55
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -25,7 +25,7 @@ related_concepts:
   - "[[Epistemic Stances]]"
   - "[[Return on Investment]]"
   - "[[Ontology]]"
-  - "[[Transfer Translation Transformation]]"
+  - "[[School Autonomy]]"
   - "[[Champ]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Causality]]"
@@ -44,7 +44,6 @@ related_theories:
 related_methods:
   - "[[Transcription in Qualitative Research]]"
   - "[[Classroom Observation]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Ideology Critique]]"
   - "[[Conversation Analysis]]"
   - "[[Narrative Analysis]]"
@@ -75,7 +74,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Discourse Analysis
@@ -121,7 +120,7 @@ updated: 2026-10-15
 > [!method-stack] 方法层级
 > - **研究设计** 话语分析、比较政策话语分析、批判政策分析。
 > - **数据收集** 自然发生的谈话录音、[[Classroom Observation|课堂观察]]、文本收集、跨国组织战略文件库检索。
-> - **分析方法** [[Coding in Qualitative Research|编码]]（早期阶段）、模式识别、言语行为功能分析、替代解释检验、话语滑移解构。
+> - **分析方法** 编码（早期阶段）、模式识别、言语行为功能分析、替代解释检验、话语滑移解构。
 > - **辅助技术** [[Transcription in Qualitative Research|转录]]、反身性记录、[[Ideology Critique|意识形态批判]]（[[Critical Theory|批判理论]]传统）。
 
 ---
@@ -130,7 +129,7 @@ updated: 2026-10-15
 
 ### 完整文本的情境化分析
 
-分段[[Coding in Qualitative Research|编码]]之外，完整会话、叙事与自传可以保留先后顺序和经验的连贯性。此进路以语言细节与社会情境相互核对，允许同一文本承载多个[[Discourse|话语]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §§31.1–31.5)]]
+分段编码之外，完整会话、叙事与自传可以保留先后顺序和经验的连贯性。此进路以语言细节与社会情境相互核对，允许同一文本承载多个[[Discourse|话语]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §§31.1–31.5)]]
 
 > [!proc] 从完整文本到有依据的解释
 > 1. **保留整体** 说明文本形成的情境和受众，会话以行号保留时序，叙事与自传保持事件联系。
@@ -153,7 +152,7 @@ updated: 2026-10-15
 
 > [!proc] 话语分析通用程序
 > 1. 收集自然发生的话语材料（录音、转录、文本），保留社会情境信息。
-> 2. 早期阶段使用[[Coding in Qualitative Research|编码]]为文本材料分配代码，发现话语中的模式和广泛领域（Parker, 1992; Potter & Wetherell, 1987）。
+> 2. 早期阶段使用编码为文本材料分配代码，发现话语中的模式和广泛领域（Parker, 1992; Potter & Wetherell, 1987）。
 > 3. 重新检视文本，发现话语的意图、功能和后果——检查言语行为功能（传递信息、说服、指责、谴责、鼓励等）。
 > 4. 寻求替代解释——考察话语中的变异程度，排除竞争性解释。
 > 5. 关注话语中的权力不对称和意识形态维度（[[Critical Theory|批判理论]]传统）。
@@ -178,8 +177,8 @@ updated: 2026-10-15
 > 1. **跨机构核心文本长时段谱系搜集** 系统搜集特定历史时期（如 1980–2000 年代全球化重组期）主要多边组织（[[UNESCO]]、[[World Bank|世界银行]]、[[OECD]]）的核心教育战略白皮书、特别委员会报告与政策审查文件（如德洛尔报告《学习：内在的财富》、世界银行《教育的优先次序与战略》）。
 > 2. **表层价值对峙与官方修辞解构** 提取各组织宣称的核心[[Epistemic Stances|认识论立场]]、发展哲学与政策工具，辨析其显性价值主张（如联合国教科文组织人本主义反击、世界银行绝对人力资本[[Return on Investment|投资回报率]]核算、经合组织混合型指标治理），还原多边组织在地缘政治与资金竞争中的话语交锋。
 > 3. **底层未来预设与时代定性解构** 穿透表层修辞对立，比对各机构在文本深层对未来社会形态的[[Ontology|本体论]]预设，识别其如何跨越意识形态分歧、众口一词地将人类未来统一定性为单一平面的“信息时代”，并将所有现存传统教育体系裁定为必然陷入危机的落后形态。
-> 4. **普遍模型解剖与双重闭合机制追踪** 剖析文本如何成套捆绑推销标准化改革处方（如分权化、学校自主、教师专业化、能力本位、国家质量评估五大支柱），揭示国际组织如何通过“垄断定义问题”与“排他提供解方”的双重机制，在[[Epistemology|认识论]]源头上窄化和闭合受援国的政策话语空间。
-> 5. **话语跨位置[[Transfer Translation Transformation|转译]]与过度简化检视** 结合[[Champ|场域]]结构位置分析，考察学术话语在向国际机构政策模型转化时，如何受制于紧迫[[Pragmatic Paradigm|实用主义]]与项目周期而被系统性过度简化与截断，抽离其原初理论争议与语境复杂性。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 344–353)]]
+> 4. **普遍模型解剖与双重闭合机制追踪** 剖析文本如何成套捆绑推销标准化改革处方（如分权化、[[School Autonomy|学校自主]]、教师专业化、能力本位、国家质量评估五大支柱），揭示国际组织如何通过“垄断定义问题”与“排他提供解方”的双重机制，在[[Epistemology|认识论]]源头上窄化和闭合受援国的政策话语空间。
+> 5. **话语跨位置转译与过度简化检视** 结合[[Champ|场域]]结构位置分析，考察学术话语在向国际机构政策模型转化时，如何受制于紧迫[[Pragmatic Paradigm|实用主义]]与项目周期而被系统性过度简化与截断，抽离其原初理论争议与语境复杂性。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 344–353)]]
 
 ---
 
@@ -212,7 +211,7 @@ updated: 2026-10-15
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Beech's Model of Discourse Circulation]] | 理论框架 | 提供了[[Discourse\|话语]]在跨国流动中跨越五大结构位置的分析模型，支撑了政策话语在不同[[Champ\|场域]]位置中[[Transfer Translation Transformation\|转译]]与变形的机制解释。 |
+> | [[Beech's Model of Discourse Circulation]] | 理论框架 | 提供了[[Discourse\|话语]]在跨国流动中跨越五大结构位置的分析模型，支撑了政策话语在不同[[Champ\|场域]]位置中转译与变形的机制解释。 |
 > | [[Ideal Speech Situation]] | 理论基础 | [[Jürgen Habermas\|哈贝马斯]]的理想言说情境为话语分析的批判维度提供了规范标准。 |
 > | [[Ethnomethodology]] | 理论基础 | 俗民方法学关注日常活动如何通过共享知识变得可理解和可说明。 |
 > | [[Documentary Analysis]] | 互补方法 | 文献分析负责官方档案与政策法案的真实性与制度功能考核，话语分析则深入解构其背后的深层预设与权力运作。 |

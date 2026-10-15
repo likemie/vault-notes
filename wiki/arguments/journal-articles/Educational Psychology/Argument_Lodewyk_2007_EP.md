@@ -25,7 +25,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Wicked Problem]]"
   - "[[Self-Regulated Learning]]"
-  - "[[Hypothesis]]"
   - "[[Order Effects]]"
   - "[[Open-Mindedness]]"
   - "[[Rote Learning]]"
@@ -46,10 +45,10 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Analytic Framework]]"
   - "[[Survey Research]]"
-  - "[[Exploratory Factor Analysis]]"
   - "[[Multivariate Analysis of Variance]]"
   - "[[t-test]]"
   - "[[Multiple Regression]]"
+  - "[[Exploratory Factor Analysis]]"
   - "[[Analysis of Variance]]"
   - "[[Effect Size]]"
   - "[[Meta-regression]]"
@@ -73,7 +72,7 @@ title: "Argument_Lodewyk_2007_EP"
 argument_key: "Argument_Lodewyk_2007_EP"
 argument_display_title: "Relations among epistemological beliefs, academic achievement, and task performance in secondary school students"
 argument_kind: "journal-article"
-argument_related_count: 38
+argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -119,7 +118,7 @@ issuing_organization: ""
 > | **[[Epistemological Beliefs\|认识论信念多维系统模型]]**<br>Schommer (1990, 1993) | 主张个体的[[Epistemology\|认识论]]信念是由学习速度、能力本质、知识结构与知识确定性等相对独立的维度构成的系统，打破了单一线性发展阶段论，为量化测量各维度对[[Academic Achievement\|学业表现]]的独立贡献提供基础[[Analytic Framework\|分析框架]]。（pp.309–310） |
 > | **[[Reflective Judgment Model\|反思性判断模型]]**<br>King & Kitchener (1994, 2002) | 描述个体面对没有唯一标准答案的[[Wicked Problem\|劣构问题]]时，从前反思阶段（阶段1–3：知识绝对）、准反思阶段（阶段4–5：知识主观相对）到反思阶段（阶段6–7：情境化概率辩护）的发展路径，为评定学生的认知反思水平提供评价准则。（pp.309, 316–317） |
 > | **[[Task Structure\|任务结构理论与连续谱假说]]**<br>Frederiksen (1984); Spiro et al. (1988); Doyle (1983) | 区分良构任务（清晰目标、现成算法、透明标准）与劣构任务（开放目标、无现成算法、评价开放），解释不同任务环境对认知负荷、线索依赖与[[Self-Regulated Learning\|自我调节学习]]的差异化要求。（pp.310–312） |
-> | **常人认识论与认识动机理论（Lay Epistemic Theory / Epistemic Motivation）**<br>Kruglanski (1990) | 阐明面对模糊与复杂任务情境时，认识动机如何驱动个体展开信息检索、[[Hypothesis\|假设]]检验、矛盾权衡以及寻求适度认知闭合（seeking appropriate closure）的自我调节心理过程。（pp.310–311, 323–324） |
+> | **常人认识论与认识动机理论（Lay Epistemic Theory / Epistemic Motivation）**<br>Kruglanski (1990) | 阐明面对模糊与复杂任务情境时，认识动机如何驱动个体展开信息检索、假设检验、矛盾权衡以及寻求适度认知闭合（seeking appropriate closure）的自我调节心理过程。（pp.310–311, 323–324） |
 
 > [!warrant]- 理论如何支撑论证
 > 认识论信念被视作学习者在自我调节学习中校准理解与评估反馈的标准。当面对良构任务时，外部环境提供了充分的算法与明确的评分标准，朴素认识论信念的负面影响被外在支架所补偿；然而当置身于劣构任务时，缺乏现成程序与唯一答案的情境激活了认识动机，要求学生动用高阶的[[Reflexivity\|反思性]]判断，此时持有知识由简单孤立碎片构成等朴素信念的学生因回避整合与多元辩护而遭遇系统性绩效受损。（pp.310–312, 323–324）
@@ -131,7 +130,7 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **问卷调查与因子分析**<br>[[Survey Research]] & [[Exploratory Factor Analysis\|EFA]] | 采用加拿大十年级科学课修订版 52 题 [[Schommer's Modified Epistemological Questionnaire\|SMEQ]]（5点 Likert 计分），结合探索性因子分析（exploratory factor analysis, EFA）的主轴提取与 Varimax 正交旋转，识别中学生认识论信念的底层因子维度。（pp.314–315, 317–318） |
+> | **问卷调查与因子分析**<br>[[Survey Research]] & EFA | 采用加拿大十年级科学课修订版 52 题 [[Schommer's Modified Epistemological Questionnaire\|SMEQ]]（5点 Likert 计分），结合探索性因子分析（exploratory factor analysis, EFA）的主轴提取与 Varimax 正交旋转，识别中学生认识论信念的底层因子维度。（pp.314–315, 317–318） |
 > | **学业成就与群体差异检验**<br>[[Multivariate Analysis of Variance\|MANOVA]] & [[t-test]] | 自编 14 题人口学问卷（demographic questionnaire, DQ）采集总体学业成就预估值（EOAA，与实际总评成绩相关 $r = .91$）。运用[[Multivariate Analysis of Variance\|多变量方差分析]]（multivariate analysis of variance, MANOVA）与事后 $t$ 检验，对比公立与教会学校、不同学业水平组（高/中/低）及性别间的认识论信念差异。（pp.314, 318–320） |
 > | **组内平衡任务实验**<br>Counterbalanced Within-Subject Design | 在独立学校 89 名学生中实施平衡顺序设计的两类癌症学术任务（各4节80分钟课时完成）：[[Task Structure\|良构任务]]（个人生活方式计划）与劣构任务（专案组癌症资金分配辩护）。（pp.315–316） |
 > | **任务表现与反思性判断评定**<br>Rubric Scoring & [[Reflective Judgment Model\|RJ]] Rating | 任务总分采用评分量规（权重 .90）与 10 题单选题（权重 .10）合成（评分者信度 $r = .88 \sim .93$）；劣构任务中基于 King & Kitchener (1994) 模型独立评定 1–5 分的反思性判断（RJ）得分（评分者信度 $r = .89$）。（pp.316–317） |
@@ -227,7 +226,7 @@ issuing_organization: ""
 > - **排除了民族与族裔混杂** 全样本涵盖 85% 白人、9% 亚裔与 6% 其他族裔，方差分析表明不同族裔之间的认识论信念不存在统计显著差异（$p > .05$）。（p.318）
 
 > [!warrant]- 推理桥梁与机制解析：为什么教会学校学生的真理观反而更成熟？
-> 传统直觉和部分既有研究常认为，宗教背景容易让学生迷信绝对权威或教条真理。但本研究打破了这一刻板[[Hypothesis\|假设]]，作者提出了三点合理的解释机制（pp.322–323）：
+> 传统直觉和部分既有研究常认为，宗教背景容易让学生迷信绝对权威或教条真理。但本研究打破了这一刻板假设，作者提出了三点合理的解释机制（pp.322–323）：
 > 1. **思辨课程与情境化协调** 独立基督教学校的课程常常涉及伦理道德、社会正义等复杂议题的讨论，促使学生从小学会从不同情境与多重视角去协调矛盾观点；
 > 2. **科学与信仰的长期思辨磨炼** 教会学校学生在科学课上经常需要面对科学实证与信仰文本之间的张力，这种长期的思辨训练让他们更早认识到：科学本身是一种不断修正、演进的人类探索过程，而不是终极僵化的绝对真理；
 > 3. **家庭学习环境的讨论氛围** 选择入读独立学校的家庭往往更为关注孩子的[[Critical Thinking\|批判性思维]]与价值观培育，提供了更多深度对话的机会。

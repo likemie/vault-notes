@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 26
+fact_related_count: 25
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Policy Entrepreneur]]"
   - "[[Policy Network]]"
   - "[[Legislative Policy Brief]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Boundary Spanner]]"
   - "[[Discourse]]"
   - "[[Examination-Oriented Education]]"
@@ -60,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # The Education Trust
@@ -100,7 +99,7 @@ updated: 2026-10-07
 
 > [!pathways]- 业务运行机制
 > - **数据挖掘与危机识别** 追踪美国国家教育进步评估（[[National Assessment of Educational Progress|NAEP]]）、公民权利民意数据（CRDC）及联邦综合高等教育数据系统（IPEDS），将各州自设考试的虚假达标率与 NAEP 严密对照，制造各州标准普遍失效的危机证据。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 9–10)]]
-> - **双向[[Transfer Translation Transformation|转译]]与立法塑形** 将学术界高度专业化的计量模型和因果评估发现，[[Transfer Translation Transformation|转译]]为国会幕僚与州议员立即可读的图表、对比清单与立法建议备忘录，并协助议员起草示范法案条文。[[Argument_Serpell_2020_EP|(Serpell, 2020, p. 45)]]
+> - **双向转译与立法塑形** 将学术界高度专业化的计量模型和因果评估发现，转译为国会幕僚与州议员立即可读的图表、对比清单与立法建议备忘录，并协助议员起草示范法案条文。[[Argument_Serpell_2020_EP|(Serpell, 2020, p. 45)]]
 > - **价值绑定与联盟动员** 将冰冷的数据嵌入教育机会均等与民权保护的核心价值框架中，使政策方案能够跨越党派壁垒，同时赢得自由派民权团体与温和派立法者的支持。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 10–11)]]
 
 ---

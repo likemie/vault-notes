@@ -9,7 +9,7 @@ aliases:
 summary: "认识论模型中的最高层级，认为知识虽由主观建构，但可以通过论证与证据的客观标准进行优劣评估；在人机共生学习中表现为主动协调多源证据、批判性审视算法输出并保持共享认识主体性。"
 type: concept
 domain: "educational-psychology"
-related_count: 26
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,12 +21,10 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Man-Computer Symbiosis]]"
-  - "[[Document]]"
   - "[[Epistemic Agency]]"
   - "[[Critical Thinking]]"
   - "[[Metacognition]]"
   - "[[Epistemic Stances]]"
-  - "[[Hypothesis]]"
   - "[[Absolutist]]"
   - "[[Multiplist]]"
   - "[[Cognitive Offloading]]"
@@ -53,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-16
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Evaluativist
@@ -63,7 +61,7 @@ updated: 2026-10-07
 ## 定义
 
 > [!def] 核心定义
-> 评价论者（Evaluativist）是 Kuhn 等人（1991, 2000）界定的最高阶[[Epistemology\|认识论]]立场。该层级的个体既承认了知识的生成是由人类心智建构的、具有主观性和不确定性（接纳了多元论的主张），同时又重新整合了认知的客观维度。他们认为并非所有观点都同等有效，通过批判性的理性论辩和客观证据的检验，可以判断出某些主张比其他主张更具合理性或更接近真相。在[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI）[[Man-Computer Symbiosis|人机共生]]学习环境中，评价主义立场表现为学习者将大语言模型（Large Language Model, LLM）视作共同探究的思维伙伴，主动协调大模型建议、学术[[Document\|文献]]、统计规则与现实约束等多源证据，对算法输出进行实质性质疑与批判性重构，从而实现高阶共享[[Epistemic Agency\|认识主体性]]。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, p. 310)]]; [[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–366)]]
+> 评价论者（Evaluativist）是 Kuhn 等人（1991, 2000）界定的最高阶[[Epistemology\|认识论]]立场。该层级的个体既承认了知识的生成是由人类心智建构的、具有主观性和不确定性（接纳了多元论的主张），同时又重新整合了认知的客观维度。他们认为并非所有观点都同等有效，通过批判性的理性论辩和客观证据的检验，可以判断出某些主张比其他主张更具合理性或更接近真相。在[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI）[[Man-Computer Symbiosis|人机共生]]学习环境中，评价主义立场表现为学习者将大语言模型（Large Language Model, LLM）视作共同探究的思维伙伴，主动协调大模型建议、学术文献、统计规则与现实约束等多源证据，对算法输出进行实质性质疑与批判性重构，从而实现高阶共享[[Epistemic Agency\|认识主体性]]。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, p. 310)]]; [[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–366)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 作为认识论成熟的最终标志，体现了在主观建构与客观评估标准之间的辩证协调。
@@ -72,7 +70,7 @@ updated: 2026-10-07
 > - **边界** 评价论并非自然成熟的智力属性，在普通人群中达成率极低；在人机交互中同样需要提示词与教学反思双轨支架的显式促发。
 
 > [!citation-card] 评价主义立场在人机共生学习中的证据协调机制
-> 持评价主义[[Epistemic Stances\|认识立场]]的学习者能够将生成式人工智能输出视作有待检验的[[Hypothesis\|假设]]性认知客体，通过调动外部文献、实证数据与逻辑推演对算法建议展开多源交叉核验，在动态人机对话中确立并捍卫高阶认识主体性。[[Argument_Wu_2025_ER\|(Wu et al., 2025, p. 364)]]
+> 持评价主义[[Epistemic Stances\|认识立场]]的学习者能够将生成式人工智能输出视作有待检验的假设性认知客体，通过调动外部文献、实证数据与逻辑推演对算法建议展开多源交叉核验，在动态人机对话中确立并捍卫高阶认识主体性。[[Argument_Wu_2025_ER\|(Wu et al., 2025, p. 364)]]
 >
 > *Evaluativist learners treat GenAI outputs as testable epistemic objects, actively cross-validating model suggestions against literature, empirical data, and logical constraints to maintain epistemic agency.*
 
@@ -97,7 +95,7 @@ updated: 2026-10-07
 > [!feature] 核心要素
 > - **重构客观评估标准** 评价论不是向绝对论的倒退，而是在接纳主观性基础上的客观维度的回归。评价标准从依赖外部专家的直接赋予，转变为依赖科学共同体或理性规则确立的证据逻辑网络。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, p. 314)]]
 > - **批判性比较与论辩的内在动机** 对于评价论者而言，理性论辩并非无谓的争吵，也不是为了消除别人的权利，而是因为知识本身需要经过比较和检验才能确立相对的确定性。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, p. 326)]]
-> - **[[Man-Computer Symbiosis|人机共生]]中的高阶证据协调与主体性保持** 在与大语言模型协作时，评价论者表现出主动的多源核验行为（[[Triangulation]]）。他们既不全盘接受大模型给出的现成代码或[[Analytic Framework\|分析框架]]，也不泛化地罗列多种解法，而是要求模型提供[[Hypothesis\|假设]]前提，并将模型输出与领域经典[[Document\|文献]]、实测数据进行对齐检验。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 363–365)]]
+> - **[[Man-Computer Symbiosis|人机共生]]中的高阶证据协调与主体性保持** 在与大语言模型协作时，评价论者表现出主动的多源核验行为（[[Triangulation]]）。他们既不全盘接受大模型给出的现成代码或[[Analytic Framework\|分析框架]]，也不泛化地罗列多种解法，而是要求模型提供假设前提，并将模型输出与领域经典文献、实测数据进行对齐检验。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 363–365)]]
 > - **获取难度的反转与极化** 从多元论跨越至评价论，在带有经验检验传统的物理事实和社会事实领域最容易达成；而在依靠人类内部约定的价值观和审美领域，要想重构统一评估标准则极为艰难。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, pp. 319–320)]]
 
 ---
@@ -172,7 +170,7 @@ updated: 2026-10-07
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] | N=129名成人/青少年 | 跨领域的[[Epistemology\|认识论]]评估工具（15题标准化测试） | 评价论在不同群体的达成比例 | 专家组（教育哲学专业）在各项评价论指标上达到 80%-100% 的绝对高位；而非专家组成人（含高学历EMBA高管等）能全面进入[[Pure Evaluation\|纯粹评价]]论模式（EEEE）的仅占 13%。在价值观领域，高管达到评价论的比例低至 22%。 | 专家组与其他群体差异极其显著 | 样本中专家组 N 较小（n=5），但结果呈现出悬殊的结构性差异。 |
-> | [[Argument_Wu_2025_ER\|Wu et al. (2025, pp. 363–366)]] | N=124名师范生与教育研究者，统计推论与教育实证分析人机交互任务 | 2x2 实验设计（提示词支架 x 反思评议支架）与认知交互追踪 | [[Epistemic Stances\|认识立场]]演进率（绝对/多元/评价）、高阶认知投入、多源证据协调行为 | 获得双轨支架支持的学习者进入评价主义立场的比例显著提升，能够对 ChatGPT 输出的统计[[Hypothesis\|假设]]（如正态性与方差齐性）进行跨[[Document\|文献]]比对与数据复核，成功维持了高水平的[[Epistemic Agency\|认识主体性]]。 | 双轨支架组在评价论演进与证据协调上显著优于对照组（p < .01） | 聚焦于统计与实证研究设计任务，需进一步检验其在复杂伦理与人文决策领域的泛化效果。 |
+> | [[Argument_Wu_2025_ER\|Wu et al. (2025, pp. 363–366)]] | N=124名师范生与教育研究者，统计推论与教育实证分析人机交互任务 | 2x2 实验设计（提示词支架 x 反思评议支架）与认知交互追踪 | [[Epistemic Stances\|认识立场]]演进率（绝对/多元/评价）、高阶认知投入、多源证据协调行为 | 获得双轨支架支持的学习者进入评价主义立场的比例显著提升，能够对 ChatGPT 输出的统计假设（如正态性与方差齐性）进行跨文献比对与数据复核，成功维持了高水平的[[Epistemic Agency\|认识主体性]]。 | 双轨支架组在评价论演进与证据协调上显著优于对照组（p < .01） | 聚焦于统计与实证研究设计任务，需进一步检验其在复杂伦理与人文决策领域的泛化效果。 |
 
 ---
 

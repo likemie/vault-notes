@@ -7,7 +7,7 @@ summary: "通过系统分析课程文件、政府政策、媒体报道和学术�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 18
+method_related_count: 16
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -18,10 +18,8 @@ tags:
 - paradigm/critical
 - paradigm/interpretivist
 related_concepts:
-  - "[[Document]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
-  - "[[Hypothesis]]"
   - "[[Lifelong Learning]]"
   - "[[Discourse]]"
   - "[[Causality]]"
@@ -44,13 +42,13 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 ## 定义
 
 > [!info] 定义
-> 课程的历史[[Documentary Analysis\|文献分析]]是一种[[Qualitative Research\|质性研究]]方法，通过系统地分析课程指引、政府文件、政策文本、媒体报道和既有学术[[Document\|文献]]，重建学校科目的演变历程，解释课程变革的政治与历史动力。
+> 课程的历史[[Documentary Analysis\|文献分析]]是一种[[Qualitative Research\|质性研究]]方法，通过系统地分析课程指引、政府文件、政策文本、媒体报道和既有学术文献，重建学校科目的演变历程，解释课程变革的政治与历史动力。
 >
 > [[Argument_Yan_2025_JCS\|Yan & Morris (2025)]] 运用此方法分析了 LS 从 2009 年创立到 2021 年废除的完整历史，数据来源包括：
 > - 课程指引（LS C&A Guide, 2007; [[Citizenship and Social Development\|CSD]] C&A Guide, 2021）
@@ -62,13 +60,13 @@ updated: 2026-10-07
 ## 认识论立场
 
 > [!abstract] [[Epistemology\|认识论]]立场
-> 属于**[[Critical Theory\|批判理论]]**[[Paradigm\|范式]]。此方法不[[Hypothesis\|假设]]文件提供中立的"事实记录"，而是将文件视为**政治建构**——每一份课程指引、政策文件和媒体报道都是一定政治立场和权力的产物。分析的目标不仅是"描述发生了什么"，更是揭示**为何以这种方式叙述**以及**何种权力关系在运作**。
+> 属于**[[Critical Theory\|批判理论]]**[[Paradigm\|范式]]。此方法不假设文件提供中立的"事实记录"，而是将文件视为**政治建构**——每一份课程指引、政策文件和媒体报道都是一定政治立场和权力的产物。分析的目标不仅是"描述发生了什么"，更是揭示**为何以这种方式叙述**以及**何种权力关系在运作**。
 
 ## 操作步骤
 
 > [!example] 操作步骤
 > 1. **确定分析范围与时间跨度** — 界定哪些类型的文件、覆盖哪个历史时段（如 LS: 2005-2021）
-> 2. **收集文件** — 系统收集官方课程文件、政府政策声明、媒体报道、既有学术[[Document\|文献]]
+> 2. **收集文件** — 系统收集官方课程文件、政府政策声明、媒体报道、既有学术文献
 > 3. **时间线重建** — 按时间顺序排列关键事件和决定（参见 Yan & Morris 的 Table 1）
 > 4. **来源[[Triangulation\|三角验证]]** — 交叉比对不同来源的叙述差异（如政府文件 vs. 官媒 vs. 学术文献）
 > 5. **[[Narrative Analysis\|叙事分析]]** — 识别政府如何"框架"问题以合法化特定政策（如"[[Lifelong Learning\|终身学习]]"论述 vs."国家安全"论述）

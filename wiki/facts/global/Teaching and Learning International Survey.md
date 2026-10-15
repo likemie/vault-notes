@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 31
+fact_related_count: 30
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -35,7 +35,6 @@ related_concepts:
   - "[[Constructivist Instruction]]"
   - "[[Rote Learning]]"
   - "[[Heterogeneity]]"
-  - "[[Attrition]]"
   - "[[Causality]]"
   - "[[Rich and Thick Description]]"
   - "[[Democratising Evidence]]"
@@ -64,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Teaching and Learning International Survey
@@ -138,7 +137,7 @@ updated: 2026-09-22
 > [!finding-cards] 核心实证结论
 > - **[[Constructivist Instruction\|建构主义教学]]实践与效能感正相关** 跨国实证一致表明，采用合作探究与认知激活教学策略的教师，其工作自我效能感与职业留任意愿显著高于仅采用[[Rote Learning\|机械记忆]]讲授的教师。
 > - **形式化专业发展的[[Heterogeneity\|异质性]]低效** 尽管 90% 以上的教师参加了短期培训班，但绝大多数教师认为离身式的专家讲座对其微观课堂教学改变收效甚微，深度校本教研与同行听评课展现出更高的正向转化率。
-> - **教师身心重压与职业地位危机** 超过三分之一的教师报告承受中高度工作压力，行政文书负担、频繁的外部问责检查与微观纪律挑战是造成师资[[Attrition\|流失]]的核心结构性瓶颈。
+> - **教师身心重压与职业地位危机** 超过三分之一的教师报告承受中高度工作压力，行政文书负担、频繁的外部问责检查与微观纪律挑战是造成师资流失的核心结构性瓶颈。
 > - **跨国数据二次挖掘与峰会协商转化** [[Education International\|国际教育协会]]委托达林-哈蒙德（Linda Darling-Hammond）等著名学者对 TALIS 数据开展二次独立挖掘，发表关于教师短缺与专业协作的独立政策洞见（Burns & Darling-Hammond, 2014）；TALIS 数据同时成为每年[[International Summits on the Teaching Profession\|国际教师职业峰会]]（ISTP）部长与工会平等磋商的扎实证据支撑。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210, 216)]]
 
 > [!stat-cards]- 关键实证数据

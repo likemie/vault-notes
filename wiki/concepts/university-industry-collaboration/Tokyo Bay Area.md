@@ -8,7 +8,7 @@ aliases:
 summary: "日本关东地区的世界级产业与科技创新湾区，以传统工业为基础转型升级形成第三产业为主、高端制造业为辅的产业结构，集聚丰田、佳能等世界500强企业，依托政府工业分散战略、筑波科学城国家研发基地、产官学师徒制协同与《大学技术转让促进法》TLO制度，形成工业+研发+政府三位一体的创新生态系统。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 22
+related_count: 20
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,11 +26,9 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[San Francisco Bay Area]]"
   - "[[New York Bay Area]]"
-  - "[[Document]]"
   - "[[Apprenticeship]]"
   - "[[Academic Entrepreneurship]]"
   - "[[International Education]]"
-  - "[[Attrition]]"
   - "[[Innovation Hub]]"
   - "[[Bureaucracy]]"
   - "[[Variable]]"
@@ -51,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-11
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Tokyo Bay Area
@@ -89,7 +87,7 @@ updated: 2026-10-08
 > | **驱动机制** | [[Technology Transfer\|大学技术转移]] + 风险投资 + 自发企业衍生 | 雄厚金融资本保障 + 市场应用场景牵引 | 产官学紧密协同 + 跨国大财团内部研发 |
 > | **空间与载体** | 硅谷产业带、[[Stanford Research Park\|斯坦福工业园]] | 曼哈顿硅巷、[[Applied Sciences NYC\|康奈尔科技校区]] | 京滨/京叶工业带、[[Tsukuba Science City\|筑波科学城]] |
 > | **政策工具** | 禁止竞业限制法律、ABAG 跨区域协商 | 市政定向减税、应用科学计划公私合营 | 国家工业分散战略、《[[Act on the Promotion of Technology Transfer from Universities to Private Business Operators\|大学技术转让促进法]]》 |
-> | **代表[[Document\|文献]]** | [[Argument_Zhang_2023_PHEI\|张寒旭等 (2023)]] | 张寒旭等 | 张寒旭等 |
+> | **代表文献** | [[Argument_Zhang_2023_PHEI\|张寒旭等 (2023)]] | 张寒旭等 | 张寒旭等 |
 
 ---
 
@@ -156,7 +154,7 @@ updated: 2026-10-08
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **空间与制造韧性** | 战略性空间工业分散与功能重组保障制造业母体不[[Attrition\|流失]]并促进高附加值产业集聚 | 传统老工业基地与大型制造业都市圈转型升级 | [[Argument_Zhang_2023_PHEI\|张寒旭等 (2023)]] |
+> | **空间与制造韧性** | 战略性空间工业分散与功能重组保障制造业母体不流失并促进高附加值产业集聚 | 传统老工业基地与大型制造业都市圈转型升级 | [[Argument_Zhang_2023_PHEI\|张寒旭等 (2023)]] |
 > | **产官学与法制化** | TLO立法确立专利转移通道，结合企业实验室师徒制与教师创业松绑实现深度协同 | 政府引导型与大企业主导型国家推进高校成果转化 | 张寒旭等 |
 > | **科学城与国际引智** | 国家级科学城策源地与留学生30万人计划共同保障基础研究供给与国际人才储备 | 应对少子老龄化挑战并维持国家核心科技[[Competitiveness\|竞争力]] | 张寒旭等 |
 
@@ -197,13 +195,13 @@ updated: 2026-10-08
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Zhang_2023_PHEI\|张寒旭等 (2023, 第4章)]] | 东京湾区产业结构、产官学协同与[[Tsukuba Science City\|筑波科学城]]成效分析 | 跨国湾区比较研究与案例分析 | 产业基地地位、中介服务机构入驻率、科技人才计划 | 筑波科学城为亚洲著名科学城与世界第二大研发基地；筑波研究交流支援中心由茨城县、DBJ与76家民企共建，入驻约56%的中小型科技服务机构；实施[[300,000 Foreign Students Plan\|留学30万人计划]] | 官方统计与学术[[Document\|文献]]梳理 | 证实工业分散与产官学制度创新是维系产业湾区核心[[Competitiveness\|竞争力]]的支柱 |
+> | [[Argument_Zhang_2023_PHEI\|张寒旭等 (2023, 第4章)]] | 东京湾区产业结构、产官学协同与[[Tsukuba Science City\|筑波科学城]]成效分析 | 跨国湾区比较研究与案例分析 | 产业基地地位、中介服务机构入驻率、科技人才计划 | 筑波科学城为亚洲著名科学城与世界第二大研发基地；筑波研究交流支援中心由茨城县、DBJ与76家民企共建，入驻约56%的中小型科技服务机构；实施[[300,000 Foreign Students Plan\|留学30万人计划]] | 官方统计与学术文献梳理 | 证实工业分散与产官学制度创新是维系产业湾区核心[[Competitiveness\|竞争力]]的支柱 |
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] 核心来源[[Document|文献]]索引
+> [!evidence-grid-a] 核心来源文献索引
 > - [[Argument_Zhang_2023_PHEI|张寒旭等 (2023)]] — 系统剖析了东京湾区的“工业+研发+政府”模式，重点总结了工业分散战略、[[Tsukuba Science City|筑波科学城]]建设、[[Act on the Promotion of Technology Transfer from Universities to Private Business Operators|大学技术转让促进法]]与[[300,000 Foreign Students Plan|留学30万人计划]]等实践经验。
 
 ---

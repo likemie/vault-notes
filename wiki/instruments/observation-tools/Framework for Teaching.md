@@ -9,7 +9,7 @@ aliases:
 summary: "由夏洛特·丹尼尔森研发的全面教学表现与教师评价量规体系，将专业教学解构为计划准备、课堂环境、教学指导和专业职责四大领域，包含22个构件与76个具体要素，通过4个表现等级划分专业教学水平，成为美国及国际基础教育阶段应用最广的教师准入、评价考核与专业发展标准之一。"
 type: instrument
 instrument_type: observation-tool
-instrument_related_count: 11
+instrument_related_count: 10
 instrument_related_level: 2
 instrument_related_stars: "⭐⭐"
 instrument_related_color: "#cffafe"
@@ -35,7 +35,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Classroom Observation]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments:
   - "[[Teach Classroom Observation Tool]]"
@@ -95,7 +94,7 @@ updated: 2026-10-15
 > [!observation-focus] FFT [[Classroom Observation|课堂观察]]核心构件重点
 > <span class="instrument-observation-table-marker" aria-hidden="true"></span>
 >
-> | 编号 | 观察维度 | 观察重点 | 记录方式 | 判定或[[Coding in Qualitative Research\|编码]] | 来源 |
+> | 编号 | 观察维度 | 观察重点 | 记录方式 | 判定或编码 | 来源 |
 > |---|---|---|---|---|---|
 > | 2a | 课堂环境 | 师生互动中的相互尊重与温暖态度 | 课堂现场持续观察 | 4 级表现量规 | Danielson (2013) |
 > | 2c | 课堂环境 | 学习常规流程的平稳过渡与教学时间利用 | 课堂现场持续观察 | 4 级表现量规 | 同上 |

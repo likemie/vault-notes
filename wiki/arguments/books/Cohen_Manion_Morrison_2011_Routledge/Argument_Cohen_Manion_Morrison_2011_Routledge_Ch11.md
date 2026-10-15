@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11"
 argument_display_title: "Research Methods in Education · Ch11"
 argument_kind: "book-chapter"
-argument_related_count: 87
+argument_related_count: 85
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -33,10 +33,8 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Interpretive Paradigm]]"
   - "[[Positivism]]"
-  - "[[Document]]"
   - "[[Rich and Thick Description]]"
   - "[[Naturalistic Generalization]]"
-  - "[[Hypothesis]]"
   - "[[Creativity]]"
   - "[[Emergence]]"
   - "[[Construct]]"
@@ -59,6 +57,7 @@ related_concepts:
   - "[[Informed Consent]]"
   - "[[Operationalization]]"
   - "[[Research Purpose]]"
+  - "[[Hypothesis]]"
   - "[[Alternative Hypothesis]]"
   - "[[Non-maleficence and Beneficence in Research]]"
   - "[[Total Institution]]"
@@ -96,7 +95,6 @@ related_methods:
   - "[[Case Study]]"
   - "[[Systematic Review]]"
   - "[[Quantitative Research]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Fieldwork]]"
   - "[[Sampling Frame]]"
   - "[[Triangulation]]"
@@ -146,7 +144,7 @@ updated: '2026-08-27'
 > [!concept-lens] 阅读透镜
 > - **对象** 自然主义、质性和民族志研究方法的范式基础、规划与操作全流程，以及批判民族志分支。
 > - **张力** 自然主义（长期驻留）vs 质性方法（数据类型导向）；[[Interpretive Paradigm\|诠释范式]] vs [[Positivism\|实证主义]]的认识论对立；线性阶段模型 vs 迭代递归的操作现实；传统民族志（"是什么"）vs 批判民族志（"可能是什么"）的政治立场分歧。
-> - **贡献** 将散落于不同方法论[[Document\|文献]]中的质性研究指南整合为可操作的12阶段模型，并系统呈现了批判民族志的五阶段操作模型。
+> - **贡献** 将散落于不同方法论文献中的质性研究指南整合为可操作的12阶段模型，并系统呈现了批判民族志的五阶段操作模型。
 
 ---
 
@@ -173,7 +171,7 @@ updated: '2026-08-27'
 
 > [!feature] 质性/自然主义范式的核心原则
 > - **人类主动建构自己的意义** 意义从社会情境中产生并通过诠释过程处理。行为和数据是社会性地情境化的：情境关联、情境依赖、情境丰富。理解情境才能理解行为，因为情境影响行为与视角，反之亦然。
-> - **现实是多元的、建构的、整体的** 认识者与被认识者互动且不可分；一切实体处于相互同时塑造的状态中，不可能区分原因和效果。只有时间和情境绑定的工作[[Hypothesis\|假设]]（个体描述性陈述）是可能的。
+> - **现实是多元的、建构的、整体的** 认识者与被认识者互动且不可分；一切实体处于相互同时塑造的状态中，不可能区分原因和效果。只有时间和情境绑定的工作假设（个体描述性陈述）是可能的。
 > - **探究是价值负载的** 研究受研究者价值观影响于四个层面：问题、评价对象或政策选项的选择与框架界定；指导研究的范式选择；指导数据收集和分析的实质理论选择；情境中固有的价值观。探究要么是价值一致性的（强化/一致的），要么是价值不一致的（冲突的）。问题、范式和理论必须与情境展现出一致性才能产生有意义的结果（pp.403–404）。
 > - **[[Rich and Thick Description\|厚描述]]的必要性** 研究须包含对情境化行为的[[Rich and Thick Description\|厚描述]]（Geertz, 1973），不仅是详细观察数据，还包括意义、参与者对情境的诠释及不可观察因素的数据。意义归因持续演化；人是深思熟虑的、有意图的、[[Creativity\|创造性]]的行动者；历史与传记交织；我们创造自己的未来，但未必在自选的情境中。
 > - **研究者即研究工具（Eisner, 1991）** 研究者生成而非检验假设，不知事先会看到什么、寻求什么。社会研究须以参与者眼光审视情境. 民族志的任务如 Malinowski（1922, p. 25）所言，是把握"土著的视角"。研究应在自然、非人为的、真实世界场景中进行，研究者干预尽可能少。
@@ -342,7 +340,7 @@ Lofland（1971）提出自然主义方法旨在回答三个核心问题：社会
 > | 长期且重复的观察 | 事件被多次观察以建立观察数据的可靠性。 |
 > | 推断服务于内部人视角 | 来[[Self-spectator\|自观]]察和多种民族志探究的推断用于处理内部人对现实的看法。 |
 > | 引出社会文化知识 | 民族志主要任务是从参与者引出社会文化知识，使社会行为可理解。 |
-> | 工具现场生成 | 工具、[[Coding in Qualitative Research\|编码]]、访谈议程等应在现场生成，从观察和民族志探究中衍生。 |
+> | 工具现场生成 | 工具、编码、访谈议程等应在现场生成，从观察和民族志探究中衍生。 |
 > | 跨文化比较视角 | 跨文化、比较性的视角通常存在；文化变异（跨时空）为自然状态。 |
 > | 使隐性知识显性化 | 某些影响行为和沟通的社会文化知识是隐性的；民族志任务之一是对读者显性化。 |
 > | 不预设回答 | 访谈者不应通过问题类型框定回答；信息提供者才拥有主位文化知识。 |
@@ -623,7 +621,7 @@ Morse（1994, p. 228）将信息提供者分为两类：
 
 #### 阶段8：现场数据收集（Data Collection in Situ）
 
-Lincoln & Guba（1985, p. 199）区分"干扰性"方法（访谈、观察、非言语语言，有他人在场）和"非干扰性"方法（文档和记录，无他人在场）。质性研究者可使用[[Field Notes|田野笔记]]、[[Participant Observation|参与观察]]、[[Semi-structured Interview|半结构化访谈]]、日记、生命史、[[Document|文献]]和[[Audiovisual, Social Media, and Digital Materials|视听材料]]等多种工具。
+Lincoln & Guba（1985, p. 199）区分"干扰性"方法（访谈、观察、非言语语言，有他人在场）和"非干扰性"方法（文档和记录，无他人在场）。质性研究者可使用[[Field Notes|田野笔记]]、[[Participant Observation|参与观察]]、[[Semi-structured Interview|半结构化访谈]]、日记、生命史、文献和[[Audiovisual, Social Media, and Digital Materials|视听材料]]等多种工具。
 
 **[[Qualitative Interview|质性访谈]]。** 半结构化访谈是最广泛使用的技术，时间表足够开放以允许重新排序、题外话、新路径加入和进一步追问。Carspecken（1996, pp. 159–160）从"温和鼓励"→"非引导性"引导→主动倾听→低推断改述→中推断改述→高推断改述的光谱。质性访谈从预结构化转向开放式/半结构化，允许灵活性而非固定的讨论序列。
 Lincoln & Guba（1985, pp. 268–270）提出访谈的四类目的：
@@ -698,7 +696,7 @@ Silverman（1993, pp. 92–93）补充了访谈的六项用途：
 > [!contrast-table] 质性数据分析的两条路径（Maxwell, 2005）
 > | 维度 | 范畴化策略 | 连接策略 |
 > |------|-----------|----------|
-> | 操作方式 | [[Coding in Qualitative Research\|编码]]为组织性、实质性-描述性、理论性范畴；主题分析。 | 叙事分析、片段、[[Discourse Analysis\|话语分析]]和剖面。 |
+> | 操作方式 | 编码为组织性、实质性-描述性、理论性范畴；主题分析。 | 叙事分析、片段、[[Discourse Analysis\|话语分析]]和剖面。 |
 > | 核心目标 | 将数据分类、归组、抽象化。 | 将数据置于情境中，保持原始完整性的完好。 |
 > | 风险 | 切割和重组数据可能破坏原始情境。 | 难以跨案例系统比较。 |
 
@@ -852,7 +850,7 @@ Larsson（2009, p. 36）最终论证：**质性研究概括化的责任在于受
 > *The ethnographer must be intellectually poised between '[[Familiarization\|familiarity]]' and 'strangeness', while socially he or she is poised between 'stranger' and 'friend'... this management of several roles, not least the management of marginality, can engender 'a continual sense of insecurity'.*
 
 > [!citation-card]- [[Critical Ethnography\|批判民族志]]的政治承诺
-> 传统民族志关注是什么，批判民族志关注可能是什么……批判民族志具有明确的议程，有伦理责任去促进自由、社会正义、公平和福祉。这不可避免地涉及扰乱被接受的意义、打破研究的中立声称，并暴露那些使已然强大者以已然无权力和被支配者为代价而延续权力的、想当然的[[Hypothesis\|假设]]。（pp.446–447，引自 Thomas, 1993, p. 4, 7; Madison, 2005, p. 5）
+> 传统民族志关注是什么，批判民族志关注可能是什么……批判民族志具有明确的议程，有伦理责任去促进自由、社会正义、公平和福祉。这不可避免地涉及扰乱被接受的意义、打破研究的中立声称，并暴露那些使已然强大者以已然无权力和被支配者为代价而延续权力的、想当然的假设。（pp.446–447，引自 Thomas, 1993, p. 4, 7; Madison, 2005, p. 5）
 > *Whereas conventional ethnography is concerned with what is, critical ethnography concerns itself with what could be... Critical ethnography has an explicit agenda, an 'ethical responsibility' to promote freedom, social justice, equity and well-being. This inevitably involves disturbing accepted meanings and disrupting the status quo and purported neutrality of research, together with exposing taken-for-granted, 'domesticated' assumptions that perpetuate the power of the already powerful at the expense of the powerless and the dominated.*
 
 ---

@@ -11,7 +11,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 12
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -30,11 +30,9 @@ related_concepts:
   - "[[Valley of Death]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Picking the Willing]]"
-  - "[[Document]]"
 related_theories:
   - "[[Evolutionary Economics]]"
 related_persons:
-  - "[[Isaiah Berlin]]"
   - "[[Mariana Mazzucato]]"
 related_facts:
   - "[[Protein Data Bank]]"
@@ -44,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # KfW
@@ -58,7 +56,7 @@ updated: 2026-10-08
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 成立于 1948 年，原初使命是管理和分配二战后美国马歇尔计划（Marshall Plan）的欧洲复兴专项援助资金，支持战后德国工业、住房与基础设施的废墟重建。
-> - **总部地点 / 业务辐射** 总部设于德国美因河畔法兰克福（Frankfurt am Main），在[[Isaiah Berlin|柏林]]与波恩设有分支机构，业务辐射覆盖德国全境、欧洲一体化项目及全球 100 多个发展中国家。
+> - **总部地点 / 业务辐射** 总部设于德国美因河畔法兰克福（Frankfurt am Main），在柏林与波恩设有分支机构，业务辐射覆盖德国全境、欧洲一体化项目及全球 100 多个发展中国家。
 > - **法人属性与经费基础** 公共法团机构（Anstalt des öffentlichen Rechts），享有德国联邦政府全额直接信用担保（AAA 信用评级）；主要依托国际资本市场发行绿色债券（Green Bonds）自主低成本融资，不吸收公众个人零售存款。
 > - **核心宗旨与法定职责** 依据《德国复兴信贷银行法》（KfW Act），以促进可持续发展、保护气候环境、支持中小微企业融资与推动数字化转型为法定核心使命，坚守不以追求商业股东利润最大化为目标的公共政策属性。
 
@@ -129,4 +127,4 @@ updated: 2026-10-08
 > | [[Picking the Willing]] | Concept | KfW 对所有愿意开展低碳技术改造的企业提供定向优惠贷款，生动践行了意愿者机制。 |
 > | [[Horizon Europe Missions]] | Fact (Policy) | KfW 深度参与欧洲投资银行网络协同对接欧盟地平线战略使命资助。 |
 > | [[Mariana Mazzucato]] | Person | 将 KfW 作为企业型国家与耐心开发银行代表案例进行深度理论剖析的核心学者。 |
-> | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | Argument | 系统论述 KfW 等公共开发银行在使命导向政策与耐心资本供给中核心地位的代表[[Document\|文献]]。 |
+> | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | Argument | 系统论述 KfW 等公共开发银行在使命导向政策与耐心资本供给中核心地位的代表文献。 |

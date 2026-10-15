@@ -7,7 +7,7 @@ aliases:
 summary: "组织识别、吸收并情境化应用外部知识的能力；在教育与治理中取决于实践者认知基础、内部沟通网络与支持性领导，调节科研证据向微观行动的转化成效。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 56
+related_count: 52
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Total Factor Productivity]]"
   - "[[Reflexivity]]"
   - "[[Logic Model]]"
-  - "[[Hypothesis]]"
   - "[[Paradigm]]"
   - "[[Variable]]"
   - "[[Competitiveness]]"
@@ -48,7 +47,6 @@ related_concepts:
   - "[[Formative Assessment]]"
   - "[[Literature Review]]"
   - "[[Interaction Effect]]"
-  - "[[Document]]"
 related_theories:
   - "[[Organizational Culture]]"
 related_arguments:
@@ -71,9 +69,7 @@ related_methods:
 related_persons:
   - "[[Keith Morrison]]"
   - "[[Mark Rickinson]]"
-  - "[[Carlos Alberto Torres]]"
   - "[[Mariana Mazzucato]]"
-  - "[[Peter A. Hall]]"
 related_facts:
   - "[[Students and Teachers Accessing Tomorrow]]"
   - "[[Monash Q Project]]"
@@ -170,7 +166,7 @@ updated: 2026-10-15
 > 批判将教育改进简化为学术成果单向分发的供给偏误，阐明学校吸收能力建设在破解实践落地困境中的决定性意义。
 
 > [!claim] Rickinson et al.; Torres
-> **组织使能与需求端吸收** 在基础教育循证改革中，单向学术成果推送（Push）假定教师能自动将论文转化为教学，这种线性[[Hypothesis\|假设]]遭遇了大面积失败。[[Mark Rickinson\|马克·里金森]]（Mark Rickinson）与米格尔·[[Carlos Alberto Torres\|托雷斯]]（Miguel Torres）等学者证实，中小学一线实践者普遍面临质量判断信心匮乏与检索困难等吸收短板，更遭遇压倒性的时间赤字挤压；唯有通过[[School Leadership\|学校领导]]者的躬身示范、制度化[[Professional Learning Community\|专业学习共同体]]（PLCs）以及刚性排程工时保障，才能实质提升学校的组织吸收能力，完成从被动接收到主动需求牵引（Pull）的[[Paradigm\|范式]]跃迁。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 183–187, 191–195)]]；[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 43–45)]]
+> **组织使能与需求端吸收** 在基础教育循证改革中，单向学术成果推送（Push）假定教师能自动将论文转化为教学，这种线性假设遭遇了大面积失败。[[Mark Rickinson\|马克·里金森]]（Mark Rickinson）与米格尔·托雷斯（Miguel Torres）等学者证实，中小学一线实践者普遍面临质量判断信心匮乏与检索困难等吸收短板，更遭遇压倒性的时间赤字挤压；唯有通过[[School Leadership\|学校领导]]者的躬身示范、制度化[[Professional Learning Community\|专业学习共同体]]（PLCs）以及刚性排程工时保障，才能实质提升学校的组织吸收能力，完成从被动接收到主动需求牵引（Pull）的[[Paradigm\|范式]]跃迁。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 183–187, 191–195)]]；[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 43–45)]]
 
 ---
 
@@ -212,7 +208,7 @@ updated: 2026-10-15
 > - **1990 — 工业研发创新领域的奠基** 韦斯利·科恩（Wesley Cohen）与丹尼尔·莱文萨尔（Daniel Levinthal）发表《吸收能力：学习与创新的新视角》，奠定组织识别、吸收与应用外部知识的三维[[Analytic Framework\|分析框架]]。
 > - **2002 — 潜在与实现吸收能力的分化** 沙哈拉与乔治（Zahra & George, 2002）将吸收能力重新构架为“潜在吸收能力”（获取与消化）与“实现吸收能力”（转化与利用），深化了组织知识转化的过程论模型。
 > - **2018 — 宏观国家治理与[[Public Dynamic Capabilities|公共部门动态能力]]扩展** 玛丽安娜·[[Mariana Mazzucato|马祖卡托]]（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018, p. 808]]）将吸收能力与机构学习（Institutional Learning）引入国家创新治理与公共部门能力分析，论证政府与高校管理机构唯有在持续投资与实验探索中积累内生吸收能力，才能摆脱对外部咨询机构的[[Cognitive Deskilling|去技能化]]依赖并有效引领使命导向转型。
-> - **2019 — 德语区教育[[Transfer Science|转移科学]]与微观[[Organizational Culture|组织文化]]土壤** 曼尼蒂乌斯与范[[Peter A. Hall|霍尔]]特（[[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt, 2019]]）在确立教育科学作为[[Transfer Science\|转移科学]]（Transferwissenschaft）的学科对话中，系统反思了各类清算机构（[[Educational Evidence Clearinghouses|Clearinghouse]]）被动供给的局限，强调转移成效从根本上受制于单体学校现场的微观组织文化土壤与异质吸收能力（Absorptionskapazität），主张依托全周期教师教育与中层研训机构重塑吸收转化生态。
+> - **2019 — 德语区教育[[Transfer Science|转移科学]]与微观[[Organizational Culture|组织文化]]土壤** 曼尼蒂乌斯与范霍尔特（[[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt, 2019]]）在确立教育科学作为[[Transfer Science\|转移科学]]（Transferwissenschaft）的学科对话中，系统反思了各类清算机构（[[Educational Evidence Clearinghouses|Clearinghouse]]）被动供给的局限，强调转移成效从根本上受制于单体学校现场的微观组织文化土壤与异质吸收能力（Absorptionskapazität），主张依托全周期教师教育与中层研训机构重塑吸收转化生态。
 > - **2020 — 宏观经济与[[Technological Catch-up|技术追赶]]中的经验确证** 格利茨与迈尔森（[[Argument_Glitz_2020_AER\|Glitz & Meyersson, 2020]]）基于冷战时期东德工业间谍数据，证实只有接近西德技术前沿的行业才能有效消化科技情报，实证确立了认知距离对吸收能力的决定作用。[[Argument_Glitz_2020_AER\|(Glitz & Meyersson, 2020, p. 1096)]]
 > - **2021 — K-12 教育学区改革评价吸纳** 罗斯与[[Keith Morrison\|莫里森]]结合巴尔的摩 [[Students and Teachers Accessing Tomorrow\|STAT]] 项目，将吸收能力引入教育行政与评价利用，揭示项目理解与开放沟通对评价证据转化的支撑。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 122–124)]]
 > - **2022 — [[Push and Pull Models of Knowledge Mobilisation\|知识动员推拉模型]]与学校使能生态** [[Monash Q Project\|莫纳什 Q 项目]]与 [[OECD]] [[Knowledge Mobilisation\|知识动员]]模型将吸收能力确立为克服单向供给推送偏误的核心支柱，量化揭示时间赤字与领导示范对学校吸收能力的决定性影响。[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 43–45)]]；[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 183–187)]]
@@ -226,7 +222,7 @@ updated: 2026-10-15
 > > [!axis] 清算平台供给扩张 vs 学校端吸收能力贫困
 > > 探讨各类证据清算机构迅猛发展背后忽视学校吸收能力的供给侧偏误。
 > >
-> > - **供给[[Hypothesis|假设]]偏误** 预设只要将学术论文改写为通俗摘要并在数字化平台分发，一线实践者就会自发检索并阅读采纳。
+> > - **供给假设偏误** 预设只要将学术论文改写为通俗摘要并在数字化平台分发，一线实践者就会自发检索并阅读采纳。
 > > - **吸收土壤制约** 学校缺乏支持专业对话的探究文化、持续的专家陪伴与深层组织吸收能力，使得单纯平台层面的二次加工难以穿透微观实践屏障，在国际实证评估中普遍缺乏微观教学转化证据（[[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt, 2019, pp. 10–12]]）。
 >
 > > [!axis] 事前可测量指标匮乏与概念套套逻辑
@@ -252,7 +248,7 @@ updated: 2026-10-15
 > | [[Argument_Glitz_2020_AER\|Glitz & Meyersson (2020)]] | 冷战时期东德工业部门与西方技术情报数据库 | 准实验计量经济分析与生产函数估计 | 工业间谍对东德部门[[Total Factor Productivity\|全要素生产率]]（TFP）的因果效应及技术差距调节 | 间谍情报对 TFP 增长的促进效应在初始与西德 TFP 差距较小的行业中最强，在落后行业中不显著 | 计量模型显著 | 强力实证支持了吸收能力假说：具备认知基础与技术存量的部门才能有效转化外部情报 |
 > | [[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison (2021)]] | 巴尔的摩县公立学区 [[Students and Teachers Accessing Tomorrow\|STAT]] 技术改革利益相关者 | [[Formative Program Evaluation\|形成性项目评价]]、问卷与案例分析 | [[Formative Assessment\|形成性评价]]证据对学区决策、持续实施及丑闻后改革延续的支撑 | 多方证实形成性反馈在学监辞职后仍支持了项目延续；项目理解与开放沟通促成了评价证据进入实践 | — | 质性证实学区层面的吸收能力在保障复杂教育改革延续中的关键功能 |
 > | [[Argument_Cohen_2025_JTT\|Cohen et al. (2025)]] | 产学研发合作（UICs）多国企业实证样本 | 跨国实证[[Literature Review\|文献综述]]与[[Meta-meta-analysis\|元综合]] | 吸收能力对企业从[[University-Industry Collaboration\|产学合作]]中获取创新绩效的[[Interaction Effect\|调节效应]] | 吸收能力薄弱的企业在正式合作中未能获得显著创新提升；高吸收力企业展现显著转化优势与资助偏向 | 综述多项计量研究结论 | 实证确立了吸收能力在产学合作创新转化中的门槛与调节效应 |
-> | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]]（引述 van Holt, 2014; Koch, 2011） | 德国鲁尔区区域学校协作网络项目（[[Schulen im Team]]）及多州学校发展样本 | 追踪评估、多案例[[Network Analysis\|网络分析]]与[[Document\|文献]]综合批判 | 学校组织[[Heterogeneity\|异质性]]与本土情境重构 vs 外部教研成果转移吸收能力 | 实证揭示单校组织异质性深刻制约外部教研方案的消化吸收；缺乏[[Reflexivity\|反思性]]校本对话与文化土壤支持的学校无法有效转化网络合作经验 | 质性与个案实证确证 | 确立学校组织异质性与微观文化对吸收能力的决定性制约，证实情境化重构是外部创新存活的前提 |
+> | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]]（引述 van Holt, 2014; Koch, 2011） | 德国鲁尔区区域学校协作网络项目（[[Schulen im Team]]）及多州学校发展样本 | 追踪评估、多案例[[Network Analysis\|网络分析]]与文献综合批判 | 学校组织[[Heterogeneity\|异质性]]与本土情境重构 vs 外部教研成果转移吸收能力 | 实证揭示单校组织异质性深刻制约外部教研方案的消化吸收；缺乏[[Reflexivity\|反思性]]校本对话与文化土壤支持的学校无法有效转化网络合作经验 | 质性与个案实证确证 | 确立学校组织异质性与微观文化对吸收能力的决定性制约，证实情境化重构是外部创新存活的前提 |
 
 ---
 

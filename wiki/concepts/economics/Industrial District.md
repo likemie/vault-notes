@@ -10,7 +10,7 @@ aliases:
 summary: "最早由阿尔弗雷德·马歇尔（Alfred Marshall）于 1890 年提出、后被新产业社会学与经济地理学重新阐发的核心概念；指在特定地理空间高度集聚、由大量专业化分工协作的中小企业所构成的产业生态网络；以“行业秘密飘在空气中”的隐性知识外溢、面对面信任资本以及共享的熟练劳动力市场为特征，揭示了次国家集聚作为国家创新系统底层微观基石的共生机理。"
 type: concept
 domain: "economics"
-related_count: 16
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,7 +21,6 @@ tags:
 related_concepts:
   - "[[Agglomeration Externalities]]"
   - "[[National Innovation System]]"
-  - "[[Assemblage]]"
   - "[[Regional Innovation System]]"
   - "[[Tacit Knowledge]]"
   - "[[Technology Transfer]]"
@@ -32,7 +31,6 @@ related_theories:
   - "[[Systems of Innovation]]"
   - "[[Techno-economic Paradigm]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_persons:
   - "[[Chris Freeman]]"
@@ -42,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Industrial District
@@ -66,7 +64,7 @@ updated: 2026-10-14
 
 > [!boundary]- 概念边界
 > - 不等于 单一大型垂直一体化工厂（Vertical Integrated Conglomerate） — 产业区由成百上千家高度灵活、专门从事某一精密道工序的独立中小工坊协同构成，排斥科层僵化。
-> - 不等于 跨国离岸代工[[Assemblage|装配]]带 — 纯成本导向的外资代工区缺乏本土内生的研发、工匠传承与横向面对面信任网络。
+> - 不等于 跨国离岸代工装配带 — 纯成本导向的外资代工区缺乏本土内生的研发、工匠传承与横向面对面信任网络。
 
 ---
 
@@ -76,7 +74,7 @@ updated: 2026-10-14
 > | 维度 | 本概念（马歇尔产业区） | [[Regional Innovation System\|区域创新系统（RIS）]] | 大型跨国公司全球网络 |
 > |---|---|---|---|
 > | **核心组织特征** | 中小企业集群、弹性专精（Flexible Specialization） | 涵盖区域大学、研发院所、地方政府与企业的制度网络 | 母子公司垂直科层治理与全球价值链调度 |
-> | **知识流动形态** | 邻里社交网络中的[[Tacit Knowledge\|隐性知识]]外溢、师徒相传 | 产学研正式契约合作、[[Technology Transfer\|技术转移]]中心、联合实验室 | 内部专利授权与跨国企业内网[[Coding in Qualitative Research\|编码]]化文件共享 |
+> | **知识流动形态** | 邻里社交网络中的[[Tacit Knowledge\|隐性知识]]外溢、师徒相传 | 产学研正式契约合作、[[Technology Transfer\|技术转移]]中心、联合实验室 | 内部专利授权与跨国企业内网编码化文件共享 |
 > | **协同纽带** | 本土文化认同、同行评价声誉与面对面信任 | 区域政策法规框架、公共基金引导与创新规制 | 资本所有权控制、劳动雇佣合同与绩效考核 |
 > | **经典代表范例** | 19 世纪英国兰开夏棉纺区、当代意大利中北部工坊 | 德国巴登-符腾堡州产学研体系、北欧创新圈 | 福特汽车全球工厂、苹果跨国离岸代工链条 |
 

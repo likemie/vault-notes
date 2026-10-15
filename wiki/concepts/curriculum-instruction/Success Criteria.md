@@ -8,7 +8,7 @@ aliases:
 summary: "伴随学习意图向学生显性呈现的具体质性表现指标、证据特征与进阶阶梯，用于判定学生在何种程度上达成了预期的认知理解与能力目标"
 type: concept
 domain: "curriculum-instruction"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Self-control]]"
   - "[[Variable]]"
   - "[[Learning Progression]]"
-  - "[[Document]]"
   - "[[Creativity]]"
   - "[[Open-Mindedness]]"
 related_theories: []
@@ -41,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-16
-updated: 2026-09-29
+updated: 2026-10-15
 ---
 
 # Success Criteria
@@ -138,7 +137,7 @@ updated: 2026-09-29
 ### 命题总览
 
 > [!contrast-table] 围绕成功标准的核心命题归纳
-> | 命题维度 | 核心理论观点 | 教学实践指向 | 代表[[Document\|文献]] |
+> | 命题维度 | 核心理论观点 | 教学实践指向 | 代表文献 |
 > |---|---|---|---|
 > | **阶梯式自我调节支架** | 分阶段成功标准能将长周期任务转化为可见的进阶台阶，支持学生自主监控 | 在单元设计中区分中间过程标准与终期达标标准 | Clarke, Timperley, & Hattie (2003) |
 > | **深层因果证据牵引** | 明确因果[[Chain of Evidence\|证据链]]要求的标准能抑制机械记忆，牵引高阶整合思维 | 将评分与评估关注点聚焦于因果论证的逻辑严密性 | [[Argument_Hattie_2005_ACER\|Hattie (2005)]]；Sadler (1989) |

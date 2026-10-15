@@ -12,7 +12,7 @@ aliases:
 summary: "基于特定地理区位的跨部门创新联合体，将区域内大学、领军企业、初创公司、投资者与政府组织起来围绕共同战略愿景进行大规模协同投资；从早期大学研究园区与“密度就是命运”的关系网络，演进为整合开放大科学设施、中试平台、技能学徒制与区域先进制造集群的国家产业韧性引擎。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 46
+related_count: 45
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -40,7 +40,6 @@ related_concepts:
   - "[[Valley of Death]]"
   - "[[University-Industry Co-location]]"
   - "[[Technology Readiness Level]]"
-  - "[[Attrition]]"
   - "[[Anchor Institution]]"
   - "[[Paradigm]]"
 related_theories: []
@@ -78,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Innovation Hub
@@ -164,7 +163,7 @@ updated: 2026-10-10
 > - **大型企业** 获取前沿大学与国家实验室独家研发资源，共担早期技术攻坚风险，锁定高素质工程师与熟练技工人才管道。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, pp. 112–113)]]
 > - **[[Research Universities|研究型大学]]** 拓宽前沿科研产业化应用场景，提升毕业生就业[[Competitiveness|竞争力]]，获取产业配比科研经费并增强区域社会影响力。
 > - **初创企业与中小企业** 以按需付费方式调用原本无法负担的顶尖科研仪器与中试设施，接触天使投资人并快速融入大企业供应链。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 40–41)]]
-> - **地方与联邦政府** 培育本地高薪制造岗位，扭转区域经济衰退与人才[[Attrition|流失]]，巩固国家在关键战略产业上的制造主权与供应链韧性。
+> - **地方与联邦政府** 培育本地高薪制造岗位，扭转区域经济衰退与人才流失，巩固国家在关键战略产业上的制造主权与供应链韧性。
 
 ---
 
@@ -193,7 +192,7 @@ updated: 2026-10-10
 >
 > | 案例实体 | 核心机制与组织模式 | 关键基础设施与[[University-Industry Collaboration\|产学合作]] | 产业与经济成效 | 来源 |
 > |:---|:---|:---|:---|:---|
-> | **[[Research Triangle Park\|北卡三角研究园 (RTP)]]** | 杜克/UNC/NC State 三校联合发起，全州动员与产业入驻 | 60 万平方英尺 IBM 锚定设施，综合研发园区 | 彻底扭转北卡人才[[Attrition\|流失]]，形成全美顶尖生物医药与信息技术集群 | [[Argument_Byrne_2025_InnovationCenters\|(Byrne & Clements, 2025, pp. 130–131)]] |
+> | **[[Research Triangle Park\|北卡三角研究园 (RTP)]]** | 杜克/UNC/NC State 三校联合发起，全州动员与产业入驻 | 60 万平方英尺 IBM 锚定设施，综合研发园区 | 彻底扭转北卡人才流失，形成全美顶尖生物医药与信息技术集群 | [[Argument_Byrne_2025_InnovationCenters\|(Byrne & Clements, 2025, pp. 130–131)]] |
 > | **[[Kendall Square\|剑桥肯德尔广场 (CIC)]]** | 跨校联合办公与高密度创业生态网络 | 毗邻 MIT 与哈佛，提供共享实验与社交空间 | 入驻超 10,000 家机构，客户累计吸引超 170 亿美元投资 | [[Argument_Byrne_2025_InnovationCenters\|(Byrne & Clements, 2025, p. 128)]] |
 > | **[[Tech Square at Georgia Tech\|佐治亚理工科技广场]]** | 大学管理学院入驻锚定，破除校区地理隔阂 | 融合商业地产、学术教学与企业研发中心 | 成为亚特兰大中城科技引擎，“密度就是命运”典范样本 | [[Argument_Byrne_2025_InnovationCenters\|(Byrne & Clements, 2025, pp. 129, 136)]] |
 > | **[[Purdue Discovery Park\|普渡大学发现园]]** | 地方基金与州政府初始投资，大学自持研发区 | 涵盖纳米技术、先进计算与航空制造中心 | 初始 3000 万美元投资撬动超 10 亿美元产业研发活动 | [[Argument_Byrne_2025_InnovationCenters\|(Byrne & Clements, 2025, p. 132)]] |

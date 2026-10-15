@@ -8,7 +8,7 @@ aliases:
 summary: "Holland (1986) 提出的因果推断根本性困难：同一个人不能同时处于接受和不接受干预的状态，因此因果效应在个体层面无法被观察"
 type: concept
 domain: "research-methodology"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,7 +19,6 @@ related_concepts:
   - "[[Causality]]"
   - "[[Counterfactual]]"
   - "[[Variable]]"
-  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Random Assignment]]"
@@ -31,7 +30,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-18
-updated: 2026-06-18
+updated: 2026-10-15
 ---
 
 # Fundamental Problem of Causal Inference
@@ -66,7 +65,7 @@ updated: 2026-06-18
 ## 围绕概念形成的命题
 
 > [!claim] 基本问题无法仅通过[[Random Assignment\|随机化]]充分缓解
-> 这一问题可能无法仅通过随机化充分缓解——因为无论随机分配多么完美，都只能在群体层面比较平均值，永远无法在个体层面观察[[Counterfactual\|反事实]]。随机化采纳ceteris paribus（其他条件相同）条件，[[Hypothesis\|假设]]未控制[[Variable\|变量]]在组间均匀分布——但这本身是一个"大胆且可能危险的假设"。
+> 这一问题可能无法仅通过随机化充分缓解——因为无论随机分配多么完美，都只能在群体层面比较平均值，永远无法在个体层面观察[[Counterfactual\|反事实]]。随机化采纳ceteris paribus（其他条件相同）条件，假设未控制[[Variable\|变量]]在组间均匀分布——但这本身是一个"大胆且可能危险的假设"。
 
 > [!claim] 基本问题对教育研究的实际意义
 > 在教育情境中，由于学校班级通常是预成的、家长可能干预分配、缺失数据在不同组间分布不均，基本问题变得更加尖锐。这意味着即使是设计良好的[[Randomised Controlled Trials\|RCT]]，其推论的效度也是临时且局部的。
@@ -74,4 +73,4 @@ updated: 2026-06-18
 ## 应用案例
 
 > [!case] 个体层面[[Causality\|因果推断]]的不可能性
-> [[Hypothesis\|假设]]一项研究评估新的阅读教学法对学生阅读成绩的影响。对于任何一个特定学生，我们只能观察到她在新教学法下的成绩，或者她在传统教学法下的成绩——永远不能同时观察两种状态。因此，我们永远不能说"这个学生因新教学法提高了 X 分"。我们只能说"平均而言，接受新教学法的学生比对照组高 Y 分"。这就是 Holland 基本问题的实际含义。
+> 假设一项研究评估新的阅读教学法对学生阅读成绩的影响。对于任何一个特定学生，我们只能观察到她在新教学法下的成绩，或者她在传统教学法下的成绩——永远不能同时观察两种状态。因此，我们永远不能说"这个学生因新教学法提高了 X 分"。我们只能说"平均而言，接受新教学法的学生比对照组高 Y 分"。这就是 Holland 基本问题的实际含义。

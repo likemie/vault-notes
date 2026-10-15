@@ -6,7 +6,7 @@ aliases:
 summary: "质性研究中通过厚描述使读者自行判断研究发现与自身情境相似性的概括形式。不同于统计概括，其责任在读者而非研究者，可比较性和可翻译性是核心标准。"
 type: concept
 domain: "research-methodology"
-related_count: 13
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -15,7 +15,6 @@ tags:
   - paradigm/constructivist
 related_concepts:
   - "[[Rich and Thick Description]]"
-  - "[[Hypothesis]]"
   - "[[Theoretical End Point]]"
   - "[[Praxis]]"
 related_theories: []
@@ -35,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Naturalistic Generalization
@@ -67,7 +66,7 @@ Larsson（2009）进一步系统化了[[Qualitative Research|质性研究]]的�
 
 > [!dimension] Larsson（2009）的三种质性概括性推理
 > - **最大化变异以增强概括潜力**
->   通过[[Theoretical Sampling\|理论抽样]]确保尽可能多不同案例被纳入研究，不常见案例与典型案例同等权重。[[Hypothesis\|假设]]研究中存在的变异也存在于更广泛的目标情境中。局限在于可能需较大[[Sample Size Determination\|样本量]]，且假设研究者事先知道最大变异是什么样。
+>   通过[[Theoretical Sampling\|理论抽样]]确保尽可能多不同案例被纳入研究，不常见案例与典型案例同等权重。假设研究中存在的变异也存在于更广泛的目标情境中。局限在于可能需较大[[Sample Size Determination\|样本量]]，且假设研究者事先知道最大变异是什么样。
 > - **通过情境相似性进行概括**
 >   确保研究情境与目标情境足够相似——即 Lincoln & Guba 的可转移性（transferability）标准。研究者提供充分[[Rich and Thick Description\|厚描述]]让受众自行判断。困难在于决定何时、在何标准上情境足够相似。
 > - **通过模式识别进行概括**

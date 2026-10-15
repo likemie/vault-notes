@@ -9,7 +9,7 @@ aliases:
 summary: "伯勒尔与摩根社会科学性质分析框架中本体论维度的核心一极，主张外部实在不存在独立于认知者的客观实体，社会实在与组织概念本质上是人类心智发明的语言标签与符号建构物。"
 type: concept
 domain: "educational-philosophy"
-related_count: 25
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,10 +20,8 @@ tags:
   - theme/social-reality
   - theme/nominalism-realism
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Ontology]]"
   - "[[Bureaucracy]]"
-  - "[[Teaching Assistant]]"
   - "[[Objectivism]]"
   - "[[Subjectivism]]"
   - "[[Interpretive Paradigm]]"
@@ -54,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Nominalism
@@ -64,11 +62,11 @@ updated: 2026-10-08
 ## 定义
 
 > [!def] 核心定义
-> **唯名论（Nominalism）** 是伯勒尔与摩根（Burrell & Morgan, 1979）分析社会科学性质的四组哲学[[Hypothesis\|假设]]中，[[Ontology\|本体论]]维度的核心一极，与实在论（Realism）相对立。唯名论主张外部世界不存在独立于认知者的客观实体与先验范畴；所谓的“概念”、“组织”或“社会结构”仅仅是人类用以指称事物的语言标签（convenient labels）与词汇符号，社会实在在本质上是人类主体主观心智与社会建构的发明物。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 5–7)]]
+> **唯名论（Nominalism）** 是伯勒尔与摩根（Burrell & Morgan, 1979）分析社会科学性质的四组哲学假设中，[[Ontology\|本体论]]维度的核心一极，与实在论（Realism）相对立。唯名论主张外部世界不存在独立于认知者的客观实体与先验范畴；所谓的“概念”、“组织”或“社会结构”仅仅是人类用以指称事物的语言标签（convenient labels）与词汇符号，社会实在在本质上是人类主体主观心智与社会建构的发明物。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 5–7)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 否定概念与集体实体（如“国家”、“学校”、“[[Bureaucracy|官僚制]]”）拥有独立于人类思维之外的实体性存在，主张一切社会范畴都是主观约定的名称。
-> - **用途** 帮[[Teaching Assistant\|助教]]育研究者破除对教育制度、学校组织与测验指标的“实体化崇拜”（reification），看见隐藏在制度标签背后的微观互动协商与权力运作。
+> - **用途** 帮助教育研究者破除对教育制度、学校组织与测验指标的“实体化崇拜”（reification），看见隐藏在制度标签背后的微观互动协商与权力运作。
 > - **边界** 唯名论不等于否定物理自然界的存在，而是特指在社会与文化领域，社会实在无法脱离人类意义赋予而独立存续。
 
 > [!citation-card] 伯勒尔与摩根论唯名论与实在论的本体论对峙
@@ -163,4 +161,4 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 5–7)]] — 系统阐释 Burrell & Morgan 四组哲学[[Hypothesis\|假设]]中的唯名论立场，以及 Greenfield 的组织唯名论对照表。 [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen, Manion & Morrison (2011)]] — 贯穿全书[[Ontology\|本体论]]与[[Qualitative Research\|质性研究]]哲学基础探讨。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 5–7)]] — 系统阐释 Burrell & Morgan 四组哲学假设中的唯名论立场，以及 Greenfield 的组织唯名论对照表。 [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen, Manion & Morrison (2011)]] — 贯穿全书[[Ontology\|本体论]]与[[Qualitative Research\|质性研究]]哲学基础探讨。

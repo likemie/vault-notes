@@ -37,7 +37,6 @@ related_concepts:
   - "[[Innovation Hub]]"
   - "[[Heterogeneous Integration]]"
   - "[[Assemblage]]"
-  - "[[Electronic Design Automation]]"
   - "[[Process Design Kit]]"
   - "[[Learning and Employment Records]]"
   - "[[Discourse]]"
@@ -78,7 +77,7 @@ title: "Argument_NIST_2023_NSTC"
 argument_key: "Argument_NIST_2023_NSTC"
 argument_display_title: "A vision and strategy for the National Semiconductor Technology Center"
 argument_kind: "report"
-argument_related_count: 41
+argument_related_count: 40
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dcfce7"
@@ -251,7 +250,7 @@ publisher: "U.S. Department of Commerce"
 
 #### 2. 云端设计软件授权、工艺套件与芯粒标准协同消除了前端电路设计的准入壁垒
 
-除了物理硬件，现代芯片创新的主要门槛在于 [[Electronic Design Automation|EDA]] 工具授权与可信知识产权（Intellectual Property, IP）库的极高费用。（pp. 16–17）
+除了物理硬件，现代芯片创新的主要门槛在于 EDA 工具授权与可信知识产权（Intellectual Property, IP）库的极高费用。（pp. 16–17）
 
 > [!feature] 设计网关核心赋能矩阵
 > - **云端 EDA 工具共享授权** 借鉴 [[DARPA]] 工具箱（[[DARPA Toolbox Initiative|DARPA Toolbox]]）先例，与主流 EDA 厂商谈判，为学术界与初创企业提供低成本甚至免费的云端设计套件。（pp. 16, 26）
@@ -321,7 +320,7 @@ NSTC 综合总统科技顾问委员会（PCAST）与[[Industrial Advisory Commit
 ## 主要发现
 
 > [!finding-cards] 核心政策发现
-> 1. **中试与设计双重门槛是微电子创新的致命堵点** 单片集成电路微缩成本高昂与 [[Electronic Design Automation|EDA]] 软件昂贵构成了压制大学与初创企业创新的首要制度壁垒。（pp. 6, 14–17）
+> 1. **中试与设计双重门槛是微电子创新的致命堵点** 单片集成电路微缩成本高昂与 EDA 软件昂贵构成了压制大学与初创企业创新的首要制度壁垒。（pp. 6, 14–17）
 > 2. **跨部门创新流水线必须实现从基础到制造的顺畅衔接** [[National Science and Technology Council|NSTC]] 必须同国防部[[Microelectronics Commons|微电子共用体]]及先进封装计划紧密配合，形成分工协同的端到端技术中试转化通道。（pp. 8–11）
 > 3. **人才是支撑先进制造回流的核心决定要素** 唯有通过劳动力卓越中心统筹微证书、高校实训与全包式托儿服务，才能有效弥合数十万人的技能赤字。（pp. 18–19）
 > 4. **独立非营利运营是维持联合体公信力与活力的制度基石** 依托独立实体（[[Natcast]]）运营并引入长期多渠道财务机制，是确保中心超越行政任期、持久运行的制度保障。（pp. 21–25）

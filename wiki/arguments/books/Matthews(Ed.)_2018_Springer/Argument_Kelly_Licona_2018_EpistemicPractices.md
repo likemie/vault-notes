@@ -7,7 +7,7 @@ title: "Argument_Kelly_Licona_2018_EpistemicPractices"
 argument_key: "Argument_Kelly_Licona_2018_EpistemicPractices"
 argument_display_title: "Epistemic practices and science education"
 argument_kind: "book-chapter"
-argument_related_count: 51
+argument_related_count: 48
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -51,7 +51,6 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Epistemic Value]]"
   - "[[Operationalization]]"
-  - "[[Teaching Assistant]]"
   - "[[Self-Efficacy]]"
   - "[[Epistemic Aims]]"
   - "[[Growth]]"
@@ -70,7 +69,6 @@ related_concepts:
   - "[[Ways of Knowing]]"
   - "[[Open-Mindedness]]"
   - "[[Scientific Explanation]]"
-  - "[[Bildung]]"
 related_theories:
   - "[[Family Resemblance Approach]]"
   - "[[Knowledge Building Theory]]"
@@ -78,7 +76,6 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Practical Epistemology Analysis]]"
   - "[[Discourse Analysis]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Questionnaire]]"
   - "[[Peer Debriefing]]"
@@ -136,7 +133,7 @@ updated: 2026-10-08
 > | 模块 | 材料与分析方式 |
 > |---|---|
 > | **方法路径**<br>Interactional Ethnography & Discourse Analysis | 结合跨学科科学实践研究综述、微观交互人种志（Interactional Ethnography）与质性[[Discourse Analysis\|话语分析]]，重点考察口头与书面语言、符号系统、语调特征与具身动作（手势与操作）。（pp. 139, 144–147） |
-> | **微观分析工具**<br>Practical Epistemological Analysis (PEA) | 运用[[Practical Epistemology\|实践认识论]]分析（Practical Epistemological Analysis, PEA），通过[[Coding in Qualitative Research\|编码]]立足点（Stand Fast）、认知裂隙（Gaps）与建立关联（Relations），微观追踪师生在[[Dialogue in Education\|对话]]与操作中的即时意义建构。（pp. 149–150） |
+> | **微观分析工具**<br>Practical Epistemological Analysis (PEA) | 运用[[Practical Epistemology\|实践认识论]]分析（Practical Epistemological Analysis, PEA），通过编码立足点（Stand Fast）、认知裂隙（Gaps）与建立关联（Relations），微观追踪师生在[[Dialogue in Education\|对话]]与操作中的即时意义建构。（pp. 149–150） |
 > | **案例综合**<br>Multi-Case Comparative Synthesis | 横跨中小学与大学学段，综合对比四项具有代表性的原生态课堂实证案例，涵盖物理探究、工程设计、地质写作与教师引导[[Discourse\|话语]]。（pp. 144–147） |
 > | **学科矩阵分析**<br>Disciplinary Matrix Comparison | 针对探究式科学、工程教育与社会科学议题三大教学取向，在学习目标与[[Epistemic Practices\|认识论实践]]两个层面系统编制跨领域比较矩阵。（pp. 142–143, 156–157） |
 
@@ -145,7 +142,7 @@ updated: 2026-10-08
 > |---|---|---|
 > | **物理实验小组**<br>(Kelly et al., 2001) | 高中物理：弹簧振子简谐振动实验 | 微观录像[[Transcription in Qualitative Research\|转录]]、微机传感器实时位移与速度波形图、学生具身模仿手势、小组[[Dialogue in Education\|对话]]序列（pp. 144–145） |
 > | **技术工程团队**<br>(Kelly & Brown, 2003) | 小学三年级：设计可实际运作的太阳能集热与烹饪装置 | 小组讨论记录、工程草图、原型测试数据、全班展示与面向科学小记者的辩护话语（pp. 145–146） |
-> | **专业地质写作**<br>(Takao & Kelly, 2003) | 大学本科地质学：撰写板块构造证据论证学术论文 | 学生学期论文文本、全球地质测量数据图表、[[Epistemology\|认识论]]层级（Epistemic Level, EL）[[Coding in Qualitative Research\|编码]]（p. 146） |
+> | **专业地质写作**<br>(Takao & Kelly, 2003) | 大学本科地质学：撰写板块构造证据论证学术论文 | 学生学期论文文本、全球地质测量数据图表、[[Epistemology\|认识论]]层级（Epistemic Level, EL）编码（p. 146） |
 > | **科学身份塑造**<br>(Reveles et al., 2004) | 小学三年级多元文化课堂：物质状态与自然现象探究 | 教师 Cordova 课堂录像转录、师生互动话语、对对话进行反思的元话语（meta-discourse）（pp. 146–147） |
 > | **重力与地球观念**<br>(Lidar et al., 2010) | 小学阶段：地球形状与重力作用机制探究 | 小组对话录音、操作天球仪与地图的互动过程、[[Practical Epistemology\|实践认识论]]分析（PEA）编码（p. 150） |
 > | **科学模型评价准则**<br>(Pluta et al., 2011) | 初中科学：科学模型质量评判与论证 | 学生对竞争性模型的评价标准草案、认识论准则编码（解释功能、实证数据契合、细节完整性）（p. 153） |
@@ -227,8 +224,8 @@ updated: 2026-10-08
 >   - **设计语境与受众** 小学三年级学生分组设计太阳能集热烹饪装置，在小组内协商材料折中方案，在全班汇报集热原理，并以实测升温数据回应指定科学小记者的严苛质询。
 >   - **认识论机制** 沟通是[[Knowledge Building Theory|知识建构]]的核心中介而非事后包装。学生根据受众调整论证，与专业科学家撰写报告和答辩时的修辞工作完全同构（Bazerman, 1988; Traweek, 1988）。
 > - **评估主张：大学海洋地质学论文写作**（Takao & Kelly, 2003）
->   - **学术写作与[[Coding in Qualitative Research\|编码]]** 大学生利用全球地质数据集撰写板块构造论文。研究运用认识论层级（EL）[[Analytic Framework\|分析框架]]，从原始地震波观测数据（EL I）平稳上升到大洋板块俯冲理论模型（EL IV/V）。
->   - **认识论机制** 话语分析揭示了高水平论证跨越不同认识论层级的逻辑融贯性，将[[Teaching Assistant\|助教]]难以言传的默会证据评估标准显性化，使其成为可教可评的体裁规范。
+>   - **学术写作与编码** 大学生利用全球地质数据集撰写板块构造论文。研究运用认识论层级（EL）[[Analytic Framework\|分析框架]]，从原始地震波观测数据（EL I）平稳上升到大洋板块俯冲理论模型（EL IV/V）。
+>   - **认识论机制** 话语分析揭示了高水平论证跨越不同认识论层级的逻辑融贯性，将助教难以言传的默会证据评估标准显性化，使其成为可教可评的体裁规范。
 > - **合法化主张：小学科学课堂教师元话语**（Reveles et al., 2004）
 >   - **师生互动与引导** 小学三年级教师 Cordova 巧妙运用元话语（meta-discourse），提请全班注意刚才发言调用了实测温度数据，明确指出这正是科学家解决分歧的专业做法。
 >   - **认识论机制** 基础教育中合法化知识的核心在于塑造学生的科学学术身份，赋予边缘背景学生基于证据平等发声的智识自信（Latour, 1987; Myers, 1989, 1997）。
@@ -413,12 +410,12 @@ updated: 2026-10-08
 > *Since epistemic practices are [[Champ\|field]]- and time-dependent (changing due to the challenges of knowledge production), there is not a limited set of “science practices.” This contrasts with how “the scientific method” is often interpreted in education as a set of linear steps. Rather, there are disciplinary (and other!) [[Ways of Knowing]] that vary across the multiple ways that humans make sense of their experience. The point is not to define a given set of eight practices (NGSS Lead States 2013), or the five steps of the scientific method. Rather, the idea is to identify the ways people come to know and recognize the value of making sense in systematic ways that render evidence open for public scrutiny and evaluation.*
 
 > [!citation-card] 论科学教育的民主价值与公共审议理性
-> 参与认识论实践乃是稳健科学教育不可或缺的基石。参与认识论实践的必要性，在很大程度上源于汲取知识生产共同体的崇高价值：说服优于强制的价值、[[Open-Mindedness|思想开放]]优于教条盲从的价值，以及审慎考量备选解决方案的价值等等。[[Scientific Explanation\|科学解释]]与论证并非纯粹的技术程序，因为它们不存在能够轻易被直接平移到科学教学法中的机械公式。通过将此类实践参与和精心设计的教学法深度交织，学生方能积聚充沛的认识论能力，在公共领域中作为有见识、有[[Bildung\|教养]]的现代公民积极发声。（p. 161）
+> 参与认识论实践乃是稳健科学教育不可或缺的基石。参与认识论实践的必要性，在很大程度上源于汲取知识生产共同体的崇高价值：说服优于强制的价值、[[Open-Mindedness|思想开放]]优于教条盲从的价值，以及审慎考量备选解决方案的价值等等。[[Scientific Explanation\|科学解释]]与论证并非纯粹的技术程序，因为它们不存在能够轻易被直接平移到科学教学法中的机械公式。通过将此类实践参与和精心设计的教学法深度交织，学生方能积聚充沛的认识论能力，在公共领域中作为有见识、有教养的现代公民积极发声。（p. 161）
 >
 > *Our argument in this chapter is that engagement in epistemic practices is an important part of a robust science education. Part of the need to engage in epistemic practices is to learn values of knowledge-producing communities – the value of persuasion over force, open-mindedness over dogma, and consideration of alternative solutions, and so forth (Rorty 1991). Scientific explanation and argument are not technical procedures, as they do not have specific formulas that can be translated easily to the pedagogy of science education. Through such engagement, connected to carefully organized pedagogy, students may build capacity to participate as informed citizens in the public sphere.*
 
 > [!citation-card] 论科学教育的民主价值与公共审议理性
-> 参与认识论实践乃是稳健科学教育不可或缺的基石。参与认识论实践的必要性，在很大程度上源于汲取知识生产共同体的崇高价值：说服优于强制的价值、思想开放优于教条盲从的价值，以及审慎考量备选解决方案的价值等等。科学解释与论证并非纯粹的技术程序，因为它们不存在能够轻易被直接平移到科学教学法中的机械公式。通过将此类实践参与和精心设计的教学法深度交织，学生方能积聚充沛的认识论能力，在公共领域中作为有见识、有[[Bildung\|教养]]的现代公民积极发声。（p. 161）
+> 参与认识论实践乃是稳健科学教育不可或缺的基石。参与认识论实践的必要性，在很大程度上源于汲取知识生产共同体的崇高价值：说服优于强制的价值、思想开放优于教条盲从的价值，以及审慎考量备选解决方案的价值等等。科学解释与论证并非纯粹的技术程序，因为它们不存在能够轻易被直接平移到科学教学法中的机械公式。通过将此类实践参与和精心设计的教学法深度交织，学生方能积聚充沛的认识论能力，在公共领域中作为有见识、有教养的现代公民积极发声。（p. 161）
 >
 > *Our argument in this chapter is that engagement in epistemic practices is an important part of a robust science education. Part of the need to engage in epistemic practices is to learn values of knowledge-producing communities – the value of persuasion over force, open-mindedness over dogma, and consideration of alternative solutions, and so forth (Rorty 1991). Scientific explanation and argument are not technical procedures, as they do not have specific formulas that can be translated easily to the pedagogy of science education. Through such engagement, connected to carefully organized pedagogy, students may build capacity to participate as informed citizens in the public sphere.*
 
@@ -431,7 +428,7 @@ updated: 2026-10-08
 > 1. **职业科学实践不能直接生搬硬套到学校** 职业科研中存在激烈的利益竞争与人际博弈，这些行为如果直接复制到中小学课堂，可能对学生的心理健康与合作态度产生负面影响。教学设计必须以育人目标为前提，不能盲目追求表面上的原真性（pp. 148–149）；
 > 2. **概念知识与实践进阶的关系仍需深入研究** [[Epistemic Practices\|认识论实践]]高度依赖具体学科的概念基础，缺乏知识支撑的实践容易变成无意义的机械操作；但两者在不同年级和主题下究竟如何相互促进，仍需更多实证证据（pp. 159–160）；
 > 3. **跨学科实践能力的迁移范围有待检验** 学生在某一领域（如流行病学异常数据识别）形成的[[Epistemology\|认识论]]经验，能在多大程度上迁移到其他学科（如气象学或工程设计），目前尚缺乏充分的实证结论（p. 160）；
-> 4. **教师实践观念与教材权威惯性的冲突** 教学中教师往往习惯依赖教材给出的标准步骤，容易在言语中使用过于绝对的论断，如何在师资培训中帮[[Teaching Assistant\|助教]]师建立[[Reflexivity\|反思性]][[Discourse|话语]]意识仍是一大挑战（pp. 153–154）。
+> 4. **教师实践观念与教材权威惯性的冲突** 教学中教师往往习惯依赖教材给出的标准步骤，容易在言语中使用过于绝对的论断，如何在师资培训中帮助教师建立[[Reflexivity\|反思性]][[Discourse|话语]]意识仍是一大挑战（pp. 153–154）。
 
 ---
 

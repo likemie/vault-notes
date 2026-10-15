@@ -10,7 +10,7 @@ aliases:
 summary: "指美国高等教育中本科生在攻读学士学位期间跨越两所或两所以上大学或社区学院修读学分、转学或联合注册的求学形态。与欧洲政策话语将跨国跨校流动赞颂为一体化资产形成鲜明对照，美国高等教育政策话语往往将多机构就读视作延长毕业年限、增加财政负担并拉低系统完备率的系统效率损耗。"
 type: concept
 domain: "higher-education"
-related_count: 16
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,15 +26,12 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[European Education Space]]"
   - "[[Employability]]"
-  - "[[Attrition]]"
-  - "[[Document]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Lifelong Learning]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Governmentality]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
@@ -45,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Multiple Institution Attendance
@@ -68,7 +65,7 @@ updated: 2026-10-10
 > *However, in the US at the post-secondary level, by and large, the overall problematization does not shift from what we have seen at primary and secondary levels: student mobility becomes 'multiple institution attendance' and is seen as a complicating factor, typically with adverse effects on degree completion and sector-wide efficiency (Pusser & Turner, 2004).*
 
 > [!boundary] 概念边界
-> - **不等于 欧洲学生流动** 欧洲依托[[Erasmus Programme|伊拉斯谟计划]]和 ECTS 学分系统，在制度上消除了跨校壁垒并将流动[[Coding in Qualitative Research|编码]]为全欧一体化资产；美国多机构就读多为学生个体在割裂的院校间自行摸索，承受高昂的学分折损与行政阻力。
+> - **不等于 欧洲学生流动** 欧洲依托[[Erasmus Programme|伊拉斯谟计划]]和 ECTS 学分系统，在制度上消除了跨校壁垒并将流动编码为全欧一体化资产；美国多机构就读多为学生个体在割裂的院校间自行摸索，承受高昂的学分折损与行政阻力。
 > - **不等于海外留学（Study Abroad）** 在美国，海外留学被官方话语命名为“国际交流”并赋予精英文化光环；而国内多机构就读则被剥离了社会救赎叙事，沦为冰冷的效率统计负担。
 
 ---
@@ -89,7 +86,7 @@ updated: 2026-10-10
 
 > [!feature] 核心要素
 > - **跨校学分积累（Cross-Institutional Credit Accumulation）** 学生在两个或更多不同独立法人高校修读并试图拼接学分。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 364)]]
-> - **转学制度摩擦（Transfer Friction）** 接收高校对原就读高校课程大纲的严苛审查，导致大量学分无法计入主修专业，形成学分[[Attrition|流失]]。
+> - **转学制度摩擦（Transfer Friction）** 接收高校对原就读高校课程大纲的严苛审查，导致大量学分无法计入主修专业，形成学分流失。
 > - **系统效率损耗判定（Systemic Efficiency Deficit）** 高等教育绩效拨款框架将延长修业年限与降低按时毕业率视作资源浪费。
 > - **阶层化去神圣化（De-sanctification of Domestic Mobility）** 国内底层流动被剥夺了任何文化崇高感，呈现出与海外精英流动的阶层割裂。
 
@@ -125,7 +122,7 @@ updated: 2026-10-10
 ### 命题总览
 
 > [!contrast-table] 多机构就读核心命题归纳
-> | 命题类型 | 核心论断 | 实践机制与政策影响 | 代表[[Document\|文献]] |
+> | 命题类型 | 核心论断 | 实践机制与政策影响 | 代表文献 |
 > |---|---|---|---|
 > | **系统效率损耗论** | 多机构就读延长学业周期并拉低毕业率，被政策界判定为财政与效率负担 | 推动各州出台转学学分保全法案，压缩学分损耗 | Pusser & Turner (2004) |
 > | **阶层救赎叙事断裂** | 富裕阶层海外交流被神圣化为领导力资本，国内底层跨校就读被贬为技术损耗 | 解构[[Internationalization of Higher Education\|高等教育国际化]]修辞背后的社会阶层再生产 | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] |
@@ -144,7 +141,7 @@ updated: 2026-10-10
 > > [!axis] 争议二：学分折损的责任归属
 > > 跨校就读导致的学分折损究竟由谁承担？
 > > - **四年制大学立场** 坚持学术自主与课程严谨性，声称社区学院课程水准参差不齐，必须设置严格的学分折抵壁垒。
-> > - **政策规制学者立场** 批评四年制大学设置学分折抵障碍实质上是维持机构特权与寻租垄断，呼吁建立全州统一的课程[[Coding in Qualitative Research|编码]]与通用核心学分互认网络。
+> > - **政策规制学者立场** 批评四年制大学设置学分折抵障碍实质上是维持机构特权与寻租垄断，呼吁建立全州统一的课程编码与通用核心学分互认网络。
 
 ---
 

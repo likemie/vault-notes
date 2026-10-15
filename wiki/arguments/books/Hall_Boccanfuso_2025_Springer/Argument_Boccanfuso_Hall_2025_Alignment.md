@@ -16,16 +16,13 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Innovation Ecosystem]]"
   - "[[Multi-University]]"
-  - "[[Document]]"
   - "[[Academic Freedom]]"
-  - "[[Hypothesis]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Cooperative Education]]"
   - "[[Further Education]]"
   - "[[Executive Education]]"
   - "[[Grand Challenges]]"
   - "[[Research Impact]]"
-  - "[[Attrition]]"
   - "[[Workforce Development]]"
   - "[[Clinical Trial]]"
   - "[[Reliability]]"
@@ -43,7 +40,6 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Case Study]]"
 related_persons:
-  - "[[Alfred Nobel]]"
   - "[[J. Robert Oppenheimer]]"
   - "[[Vannevar Bush]]"
 related_facts:
@@ -73,7 +69,7 @@ title: "Argument_Boccanfuso_Hall_2025_Alignment"
 argument_key: "Argument_Boccanfuso_Hall_2025_Alignment"
 argument_display_title: "Alignment, Engagement, and Public Benefits"
 argument_kind: "book"
-argument_related_count: 43
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -108,7 +104,7 @@ citation_aliases:
 
 > [!info]
 - 类型：导论性书籍章节，兼有[[Literature Review|文献综述]]、历史分析和框架建构
-- 方法：基于既有[[Document|文献]]和从业经验（Boccanfuso 为 [[University Industry Demonstration Partnership|UIDP]] 主席兼 CEO, Hall 为 USC 前科研副校长），构建[[University-Industry Collaboration|产学合作]]的[[Analytic Framework|分析框架]]
+- 方法：基于既有文献和从业经验（Boccanfuso 为 [[University Industry Demonstration Partnership|UIDP]] 主席兼 CEO, Hall 为 USC 前科研副校长），构建[[University-Industry Collaboration|产学合作]]的[[Analytic Framework|分析框架]]
 - 未报告独立的实证数据；四个合作案例（IBM-Stanford、Boeing-Sheffield、HM-Medtronic、Mars-UC Davis）作为说明性证据引用
 
 ---
@@ -116,16 +112,16 @@ citation_aliases:
 ## 论证结构
 
 > [!example]
-> 论证链可以分为三个层次：首先是**概念框架的建立**——定义[[University-Industry Collaboration\|产学合作]]的三重回报和目标对齐机制；然后是**挑战的诊断**——从治理差异、[[Academic Freedom\|学术自由]]、合同谈判到大学-企业竞争的系统性分析；最后是**解决路径的展示**——通过历史追溯、[[Document\|文献]]定位和 [[University Industry Demonstration Partnership\|UIDP]] 案例说明如何搭建合作的制度桥梁。
+> 论证链可以分为三个层次：首先是**概念框架的建立**——定义[[University-Industry Collaboration\|产学合作]]的三重回报和目标对齐机制；然后是**挑战的诊断**——从治理差异、[[Academic Freedom\|学术自由]]、合同谈判到大学-企业竞争的系统性分析；最后是**解决路径的展示**——通过历史追溯、文献定位和 [[University Industry Demonstration Partnership\|UIDP]] 案例说明如何搭建合作的制度桥梁。
 
 ### 第一层：何为产学合作——三重回报与目标对齐
 
 **步骤 1：起点观察——创新发生在"界面"上**
 
-2024 年[[Alfred Nobel|诺贝尔]]奖提供了一个醒目的起点：物理学奖表彰了神经网络的基础研究，化学奖授予了预测蛋白质结构的 AlphaFold 软件。物理学奖得主 Geoffrey Hinton 曾在 Google 工作十年；化学奖得主 Dennis Hassabis and John Jumper 通过 Google DeepMind 开发了 AlphaFold。这些获奖成果的共同特征是：它们都产生于大学与产业之间的"界面"（interface）——即大学和产业为共同目标而协作的中间地带(pp.3–4)。
+2024 年诺贝尔奖提供了一个醒目的起点：物理学奖表彰了神经网络的基础研究，化学奖授予了预测蛋白质结构的 AlphaFold 软件。物理学奖得主 Geoffrey Hinton 曾在 Google 工作十年；化学奖得主 Dennis Hassabis and John Jumper 通过 Google DeepMind 开发了 AlphaFold。这些获奖成果的共同特征是：它们都产生于大学与产业之间的"界面"（interface）——即大学和产业为共同目标而协作的中间地带(pp.3–4)。
 
 > [!example]
-> 换句话说，如果 Hinton 从未进入 Google，或者 Hassabis and Jumper 不在 DeepMind 工作，这些获得诺贝尔奖的成果可能根本不会以同样的方式出现。这挑战了"基础研究只需要在大学里做"的传统[[Hypothesis\|假设]]。
+> 换句话说，如果 Hinton 从未进入 Google，或者 Hassabis and Jumper 不在 DeepMind 工作，这些获得诺贝尔奖的成果可能根本不会以同样的方式出现。这挑战了"基础研究只需要在大学里做"的传统假设。
 
 ---
 
@@ -157,7 +153,7 @@ citation_aliases:
 
 ![](https://img.mylikemie.icu/books/Hall_Boccanfuso_2025_Springer/figures/ui_engagement_loop_zh.svg)
 
-> 上图（Figure 1.1, p.5）展示了一个正反馈循环：产学互动产生研究成果、创新和毕业生——这些成果带来社会影响和声誉提升——声誉又反过来吸引人才、政府资助和捐赠——这些资源进一步推动产学互动。相反方向的逻辑同样成立：声誉下降（排名下滑、负面报道、不良体验）可能触发螺旋式下降，导致资源[[Attrition\|流失]]。因此声誉对大学而言不仅是面子问题——它是获取维持多元大学运转所需资源的战略杠杆。
+> 上图（Figure 1.1, p.5）展示了一个正反馈循环：产学互动产生研究成果、创新和毕业生——这些成果带来社会影响和声誉提升——声誉又反过来吸引人才、政府资助和捐赠——这些资源进一步推动产学互动。相反方向的逻辑同样成立：声誉下降（排名下滑、负面报道、不良体验）可能触发螺旋式下降，导致资源流失。因此声誉对大学而言不仅是面子问题——它是获取维持多元大学运转所需资源的战略杠杆。
 
 大学与企业目标的重叠与分歧可以用 Venn 图来理解：
 
@@ -304,7 +300,7 @@ UIDP 的项目过程也值得注意：采用"[[Heilmeier Catechism]]"格式的�
 ## 主要发现
 
 > [!success]
-- 当代最前沿的科技创新——以 2024 年[[Alfred Nobel|诺贝尔]]奖为代表——越来越多地发生在大学与产业的"界面"上，纯学术或纯企业环境难以单独产生同等影响力的突破(pp.3–4)
+- 当代最前沿的科技创新——以 2024 年诺贝尔奖为代表——越来越多地发生在大学与产业的"界面"上，纯学术或纯企业环境难以单独产生同等影响力的突破(pp.3–4)
 - [[University-Industry Collaboration|产学合作]]的核心不是建立关系（relationships），而是建立有目的的、对齐的"参与"（engagement），通常以正式协议为框架(p.4)
 - 产学合作的回报可分为三大维度：研究与学术、教育与学习、公共效益，分别对应现代大学的多重使命(pp.4–5)
 - 大学和企业的目标既有交集也有分歧：交集在人才发展、经济增长和知识产权上；分歧在盈利能力与学术声誉上。大学的财务模式表明产业资助仅占大学研究支出的极小部分（<6%）(pp.5–7)

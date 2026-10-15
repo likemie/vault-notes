@@ -9,10 +9,10 @@ aliases:
 summary: "涵盖问题分解、模式识别、抽象表征与算法设计等心智操作的问题解决能力体系，是从程序性技能向高阶认知进阶的基础枢纽。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 30
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 28
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - learning-science
   - cognitive-psychology
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[Critical Thinking]]"
   - "[[Higher-Order Thinking Skills]]"
-  - "[[Hypothesis]]"
   - "[[Metacognition]]"
   - "[[AI Agent in Education]]"
   - "[[Scaffolding]]"
@@ -42,7 +41,6 @@ related_concepts:
   - "[[Construct Validity]]"
 related_theories: []
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
   - "[[Questionnaire]]"
   - "[[Correlational Research]]"
@@ -59,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Computational Thinking
@@ -74,7 +72,7 @@ updated: 2026-10-08
 > [!concept-lens] 概念透镜
 > - **含义** 强调利用可计算的逻辑、规则序列与[[Reflexivity\|反思性]]迭代去形式化和解决复杂良构及[[Wicked Problem|劣构问题]]，沟通了低阶规则操作与高阶批判创造。
 > - **用途** 在基础教育与高等教育中作为评价 [[STEM Education\|STEM]]/STEAM 教育、编程教学及 AI 自适应学习成效的核心[[Dependent Variable\|因变量]]。
-> - **边界** 计算思维不等同于单纯的代码语法记忆（Coding），脱离了问题分解与算法反思的机械[[Coding in Qualitative Research\|编码]]只属于低水平的[[Procedural Skill\|程序性技能]]。
+> - **边界** 计算思维不等同于单纯的代码语法记忆（Coding），脱离了问题分解与算法反思的机械编码只属于低水平的[[Procedural Skill\|程序性技能]]。
 
 > [!citation-card]- 关键表述
 > 计算思维表征了学习者将复杂现实挑战转化为可算法化求解形式的高阶认知能力。在智能教学技术干预中，通过自适应步骤提示与反思量规引导，学生的算法设计与调试推理能力获得显著提升。（[[Argument_Liu_2026_CHBR\|Liu et al., 2026, pp. 2]], 6–7）
@@ -134,7 +132,7 @@ updated: 2026-10-08
 > | 维度 | **计算思维（Computational Thinking）** | [[Procedural Skill\|程序性技能（Procedural Skill）]] | [[Critical Thinking\|批判性思维（Critical Thinking）]] | [[Higher-Order Thinking Skills\|通用高阶思维（HOTS）]] |
 > |---|---|---|---|---|
 > | **核心关切** | **问题形式化与算法化求解** | 熟练执行特定良构操作序列 | 审视论据真伪与逻辑偏误 | 跨情境深度分析、综合与创造 |
-> | **典型心智操作** | 分解、模式识别、抽象、算法设计 | 规则匹配、自动化计算、语法编写 | [[Hypothesis\|假设]]识别、论点评价、推论验证 | 劣构问题表征、[[Metacognition\|元认知]]反思、方案重构 |
+> | **典型心智操作** | 分解、模式识别、抽象、算法设计 | 规则匹配、自动化计算、语法编写 | 假设识别、论点评价、推论验证 | 劣构问题表征、[[Metacognition\|元认知]]反思、方案重构 |
 > | **技术中介作用** | 借助 AI [[AI Agent in Education\|智能体]]/编程环境进行动态调试 | 借助自适应提示进行分步刻意练习 | 借助多重视角对比工具进行反思审视 | 借助[[Scaffolding\|脚手架]]与探究量规促进深度建构 |
 > | **主要测评工具** | [[Computational Thinking Scale\|计算思维量表（CTS）]]、Bebras 测验 | 代码测试通过率、步骤得分、WCPM | [[Watson-Glaser Critical Thinking Appraisal\|WGCTA 测验]]、CCTDI 量表 | 开放项目评审、质性表现量规 |
 

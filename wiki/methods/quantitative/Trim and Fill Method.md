@@ -10,9 +10,9 @@ summary: "由 Sue Duval 与 Richard Tweedie（2000）开发的一种用于检测
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 24
-method_related_level: 3
-method_related_stars: "⭐⭐⭐"
+method_related_count: 22
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - "method/quantitative"
@@ -21,7 +21,6 @@ tags:
   - "field/research-methodology"
 related_concepts:
   - "[[Publication Bias]]"
-  - "[[Hypothesis]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Sampling Error]]"
@@ -29,7 +28,6 @@ related_concepts:
   - "[[Logic Model]]"
   - "[[Cooperative Learning]]"
   - "[[Problem-Based Learning]]"
-  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -53,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Trim and Fill Method
@@ -63,7 +61,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 方法定义
-> Trim and Fill Method（剪补法 / 剪除与填补法，由 Sue Duval 与 Richard Tweedie 于 2000 年提出）是一种用于诊断和校正[[Meta-analysis\|元分析]]中[[Publication Bias\|发表偏倚]]（及[[Small Study Effects\|小研究效应]]）的经典非参数迭代统计方法。该方法[[Hypothesis\|假设]]在无发表偏倚时，[[Funnel Plot\|漏斗图]]中的研究[[Effect Size\|效应量]]应围绕真实均值呈对称分布；当检出单侧漏斗图不对称时，该算法先迭代“剪除（Trim）”导致不对称的极端小样本研究以估计无偏的中心效应，随后在漏斗图对侧“填补（Fill）”相应数量的镜像虚拟研究，并重新拟合计算校正后的最终效应量与 95% [[Confidence Interval\|置信区间]]。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 6–8)]]
+> Trim and Fill Method（剪补法 / 剪除与填补法，由 Sue Duval 与 Richard Tweedie 于 2000 年提出）是一种用于诊断和校正[[Meta-analysis\|元分析]]中[[Publication Bias\|发表偏倚]]（及[[Small Study Effects\|小研究效应]]）的经典非参数迭代统计方法。该方法假设在无发表偏倚时，[[Funnel Plot\|漏斗图]]中的研究[[Effect Size\|效应量]]应围绕真实均值呈对称分布；当检出单侧漏斗图不对称时，该算法先迭代“剪除（Trim）”导致不对称的极端小样本研究以估计无偏的中心效应，随后在漏斗图对侧“填补（Fill）”相应数量的镜像虚拟研究，并重新拟合计算校正后的最终效应量与 95% [[Confidence Interval\|置信区间]]。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 6–8)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 元分析中各纳入研究的效应量及其抽样[[Standard Error\|标准误]]散点分布（漏斗图空间结构）。
@@ -133,9 +131,9 @@ updated: 2026-09-17
 > [!contrast-table] 剪补法的优势与局限对比
 > | 优势 (Strengths) | 局限 (Limitations) |
 > |---|---|
-> | 能够直接给出**偏倚校正后的具体[[Effect Size\|效应量]]与[[Confidence Interval\|置信区间]]**，突破了失安全数只能检验[[Hypothesis\|假设]]的缺陷 | 严重依赖“漏斗图不对称必然源于[[Publication Bias\|发表偏倚]]”的前提假定 |
+> | 能够直接给出**偏倚校正后的具体[[Effect Size\|效应量]]与[[Confidence Interval\|置信区间]]**，突破了失安全数只能检验假设的缺陷 | 严重依赖“漏斗图不对称必然源于[[Publication Bias\|发表偏倚]]”的前提假定 |
 > | 非参数估计，无需对未发表研究的效应分布做过于严苛的参数先验设定 | 在研究间存在高度真实[[Heterogeneity\|异质性]]时容易误判，导致过度填补并产生保守偏倚 |
-> | 结果直观，可通过[[Funnel Plot\|漏斗图]]可视化呈现填补后的完整证据图景 | 在多水平嵌套或[[Document\|文献]]重叠复杂数据中需结合多水平[[Meta-regression\|元回归]]谨慎解释 |
+> | 结果直观，可通过[[Funnel Plot\|漏斗图]]可视化呈现填补后的完整证据图景 | 在多水平嵌套或文献重叠复杂数据中需结合多水平[[Meta-regression\|元回归]]谨慎解释 |
 
 ---
 

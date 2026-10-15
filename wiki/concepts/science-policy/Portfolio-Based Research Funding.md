@@ -33,8 +33,8 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Academic Freedom]]"
   - "[[Scientific Method]]"
-  - "[[Document]]"
   - "[[Epistemology]]"
+  - "[[Document]]"
 related_theories:
   - "[[Pasteur's Quadrant]]"
   - "[[Path Dependence]]"
@@ -143,7 +143,7 @@ updated: 2026-10-09
 > [!ref-table]- 组合式科研资助实证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究[[Document\|文献]] | 样本与情境 | 研究设计与指标 | 原始实证结果 | 理论解释边界 |
+> | 研究文献 | 样本与情境 | 研究设计与指标 | 原始实证结果 | 理论解释边界 |
 > |:---|:---|:---|:---|:---|
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 20)]] | 美国联邦年度研发支出与资助机构网络 | 宏观预算计量与资助组合结构分析 | 联邦机构每年分配研发经费逾 2,000 亿美元，但传统单课题组项目制占据绝对支配地位 | 确立了组合式配置的宏观体量基数，揭示单一模式无法适配复杂国家创新需求的结构性矛盾 |
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 27)]] | 霍华德·休斯医学研究所（HHMI）长期对人资助学者与联邦 [[National Institutes of Health\|NIH]] 资助对照组 | 准实验因果对比分析（产出质量与新颖性） | 获得长周期、免考核“对人资助”的学者，产出高影响标志性论文的概率接近对照组的 2 倍（200%），且更倾向开辟全新前沿路线 | 实证检验了“对人资助”作为组合核心机制在激发突破性创新与承担高风险上的显著优势 |
@@ -160,7 +160,7 @@ updated: 2026-10-09
 ## 命题总览
 
 > [!contrast-table] 组合式科研资助核心命题归纳
-> | 命题维度 | 核心命题名称 | 关键作用机制 | 核心论证[[Document\|文献]] |
+> | 命题维度 | 核心命题名称 | 关键作用机制 | 核心论证文献 |
 > |:---|:---|:---|:---|
 > | **治理诊断** | **偶然组合与在位者惯性打破** | 克服学科面板被动汇总与历史基数惯性，消除在位者垄断与青年学术避险 | [[Argument_Stephan_2013_NBER\|Stephan (2013)]] |
 > | **认知权衡** | **[[Pasteur's Quadrant\|巴斯德象限]]与纯好奇探索平衡** | 协调战略用途驱动攻坚与深厚迷雾自由搜索，持续充实国家公共知识蓄水池 | [[Argument_Atkinson_2008_TIS\|Atkinson & Blanpied (2008)]] |

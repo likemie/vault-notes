@@ -128,7 +128,7 @@ updated: 2026-10-12
 > > - **比较历史社会学家** 高度评价布林顿开创了结构历史比较的先河，直接启发了后来的巴林顿·摩尔（Barrington Moore）、[[Theda Skocpol|西达·斯考切波]]（Theda Skocpol）以及卡扎米亚斯的比较教育学方法论重建。
 
 > [!influence-path] 影响路径
-> - **比较史学经典[[Paradigm|范式]]** 奠定革命史结构横向比较的经典框架，开启比较历史社会学的探索性[[Hypothesis|假设]]归纳范式。
+> - **比较史学经典[[Paradigm|范式]]** 奠定革命史结构横向比较的经典框架，开启比较历史社会学的探索性假设归纳范式。
 > - **比较教育学[[Epistemology|认识论]]辩护** 被卡扎米亚斯在 1963 年论战及 2009 年《国际手册》两篇纲领性论著中反复援引，成为打破战[[Postpositivism|后实证主义]]对“比较”与“科学”狭隘垄断的关键史学认识论武器。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, p. 56)]]；[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 151–152)]]
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
@@ -153,6 +153,6 @@ updated: 2026-10-12
 > |:-----|:-----|:-----|
 > | [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] | 人物 | 战后比较教育史学家，在 1963 年与 2009 年论著中系统援引布林顿史学方法捍卫[[Historical-Comparative Method\|历史比较法]]的科学合法性。 |
 > | [[Historical-Comparative Method\|历史比较法]] | 方法 | 布林顿关于非普适[[Working Hypothesis\|探索性假说]]与历史分类归纳的论述为历史比较法提供了核心因果解释依据。 |
-> | [[Hypothesis\|假设]] | 概念 | 提出“有限工作假说”（working hypotheses of a limited nature），超越全称普遍法则与个殊碎片的二元对立。 |
+> | 假设 | 概念 | 提出“有限工作假说”（working [[Hypothesis\|hypotheses]] of a limited nature），超越全称普遍法则与个殊碎片的二元对立。 |
 > | [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] | 论证 | 征引布林顿《革命的解剖》，阐明历史学者从个殊史实归纳工作假说并在新情境中检验的机制。 |
 > | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 重申布林顿对历史事实可比性与非普适假说建构的[[Epistemology\|认识论]]辩护，破除[[Positivism\|实证主义]]唯方法论偏见。 |

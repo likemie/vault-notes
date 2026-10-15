@@ -7,7 +7,7 @@ aliases:
 summary: "学习者主动设定目标、选择策略、监控与评价自身学习过程的学习方式；问题本位学习以识别知识缺口并自导填补为核心机制。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,7 +17,6 @@ tags:
   - theme/higher-education
 related_concepts:
   - "[[Problem-Based Learning]]"
-  - "[[Hypothesis]]"
   - "[[Lifelong Learning]]"
   - "[[Learner Autonomy]]"
   - "[[Metacognition]]"
@@ -36,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Self-Directed Learning
@@ -46,7 +45,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 自我导向学习（Self-Directed Learning，SDL）指学习者主动承担学习责任，设定目标、选择策略、监控进度并评价结果的学习方式。在[[Problem-Based Learning\|问题本位学习]]（PBL）中，学生面对真实问题先识别自身知识缺口，再通过自导学习填补缺口，最后检验[[Hypothesis\|假设]]、评价学习结果并整合理解。[[Argument_Erdem_2026_SHE\|Erdem et al. (2026, pp. 952–953)]]
+> 自我导向学习（Self-Directed Learning，SDL）指学习者主动承担学习责任，设定目标、选择策略、监控进度并评价结果的学习方式。在[[Problem-Based Learning\|问题本位学习]]（PBL）中，学生面对真实问题先识别自身知识缺口，再通过自导学习填补缺口，最后检验假设、评价学习结果并整合理解。[[Argument_Erdem_2026_SHE\|Erdem et al. (2026, pp. 952–953)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** SDL 把学习责任从教师转移到学习者，强调学习者的主动性与自我调节。
@@ -70,7 +69,7 @@ updated: 2026-09-17
 > [!proc] PBL 中的自导学习流程
 > 1. **识别缺口** 学生在小组中讨论先备知识，暴露理解缺口。
 > 2. **自导探究** 学生自主收集与分析资料，填补缺口。
-> 3. **检验与评价** 学生检验[[Hypothesis\|假设]]、评价学习结果，整合理解。
+> 3. **检验与评价** 学生检验假设、评价学习结果，整合理解。
 
 ---
 

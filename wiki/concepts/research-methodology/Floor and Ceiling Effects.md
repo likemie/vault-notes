@@ -10,10 +10,10 @@ aliases:
 summary: "测量工具因题项难度分布或量程受限导致得分在最高端或最低端过度聚集的数据截断缺陷，会导致方差缩减并人为低估干预的真实因果效应量，是导致教育试验微弱效应的关键测量学根源"
 type: concept
 domain: "research-methodology"
-related_count: 31
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - floor-and-ceiling-effects
   - psychometrics
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Business as Usual]]"
   - "[[Evidence-Based Education]]"
   - "[[Reliability]]"
-  - "[[Document]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Variable]]"
   - "[[Academic Achievement]]"
@@ -57,12 +56,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Lei_Ding_Chiu_2026_ERR]]"
-related_instruments:
-  - "[[Consensual Assessment Technique]]"
+related_instruments: []
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-09-18
+updated: 2026-10-15
 ---
 
 # Floor and Ceiling Effects
@@ -99,7 +97,7 @@ updated: 2026-09-18
 > | **数据分布形态** | 极端负偏态，高分端出现尖锐垂直截断峰 | 极端正偏态，低分端出现尖锐垂直截断峰 | 围绕被试群体真实水平呈现平滑正态或均匀分布 |
 > | **直接后果** | 掩盖高能力受试者的额外[[Learning Gain\|学业增益]] | 抹杀学困生与薄弱班级的微观认知进步 | 高保真捕捉从弱势到卓越全谱系的干预因果效应 |
 > | **对[[Effect Size\|效应量]]的扭曲** | 方差分母被压缩但分子差异截断更甚，效应量严重衰减 | 组间差异在底部归零，干预组微小进步被完全稀释 | 提供无偏因果效应量（$d$ 或 Hedges' $g$）估计 |
-> | **典型发生场景** | 用常规结业测验评估拔尖培优或[[Higher-Order Thinking Skills\|高阶思维]]干预 | 用统考难度大题评估早期学困生基础补习干预 | 采用[[Computerized Adaptive Testing\|计算机自适应测验]]（[[Consensual Assessment Technique\|CAT]]）或长量程自适应题库 |
+> | **典型发生场景** | 用常规结业测验评估拔尖培优或[[Higher-Order Thinking Skills\|高阶思维]]干预 | 用统考难度大题评估早期学困生基础补习干预 | 采用[[Computerized Adaptive Testing\|计算机自适应测验]]（CAT）或长量程自适应题库 |
 
 ---
 
@@ -153,7 +151,7 @@ updated: 2026-09-18
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者与[[Document\|文献]] |
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
 > | **因果遮蔽命题** | 揭示天花板与地板效应如何通过截断方差人为稀释效应量，制造假阴性证据 | 量化因果评估、测验误差诊断、试验复盘 | Hodgen et al. (2019); [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] |
 > | **测量治理命题** | 阐明自编测验虚高与商业测验截断的两难困境，提出前置准入测量库的治理方案 | [[Educational Brokerage Agency\|证据中介机构]]规范、测验选择准则、测评基础设施 | Allen et al. (2018) |
@@ -184,7 +182,7 @@ updated: 2026-09-18
 > - **商业测验技术透明度赤字** Allen et al. (2018) 批评指出，许多商业测验开发商在技术白皮书中刻意隐瞒极值区间的测量误差与[[Predictive Validity\|预测效度]]数据，仅提供全样本平均的[[Internal Consistency\|内部一致性]]克隆巴赫 $\alpha$，误导了试验评估团队。
 
 > [!warning] 适用局限
-> 在自适应测试（[[Computerized Adaptive Testing]], [[Consensual Assessment Technique\|CAT]]）或具备高低水平自动分支跳转的现代多阶段测验中，天花板与地板效应可通过算法动态派发适宜难度题目得到极大缓解。
+> 在自适应测试（[[Computerized Adaptive Testing]], CAT）或具备高低水平自动分支跳转的现代多阶段测验中，天花板与地板效应可通过算法动态派发适宜难度题目得到极大缓解。
 
 ---
 

@@ -8,7 +8,7 @@ summary: "香港中文大学教育学院教授、证据本位教育改革与大�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 42
+person_related_count: 41
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -41,7 +41,6 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Output-Oriented Governance]]"
   - "[[Scientism]]"
-  - "[[Document]]"
   - "[[Publication Bias]]"
   - "[[Interaction Effect]]"
   - "[[Metacognition]]"
@@ -75,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-02'
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Alan C. K. Cheung
@@ -176,7 +175,7 @@ updated: 2026-10-07
 > > - **张志强与 Slavin（2021）** 明确回应：RCT 并非万能，但若缺乏对具体项目的严密实验检验，教育改革将永远在“时尚钟摆”中盲目循环；倡导融合严格定量因果与质性机制解释。
 >
 > > [!axis] 生成式 AI 促学潜力的“乐观主义膨胀” vs “客观基准收敛”
-> > 围绕早期[[Document\|文献]]动辄报告大[[Effect Size\|效应量]]（$g > 1.0$）的学术分歧。
+> > 围绕早期文献动辄报告大[[Effect Size\|效应量]]（$g > 1.0$）的学术分歧。
 > >
 > > - **乐观派综述学者** 宣称生成式 AI 是全方位颠覆教学的通用加速器。
 > > - **张志强团队（2025）** 严谨指出既有乐观估计存在未控基线与[[Publication Bias\|发表偏倚]]的虚高，经[[Trim and Fill Method\|剪补法]]后真实基准为 $g^+ = 0.321$，必须警惕[[Metacognitive Laziness\|元认知惰性]]风险。

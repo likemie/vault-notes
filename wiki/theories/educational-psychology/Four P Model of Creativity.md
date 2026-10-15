@@ -39,12 +39,12 @@ related_concepts:
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
-  - "[[Document]]"
   - "[[Creativity Assessment]]"
   - "[[Gatekeepers]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Questionnaire]]"
   - "[[Meta-analysis]]"
   - "[[Correlated and Hierarchical Effects Model]]"
   - "[[Robust Variance Estimation]]"
@@ -52,9 +52,9 @@ related_methods:
   - "[[Second-Order Meta-Regression]]"
   - "[[Experimental Research]]"
   - "[[Triangulation]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments:
+  - "[[Creative Achievement Questionnaire]]"
   - "[[Consensual Assessment Technique]]"
 related_persons:
   - "[[Mark A. Runco]]"
@@ -63,7 +63,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-03
+updated: 2026-10-16
 ---
 
 # Four P Model of Creativity
@@ -96,7 +96,7 @@ updated: 2026-10-03
 > |:---|:---|:---|:---|
 > | **人<br>（Person）** | 心理与主体构件 | 大五人格特质（经验开放性）、[[Threshold Hypothesis\|智力门槛]]、[[Self-Efficacy\|自我效能感]]、内在动机、人口学背景 | 承载创造潜能（Creative Potential）的主体核心；二阶元分析表明外认知特质（$r = 0.14$）与基础认知（$r = 0.12$）同为内部支柱，人口背景不构成发展门槛（$r = 0.07$）[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 6–8)]]。 |
 > | **过程<br>（Process）** | 认知加工构件 | [[Problem Finding\|问题发现]]、[[Divergent Thinking\|发散思维]]、远距离联想、观念评估、酝酿与顿悟 | 观念生成与概念重组的信息加工动态网络；涵盖多维认知的完整创造过程呈现出高达 **$r = 0.27$** 的关联，显著超越单一发散思维测验（$r = 0.14$）[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 7)]]。 |
-> | **产品<br>（Product）** | 物化与效标构件 | 同感评估（[[Consensual Assessment Technique\|CAT]]）、专利、学术出版物、设计原型、自陈成就问卷（CAQ） | 创造力的显性物化载体，接受外部社会与领域的效度检验；因跨领域测量工具分散而受[[Criterion Problem\|效标问题]]制约，实证关联系数适中（$r = 0.12$）[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 7–8)]]。 |
+> | **产品<br>（Product）** | 物化与效标构件 | 同感评估（CAT）、专利、学术出版物、设计原型、自陈成就[[Questionnaire\|问卷]]（[[Creative Achievement Questionnaire\|CAQ]]） | 创造力的显性物化载体，接受外部社会与领域的效度检验；因跨领域测量工具分散而受[[Criterion Problem\|效标问题]]制约，实证关联系数适中（$r = 0.12$）[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 7–8)]]。 |
 > | **压力/环境<br>（Press）** | 外部生态构件 | [[Creativity Training\|教育教学干预]]、[[Structured Teaching\|结构化教学]]、组织创新气候、即时评价威胁、显式指导语 | 外部物理、社会与文化环境的推拉场域；其中专门的教育教学干预产生全领域最强的正向关联（**$r = 0.20$**），即时情境呈现中等关联（$r = 0.15$）[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 8)]]。 |
 
 ---
@@ -174,7 +174,7 @@ updated: 2026-10-03
 > 1. **Press（环境塑造）** 教师设计[[Open-Mindedness|开放性]]真实劣构工程挑战（如设计低碳社区模型），建立免除评价焦虑的小组协作文化与显式原创性指导语；
 > 2. **Person（主体激活）** 任务激活了不同学科背景学生的经验开放性与创造性[[Self-Efficacy\|自我效能感]]，破除了传统唯智商论的筛选门槛；
 > 3. **Process（认知重构）** 学生经历“[[Problem Finding\|问题发现]] → 多方案发散 → 原型迭代 → 方案评估”的全流程认知加工，而非孤立做发散练习；
-> 4. **Product（产品物化）** 最终小组产出实体设计原型，由跨学科专家采用[[Consensual Assessment Technique\|同感评估技术]]（[[Consensual Assessment Technique\|CAT]]）进行盲评。
+> 4. **Product（产品物化）** 最终小组产出实体设计原型，由跨学科专家采用[[Consensual Assessment Technique\|同感评估技术]]（CAT）进行盲评。
 > 该案例清晰展现了 4P 并非割裂拼盘，而是通过教学设计实现要素协同闭环。
 
 ---
@@ -189,7 +189,7 @@ updated: 2026-10-03
 
 > [!theory-use] 如何用于研究
 > - **作为理论框架** 用作统领创造力研究方案的宏观元框架，确保[[Independent Variable\|自变量]]、中介[[Variable\|变量]]、调节变量与[[Dependent Variable\|因变量]]涵盖完整 4P 维度。
-> - **作为分析工具** 转化为[[Document\|文献]][[Coding in Qualitative Research\|编码]]、[[Meta-analysis\|元分析]]调节矩阵构建、课程评估方案设计（如输入-环境-过程-产出分析）。
+> - **作为分析工具** 转化为文献编码、[[Meta-analysis\|元分析]]调节矩阵构建、课程评估方案设计（如输入-环境-过程-产出分析）。
 > - **作为批判视角** 揭示仅依赖单一标准化发散测验（忽视环境与产品）或仅凭产品获奖结果（忽视个体潜能与过程）的研究设计缺陷。
 > - **报告方式** 结构化呈现研究在人、过程、产品与环境四个层面的[[Operationalization\|操作化]]指标与实证关联路径。
 

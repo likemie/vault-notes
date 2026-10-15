@@ -10,7 +10,7 @@ summary: "在存在不完全依从（Non-compliance）的实验中，通过工�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 21
+method_related_count: 20
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Initial Teacher Training]]"
   - "[[Variable]]"
   - "[[Internal Validity]]"
-  - "[[Hypothesis]]"
   - "[[External Validity]]"
   - "[[Attrition]]"
   - "[[Construct Validity]]"
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Complier Average Causal Effect
@@ -84,7 +83,7 @@ updated: 2026-10-12
 > 1. **顺从者（Compliers）** $D(1)=1$ 且 $D(0)=0$；分配到干预组就参与、分配到对照组就不参与（因果效应可识别的核心主体）。
 > 2. **从不接受者（Never-Takers）** $D(1)=0$ 且 $D(0)=0$；无论分到哪组都绝不参与干预（如报了名但一节课都不上的学生）。
 > 3. **始终接受者（Always-Takers）** $D(1)=1$ 且 $D(0)=1$；无论分到哪组都会设法获取干预（如对照组学生私下购买实验教材自学）。
-> 4. **对抗者（Defiers）** $D(1)=0$ 且 $D(0)=1$；分配到干预组反而故意不参加、分配到对照组反而设法参加。现代[[Causality\|因果推断]]通常引入**单调性[[Hypothesis\|假设]]（Monotonicity / No-Defiers Assumption）**排除此类群体。
+> 4. **对抗者（Defiers）** $D(1)=0$ 且 $D(0)=1$；分配到干预组反而故意不参加、分配到对照组反而设法参加。现代[[Causality\|因果推断]]通常引入**单调性假设（Monotonicity / No-Defiers Assumption）**排除此类群体。
 
 ---
 
@@ -119,7 +118,7 @@ updated: 2026-10-12
 > [!boundary] 概念辨析与适用边界
 > - **CACE vs 完工者分析（Per-Protocol / As-Treated）** 完工者分析简单粗暴地剔除违约者，直接对比实际完成者与对照组，彻底破坏了[[Random Assignment\|随机化]]平衡（引入严重选择偏倚）；CACE 运用工具[[Variable\|变量]]模型，利用外生随机分配 $Z$ 作为杠杆，[[Causality\|因果推断]]具有严密的无偏数学保证。
 > - **CACE vs [[Advanced Technological Education|ATE]]（总体平均处理效应）** ATE 代表若强制全员 100% 接受干预时的理论总体平均值；CACE 仅代表自然状态下愿意顺从该干预的子群体效应（若干预强制推广至从不接受者，效应可能大幅下降）。
-> - **排除性约束失效风险** 若实验组学生得知自己入组后产生了强烈的期望效应（心理安慰剂），即使未实际使用干预也提高了成绩，此时工具变量排除性[[Hypothesis\|假设]]被击穿，CACE 估计将产生系统偏误。
+> - **排除性约束失效风险** 若实验组学生得知自己入组后产生了强烈的期望效应（心理安慰剂），即使未实际使用干预也提高了成绩，此时工具变量排除性假设被击穿，CACE 估计将产生系统偏误。
 
 ---
 

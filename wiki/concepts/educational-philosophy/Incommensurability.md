@@ -8,10 +8,10 @@ aliases:
 summary: "库恩范式理论的核心认识论构念，指不同科学范式之间缺乏中立公认的共同原则、标准或衡量尺度，因而无法在同一逻辑评价体系下直接比较优劣"
 type: concept
 domain: "educational-philosophy"
-related_count: 41
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 38
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/philosophy-of-science
   - theme/epistemology
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[Scientific Paradigm]]"
   - "[[Ontology]]"
-  - "[[Hypothesis]]"
   - "[[Paradigm Wars]]"
   - "[[Epistemological Beliefs]]"
   - "[[Pragmatic Paradigm]]"
@@ -40,7 +39,6 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Knowledge Production]]"
   - "[[Discourse]]"
-  - "[[Document]]"
   - "[[Variable]]"
   - "[[Scientific Method]]"
 related_theories: []
@@ -53,7 +51,6 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Joint Display]]"
   - "[[Content Analysis]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -67,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Incommensurability
@@ -77,7 +74,7 @@ updated: 2026-10-07
 ## 定义
 
 > [!def] 核心定义
-> 不可[[Commensuration\|通约]]性（Incommensurability）是[[Thomas Kuhn\|托马斯·库恩]]（[[Thomas Kuhn]]）[[Paradigm\|范式]]转换理论的核心[[Epistemology\|认识论]][[Construct\|构念]]，指不同[[Scientific Paradigm\|科学范式]]之间不存在中立、公认且跨范式有效的共同原则、评价标准或衡量尺度（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 116]]；Kuhn, 1962）。不可通约性意味着范式之间无法通过同一套外在逻辑标准判定高下优劣——采纳一种范式，不仅是选择某种具体研究工具，更是拥抱了一整套关于实在本质（[[Ontology\|本体论]]）、知识性质（[[Epistemology\|认识论]]）与人性[[Hypothesis\|假设]]的根本信念体系，因而研究者无法在同一认知时刻持有两套相互冲突的范式。
+> 不可[[Commensuration\|通约]]性（Incommensurability）是[[Thomas Kuhn\|托马斯·库恩]]（[[Thomas Kuhn]]）[[Paradigm\|范式]]转换理论的核心[[Epistemology\|认识论]][[Construct\|构念]]，指不同[[Scientific Paradigm\|科学范式]]之间不存在中立、公认且跨范式有效的共同原则、评价标准或衡量尺度（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 116]]；Kuhn, 1962）。不可通约性意味着范式之间无法通过同一套外在逻辑标准判定高下优劣——采纳一种范式，不仅是选择某种具体研究工具，更是拥抱了一整套关于实在本质（[[Ontology\|本体论]]）、知识性质（[[Epistemology\|认识论]]）与人性假设的根本信念体系，因而研究者无法在同一认知时刻持有两套相互冲突的范式。
 
 > [!concept-lens] 概念透镜
 > - **含义** 范式更替并非知识的线性简单累积，而是世界观与概念网络的根本断裂；不同范式下的概念看似使用相同词汇，其实际指涉与评判准则已发生质变。
@@ -128,7 +125,7 @@ updated: 2026-10-07
 > - **物理学革命：牛顿经典力学 vs 爱因斯坦相对论（Newton vs Einstein）**
 >   牛顿力学建立在绝对时空观与欧几里得空间基础之上，以[[Determinism\|决定论]]可预测性衡量物理法则；爱因斯坦相对论则将时空视为动态弯曲的四维连续统。虽然在低速宏观情境下牛顿力学是相对论的极限近似，但在概念[[Ontology\|本体论]]层面，“质量”与“空间”的内涵已发生质的断裂，无法直接通约还原。
 > - **教育研究方法论：量化实证范式 vs 质性[[Interpretive Paradigm\|诠释范式]]（Gage, 1989）**
->   [[Quantitative Research\|量化研究]]以[[Effect Size\|效应量]]、标准化测验、[[Hypothesis\|假设]]检验与[[Statistical Significance\|统计显著性]]评估教学干预的有效性；[[Qualitative Research\|质性研究]]则以丰富密集描述、主体间性意义赋予与参与者局内人（Emic）视角理解教学互动的机智。用效应量去裁决一篇[[Ethnography\|民族志]]的质量，如同用卷尺去测量水的温度——量具内生于一套范式，根本无法公平衡量另一套范式的知识贡献。
+>   [[Quantitative Research\|量化研究]]以[[Effect Size\|效应量]]、标准化测验、假设检验与[[Statistical Significance\|统计显著性]]评估教学干预的有效性；[[Qualitative Research\|质性研究]]则以丰富密集描述、主体间性意义赋予与参与者局内人（Emic）视角理解教学互动的机智。用效应量去裁决一篇[[Ethnography\|民族志]]的质量，如同用卷尺去测量水的温度——量具内生于一套范式，根本无法公平衡量另一套范式的知识贡献。
 
 ---
 
@@ -149,7 +146,7 @@ updated: 2026-10-07
 ### 命题二　不可通约性根植于本体论、认识论与人性观的根本哲学对立
 
 > [!concept-lens] 方法论分歧背后的元哲学基础
-> 揭示方法争论绝非技术层面的测量差异，而是深嵌于对社会实在本质与人性[[Hypothesis\|假设]]的根本分歧。
+> 揭示方法争论绝非技术层面的测量差异，而是深嵌于对社会实在本质与人性假设的根本分歧。
 
 > [!claim] Burrell, G. & Morgan, G.
 > **主客观四维假设构筑不可调和的哲学断层** 社会探究在哲学底座上被撕裂为[[Subjectivism\|主观主义]]与[[Objectivism\|客观主义]]两大阵营：[[Ontology\|本体论]]上的实在论 vs [[Nominalism\|唯名论]]、[[Epistemology\|认识论]]上的[[Positivism\|实证主义]] vs [[Interpretive Paradigm\|反实证主义]]、人性论上的[[Determinism\|决定论]] vs [[Voluntarism\|唯意志论]]、方法论上的通则法 vs 表意法。这四组假设相互锚定，构成封闭自洽的世界观网络；研究者无法在信奉社会外在于意识的同时又认定社会纯属语言符号虚构，这种本体论层面的绝缘锁定了范式之间的不可通约性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, pp. 117–118]]
@@ -228,12 +225,12 @@ updated: 2026-10-07
 
 ## 实证数据
 
-> [!ref-table]- [[Paradigm Wars\|范式战争]]与方法学演化的[[Document\|文献]]计量实证特征
+> [!ref-table]- [[Paradigm Wars\|范式战争]]与方法学演化的文献计量实证特征
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] | 2010 与 2020 年五本顶级教育心理学期刊发表的所有实证论文 | 历时性方法学[[Content Analysis\|内容分析]]与[[Coding in Qualitative Research\|编码]] | 量化干预、非干预与[[Qualitative Research\|质性研究]]的方法学构成比例 | 质性研究占比从 2010 年的 9% 显著攀升至 2020 年的 22%，[[Mixed Methods Research\|混合方法]]论文亦保持增长 | $p < .05$ | 实证表明主流阵地打破了单一量化垄断，不可[[Commensuration\|通约]]的质性取向获得了稳定的学科合法性空间 |
+> | [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] | 2010 与 2020 年五本顶级教育心理学期刊发表的所有实证论文 | 历时性方法学[[Content Analysis\|内容分析]]与编码 | 量化干预、非干预与[[Qualitative Research\|质性研究]]的方法学构成比例 | 质性研究占比从 2010 年的 9% 显著攀升至 2020 年的 22%，[[Mixed Methods Research\|混合方法]]论文亦保持增长 | $p < .05$ | 实证表明主流阵地打破了单一量化垄断，不可[[Commensuration\|通约]]的质性取向获得了稳定的学科合法性空间 |
 
 ---
 
@@ -257,4 +254,4 @@ updated: 2026-10-07
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011)]] — 详尽解构库恩[[Paradigm\|范式]]理论中的不可[[Commensuration\|通约]]性机制，剖析其如何引爆[[Paradigm Wars\|范式战争]]并触发[[Mixed Methods Research\|混合方法]]运动。
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 在量化、质性与混合方法的三元框架中阐释哲学世界观的不可通约性与[[Pragmatic Paradigm\|实用主义]]调和策略。
-> - [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] — 通过历时[[Document\|文献]]计量揭示教育研究在走出绝对实证垄断后质性与多范式并存的发展态势。
+> - [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] — 通过历时文献计量揭示教育研究在走出绝对实证垄断后质性与多范式并存的发展态势。

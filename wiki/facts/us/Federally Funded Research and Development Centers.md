@@ -12,7 +12,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 26
+fact_related_count: 25
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -36,7 +36,6 @@ related_concepts:
   - "[[Academic Freedom]]"
   - "[[Industry Affiliate Program]]"
 related_persons:
-  - "[[Alfred Nobel]]"
   - "[[Richard C. Atkinson]]"
 related_facts:
   - "[[Office of Scientific Research and Development]]"
@@ -59,7 +58,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Federally Funded Research and Development Centers
@@ -106,7 +105,7 @@ updated: 2026-10-12
 ## 核心业务与代表性基地矩阵
 
 > [!finding-cards] 代表性[[Big Science|大科学]]基地矩阵
-> - **高能物理与前沿粒子加速基地** 费米国家加速器实验室（芝加哥附近）、劳伦斯伯克利国家实验室等，建造并运行万亿电子伏特粒子加速器与同步辐射光源，奠定了战后美国在高能物理学领域的[[Alfred Nobel|诺贝尔]]奖垄断地位。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 37–38)]]
+> - **高能物理与前沿粒子加速基地** 费米国家加速器实验室（芝加哥附近）、劳伦斯伯克利国家实验室等，建造并运行万亿电子伏特粒子加速器与同步辐射光源，奠定了战后美国在高能物理学领域的诺贝尔奖垄断地位。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 37–38)]]
 > - **全球顶尖天文与空间观测基地** 双子星天文台（Gemini Observatories，分别位于夏威夷莫纳克亚与智利帕穹山）等，由 [[National Science Foundation|NSF]] 出资委托大学联盟管理，为全球天文学家提供深空探索核心支撑。
 > - **国家安全与综合战略科学基地** 洛斯阿拉莫斯国家实验室、劳伦斯利弗莫尔国家实验室与桑迪亚国家实验室，统领战略核威慑、超级计算模拟与全球环境能源安全模拟。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 38)]]
 

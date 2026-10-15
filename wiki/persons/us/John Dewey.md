@@ -10,7 +10,7 @@ summary: "美国哲学家、心理学家与教育改革家，实用主义与进�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 57
+person_related_count: 56
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
@@ -41,7 +41,6 @@ related_concepts:
   - "[[Freedom of the Learner]]"
   - "[[Scientific Attitude]]"
   - "[[Transfer Translation Transformation]]"
-  - "[[Hypothesis]]"
   - "[[Banking Model of Education]]"
   - "[[Problem Solving]]"
   - "[[Grand Theory]]"
@@ -90,7 +89,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # John Dewey
@@ -146,7 +145,7 @@ updated: 2026-10-08
 ## 核心思想
 
 > [!claim] 核心主张
-> 杜威的思想是一套关于经验、探究、民主与社会更新相互支撑的完整哲学体系。教育不是为未来生活做准备，而是社会生活连续更新的过程。学校应作为简化、净化与组织社会经验的特殊环境；探究应作为公开检验与修正在动作中形成的[[Hypothesis|假设]]；民主不仅是政治政体，更是自由交流与共同解决问题的“联合生活方式”（Dewey [1916] 2018, pp.93, 146–147）。
+> 杜威的思想是一套关于经验、探究、民主与社会更新相互支撑的完整哲学体系。教育不是为未来生活做准备，而是社会生活连续更新的过程。学校应作为简化、净化与组织社会经验的特殊环境；探究应作为公开检验与修正在动作中形成的假设；民主不仅是政治政体，更是自由交流与共同解决问题的“联合生活方式”（Dewey [1916] 2018, pp.93, 146–147）。
 > 
 > 在现代课程与教育哲学对话中，杜威被确立为[[Active Learning|主动学习]]（Active Learning）的核心奠基人：他否定将学生视作“加仑事实”灌输容器的[[Banking Model of Education|储蓄式教育]]，强调只有赋予学生[[Freedom of the Learner|学习者的自由]]与能动主体（Subjects）地位，教育才能发生；[[Critical Thinking|批判性思维]]必须建立在“做”（doing）与[[Problem Solving|问题解决]]之上，而对话则是社区成员在民主互动中“共享经验的过程”，其终极目标在于实现个体的生长与自我实现（[[Growth|self-realization]]） [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 6–10)]]。
 > 
@@ -194,7 +193,7 @@ updated: 2026-10-08
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 奠定[[Pragmatic Paradigm|实用主义]]教育哲学，重构经验、探究与知识的关系，提出[[Active Learning|主动学习]]三环节模型（[[Critical Thinking|批判性思维]]、对话、生长），反对绝对确定性执念，将证据理解为情境行动中可修正的[[Hypothesis|假设]]（Dewey quoted in Hattie, 2008, p.147; [[Argument_Darwish_2009_Queens|Darwish, 2009]]）；其经验探究论成为现代[[Engineering Mindset|工程思维]]的哲学先声（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025]]）。
+> - **理论路径** 奠定[[Pragmatic Paradigm|实用主义]]教育哲学，重构经验、探究与知识的关系，提出[[Active Learning|主动学习]]三环节模型（[[Critical Thinking|批判性思维]]、对话、生长），反对绝对确定性执念，将证据理解为情境行动中可修正的假设（Dewey quoted in Hattie, 2008, p.147; [[Argument_Darwish_2009_Queens|Darwish, 2009]]）；其经验探究论成为现代[[Engineering Mindset|工程思维]]的哲学先声（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025]]）。
 > - **方法路径** 推崇[[Reflexivity|反思性]]探究与试错实验，批判[[Technical Rationality|技术理性]]与将教师简化为[[Classroom Management|课堂管理]]技巧训练的倾向，倡导保持[[Professional Judgment|专业判断]]；倡导深入现实系统具体细节的经验实测与持续修正。
 > - **政策与实践路径** 推动了综合课程、活动教学法（如项目制构建模型）、学分制以及从科目隔绝转向社会科整合的全球课程改革趋势。
 

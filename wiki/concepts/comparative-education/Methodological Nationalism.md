@@ -5,7 +5,7 @@ aliases:
 summary: "把民族国家视为现代社会自然单位与唯一分析容器的认识论立场，容易遮蔽跨国网络、非国家主体漫步全球花园对国家边界的横切，以及跨尺度流动空间与地方空间交互关系的复杂性"
 type: concept
 domain: "comparative-education"
-related_count: 46
+related_count: 43
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Classical Geopolitics]]"
   - "[[Unit of Analysis]]"
   - "[[International Education]]"
-  - "[[Hypothesis]]"
   - "[[Methodological Statism]]"
   - "[[Methodological Educationism]]"
   - "[[Recontextualization]]"
@@ -32,7 +31,6 @@ related_concepts:
   - "[[Multiplicity]]"
   - "[[Policy Borrowing]]"
   - "[[Policy Network]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Methodological Transnationalism]]"
   - "[[Transfer Space]]"
   - "[[Global Education Governing Complex]]"
@@ -43,7 +41,6 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Variable]]"
   - "[[Falsification]]"
-  - "[[Document]]"
   - "[[Gatekeepers]]"
 related_theories: []
 related_methods:
@@ -116,11 +113,11 @@ updated: 2026-10-15
 > - **国家作为唯一[[Unit of Analysis|分析单位]]** 将教育系统理解为只能在各自国家范畴内被理解，跨境活动被视为边缘性或衍生性的。[[Argument_Marginson_2025_ECNUROE|Marginson, 2025, p. 8]]; [[Argument_Beech_2009_CE|Beech, 2009a, p. 348]]
 > - **遮蔽全球性现象** 系统性阻挡了对科学（就其[[Epistemology|认识论]]自主性而言）、生态和跨国网络等无法还原为国家属性的全球性现象的观察。
 > - **语言概念的潜在偏见** 比较教育常用的“跨国”（transnational，跨越国家）与“国际”（international，国家之间）均预设了国家作为活动基础；即使是“超国家”（supranational，国家之上）也仍是以民族国家为基准定位该空间。[[Argument_Beech_2009_CE|Beech, 2009a, pp. 348–349]]
-> - **非国家主体漫步全球花园横切国家区隔** 全球化时代的国际影响不再局限于国家间外在关系，而是以“无界限空间”的形态直接横切（Crosscut）国家内部区隔（Giddens, 1990; [[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）。魅力型教育咨询顾问、面临财政削减而推行新重商主义咨询出口的英国大学（Cowen, 1996; Lyotard, 1984）、确立区域基准与开放协调法的欧洲联盟（Nóvoa, 2002），以及运营跨国连锁学校并直接向多国政府提供政策建议的跨国教育公司（如 Nord Anglia、GEMS），这些新兴非国家主体漫步于“全球花园”，彻底瓦解了传统的国家孤立容器[[Hypothesis|假设]]。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–345)]]
+> - **非国家主体漫步全球花园横切国家区隔** 全球化时代的国际影响不再局限于国家间外在关系，而是以“无界限空间”的形态直接横切（Crosscut）国家内部区隔（Giddens, 1990; [[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）。魅力型教育咨询顾问、面临财政削减而推行新重商主义咨询出口的英国大学（Cowen, 1996; Lyotard, 1984）、确立区域基准与开放协调法的欧洲联盟（Nóvoa, 2002），以及运营跨国连锁学校并直接向多国政府提供政策建议的跨国教育公司（如 Nord Anglia、GEMS），这些新兴非国家主体漫步于“全球花园”，彻底瓦解了传统的国家孤立容器假设。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–345)]]
 > - **三主义的叠加效应** 在全球化世界中仅关注国家教育系统不仅是方法论民族主义，还会与[[Methodological Statism|方法论国家中心主义]]（methodological statism，将国家视为唯一行动者）和[[Methodological Educationism|方法论教育主义]]（methodological educationism，将教育等同于学校教育）叠加。[[Argument_Klerides_2023_CE|Klerides, 2023, p. 423]]
 > - **与规范性民族主义共谋** 认为“国家是唯一分析单位”的预设会强化“本国优先”的价值立场，Massey（2005）称之为“对连贯国族性的浪漫幻想”和净化国家空间的徒劳尝试。
 > - **高等教育中的具体表现** 表现为大学排名将“国家表现”作为关键指标；研究将大学的国际合作与流动视为国家政策的附属物。[[Argument_Marginson_2025_ECNUROE|Marginson, 2025, pp. 8–9]]
-> - **比较教育中的具体表现** 主流传统寻找“在一个语境中有效”的制度、思想或实践，试图将其转移到新语境，这一传统隐含着以国家为边界的[[Hypothesis|假设]]。即使文化主义视角强调本地适应与[[Recontextualization|再脉络化]]，仍然基于地缘政治和领土性的空间定义。[[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]]
+> - **比较教育中的具体表现** 主流传统寻找“在一个语境中有效”的制度、思想或实践，试图将其转移到新语境，这一传统隐含着以国家为边界的假设。即使文化主义视角强调本地适应与[[Recontextualization|再脉络化]]，仍然基于地缘政治和领土性的空间定义。[[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -163,7 +160,7 @@ updated: 2026-10-15
 > 批判传统[[Policy Borrowing|政策借用]]研究将输出国与输入国视为固定物理领土的机械模型，转向关系性流通与情境重塑。
 
 > [!claim] Beech, J. & [[Alejandro Artopoulos|Artopoulos, A.]]
-> **摒弃静态领土转移观走向关系性流通** 主流比较教育在考察教育转移时，往往预设政策是在两个边界清晰的固定国家容器之间“平移”，形成静态的转移解释。实质上，教育思想与政策实践的流动是高度动态、多维且去中心化的关系性流通，其核心机制在于[[Policy Network|政策网络]]内部的[[Transfer Translation Transformation|转译]]与本地行动者的[[Recontextualization|再脉络化]]。[[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]]
+> **摒弃静态领土转移观走向关系性流通** 主流比较教育在考察教育转移时，往往预设政策是在两个边界清晰的固定国家容器之间“平移”，形成静态的转移解释。实质上，教育思想与政策实践的流动是高度动态、多维且去中心化的关系性流通，其核心机制在于[[Policy Network|政策网络]]内部的转译与本地行动者的[[Recontextualization|再脉络化]]。[[Argument_Beech_2015_GSE|Beech & Artopoulos, 2015]]
 
 ---
 
@@ -195,8 +192,8 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **语言偏见与尺度超越** | 揭示“跨国/国际/超国家”术语的内生偏见，基于流动空间与关系性空间超越单一国家框架 | 比较教育认识论、高等教育全球化与科学[[Network Analysis\|网络分析]] | [[Jason Beech\|Beech (2009a)]]; Marginson (2025) |
-> | **静态转移批判与流通** | 摒弃物理领土固化转移[[Hypothesis\|假设]]，确立政策思想的关系性多维流通与再脉络化 | 教育政策跨国借用、教育思想转移与本土重构 | [[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015)]] |
+> | **语言偏见与尺度超越** | 揭示“跨国/国际/超国家”术语的内生偏见，基于流动空间与关系性空间超越单一国家框架 | 比较教育认识论、高等教育全球化与科学[[Network Analysis\|网络分析]] | [[Jason Beech\|Beech (2009a)]]; [[Argument_Marginson_2025_ECNUROE\|Marginson (2025)]] |
+> | **静态转移批判与流通** | 摒弃物理领土固化转移假设，确立政策思想的关系性多维流通与再脉络化 | 教育政策跨国借用、教育思想转移与本土重构 | [[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015)]] |
 > | **治理网络解构与跨国进路** | 破除三主义叠加与单向霸权模型，依托方法论跨国主义透视全球与国家互构 | [[Global Education Governing Complex\|全球教育治理复合体]]、跨国[[Policy Brokerage\|政策中介]]与国内改革合法化动员 | Dale and Robertson (2009); [[Argument_Klerides_2023_CE\|Klerides (2023)]]; [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] |
 > | **全球花园横切与多位置重构** | 揭示非国家主体跨切国家区隔漫步全球花园，依托五位置[[Champ\|场域]]终结双边借用容器假设 | 全球教育治理、跨国私营咨询扩张与政策[[Discourse\|话语]]环流 | [[Jason Beech\|Beech (2009b)]] |
 
@@ -212,9 +209,9 @@ updated: 2026-10-15
 > - **2005–2009 — 比较教育与全球治理研究引入**
 >   Dale (2005) 与 [[Argument_Beech_2009_CE|Beech (2009a)]] 将该概念引入教育政策和比较教育研究。Dale 提出“超国家”尺度；Beech 进一步批判语言概念中的国家预设，并引入 Castells 的“[[Space of Flows|流动空间]]与[[Space of Places|地方空间]]”作为替代[[Analytic Framework|分析框架]]，为摆脱国家参照提供路径。[[Argument_Beech_2009_CE|Beech, 2009a, pp. 348–349]]
 > - **2009 — 全球花园非国家主体与五位置流通模型**
->   [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] 进一步指出，全球化时代的国际影响以无界限空间直接横切国家分界，顾问、大学、区域集团与跨国企业等多元主体漫步于全球花园，构建了打破国家容器[[Hypothesis|假设]]的五位置跨国[[Discourse|话语]]流通模型。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–345, 349–351)]]
+>   [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] 进一步指出，全球化时代的国际影响以无界限空间直接横切国家分界，顾问、大学、区域集团与跨国企业等多元主体漫步于全球花园，构建了打破国家容器假设的五位置跨国[[Discourse|话语]]流通模型。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–345, 349–351)]]
 > - **2015 — 教育转移的关系性转向**
->   [[Argument_Beech_2015_GSE|Beech and Artopoulos (2015)]] 运用该概念批判传统教育转移的“静态领土[[Hypothesis|假设]]”，推动向关系性转移与流通研究的转向。
+>   [[Argument_Beech_2015_GSE|Beech and Artopoulos (2015)]] 运用该概念批判传统教育转移的“静态领土假设”，推动向关系性转移与流通研究的转向。
 > - **2023–2025 — 高等教育与[[Ontology|本体论]]深化**
 >   [[Argument_Klerides_2023_CE|Klerides (2023)]] 整合 Dale & Robertson 框架探讨三主义叠加效应；[[Argument_Marginson_2025_ECNUROE|Marginson (2025)]] 将 [[Doreen Massey]] 的“[[Relational Space|关系性空间]]”与“[[Multiplicity|多重性]]”理论作为超越方法论民族主义的深层本体论基础，论证高等教育多重尺度的共存。[[Argument_Klerides_2023_CE|Klerides, 2023, p. 423]]; [[Argument_Marginson_2025_ECNUROE|Marginson, 2025, pp. 8–9]]
 > - **2024 — [[Methodological Transnationalism|方法论跨国主义]]的系统应对**
@@ -252,7 +249,7 @@ updated: 2026-10-15
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | 全球 30 个涉足教育的跨国政府间组织（1945–2020 年跨越 75 年历史演变） | 全球治理机构历史数据库计量统计与职能演进分析 | 跨国教育治理主体的职能属性分布 | 30 个国际组织中，高达 33.3%（10 个，如 [[OECD]]、世界银行、WTO、APEC）为纯粹的经济与贸易类组织，非教育组织深度主导全球教育标准制定与[[Policy Brokerage\|政策中介]] | 历史全样本归纳（$N=30$） | 证实国家教育系统的治理权早已被非教育、超国家经济组织深度渗透，有力[[Falsification\|证伪]]“教育纯属国家主权内部事务”的方法论民族主义容器预设 |
-> | 同上 | 挪威国家教育改革两阶段政策制定过程（5 个政府专家委员会绿色报告 vs 教育部法定白皮书法令） | 政策转移全生命周期[[Document\|文献]]追踪与引用[[Network Analysis\|网络分析]] | 国家政策决策对跨国政策中介的依赖度与阶段过滤 | 5 个专家委员会引用的 464 篇文献中仅 22 篇进入政府最终法令（过滤率 95.3%）；而采纳的 22 篇中 20 篇（90.9%）直接源于审议 OECD [[Definition and Selection of Competencies\|DeSeCo]] 项目的委员会，OECD 成为主导国内改革的最核心知识源 | 全文本追踪分析 | 揭示民族国家政府的教育改革高度依赖超国家中介提供的“准外部权威”来克服国内争议，国家内部决策空间与全球跨国空间深度互嵌 |
+> | 同上 | 挪威国家教育改革两阶段政策制定过程（5 个政府专家委员会绿色报告 vs 教育部法定白皮书法令） | 政策转移全生命周期文献追踪与引用[[Network Analysis\|网络分析]] | 国家政策决策对跨国政策中介的依赖度与阶段过滤 | 5 个专家委员会引用的 464 篇文献中仅 22 篇进入政府最终法令（过滤率 95.3%）；而采纳的 22 篇中 20 篇（90.9%）直接源于审议 OECD [[Definition and Selection of Competencies\|DeSeCo]] 项目的委员会，OECD 成为主导国内改革的最核心知识源 | 全文本追踪分析 | 揭示民族国家政府的教育改革高度依赖超国家中介提供的“准外部权威”来克服国内争议，国家内部决策空间与全球跨国空间深度互嵌 |
 
 ---
 
@@ -261,8 +258,8 @@ updated: 2026-10-15
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 提出[[Methodological Transnationalism|方法论跨国主义]]路径，超越将国家视为孤立容器或被动霸权受体的研究取向。
 > - [[Argument_Marginson_2025_ECNUROE|Marginson (2025)]] — 论证 Massey 的[[Relational Space|关系空间]]理论如何为超越高等教育研究中的方法论民族主义提供[[Ontology|本体论]]支撑。
-> - [[Argument_Beech_2009_CE|Beech (2009a)]] — 从术语层面剖析比较教育的国家偏见，并运用[[Space of Flows|流动空间]]与[[Space of Places|地方空间]]重构教育政策[[Discourse|话语]]的三级[[Transfer Translation Transformation|转译]]。
+> - [[Argument_Beech_2009_CE|Beech (2009a)]] — 从术语层面剖析比较教育的国家偏见，并运用[[Space of Flows|流动空间]]与[[Space of Places|地方空间]]重构教育政策[[Discourse|话语]]的三级转译。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 提出全球教育[[Champ|场域]]五位置模型，揭示非国家主体漫步全球花园横切国家区隔，以及拉美[[Gatekeepers|把关人]]群体如何闭合国家政策空间。
-> - [[Argument_Beech_2015_GSE|Beech and Artopoulos (2015)]] — 揭示传统比较教育中静态教育转移的国家领土[[Hypothesis|假设]]，提出关系性流通的阐释。
+> - [[Argument_Beech_2015_GSE|Beech and Artopoulos (2015)]] — 揭示传统比较教育中静态教育转移的国家领土假设，提出关系性流通的阐释。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 运用该概念批判历史和比较教育研究中的“方法论民族主义、国家主义、[[Methodological Educationism|教育主义]]叠加”现象，阐释其对跨国教育网络研究的遮蔽。
 

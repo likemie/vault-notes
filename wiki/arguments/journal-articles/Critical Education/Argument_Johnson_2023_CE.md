@@ -10,7 +10,7 @@ title: "Argument_Johnson_2023_CE"
 argument_key: "Argument_Johnson_2023_CE"
 argument_display_title: "Leading the blind: A critical look at Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 18
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Scientism]]"
   - "[[Cargo Cult Science]]"
-  - "[[Document]]"
   - "[[Homework]]"
   - "[[Neo-Taylorism]]"
   - "[[Class Size]]"
@@ -74,7 +73,7 @@ citation_aliases:
 > [!info] 研究方法
 > - 方法：批判性分析（Critical Essay）
 > - 分析维度：四个——方法论批判（[[Meta-meta-analysis\|元-元分析]]解构）、立场性批判（教师监视与去专业化）、资本主义动机批判（新自由主义叙事）、科学误用批判（[[Scientism\|科学主义]]与 [[Cargo Cult Science]]）
-> - 数据来源：Hattie (2009) *[[Visible Learning]]* 等 VL 系列出版物、学术批评[[Document\|文献]]、政策文件、新闻报道
+> - 数据来源：Hattie (2009) *[[Visible Learning]]* 等 VL 系列出版物、学术批评文献、政策文件、新闻报道
 
 ## 核心论证
 

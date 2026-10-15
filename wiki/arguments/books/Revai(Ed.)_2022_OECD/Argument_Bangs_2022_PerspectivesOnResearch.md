@@ -7,7 +7,7 @@ title: "Argument_Bangs_2022_PerspectivesOnResearch"
 argument_key: "Argument_Bangs_2022_PerspectivesOnResearch"
 argument_display_title: "Perspectives on education research (N. Révai, Ed.)"
 argument_kind: "book-chapter"
-argument_related_count: 85
+argument_related_count: 83
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -61,7 +61,6 @@ related_concepts:
   - "[[Knowledge Co-production]]"
   - "[[Theory of Knowledge]]"
   - "[[Disciplinary Institutionalization]]"
-  - "[[Teaching Assistant]]"
   - "[[Research Scope]]"
   - "[[Internal Validity]]"
   - "[[Pragmatic Paradigm]]"
@@ -84,7 +83,6 @@ related_concepts:
   - "[[Champ]]"
   - "[[Reflexivity]]"
   - "[[Research Ethics]]"
-  - "[[Document]]"
   - "[[Boundary Spanner]]"
   - "[[Research Utilization]]"
   - "[[Evaluation Research]]"
@@ -180,7 +178,7 @@ updated: 2026-09-14
 > | 模块 | 材料与处理方式 |
 > |---|---|
 > | **专题学术论辩设计** | 由经济合作与发展组织（Organisation for Economic Co-operation and Development, [[OECD]]）教育研究与创新中心（Centre for Educational Research and Innovation, [[Centre for Educational Research and Innovation\|CERI]]）编者诺拉·雷瓦伊（Nóra Révai）主持设计。该对话直接承接 2007 年 OECD《循证教育》中托马斯·库克（Thomas Cook）与斯蒂芬·戈拉德（Stephen Gorard）关于随机对照试验（Randomised Controlled Trials, RCT）与混合方法的方法论论争，将审视视野从狭隘的方法之争拓展至行动者角色、资助模式、累积性知识库构建与跨国话语权。（pp. 201–202） |
-> | **利益相关者多维立场陈述** | 邀请来自比利时、美国、匈牙利、挪威与日本的 8 位跨界代表撰写专题评论，涵盖大学资深学者、联邦政府科学资助长官、全球最大教师工会联合会战略官员、身处薄弱地区兼任大学教员的中小学校长、国家级大型 [[Research-Practice Partnership\|RPP]] 试点首席评估专家、资[[Teaching Assistant\|助教]]育公平的私立慈善基金会高管，以及国家教师专业研修机构教授。（pp. 202–227） |
+> | **利益相关者多维立场陈述** | 邀请来自比利时、美国、匈牙利、挪威与日本的 8 位跨界代表撰写专题评论，涵盖大学资深学者、联邦政府科学资助长官、全球最大教师工会联合会战略官员、身处薄弱地区兼任大学教员的中小学校长、国家级大型 [[Research-Practice Partnership\|RPP]] 试点首席评估专家、资助教育公平的私立慈善基金会高管，以及国家教师专业研修机构教授。（pp. 202–227） |
 > | **跨篇主题综合归纳** | 编者基于 7 篇立场评论开展扎根式的跨主题归纳，在科研质量与严谨性、研-学协作性质、[[Democratising Evidence\|证据民主化]]伦理考量，以及宏观科研政策支持四大核心议题上提炼理论共识、辨析结构张力并划定未来[[Research Scope\|研究边界]]。（pp. 227–231） |
 
 > [!sample-panel]- 对话主体与制度情境快照
@@ -398,7 +396,7 @@ updated: 2026-09-14
 
 > [!critique-fatal] 现代高校科研的三重结构性道德赤字
 > - **科研议程与社会现实痛点的严重脱节**
->   学术界与基金会资助者长期垄断了科研立项权，导致研究课题热衷于修补[[Document\|文献]]库的细枝末节，却对真实的教育困境熟视无睹。即便是研究方案实施等实操议题，学者也只关心干预的剂量与保真度（学者指标），对教师真正在乎的弱势人群适配性与资源保障条件（实践者指标）视若无睹。（pp. 220–221）
+>   学术界与基金会资助者长期垄断了科研立项权，导致研究课题热衷于修补文献库的细枝末节，却对真实的教育困境熟视无睹。即便是研究方案实施等实操议题，学者也只关心干预的剂量与保真度（学者指标），对教师真正在乎的弱势人群适配性与资源保障条件（实践者指标）视若无睹。（pp. 220–221）
 > - **高校历史不公与现代榨取式科研（extractive research）**
 >   美国高校坐落在通过掠夺与屠杀印第安原住民掠取的土地上，依托黑奴劳动和对华工的剥削建立；而在当代，高校依然在大规模制造榨取式科研：学者们深入被种族主义和贫困边缘化的社区，采掘受试者的生活隐私、教学课时乃至唾液样本以发表高分论文，却从未给这些贡献了个人生命的社群留下任何切实的改变。（p. 221）
 > - **亏空导向与伤害中心主义研究偏见**

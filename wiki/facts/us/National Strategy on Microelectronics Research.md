@@ -98,7 +98,7 @@ updated: 2026-10-10
 > [!policy-design]- 政策设计
 > - **政策目标** 突破后摩尔时代物理极限，跨越从实验室到代工厂的中试断层，培育全谱系工程人才，建立自生型微电子国家[[Innovation Ecosystem|创新生态]]。（pp. 2, 10–48）
 > - **适用对象** 覆盖全美参与微电子研发、制造、测试、设计与教育培训的所有联邦科研机构、学术界、产业界联盟及中小微企业。（pp. iv, 2）
-> - **政策工具** 涵盖重大国家研发中心布局（[[National Semiconductor Technology Center|国家半导体技术中心]]、[[Microelectronics Commons|微电子共用体]]）、[[Multi-Project Wafer|多项目晶圆]]（MPW）流片补贴、开源[[Process Design Kit|工艺设计套件]]（PDK）与[[Assemblage|装配]]设计套件（ADK）推广、小企业创新研发（[[SBIR and STTR Programs|SBIR]]/STTR）私人资本匹配、[[Apprenticeship|学徒制]]与技能认证项目。（pp. 21–28, 31–37, 39–46）
+> - **政策工具** 涵盖重大国家研发中心布局（[[National Semiconductor Technology Center|国家半导体技术中心]]、[[Microelectronics Commons|微电子共用体]]）、[[Multi-Project Wafer|多项目晶圆]]（MPW）流片补贴、开源[[Process Design Kit|工艺设计套件]]（PDK）与装配设计套件（ADK）推广、小企业创新研发（[[SBIR and STTR Programs|SBIR]]/STTR）私人资本匹配、[[Apprenticeship|学徒制]]与技能认证项目。（pp. 21–28, 31–37, 39–46）
 > - **约束机制** 建立[[Subcommittee on Microelectronics Leadership|微电子领导力小组委员会]]年度能力审查、跨部门联合征求意见书（RFI）、[[Industrial Advisory Committee|工业咨询委员会]]（IAC）独立督导以及多部委预算与技术路线图动态对齐机制。（pp. 9–10, 43–44, 48）
 
 > [!frames-ref]- 四大战略支柱与重点行动矩阵
@@ -162,7 +162,7 @@ updated: 2026-10-10
 
 > [!indicators]- 评价指标体系
 > - **投入指标** 联邦微电子研发预算总额、开放式中试洁净室机时分配、[[Multi-Project Wafer|MPW]] 拼版流片补贴规模、研究生与学徒奖学金数量。（pp. 21–28, 31–37）
-> - **过程指标** 跨部委联合资助选题比例、开源 [[Electronic Design Automation|EDA]]/[[Process Design Kit|PDK]] 采纳率、[[National Nanotechnology Coordinated Infrastructure|NNCI]] 与国家实验室外部学术用户比例、产学研人员双向流动人次。（pp. 23–25, 43–45）
+> - **过程指标** 跨部委联合资助选题比例、开源 EDA/[[Process Design Kit|PDK]] 采纳率、[[National Nanotechnology Coordinated Infrastructure|NNCI]] 与国家实验室外部学术用户比例、产学研人员双向流动人次。（pp. 23–25, 43–45）
 > - **结果指标** 原型跨越[[Valley of Death|死亡之谷]]周期缩短幅度、3D [[Heterogeneous Integration|异构集成]]封装密度、硬件零信任漏洞检出率、本土晶圆制造与先进封测全球份额回升率。（pp. 1–3, 17–20, 38）
 
 > [!finding-cards] 预期效果与战略突破

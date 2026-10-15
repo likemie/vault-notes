@@ -8,7 +8,7 @@ summary: "美国思想家、散文家与诗人，19世纪超验主义运动领�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 15
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -25,11 +25,9 @@ tags:
 related_concepts:
   - "[[Externalization]]"
   - "[[Epistemology]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Engineering Mindset]]"
   - "[[Positivism]]"
   - "[[Critical Thinking Disposition]]"
-  - "[[Habitus]]"
   - "[[Creativity]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Technological Republic]]"
@@ -47,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Ralph Waldo Emerson
@@ -113,7 +111,7 @@ updated: 2026-10-09
 
 ## 案例分析
 
-> [!case] 超验自立对现代工程文化的[[Transfer Translation Transformation|转译]]：从抵御世俗鞭打到果断止损迭代
+> [!case] 超验自立对现代工程文化的转译：从抵御世俗鞭打到果断止损迭代
 > - **背景与困境** 在现代高科技创业与软件研发中，团队往往面临巨大的同侪顺从压力（如紧跟行业所谓“最佳实践”或风口），且对推翻自身既往战略与公开承诺充满恐惧，导致大量注定失败的项目被过度维系。
 > - **爱默生思想的应用** [[Alexander Karp|亚历山大·卡普]]（[[Alexander Karp]]）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（[[Nicholas Zamiska]]）指出，爱默生在《论自信》中提出的“绝不为了维持表面一致而拖拽记忆的尸体”，构成了现代[[Engineering Mindset|工程思维]]的关键哲学武器：在面对不达预期的代码或项目时，优秀的工程师与创始人能够在几天内果断弃绝失败假说并重构团队，坚决让模型顺应物理事实，而不是扭曲事实以迎合模型。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 158–159)]]
 
@@ -143,9 +141,9 @@ updated: 2026-10-09
 >
 > | 条目 | 类型 | 关联与贡献说明 |
 > |:-----|:-----|:-----|
-> | [[Critical Thinking Disposition]] | 概念 | 爱默生的非从众与抛弃理论尸体构成了批判性心智[[Habitus\|习性]]的重要哲学渊源。 |
+> | [[Critical Thinking Disposition]] | 概念 | 爱默生的非从众与抛弃理论尸体构成了批判性心智习性的重要哲学渊源。 |
 > | [[Creativity]] | 概念 | 其反抗既有共识、倡导无中生有的创造哲学被用于阐释颠覆性创造力。 |
 > | [[Engineering Mindset]] | 概念 | 其果断弃绝错误理论的思想被转化为工程研发快速止损与迭代的[[Epistemology\|认识论]]基础。 |
 > | [[John Dewey]] | 人物 | 继承爱默生的经验实践与反教条传统，系统构建[[Pragmatic Paradigm\|实用主义]]认识论的大师。 |
-> | [[Alexander Karp]] | 人物 | 将爱默生自立哲学[[Transfer Translation Transformation\|转译]]为硅谷高科技企业治理与反从众工程文化的思想家。 |
+> | [[Alexander Karp]] | 人物 | 将爱默生自立哲学转译为硅谷高科技企业治理与反从众工程文化的思想家。 |
 > | [[Nicholas Zamiska]] | 人物 | 共同探讨爱默生哲学对当代[[Technological Republic\|技术共和国]]复兴启示的合著者。 |

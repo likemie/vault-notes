@@ -8,7 +8,7 @@ aliases:
 summary: "以纽约市为核心的世界级金融与创新湾区，经历制造业中心到金融中心再到全球科技创新高地的多次转型，依托雄厚的金融资本、精准的市政产业税费激励、顶尖高等教育应用科学计划与高校孵化器网络，形成金融科技驱动与产学研深度协同的复合型创新生态系统。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 16
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Tokyo Bay Area]]"
   - "[[Technology Transfer]]"
   - "[[Apprenticeship]]"
-  - "[[Document]]"
   - "[[Engineering Education]]"
   - "[[STEM Education]]"
   - "[[Innovation Park]]"
@@ -83,7 +82,7 @@ updated: 2026-10-15
 > | **驱动机制** | [[Technology Transfer\|大学技术转移]] + 风险投资 + 自发企业衍生 | 雄厚金融资本保障 + 市场应用场景牵引 | 产官学紧密协同 + 跨国大财团内部研发 |
 > | **高教载体** | 斯坦福大学、加州大学伯克利分校（自发溢出） | 哥伦比亚大学、康奈尔科技校区、[[McGovern Center for Venture Development\|麦戈文孵化器]] | 东京大学、筑波大学（[[Apprenticeship\|师徒制]]与产官学基地） |
 > | **政策工具** | 禁止竞业限制法律、ABAG 跨区域协商 | 市政定向减税、[[Applied Sciences NYC\|应用科学计划]]公私合营 | 国家工业分散战略、《[[Act on the Promotion of Technology Transfer from Universities to Private Business Operators\|大学技术转让促进法]]》 |
-> | **代表[[Document\|文献]]** | [[Argument_Zhang_2023_PHEI\|张寒旭等 (2023)]] | 张寒旭等 | 张寒旭等 |
+> | **代表文献** | [[Argument_Zhang_2023_PHEI\|张寒旭等 (2023)]] | 张寒旭等 | 张寒旭等 |
 
 ---
 
@@ -190,13 +189,13 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Zhang_2023_PHEI\|张寒旭等 (2023, 第4章)]] | 纽约湾区科技金融、产业政策与产学研成效分析 | 跨国湾区比较研究与案例分析 | 研发投入规模、孵化企业量级、资本市场地位 | 摩根大通2015年后年均投入超90亿美元于前沿技术；[[McGovern Center for Venture Development\|麦戈文孵化中心]]成功孵化近百个高科技团队；拥有全球市值前两位的交易所（NYSE 与 NASDAQ） | 官方统计与学术[[Document\|文献]]梳理 | 证实金融资本与精准高教政策是推动特大都市科技转型的核心驱动力 |
+> | [[Argument_Zhang_2023_PHEI\|张寒旭等 (2023, 第4章)]] | 纽约湾区科技金融、产业政策与产学研成效分析 | 跨国湾区比较研究与案例分析 | 研发投入规模、孵化企业量级、资本市场地位 | 摩根大通2015年后年均投入超90亿美元于前沿技术；[[McGovern Center for Venture Development\|麦戈文孵化中心]]成功孵化近百个高科技团队；拥有全球市值前两位的交易所（NYSE 与 NASDAQ） | 官方统计与学术文献梳理 | 证实金融资本与精准高教政策是推动特大都市科技转型的核心驱动力 |
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] 核心来源[[Document|文献]]索引
+> [!evidence-grid-a] 核心来源文献索引
 > - [[Argument_Zhang_2023_PHEI|张寒旭等 (2023)]] — 系统剖析了纽约湾区从金融中心向科技高地转型的路径，重点总结了政府减税降费、[[Applied Sciences NYC|应用科学计划]]、[[McGovern Center for Venture Development|康奈尔大学麦戈文孵化器]]运作以及科技金融生态建设等关键经验。
 
 ---

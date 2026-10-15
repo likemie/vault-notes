@@ -9,7 +9,7 @@ aliases:
 summary: "历史制度主义与政治社会学核心概念，指行动者在具体情境中解释、运用、回避或遵从制度规则的实践过程；与形式规则设计形成结构性张力，源于规则不完备性、认知局限、策略性漏洞试探及反常现象的弹性容忍，是渐进制度变迁的微观动力源泉。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 17
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Institutional Drift]]"
   - "[[Institutional Conversion]]"
   - "[[Rule Ambiguity]]"
-  - "[[Hypothesis]]"
 related_theories:
   - "[[Historical Institutionalism]]"
   - "[[Theory of Gradual Institutional Change]]"
@@ -44,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-15
 ---
 
 # Rule Enactment
@@ -170,4 +169,4 @@ updated: 2026-10-11
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 正式形式化界定规则践行概念，系统提出导致设计与践行脱节的四重动力机制（pp. 13–16）。
-> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 继承规则践行中的缝隙[[Hypothesis|假设]]，深化建构[[Rule Ambiguity|制度模糊性]]与行动者策略博弈模型（pp. 10–14）。
+> - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 继承规则践行中的缝隙假设，深化建构[[Rule Ambiguity|制度模糊性]]与行动者策略博弈模型（pp. 10–14）。

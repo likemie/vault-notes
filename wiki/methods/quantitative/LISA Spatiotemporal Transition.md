@@ -9,20 +9,18 @@ summary: "一种基于Moran散点图像限转移矩阵的探索性时空数据�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 6
+method_related_count: 4
 method_related_level: 0
-method_related_stars: ""
+method_related_stars: "☆"
 method_related_color: "#dcfce7"
 tags:
   - method/spatial-analysis
   - method/panel-data
   - method/spatiotemporal
-related_concepts:
-  - "[[Hypothesis]]"
+related_concepts: []
 related_theories:
   - "[[Path Dependence]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[LISA Time Path]]"
   - "[[Analytic Framework]]"
 related_persons: []
@@ -32,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # LISA Spatiotemporal Transition
@@ -53,7 +51,7 @@ updated: 2026-10-09
 ## 研究程序
 
 > [!abstract]
-> LISA 时空转移分析分为四个步骤：象限[[Coding in Qualitative Research\|编码]] → 构建转移频率矩阵 → 分类计数 → 计算汇总指标。
+> LISA 时空转移分析分为四个步骤：象限编码 → 构建转移频率矩阵 → 分类计数 → 计算汇总指标。
 
 ### 第一步：象限编码
 
@@ -115,7 +113,7 @@ updated: 2026-10-09
 ## 资料与分析
 
 > [!info] 数据结构
-> 输入为 $n$ 个空间单元 $\times$ $T$ 个年份的象限标签矩阵 $Q_{n \times T}$（$Q_{i,t} \in \{0,1,2,3\}$，分别对应 HH/LH/LL/HL），以及可选的子系统标签（用于分子系统分析）。标签矩阵通过对各年份 Moran 散点图坐标[[Coding in Qualitative Research\|编码]]生成。
+> 输入为 $n$ 个空间单元 $\times$ $T$ 个年份的象限标签矩阵 $Q_{n \times T}$（$Q_{i,t} \in \{0,1,2,3\}$，分别对应 HH/LH/LL/HL），以及可选的子系统标签（用于分子系统分析）。标签矩阵通过对各年份 Moran 散点图坐标编码生成。
 
 > [!info] 软件实现
 
@@ -164,7 +162,7 @@ updated: 2026-10-09
 > - **Type3A vs Type3B** 需根据转移方向手动判定——LL→HH（同向好）和 HH→LL（同向差）均为 Type3A，HL→LH and LH→HL 为 Type3B
 > - **分子系统对比** 对外层循环包装——对每个子系统分别运行为 Q 赋值，独立构造 M 并计算指标
 > - **零行处理** 如果某行之和为 0（某象限从未出现），需在计算 P 时跳过该行（或填充 NaN）
-> - **统计检验** 可对转移矩阵做 $\chi^2$ 独立性检验（原[[Hypothesis\|假设]]：转移与起始象限无关），以判断转移是否显著偏离随机期望。同样可检验不同子系统之间的转移概率差异
+> - **统计检验** 可对转移矩阵做 $\chi^2$ 独立性检验（原假设：转移与起始象限无关），以判断转移是否显著偏离随机期望。同样可检验不同子系统之间的转移概率差异
 
 ---
 

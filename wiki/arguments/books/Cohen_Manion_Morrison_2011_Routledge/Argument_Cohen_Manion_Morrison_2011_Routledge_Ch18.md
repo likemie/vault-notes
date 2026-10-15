@@ -12,9 +12,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18"
 argument_display_title: "Research Methods in Education · Ch18"
 argument_kind: "book-chapter"
-argument_related_count: 62
-argument_related_level: 4
-argument_related_stars: "⭐⭐⭐⭐"
+argument_related_count: 59
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
 book_title: Research Methods in Education
 publication_place: London
@@ -50,12 +50,10 @@ related_concepts:
   - "[[Variable]]"
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
-  - "[[Hypothesis]]"
   - "[[Concurrency of Learning]]"
   - "[[Chain of Evidence]]"
   - "[[Epistemology]]"
   - "[[Ideal Speech Situation]]"
-  - "[[Document]]"
   - "[[Professional Judgment]]"
   - "[[Positivism]]"
   - "[[Praxis]]"
@@ -83,7 +81,6 @@ related_methods:
   - "[[Participatory Research]]"
   - "[[Case Study]]"
   - "[[Quantitative Research]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Pre-test and Post-test]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Longitudinal Study]]"
@@ -307,7 +304,7 @@ updated: 2026-10-08
 > - **原则三：自我反思的螺旋** 行动研究通过自我反思的螺旋发展：计划→行动（实施计划）→观察（系统性地）→反思……然后重新计划、进一步实施、观察和反思
 > - **原则六：系统的学习过程** 行动研究是系统的学习过程，人们有意识地行动，同时对意外保持开放并响应机会
 > - **原则七：对实践进行理论化** 行动研究涉及人们对自己的实践进行理论化，对环境、行动和后果保持好奇
-> - **原则八：证据检验** 行动研究要求人们通过收集令人信服的证据来检验自己的实践、观念和对制度的[[Hypothesis\|假设]]
+> - **原则八：证据检验** 行动研究要求人们通过收集令人信服的证据来检验自己的实践、观念和对制度的假设
 > - **原则九：对证据持开放态度** 行动研究对什么算作证据持开放态度，不仅包括尽可能准确描述发生情况的记录，还包括收集和分析自己的判断、反应和印象
 > - **原则十：个人日志** 行动研究涉及记录个人日志，记录进展和关于两组[[Concurrency of Learning\|并行学习]]的反思：关于所研究实践的学习，以及关于研究过程本身的学习
 >
@@ -412,7 +409,7 @@ PAR 的研究者角色（Weiskopf & Laske, 1996, p. 132–133）：促进者、�
 本节系统阐述[[Emancipatory Action Research|解放性行动研究]]的理论框架与实践程序——从哈贝马斯知识构成性兴趣出发建构的三分类型学、Zuber-Skerritt 四步循环与 Kincheloe 七步过程、[[Ideal Speech Situation|理想言说情境]]的六个前提，以及来自多位批评者的 17 条批评。
 
 > [!info] 批判理论渊源
-> 大量行动研究[[Document\|文献]]借鉴了法兰克福学派的[[Critical Theory\|批判理论]]（见第2章），尤其是哈贝马斯的工作。Weiskopf & Laske（1996, p. 123）在德国传统中将行动研究明确地定位为一种批判性社会科学。利用哈贝马斯关于知识构成性兴趣（knowledge-constitutive interests, 1972, 1974）的早期写作，可以建构行动研究的三分类型学（pp. 272–280）。
+> 大量行动研究文献借鉴了法兰克福学派的[[Critical Theory\|批判理论]]（见第2章），尤其是哈贝马斯的工作。Weiskopf & Laske（1996, p. 123）在德国传统中将行动研究明确地定位为一种批判性社会科学。利用哈贝马斯关于知识构成性兴趣（knowledge-constitutive interests, 1972, 1974）的早期写作，可以建构行动研究的三分类型学（pp. 272–280）。
 
 #### 三分类型学
 
@@ -541,7 +538,7 @@ Phelps & Graham（2010, p. 184）论证行动研究与[[Complexity Theory|复杂
 #### 历史起点：从 Blum 到 Lewin
 
 > [!info] Blum (1959) 与 Lewin 的历史起点
-> Blum（National Education Association of the United States, 1959）将行动研究分为两个简单阶段：**诊断阶段**，分析问题并发展假设；**治疗阶段**，通过有意识引导的干预或现场实验检验假设。[[Kurt Lewin\|勒温]]（Lewin, 1946, 1948）则将行动研究[[Coding in Qualitative Research\|编码]]为四个主要阶段：**计划、行动、观察和反思**（pp. 279–280）。
+> Blum（National Education Association of the United States, 1959）将行动研究分为两个简单阶段：**诊断阶段**，分析问题并发展假设；**治疗阶段**，通过有意识引导的干预或现场实验检验假设。[[Kurt Lewin\|勒温]]（Lewin, 1946, 1948）则将行动研究编码为四个主要阶段：**计划、行动、观察和反思**（pp. 279–280）。
 
 ---
 

@@ -7,7 +7,7 @@ summary: "英国哲学家与思想史家，牛津大学教授、沃尔夫森学�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 18
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Incommensurability]]"
   - "[[Commensuration]]"
   - "[[Grand Theory]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Technological Republic]]"
   - "[[Engineering Mindset]]"
 related_theories:
@@ -118,7 +117,7 @@ updated: 2026-10-15
 
 > [!case] 硅谷作为“终极之狐”：工程[[Epistemology|认识论]]对[[Grand Theory|宏大理论]]的超越
 > - **理论情境** 柏林指出人类思想界始终存在刺猬式一元统摄与狐狸式多维经验的根本对立。
-> - **工程[[Transfer Translation Transformation|转译]]与应用** [[Alexander Karp|亚历山大·卡普]]（[[Alexander Karp]]）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（[[Nicholas Zamiska]]）指出，硅谷乃至美国科技崛起的深层密码，正是其彻底内化了“终极之狐”（The Consummate Fox）的工程文化：工程师与创始人主动抛弃了宏大的世界哲学与先验教条，只专注于“构建能够实际运行的物理系统与代码”。因为软件的本质是非黑即白的——要么运行，要么崩溃，任何刺猬式的理论姿态与意识形态辩护在冰冷的代码报错面前都毫无意义。这种敏捷、务实与顺应物理反馈的狐狸品格，构成了[[Technological Republic|技术共和国]]战胜教条主义的根本认知优势。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 159–160)]]
+> - **工程转译与应用** [[Alexander Karp|亚历山大·卡普]]（[[Alexander Karp]]）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（[[Nicholas Zamiska]]）指出，硅谷乃至美国科技崛起的深层密码，正是其彻底内化了“终极之狐”（The Consummate Fox）的工程文化：工程师与创始人主动抛弃了宏大的世界哲学与先验教条，只专注于“构建能够实际运行的物理系统与代码”。因为软件的本质是非黑即白的——要么运行，要么崩溃，任何刺猬式的理论姿态与意识形态辩护在冰冷的代码报错面前都毫无意义。这种敏捷、务实与顺应物理反馈的狐狸品格，构成了[[Technological Republic|技术共和国]]战胜教条主义的根本认知优势。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 159–160)]]
 
 ---
 
@@ -151,5 +150,5 @@ updated: 2026-10-15
 > | [[Determinism]] | 概念 | 柏林批判的试图用单一因果法则统摄历史进程的决定论哲学。 |
 > | [[Engineering Mindset]] | 概念 | 将“狐狸式经验适应与抛弃宏大教条”确立为技术工程的核心认知法则。 |
 > | [[Philip Tetlock]] | 人物 | 将柏林的刺猬与狐狸隐喻转化为实证专家预测精度研究的政治心理学家。 |
-> | [[Alexander Karp]] | 人物 | 将柏林模型[[Transfer Translation Transformation\|转译]]为硅谷技术文化与反思意识形态决定论的思想家。 |
+> | [[Alexander Karp]] | 人物 | 将柏林模型转译为硅谷技术文化与反思意识形态决定论的思想家。 |
 > | [[Nicholas Zamiska]] | 人物 | 共同探讨狐狸式工程哲学对[[Technological Republic\|技术共和国]]复兴意义的合著者。 |

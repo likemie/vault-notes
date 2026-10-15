@@ -8,7 +8,7 @@ aliases:
 summary: "借鉴布朗芬布伦纳的生物生态学时间系统概念，阐明政策制定深受特定历史时空、社会危机与突发事件驱动的动态时间生态，解释政治决策极速响应与学术研究长周期之间的结构性时间错配"
 type: concept
 domain: "educational-policy-reform"
-related_count: 26
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,10 +21,8 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Policy Window]]"
   - "[[Champ]]"
-  - "[[Hypothesis]]"
   - "[[Academic Engagement]]"
   - "[[Policy Entrepreneur]]"
-  - "[[Document]]"
   - "[[Informationalization]]"
   - "[[Evidence-Based Education]]"
   - "[[Output-Oriented Governance]]"
@@ -53,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Policymaking Chronosystem
@@ -87,7 +85,7 @@ updated: 2026-10-12
 > [!contrast-table] 政策制定时间系统 vs. 线性理性政策模型 vs. 多源流机会之窗
 > | 维度 | 政策制定时间系统（Policymaking Chronosystem） | 线性理性模型（Linear Rational Model） | 多源流机会之窗（[[Policy Window\|policy windows]]） |
 > |---|---|---|---|
-> | **核心[[Hypothesis\|假设]]** | 政策处于历史情境与突发危机驱动的动态时间生态中 | 政策按照“问题识别-方案评估-执行-反馈”按序演进 | 三个独立流（问题、政策、政治）偶然交汇开启窗口 |
+> | **核心假设** | 政策处于历史情境与突发危机驱动的动态时间生态中 | 政策按照“问题识别-方案评估-执行-反馈”按序演进 | 三个独立流（问题、政策、政治）偶然交汇开启窗口 |
 > | **时间特征** | 非线性、双速并存（急性危机突发 vs. 宏观周期漫长） | 匀速推进、阶段顺延、高度可预期 | 随机开启、稍纵即逝、不可预测 |
 > | **证据定位** | 支撑既定政治立场与口号的“合法化燃料” | 决定政策选择的最优理性判准与处方依据 | 政策流中待价而沽的现成备选方案（Soup） |
 > | **决策者心理** | 迅速表态锁定立场，承担极高的政治反转代价 | 审慎搜集全量证据，追求效用最大化 | 寻找能够契合当前政治时机的政策方案 |
@@ -120,7 +118,7 @@ updated: 2026-10-12
 > |---|---|---|
 > | **时间跨度** | 历时数年乃至十年，经过多轮严格审阅与系统复现 | 数小时至数周快速表态，或受制于两年一届的国会任期周期 |
 > | **证据门槛** | 追求因果识别净效应与金标准[[Randomised Controlled Trials\|随机对照试验]] | 追求相关性、及时性、公众说服力与政治契合度 |
-> | **面对不确定性** | 强调边界局限、待定[[Hypothesis\|假设]]与追加研究的必要性 | 决策表态必须明确笃定，无法容忍模棱两可与冗长保留声明 |
+> | **面对不确定性** | 强调边界局限、待定假设与追加研究的必要性 | 决策表态必须明确笃定，无法容忍模棱两可与冗长保留声明 |
 > | **行动驱动力** | 学术同行评议与真理积累 | 选民呼声、意识形态诉求与突发公共危机 |
 
 ---
@@ -135,7 +133,7 @@ updated: 2026-10-12
 > 政策制定并非从容不迫的真理探寻过程，特定历史节点的危机冲击要求政客以极速应对换取生存，进而重构了实证证据的功能定位。
 
 > [!claim] [[Argument_Serpell_2020_EP\|Serpell (2020)]]
-> **危机激活下的立场锁定与证据燃料功能** 借鉴[[Urie Bronfenbrenner\|布朗芬布伦纳]]的人类发展历时系统构想，政策演进深受特定时空节点突发事件的支配。当桑迪胡克校园枪击案或卡特里娜飓风等危机爆发时，联邦教育治理被瞬间激活。民选官员必须在数小时内公开定调以回应选民恐慌；一旦公开表态，退缩或保持中立将招致严厉政治惩罚。在这一极端压缩的历时节点，立法者绝无耐心等待学者开展漫长的[[Document\|文献]]梳理，而是本能地检索并策略性援引能够证明其既定主张合理的证据，将实证数据转化为强化政治口号（Mantra）的燃料。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 42)]]
+> **危机激活下的立场锁定与证据燃料功能** 借鉴[[Urie Bronfenbrenner\|布朗芬布伦纳]]的人类发展历时系统构想，政策演进深受特定时空节点突发事件的支配。当桑迪胡克校园枪击案或卡特里娜飓风等危机爆发时，联邦教育治理被瞬间激活。民选官员必须在数小时内公开定调以回应选民恐慌；一旦公开表态，退缩或保持中立将招致严厉政治惩罚。在这一极端压缩的历时节点，立法者绝无耐心等待学者开展漫长的文献梳理，而是本能地检索并策略性援引能够证明其既定主张合理的证据，将实证数据转化为强化政治口号（Mantra）的燃料。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 42)]]
 
 ---
 
@@ -208,7 +206,7 @@ updated: 2026-10-12
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Serpell_2020_EP\|Serpell (2020)]] — 奠基性[[Document\|文献]]：提出政策制定时间系统概念，系统剖析科学发现周期与政策时效的断层，构建整合突发事件与重大法案周期的四阶段[[Navigational Framework for Educational Researchers\|政策导航框架]]。
+> - [[Argument_Serpell_2020_EP\|Serpell (2020)]] — 奠基性文献：提出政策制定时间系统概念，系统剖析科学发现周期与政策时效的断层，构建整合突发事件与重大法案周期的四阶段[[Navigational Framework for Educational Researchers\|政策导航框架]]。
 > - Bronfenbrenner & Ceci (1994) — 理论源头：提出人类发展的[[Ecological Systems Theory\|生物生态学模型]]与历时系统（Chronosystem）构想。
 > - Weiss (1977) — 阐明公共政策本质关乎价值选择，奠定证据作为政治正当化工具的理论先驱。
 > - Dynarski et al. (2007) — 实证案例：揭示长达近十年的教育软件大型 [[Randomised Controlled Trials\|RCT]] 报告在公布时已面临技术全面过时的困境。

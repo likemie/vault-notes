@@ -7,7 +7,7 @@ summary: "利用学年 vs 暑假作为自然实验的准实验研究设计，比
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 9
+method_related_count: 8
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Causality]]"
   - "[[Counterfactual]]"
-  - "[[Hypothesis]]"
   - "[[Floor and Ceiling Effects]]"
 related_theories: []
 related_methods:
@@ -34,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-09-18
+updated: 2026-10-15
 ---
 
 ## 定义
@@ -85,7 +84,7 @@ updated: 2026-09-18
 ## 局限性
 
 > [!warning] 局限性
-> [[Argument_Downey_2016_SoE\|Downey & Condron (2016, pp.4–5)]] 明确讨论了季节性比较方法依赖的关键[[Hypothesis\|假设]]及潜在问题：
+> [[Argument_Downey_2016_SoE\|Downey & Condron (2016, pp.4–5)]] 明确讨论了季节性比较方法依赖的关键假设及潜在问题：
 
 
 > [!warning] 处理溢出（Treatment Spillover）

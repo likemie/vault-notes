@@ -8,7 +8,7 @@ summary: "19 世纪德国著名历史学派经济学家、后发国家追赶与�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 13
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[National Innovation System]]"
   - "[[Paradigm]]"
   - "[[Intellectual Capital]]"
-  - "[[Hypothesis]]"
 related_theories:
   - "[[Systems of Innovation]]"
   - "[[Evolutionary Economics]]"
@@ -41,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-15
 ---
 
 # Friedrich List
@@ -153,4 +152,4 @@ updated: 2026-10-05
 > | [[National Innovation System]] | 概念 | 奠定了国家主导技术学习、教育建制与产业协调的分析雏形。 |
 > | [[Intellectual Capital]] | 概念 | 率先提出人类智力资本的世代积累决定国家生产力水平。 |
 > | [[Systems of Innovation]] | 理论 | 提供了将制度、教育、科学与产业网络整合考察的政治经济学根基。 |
-> | [[Evolutionary Economics]] | 理论 | 以生产力演进与能力积累替代古典静止均衡[[Hypothesis\|假设]]。 |
+> | [[Evolutionary Economics]] | 理论 | 以生产力演进与能力积累替代古典静止均衡假设。 |

@@ -13,7 +13,7 @@ subtype: program
 region: "germany"
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 19
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -26,7 +26,6 @@ tags:
   - theme/educational-monitoring
   - theme/competence-assessment
 related_concepts:
-  - "[[Transfer Translation Transformation]]"
   - "[[Cognitive Decoupling]]"
   - "[[Discourse]]"
   - "[[Center of Calculation]]"
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # IQB-Bildungstrend
@@ -76,7 +75,7 @@ updated: 2026-10-08
 ## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
-> [[Institute for Educational Quality Improvement\|IQB]]-Bildungstrend 通过基于[[Item Response Theory\|项目反应理论]]（Item Response Theory, IRT）的常模标定与素养层级划分（Kompetenzstufen），将各州异质的教学大纲与学业产出[[Transfer Translation Transformation\|转译]]为全国统一尺度的达标率（最低标准、基础标准、适切标准、卓越标准），形成透明的跨州学业镜像与政策反思依据（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 143–144]]）。
+> [[Institute for Educational Quality Improvement\|IQB]]-Bildungstrend 通过基于[[Item Response Theory\|项目反应理论]]（Item Response Theory, IRT）的常模标定与素养层级划分（Kompetenzstufen），将各州异质的教学大纲与学业产出转译为全国统一尺度的达标率（最低标准、基础标准、适切标准、卓越标准），形成透明的跨州学业镜像与政策反思依据（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 143–144]]）。
 
 > [!policy-design]- 方案设计
 > - **测评轮替周期**

@@ -10,14 +10,13 @@ subtype: event
 region: singapore
 fact_region: "singapore"
 fact_kind: "event"
-fact_related_count: 13
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
 tags: [region/singapore, theme/international-education, theme/institution-building, theme/international-schools]
 related_concepts:
   - "[[International Schools]]"
-  - "[[Teaching Assistant]]"
   - "[[International Baccalaureate]]"
   - "[[International Education]]"
 related_theories: []
@@ -27,8 +26,6 @@ related_persons:
   - "[[Louis Mountbatten]]"
   - "[[Lee Kuan Yew]]"
   - "[[Desmond Hoare]]"
-  - "[[Peter A. Hall]]"
-  - "[[Paul Pierson]]"
 related_facts:
   - "[[United World Colleges]]"
   - "[[United World Colleges Associated Schools Policy 1977]]"
@@ -38,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-01
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Transformation of Singapore International School into United World College of South East Asia
@@ -62,14 +59,14 @@ updated: 2026-10-12
 > [!dev-timeline]- 从校园复制到整校加入
 > - **1970 年 3 月　圣约翰合作进入政府沟通** 蒙巴顿致函[[Lee Kuan Yew|李光耀]]，建议把圣约翰建设为服务东南亚的 [[United World Colleges\|UWC]]。李光耀说明校址已经交给英国欧洲协会（British European Association）筹建外籍社群[[International Schools\|国际学校]]，但同意研究合作。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 110–111)]]
 > - **1970 年 7 月　校内高中部成为互补方案** 国际学校担心生源不足以维持十一、十二年级，UWC 需要区域基地。双方考虑由国际学校提供校址和基础设施，UWC 以国际寄宿生补足高中规模。
-> - **1970 年 8 月　樟宜重新激活独立书院设想** 汉基、[[Peter A. Hall|霍尔]]和戴维·威尔斯（David Wills）判断圣约翰空间不足，转而考察具有住宿、运动场、泳池和海岸通道的樟宜设施。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 111–112)]]
+> - **1970 年 8 月　樟宜重新激活独立书院设想** 汉基、霍尔和戴维·威尔斯（David Wills）判断圣约翰空间不足，转而考察具有住宿、运动场、泳池和海岸通道的樟宜设施。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 111–112)]]
 > - **1970 年秋　资本、生源和土地否决樟宜** 英国政府拒绝承担改建费，新加坡只能有限接收本国奖学金生，周边国家难以持续提供学生和资助。李光耀明确否决占用大面积土地的三百人方案，要求恢复圣约翰谈判。
 > - **1970 年 10 月　整校关联取代独立高中部** 国际学校坚持自己负责完整高中教育。双方同意由整所学校成为 UWC 关联学校，区域国家委员会为高中部选拔并资助寄宿生。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 113–114)]]
-> - **1971 年 1 月　人员嵌入学校治理** 梅里格·欧文（Meurig Owen）和约翰·戴维（John David）由大西洋学院进入新加坡，分别担任校长和教务主任，另有四名毕业生担任[[Teaching Assistant\|助教]]。
+> - **1971 年 1 月　人员嵌入学校治理** 梅里格·欧文（Meurig Owen）和约翰·戴维（John David）由大西洋学院进入新加坡，分别担任校长和教务主任，另有四名毕业生担任助教。
 > - **1971 至 1972 年　奖学金与区域代表未达设想** 国际学校董事会没有继续要求落实十名新加坡学生的私校政策例外。1972 年九名 UWC 奖学金生中六名来自澳大利亚，另外三名分别来自意大利、西班牙和英国，没有东南亚学生。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, p. 115)]]
 > - **1974 年　模糊关联必须收束** 蒙巴顿认为长期维持关联既不能保证共同标准，也不能充分承认学校投入，提出终止关系或接纳整所学校两种选择。
 > - **1974 年 5 至 11 月　课程与奖学金成为加入条件** 国际董事会要求学校引入[[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）并增加 UWC 奖学金生。IB 在年内启动，国际董事会随后建议正式接纳。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 115–116)]]
-> - **1975 年 4 月　正式成员身份确认** 温哥华岛国际理事会批准东南亚联合世界书院（United World College of South East Asia）加入。它与[[Paul Pierson|皮尔逊]]书院在同次会议取得正式地位。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, p. 117)]]
+> - **1975 年 4 月　正式成员身份确认** 温哥华岛国际理事会批准东南亚联合世界书院（United World College of South East Asia）加入。它与皮尔逊书院在同次会议取得正式地位。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, p. 117)]]
 
 ---
 

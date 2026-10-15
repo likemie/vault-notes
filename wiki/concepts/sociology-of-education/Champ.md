@@ -20,13 +20,13 @@ tags:
   - region/france
   - level/higher-ed
 related_concepts:
-  - "[[Habitus]]"
   - "[[Tacit Knowledge]]"
   - "[[School Leadership]]"
   - "[[Knowledge Production]]"
   - "[[Credential Inflation]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
+  - "[[Habitus]]"
   - "[[Determinism]]"
   - "[[Operationalization]]"
   - "[[New Public Management]]"
@@ -75,7 +75,7 @@ updated: 2026-10-14
 
 - **1950s–1960s 阿尔及利亚／Kabylie 早期田野** — 在 *Sociologie de l'Algérie*（1958）和 Kabylie 民族志中，Bourdieu 首次观察到婚姻策略、荣誉竞争等在不同社会空间中遵循各自的规则，为场域概念的萌生奠定了经验基础
 - **Weber 的"生活秩序"（Lebensordnungen）** — 场域概念部分借鉴 Weber 对现代社会分化为各自遵循自身逻辑的相对自主领域（宗教、经济、政治、艺术、科学）的分析，但以关系性思维取代了实质主义倾向
-- ***Choses dites*（1987）** — Bourdieu 在此书中明确宣布其方法论公式为**结构主义建构论（structuralisme constructiviste）**，并以公式提出实践理论的核心关系式：[([[Habitus|习性]])(资本)] + 场域 = 实践，场域概念至此完全成熟
+- ***Choses dites*（1987）** — Bourdieu 在此书中明确宣布其方法论公式为**结构主义建构论（structuralisme constructiviste）**，并以公式提出实践理论的核心关系式：[(习性)(资本)] + 场域 = 实践，场域概念至此完全成熟
 - ***Les Règles de l'art*（1992）** — 以福楼拜和 19 世纪法国文学场域诞生的精细历史分析，展示了场域自主性的生成过程和 illusio 概念的重要性
 
 ---
@@ -95,7 +95,7 @@ updated: 2026-10-14
 ## 理论基础
 
 > [!tip]-
-> - wiki-[[Pierre Bourdieu]] — 场域是 Bourdieu 实践理论三位一体框架（场域-[[Habitus\|习性]]-资本）的结构维度。场域塑造了特定类型的习性，习性则使行动者在场域中产生"合拍"的实践感（feel for the game）；不同场域赋予不同类型的资本以不同的价值。
+> - wiki-[[Pierre Bourdieu]] — 场域是 Bourdieu 实践理论三位一体框架（场域-习性-资本）的结构维度。场域塑造了特定类型的习性，习性则使行动者在场域中产生"合拍"的实践感（feel for the game）；不同场域赋予不同类型的资本以不同的价值。
 
 ---
 

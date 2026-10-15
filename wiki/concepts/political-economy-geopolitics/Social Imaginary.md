@@ -11,7 +11,7 @@ aliases:
 summary: "指人们想象自身社会存在、与他人关系及规范性期待的共享话语与实践图景。在教育治理中，跨国组织通过融合内生增长理论与经验现实建构知识经济社会想象，依托统计指标与等值空间制造政策常识，并将实质社会正义工具化为经济效率的附属品。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 64
+related_count: 60
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Steering at a Distance]]"
   - "[[Public Value]]"
   - "[[Governing by Numbers]]"
-  - "[[Bildung]]"
   - "[[Commensuration]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Space of Equivalence]]"
@@ -51,12 +50,10 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Geopolitics of Higher Education]]"
   - "[[Democratic Education]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Construct]]"
   - "[[New Public Management]]"
   - "[[Student Mobility]]"
   - "[[Geopolitics of Knowledge]]"
-  - "[[Document]]"
   - "[[Banal Imperialism]]"
   - "[[Navigation Metaphor in Comparative Education]]"
   - "[[Normative Paradigm]]"
@@ -70,7 +67,6 @@ related_theories:
   - "[[Social Capital Theory]]"
 related_methods:
   - "[[Meta-analysis]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Discourse Analysis]]"
   - "[[Ethnography]]"
   - "[[Effect Size]]"
@@ -94,7 +90,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-04-13
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Social Imaginary
@@ -129,7 +125,7 @@ updated: 2026-10-14
 > | 维度 | 本概念（Social Imaginary） | 社会理论（Social Theory） | 传统意识形态（Ideology） | [[Governing by Numbers\|数字治理（Governing by Numbers）]] |
 > |---|---|---|---|---|
 > | **载体与存在形态** | 共享意象、常识叙事、政策[[Discourse\|话语]]与制度惯例 | 抽象命题、专业概念与形式化公理系统 | 政治信条、党派纲领与阶级教条体系 | 统计指标、量化基准、数据库与排行榜 |
-> | **合法化机制** | 描述性趋势与规范期待滑动，调用日常情感常识 | 严密的逻辑演绎、概念界定与实证检验 | 权威宣称、政治灌输与正统性[[Bildung\|教化]] | 技术[[Commensuration\|通约]]、统计等值构建与客观科学中立表象 |
+> | **合法化机制** | 描述性趋势与规范期待滑动，调用日常情感常识 | 严密的逻辑演绎、概念界定与实证检验 | 权威宣称、政治灌输与正统性教化 | 技术[[Commensuration\|通约]]、统计等值构建与客观科学中立表象 |
 > | **主体范围** | 广大公众、官僚技术官僚与政策行动者共享 | 少数专业知识分子与学术共同体持有 | 特定政治阶级、政党或统治集团主导 | 统计学家、评估官僚与各级行政管理者 |
 > | **在跨国治理中的功能** | 确立新自由主义全球化的认知图式与政策常识 | 提供特定学说资源（如[[New Growth Theory\|内生新增长理论]]） | 提供直接的政治合法化辩护修辞 | 作为社会想象的技术物质化装置落实远处掌舵 |
 
@@ -189,7 +185,7 @@ updated: 2026-10-14
 > 剖析社会想象如何深刻重构了什么是合法知识的[[Epistemic Ideals|认识论标准]]，促使课程教学从系统学科知识转向面向劳动力市场的实用操作技能。
 
 > [!claim] Rizvi, F. & Lingard, B.
-> **认识论转向与学习型经济的建构** 里兹维与林加德（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）揭示，知识经济的社会想象不仅重构了宏观政策，更在认识论深层重构了“合法知识”的定义。伴随新增长理论对技术内生化的强调，学习重心发生了根本性断裂：从正规、[[Coding in Qualitative Research|编码]]化、以学科传统为基础的“[[Knowledge-that and Know-how-to|知其然]]”（knowing that），全面倒向了模块化、网络化、直接面向劳动力市场应用与商业创新的“知其所以操作”（[[Procedural Knowledge|knowing how]]）。在这一认知图式下，传统固定学制的教育形态被判定为僵化过时，民族国家被敦促转型为以持续再培训与自担风险为特征的“学习型经济”（[[Learning Economy]]），使得[[Lifelong Learning|终身学习]]演化为劳动者为了维持自身[[Employability|就业能力]]而不得不背负的终身强制投资。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–446)]]
+> **认识论转向与学习型经济的建构** 里兹维与林加德（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）揭示，知识经济的社会想象不仅重构了宏观政策，更在认识论深层重构了“合法知识”的定义。伴随新增长理论对技术内生化的强调，学习重心发生了根本性断裂：从正规、编码化、以学科传统为基础的“[[Knowledge-that and Know-how-to|知其然]]”（knowing that），全面倒向了模块化、网络化、直接面向劳动力市场应用与商业创新的“知其所以操作”（[[Procedural Knowledge|knowing how]]）。在这一认知图式下，传统固定学制的教育形态被判定为僵化过时，民族国家被敦促转型为以持续再培训与自担风险为特征的“学习型经济”（[[Learning Economy]]），使得[[Lifelong Learning|终身学习]]演化为劳动者为了维持自身[[Employability|就业能力]]而不得不背负的终身强制投资。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–446)]]
 
 ---
 
@@ -236,7 +232,7 @@ updated: 2026-10-14
 > > - **意识形态建构与霸权论（批判政策社会学立场）** 批判学者指出，这一社会想象刻意掩盖了全球化背后的政治价值选择与结构性剥削，通过描述性与规范性话语的悄然滑移，将特定的新自由主义资本积累逻辑伪装为普世必然规律，在客观性的幌子下消解了[[Democratic Education|民主教育]]治理的严肃政治辩论。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 440–441, 444–446)]]
 >
 > > [!axis] 宏观社会想象霸权与微观地方本土能动性的张力
-> > 围绕侧重跨国话语解构的研究取向是否低估了民族国家与一线学校在微观日常中的本土[[Transfer Translation Transformation|转译]]与抗争潜能。
+> > 围绕侧重跨国话语解构的研究取向是否低估了民族国家与一线学校在微观日常中的本土转译与抗争潜能。
 > >
 > > - **宏观结构霸权批判视角** 强调超国家组织与跨国[[Policy Network|政策网络]]拥有无与伦比的议程设置与远处掌舵威权，一旦知识经济社会想象与量化指标深嵌于国家官僚体制，地方实践者往往被迫屈从于绩效考核逻辑。
 > > - **本土能动性与转译视角** 部分比较教育与[[Ethnography|民族志]]学者指出，全球社会想象在进入具体民族国家与地方学校时，必然经历多标度的本土“转译”、“折射”甚至抵制，并非完全单向度的同质化复制。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 91, 100–102)]]
@@ -258,7 +254,7 @@ updated: 2026-10-14
 > |---|---|---|---|---|---|---|
 > | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009)]] | [[OECD\|经合组织]] 1960–2008 年官方旗舰出版物（如 1995 *Governance in Transition*、1996 *The Knowledge-Based Economy*、PISA 技术报告） | 历史比较政策社会学与批判话语分析 | 社会想象、[[Economic Fundamentalism\|经济基要主义]]、跨国[[Space of Equivalence\|等值空间]]、远处掌舵 | 1995 年报告确立[[New Public Management\|新公共管理]]原则；1996 年报告正式将知识内生化并确立“知其操作”与[[Lifelong Learning\|终身学习]][[Discourse\|话语]]；[[PISA]] 2000 起构建 500 分跨国均值等值空间；性别与社会资本议题在文本中完全被生产率与就业率话语吸纳 | 证实经合组织从战后社会民主协商平台演进为具有独立政治议程的跨国政策行动者，通过[[Knowledge-Based Economy\|知识经济]]社会想象与[[Governing by Numbers\|数字治理]]重塑全球教育政策议程 | 聚焦宏观超国家文本与治理话语演变，不涵盖课堂微观互动数据 |
 > | [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] | 过去三十年亚洲主要高等教育系统与跨国留学政策话语演变（中国、印度、新加坡及西方接收国） | [[Critical Geopolitics\|批判地缘政治学]]与多标度话语分析 | 国际化双重理性（发展主义 vs 市场理性）、跨国科研合作理性缝合 | 国际[[Student Mobility\|学生流动]]从战后援助性质的奖学金模式全面转向全额学费出口产业；跨国科研合作话语中学者兴趣、大学声誉、国家外贸与公共外交四重理性无缝融合 | 论证亚洲崛起构成了重塑全球高等教育系统与[[Geopolitics of Knowledge\|知识地缘政治]]格局的独立因果力量 | 侧重宏观与中观地缘战略话语，微观留学生主体经验有待延伸 |
-> | [[Argument_Klerides_2023_CE\|Klerides (2023)]] | 冷战及后冷战时代比较教育学科代表性[[Document\|文献]]与国际组织咨询历史档案 | 学科史与[[Wight's Three Traditions of International Theory\|国际关系理论]]透镜分析 | 知识新帝国、[[Banal Imperialism\|平庸帝国主义]]、[[Navigation Metaphor in Comparative Education\|航海隐喻]]解构 | 经合组织从 [[Mediterranean Regional Project\|MRP]] 项目到 PISA，系统收编战后欧洲超然比较教育学界网络；比较学者从提供多元制度图景的“航海家”退化为对标量化排名的技术官僚 | 证实超国家组织通过量化基准与政策话语深刻重塑了比较教育学科的[[Knowledge Production\|知识生产]]与咨询伦理 | 聚焦学科史与[[Epistemology\|认识论]]反思 |
+> | [[Argument_Klerides_2023_CE\|Klerides (2023)]] | 冷战及后冷战时代比较教育学科代表性文献与国际组织咨询历史档案 | 学科史与[[Wight's Three Traditions of International Theory\|国际关系理论]]透镜分析 | 知识新帝国、[[Banal Imperialism\|平庸帝国主义]]、[[Navigation Metaphor in Comparative Education\|航海隐喻]]解构 | 经合组织从 [[Mediterranean Regional Project\|MRP]] 项目到 PISA，系统收编战后欧洲超然比较教育学界网络；比较学者从提供多元制度图景的“航海家”退化为对标量化排名的技术官僚 | 证实超国家组织通过量化基准与政策话语深刻重塑了比较教育学科的[[Knowledge Production\|知识生产]]与咨询伦理 | 聚焦学科史与[[Epistemology\|认识论]]反思 |
 
 ---
 
@@ -291,6 +287,6 @@ updated: 2026-10-14
 > | [[Bob Lingard]] | Person | 与里兹维长期合作、系统解构[[OECD\|经合组织]]社会想象与数字治理跨国等值空间的学者。 |
 > | [[OECD]] | Fact | 生产、包装并全球输出知识经济社会想象的核心超国家政策行动者。 |
 > | [[PISA]] | Fact | 使知识经济社会想象获得全球性展演力与高利害问责实效的旗舰评估工程。 |
-> | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009)]] | Argument | 奠定全球教育政策社会想象分析[[Paradigm\|范式]]的里程碑[[Document\|文献]]。 |
+> | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009)]] | Argument | 奠定全球教育政策社会想象分析[[Paradigm\|范式]]的里程碑文献。 |
 > | [[Argument_Rizvi_2022_Springer\|Rizvi (2022)]] | Argument | 将社会想象与批判地缘政治学相结合解析亚洲高教转型的代表文献。 |
 

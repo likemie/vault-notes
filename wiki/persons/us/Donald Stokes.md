@@ -9,7 +9,7 @@ summary: "美国政治学家、公共政策学者，普林斯顿大学伍德罗�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 45
+person_related_count: 43
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -40,7 +40,6 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Discourse]]"
   - "[[Pragmatic Paradigm]]"
-  - "[[Document]]"
 related_theories:
   - "[[Pasteur's Quadrant]]"
   - "[[Developmental Network State]]"
@@ -52,7 +51,6 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Michael Kratsios]]"
-  - "[[Alfred Nobel]]"
   - "[[Vannevar Bush]]"
   - "[[Fred Block]]"
   - "[[Venkatesh Narayanamurti]]"
@@ -96,7 +94,7 @@ created: 2026-10-02
 > *"In 1997, Donald Stokes's book Pasteur's Quadrant: Basic Science and Technological Innovation was published posthumously. In this work, Stokes argued that scientific efforts were best carried out in what he termed 'Pasteur's Quadrant,' where researchers are motivated simultaneously by expanding understanding and increasing applied capabilities."*
 
 > [!citation-card] [[Michael Kratsios|克拉齐奥斯]]论斯托克斯巴斯德象限在智能时代的支配地位
-> 历史上的科学突破屡屡展现出双重驱动特征：路易·巴斯德在探究酒类变质实用工艺中开创现代微生物学；[[Bell Labs|贝尔实验室]]在解决通信放大器件时发明晶体管；克劳德·香农在优化电报传输中创立信息论。2024 年[[Alfred Nobel|诺贝尔]]化学奖表彰的蛋白质结构预测算法（AlphaFold）以及 2025 年诺贝尔物理学奖表彰的超导量子器件，均兼具宏大的理论雄心与明确的现实应用指向。唐纳德·斯托克斯所界定的巴斯德象限——即由应用驱动但同时探究根本机理的研究，已占据当代科学前沿的支配地位，证明传统单向线性资助模型必须彻底重组。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 7)]]
+> 历史上的科学突破屡屡展现出双重驱动特征：路易·巴斯德在探究酒类变质实用工艺中开创现代微生物学；[[Bell Labs|贝尔实验室]]在解决通信放大器件时发明晶体管；克劳德·香农在优化电报传输中创立信息论。2024 年诺贝尔化学奖表彰的蛋白质结构预测算法（AlphaFold）以及 2025 年诺贝尔物理学奖表彰的超导量子器件，均兼具宏大的理论雄心与明确的现实应用指向。唐纳德·斯托克斯所界定的巴斯德象限——即由应用驱动但同时探究根本机理的研究，已占据当代科学前沿的支配地位，证明传统单向线性资助模型必须彻底重组。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 7)]]
 >
 > *Donald Stokes's Pasteur's Quadrant—research inspired by use while simultaneously pursuing fundamental mechanism understanding—has come to dominate the frontier of contemporary science... proving the bankruptcy of rigid linear funding models.*
 
@@ -188,7 +186,7 @@ created: 2026-10-02
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关[[Document|文献]]索引
+> [!evidence-grid-a] 相关文献索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 在《游泳逆流：[[Developmental Network State|发展型网络国家]]在美国的崛起》中吸收斯托克斯[[Stokes' Quadrant Model of Scientific Research|巴斯德象限模型]]，从后工业政治经济学视角论证现代重大突破均发生在[[Use-Inspired Basic Research|应用启发的基础研究]]象限，为联邦跨部门公共研发网络主动介入[[Valley of Death|死亡之谷]]、开展概念验证与网络撮合确立了技术[[Epistemology|认识论]]基石。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 将斯托克斯[[Pasteur's Quadrant|巴斯德象限]]确立为白宫 2026 年科技体制重构报告的核心理论支柱，论证晶体管、信息论、AlphaFold 及量子器件的双重驱动特征，并以此为依据提出重组联邦资助机构、设立中等规模工程科学组织与闭环自主实验室的系统方案。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从[[Social Contract of Science|科学社会契约]]演化视角，论述斯托克斯[[Pasteur's Quadrant|巴斯德象限]]如何成为 1990 年代美国应对冷战终结与赤字攀升、推动科学与社会“重新签约”并构建复合型契约的核心[[Epistemology|认识论]]支柱。

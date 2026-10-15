@@ -11,7 +11,7 @@ summary: "利用初始接触人的社会网络逐层扩展样本的非概率抽�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 38
+method_related_count: 36
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Research Ethics]]"
   - "[[Cultural Capital]]"
   - "[[Rich and Thick Description]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[School Choice]]"
   - "[[Champ]]"
   - "[[Screening Off]]"
@@ -47,7 +46,6 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[In-depth Interview]]"
   - "[[Grounded Theory]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Triangulation]]"
   - "[[Sampling Frame]]"
   - "[[Convenience Sampling]]"
@@ -63,7 +61,7 @@ related_theories: []
 related_facts: []
 status: draft
 created: 2026-06-22
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Snowball Sampling
@@ -97,7 +95,7 @@ updated: 2026-10-08
 > [!method-stack] 方法层级
 > - **研究设计** 质性[[Case Study\|案例研究]]、[[Critical Ethnography\|批判民族志]]或[[Mixed Methods Research\|混合方法研究]]中的探索性定性设计。
 > - **数据收集** 半结构化[[In-depth Interview\|深度访谈]]、非正式访谈、观察笔记与参与者网络追踪。
-> - **分析方法** 配合[[Grounded Theory\|扎根理论]]、主题[[Coding in Qualitative Research\|编码]]分析、叙事重构或社会网络关系图解。
+> - **分析方法** 配合[[Grounded Theory\|扎根理论]]、主题编码分析、叙事重构或社会网络关系图解。
 > - **辅助技术** 多起点起点种子分流技术、多波次控制技术，以及受访者驱动抽样与声誉评议技术的结合。
 
 ---
@@ -125,7 +123,7 @@ updated: 2026-10-08
 
 > [!proc] 质性分析程序
 > 1. **录音[[Transcription in Qualitative Research\|转录]]与匿名化** 将[[In-depth Interview\|深度访谈]]录音整理为文字，对学校、教师、家长及涉及的关系人姓名做去标识化处理。
-> 2. **主题[[Coding in Qualitative Research\|编码]]分析** 提取学校撤并历史、陪读经济成本、社会资本关系网络求学渠道以及[[Cultural Capital\|文化资本]]边缘化等核心概念。
+> 2. **主题编码分析** 提取学校撤并历史、陪读经济成本、社会资本关系网络求学渠道以及[[Cultural Capital\|文化资本]]边缘化等核心概念。
 > 3. **[[Triangulation\|三角互证]]** 将家长陈述、城乡教师评估与当地教育局官员反馈进行交叉比对，核实求学过程中的资本动员逻辑。
 > 4. **[[Rich and Thick Description\|厚描述]]呈现** 详细展示不同 SES 阶层在面对入学政策简化与人脉关系变现时的真实抉择与质性案例。
 
@@ -133,7 +131,7 @@ updated: 2026-10-08
 
 ### 典型应用案例
 
-在面临[[Sensitive Research|敏感研究]]对象或强力制度[[Gatekeepers|守门人]]的双重阻碍时，滚雪球抽样通常被[[Transfer Translation Transformation|转译]]为网络化操作策略：
+在面临[[Sensitive Research|敏感研究]]对象或强力制度[[Gatekeepers|守门人]]的双重阻碍时，滚雪球抽样通常被转译为网络化操作策略：
 
 > [!case] Teng & Wang 的教师中介转介实践
 > 在中国县域城镇化[[School Choice\|择校]]迁移的调查中，由于进城随迁陪读家长数量庞大且缺乏统一的官方[[Sampling Frame\|抽样框]]，且部分农村家长对外部调查者存在防御心理。研究者采取了**教师中介转介**策略。首先，在 G County 选定的 12 所城乡公立学校中自愿招募部分城乡骨干教师作为初始种子节点（brokers）。通过这些教师的声誉桥接与信任引荐，成功招募并分类滚雪球出 128 名具有代表性的农村家庭访谈样本（包括县城陪读、镇区陪读及乡村非陪读家庭）。这一实践展示了在缺乏制度化抽样框时，如何利用特定[[Champ\|场域]]内的关键行动者来安全、高效地获取信任累积与样本拓展。[[Argument_Teng_2025_CE\|Teng & Wang (2025, p. 305)]]

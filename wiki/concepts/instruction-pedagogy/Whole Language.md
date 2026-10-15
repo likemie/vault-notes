@@ -6,7 +6,7 @@ aliases:
 summary: "强调儿童在真实完整语境中整体学习语言与读写的教学哲学，反对把阅读拆成孤立技能训练，并长期处于识字教学的证据与方法论争议中心。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 39
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -41,7 +41,6 @@ related_methods:
   - "[[Action Research]]"
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Cohort Study]]"
 related_persons:
   - "[[Ken Goodman]]"
@@ -64,7 +63,7 @@ related_arguments:
 part_of: ''
 status: draft
 created: 2026-05-03
-updated: 2026-09-24
+updated: 2026-10-15
 year: 2020
 doi: ""
 citation_aliases: []
@@ -150,7 +149,7 @@ citation_aliases: []
 > - **研究者偏见与政治镜头** 哈蒂对[[Direct Instruction\|直接教学]]偏爱，对[[Jean-Jacques Rousseau\|卢梭]]式[[Constructivist Paradigm\|建构主义]]敌视，导致其选择性忽略了 [[William Jeynes\|杰尼斯]]福音派传教士身份的保守派右翼政治偏见，并在《VL》中对正反数据采取了双重审查标准 (p.147-148)。
 
 > [!critique-logic] [[Technical Rationality|技术理性]]与标准化问责的劫持
-> - **[[Variable|变量]][[Coding in Qualitative Research|编码]]的模糊性** [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] 指出，“全语言教学”在不同的元分析中操作定义极度模糊，这导致不同研究的简单量化合成失去了科学比较的前提。
+> - **[[Variable|变量]]编码的模糊性** [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] 指出，“全语言教学”在不同的元分析中操作定义极度模糊，这导致不同研究的简单量化合成失去了科学比较的前提。
 > - **教育工业化与绩效管理** 新自由主义[[Global Education Reform Movement|全球教育改革运动]]（GERM）将阅读过程还原为可以按月测量的标准化增量，导致全语言以意义为中心、注重儿童社会文化发展的质性价值被遮蔽，强行推行自上而下的效率考核 (p.149)。
 
 > [!critique] 次政府利益同盟与教科书商业寻租

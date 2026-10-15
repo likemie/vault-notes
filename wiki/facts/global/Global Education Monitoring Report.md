@@ -12,7 +12,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 20
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -34,8 +34,7 @@ related_concepts:
   - "[[Soft Power]]"
   - "[[Soft Power by Hard Facts]]"
 related_theories: []
-related_methods:
-  - "[[Exploratory Factor Analysis]]"
+related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
@@ -54,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Global Education Monitoring Report
@@ -64,7 +63,7 @@ updated: 2026-10-14
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> 《全球教育监测报告》（Global Education Monitoring Report，GEMR，前身为《[[Education for All\|全民教育]]全球监测报告》[[Exploratory Factor Analysis\|EFA]] GMR）是由[[UNESCO\|联合国教科文组织]]（[[UNESCO]]）主持编写、享有完全编辑独立性的全球旗舰年度监测出版物与[[Policy Brokerage\|政策中介]]中枢；受联合国大会与国际社会法定赋权，是评估《2030 年可持续发展议程》教育目标（[[UN Sustainable Development Goals\|SDG 4]]）全球落实进展与国际援助资金到位的最高权威公信载体。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541, 544)]]
+> 《全球教育监测报告》（Global Education Monitoring Report，GEMR，前身为《[[Education for All\|全民教育]]全球监测报告》EFA GMR）是由[[UNESCO\|联合国教科文组织]]（[[UNESCO]]）主持编写、享有完全编辑独立性的全球旗舰年度监测出版物与[[Policy Brokerage\|政策中介]]中枢；受联合国大会与国际社会法定赋权，是评估《2030 年可持续发展议程》教育目标（[[UN Sustainable Development Goals\|SDG 4]]）全球落实进展与国际援助资金到位的最高权威公信载体。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541, 544)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 响应 2000 年达喀尔世界教育论坛决议，2002 年正式创办出版首份报告，此后每年不间断发布一部综合性全球监测专著及配套区域政策简报。
@@ -86,7 +85,7 @@ updated: 2026-10-14
 > - **实施控制** 设立独立的国际咨询委员会（Advisory Board），由世界知名教育学者、统计学家与民间代表审定报告方向，实行严格的同行外部匿名评审与事实核查机制，[[UNESCO\|教科文组织]]官方无权修改其结论。
 
 > [!citation-card] 国际协定催生的全球基准与多边中介规制
-> [[Development Turn in Comparative Education\|发展转向]]对全球南方国家的作用，正如量化转向对全球北方国家的作用一样。自 1990 年《[[Education for All\|全民教育]]》（[[Exploratory Factor Analysis\|EFA]]）确立以来，全球南方国家才被系统性置于国际组织的量化规制体系之下。新时代的国际协定推动了一批不断增长的国际基准与监测工具的诞生，这些基准由联合国教科文组织等机构统筹协调，并由[[World Bank\|世界银行]]及其他多边[[Policy Brokerage\|政策中介]]全面推行。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
+> [[Development Turn in Comparative Education\|发展转向]]对全球南方国家的作用，正如量化转向对全球北方国家的作用一样。自 1990 年《[[Education for All\|全民教育]]》（EFA）确立以来，全球南方国家才被系统性置于国际组织的量化规制体系之下。新时代的国际协定推动了一批不断增长的国际基准与监测工具的诞生，这些基准由联合国教科文组织等机构统筹协调，并由[[World Bank\|世界银行]]及其他多边[[Policy Brokerage\|政策中介]]全面推行。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
 >
 > *The development turn was for countries of the Global South what the quantification turn was for countries of the non-communist Global North. The new era of international agreements propelled the creation of an ever-growing number of international benchmarks coordinated by UNESCO and enforced by IOs.*
 
@@ -95,7 +94,7 @@ updated: 2026-10-14
 ## 推进历程与阶段演进
 
 > [!dev-timeline]- 项目推进历程
-> - **2002–2015 年 — [[Exploratory Factor Analysis\|EFA]] 达喀尔目标监测时代（EFA GMR）** 严格追踪达喀尔行动框架六大[[Education for All\|全民教育]]目标，相继出版《谁在走在正轨上》《扫盲至关重要》《消除性别鸿沟》等里程碑报告，成为全球教育发展援助决策的黄金风向标。
+> - **2002–2015 年 — EFA 达喀尔目标监测时代（EFA GMR）** 严格追踪达喀尔行动框架六大[[Education for All\|全民教育]]目标，相继出版《谁在走在正轨上》《扫盲至关重要》《消除性别鸿沟》等里程碑报告，成为全球教育发展援助决策的黄金风向标。
 > - **2015 年 — 仁川世界教育论坛与职能法定升级** 联合国通过《2030 年可持续发展议程》，将该报告正式更名为《全球教育监测报告》（GEMR），并被世界教育论坛（仁川）与联合国大会明确授权为全球监测 [[UN Sustainable Development Goals\|SDG 4]] 的法定独立机制。
 > - **2016 年至今 — SDG 4 深度解构与多边倡导深化** 相继发布《教育造就人类与地球》《教育问责制》（2017/8）、《包容与教育》（2020）、《非国家行为体》（2021/2）以及《教育中的技术》（2023）等重磅报告，创建 SCOPE 与 WIDE 在线交互式数据分析平台。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
 
@@ -163,7 +162,7 @@ updated: 2026-10-14
 > |:-----|:-----|:-----|
 > | [[UNESCO]] | 事实 (机构) | GEMR 报告的主办与行政托管联合国机构。 |
 > | [[UN Sustainable Development Goals]] | 事实 (政策) | GEMR 受国际社会委托行使全球法定监测职责的最高目标（SDG 4）。 |
-> | [[Education for All]] | 事实 (政策) | GEMR 的前身（[[Exploratory Factor Analysis\|EFA]] GMR）所直接服务监测的里程碑国际协议。 |
+> | [[Education for All]] | 事实 (政策) | GEMR 的前身（EFA GMR）所直接服务监测的里程碑国际协议。 |
 > | [[International Institute for Educational Planning]] | 事实 (机构) | 教科文组织旗下为 GEMR 报告提供国别规划与财政诊断支持的一类机构。 |
 > | [[Multiple Indicator Cluster Surveys]] | 事实 (项目) | GEMR 报告衡量底层家庭微观教育公平的重要数据来源。 |
 > | [[Soft Power by Hard Facts]] | 概念 | GEMR 以独立严密的硬事实监测行使全球道德[[Soft Power\|软权力]]的典型范例。 |

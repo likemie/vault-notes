@@ -9,7 +9,7 @@ summary: "质性研究与比较教育研究中超越参与者日常语言、运�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 49
+method_related_count: 48
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -19,7 +19,6 @@ tags:
   - comparative-education
   - analytic-tradition
 related_concepts:
-  - "[[Document]]"
   - "[[Unit of Analysis]]"
   - "[[Champ]]"
   - "[[Recontextualization]]"
@@ -46,8 +45,8 @@ related_theories:
   - "[[Social Contract of Science]]"
 related_methods:
   - "[[Qualitative Research]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Descriptive Methods]]"
+  - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
   - "[[Case Study]]"
   - "[[Grounded Theory]]"
@@ -87,7 +86,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 方法定义
-> 分析框架（Analytic Framework）是在[[Qualitative Research|质性研究]]与比较制度分析中，运用已有[[Document|文献]]中成熟的“分析传统”（analytic tradition）或理论预设作为解释结构，对田野资料、访谈文本、历史档案或跨国政策进行系统[[Coding in Qualitative Research|编码]]、维度拆解与因果解释的方法学路径。它超越参与者的日常经验叙述，为经验材料提供更具理论解释力和结构张力的分析支架。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 9, p. 196)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 74–76)]]
+> 分析框架（Analytic Framework）是在[[Qualitative Research|质性研究]]与比较制度分析中，运用已有文献中成熟的“分析传统”（analytic tradition）或理论预设作为解释结构，对田野资料、访谈文本、历史档案或跨国政策进行系统编码、维度拆解与因果解释的方法学路径。它超越参与者的日常经验叙述，为经验材料提供更具理论解释力和结构张力的分析支架。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 9, p. 196)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 74–76)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 访谈实录、观察笔记、历史文献、跨国教育政策文本、制度演化档案与统计指标序列。
@@ -96,7 +95,7 @@ updated: 2026-10-15
 > - **输出形式** 概念维度矩阵、编码分类层级表、因果机制流程图、跨国场域多位置空间矩阵与微观[[Recontextualization|再语境化]]演进链。
 
 > [!citation-card] 克雷斯威尔论分析框架的理论超越性
-> 分析框架意味着超越参与者的日常语言，使用特定的‘分析传统’进行解释。它叠加在[[Descriptive Methods|描述性方法]]这一基础方法之上，为质性编码和主题生成提供特定的解释结构。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 9, p. 196)]]
+> 分析框架意味着超越参与者的日常语言，使用特定的‘分析传统’进行解释。它叠加在[[Descriptive Methods|描述性方法]]这一基础方法之上，为[[Coding in Qualitative Research|质性编码]]和主题生成提供特定的解释结构。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 9, p. 196)]]
 >
 > *An analytic framework uses an 'analytic tradition' to guide the analysis... moving beyond the mundane language of participants toward theory-driven interpretations.*
 
@@ -118,7 +117,7 @@ updated: 2026-10-15
 > [!method-stack] 方法层级
 > - **研究设计** 质性多[[Case Study|案例研究]]、历史比较政治经济学、[[Grounded Theory|扎根理论]]或[[Phenomenology|现象学]]设计。
 > - **数据收集** [[Semi-structured Interview|半结构化访谈]]、历史档案查阅、跨国统计年鉴与政策文件收集。
-> - **分析方法** 先验主题[[Coding in Qualitative Research|编码]]（Deductive Thematic Coding）、矩阵交叉分析、跨案例模式匹配（Pattern [[Matching]]）。
+> - **分析方法** 先验主题编码（Deductive Thematic Coding）、矩阵交叉分析、跨案例模式匹配（Pattern [[Matching]]）。
 > - **辅助技术** 质性分析软件（如 NVivo、MAXQDA）、概念网络图映射。
 
 ---
@@ -128,7 +127,7 @@ updated: 2026-10-15
 > [!proc] 通用程序
 > 1. **确立[[Research Question|研究问题]]与理论视界** 明确待解释的现象，[[Literature Search|文献检索]]提炼核心维度，构建初步分析矩阵。
 > 2. **界定[[Unit of Analysis|分析单位]]与资料池** 收集多源材料并建立统一的文本/事实资料库。
-> 3. **双轨交互[[Coding in Qualitative Research|编码]]** 依据框架的先验维度进行定向归类，同时预留归纳通道记录突破框架的新异发现。
+> 3. **双轨交互编码** 依据框架的先验维度进行定向归类，同时预留归纳通道记录突破框架的新异发现。
 > 4. **概念饱和度与[[Reflexivity|反思性]]检验** 检验框架各维度是否获得充分支撑，避免削足适履式生搬硬套。
 > 5. **构建结构性综合论断** 输出分析矩阵与理论机制解释图。
 
@@ -204,7 +203,7 @@ updated: 2026-10-15
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 系统梳理[[Qualitative Research|质性研究]]中五大经典分析框架（叙事、[[Phenomenology|现象学]]、[[Grounded Theory|扎根理论]]、[[Ethnography|民族志]]、[[Case Study|案例研究]]）的特征与操作规范。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 综合[[Dependency Theory|依附理论]]、历史唯物主义与[[Conditioned State Theory|受限国家理论]]，建构了用于剖析拉美教育扩张与国家政权演变的宏观政治经济学分析框架。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 构建涵盖合法性基础、制度与资源支持、自治空间、功能期待与责任结构的五维分析框架，系统考察二战后至 2025 年美国[[Social Contract of Science|科学的社会契约]]在稳定期、再协商期、危机重构期与技术型契约转型期的制度演进。
-> - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 提炼产业政策[[Document|文献]]中行动主体、政策目标、资金规模、政策工具与[[Policy Conditionalities|制度化附加条件]]五大核心维度构建分析框架，系统对比美欧半导体产业干预战略。
+> - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 提炼产业政策文献中行动主体、政策目标、资金规模、政策工具与[[Policy Conditionalities|制度化附加条件]]五大核心维度构建分析框架，系统对比美欧半导体产业干预战略。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 融合[[Basil Bernstein|伯恩斯坦]]与卡斯特理论构建五位置分析框架，实证剖析国际组织推销普遍模型时引发的拉美[[Gatekeepers|守门人]]垄断与阿根廷课程自主异化（pp. 349–355）。
 
 ---

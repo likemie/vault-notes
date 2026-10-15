@@ -10,10 +10,10 @@ summary: "美国企业家与社会理论学者，帕兰提尔科技公司联合�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 40
-person_related_level: 5
-person_related_stars: "⭐⭐⭐⭐⭐"
-person_related_color: "#ffedd5"
+person_related_count: 39
+person_related_level: 4
+person_related_stars: "⭐⭐⭐⭐"
+person_related_color: "#fce7f3"
 born: "1967"
 died: ""
 lifespan: "1967–至今"
@@ -57,7 +57,6 @@ related_persons:
   - "[[Peter Thiel]]"
   - "[[Nicholas Zamiska]]"
   - "[[Taiichi Ohno]]"
-  - "[[Isaiah Berlin]]"
   - "[[Philip Tetlock]]"
 related_facts:
   - "[[Palantir Technologies]]"
@@ -75,7 +74,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Alexander Karp
@@ -209,4 +208,4 @@ updated: 2026-10-08
 > | [[Constructive Disobedience]] | 概念 | 机制设计者：确立建设性抗命与[[Social Deafness\|社交失聪]]为保护颠覆性创新的微观心理抗体。 |
 > | [[Commercial Off-The-Shelf]] | 概念 | 制度推动者：主导针对陆军诉讼，确立商用现成产品在国防采办中的法定优先权。 |
 > | [[Palantir Technologies]] | 事实 | 联合创始人兼CEO：推动大数据与AI防务系统实践，构建无过错[[Five Whys\|五问法]][[Organizational Culture\|组织文化]]。 |
-> | [[Hedgehog and Fox Model]] | 理论 | [[Epistemology\|认识论]]应用者：将[[Isaiah Berlin\|柏林]]与[[Philip Tetlock\|泰特洛克]]的狐狸模型引入工程哲学，倡导云状动态现实认知。 |
+> | [[Hedgehog and Fox Model]] | 理论 | [[Epistemology\|认识论]]应用者：将柏林与[[Philip Tetlock\|泰特洛克]]的狐狸模型引入工程哲学，倡导云状动态现实认知。 |

@@ -9,7 +9,7 @@ aliases:
 summary: "解释组织在同一场域中为何会通过强制型、模仿型和规范型三种机制逐渐趋同的组织社会学新制度主义理论，阐明组织趋同源于对制度合法性与合理化神话的追求而非纯粹的技术效率"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 39
+theory_related_count: 38
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -38,7 +38,6 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Epistemology]]"
   - "[[Doxa]]"
-  - "[[Hypothesis]]"
   - "[[Otherhood]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Paradigm]]"
@@ -67,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-18
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Institutional Isomorphism
@@ -164,7 +163,7 @@ updated: 2026-10-10
 > - **[[Ontology\|本体论]]** [[Constructivist Paradigm\|社会建构主义]]，视组织结构为浸润在文化规范、符号仪式与制度环境中的社会产物，反对原子化[[Technical Rationality\|技术理性]][[Determinism\|决定论]]。
 > - **[[Epistemology\|认识论]]** 强调合法性解释优于效率解释，关注制度脚本如何在行动者潜意识中被自然化为[[Doxa\|不言自明]]的公理（Doxa）。
 > - **方法含义** 适合开展中观组织[[Champ\|场域]]案例比较、历史制度追溯、政策文本分析与[[Elite Interview\|精英访谈]]。
-> - **不能直接推出的东西** 不能仅凭组织形态趋同就推断其生产效率必然提升，也不能[[Hypothesis\|假设]]趋同完全消除了组织内部的抵抗与隐性分歧。
+> - **不能直接推出的东西** 不能仅凭组织形态趋同就推断其生产效率必然提升，也不能假设趋同完全消除了组织内部的抵抗与隐性分歧。
 
 > [!theory-use] 如何用于研究
 > - **作为[[Analytic Framework\|分析框架]]** 运用强制、模仿、规范三维框架拆解教育政策、高校治理或跨国培训模式扩散的动力源泉。

@@ -8,10 +8,10 @@ aliases:
 summary: "由巫俊宇、李元萱、柴清生与蔡今中（Wu et al., 2025）提出的人机协同学习理论框架，通过修订蔡今中网络学习认识论假说，揭示生成式人工智能环境下学习者的认识立场、先验知识与知识辩护方式如何决定人机共享认识能动性的实现样态，并提出促进立场向评价论演进的教学支架与技术干预机制。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 40
-theory_related_level: 5
-theory_related_stars: "⭐⭐⭐⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_count: 38
+theory_related_level: 4
+theory_related_stars: "⭐⭐⭐⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theory/educational-psychology
   - theme/human-ai-interaction
@@ -36,14 +36,12 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Variable]]"
   - "[[Justification for Knowing]]"
-  - "[[Hypothesis]]"
   - "[[Epistemic Dependence]]"
   - "[[Metacognition]]"
   - "[[Chain of Evidence]]"
   - "[[Research Question]]"
   - "[[Problem Solving]]"
   - "[[Counterfactual]]"
-  - "[[Document]]"
   - "[[AI Hallucination]]"
   - "[[Open-Mindedness]]"
   - "[[Self-Efficacy]]"
@@ -67,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Symbiotic Framework of Adaptive Epistemic Stances
@@ -122,7 +120,7 @@ updated: 2026-10-07
 > [!theory-proposition] 命题一｜不同[[Epistemic Stances\|认识立场]]的学习者在与[[Generative Artificial Intelligence\|生成式人工智能]]交互中获得差异化的认知增益（修订假说一）
 > **解释** 该命题由 [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 对 Tsai (2004) 第一假说修订而成。生成式系统输出的是高度凝练的整体性答案。具有丰富先验知识且持评价论立场的学习者，能够主动对大模型提出的算法、模型与公式进行多源验证、上下文约束检验并开展多重视角辩护，获得深层理解增益；而先验知识匮乏且持绝对论立场的学习者，倾向于将大模型视为绝对权威或将教材讲义作为唯一标准，容易不加批判地直接接受模型输出或陷入盲信，导致认知处理停留在表层。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 360–364)]]
 >
-> **应用实例** 在统计[[Hypothesis\|假设]]检验[[Homework\|作业]]中，评价论学生（如 Student C）面对 ChatGPT 建议的[[Chi-Squared Test\|卡方独立性检验]]与麦克尼马尔检验，会主动结合数据类型（顺序量表）与样本属性进行多轮追问并与同伴讨论，最终判定斯皮尔曼相关更稳妥；而绝对论学生（如 Student A）直接全盘照搬模型给出的[[Chi-Squared Test\|卡方检验]]步骤。
+> **应用实例** 在统计假设检验[[Homework\|作业]]中，评价论学生（如 Student C）面对 ChatGPT 建议的[[Chi-Squared Test\|卡方独立性检验]]与麦克尼马尔检验，会主动结合数据类型（顺序量表）与样本属性进行多轮追问并与同伴讨论，最终判定斯皮尔曼相关更稳妥；而绝对论学生（如 Student A）直接全盘照搬模型给出的[[Chi-Squared Test\|卡方检验]]步骤。
 
 > [!theory-proposition] 命题二｜频繁的人机交互不会自发促进认识立场成熟，唯有依托教学反思支架与技术提示才能驱动向评价论演进（修订假说二）
 > **解释** 该命题由 [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 对 Tsai (2004) 第二假说修订而成。仅增加与大模型交互的频次无法自发提升学习者的[[Epistemology\|认识论]]成熟度；在缺乏指导的情况下，频繁使用甚至可能因模型生成的假象流畅性而加剧认知懒惰与[[Epistemic Dependence\|认识依赖]]。唯有在教学设计中嵌入跨源头核验、[[Metacognition\|元认知]]反思、反常结果审视等[[Scaffolding\|教学支架]]，并辅以[[Role-playing\|角色扮演]]提示、[[Chain-of-Thought Prompting\|思维链]]（Chain of Thought, CoT）与检索增强生成（Retrieval-Augmented Generation, RAG）等技术策略时，人机持续互动才能帮助学习者直面技术局限与概率性输出，推动其由绝对论或多元论向评价论演进。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 364–366)]]
@@ -144,7 +142,7 @@ updated: 2026-10-07
 > | 理论依据 | 分析维度与提问 | 可观察线索与材料 | 判读规则与边界 |
 > |:---------|:---------------|:-----------------|:-----------------|
 > | 认识立场分类及表征（[[Argument_Wu_2025_ER\|Wu et al., 2025]]） | **交互质询立场** 学习者如何对待大模型的首次输出？ | 追问轮次、提问语气、是否提出[[Counterfactual\|反事实]]质疑或要求模型自我纠错。 | 单轮采纳且无追问对应绝对论；多轮提问但不作权衡对应多元论；针对边界条件进行严密审查对应评价论。 |
-> | 知识辩护方式（[[Argument_Hofer_1997_RER\|Hofer & Pintrich, 1997]]） | **决策辩护依据** 学习者依据什么做出最终学术裁决？ | 最终[[Homework\|作业]]报告中的依据说明、引用的证据源类型（单一大模型 vs 权威[[Document\|文献]] vs 多源交叉）。 | 仅依赖大模型或单一讲义为权威辩护；结合经验直觉与多方建议为多重辩护。 |
+> | 知识辩护方式（[[Argument_Hofer_1997_RER\|Hofer & Pintrich, 1997]]） | **决策辩护依据** 学习者依据什么做出最终学术裁决？ | 最终[[Homework\|作业]]报告中的依据说明、引用的证据源类型（单一大模型 vs 权威文献 vs 多源交叉）。 | 仅依赖大模型或单一讲义为权威辩护；结合经验直觉与多方建议为多重辩护。 |
 > | 教学与技术支架干预机制 | **支架响应效度** 外部提示策略是否促进了深层认知加工？ | 是否使用[[Role-playing\|角色扮演]]与思维链提示词、是否主动核实模型生成引文真实性。 | 规范使用高级提示词并成功识别[[AI Hallucination\|模型幻觉]]表明支架转化成功。 |
 
 ---
@@ -155,7 +153,7 @@ updated: 2026-10-07
 > - **适合分析** 涉及复杂概念理解、[[Problem Solving\|问题解决]]、方案设计与学术论辩的[[Man-Computer Symbiosis|人机协同]]学习情境。
 > - **成立条件** 学习者拥有与大模型进行多轮对话的技术交互通道，且任务具备[[Open-Mindedness|开放性]]与可探讨空间。
 > - **解释不足** 尚未充分纳入学习者的动机结构（如时间压力、成绩敏感度）、学科兴趣及[[Self-Efficacy\|自我效能感]]对交互行为的复杂[[Interaction Effect\|调节效应]]。[[Argument_Wu_2025_ER\|(Wu et al., 2025, p. 366)]]
-> - **不能直接推出** 不能单纯将使用频次等同于[[Epistemology\|认识论]]成熟度，亦不能[[Hypothesis\|假设]]所有学科任务中模型辅助都能自动带来智力增益。
+> - **不能直接推出** 不能单纯将使用频次等同于[[Epistemology\|认识论]]成熟度，亦不能假设所有学科任务中模型辅助都能自动带来智力增益。
 
 ---
 

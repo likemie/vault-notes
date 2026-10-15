@@ -7,7 +7,7 @@ aliases:
 summary: "描述全球资本积累由流水线集中生产转向弹性灵活积累的生产组织范式，在教育系统体现为由标准化大众供给转向技能模块化、绩效问责与市场竞争性治理"
 type: concept
 domain: "sociology-of-education"
-related_count: 24
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -37,7 +37,6 @@ related_theories:
   - "[[Conditioned State Theory]]"
 related_methods:
   - "[[Ideology Critique]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
@@ -50,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-09-28
+updated: 2026-10-15
 ---
 
 # Post-Fordism
@@ -152,9 +151,9 @@ updated: 2026-09-28
 
 > [!dev-timeline] 后福特制理论演进
 > - **1970s — 调节学派奠基** 法国调节学派（Regulation School，阿格列塔、波斯塔）系统剖析福特制危机，提出跨国弹性专精生产模式（Flexible Specialization）的兴起。
-> - **1980s — 文化与[[Ideology Critique|意识形态批判]]** [[Michael W. Apple|迈克尔·阿普尔]]（Apple, 1982）将后福特制劳动过程分析引入教育学，揭示课程[[Coding in Qualitative Research|编码]]中的技术控制逻辑。
+> - **1980s — 文化与[[Ideology Critique|意识形态批判]]** [[Michael W. Apple|迈克尔·阿普尔]]（Apple, 1982）将后福特制劳动过程分析引入教育学，揭示课程编码中的技术控制逻辑。
 > - **1990s — 教育市场化与比较研究** 布朗与劳德（Brown & Lauder, 1992, 1996）系统辨析福特制与后福特制教育路线分歧；鲍尔（Ball, 1993）指出教育市场化实质是后福特资本主义下维系优势阶层特权的新阶级策略。
-> - **2000s — 全球化与外围批判** [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）将后福特制置于世界体系与拉美外围国家依附发展情境，揭示跨国金融机构如何通过后福特制修辞将教育剥削机制输出至全球南方。
+> - **2000s — 全球化与外围批判** [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）将后福特制置于世界体系与拉美外围国家依附发展情境，揭示跨国金融机构如何通过后福特制修辞将教育剥削机制输出至全球南方。
 
 ---
 

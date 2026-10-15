@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 20
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -26,13 +26,11 @@ tags:
   - policy-entrepreneurship
   - governance
 related_concepts:
-  - "[[Transfer Translation Transformation]]"
   - "[[Policy Entrepreneur]]"
   - "[[Grandes Ecoles]]"
   - "[[Research Translation]]"
   - "[[Policy Borrowing]]"
   - "[[Educational Decentralization]]"
-  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Participant Observation]]"
@@ -55,7 +53,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-11
+updated: 2026-10-15
 ---
 
 # Hunt Institute
@@ -65,7 +63,7 @@ updated: 2026-10-11
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 詹姆斯·B·亨特教育领导力与政策研究所（James B. Hunt Jr. Institute for Educational Leadership and Policy，简称亨特研究所）是一家专注于为美国各州民选政治首脑提供无党派教育战略咨询的高端政策智库与协调平台。该机构由四任北卡罗来纳州州长詹姆斯·B·亨特（James B. Hunt Jr.）创立，定位于连接严谨学术实证研究与高层政治决策者的“跨界[[Transfer Translation Transformation|转译]]者”；在[[Common Core State Standards|共同核心州立标准]]（Common Core State Standards, CCSS）运动中，该所深度扮演了[[Policy Entrepreneur|政策企业家]]大本营与跨派系战略协同中枢的独特功能。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9, 20–21)]]
+> 詹姆斯·B·亨特教育领导力与政策研究所（James B. Hunt Jr. Institute for Educational Leadership and Policy，简称亨特研究所）是一家专注于为美国各州民选政治首脑提供无党派教育战略咨询的高端政策智库与协调平台。该机构由四任北卡罗来纳州州长詹姆斯·B·亨特（James B. Hunt Jr.）创立，定位于连接严谨学术实证研究与高层政治决策者的“跨界转译者”；在[[Common Core State Standards|共同核心州立标准]]（Common Core State Standards, CCSS）运动中，该所深度扮演了[[Policy Entrepreneur|政策企业家]]大本营与跨派系战略协同中枢的独特功能。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9, 20–21)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 创立于 2001 年。当时卸任州长职务的亨特有感于多数州长与州议员虽手握教育立法与预算大权，却普遍缺乏教育专业背景与实证研究储备，遂创设该机构以提升州级政治家的教育领导力。
@@ -94,7 +92,7 @@ updated: 2026-10-11
 > [!pathways]- 业务运行机制
 > - **高层政治穿梭与议程敲门** 亨特州长与前西弗吉尼亚州州长鲍勃·怀斯（Bob Wise）凭借个人在两党州长间的崇高威望，充当跨界[[Policy Entrepreneur|政策企业家]]，亲自前往各州游说，打消地方保守派对联邦集权的疑虑。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 8)]]
 > - **中介组织每周例行协调网络** 自 2010 年秋季起，亨特研究所常态化组织涵盖[[National Governors Association|全国州长协会]]（NGA）、[[Council of Chief State School Officers|州首席教育官理事会]]（CCSSO）、两大教师工会（[[American Federation of Teachers|AFT]]、[[National Education Association|NEA]]）、全国家长教师协会（PTA）以及智库的每周跨机构电话会议，系统同步各州立法进展与风险预警。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 20)]]
-> - **循证知识[[Transfer Translation Transformation|转译]]与去行话包装** 将晦涩的认知心理学与跨国测评数据（[[TIMSS]]/[[PISA]]）剪裁为通俗易懂的“政策简报（Briefings）”，使民选政客能在数分钟内把握核心决策逻辑。
+> - **循证知识转译与去行话包装** 将晦涩的认知心理学与跨国测评数据（[[TIMSS]]/[[PISA]]）剪裁为通俗易懂的“政策简报（Briefings）”，使民选政客能在数分钟内把握核心决策逻辑。
 
 ---
 
@@ -142,6 +140,6 @@ updated: 2026-10-11
 > | [[Bill & Melinda Gates Foundation]] | 慈善基金 | 亨特研究所推进 CCSS 全国协调网络的核心战略资助方。 |
 > | [[American Federation of Teachers]] | 教师工会 | 参与亨特研究所每周策略协调会议并参与草案审读的工会伙伴。 |
 > | [[National Education Association]] | 教师工会 | 参与亨特研究所例行推进会议并就条文提出专业修改建议的工会实体。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | 实证[[Document\|文献]] | 详细记录亨特研究所如何组织 [[National Research Council\|NRC]] 研讨会及 14 家机构每周协同的研究。 |
+> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | 实证文献 | 详细记录亨特研究所如何组织 [[National Research Council\|NRC]] 研讨会及 14 家机构每周协同的研究。 |
 
 ---

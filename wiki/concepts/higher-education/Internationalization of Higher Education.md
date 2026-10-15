@@ -6,7 +6,7 @@ aliases:
 summary: "高等教育跨越国家边界组织流动、合作和制度安排的过程，涵盖学生流动、跨境合作、国际课程和全球战略布局。"
 type: concept
 domain: "higher-education"
-related_count: 21
+related_count: 20
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Global Citizenship]]"
   - "[[STEM Education]]"
   - "[[New Public Management]]"
-  - "[[Hypothesis]]"
   - "[[Geopolitics of Knowledge]]"
 related_theories:
   - "[[Hegemony]]"
@@ -46,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Internationalization of Higher Education
@@ -100,7 +99,7 @@ updated: 2026-10-10
 > - **亚洲中产阶级教育消费** 亚洲中产阶级将西方教育视为地位标志和资本积累手段，推动了跨国教育中介产业的繁荣([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.95–96]])
 > - **内生私有化的国际化驱动** 国际学生学费成为主要收入来源后，政府削减公共拨款，推动公立大学采纳企业化运营模式——"内生私有化实践似乎已成为大多数西方国家公立高等教育的永久特征"([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.97–98]])
 > - **新自由主义政策嵌入** [[New Public Management\|NPM]] 理念、技术和实践从企业部门被广泛引入公立高等教育，以使其更像企业运作
-> - **COVID-19 暴露的矛盾** 疫情暴露了以新自由主义[[Hypothesis\|假设]]为基础的[[International Education\|国际教育]]商业模式的深层脆弱性——过度依赖亚洲中产阶级学生学费的西方大学面临生存危机([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.100–102]])
+> - **COVID-19 暴露的矛盾** 疫情暴露了以新自由主义假设为基础的[[International Education\|国际教育]]商业模式的深层脆弱性——过度依赖亚洲中产阶级学生学费的西方大学面临生存危机([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.100–102]])
 
 ## 理论基础
 

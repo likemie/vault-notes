@@ -7,7 +7,7 @@ aliases:
 summary: "指在重大国家科技工程与高风险研发中，以行动优先、立即可见实效与技术可行性（技术精妙即去建造）为导向的工程实践哲学；强调成果交付与实战效能，同时要求反思性伦理与国家使命的校准以防止异化为科学非道德论。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 32
+related_count: 30
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[AI Deterrence]]"
   - "[[Technological Republic]]"
-  - "[[Document]]"
   - "[[Hard Power]]"
   - "[[Artificial General Intelligence]]"
   - "[[Paradigm]]"
@@ -44,7 +43,6 @@ related_persons:
   - "[[J. Robert Oppenheimer]]"
   - "[[John Dewey]]"
   - "[[Percy Williams Bridgman]]"
-  - "[[Alfred Nobel]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
   - "[[Herbert Hoover]]"
@@ -59,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Engineering Pragmatism
@@ -141,7 +139,7 @@ updated: 2026-10-09
 > 剖析工程师若缺乏对技术终极用途与地缘后果的反思，将滑向道德虚无与资本附庸。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Karp & Zamiska (2025)]]
-> **警惕工程偏好退化为[[Percy Williams Bridgman|布里奇曼]]式科学非道德论** [[Alfred Nobel|诺贝尔]]物理学奖得主[[Percy Williams Bridgman|布里奇曼]]曾主张科学家只负责寻找自然事实而无需承担道德责任。若将工程实用主义极端化为这种非道德论，会导致当代硅谷工程师沉溺于满足资本消费文化致富，却拒绝追问应当建造什么以及为何而造。在面临颠覆性 AI 技术时，工程共同体必须正视技术的毁灭性潜力与地缘政治责任。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 17–18)]]
+> **警惕工程偏好退化为[[Percy Williams Bridgman|布里奇曼]]式科学非道德论** 诺贝尔物理学奖得主[[Percy Williams Bridgman|布里奇曼]]曾主张科学家只负责寻找自然事实而无需承担道德责任。若将工程实用主义极端化为这种非道德论，会导致当代硅谷工程师沉溺于满足资本消费文化致富，却拒绝追问应当建造什么以及为何而造。在面临颠覆性 AI 技术时，工程共同体必须正视技术的毁灭性潜力与地缘政治责任。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 17–18)]]
 
 ---
 
@@ -158,7 +156,7 @@ updated: 2026-10-09
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 关键机制 | 代表学者与[[Document\|文献]] |
+> | 命题类型 | 核心指向 | 关键机制 | 代表学者与文献 |
 > |:---|:---|:---|:---|
 > | **突破动力命题** | 行动偏好与即时成效是驱动重大工程突破的核心力量 | 技术精妙即去建造；实验结果立即可见 | [[J. Robert Oppenheimer\|Oppenheimer]] (1949); [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025) |
 > | **伦理异化命题** | 脱离社会反思的工程偏好易异化为科学非道德论与消费主义 | 布里奇曼非道德论批判；反思技术终极目的与道德责任 | [[Percy Williams Bridgman\|Bridgman]] (1949); [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025) |

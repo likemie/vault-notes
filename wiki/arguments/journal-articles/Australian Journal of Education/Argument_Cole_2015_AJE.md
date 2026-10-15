@@ -30,7 +30,6 @@ related_concepts:
   - "[[Didaktik]]"
   - "[[Informed Consent]]"
   - "[[Document]]"
-  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Knowledge Questions]]"
   - "[[Creativity, Action, Service]]"
@@ -82,7 +81,7 @@ title: "Argument_Cole_2015_AJE"
 argument_key: "Argument_Cole_2015_AJE"
 argument_display_title: "Critical thinking skills in the International Baccalaureate's 'Theory of Knowledge' subject: Findings from an Australian study"
 argument_kind: "journal-article"
-argument_related_count: 46
+argument_related_count: 45
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -254,7 +253,7 @@ journal: "Australian Journal of Education"
 > | 9 | 基于证据得出结论 | 4.90 (1.41) | 5.00 (1.46) | 0.070 | 1.61 | $p = .25$, NS |
 > | 10 | 限制主张于证据范围内 | 4.29 (1.44) | 4.28 (1.48) | -0.007 | 0.07 | $p = .95$, NS |
 > | 11 | 搜索对立信息 | 4.66 (1.50) | 4.86 (1.49) | 0.134 | 2.37 | $< .05$ |
-> | 12 | 反思[[Hypothesis\|假设]]如何塑造观点 | 4.67 (1.45) | 4.87 (1.48) | 0.136 | 2.43 | $< .05$ |
+> | 12 | 反思假设如何塑造观点 | 4.67 (1.45) | 4.87 (1.48) | 0.136 | 2.43 | $< .05$ |
 > | 13 | 论证策略辩护 | 4.61 (1.41) | 4.78 (1.43) | 0.120 | 2.04 | $< .05$ |
 > | 14 | 清晰呈现论证 | 4.84 (1.46) | 4.99 (1.42) | 0.104 | 1.84 | $p = .07$, NS |
 > | **总** | **CTSS 总分** | **4.62 (1.08)** | **4.85 (1.05)** | **0.216** | **3.04** | **$< .001$** |
@@ -384,11 +383,11 @@ journal: "Australian Journal of Education"
 
 > [!warning] 研究设计局限
 > - **无法分离 ToK 与整个 DP 的效果** DP 毕业生完成的是整个 [[IB Diploma Programme\|IB DP]] 课程（六门学科 + EE + [[Chinese Academy of Sciences|CAS]] + ToK），横断研究设计无法将 ToK 的独立贡献从 DP 的整体效果中分离。这是该研究最根本的推断限制（pp. 256–257）
-> - **横断设计限制[[Causality\|因果推断]]** 11 年级与 12 年级的比较是横断快照而非纵向追踪。即使两组之间存在系统性差异，也无法排除队列效应（cohort effect）或选择性[[Attrition\|流失]]的替代解释（p. 256）
+> - **横断设计限制[[Causality\|因果推断]]** 11 年级与 12 年级的比较是横断快照而非纵向追踪。即使两组之间存在系统性差异，也无法排除队列效应（cohort effect）或选择性流失的替代解释（p. 256）
 > - **选课效应无法排除** 选择 [[IB Diploma Programme\|IB DP]] 的学生可能在入学前就具有更高的学术能力、更强的学习动机或更支持性的家庭背景。ATAR 差异（$+4.84$分）可能部分或全部反映的是选课效应而非 DP 的培养效应（p. 258）
 
 > [!warning] 样本与测量局限
-> - **大学阶段 [[California Critical Thinking Disposition Inventory\|CCTDI]] [[Sample Size Determination\|样本量]]小且非代表性** 仅 42 名 DP 毕业生和 126 名非 DP 毕业生完成 CCTDI（商业量表需额外登录致样本流失）。样本为[[Convenience Sampling\|便利抽样]]，来自仅两所大学（悉尼大学、QUT），限制了向更广泛的澳大利亚大学新生群体的推广。因此大学阶段的发现仅能提供**初步（tentative）而非确凿（unequivocal）** 的证据（pp. 257–258）
+> - **大学阶段 [[California Critical Thinking Disposition Inventory\|CCTDI]] [[Sample Size Determination\|样本量]]小且非代表性** 仅 42 名 DP 毕业生和 126 名非 DP 毕业生完成 CCTDI（商业量表需额外登录致[[Attrition|样本流失]]）。样本为[[Convenience Sampling\|便利抽样]]，来自仅两所大学（悉尼大学、QUT），限制了向更广泛的澳大利亚大学新生群体的推广。因此大学阶段的发现仅能提供**初步（tentative）而非确凿（unequivocal）** 的证据（pp. 257–258）
 > - **[[Critical Thinking Strategies Scale\|CTSS]] 为自编量表** 虽然 Cronbach's $\alpha$=.96 显示优秀的内部[[Reliability\|信度]]，但该量表在本文中首次使用，缺乏独立的[[External Validity\|外部效度]]验证和跨样本交叉验证（p. 252）
 > - **自报数据的固有限制** CTSS 和 [[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ]] 均测量学生对自己[[Critical Thinking\|批判性思维]]行为的**自我报告**，而非实际表现，两者之间可能存在系统性的高估或低估
 

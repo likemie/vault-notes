@@ -10,9 +10,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 24
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 21
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: 美国军种直属基础与应用科研资助机构
 headquarters: 美国弗吉尼亚州阿灵顿（Arlington, Virginia, USA）
@@ -23,7 +23,6 @@ tags:
   - level/higher-education
   - policy/high-risk-research
 related_concepts:
-  - "[[Attrition]]"
   - "[[Paradigm]]"
   - "[[Von Neumann Architecture]]"
   - "[[Open-Mindedness]]"
@@ -35,8 +34,6 @@ related_theories:
   - "[[Path Dependence]]"
 related_persons:
   - "[[Peter Woods]]"
-  - "[[Peter A. Hall]]"
-  - "[[Alfred Nobel]]"
 related_facts:
   - "[[National Science Foundation]]"
   - "[[Office of Scientific Research and Development]]"
@@ -54,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Office of Naval Research
@@ -67,8 +64,8 @@ updated: 2026-10-12
 > 海军研究办公室（Office of Naval Research, ONR）是美国海军部于 1946 年创设的专业科研管理与资助机构，作为二战后美国多元化分布式资助机制（distributed pluralistic funding network）的前驱支柱，在国家科学基金会（[[National Science Foundation|NSF]]）五年立法博弈尚未落地的历史真空期，率先将“政府出资—科学自治—长期公共回报”的[[Social Contract of Science|科学社会契约]]原则落地于大学基础科学资助，开创了军种支持民事学术探索并推行项目主管负责制的先河。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 37–38)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 1946 年 8 月 1 日由美国国会立法正式设立；二战刚结束，[[Office of Scientific Research and Development|战时科学研究与开发办公室]]（OSRD）面临解散，海军高层深刻认识到先进海权对前沿基础科学（海洋声学、电磁波与电子学等）的深度依赖，率先立法建立常态资助渠道以防止顶尖学术人才[[Attrition|流失]]。
-> - **总部地点 / 业务辐射** 总部设于美国弗吉尼亚州阿灵顿，业务辐射全美主要综合性大学理学院与工学院，以及深海海洋学研究所（如[[Peter Woods|伍兹]][[Peter A. Hall|霍尔]]海洋研究所）。
+> - **成立时间 / 创设背景** 1946 年 8 月 1 日由美国国会立法正式设立；二战刚结束，[[Office of Scientific Research and Development|战时科学研究与开发办公室]]（OSRD）面临解散，海军高层深刻认识到先进海权对前沿基础科学（海洋声学、电磁波与电子学等）的深度依赖，率先立法建立常态资助渠道以防止顶尖学术人才流失。
+> - **总部地点 / 业务辐射** 总部设于美国弗吉尼亚州阿灵顿，业务辐射全美主要综合性大学理学院与工学院，以及深海海洋学研究所（如[[Peter Woods|伍兹]]霍尔海洋研究所）。
 > - **法人属性与经费基础** 隶属于美国海军部的联邦军事实体；直接列支国防研发预算，享有高度自主灵活的项目立项与经费拨付裁量权。
 > - **核心宗旨与法定职责** 规划、促进并协调全美与海军长远战略潜力紧密相关的基础研究；在学术界建立前瞻性理论储备，确保美国在颠覆性技术浪潮中免遭战略突袭。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 37)]]
 
@@ -114,7 +111,7 @@ updated: 2026-10-12
 ## 影响与体系成效
 
 > [!indicators]- 体系成效指标
-> - **科学突破密度** 资助学者中累计诞生 60 余位[[Alfred Nobel|诺贝尔]]奖得主，开创了激光、核磁共振、现代超级计算与全球海洋学等核心学科领域。
+> - **科学突破密度** 资助学者中累计诞生 60 余位诺贝尔奖得主，开创了激光、核磁共振、现代超级计算与全球海洋学等核心学科领域。
 > - **去中心化资助模式确立** 证明了多元、并行、非排他性的军种科研资助体制能够有效避免技术路线锁定。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 171–174)]]
 
 > [!finding-cards] 关键成效与历史辐射

@@ -10,7 +10,7 @@ aliases:
 summary: "衡量个体或群体接受正规学校教育的时长与最高学历层级的社会学与人口学范畴。在微观层面是认知成熟与认识论信念演化的解释变量，在宏观政治经济学层面是国家财政分配、阶级再生产与双轨分流的制度化阶梯"
 type: concept
 domain: "sociology-of-education"
-related_count: 35
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -31,8 +31,6 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
-  - "[[Hypothesis]]"
-  - "[[Document]]"
   - "[[Compensatory Legitimation]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Credential Inflation]]"
@@ -64,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-15
-updated: 2026-10-06
+updated: 2026-10-15
 ---
 
 # Educational Level
@@ -81,7 +79,7 @@ updated: 2026-10-06
 > - **用途** 在实证[[Quantitative Research|量化研究]]中用作预测[[Academic Achievement|学业表现]]、认知成熟或社会流动的核心[[Independent Variable|自变量]]/控制变量；在宏观[[Comparative Policy Analysis|比较政策分析]]中用以透视国家教育资源的阶级倾斜与层级结构失衡。
 > - **边界** 区别于单纯的“入学率”（Enrollment Rate），受教育水平强调个体所达成的实质性学历资格沉淀与整体人口的阶梯分布。
 
-> [!citation-card]- [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]论受教育层级的结构扭曲
+> [!citation-card]- [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论受教育层级的结构扭曲
 > 拉丁美洲在工业化初期的教育扩张展现了极端的层级不平衡：高等与中等受教育层级入学增长率超过 240%，而初等教育增长迟缓，成人文盲绝对规模维持恒定。这表明国家优先利用高阶教育机会满足精英与城市中产阶级的文凭需求，而牺牲了面向劳工大众的基础受教育水平普惠。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 81–82)]]
 >
 > *The educational expansion in Latin America was remarkably uneven across educational levels: while higher and secondary education experienced unprecedented [[Growth]] rates, primary education lagged behind and adult illiteracy remained virtually unchanged, reflecting an inverted pyramid serving elite reproduction.*
@@ -99,8 +97,8 @@ updated: 2026-10-06
 > |---|---|---|---|
 > | **核心视角** | 复杂知识环境驱动的认知信念成熟 | 生产力技能与边际劳动生产率投资 | 阶级再生产、特权垄断与国家合法化工具 |
 > | **[[Variable\|变量]]角色** | 催化[[Epistemology\|认识论]]由绝对主义走向理性的关键变量 | 决定劳动力市场收入溢价的核心[[Independent Variable\|自变量]] | 国家资源倾斜与[[Dual School System\|双轨学制]]隔离的层级屏障 |
-> | **公平[[Hypothesis\|假设]]** | 假定各层级学校教育自然促进思维进阶 | 假定层级文凭反映真实个人生产能力差异 | 揭示高阶层级优先满足特权阶层，底层大众被困于低阶 |
-> | **代表[[Document\|文献]]** | [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] | Schultz (1961); Becker (1964) | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009)]] |
+> | **公平假设** | 假定各层级学校教育自然促进思维进阶 | 假定层级文凭反映真实个人生产能力差异 | 揭示高阶层级优先满足特权阶层，底层大众被困于低阶 |
+> | **代表文献** | [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] | Schultz (1961); Becker (1964) | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009)]] |
 
 ---
 

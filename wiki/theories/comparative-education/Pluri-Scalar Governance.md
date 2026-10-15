@@ -9,10 +9,10 @@ aliases:
 summary: "罗伯逊、博纳尔与戴尔开创的教育全球化批判性空间治理分析框架，通过治理标度、治理实体与治理活动三维矩阵，解构全球化与跨国经贸规制下国家教育主权的再领土化与公共性重组。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 33
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_count: 31
+theory_related_level: 3
+theory_related_stars: "⭐⭐⭐"
+theory_related_color: "#ede9fe"
 tags:
   - theory/governance
   - comparative-education
@@ -29,12 +29,10 @@ related_concepts:
   - "[[International Education]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Competitiveness]]"
-  - "[[Document]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Research Question]]"
   - "[[Champ]]"
-  - "[[Attrition]]"
   - "[[Discourse]]"
   - "[[Paradigm]]"
   - "[[Grandes Ecoles]]"
@@ -135,7 +133,7 @@ updated: 2026-10-15
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者与[[Document\|文献]] |
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
 > | **主权空间穿透命题** | 超国家经贸协定将教育分解为四大活动并向市场转移，穿透传统国家主权封闭性 | 跨境高等教育贸易、学历学位国际互认、涉外办学规约 | Robertson, Bonal, & Dale (2002); [[Argument_Arnove_2009_WorldSystems\|Arnove (2009, p. 110)]] |
 > | **国家主动再领土化命题** | 国家并非被动受体，而是主动接入多标度规则以提升全球知识经济竞争力 | 新兴国家入世改革、国家高水平大学国际化战略 | Robertson et al. (2002); [[Argument_Arnove_2009_WorldSystems\|Arnove (2009, p. 111)]] |
@@ -163,7 +161,7 @@ updated: 2026-10-15
 ### 整体分析示例
 
 > [!exegesis]- 发展中国家高等教育跨境服务贸易准入分析
-> - **现象与问题** 某发展中国家在加入区域自贸协定后，大量外国营利性私立大学以合作办学名义涌入，造成本土公立大学生源[[Attrition|流失]]与学费飞涨，政府面临主权侵蚀与教育不公的社会批评。
+> - **现象与问题** 某发展中国家在加入区域自贸协定后，大量外国营利性私立大学以合作办学名义涌入，造成本土公立大学生源流失与学费飞涨，政府面临主权侵蚀与教育不公的社会批评。
 > - **维度与材料** 运用三维多标度[[Analytic Framework|分析框架]]展开解剖：
 >   1. **标度追踪** 查阅自贸协定关于教育服务商业存在的减让条款（超国家标度规约），比对该国教育部出台的资质审查办法（国家标度规约）以及省州高校园区的土地优惠政策（次国家标度供给）。
 >   2. **实体解剖** 梳理办学实体的资本构成，识别跨国教育财团（市场主体）如何通过建立壳公司与本土私立机构合作，绕过外资独资禁令。
@@ -213,7 +211,7 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 结合[[World-Systems Theory|世界体系分析]]与全球化研究，系统阐述罗伯逊等人的多标度教育治理三维模型，深刻揭示 [[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]] 规约下大国策略性融入与边缘小国调控权[[Attrition|流失]]的非对称格局。
+> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 结合[[World-Systems Theory|世界体系分析]]与全球化研究，系统阐述罗伯逊等人的多标度教育治理三维模型，深刻揭示 [[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]] 规约下大国策略性融入与边缘小国调控权流失的非对称格局。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b, pp. 343–344)]] — 论证全球教育空间向多标量网络的演进，剖析跨国教育集团与公私伙伴关系对传统双边借用的超越。
 
 ---

@@ -6,10 +6,10 @@ aliases:
 summary: "大学生理解工作意义的三角图式结构，由地位保障与家庭责任、家国理想与社会价值、个体趣味与自我表达三种文化逻辑构成。"
 type: concept
 domain: "sociology-of-education"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 8
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - work-meaning
   - higher-education
@@ -20,11 +20,9 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Discourse]]"
   - "[[Multiplicity]]"
-  - "[[Hypothesis]]"
 related_theories:
   - "[[Culture as Toolkit]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Axial Coding]]"
 related_persons:
   - "[[Yajun Zheng]]"
@@ -35,13 +33,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-09
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 ## 定义
 
 > [!info] 定义
-> 工作意义三角图式结构是[[Yajun Zheng\|郑雅君]]（2023）通过对 70 名中国两所顶尖大学毕业生访谈材料的 216 处[[Coding in Qualitative Research\|编码]]参考点进行[[Axial Coding\|轴心编码]]归纳出的理论模型，描述了名校大学生用于建构工作意义的三种主要文化图式（cultural schemas）及其竞争性关系。这三种图式分别源于不同的社会制度组织——家庭、大学和市场——平行地生产出不同的意义阐释逻辑，构成一个富有内在张力的三角结构([[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]])。
+> 工作意义三角图式结构是[[Yajun Zheng\|郑雅君]]（2023）通过对 70 名中国两所顶尖大学毕业生访谈材料的 216 处编码参考点进行[[Axial Coding\|轴心编码]]归纳出的理论模型，描述了名校大学生用于建构工作意义的三种主要文化图式（cultural schemas）及其竞争性关系。这三种图式分别源于不同的社会制度组织——家庭、大学和市场——平行地生产出不同的意义阐释逻辑，构成一个富有内在张力的三角结构([[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]])。
 >
 > > "上述三种观念图式形成了一个富有内在张力的三角结构。也就是说，对'90后'名校大学生群体来说，似乎并不存在某种单一的、对工作之意义的'主流'理解，而是呈现出多个意义系统并行的状态"
 >
@@ -49,7 +47,7 @@ updated: 2026-10-07
 ## 核心要素
 
 > [!abstract] 地位保障/家庭责任图式
-> 为取得社会地位、履行家庭责任而工作的图式，塑造了一个"养家者"或"家庭成员"的意象。该图式强调工作之于个人和家庭的资源供应功能，将工作视为获得稳定收入以立身养家的一种必不可少的手段。访谈资料中该图式的[[Coding in Qualitative Research\|编码]]参考点多达 101 个，70 位被访者中 54 位明确在择业决策中激活了这一图式（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]）。
+> 为取得社会地位、履行家庭责任而工作的图式，塑造了一个"养家者"或"家庭成员"的意象。该图式强调工作之于个人和家庭的资源供应功能，将工作视为获得稳定收入以立身养家的一种必不可少的手段。访谈资料中该图式的编码参考点多达 101 个，70 位被访者中 54 位明确在择业决策中激活了这一图式（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]）。
 >
 > - **观念来源** 中国的家本位文化传统，主要由家长和父辈从小传递。"考个好大学=找个好工作=稳定高收入=过上好日子"是家长的一贯期望
 > - **核心逻辑** 工作是为了成立家庭和维系家庭，生活的真正意义来源于丰裕舒适的家庭生活，工作本身只是手段
@@ -131,6 +129,6 @@ updated: 2026-10-07
 
 > [!info] 理论基础
 > - [[Culture as Toolkit]] — [[Ann Swidler]]（1986）的工具箱理论是本章最核心的理论资源：三种图式即为名校大学生文化工具箱中可供调用的工作意义资源。"人们所知道的文化比他们所使用的要多"——大学生在适当情形下调用工具箱中的元素去建构行动路线和自身现实（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]）
-> - 韦伯著名的"扳道夫"[[Hypothesis\|假设]]："直接支配人的行为并非理念，而是物质型利益和理念型利益。不过，由观念创造出来的'世界图景'，常常像扳道夫一样决定了行为沿着哪条利益驱动的轨道发生"（，引 Weber, 2005[1956]）
+> - 韦伯著名的"扳道夫"假设："直接支配人的行为并非理念，而是物质型利益和理念型利益。不过，由观念创造出来的'世界图景'，常常像扳道夫一样决定了行为沿着哪条利益驱动的轨道发生"（，引 Weber, 2005[1956]）
 >
 

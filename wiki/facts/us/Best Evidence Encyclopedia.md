@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 37
+fact_related_count: 35
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Evidence Standards]]"
   - "[[Technology Infusion]]"
-  - "[[Document]]"
   - "[[Business as Usual]]"
   - "[[Paradigm]]"
   - "[[Peer-Supported Learning]]"
@@ -42,7 +41,6 @@ related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Systematic Review]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
   - "[[Sample Size Determination]]"
   - "[[Randomised Controlled Trials]]"
@@ -73,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-02
+updated: 2026-10-15
 ---
 
 # Best Evidence Encyclopedia
@@ -108,7 +106,7 @@ updated: 2026-10-02
 
 > [!actor-grid] 组织治理架构
 > - **学术领袖与主任团队** 由[[Robert Slavin\|罗伯特·斯莱文]]与 CRRE 资深教授团队统筹，主持学科[[Meta-analysis\|元分析]]选题与方法学规程研制。
-> - **专职[[Coding in Qualitative Research\|编码]]与质评团队** 由 JHU 专职博士后与研究员组成，执行统一的[[Document\|文献]]筛选与[[Effect Size\|效应量]]加权编码规程。
+> - **专职编码与质评团队** 由 JHU 专职博士后与研究员组成，执行统一的文献筛选与[[Effect Size\|效应量]]加权编码规程。
 > - **国际同行评议网络** 综述成果均经过国际顶级同行评议期刊匿名评审后正式发表，确保学术公信力。
 
 > [!pathways]- [[Best Evidence Synthesis\|最佳证据综合]]（BES）审查机制
@@ -143,7 +141,7 @@ updated: 2026-10-02
 
 > [!indicators]- 影响力维度与指标
 > - **库容规模全美第二** 在全美 12 所清算中心汇总的 1,359 个去重教育干预项目池中，BEE 贡献了 **124 个项目**，规模仅次于 [[What Works Clearinghouse\|WWC]]。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, p. 16)]]
-> - **奠定现代[[Meta-analysis\|元分析]]学科审查[[Paradigm\|范式]]** 其发表的数十篇阅读与数学综合元分析累计被引数千次，成为 WWC 与英国 [[Education Endowment Foundation\|EEF]] 研制教学工具包的重要基础[[Document\|文献]]。
+> - **奠定现代[[Meta-analysis\|元分析]]学科审查[[Paradigm\|范式]]** 其发表的数十篇阅读与数学综合元分析累计被引数千次，成为 WWC 与英国 [[Education Endowment Foundation\|EEF]] 研制教学工具包的重要基础文献。
 > - **直接催生 [[Evidence for ESSA]]** 将学术综述库成功转化为服务各州教育厅与全美学区 [[Title I of the Elementary and Secondary Education Act\|Title I]] 采购的现代决策基础设施。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 23–25)]]
 
 > [!stat-cards]- 核心规模数据
@@ -170,7 +168,7 @@ updated: 2026-10-02
 > > 争论由特定干预开发者主导的清算机构是否能保持评价的中立性。
 > >
 > > - **学术批评者** 指出[[Robert Slavin\|罗伯特·斯莱文]]既是 [[Success for All\|SFA]] 的开发者，又是 BEE 与 [[Evidence for ESSA]] 的创立者与评级主管，存在潜在的利益冲突（[[Conflict of Interest in Research\|conflict of interest]]）。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 27)]]
-> > - **BEE 团队辩护** 强调 BEE 严格执行透明公开的[[Meta-analysis\|元分析]][[Coding in Qualitative Research\|编码]]规则与同行评审出版机制，所有数据与加权计算完全公开可查，其评级结论在 [[What Works Clearinghouse\|WWC]] 等独立政府机构中亦获得高度独立印证。
+> > - **BEE 团队辩护** 强调 BEE 严格执行透明公开的[[Meta-analysis\|元分析]]编码规则与同行评审出版机制，所有数据与加权计算完全公开可查，其评级结论在 [[What Works Clearinghouse\|WWC]] 等独立政府机构中亦获得高度独立印证。
 >
 > > [!axis] 元分析[[Effect Size\|效应量]]合成 vs 微观分域审查
 > > 争论清算中心应采用加权平均合并单一效应量（BEE 模式），还是按微观细分结果域分别独立评级（WWC 模式）。

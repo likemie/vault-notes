@@ -11,7 +11,7 @@ title: "Argument_Thompson_2022_Promising_Student"
 argument_key: "Argument_Thompson_2022_Promising_Student"
 argument_display_title: "Fostering the 'Promising Student' at the Outset: The Digitization and Management of Student Success in the Competitive University"
 argument_kind: "book"
-argument_related_count: 27
+argument_related_count: 25
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -34,7 +34,6 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Stakeholder University]]"
   - "[[Discourse]]"
-  - "[[Document]]"
   - "[[Competitiveness]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Performativity of Measurement]]"
@@ -55,7 +54,6 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Discourse Analysis]]"
 related_persons:
-  - "[[Alfred Nobel]]"
   - "[[Immanuel Kant]]"
 related_facts:
   - "[[German Excellence Initiative]]"
@@ -95,7 +93,7 @@ citation_aliases:
 > [!info]
 > 本章为理论-分析讨论（theoretical-analytical discussion），基于对大学政策文件、进展报告和 [[Online Self-Assessment\|OSA]] 操作手册的[[Discourse Analysis\|话语分析]]。
 > - 方法：话语分析（[[Discourse]] analysis，作者声明在章篇幅内无法提供完整的话语分析，仅"识别核心主题或方面"(p.223)）
-> - 数据来源：来自德国大学的进展报告、大学政策项目文本、OSA 实施手册或操作指南（如 Weber et al., 2019），以及已有关于 OSA 的实证研究[[Document\|文献]]（如 Dietrich et al., 2019; Höft et al., 2019; Röder, 2017）
+> - 数据来源：来自德国大学的进展报告、大学政策项目文本、OSA 实施手册或操作指南（如 Weber et al., 2019），以及已有关于 OSA 的实证研究文献（如 Dietrich et al., 2019; Höft et al., 2019; Röder, 2017）
 > - 案例材料：荷兰 Saxion 大学的"学习选择检查"YouTube 视频(2020)
 
 ## 论证结构
@@ -108,7 +106,7 @@ citation_aliases:
 
 但这里有一个不对称：大学吸引"最好的研究人员"的策略相对明确——研究经费、实验室、薪资——而吸引"最好的学生"则不同。学生的选择会影响他们自身的表现：大学需要找到的不是已经证明自己优秀的学生，而是"最有潜力的"（promising）学生——即那些被期望在**未来**表现出色的学生(p.218)。
 
-> 例：一所大学招募一位[[Alfred Nobel|诺贝尔]]奖得主——这个决策的风险在于"他是否还持续高产出"。同样这所大学录取一位高中生——风险在于"她是否会在未来四年中成功完成学位，甚至成为杰出校友"。前者的信息已在论文和引用中可见；后者的大部分信息还在未来。这就是"有前景"概念的独特之处——它关于未来的承诺而非过去的记录。
+> 例：一所大学招募一位诺贝尔奖得主——这个决策的风险在于"他是否还持续高产出"。同样这所大学录取一位高中生——风险在于"她是否会在未来四年中成功完成学位，甚至成为杰出校友"。前者的信息已在论文和引用中可见；后者的大部分信息还在未来。这就是"有前景"概念的独特之处——它关于未来的承诺而非过去的记录。
 
 ### 第二步：竞争性大学的地缘政治装置
 

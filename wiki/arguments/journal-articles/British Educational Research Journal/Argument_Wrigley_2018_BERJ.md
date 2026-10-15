@@ -9,7 +9,7 @@ title: "Argument_Wrigley_2018_BERJ"
 argument_key: "Argument_Wrigley_2018_BERJ"
 argument_display_title: "The power of 'evidence': Reliable science or a set of blunt tools? British Educational Research Journal, 44(3), 359–376"
 argument_kind: "journal-article"
-argument_related_count: 47
+argument_related_count: 45
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -37,15 +37,14 @@ related_concepts:
   - "[[Bildung]]"
   - "[[Positivism]]"
   - "[[Causality]]"
-  - "[[Document]]"
   - "[[Scientific Method]]"
+  - "[[School Autonomy]]"
   - "[[School Leadership]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Critique of Meta-analysis]]"
   - "[[Heterogeneity]]"
   - "[[Variable]]"
   - "[[Floor and Ceiling Effects]]"
-  - "[[Hypothesis]]"
   - "[[Professional Judgment]]"
   - "[[Paradigm]]"
   - "[[Governing by Numbers]]"
@@ -55,7 +54,6 @@ related_theories:
   - "[[Critical Realism]]"
   - "[[Realist Evaluation]]"
   - "[[Pluralism]]"
-  - "[[Theory of Mind]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
@@ -139,7 +137,7 @@ citation_aliases:
 > |----------|------|
 > | **评估报告样本** | [[Education Endowment Foundation\|EEF]]“新起点”评估报告（EEF, 2015）及其学术发表版本（葛拉德等, 2016）；EEF 项目制学习（Project-based Learning）评估报告（EEF, 2016）。 |
 > | **聚合工具样本** | [[John Hattie\|Hattie]] (2009)《[[Visible Learning\|VL]]》所含 800 项元分析及 50,000 项研究；EEF 发布的《教学与学习工具包》；[[Argument_Simpson_2017_JEP\|Simpson (2017)]] 对该工具包效应量偏差的测量学分析；Blatchford et al. (2012) 关于课堂教学助理（Teaching Assistants, TA）的大型实证研究。 |
-> | **理论[[Document\|文献]]样本** | Greenhalgh (2014, 2015) 的循证医学危机文献；[[Roy Bhaskar\|Bhaskar]] (1978)、[[Ray Pawson\|Pawson]] (2006) 的社会 [[Scientific Method\|科学方法论（Scientific Method）]]论著。 |
+> | **理论文献样本** | Greenhalgh (2014, 2015) 的循证医学危机文献；[[Roy Bhaskar\|Bhaskar]] (1978)、[[Ray Pawson\|Pawson]] (2006) 的社会 [[Scientific Method\|科学方法论（Scientific Method）]]论著。 |
 
 ---
 
@@ -177,7 +175,7 @@ citation_aliases:
 > 1. **对照组模糊性与安慰剂缺失** 教育实验中无法提供“空白安慰剂”，对照组（通常为“一切照旧”）实际上也在进行高强度的教学活动 (p. 5)。对照组具体做什么、是否接受了类似培训，对 [[Effect Size\|效应量]]的计算具有决定性影响，但在报告中往往被隐去。
 > 2. **“新起点”案例深度解构**
 >    - **数据包装**[[Education Endowment Foundation\|EEF]] 行政摘要宣称该项目（针对初中一年级阅读困难学生的合成拼读干预）带来了 $+0.24$ 标准差（SD）的效应量，等同于“3 个月的额外进步”。
->    - **随机分配失败的幻象** 深读技术报告会发现，由于学校自主分配，干预组的[[Pre-test and Post-test\|前测]]成绩远低于对照组的前测成绩。干预组的后测均值甚至仅略高于对照组的前测均值。
+>    - **随机分配失败的幻象** 深读技术报告会发现，由于[[School Autonomy|学校自主]]分配，干预组的[[Pre-test and Post-test\|前测]]成绩远低于对照组的前测成绩。干预组的后测均值甚至仅略高于对照组的前测均值。
 > - **匹配子集拆解** 当研究者从中筛选出前测成绩完全相同的低分学生子集时，干预组和对照组 the 平均进步幅度和后测成绩**几乎完全相同**。所谓的“3 个月额外进步”纯粹是糟糕的随机分配带来的数据偏误幻象。
 >    - **黑箱操作与机制缺失** 研究完全没有诊断**为什么**这些学生会出现阅读困难（[[Critical Realism\|批判实在论]]所要求揭示的深层“因果机制”），而是将其塞入数据黑箱 (p. 6)。
 > 3. **施为者悖论** 报告指出“参与 [[School Leadership\|学校领导]]在随机分配前已非常热情”，“合成拼读的成功离不开教师的热情、赞美与动态节奏”。这意味着干预的效果很大程度上依赖情感与意志，而 RCT 却必须将“人类意志”视为需要控制的“污染源”。
@@ -198,7 +196,7 @@ citation_aliases:
 ### 论证步骤二：元分析与第二级（Level 2）异质性混淆
 
 > [!claim] [[Meta-analysis\|元分析]]通过技术标准强行聚合异质研究，造成“苹果与橘子”的混淆
-> 元分析不以理论构建为标准，而是根据有无对照组、有无标准化测试等纯技术指标筛选[[Document\|文献]]。这种去情境化的数据叠加，将本质不同的教学实践混为一谈，计算出的平均效应量毫无意义，这构成了[[Critique of Meta-analysis\|元分析批判]]的关键论点。
+> 元分析不以理论构建为标准，而是根据有无对照组、有无标准化测试等纯技术指标筛选文献。这种去情境化的数据叠加，将本质不同的教学实践混为一谈，计算出的平均效应量毫无意义，这构成了[[Critique of Meta-analysis\|元分析批判]]的关键论点。
 
 > [!critique-method] 统计炼金术与 [[Heterogeneity\|异质性]]抹除
 > 1. **苹果与橘子的炼金术**Feinstein (1995) 曾痛陈元分析是“21世纪的统计炼金术”，它将患者病情严重程度等关键 [[Variable\|变量]]剥离，把截然相反的实证结果强行合流，“将重要的不一致性埋入统计泥浆中” (p. 9)。
@@ -233,7 +231,7 @@ citation_aliases:
 > - **政策后果** 工具包的扁平化排行直接过滤掉了这一关键的“结构性使用不当”情境，在财政预算缩减时期，极易被决策者用作裁减 TA 的错误依据。
 
 > [!warrant]- 推理桥梁：统计排行的社会后果
-> 波森指出，统计聚合是一场“洗涤过程（purgative process）”：[[Hypothesis\|假设]]被精简、情境被过滤、利益相关者的推理被抹除。越是向高级别聚合，信息就越空洞化。最终呈现在校长和决策者面前的是极具修辞威力的“速度表指针”和“月份排行”，但这些“钝器”不仅无法指导复杂的学校治理，反而会引发灾难性的人事决策。
+> 波森指出，统计聚合是一场“洗涤过程（purgative process）”：假设被精简、情境被过滤、利益相关者的推理被抹除。越是向高级别聚合，信息就越空洞化。最终呈现在校长和决策者面前的是极具修辞威力的“速度表指针”和“月份排行”，但这些“钝器”不仅无法指导复杂的学校治理，反而会引发灾难性的人事决策。
 
 ---
 
@@ -247,7 +245,7 @@ citation_aliases:
 > 2. **自明范畴与个体消解** 在 EBE 数据驱动的审计体制中，“白人英国人（white British）”、“免费学校餐（FSMever，指曾符合免费学校餐资格）”、“期望进步值”等发明出来的统计学标签被重复使用并被视为理所当然，学生的个人背景与生命历程（biography）、文化资产与情感特征被彻底抹去。
 
 > [!voice] [[ResearchED]]：草根运动的政治收编
-> 汤姆·贝内特（[[Theory of Mind\|ToM]] Bennett）创立的 [[ResearchED]] 表面上是赋予一线教师声音，实际上将教师引导向单一的 RCT 量化 [[Paradigm\|范式]]。这种“伪草根运动”得到了前教育部部长尼克·吉布（Nick Gibb）的强力背书。其本质是用符合政府偏好的“草根”来边缘化大学教育学院的学术研究与批判力量。
+> 汤姆·贝内特（ToM Bennett）创立的 [[ResearchED]] 表面上是赋予一线教师声音，实际上将教师引导向单一的 RCT 量化 [[Paradigm\|范式]]。这种“伪草根运动”得到了前教育部部长尼克·吉布（Nick Gibb）的强力背书。其本质是用符合政府偏好的“草根”来边缘化大学教育学院的学术研究与批判力量。
 
 > [!warrant]- 推理桥梁：技术效率对民主讨论的剥夺
 > 新自由主义政策通过“[[Governing by Numbers\|以数字治理]]”，制造了“别无选择的专政（dictatorship of no alternatives）”。当教育政策被包装成“无党派偏见、客观中立的科学证据”时，关于教育目的、社会阶级、不平等和解放的民主讨论就被技术性地压制了。教师从具有反思能力的专业人员，退化为被动接受“最佳证据”并流水线操作的技术工。

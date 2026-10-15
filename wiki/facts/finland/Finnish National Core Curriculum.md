@@ -9,7 +9,7 @@ subtype: policy
 region: finland
 fact_region: "finland"
 fact_kind: "policy"
-fact_related_count: 14
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Performance Indicators]]"
   - "[[Epochal Key Problems]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Champ]]"
   - "[[Atomisation of Knowledge and Skills]]"
 related_theories:
@@ -42,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 ## 背景
 
@@ -79,7 +78,7 @@ updated: 2026-10-07
 > [!example] 实施情况
 > 芬兰学校和教师对 [[Phenomenon-Based Learning\|PhBL]] 的理解与实施存在差异。Leppiniemi (2016) 的教师观点研究显示，课程并未给出一个清晰、单一的 PhBL 解释，学校实践因此呈现多样化([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p.2]])。
 >
-> 这种多样化与芬兰课程治理结构有关：国家核心课程提供总体价值、目标和框架，但学校和教师仍需要把框架[[Transfer Translation Transformation\|转译]]为具体学习项目。PhBL 因此可能表现为跨学科主题周、围绕地方环境的项目、世界遗产[[Champ\|场域]]学习、可持续性探究、艺术本位学习、具身学习或多语方法等不同形态([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p.1]])。
+> 这种多样化与芬兰课程治理结构有关：国家核心课程提供总体价值、目标和框架，但学校和教师仍需要把框架转译为具体学习项目。PhBL 因此可能表现为跨学科主题周、围绕地方环境的项目、世界遗产[[Champ\|场域]]学习、可持续性探究、艺术本位学习、具身学习或多语方法等不同形态([[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p.1]])。
 >
 > 赫尔辛基大学 [[SveaSus Project]] 提供了一个高等教育与教师教育语境中的实践案例。项目以 Helsinki 附近的 Suomenlinna 世界遗产地为主要学习环境，围绕地点、时间和可持续性组织 PhBL，并尝试具身学习、艺术本位和多语方法。该案例说明 PhBL 可从真实场域出发，把可持续性、世界遗产和学习环境结合起来。
 

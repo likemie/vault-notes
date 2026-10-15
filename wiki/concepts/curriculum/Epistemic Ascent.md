@@ -7,10 +7,10 @@ aliases:
 summary: "学习者在学科中从具体经验与运算规则向高阶抽象概念体系逐步演进的认知与课程发展路径；在实证因果数据匮乏情境下，学科公理演进与认识论上升成为课程标准与学习进阶研制的根本推理基石"
 type: concept
 domain: "curriculum"
-related_count: 30
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/curriculum
   - epistemology
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Knowledge-that and Know-how-to]]"
   - "[[Formative Assessment]]"
   - "[[Problem Solving]]"
-  - "[[Document]]"
   - "[[Discourse]]"
   - "[[Regulative and Instructional Discourse]]"
   - "[[Powerful Knowledge]]"
@@ -54,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-06'
-updated: 2026-10-11
+updated: 2026-10-15
 ---
 
 # Epistemic Ascent
@@ -128,7 +127,7 @@ updated: 2026-10-11
 > 探讨当大规模[[Experimental Research|实验研究]]或实证因果数据缺位时，课程标准研制团队如何确立跨学段概念深化与年级分布的合理依据。
 
 > [!claim] [[Argument_McDonnell_2013_AJE|McDonnell & Weatherford (2013)]]
-> **学科逻辑推演对因果实证空白的替代功能** 起草全美[[Common Core State Standards|共同核心州立标准]]（CCSS）时，小学低段数学尚有成熟的儿童认知发展心理学证据支持，但初高中高阶数学标准面临严重的因果实证[[Document|文献]]空白。起草专家（Daro, McCallum, Zimba）依托数学学科自身的公理结构与概念进阶规律，从数与代数的基本性质推演到高阶函数与微积分准备，通过严格的学科逻辑演绎确立了标准的年级纵向布局；该案例表明，在实证数据无法覆盖的领域，严密的学科内生[[Epistemology|认识论]]上升推演充当了不可或缺的理性决策基础。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 14, 22)]]
+> **学科逻辑推演对因果实证空白的替代功能** 起草全美[[Common Core State Standards|共同核心州立标准]]（CCSS）时，小学低段数学尚有成熟的儿童认知发展心理学证据支持，但初高中高阶数学标准面临严重的因果实证文献空白。起草专家（Daro, McCallum, Zimba）依托数学学科自身的公理结构与概念进阶规律，从数与代数的基本性质推演到高阶函数与微积分准备，通过严格的学科逻辑演绎确立了标准的年级纵向布局；该案例表明，在实证数据无法覆盖的领域，严密的学科内生[[Epistemology|认识论]]上升推演充当了不可或缺的理性决策基础。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 14, 22)]]
 
 ---
 

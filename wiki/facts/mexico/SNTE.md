@@ -11,7 +11,7 @@ subtype: organization
 region: "mexico"
 fact_region: "mexico"
 fact_kind: "organization"
-fact_related_count: 11
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -35,8 +35,7 @@ related_theories:
   - "[[Hegemony]]"
 related_methods: []
 related_instruments: []
-related_persons:
-  - "[[Carlos Alberto Torres]]"
+related_persons: []
 related_facts:
   - "[[World Bank]]"
   - "[[INEA]]"
@@ -45,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-09-28
+updated: 2026-10-15
 ---
 
 # SNTE
@@ -89,7 +88,7 @@ updated: 2026-09-28
 
 ## 在比较教育研究中的学术意义
 
-> [!citation-card] [[Carlos Alberto Torres|托雷斯]]论 SNTE 在墨西哥[[State Corporatism|国家法团主义]]与教育政策形成中的核心角色
+> [!citation-card] 托雷斯论 SNTE 在墨西哥[[State Corporatism|国家法团主义]]与教育政策形成中的核心角色
 > 在墨西哥等实行国家[[Neocorporatism|法团主义]]体制的国家，公立教育对于后革命政权的合法性建构以及维护国家统识起到了决定性作用。国家通过立法确立全国教育工作者工会（SNTE）对全体教师的垄断性代表权，将工会制度深度整合为政党恩庇的输送管道；这种法团主义结构深刻决定了教育政策的组织、实施与评估路径。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
 >
 > *Drawing from the tradition of political corporatism, the notion of state corporatism from the political sociology of education has been employed to study the peculiar characteristics of political regimes in the region, in particular educational policy formation in Mexico... Education has played a fundamental role in the legitimation of the postrevolutionary state, and has contributed to state [[Hegemony]] in Mexico.*

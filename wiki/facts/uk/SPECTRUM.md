@@ -12,7 +12,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 30
+fact_related_count: 29
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -27,7 +27,6 @@ tags:
   - evidence-based-education
   - region/uk
 related_concepts:
-  - "[[Document]]"
   - "[[Self-control]]"
   - "[[Causality]]"
   - "[[Reliability]]"
@@ -66,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-09-18
+updated: 2026-10-15
 ---
 
 # SPECTRUM
@@ -76,7 +75,7 @@ updated: 2026-09-18
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）委托曼彻斯特大学研究团队开展的大规模系统[[Document\|文献]]审查与测量工具库建构工程，旨在系统梳理、评定并准入儿童与青少年非认知、心理韧性及社会情感技能的标准化测量工具，为高规范教育试验提供可信的测量学基准。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
+> 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）委托曼彻斯特大学研究团队开展的大规模系统文献审查与测量工具库建构工程，旨在系统梳理、评定并准入儿童与青少年非认知、心理韧性及社会情感技能的标准化测量工具，为高规范教育试验提供可信的测量学基准。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2014 年立项启动，2017 年正式发布综述成果与数据库成果（Wigelsworth et al., 2017）。
@@ -143,7 +142,7 @@ updated: 2026-09-18
 > [!influence-path] 影响路径
 > - **方法路径** 极大提升了非认知教育干预试验的测量严谨性，将[[Construct Validity\|构念效度]]与测量[[Reliability\|信度]]审查制度化嵌入教育实证研究的设计阶段。
 > - **政策与机构治理** 推动 [[Education Endowment Foundation\|EEF]] 形成“认知学业测验”与“非认知心理量表”双轮驱动的标准化测量治理体系。
-> - **国际推广** 为美国 [[Institute of Education Sciences\|IES]]、澳大利亚 [[Evidence for Learning\|E4L]] 等国际证据机构在制定[[Social-Emotional Learning\|社会情感学习]]（SEL）与心理韧性评估标准时提供了可直接复用的系统性[[Document\|文献]]与分级指标。
+> - **国际推广** 为美国 [[Institute of Education Sciences\|IES]]、澳大利亚 [[Evidence for Learning\|E4L]] 等国际证据机构在制定[[Social-Emotional Learning\|社会情感学习]]（SEL）与心理韧性评估标准时提供了可直接复用的系统性文献与分级指标。
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 总结 EEF 前八年实践经验，将 SPECTRUM 工具库的建立作为证据资助机构前置防范测量效度危机、节约数百万英镑成本的标志性成果。

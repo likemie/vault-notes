@@ -8,10 +8,10 @@ aliases:
 summary: "教育哲学与教学法中的核心中介，通过师生与生生间平等的经验共享、批判性质询与共同探究，克服单向灌输并促进批判性思维与意识觉醒"
 type: concept
 domain: "educational-philosophy"
-related_count: 30
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 28
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - field/educational-philosophy
   - field/critical-pedagogy
@@ -25,10 +25,8 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Scaffolding]]"
   - "[[Humility]]"
-  - "[[Hypothesis]]"
   - "[[Socratic Dialogue]]"
   - "[[Operationalization]]"
-  - "[[Document]]"
   - "[[Reciprocal Peer Questioning]]"
   - "[[Classroom Debate]]"
   - "[[Definition of Terms]]"
@@ -58,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-25
-updated: 2026-09-23
+updated: 2026-10-15
 ---
 
 # Dialogue in Education
@@ -88,7 +86,7 @@ updated: 2026-09-23
 > | 维度 | 教育对话（Dialogue） | 传统课堂问答（IRE 模式） | 自由闲聊（Casual Chatting） |
 > |---|---|---|---|
 > | **互动结构** | 多向网状交流、共同探究与追问 | 教师起始（I）-学生应答（R）-教师评估（E） | 松散无结构的话题漫谈 |
-> | **认知要求** | 阐明理由、审查[[Hypothesis\|假设]]、反思矛盾 | 检索并复述教师心中的标准答案 | 无特定认知目标或反思要求 |
+> | **认知要求** | 阐明理由、审查假设、反思矛盾 | 检索并复述教师心中的标准答案 | 无特定认知目标或反思要求 |
 > | **权力动态** | 民主平等的探究伙伴 | 教师垄断评价权与真理裁决权 | 纯社交对称关系 |
 > | **教育功能** | 激发[[Critical Thinking\|批判性思维]]与深层理解 | 检查记忆与课堂纪律维持 | 情感联结与社交破冰 |
 
@@ -106,7 +104,7 @@ updated: 2026-09-23
 > [!ref-table]- 教育对话 11 项可观察具体技术与实证索引
 > <span class="concept-dialogue-strategy-table-marker" aria-hidden="true"></span>
 >
-> | 策略大类 | 编号与具体技术 | [[Operationalization\|操作化]]定义与教学特征 | 证据规模 $k$ | 效应量 $g+$ (95% CI) | 关联条目 / 代表[[Document\|文献]] |
+> | 策略大类 | 编号与具体技术 | [[Operationalization\|操作化]]定义与教学特征 | 证据规模 $k$ | 效应量 $g+$ (95% CI) | 关联条目 / 代表文献 |
 > |---|---|---|---|---|---|
 > | **教师引导类** | 2.1 教师针对性启发提问<br>（Teacher posing questions） | 教师使用高阶探究性提问激活学生深层思考与理由阐明 | $k = 19$ | $0.38$ $[0.21, 0.56]$ | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] |
 > | | 2.3 教师个别化指导对话<br>（Dyad with teacher） | 师生一对一深度交流，针对学生认知障碍提供精准脚手架 | $k = 2$ | $0.43$ $[-0.17, 1.04]$ | 同上 |
@@ -118,7 +116,7 @@ updated: 2026-09-23
 > | | 2.8 无教师自主小组讨论<br>（Small group without teacher） | 小组在无教师直接介入下进行合作探究与观点协商 | $k = 24$ | $0.26$ $[0.09, 0.43]$ | 同上 |
 > | | 2.9 [[Classroom Debate\|课堂辩论]]<br>（Debate） | 在明确规则和正反立场约束下进行结构性质询与反驳 | $k = 8$ | $0.32$ $[0.03, 0.61]$ | [[Classroom Debate]] |
 > | | 2.10 成果汇报后研讨答辩<br>（Oral presentations） | 学生展示探究成果并接受全班质询与同行评议 | $k = 5$ | $0.29$ $[-0.07, 0.65]$ | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] |
-> | **专门流派** | 2.11 [[Socratic Dialogue\|苏格拉底对话]]<br>（Socratic dialogue） | 连续追问前提[[Hypothesis\|假设]]、界定[[Definition of Terms\|术语定义]]并暴露逻辑矛盾 | $k = 8$ | $0.27$ $[-0.01, 0.55]$ | [[Socratic Dialogue]] |
+> | **专门流派** | 2.11 [[Socratic Dialogue\|苏格拉底对话]]<br>（Socratic dialogue） | 连续追问前提假设、界定[[Definition of Terms\|术语定义]]并暴露逻辑矛盾 | $k = 8$ | $0.27$ $[-0.01, 0.55]$ | [[Socratic Dialogue]] |
 > | | 批判教育学问题化对话<br>（Problem-Posing Dialogue） | 师生共同提出生成性问题并审视社会压迫结构 | 质性/理论 | — | [[Problem-Posing Education]] |
 > | | [[Mother-Child Conversation\|母子学习对话]]（MCC） | 家庭社会化中以心智启发为核心的日常对话互动 | 质性/语篇 | — | [[Mother-Child Conversation]] |
 

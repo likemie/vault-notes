@@ -7,7 +7,7 @@ aliases:
 summary: "英国皇家学会在《科学造福社会》报告中提出的前沿科技教育理念，主张在中小学阶段通过专项资助实现人工智能、增强现实与先进制造等颠覆性技术的常态化、低门槛动手接触，使其成为如铅笔般日常的思维工具，从而在根本上去神秘化并消解社会信任赤字"
 type: concept
 domain: "educational-technology"
-related_count: 16
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Cognitive Offloading]]"
   - "[[Deficit Model of Science Communication]]"
-  - "[[Hypothesis]]"
   - "[[Disciplina and Doctrina]]"
   - "[[AI Literacy]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -43,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-09-04
+updated: 2026-10-15
 ---
 
 # Technology Habituation
@@ -72,7 +71,7 @@ updated: 2026-09-04
 > [!contrast-table] 概念辨析
 > | 维度 | 技术[[Habituation\|习惯化]]（Technology Habituation） | 传统科学赤字模型展示（[[Deficit Model of Science Communication\|Deficit Model]]） | 哲学德性习惯化（[[Habituation]]） |
 > |---|---|---|---|
-> | **核心[[Hypothesis\|假设]]** | 技术恐惧源于心理神秘化与操作排斥，唯有常态化浸润才能培育理性公民 | 公众怀疑源于知识匮乏，只需由专家自上而下科普单向灌输即可解决 | 德性通过反复机械训练成为无意识的服从与行为定势 |
+> | **核心假设** | 技术恐惧源于心理神秘化与操作排斥，唯有常态化浸润才能培育理性公民 | 公众怀疑源于知识匮乏，只需由专家自上而下科普单向灌输即可解决 | 德性通过反复机械训练成为无意识的服从与行为定势 |
 > | **学生角色** | 主动探究者、动手制作者、批判评估者与共同设计者 | 被动的知识接收者与科普讲座听众 | 被动的道德[[Disciplina and Doctrina\|规训]]接受者 |
 > | **技术形态** | 交互式生成模型、AR 模拟器、开源硬件与 3D 打印工具 | 橱窗陈列模型、科普海报或由教师单向演示的实验仪器 | 道德戒律或外在行为准则 |
 > | **终极目标** | 培养具备批判性 [[AI Literacy\|AI 素养]]与理性审议能力的平权公民 | 赢得公众对商业技术推广的被动服从与单向认可 | 塑造符合统治秩序的习惯品格 |

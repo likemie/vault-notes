@@ -8,9 +8,9 @@ summary: "美国心理学家，卡内基梅隆大学心理学教授，研究方�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 5
+person_related_count: 4
 person_related_level: 0
-person_related_stars: ""
+person_related_stars: "☆"
 person_related_color: "#e5e7eb"
 born: "1977"
 died: ""
@@ -22,7 +22,6 @@ tags:
   - quantitative-research
   - research-methodology
 related_concepts:
-  - "[[APA Style]]"
   - "[[Sage]]"
 related_theories: []
 related_methods:
@@ -35,7 +34,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-10-02
+updated: 2026-10-15
 ---
 # J. David Creswell
 
@@ -50,7 +49,7 @@ updated: 2026-10-02
 > - 现任卡内基梅隆大学心理学系 William S. Dietrich II 讲座教授。
 > - 担任健康与人类表现实验室主任。
 > - 2011 年获心理科学协会（APS）早期职业奖。
-> - 2014 年获美国心理学会（[[APA Style\|APA]]）早期职业奖。
+> - 2014 年获美国心理学会（APA）早期职业奖。
 > - 2017 年获美国心身医学学会早期职业奖。
 > - 有 16 年研究方法课程教学经验。
 

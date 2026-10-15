@@ -7,9 +7,9 @@ summary: "荷兰组织社会心理学家，文化维度理论提出者，为教�
 type: person
 nationality: netherlands
 person_region: "netherlands"
-person_related_count: 5
+person_related_count: 4
 person_related_level: 0
-person_related_stars: ""
+person_related_stars: "☆"
 person_related_color: "#e5e7eb"
 born: "1928"
 died: "2020"
@@ -19,7 +19,6 @@ tags:
 - culture
 - national-culture
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Effective Teaching]]"
   - "[[Open-Mindedness]]"
 related_theories:
@@ -32,7 +31,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: 2026-09-23
+updated: 2026-10-15
 ---
 ## 简介
 
@@ -48,7 +47,7 @@ updated: 2026-09-23
 ## 主要贡献
 
 > [!success] 主要贡献
-> - 为教育研究中的跨文化解释提供一种[[Hypothesis\|假设]]生成框架：Laursen 用 Hofstede 对丹麦文化的描述来推导"开放、对话、弱教师控制的教学是否更适合丹麦"的预期，再用丹麦[[Effective Teaching\|有效教学]]研究检验该预期([[Argument_Laursen_2015_Paideia\|Laursen, 2015, pp.36–37]])。
+> - 为教育研究中的跨文化解释提供一种假设生成框架：Laursen 用 Hofstede 对丹麦文化的描述来推导"开放、对话、弱教师控制的教学是否更适合丹麦"的预期，再用丹麦[[Effective Teaching\|有效教学]]研究检验该预期([[Argument_Laursen_2015_Paideia\|Laursen, 2015, pp.36–37]])。
 
 ## 争议与批评
 

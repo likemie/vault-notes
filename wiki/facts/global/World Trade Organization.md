@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 29
+fact_related_count: 26
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -34,9 +34,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Competitiveness]]"
   - "[[Technology Transfer]]"
-  - "[[Attrition]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Document]]"
   - "[[Modern Industrial Policy]]"
   - "[[Internationalization of Higher Education]]"
   - "[[Knowledge Production]]"
@@ -48,7 +46,6 @@ related_theories:
   - "[[World-Systems Theory]]"
 related_methods:
   - "[[Peer Debriefing]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -63,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-11
+updated: 2026-10-15
 ---
 
 # World Trade Organization
@@ -130,7 +127,7 @@ updated: 2026-10-11
 > [!indicators]- 影响力维度与指标
 > - **规约网络规模** 覆盖全球 164 个成员国，全球教育服务跨境贸易年规模超过千亿美元。
 > - **制度渗透广度** 推动数十个国家在高等教育立法中修改外资办学准入条例、跨国学位授予规则与离岸分校法人登记制度。
-> - **政策[[Paradigm|范式]]重塑** 将教育从传统纯粹的民族国家公共产品与公民基本权利，重新[[Coding in Qualitative Research|编码]]为可在国际市场上核算成本、竞争获利并按供求规律流动的消费性服务产业。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]; [[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 97–98)]]
+> - **政策[[Paradigm|范式]]重塑** 将教育从传统纯粹的民族国家公共产品与公民基本权利，重新编码为可在国际市场上核算成本、竞争获利并按供求规律流动的消费性服务产业。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]; [[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 97–98)]]
 
 > [!finding-cards] 关键成效与辐射影响
 > - **重构全球教育[[Pluri-Scalar Governance|多标度治理]]空间** 罗伯逊、博纳尔与戴尔（Robertson, Bonal, & Dale, 2002）指出，WTO 打破了单一民族国家对教育治理的垄断，将教育的筹资、供给、所有权与规约重新分布在超国家、国家与次国家空间网络之中。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
@@ -152,7 +149,7 @@ updated: 2026-10-11
 > > - **批判学者与教师工会（Collins, 2007; Education International）** 强烈抨击 WTO 推动的新自由主义议程，指出将教育降格为商业商品严重侵蚀了教育促进社会公平的民主本质，使富裕阶层垄断优质资源而底层沦为教育买卖的受害者。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, p. 97)]]
 > > - **WTO 与自由贸易倡导方** 辩称 [[GATS and Trade in Education Services|GATS]] 允许成员国自主决定开放承诺，服务贸易自由化有助于提高教育供给效率、促进跨国[[Technology Transfer|技术转移]]并扩大学习者的选择权。
 >
-> > [!axis] 大国战略主动性 vs 边缘小国宏观教育调控权[[Attrition|流失]]
+> > [!axis] 大国战略主动性 vs 边缘小国宏观教育调控权流失
 > > 争论 WTO 规则究竟为所有国家提供了公平竞争平台，还是加剧了中心对边缘的结构性剥夺。
 > >
 > > - **全球治理普惠论** 强调 WTO 的多边法律框架保护中小成员免受大国单边制裁，提供透明稳定的发展规则。
@@ -167,7 +164,7 @@ updated: 2026-10-11
 > > - **自由多边主义倡导者（如传统德国经贸立场）** 主张坚持 WTO 框架下的自由贸易准则，忌惮单边产业补贴破坏全球公平竞争与多边争端解决信誉。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 8)]]
 > > - **比较政治经济学批评（[[Argument_Bulfone_2024_IAI|Bulfone et al., 2024]]）** 指出面对中美半导体巨额补贴与单边管制的冲击，WTO 多边争端解决机制陷入瘫痪；即便欧盟委员会在 2019 年前仍试图依赖多边贸易方案，但外部地缘断链风险与美欧补贴竞赛终究迫使其打破多边规约信条，转向防卫性产业政策与[[Strategic Autonomy|战略自主]]，标志着 WTO 在尖端制造与核心技术治理维度的制度性退场。
 
-> [!citation-card] 代表性批评与反思[[Document|文献]]
+> [!citation-card] 代表性批评与反思文献
 > 世贸组织致力于消除边境壁垒、推行学历文凭互认与教育商品化。大国能够主动利用规则增强[[Competitiveness|国家竞争力]]，而经济体量弱小的国家则在世贸规约面前丧失了宏观调控教育的能力。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 111)]]
 >
 > *The WTO, through GATS, seeks to eliminate barriers to cross-border education... Large countries can leverage these rules, whereas small and economically weak countries lose their ability to formulate macro educational policies.*

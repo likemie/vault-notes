@@ -12,7 +12,7 @@ aliases:
 summary: "弗兰克·R·鲍姆加特纳与布莱恩·D·琼斯于1993年提出的公共政策变迁经典理论；指出大多数公共政策在绝大多数时期处于由专属制度场所与正面政策形象构筑的政策垄断稳态之中，但当政策企业家通过重构政策形象并开展制度场所转换时，长期惰性稳态将在短时间内发生断裂式剧变。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 48
+theory_related_count: 47
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -41,7 +41,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Determinism]]"
   - "[[Policy Window]]"
-  - "[[Document]]"
   - "[[Innovation Policy Paradigms]]"
   - "[[Theories of Policy Change]]"
 related_theories:
@@ -80,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-26
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Punctuated Equilibrium Theory
@@ -209,8 +208,8 @@ updated: 2026-10-12
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_McDonnell_2013_AJE|McDonnell & Weatherford (2013)]] — 明确将间断均衡理论与政策垄断框架应用于全美[[Common Core State Standards|共同核心州立标准]]（CCSS）推进的全[[Process Tracing|过程追踪]]。
-> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 批判间断均衡理论将制度变迁窄化为外生突变模型的比较政治经济学经典[[Document|文献]]，提出区分变迁过程与结果维度的四象限[[Analytic Framework|分析框架]]。
-> - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 探讨[[Mission-Oriented Innovation Policy|使命导向创新政策]]如何打破传统新古典[[Market Failure|市场失灵]]垄断并重塑国家能力的代表性[[Document|文献]]。
+> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 批判间断均衡理论将制度变迁窄化为外生突变模型的比较政治经济学经典文献，提出区分变迁过程与结果维度的四象限[[Analytic Framework|分析框架]]。
+> - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 探讨[[Mission-Oriented Innovation Policy|使命导向创新政策]]如何打破传统新古典[[Market Failure|市场失灵]]垄断并重塑国家能力的代表性文献。
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 批判间断均衡理论将常规历史简化为静态稳态的教条，建构解释长周期累积质变的渐进演化模型。
 > - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 评述[[Institutional Layering|制度层叠]]概念并论证其在行动者与工具[[Variable|变量]]层面弥合间断均衡与渐进演变理论分歧的分析文献。
 
@@ -234,7 +233,7 @@ updated: 2026-10-12
 > | [[Common Core State Standards]] | Fact (Policy) | 间断均衡理论在当代教育研究中最为经典的实证案例之一，展现各州标准垄断的破局过程。 |
 > | [[Race to the Top]] | Fact (Program) | 政策倡导者开展场所转换与动员外生财政杠杆、将采纳进程急剧压缩为间断突变的核心国家工程。 |
 > | [[American Federation of Teachers]] | Fact (Organization) | 方案制定阶段行使把关权、影响政策垄断重塑的重要专业利益共同体。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | Argument | 明确将断裂平衡理论与政策垄断框架应用于全美 CCSS 推进全[[Process Tracing\|过程追踪]]的核心[[Document\|文献]]。 |
+> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | Argument | 明确将断裂平衡理论与政策垄断框架应用于全美 CCSS 推进全[[Process Tracing\|过程追踪]]的核心文献。 |
 > | [[Argument_Streeck_Thelen_2005_OUP\|Streeck & Thelen (2005)]] | Argument | 提出过程与结果二元变迁类型学并深刻反思断裂平衡论局限的经典导论文献。 |
 > | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | Argument | 探讨使命导向创新政策如何打破传统新古典垄断并重塑国家能力的代表性文献。 |
 > | [[Argument_VanDerHeijden_2011_Politics\|Van der Heijden (2011)]] | Argument | 评述制度层叠概念并论证其在行动者与工具变量层面弥合间断均衡与渐进演变理论分歧的分析文献。 |

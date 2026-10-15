@@ -32,11 +32,9 @@ related_concepts:
   - "[[Brainstorming]]"
   - "[[Unit of Analysis]]"
   - "[[Competitiveness]]"
-  - "[[Attrition]]"
   - "[[Workforce Development]]"
   - "[[Emergence]]"
   - "[[Presence]]"
-  - "[[Hypothesis]]"
   - "[[Paradigm]]"
 related_theories:
   - "[[Cognitive Constructivism]]"
@@ -48,7 +46,6 @@ related_methods:
   - "[[Design-Based Research]]"
   - "[[Case Study]]"
   - "[[Questionnaire]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Triangulation]]"
   - "[[Pre-test and Post-test]]"
 related_instruments: []
@@ -69,7 +66,7 @@ title: "Argument_Murphy_2026_JTS"
 argument_key: "Argument_Murphy_2026_JTS"
 argument_display_title: "Building Collaboration and Knowledge in Semiconductor Research: A Case Study on CHIPS & Science Act Workshops"
 argument_kind: "journal-article"
-argument_related_count: 27
+argument_related_count: 24
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -121,7 +118,7 @@ issuing_organization: ""
 > | **单机构案例研究设计**<br>Single Case Study Design | 采用深入探究复杂教育干预与真实情境互动的单机构[[Case Study\|案例研究]]设计（Yin, 2018），以美国西南部一所年科研收入超 10 亿美元、拥有显著半导体学科实力的公立[[Research Universities\|研究型大学]]为[[Unit of Analysis\|分析单元]]。（pp.3–4） |
 > | **基于设计的研究**<br>[[Design-Based Research]] | 采用三阶段迭代干预框架（Donaldson et al., 2021; Barab & Squire, 2004），各阶段之间依据收集的参与者反馈、组织制品与实务经验持续调整干预方案与技术议题。（pp.3–4, 6） |
 > | **多源质性资料采集**<br>Data Collection Procedures | 涵盖工作坊后由四道开放式问题构成的匿名在线自陈[[Questionnaire\|问卷]]（询问总体体验、小组研讨体验、遭遇困难、最有效环节）、三期活动日程安排、讲义与指南材料以及现场协作成果记录。（p.4） |
-> | **独立质性主题编码**<br>Qualitative Coding Approach | 三位研究者依据 Creswell & Poth (2018) 的质性探究规范，对问卷文本独立进行主题识别与模式[[Coding in Qualitative Research\|编码]]，出现分歧时通过研讨协商达成一致，并结合描述性参会统计予以[[Triangulation\|三角互证]]。 |
+> | **独立质性主题编码**<br>Qualitative Coding Approach | 三位研究者依据 Creswell & Poth (2018) 的质性探究规范，对问卷文本独立进行主题识别与模式编码，出现分歧时通过研讨协商达成一致，并结合描述性参会统计予以[[Triangulation\|三角互证]]。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -159,7 +156,7 @@ issuing_organization: ""
 > [!policy-context] 芯片法案政策诱因与产业危机
 > - **发布主体与立法授权** 美国国会两党表决通过并由总统签署生效《为制造半导体创造有效激励与科学法案》（即 [[CHIPS and Science Act|芯片与科学法案]]），授权超过 500 亿美元直接资金。（pp.1–2）
 > - **适用对象与责任主体** 面向本土半导体芯片制造企业、研发基地、高水平公立与私立[[Research Universities|研究型大学]]以及跨部门区域创新网络。（pp.1–3）
-> - **制造产能持续[[Attrition|流失]]** 尽管美国企业采购了全球近一半的半导体芯片销售额，但美国本土制造产能占比已由 1990 年的 37% 剧烈衰退至当前的 12%，尖端芯片制造高度依赖东亚供应链。（p.2）
+> - **制造产能持续流失** 尽管美国企业采购了全球近一半的半导体芯片销售额，但美国本土制造产能占比已由 1990 年的 37% 剧烈衰退至当前的 12%，尖端芯片制造高度依赖东亚供应链。（p.2）
 > - **STEM 劳动力严重短缺** 产业预测显示，到 2030 年全美将面临高达 140 万个 STEM 岗位的巨大缺口，迫切需要高等教育系统在本科、研究生以及在职工程技能培训层面全面革新培养模式。（p.7）
 
 面对这一宏观结构性危机，研究型大学的传统学术功能发生了重要转向。（pp.2–3）
@@ -239,7 +236,7 @@ issuing_organization: ""
 
 #### 1. 参与者质性反馈揭示出会议模式差异与时间约束
 
-对三期参与者开放式反馈的横向[[Coding in Qualitative Research|编码]]对比显示，不同交付形式与组织节奏对学者体验具有深刻塑造作用。（pp.5–6）
+对三期参与者开放式反馈的横向编码对比显示，不同交付形式与组织节奏对学者体验具有深刻塑造作用。（pp.5–6）
 
 > [!row-contrast] 三期工作坊质性调查主题占比与演进特征
 > | 调查[[Questionnaire\|问卷]]核心主题 | 第一期（线上，$n=21$） | 第二期（线下，$n=11$） | 第三期（混合，$n=12$） | [[Emergence\|涌现]]核心主题特征 |
@@ -260,7 +257,7 @@ issuing_organization: ""
 结合三轮 DBR 实践反思，研究系统提炼出面向重大科技战略的高校科研人员发展十项操作规程：（pp.6–7）
 
 > [!proc] 高校国家战略学者发展十项设计原则
-> 1. **激发既有[[Hypothesis|假设]]反思** 设置促发批判性自省的活动，引导学者审视和质疑对既有[[Paradigm|研究范式]]、跨学科协作或自身专业边界的惯性假设。（p.6）
+> 1. **激发既有假设反思** 设置促发批判性自省的活动，引导学者审视和质疑对既有[[Paradigm|研究范式]]、跨学科协作或自身专业边界的惯性假设。（p.6）
 > 2. **实施灵活多元模态** 灵活统筹线上、线下与混合交付模式，平衡不同背景学者的日程与物理时空约束。
 > 3. **奠定坚实理论根基** 必须将学习科学理论作为专业发展活动与课程设计的首要架构支柱。
 > 4. **留足显性与有机社交时空** 在紧凑技术报告之外，预留充足且有保障的正式与非正式面对面网络拓展时间。

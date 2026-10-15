@@ -33,10 +33,8 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Literature Review]]"
   - "[[Reliability]]"
-  - "[[Hypothesis]]"
   - "[[Concept Mapping]]"
   - "[[Approaches to Teaching and Learning]]"
-  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
@@ -44,7 +42,6 @@ related_methods:
   - "[[Likert Scale]]"
   - "[[Focus Group]]"
   - "[[Semi-structured Interview]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Descriptive Analysis]]"
 related_instruments:
   - "[[Concurrency of Learning in the Core Questionnaire]]"
@@ -66,9 +63,9 @@ title: "Argument_Metli_2022_IJER"
 argument_key: "Argument_Metli_2022_IJER"
 argument_display_title: "Concurrency of Learning: Strategies and Challenges of Promoting Coherence in the Core in the International Baccalaureate Diploma Programme (IBDP)"
 argument_kind: "journal-article"
-argument_related_count: 32
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 29
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: "International Journal of Educational Reform"
 book_title: ""
@@ -102,7 +99,7 @@ issuing_organization: ""
 > |------|----------------|
 > | **[[Questionnaire\|问卷调查]]** | N=40，包含土耳其 15 所 [[International Baccalaureate\|IB]] 授权学校的 DP 协调员、核心组件教师及管理者。使用[[Concurrency of Learning in the Core Questionnaire\|并发学习问卷]]（Concurrency of Learning in the Core Questionnaire，CLCQ）收集人口统计数据，并通过[[Likert Scale\|李克特量表]]和开放式问题评估参与者对[[Concurrency of Learning\|并发学习]]的认知与[[Praxis\|实践]]情况。 |
 > | **[[Focus Group\|焦点小组]]** | N=7（5 名 DP 协调员，2 名管理者）。进行 40 分钟[[Semi-structured Interview\|半结构化访谈]]，探讨并发学习的定义、促进策略、重要性、跨组件链接实例及实施困境。 |
-> | **分析策略** | 使用主题内容分析法（Thematic Content Analysis）[[Coding in Qualitative Research\|编码]]访谈和问卷简答题；采用[[Descriptive Analysis\|描述性统计分析]]定量问卷结果，以印证定性发现。 |
+> | **分析策略** | 使用主题内容分析法（Thematic Content Analysis）编码访谈和问卷简答题；采用[[Descriptive Analysis\|描述性统计分析]]定量问卷结果，以印证定性发现。 |
 
 ### 测量工具复刻
 
@@ -157,7 +154,7 @@ issuing_organization: ""
 > - **CAS 阶段** 参与与涂鸦相关的创意或社区服务项目。
 > - **TOK 阶段** 在知识展演（Presentation Task）中探究诸如“任何事物都能被称为艺术吗？”“艺术家是否享有特殊的伦理特权？”“我们是否应允许以艺术之名违反法律？”等知识问题。
 > - **EE 阶段** 在视觉艺术学科的 EE 中，进一步从艺术与破坏的双重角度探究涂鸦，提出研究问题“涂鸦如何对社会的视觉文化做出贡献？”
-> 这种联动使学生能够批判性地思考艺术表达途径，并深入探究艺术创作背后的伦理[[Hypothesis\|假设]]。
+> 这种联动使学生能够批判性地思考艺术表达途径，并深入探究艺术创作背后的伦理假设。
 
 > [!case] CAS and EE 的行动转化：研究与实践的双向滋养
 > - **从实践到研究（CAS → EE）** 学生在 CAS 社区服务和志愿活动中获得的经历，可以转化为 EE 深入调查全球问题（Global Issue）的起点。
@@ -204,7 +201,7 @@ issuing_organization: ""
 ## 自述局限与启示
 
 > [!warning] 自述局限
-> 原文未专门设立局限性章节，但在结论中提出，目前关于[[Concurrency of Learning\|并发学习]]的[[Document\|文献]]有限，本研究揭示的挑战受制于土耳其独特的双轨制教育背景（国家课程与[[Gaokao\|高考]]压力）。
+> 原文未专门设立局限性章节，但在结论中提出，目前关于[[Concurrency of Learning\|并发学习]]的文献有限，本研究揭示的挑战受制于土耳其独特的双轨制教育背景（国家课程与[[Gaokao\|高考]]压力）。
 
 > [!implication]- 对未来研究与实践的启示
 > - **对 IB 官方的建议** 除了将并发学习显性纳入现有培训，IB 应考虑增设关于并发学习的 **第 3 类（Category 3）专业发展工作坊**。此外，IB 需与土耳其等地区的高等教育机构合作，提高 [[IB Diploma Programme\|IBDP]] 的录取认可度，以帮助学校和学生在国家考试压力下优先考虑 DP 课程。

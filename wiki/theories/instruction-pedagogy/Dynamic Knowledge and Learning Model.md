@@ -5,7 +5,7 @@ aliases:
 summary: "用于澄清学习结果概念的四阶知识模型，强调不同知识形式之间的动态反身作用，并把学习理解为持续生成而非静态积累。"
 type: theory
 theory_field: "instruction-pedagogy"
-theory_related_count: 22
+theory_related_count: 21
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Surface and Deep Learning]]"
   - "[[Scientism]]"
   - "[[Knowledge Production]]"
-  - "[[Document]]"
   - "[[Evidence-Based Education]]"
   - "[[Cargo Cult Science]]"
 related_theories:
@@ -30,7 +29,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Quantitative Research]]"
   - "[[Intervention Research]]"
-  - "[[Coding in Qualitative Research]]"
+  - "[[Intercoder Agreement]]"
   - "[[Effect Size]]"
   - "[[Classroom Observation]]"
   - "[[Meta-meta-analysis]]"
@@ -45,7 +44,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 ## 定义
@@ -93,14 +92,14 @@ updated: 2026-10-15
 ## 研究用途（可操作化方向）
 
 
-- **作为"学习结果[[Coding in Qualitative Research|编码]]框架"** 在综述或[[Meta-analysis|元分析]]中，可先把 outcome 指标按一阶至四阶知识进行编码，再比较不同干预主要作用于哪一阶知识。
+- **作为"学习结果编码框架"** 在综述或[[Meta-analysis|元分析]]中，可先把 outcome 指标按一阶至四阶知识进行编码，再比较不同干预主要作用于哪一阶知识。
 - **作为"课程与评价对齐工具"** 若课程目标强调三阶/四阶知识（如创新、批判反思），测量工具就不能仅依赖事实回忆型测验。
 - **作为"教学设计诊断镜头"** 同一课堂活动可能同时触发多阶[[Knowledge Production|知识生成]]，避免将教学策略与单一学习层次机械绑定。
 
 ## 方法学限制
 
 
-- **边界判定困难** 三阶与四阶知识在真实课堂中的区分依赖解释者判断，[[Coding in Qualitative Research|编码]]一致性可能偏低。
+- **边界判定困难** 三阶与四阶知识在真实课堂中的区分依赖解释者判断，[[Intercoder Agreement|编码一致性]]可能偏低。
 - **测量工具稀缺** 现有大规模标准化测试更容易测到一阶/二阶知识，三阶/四阶常需质性证据或复杂表现性任务支持。
 - **跨研究可比性问题** 即使都接受四阶框架，不同研究对同一学习结果的阶次归类仍可能不一致。
 
@@ -108,7 +107,7 @@ updated: 2026-10-15
 
 > [!warning] 争议与批评
 > - Qvortrup 的模型是对 [[Visible Learning]] 的内部修正：它承认 VL 的学习结果概念不够清楚，但仍维护[[Meta-analysis\|元分析]]和[[Effect Size\|效应量]]比较的基本合法性([[Argument_Qvortrup_2015_Paideia\|Qvortrup, 2015, pp.27–33]])。
-> - 模型主要由理论[[Document\|文献]]推导而来，论文未提供[[Classroom Observation|课堂观察]]、测试工具或实证数据来验证四阶知识能否被稳定识别或测量([[Argument_Qvortrup_2015_Paideia\|Qvortrup, 2015, pp.29–33]])。
+> - 模型主要由理论文献推导而来，论文未提供[[Classroom Observation|课堂观察]]、测试工具或实证数据来验证四阶知识能否被稳定识别或测量([[Argument_Qvortrup_2015_Paideia\|Qvortrup, 2015, pp.29–33]])。
 
 ## 相关案例／政策
 

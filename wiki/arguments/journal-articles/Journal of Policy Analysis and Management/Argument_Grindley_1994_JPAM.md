@@ -26,7 +26,6 @@ related_concepts:
   - "[[Precompetitive Research]]"
   - "[[Absorptive Capacity]]"
   - "[[Industry Affiliate Program]]"
-  - "[[Document]]"
   - "[[Pilot Scale Platform]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Reliability]]"
@@ -45,7 +44,6 @@ related_concepts:
   - "[[Paradigm]]"
 related_theories: []
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Comparative Case Study]]"
   - "[[Statistical Process Control]]"
 related_instruments: []
@@ -76,7 +74,7 @@ title: "Argument_Grindley_1994_JPAM"
 argument_key: "Argument_Grindley_1994_JPAM"
 argument_display_title: "SEMATECH and collaborative research: Lessons in the design of high-technology consortia"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -112,7 +110,7 @@ issuing_organization: ""
 > |---|---|
 > | **前竞争研发与专有权冲突**<br>[[Precompetitive Research]] | 解释为何直接争夺市场的同业企业在横向联盟中因担心技术外泄与失去竞争优势而拒绝共享核心技术，迫使联盟转向商业冲突较低的通用标准与上下游协同。 |
 > | **企业吸收能力与研发回报诉求**<br>Absorptive Capacity | 阐明利用基础研究成果需要企业在内部投入昂贵的吸收与转化资源；企业为了确保会员费获得明确回报，会自发推动联盟将研发重心转向近中期、易于应用到产线的工程技术。 |
-> | **人员流动与隐性知识吸收能力**<br>Personnel Mobility & Tacit Knowledge | 解释高度复杂的半导体制造工艺与设备调试诀窍（Tacit Knowledge）无法完全通过图纸与手册[[Coding in Qualitative Research\|编码]]化传递；骨干工程师全职借调（Assignees）与产线轮换构成了跨企业扩散技术诀窍与提升企业[[Absorptive Capacity\|吸收能力]]的最有效渠道。（pp.726, 752–753） |
+> | **人员流动与隐性知识吸收能力**<br>Personnel Mobility & Tacit Knowledge | 解释高度复杂的半导体制造工艺与设备调试诀窍（Tacit Knowledge）无法完全通过图纸与手册编码化传递；骨干工程师全职借调（Assignees）与产线轮换构成了跨企业扩散技术诀窍与提升企业[[Absorptive Capacity\|吸收能力]]的最有效渠道。（pp.726, 752–753） |
 > | **开放科学与产学研生态分工**<br>Open Science & Institutional Division of Labor | 阐明大学基础研究的“开放披露、公共资助与高层次人才培育”属性与[[Industry Affiliate Program\|产业联盟]]“近中期工程化、中试验证与专有转化”之间的生态互补关系；产业联合体不能替代大学长周期的基础科学探索与人才蓄水池功能。（p.754） |
 > | **纵向链条治理与用户—供应商协同**<br>User-Supplier Governance | 解释芯片制造厂商与上游设备供应商之间如何通过早期介入、联合开发与透明测试，打破以往相互防范的对抗性采购模式，降低沟通与试错成本。 |
 > | **公共资助与政治利益分配风险**<br>Pork Barrel Politics | 解释完全由政府行政官员主导的项目容易演变为照顾各方政治诉求的利益分配；唯有由企业对等出资并主导研发议题，才能确保项目紧扣市场与工程实际需求。 |
@@ -135,7 +133,7 @@ issuing_organization: ""
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |---|---|
-> | **[[Document\|文献]]与档案样本** | [[Sematech]] 1988–1993 年度报告、项目总结档案、美国国防科学委员会（Defense Science Board, DSB）1987 年报告、美国半导体行业协会（Semiconductor Industry Association, SIA）报告及美日欧 16 个研发联盟官方资料。 |
+> | **文献与档案样本** | [[Sematech]] 1988–1993 年度报告、项目总结档案、美国国防科学委员会（Defense Science Board, DSB）1987 年报告、美国半导体行业协会（Semiconductor Industry Association, SIA）报告及美日欧 16 个研发联盟官方资料。 |
 > | **访谈对象构成** | 25+ 位关键知情人，涵盖 [[Sematech]] 核心管理层、出资芯片厂商派驻项目经理、中小半导体设备与材料供应商总裁及技术总监。 |
 > | **产业数据覆盖** | 1979–1992 年全球前十大商用半导体芯片厂商产销数据、全球前十大半导体制造设备供应商销售额，以及 1991–1992 年美、日、欧各区域半导体资本支出与设备采购变动。 |
 
@@ -213,7 +211,7 @@ issuing_organization: ""
 
 #### 3. 工程师借调轮换、大学卓越中心（SCOE）与供应链质量培训构筑了技术扩散的人才与知识底座
 
-联盟深刻认识到，尖端微电子制造技术本质上高度依赖“做中学”（[[Learning by Doing]]）中积累的非[[Coding in Qualitative Research|编码]]化工艺诀窍（[[Tacit Knowledge]]）；唯有通过人才深度流动、产学研分工与全产业链[[Engineering Education|工程教育]]，才能打通实验室研发到产线商业化的知识转化断层（pp.726, 734–735, 752–754）：
+联盟深刻认识到，尖端微电子制造技术本质上高度依赖“做中学”（[[Learning by Doing]]）中积累的非编码化工艺诀窍（[[Tacit Knowledge]]）；唯有通过人才深度流动、产学研分工与全产业链[[Engineering Education|工程教育]]，才能打通实验室研发到产线商业化的知识转化断层（pp.726, 734–735, 752–754）：
 
 > [!pathways] SEMATECH 三位一体的教育培训与人才扩散机制
 > - **骨干工程师借调轮换制（Assignees Program）** 联盟要求 14 家出资芯片制造厂商选派 200 至 300 名资深工程技术人员全职借调进驻奥斯汀中试基地，借调期通常为 1 至 2 年。工程师在真实中试线上直接参与下一代 0.35 微米关键设备联调与先进制程攻关；借调期满返回母公司后，他们将最新的工艺诀窍、COO/SPC 标准和协作文化带回各企业商业产线，成为企业内部的“技术播种者”与转化桥梁，彻底解决了以往研发成果“停留在纸面报告、难以在车间落地”的困境。（pp.726, 752–753）
@@ -325,7 +323,7 @@ issuing_organization: ""
 > | **[[ESPRIT\|ESPRIT II]]** | 欧洲 | 1988–1993 | \$3,800 | 50% | 伞状分散管理 | 纯行政审批 | 否 | 500+ 家 | 信息技术与应用软件扩展 |
 > | **Eureka** | 欧洲 | 1985–1996 | \$7,700 | 50% | 伞状分散管理 | 纯行政审批 | 否 | 数百家（297个项目） | 尤里卡先进泛电子技术协同 |
 > | **RACE** | 欧洲 | 1985–1996 | \$3,000 | 50% | 伞状分散管理 | 纯行政审批 | 否 | 数百家 | 欧洲先进通信技术研发计划 |
-> | **[[Microelectronics and Computer Technology Corporation\|MCC]]** | 美国 | 1983–至今 | 约\$80/年 | 0%（竞标公助） | 混合制（转向伞状） | 研发工程调度 | 是 | 约 50 家 | 半导体与计算基础前沿技术 |
+> | **MCC** | 美国 | 1983–至今 | 约\$80/年 | 0%（竞标公助） | 混合制（转向伞状） | 研发工程调度 | 是 | 约 50 家 | 半导体与计算基础前沿技术 |
 > | **NCMS** | 美国 | 1986–至今 | 约\$150/年 | 50%（混合资助） | 伞状分散管理 | 研发工程调度 | 否 | 180 家 | 国家制造科学中心先进工艺 |
 > | **[[Sematech\|SEMATECH I]]** | 美国 | 1987–1992 | \$1,000 | 50% | 集中式项目管理 | 研发工程调度 | 是 | 11 家（原14家） | 半导体制造共性工艺与装备 |
 > | **[[Sematech\|SEMATECH II]]** | 美国 | 1993–至今 | 约\$200/年 | 50% | 集中式项目管理 | 研发工程调度 | 是 | 11 家 | 半导体制造装备与通用标准 |
@@ -352,12 +350,12 @@ issuing_organization: ""
 ## 主要发现
 
 > [!finding-cards] 核心实证结论
-> 1. **研发联盟战略调整的普遍规律** [[Sematech]]、[[Microelectronics and Computer Technology Corporation|MCC]] 与欧洲各类联盟的实践表明，产业主导型研发联合体通常会从最初雄心勃勃的长周期前竞争基础研发逐步调整为近中期、通用型、具有明确应用成效的工程技术与标准。（pp.724, 754）
+> 1. **研发联盟战略调整的普遍规律** [[Sematech]]、MCC 与欧洲各类联盟的实践表明，产业主导型研发联合体通常会从最初雄心勃勃的长周期前竞争基础研发逐步调整为近中期、通用型、具有明确应用成效的工程技术与标准。（pp.724, 754）
 > 2. **纵向产业链协同优于同行横向竞争协同** 芯片制造企业与上游设备供应商的纵向研发合作有效化解了直接竞争对手间的保密防范，成为高技术公私协同中最顺畅的组织模式。（pp.751–752）
 > 3. **美日市场格局反转的多重客观原因** 1990 年代初美国芯片与设备市场份额的反超，主要由日元大幅升值、日本泡沫经济破裂导致资本支出锐减 29% 以及个人电脑微处理器爆发等宏观因素驱动，研发联盟的核心贡献在于提升微观设备稳定性与重建买卖双方信任。（pp.740–744）
 > 4. **重资产落后行业难以单纯依靠研发联盟逆转** [[Sematech]] 无法挽救已大幅落后于日本同行的光刻步进机厂商 GCA，说明研发联盟无法弥补巨额资本规模与代际技术差距。（pp.749–750）
 > 5. **政府的催化角色与大学基础科研不可替代** 政府资金在联盟初期提供了公信力与启动保障，但研发方向必须由产业主导；同时政府必须持续资助大学在开放环境中开展长周期基础研究与高层次人才培养，作为底层技术创新的源头。（pp.750–751, 754）
-> 6. **人员跨界流动与[[Further Education|继续教育]]是隐性技术扩散的核心载体** 联盟实践证明，尖端制造工艺与[[Reliability|可靠性]]管理无法仅凭专利[[Document|文献]]与操作指南实现有效转移，依靠 200 余名骨干工程师全职借调（Assignees）以及面向 130 余家供应商的[[Total Quality Management|全面质量管理]]（PFTQ）培训，构成了美国半导体产业链技术[[Absorptive Capacity|吸收能力]]与工程素质升级的最关键支撑。（pp.726, 734–735, 752–753）
+> 6. **人员跨界流动与[[Further Education|继续教育]]是隐性技术扩散的核心载体** 联盟实践证明，尖端制造工艺与[[Reliability|可靠性]]管理无法仅凭专利文献与操作指南实现有效转移，依靠 200 余名骨干工程师全职借调（Assignees）以及面向 130 余家供应商的[[Total Quality Management|全面质量管理]]（PFTQ）培训，构成了美国半导体产业链技术[[Absorptive Capacity|吸收能力]]与工程素质升级的最关键支撑。（pp.726, 734–735, 752–753）
 
 > [!stat-cards]- 关键实证数据
 > - **\$200m/年** [[Sematech]] 初期年度研发预算（[[DARPA]] 与 14 家企业各出资 1 亿美元）。（p.729）

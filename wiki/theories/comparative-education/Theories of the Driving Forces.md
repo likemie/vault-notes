@@ -9,10 +9,10 @@ aliases:
 summary: "20世纪前中期主导欧洲比较教育学术研究的人文主义古典范式，由弗里德里希·施奈德与尼古拉斯·汉斯奠立；该理论主张在民族国家教育体系的多样性表象背后，探寻由民族性格、地理环境、经济生产、宗教信仰与文化哲学构成的深层驱动力（Triebkräfte），揭示国家教育形态的历史发生学机制与内在趋同性。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 24
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_count: 22
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 domain: "comparative-education"
 theory_level: 1
 theory_stars: "⭐"
@@ -30,8 +30,6 @@ related_concepts:
   - "[[Empiricism]]"
   - "[[Life Power]]"
   - "[[Epistemology]]"
-  - "[[Bildung]]"
-  - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Scientific Method]]"
   - "[[Rich and Thick Description]]"
@@ -56,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-10-15
 ---
 
 # Theories of the Driving Forces
@@ -119,14 +117,14 @@ updated: 2026-09-29
 > 本命题探讨驱动力理论如何作为联结国家多样性与欧洲精神统一性的[[Epistemology|认识论]]桥梁。
 
 > [!claim] [[Wolfgang Mitter|Mitter, W.]]
-> **统一性信念向驱动力理论的转化** 米特指出，欧洲思想史中自中世纪以来便存在的共享精神遗产与科学哲学潮流，在 20 世纪前中期被学者转化为系统性的驱动力理论。汉斯与施奈德的宏大历史全景研究，根本旨趣正在于通过抽丝剥茧的动因分析，证明欧洲各民族教育在表层制度分化之下，始终共享着迈向人道、理性与公民[[Bildung|教养]]的统一动力源泉。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88, 93)]]
+> **统一性信念向驱动力理论的转化** 米特指出，欧洲思想史中自中世纪以来便存在的共享精神遗产与科学哲学潮流，在 20 世纪前中期被学者转化为系统性的驱动力理论。汉斯与施奈德的宏大历史全景研究，根本旨趣正在于通过抽丝剥茧的动因分析，证明欧洲各民族教育在表层制度分化之下，始终共享着迈向人道、理性与公民教养的统一动力源泉。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88, 93)]]
 
 ---
 
 ### 命题总览
 
 > [!contrast-table] 驱动力理论核心命题归纳
-> | 命题类型 | 核心指向 | 代表学者 | 关键[[Document\|文献]] |
+> | 命题类型 | 核心指向 | 代表学者 | 关键文献 |
 > |---|---|---|---|
 > | **命题一：动因发生学** | 教育体制受制于民族性格、宗教、地理与经济驱动力的复合作用 | Friedrich Schneider (1947); Nicholas Hans (1949) | *Triebkräfte der Pädagogik der Völker* |
 > | **命题二：趋同统一性** | 驱动力理论旨在发掘多样性制度表象下共享的欧洲统一文明根基 | [[Wolfgang Mitter\|Wolfgang Mitter (2009)]] | [[Argument_Mitter_2009_Europe\|Mitter (2009, pp. 88, 93)]] |

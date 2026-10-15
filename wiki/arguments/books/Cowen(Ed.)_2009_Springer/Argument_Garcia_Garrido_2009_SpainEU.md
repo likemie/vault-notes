@@ -7,7 +7,7 @@ title: "Argument_Garcia_Garrido_2009_SpainEU"
 argument_key: "Argument_Garcia_Garrido_2009_SpainEU"
 argument_display_title: "The European Union and Education in Spain"
 argument_kind: "book-chapter"
-argument_related_count: 27
+argument_related_count: 26
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -43,7 +43,6 @@ related_concepts:
   - "[[Comprehensive Education]]"
   - "[[Heterogeneity]]"
   - "[[State Educational Sovereignty]]"
-  - "[[Teaching Assistant]]"
   - "[[Critique of PISA]]"
   - "[[Academic Achievement]]"
   - "[[Class Size]]"
@@ -98,7 +97,7 @@ updated: 2026-10-11
 > | **[[Comparative Policy Analysis\|比较政策分析]]**<br>[[Comparative Policy Analysis]] | 提供跨国多维对照视角，将西班牙的激进分权与学制延展置于英、美、德、法、意等国审慎调适的政策轨道中展开对质检验。（pp. 326–328） |
 
 > [!warrant]- 理论如何支撑论证
-> 国家教育主权与跨国比较分析破除了欧盟正在推行自上而下统辖性教育政策的流行假定，将焦点拉回至民族国家与区域治理的实质制度运作。借[[Teaching Assistant|助教]]育分权与综合教育理论，制度分析超越了单纯的意识形态争论，深入到行政编制、公私立学校协调、中等教育课程负荷以及大学人事选拔等具体制度环节，揭示出西班牙教育困境的深层机制并非源于资金短缺或欧洲约束不足，而是源于本土政治结构对外部经验的生搬硬套与地方割据扭曲。（pp. 321–333）
+> 国家教育主权与跨国比较分析破除了欧盟正在推行自上而下统辖性教育政策的流行假定，将焦点拉回至民族国家与区域治理的实质制度运作。借助教育分权与综合教育理论，制度分析超越了单纯的意识形态争论，深入到行政编制、公私立学校协调、中等教育课程负荷以及大学人事选拔等具体制度环节，揭示出西班牙教育困境的深层机制并非源于资金短缺或欧洲约束不足，而是源于本土政治结构对外部经验的生搬硬套与地方割据扭曲。（pp. 321–333）
 
 ---
 

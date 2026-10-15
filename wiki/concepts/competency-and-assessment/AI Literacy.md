@@ -9,7 +9,7 @@ aliases:
 summary: "个体理解人工智能基本运作机制、能力边界与算法偏见，能够维持认识论警觉并负责任地将智能工具作为放大人类认知与高阶思维而非替代自身思考的综合素养范式。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 45
+related_count: 43
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Cognitive Offloading]]"
-  - "[[Document]]"
   - "[[Illusion of Competence]]"
   - "[[Epistemology]]"
   - "[[Data Literacy]]"
@@ -54,7 +53,6 @@ related_concepts:
   - "[[Feedback Literacy]]"
   - "[[Epistemic Responsibility]]"
   - "[[Paradigm]]"
-  - "[[Hypothesis]]"
   - "[[Epistemic Agency]]"
   - "[[Epistemic Dependence]]"
   - "[[Interaction Effect]]"
@@ -71,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # AI Literacy
@@ -90,7 +88,7 @@ updated: 2026-10-07
 > - **边界** 不等于计算机底层算法开发或模型训练代码编写，而是面向所有数字公民的技术理解、伦理审思与批判性应用胜任力。
 
 > [!citation-card] 人工智能素养的认知底线：放大人类认知而非认知外包
-> 科学教育必须建立清晰的教学边界，引导青年人对 AI 工具进行批判性反思，确保数字技术用于激发好奇心与反思检验，坚决防范学生利用智能模型直接代写而跳过一手实验与[[Document\|文献]]研读。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, pp. 32, 34)]]
+> 科学教育必须建立清晰的教学边界，引导青年人对 AI 工具进行批判性反思，确保数字技术用于激发好奇心与反思检验，坚决防范学生利用智能模型直接代写而跳过一手实验与文献研读。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, pp. 32, 34)]]
 >
 > *Science education must prepare young people with the skills of AI and critical digital literacy... ensuring that AI tools amplify rather than replace human critical thinking and empirical enquiry.*
 
@@ -162,7 +160,7 @@ updated: 2026-10-07
 > 智能工具的普及并不自然带来思维能力的提升；若缺乏明确规制，直接依赖生成式作答会导致学生跳过深层阅读与推导，引发[[Critical Thinking\|批判性思维]]萎缩。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]]
-> **认知放大底线** 科学教育必须建立清晰的教学边界，引导青年人对 AI 工具进行批判性反思，确保数字技术用于激发好奇心与反思检验，坚决防范学生利用智能模型直接代写而跳过一手实验与[[Document\|文献]]研读。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, pp. 32, 34)]]
+> **认知放大底线** 科学教育必须建立清晰的教学边界，引导青年人对 AI 工具进行批判性反思，确保数字技术用于激发好奇心与反思检验，坚决防范学生利用智能模型直接代写而跳过一手实验与文献研读。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, pp. 32, 34)]]
 
 ---
 
@@ -233,7 +231,7 @@ updated: 2026-10-07
 > > 争论人工智能素养培训应侧重于教导高效实用的提示词模板工程与生成技巧，还是侧重于培养基于学科[[Evidence Standards\|证据标准]]的[[Evaluative Judgement\|评价性判断]]与追问能力。
 > >
 > > - **技能提效立场** 认为掌握先进提示词工程是普通学生最快实现生产力跨越的核心胜任力。
-> > - **认识论重构立场（[[Argument_Du_Yuan_2026_AIS\|Du & Yuan, 2026]]）** 强调孤立的提示词技巧容易诱发无摩擦的算法代劳；唯有将模型输出视为有待检验的[[Hypothesis\|假设]]、追问其学科依据并开展论断抗辩，才能避免评价性判断被算法接管。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 6–8)]]
+> > - **认识论重构立场（[[Argument_Du_Yuan_2026_AIS\|Du & Yuan, 2026]]）** 强调孤立的提示词技巧容易诱发无摩擦的算法代劳；唯有将模型输出视为有待检验的假设、追问其学科依据并开展论断抗辩，才能避免评价性判断被算法接管。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 6–8)]]
 >
 > > [!axis] 独立学科设课 vs 贯穿式学科整合嵌入
 > > 争论是否应当开设独立的“AI 素养”必修课程，还是将其作为通用横向能力嵌入现有自然科学、人文学科课程中。

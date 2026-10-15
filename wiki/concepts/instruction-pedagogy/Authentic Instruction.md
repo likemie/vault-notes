@@ -8,7 +8,7 @@ aliases:
 summary: "以真实情境、劣构问题、角色扮演、情境模拟与宏观情境锚定为载体，引导学生在有意义的问题解决中建构知识与发展批判性思维的教学模式。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 28
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,10 +25,8 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Problem-Based Learning]]"
   - "[[Wicked Problem]]"
-  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Simulation-Based Learning]]"
-  - "[[Document]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Learning by Doing]]"
   - "[[Central Phenomenon]]"
@@ -41,7 +39,6 @@ related_theories:
 related_methods:
   - "[[Role-playing]]"
   - "[[Meta-analysis]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
   - "[[Prediction Interval]]"
   - "[[Correlational Research]]"
@@ -55,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-03
+updated: 2026-10-15
 ---
 
 # Authentic Instruction
@@ -89,14 +86,14 @@ updated: 2026-10-03
 > | 维度 | 真实性教学（Authentic Instruction） | [[Problem-Based Learning\|问题本位学习（PBL）]] | 传统讲授式教学 |
 > |---|---|---|---|
 > | **问题性质** | 真实生活情境、模拟演练、伦理困境或应用型案例 | 跨学科复杂[[Wicked Problem\|劣构问题]]，作为整门课程的组织核心 | 预先分解的良构知识点与练习题 |
-> | **认知过程** | 在情境中识别矛盾、权衡证据、形成判断并检验方案 | 自主探究、小组协作、[[Hypothesis\|假设]]生成与方案构建 | 概念识记、例题模仿、演绎应用 |
+> | **认知过程** | 在情境中识别矛盾、权衡证据、形成判断并检验方案 | 自主探究、小组协作、假设生成与方案构建 | 概念识记、例题模仿、演绎应用 |
 > | **知识定位** | 解决真实问题的思想工具与行动资源 | 驱动[[Problem Solving\|问题解决]]的生成性理解 | 独立于情境的静态真理与符号系统 |
 
 ---
 
 ## 细分形态与下位策略索引
 
-在 [[Argument_Abrami_2015_RER|Abrami et al. (2015, Table 3C)]] 的[[Meta-analysis|元分析]][[Coding in Qualitative Research|编码]]体系与学习科学中，真实性教学具体细分为四大策略形态：
+在 [[Argument_Abrami_2015_RER|Abrami et al. (2015, Table 3C)]] 的[[Meta-analysis|元分析]]编码体系与学习科学中，真实性教学具体细分为四大策略形态：
 
 > [!taxonomy] 真实性教学细分子策略架构
 > - **角色代入与换位协商** 通过身份代入打破确认偏差，以[[Role-playing\|角色扮演教学法]]为代表（实证增益最高 $g+=0.61$）。
@@ -107,7 +104,7 @@ updated: 2026-10-03
 > [!ref-table]- 真实性教学具体子策略与实证索引表
 > <span class="concept-authentic-strategy-table-marker" aria-hidden="true"></span>
 >
-> | 策略编码与名称 | 核心机制与操作特征 | 证据规模 $k$ | 效应量 $g+$ (95% CI) | 关联条目 / 代表[[Document\|文献]] |
+> | 策略编码与名称 | 核心机制与操作特征 | 证据规模 $k$ | 效应量 $g+$ (95% CI) | 关联条目 / 代表文献 |
 > |---|---|---|---|---|
 > | **3.2 [[Role-playing\|角色扮演教学法]]**<br>（Role-playing） | 代入不同利益方视角，经历价值冲突与证据协商 | $k = 5$ | $0.61$ $[0.24, 0.98]$ | [[Role-playing]] |
 > | **3.1 应用型问题解决**<br>（Applied problem solving） | 面对现实应用问题收集数据并论证方案 | $k = 31$ | $0.35$ $[0.20, 0.49]$ | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] |
@@ -121,7 +118,7 @@ updated: 2026-10-03
 
 > [!feature] 真实性教学的核心维度构成
 > - **真实任务情境（Authentic Context）** 呈现反映现实世界复杂性与不确定性的任务，使问题具备内在探究价值而非单纯外在考试要求。
-> - **[[Wicked Problem|劣构问题]]特征（Ill-Structured Problems）** 问题缺乏唯一定义和现成标准算法，需要学生自主提取数据、制定[[Hypothesis\|假设]]并构建推论。
+> - **[[Wicked Problem|劣构问题]]特征（Ill-Structured Problems）** 问题缺乏唯一定义和现成标准算法，需要学生自主提取数据、制定假设并构建推论。
 > - **具身与多视角参与（Embodied & Multi-Perspective Engagement）** 通过[[Role-playing\|角色扮演]]与情境模拟，使学生置身于行动者网络中权衡冲突观点。
 > - **[[Scaffolding\|脚手架]]与复盘反思（Scaffolding & Debriefing）** 依托导师点拨与事后复盘，将情境体验提升为通用的[[Critical Thinking\|批判性思维]]模型。
 
@@ -145,7 +142,7 @@ updated: 2026-10-03
 > 探讨抽象概念如何通过具身与情境化的锚定转化为可操作的思考工具。
 
 > [!claim] Abrami, P. C., et al.; [[John Dewey\|Dewey, J.]]
-> **真实情境转化概念为思维工具** [[John Dewey\|杜威]]（John Dewey）批评脱离情境的[[Rote Learning\|死记硬背]]使学生无法理解事实的真实意义，主张必须将知识置于对学生而言真实的探究情境中。Abrami 等人进一步指出，通过将复杂概念锚定在应用型[[Problem Solving\|问题解决]]、[[Role-playing\|角色扮演]]或情境模拟中，学生得以在处理真实阻碍的过程中经历[[Hypothesis\|假设]]检验与证据权衡，从而使抽象认知技能获得生动的运用载体。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 286–287)]]
+> **真实情境转化概念为思维工具** [[John Dewey\|杜威]]（John Dewey）批评脱离情境的[[Rote Learning\|死记硬背]]使学生无法理解事实的真实意义，主张必须将知识置于对学生而言真实的探究情境中。Abrami 等人进一步指出，通过将复杂概念锚定在应用型[[Problem Solving\|问题解决]]、[[Role-playing\|角色扮演]]或情境模拟中，学生得以在处理真实阻碍的过程中经历假设检验与证据权衡，从而使抽象认知技能获得生动的运用载体。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 286–287)]]
 
 ### 命题二　真实性教学与对话及导师指导的协同整合产生最大干预效应
 

@@ -56,13 +56,13 @@ related_persons:
   - "[[Ágnes Heller]]"
   - "[[Dwight D. Eisenhower]]"
   - "[[Stephen L. Carter]]"
-  - "[[Sigmund Freud]]"
   - "[[Max Planck]]"
   - "[[Francis Fukuyama]]"
   - "[[Mariana Mazzucato]]"
   - "[[John Rawls]]"
   - "[[Morris Berman]]"
   - "[[Edward R. Murrow]]"
+  - "[[Sigmund Freud]]"
 related_facts:
   - "[[Project Maven]]"
   - "[[DARPA]]"
@@ -96,7 +96,7 @@ updated: 2026-10-09
 >
 > - **过度世俗化与相对主义制造道德真空：不信文化剥夺了凝聚国家共同体信念的精神根基**
 >
->   援引[[Stephen L. Carter|斯蒂芬·L. 卡特]]对精英阶层排斥超验信仰的批判，追溯[[Sigmund Freud|弗洛伊德]]心理还原论对信仰的病理化，剖析战后世俗化如何以包容之名消解了任何实质规范性价值；结合[[Max Planck|普朗克]]科学定律与[[Francis Fukuyama|弗朗西斯·福山]]对后现代相对主义[[Epistemology|认识论]]自毁的批判，阐明包容一切终将异化为一无所信（pp. 72–74）。
+>   援引[[Stephen L. Carter|斯蒂芬·L. 卡特]]对精英阶层排斥超验信仰的批判，追溯弗洛伊德心理还原论对信仰的病理化，剖析战后世俗化如何以包容之名消解了任何实质规范性价值；结合[[Max Planck|普朗克]]科学定律与[[Francis Fukuyama|弗朗西斯·福山]]对后现代相对主义[[Epistemology|认识论]]自毁的批判，阐明包容一切终将异化为一无所信（pp. 72–74）。
 >
 > - **科技巨头逃避防务义务与大学异化：心智产品化驱动名校人才脱离现实关怀**
 >
@@ -175,7 +175,7 @@ updated: 2026-10-09
 
 > [!case] [[Stephen L. Carter|斯蒂芬·卡特]]剖析受教育阶层对信仰的病理化偏见
 > - **狂热分子标签与理性偏见** 耶鲁大学法学院讲座教授[[Stephen L. Carter|斯蒂芬·L. 卡特]]在《不信文化》（*The Culture of Disbelief*, 1993）中指出，在受过高等教育的统治阶层看来，严肃对待宗教只是那些眼神狂热的偏执狂才会做的事。
-> - **[[Sigmund Freud|弗洛伊德]]心理还原论的渊源** 卡特考证现代怀疑论始于[[Sigmund Freud|西格蒙德·弗洛伊德]]（[[Sigmund Freud]]）在《强迫动作与宗教实践》（1907）中的论断，即将宗教还原为建立在本能冲动压抑基础上的强迫性神经冲动。这种将非功利性信念病理化的倾向，阻碍了当代青年形成坚定的[[Hard Belief|硬信念]]（p. 72）。
+> - **弗洛伊德心理还原论的渊源** 卡特考证现代怀疑论始于[[Sigmund Freud|西格蒙德·弗洛伊德]]（[[Sigmund Freud]]）在《强迫动作与宗教实践》（1907）中的论断，即将宗教还原为建立在本能冲动压抑基础上的强迫性神经冲动。这种将非功利性信念病理化的倾向，阻碍了当代青年形成坚定的[[Hard Belief|硬信念]]（p. 72）。
 
 对科学确定性的狭隘理解，进一步削弱了人们坚持信念的勇气。
 

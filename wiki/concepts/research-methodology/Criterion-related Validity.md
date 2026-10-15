@@ -9,7 +9,7 @@ aliases:
 summary: "将测量工具的结果与公认有效的外部标准进行统计关联以确立测量有效性的方法学体系，涵盖预测效度与共时效度两大支柱，核心挑战在于效标问题与效标污染控制"
 type: concept
 domain: "research-methodology"
-related_count: 34
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[Content Validity]]"
   - "[[Areas of Knowledge]]"
-  - "[[Hypothesis]]"
   - "[[Predictive Validity]]"
   - "[[Concurrent Validity]]"
   - "[[Convergent and Discriminant Validity]]"
@@ -38,7 +37,6 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Operationalization]]"
   - "[[Divergent Thinking]]"
-  - "[[APA Style]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Chain of Evidence]]"
   - "[[Success Criteria]]"
@@ -58,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-23
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Criterion-related Validity
@@ -92,7 +90,7 @@ updated: 2026-09-17
 > | 维度 | 效标关联效度（Criterion-related Validity） | [[Construct Validity\|构念效度]]（Construct Validity） | [[Content Validity\|内容效度]]（Content Validity） |
 > |---|---|---|---|
 > | **核心诉求** | 工具能否准确关联或预测外部成熟标准 | 工具是否真实测到了理论假定的潜在特质 | 测验题项是否全面代表了目标内容域 |
-> | **验证依据** | 与外部效标的统计相关系数（$r$、回归系数） | 因素分析、多质多法矩阵、[[Hypothesis\|假设]]检验 | 教学大纲双向细目表、学科专家定性评审 |
+> | **验证依据** | 与外部效标的统计相关系数（$r$、回归系数） | 因素分析、多质多法矩阵、假设检验 | 教学大纲双向细目表、学科专家定性评审 |
 > | **核心支柱** | [[Predictive Validity\|预测效度]]（跨期）与 [[Concurrent Validity\|共时效度]]（同时） | 会聚效度（Convergent）与[[Convergent and Discriminant Validity\|区分效度]]（Discriminant） | [[Face Validity\|表面效度]]（Face）与抽样代表性 |
 > | **致命威胁** | **效标污染（Contamination）与效标缺失（Deficiency）** | [[Construct\|构念]]混淆、测量不相关变异 | 题项抽样代表性不足、内容覆盖偏差 |
 
@@ -163,7 +161,7 @@ updated: 2026-09-17
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1950s — 经典效度三元论确立** [[APA Style\|APA]] 早期标准将效标关联效度与[[Content Validity\|内容效度]]、[[Construct Validity\|构念效度]]并列，作为心理测量三大独立支柱。
+> - **1950s — 经典效度三元论确立** APA 早期标准将效标关联效度与[[Content Validity\|内容效度]]、[[Construct Validity\|构念效度]]并列，作为心理测量三大独立支柱。
 > - **1970s — [[Criterion Problem\|效标问题]]（Criterion Problem）显性化** Shapiro (1970) 深刻揭示在复杂[[Higher-Order Thinking Skills\|高阶思维]]领域缺乏统一客观效标对心理测量的根本制约。
 > - **1980s–1990s — 效度统一观演进** Messick 提出统一效度框架，效标关联被重塑为支持构念效度的外部经验[[Chain of Evidence\|证据链]]条。
 > - **2020s — [[Meta-meta-analysis\|二阶元分析]]系统解构效标定位** [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] 运用二阶[[Meta-analysis\|元分析]]实证量化了[[Variable\|变量]]在作为预测源（$r = 0.29$）与作为效标（$r = 0.12$）时的系统不对称性。

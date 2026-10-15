@@ -7,7 +7,7 @@ title: "Argument_Rowe_2023_ECNUROE"
 argument_key: "Argument_Rowe_2023_ECNUROE"
 argument_display_title: "Philanthrocapitalism and the state: Mapping the rise of venture philanthropy in public education in Australia"
 argument_kind: "journal-article"
-argument_related_count: 48
+argument_related_count: 47
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -33,10 +33,10 @@ related_concepts:
   - "[[Venture Philanthropy]]"
   - "[[Policy Network]]"
   - "[[Philanthrocapitalism]]"
-  - "[[Assemblage]]"
   - "[[Paradigm]]"
   - "[[Co-affiliation]]"
   - "[[Network Governance]]"
+  - "[[Assemblage]]"
   - "[[Relational Space]]"
   - "[[Deductible Gift Recipient]]"
   - "[[Institutional Review Board]]"
@@ -49,7 +49,6 @@ related_concepts:
   - "[[Boundary Spanner]]"
   - "[[Knowledge Production]]"
   - "[[Evidence Standards]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Going Native]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Policy Mobility]]"
@@ -101,7 +100,7 @@ updated: 2026-10-08
 > [[Venture Philanthropy\|风险慈善]]（Venture Philanthropy）如何在澳大利亚公共教育领域崛起，其背后的[[Policy Network\|政策网络]]（Policy Network）如何动员高层系统性教育改革并塑造新型治理技术；这种[[Philanthrocapitalism\|慈善资本主义]]（Philanthrocapitalism）的兴起如何根本改变资本主义国家的形态、功能以及公共财政的再分配方式。
 
 > [!claim] 核心主张
-> 风险慈善并非单纯填补公立学校经费缺口的利他善举，而是以商业投资逻辑和异层治理为特征的[[Philanthrocapitalism\|慈善资本主义]]运作；以[[Social Ventures Australia\|澳大利亚社会创投]]（Social Ventures Australia, SVA）为中枢的政策网络，通过系统性游说与制度[[Assemblage\|装配]]，相继创设了[[Australian Schools Plus\|澳大利亚学校加计划]]（Australian Schools Plus）、[[Evidence for Learning\|证据学习中心]]（Evidence for Learning, E4L）及[[Australian Education Research Organisation\|澳大利亚教育研究组织]]（Australian Education Research Organisation, AERO）三大中介实体，促使国家从中心化科层分配者演变为积极扶持、资助并赋予私营资本特许免税地位的催化平台，从而将公共财富逆向导流至免税中介机构，迫使弱势公立学校竞逐项目赠款，并严重侵蚀了公共教育的民主透明度与制度问责。（pp. 518–522, 527–532）
+> 风险慈善并非单纯填补公立学校经费缺口的利他善举，而是以商业投资逻辑和异层治理为特征的[[Philanthrocapitalism\|慈善资本主义]]运作；以[[Social Ventures Australia\|澳大利亚社会创投]]（Social Ventures Australia, SVA）为中枢的政策网络，通过系统性游说与制度装配，相继创设了[[Australian Schools Plus\|澳大利亚学校加计划]]（Australian Schools Plus）、[[Evidence for Learning\|证据学习中心]]（Evidence for Learning, E4L）及[[Australian Education Research Organisation\|澳大利亚教育研究组织]]（Australian Education Research Organisation, AERO）三大中介实体，促使国家从中心化科层分配者演变为积极扶持、资助并赋予私营资本特许免税地位的催化平台，从而将公共财富逆向导流至免税中介机构，迫使弱势公立学校竞逐项目赠款，并严重侵蚀了公共教育的民主透明度与制度问责。（pp. 518–522, 527–532）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 澳大利亚公立基础教育系统中的风险慈善政策网络，核心聚焦麦肯锡前高管发起的中枢机构 SVA 及其衍生培育的三大教育中介组织（Schools Plus、E4L、AERO）。
@@ -206,7 +205,7 @@ updated: 2026-10-08
 > [!feature] 异层国家的多维治理技术与市场缔造实践
 > - **全球领先的外包咨询采购支出** 联邦政府对私营顾问公司的采购支出自 2013 年起爆发式增长；按人均计算，澳大利亚管理咨询公共支出居全球首位，约为加拿大或瑞典等同类国家的两倍，呈现典型的[[Consultocracy\|顾问统治]]特征。（p. 522）
 > - **国家作为资助者与市场缔造者** 政策网络并未取代国家，罗兹（Rhodes, 2017）指出国家持续引导行动者，充当了中介机构的资助者、经纪人（Olmedo, 2016）与市场缔造者（Ball, 2007）。（pp. 522–523）
-> - **客体[[Assemblage\|装配]]与隐藏权力的生成** 借由拉图尔（[[Bruno Latour]]）与劳（John Law）的[[Actor-Network Theory\|行动者网络理论]]，权力作为被隐藏的装配效应（power as a concealed effect），依靠异质中介实体完成经济交换规则的隐蔽重组。（p. 523）
+> - **客体装配与隐藏权力的生成** 借由拉图尔（[[Bruno Latour]]）与劳（John Law）的[[Actor-Network Theory\|行动者网络理论]]，权力作为被隐藏的装配效应（power as a concealed effect），依靠异质中介实体完成经济交换规则的隐蔽重组。（p. 523）
 
 国家并未在市场化浪潮中退场，而是主动运用自身的法律垄断权与公共税收，为风险慈善网络的扩张提供特权通道。
 
@@ -265,7 +264,7 @@ SVA 作为政策网络中枢，凭借严密的法人架构与跨国金融咨询�
 
 在打通资金筹措渠道后，SVA 将战略重心转移至教育[[Knowledge Production|知识生产]]与实证[[Evidence Standards|证据标准]]的统摄上。（pp. 530–531）
 
-> [!phase] 证据中介模式从私营试验到国家法定的[[Transfer Translation Transformation\|转译]]历程
+> [!phase] 证据中介模式从私营试验到国家法定的转译历程
 >
 > - **母版引入与子公司设立（2014）**
 >
@@ -348,7 +347,7 @@ SVA 作为政策网络中枢，凭借严密的法人架构与跨国金融咨询�
 
 > [!finding-cards] 核心发现
 > 1. **[[Venture Philanthropy\|风险慈善]]的本质是追求回报的商业投资** 确证在澳大利亚崛起的风险慈善绝非单纯道德赠款，而是追求国家委员会任命、政策影响力与商业咨询利益的[[Philanthrocapitalism\|慈善资本主义]]实践。（pp. 520–521）
-> 2. **[[Social Ventures Australia\|SVA]] 成功[[Assemblage\|装配]]三大国家级教育中介实体** 揭示 SVA 在过去二十年间作为[[Policy Network\|政策网络]]中枢，系统孵化了 [[Australian Schools Plus\|Schools Plus]]、[[Evidence for Learning\|E4L]] 与 [[Australian Education Research Organisation\|AERO]]，全面渗透学校筹款、循证工具包与国家教育科研体制。（pp. 524–531）
+> 2. **[[Social Ventures Australia\|SVA]] 成功装配三大国家级教育中介实体** 揭示 SVA 在过去二十年间作为[[Policy Network\|政策网络]]中枢，系统孵化了 [[Australian Schools Plus\|Schools Plus]]、[[Evidence for Learning\|E4L]] 与 [[Australian Education Research Organisation\|AERO]]，全面渗透学校筹款、循证工具包与国家教育科研体制。（pp. 524–531）
 > 3. **国家再分配形态发生异化与公共财政倒流** 实证发现 SVA 从政府吸纳的直接财政拨款（121.6 万澳元）远高于其对外发放的赠款（62.5 万澳元，仅占 51%），公共税收反向补贴了非营利机构的咨询业务与行政开销。（p. 527）
 > 4. **制度性保密与旋转门严重架空民主问责** 披露了 SVA 获得的 1500 万澳元保密政府资助以及董事会在投行、咨询公司与高级官僚之间的无缝切换，批判其对公共民主审议的破坏。（pp. 526–527, 531–532）
 

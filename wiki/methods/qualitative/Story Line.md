@@ -27,10 +27,10 @@ related_concepts:
   - "[[Generative Artificial Intelligence]]"
 related_theories: []
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Grounded Theory]]"
-  - "[[Analytic Framework]]"
   - "[[Selective Coding]]"
+  - "[[Coding in Qualitative Research]]"
+  - "[[Analytic Framework]]"
   - "[[Axial Coding]]"
   - "[[Qualitative Research]]"
   - "[[Descriptive Analysis]]"
@@ -58,10 +58,10 @@ updated: 2026-09-22
 ## 定义
 
 > [!def] 核心定义
-> 故事线（Story Line）是质性数据分析中将离散[[Coding in Qualitative Research\|编码]]、碎片化文本与局部主题系统[[Assemblage\|组装]]为具时序性、情境性与因果演进逻辑的解释性叙事架构。该概念主要植根于两大经典方法论传统：
-> 1. 在[[Grounded Theory\|扎根理论]]的选择性[[Coding in Qualitative Research\|编码]]中，故事线是对所研究[[Central Phenomenon\|核心现象]]及其显著特征的描述性总览，是催生统摄性核心范畴并实现高阶理论整合的关键跳板（Strauss & Corbin, 1990; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011, p. 562]]）；
+> 故事线（Story Line）是质性数据分析中将离散编码、碎片化文本与局部主题系统[[Assemblage\|组装]]为具时序性、情境性与因果演进逻辑的解释性叙事架构。该概念主要植根于两大经典方法论传统：
+> 1. 在[[Grounded Theory\|扎根理论]]的[[Selective Coding|选择性编码]]中，故事线是对所研究[[Central Phenomenon\|核心现象]]及其显著特征的描述性总览，是催生统摄性核心范畴并实现高阶理论整合的关键跳板（Strauss & Corbin, 1990; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011, p. 562]]）；
 > 2. 在质性描述性主题分析中，故事线是指突破孤立主题清单列举、将各主题相互串联以呈现问题发展编年史的解释性叙事链条（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch9, p. 209]]）。
-> 故事线超越单纯的主题分类与词频检索，其本质在于克服质性编码抽离时序与情境的严重风险，在保持经验真实性与生活脉络的前提下为系统建构解释性理论提供[[Scaffolding\|认知支架]]。
+> 故事线超越单纯的主题分类与词频检索，其本质在于克服[[Coding in Qualitative Research|质性编码]]抽离时序与情境的严重风险，在保持经验真实性与生活脉络的前提下为系统建构解释性理论提供[[Scaffolding\|认知支架]]。
 
 > [!concept-lens] 概念透镜
 > - **含义** 从离散的主题切片与概念属性向整体历时性、[[Causality\|因果性]]叙事整合的质性[[Analytic Framework\|分析框架]]。
@@ -111,7 +111,7 @@ updated: 2026-09-22
 
 在安塞尔姆·施特劳斯（Anselm Strauss）与朱丽叶·科宾（Juliet Corbin）的[[Selective Coding|选择性编码]]体系中，故事线承担催生并验证[[Central Phenomenon|核心范畴]]的关键职能，具体包含五个往复循环的分析步骤（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, p. 562]]）：
 
-> [!proc] 扎根理论选择性[[Coding in Qualitative Research\|编码]]的五步迭代规程
+> [!proc] 扎根理论选择性编码的五步迭代规程
 > 1. **理解主要故事线** 深度把握围绕核心现象展开的描述性总览，系统厘清现象的核心表现与显著特征。
 > 2. **提炼统摄核心范畴** 从故事线中升华提炼出能够统领并吸纳所有其余范畴的单一核心轴心。
 > 3. **在维度水平上建立系统关联** 依托[[Axial Coding\|主轴编码]]识别的范畴属性与连续统维度，系统连接主轴范畴与核心范畴。
@@ -183,7 +183,7 @@ updated: 2026-09-22
 > - **追求叙事平滑度（连贯取向）** 为了让研究发现更具说服力与可读性，倾向于提炼具有清晰起承转合、因果闭合的故事线，容易无意识地弱化矛盾与异常证据。
 > - **尊重数据杂乱性（真实取向）** 真实的社会生活充满偶然、碎片与未竟结局；过于完美流畅的故事线可能沦为主观过度编造，必须通过持续比较与反常案例分析检验故事线边界。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 562)]]
 
-> [!critique] [[Coding in Qualitative Research\|编码]]层级过度嵌套对故事线主轴的侵蚀
+> [!critique] 编码层级过度嵌套对故事线主轴的侵蚀
 > - **浅层层级控制原则** 格雷厄姆·吉布斯（Graham Gibbs）警示，在软件节点管理与编码层级构建中，层级树必须保持浅层结构而非过度嵌套；若分支层级过深，分析结构将陷入二次碎片化，导致故事线的主轴模糊失焦。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Gibbs, 2007; Cohen et al., 2011, p. 562)]]
 
 > [!warning] 适用边界与操作警惕

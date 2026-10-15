@@ -8,7 +8,7 @@ aliases:
 summary: "系统整合高等教育全生命周期人工智能应用的四维分类理论框架，将 AI 划分为画像与预测、评估与评定、自适应系统与个性化、智能导学系统四大核心教学与管理领域"
 type: theory
 theory_field: "higher-education"
-theory_related_count: 11
+theory_related_count: 10
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -27,7 +27,6 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Time Series Design]]"
   - "[[Meta-analysis]]"
-  - "[[Coding in Qualitative Research]]"
 related_instruments: []
 related_persons:
   - "[[Socrates]]"
@@ -37,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-09-11
+updated: 2026-10-15
 ---
 
 # Zawacki-Richter AI in Higher Education Framework
@@ -93,5 +92,5 @@ updated: 2026-09-11
 ## 方法论与实证应用价值
 
 > [!warrant]- 为什么宏观[[Meta-analysis\|元分析]]必须依托该框架
-> 1. **提供标准化的[[Independent Variable\|自变量]][[Coding in Qualitative Research\|编码]]体系** 在对繁复的一阶元分析进行二阶合成时，避免将不同技术简单打包为黑箱，提供了统一的[[Operationalization\|操作化]]分类准则。
+> 1. **提供标准化的[[Independent Variable\|自变量]]编码体系** 在对繁复的一阶元分析进行二阶合成时，避免将不同技术简单打包为黑箱，提供了统一的[[Operationalization\|操作化]]分类准则。
 > 2. **实证应用典范** [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] 以该框架为理论基石，将 AI 工具精准拆解为多类型平台、智能聊天机器人与专用评估工具，进而证实不同 AI 工具形态的有效性跨越不同领域保持稳健（$ES = .39–.74, p = .55$），为破除唯技术工具论提供了坚实的实证支撑。

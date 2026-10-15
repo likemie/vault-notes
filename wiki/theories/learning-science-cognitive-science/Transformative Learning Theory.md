@@ -9,7 +9,7 @@ aliases:
 summary: "成人教育与学习科学中关于个体如何通过关键反思审视并重构既有心理假设、信念图式与参照框架，从而实现根本性视角转换的理论体系。"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 31
+theory_related_count: 30
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Conscientization]]"
   - "[[Communities of Practice]]"
-  - "[[Hypothesis]]"
   - "[[Grandes Ecoles]]"
   - "[[Critical Pedagogy]]"
   - "[[Mind Mapping]]"
@@ -57,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Transformative Learning Theory
@@ -73,7 +72,7 @@ updated: 2026-10-07
 > - **知识位置** 植根于[[Jürgen Habermas|哈贝马斯]]（Jürgen Habermas）沟通行动理论与[[Paulo Freire|弗莱雷]]（Paulo Freire）[[Conscientization|批判意识觉醒]]思想，与[[Jean Piaget|皮亚杰]][[Cognitive Constructivism|认知建构主义]]（图式顺应）及莱夫与温格情境学习理论（[[Communities of Practice|实践共同体]]合法边缘参与）并列为现代高等教育与学者发展的核心认知基石。
 
 > [!claim] 核心判断
-> 转化学习理论（Transformative Learning Theory）主张学习的核心不仅是掌握新知，而是通过对既有习惯性[[Hypothesis|假设]]（Assumptions）的批判性反思，引发个体“参照框架”（Frame of Reference，涵盖习惯心智与具体观点）的根本性视角转换（Transformation in Perspective）。在高等教育与跨学科科研团队建设中，转化学习促使理工科学者突破狭隘的技术还原论视界，体认国家科技产业背后的宏观治理与公共政策维度，从而根本重塑其科研定位与学术使命感。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 3, 6)]]
+> 转化学习理论（Transformative Learning Theory）主张学习的核心不仅是掌握新知，而是通过对既有习惯性假设（Assumptions）的批判性反思，引发个体“参照框架”（Frame of Reference，涵盖习惯心智与具体观点）的根本性视角转换（Transformation in Perspective）。在高等教育与跨学科科研团队建设中，转化学习促使理工科学者突破狭隘的技术还原论视界，体认国家科技产业背后的宏观治理与公共政策维度，从而根本重塑其科研定位与学术使命感。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 3, 6)]]
 
 ---
 
@@ -83,7 +82,7 @@ updated: 2026-10-07
 > - **提出者与原始文本** 杰克·梅兹罗（Jack Mezirow）于 1978 年针对重返[[Grandes Ecoles|大学校]]园的成年女性开展实证[[Qualitative Research|质性研究]]后提出雏形，并在 1991 年专著 *Transformative Dimensions of Adult Learning* 中完成系统化理论建构。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 3, 6)]]
 > - **原初问题** 成人学习者在面临生活危机、职业转型或社会角色变迁时，如何打破早期社会化形成的固化偏见与刻板信念，获得自主理性判断与批判性反思能力。
 > - **理论资源与材料** 汲取[[Jürgen Habermas|哈贝马斯]]关于“工具性学习”（控制环境）与“交往性学习”（理解他人与规范意义）的二元区分，融合[[Paulo Freire|弗莱雷]]对解放性学习（Emancipatory Learning）的哲学洞见，并以 83 名重返高等教育项目的女性成人学生纵向[[Qualitative Interview|质性访谈]]作为经验材料。
-> - **形成路径** 从成年女性打破传统家庭性别分工参照框架的经验中，归纳出以“引发困惑的两难处境（Disorienting Dilemma）”为起点、经由批判性反思[[Hypothesis|假设]]、最终实现行动整合的经典十阶段转化路径。
+> - **形成路径** 从成年女性打破传统家庭性别分工参照框架的经验中，归纳出以“引发困惑的两难处境（Disorienting Dilemma）”为起点、经由批判性反思假设、最终实现行动整合的经典十阶段转化路径。
 
 ### 后续修订与扩展
 
@@ -102,7 +101,7 @@ updated: 2026-10-07
 > |:-----|:-----|:--------------|
 > | 参照框架（Frame of Reference） | 核心结构 | 个体理解世界的深层过滤网络，由“心智习惯”（Habit of Mind，文化/社会/心理倾向）和“激活观点”（Point of View，具体态度与信念）构成。 |
 > | 引发困惑的处境（Disorienting Dilemma） | 触发机制 | 既有经验框架无法解释或应对的生活变故或重大现实挑战，打破原初认知平衡并驱动探究。 |
-> | 批判性[[Hypothesis\|假设]]自省（Critical Reflection of Assumptions） | 认知机制 | 对支撑自身信念与行为的前设条件、前提假设及文化偏见展开元认知审视。[[Argument_Murphy_2026_JTS\|(Murphy Jr. et al., 2026, p. 6)]] |
+> | 批判性假设自省（Critical Reflection of Assumptions） | 认知机制 | 对支撑自身信念与行为的前设条件、前提假设及文化偏见展开元认知审视。[[Argument_Murphy_2026_JTS\|(Murphy Jr. et al., 2026, p. 6)]] |
 > | 批判性审辩对话（Rational [[Discourse]]） | 社会机制 | 在开放包容的环境中与具有不同视角的同伴展开证据质询与论证，共同检验新理解的有效性。 |
 > | 视角转换（Transformation in Perspective） | 产出状态 | 形成更为开放、包容、具批判性与[[Reflexivity\|反思性]]的深层参照框架，促发根本性的行动策略转变。 |
 
@@ -110,7 +109,7 @@ updated: 2026-10-07
 
 ## 核心命题
 
-> [!theory-proposition] 命题一｜参照框架的质性转变始于对潜隐[[Hypothesis|假设]]的批判性反思
+> [!theory-proposition] 命题一｜参照框架的质性转变始于对潜隐假设的批判性反思
 > **解释** Mezirow (1991) 指出，个体的大多数日常学习属于在既有参照框架内部对知识与技能的增量同化；唯有当学习者面临既有图式彻底失效的重大现实困境时，才会激发对潜隐假设（Assumptions）的根本怀疑与理性批判。批判性自省是打破习惯心智盲区、促成框架由封闭狭隘向开放多元转化的必要充分动力。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 3, 6)]]
 >
 > **应用实例** 在高校教师专业发展中，传统理工科学者往往将科研视为纯粹封闭在实验室内部的客观技术探寻；面对《[[CHIPS and Science Act|芯片与科学法案]]》等国家重大产业战略，通过设立跨学科研讨，促使学者直面国家战略需求与自身狭隘技术研究之间的张力，认识到以往科研假设的局限性，进而由单科技术视角转向宏观产业生态视角。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, p. 6)]]
@@ -135,7 +134,7 @@ updated: 2026-10-07
 > | 理论依据 | 分析维度与提问 | 可观察线索与材料 | 判读规则与边界 |
 > |:---------|:---------------|:-----------------|:-----------------|
 > | 困境触发与感知危机（Mezirow, 1991） | 认知两难与冲击感知：学习者是否感知到既有框架无法解释新现实？ | 调研问卷中对新政策/新知识的迷茫表述、对传统研究模式受限的坦承言论 | 出现对旧经验失效的明确反思即支持困境成立；若仅表达任务繁重不属于两难困境 |
-> | 批判性[[Hypothesis\|假设]]自省（Mezirow, 1991） | 潜隐[[Hypothesis\|假设]]审视：学习者是否主动质疑自身学科传统、工作方式或[[Paradigm\|研究范式]]的固有前设？ | 工作坊反思文本、小组研讨中对“以往只顾发论文、不问国家产业需求”的自省[[Discourse\|话语]] | 明确点破既有假设盲区支持深层反思；纯粹技术细节纠错不属于假设反思 |
+> | 批判性假设自省（Mezirow, 1991） | 潜隐假设审视：学习者是否主动质疑自身学科传统、工作方式或[[Paradigm\|研究范式]]的固有前设？ | 工作坊反思文本、小组研讨中对“以往只顾发论文、不问国家产业需求”的自省[[Discourse\|话语]] | 明确点破既有假设盲区支持深层反思；纯粹技术细节纠错不属于假设反思 |
 > | 跨界审辩对话（Mezirow, 1991） | 对话与证据质询：学习者是否通过与不同学科或背景同伴的交流检验新见解？ | 跨学科小组讨论录音、圆桌对话实录、海报交流中的互动表现记录 | 展现多方观点对质、吸收异质视角支持理性对话；单向聆听宣讲不属于审辩对话 |
 > | 视角转换与行动重构（Mezirow, 1991; [[Argument_Murphy_2026_JTS\|Murphy Jr. et al., 2026]]） | 参照框架重塑与行动就绪度：学习者是否建立全新科研与实践身份，并在战略项目中展现就绪度？ | [[Pre-test and Post-test\|后测]]问卷中展现的全局政策视野表述、组建跨学科团队申报重大战略课题的行为记录 | 明确陈述科研身份视角转化并付诸联合行动即支持转化发生；需排查短期应试套话 |
 
@@ -173,4 +172,4 @@ updated: 2026-10-07
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] — 将转化学习理论运用于高水平[[Research Universities|研究型大学]]《[[CHIPS and Science Act|芯片与科学法案]]》学者专业发展实证研究，证实三阶段工作坊不仅传授技术信息，更促使工程学者打破传统纯技术视界，体认科学工程事业背后的政治与政策维度，实现科研参照框架重塑与国家战略承接就绪度提升。
-> - [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] — 从[[Epistemic Practices|认识论实践]]视角探讨学习者在特定共同体中如何反思[[Evidence Standards|证据标准]]与认识[[Hypothesis|假设]]，与转化学习中的批判性假设反思形成[[Epistemology|认识论]]互补。
+> - [[Argument_Sandoval_2016_RRE|Sandoval et al. (2016)]] — 从[[Epistemic Practices|认识论实践]]视角探讨学习者在特定共同体中如何反思[[Evidence Standards|证据标准]]与认识假设，与转化学习中的批判性假设反思形成[[Epistemology|认识论]]互补。

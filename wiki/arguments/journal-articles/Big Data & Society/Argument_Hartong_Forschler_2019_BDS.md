@@ -26,7 +26,7 @@ title: "Argument_Hartong_Forschler_2019_BDS"
 argument_key: "Argument_Hartong_Forschler_2019_BDS"
 argument_display_title: "Opening the black box of data-based school monitoring: Data infrastructures, flows and practices in state education agencies"
 argument_kind: "journal-article"
-argument_related_count: 39
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -34,7 +34,6 @@ journal: "Big Data & Society"
 sources:
   - "[[sources/Hartong_Forschler_2019_BDS/Hartong_Forschler_2019_BDS|Hartong_Forschler_2019_BDS]]"
 related_concepts:
-  - "[[Assemblage]]"
   - "[[Data Literacy]]"
   - "[[Data Infrastructure]]"
   - "[[Discourse]]"
@@ -44,18 +43,15 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Heterogeneity]]"
   - "[[Test-Based Accountability]]"
-  - "[[Document]]"
-  - "[[Hypothesis]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[School Inspection]]"
   - "[[Variable]]"
   - "[[School Autonomy]]"
+  - "[[Habitus]]"
   - "[[Center of Calculation]]"
   - "[[Champ]]"
 related_theories:
   - "[[Organizational Culture]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Analytic Framework]]"
   - "[[Comparative Case Study]]"
   - "[[Expert Interview]]"
@@ -91,11 +87,11 @@ updated: 2026-09-18
 > 在当代全球教育治理全面转向循证决策与数字化的浪潮中，州级教育行政机构如何具体建构、运行和维系基于数据的学校监测系统？这一过程内部究竟包含哪些鲜为人知的数据流转环节、算法决策机制与社会-技术暗箱？面对不同国家体制与[[Organizational Culture\|组织文化]]，数字数据实践又遭遇了哪些普遍性与情境化的结构张力？
 
 > [!claim] 核心主张
-> 基于数据的学校监测绝非中立、客观且线性的纯技术程序，而是一个深度纠缠着政治价值、行政博弈与即兴试错的社会-技术[[Assemblage\|装配]]；在州级行政机构做数据（doing data）的微观实践中，始终贯穿着数据简化与准确性、统计公平与地域比较、快速交付与单一事实确立、透明公开与隐私安全、问责改进与策略博弈等五维结构性张力，对传统的[[Data Literacy\|数据素养]]观念构成了根本性挑战，亟需转向深度介入系统全链条机制的[[Data Infrastructure\|数据基础设施]]素养。
+> 基于数据的学校监测绝非中立、客观且线性的纯技术程序，而是一个深度纠缠着政治价值、行政博弈与即兴试错的社会-技术装配；在州级行政机构做数据（doing data）的微观实践中，始终贯穿着数据简化与准确性、统计公平与地域比较、快速交付与单一事实确立、透明公开与隐私安全、问责改进与策略博弈等五维结构性张力，对传统的[[Data Literacy\|数据素养]]观念构成了根本性挑战，亟需转向深度介入系统全链条机制的[[Data Infrastructure\|数据基础设施]]素养。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 美国[[Massachusetts Department of Elementary and Secondary Education\|马萨诸塞州中小学教育部]]（Massachusetts Department of Elementary and Secondary Education, DESE）与德国汉堡学校与职业教育局（Behörde für Schule und Berufsbildung, BSB）直属的[[Institute for Educational Monitoring and Quality Improvement\|汉堡教育监测与质量发展研究所]]（Institute for Educational Monitoring and Quality Improvement, IfBQ）内部的数据基础设施、算法流转与专家行政实践。
-> - **张力** 官方[[Discourse|话语]]中[[Technical Rationality\|技术理性]]、自动化中立与即时循环的理想化模型，同实践现场中充斥着[[Coding in Qualitative Research\|编码]]修补、算法妥协、指标滞后与学校防御性造假的混乱现实之间的深刻断裂。
+> - **张力** 官方[[Discourse|话语]]中[[Technical Rationality\|技术理性]]、自动化中立与即时循环的理想化模型，同实践现场中充斥着编码修补、算法妥协、指标滞后与学校防御性造假的混乱现实之间的深刻断裂。
 > - **贡献** 打破将宏观教育治理与微观量化技术割裂的传统视角，首次以经验扎实的跨国实证材料剖开州级数据治理黑箱，系统建构出做数据张力（doing data discrepancies）的批判性[[Analytic Framework\|分析框架]]。
 
 ---
@@ -114,8 +110,8 @@ updated: 2026-09-18
 > [!contrast-table] 批判性数据研究视阈下的两重视角转换
 | 分析维度 | 技术[[Positivism\|实证主义]]传统范式 | 批判性数据基础设施范式 |
 |---|---|---|
-| **数据本质观** | 中立、客观反映学校现状的信息原材料 | 经过制度筛选、去情境化与形式化[[Coding in Qualitative Research\|编码]]的权力建构物 |
-| **治理基础设施** | 静态的信息存储硬件、服务器与软件管道 | 由行动者、话语规范、算法代码与行政常规持续互构的动态[[Assemblage\|装配]] |
+| **数据本质观** | 中立、客观反映学校现状的信息原材料 | 经过制度筛选、去情境化与形式化编码的权力建构物 |
+| **治理基础设施** | 静态的信息存储硬件、服务器与软件管道 | 由行动者、[[Discourse\|话语]]规范、算法代码与行政常规持续互构的动态装配 |
 | **量化评价功能** | 发现客观差距以提供中立的改进依据 | 制造通约度量，建立跨时空可比性并分配制度合法性与资源 |
 
 > [!warrant]- 理论工具如何支撑全景论证
@@ -130,7 +126,7 @@ updated: 2026-09-18
 |---|---|
 | **研究范式与比较设计**<br>[[Comparative Case Study\|比较案例研究]]（Comparative Case Study） | 选取美德两国联邦去中心化体制下教育数据化程度最高、历史最悠久的先锋州（马萨诸塞州与汉堡）构成对比个案，兼顾跨国制度[[Heterogeneity\|异质性]]与州域先锋同质性。 |
 | **质性资料收集**<br>[[Expert Interview\|半结构化专家访谈]]（Semi-structured Expert Interviews） | 深入三家州级数据枢纽机关，对涵盖数据采集、质检核查、算法建模、系统存储、分析挖掘与对外发布的各业务线技术官员与政策主管实施[[In-depth Interview\|深度访谈]]。 |
-| **实证编码与分析策略**<br>主题编码与概念框架提炼（Topical Coding & Heuristic Modelling） | 结合官方组织架构图、政策白皮书、技术规程与在线数据仪表盘，对[[Transcription in Qualitative Research\|转录]]文本实施归纳性主题[[Coding in Qualitative Research\|编码]]，提炼做数据张力类属并转化为两套可视化解释启发模型。 |
+| **实证编码与分析策略**<br>主题编码与概念框架提炼（Topical Coding & Heuristic Modelling） | 结合官方组织架构图、政策白皮书、技术规程与在线数据仪表盘，对[[Transcription in Qualitative Research\|转录]]文本实施归纳性主题编码，提炼做数据张力类属并转化为两套可视化解释启发模型。 |
 
 两地在教育治理传统上的鲜明对比，为剖析数据监测的普遍性与情境性提供了极佳的比较基底。
 
@@ -147,7 +143,7 @@ updated: 2026-09-18
 |---|---|
 | **访谈样本** | 开展 16 场深度半结构化专家访谈，累计涵盖 20 位州级机构专业数据官员与技术专家，单场时长在 60 至 90 分钟之间。 |
 | **机构覆盖** | 美国马萨诸塞州 DESE；德国汉堡市 BSB 以及直属专业研究监测机构 IfBQ。 |
-| **[[Document\|文献]]与技术资产** | 详尽查阅两地教育监测法案、技术架构白皮书、学区数据报告指南、数据库字典以及在线公开数据仪表盘，包括地区分析与审查工具（District Analysis and Review Tools, DART）、资源配置与地区审查分析工具（Resource Allocation and District Action Reports, RADAR）以及学校概览系统（Schulüberblick, SchÜb）等。 |
+| **文献与技术资产** | 详尽查阅两地教育监测法案、技术架构白皮书、学区数据报告指南、数据库字典以及在线公开数据仪表盘，包括地区分析与审查工具（District Analysis and Review Tools, DART）、资源配置与地区审查分析工具（Resource Allocation and District Action Reports, RADAR）以及学校概览系统（Schulüberblick, SchÜb）等。 |
 | **转录与翻译规范** | 德语访谈记录由研究者忠实译为英文，在保留原始意涵前提下对口语语病进行最小限度的语法润色，关键引文辅以双语校核。 |
 
 ---
@@ -203,14 +199,14 @@ updated: 2026-09-18
 
 > [!voice] 行政官员与监测专家对数据中立性的解构
 > - **马萨诸塞州技术官员** 外部所见的数据图景并非客观真实的镜像，而是由具体的检索程序与筛选代码严格决定的：程序指令显性规定了过滤哪些字段、统计哪些对象、合并或剔除哪些项目。（p.4）
-> - **汉堡 [[Institute for Educational Monitoring and Quality Improvement\|IfBQ]] 监测专家** 每一个指数数值都内嵌着特定的背景[[Hypothesis\|假设]]与方法权衡，根本不存在能够完全折射绝对真理的无瑕数据集。（pp.4–5, 11）
+> - **汉堡 [[Institute for Educational Monitoring and Quality Improvement\|IfBQ]] 监测专家** 每一个指数数值都内嵌着特定的背景假设与方法权衡，根本不存在能够完全折射绝对真理的无瑕数据集。（pp.4–5, 11）
 
 > [!citation-card] 监测数据工作的试错烹饪本质
 > 受访者将围绕数据展开的工作与技术基础设施所暗示的线性流程或循环回路模型进行了鲜明对比，转而将其描述为高度实验性的过程，包含着大量即兴摸索与试探（messing around）的成分；正如一位受访者所生动比喻的那样，这好比使用多种原料（数据、算法或模型）进行烹饪，以便在高度多元且充满异质逻辑、利益相关者或现实难题的复杂纠缠中寻找可行方案。（p.4）
 >
 > *In fact, most interviewees contrasted their work around data with linear procedures or loop circle models (as the technical infrastructure would suggest), instead describing it as highly experimental, involving significant elements of 'messing around' or, as one interviewee phrased it, 'cooking' with multiple ingredients (data, algorithms or models) to find working solutions within a highly diverse entanglement of often very different logics, stakeholders or problems.*
 
-这种充满妥协与修补的微观实践表明，量化治理数据绝非客观中立的产物，而是由查询代码、权重分配与手工补丁共同塑造的社会-技术[[Assemblage|装配]]：
+这种充满妥协与修补的微观实践表明，量化治理数据绝非客观中立的产物，而是由查询代码、权重分配与手工补丁共同塑造的社会-技术装配：
 
 > [!quad-grid] 算法选择性与微观实践干预的具体维度
 > - **查询脚本过滤**
@@ -218,7 +214,7 @@ updated: 2026-09-18
 > - **指标加权裁决**
 >   综合指数的各分项权重直接体现官僚机构的政治意图，微小的权数变动即可改变大批学校排名。（pp.3, 5）
 > - **多方数据拉锯**
->   不同处室（督导、测评、财政）对同一指标定义争执不休，导致数据在系统内部反复横向[[Transfer Translation Transformation\|转译]]。
+>   不同处室（督导、测评、财政）对同一指标定义争执不休，导致数据在系统内部反复横向转译。
 > - **非正式打补丁**
 >   技术人员日常运用手工修正、例外规则与临时脚本弥合各系统间的互操作断裂。（pp.4, 7）
 
@@ -321,7 +317,7 @@ updated: 2026-09-18
 ### 论证步骤三　学校监测生成弥散性分布式计算权力，倒逼批判性介入从传统数据技能转向数据基础设施素养
 
 > [!claim] 步骤三核心主张
-> 学校监测并未孕育出由中央集中垄断的全知计算霸权，而是表现为多重平台、算法与制度惯习协同运作的分布式计算权力；面对这一治理现实，批判性教育研究必须超越局限于个体阅读数据集的传统技能范式，建构能够洞察并干预社会-技术全链条的[[Data Infrastructure\|数据基础设施]]素养。（pp.10–11）
+> 学校监测并未孕育出由中央集中垄断的全知计算霸权，而是表现为多重平台、算法与制度[[Habitus|惯习]]协同运作的分布式计算权力；面对这一治理现实，批判性教育研究必须超越局限于个体阅读数据集的传统技能范式，建构能够洞察并干预社会-技术全链条的[[Data Infrastructure\|数据基础设施]]素养。（pp.10–11）
 
 #### 1. 算法系统制造学校次级表象，通过弥散性分布式计算权力重塑教育治理能见度
 
@@ -356,7 +352,7 @@ updated: 2026-09-18
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **学校监测是高度杂糅的试错[[Assemblage\|装配]]** 州级教育监测在技术表象下是一套高度依赖即兴调整与非正式修补的社会-技术实验，所谓中立客观的指标实质上是算法选择与规范权衡的产物。（pp.4–5）
+> 1. **学校监测是高度杂糅的试错装配** 州级教育监测在技术表象下是一套高度依赖即兴调整与非正式修补的社会-技术实验，所谓中立客观的指标实质上是算法选择与规范权衡的产物。（pp.4–5）
 > 2. **做数据实践被五维治理张力贯穿** 行政行动者普遍受困于数据简化与准确、统计公平与本地比较、生成速度与单一事实权威、透明公开与数据安全、问责效能与策略博弈的多重撕裂。（pp.5–10）
 > 3. **[[Commensuration\|通约]]机制引发普遍的地域抗拒** 跨越空间的去地域化统计相似对标遭遇基层学校的强烈文化排斥，迫使行政系统在标准化通约与个性化定制之间反复妥协。（pp.6–7）
 > 4. **问责利害必然诱发系统性博弈** 无论是美国的高利害接管还是德国的资源倾斜配置，一旦指标与实质利益绑定，均迅速诱发数据操纵与表演性防卫行为。（pp.9–10）
@@ -371,7 +367,7 @@ updated: 2026-09-18
 
 ## 关键引用
 
-> [!citation-card] 治理权力在[[Data Infrastructure\|数据基础设施]]中的空间化[[Assemblage\|装配]]
+> [!citation-card] 治理权力在[[Data Infrastructure\|数据基础设施]]中的空间化装配
 > 正如[[Rob Kitchin\|罗伯·基钦]]（Rob Kitchin）与特雷西·劳里奥特（Tracey Lauriault）所言，数据基础设施始终是知识与权力的具象表达，深刻塑造了什么问题可以被提出、这些问题如何被提出、它们如何获得解答、这些答案如何被部署，以及究竟由谁来提出这些问题。正如韦斯特（West, 2017）所指出的，监测基础设施制造出关于重要分析对象的有限次级代表表象，行政官员以此代表学校、教师或学生发声。（p.10）
 >
 > *As Kitchin and Lauriault (2014: 4–5) state, data infrastructures are always '[... ] expressions of knowledge/power, shaping what questions can be asked, how they are asked, how they are answered, how the answers are deployed, and who can ask them' (see also Ruppert et al., 2017). In other words, monitoring infrastructures create what West (2017: 1) describes as limited '[ ... ] second-hand representations of important objects of analysis' that administrators use to speak on behalf of the school, the teacher or the student.*

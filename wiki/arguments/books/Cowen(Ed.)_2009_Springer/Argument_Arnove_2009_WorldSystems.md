@@ -7,7 +7,7 @@ title: "Argument_Arnove_2009_WorldSystems"
 argument_key: "Argument_Arnove_2009_WorldSystems"
 argument_display_title: "World-systems Analysis and Comparative Education in the Age of Globalization"
 argument_kind: "book-chapter"
-argument_related_count: 57
+argument_related_count: 54
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -39,11 +39,8 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Enlightenment]]"
   - "[[Shadow State]]"
-  - "[[Document]]"
-  - "[[Teaching Assistant]]"
   - "[[Rich and Thick Description]]"
   - "[[Paradigm]]"
-  - "[[Attrition]]"
   - "[[Liberalization]]"
   - "[[School Choice]]"
   - "[[Academic Achievement]]"
@@ -152,7 +149,7 @@ updated: 2026-09-29
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |---|---|
-> | **理论[[Document\|文献]]样本** | 涵盖 Wallerstein、Meyer、Boli、Ramirez、Cardoso、Frank、Amin、Harvey、Carnoy、Mundy、Dale、Robertson 等学者的代表性学术著作与核心期刊论文。（pp.116–119） |
+> | **理论文献样本** | 涵盖 Wallerstein、Meyer、Boli、Ramirez、Cardoso、Frank、Amin、Harvey、Carnoy、Mundy、Dale、Robertson 等学者的代表性学术著作与核心期刊论文。（pp.116–119） |
 > | **国际组织与政策协定** | [[World Bank\|世界银行]]（WB）、[[International Monetary Fund\|国际货币基金组织]]（International Monetary Fund, IMF）、[[UNESCO\|联合国教科文组织]]（UNESCO）、[[World Trade Organization\|世贸组织]]《[[GATS and Trade in Education Services\|服务贸易总协定]]》（GATS）及大型跨国慈善基金会（福特、洛克菲勒、卡内基）政策文献。（pp.105–106, 110–111） |
 > | **实证案例覆盖** | 涉及北美（美国）、西欧（法国）、中东（以色列、巴勒斯坦）、南亚（印度）、东亚（中国）、大洋洲（巴布亚新几内亚）以及拉丁美洲和非洲的多样化经验场景。（pp.108–112） |
 
@@ -201,7 +198,7 @@ updated: 2026-09-29
 
 > [!critique] 对新制度主义世界文化论的现实主义批判
 > - **形式趋同掩盖实质不平等** 新制度主义过度聚焦于入学率统计与法案颁布等形式指标，完全忽略了边缘国家内部触目惊心的辍学率、低完成率以及阶级再生产机制。（pp.105–106）
-> - **跨国不平等依附关系的遮蔽** 该流派将现代学校视为理性文化的自然馈赠，掩盖了中心国家跨国金融机构借[[Teaching Assistant|助教]]育援助维护自身资本积累与地缘霸权的政治现实。（pp.104–106）
+> - **跨国不平等依附关系的遮蔽** 该流派将现代学校视为理性文化的自然馈赠，掩盖了中心国家跨国金融机构借助教育援助维护自身资本积累与地缘霸权的政治现实。（pp.104–106）
 
 #### 2. 沃勒斯坦的长时段动态历史观与阿诺夫的理论引入，使比较教育得以透视跨国援助背后的霸权控制与分层固化
 
@@ -221,7 +218,7 @@ updated: 2026-09-29
 ### 论证步骤二　全球化重塑了教育治理格局，超国家经贸规制与非政府组织外包共同侵蚀了民族国家的教育主权与公共性
 
 > [!claim] 步骤二核心主张
-> 20 世纪 90 年代以来的全球化通过技术时空压缩改变了生产方式，跨国经贸机制（[[World Trade Organization|WTO]] 与 [[GATS and Trade in Education Services|GATS]]）与[[Pluri-Scalar Governance|多标度治理]]深度穿透了民族国家的传统教育主权；同时，国际机构与政府将教育公共服务大量外包给非政府组织，使其退化为去政治化的[[Shadow State|影子国家]]，加剧了国家公共责任的[[Attrition|流失]]。（pp.106–112）
+> 20 世纪 90 年代以来的全球化通过技术时空压缩改变了生产方式，跨国经贸机制（[[World Trade Organization|WTO]] 与 [[GATS and Trade in Education Services|GATS]]）与[[Pluri-Scalar Governance|多标度治理]]深度穿透了民族国家的传统教育主权；同时，国际机构与政府将教育公共服务大量外包给非政府组织，使其退化为去政治化的[[Shadow State|影子国家]]，加剧了国家公共责任的流失。（pp.106–112）
 
 #### 1. 新自由主义通过时空压缩将市场化改革推向全球，但经贸规则导致大国与小国陷入极不平等的自主权差距
 

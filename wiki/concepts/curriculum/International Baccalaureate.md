@@ -11,7 +11,7 @@ alias_reviewed:
 summary: "从国际学校共同资格发展而来的跨国课程与质量保障体系，通过课程核心、考试评价、区域支持和公共治理协调共同标准与地方实施。"
 type: concept
 domain: "curriculum"
-related_count: 61
+related_count: 57
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -35,7 +35,6 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Academic Self-Concept]]"
   - "[[Going Native]]"
-  - "[[Hypothesis]]"
   - "[[Constructivist Paradigm]]"
   - "[[Chinese Learner]]"
   - "[[Whole Person Education]]"
@@ -43,12 +42,9 @@ related_concepts:
   - "[[Knowledge Questions]]"
   - "[[Open-Mindedness]]"
   - "[[Dependent Variable]]"
-  - "[[Attrition]]"
   - "[[Variable]]"
-  - "[[Document]]"
   - "[[International Education]]"
 related_theories:
-  - "[[Theory of Mind]]"
   - "[[Knowledge Building Theory]]"
 related_methods:
   - "[[Fieldwork]]"
@@ -89,7 +85,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-17
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # International Baccalaureate
@@ -170,7 +166,7 @@ updated: 2026-10-07
 > 早期办公室把由个别学生自学、学校另寻辅导者的母语称为“罕见语言”。一次语言会议上，一位中国与会者以“中文大概只能算三分熟”指出，中文在世界范围并不罕见，只是在当时 IB 考生中报考较少。组织随后采用“低频开考语言”（Infrequently Offered Languages）这一名称，把分类依据从语言的世界地位改为考试系统内部的报考频率。名称变化也明确了行政责任：学生可以保留母语，学校尽量寻找辅导者，考试组织则需要匹配材料与考官。[[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, Ch. 4, pp. 63–65)]]
 
 > [!claim] 语言开放度受到年度考试生产能力约束
-> IB 允许学生以多种第一语言和第二语言参加考试，但低频开考语言的试卷需要命题、翻译、校对、分发、口试与阅卷人员，不能只靠课程原则维持。1974 年，IBO 与南安普敦大学签约，把语言考试业务从日内瓦逐步转入该校语言中心；汤姆·卡特（[[Theory of Mind|ToM]] Carter）负责学术指导，戴安娜·威廉森（Dianne Williamson）负责行政。语言覆盖的具体规模见下文实证数据。[[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, Ch. 4, pp. 91–92)]]
+> IB 允许学生以多种第一语言和第二语言参加考试，但低频开考语言的试卷需要命题、翻译、校对、分发、口试与阅卷人员，不能只靠课程原则维持。1974 年，IBO 与南安普敦大学签约，把语言考试业务从日内瓦逐步转入该校语言中心；汤姆·卡特（ToM Carter）负责学术指导，戴安娜·威廉森（Dianne Williamson）负责行政。语言覆盖的具体规模见下文实证数据。[[Argument_Peterson_1987_OpenCourt_Ch04|Peterson (1987, Ch. 4, pp. 91–92)]]
 
 > [!tension] 语言效度与财政可承受性
 > - **效度要求（蓝方）** 阅读与听力组合可以更完整地评价[[Language Skills|语言能力]]，多语种覆盖又使学生不必因跨境就学放弃第一语言。
@@ -218,7 +214,7 @@ updated: 2026-10-07
 ### 命题二　IB 课程向亚洲移植时面临西方文化根源与本土情境的潜在冲突
 
 > [!concept-lens] 课程移植与[[Going Native|本土化]]
-> IB 标榜国际化和意识形态中立，但在跨文化实践中，其隐性的西方哲学[[Hypothesis|假设]]是否普适。
+> IB 标榜国际化和意识形态中立，但在跨文化实践中，其隐性的西方哲学假设是否普适。
 
 > [!claim] Slethaug, G.
 > **[[Constructivist Paradigm|建构主义]]取向需要经过本地课程翻译** IB 强调多角度思考和开放心态，课程设计带有西方、盎格鲁建构主义传统的影响。直接移植到知识权威关系和课堂互动规范不同的亚洲环境时，探究要求可能与[[Chinese Learner|中国学习者]]或当地课堂文化发生张力。国际性不能由统一文本自动产生，还需要教师把课程原则转化为当地学生能够参与的任务。[[Argument_Slethaug_2010_InternationalEducation|(Slethaug, 2010, p. 29)]]
@@ -360,7 +356,7 @@ updated: 2026-10-07
 > | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|
 > | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 254)]] | DP 学生 12 年级与 11 年级 | [[Critical Thinking Strategies Scale\|CTSS]] 总分 | 12 年级 622 人；11 年级 620 人 | 12 年级 4.85（1.05）；11 年级 4.62（1.08） | — | $t(1240)=3.04$；$p<.001$ | 横断调查与自报测量；年级差异不能证明 TOK 导致能力增长 |
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015, pp. 256–258)]] | DP 与非 DP 毕业生 | [[California Critical Thinking Disposition Inventory\|加利福尼亚批判性思维倾向量表]]（California Critical Thinking Disposition Inventory，CCTDI）总分 | DP 42 人；非 DP 126 人 | DP 300.95（30.05）；非 DP 293.98（27.75） | — | — | 完成者较少且存在额外登录造成的[[Attrition\|流失]]；便利样本不具代表性 |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015, pp. 256–258)]] | DP 与非 DP 毕业生 | [[California Critical Thinking Disposition Inventory\|加利福尼亚批判性思维倾向量表]]（California Critical Thinking Disposition Inventory，CCTDI）总分 | DP 42 人；非 DP 126 人 | DP 300.95（30.05）；非 DP 293.98（27.75） | — | — | 完成者较少且存在额外登录造成的流失；便利样本不具代表性 |
 > | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 257)]] | DP 与非 DP 毕业生 | ATAR | DP 94 人；非 DP 267 人 | DP 94.13（6.79）；非 DP 89.29（12.07） | — | $t(290)=4.76$；$p<.001$ | 组间比较不能分离 TOK 与整个 DP，也不能排除选课效应 |
 > | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 258)]] | DP 与非 DP 毕业生 | [[Academic Self-Concept\|学术自我概念]] | DP 99 人；非 DP 283 人 | DP 6.25（0.96）；非 DP 5.75（1.02） | — | $t(380)=4.24$；$p<.001$ | 组间比较不能分离 TOK 与整个 DP，也不能排除选课效应 |
 
@@ -390,7 +386,7 @@ updated: 2026-10-07
 
 ## 相关研究
 
-> [!evidence-grid] [[Document|文献]]与论证索引
+> [!evidence-grid] 文献与论证索引
 > - [[Argument_Peterson_1987_OpenCourt|Peterson (1987)]] — 系统记录 IB 的创生与制度化历程：六年试验把课程、考试、行政与资格承认整合为常设国际资格（Ch. 4），沃特福德加入 [[United World Colleges|UWC]] 推动十一月考试季（Ch. 5），地方课程自主与教师培训使 IB 成为北美公立高中的改革工具（Ch. 6），政府参与、功能分权和核心课程评价又支撑第二个十年的成熟运行（Ch. 7）。
 > - [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 199–217)]] — 分析课程复审、终结性学习、创新实施、平衡扩张与公共援助；区分已采用课程、仍在试验的方案及无法由网络规模证明的宏观和平效果。
 > - [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010)]] — 分析了 IB 在[[International Education|国际教育]]中的扩张，并讨论了其质量保障机制及被引入非西方语境时的文化张力。

@@ -8,7 +8,7 @@ summary: "美国著名政治学家、政治哲学家，斯坦福大学高级研�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 21
+person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -24,7 +24,6 @@ tags:
 related_concepts:
   - "[[Winner's Fallacy]]"
   - "[[Epistemology]]"
-  - "[[Attrition]]"
   - "[[Paradigm]]"
   - "[[Hard Power]]"
   - "[[Culture of Disbelief]]"
@@ -41,7 +40,6 @@ related_methods:
   - "[[Analytic Framework]]"
 related_persons:
   - "[[Friedrich Nietzsche]]"
-  - "[[Isaiah Berlin]]"
   - "[[Samuel P. Huntington]]"
   - "[[Georg Wilhelm Friedrich Hegel]]"
 related_facts: []
@@ -51,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Francis Fukuyama
@@ -66,7 +64,7 @@ updated: 2026-10-12
 > - **代表贡献** 提出“[[End of History Thesis|历史终结论]]”（The End of History）、政治秩序三要素[[Analytic Framework|分析框架]]（强大的国家、法治、民主问责制），系统批判后现代相对主义[[Epistemology|认识论]]的自我瓦解。
 
 > [!citation-card] 历史终结论断的标志性表述
-> 1989 年，弗朗西斯·福山发表了一篇后来扩充为其著作《历史的终结》的文章，阐述了一种在数十年内深刻塑造了西方精英关于大国竞争思考的世界观。在[[Isaiah Berlin|柏林]]墙倒塌前数月，他宣告我们已经迎来了‘人类意识形态演进的终点’，自由民主代表了‘人类政府的最终形式’。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, p. 31)]]
+> 1989 年，弗朗西斯·福山发表了一篇后来扩充为其著作《历史的终结》的文章，阐述了一种在数十年内深刻塑造了西方精英关于大国竞争思考的世界观。在柏林墙倒塌前数月，他宣告我们已经迎来了‘人类意识形态演进的终点’，自由民主代表了‘人类政府的最终形式’。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, p. 31)]]
 >
 > *In 1989, Francis Fukuyama published an essay, later expanded into his book The End of History, that articulated a worldview that would shape elite thinking about great power competition for decades. He declared months before the fall of the Berlin Wall that we had reached 'the end-point of mankind’s ideological evolution' and that liberal democracy represented 'the final form of human government.'*
 
@@ -87,7 +85,7 @@ updated: 2026-10-12
 > - **1992** 出版扩充专著《历史的终结与最后的人》（*The End of History and the Last Man*）。
 > - **2011–2014** 出版巨著《政治秩序的起源》与《政治秩序与政治衰败》，转向比较[[Historical Institutionalism|历史制度主义]]与国家能力（State Capacity）研究。
 > - **2015** 发表《与施特劳斯共舞》（*Dancing with Strauss*），深入剖析后现代相对主义对理性与道德判断的解构危机。
-> - **2018–2022** 相继出版《身份政治》（*Identity*）与《自由主义及其不满》（*Liberalism and Its Discontents*），反思当代西方社会的政治极化、国家能力[[Attrition|流失]]与体制困境。
+> - **2018–2022** 相继出版《身份政治》（*Identity*）与《自由主义及其不满》（*Liberalism and Its Discontents*），反思当代西方社会的政治极化、国家能力流失与体制困境。
 
 ---
 
@@ -96,7 +94,7 @@ updated: 2026-10-12
 > [!thought-timeline] 思想发展阶段与代表著作
 > - **1980s–1990s — [[End of History Thesis|历史终结论]]与普遍历史** 运用[[Georg Wilhelm Friedrich Hegel|黑格尔]]-科耶夫哲学框架，论证自由民主体制在战胜法西斯主义与共产主义后成为人类政治制度演化的最终形态。代表作《历史的终结与最后的人》（*The End of History and the Last Man*, 1992）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, p. 31)]]
 > - **1990s–2000s — 社会资本、信任与后人类未来** 探讨经济繁荣背后的文化信任机制，并前瞻生物工程对人性的潜在挑战。代表作《信任》（*Trust*, 1995）、《我们的后人类未来》（*Our Posthuman Future*, 2002）。
-> - **2010s — 政治秩序、国家能力与制度衰败** 提出良性现代治理依赖“强大国家、法治约束、民主问责”三者动态均衡的比较制度[[Analytic Framework|分析框架]]，警示自由民主体制可能因否决政治与国家能力[[Attrition|流失]]而陷入衰败；同时深刻剖析后现代解构主义的[[Epistemology|认识论]]危机。代表作《政治秩序的起源》（2011）、《政治秩序与政治衰败》（2014）、《与施特劳斯共舞》（2015）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 73–74)]]
+> - **2010s — 政治秩序、国家能力与制度衰败** 提出良性现代治理依赖“强大国家、法治约束、民主问责”三者动态均衡的比较制度[[Analytic Framework|分析框架]]，警示自由民主体制可能因否决政治与国家能力流失而陷入衰败；同时深刻剖析后现代解构主义的[[Epistemology|认识论]]危机。代表作《政治秩序的起源》（2011）、《政治秩序与政治衰败》（2014）、《与施特劳斯共舞》（2015）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 73–74)]]
 > - **2018 至今 — 身份政治反思与古典自由主义辩护** 剖析当代西方社会尊严认同（Thymos）的碎片化极化，呼吁重构包容性国家认同与实质公民纽带。代表作《身份政治》（*Identity*, 2018）、《自由主义及其不满》（*Liberalism and Its Discontents*, 2022）。
 
 ---

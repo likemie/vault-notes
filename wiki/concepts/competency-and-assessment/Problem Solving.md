@@ -10,7 +10,7 @@ aliases:
 summary: "指个体在面对阻碍且无直接算法可用时，通过表征初始状态、搜索算子空间、在多重约束下权衡取舍、应用启发式策略与现场排障调试，以克服障碍并达成目标状态的高级认知与实践过程。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 44
+related_count: 42
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Phronesis]]"
   - "[[Creativity]]"
   - "[[Divergent Thinking]]"
-  - "[[Hypothesis]]"
   - "[[AI Hallucination]]"
   - "[[Metacognition]]"
   - "[[Concept Mapping]]"
@@ -54,7 +53,6 @@ related_theories:
   - "[[Creative Problem Solving]]"
   - "[[Cognitive Load Theory]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Meta-analysis]]"
   - "[[Correlational Research]]"
 related_instruments:
@@ -74,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-05
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Problem Solving
@@ -97,7 +95,7 @@ updated: 2026-10-07
 > *Problem-solving is operationalized as the comprehensive practical capacity to perform problem-space representation, constraint analysis, multi-pathway exploration, algorithmic debugging, and solution validation under ill-structured, complex contexts lacking ready-made procedures.*
 
 > [!citation-card] 白宫科技政策办公室 2026 报告论工程问题解决与现场排障
-> 熟练机械师与资深工程师在长期产线攻坚与现场问题解决中积累了无法被文字完全[[Coding in Qualitative Research|编码]]的[[Phronesis|实践智慧]]；在智能时代，必须在工程教育与国家科研中重点考核现场设备操作与物理排障能力。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 52, 56)]]
+> 熟练机械师与资深工程师在长期产线攻坚与现场问题解决中积累了无法被文字完全编码的[[Phronesis|实践智慧]]；在智能时代，必须在工程教育与国家科研中重点考核现场设备操作与物理排障能力。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 52, 56)]]
 >
 > *Master machinists and senior engineers accumulate uncodifiable practical wisdom through on-site problem-solving; in an era of abundant intelligence, hands-on apparatus operation and physical troubleshooting capacities must be prioritized.*
 
@@ -114,7 +112,7 @@ updated: 2026-10-07
 > | 比较维度 | 问题解决（Problem Solving） | [[Critical Thinking\|批判性思维（Critical Thinking）]] | [[Creativity\|创造力（Creativity）]] | 现场故障排查（Troubleshooting） |
 > |---|---|---|---|---|
 > | **核心心智目标** | 消除当前状态与目标状态之间的阻碍 | 审视论据效力、识别偏差与理性抗辩 | 突破常规思维定势并生成新颖独特方案 | 定位复杂物理/代码系统故障并恢复稳定运行 |
-> | **典型思维方式** | 目标导向搜索、手段-目的分析、多约束权衡 | [[Reflexivity\|反思性]]怀疑、证据求证、逻辑推理 | [[Divergent Thinking\|发散思维]]、远距离联想、概念重组 | [[Hypothesis\|假设]]检验、异常信号隔离、反向追踪与根因分析 |
+> | **典型思维方式** | 目标导向搜索、手段-目的分析、多约束权衡 | [[Reflexivity\|反思性]]怀疑、证据求证、逻辑推理 | [[Divergent Thinking\|发散思维]]、远距离联想、概念重组 | 假设检验、异常信号隔离、反向追踪与根因分析 |
 > | **认知/物理输入** | 具有阻碍的劣构或良构问题情境 | 既有的主张、论点、文本或事实证据 | 开放领域的多元刺激与跨界信息 | 产线设备报警、实验反常噪声、系统崩溃日志 |
 > | **终局产出形态** | 可行性解决方案、验证代码、行动方案 | 审慎的价值/事实判断、评价报告 | 新颖且适切的创意产品、理论原型 | 修复后的工作原型、良率达标产线、排障手册 |
 > | **[[Man-Computer Symbiosis\|人机协同]]促学机制** | **步骤天然契合** AI 提供多路径解法并协同排错 | **错误激发反思** AI 偶尔犯错（[[AI Hallucination\|幻觉]]）促使学生核对求证 | **内容同质化制约** 容易受常见套路与大众平庸方案束缚 | **虚实结合** AI 分析日志，人类专家手感排查物理故障 |
@@ -251,7 +249,7 @@ updated: 2026-10-07
 > | [[Higher-Order Thinking Skills]] | Concept | 问题解决作为高阶思维能力体系中面向目标推进与障碍消除的核心支柱。 |
 > | [[Engineering Education]] | Concept | 将多约束问题解决、原型迭代与车间排障作为核心培养目标的专门教育[[Paradigm\|范式]]。 |
 > | [[Epistemic Practices]] | Concept | 问题解决在表征空间、搜索算子与多约束权衡中遵循的认知与实践规程。 |
-> | [[Process Knowledge]] | Concept | 在物理设备与产线排障问题解决中积累沉淀的不可[[Coding in Qualitative Research\|编码]]默会经验。 |
+> | [[Process Knowledge]] | Concept | 在物理设备与产线排障问题解决中积累沉淀的不可编码默会经验。 |
 > | [[Phronesis]] | Concept | 在复杂动态现场面对突发故障与价值冲突时开展即兴问题解决的实践智慧。 |
 > | [[Generative Artificial Intelligence]] | Concept | 与问题解决的程序性推演高度契合、充当思维副驾驶的生成式认知工具。 |
 > | [[Herbert A. Simon]] | Person | 提出问题空间与启发式搜索理论、奠定信息加工问题解决范式的认知科学先驱。 |

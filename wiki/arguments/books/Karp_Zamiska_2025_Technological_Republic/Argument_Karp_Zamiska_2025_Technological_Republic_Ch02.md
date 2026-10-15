@@ -11,9 +11,9 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch02"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch02"
 argument_display_title: "Sparks of intelligence"
 argument_kind: "book-chapter"
-argument_related_count: 30
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 29
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
 book_title: "The Technological Republic: Hard Power, Soft Belief, and the Future of the West"
 publication_place: "New York"
@@ -57,7 +57,6 @@ related_persons:
   - "[[Herbert A. Simon]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
-  - "[[Alfred Nobel]]"
   - "[[Irving John Good]]"
   - "[[Eliezer Yudkowsky]]"
 related_facts:
@@ -174,7 +173,7 @@ updated: 2026-10-08
 > - **战时技术[[Pragmatic Paradigm|实用主义]]** 1949 年《生活》（*Life*）杂志专访指出，奥本海默将原子弹视为一项更为根本的基础科学探索的体现。其在高中时期对化学触及事物核心且结果立即可见的偏爱，塑造了其终生追求行动与实效的工程倾向（pp. 16–17）。
 > - **技术精妙的诱惑** 在政府安全审查听证会上，奥本海默自述其科研驱动力：当你看到某种在技术上精妙绝伦的事物时，你就会直接去做它，关于如何处置这项创造的辩论只会留待成型之后。
 > - **广岛后的原罪体认** 1947 年在麻省理工学院（Massachusetts Institute of Technology, MIT）演讲中，奥本海默公开承认参与原子弹研制的物理学家已经体会到了罪恶，这是一种永恒无法摆脱的道德沉重感。
-> - **布里奇曼的科学非道德论** [[Alfred Nobel|诺贝尔]]物理学奖得主[[Percy Williams Bridgman|布里奇曼]]作为奥本海默在哈佛大学的导师，公开主张科学家只负责揭示自然事实本身，其发现过程超越善恶，无需承担地缘政治与战争罪责（p. 17）。
+> - **布里奇曼的科学非道德论** 诺贝尔物理学奖得主[[Percy Williams Bridgman|布里奇曼]]作为奥本海默在哈佛大学的导师，公开主张科学家只负责揭示自然事实本身，其发现过程超越善恶，无需承担地缘政治与战争罪责（p. 17）。
 
 > [!tension] 科学家的非道德超然论与地缘现实的撕裂
 > 布里奇曼代表的科学非道德论试图将科学家从政治与伦理冲突中解救出来，将其定性为处于道德追问发生之前的客观观察者。然而，这一哲学预设在面对曼哈顿工程这类具备毁灭性破坏力的[[Big Science|大科学工程]]时彻底瓦解；当代硅谷程序员继承了这一非道德视角以回避反思，使技术精英在享受安全庇护的同时陷入对母国防卫责任的虚无主义（pp. 17–18）。

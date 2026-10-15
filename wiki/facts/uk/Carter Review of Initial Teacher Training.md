@@ -11,7 +11,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 22
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -23,8 +23,6 @@ tags:
   - evidence-based-education
 related_concepts:
   - "[[Initial Teacher Training]]"
-  - "[[Transfer Translation Transformation]]"
-  - "[[Document]]"
   - "[[Policy Brokerage]]"
   - "[[Formative Assessment]]"
   - "[[Policy-Based Evidence-Making]]"
@@ -33,6 +31,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Epistemological Coherence]]"
   - "[[Gatekeepers]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Research Translation]]"
 related_theories:
   - "[[Cognitive Load Theory]]"
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Carter Review of Initial Teacher Training
@@ -79,8 +78,8 @@ updated: 2026-09-17
 > - **政策工具** 定向专家审查、发布国家级培训建议清单、研制全国统一核心内容标准。
 > - **约束机制** 结合英国教育标准局（[[Ofsted]]）的专项督导评级，并将核心内容达标与培训机构办学资质认证挂钩。
 
-> [!citation-card] 审查对研究导向临床实践的吸纳与[[Transfer Translation Transformation\|转译]]
-> 卡特审查明确吸纳了牛津大学学者关于“以研究为导向的临床实践”的学术[[Document\|文献]]，但该研究在政府部门内部的传播主要依赖[[Policy Brokerage\|政策中介]]的口口相传与审查文本的引介，而非公务员直接阅读原著。[[Argument_Helgetun_2022_JEP\|Helgetun & Menter, 2022, p. 95]]
+> [!citation-card] 审查对研究导向临床实践的吸纳与转译
+> 卡特审查明确吸纳了牛津大学学者关于“以研究为导向的临床实践”的学术文献，但该研究在政府部门内部的传播主要依赖[[Policy Brokerage\|政策中介]]的口口相传与审查文本的引介，而非公务员直接阅读原著。[[Argument_Helgetun_2022_JEP\|Helgetun & Menter, 2022, p. 95]]
 >
 > *While we interviewed a government employee, she spoke about the influence of an article by two members of Oxford University academic staff on clinical practices, following a citation of their work in the Carter Review.*
 
@@ -100,7 +99,7 @@ updated: 2026-09-17
 
 > [!actor-grid] 实施角色分工
 > - **审查委托方与政策制定者** 英国教育部（DfE），负责审查议程设定、吸收建议并发布官方回应。
-> - **审查专家组** 由安德鲁·卡特爵士领衔的“系统领袖”与行业代表，负责实地调研、[[Document\|文献]]征集与建议起草。
+> - **审查专家组** 由安德鲁·卡特爵士领衔的“系统领袖”与行业代表，负责实地调研、文献征集与建议起草。
 > - **执行与培训主体** 大学教育学院（HEIs）与校本培训联盟（SCITT/School Direct），负责调整课程以契合核心框架。
 > - **监督评估机构** 英国教育标准局（[[Ofsted]]），负责依据审查后制定的新标准开展专项核查。
 
@@ -121,10 +120,10 @@ updated: 2026-09-17
 > > - **批判制度主义视角（[[Argument_Helgetun_2022_JEP\|Helgetun & Menter, 2022]]）** 教育部通过委任特定政治立场的校本改革代言人主持审查，牢牢掌握了[[Policy Network\|政策网络]]的把关权。审查报告的首要考量并非探索不同培训模式的多元因果效力，而是确保结论能够在部长和教育部那里顺利“落地”（Landing）。这一过程演化为典型的[[Policy-Based Evidence-Making\|基于政策的证据制造]]（PBEM），即通过选择性引证和包装证据，为推进校本化分权与削弱大学传统地位提供预设的科学背书（pp. 90, 93–94）。
 >
 > > [!axis] 证据引证的脱语境化与口口相传扩散
-> > 争论焦点在于审查所引用的实证[[Document\|文献]]在政策制定体系中是否得到了审慎的科学理解。
+> > 争论焦点在于审查所引用的实证文献在政策制定体系中是否得到了审慎的科学理解。
 > >
 > > - **学术严谨性诉求** 实证研究依赖特定的样本边界、方法前提与[[Epistemology\|认识论假设]]。
-> > - **中介与官僚实践现实** [[Elite Interview\|精英访谈]]揭示，由于公务员系统的高流动率与专业知识匮乏，官员极少直接研读审查所引文献的原文（如牛津大学关于临床实践的研究），而是依赖特定中介与社交网络的二次提炼与“口口相传”（Word of mouth）。这种脱语境化的[[Transfer Translation Transformation\|转译]]割裂了从研究生产到政策落地的[[Epistemological Coherence\|全流程认识论连贯性]]，容易导致复杂的教育科学被简化为教条式的机械操作指令（pp. 95–96）。
+> > - **中介与官僚实践现实** [[Elite Interview\|精英访谈]]揭示，由于公务员系统的高流动率与专业知识匮乏，官员极少直接研读审查所引文献的原文（如牛津大学关于临床实践的研究），而是依赖特定中介与社交网络的二次提炼与“口口相传”（Word of mouth）。这种脱语境化的转译割裂了从研究生产到政策落地的[[Epistemological Coherence\|全流程认识论连贯性]]，容易导致复杂的教育科学被简化为教条式的机械操作指令（pp. 95–96）。
 
 ---
 

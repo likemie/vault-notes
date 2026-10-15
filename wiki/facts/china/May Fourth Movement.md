@@ -26,9 +26,9 @@ related_concepts:
   - "[[Democratic Education]]"
   - "[[Pragmatism in China]]"
   - "[[Pragmatic Paradigm]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Theoretical Perspective]]"
   - "[[Social Regime]]"
+  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -86,7 +86,7 @@ updated: 2026-10-11
 > - **加速[[New Education Movement\|新教育运动]]的激进化** 将教育改革与社会政治变革诉求紧密绑定，使1919–1923年间新教育形成将教育视为“改造政治与社会的根本杠杆”的激进心态。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.614–615]]）
 > - **为[[John Dewey\|杜威]]访华提供高度政治化的接纳语境** 迎合了五四后急于救国的政治氛围，使杜威的[[Democratic Education\|民主教育]]目标被放大，而其渐进[[Pragmatism in China\|实验主义]]方法则被忽视。（[[Argument_Zhou_2024_CE\|Zhou & Westberg, 2024, pp.614–617]]）
 > - **塑造杜威[[Pragmatic Paradigm\|实用主义]]对不同阵营的双重吸引力** 激进派借杜威“儿童中心与民主”反对儒家，温和派借其“反对暴力与渐进改良”主张教育救国，使实用主义同时满足对立阵营需求。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, p.77]]）
-> - **[[Hu Shi\|胡适]]的[[Transfer Translation Transformation\|转译]]放大了选择性接纳** 胡适将实用主义重构为打倒迷信的“实验主义”武器，既推动了其快速传播，也植下了后续被批判的隐患。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, pp.72–73]]）
+> - **[[Hu Shi\|胡适]]的转译放大了选择性接纳** 胡适将实用主义重构为打倒迷信的“实验主义”武器，既推动了其快速传播，也植下了后续被批判的隐患。（[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte, 2009, pp.72–73]]）
 
 ---
 

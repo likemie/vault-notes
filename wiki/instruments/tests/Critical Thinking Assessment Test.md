@@ -8,9 +8,9 @@ aliases:
 summary: "由美国国家科学基金会资助、田纳西理工大学研发的跨学科真实情境表现性测验，由高校教师团队评分，将创造性问题解决与新信息整合内嵌于批判性思维评估中。"
 type: instrument
 instrument_type: test
-instrument_related_count: 10
-instrument_related_level: 2
-instrument_related_stars: "⭐⭐"
+instrument_related_count: 9
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#dbeafe"
 part_of: ""
 developers:
@@ -41,8 +41,7 @@ related_theories:
   - "[[Creative Problem Solving]]"
 related_methods:
   - "[[Multiple-Choice Questions]]"
-related_instruments:
-  - "[[Consensual Assessment Technique]]"
+related_instruments: []
 related_persons: []
 related_facts:
   - "[[OECD]]"
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-08-27
+updated: 2026-10-15
 ---
 
 # Critical Thinking Assessment Test
@@ -60,7 +59,7 @@ updated: 2026-08-27
 
 ## 工具定位
 
-> [!instrument-profile] [[Critical Thinking Assessment]] Test（[[Consensual Assessment Technique\|CAT]]）
+> [!instrument-profile] [[Critical Thinking Assessment]] Test（CAT）
 > - **工具类型** 基于教师校准的真实情境表现性测验（Faculty-Scored Real-World Performance Assessment）。
 > - **开发者与年份** Barry Stein, Ada Haynes, et al.（Tennessee Tech University / 美国国家科学基金会 NSF 资助, 2007）。
 > - **测量目的** 测量大学生在跨学科真实情境中的批判性分析、[[Creative Problem Solving\|创造性问题解决]]与有效沟通能力，促进高校教师通过参与评分校准（Calibration）提升教学评价素养。
@@ -98,7 +97,7 @@ updated: 2026-08-27
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | [[Consensual Assessment Technique\|CAT]] 标准版 | [[OECD]] 报告综述分析，作为将[[Creativity\|创造性思维]]显性内嵌于[[Critical Thinking Assessment\|批判性思维评估]]中的创新测评典范 | 跨学科表现性测试 | 证实 CAT 巧妙打破了批判与创造的二元割裂，依托高校任课教师参与评分的机制有效驱动了校内教学改进 |
+> | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | CAT 标准版 | [[OECD]] 报告综述分析，作为将[[Creativity\|创造性思维]]显性内嵌于[[Critical Thinking Assessment\|批判性思维评估]]中的创新测评典范 | 跨学科表现性测试 | 证实 CAT 巧妙打破了批判与创造的二元割裂，依托高校任课教师参与评分的机制有效驱动了校内教学改进 |
 
 ---
 
@@ -109,4 +108,4 @@ updated: 2026-08-27
 >
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
-> | [[Consensual Assessment Technique\|CAT]] 原始版 | 英语（全美数百所高校） | 本科生各年级 | 15 题 | 确立 15 项核心技能与高校教师集体评分校准模式 | Stein et al. (2007, 2010) |
+> | CAT 原始版 | 英语（全美数百所高校） | 本科生各年级 | 15 题 | 确立 15 项核心技能与高校教师集体评分校准模式 | Stein et al. (2007, 2010) |

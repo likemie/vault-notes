@@ -35,8 +35,8 @@ related_instruments: []
 related_persons:
   - "[[Talcott Parsons]]"
   - "[[Liliana Esther Olmos]]"
-  - "[[Carlos Alberto Torres]]"
   - "[[David Held]]"
+  - "[[Carlos Alberto Torres]]"
 related_facts:
   - "[[International Schools Association]]"
 related_arguments:
@@ -58,7 +58,7 @@ updated: 2026-10-08
 > - **核心角色** 20 世纪下半叶[[Structural Functionalism|结构功能主义]]修正、经济社会学与集体行为理论的公认巨擘；在冷战后全球化初兴阶段，敏锐把握世界格局转型，系统指出了跨国生产网络对传统主权民族国家疆界的渗透与消解，为比较教育学理解民族国家在跨国[[Disciplina and Doctrina|规训]]下主权多孔化（[[Permeable State]]）提供了权威的宏观社会学定性。
 > - **代表贡献** 与[[Talcott Parsons|塔尔科特·帕森斯]]（Talcott Parsons）合著奠基性名著《经济与社会》（1956）；出版《集体行为理论》（1962）、《社会分化与社会变革》（1976）以及权威教材《社会学》（1981）。
 
-> [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]论斯梅尔塞对全球化侵蚀民族国家主权边界的经典定性
+> [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论斯梅尔塞对全球化侵蚀民族国家主权边界的经典定性
 > 全球化进程被视为模糊了国家边界，转变了民族国家内部与相互间的认同纽带，并深刻影响了国家与利益群体的身份构成。尼尔·斯梅尔塞（Neil Smelser, 1993）极其精准地捕捉到了这一主题的实质：描绘当今世界格局的一个适宜起点，就是审视民族国家的地位。曾几何时，国家普遍被假定为其公民忠诚与团结的天然与主权焦点，然而如今，这一国家理念在所有这些基本构成要素上都遭到了深刻挑战。随着生产全球化的深入，民族国家的国际边界已变得高度多孔与通透。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 80)]]
 >
 > *Neil Smelser (1993) captures the spirit of this theme quite well. "A convenient starting-point for depicting the world situation is to consider the status of the nation-state. Once commonly supposed to be the natural and sovereign focus of the loyalty and solidarity of its citizens, this idea of the state has recently been challenged with respect to all of these constituent elements. The international boundaries of the state have become permeable through the greater globalization of production..."*
@@ -112,7 +112,7 @@ updated: 2026-10-08
 
 > [!influence-path] 影响路径
 > - **社会学理论与全球化研究** 其关于“[[Permeable State|民族国家通透性]]/多孔性”的论断，成为全球化社会学转型期广泛引用的权威论据，深刻启迪了国际关系与教育政策分析。
-> - **比较教育学界引用** [[Liliana Esther Olmos|奥尔莫斯]]、[[Carlos Alberto Torres|托雷斯]]、戴尔等批判学者借助其判断，论证了跨国结构调整与新自由主义处方为何能长驱直入民族国家教育体系。
+> - **比较教育学界引用** [[Liliana Esther Olmos|奥尔莫斯]]、托雷斯、戴尔等批判学者借助其判断，论证了跨国结构调整与新自由主义处方为何能长驱直入民族国家教育体系。
 
 ---
 

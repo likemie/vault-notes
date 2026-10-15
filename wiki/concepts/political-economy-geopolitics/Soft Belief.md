@@ -6,7 +6,7 @@ aliases:
 summary: "政治哲学与技术地缘政治学概念，指无需承担现实代价、流于程序合规、公关话术与道德表演的薄弱信念形态；卡普与扎米斯卡以此诊断当代西方精英阶层与硅谷科技界的道德退缩、技术不可知论与战略虚无。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 23
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Hard Belief]]"
   - "[[Effective Altruism]]"
   - "[[Anonymity in Research]]"
-  - "[[Attrition]]"
   - "[[Cosmopolitanism]]"
   - "[[Value Neutrality]]"
   - "[[Cultural Relativism]]"
@@ -48,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-09
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Soft Belief
@@ -84,7 +83,7 @@ updated: 2026-10-09
 > [!contrast-table] 概念辨析
 > | 比较维度 | 软信念（Soft Belief） | 硬信念（[[Hard Belief]]） | 犬儒主义（Cynicism） |
 > |---|---|---|---|
-> | **代价与风险** | 追求零风险，遇阻即退缩至程序合规与免责声明 | 愿意承受成员[[Attrition\|流失]]、职位动摇、公众非议等现实代价 | 认定所有崇高主张都是骗局，拒绝任何代价 |
+> | **代价与风险** | 追求零风险，遇阻即退缩至程序合规与免责声明 | 愿意承受成员流失、职位动摇、公众非议等现实代价 | 认定所有崇高主张都是骗局，拒绝任何代价 |
 > | **表态方式** | 高调发布公关声明、参与低风险道德站队 | 以实质行动介入复杂争议，承担法律与财务责任 | 冷眼旁观，解构一切规范性价值判断 |
 > | **对国家责任** | 视国家防卫为负担，退向[[Technological Agnosticism\|技术不可知论]]与[[Cosmopolitanism\|世界主义]] | 坚定承担捍卫自由共和国的公民与科技责任 | 视国家利益为少数权贵分赃的遮羞布 |
 > | **典型主体** | 避险的高校管理者、高唱[[Effective Altruism\|有效利他主义]]的科技新贵 | [[Skokie Free Speech Case\|斯科基案]]中承受退会危机的内尔、坚守原则的创始人 | 政治冷漠的大众与投机主义操盘手 |

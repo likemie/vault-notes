@@ -12,16 +12,16 @@ aliases:
 summary: "科学探究四大基本假设之一，主张可靠知识源自感官观察与直接经验，理论必须依托经验证据支撑，奠定了实证科学方法、Mouly 经验演化五步进程以及现代软件工程即兴经验科学的认识论基石。"
 type: concept
 domain: "educational-philosophy"
-related_count: 57
+related_count: 55
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
 tags: [theme/epistemology, theme/methodology, theme/research-philosophy, paradigm/positivist]
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
   - "[[Evidence-Based Education]]"
+  - "[[Hypothesis]]"
   - "[[Positivism]]"
   - "[[Scientism]]"
   - "[[Falsification]]"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[Geisteswissenschaften]]"
   - "[[Social Science as Legitimation Alibi]]"
-  - "[[Document]]"
   - "[[Objectivism]]"
   - "[[Reflexivity]]"
   - "[[Disciplina and Doctrina]]"
@@ -50,7 +49,6 @@ related_concepts:
   - "[[Bureaucracy]]"
 related_persons:
   - "[[René Descartes]]"
-  - "[[Bernard Barber]]"
   - "[[Andreas Kazamias]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
@@ -83,7 +81,7 @@ related_facts:
 confidence: high
 status: completed
 created: 2026-09-09
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Empiricism
@@ -93,7 +91,7 @@ updated: 2026-10-08
 ## 定义
 
 > [!def] 核心定义
-> **经验主义（Empiricism）**，亦称**经验论**，是科学探究四大基本信仰[[Hypothesis|假设]]之一（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1, p. 15）。该假设坚信一切可靠的知识在根本上只能来源于感官经验与实地观察（derive from experience）。在科学研究与工程实践中，经验主义意味着任何理论、假说或技术系统的可立足性（tenability），完全取决于支撑它的经验证据与实战运行结果；在此，“经验的（empirical）”被界定为通过直接观察、物理交互与实地体验可加以复核验证的事物（Barratt, 1971; [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]），而“证据（evidence）”则是在概率与实效意义上对理论或假说提供确证支持的客观数据。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 15–16)]]
+> **经验主义（Empiricism）**，亦称**经验论**，是科学探究四大基本信仰假设之一（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1, p. 15）。该假设坚信一切可靠的知识在根本上只能来源于感官经验与实地观察（derive from experience）。在科学研究与工程实践中，经验主义意味着任何理论、假说或技术系统的可立足性（tenability），完全取决于支撑它的经验证据与实战运行结果；在此，“经验的（empirical）”被界定为通过直接观察、物理交互与实地体验可加以复核验证的事物（Barratt, 1971; [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]），而“证据（evidence）”则是在概率与实效意义上对理论或假说提供确证支持的客观数据。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 15–16)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向以感官知觉、系统观察、实证数据与实战运行反馈为知识合法来源的[[Epistemology|认识论]][[Paradigm|范式]]。
@@ -103,7 +101,7 @@ updated: 2026-10-08
 > [!citation-card] 经验证据作为理论成立的检验基准
 > 第二个假设是经验主义的假设。我们已经触及了这一观点，它认为某些种类的可靠知识只能来源于经验。在实践中，在科学上这意味着一个理论或假说的立足性取决于支持它的经验证据的性质。这里的‘经验的’意味着可以通过观察和直接体验进行验证的事物；而‘证据’则是指在研究情境中从概率角度为理论或假说提供证明或强力确认的数据。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 15–16)]]
 >
-> *The second assumption is that of empiricism. We have already touched upon this viewpoint, which holds that certain kinds of reliable knowledge can only derive from experience. In practice, this means scientifically that the tenability of a theory or hypothesis depends on the nature of the empirical evidence for its support. Empirical here means that which is verifiable by observation and direct experience; and evidence, data yielding proof or strong confirmation, in probability terms, of a theory or hypothesis in a research setting.*
+> *The second assumption is that of empiricism. We have already touched upon this viewpoint, which holds that certain kinds of reliable knowledge can only derive from experience. In practice, this means scientifically that the tenability of a theory or [[Hypothesis]] depends on the nature of the empirical evidence for its support. Empirical here means that which is verifiable by observation and direct experience; and evidence, data yielding proof or strong confirmation, in probability terms, of a theory or hypothesis in a research setting.*
 
 > [!boundary] 概念边界
 > - 不等于 [[Positivism|实证主义]] — 经验主义是宽泛的认识论哲学立场；实证主义则是将经验主义推向极致的系统[[Scientism|科学主义]]哲学，包含社会工程与拒斥形而上学的特定历史纲领。
@@ -118,7 +116,7 @@ updated: 2026-10-08
 > | 比较维度 | 经验主义（Empiricism） | 理性主义（Rationalism） |
 > |---|---|---|
 > | **知识源泉** | 感官知觉、实地观察、测量数据、后天体验与实战运行反馈 | 先天理性、逻辑推演、数学公理与反思明证 |
-> | **核心方法论** | 培根式经验归纳法、[[Hypothesis\|假设]]检验、受控实验、即兴试错迭代 | [[René Descartes\|笛卡尔]]式演绎三段论、先验公理化体系推导 |
+> | **核心方法论** | 培根式经验归纳法、假设检验、受控实验、即兴试错迭代 | [[René Descartes\|笛卡尔]]式演绎三段论、先验公理化体系推导 |
 > | **真理检验标准** | 实证证据的概率支持力度、经验可复核性与现实运行效果 | 逻辑无矛盾性、演绎必然性与理性自明度 |
 > | **对理论的定位** | 理论是经验事实的概括，必须随时接受数据与实战修正 | 理论是统摄感官表象的公理体系，经验仅为佐证 |
 > | **学术与工程表现** | 实证调查、随机实验、行为分析、软件敏捷开发与实战试错 | 经典教育哲学思辨、规范伦理推演、纯理论形式化模型 |
@@ -132,7 +130,7 @@ updated: 2026-10-08
 > - **证据的概率确认性（Probabilistic Confirmation）** 现代科学经验主义认识到经验证据无法提供绝对确定性，而是以概率统计的形式为假说提供支持度或[[Falsification|证伪]]检验。
 > - **Mouly [[Scientific Method|经验科学]]五步演进规程（Five Steps of Empirical Science）** 穆利（Mouly, 1978）系统提炼的实证演进阶梯：经验积累、分类整理、精密量化、关系发现、逼近真理。
 > - **反先验教条主义（Anti-a-priori Dogmatism）** 拒绝任何未经经验数据检验的先验教条或权威断言，坚持理论与系统的立足性完全取决于证据与实战质量。
-> - **方法论经验主义与唯方法论主义（Methodological Empiricism & Methodologism）** 在 20 世纪战后实证[[Scientism|科学主义]]运动中，经验主义被窄化为图尔敏（Stephen Toulmin, 1963）所界定的通用科学方法信仰，即仅认可[[Hypothesis|假设]]检验、受控调查、[[Variable|变量]]测量与量化统计解释（Noah & Eckstein, 1969；Psacharopoulos, 1987），异化为[[Bernard Barber|巴伯]]（Bernard Barber, 1972）所批判的脱离历史文化语境与价值反思的唯方法论主义。
+> - **方法论经验主义与唯方法论主义（Methodological Empiricism & Methodologism）** 在 20 世纪战后实证[[Scientism|科学主义]]运动中，经验主义被窄化为图尔敏（Stephen Toulmin, 1963）所界定的通用科学方法信仰，即仅认可假设检验、受控调查、[[Variable|变量]]测量与量化统计解释（Noah & Eckstein, 1969；Psacharopoulos, 1987），异化为巴伯（Bernard Barber, 1972）所批判的脱离历史文化语境与价值反思的唯方法论主义。
 > - **工程经验实战性与即兴试错（Engineering Empiricism & Improvisational [[Feedback]]）** 在技术与复杂自适应系统构建中，经验主义体现为对物理世界运行结果与实战反馈的绝对服从。前沿工程本质上是一门经验观察性科学（empirical and observational science），摒弃象牙塔式的先验公理推导，奉行尝试一切管用之法的务实准则，通过持续碰撞现实的即兴迭代获取真实认知（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025, pp. 122–123]]）。
 
 > [!proc] 经验科学的五步演化进程（Mouly, 1978）
@@ -202,7 +200,7 @@ updated: 2026-10-08
 > 探讨经验主义在社会科学与教育研究中的异化形态。卡扎米亚斯揭示了方法论经验主义对学科历史深度与[[Geisteswissenschaften|精神科学]]身份的削蔽。
 
 > [!claim] [[Andreas Kazamias|Kazamias, A.]] M. & Schwartz, K.
-> **方法论经验主义与唯方法论主义批判判定** 20 世纪 1960–1970 年代战后实证[[Scientism|科学主义]]运动将教育研究推向以诺亚（[[Harold Noah]]）、埃克斯坦（[[Max Eckstein]]）及芝加哥学派[[Human Capital Theory|人力资本理论]]家萨查洛普洛斯（[[George Psacharopoulos]]）为代表的方法论经验主义（methodological empiricism）乃至唯方法论主义（methodologism）。该范式秉持科学一元论假定，试图将学科改造为完全等同于自然科学的去情境化[[Hypothesis|假设]]检验、[[Variable|变量]]控制与大[[Sample Size Determination|样本量]]化分析体系（如[[IEA|国际教育成就评价协会]]（IEA）早期跨国数学成就测试）。卡扎米亚斯强调，比较教育学并非狭隘的经验社会科学（empirical social science），而是深植于德语精神科学（*Geisteswissenschaften*）传统的阐释性、解释学与批判性人文科学；将经验探究等同于量化方法论主义，不仅导致学科陷入无历史性（ahistorical）的学术失忆症，更使量化指标沦为官僚统治与外部资助机构推行既定政策的[[Social Science as Legitimation Alibi|合法化借口]]。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias & Schwartz, 1977; Kazamias, 2009a, pp. 143, 147–149)]]
+> **方法论经验主义与唯方法论主义批判判定** 20 世纪 1960–1970 年代战后实证[[Scientism|科学主义]]运动将教育研究推向以诺亚（[[Harold Noah]]）、埃克斯坦（[[Max Eckstein]]）及芝加哥学派[[Human Capital Theory|人力资本理论]]家萨查洛普洛斯（[[George Psacharopoulos]]）为代表的方法论经验主义（methodological empiricism）乃至唯方法论主义（methodologism）。该范式秉持科学一元论假定，试图将学科改造为完全等同于自然科学的去情境化假设检验、[[Variable|变量]]控制与大[[Sample Size Determination|样本量]]化分析体系（如[[IEA|国际教育成就评价协会]]（IEA）早期跨国数学成就测试）。卡扎米亚斯强调，比较教育学并非狭隘的经验社会科学（empirical social science），而是深植于德语精神科学（*Geisteswissenschaften*）传统的阐释性、解释学与批判性人文科学；将经验探究等同于量化方法论主义，不仅导致学科陷入无历史性（ahistorical）的学术失忆症，更使量化指标沦为官僚统治与外部资助机构推行既定政策的[[Social Science as Legitimation Alibi|合法化借口]]。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias & Schwartz, 1977; Kazamias, 2009a, pp. 143, 147–149)]]
 
 ---
 
@@ -219,7 +217,7 @@ updated: 2026-10-08
 ### 命题总览
 
 > [!contrast-table] 围绕经验主义形成的理论命题总览
-> | 命题类型 | 核心主张 | 方法论机制 | 代表学者与[[Document\|文献]] |
+> | 命题类型 | 核心主张 | 方法论机制 | 代表学者与文献 |
 > |---|---|---|---|
 > | **证据立足准则命题** | 理论的有效性完全由可复核的感官经验证据提供概率性确证 | 观察检验、概率推断、证据支持度评估 | Barratt (1971); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 15–16)]] |
 > | **程序阶梯演进命题** | 经验科学遵循经验、分类、量化、关系发现到逼近真理的五阶段递进 | 分类系统化、精确测量、函数建模 | Mouly (1978) |
@@ -236,7 +234,7 @@ updated: 2026-10-08
 > - **17–18 世纪 — 英国古典经验主义鼎盛** 洛克（[[John Locke]]）、[[George Berkeley|贝克莱]]与休谟（David Hume）系统构建白板说与经验论体系，休谟揭示归纳问题的哲学危机。
 > - **1930s — 逻辑经验主义与证实原则** 维也纳学派将经验主义推至顶峰，主张只有能够被经验证实的陈述才具备认知意义。
 > - **1960s 至今 — 后实证修正与多元经验论** 波普尔揭示观察渗透理论，[[Pragmatic Paradigm|实用主义]]与[[Mixed Methods Research|混合方法]]将经验主义改造为面向解决现实问题的工具主义与实践经验论。
-> - **1970s — 比较教育方法论经验主义批判与[[Geisteswissenschaften|精神科学]]反思** 卡扎米亚斯与施瓦茨（Kazamias & Schwartz, 1977）、[[Bernard Barber|巴伯]]（Barber, 1972）揭示并批判诺亚、埃克斯坦等实证派所确立的方法论经验主义与唯方法论主义，重申比较教育深植于精神科学的人文阐释与批判反思传统（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）。
+> - **1970s — 比较教育方法论经验主义批判与[[Geisteswissenschaften|精神科学]]反思** 卡扎米亚斯与施瓦茨（Kazamias & Schwartz, 1977）、巴伯（Barber, 1972）揭示并批判诺亚、埃克斯坦等实证派所确立的方法论经验主义与唯方法论主义，重申比较教育深植于精神科学的人文阐释与批判反思传统（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）。
 > - **2025 年 — 软件工程与自适应组织的[[Scientific Method|经验科学]]重塑** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）将经验主义原则注入现代[[Technological Republic|技术共和国]]与软件工程哲学，在第 11 章中论证前沿软件开发本质是一门依赖实战观测与即兴演剧的经验观察性科学，重塑了面对不确定性世界的技术认知模式。
 
 ---
@@ -260,7 +258,7 @@ updated: 2026-10-08
 > > [!axis] 方法论经验主义 vs 阐释性批判[[Geisteswissenschaften|人文科学]]
 > > 围绕教育探究应否全面依循自然科学一元化方法建立纯粹量化[[Scientific Method|经验科学]]展开交锋。
 > >
-> > - **方法论经验主义学派（Noah & Eckstein, 1969; Psacharopoulos, 1987）** 倡导严格的[[Hypothesis|假设]]检验、控制调查与数学量化模型，致力于发现普遍的经验规律。
+> > - **方法论经验主义学派（Noah & Eckstein, 1969; Psacharopoulos, 1987）** 倡导严格的假设检验、控制调查与数学量化模型，致力于发现普遍的经验规律。
 > > - **历史-阐释与批判人文主义学派（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]; Barber, 1972）** 指责其陷入去情境化、无历史性的唯方法论主义幻觉，捍卫教育学作为精神科学（*[[Geisteswissenschaften]]*）对历史文化脉络的深层阐释与道德批判旨趣。
 >
 > > [!axis] 先验公理计划 vs 即兴试错实战经验
@@ -292,7 +290,7 @@ updated: 2026-10-08
 >
 > | 条目 | 类型 | 关联与贡献 |
 > |:-----|:-----|:-----|
-> | [[Scientific Method\|科学方法]] | 概念 | 经验主义构成了科学方法最核心的[[Epistemology\|认识论]]动力，要求[[Hypothesis\|假设]]必须经受经验裁决。 |
+> | [[Scientific Method\|科学方法]] | 概念 | 经验主义构成了科学方法最核心的[[Epistemology\|认识论]]动力，要求假设必须经受经验裁决。 |
 > | [[Engineering Mindset\|工程思维]] | 概念 | 经验主义构成了工程思维在面对未知与复杂系统时依赖实战观测与即兴迭代的底层认识论。 |
 > | [[Protean Episteme\|普罗透斯式认识体系]] | 概念 | 方法论经验主义构成战后实证[[Scientism\|科学主义]]普罗透斯式认识型的核心形态。 |
 > | [[Geisteswissenschaften\|精神科学]] | 概念 | 德语精神科学传统，提供抵御去情境化经验主义与唯方法论主义的[[Humanistic Episteme\|人文认识论]]防线。 |

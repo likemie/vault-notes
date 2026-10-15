@@ -11,7 +11,7 @@ subtype: policy
 region: "singapore"
 fact_region: "singapore"
 fact_kind: "policy"
-fact_related_count: 10
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -24,7 +24,6 @@ tags:
   - theme/social-cohesion
   - region/singapore
 related_concepts:
-  - "[[Attrition]]"
   - "[[School Inspection]]"
   - "[[Language Skills]]"
   - "[[Bilingual Education Policy]]"
@@ -43,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Goh Report
@@ -55,7 +54,7 @@ updated: 2026-10-09
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1979 年 2 月 10 日，由新加坡副总理[[Goh Keng Swee|吴庆瑞]]（[[Goh Keng Swee|Goh Keng Swee]]）领衔的特别研究小组向新加坡教育部正式提交并发布。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 195–196)]]
 > - **适用地区 / 对象** 新加坡全国中小学教育体系、全体教师、在校学生及其家庭。
-> - **问题背景** 独立初期的新加坡由多元移民群体组成，多达 12 种汉语方言与英语、马来语、泰米尔语并存；调查发现 85% 的儿童在家中使用方言，导致学校双语教学[[Attrition|流失]]率高、社群隔阂严重。
+> - **问题背景** 独立初期的新加坡由多元移民群体组成，多达 12 种汉语方言与英语、马来语、泰米尔语并存；调查发现 85% 的儿童在家中使用方言，导致学校双语教学流失率高、社群隔阂严重。
 > - **制度位置** 新加坡战后教育体制改革的奠基性白皮书，直接催生了能力分流制度与[[Speak Mandarin Campaign|讲华语运动]]。
 
 ---
@@ -111,7 +110,7 @@ updated: 2026-10-09
 > - **劳动力素质** 高素质双语技术与管理人才的大批[[Emergence|涌现]]为国家经济转型提供了核心支撑。
 
 > [!finding-cards] 核心政策发现
-> - **教育分流显著降低失败率** 根据学生语言认知节奏实行因材施教分流，大幅改善了原先全国统一进度的严重挫败与[[Attrition|流失]]现象。
+> - **教育分流显著降低失败率** 根据学生语言认知节奏实行因材施教分流，大幅改善了原先全国统一进度的严重挫败与流失现象。
 > - **奠定文化认同防御屏障** 成功阻断了全盘西化造成的文化虚浮危机，在多元族群中牢固确立了共同核心价值观。
 
 > [!stat-cards]- 关键政策数据

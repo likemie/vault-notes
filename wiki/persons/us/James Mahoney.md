@@ -9,7 +9,7 @@ summary: "美国政治学家与历史社会学家，西北大学政治学与社�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 36
+person_related_count: 35
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -39,7 +39,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Veto Possibilities]]"
   - "[[Strategic Compliance]]"
-  - "[[Hypothesis]]"
   - "[[Enforcement Discretion]]"
   - "[[Rule Ambiguity]]"
 related_theories:
@@ -65,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # James Mahoney
@@ -139,7 +138,7 @@ updated: 2026-10-12
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 彻底打破[[Historical Institutionalism|历史制度主义]]与理性选择学派对制度刚性稳态的静态[[Hypothesis|假设]]，将制度研究由外生断裂解释转向内生渐进演进；系统深化[[Path Dependence|路径依赖]]机制的因果微观基础。
+> - **理论路径** 彻底打破[[Historical Institutionalism|历史制度主义]]与理性选择学派对制度刚性稳态的静态假设，将制度研究由外生断裂解释转向内生渐进演进；系统深化[[Path Dependence|路径依赖]]机制的因果微观基础。
 > - **方法路径** 奠定比较历史分析（CHA）的现代学术规范，为社会科学中处理小样本、长时段、复杂[[Causality|因果关系]]（如多因并发、必要[[Necessary and Sufficient Conditions|充分条件]]、路径依赖）提供了标准化的分析语法与检验技术。
 > - **政策路径** 为后殖民国家国家能力建设、宪政体制演化与福利政策改革提供了长历史周期的因果评估视角，揭示忽视历史路径锁定与执行裁量空间的激进立法为何频频失效。
 > - **跨国／跨领域传播** 其制度变迁模型与比较历史方法被政治经济学、社会学、法学、公共政策以及教育制度研究广泛引用，成为解析长期结构转型的经典理论[[Paradigm|范式]]。

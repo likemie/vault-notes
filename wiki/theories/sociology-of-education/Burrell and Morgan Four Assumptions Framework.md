@@ -4,13 +4,12 @@ aliases: [伯勒尔和摩根四组假设框架, Burrell and Morgan framework, �
 summary: "Burrell and Morgan (1979) 提出的分析社会研究范式差异的理论框架，以本体论、认识论、人性和方法论四组假设沿主观–客观维度排列，揭示一切方法论的差异根植于更深层的哲学假设差异。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 13
+theory_related_count: 12
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
 tags: [theory/sociological, theme/epistemology, theme/research-philosophy]
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
   - "[[Objectivism]]"
@@ -31,7 +30,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-08-16
+updated: 2026-10-15
 ---
 
 # Burrell and Morgan Four Assumptions Framework
@@ -39,11 +38,11 @@ updated: 2026-08-16
 ## 核心主张
 
 > [!abstract] 核心主张
-> 一切方法论的差异都根植于更深层的哲学[[Hypothesis\|假设]]差异。研究者在方法论层面的选择——调查还是[[Participant Observation\|参与观察]]、实验还是[[Case Study\|案例研究]]——不是孤立的技术决策，而是对实在本质（[[Ontology\|本体论]]）、知识本质（[[Epistemology\|认识论]]）和人性的根本信念的层层传导结果（Burrell and Morgan, 1979）（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch. 1）。
+> 一切方法论的差异都根植于更深层的哲学假设差异。研究者在方法论层面的选择——调查还是[[Participant Observation\|参与观察]]、实验还是[[Case Study\|案例研究]]——不是孤立的技术决策，而是对实在本质（[[Ontology\|本体论]]）、知识本质（[[Epistemology\|认识论]]）和人性的根本信念的层层传导结果（Burrell and Morgan, 1979）（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch. 1）。
 
 ## 四组假设
 
-> [!contrast-table] 四组[[Hypothesis\|假设]]：[[Objectivism\|客观主义]] vs [[Subjectivism\|主观主义]]
+> [!contrast-table] 四组假设：[[Objectivism\|客观主义]] vs [[Subjectivism\|主观主义]]
 >
 > | 维度 | 客观主义（Objectivist） | 主观主义（Subjectivist） |
 > |---|---|---|
@@ -54,7 +53,7 @@ updated: 2026-08-16
 
 ## 推导逻辑
 
-四组[[Hypothesis|假设]]构成严谨的推导链：[[Ontology|本体论]]立场 → [[Epistemology|认识论]]立场 → 人性假设 → 方法论选择（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
+四组假设构成严谨的推导链：[[Ontology|本体论]]立场 → [[Epistemology|认识论]]立场 → 人性假设 → 方法论选择（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。
 
 ## 十维度扩展（Table 1.1）
 

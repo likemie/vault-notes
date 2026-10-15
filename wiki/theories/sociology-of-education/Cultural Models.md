@@ -10,7 +10,7 @@ aliases:
 summary: "由历史文化过程积淀并持续演进的共享概念框架，在微观层面指文化成员用以解释、预测与指导学习及社会行动的原型图式（如东西方学习模型），在宏观跨国层面指世界社会理论所论述的普世化制度脚本（如国民经济发展、公民资产与国家可改进性信念）。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 46
+theory_related_count: 43
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -22,7 +22,6 @@ tags:
   - world-society
 related_concepts:
   - "[[Operationalization]]"
-  - "[[Document]]"
   - "[[Ideal Learner]]"
   - "[[Dual School System]]"
   - "[[Falsification]]"
@@ -32,7 +31,6 @@ related_concepts:
   - "[[Enlightenment]]"
   - "[[Heterogeneity]]"
   - "[[Student Attitude]]"
-  - "[[Bildung]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Research Question]]"
   - "[[Discourse]]"
@@ -62,7 +60,6 @@ related_persons:
   - "[[John W. Meyer]]"
   - "[[Robert Arnove]]"
   - "[[Liliana Esther Olmos]]"
-  - "[[Carlos Alberto Torres]]"
   - "[[Socrates]]"
   - "[[Aaron Benavot]]"
 related_facts:
@@ -75,7 +72,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-22
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Cultural Models
@@ -103,9 +100,9 @@ updated: 2026-10-09
 ## 理论来源与形成
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 认知人类学学者 Holland & Quinn (1987) 与 Shore (1996) 奠定了文化模型的基本概念；[[Jin Li|李瑾]]（Jin Li, 2012）在《文化之思》（*Cultural Foundations of Learning*）中将其系统[[Operationalization|操作化]]为学习文化模型；[[John W. Meyer|约翰·迈耶]]等（Meyer, Kamens, & Benavot, 1992; Meyer et al., 1997）与[[Robert Arnove|罗伯特·阿诺夫]]（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）、[[Liliana Esther Olmos|奥尔莫斯]]、[[Carlos Alberto Torres|托雷斯]]（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）将其扩展并反思为解释跨国现代性与教育制度扩散的宏观世界文化模型。
+> - **提出者与原始文本** 认知人类学学者 Holland & Quinn (1987) 与 Shore (1996) 奠定了文化模型的基本概念；[[Jin Li|李瑾]]（Jin Li, 2012）在《文化之思》（*Cultural Foundations of Learning*）中将其系统[[Operationalization|操作化]]为学习文化模型；[[John W. Meyer|约翰·迈耶]]等（Meyer, Kamens, & Benavot, 1992; Meyer et al., 1997）与[[Robert Arnove|罗伯特·阿诺夫]]（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）、[[Liliana Esther Olmos|奥尔莫斯]]、托雷斯（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）将其扩展并反思为解释跨国现代性与教育制度扩散的宏观世界文化模型。
 > - **原初问题** 为什么不同文化背景的儿童与家长对学习的动机理解存在系统性差异；为什么全球南方的现代学校制度与课程门类会采纳惊人一致的西方文化信念。
-> - **理论资源与材料** 汇聚了认知语言学原型理论、儒家与[[Socrates|苏格拉底]]知识传统[[Document|文献]]、跨文化词汇调查、[[Ideal Learner|理想学习者]]画像、二战后全球民族国家教育统计数据及多国课堂[[Ethnography|民族志]]。
+> - **理论资源与材料** 汇聚了认知语言学原型理论、儒家与[[Socrates|苏格拉底]]知识传统文献、跨文化词汇调查、[[Ideal Learner|理想学习者]]画像、二战后全球民族国家教育统计数据及多国课堂[[Ethnography|民族志]]。
 
 ### 后续修订与扩展
 
@@ -113,7 +110,7 @@ updated: 2026-10-09
 > - **1987 — 人类学认知模型确立** Holland & Quinn 出版《语言与文化中的文化模型》，确立了文化图式作为知识组织和意义建构共享工具的理论地位。
 > - **1992 — 基础教育课程范畴的世界模型** 迈耶、卡门斯与[[Aaron Benavot|贝纳沃特]]（Meyer, Kamens, & Benavot, 1992）出版《大众学校知识》，系统证明全球各国在小学课程门类与数理课时分配上高度趋同，确立了世界文化模型在具体知识体制中的扩散证据。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 108)]]
 > - **1997 — 宏观世界文化模型扩展与孤岛实验** 迈耶等（Meyer et al., 1997）提出著名的孤岛思想实验（Island Society Experiment），论证即使是孤立社会被发现后也会自发建立宪法、人权、民主与正规学校，确立了现代世界文化模型的弥漫性特征。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 103–104)]]
-> - **2009 — 批判政治经济学解构与本土折射** [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]批判性检视了世界文化模型中的四项核心信念；阿诺夫（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）系统揭示普世文化模型掩盖核心-边缘不平等的阶级属性，并引入微观民族志说明地方行动者对全球模型的变通与抵制。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 74–76)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–109)]]
+> - **2009 — 批判政治经济学解构与本土折射** [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯批判性检视了世界文化模型中的四项核心信念；阿诺夫（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）系统揭示普世文化模型掩盖核心-边缘不平等的阶级属性，并引入微观民族志说明地方行动者对全球模型的变通与抵制。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 74–76)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 104–109)]]
 > - **2012 — 学习文化模型实证体系成型** 李瑾系统构建了西方“心智倾向”（Mind Orientation）与东亚“美德倾向”（Virtue Orientation）学习文化模型的实证对偶框架。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 87–105)]]
 
 ---
@@ -159,9 +156,9 @@ updated: 2026-10-09
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者与[[Document\|文献]] |
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
-> | **认知引导与非决定命题** | 文化模型通过语言与原型影响认知，个体在社会化中呈现偏离 | 跨文化心理学、微观课堂[[Student Attitude\|学习态度]]与家庭[[Bildung\|教养]]模式 | [[Argument_Li_2012_Cambridge\|Li (2012, pp. 88–89)]] |
+> | **认知引导与非决定命题** | 文化模型通过语言与原型影响认知，个体在社会化中呈现偏离 | 跨文化心理学、微观课堂[[Student Attitude\|学习态度]]与家庭教养模式 | [[Argument_Li_2012_Cambridge\|Li (2012, pp. 88–89)]] |
 > | **全球制度趋同命题** | 四大普世信念与课程范畴驱动主权国家模仿并建立同质大众教育架构 | 战后现代国家建制、孤岛思想实验、跨国课程改革 | Meyer et al. (1992, 1997); [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, p. 74)]]; [[Argument_Arnove_2009_WorldSystems\|Arnove (2009, p. 103)]] |
 > | **依附与[[Ideology Critique\|意识形态批判]]命题** | 普世文化模型掩盖核心-外围不平等，无法抹杀依附国家的双轨与分层现实 | 外围国家教育政策史、新自由主义[[Structural Adjustment Programs\|结构调整]]评估 | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, pp. 75–76)]]; [[Argument_Arnove_2009_WorldSystems\|Arnove (2009, pp. 104–106)]] |
 > | **微观折射与文化抵制命题** | 宏观形式同构掩盖微观课堂异质性，地方行动者具备能动反抗与变通潜能 | 跨国教学法借用评估、边缘社群文化抵制研究 | [[Argument_Arnove_2009_WorldSystems\|Arnove (2009, pp. 108–109)]]; Anderson-Levitt (2003); Demerath (1999) |

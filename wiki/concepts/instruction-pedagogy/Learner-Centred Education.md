@@ -10,7 +10,7 @@ aliases:
 summary: "以学生为学习主体、强调学生自主性与对话探究的教学理念，在不同文化和高利害考试语境下被重构为具备不同功能与权力边界的教学实践"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 33
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Going Native]]"
   - "[[Paradigm]]"
   - "[[Policy Borrowing]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Constructivist Paradigm]]"
   - "[[Epistemology]]"
@@ -36,7 +35,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Cultural Validity]]"
   - "[[Variable]]"
-  - "[[Document]]"
   - "[[Praxis]]"
 related_theories:
   - "[[Third Generation Activity Theory]]"
@@ -56,7 +54,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Learner-Centred Education
@@ -70,7 +68,7 @@ updated: 2026-10-07
 
 > [!concept-lens] 概念透镜
 > - **含义** 该概念指向打破教师单向灌输、强调以学生的学习体验、认知参与、自主探究与对话互动为重心的教学[[Paradigm\|范式]]。
-> - **用途** 帮助研究者解构课堂权力关系，分析跨国教育[[Policy Borrowing\|政策借用]]与本土教学实践之间的张力、[[Transfer Translation Transformation\|转译]]及扩展性改造机制。
+> - **用途** 帮助研究者解构课堂权力关系，分析跨国教育[[Policy Borrowing\|政策借用]]与本土教学实践之间的张力、转译及扩展性改造机制。
 > - **边界** 在统一课程大纲与高利害升学考试约束下，LCE 的实施往往被重构为提升学习效率与[[Higher-Order Thinking Skills\|高阶思维]]的认知工具，而排除了学生共决课程与评估形式的权力共享维度。
 
 > [!citation-card]- 关键表述
@@ -151,7 +149,7 @@ updated: 2026-10-07
 > 围绕高利害考试压力（[[Test-Based Accountability\|Test-Based Accountability]]）是否必然扼杀教学改革展开。传统观点认为高利害考试促使教师回归灌输与应试；但最新理论与实证表明，当学校建构出连接应试与改革的共享目标时，LCE 能够被重构为提分杠杆，促成活动系统的扩展性改造（Expansive Transformation）。
 
 > [!claim] [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]]
-> **活动系统共享客体的扩展性重构** 在高利害考试文化下，学校无需在考试优异与教学法创新之间二选一。当学校管理者将 LCE 重新[[Decodification\|解码]]为解决特定提分痛点的核心杠杆时——例如城市学校将其解码为培养应对[[Gaokao\|高考]]新考情所需的[[Critical Thinking\|批判性思维]]与高阶分析能力，农村学校将其解码为最大化农村学生课堂 45 分钟吸收效率的工具——即可建立“学校特定共享目标（School-Specific Shared Object）”。在此目标驱使下，学校协同重构评估规则（引入过程性评课指标或课改容错加分）、中介工具（校本化[[Transfer Translation Transformation\|转译]]对话教学）与劳动分工（校长为教学试验承担风险），促成了活动系统的扩展性改造，实现了提分与改革的互惠共赢。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 598–602)]]
+> **活动系统共享客体的扩展性重构** 在高利害考试文化下，学校无需在考试优异与教学法创新之间二选一。当学校管理者将 LCE 重新[[Decodification\|解码]]为解决特定提分痛点的核心杠杆时——例如城市学校将其解码为培养应对[[Gaokao\|高考]]新考情所需的[[Critical Thinking\|批判性思维]]与高阶分析能力，农村学校将其解码为最大化农村学生课堂 45 分钟吸收效率的工具——即可建立“学校特定共享目标（School-Specific Shared Object）”。在此目标驱使下，学校协同重构评估规则（引入过程性评课指标或课改容错加分）、中介工具（校本化转译对话教学）与劳动分工（校长为教学试验承担风险），促成了活动系统的扩展性改造，实现了提分与改革的互惠共赢。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 598–602)]]
 
 > [!claim] Schweisfurth (2015)
 > **考试问责对教学创新的挤压与交织** 高利害标准化考试通常是全球范围内 LCE 落实的最大障碍。在缺乏制度兜底与评价重构的环境中，教师出于对考分滑坡的恐惧，在临考前往往迅速放弃探究式与对话式教学，重新退回到教师主导的讲授与[[Rote Learning\|死记硬背]]模式。
@@ -178,7 +176,7 @@ updated: 2026-10-07
 > - **2015 — [[Policy Borrowing\|政策借用]]与 POST-2015 全球教育议程** Schweisfurth 进一步将 LCE 置于跨国政策借用视域下，指出高应试绩效地区往往存在 LCE 落地阻力，呼吁重新审视教学法改革的语境适应性。
 > - **2019 — 中国双轨制改革张力** You 揭示了中国在推进[[Quality Education\|素质教育]]中，LCE [[Discourse|话语]]与[[Examination-Oriented Education\|应试教育]]实质并存的双轨张力。
 > - **2021 — 概念内涵的多元与情境化转向** Bremner 系统梳理 LCE 的多重定义，倡导放弃僵化的单一西方标准，采取更具包容性与情境化的灵活定义。
-> - **2025 — [[Third Generation Activity Theory\|活动理论]]视角下的双系统扩展性改造** Wang & McLaughlin 运用[[Third Generation Activity Theory\|第三代活动理论]]解构中国案例学校，揭示了 LCE 如何通过建立学校特定共享目标与应试问责实现扩展性改造与[[Going Native\|本土化]][[Transfer Translation Transformation\|转译]]。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 586–605)]]
+> - **2025 — [[Third Generation Activity Theory\|活动理论]]视角下的双系统扩展性改造** Wang & McLaughlin 运用[[Third Generation Activity Theory\|第三代活动理论]]解构中国案例学校，揭示了 LCE 如何通过建立学校特定共享目标与应试问责实现扩展性改造与[[Going Native\|本土化]]转译。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 586–605)]]
 
 ---
 
@@ -214,7 +212,7 @@ updated: 2026-10-07
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] | 华北某区域 4 所案例学校（2 城市、2 农村），4 校长 9 骨干教师，共 25 份访谈与文档[[Field Notes\|田野笔记]] | 质性多[[Case Study\|案例研究]]（Case Study），结合[[Third Generation Activity Theory\|第三代活动理论]]模板分析 | [[Test-Based Accountability\|考试问责]]与 LCE 改革双系统要素、共享目标建构、评课规则与教学行为 | 谋求突破的学校（城市二校冲击前 20%、农村二校 45 分钟效率）成功建立共享目标，实现双系统扩展性改造；维持顶尖（城市一校前 5%）与缺乏支撑学校（农村一校）改革停滞 | 质性转录与[[Qualitative Observation\|田野观察]] — | [[Sample Size Determination\|样本量]]为 4 所学校，属于小规模质性观察，结论具机制解释力但不具统计推论性 |
-> | [[Argument_Wang_2025_CE\|Schweisfurth (2013, 2015)]] | 全球多国跨国教育比较数据库与[[Document\|文献]] | 跨国比较分析与[[Policy Borrowing\|政策借用]]追踪 | LCE 政策移植、考试体制、教师角色与课堂[[Praxis\|实践]] | 高利害标准化考试普遍构成 LCE 落地最大障碍；LCE 在不同文化语境中呈现高度差异化的[[Transfer Translation Transformation\|转译]]形态 | 比较分析 — | 跨国宏观观察，需结合具体国家微观学校案例 |
+> | [[Argument_Wang_2025_CE\|Schweisfurth (2013, 2015)]] | 全球多国跨国教育比较数据库与文献 | 跨国比较分析与[[Policy Borrowing\|政策借用]]追踪 | LCE 政策移植、考试体制、教师角色与课堂[[Praxis\|实践]] | 高利害标准化考试普遍构成 LCE 落地最大障碍；LCE 在不同文化语境中呈现高度差异化的转译形态 | 比较分析 — | 跨国宏观观察，需结合具体国家微观学校案例 |
 
 ---
 

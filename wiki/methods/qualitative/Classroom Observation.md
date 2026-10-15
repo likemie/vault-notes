@@ -10,7 +10,7 @@ summary: "研究者或评价者深入真实或录制的课堂教学现场，依�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 54
+method_related_count: 53
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -50,7 +50,6 @@ related_concepts:
   - "[[Learning Crisis]]"
 related_theories: []
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Measurement Invariance]]"
   - "[[Pre-test and Post-test]]"
@@ -94,7 +93,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 方法定义
-> 教学观察（Classroom Observation，亦称课堂观察或课堂教学观察）指研究人员、督导员、教研员或同行教师以直接进入现场或观看课堂音视频的方式，依据预设的观察量规、[[Coding in Qualitative Research|编码]]系统或质性记录提纲，对发生在课堂时空中的师生言语与非言语互动、教学时间分配、任务组织方式以及学习文化生态进行系统注视、如实记录与价值评定的实证研究方法。该方法是揭示教学规律、评估教学效能与促进教师专业发展的核心技术基座。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 2–3)]]
+> 教学观察（Classroom Observation，亦称课堂观察或课堂教学观察）指研究人员、督导员、教研员或同行教师以直接进入现场或观看课堂音视频的方式，依据预设的观察量规、编码系统或质性记录提纲，对发生在课堂时空中的师生言语与非言语互动、教学时间分配、任务组织方式以及学习文化生态进行系统注视、如实记录与价值评定的实证研究方法。该方法是揭示教学规律、评估教学效能与促进教师专业发展的核心技术基座。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 2–3)]]
 
 在教育测量与教师效能研究中，教学观察确立了直接测量微观课堂生产过程的方法学视界。
 
@@ -117,7 +116,7 @@ updated: 2026-10-15
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 教学质量不能仅由师生静态资格或终结性试卷分数间接推知，微观教学过程本身即具有独立的[[Epistemic Value|认识论价值]]；通过科学抽样与锚定量规，动态复杂的课堂互动能够被可靠降维与客观测度。
-> - **研究者角色** 跨越“非侵入性被动[[Coding in Qualitative Research|编码]]员”到“[[Reflexivity|反思性]]临床教研指导员”的连续光谱。大规模问责与评估强调观察员的中立与客观，而形成性辅导强调观察者与教师的循证对话。
+> - **研究者角色** 跨越“非侵入性被动编码员”到“[[Reflexivity|反思性]]临床教研指导员”的连续光谱。大规模问责与评估强调观察员的中立与客观，而形成性辅导强调观察者与教师的循证对话。
 > - **有效性标准** [[Inter-Rater Reliability|评分者间信度]]（IRR）、[[Content Validity|内容效度]]、[[Construct Validity|构念效度]]、对学生学业增益的[[Predictive Validity|预测效度]]（[[Predictive Validity|Predictive Validity]]）及跨文化[[Measurement Invariance|测量等值性]]。
 > - **不声称回答的问题** 单凭有限频次的教学观察不能直接推断教师的隐性学科本体知识储备或备课心理表征；脱离[[Pre-test and Post-test|前测]]基线的观察得分不能等同于教师因果增值效能。
 
@@ -133,7 +132,7 @@ updated: 2026-10-15
 
 ## 研究程序
 
-一次严谨的教学[[Observation Method|观察研究]]通常由准备入场、现场记录、[[Coding in Qualitative Research|编码]]评分与反馈改进四个阶段构成。
+一次严谨的教学[[Observation Method|观察研究]]通常由准备入场、现场记录、编码评分与反馈改进四个阶段构成。
 
 > [!proc] 通用程序
 > 1. **确定观察目的与工具匹配** 依据研究目标（宏观系统诊断、绩效问责还是形成性辅导），选用或研制契合学段与学科特性的标准化观察量规。

@@ -7,7 +7,7 @@ aliases:
 summary: "研究计划中传达研究总体意图和目标的陈述，是连接研究问题与研究问题的核心环节，量化、质性和混合方法三种路径各有不同的写作模板和要素要求"
 type: concept
 domain: "research-methodology"
-related_count: 32
+related_count: 30
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -16,12 +16,10 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Research Problem]]"
-  - "[[Hypothesis]]"
   - "[[Central Phenomenon]]"
   - "[[Variable]]"
   - "[[Nondirectional Language]]"
   - "[[Research Writing Script]]"
-  - "[[Teaching Assistant]]"
   - "[[Academic Achievement]]"
   - "[[Document]]"
   - "[[Independent Variable]]"
@@ -54,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-09-26
+updated: 2026-10-15
 ---
 
 # Purpose Statement
@@ -77,7 +75,7 @@ updated: 2026-09-26
 > **目的陈述 vs [[Research Question\|研究问题]]（[[Research Problem]]）** 研究问题是引发研究需求的议题或困境（如"人们拒绝接种新冠疫苗"）；目的陈述则说明研究将如何回应这一议题（如"识别影响疫苗接种意愿的多种因素"）。目的陈述从研究问题中生长出来，但不是研究问题本身([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, pp.123–124]])。
 
 > [!example]
-> **目的陈述 vs 研究问题（Research Questions）** 研究问题将目的陈述进一步细化为一个或多个可回答的具体问题。目的陈述回答"研究要达成什么"，研究问题回答"研究具体要回答什么"。在[[Quantitative Research\|量化研究]]中，研究问题还可能包含[[Hypothesis\|假设]]([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.124]])。
+> **目的陈述 vs 研究问题（Research Questions）** 研究问题将目的陈述进一步细化为一个或多个可回答的具体问题。目的陈述回答"研究要达成什么"，研究问题回答"研究具体要回答什么"。在[[Quantitative Research\|量化研究]]中，研究问题还可能包含假设([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.124]])。
 
 ## 核心要素
 
@@ -106,7 +104,7 @@ updated: 2026-09-26
 > 以女性主义视角为透镜，聚焦于母亲们的记忆和她们的"活过"经验，探讨五位在孕晚期失去婴儿的母亲的生活经验意义 ("The phenomenal care of the caregiver: A feminist view of postnatal bereavement." p.134)。
 
 > [!example] 案例研究示例（Frelin, 2015）
-> 追溯并例示关系和专业实践，以帮[[Teaching Assistant\|助教]]师和其他学校员工协助学生克服障碍并在学校中取得更好的成就 ("to trace and exemplify relations and professional practices that help teachers and other school staff to assist students to overcome hurdles and [[Achieve]] better in school." p.590)。
+> 追溯并例示关系和专业实践，以帮助教师和其他学校员工协助学生克服障碍并在学校中取得更好的成就 ("to trace and exemplify relations and professional practices that help teachers and other school staff to assist students to overcome hurdles and [[Achieve]] better in school." p.590)。
 
 > [!example] 叙事研究示例（Chan, 2010）
 > 考察一位中国移民学生 Ai Mei Zhang 的经验，探索她参与加拿大中学课程的过程，以及族裔认同如何被学校和家庭对其[[Academic Achievement\|学业表现]]和行为的期望所塑造 ("to examine the experiences of one Chinese immigrant student, Ai Mei Zhang . . . to explore her participation in her Canadian middle school curriculum . . . to examine ways in which her sense of ethnic identity may be shaped by expectations for her academic performance and her behavior in her school and her home." p.113)。
@@ -157,7 +155,7 @@ updated: 2026-09-26
 > 本研究的目的是考察在美国选定州立成人矫正机构中任教的认证教育者个人特征与工作动机之间的关系 ("The purpose of this study was to examine the relationship between personal characteristics and the job motivation of certified educators who taught in selected state adult correctional institutions in the United States." pp.4–5)。
 
 > [!example] [[Experimental Research\|实验研究]]示例（Esposito et al., 2017）
-> 本研究基于行为经济学[[Hypothesis\|假设]]，检验网站设计的微小改变如何影响购买行为，特别关注与参与者社会人口统计特征的[[Interaction Effect\|交互作用]] ("tested how small changes in website design can affect buying behavior, with a particular focus on the interaction with participants' sociodemographic characteristics." p.2)。
+> 本研究基于行为经济学假设，检验网站设计的微小改变如何影响购买行为，特别关注与参与者社会人口统计特征的[[Interaction Effect\|交互作用]] ("tested how small changes in website design can affect buying behavior, with a particular focus on the interaction with participants' sociodemographic characteristics." p.2)。
 
 > [!example] 量化目的陈述要素拆解：DeGraw (1984) 调查研究
 >

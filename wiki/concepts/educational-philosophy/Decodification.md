@@ -6,10 +6,10 @@ aliases:
 summary: "弗莱雷提问式教育中受教者在文化圈中对编码符号展开对话拆解与结构性分析的过程，旨在揭示隐蔽的压迫机制并促成批判意识觉醒。"
 type: concept
 domain: "educational-philosophy"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - educational-philosophy
   - freire
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Active Learning]]"
 related_theories: []
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -35,7 +34,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-02
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Decodification（解码）
@@ -45,7 +44,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> **解码（Decodification）**是保罗·[[Paulo Freire\|弗莱雷]][[Problem-Posing Education\|提问式教育]]法中紧接[[Coding in Qualitative Research\|编码]]的关键探究阶段。指受教者在文化圈（círculos de cultura）中围绕编码展开集体横向对话，从感性观察跃升为对表象背后阶级剥削、制度压迫与权力关系的结构性认识，实现从“我思考”（I think）到“我们共同思考”（We think）的跃升。[[Argument_Darwish_2009_Queens\|Darwish (2009, p. 48, p. 61)]]
+> **解码（Decodification）**是保罗·[[Paulo Freire\|弗莱雷]][[Problem-Posing Education\|提问式教育]]法中紧接编码的关键探究阶段。指受教者在文化圈（círculos de cultura）中围绕编码展开集体横向对话，从感性观察跃升为对表象背后阶级剥削、制度压迫与权力关系的结构性认识，实现从“我思考”（I think）到“我们共同思考”（We think）的跃升。[[Argument_Darwish_2009_Queens\|Darwish (2009, p. 48, p. 61)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向对编码中介符号进行社会学与政治学结构拆解的共同认知跃升过程。
@@ -55,7 +54,7 @@ updated: 2026-09-17
 > [!citation-card]- 关键表述
 > 在解码过程中，学习者重新感知他们此前感知到的现实；通过对这一现实的批判性拆解，他们开始将其视为一个可被变革的人类产物。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 61)]]
 >
-> *Decodification is the analysis which takes place through dialogue, revealing the previously unperceived meanings of reality. (Freire, 2000, p. 105; Darwish, 2009, p. 61)*
+> *Decodification is the analysis which takes place through dialogue, revealing the previously unperceived meanings of reality. (Freire, 2000, p. 105; [[Argument_Darwish_2009_Queens|Darwish, 2009, p. 61]])*
 
 > [!boundary]- 概念边界
 > - 不等于 传统文本解析 — 传统解析理解既定文本原意，而解码揭示现实背后的权力压迫结构。
@@ -102,7 +101,7 @@ updated: 2026-09-17
 > 探讨解码过程如何打破对被压迫境遇的盲从，将感性苦难转化为对社会结构的批判认识。
 
 > [!claim] [[Paulo Freire\|Freire, P.]]
-> **解码的[[Epistemology\|认识论]]飞跃** 弗莱雷论证指出，通过在文化圈中对[[Coding in Qualitative Research\|编码]]展开解码拆解，学习者打破了孤立无助的心态，实现了从“我思考”向“我们共同思考”的飞跃，进而将受压迫现实看作可被人类行动重塑的过程。[[Argument_Darwish_2009_Queens\|(Freire, 1973, p. 135; Freire, 2000, p. 105; Darwish, 2009, p. 48, p. 61)]]
+> **解码的[[Epistemology\|认识论]]飞跃** 弗莱雷论证指出，通过在文化圈中对编码展开解码拆解，学习者打破了孤立无助的心态，实现了从“我思考”向“我们共同思考”的飞跃，进而将受压迫现实看作可被人类行动重塑的过程。[[Argument_Darwish_2009_Queens\|(Freire, 1973, p. 135; Freire, 2000, p. 105; Darwish, 2009, p. 48, p. 61)]]
 
 ---
 

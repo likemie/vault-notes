@@ -12,9 +12,9 @@ subtype: program
 region: germany
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 24
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 22
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2017–2021"
 initiator_organization: "明斯特大学（Universität Münster）、汉堡大学（Universität Hamburg）"
@@ -33,10 +33,8 @@ related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Technical Rationality]]"
   - "[[Falsification]]"
-  - "[[Hypothesis]]"
   - "[[Further Education]]"
   - "[[Discourse]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Transfer Science]]"
   - "[[Homework]]"
   - "[[Normal School]]"
@@ -59,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-27
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # NuBiL
@@ -81,7 +79,7 @@ updated: 2026-10-07
 ## 方案设计与研究发现
 
 > [!claim] 核心机制发现：自主反思驱动 vs 机械处方消费
-> NuBiL 项目实证[[Falsification|证伪]]了“教师使用研究是为了寻找标准化教学菜谱”（Rezeptwissen）的朴素[[Hypothesis|假设]]。研究表明，教师对教育科学成果的主动探究，几乎全部源于应对微观教学危机、化解专业不确定性或寻求外部正当性辩护的“取向与反思知识”（Orientierungs- und Reflexionswissen）诉求。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, p. 12; Otto et al., 2019)]]
+> NuBiL 项目实证[[Falsification|证伪]]了“教师使用研究是为了寻找标准化教学菜谱”（Rezeptwissen）的朴素假设。研究表明，教师对教育科学成果的主动探究，几乎全部源于应对微观教学危机、化解专业不确定性或寻求外部正当性辩护的“取向与反思知识”（Orientierungs- und Reflexionswissen）诉求。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, p. 12; Otto et al., 2019)]]
 
 > [!research-design]- 研究架构与核心发现维度
 > - **教师使用科研知识的四大动机类型**
@@ -91,7 +89,7 @@ updated: 2026-10-07
 >   4. **象征性合规动机（Symbolische Nutzung）** 为迎合督导检查或校内[[Further Education|继续教育]]达标要求而被动引述学术术语，缺乏微观行为实质改变。
 > - **制约教师科研接触的关键制度与个人阻碍**
 >   - *日常教学沉重负荷与时间赤字*：繁杂琐碎的行政治理事务使教师极度缺乏深度阅读实证论文的时间窗口。
->   - *学术文本[[Discourse|话语]]壁垒与方法学术语隔阂*：未经[[Transfer Translation Transformation|转译]]的统计模型与[[Meta-analysis|元分析]][[Effect Size|效应量]]让一线教师产生认知疏离。
+>   - *学术文本[[Discourse|话语]]壁垒与方法学术语隔阂*：未经转译的统计模型与[[Meta-analysis|元分析]][[Effect Size|效应量]]让一线教师产生认知疏离。
 >   - *对学院派脱离实际的固有防御偏见*：教师常将高校研究视为“象牙塔中不食人间烟火的理论说教”。
 
 ---

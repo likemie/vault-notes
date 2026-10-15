@@ -11,7 +11,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 34
+fact_related_count: 32
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -42,13 +42,11 @@ related_concepts:
   - "[[International Education]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Research-Practice Gap]]"
-  - "[[Document]]"
   - "[[Data Infrastructure]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
-  - "[[Isaiah Berlin]]"
   - "[[Tina Seidel]]"
 related_facts:
   - "[[Qualitätsoffensive Lehrerbildung]]"
@@ -70,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-11
+updated: 2026-10-15
 ---
 
 # Federal Ministry of Education and Research
@@ -84,7 +82,7 @@ updated: 2026-10-11
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 创设于 1955 年（初为联邦原子事务部，后历经联邦科研部、联邦教育科学部整合，1994 年两德统一后正式合并重组为联邦教育与研究部）。
-> - **总部地点 / 业务辐射** 实行双总部制，第一总部位于波恩（Bonn），第二总部位于首都[[Isaiah Berlin|柏林]]（Berlin）；业务统领全德 16 个联邦州并深度对接欧盟科研框架（如 [[Horizon Europe]]）。
+> - **总部地点 / 业务辐射** 实行双总部制，第一总部位于波恩（Bonn），第二总部位于首都柏林（Berlin）；业务统领全德 16 个联邦州并深度对接欧盟科研框架（如 [[Horizon Europe]]）。
 > - **法人属性与经费基础** 联邦最高政府行政机关；由联邦公共财政全额预算保障，年均主导配置数百亿欧元国家科研与教育专项资助资金。
 > - **核心宗旨与法定职责** 提升国家基础研究与应用转化[[Competitiveness|竞争力]]；维护职业[[German Dual Education System\|双元制]]教育国家标准；依托 GWK 协商平台，通过联合注资重大国家工程提升全德各层级教育质量与师资专业化水准。
 
@@ -202,6 +200,6 @@ updated: 2026-10-11
 > | [[Tina Seidel]] | Person | 慕尼黑工业大学讲席教授，主持 BMBF 资助的清算中心中介项目研发。 |
 > | [[Educational Evidence Clearinghouses]] | Concept | BMBF 资助代表着欧洲大陆高校依托型清算所的重要公共治理模式。 |
 > | [[Research-Practice Gap]] | Concept | BMBF 长期政策议程的核心主线，致力于消解国家科研成果与课堂实践之间的转移阻滞。 |
-> | [[Argument_Knogler_2025_BB\|Knogler et al., 2025]] | Argument | 剖析 BMBF 在 QLB 框架下孵化 CHU 清算中心并协同 ZIB 的[[Document\|文献]]。 |
+> | [[Argument_Knogler_2025_BB\|Knogler et al., 2025]] | Argument | 剖析 BMBF 在 QLB 框架下孵化 CHU 清算中心并协同 ZIB 的文献。 |
 > | [[Argument_Hartong_2018_GSE\|Hartong, 2018]] | Argument | 剖析 BMBF 在国家教育监测总体战略与跨尺度[[Data Infrastructure\|数据基础设施]]中的联邦治理定位。 |
 > | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] | Argument | 剖析 BMBF 实证教育研究框架规划（聚焦转移与实施研究）与 QLB 教师教育攻坚中的多[[Paradigm\|范式]]治理张力。 |

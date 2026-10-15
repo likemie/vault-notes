@@ -11,7 +11,7 @@ subtype: program
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "program"
-fact_related_count: 29
+fact_related_count: 27
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -28,8 +28,6 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Positivism]]"
   - "[[Instructional Leadership]]"
-  - "[[Document]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[International Education]]"
   - "[[Discourse]]"
   - "[[Evidence-Based Education]]"
@@ -62,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Best Evidence Synthesis
@@ -107,7 +105,7 @@ updated: 2026-10-07
 >   - **优质教学综合（Alton-Lee, 2003）** 提炼出针对多元族裔学生的优质教学 10 项核心实证特征；
 >   - **社区与家庭影响综合（Biddulph et al., 2003）** 剖析家庭-学校-社区协同育人对低收入弱势群体的补偿机制；
 >   - **教师专业学习与发展综合（Timperley et al., 2007）** 确立基于[[Practitioner Enquiry\|教师探究]]与[[Knowledge Building Theory|知识建构]]循环（Teacher [[Inquiry Cycle]]）的专业发展模型；
->   - **[[School Leadership\|学校领导力]]与学生结果综合（Robinson et al., 2009）** 实证测算出教学型领导（[[Instructional Leadership]]）对学生学业增值的显著[[Effect Size\|效应量]]（$d = 0.42$），成为全球教育领导力奠基[[Document\|文献]]。
+>   - **[[School Leadership\|学校领导力]]与学生结果综合（Robinson et al., 2009）** 实证测算出教学型领导（[[Instructional Leadership]]）对学生学业增值的显著[[Effect Size\|效应量]]（$d = 0.42$），成为全球教育领导力奠基文献。
 > - **2011–2018 — 实践转化与视频案例开发期** 伴随国际循证运动向学校微观实践倾斜，BES 逐步缩减对新基础综述的直接资助，转而联合学校一线录制实景视频，展示证据如何指导课堂教学与学校改进决策([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 64]])。
 > - **2019–至今 — 存量[[Knowledge Mediation\|知识中介]]与常态化资源库维护** 官方终止了新系统综述的委托资助与研究者方法指导职能，项目全面转型为对既有丰富证据资产的数字化中介传播，通过在线知识门户继续向教育系统输出专业指南([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 61–62, 64]])。
 
@@ -124,7 +122,7 @@ updated: 2026-10-07
 > [!pathways]- 知识流动与协商转化机制
 > - **双向反馈协商** 区别于单向“研究推送”，BES 报告草案需历经教育部官员、学术界同行与学校校长的多轮工作坊辩难与情境校准。
 > - **文化响应性融入** 强制要求综合报告必须回答“该干预对毛利原住民学生是否公平有效”，避免[[Positivism\|实证主义]]研究造成二次文化边陲化。
-> - **多模态工具包下沉** 将长达数百页的学术巨著浓缩为“执行摘要”、“行动指南”与“课堂微视频”，构建多层次[[Transfer Translation Transformation\|转译]]梯队。
+> - **多模态工具包下沉** 将长达数百页的学术巨著浓缩为“执行摘要”、“行动指南”与“课堂微视频”，构建多层次转译梯队。
 
 ---
 
@@ -139,7 +137,7 @@ updated: 2026-10-07
 > - **4** 国际公认的划时代教育迭代综合专著（部；优质教学、家校合作、教师发展、[[School Leadership\|学校领导力]]）
 > - **0.42** Robinson 等人测算的教学型领导对学生学习成果的平均效应量（$d$）
 > - **数十** “行动中的证据”课堂实景教学微视频与本土实践案例库（部）
-> - **15** 纵向生存轨迹中呈现“从方法论综述转向存量[[Transfer Translation Transformation\|转译]]”的典型演变路径（年）([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 64]])
+> - **15** 纵向生存轨迹中呈现“从方法论综述转向存量转译”的典型演变路径（年）([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 64]])
 
 ---
 
@@ -176,4 +174,4 @@ updated: 2026-10-07
 > | [[Viviane Robinson]] | Person | 主持领导力 BES 迭代研究的代表性学者。 |
 > | [[What Works Clearinghouse]] | Fact (Organization) | 与 BES 并列的早期循证中介先驱机构，代表官方外包型因果清算模式。 |
 > | [[EPPI-Centre]] | Fact (Organization) | 英国[[Systematic Review\|系统综述]]先驱，与 BES 形成“大学学术中介 vs 部委嵌入中介”的鲜明对比。 |
-> | [[Systematic Review]] | Method | 本项目核心采用的跨[[Document\|文献]]综合方法。 |
+> | [[Systematic Review]] | Method | 本项目核心采用的跨文献综合方法。 |

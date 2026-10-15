@@ -7,7 +7,7 @@ aliases:
 summary: "由美国教育考试服务中心开发的机考情境化通识核心素养测评工具，通过分析技能与综合技能两大认知维度测度大学生在复杂材料中的论证重构与合逻辑推导能力。"
 type: instrument
 instrument_type: test
-instrument_related_count: 13
+instrument_related_count: 12
 instrument_related_level: 2
 instrument_related_stars: "⭐⭐"
 instrument_related_color: "#dbeafe"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Critical Thinking Assessment]]"
   - "[[Critical Thinking]]"
   - "[[Learning Gain]]"
-  - "[[Hypothesis]]"
   - "[[Reliability]]"
   - "[[Paradigm]]"
   - "[[STEM Education]]"
@@ -52,7 +51,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # ETS HEIghten Critical Thinking Assessment
@@ -76,7 +75,7 @@ updated: 2026-09-22
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
 > |---|---|---|---|
-> | **分析技能（Analytic Skills）** | 13 题 | 识别论述中的核心论点、论据与隐含[[Hypothesis\|假设]]；重构论证的逻辑结构；分析因果链条。 | 计算机自动计分（0–1 分） |
+> | **分析技能（Analytic Skills）** | 13 题 | 识别论述中的核心论点、论据与隐含假设；重构论证的逻辑结构；分析因果链条。 | 计算机自动计分（0–1 分） |
 > | **综合技能（Synthetic Skills）** | 13 题 | 评估论证的逻辑有效性与置[[Reliability\|信度]]；推导出合逻辑的有效结论；辨析替代解释并处理证据冲突。 | 计算机自动计分（0–1 分） |
 
 ---

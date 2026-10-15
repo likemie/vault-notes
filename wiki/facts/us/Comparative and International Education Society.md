@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 45
+fact_related_count: 43
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -28,7 +28,6 @@ tags:
 related_concepts:
   - "[[International Education]]"
   - "[[Epistemology]]"
-  - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
   - "[[Research Universities]]"
@@ -39,7 +38,6 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Commensuration]]"
   - "[[Scientism]]"
-  - "[[Hypothesis]]"
   - "[[Comparative Educations]]"
   - "[[Development Turn in Comparative Education]]"
   - "[[Disciplina and Doctrina]]"
@@ -80,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-08
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Comparative and International Education Society
@@ -105,7 +103,7 @@ updated: 2026-10-09
 > [!dev-timeline] 组织发展历程
 > - **1956–1969 — 学会创设、会刊创办与冷战[[Structural Functionalism|结构功能主义]]渗透** 1956 年美国学者在纽约正式创设 CES，标志着专业学者共同体正式制度化；由[[George Bereday|乔治·贝雷迪]]（[[George Bereday]]）领衔创办旗舰学术期刊《比较教育评论》（*Comparative Education Review*, CER）。在冷战意识形态对抗与美国[[Economics of Education Movement|教育经济学运动]]驱动下，战后美国结构功能主义社会学深刻塑造了学会的元认识型；大批学会骨干出任美援与[[Mediterranean Regional Project|地中海区域项目]]的专家顾问，使学术研究与对外援助干预紧密交织。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 9)]]; [[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 122–123)]]
 > - **1969–1980年代 — 词汇突变更名、发起 [[World Council of Comparative Education Societies|WCCES]] 与认识型多元分化** 1969 年学会决议正式更名为 CIES，在元[[Epistemology|认识论]]上完成了对多边开发实务与[[International Education|国际教育]]应用的建制整合；1970 年学会在加拿大渥太华联合发起成立世界比较教育学会联合会（[[World Council of Comparative Education Societies|WCCES]]），推动学会网络跨大洲扩展。伴随[[Dependency Theory|依附理论]]与后殖民思潮的兴起，早期单一功能主义垄断开始解体，在[[Harold Noah|哈罗德·诺亚]]（[[Harold Noah]]，1976–1977 年会长）与[[Max Eckstein|马克斯·埃克斯坦]]（[[Max Eckstein]]，1988–1989 年会长）等领航下，学会在《比较教育评论》上展开了关于实证科学化、历史诠释与批判政治经济学的持久大辩论。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, pp. 7–9)]]; [[Argument_Klerides_2023_CE|(Klerides, 2023, p. 422)]]; [[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 129–130)]]
-> - **1990年代–至今 — [[Pluralism|范式多元主义]]成熟、实证量化演进与史料口述工程** 拉斯特等（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）对《比较教育评论》（CER）半个世纪（1957–2007）的[[Document|文献]]计量及加利福尼亚大学洛杉矶分校（UCLA）调查证实，学会旗帜下形成了涵盖 26 种并存[[Paradigm|范式]]的繁荣理论多元主义，非历史的经验[[Quantitative Research|量化研究]]上升至约 60%；与此同时，学会档案积淀浩瀚，吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）等学者在 2000 年代率先发起口述史抢救工程，重建被官方报告遮蔽的活态制度记忆。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, pp. 7–8)]]; [[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 124, 131–132)]]
+> - **1990年代–至今 — [[Pluralism|范式多元主义]]成熟、实证量化演进与史料口述工程** 拉斯特等（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）对《比较教育评论》（CER）半个世纪（1957–2007）的文献计量及加利福尼亚大学洛杉矶分校（UCLA）调查证实，学会旗帜下形成了涵盖 26 种并存[[Paradigm|范式]]的繁荣理论多元主义，非历史的经验[[Quantitative Research|量化研究]]上升至约 60%；与此同时，学会档案积淀浩瀚，吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）等学者在 2000 年代率先发起口述史抢救工程，重建被官方报告遮蔽的活态制度记忆。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, pp. 7–8)]]; [[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 124, 131–132)]]
 
 ---
 
@@ -119,7 +117,7 @@ updated: 2026-10-09
 
 > [!pathways]- 业务运行机制
 > - **议程设置** 每年由当任会长确立年度学术年会（CIES Annual Conference）的核心主题，通过会长就职演讲（Presidential Address）直接向国际学界抛出前沿理论与[[Epistemology|认识论]]倡议。
-> - **[[Knowledge Production|知识生产]]与同行评议** CER 期刊实行极为严谨的同行双盲评审规程，每年系统编纂年度比较教育[[Document|文献]]索引，定期发布针对前沿方法与跨国政策的专题审议报告。
+> - **[[Knowledge Production|知识生产]]与同行评议** CER 期刊实行极为严谨的同行双盲评审规程，每年系统编纂年度比较教育文献索引，定期发布针对前沿方法与跨国政策的专题审议报告。
 > - **学术奖掖与档案建设** 设立[[George Bereday|乔治·贝雷迪]]奖（George Bereday Award）等学术重奖表彰杰出年度论文；与各大[[Research Universities|研究型大学]]档案馆合作推进早期学者手稿保护与学术口述史数字化。
 
 ---
@@ -156,7 +154,7 @@ updated: 2026-10-09
 
 > [!stat-cards]- 核心规模数据
 > - **1956** 学会创办年份（与旗舰会刊 CER 共同诞生）；
-> - **50** 年期刊[[Document|文献]]计量跨度（1957–2007 CER 实证发表追踪）；
+> - **50** 年期刊文献计量跨度（1957–2007 CER 实证发表追踪）；
 > - **26** 种并存理论范式（UCLA 调查证实学科告别单一范式垄断）；
 > - **33** 个 WCCES 成员学会（催化全球多中心比较教育学会网络）。
 > [[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 122, 129–132)]]
@@ -186,7 +184,7 @@ updated: 2026-10-09
 > > - **学会主流历史辩护者** 强调 CIES 是吸纳不同学术流派的开放对话平台，正是学会包容性的机制为后殖民学者批判西方霸权提供了最关键的学术讲坛。
 
 > [!citation-card] 元认识论预设与词汇骤变
-> 我们必须更充分地理解各国不同比较教育学派的元认识论[[Hypothesis|假设]]：例如二战后美国[[Structural Functionalism|结构功能主义]]社会学对美国比较教育的深刻影响，以及法兰克福学派影响的相对匮乏；还有词汇上的骤然突变，它将国际作为比较的修饰语或并列语植入其中。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 9)]]
+> 我们必须更充分地理解各国不同比较教育学派的元认识论假设：例如二战后美国[[Structural Functionalism|结构功能主义]]社会学对美国比较教育的深刻影响，以及法兰克福学派影响的相对匮乏；还有词汇上的骤然突变，它将国际作为比较的修饰语或并列语植入其中。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 9)]]
 >
 > *I suspect it will also be necessary to make fuller sense of the meta-epistemic assumptions of a range of [[Comparative Educations]] in a range of countries: for example the effect of structural-functionalist sociology in the USA on American comparative education but the relative lack of effect by the Frankfurt School... the sudden lurch in vocabulary which inserts 'international' as a qualifier of, or as a juxtaposition to, 'comparative'.*
 
@@ -219,5 +217,5 @@ updated: 2026-10-09
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cowen_2009_HistoryCreation|Cowen (2009a)]] — 深度解构 CIES 的词汇突变与[[Structural Functionalism|结构功能主义]]元认识型塑造，指出学会档案发掘与口述史工程的滞后性。
-> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 梳理 CIES 创会与《比较教育评论》（CER）半个世纪的历史轨迹，依托[[Document|文献]]计量与[[Questionnaire|问卷调查]]揭示学科从单一功能主义霸权走向 26 种[[Paradigm|范式]]并存之理论[[Pluralism|多元主义]]的建制演进（pp. 122–123, 131–132）。
+> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 梳理 CIES 创会与《比较教育评论》（CER）半个世纪的历史轨迹，依托文献计量与[[Questionnaire|问卷调查]]揭示学科从单一功能主义霸权走向 26 种[[Paradigm|范式]]并存之理论[[Pluralism|多元主义]]的建制演进（pp. 122–123, 131–132）。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 辨析 CIES 1969 年更名中“国际”植入所代表的海外援助技术治理转型与认识型重构。

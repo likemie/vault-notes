@@ -9,7 +9,7 @@ aliases:
 summary: "对高等教育机构进行比较性评估和排序的量化工具系统，已成为驱动大学竞争、政策调整和全球高教分层的重要基础设施。"
 type: concept
 domain: "higher-education"
-related_count: 55
+related_count: 54
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Competitiveness]]"
   - "[[New Public Management]]"
-  - "[[Document]]"
   - "[[Variable]]"
   - "[[Online Self-Assessment]]"
   - "[[Preemptive Governance]]"
@@ -83,7 +82,7 @@ related_arguments:
 confidence: medium
 status: stable
 created: '2026-05-11'
-updated: 2026-10-13
+updated: 2026-10-15
 ---
 
 # Global Universities Rankings
@@ -171,7 +170,7 @@ updated: 2026-10-13
 > - **偏爱研究密集型机构**
 >   以自然科学实验室与高频论文发表为绝对重心，本科教学质量与本土公共服务功能被系统性边缘化。
 > - **偏爱英语圈大学**
->   以英文发表为主导的[[Document|文献]]计量数据库（如 SCIE、Scopus）天然有利于以英语为母语的英美大学。
+>   以英文发表为主导的文献计量数据库（如 SCIE、Scopus）天然有利于以英语为母语的英美大学。
 > - **偏爱历史悠久的老牌名校**
 >   学术声誉资本积累具有极强的[[Path Dependence|路径依赖]]效应，新兴学府在短期内难以撼动历史沉淀优势。
 > - **偏爱内部层级森严的高教体系**
@@ -246,7 +245,7 @@ updated: 2026-10-13
 > 所有排名均宣称以质量为排序依据，但全球高等教育界迄今不存在关于质量内涵的统一标准与测量共识。各机构收集庞杂数据并随意赋予权重，其指标组合缺乏[[Value Neutrality|价值中立]]性，本质上属于无根基的量化拟象（Hazelkorn, 2015, cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp. 135–136]]）。
 
 > [!critique-logic] 漠视社会公共利益与本土社会使命
-> 排名将绝对权重配置给顶尖科研与[[Document|文献]]引用，彻底漠视了大学在促进社会流动、服务边缘弱势群体、涵养民主公民道德以及解决区域社会排斥方面的公共使命。尽管后续开发出影响力排名等附加榜单，但其依赖高校自报数据，在[[Reliability|可靠性]]与核心地位上仍属边缘修补（[[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp. 133–134]]）。
+> 排名将绝对权重配置给顶尖科研与文献引用，彻底漠视了大学在促进社会流动、服务边缘弱势群体、涵养民主公民道德以及解决区域社会排斥方面的公共使命。尽管后续开发出影响力排名等附加榜单，但其依赖高校自报数据，在[[Reliability|可靠性]]与核心地位上仍属边缘修补（[[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp. 133–134]]）。
 
 > [!critique-method] [[Halo Effect|光环效应]]与对增值维度的漠视
 > 排名固化历史既得利益，完全不考察高校生源的起点差异与学业增值贡献。声誉调查在统计学上只是周而复始地再生产先验名气，扼杀了后发国家与弱势高校通过体制创新打破阶层固化的可能性（Marginson, 2014, cited in [[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, p. 135]]）。

@@ -8,7 +8,7 @@ summary: "通过投资流量数据和折旧率递推估算资本存量的标准�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 10
+method_related_count: 9
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Heterogeneity]]"
-  - "[[Hypothesis]]"
   - "[[Causality]]"
   - "[[Variable]]"
 related_theories: []
@@ -36,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Perpetual Inventory Method
@@ -61,7 +60,7 @@ updated: 2026-09-17
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 国民经济核算传统——通过间接推算法将可观测的流量[[Data Transformation\|数据转换]]为不可观测的存量估计。
 > - **研究者角色** 研究者需要选择折旧率、设定初始资本存量计算方式和处理资产[[Heterogeneity\|异质性]]。
-> - **有效性标准** 资本存量估计对折旧率和初始存量[[Hypothesis\|假设]]的敏感性应在合理范围内；与独立数据源（如企业调查或财富调查）的交叉验证。
+> - **有效性标准** 资本存量估计对折旧率和初始存量假设的敏感性应在合理范围内；与独立数据源（如企业调查或财富调查）的交叉验证。
 > - **不声称回答的问题** PIM 本身不提供[[Causality\|因果推断]]；仅提供资本存量这一个投入[[Variable\|变量]]的测量。
 
 > [!method-stack] 方法层级
@@ -87,7 +86,7 @@ updated: 2026-09-17
 
 > [!method-fit] 适用判断
 > - **适合使用** 国民经济核算、行业生产率比较、增长核算——只要存在可靠的投资流量数据和适当的折旧率校准。[[Argument_Glitz_2020_AER\|Glitz & Meyersson (2020, p.1075)]]
-> - **谨慎使用** 投资序列较短时初始存量估算对稳态[[Hypothesis\|假设]]较敏感；转型经济体或结构性断裂时期（如战争、制度变革）的稳态假设可能不成立。
+> - **谨慎使用** 投资序列较短时初始存量估算对稳态假设较敏感；转型经济体或结构性断裂时期（如战争、制度变革）的稳态假设可能不成立。
 > - **不适合使用** 缺少投资流量数据；资产构成高度异质且折旧率差异很大但无法区分资产类型的情况。
 
 ---

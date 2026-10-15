@@ -9,7 +9,7 @@ summary: "一种用于检验观测变量（如问卷题项）与潜在结构（�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 23
+method_related_count: 22
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Epistemological Beliefs]]"
-  - "[[Hypothesis]]"
   - "[[Convergent and Discriminant Validity]]"
 related_theories: []
 related_methods:
@@ -47,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-15
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Confirmatory Factor Analysis
@@ -71,7 +70,7 @@ updated: 2026-10-08
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 认为心理与教育测量中的诸多概念（如智力、动机、[[Epistemological Beliefs\|认识论信念]]）是无法直接观测的潜[[Variable\|变量]]，必须通过一组可观测的指标来推断。
-> - **研究者角色** 研究者基于先验理论或前期探索研究提出结构[[Hypothesis\|假设]]，主观决定模型的设定。
+> - **研究者角色** 研究者基于先验理论或前期探索研究提出结构假设，主观决定模型的设定。
 > - **有效性标准** 各种绝对拟合指数和相对拟合指数（如 [[Model Fit Indices in SEM and CFA\|RMSEA]] < .08, CFI > .90 等）。
 
 > [!method-stack] 方法层级

@@ -9,7 +9,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 18
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -32,7 +32,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Regression Discontinuity Design]]"
   - "[[Intent-to-Treat Analysis]]"
@@ -49,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-06
+updated: 2026-10-15
 ---
 
 # Social Programs That Work
@@ -86,7 +85,7 @@ updated: 2026-10-06
 ## 因果推断与方法学标准
 
 > [!abstract] 因果设计与质量规程
-> SPTW 因果设计描述程度[[Coding in Qualitative Research\|编码]]为 **[[Randomised Controlled Trials\|RCT]]=3, [[Quasi-Experimental Designs\|QED]]=1, [[Regression Discontinuity Design\|RDD]]=0, [[Intelligent Tutoring Systems\|ITS]]=0**，对 RCT 制定了极详尽的实施标准([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 10]])。
+> SPTW 因果设计描述程度编码为 **[[Randomised Controlled Trials\|RCT]]=3, [[Quasi-Experimental Designs\|QED]]=1, [[Regression Discontinuity Design\|RDD]]=0, [[Intelligent Tutoring Systems\|ITS]]=0**，对 RCT 制定了极详尽的实施标准([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 10]])。
 >
 > 1. **真实世界实施情境** RCT 必须在常规公共服务场所（而非高度受控的人工实验室）开展，由常规工作人员交付。
 > 2. **极低[[Attrition\|样本流失]]率** 强制设定总体流失率上限（通常不得超过 **20%**），且两组流失率差异必须极小([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 9]])。

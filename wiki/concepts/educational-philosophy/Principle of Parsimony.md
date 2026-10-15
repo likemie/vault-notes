@@ -4,13 +4,12 @@ aliases: [简约原则, 奥卡姆剃刀, Occam's razor, 简便律, law of parsim
 summary: "科学探究四大基本假设之一，源于奥卡姆剃刀与爱因斯坦准则，主张在同等解释力的假说或模型中优先选择实体最少、概念最经济的理论，构成统计建模、模型拟合与理论建构的核心原则。"
 type: concept
 domain: "educational-philosophy"
-related_count: 30
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags: [theme/epistemology, theme/methodology, theme/research-philosophy, methodology/quantitative]
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Variable]]"
   - "[[Ontology]]"
@@ -21,7 +20,7 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Emergence]]"
   - "[[Construct]]"
-  - "[[Document]]"
+  - "[[Hypothesis]]"
   - "[[Big Ideas]]"
   - "[[Operationalization]]"
   - "[[Falsification]]"
@@ -47,7 +46,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Principle of Parsimony
@@ -57,7 +56,7 @@ updated: 2026-10-08
 ## 定义
 
 > [!def] 核心定义
-> **简约原则（Principle of Parsimony）**，亦称**奥卡姆剃刀（Occam's razor）**或**简便律**，是科学家群体日常工作所恪守的四大根本[[Hypothesis\|假设]]之一（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch. 1, p. 15）。该原则主张现象应当以尽可能经济、精炼的方式进行解释，其古典哲学表述源于 14 世纪哲学家奥卡姆的威廉（William of Occam）的名言“如无必要，勿增实体”（*entia non sunt multiplicanda praeter necessitatem*）；现代科学准则将其提炼为阿尔伯特·爱因斯坦的名言“事情应当尽可能做得简单，但绝不能过度简化”（*make matters as simple as possible, but no simpler*）。在研究设计与理论构建中，简约原则要求：当两个相互竞争的理论或假说拥有同等解释力时，研究者应当优先选择概念较少、假设较精简的方案。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 16)]]
+> **简约原则（Principle of Parsimony）**，亦称**奥卡姆剃刀（Occam's razor）**或**简便律**，是科学家群体日常工作所恪守的四大根本假设之一（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch. 1, p. 15）。该原则主张现象应当以尽可能经济、精炼的方式进行解释，其古典哲学表述源于 14 世纪哲学家奥卡姆的威廉（William of Occam）的名言“如无必要，勿增实体”（*entia non sunt multiplicanda praeter necessitatem*）；现代科学准则将其提炼为阿尔伯特·爱因斯坦的名言“事情应当尽可能做得简单，但绝不能过度简化”（*make matters as simple as possible, but no simpler*）。在研究设计与理论构建中，简约原则要求：当两个相互竞争的理论或假说拥有同等解释力时，研究者应当优先选择概念较少、假设较精简的方案。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 16)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 作为[[Epistemology\|认识论]]与启发式规则，指导理论假说、测量指标与统计模型的经济性选择，防范无意义的概念通胀。
@@ -81,7 +80,7 @@ updated: 2026-10-08
 > [!contrast-table] 简约原则在不同[[Paradigm\|研究范式]]中的方法论定位
 > | 探究范式 | 对简约原则的态度 | 核心操作机制 | 典型表现与考量 |
 > |---|---|---|---|
-> | **定量[[Positivism\|实证主义]]** | 奉为模型评价与[[Hypothesis\|假设]]筛选的核心黄金准则 | 参数惩罚、信息准则优化、自由度控制 | 偏好以最少[[Independent Variable\|自变量]]解释最大方差（AIC/BIC 最优） |
+> | **定量[[Positivism\|实证主义]]** | 奉为模型评价与假设筛选的核心黄金准则 | 参数惩罚、信息准则优化、自由度控制 | 偏好以最少[[Independent Variable\|自变量]]解释最大方差（AIC/BIC 最优） |
 > | **质性自然主义** | 持高度警惕态度，警惕简约抹杀情境[[Indexicality\|索引性]] | [[Rich and Thick Description\|深描]]（thick description）、微观脉络保留 | 拒绝人为简化，主张多层复杂性优于单薄抽象 |
 > | **复杂性科学** | 超越简单与繁复的对立，追求“复杂性中的秩序” | 自组织、奇异吸引子、幂律分布 | 简单的局部互动规则能够自发[[Emergence\|涌现]]极度复杂的宏观网络 |
 
@@ -91,7 +90,7 @@ updated: 2026-10-08
 
 > [!feature] 核心要素
 > - **概念经济性（Conceptual Parsimony）** 严格控制[[Construct\|理论构念]]的数量，用最紧凑的概念系统涵盖最大范围的经验现象，防止虚构多余的经院哲学实体。
-> - **[[Hypothesis\|假设]]精简化（Hypothesis Economy）** 呼应 Kerlinger（1970）关于良好假说的辅助准则——假说应当以最经济的方式表达[[Variable\|变量]]之间的关联。
+> - **假设精简化（[[Hypothesis]] Economy）** 呼应 Kerlinger（1970）关于良好假说的辅助准则——假说应当以最经济的方式表达[[Variable\|变量]]之间的关联。
 > - **模型选择与过拟合防御（Model Selection and Overfitting Prevention）** 在现代统计分析中，简约原则体现为对自由度与自由参数的数学惩罚机制，确保统计模型具备高外推效度与普适泛化力。
 > - **爱因斯坦底线（The Einstein Constraint）** 明确设定“绝不过度简化”的边界，禁止以损害实证解释力和关键因果机制为代价换取表面上的简洁。
 
@@ -146,7 +145,7 @@ updated: 2026-10-08
 ### 命题总览
 
 > [!contrast-table] 围绕简约原则形成的理论命题总览
-> | 命题类型 | 核心主张 | 方法论机制 | 代表学者与[[Document\|文献]] |
+> | 命题类型 | 核心主张 | 方法论机制 | 代表学者与文献 |
 > |---|---|---|---|
 > | **理论经济选择命题** | 同等解释力下实体较少的理论更优，追求最[[Big Ideas\|大概念]]经济性 | 理论筛选、奥卡姆剃刀、假定最少化 | William of Occam; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 16)]] |
 > | **假说精炼可测命题** | 假说必须以最经济的方式表达变量关联以提升可操作性 | 变量[[Operationalization\|操作化]]、指标聚焦、清晰性控制 | Kerlinger (1970); Medawar (1981) |
@@ -189,7 +188,7 @@ updated: 2026-10-08
 ## 实证数据
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 16)]] — 系统界定科学探究中的简约原则、奥卡姆剃刀内涵、爱因斯坦底线以及 Kerlinger 假说经济性准则。 [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen, Manion & Morrison (2011)]] — 在跨章节论述中探讨统计模型选择、因子分析公因子提取准则以及[[Hypothesis\|假设]]精简与质性[[Rich and Thick Description\|深描]]的方法论权衡。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 16)]] — 系统界定科学探究中的简约原则、奥卡姆剃刀内涵、爱因斯坦底线以及 Kerlinger 假说经济性准则。 [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen, Manion & Morrison (2011)]] — 在跨章节论述中探讨统计模型选择、因子分析公因子提取准则以及假设精简与质性[[Rich and Thick Description\|深描]]的方法论权衡。
 
 ---
 
@@ -200,7 +199,7 @@ updated: 2026-10-08
 > | 条目 | 类型 | 关联与贡献 |
 > |:-----|:-----|:-----|
 > | [[Scientific Method\|科学方法]] | 概念 | 简约原则作为科学四大基本信念之一，深刻塑造了科学方法的程序规范。 |
-> | [[Hypothesis\|假设]] | 概念 | 简约性构成评估优质经验假设的核心辅助标准（Kerlinger, 1970）。 |
+> | 假设 | 概念 | 简约性构成评估优质经验假设的核心辅助标准（Kerlinger, 1970）。 |
 > | [[Determinism\|决定论]] | 概念 | 科学四大信仰假设之一，与简约原则共同支撑经典定量实证的规律追求。 |
 > | [[Empiricism\|经验主义]] | 概念 | 科学四大信仰假设之一，强调简约原则必须在经验证据支持的边界内运作。 |
 > | [[Rich and Thick Description\|深描]] | 概念 | 在[[Epistemology\|认识论]]上与机械简约形成互补张力，强调复杂情境脉络的不可还原性。 |

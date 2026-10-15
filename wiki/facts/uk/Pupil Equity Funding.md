@@ -10,9 +10,9 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "Scottish Government"
 tags:
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[School Leadership]]"
   - "[[Gatekeepers]]"
+  - "[[School Autonomy]]"
   - "[[Phronesis]]"
   - "[[Teaching Assistant]]"
   - "[[Contributory Expertise]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Pupil Equity Funding
@@ -108,7 +109,7 @@ updated: 2026-10-07
 ## 效果与评价
 
 > [!finding-cards] 政策成效与专业体验
-> - **学校自主裁量权的拓展** 赋予[[School Leadership\|学校领导]]者根据社区具体需求开展差异化干预的自由度，学校不再完全受制于单一的行政指令。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 15)]]
+> - **[[School Autonomy|学校自主]]裁量权的拓展** 赋予[[School Leadership\|学校领导]]者根据社区具体需求开展差异化干预的自由度，学校不再完全受制于单一的行政指令。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 15)]]
 > - **外部商业与慈善机构渗透** 资金直拨吸引了大量第三方服务机构直接向学校推销所谓循证方案，改变了苏格兰学校传统的公共服务采购格局。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 14)]]
 > - **对通用工具包的警惕与质疑** 苏格兰校长普遍对直接平移自英格兰的 [[Education Endowment Foundation\|EEF]] 工具包持审慎怀疑态度，批评其证据结论政治化且过于脱离微观教学实际。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, pp. 20–21)]]
 
@@ -121,7 +122,7 @@ updated: 2026-10-07
 > > [!axis] 循证工具包与地方[[Phronesis\|实践智慧]]的脱节
 > > 官方力推的“通用有效做法”与校长基于现场经验做出的资源配置产生尖锐对立。
 > >
-> > - **中介工具包指引** [[Education Endowment Foundation\|EEF]] 工具包将“[[Teaching Assistant\|助教]]（Teaching Assistants）”归类为高成本、低影响的干预，部分地方官员据此要求校长不得在 PEF 预算中列支助教岗位。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 20)]]
+> > - **中介工具包指引** [[Education Endowment Foundation\|EEF]] 工具包将“助教（[[Teaching Assistant|Teaching Assistants]]）”归类为高成本、低影响的干预，部分地方官员据此要求校长不得在 PEF 预算中列支助教岗位。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 20)]]
 > > - **一线[[School Leadership\|学校领导]]者** 坚决抵制这一教条，强调优秀的课堂助教对特殊需要学童与弱势学生具有不可替代的核心价值，斥责脱离语境的粗暴裁减为“荒谬之举”。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 21)]]
 >
 > > [!axis] 教师角色重塑：知识使用者 vs. 知识创造者

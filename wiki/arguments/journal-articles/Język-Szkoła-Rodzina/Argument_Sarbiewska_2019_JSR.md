@@ -9,9 +9,9 @@ title: "Argument_Sarbiewska_2019_JSR"
 argument_key: "Argument_Sarbiewska_2019_JSR"
 argument_display_title: "Visible Learning and educational policies in New Zealand and Australia"
 argument_kind: "journal-article"
-argument_related_count: 16
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 14
+argument_related_level: 0
+argument_related_stars: ""
 argument_related_color: "#dbeafe"
 journal: Język-Szkoła-Rodzina
 citation: "Sarbiewska, A. (2019). Visible Learning and educational policies in New Zealand and Australia. Język-Szkoła-Rodzina, 16, 117–129."
@@ -26,8 +26,6 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Evidence-Based Education]]"
   - "[[Literature Review]]"
-  - "[[Document]]"
-  - "[[Teaching Assistant]]"
   - "[[Paradigm]]"
   - "[[Constructivist Paradigm]]"
 related_theories:
@@ -72,7 +70,7 @@ citation_aliases:
 > [!info] 研究方法
 > - 方法：[[Literature Review\|文献综述]]与政策分析
 > - 范围：新西兰和澳大利亚教育系统（1980s–2019）
-> - 数据来源：政府报告、学术[[Document\|文献]]、[[PISA]] 数据、教育政策文件
+> - 数据来源：政府报告、学术文献、[[PISA]] 数据、教育政策文件
 
 ## 核心论证
 
@@ -93,7 +91,7 @@ citation_aliases:
 > - [[PISA]] 2001 数据显示新西兰和澳大利亚处于"高质量、高公平"象限，但成绩差异较大（High Average and Large Variance），主要源于校内差异而非校际差异(p.123–124)
 > - 新西兰教育部报告确认：同一所学校内学生成绩差异巨大，因此个体学校和教师而非政府或系统对有效教育负有最大责任(p.124)
 > - 澳大利亚维多利亚州开发了 [[Victorian HITS and Literacy Toolkit\|HITS]]（10 项高影响力教学策略），源自 Hattie and Marzano 的研究(p.126)
-> - 新西兰 ERO（Education Review Office）帮[[Teaching Assistant\|助教]]师与家长和社区合作，澄清有效教师的特征：灵活回应学生、使用不同教学方法、借助其他成人和社区成员的专业知识(p.127)
+> - 新西兰 ERO（Education Review Office）帮助教师与家长和社区合作，澄清有效教师的特征：灵活回应学生、使用不同教学方法、借助其他成人和社区成员的专业知识(p.127)
 > - 澳大利亚 Gonski 2.0(2018)提出以个体进步而非年龄基准衡量成功学习
 > - [[Australian Curriculum]](2012)包含三个维度：学习领域、通用能力和跨课程优先事项，各校有独特实施方式(p.128)
 > - [[The New Zealand Curriculum]](2010)包含八项原则（高期望、学会学习、未来焦点等），ERO 定期评估实施情况

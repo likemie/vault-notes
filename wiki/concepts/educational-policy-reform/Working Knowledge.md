@@ -8,10 +8,10 @@ aliases:
 summary: "决策者与管理者在工作情境中自发且常规调用的结构化知识体系，包含信念、假定、实践经验及社会科学知识，在新证据进入时发挥认知过滤与调适中介功能"
 type: concept
 domain: "educational-policy-reform"
-related_count: 22
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - topic/knowledge-utilization
   - topic/educational-policy
@@ -23,8 +23,6 @@ related_concepts:
   - "[[Output-Oriented Governance]]"
   - "[[School Inspection]]"
   - "[[Discourse]]"
-  - "[[Hypothesis]]"
-  - "[[Document]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Problem Solving]]"
   - "[[Evidence-Based Education]]"
@@ -32,7 +30,6 @@ related_methods:
   - "[[Winnowing]]"
   - "[[Expert Interview]]"
   - "[[Qualitative Content Analysis]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
   - "[[Qualitative Research]]"
 related_facts:
@@ -47,7 +44,7 @@ related_theories:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Working Knowledge
@@ -157,7 +154,7 @@ updated: 2026-10-09
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **认知同化与重构** | 证据必须融入实践运作知识方能发生作用 | 复杂统计测评数据的初次政策解读 | Kennedy (1982b); Spillane et al. (2002) |
-> | **历时专业化演进** | 持续循证实践促进行政工作知识向[[Hypothesis\|假设]]检验模型转变 | 长期建立数据监测与质保部门的科层系统 | [[Argument_Dedering_2009_EERJ\|Dedering (2009, pp. 490–491)]] |
+> | **历时专业化演进** | 持续循证实践促进行政工作知识向假设检验模型转变 | 长期建立数据监测与质保部门的科层系统 | [[Argument_Dedering_2009_EERJ\|Dedering (2009, pp. 490–491)]] |
 > | **认知过载与关联受阻** | 高频测评耗竭管理精力并阻断跨数据库深度整合 | 密集施测、多源评估工具并存的教育行政中枢 | [[Argument_Dedering_2009_EERJ\|Dedering (2009, pp. 493–494)]] |
 
 ---
@@ -182,7 +179,7 @@ updated: 2026-10-09
 > [!ref-table]- 德国联邦州教育部官员实践运作知识历时变迁实证记录
 > | 研究案例 | 调查对象与样本 | 运作知识演进表征 | 数据处理形态 |
 > |---|---|---|---|
-> | [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] | 德国 4 个联邦州教育部质保部门负责人（12 场[[Expert Interview\|专家访谈]]） | 2000 年 [[PISA]] 初期表现为缺乏专业统计素养与应对恐慌；2006–2009 年演化为成熟的靶向假说核验、外部学术网络对接及针对弱势学校的诊断支持。同时显现出高频 VERA 施测下管理精力被挤占、多源跨库关联停滞的认知瓶颈。 | [[Qualitative Content Analysis\|质性内容分析]][[Coding in Qualitative Research\|编码]]（MAXQDA）归纳得出常规化、专业化与系统化演进路径。 |
+> | [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] | 德国 4 个联邦州教育部质保部门负责人（12 场[[Expert Interview\|专家访谈]]） | 2000 年 [[PISA]] 初期表现为缺乏专业统计素养与应对恐慌；2006–2009 年演化为成熟的靶向假说核验、外部学术网络对接及针对弱势学校的诊断支持。同时显现出高频 VERA 施测下管理精力被挤占、多源跨库关联停滞的认知瓶颈。 | [[Qualitative Content Analysis\|质性内容分析]]编码（MAXQDA）归纳得出常规化、专业化与系统化演进路径。 |
 
 ---
 
@@ -196,7 +193,7 @@ updated: 2026-10-09
 ## 知识网络
 
 > [!rel-table] 关联知识实体
-> | 关联实体 | 实体类型 | 关联本质说明 | [[Document\|文献]]出处 |
+> | 关联实体 | 实体类型 | 关联本质说明 | 文献出处 |
 > |---|---|---|---|
 > | [[Conceptual, Instrumental, and Symbolic Use of Research]] | 概念 | 实践运作知识是连接概念性知识渗透、工具性[[Problem Solving\|问题解决]]与象征性合法化的中介认知基底。 | Kennedy (1982b); Weiss (1980) |
 > | [[Evidence-Based Education]] | 概念 | 循证教育倡导的实证数据只有穿透并改造管理者的实践运作知识，才能真正引发学校改进。 | [[Argument_Dedering_2009_EERJ\|Dedering (2009, p. 485)]] |

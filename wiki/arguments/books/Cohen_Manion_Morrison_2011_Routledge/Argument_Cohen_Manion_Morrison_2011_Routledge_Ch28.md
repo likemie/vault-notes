@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28"
 argument_display_title: "Research Methods in Education · Ch28"
 argument_kind: "book-chapter"
-argument_related_count: 44
+argument_related_count: 42
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -50,10 +50,8 @@ related_concepts:
   - "[[Discourse]]"
   - "[[External Validity]]"
   - "[[Research Purpose]]"
-  - "[[Hypothesis]]"
   - "[[Informed Consent]]"
   - "[[Emergence]]"
-  - "[[Assemblage]]"
   - "[[Central Phenomenon]]"
   - "[[Construct]]"
 related_theories:
@@ -63,7 +61,6 @@ related_methods:
   - "[[Grounded Theory]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Qualitative Computer Software]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Field Notes]]"
   - "[[Case Study]]"
   - "[[Ethnography]]"
@@ -74,6 +71,7 @@ related_methods:
   - "[[Fieldwork]]"
   - "[[Participatory Action Research]]"
   - "[[Action Research]]"
+  - "[[Coding in Qualitative Research]]"
   - "[[Intercoder Agreement]]"
   - "[[Discourse Analysis]]"
   - "[[Accounts]]"
@@ -105,7 +103,7 @@ updated: '2026-09-08'
 > 质性数据分析的几种形式在此展开讨论，内容分析与扎根理论留待后文专门处理。不同进路的质性数据分析包括：
 > - **数据分析、厚描述与反身性** 如何组织、解释与呈现质性数据
 > - **质性数据分析中的伦理** 如何保护个体的可识别性、保密与隐私
-> - **计算机辅助质性数据分析（CAQDAS）** 软件如何辅助[[Coding in Qualitative Research\|编码]]（coding）、检索与理论生成
+> - **计算机辅助质性数据分析（CAQDAS）** 软件如何辅助编码（coding）、检索与理论生成
 
 > [!question] 核心问题
 >
@@ -213,7 +211,7 @@ updated: '2026-09-08'
 > |---|---|
 > | 传记／[[Case Study\|案例研究]] | 描述性叙事，通常按时间顺序，在叙述中提出问题 |
 > | [[Ethnography\|民族志]] | 叙事或故事，不必然符合时间顺序，包含描述、分析、诠释与解释 |
-> | [[Grounded Theory\|扎根理论]]／内容分析 | 系统分析（[[Coding in Qualitative Research\|编码]]、类别化），直至理论浮现或可用于预测 |
+> | [[Grounded Theory\|扎根理论]]／内容分析 | 系统分析（编码、类别化），直至理论浮现或可用于预测 |
 >
 > 所采用的[[Qualitative Research\|质性研究]]类型会决定数据以何种形态被写出来。（28.2）
 
@@ -264,7 +262,7 @@ updated: '2026-09-08'
 > [!case] Whyte《街角社会》附录A的自我反身
 > 在《街角社会》（*Street Corner Society*）1993 年再版的附录 A 中，[[William Foote Whyte\|威廉·富特·怀特]]（William Foote Whyte） 反思[[Fieldwork\|田野工作]]者的个人经验长期被学界沉默的共谋掩盖。他指出，学界似乎对田野工作者的个人经验强加了一种沉默的共谋，不可能找到揭示田野工作者必定经历的错误、困惑与个人卷入的现实记述，于是他决定尽己所能填补这一空白，并在这一任务中尽可能对自己诚实（Whyte, 1993, pp. 358–9）。他还主张[[Participatory Action Research\|参与式行动研究]]（participatory [[Action Research]]，PAR）提供了弥合专业研究者与所研究组织成员之间鸿沟的一条重要途径（p. 364）。
 >
-> Whyte 进一步报告了对研究者的评论。研究者放弃建立科学结论的任何希望，转而谈论通过呈现你的为人来使你的记述可信。民族志今天越来越公开地采取一种内省转向，要成为习惯性的 I 见证者（I-witness），看来必须先成为一个令人信服的 I。民族学写作因而依赖于对读者的说服。他认识到客观与主观的区分并不像曾经以为的那样清晰，我们寻求观察对[[Research Purpose\|研究目的]]有意义的行为，选择因此依赖于某种内隐或外显的理论，这一过程在很大程度上是主观的，但选择并非随机。如果说明理论[[Hypothesis\|假设]]与研究采用的方法，他人就能运用同样的假设与方法去验证或挑战结论。（pp. 366–7）
+> Whyte 进一步报告了对研究者的评论。研究者放弃建立科学结论的任何希望，转而谈论通过呈现你的为人来使你的记述可信。民族志今天越来越公开地采取一种内省转向，要成为习惯性的 I 见证者（I-witness），看来必须先成为一个令人信服的 I。民族学写作因而依赖于对读者的说服。他认识到客观与主观的区分并不像曾经以为的那样清晰，我们寻求观察对[[Research Purpose\|研究目的]]有意义的行为，选择因此依赖于某种内隐或外显的理论，这一过程在很大程度上是主观的，但选择并非随机。如果说明理论假设与研究采用的方法，他人就能运用同样的假设与方法去验证或挑战结论。（pp. 366–7）
 >
 > 他甚至质疑受访者验证的必要性或实用性，尤其是当研究者发现可能违背或冒犯群体价值观与实践的内容时。他主张研究者有权按其自身所见发表结论与诠释（p. 362）。（28.2）
 
@@ -323,8 +321,8 @@ updated: '2026-09-08'
 > - **记录与转录** 记笔记；导入与管理已由 AI 转写或人工整理的访谈文本。
 > - **管理与存储** 有序管理与存储数据；编辑、扩展或修订田野笔记；存储并校对数据；整理与分段数据并制作副本。
 > - **搜索与检索** 文本搜索与检索；搜索词或短语并检索文本；搜索以特定（如时间）顺序出现的数据片段。
-> - **[[Coding in Qualitative Research\|编码]]与分类** 编码数据并把编码排列为层级（树）与节点；进行初步编码；把编码备忘录纳入同一分类图式；给文本单元附加识别标签；按研究者决定或自然语言划分数据单元。
-> - **比较与关联** 排序、再排序、整理、分类、再分类数据片段以促进持续比较；交叉核对数据能否编入多个类别；统计多类别数据的发生率；从子集（如按性别）检索数据片段；建立编码类别联系；按优选标准过滤、[[Assemblage\|装配]]与关联数据。
+> - **编码与分类** 编码数据并把编码排列为层级（树）与节点；进行初步编码；把编码备忘录纳入同一分类图式；给文本单元附加识别标签；按研究者决定或自然语言划分数据单元。
+> - **比较与关联** 排序、再排序、整理、分类、再分类数据片段以促进持续比较；交叉核对数据能否编入多个类别；统计多类别数据的发生率；从子集（如按性别）检索数据片段；建立编码类别联系；按优选标准过滤、装配与关联数据。
 > - **分析输出** 进行内容分析（频数、意义、序列、地点、人物等）；以不同方式展示数据；显示类别关系（层级、时间、关系、包含、上属）；在最终报告中引用数据。
 > - **理论与协作** 撰写备忘录并记录撰写情境；得出结论并验证结论与假设；生成与检验理论；与其他研究者或参与者沟通。
 
@@ -353,7 +351,7 @@ updated: '2026-09-08'
 > [!method-limits] 软件不替代分析（传统论断）
 > 上述判断主要针对以编码与检索为核心的旧一代软件：计算机不消除人的参与，人仍需决定并生成编码与类别、验证并诠释数据。文本的算法式诠释存在严格限度（Kelle, 2004, p. 277）。CAQDAS 不执行分析，只支持研究者通过组织数据、记录编码与节点来分析；它更像文字处理器与整理器而非分析工具（Flick, 2009, p. 359）。García-Horta & Guerra-Ramos（2009, pp. 152–3）认为软件不能替代研究者赋予意义、识别异同、建立关系的能力，迄今没有软件能处理意义的生成与诠释。（28.4）
 
-> [!note] 当下的变化：LLM 辅助质性编码
+> [!note] 当下的变化：LLM 辅助[[Coding in Qualitative Research|质性编码]]
 > 近年大语言模型（large language model，LLM）已能自动生成与建议编码、归类文本、抽取主题与摘要，部分承担了过去必须由研究者完成的机械分析环节。研究者仍须对 LLM 输出负责，校验[[Intercoder Agreement\|编码一致性]]、保留[[Reflexivity\|反身性]]并报告使用与局限（如幻觉、语境丢失、刻板偏误）。（28.4 附注）
 
 > [!critique] 软件可能驱动分析

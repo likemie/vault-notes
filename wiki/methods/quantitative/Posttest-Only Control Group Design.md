@@ -9,7 +9,7 @@ summary: "真实验设计的变体，随机分配后无前测、仅后测，通�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 15
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Research Purpose]]"
   - "[[Internal Validity]]"
   - "[[Variable]]"
-  - "[[Hypothesis]]"
 related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[True Experimental Design]]"
@@ -37,7 +36,7 @@ related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
 status: draft
 created: 2026-07-13
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 # Posttest-Only Control Group Design
 
@@ -87,7 +86,7 @@ updated: 2026-09-17
 
 > [!method-limits]
 > - **无法验证基线等价** 完全依赖[[Random Assignment\|随机化]]的理论保证，无法用[[Pre-test and Post-test\|前测]]数据实证检验两组是否等价。
-> - **无法测量个体变化** 只有后测数据，无法区分"干预前就高的组"和"干预后变高的组"——只能依赖随机化[[Hypothesis\|假设]]两组基线相同。
+> - **无法测量个体变化** 只有后测数据，无法区分"干预前就高的组"和"干预后变高的组"——只能依赖随机化假设两组基线相同。
 > - **对随机化质量高度敏感** 如果随机化失败（小样本中可能出现），无法通过前测发现。
 
 ## 相关理论与方法

@@ -9,7 +9,7 @@ aliases:
 summary: "在高等教育治理与公共部门分权改革中，通过跨机构自组织兼并与横向整合，将分散的小型、单科性院校重组为具备多学科综合架构与临界规模的办学实体，旨在建立能够承接整笔总额预算与战略自主治理能力的制度载体。"
 type: concept
 domain: "higher-education"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Strategic Autonomy]]"
   - "[[Steering at a Distance]]"
   - "[[Policy Network]]"
-  - "[[Document]]"
   - "[[Knowledge Production]]"
   - "[[Multi-University]]"
   - "[[Knowledge-Based Economy]]"
@@ -40,7 +39,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Scale Enlargement
@@ -122,7 +121,7 @@ updated: 2026-10-12
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心理论判定 | 适用分析情境 | 代表学者与[[Document\|文献]] |
+> | 命题类型 | 核心理论判定 | 适用分析情境 | 代表学者与文献 |
 > |---|---|---|---|
 > | **治理体量匹配** | 达到临界规模的多科综合架构是基层机构有效承接财务总额预算与战略自治的前提 | 高教管理分权、小微院校改革、内部治理专业化 | [[Argument_Kickert_1995_Governance\|Kickert (1995, p. 145)]] |
 > | **自组织替代指令** | 依托中介网络与同行自愿谈判的大兼并能够替代刚性科层命令，以最低阻力完成结构重组 | 高教系统大合并、办学格局调整、财政紧缩吸收 | [[Argument_Kickert_1995_Governance\|Kickert (1995, p. 146)]] |
@@ -164,5 +163,5 @@ updated: 2026-10-12
 
 ## 相关研究
 
-> [!evidence-grid] 相关[[Document|文献]]索引
+> [!evidence-grid] 相关文献索引
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 详实回顾荷兰高等专业教育大兼并历程，实证论证去中心化[[Policy Network|政策网络]]如何依托自组织协商推进系统级规模扩充与[[Strategic Autonomy|战略自主]]。

@@ -8,7 +8,7 @@ aliases:
 summary: "源自社会认识论、学习科学与人机交互核心构念，指个体在遭遇相左证据、异质观点或复杂决策任务时所经历的生产性阻力与反思张力，是激活元认知监控、深度推理与校准批判性信任的必要机制。"
 type: concept
 domain: "educational-psychology"
-related_count: 47
+related_count: 46
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -59,7 +59,6 @@ related_theories:
   - "[[Cognitive Load Theory]]"
 related_methods:
   - "[[Transcription in Qualitative Research]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Triangulation]]"
   - "[[Effect Size]]"
   - "[[Systematic Review]]"
@@ -76,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-02
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Epistemic Friction
@@ -133,7 +132,7 @@ updated: 2026-10-07
 > [!feature] [[Epistemology|认识论]]摩擦的核心构成维度与交互支柱
 > - **观点[[Heterogeneity|异质性]]与认识论张力（Heterogeneous Epistemic Tension）** 接触多元、彼此抵触的理论流派或实证反例，迫使认知主体跳出单一权威视角的舒适区。[[Argument_Li_2026_CEAI|(Li et al., 2026, pp. 10–12)]]
 > - **[[Metacognition|元认知监控]]激活（Metacognitive Scrutiny）** 在认知顺畅感被阻断时自动触发分析系统，主动评估当前推论的自洽性、证据充分性与模型局限。
-> - **生产性反思挣扎（Reflective Struggle）** 学习者或决策者亲身经历概念解构、反常证据辨析与逻辑缝合的推导过程，在深层加工中强化图式[[Coding in Qualitative Research|编码]]。
+> - **生产性反思挣扎（Reflective Struggle）** 学习者或决策者亲身经历概念解构、反常证据辨析与逻辑缝合的推导过程，在深层加工中强化图式编码。
 > - **证据辩证权衡（Dialectical [[Triangulation]]）** 拒绝直接接受单一答案，强制在多源数据、算法提示与理论模型间开展交叉审问。
 > - **可抗辩性与反驳赋权（Contestability & [[Defeater]] Support）** 技术界面主动呈现冲突指标（反驳型击败者）与开放追问（反思机器），赋予人类直接反驳算法的认知杠杆。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–25)]]
 

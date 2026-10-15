@@ -121,7 +121,7 @@ updated: 2026-10-03
 
 > [!feature] RTPI 三层循证干预架构
 > - **TIER 1 — 全员核心通用教学（Core Classroom Instruction）** 面向全体学生的日常高质量课堂教学，应采用达到 [[Every Student Succeeds Act\|ESSA]] 强[[Evidence Standards\|证据标准]]的全校/全班改革方案（如[[Success for All]]、[[Cooperative Integrated Reading and Composition\|合作整合阅读与写作]]（CIRC）、[[Peer-Assisted Learning Strategies\|同伴辅助学习策略]]（PALS）），有效预防 80%–85% 学生出现学业困难。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 27)]]
-> - **Tier 2 — 小组针对性补充辅导（Targeted Small-Group Tutoring）** 针对在 Tier 1 中仍出现轻度落后的约 10%–15% 处境不利学生，采用结构化小组辅导方案（师生比 1:2–6），可由认证教师或经过 1–2 天系统培训并使用高度脚本化教材的教学[[Teaching Assistant\|助教]]实施；阅读[[Effect Size\|效应量]] $ES = +0.22 \sim +0.64$，数学效应量 $ES = +0.24 \sim +0.51$。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 27–28)]]
+> - **Tier 2 — 小组针对性补充辅导（Targeted Small-Group Tutoring）** 针对在 Tier 1 中仍出现轻度落后的约 10%–15% 处境不利学生，采用结构化小组辅导方案（师生比 1:2–6），可由认证教师或经过 1–2 天系统培训并使用高度脚本化教材的教学助教实施；阅读[[Effect Size\|效应量]] $ES = +0.22 \sim +0.64$，数学效应量 $ES = +0.24 \sim +0.51$。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 27–28)]]
 > - **Tier 3 — 密集个别辅导（Intensive One-to-One Tutoring）** 针对经历 Tier 2 后仍有严重阅读或数学障碍的 2%–5% 高危学生，由专业教师或资深助教提供每日高强度 1:1 辅导，作为替代特殊教育转介的最后强效防线；阅读效应量 $ES = +0.42 \sim +0.86$，数学效应量 $ES = +0.21 \sim +0.42$。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
 
 > [!logic-map]- RTPI 循证干预反应的梯级金字塔
@@ -174,7 +174,7 @@ updated: 2026-10-03
 ### 命题三　经培训助教主导的低成本辅导效能逼近认证教师，打破规模化个别辅导的成本壁垒
 
 > [!concept-lens] 师资类型、成本效益与规模化可行性
-> 探讨不同师资类型（认证教师 vs 教学[[Teaching Assistant\|助教]] vs 有偿志愿者）在小组与个别辅导中的实证效能矩阵，以及成本效益对 RTPI 全校规模化普及的决定性意义。
+> 探讨不同师资类型（认证教师 vs 教学助教 vs 有偿志愿者）在小组与个别辅导中的实证效能矩阵，以及成本效益对 RTPI 全校规模化普及的决定性意义。
 
 > [!claim] [[Argument_Slavin_2019_EP\|Slavin (2019)]]
 > **助教辅导的双重比较优势破解规模化瓶颈** 由经过 1–2 天系统培训、使用高度脚本化和结构化教材的教学助教开展的小组与个别辅导，其学业效应量（阅读 $ES = +0.22 \sim +0.81$，数学 $ES = +0.21 \sim +0.51$）完全能够比肩高薪酬认证专业教师的水平；而助教薪酬仅为认证教师的 $1/3 \sim 1/2$。这一"效能逼近、成本减半"的组合，使公立学校在现有财政约束下完全有能力为全校每一名落后儿童常态化配备每日高频的个别化或小组辅导，从根本上打破了"个别辅导只服务少数人"的传统认知局限。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 27–28)]]
@@ -201,7 +201,7 @@ updated: 2026-10-03
 > | **多层全校（Tier 1+辅导）** | [[Enhanced Core Reading Instruction]] | 1 年级 | 认证教师 | 1 项 | $+0.22$ | 强证据（Strong） |
 > | **全班教学（Tier 1）** | [[Peer-Assisted Learning Strategies\|PALS]] | 1 年级 | 同伴互教 | 1 项 | $+0.58$ | 中等证据（Moderate） |
 > | **小组辅导：教师（Tier 2）** | [[Lindamood Phoneme Sequencing\|LiPS]] | 1 年级 | 认证教师 | 1 项 | $+0.64$ | 强证据（Strong） |
-> | **小组辅导：[[Teaching Assistant\|助教]]（Tier 2）** | [[QuickReads\|Quick Reads]] | 2–3 年级 | 教学助教 | 2 项 | $+0.22$ | 强证据（Strong） |
+> | **小组辅导：助教（Tier 2）** | [[QuickReads\|Quick Reads]] | 2–3 年级 | 教学助教 | 2 项 | $+0.22$ | 强证据（Strong） |
 > | **小组辅导：助教（Tier 2）** | [[Early Reading Intervention]] | K 年级 | 教学助教 | 1 项 | $+0.31$ | 强证据（Strong） |
 > | **小组辅导：助教（Tier 2）** | [[Lightning Squad]] | 1–3 年级 | 教学助教 | 3 项 | $+0.34$ | 强证据（Strong） |
 > | **一对一辅导：教师（Tier 3）** | [[Reading Recovery]] | 1 年级 | 认证教师 | 4 项 | $+0.42$ | 强证据（Strong） |
@@ -216,7 +216,7 @@ updated: 2026-10-03
 > | 层级与模式 | 代表项目名称 | 验证学段 | 师资类型 | 研究数 | 平均效应量（$ES$） | ESSA 证据等级 |
 > |---|---|---|---|---|---|---|
 > | **小组辅导：教师（Tier 2）** | [[Number Rockets]] | 1 年级 | 认证教师 | 1 项 | $+0.34$ | 强证据（Strong） |
-> | **小组辅导：[[Teaching Assistant\|助教]]（Tier 2）** | [[Fraction Face-Off!]] | 4 年级 | 教学助教 | 2 项 | $+0.51$ | 强证据（Strong） |
+> | **小组辅导：助教（Tier 2）** | [[Fraction Face-Off!]] | 4 年级 | 教学助教 | 2 项 | $+0.51$ | 强证据（Strong） |
 > | **小组辅导：助教（Tier 2）** | [[ROOTS]] | 1 年级 | 教学助教 | 2 项 | $+0.24$ | 强证据（Strong） |
 > | **小组辅导：助教（Tier 2）** | [[FocusMath]] | 3, 5 年级 | 教学助教 | 1 项 | $+0.24$ | 强证据（Strong） |
 > | **一对一辅导：教师（Tier 3）** | [[Numbers Count]] | 1–2 年级 | 认证教师 | 1 项 | $+0.33$ | 强证据（Strong） |

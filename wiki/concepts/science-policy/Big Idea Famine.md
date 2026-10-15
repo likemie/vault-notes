@@ -7,10 +7,10 @@ aliases:
 summary: "由尼古拉斯·尼葛洛庞帝（2018）等提出的科技创新批判构念，指当代科技界在风投避险、反文化思潮与精英生产过剩规训下放弃重大物理工程与硬核科学，将顶尖智力锁定于外卖打车等浅层消费软件；卡普与扎米斯卡（2025）整合戈登的生产率停滞、格雷伯的技术拼贴与图尔钦的精英过剩论，论证其本质是科技精英放弃国家战略使命后的文明雄心萎缩，唯有重构技术共和国的实战工程思维方能破局。"
 type: concept
 domain: "science-policy"
-related_count: 40
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 39
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - concept/science-policy
   - theme/innovation-policy
@@ -41,7 +41,6 @@ related_concepts:
   - "[[Hard Power]]"
   - "[[Innovation Desert]]"
   - "[[Revoicing]]"
-  - "[[Document]]"
   - "[[Growth]]"
 related_methods:
   - "[[Correlational Research]]"
@@ -71,7 +70,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Big Idea Famine
@@ -311,7 +310,7 @@ updated: 2026-10-08
 
 ## 相关研究
 
-> [!evidence-grid] 外部[[Correlational Research|相关研究]]与经典[[Document|文献]]索引
+> [!evidence-grid] 外部[[Correlational Research|相关研究]]与经典文献索引
 > - **Negroponte (2018)** — *The Big Idea Famine*。系统论述硅谷风投模式与创业孵化机制如何反向侵蚀颠覆性科学发现，将工程头脑锁定于送餐与洗衣服等微观应用。
 > - **Gordon (2016)** — *The [[Research in Schools Evaluation|RISE]] and Fall of American [[Growth]]*。基于百年经济史实证数据，揭示 1970 年后信息技术革新的狭窄性与[[Total Factor Productivity|全要素生产率]]（TFP）增速由 2.0% 跌至 0.5% 的断崖式放缓。
 > - **Graeber (2012)** — *Of Flying Cars and the Declining Rate of Profit*。批判后工业时代科技界放弃深空探索、清洁能源与物理制造等宏大承诺，退化为对既有数字协议进行表面排列组合的[[Technological Pastiche|技术拼贴]]。

@@ -9,7 +9,7 @@ summary: "Merton & Kendall（1946）发展的访谈方法，研究者预先分�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 10
+method_related_count: 9
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -17,7 +17,6 @@ tags:
   - method/qualitative
   - data-collection
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
 related_methods:
@@ -32,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Focused Interview
@@ -42,7 +41,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 方法定义
-> 聚焦访谈（Focused Interview）由 Merton & Kendall（1946）发展，是位于[[Non-directive Interview\|非引导性访谈]]和结构化访谈之间的方法。其独特之处在于：被访谈者已知参与过特定情境（如看过电影、读过文章、参与过社会事件），研究者通过[[Content Analysis\|内容分析]]预先分析了该情境中认为重要的元素并形成[[Hypothesis\|假设]]，以此为基础构建访谈指南。实际访谈聚焦于被访者对该情境的主观经验，回应用于检验假设并发现未预期回应（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al., 2011, pp. 468–469]]）。
+> 聚焦访谈（Focused Interview）由 Merton & Kendall（1946）发展，是位于[[Non-directive Interview\|非引导性访谈]]和结构化访谈之间的方法。其独特之处在于：被访谈者已知参与过特定情境（如看过电影、读过文章、参与过社会事件），研究者通过[[Content Analysis\|内容分析]]预先分析了该情境中认为重要的元素并形成假设，以此为基础构建访谈指南。实际访谈聚焦于被访者对该情境的主观经验，回应用于检验假设并发现未预期回应（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al., 2011, pp. 468–469]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 个体对已知特定情境的主观反应、意义建构和情感体验。
@@ -62,7 +61,7 @@ updated: 2026-09-17
 
 > [!method-stack] 方法层级
 > - **研究设计** [[Quasi-Experimental Designs\|准实验设计]]、媒介效果研究
-> - **数据收集** 预先内容分析、基于[[Hypothesis\|假设]]的访谈指南、半结构化追问
+> - **数据收集** 预先内容分析、基于假设的访谈指南、半结构化追问
 > - **分析方法** 内容分析、假设检验、主题分析
 > - **辅助技术** 情境内容分析、假设集合构建
 
@@ -72,7 +71,7 @@ updated: 2026-09-17
 
 > [!proc] 聚焦访谈的四项特征（Merton & Kendall, 1946）
 > 1. **已知情境参与** 被访谈者已知参与过特定情境——看过电视节目、电影、读过书或文章、或参与过社会情境。
-> 2. **预先[[Content Analysis\|内容分析]]** 研究者通过内容分析技术预先分析了情境中被认为重要的元素，形成关于特定元素意义和效应的[[Hypothesis\|假设]]集合。
+> 2. **预先[[Content Analysis\|内容分析]]** 研究者通过内容分析技术预先分析了情境中被认为重要的元素，形成关于特定元素意义和效应的假设集合。
 > 3. **访谈指南构建** 基于分析构建访谈指南，确定主要探究领域和决定在访谈中获取相关数据的假设。
 > 4. **聚焦主观经验** 实际访谈聚焦于经历过该情境的人的主观经验——回应使假设能被检验，未预期回应产生进一步假设。
 
@@ -91,7 +90,7 @@ updated: 2026-09-17
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 研究者对受访者经历的情境有预先了解时；需要检验关于情境效应的具体[[Hypothesis\|假设]]时；媒介效果研究、受众反应研究；社会事件参与者的主观体验研究。
+> - **适合使用** 研究者对受访者经历的情境有预先了解时；需要检验关于情境效应的具体假设时；媒介效果研究、受众反应研究；社会事件参与者的主观体验研究。
 > - **谨慎使用** 研究者缺乏情境预分析时无法发挥其优势；情境分析的质量直接决定访谈质量。
 > - **不适合使用** 完全探索性研究（研究者对情境一无所知）；受访者没有共同经历的情境。
 
@@ -100,7 +99,7 @@ updated: 2026-09-17
 ## 局限性
 
 > [!method-limits] 方法局限
-> - **偏误来源** 研究者的预分析可能遗漏重要元素或引入研究者偏见；[[Hypothesis\|假设]]驱动的提问可能限制意外发现的广度。
+> - **偏误来源** 研究者的预分析可能遗漏重要元素或引入研究者偏见；假设驱动的提问可能限制意外发现的广度。
 > - **适用边界** 依赖于研究者预分析的质量和准确性；仅适用于有共同情境经验的人群。
 > - **误用风险** 将预分析假设强加于受访者的叙述，忽视其独特的主观体验。
 > - **补救方式** 保持非引导性的访谈姿态；对未预期回应保持开放。
@@ -115,7 +114,7 @@ updated: 2026-09-17
 > |:-----|:-----|:-----|
 > | [[Qualitative Interview]] | 父方法 | 聚焦访谈是质性访谈家族中的一种特定设计。 |
 > | [[Non-directive Interview]] | 相关方法 | 聚焦访谈在非引导性访谈基础上增加了研究者的主动角色和预分析步骤。 |
-> | [[In-depth Interview]] | 相关方法 | 深度访谈更开放，聚焦访谈更集中于特定情境和预设[[Hypothesis\|假设]]。 |
+> | [[In-depth Interview]] | 相关方法 | 深度访谈更开放，聚焦访谈更集中于特定情境和预设假设。 |
 
 ---
 

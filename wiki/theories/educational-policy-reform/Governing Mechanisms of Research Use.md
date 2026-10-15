@@ -7,7 +7,7 @@ aliases:
 summary: "由 Hagevold 等人（2026）依据框架综合提出的研究使用分析框架，主张信任、技能发展、可持续结构与关系四类机制跨越并贯通个体、组织与系统层级，共同塑造学校中的研究使用"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 28
+theory_related_count: 26
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Research-Practice Partnership]]"
   - "[[Teacher Professional Agency]]"
   - "[[Institutional Distrust]]"
-  - "[[Hypothesis]]"
   - "[[Abstract]]"
   - "[[Evaluation Research]]"
   - "[[Professional Judgment]]"
@@ -42,7 +41,6 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Framework Synthesis]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Systematic Review]]"
   - "[[Case Study]]"
   - "[[Correlational Research]]"
@@ -54,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Governing Mechanisms of Research Use
@@ -114,7 +112,7 @@ updated: 2026-09-22
 > - **推导** 摆脱象征性使用需要经由可持续结构培育专业能动性，而不是依靠证据本位实践的工具性指令。
 
 > [!exegesis]- 教育研究例子
-> [[Hypothesis\|假设]]一所学校想让教师用阅读教学研究改进课堂。只提供[[Abstract\|研究摘要]]或下达必须按证据教学的指令（工具性强制）通常流于象征性套用；按治理机制框架，校方需要建立信任（让教师相信试错不会受罚）、组织可持续结构（固定教研时间讨论研究）、发展技能（培训检索与[[Evaluation Research\|评估研究]]）并维护关系（与研究者或学区建立伙伴关系），四者同时运转，研究才可能被整合进[[Professional Judgment\|专业判断]]而不是被简单照搬。
+> 假设一所学校想让教师用阅读教学研究改进课堂。只提供[[Abstract\|研究摘要]]或下达必须按证据教学的指令（工具性强制）通常流于象征性套用；按治理机制框架，校方需要建立信任（让教师相信试错不会受罚）、组织可持续结构（固定教研时间讨论研究）、发展技能（培训检索与[[Evaluation Research\|评估研究]]）并维护关系（与研究者或学区建立伙伴关系），四者同时运转，研究才可能被整合进[[Professional Judgment\|专业判断]]而不是被简单照搬。
 
 ---
 
@@ -128,7 +126,7 @@ updated: 2026-09-22
 
 > [!theory-use] 如何用于研究
 > - **作为理论框架** 把[[Research Question\|研究问题]]从教师为何不用研究重构为哪些跨层机制塑造并可能[[Translational Research\|转化研究]]使用。
-> - **作为分析工具** 提供[[Coding in Qualitative Research\|编码]]与分析维度（信任、技能发展、可持续结构、关系），用于[[Systematic Review\|系统综述]]、[[Case Study\|案例研究]]与调查设计。
+> - **作为分析工具** 提供编码与分析维度（信任、技能发展、可持续结构、关系），用于[[Systematic Review\|系统综述]]、[[Case Study\|案例研究]]与调查设计。
 > - **作为批判视角** 批判把研究使用归因于个体缺陷的"缺陷框定"，并把注意力转向系统性生产这种缺陷的条件。
 > - **报告方式** 报告时应区分先验框架（[[Quality Use of Research Evidence Framework\|QURE]]）与修订框架（四机制）的演化关系，并说明机制识别依赖团队解释性协商。
 

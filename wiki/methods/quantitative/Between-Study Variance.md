@@ -9,7 +9,7 @@ summary: "随机效应元分析中衡量超出抽样误差之外的初级研究�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 19
+method_related_count: 18
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Sampling Error]]"
   - "[[Heterogeneity]]"
   - "[[Study Population and Sample]]"
-  - "[[Hypothesis]]"
   - "[[Discourse]]"
 related_theories: []
 related_methods:
@@ -47,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Between-Study Variance
@@ -74,7 +73,7 @@ updated: 2026-10-07
 > | **数学性质** | 真实效应分布的方差参数 | 真实效应分布的标准差 | 异质性方差占总变异的百分比（$0\%–100\%$） | 加权离差平方和统计量 |
 > | **量纲尺度** | 效应量的平方尺度（如 $g^2, d^2$） | 与效应量相同尺度（如 $g, d, r$） | 无量纲（相对比例） | 服从 $\chi^2_{k-1}$ 分布 |
 > | **[[Sample Size Determination\|样本量]]敏感性** | 不随初级研究样本量 $N$ 系统性变动 | 不随样本量系统性变动 | 随初级[[Study Population and Sample\|研究样本]]量增大而趋向升高 | 极度依赖样本量与研究数 $k$ |
-> | **主要用途** | 分配随机效应权重、计算[[Prediction Interval\|预测区间]] | 直观解读真实效应在总体中的波动幅度 | 向读者报告异质性严重程度等级 | [[Hypothesis\|假设]]检验判定异质性是否显著存在 |
+> | **主要用途** | 分配随机效应权重、计算[[Prediction Interval\|预测区间]] | 直观解读真实效应在总体中的波动幅度 | 向读者报告异质性严重程度等级 | 假设检验判定异质性是否显著存在 |
 
 ---
 

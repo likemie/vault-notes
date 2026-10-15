@@ -53,24 +53,24 @@ related_concepts:
   - "[[Space of Equivalence]]"
   - "[[Governing by Numbers]]"
   - "[[Higher-Order Thinking Skills]]"
-  - "[[Document]]"
   - "[[International Baccalaureate]]"
   - "[[Floor and Ceiling Effects]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Praxis]]"
+  - "[[Problem Solving]]"
 related_theories: []
 related_methods:
   - "[[Multitrait-Multimethod Matrix]]"
   - "[[Scale Development]]"
   - "[[Manipulation Check]]"
   - "[[Questionnaire]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Confirmatory Factor Analysis]]"
   - "[[Test-Retest Reliability]]"
   - "[[Member Checking]]"
   - "[[Ethnography]]"
   - "[[Meta-analysis]]"
   - "[[Qualitative Research]]"
+  - "[[Coding in Qualitative Research]]"
   - "[[Causal Modeling]]"
   - "[[Internal Consistency]]"
   - "[[Cronbach's Alpha]]"
@@ -99,7 +99,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Construct Validity
@@ -135,7 +135,7 @@ updated: 2026-10-14
 > [!contrast-table] [[Construct|构念]]效度在不同研究情境中的形态对照
 > | 比较维度 | 心理测量与调查量表 | 实验干预操纵 | 质性经验范畴 | 宏观政策评价体系（清算中心） | 跨国大规模测评（如 [[PISA]]） |
 > |:---|:---|:---|:---|:---|:---|
-> | **[[Unit of Analysis\|分析单位]]** | [[Questionnaire\|问卷]]题项、测验总分与维度 | 实验处理程序、任务设置、[[Dependent Variable\|因变量]] | [[Coding in Qualitative Research\|编码]]节点、本土概念、生活经验 | 教育清算中心评级标签（如 Recommended） | 跨国标准化试题、等值分值与联赛排行榜 |
+> | **[[Unit of Analysis\|分析单位]]** | [[Questionnaire\|问卷]]题项、测验总分与维度 | 实验处理程序、任务设置、[[Dependent Variable\|因变量]] | 编码节点、本土概念、生活经验 | 教育清算中心评级标签（如 Recommended） | 跨国标准化试题、等值分值与联赛排行榜 |
 > | **核心检验问题** | 题目是否真正测出了心理特质 | 实验刺激是否纯净表征了因果[[Variable\|变量]] | 理论范畴是否反映参与者真实意义 | “基于证据”标签是否代表客观特质 | 测评工具是否真正表征了本土实质素养而非去脉络统计等值 |
 > | **主要威胁** | 题项表征不足、语言理解干扰 | [[Hawthorne Effect\|霍桑效应]]、[[Experimenter Bias\|实验者偏差]]、处理混杂 | 研究者理论强加、脱离情境脉络 | 综合门槛割裂、跨机构评级大面积对立 | 为追求跨国[[Reliability\|信度]][[Epoché\|悬置]]教育[[Ontology\|本体论]]、构念不足呈现与文化无关方差 |
 > | **典型验证方式** | [[Confirmatory Factor Analysis\|验证性因子分析]]、[[Test-Retest Reliability\|重测信度]]、区分相关 | 操作性检查（[[Manipulation Check]]） | 成员核对（[[Member Checking]]）、[[Ethnography\|民族志]][[Rich and Thick Description\|深描]] | [[Multitrait-Multimethod Matrix\|MTMM]] 跨机构评级一致性与收敛性检验 | 跨文化等值性审查、教育本体论与情境效度批判分析 |
@@ -217,7 +217,7 @@ updated: 2026-10-14
 > 课程目标、任务设置与评分标准内部高度自洽时，仍可能共同系统性遗漏目标构念的重要核心。
 
 > [!claim] [[Argument_Hughes_2014_JRIE|Hughes (2014)]]
-> **内部呼应下的构念不足呈现** 分析 IB [[Theory of Knowledge|知识论]]（ToK）课程发现，尽管指南在[[Knowledge Questions|知识问题]]与评分描述符之间形成了良好的内部呼应，但由于未系统考核批判性阅读、来源质疑、[[Hypothesis|假设]]检验与反思决策，该课程在其声称培养的“[[Critical Thinking|批判性思维]]”构念上出现了严重的不足呈现。内部对齐不能替代对外部目标构念完整性的独立审查。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 38–43)]]
+> **内部呼应下的构念不足呈现** 分析 IB [[Theory of Knowledge|知识论]]（ToK）课程发现，尽管指南在[[Knowledge Questions|知识问题]]与评分描述符之间形成了良好的内部呼应，但由于未系统考核批判性阅读、来源质疑、假设检验与反思决策，该课程在其声称培养的“[[Critical Thinking|批判性思维]]”构念上出现了严重的不足呈现。内部对齐不能替代对外部目标构念完整性的独立审查。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 38–43)]]
 
 ---
 
@@ -247,7 +247,7 @@ updated: 2026-10-14
 ## 概念演变
 
 > [!dev-timeline] [[Construct|构念]]效度概念的历史演进
-> - **1957 — 效度女王地位确立** Jane Loevinger 发表经典[[Document|文献]]，将构念效度确立为所有效度类型的核心与统摄框架，指出[[Content Validity|内容效度]]与[[Criterion-related Validity|效标效度]]最终都必须汇入构念解释之中。
+> - **1957 — 效度女王地位确立** Jane Loevinger 发表经典文献，将构念效度确立为所有效度类型的核心与统摄框架，指出[[Content Validity|内容效度]]与[[Criterion-related Validity|效标效度]]最终都必须汇入构念解释之中。
 > - **1959 — [[Multitrait-Multimethod Matrix|MTMM]] 矩阵开创经验检验路径** Donald Campbell 与 Donald Fiske 提出多质多法（MTMM）分析矩阵，使构念效度从纯哲学概念转变为具备定量检验规程的实证方法。
 > - **1992 — 质性范畴与行动者意义融入** Margaret Eisenhart 与 Kenneth Howe 提出[[Qualitative Research|质性研究]]的效度标准，主张[[Coding in Qualitative Research|质性编码]]范畴必须反映参与者的生活经验与主体意义，丰富了构念效度的人文维度。
 > - **2000 年代 — 跨国测评中的[[Reliability|信度]]优先与构念效度危机批判** 里兹维与林加德等比较政策学者揭示，在 [[PISA]] 等国际大规模测评中，组织者为追求跨国统计信度与全球等值[[Commensuration|通约]]空间，系统性牺牲了对本土教育实质与多元文化脉络的构念效度，实施了激进的[[Ontology|本体论]][[Epoché|悬置]]。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 448)]]
@@ -261,7 +261,7 @@ updated: 2026-10-14
 > [!proc] 建立[[Construct\|构念]]效度论证的六步规程
 > 1. **严密界定构念** 说明理论定义、构成要素、排他性边界及潜在竞争解释。
 > 2. **细化[[Operationalization\|操作化]]映射** 建立双向细目表，将题项、任务或评价标准逐一映射至构念维度，识别遗漏与无关污染。
-> 3. **多元汇集经验证据** 结合[[Document\|文献]]逻辑、专家判断、内部因子结构、[[Multitrait-Multimethod Matrix\|MTMM]] 收敛与判别关系及质性主体意义。
+> 3. **多元汇集经验证据** 结合文献逻辑、专家判断、内部因子结构、[[Multitrait-Multimethod Matrix\|MTMM]] 收敛与判别关系及质性主体意义。
 > 4. **系统排查反例与方法效应** 主动寻找反常数据、天花板/[[Floor and Ceiling Effects\|地板效应]]、社会赞许性偏差与特定方法人工副产物。
 > 5. **限定解释适用范围** 明确声明有效性结论适用的群体特征、语言版本、实施情境与具体决策目的。
 > 6. **动态迭代与再验证** 当工具被翻译、修改、缩减或应用于新情境时，重新启动构念效度验证分析([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch. 8]])。
@@ -305,7 +305,7 @@ updated: 2026-10-14
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |:---|:---|:---|:---|:---|:---:|:---|
 > | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] | 10 个清算中心审查的 1,359 个去重教育项目 | [[Multitrait-Multimethod Matrix\|MTMM]] 跨平台一致性检验 | 评级[[Convergent and Discriminant Validity\|收敛效度]] (Table 8) | 2-CH 评级对中完全一致率仅 **30.5%**（其中共同推荐 1&1 仅 1.2%）；**完全对立冲突 (1&3) 高达 35.4%** | 全样本去重配对核算 | 揭示清算中心“循证”构念[[Praxis\|实践]]效度有限 |
-> | [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] | [[International Baccalaureate\|IB]] [[Theory of Knowledge\|知识论]] (ToK) 课程大纲与评估指南 | [[Content Analysis\|内容分析]]与构念映射 | [[Critical Thinking\|批判性思维]]构念表征率 | 8 个批判性思维核心维度中，指南仅覆盖 2 项（论证与反主张），其余 6 项（批判阅读、[[Hypothesis\|假设]]检验、问题解决等）均未进入评分标准 | 系统文本[[Coding in Qualitative Research\|质性编码]] | 揭示课程评估中内部对齐与构念不足呈现并存 |
+> | [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] | [[International Baccalaureate\|IB]] [[Theory of Knowledge\|知识论]] (ToK) 课程大纲与评估指南 | [[Content Analysis\|内容分析]]与构念映射 | [[Critical Thinking\|批判性思维]]构念表征率 | 8 个批判性思维核心维度中，指南仅覆盖 2 项（论证与反主张），其余 6 项（批判阅读、假设检验、[[Problem Solving\|问题解决]]等）均未进入评分标准 | 系统文本[[Coding in Qualitative Research\|质性编码]] | 揭示课程评估中内部对齐与构念不足呈现并存 |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011)]] | 测量学实验与调查设计案例 | 方法论论证与反例分析 | 构念对应性与方差分解 | 证明削铅笔测验与智力构念相关近乎为 0；数学测验中阅读负荷导致无关方差占比显著上升 | 测量学经典理论案例 | 阐明[[Operationalization\|操作化]]相容性与无关方差机制 |
 > | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009)]] | [[OECD\|经合组织]]历届 [[PISA]] 测评框架、技术报告与政策文本 | 批判性政策社会学与测评技术剖析 | 跨国统计信度与等值空间建构对构念效度与[[Ontology\|本体论]]的剥离 | PISA 试题脱离国家课程标准，将跨国[[Reliability\|信度]]绝对优先于情境构念效度，[[Epoché\|悬置]]教育本体论多样性 | 概念批判与制度分析 | 揭示跨国[[Governing by Numbers\|数字治理]]中信度优先对构念效度的系统性挤压 |
 

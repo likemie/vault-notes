@@ -11,7 +11,7 @@ summary: "在教育干预试验与复杂项目评价中与量化成效评估并�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 55
+method_related_count: 54
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -31,14 +31,14 @@ related_concepts:
   - "[[Variable]]"
   - "[[Meta-Representational Competence]]"
   - "[[Logic Model]]"
+  - "[[School Autonomy]]"
   - "[[Statistical Analysis Plan]]"
   - "[[Preregistration]]"
   - "[[Counterfactual]]"
   - "[[Homework]]"
   - "[[Evidence Ecosystem]]"
-  - "[[Attrition]]"
   - "[[Champ]]"
-  - "[[Hypothesis]]"
+  - "[[Attrition]]"
   - "[[Causality]]"
   - "[[Heterogeneity]]"
   - "[[Hawthorne Effect]]"
@@ -64,7 +64,6 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Joint Display]]"
   - "[[Classroom Observation]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Questionnaire]]"
   - "[[Qualitative Interview]]"
   - "[[Complier Average Causal Effect]]"
@@ -85,7 +84,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Implementation and Process Evaluation
@@ -136,10 +135,10 @@ updated: 2026-10-15
 > [!proc] 实施与过程评估（IPE）的四阶段标准操作规程
 > 1. **阶段一：前期[[Logic Model\|逻辑模型]]与核心活性成分界定（Pre-Trial Specification）**
 >    - 与项目研发团队协同构建理论变革模型（[[Theory of Change]]），清晰勾勒干预的因果传导路径与预期中介[[Variable\|变量]]。
->    - 对照[[TIDieR\|干预描述与复制模板]]（Template for Intervention Description and Replication，TIDieR），严格界定干预的核心活性成分（Active Ingredients）、关键操作规程、必须严格遵守的刚性要素以及允许学校自主微调的弹性边界（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 54]]）。
+>    - 对照[[TIDieR\|干预描述与复制模板]]（Template for Intervention Description and Replication，TIDieR），严格界定干预的核心活性成分（Active Ingredients）、关键操作规程、必须严格遵守的刚性要素以及允许[[School Autonomy|学校自主]]微调的弹性边界（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 54]]）。
 >    - 在[[Statistical Analysis Plan\|统计分析计划]]（Statistical Analysis Plan，SAP）[[Preregistration\|预注册]]阶段，明确将依从性量化测量口径与过程质性采样子样本抽样方案纳入规程。
 > 2. **阶段二：[[Implementation Fidelity\|实施保真度]]与依从性多源监测（In-Trial Monitoring）**
->    - 运用结构化[[Classroom Observation|课堂观察]][[Coding in Qualitative Research\|编码]]表、教师培训签到出勤记录、线上平台交互日志及材料使用记录，多维度追踪方案落地。
+>    - 运用结构化[[Classroom Observation|课堂观察]]编码表、教师培训签到出勤记录、线上平台交互日志及材料使用记录，多维度追踪方案落地。
 >    - 系统核查实施保真度（Fidelity）、递送剂量（Dosage）、目标群体触达度（[[Reach]]）及师生接受度（Acceptability），量化从计划分配到实际接受干预的递送衰减。
 > 3. **阶段三：[[Business as Usual\|常态教学]]对照组追踪与[[Counterfactual\|反事实]]澄清（Counterfactual Investigation）**
 >    - 深入对照组学校开展[[Questionnaire\|问卷调查]]、课程表审查与访谈，详细记录常态教学（business as usual）的具体实践与替代性资源使用情况。
@@ -156,7 +155,7 @@ updated: 2026-10-15
 > | 评估维度 | 核心核查内容 | 典型收集工具与数据形式 |
 > |---|---|---|
 > | **干预方案要素界定** | 明确界定干预的核心要素（Active Ingredients）、理论变革模型（[[Theory of Change\|Theory of Change]]）与不可替代的操作规程，对照干预描述与复制模板（Template for Intervention Description and Replication，TIDieR）准则规范记录。 | 项目手册、培训规程、理论因果图。 |
-> | **[[Implementation Fidelity\|实施保真度]]与适应性** | 评估学校与教师在多大程度上按照原设计方案执行干预；识别基层学校所做的合规适应与破坏性偏离。 | 课堂观察[[Coding in Qualitative Research\|编码]]表、培训出勤记录、实施自评量表。 |
+> | **[[Implementation Fidelity\|实施保真度]]与适应性** | 评估学校与教师在多大程度上按照原设计方案执行干预；识别基层学校所做的合规适应与破坏性偏离。 | [[Classroom Observation\|课堂观察]]编码表、培训出勤记录、实施自评量表。 |
 > | **干预剂量与参与依从性** | 记录参与者实际接受干预的时长、频次与完成比例；测量从意向性分析（Intention-to-Treat Analysis，[[Intent-to-Treat Analysis\|ITT]]）到实际接受处理的依从衰减。 | 线上平台打卡日志、学生签到表、[[Homework\|作业]]提交记录。 |
 > | **对照组常态活动追踪** | 详尽调查对照组学校在实验期间开展的[[Business as Usual\|常态教学]]（business as usual）具体内容，排查是否存在对照组自发引入类似干预的污染现象。 | 对照组教师[[Questionnaire\|问卷调查]]、课程表核查、替代项目访谈。 |
 > | **因果机制与中介路径** | 检验理论预设的中介[[Variable\|变量]]是否被干预激活；探究干预如何通过改变师生互动、认知负荷或学习动机最终转化为成绩提升。 | 过程测验、师生[[Semi-structured Interview\|半结构化访谈]]、中介效应统计分析。 |
@@ -168,8 +167,8 @@ updated: 2026-10-15
 
 > [!method-fit] 适用判断
 > - **适合使用** 涉及人际多层级复杂互动、[[Organizational Culture\|组织文化]]变革或教师教学法重构的教育与社会政策试验；需要同时回答干预在何种情境下有效以及如何发挥作用（Why and How）的重大政策决策评估；具有大规模推广意向并需建立标准化操作规范的项目（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 53–54]]）；以及旨在提升全校[[Research Utilization\|证据使用]]素养与优化[[Evidence Ecosystem\|证据生态系统]]的深层形成性诊断（[[Argument_Rickinson_2022_ER\|Rickinson et al., 2022a, p. 145]]）。
-> - **谨慎使用** 试验周期极短、[[Sample Size Determination\|样本量]]极小且缺乏理论准备的探索性微型干预；学校行政与教学压力极其沉重、受试者面临高度评估疲劳与高[[Attrition\|流失]]风险的紧张[[Champ\|场域]]。
-> - **不适合使用** 仅用于项目验收或结项造势的事后质性拼凑；在缺乏明确因果[[Hypothesis\|假设]]对照或缺乏基础量化结果指标验证的情境下单列主观感受调查。
+> - **谨慎使用** 试验周期极短、[[Sample Size Determination\|样本量]]极小且缺乏理论准备的探索性微型干预；学校行政与教学压力极其沉重、受试者面临高度评估疲劳与高流失风险的紧张[[Champ\|场域]]。
+> - **不适合使用** 仅用于项目验收或结项造势的事后质性拼凑；在缺乏明确因果假设对照或缺乏基础量化结果指标验证的情境下单列主观感受调查。
 
 ---
 
@@ -179,7 +178,7 @@ updated: 2026-10-15
 > - **受试者调研负担沉重** 在收集主学业测验数据之外增加高频度深入访谈、[[Classroom Observation|课堂观察]]与[[Questionnaire\|问卷]]，极易引发基层教师抵触情绪，甚至加剧试验[[Attrition\|样本流失]]。需通过优化工具设计、整合常规行政数据与无感痕迹监测减轻负担。
 > - **质性与量化整合的时序与伦理冲突** 若过程评估在试验中途发现严重执行偏差，是否中途介入纠偏构成了方法学与伦理悖论（提前纠偏破坏[[Randomised Controlled Trials\|随机对照试验]]的[[Preregistration\|预注册]]一致性与内部[[Causality\|因果推断]]，不纠偏则导致公共资金与师生时间浪费）。
 > - **多中心试验中的情境[[Heterogeneity\|异质性]]与抽样偏差** 在数十乃至数百所学校开展的大规模试验中，[[Qualitative Observation\|质性观察]]难以做到全样本覆盖，若质性个案抽样偏袒合作度高的学校，会系统性削弱过程结论的代表性。
-> - **主观偏倚与[[Hawthorne Effect\|霍桑效应]]** 观察人员的主观诠释偏差以及教师因被观察而产生的表现效应会干扰保真度评分。需通过预先培训校准[[Coding in Qualitative Research\|编码]][[Reliability\|信度]]、[[Evaluator Independence\|独立评估者]]进驻与多源数据[[Triangulation\|三角互证]]予以平抑。
+> - **主观偏倚与[[Hawthorne Effect\|霍桑效应]]** 观察人员的主观诠释偏差以及教师因被观察而产生的表现效应会干扰保真度评分。需通过预先培训校准编码[[Reliability\|信度]]、[[Evaluator Independence\|独立评估者]]进驻与多源数据[[Triangulation\|三角互证]]予以平抑。
 
 ---
 

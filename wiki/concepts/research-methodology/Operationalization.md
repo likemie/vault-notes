@@ -4,7 +4,7 @@ aliases: ["操作化", "operationalizing research", "研究操作化"]
 summary: "将一般研究目的逐层分解为具体、可回答的研究问题或可检验的假设的过程，是研究规划中从抽象到具体的关键步骤。"
 type: concept
 domain: "research-methodology"
-related_count: 33
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -13,7 +13,6 @@ related_concepts:
   - "[[Research Purpose]]"
   - "[[Abstract]]"
   - "[[Research Question]]"
-  - "[[Hypothesis]]"
   - "[[Directional and Non-directional Hypotheses]]"
   - "[[Variable]]"
   - "[[Null Hypothesis]]"
@@ -28,8 +27,8 @@ related_concepts:
   - "[[Ecological Validity]]"
   - "[[Feedback]]"
   - "[[Research Practicability]]"
+  - "[[Hypothesis]]"
   - "[[Fitness for Purpose]]"
-  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Semi-structured Interview]]"
@@ -89,7 +88,7 @@ updated: 2026-10-15
 
 ## 假设的操作化
 
-操作化的另一种形式是将[[Research Purpose|研究目的]]转化为可检验的[[Hypothesis|假设]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.129–131]]）。
+操作化的另一种形式是将[[Research Purpose|研究目的]]转化为可检验的假设（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, pp.129–131]]）。
 
 > [!feature] 好假设在操作化层面的特征
 > - **方向性清晰** [[Directional and Non-directional Hypotheses\|方向性假设]]陈述两个条件或两组参与者之间差异或关系的方向；非方向性假设仅预测存在差异或关系，不陈述方向。方向性假设通常用于已有研究或理论提示发现可能走向特定方向的情境（p.129）。
@@ -185,7 +184,7 @@ Wilson & McLean（1994, pp. 8–9）提出替代路径：识别[[Research Questi
 
 ## 相关研究
 
-> [!evidence-grid-a] 核心实证研究与[[Document|文献]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al. (2011, pp. 126–131)]] — 系统阐明操作化五步推进程序、[[Hypothesis|假设]]操作化的方向性与可检验性原则，以及问题数量约束。
+> [!evidence-grid-a] 核心实证研究与文献索引
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al. (2011, pp. 126–131)]] — 系统阐明操作化五步推进程序、假设操作化的方向性与可检验性原则，以及问题数量约束。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al. (2011, pp. 108–113)]] — 详述[[Questionnaire|问卷]]设计中的三步操作化路径，确立从宏观目的到子议题再到具体信息需求的转化逻辑。
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 示范多层级教育[[Construct|构念]]操作化（4 领域 $\rightarrow$ 10 要素 $\rightarrow$ 28 项行为描述符）、低推论快照与高推论行为锚定双轨机制及 N/A 边界控制。

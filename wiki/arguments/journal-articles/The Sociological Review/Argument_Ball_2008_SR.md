@@ -18,7 +18,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Knowledge Production]]"
-  - "[[Document]]"
   - "[[Political Arithmetic]]"
   - "[[New Sociology of Education]]"
   - "[[School Effectiveness]]"
@@ -45,7 +44,7 @@ title: "Argument_Ball_2008_SR"
 argument_key: "Argument_Ball_2008_SR"
 argument_display_title: "Some sociologies of education: A history of problems and places, and segments and gazes"
 argument_kind: "journal-article"
-argument_related_count: 16
+argument_related_count: 15
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -75,7 +74,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info] 研究方法
-> 这是一篇理论性学科史与知识社会学分析，不是经验研究。材料包括英国教育社会学的代表性[[Document\|文献]]、机构位置、政策事件和学术争论；论证重点是把这些材料组织成三个历史片段：1930-1960 年代的 [[Political Arithmetic]]、1970 年代的 [[New Sociology of Education]]、1980 年代以后通向政策研究和 [[School Effectiveness]] 的转向(pp.650-651)。
+> 这是一篇理论性学科史与知识社会学分析，不是经验研究。材料包括英国教育社会学的代表性文献、机构位置、政策事件和学术争论；论证重点是把这些材料组织成三个历史片段：1930-1960 年代的 [[Political Arithmetic]]、1970 年代的 [[New Sociology of Education]]、1980 年代以后通向政策研究和 [[School Effectiveness]] 的转向(pp.650-651)。
 
 ## 论证结构
 

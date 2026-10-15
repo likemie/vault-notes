@@ -14,10 +14,10 @@ aliases:
 summary: "由 Ray Pawson 与 Nick Tilley 创立并经 Bonell 等人发展的科学实在论评估理论与实验范式，主张干预通过在特定背景中向受试者提供资源并激活其推理而产生非线性结果，倡导以多臂析因设计与过程评估打破因果黑箱，并将评估核心拓展至观察者制度位置与时间尺度对变迁定性的深层制约。"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 50
-theory_related_level: 6
-theory_related_stars: "⭐⭐⭐⭐⭐⭐"
-theory_related_color: "#fef3c7"
+theory_related_count: 49
+theory_related_level: 5
+theory_related_stars: "⭐⭐⭐⭐⭐"
+theory_related_color: "#ffedd5"
 tags:
   - theory/evaluation
   - method/evaluation
@@ -35,7 +35,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Dependent Variable]]"
   - "[[Self-Efficacy]]"
-  - "[[Hypothesis]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
@@ -81,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-06-19'
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Realist Evaluation
@@ -158,7 +157,7 @@ updated: 2026-10-12
 > [!theory-proposition] 命题三｜复杂干预的有效性评估必须融合多臂[[Factorial Design|析因设计]]与[[Implementation and Process Evaluation|过程评估]]以打破因果黑箱（现实主义试验假说）
 > **解释** 现实主义评估并不排斥量化实验，而是推动传统黑箱[[Randomised Controlled Trials|随机对照试验]]（RCT）向现实主义试验（Realist Trials）升级：通过[[Multi-Arm Trial|多臂试验]]与[[Factorial Design|析因设计]]剥离复合干预的独立组件与[[Interaction Effect|交互效应]]，测度中介传导路径，并在多元生态中实施跨地点试验以检验情境交互变异；同时嵌入[[Implementation and Process Evaluation|实施与过程评估]]（IPE），严密区分方案理论无效与现场实施走样（Bonell et al., 2012, p. 2299；Craig et al., 2008；[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 53–54]]）。
 >
-> **应用实例** 英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）的“[[Literacy Octopus|识字八爪鱼]]”（Literacy Octopus）多臂试验动员全英 800 余所小学，系统对比了邮件寄送、主动培训与深度入校指导等 4 种机制，证实被动寄送材料的因果净效应为零，从而否定了“寄送研究报告即可改变教学”的浅层[[Hypothesis|假设]]，倒逼国家循证体系走向深耕基层的[[Research Schools Network|研究学校网络]]（Lord et al., 2017）。
+> **应用实例** 英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）的“[[Literacy Octopus|识字八爪鱼]]”（Literacy Octopus）多臂试验动员全英 800 余所小学，系统对比了邮件寄送、主动培训与深度入校指导等 4 种机制，证实被动寄送材料的因果净效应为零，从而否定了“寄送研究报告即可改变教学”的浅层假设，倒逼国家循证体系走向深耕基层的[[Research Schools Network|研究学校网络]]（Lord et al., 2017）。
 
 > [!theory-proposition] 命题四｜去情境化统计聚合抹杀机制变异，[[Meta-analysis|元分析]][[Effect Size|效应量]]无法充当单一政策依据（去情境化批判）
 > **解释** 将脱离具体情境的研究结果简单粗暴地放入[[Meta-analysis|元分析]]中计算平均[[Effect Size|效应量]]是朴素[[Empiricism|经验主义]]的严重盲视。这种“数据洗涤”抹杀了导致干预成败的关键微观机制与学校生态背景，掩盖了不同群体或亚组间的结构性差异（Pawson, 2006；[[Argument_Wrigley_2018_BERJ|Wrigley, 2018, p. 13]]）。
@@ -234,7 +233,7 @@ updated: 2026-10-12
 > [!case] 从黑箱因果走向现实主义试验：[[Education Endowment Foundation|EEF]] 复杂干预的多臂析因与机制深耕（[[Argument_Edovald_Nevill_2021_ECNUROE|Edovald & Nevill, 2021, pp. 53–54]]）
 > - **理论黑箱的实践挑战** 传统双臂[[Randomised Controlled Trials|随机对照试验]]仅能汇报最终因果[[Effect Size|效应量]]，当试验出现零效应时，决策者无法判断究竟是干预理论根本错误，还是基层在培训、沟通或技术操作上发生了实施走样（Craig et al., 2008）。
 > - **多臂[[Factorial Design|析因设计]]的机制突破** 为打开机制黑箱，英国教育捐赠基金会（EEF）积极推进现实主义试验设计：
->   1. **“[[Literacy Octopus|识字八爪鱼]]”[[Multi-Arm Trial|多臂试验]]（Literacy Octopus Trial，Lord et al., 2017）** 动员全英 800 余所小学，设置多个实验臂系统对比了 4 种证据传播与教学支持机制（涵盖被动邮件资料寄送、主动研讨会培训以及专家驻校深度指导）。结果证实，单向被动寄送循证材料对学生成绩的净效应为零，从而直接否定了“只要寄送研究报告就能改变实践”的浅层[[Hypothesis|假设]]，倒逼英格兰转向建立深入学校基层的[[Research Schools Network|研究学校网络]]（Research Schools Network）。
+>   1. **“[[Literacy Octopus|识字八爪鱼]]”[[Multi-Arm Trial|多臂试验]]（Literacy Octopus Trial，Lord et al., 2017）** 动员全英 800 余所小学，设置多个实验臂系统对比了 4 种证据传播与教学支持机制（涵盖被动邮件资料寄送、主动研讨会培训以及专家驻校深度指导）。结果证实，单向被动寄送循证材料对学生成绩的净效应为零，从而直接否定了“只要寄送研究报告就能改变实践”的浅层假设，倒逼英格兰转向建立深入学校基层的[[Research Schools Network|研究学校网络]]（Research Schools Network）。
 >   2. **ABRA 在线阅读多臂试验（McNally et al., 2018）** 评估者系统剥离了技术软件[[Learner Autonomy|自主学习]]与教师面对面主导辅导的独立与[[Interaction Effect|交互效应]]，为数字化教学的资源配置提供了精细因果证据。
 > - **制度化机制指标渗透** 经过方法学深化，目前 EEF 资助的试验中已有 **90% 至少包含一个次要结局指标或中介机制度量**（Nevill, 2019a），全面践行了 Bonell et al. (2012) 提出的现实主义试验标准。
 

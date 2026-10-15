@@ -9,7 +9,7 @@ aliases:
 summary: "指创新活动不仅具有研发投入与扩散速率等数量维度，更具有明确的规范性社会目标与价值取向；公共政策的核心使命在于通过战略引导、规制重构、需求侧牵引与市场塑造，主动克服方向性失灵并引领技术轨道朝向绿色、包容、安全与可持续转型。"
 type: concept
 domain: "science-policy"
-related_count: 43
+related_count: 42
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -38,7 +38,6 @@ related_concepts:
   - "[[Modern Industrial Policy]]"
   - "[[Paradigm]]"
   - "[[Emergence]]"
-  - "[[Document]]"
   - "[[Competitiveness]]"
   - "[[Technology-Oriented Social Contract]]"
   - "[[Complexity Paradox]]"
@@ -71,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Directionality of Innovation
@@ -229,7 +228,7 @@ updated: 2026-10-09
 > [!ref-table]- 关键实证案例与政策指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究[[Document\|文献]] | 观察情境与样本 | 方向性干预领域 | 政策工具与投入规模 | 核心成效与制度发现 |
+> | 研究文献 | 观察情境与样本 | 方向性干预领域 | 政策工具与投入规模 | 核心成效与制度发现 |
 > |:---|:---|:---|:---|:---|
 > | [[Argument_OxfordUIDP_2019_UIPartnerships\|Oxford & UIDP (2019)]] | [[Netherlands Top-sector Policy\|荷兰顶级行业政策]]（Netherlands Top-sector Policy） | 确定农业食品、生命健康等九大重点方向 | 保持全社会 R&D 强度约 2.0% 的同时，推行 1:1 公私配套资助与产业路线图 | 私营部门研发出资实现翻倍，推动荷兰全球[[Competitiveness\|竞争力]]指数升至世界前四，证实明确的方向性引导能大幅提升[[Systems of Innovation\|创新系统]]产出质量 |
 > | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | 美国《[[CHIPS and Science Act\|芯片与科学法案]]》与微电子体系重构（2020–2026） | 先进制程本土回流、开源标准掌控与微电子工程人才梯队 | 授权 2000 亿美元研发支出与 527 亿美元直接制造资助，启动 [[Joint University Microelectronics Program 2.0\|JUMP 2.0]] 跨校攻坚 | 促成[[Taiwan Semiconductor Manufacturing Corporation\|台积电]]、英特尔等 24 家企业集聚凤凰城；JUMP 2.0 动员 14 所顶尖大学协同攻坚异构集成，系统验证了国家安全作为创新方向性牵引的巨大动员效能 |

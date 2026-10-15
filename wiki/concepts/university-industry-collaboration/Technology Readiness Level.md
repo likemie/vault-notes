@@ -10,7 +10,7 @@ aliases:
 summary: "由美国国家航空航天局（NASA）于 1970 年代创设并在全球科技与产业政策中广泛应用的 9 级技术成熟度标准化评估架构（从 TRL 1 基础原理观察到 TRL 9 真实环境运行验证）。在国家微电子战略中，TRL 4–7 构成大学实验室与规模化量产之间的核心中试断层；通过全要素中试平台、共享设计赋能网关（DEG）与洁净室跨界共置，能够有效桥接早期科学突破向工业级成熟度的演进并实现双向闭环反馈。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 43
+related_count: 42
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -42,7 +42,6 @@ related_concepts:
   - "[[Cost of Ownership]]"
   - "[[Variable]]"
   - "[[Translational Research]]"
-  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods:
   - "[[In-depth Interview]]"
@@ -74,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-29
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Technology Readiness Level
@@ -254,7 +253,7 @@ updated: 2026-10-10
 > | [[Pilot Scale Platform]] | Concept | 专门用于推进技术在 TRL 4–7 开展工艺放大、[[Reliability\|可靠性]]认证与试生产的共性基础设施。 |
 > | [[Proof of Concept Programs]] | Concept | 旨在帮助高校早期实验室成果从 TRL 3 推进至 TRL 4–5 的概念验证资助机制。 |
 > | [[University Spin-Out]] | Concept | 依托高校专利设立的初创企业，其早期发展高度受制于 TRL 成熟度。 |
-> | [[Translational Research]] | Concept | TRL 各阶段跨越所依托的微观与宏观知识[[Transfer Translation Transformation\|转译]]、工程化与制度调试过程。 |
+> | [[Translational Research]] | Concept | TRL 各阶段跨越所依托的微观与宏观[[Research Translation\|知识转译]]、工程化与制度调试过程。 |
 > | [[National Strategy on Microelectronics Research]] | Fact (Policy) | 将建立支撑 TRL 4–7 的联邦化中试平台列为第二核心支柱的国家战略。 |
 > | [[National Semiconductor Technology Center]] | Fact (Organization) | 依据[[CHIPS and Science Act\|芯片法案]]建立的国家级中试转化中心，统筹推进微电子领域 TRL 4–7 中试攻关。 |
 > | [[Microelectronics Commons]] | Fact (Program) | 国防部资助的 8 大区域中试枢纽，承接大学实验室原型向 TRL 3–4 工程放大。 |

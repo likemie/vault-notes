@@ -32,8 +32,8 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Positivism]]"
   - "[[Epistemology]]"
+  - "[[Habitus]]"
   - "[[Science and Technology Studies]]"
-  - "[[Document]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Emergence]]"
 related_theories: []
@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Rob Kitchin
@@ -104,7 +104,7 @@ updated: 2026-10-07
 ## 核心思想
 
 > [!claim] 核心主张
-> 基钦主张瓦解“数据客观真实”的技术[[Positivism\|实证主义]]神话，指出任何数据集、算法模型与监测仪表盘都不是对现实的中立反映，而是由[[Epistemology\|认识论假设]]、法律规范、财政资源、硬件设施与组织惯习共同构成的“[[Data Infrastructure\|数据汇聚体]]”（Data [[Assemblage]]）；数据的生产与流转过程始终是一套被制造、被过滤、被治理的技术政治实践。
+> 基钦主张瓦解“数据客观真实”的技术[[Positivism\|实证主义]]神话，指出任何数据集、算法模型与监测仪表盘都不是对现实的中立反映，而是由[[Epistemology\|认识论假设]]、法律规范、财政资源、硬件设施与组织[[Habitus|惯习]]共同构成的“[[Data Infrastructure\|数据汇聚体]]”（Data [[Assemblage]]）；数据的生产与流转过程始终是一套被制造、被过滤、被治理的技术政治实践。
 
 > [!citation-card] 基钦论数据汇聚体的复合构成
 > 数据汇聚体由思想体系、客观知识、物质设备、财政模式、制度结构、法律与政治体制以及主体实践等相互交织的异质元素组成，它不仅规范着数据如何生成，更直接塑造了数据能够生产何种治理效能。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, p. 2)]]
@@ -137,7 +137,7 @@ updated: 2026-10-07
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **合作者** Tracey Lauriault — 加拿大卡尔顿大学学者，共同撰写批判性数据研究纲领性[[Document\|文献]]。
+> - **合作者** Tracey Lauriault — 加拿大卡尔顿大学学者，共同撰写批判性数据研究纲领性文献。
 > - **合作者** Martin Dodge — 英国曼彻斯特大学地理学者，共同奠定代码/空间与地图绘制批判研究。
 > - **思想受益与扩展者** [[Sigrid Hartong]] — 将基钦的[[Data Infrastructure\|数据汇聚体]]框架全面引入学校监测与教育行政基础设施分析。
 

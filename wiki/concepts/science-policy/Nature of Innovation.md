@@ -2,7 +2,7 @@
 summary: "演化经济学与科技政策的核心本体论概念，指创新在本质上并非线性的静态要素组合，而是具有根本不确定性、累积路径依赖、集体分布式共创、非中性方向性及反思实验演化的复杂系统突变过程；构成了超越新古典市场失灵假说与确立现代使命导向治理的理论原点。"
 type: concept
 domain: "science-policy"
-related_count: 25
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -15,7 +15,6 @@ tags:
   - ontology-of-innovation
 related_concepts:
   - "[[Ontology]]"
-  - "[[Hypothesis]]"
   - "[[Market Failure]]"
   - "[[Paradigm]]"
   - "[[Agile Governance]]"
@@ -47,7 +46,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-09
+updated: 2026-10-15
 title: Nature of Innovation
 aliases:
   - 创新本质
@@ -63,7 +62,7 @@ aliases:
 ## 定义
 
 > [!def] 核心定义
-> **创新的本质（Nature of Innovation / 创新本质）**是指科技变迁与社会经济系统中“创新”活动所固有的[[Ontology|本体论]]特征与演化规律。在[[Evolutionary Economics|演化经济学]]（Evolutionary Economics）与现代科技政策理论中，创新被界定为一种非线性的、充满根本不确定性的、具有[[Path Dependence|路径依赖]]与集体共创属性的复杂动态突变过程（Schumpeter, 1911; Nelson & Winter, 1982; Dosi, 1982）。它彻底打破了传统新古典经济学将创新视为“已知生产函数外生平移”或“静态研发要素线性转化”的机械[[Hypothesis|假设]]。[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）强调，唯有深刻把握创新的本质属性，公共部门才能摆脱将干预局限于修补[[Market Failure|市场失灵]]与微观合规评估的旧[[Paradigm|范式]]，转而构建具备[[Agile Governance|敏捷试错]]与反思学习能力的[[Public Dynamic Capabilities|公共部门动态能力]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–792)]]
+> **创新的本质（Nature of Innovation / 创新本质）**是指科技变迁与社会经济系统中“创新”活动所固有的[[Ontology|本体论]]特征与演化规律。在[[Evolutionary Economics|演化经济学]]（Evolutionary Economics）与现代科技政策理论中，创新被界定为一种非线性的、充满根本不确定性的、具有[[Path Dependence|路径依赖]]与集体共创属性的复杂动态突变过程（Schumpeter, 1911; Nelson & Winter, 1982; Dosi, 1982）。它彻底打破了传统新古典经济学将创新视为“已知生产函数外生平移”或“静态研发要素线性转化”的机械假设。[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）与[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）强调，唯有深刻把握创新的本质属性，公共部门才能摆脱将干预局限于修补[[Market Failure|市场失灵]]与微观合规评估的旧[[Paradigm|范式]]，转而构建具备[[Agile Governance|敏捷试错]]与反思学习能力的[[Public Dynamic Capabilities|公共部门动态能力]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–792)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 确立了对创新现象的演化世界观：创新不是按部就班的工程计算，而是高度依赖试错、探索与意外发现的质变跃迁。

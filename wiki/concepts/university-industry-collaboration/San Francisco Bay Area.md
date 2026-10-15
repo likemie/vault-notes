@@ -8,7 +8,7 @@ aliases:
 summary: "地处美国加利福尼亚州北部的全球科技创新高地，以硅谷为核心集聚斯坦福大学等顶尖高校，以电子信息、半导体与生物医药为支柱，依托禁止竞业限制法规、企业衍生网络、多层次风险投资及跨辖区专业协调机制，形成自下而上的自组织区域创新生态系统。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 22
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Innovation Park]]"
   - "[[New York Bay Area]]"
   - "[[Tokyo Bay Area]]"
-  - "[[Document]]"
   - "[[Dual In-Line Package]]"
   - "[[Research Translation]]"
   - "[[Assemblage]]"
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-11
-updated: 2026-10-06
+updated: 2026-10-15
 ---
 
 # San Francisco Bay Area
@@ -88,7 +87,7 @@ updated: 2026-10-06
 > | **主导产业** | 电子信息、半导体、人工智能、生物医药 | 现代金融服务业、金融科技（Fintech）、传媒 | 汽车制造、精密仪器、重化工业、电子硬件 |
 > | **驱动机制** | [[Technology Transfer\|大学技术转移]] + 风险投资 + 自发企业衍生 | 雄厚金融资本保障 + 市场应用场景牵引 | 产官学紧密协同 + 跨国大财团内部研发 |
 > | **协调模式** | ABAG 等半官方专业委员会跨辖区协商 | 州际港务局统筹与市政精细化产业减税 | 政府制定长期国土规划与工业分散战略 |
-> | **代表[[Document\|文献]]** | [[Argument_Zhang_2023_PHEI\|张寒旭等 (2023)]]; [[Argument_Lecuyer_1999_HT\|Lécuyer (1999)]] | 张寒旭等 | 张寒旭等 |
+> | **代表文献** | [[Argument_Zhang_2023_PHEI\|张寒旭等 (2023)]]; [[Argument_Lecuyer_1999_HT\|Lécuyer (1999)]] | 张寒旭等 | 张寒旭等 |
 
 ---
 
@@ -197,14 +196,14 @@ updated: 2026-10-06
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Zhang_2023_PHEI\|张寒旭等 (2023, 第4章)]] | 旧金山湾区创新资源与空间格局分析 | 跨国湾区比较研究与案例分析 | 高校资源、功能分区与治理主体 | 聚集 20 多所世界一流大学；涵盖旧金山、南湾、东湾、北湾、半岛 5 大功能分区；建立 ABAG、MTC 等 4 大跨区域协调机构 | 官方统计与学术[[Document\|文献]]梳理 | 证实多中心分工与专业公共机构治理是维持自下而上生态的关键 |
+> | [[Argument_Zhang_2023_PHEI\|张寒旭等 (2023, 第4章)]] | 旧金山湾区创新资源与空间格局分析 | 跨国湾区比较研究与案例分析 | 高校资源、功能分区与治理主体 | 聚集 20 多所世界一流大学；涵盖旧金山、南湾、东湾、北湾、半岛 5 大功能分区；建立 ABAG、MTC 等 4 大跨区域协调机构 | 官方统计与学术文献梳理 | 证实多中心分工与专业公共机构治理是维持自下而上生态的关键 |
 > | [[Argument_Lecuyer_1999_HT\|Lécuyer (1999, pp. 180, 194)]] | 1957–1972 年旧金山湾区半导体企业史与产业演变 | [[Archival Research\|档案研究]]与口述历史 | 衍生企业数量、市场份额与降价幅度 | [[Fairchild Semiconductor\|仙童半导体]]在湾区直接或间接衍生出 30 余家高科技企业；1968 年占全美商用计算机 IC 市场 80% 份额；1963–1964 年晶体管降价 95%、集成电路降价 90% | 企业未公开备忘录与访谈记录 | 证实企业衍生网络与前瞻性降价是推动技术转变为[[General Purpose Technology\|通用目的技术]]的主动力 |
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] 核心来源[[Document|文献]]索引
+> [!evidence-grid-a] 核心来源文献索引
 > - [[Argument_Zhang_2023_PHEI|张寒旭等 (2023)]] — 系统剖析了旧金山湾区的自组织创新体系、产学研协同、风险投资与跨辖区协调机制，并与[[New York Bay Area|纽约湾区]]和[[Tokyo Bay Area|东京湾区]]进行了横向对比。
 > - [[Argument_Lecuyer_1999_HT|Lécuyer (1999)]] — 从微观企业史和制造演进角度，详细考证了[[Fairchild Semiconductor|仙童半导体]]在旧金山湾区的发展、衍生企业网络繁衍、[[Application Engineering|应用工程]]开拓及全球离岸制造分工的形成历程。
 

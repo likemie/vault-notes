@@ -9,7 +9,7 @@ aliases:
 summary: "指美国参众两院议员在联邦预算法案中利用立法特权直接塞入、定向划拨给本选区特定大学或产学中心的科研资助；该机制彻底绕开了同行评议程序，既引发学术界关于科研政治分肥、资源错配与择优公信力受损的严厉批评，又在保守派意识形态打压显性产业政策的背景下充当了向地方输送研发资本、建立产学协同中心的隐蔽制度通道。"
 type: concept
 domain: "science-policy"
-related_count: 29
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Matthew Effect in Academia]]"
   - "[[University-Industry Collaboration]]"
   - "[[Variable]]"
-  - "[[Document]]"
   - "[[Counterpart Funds]]"
   - "[[Academic Risk Aversion]]"
   - "[[Evaluation Research]]"
@@ -191,7 +190,7 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Atkinson_2008_TIS\|Atkinson & Blanpied (2008)]] | 1980–2000 年代全美高校科研专项拨款规模与大学声誉追踪 | 历史政策分析与[[Document\|文献]]档案追踪 | 专项拨款总额、科研专项占比与学术声誉变动 | 科研专项拨款占全部国会专项拨款总额比例较小；未发现任何受资助二线高校因获得专项大楼而学术声誉获得实质性提升 | 历史描述性统计与定性评估 | 证实单纯物质硬件输入无法替代学术队伍引育与博士培养等长周期学术积累 |
+> | [[Argument_Atkinson_2008_TIS\|Atkinson & Blanpied (2008)]] | 1980–2000 年代全美高校科研专项拨款规模与大学声誉追踪 | 历史政策分析与文献档案追踪 | 专项拨款总额、科研专项占比与学术声誉变动 | 科研专项拨款占全部国会专项拨款总额比例较小；未发现任何受资助二线高校因获得专项大楼而学术声誉获得实质性提升 | 历史描述性统计与定性评估 | 证实单纯物质硬件输入无法替代学术队伍引育与博士培养等长周期学术积累 |
 > | [[Argument_Block_2008_PS\|Block (2008)]] | 1994–2006 年国会预算博弈、[[Advanced Technology Program\|ATP]] 削减与微观产学合作中心资助 | [[Historical Institutionalism\|历史制度主义]]与科技政策预算流向考察 | ATP 预算削减幅度、国会专项设立产学中心数量与企业配套杠杆 | 1996 财年 ATP 预算由克林顿计划的数亿美元被砍至 **1900 万美元**（后勉强恢复至 1.5 亿美元）；与此同时，国会通过专项拨款持续向地方产学中心注入资金；[[National Science Foundation\|NSF]] 模式产学中心吸引企业 **1:10** 配比出资并催生高技术溢出 | 政治经济学案例与政策档案追踪 | 证实专项拨款在公开反产业政策修辞下充当维持地方产学协同的替代性制度通道 |
 
 > [!example] 典型制度实践案例
@@ -218,7 +217,7 @@ updated: 2026-10-15
 > | [[Academic Start-up Packages]] | Concept | 与专项大楼形成对比的、面向一线青年科研人员的校级实质性科研配套启动机制。 |
 > | [[Fred Block]] | Person | 揭示专项拨款作为隐蔽发展型网络国家财政通道与产学中心生产性功能的社会学家。 |
 > | [[Richard C. Atkinson]] | Person | 前加州[[Grandes Ecoles\|大学校]]长与 NSF 主任，系统批判科研专项拨款规避同行评议的代表学者。 |
-> | [[Argument_Atkinson_2008_TIS\|Atkinson & Blanpied (2008)]] | Argument | 从学术评价正统与大学治理视角系统批判科研专项拨款的权威[[Document\|文献]]。 |
+> | [[Argument_Atkinson_2008_TIS\|Atkinson & Blanpied (2008)]] | Argument | 从学术评价正统与大学治理视角系统批判科研专项拨款的权威文献。 |
 > | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 从隐蔽发展型网络国家视角阐明专项拨款制度功能与局部生产性的理论来源。 |
 
 ---

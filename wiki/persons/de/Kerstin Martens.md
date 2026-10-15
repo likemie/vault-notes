@@ -6,7 +6,7 @@ summary: "德国不来梅大学国际关系与全球社会政策教授，德国�
 type: person
 nationality: "de"
 person_region: "de"
-person_related_count: 29
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -30,13 +30,11 @@ related_concepts:
   - "[[Policy Brokerage]]"
   - "[[Peer Pressure]]"
   - "[[Façade of Rationality]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Scaffolding]]"
   - "[[Epistemology]]"
   - "[[Constructivist Paradigm]]"
   - "[[Policy Borrowing]]"
   - "[[Paradigm]]"
-  - "[[Document]]"
   - "[[Demonstration Effect]]"
   - "[[Critical Thinking Disposition]]"
   - "[[Dialogue in Education]]"
@@ -47,7 +45,6 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
-  - "[[Isaiah Berlin]]"
   - "[[Christian Ydesen]]"
   - "[[Gita Steiner-Khamsi]]"
 related_facts:
@@ -59,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Kerstin Martens
@@ -84,7 +81,7 @@ updated: 2026-10-14
 
 > [!timeline] 生平与职涯
 > - **1974** 出生于德国。
-> - **2003** 获英国牛津大学与德国[[Isaiah Berlin|柏林]]自由大学联合培养政治学博士学位，专注研究非政府组织在联合国的制度化参与。
+> - **2003** 获英国牛津大学与德国柏林自由大学联合培养政治学博士学位，专注研究非政府组织在联合国的制度化参与。
 > - **2005–2009** 在不来梅大学“国家转型”（TranState）特种研究领域（SFB 597）担任高级研究员，主持[[OECD\|经合组织]]对民族国家教育政策影响的跨国比较项目。
 > - **2010** 与 Ansgar Weymann 等合著出版《经合组织治理机制：国家决策的国际激励？》（*Mechanisms of OECD Governance*，牛津大学出版社）。
 > - **2013** 与丹尼斯·尼曼（Dennis Niemann）在《比较教育评论》（*Comparative Education Review*）发表奠基性论文《[[Soft Power by Hard Facts\|以硬事实施展软权力]]：经合组织、[[PISA]] 与教育治理》（*[[Soft Power]] by Hard Facts*）。
@@ -114,7 +111,7 @@ updated: 2026-10-14
 ## 核心思想
 
 > [!claim] 核心主张
-> 当代全球治理中，国际组织的权威基础已从传统的条约法律强制转移至对专业知识与测量指标的垄断性生产。面对现代公共决策固有的歧义性与政治不确定性，国际组织扮演着超级“[[Policy Brokerage\|政策中介]]”的角色；通过将自身的法定使命（如促进经济增长、维护国际和平、保障自由贸易）[[Transfer Translation Transformation\|转译]]并强行嵌入教育政策议程，国际组织利用量化指标构筑起坚硬的“[[Façade of Rationality\|理性表象]]”[[Scaffolding\|脚手架]]，以看似不偏不倚的科学硬事实施展强大的软性[[Epistemology\|认识论]]规制，驱动全球公共政策形成无强制的制度趋同。
+> 当代全球治理中，国际组织的权威基础已从传统的条约法律强制转移至对专业知识与测量指标的垄断性生产。面对现代公共决策固有的歧义性与政治不确定性，国际组织扮演着超级“[[Policy Brokerage\|政策中介]]”的角色；通过将自身的法定使命（如促进经济增长、维护国际和平、保障自由贸易）转译并强行嵌入教育政策议程，国际组织利用量化指标构筑起坚硬的“[[Façade of Rationality\|理性表象]]”[[Scaffolding\|脚手架]]，以看似不偏不倚的科学硬事实施展强大的软性[[Epistemology\|认识论]]规制，驱动全球公共政策形成无强制的制度趋同。
 
 > [!citation-card] 硬事实构筑软性规制霸权的核心逻辑
 > [[OECD\|经合组织]]并不具备发布具有约束力的国际法指令的权力，其治理完全依托于对‘事实’的排他性定义；通过将错综复杂的社会现象转化为跨国可比的指标与排名，它成功为决策者构筑了无可辩驳的理性表象，从而在各国政治系统内部激发强烈的政策焦虑与跟进意愿。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 537–539)]]
@@ -127,7 +124,7 @@ updated: 2026-10-14
 
 > [!influence-path] 影响路径
 > - **理论路径** 极大地推动了国际关系学“[[Constructivist Paradigm\|建构主义]]/制度主义”与比较教育学“[[Policy Borrowing\|政策借用]]与借用”的[[Paradigm\|范式]]融合，为剖析国际组织非强制性权威提供了最清晰的分析工具。
-> - **方法路径** 开创性地将国际组织章程[[Document\|文献]]的量化[[Content Analysis\|内容分析]]与全球数据库建设（IO-ED）引入全球治理研究。
+> - **方法路径** 开创性地将国际组织章程文献的量化[[Content Analysis\|内容分析]]与全球数据库建设（IO-ED）引入全球治理研究。
 > - **政策路径** 促使欧洲议会与多国教育决策智库重新审视[[OECD\|经合组织]]等外部经济组织发布的指标建议，警惕其工具性使命对国家教育本体价值的扭曲。
 > - **跨国／跨领域传播** 成果跨越比较政治学、社会政策学、公共行政学与教育学，在全欧乃至全球社会科学界产生跨学科[[Demonstration Effect|示范效应]]。
 

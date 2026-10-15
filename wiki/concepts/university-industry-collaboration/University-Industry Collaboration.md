@@ -10,7 +10,7 @@ aliases:
 summary: "大学与企业之间在正式协议框架下建立的有目的、深协同的制度化参与关系，横跨研究学术、教育学习与公共效益三大维度；其历史历经战后脱钩与 1980 年代法制重构，在释放实体创新潜力的同时伴生微观组织碎片化与代工车间异化的深层张力。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 93
+related_count: 91
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -59,7 +59,6 @@ related_concepts:
   - "[[Knowledge Transfer]]"
   - "[[Public Value]]"
   - "[[Big Science]]"
-  - "[[Document]]"
   - "[[Academic Health System]]"
   - "[[Cooperative Education]]"
   - "[[Membership-based Research Consortium]]"
@@ -73,7 +72,6 @@ related_methods:
   - "[[Matching]]"
   - "[[In-depth Interview]]"
 related_persons:
-  - "[[Peter A. Hall]]"
   - "[[Fred Block]]"
 related_facts:
   - "[[National Science Foundation]]"
@@ -138,7 +136,7 @@ updated: 2026-10-15
 > - **边界** 不等于单向的[[Technology Transfer|技术转移]]（后者仅聚焦专利许可交易）；不等于松散的校企社交人际关系；也不等同于企业对大学的无偿慈善捐赠。
 
 > [!citation-card] 产学协同的实质性内涵
-> 博坎富索与[[Peter A. Hall|霍尔]]阐明了现代产学合作的根本属性：
+> 博坎富索与霍尔阐明了现代产学合作的根本属性：
 > 
 > 本书的基石观念在于，产学合作的力量和影响力绝非仅仅源于大学与企业之间的一般性人脉关系，而必须体现为深度参与——即在研究与学术、教育与学习以及公共效益三大核心领域的全面对齐与实质协作。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, p. 4)]]
 
@@ -319,7 +317,7 @@ updated: 2026-10-15
 > > [!axis] 组织整合愿景 vs 微观治理现实
 > > 宏观三螺旋理论所描绘的顺畅协同与高校内部高度碎片化的科层现实存在巨大落差。
 > >
-> > - **博坎富索与[[Peter A. Hall|霍尔]]（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b]]）** 实证指出大学中心产学机构平均仅覆盖 3.5 项业务职能，各院系自发孤立运作，外部期望的“一站式窗口”往往流于形式。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, pp. 60–65)]]
+> > - **博坎富索与霍尔（[[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall, 2025b]]）** 实证指出大学中心产学机构平均仅覆盖 3.5 项业务职能，各院系自发孤立运作，外部期望的“一站式窗口”往往流于形式。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, pp. 60–65)]]
 >
 > > [!axis] [[Securitization of Technology|技术安全化]]管控 vs 全球开放产学[[Innovation Ecosystem|创新生态]]
 > > 地缘政治博弈下国家安全审查与出口管制对高校跨国产学合作构成的结构性约束。
@@ -352,7 +350,7 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid] 相关[[Document|文献]]索引
+> [!evidence-grid] 相关文献索引
 > - [[Argument_Atkinson_2008_TIS|Atkinson & Blanpied (2008)]] — 系统重构二战前企业研发主导、冷战时期战后产学严重脱钩，以及 1978 年 [[National Science Foundation|NSF]] 长期 [[Engineering Research Centers|ERC]] 试点与《[[Bayh-Dole Act of 1980|拜杜法案]]》重塑产学共生的历史制度历程，尖锐警示高校异化为工业“代工车间”的风险。
 > - [[Argument_Block_2008_PS|Block (2008)]] — 基于《R&D 100》大奖实证追踪证实战后大企业独立研发体系的瓦解，系统论证[[Developmental Network State|发展型网络国家]]如何通过 NSF、[[Advanced Technology Program|ATP]] 与 [[Sematech]] 扮演“网络经纪人”，以对等资助引导大学与企业组建[[Precompetitive Research|前竞争研发]]联合体以跨越[[Valley of Death|死亡之谷]]，并深入批判[[Market Fundamentalism|市场原教旨主义]]对公共产学协同网络的制度性遮蔽。
 > - [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall (2025b)]] — 奠定产学参与涵盖科研、育人与公共效益的三维理论框架，实证调查 65 所顶尖大学五类组织模式，揭示宏观一体化与微观碎片化的张力。
@@ -390,5 +388,5 @@ updated: 2026-10-15
 > | [[CHIPS and Science Act]] | Fact (Policy) | 推动设立 [[National Science and Technology Council\|NSTC]] 与[[Innovation Hub\|区域创新中心]]、系统重塑大学在国家战略产业中角色的现代法案。 |
 > | [[National Semiconductor Technology Center]] | Fact (Organization) | 《芯片法案》下设立的国家级产学研协同平台与先进原型流片网络。 |
 > | [[Fred Block]] | Person | 提出发展型网络国家理论并实证揭示美国产学研跨组织协同网络演进的经济社会学家。 |
-> | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 实证解构美国战后分散化网络创新体系与政府产学协同经纪职能的核心[[Document\|文献]]。 |
-> | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | Argument | 系统论述美国[[Research Universities\|研究型大学]]在国家半导体战略体系中四维角色重构与学术自主张力的实证[[Document\|文献]]。 |
+> | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 实证解构美国战后分散化网络创新体系与政府产学协同经纪职能的核心文献。 |
+> | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | Argument | 系统论述美国[[Research Universities\|研究型大学]]在国家半导体战略体系中四维角色重构与学术自主张力的实证文献。 |

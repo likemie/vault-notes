@@ -6,7 +6,7 @@ aliases:
 summary: "学习科学中的经典教学范式，通过示范、辅导、支架、阐明、反思与探索六大方法将专家的隐性认知与问题解决过程外显化，使新手逐步获得高阶思维能力"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 16
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Scaffolding]]"
   - "[[Wicked Problem]]"
-  - "[[Hypothesis]]"
   - "[[Critical Thinking]]"
   - "[[Direct Instruction]]"
   - "[[Task Structure]]"
@@ -41,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-05
+updated: 2026-10-15
 ---
 
 # Cognitive Apprenticeship
@@ -54,7 +53,7 @@ updated: 2026-10-05
 > 认知[[Apprenticeship|学徒制]]（Cognitive Apprenticeship）是由 Collins, Brown, & Newman (1989) 提出的学习科学经典教学模式。它将传统手工业中的“师傅带徒弟”机制迁移至抽象认知与[[Higher-Order Thinking Skills\|高阶思维]]领域（如阅读理解、数学解题、科学探究与批判性论证），通过**使思维外显化（Making Thinking Visible）**，让导师（专家）在真实情境中示范并辅导复杂的认知与[[Metacognition\|元认知]]策略，引导新手在[[Scaffolding\|脚手架]]支持下逐步掌握独立解决[[Wicked Problem|劣构问题]]的专家能力。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 287–288)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 专家不仅示范显性的操作动作，更关键是通过出声思考（Think-aloud）展示隐蔽的元认知监控、[[Hypothesis\|假设]]权衡与错误修正策略。
+> - **含义** 专家不仅示范显性的操作动作，更关键是通过出声思考（Think-aloud）展示隐蔽的元认知监控、假设权衡与错误修正策略。
 > - **用途** 用于解决抽象知识脱离实际应用情境的“惰性知识”（Inert Knowledge）难题，为高级[[Critical Thinking\|批判性思维]]教学提供操作性流程。
 > - **边界** 必须植根于真实、复杂的应用情境；脱离真实任务的机械示范与重复练习不属于认知学徒制。
 
@@ -75,7 +74,7 @@ updated: 2026-10-05
 ## 核心要素：六大教学方法（Six Instructional Methods）
 
 > [!feature] 认知[[Apprenticeship|学徒制]]的六大教学策略体系
-> - **示范（Modeling）** 导师在真实任务中执行解题过程，通过出声思考显性化其思维路径、[[Hypothesis\|假设]]审查与策略选择。
+> - **示范（Modeling）** 导师在真实任务中执行解题过程，通过出声思考显性化其思维路径、假设审查与策略选择。
 > - **辅导（Coaching）** 在学生尝试执行任务时，导师进行实时观察，提供精准点拨、反馈、线索提醒与[[Task Structure\|任务结构]]重组。
 > - **支架与渐退（[[Scaffolding]] & Fading）** 导师提供认知支架（如提问句干、流程向导、[[Concept Mapping\|概念图]]），随着学生能力增长逐步撤除支持，将控制权移交学生。
 > - **阐明（Articulation）** 要求学生清晰表达并辩护自己的推理过程、概念模型与解题依据，实现知识的显性化。

@@ -9,7 +9,7 @@ summary: "批判取向的质性教育政策研究方法与认识论范式，将�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 33
+method_related_count: 32
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -44,7 +44,6 @@ related_theories:
 related_methods:
   - "[[Triangulation]]"
   - "[[Effect Size]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Ideology Critique]]"
   - "[[Documentary Analysis]]"
   - "[[Correlational Research]]"
@@ -61,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Critical Policy Analysis
@@ -122,7 +121,7 @@ updated: 2026-10-07
 
 > [!proc] 质性分析程序
 > 1. **两版文本对比分析** 对比初版草案与妥协法案在核心术语（如阅读定义、科研标准）上的字句增删与法律内涵漂移（[[Argument_Edmondson_2005_EPAA|Edmondson, 2005, p. 5]]）。
-> 2. **话语权力谱系[[Coding in Qualitative Research|编码]]** 编码谁的证词被完整照搬为立法辩论要点，谁的研究成果被直接定性为“非科学”或“意识形态偏见”。
+> 2. **话语权力谱系编码** 编码谁的证词被完整照搬为立法辩论要点，谁的研究成果被直接定性为“非科学”或“意识形态偏见”。
 > 3. **隐喻洞察与意识形态[[Rich and Thick Description|深描]]** 引入[[Plato|柏拉图]]“洞穴囚徒”隐喻，探究投射在洞穴墙壁上的幻影（如“阅读危机”、“唯一科学拼读法”）是由何种政治经济结构所制造（Parker, 2003; [[Argument_Edmondson_2005_EPAA|Edmondson, 2005, p. 12]]）。
 > 4. **[[Triangulation|三角互证]]检验** 将国会记录、督察长调查报告、学者公开质询与商业出版商年报进行跨文本勾连验证。
 

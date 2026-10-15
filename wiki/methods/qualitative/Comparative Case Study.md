@@ -8,7 +8,7 @@ summary: "Bartlett 与 Vavrus 提出的突破传统封闭单元的比较研究�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 45
+method_related_count: 43
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -19,7 +19,6 @@ tags:
   - policy-analysis
   - method/qualitative
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[State Educational Sovereignty]]"
   - "[[Unit of Analysis]]"
   - "[[Policy Mobility]]"
@@ -46,7 +45,6 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Fieldwork]]"
   - "[[Semi-structured Interview]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Observation]]"
   - "[[Documentary Analysis]]"
   - "[[Experimental Research]]"
@@ -82,7 +80,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 方法定义
-> 比较[[Case Study|案例研究]]（Comparative Case Study, CCS）是由巴特利特与瓦夫鲁斯（Bartlett & Vavrus, 2017）提出的一种突破传统封闭单元[[Hypothesis|假设]]的质性比较研究方法。CCS 拒绝将案例视作预先给定且边界固定的容器，而是确立了**过程性的“建构案例”（casing）**取向——案例是在研究过程中被理论与实证选择持续生产出来的。通过**水平轴**（跨地点比较复杂连接的政策展开）、**垂直轴**（跨越微观、国家与超国家多重尺度）与**横贯轴**（历时性追溯历史沿革）的三维协同运作，实现对复杂社会与教育治理现象的立体剖析。[[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022, p. 202)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–110)]]
+> 比较[[Case Study|案例研究]]（Comparative Case Study, CCS）是由巴特利特与瓦夫鲁斯（Bartlett & Vavrus, 2017）提出的一种突破传统封闭单元假设的质性比较研究方法。CCS 拒绝将案例视作预先给定且边界固定的容器，而是确立了**过程性的“建构案例”（casing）**取向——案例是在研究过程中被理论与实证选择持续生产出来的。通过**水平轴**（跨地点比较复杂连接的政策展开）、**垂直轴**（跨越微观、国家与超国家多重尺度）与**横贯轴**（历时性追溯历史沿革）的三维协同运作，实现对复杂社会与教育治理现象的立体剖析。[[Argument_Erfurth_2022_education-hubs|(Erfurth, 2022, p. 202)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–110)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 深度嵌入全球与区域网络、跨越多重空间尺度且随历史演进的教育政策、制度革新、多边治理项目及微观课堂实践。
@@ -108,7 +106,7 @@ updated: 2026-10-15
 > [!method-stack] 方法层级
 > - **研究设计** 多地点多标度比较案例设计（Multi-sited, Multi-scalar Comparative Design）。
 > - **数据收集** 跨国/国家/地方多级政策文本、多地点[[Fieldwork|田野调查]]、关键知情人[[Semi-structured Interview|半结构化访谈]]、历史档案与国际评价数据。
-> - **分析方法** 三维轴向协同[[Coding in Qualitative Research|编码]]、跨尺度网络流动追踪、跨地点对比矩阵分析、历时制度生成追踪。
+> - **分析方法** 三维轴向协同编码、跨尺度网络流动追踪、跨地点对比矩阵分析、历时制度生成追踪。
 > - **辅助技术** [[Pluri-Scalar Governance|多标度治理]]矩阵表、[[Policy Mobility|政策流动]]轨迹可视化图、历时变迁事件年表。
 
 ---

@@ -8,7 +8,7 @@ aliases:
 summary: "质性研究中当收集新鲜数据不再引发新洞见或揭示新主题时即可停止数据收集的标准，源自扎根理论，在参与式观察中作为停止观察的判断依据"
 type: concept
 domain: "research-methodology"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,7 +24,6 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Sample Size Determination]]"
   - "[[Grounded Theory]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
   - "[[Survey Research]]"
   - "[[Correlational Research]]"
@@ -33,7 +32,7 @@ related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
 status: draft
 created: 2026-06-01
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Saturation
@@ -48,7 +47,7 @@ updated: 2026-09-17
 > [!concept-lens] 概念透镜
 > - **含义** 饱和是一种以数据为驱动的终止标准——不预设需要多少参与者，而是根据数据的信息丰富程度来判断何时停止
 > - **用途** 在无法预先确定样本量的质性研究中，饱和提供了一个理性的终止依据
-> - **边界** 饱和是事后判断的概念，无法在研究开始前预知何时达到；研究者可能因[[Coding in Qualitative Research\|编码]]框架的限制而未能看到新信息
+> - **边界** 饱和是事后判断的概念，无法在研究开始前预知何时达到；研究者可能因编码框架的限制而未能看到新信息
 
 > [!citation-card]- 经典定义
 > 当类别（或主题）达到饱和时即停止收集数据，也就是当收集新鲜数据不再引发新的洞见或揭示新的主题时。（Charmaz, 2006; 引自 Creswell & Creswell, 2022, Ch9, p. 198）
@@ -84,7 +83,7 @@ updated: 2026-09-17
 
 > [!warning] 饱和的局限性
 > - **事后性** 研究者无法在研究开始前知道何时会达到饱和，这对研究计划撰写（如博士论文开题或资助申请）造成操作困难
-> - **判断模糊性** "没有新信息出现"的标准存在模糊性：研究者可能因[[Coding in Qualitative Research\|编码]]框架的限制而未能看到新信息，而非真的没有新信息
+> - **判断模糊性** "没有新信息出现"的标准存在模糊性：研究者可能因编码框架的限制而未能看到新信息，而非真的没有新信息
 > - **过早宣称饱和** 研究者可能因时间或资源限制而过早宣称达到饱和，将便利性伪装为方法论严谨性
 
 ---

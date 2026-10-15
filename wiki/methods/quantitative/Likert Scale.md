@@ -9,7 +9,7 @@ summary: "由Rensis Likert于1932年开发的评定量表技术，提供从强�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 18
+method_related_count: 17
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -19,7 +19,6 @@ tags:
   - method/attitude-scale
   - source/textbook
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Self-Efficacy]]"
   - "[[Construct]]"
   - "[[Reliability]]"
@@ -42,14 +41,14 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-20
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 # Likert Scale
 
 ## 定义
 
 > [!def] 李克特量表
-> 李克特量表（Likert Scale）由 Rensis Likert 于 1932 年开发，是一种为给定问题或陈述提供程度渐变回应选项的[[Rating Scale\|评定量表]]。典型形式为五点评分：从"强烈不同意"到"强烈同意"，或从"完全没有"到"非常大程度"。其核心[[Hypothesis\|假设]]是**单维性**——量表每次只应测量一件事（Likert, 1932; Oppenheim, 1992, pp. 187–188）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20\|Cohen et al., 2011, Ch20, pp. 127–143]]）。
+> 李克特量表（Likert Scale）由 Rensis Likert 于 1932 年开发，是一种为给定问题或陈述提供程度渐变回应选项的[[Rating Scale\|评定量表]]。典型形式为五点评分：从"强烈不同意"到"强烈同意"，或从"完全没有"到"非常大程度"。其核心假设是**单维性**——量表每次只应测量一件事（Likert, 1932; Oppenheim, 1992, pp. 187–188）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20\|Cohen et al., 2011, Ch20, pp. 127–143]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 李克特量表是一种态度测量工具，通过要求受访者对一系列陈述表达同意程度来测量潜在态度或感知。其核心特征是提供**有序的多级回应选项**，在二分类问题的简单性与开放题的丰富性之间取得平衡。
@@ -123,7 +122,7 @@ updated: 2026-09-17
 李克特量表在使用中存在十七项系统性的警示，可从四个层面加以审视。
 
 > [!dimension] 量表设计层面的问题
-> - **（1）类别间不存在等距[[Hypothesis\|假设]]**
+> - **（1）类别间不存在等距假设**
 >
 >   评分为 4 不表示是 2 的两倍感受强度；强烈同意与不同意之间的感受强度不等于强烈不同意与同意之间的感受强度，这些是不合法推断。等距问题在瑟斯顿量表（Thurstone Scale）中得到了解决（Thurstone & Chave, 1929; Oppenheim, 1992, pp. 190–195）。Friedman & Amoo（1999, p. 115）建议，如果研究者希望假设等距，则必须确保类别描述词是真正等距的。例如在"完全没有—非常少—有一点—相当多—非常大程度"中，"有一点"与"相当多"之间的概念距离远大于"非常少"与"有一点"之间的距离，即不存在等距（pp. 131–132）。
 >
@@ -220,7 +219,7 @@ updated: 2026-09-17
 
 ### 命题一　李克特量表的单维性假设要求每次只测量一个潜在构念
 
-> [!concept-lens] 单维性[[Hypothesis\|假设]]的[[Epistemology\|认识论]]含义
+> [!concept-lens] 单维性假设的[[Epistemology\|认识论]]含义
 > 单维性既是量表设计的操作原则，也是测量效度的前提——如果量表同时测量了多个维度，则无法确定回应分数的变异来源。围绕这一前提，Likert 本人和后续方法论学者从不同角度阐述了单维性的必要性和可检验方式。
 
 > [!claim] Likert, R.（1932）
@@ -265,5 +264,5 @@ updated: 2026-09-17
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20\|Cohen et al. (2011, Ch20)]] — 在[[Questionnaire\|问卷]]题项类型一节中详细讨论了李克特量表的操作方式、常见格式、单维性[[Hypothesis\|假设]]、十七项使用警示（按四个分析维度组织）以及六点量表聚合风险的案例。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20\|Cohen et al. (2011, Ch20)]] — 在[[Questionnaire\|问卷]]题项类型一节中详细讨论了李克特量表的操作方式、常见格式、单维性假设、十七项使用警示（按四个分析维度组织）以及六点量表聚合风险的案例。
 > - [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]] — 全部 14 道题统一采用五级李克特量表（强烈同意至强烈不同意），并以逐题应答比例而非量表总分呈现结果，其中第 4 题为反向表述题。

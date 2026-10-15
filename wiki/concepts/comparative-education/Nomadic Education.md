@@ -7,7 +7,7 @@ aliases:
 summary: "游牧教育是指面向游牧及半游牧畜牧群体的教育政策与教学供给模式；它处于国家推行定居化同化规训与游牧社群维护生计自主权的双重张力之中，既被现代国家用作终结流动性并纳入行政管辖的中心工具，又被游牧家庭策略性地用作防范生计风险、积累社会资本并摆脱外部剥削依赖的家庭保障机制。"
 type: concept
 domain: "comparative-education"
-related_count: 22
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,7 +31,6 @@ related_theories:
   - "[[Social Capital Theory]]"
   - "[[Human Capital Theory]]"
 related_methods:
-  - "[[Exploratory Factor Analysis]]"
   - "[[Effect Size]]"
   - "[[Ethnography]]"
   - "[[Questionnaire]]"
@@ -48,7 +47,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Nomadic Education
@@ -126,7 +125,7 @@ updated: 2026-10-10
 > **定居化政治中介** 正规学校不仅是文化传授机构，更是社会主义与后社会主义国家推行牧民定居化政策的关键支点；国家通过集中建立[[Boarding Schools|寄宿学校]]，切断游牧儿童与传统转场实践的日常联系，将现代文明规约与定居生活[[Paradigm|范式]]深植于新一代身体记忆之中。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 366–367)]]
 
 > [!claim] Umar, A. & Tahir, G.
-> **行政统合与定居改造** 无论在尼日利亚还是伊朗等发展中国家，国家针对游牧民设立的教育项目，在顶层设计上普遍带有将松散流动部落纳入现代领地国家行政管理系统的强烈政治意图，流动性在官方[[Discourse|话语]]中常被定义为实现[[Education for All|全民教育]]（Education for All, [[Exploratory Factor Analysis|EFA]]）目标的结构性障碍。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 367)]]
+> **行政统合与定居改造** 无论在尼日利亚还是伊朗等发展中国家，国家针对游牧民设立的教育项目，在顶层设计上普遍带有将松散流动部落纳入现代领地国家行政管理系统的强烈政治意图，流动性在官方[[Discourse|话语]]中常被定义为实现[[Education for All|全民教育]]（Education for All, EFA）目标的结构性障碍。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 367)]]
 
 ---
 
@@ -154,7 +153,7 @@ updated: 2026-10-10
 
 > [!dev-timeline] 概念演变
 > - **20世纪中期 — 强制同化与定居改造阶段** 各国政府普遍将游牧状态等同于原始与愚昧，依靠强制定居点与全日制[[Boarding Schools|寄宿学校]]强制推行同化教育。
-> - **2000年左右 — [[Education for All|全民教育]]与适宜模式探索阶段** 伴随全民教育（[[Exploratory Factor Analysis|EFA]]）倡议的推进，学术界开始反思固定校舍对流动群体的排斥，[[UNESCO|联合国教科文组织]]等机构尝试探索帐篷学校、流动教师等弹性供给模式。
+> - **2000年左右 — [[Education for All|全民教育]]与适宜模式探索阶段** 伴随全民教育（EFA）倡议的推进，学术界开始反思固定校舍对流动群体的排斥，[[UNESCO|联合国教科文组织]]等机构尝试探索帐篷学校、流动教师等弹性供给模式。
 > - **2009年 — 空间治理与微观能动性反思** Sobe 与 Fischer 引入空间政治学视阈，指出游牧教育不仅关乎资源供给，更是空间围栏与边缘社群生计能动性展开博弈的典型[[Champ|场域]]。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 366–367)]]
 
 ---

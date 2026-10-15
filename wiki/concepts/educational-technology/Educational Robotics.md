@@ -82,7 +82,7 @@ updated: 2026-09-22
 > | 维度 | 教育机器人（Educational Robotics） | [[Intelligent Tutoring Systems\|智能导师系统]]（[[Time Series Design\|ITS]]） | [[Conversational AI in Education\|对话式智能体]]（Conversational AI） |
 > |---|---|---|---|
 > | **物理形态** | 具有物理实体（如仿人机器人、伴读机）或拟人化 3D 具身实体 | 纯软件界面，通常嵌入学习管理系统或题库 | 文本输入框或语音交互界面 |
-> | **角色定位** | 伴读同伴、游戏玩伴、实体[[Teaching Assistant\|助教]] | 严谨权威的个性化导师、知识诊断者 | 实时[[Dialogue in Education\|对话]]搭子、语法润色助手 |
+> | **角色定位** | 伴读同伴、游戏玩伴、实体助教 | 严谨权威的个性化导师、知识诊断者 | 实时[[Dialogue in Education\|对话]]搭子、语法润色助手 |
 > | **核心优势** | 极强的社会情感存在感与动作示范力 | 极高的步骤级推理精度与知识追踪深度 | 极低的使用门槛与灵活的多轮语言交互 |
 > | **[[Meta-analysis\|元分析]]促学效应** | $g = 0.474$（$p < .001$） | $g = 0.540$（$p < .001$） | $g = 0.468$（$p < .001$） |
 

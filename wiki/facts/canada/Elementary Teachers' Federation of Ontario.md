@@ -23,7 +23,7 @@ related_concepts:
   - "[[Knowledge Mediation]]"
   - "[[Boundary Spanner]]"
   - "[[Formative Assessment]]"
-  - "[[Transfer Translation Transformation]]"
+  - "[[Research Translation]]"
   - "[[Practice-Based Evidence]]"
   - "[[Evidence-Informed Practice]]"
 related_theories: []
@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-02
-updated: 2026-09-13
+updated: 2026-10-15
 ---
 
 # Elementary Teachers' Federation of Ontario
@@ -55,7 +55,7 @@ updated: 2026-09-13
 ## 知识中介职能与实证发现
 
 > [!claim] 教师工会作为高信任度的非学术[[Boundary Spanner\|知识经纪人]]
-> Cooper et al.（2017）针对 ETFO 成员的大规模调查揭示，在课堂[[Formative Assessment\|形成性评估]]等核心教学领域，一线教师获取有效实践信息的最主要渠道是**同行教师（other teachers）与工会主办的专业发展网络**，而非大学发表的学术期刊；ETFO 充当了将外部研究[[Transfer Translation Transformation\|转译]]为[[Practice-Based Evidence\|实践本位证据]]（Practice-Based Evidence, PBE）的强信任中介枢纽。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 130)]]
+> Cooper et al.（2017）针对 ETFO 成员的大规模调查揭示，在课堂[[Formative Assessment\|形成性评估]]等核心教学领域，一线教师获取有效实践信息的最主要渠道是**同行教师（other teachers）与工会主办的专业发展网络**，而非大学发表的学术期刊；ETFO 充当了将外部[[Research Translation|研究转译]]为[[Practice-Based Evidence\|实践本位证据]]（Practice-Based Evidence, PBE）的强信任中介枢纽。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 130)]]
 
 > [!policy-design]- ETFO 专业支持机制
 > - **同行研讨工作坊** 资助一线优秀教师担任培训师，围绕真实课堂评估案例开展同侪研磨。
@@ -68,7 +68,7 @@ updated: 2026-09-13
 
 > [!success] 核心启示
 > - **重塑[[Boundary Spanner\|知识中介者]]生态** 颠覆了“只有大学科研处或政府智库才能充当[[Knowledge Mediation\|知识中介]]”的传统偏见，证明工会等草根专业社群是证据流通不可或缺的信任纽带。
-> - **确立[[Practice-Based Evidence\|实践本位证据]]的合法地位** 实证证明了教师对同行验证过的实践证据（PBE）具有天然的高度采纳倾向，为[[Evidence-Informed Practice\|证据知情实践]]（EIP）指明了必须走社群[[Transfer Translation Transformation\|转译]]与双向互动的路径。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 130)]]
+> - **确立[[Practice-Based Evidence\|实践本位证据]]的合法地位** 实证证明了教师对同行验证过的实践证据（PBE）具有天然的高度采纳倾向，为[[Evidence-Informed Practice\|证据知情实践]]（EIP）指明了必须走社群转译与双向互动的路径。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 130)]]
 
 ---
 

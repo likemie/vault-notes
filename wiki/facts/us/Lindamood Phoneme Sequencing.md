@@ -10,7 +10,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 17
+fact_related_count: 16
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Response to Proven Instruction]]"
   - "[[Evidence Standards]]"
-  - "[[Teaching Assistant]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-24
+updated: 2026-10-15
 ---
 
 # Lindamood Phoneme Sequencing
@@ -127,5 +126,5 @@ updated: 2026-09-24
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 LiPS 列为初等阅读 Tier 2（[[Effect Size\|效应量]] $+0.64$）与 Tier 3（效应量 $+0.69$）双双达到 [[Every Student Succeeds Act\|ESSA]] 强[[Evidence Standards\|证据标准]]的标志性学术方案。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，展示如何以 LiPS 等强证据工具充实 [[Response to Intervention\|RTI]] 多层防线。
-> - [[Sound Partners]] — 同属早期语音阅读强证据代表方案，侧重受训[[Teaching Assistant\|助教]]递送；与 LiPS 形成专业教师 vs 助教辅导的双璧矩阵。
+> - [[Sound Partners]] — 同属早期语音阅读强证据代表方案，侧重受训助教递送；与 LiPS 形成专业教师 vs 助教辅导的双璧矩阵。
 > - [[Reading Recovery]] — 经典一对一专业教师辅导代表方案，共同构成全美早期个别化干预的公认标杆。

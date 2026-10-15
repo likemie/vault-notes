@@ -16,9 +16,9 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 32
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
+fact_related_count: 31
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
 tags:
   - ines
@@ -50,7 +50,6 @@ related_concepts:
   - "[[Global Education Governing Complex]]"
 related_theories: []
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_persons:
   - "[[Norberto Bottani]]"
@@ -68,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # International Indicators of Education Systems
@@ -101,7 +100,7 @@ updated: 2026-10-14
 >   - Network B：教育与劳动力市场结果（由瑞典牵头主导）；
 >   - Network C：学校组织、教学环境与师资资源（由荷兰与英国牵头主导）；
 >   - 统计专家工作组：统筹跨国数据标准化与可比性核算。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 8–9)]]
-> - **数据折算与翻译机制** 建立“成员国数据翻译协议”，促成主权国家同意对国内原始统计标准进行妥协，将其重新[[Coding in Qualitative Research\|编码]]为符合 [[OECD]] [[Definition of Terms\|操作性定义]]的通用格式。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 16)]]
+> - **数据折算与翻译机制** 建立“成员国数据翻译协议”，促成主权国家同意对国内原始统计标准进行妥协，将其重新编码为符合 [[OECD]] [[Definition of Terms\|操作性定义]]的通用格式。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 16)]]
 
 > [!citation-card] 伯塔尼论 INES 核心使命与法定职能
 > 教育系统国际指标（INES）项目的根本使命在于……收集、处理、完善并报告教育及相关领域的统计数据与指标，以便成员国决策者能够以科学和比较的眼光评估本国教育体制的运作效能。

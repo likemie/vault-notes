@@ -7,10 +7,10 @@ aliases:
 summary: "英国教育捐赠基金会（EEF）教学与学习工具包创制的政策转译指标，将标准化效应量转换为学生额外的学业成长月数，虽降低了政策传播门槛，却因忽视认知非线性成长规律与研究方法学质量而广受因果学界批评。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 21
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/educational-policy-reform
   - theme/performance-indicators
@@ -20,8 +20,6 @@ tags:
   - theme/governance-by-numbers
 related_concepts:
   - "[[Reliability]]"
-  - "[[Transfer Translation Transformation]]"
-  - "[[Hypothesis]]"
   - "[[Growth]]"
   - "[[Heterogeneity]]"
   - "[[Attrition]]"
@@ -49,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-16
-updated: 2026-09-18
+updated: 2026-10-15
 ---
 
 # Months of Progress
@@ -66,7 +64,7 @@ updated: 2026-09-18
 > - **用途** 帮助非量化统计专业出身的学校管理层与政策制定者摆脱枯燥的统计学符号，建立直观的干预效能参照系，从而在循证采购中进行快速比较决策。
 > - **边界** 属于高度简化的人工派生指标，不具备纯粹因果测量意义上的物理线性特征；不能反映原始研究的方法学可[[Reliability\|信度]]缺陷与真实数据离散分布。
 
-> [!citation-card] 戈拉德等对效应量通俗化[[Transfer Translation Transformation\|转译]]的批评
+> [!citation-card] 戈拉德等对效应量通俗化转译的批评
 > 真正易于被实践者理解与采信的研究，应当彻底剔除繁复的显著性检验包装，直接汇报干预组与对照组在[[Pre-test and Post-test\|前测与后测]]中的未调整[[Sample Size Determination\|样本量]]、均值、标准差、绝对差值及标准化效应量，使证据恢复其朴素直观的物理意义。试图将效应量过度通俗化为日常隐喻（例如 EEF 所采用的月度进步指标）在科学交流上几乎毫无优势，反而掩盖了数据本身的离散分布与真实质量。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 584)]]
 >
 > *A basic minimum for a causal study should be to report the means/scores for each group as well as overall — their standard deviations and the resulting effect sizes for pre-intervention (if available), post-intervention and gain/progress scores. There is little advantage in trying to convert effect sizes into something more everyday for better communication, like the months of progress used by EEF (Baird & Pane, 2019).*
@@ -79,12 +77,12 @@ updated: 2026-09-18
 
 ## 概念辨析
 
-> [!contrast-table] 统计指标与[[Transfer Translation Transformation\|转译]]衍生量辨析
+> [!contrast-table] 统计指标与转译衍生量辨析
 > | 维度 | 月度进步指标（Months of Progress） | 标准化效应量（Effect Size $d$ / $g$） | 原始统计量（Group Means & SD） |
 > |---|---|---|---|
 > | **表达形态** | 直观自然语言（如“+5 个月学业进展”） | 标准差单位数值（如 $d = 0.25$） | 真实分数均值与离散度（如 $M = 72.4, SD = 11.2$） |
 > | **理解门槛** | 极低（非专业校长与公众易懂） | 中等（需具备基础统计学素养） | 极低且客观透明（直接反映实际考试得分） |
-> | **线性[[Hypothesis\|假设]]** | 预设全年各年龄段匀速线性[[Growth\|成长]] | 相对标准差单位，受样本方差扰动 | 无先验模型假设，客观呈现分布 |
+> | **线性假设** | 预设全年各年龄段匀速线性[[Growth\|成长]] | 相对标准差单位，受样本方差扰动 | 无先验模型假设，客观呈现分布 |
 > | **方法学隐患** | 易掩盖原始数据失访、偏倚与质量差异 | 依赖样本同质性与方差池合并计算 | 无法跨异质测试工具进行直接综合比较 |
 
 ---
@@ -118,7 +116,7 @@ updated: 2026-09-18
 ### 命题二　日常化隐喻转译在科学交流上缺乏增量优势且系统掩盖了原始研究的方法学瑕疵与真实离散分布
 
 > [!concept-lens] 证据呈现的保真度与透明性
-> 该主张探讨证据[[Transfer Translation Transformation\|转译]]的最佳交付形式，强调科学决策应当依赖客观、未调整的原始[[Descriptive Analysis\|描述统计]]而非人为加工的通俗隐喻。
+> 该主张探讨证据转译的最佳交付形式，强调科学决策应当依赖客观、未调整的原始[[Descriptive Analysis\|描述统计]]而非人为加工的通俗隐喻。
 
 > [!claim] [[Stephen Gorard\|Gorard, S.]]
 > **坚持朴素原始统计汇报优于通俗隐喻包揽** 戈拉德等学者明确指出，将[[Effect Size Conversion\|效应量转换]]为日常通俗表述（如“月度进步”）在促进严谨决策上不仅毫无优势，反而使得决策者忽略了原始试验的[[Attrition\|样本流失]]率、测量工具偏差以及前[[Pre-test and Post-test\|后测]]绝对均值分布。高水平决策必须回归干预组与对照组的前后测均值、标准差及未调整原始效应量，还原证据质朴透明的物理形态。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 584–586)]]

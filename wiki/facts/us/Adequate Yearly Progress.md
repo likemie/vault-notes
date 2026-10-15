@@ -11,9 +11,9 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 34
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
+fact_related_count: 31
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
 period: "2002–2015"
 issuing_organization: "美国联邦教育部（U.S. Department of Education & U.S. Congress）"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Student Mobility]]"
   - "[[Transiency]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Hypothesis]]"
   - "[[Evaluation Research]]"
   - "[[Variable]]"
   - "[[Falsification]]"
@@ -39,13 +38,11 @@ related_concepts:
   - "[[Sampling Error]]"
   - "[[Scapegoat Mechanism]]"
   - "[[Migrant Children]]"
-  - "[[Document]]"
   - "[[Policy Entrepreneur]]"
   - "[[Policy Window]]"
 related_theories:
   - "[[Spatial Governmentality]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Multiple Regression]]"
   - "[[Questionnaire]]"
 related_instruments: []
@@ -68,7 +65,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Adequate Yearly Progress
@@ -135,7 +132,7 @@ updated: 2026-10-10
 > - **各州及格线的自利性调降** 由于 [[No Child Left Behind Act 2001|NCLB]] 允许各州自行决定何为“熟练”，各州面临巨大的政治恐慌：标准定得越高，未达标被制裁的学校越多；州政府因此普遍采取下调难度与切分点的防御策略，造成全美 50 州标准严重割裂。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9)]]
 > - **“临界生”（Bubble Kids）应试战术** 学校管理层发现资源平均分配无法改善达标率，因而将最优质教学资源集中倾斜给成绩处于及格线边缘的学生（即努力一把即可过关的临界生），同时放弃离及格线过于遥远的深度后进生与高分拔尖生。
 > - **挤压弱势群体的排异策略** [[Yong Zhao|赵勇]]（[[Argument_Zhao_2017_JEC|Zhao, 2017]]）指出，部分学区为确保亚群达标率，系统性地将成绩低下的特殊需求学生推向免考通道、促使其退学转校或施加严苛惩戒，引发坎贝尔定律（Campbell's Law）视角下的严重道德危机。[[Argument_Zhao_2017_JEC|(Zhao, 2017, pp. 13–15)]]
-> - **[[Student Mobility|学生流动]]的病态化[[Coding in Qualitative Research|编码]]与未达标免责推诿** 在严苛的 AYP 达标考核高压下，学校管理者将学年中途转入或转出的流动学生（[[Student Mobility|学生流动性]]）在学校报告卡中标记为破坏教学秩序的“漂泊”（[[Transiency]]）。迈克尔·奥芬伯格（Michael Offenberg, 2004）针对费城公立学校的实证研究确证，学校管理层普遍将学生高流动率作为未能达成 AYP 的核心免责辩解借口（Mitigating Factor），进而诱发学校对频繁转校的贫困学生与流动学童产生制度性防御与冷漠排斥。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–362)]]
+> - **[[Student Mobility|学生流动]]的病态化编码与未达标免责推诿** 在严苛的 AYP 达标考核高压下，学校管理者将学年中途转入或转出的流动学生（[[Student Mobility|学生流动性]]）在学校报告卡中标记为破坏教学秩序的“漂泊”（[[Transiency]]）。迈克尔·奥芬伯格（Michael Offenberg, 2004）针对费城公立学校的实证研究确证，学校管理层普遍将学生高流动率作为未能达成 AYP 的核心免责辩解借口（Mitigating Factor），进而诱发学校对频繁转校的贫困学生与流动学童产生制度性防御与冷漠排斥。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–362)]]
 
 ---
 
@@ -144,7 +141,7 @@ updated: 2026-10-10
 > [!finding-cards] 历史影响与制度评价
 > - **揭开弱势亚群教育差距的制度面纱** AYP 最具历史进步意义的贡献在于破除了“以全校平均分掩盖少数群体失败”的伪善机制，强制学校正视非裔、西裔、低收入家庭及残障学生的学习困境，确立了教育公平的数据基准。
 > - **诱发“竞相向下沉沦”并反向催化国家标准** 各州自设标准的虚假高通过率与国家统一的 [[National Assessment of Educational Progress|NAEP]] 真实测试拉开巨大鸿沟，彻底暴露了分权标准体制的破产，成为推动[[Common Core State Standards|共同核心州立标准]]（CCSS）运动的最重要政策火种。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–11)]]
-> - **空间排斥效应：将结构性不平等归咎于流动家庭与次生排异** 高利害 AYP 问责强化了学校对固定空间定居的[[Disciplina and Doctrina|规训]][[Hypothesis|假设]]，使流动性本身被赤字化[[Coding in Qualitative Research|编码]]。尽管实证表明 60% 的转学源于家庭搬迁等经济住房约束（Rumberger, 2003），且低收入家庭频繁转校往往是主动逃离暴力和劣质学校的自救策略（Kerbow et al., 2003），但 AYP 的绝对达标红线诱发学校将流动学生视作拉低达标率的制度包袱，加剧了对弱势流动学童的隐性劝退与空间排斥。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–363)]]
+> - **空间排斥效应：将结构性不平等归咎于流动家庭与次生排异** 高利害 AYP 问责强化了学校对固定空间定居的[[Disciplina and Doctrina|规训]]假设，使流动性本身被赤字化编码。尽管实证表明 60% 的转学源于家庭搬迁等经济住房约束（Rumberger, 2003），且低收入家庭频繁转校往往是主动逃离暴力和劣质学校的自救策略（Kerbow et al., 2003），但 AYP 的绝对达标红线诱发学校将流动学生视作拉低达标率的制度包袱，加剧了对弱势流动学童的隐性劝退与空间排斥。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 361–363)]]
 > - **课程生态的毁灭性收缩** 面对阅读与数学统考的生存压力，学校普遍陷入“为考而教”（Teaching to the test），科学、社会研究、艺术、音乐及体育等非统考学科课时被大幅缩减甚至取缔，导致中小学育人功能的严重单向窄化。[[Argument_Zhao_2017_JEC|(Zhao, 2017, p. 15)]]
 
 > [!effect-table]- 政策评估与实证数据
@@ -189,9 +186,9 @@ updated: 2026-10-10
 > | [[Common Core State Standards]] | 政策事实 | 借助 AYP 诱发的各州及格线下沉危机而兴起并取而代之的国家学术标准。 |
 > | [[Every Student Succeeds Act]] | 替代法案 | 2015 年终结并正式废除 AYP 联邦统一公式的替代性法规。 |
 > | [[Test-Based Accountability]] | 核心概念 | AYP 属于全球基于考试的问责制中最极端刚性的典型制度案例。 |
-> | [[Student Mobility\|学生流动性]] | 核心概念 | 在 AYP 问责体系下被学校管理者[[Coding in Qualitative Research\|编码]]为“漂泊”失范与未达标的核心免责借口。 |
+> | [[Student Mobility\|学生流动性]] | 核心概念 | 在 AYP 问责体系下被学校管理者编码为“漂泊”失范与未达标的核心免责借口。 |
 > | [[Spatial Governmentality]] | 上位理论 | 阐释 AYP 如何通过空间圈禁与指标达标将流动学童排斥为边缘异类的治理技术。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | 实证[[Document\|文献]] | 详细记录[[Policy Entrepreneur\|政策企业家]]如何动员 AYP 与 [[National Assessment of Educational Progress\|NAEP]] 差距数据撬开[[Policy Window\|政策之窗]]的经典研究。 |
+> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | 实证文献 | 详细记录[[Policy Entrepreneur\|政策企业家]]如何动员 AYP 与 [[National Assessment of Educational Progress\|NAEP]] 差距数据撬开[[Policy Window\|政策之窗]]的经典研究。 |
 > | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] | 批判论证 | 揭示 AYP 问责制如何将学生流动病态化为学校免责替罪羊与次生空间排斥的论证。 |
 
 ---

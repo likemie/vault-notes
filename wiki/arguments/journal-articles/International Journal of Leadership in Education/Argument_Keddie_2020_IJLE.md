@@ -16,7 +16,7 @@ title: "Argument_Keddie_2020_IJLE"
 argument_key: "Argument_Keddie_2020_IJLE"
 argument_display_title: "The constitution of school autonomy in Australian public education: areas of paradox for social justice"
 argument_kind: "journal-article"
-argument_related_count: 7
+argument_related_count: 6
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#dbeafe"
@@ -34,7 +34,6 @@ related_concepts:
   - "[[School Autonomy]]"
 related_theories: []
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_persons: []
@@ -75,7 +74,7 @@ citation_aliases:
 > - **样本** 42 位教育利益相关者，包括：教育官僚机构代表（12）、政府（3）、家长组织（3）、校长协会（7）、校长（4）、专业组织（3）、学术界（4）和教师工会（6）(IJLE, p.5)
 > - **地域** 四个澳大利亚州 — Victoria（14人）、NSW（8人）、Queensland（8人）、WA（10人），另有2人代表全国性协会
 > - **数据收集** 2019 年由七人研究团队进行，每次访谈 60–90 分钟，两名研究者参与以保持一致，面谈或线上
-> - **数据分析** Nvivo [[Coding in Qualitative Research\|编码]]，主题分析，以"社会正义"和"公平"为分析主题，部署悖论语言来叙述对立政治
+> - **数据分析** Nvivo 编码，主题分析，以"社会正义"和"公平"为分析主题，部署悖论语言来叙述对立政治
 > - **样本选择** 基于利益相关者在其各自组织/协会中的领导地位，及其对[[School Autonomy\|学校自主权]]改革的广泛知识和经验
 
 ## 核心论证

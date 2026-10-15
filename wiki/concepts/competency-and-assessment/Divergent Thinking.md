@@ -10,7 +10,7 @@ aliases:
 summary: "从单一问题或起点向多个不同方向生成多样化、新颖与丰富构想的认知探索过程，是创造潜能与发散性认知加工的核心操作化构念。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 56
+related_count: 55
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -42,7 +42,6 @@ related_concepts:
   - "[[Structured Teaching]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Critical Thinking]]"
-  - "[[Document]]"
   - "[[Concept Mapping]]"
   - "[[Creativity Assessment]]"
   - "[[Self-Regulated Learning]]"
@@ -85,7 +84,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Divergent Thinking
@@ -220,7 +219,7 @@ updated: 2026-10-08
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表[[Document\|文献]] |
+> | 命题类型 | 核心指向 | 适用情境 | 代表文献 |
 > |---|---|---|---|
 > | **过程构件定位** | 发散思维是创造潜能的重要指标，效应适中，属于创造力综合过程构件 | 认知测评与创造力预测 | [[Mark A. Runco\|Runco et al. (2026)]]; Cropley (2006) |
 > | **教学干预可塑性** | 发散思维可通过显式指导语与专门训练显著提升，言语认知干预增益居首，呈现中短期倒 U 型时间窗口 | 课堂思维教学、工作坊与训练课程 | Acar et al. (2020); [[Mark A. Runco\|Runco et al. (2026)]]; [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] |

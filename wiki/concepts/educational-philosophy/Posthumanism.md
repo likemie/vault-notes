@@ -5,7 +5,7 @@ aliases:
 summary: "将人类从世界中心位置移开并强调人与非人共同生成、相互依存和关系责任的思想取向，是现代人类中心主义的重要批判方向"
 type: concept
 domain: "educational-philosophy"
-related_count: 17
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,7 +17,6 @@ tags:
   - higher-ed
 related_concepts:
   - "[[Transhumanism]]"
-  - "[[Hypothesis]]"
   - "[[Humosity]]"
   - "[[Sympoiesis]]"
   - "[[Response-ability]]"
@@ -41,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-09-23
+updated: 2026-10-15
 ---
 
 ## 定义
@@ -51,7 +50,7 @@ updated: 2026-09-23
 >
 > > 例：[[Transhumanism\|超人类主义]]问："我们如何让人类更强、更聪明、活得更久？"后人类主义问："我们如何与其他物种、与地球、与彼此一起好好活、好好死？"前者以人类为中心向外扩展，后者从关系网络出发把人类放回其中。
 >
-> Amos 将后人类主义与超人类主义并置为晚期现代性的两种对立教育愿景：超人类主义是高度现代性的激进延续（不朽、理性、自主、自我设计），后人类主义则与现代性的核心[[Hypothesis\|假设]]——人类中心、个体主义、线性进步——决裂([[Argument_Amos_2022_Springer\|Amos, 2022, pp.58–63]])。
+> Amos 将后人类主义与超人类主义并置为晚期现代性的两种对立教育愿景：超人类主义是高度现代性的激进延续（不朽、理性、自主、自我设计），后人类主义则与现代性的核心假设——人类中心、个体主义、线性进步——决裂([[Argument_Amos_2022_Springer\|Amos, 2022, pp.58–63]])。
 >
 
 ## 概念辨析

@@ -12,9 +12,9 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 24
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 22
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
 related_count: 20
 related_level: 2
@@ -28,9 +28,7 @@ tags:
   - theme/educational-borrowing
   - theme/modernity
 related_concepts:
-  - "[[Transfer Translation Transformation]]"
   - "[[Rote Learning]]"
-  - "[[Bildung]]"
   - "[[Normal School]]"
   - "[[Discourse]]"
   - "[[Ontology]]"
@@ -61,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Common School Movement
@@ -73,7 +71,7 @@ updated: 2026-10-09
 公学运动（Common School Movement）是指 19 世纪前中期（约 1830 年代至 1860 年代）在美利坚合众国爆发的一场波澜壮阔的公共教育奠基运动。该运动旨在打破传统的宗教宗派慈善救济办学与富人私人学堂的阶级割裂，建立面向全体平民子弟、由公共税收供养、受地方公众共同管理、完全免收学费，并贯彻无宗派普遍伦理道德的公立初等学校体系。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009, pp. 31–32)]]
 
 > [!def] 核心定义
-> 公学运动是 19 世纪美国在“共和教育世纪”中确立自由民主政治制度生命线的关键改革。它主张全民普及初等教育是维系共和政体免于专制与愚昧退化的本体基石，并通过吸收欧洲大陆（尤其是普鲁士）的专业师范与人道教学经验，将外国实绩[[Transfer Translation Transformation\|转译]]为击退国内保守势力阻抗的合法化依据。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 31–34)]]
+> 公学运动是 19 世纪美国在“共和教育世纪”中确立自由民主政治制度生命线的关键改革。它主张全民普及初等教育是维系共和政体免于专制与愚昧退化的本体基石，并通过吸收欧洲大陆（尤其是普鲁士）的专业师范与人道教学经验，将外国实绩转译为击退国内保守势力阻抗的合法化依据。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 31–34)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指称由公共财政完全保障、由世俗民主政体统一监管、面向全体阶层适龄儿童开放的公共初等教育建制化运动。
@@ -115,7 +113,7 @@ updated: 2026-10-09
 > [!feature] 核心要素
 > - **公共财政税收供养与免收学费保障** 彻底废除按学生人头缴费的“学差费（rate bill）”，确立由市镇与州级公共税收共同支撑的经常性财政预算，确保赤贫阶层儿童享有平等的入学权利。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 31–32)]]
 > - **地方民主共治与州级行政督导** 打破单一寡头垄断，由社区全体选民选举学区委员会参与管理；同时设立州级教育委员会，由专职秘书开展全州巡回视察与统计汇总。
-> - **非宗派世俗化道德[[Bildung\|教化]]** 在多宗教移民社会中，坚决剔除特定教派的教理问答与神学信条，以普遍认同的基督文明人道道德与宪政爱国主义作为立德树人的共同精神基石。
+> - **非宗派世俗化道德教化** 在多宗教移民社会中，坚决剔除特定教派的教理问答与神学信条，以普遍认同的基督文明人道道德与宪政爱国主义作为立德树人的共同精神基石。
 > - **师资专业化培训与人道教学法** 建立州立公立[[Normal School\|师范学校]]，系统传授儿童身心发展规律与[[Johann Heinrich Pestalozzi\|裴斯泰洛齐]]直观教学法，以温和人道的纪律与内在求知欲取代残酷体罚。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 31)]]
 
 > [!logic-map]- 公学运动四大支柱与共和国家维系逻辑
@@ -156,7 +154,7 @@ updated: 2026-10-09
 ### 命题二　跨国教育考察机制并非直接制度移植，而是将外部公学实绩转译为击败国内反对派的政治合法化依据
 
 > [!concept-lens] 跨大西洋知识流动在联邦分权政体下的[[Discourse|话语]]功能
-> 剖析比较教育探究在不同国家权力结构下的功能分化，阐明美洲改革者如何在缺乏中央命令特权的情境中，将欧陆公学实绩[[Transfer Translation Transformation\|转译]]为公共论辩的话语武器。
+> 剖析比较教育探究在不同国家权力结构下的功能分化，阐明美洲改革者如何在缺乏中央命令特权的情境中，将欧陆公学实绩转译为公共论辩的话语武器。
 
 > [!claim] Kaloyannaki, P. and [[Andreas Kazamias\|Kazamias, A.]] M.
 > **作为政治合法化依据的借用机制** [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] 揭示，与欧洲行政精英（如法国[[Victor Cousin\|库森]]）将普鲁士经验直接吸纳为国家法典（1833 年基佐法案）的直接移植模式截然不同，北美决策者（霍勒斯·曼、[[Calvin Stowe\|卡尔文·斯托]]与[[Henry Barnard\|亨利·巴纳德]]）远赴海外寻求教训，根本目的绝非机械照搬欧洲制度，而是战略性地抽取普鲁士等国在公学普及、师范训练与人道教学上的客观实绩，将其转译为压制国内保守派围攻、说服州议会通过公校立法的强大合法化依据（legitimating rationales）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 33–34)]]
@@ -216,7 +214,7 @@ updated: 2026-10-09
 > | [[Horace Mann]] | 人物 | 公学运动的灵魂领袖，主导马萨诸塞州改革并确立公共学校四大信条。 |
 > | [[Calvin Stowe]] | 人物 | 撰写 1837 年欧洲报告，推动公学运动在中西部边疆俄亥俄州完成立法突破。 |
 > | [[Henry Barnard]] | 人物 | 编纂跨国教育百科全书，推进康涅狄格与罗得岛公学改革并出任首任联邦专员。 |
-> | [[Policy Borrowing]] | 概念 | 公学运动展示了将外国教育实绩[[Transfer Translation Transformation\|转译]]为国内政治合法化依据的跨国政策借用机制。 |
+> | [[Policy Borrowing]] | 概念 | 公学运动展示了将外国教育实绩转译为国内政治合法化依据的跨国政策借用机制。 |
 > | [[Educational Meliorism]] | 概念 | 公学运动是教育改良主义母题在 19 世纪美洲最重要的实践形态。 |
 > | [[Seventh Annual Report of the Massachusetts Board of Education]] | 政策 | 曼欧洲考察后提交的报告，将普鲁士公学经验转译为公学运动核心政治合法化依据。 |
 > | [[Boston Schoolmasters Controversy]] | 事件 | 因第七次报告引发的公学改革派与传统[[Grammar School\|文法学校]]保守派的大决战。 |

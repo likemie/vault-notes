@@ -15,7 +15,7 @@ aliases:
 summary: "关于人类能力与智力可塑性的内隐认知信念系统，区分视智力为固定不变的天赋实体观（固定型思维）与视智力为可通过学习、努力与策略持续拓展的增量发展观（成长型思维），深层影响学业动机、面对失败的韧性、同伴文化的评价机制以及大规模现场干预的转化效度"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 39
+theory_related_count: 38
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -57,7 +57,6 @@ related_methods:
   - "[[Efficacy Trial]]"
   - "[[Questionnaire]]"
   - "[[Qualitative Interview]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Rating Scale]]"
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
@@ -74,7 +73,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-23
-updated: 2026-09-29
+updated: 2026-10-15
 ---
 
 # Growth Mindset
@@ -191,7 +190,7 @@ updated: 2026-09-29
 
 > [!theory-use] 如何用于研究
 > - **作为理论框架** 解释学生面对挑战性学业任务时的坚持性差异，构建[[Academic Engagement\|学业投入]]度与韧性预测模型。
-> - **作为分析工具** [[Coding in Qualitative Research\|编码]]分析教师日常评语、[[Homework\|作业]]反馈方式（如表扬过程策略 vs 称赞先天聪明）以及学校奖励制度中蕴含的内隐智力观导向。
+> - **作为分析工具** 编码分析教师日常评语、[[Homework\|作业]]反馈方式（如表扬过程策略 vs 称赞先天聪明）以及学校奖励制度中蕴含的内隐智力观导向。
 > - **作为批判视角** 解构西方校园反智主义与同伴霸凌背后的文化信念基础，剖析教育政策将系统性不平等转嫁为个体心理赤字的意识形态风险。
 > - **报告方式** 必须区分自编主观[[Rating Scale\|态度量表]]的“效力结果”与国家独立标准化考试的“客观学业结局”，清晰报告[[Effect Size\|效应量]]、[[Confidence Interval\|置信区间]]与实施过程保真度。
 

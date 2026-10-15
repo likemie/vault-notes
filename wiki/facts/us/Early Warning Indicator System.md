@@ -10,7 +10,7 @@ subtype: program
 region: "us"
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 15
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Data Infrastructure]]"
   - "[[Positivism]]"
   - "[[Variable]]"
-  - "[[Teaching Assistant]]"
   - "[[Heterogeneity]]"
   - "[[Data Literacy]]"
   - "[[Determinism]]"
@@ -47,7 +46,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-10-15
 ---
 
 # Early Warning Indicator System
@@ -79,7 +78,7 @@ updated: 2026-09-18
 > - **输出形式与风险分级** 系统后台运算后将学生自动划分为三类风险等级：低风险（Low Risk，有望达标）、中风险（Moderate Risk，需持续观察）以及高风险（High Risk，高度可能辍学或大学无法毕业），并在州端与校端仪表盘中予以可视化标色呈现。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, p. 6)]]
 
 > [!citation-card] [[Massachusetts Department of Elementary and Secondary Education\|DESE]] 官方关于 EWIS 预测逻辑与应用初衷的阐述
-> 早期预警指标系统是一套系统性的全州数据工具，用于探索学生历史轨迹与未来学业成果之间的关联，旨在帮[[Teaching Assistant\|助教]]育工作者识别那些若无额外干预则可能无法达成学业里程碑的学生，从而提前规划个性化支持策略。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, p. 6)]]
+> 早期预警指标系统是一套系统性的全州数据工具，用于探索学生历史轨迹与未来学业成果之间的关联，旨在帮助教育工作者识别那些若无额外干预则可能无法达成学业里程碑的学生，从而提前规划个性化支持策略。[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, p. 6)]]
 >
 > *EWIS is designed to identify students who are at risk of missing key educational milestones, helping educators target resources and interventions early to get students back on track.*
 

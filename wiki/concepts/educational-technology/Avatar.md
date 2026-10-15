@@ -8,7 +8,7 @@ aliases:
 summary: "在数字虚拟世界与交互式学习环境中代表人类用户或人工智能系统的可配置拟人化数字表征；在质性研究中作为投射技术与身份实验媒介，在人机交互与智能探究中作为提供自适应脚手架与即时诊断的拟人教学导师。"
 type: concept
 domain: "educational-technology"
-related_count: 32
+related_count: 30
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -26,12 +26,10 @@ related_concepts:
   - "[[Feedback]]"
   - "[[AI Agent in Education]]"
   - "[[Gamification]]"
-  - "[[Document]]"
   - "[[Anonymity in Research]]"
   - "[[Knowledge Production]]"
   - "[[Reliability]]"
   - "[[Ideal Speech Situation]]"
-  - "[[Hypothesis]]"
   - "[[Computer Simulation]]"
   - "[[Construct]]"
   - "[[Man-Computer Symbiosis]]"
@@ -60,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-19
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Avatar
@@ -103,7 +101,7 @@ updated: 2026-10-07
 > | **核心功能** | 观点[[Externalization\|外化]]、身份实验、安全投射 | 提问引导、自适应支架、诊断反馈 | 承载游戏玩法机制与叙事推进 |
 > | **形态决定权** | 参与者自主设计并可随时更换 | 教学设计者依据学习者特征优化配置 | 游戏开发者固定美术设定 |
 > | **教育研究价值** | 收集主观价值认同与敏感争议议题数据 | 提供非讲授式的主动探究[[Scaffolding\|认知脚手架]] | 研究[[Gamification\|游戏化]]行为与操作动机 |
-> | **代表[[Document\|文献]]** | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al. (2011, Ch. 19)]] | Yannier et al. (2020); [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | Gee (2003); Prensky (2001) |
+> | **代表文献** | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al. (2011, Ch. 19)]] | Yannier et al. (2020); [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | Gee (2003); Prensky (2001) |
 
 ---
 
@@ -150,7 +148,7 @@ updated: 2026-10-07
 > 探讨化身沟通如何消除现实权力差序格局，促成遵循证据与论辩逻辑的理性共识。
 
 > [!claim] Habermas (1979, 1984); Castells (2009)
-> **匿名性赋权与理性反思沟通** 化身沟通实现了社交性的私有化（Castells, 2009），其提供的安全匿名环境在规范层面上高度逼近[[Jürgen Habermas\|哈贝马斯]]的[[Ideal Speech Situation\|理想言说情境]]：参与者获得不受现实社会身份压制的对等言说权，免受既有偏见与群体盲从干扰，得以自由质疑既有[[Hypothesis\|假设]]、检验替代解释；共识仅取决于论证本身的理性力量，使涉及公民权利、宗教与政治价值观等高敏感议题的深度研究得以开展。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|(Cohen et al., 2011, Ch. 19, pp. 157–159)]]
+> **匿名性赋权与理性反思沟通** 化身沟通实现了社交性的私有化（Castells, 2009），其提供的安全匿名环境在规范层面上高度逼近[[Jürgen Habermas\|哈贝马斯]]的[[Ideal Speech Situation\|理想言说情境]]：参与者获得不受现实社会身份压制的对等言说权，免受既有偏见与群体盲从干扰，得以自由质疑既有假设、检验替代解释；共识仅取决于论证本身的理性力量，使涉及公民权利、宗教与政治价值观等高敏感议题的深度研究得以开展。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|(Cohen et al., 2011, Ch. 19, pp. 157–159)]]
 
 ---
 

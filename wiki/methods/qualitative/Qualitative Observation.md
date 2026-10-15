@@ -33,11 +33,11 @@ related_theories:
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Field Notes]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Triangulation]]"
   - "[[Ethnography]]"
   - "[[Case Study]]"
   - "[[Non-participant Observation]]"
+  - "[[Coding in Qualitative Research]]"
   - "[[Observation Protocol]]"
   - "[[Classroom Observation]]"
   - "[[Non-probability Sampling]]"
@@ -68,7 +68,7 @@ updated: 2026-10-15
 > - **研究对象** 特定教育现场或社会场景中个体与群体的言语、行为、互动以及物理环境。
 > - **问题类型** 适合回答描述性、探索性或生成因果机制的质性问题。
 > - **[[Unit of Analysis\|分析单位]]** 个体（如校长、教师、学生）、课堂、现场活动或微观互动事件。
-> - **输出形式** 描述性笔记、[[Reflexivity\|反思性]]笔记、田野日志、互动[[Coding in Qualitative Research\|编码]]与深入的质性个案叙事。
+> - **输出形式** 描述性笔记、[[Reflexivity\|反思性]]笔记、田野日志、互动编码与深入的质性个案叙事。
 
 > [!citation-card]- 关键定义
 > 质性观察是研究者在研究现场记录个体行为和活动并撰写田野笔记（fieldnotes）的数据收集方法。在这项数据收集活动中，研究者以非结构化或半结构化的方式记录现场活动（使用一些预先想了解的开放式问题）。([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch9, p. 199]])

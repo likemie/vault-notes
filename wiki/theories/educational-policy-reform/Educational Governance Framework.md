@@ -9,7 +9,7 @@ aliases:
 summary: "将教育系统理解为多层级行动者在制度结构中通过协商、博弈与制度工具共同达成决策与行动协调的宏观分析框架"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 31
+theory_related_count: 30
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -19,7 +19,6 @@ tags:
   - theme/system-steering
 related_concepts:
   - "[[School Leadership]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[School Autonomy]]"
   - "[[Paradigm]]"
   - "[[Output-Oriented Governance]]"
@@ -58,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-10-15
 ---
 
 # Educational Governance Framework
@@ -74,7 +73,7 @@ updated: 2026-09-18
 > - **知识位置** 植根于社会学行动者中心制度主义（Actor-Centred Institutionalism；Schimank, 2007）与新制度主义组织理论，是德语区与欧洲教育社会学、教育行政学分析政策现代化的核心元理论。
 
 > [!claim] 核心判断
-> 教育治理将教育系统界定为多层级系统（Mehrebenensystem），摒弃中央全能调控的线性预设，认为教育行动与政策实施是由国家、中间督导、基层[[School Leadership\|学校领导]]与一线教师等多元行动者在既定制度结构中相互调适、利益博弈与意义再[[Transfer Translation Transformation\|转译]]所共同生成的网络协调过程。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, pp. 18–20)]]
+> 教育治理将教育系统界定为多层级系统（Mehrebenensystem），摒弃中央全能调控的线性预设，认为教育行动与政策实施是由国家、中间督导、基层[[School Leadership\|学校领导]]与一线教师等多元行动者在既定制度结构中相互调适、利益博弈与意义再转译所共同生成的网络协调过程。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, pp. 18–20)]]
 
 ---
 
@@ -106,7 +105,7 @@ updated: 2026-09-18
 > | 多层级系统（Mehrebenensystem） | 框架 | 区分宏观系统（国家/州）、中观组织（学区/督导/单校）与微观互动（课堂教学）分析层次。 |
 > | 行动者协调机制（Koordinationsmechanismen） | 机制 | 描述行动者达成一致的方式，涵盖科层科条、市场竞争、网络谈判与[[Dialogue in Education\|对话]]协议。 |
 > | 目标统一与路径自主原则（Autonomie der Wege） | 机制 | 规范国家与单校的权力边界：中央管辖质量目标，学校自决教学法与实施路径。 |
-> | [[Recontextualization\|再情境化]] | 机制 | 解释外部制度供给在微观学校[[Champ\|场域]]被校长与教师认知过滤、[[Transfer Translation Transformation\|转译]]与重塑的过程。 |
+> | [[Recontextualization\|再情境化]] | 机制 | 解释外部制度供给在微观学校[[Champ\|场域]]被校长与教师认知过滤、转译与重塑的过程。 |
 > | [[Gatekeepers\|把关人]] | 角色 | 界定[[School Leadership\|学校领导]]者在政策输入与学校日常运行之间的过滤与重构功能。 |
 
 ---
@@ -124,7 +123,7 @@ updated: 2026-09-18
 > **应用实例** 某州教育部不再规定小学每周必须教授的具体课文篇目与板书格式，但要求学生在四年级末必须达到全国阅读能力三级标准；学校若未能达标，校长需在督导会谈中提交专项改进规划。
 
 > [!theory-proposition] 命题三｜制度供给的落地过程遵循微观再情境化法则并遭遇把关过滤
-> **解释** 宏观政策与制度工具（如循证监控数据、自评指南）仅构成制度供给（Strukturangebote），它们绝不会自动在微观教学中产生预设结果。这一输入必须经由作为[[Gatekeepers\|把关人]]的学校领导者进行认知解读、价值评估与实践[[Transfer Translation Transformation\|转译]]。一线校长的治理认同存在系统性分化，超过七成的校长可能因固守传统资源诉求或防御心理而阻断政策脉冲，仅有少数高度认同循证理念的校长才会重构日常管理工时并实质推进教学领导。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, pp. 20–22, 28–32)]]
+> **解释** 宏观政策与制度工具（如循证监控数据、自评指南）仅构成制度供给（Strukturangebote），它们绝不会自动在微观教学中产生预设结果。这一输入必须经由作为[[Gatekeepers\|把关人]]的学校领导者进行认知解读、价值评估与实践转译。一线校长的治理认同存在系统性分化，超过七成的校长可能因固守传统资源诉求或防御心理而阻断政策脉冲，仅有少数高度认同循证理念的校长才会重构日常管理工时并实质推进教学领导。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, pp. 20–22, 28–32)]]
 >
 > **应用实例** 奥地利施泰尔马克州向公立义务教育学校发放标准化测评反馈报告，部分资深校长将其视为加重教师工作负担的[[External Auditor\|外部审计]]而束之高阁（象征应付）；而循证型校长则组织全校教研研讨会，根据反馈中的阅读弱项重置教师听课指导计划。
 
@@ -168,7 +167,7 @@ updated: 2026-09-18
 > > 批判学者质疑治理框架隐含的“目标设定 $\rightarrow$ 数据监控 $\rightarrow$ 诊断改进”理性循环假定，认为其美化了绩效问责与[[New Public Management\|新公共管理]]（NPM）的技术治理逻辑。
 > >
 > > - **批判学者立场** 强调[[Governing by Numbers\|数字治理]]与监控技术加剧了对教师劳动过程的审计规训，导致教育价值的窄化与文牍主义异化。
-> > - **治理理论倡导者立场** 坚称治理视角摒弃了中央集权全能调控的幻想，其核心洞见恰恰在于揭示行动者在多层博弈中的自主空间、抵抗阻断与再情境化[[Transfer Translation Transformation\|转译]]机制。
+> > - **治理理论倡导者立场** 坚称治理视角摒弃了中央集权全能调控的幻想，其核心洞见恰恰在于揭示行动者在多层博弈中的自主空间、抵抗阻断与再情境化转译机制。
 
 ---
 

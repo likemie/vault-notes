@@ -122,7 +122,7 @@ updated: 2026-10-07
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **选择性转换** | 转录是去情境化的理论建构，不存在单一中立转录本 | 访谈分析、质性数据准备与[[Coding in Qualitative Research\|编码]]前处理 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al. (2011)]]; Kvale |
+> | **选择性转换** | 转录是去情境化的理论建构，不存在单一中立转录本 | 访谈分析、质性数据准备与编码前处理 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al. (2011)]]; Kvale |
 > | **语境多义性** | 语言与意义的关系依附于语境，转录本不具机械稳定性 | [[Phenomenology\|现象学]]诠释、[[Grounded Theory\|扎根理论]]与[[Discourse Analysis\|话语分析]] | Mishler; Scheurich |
 > | **人机协同审查** | AI 转写极大提升效率，但研究者须对算法平滑与幻觉承担终极审验责任 | 人机交互有声思维追踪、智能时代[[Qualitative Research\|质性研究]] | [[Argument_Wu_2025_ER\|Wu et al. (2025)]] |
 
@@ -135,7 +135,7 @@ updated: 2026-10-07
 > |---|---|---|---|---|
 > | **传统人工转录** | 人工听录、脚踏板控制（Transcription Machine）逐字手打 | 能够深度感知语调、停顿与情绪微妙变化 | 极其耗时（1小时音频需耗费5–8小时）；容易疲劳漏记 | 依赖转录者的体力与专注度 |
 > | **大模型与 ASR 转写** | 深度神经网络语音识别（如 Whisper）结合 LLM 文本规整 | 速度极快（数分钟内完成），成本极低 | 遇口音、背景噪音或专业术语易出现语义平滑与幻觉替换 | 必须由研究者结合录音逐行进行人工校对与纠偏 |
-> | **多模态对齐转录** | 音频流、屏幕操作录像与提示词日志时间戳精确同步 | 全面捕获有声思维与人机界面交互的因果关联 | 数据维度庞杂，对齐软件与分析流程较为繁琐 | 建立多维时间轴[[Coding in Qualitative Research\|编码]]标准，杜绝割裂分析 |
+> | **多模态对齐转录** | 音频流、屏幕操作录像与提示词日志时间戳精确同步 | 全面捕获有声思维与人机界面交互的因果关联 | 数据维度庞杂，对齐软件与分析流程较为繁琐 | 建立多维时间轴编码标准，杜绝割裂分析 |
 
 > [!proc] 规范转录与[[Man-Computer Symbiosis|人机协同]]校对五步操作流程
 > 1. **音频录制与脱敏标记（Audio Capture & Anonymization）**
@@ -169,7 +169,7 @@ updated: 2026-10-07
 > - **[[Man-Computer Symbiosis|人机共生]]探究中的有声思维多模态转录（[[Argument_Wu_2025_ER\|Wu et al., 2025]]）**
 >   在师范生利用 ChatGPT 进行统计推论的人机交互研究中，研究者同步捕获学生的“边想边说”（Think-Aloud）音频与屏幕交互行为。通过将口语转录文本（如遇到 AI 生成公式时的疑惑叹气）与学生提示词修改动作进行毫秒级对齐转录，精准还原了学习者从绝对主义盲从向评价主义审问演进的动态认知轨迹。
 > - **人机协同[[Scientific Explanation|科学解释]]中的多模态对话与提示词日志转录（[[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez, 2026]]）**
->   在高中生利用生成式 AI 协同建构科学解释的研究中，研究者同步采集课堂实时录音录像、AI 对话日志与学生最终修订文本。转录过程严格遵循逐字原则（Verbatim Transcription），完整保留学生的语气停顿、重复、疑惑发问与同伴争议，并与 AI 生成时间戳及提示词修改记录对齐，为后续开展[[Multimodal Discourse Analysis|多模态话语分析]]和[[Epistemological Vigilance|认识论警觉]]水平[[Coding in Qualitative Research|编码]]奠定了高保真数据基础。
+>   在高中生利用生成式 AI 协同建构科学解释的研究中，研究者同步采集课堂实时录音录像、AI 对话日志与学生最终修订文本。转录过程严格遵循逐字原则（Verbatim Transcription），完整保留学生的语气停顿、重复、疑惑发问与同伴争议，并与 AI 生成时间戳及提示词修改记录对齐，为后续开展[[Multimodal Discourse Analysis|多模态话语分析]]和[[Epistemological Vigilance|认识论警觉]]水平编码奠定了高保真数据基础。
 
 ---
 
@@ -177,5 +177,5 @@ updated: 2026-10-07
 
 > [!evidence-grid-a] [[Qualitative Research\|质性研究]]与方法索引
 > - [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] — 结合课堂音视频与 [[Generative Artificial Intelligence|GenAI]] 对话日志开展高精度逐字转录与时间戳对齐，为[[Multimodal Discourse Analysis|多模态话语分析]]与[[Man-Computer Symbiosis|人机协同]]解释的[[Epistemology|认识论]]审验提供经验证据。
-> - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 在生成式 AI 学习实验中实施高精度多模态有声思维转录，结合屏幕日志与音频回溯系统[[Coding in Qualitative Research\|编码]]学习者的[[Epistemic Stances\|认识立场]]演变与[[Cognitive Offloading\|认知卸载]]行为。
+> - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 在生成式 AI 学习实验中实施高精度多模态有声思维转录，结合屏幕日志与音频回溯系统编码学习者的[[Epistemic Stances\|认识立场]]演变与[[Cognitive Offloading\|认知卸载]]行为。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al. (2011, Ch. 21 & Ch. 28)]] — 详述[[Qualitative Interview\|质性访谈]]转录作为理论性选择转换的[[Epistemology\|认识论]]本质（第 21 章），以及质性数据准备中的转录规范与管理操作规程（第 28 章）。

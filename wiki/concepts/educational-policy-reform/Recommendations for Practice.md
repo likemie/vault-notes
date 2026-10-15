@@ -5,7 +5,7 @@ aliases:
 summary: "研究论文中把研究发现转化为采用、调整或避免某种实践的行动建议，用于连接研究结论与政策或教学实践"
 type: concept
 domain: "educational-policy-reform"
-related_count: 17
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,10 +18,8 @@ related_concepts:
   - "[[Study Population and Sample]]"
   - "[[Variable]]"
   - "[[Evidence-Based Education]]"
-  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Trend Study]]"
   - "[[Non-intervention Research]]"
   - "[[Intervention Research]]"
@@ -40,13 +38,13 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-05'
-updated: '2026-05-18'
+updated: 2026-10-15
 ---
 
 ## 定义
 
 > [!info] 定义
-> 实践建议（Recommendations for Practice, RFP）是研究论文中将研究发现转化为教育实践行动的规范性陈述。[[Argument_Brady_2023_EPR\|Brady et al. (2023)]] 沿用 Reinhart et al. (2013) 的[[Coding in Qualitative Research\|编码]]标准：如果论文暗示或明确说明"若采用/避免、增加/减少实践 X，则教师或学生结果 Y 会改善"，即被编码为 RFP([[Argument_Brady_2023_EPR\|Brady et al., 2023, p.4]])。
+> 实践建议（Recommendations for Practice, RFP）是研究论文中将研究发现转化为教育实践行动的规范性陈述。[[Argument_Brady_2023_EPR\|Brady et al. (2023)]] 沿用 Reinhart et al. (2013) 的编码标准：如果论文暗示或明确说明"若采用/避免、增加/减少实践 X，则教师或学生结果 Y 会改善"，即被编码为 RFP([[Argument_Brady_2023_EPR\|Brady et al., 2023, p.4]])。
 >
 > > "if Practice X is adopted/avoided or increased/decreased, then teacher or student Outcome Y will improve"（Reinhart et al., 2013, p.244, cited in）
 
@@ -62,7 +60,7 @@ updated: '2026-05-18'
 > [!abstract] 核心要素
 > - **行动导向** RFP 不只是解释发现，而是把发现转化为教师、学校或政策制定者应采取的行动建议([[Argument_Brady_2023_EPR\|Brady et al., 2023, p.4]])。
 > - **因果含义** 即使措辞较弱，RFP 通常仍暗含"改变实践会改善结果"的因果结构；这使其证据要求高于单纯描述性结论([[Argument_Brady_2023_EPR\|Brady et al., 2023, pp.3-4]])。
-> - **范围与强度差异**[[Argument_Brady_2023_EPR\|Brady et al. (2023)]] 在[[Coding in Qualitative Research\|编码]]中观察到，一些 RFP 紧贴[[Study Population and Sample\|研究样本]]，另一些则泛化到更广人群；一些使用 "may" 或 "might" 等弱化词，但强而广泛的 RFP 在[[Non-intervention Research\|非干预研究]]中尤其值得警惕([[Argument_Brady_2023_EPR\|Brady et al., 2023, p.9]])。
+> - **范围与强度差异**[[Argument_Brady_2023_EPR\|Brady et al. (2023)]] 在编码中观察到，一些 RFP 紧贴[[Study Population and Sample\|研究样本]]，另一些则泛化到更广人群；一些使用 "may" 或 "might" 等弱化词，但强而广泛的 RFP 在[[Non-intervention Research\|非干预研究]]中尤其值得警惕([[Argument_Brady_2023_EPR\|Brady et al., 2023, p.9]])。
 
 ## 与相关概念的区别
 
@@ -79,7 +77,7 @@ updated: '2026-05-18'
 ## 相关方法
 
 
-- [[Intervention Research]] — 更适合承载强 RFP 的方法环节，因为其通过操纵自[[Variable|变量]]检验实践[[Hypothesis|假设]]([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.2-4]])。
+- [[Intervention Research]] — 更适合承载强 RFP 的方法环节，因为其通过操纵自[[Variable|变量]]检验实践假设([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.2-4]])。
 - [[Non-intervention Research]] — [[Argument_Brady_2023_EPR|Brady et al. (2023)]] 关注的风险对象：这类研究常提供有价值的描述和线索，但 2020 年约三分之二文章仍提出 RFP([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6-7]])。
 - [[Correlational Research]] — 非干预研究中 RFP 增长最可比的长期序列：2000 年 41%、2010 年 46%、2020 年 66%([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.6-7]])。
 - [[Randomised Controlled Trials]] — 在多数科学领域，强实践建议通常需要严格随机试验或累积实验证据支撑；[[Argument_Brady_2023_EPR|Brady et al. (2023)]] 将其作为非干预 RFP 的对照基准([[Argument_Brady_2023_EPR|Brady et al., 2023, pp.3-4]])。

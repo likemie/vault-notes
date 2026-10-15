@@ -5,7 +5,7 @@ aliases:
 summary: "跨越单一国家教育边界组织人员、共同生活、课程、评价与资格承认的教育实践和制度；既包含国际理解的教育计划，也包含全球化推动的流动、比较和市场扩张。"
 type: concept
 domain: "higher-education"
-related_count: 59
+related_count: 56
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -33,9 +33,7 @@ related_concepts:
   - "[[Student Mobility]]"
   - "[[Knowledge Production]]"
   - "[[Open-Mindedness]]"
-  - "[[Hypothesis]]"
   - "[[Chinese Learner]]"
-  - "[[Document]]"
   - "[[Operationalization]]"
   - "[[International Qualification Recognition]]"
   - "[[International Education Hubs]]"
@@ -44,8 +42,7 @@ related_theories:
   - "[[Human Capital Theory]]"
   - "[[Dependency Theory]]"
   - "[[Pluri-Scalar Governance]]"
-related_methods:
-  - "[[Exploratory Factor Analysis]]"
+related_methods: []
 related_persons:
   - "[[Alec Peterson]]"
   - "[[Robert Arnove]]"
@@ -81,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-16'
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # International Education
@@ -287,7 +284,7 @@ updated: 2026-10-10
 跨国合作需要辨认制度采用是否出于自主选择，以及哪些条件限制这种选择。
 
 > [!claim] [[Argument_Rust_2009_Reflections|Rust et al. (2009)]]
-> **国际教育合作的再生产批判与解放实践** [[Comparative and International Education Society|比较与国际教育学会]]（Comparative and International Education Society，CIES）的学科历史表明，国际教育合作与跨国发展援助长期被视为主流国际教育的核心实践；然而在资本主义全球化扩张中，西方核心国家主导的国际教育援助、结构调整方案与市场化改革输出，往往蜕化为一种强制再生产（Reproduction）的依附工具，强行将受援国绑定于中心-边缘的全球不平等分工之中。这一批判要求，国际教育合作应警惕资本主义扩张中的依附关系，并以主权自决、基层社会行动和人类解放为人道主义方向。例如古巴在面临长期外部封锁的情况下，依靠独立主权动员与社会公正，在[[Education for All|全民教育]]（Education for All，[[Exploratory Factor Analysis|EFA]]）领域取得了拉美地区唯一全面实现全部全民教育目标的成绩，被用于支持非依附性、以社会解放为导向的国际教育路径。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 133–135)]]
+> **国际教育合作的再生产批判与解放实践** [[Comparative and International Education Society|比较与国际教育学会]]（Comparative and International Education Society，CIES）的学科历史表明，国际教育合作与跨国发展援助长期被视为主流国际教育的核心实践；然而在资本主义全球化扩张中，西方核心国家主导的国际教育援助、结构调整方案与市场化改革输出，往往蜕化为一种强制再生产（Reproduction）的依附工具，强行将受援国绑定于中心-边缘的全球不平等分工之中。这一批判要求，国际教育合作应警惕资本主义扩张中的依附关系，并以主权自决、基层社会行动和人类解放为人道主义方向。例如古巴在面临长期外部封锁的情况下，依靠独立主权动员与社会公正，在[[Education for All|全民教育]]（Education for All，EFA）领域取得了拉美地区唯一全面实现全部全民教育目标的成绩，被用于支持非依附性、以社会解放为导向的国际教育路径。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 133–135)]]
 
 ---
 
@@ -387,17 +384,17 @@ updated: 2026-10-10
 > > [!axis] 跨国发展援助推进现代化 vs 中心-边缘依附与强制再生产
 > > 战后国际教育援助与学术交流是将边缘国家导向现代化的发展支持机制，还是西方中心国家对边缘国家实施资本主义依附与不平等制度的强制再生产？
 > > - **现代化与[[Human Capital Theory|人力资本]]视角** 认为国际教育技术援助和资本输入能够帮助发展中国家克服教育资源不足，推动经济与制度发展。
-> > - **[[Dependency Theory|依附论]]与强制再生产批判视角** 揭示国际教育援助往往附带新自由主义[[Structural Adjustment Programs|结构调整方案]]与意识形态前置条件，弱化受援国教育主权；[[Argument_Rust_2009_Reflections|Rust et al. (2009)]] 指出，古巴等国通过坚持主权自决推进了[[Education for All|全民教育]]（[[Exploratory Factor Analysis|EFA]]），表明人道主义与社会正义才是国际教育合作的核心，必须警惕中心国家通过援助实施强制再生产。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 133–135)]]
+> > - **[[Dependency Theory|依附论]]与强制再生产批判视角** 揭示国际教育援助往往附带新自由主义[[Structural Adjustment Programs|结构调整方案]]与意识形态前置条件，弱化受援国教育主权；[[Argument_Rust_2009_Reflections|Rust et al. (2009)]] 指出，古巴等国通过坚持主权自决推进了[[Education for All|全民教育]]（EFA），表明人道主义与社会正义才是国际教育合作的核心，必须警惕中心国家通过援助实施强制再生产。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 133–135)]]
 
 不同治理立场之外，师资与数据条件还会限制对国际教育扩张的解释。
 
 > [!critique] 实施与证据问题
-> - **师资培养落后于机构扩张** 全球只有少数大学提供国际教育专业培养，远不足以服务已经扩大的学校与学生网络；缺少准备的教师容易把母国教学[[Hypothesis|假设]]和对[[Chinese Learner|中国学习者]]的刻板印象带入课堂。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 31–34)]]
+> - **师资培养落后于机构扩张** 全球只有少数大学提供国际教育专业培养，远不足以服务已经扩大的学校与学生网络；缺少准备的教师容易把母国教学假设和对[[Chinese Learner|中国学习者]]的刻板印象带入课堂。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 31–34)]]
 > - **本地系统可能承受机会成本** [[English Schools Foundation Hong Kong|ESF]] 等国际学校吸纳本地学生，可能加重出生率下降背景下公立学校的生源压力。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, p. 5)]]
 > - **规模数据可比性不足** 国际学生和国际学校统计来自[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD）、IIE、UNESCO、政府和媒体，不同来源对同一现象差异很大，原研究也没有系统评估数据质量。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 17–18)]]
 
 > [!warning] 解释边界
-> 皮特森提供的是参与者视角的制度形成史，能够揭示国际教育设计者如何理解自己的选择，却不能单独证明长期教育效果；斯莱特豪格的材料则是二手统计和[[Document|文献]]综合，适合描述规模与趋势，但其国际教育、全球化和[[Knowledge-Based Economy|知识经济]]没有被严格[[Operationalization|操作化]]。两类材料互补，却都不能把跨国流动直接当作跨文化学习成效。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 57–59)]] [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 1, 17–18, 31–34)]]
+> 皮特森提供的是参与者视角的制度形成史，能够揭示国际教育设计者如何理解自己的选择，却不能单独证明长期教育效果；斯莱特豪格的材料则是二手统计和文献综合，适合描述规模与趋势，但其国际教育、全球化和[[Knowledge-Based Economy|知识经济]]没有被严格[[Operationalization|操作化]]。两类材料互补，却都不能把跨国流动直接当作跨文化学习成效。[[Argument_Peterson_1987_OpenCourt_Ch03|Peterson (1987, pp. 57–59)]] [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, pp. 1, 17–18, 31–34)]]
 
 公共供给的可行性与跨阵营交往，还受到当时的政治条件限制。
 
@@ -432,5 +429,5 @@ updated: 2026-10-10
 > - [[Argument_Peterson_1987_OpenCourt|Peterson (1987, Chs. 1–4)]] — 从大西洋学院的共同生活和服务实践，追踪到教师倡议、独立组织、课程与考试设计，再以六年试验说明学校、资格承认、行政和资金如何把国际教育目标转化为常设制度。
 > - [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010)]] — 描述国际教育从国家绑定走向大众流动、全球比较、市场化和去国家化，并集中讨论文化预设、师资缺口与统计问题。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 109–111)]] — 结合蒙迪（Mundy）与 Robertson et al. 的[[Pluri-Scalar Governance|多标度治理]]研究，系统考察[[Educational Multilateralism|国际教育多边主义]]从战后有限再分配向新自由主义[[Disciplina and Doctrina|规训]]与 [[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]] 跨国服务贸易的制度转变。
-> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 结合 [[Comparative and International Education Society|CIES]] 学会建制史，批判国际教育合作在资本主义全球化中沦为依附性强制再生产工具的异化风险，援引古巴独立推进[[Education for All|全民教育]]（[[Exploratory Factor Analysis|EFA]]）的成效，重申主权自决与人道主义解放初心。
+> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 结合 [[Comparative and International Education Society|CIES]] 学会建制史，批判国际教育合作在资本主义全球化中沦为依附性强制再生产工具的异化风险，援引古巴独立推进[[Education for All|全民教育]]（EFA）的成效，重申主权自决与人道主义解放初心。
 > - [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 193–217)]] 辨析国际教育的三种取向，并将文化平衡、奖学金规则、政治条件和公共供给纳入未来方向的判断。

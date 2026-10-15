@@ -9,7 +9,7 @@ title: "Argument_Hattie_2015_Paideia"
 argument_key: "Argument_Hattie_2015_Paideia"
 argument_display_title: "Synlig læring i dag"
 argument_kind: "journal-article"
-argument_related_count: 17
+argument_related_count: 15
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Variable]]"
   - "[[Falsification]]"
-  - "[[Document]]"
   - "[[Open-Mindedness]]"
   - "[[Direct Instruction]]"
   - "[[Feedback]]"
@@ -43,7 +42,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Questionnaire]]"
-  - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -80,7 +78,7 @@ citation_aliases:
 
 > [!info] 研究方法
 > - 方法：理论回应、方法论辩护与研究项目回顾。
-> - 材料：Hattie 早期心理测量研究、800+ 到 1200+ 项[[Meta-analysis\|元分析]]综合、[[Visible Learning]] 系列出版物、学校实施案例，以及围绕该项目出现的批评[[Document\|文献]](pp.9-21)。
+> - 材料：Hattie 早期心理测量研究、800+ 到 1200+ 项[[Meta-analysis\|元分析]]综合、[[Visible Learning]] 系列出版物、学校实施案例，以及围绕该项目出现的批评文献(pp.9-21)。
 > - 写作路径：先说明 Visible Learning 的形成背景，再解释 d = 0.40、教师评估自身影响、学校集体评价文化，最后集中回应[[Effect Size\|效应量]]、低效应项目、研究质量和学习概念四类批评(pp.9-19)。
 >
 > 这不是一篇新的实证研究。它更像 Hattie 对自己研究项目的“方法论说明书”：哪些批评他接受，哪些批评他认为是误读，以及 Visible Learning 应该怎样被学校使用。
@@ -126,7 +124,7 @@ citation_aliases:
 >
 > 13. 对“效应量不存在或不该使用”的批评，Hattie 的回应是：效应量属于统计学中的标准化测量，相关方法已经成熟，但具体计算方式、模型选择和方差估计确实存在争议(p.16)。
 > 14. 对“只用高效应、排除低效应”的误读，文章明确反驳：低效应也可能有价值，因为它能提示干预为何弱、如何改进，以及是否在特定条件下仍有意义。
-> 15. 对“研究质量被忽视”的批评，Hattie 认为这是误读。他承认 Visible Learning 没有在书中深入处理质量[[Coding in Qualitative Research\|编码]]，但主张研究质量应作为可能的调节变量来检验；若质量会改变结论，就应明确指出(pp.17-18)。
+> 15. 对“研究质量被忽视”的批评，Hattie 认为这是误读。他承认 Visible Learning 没有在书中深入处理质量编码，但主张研究质量应作为可能的调节变量来检验；若质量会改变结论，就应明确指出(pp.17-18)。
 > 16. 对“学习概念太薄”的批评，Hattie 部分接受。他承认学校测量和许多课堂结果过多停留在[[Surface and Deep Learning\|表层学习]]，但主张解决方案不是抽象赞美深度学习，而是研究表层学习、深度学习和学习迁移之间何时转换、如何平衡(pp.18-19)。
 >
 > 这一段的核心防守策略是：Visible Learning 不是最终真理，而是一套可以被反驳、修正和本地检验的研究解释。它要求学校问更好的问题，而不是把研究综合当作免思考的命令。
@@ -163,11 +161,11 @@ citation_aliases:
 > [!warning] 局限性与批评
 > ### 自我辩护文本的立场限制
 >
-> 这篇文章由 Hattie 本人撰写，功能上是一篇方法论辩护和项目说明。因此它非常适合理解 [[Visible Learning]] 的自我解释，却不能替代独立批判[[Document\|文献]]。尤其在讨论批评时，文章倾向于把部分批评界定为误读、个人攻击或不良学术批评，这可能压缩了对强批评的细读空间(pp.15-18)。
+> 这篇文章由 Hattie 本人撰写，功能上是一篇方法论辩护和项目说明。因此它非常适合理解 [[Visible Learning]] 的自我解释，却不能替代独立批判文献。尤其在讨论批评时，文章倾向于把部分批评界定为误读、个人攻击或不良学术批评，这可能压缩了对强批评的细读空间(pp.15-18)。
 >
 > ### 对研究质量问题的处理仍偏概括
 >
-> Hattie 回应“研究质量”批评时主要引用已有元研究说明质量差异未必显著改变平均效应，但没有逐项展示 Visible Learning 纳入研究如何[[Coding in Qualitative Research\|编码]]质量、如何处理偏差、何时改变具体排名(pp.17-18)。这使他的回应更像原则性说明，而不是对核心数据库的透明审计。
+> Hattie 回应“研究质量”批评时主要引用已有元研究说明质量差异未必显著改变平均效应，但没有逐项展示 Visible Learning 纳入研究如何编码质量、如何处理偏差、何时改变具体排名(pp.17-18)。这使他的回应更像原则性说明，而不是对核心数据库的透明审计。
 >
 > ### 学习概念的回应承认问题但未完全解决
 >

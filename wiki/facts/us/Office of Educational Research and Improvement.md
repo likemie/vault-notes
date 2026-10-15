@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 19
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -23,9 +23,7 @@ tags:
   - theme/evidence-based-education
   - theme/research-policy-nexus
 related_concepts:
-  - "[[Teaching Assistant]]"
   - "[[Literature Search]]"
-  - "[[Document]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
@@ -51,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-02
+updated: 2026-10-15
 ---
 
 # Office of Educational Research and Improvement
@@ -67,7 +65,7 @@ updated: 2026-10-02
 > - **成立时间与创设背景** 1979 年依据美国联邦《教育部组织法》（Department of Education Organization Act of 1979, P.L. 96-88）创设，取代原有的国家教育研究所（National Institute of Education, NIE），旨在整合原本分散在各行政署的教育研究、统计与信息传播职能。
 > - **总部地点与管辖范围** 总部设于美国首都华盛顿特区，业务辐射覆盖全美 50 州学前教育、初等与中等教育、高等教育及职业教育领域的国家级科研资助与数据监测。
 > - **法人属性与经费基础** 属于联邦内阁教育部下属的正局级行政科研管理部门，由经参议院确认的助理教育部长（Assistant Secretary for Educational Research and Improvement）直接领导，年度联邦财政预算拨款约数亿美元。
-> - **核心宗旨与法定职责** 开展并资[[Teaching Assistant|助教]]育活动和方案的实证研究，收集并报告关于美国教育状况的国家教育统计数据，通过国家[[Literature Search|文献检索]]库和区域网络扩散经检验的教育成果，促进学校教育教学质量的持续改进。
+> - **核心宗旨与法定职责** 开展并资助教育活动和方案的实证研究，收集并报告关于美国教育状况的国家教育统计数据，通过国家[[Literature Search|文献检索]]库和区域网络扩散经检验的教育成果，促进学校教育教学质量的持续改进。
 
 ---
 
@@ -87,7 +85,7 @@ updated: 2026-10-02
 > - **行政领导核心** 由美国总统任命并经参议院确认的助理教育部长（Assistant Secretary）主持全面工作，直接对联邦教育部长负责。
 > - **统计监测分支** 统摄国家教育统计中心（National Center for Education Statistics, NCES），由统计专员（Commissioner）领导，负责全国教育数据普查与监测。
 > - **外部咨询与监督** 依据 1994 年立法设立国家教育研究政策与优先事项委员会（NERPPB），由来自高校、学区与政策界的 15 名外部学者与专家组成，负责设定国家科研优先主题与[[External Auditor|外部审计]]。
-> - **区域转化与扩散网络** 通过 10 所区域教育实验室（RELs）和全国 [[Education Resources Information Center|ERIC]] [[Document|文献]]信息交流所（Clearinghouses）搭建贯通全美各州的科研成果转化与咨询网络。
+> - **区域转化与扩散网络** 通过 10 所区域教育实验室（RELs）和全国 [[Education Resources Information Center|ERIC]] 文献信息交流所（Clearinghouses）搭建贯通全美各州的科研成果转化与咨询网络。
 
 > [!pathways]- 业务运行机制
 > - **行政主导的项目立项与资助** OERI 时代重大科研项目多由联邦行政部门根据政策议程拟定优先资助指南，外部同行评议对立项决策的决定权相对有限，极易受到执政党更替与意识形态政策导向的左右。
@@ -100,7 +98,7 @@ updated: 2026-10-02
 > [!finding-cards] 核心业务矩阵与代表性产出
 > - **[[What Works Clearinghouse|有效干预清算中心]]（WWC）创设** 2002 年 8 月投入 1850 万美元设立 WWC，委托独立评估机构梳理全美教育干预的因果证据，制定初版[[Study Design and Implementation Assessment Device|研究设计与实施评估规程]]（Study DIAD），开启全美官方证据清算新纪元。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 34–36)]]
 > - **国家教育统计与 [[National Assessment of Educational Progress|NAEP]] 测评** 长期维持对全美学区、高校与成人教育的数据追踪，主导发布被誉为“国家成绩单”的国家教育进展评估（National Assessment of Educational Progress, NAEP）。
-> - **[[Education Resources Information Center|教育资源信息中心]]（ERIC）** 建立并维持全球最大规模的开放获取教育[[Document|文献]]题录与全文数据库体系，奠定教育知识传播的数字化基础设施。
+> - **[[Education Resources Information Center|教育资源信息中心]]（ERIC）** 建立并维持全球最大规模的开放获取教育文献题录与全文数据库体系，奠定教育知识传播的数字化基础设施。
 > - **国家研发中心网络** 在全美重点大学资助设立多个国家级教育研究中心（如阅读、数学、学生学习与学校组织等领域）。
 
 ---
@@ -108,7 +106,7 @@ updated: 2026-10-02
 ## 影响与体系成效
 
 > [!finding-cards] 关键历史影响与制度成效
-> - **确立联邦教育科学研究的官方建制** 在长达 23 年的存续期内，OERI 将原本零散脆弱的联邦教育科研整合为由统计中心、[[Document|文献]]数据库与区域实验室组成的制度化国家网络。
+> - **确立联邦教育科学研究的官方建制** 在长达 23 年的存续期内，OERI 将原本零散脆弱的联邦教育科研整合为由统计中心、文献数据库与区域实验室组成的制度化国家网络。
 > - **催生国家教育科学原则与规范标准** 面对自身面临的公信力危机，OERI 下属 NERPPB 的主动委托直接促成了 NRC 划时代报告《教育科学研究》（SRE, 2002）的诞生，确立了六大核心科学原则。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 31–33)]]
 > - **为独立循证时代的到来奠定组织与经验基础** OERI 晚期对 [[What Works Clearinghouse|WWC]] 的出资设立与方法学探索，为后续 [[Institute of Education Sciences|IES]] 时代的[[Evidence-Based Education|循证教育]]立法与实证证据阶梯奠定了不可或缺的制度雏形。
 

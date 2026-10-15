@@ -8,7 +8,7 @@ summary: "母子对话研究中的话语分析材料集，按认知社会化与�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 14
+method_related_count: 11
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Parental Cognitive and Affective Socialization]]"
   - "[[Causality]]"
   - "[[Homework]]"
-  - "[[Bildung]]"
   - "[[Benevolence]]"
   - "[[Learning Virtues]]"
   - "[[Pride in Learning]]"
@@ -33,17 +32,15 @@ related_theories: []
 related_methods:
   - "[[Mother-Child Conversation]]"
   - "[[Discourse Analysis]]"
-  - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Socrates]]"
-related_facts:
-  - "[[Microelectronics and Computer Technology Corporation]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # MCC Discourse Analysis Examples
@@ -53,7 +50,7 @@ updated: 2026-10-09
 ## 概述
 
 > [!info]
-> 本条目记录 [[Argument_Li_2012_Cambridge|Li (2012)]] 第 7 章中母子对话（[[Mother-Child Conversation]], [[Microelectronics and Computer Technology Corporation|MCC]]）研究的 22 段原始对话。Li 从 200 组对话中选取欧裔美国（EA）和台湾（TW）各 11 段进行[[Discourse Analysis\|话语分析]]。每段对话先呈现**逐句原文与中文翻译**，再展示 Li 的分析操作。
+> 本条目记录 [[Argument_Li_2012_Cambridge|Li (2012)]] 第 7 章中母子对话（[[Mother-Child Conversation]], MCC）研究的 22 段原始对话。Li 从 200 组对话中选取欧裔美国（EA）和台湾（TW）各 11 段进行[[Discourse Analysis\|话语分析]]。每段对话先呈现**逐句原文与中文翻译**，再展示 Li 的分析操作。
 
 话语分析的理论锚点是 Vygotsky 学派的[[Scaffolding|认知支架]]（cognitive scaffolding）概念，[[Parental Cognitive and Affective Socialization|情感社会化]]的理论基础是 Frijda 的评估理论和 Gottman 的元情感哲学([[Argument_Li_2012_Cambridge|Li, 2012]])。
 
@@ -183,7 +180,7 @@ updated: 2026-10-09
 > ```
 
 > [!quote] Li 的分析
-> Kate 提出了一个具体的反提案（玩 5 分钟 → 读五本书），这个反提案在母亲的价值体系中有合法性（因为她承诺了更多阅读）。母亲让步了，但从未放弃[[Bildung\|教养]]目标——母女通过协商共同达成协议。注意最后是由**儿童自己**说出了母亲想要的那个约束规则。
+> Kate 提出了一个具体的反提案（玩 5 分钟 → 读五本书），这个反提案在母亲的价值体系中有合法性（因为她承诺了更多阅读）。母亲让步了，但从未放弃教养目标——母女通过协商共同达成协议。注意最后是由**儿童自己**说出了母亲想要的那个约束规则。
 
 ---
 
@@ -447,7 +444,7 @@ updated: 2026-10-09
 > ```
 
 > [!quote] Li 的分析
-> 母亲直接把"谈论书籍"这个行为**[[Coding in Qualitative Research\|编码]]为"聪明人的行为"**。她没有说"这对学习有好处"——她调用了"聪明／智力"作为自带合法性的品质。效果是**即时**的：编码前 Ed 犹豫（"Sort of. Sometimes... sometimes maybe"），编码后他宣称要做最伟大的科学家。母亲的一句话改变了儿童对自己的认知定位。
+> 母亲直接把"谈论书籍"这个行为**编码为"聪明人的行为"**。她没有说"这对学习有好处"——她调用了"聪明／智力"作为自带合法性的品质。效果是**即时**的：编码前 Ed 犹豫（"Sort of. Sometimes... sometimes maybe"），编码后他宣称要做最伟大的科学家。母亲的一句话改变了儿童对自己的认知定位。
 
 **对话 B：Kevin 和拍照式记忆**
 
@@ -1283,7 +1280,7 @@ updated: 2026-10-09
 > 1. **建立共性基线再展示差异** 先识别三种跨文化共同特征，在共性的地基上展示差异
 > 2. **平行对比** 对每一对 EA and TW 对话保持分析维度一致，让差异在相同框架中自然显现
 > 3. **追踪因果方向** 不仅看母亲说了什么，更看母亲将对话**引向何处**——EA 终点是"你聪明/你[[Pride in Learning\|骄傲]]吗？"，TW 终点是"你还可以怎么更好？"
-> 4. **识别[[Coding in Qualitative Research\|编码]]操作** 注意母亲如何将儿童的行为**重新编码**——EA 母亲将"谈论书籍"编码为"聪明行为"，TW 母亲将"考好了→喜欢了"编码为"坚持了→考好了→喜欢了"
+> 4. **识别编码操作** 注意母亲如何将儿童的行为**重新编码**——EA 母亲将"谈论书籍"编码为"聪明行为"，TW 母亲将"考好了→喜欢了"编码为"坚持了→考好了→喜欢了"
 > 5. **从对话中提取推理链** 将母亲直觉性的引导重构为显性的推理步骤（Li 坦承这只是 22 段样本，"刚刚触及表面"）
 > 6. **注意"未说"的内容** 台湾母亲在 11 段对话中几乎从未说"你为自己骄傲吧"——这种沉默本身就是数据
 

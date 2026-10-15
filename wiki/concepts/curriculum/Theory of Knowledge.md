@@ -10,7 +10,7 @@ alias_reviewed:
 summary: "IB 文凭项目的跨学科核心必修课程，通过比较知识形成方式、证据标准与认识边界，连接学科学习、个人经验和批判性反思。"
 type: concept
 domain: "curriculum"
-related_count: 79
+related_count: 77
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -26,10 +26,10 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Epistemology]]"
   - "[[Knowledge Production]]"
-  - "[[Hypothesis]]"
   - "[[Ways of Knowing]]"
   - "[[Knowledge Framework]]"
   - "[[Epistemic Stances]]"
+  - "[[Problem Solving]]"
   - "[[Construct]]"
   - "[[General Education]]"
   - "[[Geisteswissenschaften]]"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Learner Autonomy]]"
   - "[[Extended Essay]]"
   - "[[International Schools]]"
+  - "[[School Autonomy]]"
   - "[[Homework]]"
   - "[[Rationalism in International Relations]]"
   - "[[Student Engagement]]"
@@ -46,19 +47,16 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Operationalization]]"
   - "[[Reliability]]"
-  - "[[Problem Solving]]"
   - "[[Construct Validity]]"
   - "[[Champ]]"
   - "[[Class Size]]"
   - "[[Teacher Beliefs]]"
   - "[[Empty Knower]]"
-  - "[[Bildung]]"
   - "[[Conatus]]"
   - "[[Critical Pedagogy]]"
   - "[[Active Learning]]"
   - "[[Banking Model of Education]]"
   - "[[Variable]]"
-  - "[[Attrition]]"
   - "[[Falsification]]"
   - "[[Paradigm]]"
   - "[[Scientific Method]]"
@@ -108,7 +106,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-30
-updated: 2026-10-02
+updated: 2026-10-15
 ---
 
 # Theory of Knowledge
@@ -122,7 +120,7 @@ updated: 2026-10-02
 
 > [!concept-lens] 概念透镜
 > - **含义** TOK 以认知者已有的学科经验和生活经验为起点，围绕我们如何知道以及知识如何形成展开反思。知识问题把具体主张转化为对证据、解释、确定性、视角和方法的审查。
-> - **用途** TOK 位于 DP 学科组之间，提供比较不同学科[[Knowledge Production\|知识生产]]方式的共同语言，并训练学生形成论证、比较观点、检查[[Hypothesis\|假设]]和反思自身认识位置。
+> - **用途** TOK 位于 DP 学科组之间，提供比较不同学科[[Knowledge Production\|知识生产]]方式的共同语言，并训练学生形成论证、比较观点、检查假设和反思自身认识位置。
 > - **边界** TOK 不以哲学史和哲学流派为主要教学内容，也不能由课程名称直接推定为完整的批判性思维训练。课程文本、评估任务和学校实施共同决定其实际范围。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 35–43)]]
 
 > [!boundary]- 版本边界
@@ -137,7 +135,7 @@ updated: 2026-10-02
 > |---|---|---|---|
 > | **核心问题** | 我们如何知道，知识主张如何获得支持 | 知识的性质、来源、范围与正当化 | 如何分析、评价、推论、判断和解决问题 |
 > | **内容组织** | [[Knowledge Questions\|知识问题]]、[[Ways of Knowing\|认知方式]]、[[Areas of Knowledge\|知识领域]]、真实情境与个人视角 | 哲学概念、理论传统和认识论论证 | 推理技能、思维倾向、论证任务和问题情境 |
-> | **典型活动** | 比较学科知识、联系真实情境、审查知识主张和不同观点 | 分析[[Epistemic Stances\|认识论立场]]及其论证 | 评价来源、检验[[Hypothesis\|假设]]、推论、决策、问题解决与创造 |
+> | **典型活动** | 比较学科知识、联系真实情境、审查知识主张和不同观点 | 分析[[Epistemic Stances\|认识论立场]]及其论证 | 评价来源、检验假设、推论、决策、[[Problem Solving\|问题解决]]与创造 |
 > | **课程边界** | 同时包含认识论与批判性思维成分，覆盖程度取决于指南和实施 | 可包含批判性分析，但不必承担跨学科课程功能 | 可跨学科实施，也可能依赖具体领域知识 |
 > | **Hughes 的判断** | 2013 年课程结构更集中于知识建构，对批判性思维[[Construct\|构念]]的覆盖不完整 | TOK 的实际结构与认识论课程高度接近 | TOK 只覆盖了其中的分析、评价、观点比较和论证等部分 |
 
@@ -229,7 +227,7 @@ TOK 早期允许学校自行设计课程，并可因地方文化条件省略不�
 >
 > 题目横跨道德判断、历史理解、语言与思想、科学理论，要求学生把具体例子转化为一般论证。共同性落在问题形式和推理要求，不要求所有学校教授同一套哲学结论。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, p. 180)]]
 
-> [!ref-table] 评价机制逐步平衡课程地位、学校自主与跨校可比性
+> [!ref-table] 评价机制逐步平衡课程地位、[[School Autonomy|学校自主]]与跨校可比性
 > | 评价安排 | 具体办法 | 主要目的 | 风险与调整 |
 > |---|---|---|---|
 > | 文凭分数中的低权重位置 | 优秀表现奖励 1 分；完全不参与扣 1 分；分数作用于文凭总分，不属于任何单科 | 防止 TOK 在终结性考试压力下被学校和学生忽视 | 权重过高会把 TOK 推向普通考试学科 |
@@ -324,7 +322,7 @@ TOK 早期允许学校自行设计课程，并可因地方文化条件省略不�
 > [!goal] 五项课程目标
 > - **跨情境联系** 把批判审查知识建构的方法与学科及更广泛世界联系起来。
 > - **知识建构意识** 理解个人和共同体如何[[Constructed Knowledge\|建构知识]]，以及这些知识如何接受批判审查。
-> - **文化与立场意识** 发展对文化视角多样性与丰富性的兴趣，并意识到个人和意识形态[[Hypothesis\|假设]]。
+> - **文化与立场意识** 发展对文化视角多样性与丰富性的兴趣，并意识到个人和意识形态假设。
 > - **信念反思** 批判性反思自身信念与假设，形成更审慎、负责和有目的的生活。
 > - **知识责任** 理解知识伴随责任，并可能通向承诺与行动。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, p. 37)]]
 
@@ -375,7 +373,7 @@ TOK 早期允许学校自行设计课程，并可因地方文化条件省略不�
 > **实施方式的调节作用** 新南威尔士州四所学校对 TOK 的[[Operationalization\|操作化]]存在明显差异。学校 1 和学校 4 将 TOK 置于全校批判性思维计划的核心，学校 3 侧重哲学与逻辑论证，学校 2 较多依赖全班讨论且显性教学较弱。课程名称和统一指南不能单独保证批判性思维发展，学校文化与实施设计构成关键条件。[[Argument_Cole_2015_AJE\|(Cole et al., 2015, pp. 256–259)]]
 
 > [!claim] Cole et al.
-> **初期困难与长期获益** 学生可能在课程初期经历 TOK 冲击，随后重新评价课程价值。长期获益主要表现为更成熟地批判性思考、质疑[[Hypothesis\|假设]]，以及更充分地表达知识与思维信念。[[Argument_Cole_2015_AJE\|(Cole et al., 2015, p. 259)]]
+> **初期困难与长期获益** 学生可能在课程初期经历 TOK 冲击，随后重新评价课程价值。长期获益主要表现为更成熟地批判性思考、质疑假设，以及更充分地表达知识与思维信念。[[Argument_Cole_2015_AJE\|(Cole et al., 2015, p. 259)]]
 
 ---
 
@@ -437,7 +435,7 @@ TOK 早期允许学校自行设计课程，并可因地方文化条件省略不�
 >
 > - **2005 年的学习者主体批判**
 >
->   Cole 认为 TOK 容易把学生预设为缺乏理性建构能力的[[Empty Knower\|空无知者]]，并可能借助[[Bildung\|教化]]与应试规范限制思想活动。他以[[Baruch Spinoza\|斯宾诺莎]]的[[Conatus\|欲力]]和想象力强调学习者的情感、能动性与创造。[[Argument_Cole_2005_JRIE\|(Cole, 2005, pp. 212, 220)]]
+>   Cole 认为 TOK 容易把学生预设为缺乏理性建构能力的[[Empty Knower\|空无知者]]，并可能借助教化与应试规范限制思想活动。他以[[Baruch Spinoza\|斯宾诺莎]]的[[Conatus\|欲力]]和想象力强调学习者的情感、能动性与创造。[[Argument_Cole_2005_JRIE\|(Cole, 2005, pp. 212, 220)]]
 >
 > - **2009 年记录的认知者中心模型**
 >
@@ -469,7 +467,7 @@ TOK 早期允许学校自行设计课程，并可因地方文化条件省略不�
 > | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 257)]] | DP 与非 DP 毕业生 | 澳大利亚高等教育入学排名（Australian Tertiary Admission Rank，ATAR） | DP 94 人<br>非 DP 267 人 | DP 94.13（6.79）<br>非 DP 89.29（12.07） | — | $t(290)=4.76$<br>$p<.001$ | 组间比较；[[Convenience Sampling\|便利抽样]]；不能分离 TOK 与整个 DP，也不能排除选课效应 |
 > | [[Argument_Cole_2015_AJE\|Cole et al. (2015, p. 258)]] | DP 与非 DP 毕业生 | [[Academic Self-Concept General Scale\|一般学术自我概念量表]]（Academic Self-Concept General Scale，ASC） | DP 99 人<br>非 DP 283 人 | DP 6.25（0.96）<br>非 DP 5.75（1.02） | — | $t(380)=4.24$<br>$p<.001$ | 组间比较；[[Convenience Sampling\|便利抽样]]；不能分离 TOK 与整个 DP，也不能排除选课效应 |
 > | [[Argument_Cole_2015_AJE\|Cole et al. (2015, pp. 257–258)]] | DP 与非 DP 毕业生 | 预期大学成果 | DP 99 人<br>非 DP 283 人 | DP 3.43（0.43）<br>非 DP 3.32（0.47） | — | $t(380)=2.25$<br>$p<.001$ | 组间比较；[[Convenience Sampling\|便利抽样]]；不能分离 TOK 与整个 DP，也不能排除选课效应 |
-> | [[Argument_Cole_2015_AJE\|Cole et al. (2015, pp. 256–258)]] | DP 与非 DP 毕业生 | [[California Critical Thinking Disposition Inventory\|加利福尼亚批判性思维倾向量表]]（California Critical Thinking Disposition Inventory，CCTDI）总分 | DP 42 人<br>非 DP 126 人 | DP 300.95（30.05）<br>非 DP 293.98（27.75） | — | — | 组间比较；完成者较少且存在额外登录造成的[[Attrition\|流失]]；便利样本不具代表性 |
+> | [[Argument_Cole_2015_AJE\|Cole et al. (2015, pp. 256–258)]] | DP 与非 DP 毕业生 | [[California Critical Thinking Disposition Inventory\|加利福尼亚批判性思维倾向量表]]（California Critical Thinking Disposition Inventory，CCTDI）总分 | DP 42 人<br>非 DP 126 人 | DP 300.95（30.05）<br>非 DP 293.98（27.75） | — | — | 组间比较；完成者较少且存在额外登录造成的流失；便利样本不具代表性 |
 > | [[Argument_Bergeron_2015_TeachingTOK\|Bergeron & Rogers (2015, p. 15)]] | TOK 教师教龄<br>10 年以上与 1–3 年 | [[Confidence Teaching TOK Scale\|TOK 教学信心量表]]（Confidence Teaching TOK Scale，CTT）总分 | 10 年以上 218 人<br>1–3 年 289 人 | 10 年以上 3.40（0.41）<br>1–3 年 3.17（0.47） | — | [[Analysis of Variance\|方差分析]]（analysis of variance，ANOVA）事后比较显示组间差异显著 | 横断调查；自报测量；教龄增长对信心的影响不能排除幸存者偏差 |
 
 ---
@@ -488,7 +486,7 @@ TOK 早期允许学校自行设计课程，并可因地方文化条件省略不�
 > [!critique-method] 2013 年指南的[[Construct Validity\|构念效度]]缺口
 > - **课程身份** 指南多次把 TOK 描述为批判性思维课程，课程主干却集中于知识如何被建构，实际结构至少同等程度上属于[[Epistemology\|认识论]]。
 > - **目标遗漏** 课程目标 3、4、5 和评估目标 6 没有充分进入终结性任务，文化视角、个人立场、责任与行动缺少对应评分证据。
-> - **技能遗漏** 评分描述符缺少批判性阅读、来源可[[Reliability\|信度]]评价、预测、推论、[[Hypothesis\|假设]]检验、不确定性判断、决策、[[Problem Solving\|问题解决]]与创造。
+> - **技能遗漏** 评分描述符缺少批判性阅读、来源可[[Reliability\|信度]]评价、预测、推论、假设检验、不确定性判断、决策、[[Problem Solving\|问题解决]]与创造。
 > - **技能分布不均** 具体的批判性思维要求主要集中在论文的分析质量描述符，[[Knowledge Questions\|知识问题]]理解和展示的实际应用描述符较少要求分析、评价与创造，课程因此呈现零散而非系统的技能覆盖。
 > - **任务偏置** 论文过度依赖定义含混的知识问题，展示过度依赖真实情境联系。高水平分析者可能因知识问题处理不足而失分，熟悉课程框架的学生则可能在分析较弱时仍取得较好表现。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 36–43)]]
 
@@ -544,14 +542,14 @@ TOK 早期允许学校自行设计课程，并可因地方文化条件省略不�
 > [!contrast-table] 四所案例学校的 TOK 实施模式
 > | 学校 | 实施方式 | TOK 与[[Critical Thinking\|批判性思维]]的关系 | 批判性思维教学程度 |
 > |---|---|---|---|
-> | **学校 1** | TOK 链接、跨学科探究、质疑知识[[Hypothesis\|假设]]、研究性活动 | TOK 实践与批判性思维对齐，全校统一采用 [[International Baccalaureate\|IB]] 概念和课程 | 强，TOK 是整个批判性思维学习计划的核心 |
+> | **学校 1** | TOK 链接、跨学科探究、质疑知识假设、研究性活动 | TOK 实践与批判性思维对齐，全校统一采用 [[International Baccalaureate\|IB]] 概念和课程 | 强，TOK 是整个批判性思维学习计划的核心 |
 > | **学校 2** | 讨论、辩论、主题工作、论文写作、知识作为文化[[Praxis\|实践]] | 历史、英语和科学等专科领域深刻影响 TOK 中的批判性思维教学 | 弱，批判性思维主要通过 TOK 与其他科目的连接传递 |
 > | **学校 3** | 逻辑、哲学辩论、[[Socrates\|苏格拉底]]对话、TOK 日志写作 | 批判性思维主要与哲学和逻辑论证关联，TOK 被视为哲学研究的一个子集 | 中等，聚焦传统哲学路径的批判性思维 |
 > | **学校 4** | 生活世界讨论、伦理、TOK 评估语言准备、思维常规教学 | TOK 嵌入全校批判性思维路径，并与心理学等科目连接 | 强，批判性思维是学校培养独立女性使命的核心部分 |
 
 > [!evidence-grid] 研究应用索引
 > - **制度起源与[[Critical Pedagogy\|批判教育学]]边界** 梳理 IB 与 TOK 的制度起源、同心圆架构和[[Critical Pedagogy\|批判教育学]]边界。[[Argument_Darwish_2009_Queens\|Darwish (2009)]]
-> - **学习者主体与情感哲学** 以[[Bildung\|教化]]与[[Baruch Spinoza\|斯宾诺莎]]情感哲学审查 TOK 中的[[Empty Knower\|空无知者]]。[[Argument_Cole_2005_JRIE\|Cole (2005)]]
+> - **学习者主体与情感哲学** 以教化与[[Baruch Spinoza\|斯宾诺莎]]情感哲学审查 TOK 中的[[Empty Knower\|空无知者]]。[[Argument_Cole_2005_JRIE\|Cole (2005)]]
 > - **[[Epistemology\|认识论]]训练与学习者自主** 将 TOK 作为认识论训练发展[[Learner Autonomy\|学习者自主性]]的课程案例。[[Argument_Lakhani_2012_AKUIED\|Lakhani (2012)]]
 > - **课程文本与[[Construct Validity\|构念效度]]** 比较 2013 年目标、评估目标和描述符与批判性思维分类框架，诊断[[Construct Validity\|构念效度]]缺口。[[Argument_Hughes_2014_JRIE\|Hughes (2014)]]
 > - **学校实施与批判性思维表现** 以[[Mixed Methods Research\|混合方法]]检验澳大利亚学校的 TOK 实施与批判性思维表现。[[Argument_Cole_2015_AJE\|Cole et al. (2015)]]

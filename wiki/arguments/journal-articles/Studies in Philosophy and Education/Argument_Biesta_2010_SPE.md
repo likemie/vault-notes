@@ -9,7 +9,7 @@ title: "Argument_Biesta_2010_SPE"
 argument_key: "Argument_Biesta_2010_SPE"
 argument_display_title: "Why 'What Works' Still Won't Work: From Evidence-Based Education to Value-Based Education"
 argument_kind: "journal-article"
-argument_related_count: 20
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -29,9 +29,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Epistemology]]"
   - "[[Determinism]]"
-  - "[[Document]]"
   - "[[Deficit Framing]]"
-  - "[[Hypothesis]]"
   - "[[Ontology]]"
   - "[[Causality]]"
   - "[[Reflexivity]]"
@@ -85,14 +83,14 @@ citation_aliases:
 > [!info] 研究方法
 > - **方法**[[Philosophical Analysis in Education]] — 以三个维度（[[Epistemology\|认识论]]、存在论、实践论）为框架，逐一展开概念分析和逻辑论证
 > - **论证结构** 每个维度先区分两种"解读"（representational vs. transactional / closed vs. open / application vs. incorporation），再识别一个"缺陷"
-> - **数据来源** 哲学[[Document\|文献]]（Dewey、Latour）、系统理论、教育研究方法论文献
+> - **数据来源** 哲学文献（Dewey、Latour）、系统理论、教育研究方法论文献
 
 ## 核心论证
 
 > [!example] 核心论证
 > ### 三重[[Deficit Framing\|缺陷框架]]
 >
-> Biesta 在[[Epistemology\|认识论]]、存在论和实践论三个维度逐一拆解[[Evidence-Based Education\|证据本位教育]]的前提[[Hypothesis\|假设]]。
+> Biesta 在[[Epistemology\|认识论]]、存在论和实践论三个维度逐一拆解[[Evidence-Based Education\|证据本位教育]]的前提假设。
 >
 > **第一重：知识缺陷（Knowledge Deficit）——认识论维度**
 >
@@ -148,7 +146,7 @@ citation_aliases:
 ## 主要发现
 
 > [!success] 主要发现
-> 1. **三重缺陷分别挑战了[[Evidence-Based Education\|证据本位教育]]的不同前提** 知识缺陷挑战了"研究能提供确定性"的[[Hypothesis\|假设]]；效力缺陷挑战了"社会因果可被确定"的假设；应用缺陷挑战了"进步来自知识应用"的假设
+> 1. **三重缺陷分别挑战了[[Evidence-Based Education\|证据本位教育]]的不同前提** 知识缺陷挑战了"研究能提供确定性"的假设；效力缺陷挑战了"社会因果可被确定"的假设；应用缺陷挑战了"进步来自知识应用"的假设
 >
 > 2. **证据本位教育实际上是一个价值真空的项目** 如果证据是唯一基础，教育实践将"完全没有方向"
 >

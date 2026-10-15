@@ -8,10 +8,10 @@ summary: "当代著名苏格兰裔道德哲学与政治哲学家、美德伦理�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 16
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 15
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1929"
 lifespan: "1929–至今"
 tags:
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Construct]]"
   - "[[Enlightenment]]"
-  - "[[Document]]"
   - "[[Technological Republic]]"
   - "[[Phronesis]]"
   - "[[Civic Religion]]"
@@ -46,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Alasdair MacIntyre
@@ -100,7 +99,7 @@ updated: 2026-10-09
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **道德哲学与政治理论路径** 成为当代美德伦理学复兴的奠基[[Document|文献]]，与[[John Rawls|罗尔斯]]自由主义正义论展开长期学术对话。
+> - **道德哲学与政治理论路径** 成为当代美德伦理学复兴的奠基文献，与[[John Rawls|罗尔斯]]自由主义正义论展开长期学术对话。
 > - **社群主义与文化批评** 深刻启发了当代社群主义学者对契约主义、工具理性与后现代道德虚无的系统反思。
 > - **现代国家与[[Technological Republic|技术共和国]]伦理重构** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《技术共和国》中引述麦金太尔，批判硅谷与西方社会的道德不可知论，主张确立明确的卓越德性追求。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 201)]]
 

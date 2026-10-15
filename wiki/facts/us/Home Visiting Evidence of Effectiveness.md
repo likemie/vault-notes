@@ -9,7 +9,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 15
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -24,7 +24,6 @@ tags:
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Evidence Standards]]"
-  - "[[Document]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Attrition]]"
   - "[[Variable]]"
@@ -32,7 +31,6 @@ related_concepts:
   - "[[Internal Validity]]"
 related_theories: []
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Regression Discontinuity Design]]"
@@ -46,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-09-16
+updated: 2026-10-15
 ---
 
 # Home Visiting Evidence of Effectiveness
@@ -68,17 +66,17 @@ updated: 2026-09-16
 > 联邦 MIECHV 拨款法案规定，各州至少 75% 的联邦家访资助资金必须投向被 HomVEE 认证为“符合 HHS 有效性[[Evidence Standards\|证据标准]]”的模型。
 >
 > - **强大的行政约束力** 与一般仅具咨询性质的清算中心不同，HomVEE 评级直接与数十亿美元的联邦财政转移支付挂钩，因而其标准具有极强的制度刚性。
-> - **1989 年[[Document\|文献]]起算点** 综述检索窗口固定设定为 1989 年至今，涵盖早期儿童认知发展、就学准备、母婴保健、家庭经济自立及虐待预防等八大核心结果域([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 8]])。
+> - **1989 年文献起算点** 综述检索窗口固定设定为 1989 年至今，涵盖早期儿童认知发展、就学准备、母婴保健、家庭经济自立及虐待预防等八大核心结果域([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 8]])。
 
 ---
 
 ## 因果推断与方法学标准
 
 > [!abstract] 因果设计与质量规程
-> HomVEE 在因果设计描述程度[[Coding in Qualitative Research\|编码]]中获评极高级别（**[[Randomised Controlled Trials\|RCT]]=3, [[Quasi-Experimental Designs\|QED]]=3, [[Regression Discontinuity Design\|RDD]]=3, [[Intelligent Tutoring Systems\|ITS]]=0**），是全库中唯一在技术细化程度上与 [[What Works Clearinghouse\|WWC]] 并驾齐驱的机构([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 10–11]])。
+> HomVEE 在因果设计描述程度编码中获评极高级别（**[[Randomised Controlled Trials\|RCT]]=3, [[Quasi-Experimental Designs\|QED]]=3, [[Regression Discontinuity Design\|RDD]]=3, [[Intelligent Tutoring Systems\|ITS]]=0**），是全库中唯一在技术细化程度上与 [[What Works Clearinghouse\|WWC]] 并驾齐驱的机构([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 10–11]])。
 >
 > 1. **全套专属设计指南** 针对 RCT、准实验（QED）及断点回归（RDD）均建立了数百页的独立审查规程与微观统计门槛。
-> 2. **量化[[Attrition\|流失]]率模型** 严格核算总体流失与差异流失率，设定了与 WWC 类似的无偏样本流失边界。
+> 2. **量化流失率模型** 严格核算总体流失与[[Attrition|差异流失]]率，设定了与 WWC 类似的无偏样本流失边界。
 > 3. **基线等值性与混杂因素排除** 强制要求在干预前基线测量中证明两组在人口学[[Variable\|变量]]与核心发展指标上的等值性。
 
 ---

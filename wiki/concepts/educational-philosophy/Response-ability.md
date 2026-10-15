@@ -5,7 +5,7 @@ aliases:
 summary: "把责任理解为对他者和共同世界保持敏感并具备回应能力的伦理概念，是后人类主义关系伦理的重要核心"
 type: concept
 domain: "educational-philosophy"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,7 +17,6 @@ tags:
 related_concepts:
   - "[[Sympoiesis]]"
   - "[[Strategic Compliance]]"
-  - "[[Hypothesis]]"
   - "[[Ontology]]"
   - "[[Epoché]]"
   - "[[Posthumanism]]"
@@ -34,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 ## 定义
@@ -44,7 +43,7 @@ updated: 2026-10-12
 >
 > [[Argument_Amos_2022_Springer\|Amos (2022, p.62)]] 将 response-ability 定位为 [[Sympoiesis]]（共同制造）的伦理内核：如果世界是通过多物种的共同交互被持续制造的（sympoiesis），那么伦理问题就不再是"我应该遵守什么规则"（responsibility as [[Strategic Compliance|compliance]]），而是"我如何发展出对他者——包括非人类的他者——需求的敏感性和回应能力"（response-ability as capacity）。
 >
-> > 例：传统伦理教育：教学生"你应该诚实""你应该尊重他人"——这是 responsibility，即遵守既定的道德规则。Response-ability 的教育：让学生在社区服务中直接面对老人的孤独、在生态项目中直接感知河流的污染——不是为了"做正确的事"，而是为了发展出对他者处境的敏感性。前者[[Hypothesis\|假设]]伦理规则已经知道了，后者认为伦理感知需要被培育。
+> > 例：传统伦理教育：教学生"你应该诚实""你应该尊重他人"——这是 responsibility，即遵守既定的道德规则。Response-ability 的教育：让学生在社区服务中直接面对老人的孤独、在生态项目中直接感知河流的污染——不是为了"做正确的事"，而是为了发展出对他者处境的敏感性。前者假设伦理规则已经知道了，后者认为伦理感知需要被培育。
 >
 
 ## 概念辨析

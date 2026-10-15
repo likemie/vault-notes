@@ -15,7 +15,7 @@ summary: "一种让参与者在具身虚构情境或人机协同中扮演特定�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 44
+method_related_count: 41
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -41,11 +41,9 @@ related_concepts:
   - "[[Epistemic Agency]]"
   - "[[Classroom Debate]]"
   - "[[Epistemic Scaffolding]]"
-  - "[[Hypothesis]]"
   - "[[Bureaucracy]]"
   - "[[Shadow Hierarchy]]"
   - "[[Heterogeneity]]"
-  - "[[Document]]"
   - "[[Authentic Assessment]]"
   - "[[Scaffolding]]"
   - "[[Engineering Mindset]]"
@@ -69,7 +67,6 @@ related_persons:
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
   - "[[Konrad Lorenz]]"
-  - "[[Alfred Nobel]]"
 related_facts:
   - "[[CREATES Project]]"
   - "[[Palantir Technologies]]"
@@ -81,7 +78,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-03
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Role-playing
@@ -121,7 +118,7 @@ updated: 2026-10-08
 > |---|---|---|---|---|
 > | **理论源头** | 心理剧（Moreno）与具身[[Situative Perspective\|情境认知]] | 约翰斯通即兴演剧论（Johnstone, 1981） | [[Man-Computer Symbiosis\|人机共生]]与生成式[[Epistemic Scaffolding\|认识论支架]] | 社会决策论与逻辑辩证法 |
 > | **核心机制** | 具身角色代入与换位共情 | 本体地位与扮演地位解耦、地位升降调试 | 提示词驱动 AI 扮演特定认知反方角色 | 二元正反对抗、参数操控与因果推演 |
-> | **交互焦点** | 价值预设审查与内隐态度呈现 | 破除等级枷锁、识别盲区、实战即兴应变 | 算法[[Hypothesis\|假设]]审问、证据核验与扰动 | 论据有效性、逻辑自洽性与系统动态反馈 |
+> | **交互焦点** | 价值预设审查与内隐态度呈现 | 破除等级枷锁、识别盲区、实战即兴应变 | 算法假设审问、证据核验与扰动 | 论据有效性、逻辑自洽性与系统动态反馈 |
 > | **主体结构** | 多元利益相关方（网状人际关系） | 演员/工程师（扁平网络与阴影层级） | 学习者（评价者）与 AI（质疑者） | 正反双方阵营或人机操作者 |
 > | **组织与认知功能**| 克服刻板偏见、增进同理心 | 破除[[Bureaucracy\|科层制]]束缚、赋能自适应突击 | 维持[[Epistemic Agency\|认识主体性]]、进阶评价立场 | 培养逻辑攻防与复杂系统因果认知 |
 
@@ -158,7 +155,7 @@ updated: 2026-10-08
 > [!ref-table]- 代表性实证、准实验与组织实践案例
 > <span class="concept-empirical-studies-table-marker" aria-hidden="true"></span>
 >
-> | 研究与实践[[Document\|文献]] | 实施领域与设计 | 主要发现与指标 | 理论与方法启示 |
+> | 研究与实践文献 | 实施领域与设计 | 主要发现与指标 | 理论与方法启示 |
 > |---|---|---|---|
 > | McCarthy & Anderson (2000) | 大学历史与政治学准实验比较（角色扮演 vs 传统讲授） | 角色扮演组后续标准评估得分显著更高（政治学均值差 $+0.8$，历史 $+1.0$） | 证实角色扮演对深层概念理解与多重视角采择的促进作用。 |
 > | Sellers (2002) | 研究生护理教育两小时“热座”期末考核 | 学习成果达成度高，学生对考核有效性评分达 $6.68–7.0$ / $7.0$ | 证明角色扮演可作为高质量的综合[[Authentic Assessment\|表现性评价]]工具。 |
@@ -198,7 +195,7 @@ updated: 2026-10-08
 > | [[Keith Johnstone\|基思·约翰斯通]] | 人物 | 现代即兴戏剧理论奠基人，著有《即兴》（*Impro*），创立地位交易与角色解耦理论。 |
 > | [[Alexander Karp\|亚历山大·卡普]] | 人物 | 技术企业家与哲学家，将约翰斯通即兴角色演剧理论引入前沿技术组织与工程文化。 |
 > | [[Nicholas Zamiska\|尼古拉斯·扎米斯卡]] | 人物 | 与卡普合著探讨即兴演剧与初创企业组织敏捷性。 |
-> | [[Konrad Lorenz\|康拉德·洛伦兹]] | 人物 | [[Alfred Nobel\|诺贝尔]]奖动物行为学家，其社会动物啄序研究启发了即兴演剧对微观地位的洞察。 |
+> | [[Konrad Lorenz\|康拉德·洛伦兹]] | 人物 | 诺贝尔奖动物行为学家，其社会动物啄序研究启发了即兴演剧对微观地位的洞察。 |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26\|Cohen et al. (2011, Ch. 26)]] | 论证 | 详尽阐述角色扮演作为[[Qualitative Research\|质性研究]]与教育教学方法的理论基础与操作规范。 |
 > | [[Argument_Wu_2025_ER\|Wu et al. (2025)]] | 论证 | 实证检验大模型认知角色设定对促发[[Epistemology\|认识论]]扰动与评价主义立场的有效性。 |
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 论证 | [[Meta-analysis\|元分析]]确立角色扮演在促进[[Critical Thinking\|批判性思维]]中的最高教学干预[[Effect Size\|效应量]]。 |

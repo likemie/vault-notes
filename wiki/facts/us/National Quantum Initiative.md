@@ -11,9 +11,9 @@ subtype: program
 region: "us"
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 16
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 15
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "2018–至今"
 initiator_organization: "National Science and Technology Council"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Megascience Installations]]"
   - "[[Industry Affiliate Program]]"
   - "[[Engineering Education]]"
-  - "[[Assemblage]]"
   - "[[Open-Mindedness]]"
 related_methods:
   - "[[Quasi-Experimental Designs]]"
@@ -40,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # National Quantum Initiative
@@ -98,7 +97,7 @@ updated: 2026-10-10
 > [!pathways]- 实施路径与管理
 > - **纵向传导与支持** 联邦各机构依据法案编制专项预算并定期汇报国会，[[Big Science|大科学]]中心采取 5 年期滚动支持并引入严格的中期国际同行评议。
 > - **横向跨部门协同** 与[[National Nanotechnology Initiative|国家纳米技术倡议]]（NNI）、[[Materials Genome Initiative|材料基因组计划]]（MGI）共享微纳加工设备与材料计算平台，打通从微纳制造到量子比特流片的全链条。
-> - **动态反馈与调整** 针对量子硬件向实用工程转化面临的机台与材料瓶颈，动态增设极低温 CMOS 驱动电路与专用[[Assemblage|装配]]套件课题。
+> - **动态反馈与调整** 针对量子硬件向实用工程转化面临的机台与材料瓶颈，动态增设极低温 CMOS 驱动电路与专用装配套件课题。
 
 ---
 

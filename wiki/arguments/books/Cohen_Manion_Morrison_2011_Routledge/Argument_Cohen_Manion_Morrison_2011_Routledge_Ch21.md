@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21"
 argument_display_title: "Research Methods in Education · Ch21"
 argument_kind: "book-chapter"
-argument_related_count: 55
+argument_related_count: 51
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -38,17 +38,14 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Interviewer Effects]]"
   - "[[Epistemology]]"
-  - "[[Hypothesis]]"
   - "[[Research Purpose]]"
   - "[[Variable]]"
   - "[[Reliability]]"
-  - "[[Document]]"
   - "[[Emergence]]"
   - "[[Fitness for Purpose]]"
   - "[[Open-Ended and Closed-Ended Data]]"
   - "[[Leading Questions]]"
   - "[[Homework]]"
-  - "[[Teaching Assistant]]"
   - "[[Cooperative Learning]]"
   - "[[Construct]]"
   - "[[Chain of Evidence]]"
@@ -69,7 +66,6 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Questionnaire]]"
   - "[[Data Reduction]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[In-depth Interview]]"
   - "[[Focus Group]]"
   - "[[Group Interview]]"
@@ -141,7 +137,7 @@ updated: '2026-09-08'
 Kitwood（1977）对比了三种访谈观念，构成理解访谈[[Epistemology|认识论]]的底层框架（pp.410–412）：
 
 > [!contrast-table] Kitwood 的三种访谈观念
-> | 观念 | 核心[[Hypothesis\|假设]] | 偏差立场 | 知识观 |
+> | 观念 | 核心假设 | 偏差立场 | 知识观 |
 > |---|---|---|---|
 > | **纯信息传输手段** | 人格有相对持久、一致的核心；良好融洽关系和真诚动机下可获得准确数据 | 偏差可被技能基本消除 | 知识存在于受访者内部，等待被提取 |
 > | **带有偏差的交易** | 每个参与者以特定方式定义访谈情境；非理性因素（情绪、无意识需求、人际影响）支配行为 | 偏差不可避免，但可通过研究设计控制（如不同偏差的多种访谈者） | 知识在交易中产生，但偏差是障碍 |
@@ -180,7 +176,7 @@ Cicourel（1964）的五种不可避免特征（无法通过技术手段消除�
 
 > [!goal] 访谈的三重研究目的
 > 1. **主要信息收集手段** 直接触及研究目标。Tuckman（1972）："通过提供进入'人脑内部'的途径，[访谈]使测量一个人知道什么（知识或信息）、喜欢或不喜欢什么（价值观和偏好）、以及想什么（态度和信念）成为可能"
-> 2. **检验或生成[[Hypothesis\|假设]]** 作为解释性工具，帮助识别[[Variable\|变量]]和关系
+> 2. **检验或生成假设** 作为解释性工具，帮助识别[[Variable\|变量]]和关系
 > 3. **与其他方法结合使用** Kerlinger（1970）建议用于跟进意外结果、验证其他方法、或深入探究受访者动机和回应原因
 
 > [!def] 研究访谈的定义（Cannell & Kahn, 1968）
@@ -194,7 +190,7 @@ Cicourel（1964）的五种不可避免特征（无法通过技术手段消除�
 > | 3 回应个性化机会 | 广泛 | 有限 |
 > | 4 追问机会 | 广泛 | 有限 |
 > | 5 探测机会 | 可能 | 困难 |
-> | 6 [[Data Reduction\|数据缩减]]的相对量级 | 大（因为需要[[Coding in Qualitative Research\|编码]]） | 主要限于光栅化 |
+> | 6 [[Data Reduction\|数据缩减]]的相对量级 | 大（因为需要编码） | 主要限于光栅化 |
 > | 7 通常可接触的受访者数量 | 有限 | 广泛 |
 > | 8 回收率 | 好 | 差 |
 > | 9 误差来源 | 访谈者、工具、编码、样本 | 限于工具和样本 |
@@ -207,7 +203,7 @@ Oppenheim（1992, pp. 81–82）补充：访谈比问卷有更高回应率（受
 
 ### 21.4 访谈的类型
 
-访谈到底有多少种类型，很大程度上取决于参考了哪些[[Document|文献]]。以下是不同学者提出的分类体系（pp.413–414）：
+访谈到底有多少种类型，很大程度上取决于参考了哪些文献。以下是不同学者提出的分类体系（pp.413–414）：
 
 > [!taxonomy] 不同学者列出的访谈类型
 > | 来源 | 所列类型 |
@@ -303,7 +299,7 @@ Kvale（1996, p. 88）的访谈调查七个阶段（pp.418–420）：
 > 2. **设计** 将研究目标转化为提纲中的具体问题——包括三种项目类型、问题格式、回答模式和提示与追问。
 > 3. **访谈实施** 执行访谈——建立融洽关系、告知性质与目的、管理互动动态、处理非语言沟通、保持适合目的的引导程度。
 > 4. **转录** 将口头遭遇转换为书面文本——选择性转换，数据损失风险巨大。不存在单一的正确转录。
-> 5. **分析** 通过[[Coding in Qualitative Research\|编码]]、[[Content Analysis\|内容分析]]或[[Phenomenology\|现象学]]程序生成意义——Miles and Huberman 12 种策略、Brenner 等 13 步、Hycner 15 步现象学程序。
+> 5. **分析** 通过编码、[[Content Analysis\|内容分析]]或[[Phenomenology\|现象学]]程序生成意义——Miles and Huberman 12 种策略、Brenner 等 13 步、Hycner 15 步现象学程序。
 > 6. **验证** 效度核验贯穿全部七个阶段——从理论基础严谨性到报告公正性。
 > 7. **报告** 以适合目的的格式呈现——量化数据可简洁列表图示，质性数据产生词语叙述，占据更多篇幅。
 
@@ -367,7 +363,7 @@ Kvale（1996, p. 88）的访谈调查七个阶段（pp.418–420）：
 >
 > **受访者** 能力较差的学生会拖慢班级中能力较强的学生，而且教师必须非常辛苦地应对广泛的能力差异。
 >
-> **研究者（控制能力较强学生放慢速度）** 但我们知道，许多能力较强的学生无论如何都会放慢速度，原因有二：快速完成会被布置更多[[Homework\|作业]]→想要轻松生活；不想在班级中显得与众不同→放慢速度。而且教师无论如何都必须努力工作——她有日常多项任务。实际上教师可以有[[Teaching Assistant\|助教]]协助不同能力的学生。
+> **研究者（控制能力较强学生放慢速度）** 但我们知道，许多能力较强的学生无论如何都会放慢速度，原因有二：快速完成会被布置更多[[Homework\|作业]]→想要轻松生活；不想在班级中显得与众不同→放慢速度。而且教师无论如何都必须努力工作——她有日常多项任务。实际上教师可以有助教协助不同能力的学生。
 >
 > **受访者** 但即使有助教，也不能确保所有学生都公平地获得教师的注意力——只有能力较弱和能力较强孩子获得额外关注。
 >

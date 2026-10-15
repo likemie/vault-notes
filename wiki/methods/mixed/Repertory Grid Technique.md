@@ -9,7 +9,7 @@ summary: "基于个人建构理论的研究工具，通过元素与构念的交�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 18
+method_related_count: 17
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#fef3c7"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
-  - "[[Hypothesis]]"
   - "[[Causality]]"
   - "[[Research Purpose]]"
   - "[[Halo Effect]]"
@@ -45,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-28
-updated: 2026-09-18
+updated: 2026-10-15
 ---
 # Repertory Grid Technique
 
@@ -72,7 +71,7 @@ updated: 2026-09-18
 ## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
-> - **知识观** 不存在客观绝对的真实；意义是个体建构的产物。研究者的任务是理解个体的建构系统，而非验证预设[[Hypothesis\|假设]]或测量客观属性。
+> - **知识观** 不存在客观绝对的真实；意义是个体建构的产物。研究者的任务是理解个体的建构系统，而非验证预设假设或测量客观属性。
 > - **研究者角色** 引发[[Construct\|构念]]时——研究者提供结构化框架（选择元素、引导三元比较），但内容由受访者决定；提供构念时——研究者积极预设分析维度，但仍保留受访者的自我评分。研究者的核心判断在于何时使用引发构念、何时使用提供构念。
 > - **有效性标准** 引发构念的有效性取决于元素同质性（Yorke, 1978; Wright & Lam, 2002）和构念的双极性是否得到确保（对立面方法, Epting et al., 1971）；提供构念的有效性取决于构念对受访者是否有意义和是否单维（Bell, 2000）。
 > - **不声称回答的问题** 从个别化引发的网格不能直接推断群体规律；从网格数据不能直接推出[[Causality\|因果关系]]或行为预测；从网格汇总测量不能替代深入理解个体建构系统。

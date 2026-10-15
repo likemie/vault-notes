@@ -9,7 +9,7 @@ aliases:
 summary: "由苏珊·米奇等提出的行为系统理论模型，认为行为改变是能力（身体与心理）、机会（物理与社会）和动机（反思与自发）交互作用的产物；在教育政策与知识动员中，它被用于解释为何单纯信息推送无法改变实践，并为循证中介机构设计多维支持体系提供行为科学基石"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 34
+theory_related_count: 32
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -27,9 +27,7 @@ related_concepts:
   - "[[Evidence Standards]]"
   - "[[Reflexivity]]"
   - "[[Metacognition]]"
-  - "[[Hypothesis]]"
   - "[[Falsification]]"
-  - "[[Document]]"
   - "[[Self-Efficacy]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Educational Brokerage Agency]]"
@@ -63,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-09-18
+updated: 2026-10-15
 ---
 
 # COM-B Model
@@ -107,9 +105,9 @@ updated: 2026-09-18
 ## 核心命题与机制
 
 > [!proposition-chain] 核心命题一｜知识认知绝不自动等同于行为发生，循证实践必须依赖能力、机会与动机的三维共振
-> - **前提一** 传统知识传播模式假定决策者与教师只要“阅读了研究证据”就会理性调整办学与教学行为，这种线性推送[[Hypothesis\|假设]]被大规模试验实证[[Falsification\|证伪]]。
+> - **前提一** 传统知识传播模式假定决策者与教师只要“阅读了研究证据”就会理性调整办学与教学行为，这种线性推送假设被大规模试验实证[[Falsification\|证伪]]。
 >   > [!evidence-grid]- 证据
->   > - **证据一** 英国[[Education Endowment Foundation\|教育捐赠基金会]]针对 800 所小学开展的多臂[[Randomised Controlled Trials\|随机对照试验]]（Lord et al., 2017）证实，无论采用何种形式的单纯[[Document\|文献]]推介与信息挂网，对学生的最终学业统考成绩[[Effect Size\|效应量]]均为 0（引自 [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022, p. 152]]）。
+>   > - **证据一** 英国[[Education Endowment Foundation\|教育捐赠基金会]]针对 800 所小学开展的多臂[[Randomised Controlled Trials\|随机对照试验]]（Lord et al., 2017）证实，无论采用何种形式的单纯文献推介与信息挂网，对学生的最终学业统考成绩[[Effect Size\|效应量]]均为 0（引自 [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022, p. 152]]）。
 > - **前提二** 行为改变需要心理能力、外部环境促成以及内在情绪动机的协同满足。缺失备课工时（物理机会）或面临督导惩罚风险（社会机会与自发性动机）时，即便教师具备解读文献的认知能力，证据采纳行为亦不会发生。
 > - **推导** ① 单向知识传递仅部分影响了受众的认知能力（C）；② 外部高压环境与紧绷的教学日程剥夺了一线行动者的实践机会（O）；③ 风险规避心理与缺乏[[Self-Efficacy\|自我效能感]]抑制了行动动机（M）；因此得出：单向信息推送绝无法自发诱发行为改变，必须针对 C-O-M 开展全要素干预。
 
@@ -185,5 +183,5 @@ updated: 2026-09-18
 > | [[Evidence-Informed Practice]] | Concept | 探讨专业人员如何在结合专业技能与证据的同时，克服能力与动机障碍。 |
 > | [[Research Schools Network]] | Fact (Organization) | 运用 COM-B 模型搭建实证大使与校际支持网络以改变课堂教学行为的经典案例。 |
 > | [[Early Intervention Foundation]] | Fact (Organization) | 率先将 COM-B 模型引入地方政府儿童服务与家庭政策[[Knowledge Mobilisation\|知识动员]]的标杆中介。 |
-> | [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022]] | Argument | 系统阐述 COM-B 模型如何作为知识中介方法选择与变革理论核心支撑的[[Document\|文献]]。 |
+> | [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022]] | Argument | 系统阐述 COM-B 模型如何作为知识中介方法选择与变革理论核心支撑的文献。 |
 

@@ -8,7 +8,7 @@ aliases:
 summary: "指在多元行动者共同参与的复杂决策网络与层叠制度中，由于行动者增厚与权责边界重叠，导致无法将系统后果归咎于任何单一主体的责任困境与治理病理。"
 type: concept
 domain: "science-policy"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,7 +23,6 @@ tags:
 related_concepts:
   - "[[Institutional Layering]]"
   - "[[Grand Challenges]]"
-  - "[[Document]]"
   - "[[Multiplicity]]"
   - "[[Emergence]]"
   - "[[Necessary and Sufficient Conditions]]"
@@ -43,7 +42,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Problem of Many Hands
@@ -66,7 +65,7 @@ updated: 2026-10-12
 > *Responsibilities for action or non-action are hard to determine, causing a 'problem of many hands' especially if multiple actors, policy domains, and governance levels need to cooperate.*
 
 > [!citation-card] 机构图层重叠与责任模糊诱发多手难题
-> 涉及向既有规制体制增加私营部门行动者或非营利组织等新主体的[[Document|文献]]指出，由于重叠图层的存在，往往导致管辖权模糊不清与责任界限淡化，这让人联想起丹尼斯·汤普森著名的多手难题。这一脉络可概括为聚焦于向既有情境添加行动者的政府增厚。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 14)]]
+> 涉及向既有规制体制增加私营部门行动者或非营利组织等新主体的文献指出，由于重叠图层的存在，往往导致管辖权模糊不清与责任界限淡化，这让人联想起丹尼斯·汤普森著名的多手难题。这一脉络可概括为聚焦于向既有情境添加行动者的政府增厚。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 14)]]
 >
 > *Issues referred to in this branch of literature often relate to unclearness of jurisdiction and blurring of responsibilities as a result of overlapping layers (e.g. Brenner, 1975), which reminds us of Denis Thompson’s (1980) famous ‘problem of many hands’. This use of the concept could be summarised as the ‘thickening of government’ (Light, 1995), with a strong focus on adding actors to existing situations.*
 
@@ -84,7 +83,7 @@ updated: 2026-10-12
 > | **学科根源** | 政治哲学、公共行政学与[[Historical Institutionalism\|历史制度主义]] | 制度经济学与公共选择理论 | 社会心理学 |
 > | **核心机制** | 因果贡献碎片化与制度图层重叠导致事后归责不能 | 排他性弱诱发理性个体不贡献资源 | 责任扩散导致紧急情境下无人施救 |
 > | **解决路径** | 明确前瞻性责任、精简重叠图层与构建跨部门共治协议 | 产权界定、强制税收与排他性制度 | 明确单一指令、显性指定个体责任人 |
-> | **代表[[Document\|文献]]** | Thompson (1980); [[Argument_VanDerHeijden_2011_Politics\|Van der Heijden (2011)]]; Van de Poel et al. (2012) | Olson (1965) | Darley & Latané (1968) |
+> | **代表文献** | Thompson (1980); [[Argument_VanDerHeijden_2011_Politics\|Van der Heijden (2011)]]; Van de Poel et al. (2012) | Olson (1965) | Darley & Latané (1968) |
 
 ---
 

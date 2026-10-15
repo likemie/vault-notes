@@ -6,10 +6,10 @@ aliases:
 summary: "某一共同体成员在社会互动中提出、沟通、评估与合法化知识主张的组织化行动方式，强调认识论主体由笛卡尔孤立个体向微观社会协商群体的转向，具有交互生成、情境嵌入、历史互文与制度后果四大特征。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 51
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_count: 48
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - theme/epistemology
   - theme/science-education
@@ -22,14 +22,12 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Operationalization]]"
   - "[[Practical Epistemology]]"
-  - "[[Hypothesis]]"
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
   - "[[Construct]]"
   - "[[Variable]]"
   - "[[Scientific Explanation]]"
   - "[[Chain of Evidence]]"
-  - "[[Document]]"
   - "[[Academic Achievement]]"
   - "[[Socioscientific Issues]]"
   - "[[Epistemic Aims]]"
@@ -61,7 +59,6 @@ related_methods:
   - "[[Interactional Ethnography]]"
   - "[[Effect Size]]"
   - "[[Transcription in Qualitative Research]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Practical Epistemology Analysis]]"
   - "[[Multimodal Discourse Analysis]]"
   - "[[Correlational Research]]"
@@ -76,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Epistemic Practices
@@ -101,7 +98,7 @@ updated: 2026-10-07
 > *Epistemic practices are the socially organized and interactionally accomplished ways that members of a group propose, communicate, evaluate, and legitimize knowledge claims. Drawing from studies of science and education, this chapter argues that epistemic practices are interactional (constructed among people through concerted activity), contextual (situated in social practices and cultural norms), intertextual (communicated through a history of coherent discourses, signs and symbols), and consequential (legitimized knowledge instantiates power and culture). Through application of these epistemic practices, communities justify knowledge claims.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Practical Epistemology\|实践认识论]]（Practical Epistemology） 实践认识论主要关注学生在探究实践中隐性持有并运用的知识信念倾向（如对知识确定性、简单性的心理[[Hypothesis\|假设]]）；认识论实践则聚焦于在公开话语互动中被执行、被观察、被集体裁决的社会化行动模式。
+> - 不等于 [[Practical Epistemology\|实践认识论]]（Practical Epistemology） 实践认识论主要关注学生在探究实践中隐性持有并运用的知识信念倾向（如对知识确定性、简单性的心理假设）；认识论实践则聚焦于在公开话语互动中被执行、被观察、被集体裁决的社会化行动模式。
 > - 不等于 刻板化科学过程技能（Science Process Skills） 传统技能（如单纯的观察、测量、分类）往往被割裂为去情境的算法式步骤；认识论实践强调[[Knowledge Production\|知识生成]]、评价与辩护在真实学科文化和价值规范中的不可分割性。
 > - 不等于 个人认识论（Personal Epistemology） 个人认识论将认知主体预设为孤立的个体心智，依赖去情境的[[Questionnaire\|问卷]]量表测量信念发展阶段；认识论实践将主体定位于微观协商共同体，通过[[Discourse Analysis\|话语分析]]考察社会互动的规程。
 
@@ -130,7 +127,7 @@ updated: 2026-10-07
 群体的认识论实践主要体现在对知识主张（knowledge claims）的四类核心操作：
 
 > [!taxonomy] 认识论实践的四维行动维度（[[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona, 2018, pp. 140]], 144–147）
-> - **提出主张（Propose）** 针对自然现象提出尝试性构想与解释[[Hypothesis\|假设]]。包括提出科学探究问题、设计调查方案、进行具身观察与仪器测量、设想相关证据基础，以及构建和修正初始理论模型。
+> - **提出主张（Propose）** 针对自然现象提出尝试性构想与解释假设。包括提出科学探究问题、设计调查方案、进行具身观察与仪器测量、设想相关证据基础，以及构建和修正初始理论模型。
 > - **沟通主张（Communicate）** 运用专业学科语言与符号系统呈现推理链条。包括撰写实验报告、开展口头[[Scientific Explanation\|科学解释]]、基于证据与推理展开阐述、向特定受众（同伴、教师、委托方）进行说服性表达。
 > - **评估主张（Evaluate）** 对知识主张及其[[Chain of Evidence\|证据链]]条的严密性进行公共审查。包括评判主张与证据的契合度、检验推理逻辑的内在连贯性、权衡相互竞争的备择解释（alternatives）、审查模型解释力的边界与局限。
 > - **合法化主张（Legitimize）** 确立知识主张在特定共同体中的公共效力。包括达成群体共识、将新解释纳入既有被科学界认可的理论谱系、接受学科共同体的标准规范检验，以及赋予学生平等的科学身份。
@@ -142,7 +139,7 @@ updated: 2026-10-07
 > [!feature] 认识论实践的四大本体特征（[[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona, 2018, pp. 156–159]]）
 > - **交互生成性（Interactional）** 认识论实践并非存在于个体大脑内部，而是在人与人、文本与工具的协同互动与即时交锋中当场实现的。
 > - **多尺度情境性（Contextual）** [[Knowledge Building Theory|知识建构]]深嵌于微观时空情境之中；同时，瞬间的课堂互动又受到宏观历史尺度所积淀的学科[[Paradigm\|范式]]与文化规范的制约。
-> - **历史互文性（Intertextual）** [[Discourse|话语]]过程持续指涉并重组先前的口头谈话、正式书面[[Document\|文献]]、实验记录及图表符号，形成跨越时间的连续意义脉络。
+> - **历史互文性（Intertextual）** [[Discourse|话语]]过程持续指涉并重组先前的口头谈话、正式书面文献、实验记录及图表符号，形成跨越时间的连续意义脉络。
 > - **制度后果性（Consequential）** 知识主张被接纳或拒绝直接关涉群体内部的权力分配、[[Academic Achievement\|学业成就]]认定以及学生的科学身份（science identity）认同。
 
 ### 学科与教学形态异质性
@@ -290,7 +287,7 @@ updated: 2026-10-07
 > |---|---|---|---|---|---|---|
 > | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, pp. 144–145)]] | 高中物理课堂弹簧振子振动实验小组（Kelly et al., 2001 案例） | 微观交互[[Ethnography\|人种志]]与录像[[Transcription in Qualitative Research\|转录]]分析 | 具身动作、传感器波形图与猜想提出序列 | 学生通过手部模仿波形，将身体感觉与屏幕波峰对照以提出初始假说 | 质性[[Dialogue in Education\|对话]]序列分析 | 适用于仪器中介的高中物理探究情境 |
 > | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, pp. 145–146)]] | 小学三年级太阳能集热与烹饪装置设计团队（Kelly & Brown, 2003 案例） | 课堂人种志与[[Discourse Analysis\|话语分析]] | 小组讨论、工程草图与面向小记者的汇报辩护 | 学生根据受众调整论证，用实测升温数据回应质疑并解释设计折中 | 质性[[Discourse\|话语]]功能分析 | 适用于设计驱动的小学[[Engineering Education\|工程教育]]情境 |
-> | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, p. 146)]] | 大学本科地质学板块构造论文撰写（Takao & Kelly, 2003 案例） | 学术写作文本话语分析 | 认识论层级（Epistemic Level, EL）[[Coding in Qualitative Research\|编码]]分布 | 优秀论文展现出从观测事实到中阶概括再到理论机制的清晰证据组织层级 | 认识论层级结构编码 | 适用于数据驱动的大学地球科学学术写作 |
+> | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, p. 146)]] | 大学本科地质学板块构造论文撰写（Takao & Kelly, 2003 案例） | 学术写作文本话语分析 | 认识论层级（Epistemic Level, EL）编码分布 | 优秀论文展现出从观测事实到中阶概括再到理论机制的清晰证据组织层级 | 认识论层级结构编码 | 适用于数据驱动的大学地球科学学术写作 |
 > | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, pp. 146–147)]] | 小学三年级多元文化课堂物质状态探究（Reveles et al., 2004 案例） | 微观话语分析与师生互动转录 | 教师元话语（meta-discourse）与科学身份建构 | 教师通过显性点评引导学生调用前日温度数据，赋予边缘学生科学身份 | 质性言语行为分析 | 适用于强调包容性与身份认同的小学课堂 |
 > | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, p. 150)]] | 小学阶段地球形状与重力机制探究（Lidar et al., 2010 案例） | [[Practical Epistemology\|实践认识论]]分析（PEA）话语编码 | 立足点（Stand Fast）、意义裂隙与关系搭建 | 儿童通过转动地球仪与地图修补理解裂隙，在行动中原生地界定有效观察 | [[Practical Epistemology Analysis\|PEA]] 话语互动编码 | 适用于具身教具支持的概念探究情境 |
 > | [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] | $N = 8$ 名韩国初中二年级学生（4 个合作小组） | 四层[[Multimodal Discourse Analysis\|多模态话语分析]]与微观交互追踪（Canva / ChatGPT） | 人机协同建构[[Scientific Explanation\|科学解释]]中的四维认识论实践话轮与多模态图文修正 | 实证记录学生在人机协同中经历“提示词提出—多维审问评估—同伴沟通修改—教科书[[Triangulation\|三角互证]]合法化”的完整实践闭环，成功将 AI 输出转化为认识论探究资源 | 质性多模态序列编码与三角互证 | 适用于显性双轨支架支持下的初中[[Man-Computer Symbiosis\|人机协同]]科学探究情境 |

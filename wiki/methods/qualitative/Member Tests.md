@@ -5,13 +5,12 @@ summary: "质性研究中将研究者的假设和解释带回参与者征求意�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 11
+method_related_count: 10
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
 tags: [method/qualitative, validation, data-quality]
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Research Question]]"
@@ -27,14 +26,14 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 # Member Tests
 
 ## 定义
 
 > [!def] 方法定义
-> 成员核验（member tests）是[[Qualitative Research\|质性研究]]中的一种**验证技术**，指将研究者的[[Hypothesis\|假设]]、解释和未解决的问题带回参与者本人或处于相似情境的人，征求他们的评论。其核心理念是：只有通过参与者的反馈，研究者才能确保自己理解了参与者**自身的行动理由**，而非将自己的解释强加于参与者陈述之上。
+> 成员核验（member tests）是[[Qualitative Research\|质性研究]]中的一种**验证技术**，指将研究者的假设、解释和未解决的问题带回参与者本人或处于相似情境的人，征求他们的评论。其核心理念是：只有通过参与者的反馈，研究者才能确保自己理解了参与者**自身的行动理由**，而非将自己的解释强加于参与者陈述之上。
 
 > [!method-scope] 方法范围
 > - **研究对象** 参与者对研究者初步分析和解释的反馈和修正。
@@ -53,7 +52,7 @@ updated: 2026-09-17
 ## 研究程序
 
 > [!proc] 成员核验的操作程序
-> 1. 在初步分析完成后，将[[Hypothesis\|假设]]、解释和未解决的问题整理为可讨论的形式
+> 1. 在初步分析完成后，将假设、解释和未解决的问题整理为可讨论的形式
 > 2. 选择适当的参与者——可以是原始信息提供者，也可以是处于相似情境的人
 > 3. 向参与者呈现研究发现，尽可能传达想知道的是他们眼中的真相，被证明错误和证明正确同样欢迎的态度（Kitwood, 1977）
 > 4. 记录参与者对分析的反馈——确认、修正、补充或否定

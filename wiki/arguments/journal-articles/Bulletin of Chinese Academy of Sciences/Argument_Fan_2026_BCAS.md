@@ -27,10 +27,8 @@ related_concepts:
   - "[[Public Value]]"
   - "[[Use-Inspired Basic Research]]"
   - "[[Operationalization]]"
-  - "[[Document]]"
   - "[[Avatar]]"
   - "[[Competitiveness]]"
-  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Big Science]]"
   - "[[Reproducibility Crisis]]"
@@ -88,7 +86,7 @@ title: "Argument_Fan_2026_BCAS"
 argument_key: "Argument_Fan_2026_BCAS"
 argument_display_title: "科学还是无止境的边疆吗——从“科学的社会契约”看美国科学政策的过去与未来"
 argument_kind: "journal-article"
-argument_related_count: 51
+argument_related_count: 49
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -139,7 +137,7 @@ journal: "中国科学院院刊"
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |---|---|
-> | **政策与战略[[Document\|文献]]** | 涵盖 1940 年代 [[Office of Scientific Research and Development\|OSRD]] 档案、1945 年[[Science, The Endless Frontier 1945\|布什报告]]、1957 年人造卫星危机后白宫政策、1976 年 [[Office of Science and Technology Policy\|OSTP]] 设立法案、2022 年《[[CHIPS and Science Act\|芯片与科学法案]]》、2025 年《[[Restoring Gold Standard Science Executive Order\|恢复黄金标准的科学]]》行政令等关键国家级文献。 |
+> | **政策与战略文献** | 涵盖 1940 年代 [[Office of Scientific Research and Development\|OSRD]] 档案、1945 年[[Science, The Endless Frontier 1945\|布什报告]]、1957 年人造卫星危机后白宫政策、1976 年 [[Office of Science and Technology Policy\|OSTP]] 设立法案、2022 年《[[CHIPS and Science Act\|芯片与科学法案]]》、2025 年《[[Restoring Gold Standard Science Executive Order\|恢复黄金标准的科学]]》行政令等关键国家级文献。 |
 > | **财政与预算数据** | 梳理 1957—1967 年科技政策黄金十年、1990 年代财政赤字缩减、2025 年联邦研发预算削减与扣留拨款（impoundment）等核心研发支出演变脉络。 |
 > | **理论与学术争鸣** | 纳入布什、斯托克斯、希拉·斯劳特（[[Sheila Slaughter]]）、大卫·古斯顿（[[David Guston]]）、迈克尔·克拉齐奥斯（[[Michael Kratsios]]）等核心学者与政策制定者的经典文本与言论。 |
 
@@ -234,7 +232,7 @@ journal: "中国科学院院刊"
 
 #### 1. 安全红利消退与财政赤字引发的“重新签约”辩论
 
-后冷战时期联邦预算压力激增，国会与公众不再无条件接受“只要给钱就能产生回报”的[[Hypothesis|假设]]。
+后冷战时期联邦预算压力激增，国会与公众不再无条件接受“只要给钱就能产生回报”的假设。
 
 > [!tension] 安全红利消退与财政赤字下的重新签约危机（pp. 1059–1060）
 > - **立论一：削减科研预算与强化问责（国会与公众视角）** 冷战终结后国家安全紧迫感减弱，面对巨额联邦财政赤字，纳税人经费必须用于能立竿见影提振经济与就业的实用领域，科学界必须接受外部经济问责。

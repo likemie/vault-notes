@@ -28,7 +28,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Ontology]]"
   - "[[Resonant Oscillation]]"
-  - "[[Hypothesis]]"
   - "[[Externalization]]"
   - "[[Feeder Mechanism]]"
   - "[[Performativity]]"
@@ -59,7 +58,7 @@ title: "Argument_Cole_2005_JRIE"
 argument_key: "Argument_Cole_2005_JRIE"
 argument_display_title: "An examination of Hegelian and Spinozian philosophy and their relationships with the International Baccalaureate subject, Theory of Knowledge"
 argument_kind: "journal-article"
-argument_related_count: 24
+argument_related_count: 23
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -79,7 +78,7 @@ issuing_organization: ""
 > 在[[International Baccalaureate\|国际文凭]]（IB）体系下，如何平衡高强度的学术学习与发展学生想象力的需求？具体而言，目前的[[Theory of Knowledge\|知识论]]（TOK）课程中潜藏着哪些压抑性的哲学预设？应当如何利用[[Baruch Spinoza\|斯宾诺莎]]（Spinoza）的情感政治重构一种解放想象力的国际课程模式？
 
 > [!claim] 核心主张
-> 当前的 IB TOK 课程过度依赖[[Georg Wilhelm Friedrich Hegel\|黑格尔]]式的[[Bildung\|教化]]（Bildung）逻辑，将学生视为在理性[[Disciplina and Doctrina\|规训]]下走向绝对精神与公民社会的“空无认知者”（[[Empty Knower]]），导致真正的反思退化为应对考试的碎片化知识。为了适应完美信息时代的后现代需求，教育应转向斯宾诺莎式的内在性平面（plane of immanence），将无意识的情感与[[Conatus\|欲力]]（Conatus）视为认知的生产性源泉，确立想象力在智识发展中的核心地位，从而构建一种强调群体力量（potentia multitudine）的“[[International Spinozian Curriculum\|国际斯宾诺莎主义课程]]”。
+> 当前的 IB TOK 课程过度依赖[[Georg Wilhelm Friedrich Hegel\|黑格尔]]式的教化（[[Bildung]]）逻辑，将学生视为在理性[[Disciplina and Doctrina\|规训]]下走向绝对精神与公民社会的“空无认知者”（[[Empty Knower]]），导致真正的反思退化为应对考试的碎片化知识。为了适应完美信息时代的后现代需求，教育应转向斯宾诺莎式的内在性平面（plane of immanence），将无意识的情感与[[Conatus\|欲力]]（Conatus）视为认知的生产性源泉，确立想象力在智识发展中的核心地位，从而构建一种强调群体力量（potentia multitudine）的“[[International Spinozian Curriculum\|国际斯宾诺莎主义课程]]”。
 
 > [!concept-lens] 阅读透镜
 > - **对象** IB 课程的核心必修科目 TOK，以及课堂中的师生权力互动与[[Knowledge Production\|知识生成]]机制。
@@ -126,11 +125,11 @@ issuing_organization: ""
 ### 论证步骤一：传统 IB 知识论面临的黑格尔式困境
 
 > [!claim] 步骤一主张
-> IB 课程的核心机制遵循了[[Georg Wilhelm Friedrich Hegel\|黑格尔]]式的[[Bildung\|教化]]（Bildung）路径，将学生预设为等待知识填充并被要求进行强行反思的“空无认知者”（[[Empty Knower]]）。这导致了教育目标的异化，使反思课程沦为市场体制下的工具技能训练。
+> IB 课程的核心机制遵循了[[Georg Wilhelm Friedrich Hegel\|黑格尔]]式的教化（[[Bildung]]）路径，将学生预设为等待知识填充并被要求进行强行反思的“空无认知者”（[[Empty Knower]]）。这导致了教育目标的异化，使反思课程沦为市场体制下的工具技能训练。
 
 > [!chain-link] 证据到判断
 > - **链节一：课堂中的“[[Resonant Oscillation\|共振震荡]]（Resonant Oscillation）”**
->   在 IB 体系中，学生在其他六门学科里习惯了被动接收并高效复制知识（向前走）；但在 [[Theory of Knowledge\|TOK]] 课堂上，他们却被要求回头去解构和质疑那些构筑前六门学科的根本[[Hypothesis\|假设]]（向后走）。这种剧烈的方向转换构成了 TOK 学习的内在张力。（p.212）
+>   在 IB 体系中，学生在其他六门学科里习惯了被动接收并高效复制知识（向前走）；但在 [[Theory of Knowledge\|TOK]] 课堂上，他们却被要求回头去解构和质疑那些构筑前六门学科的根本假设（向后走）。这种剧烈的方向转换构成了 TOK 学习的内在张力。（p.212）
 > - **链节二：教化逻辑与空无认知者的自相矛盾**
 >   黑格尔式教化预设学生是缺乏实质的“空无认知者”，需通过理性的外部引导脱离直接的自然经验。在 TOK 课堂中，这体现为一种自相矛盾的教学期望：先用课程细节填满学生，随后又立刻要求学生去质疑这些刚刚被“填入”的权威。
 > - **链节三：公民社会与市场逻辑的深层合谋**
@@ -190,10 +189,10 @@ issuing_organization: ""
 > 在[[International Baccalaureate\|国际文凭]]（IB）体系中，学生面临六门内容繁重、高度学术化的学科。习惯了这些科目中“被动接收与高效复制”的动态关系后，优等生在初次接触探究导向的 TOK（知识论）课程时，普遍遭遇严重的认知壁垒。本案例基于阿根廷圣乔治北校的 TOK 课堂实况观察。（p.211）
 > 
 > **现象表现：作为额外知识的“哲学快照”与情感异化**
-> 进入 TOK 课堂的学生，仍然期望像其他科目一样“被赋予知识”，以便在考试中重现。缺乏自然反思能力的学生，往往强行将复杂的哲学问题降维成可以背诵的“哲学与逻辑快照（snapshots）”。当教师不再提供标准答案、而是要求他们质疑既有[[Hypothesis\|假设]]时，这种悬空感引发了极大的负面情绪，学生表现出深度的疏离、冷漠，甚至是对常规教学秩序的虚无主义与叛逆。（pp.212–213）
+> 进入 TOK 课堂的学生，仍然期望像其他科目一样“被赋予知识”，以便在考试中重现。缺乏自然反思能力的学生，往往强行将复杂的哲学问题降维成可以背诵的“哲学与逻辑快照（snapshots）”。当教师不再提供标准答案、而是要求他们质疑既有假设时，这种悬空感引发了极大的负面情绪，学生表现出深度的疏离、冷漠，甚至是对常规教学秩序的虚无主义与叛逆。（pp.212–213）
 > 
 > **[[Baruch Spinoza\|斯宾诺莎]]式实践转变**
-> - **停止[[Georg Wilhelm Friedrich Hegel\|黑格尔]]式压制** 教师（Cole）没有采用传统的纪律或外在的“理性[[Bildung\|教化]]”来纠正这些“异化”行为，也没有逼迫学生强行回到学术正轨。
+> - **停止[[Georg Wilhelm Friedrich Hegel\|黑格尔]]式压制** 教师（Cole）没有采用传统的纪律或外在的“理性教化”来纠正这些“异化”行为，也没有逼迫学生强行回到学术正轨。
 > - **破除规范（Breaking normative rules）** 彻底打破主导教育行为的常规纪律规范，终止权威式的知识灌输。
 > - **拥抱情感风暴（Embracing the maelstrom of emotionality）** 教师将学生抵触的情感、焦虑与无意识的[[Conatus\|欲力]]（Conatus）直接合法化，并将其作为课堂探究的“核心知识”材料本身。（pp.214–215）
 > 
@@ -205,7 +204,7 @@ issuing_organization: ""
 ## 概念对比
 
 > [!contrast-table] 核心哲学[[Paradigm\|范式]]的教育对立
-> | 比较维度 | [[Georg Wilhelm Friedrich Hegel\|黑格尔]]式[[Bildung\|教化]]（Hegelian Bildung） | [[Baruch Spinoza\|斯宾诺莎]]式内在（Spinozian Immanence） |
+> | 比较维度 | [[Georg Wilhelm Friedrich Hegel\|黑格尔]]式教化（Hegelian Bildung） | [[Baruch Spinoza\|斯宾诺莎]]式内在（Spinozian Immanence） |
 > |----------|----------------------------------|---------------------------------------|
 > | **[[Ontology\|本体论]]基础** | 心物二元与目的论，追求绝对精神的实现与辩证否定（Aufheben）。 | 物质一元论与内在性平面，无预设的目的，消除了负面性与矛盾。 |
 > | **学生主体** | **空无认知者（[[Empty Knower]]）** 理性、自我导向，等待用结构化的外在知识填充。 | **[[Conatus\|欲力]]主体（Subjects of Desire/Conatus）** 充满欲望与无意识情感的具身存在。 |
@@ -227,7 +226,7 @@ issuing_organization: ""
 ## 关键引用
 
 > [!citation-card]- 突破性学习的发生条件
-> 突破性的 [[Theory of Knowledge\|TOK]] 学习发生于治理教育行为的规范性规则被打破，并对构成学习活动基础的[[Hypothesis\|假设]]开始进行建设性质疑之时。（p.212）
+> 突破性的 [[Theory of Knowledge\|TOK]] 学习发生于治理教育行为的规范性规则被打破，并对构成学习活动基础的假设开始进行建设性质疑之时。（p.212）
 > 
 > *'breakthrough' TOK learning happens when the normative rules governing educational behaviour are broken, and constructive questioning of the assumptions that underlie the activity of learning has begun.*
 

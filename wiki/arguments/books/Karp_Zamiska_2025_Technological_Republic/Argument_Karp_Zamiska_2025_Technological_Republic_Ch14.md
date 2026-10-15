@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch14"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch14"
 argument_display_title: "“A Cloud or a Clock”"
 argument_kind: "book-chapter"
-argument_related_count: 37
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -40,7 +40,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Creativity]]"
   - "[[Hard Power]]"
-  - "[[Hypothesis]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Determinism]]"
   - "[[Paradigm]]"
@@ -100,7 +99,7 @@ updated: 2026-10-08
 >
 >   以具象壁画家本顿与学生波洛克之间的尖锐批评与长久友谊切入；指出当前企业文化普遍将顺从讨好置于首位，导致组织远离真正的创造力；剖析高校与职场中将不适感夸大为实际伤害的心态，强调重大创造往往来自难以相处却极度坚韧的特立独行者（pp. 156–157）。
 >
-> - **人类欲望的模仿本能导致同质化竞争：突破性创新必须摆脱从众心理并勇于推翻既有[[Hypothesis|假设]]**
+> - **人类欲望的模仿本能导致同质化竞争：突破性创新必须摆脱从众心理并勇于推翻既有假设**
 >
 >   引用法国人类学家勒内·吉拉尔关于猴群争夺同质香蕉的模仿欲望理论，指出科技领域大量所谓创新仅是衍生性模仿；结合爱默生《论自信》中关于非顺从招致世人批评的论述，提出卓越团队必须具备随时根据最新实证果断放弃失败项目、重构团队的务实勇气（pp. 157–159）。
 >
@@ -118,7 +117,7 @@ updated: 2026-10-08
 >
 > - **[[Epoché|悬置]]主观预判的客观观察是工程求真的起点：务实工程能力需要服务于国家长远公共目标**
 >
->   引入英国具象画家卢西安·[[Sigmund Freud|弗洛伊德]]如实描摹眼前之物的艺术态度，阐明长时间、不带评判的深度观察构成了工程思维的认识论内核；总结指出重构技术共和国的关键挑战在于将这种极度求实的工程本能与国家战略使命紧密锚定（pp. 166–167）。
+>   引入英国具象画家卢西安·弗洛伊德如实描摹眼前之物的艺术态度，阐明长时间、不带评判的深度观察构成了工程思维的认识论内核；总结指出重构技术共和国的关键挑战在于将这种极度求实的工程本能与国家战略使命紧密锚定（pp. 166–167）。
 
 ---
 
@@ -182,7 +181,7 @@ updated: 2026-10-08
 > *For nonconformity, the world whips you with its displeasure... Why drag about this corpse of your memory, lest you contradict somewhat you have stated in this or that public place?... Leave your theory, as Joseph his coat in the hand of the harlot, and flee.*（pp. 158–159）
 
 > [!claim] 依据实证证据及时止损是务实[[Engineering Mindset|工程思维]]的[[21st Century Skills and Competencies Discourse|核心素养]]
-> 任何重大技术的研发过程绝非直线前进。在科技研发与团队管理中，团队必须具备求真务实的作风：在发现方案缺乏实质进展时果断调整方向，迅速重组缺乏效能的团队；绝不死守沉没成本或过去的承诺，坚决让认知模型顺应最新发现的事实，而不是曲解事实去迎合固有的[[Hypothesis|假设]]（p. 159）。
+> 任何重大技术的研发过程绝非直线前进。在科技研发与团队管理中，团队必须具备求真务实的作风：在发现方案缺乏实质进展时果断调整方向，迅速重组缺乏效能的团队；绝不死守沉没成本或过去的承诺，坚决让认知模型顺应最新发现的事实，而不是曲解事实去迎合固有的假设（p. 159）。
 
 ---
 
@@ -305,7 +304,7 @@ updated: 2026-10-08
 >
 > *The great liability of the engineer compared to men of other professions is that his works are out in the open where all can see them, and that the engineer cannot bury his mistakes in the grave like the doctors, or argue them into thin air or blame the judge like the lawyers.*（p. 160）
 
-> [!citation-card] [[Isaiah Berlin|柏林]]论刺猬的中心愿景与狐狸的多元追求
+> [!citation-card] 柏林论刺猬的中心愿景与狐狸的多元追求
 > 刺猬将一切事物归结为单一的中心愿景、一个或多或少连贯明确的系统，并以此去理解、思考和感受；而狐狸则追求许多目标，这些目标往往互不相关甚至自相矛盾，即使有所关联也只是某种事实上的连接。
 >
 > *The hedgehogs relate everything to a single central vision, one system less or more coherent or articulate, in terms of which they understand, think and feel, and the foxes pursue many ends, often unrelated and even contradictory, connected, if at all, only in some de facto way.*（pp. 159–160）
@@ -330,7 +329,7 @@ updated: 2026-10-08
 >
 > *Get down from noble aloofness into the muddy stream of concrete things... discourages dogmatism, arouses and heartens an experimental spirit which wants to know how systems and theories work before giving complete adhesion, and militates against too sweeping and easy generalizations.*（pp. 160–161）
 
-> [!citation-card] [[Sigmund Freud|弗洛伊德]]论如实描摹眼前真实之物
+> [!citation-card] 弗洛伊德论如实描摹眼前真实之物
 > 我尝试画出那里真实存在的事物……通过非常仔细、不带任何评判地观察某个人，你能够从对方身上学到很多东西，甚至能从中加深对自己的了解，这种收获往往非同寻常。
 >
 > *I try to paint what is actually there... It can be extraordinary how much you can learn from someone, and perhaps about yourself, by looking very carefully at them, without judgment.*（pp. 166–167）

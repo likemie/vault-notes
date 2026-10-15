@@ -7,7 +7,7 @@ aliases:
 summary: "一种将课程与教学视为文化政治斗争场域的批判教育哲学，主张以学生的活经验为起点，通过对话式提问、批判意识觉醒与可能性的语言，解构传统储蓄式教育与当代数智异化中的权力压迫，旨在培育具有自主性与社会解放潜能的批判求知者。"
 type: concept
 domain: "educational-philosophy"
-related_count: 55
+related_count: 54
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -55,7 +55,6 @@ related_theories:
   - "[[Post-colonial Theory]]"
   - "[[Formative Epistemic Injustice]]"
 related_methods:
-  - "[[Exploratory Factor Analysis]]"
   - "[[Discourse Analysis]]"
   - "[[Correlational Research]]"
 related_instruments: []
@@ -82,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-17
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Critical Pedagogy
@@ -207,7 +206,7 @@ updated: 2026-10-07
 > 该命题将批判教育学从微观学校课堂延伸至全球宏观地缘政治与[[International Education|国际教育]]发展领域，揭示跨国教育援助与借用背后潜伏的资本主义霸权控制，确立以人类福祉与文化自主为核心的解放实践方向。
 
 > [!claim] Shor & Freire (1987); Rust, Johnstone, & Allaf (2009)
-> **教育即政治与超越西方资本主义现代性** 伊拉·肖尔与[[Paulo Freire|保罗·弗莱雷]]（Shor & Freire, 1987）深刻指出，教育在本质上蕴含着鲜明的政治属性，根本不存在脱离政治意识形态的中立教育。[[Val D. Rust|瓦尔·拉斯特]]等人（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）进一步结合[[Henry Giroux|吉鲁]]（Henry Giroux）的再生产理论，批判主流比较教育学长期将追求西方工业现代性作为定义教育的潜意识基准，实质上合谋了资本主义跨国扩张；核心国家通过附带苛刻前置条件的跨国援助与[[Structural Adjustment Programs|结构调整方案]]，向发展中国家强制移植私有化体制与依附性[[Hidden Curriculum|隐蔽课程]]。[[UNESCO|联合国教科文组织]]《[[Education for All|全民教育]]》（[[Exploratory Factor Analysis|EFA]]）在亚非拉的推进历程表明，被迫照搬外部市场化模式的国家普遍受挫，而坚持主权自决与社会主义人道主义国家动员的古巴则取得了突出的教育成就。比较教育学必须彻底扬弃技术官僚干涉，转向以主权自决与社会正义为内核的解放实践（praxis of liberation）。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 133–135)]]
+> **教育即政治与超越西方资本主义现代性** 伊拉·肖尔与[[Paulo Freire|保罗·弗莱雷]]（Shor & Freire, 1987）深刻指出，教育在本质上蕴含着鲜明的政治属性，根本不存在脱离政治意识形态的中立教育。[[Val D. Rust|瓦尔·拉斯特]]等人（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）进一步结合[[Henry Giroux|吉鲁]]（Henry Giroux）的再生产理论，批判主流比较教育学长期将追求西方工业现代性作为定义教育的潜意识基准，实质上合谋了资本主义跨国扩张；核心国家通过附带苛刻前置条件的跨国援助与[[Structural Adjustment Programs|结构调整方案]]，向发展中国家强制移植私有化体制与依附性[[Hidden Curriculum|隐蔽课程]]。[[UNESCO|联合国教科文组织]]《[[Education for All|全民教育]]》（EFA）在亚非拉的推进历程表明，被迫照搬外部市场化模式的国家普遍受挫，而坚持主权自决与社会主义人道主义国家动员的古巴则取得了突出的教育成就。比较教育学必须彻底扬弃技术官僚干涉，转向以主权自决与社会正义为内核的解放实践（praxis of liberation）。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 133–135)]]
 
 ---
 
@@ -235,7 +234,7 @@ updated: 2026-10-07
 
 ## 实证数据
 
-> [!ref-table]- 跨国教育发展模式与[[Education for All|全民教育]]（[[Exploratory Factor Analysis|EFA]]）实证对照
+> [!ref-table]- 跨国教育发展模式与[[Education for All|全民教育]]（EFA）实证对照
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 指标 | 关键结果 | 解释边界 |
@@ -278,5 +277,5 @@ updated: 2026-10-07
 > - [[Argument_Partaken_2022_Springer|Partaken (2022)]] — 将[[Paulo Freire|弗莱雷]][[Banking Model of Education|储蓄式教育]]模型拓展为[[Geopolitics of Knowledge|知识地缘政治]]分析工具，揭示殖民教育与[[Forced Knowledge Transfer|强制知识转移]]中不可化约的权力不对等。
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 系统阐明弗莱雷的[[Problem-Posing Education|提问式教育]]、[[Conscientization|批判意识觉醒]]（Conscientização）与反思实践（[[Praxis]]）[[Central Phenomenon|核心范畴]]。
 > - [[Argument_Smith_2026_SPE|Smith (2026)]] — 将批判教育学对话精神引入生成式 AI 时代，针对[[Formative Epistemic Injustice|成长性认识不正义]]与[[Cognitive Deskilling|认知去技能化]]，提出基于[[Alien Intelligence|异己智能]]与思维步骤全外显的防御教学方案。
-> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 结合[[Henry Giroux|吉鲁]]再生产理论与弗莱雷解放教育学，解构全球化背景下跨国教育干预的强制再生产机制，依据[[Education for All|全民教育]]（[[Exploratory Factor Analysis|EFA]]）监测数据论证主权自决与人道主义解放实践。
+> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 结合[[Henry Giroux|吉鲁]]再生产理论与弗莱雷解放教育学，解构全球化背景下跨国教育干预的强制再生产机制，依据[[Education for All|全民教育]]（EFA）监测数据论证主权自决与人道主义解放实践。
 

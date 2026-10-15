@@ -74,7 +74,7 @@ updated: 2026-10-08
 > - **核心角色** [[Critical Pedagogy|批判教育学]]与意识形态课程批判的奠基者；率先系统揭示资本主义国家如何通过学校课程将阶级、种族与性别不平等合法化；深刻剖析从福特制向[[Post-Fordism|后福特制]]转型中劳动[[Cognitive Deskilling|去技能化]]与课程“技术控制逻辑”（Logic of Technical Control）的共谋机制。
 > - **代表贡献** 出版奠基性著作《意识形态与课程》（1979）、《教育与权力》（1982）、《[[Official Knowledge|官方知识]]》（1993）与《受教育的“正确”方式》（2001）；提出课程形态技术控制与占有性个人主义（Possessive Individualism）建构命题（1982）；揭示由新自由主义、新保守主义、威权民粹主义和职业中产阶层组成的“右翼霸权联盟”。
 
-> [!citation-card]- [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]论阿普尔的后福特制与课程技术控制
+> [!citation-card]- [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论阿普尔的后福特制与课程技术控制
 > 劳动过程的变化与生产方式从福特制向后福特制模型的[[Paradigm|范式]]转型紧密相关，这种转型对劳动力的技能化与去技能化过程，以及课程中的技术控制逻辑产生了深远影响。[[Argument_Olmos_Torres_2009_StateTheories|(Apple, 1982; Olmos & Torres, 2009, p. 79)]]
 >
 > *Changes in the labor process relate to the move away from a mode of production defined as the transformation of Fordism to a post-Fordist model (with implications for the process of skilling and deskilling of the labor force and the logic of technical control in curriculum) (Apple, 1982).*
@@ -126,7 +126,7 @@ updated: 2026-10-08
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 开创了美国批判教育社会学与意识形态课程论传统，将葛兰西统识理论与政治经济学劳动过程理论注入教育学，深刻影响了[[Carlos Alberto Torres|托雷斯]]、[[Henry Giroux|吉鲁]]（Henry Giroux）与[[Stephen Ball|斯蒂芬·鲍尔]]等学者。
+> - **理论路径** 开创了美国批判教育社会学与意识形态课程论传统，将葛兰西统识理论与政治经济学劳动过程理论注入教育学，深刻影响了托雷斯、[[Henry Giroux|吉鲁]]（Henry Giroux）与[[Stephen Ball|斯蒂芬·鲍尔]]等学者。
 > - **方法路径** 倡导意识形态文本批判、批判性[[Discourse Analysis|话语分析]]与社会学田野考察相结合，展示了如何细致解剖国家教学大纲、标准化教科书与教师工作日志背后的阶级权力运作。
 > - **实践路径** 长期介入美国与拉美教师工会、反私有化运动与草根教育行动，推动建立“民主学校”网络，践行反思与行动深度熔铸的批判实践。
 

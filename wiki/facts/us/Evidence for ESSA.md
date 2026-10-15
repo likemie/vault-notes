@@ -9,7 +9,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 39
+fact_related_count: 36
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -27,13 +27,11 @@ related_concepts:
   - "[[Evidence Standards]]"
   - "[[Social-Emotional Learning]]"
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Document]]"
   - "[[Preregistration]]"
   - "[[Developer-Made Measures]]"
   - "[[Statistical Analysis Plan]]"
   - "[[Business as Usual]]"
   - "[[Counterfactual]]"
-  - "[[Attrition]]"
   - "[[Variable]]"
   - "[[Domain Specificity]]"
   - "[[Conflict of Interest in Research]]"
@@ -46,7 +44,6 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Experimental Research]]"
-  - "[[Coding in Qualitative Research]]"
 related_instruments: []
 related_persons:
   - "[[Robert Slavin]]"
@@ -71,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-28
+updated: 2026-10-15
 ---
 
 # Evidence for ESSA
@@ -109,7 +106,7 @@ updated: 2026-09-28
 > - **方案研发与出版机构** 大学研究中心、非营利机构与商业教育出版商，提供原始评估数据并接受独立复核。
 
 > [!pathways]- 证据审查与快速上线规程
-> - **[[Document\|文献]]雷达扫描** 建立持续追踪机制，在新实证论文、政府技术报告或会议成果发布后 1 个月内完成抓取。
+> - **文献雷达扫描** 建立持续追踪机制，在新实证论文、政府技术报告或会议成果发布后 1 个月内完成抓取。
 > - **五大约束门控** 严格核验研究是否满足独立测验、$\ge 12$ 周周期、第三方评估、[[Preregistration\|预注册]]及多层模型等核心门槛。
 > - **瓷砖卡片生成** 将通过审查的项目转化为直观的交互瓷砖卡片（Tile），展示受试人群、耗材成本与教师培训配套。
 
@@ -127,7 +124,7 @@ updated: 2026-09-28
 > [!contrast-table] Evidence for ESSA 对齐法定三级[[Evidence Standards\|证据标准]]体系
 > | ESSA 法定层级 | 平台对应准入门槛 | 典型设计类型 |
 > |---|---|---|
-> | **强证据（[[Top Institute for Evidence-Based Education Research\|TIER]] 1: Strong Evidence）** | 至少 1 项设计优良、实施严格的大样本[[Randomised Controlled Trials\|随机对照试验]]（RCT），在独立标准化测验上取得统计显著的正向增益，且无严重[[Attrition\|流失]]偏倚 | 经过同行评议的大规模多中心整群 RCT |
+> | **强证据（[[Top Institute for Evidence-Based Education Research\|TIER]] 1: Strong Evidence）** | 至少 1 项设计优良、实施严格的大样本[[Randomised Controlled Trials\|随机对照试验]]（RCT），在独立标准化测验上取得统计显著的正向增益，且无严重流失偏倚 | 经过同行评议的大规模多中心整群 RCT |
 > | **中等证据（Tier 2: Moderate Evidence）** | 至少 1 项高质量[[Quasi-Experimental Designs\|准实验设计]]（QED），具有良好基线等值性与统计控制，取得显著正向增益 | 匹配良好的准实验或高流失等值 RCT |
 > | **有前景证据（Tier 3: Promising Evidence）** | 具有合理理论假说并在控制选择偏差后展现正向统计关联的相关性或观察性研究 | 控制关键协[[Variable\|变量]]的大规模纵向回归研究 |
 
@@ -147,7 +144,7 @@ updated: 2026-09-28
 > |---|---|---|
 > | **创立背景与使命** | 针对 ESSA 2015 实施痛点设立，专为中小学校长与学区采购决策提供极简指引 | 依据 [[Education Sciences Reform Act 2002\|ESRA 2002]] 设立，作为联邦官方因果科学审查与方法学基准平台 |
 > | **评级呈现结构** | 采用整体项目瓷砖卡片（Tile），直接标注 ESSA [[Top Institute for Evidence-Based Education Research\|TIER]] 1/2/3 标签并附带成本与培训数据 | 采用微观结果域独立评级（如阅读理解、词汇分别定级），技术条文繁复晦涩 |
-> | **更新与响应速度** | **极速响应** [[Document\|文献]]发布后数周至 1 个月内完成质评并上线 | **周期冗长** 官方审查与指南研制周期往往长达数年，更新滞后 |
+> | **更新与响应速度** | **极速响应** 文献发布后数周至 1 个月内完成质评并上线 | **周期冗长** 官方审查与指南研制周期往往长达数年，更新滞后 |
 > | **对[[Developer-Made Measures\|开发者自编测验]]的态度** | **一票否决** 强制要求独立标准化测验，坚决排除过度对齐自编测验 | 历史上曾允许自编测验入库，导致部分项目[[Effect Size\|效应量]]虚高（近年逐步收紧） |
 > | **落地采购实用性** | 提供详尽的人口特征、软件硬件耗材成本、教师工作坊培训天数等实践维度 | 专注于统计有效性判定，缺乏实施成本与本地适配性实务信息 |
 
@@ -170,7 +167,7 @@ updated: 2026-09-28
 > > 争论平台创办者拥有知名商业课程版权是否会损害第三方评级的客观公信力。
 > >
 > > - **学术批评者** 指出[[Robert Slavin\|罗伯特·斯莱文]]既是 [[Success for All\|SFA]] 的创设人，又是 Evidence for [[Every Student Succeeds Act\|ESSA]] 的主管，存在潜在的利益冲突（[[Conflict of Interest in Research\|conflict of interest]]）。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 27)]]
-> > - **平台辩护立场** 强调审查标准完全公开，执行严格的双盲复核[[Coding in Qualitative Research\|编码]]程序；入选项目必须基于已发表的第三方独立 [[Randomised Controlled Trials\|RCT]] 数据，且该标准同样使大量未经检验的流行模式被公正排除。
+> > - **平台辩护立场** 强调审查标准完全公开，执行严格的双盲复核编码程序；入选项目必须基于已发表的第三方独立 [[Randomised Controlled Trials\|RCT]] 数据，且该标准同样使大量未经检验的流行模式被公正排除。
 
 ---
 

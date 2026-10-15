@@ -8,10 +8,10 @@ aliases:
 summary: "历史制度主义与政策变迁分析中的渐进制度变迁核心机制；指在不废除或替换既有制度结构的前提下，通过向既有制度框架中附加新规则、新行动者、新政策工具或新管理程序，随时间推移逐步改变原有制度地位、行为结构与治理后果的演进过程。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 30
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 concept_field: political-economy-geopolitics
 tags:
   - theme/institutional-change
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Regulatory Ratchet]]"
   - "[[Variable]]"
   - "[[Subversives]]"
-  - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Liberalization]]"
   - "[[Composite-Standard Model]]"
@@ -157,7 +156,7 @@ updated: 2026-10-15
 ### 命题二　外围规制累加加固核心属于制度再生产而非层叠变迁
 
 > [!concept-lens] 制度变迁与制度再生产的边界划分维度
-> 审视当代经验[[Document|文献]]对层叠概念的宽泛化应用，界定外围层叠究竟是推动了制度转型，还是充当护城河强化了既有制度核心。
+> 审视当代经验文献对层叠概念的宽泛化应用，界定外围层叠究竟是推动了制度转型，还是充当护城河强化了既有制度核心。
 
 > [!claim] [[Jeroen van der Heijden|Van der Heijden, J.]]
 > **变迁与再生产的理论边界** 层叠必须随时间推移导致原有规则地位、结构或规约行为方式的质性改变；若在外围叠加新机构或新标准仅仅充当了吸收外部震荡的防震缓冲带，反倒强化了既有制度核心并推高了转换成本（如互联网 TCP/IP 协议的高厚度商与欧盟预算锁定），该现象实质属于制度再生产与制度加固，绝不能泛化贴上层叠变迁的标签。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 12–14)]]
@@ -188,7 +187,7 @@ updated: 2026-10-15
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1940年代–1970年代 — 官僚层级增厚研究** 早期行政学[[Document|文献]]使用层叠描述多级政府机构层级扩张与职权叠加，重点揭示多层管辖权冲突与责任模糊问题。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 14)]]
+> - **1940年代–1970年代 — 官僚层级增厚研究** 早期行政学文献使用层叠描述多级政府机构层级扩张与职权叠加，重点揭示多层管辖权冲突与责任模糊问题。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 14)]]
 > - **1980年代–1990年代 — [[Regulatory Ratchet|规制累积]]与工具增多** 规制研究引入层叠描述法律与劳动规制条款的层层加码，凝练出[[Regulatory Ratchet|规制棘轮]]（Regulatory Ratchet）隐喻，揭示合规体系的过度复杂化负担。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 14–15)]]
 > - **2000年代初 — 希伦奠定[[Historical Institutionalism|历史制度主义]]核心机制** [[Kathleen Thelen|凯瑟琳·希伦]]（[[Kathleen Thelen]]）等学者将层叠提升为历史制度主义四大渐进变迁支柱之一，系统界定其通过增设规则改变原有规则行为结构的机制内涵。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 11–12)]]
 > - **2010年代及以后 — 概念漂移检视与理论桥梁重构** 学界出现宽泛套用层叠的概念漂移现象；[[Jeroen van der Heijden|范德海登]]（Van der Heijden）等学者开展系统学术史考证，厘清层叠边界并倡导将其作为弥合间断均衡与渐进演化理论的因果分析工具。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 13–16)]]
@@ -238,6 +237,6 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 首次系统界定分层（Layering）机制，分析在旧核心边缘附加新规则如何通过差异化增长逐步实现体制转型。（pp. 22–24）
-> - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 跨学科审视 60 年间 166 篇期刊[[Document|文献]]中层叠概念的演变传统，提炼行动者增厚、[[Regulatory Ratchet|规制棘轮]]与双重叠加三类演化支脉，并反思当代应用混淆变迁与再生产的边界偏误。
+> - [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] — 跨学科审视 60 年间 166 篇期刊文献中层叠概念的演变传统，提炼行动者增厚、[[Regulatory Ratchet|规制棘轮]]与双重叠加三类演化支脉，并反思当代应用混淆变迁与再生产的边界偏误。
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 将制度层叠定位于强[[Veto Possibilities|否决可能性]]与低[[Enforcement Discretion|执行裁量权]]制度语境，揭示[[Subversives|颠覆者]]在不触动旧规则前提下通过附加新规累积重塑体制逻辑。
 

@@ -9,9 +9,9 @@ title: "Argument_Schulte_2009_EncuentrosEducacion"
 argument_key: "Argument_Schulte_2009_EncuentrosEducacion"
 argument_display_title: "The Chinese Dewey: Friend, fiend, and flagship"
 argument_kind: "journal-article"
-argument_related_count: 32
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 29
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: "Encuentros sobre Educación"
 citation: "Schulte, B. (2009). The Chinese Dewey: Friend, fiend, and flagship. Encuentros sobre Educación, 10, 67–101."
@@ -37,14 +37,11 @@ related_concepts:
   - "[[Sage]]"
   - "[[Pragmatism in China]]"
   - "[[Scientism]]"
-  - "[[Transfer Translation Transformation]]"
-  - "[[Hypothesis]]"
   - "[[Scientific Method]]"
   - "[[Scientific Attitude]]"
   - "[[Quality Education]]"
   - "[[Creativity Training]]"
   - "[[Abstract]]"
-  - "[[Document]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
 related_methods:
@@ -184,7 +181,7 @@ citation_aliases:
 - 对[[May Fourth Movement|五四运动]]的追随者而言，杜威的民主信念和"以儿童为中心"提供了反对儒学传统的理论武器
 - 对希望通过教育而非革命来改造国家的温和派而言，杜威明确反对暴力和革命、主张渐进改良的立场正好可以拿来论证"教育救国"
 
-甚至《民主主义与教育》的核心信息也被做了一次保守化[[Transfer Translation Transformation|转译]]：在中国语境中，它变成了"每个人都要在恰当的位置上，每个人都要为此做好恰当的准备"（Gong Chushu 1928，引自 p.77）。[[Tao Xingzhi|陶行知]]后来批评这种解读是"衣食主义"（yishizhuyi），只求温饱，不思变革。
+甚至《民主主义与教育》的核心信息也被做了一次保守化转译：在中国语境中，它变成了"每个人都要在恰当的位置上，每个人都要为此做好恰当的准备"（Gong Chushu 1928，引自 p.77）。[[Tao Xingzhi|陶行知]]后来批评这种解读是"衣食主义"（yishizhuyi），只求温饱，不思变革。
 
 ---
 
@@ -199,7 +196,7 @@ citation_aliases:
 
 > [!example] 为什么这是生死问题？
 
-> [[Hypothesis\|假设]]你是一个 1950 年代的中国马克思主义教育官员。你相信教育的工作就是要按照社会主义方向来改造人，培养"又红又专"的接班人。这时候杜威告诉你：儿童的成长是一个自然过程，不应该被外部目标强行引导，教育没有预设的终点。这在马克思主义者听来，不是方法分歧，而是根本否定了教育作为意识形态工具的存在理由。如果"成长"只是生物学过程，那"培养社会主义接班人"这一整套话语就失去了理论基础。
+> 假设你是一个 1950 年代的中国马克思主义教育官员。你相信教育的工作就是要按照社会主义方向来改造人，培养"又红又专"的接班人。这时候杜威告诉你：儿童的成长是一个自然过程，不应该被外部目标强行引导，教育没有预设的终点。这在马克思主义者听来，不是方法分歧，而是根本否定了教育作为意识形态工具的存在理由。如果"成长"只是生物学过程，那"培养社会主义接班人"这一整套话语就失去了理论基础。
 
 #### 靶子 2："反科学"：因为威胁了"系统知识传授是教育的核心任务"的信念
 
@@ -293,8 +290,8 @@ Jin Yuelin(1955)的论证暴露了这一焦虑的深度："我们能够认识客
 
 > [!success]
 > - [[John Dewey\|杜威]]在中国的影响力并非由其思想的内在质量单独决定，而是因为其思想体系具有**高可塑性（malleability）**，作为一个"丰富的思想与意识形态储备库"，不同的行动者可以从中选取不同的元素来服务截然不同、甚至相互矛盾的政治议程(pp.68, 93–94)
-> - 外国教育思想在本土的变形不应被框架化为"误解"——"误解"框架[[Hypothesis\|假设]]存在一个"正确理解"的标准，同时将接受者视为被动的认知失误者。更准确的[[Analytic Framework\|分析框架]]是**[[Recontextualization\|再脉络化]]（recontextualization）** 接受者是主动的、有目的的行为者，他们基于自身的集体经验、意识形态议程和个人网络来选择性拾取、扭曲和重新嵌入外来思想(pp.68–69)
-> - [[Hu Shi\|胡适]]对[[Pragmatic Paradigm\|实用主义]]的极端化[[Transfer Translation Transformation\|转译]]（将"education is life"中的[[Pragmatic Paradigm\|实用主义]]从一种温和的哲学方法重构为"打倒迷信的唯一武器"）是再脉络化的经典案例，它为后来来自各种立场的批评者攻击杜威提供了便利，也反过来说明中介人在思想转移中的关键塑造作用(pp.72–73)
+> - 外国教育思想在本土的变形不应被框架化为"误解"——"误解"框架假设存在一个"正确理解"的标准，同时将接受者视为被动的认知失误者。更准确的[[Analytic Framework\|分析框架]]是**[[Recontextualization\|再脉络化]]（recontextualization）** 接受者是主动的、有目的的行为者，他们基于自身的集体经验、意识形态议程和个人网络来选择性拾取、扭曲和重新嵌入外来思想(pp.68–69)
+> - [[Hu Shi\|胡适]]对[[Pragmatic Paradigm\|实用主义]]的极端化转译（将"education is life"中的[[Pragmatic Paradigm\|实用主义]]从一种温和的哲学方法重构为"打倒迷信的唯一武器"）是再脉络化的经典案例，它为后来来自各种立场的批评者攻击杜威提供了便利，也反过来说明中介人在思想转移中的关键塑造作用(pp.72–73)
 > - 1950 年代对杜威的批判之所以如此激烈，不是因为杜威的具体教育方法建议有误，而是因为他的"自然主义""反科学"和"不确定性"三个主张分别触及了马克思主义-斯大林主义世界观的三个根基：社会发展可以被定向引导、系统科学知识高于个体经验、历史有必然方向(pp.80–82)
 > - 杜威在 1980 年代的恢复不是通过直接正名，而是通过[[Tao Xingzhi\|陶行知]]这一间接路径实现的。陈汉才(1981)关于陶行知"批判性接受"杜威的论证，打开了一条安全通道，使后者得以在不直接挑战意识形态红线的条件下被重新讨论(pp.84–85)
 > - 同一个杜威的同一个思想元素（如"以儿童为中心""教育即生活""教育无固定目的"）可以跨越从"朋友"到"魔鬼"到"旗帜"的全部光谱。这说明决定一个外来思想在本土命运的，不是思想本身的逻辑，而是每次再脉络化发生时主导本土的政治-意识形态议程(pp.93–94)
@@ -324,7 +321,7 @@ Jin Yuelin(1955)的论证暴露了这一焦虑的深度："我们能够认识客
 ## 自述局限
 
 > [!warning]
-> - 该研究的分析素材以公开发表的中文[[Document\|文献]]为主，对各个时期实际政策制定过程的链接为间接推断，未系统利用未公开的档案材料或内部政策讨论记录
+> - 该研究的分析素材以公开发表的中文文献为主，对各个时期实际政策制定过程的链接为间接推断，未系统利用未公开的档案材料或内部政策讨论记录
 > - 不同时段资料覆盖不均衡：民国时期和 1980 年代的出版物较为丰富，1950–1960 年代因政治环境限制，可获得的文本在数量和类型上存在偏差；1990 年代后的资料量大但选择性较强
 > - 该研究聚焦于学术精英和官方出版物中的[[John Dewey\|杜威]][[Discourse|话语]]，未涉及课堂实践层面。教师在日常教学中如何理解和使用杜威、杜威思想在非正式教育空间中的传播，均不在分析范围内
 

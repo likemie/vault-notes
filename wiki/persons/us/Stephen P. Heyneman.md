@@ -9,10 +9,10 @@ summary: "美国著名国际教育政策与比较教育学者，范德堡大学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 33
-person_related_level: 4
-person_related_stars: "⭐⭐⭐⭐"
-person_related_color: "#fce7f3"
+person_related_count: 31
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "c. 1941"
 died: ""
 lifespan: "c. 1941–至今"
@@ -27,12 +27,10 @@ related_concepts:
   - "[[School Effectiveness]]"
   - "[[Discourse]]"
   - "[[Academic Achievement]]"
-  - "[[Hypothesis]]"
   - "[[Development Education]]"
   - "[[Paradigm]]"
   - "[[Educational Multilateralism]]"
   - "[[Washington Consensus]]"
-  - "[[Document]]"
   - "[[Heterogeneity]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Theoretical Perspective]]"
@@ -91,7 +89,7 @@ updated: 2026-10-15
 > [!timeline] 生平与职涯
 > - **1976** 在芝加哥大学获得比较教育学博士学位，博士论文基于对乌干达初等教育的系统实证调查，奠定其关于低收入国家学校效应的学术根基。
 > - **1976–1998** 在[[World Bank|世界银行]]华盛顿总部任职长达 22 年，历任教育研究处资深研究员、中东及北非与欧洲中亚地区教育政策与贷款处处长，主导数十亿美元多边教育援助规划。
-> - **1983** 发表奠基论文，实证证实低收入发展中国家学校教育质量对学生[[Academic Achievement|学业成就]]的影响远大于家庭阶层背景，推翻了西方[[Coleman Report 1966|科尔曼报告]]在第三世界的普适性[[Hypothesis|假设]]。
+> - **1983** 发表奠基论文，实证证实低收入发展中国家学校教育质量对学生[[Academic Achievement|学业成就]]的影响远大于家庭阶层背景，推翻了西方[[Coleman Report 1966|科尔曼报告]]在第三世界的普适性假设。
 > - **1990–1995** 作为世界银行中东及北非与欧洲中亚地区教育处处长（Division Chief），在行内亲历并领导一线专业教育官员抵抗高层管理层推行的新古典经济学生产函数与结构调整教条，展开激烈的内部制度博弈。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 460)]]
 > - **2000–至今** 加盟美国范德堡大学（Vanderbilt University）皮博迪学院，担任[[International Education|国际教育]]政策教授，转向高等教育腐败、社会凝聚力与国际组织治理反思研究。
 > - **2003** 发表代表作《世界银行教育政策制定的历史与问题》，引起学界与政策界的强烈共震。
@@ -132,7 +130,7 @@ updated: 2026-10-15
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 拓宽了比较教育政治经济学对国际多边官僚组织的内部机制批判，成为反思“[[Washington Consensus|华盛顿共识]]”教育政策的关键[[Document|文献]]基准。
+> - **理论路径** 拓宽了比较教育政治经济学对国际多边官僚组织的内部机制批判，成为反思“[[Washington Consensus|华盛顿共识]]”教育政策的关键文献基准。
 > - **实证路径** 海尼曼-洛克斯利效应成为国际学生评价与教育社会学争论数十年的经典假说，持续引发关于学校效应与家庭资本权重的全球再检验。
 > - **政策反思路径** 推动了[[UNESCO|联合国教科文组织]]、[[Global Partnership for Education|全球教育伙伴关系]]等机构重新审视以人为本的人道主义教育目标，对冲单纯金融资本逻辑。
 

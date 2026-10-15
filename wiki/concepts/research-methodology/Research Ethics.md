@@ -4,10 +4,10 @@ aliases: ["研究伦理", "研究伦理规范", "research ethics in social scien
 summary: "贯穿研究全过程的一套伦理原则和实践策略，涵盖研究前 IRB 审批与知情同意、研究中避免欺骗与剥削、研究后诚实报告与数据保护，各专业协会均发布伦理守则作为行业标准"
 type: concept
 domain: "research-methodology"
-related_count: 40
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 37
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags: [method/research-ethics, theme/research-governance]
 related_concepts:
   - "[[Costs Benefits Ratio in Research Ethics]]"
@@ -20,9 +20,7 @@ related_concepts:
   - "[[Purpose Statement]]"
   - "[[Research Purpose]]"
   - "[[Conflict of Interest in Research]]"
-  - "[[APA Style]]"
   - "[[Falsification]]"
-  - "[[Hypothesis]]"
   - "[[Non-maleficence and Beneficence in Research]]"
   - "[[Computer Simulation]]"
   - "[[Informed Consent]]"
@@ -45,7 +43,6 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Experimental Research]]"
   - "[[Survey Research]]"
-  - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_facts:
   - "[[American Educational Research Association]]"
@@ -58,7 +55,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Research Ethics
@@ -147,7 +144,7 @@ updated: 2026-09-22
 > | | 提供伦理合规证明与无[[Conflict of Interest in Research\|利益冲突]]声明 | 披露研究资助方和获益方 |
 > | | 明确数据所有权 | 将所有权归于研究者、参与者和导师 |
 >
-> 来源：改编自 [[APA Style\|APA]]; Creswell & Poth (2018); Lincoln (2009); Mertens & Ginsberg (2009); Salmons (2010)。
+> 来源：改编自 APA; Creswell & Poth (2018); Lincoln (2009); Mertens & Ginsberg (2009); Salmons (2010)。
 
 ### 研究开始之前
 
@@ -200,9 +197,9 @@ updated: 2026-09-22
 
 ### 数据分析阶段
 
-- **避免偏袒** 在质性研究中不要只报告对参与者有利的结果；在量化研究中不要忽视[[Falsification|证伪]]个人[[Hypothesis|假设]]的数据
+- **避免偏袒** 在质性研究中不要只报告对参与者有利的结果；在量化研究中不要忽视[[Falsification|证伪]]个人假设的数据
 - **避免选择性报告** 质性研究需报告完整的发现范围，包括与主题相反的结果；量化研究的数据分析应完整呈现统计检验结果
-- **保护参与者隐私**[[Survey Research|调查研究]]中在[[Coding in Qualitative Research|编码]]和记录阶段将姓名与回答分离；质性研究中使用化名或假名
+- **保护参与者隐私**[[Survey Research|调查研究]]中在编码和记录阶段将姓名与回答分离；质性研究中使用化名或假名
 
 ---
 
@@ -286,7 +283,7 @@ updated: 2026-09-22
 > - **身份认证困难**James & Busher (2007) 认为在线研究带来了确认受访者和回答真实性的困难问题
 > - **公共与私密的模糊**Hudson & Bruckman (2005, p. 298) 发现"公共在线环境中的人往往表现得好像这些环境是私密的"，即使数据无法被追溯，他们仍然感到隐私被侵犯
 > - **信任建立**Lewis (2006) 描述了在请求参与研究之前花了五个月时间建立在线社区的信任关系——先成为在线社区成员
-> - **AoIR 伦理指南（Ess & AoIR, 2002）** 不要[[Hypothesis\|假设]]电子邮件安全；场所公认的公共性越强，保护个人隐私的义务可能越少；研究者对参与者的脆弱性越强，保护参与者的义务越大
+> - **AoIR 伦理指南（Ess & AoIR, 2002）** 不要假设电子邮件安全；场所公认的公共性越强，保护个人隐私的义务可能越少；研究者对参与者的脆弱性越强，保护参与者的义务越大
 
 ---
 

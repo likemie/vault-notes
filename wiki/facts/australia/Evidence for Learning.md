@@ -10,10 +10,10 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 41
-fact_related_level: 5
-fact_related_stars: "⭐⭐⭐⭐⭐"
-fact_related_color: "#fecdd3"
+fact_related_count: 39
+fact_related_level: 4
+fact_related_stars: "⭐⭐⭐⭐"
+fact_related_color: "#dcfce7"
 org_type: "intermediary"
 headquarters: "Sydney, Australia"
 established: "2014"
@@ -30,9 +30,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Going Native]]"
   - "[[Evidence Ecosystem]]"
-  - "[[Teaching Assistant]]"
   - "[[Policy Network]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[School Leadership]]"
   - "[[Literature Review]]"
   - "[[Abstract]]"
@@ -75,7 +73,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Evidence for Learning
@@ -91,7 +89,7 @@ updated: 2026-09-22
 > - **成立时间 / 创设背景** 2014 年由 SVA 孵化设立。当时澳大利亚教育界正围绕 Gonski 拨款改革后如何提升学校资金使用效益展开激辩；SVA 为解决其所认定的“澳大利亚[[Evidence Ecosystem\|教育证据生态系统]]缺陷”，引入英国 EEF 模式创办本土中介样板（SVA, 2016, p. 11；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 6–7]]）。
 > - **总部地点 / 业务辐射** 澳大利亚悉尼与墨尔本，项目辐射维多利亚州、新南威尔士州等全澳公立及非公立学校系统。
 > - **法人属性与经费基础** 依据《2001年公司法》隶属于 SVA 担保有限公司旗下的全资非营利中介实体；运营资金来自英国 EEF 专项注资、澳大利亚联邦银行企业社会责任捐赠、[[BHP Foundation\|必和必拓基金会]]（[[BHP Foundation]]）跨国资助以及州教育部委托项目（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 6, 8]]）。
-> - **核心宗旨与法定职责** 宣称致力于“协[[Teaching Assistant\|助教]]育决策者与一线教师获取严谨、直观的研究证据，以做出更明智的投资与教学决策”，重点通过本土化工具包缩小处境不利学生的学业差距。
+> - **核心宗旨与法定职责** 宣称致力于“协助教育决策者与一线教师获取严谨、直观的研究证据，以做出更明智的投资与教学决策”，重点通过本土化工具包缩小处境不利学生的学业差距。
 
 ---
 
@@ -106,7 +104,7 @@ updated: 2026-09-22
 > - **2021 — 国家级机构 [[Australian Education Research Organisation\|AERO]] 设立与战略终局达成** 经过多年跨党派游说，联邦与各州教育部长联合注资 5,000 万澳元正式成立国家法定中介机构 AERO，达成了 E4L 作为政策催化剂的预设“终局”（Endgame）。
 > - **2024–至今 — 剥离独立运行与常态化数字服务** 2024 年 3 月，E4L 完成在 SVA 内部近十年的孵化使命，作为独立运营平台平稳过渡，持续向全澳教育工作者免费开放其沉淀的证据工具包与实践指南资源库。
 
-> [!phase] 证据中介从私营原型到国家法定的[[Transfer Translation Transformation\|转译]]历程
+> [!phase] 证据中介从私营原型到国家法定的转译历程
 > 1. **私营试验原型孵化（2014–2015）** SVA 联合英国 EEF 与澳大利亚联邦银行，以[[Venture Philanthropy\|风险慈善]]种子资金创办 E4L，本土化《教学与学习工具包》，以跨界商法精英操盘搭建敏捷的试验中介样板。([[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 6]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]])
 > 2. **政策游说与审查采纳（2016–2018）** 借道生产力委员会调查与 [[Gonski 2.0]] 审查，SVA 董事与游说团队高调将 E4L 呈现为“经实践验证成功的证据经纪人”，推动国家将“设立独立国家证据机构”写入官方审查报告建议。([[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 7]])
 > 3. **国家法定机构内嵌（2021–至今）** 联邦与各州注资 5000 万澳元设立 AERO，E4L 的核心资助者（如联邦银行、[[BHP Foundation\|必和必拓基金会]]）与专家网络（如 Collins、Massy-Greene）直接嵌入国家机构董事会，完成从非政府创投项目向国家教育治理机器的战略转译。([[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 8–10]])
@@ -118,7 +116,7 @@ updated: 2026-09-22
 > [!actor-grid] 组织治理架构与母体从属
 > - **母体控制（[[Social Ventures Australia\|SVA]] 全资控股）** E4L 并非独立法人实体，其行政人事、法律审计与财务运营完全依托母体澳大利亚社会创投（SVA），是 SVA 进军基础教育公共政策领域的专业操作手臂（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 6–7]]）。
 > - **执行领导层（跨国商法精英主导）** 由前跨国商业律师马修·迪布尔长期担任总监。埃玛·罗威（Emma Rowe）特别指出，迪布尔没有任何一线公立中小学教师或校长从业经历，体现了跨国商法和企业咨询精英在循证中介机构中的主导性占位（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 6]]）。
-> - **学术咨询治理（学校专家咨询委员会）** 设立学校专家咨询委员会（Schools Expert Reference Council），特邀墨尔本大学教育荣休教授、澳大利亚教学与[[School Leadership\|学校领导力]]研究院（[[Australian Institute for Teaching and School Leadership\|AITSL]]）前主席[[John Hattie\|约翰·哈蒂]]（John Hattie）出任委员会主席，统筹本土顶尖学者与实践者对工具包[[Going Native\|本土化]][[Transfer Translation Transformation\|转译]]及指导指南（Guidance Reports）进行学术把关与方法论指导。
+> - **学术咨询治理（学校专家咨询委员会）** 设立学校专家咨询委员会（Schools Expert Reference Council），特邀墨尔本大学教育荣休教授、澳大利亚教学与[[School Leadership\|学校领导力]]研究院（[[Australian Institute for Teaching and School Leadership\|AITSL]]）前主席[[John Hattie\|约翰·哈蒂]]（John Hattie）出任委员会主席，统筹本土顶尖学者与实践者对工具包[[Going Native\|本土化]]转译及指导指南（Guidance Reports）进行学术把关与方法论指导。
 > - **跨国战略伙伴网络** 深度绑定英国 [[Education Endowment Foundation\|EEF]] 专家网络（包括 EEF 首任首席执行官 [[Sir Kevan Collins]] 的常态化业务指导），并与澳大利亚联邦银行基金会、[[BHP Foundation\|必和必拓基金会]]保持紧密的资助协同关系（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 6, 8]]）。
 
 > [!pathways]- 业务运行与“建构-共享-运用”三维中介机制
@@ -201,7 +199,7 @@ updated: 2026-09-22
 > | [[Educational Brokerage Agency]] | Concept | E4L 属于典型的准独立慈善基金会型教育证据中介机构。 |
 > | [[Policy Network]] | Concept | E4L 是澳洲连接跨国[[Venture Philanthropy\|风险慈善]]、商业银行与教育部委的枢纽节点。 |
 > | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | 关键论证 | 详细解构 E4L 作为 SVA 全资子公司、中立表象以及游说 AERO 的因果链条。 |
-> | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | 关键论证 | 揭示 E4L 作为 SVA 辐射网络中的战略技术原型，以及其与国家法定证据中介的[[Transfer Translation Transformation\|转译]]连接。 |
+> | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | 关键论证 | 揭示 E4L 作为 SVA 辐射网络中的战略技术原型，以及其与国家法定证据中介的转译连接。 |
 > | [[Network Governance]] | Concept | E4L 作为公私中介所践行的以工具包量规统摄、项目制试验与异层契约为特征的网络治理形态。 |
 > | [[Relational Space]] | Concept | E4L 作为耐用材料（因果证据工具包）在关系空间中将商业秩序固化并长程延展的关键中介。 |
 

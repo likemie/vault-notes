@@ -10,7 +10,7 @@ title: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_key: "Argument_QiMei_2015_EducationalResearchMethods"
 argument_display_title: "教育研究方法"
 argument_kind: "book"
-argument_related_count: 131
+argument_related_count: 129
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Research Question]]"
   - "[[Literature Search]]"
-  - "[[Document]]"
   - "[[Research Proposal]]"
   - "[[Variable]]"
   - "[[Definition of Terms]]"
@@ -51,7 +50,6 @@ related_concepts:
   - "[[Causality]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
-  - "[[Bildung]]"
   - "[[Directional and Non-directional Hypotheses]]"
   - "[[Operationalization]]"
   - "[[Value Neutrality]]"
@@ -101,6 +99,8 @@ related_methods:
   - "[[Fieldwork]]"
   - "[[Participant Observation]]"
   - "[[Grounded Theory]]"
+  - "[[Open Coding]]"
+  - "[[Axial Coding]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Theoretical Sampling]]"
   - "[[Action Research]]"
@@ -145,8 +145,6 @@ related_methods:
   - "[[Internal Consistency]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Sample Size Determination]]"
-  - "[[Open Coding]]"
-  - "[[Axial Coding]]"
   - "[[Selective Coding]]"
   - "[[Mixed Methods Research]]"
   - "[[Cluster Analysis]]"
@@ -178,14 +176,14 @@ updated: 2026-09-18
 > [!textbook-overview] 章节总览
 > | 章节 | 内容概要 | 主要关联条目 |
 > |---|---|---|
-> | 第1章 [[Research Topic\|研究主题]]选择与[[Literature Review\|文献综述]] | 教育研究的六种性质、选题的六种来源途径和四条标准、[[Research Question\|研究问题]]的明确化方法，以及[[Literature Search\|文献检索]]的类型和方法、[[Document\|文献]]综述的撰写结构与注意事项。 | [[Research Topic]]、[[Literature Review]]、[[Literature Search]] |
+> | 第1章 [[Research Topic\|研究主题]]选择与[[Literature Review\|文献综述]] | 教育研究的六种性质、选题的六种来源途径和四条标准、[[Research Question\|研究问题]]的明确化方法，以及[[Literature Search\|文献检索]]的类型和方法、文献综述的撰写结构与注意事项。 | [[Research Topic]]、[[Literature Review]]、[[Literature Search]] |
 > | 第2章 [[Research Proposal\|课题论证]] | [[Variable\|变量]]的概念性定义与[[Definition of Terms\|操作性定义]]、变量的五类划分标准、[[Hypothesis\|研究假设]]的特点与分类，以及课题类型、选题过程和课题设计论证书的写法。 | [[Variable]]、[[Hypothesis]]、[[Research Proposal]] |
 > | 第3章 [[Observation Method\|观察的方法]] | 观察法的含义、功能、特点和类型，科学观察的六项基本要求和五步实施程序，以及描述观察、取样观察、行为检核等策略和定量记录方式。 | [[Observation Method]]、[[Flanders Interaction Analysis Categories\|FIAC]] |
 > | 第4章 [[Experimental Research\|实验研究]] | 实验法的含义与四种基本特征、八项基本要素、内在效度与外在效度及其影响因素、真实验设计与[[Quasi-Experimental Designs\|准实验设计]]的典型模式。 | [[Experimental Research]]、[[Internal Validity]]、[[External Validity]]、[[Solomon Four-Group Design]]、[[Quasi-Experimental Designs]] |
 > | 第5章 [[Survey Research\|调查研究]] | 问卷调查的基本要素与结构、问卷编制原则与步骤、[[Reliability\|信度]]与效度检验及其关系、访谈调查的类型与实施程序。 | [[Survey Research]]、[[Reliability]]、[[Qualitative Interview]] |
 > | 第6章 [[Case Study\|案例研究]] | 案例研究的含义与六项特点、六种分类体系、五步研究程序、质量检验标准以及优势与局限。 | [[Case Study]] |
 > | 第7章 [[Ethnography\|人类学研究]]方法 | 人类学/民族志/民族学的概念区分、[[Fieldwork\|田野调查]]的含义与特点、[[Participant Observation\|参与观察]]与访谈的资料搜集方式、类属分析与情境分析两种资料分析方法。 | [[Ethnography]]、[[Participant Observation]]、[[Rich and Thick Description\|深描]] |
-> | 第8章 [[Grounded Theory\|扎根理论]]及其应用 | 扎根理论的起源与特点、四种[[Coding in Qualitative Research\|编码]]程序（初始编码→轴心编码→聚焦编码→理论编码）、理论性抽样与理论建构、在教育研究中的适用性。 | [[Grounded Theory]]、[[Coding in Qualitative Research]]、[[Theoretical Sampling]] |
+> | 第8章 [[Grounded Theory\|扎根理论]]及其应用 | 扎根理论的起源与特点、四种编码程序（[[Open Coding\|初始编码]]→[[Axial Coding\|轴心编码]]→聚焦编码→理论编码）、理论性抽样与理论建构、在教育研究中的适用性。 | [[Grounded Theory]]、[[Coding in Qualitative Research]]、[[Theoretical Sampling]] |
 > | 第9章 [[Action Research\|行动研究]] | 行动研究的定义与四项关键特征、[[Kurt Lewin\|勒温]]螺旋循环与凯米斯改进模型、九步研究过程、头脑风暴/三角形观察/中立主席三种方法、研究报告与叙事报告两种表述。 | [[Action Research]] |
 > | 第10章 统计分析 | 变量分类与编码、基础统计分析（频数/集中趋势/离散程度/交叉分析）、假设检验（[[t-test\|t检验]]/[[Chi-Squared Test\|卡方检验]]/[[Analysis of Variance\|方差分析]]）、SPSS操作实例。 | [[Descriptive Analysis]]、[[Statistical Significance]]、[[Effect Size]] |
 > | 第11章 研究报告的撰写 | 研究报告的总体框架与基本格式（题目/署名/摘要/关键词/正文/参考文献）、不同类型报告的正文结构差异与撰写要求。 | [[Abstract]]、[[Research Writing Script]] |
@@ -225,7 +223,7 @@ updated: 2026-09-18
 > |---|---|
 > | 从实际经验中发现问题 | 教师、教育行政人员等为了解决工作情境中的问题而从事研究，从身边发生的事情中观察教育现象。 |
 > | 从有关理论中探索 | 从学习理论、人格理论、课程与[[Didaktik\|教学理论]]、行政与管理理论等中寻找题目，依据理论而做的研究往往比较有深度。 |
-> | 从相关[[Document\|文献]]中寻找 | 先选择研究方向，浏览最近五年内的相关文献，[[Research Scope\|研究范围]]逐渐缩小，最后形成所要研究的题目。 |
+> | 从相关文献中寻找 | 先选择研究方向，浏览最近五年内的相关文献，[[Research Scope\|研究范围]]逐渐缩小，最后形成所要研究的题目。 |
 > | 重做前人做过的研究 | 验证他人重要发现、检查发现是否可应用到其他群体、检验趋势或变迁、用不同方法检验效度。但需考虑重复研究的意义和原创性。 |
 > | 从教育改革争议中寻找 | 从对教育改革的关注、争议、批判与展望中获得研究主题，教育改革需要教育学术研究为其先导。 |
 > | 向学者专家讨教 | 向有经验的教授、专家请教，促进理清思路、掌握重点，将复杂模糊的问题发展为可研究的课题。 |
@@ -289,7 +287,7 @@ updated: 2026-09-18
 
 #### 章节内容
 
-第一编"教育研究的基础"在第一章之后推进到[[Research Proposal|课题论证]]，分为两大部分：变量与[[Hypothesis|假设]]的理论基础，以及课题论证的操作实践。
+第一编"教育研究的基础"在第一章之后推进到[[Research Proposal|课题论证]]，分为两大部分：变量与假设的理论基础，以及课题论证的操作实践。
 
 界定变量内涵直接影响研究设计的质量。不重视或不会界定变量会导致[[Questionnaire|问卷]]信效度低、[[Interview Protocol|访谈提纲]]错乱无序等问题。界定变量内涵有两种方法：概念性定义和[[Definition of Terms|操作性定义]]。
 
@@ -313,7 +311,7 @@ updated: 2026-09-18
 > |---|---|---|
 > | 定义 | 由研究者主动操纵而变化的变量，能独立变化并引起因变量变化 | 变化由自变量引起，是研究中主要测查的变量 |
 > | 角色 | 研究中的"原因" | 研究中的"结果" |
-> | 示例 | 父母的不同[[Bildung\|教养]]倾向 | 小学生的攻击性行为水平 |
+> | 示例 | 父母的不同教养倾向 | 小学生的攻击性行为水平 |
 
 > [!contrast-table] 按研究对象主体
 > | 维度 | 主体变量（Subjective Variable） | 客体变量（Objective Variable） |
@@ -484,7 +482,7 @@ updated: 2026-09-18
 > |---|---|---|---|
 > | 记录方式 | 长期追踪，以日记形式记录个体[[Growth\|成长]]变化 | 着重记录某种有价值的行为，可随时记录 | 较长时间内持续不断地详细记录 |
 > | 主题限制 | 有固定对象，长期跟踪 | 可有主题也可无主题，不受条件限制 | 针对特定活动或事件进行连续追踪 |
-> | [[Coding in Qualitative Research\|编码]]要求 | 不需事先编码分类 | 不需事先编码分类 | 涉及对象较多时配合符号或代码记录 |
+> | 编码要求 | 不需事先编码分类 | 不需事先编码分类 | 涉及对象较多时配合符号或代码记录 |
 > | 示例 | [[Jean Piaget\|皮亚杰]]以自己三个孩子为观察对象，出版《儿童智力的起源》等三本著作 | 三岁幼儿推理：将"洪水"理解为"西瓜里流出来的汤"，展现归纳、演绎和类比推理 | 记录乡村教师一天工作；持续一周记录幼儿入园后半小时的行为和情绪状态 |
 
 > [!contrast-table] 取样观察的三种方法
@@ -564,7 +562,7 @@ Campbell & Stanley (1963) 识别了影响内在效度的九类因素：
 > | 测量工具（Instrumentation） | 测试方法技术或工具的无效或缺少一致性。如主持实验者的主观情绪变化、皮格马利翁效应、前后测难度不同、不同班级不同测验等。 | 精心选择测验及技术，谨慎观察，加强基本训练，严格测试手段 |
 > | 统计回归（Statistical Regression） | 根据极端分数选择被试时，第二次测量分数有向团体平均数回归的倾向。高分者分数降低，低分者分数升高。 | 避免采用两个极端的被试，或将极端分数者单独分组 |
 > | 选择偏差（Selection Bias） | 未做到随机抽样和随机分配，导致两组或多组被试在实验前就存在各方面能力的偏差。 | 随机抽样和随机分配 |
-> | 被试[[Attrition\|流失]]（Experimental Mortality） | 持续时间较长的实验中，被试更换、淘汰或中途退出可能显著影响结果。需注意缺席次数、学习时间、补习时间等是否相等。 | 采用消除法杜绝流失，或采用大样本以忽略个别流失 |
+> | 被试流失（[[Attrition\|experimental mortality]]） | 持续时间较长的实验中，被试更换、淘汰或中途退出可能显著影响结果。需注意缺席次数、学习时间、补习时间等是否相等。 | 采用消除法杜绝流失，或采用大样本以忽略个别流失 |
 > | 选择与成熟的[[Interaction Effect\|交互作用]]（Selection-Maturation Interaction） | 上述七项因素彼此的交互作用。例如不同阶层被试的成熟速度不同，导致实验处理效果与成熟效果混淆。 | 随机化分组，确保各组在各方面特征上均衡 |
 > | 实验处理的扩散（Diffusion of Treatment） | 实验组与控制组成员因接触、讨论而造成实验处理的扩散，控制组间接受到处理影响。 | 避免两组间接触，要求各组成员不可互通信息 |
 

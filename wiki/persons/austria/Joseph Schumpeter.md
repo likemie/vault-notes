@@ -3,7 +3,7 @@ summary: "奥地利裔美国著名经济学家，演化经济学与现代创新�
 type: person
 nationality: austria
 person_region: "austria"
-person_related_count: 14
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -20,12 +20,10 @@ tags:
   - theme/creative-destruction
   - theme/dynamic-capabilities
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Creativity]]"
   - "[[Creative Destruction]]"
   - "[[Public Dynamic Capabilities]]"
   - "[[Paradigm]]"
-  - "[[Document]]"
   - "[[Organizational Ambidexterity]]"
 related_theories:
   - "[[Evolutionary Economics]]"
@@ -40,7 +38,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-05
+updated: 2026-10-15
 title: Joseph Schumpeter
 aliases:
   - "Schumpeter, J."
@@ -60,7 +58,7 @@ alias_reviewed:
 
 > [!person-profile] 人物档案
 > - **身份位置** 约瑟夫·阿洛伊斯·熊彼特（Joseph Alois Schumpeter，1883–1950），奥地利裔美籍经济学家、社会学家；20 世纪最具原创性与深远影响力的经济学巨匠之一，现代**[[Evolutionary Economics|演化经济学]]**与创新经济学（Innovation Economics）的奠基宗师。
-> - **核心角色** 曾任奥地利财政部长、波恩大学教授，1932 年起长期执教于美国哈佛大学；打破新古典经济学静态完全竞争与一般均衡[[Hypothesis|假设]]，开创以“创新”与“企业家精神”为核心的动态非均衡经济演化理论体系。
+> - **核心角色** 曾任奥地利财政部长、波恩大学教授，1932 年起长期执教于美国哈佛大学；打破新古典经济学静态完全竞争与一般均衡假设，开创以“创新”与“企业家精神”为核心的动态非均衡经济演化理论体系。
 > - **跨学科影响** 提出[[Creativity|创造性]]破坏（[[Creative Destruction]]）、经济发展周期波以及创新两代演进模型（Mark I vs. Mark II）；其关于组织动态能力、[[Technological Trajectories|技术轨道]]变迁与探索–利用双元平衡的思想，不仅深刻重塑了产业组织与战略管理学（如 David Teece, James March），更在当代被跨界迁移至科技政策与公共治理领域，成为[[Public Dynamic Capabilities|公共部门动态能力]]理论的核心思想基石。
 
 > [!claim] 核心理论主张
@@ -89,7 +87,7 @@ alias_reviewed:
 
 > [!contrast-table] 熊彼特思想在现代科技政策与治理理论中的映射
 >
-> | 理论领域 | 承接概念 / 理论工具 | 理论功能与跨学科转化 | 代表学者与[[Document\|文献]] |
+> | 理论领域 | 承接概念 / 理论工具 | 理论功能与跨学科转化 | 代表学者与文献 |
 > |:---|:---|:---|:---|
 > | **[[Public Dynamic Capabilities\|公共部门动态能力]]** | [[Public Dynamic Capabilities\|公共部门动态能力理论]] | 将熊彼特企业双元探索能力迁移至国家治理，与韦伯国家能力综合，构建国家、政策与行政三层公共动态能力矩阵。 | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel & Mazzucato (2018)]] |
 > | **[[Evolutionary Economics\|演化经济学]]流派** | [[Evolutionary Economics\|现代演化经济学]] | 引入非完全竞争、[[Bounded Rationality\|有限理性]]与搜寻例规，奠定国家[[Systems of Innovation\|创新系统]]与技术–经济[[Paradigm\|范式]]变迁理论。 | Nelson & Winter (1982); Perez (2002) |

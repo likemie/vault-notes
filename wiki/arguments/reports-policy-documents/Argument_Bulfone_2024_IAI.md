@@ -23,7 +23,7 @@ title: "Argument_Bulfone_2024_IAI"
 argument_key: "Argument_Bulfone_2024_IAI"
 argument_display_title: "Adjusting to new geopolitical realities: Semiconductors industrial policy in the US and EU (IAI Papers 24 | 13)"
 argument_kind: "report"
-argument_related_count: 27
+argument_related_count: 26
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dcfce7"
@@ -47,7 +47,6 @@ related_concepts:
   - "[[Emergence]]"
 related_methods:
   - "[[Comparative Policy Analysis]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Analytic Framework]]"
 related_persons:
   - "[[Mariana Mazzucato]]"
@@ -110,7 +109,7 @@ tags:
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **价值链依赖测度** | 基于法国国际经济研究中心 BACI-CEPII 数据库提供的联合国商品贸易统计数据微观协调分项，按欧洲议会工业研究能源委员会及 SCCREEN3 地平线项目分类，提取采矿、提纯、中间元器件与最终制成品 4 个阶段的关键矿产与商品协调制度（Harmonized System, HS）[[Coding in Qualitative Research\|编码]]。（pp.3–4） |
+> | **价值链依赖测度** | 基于法国国际经济研究中心 BACI-CEPII 数据库提供的联合国商品贸易统计数据微观协调分项，按欧洲议会工业研究能源委员会及 SCCREEN3 地平线项目分类，提取采矿、提纯、中间元器件与最终制成品 4 个阶段的关键矿产与商品协调制度（Harmonized System, HS）编码。（pp.3–4） |
 > | **净进出口对数指标计算** | 计算各商品净进口与出口比值的自然对数 $\ln(\text{imports}/\text{exports})$，数值大于零界定为净进口依赖，跨期比较 2011 年与 2021 年依赖度变迁趋势。（pp.4–5） |
 > | **五维比较政策分析**<br>[[Comparative Policy Analysis]] | 构建统一的[[Analytic Framework\|分析框架]]，从行动主体、战略目标、资金规模、政策工具与附加条件 5 个核心维度对美欧半导体立法开展横向对质。（pp.3, 16–17） |
 

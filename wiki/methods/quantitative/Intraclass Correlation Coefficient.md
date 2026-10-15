@@ -11,7 +11,7 @@ summary: "用于度量多层嵌套或集群数据中同组观测值之间相似�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 48
+method_related_count: 46
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -35,7 +35,6 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Evaluation Research]]"
   - "[[Heterogeneity]]"
-  - "[[Document]]"
   - "[[Statistical Analysis Plan]]"
   - "[[Preregistration]]"
   - "[[Paradigm]]"
@@ -57,7 +56,6 @@ related_methods:
   - "[[Classroom Observation]]"
   - "[[Confidence Interval]]"
   - "[[Pre-test and Post-test]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Random Sampling]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Generalized Estimating Equations]]"
@@ -143,7 +141,7 @@ updated: 2026-10-15
 > - **数据结构** 包含 $J$ 个独立集群（如学校），第 $j$ 所学校包含 $n_j$ 名个体，平均集群规模 $m = \frac{1}{J}\sum n_j$。
 > - **核心变量**
 >   - 产出变量 $Y_{ij}$：第 $j$ 所学校第 $i$ 名学生的[[Pre-test and Post-test\|后测]]标准化成绩。
->   - 集群标识符 $\text{ClusterID}_j$：学校或班级的唯一分类[[Coding in Qualitative Research\|编码]]。
+>   - 集群标识符 $\text{ClusterID}_j$：学校或班级的唯一分类编码。
 > - **诊断与检验** 集群规模变异系数（CV of Cluster Size）检验、极端异常集群影响诊断。
 
 > [!formula-step] 公式步骤　空模型方差分解与 ICC 定义式
@@ -239,7 +237,7 @@ updated: 2026-10-15
 ## 局限性
 
 > [!method-limits] 方法局限
-> - **抽样不确定性大** 当集群数较小时，ICC 的[[Confidence Interval\|置信区间]]往往极宽，依据历史[[Document\|文献]]粗略猜测 ICC 极易导致试验先期功效设计严重失实。
+> - **抽样不确定性大** 当集群数较小时，ICC 的[[Confidence Interval\|置信区间]]往往极宽，依据历史文献粗略猜测 ICC 极易导致试验先期功效设计严重失实。
 > - **集群规模不平衡时的敏感性** 经典公式假定各集群规模完全相等；当各校学生人数差距悬殊时，标准设计效应公式会低估真实的方差膨胀程度。
 > - **补救方式** 优先从官方大规模国家普查数据（如英格兰 NPD 归档）中提取先验 ICC；规模不均时采用加权设计效应公式（Eldridge et al., 2006）。
 

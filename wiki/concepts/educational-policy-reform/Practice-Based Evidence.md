@@ -8,7 +8,7 @@ aliases:
 summary: "由教育实践者在教学现场生成的细粒度、情境化知识与微观过程数据，作为对抗实验主义认识论霸权的合法证据形态，为教师专业学习与教学形成性改进提供关键支撑。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 56
+related_count: 54
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -29,10 +29,8 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Deficit Framing]]"
   - "[[Research-Informed Teaching Practice]]"
-  - "[[Document]]"
   - "[[Data-Based Decision Making]]"
   - "[[Professional Learning Community]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Further Education]]"
   - "[[Knowledge Production]]"
   - "[[Homework]]"
@@ -113,7 +111,7 @@ updated: 2026-10-15
 > [!boundary]- 概念边界
 > - 区别于[[Evidence-Based Education\|证据本位教育]]（EBE）的实验证据：实验证据追求去情境化的普遍因果律（What Works）；实践本位证据关注特定情境下机制如何运转与微观改进（What Works Here）。
 > - 区别于[[Deficit Framing\|赤字框架]]（Deficit Framing）下的教师非正式经验：学术界传统观念常将教师研究贬低为小规模、轶事性或不规范；实践本位证据确立其作为实践科学与形成性改进的正当专业地位。
-> - 区别于[[Research-Informed Teaching Practice\|研究知情教学实践]]（RITP）：RITP 侧重学术[[Document\|文献]]的单向理解与转化应用；PBE 侧重教学现场的内生创生、协作沉淀与同行网络扩散。
+> - 区别于[[Research-Informed Teaching Practice\|研究知情教学实践]]（RITP）：RITP 侧重学术文献的单向理解与转化应用；PBE 侧重教学现场的内生创生、协作沉淀与同行网络扩散。
 
 ---
 
@@ -125,7 +123,7 @@ updated: 2026-10-15
 > | **证据生产主体** | 一线教师、教研组、[[Snowball Sampling\|网络化]]改进共同体 | 专业学术研究者、智库、第三方评估机构 | 学校管理层、测试机构、行政督导部门 | 学术期刊作者、二次研究合成专家 |
 > | **知识核心属性** | 细粒度、高情境化、过程性[[Phronesis\|实践智慧]] | 统计平均值、去情境化、普遍因果律 | 终结性指标、量化分数、横向排位数据 | 理论概括、教学法概念、学术命题 |
 > | **主要应用功能** | 形成性支持教学微调与[[Professional Learning Community\|专业学习共同体]] | 宏观政策方案筛选与教育干预准入 | 学校绩效考核、学业达标预警与分流 | 拓展教师理论视野与教学设计启发 |
-> | **决策[[Epistemology\|认识论]]取向** | 关注情境变异性与行动机制的动态调适 | 追求普遍因果效度与标准化干预依从 | 追求数字指标达成与量化问责达标 | 追求学术研究结论向课堂教学的[[Transfer Translation Transformation\|转译]] |
+> | **决策[[Epistemology\|认识论]]取向** | 关注情境变异性与行动机制的动态调适 | 追求普遍因果效度与标准化干预依从 | 追求数字指标达成与量化问责达标 | 追求学术研究结论向课堂教学的转译 |
 > | **流动与中介机制** | 同行专业网络、跨校教研联盟横向扩散 | 自上而下的指南推送与证据工具包分发 | 内部数据仪表盘与管理行政指令流转 | 学术出版物、[[Further Education\|继续教育]]培训与专家讲座 |
 
 > [!term] 核心辨析点

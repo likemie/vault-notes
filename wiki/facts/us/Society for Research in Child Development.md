@@ -9,9 +9,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 8
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: ""
 fact_related_color: "#dcfce7"
 org_type: academic-society
 headquarters: "Washington, D.C., USA"
@@ -25,7 +25,6 @@ tags:
   - theme/science-communication
 related_concepts:
   - "[[Policy Window]]"
-  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -41,7 +40,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-02
+updated: 2026-10-15
 ---
 
 # Society for Research in Child Development
@@ -89,7 +88,7 @@ updated: 2026-10-02
 > - **全球顶尖学术期刊家族** 主编出版发展科学领域最高引期刊《儿童发展》（*Child Development*）、《儿童发展洞察》（*Child Development Perspectives*）以及《社会政策报告》（*Social Policy Report*）。
 > - **[[Rapid Assessment and Response Strategy\|快速评估与响应战略]]产出** 针对全国性重大事件极速编制的科学声明与媒体通稿，直接成为国会听证质询的权威实证援引源泉。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 47)]]
 > - **两年一度的 SRCD 国际双年会** 全球规模最大的儿童发展科学大会，汇聚上万篇最新跨学科研究报告。
-> - **社会政策简报（Social Policy Report, SPR）** 专门将复杂的发展神经科学与心理学前沿成果[[Transfer Translation Transformation\|转译]]为面向立法决策者的一页纸政策建议。
+> - **社会政策简报（Social Policy Report, SPR）** 专门将复杂的发展神经科学与心理学前沿成果转译为面向立法决策者的一页纸政策建议。
 
 ---
 

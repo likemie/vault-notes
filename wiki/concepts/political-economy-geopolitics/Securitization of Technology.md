@@ -8,7 +8,7 @@ aliases:
 summary: "指主权国家在地缘政治博弈加剧背景下，将半导体、人工智能等战略性关键技术、基础科研与产业链控制力上升为关乎国家生存与主权安全的核心议程；通过出口管制、投资审查、定向产业立法与有组织科研动员，将大学等创新主体深度嵌入国家安全体系。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 52
+related_count: 50
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -35,7 +35,6 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Heterogeneous Integration]]"
   - "[[Innovation Ecosystem]]"
-  - "[[Document]]"
   - "[[Counterpart Funds]]"
   - "[[Technology-Oriented Social Contract]]"
   - "[[Focused Research Organization]]"
@@ -43,7 +42,6 @@ related_theories:
   - "[[Social Contract of Science]]"
   - "[[Pasteur's Quadrant]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Documentary Analysis]]"
   - "[[Audit Trail]]"
   - "[[Correlational Research]]"
@@ -213,7 +211,7 @@ updated: 2026-10-15
 > 探讨当代技术安全化如何从宏观边境与贸易审查下沉至底层物理微结构、芯片设计与异构封装，将国家安全目标与微电子全生命周期实现工程化绑定。
 
 > [!claim] [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]]
-> **全栈硬件安全与全生命周期国家安全治理** [[National Science and Technology Council|白宫国家科学技术委员会]]（NSTC）微电子战略将技术安全化推向微观全栈维度：技术安全已不再局限于传统出口管制、投资审查与实体清单等外生行政手段，而是内生化为贯穿底层材料探索、防篡改芯片设计、可信中试流片到[[Heterogeneous Integration|异构集成]]的全链条工程防御。通过研发可证明硬件安全度量衡（Provable Security Metrics）、硬件根信任（Root of Trust）芯片、物理防拆与抗侧信道攻击技术、混淆加密算法及全生命周期防伪溯源体系，国家安全逻辑被深度[[Coding in Qualitative Research|编码]]进半导体架构的底层微结构之中，确立了全政府跨部门统筹下的国家微电子全栈技术主权。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 1–4, 37–44)]]
+> **全栈硬件安全与全生命周期国家安全治理** [[National Science and Technology Council|白宫国家科学技术委员会]]（NSTC）微电子战略将技术安全化推向微观全栈维度：技术安全已不再局限于传统出口管制、投资审查与实体清单等外生行政手段，而是内生化为贯穿底层材料探索、防篡改芯片设计、可信中试流片到[[Heterogeneous Integration|异构集成]]的全链条工程防御。通过研发可证明硬件安全度量衡（Provable Security Metrics）、硬件根信任（Root of Trust）芯片、物理防拆与抗侧信道攻击技术、混淆加密算法及全生命周期防伪溯源体系，国家安全逻辑被深度编码进半导体架构的底层微结构之中，确立了全政府跨部门统筹下的国家微电子全栈技术主权。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 1–4, 37–44)]]
 
 ---
 
@@ -267,7 +265,7 @@ updated: 2026-10-15
 > [!ref-table]- 关键实证观察与指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究[[Document\|文献]] | 观察情境与样本 | 研究设计与方法 | 核心实证指标 | 原始统计与制度发现 | 理论解释边界 |
+> | 研究文献 | 观察情境与样本 | 研究设计与方法 | 核心实证指标 | 原始统计与制度发现 | 理论解释边界 |
 > |:---|:---|:---|:---|:---|:---|
 > | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | 白宫跨部门微电子研究国家战略（2024） | 全政府战略规划与[[Hardware Security\|硬件安全]]技术路线图分析 | 硬件安全支柱定位、全生命周期溯源覆盖率、跨部门微电子领导力（[[Subcommittee on Microelectronics Leadership\|SML]]）协同度 | 将硬件安全确立为四大国家目标之一（Goal 4）；设立零信任架构、芯片防伪度量衡与侧信道防护标准；统筹 DoD/[[Department of Energy\|DOE]]/NIST/[[National Science Foundation\|NSF]] 跨部门资源 | 揭示技术安全化从外生出口管制向底层微电子硬件根信任与全栈技术主权的纵深演进 |
 > | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | 美国半导体产业生态与大学微电子工程项目（2020–2026） | 政策[[Documentary Analysis\|文献分析]]与制度演化多案例追踪 | 制造产能全球份额变迁、劳动力缺口、法案科研预算与多校联盟规模 | ① 全球晶圆制造产能份额由 1990 年的 37% 跌至 2022 年约 10%；② 至 2030 年面临 6.7 万名专业技术岗位缺口与全美 140 万技术工人宏观短缺；③ 《[[CHIPS and Science Act\|芯片法案]]》规划 2000 亿美元研发预算；④ [[Joint University Microelectronics Program 2.0\|JUMP 2.0]] 计划统筹 14 所顶尖高校攻关微电子异构集成 | 揭示技术安全化驱动下美国对大学工程人才培养、开源标准锁定与跨校协同网络的战略动员及其伴生的安全审查张力 |

@@ -10,7 +10,7 @@ aliases:
 summary: "人工智能伦理学、人机协同与规范技术哲学核心构念，指在自动化与智能系统辅助决策全流程中，人类保持对系统因果链的主动追踪与价值响应能力，主导分歧仲裁与道德裁决权，防止人在回路退化为形式化橡皮图章。"
 type: concept
 domain: "educational-technology"
-related_count: 35
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Epistemic Deference]]"
   - "[[Automation Bias]]"
   - "[[Epistemic Friction]]"
-  - "[[Document]]"
   - "[[Defeater]]"
   - "[[AI Agent in Education]]"
   - "[[Necessary and Sufficient Conditions]]"
@@ -43,14 +42,12 @@ related_concepts:
   - "[[Variable]]"
   - "[[Epistemic Agency]]"
   - "[[Evaluative Judgement]]"
-  - "[[Attrition]]"
   - "[[Epistemology]]"
 related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Intraclass Correlation Coefficient]]"
   - "[[Meta-analysis]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
   - "[[Correlational Research]]"
 related_instruments: []
@@ -66,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Meaningful Human Control
@@ -109,7 +106,7 @@ updated: 2026-10-10
 > | **人类角色** | 完全脱离决策回路 | 被动签字核准，充当免责图章 | 主导代码簿制定与多模型分歧仲裁 | 行使独立道德审思与对立反例质询 |
 > | **认知投入** | 零心智投入，全盘外包算法 | 极低（易受顺从惯性与疲劳支配） | 高度聚焦于争议边界与复杂多源数据 | 全程保持认识警觉与自适应审思所有权 |
 > | **偏差防御机制** | 无防御，算法系统性偏误直接透传 | 极弱（极易诱发强[[Automation Bias\|自动化偏差]]与[[Epistemic Deference\|认识论顺从]]） | 依托多模型异构背对背提取与异常自动触发 | 依托反思机器与反驳型击败者注入[[Epistemic Friction\|认识论摩擦]] |
-> | **典型应用场景** | 低风险常规分类、高频数据过滤 | 军事空袭目标快审、信贷初筛流水线 | 证据综合、复杂[[Document\|文献]]计量与[[Meta-meta-analysis\|二阶元分析]] | 军事交战规则审查、重大疑难临床诊断与司法量刑 |
+> | **典型应用场景** | 低风险常规分类、高频数据过滤 | 军事空袭目标快审、信贷初筛流水线 | 证据综合、复杂文献计量与[[Meta-meta-analysis\|二阶元分析]] | 军事交战规则审查、重大疑难临床诊断与司法量刑 |
 > | **规范责任状态** | 算法黑箱导致责任主体悬空 | 责任不当转嫁给表面签字的操作者 | 科研团队承担清晰可审计的实质学术责任 | 人类操作者切实履行对生命尊严的道德受托义务 |
 
 ---
@@ -212,7 +209,7 @@ updated: 2026-10-10
 > | **规范基础命题** | 追踪条件与响应条件确立了人机控制的因果与理性耦合底线 | 自主系统安全设计、算法架构审计 | Santoni de Sio & van den Hoven (2018); [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] |
 > | **道德底线命题** | 生死抉择中的道德审思具有不可让渡性，机器天然缺乏道德理解力 | 军事自主武器系统、临床急症救治、司法刑罚判定 | Heyns (2017); Sparrow (2016); [[Argument_Jovchevski_2026_PT\|Jovchevski et al. (2026)]] |
 > | **形式化解构命题** | 强自动化偏差诱发的认识论顺从使人在回路沦为形式化橡皮图章 | 高风险算法辅助审批、防空拦截指挥、AI 辅助病理诊断 | [[Argument_Jovchevski_2026_PT\|Jovchevski et al. (2026)]]; Cummings (2004) |
-> | **方法学最优化命题** | 多模型共识结合分歧仲裁实现证据提取的去偏与效率最优 | 系统评价、二阶[[Meta-analysis\|元分析]]、大规模科学[[Document\|文献]][[Coding in Qualitative Research\|编码]] | [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]]; Thomas et al. (2025a) |
+> | **方法学最优化命题** | 多模型共识结合分歧仲裁实现证据提取的去偏与效率最优 | 系统评价、二阶[[Meta-analysis\|元分析]]、大规模科学文献编码 | [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]]; Thomas et al. (2025a) |
 > | **摩擦赋能命题** | 借助反思机器与反驳型击败者注入认知摩擦，恢复人类实质抗辩权 | 安全关键交互界面、人机团队协同决策平台 | Veluwenkamp & Buijsman (2025); [[Argument_Jovchevski_2026_PT\|Jovchevski et al. (2026)]] |
 
 ---
@@ -257,7 +254,7 @@ updated: 2026-10-10
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] | 156 篇初等与中等教育[[Meta-analysis\|元分析]][[Document\|文献]]（123,082 数据单元） | 单人提取 vs 前沿大模型 vs 双模型共识+专家仲裁对比实验 | [[Coding in Qualitative Research\|编码]]准确度（[[Intraclass Correlation Coefficient\|组内相关系数]] ICC 与一致率）、人工耗时 | 单人提取 ICC 为 0.81–0.95（一致率 80%–86%，耗时 390h）；前沿大模型 ICC 为 0.96–0.97（耗时数分钟）；MHC 架构（双模型共识+专家仲裁）ICC $\to 0.99+$（一致率 $\to 100\%$，仅耗时 60–85h） | 逼近绝对金标准（仲裁解决 57 处既有数据库错误） | 证实 MHC 分歧触发机制在完全消除单人疏漏的同时削减约 80% 人工劳动 |
+> | [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] | 156 篇初等与中等教育[[Meta-analysis\|元分析]]文献（123,082 数据单元） | 单人提取 vs 前沿大模型 vs 双模型共识+专家仲裁对比实验 | 编码准确度（[[Intraclass Correlation Coefficient\|组内相关系数]] ICC 与一致率）、人工耗时 | 单人提取 ICC 为 0.81–0.95（一致率 80%–86%，耗时 390h）；前沿大模型 ICC 为 0.96–0.97（耗时数分钟）；MHC 架构（双模型共识+专家仲裁）ICC $\to 0.99+$（一致率 $\to 100\%$，仅耗时 60–85h） | 逼近绝对金标准（仲裁解决 57 处既有数据库错误） | 证实 MHC 分歧触发机制在完全消除单人疏漏的同时削减约 80% 人工劳动 |
 > | [[Argument_Jovchevski_2026_PT\|Rosbach et al. (2025; cited in Jovchevski et al., 2026)]] | 28 名计算病理学专家 | AI 辅助肿瘤细胞占比（TCP）估算实验（设时间压力） | 专家独立判断正确但与错误 AI 提示冲突时的顺从频数 | 560 次评估中发生 67 次冲突咨询；其中 38 次专家主动将自身原本正确的判断改为顺从错误 AI 提示 | 原文报告频数 | 实证确证在高专业领域中形式化人类监督极易发生强偏差顺从，架空实质控制 |
 > | [[Argument_Jovchevski_2026_PT\|Klingbeil et al. (2024; cited in Jovchevski et al., 2026)]] | 信任博弈决策实验 | 引入 AI 与专家标签建议的背叛风险决策 | 参与者在明确掌握相左历史证据时的顺从率 | 控制组合作率为 6%；收到标记为 AI 的建议时合作率上升至 44%（专家建议标签无显著变化） | $p < .01$ | 证明技术标签本身即可诱发强认知让渡，必须通过[[Epistemic Friction\|认知摩擦]]重塑控制权 |
 
@@ -269,7 +266,7 @@ updated: 2026-10-10
 > - [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] — 系统论证强[[Automation Bias|自动化偏差]]引发的[[Epistemic Deference|认识论顺从]]如何架空有意义的人类控制，并提出利用反思机器与[[Defeater|反驳型击败者]]重建人类实质性道德能动性。
 > - [[Argument_Jansen_2026_EPR|Jansen et al. (2026)]] — 将有意义的人类控制理论成功[[Operationalization|操作化]]于教育证据综合与[[Meta-meta-analysis|二阶元分析]]流程，创立多模型共识结合专家仲裁的高效去偏[[Paradigm|范式]]。
 > - [[Argument_Du_Yuan_2026_AIS|Du & Yuan (2026)]] — 强调在高等教育学术探究中维系关系性[[Epistemic Agency|认识主体性]]与[[Evaluative Judgement|评价性判断]]，防止将关键证据核验全盘委派给大语言模型。
-> - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — 提出在生成式 AI 交互中必须建立结构化反思支架，防范无约束交互中操作者控制权的[[Attrition|流失]]。
+> - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — 提出在生成式 AI 交互中必须建立结构化反思支架，防范无约束交互中操作者控制权的流失。
 
 ---
 

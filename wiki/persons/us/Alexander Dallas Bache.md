@@ -9,7 +9,7 @@ summary: "美国著名科学家、物理学家与教育家，本杰明·富兰�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 14
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -22,7 +22,6 @@ tags:
   - theme/institutional-history
   - theme/educational-borrowing
 related_concepts:
-  - "[[Bildung]]"
   - "[[Normal School]]"
   - "[[Influences Across Cultures]]"
   - "[[Intercultural Education]]"
@@ -45,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-05
+updated: 2026-10-15
 ---
 
 # Alexander Dallas Bache
@@ -57,7 +56,7 @@ updated: 2026-10-05
 > [!person-profile] 人物档案
 > - **身份位置** 美国 19 世纪著名物理学家、大地测量学家与教育家，本杰明·富兰克林（Benjamin Franklin）的曾外孙，吉拉德孤儿学院（Girard College for Orphans）首任校长，美国海岸测绘局第二任局长，[[National Academy of Sciences|美国国家科学院]]（National Academy of Sciences, NAS）创会首任院长。
 > - **核心角色** 19 世纪美国早期欧洲教育实地考察的四大奠基学者之一（与[[Calvin Stowe|卡尔文·斯托]]、[[Horace Mann|霍勒斯·曼]]、[[Henry Barnard|亨利·巴纳德]]齐名）；以严谨的自然科学家精神与精确的实证测量眼光考察欧洲教育体制，为美国公共教育运动与现代工业技术学校建制提供了详实的经验蓝本。
-> - **代表贡献** 1836–1838 年实地走访欧洲七国 278 所学校，撰写出版长达 666 页的巨著《[[Education in Europe|欧洲教育报告]]》（*Report on Education in Europe*, 1839）；定性普鲁士初等教育为欧洲集权体系的最高典范，系统将欧洲孤儿[[Bildung|教养]]院、实科学校与工业师资培养规程引介至北美。
+> - **代表贡献** 1836–1838 年实地走访欧洲七国 278 所学校，撰写出版长达 666 页的巨著《[[Education in Europe|欧洲教育报告]]》（*Report on Education in Europe*, 1839）；定性普鲁士初等教育为欧洲集权体系的最高典范，系统将欧洲孤儿教养院、实科学校与工业师资培养规程引介至北美。
 
 > [!citation-card] 拉斯特论贝奇与 19 世纪美国欧洲考察热潮
 > 亚历山大·达拉斯·贝奇在对欧洲学校进行为期两年的深入调研后返回美国，报告指出普鲁士初等教育是中央集权体制中最完美的典范。拉斯特等人强调，贝奇与曼、巴纳德、斯托共同构成了 19 世纪美国对欧教育学习的先驱群体。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 124–125)]]
@@ -71,7 +70,7 @@ updated: 2026-10-05
 > [!timeline] 生平与职涯
 > - **1806** 出生于美国宾夕法尼亚州费城，为美国国父富兰克林的外曾孙。青年时期考入西点军校，以全班第一名优异成绩毕业。
 > - **1828–1836** 受聘宾夕法尼亚大学担任自然哲学与化学教授，投身电磁学与地磁测量研究，成为美国科学界翘楚。
-> - **1836** 费城富商斯蒂芬·吉拉德捐资创办吉拉德孤儿学院，贝奇受托出任首任校长，旋即受理事会委派远赴欧洲，考察贫困孤儿[[Bildung|教养]]院、初等义务教育与工业技术教育模式。
+> - **1836** 费城富商斯蒂芬·吉拉德捐资创办吉拉德孤儿学院，贝奇受托出任首任校长，旋即受理事会委派远赴欧洲，考察贫困孤儿教养院、初等义务教育与工业技术教育模式。
 > - **1836–1838** 历时两年走访英国、法国、普鲁士、奥地利、瑞士、荷兰与意大利，深入考察 278 所各级各类学校，记录详尽的办学章程与实地数据。
 > - **1839** 正式出版 666 页的巨型考察专著《[[Education in Europe|欧洲教育报告]]》（*Education in Europe*），震动美国教育界，成为各州立法的重要参考。
 > - **1839–1842** 兼任费城中央高中（Central High School of Philadelphia）校长，依据欧洲经验重构全美最早的高中技术与博雅课程。

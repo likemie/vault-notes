@@ -9,7 +9,7 @@ aliases:
 summary: "由国家或地方政府授权的外部独立机构对学校教育教学质量、管理运行与合规状态开展现场审查、评级发布与行政问责的制度化规制机制"
 type: concept
 domain: "educational-policy-reform"
-related_count: 64
+related_count: 63
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -45,13 +45,12 @@ related_concepts:
   - "[[School Choice]]"
   - "[[Heterogeneity]]"
   - "[[School Effectiveness]]"
+  - "[[School Autonomy]]"
   - "[[Construct]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
   - "[[Policy Avoidance]]"
   - "[[Mediatised Governance]]"
-  - "[[School Autonomy]]"
-  - "[[Document]]"
 related_theories:
   - "[[Complexity Theory]]"
   - "[[Path Dependence]]"
@@ -296,7 +295,7 @@ updated: 2026-10-15
 > > - **科层现实阻滞** 德国教育部的实证研究揭示，行政科层内部存在严密的处室分工壁垒，督导部门与测评部门各自建立封闭的数据管理通道，加之高频测评带来的行政过载，导致督导报告与测试成绩的横向综合关联沦为罕见的边缘行为。[[Argument_Dedering_2009_EERJ\|(Dedering, 2009, pp. 493–494)]]
 >
 > > [!axis] 目标责任协定：发展赋能合约 vs 隐性行政控制
-> > 探讨督学与校长之间签订的成效与目标协定究竟是促进学校自主发展的专业赋能合约，还是行政意志在去规制外衣下的隐性延伸。
+> > 探讨督学与校长之间签订的成效与目标协定究竟是促进[[School Autonomy|学校自主]]发展的专业赋能合约，还是行政意志在去规制外衣下的隐性延伸。
 > >
 > > - **赋能协商论** 认为平等的成效对话有助于打破传统督导的对立防卫情绪，使学校将外部宏观标准与本校微观规划有机融合。
 > > - **隐性控制批判论** 指出由于校际资源与行政权力的非对称性，目标协定极易退化为下级对上级单向指标的被动认领，在微观层面引发不同价值取向校长的认知抵触与态度断裂。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, pp. 27–29)]]
@@ -352,8 +351,8 @@ updated: 2026-10-15
 > | [[Nick Cowen]] | Person | 实证论证高压督导问责机制如何阻碍教师审慎使用循证研究证据的学者。 |
 > | [[Jason Beech]] | Person | 比较教育学者，揭示英国通过公私伙伴关系将学校督导外包并转化为跨国输出商业资本的机制。 |
 > | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] | Argument | 实证检验[[Schulqualität Allgemeinbildung\|奥地利普通学校质量保障体系]]（SQA）中目标协定型督导的治理功能与校长群体的认同断裂。 |
-> | [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] | Argument | 实证揭示德国教育行政官员对全样本学校督导实用治理价值的高度评价及其科层整合瓶颈的期刊[[Document\|文献]]。 |
-> | [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] | Argument | 剖析外部高压惩罚性督导与 OECD 专业共同体自律理念之间尖锐冲突的期刊[[Document\|文献]]。 |
+> | [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] | Argument | 实证揭示德国教育行政官员对全样本学校督导实用治理价值的高度评价及其科层整合瓶颈的期刊文献。 |
+> | [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] | Argument | 剖析外部高压惩罚性督导与 OECD 专业共同体自律理念之间尖锐冲突的期刊文献。 |
 > | [[Argument_Bainbridge_2022_ROE\|Bainbridge et al. (2022)]] | Argument | 揭示督导评级被道德化滑移为研究证据以掩护文法学校扩张的实证[[Discourse Analysis\|话语分析]]文献。 |
 > | [[Argument_Cowen_2015_CHESS\|Cowen et al. (2015)]] | Argument | 深入探讨督导等外部高压制度问责阻碍学校内生循证实践深化的实证研究报告。 |
 > | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | Argument | 剖析公私伙伴关系下学校督导的外包、商业资本化与跨国服务输出。 |

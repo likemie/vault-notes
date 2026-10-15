@@ -7,7 +7,7 @@ aliases:
 summary: "将社会理解为由自创生沟通构成的多重功能分化系统，严格区分社会系统与个体心理系统，以操作封闭、结构耦合与盲点机制揭示观察界限与自适应生态演化。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 37
+theory_related_count: 33
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -27,16 +27,13 @@ related_concepts:
   - "[[Incommensurability]]"
   - "[[School Leadership]]"
   - "[[Evidence Ecosystem]]"
-  - "[[Hypothesis]]"
   - "[[Positivism]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Emergence]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Epistemic Stances]]"
   - "[[Discourse]]"
   - "[[Visible Learning]]"
   - "[[Professional Judgment]]"
-  - "[[Attrition]]"
   - "[[Technical Rationality]]"
   - "[[Epistemic Governance]]"
   - "[[Evidence-Based Education]]"
@@ -46,7 +43,6 @@ related_theories:
   - "[[Structural Functionalism]]"
   - "[[Critical Theory]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
   - "[[Analytic Framework]]"
   - "[[Correlational Research]]"
@@ -62,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Luhmann's Systems Theory
@@ -78,7 +74,7 @@ updated: 2026-10-08
 > - **知识位置** 由德国社会学家 [[Niklas Luhmann]]（1927–1998）发轫，融合控制论（Wiener, Ashby）、二阶控制论与[[Radical Constructivism\|激进建构主义]]（von Foerster）、生物自创生理论（Maturana & Varela）以及符号逻辑（Spencer-Brown），在教育学、法学、经济学与公共治理等领域形成了具有颠覆性的批判与解释传统。
 
 > [!claim] 核心主张
-> 社会不是由人类个体或心理意识拼接而成的实体集合，而是由**沟通（Communication）**构成的自创生、操作封闭的复杂功能系统。社会系统与个体的心理系统（意识）在操作上彼此封闭且互不透明；系统无法直接输入外部现实，只能通过内部特有的二元[[Coding in Qualitative Research\|编码]]对环境进行自我指涉的选择性观察。系统之间的互动绝非线性因果传导，而是经由**[[Structural Coupling\|结构耦合]]（Structural Coupling）**引发的相互内在扰动与自组织响应。
+> 社会不是由人类个体或心理意识拼接而成的实体集合，而是由**沟通（Communication）**构成的自创生、操作封闭的复杂功能系统。社会系统与个体的心理系统（意识）在操作上彼此封闭且互不透明；系统无法直接输入外部现实，只能通过内部特有的二元编码对环境进行自我指涉的选择性观察。系统之间的互动绝非线性因果传导，而是经由**[[Structural Coupling\|结构耦合]]（Structural Coupling）**引发的相互内在扰动与自组织响应。
 
 > [!citation-card] Luhmann 系统理论论社会系统与心理系统的[[Incommensurability\|不可通约性]]
 > 社会沟通系统——无论是教师、[[School Leadership\|学校领导]]、研究人员还是地方或国家教育决策者——永远无法直接观察单个学生或学习者的心理系统。这两个系统在编码上并非同一，对彼此而言也绝非透明。[[Argument_Larsen_2019_EducSci\|Larsen, 2019, p. 4; Luhmann, 1997]]
@@ -104,7 +100,7 @@ updated: 2026-10-08
 ## 核心命题与机制
 
 > [!proposition-chain] 核心命题一｜社会系统与心理系统在操作上绝对封闭且对彼此构成环境盲区
-> - **前提一（操作自闭[[Hypothesis\|假设]]）** 社会系统由且仅由沟通构成，而心理系统由且仅由意识流构成；两者不共享相同的操作基元与[[Coding in Qualitative Research\|编码]]方式。[[Argument_Larsen_2019_EducSci\|(Larsen, 2019, p. 4)]]
+> - **前提一（操作自闭假设）** 社会系统由且仅由沟通构成，而心理系统由且仅由意识流构成；两者不共享相同的操作基元与编码方式。[[Argument_Larsen_2019_EducSci\|(Larsen, 2019, p. 4)]]
 > - **前提二（[[Incommensurability\|不可通约性]]）** 意识不能直接思考到社会之中，沟通也无法直接穿透进个体的神经元或意识流深处；两者对彼此而言都属于未分化的“外部环境”。
 > - **推导** ① 教师在课堂上的言语指令属于教育社会系统的沟通操作；② 学生的理解、走神、领悟或情绪属于其独立心理系统的意识操作；③ 教师永远无法直接“看到”或“操控”学生的心理意识，任何教学都只能依赖学生心理系统自身的内部建构。
 
@@ -121,7 +117,7 @@ updated: 2026-10-08
 > [!proposition-chain] 核心命题四｜教育治理与[[Knowledge Mobilisation\|知识动员]]是复杂自适应网络的自组织演化而非自上而下的行政操纵
 > - **前提一（子系统的功能分化）** 科学系统依据“真 / 假”代码运转，政治系统依据“权力 / 执政”代码运转，教育系统依据“可教 / 不可教（传递能力）”代码运转；各系统之间无从直接指挥对方。[[Argument_Torres_2022_KMModels\|(Torres, 2022, pp. 35–37)]]
 > - **前提二（自组织[[Emergence\|涌现]]）** 教育系统具有多层级嵌套的生态属性，整体系统的行为与适应能力源于各行动者在反馈回路中的自发涌现，无法通过简单的中心指令机械规划（Burns & Köster, 2016）。
-> - **推导** ① 外部科研界生产的实证证据（科学代码）不能直接成为学校日常课堂行动的行动纲领；② 政策指令若想在学校落地，必须经历教育系统内部沟通的二次[[Transfer Translation Transformation\|转译]]与自组织接纳；③ 知识动员模型必须超越流水线交付，转向理解多系统间的结构耦合与自适应生态网络。
+> - **推导** ① 外部科研界生产的实证证据（科学代码）不能直接成为学校日常课堂行动的行动纲领；② 政策指令若想在学校落地，必须经历教育系统内部沟通的二次转译与自组织接纳；③ 知识动员模型必须超越流水线交付，转向理解多系统间的结构耦合与自适应生态网络。
 
 > [!mechanism-map]- 系统自创生与结构耦合机制图
 > ```mermaid
@@ -164,7 +160,7 @@ updated: 2026-10-08
 ## 适用边界
 
 > [!theory-boundary] 适用边界
-> - **适合解释** 宏观制度分化、跨部门沟通阻滞、政策推行中的意图[[Attrition\|流失]]、标准化评估的[[Technical Rationality\|技术理性]]偏误、复杂教育网络自组织。
+> - **适合解释** 宏观制度分化、跨部门沟通阻滞、政策推行中的意图流失、标准化评估的[[Technical Rationality\|技术理性]]偏误、复杂教育网络自组织。
 > - **谨慎使用** 微观面对面情感交往或具体学习心理测验；若直接套用操作封闭假说，容易忽视具身生理与人际共情的细腻经验。
 > - **不适合解释** 具体的教学法技巧有效性实证检验、短期课堂测验分数预测等具体技术性问题。
 > - **常见误用** 误以为系统理论主张“教学完全无用”或“人与人彻底无法理解”，将“操作封闭”教条化为冷漠虚无主义，而忽视了[[Niklas Luhmann\|卢曼]]理论对“高度分化下的精细[[Structural Coupling\|结构耦合]]”的系统论述。
@@ -174,7 +170,7 @@ updated: 2026-10-08
 ## 发展脉络
 
 > [!dev-timeline] 发展脉络
-> - **1960–1961 — [[Paradigm\|范式]]决裂** [[Niklas Luhmann\|卢曼]]在哈佛大学师从 [[Talcott Parsons]]，随后决然抛弃[[Structural Functionalism|结构功能主义]]的规范共识[[Hypothesis\|假设]]，开创以系统-环境区分与[[Autopoiesis\|自创生]]为基石的全新系统论。
+> - **1960–1961 — [[Paradigm\|范式]]决裂** [[Niklas Luhmann\|卢曼]]在哈佛大学师从 [[Talcott Parsons]]，随后决然抛弃[[Structural Functionalism|结构功能主义]]的规范共识假设，开创以系统-环境区分与[[Autopoiesis\|自创生]]为基石的全新系统论。
 > - **1984 — 《社会系统》（Soziale Systeme）出版** 标志着以沟通替代行动、以操作封闭与自创生为核心的社会系统理论完全成型。
 > - **1997 — 《社会的社会》（Die Gesellschaft der Gesellschaft）出版** 晚期集大成巨著，系统阐发功能分化社会的运行全景与二阶观察方法。
 > - **2002 — 《社会的教育系统》（Das Erziehungssystem der Gesellschaft）遗作出版** 详细将系统理论聚焦于教育子系统，剖析教育的“无法完结性”与不可操控悖论。

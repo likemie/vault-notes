@@ -10,10 +10,10 @@ aliases:
 summary: "有机结合面对面实体课堂教学与数字化在线学习环境的教学模式，通过整合物理临场交互、异步自主探究与自适应智能支架，重构学习时空并促进深层理解与高阶思维发展。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 30
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 28
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/instruction
   - theme/pedagogy
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Champ]]"
   - "[[Paradigm]]"
   - "[[Self-control]]"
-  - "[[Attrition]]"
   - "[[Scaffolding]]"
   - "[[Constructive Alignment]]"
   - "[[Self-Regulated Learning]]"
@@ -37,7 +36,6 @@ related_concepts:
   - "[[Epistemic Friction]]"
   - "[[Epistemic Dependence]]"
   - "[[Problem Solving]]"
-  - "[[Teaching Assistant]]"
   - "[[AI Agent in Education]]"
   - "[[Epistemology]]"
   - "[[Evaluative Judgement]]"
@@ -55,7 +53,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-09-05
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Blended Learning
@@ -91,7 +89,7 @@ updated: 2026-10-07
 > |---|---|---|---|
 > | **时空组织结构** | 实体面授与虚拟网络时空相互交织、弹性延伸 | 固定时间、固定物理教室的同步教学 | 完全脱离物理场所，高度依赖网络虚拟接入 |
 > | **师生互动模式** | 课内深度研讨协作，课外智能辅导与个别化答疑 | 教师单向讲授为主，课内缺乏充分个性化交互 | 依赖文字论坛或异步视频，易缺乏真实具身临场感 |
-> | **学习自主节奏** | 课前/课后可[[Self-control\|自控]]认知步调，面授时聚焦瓶颈难点 | 全班步调强制统一，难以兼顾个体认知速度差异 | 完全由学生自控节奏，缺乏外部纪律监管极易[[Attrition\|流失]] |
+> | **学习自主节奏** | 课前/课后可[[Self-control\|自控]]认知步调，面授时聚焦瓶颈难点 | 全班步调强制统一，难以兼顾个体认知速度差异 | 完全由学生自控节奏，缺乏外部纪律监管极易流失 |
 > | **技术定位与功能** | 作为[[Scaffolding\|认知脚手架]]与深度探究伙伴融入全流程 | 作为展示工具或讲义投屏的辅助设备 | 作为教学信息传输与[[Homework\|作业]]提交的唯一中介通道 |
 
 ---
@@ -179,7 +177,7 @@ updated: 2026-10-07
 ## 概念演变
 
 > [!dev-timeline] 混合式学习的概念演化
-> - **1990s 末–2000s 初 — 媒体补充与技术初兴阶段** 随着早期网络课程管理系统（CMS/LMS）的普及，高校开始尝试将实体面授与课后在线公告、文本论坛相结合，概念多被狭义定义为“面对面教学与计算机辅[[Teaching Assistant\|助教]]学的混合”。
+> - **1990s 末–2000s 初 — 媒体补充与技术初兴阶段** 随着早期网络课程管理系统（CMS/LMS）的普及，高校开始尝试将实体面授与课后在线公告、文本论坛相结合，概念多被狭义定义为“面对面教学与计算机辅助教学的混合”。
 >
 >   *此阶段侧重于教学资料的数字化分发与行政事务管理。*
 >

@@ -9,7 +9,7 @@ summary: "模拟或促进具有能动性的个体在行动者网络中互动的�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 12
+method_related_count: 11
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#fef3c7"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Computer Simulation]]"
   - "[[Causality]]"
   - "[[Virtual World]]"
-  - "[[Hypothesis]]"
   - "[[Causal Processes]]"
 related_theories:
   - "[[Complexity Theory]]"
@@ -41,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-19
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Agent-based Modelling
@@ -125,7 +124,7 @@ ABM 已被应用于多种领域（Martin, 2011, Ch. 19）：
 
 > [!method-fit] 适用判断
 > - **适合使用** 研究微观行为与宏观模式之间的[[Emergence\|涌现]]关系；探索初始条件变化如何影响系统整体行为；在虚拟环境中模拟难以在真实世界实验的社会互动过程。
-> - **谨慎使用** 模型[[Hypothesis\|假设]]过于简化时，涌现模式可能与真实世界产生本质差异；需要确保初始规则有足够的理论或实证依据。
+> - **谨慎使用** 模型假设过于简化时，涌现模式可能与真实世界产生本质差异；需要确保初始规则有足够的理论或实证依据。
 > - **不适合使用** 需要精确预测个体行为的场景；需要建立确定性[[Causality\|因果推断]]的研究；主体行为的规则无法从理论或观察中合理导出的情况。
 
 ---

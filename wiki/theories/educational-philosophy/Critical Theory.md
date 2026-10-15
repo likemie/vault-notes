@@ -29,11 +29,11 @@ related_concepts:
   - "[[Institutional Displacement]]"
   - "[[Value Neutrality]]"
   - "[[Evidence-Based Education]]"
-  - "[[Hypothesis]]"
   - "[[Cultural Capital]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Discourse]]"
   - "[[Research Question]]"
+  - "[[Competitiveness]]"
   - "[[Critical Pedagogy]]"
   - "[[Theoretical Standpoint]]"
 related_theories:
@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-16
-updated: 2026-10-11
+updated: 2026-10-16
 ---
 
 # Critical Theory
@@ -149,7 +149,7 @@ updated: 2026-10-11
 > **应用实例** 在现代[[Evidence-Based Education|循证教育]]运动中，官方科研资助机构往往规定只有大样本[[Randomised Controlled Trials|随机对照试验]]（RCT）才算真实科研，将质性扎根、[[Narrative Research|叙事探究]]与[[Action Research|行动研究]]贬低为非科学。批判理论指出，这种排他性标准绝非纯粹的学术[[Epistemology|认识论]]进步，而是行政官僚机构为了实现对学校教学行为自上而下标准化技术控制而设立的制度壁垒。
 
 > [!theory-proposition] 命题二｜社会情境与现存制度不是自然法则，而是特定阶层利益被保护与压制的历史产物
-> **解释** 传统理论将学校、课程、评价标准等社会制度视作自然演化、不证自明的客观实在，研究者的任务仅在于测量其运行效率并提出优化建议。批判理论彻底瓦解了这一社会自然主义[[Hypothesis|假设]]，强调任何现实安排都是历史上具体权力集团博弈妥协的凝固形态。统治阶层总是借由国家机器与意识形态国家机器，将其特殊利益包装为全社会的共同利益（Generalizable Interests），诱导被支配者产生虚假意识并将不平等处境归咎于自身缺陷。[[Ideology Critique|意识形态批判]]的任务就在于打破这一物化状态，证明看似永恒合理的秩序在历史上是人为造就的，因而同样可以通过实践行动予以重塑。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 29, 63)]]
+> **解释** 传统理论将学校、课程、评价标准等社会制度视作自然演化、不证自明的客观实在，研究者的任务仅在于测量其运行效率并提出优化建议。批判理论彻底瓦解了这一社会自然主义假设，强调任何现实安排都是历史上具体权力集团博弈妥协的凝固形态。统治阶层总是借由国家机器与意识形态国家机器，将其特殊利益包装为全社会的共同利益（Generalizable Interests），诱导被支配者产生虚假意识并将不平等处境归咎于自身缺陷。[[Ideology Critique|意识形态批判]]的任务就在于打破这一物化状态，证明看似永恒合理的秩序在历史上是人为造就的，因而同样可以通过实践行动予以重塑。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|(Cohen et al., 2011, pp. 29, 63)]]
 >
 > **应用实例** 学校课程长期将城市中产阶级的语言规范与认知风格视作唯一的优秀学术标准，而将工人阶级或少数族裔儿童的[[Cultural Capital|文化资本]]判定为认知赤字。批判理论揭示，这种所谓的学术标准不是智力发展的自然反映，而是[[Hegemony|文化霸权]]在教育体制中的合法化投影，其潜移默化的功能在于合法化阶级再生产。
 
@@ -178,7 +178,7 @@ updated: 2026-10-11
 > | 理论依据 | 分析维度与提问 | 可观察线索与材料 | 判读规则与边界 |
 > |:---|:---|:---|:---|
 > | 知识构成性兴趣（Habermas, 1972; [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, p. 27]]） | **[[Epistemology\|认识论]]旨趣与[[Paradigm\|范式]]规约** 政策所推崇的标准追求的是技术控制、情境理解还是解放自决？排斥了何种知识传统？ | 资助指南要求的研究设计、合法成果门槛、被排除的研究范式（如质性、[[Action Research\|行动研究]]）。 | 若政策排他性地将单一实证范式定为合规标准，表明其处于[[Technical Rationality\|技术理性]]控制旨趣之下。 |
-> | 意识形态批判（Habermas, 1976; [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, p. 29]]） | **利益代表与修辞自然化** 政策将谁的特殊部门利益包装为全体公民的普遍利益？制造了何种危机叙事？ | 政策前言中的国家危机[[Discourse\|话语]]、核心术语的排他性界定、对异见者的标签化指责。 | 出现国家竞争力受威胁等恐慌修辞并据此强推单一干预手段，支持意识形态合法化[[Hypothesis\|假设]]。 |
+> | 意识形态批判（Habermas, 1976; [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, p. 29]]） | **利益代表与修辞自然化** 政策将谁的特殊部门利益包装为全体公民的普遍利益？制造了何种危机叙事？ | 政策前言中的国家危机[[Discourse\|话语]]、核心术语的排他性界定、对异见者的标签化指责。 | 出现[[Competitiveness\|国家竞争力]]受威胁等恐慌修辞并据此强推单一干预手段，支持意识形态合法化假设。 |
 > | 政策人为建构属性（Schneider & Ingram, 1997; [[Argument_Edmondson_2005_EPAA\|Edmondson, 2005, p. 11]]） | **权力同盟与寡头准入壁垒** 决策圈层由何种同盟主导？专家委员会成员是如何被遴选的？ | 听证会证人背景、政府主管官员与出版商顾问的任职重合度、闭门协商参与范围。 | 若核心决策被行政官僚与商业资本组成的封闭同盟垄断，基层参与多沦为象征性摆设。 |
 > | 理想言说情境与实践反思（Habermas, 1984; [[Argument_Edmondson_2005_EPAA\|Edmondson, 2005, pp. 11–14]]） | **实践者能动性与民主阵线** 教育者在面对自上而下的技术规制时，是单纯服从还是展开了多维战略反制？ | 教师抗议联名信、学区拒领附条件拨款决议、跨界公众维权联盟行动记录。 | 单纯的公关请愿极易被立法机器规避；形成跨界公众联盟与地方合宪拒止方能构成实质抗争。 |
 

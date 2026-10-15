@@ -11,7 +11,7 @@ title: "Argument_SpronkenSmith_2024_AEHE"
 argument_key: "Argument_SpronkenSmith_2024_AEHE"
 argument_display_title: "Perceptions of graduate attribute development and application in PhD graduates from US and NZ universities"
 argument_kind: "journal-article"
-argument_related_count: 24
+argument_related_count: 21
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -29,15 +29,12 @@ related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Employability]]"
   - "[[Outcomes-based Education]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Disciplinary Socialization]]"
-  - "[[Hypothesis]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Language Skills]]"
   - "[[Critical Thinking]]"
   - "[[Problem Solving]]"
   - "[[Lifelong Learning]]"
-  - "[[Document]]"
   - "[[Creativity]]"
   - "[[Research Universities]]"
 related_theories: []
@@ -156,7 +153,7 @@ updated: 2026-09-16
 ### 学科文化的隔离效应：以团队合作与沟通能力为例
 
 > [!line-a] 剖析协作与沟通能力薄弱的学科机制
-> 访谈文本深入揭示了这五大薄弱领域的发生机制。在团队合作方面，科学学科的实验室环境虽然天然提供了协作机会，但学生仍普遍感到缺乏正式的团队冲突管理培训；而在人文与社会科学学科中，以独立研究为主的学科规范使学生几乎完全没有团队协作的机会，从而加剧了沟通与团队技能的缺失（p. 95）。在沟通方面，博士期间的训练偏重学术共同体内的书面和口头表达，当毕业生需要向非学术受众阐释其研究时，面临严重的语言“不可及性”和[[Transfer Translation Transformation\|转译]]技能匮乏（p. 96）。
+> 访谈文本深入揭示了这五大薄弱领域的发生机制。在团队合作方面，科学学科的实验室环境虽然天然提供了协作机会，但学生仍普遍感到缺乏正式的团队冲突管理培训；而在人文与社会科学学科中，以独立研究为主的学科规范使学生几乎完全没有团队协作的机会，从而加剧了沟通与团队技能的缺失（p. 95）。在沟通方面，博士期间的训练偏重学术共同体内的书面和口头表达，当毕业生需要向非学术受众阐释其研究时，面临严重的语言“不可及性”和转译技能匮乏（p. 96）。
 > 
 > > [!contrast-table] 学科协作与沟通模式对比
 > > | 学科领域 | 团队合作特征 | 沟通技能短板 |
@@ -171,7 +168,7 @@ updated: 2026-09-16
 > [!line-a] 解构默认的学术职业社会化路径
 > 职业和职业生涯发展是缺失最为严重的领域。调查显示，在 136 名受访者中，仅有 2 人制定了个人发展计划，大多数人从未参与过职业生涯规划或简历准备活动（p. 96）。访谈显示，这源于深厚的导师文化和[[Disciplinary Socialization\|学科社会化]]规范：院系和导师默认所有博士生都会进入学术界，非学术路径被暗示为“次等选择”，导致针对其他职业选择的信息流和讨论被阻断。
 > 
-> > [!tension] 学术职业[[Hypothesis\|假设]]与就业现实的张力
+> > [!tension] 学术职业假设与就业现实的张力
 > > - **学术界的默认假设** 导师与院系默认所有博士生都应当且仅应当进入学术界，非学术路径被暗示为最优秀者的“次等选择”。
 > > - **多元就业的现实** 调查显示只有 22.5% 的毕业生最终进入学术界终身轨或终身职，超过 40% 的毕业生在学术界之外就业，超过半数的学术界就业者处于不稳定的固定期合约中。（p. 92, p. 99）
 
@@ -225,7 +222,7 @@ updated: 2026-09-16
 > | 素养维度 (Domain) | 子维度 (Subdomain) | 典型技能与品质示例 (Examples of attributes and skills) |
 > |---|---|---|
 > | **知识 (Knowledge)** | • 学科特定 (Discipline-specific)<br>• 跨学科 (Interdisciplinary)<br>• 专业职业 (Professional) | 评估自身原创性贡献的相关性与价值；整合两门或多门学科知识的能力；理解工作环境中的行政与运营流程。（p. 98） |
-> | **研究 (Research)** | • 研究方法 (Methods)<br>• 研究技能 (Skills)<br>• 研究管理 (Management) | 论证研究所用原则与方法的合理性；检索与评判[[Document\|文献]]、管理信息、掌握数据收集与分析技术；项目管理、学术诚信、科研伦理、资金与财务管理。 |
+> | **研究 (Research)** | • 研究方法 (Methods)<br>• 研究技能 (Skills)<br>• 研究管理 (Management) | 论证研究所用原则与方法的合理性；检索与评判文献、管理信息、掌握数据收集与分析技术；项目管理、学术诚信、科研伦理、资金与财务管理。 |
 > | **沟通 (Communication)** | • 沟通原则 (Principles)<br>• 媒介与语言 (Media/Language)<br>• 学术发表 (Publication)<br>• 教学指导 (Teaching)<br>• 公众与企业 (Public/Enterprise) | 构建连贯论证、进行知识交换、向不同受众介绍研究；跨媒介与多语种沟通；理解发表流程；发展教学哲学、参与教学指导；促进公众理解、提升政策意识、了解学术成果商业化的可能性。 |
 > | **人际技能 (Interpersonal)** | • 协作团队 (Teamwork)<br>• 领导力 (Leadership) | 公开、直接且公正地与他人沟通，理解自身行为对他人的影响，有效管理关系与成功谈判，倾听他人；支持他人的学习。 |
 > | **高阶思维 (Higher-order)** | • 认知与创新 (Cognitive/Innovation) | 批判性思维、问题解决、认知能力、[[Creativity\|创造力]]与好奇心。 |
@@ -239,7 +236,7 @@ updated: 2026-09-16
 > [!finding-cards] 核心发现
 > 1. **能力发展存在显著的研究者偏向与通用技能差距** 博士阶段对研究技能（均值为 4.4）、分析技能（均值为 4.4）和学术严谨性（均值为 4.3）的训练极强，甚至高于职场的实际需求；但在团队合作（均值为 2.9）和环境素养（均值为 2.8）等协作与社会性特质上的培养水平极低。（pp. 89–90, p. 93）
 > 2. **职场应用需求与学校培养的系统性脱节** 对比发展与应用评分，职场对大部分[[Graduate Attributes\|毕业生素养]]的应用需求显著高于博士阶段的发展感知，其中团队合作的供给缺口最大（差值为 1.3），其次是自信心（差值为 0.9）、口头沟通与实施变革能力（差值均为 0.8），且这一差距在不同国家和课程制度的大学毕业生中表现高度一致。（p. 92, p. 93）
-> 3. **院系导师文化对职业社会化渠道的限制** 在 136 名毕业生中仅有 2 人制定了个人发展计划，其职业准备的普遍缺失主要受制于院系“默认所有人进入学术界”的[[Hypothesis\|假设]]，非学术路径常被暗示为“次等选择”，导致非学术职业信息的严重匮乏。（p. 96）
+> 3. **院系导师文化对职业社会化渠道的限制** 在 136 名毕业生中仅有 2 人制定了个人发展计划，其职业准备的普遍缺失主要受制于院系“默认所有人进入学术界”的假设，非学术路径常被暗示为“次等选择”，导致非学术职业信息的严重匮乏。（p. 96）
 
 > [!stat-cards]- 核心数据
 > - **93.8%** 毕业生的整体就业率（121/129），其中全职就业比例为 85.3%。（p. 92）
@@ -268,7 +265,7 @@ updated: 2026-09-16
 >
 > Original: I was strongly encouraged by my mentors to pursue an academic pathway from undergraduate onward. This was implied to be the only career pathway and/or career pathway for those with the best skills… No one ever discussed any other possibilities.
 
-> [!citation-card]- 院系对职业出口的单一[[Hypothesis\|假设]]
+> [!citation-card]- 院系对职业出口的单一假设
 > 系里存在一个默认假设，即系里的每个人都会进入学术界。（p. 96）
 >
 > Original: There's a default assumption that everybody in the department is going to go into academia.

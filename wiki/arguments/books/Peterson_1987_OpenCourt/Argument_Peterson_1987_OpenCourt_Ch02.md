@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch02"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch02"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch02"
 argument_kind: "book-chapter"
-argument_related_count: 39
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -44,7 +44,6 @@ related_concepts:
   - "[[Areas of Knowledge]]"
   - "[[Scientific Method]]"
   - "[[Epistemology]]"
-  - "[[Hypothesis]]"
   - "[[Geisteswissenschaften]]"
   - "[[Rationalism in International Relations]]"
   - "[[Knowledge Questions]]"
@@ -61,10 +60,8 @@ related_persons:
   - "[[Bob Leach]]"
   - "[[John Goormaghtigh]]"
   - "[[Alec Peterson]]"
-  - "[[Peter A. Hall]]"
   - "[[Max Planck]]"
   - "[[Gerard Renaud]]"
-  - "[[Isaiah Berlin]]"
 related_facts:
   - "[[International Schools Examination Syndicate]]"
   - "[[International School of Geneva]]"
@@ -266,7 +263,7 @@ updated: 2026-09-29
 > [!event-context] 牛津大学进入项目以前已经积累课程改革与比较研究能力
 > - **英国高中课程改革提供共同问题** [[Alec Peterson\|亚历克·皮特森]]（Alec Peterson）除参与大西洋学院外，还领导牛津大学教育系研究英国高中最后阶段。1960 年报告 *Arts and Science Sides in the Sixth Form* 批评英国课程过度专门化和文理分裂，销量超过 3,000 册。
 > - **国内讨论规模大却长期无果** 1960 年 10 月至 1961 年 4 月，牛津举行三次会议，汇集 300 多名中学与大学教师讨论改革。原书回顾，这些会议开启了此后约二十五年仍未取得成果的全国讨论。国际项目因规模较小，反而可能提供实际试验空间。
-> - **欧洲比较研究提供课程与考试资料** 牛津与欧洲委员会合作开展[[Oxford Council of Europe Studies in Curriculum and Examinations\|牛津—欧洲委员会课程与考试研究]]（Oxford Council of Europe Studies in Curriculum and Examinations，OCESCE），由威廉·[[Peter A. Hall|霍尔]]斯（W. D. Halls）负责比较成员国高中课程和考试。Halls 随后成为 ISES／IBO 的主要顾问。
+> - **欧洲比较研究提供课程与考试资料** 牛津与欧洲委员会合作开展[[Oxford Council of Europe Studies in Curriculum and Examinations\|牛津—欧洲委员会课程与考试研究]]（Oxford Council of Europe Studies in Curriculum and Examinations，OCESCE），由威廉·霍尔斯（W. D. Halls）负责比较成员国高中课程和考试。Halls 随后成为 ISES／IBO 的主要顾问。
 > - **1964 年访问确认了共同资格的现实需求** 二十世纪基金资助落实后，Alec Peterson 在秋季首次到日内瓦参与更系统的可行性调查。他看到 Ecolint 没有统一教学语言，高中生即使学习物理也被分成四套国家课程。牛津的课程改革与比较教育研究由此获得明确的国际应用场景（pp. 21–22）。
 
 > [!case] 福特基金对联合国国际学校的投入打开了跨大西洋联盟
@@ -386,7 +383,7 @@ updated: 2026-09-29
 > - **家长接受升学不确定性** 已经使用 GCE 或法国 baccalauréat 的学校，往往能够满足部分主要国籍家庭。家长需要相信新资格值得承担风险，学校才能让真实学生进入项目（p. 27）。
 
 > [!case] 三所拒绝采用的学校说明访问与讨论不会自动产生承诺
-> [[Isaiah Berlin|柏林]]法语文理中学、柏林约翰·F·肯尼迪学校和罗马圣乔治学校都经过较多讨论，最终没有参加首批试验。拒绝并不说明学校没有改革支持者；原书指出，实验型教师小组常能启动讨论，却无法带动多数同事。首批网络因此是领导、教师与家庭条件恰好对齐后的选择结果（pp. 26–27）。
+> 柏林法语文理中学、柏林约翰·F·肯尼迪学校和罗马圣乔治学校都经过较多讨论，最终没有参加首批试验。拒绝并不说明学校没有改革支持者；原书指出，实验型教师小组常能启动讨论，却无法带动多数同事。首批网络因此是领导、教师与家庭条件恰好对齐后的选择结果（pp. 26–27）。
 
 > [!case] 双轨过渡降低家庭风险，也复制了多轨备考的资源浪费
 > - **保留国家资格可以减少采用阻力** 一些学校把 IB 作为替代轨道，同时继续为需要 GCE A-level 的学生备考。家庭可以保留熟悉的大学通道，学校较容易开始试验。
@@ -483,7 +480,7 @@ updated: 2026-09-29
 > [!chain-link] 从学科学习到迁移的设计逻辑
 > - **学科内经验** 学生先在历史、物理、数学或文学中实际使用一种思维方式。
 > - **原则显化** TOK 要求学生说清这种知识如何形成、何种证据有效、量化能做什么及不能做什么。
-> - **跨学科比较** 学生比较历史解释、科学概念、数学真理和价值判断的根据，避免[[Hypothesis\|假设]]所有知识采用同一标准。
+> - **跨学科比较** 学生比较历史解释、科学概念、数学真理和价值判断的根据，避免假设所有知识采用同一标准。
 > - **新情境迁移** 只有当思维原则在学习者头脑中变得明确，它们才更可能被用于政治、商业、公共判断或新的个人经验（Ch. 3, pp. 47–48）。
 
 #### 初始 TOK 是必修、统整而非实体哲学的课程

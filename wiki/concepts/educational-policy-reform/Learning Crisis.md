@@ -10,7 +10,7 @@ aliases:
 summary: "指中低收入国家在实现基础教育入学率历史性普及后，大量儿童在完成小学学业时仍无法掌握基本读写与简单算术技能的全球性教育治理困境（“有学校无学习”）。由联合国教科文组织与世界银行等国际组织正式界定，该概念将国际教育政策的核心议程从“硬件与入学机会普及”根本转向“教学质量与实际学习成果”，并深刻揭示学习危机的本质是教学质量危机，推动全球教育治理穿透宏观文凭与资历表象，转向微观课堂师生互动的实证监测与循证改进。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 32
+related_count: 30
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -35,7 +35,6 @@ related_concepts:
   - "[[Educational Level]]"
   - "[[School Effectiveness]]"
   - "[[Paradigm]]"
-  - "[[Document]]"
   - "[[Class Size]]"
   - "[[Research Universities]]"
   - "[[Dependent Variable]]"
@@ -45,7 +44,6 @@ related_theories:
 related_methods:
   - "[[Classroom Observation]]"
   - "[[Multiple Regression]]"
-  - "[[Exploratory Factor Analysis]]"
   - "[[Effect Size]]"
   - "[[Standard Error]]"
   - "[[Statistical Significance]]"
@@ -172,7 +170,7 @@ updated: 2026-10-15
 对围绕学习危机形成的理论命题进行横向归纳：
 
 > [!contrast-table] 学习危机理论命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表[[Document\|文献]] |
+> | 命题类型 | 核心指向 | 适用情境 | 代表文献 |
 > |---|---|---|---|
 > | **教学内核决定命题** | 学习危机本质是教学危机，教师微观互动是决定学业增益的最主要校内力量。 | 基础教育生产函数分析、弱势补偿政策论证、全纳教育改革。 | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] |
 > | **微观实践转向命题** | 摆脱传统文凭崇拜与硬件[[Path Dependence\|路径依赖]]，以微观课堂观察与循证辅导撬动实践变革。 | 督导评估体制转型、教师专业发展设计、系统性教育质量监测。 | 同上 |
@@ -184,7 +182,7 @@ updated: 2026-10-15
 学习危机概念的形成映射了[[International Education|国际教育]]议程三十年间的[[Paradigm|范式]]演进。
 
 > [!dev-timeline] 概念演变
-> - **1990 — [[Education for All|全民教育]]（[[Exploratory Factor Analysis|EFA]]）运动确立** 宗迪恩（Jomtien）世界全民教育大会召开，全球焦点高度聚焦于基础教育入学率普及与校舍建设等物理指标。
+> - **1990 — [[Education for All|全民教育]]（EFA）运动确立** 宗迪恩（Jomtien）世界全民教育大会召开，全球焦点高度聚焦于基础教育入学率普及与校舍建设等物理指标。
 > - **2000 — 千年发展目标（MDGs）推进** 达喀尔（Dakar）世界教育论坛继续强化普遍初等教育（UPE）完成率，全球小学净入学率取得历史性突破，但质量滑坡隐患开始显现。
 > - **2013/2014 — “全球学习危机”概念正式诞生** [[UNESCO|联合国教科文组织]]发布《[[Global Education Monitoring Report|全民教育全球监测报告]] 2013/2014》（EFA GMR），正式以“全球学习危机”为题，严正指出全球 2.5 亿儿童在完成数年小学教育后仍不识字、不会算术。
 > - **2018 — 《世界发展报告 2018》将学习危机确立为发展核心瓶颈** [[World Bank|世界银行]]发布旗舰报告《学习以实现教育的承诺》（Learning to Realize Education's Promise），系统确立了“就学不等于学习”的政策共识。

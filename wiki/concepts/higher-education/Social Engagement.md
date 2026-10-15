@@ -5,10 +5,10 @@ aliases:
 summary: "学生向人际互动、课外活动、组织参与和职业探索投入时间精力的社会性投入维度。"
 type: concept
 domain: "higher-education"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 18
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - social-engagement
 - student-engagement
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Employability]]"
   - "[[Economy of Experience]]"
   - "[[Operationalization]]"
-  - "[[Habitus]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Cultural Barrier]]"
   - "[[Academic and Social Integration]]"
@@ -29,7 +28,6 @@ related_concepts:
   - "[[Intuition-Dependent Mode]]"
   - "[[Variable]]"
   - "[[Dependent Variable]]"
-  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
@@ -43,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Social Engagement
@@ -76,7 +74,7 @@ updated: 2026-09-22
 > - **1993 社交融入** Tinto 在融入理论中提出社交融入（Social integration），定义为学生发现大学社交环境与自身偏好相协调的程度（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]，引 Tinto, 1993）
 > - **1991 行为[[Operationalization\|操作化]]** Kuh 在[[Student Engagement]]中将其操作化为可观察的行为指标——课外活动、学生组织、实习、同伴交往等（，引 Kuh, 1991）
 > - **2003 [[Employability\|就业力]]转向** Brown & Hesketh 将社会性投入与[[Employability\|就业力]]关联——在[[Knowledge-Based Economy\|知识经济]]时代，社会性投入中锻造的软技能和职业网络成为区分求职者的关键（，引 Brown & Hesketh, 2003, 2004）
-> - **2023 中国研究深化**[[Yajun Zheng\|郑雅君]]揭示社会性投入在两种[[Habitus\|习性]]模式下的系统性差异——目标掌控者视其为职业锚定机制，直觉依赖者习惯性忽略——且社会性投入可能是触发模式转换的**初始杠杆**
+> - **2023 中国研究深化**[[Yajun Zheng\|郑雅君]]揭示社会性投入在两种习性模式下的系统性差异——目标掌控者视其为职业锚定机制，直觉依赖者习惯性忽略——且社会性投入可能是触发模式转换的**初始杠杆**
 
 ---
 
@@ -107,7 +105,7 @@ updated: 2026-09-22
 > - **[[Goal-Controlled Mode\|目标掌控模式]]** 社会性投入被视为**自我探寻和职业锚定的核心机制**——学生通过实习、人际网络、课外活动探索职业方向、积累雇主看重的软技能（如钦凯的"演绎"能力），并发展出顺藤摸瓜型或试错型的职业探索路径
 > - **[[Intuition-Dependent Mode\|直觉依赖模式]]** 社会性投入**被习惯性忽略**——弱势学生在名校中面临"语言包"不适配（文化语码差距）、屡次社团面试失败后的"弃疗"、对社交的根本性疏离，导致出路决策高度被动
 >
-> **关键发现** 社会性投入不仅是结果[[Variable\|变量]]（受阶层[[Habitus\|习性]]影响），更可能是触发整个模式转换的**初始杠杆**——梓桐、高程等转变者均以社会性投入为转折引擎。这意味着投入不仅是**[[Dependent Variable\|结果变量]]**，也可能成为**转化机制**。
+> **关键发现** 社会性投入不仅是结果[[Variable\|变量]]（受阶层习性影响），更可能是触发整个模式转换的**初始杠杆**——梓桐、高程等转变者均以社会性投入为转折引擎。这意味着投入不仅是**[[Dependent Variable\|结果变量]]**，也可能成为**转化机制**。
 
 > [!info]- [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]的[[Operationalization\|操作化]]
 > 社会性投入的操作化通过量化与质性指标[[Triangulation\|三角互证]]：量化方面以交友数量、师生交流频率、学生组织领导职务级别为指标，质性方面通过 P2-Q4（课外活动参与情况）和 P2-Q6（对师生的情感评价）判断投入的方向性和质量。完整操作化设计见 [[Student Engagement]]。
@@ -117,7 +115,7 @@ updated: 2026-09-22
 ## 争议与批评
 
 > [!warning]
-> - **"中立过程"[[Hypothesis\|假设]]的延续** 与社会性投入相关的概念——从 Tinto 的社交融入到 Kuh 的社会性投入——均将投入默认为由学生自主决定的中立过程。[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]的经验材料表明，弱势学生的"不投入"并非个人选择，而是文化语码不适配（大成的"语言包"比喻）和屡次失败后的回避（冰倩的"弃疗"）共同导致的——结构性约束伪装成了个人能力问题
+> - **"中立过程"假设的延续** 与社会性投入相关的概念——从 Tinto 的社交融入到 Kuh 的社会性投入——均将投入默认为由学生自主决定的中立过程。[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]的经验材料表明，弱势学生的"不投入"并非个人选择，而是文化语码不适配（大成的"语言包"比喻）和屡次失败后的回避（冰倩的"弃疗"）共同导致的——结构性约束伪装成了个人能力问题
 > - Brown 的[[Employability\|就业力]]框架虽有洞察力，但将社会性投入完全工具化为就业筹码，可能忽视了社交融入对个人成长和意义建构的非工具性价值
 
 ---

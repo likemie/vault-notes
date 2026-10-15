@@ -4,14 +4,13 @@ aliases: [爱国主义教育, 爱国教育, education for patriotism]
 summary: "培养地方文化归属和国家公民责任的教育，两种忠诚需要区分，并以跨文化理解限制排他与战争动员。"
 type: concept
 domain: "educational-philosophy"
-related_count: 5
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
 tags: [theme/civic-education, theme/international-education]
 related_concepts:
   - "[[International Education]]"
-  - "[[Hypothesis]]"
 related_persons:
   - "[[Alec Peterson]]"
 related_arguments:
@@ -21,7 +20,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Patriotic Education
@@ -144,7 +143,7 @@ updated: 2026-10-07
 案例用于定位具体设计与实施材料，完整叙述见所链接的论证页。
 
 > [!case] 归属教育的年龄安排
-> 地方情感与对其他共同体的理解从小学早期共同开始，国家公民教育主要放在中学，较系统的[[International Education|国际教育]]主要放在青春期后期；双文化教育是否作为中间阶段取决于环境，这是一项工作[[Hypothesis|假设]]，未获经验验证。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, p. 199)]]
+> 地方情感与对其他共同体的理解从小学早期共同开始，国家公民教育主要放在中学，较系统的[[International Education|国际教育]]主要放在青春期后期；双文化教育是否作为中间阶段取决于环境，这是一项工作假设，未获经验验证。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, p. 199)]]
 
 ---
 

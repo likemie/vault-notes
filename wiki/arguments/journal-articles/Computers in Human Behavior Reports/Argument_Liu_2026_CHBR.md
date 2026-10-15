@@ -7,7 +7,7 @@ title: "Argument_Liu_2026_CHBR"
 argument_key: "Argument_Liu_2026_CHBR"
 argument_display_title: "Meta-analysis on the influence of AI agents on K-12 student cognitive performance"
 argument_kind: "journal-article"
-argument_related_count: 66
+argument_related_count: 64
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -34,7 +34,6 @@ related_concepts:
   - "[[Educational Robotics]]"
   - "[[AI Agent in Education]]"
   - "[[Conversational AI in Education]]"
-  - "[[Document]]"
   - "[[Procedural Skill]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Variable]]"
@@ -61,10 +60,10 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Cognitive Offloading]]"
   - "[[Task Structure]]"
-  - "[[Hypothesis]]"
   - "[[Causality]]"
   - "[[External Validity]]"
   - "[[Inquiry-Based Learning]]"
+  - "[[Hypothesis]]"
   - "[[Internal Validity]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Fade-out Effect]]"
@@ -76,7 +75,6 @@ related_theories:
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Systematic Review]]"
   - "[[Funnel Plot]]"
   - "[[Trim and Fill Method]]"
@@ -117,7 +115,7 @@ updated: 2026-08-25
 ## 研究问题
 
 > [!question]
-> 随着人工智能（[[Generative Artificial Intelligence\|Artificial Intelligence]], AI）在教育中的迅速普及，[[Intelligent Tutoring Systems\|智能导师系统]]（Intelligent Tutoring Systems, ITS）、[[Educational Robotics\|教育机器人]]、生成式[[AI Agent in Education\|智能体]]及[[Conversational AI in Education\|对话式智能体]]等各类教育智能体（Artificial Intelligence Agents in Education, AI Agent）正加速融入基础教育（Kindergarten through Twelfth Grade, K-12）课堂。然而，现有实证[[Document\|文献]]关于 AI 智能体能否有效提升学生认知表现仍存在显著争议与矛盾结论，且鲜有研究从知识识记、[[Procedural Skill\|程序技能]]与[[Higher-Order Thinking Skills\|高阶思维技能]]（Higher-Order Thinking Skills, HOTS）等细分认知领域系统检验其效能差异。需要通过定量[[Meta-analysis\|元分析]]回答：AI 智能体对 K-12 学生认知学习成果的总体干预成效如何？在不同认知类别（知识类、技能类、高阶思维）上的效果有何异同？智能体技术形态、学段层次、学科领域与干预周期等调节[[Variable\|变量]]如何影响这一效能？（pp.1–3）
+> 随着人工智能（[[Generative Artificial Intelligence\|Artificial Intelligence]], AI）在教育中的迅速普及，[[Intelligent Tutoring Systems\|智能导师系统]]（Intelligent Tutoring Systems, ITS）、[[Educational Robotics\|教育机器人]]、生成式[[AI Agent in Education\|智能体]]及[[Conversational AI in Education\|对话式智能体]]等各类教育智能体（Artificial Intelligence Agents in Education, AI Agent）正加速融入基础教育（Kindergarten through Twelfth Grade, K-12）课堂。然而，现有实证文献关于 AI 智能体能否有效提升学生认知表现仍存在显著争议与矛盾结论，且鲜有研究从知识识记、[[Procedural Skill\|程序技能]]与[[Higher-Order Thinking Skills\|高阶思维技能]]（Higher-Order Thinking Skills, HOTS）等细分认知领域系统检验其效能差异。需要通过定量[[Meta-analysis\|元分析]]回答：AI 智能体对 K-12 学生认知学习成果的总体干预成效如何？在不同认知类别（知识类、技能类、高阶思维）上的效果有何异同？智能体技术形态、学段层次、学科领域与干预周期等调节[[Variable\|变量]]如何影响这一效能？（pp.1–3）
 
 > [!claim] 核心主张
 > AI 智能体对 K-12 学生的认知学习成果具有统计学显著的中等正向促进效应（$g = 0.404, p < .001$）；在认知分类上，技能类结果（$g = 0.391, p < .001$）与知识类结果（$g = 0.344, p = .026$）获得稳定显著提升，而高阶思维技能效应量虽高但异质性极大且未达统计显著（$g = 0.540, p = .066$）；学段与学科在其中发挥显著调节作用，高小学段（$g = 0.877$）及语言读写（$g = 0.830$）和艺术创造学科（$g = 0.755$）展现出最强干预敏感度。（pp.1, 6–7）
@@ -147,7 +145,7 @@ updated: 2026-08-25
 
 ### 核心变量与操作化编码表
 
-> [!index-table] 核心[[Variable\|变量]][[Operationalization\|操作化]]定义与[[Coding in Qualitative Research\|编码]]规程
+> [!index-table] 核心[[Variable\|变量]][[Operationalization\|操作化]]定义与编码规程
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
 > | **[[Higher-Order Thinking Skills\|高阶思维技能]]**<br>（Higher-Order Thinking, HOTS） | 依据布鲁姆修订版认知目标分类学的高阶层级（分析、评价、创造），指在复杂劣构情境中超越机械识记与常规运算的深层认知加工能力，涵盖批判性思维、[[Computational Thinking\|计算思维]]、科学探究推理与发散[[Creativity\|创造力]]。 | **测量工具与量规** 表现性评估量规、开放式探究项目评审、加州批判性思维倾向问卷（[[California Critical Thinking Disposition Inventory\|California Critical Thinking Disposition Inventory, CCTDI]]）、沃森-格拉瑟批判性思维测验（[[Watson-Glaser Critical Thinking Appraisal\|Watson-Glaser Critical Thinking Appraisal, WGCTA]]）、计算思维量表（[[Computational Thinking Scale\|Computational Thinking Scale, CTS]]）；<br>**纳入案例** 协作绘画发散创造力评估（Ali et al., 2021, $g = 0.63$）；植物多样性科学探究与推理评估（Liang et al., 2024, $g = 0.08$）；计算思维高阶问题解决测试（Huang & Qiao, 2024, $g = 0.64$; Hsu & Hsu, 2025, $g = 0.40$）；反思性代码调试（Fang et al., 2025, $g = 0.40$）；共纳入 13 个效应量，加权平均 $g = 0.540$。 |
@@ -178,7 +176,7 @@ updated: 2026-08-25
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成与分布 |
 > |---|---|
-> | **[[Document\|文献]]样本总量** | 纳入 34 项独立实验与准实验文献，共提取 73 个独立[[Effect Size\|效应量]]（发表于 2020–2025 年）。（p.9） |
+> | **文献样本总量** | 纳入 34 项独立实验与准实验文献，共提取 73 个独立[[Effect Size\|效应量]]（发表于 2020–2025 年）。（p.9） |
 > | **学生样本规模** | 样本总人数 $N = 3{,}042$ 名 K-12 学生（实验组 1,539 人，对照组 1,503 人）。（pp.4, 9） |
 > | **地域与学段分布** | 67.65%（23项）来自亚洲（中国大陆、中国台湾、韩国、哈萨克斯坦、泰国），其余来自美国、德国、瑞典、土耳其、摩洛哥、埃及、阿联酋、希腊；覆盖小学（低小与高小）、初中与高中全学段。（pp.5, 13） |
 
@@ -340,7 +338,7 @@ updated: 2026-08-25
 > | **学科领域（Disciplines）** | / | / | / | / | 7.61** | 0.006 | 学科调节显著，文科艺术优于理科探究 |
 > | - 语言与读写（Language and Literacy） | 28 | 0.830 | 3.98*** | [0.384, 1.127] | / | / | 会话与生成机制与语言习得天然契合 |
 > | - 数学与技术（Mathematics and Technology） | 28 | 0.230 | 2.77** | [0.067, 0.393] | / | / | 算法与逻辑推演中发挥稳定自适应练习作用 |
-> | - 自然科学（Natural Science） | 11 | -0.065 | 0.33 | [-0.454, 0.324] | / | / | 科学探究需要具身实验与因果[[Hypothesis\|假设]]，AI 缺乏支持 |
+> | - 自然科学（Natural Science） | 11 | -0.065 | 0.33 | [-0.454, 0.324] | / | / | 科学探究需要具身实验与因果假设，AI 缺乏支持 |
 > | - 艺术与创造力（Arts and Creativity） | 4 | 0.755 | 2.27* | [0.112, 1.548] | / | / | 激发[[Divergent Thinking\|发散思维]]与多元表征共创 |
 > | - 其他学科（Others） | 2 | 0.197 | 0.64 | [-0.405, 0.798] | / | / | 样本较少，效果适中 |
 > | **干预时长（Experimental duration）** | / | / | / | / | 0.23 | 0.632 | 组间差异未达显著，中期干预效能最稳定 |
@@ -379,7 +377,7 @@ updated: 2026-08-25
 > | **剪补法（Trim-and-Fill）** | 估计未发表的虚拟缺失研究数 | 估计虚拟缺失研究数 = 0 | 效应量无需校正，合并值高度稳健 |
 > | **经典失安全数（Classic Fail-Safe N）** | 门槛值 $5k + 10 = 180$ | 计算值 $N_{\text{fs}} = 378.00$（$p < .001$） | 抗抽屉文件效应能力极强 |
 > | **Orwin 失安全数（Orwin's Fail-Safe N）** | 稀释至微小阈值 $g = 0.01$ | 所需零效应研究数 $N_{\text{fs}} = 2{,}876.00$ | 结论极度抗稀释 |
-> | **[[Leave-One-Out Sensitivity Analysis\|留一法敏感性分析]]（Leave-one-out）** | 依次排除单项[[Document\|文献]]检验扰动 | 合并 $g$ 稳定在 [0.242, 0.567] | 无单一异常值主导元分析结论 |
+> | **[[Leave-One-Out Sensitivity Analysis\|留一法敏感性分析]]（Leave-one-out）** | 依次排除单项文献检验扰动 | 合并 $g$ 稳定在 [0.242, 0.567] | 无单一异常值主导元分析结论 |
 
 > [!example]- 表6：经典失安全数检验结果
 > | 统计参数 | 观测值 |
@@ -430,16 +428,16 @@ updated: 2026-08-25
 > *The results show that AI agents have a moderately positive effect on student cognitive learning outcomes, with an overall [[Effect Size]] of (g = 0.404, p < 0.001). This suggests that AI agents are not merely tools to substitute traditional teaching, but act as active mediators of learning, especially in the 21st-century era... Unlike static digital technology, AI acts to respond to learners' inserted information, allowing for personalized scaffolding, providing interactive learning environments, and offering immediate corrective feedback.*
 
 > [!citation-card]- 发展阶段与学科适配性
-> 高小学段获得的强劲效应量（$g = 0.877$）表明该阶段学生正经历从具体运算向形式运算的认知飞跃，自适应支架在此阶段能够产生最大效益；而在学科层面，语言与艺术学科的多轮表达与生成特性与 AI 智能体高度共振，相比之下，自然科学强调[[Hypothesis\|假设]]检验与具身实验，现有程序性 AI 智能体难以完全满足开放式科学探究的需求。（pp.11–13）
+> 高小学段获得的强劲效应量（$g = 0.877$）表明该阶段学生正经历从具体运算向形式运算的认知飞跃，自适应支架在此阶段能够产生最大效益；而在学科层面，语言与艺术学科的多轮表达与生成特性与 AI 智能体高度共振，相比之下，自然科学强调假设检验与具身实验，现有程序性 AI 智能体难以完全满足开放式科学探究的需求。（pp.11–13）
 >
-> *The strongest effect size observed in upper-primary level suggests that AI technology may be effective in transitioning the bridge of basic to complex cognitive skills... A significantly larger effect was demonstrated in language and literacy, as well as in the arts and [[Creativity]]... In contrast, natural science learning typically entails conceptual reasoning, [[Inquiry-Based Learning]], hypothesis testing, and experimentation... AI agents in the K-12 context may constrain learners from developing or acquiring authentic scientific inquiry when applied in natural science contexts.*
+> *The strongest effect size observed in upper-primary level suggests that AI technology may be effective in transitioning the bridge of basic to complex cognitive skills... A significantly larger effect was demonstrated in language and literacy, as well as in the arts and [[Creativity]]... In contrast, natural science learning typically entails conceptual reasoning, [[Inquiry-Based Learning]], [[Hypothesis]] testing, and experimentation... AI agents in the K-12 context may constrain learners from developing or acquiring authentic scientific inquiry when applied in natural science contexts.*
 
 ---
 
 ## 自述局限
 
 > [!warning]
-> 1. **未采用标准化工具开展初级研究偏倚风险质评** 虽然通过多种统计方法检验了[[Publication Bias\|发表偏倚]]，但未能使用标准化质评工具（如 Cochrane RoB 2 或 ROBINS-I）对纳入[[Document\|文献]]的方法学质量进行个别风险评估，汇总结果的[[Internal Validity\|内部效度]]推论需审慎对待。（p.13）
+> 1. **未采用标准化工具开展初级研究偏倚风险质评** 虽然通过多种统计方法检验了[[Publication Bias\|发表偏倚]]，但未能使用标准化质评工具（如 Cochrane RoB 2 或 ROBINS-I）对纳入文献的方法学质量进行个别风险评估，汇总结果的[[Internal Validity\|内部效度]]推论需审慎对待。（p.13）
 > 2. **地域样本分布高度不均衡** 超过 67.65% 的纳入研究源自亚洲教育背景（中国大陆、中国台湾、韩国等），其高结构化的课堂文化可能放大了技术干预的受控效应，向欧美或其他教育体制外推时需保持审慎。（p.13）
 > 3. **[[Primary and Secondary Documents\|初级文献]]教学法与教师角色数据报告不足** 初级研究中关于教师介入深度、教学组织形式等关键情境[[Variable\|变量]]的原始信息缺乏，限制了更深层次的[[Meta-regression\|元回归]]与微观机制分析。（p.13）
 > 4. **长期持续干预的文献匮乏** 周期超过 3 个月的长期[[Intervention Research\|干预研究]]数量较少，技术新奇[[Fade-out Effect\|效应消退]]后的长期认知效益与软硬件维护挑战仍有待深入追踪。（p.13）

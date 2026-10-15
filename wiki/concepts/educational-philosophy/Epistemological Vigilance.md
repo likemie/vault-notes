@@ -7,10 +7,10 @@ aliases:
 summary: "批判性认识论与认知科学概念，指研究者与学习者持续审视日常语言、前科学常识预设及算法表面流畅性以维持认知主体性与深层推理的心智机制。"
 type: concept
 domain: "educational-philosophy"
-related_count: 50
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_count: 48
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - epistemological-vigilance
   - epistemology
@@ -40,8 +40,6 @@ related_concepts:
   - "[[Trust Calibration]]"
   - "[[Metacognition]]"
   - "[[Effective Teaching]]"
-  - "[[Document]]"
-  - "[[Hypothesis]]"
   - "[[Working Memory]]"
   - "[[Self-Regulated Learning]]"
   - "[[Positivism]]"
@@ -78,7 +76,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-02
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Epistemological Vigilance
@@ -135,10 +133,10 @@ updated: 2026-10-07
 > [!feature] 核心要素
 > - **日常语言与常识前建构的持续解构** 警惕科学术语对生活日常词汇（如“领导力”、“改进”、“[[Effective Teaching\|有效教学]]”）的无反思套用，揭示这些概念在掩盖权力关系的同时制造的“科学感假象”。[[Argument_Eacott_2015_EPT\|(Eacott, 2015, pp. 322–324)]]
 > - **内容评估维度（Content Evaluation）** 针对算法生成内容的似真性、因果机制完整性、片面性与语境适切性进行严谨检验，排查模型遗漏关键机制或虚构论据的缺陷。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, pp. 4–5)]]
-> - **二手[[Source Evaluation|信源评估]]维度（Source Evaluation）** 追问外部输出与算法推论背后的[[Document|文献]]依据、权威共识与专业资质，辨识信息中介的利益动机与[[Reliability|可靠性]]。[[Argument_Han_Gutierez_2026_IJSE\|(Sperber et al., 2010; Han & Gutierez, 2026, p. 5)]]
-> - **接收者自我评估维度（Receiver Evaluation）** 审视认知主体自身的先验[[Hypothesis\|假设]]、偏见盲区以及对生成内容的真实理解程度，防范表面语义顺从。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, pp. 5–6)]]
+> - **二手[[Source Evaluation|信源评估]]维度（Source Evaluation）** 追问外部输出与算法推论背后的文献依据、权威共识与专业资质，辨识信息中介的利益动机与[[Reliability|可靠性]]。[[Argument_Han_Gutierez_2026_IJSE\|(Sperber et al., 2010; Han & Gutierez, 2026, p. 5)]]
+> - **接收者自我评估维度（Receiver Evaluation）** 审视认知主体自身的先验假设、偏见盲区以及对生成内容的真实理解程度，防范表面语义顺从。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, pp. 5–6)]]
 > - **生产性“[[Epistemic Friction\|认识论摩擦]]”的主动维持** 在人机互动中主动设置认知阻力与验证关卡，拒绝将判断权全盘让渡，确保[[Working Memory\|工作记忆]]在概念权衡中持续活跃。[[Argument_Li_2026_CEAI\|(Medina, 2013; Li et al., 2026, p. 10)]]
-> - **红队测试与多源证据[[Triangulation\|三角互证]]** 采取对抗性测试思维（如主动寻找模型输出漏洞、对比一手学术[[Document\|文献]]与同行评议数据），形成事实核查的闭环机制。[[Argument_Li_2026_CEAI\|(Archila et al., 2024; Li et al., 2026, pp. 6, 11)]]
+> - **红队测试与多源证据[[Triangulation\|三角互证]]** 采取对抗性测试思维（如主动寻找模型输出漏洞、对比一手学术文献与同行评议数据），形成事实核查的闭环机制。[[Argument_Li_2026_CEAI\|(Archila et al., 2024; Li et al., 2026, pp. 6, 11)]]
 > - **[[Metacognition\|元认知]]与[[Self-Regulated Learning\|自我调节学习]]的内驱支撑** 依托前瞻规划、策略监控与反思日记，根据探究挑战度动态调节技术调用边界，保持认知主体性。[[Argument_Li_2026_CEAI\|(Zimmerman, 2002; Li et al., 2026, p. 11)]]
 
 > [!logic-map]- 要素关系与运作机制
@@ -184,7 +182,7 @@ updated: 2026-10-07
 > **[[Epistemic Friction\|认识论摩擦]]作为[[Surface and Deep Learning\|深层学习]]所必需的生产性张力** 高阶心智的发展高度依赖于主体在面对异质观点与复杂事实时所经历的“认识论摩擦”（Epistemic Friction）。生成式 AI 的平滑输出天然具有抹平认知阻力的危险；唯有当学习者维持高水平的认识论警觉、主动设置论证质疑与事实核查关卡时，这种生产性张力才能得以维系，从而迫使长时记忆图式深度参与高阶推理。[[Argument_Li_2026_CEAI\|(Medina, 2013; Li et al., 2026, p. 10)]]
 
 > [!claim] [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]]
-> **双重显性[[Epistemic Scaffolding\|认识论支架]]协同激活人机协同[[Scientific Explanation\|科学解释]]中的三维认识论警觉** 初中生在与生成式人工智能（GenAI）协同建构科学解释时，能够通过显性认识论支架激活并维系高水平的认识论警觉。认识论警觉具体展开为三类互补的评估实践：基于似真性、片面性与语境的内容评估（Content Evaluation）、基于专业性与[[Reliability\|可靠性]]的[[Source Evaluation\|信源评估]]（Source Evaluation），以及审视自身先验[[Hypothesis\|假设]]与理解状态的接收者评估（Receiver Evaluation）。其中，科学解释评价标准（相关性、因果叙事、概念框架、表征水平）直接赋能内容评估并间接辐射信源与自我反思；教师提供的[[Reflexivity\|反思性]]认识论提问提示语则显性驱动信源与接收者评估，两类支架协同确保学生始终占据核心认识主体地位，使 AI 成为提供认知线索与激发批判反思的“[[Epistemic Provocateur|认识论挑衅者]]”（Epistemic Provocateur）。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, pp. 2–6, 18–22)]]
+> **双重显性[[Epistemic Scaffolding\|认识论支架]]协同激活人机协同[[Scientific Explanation\|科学解释]]中的三维认识论警觉** 初中生在与生成式人工智能（GenAI）协同建构科学解释时，能够通过显性认识论支架激活并维系高水平的认识论警觉。认识论警觉具体展开为三类互补的评估实践：基于似真性、片面性与语境的内容评估（Content Evaluation）、基于专业性与[[Reliability\|可靠性]]的[[Source Evaluation\|信源评估]]（Source Evaluation），以及审视自身先验假设与理解状态的接收者评估（Receiver Evaluation）。其中，科学解释评价标准（相关性、因果叙事、概念框架、表征水平）直接赋能内容评估并间接辐射信源与自我反思；教师提供的[[Reflexivity\|反思性]]认识论提问提示语则显性驱动信源与接收者评估，两类支架协同确保学生始终占据核心认识主体地位，使 AI 成为提供认知线索与激发批判反思的“[[Epistemic Provocateur|认识论挑衅者]]”（Epistemic Provocateur）。[[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, pp. 2–6, 18–22)]]
 
 ---
 
@@ -250,7 +248,7 @@ updated: 2026-10-07
 > | [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026, pp. 6–22)]] | 韩国 8 名初中生（4 对配对），两节科学人机协同解释课（植物[[Growth\|生长]]与真菌分类） | 质性多层[[Multimodal Discourse Analysis\|多模态话语分析]]（录像[[Transcription in Qualitative Research\|转录]]、数字生成物、访谈） | [[Epistemology\|认识论]]警觉三维实践（内容、信源、接收者评估）与双轨支架效能 | 学生在显性标准与反思提示语下展现系统的三维警觉：对照教科书辨析模型遗漏机制，追问 AI 证据来源，并监控自身真实理解 | 质性微观互动分析，具有高度情境深度 | 证实中学生在显性[[Epistemic Scaffolding\|认识论支架]]辅助下完全具备对 [[Generative Artificial Intelligence\|GenAI]] 输出行使批判性审视与认知控制的能动性 |
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 6)]] | 全球 67 项高等教育实证研究（2022–2025） | [[PRISMA]] [[Systematic Review\|系统综述]]与主题综合（[[Mixed Methods Appraisal Tool\|MMAT]] 评估） | [[Critical Thinking\|批判性思维]]赋能机制：事实核查与查错机制主题 | 19 项实证研究明确报告显性查错与[[Epistemology\|认识论]]怀疑激发批判性思维增长 | 纳入文献 87% MMAT $\ge 80\%$ | 证实教学情境中认识论警觉训练能有效转化为分析性思维 |
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 7)]] | 全球 67 项高等教育实证研究（2022–2025） | PRISMA 系统综述与主题综合（MMAT 评估） | 批判性思维风险机制：过度依赖与心智怠惰主题 | 21 项实证研究报告缺乏警觉导致直接复制粘贴与[[Cognitive Offloading\|认知卸载]] | — | 揭示非结构化环境中认识论警觉缺失带来的普遍思维退化 |
-> | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 11)]] (引述 Archila et al., 2024) | 大学本科生科学写作课程 | 教学干[[Pilot Testing\|预实验]]与文本分析 | 对抗性红队测试（Red-teaming）与[[AI Hallucination\|幻觉]]识别 | 学生在[[Reflexivity\|反思性]]核查任务中主动识别出 14 处模型虚构[[Document\|文献]]与事实幻觉 | — | 证明结构化查错规程能将认识论警觉转化为可测量的核验行为 |
+> | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 11)]] (引述 Archila et al., 2024) | 大学本科生科学写作课程 | 教学干[[Pilot Testing\|预实验]]与文本分析 | 对抗性红队测试（Red-teaming）与[[AI Hallucination\|幻觉]]识别 | 学生在[[Reflexivity\|反思性]]核查任务中主动识别出 14 处模型虚构文献与事实幻觉 | — | 证明结构化查错规程能将认识论警觉转化为可测量的核验行为 |
 > | [[Argument_Eacott_2015_EPT\|Eacott (2015, p. 324)]] | 教育行政与领导力学术文献 | 理论介入与学科[[Discourse\|话语]]认识论解构 | “领导力”等日常概念的批判性审视频率 | 绝大多数主流教育行政研究未对其规范性主旨提出认识论质疑 | — | 质性理论分析，揭示学科[[Champ\|场域]]对前科学概念警觉的系统性缺位 |
 
 ---

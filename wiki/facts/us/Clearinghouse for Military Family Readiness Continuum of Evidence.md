@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 15
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -24,14 +24,12 @@ tags:
 related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Academic Achievement]]"
-  - "[[Document]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Attrition]]"
   - "[[Variable]]"
   - "[[Study Population and Sample]]"
 related_theories: []
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Regression Discontinuity Design]]"
@@ -46,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-09-18
+updated: 2026-10-15
 ---
 
 # Clearinghouse for Military Family Readiness Continuum of Evidence
@@ -68,7 +66,7 @@ updated: 2026-09-18
 > 鉴于美军官兵及其家属面临高频次跨州调防、海外部署与战斗创伤等特殊压力，随军子女在基础教育阶段普遍面临适应困难。
 >
 > - **联邦三方联合资助** 获得国防部与农业部持续拨款支持，为各军种家庭支援项目与国防部海外军人子女学校系统（DoDEA）提供循证项目采购依据。
-> - **同行评审[[Document\|文献]]硬门槛** 明确规定仅纳入发表于同行评审期刊的科学研究，排除未经验证的内部报告([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 8]])。
+> - **同行评审文献硬门槛** 明确规定仅纳入发表于同行评审期刊的科学研究，排除未经验证的内部报告([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 8]])。
 
 ---
 
@@ -83,9 +81,9 @@ updated: 2026-09-18
 ## 因果推断与方法学标准
 
 > [!abstract] 因果设计与质量规程
-> CMFR 因果设计描述程度[[Coding in Qualitative Research\|编码]]为 **[[Randomised Controlled Trials\|RCT]]=3, [[Quasi-Experimental Designs\|QED]]=3, [[Regression Discontinuity Design\|RDD]]=0, [[Intelligent Tutoring Systems\|ITS]]=0**，是少数同时为 RCT 和准实验（QED）均制定详尽审查手册的机构之一([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 10–11]])。
+> CMFR 因果设计描述程度编码为 **[[Randomised Controlled Trials\|RCT]]=3, [[Quasi-Experimental Designs\|QED]]=3, [[Regression Discontinuity Design\|RDD]]=0, [[Intelligent Tutoring Systems\|ITS]]=0**，是少数同时为 RCT 和准实验（QED）均制定详尽审查手册的机构之一([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 10–11]])。
 >
-> 1. **[[Attrition\|流失]]率刚性红线** 设定了不超过 **20%** 的总样本流失率上限，且对处理组与对照组差异流失进行严格控制([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 9]])。
+> 1. **流失率刚性红线** 设定了不超过 **20%** 的总[[Attrition|样本流失]]率上限，且对处理组与对照组差异流失进行严格控制([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 9]])。
 > 2. **准实验匹配控制** 对 QED 的[[Propensity Score Matching\|倾向得分匹配]]、基线协[[Variable\|变量]]平衡性制定了细致的审核规程。
 
 ---

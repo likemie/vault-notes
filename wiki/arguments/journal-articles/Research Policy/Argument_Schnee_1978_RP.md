@@ -28,7 +28,6 @@ related_concepts:
   - "[[Demand-side Innovation Policy]]"
   - "[[Sage]]"
   - "[[Technological Conservatism in Mission Programs]]"
-  - "[[Document]]"
   - "[[Center of Calculation]]"
   - "[[Emergence]]"
   - "[[Reliability]]"
@@ -67,7 +66,7 @@ title: "Argument_Schnee_1978_RP"
 argument_key: "Argument_Schnee_1978_RP"
 argument_display_title: "Government programs and the growth of high-technology industries"
 argument_kind: "journal-article"
-argument_related_count: 31
+argument_related_count: 30
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -113,7 +112,7 @@ journal: "Research Policy"
 > | 模块 | 材料与处理方式 |
 > |---|---|
 > | **跨行业比较[[Case Study\|案例研究]]** | 选取半导体与电子计算机两大二战后同步崛起的代表性高技术产业，横向比对其在研发资助结构、政府采购份额、市场进入门槛、技术扩散路径与人才流动模式上的异同。 |
-> | **历史[[Document\|文献]]与官方产业统计分析** | 梳理美国商务部企业与防务服务署（Business and Defense Services Administration, BDSA）、电子工业协会（Electronic Industries Association, EIA）、美国众议院预算局自动数据处理（Automatic Data Processing, [[American Diploma Project\|ADP]]）设备普查报告、[[Brookings Institution\|布鲁金斯学会]]学者[[John E. Tilton\|约翰·E·蒂尔顿（John E. Tilton）]]专著及格罗佩利（Gropelli）数据库的长时序数据。 |
+> | **历史文献与官方产业统计分析** | 梳理美国商务部企业与防务服务署（Business and Defense Services Administration, BDSA）、电子工业协会（Electronic Industries Association, EIA）、美国众议院预算局自动数据处理（Automatic Data Processing, [[American Diploma Project\|ADP]]）设备普查报告、[[Brookings Institution\|布鲁金斯学会]]学者[[John E. Tilton\|约翰·E·蒂尔顿（John E. Tilton）]]专著及格罗佩利（Gropelli）数据库的长时序数据。 |
 > | **高层管理人员与学界[[Expert Interview\|专家访谈]]** | 针对 IBM、优尼瓦克（Univac）、控制数据公司（Control Data Corporation, CDC）等整机企业高管，德州仪器与[[Fairchild Semiconductor\|仙童半导体]]管理层，NASA 约翰逊、兰利、戈达德三大航天中心负责人，以及重点大学计算机科学与工程教授开展深度[[Semi-structured Interview\|半结构化访谈]]。 |
 
 > [!sample-panel]- 样本与材料快照

@@ -8,7 +8,7 @@ aliases:
 summary: "指认识主体因过度依赖生成式人工智能生成初始创意或替代灵感构思，导致自主发散思维、探索愉悦感及群体创意多样性遭到削弱和同质化的现象。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Cognitive Deskilling]]"
   - "[[Open-Mindedness]]"
   - "[[Generative Artificial Intelligence]]"
-  - "[[Teaching Assistant]]"
   - "[[Self-Efficacy]]"
   - "[[Assemblage]]"
   - "[[Divergent Thinking]]"
@@ -43,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-09-23
+updated: 2026-10-15
 ---
 
 # Creative Deskilling
@@ -57,7 +56,7 @@ updated: 2026-09-23
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向生成式 AI 介入创意生产后，人类在生成新颖且具有价值构想上的内在能力萎缩与产出同质化。
-> - **用途** 帮[[Teaching Assistant|助教]]育学、心理学与设计学研究者批判性分析 AI 辅助创作工具的双刃剑效应，评估技术对学生创造性品格与独创精神的长程影响。
+> - **用途** 帮助教育学、心理学与设计学研究者批判性分析 AI 辅助创作工具的双刃剑效应，评估技术对学生创造性品格与独创精神的长程影响。
 > - **边界** 创造力去技能化不否认 AI 能够临时提高单个作品的产出速度或表面平滑度；其核心关切在于个体脱离 AI 后独立产出独创性构想的能力是否遭到侵蚀。
 
 > [!citation-card] 创意外包与探索乐趣的剥夺

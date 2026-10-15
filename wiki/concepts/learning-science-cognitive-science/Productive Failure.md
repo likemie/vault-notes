@@ -7,7 +7,7 @@ aliases:
 summary: "学习科学与教学设计中的前置探究时序模型，指在正式直接讲授前让学生先行尝试解决复杂的劣构问题，通过挫折激活先验图式并暴露认知盲区，为后续显性讲授创设最佳认知准备状态，进而促进深层概念理解与长效远迁移"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 31
+related_count: 30
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -40,7 +40,6 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Control of Variables Strategy]]"
   - "[[Learner Autonomy]]"
-  - "[[Document]]"
 related_theories:
   - "[[Cognitive Load Theory]]"
 related_methods:
@@ -59,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Productive Failure
@@ -284,4 +283,4 @@ updated: 2026-10-08
 ## 使用此概念的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统评析探究与[[Direct Instruction\|直接教学]]实证[[Document\|文献]]，援引 Kapur (2016)、Schwartz & Bransford (1998) 与 Schmidt & Bjork (1992)，将生产性失败与未来学习准备确立为微观时序协同的核心[[Paradigm\|范式]]，并结合延迟测试实证确立其深层概念理解与长效保持优势。
+> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统评析探究与[[Direct Instruction\|直接教学]]实证文献，援引 Kapur (2016)、Schwartz & Bransford (1998) 与 Schmidt & Bjork (1992)，将生产性失败与未来学习准备确立为微观时序协同的核心[[Paradigm\|范式]]，并结合延迟测试实证确立其深层概念理解与长效保持优势。

@@ -9,7 +9,7 @@ title: "Argument_Simpson_2017_JEP"
 argument_key: "Argument_Simpson_2017_JEP"
 argument_display_title: "The misdirection of public policy: Comparing and combining standardised effect sizes"
 argument_kind: "journal-article"
-argument_related_count: 23
+argument_related_count: 21
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -24,10 +24,8 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Visible Learning]]"
-  - "[[Document]]"
   - "[[Evaluation Research]]"
   - "[[Null Hypothesis]]"
-  - "[[Hypothesis]]"
   - "[[Homework]]"
   - "[[Business as Usual]]"
   - "[[Floor and Ceiling Effects]]"
@@ -82,7 +80,7 @@ citation_aliases:
 
 > [!info] 研究方法
 > - **方法** 概念分析与技术论证（conceptual analysis + technical demonstration）
-> - **论证工具** 一系列逐步复杂化的农场肥料思想实验（非教育情境中的简化类比），辅以教育研究[[Document\|文献]]中的真实案例
+> - **论证工具** 一系列逐步复杂化的农场肥料思想实验（非教育情境中的简化类比），辅以教育研究文献中的真实案例
 > - **数据来源** 已发表的[[Meta-analysis\|元分析]]和[[Meta-meta-analysis\|元-元分析]]（Marzano 1998; Hattie 2009; Higgins et al. 2013/[[Education Endowment Foundation\|EEF]] Toolkit），以及纳入这些综合的原始研究
 
 ## 核心论证
@@ -92,7 +90,7 @@ citation_aliases:
 >
 > Cohen (1962) 引入标准化均值差（Cohen's d）是为了帮助心理学研究者[[Evaluation Research\|评估研究]]的统计功效——是否有足够大的机会拒绝（错误的）[[Null Hypothesis\|零假设]]。效应量被设计为研究设计工具，而非教育政策的决策工具。Meta-analysts 和 meta-meta-analysts 将 d 重新解释为教育有效性的测量，这一跳跃缺乏论证基础(pp.3–4)。
 >
-> ### 2. [[Meta-analysis\|元分析]]的两项核心[[Hypothesis\|假设]]
+> ### 2. [[Meta-analysis\|元分析]]的两项核心假设
 >
 > 教育元分析和[[Meta-meta-analysis\|元-元分析]]依赖两项核心假设(p.4)：
 >

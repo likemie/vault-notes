@@ -8,7 +8,7 @@ aliases:
 summary: "由卡洛塔·佩雷斯（Carlota Perez）与克里斯·弗里曼（Chris Freeman）共同开创的演化经济学重大理论框架；指由突破性通用技术集群扩散所驱动的、对整个经济社会的生产组织、成本结构、技术轨迹及制度框架产生深远变革的元主导模式；核心揭示激进技术创新的快速扩散必然导致与旧社会制度框架的严重结构失调与“制度滞后”，只有通过教育、产业组织、法律与公共治理的多样化试错与深度制度调适，才能实现新技术范式在全社会的充分吸纳与繁荣。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 26
+theory_related_count: 25
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Creative Destruction]]"
   - "[[Scientific Paradigm]]"
-  - "[[Assemblage]]"
   - "[[Informationalization]]"
   - "[[National Innovation System]]"
   - "[[Lean Production]]"
@@ -50,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Techno-economic Paradigm
@@ -82,7 +81,7 @@ updated: 2026-10-09
 
 > [!dev-timeline] 理论版本与贡献
 > - **1983 — 佩雷斯原初奠基** Perez 提出技术经济子系统与社会制度子系统的动态不匹配理论，揭示制度滞后（Institutional Drag）机制。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 18)]]
-> - **1988 — SPRU 学派系统化** Freeman 与 Perez 合作将范式划分为蒸汽机、钢铁电气、福特制大规模[[Assemblage|装配]]及微电子[[Informationalization|信息化]]等历史波次，确立以关键投入（Key Factor）成本骤降为信号的识别准则。
+> - **1988 — SPRU 学派系统化** Freeman 与 Perez 合作将范式划分为蒸汽机、钢铁电气、福特制大规模装配及微电子[[Informationalization|信息化]]等历史波次，确立以关键投入（Key Factor）成本骤降为信号的识别准则。
 > - **1995 — 与[[National Innovation System|国家创新系统]]理论合流** Freeman 在 CJE 论文中将新技术-经济范式与国家[[Systems of Innovation|创新系统]]深度缝合，强调微电子范式下[[Lean Production|精益生产]]、多工种技能与国家政策多样性试错的不可替代性。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 18–20)]]
 
 ---

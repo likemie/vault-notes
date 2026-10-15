@@ -9,10 +9,10 @@ summary: "美国认知科学家、哲学家与计算机科学家，普利策奖�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 8
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 born: "1945"
 lifespan: "1945–至今"
 tags:
@@ -31,14 +31,13 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Jack Douglas]]"
-  - "[[Alfred Nobel]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02]]"
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Douglas Hofstadter
@@ -62,7 +61,7 @@ updated: 2026-10-08
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1945** 出生于美国纽约市，其父罗伯特·霍夫施塔特为[[Alfred Nobel|诺贝尔]]物理学奖得主。
+> - **1945** 出生于美国纽约市，其父罗伯特·霍夫施塔特为诺贝尔物理学奖得主。
 > - **1965** 毕业于斯坦福大学数学系。
 > - **1975** 获得俄勒冈大学物理学博士学位。
 > - **1979** 出版跨学科巨著《哥德尔、艾舍尔、巴赫》（*Gödel, Escher, Bach*），次年荣获普利策奖与美国国家图书奖。

@@ -5,7 +5,7 @@ aliases:
 summary: "研究结论应提供暂定、可修正的担保断言而非确定性证明，可用于评估政策论证是否真正由证据支持而不是靠修辞跳跃推进"
 type: concept
 domain: "research-methodology"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,7 +18,6 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
-  - "[[Hypothesis]]"
 related_theories:
   - "[[Transactional Epistemology]]"
 related_methods:
@@ -33,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: '2026-05-18'
+updated: 2026-10-15
 ---
 
 ## 定义
@@ -76,7 +75,7 @@ updated: '2026-05-18'
 ## 争议与批评
 
 > [!warning] 争议与批评
-> [[Argument_Bainbridge_2022_ROE\|Bainbridge et al. (2022)]]认为 justified warrants 与 Van Leeuwen（2007）的 legitimation 理论 相互支撑：证据若要在政策制定中被接受，需要在接收群体的结构、过程和道德[[Hypothesis\|假设]]中获得合法化（legitimation）。但这同时也意味着，即使一项研究提供了良好的正当化担保，如果其结论与既有权力结构的价值假设不一致，仍可能被排斥([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.9]])。
+> [[Argument_Bainbridge_2022_ROE\|Bainbridge et al. (2022)]]认为 justified warrants 与 Van Leeuwen（2007）的 legitimation 理论 相互支撑：证据若要在政策制定中被接受，需要在接收群体的结构、过程和道德假设中获得合法化（legitimation）。但这同时也意味着，即使一项研究提供了良好的正当化担保，如果其结论与既有权力结构的价值假设不一致，仍可能被排斥([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.9]])。
 >
 
 ## 相关案例／政策

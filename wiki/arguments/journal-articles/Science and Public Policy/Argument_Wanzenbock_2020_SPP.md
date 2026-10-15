@@ -30,7 +30,6 @@ related_concepts:
   - "[[Transformative System Failures]]"
   - "[[Reflexive Governance]]"
   - "[[Operationalization]]"
-  - "[[Hypothesis]]"
   - "[[Problem of Many Hands]]"
   - "[[Chain of Evidence]]"
   - "[[Public Value]]"
@@ -64,7 +63,7 @@ title: "Argument_Wanzenbock_2020_SPP"
 argument_key: "Argument_Wanzenbock_2020_SPP"
 argument_display_title: "A framework for mission-oriented innovation policy: Alternative pathways through the problem–solution space"
 argument_kind: "journal-article"
-argument_related_count: 24
+argument_related_count: 23
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -150,7 +149,7 @@ issuing_organization: ""
 
 冷战时期以美国阿波罗登月计划为代表的经典使命政策，将重大攻关任务视作纯粹的工程技术难题，其有效推行依赖于特定的历史前提。
 
-> [!assumptions] 经典阿波罗式使命政策的核心[[Hypothesis|假设]]与适用边界
+> [!assumptions] 经典阿波罗式使命政策的核心假设与适用边界
 > - **目标共识单一明确**
 >   政治高层与社会公众对达成目标的紧迫性拥有高度共识，不存在根本性的伦理与利益争议。（pp.474–475）
 > - **政府作为单一买单方**

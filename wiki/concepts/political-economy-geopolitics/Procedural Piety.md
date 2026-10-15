@@ -11,7 +11,7 @@ aliases:
 summary: "指官僚体制与公共文化中将行政规章、程序合规与道德纯洁性置于实质治理成果之上的教条化倾向。卡普与扎米斯卡以此批判西方公共部门深陷形式主义合规与道德表演、将公职人员预设为无欲苦行僧、并借由微小合规瑕疵对实干领袖发起道德猎巫，从而导致治理能力瘫痪与人才逆向淘汰的深层体制病理。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 19
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Red Tape]]"
   - "[[Reliability]]"
   - "[[Innovation Desert]]"
-  - "[[Attrition]]"
   - "[[Founder Culture]]"
   - "[[Epistemology]]"
 related_theories: []
@@ -52,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Procedural Piety
@@ -177,7 +176,7 @@ updated: 2026-10-08
 > - **1787 年 — 美国制宪会议的“公款防范”警惕** [[James Madison|麦迪逊]]（[[James Madison]]）警告议员自定薪资无异于“把手伸进公款”，强化了美国公职补偿中的清教禁欲底色。
 > - **1950s–1980s — 冷战战略工程与官僚规制冲突** 里克弗以“违规实干”突破核潜艇研制，晚年遭 6.7 万美元纪念品清算，标志着形式主义合规审查对国家战略实干家的压制达到顶峰。
 > - **1990s — 新加坡务实主义对程序虔敬的突破** [[Lee Kuan Yew|李光耀]]在新加坡推行公务员与私营顶尖行业挂钩的高薪制度，公开宣示“极少有人会成为神职人员”，从国家实践上粉碎了禁欲主义迷思。
-> - **2025 年 — 卡普与扎米斯卡系统提出“程序虔敬及其代价”理论** 《[[Technological Republic|技术共和国]]》第 16 章系统提炼“程序虔敬（Piety）”概念，将其定性为导致西方国家能力衰退、人才[[Attrition|流失]]与[[Innovation Desert|创新荒漠]]的核心制度病理，确立以[[Founder Culture|创始人文化]]与[[Output-Oriented Governance|结果导向治理]]重构国家的理论纲领。
+> - **2025 年 — 卡普与扎米斯卡系统提出“程序虔敬及其代价”理论** 《[[Technological Republic|技术共和国]]》第 16 章系统提炼“程序虔敬（Piety）”概念，将其定性为导致西方国家能力衰退、人才流失与[[Innovation Desert|创新荒漠]]的核心制度病理，确立以[[Founder Culture|创始人文化]]与[[Output-Oriented Governance|结果导向治理]]重构国家的理论纲领。
 
 ---
 

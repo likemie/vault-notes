@@ -6,10 +6,10 @@ aliases:
 summary: "在教育系统内外通过网络、合作和机会识别推动政策变革的行动者，常兼具知识传播、议程设置和组织动员功能。在理性主义比较教育传统中，政策企业家是全球治理与多行动者网络的核心协调力量；在新自由主义教育私有化改革中，他们通过在公共福利、非营利与营利性载体间无缝切换，实现学术知识产权的商业化和远处治理；在公共教育制度改革中，他们通过跨界网络、策略性证据打包与去政治化防卫，突破各州分散垄断以促成重大政策变迁。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 50
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_count: 48
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 theory_related_count: 5
 theory_related_level: 1
 theory_related_stars: "⭐"
@@ -23,9 +23,9 @@ tags:
 related_concepts:
   - "[[Policy Window]]"
   - "[[Discourse]]"
+  - "[[School Autonomy]]"
   - "[[Network Governance]]"
   - "[[Bureaucracy]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Pre-Transfer Agency]]"
   - "[[Policy Borrowing]]"
   - "[[Externalization]]"
@@ -38,9 +38,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[School Leadership]]"
   - "[[School Choice]]"
-  - "[[Assemblage]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Attrition]]"
   - "[[Educational Management Organisation]]"
   - "[[Variable]]"
 related_theories:
@@ -80,7 +78,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Policy Entrepreneur
@@ -90,11 +88,11 @@ updated: 2026-10-08
 ## 定义
 
 > [!def] 核心定义
-> 政策企业家（Policy Entrepreneur，又称政策创业者）是指在教育系统内外，愿意投入自身时间、精力、声望与资金等关键资源，通过建立跨界社交网络、识别并捕捉政策机会窗口（[[Policy Window]]），策略性整合实证证据与价值[[Discourse|话语]]，以实质性影响公共政策议程设置、方案设计与法定采纳的能动行动者。该概念由[[John W. Kingdon|约翰·W·金登]]（John W. Kingdon）引入公共政策分析，迈克尔·明特罗姆（Michael Mintrom, 2000）进一步阐释了其在教育系统内推动学校自主的自下而上创业过程；斯蒂芬·J·鲍尔（Stephen J. Ball, 2012）将其扩展至全球[[Network Governance|网络治理]]与私有化流动维度；洛兰·M·麦克唐纳与M·斯蒂芬·韦瑟福德（Lorraine M. McDonnell & M. Stephen Weatherford, 2013）则将其拓展为在政策生命周期中动态动员多源证据以打破既有制度垄断的政治中介理论。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. viii, 47)]]; [[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 2–5)]]
+> 政策企业家（Policy Entrepreneur，又称政策创业者）是指在教育系统内外，愿意投入自身时间、精力、声望与资金等关键资源，通过建立跨界社交网络、识别并捕捉政策机会窗口（[[Policy Window]]），策略性整合实证证据与价值[[Discourse|话语]]，以实质性影响公共政策议程设置、方案设计与法定采纳的能动行动者。该概念由[[John W. Kingdon|约翰·W·金登]]（John W. Kingdon）引入公共政策分析，迈克尔·明特罗姆（Michael Mintrom, 2000）进一步阐释了其在教育系统内推动[[School Autonomy|学校自主]]的自下而上创业过程；斯蒂芬·J·鲍尔（Stephen J. Ball, 2012）将其扩展至全球[[Network Governance|网络治理]]与私有化流动维度；洛兰·M·麦克唐纳与M·斯蒂芬·韦瑟福德（Lorraine M. McDonnell & M. Stephen Weatherford, 2013）则将其拓展为在政策生命周期中动态动员多源证据以打破既有制度垄断的政治中介理论。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. viii, 47)]]; [[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 2–5)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 这个概念指向一种能够跨越公共行政、智库非营利组织与商业资本等传统分立界限，具有高超政治技巧与资源整合能力的跨界网络能动者。
-> - **用途** 它帮助研究者透视在面对分散制度权威与[[Bureaucracy|科层制]]惰性时，重大政策议题如何被包装激活，以及实证研究如何通过政策企业家的[[Transfer Translation Transformation|转译]]与护栏功能渗透进决策闭环。
+> - **用途** 它帮助研究者透视在面对分散制度权威与[[Bureaucracy|科层制]]惰性时，重大政策议题如何被包装激活，以及实证研究如何通过政策企业家的转译与护栏功能渗透进决策闭环。
 > - **边界** 不应将所有普通游说团体、执行层校长或纯粹学者均视为政策企业家；它特指那些主动制造或敏锐捕捉政策窗口、构建跨界战略联盟并策略性动员多元证据的创业型主体。
 
 > [!citation-card] 政策企业家的资源投入与窗口捕捉
@@ -114,7 +112,7 @@ updated: 2026-10-08
 > | 维度 | Policy Entrepreneur (本概念) | [[Pre-Transfer Agency]] | [[Policy Borrowing]] |
 > |---|---|---|---|
 > | **主要分析对象** | 在公共、智库与商业间跨界流动的网络化能动主体。 | 桥接国际源地和本土接纳地之间的引介中介。 | 主权国家引介或吸收外部教育体制的宏观决策行为。 |
-> | **核心机制** | [[Policy Window\|政策窗口]]捕捉、跨界资源打包、证据与价值双轨对接、知识商业化。 | 政治化翻译、引介性倡导、本土合法性背书。 | [[Externalization\|外部化]]（Externalisation）、[[Transfer Translation Transformation\|转译]]（Translation）与制度重构。 |
+> | **核心机制** | [[Policy Window\|政策窗口]]捕捉、跨界资源打包、证据与价值双轨对接、知识商业化。 | 政治化翻译、引介性倡导、本土合法性背书。 | [[Externalization\|外部化]]（Externalisation）、转译（Translation）与制度重构。 |
 > | **适用范围** | 分散权威空间、[[Network Governance\|网络化治理]]及多阶段公共决策倡导。 | 教育转移的初期中介与试点启动阶段。 | 宏观层面的比较教育与跨国制度比较研究。 |
 
 ---
@@ -205,7 +203,7 @@ updated: 2026-10-08
 > - **1984 — 议程设置与政策溪流模型** [[John W. Kingdon|约翰·W·金登]]（John W. Kingdon, 1984）在其经典著作中首创政策企业家概念，描述其如何将问题、方案与政治溪流耦合。
 > - **2000 — 教育系统内政策创业** 迈克尔·明特罗姆（Michael Mintrom, 2000）首次系统化探讨教育系统内部自下而上的政策创业行为，关注其打破行政僵化、促进学校[[School Choice|择校]]创新的机制。
 > - **2012 — 跨国[[Policy Network|政策网络]]拓展** 斯蒂芬·J·鲍尔（Stephen J. Ball, 2012）将概念拓展至全球[[Network Governance|网络化治理]]维度，揭示商业资本与智库如何穿透国家主权边界。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. viii)]]
-> - **2013 — 政策周期中的证据利用与去政治化** 洛兰·M·麦克唐纳与M·斯蒂芬·韦瑟福德（[[Argument_McDonnell_2013_AJE|McDonnell & Weatherford, 2013]]）将政策企业家理论与多阶段证据利用相结合，揭示其如何在各阶段将实证研究、指标数据与价值叙事策略性打包[[Assemblage|装配]]，以突破[[Punctuated Equilibrium Theory|政策垄断]]并推进[[Common Core State Standards|共同核心标准]]采纳。
+> - **2013 — 政策周期中的证据利用与去政治化** 洛兰·M·麦克唐纳与M·斯蒂芬·韦瑟福德（[[Argument_McDonnell_2013_AJE|McDonnell & Weatherford, 2013]]）将政策企业家理论与多阶段证据利用相结合，揭示其如何在各阶段将实证研究、指标数据与价值叙事策略性打包装配，以突破[[Punctuated Equilibrium Theory|政策垄断]]并推进[[Common Core State Standards|共同核心标准]]采纳。
 > - **2016 — 混合政策创业诊断** 约翰·奥尼尔等人（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）通过对新西兰公立学校改革的研究，细化了政策企业家在公共福利、非营利与营利动机间无缝融合的微观运作机制。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 47–64)]]
 
 ---
@@ -215,7 +213,7 @@ updated: 2026-10-08
 > [!debates] 学术争议
 >
 > > [!axis] 自下而上的学校民主创新 vs 自上而下的新自由主义[[Disciplina and Doctrina|规训]]
-> > 争论教育系统内部的政策创业究竟是解放学校自主性、提供创新多元教育的民主工具，还是自上而下输出商业规训、加剧教育不平等的机制。
+> > 争论教育系统内部的政策创业究竟是解放[[School Autonomy|学校自主]]性、提供创新多元教育的民主工具，还是自上而下输出商业规训、加剧教育不平等的机制。
 > >
 > > - **Michael Mintrom (2000)** 强调政策创业在学校自主改革、打破教育[[Bureaucracy|科层制]]僵化方面的自下而上民主创新的积极潜力。
 > > - **Stephen Ball (2012)** 认为跨国政策企业家以数据和效率之名在跨国范围构建契约网络，实质上在以资本主义逻辑剥夺本地学校的民主自主权。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. viii)]]
@@ -228,7 +226,7 @@ updated: 2026-10-08
 
 > [!critique] 外部批评
 > - **公共利益的非民主蚕食** 批评者指出，政策企业家由于不具备民主选举的政治代表性，其通过个人化的契约网络影响政策制定，在事实上蚕食了公立教育的公共治理基础，损害了公共决策过程的民主参与度和透明度。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 82)]]
-> - **教育价值榨取与资本[[Attrition|流失]]** 外部财务审计表明，许多慈善性或混合性的[[Educational Management Organisation|教育管理组织]]（EMO），以政策创业提供优质服务为名，从公立教育系统中吸纳的合同金与咨询费，远远超过其通过慈善捐赠或直接服务返还给公立学校的价值。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. xv)]]
+> - **教育价值榨取与资本流失** 外部财务审计表明，许多慈善性或混合性的[[Educational Management Organisation|教育管理组织]]（EMO），以政策创业提供优质服务为名，从公立教育系统中吸纳的合同金与咨询费，远远超过其通过慈善捐赠或直接服务返还给公立学校的价值。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. xv)]]
 
 > [!warning] 适用局限
 > 政策企业家的解释力依赖于国家治理向网络化或管理的教育市场倾斜的制度安排；在强力中央控制或科层制行政命令绝对主导的刚性体系下，政策企业家的活动空间受限。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. xv)]]

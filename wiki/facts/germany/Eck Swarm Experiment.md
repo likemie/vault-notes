@@ -11,7 +11,7 @@ subtype: event
 region: germany
 fact_region: "germany"
 fact_kind: "event"
-fact_related_count: 7
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#fef3c7"
@@ -23,7 +23,6 @@ tags:
   - theme/ethology
   - region/germany
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Paradigm]]"
   - "[[Dance Language of Bees]]"
   - "[[Emergence]]"
@@ -39,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Eck Swarm Experiment
@@ -49,7 +48,7 @@ updated: 2026-10-10
 ## 背景与历史成因
 
 > [!claim] 核心定性
-> 埃克蜂群实验（Eck Swarm Experiment）是 20 世纪行为生物学与复杂系统自组织研究中具有划时代意义的野外实证观测；它彻底颠覆了传统生物学将大规模复杂协作归因于专制蜂后或中心等级指挥的朴素[[Hypothesis|假设]]，确立了分布式群体依托边缘自主感知与多方竞争性投票达成全局最优决策的实证[[Paradigm|范式]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 115–120)]]
+> 埃克蜂群实验（Eck Swarm Experiment）是 20 世纪行为生物学与复杂系统自组织研究中具有划时代意义的野外实证观测；它彻底颠覆了传统生物学将大规模复杂协作归因于专制蜂后或中心等级指挥的朴素假设，确立了分布式群体依托边缘自主感知与多方竞争性投票达成全局最优决策的实证[[Paradigm|范式]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 115–120)]]
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 1951 年 6 月 26 日至 28 日；德国慕尼黑大学动物学研究所所属的旧植物园公园内，紧邻一座带有海王星三叉戟石雕的喷泉水池。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 115–117)]]

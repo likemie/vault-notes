@@ -28,7 +28,6 @@ related_concepts:
   - "[[Institutional Complementarity]]"
   - "[[Social Regime]]"
   - "[[Rule Enactment]]"
-  - "[[Document]]"
   - "[[Competitiveness]]"
   - "[[Apprenticeship]]"
   - "[[Paradigm]]"
@@ -69,7 +68,7 @@ title: "Argument_Streeck_Thelen_2005_OUP"
 argument_key: "Argument_Streeck_Thelen_2005_OUP"
 argument_display_title: "Introduction: Institutional change in advanced political economies"
 argument_kind: "book-chapter"
-argument_related_count: 32
+argument_related_count: 31
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -150,7 +149,7 @@ issuing_organization: ""
 
 ### 论证步骤一　主流制度理论过度强调稳定与外部冲击，忽视了常规历史时期累积微调引发的颠覆性质变
 
-主流制度[[Document|文献]]倾向于把所有经验调整都解释为旧体制在环境变化下的适应性再生产，导致理论无法有效识别常态历史时期的渐进质变。（pp. 4–6）
+主流制度文献倾向于把所有经验调整都解释为旧体制在环境变化下的适应性再生产，导致理论无法有效识别常态历史时期的渐进质变。（pp. 4–6）
 
 > [!claim] 步骤一核心主张
 > 间断均衡模型将制度历史机械割裂为长期绝对稳定与短期外部剧变两个脱节阶段，缺乏解释常规时期微小变迁持续累积进而引发系统实质性质变的理论工具。（pp. 6–9）

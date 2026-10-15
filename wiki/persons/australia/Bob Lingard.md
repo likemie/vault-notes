@@ -7,7 +7,7 @@ summary: "澳大利亚与英国著名教育政策社会学家，澳大利亚社�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 53
+person_related_count: 52
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
@@ -36,7 +36,6 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Discourse]]"
   - "[[Policy Borrowing]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Epistemology]]"
   - "[[Commensuration]]"
   - "[[Return on Investment]]"
@@ -82,7 +81,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-07
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Bob Lingard
@@ -122,7 +121,7 @@ updated: 2026-10-14
 > - **2009 — "The OECD and Global Shifts in Education Policy"（与 [[Fazal Rizvi]] 合著）** 系统对比 1960–1990 年社会民主主义多元妥协与 1990 年代中期后新自由主义转向；提出[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]概念，揭示 [[PISA]] 构筑[[Space of Equivalence|等值空间]]与社会公平被[[Economic Fundamentalism|经济基要主义]]残余化的深层机制。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 437–453)]]
 > - **2010 — *Globalizing Education Policy*（与 [[Fazal Rizvi]] 合著）** 构建全球化教育政策分析的完整理论与方法论框架，系统梳理从民族国家科层统辖转向跨国[[Network Governance|网络治理]]的演进逻辑，解析新自由主义想象在学校、教师与课程中的[[Recontextualization|再脉络化]]。
 > - **2013 — *Globalizing Educational Accountabilities*（与 Sellar 等合著）** 剖析全球问责体制如何依托标准化测试数据向地方学区与一线教师施加高利害[[Disciplina and Doctrina|规训]]，解构“绩效问责”对教师专业自主性的侵蚀。
-> - **2016 — *Global Education Policy and International Development*（参与合编）** 探讨全球教育政策[[Discourse|话语]]向全球南方国家扩散过程中的[[Policy Borrowing|政策借用]]、[[Transfer Translation Transformation|转译]]与本土抵制，批判新自由主义指标治理的[[Epistemology|认识论]]局限。
+> - **2016 — *Global Education Policy and International Development*（参与合编）** 探讨全球教育政策[[Discourse|话语]]向全球南方国家扩散过程中的[[Policy Borrowing|政策借用]]、转译与本土抵制，批判新自由主义指标治理的[[Epistemology|认识论]]局限。
 
 ---
 

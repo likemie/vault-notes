@@ -9,9 +9,9 @@ summary: "Walford(2001)提出的获得研究准入的四阶段模型：接触(Ap
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 8
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 7
+method_related_level: 0
+method_related_stars: ""
 method_related_color: "#dbeafe"
 tags:
   - method/field-access
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Gatekeepers]]"
   - "[[Sensitive Research]]"
-  - "[[Hypothesis]]"
 related_methods:
   - "[[Qualitative Research]]"
 related_arguments:
@@ -30,7 +29,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09]]"
 status: draft
 created: 2026-06-22
-updated: 2026-07-11
+updated: 2026-10-15
 ---
 # Walford's Four-Stage Access Model
 
@@ -65,7 +64,7 @@ updated: 2026-07-11
 
 > [!method-limits] 方法局限
 > - 该模型的"销售"隐喻受到批评——它将研究者置于"卖方"位置，可能低估了参与者自身对研究的主动兴趣
-> - 模型[[Hypothesis\|假设]][[Gatekeepers\|守门人]]可以被理性说服，但准入决策往往涉及非理性因素（如个人关系、政治立场、对外部研究者的本能不信任）
+> - 模型假设[[Gatekeepers\|守门人]]可以被理性说服，但准入决策往往涉及非理性因素（如个人关系、政治立场、对外部研究者的本能不信任）
 > - 四阶段并非总是线性推进——研究者可能需要在阶段之间反复移动
 
 ## 使用此方法的研究

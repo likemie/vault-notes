@@ -8,7 +8,7 @@ aliases:
 summary: "由剑桥大学考评部研发的高利害大学本科入学能力测验，被牛津大学、剑桥大学及UCL广泛采用，包含50道问题解决与批判性思维客观题及1篇限时议论小论文。"
 type: instrument
 instrument_type: test
-instrument_related_count: 6
+instrument_related_count: 5
 instrument_related_level: 1
 instrument_related_stars: "⭐"
 instrument_related_color: "#dbeafe"
@@ -29,7 +29,6 @@ tags:
 related_concepts:
   - "[[Critical Thinking]]"
   - "[[Problem Solving]]"
-  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Multiple-Choice Questions]]"
@@ -42,7 +41,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-08-27
+updated: 2026-10-15
 ---
 
 # Thinking Skills Assessment
@@ -66,7 +65,7 @@ updated: 2026-08-27
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
 > |---|---|---|---|
-> | **批判性思维（Critical Thinking）** | 25 题 | 识别论证主旨、辨析未言明[[Hypothesis\|假设]]、评估证据对结论的削弱或强化、识别推理缺陷与逻辑谬误。 | 机器自动计分（转换为 0–100 量表分） |
+> | **批判性思维（Critical Thinking）** | 25 题 | 识别论证主旨、辨析未言明假设、评估证据对结论的削弱或强化、识别推理缺陷与逻辑谬误。 | 机器自动计分（转换为 0–100 量表分） |
 > | **问题解决（Problem Solving）** | 25 题 | 涉及相关筛选（Relevant Selection）、规律寻找（Finding Procedures）与空间数据识别（Identifying Similarity）。 | 机器自动计分（转换为 0–100 量表分） |
 > | **论辩写作（Writing Task / Section 2）** | 4 选 1 论文 | 就争议性跨学科命题构建逻辑清晰的立论、辨析正反证据并有效反驳对立论点。 | 由各大学招生官独立人工评阅 |
 

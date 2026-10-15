@@ -10,7 +10,7 @@ subtype: organization
 region: "uk"
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 11
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -26,7 +26,6 @@ tags:
 related_concepts:
   - "[[Knowledge Co-production]]"
   - "[[Initial Teacher Training]]"
-  - "[[Document]]"
   - "[[School Leadership]]"
   - "[[Literature Search]]"
   - "[[Contributory Expertise]]"
@@ -84,7 +83,7 @@ updated: 2026-10-15
 > [!pathways]- 业务运行机制
 > - **教师专业更新（Professional Update, PU）机制** 每五年为周期，要求全体在职教师在持续专业学习（PRD）中开展基于反思与证据的探究，经校领导确认后完成资格更新，取代外部惩罚性重新考核。
 > - **[[Practitioner Enquiry\|实践者探究]]（Practitioner Enquiry）嵌入** 将探究精神确立为专业行动的核心机制，要求教师在真实课堂中界定问题、收集证据、反思教学并与大学学者开展合作。
-> - **学术[[Document\|文献]]直接赋权（Education Source 接入）** GTCS 直接出资为全苏格兰注册教师采购 EBSCO Education Source 全文数据库访问权限，打破学术期刊付费墙，使一线教师无需依赖商业摘要即可直接查阅原始学术成果（[[Argument_Kelly_2025_ROE\|Kelly et al., 2025, p. 14]]）。
+> - **学术文献直接赋权（Education Source 接入）** GTCS 直接出资为全苏格兰注册教师采购 EBSCO Education Source 全文数据库访问权限，打破学术期刊付费墙，使一线教师无需依赖商业摘要即可直接查阅原始学术成果（[[Argument_Kelly_2025_ROE\|Kelly et al., 2025, p. 14]]）。
 
 ---
 
@@ -97,7 +96,7 @@ updated: 2026-10-15
 > - **《教学苏格兰》（Teaching Scotland）旗舰期刊** 定期出版官方专业刊物，推广一线教师的实践者探究成果、前沿教育理论探讨与政策解读。
 
 > [!citation-card] 教师专业标准中的实践者探究使命
-> 专业标准要求教师将探究作为专业行动的核心维度：持续审视并反思自身的教育实践、教学信念与所处情境；批判性地运用广泛的研究[[Document\|文献]]与专业知识；开展合作性的实践者探究，以优化教学策略并提升全体学习者的教育体验与成果。（GTCS Standards for Full Registration; [[Argument_Kelly_2025_ROE\|Kelly et al., 2025, p. 15]]）
+> 专业标准要求教师将探究作为专业行动的核心维度：持续审视并反思自身的教育实践、教学信念与所处情境；批判性地运用广泛的研究文献与专业知识；开展合作性的实践者探究，以优化教学策略并提升全体学习者的教育体验与成果。（GTCS Standards for Full Registration; [[Argument_Kelly_2025_ROE\|Kelly et al., 2025, p. 15]]）
 
 ---
 
@@ -133,4 +132,4 @@ updated: 2026-10-15
 > | [[Ofsted]] | Fact (Organization) | 英格兰自上而下高利害督导机构，与 GTCS 同行治理、低利害专业更新形成鲜明对照。 |
 > | [[Contributory Expertise]] | Concept | GTCS 治理机制所捍卫与培育的一线教师具身实践手艺专长。 |
 > | [[Knowledge Co-production]] | Concept | GTCS 推动大学与中小学在实践者探究中建立平等协作的知识共创模式。 |
-> | [[Argument_Kelly_2025_ROE\|Kelly et al., 2025]] | Argument | 跨国实证揭示 GTCS 实践者探究制度如何弥合专长断裂并阻断表演性依从的[[Document\|文献]]。 |
+> | [[Argument_Kelly_2025_ROE\|Kelly et al., 2025]] | Argument | 跨国实证揭示 GTCS 实践者探究制度如何弥合专长断裂并阻断表演性依从的文献。 |

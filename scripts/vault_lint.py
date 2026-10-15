@@ -93,7 +93,10 @@ if yaml is not None:
         """An explicit mapping key was declared twice in the same mapping."""
 
 
-    class UniqueKeySafeLoader(yaml.SafeLoader):
+    # libyaml-backed loader is 5-10x faster; fall back to pure Python if absent.
+    FAST_SAFE_LOADER = getattr(yaml, "CSafeLoader", yaml.SafeLoader)
+
+    class UniqueKeySafeLoader(FAST_SAFE_LOADER):  # type: ignore[misc, valid-type]
         def flatten_mapping(self, node):
             # Check the original pairs before SafeLoader expands merge keys.
             # Inherited defaults may be overridden by an explicit local key.
@@ -595,9 +598,25 @@ def git_path_exists_at_head(path: Path) -> bool:
     return rel(path) in git_head_paths()
 
 
+GIT_STATUS_PATHSPECS = ["wiki", "books", "sources", "vault-schema.md", "CLAUDE.md"]
+
+
+@lru_cache(maxsize=1)
+def _git_changed_md_files_cached() -> Tuple[Path, ...]:
+    return tuple(_git_changed_md_files_uncached())
+
+
 def git_changed_md_files() -> List[Path]:
     """Return changed Markdown files according to git status, including untracked files."""
-    out = run_git(["status", "--porcelain", "--untracked-files=all"])
+    return list(_git_changed_md_files_cached())
+
+
+def _git_changed_md_files_uncached() -> List[Path]:
+    # quotePath=false keeps non-ASCII paths (Chinese, accented letters) literal;
+    # otherwise git octal-escapes them and those files are silently skipped.
+    # Pathspecs limit the untracked-file scan to the folders lint covers.
+    pathspecs = [p for p in GIT_STATUS_PATHSPECS if (ROOT / p).exists()]
+    out = run_git(["-c", "core.quotePath=false", "status", "--porcelain", "--untracked-files=all", "--", *pathspecs])
     files: List[Path] = []
     for line in out.splitlines():
         if not line:
@@ -620,15 +639,22 @@ def embedded_file_exists_by_name(target_name: str) -> bool:
     key = unicodedata.normalize("NFC", target_name)
     if key in EMBED_FILE_EXISTS_CACHE:
         return EMBED_FILE_EXISTS_CACHE[key]
-    found = False
-    for c in ROOT.rglob("*"):
-        if any(part in SKIP_DIR_NAMES for part in c.parts):
-            continue
-        if unicodedata.normalize("NFC", c.name) == key:
-            found = True
-            break
+    found = key in vault_file_names()
     EMBED_FILE_EXISTS_CACHE[key] = found
     return found
+
+
+@lru_cache(maxsize=1)
+def vault_file_names() -> frozenset[str]:
+    """All file and folder names in the vault, collected in one walk.
+
+    Skip-listed folders are pruned instead of walked and filtered afterwards."""
+    names: Set[str] = set()
+    for dirpath, dirnames, filenames in os.walk(ROOT):
+        dirnames[:] = [d for d in dirnames if d not in SKIP_DIR_NAMES]
+        names.update(unicodedata.normalize("NFC", d) for d in dirnames)
+        names.update(unicodedata.normalize("NFC", f) for f in filenames)
+    return frozenset(names)
 
 
 def split_frontmatter(text: str) -> Tuple[Optional[str], str, int]:
@@ -1279,8 +1305,11 @@ def check_quartz_safety(path: Path, text: str, issues: List[Issue]) -> None:
         issues.append(Issue("WARN", rel(path), f"absolute local path found: {val}", line=line_of_pos(text, m.start()), code="LOCAL_PATH"))
 
 
+_ALIAS_TITLE_MAPS_CACHE: Dict[int, Tuple[Dict[str, str], Dict[str, Set[str]]]] = {}
+
+
 def get_global_alias_and_title_maps(by_title: Dict[str, Dict[str, Any]]) -> Tuple[Dict[str, str], Dict[str, Set[str]]]:
-    cached = getattr(by_title, "_cached_alias_title_maps", None)
+    cached = _ALIAS_TITLE_MAPS_CACHE.get(id(by_title))
     if cached is None:
         title_map: Dict[str, str] = {}
         alias_map: Dict[str, Set[str]] = {}
@@ -1294,10 +1323,7 @@ def get_global_alias_and_title_maps(by_title: Dict[str, Dict[str, Any]]) -> Tupl
                     if a_norm:
                         alias_map.setdefault(a_norm, set()).add(t)
         cached = (title_map, alias_map)
-        try:
-            setattr(by_title, "_cached_alias_title_maps", cached)
-        except Exception:
-            pass
+        _ALIAS_TITLE_MAPS_CACHE[id(by_title)] = cached
     return cached
 
 
@@ -1350,6 +1376,60 @@ def short_alias_collisions(alias: str, owner_title: Any, by_title: Dict[str, Dic
         hit = lambda term: term.lower() != a.lower() and rx.search(term) is not None
     owner = str(owner_title or "")
     return sorted({t for term, t in cache if t != owner and hit(term)})
+
+
+_HOMONYM_INDEX_CACHE: Dict[int, Tuple[Dict[str, Set[Tuple[str, str]]], Dict[str, Set[Tuple[str, str]]]]] = {}
+_PAREN_ABBR_RE = re.compile(r"[(（]\s*([^()（）]+?)\s*[)）]")
+
+
+def _homonym_index(by_title: Dict[str, Dict[str, Any]]):
+    """Build once: parenthetical abbreviations and Chinese person surnames -> owners."""
+    cached = _HOMONYM_INDEX_CACHE.get(id(by_title))
+    if cached is not None:
+        return cached
+    paren: Dict[str, Set[Tuple[str, str]]] = {}
+    surname: Dict[str, Set[Tuple[str, str]]] = {}
+    for t, item in by_title.items():
+        title = str(item.get("title") or t)
+        if title.startswith("Argument_"):
+            continue
+        is_person = item.get("type") == "person"
+        for term in [title] + [str(x) for x in (item.get("aliases") or [])]:
+            term = unicodedata.normalize("NFC", term)
+            for m in _PAREN_ABBR_RE.finditer(term):
+                inner = m.group(1).strip()
+                if inner:
+                    paren.setdefault(inner, set()).add((title, term))
+                    if not inner.isupper():
+                        paren.setdefault(inner.lower(), set()).add((title, term))
+            if is_person and "·" in term:
+                last = term.rsplit("·", 1)[1].strip()
+                if last:
+                    surname.setdefault(last, set()).add((title, term))
+    cached = (paren, surname)
+    _HOMONYM_INDEX_CACHE[id(by_title)] = cached
+    return cached
+
+
+def alias_homonym_hits(alias: str, owner_title: Any, by_title: Dict[str, Dict[str, Any]]) -> List[str]:
+    """Hard homonyms that the exact-duplicate check misses.
+
+    1. Another entry declares this string as its abbreviation in parentheses,
+       e.g. 'Education for All (EFA)' vs alias 'EFA' on another entry.
+    2. Another Person's Chinese full-name alias ends with this surname,
+       e.g. '卡尔·皮尔逊' vs surname alias '皮尔逊' on another person."""
+    if not by_title:
+        return []
+    a = unicodedata.normalize("NFC", alias.strip())
+    if not a:
+        return []
+    paren, surname = _homonym_index(by_title)
+    owner = str(owner_title or "")
+    found = set(paren.get(a, set()))
+    if not a.isupper():
+        found |= paren.get(a.lower(), set())
+    found |= surname.get(a, set())
+    return sorted(f"{title} [{term}]" for title, term in found if title != owner)
 
 
 def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]], issues: List[Issue]) -> Optional[Dict[str, Any]]:
@@ -1437,6 +1517,14 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
                 has_latin_word = re.search(r"[A-Za-z]{2,}", a) is not None
                 if alias_has_cjk and has_latin_word:
                     issues.append(Issue("WARN", rel(path), f"alias mixes Chinese and English; split into separate aliases: {alias!r}", line=alias_line, code="ALIAS_QUALITY"))
+                homonyms = alias_homonym_hits(a, title, by_title)
+                if homonyms:
+                    issues.append(Issue(
+                        "ERROR", rel(path),
+                        f"alias {alias!r} is a homonym of another entry: {', '.join(homonyms[:5])}. "
+                        "Aliases must not be shared across entries; delete it or replace it with a longer specific form (alias_reviewed cannot silence this).",
+                        line=alias_line, code="ALIAS_HOMONYM",
+                    ))
                 short_kind = short_alias_kind(a, typ)
                 if short_kind and key not in reviewed_keys:
                     collisions = short_alias_collisions(a, title, by_title)
@@ -2038,7 +2126,7 @@ def entry_metadata(path: Path) -> Optional[Dict[str, Any]]:
     if not fm or yaml is None:
         return None
     try:
-        data = yaml.safe_load(fm) or {}
+        data = yaml.load(fm, Loader=FAST_SAFE_LOADER) or {}
     except Exception:
         return None
     return data if isinstance(data, dict) else None
@@ -2365,6 +2453,7 @@ def expected_citation_prefix(short: str) -> str:
     return short.strip()
 
 
+@lru_cache(maxsize=None)
 def normalize_citation_alias_text(text: str) -> str:
     text = re.sub(r"\s+", " ", text).strip()
     text = re.sub(r"(?<=[A-Za-zÀ-ÖØ-öø-ÿ])\s*&\s*(?=[A-ZÀ-ÖØ-Þ])", " & ", text)
@@ -2418,18 +2507,22 @@ def raw_citation_is_reference_fragment(display: str) -> bool:
     return bool(re.fullmatch(r"(?:[A-ZÀ-ÖØ-Þ]\.(?:\s*-\s*[A-ZÀ-ÖØ-Þ]\.)?\s*)+", prefix))
 
 
+@lru_cache(maxsize=None)
+def citation_author_year_key(text: str) -> str:
+    text = normalize_citation_alias_text(text).strip("()（）[]【】 ")
+    year_match = re.search(r"(?:19|20)\d{2}[a-z]?", text)
+    if not year_match:
+        return ""
+    author = text[:year_match.start()].strip(" ,，([（")
+    author = normalize_citation_alias_text(author).lower().rstrip(" .")
+    return f"{author}|{year_match.group(0).lower()}" if author else ""
+
+
 def citation_display_matches_aliases(display: str, aliases: List[str]) -> bool:
     display = display.strip()
     normalized_display = normalize_citation_alias_text(display)
 
-    def author_year_key(text: str) -> str:
-        text = normalize_citation_alias_text(text).strip("()（）[]【】 ")
-        year_match = re.search(r"(?:19|20)\d{2}[a-z]?", text)
-        if not year_match:
-            return ""
-        author = text[:year_match.start()].strip(" ,，([（")
-        author = normalize_citation_alias_text(author).lower().rstrip(" .")
-        return f"{author}|{year_match.group(0).lower()}" if author else ""
+    author_year_key = citation_author_year_key
 
     display_key = author_year_key(display)
     for alias in aliases:
@@ -2909,6 +3002,12 @@ def check_updated_freshness(files: List[Path], issues: List[Issue]) -> None:
         and not is_generated_content_page(path)
         and TEMPLATES_DIR not in path.parents
     ]
+    if not candidates:
+        return
+    # Only git-modified files can have a stale `updated`; skip the costly
+    # `git diff HEAD` for everything else (most files in --path / --full runs).
+    changed = {p.resolve() for p in git_changed_md_files()}
+    candidates = [path for path in candidates if path.resolve() in changed]
     if not candidates:
         return
 

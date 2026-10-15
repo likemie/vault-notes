@@ -7,7 +7,7 @@ aliases:
 summary: "指在科学探究与知识生产过程中，由于测量误差、随机波动、模型简化、证据不完备及认知局限，导致科学结论、理论模型与未来预测偏离绝对确定性的客观认识论与方法论状态；现代科学认识论与传播学强调，不确定性并非科学的瑕疵，而是推动假说检验与共识迭代的内在驱动力，坦诚披露不确定性是维系公共信任与培育批判性科学素养的核心基石。"
 type: concept
 domain: "educational-philosophy"
-related_count: 43
+related_count: 41
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -18,7 +18,6 @@ tags:
   - theme/educational-philosophy
 related_concepts:
   - "[[Epistemology]]"
-  - "[[Hypothesis]]"
   - "[[Scientific Literacy]]"
   - "[[Sampling Error]]"
   - "[[Falsification]]"
@@ -36,7 +35,6 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Open-Mindedness]]"
-  - "[[Document]]"
   - "[[Rote Learning]]"
   - "[[Problem Solving]]"
   - "[[Post-Normal Science]]"
@@ -69,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-04
-updated: 2026-10-01
+updated: 2026-10-15
 ---
 
 # Scientific Uncertainty
@@ -82,7 +80,7 @@ updated: 2026-10-01
 > **科学不确定性（Scientific Uncertainty）** 指在科学探究、实证测量、理论建构与预测推论过程中，由于客观世界的随机复杂性、测量工具的精度局限、样本抽样的代表性波动、理论模型的抽象简化以及人类认知条件的局限，导致科研产出的证据、假说与结论无法达到完全必然性与绝对确定性的[[Epistemology\|认识论]]与方法论状态。它既包括可通过收集更多数据予以缩减的“认知不确定性（Epistemic Uncertainty）”，也涵盖现实世界内在的“随机不确定性（Aleatory Uncertainty）”。在现代科学哲学与循证实践中，不确定性被视为科学探索的内在属性与知识动态演进的前提，而非研究质量低劣的表征。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 61–62)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向科学知识的“暂定性（Provisionality）”与概率推论边界，即任何科学断言都依附于特定的样本、方法、模型[[Hypothesis\|假设]]与[[Confidence Interval\|置信水平]]。
+> - **含义** 指向科学知识的“暂定性（Provisionality）”与概率推论边界，即任何科学断言都依附于特定的样本、方法、模型假设与[[Confidence Interval\|置信水平]]。
 > - **用途** 帮助研究者透视统计推论中的误差分布（如[[Confidence Interval\|置信区间]]与[[Standard Error\|标准误]]）、[[Qualitative Research\|质性研究]]中的情境解释限度，以及在公共政策和媒体沟通中防范过度确信（Overconfidence）与科学教条主义。
 > - **边界** 严格区别于主观无知（Ignorance）、伪科学的相对主义虚无论，以及由于学术不端（Research Misconduct）或设计重大缺陷导致的虚假数据。
 
@@ -159,7 +157,7 @@ updated: 2026-10-01
 ### 命题二　透明坦承科学不确定性不仅不会削弱社会权威，反而显著增进受众对科学家的诚实信任
 
 > [!concept-lens] 证据沟通与受众认知心理机制
-> 传统新闻编辑与机构公关普遍持有陈旧[[Hypothesis\|假设]]，误以为向公众告知“结论存在 95% [[Confidence Interval\|置信区间]]”或“尚有未解决的未知因素”会导致公众认知混乱甚至拒绝接受科学建议。这一假设在实证上已被现代传播心理学所颠覆。
+> 传统新闻编辑与机构公关普遍持有陈旧假设，误以为向公众告知“结论存在 95% [[Confidence Interval\|置信区间]]”或“尚有未解决的未知因素”会导致公众认知混乱甚至拒绝接受科学建议。这一假设在实证上已被现代传播心理学所颠覆。
 
 > [!claim] Kerr et al. (2022)
 > **透明披露对公众信任的正向增益** 针对数千名受众的大型在线代表性[[Randomised Controlled Trials\|随机对照实验]]表明，无论在报道中以数值形式列出置信区间，还是以定性词句明确指出研究的局限性与证据的不确定性，受众对核心事实的接受度不仅没有统计学意义上的滑坡，反而对研究团队与新闻报道的“诚实度（Honesty）”与“值得信赖度（[[Trustworthiness]]）”给予了显著更高的评价。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 61–62)]]
@@ -195,7 +193,7 @@ updated: 2026-10-01
 ### 命题总览
 
 > [!contrast-table] 科学不确定性核心命题归纳
-> | 命题类别 | 核心理论断言 | 实践与政策抓手 | 代表[[Document\|文献]] |
+> | 命题类别 | 核心理论断言 | 实践与政策抓手 | 代表文献 |
 > |---|---|---|---|
 > | **认识论内在命题** | 不确定性是科学暂定性与假说自我纠错的内在驱动力，而非瑕疵 | 重视重复研究与证据合成，避免将单一发表神圣化 | The Royal Society; Cohen et al. |
 > | **透明增信命题** | 坦诚披露研究局限与不确定性显著增进公众对科学家的诚实信任 | 推广英国统计局 TQV 守则，普及带置信区间的透明沟通规范 | Kerr et al.; The Royal Society |
@@ -208,7 +206,7 @@ updated: 2026-10-01
 
 > [!dev-timeline] 科学不确定性[[Epistemology\|认识论]]与方法论百年演变
 > - **17–19 世纪 — 机械[[Determinism\|决定论]]与绝对确定性崇拜** 从牛顿力学到拉普拉斯决定论，经典科学界普遍信奉自然界遵循完全确定的因果法则，测量误差被视为工具粗糙带来的暂存杂质，坚信科学终将提供确定无疑的真理全貌。
-> - **20 世纪初–中叶 — 概率推论与统计不确定性奠基** 量子力学确立海森堡不确定性原理；现代数理统计学（Fisher, Neyman, Pearson）建立[[Hypothesis\|假设]]检验、$p$ 值与[[Confidence Interval\|置信区间]]体系，将“不确定性”从主观盲区正式升格为可精密数学化表达的经验概率度量。
+> - **20 世纪初–中叶 — 概率推论与统计不确定性奠基** 量子力学确立海森堡不确定性原理；现代数理统计学（Fisher, Neyman, Pearson）建立假设检验、$p$ 值与[[Confidence Interval\|置信区间]]体系，将“不确定性”从主观盲区正式升格为可精密数学化表达的经验概率度量。
 > - **20 世纪下半叶 — [[Falsification\|证伪主义]]与[[Post-Normal Science\|后常规科学]]（Post-Normal Science）兴起** 波普尔证伪理论与库恩[[Paradigm\|范式]]理论彻底瓦解了[[Positivism\|实证主义]]的绝对神话；面对核能、环境公害等高风险议题，Funtowicz 与 Ravetz 提出“后常规科学”，指出在事实不确定、价值有争议、赌注高昂且决策紧迫的情境下，科学界必须与公众共同参与不确定性的民主协商。
 > - **2020 年代初 — 数字化信息疫情、透明沟通与信任治理合流** 面对气候变化争论、新冠大流行与虚假信息冲击，英国皇家学会等国家科学机构正式确立“透明不确定性沟通”为国家战略规范，彻底告别单向绝对断言的[[Deficit Model of Science Communication\|赤字模型]]，以开放局限重筑社会信任。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 61–64)]]
 > - **2026 — 算法伪确定性批判与不确定性容忍度重塑** [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] 揭示[[Generative Artificial Intelligence\|生成式人工智能]]以表面流畅统一的回答抹平学术证据内在不确定性的机制，指出过度依赖算法将严重削弱学生对不确定性的耐受力，提出技术界面与教学设计必须显性化呈现不确定性与对立解释，将认识不确定性转化为培育深层评价判断的探究支架。

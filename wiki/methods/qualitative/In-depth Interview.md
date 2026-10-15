@@ -7,7 +7,7 @@ summary: "质性访谈中最核心的变体，通过与受访者进行持续深�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 70
+method_related_count: 67
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -18,7 +18,6 @@ tags:
   - paradigm/interpretivist
 related_concepts:
   - "[[Epoché]]"
-  - "[[Hypothesis]]"
   - "[[Unit of Analysis]]"
   - "[[Rich and Thick Description]]"
   - "[[Epistemology]]"
@@ -39,7 +38,6 @@ related_concepts:
   - "[[Analytic Generalization]]"
   - "[[Causality]]"
   - "[[Paradigm]]"
-  - "[[Document]]"
   - "[[Big Science]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Space Production]]"
@@ -63,7 +61,6 @@ related_methods:
   - "[[Grounded Theory]]"
   - "[[Interview Protocol]]"
   - "[[Transcription in Qualitative Research]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Narrative Analysis]]"
   - "[[Purposeful Sampling]]"
   - "[[Theoretical Sampling]]"
@@ -95,7 +92,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # In-depth Interview
@@ -109,7 +106,7 @@ updated: 2026-10-08
 
 > [!method-scope] 方法范围
 > - **研究对象** 个体的主观经验、意义建构、行动逻辑和生活世界。
-> - **问题类型** 适合探究"为什么这样做"而非仅仅"做了什么"；在已有理论不足以解释现象时生成理论[[Hypothesis\|假设]]。
+> - **问题类型** 适合探究"为什么这样做"而非仅仅"做了什么"；在已有理论不足以解释现象时生成理论假设。
 > - **[[Unit of Analysis\|分析单位]]** 个体受访者的完整叙述及其生活史脉络。
 > - **输出形式** [[Rich and Thick Description\|深描]]文本、意义主题、行动逻辑链条、理论假设。
 
@@ -131,7 +128,7 @@ updated: 2026-10-08
 > [!method-stack] 方法层级
 > - **研究设计** [[Qualitative Research\|质性研究]]，常嵌入[[Case Study\|案例研究]]、[[Ethnography\|民族志]]或[[Grounded Theory\|扎根理论]]
 > - **数据收集** 半结构化一对一访谈、[[Interview Protocol\|访谈协议]]、录音与[[Transcription in Qualitative Research\|转录]]
-> - **分析方法** [[Coding in Qualitative Research\|编码]]、主题分析、[[Phenomenology\|现象学]]分析、[[Narrative Analysis\|叙事分析]]
+> - **分析方法** 编码、主题分析、[[Phenomenology\|现象学]]分析、[[Narrative Analysis\|叙事分析]]
 > - **辅助技术** 渐进式聚焦法、追问策略、人员校验、[[Reflexivity\|反身性]]记录
 
 ---
@@ -163,7 +160,7 @@ updated: 2026-10-08
 > 1. **前置准备与协议设计** 编制弹性半结构化[[Interview Protocol\|访谈提纲]]，遵循渐进式聚焦原则规划从宽阔背景到核心问题的展开路径。
 > 2. **进入现场与悬置互动** 确立[[Informed Consent\|知情同意]]，营构安全、非评判的倾听[[Champ|场域]]；研究者运用[[Epoché\|悬置]]搁置理论前见，以共情姿态进入受访者的主观世界。
 > 3. **深度追问与动态聚焦** 避免封闭式预设问题，通过“为什么”、“如何发生”、“可否举例”持续深挖行动逻辑，直至能够设身处地理解受访者的选择策略。
-> 4. **资料转录与系统[[Coding in Qualitative Research|编码]]** 及时完成全文本[[Transcription in Qualitative Research\|转录]]并记录语气停顿与副语言线索；开展多层级[[Coding in Qualitative Research\|编码]]与核心主题提炼。
+> 4. **资料转录与系统编码** 及时完成全文本[[Transcription in Qualitative Research\|转录]]并记录语气停顿与副语言线索；开展多层级编码与核心主题提炼。
 > 5. **反思审计与效度校验** 撰写[[Reflexivity\|反身性]]日志区分受访者主位建构与研究者投射；实施成员检查（成员检查）与多源[[Triangulation\|三角互证]]。
 
 ### 渐进式聚焦法
@@ -213,7 +210,7 @@ updated: 2026-10-08
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 需要了解参与者对某一现象的主观经验和意义建构；探究行动者的主观意义建构——为什么这样做而不仅仅是做了什么；已有理论不足以解释现象时生成理论[[Hypothesis\|假设]]；研究复杂社会过程——在制度环境、社会结构和个体能动性交织的情境中理解行动逻辑；获取边缘或沉默群体的声音。
+> - **适合使用** 需要了解参与者对某一现象的主观经验和意义建构；探究行动者的主观意义建构——为什么这样做而不仅仅是做了什么；已有理论不足以解释现象时生成理论假设；研究复杂社会过程——在制度环境、社会结构和个体能动性交织的情境中理解行动逻辑；获取边缘或沉默群体的声音。
 > - **谨慎使用** 访谈者和受访者之间存在显著权力不对称时（如访谈有权势者）；受访者的叙述能力和[[Reflexivity\|反思性]]不均衡时。
 > - **不适合使用** 需要大样本统计推广时；需要在严格控制条件下进行[[Causality\|因果推断]]时。
 
@@ -225,7 +222,7 @@ updated: 2026-10-08
 > - **偏误来源** 受访者记忆的选择性和动机性（Gadd, 2004, p. 384）；社会期望偏差；研究者自身的投射和解释偏差。
 > - **适用边界** 深度访谈不追求统计推广——将发现从少量个案推广到总体是不恰当的。
 > - **误用风险** 最常见的误用是将受访者叙述等同于客观事实，或将少数个体的发现直接推广到总体。
-> - **政策制定中的法定贬抑与[[Paradigm|范式]]抗辩** 在美国 2000 年卡斯尔草案（H.R. 4875, Sec. 6）中，深度访谈与[[Participant Observation|参与观察]]、[[Document|文献]]收集等质性方法在联邦法案草案中被统一定性为仅在机制因素“尚未充分提炼、理解或无法进行实验控制时”使用的“初步形式”（Preliminary Form）；[[National Research Council|国家研究委员会]]（NRC）六[[Big Science|大科学]]原则与学术共同体的抗辩成功纠正了该狭隘取向，促成 2002 年《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA）删除了歧视[[Qualitative Interview|质性访谈]]的条款，确立了方法选择服务于[[Research Question|研究问题]]性质的原则（[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, pp. 33–34]]）。
+> - **政策制定中的法定贬抑与[[Paradigm|范式]]抗辩** 在美国 2000 年卡斯尔草案（H.R. 4875, Sec. 6）中，深度访谈与[[Participant Observation|参与观察]]、文献收集等质性方法在联邦法案草案中被统一定性为仅在机制因素“尚未充分提炼、理解或无法进行实验控制时”使用的“初步形式”（Preliminary Form）；[[National Research Council|国家研究委员会]]（NRC）六[[Big Science|大科学]]原则与学术共同体的抗辩成功纠正了该狭隘取向，促成 2002 年《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA）删除了歧视[[Qualitative Interview|质性访谈]]的条款，确立了方法选择服务于[[Research Question|研究问题]]性质的原则（[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, pp. 33–34]]）。
 > - **补救方式** [[Triangulation\|三角互证]]、人员校验、跟踪式设计、[[Reflexivity\|反身性]]记录、明确区分[[Analytic Generalization\|分析性推广]]与统计性推广。
 
 ---

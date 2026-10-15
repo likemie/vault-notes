@@ -30,7 +30,6 @@ related_concepts:
   - "[[Scientific Paradigm]]"
   - "[[Determinism]]"
   - "[[Critical Dualism]]"
-  - "[[Hypothesis]]"
   - "[[Operationalization]]"
   - "[[Positivism]]"
   - "[[Epistemic Stances]]"
@@ -41,6 +40,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Empiricism]]"
   - "[[Scientific Method]]"
+  - "[[Hypothesis]]"
   - "[[Paradigm]]"
   - "[[Development Education]]"
   - "[[Scientific Explanation]]"
@@ -116,7 +116,7 @@ updated: 2026-10-09
 > - **代表贡献** 创立比较教育“[[Problem Solving|问题解决]]法（[[Problem Approach]]）”分析程序；提出“批判的二元论（[[Critical Dualism]]）”与教育“文化滞后/时代不同步（Asynchrony）”理论；系统批判老派历史学派的回溯性归因与贝雷迪的经验归纳进路。
 
 > [!citation-card] 考恩论霍姆斯作为问题法与预测科学的开拓者
-> [[Robert Cowen|罗伯特·考恩]]（[[Robert Cowen|Robert Cowen]]）深刻评析指出，霍姆斯在 1960 年代学科方法论转型大论战中扮演了中流砥柱的角色。他坚信比较教育学可以且必须成为一门严谨的“政策科学”，通过引入科学哲学[[Hypothesis|假设]]检验模型与物理学式的精准预测逻辑，为解决现实教育改革中的制度与规范失调提供了高度[[Operationalization|操作化]]的智识工具。[[Argument_Cowen_2023_CE|(Cowen, 2023, pp. 328, 333)]]
+> [[Robert Cowen|罗伯特·考恩]]（[[Robert Cowen|Robert Cowen]]）深刻评析指出，霍姆斯在 1960 年代学科方法论转型大论战中扮演了中流砥柱的角色。他坚信比较教育学可以且必须成为一门严谨的“政策科学”，通过引入科学哲学假设检验模型与物理学式的精准预测逻辑，为解决现实教育改革中的制度与规范失调提供了高度[[Operationalization|操作化]]的智识工具。[[Argument_Cowen_2023_CE|(Cowen, 2023, pp. 328, 333)]]
 >
 > *Holmes was central to the classic ontological debate of the 1960s, arguing that comparative education could and should be a policy science anchored in prediction and critical rationalism.*
 

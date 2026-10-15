@@ -10,7 +10,7 @@ title: "Argument_McKnight_2020_Discourse"
 argument_key: "Argument_McKnight_2020_Discourse"
 argument_display_title: "Seven reasons to question the hegemony of Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 19
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -29,11 +29,9 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Lesson Study]]"
-  - "[[Document]]"
   - "[[Literature Review]]"
   - "[[Discourse]]"
   - "[[Positivism]]"
-  - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Knowledge Production]]"
   - "[[Value Neutrality]]"
@@ -86,7 +84,7 @@ citation_aliases:
 > - **分析对象** Visible Learning 作为论述／隐喻／品牌，以及其文本（书籍、宣传册、访谈、媒体报道）
 > - **分析视角** 作者的立场来自包容性教育（inclusive education），具体领域为残疾研究和性别研究(p.33)
 > - **数据来源** Hattie 的出版物、[[Argument_Knudsen_2017_NordSTEP\|Knudsen (2017)]]对 Hattie 的访谈、维多利亚州 DET 宣传册、媒体报道、VL 培训材料
-> - **局限性（作者自认）** 由于专门批评 VL 文化政治的[[Document\|文献]]匮乏，论文直接进入批评而非常规[[Literature Review\|文献综述]]
+> - **局限性（作者自认）** 由于专门批评 VL 文化政治的文献匮乏，论文直接进入批评而非常规[[Literature Review\|文献综述]]
 
 ## 核心论证
 
@@ -111,7 +109,7 @@ citation_aliases:
 > ### 6. Visible Learning 过度简化
 > "Impact"一词等于"有力的接触"（子弹、炮弹）。"Know thy impact"带有圣经式语气——是在[[Post-structuralism\|后结构主义]]质疑之后对确定性的加固。"眼睛将其不足隐藏在傲慢背后"——眼睛本质上是脆弱的（玻璃体冻胶），需要好斗。[[Positivism\|实证主义]]科学的纪律只是另一种虚构——众多研究叙事之一。
 >
-> ### 7. Visible Learning 基于能力主义[[Hypothesis\|假设]]
+> ### 7. Visible Learning 基于能力主义假设
 > "只有可见的才重要"——对人们应具备何种能力才能被算作成功做出了规范性和能力主义的假设。能力主义设定"两个截然不同的本体论区域"(Campbell, 2009)。有视觉障碍的人在本体论和[[Epistemology\|认识论]]上被抹除。视觉长期以来承载着作为意识的"定义性和统治性能力"的"粗暴声誉"(Rorty, 1979)。排斥被包装为对多样化学习者的"集体冷漠"(Slee, 2011)。
 
 ## 主要发现
@@ -148,7 +146,7 @@ citation_aliases:
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - **论文自认局限** 非实证[[Lesson Study\|课堂研究]]，而是理论性参与；由于专门批评 VL 文化政治的[[Document\|文献]]匮乏，未进行常规[[Literature Review\|文献综述]](p.34)；作者承认自己也可能同样"将教师定位为匮乏者、未被意识到的被接管者、被学者发声的腹语术人偶"(p.42)
+> - **论文自认局限** 非实证[[Lesson Study\|课堂研究]]，而是理论性参与；由于专门批评 VL 文化政治的文献匮乏，未进行常规[[Literature Review\|文献综述]](p.34)；作者承认自己也可能同样"将教师定位为匮乏者、未被意识到的被接管者、被学者发声的腹语术人偶"(p.42)
 > - **立场** 作者来自包容性教育领域（残疾研究和性别研究），其文化政治立场明确，不声称[[Value Neutrality\|价值中立]]
 > - **可能被驳回的方式** 作者预见到批评可能被"方便地驳回或边缘化，而不充分参与我们的想法"，并呼吁"不回避审问论述的文化政治的、有力的辩论"
 

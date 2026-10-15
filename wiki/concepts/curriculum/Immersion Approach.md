@@ -8,7 +8,7 @@ aliases:
 summary: "在常规学科教学中引导学生深入探究学科问题，但不显性讲授通用批判性思维规则与元认知准则的隐性渗透式课程模式"
 type: concept
 domain: "curriculum"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Presence]]"
   - "[[Critical Thinking]]"
   - "[[Problem Solving]]"
-  - "[[Hypothesis]]"
   - "[[Emergence]]"
   - "[[Homework]]"
   - "[[Infusion Approach]]"
@@ -41,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Immersion Approach
@@ -51,7 +50,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 学科沉浸模式（[[Presence\|immersion]] Approach，亦称隐性渗透模式或沉浸法）是由 Robert Ennis (1989) 提出的[[Critical Thinking\|批判性思维]]课程分类中的一种传统教学模式。它指在常规学科教学中，教师引导学生深度浸入具有挑战性的学科内容与[[Problem Solving\|问题解决]]任务中，**但并不向学生显性讲授、命名或示范通用的批判性思维原则与评价标准**。该模式建立在一个核心[[Hypothesis\|假设]]之上：只要学生深入参与高难度的学科探究，批判性思维能力就会作为学科精熟的“自然副产品”自发[[Emergence\|涌现]]。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, p. 281)]]
+> 学科沉浸模式（[[Presence\|immersion]] Approach，亦称隐性渗透模式或沉浸法）是由 Robert Ennis (1989) 提出的[[Critical Thinking\|批判性思维]]课程分类中的一种传统教学模式。它指在常规学科教学中，教师引导学生深度浸入具有挑战性的学科内容与[[Problem Solving\|问题解决]]任务中，**但并不向学生显性讲授、命名或示范通用的批判性思维原则与评价标准**。该模式建立在一个核心假设之上：只要学生深入参与高难度的学科探究，批判性思维能力就会作为学科精熟的“自然副产品”自发[[Emergence\|涌现]]。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, p. 281)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 将思维训练完全隐性化地融入学科内容的传统教学常态。
@@ -75,7 +74,7 @@ updated: 2026-09-17
 > ```
 
 > [!warning] 沉浸模式的三大方法论缺陷
-> 1. **“自发领悟”[[Hypothesis\|假设]]落空** 认知心理学表明，深层思维策略（如识别隐含假设、多源证据交叉验证）极其抽象，若无显性指导，绝大多数初学者无法自发从具体学科细节中提炼出通用的思维策略。
+> 1. **“自发领悟”假设落空** 认知心理学表明，深层思维策略（如识别隐含假设、多源证据交叉验证）极其抽象，若无显性指导，绝大多数初学者无法自发从具体学科细节中提炼出通用的思维策略。
 > 2. **认知负荷过载** 在高难度的学科探究中，学生的有限[[Working Memory\|工作记忆]]被学科特定事实与计算占满，难以同时兼顾对思维过程本身的[[Metacognition\|元认知]]监控。
 > 3. **迁移壁垒** 由于学生未能在脑海中将“思维方法”与“特定学科事实”解耦，在历史课上学会的史料批判极难自发迁移到科学实验或日常社会新闻甄别中。
 

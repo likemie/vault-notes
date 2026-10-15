@@ -7,7 +7,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic"
 argument_display_title: "The Technological Republic: Hard Power, Soft Belief, and the Future of the West"
 argument_kind: "book"
-argument_related_count: 218
+argument_related_count: 217
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -58,7 +58,6 @@ related_concepts:
   - "[[Everyday Plebiscite]]"
   - "[[Civic Religion]]"
   - "[[Decodification]]"
-  - "[[Hypothesis]]"
   - "[[Argument Mapping]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[AI Deterrence]]"
@@ -119,7 +118,6 @@ related_persons:
   - "[[Martin Lindauer]]"
   - "[[Giorgio Parisi]]"
   - "[[Stanley Milgram]]"
-  - "[[Isaiah Berlin]]"
   - "[[Philip Tetlock]]"
   - "[[Lee Kuan Yew]]"
   - "[[Kenneth Burke]]"
@@ -184,6 +182,7 @@ related_persons:
   - "[[John Glenn]]"
   - "[[Taiichi Ohno]]"
   - "[[Lucian Freud]]"
+  - "[[Isaiah Berlin]]"
   - "[[René Girard]]"
   - "[[Ralph Waldo Emerson]]"
   - "[[Herbert Hoover]]"
@@ -292,7 +291,7 @@ updated: '2026-10-09'
 > [!monograph-tools] 理论与概念工具
 > - **[[Technological Republic|技术共和国]]与[[Hard Power|硬实力]]** 将国家政治合法性、公民繁荣与深海、空天及算法国防科技的自主创新深度绑定，作为全书的最高政治哲学裁判尺度（pp. 3–15, 29–54, 171–218）。
 > - **[[Innovation Desert|创新荒漠]]与[[Market Triumphalism|市场必胜论]]** 批判资本与科技界在避险本能驱动下涌向日常消费级零售与[[Lifestyle Technology|生活方式科技]]，导致关乎国计民生核心公共部门陷入颠覆性技术匮乏的结构性病理（pp. 3–15, 37–54, 103–111, 171–178）。
-> - **[[Engineering Mindset|工程思维]]与[[Swarm Intelligence|群智能]]** 借鉴生物蜂群（[[Martin Lindauer|林道尔]]）与[[Flocking Behavior|椋鸟群飞]]（[[Giorgio Parisi|帕里西]]）的[[Edge Autonomy|边缘自治]]，结合即兴演剧（约翰斯通）、反权威从众心理（阿施、[[Stanley Milgram|米尔格拉姆]]）与刺猬/狐狸模型（[[Isaiah Berlin|柏林]]、[[Philip Tetlock|泰特洛克]]），构建直面客观物理与实战反馈的微观组织哲学（pp. 115–167）。
+> - **[[Engineering Mindset|工程思维]]与[[Swarm Intelligence|群智能]]** 借鉴生物蜂群（[[Martin Lindauer|林道尔]]）与[[Flocking Behavior|椋鸟群飞]]（[[Giorgio Parisi|帕里西]]）的[[Edge Autonomy|边缘自治]]，结合即兴演剧（约翰斯通）、反权威从众心理（阿施、[[Stanley Milgram|米尔格拉姆]]）与刺猬/狐狸模型（柏林、[[Philip Tetlock|泰特洛克]]），构建直面客观物理与实战反馈的微观组织哲学（pp. 115–167）。
 > - **[[Founder Culture|创始人文化]]、长程资产托管与所有权社会** 结合奥德修斯自我约束、大卫·斯文森三百年托管哲学、全员股权公社与法伦布拉赫（Fahlenbrach, 2009）及普渡大学团队（Lee et al., 2016）实证，确立创始人长期主义溢价，提供打破防卫型官僚与季度短期主义的组织治理典范（pp. 171–189, 205–218）。
 > - **[[Cultural Relativism|文化相对主义]]与[[Effective Altruism|有效利他主义]]批判** 批判本尼迪克特人类学假说、克拉克文明论战中的相对主义虚无，以及硅谷将道德承诺退化为抽象量化避险计算的意识形态异化，倡导恢复对客观审美与卓越成就的坚定辨别力（pp. 83–96, 205–218）。
 > - **[[Civic Rituals|公民仪式]]与儒家[[Junzi|君子]]美德** 结合赫希国家制造装置理论、[[Lee Kuan Yew|李光耀]]治国思想与古典共和主义，论证以教育通识正典、国民防卫服役及君子实质美德维系陌生人间“想象亲密感”，在自由市场个人主义与崇高集体体验中重铸技术共和国（pp. 190–218）。
@@ -302,7 +301,7 @@ updated: '2026-10-09'
 > [!monograph-method] 研究方法与材料
 > - **资料来源** 冷战国防动员与[[Manhattan Project|曼哈顿工程]]档案、美国制宪会议记录、联邦采办诉讼判决书（[[Palantir Technologies|帕兰提尔]]诉陆军案）、阿富汗反 IED 实战记录、经典社会心理学与行为生物学实验报告，现代公司金融跨期资产定价与标普 500 核心专利引用实证研究（Fahlenbrach, 2009; Lee et al., 2016），以及卡普主导帕兰提尔二十年国防与企业软件工程的亲历实录。
 > - **分析策略** 历史追溯（二战至冷战硅谷演化）、思想文化解构（1960 年代反文化、大学经典之争与文化相对主义人类学）、微观组织机制[[Decodification|解码]]（蜂群自组织与即兴剧场）、制度法治比较（美国清教禁欲模式 vs 新加坡市场挂钩模式）与战略对策建构。
-> - **证据类型** 实战工程交付记录、判例法文本、计量金融资产定价模型与前向专利引用网络统计数据；个人创业叙事与哲学阐释用以建立治理[[Hypothesis|假设]]与制度反思，完整推断边界留待历史长效与多国实践检验。
+> - **证据类型** 实战工程交付记录、判例法文本、计量金融资产定价模型与前向专利引用网络统计数据；个人创业叙事与哲学阐释用以建立治理假设与制度反思，完整推断边界留待历史长效与多国实践检验。
 
 ---
 

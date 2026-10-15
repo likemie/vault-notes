@@ -8,7 +8,7 @@ aliases:
 summary: "由英国牛津大学、剑桥大学等顶尖法学院财团联合研制的高利害法学本科入学选拔测验，包含42道阅读分析选择题与1篇限时议论小论文，专门评估批判性理解、逻辑推理与论据综合能力。"
 type: instrument
 instrument_type: test
-instrument_related_count: 7
+instrument_related_count: 6
 instrument_related_level: 1
 instrument_related_stars: "⭐"
 instrument_related_color: "#dbeafe"
@@ -30,7 +30,6 @@ tags:
 related_concepts:
   - "[[Achievement and Aptitude Tests]]"
   - "[[Critical Thinking]]"
-  - "[[Hypothesis]]"
   - "[[Predictive Validity]]"
 related_theories: []
 related_methods:
@@ -44,7 +43,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-08-27
+updated: 2026-10-15
 ---
 
 # Law National Aptitude Test
@@ -68,7 +67,7 @@ updated: 2026-08-27
 >
 > | 维度 | 题项数 / 任务 | 测量内容 | 计分方式 |
 > |---|---|---|---|
-> | **批判性阅读与逻辑分析（Section A）** | 12 篇复杂文本（42 题） | 理解复杂语境中的微妙论点、辨析前提[[Hypothesis\|假设]]、识别逻辑漏洞与因果倒置。 | 计算机自动计分（0–42 分） |
+> | **批判性阅读与逻辑分析（Section A）** | 12 篇复杂文本（42 题） | 理解复杂语境中的微妙论点、辨析前提假设、识别逻辑漏洞与因果倒置。 | 计算机自动计分（0–42 分） |
 > | **议论论证与反驳构建（Section B）** | 3 选 1 开放式命题论文 | 就争议性公共或伦理话题选定立场，构建严密论据链条，有力反驳对立观点。 | 由各大学法学院招生官独立人工盲审 |
 
 ---

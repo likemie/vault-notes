@@ -6,7 +6,7 @@ aliases:
 summary: "Beech 基于 Castells 网络社会理论提出的概念，指全球教育场场域中多元行动者通过跨国网络协作与竞争、生产并倡导教育政策方案的空间，其话语兼具稳定性与可塑性且抽离于地方历史经验"
 type: concept
 domain: "comparative-education"
-related_count: 18
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,11 +26,9 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Space of Places]]"
   - "[[Floating Signifier]]"
-  - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[Network Society]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_persons: []
 related_facts:
@@ -107,7 +105,7 @@ updated: 2026-10-15
 
 > [!feature] 全球教育政策话语的运行特征
 > - **稳定性与可塑性（Stability & Malleability）** 整合不同利益和文化背景的需要决定了话语的二元结构：既有核心品牌的稳定性以维持其全球权威，又有极强的可塑性允许各方自行填空。([[Argument_Beech_2009_CE\|Beech, 2009, p. 353]])
-> - **[[Floating Signifier\|漂浮能指]]（Floating Signifier）** 话语脱离了它在特定地方的时间、空间及斗争经验，成为无固定具体所指的抽象符号，其传播效力恰恰来自其能在各种本土语境中被差异化[[Coding in Qualitative Research\|编码]]。(pp. 353–355)
+> - **[[Floating Signifier\|漂浮能指]]（Floating Signifier）** 话语脱离了它在特定地方的时间、空间及斗争经验，成为无固定具体所指的抽象符号，其传播效力恰恰来自其能在各种本土语境中被差异化编码。(pp. 353–355)
 > - **不兼容声明的组合（Incongruent Statements）** 在同一政策文件中并存逻辑矛盾的陈述，以获取最广泛的政治同盟。(p. 353)
 
 > [!exegesis]- 机制解读一：稳定性与可塑性的政治隐喻
@@ -124,5 +122,5 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Beech_2009_CE\|Beech (2009)]] — 提出全球政策空间概念，深入追踪了在其中被生产的“能力发展”和“尊重多样性”两条[[Discourse|话语]]线索，揭示其在拉丁美洲落地的多级[[Transfer Translation Transformation\|转译]]与实践变形。
+> - [[Argument_Beech_2009_CE\|Beech (2009)]] — 提出全球政策空间概念，深入追踪了在其中被生产的“能力发展”和“尊重多样性”两条[[Discourse|话语]]线索，揭示其在拉丁美洲落地的多级转译与实践变形。
 > - [[Argument_Cowen_2023_CE\|Cowen (2023)]] — 探讨全球测量网络（如 [[PISA]]）作为主导节点对全球政策空间的[[Performativity\|操演性]]宰制，批判了由此导致的比较教育量化技术化。

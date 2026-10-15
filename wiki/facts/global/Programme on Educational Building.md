@@ -12,7 +12,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 15
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Technology Infusion]]"
-  - "[[Assemblage]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Academic Achievement]]"
   - "[[Technical Rationality]]"
@@ -50,7 +49,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Programme on Educational Building
@@ -91,7 +90,7 @@ updated: 2026-10-14
 ## 推进历程与阶段演进
 
 > [!dev-timeline]- 项目推进历程
-> - **1972–1980 年代 — 战后婴儿潮与工业化校舍成本控制期** 聚焦化解急剧膨胀的入学人口压力，研发预制[[Assemblage|装配]]式构件标准与模块化空间布局，强调在有限公共财政预算内实现校舍建设的标准化与成本效益最大化。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438–439)]]
+> - **1972–1980 年代 — 战后婴儿潮与工业化校舍成本控制期** 聚焦化解急剧膨胀的入学人口压力，研发预制装配式构件标准与模块化空间布局，强调在有限公共财政预算内实现校舍建设的标准化与成本效益最大化。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438–439)]]
 > - **1990 年代 — 空间灵活性、社区多功能学校与可持续设计期** 随着学龄人口增速趋缓，项目重心转向校舍的生态环保、抗震减灾与全生命周期能效，倡导学校作为社区文化中心开放共享，打破孤立封闭的传统校园模式。
 > - **2000–2012 年 — 向有效学习环境（CELE）转型与数字化融合期** 顺应[[Knowledge-Based Economy|知识经济]]对创新能力的要求，项目更名为有效学习环境中心（CELE），系统研究无线互联网络、跨学科协作工作坊对传统教室布局的重构，推动物理空间与数字空间的无缝融合。
 

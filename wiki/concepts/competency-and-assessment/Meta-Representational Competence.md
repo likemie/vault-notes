@@ -7,7 +7,7 @@ aliases:
 summary: "学习者生成、评估、修改、发明和跨通道转译外部表征形式（图表、符号、概念图）的高阶元认知能力"
 type: concept
 domain: "competency-and-assessment"
-related_count: 17
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Scaffolding]]"
   - "[[Graphic Organizer]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Mind Mapping]]"
   - "[[Argument Mapping]]"
@@ -30,7 +29,6 @@ related_concepts:
   - "[[Variable]]"
 related_theories: []
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Correlational Research]]"
@@ -43,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Meta-Representational Competence
@@ -73,7 +71,7 @@ updated: 2026-09-17
 > | 比较维度 | 元表征能力（MRC） | 表征识读技能（Representational Literacy） | 一般元认知（General [[Metacognition\|Metacognition]]） |
 > |---|---|---|---|
 > | **认知客体** | 外部表征系统本身（图式、图表、符号网络） | 特定图表或文本的既定内容信息 | 自身的记忆、注意力与思维监控过程 |
-> | **核心操作** | 发明新图示、评估表征优劣、跨模态[[Transfer Translation Transformation\|转译]] | 照章读图、提取图表中的具体数值与标签 | 计划任务进度、检查计算错误、调控做题速度 |
+> | **核心操作** | 发明新图示、评估表征优劣、跨模态转译 | 照章读图、提取图表中的具体数值与标签 | 计划任务进度、检查计算错误、调控做题速度 |
 > | **发展转折点** | 形式运算期与中等教育阶段迅速成熟 | 具体运算期（小学中高年级）初步掌握 | 贯穿终身，随反思训练持续增强 |
 
 ---
@@ -83,8 +81,8 @@ updated: 2026-09-17
 > [!feature] 元表征能力的四大核心支柱（diSessa & Sherin, 2000）
 > 1. **表征发明（Invention）** 面对新颖问题情境时，自发构思并绘制全新图示或符号表征形式的能力。
 > 2. **表征评估与批判（Critique & Evaluation）** 能够从清晰度、紧凑性、完备性与易读性等维度，判断某种图示是否胜任当前交流或推理任务。
-> 3. **表征功能理解（Understanding Function & Form）** 理解空间拓扑、颜色[[Coding in Qualitative Research\|编码]]、箭头方向与节点包含关系如何映射抽象语义与因果逻辑。
-> 4. **表征修饰与[[Transfer Translation Transformation\|转译]]（Modification & Translation）** 能够在文字、[[Concept Mapping\|概念图]]、逻辑公式与表格等不同模态之间自如转译信息。
+> 3. **表征功能理解（Understanding Function & Form）** 理解空间拓扑、颜色编码、箭头方向与节点包含关系如何映射抽象语义与因果逻辑。
+> 4. **表征修饰与转译（Modification & Translation）** 能够在文字、[[Concept Mapping\|概念图]]、逻辑公式与表格等不同模态之间自如转译信息。
 
 > [!logic-map]- 元表征能力四维结构与心智操作模型
 > ```mermaid

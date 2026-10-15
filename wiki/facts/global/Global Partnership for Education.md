@@ -13,7 +13,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 19
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -38,7 +38,6 @@ related_concepts:
   - "[[Paradigm]]"
 related_theories: []
 related_methods:
-  - "[[Exploratory Factor Analysis]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
@@ -56,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-01
+updated: 2026-10-15
 ---
 
 # Global Partnership for Education
@@ -69,7 +68,7 @@ updated: 2026-10-01
 > 全球教育伙伴关系（Global Partnership for Education，GPE）是全球唯一专门致力于提高发展中国家基础教育普及与质量的多元利益相关方国际多边基金组织；作为[[Global Education Governing Complex\|全球教育治理复合体]]的五大多边核心机构之一，GPE 旨在通过调动国际赠款、协调捐助国与发展中国家政府编制国家教育部门规划（ESP），充当连接全球教育援助资金与国家层面政策落实的中介协调平台。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538, 544)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 2002 年由[[World Bank\|世界银行]]、[[UNESCO\|联合国教科文组织]]等在达喀尔[[Education for All\|全民教育]]论坛后续行动中联合发起，初名全民教育快车道倡议（Education for All - Fast Track Initiative，[[Exploratory Factor Analysis\|EFA]]-FTI）；2011 年重组改组并正式更名为全球教育伙伴关系（GPE）。
+> - **成立时间 / 创设背景** 2002 年由[[World Bank\|世界银行]]、[[UNESCO\|联合国教科文组织]]等在达喀尔[[Education for All\|全民教育]]论坛后续行动中联合发起，初名全民教育快车道倡议（Education for All - Fast Track Initiative，EFA-FTI）；2011 年重组改组并正式更名为全球教育伙伴关系（GPE）。
 > - **总部地点 / 业务辐射** 秘书处设于美国华盛顿特区（托管于世界银行总部），业务辐射全球近 90 个低收入和中低收入发展中国家，涵盖超 10 亿儿童与青少年群体。
 > - **法人属性与经费基础** 名义上为多利益相关方国际伙伴机制（非传统政府间组织），由捐助国政府财政拨款、私人慈善基金会（如比尔及梅琳达·[[Bill & Melinda Gates Foundation|盖茨基金会]]）与私营企业捐赠构成多边信托基金。
 > - **核心宗旨与法定职责** 确保处于最脆弱、战乱及边缘处境的儿童享有优质公平的免费基础教育，推动实现[[UN Sustainable Development Goals\|联合国可持续发展目标]]第四项（SDG 4: 优质教育）。
@@ -79,7 +78,7 @@ updated: 2026-10-01
 ## 历史沿革与组织演变
 
 > [!dev-timeline] 组织发展历程
-> - **2002–2010 — [[Education for All\|全民教育]]快车道倡议（[[Exploratory Factor Analysis\|EFA]]-FTI）奠基期** 2002 年在蒙特雷发展筹资国际会议上发起成立，作为[[World Bank\|世界银行]]与[[UNESCO\|联合国教科文组织]]加速落实全民教育达喀尔目标的紧密合作工具；初期高度依附于世界银行放贷审批流程，重点资助初等教育完成率考核达标的发展中国家。
+> - **2002–2010 — [[Education for All\|全民教育]]快车道倡议（EFA-FTI）奠基期** 2002 年在蒙特雷发展筹资国际会议上发起成立，作为[[World Bank\|世界银行]]与[[UNESCO\|联合国教科文组织]]加速落实全民教育达喀尔目标的紧密合作工具；初期高度依附于世界银行放贷审批流程，重点资助初等教育完成率考核达标的发展中国家。
 > - **2011–2018 — 机构独立重组与 GPE 多边治理确立** 2011 年彻底脱离单纯依靠世行托管的运作模式，正式更名为全球教育伙伴关系（GPE）；吸纳发展中国家、教师工会与国际非政府组织代表进入董事会，建立起首个多利益相关方联合治理架构。
 > - **2019–至今 — [[Knowledge and Innovation Exchange\|KIX]] 枢纽建立与[[Policy Brokerage\|政策中介]]深化** 2019 年联合加拿大国际发展研究中心（IDRC）正式设立“知识与创新交流”（Knowledge and Innovation Exchange，KIX）机制，在全球南方设立 4 大区域中介枢纽，推动从传统的外部援助赠款向系统性支持区域同侪互学与本土证据利用演变。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 545)]]
 

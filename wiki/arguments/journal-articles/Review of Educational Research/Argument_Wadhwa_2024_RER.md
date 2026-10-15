@@ -11,7 +11,7 @@ title: "Argument_Wadhwa_2024_RER"
 argument_key: "Argument_Wadhwa_2024_RER"
 argument_display_title: "How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs"
 argument_kind: "journal-article"
-argument_related_count: 82
+argument_related_count: 79
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -39,14 +39,11 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[Reliability]]"
   - "[[Construct]]"
-  - "[[Document]]"
   - "[[Evidence-Based Education]]"
   - "[[Causality]]"
   - "[[Praxis]]"
   - "[[Necessary and Sufficient Conditions]]"
-  - "[[Hypothesis]]"
   - "[[Internal Validity]]"
-  - "[[Attrition]]"
   - "[[Convergent and Discriminant Validity]]"
   - "[[Operationalization]]"
   - "[[Peer-Supported Learning]]"
@@ -58,6 +55,7 @@ related_concepts:
   - "[[Initial Teacher Training]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Unit of Analysis]]"
+  - "[[Attrition]]"
   - "[[Strategic Compliance]]"
   - "[[Variable]]"
   - "[[Evidence Standards]]"
@@ -78,7 +76,6 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Multitrait-Multimethod Matrix]]"
   - "[[Multimethod Research]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Regression Discontinuity Design]]"
   - "[[Time Series Design]]"
@@ -143,7 +140,7 @@ updated: 2026-09-18
 > 总体目标是从教育科学实践的制度语境出发，检验“基于证据（evidence-based）”这一概念的 [[Construct Validity\|构念效度]] 与 [[Reliability\|可靠性]]：如果清算中心声称能识别并传播关于教育干预因果效应的可靠知识，那么不同清算中心对同一项目的有效性评级至少应具备高度收敛性(p. 4)。
 
 > [!claim] 核心主张
-> 在当前教育清算中心体系中，“基于证据”作为一项实践[[Construct\|构念]]仅具有有限的 [[Construct Validity\|构念效度]]（limited practical construct validity）。评级高度不一致的核心原因并非传统因果识别偏好（各中心均高度推崇[[Randomised Controlled Trials\|随机对照试验]] [Randomized Controlled Trial, RCT]），而是根源于证据综合门槛的分歧（是否要求独立复制、跨地点复制与 6–12 个月持续效果）以及纳入[[Document\|文献]]集的悬殊差异。识别“基于证据”的干预目前仍更多是一种政策愿景，而非可靠的研究实践(pp. 3, 26–27)。
+> 在当前教育清算中心体系中，“基于证据”作为一项实践[[Construct\|构念]]仅具有有限的 [[Construct Validity\|构念效度]]（limited practical construct validity）。评级高度不一致的核心原因并非传统因果识别偏好（各中心均高度推崇[[Randomised Controlled Trials\|随机对照试验]] [Randomized Controlled Trial, RCT]），而是根源于证据综合门槛的分歧（是否要求独立复制、跨地点复制与 6–12 个月持续效果）以及纳入文献集的悬殊差异。识别“基于证据”的干预目前仍更多是一种政策愿景，而非可靠的研究实践(pp. 3, 26–27)。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 美英 43 个候选机构中筛选出的 12 个评估学前至大学（Pre-Kindergarten to College, pre-K to College）教育干预有效性的教育清算中心，以及由 10 个清算中心评估的 1,359 个去重教育项目与 429 个多重评级对(pp. 5–7, 16–18)。
@@ -158,8 +155,8 @@ updated: 2026-09-18
 > | 理论工具 | 解释功能 |
 > |---|---|
 > | **Campbellian 效度框架**<br>[[Campbellian Validity Framework]] | 从 Campbell & Fiske (1959) 的[[Multitrait-Multimethod Matrix\|多特质-多方法（MTMM）矩阵]]视角出发，将“基于证据”视作教育科学[[Praxis\|实践]]中的[[Construct\|构念]]。不同清算中心（不同测量方法）对同一项目（同一特质）的评级必须高度收敛，[[Reliability\|信度]]与可靠性是[[Construct Validity\|构念效度]]的[[Necessary and Sufficient Conditions\|必要条件]](p. 4)。 |
-> | **循证教育**<br>[[Evidence-Based Education]] | 提供制度与政策背景[[Hypothesis\|假设]]：假设高质量科学证据能够有效识别干预因果效应并支持大规模推广。论文严格区分了科学语境中基于严谨因果标准的 evidence-based 与公共政策语境中宽泛等同于“有正向效果”的 evidence-based。 |
-> | **因果识别与因果估计**<br>[[Causality]] | 区分单项研究的因果推断有效性（[[Internal Validity\|内部效度]]控制、[[Attrition\|流失]]、基线等值）与跨研究因果证据综合的附加条件（外部复制、独立性、时间持久性）(pp. 8–15)。 |
+> | **循证教育**<br>[[Evidence-Based Education]] | 提供制度与政策背景假设：假设高质量科学证据能够有效识别干预因果效应并支持大规模推广。论文严格区分了科学语境中基于严谨因果标准的 evidence-based 与公共政策语境中宽泛等同于“有正向效果”的 evidence-based。 |
+> | **因果识别与因果估计**<br>[[Causality]] | 区分单项研究的因果推断有效性（[[Internal Validity\|内部效度]]控制、流失、基线等值）与跨研究因果证据综合的附加条件（外部复制、独立性、时间持久性）(pp. 8–15)。 |
 
 > [!warrant]- 理论如何支撑论证
 > 论文将清算中心视为教育政策生态中的“特质测量工具”：如果各个清算中心对同一项目的有效性评级能够高度收敛（[[Convergent and Discriminant Validity\|convergent validity]]），则表明学界与政策界对“何为循证”存在共识性操作定义；反之，若评级离散且最常发生极端冲突（1&3 完全不一致），则说明“基于证据”在[[Operationalization\|操作化]]层面缺乏一致意义。理论框架明确了“信度是效度的必要条件”这一逻辑底线，将实证测量的不一致性直接上升为对循证运动制度化实践的构念效度反思(pp. 4, 26–27)。
@@ -172,9 +169,9 @@ updated: 2026-09-18
 > | 模块 | 材料与处理方式 |
 > |---|---|
 > | **清算中心检索与筛选**<br>Comparative Review | 检索美英 43 个候选清算中心，依据三阶段排除标准（是否发布自身评级、是否在线可访问、是否评估 pre-K 至大学教育干预及教育结果）最终确定 12 个教育清算中心(pp. 5–6)。 |
-> | **网站标准系统编码**<br>Systematic Content Coding | 于 2019 年 6 月至 2020 年 8 月全面收集并[[Coding in Qualitative Research\|编码]] 12 个清算中心公开文档与技术手册，涵盖使命领域、目标人群、资金来源、评级对象、单项研究质量标准（涵盖[[Randomised Controlled Trials\|随机对照试验]] [RCT]、[[Quasi-Experimental Designs\|准实验设计]] [QED]、[[Regression Discontinuity Design\|断点回归设计（RDD）]] 与中断时间序列 [[Time Series Design\|interrupted time series]] [ITS] 等评级规则，0–3 级编码）、项目最高评级门槛等维度(pp. 5–15)。 |
+> | **网站标准系统编码**<br>Systematic Content Coding | 于 2019 年 6 月至 2020 年 8 月全面收集并编码 12 个清算中心公开文档与技术手册，涵盖使命领域、目标人群、资金来源、评级对象、单项研究质量标准（涵盖[[Randomised Controlled Trials\|随机对照试验]] [RCT]、[[Quasi-Experimental Designs\|准实验设计]] [QED]、[[Regression Discontinuity Design\|断点回归设计（RDD）]] 与中断时间序列 [[Time Series Design\|interrupted time series]] [ITS] 等评级规则，0–3 级编码）、项目最高评级门槛等维度(pp. 5–15)。 |
 > | **评级一致性量化分析**<br>Descriptive Analysis & Pairwise Consistency | 提取 10 个清算中心共 1,359 个去重教育项目（排除停止运营的[[Promising Practices Network\|前景广阔的实践网络]] [Promising Practices Network, PPN] 与无分层评级的[[Promise Neighborhoods Research Consortium\|承诺社区研究联盟]] [Promise Neighborhoods Research Consortium, PNRC]）。将评级统一转换为三级量表（1=Recommended, 2=Promising, 3=Not Recommended）以及二元有效性指标，计算 2 至 5 个清算中心共同评级时的配对一致性百分比(pp. 16–19)。 |
-> | **典型案例深度比较**<br>Comparative Case Studies | 选取 5 个横跨完全有望、中度一致、中度分歧与完全对立的成熟知名教育干预项目（开放式阅读 [[Open Court Reading]], OCR]、人人成功 [[Success for All]], SFA]、[[Peer-Supported Learning\|同伴互助学习]]策略 [[Peer-Assisted Learning Strategies]], PALS]、量子机会项目 [[Quantum Opportunity Program]], QOP] 以及校内社区 [[Communities in Schools]], [[Community Innovation Survey\|CIS]]）进行微观证据追踪，逐一对比纳入[[Document\|文献]]池、[[Effect Size\|效应量]]估算、设计缺陷判定与评级推导过程(pp. 21–25)。 |
+> | **典型案例深度比较**<br>Comparative Case Studies | 选取 5 个横跨完全有望、中度一致、中度分歧与完全对立的成熟知名教育干预项目（开放式阅读 [[Open Court Reading]], OCR]、人人成功 [[Success for All]], SFA]、[[Peer-Supported Learning\|同伴互助学习]]策略 [[Peer-Assisted Learning Strategies]], PALS]、量子机会项目 [[Quantum Opportunity Program]], QOP] 以及校内社区 [[Communities in Schools]], [[Community Innovation Survey\|CIS]]）进行微观证据追踪，逐一对比纳入文献池、[[Effect Size\|效应量]]估算、设计缺陷判定与评级推导过程(pp. 21–25)。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -247,9 +244,9 @@ updated: 2026-09-18
 ### 步骤二：因果推断方法论标准与单项研究质量
 
 > [!claim] 步骤二主张
-> 所有清算中心均视[[Randomised Controlled Trials\|随机对照试验]]（RCT）为[[Causality\|因果推断]]的黄金标准，但在 RCT 实施质量的技术检验（[[Attrition\|流失]]、基线等值、分析层次、[[Intent-to-Treat Analysis\|意向治疗分析]] [Intention-to-Treat, [[Initial Teacher Training\|ITT]]] 与[[Complier Average Causal Effect\|顺从者平均因果效应]]（CACE））以及对[[Quasi-Experimental Designs\|准实验设计]]（QED）、[[Regression Discontinuity Design\|断点回归设计]]（RDD）和中断时间序列（[[Intelligent Tutoring Systems\|ITS]]）的采纳程度上存在显著断层(pp. 8–11)。
+> 所有清算中心均视[[Randomised Controlled Trials\|随机对照试验]]（RCT）为[[Causality\|因果推断]]的黄金标准，但在 RCT 实施质量的技术检验（流失、基线等值、分析层次、[[Intent-to-Treat Analysis\|意向治疗分析]] [Intention-to-Treat, [[Initial Teacher Training\|ITT]]] 与[[Complier Average Causal Effect\|顺从者平均因果效应]]（CACE））以及对[[Quasi-Experimental Designs\|准实验设计]]（QED）、[[Regression Discontinuity Design\|断点回归设计]]（RDD）和中断时间序列（[[Intelligent Tutoring Systems\|ITS]]）的采纳程度上存在显著断层(pp. 8–11)。
 
-> [!chain-link] 设计[[Coding in Qualitative Research\|编码]]与实施细则
+> [!chain-link] 设计编码与实施细则
 > 作者将清算中心对四类因果设计的描述程度编码为 0–3 级（0=不提及；1=简要提及但无标准；2=描述设计但无专属实施标准；3=提供专属因果推断与实施质量标准）。
 
 > [!index-table] Table 3：因果设计标准描述程度编码表（Extent of Description, 0–3）
@@ -259,7 +256,7 @@ updated: 2026-09-18
 > | **[[Blueprints for Healthy Youth Development\|Blueprints]]** | 2 | 1 | 0 | 0 |
 > | **[[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|CEBC]]** | 2 | 1 | 0 | 0 |
 > | **[[Home Visiting Evidence of Effectiveness\|HomVEE]]** | **3** | **3** | **3** | 0 |
-> | **[[Promising Practices Network\|PPN]]** | 1 | 1 | 0 | 0 |
+> | **PPN** | 1 | 1 | 0 | 0 |
 > | **[[Best Evidence Encyclopedia\|BEE]]** | 1 | 1 | 0 | 0 |
 > | **[[National Dropout Prevention Center\|NDPC]]** | 1 | 1 | 0 | 0 |
 > | **[[Social Programs That Work\|SPTW]]** | **3** | 1 | 0 | 0 |
@@ -272,7 +269,7 @@ updated: 2026-09-18
 > 1. **RCT 黄金标准的表象共识与实质割裂**
 >    - 虽然全部 12 个清算中心在名义上均赋予 RCT 最高优先级，但对于“何为高质量 RCT”的技术审查深度判若云泥。
 >    - **[[Cluster Randomized Trials\|集群随机对照试验]]（Cluster Randomized Controlled Trial, Cluster RCT）的致命处理** 在教育现场，[[Random Assignment\|随机化]]往往发生在学校或班级层面，而测量发生在学生个体层面。若不进行[[Hierarchical Linear Model\|多层线性模型]]（Hierarchical Linear Model, HLM）或群[[Intraclass Correlation Coefficient\|组内相关系数]]（Intraclass Correlation Coefficient, ICC）校正，[[Standard Error\|标准误]]将被严重低估，导致虚假显著性。全库仅 WWC 制定了详尽的集群偏倚防范与自由度调整规程；多数机构（如 NDPC、CASEL）甚至无法识别集群与[[Unit of Analysis\|分析单位]]错位问题。
->    - **样本流失（[[Attrition]]）与选择偏差** WWC 建立了著名的“整体流失 vs 差异流失”边界模型（允许最大潜在偏倚在 0.05 个标准差 [Standard Deviation, SD] 以内）；SPTW 与 CMFR 仅设定了粗糙的 20% 流失率上限；Blueprints 则要求对脱落者与保留者实施双重卡方/[[t-test\|t检验]]。这意味着同一篇因流失被 WWC 降级的 RCT，在其他清算中心可能轻松获评最高质量。
+>    - **[[Attrition|样本流失]]（[[Attrition]]）与选择偏差** WWC 建立了著名的“整体流失 vs 差异流失”边界模型（允许最大潜在偏倚在 0.05 个标准差 [Standard Deviation, SD] 以内）；SPTW 与 CMFR 仅设定了粗糙的 20% 流失率上限；Blueprints 则要求对脱落者与保留者实施双重卡方/[[t-test\|t检验]]。这意味着同一篇因流失被 WWC 降级的 RCT，在其他清算中心可能轻松获评最高质量。
 > 2. **意向治疗分析（ITT） vs 顺从者平均因果效应（CACE）之争**
 >    - Blueprints、SPTW 等坚持公共卫生传统的机构强制要求 ITT（即不论学生实际上了几节课，只要被分入实验组均计入分析），以避免依从性偏倚（[[Strategic Compliance|compliance]] bias）；
 >    - WWC 则在严格满足工具[[Variable\|变量]]排除性约束（exclusion restriction）的前提下，允许报告针对实际参与者的 CACE 估计。这反映出各中心在“评估政策推广效果（ITT）”还是“评估干预纯生理/心理效能（CACE）”上的根本哲学分歧。
@@ -400,7 +397,7 @@ updated: 2026-09-18
 ### 步骤五：五大深度案例拆解与分歧归因
 
 > [!claim] 步骤五主张
-> 通过对五个知名成熟教育干预案例（[[Open Court Reading\|开放式阅读]] [OCR]、人人成功 [SFA]、[[Peer-Supported Learning\|同伴互助学习]]策略 [[Peer-Assisted Learning Strategies\|PALS]]、[[Quantum Opportunity Program\|量子机会项目]] [[Quantum Opportunity Program\|QOP]] / EQOP]、[[Communities in Schools\|校内社区]] CIS）的深入追踪，证明评级分歧主要是由证据综合门槛差异（独立复制与长期持续效果）和纳入[[Document\|文献]]池差异驱动的，结果域细分与项目变体差异则是重要的次要调节因素(pp. 21–26)。
+> 通过对五个知名成熟教育干预案例（[[Open Court Reading\|开放式阅读]] [OCR]、人人成功 [SFA]、[[Peer-Supported Learning\|同伴互助学习]]策略 [[Peer-Assisted Learning Strategies\|PALS]]、[[Quantum Opportunity Program\|量子机会项目]] [[Quantum Opportunity Program\|QOP]] / EQOP]、[[Communities in Schools\|校内社区]] CIS）的深入追踪，证明评级分歧主要是由证据综合门槛差异（独立复制与长期持续效果）和纳入文献池差异驱动的，结果域细分与项目变体差异则是重要的次要调节因素(pp. 21–26)。
 
 > [!chain-link] 案例一：开放式阅读（[[Open Court Reading]], OCR） —— 表面结论一致掩盖底层评估分歧
 > 小学早期读写项目，被 [[What Works Clearinghouse\|WWC]]、[[Blueprints for Healthy Youth Development\|Blueprints]] 和 [[Best Evidence Encyclopedia\|BEE]] 三家清算中心共同评价，均判定为“有望（Promising / Modest Evidence）”，但底层评价机制存在深刻分歧(pp. 22–23)：
@@ -472,7 +469,7 @@ updated: 2026-09-18
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **清算中心制度与方法标准高度异质** 12 个教育清算中心在使命领域、资金规模（[[What Works Clearinghouse\|WWC]] 获超 1 亿美元资助）和评估对象上高度分化；虽普遍推崇 [[Randomised Controlled Trials\|RCT]]，但在集群处理、[[Attrition\|流失]]模型、[[Quasi-Experimental Designs\|QED]] 采纳和综合门槛上缺乏统一标准(pp. 6–15)。
+> 1. **清算中心制度与方法标准高度异质** 12 个教育清算中心在使命领域、资金规模（[[What Works Clearinghouse\|WWC]] 获超 1 亿美元资助）和评估对象上高度分化；虽普遍推崇 [[Randomised Controlled Trials\|RCT]]，但在集群处理、流失模型、[[Quasi-Experimental Designs\|QED]] 采纳和综合门槛上缺乏统一标准(pp. 6–15)。
 > 2. **多重评级极度稀疏（仅 16.8%）** 1,359 个项目中 83.2% 仅由单一清算中心评级；仅有 16.8% 的项目拥有可供交叉验证的多重评级，且无任何项目被超过 5 个中心共同评估(p. 18)。
 > 3. **评级一致性极低且高度偏向“不推荐”** 多重评级配对中完全一致率仅约 30%，且一致性主要体现为共同判定为“无效/不推荐”；在两家中心共同评价时，完全对立冲突（推荐 vs 不推荐）占比高达 35.4%(pp. 18–20)。
 > 4. **分歧主因在于综合证据门槛而非因果偏好** 评级不一致的最主要来源是各中心对“独立复制”和“12 个月[[Fade-out Effect\|持续效果]]”的要求不同，以及[[Literature Search\|文献检索]]范围与准入门槛（如强制同行评审）的差异(pp. 26–27)。
@@ -514,7 +511,7 @@ updated: 2026-09-18
 > 1. **未考察政策制定者的实际使用行为** 论文未追踪[[School Leadership\|学校领导]]与政策制定者在实际采购和项目采纳过程中如何使用清算中心评级，无法实证评估评级不一致对实际教育实践造成的具体损害程度(p. 28)。
 > 2. **结论适用范围局限于认证类清算中心** 研究仅覆盖以“认证干预有效性”为核心任务的清算中心，不能直接推广至仅承担[[Educational Brokerage Agency\|知识经纪]]、证据中介或不发布有效性等级的其他证据机构(pp. 28–29)。
 > 3. **依赖公开网络文档与手册** 分析完全基于清算中心公开发布的网页信息、标准指南与技术手册；若机构内部存在未公开的实际评审裁决规则，本研究无法对其进行捕获与评估(p. 29)。
-> 4. **动态生态的时间切片局限** 数据收集集中于 2019 年 6 月至 2020 年 8 月，清算中心的评审协议、纳入[[Document\|文献]]与网站架构随时间处于动态演进之中，各中心吸纳最新方法学标准的速度亦存在异步性。
+> 4. **动态生态的时间切片局限** 数据收集集中于 2019 年 6 月至 2020 年 8 月，清算中心的评审协议、纳入文献与网站架构随时间处于动态演进之中，各中心吸纳最新方法学标准的速度亦存在异步性。
 
 ---
 

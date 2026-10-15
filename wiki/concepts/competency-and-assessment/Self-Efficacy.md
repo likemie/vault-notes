@@ -9,7 +9,7 @@ aliases:
 summary: "阿尔伯特·班杜拉提出的社会认知动机核心构念，指个体对自身在特定任务情境中组织并执行必要行动以达成特定目标的胜任信念；通过预期、努力持久度与目标设定调节学习与教学，并在支架式探究与认识论实践中作为亲历掌握经验塑造的学科胜任信念与科学知者身份认同关键成果。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 43
+related_count: 40
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -32,14 +32,12 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Constructivist Paradigm]]"
   - "[[Learning Style Myth]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Variable]]"
   - "[[Epistemology]]"
   - "[[Discourse]]"
   - "[[Direct Instruction]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Nature of Science]]"
-  - "[[Hypothesis]]"
   - "[[Epistemic Agency]]"
   - "[[Epistemic Practices]]"
   - "[[Learner Autonomy]]"
@@ -49,7 +47,6 @@ related_concepts:
   - "[[Refutational Evidence]]"
   - "[[Voluntarism]]"
   - "[[Dependent Variable]]"
-  - "[[Document]]"
   - "[[Chain of Evidence]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
@@ -71,7 +68,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-23
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Self-Efficacy
@@ -160,7 +157,7 @@ updated: 2026-10-07
 > 阐明缺乏科学依据的伪科学教育神话（如[[Learning Style Myth\|学习风格假说]]）如何通过将学习者固化为单一感官类型，破坏学生在多通道任务中的胜任信念，形成人为的认知设限与动机抑制。
 
 > [!claim] [[Argument_Besa_2024_UW\|Besa, 2024]]
-> **本质主义分类定型对学习者自我效能感的习得性削弱** 在缺乏实证[[Transfer Translation Transformation\|转译]]的课堂实践中广泛流行的[[Learning Style Myth\|学习风格神话]]（Lerntypenmythos），诱导教师、学生与家长将学习者划分为“视觉型”、“听觉型”或“动觉型”等孤立类别。这种本质主义分类（Nancekivell et al., 2020）诱使学生将特定感官通道的偏好错误等同于自身能力的不可变边界，极大地削弱了学生在非偏好通道或多模态深度学习任务上的自我效能感，导致其主动回避需要综合运用多元表征的复杂认知活动，在心理层面上造成自我设限与潜能抑制。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 252)]]
+> **本质主义分类定型对学习者自我效能感的习得性削弱** 在缺乏实证转译的课堂实践中广泛流行的[[Learning Style Myth\|学习风格神话]]（Lerntypenmythos），诱导教师、学生与家长将学习者划分为“视觉型”、“听觉型”或“动觉型”等孤立类别。这种本质主义分类（Nancekivell et al., 2020）诱使学生将特定感官通道的偏好错误等同于自身能力的不可变边界，极大地削弱了学生在非偏好通道或多模态深度学习任务上的自我效能感，导致其主动回避需要综合运用多元表征的复杂认知活动，在心理层面上造成自我设限与潜能抑制。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 252)]]
 
 ---
 
@@ -180,7 +177,7 @@ updated: 2026-10-07
 > 探讨自主探究与微观[[Discourse|话语]]协商实践相较于单向[[Direct Instruction\|直接讲授]]，如何通过引导学生深度参与真实科学[[Knowledge Building Theory|知识建构]]，直接提供亲历掌握经验以提升其学科自我效能感，并建立合法的科学知者身份。
 
 > [!claim] [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]
-> **探究体验对科学自我效能感与认识论动因的独特培育** 在科学教育与教学法争论中，教学成效的衡量不能窄化为孤立的概念性事实测验。实证研究明确表明，[[Inquiry-Based Learning\|探究式学习]]在激发学生的[[Nature of Science\|科学本质]]（Nature of Science, NOS）认知、探究实践素养、科学学习兴趣以及自我效能感等非认知与认识论维度上具有直接讲授无法替代的独特育人价值；依照[[Albert Bandura\|班杜拉]]的社会认知理论，亲历掌握经验（Mastery Experiences）是自我效能感最稳固的信息来源，在支架式探究中，学生通过自主提出[[Hypothesis\|假设]]、[[Design-Based Research\|设计实验]]并解决真实认知阻碍，亲身获得了作为“知识发现者与检验者”的具身掌握体验，从而显著强化了面对复杂科学挑战时的胜任信念与认识论动因（[[Epistemic Agency]]）。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 10)]]
+> **探究体验对科学自我效能感与认识论动因的独特培育** 在科学教育与教学法争论中，教学成效的衡量不能窄化为孤立的概念性事实测验。实证研究明确表明，[[Inquiry-Based Learning\|探究式学习]]在激发学生的[[Nature of Science\|科学本质]]（Nature of Science, NOS）认知、探究实践素养、科学学习兴趣以及自我效能感等非认知与认识论维度上具有直接讲授无法替代的独特育人价值；依照[[Albert Bandura\|班杜拉]]的社会认知理论，亲历掌握经验（Mastery Experiences）是自我效能感最稳固的信息来源，在支架式探究中，学生通过自主提出假设、[[Design-Based Research\|设计实验]]并解决真实认知阻碍，亲身获得了作为“知识发现者与检验者”的具身掌握体验，从而显著强化了面对复杂科学挑战时的胜任信念与认识论动因（[[Epistemic Agency]]）。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 10)]]
 
 > [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]]
 > **教师元话语与[[Epistemic Practices\|认识论实践]]对学生科学效能感与身份认同的建构** 在多元文化与包容性科学课堂中，学生的学科自我效能感并非纯粹源于个体孤立的心智运算，而是在微观认识论实践中通过合法的边缘性参与逐步生成的。实证[[Discourse Analysis\|话语分析]]表明，当教师运用显性元话语（meta-discourse，如引导学生“像科学家一样依据实测数据进行论辩与检验”）对探究过程进行支架式中介时，原本在课堂互动中处于边缘地位或缺乏自信的学生得以调用先前记录的数据参与知识主张的提出与评估。这种真实的认知参与赋予了学生强烈的知者地位，使其在意义协商中体验到自身言论对共同体知识建构的实际影响力，从而从根本上重塑其作为科学探究者的自我效能感与学术身份认同。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 146–147, 159 引用 Reveles et al., 2004)]]
@@ -238,7 +235,7 @@ updated: 2026-10-07
 > |---|---|---|---|---|---|---|---|
 > | [[Argument_Bergeron_2015_TeachingTOK\|Bergeron & Rogers (2015)]] | [[Theory of Knowledge\|TOK]]教龄：4-9年中等经验组 vs 1-3年新手组 | 教学信心量表得分（教师自我效能感代理指标） | 274 vs 289 | 4-9年组 M=3.35(SD=0.42) vs 新手组 M=3.17(SD=0.47) | $d = 0.40$* | $p<.001$ | 量化横截面调查。证明了在教授复杂探究性课程时，长期的实践经验能提升教师自我效能。高度依赖自我报告数据。（*注：效应量基于原文 M, SD, N 补算） |
 > | 同上（Bergeron & Rogers） | TOK教龄：10年以上资深组 vs 1-3年新手组 | 教学信心量表得分（教师自我效能感代理指标） | 105 vs 289 | 10年以上组 M=3.40(SD=0.40) vs 新手组 M=3.17(SD=0.47) | $d = 0.51$* | $p<.001$ | 同上。 |
-> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | [[Inquiry-Based Learning\|指导式探究]]学习 vs. 传统单向[[Direct Instruction\|直接讲授]] | 科学自我效能感、科学探究实践素养与[[Nature of Science\|科学本质]]（NOS） | K-12 科学探究[[Document\|文献]]综合与实证综述 | — | 探究在非认知与效能维度展现独特增益 | 综合文献[[Chain of Evidence\|证据链]]确证 | [[Systematic Review\|系统综述]]；确立探究式教学在培养自我效能感、科学兴趣等[[Epistemology\|认识论]]维度的独特不可替代性 |
+> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | [[Inquiry-Based Learning\|指导式探究]]学习 vs. 传统单向[[Direct Instruction\|直接讲授]] | 科学自我效能感、科学探究实践素养与[[Nature of Science\|科学本质]]（NOS） | K-12 科学探究文献综合与实证综述 | — | 探究在非认知与效能维度展现独特增益 | 综合文献[[Chain of Evidence\|证据链]]确证 | [[Systematic Review\|系统综述]]；确立探究式教学在培养自我效能感、科学兴趣等[[Epistemology\|认识论]]维度的独特不可替代性 |
 
 ---
 

@@ -6,7 +6,7 @@ aliases:
 summary: "区别于因果事件和因果输入-输出模型的动态因果观，将因果性视为随时间展开的过程，涉及动机、语境和因素之间的动态互动"
 type: concept
 domain: "educational-philosophy"
-related_count: 8
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -17,7 +17,6 @@ tags:
 related_concepts:
   - "[[Causality]]"
   - "[[Variable]]"
-  - "[[Hypothesis]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
 related_theories: []
@@ -31,7 +30,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-18
-updated: 2026-09-11
+updated: 2026-10-15
 ---
 
 # Causal Processes
@@ -61,7 +60,7 @@ updated: 2026-09-11
 > 在多重因果、交互关联的世界中，将原因视为随时间展开的过程（processes）而非单一事件，是更恰切的刻画方式。因果过程——以高粒度捕捉——通常比因果事件更接近识别因果运作以及原因与效果之间的连接。
 
 > [!claim] 统计不能证明因果过程
-> 统计能表明有力的关系，但未必能建立明确、直接的因果性。它们可以建立因果的"是什么"但不能建立"如何"。是因果**机制**而非数字和统计解释，才是因果研究的核心关切。即使更复杂的统计（结构方程模型、[[Multiple Regression\|多元回归]]）也面临同一批评：它们的力量不可能强大过支撑它们的因果[[Hypothesis\|假设]]，通常在追求简洁模型的过程中严重简化了情境中原因的数量或范围。
+> 统计能表明有力的关系，但未必能建立明确、直接的因果性。它们可以建立因果的"是什么"但不能建立"如何"。是因果**机制**而非数字和统计解释，才是因果研究的核心关切。即使更复杂的统计（结构方程模型、[[Multiple Regression\|多元回归]]）也面临同一批评：它们的力量不可能强大过支撑它们的因果假设，通常在追求简洁模型的过程中严重简化了情境中原因的数量或范围。
 
 ## 应用案例
 

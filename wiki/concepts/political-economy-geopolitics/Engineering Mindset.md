@@ -6,7 +6,7 @@ aliases:
 summary: "指在解决高度复杂现实危机与工程挑战过程中形成的一种以实战结果、系统演化、敏捷协作与权责对称机制为核心的组织文化与协同范式；在卡普与扎米斯卡（2025）的论证中，工程思维是互联网泡沫破裂与软件世纪洗礼后留下的最具颠覆性的组织制度遗产，它打破了官僚体制的避险合规与程序虔敬迷思，构成了重塑西方公共治理与重建技术共和国的核心组织基石。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 76
+related_count: 74
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -43,7 +43,6 @@ related_concepts:
   - "[[Symphony Orchestra Model]]"
   - "[[Meeting-Industrial Complex]]"
   - "[[Pecking Order]]"
-  - "[[Hypothesis]]"
   - "[[Epoché]]"
   - "[[Founder Culture]]"
   - "[[Predictive Policing]]"
@@ -60,7 +59,6 @@ related_theories:
   - "[[Organizational Culture]]"
   - "[[Hedgehog and Fox Model]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Role-playing]]"
   - "[[Five Whys]]"
   - "[[Effect Size]]"
@@ -103,7 +101,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Engineering Mindset
@@ -118,7 +116,7 @@ updated: 2026-10-08
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种从程序合规、文件审批与形式主义道德虔敬转向以真实世界可运行结果（Working [[Artefact|artifacts]]）为导向的组织运行哲学。
 > - **用途** 为打破政府、军工采购与大型官僚机构的僵化体制提供具有实战验证的组织重构范式。
-> - **边界** 区别于狭义的理工科专业技能或[[Coding in Qualitative Research|编码]]操作；它是一种跨层级、重实效的通用组织与治理文化。
+> - **边界** 区别于狭义的理工科专业技能或编码操作；它是一种跨层级、重实效的通用组织与治理文化。
 
 > [!citation-card] [[Hyman Rickover|里科弗]]论打破体制规章与交付实战成果
 > 当副手拿着一本美国海军规章手册来到办公室时，海曼·里科弗（[[Hyman Rickover]]）直接让其滚出去并烧掉规章手册。“我的职责不是在体制内四平八稳地工作，我的职责是把事情办成。”[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 185)]]
@@ -265,7 +263,7 @@ updated: 2026-10-08
 > 阐明拒绝形而上学大理论、拥抱概率演化与多层根因复盘的认识论内核。
 
 > [!claim] [[Alexander Karp|Karp, A. C.]], & [[Nicholas Zamiska|Zamiska, N. W.]]
-> **“极致狐狸”实证认知与[[Five Whys|五问法]]系统复盘断言** 亚历山大·卡普与尼古拉斯·扎米斯卡引入[[Isaiah Berlin|以赛亚·柏林]]与[[Philip Tetlock|菲利普·泰特洛克]]的[[Hedgehog and Fox Model|刺猬与狐狸思维模型]]，指出工程思维本质上是一种极致的狐狸型认识论——将世界视作如流动云团般复杂多变的动态系统，随时依据物理代码运行的客观反馈修正[[Hypothesis|假设]]，打破追求单一自洽大理论的[[Determinism|决定论]]偏见；在组织微观管理中，工程思维依托[[Taiichi Ohno|大野耐一]]的[[Five Whys|五问法]]开展免责式深层根因复盘，将软件延期等系统性故障层层穿透至预算分配与人际动态根源，并在如[[Lucian Freud|卢西安·弗洛伊德]]般[[Epoché|悬置]]先验偏见的冷峻观察中，将求真工程本能导向国家战略使命。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 159–167)]]
+> **“极致狐狸”实证认知与[[Five Whys|五问法]]系统复盘断言** 亚历山大·卡普与尼古拉斯·扎米斯卡引入[[Isaiah Berlin|以赛亚·柏林]]与[[Philip Tetlock|菲利普·泰特洛克]]的[[Hedgehog and Fox Model|刺猬与狐狸思维模型]]，指出工程思维本质上是一种极致的狐狸型认识论——将世界视作如流动云团般复杂多变的动态系统，随时依据物理代码运行的客观反馈修正假设，打破追求单一自洽大理论的[[Determinism|决定论]]偏见；在组织微观管理中，工程思维依托[[Taiichi Ohno|大野耐一]]的[[Five Whys|五问法]]开展免责式深层根因复盘，将软件延期等系统性故障层层穿透至预算分配与人际动态根源，并在如[[Lucian Freud|卢西安·弗洛伊德]]般[[Epoché|悬置]]先验偏见的冷峻观察中，将求真工程本能导向国家战略使命。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 159–167)]]
 
 ---
 

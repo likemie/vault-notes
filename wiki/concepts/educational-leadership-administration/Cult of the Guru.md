@@ -5,7 +5,7 @@ aliases:
 summary: "Eacott 提出的批判概念，指教育领导力领域对单一权威人物及其研究的不加批判接受与制度化追捧，用于分析学术权威如何塑造知识议程。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 36
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -19,7 +19,6 @@ related_concepts:
   - "[[Cult of Efficiency]]"
   - "[[Visible Learning]]"
   - "[[School Leadership]]"
-  - "[[Document]]"
   - "[[Transformative Leadership]]"
   - "[[Instructional Leadership]]"
   - "[[Return on Investment]]"
@@ -60,7 +59,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-03
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 ## 定义
@@ -91,7 +90,7 @@ updated: 2026-09-22
 > - 此前的大规模教学改革（QSRLS、New Basics、Quality Teaching）聚焦课程/教学/评估三系统，但[[School Leadership\|学校领导]]的实际教学领导时间极少——需要的是能"用行政语言说话"的证据([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.416]])
 >
 > **（2）Hattie 的工作用行政语言说话**
-> - Robinson, Lloyd, & Rowe（2008）的[[Meta-analysis\|元分析]]为教育行政[[Document\|文献]]引入[[Effect Size\|效应量]]语言，打破[[Transformative Leadership\|变革型领导力]]的主导地位，推动[[Instructional Leadership\|教学领导力]]重新成为焦点——但缺少"具体做什么"的操作指南([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.417-418]])
+> - Robinson, Lloyd, & Rowe（2008）的[[Meta-analysis\|元分析]]为教育行政文献引入[[Effect Size\|效应量]]语言，打破[[Transformative Leadership\|变革型领导力]]的主导地位，推动[[Instructional Leadership\|教学领导力]]重新成为焦点——但缺少"具体做什么"的操作指南([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.417-418]])
 > - Hattie 的[[Meta-meta-analysis\|元-元分析]]填补了这一空白：800+ 元分析、52,637 项研究、138 个因素按效应量排名——"终于有了用行政语言说话的研究"而非教学模型([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.418]])
 > - d=0.40 等同于一个学年的换算使行政人员可以按"[[Return on Investment\|投资回报]]"逻辑决策——在何处投资、何处不投资，成为学校行政的核心计算([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.418-419]])
 >

@@ -7,7 +7,7 @@ title: "Argument_Cai_Gao_Liu_2025_HE"
 argument_key: "Argument_Cai_Gao_Liu_2025_HE"
 argument_display_title: "Constructing a Guangdong-Hong Kong-Macau Greater Bay Area social space: Cross-sectoral experiences of key node university faculties"
 argument_kind: "journal-article"
-argument_related_count: 12
+argument_related_count: 11
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -40,7 +40,6 @@ related_theories:
 related_methods:
   - "[[Semi-structured Interview]]"
   - "[[Purposeful Sampling]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Network Analysis]]"
   - "[[Qualitative Interview]]"
 related_persons: []
@@ -84,7 +83,7 @@ updated: 2026-10-10
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **半结构化访谈**<br>Semi-structured Interviews | 39 名来自深圳、广州、香港、澳门的大学教师，通过[[Purposeful Sampling\|目的性抽样]]（分析教师档案、机构网站和媒体报道识别跨部门经验者）和滚雪球招募。30 人确认为活跃的关键节点。学科覆盖 STEM 和社会科学与人文（SSH）。线上线下结合，2023 年 9-11 月，平均每次 1 小时 |
-> | **主题分析**<br>Thematic Analysis | 先逐个关键节点分析，再跨类别比较（特别行政区 vs 广东、产业中介 vs 政府或民间协会中介）。归纳[[Coding in Qualitative Research\|编码]]与理论框架的演绎编码相结合 |
+> | **主题分析**<br>Thematic Analysis | 先逐个关键节点分析，再跨类别比较（特别行政区 vs 广东、产业中介 vs 政府或民间协会中介）。归纳编码与理论框架的演绎编码相结合 |
 > | **补充材料**<br>Supplementary Evidence | 政策文件（如《[[Guangdong-Hong Kong-Macau Greater Bay Area\|粤港澳大湾区]]发展规划纲要》）、投资统计和资助计划、机构基础设施信息 |
 
 ---

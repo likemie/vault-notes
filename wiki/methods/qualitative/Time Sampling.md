@@ -13,7 +13,7 @@ summary: "一种在预先设定的时间间隔或离散时间点上对特定目�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 25
+method_related_count: 24
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -37,7 +37,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Observation Method]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Classroom Observation]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Mixed Methods Research]]"
@@ -67,7 +66,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 方法定义
-> 时间抽样法（Time Sampling）是一种在行为[[Observation Method|观察研究]]中依据预先设定的时间单位、固定时间间隔或离散时间点，对特定行为或事件是否发生及其持续状态进行系统[[Coding in Qualitative Research|编码]]的数据采集技术。该方法通过将连续流动的复杂互动解构为离散的时间切片，规避了观察员需要全神贯注进行连续秒级计时的认知负荷，为行为频率、发生率与时间占比的量化推断提供了高[[Reliability|信度]]的标准化规程。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 8, 16)]]
+> 时间抽样法（Time Sampling）是一种在行为[[Observation Method|观察研究]]中依据预先设定的时间单位、固定时间间隔或离散时间点，对特定行为或事件是否发生及其持续状态进行系统编码的数据采集技术。该方法通过将连续流动的复杂互动解构为离散的时间切片，规避了观察员需要全神贯注进行连续秒级计时的认知负荷，为行为频率、发生率与时间占比的量化推断提供了高[[Reliability|信度]]的标准化规程。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 8, 16)]]
 
 在外部[[Classroom Observation|课堂观察]]与生态行为评估中，时间抽样法界定了观察员注意力分配与数据编码的结构化边界。
 
@@ -100,7 +99,7 @@ updated: 2026-10-15
 > - **研究设计** [[Structured Observation|结构化观察]]设计、课堂生态微观时间计量研究。
 > - **数据收集** 瞬时定格快照技术（Momentary Time Sampling, MTS）、全时段间隔抽样（Whole-Interval Sampling）或部分时段抽样（Partial-Interval Sampling）。
 > - **分析方法** 频数分布统计、非参数[[Chi-Squared Test|卡方检验]]、潜[[Cluster Analysis|类别分析]]及跨期增值模型[[Covariate Adjustment|协变量控制]]。
-> - **辅助技术** 秒表定时提醒、平板电脑移动[[Coding in Qualitative Research|编码]]应用、双观察员[[Reliability|信度]]校准。
+> - **辅助技术** 秒表定时提醒、平板电脑移动编码应用、双观察员[[Reliability|信度]]校准。
 
 ---
 
@@ -112,7 +111,7 @@ updated: 2026-10-15
 > 1. **界定目标行为体系** 明确待测行为的[[Operationalization|操作化]]判据，建立清晰的“是/否”或等级判断分类标准。
 > 2. **设定抽样时间网格** 依据[[Research Purpose|研究目的]]确定观察总时长、观察片段划分（如双段 15 分钟）以及定格扫视的具体时间锚点（如每片段的第 4、9、14 分钟）。
 > 3. **执行定格扫描** 观察员在计时器到达预定锚点瞬间，进行历时 1–10 秒的自左至右全班扫视，严禁将扫视前后的行为带入打分。
-> 4. **双轨同步[[Coding in Qualitative Research|编码]]** 首先判定环境组织者（如教师）是否在轨供给，随后在供给成立前提下记录受众个体（如学生）的在轨/离轨规模。
+> 4. **双轨同步编码** 首先判定环境组织者（如教师）是否在轨供给，随后在供给成立前提下记录受众个体（如学生）的在轨/离轨规模。
 > 5. **汇总与[[Reliability|信度]]检验** 计算跨时间点的发生率指标，通过跨评分者一致性测验（如通过率门槛达 80%）确保数据可靠性。
 
 ### 质性方法模块
@@ -164,7 +163,7 @@ updated: 2026-10-15
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
 > | [[Structured Observation]] | 上位方法 | 时间抽样法是结构化[[Classroom Observation\|课堂观察]]的核心数据采集技术之一。 |
-> | [[Observation Protocol]] | 配套工具 | 时间抽样的具体时间节点与[[Coding in Qualitative Research\|编码]]准则依托标准化观察规程予以固化。 |
+> | [[Observation Protocol]] | 配套工具 | 时间抽样的具体时间节点与编码准则依托标准化观察规程予以固化。 |
 > | [[Time on Task]] | 对应[[Construct\|构念]] | 时间抽样法在教育研究中最典型的测量对象与[[Operationalization\|操作化]]依托。 |
 > | [[Inter-Rater Reliability]] | 效度检验 | 时间抽样通过降低认知负荷，旨在大幅提升跨评分者间的一致性。 |
 

@@ -11,7 +11,7 @@ summary: "同时操纵两个或多个自变量以检验主效应与交互效应�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 39
+method_related_count: 38
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Causality]]"
   - "[[Evidence-Based Education]]"
   - "[[Unit of Analysis]]"
-  - "[[Hypothesis]]"
   - "[[Implementation Fidelity]]"
   - "[[Dependent Variable]]"
   - "[[Business as Usual]]"
@@ -66,7 +65,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 # Factorial Design
 
@@ -88,7 +87,7 @@ updated: 2026-09-17
 ## 方法定位
 
 > [!method-position] 在实验设计中的独特位置
-> - **超越单因子黑箱实验** 单因子实验只能回答“复合方案 X 是否有效”，无法辨析究竟是哪一个关键组件在起效；因子设计通过同时操纵多个独立组分，能在单一试验中同时检验多个因果[[Hypothesis\|假设]]，具有极高的方法学经济性与诊断力。
+> - **超越单因子黑箱实验** 单因子实验只能回答“复合方案 X 是否有效”，无法辨析究竟是哪一个关键组件在起效；因子设计通过同时操纵多个独立组分，能在单一试验中同时检验多个因果假设，具有极高的方法学经济性与诊断力。
 > - **[[Realist Evaluation\|现实主义试验]]的方法学载体** 现实主义评估强调情境与机制的[[Interaction Effect\|交互作用]]；因子设计通过构建因子与微观情境的正交组合，成为验证“何种组件在何种条件下有效”的定量实验金标准。
 > - **高阶交互的解释边界** 当因子数量达到三个或以上时（如 $2 \times 2 \times 2$），三向及更高阶交互效应的统计功效急剧下降，且在教育实践中往往难以赋予清晰的理论诠释。
 
@@ -118,7 +117,7 @@ updated: 2026-09-17
 > 5. **绘制交互图示与[[Effect Size\|效应量]]评估** 绘制边际均值走向图，报告各效应量及[[Confidence Interval\|置信区间]]（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch8]]）。
 
 > [!proc] 复杂教育干预的多臂析因现场试验实施流程
-> 1. **[[Theory of Change\|变革理论]]要素解构** 基于因果理论模型，将复合教育干预拆解为独立的[[Hypothesis\|假设]]驱动因子（如因子 A：技术软件自学；因子 B：教师面对面主导辅导）。
+> 1. **[[Theory of Change\|变革理论]]要素解构** 基于因果理论模型，将复合教育干预拆解为独立的假设驱动因子（如因子 A：技术软件自学；因子 B：教师面对面主导辅导）。
 > 2. **构建正交多臂分配矩阵** 设立 $2 \times 2$ 实验臂（A处理、B处理、A+B组合处理、[[Business as Usual\|常态教学]]对照组），在[[Cluster Randomized Trials\|集群随机对照试验]]中分配学校或班级。
 > 3. **嵌入[[Implementation and Process Evaluation\|实施与过程评估]]（IPE）** 对各实验臂的[[Implementation Fidelity\|实施保真度]]（Fidelity）、师生顺应度与常态对照基线活动进行同步定性追踪，严防组间交叉污染。
 > 4. **主效应与交互效应多水平建模** 采用[[Hierarchical Linear Model\|分层线性模型]]（HLM）控制学校集群效应，分别估计离散组件的净效应与组合交互效应。
@@ -159,7 +158,7 @@ updated: 2026-09-17
 ## 典型案例
 
 > [!case] 复杂干预组件剥离：从单维度黑箱走向多臂析因现场试验（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 53–54]]）
-> - **案例一：“[[Literacy Octopus\|识字八爪鱼]]”[[Multi-Arm Trial\|多臂试验]]（Literacy Octopus Trial）** 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）动员全英 800 余所小学开展多臂试验（Lord et al., 2017），设置多个正交实验臂系统比对了 4 种证据传播与教学支持策略（涵盖被动邮件与资料寄送、主动研讨会培训以及专家入校深度辅导）。试验最终证实，单向被动寄送循证材料对学生成绩的净效应完全为零，有力推翻了“只要把研究报告寄到学校就能改善教学”的经验[[Hypothesis\|假设]]，倒逼英格兰重构基于人际互动与校际协作的[[Research Schools Network\|研究学校网络]]。
+> - **案例一：“[[Literacy Octopus\|识字八爪鱼]]”[[Multi-Arm Trial\|多臂试验]]（Literacy Octopus Trial）** 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）动员全英 800 余所小学开展多臂试验（Lord et al., 2017），设置多个正交实验臂系统比对了 4 种证据传播与教学支持策略（涵盖被动邮件与资料寄送、主动研讨会培训以及专家入校深度辅导）。试验最终证实，单向被动寄送循证材料对学生成绩的净效应完全为零，有力推翻了“只要把研究报告寄到学校就能改善教学”的经验假设，倒逼英格兰重构基于人际互动与校际协作的[[Research Schools Network\|研究学校网络]]。
 > - **案例二：ABRA 在线阅读支持多臂析因试验** 在 ABRA 数字化阅读干预试验中（McNally et al., 2018），评估团队采用析因逻辑系统剥离了“教育软件[[Learner Autonomy\|自主学习]]”与“教师面对面辅导”两个核心要素，分别检验了单一软件处理、单一教师辅导以及两者结合的离散成效，精准揭示了技术工具必须与教师专业支架深度协同方能释放因果效能的交互机制。
 
 ---
@@ -176,7 +175,7 @@ updated: 2026-09-17
 > | [[Realist Evaluation]] | 理论[[Paradigm\|范式]] | [[Realism in International Relations\|现实主义]]试验的核心操作工具，通过析因设计检验组件独立效应与情境交互。 |
 > | [[Implementation and Process Evaluation]] | 互补方法 | 过程评估用于监测析因各实验臂的现场[[Implementation Fidelity\|实施保真度]]，防止组间交叉污染。 |
 > | [[Solomon Four-Group Design]] | 特殊案例 | 所罗门四组设计本质上是处理因素 × 前测因素的 $2 \times 2$ 因子设计。 |
-> | [[Analysis of Variance]] | 统计工具 | 方差分析与方差分解是因子设计标准的数据分析与[[Hypothesis\|假设]]检验方法。 |
+> | [[Analysis of Variance]] | 统计工具 | 方差分析与方差分解是因子设计标准的数据分析与假设检验方法。 |
 
 ---
 

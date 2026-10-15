@@ -9,7 +9,7 @@ aliases:
 summary: "由美国哲学学会主持、Peter Facione 领衔 46 位国际学者达成的里程碑式共识报告，系统确立了批判性思维的六大核心认知技能与七大情意倾向双元框架"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 27
+theory_related_count: 24
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Construct Validity]]"
   - "[[Higher-Order Thinking Skills]]"
-  - "[[APA Style]]"
   - "[[Open-Mindedness]]"
   - "[[Lifelong Learning]]"
   - "[[Critical Thinking Disposition]]"
@@ -31,7 +30,6 @@ related_concepts:
   - "[[Phronesis]]"
   - "[[Construct]]"
   - "[[Mentorship]]"
-  - "[[Habitus]]"
   - "[[Scaffolding]]"
   - "[[Variable]]"
 related_theories:
@@ -41,7 +39,6 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Meta-analysis]]"
   - "[[Correlational Research]]"
-  - "[[Coding in Qualitative Research]]"
 related_instruments:
   - "[[California Critical Thinking Disposition Inventory]]"
   - "[[California Critical Thinking Skills Test]]"
@@ -55,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-09-23
+updated: 2026-10-15
 ---
 
 # APA Delphi Consensus on Critical Thinking
@@ -68,7 +65,7 @@ updated: 2026-09-23
 > - **解释对象** [[Critical Thinking\|批判性思维]]（Critical Thinking）的本质内涵、核心构成要素、[[Operationalization\|操作化]]定义及其在教育评估中的通用标准。
 > - **理论问题** 回应 20 世纪 80 年代批判性思维领域派系林立、定义模糊、测量工具缺乏统一[[Construct Validity\|构念效度]]基准的学界困境。
 > - **理论类型** 规范性与操作化共识理论框架（Normative & Operational Consensus Framework）。
-> - **知识位置** 当代教育哲学、认知心理学与[[Higher-Order Thinking Skills\|高阶思维]]教学的奠基石。由美国哲学学会（[[APA Style\|APA]]）于 1988–1989 年发起，Peter A. Facione (1990) 担任首席研究员，联合 46 位国际顶尖学者（涵盖哲学、教育学、心理学与物理学领域的代表人物，如 [[Robert Ennis]]、Matthew Lipman、Richard Paul、Harvey Siegel、John McPeck 等）通过多轮[[Delphi Technique\|德尔菲法]]历时两年完成，成为后续所有重大实证综述（如 [[Argument_Abrami_2015_RER\|Abrami et al., 2008, 2015]]）的金标准。
+> - **知识位置** 当代教育哲学、认知心理学与[[Higher-Order Thinking Skills\|高阶思维]]教学的奠基石。由美国哲学学会（APA）于 1988–1989 年发起，Peter A. Facione (1990) 担任首席研究员，联合 46 位国际顶尖学者（涵盖哲学、教育学、心理学与物理学领域的代表人物，如 [[Robert Ennis]]、Matthew Lipman、Richard Paul、Harvey Siegel、John McPeck 等）通过多轮[[Delphi Technique\|德尔菲法]]历时两年完成，成为后续所有重大实证综述（如 [[Argument_Abrami_2015_RER\|Abrami et al., 2008, 2015]]）的金标准。
 
 > [!claim] 核心主张
 > 批判性思维是一种有目的的、自我调节的判断过程；它展现为**解释、分析、评价、推论、说明和自我调节**六大核心认知技能，并由**追求真理、[[Open-Mindedness|思想开放]]、审慎分析、系统条理、思维自信、探究好奇与认知成熟**七大情意倾向所驱动；认知技能与情意倾向共同构成了理性公民与[[Lifelong Learning\|终身学习]]者的双元支柱。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 277–278)]]
@@ -140,7 +137,7 @@ updated: 2026-09-23
 > [!proposition-chain] 命题推导
 > - **前提一** 德尔菲专家达成压倒性共识（95% 赞成率）：脱离情意倾向的认知技能容易退化为巧言令色的诡辩术（Sophistry），而缺乏认知技能的情意倾向则沦为盲目的热情。
 > - **前提二** 实证干预显示，教学干预能够同时显著促进技能（$g+ = 0.30$）与倾向（$g+ = 0.23$），且当融入[[Mentorship\|导师制]]时，倾向的获得达到最高峰值（$g+ = 0.38$）（[[Argument_Abrami_2015_RER\|Abrami et al., 2015]]）。
-> - **推导结论** 理想的批判性思维教学必须坚持“技能训练 + [[Habitus\|习性]]浸润”双轨并进，唯有将[[Scaffolding\|认知脚手架]]与导师榜样示范结合，才能实现德尔菲框架所倡导的理性全人发展。
+> - **推导结论** 理想的批判性思维教学必须坚持“技能训练 + 习性浸润”双轨并进，唯有将[[Scaffolding\|认知脚手架]]与导师榜样示范结合，才能实现德尔菲框架所倡导的理性全人发展。
 
 ---
 
@@ -158,7 +155,7 @@ updated: 2026-09-23
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 全文以 [[APA Style\|APA]] 德尔菲专家共识为理论基底与[[Variable\|变量]][[Coding in Qualitative Research\|编码]]标准，量化检验了德尔菲技能与倾向的教学成效。
+> - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 全文以 APA 德尔菲专家共识为理论基底与[[Variable\|变量]]编码标准，量化检验了德尔菲技能与倾向的教学成效。
 > - [[Critical Thinking Disposition]] — 深入阐述德尔菲情意倾向维度的理论机制与[[Meta-analysis\|元分析]]数据。
 > - [[California Critical Thinking Disposition Inventory]] — 基于德尔菲七维度开发的经典测量工具。
 > - [[Peter Facione]] — 德尔菲报告首席专家的人物档案。

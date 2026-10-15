@@ -8,7 +8,7 @@ summary: "密歇根州立大学杰出教授、国际数学与科学趋势研究�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 23
+person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -29,13 +29,9 @@ related_concepts:
   - "[[Learning Progression]]"
   - "[[Epistemic Ascent]]"
   - "[[Determinism]]"
-  - "[[Transfer Translation Transformation]]"
-  - "[[Document]]"
 related_theories:
   - "[[Institutional Isomorphism]]"
-  - "[[Theory of Mind]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Hierarchical Linear Model]]"
 related_instruments: []
 related_persons:
@@ -55,7 +51,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-09-28
+updated: 2026-10-15
 ---
 
 # William H. Schmidt
@@ -90,7 +86,7 @@ updated: 2026-09-28
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1990年代–2000年代初 — 课程解构与跨国实证诊断期** 针对美国教育界盲目自大的态度，通过对 50 余国课程文本与教科书的矩阵化[[Coding in Qualitative Research|编码]]分析，确立了学习机会（Opportunity to Learn, OTL）与国家课程结构对学业产出的因果决定机制。
+> - **1990年代–2000年代初 — 课程解构与跨国实证诊断期** 针对美国教育界盲目自大的态度，通过对 50 余国课程文本与教科书的矩阵化编码分析，确立了学习机会（Opportunity to Learn, OTL）与国家课程结构对学业产出的因果决定机制。
 >   - **代表著作** 《分散的视野：对美国中小学数学与科学教育的调查》（*A Splintered Vision: An Investigation of U.S. Science and Mathematics Education*, 1997）。
 >   - **关键概念／方法** 宽一英里深一英寸、学习机会（OTL）、跨国教材编码分析。
 > - **2000年代中–至今 — 倡导全国统一标准与实证辩护期** 从纯粹的批判者转向主动建构者，积极参与国家级课程改革顶层设计，致力于将学科逻辑、认知阶梯与公共政策过程深度缝合。
@@ -136,7 +132,7 @@ updated: 2026-09-28
 
 > [!person-network] 关系网络
 > - **政策倡导盟友** [[Achieve|阿奇夫]]（Achieve）总裁迈克尔·科恩（Michael Cohen）、[[The Education Trust|教育信托]]总裁卡蒂·海科克（Kati Haycock）与北卡罗来纳州前州长詹姆斯·B·亨特（James B. Hunt Jr.） — 共同在全美巡回推动通用学术标准。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 21)]]
-> - **实证交锋论敌** [[Grover Whitehurst|格罗弗·怀特赫斯特]]与汤姆·洛夫利斯（[[Theory of Mind|ToM]] Loveless） — 针对标准有效性展开长达数年的学术论战。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 21–22)]]
+> - **实证交锋论敌** [[Grover Whitehurst|格罗弗·怀特赫斯特]]与汤姆·洛夫利斯（ToM Loveless） — 针对标准有效性展开长达数年的学术论战。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 21–22)]]
 > - **关键项目依托** [[TIMSS]] — 施密特学术权威与国际比较实证数据的底层依托。
 
 ---
@@ -148,9 +144,9 @@ updated: 2026-09-28
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Common Core State Standards]] | 政策事实 | 为 CCSS 奠定“聚焦、严谨与连贯”的三大核心起草原则。 |
-> | [[TIMSS]] | 国际测评 | 担任全美研究协调员，将跨国课程数据[[Transfer Translation Transformation\|转译]]为推动国家改革的实证武器。 |
+> | [[TIMSS]] | 国际测评 | 担任全美研究协调员，将跨国课程数据转译为推动国家改革的实证武器。 |
 > | [[National Governors Association]] | 组织机构 | 作为核心学术顾问直接向全美州长协会宣讲国际对标经验。 |
 > | [[Achieve]] | 智库机构 | 深度参与 Achieve 主导的国际对标咨询委员会并共同起草奠基性白皮书。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | 实证[[Document\|文献]] | 详细记录施密特作为学者型[[Policy Entrepreneur\|政策企业家]]在 CCSS 各阶段动员研究证据的研究。 |
+> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | 实证文献 | 详细记录施密特作为学者型[[Policy Entrepreneur\|政策企业家]]在 CCSS 各阶段动员研究证据的研究。 |
 
 ---

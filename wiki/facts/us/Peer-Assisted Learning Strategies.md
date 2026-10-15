@@ -11,7 +11,7 @@ subtype: program
 region: "us"
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 36
+fact_related_count: 35
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Implementation Fidelity]]"
   - "[[Evidence Standards]]"
-  - "[[Document]]"
   - "[[Causality]]"
   - "[[Attrition]]"
   - "[[Dependent Variable]]"
@@ -72,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-09-18
+updated: 2026-10-15
 ---
 
 # Peer-Assisted Learning Strategies
@@ -117,7 +116,7 @@ updated: 2026-09-18
 > [!dev-timeline] 项目推进与实证演进
 > - **1990s — 基础模型构建与先导试验期** Fuchs 夫妇团队针对小学读写与数学学习障碍研发最初的互惠辅导流程，在田纳西州学区开展小样本干[[Pilot Testing\|预测试]]，确立音素[[Decodification\|解码]]与互惠辅导规则。
 > - **2000–2010 — 跨学段拓展与多中心 [[Randomised Controlled Trials\|RCT]] 验证** 获得联邦 OSEP 与 [[Institute of Education Sciences\|IES]] 资助，拓展至学前班（Kindergarten PALS）与高中阶段；开展多项严格的整群随机对照试验（如 McMaster et al., 2005; Sáenz et al., 2005），证实对英语学习者与学困生的显著效果。
-> - **2015–至今 — [[Every Student Succeeds Act\|ESSA]] 循证分级与跨清算所审查分歧** 对接《每个学生都成功法案》（ESSA）[[Evidence Standards\|证据标准]]，被约翰斯·霍普金斯大学[[Best Evidence Encyclopedia\|最佳证据百科全书]]（BEE）和 [[Evidence for ESSA]] 评定为中等/强证据方案；同时成为国际循证中介机构间[[Document\|文献]]割裂与标准差异的典型研究案型。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 23–24)]]
+> - **2015–至今 — [[Every Student Succeeds Act\|ESSA]] 循证分级与跨清算所审查分歧** 对接《每个学生都成功法案》（ESSA）[[Evidence Standards\|证据标准]]，被约翰斯·霍普金斯大学[[Best Evidence Encyclopedia\|最佳证据百科全书]]（BEE）和 [[Evidence for ESSA]] 评定为中等/强证据方案；同时成为国际循证中介机构间文献割裂与标准差异的典型研究案型。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 23–24)]]
 
 ---
 
@@ -156,7 +155,7 @@ updated: 2026-09-18
 
 ## 争议、局限与经验教训
 
-> [!debates] 核心争议（清算中心评级冲突与[[Document\|文献]]割裂）
+> [!debates] 核心争议（清算中心评级冲突与文献割裂）
 >
 > > [!axis] 文献池割裂与清算所评级冲突
 > > [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024, pp. 23–24)]] 剖析指出，PALS 成为教育实证综合中“文献池极端割裂与学科组件拆分引发评级冲突”的典型案型：
@@ -165,7 +164,7 @@ updated: 2026-09-18
 >
 > > [!axis] 刚性方法学门槛的“一票否决”争议
 > > - **CMFR 的 6 个月随访门槛** CMFR 纳入了 12 项研究，但因全部研究未收集干预结束后 6 个月的追踪数据，直接判定为证据不足；
-> > - **Blueprints 的因果过滤** 审查 18 项实证，其中 17 项因[[Attrition\|流失]]率或[[Cluster Analysis\|聚类分析]]问题被剔除，仅认证 1 项 [[Randomised Controlled Trials\|RCT]]，因缺乏独立复制止步于“有望”评级。
+> > - **Blueprints 的因果过滤** 审查 18 项实证，其中 17 项因流失率或[[Cluster Analysis\|聚类分析]]问题被剔除，仅认证 1 项 [[Randomised Controlled Trials\|RCT]]，因缺乏独立复制止步于“有望”评级。
 
 > [!lessons] 经验教训与启示
 > - **证据消费者的识别要求** 一线决策者不能孤立查看清算所的单一标签，必须考察具体学科组件（阅读 vs 数学）及纳入文献的方法学特征。
@@ -183,7 +182,7 @@ updated: 2026-09-18
 > | McMaster et al. (2005)（见 [[Argument_Slavin_2019_EP\|Slavin, 2019]]） | 小学 1 年级全班阅读教学干预样本 | 整群[[Randomised Controlled Trials\|随机对照试验]]（[[Cluster Randomized Trials\|Cluster RCT]]） | 标准化阅读综合测验 | 效应量 $ES = +0.58\text{ SD}$ | 达到 [[Every Student Succeeds Act\|ESSA]] Tier 2（中等证据）标准 | 证实 PALS 作为 Tier 1 全班教学方案能够显著提升早期阅读基础 |
 > | Fuchs et al. (2001, 2002) | 小学常规班级与融合教育课堂学生 | 大规模多班级现场试验（RCT/[[Quasi-Experimental Designs\|QED]]） | 早期阅读流畅度、数学概念与计算 | $ES = +0.20 \sim +0.35\text{ SD}$ | 统计学显著正向效应 | 确立互惠结对辅导在读写与数学双领域的有效性 |
 > | Sáenz et al. (2005) | 小学西语裔英语学习者（ELL）学童 | 班级配对随机对照试验 | 阅读理解与词汇运用 | 显著高于[[Business as Usual\|常规对照组]] | 统计学显著正向增益 | 证明结构化同伴辅导对少数族裔与二语学习者的包容性促进机制 |
-> | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] 清算所对比 | 五大清算中心（[[National Dropout Prevention Center\|NDPC]], [[Blueprints for Healthy Youth Development\|Blueprints]], [[Best Evidence Encyclopedia\|BEE]], [[What Works Clearinghouse\|WWC]], [[Clearinghouse for Military Family Readiness Continuum of Evidence\|CMFR]]） | 循证元评估与跨机构对比 | 机构间[[Document\|文献]]池重叠度与评级一致性 | WWC 与 CMFR 仅共享 2 篇文献；评级横跨 Strong 至 Insufficient | 极端评级分歧 | 揭示清算所[[Literature Search\|文献检索]]割裂、组件拆分与 6 个月随访刚性门槛导致的评价失真 |
+> | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] 清算所对比 | 五大清算中心（[[National Dropout Prevention Center\|NDPC]], [[Blueprints for Healthy Youth Development\|Blueprints]], [[Best Evidence Encyclopedia\|BEE]], [[What Works Clearinghouse\|WWC]], [[Clearinghouse for Military Family Readiness Continuum of Evidence\|CMFR]]） | 循证元评估与跨机构对比 | 机构间文献池重叠度与评级一致性 | WWC 与 CMFR 仅共享 2 篇文献；评级横跨 Strong 至 Insufficient | 极端评级分歧 | 揭示清算所[[Literature Search\|文献检索]]割裂、组件拆分与 6 个月随访刚性门槛导致的评价失真 |
 
 ---
 
@@ -195,7 +194,7 @@ updated: 2026-09-18
 > |:---|:---|:---|
 > | [[Peer-Supported Learning]] | 概念 | PALS 依托的核心[[Didaktik\|教学理论]]与同伴互动机制。 |
 > | [[Evidence-Based Education]] | 概念 | PALS 实证研发、分层推广与循证分级的政策背景。 |
-> | [[Educational Evidence Clearinghouses]] | 概念 | PALS 作为典型案例检验清算所[[Document\|文献]]池割裂与评级冲突。 |
+> | [[Educational Evidence Clearinghouses]] | 概念 | PALS 作为典型案例检验清算所文献池割裂与评级冲突。 |
 > | [[Every Student Succeeds Act]] | 政策 | PALS 在 ESSA 循证改革中被评定为符合实证标准的核心教学方案。 |
 > | [[What Works Clearinghouse]] | 机构 | 对 PALS 进行分域审查，揭示阅读与数学维度的证据不对称性。 |
 > | [[Best Evidence Encyclopedia]] | 平台 | 专项审查 PALS 并基于标准化[[Effect Size\|效应量]]给予推荐评级。 |

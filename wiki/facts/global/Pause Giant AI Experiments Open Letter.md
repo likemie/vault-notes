@@ -11,7 +11,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 14
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[General Purpose Technology]]"
   - "[[Competitiveness]]"
   - "[[AI Deterrence]]"
-  - "[[Hypothesis]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Paradigm]]"
   - "[[Technological Republic]]"
@@ -44,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Pause Giant AI Experiments Open Letter
@@ -94,7 +93,7 @@ updated: 2026-10-08
 > | 维度 | 安全暂停派（Pause Advocates） | 战略工程进取派（Tech Republic Advocates） |
 > |:---|:---|:---|
 > | **核心诉求** | 叫停比 [[General Purpose Technology\|GPT]]-4 更强模型的训练 6 个月以上 | 加速将前沿 AI 融入国家防御，构建 AI 威慑 |
-> | **风险[[Hypothesis\|假设]]** | 超级 AI 失控将导致人类灭绝（高 P(doom)） | 单边叫停导致地缘对手超越，西方丧失战略均势 |
+> | **风险假设** | 超级 AI 失控将导致人类灭绝（高 P(doom)） | 单边叫停导致地缘对手超越，西方丧失战略均势 |
 > | **治理策略** | 国际条约集中式叫停、严格前置审查 | 构筑关键基础设施物理隔离护栏、保持人机协作主导权 |
 
 ---

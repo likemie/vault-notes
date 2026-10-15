@@ -8,7 +8,7 @@ summary: "澳大利亚著名商业律师、企业高管与教育政策调查特�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 27
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Network Governance]]"
   - "[[Teacher Professional Agency]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Assemblage]]"
 related_theories: []
 related_methods:
   - "[[Network Ethnography]]"
@@ -58,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-03
+updated: 2026-10-15
 ---
 
 # David Gonski
@@ -150,7 +149,7 @@ updated: 2026-10-03
 > | [[Network Governance]] | 概念 | 冈斯基所代表的政、商、法、慈善跨界精英协同重构公共教育政策的治理形态。 |
 > | [[Policy Network]] | 概念 | 冈斯基在澳大利亚教育政策网络中充当了连接政界、商法界与慈善界的超级旋转门节点。 |
 > | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | 关键论证 | 揭示 Gonski 1.0 建议设立公立学校民间捐赠机制催生 Schools Plus，以及冈斯基出任先驱者委员会主席调动私人财富的运作实态。 |
-> | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | 关键论证 | 揭示冈斯基的[[Co-affiliation\|多重从属性]]、企业慈善游说背景及第 23 条建议背后的政策网络[[Assemblage\|装配]]机制。 |
+> | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | 关键论证 | 揭示冈斯基的[[Co-affiliation\|多重从属性]]、企业慈善游说背景及第 23 条建议背后的政策网络装配机制。 |
 > | [[Argument_Keddie_2020_IJLE\|Keddie et al. (2020b)]] | 关键论证 | 分析 Gonski 拨款改革如何试图回归 Karmel 公平原则及其在各州学校自治政策中的落地遭遇。 |
 
 ---
@@ -159,5 +158,5 @@ updated: 2026-10-03
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 追踪澳大利亚公立教育中的[[Venture Philanthropy\|风险慈善]]与国家重组网络，揭示 Gonski 1.0 报告如何直接催生[[Australian Schools Plus\|澳大利亚学校加计划]]（Schools Plus），以及冈斯基出任先锋慈善家委员会主席动员私人大额资本的制度运作。
-> - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 运用[[Network Ethnography\|网络民族志]]剖析 [[Gonski 2.0]] 第 23 条建议背后的[[Policy Network\|政策网络]][[Assemblage\|装配]]，解构冈斯基的商业律师与慈善游说者双重身份及 [[Australian Education Research Organisation\|AERO]] 的诞生脉络。
+> - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 运用[[Network Ethnography\|网络民族志]]剖析 [[Gonski 2.0]] 第 23 条建议背后的[[Policy Network\|政策网络]]装配，解构冈斯基的商业律师与慈善游说者双重身份及 [[Australian Education Research Organisation\|AERO]] 的诞生脉络。
 > - [[Argument_Keddie_2020_IJLE\|Keddie et al. (2020b)]] — 分析 Gonski 拨款审查如何试图重振 Karmel 需求本位公平原则，以及在各州自主化管理政策中遭遇的结构性阻力。

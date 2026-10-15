@@ -6,7 +6,7 @@ aliases:
 summary: "大学医学院及其合作教学医院组成的高教与医疗研究实体，以学术-临床二元结构为核心特征；在产学合作与临床试验中既是前沿转化研究与专有生物模型验证的不可替代基石，也因多重串行审查、高管理费率与漫长启动周期面临系统性效率挑战。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 16
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Institutional Review Board]]"
   - "[[Translational Research]]"
   - "[[Competitiveness]]"
-  - "[[Attrition]]"
   - "[[Paradigm]]"
   - "[[Performance Indicators]]"
 related_theories: []
@@ -41,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-02
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Academic Medical Center
@@ -145,7 +144,7 @@ updated: 2026-10-09
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 来源 |
 > |---|---|---|---|
 > | **转化不可替代性** | 学术-临床二元结构与专有生物模型构成前沿复杂试验的核心依托 | 细胞基因疗法、首发靶点验证、前沿转化医学 | [[Argument_Swick_Jones_2025_AcademicHealthSystems\|Swick & Jones (2025)]]; [[Argument_Bang_2025_ClinicalTrials\|Bang (2025)]] |
-> | **体制效率劣势** | 串行审查与高管理费导致启动周期滞后与试验[[Attrition\|流失]] | 产学商业临床试验合同谈判与基地遴选 | [[Argument_Bang_2025_ClinicalTrials\|Bang (2025, pp. 205–207)]] |
+> | **体制效率劣势** | 串行审查与高管理费导致启动周期滞后与试验流失 | 产学商业临床试验合同谈判与基地遴选 | [[Argument_Bang_2025_ClinicalTrials\|Bang (2025, pp. 205–207)]] |
 > | **敏捷组织赋能** | 并行化团队支持与数字化监管工具重塑机构执行效率 | AMC 临床研究管理办公室（CRSO）组织改革 | [[Argument_Bang_2025_ClinicalTrials\|Bang (2025, pp. 210–211)]] |
 
 ---

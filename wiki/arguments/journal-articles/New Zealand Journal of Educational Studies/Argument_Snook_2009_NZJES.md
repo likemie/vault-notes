@@ -13,7 +13,7 @@ title: "Argument_Snook_2009_NZJES"
 argument_key: "Argument_Snook_2009_NZJES"
 argument_display_title: "Invisible Learnings? A Commentary on John Hattie's book: Visible Learning: A synthesis of over 800 meta-analyses relating to achievement"
 argument_kind: "journal-article"
-argument_related_count: 23
+argument_related_count: 22
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Problem Solving]]"
-  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Causality]]"
   - "[[Homework]]"
@@ -39,8 +38,8 @@ related_concepts:
   - "[[External Validity]]"
   - "[[Publication Bias]]"
   - "[[Whole Language]]"
+  - "[[Hypothesis]]"
   - "[[School Leadership]]"
-  - "[[Document]]"
   - "[[Critic and Conscience of Society]]"
 related_theories: []
 related_methods:
@@ -75,7 +74,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 理论框架
-> 未采用特定理论框架，从教育哲学和研究方法论视角出发进行批判性评论。引 Dewey 的[[Pragmatic Paradigm\|实用主义]]知识观作为基线立场：证据不提供行动规则，只为明智的[[Problem Solving\|问题解决]]提供[[Hypothesis\|假设]](Dewey, quoted in Hattie, 2008, p.147)。
+> 未采用特定理论框架，从教育哲学和研究方法论视角出发进行批判性评论。引 Dewey 的[[Pragmatic Paradigm\|实用主义]]知识观作为基线立场：证据不提供行动规则，只为明智的[[Problem Solving\|问题解决]]提供假设(Dewey, quoted in Hattie, 2008, p.147)。
 
 ## 研究方法
 
@@ -123,7 +122,7 @@ citation_aliases:
 > [!warning] 局限性与批评
 > - 论文自身定位为评论而非[[Systematic Review\|系统综述]]，未声称穷尽所有批判角度
 > - 未提出替代性方法论框架，侧重解构而非建构
-> - 发表于 Hattie 2008 著作出版后仅一年，属于最早一批学术批判，后续[[Document\|文献]]（Terhart 2011, Bergeron 2017, Wrigley 2018, Wecker 2016 等）提供了更深入的方法论解构
+> - 发表于 Hattie 2008 著作出版后仅一年，属于最早一批学术批判，后续文献（Terhart 2011, Bergeron 2017, Wrigley 2018, Wecker 2016 等）提供了更深入的方法论解构
 > - **[[Argument_Hattie_2010_NZJES\|Hattie (2010)]] 的回应** Hattie 在同期 NZJES 发表"On Being a '[[Critic and Conscience of Society]]'"（详见 [[Argument_Hattie_2010_NZJES]]），从以下方面回应 Snook et al.：（1）研究质量——澄清"不是一本关于研究批评的书"被误读为"不关注研究质量"，指出凡已知研究质量有影响之处均已标注，且[[Meta-analysis\|元分析]]方法本身即处理质量问题；（2）偏差控制——Schulze (2004) 等文献表明偏差控制是元分析方法的核心关切，批评者未提及；（3）d=0.40 关节点——承认"或许武断但绝非任意"，基于 800+ 元分析经验平均值，用作叙事工具而非固定截断；（4）[[External Validity\|可推广性]]——反问"如果没有足够新西兰研究来确定差异，翻译现有研究可能比根本不依赖任何研究更有价值"；（5）[[Class Size\|班级规模]]——驳斥选择性引用 STAR 大[[Effect Size\|效应量]]的做法，指出既然平均 0.20 必然存在大负面效应才能达到均值([[Argument_Hattie_2010_NZJES\|Hattie, 2010, pp.88–91]])。[[Argument_Snook_2010_NZJES\|Snook et al. (2010)]] 随后在同刊发表再回应（详见 [[Argument_Snook_2010_NZJES]]）
 
 ## 来源

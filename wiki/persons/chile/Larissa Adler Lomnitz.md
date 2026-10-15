@@ -9,7 +9,7 @@ summary: "拉美著名人类学家，智利科学院院士，墨西哥国立自�
 type: person
 nationality: chile
 person_region: "chile"
-person_related_count: 17
+person_related_count: 16
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Structural Adjustment Programs]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Paradigm]]"
-  - "[[Document]]"
 related_theories:
   - "[[Conditioned State Theory]]"
 related_methods:
@@ -49,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-02
+updated: 2026-10-15
 ---
 
 # Larissa Adler Lomnitz
@@ -63,7 +62,7 @@ updated: 2026-10-02
 > - **核心角色** 拉美中产阶级、非正式制度与生存互助网络研究的领军学者；通过对智利皮诺切特军政权下中产阶级家庭的长期田野民族志调查，率先揭露了新自由主义极端市场化、教育券制度与使用者付费如何残酷侵蚀普通家庭生计，为解构新自由主义“自由选择”神话提供了不可替代的一手实证人类学基准。
 > - **代表贡献** 提出拉美边缘群体与中产阶级互助生存网络模型；出版《边缘人如何生存：墨西哥城棚户区的互助网络》（1975/1977）与《智利中产阶级：新自由主义下的生存斗争》（与安娜·梅尔尼克合著，1991）。
 
-> [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]论洛姆尼茨等学者对新自由主义结构调整与智利社会危机的实证剖析
+> [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论洛姆尼茨等学者对新自由主义结构调整与智利社会危机的实证剖析
 > 洛姆尼茨与梅尔尼克（Lomnitz & Melnick, 1991）指出，在历史和哲学层面上，新自由主义始终与[[Structural Adjustment Programs|结构调整方案]]紧密捆绑在一起。结构调整进而通常被描述为[[World Bank|世界银行]]、[[International Monetary Fund|国际货币基金组织]]以及其他跨国金融机构所推荐的一整套紧缩政策……其对智利中产阶级生活史的[[Fieldwork|田野调查]]深刻证实，推行使用者付费与学校私有化实质上是残酷瓦解公共福利的阶级暴力。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79, 85–86)]]
 >
 > *Lomnitz & Melnick (1991) argue that, historically and philosophically, neoliberalism has been associated with structural adjustment programs. Structural adjustment, in turn, is usually described as a broad range of policies recommended by the World Bank, the International Monetary Fund, and other financial organizations.*
@@ -114,7 +113,7 @@ updated: 2026-10-02
 
 > [!influence-path] 影响路径
 > - **人类学与教育实证研究** 其[[Ethnography|民族志]]方法深刻启发了比较教育学界开展“新自由主义教育改革的微观民族志”，证明了宏观经济指标繁荣与微观社会生活苦难之间的尖锐悖论。
-> - **拉美政策批判** 成为批判学者与学生抗议运动（如 2011 智利企鹅革命与学生运动）反思皮诺切特教育券遗产的经典实证基准[[Document|文献]]。
+> - **拉美政策批判** 成为批判学者与学生抗议运动（如 2011 智利企鹅革命与学生运动）反思皮诺切特教育券遗产的经典实证基准文献。
 
 ---
 

@@ -9,7 +9,7 @@ title: "Argument_Rappleye_2006_RCIE"
 argument_key: "Argument_Rappleye_2006_RCIE"
 argument_display_title: "Theorizing educational transfer: Toward a conceptual map of the context of cross-national attraction"
 argument_kind: "journal-article"
-argument_related_count: 29
+argument_related_count: 26
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -36,13 +36,10 @@ related_concepts:
   - "[[Externalization]]"
   - "[[Interpretivism]]"
   - "[[Concept Mapping]]"
-  - "[[Document]]"
-  - "[[Hypothesis]]"
   - "[[Normal School]]"
 related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
-  - "[[Exploratory Factor Analysis]]"
   - "[[Case Study]]"
 related_persons: []
 related_facts:
@@ -209,7 +206,7 @@ citation_aliases:
 >
 > ### 第五步：阻力侧——结构阻力与抵制行动者
 >
-> 这是概念地图相对于既有[[Document\|文献]]最原创的贡献。既有研究几乎只关注"为什么某国教育有吸引力"，却很少追问"为什么某国教育没有吸引力"或"为什么转移没有发生"。这种不对称的关注，部分源于"吸引力"（attraction）这个词本身的暗示，它让研究者不自觉地只看向被吸引的一方(p. 231)。
+> 这是概念地图相对于既有文献最原创的贡献。既有研究几乎只关注"为什么某国教育有吸引力"，却很少追问"为什么某国教育没有吸引力"或"为什么转移没有发生"。这种不对称的关注，部分源于"吸引力"（attraction）这个词本身的暗示，它让研究者不自觉地只看向被吸引的一方(p. 231)。
 >
 > 与推力侧对称，阻力侧也分结构层和人的层面(pp. 231–232)：
 >
@@ -218,7 +215,7 @@ citation_aliases:
 > 1. **法律/组织结构的刚性。** 德国是典型案例：[[Standing Conference of the Ministers of Education and Cultural Affairs\|Kultusministerkonferenz]]（各州教育部长常设会议）的复杂决策程序和 Verrechtilichung（法律化/司法化）使得"新学校模式的倡导者面临刚性的法律和官僚监管"(Ertl & Phillips, 2000, p. 405,引自 p. 231)。美国则是另一种刚性：联邦政府虽然大力推崇日本教育，但教育权在各州和地方，联邦无法强制推行任何实质性借用。
 >
 > > [!example] 芬兰教学法与统一教材
-> > [[Hypothesis\|假设]]一位校长发现芬兰的分科教学法效果很好，想在学校推广。但教育局规定必须使用统一教材、按统一进度考试。这其实就是一种"组织结构刚性"——方法本身没问题，制度结构不允许改变。
+> > 假设一位校长发现芬兰的分科教学法效果很好，想在学校推广。但教育局规定必须使用统一教材、按统一进度考试。这其实就是一种"组织结构刚性"——方法本身没问题，制度结构不允许改变。
 >
 > 2. **改革疲劳。** 系统在大变革后的"沉淀期"对进一步改革的不响应。战后西德是最典型的例子——Adenauer 总理"keine Experimente"（不做实验）的口号，实际上定义了战后近二十年的非改革期（Robinsohn & Kuhlmann，引自 Phillips, 1995, p. 76，转引自 p. 231）。
 >
@@ -227,7 +224,7 @@ citation_aliases:
 >
 > ---
 >
-> 3. **物理设施。** 现有设施无法容纳快速变化。这个因素在发达国家文献中很少被讨论，但在发展中国家尤为关键。[[Education for All\|全民教育]]目标（Education for All，简称 [[Exploratory Factor Analysis\|EFA]]）要求新增 500 万名教师和 1 亿个学位(Colclough, 2004,引自 p. 231)。对于缺乏这种基本基础设施的国家来说，无论某个外国教育模式多么"有吸引力"，实施的前提条件都不具备。
+> 3. **物理设施。** 现有设施无法容纳快速变化。这个因素在发达国家文献中很少被讨论，但在发展中国家尤为关键。[[Education for All\|全民教育]]目标（Education for All，简称 EFA）要求新增 500 万名教师和 1 亿个学位(Colclough, 2004,引自 p. 231)。对于缺乏这种基本基础设施的国家来说，无论某个外国教育模式多么"有吸引力"，实施的前提条件都不具备。
 >
 > ---
 >

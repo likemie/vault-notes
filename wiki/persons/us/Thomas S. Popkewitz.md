@@ -9,7 +9,7 @@ summary: "美国著名比较教育学、课程史学与社会认识论泰斗，�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 31
+person_related_count: 30
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -39,7 +39,6 @@ related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Policy Borrowing]]"
   - "[[Determinism]]"
-  - "[[Hypothesis]]"
 related_theories:
   - "[[Governmentality]]"
   - "[[Post-structuralism]]"
@@ -53,8 +52,8 @@ related_methods:
 related_persons:
   - "[[James Madison]]"
   - "[[Liliana Esther Olmos]]"
-  - "[[Carlos Alberto Torres]]"
   - "[[Michael W. Apple]]"
+  - "[[Carlos Alberto Torres]]"
 related_facts:
   - "[[OECD]]"
   - "[[American Educational Research Association]]"
@@ -64,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Thomas S. Popkewitz
@@ -78,7 +77,7 @@ updated: 2026-10-10
 > - **核心角色** 率先将米歇尔·福柯（Michel Foucault）的[[Discourse Analysis|话语分析]]、微观权力物理学与现代“[[Governmentality|治理术]]”（Governmentality）系统引入教育研究；开创了教育研究的“社会认识论”（Social Epistemology）传统；深度揭示了[[OECD|经合组织]]等国际组织如何通过教师教育跨国标准重构社会[[Disciplina and Doctrina|规训]]网络。
 > - **代表贡献** 提出教育改革中的“救赎叙事与排斥系统”（Inclusion and Exclusion System）[[Analytic Framework|分析框架]]；主持并出版 8 国教师教育改革跨国比较研究（1993）；出版代表作《争夺灵魂：学校教育政治学与教师的建构》（1998）与《[[Cosmopolitanism|世界主义]]与学校改革时代》（2008）。
 
-> [!citation-card]- [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]论波普科维茨的国际组织教师教育规训研究
+> [!citation-card]- [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论波普科维茨的国际组织教师教育规训研究
 > 在一项针对八个国家教师教育改革实践的研究中，波普科维茨与佩雷拉（Popkewitz & Pereyra, 1993）指出，诸如经济合作与发展组织（OECD）和欧洲共同体等国际跨国组织，正在推进规训教师教育的法规政策演变中扮演着至关重要的枢纽角色。[[Argument_Olmos_Torres_2009_StateTheories|(Popkewitz & Pereyra, 1993; Olmos & Torres, 2009, p. 80)]]
 >
 > *In an eight-country study of reforms of teacher education, Popkewitz & Pereyra (1993) argued that international organizations, such as the Organization for Economic Cooperation and Development (OECD); and the European community are playing crucial roles in promoting changes in regulations governing teacher education.*
@@ -165,7 +164,7 @@ updated: 2026-10-10
 > |:-----|:-----|:-----|
 > | [[Technical Rationality]] | 概念 | 从社会[[Epistemology\|认识论]]视角解构国际组织将教师培训降格为技术官僚胜任力指标的权力遮蔽。 |
 > | [[Disciplina and Doctrina]] | 概念 | 阐释跨国教师教育法规与现代学校如何作为规训身体与灵魂的微观治理机器。 |
-> | [[World Society Theory]] | 理论 | 从微观[[Post-structuralism\|后结构主义]]视角反思新制度主义“世界文化趋同”[[Hypothesis\|假设]]背后的排斥性分类炼金术。 |
+> | [[World Society Theory]] | 理论 | 从微观[[Post-structuralism\|后结构主义]]视角反思新制度主义“世界文化趋同”假设背后的排斥性分类炼金术。 |
 > | [[Conditioned State Theory]] | 理论 | 为揭示跨国组织如何通过“软法”规训侵蚀民族国家主权提供认识论维度的呼应。 |
 > | [[Michael W. Apple]] | 人物 | [[James Madison\|麦迪逊]]学派核心同事，共同推进美国批判教育社会学与意识形态制度分析。 |
 > | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] | 论证 | 借鉴波普科维茨的教育治理[[Two Problematics of Educational Inclusion and Exclusion\|双重问题式]]（知识与参与），剖析学校空间实践对流动人口的规训与排斥。 |

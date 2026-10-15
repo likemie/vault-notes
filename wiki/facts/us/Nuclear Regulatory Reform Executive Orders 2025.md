@@ -10,7 +10,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 15
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Liberalization]]"
   - "[[Paradigm]]"
   - "[[Permissionless Innovation]]"
-  - "[[Hypothesis]]"
   - "[[Clinical Trial]]"
   - "[[Research Translation]]"
   - "[[Process Knowledge]]"
@@ -47,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-11
+updated: 2026-10-15
 ---
 
 # Nuclear Regulatory Reform Executive Orders 2025
@@ -93,7 +92,7 @@ updated: 2026-10-11
 ## 理论定位与制度影响
 
 > [!finding-cards] 政策意义与治理启示
-> - **[[Permissionless Innovation|无许可创新]]在战略能源领域的落地** 该行政令是[[Permissionless Innovation|无许可创新]]（Permissionless Innovation）原则在能源基础设施维度的集中体现，旨在破除以防范[[Hypothesis|假设]]性风险为名窒息战略生产力发展的过度规制。
+> - **[[Permissionless Innovation|无许可创新]]在战略能源领域的落地** 该行政令是[[Permissionless Innovation|无许可创新]]（Permissionless Innovation）原则在能源基础设施维度的集中体现，旨在破除以防范假设性风险为名窒息战略生产力发展的过度规制。
 > - **与生物医药监管加速形成跨部门协同** 报告将核监管改革与食品药品监督管理局（FDA）在生物医药领域的审批提速（如广泛接受真实世界证据、将默认两项[[Clinical Trial|临床试验]]简化为一项具有充分效力的确证研究）并列，构成美国重塑[[Research Translation|技术转化]]速度的并行政改。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 37)]]
 > - **本土[[Process Knowledge|过程知识]]与工匠手艺的再锚定** 反应堆建造涉及庞大的高精度焊接、核级锻件制造与现场排障，重启核能建造是维持全美重工业[[Process Knowledge|过程知识]]与熟练工匠队伍的关键基底。
 

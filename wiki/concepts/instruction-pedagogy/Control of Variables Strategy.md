@@ -8,7 +8,7 @@ aliases:
 summary: "科学探究与实验设计中的核心过程技能，指在检验因果假设时仅系统改变一个焦点自变量并保持其他所有潜在混杂变量恒定，以确立无混淆因果推论。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 25
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
-  - "[[Teaching Assistant]]"
   - "[[Direct Instruction]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Counterfactual]]"
@@ -52,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-20
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Control of Variables Strategy
@@ -66,7 +65,7 @@ updated: 2026-10-08
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向科学推理与实验设计中最基本的因果分离程序，即通过成对对比消除竞争性解释。
-> - **用途** 帮[[Teaching Assistant\|助教]]学设计者诊断学习者在科学探究中的逻辑推理水平，并作为[[Direct Instruction\|直接教学]]与[[Inquiry-Based Learning\|探究式学习]]相对效能争论的关键基准任务。
+> - **用途** 帮助教学设计者诊断学习者在科学探究中的逻辑推理水平，并作为[[Direct Instruction\|直接教学]]与[[Inquiry-Based Learning\|探究式学习]]相对效能争论的关键基准任务。
 > - **边界** 仅适用于能够进行正交变量分离的良构实验系统，难以直接套用于高度复杂、多变量非线性交互或非实验性的社会观察领域。
 
 > [!citation-card] 变量控制策略的核心内涵

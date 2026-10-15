@@ -11,7 +11,7 @@ summary: "探索性因子分析与主成分分析前置诊断观测变量相关�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 15
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -36,8 +36,7 @@ related_methods:
   - "[[Questionnaire]]"
 related_instruments:
   - "[[Schommer's Modified Epistemological Questionnaire]]"
-related_persons:
-  - "[[Paul Pierson]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO]]"
@@ -45,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-29
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # KMO and Bartlett's Test of Sphericity
@@ -75,7 +74,7 @@ updated: 2026-10-12
 > **这个公式在做什么** 对比所有[[Variable\|变量]]对之间的**简单相关系数平方和（$\sum r_{ij}^2$）**与**简单相关平方和加上偏相关系数平方和（$\sum a_{ij}^2$）**的比值。
 >
 > **符号说明**
-> - $r_{ij}$：变量 $i$ 与变量 $j$ 之间的零阶[[Paul Pierson|皮尔逊]][[Pearson Product-Moment Correlation\|积差相关]]系数。
+> - $r_{ij}$：变量 $i$ 与变量 $j$ 之间的零阶皮尔逊[[Pearson Product-Moment Correlation\|积差相关]]系数。
 > - $a_{ij}$：在控制了数据集中所有其余所有变量后，变量 $i$ 与变量 $j$ 之间的偏相关系数（Partial Correlation / Anti-image Correlation）。
 >
 > **数学直觉** 如果变量之间由少数强有力的公共因子驱动，则在剔除公因子影响后，变量间的偏相关 $a_{ij}$ 应当接近 0，此时分母接近分子，$\text{KMO} \to 1.0$；反之，若变量间充斥着独特的非共享变异，偏相关很大，$\text{KMO} \to 0$。
@@ -133,5 +132,5 @@ updated: 2026-10-12
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 在样本 1（$N=310$）执行 [[Exploratory Factor Analysis\|EFA]] 前，检验并报告 KMO $= .92$ 且 Bartlett 球形检验达到极显著水平（$\chi^2 = 3450.21, p < .001$），确立因子分析的充分合法性。
+> - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 在样本 1（$N=310$）执行 EFA 前，检验并报告 KMO $= .92$ 且 Bartlett 球形检验达到极显著水平（$\chi^2 = 3450.21, p < .001$），确立因子分析的充分合法性。
 > - [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] — 在中学生科学[[Epistemological Beliefs\|认识论信念]][[Questionnaire\|问卷]]（[[Schommer's Modified Epistemological Questionnaire\|SMEQ]]）因子分析前，通过 KMO 与 Bartlett 检验确立[[Epistemology\|认识论]] 3 维度的提取前提。

@@ -14,7 +14,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 91
+fact_related_count: 87
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -36,22 +36,19 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Knowledge Mediation]]"
   - "[[Scientifically Based Research]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Research Translation]]"
   - "[[Clinical Trial]]"
   - "[[Variable]]"
   - "[[Internal Validity]]"
-  - "[[Attrition]]"
-  - "[[Document]]"
   - "[[Publication Bias]]"
+  - "[[Attrition]]"
   - "[[Causality]]"
   - "[[Effective Teaching]]"
   - "[[Evaluator Independence]]"
   - "[[Fade-out Effect]]"
   - "[[Evidence Standards]]"
   - "[[Heterogeneity]]"
-  - "[[Hypothesis]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[School Leadership]]"
   - "[[Developer-Made Measures]]"
@@ -70,7 +67,6 @@ related_methods:
   - "[[Implementation and Process Evaluation]]"
   - "[[Regression Discontinuity Design]]"
   - "[[Quasi-Experimental Designs]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Single-Subject Design]]"
   - "[[Single-Case Design]]"
   - "[[Quantitative Research]]"
@@ -131,7 +127,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-09-28
+updated: 2026-10-15
 ---
 
 # What Works Clearinghouse
@@ -147,7 +143,7 @@ updated: 2026-09-28
 > - **成立时间 / 创设背景** 2002 年依据联邦《教育科学改革法案》（ESRA）创设，旨在落实《[[No Child Left Behind Act 2001\|不让一个孩子掉队法案]]》（[[No Child Left Behind Act 2001\|NCLB]]）关于“[[Scientifically Based Research\|基于科学的研究]]”（Scientifically Based Research）的法定问责要求([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p. 109]])。
 > - **总部地点 / 业务辐射** 总部设于美国华盛顿特区；审查对象覆盖早期教育至高等教育全学段，官方平台为 [ies.ed.gov/ncee/wwc](https://ies.ed.gov/ncee/wwc)，审查标准已迭代至手册第 5 版（Handbook v5.0）。
 > - **法人属性与经费依托** 联邦政府官方直属公共机构；累计获得超过 **1 亿美元（>$100M）** 联邦经常性强制财政预算资助，享有极强的制度护城河([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 64]]; [[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 8]])。
-> - **早期线性“推送”与[[Transfer Translation Transformation\|转译]]范式代表** [[Argument_Revai_2022_ChangingLandscape\|Révai (2022, pp. 20–21)]] 指出，WWC 是早期[[Educational Brokerage Agency\|知识经纪]]（Knowledge Brokerage）的标志性机构，核心假定在于通过专业“[[Research Translation\|知识转译]]”（Translation）将高严谨性学术研究加工为实践指南（Practice Guides）与干预评估报告，呈现出鲜明的线性研究转移（Research Transfer）与单向供给推送特征。
+> - **早期线性“推送”与转译范式代表** [[Argument_Revai_2022_ChangingLandscape\|Révai (2022, pp. 20–21)]] 指出，WWC 是早期[[Educational Brokerage Agency\|知识经纪]]（Knowledge Brokerage）的标志性机构，核心假定在于通过专业“[[Research Translation\|知识转译]]”（Translation）将高严谨性学术研究加工为实践指南（Practice Guides）与干预评估报告，呈现出鲜明的线性研究转移（Research Transfer）与单向供给推送特征。
 > - **事后被动证据清算 vs 全链条试验中介范式** 相比英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）集干预资助、试验委托、独立评估防火墙、NPD 行政大数据归档与基层动员网络为一体的全链条模式，WWC 属于纯粹的事后被动证据清算中心（Ex-post Evidence Clearinghouse）：本身不设立科研资助基金、不直接委托或设计现场试验，仅对外部已有的独立或开发者研究进行二次审查与评级归档（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 47–49]]）。
 
 ---
@@ -158,22 +154,22 @@ updated: 2026-09-28
 > - **1960 年代 — 因果问责诉求起源** 参议员罗伯特·肯尼迪（Robert F. Kennedy）质问教育专员：“你是说你花了十亿美元却不知道他们是否会读写？”奠定了联邦追求教育实证确定性的政治动因([[Argument_Wiliam_2019_ERE|Wiliam, 2019, p. 3]])。
 > - **2001 — [[No Child Left Behind Act 2001|NCLB]] 法案确立科学标准** 《不让一个孩子掉队法案》要求联邦资助项目必须具备严格科学证据支撑，直接推动设立国家级因果审查清算中心([[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison, 2021, p. 109]])。
 > - **2002 — [[Office of Educational Research and Improvement|OERI]] 拨付初始合同与发布 [[Study Design and Implementation Assessment Device|Study DIAD]] 草案** 2002 年 8 月联邦[[Office of Educational Research and Improvement|教育研究与改进办公室]]（OERI）向 WWC 资助 1850 万美元初始合同，以医学[[Clinical Trial|临床试验]]为原型启动教育有效性证据审查；同年 11 月发布设计与[[Implementation and Process Evaluation|实施评估]]规程（Study Design and Implementation Assessment Device, Study DIAD）草案并向学界公开征求意见。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 34–35)]]
-> - **2003 — 吸纳 47 条公众评议大幅重构审查规程** WWC 针对 47 条公众评议意见大幅修改 [[Study Design and Implementation Assessment Device|Study DIAD]]，在引言中澄清量化方法并非唯一的“科学”方法，并增设[[Regression Discontinuity Design|断点回归设计]]评估模块、独立[[Quasi-Experimental Designs|准实验设计]]部分、30 余项调节[[Variable|变量]][[Coding in Qualitative Research|编码]]特征以及干预与测量指标对齐（Intervention-Outcome Alignment）审查。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 35–36)]]
+> - **2003 — 吸纳 47 条公众评议大幅重构审查规程** WWC 针对 47 条公众评议意见大幅修改 [[Study Design and Implementation Assessment Device|Study DIAD]]，在引言中澄清量化方法并非唯一的“科学”方法，并增设[[Regression Discontinuity Design|断点回归设计]]评估模块、独立[[Quasi-Experimental Designs|准实验设计]]部分、30 余项调节[[Variable|变量]]编码特征以及干预与测量指标对齐（Intervention-Outcome Alignment）审查。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 35–36)]]
 > - **2010 — [[Single-Subject Design|单一被试设计]]标准确立** 发布单一被试设计（Single-Subject Design, [[Single-Case Design|SCD]]）试点标准，确立[[Internal Validity|内部效度]]门控与 5-3-20 规则([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, p. 460]])。
 > - **2015 — [[Every Student Succeeds Act|ESSA]] 法案法定绑定** 《每个学生都成功法案》（ESSA）确立四级证据体系，WWC 成为学区申请联邦第 1 篇（[[Title I of the Elementary and Secondary Education Act|Title I]]）学校改善拨款时认定“强证据（TIER 1）”与“中等证据（Tier 2）”的法定裁定基准。
-> - **2022 — Handbook v5.0 升级与十五年存续审视** 优化集群校正、[[Attrition|流失]]边界与[[Regression Discontinuity Design|断点回归设计]]（Regression Discontinuity Design, RDD）标准；[[OECD|经合组织]]回顾确认其为 2007 年 6 大国际标杆中保持持续完全活跃的唯二幸存者之一([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 64]])。
+> - **2022 — Handbook v5.0 升级与十五年存续审视** 优化集群校正、流失边界与[[Regression Discontinuity Design|断点回归设计]]（Regression Discontinuity Design, RDD）标准；[[OECD|经合组织]]回顾确认其为 2007 年 6 大国际标杆中保持持续完全活跃的唯二幸存者之一([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 64]])。
 
 > [!contrast-table] WWC 初版 [[Study Design and Implementation Assessment Device|Study DIAD]] 规程根据公众评议（n=47）实施的制度修正（[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, pp. 35–36]]）
 > | 调整维度 | 公众评议关切焦点 | WWC 采纳并实施的制度修正 |
 > |:---|:---|:---|
 > | **[[Quantitative Research\|量化研究]]取向** | 众多学者抗议 WWC 过度偏向定量实验而忽视[[Qualitative Research\|质性研究]]，建议制定平行的质性研究指南。 | 在规程引言中正式改写声明，明确强调：(a) WWC 聚焦评估因果有效性的最佳方法，但 (b) WWC 绝不认为定量方法是唯一可被称为科学的方法。 |
 > | **不同研究设计处理** | 学者质询除[[Randomised Controlled Trials\|随机对照试验]]外，其他设计如何被 Study DIAD 容纳。 | 增设独立的[[Regression Discontinuity Design\|断点回归设计]]（Regression Discontinuity Design, RDD）评估专章；将实验与准实验拆分为两个独立审查部分；预留[[Single-Subject Design\|单被试设计]]与[[Time Series Design\|时间序列设计]]模块。 |
-> | **重要设计特征[[Coding in Qualitative Research\|编码]]** | 评议者提出大量应纳入编码的设计与实施特征。 | 将原仅提及的附录正式纳入规程，列出 30 多项涉及研究设计与实施情境的特征，作为[[Effect Size\|效应量]]的潜在调节[[Variable\|变量]]进行编码。 |
+> | **重要设计特征编码** | 评议者提出大量应纳入编码的设计与实施特征。 | 将原仅提及的附录正式纳入规程，列出 30 多项涉及研究设计与实施情境的特征，作为[[Effect Size\|效应量]]的潜在调节[[Variable\|变量]]进行编码。 |
 > | **干预与测量指标对齐** | 学界担忧干预方案与测量结果之间的过度重合或脱节偏差。 | 增设对齐审查：排查关联过小（如教数学测阅读）与过度重合（如测试题直接包含干预材料原文而对照组未接触）的效度扭曲。 |
 
 > [!policy-context] 资助体系与国家级技术保障
 > - **超 1 亿美元联邦累计投入** 联邦政府持续稳定的研发与运维投入，使其拥有全美最庞大的常设方法论委员会与外包合同研究专家库([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 8]])。
-> - **公共智库外包协作网络** 由 Mathematica Policy Research、SRI International、Development Services Group (DSG) 等权威第三方智库以联邦采购合同形式承担常态化[[Document\|文献]][[Coding in Qualitative Research\|编码]]与质量审查，构筑了抵御政党更迭的专业操作防火墙([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 64]])。
+> - **公共智库外包协作网络** 由 Mathematica Policy Research、SRI International、Development Services Group (DSG) 等权威第三方智库以联邦采购合同形式承担常态化文献编码与质量审查，构筑了抵御政党更迭的专业操作防火墙([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 64]])。
 
 ---
 
@@ -182,7 +178,7 @@ updated: 2026-09-28
 > [!actor-grid] 组织治理与执行矩阵
 > - **联邦管理与监督层（[[Institute of Education Sciences\|IES]] / [[National Center for Education Evaluation and Regional Assistance\|NCEE]]）** 隶属于美国教育部国家教育评价与区域协助中心（NCEE），掌复制定整体审查政策、发布指南议题与拨付合同资金。
 > - **方法学常设指导委员会** 由全美顶尖计量经济学、心理测量学与统计学专家组成，负责每 2–3 年主持修订审查手册（Handbook）。
-> - **竞标承包智库（Contractors）** Mathematica、SRI 等专业机构承接具体领域的[[Document\|文献]]筛选、代码提取与基线等值性核验。
+> - **竞标承包智库（Contractors）** Mathematica、SRI 等专业机构承接具体领域的文献筛选、代码提取与基线等值性核验。
 > - **认证审查员库（Certified Reviewers）** 建立严格的审查员培训与考证机制，只有通过标准一致性考核的学者方可签署审查意见。
 
 > [!pathways]- 证据审查与产品生成规程
@@ -213,11 +209,11 @@ updated: 2026-09-28
 > [!contrast-table] 证据评级与传播机制对比：美国 WWC [[Evidence Standards\|证据标准]] vs 英国 [[Education Endowment Foundation\|EEF]] [[EEF Padlock Security Rating\|挂锁安全评级]]（基于 The EEF, 2019c 与 Edovald & Nevill, 2021）
 > | 比较维度 | 美国 [[What Works Clearinghouse\|WWC]] 因果证据标准 | 英国 [[Education Endowment Foundation\|EEF]] 挂锁安全评级（Padlock Rating） |
 > |---|---|---|
-> | **标尺结构** | 三等级定性分类判定（无保留达标 / 有保留达标 / 未达标） | 0 至 5 把挂锁（🔒）的单维度连续序数评分（综合设计、[[Sample Size Determination\|样本量]]、[[Attrition\|流失]]与威胁） |
+> | **标尺结构** | 三等级定性分类判定（无保留达标 / 有保留达标 / 未达标） | 0 至 5 把挂锁（🔒）的单维度连续序数评分（综合设计、[[Sample Size Determination\|样本量]]、流失与威胁） |
 > | **目标受众** | 面向联邦采购官员、专业政策分析师与学区决策者 | 专为时间匮乏的中小学校长、高级管理团队与基层教师定制 |
 > | **呈现载体** | 录入 WWC 官方数据库干预报告表格与指南附录中 | 直接嵌入《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》与独立评估报告封面 |
 > | **方法学争鸣** | 保持了微观分域与方法学严格性，但技术门槛过高阻碍基层直观理解 | 将多元复杂偏倚压缩为单一分值极大降低理解门槛，但易掩盖不同偏倚维度的[[Heterogeneity\|异质性]] |
-> | **对待[[Statistical Significance\|统计显著性]]** | 长期以[[Hypothesis\|假设]]检验显著性作为划分干预推荐等级的核心标尺 | 深刻反思对 $p < 0.05$ 门槛的机械依赖，提倡效应量置信区间与安全锁双轨呈现 |
+> | **对待[[Statistical Significance\|统计显著性]]** | 长期以假设检验显著性作为划分干预推荐等级的核心标尺 | 深刻反思对 $p < 0.05$ 门槛的机械依赖，提倡效应量置信区间与安全锁双轨呈现 |
 
 > [!formula-step] WWC [[Attrition\|样本流失]]与基线等值性判定规则
 > 在单项因果研究审查中，WWC 执行标准化的基线等值与流失偏倚分级模型：
@@ -241,7 +237,7 @@ updated: 2026-09-28
 > [!indicators]- 影响力维度与指标
 > - **库容规模第一** 在全美 12 所清算中心汇总的 1,359 个去重教育干预项目池中，WWC 贡献了 **537 个项目**（占比 39.5%），收录规模居全美首位([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 16]])。
 > - **法定行政约束力** [[Every Student Succeeds Act\|ESSA]] 法案直接将联邦每年数十亿美元的 [[Title I of the Elementary and Secondary Education Act\|Title I]] 拨款与 WWC 认证标准挂钩，赋予其极高的行政硬约束。
-> - **方法学溢出效应** 其[[Attrition\|流失]]模型、集群随机校正与基线等值性规范已被国际计量经济学界与[[Meta-analysis\|元分析]]研究者奉为跨学科黄金标准。
+> - **方法学溢出效应** 其流失模型、集群随机校正与基线等值性规范已被国际计量经济学界与[[Meta-analysis\|元分析]]研究者奉为跨学科黄金标准。
 
 > [!stat-cards]- WWC 评价重叠度与多重评级表现
 > - **537 个** WWC 纳入的教育项目总量（占全库 39.5%）
@@ -280,12 +276,12 @@ updated: 2026-09-28
 > > - **英美制度防线对比** 英国 [[Education Endowment Foundation\|EEF]] 建立了强硬的制度防火墙：组建独立评估专家库，通过三方资助协议将项目开发者与评估团队物理隔离，并强制在 [[ISRCTN]] 平台进行[[Statistical Analysis Plan\|统计分析计划]]（SAP）预注册，未达预注册要求直接扣除 1 把挂锁（The EEF, 2019c；[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 50–52, 57]]）。
 > > - **前沿政策呼吁** [[Argument_Wolf_2020_JREE\|Wolf et al. (2020, p. 443)]] 明确提议美国联邦应当借鉴此类开放科学机制，将项目方案在效能与有效性研究注册处（REES）平台的强制预注册确立为被 WWC 纳入审查的前提准入条件，从源头阻断事后数据钓鱼与选择性报告。
 >
-> > [!axis] 单向“知识推送”与“[[Transfer Translation Transformation\|转译]]”[[Paradigm\|范式]]的系统局限
+> > [!axis] 单向“知识推送”与“转译”[[Paradigm\|范式]]的系统局限
 > > 争论单纯依靠线性供给与文本转译能否真正驱动一线实践变革与[[Research Utilization\|证据使用]]。
 > >
 > > - **[[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] 线性模型局限** WWC 体现了早期[[Knowledge Mediation\|知识中介]]的线性研究转移模型，假定将研究成果转译为用户友好的指南和工具包即可直接指导实践。然而实证证据表明，单纯的“知识推送”（Push）与文本分发并不能保证决策中的研究利用。
 > > - **[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] 生态模型反思** 相比英国 EEF 构建的“[[Research Schools Network\|研究学校网络]]”等深耕基层的生态体系，WWC 缺乏双向关系型互动与本土能力建设，导致高质量证据容易陷入与学校日常实践脱节的窘境([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 58, 62]])。
-> > - **[[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, p. 10)]] 转移作用[[Hypothesis|假设]]批判** WWC 作为[[International Education|国际教育]][[Educational Evidence Clearinghouses|证据清算中心]]的最典型代表，其制度繁荣掩盖了底层转移模型与因果作用假设（Wirkannahmen）的反思贫困；此类机构预设只要严格筛选出因果证据并进行指南转译实践者便会自发改变教学，但国际学界关于清算中心究竟在多大程度上真正达成了预期的转移目标（intendierte Transferziele），迄今为止在实证层面依然极度匮乏严格检验。
+> > - **[[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, p. 10)]] 转移作用假设批判** WWC 作为[[International Education|国际教育]][[Educational Evidence Clearinghouses|证据清算中心]]的最典型代表，其制度繁荣掩盖了底层转移模型与因果作用假设（Wirkannahmen）的反思贫困；此类机构预设只要严格筛选出因果证据并进行指南转译实践者便会自发改变教学，但国际学界关于清算中心究竟在多大程度上真正达成了预期的转移目标（intendierte Transferziele），迄今为止在实证层面依然极度匮乏严格检验。
 
 > > [!axis] 单研究法定合规漏洞与证据体整合的结构性断裂
 > > 争论 [[Every Student Succeeds Act\|ESSA]] 仅要求单项符合 WWC 标准的研究即可申领联邦拨款，是否制造了系统性的循证采购虚假性。
@@ -334,4 +330,4 @@ updated: 2026-09-28
 > | [[EPPI-Centre]] | 机构事实 | 英国大学依托型[[Systematic Review\|系统综述]]先驱，与 WWC 共同构成 [[OECD]] 十五年完全活跃的二元标杆。 |
 > | [[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]] | 关键论证 | 以 2.88 亿美元财务审计揭示 WWC 单库单研究合规门槛的系统性局限，为多库整合证据评估范式提供实证依据。 |
 > | [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart & Towne (2003)]] | 历史与政策论证 | 系统考证 WWC 创设初期的 1850 万美元合同及 [[Study Design and Implementation Assessment Device\|Study DIAD]] 规程在 47 项公共评议推动下的制度调整。 |
-> | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] | 外部论证 | 批判以 WWC 为首的国际清算中心底层转移模型与因果作用[[Hypothesis\|假设]]的反思贫困及实证检验赤字。 |
+> | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] | 外部论证 | 批判以 WWC 为首的国际清算中心底层转移模型与因果作用假设的反思贫困及实证检验赤字。 |

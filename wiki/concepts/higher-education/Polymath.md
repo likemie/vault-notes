@@ -8,7 +8,7 @@ aliases:
 summary: "指具备深厚跨学科认知广度与工程/实践创造力、能够自由穿透学科壁垒并参与国家战略治理的人格与知识形态。在近代科学专业化（1834 年科学家一词出现）之前，以富兰克林、杰斐逊等为代表的博学传统是早期技术共和国的政治与科学根基；现代学科过度区隔与代议技术人才匮乏使其成为跨学科治理反思的重要范畴。"
 type: concept
 domain: "higher-education"
-related_count: 13
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Refined Mastery]]"
   - "[[Pragmatism in China]]"
   - "[[Pragmatic Paradigm]]"
-  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Correlational Research]]"
@@ -40,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Polymath
@@ -134,7 +133,7 @@ updated: 2026-10-08
 > > [!axis] 知识爆炸时代通才的可行性
 > > 争论在当代庞大的知识体量下，个体是否仍有可能成为真正具有原创贡献的博学者。
 > >
-> > - **怀疑专精派** 认为当今单一微观领域的[[Document|文献]]积累已耗尽个人精力，博学往往流于蜻蜓点水式的平庸。
+> > - **怀疑专精派** 认为当今单一微观领域的文献积累已耗尽个人精力，博学往往流于蜻蜓点水式的平庸。
 > > - **跨界重组派** 坚持重大[[Paradigm|范式]]突破（如 AI 与现代战场感知重组）高度依赖能够穿透多领域的通识认知者，广度是催生深层洞见的催化剂。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 5–6)]]
 
 ---

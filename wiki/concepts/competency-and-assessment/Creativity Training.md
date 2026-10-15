@@ -11,7 +11,7 @@ aliases:
 summary: "通过显性认知策略、启发式重构工具、建构主义探究环境与情境指导语，系统识别、激发与提升个体与群体创造潜能的教育教学干预方案。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 59
+related_count: 56
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -43,7 +43,6 @@ related_concepts:
   - "[[Problem Finding]]"
   - "[[Lateral Thinking]]"
   - "[[Metacognition]]"
-  - "[[Hypothesis]]"
   - "[[Brainstorming]]"
   - "[[Structured Teaching]]"
   - "[[Incubation]]"
@@ -51,7 +50,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Habituation]]"
   - "[[Task Structure]]"
-  - "[[APA Style]]"
   - "[[Determinism]]"
   - "[[Domain Specificity]]"
   - "[[Independent Knowing]]"
@@ -70,7 +68,6 @@ related_methods:
   - "[[Role-playing]]"
   - "[[Meta-analysis]]"
   - "[[Experimental Research]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Three-Level Meta-Analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Meta-regression]]"
@@ -88,7 +85,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Creativity Training
@@ -178,7 +175,7 @@ updated: 2026-10-08
 > 此类干预将创造力培养深度嵌入学科课程与跨学科真实挑战中，主张创造力不是脱离知识内容的抽象演练，而是通过不良结构问题驱动高阶[[Knowledge Building Theory|知识建构]]与实体原型迭代（Yunita et al., 2020; Suganda et al., 2021; Vally et al., 2019）。
 >
 > 1. **问题驱动教学法（Problem-Based Learning, PBL）**
->    - **核心机制** 以开放、复杂、劣构的真实世界问题为驱动引擎，学生以小组为单位自主提出[[Hypothesis\|假设]]、检索信息、论证方案并迭代解决；
+>    - **核心机制** 以开放、复杂、劣构的真实世界问题为驱动引擎，学生以小组为单位自主提出假设、检索信息、论证方案并迭代解决；
 >    - **实证效应** Yunita et al. (2020) 元分析（$k = 24$ 项[[Experimental Research\|实验研究]]）证实，PBL 对学生创造性思维产生大效应促进（**$g = 0.87$**，95% [[Confidence Interval\|置信区间]] $[0.64, 1.10]$），显著优于常规讲授式教学。
 > 2. **跨学科 STEAM 与项目式整合教学（STEAM & Maker Education）**
 >    - **核心机制** 深度融合科学（Science）、技术（Technology）、工程（Engineering）、艺术（Arts）与数学（Mathematics），强调“做中学”（Learning by Making）与实体/数字原型制作；
@@ -211,7 +208,7 @@ updated: 2026-10-08
 > 此类干预聚焦语言符号表征的灵活性与数字化平台优势，加速远距离概念检索并消除群体互动中的生产力阻滞（Fink et al., 2015; [[Argument_Guo_2025_TSC\|Guo et al., 2025]]; DeRosa et al., 2007）。
 >
 > 1. **言语训练与即时口头外化（Verbal Training & Oral Ideation）**
->    - **认知机制** 依托另类用途测验（AUT）与口头叙事演练，要求学生在短时间内将发散意象快速[[Coding in Qualitative Research\|编码]]为语言符号，通过即时言语反馈打破评价顾虑并激活远距离语义网络；
+>    - **认知机制** 依托另类用途测验（AUT）与口头叙事演练，要求学生在短时间内将发散意象快速编码为语言符号，通过即时言语反馈打破评价顾虑并激活远距离语义网络；
 >    - **实证效应** [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] [[Three-Level Meta-Analysis\|多层元分析]]显示言语训练在所有干预方式中效应量居首（**$g = 0.998$**，95% CI $[0.437, 1.560]$），展现出极强的认知激活优势。
 > 2. **电子[[Brainstorming\|头脑风暴]]系统（Electronic Brainstorming, EBS）**
 >    - **解决痛点** 消除传统头脑风暴中的“评价顾虑（Evaluation Apprehension）”与“生产力阻塞（Production Blocking，即他人发言时自己无法记录思考）”；
@@ -333,7 +330,7 @@ updated: 2026-10-08
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1950s — 天赋论打破与可塑性倡导** Guilford 在 [[APA Style\|APA]] 主席演讲中提出[[Creativity\|创造力]]可测量且可培养，打破高智商[[Determinism\|决定论]]，呼吁开展创造性思维教育。
+> - **1950s — 天赋论打破与可塑性倡导** Guilford 在 APA 主席演讲中提出[[Creativity\|创造力]]可测量且可培养，打破高智商[[Determinism\|决定论]]，呼吁开展创造性思维教育。
 > - **1960s–1970s — 经典模型奠基** Osborn 与 Parnes 开发[[Creative Problem Solving\|创造性问题解决]]（CPS）模型；Torrance 开发[[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验]]（TTCT）及配套教学材料；Feldhusen 开发普渡创造性思维计划（PCTP）。
 > - **1980s–1990s — [[Meta-analysis\|元分析]]检验与领域整合** Rose & Lin (1984) 完成首项 PCTP 元分析；Amabile 强调内在动机与环境支持对创造力培养的关键调制作用。
 > - **2000s–2010s — 循证标准确立与探究[[Paradigm\|范式]]拓展** Scott et al. (2004) 与 Ma (2006) 建立严格的干预元分析基准；[[Constructivist Paradigm\|建构主义]] PBL 教学与跨学科 STEAM 整合项目成为主流教学载体。

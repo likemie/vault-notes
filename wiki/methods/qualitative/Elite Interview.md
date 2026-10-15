@@ -10,9 +10,9 @@ summary: "针对政策制定者、高级官员、学术领袖等具有高层决�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 40
-method_related_level: 5
-method_related_stars: "⭐⭐⭐⭐⭐"
+method_related_count: 39
+method_related_level: 4
+method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - qualitative
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Reliability]]"
   - "[[Interpretive Validity]]"
-  - "[[Document]]"
   - "[[Informed Consent]]"
   - "[[Research Question]]"
   - "[[Open-Mindedness]]"
@@ -69,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Elite Interview
@@ -104,7 +103,7 @@ updated: 2026-10-08
 
 > [!method-stack] 方法层级
 > - **研究设计** 质性政策[[Case Study\|案例研究]]、制度变迁历史追溯、多源证据整合设计。
-> - **数据收集** [[Semi-structured Interview\|半结构化访谈]]提纲、开放式深度对话、背景[[Document\|文献]]预先研判、[[Informed Consent\|知情同意]]与匿名保护协议。
+> - **数据收集** [[Semi-structured Interview\|半结构化访谈]]提纲、开放式深度对话、背景文献预先研判、[[Informed Consent\|知情同意]]与匿名保护协议。
 > - **分析方法** [[Coding in Qualitative Research\|质性编码]]、主题分析、跨受访者横向比对、叙事重构。
 > - **辅助技术**
 >   - 抽样技术：[[Snowball Sampling\|滚雪球抽样]]、[[Purposeful Sampling\|立意抽样]]与关键知情人矩阵设计。
@@ -135,7 +134,7 @@ updated: 2026-10-08
 > [!proc] 质性分析程序
 > 1. **逐字转录与匿名化清洗** 完整转录访谈录音，剔除可直接识别身份的专有地名与人名，分配 A1–A20 匿名编码。
 > 2. **两阶段质性主题编码** 在 MAXQDA 中首先开展[[Open Coding\|开放编码]]，提炼本土证据偏好、国际借用、守门机制与适宜性考量等[[Central Phenomenon\|核心范畴]]。
-> 3. **与政策[[Document\|文献]]交叉对质** 将精英口述中的非正式互动与同期 46 份政策白皮书、审查报告的引文特征进行一一映射比对。
+> 3. **与政策文献交叉对质** 将精英口述中的非正式互动与同期 46 份政策白皮书、审查报告的引文特征进行一一映射比对。
 > 4. **[[Epistemological Break\|认识论断裂]]链条提炼** 综合多方证词，构建出“[[Pragmatic Paradigm\|实用主义]]断裂 $\rightarrow$ 官僚守门 $\rightarrow$ 政策落地合规 $\rightarrow$ [[Policy-Based Evidence-Making\|逆向证据生产]]”的解释性模型。
 
 ---

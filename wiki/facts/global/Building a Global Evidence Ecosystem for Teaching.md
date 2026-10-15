@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 31
+fact_related_count: 29
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -27,9 +27,7 @@ related_concepts:
   - "[[Going Native]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Counterfactual]]"
-  - "[[Document]]"
   - "[[Knowledge Mediation]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Policy Mobility]]"
   - "[[Venture Philanthropy]]"
   - "[[Discourse]]"
@@ -62,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Building a Global Evidence Ecosystem for Teaching
@@ -90,7 +88,7 @@ updated: 2026-10-07
 
 > [!policy-design]- 方案设计与实施矩阵
 > - **跨国中介孵化** 资助与扶持海外独立中介伙伴（如澳大利亚的[[Evidence for Learning\|证据学习中心]]与拉美的 [[SUMMA]]），协助其搭建本土工具包并开展实地试点。
-> - **全球证据库互联** 共享基于反事实因果标准的实证[[Document\|文献]]库，推动全球[[Meta-analysis\|元分析]]与[[Meta-meta-analysis\|二阶元分析]]数据库的统一标准化汇编。
+> - **全球证据库互联** 共享基于反事实因果标准的实证文献库，推动全球[[Meta-analysis\|元分析]]与[[Meta-meta-analysis\|二阶元分析]]数据库的统一标准化汇编。
 > - **跨国人员互派与董事兼职** 推动 EEF 核心领导层（如首席执行官[[Sir Kevan Collins\|柯文·科林斯爵士]]）跨国指导或直接进驻海外新兴国家证据机构董事会（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 8–9]]）。
 
 > [!citation-card] [[BHP Foundation\|必和必拓基金会]]与 EEF 合作战略声明
@@ -106,7 +104,7 @@ updated: 2026-10-07
 > - **2018 — 伙伴协议签署与全球启动** [[Education Endowment Foundation\|EEF]] 与 [[BHP Foundation]] 正式签约启动项目，由 EEF 首席执行官 [[Sir Kevan Collins]] 挂帅，确立面向澳大利亚、智利等国的全球扩展蓝图（Collins, 2018；Edovald & Nevill, 2021）。
 > - **2018–2020 — 澳洲样板深化与 [[Australian Education Research Organisation\|AERO]] 催化** 借助该项目资金与技术输出，澳大利亚 [[Social Ventures Australia\|SVA]] 旗下的[[Evidence for Learning\|证据学习中心]]（E4L）加速推广澳洲版《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》，并在维多利亚州等公立学区展开试验，为后续澳大利亚联邦设立国家级 AERO 提供了最核心的实践样板与舆论铺垫（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 7]]）。
 > - **2021–2023 — 全球网络成型与跨界交织** EEF 模式在拉美（[[SUMMA]]）、欧洲多国生根，并与[[OECD\|经济合作与发展组织]]（OECD）[[Knowledge Mediation\|知识中介]]项目形成跨国呼应；同时促成柯文·科林斯直接出任澳大利亚 AERO 首届专家董事。
-> - **2023 — 机制制度化：正式成立“[[Evidence for Education Network\|教育证据网络]]”（EEN）** EEF 将跨国合作机制正式制度化为常设多边组织“教育[[Evidence Network\|证据网络]]”（Evidence for Education Network, EEN），并在全球 20 个国家和地区吸纳核心中介伙伴（涵盖西班牙“la Caixa”基金会、智利 [[SUMMA]]、新西兰教育评估办公室 ERO、约旦拉尼娅王后基金会 QRF、喀麦隆 eBASE Africa、波兰 IBE、比利时 Leerpunt 等），将工具包成功[[Going Native\|本土化]][[Transfer Translation Transformation\|转译]]为西班牙语、葡萄牙语、阿拉伯语、加泰罗尼亚语与法语 5 种语言版本。
+> - **2023 — 机制制度化：正式成立“[[Evidence for Education Network\|教育证据网络]]”（EEN）** EEF 将跨国合作机制正式制度化为常设多边组织“教育[[Evidence Network\|证据网络]]”（Evidence for Education Network, EEN），并在全球 20 个国家和地区吸纳核心中介伙伴（涵盖西班牙“la Caixa”基金会、智利 [[SUMMA]]、新西兰教育评估办公室 ERO、约旦拉尼娅王后基金会 QRF、喀麦隆 eBASE Africa、波兰 IBE、比利时 Leerpunt 等），将工具包成功[[Going Native\|本土化]]转译为西班牙语、葡萄牙语、阿拉伯语、加泰罗尼亚语与法语 5 种语言版本。
 > - **2024–2025 — 证据动员与前置试点策略转向** 面对多数全球南方国家缺乏可直接进行大规模因果 [[Randomised Controlled Trials\|RCT]] 的成熟干预方案这一瓶颈，项目策略由追求直接大规模评估务实转向优先孵化本土试点（Pilot Studies，如约旦流利阅读项目、喀麦隆女童教育卫生研究、拉美 EDU-LAC 教学试点），并将工作重心向教师培训大纲与微观教学实践动员倾斜。
 > - **2026 — 独立评估终审报告发布（NatCen, 2026）** 英国国家社会研究中心（NatCen）于 2026 年 1 月 22 日正式发布最终独立评估报告《Building a global [[Evidence Ecosystem]] for teaching: Evaluation – Final report》，系统确立了项目在工具本土化使用与证据动员方面的全球成效，并指出后资助时代的可持续性维持、地方政府政治认同（buy-in）以及本土干预成熟度储备是全球证据生态面临的最核心现实挑战。
 
@@ -133,7 +131,7 @@ updated: 2026-10-07
 > | [[BHP Foundation]] | 组织 | 提供巨额专项战略资金的跨国矿业企业慈善基金会。 |
 > | [[Sir Kevan Collins]] | 人物 | 掌舵并推动该项目立项的 EEF 首席执行官。 |
 > | [[Evidence for Learning]] | 组织 | 该项目在澳大利亚的核心落地伙伴与工具包试验平台。 |
-> | [[SUMMA]] | 组织 | 该项目在拉丁美洲和加勒比地区的核心落地中枢，推动工具包西葡双语[[Transfer Translation Transformation\|转译]]与本土试验。 |
+> | [[SUMMA]] | 组织 | 该项目在拉丁美洲和加勒比地区的核心落地中枢，推动工具包西葡双语转译与本土试验。 |
 | [[Evidence for Education Network]] | 组织 | 2023 年由该项目正式升格体制化组建的全球常设教育[[Evidence Network\|证据网络]]。 |
 > | [[Australian Education Research Organisation]] | 组织 | 项目输出模式在澳大利亚国家政权层面的最终制度化实体。 |
 > | [[Policy Mobility]] | 概念 | 该项目构成了[[Output-Oriented Governance\|循证治理]]技术跨国流动与突变的最具代表性操作范例。 |

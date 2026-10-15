@@ -10,10 +10,10 @@ summary: "中世纪早期基督教隐修院制度奠基人，西方修道主义�
 type: person
 nationality: italy
 person_region: "italy"
-person_related_count: 8
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 born: "c. 480"
 died: "548"
 lifespan: "c. 480–548"
@@ -27,7 +27,6 @@ tags:
 related_concepts:
   - "[[Sage]]"
   - "[[Technological Republic]]"
-  - "[[Document]]"
   - "[[Procedural Piety]]"
   - "[[Scapegoat Mechanism]]"
 related_theories: []
@@ -42,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Saint Benedict
@@ -77,7 +76,7 @@ updated: 2026-10-08
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作与思想传承
-> - **529–547 — 《圣本笃会规》（*Regula Sancti Benedicti*）** 奠定西方隐修共同体的宪章性[[Document|文献]]，强调权威服从、劳作与灵修平衡、集体决策与对犯错弟兄的阶梯式矫正宽恕，彻底排斥残酷肉刑与道德绝罚。
+> - **529–547 — 《圣本笃会规》（*Regula Sancti Benedicti*）** 奠定西方隐修共同体的宪章性文献，强调权威服从、劳作与灵修平衡、集体决策与对犯错弟兄的阶梯式矫正宽恕，彻底排斥残酷肉刑与道德绝罚。
 > - **593–594 — 额我略一世《对话录·第二卷》（*Life of Saint Benedict*）** 记述本笃生平神迹与伦理戒律；其中关于弗洛伦蒂乌斯之死与本笃责备门徒幸灾乐祸的篇章，确立了西方文明中对待敌手的道德克制与悲悯原则。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 188–189)]]
 
 ---

@@ -6,7 +6,7 @@ aliases:
 summary: "认识论与课程论中指称人类获取、建构、表达和审查知识的多维途径与经验资源；既是国际文凭知识论课程中连接个人与共享知识的元认知分析框架，也是科学教育视阈下体现学科特异性与文化多样性的认识论实践形态。"
 type: concept
 domain: "curriculum"
-related_count: 42
+related_count: 41
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[STEM Education]]"
   - "[[Epistemic Practices]]"
-  - "[[Hypothesis]]"
   - "[[Scientific Method]]"
   - "[[Champ]]"
   - "[[Knowledge Framework]]"
@@ -68,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-26
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Ways of Knowing
@@ -84,7 +83,7 @@ updated: 2026-10-07
 
 > [!concept-lens] 概念透镜
 > - **含义** 刻画知者借助哪些认知资源、符号中介与社会规程形成并审查知识主张。
-> - **用途** 在跨学科课程中帮助学生辨析不同学科知识主张的形成机制，反思感知偏差与修辞[[Hypothesis\|假设]]；在科学教学中破除教条的单一[[Scientific Method\|科学方法]]神话，展现多元学科的家族相似性。
+> - **用途** 在跨学科课程中帮助学生辨析不同学科知识主张的形成机制，反思感知偏差与修辞假设；在科学教学中破除教条的单一[[Scientific Method\|科学方法]]神话，展现多元学科的家族相似性。
 > - **边界** 认知方式不是彼此割裂封闭的心智模块，而在实际认识活动中高度交织；它提供了考察知识形成过程的认识论透镜，而非机械打勾的技能操作清单。
 
 > [!citation-card] 凯利与利科纳（2018）论学科认知方式与公共证据审查
@@ -104,7 +103,7 @@ updated: 2026-10-07
 > [!contrast-table] 认知方式与相近[[Epistemology\|认识论]][[Construct\|构念]]辨析
 > | 比较维度 | 认知方式（Ways of Knowing） | 认识论实践（[[Epistemic Practices]]） | 知识领域（[[Areas of Knowledge]]） | 传统科学方法（[[Scientific Method]]） |
 > |---|---|---|---|---|
-> | **核心关切** | 我或我们如何获知与检验经验 | 共同体如何提出、沟通、评估与合法化主张 | 知识在哪些学科传统与社会领域中组织 | 如何通过经验观察与受控实验验证[[Hypothesis\|假设]] |
+> | **核心关切** | 我或我们如何获知与检验经验 | 共同体如何提出、沟通、评估与合法化主张 | 知识在哪些学科传统与社会领域中组织 | 如何通过经验观察与受控实验验证假设 |
 > | **[[Unit of Analysis\|分析单位]]** | 感知、语言、理性等认知与符号资源 | 微观[[Discourse\|话语]]互动、具身动作与社会规范规程 | 数学、自然科学、历史、艺术等大类系统 | 假设提出、[[Variable\|变量]]控制与实验检验线性步骤 |
 > | **认识论取向** | [[Metacognition\|元认知]]反思与跨学科认识资源考察 | 社会建构论与情境化微观互动实践 | 知识分类学与[[Disciplinary Institutionalization\|学科建制]]传统 | 经典[[Positivism\|实证主义]]法则性推论与经验[[Falsification\|证伪]] |
 > | **课程功能** | 提供追问知识形成来源的反思工具 | 引导学生深度参与学科真实探究文化 | 框定知识探究与课程大纲的具体领域 | 作为理科实验操作的标准[[Homework\|作业]]程序规范 |
@@ -189,7 +188,7 @@ updated: 2026-10-07
 > 探讨当认知方式被制度化为评估打分标准时，如何平衡其认识论反思价值与空洞套用概念标签的形式主义倾向。
 
 > [!claim] [[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]]
-> **框架词汇对实质性批判反思的潜在替代** 当认知方式与[[Areas of Knowledge\|知识领域]]被深度嵌入跨学科大纲与评分量规后，极易被学生异化为展示课程熟练度的表面标签。学生可能倾向于在[[Homework\|作业]]中密集罗列“语言”、“情感”或“理性”等术语以迎合评分描述符，这种套路化的“术语表演”实际上削弱了对具体[[Chain of Evidence\|证据链]]、逻辑漏洞与实质性[[Hypothesis\|假设]]的严密审查。[[Argument_Zemplen_2007_SciEduc\|(Zemplén, 2007, pp. 171–173)]]
+> **框架词汇对实质性批判反思的潜在替代** 当认知方式与[[Areas of Knowledge\|知识领域]]被深度嵌入跨学科大纲与评分量规后，极易被学生异化为展示课程熟练度的表面标签。学生可能倾向于在[[Homework\|作业]]中密集罗列“语言”、“情感”或“理性”等术语以迎合评分描述符，这种套路化的“术语表演”实际上削弱了对具体[[Chain of Evidence\|证据链]]、逻辑漏洞与实质性假设的严密审查。[[Argument_Zemplen_2007_SciEduc\|(Zemplén, 2007, pp. 171–173)]]
 
 > [!claim] [[Argument_Hughes_2014_JRIE\|Hughes (2014)]]
 > **大纲对齐与[[Critical Thinking\|批判性思维]][[Construct\|构念]]覆盖的不完全性** 考察评估指标发现，课程指南主要奖励学生建立认知方式与知识领域之间的结构连接与比较探索，但较少对证据来源可[[Reliability\|信度]]核查、假设检验严密性与真实[[Problem Solving\|问题解决]]设定独立评分指标。因此，熟练调用认知方式分类框架不能等同于完全具备了高阶批判性思维构念。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 37–43)]]
@@ -201,7 +200,7 @@ updated: 2026-10-07
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **认知协同建构命题** | 多种认知方式动态互动，构成私人经验通向共享知识的认识论桥梁 | 跨学科探究、知识主张形成机制分析 | Darwish (2009); [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] |
+> | **认知协同建构命题** | 多种认知方式动态互动，构成私人经验通向共享知识的认识论桥梁 | 跨学科探究、知识主张形成机制分析 | [[Argument_Darwish_2009_Queens\|Darwish (2009)]]; [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] |
 > | **学科异质与公共审查命题** | 认知方式具有鲜明的学科特异性，核心在于使证据面向公共理性审查开放 | K-12 科学教育、跨学科认识论实践、科学方法批判 | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]] |
 > | **评估异化与构念张力命题** | 认知方式的标准化评分在促进对齐的同时存在术语表演与替代思维的风险 | 课程评估设计、论文量规研制、[[Critical Thinking Assessment\|批判性思维评价]] | [[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]]; 同上（Hughes） |
 
@@ -243,7 +242,7 @@ updated: 2026-10-07
 > | 领域与情境 | 核心调用的认知方式 | 探究任务或案例 | [[Epistemology\|认识论]]功能与反思点 | 证据来源 |
 > |---|---|---|---|---|
 > | **IB [[Theory of Knowledge\|TOK]] 感知[[Reliability\|可靠性]]探究** | 感官知觉、语言、理性 | 结合[[René Descartes\|笛卡尔]]沉思、[[Plato\|柏拉图]]洞穴喻与阿什从众实验考察观察偏差 | 审视前概念、感觉通道局限与群体规范对客观观察的渗透 | [[Argument_Darwish_2009_Queens\|Darwish (2009, p. 17)]] |
-> | **物理探究教学** | 具身动作、语言、模型推演 | 高中简谐振动实验中结合传感器波形与手势模仿提出猜想 | 调动多通道感知与具身认知建立微观因果[[Hypothesis\|假设]] | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, pp. 144–145)]] |
+> | **物理探究教学** | 具身动作、语言、模型推演 | 高中简谐振动实验中结合传感器波形与手势模仿提出猜想 | 调动多通道感知与具身认知建立微观因果假设 | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, pp. 144–145)]] |
 > | **工程设计教育** | 想象、理性、修辞辩护 | 小学三年级太阳能装置设计与面向小记者的汇报辩护 | 在多重物理与成本约束下寻求最优折中并依据受众调整论据 | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, pp. 145–146)]] |
 
 ---

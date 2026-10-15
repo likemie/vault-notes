@@ -12,7 +12,7 @@ aliases:
 summary: "由全球教育治理中的多边组织、国家政府和跨国智库共同推动的政策修辞与规范框架，旨在界定未来劳动力市场所需关键能力并塑造教育政策与自我企业家主体性；实证研究揭示其存在技能空心化、实践转译断裂以及高教宏观倡导与微观评价滞后的制度脱节，二阶元分析证实合作学习对21世纪综合高阶技能具有显著赋能效应（ES = 0.76/0.84）。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 72
+related_count: 70
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Employability]]"
   - "[[Self-Entrepreneur]]"
   - "[[Graduate Attributes]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Global Citizenship]]"
   - "[[Critical Thinking]]"
   - "[[Champ]]"
@@ -42,7 +41,6 @@ related_concepts:
   - "[[Floating Signifier]]"
   - "[[Rote Learning]]"
   - "[[Construct]]"
-  - "[[Hypothesis]]"
   - "[[Creativity]]"
   - "[[Scientific Literacy]]"
   - "[[Data Literacy]]"
@@ -125,7 +123,7 @@ updated: 2026-10-15
 > - **边界** 区别于具体学科内的专业知识教学，SCD 侧重于超越学科门类的横向可迁移技能（Transversal / Generic Skills）；但若脱离具体学科知识脉络、实体制造公地与实证探究载体，极易沦为抽象口号与技能空心化。
 
 > [!boundary]- 概念边界
-> - 不等于 **[[Graduate Attributes|毕业生特质]]** —— SCD 运作于全球与国家政策话语层，界定哪些通用能力具有市场合法性；毕业生特质则是高等院校对这些技能的制度化[[Transfer Translation Transformation|转译]]与课程操作，兼顾学术传承与公民责任。[[Argument_Wong_2022_HERD|(Wong et al., 2022, p. 1341)]]
+> - 不等于 **[[Graduate Attributes|毕业生特质]]** —— SCD 运作于全球与国家政策话语层，界定哪些通用能力具有市场合法性；毕业生特质则是高等院校对这些技能的制度化转译与课程操作，兼顾学术传承与公民责任。[[Argument_Wong_2022_HERD|(Wong et al., 2022, p. 1341)]]
 > - 不等于 **[[Employability|就业能力]]** —— 就业能力是 SCD 最核心的功利化目标，但 SCD 范围更广，不仅定义就业技能，更建构了个体应当主动进行终身技能投资的主体性规范。[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, p. 260)]]
 > - 不等于 **[[Global Citizenship|全球公民]]素养** —— SCD 框架系统性偏向与短期生产力直接挂钩的认知技能（如[[Critical Thinking|批判性思维]]、协作），而将全球公民、环境伦理、文化同理心与社会正义等非认知品质置于边缘位置。[[Argument_SpronkenSmith_2024_AEHE|(Spronken-Smith et al., 2024, pp. 89–90)]]
 
@@ -137,7 +135,7 @@ updated: 2026-10-15
 > | 维度 | 21 世纪技能与素养话语 ([[Single-Case Design\|SCD]]) | [[Graduate Attributes\|毕业生特质]] | 传统学科知识体系 |
 > |---|---|---|---|
 > | **运作[[Champ\|场域]]** | [[Global Policy Space\|全球政策空间]]、多边组织、跨国智库 | 高等院校内部课程治理与培养方案 | 基础学科院系、专业学术共同体 |
-> | **核心机制** | 经济不确定性修辞、标准化评估驱动 | 院校愿景[[Transfer Translation Transformation\|转译]]、学习产出对齐 | 概念演进、[[Epistemology\|认识论]]探究与[[Paradigm\|范式]]训练 |
+> | **核心机制** | 经济不确定性修辞、标准化评估驱动 | 院校愿景转译、学习产出对齐 | 概念演进、[[Epistemology\|认识论]]探究与[[Paradigm\|范式]]训练 |
 > | **核心主体假定** | 自我负责、时刻升级的[[Self-Entrepreneur\|自我企业家]] | 兼具专业素养与社会责任的合格毕业生 | 掌握特定学科范式与[[Big Ideas\|大概念]]的学者/学徒 |
 > | **潜在实践危机** | [[Floating Signifier\|漂浮能指]]运作、技能空心化、加剧不平等 | 机构修辞与院系落实脱节 | 事实[[Rote Learning\|死记硬背]]过载、缺乏横向可迁移性 |
 
@@ -146,7 +144,7 @@ updated: 2026-10-15
 ## 核心要素
 
 > [!feature] 核心[[Construct|构念]]：主导认知的“四 C 核心”与高阶心智能力
-> - **[[Critical Thinking|批判性思维]]（Critical Thinking）** 证据评估、逻辑推理、识别前提[[Hypothesis|假设]]与辨析虚假信息的能力。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 4)]]
+> - **[[Critical Thinking|批判性思维]]（Critical Thinking）** 证据评估、逻辑推理、识别前提假设与辨析虚假信息的能力。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 4)]]
 > - **[[Creativity|创造力]]（Creativity）** 产生新颖、适应性观念与解决劣构复杂问题的发散性设计能力。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 5)]]
 > - **协作（Collaboration）** 跨学科团队分工、认知冲突协调与集体智能构建能力。
 > - **沟通（Communication）** 多模态学术表达、向多元受众清晰传递复杂逻辑的思想表达能力。[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, p. 257)]]
@@ -303,7 +301,7 @@ updated: 2026-10-15
 > |---|---|---|---|---|---|---|
 > | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] / TESTA 项目 | 英国等 70 余所高校 100 多个本科专业 | 纵向全课程评价调查与追踪 | 模块化考核负荷与[[Learning Gain\|学习增益]] | 本科三年经历 60–80 项独立终结性考试；大一至大三[[Critical Thinking\|批判性思维]]增益微弱 | 描述性与跨校对比统计 | 揭示模块化碎片化考核（Hyper-Assessment）迫使学生采取应试[[Surface and Deep Learning\|表层学习]]，阻碍 21 世纪高阶素养养成 |
 > | [[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al. (2024)]] | 美新三国 136 名 PhD 校友 | [[Comparative Case Study\|比较案例研究]] | 4C 技能与可迁移特质自报感知 | 研究批判技能均值 4.4/5；团队合作 2.9/5，跨界沟通 3.7/5；环境素养 2.8/5（垫底） | 组间均值差异显著 | 揭示博士教育中高阶探究技能与社会协作及环境伦理的系统性断裂 |
-> | [[Argument_Beech_2009_CE\|Beech (2009a)]] | 阿根廷与巴西教师教育者 | [[In-depth Interview\|深度访谈]]与[[Coding in Qualitative Research\|质性编码]] | 对能力课程标准的[[Transfer Translation Transformation\|转译]]理解 | 产生四种互不兼容的解读：归入旧行为目标、坦承不懂、视为既有合法化、[[Epistemology\|认识论]]大杂烩 | — | 全球[[Floating Signifier\|漂浮能指]]在具体国家与教师实践转译中产生严重概念混乱 |
+> | [[Argument_Beech_2009_CE\|Beech (2009a)]] | 阿根廷与巴西教师教育者 | [[In-depth Interview\|深度访谈]]与[[Coding in Qualitative Research\|质性编码]] | 对能力课程标准的转译理解 | 产生四种互不兼容的解读：归入旧行为目标、坦承不懂、视为既有合法化、[[Epistemology\|认识论]]大杂烩 | — | 全球[[Floating Signifier\|漂浮能指]]在具体国家与教师实践转译中产生严重概念混乱 |
 > | UK Science Education Tracker，引自 [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]] | 英格兰 11–18 岁中学生（纵向追踪） | 追踪调查统计 | 课堂动手实验双周率与[[Science Capital\|科学资本]] | 动手实验率从 44%（2016）暴跌至 26%（2023），高 SES 家庭科学资本优势扩大 | 下降幅度达 18 个百分点 | 揭示技能[[Discourse\|话语]]宣称与应试刷题及课时削减之间的尖锐断裂 |
 
 ---
@@ -313,7 +311,7 @@ updated: 2026-10-15
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — [[OECD]] 国际报告，系统论证 21 世纪高阶素养在高等教育落地中面临的评价瓶颈，提出重构学业评价的五大政策杠杆与全课程改革方案。
 > - [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022)]] — 批判[[Discourse Analysis|话语分析]]，系统剖析 21 世纪技能[[Discourse|话语]]的全球演变、新自由主义主体性[[Disciplina and Doctrina|规训]]与被边缘化的全人素养。
-> - [[Argument_Beech_2009_CE|Beech (2009a)]] — 考察能力话语在[[Global Policy Space|全球政策空间]]中的[[Floating Signifier|漂浮能指]]运作，揭示拉美教师教育中的[[Transfer Translation Transformation|转译]]断裂与概念混乱。
+> - [[Argument_Beech_2009_CE|Beech (2009a)]] — 考察能力话语在[[Global Policy Space|全球政策空间]]中的[[Floating Signifier|漂浮能指]]运作，揭示拉美教师教育中的转译断裂与概念混乱。
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026)]] — 提出智能时代四大交叉素养蓝图，主张核心素养必须扎根于学科[[Big Ideas|大概念]]与实证探究，批判技能空心化。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室战略报告，批判脱离实体制造的抽象技能空心化，提出将车间实训、排障手艺与自动化机器核验确立为智能时代高阶能力新支柱。
 > - [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]] — 实证调查高等教育最高阶段的通用特质培养感知，揭示协作能力与环境素养的严重欠缺。
@@ -334,6 +332,6 @@ updated: 2026-10-15
 > | [[Critical Thinking]] | Concept | 4C 技能中强调证据评估、论证辨析与反思怀疑的核心思维能力。 |
 > | [[Engineering Education]] | Concept | 推动 21 世纪素养从纯认知抽象向动手实训与多约束系统设计转化的教育[[Paradigm\|范式]]。 |
 > | [[Process Knowledge]] | Concept | 智能时代 21 世纪技能话语反思抽象空心化、重振实体排障手感所依赖的默会工艺知识。 |
-> | [[Graduate Attributes]] | Concept | 大学对 21 世纪通用能力话语进行院校本位[[Transfer Translation Transformation\|转译]]与课程对齐的治理载体。 |
+> | [[Graduate Attributes]] | Concept | 大学对 21 世纪通用能力话语进行院校本位转译与课程对齐的治理载体。 |
 > | [[OECD]] | Fact (Organization) | 长期主导全球 21 世纪技能标准设定与 [[PISA]] 测评跨国治理的多边组织。 |
 > | [[Michael Kratsios]] | Person | 主张重塑智能时代车间排障手艺与工匠素养底座的科技政策学者。 |

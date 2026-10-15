@@ -9,7 +9,7 @@ aliases:
 summary: "加芬克尔常人方法学的核心概念，指言语陈述与社会行动的意义深嵌于产生它们的情境脉络与互动历史中，依赖参与者共享的默会理解而无法脱离语境独立存在。"
 type: concept
 domain: "sociology-of-education"
-related_count: 27
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Epistemology]]"
   - "[[Research Problem]]"
-  - "[[Document]]"
   - "[[Interpretive Paradigm]]"
   - "[[Cultural Capital]]"
   - "[[Scientism]]"
@@ -38,7 +37,6 @@ related_theories:
   - "[[Ethnomethodology]]"
   - "[[Phenomenology]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Conversation Analysis]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Classroom Observation]]"
@@ -78,7 +76,7 @@ updated: 2026-10-15
 > *Central to ethnomethodology is the concern with how people make sense of their everyday world... Everyday life displays an astonishing indexicality: the meanings of words and acts are tied to the social contexts in which they are produced, shared by participants without needing to be explicitly stated. (Garfinkel, 1967)*
 
 > [!citation-card] Walker 与 Adelman 论课堂草莓暗号的情境索引性
-> 在沃克与阿德尔曼记录的经典中学课堂片段中，男生威尔逊以一句“草莓，草莓！”回应教师严肃的纪律警告，瞬间引爆全班哄堂大笑。[[Flanders Interaction Analysis Categories\|弗兰德斯互动分析]]（FIAC）将其[[Coding in Qualitative Research\|编码]]为孤立的代码串 '7-4-9-10'，但这一代码串根本无法解释为什么这句打断会被视作幽默。事实上，教师此前多次调侃学生的[[Homework\|作业]]“像草莓——好的地方很好但能吃的部分太少”；这一历史隐喻在师生长期互动中沉淀为高度索引性的情境密语。学生在此刻以该密语作为机敏回应，表面破坏纪律，实则激活了共享默契、化解了对抗尴尬；唯有深入其索引性语境，互动的真实意义方能显现。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 20–21)]]
+> 在沃克与阿德尔曼记录的经典中学课堂片段中，男生威尔逊以一句“草莓，草莓！”回应教师严肃的纪律警告，瞬间引爆全班哄堂大笑。[[Flanders Interaction Analysis Categories\|弗兰德斯互动分析]]（FIAC）将其编码为孤立的代码串 '7-4-9-10'，但这一代码串根本无法解释为什么这句打断会被视作幽默。事实上，教师此前多次调侃学生的[[Homework\|作业]]“像草莓——好的地方很好但能吃的部分太少”；这一历史隐喻在师生长期互动中沉淀为高度索引性的情境密语。学生在此刻以该密语作为机敏回应，表面破坏纪律，实则激活了共享默契、化解了对抗尴尬；唯有深入其索引性语境，互动的真实意义方能显现。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 20–21)]]
 >
 > *Only by understanding the relationship that had developed over time – the indexical context of this particular social encounter – could one begin to understand the interaction.*
 
@@ -177,11 +175,11 @@ updated: 2026-10-15
 > **拒绝修补索引性** 加芬克尔严正反对主流社会学试图“修补（remedy）”或消灭索引性的做法；他主张社会科学不应像自然科学那样妄图确立超然于语境的绝对法则，而应当将“索引性现象如何在具体行动中被实践性地达成与管理”作为社会科学最核心的[[Research Problem\|研究议题]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 19)]]
 
 > [!claim-table] 索引性核心命题汇总
-> | 命题编号 | 核心理论断言 | 代表学者与[[Document\|文献]] | 认识论／方法论取向 |
+> | 命题编号 | 核心理论断言 | 代表学者与文献 | 认识论／方法论取向 |
 > |---|---|---|---|
 > | **命题一** | 日常言语与行动的意义深嵌于特定时空情境之中 | Garfinkel (1967, p. 11); Bar-Hillel (1954) | 常人方法学、语言哲学 |
 > | **命题二** | 索引性的顺畅运作依托于共享常识知识库与历史 | Schutz (1967); Walker & Adelman (1975, p. 133) | [[Phenomenology\|现象学]]社会学、情境互动论 |
-> | **命题三** | 实证主义去情境化行为[[Coding in Qualitative Research\|编码]]必然造成系统性误读 | Delamont (1976); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011)]] | 课堂民族志、[[Interpretive Paradigm\|反实证主义]]批判 |
+> | **命题三** | 实证主义去情境化行为编码必然造成系统性误读 | Delamont (1976); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011)]] | 课堂民族志、[[Interpretive Paradigm\|反实证主义]]批判 |
 > | **命题四** | 索引性是社会现实的本然特征而非待修补缺陷 | Garfinkel (1967, p. 18) | 微观社会学元理论 |
 
 ---
@@ -212,6 +210,6 @@ updated: 2026-10-15
 ## 论证索引
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 19–21)]] — 详尽阐述加芬克尔常人方法学中的索引性原理，并以“草莓事件”（Walker & Adelman, 1975）作为经典实证案例，批判 [[Flanders Interaction Analysis Categories\|FIAC]] 机械行为[[Coding in Qualitative Research\|编码]]对情境索引性的抹杀。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 19–21)]] — 详尽阐述加芬克尔常人方法学中的索引性原理，并以“草莓事件”（Walker & Adelman, 1975）作为经典实证案例，批判 [[Flanders Interaction Analysis Categories\|FIAC]] 机械行为编码对情境索引性的抹杀。
 
 ---

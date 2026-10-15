@@ -7,7 +7,7 @@ summary: "中国高等教育研究者，双模式框架提出者和 金榜题名
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 29
+person_related_count: 28
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -26,8 +26,8 @@ related_concepts:
   - "[[Cultural Barrier]]"
   - "[[Academic and Social Integration]]"
   - "[[Cultural Capital]]"
-  - "[[Habitus]]"
   - "[[Champ]]"
+  - "[[Habitus]]"
   - "[[Academic Engagement]]"
   - "[[Social Engagement]]"
   - "[[Self-Driven Mode]]"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Cultural Disembedding]]"
   - "[[Cultural Disorientation]]"
   - "[[Unit of Analysis]]"
-  - "[[Hypothesis]]"
 related_theories:
   - "[[Culture as Toolkit]]"
   - "[[Dual-Process Model of Culture in Action]]"
@@ -57,7 +56,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-10-02
+updated: 2026-10-15
 ---
 # Yajun Zheng
 
@@ -92,7 +91,7 @@ updated: 2026-10-02
 ## 核心思想
 
 > [!tip]-
-> 郑雅君的核心理论贡献在于整合三条理论脉络——高等教育学（[[Academic and Social Integration\|Tinto 融入理论]]、Kuh 投入理论）、教育社会学（wiki-[[Pierre Bourdieu]] [[Cultural Capital\|文化资本]]与[[Habitus\|习性]]理论）和文化社会学（韦伯价值理性、[[Ann Swidler]] [[Culture as Toolkit\|文化工具箱]]、[[Dual-Process Model of Culture in Action\|Vaisey 双过程模型]]）——建构了一个由"资本化过程—投入过程—价值选择过程"三层嵌套组成的"大学过程"[[Analytic Framework\|分析框架]]([[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]])。
+> 郑雅君的核心理论贡献在于整合三条理论脉络——高等教育学（[[Academic and Social Integration\|Tinto 融入理论]]、Kuh 投入理论）、教育社会学（wiki-[[Pierre Bourdieu]] [[Cultural Capital\|文化资本]]与习性理论）和文化社会学（韦伯价值理性、[[Ann Swidler]] [[Culture as Toolkit\|文化工具箱]]、[[Dual-Process Model of Culture in Action\|Vaisey 双过程模型]]）——建构了一个由"资本化过程—投入过程—价值选择过程"三层嵌套组成的"大学过程"[[Analytic Framework\|分析框架]]([[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]])。
 
 > [!quote]
 > "如果说整本书有什么是我最迫切想和读者分享的，那就是当我将自己浸没在被访者的声音中，我的发现恰恰挑战了自己先前想当然的前提假设——学生的毕业去向都是他们有意图地主动选择的结果"([[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]])
@@ -125,7 +124,7 @@ updated: 2026-10-02
 ### 2014–2017 研究起点与首轮田野
 
 - **核心问题** 中国一流大学中，社会出身如何影响学生的毕业出路？
-- **思想发展** 2014 年夏以 Bourdieu 的再生产理论为出发点启动研究。2015 秋至 2017 年初在两所顶尖大学完成首轮 38 名毕业班学生访谈。此阶段的发现开始挑战其初始[[Hypothesis|假设]]——学生的出路并非全是有意图的主动选择，部分学生的"选择"更多是对处境的本能反应，这为双模式概念的萌生奠定了经验基础([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
+- **思想发展** 2014 年夏以 Bourdieu 的再生产理论为出发点启动研究。2015 秋至 2017 年初在两所顶尖大学完成首轮 38 名毕业班学生访谈。此阶段的发现开始挑战其初始假设——学生的出路并非全是有意图的主动选择，部分学生的"选择"更多是对处境的本能反应，这为双模式概念的萌生奠定了经验基础([[Argument_Zheng_2023_ShanghaiSanlian|郑雅君, 2023]])。
 
 ### 2017–2018 补充田野与理论深化
 

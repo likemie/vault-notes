@@ -8,7 +8,7 @@ aliases:
 summary: "一种由政治迫切性与媒介逻辑共同驱动的治理形态，指出政策行动者与大众媒体通过选择性建构危机叙事并规避具体方案审视，使全球评估数据转化为推动本土激进改革的合法化工具"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 29
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[Governance by Spin]]"
   - "[[Policy Avoidance]]"
-  - "[[Hypothesis]]"
   - "[[Discourse]]"
   - "[[Soft Power]]"
   - "[[Dramatic Tension]]"
@@ -55,7 +54,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Mediatised Governance
@@ -81,7 +80,7 @@ updated: 2026-10-07
 > [!boundary]- 概念边界
 > - **不同于中介传播（Mediation）** 中介传播仅指通过大众媒体传递中立信息的静态过程；媒介化（Mediatisation）则是一种动态的元进程（meta-process），迫使政治主体遵循媒体的制作逻辑、叙事格式与时间约束进行政策表达。
 > - **不同于纯粹的[[Governance by Spin\|舆论操控]]（[[Governance by Spin]]）** 舆论操控聚焦于政府公关团队主动管理并掩盖政策争议的单向技术；媒介化治理则涵盖媒体自身基于商业竞争与新闻价值而主动参与的议程共谋与[[Policy Avoidance\|政策规避]]，媒体并非政府的被动传声筒。
-> - **不同于超国家自上而下统摄（Global Governance）** 全球治理理论常[[Hypothesis\|假设]]超国家组织通过软法与指标迫使各国政策同质化；媒介化治理则表明国内行动者拥有极强的主体性，利用跨国评估工具的可塑性反向服务于国内政治角力。
+> - **不同于超国家自上而下统摄（Global Governance）** 全球治理理论常假设超国家组织通过软法与指标迫使各国政策同质化；媒介化治理则表明国内行动者拥有极强的主体性，利用跨国评估工具的可塑性反向服务于国内政治角力。
 
 ---
 

@@ -14,7 +14,7 @@ subtype: institution
 region: china
 fact_region: "china"
 fact_kind: "institution"
-fact_related_count: 15
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#e5e7eb"
@@ -30,11 +30,9 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Migrant Children]]"
   - "[[Further Education]]"
-  - "[[Attrition]]"
   - "[[Migrant Education]]"
   - "[[Growth]]"
   - "[[Paradigm]]"
-  - "[[Document]]"
 related_theories:
   - "[[Spatial Governmentality]]"
   - "[[Governmentality]]"
@@ -50,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-10
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Schools for Migrant Children
@@ -78,7 +76,7 @@ updated: 2026-10-10
 >   - **就近服务与看护协同** 学校深度嵌入城中村与农民工聚集区，提供早接晚送、寄宿托幼及周末看护，有效解决了父母高强度打工下的托育危机。
 > - **物质条件与资源局限**
 >   - **校舍简陋隐患** 绝大多数学校租赁废弃厂房、农田大棚或旧仓库办学，缺乏标准的体育操场、理化实验室与安全消防通道；
->   - **师资高度流动** 教师多为未取得公立编制的青年毕业生或退休代课教师，工资待遇微薄且缺乏[[Further Education|继续教育]]机会，师资[[Attrition|流失]]率极高。
+>   - **师资高度流动** 教师多为未取得公立编制的青年毕业生或退休代课教师，工资待遇微薄且缺乏[[Further Education|继续教育]]机会，师资流失率极高。
 
 ---
 
@@ -142,6 +140,6 @@ updated: 2026-10-10
 > | [[Spatial Governmentality]] | Theory | **解释理论工具** 剖析地方政府如何借由校舍审批、安全检查与强制关停对流动人口实施空间配置与人口调控。 |
 > | [[Two Problematics of Educational Inclusion and Exclusion]] | Theory | **批判反思视角** 揭示即使公立学校名义上包容流动儿童，体制外打工学校的取缔依然再生产出空间与象征排斥。 |
 > | [[2014 Hukou Reform]] | Fact (Policy) | **后续制度演进** 推进居住证制度与以流入地公办为主保障随迁子女就学的新一轮国家顶层改革。 |
-> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] | 论证 | 深入剖析中国打工子弟学校在城市空间治理与国家人口管控中遭遇整顿的经典比较教育[[Document\|文献]]。 |
+> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] | 论证 | 深入剖析中国打工子弟学校在城市空间治理与国家人口管控中遭遇整顿的经典比较教育文献。 |
 
 ---

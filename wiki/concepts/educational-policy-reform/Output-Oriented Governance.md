@@ -12,7 +12,7 @@ aliases:
 summary: "指以最终实质成效与产出为核心裁判尺度的现代治理范式。在教育领域，表现为以国家质量标准、系统成效监测与数据反馈为核心，强调路径自主而非目标自主的调控模式；在国家战略与公共治理领域，表现为以物理世界实质成果（如建造战略重器、攻克疾病、消除犯罪）为最高衡量基准，反对以程序合规和道德表演替代实质战功的防卫型官僚主义。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 44
+related_count: 41
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -29,15 +29,13 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Procedural Piety]]"
   - "[[Engineering Mindset]]"
+  - "[[School Autonomy]]"
   - "[[Technological Republic]]"
   - "[[School Leadership]]"
-  - "[[School Autonomy]]"
   - "[[Strategic Compliance]]"
   - "[[New Public Management]]"
   - "[[Founder Culture]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Feedback]]"
-  - "[[Hypothesis]]"
   - "[[Bureaucracy]]"
   - "[[Heterogeneity]]"
   - "[[Evidence-Based School Development]]"
@@ -48,7 +46,6 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Data Literacy]]"
   - "[[Variable]]"
-  - "[[Document]]"
   - "[[Dependent Variable]]"
   - "[[Competitiveness]]"
 related_methods:
@@ -77,7 +74,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Output-Oriented Governance
@@ -94,7 +91,7 @@ updated: 2026-10-12
 > [!concept-lens] 概念透镜
 > - **核心指向** 权力配置从事前科层规则和流程控制，转向以事后物理与实质结果为导向的权责对称系统协调机制。
 > - **理论用途** 
->   1. 剖析现代教育改革中中央标准、数据反馈与基层学校自主改进的互动机制；
+>   1. 剖析现代教育改革中中央标准、数据反馈与基层[[School Autonomy|学校自主]]改进的互动机制；
 >   2. 诊断国家公共部门深陷程序合规却治理无能的病理，为重塑国家能力与构建现代[[Technological Republic|技术共和国]]提供制度判准。
 > - **适用边界** 
 >   - 在教育领域，区别于英美高利害关停问责，强调诊断反馈与路径自主；
@@ -136,7 +133,7 @@ updated: 2026-10-12
 > - **国家战略与能力指标（Strategic Outcome Standards）** 明确界定系统必须达成的核心产出（如教育领域的国家学业能力基准；国家治理领域的核潜艇研制、疾病死亡率下降与犯罪率控制）。
 > - **全域常态化成效监测（Systematic Outcome Monitoring）** 推行科学、透明的标准化成效评估与实证监测，形成持续的跨期比较数据链。
 > - **路径自主与赋权攻坚（Path Autonomy & Operational Agility）** 破除微观人事与采购规章的死板束缚，赋予一线实干领袖充足的资源调配与技术实施自由度。
-> - **诊断反馈与[[Transfer Translation Transformation|转译]]赋能（Diagnostic [[Feedback]] & Translation）** 建立多层次数据反馈流与专业支持界面，推动评估结果向微观实践改进的真实转化。[[Argument_Altrichter_2019_ZfB|(Altrichter et al., 2019, p. 24)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 187–188)]]
+> - **诊断反馈与转译赋能（Diagnostic [[Feedback]] & Translation）** 建立多层次数据反馈流与专业支持界面，推动评估结果向微观实践改进的真实转化。[[Argument_Altrichter_2019_ZfB|(Altrichter et al., 2019, p. 24)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, pp. 187–188)]]
 > - **事后产出反馈控制（Ex-Post Output Feedback Control）** 汲取控制论稳态调节机制，政府放弃对编制、人员和具体课程细目等事前投入的刚性规制，将公共干预严格限定于对可测实质产出（如毕业生规模、修业年限、办学质评）的事后评估与统包预算挂钩，赋予机构内部运行自适应调节弹性（[[Argument_Kickert_1995_Governance\|Kickert, 1995, pp. 135, 150]]）。
 
 > [!logic-map]- 产出导向治理制度传导与闭环架构
@@ -170,7 +167,7 @@ updated: 2026-10-12
 
 ### 命题一　产出导向治理以路径自主取代目标自主，并预设外部数据反馈能够驱动学校开展理性决策
 
-> [!concept-lens] 制度机制与理性[[Hypothesis|假设]]
+> [!concept-lens] 制度机制与理性假设
 > 探讨教育产出导向治理如何通过权力结构重组与信息供给，假设学校行动者具有吸收和转化外来评估数据的理性动机与组织能力。
 
 > [!claim] Altrichter et al.
@@ -204,7 +201,7 @@ updated: 2026-10-12
 > 剖析新治理工具在单体学校基层面临的非线性阻滞，揭示单纯数据回传如何因忽略复杂情境而难以兑现政策承诺。
 
 > [!claim] Manitius, V. & van Holt, N.
-> **新治理工具的单校成效缺失与理论-实践张力** 德语区基础教育广泛引入以[[School Inspection|外部学校督导]]（Schulinspektion）与全域学业统考（[[Vergleichsarbeiten|校际比较测试]]，Vergleichsarbeiten，简称 VERA）为核心的产出导向调控工具，其深层假设在于量化数据回传能自发驱动基层学校识别薄弱并提升质量。然而实证检验表明，这些新治理工具在单体学校层面遭遇普遍的成效缺失（mangelnde Effekte auf Einzelschulebene；Demski, 2017）；督导报告常被搁置在文件柜中，教师面对抽象统计数字产生认知防御与抵触，数据供给并未转化为微观课堂质量提升。这一事实印证了与新治理绑定的线性转移设想受挫，本质上重现了德国教育学思想史中经典的理论-实践困境（Theorie-[[Praxis|Praxis]]-Problem），促使教育治理研究必须突破两极模型的局限，深入探究中层研训机构的[[Transfer Translation Transformation|转译]]支持与教师教育制度化转化。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, p. 9)]]
+> **新治理工具的单校成效缺失与理论-实践张力** 德语区基础教育广泛引入以[[School Inspection|外部学校督导]]（Schulinspektion）与全域学业统考（[[Vergleichsarbeiten|校际比较测试]]，Vergleichsarbeiten，简称 VERA）为核心的产出导向调控工具，其深层假设在于量化数据回传能自发驱动基层学校识别薄弱并提升质量。然而实证检验表明，这些新治理工具在单体学校层面遭遇普遍的成效缺失（mangelnde Effekte auf Einzelschulebene；Demski, 2017）；督导报告常被搁置在文件柜中，教师面对抽象统计数字产生认知防御与抵触，数据供给并未转化为微观课堂质量提升。这一事实印证了与新治理绑定的线性转移设想受挫，本质上重现了德国教育学思想史中经典的理论-实践困境（Theorie-[[Praxis|Praxis]]-Problem），促使教育治理研究必须突破两极模型的局限，深入探究中层研训机构的转译支持与教师教育制度化转化。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, p. 9)]]
 
 ---
 
@@ -253,10 +250,10 @@ updated: 2026-10-12
 > > - **形式合规与程序学派** 坚称程序的普遍中立与无瑕疵是防范腐败和滥权的根本底线，任何以结果为由豁免规章的做法都会动摇现代法治根基。
 >
 > > [!axis] 数据回传的[[Technical Rationality|技术理性]]闭环幻觉与成效缺失
-> > 探讨教育新治理所依凭的数据回传驱动改进[[Hypothesis|假设]]与基层真实成效之间的巨大落差。
+> > 探讨教育新治理所依凭的数据回传驱动改进假设与基层真实成效之间的巨大落差。
 > >
 > > - **技术理性假定失效** 行政管理部门预设只要建立标准题库与督导量规并将结果反馈，单体学校便能自主对齐改进；实证研究表明，督导报告常被束之高阁，数据供给并未转化为微观课堂质量提升（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, p. 9]]）。
-> > - **中层[[Transfer Translation Transformation|转译]]支持缺位** 单纯的数据反馈忽视了学校[[Organizational Culture|组织文化]]与教师专业信念；缺乏中层研训机构的专业转译与对话支持，产出导向治理极易演化为形式主义的数字流转。
+> > - **中层转译支持缺位** 单纯的数据反馈忽视了学校[[Organizational Culture|组织文化]]与教师专业信念；缺乏中层研训机构的专业转译与对话支持，产出导向治理极易演化为形式主义的数字流转。
 >
 > > [!axis] 理性数据决策预设 vs 组织日常微观政治
 > > 产出导向治理预设组织具有充分的[[Data Literacy|数据素养]]与理性分析文化；批判学者指出，基层深陷日常事务缠绕与习惯惯性，外来数据极易被象征性利用或沦为应付公文。[[Argument_Altrichter_2019_ZfB|(Altrichter et al., 2019, pp. 20–22)]]
@@ -271,7 +268,7 @@ updated: 2026-10-12
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 28)]] | 奥地利施泰尔马克州 362 名公立义务教育学校校长 | 问卷调查与 $k$ 均值[[Cluster Analysis\|聚类分析]]（22 项治理工具评价） | 治理态度亚群分布比例 | [[Evidence-Based School Development\|循证学校发展]]型（27.5%）；资源驱动发展型（37.5%）；弱发展取向型（35.0%） | [[Intraclass Correlation Coefficient\|组内相关系数]]（ICC）介于 0.09 至 0.41；资源类题项组间方差最高 | 针对奥地利中小学样本，揭示了真正认同产出导向与循证工具的校长仅占少数 |
-> | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, p. 9)]]（引述 Demski, 2017） | 德语区中小学外部督导与全域统考实施监测样本 | 政策文本梳理与实证[[Document\|文献]]综合批判 | 新治理工具回传 vs 单体学校教学改进成效 | 实证文献确证外部督导报告与统考数据回传在单体学校层面遭遇广泛的成效缺失（mangelnde Effekte auf Einzelschulebene），未能自发撬动教学与学业提升 | 实证成效普遍停滞 | 确立新治理工具数据反馈与微观学校改进之间的非线性断裂，批判[[Technical Rationality\|技术理性]]闭环假设 |
+> | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, p. 9)]]（引述 Demski, 2017） | 德语区中小学外部督导与全域统考实施监测样本 | 政策文本梳理与实证文献综合批判 | 新治理工具回传 vs 单体学校教学改进成效 | 实证文献确证外部督导报告与统考数据回传在单体学校层面遭遇广泛的成效缺失（mangelnde Effekte auf Einzelschulebene），未能自发撬动教学与学业提升 | 实证成效普遍停滞 | 确立新治理工具数据反馈与微观学校改进之间的非线性断裂，批判[[Technical Rationality\|技术理性]]闭环假设 |
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16\|Karp & Zamiska (2025, pp. 181–183, 187)]] | 美国核海军工程推进与新加坡公务员制度实践 | 政治经济学与历史制度案例比较 | 治理激励与战略工程产出 | 新加坡通过市场化对标建立全球顶尖治理效能；里克弗突破程序[[Red Tape\|繁文缛节]]交付全球首艘核潜艇，但在微观报销清算中遭逆向淘汰 | 历史个案实证 | 确立了国家治理中以物理世界实质战功为最高裁判的产出导向必要性 |
 
 > [!effect-table]- 原始研究结果
@@ -291,7 +288,7 @@ updated: 2026-10-12
 > [!pathways] 产出导向治理的多维实施路径
 > - **确立统一的国家产出基准与评估体系** 在教育领域建立国家教育质量标准与学业监测；在国家治理领域确立以物理世界可衡量成果（科技突破、犯罪消减、贫困消除）为核心的战略考核基准。
 > - **赋予基层组织与实干领袖充分的路径自主权** 打破过度繁琐的事前公文与采购[[Red Tape|繁文缛节]]，赋予一线攻坚人员在手段、技术选型与资源配置上的全权裁量空间。
-> - **构建中层[[Transfer Translation Transformation|转译]]与专业支持网络** 在数据供给与基层实践之间搭建中层研训与转译界面，避免陷入冰冷数字考核引发的形式主义防御。
+> - **构建中层转译与专业支持网络** 在数据供给与基层实践之间搭建中层研训与转译界面，避免陷入冰冷数字考核引发的形式主义防御。
 > - **重构权责对称的激励机制** 借鉴新加坡经验对标私营部门市场基准，以具备[[Competitiveness|竞争力]]的薪酬与荣誉激励吸引和保留能够交付成果的顶尖治理人才。
 
 ---

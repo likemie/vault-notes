@@ -11,7 +11,7 @@ aliases:
 summary: "教育与社会干预在停止实施后即时正向效应随时间推移逐渐萎缩直至消失的普遍经验现象，以及方案从理想效力试验走向大规模实效推广时的效应断崖式归零（电压降），构成了现代循证清算与行政大数据长期追踪的核心审查关卡。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 47
+related_count: 45
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -39,10 +39,8 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Cumulative Dosage Principle]]"
   - "[[Effective Teaching]]"
-  - "[[Document]]"
   - "[[Sleeper Effect]]"
   - "[[Epistemic Cognition]]"
-  - "[[Bildung]]"
   - "[[Self-Efficacy]]"
   - "[[Variable]]"
   - "[[Response to Intervention]]"
@@ -78,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-10-05
+updated: 2026-10-15
 ---
 
 # Fade-out Effect
@@ -148,7 +146,7 @@ updated: 2026-10-05
 ### 命题三　依托国家行政大数据长期追踪可破解随访期高损耗难题
 
 > [!concept-lens] 行政普查档案与长期留存监测
-> 传统随访研究往往因被试[[Attrition\|流失]]（Attrition）过高而失败。英国 [[Education Endowment Foundation\|EEF]] 通过将所有 [[Randomised Controlled Trials\|RCT]] 试验参与者微观数据归档并挂钩[[National Pupil Database\|国家学生数据库]]（NPD），实现了对早期干预在初中毕业（Key Stage 4 / GCSE）甚至成年阶段的低成本、全样本长期后效追踪，确立了监测效应衰退的现代方法学[[Paradigm\|范式]]。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 49, 54, 57)]]
+> 传统随访研究往往因被试流失（[[Attrition]]）过高而失败。英国 [[Education Endowment Foundation\|EEF]] 通过将所有 [[Randomised Controlled Trials\|RCT]] 试验参与者微观数据归档并挂钩[[National Pupil Database\|国家学生数据库]]（NPD），实现了对早期干预在初中毕业（Key Stage 4 / GCSE）甚至成年阶段的低成本、全样本长期后效追踪，确立了监测效应衰退的现代方法学[[Paradigm\|范式]]。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 49, 54, 57)]]
 
 ---
 
@@ -165,7 +163,7 @@ updated: 2026-10-05
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳与审查规则
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者与[[Document\|文献]] |
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
 > | **技能层级分化** | 低阶琐碎技能易于消退，唯有深层元认知与思维习惯具备延时反弹与长期乘数效应 | 早期读写、数学与认知干预方案设计 | Bailey et al. (2017); Cartiff et al. |
 > | **清算随访筛选** | 6–12 个月干预后持续效果门槛是区分表面提分与实质轨迹改变的制度分水岭 | [[Educational Evidence Clearinghouses\|证据清算中心]]评级准入与政策推荐 | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] |
@@ -212,7 +210,7 @@ updated: 2026-10-05
 > | **关键基础构件锚定** | 优先聚焦培养具有**衍生杠杆效应的门禁技能**，即深度阅读理解、数理抽象推理与[[Metacognition\|元认知监控]]。 | 门禁技能一旦突破，能自发激活自我强化机制，形成自主探究的正向循环。 |
 > | **跨学段累积剂量贯通** | 在 K–12 全学段连贯实施经过验证的教学方案，提供年复一年的高强度循证教学递送。 | 消除单年干预后的支持断层，通过连年累积将短期增益沉淀为永久学业优势。 |
 > | **承接性环境建设** | 在早期干预结束后，与后续高年级教师对接，建立贯通式阶梯教学架构，防止支持断层。 | 为从干预中获益的学生提供持续适配的挑战性学习环境，防范“贫瘠土壤”侵蚀。 |
-> | **重塑社会情感与家庭系统** | 改变家长的[[Bildung\|教养]]方式、提升学生的学术[[Self-Efficacy\|自我效能感]]与学业抱负。 | 即使特定具体知识点遗忘，内化的心理素养仍能提供长期的学业坚持性。 |
+> | **重塑社会情感与家庭系统** | 改变家长的教养方式、提升学生的学术[[Self-Efficacy\|自我效能感]]与学业抱负。 | 即使特定具体知识点遗忘，内化的心理素养仍能提供长期的学业坚持性。 |
 
 ---
 

@@ -9,7 +9,7 @@ summary: "美国核物理学家与科技政策专家，1981至1985年出任里�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 13
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -25,7 +25,6 @@ tags:
 related_concepts:
   - "[[Competitiveness]]"
   - "[[Big Science]]"
-  - "[[Document]]"
   - "[[University-Based Research Center]]"
   - "[[Refined Mastery]]"
 related_theories: []
@@ -44,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # George A. Keyworth II
@@ -80,7 +79,7 @@ updated: 2026-10-07
 
 > [!thought-timeline] 思想发展
 > - **1981–1985 — 白宫科技政策与[[Competitiveness|国家竞争力]]重构期** 此阶段核心回应冷战时期美苏争霸与美日高科技贸易战的双重危机，主张打破大学纯理论探索与产业实际需求的脱节。
->   - **代表[[Document|文献]]** *Improving the U.S. Position in International Industrial Competitiveness* (1986)。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 377)]]
+>   - **代表文献** *Improving the U.S. Position in International Industrial Competitiveness* (1986)。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 377)]]
 >   - **关键概念／方法** [[Competitiveness]]、[[University-Based Research Center]]、[[Big Science]]。
 >   - **阶段转向** 强调联邦资助必须从单一资助自由探索基础研究，转向通过大学跨学科中心连接产业前沿技术。
 > - **1986–2000s — 后冷战产业竞争力与信息网络期** 深入探讨数字技术革命、互联网普及与全球知识产权竞争，倡导以市场为导向释放高科技产业创新潜能。

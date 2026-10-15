@@ -8,7 +8,7 @@ aliases:
 summary: "起源于布鲁诺·拉图尔、米歇尔·卡隆与约翰·劳的科学技术学（STS）社会理论与方法论框架，将社会与制度理解为人类与非人类行动者通过持续转译与关系物质性生成的异质网络。在比较教育研究中，它被用于解构国家中心主义与政策借用假设，通过追踪多尺度网络、互客体性、耐用客体装配（教科书、测评量规、技术协议、立法条款）与关系空间，揭示隐藏在教育改革与远处治理背后的非线性转译、变异及公私权力重组机制。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 57
+theory_related_count: 55
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -20,20 +20,19 @@ tags:
   - network-governance
 related_concepts:
   - "[[Heterogeneity]]"
-  - "[[Assemblage]]"
   - "[[Ontology]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Science and Technology Studies]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Relational Space]]"
+  - "[[Assemblage]]"
   - "[[Policy Mobility]]"
   - "[[Discourse]]"
   - "[[Center of Calculation]]"
   - "[[Topological Spatialisation]]"
   - "[[Data Infrastructure]]"
   - "[[Venture Philanthropy]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Posthumanism]]"
-  - "[[Hypothesis]]"
   - "[[Doxa]]"
   - "[[Independent Variable]]"
   - "[[Effective Teaching]]"
@@ -54,7 +53,6 @@ related_methods:
   - "[[Qualitative Observation]]"
   - "[[Analytic Framework]]"
   - "[[Network Ethnography]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Item Response Theory]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Ethnography]]"
@@ -84,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-07
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Actor-Network Theory
@@ -94,20 +92,20 @@ updated: 2026-10-07
 ## 理论定位
 
 > [!theory-position] 理论定位
-> - **解释对象** [[Heterogeneity\|异质性]]网络（人类与非人类行动者）在动态关联中[[Assemblage\|装配]]、维持、变异与解组的生成过程。
+> - **解释对象** [[Heterogeneity\|异质性]]网络（人类与非人类行动者）在动态关联中装配、维持、变异与解组的生成过程。
 > - **理论问题** 超越微观-宏观、人类-技术、社会-自然及国家-全球等现代性二元对立，追踪思想、政策和物质如何在没有先验中心权威的情况下跨时空远距离维持（[[Governing at a Distance\|远处治理]]）。
-> - **理论类型** 批判社会[[Ontology\|本体论]]、过程解释理论与方法论框架（[[Transfer Translation Transformation\|转译]]社会学）。
+> - **理论类型** 批判社会[[Ontology\|本体论]]、过程解释理论与方法论框架（转译社会学）。
 > - **知识位置** 科学技术学（[[Science and Technology Studies]], STS）与[[Pragmatic Paradigm\|实用主义]]社会学传统，深受[[Post-structuralism\|后结构主义]]、符号学与[[Baruch Spinoza\|斯宾诺莎]]一元论启发。
 
 > [!claim] 核心判断
-> 社会并非先验存在的固定容器或宏观结构，而是由人类和非人类实体（Actants）通过“[[Transfer Translation Transformation\|转译]]”（Translation）与“关系物质性”（Relational Materiality）不断生产、修补和践行的异质网络效果；权力和知识的普遍性是耐用材料跨越欧几里得与[[Relational Space\|关系空间]]进行秩序化装配与互客体性运作的结果，而非中心意志的自发扩散。（Latour, 2005; Law, 1992; 引自 [[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015, p. 8]]；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 1–2]]）
+> 社会并非先验存在的固定容器或宏观结构，而是由人类和非人类实体（Actants）通过“转译”（Translation）与“关系物质性”（Relational Materiality）不断生产、修补和践行的异质网络效果；权力和知识的普遍性是耐用材料跨越欧几里得与[[Relational Space\|关系空间]]进行秩序化装配与互客体性运作的结果，而非中心意志的自发扩散。（Latour, 2005; Law, 1992; 引自 [[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015, p. 8]]；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 1–2]]）
 
 ---
 
 ## 理论来源与形成
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** [[Bruno Latour\|布鲁诺·拉图尔]]（Bruno Latour）、米歇尔·卡隆（Michel Callon）与约翰·劳（John Law）于 1980 年代在巴黎矿业学院创新社会学中心（CSI）创立，以《实验室生活》（Latour & Woolgar, 1979）、扇贝养殖[[Transfer Translation Transformation\|转译]]社会学（Callon, 1986）与《行动中的科学》（Latour, 1987）为奠基之作。
+> - **提出者与原始文本** [[Bruno Latour\|布鲁诺·拉图尔]]（Bruno Latour）、米歇尔·卡隆（Michel Callon）与约翰·劳（John Law）于 1980 年代在巴黎矿业学院创新社会学中心（CSI）创立，以《实验室生活》（Latour & Woolgar, 1979）、扇贝养殖转译社会学（Callon, 1986）与《行动中的科学》（Latour, 1987）为奠基之作。
 > - **原初问题** 传统社会学无法解释科学事实与技术人工物的生成过程，总是将认知结果还原为外部社会结构的被动投射，忽视了物质实验室与非人类实体的能动建构作用。
 > - **理论资源与材料** 借用阿尔吉尔达斯·格雷马斯（Algirdas Greimas）的叙事行动元（Actant）概念、米歇尔·塞尔（Michel Serres）的转译隐喻，以及对生化实验室、电力汽车研发和海洋生物保护区[[Qualitative Observation\|田野观察]]的经验材料。
 > - **形成路径** 将符号学原理拓展至唯物主义领域，提出广义对称性原则（Generalized Symmetry），将人类科学家与微观细菌、测量仪器置于对等行动者地位，从行动者的实际结网行动而非先验结构推导社会秩序。
@@ -132,10 +130,10 @@ updated: 2026-10-07
 > |:-----|:-----|:--------------|
 > | [[Transfer Translation Transformation\|转译（Translation）]] | 机制 | 异质行动者相互界定、协商、折射并被整合至协调运作网络中的动态过程。 |
 > | [[Assemblage\|装配（Assemblage）]] | 结构 | 人类与非人类在持续关联中临时生成的社会-物质配置构型与网络效果。 |
-> | [[Posthumanism\|广义对称性（Generalized Symmetry）]] | 原则 / [[Hypothesis\|假设]] | 在分析起点赋予人类与非人类以对等的能动资格，不预设人类的主体特权。 |
+> | [[Posthumanism\|广义对称性（Generalized Symmetry）]] | 原则 / 假设 | 在分析起点赋予人类与非人类以对等的能动资格，不预设人类的主体特权。 |
 > | [[Relational Space\|关系性空间（Relational Space）]] | 概念 | 将空间视为网络关系拓扑生产的效果，而非容纳社会过程的静态欧几里得容器。 |
 > | [[Center of Calculation\|计算中心（Centers of Calculation）]] | 结构 / 机制 | 汇聚、编码与处理远处异质材料并重新输出标准化指令或基准的中央节点（Latour, 1987; [[Argument_Hartong_2018_GSE\|Hartong, 2018]]）。 |
-> | 不变移动物（Immutable Mobiles） | 构件 | 能够在广袤地理空间中自由传输且保持内部信息与格式不失真的耐用载体（如标准化测验、[[Coding in Qualitative Research\|编码]]量规、数据表格）。 |
+> | 不变移动物（Immutable Mobiles） | 构件 | 能够在广袤地理空间中自由传输且保持内部信息与格式不失真的耐用载体（如标准化测验、编码量规、数据表格）。 |
 > | 耐用材料（Durable Materials） | 机制 | 将社会关系具身于法规、章程、硬件中以克服瞬时性并维系长程秩序的策略（Law, 1992）。 |
 > | 互客体性（Interobjectivity） | 概念 | 复杂社会互动借由客体构成的层叠网络实现秩序固化与权力传导（Latour, 2002; [[Argument_Rowe_2022_IJER\|Rowe, 2022]]）。 |
 > | 黑箱化（Black-boxing） | 状态 | 网络运作高度稳定后，内部异质博弈与利益妥协被遮蔽为[[Doxa\|不言自明]]的客观工具或事实。 |
@@ -144,12 +142,12 @@ updated: 2026-10-07
 
 ## 核心命题
 
-> [!theory-proposition] 命题一｜社会并非先验存在的实体，而是由异质对称节点在持续关联中生成的[[Assemblage\|装配]]网络
-> **解释** 传统社会学将宏观结构（如阶级、国家、制度）视为先验[[Independent Variable\|自变量]]，而 ANT 依据广义对称性原则，主张人类与非人类（如计算机、网线、实验量规、法案文本）在网络构建中拥有对等能动地位。社会关系无法仅凭人际口头互动维系，必须通过非人类实体的抗拒与传导才能成型。宏观权力并非既定本质，而是无数异质节点进行契约性组装后的网络效果；一旦关键非人类节点失效，整个社会结构将瞬间停摆。（Latour, 2005; Law, 1992; 引自 [[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015, p. 8]]）
+> [!theory-proposition] 命题一｜社会并非先验存在的实体，而是由异质对称节点在持续关联中生成的装配网络
+> **解释** 传统社会学将宏观结构（如阶级、国家、制度）视为先验[[Independent Variable\|自变量]]，而 ANT 依据广义对称性原则，主张人类与非人类（如计算机、网线、实验量规、法案文本）在网络构建中拥有对等能动地位。社会关系无法仅凭人际口头互动维系，必须通过非人类实体的抗拒与传导才能成型。宏观权力并非既定本质，而是无数异质节点进行契约性[[Assemblage|组装]]后的网络效果；一旦关键非人类节点失效，整个社会结构将瞬间停摆。（Latour, 2005; Law, 1992; 引自 [[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015, p. 8]]）
 >
 > **应用实例** 在阿根廷“[[Conectar Igualdad\|平等连接]]”（Conectar Igualdad）数字化项目中，课堂教学秩序并非单纯由教师威权或国家大纲决定，而是由 Netbook 笔记本电脑、教室插座、双系统软件及中国服务器共同构成的微观装配所维系；电池耗尽或断网会直接摧毁教学流程。（[[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015, p. 11]]）
 
-> [!theory-proposition] 命题二｜政策和知识的跨空间流通是非线性的[[Transfer Translation Transformation\|转译]]过程，而非机械的跨国领土借用
+> [!theory-proposition] 命题二｜政策和知识的跨空间流通是非线性的转译过程，而非机械的跨国领土借用
 > **解释** 全球教育改革倡议（如[[PISA\|国际学生评估项目]]［Programme for International Student Assessment, PISA］或[[Effective Teaching\|有效教学]]模型）的跨空间流动，不能被视作在一个中心生产、在另一个边缘原样接收的静态物理转移。政策流通是处于[[Relational Space\|关系空间]]中的流动[[Discourse|话语]]，必须经过本土多行动者网络（决策官员、政党智库、媒体评论员、教研员）在“问题化”、“利益化”、“征募”与“动员”四个阶段的博弈重构与物质条件折射，才能扎根为起作用的局部实践。（Callon, 1986; 引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 425]]；[[Argument_Li_2025_HSSC\|Li et al., 2025, p. 6]]）
 >
 > **应用实例** 国际[[OECD\|经合组织]]（OECD）发布 PISA 数据后，并不能自动引发成员国教育改革；只有当本国[[Policy Network\|政策网络]]将数据转化为本土危机叙事，并借助[[Going Native\|本土化]]测试指南与媒体动员完成二次转译时，测评数据才能转化为具体的问责政策。（[[Argument_Li_2025_HSSC\|Li et al., 2025]]）
@@ -182,7 +180,7 @@ updated: 2026-10-07
 
 > [!theory-use] 框架入口
 > - **[[Research Question\|研究问题]]** 适合回答“教育政策如何在多尺度[[Champ\|场域]]中变异流动”、“看似中立客观的教学工具与科研机构背后隐藏着怎样的公私权力网络”、“微观教学与宏观治理如何借由物质技术实现[[Governing at a Distance\|远处治理]]”等批判与追踪性问题。
-> - **分析对象与单位** 分析对象是由人类精英、商业资本、政府官员、技术硬件、法律文本与量规标准交织的异质网络；[[Unit of Analysis\|分析单位]]是“行动者节点及其间的[[Transfer Translation Transformation\|转译]]与[[Assemblage\|装配]]关系”。
+> - **分析对象与单位** 分析对象是由人类精英、商业资本、政府官员、技术硬件、法律文本与量规标准交织的异质网络；[[Unit of Analysis\|分析单位]]是“行动者节点及其间的转译与装配关系”。
 > - **需要的材料** 商业与企业监管局（如 ASIC）注册档案、立法修正案、机构章程、经审计财务报表、政策文本、软硬件协议、教室物质布线与多行动者田野访谈。
 > - **解释目标** 穿透技术中立与去政治化修辞，解构黑箱，描摹异质网络拓扑结构，揭示权力在物质-符号流动中的生成机制。
 
@@ -243,8 +241,8 @@ updated: 2026-10-07
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 整合 ANT [[Center of Calculation\|计算中心]]理论与[[Topological Spatialisation\|拓扑空间]]学，深入剖析[[Gesamtstrategie zum Bildungsmonitoring\|德国国家教育监测总体战略]]、[[Institute for Educational Quality Improvement\|IQB]] 计算中心及 [[Vergleichsarbeiten\|VERA]] 测评基础设施如何实现跨尺度的[[Governing at a Distance\|远处治理]]与政策拓扑重组。
-> - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 结合 ANT、[[Network Ethnography\|网络民族志]]与耐用材料[[Assemblage\|装配]]视角，解构澳大利亚 [[Australian Education Research Organisation\|AERO]] 国家证据中介背后的《公司法》注册底座、董事会跨界[[Co-affiliation\|共同从属]]及麦肯锡系[[Venture Philanthropy\|风险慈善]]渗透网络。
+> - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 结合 ANT、[[Network Ethnography\|网络民族志]]与耐用材料装配视角，解构澳大利亚 [[Australian Education Research Organisation\|AERO]] 国家证据中介背后的《公司法》注册底座、董事会跨界[[Co-affiliation\|共同从属]]及麦肯锡系[[Venture Philanthropy\|风险慈善]]渗透网络。
 > - [[Argument_Beech_2015_GSE\|Beech & Artopoulos (2015)]] — 运用 ANT 追踪阿根廷 [[Conectar Igualdad\|PCI]] 数字教育项目课堂微观装配，揭示跨国技术资本权力如何绕过国家反商业化法规直接在教学空间中建构秩序。
-> - [[Argument_Li_2025_HSSC\|Li et al. (2025)]] — 借助 ANT 的多行动者[[Transfer Translation Transformation\|转译]]模型，剖析国家内部[[Policy Network\|政策网络]]如何在多方博弈中折射并[[Going Native\|本土化]]转译 [[OECD]] [[PISA]] 评估信息。
+> - [[Argument_Li_2025_HSSC\|Li et al. (2025)]] — 借助 ANT 的多行动者转译模型，剖析国家内部[[Policy Network\|政策网络]]如何在多方博弈中折射并[[Going Native\|本土化]]转译 [[OECD]] [[PISA]] 评估信息。
 > - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 追溯理性主义比较教育传统中引入 ANT，以分析全球教育治理中流动[[Discourse|话语]]、政策图景与数据[[Governing at a Distance\|远处治理]]的隐秘运作。
 

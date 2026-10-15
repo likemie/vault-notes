@@ -8,7 +8,7 @@ aliases:
 summary: "指高等教育相对于国家和经济既受塑造又保有部分独立运作逻辑的状态，用于分析大学制度的相对自主性。"
 type: concept
 domain: "higher-education"
-related_count: 16
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Scale in Higher Education]]"
   - "[[Multiplicity]]"
   - "[[Determinism]]"
-  - "[[Hypothesis]]"
 related_theories:
   - "[[Hegemony]]"
   - "[[World-Systems Theory]]"
@@ -42,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-13'
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Semi-Autonomy of Higher Education
@@ -97,7 +96,7 @@ updated: 2026-10-07
 
 > [!success]
 > - 2018–2024 年中美政治紧张期间，两国科学家联合发表数量依然巨大——科学合作不完全随政治关系波动，验证了科学领域的半自主性([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 11]])
-> - 中国、韩国、印度、伊朗、巴西等国的科学产出增长模式各不相同，与其政治经济的相关性各异。如果科学产出完全由政治经济决定（如[[World-Systems Theory\|世界体系理论]]所[[Hypothesis\|假设]]），这些国家的增长曲线应该是相似的([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 13]])
+> - 中国、韩国、印度、伊朗、巴西等国的科学产出增长模式各不相同，与其政治经济的相关性各异。如果科学产出完全由政治经济决定（如[[World-Systems Theory\|世界体系理论]]所假设），这些国家的增长曲线应该是相似的([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, p. 13]])
 > - 中国大学较少设立海外分校（与美国、英国、澳大利亚形成对比），但其国内科学产出增长速度全球最快——这说明国家-全球协同的模式是多样的，国家可以自主选择全球参与方式([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 17–20]])
 
 ---

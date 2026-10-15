@@ -9,7 +9,7 @@ aliases:
 summary: "法国高等教育特有的精英专业学院系统；以预科班严苛选拔与职业定向著称，与大众化综合大学及专职科研的 CNRS 形成著名的三元分立格局；在比较教育史中作为主权国家间双边制度移植的经典历史原型（如巴西对大学校模式的模仿），并在当代成为反思精英阶层再生产与跨国政策转移演进的核心参照。"
 type: concept
 domain: "higher-education"
-related_count: 34
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -42,7 +42,6 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[State Educational Sovereignty]]"
   - "[[Transfer Space]]"
-  - "[[Document]]"
 related_facts:
   - "[[CNRS]]"
   - "[[Academic Ranking of World Universities]]"
@@ -53,7 +52,6 @@ related_arguments:
   - "[[Argument_Atkinson_2008_TIS]]"
   - "[[Argument_Beech_2009_GlobalGarden]]"
 related_persons:
-  - "[[Alfred Nobel]]"
   - "[[Robert Cowen]]"
   - "[[Pierre Bourdieu]]"
   - "[[Jason Beech]]"
@@ -114,7 +112,7 @@ updated: 2026-10-15
 > 探讨法国将基础科学研究垄断于专职科研院所、而将拔尖青年人才集中于职业导向大学校的体制设计，如何阻断科研前沿向精英培养的自然溢出。
 
 > [!claim] Atkinson & Blanpied
-> **教学与研究在制度层面的物理隔绝** 在以美国[[Research Universities|研究型大学]]为代表的高教体系中，[[Alfred Nobel|诺贝尔]]奖级顶级科学家直接承担本科与研究生教学，前沿实验室探究成果能够无缝反哺高层次人才培养；而在法国，由于国家基础科学研究力量长期高度集中于[[CNRS|法国国家科学研究中心]]（CNRS）专职研究所，研究员无常规高校教学考核，而大学校教员主要偏重应用职业[[Disciplina and Doctrina|规训]]，导致国家最优质的精英学术青年与最前沿的实验室产生了物理阻隔，严重削弱了国家[[Innovation Ecosystem|创新生态系统]]的原生聚合力与[[Knowledge Production|知识生产]]协同效能。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 42)]]
+> **教学与研究在制度层面的物理隔绝** 在以美国[[Research Universities|研究型大学]]为代表的高教体系中，诺贝尔奖级顶级科学家直接承担本科与研究生教学，前沿实验室探究成果能够无缝反哺高层次人才培养；而在法国，由于国家基础科学研究力量长期高度集中于[[CNRS|法国国家科学研究中心]]（CNRS）专职研究所，研究员无常规高校教学考核，而大学校教员主要偏重应用职业[[Disciplina and Doctrina|规训]]，导致国家最优质的精英学术青年与最前沿的实验室产生了物理阻隔，严重削弱了国家[[Innovation Ecosystem|创新生态系统]]的原生聚合力与[[Knowledge Production|知识生产]]协同效能。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 42)]]
 
 ---
 
@@ -139,7 +137,7 @@ updated: 2026-10-15
 > 探讨高度形式平等的预科统考如何掩盖优势阶层对特权通道的垄断，使大学校成为生产统治阶级合法性的制度机器。
 
 > [!claim] Bourdieu
-> **国家贵族的学术化再生产与符号暴力** 皮埃尔·布尔迪厄（[[Pierre Bourdieu|Pierre Bourdieu]], 1989）在《国家贵族》（*La Noblesse d'État*）中系统论证，法国大学校预备班与竞试选拔制度绝非纯粹客观的技术择优，而是统治阶层实现社会阶级再生产的核心特权通道。优势家庭通过代际传递的高阶[[Cultural Capital|文化资本]]与惯习（[[Habitus]]），使子女在早期教育中形成高度契合预科高压竞试的思维模式与语言风度；严苛的统考分数看似客观公正，实则将阶级特权巧妙转化为合法的学术“功绩”，从而在教育[[Champ|场域]]中以学术优秀的名义完成了国家技术官僚与商业寡头阶层的合法化闭合。
+> **国家贵族的学术化再生产与符号暴力** 皮埃尔·布尔迪厄（[[Pierre Bourdieu|Pierre Bourdieu]], 1989）在《国家贵族》（*La Noblesse d'État*）中系统论证，法国大学校预备班与竞试选拔制度绝非纯粹客观的技术择优，而是统治阶层实现社会阶级再生产的核心特权通道。优势家庭通过代际传递的高阶[[Cultural Capital|文化资本]]与[[Habitus|惯习]]（[[Habitus]]），使子女在早期教育中形成高度契合预科高压竞试的思维模式与语言风度；严苛的统考分数看似客观公正，实则将阶级特权巧妙转化为合法的学术“功绩”，从而在教育[[Champ|场域]]中以学术优秀的名义完成了国家技术官僚与商业寡头阶层的合法化闭合。
 
 ---
 
@@ -230,6 +228,6 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid] [[Document|文献]]与论证索引
+> [!evidence-grid] 文献与论证索引
 > - [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008, p. 42)]] — [[CNRS]] 与大学校三元割裂阻碍科教统合并导致排名劣势。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b, p. 344)]] — 巴西模仿大学校的双边借用与当代跨国企业网络转移的对比。

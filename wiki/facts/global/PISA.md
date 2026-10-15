@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 119
+fact_related_count: 117
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -54,7 +54,6 @@ related_concepts:
   - "[[School Choice]]"
   - "[[Nature of Science]]"
   - "[[Socioscientific Issues]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Policy Entrepreneur]]"
   - "[[Evidence-Based Education]]"
   - "[[Normal School]]"
@@ -83,7 +82,6 @@ related_concepts:
   - "[[Global Education Reform Movement]]"
   - "[[Science Capital]]"
   - "[[Educational Decentralization]]"
-  - "[[Document]]"
 related_methods:
   - "[[Cost-Benefit Analysis]]"
   - "[[Item Response Theory]]"
@@ -149,7 +147,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-05-17
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # PISA
@@ -230,7 +228,7 @@ updated: 2026-10-14
 > - **多层[[Network Governance|网络治理]]与[[State Educational Sovereignty|国家教育主权]]重构** 里兹维与林加德指出，PISA 并未消灭民族国家教育主权，而是催生了跨国与次国家主体共同参与的“多层网络治理”；主权国家官僚机构自觉采纳 PISA 指标以重塑国内行政改革合法性，借国际危机动员推行受阻的绩效问责改革，但其内部自主探索教育目的的战略空间也遭到显著挤压。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 448)]]
 > - **加剧教育作为[[Positional Good|位置性商品]]的全球排位竞争** 跨国联赛排名的持续炒作强化了劳动力市场的文凭筛选预期，将教育从培育民主公民的公共福祉降解为争夺相对优势的[[Positional Good|位置性商品]]，不仅驱动了中产阶级家长对私立[[School Choice|择校]]与课外补习的军备竞赛，也诱发各国陷入追求相对位次提升的宏观内耗博弈。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446, 451–452)]]
 > - **重塑基础科学课程哲学** 推动英、德、日、法等数十个国家修订国家科学课程大纲，显著增加[[Nature of Science|科学本质]]、社会科学争议（[[Socioscientific Issues|SSI]]）与证据评估内容。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
-> - **双向多层驱动** [[Argument_Li_2025_HSSC|Li et al. (2025)]][[Systematic Review|系统综述]]指出，PISA 影响在质量与公平双重路径上展开，通过超国家软治理、国家[[Transfer Translation Transformation|转译]]与国内行动者博弈三层机制深刻重塑全球教育格局。
+> - **双向多层驱动** [[Argument_Li_2025_HSSC|Li et al. (2025)]][[Systematic Review|系统综述]]指出，PISA 影响在质量与公平双重路径上展开，通过超国家软治理、国家转译与国内行动者博弈三层机制深刻重塑全球教育格局。
 > - **动员国内危机叙事与驱动国家课程对标（美国 [[Common Core State Standards|CCSS]] 运动）** 跨国评估数据常被国内[[Policy Entrepreneur|政策企业家]]作为打破地方分权阻力与构建国家标准的政治弹药。例如在美国，政策企业家（国家州长协会 [[National Governors Association|NGA]]、[[Council of Chief State School Officers|州首席教育官理事会]] CCSSO）将 PISA 和 [[TIMSS]] 展现的跨国差距转化为核心实证指标，论证美国学生在应对全球[[Knowledge-Based Economy|知识经济]]竞争中存在严峻素养赤字，各州现行课程标准浅薄碎片，以此为自愿性统一国家标准（[[Common Core State Standards|CCSS]]）的制定确立了不可动摇的合法性。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 9–10)]]
 
 ### [[Argument_Li_2025_HSSC|Li et al. (2025)]] 综述：质量与公平双轨决策路径
@@ -301,7 +299,7 @@ updated: 2026-10-14
 > | 知识模块 | 条目 | 类型 | 关系与维护定位（分流维护指引） |
 > |:---|:---|:---|:---|
 > | **学科测评[[Construct\|构念]]** | [[PISA Scientific Literacy]] | 概念 | [[Scientific Literacy\|科学素养]]测评构念、认知模型、试题样态与教学论争鸣；科学领域测评细节扩充维护于此。 |
-> | **学科测评构念** | [[PISA Literacy]] | 概念 | 政策[[Discourse\|话语]]维度的“新学力”构念[[Transfer Translation Transformation\|转译]]与阅读素养[[Going Native\|本土化]]；国家政策学力观更新维护于此。 |
+> | **学科测评构念** | [[PISA Literacy]] | 概念 | 政策[[Discourse\|话语]]维度的“新学力”构念转译与阅读素养[[Going Native\|本土化]]；国家政策学力观更新维护于此。 |
 > | **学科测评构念** | [[Scientific Literacy]] | 概念 | 科学素养上位构念与全球科学教育理论基石；学科教育论哲学探讨维护于此。 |
 > | **学科测评构念** | [[Beyond 2000 Report]] | 事实 | 1998 年科学教育里程碑报告，直接启发并奠定了 PISA 科学素养构念的理论底座。 |
 > | **国别政策反应** | [[PISA Shock in Germany]] | 事实 / 事件 | 德国危机动员、[[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 七大行动领域、[[Institute for Educational Quality Improvement\|IQB]] [[Center of Calculation\|计算中心]]与产出治理转型；德国微观机制扩充维护于此。 |
@@ -351,4 +349,4 @@ updated: 2026-10-14
 > | **衍生工具与发起组织** | [[Baby PISA]] | 事实 | PISA 产品线向 5 岁早期儿童评估扩张的国际早期学习与儿童福祉研究（IELS）。 |
 > | **衍生工具与发起组织** | [[PISA for Development]] | 事实 | 针对中低收入发展中国家能力水平量身定制的 PISA-D 衍生工具。 |
 > | **衍生工具与发起组织** | [[Programme for the International Assessment of Adult Competencies]] | 事实 | 针对 16–65 岁成年劳动力认知技能与职业能力的跨国成人评估（PIAAC）。 |
-> | **实证研究方法** | [[Systematic Review]] | 方法 | 综合跨国大规模评估政策影响[[Document\|文献]]所采用的核心系统综述方法。 |
+> | **实证研究方法** | [[Systematic Review]] | 方法 | 综合跨国大规模评估政策影响文献所采用的核心系统综述方法。 |

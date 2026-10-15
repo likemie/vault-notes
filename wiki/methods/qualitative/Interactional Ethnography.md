@@ -9,7 +9,7 @@ summary: "结合微观话语分析与历时民族志的质性研究范式，通�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 35
+method_related_count: 33
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Rich and Thick Description]]"
   - "[[Reflexivity]]"
-  - "[[Hypothesis]]"
   - "[[Reliability]]"
   - "[[Theory of Knowledge]]"
   - "[[Artefact]]"
@@ -47,7 +46,6 @@ related_methods:
   - "[[Content Analysis]]"
   - "[[Network Analysis]]"
   - "[[Non-participant Observation]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Purposeful Sampling]]"
   - "[[Member Tests]]"
   - "[[Member Checking]]"
@@ -63,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Interactional Ethnography
@@ -92,7 +90,7 @@ updated: 2026-10-07
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 秉持社会建构论与情境认识论，视意义、知识与社会结构为行动者在特定历史文化情境中通过符号中介与言语互动共同协商生成的产物，而非孤立存在于个体头脑中的静态表征。
-> - **研究者角色** 研究者作为长周期[[Qualitative Observation|田野观察]]者与记录者，既需要深入现场捕捉未言明的情境细节，又必须保持理论敏锐性与[[Reflexivity|反身性]]（Reflexivity），避免将先验[[Hypothesis|假设]]强加于受访者与行动者的[[Discourse|话语]]逻辑。
+> - **研究者角色** 研究者作为长周期[[Qualitative Observation|田野观察]]者与记录者，既需要深入现场捕捉未言明的情境细节，又必须保持理论敏锐性与[[Reflexivity|反身性]]（Reflexivity），避免将先验假设强加于受访者与行动者的[[Discourse|话语]]逻辑。
 > - **有效性标准** 遵循[[Qualitative Research|质性研究]]的可[[Reliability|信度]]（Credibility）、可转移性（Transferability）与可确认性（Confirmability）；依托长周期浸润、多元语料[[Triangulation|三角互证]]（音视频、在线话语、实体笔记、反思访谈）以及针对核心事件的双向因果追溯保障推论效度。
 > - **不声称回答的问题** 不用于大样本总体参数估计或净[[Effect Size|效应量]]因果检验，不能从单一典型案例的质性互动直接外推全人口统计概率分布。
 
@@ -107,7 +105,7 @@ updated: 2026-10-07
 ## 研究程序
 
 > [!proc] 通用程序
-> 1. **进入田野与长周期系统记录** 深入研究[[Champ|场域]]进行全程参与或[[Non-participant Observation|非参与式观察]]，综合运用音视频设备和现场笔记，建立按时间[[Coding in Qualitative Research|编码]]的完整事件日志。
+> 1. **进入田野与长周期系统记录** 深入研究[[Champ|场域]]进行全程参与或[[Non-participant Observation|非参与式观察]]，综合运用音视频设备和现场笔记，建立按时间编码的完整事件日志。
 > 2. **构建事件地图（Event Mapping）** 梳理田野全貌，依据时间与活动主题划分关键事件节点，标定各阶段的核心参与者、主题[[Discourse|话语]]与生成的[[Artefact|人工制品]]。
 > 3. **识别关键转折事件与典型案例（Telling Cases）** 筛选出推动共同体规范转型、认识框架重组或认知突破的关键事件，作为深入微观剖析的典型载体。
 > 4. **双向互文追踪与微观[[Discourse Analysis|话语分析]]** 针对选定事件进行[[Transcription in Qualitative Research|逐字转录]]，向前回溯该事件的历史根源（前序对话、既有制品），向后追踪其对后续实践的持续塑造，绘制互文网络（Intertextual Web）。
@@ -153,7 +151,7 @@ updated: 2026-10-07
 ## 局限性
 
 > [!method-limits] 方法局限
-> - **偏误来源** 观察者效应（[[Hawthorne Effect]]）、[[Transcription in Qualitative Research|转录]]与[[Coding in Qualitative Research|编码]]过程中的主观解释倾向、由于语料极其庞大导致对边缘事件的挂一漏万。
+> - **偏误来源** 观察者效应（[[Hawthorne Effect]]）、[[Transcription in Qualitative Research|转录]]与编码过程中的主观解释倾向、由于语料极其庞大导致对边缘事件的挂一漏万。
 > - **适用边界** 结论高度依赖特定班级文化、教师促学风格与具体学科情境，跨情境直接复制需审慎评估语境相似度。
 > - **误用风险** 容易将微观[[Discourse|话语]]断章取义地拼贴为表面化的故事，忽略系统性的事件地图构建与严格的互文历史回溯。
 > - **补救方式** 坚持双研究者平行观察、严格执行高标准的[[Intercoder Agreement|编码一致性]]检验、综合利用量化网络数据（[[Network Analysis|SNA]]）与历时线索图进行多维三角校准。
@@ -169,7 +167,7 @@ updated: 2026-10-07
 > | [[Knowledge Building Theory]] | 理论 | 为互动[[Ethnography\|民族志]]在科学课堂中的实施提供知识观、原则体系与分析指引。 |
 > | [[Reflective Structuration]] | 概念 | 互动民族志的核心理论产出，揭示探究结构与能动性的双向历时演化。 |
 > | [[Ethnography]] | 前置方法 | 提供长期田野浸润、情境化理解与[[Reflexivity\|反身性]]的基本方法论基石。 |
-> | [[Discourse Analysis]] | 补充方法 | 为互动民族志提供微观话语回合[[Transcription in Qualitative Research\|转录]]、语用分析与话语互动[[Coding in Qualitative Research\|编码]]工具。 |
+> | [[Discourse Analysis]] | 补充方法 | 为互动民族志提供微观话语回合[[Transcription in Qualitative Research\|转录]]、语用分析与话语互动编码工具。 |
 > | [[Network Analysis]] | 补充方法 | 量化测度互动密度与网络拓扑，与互动民族志的质性[[Rich and Thick Description\|深描]]形成[[Triangulation\|三角互证]]。 |
 
 ---

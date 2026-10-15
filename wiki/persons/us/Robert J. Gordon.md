@@ -8,7 +8,7 @@ summary: "美国著名宏观经济学家、西北大学讲席教授，以《美�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 14
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -21,7 +21,6 @@ tags:
   - field/productivity
 related_concepts:
   - "[[Total Factor Productivity]]"
-  - "[[Hypothesis]]"
   - "[[Growth]]"
   - "[[Consumer Internet]]"
   - "[[Paradigm]]"
@@ -31,7 +30,6 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Correlational Research]]"
 related_persons:
-  - "[[Alfred Nobel]]"
   - "[[Nicholas Negroponte]]"
   - "[[David Graeber]]"
 related_facts:
@@ -41,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Robert J. Gordon
@@ -56,7 +54,7 @@ updated: 2026-10-10
 > - **代表贡献** 巨著《美国增长的起伏》（*The Rise and Fall of American Growth*, 2016），通过系统量化历史数据证明 1970 年代以来美国[[Total Factor Productivity|全要素生产率]]出现断崖式下滑，并指出第三次工业革命对整体经济拉动的局限性。
 
 > [!citation-card]- 宏观生产率史学权威定位
-> 罗伯特·J. 戈登以跨越一个半世纪的详实经验数据，系统改写了当代经济学界对技术创新与经济增长关系的乐观[[Hypothesis|假设]]，确立了第二次工业革命‘特殊世纪’与第三次工业革命‘狭窄影响’的经典[[Analytic Framework|分析框架]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Gordon, 2016; cited in Karp & Zamiska, 2025, pp. 48–49)]]
+> 罗伯特·J. 戈登以跨越一个半世纪的详实经验数据，系统改写了当代经济学界对技术创新与经济增长关系的乐观假设，确立了第二次工业革命‘特殊世纪’与第三次工业革命‘狭窄影响’的经典[[Analytic Framework|分析框架]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Gordon, 2016; cited in Karp & Zamiska, 2025, pp. 48–49)]]
 
 ---
 
@@ -64,7 +62,7 @@ updated: 2026-10-10
 
 > [!timeline] 生平与职涯
 > - **1940** 出生于美国波士顿一个经济学世家。
-> - **1967** 获得麻省理工学院经济学博士学位，师从[[Alfred Nobel|诺贝尔]]经济学奖得主罗伯特·索洛（Robert Solow）。
+> - **1967** 获得麻省理工学院经济学博士学位，师从诺贝尔经济学奖得主罗伯特·索洛（Robert Solow）。
 > - **1973** 加入西北大学经济系，长期担任宏观经济学与生产率研究讲席教授。
 > - **1995–1996** 担任美国参议院博斯金委员会（Boskin Commission）核心成员，重新评估消费者物价指数（CPI）测量偏差。
 > - **2016** 出版里程碑巨著《美国增长的起伏》，荣获英国《金融时报》与麦肯锡年度商业图书奖等全球声誉。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Gordon, 2016; Karp & Zamiska, 2025, pp. 48–49)]]

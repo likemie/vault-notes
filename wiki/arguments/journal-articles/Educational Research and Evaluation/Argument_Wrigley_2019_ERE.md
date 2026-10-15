@@ -10,7 +10,7 @@ title: "Argument_Wrigley_2019_ERE"
 argument_key: "Argument_Wrigley_2019_ERE"
 argument_display_title: "Evidence-based teaching: a simple view of 'science'"
 argument_kind: "journal-article"
-argument_related_count: 26
+argument_related_count: 25
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -31,13 +31,12 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Empiricism]]"
   - "[[Evidence-Based Education]]"
-  - "[[Hypothesis]]"
-  - "[[Document]]"
   - "[[Research Utilization]]"
   - "[[Emergence]]"
   - "[[Causality]]"
   - "[[Avatar]]"
   - "[[Visible Learning]]"
+  - "[[Hypothesis]]"
   - "[[Multiplicity]]"
 related_theories:
   - "[[Critical Realism]]"
@@ -86,9 +85,9 @@ citation_aliases:
 ## 研究方法
 
 > [!info] 研究方法
-> - 方法：[[Philosophical Analysis in Education\|哲学分析]]（Philosophical Analysis）——通过概念区分、逻辑推理和科学哲学论证分析 EBT 的前提[[Hypothesis\|假设]]
+> - 方法：[[Philosophical Analysis in Education\|哲学分析]]（Philosophical Analysis）——通过概念区分、逻辑推理和科学哲学论证分析 EBT 的前提假设
 > - [[Case Study\|案例研究]]：以 [[Education Endowment Foundation\|EEF]] Toolkit 的"体育参与"（Sports Participation）条目为深度案例，追踪其从原始研究→[[Meta-analysis\|元分析]]→[[Meta-meta-analysis\|元-元分析]]的三级证据聚合过程
-> - [[Document\|文献]][[Critical Review\|批判性综述]]：综合 Bhaskar et al.学者的批判资源
+> - 文献[[Critical Review\|批判性综述]]：综合 Bhaskar et al.学者的批判资源
 
 ## 核心论证
 
@@ -114,7 +113,7 @@ citation_aliases:
 >
 > Ginsburg & Smith (2016, p. ii) 识别了数学课程 RCT 的 12 种威胁，发现 27 项高评分 RCT 中有 26 项存在多重严重问题，"即使单一威胁产生的误差幅度也常常大于 RCT 处理的平均[[Effect Size\|效应量]]"(p. 115)。
 >
-> ### 5. [[Empiricism\|经验主义]][[Hypothesis\|假设]]与[[Causality\|因果性]]缺失
+> ### 5. [[Empiricism\|经验主义]]假设与[[Causality\|因果性]]缺失
 >
 > EBT 隐含的经验主义假设：规则性足以追求"什么有效"。但 Hume (1748/1975) 早已指出重复发生永远不能建立因果性。Gorard & See (2013, p. 22) 发现"研究报告中频繁使用强因果术语描述其发现，却没有任何明显的理由"(p. 116)。
 >

@@ -6,7 +6,7 @@ summary: "比较不同干预或变量影响强度的标准化统计指标，被�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 84
+method_related_count: 81
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Research Purpose]]"
   - "[[Variable]]"
-  - "[[Hypothesis]]"
   - "[[Formative Assessment]]"
   - "[[Homework]]"
   - "[[Grade Retention]]"
@@ -37,7 +36,6 @@ related_concepts:
   - "[[Learning Gain]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Educational Brokerage Agency]]"
-  - "[[Attrition]]"
   - "[[Preregistration]]"
   - "[[Business as Usual]]"
   - "[[Achievement and Aptitude Tests]]"
@@ -48,7 +46,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[External Validity]]"
   - "[[Floor and Ceiling Effects]]"
-  - "[[Document]]"
   - "[[Construct Validity]]"
   - "[[Epistemology]]"
   - "[[Implementation Fidelity]]"
@@ -110,7 +107,7 @@ related_instruments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 ## 定义
@@ -212,7 +209,7 @@ updated: 2026-10-07
 > [!info] Cohen 的经验法则
 > Cohen（1988）使用人体身高提供直观类比：$d = 1.0$ 表示 160cm 和 183cm 之间的差异([[Argument_Terhart_2011_JCS\|Terhart, 2011, p.427]])。Cohen 同时定义了经验法则：
 >
-> | 效应量 | 标签 | 含义（[[Hypothesis\|假设]]正态分布） |
+> | 效应量 | 标签 | 含义（假设正态分布） |
 > |---|---|---|
 > | $d = 0.2$ | 小 | 实验组均值高于对照组约 58% |
 > | $d = 0.5$ | 中 | 实验组均值高于对照组约 69% |
@@ -283,7 +280,7 @@ updated: 2026-10-07
 > [!info] 实践者解释中的效应量与安全锁互补机制
 > 在学校采购和项目评价中，教育产品消费者并不总能理解效应量和统计显著性等有效性指标，也常觉得正式证据来源缺少实施要求、使用满意度、成本和情境信息。效应量因此不是“读者看到数字就能行动”的指标，而需要和项目目标、使用强度、对照条件、测量工具和地方需求一起解释([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp.120-121]])。
 >
-> 针对单一指标沟通的局限，英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）在《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》与官方评估报告中，建立了**效应量（额外学习月数）与[[EEF Padlock Security Rating\|挂锁安全评级]]（Padlock Rating）**的二元互补机制（The EEF, 2019c；[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]）。实践者不能仅凭孤立的效应量大小做决策：一个看似巨大的效应量（如 $d = 0.50$）若仅获得 1 把锁，说明其面临严重的[[Sample Size Determination\|样本量]]不足、高[[Attrition\|流失]]率或未[[Preregistration\|预注册]]等偏倚风险；反之，一个微弱的效应量（如 $d = 0.06$）若拥有 4 或 5 把安全锁（高统计功效、低流失、预注册分析与独立实施），则反映了在真实[[Business as Usual\|常态教学]]基线下的高确定性因果证据。这种将“效应量大小”与“因果证据安全性”解耦并列的双轨呈现，有效避免了决策者对孤立统计量或 $p < 0.05$ 门槛的机械迷信（Wasserstein et al., 2019）。
+> 针对单一指标沟通的局限，英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）在《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》与官方评估报告中，建立了**效应量（额外学习月数）与[[EEF Padlock Security Rating\|挂锁安全评级]]（Padlock Rating）**的二元互补机制（The EEF, 2019c；[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]）。实践者不能仅凭孤立的效应量大小做决策：一个看似巨大的效应量（如 $d = 0.50$）若仅获得 1 把锁，说明其面临严重的[[Sample Size Determination\|样本量]]不足、高流失率或未[[Preregistration\|预注册]]等偏倚风险；反之，一个微弱的效应量（如 $d = 0.06$）若拥有 4 或 5 把安全锁（高统计功效、低流失、预注册分析与独立实施），则反映了在真实[[Business as Usual\|常态教学]]基线下的高确定性因果证据。这种将“效应量大小”与“因果证据安全性”解耦并列的双轨呈现，有效避免了决策者对孤立统计量或 $p < 0.05$ 门槛的机械迷信（Wasserstein et al., 2019）。
 
 > [!example]
 > 一个补充性教育技术项目可能只在每周少量课堂时间中使用。若它在标准化[[Achievement and Aptitude Tests\|成就测验]]上的效应量很小，这不必然说明项目无价值；它可能主要改善学生动机、释放教师个别辅导时间或增加技术接入公平。反过来，一个较大的效应量若来自低质量对照组，也不能直接说明项目在本地学区一定值得采购([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp.110-112]])。
@@ -376,7 +373,7 @@ updated: 2026-10-07
 ### 命题三　效应量随研究设计类型而变化：实验与非实验设计的差异证据不一
 
 > [!concept-lens] 研究设计的[[Causality\|因果推断]]强度
-> 研究设计（实验 vs 非实验）对效应量的影响方向在[[Document\|文献]]中并无一致结论，需要区分具体领域和干预类型。
+> 研究设计（实验 vs 非实验）对效应量的影响方向在文献中并无一致结论，需要区分具体领域和干预类型。
 
 > [!claim] 研究设计对效应量的影响
 > Cheung & Slavin（2016）在 645 项研究的综合元分析中发现非实验设计平均效应量 +0.23 vs 实验设计 +0.16；Wilson, Gottfredson & Najaka（2001）发现非[[Experimental Research\|实验研究]]效应量高 0.17 个标准差。但 Cook（2002）、de Boer et al.（2014）、Gersten et al.（2009）、Wilson & Lipsey（2001）均未发现实验与非实验设计间效应量的显著差异（[[Argument_Wolf_2020_JREE\|Wolf et al., 2020, pp. 431–432]]）。

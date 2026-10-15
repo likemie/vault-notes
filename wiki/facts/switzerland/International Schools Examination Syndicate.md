@@ -9,7 +9,7 @@ subtype: organization
 region: switzerland
 fact_region: "switzerland"
 fact_kind: "organization"
-fact_related_count: 18
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -33,7 +33,6 @@ related_persons:
   - "[[Bob Leach]]"
   - "[[Alec Peterson]]"
   - "[[Gerard Renaud]]"
-  - "[[Peter A. Hall]]"
   - "[[John Goormaghtigh]]"
 related_facts:
   - "[[International School of Geneva]]"
@@ -46,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-17
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # International Schools Examination Syndicate
@@ -88,7 +87,7 @@ updated: 2026-10-12
 >
 > - **1966–1967 年　全职领导把五项条件推进到同一截止日期**
 >
->   Alec Peterson 调整牛津和伯克利教学安排，获得近一年全职窗口；[[Gerard Renaud\|杰拉德·雷诺]]（Gerard Renaud）与威廉·[[Peter A. Hall|霍尔]]斯（W. D. Halls）继续完成课程、大纲、考试说明和样题。1966 年 12 月，Ecolint 提供房间设立第一间办公室，鲁思·邦纳（Ruth Bonner）担任行政助理，吕西特·东什（Lucette Donche）负责簿记。1967 年塞夫尔会议成为课程、考试、试验学校、承认与资金工作的共同期限，组织同年采用 IBO 名称。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 23–31)]]
+>   Alec Peterson 调整牛津和伯克利教学安排，获得近一年全职窗口；[[Gerard Renaud\|杰拉德·雷诺]]（Gerard Renaud）与威廉·霍尔斯（W. D. Halls）继续完成课程、大纲、考试说明和样题。1966 年 12 月，Ecolint 提供房间设立第一间办公室，鲁思·邦纳（Ruth Bonner）担任行政助理，吕西特·东什（Lucette Donche）负责簿记。1967 年塞夫尔会议成为课程、考试、试验学校、承认与资金工作的共同期限，组织同年采用 IBO 名称。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 23–31)]]
 
 ---
 

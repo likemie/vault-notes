@@ -10,7 +10,7 @@ aliases:
 summary: "以学习者自主生成新知、依托经验证据推论、行使认识能动性并参与共同体批判协商为核心的教学取向，在适切支架与指导协同下对促进概念理解与远迁移显著优于单一直接讲授"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 56
+related_count: 54
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -21,14 +21,12 @@ tags:
   - level/k12
   - level/higher-education
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Constructed Knowledge]]"
   - "[[Epistemic Agency]]"
   - "[[Control of Variables Strategy]]"
   - "[[Rote Learning]]"
   - "[[Direct Instruction]]"
-  - "[[Document]]"
   - "[[Discovery Learning]]"
   - "[[Scaffolding]]"
   - "[[Working Memory]]"
@@ -96,7 +94,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> 探究式学习（Inquiry-Based Learning，亦称探究式教学 Inquiry-Based Instruction、指导式探究 Guided Inquiry）是指一种以学习者为主体，通过开展科学调查与实验、主动收集并解释经验证据、反思并解决认知冲突，进而自主建构科学概念理解与学科实践能力的教学取向。其本质不是将预制结论直接交付学生，而是引导学生在由浅入深的[[Inquiry Cycle\|探究循环]]（Inquiry Cycle）中，通过[[Hypothesis\|假设]]提出、[[Variable\|变量]]操纵、因果推论与批判性论证[[Constructed Knowledge\|建构知识]]。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 2–3)]]
+> 探究式学习（Inquiry-Based Learning，亦称探究式教学 Inquiry-Based Instruction、指导式探究 Guided Inquiry）是指一种以学习者为主体，通过开展科学调查与实验、主动收集并解释经验证据、反思并解决认知冲突，进而自主建构科学概念理解与学科实践能力的教学取向。其本质不是将预制结论直接交付学生，而是引导学生在由浅入深的[[Inquiry Cycle\|探究循环]]（Inquiry Cycle）中，通过假设提出、[[Variable\|变量]]操纵、因果推论与批判性论证[[Constructed Knowledge\|建构知识]]。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 2–3)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 强调学习者在情境化调查中作为[[Knowledge Building Theory|知识建构]]者的[[Epistemic Agency\|认识能动性]]（Epistemic Agency），通过经验证据检验概念模型，推动深度概念重构与概念转变。
@@ -104,7 +102,7 @@ updated: 2026-10-15
 > - **边界** 必须严格区分纯无指导发现（Pure Unassisted Discovery）与辅以支架的指导式探究（Guided Inquiry）；同时对于良构的事实性知识或初阶程序训练，单一探究的教学效率低于结构化的[[Direct Instruction\|直接教学]]。
 
 > [!citation-card] 探究式学习的循证定性
-> 长期学术论战经常将探究学习误读为放任自流的纯发现。[[Document\|文献]]证据表明，辅以充分指导的探究式教学在概念知识习得与迁移上整体优于直接教学。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 1–2)]]
+> 长期学术论战经常将探究学习误读为放任自流的纯发现。文献证据表明，辅以充分指导的探究式教学在概念知识习得与迁移上整体优于直接教学。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 1–2)]]
 >
 > *Inquiry-based instruction produces better overall results for acquiring conceptual knowledge than does direct instruction. We show that this conclusion holds for controlled, correlational, and program-based studies... inquiry-based instruction is most effective when supplemented with guidance that can be personalized based on moderating factors.*
 
@@ -217,7 +215,7 @@ updated: 2026-10-15
 
 > [!dev-timeline] 概念演变
 > - **1960–1970 年代 — [[Discovery Learning\|纯发现学习]]兴起与早期受挫** 早期发现学习（Discovery Learning）主张学习者在无指导环境中自主探索自然规律，但因缺乏认知支持导致学生产生大量挫败感与知识迷失，引发教育界对极简指导教学的大规模反思。
-> - **1980–1990 年代 — [[Constructivist Paradigm\|建构主义]]转型与[[Inquiry Cycle\|探究循环]]规范化** 随着[[Cognitive Constructivism\|认知建构主义]]与社会建构主义兴起，科学教育研究将探究学习系统规范化为由问题驱动、[[Hypothesis\|假设]]设计、证据收集、模型建构与同伴论证构成的探究循环（Inquiry Cycle），[[Scaffolding\|教学支架]]（Scaffolding）理论被全面引入探究设计。
+> - **1980–1990 年代 — [[Constructivist Paradigm\|建构主义]]转型与[[Inquiry Cycle\|探究循环]]规范化** 随着[[Cognitive Constructivism\|认知建构主义]]与社会建构主义兴起，科学教育研究将探究学习系统规范化为由问题驱动、假设设计、证据收集、模型建构与同伴论证构成的探究循环（Inquiry Cycle），[[Scaffolding\|教学支架]]（Scaffolding）理论被全面引入探究设计。
 > - **2000–2010 年代 — 认知负荷争论与指导式探究循证确立** [[Cognitive Load Theory\|认知负荷理论]]学者提出强力批评，宣扬最小指导彻底失效；学习科学界开展反驳，明确将有效探究界定为包含充分认知支架的指导式探究（Guided Inquiry），系列[[Meta-analysis\|元分析]]（Alfieri et al., 2011; Furtak et al., 2012; Lazonder & Harmsen, 2016）系统确立了指导式探究的实证优势。
 > - **2021 年 — [[Epistemic Cognition\|认识论认知]]干预中的因果效应与支架必要性确立** [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 针对认识论认知干预展开首个元分析，证实提供实验[[Variable\|变量]]与记录支架的指导式探究成效突出，而缺乏支架的开放[[Problem Solving\|问题解决]]与自由辩论效果微弱，从干预设计层面确立了指导支架对探究转化的决定性意义。
 > - **2020 年代至今 — 多重调节[[Variable\|变量]]与时序协同模型** 面临[[Direct Instruction\|直接教学]]绝对优越论的再次抬头，以 [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] 为代表的综述全面整合受控实验、[[PISA]] 跨国调查与课程级长周期项目，建构起结合先验知识、[[Inhibitory Control\|抑制控制]]与学习目标的探究与直接教学时序整合设计[[Paradigm\|范式]]。

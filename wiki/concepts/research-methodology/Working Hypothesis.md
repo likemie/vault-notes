@@ -8,7 +8,7 @@ aliases:
 summary: "比较史学与社会科学综合纲领中的核心认识论与方法论构念，指基于特定具体历史事实归纳提炼、适用范围明确限定，用于在新的相似情境中定向检验、启发解释与照亮未知现象的探索性假设，是打破普遍因果法则与不可重复个案二元对立的学理桥梁。"
 type: concept
 domain: "research-methodology"
-related_count: 19
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Operationalization]]"
   - "[[Falsification]]"
-  - "[[Document]]"
   - "[[Historical Amnesia]]"
   - "[[Paradigm]]"
 related_theories: []
@@ -47,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-15
 ---
 
 # Working Hypothesis
@@ -78,7 +77,7 @@ updated: 2026-10-01
 > |:-----|:-----|:-----|:-----|
 > | **[[Epistemology\|认识论]]预设** | 相对普适论与情境限定论；规律具有条件性与启发性 | 自然科学一元论；规律是超越时空的恒常因果 | 绝对特殊主义；历史事件完全独特且不可重复 |
 > | **推导逻辑** | 历史归纳与类比演绎的双向互动（诱导性工作假说） | 抽象假设-[[Variable\|变量]][[Operationalization\|操作化]]-大样本统计[[Falsification\|证伪]] | 档案还原与时间线考据 |
-> | **检验机制** | 在跨时代、跨国界的相似情境中考察解释贴合度 | 基于概率显著性水平（p 值）的假设检验 | 考证史料真伪与[[Document\|文献]]内部自洽 |
+> | **检验机制** | 在跨时代、跨国界的相似情境中考察解释贴合度 | 基于概率显著性水平（p 值）的假设检验 | 考证史料真伪与文献内部自洽 |
 > | **最终产出** | 具有历史洞察力的分析透镜与理想类型 | 抽象变量间的标准化数学回归方程 | 详尽具体的编年史或人物事件叙事 |
 
 ---
@@ -117,11 +116,11 @@ updated: 2026-10-01
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Hypothesis\|假设]] | 概念 | 工作假说属于假设[[Construct\|构念]]在比较史学与[[Qualitative Research\|质性研究]]中的重要专门化类型。 |
+> | 假设 | 概念 | 工作假说属于假设[[Construct\|构念]]在比较史学与[[Qualitative Research\|质性研究]]中的重要专门化类型。 |
 > | [[Historical Amnesia\|历史健忘症]] | 概念 | 工作假说是克服历史健忘症、重塑历史研究科学合法性的核心抓手。 |
 > | [[Problem Approach\|问题法]] | 方法 | 霍姆斯问题法中同样强调条件性预测，与工作假说的情境限定高度互通。 |
 > | [[Historical-Comparative Method\|历史比较法]] | 方法 | 工作假说生成、检验与精炼所依凭的根本方法论路径。 |
 > | [[Crane Brinton\|克莱恩·布林顿]] | 人物 | 比较史学宗师，其革命史归纳经验为工作假说提供了经典的[[Paradigm\|范式]]样板。 |
 > | [[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]] | 人物 | 在 1963 年与 2009 年著作中持续倡导历史探索性工作假说，确立其学科史地位。 |
 > | [[Brian Holmes\|布赖恩·霍姆斯]] | 人物 | 其假说-演绎问题法与历史假说检验形成深刻的方法论争鸣与互补。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 权威阐释历史工作假说的运作逻辑及其打破[[Positivism\|实证主义]]教条壁垒的母体[[Document\|文献]]。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 权威阐释历史工作假说的运作逻辑及其打破[[Positivism\|实证主义]]教条壁垒的母体文献。 |

@@ -10,7 +10,7 @@ subtype: event
 region: switzerland
 fact_region: "switzerland"
 fact_kind: "event"
-fact_related_count: 6
+fact_related_count: 5
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#fef3c7"
@@ -22,7 +22,6 @@ tags:
   - harmonization
 related_concepts:
   - "[[Paradigm]]"
-  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Systematic Review]]"
@@ -36,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-09
-updated: 2026-07-09
+updated: 2026-10-15
 ---
 
 # HarmoS
@@ -70,7 +69,7 @@ updated: 2026-07-09
 > [!finding-cards] 核心影响
 > - **政策影响** HarmoS 标志着瑞士教育从投入导向到产出导向的[[Paradigm|范式]]转换——教育体系的评价不再关注输入资源（如师生比、经费投入），而是转向学生能力达成和效率控制（Bieber & Martens, 2011）。
 > - **制度影响** HarmoS 纳入了 [[OECD]] 促进社会包容和机会均等的建议，将义务教育延长至 11 年，统一了入学年龄和学校结构，为瑞士各州之间的教育体系协调提供了制度基础。
-> - **国际影响** HarmoS 是 [[PISA]] 直接影响国内教育改革的典型案例——展示了 PISA 排名良好的国家同样可以因自我认知落差而启动重大改革，挑战了"只有低表现国家才受 PISA 影响"的[[Hypothesis\|假设]]。
+> - **国际影响** HarmoS 是 [[PISA]] 直接影响国内教育改革的典型案例——展示了 PISA 排名良好的国家同样可以因自我认知落差而启动重大改革，挑战了"只有低表现国家才受 PISA 影响"的假设。
 
 ---
 

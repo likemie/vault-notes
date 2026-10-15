@@ -7,7 +7,7 @@ aliases:
 summary: "由 John Sweller 于 1988 年创立的经典学习与教学设计理论，以人类工作记忆容量有限与长时记忆图式无限为核心架构，解构内在负荷、外在负荷与关联负荷，主张通过减少外在负荷、优化内在负荷以促进图式建构和自动化。"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 49
+theory_related_count: 48
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[Problem Solving]]"
   - "[[Paradigm]]"
-  - "[[Document]]"
   - "[[Constructivist Paradigm]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Direct Instruction]]"
@@ -74,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-06
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Cognitive Load Theory
@@ -112,7 +111,7 @@ updated: 2026-10-07
 > [!dev-timeline] 理论版本与贡献
 > - **1988 — 理论奠基阶段** Sweller 提出手段—目的分析引发工作记忆超载，确立工作样例效应优于盲目解题的实验范式。
 > - **1990 年代 — 三维负荷模型与主观测量标准化** Paas 与 van Merriënboer 提出内在负荷（Intrinsic）、外在负荷（Extraneous）与关联负荷（Germane）的三维负荷结构，并开发 9 点李克特主观心智负荷量表。
-> - **1998 — 经典综合与教学效应群确立** Sweller、van Merriënboer 与 Paas 联合发表经典[[Document\|文献]]，系统总结分心效应、通道效应、冗余效应与专业反转效应（Expertise Reversal Effect）。
+> - **1998 — 经典综合与教学效应群确立** Sweller、van Merriënboer 与 Paas 联合发表经典文献，系统总结分心效应、通道效应、冗余效应与专业反转效应（Expertise Reversal Effect）。
 > - **2006 — 最小指导批判与教学论争** Kirschner、Sweller 与 Clark 发表争议论文，断言未加指导的[[Constructivist Paradigm\|建构主义]]与[[Inquiry-Based Learning\|探究学习]]因引发工作记忆超载而彻底无效，主张回归[[Direct Instruction\|显性直接教学]]（Direct Instruction, DI）。
 > - **2011 — 进化心理学基础整合** Sweller 结合 David C. Geary 进化心理学，提出生物初级知识与生物次级知识划分，论证次级学科知识必须依赖显性指导教学。
 > - **2023 — 学习科学边界审视与时序协同拓展** [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] 系统反驳将探究等同于极简指导的狭隘解读，指出辅以支架的指导式探究能有效管理认知负荷，且探究前置（如[[Productive Failure\|生产性失败]]）能激活图式、提高后续讲授的认知接受度。
@@ -223,7 +222,7 @@ updated: 2026-10-07
 > > - **批判政策社会学立场（Skourdoumbis & Rowe）** 批评其理论将生动的社会教育过程约化为机械的实验室数据，其非同行评审的智库报告被[[Policy Network\|政策网络]]强制推销，存在生物还原主义风险并压制了教师的专业自主反思。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024, pp. 8–11)]]
 
 > [!critique]- 批评索引
-> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统批评了认知负荷理论学者在 2022 年反探究论文中的[[Document\|文献]]选择性偏差，确证辅以支架的探究教学不仅能有效调控负荷，而且在概念理解与跨情境迁移上显著优于单一直接讲授。
+> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统批评了认知负荷理论学者在 2022 年反探究论文中的文献选择性偏差，确证辅以支架的探究教学不仅能有效调控负荷，而且在概念理解与跨情境迁移上显著优于单一直接讲授。
 > - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe (2024)]] — 批评认知负荷理论在澳大利亚教师教育改革中被保守智库工具化，指出其将学生学习差异简单还原为工作记忆负荷，[[Screening Off\|屏蔽]]了教育的社会历史与文化关系维度。
 
 ---

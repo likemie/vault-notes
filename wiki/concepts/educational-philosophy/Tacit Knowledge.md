@@ -9,7 +9,7 @@ aliases:
 summary: "由迈克尔·波兰尼（Michael Polanyi）提出、福雷与伦德瓦尔（Foray & Lundvall）引入知识经济学的认识论概念。指植根于个体实践行动、经验感知与身体机能之中，难以用形式化语言、符号或数字完全编码和传授的个人知识；在数字时代与编码知识形成互补，成为决定持续学习力与创新能力的核心资本。"
 type: concept
 domain: "educational-philosophy"
-related_count: 29
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -44,7 +44,6 @@ related_theories:
   - "[[Phenomenology]]"
   - "[[Social Realism]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -59,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Tacit Knowledge
@@ -69,7 +68,7 @@ updated: 2026-10-14
 ## 定义
 
 > [!def] 核心定义
-> **默会知识（Tacit Knowledge）**最初由哲学家迈克尔·波兰尼（Michael Polanyi, 1958, 1966）在其[[Epistemology|认识论]]代表作《意会维度》（*The Tacit Dimension*）中系统阐发，后经[[Dominique Foray|多米尼克·福雷]]（Dominique Foray）与本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（[[Bengt-Åke Lundvall]]）等经济学家引入[[Knowledge-Based Economy|知识经济]]与教育政策研究。该概念指深植于个体的行动经验、身体感知、工艺直觉、心智模型与文化情境之中，无法通过文字、公式或数码等形式化符号完全予以[[Coding in Qualitative Research|编码]]、表述与机械转移的实践性知识（“我们所知远多于我们所能言传”）。在知识经济与教育政策社会学中，随着信息与通信技术的飞速普及，纯粹的事实性编码知识变得廉价且易于获取，这不仅没有削弱默会知识的地位，反而使无法直接被算法或指令替代的默会操作技能、[[Critical Thinking|批判性思维]]与持续学习能力上升为决定个体及[[Competitiveness|国家竞争力]]的核心基底。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
+> **默会知识（Tacit Knowledge）**最初由哲学家迈克尔·波兰尼（Michael Polanyi, 1958, 1966）在其[[Epistemology|认识论]]代表作《意会维度》（*The Tacit Dimension*）中系统阐发，后经[[Dominique Foray|多米尼克·福雷]]（Dominique Foray）与本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（[[Bengt-Åke Lundvall]]）等经济学家引入[[Knowledge-Based Economy|知识经济]]与教育政策研究。该概念指深植于个体的行动经验、身体感知、工艺直觉、心智模型与文化情境之中，无法通过文字、公式或数码等形式化符号完全予以编码、表述与机械转移的实践性知识（“我们所知远多于我们所能言传”）。在知识经济与教育政策社会学中，随着信息与通信技术的飞速普及，纯粹的事实性编码知识变得廉价且易于获取，这不仅没有削弱默会知识的地位，反而使无法直接被算法或指令替代的默会操作技能、[[Critical Thinking|批判性思维]]与持续学习能力上升为决定个体及[[Competitiveness|国家竞争力]]的核心基底。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向那些无法脱离具身体验、特定情境与动态行动过程而独立存在的经验性与[[Procedural Knowledge|程序性知识]]形态。
@@ -91,7 +90,7 @@ updated: 2026-10-14
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | 本概念（默会知识） | [[Coding in Qualitative Research\|编码]]知识（Codified Knowledge） | [[Procedural Knowledge\|程序性知识]]（Procedural Knowledge） |
+> | 维度 | 本概念（默会知识） | 编码知识（Codified Knowledge） | [[Procedural Knowledge\|程序性知识]]（Procedural Knowledge） |
 > |---|---|---|---|
 > | **存在形式** | 具身化于个体的肌肉记忆、直觉与经验洞察中 | 外显化于文本、数据库、操作手册与数字信号中 | 存储于认知图式中的操作步骤与规则系统 |
 > | **传递介质** | 师徒传承、情境浸润与长期实践协作 | 印刷文本、网络下载、课程录像与符号传递 | 规则背诵、操作练习与算法流程演示 |
@@ -104,7 +103,7 @@ updated: 2026-10-14
 
 > [!feature] 核心要素
 > - **具身性与情境嵌入（Embodiment & Situatedness）** 知识深植于人的神经系统、感官协调与肌肉记忆中，且高度依赖特定的物理与社会文化环境。
-> - **不可完全[[Coding in Qualitative Research|编码]]性（Inarticulability）** 个体在进行精熟判断与操作时所调动的多维线索超越了语言符号的承载能力，无法被穷尽表述为公理规则。
+> - **不可完全编码性（Inarticulability）** 个体在进行精熟判断与操作时所调动的多维线索超越了语言符号的承载能力，无法被穷尽表述为公理规则。
 > - **实践导向性（Action-Orientation）** 核心指向“如何做”（know-how）与“与谁协作”（know-who），而非孤立的客观事实储备（know-what）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
 > - **动态转化潜能（SECI 转化动力）** 尽管难以完全编码，默会知识仍可通过观察模仿（社会化）和实践反思（外显化）与编码知识形成动态互生循环。
 
@@ -120,7 +119,7 @@ updated: 2026-10-14
 > 探讨为什么在信息技术高度发达、知识搜索唾手可得的后工业时代，教育体系反而降低了对事实记忆的要求，转而全面押注于以默会能力为导向的终身素养。
 
 > [!claim] Foray & Lundvall
-> **学习型经济的相对稀缺转移** [[Dominique Foray|多米尼克·福雷]]与本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]指出，数字化革命将[[Coding in Qualitative Research|编码]]知识推向无限丰裕，导致[[Rote Learning|死记硬背]]的事实性知识在劳动力市场迅速贬值；相反，那些支撑个体快速吸收新信息、在不确定情境中做出权衡决断以及协同创新的默会技能，成为了无法被机器替代的唯一核心生产力要素。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
+> **学习型经济的相对稀缺转移** [[Dominique Foray|多米尼克·福雷]]与本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]指出，数字化革命将编码知识推向无限丰裕，导致[[Rote Learning|死记硬背]]的事实性知识在劳动力市场迅速贬值；相反，那些支撑个体快速吸收新信息、在不确定情境中做出权衡决断以及协同创新的默会技能，成为了无法被机器替代的唯一核心生产力要素。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
 
 > [!claim] Rizvi & Lingard
 > **全球测评重塑国家教育目标的[[Epistemology|认识论]]支点** 里兹维与林加德进一步论证，[[OECD|经合组织]]正是借助福雷等学者关于默会技能与学习型经济的论证，为其彻底改造全球教育体系提供了理论合法性：它促使各国政府放弃强调传统学科人文底蕴与事实知识积累的教学大纲，转而将教育目的重塑为培养适应全球劳动力市场灵活需求的默会素养与[[Lifelong Learning|终身学习]]能力。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–447)]]
@@ -161,7 +160,7 @@ updated: 2026-10-14
 
 > [!debates] 学术争议
 >
-> > [!axis] 默会知识是否能被人工智能与大语言模型彻底[[Coding in Qualitative Research|编码]]之争
+> > [!axis] 默会知识是否能被人工智能与大语言模型彻底编码之争
 > > 随着深度学习与[[Generative Artificial Intelligence|生成式人工智能]]的发展，传统被视为不可言传的默会经验是否终将被算法公理化。
 > >
 > > - **强计算主义立场** 算法[[Determinism|决定论]]者认为，大语言模型与多模态具身智能能够通过数万亿标记海量吸收人类行为数据，以往被视为神秘直觉的经验终究只是高维模式匹配，默会性只是计算能力不足时期的暂时幻觉。
@@ -181,4 +180,4 @@ updated: 2026-10-14
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009, pp. 445–447)]] — 阐释[[Knowledge-Based Economy|知识经济]]如何依托默会知识与[[Coding in Qualitative Research|编码]]知识的二分，将全球教育目标重塑为实用技能与[[Lifelong Learning|终身学习]]能力。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009, pp. 445–447)]] — 阐释[[Knowledge-Based Economy|知识经济]]如何依托默会知识与编码知识的二分，将全球教育目标重塑为实用技能与[[Lifelong Learning|终身学习]]能力。

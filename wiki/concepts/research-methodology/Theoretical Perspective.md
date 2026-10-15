@@ -7,7 +7,7 @@ aliases:
 summary: "研究设计与认识论的核心概念。在宏观认识论与方法论层级上，指统领经验探究、界定问题性质与指导知识生成的解释透镜与范式立场；在微观研究方案与论文写作中，指专门阐述理论基础的独立章节或逻辑框架，通过彩虹桥梁机制连接变量与假设，为因果解释提供演绎依据。"
 type: concept
 domain: "research-methodology"
-related_count: 45
+related_count: 44
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Unit of Analysis]]"
   - "[[Literature Review]]"
-  - "[[Document]]"
   - "[[Causality]]"
   - "[[Research Writing Script]]"
   - "[[Heterogeneity]]"
@@ -71,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-10-02
+updated: 2026-10-15
 ---
 
 # Theoretical Perspective
@@ -112,7 +111,7 @@ updated: 2026-10-02
 > |---|---|---|---|
 > | **知识层级** | [[Epistemology\|认识论]]与方法论上位透镜（Robson 第 1 与第 4 级） | 操作性经验技术与工具（Robson 第 2 与第 3 级） | 议题领域的历史与当代知识全景汇总 |
 > | **核心功能** | 解释“为何如此”，架起[[Variable\|变量]]因果关联的彩虹桥梁 | 解决“如何收集与测量”，获取经验观察证据 | 识别既有研究空白，论证选题的研究必要性 |
-> | **文本形式** | 独立的理论章节、分析维度表或因果机制图示 | 样本描述、测量工具、实验步骤与统计模型 | 按议题或时序分类评述的综合性[[Document\|文献]]叙述 |
+> | **文本形式** | 独立的理论章节、分析维度表或因果机制图示 | 样本描述、测量工具、实验步骤与统计模型 | 按议题或时序分类评述的综合性文献叙述 |
 > | **演绎 vs 归纳** | 提供先验演绎逻辑或诠释透镜 | 服从研究策略的数据抓取与运算操作 | 综合归纳既往文献的研究发现与争论焦点 |
 
 ---
@@ -164,10 +163,10 @@ updated: 2026-10-02
 ### 命题二　理论视角在演绎研究中发挥彩虹桥梁功能，赋予变量关联以因果解释合法性
 
 > [!concept-lens] 因果机制与写作逻辑维度
-> 本类命题围绕理论视角如何在具体实证研究中发挥作用展开，剖析理论如何连接[[Variable|变量]]与[[Hypothesis|假设]]。
+> 本类命题围绕理论视角如何在具体实证研究中发挥作用展开，剖析理论如何连接[[Variable|变量]]与假设。
 
 > [!claim] [[John W. Creswell|Creswell, J. W.]]
-> **彩虹桥梁解释机制** 在实证[[Quantitative Research|量化研究]]中，理论视角并非装饰性的[[Document|文献]]标签，而是架设在[[Independent Variable|自变量]]与[[Dependent Variable|因变量]]之间的逻辑彩虹。实证数据本身只能展现变量间的统计相关，唯有理论视角所包含的核心命题与行为/制度机制，才能回答“自变量为何以及如何导致因变量变化”的因果机理。通过五步标准化[[Research Writing Script|写作脚本]]，研究者得以将宏观理论严密演绎为当前课题的可检验假设。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, pp. 53, 62–63)]]
+> **彩虹桥梁解释机制** 在实证[[Quantitative Research|量化研究]]中，理论视角并非装饰性的文献标签，而是架设在[[Independent Variable|自变量]]与[[Dependent Variable|因变量]]之间的逻辑彩虹。实证数据本身只能展现变量间的统计相关，唯有理论视角所包含的核心命题与行为/制度机制，才能回答“自变量为何以及如何导致因变量变化”的因果机理。通过五步标准化[[Research Writing Script|写作脚本]]，研究者得以将宏观理论严密演绎为当前课题的可检验假设。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, pp. 53, 62–63)]]
 
 ---
 
@@ -215,7 +214,7 @@ updated: 2026-10-02
 > > [!axis] 理论视角运用方式之争：先验演绎框架 vs 归纳扎根生成
 > > 争论研究应当从一开始便设定刚性的理论视角，还是由经验材料自下而上生成理论。
 > >
-> > - **量化演绎主义（Creswell, 2022）** 理论视角必须先验确立，置于方案前端作为彩虹桥梁以推导可检验[[Hypothesis|假设]]。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 53)]]
+> > - **量化演绎主义（Creswell, 2022）** 理论视角必须先验确立，置于方案前端作为彩虹桥梁以推导可检验假设。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 53)]]
 > > - **[[Grounded Theory|扎根理论]]与激进质性学者** 过早套用刚性理论视角会形成认知遮蔽，排斥研究者对田野意外发现的敏锐感知。
 
 > [!critique] 外部批评
@@ -233,7 +232,7 @@ updated: 2026-10-02
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 比较教育学会（[[Comparative and International Education Society\|CIES]]）年会投稿及 CER、IJED、C&E 等半个世纪旗舰期刊论文（1950s–1990s/2000s） | 学科史[[Document\|文献]]计量分析与学者[[Questionnaire\|问卷调查]] | 论文中理论视角明确性、理论视角分类分布（26 种[[Paradigm\|范式]]）及量化/质性方法比例 | 早期 32.7% 论文未明确理论视角；现代文献系统分化为 26 种互补视角；[[Positivism\|实证主义]]单一垄断被[[Pluralism\|健康多元主义]]所取代 | — | 该统计反映比较教育学期刊文献元数据与范式分布，未计算统计学干预效应量 |
+> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 比较教育学会（[[Comparative and International Education Society\|CIES]]）年会投稿及 CER、IJED、C&E 等半个世纪旗舰期刊论文（1950s–1990s/2000s） | 学科史文献计量分析与学者[[Questionnaire\|问卷调查]] | 论文中理论视角明确性、理论视角分类分布（26 种[[Paradigm\|范式]]）及量化/质性方法比例 | 早期 32.7% 论文未明确理论视角；现代文献系统分化为 26 种互补视角；[[Positivism\|实证主义]]单一垄断被[[Pluralism\|健康多元主义]]所取代 | — | 该统计反映比较教育学期刊文献元数据与范式分布，未计算统计学干预效应量 |
 
 ---
 

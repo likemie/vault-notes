@@ -7,7 +7,7 @@ aliases:
 summary: "质性研究的核心特征之一：研究计划在研究者进入现场并开始收集数据后会演变和变化，问题、数据收集形式和研究对象都可能随之调整"
 type: concept
 domain: "research-methodology"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,7 +17,6 @@ tags:
 related_concepts:
   - "[[Emergence]]"
   - "[[Paradigm]]"
-  - "[[Hypothesis]]"
   - "[[Research Question]]"
   - "[[Reflexivity]]"
 related_theories: []
@@ -35,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-07-11
+updated: 2026-10-15
 ---
 
 # Emergent Design
@@ -67,7 +66,7 @@ updated: 2026-07-11
 > |------|------------------------------------|--------------------------------------|
 > | 设计性质 | 预先确定，全程不变。 | 随数据深入而演变。 |
 > | 抽样 | 统计抽样，事前固定。 | [[Theoretical Sampling\|理论抽样]]，随理论涌现调整。 |
-> | 理论角色 | 先验理论→[[Hypothesis\|假设]]检验。 | [[Grounded Theory\|扎根理论]]——数据提示理论，理论从数据涌现。 |
+> | 理论角色 | 先验理论→假设检验。 | [[Grounded Theory\|扎根理论]]——数据提示理论，理论从数据涌现。 |
 > | [[Research Question\|研究问题]] | 研究开始前确定，驱动全程。 | 可随情境理解的深入而迭代修改。 |
 
 > [!term] 涌现式设计 vs [[Reflexivity\|反身性]]

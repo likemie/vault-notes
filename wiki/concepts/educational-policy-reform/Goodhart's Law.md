@@ -18,7 +18,6 @@ tags:
   - epistemology
   - theme/higher-education
 related_concepts:
-  - "[[Document]]"
   - "[[Sociology of Valuation and Evaluation]]"
   - "[[Metascience]]"
   - "[[Knowledge Production]]"
@@ -39,6 +38,7 @@ related_concepts:
   - "[[Replication in Education Research]]"
   - "[[Gold Standard Science]]"
   - "[[Soft Power]]"
+  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Peer Debriefing]]"
@@ -70,7 +70,7 @@ updated: 2026-10-12
 ## 概念总览与核心界定
 
 > [!def] 核心界定
-> **古德哈特定律（Goodhart's Law）** 是治理科学、[[Document|文献]]计量学与教育[[Sociology of Valuation and Evaluation|评估社会学]]中的核心经验定律。其经典表述为：**“当一个量化测度被选定作为政策控制与利益分配的目标时，该测度就会立即失去其原有的有效信息价值。”** 在科研资助、大学治理与教育政策中，该定律揭示了当论文发表篇数（Paper Counts）、期刊影响因子（Impact Factor）、大学排名位次或标准化测验均分等可量化代理指标被绑定于教职晋升、经费拨款与学校考核时，行动者必然展开策略性博弈与指标刷量（Metric Gaming），最终导致指标数值虚高而实质性原始创新与深层教育质量遭受系统性侵蚀。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 67–68)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
+> **古德哈特定律（Goodhart's Law）** 是治理科学、文献计量学与教育[[Sociology of Valuation and Evaluation|评估社会学]]中的核心经验定律。其经典表述为：**“当一个量化测度被选定作为政策控制与利益分配的目标时，该测度就会立即失去其原有的有效信息价值。”** 在科研资助、大学治理与教育政策中，该定律揭示了当论文发表篇数（Paper Counts）、期刊影响因子（Impact Factor）、大学排名位次或标准化测验均分等可量化代理指标被绑定于教职晋升、经费拨款与学校考核时，行动者必然展开策略性博弈与指标刷量（Metric Gaming），最终导致指标数值虚高而实质性原始创新与深层教育质量遭受系统性侵蚀。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 67–68)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 538–540)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指标作为“无意图的观察标尺”时具有参考意义，但一旦作为“具有高利害关系的奖励标靶”，便会不可避免地诱发理性行动者的合规套利与反向适应。
@@ -92,7 +92,7 @@ updated: 2026-10-12
 
 > [!feature] 古德哈特定律在科研与教育治理中的四大异化机制
 > - **代理指标置换实质目标（Surrogate [[Institutional Displacement|displacement]]）** 将便于测量的量化代理[[Variable|变量]]（如论文数量、引用频次）偷换为难以测量的终极价值（如学术卓越、科学真理与[[Critical Thinking|批判性思维]]），造成系统性目标置换。
-> - **萨拉米香肠式切片发表（Salami Slicing & Metric Inflation）** 学者为最大化篇数指标，将原本完整的重大突破拆分为多篇微小增量的碎片化论文，导致[[Document|文献]]总量激增而单篇认知密度急剧稀释。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 18)]]
+> - **萨拉米香肠式切片发表（Salami Slicing & Metric Inflation）** 学者为最大化篇数指标，将原本完整的重大突破拆分为多篇微小增量的碎片化论文，导致文献总量激增而单篇认知密度急剧稀释。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 18)]]
 > - **阴性与负面结果的系统性隐瞒（[[Publication Bias]] & Omission）** 期刊追求高影响因子倾向于发表“完美阳性故事”，导致充满科学认知价值的失败实验与[[Falsification|证伪]]数据被制度性隐瞒，加剧全球[[Reproducibility Crisis|可重复性危机]]。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 18, 67)]]
 > - **公共产品与开源基础设施投入挤出（Public Goods Crowding-Out）** 由于开源算法维护、高质量数据集清洗与精密仪器搭建难以快速转化为个人第一作者论文篇数，高利害量化考核直接抑制了科研人员对学术公共品的建设投入。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 18–19)]]
 
@@ -106,7 +106,7 @@ updated: 2026-10-12
 > 剖析短周期论文篇数考核如何系统性抑制高风险长周期探索。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
-> **计量异化与颠覆性衰退假说** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（Michael Kratsios）领衔的白宫科技战略报告论证指出，当高校终身教职评审与联邦资助过度锚定短期论文篇数与影响因子时，古德哈特定律便全面生效。大规模[[Document|文献]]计量证实，过去数十年全美及全球论文与专利总数呈指数级上升，但真正改变既有[[Paradigm|范式]]的颠覆性突破在总产出中的比例持续走低。学者为规避流聘风险，被迫将精力用于低风险增量课题与指标刷量，导致巨额公共研发投资陷入文献平庸化的陷阱。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 18, 67–68)]]
+> **计量异化与颠覆性衰退假说** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（Michael Kratsios）领衔的白宫科技战略报告论证指出，当高校终身教职评审与联邦资助过度锚定短期论文篇数与影响因子时，古德哈特定律便全面生效。大规模文献计量证实，过去数十年全美及全球论文与专利总数呈指数级上升，但真正改变既有[[Paradigm|范式]]的颠覆性突破在总产出中的比例持续走低。学者为规避流聘风险，被迫将精力用于低风险增量课题与指标刷量，导致巨额公共研发投资陷入文献平庸化的陷阱。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 18, 67–68)]]
 
 ---
 
@@ -135,7 +135,7 @@ updated: 2026-10-12
 > [!ref-table]- 古德哈特定律在科研生态中异化实证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究[[Document\|文献]] | 样本与情境 | 考察指标与设计 | 原始实证结果 | 理论解释边界 |
+> | 研究文献 | 样本与情境 | 考察指标与设计 | 原始实证结果 | 理论解释边界 |
 > |:---|:---|:---|:---|:---|
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 18)]] | 全球 1950–2024 年数千万篇科学论文与专利数据库 | CD 指数（颠覆性与固化性指数）与论文篇数纵向追踪 | 尽管全美及全球年度发表论文总数扩大数倍，但各学科 CD 颠覆性指数呈现系统性单调下滑 | 实证检验了高利害论文篇数考核对原始颠覆性创新的抑制效应（古德哈特效应） |
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 18–19)]] | 2009 年阿尔茨海默病里程碑顶刊撤稿案例 | 顶刊引文网络与药企临床转化复现对比 | 顶刊所载靶点数据在发表 3 年内即被药企证实无法复现，但因顶刊影响因子光环在学界积累逾 800 次虚假引用，误导公共研发长达十余年 | 揭示将期刊影响因子作为质量绝对指标导致的虚假共识与巨额预算浪费 |
@@ -146,7 +146,7 @@ updated: 2026-10-12
 ## 命题总览
 
 > [!contrast-table] 古德哈特定律核心命题归纳
-> | 命题维度 | 核心命题名称 | 关键作用机制 | 核心论证[[Document\|文献]] |
+> | 命题维度 | 核心命题名称 | 关键作用机制 | 核心论证文献 |
 > |:---|:---|:---|:---|
 > | **科研计量** | **计量异化与颠覆性衰退** | 篇数与影响因子高利害绑定诱发萨拉米切片发表，压低颠覆性新颖性 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 18, 67–68)]] |
 > | **教育政策** | **指标霸权与教育价值窄化** | 跨国测评指标博弈促使课程向易测应试技能靠拢，侵蚀深层育人价值 | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024, pp. 538–540)]] |
@@ -196,5 +196,5 @@ updated: 2026-10-12
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技战略报告第五章，深刻批判学术期刊出版与[[Document|文献]]计量的古德哈特定律异化，提出[[Dynamic Research Notebook|动态研究笔记本]]与去中心化交流核验体系。
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技战略报告第五章，深刻批判学术期刊出版与文献计量的古德哈特定律异化，提出[[Dynamic Research Notebook|动态研究笔记本]]与去中心化交流核验体系。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 揭示超国家机构量化指标帝国的自指性生产机制及其对比较教育学科[[Paradigm|范式]]的扭曲。

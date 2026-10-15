@@ -477,7 +477,7 @@ issuing_organization: ""
 > *Hence, helping students to acquire a sophisticated beliefs system about human knowledge is an important educational goal in itself and a means of enhancing academic achievement. It is more likely that this objective will be achieved if the materials used in the classroom or lecture hall reflect the tentative nature of human knowledge.*
 
 > [!citation-card]- 科学教育直面不确定性的必要性
-> 接触不确定性在硬科学中可能尤为重要。媒体往往将硬科学的发现描绘成“事实”。一些学生可能正是因为硬科学似乎提供事实而非模糊的理论或[[Hypothesis\|假设]]而被其吸引。因此，科学教育去探讨知识及其获取过程中的复杂性显得尤为重要。（p.362）
+> 接触不确定性在硬科学中可能尤为重要。媒体往往将硬科学的发现描绘成“事实”。一些学生可能正是因为硬科学似乎提供事实而非模糊的理论或假设而被其吸引。因此，科学教育去探讨知识及其获取过程中的复杂性显得尤为重要。（p.362）
 >
 > *Exposure to uncertainty might be particularly relevant in the hard sciences. The media often portray findings from the hard sciences as "facts." Some students might be attracted to the hard sciences precisely because they seem to offer facts, and not vague theories or assumptions. It is thus especially important for science education to address the complexities involved in knowledge and knowledge acquisition.*
 

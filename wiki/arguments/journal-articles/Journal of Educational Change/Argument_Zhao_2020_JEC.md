@@ -9,7 +9,7 @@ title: "Argument_Zhao_2020_JEC"
 argument_key: "Argument_Zhao_2020_JEC"
 argument_display_title: "Two decades of havoc: A synthesis of criticism against PISA"
 argument_kind: "journal-article"
-argument_related_count: 22
+argument_related_count: 20
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -21,14 +21,12 @@ tags:
   - paradigm/critical
   - level/k12
 related_concepts:
-  - "[[Document]]"
   - "[[Lifelong Learning]]"
   - "[[Discourse]]"
   - "[[International Education]]"
   - "[[Competitiveness]]"
   - "[[Evaluation Research]]"
   - "[[Construct]]"
-  - "[[Hypothesis]]"
   - "[[Problem Solving]]"
   - "[[Humility]]"
   - "[[Creativity]]"
@@ -76,7 +74,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract]
-> 这是一篇综述文章，系统梳理近二十年来对 [[PISA]] 的批评。[[Yong Zhao]] 采用的方法是[[Document\|文献]]综合，将分散在学术期刊和技术报告中的批评汇集为一篇非技术性语言的总结。专注于 PISA 的三个根本缺陷：其对教育的基本观点、其实施、以及其对全球教育的解释和影响。
+> 这是一篇综述文章，系统梳理近二十年来对 [[PISA]] 的批评。[[Yong Zhao]] 采用的方法是文献综合，将分散在学术期刊和技术报告中的批评汇集为一篇非技术性语言的总结。专注于 PISA 的三个根本缺陷：其对教育的基本观点、其实施、以及其对全球教育的解释和影响。
 
 ---
 
@@ -120,7 +118,7 @@ PISA 声称测量现代社会或未来世界所需的知识和技能，但这一
 
 ### 第三步：单一教育观
 
-PISA 的基本前提是[[Hypothesis|假设]]存在一套在所有社会中普遍有价值的技能和知识，无论其历史和未来如何。但世界上不止一种社会，不同社会因文化、政治、宗教和经济原因而运作不同，面临不同的挑战，需要不同的知识和技能。
+PISA 的基本前提是假设存在一套在所有社会中普遍有价值的技能和知识，无论其历史和未来如何。但世界上不止一种社会，不同社会因文化、政治、宗教和经济原因而运作不同，面临不同的挑战，需要不同的知识和技能。
 
 > [!warning] 西方中心主义
 > PISA 首先是为 OECD 成员国开发的，其中大多数是世界上最发达的市场经济体，只有少数例外如墨西哥、智利和土耳其。35 个 OECD 成员国绝不能代表当今世界近 200 个国家的全部多样性。PISA 框架及其测试主要基于 OECD 成员国的经济和教育现实。当 PISA 作为基准标准被用于 30 多个非 OECD 国家时，PISA 测试与该国及其青年需求的错配可能变得更加明显（Sjøberg 2015b, p.116）。
@@ -219,7 +217,7 @@ PISA 推广者将威权教育系统中的自我谴责特质美化为教育卓越
 
 > [!success]
 > - **捏造的主张**。[[PISA]] 声称测量未来生活所需的基本技能，但没有任何实证依据，且与 [[TIMSS]] 等其他国际评估高度相关。
-> - **单一教育观**。PISA 将 [[OECD]] 成员国的西方[[Hypothesis\|假设]]强加于全球近 200 个国家，非 OECD 国家面临更大的错配。
+> - **单一教育观**。PISA 将 [[OECD]] 成员国的西方假设强加于全球近 200 个国家，非 OECD 国家面临更大的错配。
 > - **扭曲的教育观**。PISA 将经济增长作为教育唯一目的，忽视公民身份、好奇心、同理心等更广泛的教育目的。
 > - **分数负相关**。PISA 高分国家的学生表现出更低的学科兴趣、更低的幸福感、更低的创业信心。
 > - **美化威权教育**。PISA 将威权教育系统中的自我谴责特质美化为教育卓越的秘密，实际上这是威权社会否认社会责任的工具。

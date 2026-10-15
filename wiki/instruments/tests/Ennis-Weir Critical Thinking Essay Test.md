@@ -8,7 +8,7 @@ aliases:
 summary: "采用开放论述题形式评估个体在复杂论证语境中逻辑推理与论据评估能力的经典测验，要求受测者对一封致市长的公开信逐段进行批判性评估并提出综合论证。"
 type: instrument
 instrument_type: test
-instrument_related_count: 6
+instrument_related_count: 5
 instrument_related_level: 1
 instrument_related_stars: "⭐"
 instrument_related_color: "#dbeafe"
@@ -31,7 +31,6 @@ tags:
 related_concepts:
   - "[[Critical Thinking]]"
   - "[[Reliability]]"
-  - "[[Hypothesis]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -44,7 +43,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-08-27
+updated: 2026-10-15
 ---
 
 # Ennis-Weir Critical Thinking Essay Test
@@ -71,7 +70,7 @@ updated: 2026-08-27
 > | **识别类比不当（Flawed Analogy）** | 1 段 | 辨析以不恰当事物类比真实政策问题（如将道路过夜停车类比为公共道路建造车库）的逻辑缺陷。 | 量规打分（-1 至 +3 分） |
 > | **识别概念混淆与歧义（Equivocation）** | 1 段 | 识别偷换概念、用词模棱两可造成的论证误导。 | 量规打分（-1 至 +3 分） |
 > | **评估权威与来源可[[Reliability\|信度]]（Credibility of Authority）** | 1 段 | 评判引述未经证明的权威言论或无资质人士意见的论据弱点。 | 量规打分（-1 至 +3 分） |
-> | **识别循环论证（Begging the Question）** | 1 段 | 识别以待证明结论作为前提[[Hypothesis\|假设]]的逻辑错误。 | 量规打分（-1 至 +3 分） |
+> | **识别循环论证（Begging the Question）** | 1 段 | 识别以待证明结论作为前提假设的逻辑错误。 | 量规打分（-1 至 +3 分） |
 > | **识别样本不当过度概括（Overgeneralization）** | 1 段 | 识别由个别极端特例推导普遍结论的以偏概全谬误。 | 量规打分（-1 至 +3 分） |
 > | **识别事后归因与假因果（[[Parliamentary Office of Science and Technology\|POST]] Hoc / False Cause）** | 1 段 | 区分时间先后顺序与因果必然性之间的本质区别。 | 量规打分（-1 至 +3 分） |
 > | **识别稻草人谬误与情绪化攻击（Straw Man / Ad Hominem）** | 1 段 | 识别歪曲对方立场或进行无根据人身贬损的论证漏洞。 | 量规打分（-1 至 +3 分） |

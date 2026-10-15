@@ -5,7 +5,7 @@ aliases:
 summary: "指将自由市场机制与经济效率上升为解释并裁决人类一切社会生活、制度安排与道德伦理的最高自明法则；在跨国教育政策中，将教育公平窄化为形式上的学校准入，将性别平权简化为盘活女性劳动力的减贫工具，将社会资本残余化为社会维稳手段，抽空了实质社会正义的批判内核。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 27
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Paradigm]]"
   - "[[Credential Inflation]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Discourse]]"
   - "[[Cultural Capital]]"
   - "[[Total Factor Productivity]]"
@@ -31,7 +30,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Lifelong Learning]]"
   - "[[Competitiveness]]"
-  - "[[Attrition]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Social Capital Theory]]"
@@ -97,7 +95,7 @@ updated: 2026-10-15
 
 > [!feature] 核心要素
 > - **经济效率作为元价值棱镜** 将市场效率确立为评判政策合法性的首要准则，迫使所有社会民主主义理想均须通过经济功利性论证方能获取合法性。（Soros, 1998; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, p. 449]]）
-> - **社会伦理词汇的技术化[[Transfer Translation Transformation|转译]]** 表面保留公平、多元与社会凝聚等进步[[Discourse|话语]]，但在内涵上剥离其对抗资本剥削的批判性，转译为“技能准入”、“人力资源配置”等技术参数。
+> - **社会伦理词汇的技术化转译** 表面保留公平、多元与社会凝聚等进步[[Discourse|话语]]，但在内涵上剥离其对抗资本剥削的批判性，转译为“技能准入”、“人力资源配置”等技术参数。
 > - **教育公平的形式化准入窄化** 将复杂的教育公平简化为入学机会与测验参与门槛的形式平等，规避对深层[[Cultural Capital|文化资本]]再生产与阶层分化的政治审议。（Berliner, 2007）
 > - **性别平等与社会资本的工具化降格** 将女性教育论证为减贫与[[Total Factor Productivity|全要素生产率]]增长手段，将社会资本降格为化解极端个人主义风险、防范生产受阻的排险防线。（Scholte, 2000; Thomson, 1999; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, pp. 449–450]]）
 
@@ -210,4 +208,4 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009, pp. 448–450)]] — 批判[[OECD|经合组织]]在经济基要主义下重构教育公平、性别平权与社会资本，揭示其实质正义内涵的工具化[[Attrition|流失]]。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009, pp. 448–450)]] — 批判[[OECD|经合组织]]在经济基要主义下重构教育公平、性别平权与社会资本，揭示其实质正义内涵的工具化流失。

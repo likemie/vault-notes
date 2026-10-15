@@ -10,7 +10,7 @@ aliases:
 summary: "由弗雷德·赫希（Fred Hirsch）提出、教育社会学广泛应用的核心概念。指其价值主要取决于个体相对于其他社会成员的排他性占有程度，而非其绝对效用或物质属性的商品；在教育领域中，高阶文凭与名校排位作为位置性商品，其社会供应总量受到客观结构的严格限制，个体竞相投资教育的理性行为在宏观上导致文凭通胀、中产焦虑与社会零和博弈。"
 type: concept
 domain: "sociology-of-education"
-related_count: 19
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -42,7 +42,6 @@ related_instruments: []
 related_persons:
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
-  - "[[Peter A. Hall]]"
 related_facts:
   - "[[OECD]]"
   - "[[Education for All]]"
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Positional Good
@@ -153,7 +152,7 @@ updated: 2026-10-14
 
 > [!dev-timeline] 概念演变
 > - **1976 — 奠基阶段** 弗雷德·赫希在其里程碑著作《增长的社会极限》中首次界定“位置性商品”，指出经济增长无法消除围绕不可无限供给的相对优势展开的社会竞争。
-> - **1990s — 拓展阶段** 菲利普·布朗、休·劳德（Hugh Lauder）与A. H. [[Peter A. Hall|霍尔]]西（A. H. Halsey）等学者将位置性竞争全面引入教育社会学，提出文凭队列筛选理论与家长资本运作分析。
+> - **1990s — 拓展阶段** 菲利普·布朗、休·劳德（Hugh Lauder）与A. H. 霍尔西（A. H. Halsey）等学者将位置性竞争全面引入教育社会学，提出文凭队列筛选理论与家长资本运作分析。
 > - **2000s — 批判政策社会学应用** [[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]等批判政策学者运用该概念剖析[[OECD|经合组织]]教育政策，揭示新自由主义[[Knowledge-Based Economy|知识经济]][[Discourse|话语]]如何将[[Education for All|全民教育]]退化为劳动力市场排位的私有化竞技场。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 451–452)]]
 
 ---

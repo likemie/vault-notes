@@ -10,7 +10,7 @@ subtype: program
 region: "germany"
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 12
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -24,7 +24,6 @@ tags:
   - theme/municipal-monitoring
 related_concepts:
   - "[[Lifelong Learning]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Data Infrastructure]]"
   - "[[Rescaling]]"
   - "[[Comprehensive Education]]"
@@ -32,7 +31,6 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons:
-  - "[[Isaiah Berlin]]"
   - "[[Sigrid Hartong]]"
 related_facts:
   - "[[Federal Ministry of Education and Research]]"
@@ -43,7 +41,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-11
+updated: 2026-10-15
 ---
 
 # Lernen vor Ort
@@ -58,7 +56,7 @@ updated: 2026-10-11
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2009 年启动，历经两期资助（2009–2012，2012–2014），于 2014 年底正式结项。
 > - **发起方与资助机制** BMBF 与 ESF 提供总额约 1.2 亿欧元的国库与欧盟配比资金，同时联合全德近 180 家私人基金会形成公私伙伴关系（Public-Private Partnerships, PPPs）。
-> - **覆盖范围与对象** 在全德 16 个联邦州资助了 35 个示范性市镇与县区（覆盖[[Isaiah Berlin|柏林]]、汉堡、莱比锡、科隆、纽伦堡等主要城市与农村地区）。
+> - **覆盖范围与对象** 在全德 16 个联邦州资助了 35 个示范性市镇与县区（覆盖柏林、汉堡、莱比锡、科隆、纽伦堡等主要城市与农村地区）。
 > - **核心问题导向** 打破传统德国地方教育碎片化、各职能部门（学校局、青年局、社会救助局、劳工局）数据孤立分割的局面，强化地方政府对全域教育生态的自主统筹与循证调控能力（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 142–143]]）。
 
 ---
@@ -74,7 +72,7 @@ updated: 2026-10-11
 >   - **地方教育管理（Kommunales Bildungsmanagement）** 建立跨部门联席决策机构，协调学前保育、义务教育与职业培训衔接。
 >   - **教育咨询网络（Bildungsberatung）** 设立面向全年龄段市民的终身学习与职业转型咨询服务点。
 >   - **跨部门过渡管理（Übergangsmanagement）** 重点攻坚“幼儿园 ➔ 小学”以及“初中 ➔ 职业教育”两大关键分流卡点。
-> - **公私治理与智库介入** 贝塔斯曼基金会等第三方中介深度介入地方监测指标设计与技术工具研发，成为联结联邦资金与地方实践的[[Transfer Translation Transformation\|转译]]载体（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 142–143]]）。
+> - **公私治理与智库介入** 贝塔斯曼基金会等第三方中介深度介入地方监测指标设计与技术工具研发，成为联结联邦资金与地方实践的转译载体（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 142–143]]）。
 
 > [!citation-card] [[Sigrid Hartong\|哈通]]论联邦“地方学习”计划与地方教育监测的激活
 > 联邦政府通过专项资助推动了基层学区的[[Data Infrastructure\|数据基础设施]]化与公私协同：

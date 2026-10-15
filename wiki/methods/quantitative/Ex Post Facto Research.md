@@ -7,7 +7,7 @@ summary: "一种回溯性非实验研究设计，通过观察已发生的因变�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 29
+method_related_count: 27
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Independent Variable]]"
-  - "[[Hypothesis]]"
   - "[[Causality]]"
   - "[[Dependent Variable]]"
   - "[[Unit of Analysis]]"
@@ -30,7 +29,6 @@ related_concepts:
   - "[[Post Hoc Ergo Propter Hoc Fallacy]]"
   - "[[Alternative Hypothesis]]"
   - "[[Effective Teaching]]"
-  - "[[Document]]"
   - "[[Falsification]]"
   - "[[Interaction Effect]]"
   - "[[Counterfactual]]"
@@ -53,7 +51,7 @@ related_facts: []
 confidence: medium
 status: draft
 created: 2026-07-12
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 # Ex Post Facto Research
 
@@ -62,7 +60,7 @@ updated: 2026-10-08
 ## 定义
 
 > [!def] 事后回溯研究的定义
-> 事后回溯研究（ex POST facto research）字面意为"事后"，指通过观察已存在的条件或状态，并回溯搜索可能的因果因素来探索因果-效应关系的研究方法（p.304）。研究者从因[[Variable\|变量]]（DV）出发，逆向搜索已经发生、无法被操纵或控制的可能[[Independent Variable\|自变量]]（IV），然后通过[[Hypothesis\|假设]]、检验、控制样本和匹配等方式试图建立因果联系（pp.304–305）。由于自变量已发生且无法被研究者操纵，[[Causality\|因果推断]]属于概率性因果关系的范畴（p.304）。
+> 事后回溯研究（ex POST facto research）字面意为"事后"，指通过观察已存在的条件或状态，并回溯搜索可能的因果因素来探索因果-效应关系的研究方法（p.304）。研究者从因[[Variable\|变量]]（DV）出发，逆向搜索已经发生、无法被操纵或控制的可能[[Independent Variable\|自变量]]（IV），然后通过假设、检验、控制样本和匹配等方式试图建立因果联系（pp.304–305）。由于自变量已发生且无法被研究者操纵，[[Causality\|因果推断]]属于概率性因果关系的范畴（p.304）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 已发生的自然事件、条件或处理对后续结果的影响，如家庭暴力对学生成绩的影响、教师培训质量对教学效能的影响。
@@ -81,7 +79,7 @@ updated: 2026-10-08
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 事后回溯研究属于概率性[[Causality\|因果推断]]传统，承认无法确定性地证明因果关系；因果推断是试探性而非结论性的（p.304）。
-> - **研究者角色** 研究者是回溯性侦探：从已发生的结果出发，[[Hypothesis\|假设]]可能原因，通过控制、匹配和比较来逐一检验这些假设（p.304）。
+> - **研究者角色** 研究者是回溯性侦探：从已发生的结果出发，假设可能原因，通过控制、匹配和比较来逐一检验这些假设（p.304）。
 > - **有效性标准** [[Internal Validity\|内部效度]]较弱——缺乏对自[[Variable\|变量]]的操纵和[[Random Assignment\|随机分配]]；[[External Validity\|外部效度]]可接受——研究发生在自然情境中；核心威胁包括反向因果、第三变量和[[Post Hoc Ergo Propter Hoc Fallacy\|事后归因谬误]]（pp.307–308）。
 > - **不声称回答的问题** 无法确定性地证明因果关系；无法区分因果方向；无法排除所有替代解释。
 
@@ -121,8 +119,8 @@ updated: 2026-10-08
 Lord（1973, p. 6）提出了事后回溯研究的八个阶段（pp. 315–316）：
 
 > [!proc] Lord（1973, p. 6）的八阶段程序
-> 1. **界定问题并回顾[[Document\|文献]]** 明确研究领域，通过文献了解前人研究的问题、障碍和发现。
-> 2. **陈述[[Hypothesis\|假设]]与前提** 明确待检验的假设以及假设和研究程序所基于的前提假设。
+> 1. **界定问题并回顾文献** 明确研究领域，通过文献了解前人研究的问题、障碍和发现。
+> 2. **陈述假设与前提** 明确待检验的假设以及假设和研究程序所基于的前提假设。
 > 3. **选择被试与数据收集方法** 确定抽样策略和数据收集工具。
 > 4. **建立分类标准与类别** 建立尽可能无歧义的数据分类标准，使关系和相似性能被发现。
 > 5. **收集"结果出现时"始终存在的因素数据** 收集在给定结果出现时始终在场的因素数据，舍弃这些因素不一致存在时的数据。
@@ -149,7 +147,7 @@ Lord（1973, p. 6）提出了事后回溯研究的八个阶段（pp. 315–316�
 
 > [!method-fit] 适用判断
 > - **适合使用** 更严格的实验方法不可行时：自[[Variable\|变量]]超出研究者控制时；实验室控制不切实际、成本过高或不符合伦理时；特别是在社会、教育和心理情境中[[Independent Variable\|自变量]]通常无法被操纵时（p. 310）。
-> - **谨慎使用** 简单因果-效应关系探索；变量之间的相关较强且替代解释可被排除时；拥有大型公共数据库可供分析时（Ayres, 2008）；作为[[Experimental Research\|实验研究]]的预备探索阶段生成[[Hypothesis\|假设]]时。
+> - **谨慎使用** 简单因果-效应关系探索；变量之间的相关较强且替代解释可被排除时；拥有大型公共数据库可供分析时（Ayres, 2008）；作为[[Experimental Research\|实验研究]]的预备探索阶段生成假设时。
 > - **不适合使用** 需要确定性[[Causality\|因果推断]]的情境；自变量可以被直接操纵时；需要[[Random Assignment\|随机分配]]以控制所有混淆变量时；可能存在反向因果或强的第三变量解释时。
 
 > [!example] 典型应用示例
@@ -165,7 +163,7 @@ Lord（1973, p. 6）提出了事后回溯研究的八个阶段（pp. 315–316�
 ## 局限性
 
 > [!method-limits] 方法局限
-> - **偏误来源** 缺乏对自[[Variable\|变量]]的控制（核心弱点）；无法[[Random Assignment\|随机分配]]；回溯数据受历史证据的弱点和偏差影响；[[Hypothesis\|假设]]可以从同一数据中获得多个甚至相互矛盾的支持（p. 308）；[[Post Hoc Ergo Propter Hoc Fallacy\|事后归因谬误]]（POST hoc, ergo propter hoc）——仅因一个变量在时间上先于另一个，不意味着前者引发了后者（Cohen & Nagel, 1961）（p. 309）。
+> - **偏误来源** 缺乏对自[[Variable\|变量]]的控制（核心弱点）；无法[[Random Assignment\|随机分配]]；回溯数据受历史证据的弱点和偏差影响；假设可以从同一数据中获得多个甚至相互矛盾的支持（p. 308）；[[Post Hoc Ergo Propter Hoc Fallacy\|事后归因谬误]]（POST hoc, ergo propter hoc）——仅因一个变量在时间上先于另一个，不意味着前者引发了后者（Cohen & Nagel, 1961）（p. 309）。
 > - **适用边界** 最多只能展示变量间的相关或关联关系；[[Causality\|因果推断]]是试探性的，不应被解读为确定性的（p. 308）；因果关系方向无法确定——A 可能引发 B，B 可能引发 A，或第三变量可能同时引发二者（p. 309）。
 > - **误用风险** 将相关误解为因果；忽略可能的反向因果；忽略未测量的第三变量；将来自数据的假设当作已被数据检验过的假设（Lord, 1973, p. 7）（p. 316）；分类为二分组的困难（p. 313）；匹配导致的样本大幅缩减（Lewis-Beck, 1993, p. 43）（pp. 316–317）。
 > - **补救方式** 通过匹配、同质性抽样、纳入额外[[Independent Variable\|自变量]]、检验[[Alternative Hypothesis\|替代假设]]引入控制（pp. 316–317）；谨慎地将事后回溯研究定位为探索性工具和假设来源，而非确定性检验（p. 310）。

@@ -10,7 +10,7 @@ title: "Argument_Schaffar_2024_CogentEdu"
 argument_key: "Argument_Schaffar_2024_CogentEdu"
 argument_display_title: "Phenomenon-based learning in Finland: A critical overview of its historical and philosophical roots"
 argument_kind: "journal-article"
-argument_related_count: 35
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -40,7 +40,6 @@ related_concepts:
   - "[[Epochal Key Problems]]"
   - "[[Ontology]]"
   - "[[Paradigm]]"
-  - "[[Document]]"
   - "[[Praxis]]"
   - "[[Disciplinary Institutionalization]]"
   - "[[Discipline-Based Theory]]"
@@ -81,11 +80,11 @@ updated: 2026-06-22
 > 芬兰[[Phenomenon-Based Learning\|现象本位学习]]（Phenomenon-based learning, PhBL）的历史与哲学根源是什么？如何理解其核心的现象概念？该教学模式的整体性教育价值与课程化过程中遭遇的新自由主义（Neoliberalism）测量与问责（Accountability）政策之间存在何种内在张力？(pp.1–2)
 
 > [!claim] 核心主张
-> PhBL 深深植根于欧陆的[[Phenomenology\|现象学]]、[[Bildung\|教化]]（Bildung）和教学论（[[Didaktik]]）哲学传统，以及近代[[Pragmatic Paradigm\|实用主义]][[Constructivist Paradigm\|建构主义]]（[[Pragmatic Constructivism]]）心理学。其真正的教育价值在于培养学生合作面对复杂全球性挑战的整体性能力。然而，当 PhBL 被纳入芬兰课程政策时，被迫向强调标准化测量、问责制和技能原子化（Atomisation of Skills）的全球经济竞争逻辑妥协，面临被碎片化和工具化的风险。(pp.2, 8–10)
+> PhBL 深深植根于欧陆的[[Phenomenology\|现象学]]、教化（[[Bildung]]）和教学论（[[Didaktik]]）哲学传统，以及近代[[Pragmatic Paradigm\|实用主义]][[Constructivist Paradigm\|建构主义]]（[[Pragmatic Constructivism]]）心理学。其真正的教育价值在于培养学生合作面对复杂全球性挑战的整体性能力。然而，当 PhBL 被纳入芬兰课程政策时，被迫向强调标准化测量、问责制和技能原子化（Atomisation of Skills）的全球经济竞争逻辑妥协，面临被碎片化和工具化的风险。(pp.2, 8–10)
 
 > [!concept-lens]- 阅读透镜
 > - **对象** 芬兰基础教育国家核心课程中的 PhBL 政策[[Discourse|话语]]、背后的教育思想史脉络，以及赫尔辛基大学的 SveaSus 教学实验案例 (pp.1–3)
-> - **张力** [[Phenomenology\|现象学]]与[[Bildung\|教化]]传统主张的生活世界体验整体性、[[Open-Mindedness|开放性]]和内在价值，与新自由主义全球治理下以经济和测量为导向的技能拆分及绩效问责之间的冲突 (pp.9–10)
+> - **张力** [[Phenomenology\|现象学]]与教化传统主张的生活世界体验整体性、[[Open-Mindedness|开放性]]和内在价值，与新自由主义全球治理下以经济和测量为导向的技能拆分及绩效问责之间的冲突 (pp.9–10)
 > - **贡献** 澄清了国际社会对芬兰取消学科的普遍误读，从概念考古学和知识社会学视角揭示了 PhBL 课程化背后的新自由主义悖论，为理解跨学科课程改革的政策风险提供了[[Analytic Framework\|分析框架]] (pp.2, 9–11)
 
 ---
@@ -118,7 +117,7 @@ updated: 2026-06-22
 > | 样本层面 | 构成 |
 > |----------|------|
 > | **政策文本样本** | 2014年版芬兰基础教育国家核心课程（Finnish National Core Curriculum for Basic Education 2014）及其英文译本。(p.2) |
-> | **历史与哲学[[Document\|文献]]** | 涵盖 Kant, [[Edmund Husserl\|Husserl]], Heidegger, Sartre, Merleau-Ponty 的[[Phenomenology\|现象学]]著作；Snellman 的[[Bildung\|教化]]哲学论述；Klafki 的批判建设性教学论；以及 Rauste-von Wright 的[[Constructivist Paradigm\|建构主义]]教育心理学文献。(pp.3–8) |
+> | **历史与哲学文献** | 涵盖 Kant, [[Edmund Husserl\|Husserl]], Heidegger, Sartre, Merleau-Ponty 的[[Phenomenology\|现象学]]著作；Snellman 的教化哲学论述；Klafki 的批判建设性教学论；以及 Rauste-von Wright 的[[Constructivist Paradigm\|建构主义]]教育心理学文献。(pp.3–8) |
 > | **教学[[Praxis\|实践]]情境** | 赫尔辛基大学 2018–2023 年运行的 [[SveaSus Project\|SveaSus（可持续世界遗产现象本位学习）项目]]，以芬兰堡（Suomenlinna）世界遗产地为真实学习场域，提供具身、艺术与多语教学的实证脉络。(p.1) |
 
 ---

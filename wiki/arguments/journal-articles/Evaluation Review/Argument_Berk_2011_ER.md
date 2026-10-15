@@ -9,7 +9,7 @@ title: "Argument_Berk_2011_ER"
 argument_key: "Argument_Berk_2011_ER"
 argument_display_title: "Evidence-based versus junk-based evaluation research: Some lessons from 35 years of the Evaluation Review"
 argument_kind: "journal-article"
-argument_related_count: 27
+argument_related_count: 25
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -28,14 +28,12 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Literature Review]]"
   - "[[Causality]]"
-  - "[[Document]]"
   - "[[Internal Validity]]"
   - "[[Stable Unit Treatment Value Assumption]]"
   - "[[External Validity]]"
   - "[[Type I and Type II Errors]]"
   - "[[Variable]]"
   - "[[Dependent Variable]]"
-  - "[[Hypothesis]]"
   - "[[Decodification]]"
   - "[[Knowledge Questions]]"
 related_theories:
@@ -84,7 +82,7 @@ citation_aliases:
 
 > [!info] 研究方法
 > - **方法**[[Reflexivity\|反思性]]论文（reflective essay），基于 35 年编辑经验和方法论[[Literature Review\|文献综述]]
-> - **数据来源** 作为创始编辑经手的数百篇[[Evaluation Research\|评估研究]]论文、[[Causality\|因果推断]]方法论[[Document\|文献]]（Neyman et al.）、Berk 本人的研究项目(Berk, 2004, 2005, 2007)
+> - **数据来源** 作为创始编辑经手的数百篇[[Evaluation Research\|评估研究]]论文、[[Causality\|因果推断]]方法论文献（Neyman et al.）、Berk 本人的研究项目(Berk, 2004, 2005, 2007)
 
 ## 核心论证
 
@@ -109,7 +107,7 @@ citation_aliases:
 >
 > ### 4. 匹配作为替代方法
 >
-> 匹配回避了因果建模的模型选择问题（匹配[[Variable\|变量]]在不参考[[Dependent Variable\|结果变量]]的情况下确定），但需要满足与随机实验相同的[[Hypothesis\|假设]]（无干扰、条件独立于未观测变量）——Berk 警告这些假设在匹配应用中也常被违反(pp.197–199)。
+> 匹配回避了因果建模的模型选择问题（匹配[[Variable\|变量]]在不参考[[Dependent Variable\|结果变量]]的情况下确定），但需要满足与随机实验相同的假设（无干扰、条件独立于未观测变量）——Berk 警告这些假设在匹配应用中也常被违反(pp.197–199)。
 >
 > ### 5. [[Meta-analysis\|元分析]]的过度评价
 >

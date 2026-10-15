@@ -7,7 +7,7 @@ aliases:
 summary: "Cole 提出的关于后现代课程的功能隐喻。它主张教育（特别是探究性课程）不应追求导向预设的普世真理或统一结论，而应作为一种持续激发群体想象力、甚至将负面情感转化为生产性动力的引擎，借此不断孕育出跨学科的新知识与新探索。"
 type: concept
 domain: "curriculum"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,7 +18,6 @@ related_concepts:
   - "[[Open-Mindedness]]"
   - "[[International Education]]"
   - "[[Theory of Knowledge]]"
-  - "[[Bildung]]"
   - "[[Emergence]]"
   - "[[Creativity]]"
 related_theories: []
@@ -35,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-12
-updated: 2026-09-23
+updated: 2026-10-15
 ---
 
 # Feeder Mechanism
@@ -62,7 +61,7 @@ updated: 2026-09-23
 ## 核心要素
 
 > [!feature] 核心要素
-> - **去目的论（无必然终点）** 滋养机制不以任何单一的道德[[Bildung\|教化]]（如[[Georg Wilhelm Friedrich Hegel\|黑格尔]]式的公民塑造）或绝对真理为终点，允许探究处于悬而未决的开放状态。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 222)]]
+> - **去目的论（无必然终点）** 滋养机制不以任何单一的道德教化（如[[Georg Wilhelm Friedrich Hegel\|黑格尔]]式的公民塑造）或绝对真理为终点，允许探究处于悬而未决的开放状态。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 222)]]
 > - **负面情绪的生产性转化** 课堂中[[Emergence\|涌现]]的困惑、虚无主义甚至叛逆不再是需要被纪律消除的阻碍，而是作为燃料输入这套机制，成为催生批判性想象力的重要资源。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 218)]]
 > - **跨学科重组** 通过想象力，滋养机制鼓励学生打破固化的学科边界（如将社会学与地理学结合为后现代城市学），[[Creativity\|创造性]]地应对完美信息时代的知识博弈。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 220)]]
 

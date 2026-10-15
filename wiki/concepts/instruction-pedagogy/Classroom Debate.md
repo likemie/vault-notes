@@ -9,7 +9,7 @@ aliases:
 summary: "一种以正反立场分配、举证责任、限时质询与反驳规则为特征的结构化对话教学策略，通过认知冲突与换位思考促进批判性思维与论证技能"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Discourse]]"
   - "[[Socratic Dialogue]]"
-  - "[[Hypothesis]]"
   - "[[Brainstorming]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Reliability]]"
@@ -39,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Classroom Debate
@@ -68,7 +67,7 @@ updated: 2026-10-07
 > | 维度 | 课堂辩论（Classroom Debate） | [[Socratic Dialogue\|苏格拉底对话]] | 自由全班研讨 |
 > |---|---|---|---|
 > | **互动轴心** | 生生正反立场结构化交锋 | 教师针对学生概念的连续追问 | 师生与生生间发散性研讨 |
-> | **核心机制** | 证据质询、逻辑反驳与换位思考 | 澄清定义、检验[[Hypothesis\|假设]]与暴露矛盾 | 观点分享与[[Brainstorming\|头脑风暴]] |
+> | **核心机制** | 证据质询、逻辑反驳与换位思考 | 澄清定义、检验假设与暴露矛盾 | 观点分享与[[Brainstorming\|头脑风暴]] |
 > | **规则约束** | 极高（限时发言、明确举证责任） | 中等（遵循探究诘问逻辑） | 较低（自由发言、缺乏硬性对抗规则） |
 > | **典型产出** | 论证结构化能力与批判审证 | 概念精细重构与假设审查 | 知识面拓宽与参与感 |
 
@@ -84,7 +83,7 @@ updated: 2026-10-07
 
 > [!taxonomy] 课堂辩论的核心认知动作
 > - **举证责任（Burden of Proof）** 提出主张时必须提供相关且可信的事实或逻辑支持。
-> - **反驳（Rebuttal）** 准确识别对手论证中的逻辑漏洞、证据不足或不当[[Hypothesis\|假设]]并予以回应。
+> - **反驳（Rebuttal）** 准确识别对手论证中的逻辑漏洞、证据不足或不当假设并予以回应。
 > - **换位思考（Perspective Taking）** 设身处地理解对立立场的合理性依据与价值预设。
 
 ---

@@ -10,7 +10,7 @@ summary: "美国心理学家与计算机科学先驱，DARPA信息处理技术�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 13
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -27,7 +27,6 @@ tags:
 related_concepts:
   - "[[Man-Computer Symbiosis]]"
   - "[[Sage]]"
-  - "[[Hypothesis]]"
   - "[[Paradigm]]"
   - "[[Problem Solving]]"
   - "[[Creativity]]"
@@ -47,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # J. C. R. Licklider
@@ -104,7 +103,7 @@ updated: 2026-10-07
 ## 核心思想
 
 > [!claim] 核心主张
-> 计算技术的本质使命不是排他性地替代人类心智，而是通过实时交互与优势互补形成[[Man-Computer Symbiosis|人机共生]]体（Man-Computer Symbiosis），使机器承担机械运算与数据检索，使人类专注于[[Hypothesis|假设]]建构、价值权衡与启发式洞察。这种颠覆性计算[[Paradigm|范式]]的诞生，根本上得益于国家安全战略机构与顶尖科学家之间高度互信的资助与协同体制。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, p. 7)]]
+> 计算技术的本质使命不是排他性地替代人类心智，而是通过实时交互与优势互补形成[[Man-Computer Symbiosis|人机共生]]体（Man-Computer Symbiosis），使机器承担机械运算与数据检索，使人类专注于假设建构、价值权衡与启发式洞察。这种颠覆性计算[[Paradigm|范式]]的诞生，根本上得益于国家安全战略机构与顶尖科学家之间高度互信的资助与协同体制。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, p. 7)]]
 
 > [!citation-card] 人脑与计算机器的紧密共生
 > 人机共生是人类伙伴与电子计算机之间合作互动的一个预期发展阶段。它将涉及人类大脑与计算机器之间非常紧密的耦合。这一伙伴关系的主要目标包括：使人类能够做出决策并控制复杂情境，而无需受制于僵化的预先编制程序；使人类与计算机能够合作开展具有高度洞察力的[[Problem Solving|问题解决]]与[[Creativity|创造性]]探索。

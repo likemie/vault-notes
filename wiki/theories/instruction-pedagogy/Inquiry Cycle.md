@@ -9,10 +9,10 @@ aliases:
 summary: "科学教育与探究式学习的元阶段理论模型，由 Margus Pedaste 领衔通过系统综述整合数十种探究框架确立，由定向、概念化（质疑与假设生成）、调查（规划、探索、实验与数据解释）、结论与贯穿始终的反思讨论五大核心阶段构成"
 type: theory
 theory_field: "instruction-pedagogy"
-theory_related_count: 33
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_count: 31
+theory_related_level: 3
+theory_related_stars: "⭐⭐⭐"
+theory_related_color: "#ede9fe"
 domain: "instruction-pedagogy"
 theory_domain: "instruction-pedagogy"
 theory_count: 24
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Inquiry-Based Learning]]"
   - "[[Problem Solving]]"
   - "[[Research Question]]"
-  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Metacognition]]"
   - "[[Reflexivity]]"
@@ -46,7 +45,6 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Reflective Thinking]]"
   - "[[Paradigm]]"
-  - "[[Document]]"
   - "[[Intelligent Tutoring Systems]]"
 related_theories:
   - "[[CER Framework]]"
@@ -82,7 +80,7 @@ updated: 2026-10-15
 > [!def] 核心定义
 > 探究循环模型由爱沙尼亚塔尔图大学马尔古斯·佩达斯特（Margus Pedaste）教授联合欧洲多国学习科学家，在对 32 篇代表性科学探究[[Framework for Teaching|教学框架]]开展全面[[Systematic Review\|系统综述]]与语义综合的基础上提炼而成（Pedaste et al., 2015）。该框架指出，真实的科学探究并非混乱随机的盲目摸索，而是围绕[[Problem Solving\|问题解决]]展开的结构化认知循环，包含五大主阶段与次级子阶段：
 > 1. **定向（Orientation）** 激发好奇心并引入核心问题；
-> 2. **概念化（Conceptualization）** 提出[[Research Question\|研究问题]]（Questioning）与生成科学[[Hypothesis\|假设]]（Hypothesizing）；
+> 2. **概念化（Conceptualization）** 提出[[Research Question\|研究问题]]（Questioning）与生成科学假设（Hypothesizing）；
 > 3. **调查（Investigation）** 制定探究计划（Planning）、操纵与探索[[Variable\|变量]]（Exploration / Experimentation）以及数据解释与证据提炼（Data Interpretation）；
 > 4. **得出结论（Conclusion）** 比对假设与证据，生成概念原理解释；
 > 5. **讨论与反思（Discussion）** 贯穿全程的[[Metacognition\|元认知监控]]（[[Reflexivity]]）与班级同伴沟通协商（Communication）（[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 3]]）。
@@ -105,7 +103,7 @@ updated: 2026-10-15
 > | 主阶段 | 次级子阶段 | 认知任务与操作目标 | 典型支架支持形式 |
 > |---|---|---|---|
 > | **1. 定向（Orientation）** | 引入背景、激发兴趣 | 观察真实反直觉现象，激活先验常识，感知问题情境 | 引导性视频、反直觉实体演示、挑战性任务描述 |
-> | **2. 概念化（Conceptualization）** | 提出问题（Questioning）<br>生成假设（Hypothesizing） | 将模糊的好奇转化为可检验的[[Research Question\|研究问题]]；明确焦点[[Independent Variable\|自变量]]与[[Dependent Variable\|因变量]]，陈述因果预测 | [[Hypothesis\|假设]]生成器（Hypothesis Scratchpad）、[[Variable\|变量]]候选列表模板 |
+> | **2. 概念化（Conceptualization）** | 提出问题（Questioning）<br>生成假设（Hypothesizing） | 将模糊的好奇转化为可检验的[[Research Question\|研究问题]]；明确焦点[[Independent Variable\|自变量]]与[[Dependent Variable\|因变量]]，陈述因果预测 | 假设生成器（Hypothesis Scratchpad）、[[Variable\|变量]]候选列表模板 |
 > | **3. 调查（Investigation）** | 探究规划（Planning）<br>实验探索（Experimenting）<br>数据解释（Interpretation） | 设计正交对比实验；在虚拟微世界中操纵变量并记录数据；绘制图表并识别相关与[[Causality\|因果关系]] | [[Control of Variables Strategy\|变量控制策略]]提示、预置数据表格模板、眼动引导视线整合 |
 > | **4. 得出结论（Conclusion）** | 结论形成与模型修正 | 协调经验证据与理论假设，形成正式的[[Scientific Explanation\|科学解释]]与因果定律 | 论证模板（[[CER Framework\|Claim-Evidence-Reasoning]], CER）、NLP 自动反馈 |
 > | **5. 讨论（Discussion）** | 反思监控（Reflection）<br>沟通协商（Communication） | 全程审视探究策略的有效性；向班级共同体汇报并接受同行质询 | 同伴互评量规、教师[[Socrates\|苏格拉底]]式提问、学习日志记录 |
@@ -146,7 +144,7 @@ updated: 2026-10-15
 > 阐明阶段划分如何将复杂的宏观科学推理拆解为可承受的微观认知步骤。
 
 > [!claim] Pedaste, M. et al.
-> **探究阶段的循序推进有效分担认知负荷** [[Inquiry-Based Learning\|探究学习]]面临的最大挑战在于任务的高复杂度容易导致初学者认知超载。探究循环通过将研究划分为明确的连续阶段，使学生在任一时刻仅需聚焦于特定认知子技能（如专门规划[[Variable\|变量]]、专门解释图表），避免了在未明确[[Hypothesis\|假设]]前就胡乱操作仪器的无效行为，为高效指导提供了结构化基底。（Pedaste et al., 2015；引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 3]]）
+> **探究阶段的循序推进有效分担认知负荷** [[Inquiry-Based Learning\|探究学习]]面临的最大挑战在于任务的高复杂度容易导致初学者认知超载。探究循环通过将研究划分为明确的连续阶段，使学生在任一时刻仅需聚焦于特定认知子技能（如专门规划[[Variable\|变量]]、专门解释图表），避免了在未明确假设前就胡乱操作仪器的无效行为，为高效指导提供了结构化基底。（Pedaste et al., 2015；引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 3]]）
 
 ---
 
@@ -184,10 +182,10 @@ updated: 2026-10-15
 ## 理论演变与应用
 
 > [!dev-timeline] 理论演变
-> - **1910 年代 — [[John Dewey\|杜威]]五步思维法雏形** 约翰·杜威在《我们怎样思维》（How We Think）中提出[[Reflective Thinking\|反思性思维]]五步法（情境困惑、界定问题、提出[[Hypothesis\|假设]]、推理发展、检验假设），奠定探究阶段论思想源头。
+> - **1910 年代 — [[John Dewey\|杜威]]五步思维法雏形** 约翰·杜威在《我们怎样思维》（How We Think）中提出[[Reflective Thinking\|反思性思维]]五步法（情境困惑、界定问题、提出假设、推理发展、检验假设），奠定探究阶段论思想源头。
 > - **1970–1980 年代 — 早期学习环（Learning Cycle）建立** 卡普拉斯（Karplus）与阿特金（Atkin）提出 SCIS 三阶段科学学习环（探索 ➔ 概念引入 ➔ 概念应用），成为理科探究教学的原型。
 > - **1980–1990 年代 — BSCS 5E 教学模型风靡** 拜比（Bybee）领衔提出 5E 模型（参与 Engagement、探索 Exploration、解释 Explanation、精致 Elaboration、评价 Evaluation），成为全美课程标准的主导[[Paradigm\|范式]]。
-> - **2015 — Pedaste 等[[Systematic Review\|系统综述]]确立现代探究循环模型** 佩达斯特团队通过严格元[[Document\|文献]]综合，整合 32 种框架的术语混乱，正式确立五主阶段、次级阶段与双向回流机制的标准探究循环模型（Pedaste et al., 2015）。
+> - **2015 — Pedaste 等[[Systematic Review\|系统综述]]确立现代探究循环模型** 佩达斯特团队通过严格元文献综合，整合 32 种框架的术语混乱，正式确立五主阶段、次级阶段与双向回流机制的标准探究循环模型（Pedaste et al., 2015）。
 > - **2023 — De Jong 等里程碑综述将其作为指导探究的循证支柱** [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] 在《教育研究评论》将探究循环作为破除“探究等于放任盲目试错”的关键论据，确立其作为连接学生主动建构与教师指导的通用基底。
 
 ---

@@ -9,7 +9,7 @@ aliases:
 summary: "UIDP（2012）提出的产学合作五领域三层级分类框架，将合作形式按学生参与、研究者互动、资源获取、专业中心与学院、经济发展五个领域和交易-协作-联盟三个层级排列为连续体，用于诊断合作盲区和识别策略机会"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 16
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Industry Advisory Board]]"
   - "[[Innovation Park]]"
-  - "[[Hypothesis]]"
   - "[[Technology Transfer Office]]"
   - "[[Academic Health System]]"
   - "[[Academic Medical Center]]"
@@ -42,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-27
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Partnership Continuum
@@ -99,7 +98,7 @@ updated: 2026-09-22
 ## 核心原则
 
 > [!abstract]
-> 报告正文和五个领域的详细表格（Tables 1–5）共同揭示了 Partnership Continuum 的三个底层[[Hypothesis\|假设]]([[Argument_UIDP_2012_PartnershipContinuum\|Southerton et al., 2012]])：
+> 报告正文和五个领域的详细表格（Tables 1–5）共同揭示了 Partnership Continuum 的三个底层假设([[Argument_UIDP_2012_PartnershipContinuum\|Southerton et al., 2012]])：
 
 - **非规定性（non-prescriptive）** 框架描述"有什么"而不规定"应该怎么做"。它是一张地图而非操作手册——地图帮助你看到全部可选路径，但走哪条路由你根据自己的目标和条件决定
 - **部门整合（cross-functional awareness）** 框架的核心使用场景是打破大学和企业内部的部门壁垒——就业中心、[[Technology Transfer Office|技术转移办公室]]、学院院长和政府关系部门需要共享合作全景信息，以避免各自为政导致的盲区（pp.4–5）

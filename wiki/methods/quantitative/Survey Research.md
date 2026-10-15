@@ -9,7 +9,7 @@ summary: "通过研究样本以提供总体趋势、态度或意见的量化或�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 76
+method_related_count: 73
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -19,7 +19,6 @@ tags:
   - data-collection
 related_concepts:
   - "[[Causality]]"
-  - "[[Hypothesis]]"
   - "[[Unit of Analysis]]"
   - "[[Study Population and Sample]]"
   - "[[Variable]]"
@@ -30,7 +29,6 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Evaluation Research]]"
   - "[[Definition of Terms]]"
-  - "[[Document]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
   - "[[Response Bias]]"
@@ -70,7 +68,6 @@ related_methods:
   - "[[Statistical Significance]]"
   - "[[Confidence Interval]]"
   - "[[Effect Size]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Trend Study]]"
   - "[[Cohort Study]]"
   - "[[Sensitive Questions]]"
@@ -102,7 +99,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Survey Research
@@ -114,7 +111,7 @@ updated: 2026-10-09
 
 > [!method-scope] 方法范围
 > - **研究对象** 个体、群体、机构的态度、意见、行为、经历、事实信息和偏好，包括过去和现在的状态。
-> - **问题类型** 描述、比较、分类、相关分析和解释；可分为探索性（exploratory，不预设模型，通过相关、回归、因子分析探索关系和模式）和验证性（confirmatory，检验模型、[[Causality\|因果关系]]或[[Hypothesis\|假设]]）。
+> - **问题类型** 描述、比较、分类、相关分析和解释；可分为探索性（exploratory，不预设模型，通过相关、回归、因子分析探索关系和模式）和验证性（confirmatory，检验模型、[[Causality\|因果关系]]或假设）。
 > - **[[Unit of Analysis\|分析单位]]** 个体、课堂、学校、地区、国家或特定群体。
 > - **输出形式** 频数、比例、均值、相关、回归系数、组间差异、趋势和泛化结论。
 
@@ -159,7 +156,7 @@ updated: 2026-10-09
 ### 变量
 
 > [!info]
-> 在方法部分直接陈述[[Variable\|变量]]名称、[[Definition of Terms\|操作性定义]]和测量工具。一种有效技术是创建变量—定义—工具项目对照表，尤其适用于变量较多的调查。若变量来自先前验证过的调查工具，应引用原始来源[[Document\|文献]]。
+> 在方法部分直接陈述[[Variable\|变量]]名称、[[Definition of Terms\|操作性定义]]和测量工具。一种有效技术是创建变量—定义—工具项目对照表，尤其适用于变量较多的调查。若变量来自先前验证过的调查工具，应引用原始来源文献。
 >
 > > [!example] 表8.2：变量、定义及其对应的调查题项（Variables, Definitions, and Their Corresponding Items on a Survey）
 > >
@@ -182,7 +179,7 @@ updated: 2026-10-09
 2. 检查[[Response Bias|回应偏差]]（response bias）——未回应者若回应是否会显著改变结果。方法包括波次分析（wave analysis，逐周比较回应变化；Leslie, 1972）或回应者／非回应者对比（电话联系少数非回应者比较差异）（Fowler, 2014; 引自 Creswell & Creswell, 2022, Ch8）。
 3. 对所有预测变量和结果变量进行[[Descriptive Analysis|描述性分析]]，报告均值、标准差和得分范围；识别缺失数据并制定处理策略（Schafer & Graham, 2002; 引自 Creswell & Creswell, 2022, Ch8）。
 4. 若包含多项目量表，评估是否需要反向计分以及如何计算量表总分；检查量表内部一致性（Cronbach's α）。
-5. 确定用于检验主要推断性研究问题或[[Hypothesis|假设]]的统计量和统计程序（如 R、SPSS），提供选择依据，说明统计假设。选择取决于研究问题性质（关联变量或比较组）、预测变量和结果变量的数量、协变量以及变量的测量类型（连续或分类）和分布特征（正态或非正态）（Rudestam & Newton, 2014; 引自 Creswell & Creswell, 2022, Ch8）。
+5. 确定用于检验主要推断性研究问题或假设的统计量和统计程序（如 R、SPSS），提供选择依据，说明统计假设。选择取决于研究问题性质（关联变量或比较组）、预测变量和结果变量的数量、协变量以及变量的测量类型（连续或分类）和分布特征（正态或非正态）（Rudestam & Newton, 2014; 引自 Creswell & Creswell, 2022, Ch8）。
 6. 以表格或图形呈现结果，并从统计检验中解释结果的含义。
 
 ### 预注册与研究结果解释
@@ -230,7 +227,7 @@ updated: 2026-10-09
 
 调查规划通常经历明确的阶段（pp.261–263）。Sapsford（1999, pp. 34–40）提出四项主要规划考虑：[[Problem Finding|问题界定]]（决定所需答案的类型和内容、待检验假设、待探索变量）；样本选择（确定目标总体、确保可及性和代表性、为比较目的抽取其他样本）；测量设计（确定测量内容和方式、所需变量、如何确保信度和效度）；参与者关怀（保护保密性和匿名性、避免伤害、避免过度侵入性问题、避免强制、[[Informed Consent|知情同意]]）。
 
-Rosier（1997, pp. 154–162）进一步细化了规划内容，涵盖：明确研究问题；建立调查的概念框架，精确说明将使用和探索的概念；[[Operationalization|操作化]]研究问题（转化为假设）；确定数据收集工具；确定抽样策略和子群体；预试测（pre-pilot）；试测（pilot）；数据收集的实操与实施（许可、资助、伦理考量、回应率）；数据准备（[[Coding in Qualitative Research|编码]]、录入、核查）；数据分析（统计程序、变量构建、因子分析、推断统计）；报告发现（回答研究问题）。
+Rosier（1997, pp. 154–162）进一步细化了规划内容，涵盖：明确研究问题；建立调查的概念框架，精确说明将使用和探索的概念；[[Operationalization|操作化]]研究问题（转化为假设）；确定数据收集工具；确定抽样策略和子群体；预试测（pre-pilot）；试测（pilot）；数据收集的实操与实施（许可、资助、伦理考量、回应率）；数据准备（编码、录入、核查）；数据分析（统计程序、变量构建、因子分析、推断统计）；报告发现（回答研究问题）。
 
 预试测与试测有重要区别（p.264）：预试测通常是一系列开放式问题，用于生成封闭式（通常为多选题）的类别；试测则用于检验实际调查工具本身。
 
@@ -302,7 +299,7 @@ Dillman（2007）建议按顺序跟进：（a）10 天后向无回应者发送�
 > [!tip]-
 > - **[[Cross-sectional Study\|横截面研究]]（Cross-Sectional Study）** 在单一时间点收集数据，提供总体的快照式描述。适合描述性和[[Correlational Research\|相关性研究]]问题，但难以建立[[Causality\|因果关系]]。
 > - **[[Longitudinal Study\|纵向研究]]（Longitudinal Study）** 在多个时间点收集数据，追踪态度、行为或趋势的变化。能够建立因果关系和进行推断，但面临[[Attrition\|样本流失]]（attrition）和控制效应（control effect）等问题。
-> - **[[Cohort Study\|队列研究]]（Cohort Study）** 追踪具有某种共同特征的具体群体随时间的变化。在英国[[Document\|文献]]中也称"追踪研究"（follow-up study），在美国称为"面板研究"（panel study）。
+> - **[[Cohort Study\|队列研究]]（Cohort Study）** 追踪具有某种共同特征的具体群体随时间的变化。在英国文献中也称"追踪研究"（follow-up study），在美国称为"面板研究"（panel study）。
 > - **[[Trend Study\|趋势研究]]（Trend Study）** 关注因素而非人群，在不同时间点抽取不同样本但聚焦相同因素，避免了[[Pre-test Sensitisation\|预试敏感化]]（pre-test sensitisation）问题。
 > - **[[Internet-based Survey\|互联网调查]]** 通过互联网进行数据收集，成本低、速度快，可触及广泛人群，但面临抽样偏差和低回应率等挑战。
 > - vs [[Experimental Research\|实验研究]] — 调查收集的是自然状态下的数据，不涉及处理操纵，因而不适用于直接的[[Causality\|因果推断]]。
@@ -313,7 +310,7 @@ Dillman（2007）建议按顺序跟进：（a）10 天后向无回应者发送�
 > - 需要了解某一总体的态度、意见、行为趋势或特征分布时。
 > - 适合描述性和[[Correlational Research\|相关性研究]]问题。
 > - 横截面设计适合在单一时间点进行快照式描述，纵向设计适合追踪变化趋势。
-> - 探索性调查适合在没有预设模型的情况下探索关系和模式；验证性调查适合检验模型、[[Causality\|因果关系]]或[[Hypothesis\|假设]]（p.259）。
+> - 探索性调查适合在没有预设模型的情况下探索关系和模式；验证性调查适合检验模型、[[Causality\|因果关系]]或假设（p.259）。
 > - 调查也适用于收集事实信息、态度与偏好、信念与预测、意见、行为与经验——包括过去和现在的（Weisberg et al., 1996; Aldridge & Levine, 2001）。
 
 ## 局限性

@@ -8,7 +8,7 @@ summary: "英国教育社会学家，开放大学荣休教授，微观课堂民�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 28
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Rich and Thick Description]]"
   - "[[Going Native]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Creativity]]"
   - "[[Unit of Analysis]]"
   - "[[Decodification]]"
@@ -44,7 +43,6 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Qualitative Research]]"
   - "[[Participant Observation]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments:
   - "[[Flanders Interaction Analysis Categories]]"
@@ -58,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-01
+updated: 2026-10-15
 ---
 
 # Peter Woods
@@ -78,7 +76,7 @@ updated: 2026-10-01
 
 > [!timeline] 生平与职涯
 > - **1934** 出生于英国，早年投身中等教育一线教学实践，积累了关于学校日常运转与师生互动生态的丰富感性经验。
-> - **1970s** 进入英国开放大学任教，长期担任教育学院社会学教授，致力于将芝加哥学派[[Symbolic Interactionism\|符号互动论]]与微观[[Ethnography\|民族志]]方法[[Going Native\|本土化]][[Transfer Translation Transformation\|转译]]于英国学校研究。
+> - **1970s** 进入英国开放大学任教，长期担任教育学院社会学教授，致力于将芝加哥学派[[Symbolic Interactionism\|符号互动论]]与微观[[Ethnography\|民族志]]方法[[Going Native\|本土化]]转译于英国学校研究。
 > - **1979** 出版代表作《分化的学校》（*The Divided School*），在英国教育社会学界确立了微观互动论的经验[[Paradigm\|研究范式]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 26)]]
 > - **1983–1986** 相继出版《学校社会学》（*Sociology and the School*）与《走进学校》（*Inside Schools*），系统化阐发课堂民族志与质性探究的方法论操作准则。
 > - **1996** 出版《研究教学的艺术》（*Researching the Art of Teaching*），将[[Qualitative Research\|质性研究]]深化至教师创意、情感与专业直觉，后获评开放大学荣休教授。
@@ -117,7 +115,7 @@ updated: 2026-10-01
 
 > [!influence-path] 影响路径
 > - **理论路径** 推动英国教育社会学从宏观[[Structural Functionalism|结构功能主义]]向微观[[Interpretivism|诠释主义]][[Paradigm\|范式]]转型，使[[Symbolic Interactionism\|符号互动论]]成为教育[[Qualitative Research\|质性研究]]的核心理论支柱。
-> - **方法路径** 确立[[Participant Observation\|参与观察]]、[[Rich and Thick Description\|深描]]与生活史叙事在教育研究中的合法性，打破[[Flanders Interaction Analysis Categories\|弗兰德斯互动分析系统]]（FIAC）等量化行为[[Coding in Qualitative Research\|编码]]系统的垄断。
+> - **方法路径** 确立[[Participant Observation\|参与观察]]、[[Rich and Thick Description\|深描]]与生活史叙事在教育研究中的合法性，打破[[Flanders Interaction Analysis Categories\|弗兰德斯互动分析系统]]（FIAC）等量化行为编码系统的垄断。
 > - **实践路径** 启迪教师理解学生“无聊”、“打趣”与“胡闹”背后的心理动机与生存诉求，为民主化[[Classroom Management\|课堂管理]]与师生沟通提供反思视角。
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引

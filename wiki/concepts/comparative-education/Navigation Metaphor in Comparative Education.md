@@ -9,10 +9,10 @@ aliases:
 summary: "英国比较教育学家约瑟夫·劳威斯于1958年提出的政策咨询经典隐喻。主张比较教育如同航海指南，其职能仅在于为掌舵的领航员或决策者提供不同备选航线与环境信息，而不试图直接替决策者操舵干预决策，构成了比较教育政策咨询立场光谱上的超然克制一极。"
 type: concept
 domain: "comparative-education"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - subject/comparative-education
   - theme/policy-advisory
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[State Educational Sovereignty]]"
   - "[[Governing by Numbers]]"
-  - "[[Document]]"
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
@@ -46,7 +45,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-09-28
-updated: 2026-09-29
+updated: 2026-10-15
 ---
 
 # Navigation Metaphor in Comparative Education
@@ -185,7 +184,7 @@ updated: 2026-09-29
 > | [[PISA]] | 事实 | 跨国量化标杆治理的具体载体，其巨大影响力深刻改变了比较教育的政策咨询生态。 |
 > | [[Comparative Education Society in Europe]] | 事实 | 劳威斯与米特活跃的欧洲比较教育学会平台，曾是航海隐喻讨论的中心阵地。 |
 > | [[Governing by Numbers]] | 概念 | 瓦解航海隐喻从容自主空间的当代全球数字治理形态。 |
-> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 本条目所有核心命题与学科演进判断的核心来源[[Document\|文献]]。 |
+> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 本条目所有核心命题与学科演进判断的核心来源文献。 |
 
 ---
 

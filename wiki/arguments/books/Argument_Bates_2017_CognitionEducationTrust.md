@@ -7,7 +7,7 @@ title: "Argument_Bates_2017_CognitionEducationTrust"
 argument_key: "Argument_Bates_2017_CognitionEducationTrust"
 argument_display_title: "Darwin's Finch: A Short History of Cognition"
 argument_kind: "book"
-argument_related_count: 8
+argument_related_count: 7
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#ede9fe"
@@ -23,7 +23,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Story Line]]"
-  - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_facts:
   - "[[Cognition Education]]"
@@ -102,7 +101,7 @@ citation_aliases:
 
 ### 尾声（Epilogue）
 
-尾声的功能非常明确：它把前面分散的公司史、市场波动、治理调整和新业务尝试，重新收束为一个单一神话，即组织拥有某种演化基因（evolutionary DNA），因而能够继续变形、适应并繁荣（morph, adapt and thrive）。(p.75-76)这也是整本书最强的修辞动作。它并不提供新的外部证据，而是把既有历史再[[Coding in Qualitative Research|编码]]成“持续存在的理由”。若要看未来业务方向与市场重组本身，仍应优先查 [[Cognition Education]].(p.76)
+尾声的功能非常明确：它把前面分散的公司史、市场波动、治理调整和新业务尝试，重新收束为一个单一神话，即组织拥有某种演化基因（evolutionary DNA），因而能够继续变形、适应并繁荣（morph, adapt and thrive）。(p.75-76)这也是整本书最强的修辞动作。它并不提供新的外部证据，而是把既有历史再编码成“持续存在的理由”。若要看未来业务方向与市场重组本身，仍应优先查 [[Cognition Education]].(p.76)
 
 ## 主要发现
 

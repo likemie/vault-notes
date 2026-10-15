@@ -9,7 +9,7 @@ aliases:
 summary: "荷兰等欧洲低地国家在宗教与意识形态阵营上形成的纵向社会分割体制，天主教、新教、世俗中立等柱体各自拥有独立的学校、政党与社会机构，依靠柱体高层精英妥协维持系统稳定，并在宪法教育自由与财政均等原则下塑造出高度规制且对外部封闭的教育治理生态。"
 type: concept
 domain: "comparative-education"
-related_count: 25
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Grandes Ecoles]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Bildung]]"
   - "[[Competitiveness]]"
   - "[[Unit of Analysis]]"
   - "[[Policy Network]]"
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Pillarization
@@ -226,7 +225,7 @@ updated: 2026-10-12
 > > - **行政效能批评论** 指出为了保障数千所独立小校的绝对财政对等，国家被迫建立极度繁密的审查网络，造成公共资源的严重浪费与系统适应迟滞。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 143–144)]]
 >
 > > [!axis] 教育省封闭自足保护 vs 现代[[Knowledge-Based Economy|知识经济]]与劳动力市场衔接
-> > 探讨教育体系应当作为追求崇高人文[[Bildung|教化]]的自治净土，还是应当敏捷响应国家产业与就业市场需求。
+> > 探讨教育体系应当作为追求崇高人文教化的自治净土，还是应当敏捷响应国家产业与就业市场需求。
 > >
 > > - **教育省自治立场** 强调教育旨在培养具备健全人格与民主公民意识的自由个体，必须构筑坚固防线抵御工商业界的功利主义侵蚀。
 > > - **现代产业适应立场** 批评长期的柱状互保使学校沦落为远离现实的象牙塔，专业设置陈旧、学生修业年限过长，严重拖累了国家经济[[Competitiveness|竞争力]]。[[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 150–151)]]

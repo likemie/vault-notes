@@ -8,7 +8,7 @@ aliases:
 summary: "演化经济学与路径依赖理论中用以解释复杂技术与制度系统如何演化锁定的核心模型；由 Taylor Boas 提出，将系统解构为底层的核心复合标准与上层的外围简单标准，揭示外围图层越繁荣（高厚度商），底层核心标准的转换成本与报酬递增效应越高，从而将整个系统推向不可逆路径锁定的因果机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,7 +19,6 @@ tags:
   - theme/institutional-change
 related_concepts:
   - "[[Institutional Layering]]"
-  - "[[Document]]"
   - "[[Paradigm]]"
 related_theories:
   - "[[Evolutionary Economics]]"
@@ -38,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Composite-Standard Model
@@ -74,7 +73,7 @@ updated: 2026-10-12
 > | **系统架构** | 底层复合核心标准 + 上层简单外围标准序列 | 既有核心制度框架 + 顶端附加的新规则与机构 | 单一技术或制度标准在时间轴上的扩散 |
 > | **外围对核心的作用** | 强化核心合法性与不可替代性，推高转换壁垒 | 逐步侵蚀旧规则垄断权威，改变规约行为方式 | 不强调核心与外围的分层结构 |
 > | **变迁性质** | **制度再生产与路径锁定**（保持原轨道） | **渐进制度转型**（偏离或重塑原轨道） | **均衡锁定与路径僵化**（次优技术固化） |
-> | **代表[[Document\|文献]]** | Boas (2007); [[Argument_VanDerHeijden_2011_Politics\|Van der Heijden (2011)]] | [[Kathleen Thelen\|Thelen (2004)]]; Mahoney & Thelen (2010) | David (1985); Arthur (1989) |
+> | **代表文献** | Boas (2007); [[Argument_VanDerHeijden_2011_Politics\|Van der Heijden (2011)]] | [[Kathleen Thelen\|Thelen (2004)]]; Mahoney & Thelen (2010) | David (1985); Arthur (1989) |
 
 ---
 
@@ -137,7 +136,7 @@ updated: 2026-10-12
 > [!dev-timeline] 复合标准模型概念演进
 > - **1985–1989 — 报酬递增与[[Path Dependence|技术锁定]]数学模型奠基** 保罗·戴维与布莱恩·阿瑟（David, 1985; Arthur, 1989）建立经典路径依赖[[Analytic Framework|分析框架]]。
 > - **2007 — 博阿斯正式建立复合标准模型** 泰勒·博阿斯发表经典论文，将互联网 TCP/IP 与应用层标准形式化为复合标准模型，提出厚度商概念。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 13)]]
-> - **2011 — [[Jeroen van der Heijden|范德海登]]学术史反思与边界界定** 范德海登（[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011]]）通过系统[[Document|文献]]考证，指出博阿斯将该模型与[[Institutional Layering|制度层叠]]相挂钩属于概念错置，确立其作为路径依赖与制度再生产典型[[Paradigm|范式]]的真实定位。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 13–14)]]
+> - **2011 — [[Jeroen van der Heijden|范德海登]]学术史反思与边界界定** 范德海登（[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011]]）通过系统文献考证，指出博阿斯将该模型与[[Institutional Layering|制度层叠]]相挂钩属于概念错置，确立其作为路径依赖与制度再生产典型[[Paradigm|范式]]的真实定位。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 13–14)]]
 
 ---
 

@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 70
+fact_related_count: 69
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -28,7 +28,6 @@ tags:
   - theme/science-policy
 related_concepts:
   - "[[Research Universities]]"
-  - "[[Attrition]]"
   - "[[Securitization of Technology]]"
   - "[[Technology Readiness Level]]"
   - "[[Innovation Ecosystem]]"
@@ -104,7 +103,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # CHIPS and Science Act
@@ -116,7 +115,7 @@ updated: 2026-10-12
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2022 年 8 月 9 日由美国国会两党表决通过并由总统乔·拜登正式签署生效（公法第 117-167 号）。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]; [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 2)]]
 > - **适用地区 / 对象** 全球半导体制造与设计领军企业（[[Taiwan Semiconductor Manufacturing Corporation|台积电]]、三星、美光、英特尔等）、美国[[Research Universities|研究型大学]]、各州区域创新联合体及关键盟友伙伴。
-> - **核心问题导向** 应对制造产能[[Attrition|流失]]、先进制程高度依赖东亚、价值链晶圆制造软肋、半导体高技能人才断层及地缘科技安全竞争。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 91–92)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 18)]]
+> - **核心问题导向** 应对制造产能流失、先进制程高度依赖东亚、价值链晶圆制造软肋、半导体高技能人才断层及地缘科技安全竞争。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 91–92)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 18)]]
 > - **制度位置** 标志着美国冷战后最大规模的联邦直接产业干预转向，与《[[Inflation Reduction Act|通胀削减法案]]》（[[International Reading Association|IRA]]）、《[[Infrastructure Investment and Jobs Act|基础设施投资与就业法案]]》（IIJA）及 2022 年 10 月出口管制新规共同构成了美国现代科技与国家安全治理的支柱体系。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 2–3)]]
 
 > [!factors] 立法动因与深层危机背景

@@ -9,7 +9,7 @@ subtype: program
 region: "singapore"
 fact_region: "singapore"
 fact_kind: "program"
-fact_related_count: 6
+fact_related_count: 5
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#ede9fe"
@@ -21,8 +21,7 @@ tags:
   - theme/national-identity
   - theme/nation-building
   - region/singapore
-related_concepts:
-  - "[[Attrition]]"
+related_concepts: []
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Imagined Community]]"
@@ -37,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Speak Mandarin Campaign
@@ -112,7 +111,7 @@ updated: 2026-10-09
 > [!finding-cards] 核心实证结论
 > - **方言社群壁垒全面消解** 成功终结了新加坡华裔内部按福建、潮州、广府等方言划分的地缘派系割裂。
 > - **双语[[Human Capital Theory|人力资本]]红利** 培育了一代兼具英语国际视野与华语文化根基的高素质劳动力，支撑新加坡跃升为全球高科技与金融枢纽。
-> - **文化修剪代价** 传统方言口头传统与戏曲文化遭受显著挤压，引发了关于文化多样性[[Attrition|流失]]的长期讨论。
+> - **文化修剪代价** 传统方言口头传统与戏曲文化遭受显著挤压，引发了关于文化多样性流失的长期讨论。
 
 > [!stat-cards]- 关键实证数据
 > 新加坡人均国内生产总值（GDP）从 1960 年的 428 美元飙升至 2023 年的 84,734 美元；华裔家庭日常主要使用方言的比例从 1979 年的 85% 降至 2020 年的不到 10%。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 194–196)]]

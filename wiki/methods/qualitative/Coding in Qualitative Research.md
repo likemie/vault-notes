@@ -8,7 +8,7 @@ summary: "质性数据分析中将文本、图像及多模态数据拆解分段�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 75
+method_related_count: 74
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -17,7 +17,6 @@ tags:
   - research-methodology
   - data-analysis
 related_concepts:
-  - "[[Document]]"
   - "[[Unit of Analysis]]"
   - "[[Paradigm]]"
   - "[[Epoché]]"
@@ -29,12 +28,12 @@ related_concepts:
   - "[[Visual Data]]"
   - "[[Meaningful Human Control]]"
   - "[[Champ]]"
+  - "[[Document]]"
   - "[[Emergence]]"
   - "[[Variable]]"
   - "[[Central Phenomenon]]"
   - "[[Working Memory]]"
   - "[[Discourse]]"
-  - "[[Hypothesis]]"
   - "[[Chain of Evidence]]"
   - "[[Construct]]"
   - "[[Homework]]"
@@ -114,7 +113,7 @@ updated: 2026-10-15
 > 质性编码（Coding）是将经验数据（访谈录音逐字稿、[[Qualitative Observation\|田野观察]]笔记、历史档案、政策公文、视听影像等多模态资料）系统拆解切片，并为表达相同意涵、指涉同一现象或体现特定属性的文本片段赋予概念化标签或范畴代码的分析规程（Kerlinger, 1970；Strauss & Corbin, 1990；Miles & Huberman, 1994；Gibbs, 2007；Flick, 2009；Rossman & Rallis, 2012；Creswell & Creswell, 2022）。编码不仅充当类似书籍索引系统的高效数据检索机制，支持海量材料的经济化[[Data Reduction\|数据缩减]]，更是构建概念数据网络、在经验事实与解释性理论之间架设桥梁的核心分析基石。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, pp. 559–560)]]
 
 > [!method-scope] 方法范围
-> - **研究对象** 访谈[[Transcription in Qualitative Research\|转录]]稿、[[Participant Observation\|参与观察]]记录、政策公文、历史档案、实物[[Document\|文献]]、日记、开放式[[Questionnaire\|问卷]]作答，以及照片、视频等多模态经验材料。
+> - **研究对象** 访谈[[Transcription in Qualitative Research\|转录]]稿、[[Participant Observation\|参与观察]]记录、政策公文、历史档案、实物文献、日记、开放式[[Questionnaire\|问卷]]作答，以及照片、视频等多模态经验材料。
 > - **核心功能** 实现数据经济化缩减与检索，提炼关键主题，识别经验模式与因果机制，建构概念关系网络并发展[[Grounded Theory\|扎根理论]]。
 > - **[[Unit of Analysis\|分析单位]]** 微观字词、短语、单句、语义意群、段落、完整事件，或多模态影像的构图元素。
 > - **典型输出** 编码清单、[[Qualitative Codebook\|质性编码手册]]、范畴包容层级树、[[Axial Coding\|主轴编码]]六要素[[Paradigm\|范式]]模型、核心[[Story Line\|故事线]]与交叉比较矩阵。
@@ -136,7 +135,7 @@ updated: 2026-10-15
 
 > [!method-stack] 方法层级
 > - **研究设计** [[Grounded Theory\|扎根理论]]、[[Phenomenology\|现象学]]研究、[[Ethnography\|民族志]]、[[Qualitative Content Analysis\|质性内容分析]]与[[Mixed Methods Research\|混合方法]]设计。
-> - **数据收集** [[Semi-structured Interview\|半结构化访谈]]、[[Participant Observation\|参与观察]]笔记、[[Document\|文献]]档案收集、[[Visual Data\|视觉影像]]采集。
+> - **数据收集** [[Semi-structured Interview\|半结构化访谈]]、[[Participant Observation\|参与观察]]笔记、文献档案收集、[[Visual Data\|视觉影像]]采集。
 > - **分析方法** 粗编码、[[Open Coding\|开放编码]]、分析编码、[[Axial Coding\|主轴编码]]、[[Selective Coding\|选择性编码]]、Tesch 八步法、[[Constant Comparison\|持续比较法]]、[[Domain Analysis\|领域分析]]。
 > - **辅助技术** 计算机辅助质性分析软件（[[Qualitative Computer Software\|CAQDAS]]，如 NVivo、MAXQDA、ATLAS.ti）、编码手册、反身性备忘录、大语言模型[[Meaningful Human Control|人在回路]]（HITL）协同赋码。
 
@@ -247,7 +246,7 @@ updated: 2026-10-15
 > > 5. **制造隐喻（making metaphors）** 使用比喻性与内涵性语言，使数据生动、浓缩数据、形成模式并与理论连接。
 > > 6. **拆分变量（splitting variables）** 细化、区分并拆解想法，摆脱模糊整合驱动。
 > > 7. **把个别纳入一般（subsuming particulars into the general）** 类似持续比较，朝向澄清关键概念。
-> > 8. **因子化（factoring）** 把大量经验变量归入较少且通常不可观测的[[Hypothesis\|假设]]变量。
+> > 8. **因子化（factoring）** 把大量经验变量归入较少且通常不可观测的假设变量。
 >
 > > [!step] 阶段三：因果联结与理论建构策略（解释阶段）
 > > 9. **识别变量间关系（identifying relations between variables）** 识别并记录范畴之间的相互关联。

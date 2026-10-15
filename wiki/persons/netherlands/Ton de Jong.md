@@ -8,10 +8,10 @@ summary: "荷兰特温特大学讲席教授、欧洲科学院院士、国际著�
 type: person
 nationality: "netherlands"
 person_region: "netherlands"
-person_related_count: 18
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 15
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1956"
 died: ""
 lifespan: "1956–至今"
@@ -29,11 +29,8 @@ related_concepts:
   - "[[Discovery Learning]]"
   - "[[Scaffolding]]"
   - "[[Problem Solving]]"
-  - "[[Teaching Assistant]]"
-  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Epistemic Agency]]"
-  - "[[Document]]"
   - "[[Dialogue in Education]]"
 related_theories:
   - "[[Cognitive Load Theory]]"
@@ -48,7 +45,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-02
+updated: 2026-10-15
 ---
 
 # Ton de Jong
@@ -73,7 +70,7 @@ updated: 2026-10-02
 
 > [!timeline] 生平与职涯
 > - **1980 年代** 在荷兰阿姆斯特丹大学获得教育学硕士学位，并在埃因霍温理工大学获得博士学位，聚焦[[Problem Solving\|问题解决]]与知识结构表征。
-> - **1990 年代** 投身计算机辅[[Teaching Assistant\|助教]]学与模拟环境设计，1998 年在《Review of Educational Research》发表关于[[Computer Simulation\|计算机模拟]]科学[[Discovery Learning\|发现学习]]的标杆性综述，奠定其国际学术声誉。
+> - **1990 年代** 投身计算机辅助教学与模拟环境设计，1998 年在《Review of Educational Research》发表关于[[Computer Simulation\|计算机模拟]]科学[[Discovery Learning\|发现学习]]的标杆性综述，奠定其国际学术声誉。
 > - **2000 年代初** 获聘特温特大学教学技术学讲席教授，历任行为科学学院院长、教学技术系主任，致力于数字技术赋能理科教学的理论建构。
 > - **2012–2020** 作为协调人与首席科学家，领衔欧盟第七框架（FP7）与“地平线 2020”（Horizon 2020）重大专项，创建欧洲跨国数字实验室平台 Go-Lab，覆盖欧洲数十国数万名师生。
 > - **2014 & 2021** 在[[Richard E. Mayer\|理查德·梅耶]]主编的《剑桥多媒体学习手册》（The Cambridge Handbook of Multimedia Learning）中两度系统阐发“引导式探究与引导式发现原则”。
@@ -84,7 +81,7 @@ updated: 2026-10-02
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1990 年代 — [[Computer Simulation\|计算机模拟]]探究与[[Discovery Learning\|发现学习]]机理奠基** 系统揭示学生在开放模拟中容易陷入的[[Hypothesis\|假设]]生成偏差与[[Variable\|变量]]控制混乱，确立单纯模拟不足以自发保证学习成效，必须提供[[Scaffolding\|认知支架]]。
+> - **1990 年代 — [[Computer Simulation\|计算机模拟]]探究与[[Discovery Learning\|发现学习]]机理奠基** 系统揭示学生在开放模拟中容易陷入的假设生成偏差与[[Variable\|变量]]控制混乱，确立单纯模拟不足以自发保证学习成效，必须提供[[Scaffolding\|认知支架]]。
 >   - **代表著作** *Scientific discovery learning with computer simulations of conceptual domains* (1998, 与 W. R. van Joolingen 合著).
 > - **2000–2010 年代 — 支架类型学与数字化微世界架构** 提炼出过程约束、状态提示、概念模板等规范支架谱系，主持建设系统化探究支持环境。
 >   - **代表著作** *Technological advances for supporting student inquiry in science* (2006); *[[Cognitive Load Theory]], educational research, and instructional design* (2010).
@@ -101,7 +98,7 @@ updated: 2026-10-02
 > [[Inquiry-Based Learning\|探究式教学]]与[[Direct Instruction\|直接教学]]绝非水火不容的二元对立。无指导的[[Discovery Learning\|纯发现学习]]固然违背认知负荷规律，但剥夺了学生试错与[[Epistemic Agency\|认识能动性]]的纯直接灌输同样无法达成抗遗忘的深层理解。教学设计的最优路径是将精心设计的[[Scaffolding\|认知支架]]与虚拟微世界深度整合，让学生在有结构约束的环境中体验探索与挫折，并在最适宜的时机精准嵌入直接讲授，实现两种取向的功能互补与时序协同。
 
 > [!citation-card] 论探究教学与直接教学的功能互补性
-> [[Document\|文献]]全面且正确地证明，对于获取概念性知识而言，指导式探究教学在总体成效上显著优于单一直接教学。最成功的教学实践往往是将探究置于中心，并在适当时机伴随教师精准的直接解释与模型整合。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 1)]]
+> 文献全面且正确地证明，对于获取概念性知识而言，指导式探究教学在总体成效上显著优于单一直接教学。最成功的教学实践往往是将探究置于中心，并在适当时机伴随教师精准的直接解释与模型整合。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 1)]]
 >
 > *A more complete and correct interpretation of the literature demonstrates that inquiry-based instruction produces better overall results for acquiring conceptual knowledge than does direct instruction... particularly when students' investigations are supplemented with direct instruction at appropriate junctures.*
 
@@ -127,4 +124,4 @@ updated: 2026-10-02
 > | [[Computer Simulation]] | 概念 | 德容奠定国际声誉的技术介质与数字化实验载体。 |
 > | [[Inquiry Cycle]] | 理论 | 德容指导式探究理论框架赖以立足的阶段模型。 |
 > | [[Discovery Learning]] | 概念 | 德容在多媒体学习中系统确立引导式发现原则。 |
-> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 论证 | 德容作为第一作者领衔发表的反击直接教学垄断的里程碑[[Document\|文献]]。 |
+> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 论证 | 德容作为第一作者领衔发表的反击直接教学垄断的里程碑文献。 |

@@ -5,7 +5,7 @@ aliases:
 summary: "一种试图管理、遏制或使政策争议不可见的治理过程，同时运作于公众感知控制和政策本身的构建两个层面，在教育研究中用于解释国家政策话语为何以及如何将矛盾声明组合进同一份政策文件"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -16,7 +16,6 @@ tags:
 related_concepts:
   - "[[Discourse]]"
   - "[[Performativity]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Space of Places]]"
   - "[[Shape-Shifting]]"
   - "[[Floating Signifier]]"
@@ -89,7 +88,7 @@ updated: 2026-10-15
 > 阐明在国家层面作为“政治资源”的舆论操控，如何在流向微观的学校和教师实践时，转化为不可回避的行动障碍与意义变形。
 
 > [!claim] 杰森·比奇
-> - **网络国家合法性与[[Discourse|话语]]结构命题** 为应对网络国家中多元主体和国际评估（如 [[PISA]]）的[[Performativity\|操演性]]压力，国家在[[Transfer Translation Transformation\|转译]]全球话语时，策略性地并置革新与保守声明（舆论操控），以维持其在全球和国家网络中的合法性。(pp. 357–358)
+> - **网络国家合法性与[[Discourse|话语]]结构命题** 为应对网络国家中多元主体和国际评估（如 [[PISA]]）的[[Performativity\|操演性]]压力，国家在转译全球话语时，策略性地并置革新与保守声明（舆论操控），以维持其在全球和国家网络中的合法性。(pp. 357–358)
 > - **政策矛盾向实践障碍的转化命题** 政策中的“模糊性”和“不一致”在国家层面的政治谈判中是灵活性资源；但当其进入[[Space of Places\|地方空间]]的具体学校实践时，由于教学行动要求“一致性”，这些矛盾转化为教师无法调和的实际行动障碍。(pp. 358–359)
 > - **实践层面的话语变异与保守化命题** 由于缺乏具体的教学法支持以及受制于地方特定物质环境（如极端贫困），教师在试图消除政策矛盾时，倾向于将新话语同化进已有的认知框架，或对其进行去激进化、保守化的再解释（如将“尊重多样性”转译为默许结构性不平等的“尊重贫困”）。(pp. 359–361)
 >
@@ -110,7 +109,7 @@ updated: 2026-10-15
 
 > [!dev-timeline] 概念演变
 > - **2004 年 — 起源阶段** Gewirtz, Dickson & Power 在分析英格兰新工党政府的“教育行动区”（Education Action Zones, EAZ）政策时，首次系统性地提出了“舆论操控治理”（Governance by Spin）这一概念，用以刻画新工党如何通过印象管理手段使政策争议不可见。
-> - **2009 年 — 比较教育框架中的拓展** [[Jason Beech]] 将该概念引入全球—国家—实践三层空间[[Analytic Framework\|分析框架]]。他论证舆论操控不仅是国家内部的治理技术，也是国家[[Transfer Translation Transformation\|转译]]全球教育[[Discourse|话语]]（如“能力发展”和“尊重多样性”）时采取的核心折衷策略，解释了国家政策话语如何一方面采纳超国家的[[Floating Signifier\|漂浮能指]]，另一方面顽固地保留地方的领土历史传统。
+> - **2009 年 — 比较教育框架中的拓展** [[Jason Beech]] 将该概念引入全球—国家—实践三层空间[[Analytic Framework\|分析框架]]。他论证舆论操控不仅是国家内部的治理技术，也是国家转译全球教育[[Discourse|话语]]（如“能力发展”和“尊重多样性”）时采取的核心折衷策略，解释了国家政策话语如何一方面采纳超国家的[[Floating Signifier\|漂浮能指]]，另一方面顽固地保留地方的领土历史传统。
 >
 > 概念演变脉络见：[[Argument_Beech_2009_CE\|Beech, 2009, pp. 357–358]]
 
@@ -121,7 +120,7 @@ updated: 2026-10-15
 > [!warning] [[Epistemology\|认识论]]矛盾与“认识论大杂烩”
 > 教师教育者指出，国家通过舆论操控制造出的“包容性政策文件”实际上强行挪用了在认识论上不可调和的[[Theoretical Perspective\|理论取向]]，形成了“认识论大杂烩（epistemological salad）”。这种[[Discourse|话语]]虽然成功地在中立化反对意见上发挥了政治功能，但使实践层面的接收者产生概念性混乱。[[Argument_Beech_2009_CE\|Beech, 2009, pp. 358–359]]
 
-> [!critique] 实践侧面的负面后果：以“尊重多样性”[[Transfer Translation Transformation\|转译]]为“尊重贫困”为例
+> [!critique] 实践侧面的负面后果：以“尊重多样性”转译为“尊重贫困”为例
 > 舆论操控在政策上的抽象表白可能会在微观实践中产生意想不到的退化效果。例如，在布宜诺斯艾利斯郊区，极端贫困的物质条件中介了教师对“尊重多样性”的理解。在此语境下，“尊重多样性”被转译为“尊重贫困”，导致中产阶级教师消极顺应学生的贫困现状，放弃在学术标准上挑战他们，从而在实践中默许并再生产了社会的结构性不平等。[[Argument_Beech_2009_CE\|Beech, 2009, pp. 360–361]]
 
 ---

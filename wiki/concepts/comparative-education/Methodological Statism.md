@@ -6,7 +6,7 @@ aliases:
 summary: "在教育研究与全球化社会学中，指代默认主权国家是教育的唯一提供者、出资者与监管者，并将“教育治理”等同于“国家行政管理”的方法论还原主义偏误。它是 Roger Dale 提出的阻碍全球化教育研究的“三大方法论陷阱”之一。"
 type: concept
 domain: "comparative-education"
-related_count: 18
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,7 +22,6 @@ tags:
   - subject/research-methodology
 related_concepts:
   - "[[Methodological Nationalism]]"
-  - "[[Hypothesis]]"
   - "[[Methodological Educationism]]"
   - "[[Space of Flows]]"
   - "[[Realism in International Relations]]"
@@ -61,7 +60,7 @@ updated: 2026-10-15
 
 > [!concept-lens] 概念透镜
 > - **政府与治理的混淆** 将“政府（Government/国家机器的等级控制）”与“治理（Governance/包含非国家主体的网络协商）”混为一谈，无形中遮蔽了超国家组织、私营企业和公民社会在塑造教育政策中的能动性。
-> - **三大方法论迷思（The Methodological ISMS）** 与 [[Methodological Nationalism\|方法论民族主义]]（Methodological Nationalism，[[Hypothesis\|假设]]民族国家是自然的研究地理边界）和 [[Methodological Educationism\|方法论教育主义]]（Methodological Educationism，假设教育天然等于学校教育）并称，是 Roger Dale (2005) 系统清算全球化教育研究偏误的核心框架。 (Dale, 2005)
+> - **三大方法论迷思（The Methodological ISMS）** 与 [[Methodological Nationalism\|方法论民族主义]]（Methodological Nationalism，假设民族国家是自然的研究地理边界）和 [[Methodological Educationism\|方法论教育主义]]（Methodological Educationism，假设教育天然等于学校教育）并称，是 Roger Dale (2005) 系统清算全球化教育研究偏误的核心框架。 (Dale, 2005)
 
 > [!boundary]- 概念边界
 > 不适用于 — 对国家教育行政体系内具体的科层体制、预算分配和官僚决策进行正当的行政学或政治学实证分析。
@@ -82,7 +81,7 @@ updated: 2026-10-15
 ## 核心要素
 
 > [!feature] 核心要素
-> - **国家中心主义[[Hypothesis\|假设]]（State-Centric Assumption）** 认为凡是属于教育政策的事物，其始作俑者和最终落实者必须是国家教育部等政权科层机构。
+> - **国家中心主义假设（State-Centric Assumption）** 认为凡是属于教育政策的事物，其始作俑者和最终落实者必须是国家教育部等政权科层机构。
 > - **权威单一性幻觉（Illusion of Unitary Authority）** 假设主权国家在领土范围内拥有绝对、单一的控制权，忽视了当今全球治理网络中权威实际上在向超国家机构（如[[World Bank\|世界银行]]、[[OECD]]）及次国家实体（如教育产业公司）扩散的现实。 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 423]])
 > - **跨国[[Policy Mobility\|政策流动]]的技术遮蔽（Technical Obfuscation of Transnational Flows）** 在分析本国教育改革时，仅从国内政治周期或领导人意图出发解释，从而在方法论上过滤掉跨国 **[[Travelling Policy\|旅途政策]]** 和多边基准评估对国内改革的无声[[Disciplina and Doctrina\|规训]]。
 
@@ -124,5 +123,5 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Klerides_2023_CE\|Klerides, 2023]] — 明确批判了方法论国家主义和[[Methodological Nationalism\|方法论民族主义]]阻碍了对跨国理性主义多边主义[[Governing at a Distance\|远处治理]]的理解。
-> - Methodological Nationalism (方法论民族主义) — 方法论国家主义的空间边界同盟，[[Hypothesis\|假设]]领土等于社会。
+> - Methodological Nationalism (方法论民族主义) — 方法论国家主义的空间边界同盟，假设领土等于社会。
 > - [[Methodological Educationism]] (方法论教育主义) — 方法论国家主义的体制化同盟，假设教育等于学校。

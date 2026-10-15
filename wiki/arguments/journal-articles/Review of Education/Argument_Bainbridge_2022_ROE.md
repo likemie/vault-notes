@@ -11,7 +11,7 @@ title: "Argument_Bainbridge_2022_ROE"
 argument_key: "Argument_Bainbridge_2022_ROE"
 argument_display_title: "Responding to research evidence in Parliament: A case study on selective education policy"
 argument_kind: "journal-article"
-argument_related_count: 21
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -26,12 +26,10 @@ tags:
 related_concepts:
   - "[[Moral Sidestep]]"
   - "[[Justified Warrants]]"
-  - "[[Hypothesis]]"
   - "[[Deficit Framing]]"
   - "[[Discourse]]"
   - "[[Comprehensive Education]]"
   - "[[Literature Review]]"
-  - "[[Document]]"
   - "[[Open-Mindedness]]"
   - "[[Research Scope]]"
   - "[[Internal and External Generalizability]]"
@@ -42,7 +40,6 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Descriptive Analysis]]"
   - "[[Carnivalesque Analysis]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Accounts]]"
 related_persons: []
 related_facts:
@@ -72,7 +69,7 @@ citation_aliases:
 
 - [[Moral Sidestep]] — Stevens(2019)在毒品政策研究中识别的概念：政策制定者以道德关切回避实证证据。Stevens 借鉴 Archer(2000)的 corporate agency 与 primary agency 区分——corporate agency 来自社会优势群体，由规范性价值和结构定义，主导政治景观；primary agency 则是利益分散的边缘群体。Stevens 发现，代表 dominant corporate agency 的决策者通过将毒品使用者"去人性化"来回避证据。Bainbridge et al. 将此框架引入教育政策分析，追问在选择性教育政策中是否也存在类似的去人性化——那些未通过 11-plus 考试的孩子、未被评级为"good"的学校是否被系统性地剥夺了能动性(p.3, 9–10)
 - [[Justified Warrants]] — Malone & Hogan(2020)基于 Dewey 的概念：研究应提供的是"有正当理由的断言"（warranted assertions）而非确定性。Gorard(2002)同样挑战研究界提供从研究发现到结论再到现实世界应用的说服性逻辑链接。Bainbridge et al. 将这一标准应用于评估议会辩论——议员的政策主张是否提供了从证据到结论的合理逻辑推进？(p.6–7)
-- [[Van Leeuwen's Legitimation Theory]] — Van Leeuwen(2007)四层次合法化框架：(1) 权威/传统——与过去或当前权威结构的链接；(2) 道德价值——与组织持有的道德价值对齐；(3) 理性/真理——与"真理"或理性论证的关系；(4) 奖励叙事——支持现有的奖励叙事。Bainbridge et al. 论证：证据更可能在接收方的结构、过程和道德[[Hypothesis|假设]]内被"合法化"时才被接受(p.9)
+- [[Van Leeuwen's Legitimation Theory]] — Van Leeuwen(2007)四层次合法化框架：(1) 权威/传统——与过去或当前权威结构的链接；(2) 道德价值——与组织持有的道德价值对齐；(3) 理性/真理——与"真理"或理性论证的关系；(4) 奖励叙事——支持现有的奖励叙事。Bainbridge et al. 论证：证据更可能在接收方的结构、过程和道德假设内被"合法化"时才被接受(p.9)
 - **三种证据到政策模型(p.7)** (1) **线性模型（Linear Model）**——证据与政策之间的直接连接；(2) **多流模型（Multiple Streams Model）**——政策决策受证据、经济因素和公众舆论共同影响；(3) **混战模型（Melee Model）**——科学、政治、经济和社会四类证据的流动交互导致政策决策。Bainbridge et al. 认为混战模型最接近教育情境，但教育的复杂性可能使任何模型都不充分
 - **Biesta 的三重[[Deficit Framing|缺陷框架]](p.7–8)** 知识缺陷（行动与后果的关系永远无法完全知晓）、效能缺陷（研究发现最多只能是尝试性的）、应用缺陷（拒绝从证据到政策到实践的简单线性观念，因为教育涉及特定个体在特定环境中的特定时刻）
 
@@ -84,7 +81,7 @@ citation_aliases:
 - 数据来源：Hansard 议会辩论数据库
 - 时间范围：2015–2019（SSEF 于 2018 年 5 月宣布，首批资金 2019 年 1 月到位）
 - 样本：11 场聚焦[[Grammar School|文法学校]]的辩论全文 + 同期 995 次议会对 "grammar" 的提及（覆盖下议院、上议院和委员会辩论）
-- 分析工具：NVivo 软件进行主题[[Coding in Qualitative Research|编码]]，识别 25 个最高频主题
+- 分析工具：NVivo 软件进行主题编码，识别 25 个最高频主题
 - 分析党派分布：保守党 vs 工党在各主题上的频率差异
 
 **方法 2：轶事分析(p.15–16)**
@@ -109,8 +106,8 @@ citation_aliases:
 
 ## 论证结构
 
-1. **[[Literature Review|文献综述]]三阶段** 审查政府与学术界对"证据"的不同理解 → 综述证据在政策制定中使用的[[Document|文献]] → 提供选择性教育研究证据与政党宣言概述(p.4–12)
-2. **[[Descriptive Analysis|描述统计]]分析（Findings 1）** 以 NVivo [[Coding in Qualitative Research|编码]]议会辩论，识别主题频率和党派分布，发现"好学校"[[Discourse|话语]]的主导地位——164 次提及，保守党 125 vs 工党 30(p.14–15)
+1. **[[Literature Review|文献综述]]三阶段** 审查政府与学术界对"证据"的不同理解 → 综述证据在政策制定中使用的文献 → 提供选择性教育研究证据与政党宣言概述(p.4–12)
+2. **[[Descriptive Analysis|描述统计]]分析（Findings 1）** 以 NVivo 编码议会辩论，识别主题频率和党派分布，发现"好学校"[[Discourse|话语]]的主导地位——164 次提及，保守党 125 vs 工党 30(p.14–15)
 3. **轶事分析（Findings 2）** 识别议会辩论中轶事证据的使用模式——保守党使用[[Grammar School|文法学校]]轶事的频率是工党两倍以上（18 vs 8）；31/67 次轶事直接关涉文法学校(p.16–17)
 4. **[[Carnivalesque Analysis|嘉年华式分析]]（Findings 3）** 以玩味态度外推政策逻辑——若所有 [[Ofsted]] 评级 good/outstanding 学校均获同等扩展资金，总预算将超 £84 亿(p.17–19)
 5. **单场辩论深度分析（Findings 4）** 对 2016 年"教育与社会流动性"辩论进行详细论证分析，追踪证据被接受、回避或道德侧步的具体机制(p.19–25)

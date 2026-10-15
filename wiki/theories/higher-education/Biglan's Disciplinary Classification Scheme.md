@@ -9,7 +9,7 @@ aliases:
 summary: "Anthony Biglan 提出的经典三维学科分类理论，依据范式共识程度（硬学科 vs 软学科）、应用实践取向（纯科学 vs 应用科学）及研究对象生命属性（生命 vs 非生命）划分学术门类，是研究高等教育学科文化与认识论信念的基础框架。"
 type: theory
 theory_field: "higher-education"
-theory_related_count: 18
+theory_related_count: 17
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -19,7 +19,6 @@ tags:
   - taxonomy
 related_concepts:
   - "[[Paradigm]]"
-  - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Epistemological Beliefs]]"
   - "[[Champ]]"
@@ -45,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Biglan's Disciplinary Classification Scheme
@@ -56,7 +55,7 @@ updated: 2026-10-07
 
 > [!theory-position] 理论定位
 > - **解释对象** 高等教育学术学科在知识结构、[[Paradigm\|范式]]共识、学术文化、教学组织与认知图式上的系统性差异。
-> - **理论问题** 打破将所有大学学科视为均质整体的传统[[Hypothesis\|假设]]，构建能够解释不同学科教学、学习与[[Epistemology\|认识论]]特征的结构性分类坐标。
+> - **理论问题** 打破将所有大学学科视为均质整体的传统假设，构建能够解释不同学科教学、学习与[[Epistemology\|认识论]]特征的结构性分类坐标。
 > - **理论类型** 中层分类理论与结构[[Analytic Framework\|分析框架]]。
 > - **知识位置** 高等教育社会学、组织心理学与个人认识论研究（Anthony Biglan, 1973）。
 

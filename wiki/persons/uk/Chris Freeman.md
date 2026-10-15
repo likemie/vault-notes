@@ -9,7 +9,7 @@ summary: "英国著名演化经济学家、创新经济学开拓者，萨塞克�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 35
+person_related_count: 34
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -36,7 +36,6 @@ related_concepts:
   - "[[Creativity]]"
   - "[[National Competitive Advantage]]"
   - "[[Unit of Analysis]]"
-  - "[[Hypothesis]]"
 related_theories:
   - "[[Evolutionary Economics]]"
   - "[[Systems of Innovation]]"
@@ -66,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-15
 ---
 
 # Chris Freeman
@@ -184,7 +183,7 @@ updated: 2026-10-05
 > > [!axis] 研发指标的政策有效性：单一投入规模 vs. 制度整合效率
 > > 围绕科技政策是否应以追求高额研发经费占 GNP 比例为核心目标展开争论。
 > >
-> > - **技术官僚线性假说** [[Hypothesis|假设]]研发投入强度与经济创新产出存在直接正相关。
+> > - **技术官僚线性假说** 假设研发投入强度与经济创新产出存在直接正相关。
 > > - **[[Argument_Freeman_1995_CJE|Freeman (1995, pp. 8–12)]]** 以前苏联高达 3.6% 的高研发强度却遭遇民用经济崩溃为例，证明若缺乏研发与制造、车间工人和市场的制度化整合，单纯资金投入将产生严重的资源浪费。
 
 > [!warning] 适用局限与边界

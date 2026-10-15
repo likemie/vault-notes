@@ -7,7 +7,7 @@ aliases:
 summary: "常驻于教育行政部门或学校实践机构内部，依托科研训练背景在真实工作情境中开展证据转化、需求匹配与跨界中介的专业人员，旨在弥合研究与实践断层并重塑组织循证文化"
 type: concept
 domain: "educational-policy-reform"
-related_count: 27
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,10 +22,9 @@ related_concepts:
   - "[[Research Literacy]]"
   - "[[Intellectual Capital]]"
   - "[[Boundary Spanner]]"
-  - "[[Document]]"
   - "[[Internal Validity]]"
   - "[[Ecological Validity]]"
-  - "[[Transfer Translation Transformation]]"
+  - "[[Habitus]]"
   - "[[Knowledge Mediation]]"
   - "[[School Inspection]]"
   - "[[Reflexivity]]"
@@ -54,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-13
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Embedded Researcher
@@ -98,9 +97,9 @@ updated: 2026-10-09
 ## 核心要素与系统角色谱系
 
 > [!feature] 核心要素
-> - **科研素养与方法学能力** 拥有扎实的实证研究设计、[[Document\|文献]]系统综合与数据解析能力，能快速甄别外部证据的[[Internal Validity\|内部效度]]与[[Ecological Validity\|生态效度]]（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, pp. 77, 88–89]]）。
-> - **内部科层情境嵌入度** 深刻理解组织的运作惯习、政治现实、资源约束与隐性规范，避免提出脱离实际的空洞学术建议（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, pp. 80–81]]）。
-> - **知识双向匹配中介力** 既能将复杂的学术研究证据[[Transfer Translation Transformation\|转译]]为决策者或教师可读可用的决策简报或教学工具，也能将一线真实的痛点提炼为可研究的规范学术议题反向委托外部机构（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, pp. 80, 87]]）。
+> - **科研素养与方法学能力** 拥有扎实的实证研究设计、文献系统综合与数据解析能力，能快速甄别外部证据的[[Internal Validity\|内部效度]]与[[Ecological Validity\|生态效度]]（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, pp. 77, 88–89]]）。
+> - **内部科层情境嵌入度** 深刻理解组织的运作[[Habitus|惯习]]、政治现实、资源约束与隐性规范，避免提出脱离实际的空洞学术建议（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, pp. 80–81]]）。
+> - **知识双向匹配中介力** 既能将复杂的学术研究证据转译为决策者或教师可读可用的决策简报或教学工具，也能将一线真实的痛点提炼为可研究的规范学术议题反向委托外部机构（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, pp. 80, 87]]）。
 
 > [!taxonomy] [[Knowledge Mediation\|知识中介]]个体角色谱系（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, pp. 80–81]], 88）
 > - **嵌入式研究者（Embedded Researcher）** 正式任职于教育部委、专项政策分析室或学区的专职科研人员，如挪威教育部政策分析处、斯洛文尼亚教育发展与质量部质量分析处专员。
@@ -154,7 +153,7 @@ updated: 2026-10-09
 ### 命题三 嵌入式研究者的有效性取决于组织内嵌信任与转译中介技能而非官方学术头衔
 
 > [!concept-lens] 职能效力与形式学术权威的制度解耦
-> 辨析个体在组织中发挥循证促成作用的真实驱动力，揭示人际信任资本与情境[[Transfer Translation Transformation\|转译]]技能在证据流动中的决定性地位。
+> 辨析个体在组织中发挥循证促成作用的真实驱动力，揭示人际信任资本与情境转译技能在证据流动中的决定性地位。
 
 > [!claim] 技能信任驱动而非头衔[[Determinism\|决定论]]
 > 在公共治理与学校实践情境中促进教育研究应用的人员，其核心价值在于掌握扎实的研究理解力、敏锐的政治/教学情境感悟以及跨界沟通信任，而不取决于其是否拥有正式的大学教研职称或学术头衔（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, p. 77]]）。
@@ -193,7 +192,7 @@ updated: 2026-10-09
 > | 个体角色维度 | 政策制定端设立比例（Policy Making） | 学校实践端设立比例（School Practice） | 城乡／系统典型案例机制 |
 > |---|:---:|:---:|---|
 > | **嵌入式研究者（Embedded Researcher）** | 73% | 32% | 挪威教育部政策分析处（约 50% 员工具研究背景）；斯洛文尼亚教育部质量分析处；拉脱维亚教育部（7.4% 具博士学位） |
-> | **研究顾问（Research Advisor）** | 57% | 43% | 为各部委长官提供即时数据测度与[[Document\|文献]]综合建议的行政专员 |
+> | **研究顾问（Research Advisor）** | 57% | 43% | 为各部委长官提供即时数据测度与文献综合建议的行政专员 |
 > | **研究倡导者（Research Champion）** | 35% | 22% | [[Research Schools Network\|英国研究学校网络]]（Research Schools Network）内各校证据带头人 |
 > | **研究进修员（Research Fellow）** | 32% | 22% | [[Doctoral Grant for Teachers\|荷兰教师博士资助计划]]（Doctoral Grant for Teachers，资助 5 年最高 0.4 全职替代教师开销） |
 

@@ -6,7 +6,7 @@ aliases:
 summary: "官僚制作为信息处理金字塔，主权者面临的核心挑战是知识问题与委托困境，Cowen 将其应用于解释 EBE 的制度韧性"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 21
+theory_related_count: 19
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -28,10 +28,8 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Progressive Education]]"
   - "[[Epistemology]]"
-  - "[[Hypothesis]]"
   - "[[Paradigm]]"
   - "[[Methodological Individualism]]"
-  - "[[Document]]"
   - "[[Policy Borrowing]]"
 related_theories:
   - "[[Bounded Rationality]]"
@@ -49,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 ## 核心主张
@@ -98,7 +96,7 @@ updated: 2026-10-12
 
 [[Argument_Cowen_2019_ERE|Cowen (2019)]] 将 Tullock 模型应用于[[Evidence-Based Education|证据本位教育]]（EBE），论证 EBE 的吸引力不在于[[Epistemology|认识论]]优越性，而在于**官僚便利性（bureaucratic convenience）**
 
-- [[Randomised Controlled Trials|RCT]] 和[[Systematic Review|系统综述]]要求事先确定标准（[[Hypothesis|假设]]、结果指标、检索协议），对主权者**透明**
+- [[Randomised Controlled Trials|RCT]] 和[[Systematic Review|系统综述]]要求事先确定标准（假设、结果指标、检索协议），对主权者**透明**
 - 主权者无需评估专家资质、理解研究细节或判断特定干预 —— 只需要求"什么有效"（what works）
 - EBE 同时应对了两个主权急需：(a) 指导一线专业人员；(b) 评估学术研究者的证据
 
@@ -112,7 +110,7 @@ updated: 2026-10-12
 
 > [!note-] 发展脉络
 > - **1965/2005** — Tullock 在 *The Politics of [[Bureaucracy]]* 中提出官僚制的[[Knowledge Questions\|知识问题]]模型
-> - **1968/1994** — Niskanen 提出官僚预算最大化模型（与 Tullock 不同，Niskanen [[Hypothesis\|假设]]官僚自利）；Dunleavy (1991) 提出官僚 career-driven 模型
+> - **1968/1994** — Niskanen 提出官僚预算最大化模型（与 Tullock 不同，Niskanen 假设官僚自利）；Dunleavy (1991) 提出官僚 career-driven 模型
 > - **2019** — Cowen 将 Tullock 模型扩展至 [[Evidence-Based Education\|EBE]]，从公共选择角度解释[[Experimental Research\|实验研究]][[Paradigm\|范式]]为何占据主导
 
 ## 与其他理论的对比
@@ -131,7 +129,7 @@ updated: 2026-10-12
 ## 争议与批评
 
 > [!warning] 主权者隐喻的局限：真实政治系统中的分散决策
-> **争议背景** Tullock 的"sovereign"（主权者）是古典绝对统治者的简化模型——[[Hypothesis\|假设]]存在一个统一的决策中心，面临"如何控制下属"的问题。但在真实政治系统中，决策权分散于多个机构和层级，且受到法律、选举、利益集团和媒体的多重制约。
+> **争议背景** Tullock 的"sovereign"（主权者）是古典绝对统治者的简化模型——假设存在一个统一的决策中心，面临"如何控制下属"的问题。但在真实政治系统中，决策权分散于多个机构和层级，且受到法律、选举、利益集团和媒体的多重制约。
 >
 > **各方立场**
 > - **批评立场** 公共行政学者（如 Dunleavy, 1991）指出，现代民主国家的教育决策并非由单一"主权者"作出——课程改革涉及教育部、考试机构、学校管理层、教师工会等多重主体，它们之间是谈判而非命令关系。
@@ -147,7 +145,7 @@ updated: 2026-10-12
 > - **批评立场**Dunleavy (1991) 的官僚 career-driven 模型提供了反例——官僚的信息过滤行为不仅出于认知限制，更出于职业晋升考量（选择性地向上级呈现有利数据）。单纯的知识问题模型无法解释这种策略性信息操纵。
 > - **[[Argument_Cowen_2019_ERE\|Cowen (2019)]] 的认可** Cowen 并未声称 Tullock 模型是完整的——他将其定位为对 Niskanen 自利模型的补充而非替代。知识问题和激励问题在经验上交织，但分析上区分有助于理解 [[Evidence-Based Education\|EBE]] 的吸引力：即使决策者真诚追求教育改善，他们仍会选择 [[Randomised Controlled Trials\|RCT]]/[[Systematic Review\|系统综述]]作为透明的过滤机制。（基于 Cowen, 2019, pp. 5–8）
 >
-> **目前状态** 此张力在公共选择[[Document\|文献]]中尚未解决。Cowen 的贡献在于论证了纯粹知识问题视角对理解 EBE 制度韧性的独特解释力。
+> **目前状态** 此张力在公共选择文献中尚未解决。Cowen 的贡献在于论证了纯粹知识问题视角对理解 EBE 制度韧性的独特解释力。
 
 
 > [!warning] 系统性解释的局限：为什么是现在？

@@ -11,9 +11,9 @@ subtype: organization
 region: "us"
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 8
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: ""
 fact_related_color: "#dcfce7"
 org_type: "research-institute"
 headquarters: "Princeton, New Jersey, United States"
@@ -34,7 +34,6 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[J. Robert Oppenheimer]]"
-  - "[[Alfred Nobel]]"
 related_facts:
   - "[[Cold Spring Harbor Laboratory]]"
 related_arguments:
@@ -42,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Institute for Advanced Study
@@ -91,7 +90,7 @@ updated: 2026-10-08
 ## 影响与体系成效
 
 > [!finding-cards] 关键成效与辐射影响
-> - **[[Alfred Nobel|诺贝尔]]奖与菲尔兹奖摇篮** 历史上常任教授与访问学者中诞生了 35 位诺贝尔奖得主与 44 位菲尔兹奖得主。
+> - **诺贝尔奖与菲尔兹奖摇篮** 历史上常任教授与访问学者中诞生了 35 位诺贝尔奖得主与 44 位菲尔兹奖得主。
 > - **机构组织[[Demonstration Effect|示范效应]]** 证明在传统大学教学与科研双重任务之外，设立纯粹理论研究机构对突破学科现有[[Paradigm|范式]]具有不可替代的价值。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 21)]]
 
 ---

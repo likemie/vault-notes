@@ -10,7 +10,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 25
+fact_related_count: 24
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Public Value]]"
   - "[[Academic Freedom]]"
   - "[[Paradigm]]"
-  - "[[Hypothesis]]"
   - "[[Technology-Oriented Social Contract]]"
 related_theories:
   - "[[Social Contract of Science]]"
@@ -54,7 +53,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Science in the National Interest 1994
@@ -176,7 +175,7 @@ updated: 2026-10-12
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Science, The Endless Frontier 1945]] | Fact | 战后半个世纪的奠基性前沿报告，《科学与国家利益》构成了对其核心[[Hypothesis\|假设]]的历史性修正与再签约。 |
+> | [[Science, The Endless Frontier 1945]] | Fact | 战后半个世纪的奠基性前沿报告，《科学与国家利益》构成了对其核心假设的历史性修正与再签约。 |
 > | [[Social Contract of Science]] | Theory | 本报告开启了科学社会契约演化第二阶段（1990—2009 年“再协商与再定义期”）。 |
 > | [[Pasteur's Quadrant]] | Theory | 为报告强调的兼顾基础探索与国家应用目标的研发模式提供了坚实的[[Epistemology\|认识论]]合法性支撑。 |
 > | [[National Science and Technology Council]] | Fact | 克林顿政府设立的内阁级跨部门科技协调机构，负责将本报告确立的国家目标分解落实至各联邦部委。 |

@@ -10,7 +10,7 @@ aliases:
 summary: "学习科学与知识建构领域的核心机制，指探究共同体成员在教师支持下，随着集体探究推进，基于对突现进展与认知缺口的反思监控，历时性地协同建构与重塑共享探究方向、弹性组织架构与认识规范的动态过程"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 29
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -47,7 +47,6 @@ related_methods:
   - "[[Discourse Analysis]]"
   - "[[Network Analysis]]"
   - "[[Case Study]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -59,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Reflective Structuration
@@ -220,7 +219,7 @@ updated: 2026-10-07
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Zhang_2022_SE\|Zhang et al. (2022)]] | 美国东北部公立小学五年级（$n = 22$），历时 7 个月（2015.09–2016.04，每周 2 次，每次 40 分钟），人体系统探究 | [[Interactional Ethnography\|互动民族志]]、[[Discourse Analysis\|话语分析]]、[[Network Analysis\|社会网络分析]]（Social Network Analysis, SNA）与典型[[Case Study\|案例研究]] | 意向领域演进数量；BOOK 视图 16 篇反思笔记的问题类型与科学理解层级；KF 15 个视图的发帖互动；眼睛探究组历时轨迹 | 初始共建 8 个意向领域并随进展重构为 12 个领域；16 篇反思笔记中包含 30 个核心问题（解释寻求型 23 个 vs 事实寻求型 7 个；跨领域问题 15 个 vs 单领域问题 15 个）；综合观点科学性[[Coding in Qualitative Research\|编码]]中 13 篇达完全科学水平（占比 81.25%），2 篇基本科学水平，0 篇前科学/混合水平；认知复杂度中 7 篇为详细解释（占比 43.75%），2 篇简要解释，6 篇详细事实；KF 累计发帖超 500 篇，SNA 证实全班形成高密度互联网络 | 编码一致性 90%（Cohen's $\kappa = 0.82$） | 详细质性与描述性质料，证实[[Reflexivity\|反思性]]结构化在长周期科学课堂中有效驱动了高水平因果解释与分布式社会连接 |
+> | [[Argument_Zhang_2022_SE\|Zhang et al. (2022)]] | 美国东北部公立小学五年级（$n = 22$），历时 7 个月（2015.09–2016.04，每周 2 次，每次 40 分钟），人体系统探究 | [[Interactional Ethnography\|互动民族志]]、[[Discourse Analysis\|话语分析]]、[[Network Analysis\|社会网络分析]]（Social Network Analysis, SNA）与典型[[Case Study\|案例研究]] | 意向领域演进数量；BOOK 视图 16 篇反思笔记的问题类型与科学理解层级；KF 15 个视图的发帖互动；眼睛探究组历时轨迹 | 初始共建 8 个意向领域并随进展重构为 12 个领域；16 篇反思笔记中包含 30 个核心问题（解释寻求型 23 个 vs 事实寻求型 7 个；跨领域问题 15 个 vs 单领域问题 15 个）；综合观点科学性编码中 13 篇达完全科学水平（占比 81.25%），2 篇基本科学水平，0 篇前科学/混合水平；认知复杂度中 7 篇为详细解释（占比 43.75%），2 篇简要解释，6 篇详细事实；KF 累计发帖超 500 篇，SNA 证实全班形成高密度互联网络 | 编码一致性 90%（Cohen's $\kappa = 0.82$） | 详细质性与描述性质料，证实[[Reflexivity\|反思性]]结构化在长周期科学课堂中有效驱动了高水平因果解释与分布式社会连接 |
 
 ---
 

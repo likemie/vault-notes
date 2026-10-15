@@ -8,7 +8,7 @@ aliases:
 summary: "指在科学研究与技术开发的早期构思、议程设定、优先序确立以及基金申请阶段，将非专业公众、患者群体及相关社群系统化引入科研全生命周期的前瞻性参与范式，通过平权对话与平权共创共同塑造科技发展轨迹。"
 type: concept
 domain: "science-communication"
-related_count: 18
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,7 +22,6 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Deficit Model of Science Communication]]"
-  - "[[Hypothesis]]"
   - "[[Dialogue in Education]]"
   - "[[Scientific Literacy]]"
   - "[[Variable]]"
@@ -46,7 +45,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-09-24
+updated: 2026-10-15
 ---
 
 # Upstream Public Engagement
@@ -64,7 +63,7 @@ updated: 2026-09-24
 > - **边界** 不等于将专业科学真理交由非专业投票表决，而是通过对话吸纳公众的生活体验、风险感知与伦理考量，拓宽科研问题的社会相关性。
 
 > [!boundary]- 概念边界
-> - 不等于 [[Deficit Model of Science Communication\|赤字模型]] — 后者[[Hypothesis\|假设]]公众对新技术的疑虑纯属知识匮乏，只需单向科普灌输；上游参与则承认公众关切具有正当的伦理与经验基础。
+> - 不等于 [[Deficit Model of Science Communication\|赤字模型]] — 后者假设公众对新技术的疑虑纯属知识匮乏，只需单向科普灌输；上游参与则承认公众关切具有正当的伦理与经验基础。
 > - 不等于单纯的下游科学普及 — 下游科普局限于解释既成事实与科研成果；上游参与聚焦于技术与研究方向的价值选择与前瞻性议程共同设定。
 
 ---
@@ -89,7 +88,7 @@ updated: 2026-09-24
 > - **全生命周期的前置性（Lifecycle Front-loading）**
 >   参与机制紧密嵌入科研规划的最早阶段，使公众反馈能够直接影响研究方案的实验设计、[[Variable\|变量]]选取与伦理防护安排。
 > - **[[Reflexivity\|反思性]]与价值敞开（VALUE [[Pluralism]] and Reflexivity）**
->   促使科研人员超越狭隘的[[Technical Rationality\|技术理性]]，审视研究背后的规范性[[Hypothesis\|假设]]与商业/社会利益偏倚，构建负责任的创新文化。
+>   促使科研人员超越狭隘的[[Technical Rationality\|技术理性]]，审视研究背后的规范性假设与商业/社会利益偏倚，构建负责任的创新文化。
 
 > [!logic-map]- 科研全生命周期中上游与下游参与的关系
 > ```mermaid

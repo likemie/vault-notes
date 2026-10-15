@@ -9,7 +9,7 @@ title: "Argument_Slethaug_2010_InternationalEducation"
 argument_key: "Argument_Slethaug_2010_InternationalEducation"
 argument_display_title: "Something Happened While Nobody Was Looking: The Growth of International Education and the Chinese Learner"
 argument_kind: "book"
-argument_related_count: 18
+argument_related_count: 15
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -27,18 +27,15 @@ related_concepts:
   - "[[Chinese Learner]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Competitiveness]]"
-  - "[[Document]]"
   - "[[Reliability]]"
   - "[[International Schools]]"
   - "[[Scientific Literacy]]"
   - "[[Global Universities Rankings]]"
-  - "[[Hypothesis]]"
   - "[[Rote Learning]]"
   - "[[Operationalization]]"
 related_theories: []
 related_methods: []
-related_persons:
-  - "[[Alfred Nobel]]"
+related_persons: []
 related_facts:
   - "[[OECD]]"
   - "[[UNESCO]]"
@@ -79,7 +76,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info]
-> 汇集来自 [[OECD]]、IIE（[[International Education\|国际教育]]协会）、[[UNESCO]]、各国政府统计和主流媒体的二手数据，再结合已有学术[[Document\|文献]]的分析，拼接出一幅国际教育发展的全景图。
+> 汇集来自 [[OECD]]、IIE（[[International Education\|国际教育]]协会）、[[UNESCO]]、各国政府统计和主流媒体的二手数据，再结合已有学术文献的分析，拼接出一幅国际教育发展的全景图。
 >
 > 值得注意的方法论局限：不同来源对同一现象的统计经常大相径庭（如中国出国留学生人数），Slethaug 指出了这些差异但未系统评估各数据来源的[[Reliability\|可靠性]]。
 
@@ -119,7 +116,7 @@ Slethaug 接着论证：如果说 PISA 是比较中小学生，那么[[Global Un
 但 2003 年上海交通大学的 [[Academic Ranking of World Universities|ARWU]] 改变了游戏规则：排名变成了全球性的。Slethaug 的关键洞见是：**不同排名机构的结果差异极大，说明"排名"根本不是客观测量，而是取决于你选择什么指标、赋予什么权重。**
 
 > 例（Slethaug 自己举的最精彩的例子）：香港大学（HKU）在 2007 年同一年内的排名——
-> - ARWU（偏研究产出、[[Alfred Nobel|诺贝尔]]奖）：**未进入前 300 名**
+> - ARWU（偏研究产出、诺贝尔奖）：**未进入前 300 名**
 > - Webometrics（偏网络可见度）：**第 156 名**
 > - THES-QS（偏同行声誉调查）：**第 24 名**
 > - "网络流行度"排名（只算网站点击量）：**第 8 名**
@@ -170,7 +167,7 @@ IB 的吸引力在于它声称**意识形态中立**——不绑定任何国家�
 
 > 例：英国/欧洲——巴斯大学国际教育中心、牛津布鲁克斯 OICEM、剑桥大学国际考试（国际教师证书）；美国——密歇根州立大学、恩迪科特学院、乔治梅森大学、佛蒙特国际培训学校。**就这么多**。对于一个服务 200 万+ 学生的产业来说，这个师资培养体系的规模微不足道。(pp.32–33)
 
-这意味着什么？Slethaug 的隐含结论是：**大多数国际学校的教师并未受过专门的国际教育训练**。他们带着自己国家的教学[[Hypothesis|假设]]走进多元文化的课堂——旧的关于"[[Chinese Learner|中国学习者]]"（[[Rote Learning|死记硬背]]、被动、缺乏想象力）的刻板印象因此得以延续，"智识殖民主义"持续运作(p.33)。
+这意味着什么？Slethaug 的隐含结论是：**大多数国际学校的教师并未受过专门的国际教育训练**。他们带着自己国家的教学假设走进多元文化的课堂——旧的关于"[[Chinese Learner|中国学习者]]"（[[Rote Learning|死记硬背]]、被动、缺乏想象力）的刻板印象因此得以延续，"智识殖民主义"持续运作(p.33)。
 
 **这一步的逻辑功能** 这是论证的"所以呢"——整个国际教育大厦已经建起来了，但地基（师资）是空的。这直接导向全书的立意。
 

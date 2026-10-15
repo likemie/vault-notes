@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05"
 argument_display_title: "Research Methods in Education · Ch05"
 argument_kind: "book-chapter"
-argument_related_count: 54
+argument_related_count: 51
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -28,7 +28,6 @@ tags:
   - topic/ethics
 related_concepts:
   - "[[Concept Mapping]]"
-  - "[[Document]]"
   - "[[Emergence]]"
   - "[[Covert Research]]"
   - "[[Costs Benefits Ratio in Research Ethics]]"
@@ -37,7 +36,6 @@ related_concepts:
   - "[[Informed Consent]]"
   - "[[Voluntarism]]"
   - "[[Purpose Statement]]"
-  - "[[Hypothesis]]"
   - "[[Gatekeepers]]"
   - "[[Hawthorne Effect]]"
   - "[[Research Scope]]"
@@ -53,10 +51,10 @@ related_concepts:
   - "[[Betrayal in Research]]"
   - "[[Creativity]]"
   - "[[Deception in Research]]"
+  - "[[Hypothesis]]"
   - "[[Privacy in Research]]"
   - "[[Academic Freedom]]"
   - "[[Open-Mindedness]]"
-  - "[[APA Style]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Research Question]]"
   - "[[Champ]]"
@@ -77,7 +75,6 @@ related_methods:
   - "[[Transcription in Qualitative Research]]"
   - "[[Action Research]]"
   - "[[Accounts]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Telephone Interview]]"
   - "[[Role-playing]]"
 related_persons: []
@@ -135,7 +132,7 @@ updated: '2026-09-18'
 #### 5.1.1 问题起点：伦理从何而来？
 
 > [!nav] 导览
-> 教育与社会研究中的核心伦理议题逐一审视如下。伦理意识在近年的增长反映在相关[[Document\|文献]]的增加以及各机构与专业团体制定的研究实践规范守则的[[Emergence\|涌现]]上。然而，伦理问题植根于研究过程的每一个具体环节，而非来自抽象原则（pp.74–75）。
+> 教育与社会研究中的核心伦理议题逐一审视如下。伦理意识在近年的增长反映在相关文献的增加以及各机构与专业团体制定的研究实践规范守则的[[Emergence\|涌现]]上。然而，伦理问题植根于研究过程的每一个具体环节，而非来自抽象原则（pp.74–75）。
 
 > [!chapter-question] 伦理问题的六个来源
 > 伦理问题可能出现在研究的每个阶段（Oliver, 2003, p. 17）（pp.75–76）：
@@ -281,7 +278,7 @@ Ruane (2005, p. 21) 进一步提出"多少信息才算足够"的问题。她认�
 #### 5.2.4 知情同意与儿童及弱势群体
 
 > [!warning] 权力不对称的核心问题
-> 迄今为止关于知情同意的论述可能[[Hypothesis\|假设]]了平等者之间的关系，如研究者与教师、研究教授与研究生。但大量教育研究涉及**无法与研究者处于平等地位的儿童**，在研究的每个阶段（包括征求知情同意时）都必须牢记这一点（pp.79–82）。
+> 迄今为止关于知情同意的论述可能假设了平等者之间的关系，如研究者与教师、研究教授与研究生。但大量教育研究涉及**无法与研究者处于平等地位的儿童**，在研究的每个阶段（包括征求知情同意时）都必须牢记这一点（pp.79–82）。
 
 > [!feature] Fine & Sandstrom (1988) 的儿童研究伦理框架
 > 基于对儿童和青少年的[[Ethnography\|民族志]]和[[Participant Observation\|参与观察]]研究，Fine & Sandstrom 提出了以下指导原则：
@@ -755,7 +752,7 @@ Kelly (1989a) 指出，质性研究中伦理触角需要特别敏感的领域是
 > Frankfort-Nachmias & Nachmias (1992) 列出：
 > 1. 不使用姓名或任何其他个人标识方式
 > 2. 使用化名（aliases）
-> 3. 使用[[Coding in Qualitative Research\|编码]]标识个人（将个人信息与接触信息分离）
+> 3. 使用编码标识个人（将个人信息与接触信息分离）
 > 4. 使用密码保护文件
 > 5. 在必要时**聚合数据**，使个体回答不可知
 
@@ -1030,7 +1027,7 @@ Kimmel (1988) 声称很少有研究者觉得可以完全不做欺骗，因为过
 > | 协会 | 结构 | 关键立场 |
 > |---|---|---|
 > | **BPS** (British Psychological Society, 2005) | 11个章节，涵盖胜任、同意、保密、个人行为 | 不强制要求知情同意（尽可能告知）；不禁绝欺骗，但需严格证成 |
-> | **[[APA Style\|APA]]** (American Psychological Association, 2002) | 五项总原则 → 十节伦理标准 | 行善与不伤害、忠诚与责任、诚信、正义、尊重人的权利和尊严 |
+> | **APA** (American Psychological Association, 2002) | 五项总原则 → 十节伦理标准 | 行善与不伤害、忠诚与责任、诚信、正义、尊重人的权利和尊严 |
 > | **ASA** (American Sociological Association, 1999) | 五项总原则 → 20条伦理标准 | 涵盖不剥削、保密、知情同意、欺骗、提供诱导等 |
 > | **BSA** (British Sociological Association, 2002) | 多章节，含隐蔽研究、资助方责任 | 对参与者和资助方的双重义务；匿名、隐私、保密章节 |
 > | **[[Sponsored Research Agreement\|SRA]]** (Social Research Association, 2003) | 四个层级义务：社会 → 资助方 → 同事 → 参与者 | 借鉴欧洲法律框架（www.respect-project.org） |

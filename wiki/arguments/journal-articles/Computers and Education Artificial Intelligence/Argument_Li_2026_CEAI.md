@@ -34,7 +34,6 @@ related_concepts:
   - "[[Structured Teaching]]"
   - "[[Metacognition]]"
   - "[[Cognitive Offloading]]"
-  - "[[Document]]"
   - "[[Construct]]"
   - "[[Variable]]"
   - "[[Student Engagement]]"
@@ -50,10 +49,12 @@ related_concepts:
   - "[[Epistemic Friction]]"
   - "[[General Purpose Technology]]"
   - "[[Central Question]]"
+  - "[[Document]]"
   - "[[General Education]]"
   - "[[Computational Thinking]]"
   - "[[Reflexivity]]"
   - "[[Classroom Debate]]"
+  - "[[STEM Education]]"
   - "[[AI Hallucination]]"
   - "[[Paradigm]]"
   - "[[Homework]]"
@@ -63,8 +64,6 @@ related_concepts:
   - "[[Brainstorming]]"
   - "[[Open-Mindedness]]"
   - "[[Problem-Based Learning]]"
-  - "[[STEM Education]]"
-  - "[[Hypothesis]]"
   - "[[Reliability]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Feedback]]"
@@ -117,7 +116,7 @@ title: "Argument_Li_2026_CEAI"
 argument_key: "Argument_Li_2026_CEAI"
 argument_display_title: "The cognitive impact of ChatGPT in higher education: A systematic review of critical and creative thinking outcomes"
 argument_kind: "journal-article"
-argument_related_count: 78
+argument_related_count: 77
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -145,7 +144,7 @@ issuing_organization: ""
 > - **贡献** 构建批判性思维（收敛加工）与创造性思维（发散加工）的双透镜整合[[Analytic Framework\|分析框架]]；系统提炼了人机协同认知共现的三大典型轨迹；提出了基于[[Third Generation Activity Theory\|活动理论]]的六大教学干预规制。
 
 > [!contrast-table] 表1：既有关于 ChatGPT 与认知产出的[[Systematic Review\|系统综述]]对比（Existing Systematic Reviews）
-> | 作者与年份 | 综述聚焦（Review Focus） | 认知考察维度（Cognitive Aspects） | 纳入[[Document\|文献]]规模 | 本综述的超越与推进（Comparative Advance） |
+> | 作者与年份 | 综述聚焦（Review Focus） | 认知考察维度（Cognitive Aspects） | 纳入文献规模 | 本综述的超越与推进（Comparative Advance） |
 > |---|---|---|---|---|
 > | **Dimeli & Kostas (2025)** | 高等教育与中等教育中的 ChatGPT 应用 | 一般性认知表现（General Cognitive Performance） | 50 项研究 | 侧重宏观学业成果，未对批判性与创造性思维进行[[Construct\|构念]]分立与机制剖析。 |
 > | **Deng et al. (2024)** | ChatGPT 介入下的学业成果[[Meta-analysis\|元分析]] | 高阶思维（Higher-Order Thinking） | 量化元分析 | 提供合并[[Effect Size\|效应量]]，但未拆解质性反思过程与多样化的教学情境调节[[Variable\|变量]]。 |
@@ -191,7 +190,7 @@ issuing_organization: ""
 > | **高阶认知[[Construct\|构念]]（CCT）** | (`"Critical thinking"` OR `"Creative thinking"` OR `"Higher-order thinking"` OR `"Cognitive skills"` OR `"Problem-solving"` OR `"Creative problem-solving"` OR `"Divergent thinking"` OR `"Analytical thinking"` OR `"Innovation"`) |
 > | **高等教育情境** | (`"Higher education"` OR `"University students"` OR `"College students"` OR `"Postsecondary education"` OR `"Tertiary education"`) |
 
-> [!ref-table]- 表3：[[Document\|文献]]纳入与排除标准及设定依据（Inclusion Criteria for Article Selection）
+> [!ref-table]- 表3：文献纳入与排除标准及设定依据（Inclusion Criteria for Article Selection）
 > | 筛选维度（Category） | 纳入标准（Inclusion Criteria） | 设定依据与方法论理性（Rationale） |
 > |---|---|---|
 > | **技术聚焦（Focus）** | 明确聚焦于 ChatGPT 或其底层大语言模型（[[General Purpose Technology\|GPT]]-3, GPT-4）的研究 | 剥离泛化教育技术或传统聊天机器人干扰，精准锚定[[Generative Artificial Intelligence\|生成式 AI]] 的认知影响。 |
@@ -201,7 +200,7 @@ issuing_organization: ""
 > | **研究类型（Study Type）** | 收集并报告原始经验数据的同行评议实证研究 | 排除纯思辨随笔、立场声明与未经实证检验的教学倡议，确保证据稳固。 |
 > | **出版语言（Language）** | 英语学术期刊公开发表文献 | 保证[[Coding in Qualitative Research\|质性编码]]分析与主题概念提炼的语言连贯性与综合准确性。 |
 > | **时间窗口（Publication Date）** | 2022 年 11 月至 2025 年 4 月 | 覆盖 ChatGPT 正式公测后至本研究检索截点的高校实证整合全景。 |
-> | **文献载体（Document Type）** | 经过严格同行评议的学术期刊论文（Peer-Reviewed Articles） | 保证纳入实证证据的方法学严谨性、研究透明度与学术公信力。 |
+> | **文献载体（[[Document]] Type）** | 经过严格同行评议的学术期刊论文（Peer-Reviewed Articles） | 保证纳入实证证据的方法学严谨性、研究透明度与学术公信力。 |
 
 > [!sample-panel]- 表4：纳入实证文献描述性特征全量汇总（n = 67）
 > <span class="scrollable-table-marker" aria-hidden="true"></span>
@@ -282,7 +281,7 @@ issuing_organization: ""
 > |---|---|---|---|---|
 > | **赋能机制** | **元认知参与与监控（n = 27）** | [[Reflexivity\|反思性]]学术写作、同伴成果对比、文本多轮修订 | 引导性提示词、结构化探究任务、认知对比指引 | Strobl et al. (2024); Tseng & Lin (2024); Zhan & Yan (2025) |
 > | **赋能机制** | **论证结构与逻辑深化（n = 22）** | [[Classroom Debate\|课堂辩论]]设计、论证可视化图谱、学术论文写作 | 迭代对话模式、基于评分量规的评估对齐 | Sykes (2024); Chen et al. (2025); Darmawansah et al. (2025) |
-> | **赋能机制** | **事实核查与查错机制（n = 19）** | STEM 实验报告、程序排错、跨学科[[Document\|文献]]评述 | 批判性质疑态度、[[AI Literacy\|AI 素养]]、[[AI Hallucination\|幻觉识别培训]] | Archila et al. (2024); Michalon & Camacho-Zúñiga (2023); Šedlbauer et al. (2024) |
+> | **赋能机制** | **事实核查与查错机制（n = 19）** | [[STEM Education\|STEM]] 实验报告、程序排错、跨学科文献评述 | 批判性质疑态度、[[AI Literacy\|AI 素养]]、[[AI Hallucination\|幻觉识别培训]] | Archila et al. (2024); Michalon & Camacho-Zúñiga (2023); Šedlbauer et al. (2024) |
 > | **赋能机制** | **[[Self-Regulated Learning\|自我调节学习]]促进（n = 17）** | 形成性反馈循环、自主探究项目、迭代修改 | 提示词工程训练、反思日记、认知监控规程 | Yang et al. (2025); Lee et al. (2024); Shen & Chen (2025) |
 > | **赋能机制** | **学科真实推理深化（n = 15）** | 系统工程设计、商业企划、科学伦理批判 | 任务真实性、专业学科[[Paradigm\|范式]]对齐、深度问题情境 | Kofahi & Husain (2025); George-Reyes et al. (2024); Exintaris et al. (2023) |
 > | **风险限制** | **过度依赖与认知惰性（n = 21）** | 期末论文写作、常规[[Homework\|作业]]应付、事实性问答 | 缺乏使用培训、初学者新手用户、无反思要求 | Sarwanti et al. (2024); Villarino (2025); Azmi et al. (2024) |
@@ -383,7 +382,7 @@ issuing_organization: ""
 > [[Argument_Li_2025_HSSC\|Li et al. (2025)]] 开发并检验了面向 [[STEM Education\|STEM]] 大学生的定制化生成式系统 **InquiryGPT**。该系统在技术底层内置了“探究脚手架状态机”：
 > 1. 当学生提出初步研究猜想时，系统拒绝直接给出结论，而是调用[[Connectivism\|连通主义]]知识图谱生成 3 个可能的技术路径，激发学生的发散构想（CrT ↑）；
 > 2. 当学生选择某一路径后，系统自动切换为“苏格拉底质疑者”角色，要求学生输入至少两条支持该路径的实证证据，并对潜在的反例进行逻辑反驳（CT ↑）；
-> 3. 最终方案的生成必须由学生手动确认每一次修改的理由。实证评测显示，该系统使学生在创造性[[Hypothesis\|假设]]构建和实证论证严密性两个维度上均取得了显著超越对照组的成效，量化确立了技术支架对高阶思维的协同放大机制。（p. 9）
+> 3. 最终方案的生成必须由学生手动确认每一次修改的理由。实证评测显示，该系统使学生在创造性假设构建和实证论证严密性两个维度上均取得了显著超越对照组的成效，量化确立了技术支架对高阶思维的协同放大机制。（p. 9）
 
 > [!exegesis]- 轨迹二典型案例深析：学术论文撰写中的“虚假繁荣”陷阱
 > Wang et al. (2024) 对 120 名使用 ChatGPT 辅助学期论文写作的大学生进行了细致的行为日志追踪与文本解构：
@@ -439,7 +438,7 @@ issuing_organization: ""
 > 1. **认知效应的情境依赖性** ChatGPT 对大学生思维的影响非技术固有，[[Structured Teaching\|结构化教学]]设计驱动认知增益，非结构化使用导致思维惰性。（pp. 1, 9–10）
 > 2. **[[Critical Thinking\|批判性思维]]的双刃剑机制** 显性反思支架激活[[Metacognition\|元认知]]监控与论证推理（27 项研究），缺乏引导则诱发严重[[Cognitive Offloading\|认知卸载]]与盲目盲从（21 项研究）。（pp. 6–7）
 > 3. **[[Creativity\|创造性思维]]的赋能与均质化** 显著提升构想流畅性与发散广度（31 项研究），但全盘代写会削弱个人学术声音与情感真实性（15 项研究）。（pp. 7–8）
-> 4. **三大认知共现演进模型** 实证[[Document\|文献]]确立了双向协同增益（n = 18）、非对称发展（n = 8）与双重认知侵蚀（n = 4）三种典型轨迹。（pp. 9–10）
+> 4. **三大认知共现演进模型** 实证文献确立了双向协同增益（n = 18）、非对称发展（n = 8）与双重认知侵蚀（n = 4）三种典型轨迹。（pp. 9–10）
 
 > [!stat-cards]- 核心数据
 > - **67 项** 纳入综述的实证研究总量（2022–2025 年）。（p. 4）
@@ -472,7 +471,7 @@ issuing_organization: ""
 ## 自述局限
 
 > [!warning]
-> - **语言与[[Document\|文献]]类型检索边界** 仅纳入以英文发表的同行评议期刊文献（截至 2025 年 4 月），排除了会议论文（如 LAK、AIED、L@S 等前沿阵地）、专著、预印本及非英语数据库文献，可能存在潜在的[[Publication Bias\|发表偏倚]]并错失最新的方法学创新试点。（pp. 12–13）
+> - **语言与文献类型检索边界** 仅纳入以英文发表的同行评议期刊文献（截至 2025 年 4 月），排除了会议论文（如 LAK、AIED、L@S 等前沿阵地）、专著、预印本及非英语数据库文献，可能存在潜在的[[Publication Bias\|发表偏倚]]并错失最新的方法学创新试点。（pp. 12–13）
 > - **初级研究的方法学[[Heterogeneity\|异质性]]** 纳入文献在研究设计、[[Construct\|构念]]界定与测量工具上存在极大异质性（定性反思、主观自陈调查与实验测验并存），绝大多数研究缺乏对照组、标准化测验或长期纵向追踪，限制了因果效应推断与量化[[Meta-analysis\|元分析]]的开展。（p. 12）
 > - **技术迭代与横断时间敏感性** 大语言模型技术演进迅猛，不同研究测试的模型版本差异显著（[[General Purpose Technology|GPT]]-3.5、GPT-4 等）；随着多模态与[[AI Agent in Education\|智能体]]技术的融合，部分早期静态文本交互的实证结论可能面临重构需求。
 > - **测量不对称性与自陈偏倚** [[Critical Thinking Assessment\|批判性思维评估]]过多依赖学生的间接自我报告与主观反思[[Questionnaire\|问卷]]，而[[Creativity\|创造性思维]]则较多采用客观行为测验，测量维度的不对称性可能放大了不同领域效应稳健性的表观差异。（p. 6）

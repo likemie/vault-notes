@@ -9,7 +9,7 @@ summary: "美国著名政治哲学家、哈佛大学讲座教授，当代社群�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 20
+person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -23,7 +23,6 @@ tags:
 related_concepts:
   - "[[Market Triumphalism]]"
   - "[[Discourse]]"
-  - "[[Hypothesis]]"
   - "[[Technological Republic]]"
   - "[[Paradigm]]"
   - "[[Technological Escapism]]"
@@ -50,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Michael Sandel
@@ -92,7 +91,7 @@ updated: 2026-10-09
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1980年代 — [[John Rawls|罗尔斯]]批判与主体自我构成论** 解构自由主义将个体视为脱离社群历史、文化与情感依附的“抽象原子”[[Hypothesis|假设]]，主张正义无法脱离具体的善观念与共同体认同。
+> - **1980年代 — [[John Rawls|罗尔斯]]批判与主体自我构成论** 解构自由主义将个体视为脱离社群历史、文化与情感依附的“抽象原子”假设，主张正义无法脱离具体的善观念与共同体认同。
 >   - **代表著作** *Liberalism and the Limits of Justice* (1982/1998)。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 67–68)]]
 >   - **关键概念／方法** 构成性自我、正义的局限、善优先于权利。
 > - **1990年代 — 共和主义公民身份与程序共和国反思** 批判战后美国沦为仅关注个体权利与程序公正、却丧失共同体公共善与公民德性的“程序共和国”（Procedural Republic）。

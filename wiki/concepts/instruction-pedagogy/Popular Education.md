@@ -6,7 +6,7 @@ aliases:
 summary: "发端于拉丁美洲的解放教育范式，主张立足被压迫工农大众的生活经验与阶级境遇，通过提问式对话教学激发批判意识觉醒，培养改造社会结构的政治能动性，与国家威权自上而下的补偿性恩庇扫盲相对立"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 32
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -19,7 +19,6 @@ tags:
 related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Paradigm]]"
-  - "[[Bildung]]"
   - "[[Dialogue in Education]]"
   - "[[Conscientization]]"
   - "[[Compensatory Legitimation]]"
@@ -58,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-05
+updated: 2026-10-15
 ---
 
 # Popular Education
@@ -68,7 +67,7 @@ updated: 2026-10-05
 ## 定义
 
 > [!def] 核心定义
-> 民众教育（Popular Education / 西班牙语：Educación Popular）是一项发端于 20 世纪中叶拉丁美洲、深刻影响全球[[Critical Pedagogy|批判教育学]]实践的激进解放教育[[Paradigm|范式]]。该概念拒绝将教育简化为统治阶级自上而下向底层输送技能或政治[[Bildung|教化]]的技术性工具，主张**立足工农贫民与被压迫群体的日常生活经验，通过提问式[[Dialogue in Education|对话教学]]与[[Conscientization|批判意识觉醒]]，使受教育者认清自身受剥削的阶级结构根源，进而组织起来投身重构社会公正与民主权利的集体实践**。在比较政治社会学中，民众教育构成了对 19 世纪以来自由主义国家“教化主权者”（educate the sovereign）虚伪命题的深刻解构，亦是对拉美威权[[State Corporatism|国家法团主义]]利用扫盲推行[[Compensatory Legitimation|补偿性合法化]]恩庇策略的坚决抵抗（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009, p. 84]]）。
+> 民众教育（Popular Education / 西班牙语：Educación Popular）是一项发端于 20 世纪中叶拉丁美洲、深刻影响全球[[Critical Pedagogy|批判教育学]]实践的激进解放教育[[Paradigm|范式]]。该概念拒绝将教育简化为统治阶级自上而下向底层输送技能或政治教化的技术性工具，主张**立足工农贫民与被压迫群体的日常生活经验，通过提问式[[Dialogue in Education|对话教学]]与[[Conscientization|批判意识觉醒]]，使受教育者认清自身受剥削的阶级结构根源，进而组织起来投身重构社会公正与民主权利的集体实践**。在比较政治社会学中，民众教育构成了对 19 世纪以来自由主义国家“教化主权者”（educate the sovereign）虚伪命题的深刻解构，亦是对拉美威权[[State Corporatism|国家法团主义]]利用扫盲推行[[Compensatory Legitimation|补偿性合法化]]恩庇策略的坚决抵抗（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009, p. 84]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 扎根草根大众（Popular classes）自身立场的非正规与正规教育实践，其核心不是“把知识带给无知者”，而是“大众在对话中共同发现和命名世界”。
@@ -91,7 +90,7 @@ updated: 2026-10-05
 > [!contrast-table] 三种面向大众的教育模式之政治与方法论对比
 > | 维度 | 自由主义国家公立教育 | [[State Corporatism\|国家法团主义]]补偿性扫盲 | 拉美激进民众教育（Educación Popular） |
 > |------|----------------------|------------------------|---------------------------------------|
-> | **核心指导命题** | “[[Bildung\|教化]]主权者”（国家赋予公民基础理智） | “[[Compensatory Legitimation\|补偿性合法化]]”（微薄福利平息工农愤懑） | “受压迫者自我解放”（大众在斗争中命名世界） |
+> | **核心指导命题** | “教化主权者”（国家赋予公民基础理智） | “[[Compensatory Legitimation\|补偿性合法化]]”（微薄福利平息工农愤懑） | “受压迫者自我解放”（大众在斗争中命名世界） |
 > | **权力运行方向** | 国家自上而下的官僚科层推行 | 执政党工会垄断网络自上而下恩庇分发 | 基层社群、教会基社团自下而上横向组织 |
 > | **知识与教学观** | 银行储蓄式教学（Banking Education）：灌输既定知识 | 功能性识字：训练基本劳动指令识别与政治忠诚 | 提问式[[Dialogue in Education\|对话教学]]（Problem-posing）：反思生活[[Generative Themes\|生成性主题]] |
 > | **[[Student-Teacher Relationship\|师生关系]]形态** | 权威教师对被动学生单向传授 | 国家辅导员对文盲农民自上而下教化 | 平等伙伴关系：师生互为主体（Teacher-Student） |
@@ -130,7 +129,7 @@ updated: 2026-10-05
 > 剖析民众教育如何揭穿资产阶级国家将公民身份与正规学校文凭捆绑的虚伪性，确立被压迫者的原发政治主体性。
 
 > [!claim] [[Paulo Freire|Freire, P.]] & [[Carlos Alberto Torres|Torres, C. A.]]
-> **破除自上而下赋予权利的资产阶级恩赐假定** 托雷斯指出，近代自由主义国家宣称必须先由公立学校“[[Bildung|教化]]主权者”，然后才能赋予大众充分的公民权，这一逻辑实质上是将未受正规教育的广大工农排除在政治决策之外的阶级排斥策略。1960 年代兴起的民众教育彻底颠倒了这一逻辑：大众无需等待资产阶级国家的恩赐式教化，他们通过反思自身苦难与抗争实践，早已具备不可剥夺的历史创造主体性，教育的功能仅在于唤醒而非赐予这种主体力量（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009, p. 84]]）。
+> **破除自上而下赋予权利的资产阶级恩赐假定** 托雷斯指出，近代自由主义国家宣称必须先由公立学校“教化主权者”，然后才能赋予大众充分的公民权，这一逻辑实质上是将未受正规教育的广大工农排除在政治决策之外的阶级排斥策略。1960 年代兴起的民众教育彻底颠倒了这一逻辑：大众无需等待资产阶级国家的恩赐式教化，他们通过反思自身苦难与抗争实践，早已具备不可剥夺的历史创造主体性，教育的功能仅在于唤醒而非赐予这种主体力量（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009, p. 84]]）。
 
 ---
 

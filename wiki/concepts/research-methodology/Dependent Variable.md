@@ -11,7 +11,7 @@ aliases:
 summary: "实验或量化研究中被观察和测量的结果变量，其变化被假定为自变量的操纵或选择所导致，是因果推断中的输出条件"
 type: concept
 domain: "research-methodology"
-related_count: 19
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Definition of Terms]]"
   - "[[Student Engagement]]"
-  - "[[Hypothesis]]"
   - "[[Internal Validity]]"
   - "[[Reliability]]"
   - "[[External Validity]]"
@@ -48,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-12
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 # Dependent Variable
 
@@ -67,7 +66,7 @@ updated: 2026-09-22
 > [!boundary]- 概念边界
 > - 不等于[[Construct\|理论构念]]本身，因变量只是构念的操作化测量。当操作化无效时，测量结果不代表理论构念的真实状态。操作性定义的有效性是因变量质量的生命线。
 > - 不等于[[Independent Variable\|自变量]]，因变量是输出/后果，自变量是输入/前因。同一变量在不同研究设计中可以互换角色。
-> - 不适用于无因果[[Hypothesis\|假设]]的研究，因变量概念预设了自变量→因变量的因果[[Analytic Framework\|分析框架]]，在纯描述性研究或探索性研究中不适用。
+> - 不适用于无因果假设的研究，因变量概念预设了自变量→因变量的因果[[Analytic Framework\|分析框架]]，在纯描述性研究或探索性研究中不适用。
 
 ---
 
@@ -75,7 +74,7 @@ updated: 2026-09-22
 
 > [!feature] 因[[Variable\|变量]]的关键属性
 > - **可测量性** 因变量必须具备可被测量或观察的属性。不可直接测量的[[Construct\|构念]]需要通过[[Definition of Terms\|操作性定义]]转化为可测量的指标，如用体操测试代表体适能（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, p. 330]]）。
-> - **有效指标** 操作性指标必须是[[Hypothesis\|假设]]变量的有效指标，体操测试是体适能的合理代理，身高则不是。因变量与其所代表的[[Construct\|构念]]之间的对应关系直接影响研究的[[Internal Validity\|内部效度]]（p. 330）。
+> - **有效指标** 操作性指标必须是假设变量的有效指标，体操测试是体适能的合理代理，身高则不是。因变量与其所代表的[[Construct\|构念]]之间的对应关系直接影响研究的[[Internal Validity\|内部效度]]（p. 330）。
 > - **敏感性与变化范围** 因变量必须对[[Independent Variable\|自变量]]的变化足够敏感，能够反映出干预产生的差异。如果因变量的测量精度不足或变化范围过窄，即使干预有效也可能检测不到（pp. 330–331）。
 > - **多重测量** 同一因变量可以通过多种方式测量（如行为测量和自评测量），以增强结果的可[[Reliability\|信度]]和构念覆盖面（p. 330）。
 > - **时机考量** 因变量的[[Pre-test and Post-test\|后测]]时机直接影响结果：过早可能错失延迟效应，过晚则无法排除其他因素的干扰（pp. 334–335）。

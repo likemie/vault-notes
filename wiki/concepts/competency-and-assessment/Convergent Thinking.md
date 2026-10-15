@@ -11,7 +11,7 @@ aliases:
 summary: "基于逻辑规则与领域证据，对多重线索与信息进行批判性审视、筛选、演绎推导并收敛至唯一最优解的确定性认知加工过程。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 37
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -23,7 +23,6 @@ tags:
   - construct/cognitive-process
   - subject/educational-psychology
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Critical Thinking]]"
   - "[[Construct]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -68,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Convergent Thinking
@@ -79,7 +78,7 @@ updated: 2026-10-07
 ## 定义
 
 > [!def] 核心定义
-> 聚合思维（Convergent Thinking, CT）是指认知主体在面对明确规则、逻辑难题或结构化问题情境时，调动既有长时记忆图式与逻辑推论法则，对多源信息、潜在[[Hypothesis\|假设]]与证据线索进行批判性审视、鉴别、筛选与严密逻辑演绎，从而收敛并确定单一正确答案或最优解决方案的确定性认知加工过程。在经典认知心理学与学习科学中，聚合思维是逻辑推理测验、问题求解与[[Critical Thinking\|批判性思维]]（Critical Thinking）的核心心理[[Construct\|构念]]。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 3–4)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3, 6)]]
+> 聚合思维（Convergent Thinking, CT）是指认知主体在面对明确规则、逻辑难题或结构化问题情境时，调动既有长时记忆图式与逻辑推论法则，对多源信息、潜在假设与证据线索进行批判性审视、鉴别、筛选与严密逻辑演绎，从而收敛并确定单一正确答案或最优解决方案的确定性认知加工过程。在经典认知心理学与学习科学中，聚合思维是逻辑推理测验、问题求解与[[Critical Thinking\|批判性思维]]（Critical Thinking）的核心心理[[Construct\|构念]]。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 3–4)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3, 6)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向基于明确逻辑准则与经验证据，从多样可能性中逐步排他收敛至最优解的确定性推理机制。
@@ -117,7 +116,7 @@ updated: 2026-10-07
 > [!feature] 核心要素
 > - **规则遵循与逻辑演绎（Rule Following & Deduction）** 严格依照形式逻辑、数学公理或领域规范展开自顶向下或自底向上的因果推演。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 3–4)]]
 > - **信息筛选与证据权衡（Evidence Screening & Evaluation）** 辨析相关信息与无关干扰，评估证据真实性、论据支持力度与潜在偏见。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 2–3)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, p. 6)]]
-> - **方案比较与排他性收敛（Alternative Comparison & Elimination）** 对多个候选[[Hypothesis\|假设]]进行对照排查，逐步剔除矛盾选项并收敛至唯一最优解。
+> - **方案比较与排他性收敛（Alternative Comparison & Elimination）** 对多个候选假设进行对照排查，逐步剔除矛盾选项并收敛至唯一最优解。
 > - **[[Metacognition\|元认知监控]]与查错修正（Metacognitive Scrutiny & Error Detection）** 在收敛过程中持续检验推理步骤的前后自洽性，主动识别并修正逻辑断层与AI 事实幻觉。[[Argument_Li_2026_CEAI\|(Li et al., 2026, p. 6)]]
 
 > [!logic-map]- 聚合思维认知收敛机制与 AI 中介路径
@@ -154,7 +153,7 @@ updated: 2026-10-07
 > 复杂问题求解与创造力生成并非仅由[[Divergent Thinking\|发散思维]]单向驱动，必须经历发散生成与聚合收敛的交替循环。
 
 > [!claim] Ezzeldin (2017); [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]]; [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]]
-> **双元思维闭环机制** 发散思维负责在问题初期打破认知定势、广泛搜索远距离语义联结并生成大量候选[[Hypothesis\|假设]]；聚合思维则在后续阶段提供严密的逻辑约束，负责对候选构想进行可行性检验、因果论证与精准优化。缺乏聚合思维的创造力容易沦为空洞的幻想，而缺乏发散思维的推理则容易陷入机械套用，二者协同构成了完整的[[Higher-Order Thinking Skills\|高阶思维]]闭环。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 3–4)]]; [[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 6–8)]]
+> **双元思维闭环机制** 发散思维负责在问题初期打破认知定势、广泛搜索远距离语义联结并生成大量候选假设；聚合思维则在后续阶段提供严密的逻辑约束，负责对候选构想进行可行性检验、因果论证与精准优化。缺乏聚合思维的创造力容易沦为空洞的幻想，而缺乏发散思维的推理则容易陷入机械套用，二者协同构成了完整的[[Higher-Order Thinking Skills\|高阶思维]]闭环。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 3–4)]]; [[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 6–8)]]
 
 ---
 
@@ -253,7 +252,7 @@ updated: 2026-10-07
 > - **“人机双轨对比与批注辩护”三步反思规程（Strobl et al., 2024; [[Argument_Li_2026_CEAI\|Li et al., 2026]]）**
 >   学生先独立撰写逻辑推导初稿，再指示 AI 生成优化版本，随后学生必须逐条批注“接受或拒绝 AI 修改建议的逻辑理由”。这种设计强制阻断了思维外包，极大强化了学生的收敛性评估能力。
 > - **基于[[Argument Mapping\|论证图]]谱的“辩难对手对抗训练”（Sykes, 2024; [[Argument_Li_2026_CEAI\|Li et al., 2026]]）**
->   在学术辩论与论文写作中，学生使用 AI 模拟对立学派的辩难对手，针对核心[[Hypothesis\|假设]]提出尖锐反驳，迫使学生补全论据漏洞、收敛论证链条并最终形成高度自洽的确定性结论。
+>   在学术辩论与论文写作中，学生使用 AI 模拟对立学派的辩难对手，针对核心假设提出尖锐反驳，迫使学生补全论据漏洞、收敛论证链条并最终形成高度自洽的确定性结论。
 
 ---
 

@@ -10,7 +10,7 @@ summary: "在多水平与聚类依赖元分析数据中检验小研究效应与�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 23
+method_related_count: 22
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Publication Bias]]"
   - "[[Variable]]"
   - "[[Unit of Analysis]]"
-  - "[[Hypothesis]]"
   - "[[Research Contribution]]"
   - "[[Sampling Error]]"
   - "[[Heterogeneity]]"
@@ -48,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-09-18
+updated: 2026-10-15
 ---
 
 # Multilevel Egger's Test
@@ -78,7 +77,7 @@ updated: 2026-09-18
 > [!contrast-table] 传统单水平 Egger 检验 vs [[Funnel Plot\|漏斗图]][[Trim and Fill Method\|剪补法]] vs 多水平 Egger 检验
 > | 比较维度 | 传统 Egger 检验（1997） | 漏斗图剪补法（Trim and Fill） | 多水平 Egger 检验（Rodgers & Pustejovsky, 2021） |
 > |---|---|---|---|
-> | **独立性[[Hypothesis\|假设]]** | 假定每项[[Research Contribution\|研究贡献]]单一独立[[Effect Size\|效应量]] | 假定漏斗图基于独立样本 | **允许效应量嵌套于研究/[[Meta-analysis\|元分析]]中（聚类依赖）** |
+> | **独立性假设** | 假定每项[[Research Contribution\|研究贡献]]单一独立[[Effect Size\|效应量]] | 假定漏斗图基于独立样本 | **允许效应量嵌套于研究/[[Meta-analysis\|元分析]]中（聚类依赖）** |
 > | **依赖数据下的表现** | [[Standard Error\|标准误]]严重低估，假阳性率急剧上升（把聚类相关误判为偏倚） | 插补伪造研究，在多水平数据下失效 | **结合 CHE/[[Robust Variance Estimation\|RVE]] 正确控制多层误差结构** |
 > | **核心产出** | 仅给出偏倚显著性检验 $p$ 值 | 填补虚拟研究后的粗糙估计 | **同时输出偏倚显著性 $p$ 值与偏倚校正后的无偏截距 $\beta_0$** |
 

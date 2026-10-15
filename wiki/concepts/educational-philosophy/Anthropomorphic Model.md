@@ -10,7 +10,7 @@ aliases:
 summary: "哈雷与塞科德在“人的科学”运动中提出的方法论模型，主张“为了科学的目的把人当作真正的人类对待”，赋予行动者能动性、意向性监控与生活叙事能力，以事件分析法取代行为主义机械模型。"
 type: concept
 domain: "educational-philosophy"
-related_count: 31
+related_count: 30
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Social Episodes]]"
   - "[[Decodification]]"
-  - "[[Teaching Assistant]]"
   - "[[Paradigm]]"
   - "[[Creativity]]"
   - "[[Variable]]"
@@ -38,11 +37,11 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Tacit Knowledge]]"
   - "[[Homework]]"
+  - "[[Habitus]]"
   - "[[Voluntarism]]"
 related_theories: []
 related_methods:
   - "[[Accounts]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Ethogenic Approach]]"
   - "[[Classroom Observation]]"
   - "[[Qualitative Research]]"
@@ -75,7 +74,7 @@ updated: 2026-10-15
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向社会科学研究中将行动者还原为拥有完整人格、反思理智与能动意志的真实人类，而非外界刺激的被动反应器。
-> - **用途** 帮[[Teaching Assistant\|助教]]育研究者跳出量化实验与机械行为[[Coding in Qualitative Research\|编码]]的狭隘视域，在复杂的师生互动与课堂生态中捕捉潜藏在语言背后的共享默会理解。
+> - **用途** 帮助教育研究者跳出量化实验与机械行为编码的狭隘视域，在复杂的师生互动与课堂生态中捕捉潜藏在语言背后的共享默会理解。
 > - **边界** 拟人化模型不否认生理本能与外部环境的约束，但坚决拒绝将人类社会行动简单降维为无意义的生理驱力或物理机械轨迹。
 
 > [!citation-card] 哈雷与塞科德论拟人化模型与真正人类的科学对待
@@ -138,11 +137,11 @@ updated: 2026-10-15
 
 ### 命题二　事件分析法与当事人叙事彻底颠覆实验室受控编码的机械假象
 
-拟人化模型不仅停留在哲学批判层面，更催生了具体[[Operationalization|操作化]]的质性方法论——事件分析法（[[Ethogenic Approach|ethogenic method]]）。在传统量化[[Classroom Observation|课堂观察]]中，研究者依托预设的机械系统对师生言语进行高频切片记录（例如[[Flanders Interaction Analysis Categories|弗兰德斯互动分析系统]] [[Flanders Interaction Analysis Categories|FIAC]]）。德拉蒙特（Delamont, 1976）以及沃克与阿德尔曼（Walker & Adelman, 1975）在教材 Box 1.5 所复刻的经典“草莓事件”（strawberries episode）生动揭示了这种机械[[Coding in Qualitative Research|编码]]的认识论破产：当学生面对教师训话突然喊出“草莓！草莓！”并引发全班哄堂大笑时，FIAC 机械编码记录下的“7-4-9-10”序列完全无法解释为何这一打断是幽默的。唯有借助拟人化模型，深入调取师生随时间演进而共享的历史[[Tacit Knowledge|默会知识]]（教师曾调侃学生[[Homework|作业]]“像草莓一样好，但保鲜时间太短”），才能真正洞悉这一社会事件的内生秩序。
+拟人化模型不仅停留在哲学批判层面，更催生了具体[[Operationalization|操作化]]的质性方法论——事件分析法（[[Ethogenic Approach|ethogenic method]]）。在传统量化[[Classroom Observation|课堂观察]]中，研究者依托预设的机械系统对师生言语进行高频切片记录（例如[[Flanders Interaction Analysis Categories|弗兰德斯互动分析系统]] [[Flanders Interaction Analysis Categories|FIAC]]）。德拉蒙特（Delamont, 1976）以及沃克与阿德尔曼（Walker & Adelman, 1975）在教材 Box 1.5 所复刻的经典“草莓事件”（strawberries episode）生动揭示了这种机械编码的认识论破产：当学生面对教师训话突然喊出“草莓！草莓！”并引发全班哄堂大笑时，FIAC 机械编码记录下的“7-4-9-10”序列完全无法解释为何这一打断是幽默的。唯有借助拟人化模型，深入调取师生随时间演进而共享的历史[[Tacit Knowledge|默会知识]]（教师曾调侃学生[[Homework|作业]]“像草莓一样好，但保鲜时间太短”），才能真正洞悉这一社会事件的内生秩序。
 
 ### 命题三　行动能动性与无意识心理、客观权力结构的现实交锋
 
-拟人化模型在教育探究的深化过程中，亦引发了方法论维度的审慎反思。精神分析学派批评指出，拟人化模型过度强调行动者的理性自我监控与明确理由说明，容易低估潜意识冲突、情感压抑与非理性冲动对人类行为的深层驱使。另一方面，批判社会学家（如[[Basil Bernstein|伯恩斯坦]]与[[Pierre Bourdieu|布迪厄]]）提醒道，行动者虽然行使着能动意志，但这种意志本身是在被客观阶级地位与制度权力潜移默化塑型的“惯习”中展开的。现代综合性的[[Qualitative Research|质性研究]]因而倾向于在接纳拟人化模型尊重当事人能动性的前提下，将其与批判社会学的宏观权力透镜有机结合。
+拟人化模型在教育探究的深化过程中，亦引发了方法论维度的审慎反思。精神分析学派批评指出，拟人化模型过度强调行动者的理性自我监控与明确理由说明，容易低估潜意识冲突、情感压抑与非理性冲动对人类行为的深层驱使。另一方面，批判社会学家（如[[Basil Bernstein|伯恩斯坦]]与[[Pierre Bourdieu|布迪厄]]）提醒道，行动者虽然行使着能动意志，但这种意志本身是在被客观阶级地位与制度权力潜移默化塑型的“[[Habitus|惯习]]”中展开的。现代综合性的[[Qualitative Research|质性研究]]因而倾向于在接纳拟人化模型尊重当事人能动性的前提下，将其与批判社会学的宏观权力透镜有机结合。
 
 ---
 
@@ -155,7 +154,7 @@ updated: 2026-10-15
 > | [[Ethogenic Approach\|事件分析法]] | 方法 | 哈雷开创的与拟人化模型配套的核心实地质性微观分析程序。 |
 > | [[Voluntarism\|唯意志论]] | 概念 | 拟人化模型在人性观维度上坚决奉行唯意志论立场，反对机械[[Determinism\|决定论]]。 |
 > | [[Rom Harré\|罗姆·哈雷]] | 人物 | 科学哲学家与社会心理学家，拟人化模型与人的科学运动的开创宗师。 |
-> | [[Flanders Interaction Analysis Categories\|FIAC]] | 工具 | 拟人化模型批判的反向典型，展示了脱离脉络的机械行为[[Coding in Qualitative Research\|编码]]之局限。 |
+> | [[Flanders Interaction Analysis Categories\|FIAC]] | 工具 | 拟人化模型批判的反向典型，展示了脱离脉络的机械行为编码之局限。 |
 > | [[Rich and Thick Description\|深描]] | 概念 | 拟人化模型在[[Qualitative Research\|质性研究]]中[[Decodification\|解码]]当事人叙事与情境脉络的基础工具。 |
 
 ---

@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13"
 argument_display_title: "Research Methods in Education · Ch13"
 argument_kind: "book-chapter"
-argument_related_count: 58
+argument_related_count: 55
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -35,7 +35,6 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Variable]]"
   - "[[Study Population and Sample]]"
-  - "[[Hypothesis]]"
   - "[[Dependent Variable]]"
   - "[[External Validity]]"
   - "[[Positivism]]"
@@ -54,7 +53,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Pre-test Sensitisation]]"
   - "[[Attrition]]"
-  - "[[Document]]"
   - "[[Emergence]]"
   - "[[Areas of Knowledge]]"
   - "[[International Education]]"
@@ -69,7 +67,6 @@ related_methods:
   - "[[Rating Scale]]"
   - "[[Random Sampling]]"
   - "[[Fieldwork]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Telephone Interview]]"
   - "[[Semi-structured Interview]]"
   - "[[Internet-based Survey]]"
@@ -163,7 +160,7 @@ sources:
 > - **确定相关性** 如查明性别与分数之间是否存在任何关系
 > - **呈现不受特定情境因素干扰的材料**
 > - **从多选题、封闭式问题、测试分数或观察表中捕获数据**
-> - **支持或反驳关于目标总体的[[Hypothesis\|假设]]**
+> - **支持或反驳关于目标总体的假设**
 > - **通过试测（piloting）和修订生成准确工具**
 > - **对关注对象做出概括并观察回应模式**
 > - **收集可进行统计处理的数据**
@@ -216,7 +213,7 @@ Hoinville & Jowell (1978)提出任何调查设计的三项前提（prerequisites
 
 #### 可用资源
 
-第三项因素是财务成本。样本调查是劳动密集型的(Davidson, 1970)，最大单项支出是[[Fieldwork|田野工作]]. 成本来自访谈时间、差旅时间和访谈员自身的交通报销。培训和监督访谈员小组往往与实际田野时间的成本一样高。问卷构建、试测、打印、邮寄、[[Coding in Qualitative Research|编码]]以及计算机编程，都消耗财政资源。寻求政府或私人资助的教育研究者的提案，往往在对预计调查的财务影响进行详细规划方面花了最少的时间和思考（pp.261–262）。
+第三项因素是财务成本。样本调查是劳动密集型的(Davidson, 1970)，最大单项支出是[[Fieldwork|田野工作]]. 成本来自访谈时间、差旅时间和访谈员自身的交通报销。培训和监督访谈员小组往往与实际田野时间的成本一样高。问卷构建、试测、打印、邮寄、编码以及计算机编程，都消耗财政资源。寻求政府或私人资助的教育研究者的提案，往往在对预计调查的财务影响进行详细规划方面花了最少的时间和思考（pp.261–262）。
 
 ---
 
@@ -463,7 +460,7 @@ Borg & Gall (1979, p. 291)对队列研究和面板研究做出了关键区分。
 > | 追踪对象 | 具有共同特征的群体 | 完全相同的个体 |
 > | 抽样方式 | 选择性抽样，某些成员可能轮换 | 每轮追踪完全相同的人 |
 > | [[Attrition\|样本流失]] | 可通过补充新成员缓解 | 流失后无法替补，随时间加剧 |
-> | 术语区域 | 英国[[Document\|文献]]常用（follow-up study） | 美国文献常用 |
+> | 术语区域 | 英国文献常用（follow-up study） | 美国文献常用 |
 > | 典型实例 | 全国儿童发展研究（National Child Development Study，NCDS）（1958 年启动，追踪 1958 年某一周内在英国出生的约 17,000 人，至今仍在进行） | 英国家庭面板调查（British Household Panel Survey，BHPS）（1991 年启动，每年访谈约 5,500 个家庭的 10,000 名个体，2009 年并入更大规模的 英国理解社会研究（Understanding Society）长期追踪研究） |
 
 本章还提及以下著名纵向与重复横截面研究（pp.267–268）：

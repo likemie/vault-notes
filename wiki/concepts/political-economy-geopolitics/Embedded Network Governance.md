@@ -8,7 +8,7 @@ aliases:
 summary: "公共代理人凭借专业认知与网络中心地位，通过识别方向、播撒共同主题、组建跨界攻关团队、搭建同行研讨与权威背书主动重塑研发社会网络，引导关键技术轨道并避免长期财政依赖的科技创新治理范式。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 38
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Network Plasticity]]"
   - "[[Vertical Disintegration]]"
   - "[[Boundary Spanner]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Star Scientists]]"
   - "[[Funding Exit Mechanism]]"
   - "[[Brainstorming]]"
@@ -67,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Embedded Network Governance
@@ -93,7 +92,7 @@ updated: 2026-10-14
 
 > [!boundary]- 概念边界
 > - 不等于 科层挑选赢家 — 挑选赢家是集中官僚机构自上而下钦定单一企业或排他性技术路线；嵌入型网络治理则同时并行资助多条竞争性技术方案，交由工程性能指标与客观里程碑筛选胜出者。
-> - 不等于 消极边界跨越或经纪人 — 传统[[Boundary Spanner|边界跨越者]]通常仅在异质群体间[[Transfer Translation Transformation|转译]]信息或充当唯一接触点；嵌入型网络治理中的行动者主动裁剪瓶颈链接、编排竞合团队，重构网络连接形态。
+> - 不等于 消极边界跨越或经纪人 — 传统[[Boundary Spanner|边界跨越者]]通常仅在异质群体间转译信息或充当唯一接触点；嵌入型网络治理中的行动者主动裁剪瓶颈链接、编排竞合团队，重构网络连接形态。
 > - 不等于 广义[[Network Governance|网络治理]] — 广义网络治理泛指以多中心横向协商替代垂直行政的一般形态；嵌入型网络治理专注于硬科技颠覆性创新，强调基于微观非正式制度重构技术研发网络的能动性机制。
 
 ---

@@ -7,7 +7,7 @@ aliases:
 summary: "大众媒体在选择、加工与呈现现实时所遵循的组织惯例、格式规程与新闻价值体系，在教育治理中迫使政策行动者积累媒介资本并以危机叙事迎合媒体规则"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 28
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -33,11 +33,8 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Data Infrastructure]]"
   - "[[Rashomon Effect]]"
-  - "[[Transfer Translation Transformation]]"
-  - "[[Document]]"
 related_theories: []
-related_methods:
-  - "[[Coding in Qualitative Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Michael Gove]]"
@@ -54,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Media Logic
@@ -80,7 +77,7 @@ updated: 2026-10-07
 
 > [!boundary]- 概念边界
 > - 不等于 [[Governance by Spin]] — 后者侧重政治家主动雇佣公关顾问策划新闻包装，而媒介逻辑指媒介机构自身固有的制度运作生态与语法规则。
-> - 不等于 [[Governing by Numbers]] — 后者关注量化指标与算法技术如何充当治理手段，媒介逻辑关注量化数字如何被大众媒体的叙事与视觉格式所重新[[Coding in Qualitative Research\|编码]]。
+> - 不等于 [[Governing by Numbers]] — 后者关注量化指标与算法技术如何充当治理手段，媒介逻辑关注量化数字如何被大众媒体的叙事与视觉格式所重新编码。
 
 ---
 
@@ -211,5 +208,5 @@ updated: 2026-10-07
 > | [[PISA]] | Fact (Program) | 媒介逻辑展现其排列表狂热与危机炒作的最核心全球实证测验载体。 |
 > | [[OECD]] | Fact (Organization) | 顺应媒介逻辑制作全彩简报与口号幻灯片以维系自身品牌霸权的跨国机构。 |
 > | [[2014 Open Letter on PISA]] | Fact (Event) | 学术界借助大众媒介公开谴责 PISA 危害、抵制跨国数据治理霸权的标志性反抗事件。 |
-> | [[Paul Morris]] | Person | 深入研究媒介逻辑在跨国评估[[Transfer Translation Transformation\|转译]]与本土政策治理中异化作用的核心学者。 |
-> | [[Argument_Grey_2018_CE\|Grey & Morris (2018)]] | Argument | 剖析英格兰应对 PISA 2012 过程中媒介逻辑与媒介资本运作机制的代表性[[Document\|文献]]。 |
+> | [[Paul Morris]] | Person | 深入研究媒介逻辑在跨国评估转译与本土政策治理中异化作用的核心学者。 |
+> | [[Argument_Grey_2018_CE\|Grey & Morris (2018)]] | Argument | 剖析英格兰应对 PISA 2012 过程中媒介逻辑与媒介资本运作机制的代表性文献。 |

@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19"
 argument_display_title: "Research Methods in Education · Ch19"
 argument_kind: "book-chapter"
-argument_related_count: 52
+argument_related_count: 51
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -40,7 +40,6 @@ related_concepts:
   - "[[Virtual World]]"
   - "[[Ideal Speech Situation]]"
   - "[[Operationalization]]"
-  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Emergence]]"
   - "[[School Effectiveness]]"
@@ -130,7 +129,7 @@ updated: 2026-10-08
 #### 计算机模拟的定义、类型与目的
 
 > [!def] 计算机模拟的核心定义
-> [[Computer Simulation\|计算机模拟]]是对真实世界系统的计算机表征，包含两个主要组成部分：研究者感兴趣、适合被建模或模拟的相互关联特征系统，以及该系统的模型，通常是数学类似物（Wilcox, 1997）。模拟将理论[[Operationalization\|操作化]]并转化为计算机程序，使其[[Hypothesis\|假设]]显性化（Gilbert & Troitzsch, 2005, p. 3）（p. 147）。
+> [[Computer Simulation\|计算机模拟]]是对真实世界系统的计算机表征，包含两个主要组成部分：研究者感兴趣、适合被建模或模拟的相互关联特征系统，以及该系统的模型，通常是数学类似物（Wilcox, 1997）。模拟将理论[[Operationalization\|操作化]]并转化为计算机程序，使其假设显性化（Gilbert & Troitzsch, 2005, p. 3）（p. 147）。
 
 > [!contrast-table] 两类模拟的对比
 > | 特征 | 确定性模拟（Deterministic） | 随机模拟（Stochastic） |

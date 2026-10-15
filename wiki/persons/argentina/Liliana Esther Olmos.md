@@ -9,7 +9,7 @@ summary: "阿根廷裔比较教育社会学者，加州大学洛杉矶分校拉�
 type: person
 nationality: argentina
 person_region: "argentina"
-person_related_count: 21
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Dual School System]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Critical Pedagogy]]"
-  - "[[Document]]"
   - "[[Praxis]]"
   - "[[Cosmopolitanism]]"
 related_theories:
@@ -53,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-28
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Liliana Esther Olmos
@@ -78,15 +77,15 @@ updated: 2026-10-09
 
 > [!timeline] 生平与职涯
 > - **1980s–1990s** 在阿根廷及拉美从事成人教育、识字运动与教育社会学研究，亲历拉美威权军政府向代议民主制转型及债务危机背景下的结构调整。
-> - **2000s–至今** 任职于加州大学洛杉矶分校（UCLA）拉丁美洲中心与教育研究生院，与[[Carlos Alberto Torres|托雷斯]]等学者密切合作，主攻全球化政治经济学、国家理论与第三世界教育政策批判。
+> - **2000s–至今** 任职于加州大学洛杉矶分校（UCLA）拉丁美洲中心与教育研究生院，与托雷斯等学者密切合作，主攻全球化政治经济学、国家理论与第三世界教育政策批判。
 
 ---
 
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **2009 — *Theories of The State, Educational Expansion, Development, and Globalizations: Marxian and Critical Approaches*** （与 [[Carlos Alberto Torres|托雷斯]]合著，收录于《比较教育学国际手册》）系统构建国家理论与教育扩张的宏观政治经济学[[Analytic Framework|分析框架]]，批判世界体系论与世界文化论，奠定[[Conditioned State Theory|受限国家理论]]。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 73–86)]]
-> - **2011 — *In the Shadow of Neoliberalism: Thirty Years of Educational Reform in North America*** （与 [[Carlos Alberto Torres|托雷斯]]及 Rich Van Heertum 合编）系统剖析新自由主义重组三十年来对北美及拉美教育、公民身份与民主政治的深刻冲击。
+> - **2009 — *Theories of The State, Educational Expansion, Development, and Globalizations: Marxian and Critical Approaches*** （与 托雷斯合著，收录于《比较教育学国际手册》）系统构建国家理论与教育扩张的宏观政治经济学[[Analytic Framework|分析框架]]，批判世界体系论与世界文化论，奠定[[Conditioned State Theory|受限国家理论]]。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 73–86)]]
+> - **2011 — *In the Shadow of Neoliberalism: Thirty Years of Educational Reform in North America*** （与 托雷斯及 Rich Van Heertum 合编）系统剖析新自由主义重组三十年来对北美及拉美教育、公民身份与民主政治的深刻冲击。
 > - **拉美教育政治社会学与扫盲研究** 长期参与拉美成人教育政策演进、教师工会运动与替代性教育方案的经验考察与批判反思。
 
 ---
@@ -118,7 +117,7 @@ updated: 2026-10-09
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **长期合作者** [[Carlos Alberto Torres]] — 共同撰写多篇关于国家理论、全球化与拉美教育政治经济学的奠基性[[Document|文献]]。
+> - **长期合作者** [[Carlos Alberto Torres]] — 共同撰写多篇关于国家理论、全球化与拉美教育政治经济学的奠基性文献。
 > - **理论传统** [[Paulo Freire]]、Antonio Gramsci、Karl Marx — 汲取[[Critical Pedagogy|批判教育学]]与[[Praxis|实践哲学]]思想养分。
 > - **[[Analytic Framework|分析框架]]** [[Conditioned State Theory]]、[[Compensatory Legitimation]]、[[Financial-Intellectual Complex]]。
 
@@ -130,7 +129,7 @@ updated: 2026-10-09
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Conditioned State Theory]] | 理论 | 与[[Carlos Alberto Torres\|托雷斯]]共同拓展并系统阐述该理论对第三世界教育扩张与结构依附的解释机制。 |
+> | [[Conditioned State Theory]] | 理论 | 与托雷斯共同拓展并系统阐述该理论对第三世界教育扩张与结构依附的解释机制。 |
 > | [[Compensatory Legitimation]] | 理论 | 剖析受限国家如何利用教育文凭供给向大众阶层实施合法化政治补偿。 |
 > | [[State Corporatism]] | 理论 | 分析拉美国家如何通过[[Neocorporatism\|法团主义]]架构操控教师工会与民众联盟，稳定资本积累秩序。 |
 > | [[World Society Theory]] | 理论 | 批判该理论忽视阶级权力对抗、帝国主义宰制与物质利益冲突的非历史[[Cosmopolitanism\|普世主义]]偏见。 |

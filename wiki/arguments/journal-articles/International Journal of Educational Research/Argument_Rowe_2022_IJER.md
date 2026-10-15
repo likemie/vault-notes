@@ -20,13 +20,12 @@ tags:
   - region/australia
 related_concepts:
   - "[[Educational Brokerage Agency]]"
-  - "[[Assemblage]]"
   - "[[Venture Philanthropy]]"
   - "[[Policy Network]]"
   - "[[Value Neutrality]]"
   - "[[Evidence-Based Education]]"
   - "[[Discourse]]"
-  - "[[Transfer Translation Transformation]]"
+  - "[[Assemblage]]"
   - "[[Co-affiliation]]"
   - "[[Epistemology]]"
   - "[[Policy Mobility]]"
@@ -81,7 +80,7 @@ title: "Argument_Rowe_2022_IJER"
 argument_key: "Argument_Rowe_2022_IJER"
 argument_display_title: "The assemblage of inanimate objects in educational research: Mapping venture philanthropy, policy networks and evidence brokers"
 argument_kind: "journal-article"
-argument_related_count: 44
+argument_related_count: 43
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -98,10 +97,10 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 在当代全球教育治理与循证改革浪潮中，各国政府日益热衷于设立超党派、客观中立的独立国家[[Educational Brokerage Agency\|证据中介机构]]（evidence broker）。此类机构宣称通过[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT）与标准化量规剔除政治意识形态干扰，加速科研成果向课堂实践转化。然而，此类机构真实的制度创生脉络、权力网络与资本基础究竟为何？本文旨在深入探究澳大利亚国家级教育科研实体[[Australian Education Research Organisation\|澳大利亚教育研究组织]]（Australian Education Research Organisation, AERO）如何被构想、游说并[[Assemblage\|装配]]为制度实体，揭示在其公共中立表象之下，由跨国[[Venture Philanthropy\|风险慈善]]（Venture Philanthropy）资本、企业管理咨询寡头与国家立法机器深度协同的[[Policy Network\|政策网络]]。（pp. 1–3）
+> 在当代全球教育治理与循证改革浪潮中，各国政府日益热衷于设立超党派、客观中立的独立国家[[Educational Brokerage Agency\|证据中介机构]]（evidence broker）。此类机构宣称通过[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT）与标准化量规剔除政治意识形态干扰，加速科研成果向课堂实践转化。然而，此类机构真实的制度创生脉络、权力网络与资本基础究竟为何？本文旨在深入探究澳大利亚国家级教育科研实体[[Australian Education Research Organisation\|澳大利亚教育研究组织]]（Australian Education Research Organisation, AERO）如何被构想、游说并装配为制度实体，揭示在其公共中立表象之下，由跨国[[Venture Philanthropy\|风险慈善]]（Venture Philanthropy）资本、企业管理咨询寡头与国家立法机器深度协同的[[Policy Network\|政策网络]]。（pp. 1–3）
 
 > [!claim] 核心主张
-> 国家级教育[[Educational Brokerage Agency\|证据经纪人]]并非脱离政治纷争的[[Value Neutrality\|价值中立]]科学实体，而是由特定政策网络策略性构筑的无生命客体[[Assemblage\|装配]]体；其客观中立与科学严谨的外观犹如纵贯荒原的防野狗围栏，在欧几里得物理空间与关系功能空间中将企业法注册、法案修改条款、公司章程、因果实验与证据量规固化为耐用材料，实质上掩蔽了麦肯锡系风险慈善枢纽[[Social Ventures Australia\|澳大利亚社会创投]]（Social Ventures Australia, SVA）长达十年的政策游说，确立了国家教育科研向私有资本与营利咨询分包的合法通道，深层重塑了公共教育的资本流动与权力生态。（pp. 1–4）
+> 国家级教育[[Educational Brokerage Agency\|证据经纪人]]并非脱离政治纷争的[[Value Neutrality\|价值中立]]科学实体，而是由特定政策网络策略性构筑的无生命客体装配体；其客观中立与科学严谨的外观犹如纵贯荒原的防野狗围栏，在欧几里得物理空间与关系功能空间中将企业法注册、法案修改条款、公司章程、因果实验与证据量规固化为耐用材料，实质上掩蔽了麦肯锡系风险慈善枢纽[[Social Ventures Australia\|澳大利亚社会创投]]（Social Ventures Australia, SVA）长达十年的政策游说，确立了国家教育科研向私有资本与营利咨询分包的合法通道，深层重塑了公共教育的资本流动与权力生态。（pp. 1–4）
 
 > [!concept-lens] 阅读透镜
 > - **研究对象** 澳大利亚教育研究组织（AERO）长达十年的创生历程、公司注册历史档案、相关立法修正案及底层政策网络拓扑。
@@ -117,7 +116,7 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Actor-Network Theory\|行动者网络理论与关系物质性]]**<br>[[Actor-Network Theory]] | 借鉴约翰·劳（John Law）关于网络具身于耐用材料（durable materials）的思想，将[[Policy Network\|政策网络]]理解为人类与非人类实体的[[Assemblage\|装配]]体；权力并非既定原因或科层层级，而是网络异质要素持续[[Transfer Translation Transformation\|转译]]与精心遮蔽后的网络效果。（pp. 2, 4） |
+> | **[[Actor-Network Theory\|行动者网络理论与关系物质性]]**<br>[[Actor-Network Theory]] | 借鉴约翰·劳（John Law）关于网络具身于耐用材料（durable materials）的思想，将[[Policy Network\|政策网络]]理解为人类与非人类实体的装配体；权力并非既定原因或科层层级，而是网络异质要素持续转译与精心遮蔽后的网络效果。（pp. 2, 4） |
 > | **[[Assemblage\|无生命客体的装配隐喻]]**<br>[[Assemblage]] | 运用澳大利亚防野狗围栏（dingo fence）隐喻，阐明铁丝木桩、法案条款、公司章程、咨询合同与评估量规等无生命客体如何在空间中维系形状，改变整个生态系统的物种运动与生存环境。（pp. 1–2） |
 > | **[[Policy Network\|政策网络与异质治理]]**<br>[[Policy Network]] | 借鉴[[Stephen Ball\|斯蒂芬·鲍尔]]（Stephen J. Ball）的全球政策网络视角，解析政府官僚、跨国投行、慈善信托与商业顾问构成的异质层级（heterarchy）治理结构及其[[Co-affiliation\|共同从属]]（co-affiliations）特征。（pp. 2, 8） |
 > | **[[Venture Philanthropy\|风险慈善与金融化中介语系]]**<br>[[Venture Philanthropy]] | 揭示风险慈善机构如何将风险投资和私募股权纪律引入公共领域，运用证据经纪（brokerage）、买入（buy in）等源自金融交易的术语重构国家教育科研议程与价值体系。（pp. 3–4） |
@@ -167,7 +166,7 @@ issuing_organization: ""
 
 #### 1. 防野狗围栏隐喻与证据中介的客观中立神话
 
-长达 5600 公里的防野狗围栏横跨澳大利亚三个州管辖区，其长度是英伦三岛的四倍、美墨边界的两倍。作为由铁丝与木桩构成的人造工程结构，它深层改写了整个大陆袋鼠与野狗的迁徙路线、植被生长与风沙堆积形态；在维系物理屏障的同时，它在关系与功能空间中调动并[[Assemblage|装配]]着野狗围栏管理委员会（Dog Fence Board）、《1946年野狗围栏法》、巡逻承包商合同、卫星电话、巡逻车辆以及毒饵等庞大的制度与物质网络；AERO 正如同荒原上的围栏，通过无生命客体的固化装配，在公共视野中构筑起客观中立的科学表象，掩蔽了深层的权力关系（pp. 1–2）。
+长达 5600 公里的防野狗围栏横跨澳大利亚三个州管辖区，其长度是英伦三岛的四倍、美墨边界的两倍。作为由铁丝与木桩构成的人造工程结构，它深层改写了整个大陆袋鼠与野狗的迁徙路线、植被生长与风沙堆积形态；在维系物理屏障的同时，它在关系与功能空间中调动并装配着野狗围栏管理委员会（Dog Fence Board）、《1946年野狗围栏法》、巡逻承包商合同、卫星电话、巡逻车辆以及毒饵等庞大的制度与物质网络；AERO 正如同荒原上的围栏，通过无生命客体的固化装配，在公共视野中构筑起客观中立的科学表象，掩蔽了深层的权力关系（pp. 1–2）。
 
 > [!policy-context] 证据机构的公共表象与合法性修辞
 > - **中立修辞与技术规约** AERO 宣称自身为超越党派纷争的独立证据经纪人，将核心使命界定为生产高质量证据、传播高质量证据、加速证据在课堂与政策中的应用；通过统一的标准化证据量规（evidence rubrics）与因果实验，声称能够将政治彻底移出课堂。（p. 2）

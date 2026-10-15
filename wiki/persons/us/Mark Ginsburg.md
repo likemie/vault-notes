@@ -40,8 +40,8 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Liliana Esther Olmos]]"
-  - "[[Carlos Alberto Torres]]"
   - "[[Joel Samoff]]"
+  - "[[Carlos Alberto Torres]]"
   - "[[Martin Carnoy]]"
 related_facts: []
 related_arguments:
@@ -63,7 +63,7 @@ updated: 2026-10-07
 > - **核心角色** 将新马克思主义国家[[Critical Theory|批判理论]]、[[Dependency Theory|依附论]]与教师专业化劳动力过程深度引入比较教育学的关键领军学者；通过主编出版《全球语境下的教育改革理解》（1991），率先系统构建了“经济、意识形态与国家（Economy, Ideology, and the State）”三维互动的全球教育改革[[Analytic Framework|分析框架]]。
 > - **代表贡献** 创立全球教育改革三维结构分析模型；长期主持《比较教育评论》学术引领导向；主编出版经典《全球语境下的教育改革理解：经济、意识形态与国家》（1991）与《冲突与[[Critical Pedagogy|批判教育学]]》（1995）。
 
-> [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]论金斯伯格等学者对转型社会教育改革的关键理论贡献
+> [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论金斯伯格等学者对转型社会教育改革的关键理论贡献
 > 同样，处于剧烈社会转型中的社会的教育改革，吸引了众多批判学者的深入关注（Carnoy & Samoff, 1990; Torres, 1991; Ginsburg, 1991）。在分析墨西哥等国[[State Corporatism|国家法团主义]]体制下的教育政策形成时，金斯伯格主编的经典框架为揭示国家、阶级意识形态与跨国经济约束的复杂互动提供了强有力的理论依据。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 75, 86)]]
 >
 > *Likewise, educational reform in societies undergoing rapid social transformation has attracted the attention of scholars (Carnoy & Samoff, 1990; Torres, 1991; Ginsburg, 1991)... Ginsburg, M. (Ed.) (1991). Understanding Educational Reform in Global Context: Economy, Ideology, and the State.*
@@ -112,7 +112,7 @@ updated: 2026-10-07
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 开创了“经济-意识形态-国家”三维教育改革政治社会学[[Analytic Framework|分析框架]]，为[[Carlos Alberto Torres|托雷斯]]、[[Joel Samoff|萨莫夫]]等学者深入研究墨西哥、坦桑尼亚、古巴等国教育转型提供了[[Paradigm|范式]]支撑。
+> - **理论路径** 开创了“经济-意识形态-国家”三维教育改革政治社会学[[Analytic Framework|分析框架]]，为托雷斯、[[Joel Samoff|萨莫夫]]等学者深入研究墨西哥、坦桑尼亚、古巴等国教育转型提供了[[Paradigm|范式]]支撑。
 > - **期刊与学术领导力** 担任《比较教育评论》（CER）主编期间，打破西方中心主义垄断，开辟“反思与对话”专栏，大幅提升拉美、非洲学者与马克思主义批判视角的发声平台。
 
 ---

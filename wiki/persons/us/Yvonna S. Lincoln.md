@@ -8,7 +8,7 @@ summary: "美国教育研究方法论学者，与 Guba 合著 Naturalistic Inqui
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 10
+person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Sage]]"
   - "[[Reliability]]"
-  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Qualitative Research]]"
@@ -39,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-05
+updated: 2026-10-15
 ---
 # Yvonna S. Lincoln
 
@@ -68,4 +67,4 @@ updated: 2026-10-05
 > [!success]
 > - *[[Interpretive Paradigm\|naturalistic inquiry]]*（1985）确立了[[Qualitative Research\|质性研究]]作为独立合法[[Paradigm\|范式]]的方法论地位
 > - 与 Norman K. Denzin 共同主编的 *Handbook of Qualitative Research*（[[Sage]], 多版次）已成为质性研究方法领域的标准参考书，汇集各范式代表性学者的方法论论述
-> - 与 Guba 提出的模式理论（pattern theories）为质性研究提供了一种区别于量化演绎[[Hypothesis\|假设]]检验的理论生成逻辑
+> - 与 Guba 提出的模式理论（pattern theories）为质性研究提供了一种区别于量化演绎假设检验的理论生成逻辑

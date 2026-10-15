@@ -32,7 +32,6 @@ related_concepts:
   - "[[Valley of Death]]"
   - "[[Securitization of Technology]]"
   - "[[Process Design Kit]]"
-  - "[[Document]]"
   - "[[Assemblage]]"
   - "[[Grandes Ecoles]]"
   - "[[Curiosity-Driven Research]]"
@@ -97,7 +96,7 @@ title: "Argument_NSTC_2024_MicroelectronicsResearch"
 argument_key: "Argument_NSTC_2024_MicroelectronicsResearch"
 argument_display_title: "National strategy on microelectronics research (as amended April 2025)"
 argument_kind: "report"
-argument_related_count: 59
+argument_related_count: 58
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dcfce7"
@@ -152,7 +151,7 @@ publisher: "Executive Office of the President of the United States"
 > | 样本层面 | 构成 |
 > |---|---|
 > | **战略文本** | 白宫国家科学技术委员会《国家微电子研究战略》（55 页完整报告，2024 年 3 月发布，2025 年 4 月修订版）。 |
-> | **法定与政策[[Document\|文献]]** | 《2021财年国防授权法案》（P.L. 116-283）、《2022年[[CHIPS and Science Act\|芯片与科学法案]]》（P.L. 117-167）、白宫百日供应链审查报告及工业咨询委员会（IAC）系列报告。 |
+> | **法定与政策文献** | 《2021财年国防授权法案》（P.L. 116-283）、《2022年[[CHIPS and Science Act\|芯片与科学法案]]》（P.L. 117-167）、白宫百日供应链审查报告及工业咨询委员会（IAC）系列报告。 |
 > | **覆盖机构与网络** | 包含 DOC（NSTC、[[National Advanced Packaging Manufacturing Program\|NAPMP]]、NIST）、DOD（DARPA、[[Microelectronics Commons]]）、[[Department of Energy\|DOE]]（国家实验室设施）、NSF（[[National Nanotechnology Coordinated Infrastructure\|NNCI]] 用户设施网络）及全美产学研合作项目。 |
 
 ---

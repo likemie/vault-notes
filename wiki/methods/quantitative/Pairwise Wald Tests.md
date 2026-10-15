@@ -10,7 +10,7 @@ summary: "在元分析与调节效应建模中，用于检验三个或更多亚�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 27
+method_related_count: 26
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Argument Mapping]]"
   - "[[Concept Mapping]]"
   - "[[Epistemology]]"
-  - "[[Hypothesis]]"
   - "[[Sampling Error]]"
   - "[[Graphic Organizer]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -56,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Pairwise Wald Tests
@@ -85,7 +84,7 @@ updated: 2026-10-12
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 统计推断后设验证：将宏观分类维度的总体变异细化为微观亚组间的阶梯式因果比较，避免因笼统的大类合并而掩盖内在层级机制。
-> - **研究者角色** 在理论指导下预设分类层级，并在拒绝总同质性[[Hypothesis\|假设]]后执行严谨的事后推断检验，避免无依据的多重事后数据窥探。
+> - **研究者角色** 在理论指导下预设分类层级，并在拒绝总同质性假设后执行严谨的事后推断检验，避免无依据的多重事后数据窥探。
 > - **有效性标准** 统计结论效度（检验各亚组[[Effect Size\|效应量]]方差估计的准确性与[[Sample Size Determination\|样本量]]充分性）与多重假设检验的族系误差率控制（Family-Wise Error Rate, FWER）。
 > - **不声称回答的问题** 不能替代连续[[Variable\|变量]]的函数形态拟合（连续趋势应采用[[Meta-regression\|元回归]]），亦不能脱离总模型独立解释未被控制的混杂变量。
 
@@ -118,7 +117,7 @@ updated: 2026-10-12
 >   - 效应量估计：亚组 $j$ 的合并效应量 $\hat{\theta}_j$ 与亚组 $k$ 的合并效应量 $\hat{\theta}_k$。
 >   - 联合方差：独立亚组间抽样方差之和 $\text{Var}(\hat{\theta}_j) + \text{Var}(\hat{\theta}_k)$。
 > - **模型或统计量** Wald $\chi^2$ 统计量（$W$）。
-> - **诊断与检验** 正态性渐近[[Hypothesis\|假设]]检查、各亚组样本量均衡度与多重检验校正。
+> - **诊断与检验** 正态性渐近假设检查、各亚组样本量均衡度与多重检验校正。
 
 > [!formula-step] 公式步骤　独立亚组成对 Wald 统计量计算
 > $$W_{jk} = \frac{(\hat{\theta}_j - \hat{\theta}_k)^2}{\text{Var}(\hat{\theta}_j) + \text{Var}(\hat{\theta}_k)} \sim \chi^2(1)$$
@@ -165,7 +164,7 @@ updated: 2026-10-12
 
 > [!method-limits] 方法局限
 > - **偏误来源** 多重比较累积 I 型错误风险；小样本亚组方差估计不足导致 Wald 检验功效偏低。
-> - **适用边界** 依赖于大样本渐近正态性[[Hypothesis\|假设]]；当各组[[Effect Size\|效应量]]高度相关但协方差未被建模时，可能产生有偏推断。
+> - **适用边界** 依赖于大样本渐近正态性假设；当各组[[Effect Size\|效应量]]高度相关但协方差未被建模时，可能产生有偏推断。
 > - **误用风险** 在总 $Q_{between}$ 检验不显著的情况下盲目开展大量未经校正的事后成对检验，导致假阳性发现。
 > - **补救方式** 结合 Bonferroni 或 FDR 校正；配合[[Confidence Interval\|置信区间]]重叠度检验；在多水平框架下建模研究内相关性。
 

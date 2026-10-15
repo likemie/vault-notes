@@ -7,16 +7,15 @@ aliases:
 summary: "教师关于评价本质、目的与价值的内隐信念体系，涵盖改进教学、学校问责、学生问责与无关性四种取向，直接决定评价数据在课堂中的实际功用"
 type: concept
 domain: "competency-and-assessment"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/assessment
   - theme/teacher-beliefs
   - paradigm/quantitative
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Construct]]"
   - "[[Reliability]]"
   - "[[Reflexivity]]"
@@ -32,7 +31,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-16
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Teacher Conceptions of Assessment
@@ -45,7 +44,7 @@ updated: 2026-09-17
 > **教师评价观（Teacher Conceptions of Assessment, COA）**指教师对学生学业评价的本质属性、教育功能及其在学校组织中合法用途所持有的内隐认知图式、价值判断与态度倾向（Brown (2004)；[[Argument_Hattie_2005_ACER\|Hattie, 2005, p. 17]]）。该概念揭示了外部测评数据转化为实际教学行动的认知过滤机制，表明教师并非中立执行数据反馈的被动中介，而是依据自身评价信念对证据进行筛选、接纳或抵制的主动诠释者。
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向教师心智中关于“为何评价、为谁评价以及评价结果意味着什么”的根本性[[Hypothesis\|假设]]。
+> - **含义** 指向教师心智中关于“为何评价、为谁评价以及评价结果意味着什么”的根本性假设。
 > - **用途** 解释为何大量外部测评数据与诊断工具在推向学校后往往被弃置或引发防御性应对。
 > - **边界** 聚焦于教师对评价功能的主观理解与意图[[Construct\|构念]]，不同于客观的评价素养（Assessment Literacy）操作技能测验。
 

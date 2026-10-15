@@ -9,9 +9,9 @@ aliases:
 summary: "由美国援助教育理事会开发的标准化表现性评价工具，采用真实情境表现任务与选答题评估大学生的批判性思维、分析推理、问题解决与书面沟通能力"
 type: instrument
 instrument_type: test
-instrument_related_count: 15
-instrument_related_level: 3
-instrument_related_stars: "⭐⭐⭐"
+instrument_related_count: 14
+instrument_related_level: 2
+instrument_related_stars: "⭐⭐"
 instrument_related_color: "#dbeafe"
 part_of: ""
 developers:
@@ -39,7 +39,6 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Learning Gain]]"
   - "[[Reliability]]"
-  - "[[Hypothesis]]"
   - "[[Document]]"
   - "[[Going Native]]"
   - "[[Construct]]"
@@ -58,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-09-07
+updated: 2026-10-15
 ---
 
 # Collegiate Learning Assessment
@@ -91,7 +90,7 @@ updated: 2026-09-07
 > | **表现任务：[[Problem Solving\|问题解决]]（Problem Solving）** | 同上 | 综合多源信息、形成可行方案并对潜在后果进行逻辑推演的能力。 | 6 分量表评分量规 |
 > | **表现任务：书面有效沟通（Writing Effectiveness）** | 同上 | 观点明确、论证结构严密、逻辑连贯且用词精准的论述表达能力。 | 6 分量表评分量规 |
 > | **表现任务：写作规范（Writing Mechanics）** | 同上 | 语法、标点、拼写及句式结构的规范性与专业性。 | 6 分量表评分量规 |
-> | **选答题：科学与定量推理（Scientific & Quantitative Reasoning）** | 10 题 | 解释实验数据、检验[[Hypothesis\|假设]]、识别统计谬误与因果推论有效性。 | 客观评分（0/1 计分） |
+> | **选答题：科学与定量推理（Scientific & Quantitative Reasoning）** | 10 题 | 解释实验数据、检验假设、识别统计谬误与因果推论有效性。 | 客观评分（0/1 计分） |
 > | **选答题：批判性阅读与评价（Critical Reading & Evaluation）** | 10 题 | 分析文本逻辑结构、识别隐含假设与评估论据充分性。 | 客观评分（0/1 计分） |
 > | **选答题：质疑逻辑谬误（Critique an Argument）** | 5 题 | 识别论证中的常见逻辑谬误（如以偏概全、假二分法、偷换概念等）。 | 客观评分（0/1 计分） |
 

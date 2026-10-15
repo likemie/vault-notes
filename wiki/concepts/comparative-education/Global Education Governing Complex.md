@@ -6,7 +6,7 @@ aliases:
 summary: "Christian Ydesen (2019) 提出的概念，指由五大政府间组织、主权国家、跨国企业与私人慈善基金会构成的治理网络，通过标准化与可量化知识施展硬事实软权力。"
 type: concept
 domain: "comparative-education"
-related_count: 37
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Transfer Space]]"
   - "[[Policy Borrowing]]"
   - "[[Methodological Transnationalism]]"
-  - "[[Document]]"
   - "[[Variable]]"
   - "[[Performance Indicators]]"
 related_theories:
@@ -61,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-09-26
+updated: 2026-10-15
 ---
 
 # Global Education Governing Complex
@@ -197,7 +196,7 @@ updated: 2026-09-26
 > > 争论全球治理复合体是否具有不可阻挡的同质化效力，抑或受制于本土政治过滤。
 > >
 > > - **全球[[Convergence Theory in Comparative Education\|趋同论]]** 强调复合体通过全球目标、排名压力与跨国[[Policy Borrowing\|政策借用]]制造了强大的趋同重力，削弱了主权国家教育体系的本土自主性。
-> > - **[[Methodological Transnationalism\|方法论跨国主义]]论** 指出全球与国家并非外在对立，主权国家在[[Transfer Space\|转移空间]]中策略性动员外部权威以打破国内政治僵局，但在法定行政决策出台阶段实施极其严苛的政治筛选（如挪威实证所示[[Document\|文献]]损耗率达 95%）。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 546–548)]]
+> > - **[[Methodological Transnationalism\|方法论跨国主义]]论** 指出全球与国家并非外在对立，主权国家在[[Transfer Space\|转移空间]]中策略性动员外部权威以打破国内政治僵局，但在法定行政决策出台阶段实施极其严苛的政治筛选（如挪威实证所示文献损耗率达 95%）。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 546–548)]]
 >
 > > [!axis] 民主授权赤字与新自由主义价值偏向
 > > 批评该复合体内部核心经济与金融组织缺乏民选合法性，却主导了公共教育价值导向。

@@ -11,9 +11,9 @@ summary: "基于潜在特质与概率函数的现代心理测量与测验理论�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 33
-method_related_level: 4
-method_related_stars: "⭐⭐⭐⭐"
+method_related_count: 30
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - theme/measurement
@@ -21,7 +21,6 @@ tags:
   - theme/psychometrics
   - method/quantitative
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Computerized Adaptive Testing]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
@@ -31,7 +30,6 @@ related_concepts:
   - "[[Feedback]]"
   - "[[Paradigm]]"
   - "[[Center of Calculation]]"
-  - "[[Document]]"
   - "[[Data Infrastructure]]"
   - "[[Topological Spatialisation]]"
 related_theories:
@@ -57,12 +55,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]]"
   - "[[Argument_Hartong_2018_GSE]]"
-related_instruments:
-  - "[[Consensual Assessment Technique]]"
+related_instruments: []
 confidence: high
 status: stable
 created: 2026-07-24
-updated: 2026-09-18
+updated: 2026-10-15
 ---
 
 # Item Response Theory
@@ -72,7 +69,7 @@ updated: 2026-09-18
 ## 定义
 
 > [!def] 方法定义
-> 项目反应理论（Item Response Theory, IRT；又称潜在特质理论 Latent Trait Theory）是现代心理与教育测量学的核心量化建模方法体系。该方法[[Hypothesis\|假设]]个体的可观测测验反应由不可直接观测的潜在特质（Latent Traits, $\theta$）与测验题目的内在计量属性（难度、区分度、伪猜测率）共同决定的非线性数学概率函数所支配；其核心计量突破在于实现了**题目参数估计的样本无关性（Sample Invariance）**与**受试者能力估计的测验题目无关性（Item Invariance）**，为跨时空测验等值、[[Computerized Adaptive Testing\|计算机自适应测验]]（Computerized Adaptive Testing, [[Consensual Assessment Technique\|CAT]]）与大规模国家教育监测题库标定提供了根本方法学支撑。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24\|(Ch24, 24.5 节)]]; [[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 140–141)]]
+> 项目反应理论（Item Response Theory, IRT；又称潜在特质理论 Latent Trait Theory）是现代心理与教育测量学的核心量化建模方法体系。该方法假设个体的可观测测验反应由不可直接观测的潜在特质（Latent Traits, $\theta$）与测验题目的内在计量属性（难度、区分度、伪猜测率）共同决定的非线性数学概率函数所支配；其核心计量突破在于实现了**题目参数估计的样本无关性（Sample Invariance）**与**受试者能力估计的测验题目无关性（Item Invariance）**，为跨时空测验等值、[[Computerized Adaptive Testing\|计算机自适应测验]]（Computerized Adaptive Testing, CAT）与大规模国家教育监测题库标定提供了根本方法学支撑。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24\|(Ch24, 24.5 节)]]; [[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 140–141)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 个体在标准化测验、量表[[Questionnaire\|问卷]]或认知任务中的离散反应数据（二分作答如对/错，或多分类等级作答如[[Likert Scale\|李克特量表]]评分）。
@@ -109,7 +106,7 @@ updated: 2026-09-18
 
 > [!proc] IRT 标准实施程序
 > 1. **[[Construct\|构念]]界定与题库编制** 明确界定潜在特质内涵，编写覆盖不同认知层级的大规模候选试题池。
-> 2. **预试与基本[[Hypothesis\|假设]]检验** 施测大样本预试数据，运用探索性/[[Confirmatory Factor Analysis\|验证性因子分析]]检验**单维性假设（Unidimensionality）**与**局部独立性假设（Local Independence）**。
+> 2. **预试与基本假设检验** 施测大样本预试数据，运用探索性/[[Confirmatory Factor Analysis\|验证性因子分析]]检验**单维性假设（Unidimensionality）**与**局部独立性假设（Local Independence）**。
 > 3. **模型选型与参数标定** 根据题目类型与[[Sample Size Determination\|样本量]]选择 1PL（Rasch）、2PL、3PL 或多分式等级反应模型（GRM），估计[[Item Analysis\|题目难度]]（$b_i$）、区分度（$a_i$）与猜测参数（$c_i$）。
 > 4. **项目拟合诊断与题库清洗** 剔除严重偏离特征曲线、存在作弊猜测干扰或具有群体偏倚（DIF）的不良题目，建立高质量标定题库。
 > 5. **量表链接与等值转换** 运用共同题或共同被试设计，将不同试卷或不同施测年份的参数统一转换到国家标准基准量尺上（如将均值标定为 500，标准差标定为 100）。
@@ -189,7 +186,7 @@ updated: 2026-09-18
 > - **适合使用**
 >   1. **国家与跨国大型教育监测（[[PISA]]、[[TIMSS]]、[[Vergleichsarbeiten\|VERA]]）** 不同国家或学生作答不同试卷模块（Matrix Sampling），依靠 IRT 共同题实现跨国横向与历时纵向绝对可[[Commensuration\|通约]]等值。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 140–141)]]
 >   2. **国家标准能力量表研制** 如[[Institute for Educational Quality Improvement\|德国教育质量发展研究所]]（[[Institute for Educational Quality Improvement\|IQB]]）利用 IRT 将试题参数划分为 5 级能力水平模型（Kompetenzstufenmodelle），标定全国最低与卓越标准。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, p. 141)]]
->   3. **[[Computerized Adaptive Testing\|计算机自适应测验]]（[[Consensual Assessment Technique\|CAT]]）** 系统根据被试前一道题的作答情况，实时在标定题库中提取信息量最大（难度最接近被试即时 $\theta$）的题目，以极少题量达到极高测量精度。
+>   3. **[[Computerized Adaptive Testing\|计算机自适应测验]]（CAT）** 系统根据被试前一道题的作答情况，实时在标定题库中提取信息量最大（难度最接近被试即时 $\theta$）的题目，以极少题量达到极高测量精度。
 > - **谨慎使用**
 >   - [[Sample Size Determination\|样本量]]小于 300 人的小规模测验（参数估计极不稳定，优先使用 Rasch 模型或[[Classical Test Theory\|经典测验理论]] CTT）；
 >   - 题目包含复杂多维交互且难以分离的综合主观项目。
@@ -201,7 +198,7 @@ updated: 2026-09-18
 ## 局限性与批评
 
 > [!method-limits] 方法局限与风险
-> - **严苛的模型数学[[Hypothesis\|假设]]依赖** 单维性与局部独立性假设在真实复杂教学情境中常难以绝对满足；若题目间存在上下文阅读材料依赖或题组效应（Testlet Effects），会导致[[Standard Error\|标准误]]被严重低估。
+> - **严苛的模型数学假设依赖** 单维性与局部独立性假设在真实复杂教学情境中常难以绝对满足；若题目间存在上下文阅读材料依赖或题组效应（Testlet Effects），会导致[[Standard Error\|标准误]]被严重低估。
 > - **大样本门槛与计算复杂度** 2PL 与 3PL 模型通常要求 500 至 1000 人以上的有效样本方能稳定收敛，研发与维护标定题库的财务与技术成本高昂。
 > - **认知过程的黑箱化简化** IRT 聚焦于终局性的作答对错概率，无法直接捕捉学生解题过程中的即时思维停顿、直觉顿悟或概念误区，需结合认知诊断模型（CDM）或眼动追踪等微观方法加以补充。
 
@@ -217,11 +214,11 @@ updated: 2026-09-18
 > | [[Rasch Measurement]] | 方法 | IRT 中最经典的一参数客观测验模型，强调模型支配数据的测量哲学。 |
 > | [[Computerized Adaptive Testing]] | 概念 | IRT 为自适应测评提供了[[Item Analysis\|题目难度]]与能力即时匹配的核心算法底座。 |
 > | [[Item Analysis]] | 方法 | IRT 参数标定是高级题目分析的核心方法。 |
-> | [[Confirmatory Factor Analysis]] | 方法 | 用于检验 IRT 建模前置条件中的单维性[[Hypothesis\|假设]]。 |
+> | [[Confirmatory Factor Analysis]] | 方法 | 用于检验 IRT 建模前置条件中的单维性假设。 |
 > | [[Commensuration]] | 概念 | IRT 是教育治理中将异质学生表现通约为一维连续量尺的技术机器。 |
 > | [[Center of Calculation]] | 概念 | 计算中心（如 [[Institute for Educational Quality Improvement\|IQB]]）依托 IRT 参数标定掌控国家教育质量的认知定义权。 |
 > | [[Institute for Educational Quality Improvement]] | Fact (Organization) | 德国 IQB 运用 IRT 研发国家题库并标定 5 级能力模型。 |
-> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24\|Cohen et al., 2011]] | Argument | 教材第 24 章系统阐述 IRT 基础原理、样本无关性与 Rasch 模型的[[Document\|文献]]。 |
+> | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24\|Cohen et al., 2011]] | Argument | 教材第 24 章系统阐述 IRT 基础原理、样本无关性与 Rasch 模型的文献。 |
 > | [[Argument_Hartong_2018_GSE\|Hartong, 2018]] | Argument | 剖析 IRT 在德国教育标准跨尺度[[Data Infrastructure\|数据基础设施]]中实现[[Governing at a Distance\|远处治理]]的文献。 |
 
 ---
@@ -229,5 +226,5 @@ updated: 2026-09-18
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24\|Cohen et al. (2011)]] — 系统阐释 IRT 基本原理、潜在特质[[Hypothesis\|假设]]、题目属性与样本独立性、Rasch 模型及 [[Consensual Assessment Technique\|CAT]] 算法。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24\|Cohen et al. (2011)]] — 系统阐释 IRT 基本原理、潜在特质假设、题目属性与样本独立性、Rasch 模型及 CAT 算法。
 > - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 追踪德国 [[Institute for Educational Quality Improvement\|IQB]] 如何运用 IRT 算法将 16 州异质考试转化为统一 5 级能力模型，并运营全国 [[Vergleichsarbeiten\|VERA]] 题库平台实现政策[[Topological Spatialisation\|拓扑重组]]。

@@ -7,7 +7,7 @@ summary: "针对复杂学习情境的研究与教学方法，分析专家认知�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 7
+method_related_count: 6
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#dbeafe"
@@ -18,7 +18,6 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Paradigm]]"
-  - "[[Hypothesis]]"
   - "[[Problem Solving]]"
   - "[[Lateral Thinking]]"
   - "[[Professional Judgment]]"
@@ -30,7 +29,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: 2026-09-11
+updated: 2026-10-15
 ---
 
 ## 定义
@@ -41,7 +40,7 @@ updated: 2026-09-11
 ## 认识论立场
 
 > [!abstract] [[Epistemology\|认识论]]立场
-> CTA 属于认知主义研究[[Paradigm\|范式]]，[[Hypothesis\|假设]]复杂任务表现可通过分析其背后的认知成分（知识组织、决策策略、[[Problem Solving\|问题解决]]路径）来理解和改进。
+> CTA 属于认知主义研究[[Paradigm\|范式]]，假设复杂任务表现可通过分析其背后的认知成分（知识组织、决策策略、[[Problem Solving\|问题解决]]路径）来理解和改进。
 
 ## 操作步骤
 

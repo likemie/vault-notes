@@ -10,9 +10,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 17
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 15
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: "国家科技政策最高决策理事会与法定咨询机构（National Science Policy Governing Board）"
 headquarters: "美国弗吉尼亚州亚历山大市（Alexandria, VA）"
@@ -32,14 +32,12 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[University-Industry Collaboration]]"
   - "[[Going Native]]"
-  - "[[Attrition]]"
   - "[[Public-Private Partnership in Research]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Vannevar Bush]]"
-  - "[[Alfred Nobel]]"
 related_facts:
   - "[[National Science Foundation]]"
   - "[[Science, The Endless Frontier 1945]]"
@@ -51,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # National Science Board
@@ -83,7 +81,7 @@ updated: 2026-10-08
 ## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
-> - **委员会成员（Board Members）** 由 24 名由美国总统任命、经参议院确认的杰出领袖组成（任期 6 年，涵盖顶尖[[Grandes Ecoles|大学校]]长、[[Alfred Nobel|诺贝尔]]奖得主、国家实验室主管与跨国科技企业资深高管）。
+> - **委员会成员（Board Members）** 由 24 名由美国总统任命、经参议院确认的杰出领袖组成（任期 6 年，涵盖顶尖[[Grandes Ecoles|大学校]]长、诺贝尔奖得主、国家实验室主管与跨国科技企业资深高管）。
 > - **[[National Science Foundation|NSF]] 主任（NSF Director）** 作为第 25 位当然成员（Ex-officio Member）参与理事会日常审议与政策协调。
 > - **常设监督与战略委员会** 包括战略委员会（Committee on Strategy）、国家科学与工程政策委员会（SEP）、外部利益相关者参与委员会（AIE）及重大研究设施监督委员会。
 > - **专业科学政策顾问团队与国家统计中心协作** 深度指导国家科学与工程统计中心（NCSES）开展全美研发支出、学术发表与人力资源大样本普查。
@@ -139,7 +137,7 @@ updated: 2026-10-08
 > > - **国家战略派主张** 认为在全球地缘博弈白热化时代，联邦资助必须服务于国家核心利益与关键供应链安全，NSB 必须主动承担统筹国家战略技术攻关的治理责任。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 237–238)]]
 >
 > > [!axis] 国际开放科研生态 vs 关键技术防范与[[Going Native|本土化]]审查
-> > 围绕全美高层次工程科研人才对国际学者的高依赖度，探讨如何平衡学术开放与防范知识产权[[Attrition|流失]]。
+> > 围绕全美高层次工程科研人才对国际学者的高依赖度，探讨如何平衡学术开放与防范知识产权流失。
 > >
 > > - **学术全球化立场** 强调美国科研领导力完全建立在开放吸纳全球顶尖留学生与科学家的基础之上，设置严苛的国籍与安全审查将直接导致美国本土实验室陷入人才枯竭。
 > > - **供应链安全立场** 警示关键先进制程与敏感算法过度依赖非公民人员存在潜在外流风险，主张必须加大国内本土 [[STEM Education|STEM]] 教育投入以重建人才自主可控梯队。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 236–237)]]

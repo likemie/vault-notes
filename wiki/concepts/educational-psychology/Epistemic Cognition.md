@@ -5,7 +5,7 @@ aliases:
 summary: "涵盖个体关于知识和认知过程的所有显性或隐性信念与认知实践活动的总括性术语。是理解学习过程、批判性思维与情境适应的核心变量。"
 type: concept
 domain: "educational-psychology"
-related_count: 79
+related_count: 77
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -13,7 +13,6 @@ tags: []
 related_concepts:
   - "[[Epistemology]]"
   - "[[Justificatory Standards]]"
-  - "[[Document]]"
   - "[[Epistemological Beliefs]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Generative Artificial Intelligence]]"
@@ -21,7 +20,6 @@ related_concepts:
   - "[[Epistemic Agency]]"
   - "[[Trust Calibration]]"
   - "[[Paradigm]]"
-  - "[[Hypothesis]]"
   - "[[Source of Knowledge]]"
   - "[[Construct]]"
   - "[[Epistemic Aims]]"
@@ -112,7 +110,7 @@ updated: 2026-10-15
 > [[Epistemic Cognition\|认识论认知]]是指个体在获取、理解、证成和运用知识时，对“知识本质”（知识是什么）和“认知过程”（如何获得知识）的潜在信念、标准与思维过程。它回答了学习者内心深处的终极问题：“我如何知道我所知道的是真的？”
 
 > [!concept-lens] 概念透镜
-> - **含义** 这个概念指向学生在面对复杂信息时，调用的知识[[Justificatory Standards\|确证标准]]与心智过程。相比于早期[[Document\|文献]]中常用的“[[Epistemological Beliefs\|认识论信念]]（Epistemological Beliefs）”，它是一个更为宽泛且具包容性的伞形术语，强调认知的动态性、情境性和社会互动性。
+> - **含义** 这个概念指向学生在面对复杂信息时，调用的知识[[Justificatory Standards\|确证标准]]与心智过程。相比于早期文献中常用的“[[Epistemological Beliefs\|认识论信念]]（Epistemological Beliefs）”，它是一个更为宽泛且具包容性的伞形术语，强调认知的动态性、情境性和社会互动性。
 > - **用途** 它帮助研究者看见为什么学生在面临学术任务时会采取不同的探究深度，以及为何他们对同一论据会有完全不同的采信标准。
 > - **[[Man-Computer Symbiosis|人机共生]]视界** 在[[Generative Artificial Intelligence\|生成式人工智能]]介入的复杂技术环境中，[[Epistemology\|认识论]]认知拓展为学习者在人机交互中校准算法信任、调适[[Epistemic Stances\|认识立场]]与维持[[Epistemic Agency\|认识主体性]]的高级调控机制。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–360)]]
 > - **边界** 它不适合解释缺乏“追求真实（truth）”动机的纯智力游戏或单纯的话术辩论。
@@ -133,7 +131,7 @@ updated: 2026-10-15
 > [!taxonomy] [[Epistemology\|认识论]]认知的五大理论流派
 > 综合 [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] 的历史梳理与当代最新进展，认识论认知的理论演进可划分为五种代表性[[Paradigm\|范式]]：
 > - **发展模型（Developmental Models）** 发端于 Perry (1970)。该流派认为认识论认知遵循严格的宏观阶段性演进：从早期的绝对主义（Absolutism，知识由权威赋予且简单确定），经历[[Pluralism|多元主义]]（Multiplism，知识皆为主观意见），最终走向成熟的评价主义（Evaluatism，知识是情境建构的，需基于证据进行客观评估）。其代表模型还包括 Kuhn (1991) 的论证发展模型，以及 King & Kitchener (1994) 的[[Reflective Judgment Model\|反思性判断模型]]。
-> - **多维模型（Multidimensional Models）** 以 Schommer (1990) 为开创者。该流派彻底打破了单向线性发展的[[Hypothesis\|假设]]，认为认识论是由若干相对独立、不必同步发展的信念维度组成的系统。[[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] 进一步将其经典化，划分为知识的性质（Nature of knowledge，如简单性、确定性）与认识的性质（Nature of knowing，如[[Source of Knowledge\|知识的来源]]、知识的证成）两大核心[[Construct\|构念]]簇。
+> - **多维模型（Multidimensional Models）** 以 Schommer (1990) 为开创者。该流派彻底打破了单向线性发展的假设，认为认识论是由若干相对独立、不必同步发展的信念维度组成的系统。[[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] 进一步将其经典化，划分为知识的性质（Nature of knowledge，如简单性、确定性）与认识的性质（Nature of knowing，如[[Source of Knowledge\|知识的来源]]、知识的证成）两大核心[[Construct\|构念]]簇。
 > - **哲学驱动模型（Philosophically Driven Models）** 旨在解决早期心理学模型缺乏分析认识论哲学根基的根本缺陷。以 [[Argument_Chinn_2011_EP\|Chinn et al. (2011)]] 及 Chinn, Rinehart & Buckland (2014) 提出的 [[AIR Model of Epistemic Cognition\|AIR]] 框架为代表，该流派将认识论认知拆解为微观网络：包含探究目标的[[Epistemic Aims\|认识论目标]]（Epistemic aims）、评估证据与模型的[[Epistemic Ideals\|认识论理想]]（Epistemic ideals）以及实现这些目标的[[Reliable Epistemic Processes\|可靠认识论过程]]（Reliable processes）。[[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] 进一步将其拓展至科学论证与实践评估，指出认识论认知并非脱域的逻辑运算，而是与学科实体知识、元[[Epistemological Understanding\|认识论理解]]及共同体[[Epistemic Agency\|认识主体性]]深度纠缠。
 > - **学科/领域驱动模型（Discipline-Driven Models）** 受[[Situative Perspective\|情境认知]]（Situated cognition）理论深度启发，强调认识论并不是跨领域的稳定特质，而是高度依赖特定任务情境的。例如，Elby & Hammer (2001) 提出的[[Epistemic Resources\|认识论资源]]模型明确指出，学生在分析历史史料与解决物理方程时，会瞬间动态激活完全不同的认识论预设；而 Muis et al. (2006) 则进一步系统化了这种[[Domain Specificity\|领域特异性]]的理论框架。
 > - **[[Man-Computer Symbiosis|人机共生]]适应性模型（Symbiotic & AI-Mediated Models）** 以 [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 提出的共生[[Epistemic Stances\|适应性认识立场]]框架为代表。面对[[Generative Artificial Intelligence\|生成式人工智能]]环境中的海量生成与不确定性，该流派揭示认识论认知表现为学习者在人机交互中的[[Epistemic Stances\|适应性认识立场]]调适，阐明认识立场如何决定[[Cognitive Offloading\|认知卸载]]的性质分化，并论证通过技术提示词支架与教学法支架的双轨干预促进认识立场向评价主义演进。
@@ -161,7 +159,7 @@ updated: 2026-10-15
 ## 理论主张与核心命题
 
 ### 命题一　认识论认知不再是脱域的稳定特质，而是高度依赖情境的动态微观资源库
-> [!concept-lens] 理论模型的微观构成与结构[[Hypothesis\|假设]]
+> [!concept-lens] 理论模型的微观构成与结构假设
 > 早期研究视[[Epistemology\|认识论]]为宏大的阶段性发展产物或跨领域的稳定信念，但当代学者倾向于将其拆解为微观的知识结构与[[Justificatory Standards\|确证标准]]，并强调情境的绝对主导地位。
 
 > [!claim] Chinn, C.
@@ -235,7 +233,7 @@ updated: 2026-10-15
 > [!dev-timeline] 概念演变
 > - **1970–1994 — 起源阶段：发展模型** Perry (1970) 和 Kuhn (1991) 确立了个体[[Epistemology\|认识论]]从绝对主义到评价主义的宏大线性发展阶段。
 > - **1990–1997 — 扩展阶段：多维模型** Schommer (1990) 以及 [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] 打破了单维发展观，提出知识确定性、来源等多维独立的信念系统。
-> - **2001–2006 — 转向阶段：学科/领域驱动模型** Elby & Hammer (2001) 提出微观的[[Epistemic Resources\|认识论资源]]，Muis et al. (2006) 确立了情境依赖性，摒弃了跨领域稳定特质的[[Hypothesis\|假设]]。
+> - **2001–2006 — 转向阶段：学科/领域驱动模型** Elby & Hammer (2001) 提出微观的[[Epistemic Resources\|认识论资源]]，Muis et al. (2006) 确立了情境依赖性，摒弃了跨领域稳定特质的假设。
 > - **2011–2018 — 教育研究应用：哲学驱动与整合框架** [[Argument_Chinn_2011_EP\|Chinn et al. (2011)]] 与 [[Argument_Sandoval_2016_RRE\|Sandoval et al. (2016)]] 提出了基于规范哲学与多层系统的整合框架；[[Argument_Greene_2018_JEP\|Greene et al. (2018)]] 的[[Meta-analysis\|元分析]]确立了该领域的实证基准。
 > - **2021 — 因果干预证据：[[Framework for Teaching|教学框架]]与干预时长的元分析检验** [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 针对 26 项实验与准[[Experimental Research\|实验研究]]开展首个干预元分析，证实认识论认知教学干预对[[Academic Achievement\|学业成就]]有中等因果促进效应（$d = 0.509$）；揭示[[Inquiry-Based Learning\|指导式探究]]与[[Source Evaluation\|信源评估]]优于非指导式设计，并发现短周期高强度干预显著优于学期长周期干预。
 > - **2025 — 实践与论证转向：认识论实质与主体性** [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] 将 [[AIR Model of Epistemic Cognition\|AIR]] 框架[[Operationalization\|操作化]]为科学论证评价的中位规范模板，推动认识论认知从静态信念测量全面走向探究实践中的学科认识论实质与共同体[[Epistemic Agency\|认识主体性]]建构。

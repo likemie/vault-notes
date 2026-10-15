@@ -5,7 +5,7 @@ aliases:
 summary: "课程变革由三因素驱动：进步教育运动、冷战/国防、立法法律决定，在香港 LS 案例中因国家安全而权重重组"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 22
+theory_related_count: 21
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Document]]"
-  - "[[Hypothesis]]"
 related_theories:
   - "[[Critical Theory]]"
 related_methods:
@@ -46,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 ## 核心主张
@@ -114,7 +113,7 @@ updated: 2026-10-07
 ## 争议与批评
 
 > [!warning] 美国中心主义：分权化框架适用于中央集权体系？
-> **争议背景**Cuban (1992) 的框架建立在对美国分权化教育体系的历史分析上——其核心[[Hypothesis\|假设]]是课程变革由多个独立力量（[[Progressive Education\|进步教育]]运动、立法、利益团体）在分散权力结构中的博弈驱动。这一假设在中央集权体系中可能不成立。
+> **争议背景**Cuban (1992) 的框架建立在对美国分权化教育体系的历史分析上——其核心假设是课程变革由多个独立力量（[[Progressive Education\|进步教育]]运动、立法、利益团体）在分散权力结构中的博弈驱动。这一假设在中央集权体系中可能不成立。
 >
 > **各方立场**
 > - **批评立场** 在高度中央集权的教育体系中（如中国香港的后 2019 语境），政府可以直接通过法律和行政命令推行课程变革，而无需与独立利益团体协商。Cuban 框架中的多力量博弈前提在这些体系中可能完全不存在。

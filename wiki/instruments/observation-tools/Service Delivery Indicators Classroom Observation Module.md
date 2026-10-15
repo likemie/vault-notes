@@ -10,9 +10,9 @@ aliases:
 summary: "由世界银行与非洲经济研究联合会等联合研发的公共服务交付监测工具包核心模块，面向撒哈拉以南非洲基础教育情境，通过突击不打招呼的学校现场实地核查与课堂观察，系统测量教师到岗出勤率、实际在堂授课时长比例（Time to Teach）以及基础教学规范执行情况，为诊断基层教育资源沉淀与治理失灵提供客观实证微观数据。"
 type: instrument
 instrument_type: observation-tool
-instrument_related_count: 11
-instrument_related_level: 2
-instrument_related_stars: "⭐⭐"
+instrument_related_count: 9
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#cffafe"
 part_of: ""
 developers:
@@ -32,7 +32,6 @@ tags:
   - theme/educational-governance
   - region/africa
 related_concepts:
-  - "[[Attrition]]"
   - "[[Presence]]"
   - "[[Learning Crisis]]"
   - "[[Time on Task]]"
@@ -40,7 +39,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Classroom Observation]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments:
   - "[[Teach Classroom Observation Tool]]"
@@ -64,7 +62,7 @@ updated: 2026-10-15
 > [!instrument-profile] Service Delivery Indicators (SDI) [[Classroom Observation]] Module
 > - **工具类型** 基础教育交付端突访外部[[Classroom Observation|教学观察]]与时间利用核查规程（observation-tool）。
 > - **开发者与年份** [[World Bank]] (2013, 2017)（由世界银行非洲局与非洲经济研究联合会联合研制）。
-> - **测量目的** 专门评估撒哈拉以南非洲国家基础教育服务的基层供给质量，揭示教师缺勤脱岗、课堂有效授课时间[[Attrition|流失]]以及最低教学物资配置缺口。
+> - **测量目的** 专门评估撒哈拉以南非洲国家基础教育服务的基层供给质量，揭示教师缺勤脱岗、课堂有效授课时间流失以及最低教学物资配置缺口。
 > - **实施方式** 调查团队在不提前通知学校（Unannounced Visit）的前提下突访样本学校，首先核查教师到校出勤，随后随机进入课堂进行微观授课时间计时与外显教学活动快速登记。
 
 在国际发展经济学中，SDI 首次以硬核实地数据揭开了“有学校无教学”的制度痛点。
@@ -99,7 +97,7 @@ SDI 观察模块主要解构为四大维度的基本服务交付指标。
 > [!observation-focus] SDI 课堂现场核查重点
 > <span class="instrument-observation-table-marker" aria-hidden="true"></span>
 >
-> | 编号 | 观察维度 | 观察重点 | 记录方式 | 判定或[[Coding in Qualitative Research\|编码]] | 来源 |
+> | 编号 | 观察维度 | 观察重点 | 记录方式 | 判定或编码 | 来源 |
 > |---|---|---|---|---|---|
 > | 1 | 教师在堂 | 上课铃响后教师是否准时进入教室并留在教室中指导学生 | 课时全程监督记录 | 记录脱岗分钟数 | Bold et al. (2017) |
 > | 2 | 教学时间 | 教师是否正在教授课程内容，还是仅坐着看手机或打瞌睡 | 抽样计时与状态记录 | 授课时间占比 | 同上 |
@@ -109,7 +107,7 @@ SDI 观察模块主要解构为四大维度的基本服务交付指标。
 
 ## 使用该工具的研究
 
-基于 SDI 跨国数据的大样本分析证实，非洲部分国家每天因教师脱岗与无效在堂[[Attrition|流失]]的教学时间高达数小时。
+基于 SDI 跨国数据的大样本分析证实，非洲部分国家每天因教师脱岗与无效在堂流失的教学时间高达数小时。
 
 > [!ref-table]- 研究索引
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>

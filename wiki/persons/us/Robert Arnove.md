@@ -66,8 +66,8 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Immanuel Wallerstein]]"
-  - "[[Carlos Alberto Torres]]"
   - "[[John W. Meyer]]"
+  - "[[Carlos Alberto Torres]]"
   - "[[Paulo Freire]]"
   - "[[Martin Carnoy]]"
   - "[[Michael W. Apple]]"
@@ -95,7 +95,7 @@ updated: 2026-10-09
 
 > [!person-profile] 人物档案
 > - **身份位置** 罗伯特·阿诺夫（Robert F. Arnove），美国当代著名比较教育学泰斗、教育社会学家；印第安纳大学布卢明顿分校荣誉总理教授（Chancellor's Professor Emeritus），[[Comparative and International Education Society|比较与国际教育学会]]（Comparative and [[International Education]] Society, CIES）前会长（2000–2001）。
-> - **核心角色** 批判比较教育学与全球化教育政治经济学的旗帜性领军学者。阿诺夫率先于 1980 年将[[Immanuel Wallerstein|沃勒斯坦]]的[[World-Systems Theory|世界体系分析]]引入比较教育学，打破了抽象的现代化趋同迷思；随后与[[Carlos Alberto Torres|托雷斯]]共同开创“[[Dialectic of the Global and the Local|全球化与本土实践的辩证法]]”（Dialectic of the Global and the Local）[[Analytic Framework|分析框架]]，系统解构跨国新自由主义治理与非政府组织（Non-Governmental Organizations, NGOs）外包异化，为自下而上的教育公平与全球社会民主抗争奠定了理论基石。
+> - **核心角色** 批判比较教育学与全球化教育政治经济学的旗帜性领军学者。阿诺夫率先于 1980 年将[[Immanuel Wallerstein|沃勒斯坦]]的[[World-Systems Theory|世界体系分析]]引入比较教育学，打破了抽象的现代化趋同迷思；随后与托雷斯共同开创“[[Dialectic of the Global and the Local|全球化与本土实践的辩证法]]”（Dialectic of the Global and the Local）[[Analytic Framework|分析框架]]，系统解构跨国新自由主义治理与非政府组织（Non-Governmental Organizations, NGOs）外包异化，为自下而上的教育公平与全球社会民主抗争奠定了理论基石。
 > - **代表贡献** 创立全球与本土辩证法[[Paradigm|范式]]（与 Torres 合作出版权威论著《比较教育：全球与本土的辩证法》）；开创批判性基金会与跨国援助研究（出版奠基之作《慈善与文化帝国主义：福特、洛克菲勒与卡内基基金会》）；提出[[Shadow State|影子国家]]（[[Shadow State]]）与[[Pluri-Scalar Governance|多标度教育治理]]批判框架；系统推进拉美[[Popular Education|民众教育]]实证调研（《桑地诺尼加拉瓜的教育与革命》）。
 
 > [!citation-card] 阿诺夫论世界体系分析恢复比较教育的国际政治经济维度
@@ -155,7 +155,7 @@ updated: 2026-10-09
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 与[[Carlos Alberto Torres|托雷斯]]共同开创的全球与本土辩证法[[Paradigm|范式]]已成为比较教育学的基准[[Analytic Framework|分析框架]]，打破了世界文化学派单一的同形趋同叙事与古典[[Dependency Theory|依附论]]的机械[[Determinism|决定论]]，为当代批判比较教育学树立了多标度、多维度的解释典范。
+> - **理论路径** 与托雷斯共同开创的全球与本土辩证法[[Paradigm|范式]]已成为比较教育学的基准[[Analytic Framework|分析框架]]，打破了世界文化学派单一的同形趋同叙事与古典[[Dependency Theory|依附论]]的机械[[Determinism|决定论]]，为当代批判比较教育学树立了多标度、多维度的解释典范。
 > - **方法路径** 倡导“双重视野”（Double Vision）与宏微观贯通的比较案例设计（[[Comparative Case Study]], CCS），开创了将跨国宏观制度分析与微观人类学课堂[[Ethnography|民族志]]深度融合的方法论传统。
 > - **政策与机构批判** 对[[World Bank|世界银行]]、[[International Monetary Fund|国际货币基金组织]]以及大型跨国慈善基金会（福特、洛克菲勒、卡内基）的批判性政治经济学解构，深刻启发了全球教育学术界对跨国[[Policy Borrowing|政策借用]]、[[New Managerialism|新管理主义]]与[[Shadow State|影子国家]]外包风险的反思。
 > - **学术共同体与跨国传播** 作为 [[Comparative and International Education Society|CIES]] 前会长与国际比较教育学界的精神领袖，阿诺夫长期致力于推动南北学术平等对话，支持拉美、非洲与亚洲青年学者开展反思资本主义霸权本土经验的批判研究。
@@ -179,7 +179,7 @@ updated: 2026-10-09
 >
 > *Drawing on Wallerstein's modern world-systems theory, Arnove pointed out that the global educational system was marked by a multi-tiered dependency: developed center countries exercise cultural and intellectual [[Hegemony]] over developing nations, while peripheral national elites maintain internal dominance over subaltern groups.*
 
-> [!citation-card] [[Carlos Alberto Torres|托雷斯]]论阿诺夫全球与本土辩证法对教育国家研究的重构
+> [!citation-card] 托雷斯论阿诺夫全球与本土辩证法对教育国家研究的重构
 > 国家、社会运动与教育改革之间的互动是理解当代比较教育演进的关键脉络。阿诺夫开创的全球化与本土社会力量冲突分析，构成了当代解构国家教育政策生成、异化与底层抗争的核心辩证轴线。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 85–86)]]
 >
 > *In Arnove & Torres (Eds.), Comparative Education: The Dialectic of the Global and the Local, the contradictions between globalization and local social forces constitute the primary dialectical axis for analyzing state education.*

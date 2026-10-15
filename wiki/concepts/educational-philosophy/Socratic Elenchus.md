@@ -11,7 +11,7 @@ aliases:
 summary: "由苏格拉底与柏拉图提出的哲学交锋与交叉反诘方法，通过连续提问揭示既有信念中的内在矛盾，为真理探求与辩证法清理土壤。"
 type: concept
 domain: "educational-philosophy"
-related_count: 27
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -21,7 +21,6 @@ tags:
   - theme/active-learning
   - theme/critical-thinking
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Examined Life]]"
   - "[[Critical Thinking]]"
   - "[[Inquiry-Based Learning]]"
@@ -57,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-25
-updated: 2026-09-24
+updated: 2026-10-15
 ---
 
 # Socratic Elenchus
@@ -67,7 +66,7 @@ updated: 2026-09-24
 ## 定义
 
 > [!def] 核心定义
-> [[Socrates\|苏格拉底]]驳诘法（Socratic Elenchus / Exetasis）是古希腊哲学的核心探究与教学方法。在[[Plato\|柏拉图]]对话录中，驳诘法通过连续提问、交叉检验与立场反诘，揭示对话者既有信念与[[Hypothesis\|假设]]中的内在矛盾 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 2–3)]]。它本身并不直接增加实质性知识，而是作为一种智识清理机制，清除无知与自以为是的偏见，导向真正的辩证法（Dialectic）与[[Examined Life\|省察的生活]] [[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 31–32)]]。
+> [[Socrates\|苏格拉底]]驳诘法（Socratic Elenchus / Exetasis）是古希腊哲学的核心探究与教学方法。在[[Plato\|柏拉图]]对话录中，驳诘法通过连续提问、交叉检验与立场反诘，揭示对话者既有信念与假设中的内在矛盾 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 2–3)]]。它本身并不直接增加实质性知识，而是作为一种智识清理机制，清除无知与自以为是的偏见，导向真正的辩证法（Dialectic）与[[Examined Life\|省察的生活]] [[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 31–32)]]。
 
 > [!concept-lens] 概念透镜
 > - **含义** 强调真理是在连续质疑与观念冲突中被推导与修正在场，而非被权威单向赋予或简单存入。
@@ -129,7 +128,7 @@ updated: 2026-09-24
 > [!contrast-table] 概念辨析
 > | 维度 | [[Socrates\|苏格拉底]]驳诘法（Elenchus） | [[Banking Model of Education\|储蓄式教育]] | 儒家启发式与[[Self-Cultivation\|修身]] |
 > |------|--------------------------|----------------|--------------------------|
-> | 知识[[Hypothesis\|假设]] | 知识潜藏于灵魂，需通过反诘唤醒 | 知识是外在事实，由教师单向存入 | 德性与学问需通过尊师重道与内省修养 |
+> | 知识假设 | 知识潜藏于灵魂，需通过反诘唤醒 | 知识是外在事实，由教师单向存入 | 德性与学问需通过尊师重道与内省修养 |
 > | 教学动作 | 连续提问、逻辑反诘、揭示矛盾 | 讲授、记忆、重复提取 | “不愤不启，不悱不发”，言传身教 |
 > | [[Student-Teacher Relationship\|师生关系]] | 共同探究者，教师为智识助产士 | 储户（教师）与存户容器（学生） | 道德楷模与尊师守礼的弟子 |
 

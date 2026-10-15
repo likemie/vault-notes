@@ -13,7 +13,7 @@ subtype: organization
 region: "netherlands"
 fact_region: "netherlands"
 fact_kind: "organization"
-fact_related_count: 11
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Network Governance]]"
   - "[[Policy Network]]"
   - "[[Falsification]]"
-  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -46,7 +45,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # HBO-Raad
@@ -122,5 +121,5 @@ updated: 2026-10-12
 
 ## 相关研究
 
-> [!evidence-grid] 相关[[Document|文献]]索引
+> [!evidence-grid] 相关文献索引
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 实证详述 HBO-Raad 在荷兰高等专业教育大兼并中的核心统筹职能，剖析自组织[[Policy Network|政策网络]]替代科层强制指令的机制机理。

@@ -10,7 +10,7 @@ summary: "加拿大哲学家、非形式逻辑与论辩理论家，提出系统�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 14
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -30,13 +30,11 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Epistemology]]"
   - "[[Justificatory Standards]]"
-  - "[[Document]]"
 related_theories:
   - "[[Walton's Argumentation Schemes]]"
   - "[[Knowledge Building Theory]]"
   - "[[AIR Model of Epistemic Cognition]]"
-related_methods:
-  - "[[Coding in Qualitative Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Clark A. Chinn]]"
@@ -46,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-10
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Douglas Walton
@@ -103,7 +101,7 @@ updated: 2026-10-07
 
 > [!influence-path] 影响路径
 > - **理论路径** 彻底重塑了非形式逻辑学界对传统逻辑谬误（如诉诸权威、诉诸无知、人身攻击）的理解，将其从绝对逻辑死穴转化为在特定语用条件下具有假定效力的论辩型式。
-> - **方法路径** 批判性提问清单成为人际对话[[Coding in Qualitative Research\|编码]]、法律事实推论与法庭论辩质证的经典[[Operationalization\|操作化]]分析工具。
+> - **方法路径** 批判性提问清单成为人际对话编码、法律事实推论与法庭论辩质证的经典[[Operationalization\|操作化]]分析工具。
 > - **教育传播** 自 2000 年代后期被引入科学教育（如 Richard Duschl 与 E. Michael Nussbaum 等人），用于设计[[Classroom Debate\|课堂辩论]]评价量表与学生[[Critical Thinking\|批判性思维]]支架。
 
 ---
@@ -143,4 +141,4 @@ updated: 2026-10-07
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Walton's Argumentation Schemes]] | 理论 | 沃尔顿创立的核心论辩型式理论与批判性提问体系。 |
-> | [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] | 论证 | 将沃尔顿论辩型式与[[AIR Model of Epistemic Cognition\|AIR]][[Epistemology\|认识论]]评价框架进行系统对质的关键[[Document\|文献]]。 |
+> | [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] | 论证 | 将沃尔顿论辩型式与[[AIR Model of Epistemic Cognition\|AIR]][[Epistemology\|认识论]]评价框架进行系统对质的关键文献。 |

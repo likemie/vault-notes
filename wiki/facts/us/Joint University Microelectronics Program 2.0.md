@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 42
+fact_related_count: 41
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -45,7 +45,6 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Open-Mindedness]]"
   - "[[Innovation Ecosystem]]"
-  - "[[Document]]"
   - "[[Academic Engagement Team]]"
 related_theories:
   - "[[Path Dependence]]"
@@ -78,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Joint University Microelectronics Program 2.0
@@ -203,7 +202,7 @@ updated: 2026-10-10
 > | [[National Advanced Packaging Manufacturing Program]] | Fact (Program) | 先进封装制造计划，与 JUMP 2.0 CHIMES 中心形成从大学基础突破到中试封装的紧密对接。 |
 > | [[Manufacturing USA]] | Fact (Organization) | 跨部门制造业创新网络，与 JUMP 2.0 协同攻坚芯片数字孪生与先进制造工艺。 |
 > | [[Industrial Advisory Committee]] | Fact (Organization) | 为 JUMP 2.0 等国家公私研发联盟提供产业前沿需求与政策咨询建议。 |
-> | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | Argument | 剖析 JUMP 2.0 作为跨校微电子攻关联盟重塑半导体[[Innovation Ecosystem\|创新生态]]的实证[[Document\|文献]]。 |
+> | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | Argument | 剖析 JUMP 2.0 作为跨校微电子攻关联盟重塑半导体[[Innovation Ecosystem\|创新生态]]的实证文献。 |
 > | [[Argument_Ramming_2025_CorporateSupport\|Ramming (2025)]] | Argument | 探讨 SRC 与 DARPA 合作历程中从 FCRP、STARnet 到 JUMP 2.0 的产学前竞争联合体演进逻辑。 |
 > | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | Argument | 将 JUMP 2.0 确立为[[National Strategy on Microelectronics Research\|国家微电子研究战略]]（Goal 4.1）公私合作核心高校研发支柱的白宫战略白皮书。 |
 

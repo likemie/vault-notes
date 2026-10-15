@@ -8,7 +8,7 @@ aliases:
 summary: "教师与学生共同明确在特定教学活动中所要达成的核心认知理解、概念迁移与能力发展指向，区别于具体的活动任务完成要求"
 type: concept
 domain: "curriculum-instruction"
-related_count: 12
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,13 +18,11 @@ tags:
   - theme/curriculum-design
   - theme/pedagogy
 related_concepts:
-  - "[[Teaching Assistant]]"
   - "[[Success Criteria]]"
   - "[[Causality]]"
   - "[[Learning Progression]]"
   - "[[Metacognition]]"
   - "[[Formative Assessment]]"
-  - "[[Document]]"
   - "[[Learning Gap]]"
   - "[[Open-Mindedness]]"
 related_theories: []
@@ -39,7 +37,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-16
-updated: 2026-09-29
+updated: 2026-10-15
 ---
 
 # Learning Intentions
@@ -53,7 +51,7 @@ updated: 2026-09-29
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向教学设计的认知内核与能力本质，界定学生思维需要达到的深度与广度，而非学生手头所做的具体操作步骤。
-> - **用途** 帮[[Teaching Assistant\|助教]]师克服“活动繁荣却无实质学习”的教学盲区，破除学生将“字迹工整、篇幅冗长、没有拼写错误”等形式特征误当作学业优秀的认知迷思。
+> - **用途** 帮助教师克服“活动繁荣却无实质学习”的教学盲区，破除学生将“字迹工整、篇幅冗长、没有拼写错误”等形式特征误当作学业优秀的认知迷思。
 > - **边界** 学习意图本身不规定具体的达标评判证据与细化层级（后者由 [[Success Criteria\|成功标准]] 承担），也不等于行为主义可测指标的机械切割。
 
 > [!citation-card] 学习意图与任务形式的认知脱节
@@ -137,7 +135,7 @@ updated: 2026-09-29
 ### 命题总览
 
 > [!contrast-table] 围绕学习意图的核心命题归纳
-> | 命题维度 | 核心理论观点 | 教学实践指向 | 代表[[Document\|文献]] |
+> | 命题维度 | 核心理论观点 | 教学实践指向 | 代表文献 |
 > |---|---|---|---|
 > | **认知透明与概念深化** | 显性共享学习意图能打破学生对任务外在形式的盲目依赖，激活深层因果理解 | 在每堂课与每个单元初始阶段明确阐释认知目的，区分活动与学习 | Clarke, Timperley, & Hattie (2003) |
 > | **形成性反馈基准坐标** | 学习意图为识别[[Learning Gap\|学习差距]]与制定下一步教学行动提供首要参照基准 | 将课堂提问、练习与测评紧密对齐学习意图，构建诊断性证据循环 | [[Argument_Hattie_2005_ACER\|Hattie (2005)]]；Black & Wiliam (1998, 2009) |

@@ -12,7 +12,7 @@ summary: "由乔治·贝雷迪开创的比较教育学经典经验归纳研究�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 34
+method_related_count: 33
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -25,12 +25,11 @@ related_concepts:
   - "[[Working Hypothesis]]"
   - "[[Research Question]]"
   - "[[Unit of Analysis]]"
-  - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Value Neutrality]]"
   - "[[Discipline-Based Theory]]"
-  - "[[Document]]"
   - "[[Primary and Secondary Documents]]"
+  - "[[Hypothesis]]"
   - "[[Reflexivity]]"
   - "[[Analytical Stance]]"
   - "[[Falsification]]"
@@ -65,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Bereday's Comparative Method
@@ -81,7 +80,7 @@ updated: 2026-10-09
 > - **研究对象** 两个或两个以上主权国家或文化区域的国民教育制度、法令规程、课程教学实践及相关宏观社会背景数据。
 > - **问题类型** 适合回答横向描述、跨国制度差异解释、跨情境类型学建构以及探寻超国家教育普遍规律的比较[[Research Question|研究问题]]。
 > - **[[Unit of Analysis|分析单位]]** 国民教育体制（National Educational System）、特定学段子系统（如初等教育、高等教育）或特定制度规程（如教师任职资格、升学考核机制）。
-> - **输出形式** 跨国国别事实档案、历史社会动因解释、横向对称对比矩阵、跨国[[Hypothesis|假设]]检验结论及结构类型学（Typologies）。
+> - **输出形式** 跨国国别事实档案、历史社会动因解释、横向对称对比矩阵、跨国假设检验结论及结构类型学（Typologies）。
 
 > [!citation-card] 贝雷迪论综合分析与内在普遍法则的探寻
 > 贝雷迪的前三步主要旨在理解和解释具体的教育现象，但其最终目标始终是综合分析；这项研究旨在探寻所有教育体制据以构建的内在普遍力量，并由此提出能够促进国际理解并界定学校与其服务人群之间复杂互动关系的法则或类型学。[[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009, pp. 61–62)]]
@@ -100,7 +99,7 @@ updated: 2026-10-09
 
 > [!method-stack] 方法层级
 > - **研究设计** 多案例比较研究设计（[[Comparative Case Study]] Design）、跨国横向比较设计。
-> - **数据收集** 官方教育统计公报、法律法规文本、历史档案、实地考察记录与二手学术[[Document|文献]]。
+> - **数据收集** 官方教育统计公报、法律法规文本、历史档案、实地考察记录与二手学术文献。
 > - **分析方法** 历史解释分析、社会学功能分析、横向矩阵并置与跨国综合质性归纳。
 > - **辅助技术** 
 >   - [[Primary and Secondary Documents|原始文献]]多语种校验与跨文化语义核对；
@@ -146,7 +145,7 @@ updated: 2026-10-09
 >   - 适用于通过扎实丰富的国别情境研究提炼新型跨国分析范畴或建构中层理论类型学；
 >   - 适用于对历史积淀深厚、文化脉络复杂的教育体制进行长时段、多维度的质性对比研究。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 127–128)]]
 > - **谨慎使用** 
->   - 在面对政治动荡、官方统计口径频繁变动或语言隔阂严重、无法获取第一手可靠[[Document|文献]]的国别案例时须审慎对待；
+>   - 在面对政治动荡、官方统计口径频繁变动或语言隔阂严重、无法获取第一手可靠文献的国别案例时须审慎对待；
 >   - 若缺乏对对象国社会历史背景的深刻理解，仅凭翻译[[Primary and Secondary Documents|二手文献]]易在解释阶段产生严重误判。
 > - **不适合使用** 
 >   - 不适用于追求微观因果效应精确测度的实验或准[[Experimental Research|实验研究]]；
@@ -170,7 +169,7 @@ updated: 2026-10-09
 > - **[[Brian Holmes|布赖恩·霍姆斯]]（Brian Holmes）的[[Analytical Stance|批判立场]]**
 >   霍姆斯援引波普尔（[[Karl Popper]]）的[[Falsification|证伪主义]]与[[John Dewey|杜威]]（John Dewey）的反思思维，对贝雷迪的归纳进路提出了系统反驳：不存在未被理论渗透的纯粹观察事实；贝雷迪主张先描述再归纳，意味着研究者以未经严密检验的潜意识偏见搜集材料，所得证据只能在自身预设的封闭体系内循环自证；科学比较研究必须先有明确的技术性问题与理论假说（即[[Problem Approach|问题法]]），才能赋予经验数据以检验价值。
 > - **贝雷迪与经验归纳派的回应立场**
->   纯粹的假说演绎法容易沦为脱离鲜活民族历史情境与制度特殊性的空中楼阁；若没有扎实的单国地理、政治与文化脉络[[Rich and Thick Description|厚描述]]，演绎派极易按照主观[[Hypothesis|假设]]任意剪裁跨国事实；深度描述与跨学科解释是跨国比较不可逾越的[[Epistemology|认识论]]基石。
+>   纯粹的假说演绎法容易沦为脱离鲜活民族历史情境与制度特殊性的空中楼阁；若没有扎实的单国地理、政治与文化脉络[[Rich and Thick Description|厚描述]]，演绎派极易按照主观假设任意剪裁跨国事实；深度描述与跨学科解释是跨国比较不可逾越的[[Epistemology|认识论]]基石。
 > - **拉斯特等人的历史定性**
 >   拉斯特（[[Val D. Rust|Val D. Rust]]）等人指出，贝雷迪与霍姆斯的方法论大争论并未因某一方的胜出而结束，它在当代以“[[Grounded Theory|扎根理论]]（Grounded Theory）与假设检验法（Hypothetico-Deductive Method）”的对立形式持续回响在整个社会科学界。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 128)]]
 

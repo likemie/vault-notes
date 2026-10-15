@@ -8,10 +8,10 @@ summary: "美国社会学者、作家与公共知识分子，剑桥大学心理�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 8
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 born: "1990"
 lifespan: "1990–至今"
 tags:
@@ -22,7 +22,6 @@ tags:
 related_concepts:
   - "[[Cultural Capital]]"
   - "[[Luxury Belief]]"
-  - "[[Bildung]]"
   - "[[Paradigm]]"
   - "[[Technological Republic]]"
 related_theories: []
@@ -37,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Rob Henderson
@@ -77,7 +76,7 @@ updated: 2026-10-08
 ## 核心思想
 
 > [!claim] 核心主张
-> 罗伯·亨德森指出，随着工业制造使得名牌服饰等传统物质财富的排他性辨识度下降，受过高等教育的富裕阶层转向通过宣扬特定激进思想与文化立场来彰显自身[[Bildung|教养]]与特权。这些“[[Luxury Belief|炫耀性信念]]”（如主张削减警察经费、抵制在治安中应用前沿软件或解构传统家庭结构）由特权阶层倡导，因为他们拥有雄厚的财富与社会资本足以对冲潜在风险；然而，当这些信念转化为公共政策时，其实际破坏性代价却几乎完全由缺乏安全屏障的底层贫困群体承担。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 177–178)]]
+> 罗伯·亨德森指出，随着工业制造使得名牌服饰等传统物质财富的排他性辨识度下降，受过高等教育的富裕阶层转向通过宣扬特定激进思想与文化立场来彰显自身教养与特权。这些“[[Luxury Belief|炫耀性信念]]”（如主张削减警察经费、抵制在治安中应用前沿软件或解构传统家庭结构）由特权阶层倡导，因为他们拥有雄厚的财富与社会资本足以对冲潜在风险；然而，当这些信念转化为公共政策时，其实际破坏性代价却几乎完全由缺乏安全屏障的底层贫困群体承担。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Karp & Zamiska, 2025, pp. 177–178)]]
 
 > [!citation-card] 亨德森论炫耀性信念作为特权阶级的新型身份标签
 > 炫耀性信念是那些能为上层阶级带来社会声望、但对底层群体而言却代价沉重的思想或观点。

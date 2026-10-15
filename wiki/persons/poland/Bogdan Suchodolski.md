@@ -8,10 +8,10 @@ summary: "波兰著名哲学家、教育学家、科学史家与比较教育学�
 type: person
 nationality: poland
 person_region: "poland"
-person_related_count: 16
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 14
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1903"
 died: "1992"
 lifespan: "1903–1992"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Empiricism]]"
   - "[[Enlightenment]]"
   - "[[Lifelong Learning]]"
-  - "[[Bildung]]"
   - "[[Creativity]]"
   - "[[Critical Thinking Disposition]]"
   - "[[National Character]]"
@@ -34,7 +33,6 @@ related_persons:
   - "[[Wolfgang Mitter]]"
   - "[[Nicholas Hans]]"
   - "[[Friedrich Schneider]]"
-  - "[[Isaiah Berlin]]"
 related_facts:
   - "[[Chinese Academy of Sciences]]"
   - "[[Comparative Education Society in Europe]]"
@@ -44,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Bogdan Suchodolski
@@ -59,7 +57,7 @@ updated: 2026-10-08
 > - **代表贡献**
 >   - **捍卫欧洲比较教育的哲学理想主义维度** 抵御冷战极化思维与早期[[Empiricism|经验主义]]浅层化倾向，将比较教育牢固奠基于欧洲自文艺复兴与[[Enlightenment|启蒙运动]]以来的文化哲学与精神史基础之上。
 >   - **开创马克思主义人文主义教育哲学** 突破传统教条斯大林主义教育学的狭隘框架，将历史唯物主义与人本主义文化哲学相融合，提出以人的全面发展、文化创造与自由个性为核心的教育哲学纲领。
->   - **奠基国际[[Lifelong Learning|终身教育]]理论体系** 深度参与 UNESCO 终身教育理论奠基，强调[[Lifelong Learning|终身学习]]本质上是抵抗现代工业文明异化、维系全生命周期文化[[Bildung|教化]]的解放力量。
+>   - **奠基国际[[Lifelong Learning|终身教育]]理论体系** 深度参与 UNESCO 终身教育理论奠基，强调[[Lifelong Learning|终身学习]]本质上是抵抗现代工业文明异化、维系全生命周期文化教化的解放力量。
 
 > [!citation-card] 坚守欧洲维度历史哲学的三大师之一
 > 战后时期，尼古拉斯·汉斯、弗里德里希·施奈德与博格丹·苏霍多尔斯基构成了欧洲比较教育的三位大师，他们共同维系了比较教育中充满历史与哲学理想主义的‘欧洲维度’，坚决抵御了纯粹技术官僚主义的简化倾向。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 98)]]
@@ -72,7 +70,7 @@ updated: 2026-10-08
 
 > [!timeline] 生平与学术建制
 > - **1903** 出生于波兰索斯诺维茨（Sosnowiec）。
-> - **1920s** 先后在克拉科夫雅盖隆大学（Jagiellonian University）与华沙大学深造，攻读波兰文学、哲学与教育学，并赴巴黎与[[Isaiah Berlin|柏林]]游学，奠定深厚的多语种欧陆思想学养。
+> - **1920s** 先后在克拉科夫雅盖隆大学（Jagiellonian University）与华沙大学深造，攻读波兰文学、哲学与教育学，并赴巴黎与柏林游学，奠定深厚的多语种欧陆思想学养。
 > - **1938** 出任利沃夫大学（University of Lwów）教授。
 > - **1939–1945** 二战与纳粹占领期间，冒生命危险投身波兰地下秘密大学网络（Tajne komplety），坚持组织地下高等教育与反法西斯文化抵抗。
 > - **1946–1968** 战后受聘出任华沙大学教育学院讲座教授，历任波兰教育学研究所所长、波兰[[Chinese Academy of Sciences|科学院]]院士及科学与技术史研究所所长。

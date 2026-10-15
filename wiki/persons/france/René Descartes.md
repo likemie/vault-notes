@@ -7,7 +7,7 @@ summary: "法国哲学家、数学家与科学家，近代哲学之父，以我�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 18
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -34,7 +34,6 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Falsification]]"
   - "[[Reliability]]"
-  - "[[Hypothesis]]"
 related_theories: []
 related_methods: []
 related_persons:
@@ -51,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # René Descartes
@@ -149,4 +148,4 @@ updated: 2026-10-07
 
 > [!critique] 外部批评
 > - **跨文化适用性** 笛卡尔的普遍怀疑——怀疑感官、身体乃至世界本身——在西方哲学中激发了[[Epistemology\|认识论]]的重新奠基，但在 Li 的比较框架中暗示了一个问题：这种以思维优先于感官和身体为核心的心智观，在何种程度上是一种特定的西方文化建构？
-> - **纽拉特的迷路者批判** 纽拉特（1913）指出笛卡尔基础主义的一个根本困境：笛卡尔的方法[[Hypothesis\|假设]]你可以找到一个绝对确定的出发点——我思——然后从这里开始构建知识。但纽拉特的迷路者比喻揭示了相反的情境：你在森林中迷路了，无法先找到绝对确定的位置再行动。你已经在森林里了，只能从当前位置出发，边找路边修正方向。知识不是从绝对基础向上构建的，而是在已有知识中不断修正。[[Argument_Zemplen_2007_SciEduc\|(Zemplén, 2007, pp. 183–184)]]
+> - **纽拉特的迷路者批判** 纽拉特（1913）指出笛卡尔基础主义的一个根本困境：笛卡尔的方法假设你可以找到一个绝对确定的出发点——我思——然后从这里开始构建知识。但纽拉特的迷路者比喻揭示了相反的情境：你在森林中迷路了，无法先找到绝对确定的位置再行动。你已经在森林里了，只能从当前位置出发，边找路边修正方向。知识不是从绝对基础向上构建的，而是在已有知识中不断修正。[[Argument_Zemplen_2007_SciEduc\|(Zemplén, 2007, pp. 183–184)]]

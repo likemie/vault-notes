@@ -12,9 +12,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 25
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 23
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "联邦政府专业化公共金融与产业投资机构（Federal Public Financing & Industrial Agency）"
 headquarters: "美国华盛顿哥伦比亚特区（Washington, D.C.）"
@@ -31,11 +31,9 @@ related_concepts:
   - "[[Valley of Death]]"
   - "[[Embedded Autonomy]]"
   - "[[Market Failure]]"
-  - "[[Attrition]]"
   - "[[Technology Readiness Level]]"
   - "[[Policy Conditionalities]]"
   - "[[Apprenticeship]]"
-  - "[[Assemblage]]"
   - "[[Modern Industrial Policy]]"
   - "[[Public Dynamic Capabilities]]"
   - "[[Consultocracy]]"
@@ -61,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Loan Programs Office
@@ -87,7 +85,7 @@ updated: 2026-10-14
 > - **2005–2009 年 — 机构创设与《美国复苏与再投资法案》（ARRA）初期拓展**
 >   - 2005 年通过立法设立；2009 年在奥巴马政府经济刺激法案支持下迅速扩权，为特斯拉（Tesla）早期 Model S 生产线、全美首批公用事业级光伏电站与风电场提供关键贷款，奠定了美国现代电动汽车与清洁电力产业的基础。
 > - **2011–2020 年 — 太阳能企业破产风波与保守沉寂期**
->   - 2011 年受资助企业索林德拉（Solyndra）破产引发政治风波，机构进入风险厌恶的行政保守期，贷款审批节奏大幅放缓，内部金融与产业人才大量[[Attrition|流失]]。
+>   - 2011 年受资助企业索林德拉（Solyndra）破产引发政治风波，机构进入风险厌恶的行政保守期，贷款审批节奏大幅放缓，内部金融与产业人才大量流失。
 > - **2021 年至今 — 吉加尔·沙阿执掌与现代产业战略全面复兴**
 >   - 拜登政府任命资深清洁能源投资家吉加尔·沙阿（Jigar Shah）担任总监，迅速从华尔街与能源界招募数百名资深项目融资家与技术工程师，彻底重建内部专业尽调能力。
 >   - 国会通过 [[Infrastructure Investment and Jobs Act|IIJA]] 与 [[International Reading Association|IRA]] 赋予其逾 4000 亿美元贷款授权，LPO 成为实施美国现代产业战略、重塑清洁制造产能最核心的国家级金融引擎。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 6–7, 10–12)]]
@@ -114,7 +112,7 @@ updated: 2026-10-14
 
 > [!finding-cards] 核心信贷项目矩阵
 > - **第 17 篇章清洁能源融资计划（Title 17 Clean Energy Financing）** 支持先进核裂变/聚变、清洁氢能、碳捕获与利用（CCUS）、工业深度脱碳等前沿重大基础设施。
-> - **先进技术车辆制造贷款计划（ATVM Program）** 为全美先进电动汽车整车[[Assemblage|装配]]、动力电池电芯制造、关键矿物加工与充电网络提供数百亿美元低息支持。
+> - **先进技术车辆制造贷款计划（ATVM Program）** 为全美先进电动汽车整车装配、动力电池电芯制造、关键矿物加工与充电网络提供数百亿美元低息支持。
 > - **二氧化碳运输基础设施金融计划（CIFIA）** 依据 [[Infrastructure Investment and Jobs Act|IIJA]] 设立，专门资助跨区域二氧化碳长输管线与地质封存设施建设。
 > - **部落能源贷款担保计划（TELGP）** 为美洲原住民部落土地上的自主清洁能源微电网与发电项目提供专项金融支持。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 12)]]
 > - **首创性硬科技制造中试过桥信贷（First-of-a-Kind Pilot Facility Debt Financing）** 在《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》指导下，为资本密集型微电子制造与硬科技中试工程提供私营贷款机构无法供应的定制化长期低息债务资本。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 46–47)]]

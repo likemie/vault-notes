@@ -7,10 +7,10 @@ aliases:
 summary: "由 Godfrey 和 Brown（2019）提出的框架，用微观、中观、外、宏观与时间五层生态绘制研究参与如何嵌入更大的教育生态，是分析研究参与学校多层级条件的理论透镜"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 16
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 15
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - theory/research-use
   - theory/ecosystem
@@ -31,7 +31,6 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Framework Synthesis]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -42,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-09-18
+updated: 2026-10-15
 ---
 
 # Ecosystem for Research-Engaged Schools
@@ -101,7 +100,7 @@ updated: 2026-09-18
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
 > - **[[Ontology\|本体论]]** 把学校研究参与理解为嵌入多层社会生态的过程，各层相互嵌套、彼此影响。
 > - **[[Epistemology\|认识论]]** 强调情境与关系性解释：理解研究参与要看它在哪个生态位置、与哪些层面相连。
-> - **方法含义** 支持多层级、情境化的研究设计与[[Framework Synthesis\|框架综合]]；生态层级可转化为[[Coding in Qualitative Research\|编码]]维度。
+> - **方法含义** 支持多层级、情境化的研究设计与[[Framework Synthesis\|框架综合]]；生态层级可转化为编码维度。
 > - **不能直接推出的东西** 模型不预测某一干预在特定学校的效果，也不规定哪些层面优先；它提供分析地图而非因果结论。
 
 > [!theory-use] 如何用于研究

@@ -13,10 +13,10 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 41
-fact_related_level: 5
-fact_related_stars: "⭐⭐⭐⭐⭐"
-fact_related_color: "#fecdd3"
+fact_related_count: 39
+fact_related_level: 4
+fact_related_stars: "⭐⭐⭐⭐"
+fact_related_color: "#ede9fe"
 period: "2015–至今"
 initiator_organization: "[[OECD]]"
 tags:
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Champ]]"
   - "[[Return on Investment]]"
-  - "[[Hypothesis]]"
   - "[[Academic Achievement]]"
   - "[[Construct]]"
   - "[[Self-control]]"
@@ -42,7 +41,6 @@ related_concepts:
   - "[[Educational Level]]"
   - "[[Affective Outcomes]]"
   - "[[Technical Rationality]]"
-  - "[[Document]]"
   - "[[Evaluation Research]]"
   - "[[Lifelong Learning]]"
   - "[[Test-Based Accountability]]"
@@ -76,7 +74,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Baby PISA
@@ -98,7 +96,7 @@ updated: 2026-10-07
 
 ## 方案设计与运行机制
 
-> [!claim] 核心测评机制与立项[[Hypothesis\|假设]]
+> [!claim] 核心测评机制与立项假设
 > Baby [[PISA]] 建立在一种普遍主义[[Human Capital Theory\|人力资本]]假设之上：假定存在一套超越本土文化、语言情境与家庭形态的早期核心认知与非认知技能，且能够通过标准化数字互动测验直接在 5 岁幼儿身上实现跨国统一量化与排名（[[Argument_Zhao_2020_JEC\|Zhao, 2020]]）。
 
 > [!policy-design]- 测评设计与实施控制
@@ -184,7 +182,7 @@ updated: 2026-10-07
 > - **文化错配与西方中心主义偏见** 测评指标根植于欧美发达市场经济体的核心理念，以盎格鲁-撒克逊中产阶级的养育规范作为全球通用的“良好发展”标尺，严重贬抑了原住民社群及非西方文化中多元的儿童成长观（[[Argument_Zhao_2020_JEC\|Zhao, 2020]]）。
 > - **北欧诸国抵制所揭示的政治合法性缺陷** 传统上在儿童福祉与早期教育质量上享誉全球的北欧国家集体拒绝参与该项目，不仅形成了对 OECD 霸权的强力反弹，更证明了全球学前教育领域对抵制“一刀切”量化规制的学术与专业共识。
 
-> [!citation-card] 代表性批评[[Document\|文献]]
+> [!citation-card] 代表性批评文献
 > [[Yong Zhao\|赵勇]]（[[Yong Zhao]]）深刻揭示了 Baby PISA 背后 PISA 帝国无限扩张的危险本质：
 > 
 > Baby PISA 意味着 PISA 企业将不仅成为学校质量的仲裁者，更成为学前班、社区和家庭质量的仲裁者……加上评估 16 至 65 岁技能的 PIAAC，PISA 企业将成为从学前班到高中再到退休的全球教育政治、政策和实践中最有影响力的单一机构。（[[Argument_Zhao_2020_JEC\|Zhao, 2020, p. 21]]）
@@ -212,7 +210,7 @@ updated: 2026-10-07
 > | [[PISA]] | Fact (Program) | Baby PISA 的母体项目，奠定了跨国量化评估的操作范式与品牌声誉。 |
 > | [[OECD]] | Fact (Organization) | Baby PISA 的发起者、资助组织与全球数据治理战略主导者。 |
 > | [[Yong Zhao]] | Person | 系统批判 PISA 及其向 Baby PISA 扩张、揭示其危害全球教育多元性的核心学者。 |
-> | [[Argument_Zhao_2020_JEC\|Zhao (2020)]] | Argument | [[Systematic Review\|系统综述]] PISA 二十年弊端并深入抨击 Baby PISA 殖民学前教育的核心[[Document\|文献]]。 |
+> | [[Argument_Zhao_2020_JEC\|Zhao (2020)]] | Argument | [[Systematic Review\|系统综述]] PISA 二十年弊端并深入抨击 Baby PISA 殖民学前教育的核心文献。 |
 > | [[Argument_Grey_2018_CE\|Grey & Morris (2018)]] | Argument | 剖析 OECD 利用品牌霸权向 Baby PISA 等新测量工具进行治理与市场扩张的关键文献。 |
 
 

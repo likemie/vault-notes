@@ -9,7 +9,7 @@ aliases:
 summary: "基于大语言模型与多模态生成架构的认知中介与通用目的技术；在教育中重构人机知识确证分工，其促学成效取决于教学脚手架、评价性判断的自主维系与生产性认识论摩擦；在国家战略与地缘竞争中涌现出通用人工智能火花并引发软硬件层级逆转，成为决定21世纪大国均势与算法威慑的核心软件中枢。"
 type: concept
 domain: "educational-technology"
-related_count: 148
+related_count: 145
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -39,7 +39,6 @@ related_concepts:
   - "[[Data Literacy]]"
   - "[[AI Literacy]]"
   - "[[Epistemic Dependence]]"
-  - "[[Document]]"
   - "[[Epistemic Agency]]"
   - "[[Epistemic Stances]]"
   - "[[Evaluativist]]"
@@ -47,7 +46,6 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Emergence]]"
-  - "[[Attrition]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Epistemology]]"
   - "[[Dialogue in Education]]"
@@ -79,7 +77,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[Problem Solving]]"
   - "[[Learner Autonomy]]"
-  - "[[Hypothesis]]"
   - "[[General Education]]"
   - "[[Epistemic Virtues and Vices]]"
   - "[[Skill of Questioning]]"
@@ -220,7 +217,7 @@ updated: 2026-10-15
 > *Science education must shift from static factual recall to evidence evaluation, data literacy, and AI literacy, equipping young people to critically navigate algorithmic tools and their limitations.*
 
 > [!citation-card] 知识确证分工重组与[[Epistemic Dependence|认识依赖]]视角
-> 认识依赖是指在与知识相关的各项活动中对人工智能系统的依托，涵盖获取信息、接收解释、综合[[Document\|文献]]、评价质量、选择诠释、消解不确定性以及为知识主张提供辩护。这一界定远比单纯的行为使用频次更为宽广。一个学习者可能频繁使用人工智能，但只要这种交互能够激发质疑、对比与反思修正，其依然保持着高度的[[Epistemic Agency\|认识主体性]]；相反，另一个学习者可能仅仅使用了一次，却在高风险的评价任务中将算法输出奉为终局定论。因此，分析的界限从来不是使用与否，而是协助形态与认知判断之间的实质关系。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 3–4)]]
+> 认识依赖是指在与知识相关的各项活动中对人工智能系统的依托，涵盖获取信息、接收解释、综合文献、评价质量、选择诠释、消解不确定性以及为知识主张提供辩护。这一界定远比单纯的行为使用频次更为宽广。一个学习者可能频繁使用人工智能，但只要这种交互能够激发质疑、对比与反思修正，其依然保持着高度的[[Epistemic Agency\|认识主体性]]；相反，另一个学习者可能仅仅使用了一次，却在高风险的评价任务中将算法输出奉为终局定论。因此，分析的界限从来不是使用与否，而是协助形态与认知判断之间的实质关系。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 3–4)]]
 >
 > *For this review, epistemic dependence refers to reliance on AI systems for knowledge-related activity, including obtaining information, receiving explanations, synthesising sources, evaluating quality, selecting interpretations, resolving uncertainty and justifying claims. This definition is broader than behavioural frequency... The analytic boundary is therefore not use versus non-use. It is the relation between assistance and judgement.*
 
@@ -237,7 +234,7 @@ updated: 2026-10-15
 > [!boundary]- 概念边界
 > - **不等于 [[Intelligent Tutoring Systems\|智能导师系统]]（ITS）** 传统 ITS 依赖预设的专家产生式规则与结构化题库进行良构解题的单轮分步演练；GenAI 依托大语言模型与多模态架构的统计概率[[Emergence\|涌现]]，支持多轮开放式自然语言对话、[[Role-playing\|角色扮演]]与非结构化探究共创。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–359)]]
 > - **不等于 数学课堂中的计算器（The Calculator Picture）** 计算器仅卸载机械性算术运算，同时完整保留了学生对数学题意理解、公式推导与逻辑论证的核心心智；生成式 AI 在读写教育中则全流程代劳了构思、提纲与修改，契合的是点餐即食的私厨隐喻（Personal Chef Picture），极易剥夺学生发展核心认知与探究能力的机会。[[Argument_Smith_2026_SPE\|(Smith, 2026, pp. 2–8)]]
-> - **不等于 判别式/预测性人工智能（Predictive AI）** 判别式 AI 核心功能是分类、打分、过滤与标签化（如自动批改与[[Attrition\|流失]]率预警）；生成式 AI 核心功能是基于提示生成全新内容与交互式对话。
+> - **不等于 判别式/预测性人工智能（Predictive AI）** 判别式 AI 核心功能是分类、打分、过滤与标签化（如自动批改与流失率预警）；生成式 AI 核心功能是基于提示生成全新内容与交互式对话。
 > - **不等于 自动代写与学术欺诈工具** 将 GenAI 窄化为代写工具是工具主义与[[Disciplina and Doctrina\|规训]]视角的产物；在学习科学中，它被定位于支持思维外化与[[Epistemology\|认识论]]质询的认知脚手架。
 > - **不等于 彻底剥离技术的绝对独立（Radical Epistemic Autonomy）** 追求完全摆脱生成式技术支持的孤立自足是不切实际的纯洁性设想；GenAI 教育治理的核心在于相互依赖中维系关系性认识主体性。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, p. 7)]]
 
@@ -251,7 +248,7 @@ updated: 2026-10-15
 > | **核心算法机制** | 决策树、支持向量机、深度分类网络 | 专家系统、产生式规则库、贝叶斯网络 | 基于倒排索引与 PageRank 的关键字匹配 | **Transformer、自回归语言模型、多模态扩散** |
 > | **人机交互模态** | 静态结果呈现（分数、类别、预警概率） | 结构化答题面板、预设分步提示（单轮反馈） | 静态超链接列表与摘要提取 | **开放式多轮自然语言[[Dialogue in Education\|对话]]、代码与画布** |
 > | **认知协同关系** | 外部评估者与诊断器 | 预设权威导师与解题教练 | 信息检索中介与资料库 | **共生学习伙伴、思维辩友与概念探究[[Scaffolding\|脚手架]]** |
-> | **学生认知任务类型** | 接受诊断评估、查看预测学业画像 | 良构学科（数学、物理）单点练习与测验 | 事实性信息检索与[[Document\|文献]]定位 | **复杂问题探究、创意写作、跨学科方案设计** |
+> | **学生认知任务类型** | 接受诊断评估、查看预测学业画像 | 良构学科（数学、物理）单点练习与测验 | 事实性信息检索与文献定位 | **复杂问题探究、创意写作、跨学科方案设计** |
 > | **[[Working Memory\|工作记忆]]负荷机制** | 不直接参与思考过程，仅作外部评价 | 逐步提示分担外在负荷，引导图式构建 | 需学生自行筛选海量链接，搜索负荷较重 | **极速生成初稿；极易诱发有害的[[Cognitive Offloading\|认知卸载]]** |
 > | **核心教学治理挑战** | 算法黑箱导致评估不透明、标签化偏见 | 知识库构建成本高、难以迁移至开放领域 | 辨别信息源权威性与过滤商业推广 | **模型幻觉识别、文风均质化防范与[[Epistemological Vigilance\|认识论警觉]]维持** |
 
@@ -319,7 +316,7 @@ updated: 2026-10-15
 > | [DeepSeek](https://www.deepseek.com) | 深度求索研发的基座大模型（V3 / R1 系列）；在长程逻辑推理、数学推导与代码生成上表现优异，全面开源 |
 > | [通义千问](https://chat.qwenlm.ai) | 阿里巴巴研发的大语言与多模态模型系列（Qwen）；开源生态完善，中文语义理解、长文档解析与多语言支持扎实 |
 > | [腾讯元宝](https://yuanbao.tencent.com) | 腾讯基于混元大模型推出的 AI 助手；深度打通微信公众号生态与搜狗搜索，擅长长文深度研读与信息精炼 |
-> | [Kimi](https://kimi.moonshot.cn) | 月之暗面（Moonshot AI）研发的长文本对话助手；原生支持数百万字超长无损上下文，擅长学术长[[Document\|文献]]速读与对比提取 |
+> | [Kimi](https://kimi.moonshot.cn) | 月之暗面（Moonshot AI）研发的长文本对话助手；原生支持数百万字超长无损上下文，擅长学术长文献速读与对比提取 |
 > | [豆包](https://www.doubao.com/) | 字节跳动基于云雀大模型研发的通用助手；响应迅速，语音交互自然，支持多功能[[AI Agent in Education\|智能体]]与日常学习辅助 |
 
 > [!tip] 学术与探究常用工具推荐
@@ -353,7 +350,7 @@ updated: 2026-10-15
 ### 命题二　生成式人工智能驱动教育评估体系从“单向终稿交付”向“递归探究与认识论摩擦维持”的范式转型
 
 > [!concept-lens] 课程评价变革与[[Epistemology\|认识论]]主体性维度
-> 该命题揭示了生成式技术对传统教育评估[[Hypothesis\|假设]]的根本颠覆，指明了未来课程设计与素养培养的重构方向。
+> 该命题揭示了生成式技术对传统教育评估假设的根本颠覆，指明了未来课程设计与素养培养的重构方向。
 
 > [!claim] The Royal Society
 > **数智时代[[Scientific Literacy\|科学素养]]从事实复现向证据核验与 AI 素养的重构** 生成式人工智能的普及使得传统的静态事实记忆与套路化文本写作在评估中迅速贬值。科学与[[General Education\|通识教育]]必须转向以证据评估、模型偏见识别、数据批判性审读为核心的综合素养，将[[AI Literacy\|人工智能素养]]确立为现代公民的核心能力基石，推动学生从被动的信息消费者转变为具备[[Epistemological Vigilance\|认识论警觉]]的质询者。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, pp. 34–36)]]
@@ -440,7 +437,7 @@ updated: 2026-10-15
 > | **教学[[Interaction Effect\|调节效应]]命题** | 技术效应非固有，教学脚手架、[[Self-Regulated Learning\|自主调节能力]]与干预时长窗口共同决定认知增益与子维度级差 | 高等教育人机协同学习、[[STEM Education\|STEM]] 实验探究、基础教育 PBL 项目 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]]; [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]]; [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] |
 > | **活动系统重构命题** | 评价重点由终稿产出转向提示词轨迹、认识论摩擦维持与苏格拉底式探究支架 | 科学素养课程、数智通识教育、基于项目的全程评价改革 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]]; Medina (2013); [[Argument_Naeem_2026_Episteme\|Naeem (2026)]] |
 > | **生态支持机制命题** | 低 ICT、低 SES 情境呈边际效益递增，高权力距离下破除层级威慑心理 | 跨文化教学、教育公平政策、欠发达地区高校数字化 | [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] |
-> | **社会认识论重组命题** | 知识确证分工重组，承载判断型协助置换评价性判断，倡导在相互依赖中维系关系性认识主体性 | 高等教育学术探究、[[Document\|文献]]综合评估、认识规范培育与学术诚信制度建设 | [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] |
+> | **社会认识论重组命题** | 知识确证分工重组，承载判断型协助置换评价性判断，倡导在相互依赖中维系关系性认识主体性 | 高等教育学术探究、文献综合评估、认识规范培育与学术诚信制度建设 | [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] |
 > | **共生认识演进命题** | 共生伙伴关系中认识立场呈绝对主义向评价主义演进，依赖技术提示与教学双轨支架维系认识主体性 | 人机协同[[Knowledge Production\|知识建构]]、提示词工程教学、[[Inquiry-Based Learning\|探究式学习]]与认识信念发展 | [[Argument_Wu_2025_ER\|Wu et al. (2025)]]; [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] |
 > | **成长性认识正义命题** | 破除计算器辩护假定，揭示读写教育中全流程代写的私厨本质与成长性侵害，通过异己智能定位与思维全外显（Showing Steps）防范认知去技能化 | 人文学科与通识读写教育、学术论文指导、思维演进过程性评价改革 | [[Argument_Smith_2026_SPE\|Smith (2026)]] |
 > | **国家战略动员与契约重构命题** | 赢得 AI 竞赛确立为国家核心利益叙事，依托公私伙伴与国家实验室绕开大学基础研究直接获取前沿技术能力 | 大国地缘科技竞争、[[National Innovation System\|国家创新体系]]重构、技术型社会契约 | [[Argument_Fan_2026_BCAS\|樊春良 (2026)]] |
@@ -531,9 +528,9 @@ updated: 2026-10-15
 > - **无法替代具身情境与实践经验** 实验室动手操作、真实[[Fieldwork\|田野调查]]、面对面同伴共情与人际伦理协商等核心教育体验，均无法被纯文本/多模态生成式算法替代。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, pp. 32–34)]]
 > - **高度依赖领域先验知识与[[Self-Regulated Learning\|自我调节学习]]能力（SRL）** 只有当使用者具备学科基准图式与高水平[[Metacognition\|元认知监控]]时，才能有效驾驭生成式 AI 并识别模型幻觉；实证确证低 SRL 学习者在生成式技术环境下促学效应显著滑落（$g = 0.284$ vs 高 SRL $0.863, p < .001$），极易陷入算法盲从与深度推理放弃。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 12–13)]]
 > - **跨学科认识规范的[[Incommensurability\|不可通约性]]** 生成式模型基于统计平均与概率关联生成跨学科内容，往往掩盖不同学科独特的证据[[Justificatory Standards\|确证标准]]与方法论辩护规范（例如人文学科的诠释学深度 vs 实证科学的可重复性检验），不可将其统摄为单一同质的通用确证机器。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 4, 6)]]
-> - **警惕长期脱敏与[[Fade-out Effect\|效应衰退]]（Fade-out Effect）** 干预时间并非越长越好，过长或过短均削弱成效：① **高校情境黄金周期** [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] 发现短期（$<4$ 周，$g^+ = 0.541$）未充分内化，长期（$>12$ 周，$g^+ = 0.350$）易发生脱敏疲劳，**4–12 周（$g^+ = 1.014$）** 为黄金窗口；② **[[Higher-Order Thinking Skills\|高阶思维]]综合倒 U 型验证** [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] 跨学段实证同样表明，8–16 周干预成效达到峰值（$g = 0.759$），而 $>16$ 周急剧下滑至 $g = 0.372$（$p = 0.011$），跨[[Document\|文献]]交叉证实长期介入若缺乏递进式任务挑战，极易诱发工具依赖与认识论摩擦耗散。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 12, 17)]]; [[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 11–12)]]
+> - **警惕长期脱敏与[[Fade-out Effect\|效应衰退]]（Fade-out Effect）** 干预时间并非越长越好，过长或过短均削弱成效：① **高校情境黄金周期** [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] 发现短期（$<4$ 周，$g^+ = 0.541$）未充分内化，长期（$>12$ 周，$g^+ = 0.350$）易发生脱敏疲劳，**4–12 周（$g^+ = 1.014$）** 为黄金窗口；② **[[Higher-Order Thinking Skills\|高阶思维]]综合倒 U 型验证** [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] 跨学段实证同样表明，8–16 周干预成效达到峰值（$g = 0.759$），而 $>16$ 周急剧下滑至 $g = 0.372$（$p = 0.011$），跨文献交叉证实长期介入若缺乏递进式任务挑战，极易诱发工具依赖与认识论摩擦耗散。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 12, 17)]]; [[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 11–12)]]
 > - **规避认知与[[Creative Deskilling|创造力去技能化]]（[[Cognitive Deskilling|Deskilling]]）的架构约束** 生成式 AI 若直接产出完整答案或现成创意，极易引发学习者自主提问与[[Counterfactual|反事实]]探索能力的退化；教学[[AI Agent in Education|智能体]]必须嵌入“直接答案拦截规则”，强制学生经历认知挣扎与[[Socrates|苏格拉底]]式问答，方能将[[Research Translation|技术转化]]为促进高阶思维与[[Epistemic Virtues and Vices|理智美德]]的[[Scaffolding|脚手架]]。[[Argument_Naeem_2026_Episteme\|(Naeem, 2026, pp. 273–276)]]
-> - **[[Publication Bias\|发表偏倚]]虚高与真实效应收敛** 现有[[Document\|文献]]存在显著的“抽屉效应”与自编测验效应虚高（自编测验 $g^+ = 1.022$ vs 标准化量表 $0.614$），经[[Trim and Fill Method\|剪补法]]严密校正后总体真实[[Effect Size\|效应量]]收敛为中等偏小的客观基准（$g^+ = 0.321$），警示学界与决策者摒弃盲目技术狂热。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 13–14)]]
+> - **[[Publication Bias\|发表偏倚]]虚高与真实效应收敛** 现有文献存在显著的“抽屉效应”与自编测验效应虚高（自编测验 $g^+ = 1.022$ vs 标准化量表 $0.614$），经[[Trim and Fill Method\|剪补法]]严密校正后总体真实[[Effect Size\|效应量]]收敛为中等偏小的客观基准（$g^+ = 0.321$），警示学界与决策者摒弃盲目技术狂热。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 13–14)]]
 
 ---
 
@@ -565,7 +562,7 @@ updated: 2026-10-15
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Wu_2025_ER\|Wu et al. (2025, pp. 360–366)]] | 中小学科学探究与高校学术探究场景 | 概念框架与个案论证 | 人机共生[[Epistemic Agency\|认识主体性]]、三大[[Epistemic Stances\|认识立场]]（绝对主义、相对主义、评价主义）与双轨干预支架 | 阐明[[Role-playing\|角色扮演]]与思维链提示作为技术脚手架；证实评价主义认识立场是抵御算法幻觉与有害[[Cognitive Offloading\|认知卸载]]的[[Necessary and Sufficient Conditions\|必要条件]] | — | 概念与质性案例分析，揭示技术提示与教学法双轨支架协同促进认识立场向评价主义演进的机制 |
-> | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 9)]] | 全球 67 项高等教育实证研究（2022–2025） | [[PRISMA]] [[Systematic Review\|系统综述]]与主题综合 | [[Higher-Order Thinking Skills\|高阶思维]]认知共现模式分布 | 协同增益 $n = 18$ (53%)；非对称发展 $n = 8$ (24%)；双重侵蚀 $n = 4$ (12%) | 87% MMAT $\ge 80\%$ | 仅针对考察双向思维的 34 项[[Document\|文献]]进行轨迹聚类 |
+> | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 9)]] | 全球 67 项高等教育实证研究（2022–2025） | [[PRISMA]] [[Systematic Review\|系统综述]]与主题综合 | [[Higher-Order Thinking Skills\|高阶思维]]认知共现模式分布 | 协同增益 $n = 18$ (53%)；非对称发展 $n = 8$ (24%)；双重侵蚀 $n = 4$ (12%) | 87% MMAT $\ge 80\%$ | 仅针对考察双向思维的 34 项文献进行轨迹聚类 |
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026, p. 5)]] | 全球 67 项高等教育实证研究（2022–2025） | PRISMA 系统综述描述性统计 | 学科领域与地理分布特征 | 亚洲占 58.21% ($n = 39$)；STEM 占 35.82% ($n = 24$)；量化占 38.81% | — | 揭示当前实证证据集中于亚洲高校及重逻辑学科 |
 > | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026, p. 32)]] | 英国中小学与高等教育衔接调研 | 政策报告与实证证据综合 | 实践探究与数智技能培养危机 | 超过 50% 教师报告探究课时受压缩；数智素养与科学实验动手需求呈结构性矛盾 | — | 宏观系统调研，论证 AI 时代保护实践探究课时的战略必要性 |
 > | [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026, pp. 3–5)]] | 高等教育生成式 AI 整合实证文献与理论批判 | 概念辨析与社会[[Epistemology\|认识论]]批判分析 | [[Epistemic Dependence\|认识依赖]]协助形态分层与中介路径 | 工具型、承载型与承载判断型三层协助；四重社会技术中介路径（流畅权威性、无摩擦委托、不透明综合、制度化依赖） | — | 定性概念与认识论框架，揭示[[Evaluative Judgement\|评价性判断]]外包的非行为频次依赖风险 |

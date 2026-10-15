@@ -38,13 +38,11 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Operationalization]]"
   - "[[Literature Review]]"
-  - "[[Hypothesis]]"
   - "[[Experiential Learning]]"
   - "[[Cooperative Learning]]"
   - "[[Dependent Variable]]"
   - "[[Construct]]"
   - "[[Student Attitude]]"
-  - "[[Document]]"
   - "[[Critical Thinking Disposition]]"
   - "[[Procedural Skill]]"
   - "[[Blue Skies Research]]"
@@ -69,7 +67,6 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Transcription in Qualitative Research]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Research]]"
   - "[[Effect Size Conversion]]"
   - "[[Standard Error]]"
@@ -94,7 +91,7 @@ title: "Argument_Erdem_2026_SHE"
 argument_key: "Argument_Erdem_2026_SHE"
 argument_display_title: "Problem-based learning and student outcomes in higher education: A second-order meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 54
+argument_related_count: 51
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -143,7 +140,7 @@ issuing_organization: ""
 > 1. **呈现真实问题情景** 学生以真实或拟真的专业问题启动学习，问题成为学习的出发点。（pp. 952–953）
 > 2. **讨论先备知识** 小组调用既有知识解释问题，识别知识缺口（Loyens et al., 2015）。
 > 3. **[[Self-Directed Learning\|自我导向学习]]** 学生通过自导学习填补缺口，收集与分析资料。
-> 4. **检验[[Hypothesis\|假设]]与评价** 学生检验假设、评估学习结果，在[[Problem Solving\|问题解决]]中整合理解（Begay et al., 2006; Hmelo-Silver, 2004）。
+> 4. **检验假设与评价** 学生检验假设、评估学习结果，在[[Problem Solving\|问题解决]]中整合理解（Begay et al., 2006; Hmelo-Silver, 2004）。
 > 5. **巩固与反思** 问题解决后巩固理解，发展批判性思维与反思学习能力，并为终身学习做准备。
 
 > [!feature] PBL 关联的学习与认知理论
@@ -186,7 +183,7 @@ issuing_organization: ""
 > |------|----------------|
 > | **方法定位**<br>Second-Order Meta-Analysis | 以整合元分析统计结果为目标，将一阶[[Meta-analysis\|元分析]]报告的分析单位（独立[[Effect Size\|效应量]]）作为二阶综合的分析单位，在[[Fixed-Effect and Random-Effects Models\|随机效应模型]]下进行整合（Oh, 2020; Schmidt & Oh, 2013）。（p. 956） |
 > | **文献检索与筛选**<br>Systematic Search & Screening | 检索 Scopus、Web of Science、MEDLINE、ERIC、Academic Search Ultimate、Google Scholar 与 ProQuest；使用“problem based”或“[[Problem-Based Learning\|PBL]]”与“meta-analysis”“meta analytic”“systematic review”关键词组合；遵循系统综述和荟萃分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses，PRISMA）指南。检索得 495 项，去重后 43 项，按标准筛选后最终纳入 20 项元分析。（pp. 956–957） |
-> | **纳入与排除标准**<br>Inclusion & Exclusion Criteria | 六项标准涵盖[[Document\|文献]]语言与时限、干预与对照要求、统计信息、文献重叠、教育阶段与对照组类型，具体判定见下方序号表。（pp. 956–957） |
+> | **纳入与排除标准**<br>Inclusion & Exclusion Criteria | 六项标准涵盖文献语言与时限、干预与对照要求、统计信息、文献重叠、教育阶段与对照组类型，具体判定见下方序号表。（pp. 956–957） |
 > | **方法学质量评估**<br>Quality Assessment | 采用修订版[[AMSTAR\|系统评价质量评估工具]]（Revised Assessment of Multiple Systematic Reviews，R-AMSTAR，Kung et al., 2010）评估元分析质量；量表 11 个章节，剔除 8A 与 8B 临床适用条目（各 1 分）不计分；质量得分作为调节[[Variable\|变量]]参与统计检验。（p. 957） |
 > | **数据提取与双人编码**<br>Data Extraction & Coding | 以 MS Excel 开发编码表；两位研究者独立编码，评定者间一致性系数 Cohen's $\kappa = 0.89$；分歧经讨论，无法达成一致者征询专家意见后决定。（p. 957） |
 > | **效应量选择与转换**<br>Effect Size Selection & Conversion | 标准化均差（Standardized Mean Difference，SMD）、Cohen's d 与 Hedges' g 在大样本下等价（Goulet-Pelletier & Cousineau, 2018）；数据集中 $k = 47$ 个报告 SMD、$k = 2$ 个报告比值比（Odds Ratio，OR）、$k = 1$ 个报告 Hedges' g，OR 转换为 SMD 后纳入分析；统计软件为 CMA 3.0。（pp. 957–960） |
@@ -267,7 +264,7 @@ issuing_organization: ""
 >
 > RCT 表示随机对照试验；非 RCT 表示非随机对照试验；* 表示离群值；** 表示以 OR 报告；*** 表示以 Hedges' g 报告。表内部分数值按原刊表格[[Transcription in Qualitative Research\|转录]]，个别单元格存在排版不清。表中 1977–2002 年医学博士论文经比对确认为 Smith (2003)（Problem-based versus lecture-based medical teaching and learning: a meta-analysis of cognitive and noncognitive outcomes），原刊 Table 1 未显示作者名。（pp. 958–959）
 
-> [!ref-table]- [[Variable\|变量]][[Coding in Qualitative Research\|编码]]程序规范（Table 2）
+> [!ref-table]- [[Variable\|变量]]编码程序规范（Table 2）
 > | 编码分组 | 编码类别与[[Operationalization\|操作化]]定义 |
 > |---|---|
 > | **研究** | 编码为研究者（发表年份）。 |
@@ -314,7 +311,7 @@ issuing_organization: ""
 > - 教育学领域在 20 世纪后半叶从行为主义与认知主义的知识传递转向探索超越知识获取的教学模型，PBL 作为[[Constructivist Paradigm\|建构主义]]教学模式被视为这一需求的解决方案（Hung, Jonassen, & Liu, 2008; Erdem, 2024）。（p. 951）
 
 > [!case] 起源与扩散案例
-> PBL 于 1960 年代中期为医学教育开发（Barrows, 2000; Schmidt, Vermeulen, & van der Molen, 2006），实践起源于加拿大，随后被美国、欧洲与亚洲高等教育机构采纳；1960 年代以来，医学、护理、药学、牙科与工程等专业将 PBL 纳入课程。2010 年后 PBL [[Document\|文献]]量翻倍以上，显示其兴趣持续增长。（pp. 950–951）
+> PBL 于 1960 年代中期为医学教育开发（Barrows, 2000; Schmidt, Vermeulen, & van der Molen, 2006），实践起源于加拿大，随后被美国、欧洲与亚洲高等教育机构采纳；1960 年代以来，医学、护理、药学、牙科与工程等专业将 PBL 纳入课程。2010 年后 PBL 文献量翻倍以上，显示其兴趣持续增长。（pp. 950–951）
 
 > [!warrant]- 推理桥梁
 > 既然问题解决与高阶认知已成为高等教育的核心目标，而 PBL 被广泛采用为达成这些目标的模式，那么系统评估 PBL 究竟在多大程度上、在哪些结果上改变了学生表现，就成为课程决策必需的知识。这正是二阶综合要回答的问题。（pp. 950–951）
@@ -358,7 +355,7 @@ issuing_organization: ""
 ### 论证步骤四：严格筛选、质量评估与统一效应量尺度为二阶综合奠基
 
 > [!claim] [[PRISMA]] 检索、六项纳入标准、R-[[AMSTAR]] 质量评估与[[Effect Size Conversion\|效应量转换]]，保证了二阶数据集的可比性
-> 从 495 项检索结果经去重与筛选得到 43 项候选，再按纳入标准最终保留 20 项元分析（469 项独立研究）。R-AMSTAR 质量得分作为调节[[Variable\|变量]]，双人[[Coding in Qualitative Research\|编码]]一致率 κ = 0.89，OR 与 Hedges' g 统一转换为 SMD，为[[Fixed-Effect and Random-Effects Models\|随机效应模型]]合成奠定数据基础。（pp. 956–960）
+> 从 495 项检索结果经去重与筛选得到 43 项候选，再按纳入标准最终保留 20 项元分析（469 项独立研究）。R-AMSTAR 质量得分作为调节[[Variable\|变量]]，双人编码一致率 κ = 0.89，OR 与 Hedges' g 统一转换为 SMD，为[[Fixed-Effect and Random-Effects Models\|随机效应模型]]合成奠定数据基础。（pp. 956–960）
 
 > [!chain-link] 证据到判断
 > - 六项纳入标准排除了富化 PBL、混合其他教学模式、覆盖 K-12、缺乏传统对照组或统计信息不足的元分析，并采用 Cooper & Koenka 低于 25% 重叠率门槛控制文献重叠。（pp. 956–957）

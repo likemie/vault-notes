@@ -24,7 +24,6 @@ related_concepts:
   - "[[Externalization]]"
   - "[[Soft-Money Faculty Model]]"
   - "[[Shopping Mall Model of Research Universities]]"
-  - "[[Document]]"
   - "[[Curiosity-Driven Research]]"
   - "[[Indirect Costs of Research]]"
   - "[[Grandes Ecoles]]"
@@ -44,7 +43,6 @@ related_persons:
   - "[[Kenneth Burke]]"
   - "[[James Madison]]"
   - "[[Peter Thiel]]"
-  - "[[Alfred Nobel]]"
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
   - "[[National Science Foundation]]"
@@ -68,9 +66,9 @@ title: "Argument_Stephan_2013_NBER"
 argument_key: "Argument_Stephan_2013_NBER"
 argument_display_title: "The Endless Frontier: Reaping what Bush Sowed? (NBER Working Paper No. 19687)"
 argument_kind: "report"
-argument_related_count: 31
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 29
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dcfce7"
 journal: ""
 book_title: ""
@@ -124,7 +122,7 @@ issuing_organization: "National Bureau of Economic Research"
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |---|---|
-> | **[[Document\|文献]]与法案样本** | 《科学：[[Science, The Endless Frontier 1945\|无尽的前沿]]》报告文本、美国《国防教育法》（National Defense Education Act, NDEA）、1960 年西博格报告、美国联邦管理与预算局（Office of Management and Budget, OMB）间接成本管理通告及美国[[National Research Council\|国家研究委员会]]（National Research Council, NRC）历年劳动力委员会报告。（pp.4–17, 22–24） |
+> | **文献与法案样本** | 《科学：[[Science, The Endless Frontier 1945\|无尽的前沿]]》报告文本、美国《国防教育法》（National Defense Education Act, NDEA）、1960 年西博格报告、美国联邦管理与预算局（Office of Management and Budget, OMB）间接成本管理通告及美国[[National Research Council\|国家研究委员会]]（National Research Council, NRC）历年劳动力委员会报告。（pp.4–17, 22–24） |
 > | **机构与资助数据** | 1920–2011 年全美授予博士学位的高校全样本；1971–2010 年 NIH、NSF、美国国防部（Department of Defense, DOD）、[[Department of Energy\|美国能源部]]（Department of Energy, DOE）资助的 900 余所高校科研拨款明细；卡内基高等教育分类院校样本。（pp.5, 12–13, 16, 19, 24） |
 > | **时间跨度情境** | 1945 年二战结束至 2013 年后金融危机与财政自动减赤时期的近七十年完整周期。（pp.1–48） |
 
@@ -268,7 +266,7 @@ issuing_organization: "National Bureau of Economic Research"
 > | **2003 年** | 6.8 年 | 6.9 年 | 6.9 年 |
 > | **2008 年** | 6.7 年 | 6.7 年 | 6.9 年 |
 
-除直接项目经费外，大学管理层重点争取的另一项支持是间接成本补偿金，用于补偿水电气、图书[[Document|文献]]与管理建筑折旧（pp.14–16）。
+除直接项目经费外，大学管理层重点争取的另一项支持是间接成本补偿金，用于补偿水电气、图书文献与管理建筑折旧（pp.14–16）。
 
 > [!tension-table] 间接成本管理中的联邦规制与大学诉求
 > | 历史阶段与政策节点 | 联邦政府／国会立场 | 大学管理层诉求 | 最终制度化结果 |
@@ -394,7 +392,7 @@ NIH 名义预算在 1998 至 2002 年间翻了一番，但这并未带来稳定�
 > - **布什原初蓝图（蓝方）** 大学应享有高度自主与试错宽容，开展高风险、不可预测的纯基础科学探索，哪怕绝大多数项目遭遇失败亦在所不惜。（pp.4–5, 31）
 > - **现实避险生态（红方）** 评审委员会高度看重[[Pilot Testing|预实验]]数据的完备性与技术可行性；软钱制度下教师薪资直接绑定项目胜负，迫使学者普遍退缩至稳妥的增量型课题。学术避险倾向直接扼杀了具有变革潜力的前沿突破。（pp.30–32）
 
-[[Alfred Nobel|诺贝尔]]奖得主罗杰·科恩伯格（Roger Kornberg）指出，如果申请的工作不能基本确保成功，往往很难获得资助，但最具突破性的探索往往伴随着极大的不确定性（p.31）。
+诺贝尔奖得主罗杰·科恩伯格（Roger Kornberg）指出，如果申请的工作不能基本确保成功，往往很难获得资助，但最具突破性的探索往往伴随着极大的不确定性（p.31）。
 
 #### 2. 压力之二：[[PhD Overproduction in Science|科学博士生产过剩]]与实验室常规用工模式
 

@@ -5,7 +5,7 @@ aliases:
 summary: "围绕效应量作为教育有效性指标的多维度批评体系，涵盖计算口径不可比、聚合失真、关节点争议、试验清晰度论证及政策排名风险"
 type: concept
 domain: "research-methodology"
-related_count: 53
+related_count: 50
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -17,11 +17,8 @@ tags:
 related_concepts:
   - "[[Critique of Meta-analysis]]"
   - "[[Unit of Analysis]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Research Utilization]]"
   - "[[Evidence-Based Education]]"
-  - "[[Document]]"
-  - "[[Hypothesis]]"
   - "[[Visible Learning]]"
   - "[[Creativity]]"
   - "[[Creativity Assessment]]"
@@ -76,7 +73,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-15
-updated: 2026-09-18
+updated: 2026-10-15
 ---
 
 # Critique of Effect Size
@@ -111,7 +108,7 @@ updated: 2026-09-18
 ## 争议与批评
 
 > [!warning] 争议结构
-> [[Effect Size\|效应量]]争议不是一个单点问题，而是一条从“计算口径”到“教育政策使用”的问题链。支持者强调它提供跨研究比较的共同尺度；批评者则指出，公式、测量、对照条件、聚合方式和政策[[Transfer Translation Transformation\|转译]]都会改变效应量的含义。
+> [[Effect Size\|效应量]]争议不是一个单点问题，而是一条从“计算口径”到“教育政策使用”的问题链。支持者强调它提供跨研究比较的共同尺度；批评者则指出，公式、测量、对照条件、聚合方式和政策转译都会改变效应量的含义。
 
 ---
 
@@ -133,9 +130,9 @@ updated: 2026-09-18
 > [!ref-table] [[Evidence-Based Education\|EBE]] 支持者的防御策略（[[Argument_Simpson_2019_ERE\|Simpson, 2019]]）
 > [[Argument_Simpson_2019_ERE\|Simpson (2019, pp. 106–108)]]引用 Freedman（2009）识别的统计论证被揭露缺陷后的防御策略清单：
 >
-> | 防御策略 | 效应量[[Document\|文献]]中的表现 |
+> | 防御策略 | 效应量文献中的表现 |
 > | --- | --- |
-> | [[Hypothesis\|假设]]是合理的 | Schneider & Preckel（2017）和 Higgins & Katsipataki（2016）列出假设但不检验其是否成立 |
+> | 假设是合理的 | Schneider & Preckel（2017）和 Higgins & Katsipataki（2016）列出假设但不检验其是否成立 |
 > | 假设不重要 | "许多继续使用效应量代表教育有效性的人似乎无法区分有缺陷的论证和某些结论可能碰巧正确的可能性"（p. 107） |
 > | 假设是保守的 | 隐含在列举假设但未检验的行为中（Berk, 2007, p. 264: "列举假设本身似乎就使元分析免于建模错误"） |
 > | 你不能证明假设是错的 | [[Argument_Hattie_2017_SLM\|Hattie (2017)]]辩称其"大胆推测"尚未被证伪——但"我们能够注意到他所使用的无效论证形式不允许得出这些结论"（p. 108） |

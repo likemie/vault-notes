@@ -9,7 +9,7 @@ title: "Argument_Eacott_2015_EPT"
 argument_key: "Argument_Eacott_2015_EPT"
 argument_display_title: "Problematising the intellectual gaze of the educational administration scholar"
 argument_kind: "journal-article"
-argument_related_count: 14
+argument_related_count: 13
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Epistemology]]"
   - "[[Champ]]"
-  - "[[Habitus]]"
   - "[[Doxa]]"
   - "[[Epistemological Break]]"
   - "[[Definition of Terms]]"
@@ -64,7 +63,7 @@ citation_aliases:
 >
 > Eacott 的 Bourdieu 运用既非亦步亦趋的忠诚，也非随意截取，而是以 Bourdieu 的认识论论证来**描述他在教育领导力、管理和行政学术中看到的正在发生的事情**。
 >
-> 核心不满：大多数教育行政中的 Bourdieu 式研究优先使用[[Champ\|场域]]-[[Habitus\|习性]]-资本等思维工具，但未能处理 Bourdieu 的认识论预备——这导致这类研究"难以超越学校教育的行政管理的（再）生产本质"(p.313-314)。
+> 核心不满：大多数教育行政中的 Bourdieu 式研究优先使用[[Champ\|场域]]-习性-资本等思维工具，但未能处理 Bourdieu 的认识论预备——这导致这类研究"难以超越学校教育的行政管理的（再）生产本质"(p.313-314)。
 
 ## 研究方法
 
@@ -92,7 +91,7 @@ citation_aliases:
 ## 主要发现
 
 > [!success] 主要发现
-> - 教育行政领域中**大多数 Bourdieu 式研究没有超越对 Bourdieu 思维工具（[[Champ\|场域]]、[[Habitus\|习性]]、资本）的使用**，忽略了更根本的[[Epistemology\|认识论]]预备问题(p.313-314)
+> - 教育行政领域中**大多数 Bourdieu 式研究没有超越对 Bourdieu 思维工具（[[Champ\|场域]]、习性、资本）的使用**，忽略了更根本的[[Epistemology\|认识论]]预备问题(p.313-314)
 > - 教育行政研究存在一种"默契共识"（tacit agreement）：对不同意见者施以"善意忽视"（benign neglect），而非真正的学术争论。这一领域的危机不在[[Paradigm\|范式]]分歧，而在**作为[[Knowledge Production\|知识生产]]场域与实践场域的关系**(p.323-324)
 > - "领导力"是该领域的**神圣标签**——"不像对管理和/或行政的批判，更不用说对[[Bureaucracy|官僚制]]的妖魔化，'领导力'是该领域当前的神圣标签。质疑其学术合法性，就是将这一领域学术和实践的生成基础——对我们大多数人来说，就是我们的身份——带到[[Discourse|话语]]层面"(p.324)
 > - 管理主义项目的核心特征是"将智识工作（如研究对象的建构、解构和重构的批判和分析）**贬低为异国情调、放纵和非公共利益**"(Gunter, 2013, p.323)

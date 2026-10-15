@@ -7,7 +7,7 @@ title: "Argument_Nelson_2017_ER"
 argument_key: "Argument_Nelson_2017_ER"
 argument_display_title: "Evidence-informed practice in education: meanings and applications"
 argument_kind: "journal-article"
-argument_related_count: 54
+argument_related_count: 52
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -53,7 +53,6 @@ related_concepts:
   - "[[Evidence Standards]]"
   - "[[Discourse]]"
   - "[[Formative Assessment]]"
-  - "[[Document]]"
   - "[[Phronesis]]"
   - "[[Pragmatism in China]]"
   - "[[Evidence-Based Education]]"
@@ -61,7 +60,6 @@ related_concepts:
   - "[[Analytical Stance]]"
   - "[[Boundary Spanner]]"
   - "[[School Leadership]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Problem Finding]]"
   - "[[Knowledge Production]]"
   - "[[Big Ideas]]"
@@ -225,7 +223,7 @@ updated: 2026-09-21
 > | **[[Professional Judgment\|专业判断]]** | 教师基于专业经验、伦理价值、情境理解与教学反思形成的审议判断。 | 决策整合的枢纽；将抽象研究与统计数据情境化，权衡教育目的与适切性。 | 缺乏严谨证据约束时易退化为主观偏见或经验直觉。 |
 > | **系统层面数据** | 学校、学区、省州或国家层面的行政管理、学业测评与督导评估数据。 | 提供宏观基准线与系统性发展信号，支持宏观资源调配与问题诊断。 | 单独主导易导致唯分数论与自上而下的行政技术官僚主义问责。 |
 > | **课堂数据** | [[Formative Assessment\|形成性评估]]、课堂观察记录、学生作业表现与师生互动质性反馈。 | 反映微观教学现场即时动态，为差异化教学与过程性调整提供形成性依据。 | 容易过度依赖终结性测试，缺乏多源定性[[Triangulation\|三角验证]]。 |
-> | **研究证据** | 经学术研究程序系统产出的知识，涵盖实证研究、理论综合与二阶[[Document\|文献]]。 | 提供普适性规律、干预机制解释与概率性效果参考，拓展教师认知视野。 | 脱离情境直接套用会导致教条化执行与实践水土不服。 |
+> | **研究证据** | 经学术研究程序系统产出的知识，涵盖实证研究、理论综合与二阶文献。 | 提供普适性规律、干预机制解释与概率性效果参考，拓展教师认知视野。 | 脱离情境直接套用会导致教条化执行与实践水土不服。 |
 >
 > **图表解读** 四类要素相互支撑，专业判断是整合的核心枢纽；EIP 追求的是四者的动态平衡而非单一驱动。（pp.128–129）
 
@@ -295,7 +293,7 @@ updated: 2026-09-21
 > 皇后大学与[[Elementary Teachers' Federation of Ontario\|安大略小学教师联合会]]（Elementary Teachers' Federation of Ontario, ETFO）针对课堂评估这一高实证密度领域展开调查：
 > 1. **同行主导的信息网络** 调查证实，教师获取评估实践信息的最首要渠道是其他一线教师（other teachers），人际专业网络是证据流动的主渠道。
 > 2. **实践证据的优先性** 即便在专门致力于推动证据使用的试验项目中，教师对[[Practice-Based Evidence\|实践本位证据]]的接纳与使用程度，依然显著高于对原始学术研究报告的利用。
-> 3. **多元中介者的关键角色** 强调[[School Leadership\|学校领导]]、区级行政人员、专业发展提供机构以及教师工会（teachers' unions）在筛选、解读和[[Transfer Translation Transformation\|转译]]证据中承担的关键中介职责。（p.130）
+> 3. **多元中介者的关键角色** 强调[[School Leadership\|学校领导]]、区级行政人员、专业发展提供机构以及教师工会（teachers' unions）在筛选、解读和转译证据中承担的关键中介职责。（p.130）
 
 > [!case] 案例六：[[Knowledge Network for Applied Education Research\|KNAER]] 全系统知识动员战略与双向能力建设（Campbell et al., 2017）
 > 多伦多大学安大略教育研究院（Ontario Institute for Studies in Education, OISE） 与西安大略大学团队对安大略省[[Knowledge Network for Applied Education Research\|应用教育研究知识网络]]（Knowledge Network for Applied Education Research, KNAER）开展深度[[Case Study\|案例研究]]：
@@ -346,7 +344,7 @@ updated: 2026-09-21
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **证据内涵的多元共识** 证据涵盖[[Professional Judgment\|专业判断]]、系统数据、课堂数据与外部研究的多元知识谱系；在日常教学中，实践者最常依赖的证据来自专业经验与同事交流，而非原始研究[[Document\|文献]]（p.132）。
+> 1. **证据内涵的多元共识** 证据涵盖[[Professional Judgment\|专业判断]]、系统数据、课堂数据与外部研究的多元知识谱系；在日常教学中，实践者最常依赖的证据来自专业经验与同事交流，而非原始研究文献（p.132）。
 > 2. **[[Evidence-Informed Practice\|EIP]] 的四源整合定位** 证据知情实践（EIP）明确定义为专业判断、系统层面数据、课堂数据与研究证据的多源整合；证据知情根本不同于研究知情，研究证据是证据知情拼图的关键板块，专业判断是整合枢纽（pp.128–129）。
 > 3. **[[Knowledge Mobilisation\|知识动员]]的系统条件优先性** 知识动员（KMb）涵盖沟通传播、能力建设、伙伴关系与网络、系统化方法四类策略，构成社会共创过程；推进 EIP 的关键在于培育使教育者能够批判、实施与改编证据的肥沃土壤，而非单纯增加研究供给（pp.127, 130–131）。
 > 4. **成果测量的双重缺口与类型学** 测量 EIP 程度与影响面临知识与方法双重缺口；成效评估需区分中间成果（行为与思维模式）与三类长期成果（工具性、概念性、象征性），坚持多元量化指标与丰富质性描述相结合，避免落入只量化可量化部分的陷阱（pp.131–133）。

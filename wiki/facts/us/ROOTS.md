@@ -25,8 +25,8 @@ tags:
   - essa-strong
   - region/us
 related_concepts:
-  - "[[Teaching Assistant]]"
   - "[[Evidence Standards]]"
+  - "[[Teaching Assistant]]"
   - "[[Implementation Fidelity]]"
   - "[[Response to Proven Instruction]]"
   - "[[Problem Solving]]"
@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # ROOTS
@@ -71,7 +71,7 @@ updated: 2026-09-17
 ## 方案设计与运行机制
 
 > [!claim] 核心干预假说
-> 通过教学[[Teaching Assistant\|助教]]对 2 至 5 名高危学生组成的小组开展 50 节高度显性化（Explicit Instruction）的数感微课，围绕具象实物操作向抽象数学符号表征过渡，非专业助教能够以极高保真度产生统计学显著且稳健的学业增益，达到专业教师小组辅导的同等效能。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 25, 28)]]
+> 通过教学助教对 2 至 5 名高危学生组成的小组开展 50 节高度显性化（Explicit Instruction）的数感微课，围绕具象实物操作向抽象数学符号表征过渡，非专业助教能够以极高保真度产生统计学显著且稳健的学业增益，达到专业教师小组辅导的同等效能。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 25, 28)]]
 
 > [!policy-design] 方案设计与教学规程
 > - **50 节系统化螺旋递进微课** 课程全长 50 节，每节 20–30 分钟，严格按照以下三步法实施：
@@ -84,14 +84,14 @@ updated: 2026-09-17
 > [!citation-card] 斯莱文论 ROOTS 的实证增益与助教价值
 > 助教辅导模式在数学领域同样产生了极为显著的因果成效。例如针对一年级数学困难儿童开展的 ROOTS 方案，在两项独立的[[Randomised Controlled Trials\|随机对照试验]]中由教学助教以小组形式实施，取得了 +0.24 的平均[[Effect Size\|效应量]]，双双达到《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）强[[Evidence Standards\|证据标准]]。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
 >
-> *Small-group tutoring by paraprofessionals was also effective in elementary mathematics. ROOTS, delivered to first graders in small groups (1:2 to 1:5) by teaching assistants across two randomized trials, produced an effect size of +0.24, meeting the ESSA Strong rating.*
+> *Small-group tutoring by paraprofessionals was also effective in elementary mathematics. ROOTS, delivered to first graders in small groups (1:2 to 1:5) by [[Teaching Assistant|Teaching Assistants]] across two randomized trials, produced an effect size of +0.24, meeting the ESSA Strong rating.*
 
 ---
 
 ## 推进历程与阶段演进
 
 > [!dev-timeline] ROOTS 发展历程
-> - **2012–2015 — 原型研发与第一轮整群[[Randomised Controlled Trials\|随机对照试验]]** 俄勒冈大学团队在俄勒冈州多学区开展首期大规模整群 RCT（Clarke et al., 2014），验证由[[Teaching Assistant\|助教]]实施 ROOTS 对弱势一年级儿童数学概念掌握的因果净增益。
+> - **2012–2015 — 原型研发与第一轮整群[[Randomised Controlled Trials\|随机对照试验]]** 俄勒冈大学团队在俄勒冈州多学区开展首期大规模整群 RCT（Clarke et al., 2014），验证由助教实施 ROOTS 对弱势一年级儿童数学概念掌握的因果净增益。
 > - **2015–2018 — 多中心大规模复现与小组规模对比试验** 在波士顿等更多城市学校开展第二轮大规模独立 RCT 试验（Clarke et al., 2016; Doabler et al., 2016），系统比较 1:2 与 1:5 组规模对[[Implementation Fidelity\|实施保真度]]与[[Effect Size\|效应量]]的影响，确认两类规模均能产生稳健效益。
 > - **2019–至今 — 确立为 [[Every Student Succeeds Act\|ESSA]] 强证据基石** 在斯莱文桑代克奖演说中被正式列为初等数学 Tier 2 小组辅导代表性强证据方案，成为全美学区构建多层支持系统（MTSS）时的优先选型。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
 
@@ -100,8 +100,8 @@ updated: 2026-09-17
 ## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
-> - **资助与研究中心（[[Institute of Education Sciences\|IES]] / 俄勒冈大学 CTL）** 提供全套教学学具盒（十格阵、双色计数片、数字卡片）与[[Teaching Assistant\|助教]]培训光盘，监控研究设计与统计推断。
-> - **执行主体（教学助教 Teaching Assistants）** 经半天至一天密集岗前培训，每日定时将 2–5 名组员带至辅导角开展 20–30 分钟微教学。
+> - **资助与研究中心（[[Institute of Education Sciences\|IES]] / 俄勒冈大学 CTL）** 提供全套教学学具盒（十格阵、双色计数片、数字卡片）与助教培训光盘，监控研究设计与统计推断。
+> - **执行主体（教学助教 [[Teaching Assistant|Teaching Assistants]]）** 经半天至一天密集岗前培训，每日定时将 2–5 名组员带至辅导角开展 20–30 分钟微教学。
 > - **校级协调员（小学数学教研员 / 特教主管）** 负责全校秋季筛查排课，保障助教授课时间不被其他杂务挤占。
 > - **目标受试儿童（一年级数学高危学生）** 接受每日结构化数感补救，为二年级正式多位数加减法奠定稳固基石。
 
@@ -112,7 +112,7 @@ updated: 2026-09-17
 > [!finding-cards] 核心实证结论
 > - **稳健的标准化数学[[Effect Size\|效应量]]** 在两项覆盖数十所学校的大样本整群[[Randomised Controlled Trials\|随机对照试验]]中，接受 ROOTS 辅导的一年级学生在早期数学能力标准化测试（如 TEMA-3 测试）上取得了平均 $+0.24$ 的因果效应量，达 [[Every Student Succeeds Act\|ESSA]] Strong 强证据等级。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
 > - **显著缩减学前学业准备鸿沟** 评估数据显示，接受 ROOTS 干预的弱势学生在学年末的数感表现接近乃至达到了中产阶级同龄儿童的基线水平，展现出极佳的补偿性效应。
-> - **[[Teaching Assistant\|助教]][[Implementation Fidelity\|实施保真度]]与成效高度正相关** [[Implementation and Process Evaluation\|过程评估]]表明，助教只要严格遵循三步教学规程并保证每日练习频次，其授课所达到的学业增益与专任特教教师毫无二致。
+> - **助教[[Implementation Fidelity\|实施保真度]]与成效高度正相关** [[Implementation and Process Evaluation\|过程评估]]表明，助教只要严格遵循三步教学规程并保证每日练习频次，其授课所达到的学业增益与专任特教教师毫无二致。
 
 > [!stat-cards]- 关键实证数据
 > - **+0.24** 两项独立随机试验测得的平均标准化数学效应量（$ES$），获 ESSA Strong 强证据等级。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
@@ -126,5 +126,5 @@ updated: 2026-09-17
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 ROOTS 评定为初等数学 Tier 2 小组辅导代表性强证据方案。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，阐释 ROOTS 如何作为 Tier 2 小组防线保障数学困难学生在普通班级中成功立足。
-> - [[Fraction Face-Off!]] — 初等数学高年级（四年级）[[Teaching Assistant\|助教]]小组辅导代表方案，与 ROOTS 共同构成初等数学 Tier 2 循证支柱。
+> - [[Fraction Face-Off!]] — 初等数学高年级（四年级）助教小组辅导代表方案，与 ROOTS 共同构成初等数学 Tier 2 循证支柱。
 > - [[Pirate Math]] — 初等数学应用题 Tier 3 助教辅导代表方案，二者展现了助教在基础数感与高级[[Problem Solving\|问题解决]]中的全谱系效能。

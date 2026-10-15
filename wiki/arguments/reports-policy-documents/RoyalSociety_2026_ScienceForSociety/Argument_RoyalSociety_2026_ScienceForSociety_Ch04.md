@@ -10,9 +10,9 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch04"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch04"
 argument_display_title: "Chapter four: Industry and business sector"
 argument_kind: "book-chapter"
-argument_related_count: 46
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_count: 41
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
 issuing_organization: The Royal Society
 year: 2026
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Champ]]"
   - "[[Public Engagement with Science]]"
   - "[[Apprenticeship]]"
-  - "[[Attrition]]"
   - "[[Social License to Operate]]"
   - "[[University Spin-Out]]"
   - "[[Deficit Model of Science Communication]]"
@@ -48,10 +47,8 @@ related_concepts:
   - "[[Informed Consent]]"
   - "[[Clinical Trial]]"
   - "[[Patient and Public Involvement]]"
-  - "[[Hypothesis]]"
   - "[[Theories of Policy Change]]"
   - "[[Metascience]]"
-  - "[[Document]]"
   - "[[Scientific Literacy]]"
   - "[[Data Literacy]]"
   - "[[Informal Science Learning]]"
@@ -70,14 +67,12 @@ related_methods:
   - "[[Accounts]]"
   - "[[Participatory Research]]"
 related_instruments: []
-related_persons:
-  - "[[Isaiah Berlin]]"
+related_persons: []
 related_facts:
   - "[[EngineeringUK]]"
   - "[[The Big Bang Fair]]"
   - "[[The Social Value Model]]"
   - "[[Association for Science and Discovery Centres]]"
-  - "[[Promising Practices Network]]"
   - "[[Sciencewise]]"
   - "[[Advanced Manufacturing Research Centre]]"
   - "[[Association of Medical Research Charities]]"
@@ -170,7 +165,7 @@ updated: 2026-09-13
 企业规模直接决定了公众参与的实施能力与制度保障：
 
 > [!case] [[Case Study\|案例研究]]一：西门子交通（Siemens Mobility）：跨国工业巨头扎根在地社群与全链条技能[[Apprenticeship|学徒制]]（p. 68）
-> - **项目发起背景与主体架构** 作为全球交通与机车装备制造巨头，西门子交通在英国约克郡戈尔（Goole）投资 2 亿英镑建设现代铁路制造卓越中心。面对当地工业衰退与年轻劳动力[[Attrition\|流失]]，西门子将公众参与定位为企业与地方共生共荣的核心战略。
+> - **项目发起背景与主体架构** 作为全球交通与机车装备制造巨头，西门子交通在英国约克郡戈尔（Goole）投资 2 亿英镑建设现代铁路制造卓越中心。面对当地工业衰退与年轻劳动力流失，西门子将公众参与定位为企业与地方共生共荣的核心战略。
 > - **全链条教育外展与技能学徒制** 建立贯穿小学至博士后的系统通道：联合[[EngineeringUK\|英国工程协会]]（EngineeringUK）深度参展[[The Big Bang Fair\|大爆炸科技博览会]]（The Big Bang Fair）；组织一线女工程师进校园开展动手实验，打破工程领域的性别偏见；设立全英带薪工程学徒制（Apprenticeships）与工业实习岗位；联合大学设立定向资助工程博士（PhD）项目。
 > - **实证成效与社会认同** 为当地创造了数百个高技能就业岗位，学徒中女性与工薪背景比例显著提升，极大激发了约克郡社区对工业创新的归属感与认同感，成为跨国企业扎根地方的典范。
 > - **经验启示与示范价值** 重大工业投资必须配套全生命周期的技能学徒制与早期外展，使公众参与转变为培育未来本土高技能工匠队伍的生产性投资，方能打破外来资本与本土社群的心理隔阂。
@@ -230,7 +225,7 @@ updated: 2026-09-13
 > - **政策工具** 依据政府采购政策声明备忘录《社会价值模型指南》（Procurement Policy Note, PPN 002/2025），在中央政府采购合同评审最终阶段，**社会价值（Social VALUE）强制占据至少 10% 评审权重**。
 > - **约束机制** 实行严格的可审计（Auditable）方案核算，倒逼企业携手[[Association for Science and Discovery Centres\|英国科学与探索中心协会]]（Association for Science and Discovery Centres, ASDC）成员场馆落地普惠科普，形成长期造血双赢闭环。（p. 69）
 
-> [!example]- 图4-2：英国政府采购《社会价值模型》（[[Promising Practices Network\|PPN]] 002）10% 法定权重撬动产业与非正式科学场馆协同机制图（基于 Cabinet Office 2025 与 PPN 002 指南，pp. 69, 76）
+> [!example]- 图4-2：英国政府采购《社会价值模型》（PPN 002）10% 法定权重撬动产业与非正式科学场馆协同机制图（基于 Cabinet Office 2025 与 PPN 002 指南，pp. 69, 76）
 > ![](https://img.mylikemie.icu/sources/RoyalSociety_2026_ScienceForSociety/figures/RoyalSociety_2026_ScienceForSociety_Fig4-2_Social_Value_Procurement_Partnership_Model.jpg)
 > *(图示呈现中央政府采购将 10% 社会价值硬性挂钩商业合同评审，激励大型工业承包商与地方科技探索中心、学校及社区深度合作，形成资金造血与普惠科普双赢闭环)*
 
@@ -290,7 +285,7 @@ updated: 2026-09-13
 > [!index-table] 表4-3：生命科学研发全生命周期中[[Patient and Public Involvement\|患者与公众参与]]（Patient and Public Involvement, PPI）各阶段介入机制、工具与产出矩阵表（p. 71）
 > | 研发推进阶段 | 患者与公众参与的核心介入机制 | 采用的技术与沟通工具 | 阶段标志性共创产出与价值 |
 > |---|---|---|---|
-> | **1. 早期立项与优先级设定** | 邀请患者代表与照护者进入科研立项评审委员会，参与疾病痛点排序 | 专题[[Focus Group\|焦点小组]]（Focus Groups）、[[Delphi Technique\|德尔菲法]]（Delphi）、患者生活体验访谈 | 确立符合真实生活需求的研发靶点，防止纯学术[[Hypothesis\|假设]]与实际病痛脱节 |
+> | **1. 早期立项与优先级设定** | 邀请患者代表与照护者进入科研立项评审委员会，参与疾病痛点排序 | 专题[[Focus Group\|焦点小组]]（Focus Groups）、[[Delphi Technique\|德尔菲法]]（Delphi）、患者生活体验访谈 | 确立符合真实生活需求的研发靶点，防止纯学术假设与实际病痛脱节 |
 > | **2. 试验方案编写与指标设计** | 患者委员会对临床方案的可行性进行前置审查，评估访视负担 | 方案患者友好度量表、线上协同审阅平台、患者旅程图绘制（Patient Journey Mapping） | 优化给药方式，减少非必要医院奔波，将患者报告结局（PROs）确立为关键终点 |
 > | **3. 临床受试招募与执行** | 联合患者互助社群重写通俗知情同意书，建立同伴支持机制 | 社交媒体社群吹风会、动画版知情同意视频、数字化随访 App | 招募速度显著提升，受试者知情理解度加深，试验脱落率大幅压降 |
 > | **4. 审批对话与上市后真实世界研究** | 患者代表与医药科学家共同向药品监管机构（如英国药品与健康产品管理局，Medicines and Healthcare products Regulatory Agency, MHRA）作证陈述 | 监管听证会口头作证、真实世界数据（Real-World Data, RWD）患者端收集平台 | 加速急需创新疗法审批获批，构建药物上市后长期生活质量反馈网络 |
@@ -362,7 +357,7 @@ updated: 2026-09-13
 倡导型 NGO 致力于推动国家法律法规与公共[[Theories of Policy Change|政策变革]]：
 
 > [!debates] 政策倡导中的多[[Metascience|元科学]]证据竞争与公民素养挑战（p. 75）
-> - **多元 NGO 之间的竞争性科学主张** 在环境排污、绿色转型或动物福利等公共争议中，不同立场的 NGO 往往各自委托专业机构开展独立研究，或引述不同侧重点但同样真实严谨的同行评议[[Document\|文献]]，导致公共场域出现大量相互竞争的科学主张。
+> - **多元 NGO 之间的竞争性科学主张** 在环境排污、绿色转型或动物福利等公共争议中，不同立场的 NGO 往往各自委托专业机构开展独立研究，或引述不同侧重点但同样真实严谨的同行评议文献，导致公共场域出现大量相互竞争的科学主张。
 > - **超越单一信息灌输的公民素养要求** 这一现实再次证明，单纯的灌输无法平息争议，社会必须自幼小教育阶段起全面普及[[Scientific Literacy\|科学素养]]与[[Data Literacy\|数据素养]]，唯有使公民具备独立评估证据质量、理解系统复杂性的胜任力，才能在多元科学证据的民主辩论中明辨全貌。
 
 > [!contrast-table] 表4-4：英国第三部门三大组织形态科学参与核心机制、实证效益与启示对比表（pp. 74–75）
@@ -416,7 +411,7 @@ updated: 2026-09-13
 > [!info]- 第四章专家研制工作组核心成员与跨界机构构成（Chapter 4 Working Group, Annex 1, p. 110）
 > 英国皇家学会为第四章《产业与商业部门／第三部门》组建了高规格专家工作组，成员横跨前沿学术界、跨国工业研发中枢、前沿人工智能实验室与转化医学机构：
 > - **工作组主席（Chair）**
->   - 卢克·奥尼尔教授（Professor Luke O'Neill）：英国皇家学会会士（Fellow of the Royal Society, FRS）、都[[Isaiah Berlin|柏林]]圣三一大学生物化学与免疫学顶尖教授、多家知名生物医药企业联合创始人。
+>   - 卢克·奥尼尔教授（Professor Luke O'Neill）：英国皇家学会会士（Fellow of the Royal Society, FRS）、都柏林圣三一大学生物化学与免疫学顶尖教授、多家知名生物医药企业联合创始人。
 > - **委员会成员（Committee Members）**
 >   - 露辛达·布鲁斯-加丁（Lucinda Bruce-Gardyne）：皇家学会常驻创业家（[[Entrepreneur in Residence]]）、Gluten Free Foods 创始人；
 >   - 马克·杰弗里斯（Mark Jefferies）：劳斯莱斯集团（Rolls-Royce）研发合作与伙伴关系总监；

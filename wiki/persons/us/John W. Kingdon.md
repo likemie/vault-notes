@@ -8,7 +8,7 @@ summary: "美国著名政治学者，密歇根大学政治学荣休教授，美�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 23
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -28,8 +28,6 @@ related_concepts:
   - "[[Policy Window]]"
   - "[[Policy Entrepreneur]]"
   - "[[Scientific Explanation]]"
-  - "[[Document]]"
-  - "[[Hypothesis]]"
   - "[[Discourse]]"
   - "[[Evidence-Based Education]]"
   - "[[Heterogeneity]]"
@@ -55,7 +53,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # John W. Kingdon
@@ -70,7 +68,7 @@ updated: 2026-10-08
 > - **代表贡献** 创立[[Multiple Streams Framework|多源流分析框架]]；系统阐述[[Policy Window|政策之窗]]与[[Policy Entrepreneur|政策企业家]]；出版里程碑著作《议程、备选方案与公共政策》（*Agendas, Alternatives, and Public Policies*）。
 
 > [!citation-card] 金登关于议程设置与政策企业家理论的奠基性定性
-> 洛兰·M·麦克唐纳（Lorraine M. McDonnell）与M·斯蒂芬·韦瑟福德（M. Stephen Weatherford）指出，约翰·W·金登在其关于议程设置的开创性著作中，详尽阐述了分散事实与主观解释在将特定情境界定为政策问题时的复杂互动。金登揭示出，尽管统计指标或科研[[Document|文献]]能够指认出客观现状，但在界定政策问题时始终存在着认知解释要素，这一要素鲜明体现在哪些数据被突出强调、如何被解释以及何种因素被认定为危机的根源。
+> 洛兰·M·麦克唐纳（Lorraine M. McDonnell）与M·斯蒂芬·韦瑟福德（M. Stephen Weatherford）指出，约翰·W·金登在其关于议程设置的开创性著作中，详尽阐述了分散事实与主观解释在将特定情境界定为政策问题时的复杂互动。金登揭示出，尽管统计指标或科研文献能够指认出客观现状，但在界定政策问题时始终存在着认知解释要素，这一要素鲜明体现在哪些数据被突出强调、如何被解释以及何种因素被认定为危机的根源。
 >
 > *In his seminal work on agenda setting, John Kingdon (1995) details the interplay between disparate facts and their interpretation in the process of defining a given situation as a policy problem. Indicator data or a body of research may identify a problem... At the same time, 'there is a perceptual interpretative element' in defining policy problems (Kingdon 1995, 110). That element is manifested in what data are highlighted, how they are interpreted, and in what factors are identified as causing the problem.* [[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 4)]]
 
@@ -90,7 +88,7 @@ updated: 2026-10-08
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1970年代 — 立法认知与投票行为微观分析** 关注代议制民主下政治行动者如何处理高度复杂的政策信息，发现议员高度依赖同僚信任网络与即时直觉，打破了古典全知理性[[Hypothesis|假设]]。
+> - **1970年代 — 立法认知与投票行为微观分析** 关注代议制民主下政治行动者如何处理高度复杂的政策信息，发现议员高度依赖同僚信任网络与即时直觉，打破了古典全知理性假设。
 >   - **代表著作** 《国会议员的投票决策》（*Congressmen's Voting Decisions*, 1973）。
 >   - **关键概念／方法** 启发式决策、同僚信任网络、议程线索。
 >   - **阶段转向** 由微观个体投票行为研究，逐步拓展为宏观政治系统中议题注意力汇聚与议程变迁规律的探索。
@@ -153,6 +151,6 @@ updated: 2026-10-08
 > | [[Policy Window]] | 概念 | 提出政策之窗概念，系统揭示重大[[Theories of Policy Change\|政策变革]]发生的时间压缩与时机机制。 |
 > | [[Policy Entrepreneur]] | 概念 | 提出政策企业家概念，阐明改革倡导者的资源投入与战略性[[Policy Brokerage\|政策经纪]]功能。 |
 > | [[Policy Ambiguity]] | 概念 | 剖析决策中的目标歧义性，打破信息增加必然促进理性决策的教条。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | 实证[[Document\|文献]] | 将金登议程设置理论与政策生命周期相结合，拓展了其证据动员的微观解释力。 |
+> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | 实证文献 | 将金登议程设置理论与政策生命周期相结合，拓展了其证据动员的微观解释力。 |
 
 ---

@@ -10,9 +10,9 @@ summary: "研究设计中确定样本大小的决策过程，涉及研究目的�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 16
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 15
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/sampling
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Variable]]"
   - "[[Independent Variable]]"
-  - "[[Attrition]]"
 related_theories: []
 related_methods:
   - "[[Power Analysis]]"
@@ -43,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-21
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 # Sample Size Determination
 
@@ -75,7 +74,7 @@ updated: 2026-10-08
 > - **[[Variable\|变量]]类型** 类别数据（categorical data）通常比连续数据（continuous data）需要更大的样本。类别数据边际误差通常取 5%，连续数据取 3%（Bartlett et al., 2001, p. 45）。
 > - **统计方法要求**[[Chi-Squared Test\|卡方检验]]要求 80% 单元格 ≥ 5 例；[[Multiple Regression\|多元回归]]要求观察值与[[Independent Variable\|自变量]]比率 ≥ 5:1（连续数据建议 10:1）；因子分析要求 ≥ 100 例（Bartlett et al., 2001, pp. 48–9）。
 > - **子组数量** 子组（strata）越多，样本量越大——通常呈几何级增长而非算术级。Borg & Gall（1979, p. 186）建议从最小子组"向上"计算总样本量。
-> - **预期无回应与[[Attrition\|流失]]** 需考虑无回应、不完整或无效回应、参与者流失和样本死亡。若无准入和回应保障，可能需要将所需样本量翻倍以建立冗余（Gorard, 2003, p. 60）。
+> - **预期无回应与流失** 需考虑无回应、不完整或无效回应、参与者流失和样本死亡。若无准入和回应保障，可能需要将所需样本量翻倍以建立冗余（Gorard, 2003, p. 60）。
 
 ### 定量研究的经验法则
 

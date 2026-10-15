@@ -9,7 +9,7 @@ aliases:
 summary: "以预先界定的标准或学习结果为判断依据，用于识别个体是否达标及其表现质量。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 23
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -19,7 +19,6 @@ tags:
 related_concepts:
   - "[[Norm-Referenced Test]]"
   - "[[Domain-Referenced Test]]"
-  - "[[Hypothesis]]"
   - "[[Effective Teaching]]"
   - "[[Assessment Backwash]]"
   - "[[Rote Learning]]"
@@ -46,7 +45,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-08-01
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Criterion-Referenced Test
@@ -91,7 +90,7 @@ updated: 2026-09-22
 
 > [!feature] 标准参照判断的构成
 > - **预期结果** 课程先说明学生完成学习后应达到何种理解，而不只是列出教师准备覆盖的主题。
-> - **表现动词** 目标使用解释、比较、应用、提出[[Hypothesis\|假设]]或理论化等动词，把抽象的“理解”转化为学生必须完成的行为。
+> - **表现动词** 目标使用解释、比较、应用、提出假设或理论化等动词，把抽象的“理解”转化为学生必须完成的行为。
 > - **质量层次** 同一行为可以按理解质量分层。最高等级表示课程条件下可以合理期待的最佳理解，通过等级表示最低可接受的理解。
 > - **目标任务** 评估任务必须要求学生实际完成目标动词所指向的行为，并在具体学科情境中判断表现质量。
 > - **共同达标** 标准不依赖学生之间保持固定差距；[[Effective Teaching\|有效教学]]可以使更多学生达到目标，因此低区分度不必然表示题目质量低。

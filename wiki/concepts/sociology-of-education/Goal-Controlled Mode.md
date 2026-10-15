@@ -5,7 +5,7 @@ aliases:
 summary: "大学生活组织实践的一种模式，以较早确立生涯目标、策略性配置校内外资源和为毕业出路持续准备为特征，常与优势阶层习性相连"
 type: concept
 domain: "sociology-of-education"
-related_count: 25
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -17,16 +17,15 @@ tags:
 related_concepts:
   - "[[Academic Engagement]]"
   - "[[Research Universities]]"
-  - "[[Habitus]]"
   - "[[Champ]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Symbolic Boundary]]"
   - "[[Cultural Capital]]"
-  - "[[Hypothesis]]"
   - "[[Self-Authorship]]"
   - "[[Self-Driven Mode]]"
   - "[[Opportunists]]"
   - "[[Academic Achievement]]"
+  - "[[Habitus]]"
   - "[[Academic and Social Integration]]"
   - "[[Student Engagement]]"
   - "[[Social Engagement]]"
@@ -48,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-10-02
+updated: 2026-10-15
 ---
 
 # Goal-Controlled Mode
@@ -63,7 +62,7 @@ updated: 2026-10-02
 > [!quote]
 > "运用'目标掌控模式'的大学生就好比是手持迷宫地图，事先已经做好路线规划的一类参赛者"([[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]])
 
-该模式的掌握与运用根植于阶层[[Habitus|习性]]——优势家庭背景的学生更可能自幼习得这套文化技能并运用于大学[[Champ|场域]]。
+该模式的掌握与运用根植于阶层习性——优势家庭背景的学生更可能自幼习得这套文化技能并运用于大学[[Champ|场域]]。
 
 ---
 
@@ -80,7 +79,7 @@ updated: 2026-10-02
 
 > [!note]-
 > - **1960s 原初洞察**Bourdieu & Passeron（1964）在 *Les Héritiers* 中区分了"考试能手"（除考试外忘掉一切）与"浅薄涉猎者"（与工作保持神秘化关系）两类学生，揭示了基于[[Cultural Capital\|文化资本]]不平等的两种大学融入模式（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]）
-> - **2014–2017 田野发现**[[Yajun Zheng\|郑雅君]]在两所顶尖大学的首轮 38 名访谈中发现，学生的毕业出路并非全是有意图的主动选择——部分学生的"选择"更多是对处境的本能反应。这一发现挑战了其初始[[Hypothesis\|假设]]，为双模式概念奠定了经验基础
+> - **2014–2017 田野发现**[[Yajun Zheng\|郑雅君]]在两所顶尖大学的首轮 38 名访谈中发现，学生的毕业出路并非全是有意图的主动选择——部分学生的"选择"更多是对处境的本能反应。这一发现挑战了其初始假设，为双模式概念奠定了经验基础
 > - **2023 理论整合与命名** 郑雅君整合 [[Culture as Toolkit]]（Swidler, 1986）、[[Dual-Process Model of Culture in Action]]（Vaisey, 2009）和[[Self-Authorship\|自我主导性]]理论（Baxter Magolda），正式提出目标掌控模式／[[Intuition-Dependent Mode\|直觉依赖模式]]二分框架
 > - **第五章细化** 在双模式基础上引入价值信念驱动力维度，形成 2×2 四分类，将目标掌控模式进一步区分为[[Self-Driven Mode\|自主驱动者]]和[[Opportunists|机会主义者]]
 
@@ -93,7 +92,7 @@ updated: 2026-10-02
 > - **[[Champ\|场域]]规则认知** 对精英大学中三条主要出路的筹码要求和兑换率有清晰了解——如保研所需绩点门槛、出国所需语言成绩和研究经历、求职所需实习和职业证书
 > - **策略性投入安排** 根据所选出路有针对性地选择课程、参与研究项目、实习和社团活动，而非平均用力。对待[[Academic Achievement\|学业成绩]]的核心态度是重视但不盲目追求——根据成绩之于生涯目标的"用处"来决定投入程度
 > - **资源工具性利用** 将大学资源（学术竞赛、科研机会、人际网络、学生组织等）视作可积累的"筹码"，为毕业出路的兑换服务
-> - **阶层化[[Habitus\|习性]]的产物** 该模式所依赖的文化技能——对高等教育系统隐性规则的了解、长线规划意识和策略思维——主要来自优势阶层的家庭教育与[[Cultural Capital\|文化资本]]的代际传递。优势阶层父母看似"放手"实则提供信息、资源和策略性建议，织就一张"安全网"
+> - **阶层化习性的产物** 该模式所依赖的文化技能——对高等教育系统隐性规则的了解、长线规划意识和策略思维——主要来自优势阶层的家庭教育与[[Cultural Capital\|文化资本]]的代际传递。优势阶层父母看似"放手"实则提供信息、资源和策略性建议，织就一张"安全网"
 
 ---
 
@@ -125,7 +124,7 @@ updated: 2026-10-02
 > - **与心理测量概念的重叠** 目标掌控模式与"职业成熟度""目标定向"等已有心理测量概念在策略使用层面的区分是否足够清晰？[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]的回应是强调其概念的**道德维度与[[Symbolic Boundary\|象征边界]]**——一套特定的道德判断和自我标识方式——是已有概念未涵盖的
 > - **样本局限** 概念仅基于 62 名顶尖大学学生，向普通高校、高职院校的推广需要验证
 > - **二元对立的简化风险** 连续统两极的刻画可能忽略中间形态的多样性。约半数直觉依赖者在高年级实现了部分转换，说明模式的流动性可能被二分框架低估
-> - **[[Determinism\|决定论]]隐忧** 强调阶层[[Habitus\|习性]]的决定性，但郑雅君（2023）同时展示了转变案例，表明大学教育作为"再社会化"过程的可能性
+> - **[[Determinism\|决定论]]隐忧** 强调阶层习性的决定性，但郑雅君（2023）同时展示了转变案例，表明大学教育作为"再社会化"过程的可能性
 
 ---
 

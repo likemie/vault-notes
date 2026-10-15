@@ -11,7 +11,7 @@ title: "Argument_Wecker_2016_ZfE"
 argument_key: "Argument_Wecker_2016_ZfE"
 argument_display_title: "Visionär und imposant – aber auch belastbar? Eine Kritik der Methodik von Hatties Visible Learning [Visionary and impressive – but also robust? A critique of the methodology of Hattie's Visible Learning]"
 argument_kind: "journal-article"
-argument_related_count: 20
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Sampling Error]]"
   - "[[School Effectiveness]]"
   - "[[Variable]]"
-  - "[[Hypothesis]]"
   - "[[Direct Instruction]]"
 related_theories: []
 related_methods:
@@ -43,7 +42,6 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Standard Error]]"
   - "[[Inverse-Variance Weighting]]"
-  - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[John Hattie]]"
   - "[[Gene Glass]]"
@@ -152,11 +150,11 @@ citation_aliases:
 >
 > **(1) 调节变量在方法论上不可考虑(p.30-31)**
 >
-> Hattie 二级分析中每个影响因素仅获得一个平均效应量，但一级元分析中已报告的调节变量（干预持续时间、实施方式、样本年龄、学科领域等）无法纳入二级分析——"因为这些变量通常不会在同一主题的不同一级荟萃分析中统一[[Coding in Qualitative Research\|编码]]"(p.31, citing Cooper & Koenka, 2012, p.458)。这意味着有些变体实际上非常有效（如"社会戏剧游戏" d=1.48），有些无效（如"想象力游戏" d=0.28），但在排名中被压缩为一个数字。
+> Hattie 二级分析中每个影响因素仅获得一个平均效应量，但一级元分析中已报告的调节变量（干预持续时间、实施方式、样本年龄、学科领域等）无法纳入二级分析——"因为这些变量通常不会在同一主题的不同一级荟萃分析中统一编码"(p.31, citing Cooper & Koenka, 2012, p.458)。这意味着有些变体实际上非常有效（如"社会戏剧游戏" d=1.48），有些无效（如"想象力游戏" d=0.28），但在排名中被压缩为一个数字。
 >
 > **(2) [[Fixed-Effect and Random-Effects Models\|固定效应模型]]在两层面上均不适当**(p.31-33)
 >
-> - **一级层面**[[Hypothesis\|假设]]所有主要研究估计同一恒定真实效应，但"鉴于通常不同的教学主题、不同实现的方法……在初级研究之间从一开始就比假设一个共同常数更合理"(p.32)。在一级使用固定效应模型导致标准误被系统性低估。
+> - **一级层面**假设所有主要研究估计同一恒定真实效应，但"鉴于通常不同的教学主题、不同实现的方法……在初级研究之间从一开始就比假设一个共同常数更合理"(p.32)。在一级使用固定效应模型导致标准误被系统性低估。
 > - **二级层面** 由于一级已存在方差，二级"不可避免地适用于随机效应模型"，但每个影响因素平均仅 ~63 项一级元分析，不足以可靠估计 τ²。
 >
 > **(3) 138 个影响因素不可比(p.33-34)**

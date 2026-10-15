@@ -12,9 +12,9 @@ summary: "经典测量理论下评估多题项量表内部一致性信度的基�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 24
-method_related_level: 3
-method_related_stars: "⭐⭐⭐"
+method_related_count: 23
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/quantitative
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
-  - "[[Hypothesis]]"
 related_theories:
   - "[[Classical Test Theory]]"
 related_methods:
@@ -55,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-29
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Cronbach's Alpha
@@ -86,7 +85,7 @@ updated: 2026-09-17
 > - **知识观** 建立在[[Classical Test Theory\|经典测量理论]]的真分数模型（$X = T + E$）之上，假定观测分数的方差由真实方差与随机误差方差加和构成，[[Internal Consistency\|内部一致性]]反映真分数方差占总方差的比例。
 > - **研究者角色** 研究者需在计算 $\alpha$ 之前验证量表的单维性（Unidimensionality），并审慎评估题项数量对 $\alpha$ 值的机械膨胀效应。
 > - **有效性标准** 遵循统计结论效度与测量[[Reliability\|信度]]标准：探索性量表要求 $\alpha \ge .70$；成熟应用与诊断量表要求 $\alpha \ge .80$（优选 $\ge .90$）；若 $\alpha > .95$ 则提示题项可能存在高度语义冗余。
-> - **不声称回答的问题** $\alpha$ 系数**不能证明量表具有单维性（高 $\alpha$ 并不代表单因子结构）**；在违反本质 $\tau$-等值[[Hypothesis\|假设]]（即各题项因子载荷不等）时，$\alpha$ 会成为真实信度的**下界保守估计**。
+> - **不声称回答的问题** $\alpha$ 系数**不能证明量表具有单维性（高 $\alpha$ 并不代表单因子结构）**；在违反本质 $\tau$-等值假设（即各题项因子载荷不等）时，$\alpha$ 会成为真实信度的**下界保守估计**。
 
 > [!method-stack] 方法层级
 > - **研究设计** [[Survey Research\|调查研究]]、[[Scale Development\|量表编制]]、横断面心理测量。
@@ -103,7 +102,7 @@ updated: 2026-09-17
 > [!method-stack] 数据、[[Variable\|变量]]与模型
 > - **数据结构** $N$ 名被试在 $k$ 个题项上的作答矩阵（$N \times k$），总分 $X = \sum_{i=1}^k Y_i$。
 > - **[[Sample Size Determination\|样本量]]要求** 建议 $N \ge 100$ 且被试与题项比 $\ge 5:1$ 以获得稳定的方差估计。
-> - **前置核心[[Hypothesis\|假设]]**
+> - **前置核心假设**
 >   1. **单维性（Unidimensionality）** 所有题项仅测量单一潜变量；
 >   2. **本质 $\tau$-等值（Essential $\tau$-equivalence）** 各题项在潜变量上的因子载荷完全相等（$\lambda_1 = \lambda_2 = \dots = \lambda_k$）；
 >   3. **误差不相关（Uncorrelated Errors）** 题项测量残差之间互不相关。
@@ -167,7 +166,7 @@ updated: 2026-09-17
 ## 局限性与现代替代
 
 > [!method-limits] 方法局限与现代心理测量学批判
-> - **本质 $\tau$-等值[[Hypothesis\|假设]]过于苛刻** 现实教育测评中，各题项在潜[[Variable\|变量]]上的因子载荷几乎不可能完全相等。当载荷不等（Congeneric Model）时，$\alpha$ 会**系统性低估真实[[Reliability\|信度]]（Underestimation）**。
+> - **本质 $\tau$-等值假设过于苛刻** 现实教育测评中，各题项在潜[[Variable\|变量]]上的因子载荷几乎不可能完全相等。当载荷不等（Congeneric Model）时，$\alpha$ 会**系统性低估真实[[Reliability\|信度]]（Underestimation）**。
 > - **题项数量膨胀虚假信度** $\alpha$ 对题项数 $k$ 极其敏感。一份包含 50 题的粗糙[[Questionnaire\|问卷]]可能因为题数众多而呈现 $\alpha > .90$，掩盖个别题项相关微弱的事实。
 > - **首选现代替代** 现代心理测量学一致推荐使用基于 [[Confirmatory Factor Analysis\|CFA]] 因子载荷的 **McDonald's $\omega$** 与 **[[Composite Reliability\|组合信度]]（CR）** 作为更准确的无偏信度估计。
 

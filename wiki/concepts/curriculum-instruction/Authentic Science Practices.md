@@ -9,7 +9,7 @@ aliases:
 summary: "当代科学教育的核心范式：倡导学生像专业科学家共同体一样直面科学不确定性、构建与修订因果解释、展开基于证据的论辩并享有认识能动性，而非机械执行预设教案"
 type: concept
 domain: "curriculum-instruction"
-related_count: 29
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Epistemic Responsibility]]"
   - "[[Epistemological Break]]"
   - "[[Variable]]"
-  - "[[Hypothesis]]"
   - "[[Reflective Structuration]]"
   - "[[Discourse]]"
   - "[[Externalization]]"
@@ -58,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-22
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Authentic Science Practices
@@ -131,7 +130,7 @@ updated: 2026-10-07
 > 本命题确立真实科学实践区别于伪探究的根本认识论分水岭：科学知识的生产内在地包含对模糊性与意外证据的持续导航。
 
 > [!claim] [[Clark A. Chinn|Chinn, C. A.]] & Malhotra, B. A.
-> **真实科学与学校科学的[[Epistemological Break|认识论断裂]]** 钦恩与马尔霍特拉通过系统对比指出，传统学校实验多为直线性、去情境化的简单观察，向学生传递了“科学即按部就班寻找确定真理”的扭曲认识论；唯有引入[[Variable|变量]]控制的复杂性、多重[[Hypothesis|假设]]竞争与理论修正，才能还原真实科学探究的认识论本色。(Chinn & Malhotra, 2002)
+> **真实科学与学校科学的[[Epistemological Break|认识论断裂]]** 钦恩与马尔霍特拉通过系统对比指出，传统学校实验多为直线性、去情境化的简单观察，向学生传递了“科学即按部就班寻找确定真理”的扭曲认识论；唯有引入[[Variable|变量]]控制的复杂性、多重假设竞争与理论修正，才能还原真实科学探究的认识论本色。(Chinn & Malhotra, 2002)
 
 > [!claim] Manz, E.
 > **将不确定性转化为学习资源** 曼兹论证，传统教学常试图替学生消除一切实验波折与异常数据，但这恰恰剥夺了核心的科学思维机会；让学生直面材料与现象中的不确定性，是促成深层机制理解与概念重组的必要催化剂。(Manz, 2015; Manz & Suárez, 2018)

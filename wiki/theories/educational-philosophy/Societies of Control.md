@@ -6,7 +6,7 @@ aliases:
 summary: "Deleuze 的社会理论，指后规训时代以持续调制取代封闭式规训的权力形态，教育机构也被纳入企业化网络逻辑"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 10
+theory_related_count: 9
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Digital Self]]"
   - "[[Digital Optimum]]"
   - "[[Competitiveness]]"
-  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -36,7 +35,7 @@ related_arguments:
 confidence: low
 status: draft
 created: 2026-05-19
-updated: 2026-06-02
+updated: 2026-10-15
 ---
 
 # Societies of Control
@@ -94,7 +93,7 @@ Thompson 等人（2022, p.222）引入 Bächle（2016, p.164）的解读，将 D
 > [!warning]
 
 - **总括性概念的局限**Thompson 等人（2022, p.222）明确表示对 Deleuze 将一切归结为**企业（corporation）**的总括性概念持怀疑态度，认为变形（deformation）和调制（modulation）这两个概念比企业这一总体框架更有分析价值
-- **来源局限**本条目的写作基于 Thompson 等人（2022）对 Deleuze 的二手解读和应用，未直接阅读 Deleuze（1992）原文。confidence 设为 low，待直接从主[[Document|文献]]补充
+- **来源局限**本条目的写作基于 Thompson 等人（2022）对 Deleuze 的二手解读和应用，未直接阅读 Deleuze（1992）原文。confidence 设为 low，待直接从主文献补充
 
 ## 相关研究
 

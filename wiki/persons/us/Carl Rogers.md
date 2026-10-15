@@ -9,7 +9,7 @@ summary: "美国人本主义心理学泰斗，来访者中心疗法与以人为�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 19
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -22,7 +22,6 @@ tags:
   - paradigm/interpretive
   - methodology/qualitative
 related_concepts:
-  - "[[APA Style]]"
   - "[[Positivism]]"
   - "[[Interpretive Paradigm]]"
   - "[[Epistemology]]"
@@ -40,7 +39,6 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
-  - "[[Alfred Nobel]]"
   - "[[Abraham Maslow]]"
   - "[[Rom Harré]]"
   - "[[Sigmund Freud]]"
@@ -50,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # Carl Rogers
@@ -60,7 +58,7 @@ updated: 2026-10-08
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国心理学家，人本主义心理学泰斗，来访者中心治疗（Client-Centered Therapy）与以学生为中心教育（Person-Centered Education）创始人，曾任美国心理学会（[[APA Style\|APA]]）主席。
+> - **身份位置** 美国心理学家，人本主义心理学泰斗，来访者中心治疗（Client-Centered Therapy）与以学生为中心教育（Person-Centered Education）创始人，曾任美国心理学会（APA）主席。
 > - **核心角色** 作为人本主义抵御[[Positivism\|实证主义]]与行为主义“去人化”危机的重要代言人，倡导“全人”（whole person）与行动者内部参照框架（internal frame of reference），为[[Qualitative Research\|质性研究]]与[[Interpretive Paradigm\|诠释范式]]提供了坚实的人格存在论与[[Epistemology\|认识论]]基石。
 > - **代表贡献** 创立以人为中心治疗与自由学习理论（《学习的自由》*Freedom to Learn*, 1969）；确立研究者介入当事人“内部参照框架”的探究原则；为自然主义探究、表意法（[[Idiographic\|idiographic approach]]）与[[Voluntarism\|唯意志论]]（Voluntarism）奠定人本主义哲学基础。
 
@@ -70,11 +68,11 @@ updated: 2026-10-08
 
 > [!timeline] 生平与职涯
 > - **1902** 出生于美国伊利诺伊州奥克帕克，早年在威斯康星大学学习农业与历史，后在纽约协和神学院与哥伦比亚大学教育学院转向临床心理学，获博士学位。
-> - **1940–1957** 先后任教于俄亥俄州立大学、芝加哥大学与威斯康星大学，开创非指导性心理治疗（non-directive therapy）与来访者中心疗法，1946–1947 年出任美国心理学会（[[APA Style\|APA]]）主席。
+> - **1940–1957** 先后任教于俄亥俄州立大学、芝加哥大学与威斯康星大学，开创非指导性心理治疗（non-directive therapy）与来访者中心疗法，1946–1947 年出任美国心理学会（APA）主席。
 > - **1956** 与行为主义领军学者斯金纳（B. F. Skinner）展开载入史册的“人类行为控制与自由”世纪大辩论。
 > - **1963–1987** 创立人际关系研究中心（Center for Studies of the Person, CSP），将人本主义哲学全面推展至教育改革、跨文化冲突调解与和平运动。
 > - **1969** 出版教育学代表作《学习的自由》（*Freedom to Learn*），系统构建以全人为核心的人本主义教育体系。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 20)]]
-> - **1987** 在加州拉霍亚逝世，同年获[[Alfred Nobel|诺贝尔]]和平奖提名。
+> - **1987** 在加州拉霍亚逝世，同年获诺贝尔和平奖提名。
 
 ---
 

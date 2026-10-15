@@ -7,7 +7,7 @@ title: "Argument_Hill_2022_FacilitatingActors"
 argument_key: "Argument_Hill_2022_FacilitatingActors"
 argument_display_title: "Who is facilitating research use in education systems? In N"
 argument_kind: "book-chapter"
-argument_related_count: 54
+argument_related_count: 50
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -39,8 +39,6 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[Discourse]]"
   - "[[Paradigm]]"
-  - "[[Document]]"
-  - "[[Hypothesis]]"
   - "[[Research Utilization]]"
   - "[[Embedded Researcher]]"
   - "[[Variable]]"
@@ -63,7 +61,6 @@ related_concepts:
   - "[[Engagement in and with Research]]"
   - "[[Technical Rationality]]"
   - "[[Scientism]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Dialogue in Education]]"
   - "[[Champ]]"
@@ -76,7 +73,6 @@ related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
 related_methods:
   - "[[In-depth Interview]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Likert Scale]]"
   - "[[Survey Research]]"
   - "[[Questionnaire]]"
@@ -126,7 +122,7 @@ updated: 2026-09-18
 > | **[[Quality Use of Research Evidence Framework\|高质量研究使用框架]]**<br>Rickinson et al. (2020) | 关注个体层面的信任、共享理解、心智模式、专业文化与人际网络，解释个体态度与协作行为如何塑造组织与系统层面的证据吸收深度。（pp.75, 77–78, 92） |
 
 > [!warrant]- 理论如何支撑论证
-> 经典[[Document\|文献]]常[[Hypothesis\|假设]]建立网络即可促进创新。然而，系统论与高质量[[Research Utilization\|研究使用]]透镜表明，单纯增加网络节点无法保证知识流动；唯有深入测度组织互动的频率、强度、中介属性以及个体间的信任、激励与互动性质（深度审议辩论 vs 浅层工具交易），才能揭示系统运转不畅的内在体制机制。（pp.75, 77–78, 95–96）
+> 经典文献常假设建立网络即可促进创新。然而，系统论与高质量[[Research Utilization\|研究使用]]透镜表明，单纯增加网络节点无法保证知识流动；唯有深入测度组织互动的频率、强度、中介属性以及个体间的信任、激励与互动性质（深度审议辩论 vs 浅层工具交易），才能揭示系统运转不畅的内在体制机制。（pp.75, 77–78, 95–96）
 
 ### 核心变量与操作化编码表
 
@@ -140,7 +136,7 @@ updated: 2026-09-18
 >
 > - **框架解析与分层逻辑** 核心分析维度涵盖“系统情境—组织生态—个体互动”三层嵌套架构：系统层提供宏观法律与财政资源基础；组织层聚焦 17 类主体的生态位分布及与教育部委的政务联结质量；个体层穿透至专业中介岗位设立、公职人员心智模式及微观人际互动形态。
 
-> [!index-table] 核心[[Variable\|变量]][[Operationalization\|操作化]]定义与[[Coding in Qualitative Research\|编码]]规程
+> [!index-table] 核心[[Variable\|变量]][[Operationalization\|操作化]]定义与编码规程
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心测量工具、指标界定与典型案例 |
 > |---|---|---|
 > | **行动者活跃度** | 组织在研究生产、政策促成与实践转化三大维度的实际行动强度与卷入深度。 | 5 点[[Likert Scale\|李克特量表]]（1 = 完全不活跃 至 5 = 非常活跃）；涵盖 17 类组织；芬兰（均分 4.88–4.94）与瑞士乌里州（均分 1.64–2.14）构成两极。（pp.76, 78–79, 100–101） |
@@ -508,7 +504,7 @@ updated: 2026-09-18
 >
 > - **图表测度与指标解析** 横向条形图。展示政策制定者获取教育研究成果的各渠道普及率（按采用该渠道的教育系统百分比 % 降序排列，满额 100%）。
 > - **核心数据特征与极值** 熟人人际咨询与定向课题采买占据绝对主导。向外部专家咨询（92%）、向内部研究员/评估员咨询（84%）、参加学术会议与研讨会（84%）位列前三，定向委托课题占 78%；相比之下，自主检索学术数据库（57%）、查阅同行评议质量研究库（59%）以及阅读学术期刊（73%）普及率偏低；社交媒体（38%）和联系记者（31%）位列末流。
-> - **机制启示与实证结论** 决策者表现出对“人际口头[[Transfer Translation Transformation\|转译]]”的高度依附。决策官员更倾向于通过高信任度的熟人网络获取经过二次加工的口头建议，规避直接面对复杂的原始学术[[Document\|文献]]，使得研究成果的获取深受个人人脉网络与非正式关系的制约。
+> - **机制启示与实证结论** 决策者表现出对“人际口头转译”的高度依附。决策官员更倾向于通过高信任度的熟人网络获取经过二次加工的口头建议，规避直接面对复杂的原始学术文献，使得研究成果的获取深受个人人脉网络与非正式关系的制约。
 
 [[Questionnaire|问卷]]测度展现出决策者获取研究的极端渠道偏好，高度依赖外部专家与内部研究员。（pp.94–95）
 

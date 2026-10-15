@@ -8,7 +8,7 @@ summary: "质性与微观互动分析方法，通过整合语言、图像、数�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 30
+method_related_count: 27
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -27,13 +27,11 @@ related_concepts:
   - "[[Epistemological Vigilance]]"
   - "[[Artefact]]"
   - "[[Epistemic Practices]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Reflexivity]]"
   - "[[Reliability]]"
   - "[[Chain of Evidence]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Problem Solving]]"
-  - "[[Hypothesis]]"
   - "[[Emergence]]"
   - "[[Scientific Explanation]]"
 related_methods:
@@ -41,7 +39,6 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Semi-structured Interview]]"
   - "[[Transcription in Qualitative Research]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Triangulation]]"
   - "[[Case Study]]"
   - "[[Analytic Framework]]"
@@ -54,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Multimodal Discourse Analysis
@@ -70,7 +67,7 @@ updated: 2026-10-07
 > - **研究对象** 课堂口头对话、屏幕交互录像、数字生成物（文本、多模态图像、故事板）、提示词输入与修改记录、[[Semi-structured Interview\|半结构化访谈]][[Transcription in Qualitative Research\|转录]]。
 > - **问题类型** 参与者如何跨模态整合符号资源建构意义？学习者在[[Man-Computer Symbiosis|人机协同]]中如何通过语言与界面操作执行评估与修正行动？
 > - **[[Unit of Analysis\|分析单位]]** 认识论事件（Epistemic Events）、多模态[[Discourse|话语]]回合（Multimodal Turns）、界面交互片段、视觉图像符号单元。
-> - **输出形式** 多模态转录表、分层[[Coding in Qualitative Research\|编码]]架构、微观话语互动序列解析、跨数据源[[Triangulation\|三角互证]]主题。
+> - **输出形式** 多模态转录表、分层编码架构、微观话语互动序列解析、跨数据源[[Triangulation\|三角互证]]主题。
 
 > [!citation-card] 多模态话语分析在人机协同研究中的定位
 > 在质性归纳研究中，多模态分析不仅关注口头语言，更将数字生成物与界面操作视为同等重要的意义载体。通过宏观认识论事件切分、中观评估动作编码、微观多模态话语分析与跨数据三角互证，研究者能够完整还原学习者在人机交互中的[[Epistemological Vigilance\|认识论警觉]]轨迹。[[Argument_Han_Gutierez_2026_IJSE\|(Yin & Zeng, 2025; Han & Gutierez, 2026, pp. 8–10)]]
@@ -83,14 +80,14 @@ updated: 2026-10-07
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 意义建构具有多模态性与具身情境性。语言不是唯一的意义载体，图像、界面点击、提示词迭代与手势共同构成了[[Epistemic Practices\|认识论实践]]的实在基础。
-> - **研究者角色** 研究者是多模态语料的细密观察者与[[Transfer Translation Transformation\|转译]]者，需对非语言模态与语言模态之间的协同与张力保持高度敏感，并进行[[Reflexivity\|反思性]]审查。
+> - **研究者角色** 研究者是多模态语料的细密观察者与转译者，需对非语言模态与语言模态之间的协同与张力保持高度敏感，并进行[[Reflexivity\|反思性]]审查。
 > - **有效性标准** 遵循[[Qualitative Research\|质性研究]]的可[[Reliability\|信度]]（Credibility）与确认性（Confirmability）；依托多模态[[Transcription in Qualitative Research\|转录]]、原始语料多视角[[Triangulation\|三角互证]]与逐回合[[Chain of Evidence\|证据链]]排除竞争性解释。
 > - **不声称回答的问题** 不声称从微观多模态片段直接进行大样本统计推断；不脱离具体社会技术情境推导普遍化的心理因果法则。
 
 > [!method-stack] 方法层级
 > - **研究设计** 质性互动分析、微观发生学设计、[[Man-Computer Symbiosis|人机协同]][[Case Study\|个案研究]]
 > - **数据收集** 屏幕与课堂录像同步录制、数字制品抓取、半结构化回溯访谈
-> - **分析方法** 四层质性[[Analytic Framework\|分析框架]]（认识论事件切分 $\rightarrow$ 评价动作[[Coding in Qualitative Research\|编码]] $\rightarrow$ 微观多模态[[Discourse Analysis\|话语分析]] $\rightarrow$ 跨数据三角互证）
+> - **分析方法** 四层质性[[Analytic Framework\|分析框架]]（认识论事件切分 $\rightarrow$ 评价动作编码 $\rightarrow$ 微观多模态[[Discourse Analysis\|话语分析]] $\rightarrow$ 跨数据三角互证）
 > - **辅助技术** 多模态逐字转录软件、界面交互热力图、跨语言翻译核对
 
 ---
@@ -109,7 +106,7 @@ updated: 2026-10-07
 
 > [!proc] 四层多模态质性分析程序（Yin & Zeng, 2025; [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez, 2026]]）
 > 1. **宏观层面：[[Epistemology|认识论]]事件切分与识别（Macro-level Segmentation）** 遍历全部课堂交互语料，以学生提出问题、质疑 AI 输出、修改提示词或请求详细图解为标志，切分出独立的“认识论事件”单元。
-> 2. **中观层面：评价动作[[Coding in Qualitative Research|编码]]（Meso-level Coding）** 依据[[Epistemological Vigilance\|认识论警觉]]维度（内容、信源、接收者）与学科解释标准，对事件内部的互动回合进行评价动作分类编码。
+> 2. **中观层面：评价动作编码（Meso-level Coding）** 依据[[Epistemological Vigilance\|认识论警觉]]维度（内容、信源、接收者）与学科解释标准，对事件内部的互动回合进行评价动作分类编码。
 > 3. **微观层面：多模态[[Discourse|话语]]互动解析（Micro-level Multimodal [[Discourse Analysis]]）** 逐回合结合口头言语、屏幕提示词输入、AI 文本输出、图像生成与手工修图操作，深度剖析意义建构与批判审问的微观发生过程。
 > 4. **综合层面：跨数据源解释与[[Triangulation|三角互证]]（Cross-data Triangulation）** 将课堂多模态互动转录、数字生成物演变序列与课后学生反思访谈进行三角互证，提炼并确立核心主题。
 
@@ -119,7 +116,7 @@ updated: 2026-10-07
 
 > [!method-fit] 适用判断
 > - **适合使用** [[Generative Artificial Intelligence\|生成式人工智能]]辅助学习、多模态数字化教学、科学探究课堂互动、[[Man-Computer Symbiosis|人机协同]][[Problem Solving\|问题解决]]与微观[[Epistemic Practices\|认识论实践]]研究。[[Argument_Han_Gutierez_2026_IJSE\|(Feng, 2021; Han & Gutierez, 2026, pp. 8–10)]]
-> - **谨慎使用** 仅有单一文本或单一音频而缺乏界面操作与视觉记录的研究；需在大规模样本中检验[[Hypothesis\|假设]]的[[Quantitative Research\|量化研究]]。
+> - **谨慎使用** 仅有单一文本或单一音频而缺乏界面操作与视觉记录的研究；需在大规模样本中检验假设的[[Quantitative Research\|量化研究]]。
 > - **不适合使用** 脱离互动语境的标准化心理测量与纯粹宏观政策制度考证。
 
 ---
@@ -149,4 +146,4 @@ updated: 2026-10-07
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] — 依托四层多模态[[Discourse Analysis\|话语分析]]框架（宏观事件切分、中观评价[[Coding in Qualitative Research\|编码]]、微观多模态互动解析、跨数据[[Triangulation\|三角互证]]），深度剖析初中生在利用 Canva 和 ChatGPT 协同建构[[Scientific Explanation\|科学解释]]时的口头言语、提示词迭代与图像修改实践，揭示[[Epistemological Vigilance\|认识论警觉]]的微观发生机制。
+> - [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] — 依托四层多模态[[Discourse Analysis\|话语分析]]框架（宏观事件切分、中观评价编码、微观多模态互动解析、跨数据[[Triangulation\|三角互证]]），深度剖析初中生在利用 Canva 和 ChatGPT 协同建构[[Scientific Explanation\|科学解释]]时的口头言语、提示词迭代与图像修改实践，揭示[[Epistemological Vigilance\|认识论警觉]]的微观发生机制。

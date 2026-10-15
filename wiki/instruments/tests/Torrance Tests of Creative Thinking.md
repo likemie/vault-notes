@@ -7,7 +7,7 @@ aliases:
 summary: "由托兰斯开发的经典标准化发散思维测验，包含言语和图形两套形式，从流畅性、灵活性、独创性与精致性四个核心维度评估个体创造潜能。"
 type: instrument
 instrument_type: test
-instrument_related_count: 22
+instrument_related_count: 21
 instrument_related_level: 4
 instrument_related_stars: "⭐⭐⭐⭐"
 instrument_related_color: "#dbeafe"
@@ -44,7 +44,6 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
   - "[[Three-Level Meta-Analysis]]"
-  - "[[Coding in Qualitative Research]]"
 related_instruments:
   - "[[VALUE Rubrics]]"
 related_persons: []
@@ -56,7 +55,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-09-23
+updated: 2026-10-15
 ---
 
 # Torrance Tests of Creative Thinking
@@ -113,7 +112,7 @@ updated: 2026-09-23
 > | Acar, Runco & Park (2020) | 显式独创性指导语操纵 | TTCT 图形测验独创性 | **$g = 0.62$**（$p < .001$） | 提示指令可即时激活注意分配与原创取向 |
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 发散思维一阶元分析二阶合并 | TTCT 作为发散思维代表工具 | **$r = 0.14$**（95% CI $[0.04, 0.24]$） | 证实发散思维是创造潜能的重要构成，但需与[[Problem Finding\|问题发现]]（$r = 0.27$）互补 |
 > | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 大学生[[Creativity Training\|创造力干预]][[Three-Level Meta-Analysis\|多层元分析]] | TTCT 作为图形与言语创造力核心评估工具（纳入多项实证研究） | 创造性思维 $g = 0.671$；图形创造力 $g = 0.644$；言语创造力 $g = 0.606$ | 证实 TTCT 测量的发散认知与图形表现对高校教学干预高度敏感 |
-> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 学生样本创造力-[[Critical Thinking\|批判性思维]]相关元分析 | TTCT 被[[Coding in Qualitative Research\|编码]]为客观创造力测量（如 Khatami et al., 2023; Misset, 2012; Ulger, 2016 等） | 总体相关 $r = 0.386$；双客观测量组合 $r = 0.317$ | 双主观组合相关更高（$r = 0.509$），提示自陈测量中的[[Common Method Variance\|共同方法变异]]放大观察相关 |
+> | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 学生样本创造力-[[Critical Thinking\|批判性思维]]相关元分析 | TTCT 被编码为客观[[Creativity Assessment\|创造力测量]]（如 Khatami et al., 2023; Misset, 2012; Ulger, 2016 等） | 总体相关 $r = 0.386$；双客观测量组合 $r = 0.317$ | 双主观组合相关更高（$r = 0.509$），提示自陈测量中的[[Common Method Variance\|共同方法变异]]放大观察相关 |
 
 ---
 

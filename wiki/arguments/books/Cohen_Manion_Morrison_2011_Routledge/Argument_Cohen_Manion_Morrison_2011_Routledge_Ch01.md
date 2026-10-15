@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_display_title: "Research Methods in Education · Ch01"
 argument_kind: "book-chapter"
-argument_related_count: 129
+argument_related_count: 126
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Incommensurability]]"
   - "[[Paradigm Wars]]"
-  - "[[Hypothesis]]"
   - "[[Nominalism]]"
   - "[[Voluntarism]]"
   - "[[Determinism]]"
@@ -77,10 +76,10 @@ related_concepts:
   - "[[Idiographic]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Falsification]]"
-  - "[[Document]]"
   - "[[Operationalization]]"
   - "[[Response-ability]]"
   - "[[Cultural Capital]]"
+  - "[[Hypothesis]]"
   - "[[Research Scope]]"
   - "[[Decodification]]"
   - "[[Homework]]"
@@ -123,7 +122,6 @@ related_methods:
   - "[[Internal Consistency]]"
   - "[[Design-Based Research]]"
   - "[[Correlational Research]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Role-playing]]"
   - "[[Quantitative Research]]"
   - "[[Qualitative Research]]"
@@ -149,7 +147,6 @@ related_persons:
   - "[[Karl Popper]]"
   - "[[Peter Medawar]]"
   - "[[Søren Kierkegaard]]"
-  - "[[Peter A. Hall]]"
   - "[[Clifford Geertz]]"
   - "[[Jack Douglas]]"
   - "[[Edmund Husserl]]"
@@ -236,7 +233,7 @@ updated: 2026-10-08
 > - **哲学奠基与[[Paradigm\|范式]]分野（第1–3节）**
 >   - **探究的本质与知识的求索** 研究的五层哲学推导框架（[[Axiology\|价值论]]、[[Ontology\|本体论]]、[[Epistemology\|认识论]]、方法论、工具）；Mouly 认知世界的三种途径（经验、权威与常识的局限，推理的历史演进：[[Aristotle\|亚里士多德]]三段论演绎、培根经验归纳革命、归纳-演绎循环结合）；Kerlinger 科学研究的三大本质属性（系统受控、经验检验、自我纠正）。
 >   - **范式理论与方法论统摄** 库恩范式概念的界定与科学共同体；科学发展的动态循环（常规科学、反常积累、危机、科学革命与范式转换）；天文学、物理学与社会科学的历史案例；[[Incommensurability\|不可通约性]]论辩与教育研究“[[Paradigm Wars\|范式战争]]”。
->   - **社会实在的两种构想与哲学[[Hypothesis\|假设]]** Burrell & Morgan 的四组核心假设沿主观–客观维度的展开（[[Nominalism\|唯名论]] vs 实在论、反实证 vs 实证、[[Voluntarism\|唯意志论]] vs [[Determinism\|决定论]]、表意法 vs 通则法，复刻 Figure 1.1）；Barr Greenfield 诠释社会实在的替代基础（哲学基础、社会科学角色、社会实在单位、理解方式、理论、研究、方法论、社会、组织、组织病理学、变革处方，复刻 Table 1.1）。
+>   - **社会实在的两种构想与哲学假设** Burrell & Morgan 的四组核心假设沿主观–客观维度的展开（[[Nominalism\|唯名论]] vs 实在论、反实证 vs 实证、[[Voluntarism\|唯意志论]] vs [[Determinism\|决定论]]、表意法 vs 通则法，复刻 Figure 1.1）；Barr Greenfield 诠释社会实在的替代基础（哲学基础、社会科学角色、社会实在单位、理解方式、理论、研究、方法论、社会、组织、组织病理学、变革处方，复刻 Table 1.1）。
 > - **实证范式及其系统清算（第4–5节）**
 >   - **[[Positivism\|实证主义]]的逻辑与[[Scientific Method\|科学方法]]** 孔德实证主义源流；吉登斯两大核心假定；科学的四大信仰假设（[[Determinism\|决定论]]、[[Empiricism\|经验主义]]、[[Principle of Parsimony\|简约原则]]、普遍性）；Mouly 经验科学五步法；静态知识累积观 vs 动态启发发现观；[[Abraham Maslow\|马斯洛]]科学九大功能（复刻 Box 1.1）；理论的本质、Morrison 三类理论谱系及对[[Grand Theory\|宏大理论]]“拜占庭式建筑辉煌但科学贫瘠”的批判；有效经验理论九大准则；科学家的核心工具（概念系统性与 Kerlinger/Medawar 假说论，复刻 Box 1.2）；科学发展的六个阶段（复刻 Box 1.3）与 Hitchcock & Hughes 八阶段科学方法模型（复刻 Box 1.4）。
 >   - **对实证主义与科学方法的系统批判** 机械还原论与生命经验的剥离；克尔凯郭尔存在主义批判：客观性幻觉与主观性能力的拯救；Ions 与 Horkheimer 反计算崇拜与数学化批判；Roszak 疏离论；Hampden-Turner 保守外在偏见批判；法兰克福学派与[[Jürgen Habermas\|哈贝马斯]][[Scientism\|科学主义]]批判、工具理性危机与维特根斯坦格言；社会科学内部的三重方法论反思：主体-主体前诠释世界、[[Noam Chomsky|乔姆斯基]]行为主义批判与能动-结构张力、受控实验的实验室“合成木偶剧”琐碎化风险。
@@ -486,7 +483,7 @@ updated: 2026-10-08
 >     - **2. 经验核查与检验认证** 假说的逻辑推演检验、实验反复复核以及经验事实的系统积累。
 >     - **3. 理论建构与体系化** 探寻规模宏大的普适概括，结构化零散经验并建构系统化理论大厦。
 > - **学术考据与工具治理**
->     - **4. 历史记录与学术考据** 忠实记录科学探索历史进程，沉淀学科[[Document\|文献]]与学术传承谱系。
+>     - **4. 历史记录与学术考据** 忠实记录科学探索历史进程，沉淀学科文献与学术传承谱系。
 >     - **5. 技术工具与仪器研制** 研制精密测量仪器，设计标准化研究方法与操作规程。
 >     - **6. 行政执行与组织管理** 维系科学共同体协作规程，保障大型科研机构高效运作。
 > - **社会转化与公共审美**
@@ -533,7 +530,7 @@ updated: 2026-10-08
 
 [[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]得主[[Peter Medawar|彼得·梅达沃]]（Peter Medawar）在《对科学的忠告》中对假说的启发与批判特质作出了精妙论断（Medawar, 1972, 1981）：
 
-> [!theory-stance] Box 1.2　假说论（The hypothesis）
+> [!theory-stance] Box 1.2　假说论（The [[Hypothesis]]）
 > 一旦拥有了一个假说，科学家便获得了前进的航标：假说将指引研究者筛选某些观察并舍弃其他杂多现象，进而启发出针对性的实验方案。
 > 
 > 科学家通过长期的科研实践迅速领会优秀假说的核心特质：**一个过于松散、能够迎合包容任何现象的假说，实际上告诉了我们零信息；它所禁止发生的现象越多，它所蕴含的信息量就越大。**
@@ -589,7 +586,7 @@ updated: 2026-10-08
 > - **计算崇拜与去个性化危机（Ions, 1977）** 特里·扬斯痛陈社会科学对定量计算与统计学的过度迷信正在造成普遍的去个性化，使社会研究退化为冷漠的数学分支，剥离了对人类生存困境的温情关照。
 > - **概念数学化与科学主义意识形态（Horkheimer, 1972）** 马克斯·霍克海默批判实证主义将质性概念强行还原为数学公式，将实证经验方法神化为唯一合法的理性形态，形成了极具压迫性的科学主义（scientism）意识形态。
 > - **客观意识与自我疏离（Roszak, 1970, 1972）** 西奥多·罗斯扎克指责实证科学对所谓客观意识的偏执追逐，切断了人与自身直觉、情感及自然深层联结，直接引发了深刻的存在疏离与心理异化。
-> - **心灵内在世界与伦理价值的破产（Holbrook, 1977）** 大卫·[[Peter A. Hall|霍尔]]布鲁克抨击实证经验主义在面对人类心灵的内在精神世界、意义追求与道德伦理价值时展现出彻底的认识论贫困与精神破产。
+> - **心灵内在世界与伦理价值的破产（Holbrook, 1977）** 大卫·霍尔布鲁克抨击实证经验主义在面对人类心灵的内在精神世界、意义追求与道德伦理价值时展现出彻底的认识论贫困与精神破产。
 > - **外在行为偏见与零件拼凑整体（Hampden-Turner, 1970）** 查尔斯·汉普登-特纳指出，传统量化社会科学带有保守主义偏见，只关注人身上可重复、机械且容易预测的“可见外在行为”，试图用碎片化零件拼凑出虚假的整体人类形象。
 
 #### 5.4 法兰克福学派与哈贝马斯的批判：工具理性与“无良知的社会”
@@ -628,7 +625,7 @@ updated: 2026-10-08
 
 #### 6.2 教室互动案例深描：“草莓事件”与 FIAC 机械分类的破产
 
-为了展现实证量化[[Coding in Qualitative Research|编码]]与情境诠释的质性鸿沟，罗布·沃克（Rob Walker）与克莱门斯·阿德尔曼（Clem Adelman）记录了英国中学的经典课堂片段（Walker & Adelman, 1975；Delamont, 1976；pp. 459–484）：
+为了展现实证量化编码与情境诠释的质性鸿沟，罗布·沃克（Rob Walker）与克莱门斯·阿德尔曼（Clem Adelman）记录了英国中学的经典课堂片段（Walker & Adelman, 1975；Delamont, 1976；pp. 459–484）：
 
 > [!case] Box 1.5　课堂情境片段：“草莓”事件与互动分析（A classroom episode）
 > 沃克与阿德尔曼记录了一堂中学生作文评讲课的生动场景：
@@ -954,7 +951,7 @@ updated: 2026-10-08
 
 ## 关键引用
 
-> [!citation-card] Burrell & Morgan 论主观–客观维度的四组[[Hypothesis\|假设]]推导
+> [!citation-card] Burrell & Morgan 论主观–客观维度的四组假设推导
 > 社会科学的研究进路建立在关于社会世界本质与如何探究它的根本假设之上：关于现实本质的[[Ontology\|本体论假设]]衍生出关于知识获取方式的[[Epistemology\|认识论假设]]；这些假设进一步衍生出方法论考量，并最终决定具体的研究工具与数据收集手段。（pp. 145–147）
 >
 > *Ontological assumptions (assumptions about the nature of reality and the nature of things) give [[Research in Schools Evaluation\|RISE]] to epistemological assumptions (ways of researching and enquiring into the nature of reality and the nature of things); these, in turn, give rise to methodological considerations; and these, in turn, give rise to issues of instrumentation and data collection.*
@@ -970,7 +967,7 @@ updated: 2026-10-08
 > *When the question of truth is raised in an objective manner, reflection is directed objectively to the truth as an object to which the knower is related. Reflection is not focused on the relationship, however, but upon the question of whether it is the truth to which the knower is related. If only the object to which he is related is the truth, the subject is accounted to be in the truth. When the question of truth is raised subjectively, reflection is directed subjectively to the nature of the individual’s relationship; if only the mode of this relationship is in the truth, the individual is in the truth, even if he should happen to be thus related to what is not true.*
 
 > [!citation-card] Walker & Adelman 论课堂互动分析的[[Indexicality\|索引性]]情境
-> 课堂互动中的[[Discourse|话语]]意义深嵌于特定组织背景与历时性互动关系中。单纯依据预设行为[[Coding in Qualitative Research\|编码]]系统记录下的互动序列，无论[[Reliability\|信度]]与效度多么严密，都无法解释行动者之间共享的幽默与默会理解。唯有理解师生随时间演进的意义共同体，方能把握社会情境的真实成就。（pp. 459–484）
+> 课堂互动中的[[Discourse|话语]]意义深嵌于特定组织背景与历时性互动关系中。单纯依据预设行为编码系统记录下的互动序列，无论[[Reliability\|信度]]与效度多么严密，都无法解释行动者之间共享的幽默与默会理解。唯有理解师生随时间演进的意义共同体，方能把握社会情境的真实成就。（pp. 459–484）
 >
 > *Such a string of codings, however reliable and valid, would not help anyone to understand why such an interruption was funny. Human curiosity makes us want to know why everyone laughs – and so, I would argue, the social scientist needs to know too... Here a casual comment made in the past has become an integral part of the shared meaning system of the class. It can only be comprehended by seeing the relationship as developing over time.*
 

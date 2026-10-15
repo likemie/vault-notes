@@ -7,7 +7,7 @@ summary: "德裔英国具象派画家，心理学大师西格蒙德·弗洛伊�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 15
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -35,7 +35,6 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Sigmund Freud]]"
-  - "[[Isaiah Berlin]]"
   - "[[Francis Bacon]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
@@ -45,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Lucian Freud
@@ -69,7 +68,7 @@ updated: 2026-10-08
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1922** 出生于德国[[Isaiah Berlin|柏林]]的一个犹太精英家庭，为奥地利精神分析学家[[Sigmund Freud|西格蒙德·弗洛伊德]]之孙。
+> - **1922** 出生于德国柏林的一个犹太精英家庭，为奥地利精神分析学家[[Sigmund Freud|西格蒙德·弗洛伊德]]之孙。
 > - **1933** 为躲避纳粹政权迫害随全家移居英国，后加入英国国籍。
 > - **1939–1943** 就读于东安格利亚绘画与设计学校以及伦敦大学金匠学院，结识[[Francis Bacon|弗朗西斯·培根]]（Francis Bacon）并结下深厚艺术交谊。
 > - **1960年代–2000年代** 确立厚重粗粝与不妥协的冷峻具象画风，长期通过极耗时日的工作室写生探索人物皮肤、骨骼与内在精神的真实状态。
@@ -154,8 +153,8 @@ updated: 2026-10-08
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Epoché]] | 概念 | [[Sigmund Freud\|弗洛伊德]]如实观察、不带主观评判的创作态度在[[Phenomenology\|现象学]][[Epistemology\|认识论]]上的体现。 |
-> | [[Engineering Mindset]] | 概念 | 弗洛伊德直面真实客体的方法被引申为工程思维直面代码与物理反馈的认知基石。 |
+> | [[Epoché]] | 概念 | 弗洛伊德如实观察、不带主观评判的创作态度在[[Phenomenology\|现象学]][[Epistemology\|认识论]]上的体现。 |
+> | [[Engineering Mindset]] | 概念 | [[Sigmund Freud\|弗洛伊德]]直面真实客体的方法被引申为工程思维直面代码与物理反馈的认知基石。 |
 > | [[Epistemology]] | 概念 | 悬置先验概念、以细致观察捕捉动态现实所代表的[[Empiricism\|经验主义]]认识论。 |
 > | [[Pragmatic Paradigm]] | 理论 | 强调以实际存在的客体与行动结果而非主观教条作为真理标准的哲学脉络。 |
 > | [[Sigmund Freud]] | 人物 | 家族精神分析与深层心理探索的血脉传承与艺术投射。 |

@@ -8,7 +8,7 @@ aliases:
 summary: "在教育与创新政策研究中具有双重维度的构念：在学生发展视域下指学生向学术性教育活动投入的时间、精力和注意力（学业投入）；在产学合作视域下指学者个人或团队与企业展开的赞助研究、咨询、联合培养与人才双向流动的非排他知识性合作（产学学术参与），当代科技政策正通过资助产业博士、设立创业科学家计划与打破学术晋升壁垒深化这一机制。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 33
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -19,13 +19,11 @@ tags:
   - level/higher-ed
   - theme/university-industry-collaboration
 related_concepts:
-  - "[[Document]]"
   - "[[University-Industry Collaboration]]"
   - "[[Student Engagement]]"
   - "[[Homework]]"
   - "[[Social Engagement]]"
   - "[[Academic Achievement]]"
-  - "[[Habitus]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Sponsored Research Agreement]]"
@@ -60,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Academic Engagement
@@ -68,7 +66,7 @@ updated: 2026-10-07
 ---
 
 > [!warning]- 术语双重内涵辨析
-> “Academic Engagement” 在跨学科教育与创新政策[[Document|文献]]中存在两个源自不同理论脉络的核心内涵：
+> “Academic Engagement” 在跨学科教育与创新政策文献中存在两个源自不同理论脉络的核心内涵：
 > - **内涵一：学业投入（Student Academic Engagement）** 源自高等教育学生学习与发展研究，指学生向课程学习、师生互动与学术规范等教育性实践活动投入的时间、精力和注意力。[[Argument_Zheng_2023_ShanghaiSanlian|(郑雅君, 2023)]]
 > - **内涵二：产学学术参与（Academic Engagement with Industry）** 源自科技政策与[[University-Industry Collaboration|产学合作]]研究，指学术研究者（教师/科研团队）与企业展开的赞助研究、学术咨询、联合发表、学生联合培养及跨界人才流动等知识性合作。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 42–43)]]
 
@@ -82,7 +80,7 @@ updated: 2026-10-07
 > **学业投入（Student Academic Engagement）**是[[Student Engagement|学生投入]]理论的核心支柱之一，指学生在大学期间向学术性教育活动投入的物理时间与心理能量——包括课程出勤、完成[[Homework|作业]]、与教师探讨学术前沿及遵守学术规范（[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君，2023]]）。在[[Yajun Zheng|郑雅君]]的“大学过程”[[Analytic Framework|分析框架]]中，学业投入与[[Social Engagement|社会性投入]]并列构成大学投入过程的两大分析轴。
 
 > [!concept-lens] 学业投入透镜
-> - **过程 vs 结果** 学业投入是“行为与能量过程”，[[Academic Achievement|学业表现]]（GPA）是“制度性产出”。高投入不必然产生高 GPA，低投入也可能因选课策略获得高分，两者脱节揭示了深层的家庭资本与策略性[[Habitus|习性]]差异。
+> - **过程 vs 结果** 学业投入是“行为与能量过程”，[[Academic Achievement|学业表现]]（GPA）是“制度性产出”。高投入不必然产生高 GPA，低投入也可能因选课策略获得高分，两者脱节揭示了深层的家庭资本与策略性习性差异。
 > - **量与质的双重性** 既包含时间长度与修课学分等量化维度，更包含专注程度、探究深度与策略方向等质性维度。
 
 ### 围绕学业投入形成的命题与实证
@@ -134,7 +132,7 @@ updated: 2026-10-07
 > [!contrast-table] 学术参与核心命题归纳
 > | 命题类型 | 核心指向 | 代表学者 / 机构 | 实证情境 |
 > |---|---|---|---|
-> | **[[Habitus\|习性]]阶层分化命题** | 家庭资本与阶层习性导致学生学业投入呈现目标掌控（功利高效）与直觉依赖（苦学失效）的分化 | [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] | 中国名牌大学本科生生活组织模式实证调查 |
+> | **习性阶层分化命题** | 家庭资本与阶层习性导致学生学业投入呈现目标掌控（功利高效）与直觉依赖（苦学失效）的分化 | [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] | 中国名牌大学本科生生活组织模式实证调查 |
 > | **组织碎片分散命题** | 产学学术参与本质上是个人驱动的多触点网络，中心办公室只能扮演导航与[[Concierge Service\|礼宾服务]]角色 | Perkmann et al. (2013); Boccanfuso & Hall (2025) | 全美 65 所[[Research Universities\|研究型大学]][[University-Industry Collaboration\|产学参与]]办公室组织架构调研 |
 > | **企业矩阵对齐命题** | 产学学术参与在企业侧依赖 [[Academic Engagement Team\|AET]] 团队协调业务部门短期利润与大学长期探索的冲突 | [[Argument_Ramming_2025_CorporateSupport\|Ramming (2025)]] | 跨国科技巨头产学合作实践与资助结构解构 |
 > | **双向穿梭制度激励命题** | 消除学术界对产业流动的制度惩罚并资助产业博士，是激活全社会学术参与潜能的前提 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] | 白宫 [[Office of Science and Technology Policy\|OSTP]] 2026 产研人才流动战略与 Activate 创业计划 |

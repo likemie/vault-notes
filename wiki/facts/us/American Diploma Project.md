@@ -9,7 +9,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -26,10 +26,8 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[College and Career Readiness]]"
   - "[[Apprenticeship]]"
-  - "[[Document]]"
 related_theories: []
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Questionnaire]]"
 related_instruments: []
 related_persons: []
@@ -46,7 +44,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-05
+updated: 2026-10-15
 ---
 
 # American Diploma Project
@@ -69,7 +67,7 @@ updated: 2026-10-05
 ## 方案设计与运行机制
 
 > [!claim] 核心干预机制
-> ADP 彻底打破了由中小学教育官僚闭门自定教学进度的传统模式，转而建立“下游倒推上游”的逆向实证链条：直接调查高校大一骨干教授与高科技雇主对真实胜任力的底线要求，将这些要求[[Coding in Qualitative Research|编码]]为具体的学科基准，并倒逼各州立法修改高中毕业必修课程要求。
+> ADP 彻底打破了由中小学教育官僚闭门自定教学进度的传统模式，转而建立“下游倒推上游”的逆向实证链条：直接调查高校大一骨干教授与高科技雇主对真实胜任力的底线要求，将这些要求编码为具体的学科基准，并倒逼各州立法修改高中毕业必修课程要求。
 
 > [!policy-design]- 方案设计
 > - **跨界实证调查** 对数百名四年制大学与社区学院的英语与数学教授、以及电信、金融、先进制造等数十个高薪行业的招聘经理进行系统深度[[Questionnaire|问卷]]调研与焦点访谈，梳理出升学与就业不可或缺的必备认知技能。
@@ -130,6 +128,6 @@ updated: 2026-10-05
 > | [[The Education Trust]] | 智库机构 | 与 Achieve 共同发起 ADP 并注入教育公平与防范低标准理念的民权智库。 |
 > | [[National Governors Association]] | 组织机构 | 汲取 ADP 的成功实践经验并联合发起 CCSS 的最高州长组织。 |
 > | [[Council of Chief State School Officers]] | 组织机构 | 借助 ADP 的跨州行政网络并共同管理后续全国标准的教育官僚联盟。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | 实证[[Document\|文献]] | 明确将 ADP 定性为多州能就共同标准达成一致的“现实证据”的经典研究。 |
+> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | 实证文献 | 明确将 ADP 定性为多州能就共同标准达成一致的“现实证据”的经典研究。 |
 
 ---

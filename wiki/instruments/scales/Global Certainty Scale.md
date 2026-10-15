@@ -6,9 +6,9 @@ aliases:
 summary: "用于测量个体对科学知识确定性与绝对真理假设的七题自陈量表，涵盖可证伪性与绝对真理两大取向，广泛应用于中学到大学过渡期的认识论信念追踪"
 type: instrument
 instrument_type: scale
-instrument_related_count: 10
-instrument_related_level: 2
-instrument_related_stars: "⭐⭐"
+instrument_related_count: 9
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#dcfce7"
 part_of: ""
 developers:
@@ -38,7 +38,6 @@ related_theories: []
 related_methods:
   - "[[Likert Scale]]"
   - "[[Questionnaire]]"
-  - "[[Coding in Qualitative Research]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -48,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-08-19
+updated: 2026-10-15
 ---
 
 # Global Certainty Scale
@@ -72,7 +71,7 @@ updated: 2026-08-19
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
 > |---|---|---|---|
-> | 全局科学知识确定性 | 7 | 对科学理论的绝对性、不变性、终极真理性以及[[Falsification\|可证伪性]]的总体认知预设 | 4 点计分均值（反向题反向[[Coding in Qualitative Research\|编码]]后求均值或构建潜[[Variable\|变量]]；高分代表高确定性/低[[Epistemology\|认识论]]成熟度） |
+> | 全局科学知识确定性 | 7 | 对科学理论的绝对性、不变性、终极真理性以及[[Falsification\|可证伪性]]的总体认知预设 | 4 点计分均值（反向题反向编码后求均值或构建潜[[Variable\|变量]]；高分代表高确定性/低[[Epistemology\|认识论]]成熟度） |
 
 ---
 

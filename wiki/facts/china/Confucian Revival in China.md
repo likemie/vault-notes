@@ -10,7 +10,7 @@ subtype: event
 region: china
 fact_region: "china"
 fact_kind: "event"
-fact_related_count: 14
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -18,7 +18,7 @@ issuing_organization: ''
 confidence: high
 status: active
 created: '2026-05-21'
-updated: 2026-10-09
+updated: 2026-10-15
 tags:
   - region/china
   - theme/confucianism
@@ -27,7 +27,6 @@ tags:
   - theme/ideology
 related_concepts:
   - "[[Soft Power]]"
-  - "[[Bildung]]"
   - "[[Discourse]]"
   - "[[Zhonghua Minzu]]"
   - "[[Academic Freedom]]"
@@ -68,7 +67,7 @@ related_arguments:
 
 > [!dev-timeline] 复兴阶段图谱
 > - **1980s末–2000s初 — 民间自发与半独立拓展** — 1989 年后复兴加速，民间儒家书院与“国学热”兴起，学者呼吁回归传统伦理[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 63)]]。
-> - **胡锦涛时期 — 主流化与去宗[[Bildung\|教化]]定性** — 儒家[[Discourse|话语]]进入和谐社会叙事；现代儒家信徒呼吁将儒学定为国教未获采纳，官方明确将其定位为“文化与伦理传统”而非宗教，避免与无神论冲突[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 63)]]。
+> - **胡锦涛时期 — 主流化与去宗教化定性** — 儒家[[Discourse|话语]]进入和谐社会叙事；现代儒家信徒呼吁将儒学定为国教未获采纳，官方明确将其定位为“文化与伦理传统”而非宗教，避免与无神论冲突[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 63)]]。
 > - **习近平时代（2012至今） — 民族主义绑定与国家推进** — 儒家复兴与“[[Zhonghua Minzu\|中华民族]]伟大复兴中国梦”高度绑定；设立[[Confucius\|孔子]]学院作为[[Soft Power\|软实力]]工具向海外输出中国模式[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 63)]]。
 > - **2017至今 — 意识形态收紧与官控重塑** — 重新强调马克思主义正统，收紧[[Academic Freedom\|学术自由]]；压制自发民间书院，代之以国家主导的“优秀传统文化”运动[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 72)]]。
 
@@ -100,9 +99,9 @@ related_arguments:
 > - **政策工具** 217 册基础教育必修教材、孔子学院、国家文化工程。
 
 > [!pathways]- 关键策略与机制
-> - **去宗[[Bildung\|教化]]定位（De-religionisation）** — 将儒学严密剥离宗教色彩，定性为“文化与伦理传统”，从而避开与中共无神论意识形态的正面冲突[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 63)]]。
+> - **去宗教化定位（De-religionisation）** — 将儒学严密剥离宗教色彩，定性为“文化与伦理传统”，从而避开与中共无神论意识形态的正面冲突[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 63)]]。
 > - **选择性删减与过滤（Selective Filtering）** — 精心筛选儒家文本，突出家庭伦理、社会秩序与服从意识，过滤民贵君轻或对抗统治权力的批判性元素[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, pp. 59–60)]]。
-> - **边疆[[Bildung\|教化]]与同化工具** — 将儒家伦理注入边疆教育与“思想改造”中，要求少数民族效仿汉儒礼制[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 64)]]。
+> - **边疆教化与同化工具** — 将儒家伦理注入边疆教育与“思想改造”中，要求少数民族效仿汉儒礼制[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 64)]]。
 
 ---
 
@@ -132,7 +131,7 @@ related_arguments:
 > > [!axis] 意识形态调和的张力：儒家伦理 vs. 共产主义无神论
 > > 讨论官方如何在无神论政权中吸纳封建传统思想。
 > >
-> > - **官方立场** — 通过“去宗[[Bildung\|教化]]”与“中华优秀传统文化”重新封装，实现传统与社会主义核心价值观的结合[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 63)]]。
+> > - **官方立场** — 通过“去宗教化”与“中华优秀传统文化”重新封装，实现传统与社会主义核心价值观的结合[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 63)]]。
 > > - **批判学者** — 指出这种组合本质上是借用儒家家庭等级与服从结构来巩固统治权力[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 63)]]。
 >
 > > [!axis]- [[Cosmopolitanism|世界主义]]解读 vs. 汉人中心强行同化

@@ -8,9 +8,9 @@ summary: "基于认知心理学原型理论、通过语言词汇的自由联想�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 16
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 15
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#fef3c7"
 tags:
 - method/cross-cultural
@@ -18,7 +18,6 @@ tags:
 - method/free-association
 - method/cultural-model
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Concept Mapping]]"
   - "[[Emic and Etic]]"
   - "[[Heart and Mind for Wanting to Learn]]"
@@ -49,7 +48,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!info]
-> 原型方法（prototype methods）是一种以认知心理学的**原型理论（prototype theory）**为基础、通过分析特定文化语言中的词汇来建构**[[Cultural Models\|文化模型]]（cultural models）**的混合研究方法。其核心[[Hypothesis\|假设]]是：人类对世界的理解很大程度上依赖于对物体、活动和经验的分类（categorization），而语言承载着这些类别——一个文化的语言包含了该文化成员共享的原型概念，可以通过系统分析这些语言材料来揭示文化层面的共享信念结构([[Argument_Li_2012_Cambridge\|Li, 2012, pp.88-89]])。
+> 原型方法（prototype methods）是一种以认知心理学的**原型理论（prototype theory）**为基础、通过分析特定文化语言中的词汇来建构**[[Cultural Models\|文化模型]]（cultural models）**的混合研究方法。其核心假设是：人类对世界的理解很大程度上依赖于对物体、活动和经验的分类（categorization），而语言承载着这些类别——一个文化的语言包含了该文化成员共享的原型概念，可以通过系统分析这些语言材料来揭示文化层面的共享信念结构([[Argument_Li_2012_Cambridge\|Li, 2012, pp.88-89]])。
 
 Li 在研究中使用该方法的具体目标是：**建构欧裔美国和中国两种文化中"学习"（learning／學習）这个概念的文化原型**——不是测量个体差异，而是描绘文化成员共享的[[Concept Mapping|概念地图]]([[Argument_Li_2012_Cambridge|Li, 2012, pp.88-89]])。
 
@@ -107,7 +106,7 @@ Li 强调文化模型**影响和引导（但不决定）**成员的思维和行�
 
 **阶段 4：[[Cluster Analysis|聚类分析]]生成[[Concept Mapping|概念地图]]（cluster analysis）**
 
-各文化 100 名大学生将核心词表按意义相似性分组。分组数据经**聚类分析（cluster analysis）**统计处理，生成两张层级概念地图（Figures 3.1 & 3.2）。每张地图包含四个层级：上位层（Superordinate Level）→ 基本层 I（Basic Level I）→ 基本层 II（Basic Level II）→ 下位层（Subordinate Level，即实际词汇所在层）。聚类数量和大小由参与者将多少概念归入各组决定——原型方法[[Hypothesis|假设]]**某一聚类中词项越多，表示该文化成员对该概念的意识／重视程度越高([[Argument_Li_2012_Cambridge|Li, 2012, pp.92-94]])**。
+各文化 100 名大学生将核心词表按意义相似性分组。分组数据经**聚类分析（cluster analysis）**统计处理，生成两张层级概念地图（Figures 3.1 & 3.2）。每张地图包含四个层级：上位层（Superordinate Level）→ 基本层 I（Basic Level I）→ 基本层 II（Basic Level II）→ 下位层（Subordinate Level，即实际词汇所在层）。聚类数量和大小由参与者将多少概念归入各组决定——原型方法假设**某一聚类中词项越多，表示该文化成员对该概念的意识／重视程度越高([[Argument_Li_2012_Cambridge|Li, 2012, pp.92-94]])**。
 
 ### 研究二：理想学习者形象（ideal learner image）
 
@@ -137,7 +136,7 @@ Li 强调文化模型**影响和引导（但不决定）**成员的思维和行�
 > [!success]
 > - **比较文化概念结构** 适合回答"X 概念在文化 A 和文化 B 中分别如何被理解和组织？"这类问题。不测量个体差异，而描绘文化层面的共享理解([[Argument_Li_2012_Cambridge\|Li, 2012, p.104]])
 > - **本土概念挖掘** 适合发现外部分类框架无法捕捉的本土概念和概念关系——Li 的研究发现[[Heart and Mind for Wanting to Learn\|好學心]]是中国学习[[Concept Mapping\|概念地图]]中最大的集群（46%），而没有任何西方理论框架曾预测过这一概念的存在和中心性([[Argument_Li_2012_Cambridge\|Li, 2012, pp.94-97]])
-> - **与后续研究方法[[Triangulation\|三角验证]]** 原型方法生成的概念地图可作为[[Cultural Models\|文化模型]]的初步[[Hypothesis\|假设]]，后续可通过访谈、观察、实验等方法进行验证和细化
+> - **与后续研究方法[[Triangulation\|三角验证]]** 原型方法生成的概念地图可作为[[Cultural Models\|文化模型]]的初步假设，后续可通过访谈、观察、实验等方法进行验证和细化
 > - **材料类型** 自然语言中的词汇和短语——需要该文化的本土语者参与所有阶段
 
 ---
@@ -146,7 +145,7 @@ Li 强调文化模型**影响和引导（但不决定）**成员的思维和行�
 
 > [!warning]
 > - **样本代表性问题** Li 的[[Study Population and Sample\|研究样本]]均为大学生——通常是该文化中受教育程度最高、年龄最集中的群体。这些参与者可能不是各自文化整体人口的代表性样本（Li 未在研究中直接讨论此限制）
-> - **语言 vs 信念的差距** 原型方法[[Hypothesis\|假设]]语言材料直接反映文化信念，但词汇存在（lexical availability）不等于信念存在——一个文化可能保留了某些"化石词汇"（如成语），但成员已不再持有相应的信念
+> - **语言 vs 信念的差距** 原型方法假设语言材料直接反映文化信念，但词汇存在（lexical availability）不等于信念存在——一个文化可能保留了某些"化石词汇"（如成语），但成员已不再持有相应的信念
 > - **[[Cluster Analysis\|聚类分析]]的主观性** 虽然聚类分析是统计方法，但参与者在"按意义相似性分组"时仍然涉及大量主观判断——不同的分组标准（如按功能、按情境、按情感效价）可能产生不同的[[Concept Mapping\|概念地图]]。Li 没有报告分组指导语的详细措辞，也没有讨论不同分组策略的可能性
 > - **方法不直接解释行为** 原型方法产出的是概念结构而非行为数据——即使两种文化的学习概念地图完全不同，也不能直接推断两种文化成员的实际学习行为不同。Li 意识到了这一局限，因此通过引述其他研究（[[Classroom Observation|课堂观察]]、归因研究等）来补充行为层面的[[Chain of Evidence\|证据链]]([[Argument_Li_2012_Cambridge\|Li, 2012, pp.76-87]])
 > - **翻译对等性问题** 交叉翻译和评分程序虽然减少了但不完全消除了翻译偏差——"學習"和"learn/learning"在各自的语义网络中与不同的概念关联，即使它们是各自语言中最接近的对等词

@@ -6,7 +6,7 @@ aliases:
 summary: "围绕知识生产、流动、控制和利用展开的地缘政治竞争形态，用于分析高等教育、科研和技术如何成为国际权力关系的一部分。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 87
+related_count: 86
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -82,7 +82,6 @@ related_theories:
   - "[[Path Dependence]]"
 related_methods:
   - "[[Analytic Framework]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Single-Case Design]]"
   - "[[Discourse Analysis]]"
 related_persons:
@@ -112,7 +111,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Geopolitics of Knowledge
@@ -325,7 +324,7 @@ updated: 2026-10-10
 > - **公共外交**（外交部长话语）
 >   国家[[Soft Power\|软实力]]投射——通过高等教育合作建立持续性跨国信任关系
 
-这种多重[[Coding in Qualitative Research|编码]]使得[[Transnational Research Collaboration|跨国研究合作]]成为一个不同行动者都能从中找到合法性的话语[[Champ|场域]]（[[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.98–99]]）。
+这种多重编码使得[[Transnational Research Collaboration|跨国研究合作]]成为一个不同行动者都能从中找到合法性的话语[[Champ|场域]]（[[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.98–99]]）。
 
 澳大利亚作为最激进的案例展示了这些抽象分析如何落地：2012 年《[[Australia in the Asian Century White Paper|亚洲世纪白皮书]]》（Henry Report）将亚洲崛起定位为"澳大利亚的机遇"；AISRF（澳印战略研究基金）和 ACSRF（澳中科学与研究基金）将研究合作与贸易和外交目标深度绑定；《国际教育国家战略 2025》将教育出口系统性地整合进国家经济战略([[Argument_Rizvi_2022_Springer|Rizvi, 2022, pp.99–100]])。
 

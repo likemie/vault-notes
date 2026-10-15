@@ -9,7 +9,7 @@ aliases:
 summary: "在整群随机试验与分层复杂抽样中，剔除群内相关系数（ICC）导致的设计效应（Design Effect）损耗后，样本实际承载的相当于独立同分布简单随机抽样的真实统计信息量与推断功效。"
 type: concept
 domain: "research-methodology"
-related_count: 28
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Causality]]"
   - "[[Evaluation Research]]"
   - "[[Type I and Type II Errors]]"
-  - "[[Attrition]]"
   - "[[Variable]]"
   - "[[Internal Validity]]"
   - "[[What Works Movement]]"
@@ -57,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Effective Sample Size
@@ -72,7 +71,7 @@ updated: 2026-10-12
 > [!concept-lens] 概念透镜
 > - **含义** 这个概念指向复杂研究设计中“表面观察人头数（名义样本量）”与“实际独立统计信息量（有效样本量）”之间的本质落差，揭示了同校同班学生相似性对[[Causality\|因果推断]]功效的内在稀释。
 > - **用途** 帮助[[Evaluation Research\|评估研究]]者在规划整群试验时穿透名义规模假象，精确计算达成预设检验力（如 80% 功效检测最小可测[[Effect Size\|效应量]] MDES）所需的最少学校数量（集群数）与每校学生数。
-> - **边界** 它解决的是样本量对估计精度与假阴性错误（[[Type I and Type II Errors\|Type II error]]）的控制能力，无法自动消除由选择性[[Attrition\|流失]]、混淆[[Variable\|变量]]或测量偏倚带来的[[Internal Validity\|内部效度]]系统性偏差。
+> - **边界** 它解决的是样本量对估计精度与假阴性错误（[[Type I and Type II Errors\|Type II error]]）的控制能力，无法自动消除由选择性流失、混淆[[Variable\|变量]]或测量偏倚带来的[[Internal Validity\|内部效度]]系统性偏差。
 
 > [!citation-card] 试验样本规模演进与信息量积累
 > “对英格兰[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）与美国[[National Center for Education Evaluation and Regional Assistance\|国家教育评估与区域援助中心]]（NCEE）资助的 141 项 RCT 进行的重新分析显示，多数试验效应量微弱（均值 0.06 个标准差）且置信区间过宽（均值宽度 0.30 个标准差），据此得出这些试验缺乏信息量的结论；然而这忽视了试验质量的动态演进。有效性运动的基本前提是不仅持续探究‘何为有效’，更要不断探究‘如何更好地研究何为有效’。一个明证是：EEF 试验的有效样本量随着时间推移持续大幅攀升（与早期试验相比，2014 年后的有效样本量几乎翻番），这意味着 EEF 资助的试验正在变得越来越具备实质信息量。”[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 56–57)]]

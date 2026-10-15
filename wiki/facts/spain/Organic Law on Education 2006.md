@@ -12,7 +12,7 @@ subtype: policy
 region: spain
 fact_region: "spain"
 fact_kind: "policy"
-fact_related_count: 15
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[State Educational Sovereignty]]"
   - "[[Academic Achievement]]"
   - "[[European Education Space]]"
-  - "[[Attrition]]"
   - "[[Commensuration]]"
   - "[[Educational Decentralization]]"
 related_facts:
@@ -45,7 +44,7 @@ related_persons:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Organic Law on Education 2006
@@ -158,7 +157,7 @@ updated: 2026-10-12
 
 > [!debates] 政策争议
 >
-> > [!axis] 自治赋权与民主多样性 vs 体系解体与国家主权[[Attrition|流失]]
+> > [!axis] 自治赋权与民主多样性 vs 体系解体与国家主权流失
 > > - **分权推动者辩护** 满足历史性区域独特的文化诉求，是民主宪政成熟与尊重多样性的标志。
 > > - **国家体系批评者（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009]]）** 各政党为狭隘政治利益出卖国家统筹权，使得全国教育沦为 17 个互不[[Commensuration|通约]]的领地，导致国家教育空间名存实亡。
 >

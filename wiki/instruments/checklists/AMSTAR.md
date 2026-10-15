@@ -8,7 +8,7 @@ aliases:
 summary: "用于评估系统评价与元分析方法学质量的批判性评价规程，包含12项标准与高质量阈值判定"
 type: instrument
 instrument_type: checklist
-instrument_related_count: 27
+instrument_related_count: 25
 instrument_related_level: 6
 instrument_related_stars: "⭐⭐⭐⭐⭐⭐"
 instrument_related_color: "#fecdd3"
@@ -39,7 +39,6 @@ related_concepts:
   - "[[Literature Search]]"
   - "[[Publication Bias]]"
   - "[[Research Question]]"
-  - "[[Document]]"
   - "[[Heterogeneity]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Variable]]"
@@ -49,7 +48,6 @@ related_concepts:
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Systematic Review]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Forest Plot]]"
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
@@ -68,7 +66,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-23
-updated: 2026-09-11
+updated: 2026-10-15
 ---
 
 # AMSTAR
@@ -81,7 +79,7 @@ updated: 2026-09-11
 > - **工具类型** 系统评价与[[Meta-analysis\|元分析]]方法学质量评估规程（Methodological Quality Appraisal Rubric）。
 > - **开发者与年份** Shea et al. (2007, 2017)。
 > - **测量目的** 用于对纳入[[Systematic Review\|系统综述]]与元分析（[[Meta-analysis]]）的[[Literature Search\|文献检索]]、数据提取、统计合并模型及[[Publication Bias\|发表偏倚]]控制等程序进行方法学严格度评价与分级。
-> - **实施方式** 他评与双人独立[[Coding in Qualitative Research\|编码]]，遇分歧通过协商达成一致。
+> - **实施方式** 他评与双人独立编码，遇分歧通过协商达成一致。
 
 ---
 
@@ -93,7 +91,7 @@ updated: 2026-09-11
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
 > |---|---|---|---|
 > | 先验设计与方案注册 | 1 | 检验[[Research Question\|研究问题]]与纳入标准是否在综述开展前预先注册 | 二分类（满足得 1 分，未满足得 0 分） |
-> | [[Literature Search\|文献检索]]与筛选完整性 | 3 | 检验是否双人独立筛选提取、多数据库检索及检索灰色[[Document\|文献]] | 二分类（每条 0/1 分） |
+> | [[Literature Search\|文献检索]]与筛选完整性 | 3 | 检验是否双人独立筛选提取、多数据库检索及检索灰色文献 | 二分类（每条 0/1 分） |
 > | 纳入文献特征与透明度 | 2 | 检验是否提供纳入研究完整清单及汇总特征表或[[Forest Plot\|森林图]] | 二分类（每条 0/1 分） |
 > | 原始研究质量评估与应用 | 2 | 检验是否评估原始研究科学质量并在结论或调节分析中恰当使用 | 二分类（每条 0/1 分） |
 > | 统计综合与[[Effect Size\|效应量]]合并模型 | 2 | 检验合并方法是否恰当（[[Heterogeneity\|异质性]]检验、随机效应）及是否报告[[Confidence Interval\|置信区间]]与[[Standard Error\|标准误]] | 二分类（每条 0/1 分） |
@@ -118,7 +116,7 @@ updated: 2026-09-11
 > | 1 | 是否提供先验设计？[[Research Question\|研究问题]]与纳入标准是否在综述开展前预先注册？ | 是 / 否 | 满足得 1 分，否则 0 分 | [[Argument_Runco_2026_CRJ\|Runco et al. (2026, p. 4)]] |
 > | 2 | 是否进行重复的研究筛选与数据提取？是否有至少两名独立提取员及分歧协商机制？ | 是 / 否 | 满足得 1 分，否则 0 分 | — |
 > | 3 | 是否执行了全面的[[Literature Search\|文献检索]]？是否检索至少两个电子数据库，明确关键词、检索词、日期范围与整体策略？ | 是 / 否 | 满足得 1 分，否则 0 分 | — |
-> | 4 | 检索过程中是否纳入灰色[[Document\|文献]]？是否未仅凭出版状态排除文献？ | 是 / 否 | 满足得 1 分，否则 0 分 | — |
+> | 4 | 检索过程中是否纳入灰色文献？是否未仅凭出版状态排除文献？ | 是 / 否 | 满足得 1 分，否则 0 分 | — |
 > | 5 | 是否提供纳入研究清单？选定纳入的研究是否在正文中列出或在参考文献中加星号注明？ | 是 / 否 | 满足得 1 分，否则 0 分 | — |
 > | 6 | 是否提供纳入研究的特征？是否以汇总表格或[[Forest Plot\|森林图]]提供各项研究的[[Variable\|变量]]、干预与结果等相关信息？ | 是 / 否 | 满足得 1 分，否则 0 分 | — |
 > | 7 | 是否评估并记录了纳入研究的科学质量？是否提供对纳入研究方法学质量评估的详细说明？ | 是 / 否 | 满足得 1 分，否则 0 分 | — |
@@ -137,7 +135,7 @@ updated: 2026-09-11
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | AMSTAR 12 项改编版 | 评估 52 项[[Creativity\|创造力]]一阶[[Meta-analysis\|元分析]]的方法学质量，作为[[Meta-meta-analysis\|二阶元分析]]的质量调节[[Variable\|变量]] | 双人独立[[Coding in Qualitative Research\|编码]]，评定者间一致性为 97%（636 个条目评定） | 高质量（至少满足 9 项标准）与非高质量元分析在综合效应量上无显著差异（$F(1, 12.9) = 0.97, p = .34$） |
+> | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | AMSTAR 12 项改编版 | 评估 52 项[[Creativity\|创造力]]一阶[[Meta-analysis\|元分析]]的方法学质量，作为[[Meta-meta-analysis\|二阶元分析]]的质量调节[[Variable\|变量]] | 双人独立编码，评定者间一致性为 97%（636 个条目评定） | 高质量（至少满足 9 项标准）与非高质量元分析在综合效应量上无显著差异（$F(1, 12.9) = 0.97, p = .34$） |
 > | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | R-AMSTAR（修订版） | 评估 14 项[[Cooperative Learning\|合作学习]]一阶元分析的方法学质量（得分 24–36），划分为中等与高质量组 | 双人独立编码，评定者间一致性系数 Cohen's $\kappa = 0.89$ | 中等质量组效应量（$ES = 0.83$）高于高质量组（$ES = 0.54$），呈临界显著差异（$Q_b(1) = 3.69, p = .05$） |
 > | [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] | R-AMSTAR（修订版，Kung et al., 2010） | 评估 20 项[[Problem-Based Learning\|问题本位学习]]一阶元分析的方法学质量（11 个章节，剔除 8A/8B 临床应用条目，不计分），得分作为调节[[Variable\|变量]]并统计检验 | 双人独立编码，评定者间一致性系数 Cohen's $\kappa = 0.89$ | 高质量组效应量（$ES = 0.82$）显著高于中等质量组（$ES = 0.46$）（$Q_b(1) = 15.25, p < .01$） |
 > | [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] | R-AMSTAR（修订版，Kung et al., 2010） | 评估 19 项人工智能教育应用一阶元分析的方法学质量（得分 29–36，均分 33.84，剔除 8C/8D 临床条目），作为二阶元分析的质量调节变量 | 双人独立编码，评定者间一致性系数 Cohen's $\kappa = 0.87$ | 高质量组（$ES = .70$）与中等质量组（$ES = .60$）无显著差异（$Q_{bg}(1) = .62, p = .43$） |

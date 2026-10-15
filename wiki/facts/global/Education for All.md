@@ -11,7 +11,7 @@ subtype: policy
 region: "global"
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 38
+fact_related_count: 37
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -46,7 +46,6 @@ related_theories:
   - "[[Systems of Innovation]]"
   - "[[Typology of Educational Responses to Globalization]]"
 related_methods:
-  - "[[Exploratory Factor Analysis]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -97,7 +96,7 @@ updated: 2026-10-15
 > [!policy-design]- 政策设计
 > - **政策目标** 承诺到 2000 年（后在达喀尔峰会延至 2015 年）实现初等义务教育全面普及（Universal Primary Education，UPE）、大幅削减成人文盲率、彻底消除女童基础教育性别不平等，并显著改善可测量的学习成效。
 > - **适用对象** 借贷与受援国教育部、地方教育局、公立与社区小学、失学青年及社会边缘群体。
-> - **政策工具** 设立国家全民教育行动计划（[[Exploratory Factor Analysis|EFA]] 国家行动计划）、建立跨国援助信托资金池、创设[[Global Partnership for Education|全民教育快车道倡议]]（EFA-FTI，后改组为全球教育伙伴关系 [[Global Partnership for Education|GPE]]），并发布年度《[[Global Education Monitoring Report|全球教育监测报告]]》（GEMR）。
+> - **政策工具** 设立国家全民教育行动计划（EFA 国家行动计划）、建立跨国援助信托资金池、创设[[Global Partnership for Education|全民教育快车道倡议]]（EFA-FTI，后改组为全球教育伙伴关系 [[Global Partnership for Education|GPE]]），并发布年度《[[Global Education Monitoring Report|全球教育监测报告]]》（GEMR）。
 > - **约束机制** 虽属非拘束性国际软法倡议，但通过联合国教科文组织年度跨国量化排位监测，以及与世界银行优惠贷款审批前置行动（Prior Actions）的深度绑定，构成了对受援国高度刚性的规制与问责约束。
 
 > [!citation-card] 全民教育倡议与全球南方量化治理规制转向
@@ -112,7 +111,7 @@ updated: 2026-10-15
 > [!timeline] 政策时间线
 > - **1990** 泰国宗滴恩世界全民教育大会开幕，155 国代表一致通过《世界全民教育宣言：满足基本学习需求》与配套行动纲领。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]；本次大会实质由[[World Bank|世界银行]]强力主导，标志着全球教育理念领导权从[[UNESCO|联合国教科文组织]]向[[Multilateral Development Bank|多边开发银行]]发生历史性转移，开启了以标准化测试、统一教材、凭证制与[[Performance Pay|绩效工资]]为特征的技术治理时代。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 466, 474)]]
 > - **2000** 塞内加尔达喀尔世界教育论坛召开，164 国政府通过《达喀尔行动纲领：全民教育——实现我们的集体承诺》，明确确立 2015 年前达成的六大定量发展目标。
-> - **2002** [[World Bank|世界银行]]联合七国集团正式启动[[Global Partnership for Education|全民教育快车道倡议]]（[[Exploratory Factor Analysis|EFA]] Fast Track Initiative，EFA-FTI），直接将跨国优惠无偿援助与发展中国家基础教育量化指标完成度挂钩。
+> - **2002** [[World Bank|世界银行]]联合七国集团正式启动[[Global Partnership for Education|全民教育快车道倡议]]（EFA Fast Track Initiative，EFA-FTI），直接将跨国优惠无偿援助与发展中国家基础教育量化指标完成度挂钩。
 > - **2015** 韩国仁川世界教育论坛召开，全民教育运动历经 25 年推进，正式并入联合国《[[UN Sustainable Development Goals|2030年可持续发展议程]]》，转化为第四项可持续发展目标（SDG 4）。
 
 ---
@@ -123,7 +122,7 @@ updated: 2026-10-15
 > - **多边协调与统计监测方** [[UNESCO|联合国教科文组织]]（UNESCO）掌握全球议程倡导权，下属统计研究所（[[UNESCO Institute for Statistics|UIS]]）统一制定跨国比较指标并发布《[[Global Education Monitoring Report|全球教育监测报告]]》（GEMR）。
 > - **财政筹资与条件规制方** [[World Bank|世界银行]]（World Bank）依托[[Poverty Reduction Strategy Papers|减贫战略文件]]（PRSPs）与结构调整项目，将全民教育目标转化为放贷前置约束，牢牢掌控资金流向。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
 > - **实地弱势干预方** [[UNICEF|联合国儿童基金会]]（UNICEF）聚焦边缘化女童、战乱冲突与难民营地，在一线实地推动全纳教育方案。
-> - **国家履约主体** 受援国教育部与财政部，设立专门国家协调小组编制 [[Exploratory Factor Analysis|EFA]] 计划，并向国际组织提供统计台账。
+> - **国家履约主体** 受援国教育部与财政部，设立专门国家协调小组编制 EFA 计划，并向国际组织提供统计台账。
 
 > [!pathways]- 实施路径
 > - **全球基准与指标建构** 建立涵盖学前毛入学率、初等净入学率（NER）、五年级留存率、成人识字率与性别均等指数（GPI）的标准化国际比较指标。
@@ -158,7 +157,7 @@ updated: 2026-10-15
 > [!finding-cards] 效果与评价
 > - **历史性规模扩张** 全民教育运动成功将基础教育推向全球政治最高议程，驱动了人类历史上规模最宏大的跨国初等教育普及运动。
 > - **非意图后果（在校无学与质量危机）** 由于全民教育信贷长期深陷[[Disbursement-Driven Evaluation|放贷驱动评估]]，国际基准与考核仅聚焦于校舍兴建、课本发放与入学人数等外显物理投入指标，系统性回避黑板前的实际教学质量与认知增值；数以亿计儿童虽然进入课堂却未能掌握基本读写算技能，造成全球性的“在校无学”危机。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 470–471)]]
-> - **量化治理规制转向** 施泰纳-哈姆西等指出，[[Exploratory Factor Analysis|EFA]] 的关键历史意义在于促成了全球南方国家首次向国际组织量化指标霸权低头；它打破了主权国家原本多元的教育发展节律，将发展中国家牢牢锁定制式化的国际基准评价链条之中。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
+> - **量化治理规制转向** 施泰纳-哈姆西等指出，EFA 的关键历史意义在于促成了全球南方国家首次向国际组织量化指标霸权低头；它打破了主权国家原本多元的教育发展节律，将发展中国家牢牢锁定制式化的国际基准评价链条之中。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
 > - **外部依赖性借用的达标困境与主权自主对照** [[UNESCO|教科文组织]] 2006 年 EFA 全球监测报告与拉斯特等（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）的比较研究表明，被动接受国际金融机构结构调整贷款的第三世界国家普遍未能达成 2005 年预定指标；相反，古巴等将全民教育作为核心人道主义任务并拒绝新自由主义私有化借调的国家，反而取得了远超受援国的高完成度，表明主权国家内在的政治承诺而非外部依附性贷款才是实现全民教育的决定性因素。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 134)]]
 
 > [!stat-cards]- 核心数据
@@ -192,7 +191,7 @@ updated: 2026-10-15
 > > 围绕如何切实达成全民教育目标，学界与政策界存在深刻的政治经济学分歧。
 > >
 > > - **新自由主义与金融外援路线（[[World Bank|世界银行]]与[[International Monetary Fund|国际货币基金组织]]）** 主张将全民[[Performance Indicators|教育指标]]作为结构调整贷款的前置条件，要求受援国缩减公共开支、推行私有化与成本分担，试图通过市场机制与外部援助资本实现指标扩张。
-> > - **[[Critical Theory|批判理论]]与主权自主路线（拉斯特等）** 援引[[UNESCO|教科文组织]] 2006 年 [[Exploratory Factor Analysis|EFA]] 监测报告实证数据指出，外部结构调整反而重创了发展中国家的公共教育体系，导致绝大多数受援国指标落空；相反，古巴等国抵制外部同质化借用、依靠坚定的国家政治意志与全民动员率先达成优质全民教育，证明了主权自决与公共人道主义动员才是实现全民受教育权的真正根基。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 134)]]
+> > - **[[Critical Theory|批判理论]]与主权自主路线（拉斯特等）** 援引[[UNESCO|教科文组织]] 2006 年 EFA 监测报告实证数据指出，外部结构调整反而重创了发展中国家的公共教育体系，导致绝大多数受援国指标落空；相反，古巴等国抵制外部同质化借用、依靠坚定的国家政治意志与全民动员率先达成优质全民教育，证明了主权自决与公共人道主义动员才是实现全民受教育权的真正根基。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 134)]]
 >
 > > [!axis] 初等教育优先单点突破 vs [[National Innovation System|国家创新系统]]全链条人力资源配置
 > > 围绕[[Development Education|发展中国家教育]]投资重心的配置，发展经济学与创新经济学存在深刻论争。
@@ -212,7 +211,7 @@ updated: 2026-10-15
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[UN Sustainable Development Goals]] | 政策事实 | [[Education for All\|EFA]] 达喀尔目标的直接制度继承者，升级为包容优质的 SDG 4 目标。 |
-> | [[Global Partnership for Education]] | 国际组织 | 由全民教育快车道倡议（[[Exploratory Factor Analysis\|EFA]]-FTI）演变重组而成的全球核心教育基金机构。 |
+> | [[Global Partnership for Education]] | 国际组织 | 由全民教育快车道倡议（EFA-FTI）演变重组而成的全球核心教育基金机构。 |
 > | [[National Innovation System]] | 概念 | EFA 所推动的初等普及构成国家[[Systems of Innovation\|创新系统]]人才底座，但必须与中高等工科教育全链条协同才能形成[[Absorptive Capacity\|吸收能力]]。 |
 > | [[Chris Freeman]] | Person | 考察东亚与拉美后发赶超分歧，论证基础教育普及与工科高等教育协同构成国家创新系统基石的核心学者。 |
 > | [[Human Capital Theory]] | 理论 | 为[[World Bank\|世界银行]]在 EFA 中大力投资初等教育提供实证收益率依据的核心经济学理论。 |
@@ -229,7 +228,7 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 确立全民教育（[[Exploratory Factor Analysis|EFA]]）作为全球南方国家接受国际组织量化治理规制体系之历史起点的学术定性，揭示联合国基准与[[World Bank|世行]]强制执行的共谋机制。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 确立全民教育（EFA）作为全球南方国家接受国际组织量化治理规制体系之历史起点的学术定性，揭示联合国基准与[[World Bank|世行]]强制执行的共谋机制。
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 从圈内高阶官员实务视角，披露 1990 年宗迪恩大会由世界银行强势主导、[[UNESCO|教科文组织]]理念领导权终结的历史内幕，并以“资金杠杆迫使政策落地”和“[[Disbursement-Driven Evaluation|放贷驱动评估]]造成在校无学”揭示全民教育推进中的多边制度逻辑（pp. 466, 470–474）。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 援引[[UNESCO|联合国教科文组织]] 2006 年《[[Global Education Monitoring Report|全民教育全球监测报告]]》，反思全球化外援依附对受援国达标的消极后果，以古巴国家动员为例论证主权自决对于保障全民受教育权的核心机制（p. 134）。
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 从历史与[[National Innovation System|国家创新系统]]视角，对比韩国与巴西在基础教育普及与工科人才储备上的悬殊反差，论证教育链条对后发国家技术[[Absorptive Capacity|吸收能力]]与经济韧性的决定性作用（pp. 13–15）。

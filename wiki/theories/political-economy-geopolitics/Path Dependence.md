@@ -37,7 +37,7 @@ related_concepts:
   - "[[National Innovation System]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[University-Industry Collaboration]]"
-  - "[[Document]]"
+  - "[[Institutional Complementarity]]"
 related_theories:
   - "[[Technological Trajectories]]"
   - "[[Evolutionary Economics]]"
@@ -67,7 +67,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-09
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Path Dependence
@@ -247,4 +247,4 @@ updated: 2026-10-15
 > | [[DARPA]] | Fact (Organization) | 早期通过先发资助与技术首采塑造全球微电子技术演化路径的关键机构。 |
 > | [[World Bank]] | Fact (Organization) | 实施严密贷款委员会审批与报销审计铁笼的多边金融机构中枢。 |
 > | [[Inter-American Development Bank]] | Fact (Organization) | 开展全量贷款组合历史追踪、揭示审计路径依赖造成工程设施闲置的区域开发银行。 |
-> | [[Argument_VanDerHeijden_2011_Politics\|Van der Heijden (2011)]] | Argument | 剖析技术复合标准与制度互补性强化路径依赖机制的核心[[Document\|文献]]。 |
+> | [[Argument_VanDerHeijden_2011_Politics\|Van der Heijden (2011)]] | Argument | 剖析技术复合标准与[[Institutional Complementarity\|制度互补性]]强化路径依赖机制的核心文献。 |

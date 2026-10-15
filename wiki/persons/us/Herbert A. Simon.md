@@ -9,7 +9,7 @@ summary: "美国政治学家、经济学家与认知科学家，诺贝尔经济�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 22
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -25,7 +25,6 @@ tags:
   - region/us
 related_concepts:
   - "[[Paradigm]]"
-  - "[[Hypothesis]]"
   - "[[Professional Judgment]]"
   - "[[Epistemology]]"
   - "[[Feedback]]"
@@ -55,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-03
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # Herbert A. Simon
@@ -65,8 +64,8 @@ updated: 2026-10-08
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 赫伯特·A.西蒙（Herbert A. Simon, 1916–2001）是美国政治科学家、经济学家、认知心理学家与计算机科学家，卡内基梅隆大学（Carnegie Mellon University）教授，1978 年[[Alfred Nobel|诺贝尔]]经济学奖与 1975 年图灵奖得主。
-> - **核心角色** [[Bounded Rationality|有限理性]]决策[[Paradigm|范式]]的开创者与符号主义人工智能的早期奠基人。在经济学与社会科学中打破了新古典经济学的完全理性人[[Hypothesis|假设]]；在计算机科学与认知科学中提出了物理符号系统假说，并在 1956 年达特茅斯研讨会后主导了早期人工智能的程序构建与理论预测。
+> - **身份位置** 赫伯特·A.西蒙（Herbert A. Simon, 1916–2001）是美国政治科学家、经济学家、认知心理学家与计算机科学家，卡内基梅隆大学（Carnegie Mellon University）教授，1978 年诺贝尔经济学奖与 1975 年图灵奖得主。
+> - **核心角色** [[Bounded Rationality|有限理性]]决策[[Paradigm|范式]]的开创者与符号主义人工智能的早期奠基人。在经济学与社会科学中打破了新古典经济学的完全理性人假设；在计算机科学与认知科学中提出了物理符号系统假说，并在 1956 年达特茅斯研讨会后主导了早期人工智能的程序构建与理论预测。
 > - **代表贡献** 创立[[Bounded Rationality|有限理性]]（Bounded Rationality）理论与满意解原则；开创早期符号 AI 启发式程序（逻辑理论家 Logic Theorist 与通用问题求解器 GPS）；出版《人工科学》（*The Sciences of the Artificial*）确立复杂系统设计哲学；其理论成为现代教育研究理解教师[[Professional Judgment|专业判断]]局限的核心[[Epistemology|认识论]]框架。
 
 > [!citation-card] 人工科学与复杂系统中的理性边界
@@ -85,7 +84,7 @@ updated: 2026-10-08
 > - **1957–1960** 提出著名的高置[[Reliability|信度]]技术预测：断言数字计算机将在 10 年内击败人类国际象棋世界冠军，并在 20 年内胜任人类能做的一切脑力工作（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025, pp. 25–26]]）。
 > - **1969** 出版《人工科学》（*The Sciences of the Artificial*），将符号计算、认知心理学与系统设计融为一体。
 > - **1975** 与纽厄尔共同荣获计算机学会图灵奖（ACM A.M. Turing Award）。
-> - **1978** 荣获[[Alfred Nobel|诺贝尔]]经济学奖（Nobel Memorial Prize in Economic Sciences），以表彰其对经济组织内决策过程的开创性研究。
+> - **1978** 荣获诺贝尔经济学奖（[[Alfred Nobel|Nobel]] Memorial Prize in Economic Sciences），以表彰其对经济组织内决策过程的开创性研究。
 > - **2001** 逝世于美国宾夕法尼亚州匹兹堡。
 
 ---
@@ -93,7 +92,7 @@ updated: 2026-10-08
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1940s–1950s — 组织行为与[[Bounded Rationality|有限理性]]奠基** 批判新古典经济学关于全知全能“经济人”与效用最大化的[[Hypothesis|假设]]，提出人类在面对复杂环境时受制于注意力、记忆与计算能力，只能追求“令人满意的解”（Satisficing）而非“最优解”。
+> - **1940s–1950s — 组织行为与[[Bounded Rationality|有限理性]]奠基** 批判新古典经济学关于全知全能“经济人”与效用最大化的假设，提出人类在面对复杂环境时受制于注意力、记忆与计算能力，只能追求“令人满意的解”（Satisficing）而非“最优解”。
 >   - **代表著作** *Administrative Behavior* (1947); *Organizations* (1958, with James G. March)。
 >   - **关键概念／方法** [[Bounded Rationality|有限理性]]、满意解原则、组织决策模型。
 >   - **阶段转向** 将决策研究由规范性数理假设转向基于实证人类行为心理的描述性模型。

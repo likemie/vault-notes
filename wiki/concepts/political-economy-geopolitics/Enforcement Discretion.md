@@ -10,7 +10,7 @@ aliases:
 summary: "制度分析与政治经济学中衡量成文规则与实际执行之间开放空间的维度；规则不可消除的内生模糊性使日常遵从成为动态博弈过程，高低裁量空间与宏观否决阻力交互决定渐进制度变迁形态与主导行动者筛选"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 24
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,7 +23,6 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Strategic Compliance]]"
-  - "[[Hypothesis]]"
   - "[[Emergence]]"
   - "[[Veto Possibilities]]"
   - "[[Institutional Displacement]]"
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Enforcement Discretion
@@ -63,7 +62,7 @@ updated: 2026-10-12
 ## 定义
 
 > [!def] 核心定义
-> 解释与执行裁量权（Enforcement Discretion / Discretion in Interpretation and Enforcement）是[[James Mahoney|詹姆斯·马奥尼]]（James Mahoney）与[[Kathleen Thelen|凯瑟琳·希伦]]（Kathleen Thelen）（2009）[[Theory of Gradual Institutional Change|渐进制度变迁理论]]中的双维核心解释[[Variable|变量]]之一。该概念打破了将“规则遵从”（[[Strategic Compliance|compliance]]）视为外生常数或自动达成均衡的传统[[Hypothesis|假设]]，将其确立为充满权力博弈的动态变量；特指成文规约由于认知局限、妥协起草与现实复杂性不可消除的内生模糊性（inherent ambiguity），在司法判例、行政执法与日常实践落实端所留给执行主体的变通解释与操作自由度。成文法条与实际落实之间的“软肋与缝隙”（soft spots and gaps）构成了渐进变迁[[Emergence|涌现]]的微观温床；其高低水平与宏观[[Veto Possibilities|政治否决阻力]]（Veto Possibilities）共同决定了[[Institutional Displacement|制度置换]]、[[Institutional Layering|制度层叠]]、[[Institutional Drift|制度漂移]]与[[Institutional Conversion|制度转换]]四种演进形态，并对变革行动者角色产生系统筛选效应（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 10–14, 18–22]]）。
+> 解释与执行裁量权（Enforcement Discretion / Discretion in Interpretation and Enforcement）是[[James Mahoney|詹姆斯·马奥尼]]（James Mahoney）与[[Kathleen Thelen|凯瑟琳·希伦]]（Kathleen Thelen）（2009）[[Theory of Gradual Institutional Change|渐进制度变迁理论]]中的双维核心解释[[Variable|变量]]之一。该概念打破了将“规则遵从”（[[Strategic Compliance|compliance]]）视为外生常数或自动达成均衡的传统假设，将其确立为充满权力博弈的动态变量；特指成文规约由于认知局限、妥协起草与现实复杂性不可消除的内生模糊性（inherent ambiguity），在司法判例、行政执法与日常实践落实端所留给执行主体的变通解释与操作自由度。成文法条与实际落实之间的“软肋与缝隙”（soft spots and gaps）构成了渐进变迁[[Emergence|涌现]]的微观温床；其高低水平与宏观[[Veto Possibilities|政治否决阻力]]（Veto Possibilities）共同决定了[[Institutional Displacement|制度置换]]、[[Institutional Layering|制度层叠]]、[[Institutional Drift|制度漂移]]与[[Institutional Conversion|制度转换]]四种演进形态，并对变革行动者角色产生系统筛选效应（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 10–14, 18–22]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向法律条文、行政规章或组织章程与其具体落实操作之间的弹性距离与解释空间。

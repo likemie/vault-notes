@@ -11,7 +11,7 @@ summary: "在结构方程模型与验证性因子分析中评估潜变量多指�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 17
+method_related_count: 16
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
-  - "[[Hypothesis]]"
   - "[[Research Utilization]]"
 related_theories: []
 related_methods:
@@ -45,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-28
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Composite Reliability
@@ -83,7 +82,7 @@ updated: 2026-10-08
 > [!contrast-table] 组合信度（CR）vs 传统[[Cronbach's Alpha\|克隆巴赫系数]]（Cronbach's $\alpha$）
 > | 比较维度 | 传统克隆巴赫系数（Cronbach's $\alpha$） | 现代组合信度（Composite Reliability, CR） |
 > |---|---|---|
-> | **核心统计[[Hypothesis\|假设]]** | 假定**本质 $\tau$ 等值（Essential Tau-Equivalence）**，即所有题项在潜变量上的真实载荷完全相同（$\lambda_1 = \lambda_2 = \dots = \lambda_k$）。 | 采用**同质性非等权模型（Congeneric Model）**，允许各题项拥有差异化的自由估计载荷（$\lambda_i$）。 |
+> | **核心统计假设** | 假定**本质 $\tau$ 等值（Essential Tau-Equivalence）**，即所有题项在潜变量上的真实载荷完全相同（$\lambda_1 = \lambda_2 = \dots = \lambda_k$）。 | 采用**同质性非等权模型（Congeneric Model）**，允许各题项拥有差异化的自由估计载荷（$\lambda_i$）。 |
 > | **假设违背的后果** | 当题项因子载荷不相等时，Cronbach's $\alpha$ 会**严重系统性低估**潜变量的真实信度。 | 无偏估计，准确反映由异质载荷题项组合而成的真实构念信度。 |
 > | **题项数量敏感性** | 对题项数量极度敏感；即使单题质量很差，只要题项数足够多，$\alpha$ 也会机械膨胀。 | 依赖载荷强度而非机械堆砌题项数，抗数量膨胀能力更强。 |
 > | **误差协方差处理** | 假定所有题项误差严格互不相关。 | 在扩展形式中可显式纳入误差协方差项进行精确计算。 |

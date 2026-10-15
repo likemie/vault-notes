@@ -7,7 +7,7 @@ aliases:
 summary: "分析公共论述如何取得正当性的四层次框架，包括权威与传统、道德价值、理性与真理、奖励叙事，可用于解释教育政策如何包装证据立场"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 20
+theory_related_count: 19
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -18,7 +18,6 @@ tags:
 - evidence-based-policy
 - critical-discourse-analysis
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Discourse]]"
   - "[[Justified Warrants]]"
@@ -47,13 +46,13 @@ related_instruments: []
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 ## 核心主张
 
 > [!info] 核心主张
-> Van Leeuwen（2007）的合法化理论（Legitimation Theory）提出：**证据是否被接受并行动，取决于其是否与接收方现有的社会价值结构和道德[[Hypothesis\|假设]]对齐并在其中被"合法化"（legitimated）。**
+> Van Leeuwen（2007）的合法化理论（Legitimation Theory）提出：**证据是否被接受并行动，取决于其是否与接收方现有的社会价值结构和道德假设对齐并在其中被"合法化"（legitimated）。**
 >
 > > "Evidence will be interpreted as legitimate and more likely accepted and acted on if it aligns with and is beneficial towards existing social values."([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.9，综述 Van Leeuwen, 2007]])
 >

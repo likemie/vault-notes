@@ -7,7 +7,7 @@ summary: "英国著名教育社会学家与批判全球化理论家，剑桥大�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 18
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -22,7 +22,6 @@ tags:
   - region/uk
 related_concepts:
   - "[[Endogenous and Exogenous Privatisation]]"
-  - "[[Hypothesis]]"
   - "[[New Public Management]]"
   - "[[European Education Space]]"
   - "[[Global Education Industry]]"
@@ -48,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-10-15
 ---
 
 # Susan L. Robertson
@@ -63,7 +62,7 @@ updated: 2026-09-29
 > - **代表贡献** 与[[Roger Dale|罗杰·戴尔]]及哈维尔·博纳尔共同创建“[[Pluri-Scalar Governance|多标度教育治理]]”三维[[Analytic Framework|分析框架]]；系统论证教育从国家公共品向全球贸易服务的体制嬗变；深刻剖析新自由主义对教师劳动过程与专业身份的重构。
 
 > [!citation-card]- [[Robert Arnove|阿诺夫]]论罗伯逊对服务贸易总协定的关键研究
-> 为了进一步开启全球化的黑箱，罗伯逊、博纳尔与戴尔（2002）深入审视了《服务贸易总协定》（GATS）。他们提供了一套概念框架与严密的分析范畴，用以理解千禧年以来教育发生的深刻剧变。他们指出，世贸组织致力于构建一个无壁垒的[[Hypothesis|假设]]性世界教育体系，不仅涉及学历文凭国际化与知识产销全球化，更深刻影响了长期由民族国家掌控的核心教育主权。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
+> 为了进一步开启全球化的黑箱，罗伯逊、博纳尔与戴尔（2002）深入审视了《服务贸易总协定》（GATS）。他们提供了一套概念框架与严密的分析范畴，用以理解千禧年以来教育发生的深刻剧变。他们指出，世贸组织致力于构建一个无壁垒的假设性世界教育体系，不仅涉及学历文凭国际化与知识产销全球化，更深刻影响了长期由民族国家掌控的核心教育主权。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 >
 > *In a further effort to open the "black box" of globalization, Robertson, Bonal, and Dale (2002) examine the General Agreement on Trade in Services (GATS). They provide a conceptual framework and a "rigorous set of analytic categories that might enable us to make sense of the profound changes now characterizing education in the new millennium."*
 

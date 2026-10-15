@@ -8,10 +8,10 @@ aliases:
 summary: "指由大量结构简单的自主个体在缺乏中央控制或全局指令的条件下，依据局部感知与局部交互规则，自发涌现出高度有序、灵活且具备强大抗逆力的全局协同决策与复杂问题解决能力的自组织协同范式；在卡普与扎米斯卡（2025）的论证中，群智能构成了硅谷顶尖初创企业与实战工程文化最本质的组织原型。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/swarm-intelligence
   - theme/self-organization
@@ -31,7 +31,6 @@ related_concepts:
 related_theories:
   - "[[Complexity Theory]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
   - "[[Correlational Research]]"
 related_instruments: []
@@ -48,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Swarm Intelligence
@@ -120,7 +119,7 @@ updated: 2026-10-08
 > 探讨去中心化生物群体如何凭借简单个体间的局部交互协议，在没有中央指挥官的情形下完成跨越数万个体的复杂决策与全局协调。
 
 > [!claim] Frisch, K. v., & Lindauer, M.
-> **生物[[Dance Language of Bees|舞蹈语言]]与去中心选巢共识推导** 卡尔·冯·弗里希与[[Martin Lindauer|马丁·林道尔]]通过对蜜蜂舞蹈语言及[[Eck Swarm Experiment|埃克蜂群]]选巢过程的野外观测证明，蜜蜂通过摇摆舞将潜在巢穴的距离（摆动时长）与方位（相对太阳角度）[[Coding in Qualitative Research|编码]]为公共信息，多只侦察蜂针对不同候选地点进行公开竞争与交叉评估；群体无需中央蜂后发号施令，仅凭侦察蜂基于环境优劣动态调整跳舞频次，便能自发形成支持度向最优地点收敛的群体共识，最终驱动数万只蜜蜂精准迁入新居。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 117–119)]]
+> **生物[[Dance Language of Bees|舞蹈语言]]与去中心选巢共识推导** 卡尔·冯·弗里希与[[Martin Lindauer|马丁·林道尔]]通过对蜜蜂舞蹈语言及[[Eck Swarm Experiment|埃克蜂群]]选巢过程的野外观测证明，蜜蜂通过摇摆舞将潜在巢穴的距离（摆动时长）与方位（相对太阳角度）编码为公共信息，多只侦察蜂针对不同候选地点进行公开竞争与交叉评估；群体无需中央蜂后发号施令，仅凭侦察蜂基于环境优劣动态调整跳舞频次，便能自发形成支持度向最优地点收敛的群体共识，最终驱动数万只蜜蜂精准迁入新居。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 117–119)]]
 
 > [!claim] Parisi, G.
 > **三维拓扑交互与亚秒级近邻传导断言** [[Giorgio Parisi|乔治·帕里西]]通过对罗马椋鸟群的高速摄影与三维立体空间重构研究指出，鸟群在宏观上呈现为盘状结构，其协同转弯与规避天敌的行为完全由处于群体边缘的个体自发发起；信息沿着近邻拓扑网络以极高速度由外向内无损传播，使数百只鸟在几分之一秒内完成整体步调一致的复杂机动，展现了基于局域物理规则的强[[Emergence|涌现]]自组织特性。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 120–121)]]

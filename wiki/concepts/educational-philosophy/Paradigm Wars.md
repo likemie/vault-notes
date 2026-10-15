@@ -8,7 +8,7 @@ aliases:
 summary: "20世纪70至90年代社会科学与教育研究领域中量化实证范式与质性诠释范式之间的制度化方法论对立与论辩，后被混合方法研究的实用主义运动所超越与重构"
 type: concept
 domain: "educational-philosophy"
-related_count: 45
+related_count: 43
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -44,7 +44,6 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Analytical Stance]]"
   - "[[Reflexivity]]"
-  - "[[Document]]"
   - "[[Variable]]"
 related_theories:
   - "[[Phenomenology]]"
@@ -60,7 +59,6 @@ related_methods:
   - "[[Triangulation]]"
   - "[[Qualitative Interview]]"
   - "[[Meta-analysis]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -73,7 +71,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Paradigm Wars
@@ -231,12 +229,12 @@ updated: 2026-10-09
 
 ## 实证数据
 
-> [!ref-table]- [[Paradigm\|范式]]演变与方法学格局分布[[Document\|文献]]计量指标
+> [!ref-table]- [[Paradigm\|范式]]演变与方法学格局分布文献计量指标
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] | 2010 与 2020 年五大教育心理学顶刊实证论文 | 历时性方法学内容计量[[Coding in Qualitative Research\|编码]] | 量化干预、非干预与[[Qualitative Research\|质性研究]]在各刊的结构比例 | 质性研究占比由 9% 显著跃升至 22%，[[Mixed Methods Research\|混合方法]]论文稳步增长 | $p < .05$ | 实证表明主流阵地呈现出多范式共存格局，传统单一量化垄断已被实质性打破 |
+> | [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] | 2010 与 2020 年五大教育心理学顶刊实证论文 | 历时性方法学内容计量编码 | 量化干预、非干预与[[Qualitative Research\|质性研究]]在各刊的结构比例 | 质性研究占比由 9% 显著跃升至 22%，[[Mixed Methods Research\|混合方法]]论文稳步增长 | $p < .05$ | 实证表明主流阵地呈现出多范式共存格局，传统单一量化垄断已被实质性打破 |
 
 ---
 
@@ -260,4 +258,4 @@ updated: 2026-10-09
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011)]] — 全景呈现教育[[Paradigm\|研究范式]]战争的爆发根源、两大阵营对峙以及[[Mixed Methods Research\|混合方法]][[Pragmatic Paradigm\|实用主义]]整合路径。
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 详尽解析量化、质性与混合方法三大研究设计在后实证、建构论与实用主义框架下的演化与协作。
-> - [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] — 通过历时[[Document\|文献]]计量揭示教育研究在走出绝对实证垄断后质性与多范式并存的发展态势。
+> - [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] — 通过历时文献计量揭示教育研究在走出绝对实证垄断后质性与多范式并存的发展态势。

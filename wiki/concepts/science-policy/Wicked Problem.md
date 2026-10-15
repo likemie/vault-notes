@@ -9,7 +9,7 @@ aliases:
 summary: "指缺乏明确边界和既定算法，伴随高度价值争议、系统复杂性与认知不确定性的复杂社会系统难题；易引发跨部门条块分割的复杂性悖论，需依托敏捷实验与公共动态能力进行系统治理"
 type: concept
 domain: "science-policy"
-related_count: 28
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Causality]]"
   - "[[Problem of Many Hands]]"
-  - "[[Document]]"
   - "[[Public Dynamic Capabilities]]"
   - "[[Revoicing]]"
   - "[[New Public Management]]"
@@ -56,7 +55,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-05
+updated: 2026-10-15
 ---
 
 # Wicked Problem
@@ -120,7 +119,7 @@ updated: 2026-10-05
 ### 命题一　社会挑战的棘手性同时存在于问题界定与解决方案两个独立维度
 
 > [!concept-lens] 问题与方案的双重解构
-> 传统政策[[Document|文献]]常将棘手性仅仅归因于问题本身的模糊，忽视了创新解决方案自身同样会引发技术不成熟、利益再分配冲突与制度阻力。
+> 传统政策文献常将棘手性仅仅归因于问题本身的模糊，忽视了创新解决方案自身同样会引发技术不成熟、利益再分配冲突与制度阻力。
 
 > [!claim] [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]]
 > **双重解构命题** 评估公共挑战的棘手性必须将问题与解决方案进行分析性解构。一个达成高度共识的公共问题（如降低犯罪率）可能伴随着充满争议与伦理风险的解决方案（如全方位闭路电视监控）；反之，一个技术上成熟的解决方案（如畜牧业空气过滤）也可能因未能回应根本性的消费伦理而面临问题合法性危机。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 476–478)]]
@@ -170,7 +169,7 @@ updated: 2026-10-05
 ### 命题总览
 
 > [!contrast-table] 命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者与[[Document\|文献]] |
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
 > | **双重解构命题** | 主张将棘手性拆解为问题端与方案端的三维矩阵 | 复杂社会系统治理与创新政策评估 | [[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020)]]; Turnpenny et al. (2009) |
 > | **阶段性驯服命题** | 阐明通过[[Revoicing\|话语重构]]、边界跨越与小步试验实现治理共识 | 争议性公共政策议程设置与制度变迁 | 同上（2020）; Termeer & Dewulf (2018) |

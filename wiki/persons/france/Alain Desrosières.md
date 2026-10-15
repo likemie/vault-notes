@@ -9,7 +9,7 @@ summary: "法国著名统计学家、科学史家与量化社会学先驱，长�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 28
+person_related_count: 27
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -43,7 +43,6 @@ related_theories:
   - "[[Governing at a Distance]]"
 related_methods:
   - "[[Analytic Framework]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
   - "[[Ethnography]]"
 related_instruments: []
@@ -87,7 +86,7 @@ updated: 2026-10-15
 
 > [!timeline] 生平与职涯
 > - **1940 年** 出生于法国里昂，早年以优异成绩毕业于巴黎综合理工学院（École Polytechnique）与法国国立统计与经济管理学校（ENSAE），兼具深厚的高等数学、数理统计与工程分析造诣。
-> - **1965–1980 年代** 进入法国国家统计与经济研究所（INSEE）工作，长期主持职业分类与社会阶层统计研发，与洛朗·泰弗诺（Laurent Thévenot）合作创建了影响深远的法国新社会职业分类[[Coding in Qualitative Research|编码]]体系（PCS）。
+> - **1965–1980 年代** 进入法国国家统计与经济研究所（INSEE）工作，长期主持职业分类与社会阶层统计研发，与洛朗·泰弗诺（Laurent Thévenot）合作创建了影响深远的法国新社会职业分类编码体系（PCS）。
 > - **1980–1990 年代** 投身于统计思想史与公约社会学研究，深度参与法国公约学派（Économie des conventions）的创建；1993 年出版里程碑巨著《大数的政治：统计推理的历史》（*La politique des grands nombres*），确立了其作为国际量化社会学奠基人的学术地位。
 > - **2000 年代** 加盟亚历山大·柯瓦雷科学史研究中心，聚焦现代国家[[Governmentality|治理术]]、[[New Public Management|新公共管理]]与性能指标（KPI）的批判历史考察；2008 年相继出版《证明与治理》及《量化历史社会学论集》。
 > - **2013 年** 逝世于法国巴黎，享年 72 岁；其学术遗产被国际政策社会学、科学技术论（[[Science and Technology Studies|STS]]）与比较教育学广泛继承。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448, 453)]]
@@ -97,7 +96,7 @@ updated: 2026-10-15
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1970–1980 年代 — 社会分类[[Coding in Qualitative Research|编码]]与公约构建期** 关注统计分类如何被发明与制度化，揭示职业与阶层分类绝非天然客观范畴，而是统计学家、国家行政官僚与社会工会博弈协商的社会公约。
+> - **1970–1980 年代 — 社会分类编码与公约构建期** 关注统计分类如何被发明与制度化，揭示职业与阶层分类绝非天然客观范畴，而是统计学家、国家行政官僚与社会工会博弈协商的社会公约。
 >   - **代表著作** 《社会职业分类》（*Les Catégories socioprofessionnelles*, 1988, 与 Laurent Thévenot 合著）。
 >   - **关键概念／方法** 社会公约、分类编码、制度化测量。
 >   - **阶段转向** 从纯粹技术性的数理统计编制转向考察统计工具背后的历史与制度生成机制。
@@ -128,7 +127,7 @@ updated: 2026-10-15
 
 > [!influence-path] 影响路径
 > - **理论路径** 开创了量化社会学（Sociology of Quantification）传统，与特奥多尔·波特（Theodore Porter）、阿兰·考夫曼（Alain Cottereau）共同奠定了现代统计政治社会学基石。
-> - **方法路径** 倡导“公约主义方法论”（Conventionalist Methodology），要求研究者在面对量化图表与模型时，必须回溯其底层分类[[Coding in Qualitative Research|编码]]体系的生成历史与协商过程。
+> - **方法路径** 倡导“公约主义方法论”（Conventionalist Methodology），要求研究者在面对量化图表与模型时，必须回溯其底层分类编码体系的生成历史与协商过程。
 > - **政策路径** 深刻影响了批判政策社会学与比较教育学；[[Fazal Rizvi|法扎尔·里兹维]]、[[Bob Lingard|鲍勃·林加德]]、[[Sigrid Hartong|西格丽德·哈通]]（Sigrid Hartong）等学者将其概念用于解构[[OECD|经合组织]]与[[PISA]]等全球量化监控网络。
 > - **跨国／跨领域传播** 其法文原著于 1998 年由哈佛大学出版社译介出版，迅速打破了英美量化[[Positivism|实证主义]]与欧洲批判哲学之间的壁垒，成为国际公共行政与科学技术论（[[Science and Technology Studies|STS]]）必读正典。
 
@@ -156,7 +155,7 @@ updated: 2026-10-15
 > > 争论的核心在于公共统计是否构成了不以人的意志为转移的社会物理学事实。
 > >
 > > - **传统[[Positivism|实证主义]]与官僚技术主义者** 坚持统计测度的现实主义立场，认为经过严格抽样与标准化校准的数字忠实刻画了外部世界的客观运行规律。
-> > - **德罗西埃与公约社会学派** 坚持关系建构论立场，论证量化依赖于特定的社会[[Coding in Qualitative Research|编码]]制度与政治妥协，脱离了[[Space of Equivalence|等值空间]]的公约支持，数字将彻底失去现实依托。
+> > - **德罗西埃与公约社会学派** 坚持关系建构论立场，论证量化依赖于特定的社会编码制度与政治妥协，脱离了[[Space of Equivalence|等值空间]]的公约支持，数字将彻底失去现实依托。
 >
 > > [!axis] 量化治理的政治后果：增进民主问责还是削弱实质审议？
 > > 争论的核心在于公共部门普遍推行的量化管理是否真正改善了民主治理绩效。

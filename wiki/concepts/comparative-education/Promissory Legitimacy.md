@@ -7,7 +7,7 @@ aliases:
 summary: "指国际组织在面临教育技术赤字与未来不确定性时，将其治理权威建立在对教育未来的期许与危机规避允诺之上的正当化机制。国际组织将未来危机描绘为当下脆弱现实的逻辑延伸，并向各国政府推销即可采取行动的循证方案以生产确定性。"
 type: concept
 domain: "comparative-education"
-related_count: 26
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Technology Deficit of Education]]"
   - "[[Façade of Rationality]]"
   - "[[Champ]]"
-  - "[[Assemblage]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Epistemology]]"
   - "[[Governing by Numbers]]"
@@ -33,7 +32,6 @@ related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Qualitative Research]]"
-  - "[[Exploratory Factor Analysis]]"
   - "[[Effect Size]]"
   - "[[Correlational Research]]"
 related_instruments: []
@@ -52,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Promissory Legitimacy
@@ -124,7 +122,7 @@ updated: 2026-10-09
 > 剖析教育系统的因果迟滞性如何重塑治理合法性的时间维度，以及国际组织如何利用未来时态弥补行政强制力的缺失。
 
 > [!claim] [[Gita Steiner-Khamsi\|Steiner-Khamsi, G.]]
-> **教育因果迟滞催生前瞻合法性需求** 教育作为以未来人为对象的社会系统，其效能无法像工业[[Assemblage\|装配]]线那样在投入产出之间建立即时可测的确定性因果链条；这一根本性的技术赤字使得任何教育改革在当下都难以通过确凿的实证成果获得绝对辩护，从而为兜售未来愿景与避险允诺的国际组织提供了不可或缺的制度生态位。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
+> **教育因果迟滞催生前瞻合法性需求** 教育作为以未来人为对象的社会系统，其效能无法像工业装配线那样在投入产出之间建立即时可测的确定性因果链条；这一根本性的技术赤字使得任何教育改革在当下都难以通过确凿的实证成果获得绝对辩护，从而为兜售未来愿景与避险允诺的国际组织提供了不可或缺的制度生态位。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 539)]]
 
 > [!claim] [[Susan L. Robertson|Robertson, S. L.]]
 > **允诺作为国际组织合法性谈判的核心通货** 国际组织之所以能够在后冷战时代重塑全球教育议程，核心在于它们成功掌握了“允诺的语法”；通过描绘工业 4.0、人工智能与[[Knowledge-Based Economy\|知识经济]]时代的颠覆性变革，国际组织将自身塑造为唯一能够看清未来地平线的先知，使成员国在对落后于未来的群体恐慌中自愿让渡政策主权。
@@ -181,7 +179,7 @@ updated: 2026-10-09
 > > - **比较教育学者** 警示由未来危机驱动的标准化解决方案导致了全球教育生态的高度同质化，抹杀了主权社会根据在地文化探索其他教育未来的可能性。
 
 > [!critique] 外部批评
-> - **承诺透支与公信力赤字** 随着 2000 年“[[Education for All\|全民教育]]”（[[Exploratory Factor Analysis\|EFA]]）达喀尔目标与 2015 年千年发展目标（MDGs）的相继逾期未达，国际组织依靠不断延期未来时间表（如推迟至 2030 年 SDG 4、2050 年未来教育）维系期许合法性的策略正遭遇边际效用递减与严峻的信任危机。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541, 546)]]
+> - **承诺透支与公信力赤字** 随着 2000 年“[[Education for All\|全民教育]]”（EFA）达喀尔目标与 2015 年千年发展目标（MDGs）的相继逾期未达，国际组织依靠不断延期未来时间表（如推迟至 2030 年 SDG 4、2050 年未来教育）维系期许合法性的策略正遭遇边际效用递减与严峻的信任危机。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541, 546)]]
 
 > [!warning] 适用局限
 > 该概念高度依赖于研究对象所处领域的“时间递延性”与“因果模糊性”；在能够进行快速短期实验验证或具有严格刚性因果反馈的实操场景中，治理者无法依靠未来期许维系权威，概念解释力将显著衰减。

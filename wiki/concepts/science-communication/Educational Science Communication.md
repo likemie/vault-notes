@@ -10,7 +10,7 @@ aliases:
 summary: "面向教师、教育管理者与公众开展的教育研究成果阐释、中介与双向对话形态，主张超越单向线性传输与学术声誉顾虑，借助播客、清算平台及社交网络实现受众适配的证据转化。"
 type: concept
 domain: "science-communication"
-related_count: 27
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,9 +20,7 @@ tags:
   - theme/knowledge-transfer
   - theme/evidence-based-education
 related_concepts:
-  - "[[Transfer Translation Transformation]]"
   - "[[Knowledge Transfer]]"
-  - "[[Teaching Assistant]]"
   - "[[Reliability]]"
   - "[[Praxis]]"
   - "[[Deficit Model of Science Communication]]"
@@ -32,7 +30,6 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Virtual Teacher Staffroom]]"
   - "[[Refutational Evidence]]"
-  - "[[Document]]"
   - "[[Discourse]]"
   - "[[Evidence-Based Education]]"
   - "[[Variable]]"
@@ -56,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Educational Science Communication
@@ -66,11 +63,11 @@ updated: 2026-10-07
 ## 定义
 
 > [!def] 核心定义
-> 教育科学传播（Educational Science Communication / 德语：Wissenschaftskommunikation in der Bildungsforschung）是指将教育科学与实证教育研究的发现、理论、模型与方法，面向教育实践者（职前与在岗教师、教师教育者、学校管理者）、教育行政决策层以及社会公众进行系统阐释、通俗[[Transfer Translation Transformation\|转译]]与双向互动的专门科学传播形态。其核心目标是超越将教师预设为被动接收者的自上而下单向线性[[Knowledge Transfer\|知识转移]]模式，构建多媒介、非线性、递归且受众适配的专业对话生态。[[Argument_Besa_2024_UW\|(Besa, 2024, pp. 252–254)]]
+> 教育科学传播（Educational Science Communication / 德语：Wissenschaftskommunikation in der Bildungsforschung）是指将教育科学与实证教育研究的发现、理论、模型与方法，面向教育实践者（职前与在岗教师、教师教育者、学校管理者）、教育行政决策层以及社会公众进行系统阐释、通俗转译与双向互动的专门科学传播形态。其核心目标是超越将教师预设为被动接收者的自上而下单向线性[[Knowledge Transfer\|知识转移]]模式，构建多媒介、非线性、递归且受众适配的专业对话生态。[[Argument_Besa_2024_UW\|(Besa, 2024, pp. 252–254)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 强调教育研究成果向实践渗透的过程本质上是双向或多向的社会沟通与情境调适，而非科研产品的单向机械投放。
-> - **用途** 辅[[Teaching Assistant\|助教]]育研究者诊断教师证据疏离与教育神经神话信奉的传播学根源，指导多元数字媒介与转译格式的开发。
+> - **用途** 辅助教育研究者诊断教师证据疏离与教育神经神话信奉的传播学根源，指导多元数字媒介与转译格式的开发。
 > - **边界** 教育科学传播不等于降低学术标准的过度简化；其传递的证据必须满足基本的科学严谨性与[[Reliability\|信度]]标准，且尊重复杂课堂教学的专业自主权。
 
 > [!citation-card] 教育科学传播的非线性与情境适配本质
@@ -129,7 +126,7 @@ updated: 2026-10-07
 ### 命题一　单向线性知识传输无法契合复杂教学实践情境且容易加剧教师的认知防御与研究疏离
 
 > [!concept-lens] 实践情境性与教师认知防卫
-> 探讨传统学术[[Document\|文献]]为何在一线教学中难以转化，以及单向[[Falsification\|证伪]][[Discourse|话语]]如何引发实践者的心理排斥。
+> 探讨传统学术文献为何在一线教学中难以转化，以及单向[[Falsification\|证伪]][[Discourse|话语]]如何引发实践者的心理排斥。
 
 > [!claim] Gräsel (2019)
 > **情境适配是转移发生的先决条件** 科学研究成果无法直接作为行动指令被教师吸收，唯有将其转化为契合特定学校与课堂生态的实践情境语言，才能为证据知情行动奠定认知基础。[[Argument_Besa_2024_UW\|(Besa, 2024, pp. 253, 258)]]
@@ -178,7 +175,7 @@ updated: 2026-10-07
 > |---|---|---|---|
 > | **传播模式重构** | 批判单向线性传输与证伪话语的心理防御效应 | 倡导情境化调适与双向多向递归对话机制 | Gräsel (2019); Reinmann & Brase (2022); Bauer & Kollar (2023) |
 > | **数字媒介效能** | 肯定播客、短视频与社交网络在促进深层互动中的作用 | 鼓励高校与研究机构开发多样化数字科学传播产品矩阵 | Dresbach (2023); Spannagel (2022); Fütterer et al. (2021) |
-> | **制度激励变革** | 确立研究合成与科普[[Transfer Translation Transformation\|转译]]的独立学术地位，消除声誉顾虑 | 大学考核与基金资助应将受众适配的科学传播纳入考评 | Kerres et al. (2022); [[Argument_Besa_2024_UW\|Besa (2024)]] |
+> | **制度激励变革** | 确立研究合成与科普转译的独立学术地位，消除声誉顾虑 | 大学考核与基金资助应将受众适配的科学传播纳入考评 | Kerres et al. (2022); [[Argument_Besa_2024_UW\|Besa (2024)]] |
 
 ---
 
@@ -195,7 +192,7 @@ updated: 2026-10-07
 
 > [!debates] 学术争议与现实困境
 >
-> > [!axis] 通俗化[[Transfer Translation Transformation\|转译]]中的学术严谨性与过度简化风险
+> > [!axis] 通俗化转译中的学术严谨性与过度简化风险
 > > 探讨在将复杂的统计参数与方法学局限通俗化时，如何防止产生新的误解。
 > >
 > > - **学术保守派** 担忧大众化转译会牺牲科学严谨性，使证据呈现走向片面化。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 253)]]

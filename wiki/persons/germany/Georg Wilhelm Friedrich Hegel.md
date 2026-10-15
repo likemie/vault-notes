@@ -17,8 +17,8 @@ lifespan: "1770–1831"
 tags:
   - person/philosopher
 related_concepts:
-  - "[[Bildung]]"
   - "[[Paradigm]]"
+  - "[[Bildung]]"
   - "[[Empty Knower]]"
   - "[[Disciplina and Doctrina]]"
   - "[[International Baccalaureate]]"
@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-12
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 
 # Georg Wilhelm Friedrich Hegel
@@ -48,8 +48,8 @@ updated: 2026-09-17
 
 > [!person-profile] 人物档案
 > - **身份位置** 18–19世纪德国哲学家，德国古典唯心主义的集大成者。
-> - **核心角色** 在当代批判性教育学和比较课程研究中，黑格尔的思想（尤其是其关于“[[Bildung\|教化]]”和“国家”的理论）经常被确立为被批判的“主流传统[[Paradigm\|范式]]”。他代表了一种目的论的、以“理性”剥夺个体情感、强调服从普遍秩序的教育模式。
-> - **代表贡献** 黑格尔式教化（Hegelian Bildung）、辩证否定（Aufheben）。
+> - **核心角色** 在当代批判性教育学和比较课程研究中，黑格尔的思想（尤其是其关于“教化”和“国家”的理论）经常被确立为被批判的“主流传统[[Paradigm\|范式]]”。他代表了一种目的论的、以“理性”剥夺个体情感、强调服从普遍秩序的教育模式。
+> - **代表贡献** 黑格尔式教化（Hegelian [[Bildung]]）、辩证否定（Aufheben）。
 
 > [!citation-card]- 人物定位的关键来源
 > 在传统（黑格尔式）课堂中，教育的核心被预设为通过外在的结构化知识来填充“空无认知者（[[Empty Knower]]）”，其政治终点是服务于市场与国家的市民社会。[[Argument_Cole_2005_JRIE\|(Cole, 2005)]]
@@ -59,7 +59,7 @@ updated: 2026-09-17
 ## 核心思想
 
 > [!claim] 核心主张
-> 在教育哲学语境下，黑格尔式的主张可以概括为一种**目的论的理性[[Disciplina and Doctrina\|规训]]**。教育（[[Bildung\|教化]]，Bildung）的过程被视为绝对精神实现自身的过程。在这个过程中，学生个人的欲望、无意识情感和主体差异被视为必须通过“辩证否定（Aufheben）”加以克服的负面因素。教育的终极目的是让个体超越自然状态，融入基于现代市场经济的“市民社会（Civil Society）”，并最终服从于最高伦理实体——“国家（State）”，成为合格的契约公民。
+> 在教育哲学语境下，黑格尔式的主张可以概括为一种**目的论的理性[[Disciplina and Doctrina\|规训]]**。教育（教化，[[Bildung]]）的过程被视为绝对精神实现自身的过程。在这个过程中，学生个人的欲望、无意识情感和主体差异被视为必须通过“辩证否定（Aufheben）”加以克服的负面因素。教育的终极目的是让个体超越自然状态，融入基于现代市场经济的“市民社会（Civil Society）”，并最终服从于最高伦理实体——“国家（State）”，成为合格的契约公民。
 
 ---
 
@@ -70,7 +70,7 @@ updated: 2026-09-17
 > - **跨国／跨领域传播** 其对情感的处理方式被认为潜藏在当前流行的“情商教育”背后——表面上关注情感，实则是用理性去裁剪和管理情感，以迎合普世价值和市场需求。
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cole_2005_JRIE\|Cole (2005)]] — 批判了主导当代国际课程的“黑格尔式[[Bildung\|教化]]（Hegelian Bildung）”，认为其心物二元论和理性[[Disciplina and Doctrina\|规训]]阻碍了学生产生真正的突破性学习。
+> - [[Argument_Cole_2005_JRIE\|Cole (2005)]] — 批判了主导当代国际课程的“黑格尔式教化（Hegelian [[Bildung]]）”，认为其心物二元论和理性[[Disciplina and Doctrina\|规训]]阻碍了学生产生真正的突破性学习。
 
 ---
 

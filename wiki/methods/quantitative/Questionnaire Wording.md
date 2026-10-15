@@ -9,7 +9,7 @@ summary: "问卷题项措辞中常见的十类陷阱，包括引导性问题、�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 13
+method_related_count: 12
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -19,7 +19,6 @@ tags:
   - bias-control
   - source/textbook
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Reliability]]"
   - "[[Leading Questions]]"
   - "[[Operationalization]]"
@@ -37,14 +36,14 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-21
-updated: 2026-10-01
+updated: 2026-10-15
 ---
 # Questionnaire Wording
 
 ## 定义
 
 > [!def] [[Questionnaire\|问卷]]措辞
-> 问卷措辞（Questionnaire Wording）指[[Questionnaire\|问卷]]题项的语言表述方式，包括用词选择、句子结构、语气和隐含[[Hypothesis\|假设]]。措辞不当可能系统性偏差受访者的回答，甚至使数据完全无法使用。理想问卷应具备与好法律相同的属性：**清晰、无歧义和工作可行**——减少参与者和数据分析者的潜在错误，激励参与者，并尽可能确保受访者讲真话（Davidson, 1970）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20\|Cohen et al., 2011, Ch20, pp. 157–163]]）。
+> 问卷措辞（Questionnaire Wording）指[[Questionnaire\|问卷]]题项的语言表述方式，包括用词选择、句子结构、语气和隐含假设。措辞不当可能系统性偏差受访者的回答，甚至使数据完全无法使用。理想问卷应具备与好法律相同的属性：**清晰、无歧义和工作可行**——减少参与者和数据分析者的潜在错误，激励参与者，并尽可能确保受访者讲真话（Davidson, 1970）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20\|Cohen et al., 2011, Ch20, pp. 157–163]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 问卷措辞不是美化语言的修辞练习，而是方法论层面的偏差控制——措辞方式决定了受访者如何理解问题、参照什么标准做出判断、以及最终给出什么类型的回答。措辞是问题和回答之间的翻译层。
@@ -109,7 +108,7 @@ updated: 2026-10-01
 > [!contrast-table] 问卷措辞的核心命题
 > | 命题类型 | 核心指向 | 方法论含义 | 代表学者 |
 > |---|---|---|---|
-> | **歧义的最小化** | 语言歧义无法根除，措辞质量通过预测试迭代提升 | 措辞不应被视为一次性完成的任务，而是需要实证检验的[[Hypothesis\|假设]] | Youngman（1984）; Morrison（1993） |
+> | **歧义的最小化** | 语言歧义无法根除，措辞质量通过预测试迭代提升 | 措辞不应被视为一次性完成的任务，而是需要实证检验的假设 | Youngman（1984）; Morrison（1993） |
 > | **清晰的三重标准** | 清晰、无歧义、工作可行三者缺一不可 | 措辞设计应类比法律起草，确保不同读者以相同方式理解和执行 | Davidson（1970） |
 
 ---

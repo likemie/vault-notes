@@ -12,7 +12,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 10
+fact_related_count: 8
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -24,13 +24,11 @@ tags:
   - level/national-policy
 related_concepts:
   - "[[Research Question]]"
-  - "[[Attrition]]"
   - "[[Public Engagement with Science]]"
 related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
-  - "[[Peter A. Hall]]"
   - "[[Nikolas Rose]]"
 related_facts:
   - "[[The Green Book]]"
@@ -42,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Rothschild Report 1971
@@ -55,7 +53,7 @@ updated: 2026-10-14
 > - **发布时间与发布主体** 1971 年 11 月由英国中央政策审查参谋部（Central Policy Review Staff, CPRS）负责人维克多·罗斯柴尔德勋爵（Lord Victor Rothschild）主持撰写，以内阁[[The Green Book\|绿皮书]]形式发布，题为《政府研究与发展框架》（*A Framework for Government Research and Development*, Cmnd 4814）。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 80)]]
 > - **适用地区与对象** 英国中央政府各部委、国家研究理事会（Research Councils）、公共部门科研机构（Public Sector Research Establishments, PSREs）以及承接国家科研任务的高等教育机构。
 > - **问题背景** 二战后英国政府对科学研发的财政投入急剧扩张，但公共研发机构与政府实际行政决策和行业需求严重脱节，财政部对巨额科研资金的产出效率提出强烈质疑，亟需确立应用科研的公共问责与资金配置逻辑。
-> - **制度位置** 英国战后国家科技政策史上具有分水岭意义的制度改革，彻底打破了由 1918 年《[[Peter A. Hall|霍尔]]丹报告》（Haldane Report）确立的国家自主纯学术科研资助传统，奠定了英国公共科研管理走向市场化采购与委托代理的现代治理结构。
+> - **制度位置** 英国战后国家科技政策史上具有分水岭意义的制度改革，彻底打破了由 1918 年《霍尔丹报告》（Haldane Report）确立的国家自主纯学术科研资助传统，奠定了英国公共科研管理走向市场化采购与委托代理的现代治理结构。
 
 ---
 
@@ -106,7 +104,7 @@ updated: 2026-10-14
 > [!finding-cards] 效果与评价
 > 1. **提升政策需求的针对性与信源多样性** 打破了传统科研封闭垄断，将大学顶尖学术力量广泛纳入政府决策支撑体系，提升了国家科学咨询的弹性与敏捷度。
 > 2. **公共科研机构（PSREs）基础能力遭系统性侵蚀** 长期依赖项目制竞标采购导致政府对公共实验设施、专业技术队伍及长期监测能力的持续投资不足，在面临关键战略危机时暴露出科研支撑能力脆弱的隐患。
-> 3. **智能客户角色面临现实侵蚀** 当政府内部科技专业人员因编制精简而[[Attrition\|流失]]时，决策官员往往缺乏足够专业素养识别外部伪科学或有利益倾向的游说研究，陷入采购失灵。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 82)]]
+> 3. **智能客户角色面临现实侵蚀** 当政府内部科技专业人员因编制精简而流失时，决策官员往往缺乏足够专业素养识别外部伪科学或有利益倾向的游说研究，陷入采购失灵。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|(The Royal Society, 2026, Ch. 5, p. 82)]]
 
 ---
 

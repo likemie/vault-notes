@@ -12,7 +12,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 14
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -28,12 +28,11 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Evidence Era]]"
   - "[[School Leadership]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Research Literacy]]"
   - "[[Formative Assessment]]"
-  - "[[Document]]"
   - "[[Gatekeepers]]"
   - "[[Rationalized Myth]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Research Translation]]"
 related_theories: []
 related_methods: []
@@ -48,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Chartered College of Teaching
@@ -79,7 +78,7 @@ updated: 2026-09-17
 
 > [!actor-grid] 组织治理与[[Policy Network\|政策网络]]位置
 > - **官方扶持的专业代言人** 在英格兰教师教育[[Policy Network\|政策网络]]中，英国教育部将 CCT 与[[Teaching Schools\|教学学校]]理事会（Teaching Schools Council，TSC）共同扶植为核心“内部人机构”，赋予其专属政策咨询地位（如参与 2016 年白皮书《处处卓越的教育》咨询），以此重塑符合官方意图的行业专业声音（[[Argument_Helgetun_2022_JEP\|Helgetun & Menter, 2022, p. 93]]）。
-> - **知识扩散与[[Transfer Translation Transformation\|转译]]中介** 作为连接大学学术研究与中小学课堂的专业中介，CCT 通过期刊出版、在线研讨会及新媒体（Twitter/X、教师博客）广泛扩散实证研究成果，推动循证教学理念落地（[[Argument_Helgetun_2022_JEP\|Helgetun & Menter, 2022, p. 95]]）。
+> - **知识扩散与转译中介** 作为连接大学学术研究与中小学课堂的专业中介，CCT 通过期刊出版、在线研讨会及新媒体（Twitter/X、教师博客）广泛扩散实证研究成果，推动循证教学理念落地（[[Argument_Helgetun_2022_JEP\|Helgetun & Menter, 2022, p. 95]]）。
 > - **专业委员会与理事会** 由一线卓越教师、[[School Leadership\|学校领导]]者、学者及教育专家共同组成理事会，下设资格认证委员会与学术出版同行评议专家组。
 
 > [!pathways]- 业务运行机制
@@ -94,7 +93,7 @@ updated: 2026-09-17
 > [!finding-cards] 核心产品与业务矩阵
 > - **特许教师资格认证（CTeach）** 为具有卓越教学实践与循证[[Research Literacy\|研究素养]]的资深教师颁发国家级专业特许资质，树立教学专业标杆。
 > - **旗舰期刊《Impact》** 创办同行评议与实践导向并重的专业刊物，每期围绕特定循证教学主题（如认知科学应用、全员全纳教育、[[Formative Assessment\|形成性评价]]）整合最新学术研究与案例分析。
-> - **循证教学资源库与研讨网络** 建设面向全体会员的在线科研资源库、[[Document\|文献]]速览平台与跨校教师专业学习社群。
+> - **循证教学资源库与研讨网络** 建设面向全体会员的在线科研资源库、文献速览平台与跨校教师专业学习社群。
 
 > [!citation-card] [[Policy Network\|政策网络]]中被赋权的专业代言机构
 > 英国教育部积极支持创设诸如特许教学学院（Chartered College of Teaching）和[[Teaching Schools\|教学学校]]理事会（Teaching Schools Council）等新型专业团体，并与它们保持密切合作，赋予其在政策咨询中的核心角色。[[Argument_Helgetun_2022_JEP\|Helgetun & Menter, 2022, p. 93]]

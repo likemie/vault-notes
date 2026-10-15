@@ -11,7 +11,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 39
+fact_related_count: 38
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Metascience]]"
   - "[[Permissionless Innovation]]"
   - "[[Regulatory Sandbox]]"
-  - "[[Hypothesis]]"
   - "[[Process Knowledge]]"
   - "[[National Innovation System]]"
   - "[[Apprenticeship]]"
@@ -72,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Science A New Golden Age 2026
@@ -108,7 +107,7 @@ updated: 2026-10-08
 >   - 引入[[Golden Ticket Mechanism|金券机制]]（Golden Tickets）、48 小时快速资助（[[Fast Grants]]）以及事后买单的技术悬赏与[[Advance Market Commitments|高级市场承诺]]（[[Pull Mechanisms for Innovation|拉动机制]]）；
 >   - 在每个联邦资助机构内设立直属于局长的[[Metascience|元科学]]单元（Metascience Units），依托[[Randomised Controlled Trials|随机对照试验]]检验并迭代资助规则。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 20–32)]]
 > - **支柱二：确保科学发现高效转化为本土产业能力（第三章）**
->   - 坚守[[Permissionless Innovation|无许可创新]]原则，推广综合性[[Regulatory Sandbox|监管沙盒]]，打破以防范[[Hypothesis|假设]]性风险为名的行政延宕；
+>   - 坚守[[Permissionless Innovation|无许可创新]]原则，推广综合性[[Regulatory Sandbox|监管沙盒]]，打破以防范假设性风险为名的行政延宕；
 >   - 推动能源部 17 个国家实验室大型科研仪器与国防部测试试验场向民用创新主体全面开放；
 >   - 组建由产业主导议程、政府对等出资的前竞争技术联合体，攻克共性工程断代瓶颈；
 >   - 全面推行 2025 年 5 月四项核监管改革行政令（[[Nuclear Regulatory Reform Executive Orders 2025]]），设定 18 个月修规上限并开启 2030 年 10 座新反应堆建设。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 33–46)]]

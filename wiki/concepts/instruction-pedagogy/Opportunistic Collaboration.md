@@ -11,7 +11,7 @@ aliases:
 summary: "知识建构理论与学习科学中的核心协作模式：学生打破固定分组与预设脚本，根据涌现的兴趣、认知需求与探究线索自发组队与流动重组，以通透边界促进全班知识共享与深度建构"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 26
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Cooperative Learning]]"
   - "[[Emergence]]"
   - "[[Epistemic Responsibility]]"
-  - "[[Teaching Assistant]]"
   - "[[Epistemic Agency]]"
   - "[[Authentic Science Practices]]"
   - "[[Metacognition]]"
@@ -57,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-22
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Opportunistic Collaboration
@@ -71,7 +70,7 @@ updated: 2026-10-07
 
 > [!concept-lens] 概念透镜
 > - **含义** 一种以学习者认知需求与问题演进为驱动、具有高度通透边界与自组织特性的动态群体协作模式。
-> - **用途** 帮[[Teaching Assistant|助教]]学设计者突破传统固定分组导致的信息孤岛与角色僵化，为学生行使[[Epistemic Agency|认识能动性]]与开展[[Authentic Science Practices|真实科学探究]]提供灵活的社会组织架构。
+> - **用途** 帮助教学设计者突破传统固定分组导致的信息孤岛与角色僵化，为学生行使[[Epistemic Agency|认识能动性]]与开展[[Authentic Science Practices|真实科学探究]]提供灵活的社会组织架构。
 > - **边界** 弹性协作绝非毫无规则的无序漫游或放任自流，它必须依托班级公共认知制品（如意向领域图表、知识总结墙）与持续的[[Metacognition|元认知]]监控反思机制而有序运作。
 
 > [!citation-card] Zhang et al. 论弹性协作的自组织本质

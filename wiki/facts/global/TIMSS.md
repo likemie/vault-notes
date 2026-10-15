@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 27
+fact_related_count: 26
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -34,7 +34,6 @@ related_concepts:
   - "[[International Large-Scale Assessments]]"
   - "[[Research Utilization]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
-  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Trend Study]]"
@@ -60,7 +59,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # TIMSS
@@ -175,5 +174,5 @@ updated: 2026-10-07
 > | [[Vergleichsarbeiten]] | Fact (Program) | 德国全域校际比较测试，与 TIMSS 在宏观抽样 vs 微观全域上形成功能分工。 |
 > | [[School Inspection]] | Concept | 现场过程督导机制，弥补 TIMSS 纯量化产出测试的机制缺失。 |
 > | [[Standing Conference of the Ministers of Education and Cultural Affairs]] | Fact (Organization) | 决定德国参与 TIMSS 并协调跨州测试结果的国家最高教育协调机构。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | Argument | 剖析 TIMSS 数据在全美议程设置与 CCSS 课程改革中充当概念催化剂的实证[[Document\|文献]]。 |
-> | [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] | Argument | 实证评估 TIMSS 在德国教育部行政决策中宏观方位功能与治理局限性的期刊[[Document\|文献]]。 |
+> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | Argument | 剖析 TIMSS 数据在全美议程设置与 CCSS 课程改革中充当概念催化剂的实证文献。 |
+> | [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] | Argument | 实证评估 TIMSS 在德国教育部行政决策中宏观方位功能与治理局限性的期刊文献。 |

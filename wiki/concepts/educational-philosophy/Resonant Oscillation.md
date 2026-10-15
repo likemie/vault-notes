@@ -6,15 +6,14 @@ aliases:
 summary: "Cole 提出的一种认知张力状态，描述了在特定课程体系（如IB的知识论课程）中，学生在“高效消化实证知识（向前）”与“解构学科基础假设（向后）”之间产生的来回激荡，这种状态被视为突破性学习发生的关键条件。"
 type: concept
 domain: "educational-philosophy"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - concept/epistemology
   - concept/pedagogy
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Theory of Knowledge]]"
   - "[[Epistemology]]"
   - "[[Emergence]]"
@@ -33,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-12
-updated: 2026-10-02
+updated: 2026-10-15
 ---
 
 # Resonant Oscillation
@@ -43,7 +42,7 @@ updated: 2026-10-02
 ## 定义
 
 > [!def] 核心定义
-> 共振震荡（Resonant Oscillation）是指学生在两种截然相反的认知状态之间产生的动态张力：一方面，他们需要高效消化和复制具体的学科知识（一种“向前”的认知模式）；另一方面，他们又被要求提出问题、挑战那些主导学科学习的基础[[Hypothesis\|假设]]（一种“向后”的解构模式）。这种震荡引发了情感和理智的双重冲击，是促成深度“突破性学习”的核心机制。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 211)]]
+> 共振震荡（Resonant Oscillation）是指学生在两种截然相反的认知状态之间产生的动态张力：一方面，他们需要高效消化和复制具体的学科知识（一种“向前”的认知模式）；另一方面，他们又被要求提出问题、挑战那些主导学科学习的基础假设（一种“向后”的解构模式）。这种震荡引发了情感和理智的双重冲击，是促成深度“突破性学习”的核心机制。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 211)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 这个概念指向传统内容本位学科与批判性探究课程（如 [[Theory of Knowledge\|TOK]]）交汇时，学生在脑海中经历的[[Epistemology\|认识论]]冲突与情感失控体验。
@@ -61,7 +60,7 @@ updated: 2026-10-02
 
 > [!feature] 核心要素
 > - **单向度的知识摄取（向前）** 学生在大部分传统学术课程中，习惯于将理智用于对现成知识的提取和考试输出，这使他们发展出一种被动的、“空无认知者”的主体性。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 211)]]
-> - **彻底的[[Hypothesis\|假设]]解构（向后）** 在探究性课程（如[[Theory of Knowledge\|知识论]]）中，教师不再提供确定的答案或知识“快照”，而是要求学生持续质疑甚至推翻他们在其他学科中赖以生存的知识前提。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 211)]]
+> - **彻底的假设解构（向后）** 在探究性课程（如[[Theory of Knowledge\|知识论]]）中，教师不再提供确定的答案或知识“快照”，而是要求学生持续质疑甚至推翻他们在其他学科中赖以生存的知识前提。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 211)]]
 > - **情感与理智的混合卷入** 这种来回震荡不仅是逻辑层面的困难，更是一种卷入了虚无主义、抗拒和焦虑的情感风暴（maelstrom of emotionality），必须在[[Baruch Spinoza\|斯宾诺莎]]式的肯定性课堂中被正视和转化。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 215)]]
 
 > [!logic-map]- 要素关系
@@ -89,7 +88,7 @@ updated: 2026-10-02
 > 简述这类命题围绕认知突破的发生机制展开。学者倾向于认为，真正的学习不是平滑累加的，而必须经历旧有[[Epistemology\|认识论]]基点的撕裂与震荡。
 
 > [!claim] Cole, D. R.
-> 突破性的[[Theory of Knowledge\|知识论]]学习不会在平稳的知识灌输中发生，而是当主导教育行为的常规性、纪律性规则被打破，且学生开始对学习活动背后的[[Hypothesis\|假设]]进行建设性质疑时才能[[Emergence\|涌现]]。学生在确定的学科知识与不确定的知识论探究之间的“共振震荡”，迫使他们重新构建其最初的心智探究方式。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 212)]]
+> 突破性的[[Theory of Knowledge\|知识论]]学习不会在平稳的知识灌输中发生，而是当主导教育行为的常规性、纪律性规则被打破，且学生开始对学习活动背后的假设进行建设性质疑时才能[[Emergence\|涌现]]。学生在确定的学科知识与不确定的知识论探究之间的“共振震荡”，迫使他们重新构建其最初的心智探究方式。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 212)]]
 
 ---
 

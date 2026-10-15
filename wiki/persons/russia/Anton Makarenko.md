@@ -8,7 +8,7 @@ summary: "苏联教育改革家，因其教育思想与实践被西方学界称�
 type: person
 nationality: russia
 person_region: "russia"
-person_related_count: 11
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -26,7 +26,6 @@ tags:
   - theme/labor-education
 related_concepts:
   - "[[Normal School]]"
-  - "[[APA Style]]"
   - "[[Pedagogical Subject]]"
   - "[[International Education]]"
   - "[[Progressive Education]]"
@@ -44,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-09-28
+updated: 2026-10-15
 ---
 # Anton Makarenko
 
@@ -81,7 +80,7 @@ updated: 2026-09-28
 
 ### 1933-1935 — *The Pedagogical Poem* / *The Road to Life*
 
-- [[APA Style|APA]]：Makarenko, A. S. (1933-1935). *Pedagogicheskaya poema* [The pedagogical poem].
+- APA：Makarenko, A. S. (1933-1935). *Pedagogicheskaya poema* [The pedagogical poem].
 - 核心内容：以高尔基工学团为基础，将少年违法者、孤儿和流浪儿童的共同生活写成教育叙事。
 - 思想位置：这是理解马卡连柯最重要的入口。它不是单纯的教育论文，而是把教育方法、组织实践、集体生活和文学叙述交织在一起的"教育实验报告"。
 - 相关概念／理论：儿童集体、集体自治、共同劳动、社会再融入。

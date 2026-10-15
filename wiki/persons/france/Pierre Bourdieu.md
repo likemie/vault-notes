@@ -8,7 +8,7 @@ summary: "法国社会学家，场域-习性-资本理论创立者与区分作�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 57
+person_related_count: 54
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
@@ -21,13 +21,12 @@ tags:
   - paradigm/critical
   - region/france
 related_concepts:
-  - "[[Habitus]]"
   - "[[Champ]]"
+  - "[[Habitus]]"
   - "[[Cultural Capital]]"
   - "[[Language Skills]]"
   - "[[Normal School]]"
   - "[[Epistemology]]"
-  - "[[Teaching Assistant]]"
   - "[[Subjectivism]]"
   - "[[Objectivism]]"
   - "[[Relational Space]]"
@@ -42,7 +41,6 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Discourse]]"
   - "[[Going Native]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Cultural Disembedding]]"
@@ -54,7 +52,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Determinism]]"
-  - "[[Document]]"
   - "[[Positivism]]"
   - "[[Praxis]]"
 related_theories:
@@ -86,7 +83,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-10-13
+updated: 2026-10-15
 ---
 
 # Pierre Bourdieu
@@ -97,8 +94,8 @@ updated: 2026-10-13
 
 > [!person-profile] 人物档案
 > - **身份位置** 法国社会学家、人类学家、法兰西学院教授。20 世纪后半叶最具影响力的社会理论家之一。
-> - **核心角色** 创立了以[[Habitus\|习性]]、[[Champ\|场域]]和资本为支点的关系性实践社会学，将教育系统去神圣化，深刻揭示了学校在阶级再生产、符号暴力和阶层分化中的核心中介作用。
-> - **代表贡献** 创立了习性（Habitus）、场域（Field）以及[[Cultural Capital\|文化资本]]（Cultural Capital）等概念工具。
+> - **核心角色** 创立了以习性、[[Champ\|场域]]和资本为支点的关系性实践社会学，将教育系统去神圣化，深刻揭示了学校在阶级再生产、符号暴力和阶层分化中的核心中介作用。
+> - **代表贡献** 创立了习性（[[Habitus]]）、场域（Field）以及[[Cultural Capital\|文化资本]]（Cultural Capital）等概念工具。
 
 > [!citation-card] 学校教育对主导阶级文化资本的隐性要求与专断再生产
 > 学校教育系统秘而不宣地要求每个学生拥有学校并不曾给予的东西，这包括[[Language Skills\|语言能力]]、文化感知力和对主导文化的熟稔，而这种东西只有统治阶级在家庭教育中传授主导文化时才能获得。[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]]（引自 Bourdieu & Passeron, 1979）
@@ -110,7 +107,7 @@ updated: 2026-10-13
 > [!timeline] 生平与职涯
 > - **1930** 出生于法国 Béarn 地区 Denguin 小镇，普通底层家庭传统出身使其始终对阶层流动、选拔制度和文化合法性问题保持敏感。
 > - **1951–1954** 就读巴黎高等[[Normal School\|师范学院]]，接受系统哲学训练。在存在主义与马克思主义占主导的学术环境中，转向历史与[[Epistemology\|认识论]]研究。
-> - **1955–1960** 前往阿尔及利亚服兵役，随后在此开展[[Ethnography\|民族志]]调查并任[[Teaching Assistant\|助教]]。这一经历成为其从纯哲学转向经验社会学与人类学的决定性起点。
+> - **1955–1960** 前往阿尔及利亚服兵役，随后在此开展[[Ethnography\|民族志]]调查并任助教。这一经历成为其从纯哲学转向经验社会学与人类学的决定性起点。
 > - **1964** 与 Jean-Claude Passeron 合著出版《继承人》（Les Héritiers），揭示法国高等教育如何通过默认[[Cultural Capital\|文化资本]]优势来隐性再生产阶级秩序。
 > - **1968** 与 Jean-Claude Passeron 等合著出版《社会学家行当》（Le MéTIER de sociologue），系统阐述社会学认识论预备。
 > - **1975** 创办《社会科学研究学术活动》（Actes de la recherche en sciences sociales）期刊，创立融合视觉、数据与经验叙事的新出版风格。
@@ -130,14 +127,14 @@ updated: 2026-10-13
 >     - 《继承人：学生与文化》（*Les Héritiers*, Minuit, 1964）：揭示教育系统偏向优势阶级[[Cultural Capital\|文化资本]]的经典研究。
 >     - 《社会学家行当》（*Le Métier de sociologue*, Mouton, 1968）：系统梳理社会科学对象建构与方法原则。
 >     - 《再生产：一种教育系统理论的要素》（*La Reproduction*, Minuit, 1970）：系统论述学校通过符号暴力将等级关系合法化。
->   - **关键概念／方法** [[Cultural Capital\|文化资本]]、[[Habitus\|习性]]、符号暴力、[[Ethnography\|民族志研究]]
+>   - **关键概念／方法** [[Cultural Capital\|文化资本]]、习性、符号暴力、[[Ethnography\|民族志研究]]
 >   - **阶段转向** 从哲学的先验思辨彻底转向依靠经验观察的社会学，发现并确立了教育系统作为阶级结构复制工具的解释路径。
 > - **1972–1980 — 实践理论的建构** 致力于超越萨特式自由主体的[[Subjectivism\|主观主义]]与[[Claude Lévi-Strauss|列维-斯特劳斯]]式无主体结构的[[Objectivism\|客观主义]]，提出习性与实践感概念。
 >   - **代表著作** 
 >     - 《实践理论大纲》（*Esquisse d'une théorie de la pratique*, Droz, 1972）：以 Kabylie 调查为基础奠定习性框架。
 >     - 《区分：判断的社会批判》（*La Distinction*, Minuit, 1979）：通过大规模调查将品味解释为社会位置的符号区隔。
 >     - 《实践感》（*Le Sens pratique*, Minuit, 1980）：完整阐释时间性、模糊性与反理性计算的实践感逻辑。
->   - **关键概念／方法** [[Habitus\|习性]]、实践感、社会空间、[[Relational Space\|关系性空间]]（[[Relational Space]]）
+>   - **关键概念／方法** 习性、实践感、社会空间、[[Relational Space\|关系性空间]]（[[Relational Space]]）
 >   - **阶段转向** 摆脱了早期偏重宏观再生产的机械性描述，深入微观的习性生成和生活品位，将文化消费定义为阶层边界争夺的核心。
 > - **1981–1992 — [[Champ\|场域]]理论与[[Reflexivity\|反思性]]社会学的成熟** 系统推进场域概念，将自主规则和资本争夺应用到学术、语言、国家和艺术等多个社会次空间。
 >   - **代表著作** 
@@ -165,7 +162,7 @@ updated: 2026-10-13
 ## 核心思想
 
 > [!claim] 核心主张
-> 社会实践并非来自有意识的理性计算，也不是社会结构的机械投影，而是[[Habitus\|习性]]、资本与[[Champ\|场域]]三者咬合的产物。实践是在特定场域中，由行动者所占有的资本结构与具身化的习性惯性[[Interaction Effect\|交互作用]]，借助实践感所生成的策略行为。教育系统通过将特权阶层的文化特征伪装为普适的学术天分，建立了无可辩驳的合法性正统信念（[[Doxa]]），从而以符号暴力的隐蔽方式迫使被支配者认同自身的被支配地位，完成了阶级分层的合法再生产。
+> 社会实践并非来自有意识的理性计算，也不是社会结构的机械投影，而是习性、资本与[[Champ\|场域]]三者咬合的产物。实践是在特定场域中，由行动者所占有的资本结构与具身化的习性惯性[[Interaction Effect\|交互作用]]，借助实践感所生成的策略行为。教育系统通过将特权阶层的文化特征伪装为普适的学术天分，建立了无可辩驳的合法性正统信念（[[Doxa]]），从而以符号暴力的隐蔽方式迫使被支配者认同自身的被支配地位，完成了阶级分层的合法再生产。
 
 > [!citation-card] 场域逻辑与内化习性交互作用中的实践生成
 > 实践不仅是资本占有状况的函数，也是场域逻辑与历史内化的习性相互遭遇的结果。如果忽视了社会科学研究者的[[Epistemology\|认识论]]断警觉，我们就会在不知不觉中复制日常概念，从而使反思沦为装饰。[[Argument_Eacott_2015_EPT\|Eacott (2015, pp. 322–323)]]（引自 Bourdieu, 1992）
@@ -186,11 +183,11 @@ updated: 2026-10-13
 
 > [!dimension] 核心研究应用解析
 > - **国际社会理论传统的整合与推进**
->   布迪厄的关系性实践社会学，推进并重构了经典社会学的三个核心传统：韦伯的符号合法性（发展为**[[Champ\|场域]]**）、马克思的**资本**一般化（扩展到[[Non-monetary Competition\|非货币竞争]]活动），以及涂尔干的客观结构倾向（与结构主义融合为**[[Habitus\|习性]]**）。这确立了学术界的跨国传播价值。
+>   布迪厄的关系性实践社会学，推进并重构了经典社会学的三个核心传统：韦伯的符号合法性（发展为**[[Champ\|场域]]**）、马克思的**资本**一般化（扩展到[[Non-monetary Competition\|非货币竞争]]活动），以及涂尔干的客观结构倾向（与结构主义融合为**习性**）。这确立了学术界的跨国传播价值。
 > - **[[School Leadership\|学校领导力]]与教育行政批判研究**
 >   教育行政领域借此解构管理主义[[Discourse|话语]]。[[Argument_Eacott_2011_JEAH\|Eacott (2011, p. 45)]] 将场域、习性和资本引入澳大利亚新南威尔士校长培训体制分析，指出绩效问责、最佳实践和效率语言组成的 Doxa 使得教育场域被政治和商业场域渗透，校长被去自主化为政策交付人。
 > - **中国精英大学的出路资本化与习性变现**
->   中国高等教育研究通过[[Going Native\|本土化]]改造，将工具应用到了精英大学情境。[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] 指出，家庭不平等通过资本化过程[[Transfer Translation Transformation\|转译]]为新生的初始习性差异。优势家庭学生展现出**[[Goal-Controlled Mode\|目标掌控模式]]**，主动变现[[Cultural Capital\|文化资本]]；弱势家庭学生则陷入**[[Intuition-Dependent Mode\|直觉依赖模式]]**，面临**[[Cultural Disembedding\|文化脱嵌]]**与**[[Cultural Disorientation\|文化迷失]]**。
+>   中国高等教育研究通过[[Going Native\|本土化]]改造，将工具应用到了精英大学情境。[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] 指出，家庭不平等通过资本化过程转译为新生的初始习性差异。优势家庭学生展现出**[[Goal-Controlled Mode\|目标掌控模式]]**，主动变现[[Cultural Capital\|文化资本]]；弱势家庭学生则陷入**[[Intuition-Dependent Mode\|直觉依赖模式]]**，面临**[[Cultural Disembedding\|文化脱嵌]]**与**[[Cultural Disorientation\|文化迷失]]**。
 > - **当代高等教育的新封建主义政治经济学**
 >   在高等教育全球政治经济学分析中，[[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al. (2017, pp. 797–799)]] 借助布迪厄工具分析了学术劳动的重构，包括排名与引用的**[[Non-monetary Competition\|非货币竞争]]**，学术资本与行政权力的学者分数分化，以及为了在不稳定劳动力市场中获取资源而产生的个人化依附，形成了学术界内部的[[Neo-feudalism in Higher Education\|高等教育新封建主义]]。
 > - **中国县域城镇化进程中的资本分层筛选**
@@ -203,7 +200,7 @@ updated: 2026-10-13
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 彻底改写了战[[Post-structuralism\|后结构主义]]与功利主义的对抗格局，其[[Habitus\|习性]]与[[Champ\|场域]]框架成为教育社会学、批判社会学、文化社会学的基础[[Paradigm\|范式]]语言。
+> - **理论路径** 彻底改写了战[[Post-structuralism\|后结构主义]]与功利主义的对抗格局，其习性与[[Champ\|场域]]框架成为教育社会学、批判社会学、文化社会学的基础[[Paradigm\|范式]]语言。
 > - **方法路径** 主张超越量化实证与质性[[Phenomenology\|现象学]]的对立，将多维对应分析（MCA）与深度[[Ethnography\|民族志]]结合，为社会空间的关系性建模提供了实证模版。
 > - **政策路径** 其教育再生产学说强力拆穿了 meritocracy（贤能主义）的客观神话，推动了西方对弱势阶层教育补偿、平权法案以及多元评价的政策讨论；晚期对新自由主义全球化的政治介入进一步启发了对超国家组织物化全球化、强推[[Liberalization|经济自由化]]的政策[[Discourse|话语]]解构。
 > - **跨国与跨领域传播** 在进入中国高等教育与基础教育研究中，其资本转换模型被相继改造，用以解析转型期大学生的求职分化以及农村随迁家庭的[[School Choice\|择校]]博弈。
@@ -246,11 +243,11 @@ updated: 2026-10-13
 
 > [!critique]- 批评索引
 > - **[[Yajun Zheng\|郑雅君]]** 论证了经典再生产模型低估了行动者的[[Reflexivity\|反思性]]评估与情感痛苦，未能充分捕捉底层学子在遭遇[[Cultural Disembedding\|文化脱嵌]]后的情感折磨、心理调适与反思性自我重构的动态机制。[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]]
-> - **Eacott** 批评许多学者在使用其工具时违背了[[Epistemological Break\|认识论断裂]]的要求，陷入对[[Habitus\|习性]]和场域标签的简单修辞化套用，这退回了常识的说明，丧失了批判的警觉性。[[Argument_Eacott_2015_EPT\|Eacott, 2015]]
+> - **Eacott** 批评许多学者在使用其工具时违背了[[Epistemological Break\|认识论断裂]]的要求，陷入对习性和场域标签的简单修辞化套用，这退回了常识的说明，丧失了批判的警觉性。[[Argument_Eacott_2015_EPT\|Eacott, 2015]]
 > - **雅克·朗西埃 (1983)** 在《哲学家及其穷人》中指责布迪厄的批判社会学陷入支配的无限循环，即社会学家通过宣称被支配者无力反思，将社会学自身确立为唯一掌握真理的特权科学，无形中强化了不平等。
 > - **布鲁诺·拉图尔 (2005)** 批评其关系社会学采取了俯视的上帝视角，将普通行动者描述为缺乏反思能力的、被习性傀儡般操纵的信息提供者，而将真理垄断在研究者手中。
 > - **马塞尔·高谢 (2000)** 激进地批评其思想为知识分子的灾难，是用机械论与宿命论包装的粗糙决定论，根本无法合理解释社会的多元互动与自主良性运转。
-> - **朱迪斯·巴特勒 (1999)** 批评《男性支配》一书忽视了当代主流女性主义以及同性恋研究在性别权力解构领域的丰富[[Document\|文献]]，有闭门造车之嫌。
+> - **朱迪斯·巴特勒 (1999)** 批评《男性支配》一书忽视了当代主流女性主义以及同性恋研究在性别权力解构领域的丰富文献，有闭门造车之嫌。
 > - **妮可·克劳德·马蒂厄 (1999)** 从唯物主义女性主义角度批评该书缺乏科学论证的严谨性，认为其多用断言代替论证，在核心材料的处理上存在选择性省略和客观性歪曲。
 
 > [!warning] 未解问题与边界

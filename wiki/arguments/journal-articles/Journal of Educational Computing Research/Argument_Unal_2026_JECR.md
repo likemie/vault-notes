@@ -27,7 +27,6 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Emergence]]"
   - "[[Research Scope]]"
-  - "[[Document]]"
   - "[[Central Question]]"
   - "[[Publication Bias]]"
   - "[[Variable]]"
@@ -48,11 +47,9 @@ related_concepts:
   - "[[Study Population and Sample]]"
   - "[[Heterogeneity]]"
   - "[[Determinism]]"
-  - "[[Hypothesis]]"
   - "[[Learner Autonomy]]"
   - "[[Self-Regulated Learning]]"
   - "[[Executive Function]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Fade-out Effect]]"
   - "[[Internal Validity]]"
   - "[[Chain of Evidence]]"
@@ -84,6 +81,7 @@ related_methods:
   - "[[Second-Order Meta-Regression]]"
   - "[[Statistical Significance]]"
   - "[[Small Study Effects]]"
+  - "[[Intercoder Agreement]]"
 related_instruments:
   - "[[PRISMA]]"
   - "[[AMSTAR]]"
@@ -105,7 +103,7 @@ title: "Argument_Unal_2026_JECR"
 argument_key: "Argument_Unal_2026_JECR"
 argument_display_title: "A second-order meta-analysis on the effects of artificial intelligence applications on student outcomes"
 argument_kind: "journal-article"
-argument_related_count: 67
+argument_related_count: 65
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -122,7 +120,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 伴随[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI，如 ChatGPT）与智能导学系统（[[Intelligent Tutoring Systems]], ITS）在教育领域的爆发式增长，关于人工智能教育应用（Artificial Intelligence in Education, AIEd）对学生[[Academic Achievement\|学业成就]]与[[Higher-Order Thinking Skills\|高阶思维技能]]（Higher-Order Thinking Skills, HOTS）影响的一阶[[Meta-analysis\|元分析]]（First-Order Meta-analyses, FOMs）大量[[Emergence\|涌现]]。然而，现有元分析结论高度矛盾，报告的综合[[Effect Size\|效应量]]（Effect Size, ES；以标准化均数差 Standardized Mean Difference, SMD 为测度，底层涵盖 Cohen's $d$ 与 Hedges' $g$）在 $ES = .32$（微弱正向）至 $ES = 1.36$（极强正向）之间大幅波动，且各元分析在[[Research Scope\|研究范围]]、学科界定、方法学质量及所纳入的初级研究之间存在严重的[[Document\|文献]]重叠，使宏观循证决策陷入证据碎片化与不确定性困境（pp. 1361–1363）。因此，需要采用[[Meta-meta-analysis\|二阶元分析]]（Second-Order Meta-Analysis, SOMA）方法，在系统剔除文献重叠与控制方法学质量的前提下，回答两个[[Central Question\|核心研究问题]]：
+> 伴随[[Generative Artificial Intelligence\|生成式人工智能]]（Generative Artificial Intelligence, GenAI，如 ChatGPT）与智能导学系统（[[Intelligent Tutoring Systems]], ITS）在教育领域的爆发式增长，关于人工智能教育应用（Artificial Intelligence in Education, AIEd）对学生[[Academic Achievement\|学业成就]]与[[Higher-Order Thinking Skills\|高阶思维技能]]（Higher-Order Thinking Skills, HOTS）影响的一阶[[Meta-analysis\|元分析]]（First-Order Meta-analyses, FOMs）大量[[Emergence\|涌现]]。然而，现有元分析结论高度矛盾，报告的综合[[Effect Size\|效应量]]（Effect Size, ES；以标准化均数差 Standardized Mean Difference, SMD 为测度，底层涵盖 Cohen's $d$ 与 Hedges' $g$）在 $ES = .32$（微弱正向）至 $ES = 1.36$（极强正向）之间大幅波动，且各元分析在[[Research Scope\|研究范围]]、学科界定、方法学质量及所纳入的初级研究之间存在严重的文献重叠，使宏观循证决策陷入证据碎片化与不确定性困境（pp. 1361–1363）。因此，需要采用[[Meta-meta-analysis\|二阶元分析]]（Second-Order Meta-Analysis, SOMA）方法，在系统剔除文献重叠与控制方法学质量的前提下，回答两个[[Central Question\|核心研究问题]]：
 > 1. 人工智能（Artificial Intelligence, AI）教育应用对学生的整体学习成果（包括学业成就与高阶思维技能）究竟产生多大程度的综合效应？
 > 2. 这种教育干预效应是否在成果类型、AI 工具类型、教育阶段、学科领域、[[Publication Bias\|发表偏倚]]状态以及元分析方法学质量等调节[[Variable\|变量]]上呈现系统性差异？（p. 1363）
 
@@ -150,7 +148,7 @@ issuing_organization: ""
 > | **GROOVE 重叠分析与校正覆盖面积矩阵**<br>[[GROOVE]] · [[Corrected Covered Area]] | 运用[[GROOVE\|系统评价重叠图形表征工具]]（Graphical Representation of Overlap for OVErviews, GROOVE; Bracchiglione et al., 2022）计算[[Corrected Covered Area\|校正覆盖面积]]（Corrected Covered Area, CCA），设定 10% 重叠率排除阈值，解决一阶元分析因共享初级研究导致的双重计数与假阳性膨胀（pp. 1373–1375）。 |
 
 > [!warrant]- 理论如何支撑论证
-> [[Bloom's Taxonomy\|布鲁姆教育目标分类学]]与五维高阶思维框架使本研究摆脱了将所有学生产出简单混同为单一成绩指标的粗放模式，将认知产出清晰区隔为基础事实掌握（[[Academic Achievement\|学业成就]]）与复杂探究能力（高阶思维），进而能够实证检验 AI 工具究竟是在取代人类低阶记忆还是真正赋能深层反思。在方法层面上，二阶元分析与 GROOVE 重叠矩阵构成了破除现有证据冲突的技术桥梁：现有 FOM 效应量离散的根源不仅在于实质教学情境差异，更在于[[Document\|文献]]重叠与质量参差；通过 CCA 矩阵剔除重叠率超过 10% 的冗余元分析，并引入 R-AMSTAR 质量评分与[[Publication Bias\|发表偏倚]]综合诊断，能够有效剥离方法学假象，提炼出真正反映 AI 教育干预效能的稳健证据（pp. 1365–1375）。
+> [[Bloom's Taxonomy\|布鲁姆教育目标分类学]]与五维高阶思维框架使本研究摆脱了将所有学生产出简单混同为单一成绩指标的粗放模式，将认知产出清晰区隔为基础事实掌握（[[Academic Achievement\|学业成就]]）与复杂探究能力（高阶思维），进而能够实证检验 AI 工具究竟是在取代人类低阶记忆还是真正赋能深层反思。在方法层面上，二阶元分析与 GROOVE 重叠矩阵构成了破除现有证据冲突的技术桥梁：现有 FOM 效应量离散的根源不仅在于实质教学情境差异，更在于文献重叠与质量参差；通过 CCA 矩阵剔除重叠率超过 10% 的冗余元分析，并引入 R-AMSTAR 质量评分与[[Publication Bias\|发表偏倚]]综合诊断，能够有效剥离方法学假象，提炼出真正反映 AI 教育干预效能的稳健证据（pp. 1365–1375）。
 
 ---
 
@@ -194,7 +192,7 @@ issuing_organization: ""
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **二阶元分析架构**<br>Second-Order Meta-Analysis | 以独立一阶元分析报告的标准化汇总效应量（Cohen's $d$ 或 Hedges' $g$）及其伴随方差作为分析单位，采用经典逆方差加权法与随机效应模型（Random-Effects Model, DerSimonian & Laird 方法）进行宏观效应量合并（Borenstein et al., 2021; Schmidt & Oh, 2013; pp. 1367–1375）。 |
-> | **检索与数据库覆盖**<br>Systematic Search Protocol | 检索科学网数据库（Web of Science, WoS）、Scopus、教育资源信息中心（Education Resources Information Center, ERIC）、Academic Search Ultimate、ProQuest 五大国际学术数据库；时间跨度限定为 2020 年 1 月至 2025 年 4 月；采用双组布尔逻辑全两两配对检索式：以 artificial intelligence、AI、ChatGPT、GPT、Copilot、Gemini 为第一组技术术语，以 [[Meta-analysis]]、meta-analytic、[[Systematic Review]] 为第二组方法术语；勾选标题包含选项；初始检出[[Document\|文献]] 4,558 篇（pp. 1367–1368）。 |
+> | **检索与数据库覆盖**<br>Systematic Search Protocol | 检索科学网数据库（Web of Science, WoS）、Scopus、教育资源信息中心（Education Resources Information Center, ERIC）、Academic Search Ultimate、ProQuest 五大国际学术数据库；时间跨度限定为 2020 年 1 月至 2025 年 4 月；采用双组布尔逻辑全两两配对检索式：以 artificial intelligence、AI、ChatGPT、GPT、Copilot、Gemini 为第一组技术术语，以 [[Meta-analysis]]、meta-analytic、[[Systematic Review]] 为第二组方法术语；勾选标题包含选项；初始检出文献 4,558 篇（pp. 1367–1368）。 |
 > | **筛选与准入标准**<br>Inclusion & Exclusion Criteria | 严格遵循 6 项准入与 6 项排除准则（见下表 Table 1）：限定英语发表、2020–2025 年、以学生认知或情感或行为成果为因变量、将 AI 作为教学干预技术（排除以 AI 知识本身教学为主题者）、具备完整效应量与方差统计量、初级研究重叠率 $CCA \le 10\%$（pp. 1368–1369）。 |
 > | **质量评级与编码一致性**<br>R-AMSTAR & Coder Agreement | 采用 R-AMSTAR 量表，排除两项临床导向题项（8C 和 8D），由两名研究者对纳入的元分析独立双盲编码并评级；编码一致性达 Cohen's Kappa $\kappa = .87$；分歧通过咨询教育技术学与人工智能专家集体裁决（p. 1370）。 |
 > | **重叠审计与排除**<br>Overlap Analysis (GROOVE & CCA) | 使用基于 Excel 的 GROOVE 工具宏构建校正覆盖面积（CCA）交叉矩阵与热力图（Bracchiglione et al., 2022）；对 CCA $> 10\%$ 的重叠元分析实施逐一剔除，共排除 6 项高重叠 FOM（pp. 1373–1375）。 |
@@ -253,7 +251,7 @@ issuing_organization: ""
 > 现有 AI 教育一阶[[Meta-analysis\|元分析]]由于[[Research Scope\|研究范围]]差异、学科聚焦局限及方法学决策不同，导致宏观[[Effect Size\|效应量]]在微弱正向（$ES = .32$）至极高正向（$ES = 1.36$）之间剧烈震荡；必须通过严密的 [[PRISMA]] 2020 流程进行系统检索与准入筛选，以建立高质量[[Meta-meta-analysis\|二阶元分析]]数据集（pp. 1367–1369）。
 
 > [!chain-link] 证据到判断
-> - **证据一：检索规模与初步过滤** 五大数据库（WoS、Scopus、[[Education Resources Information Center\|ERIC]]、Academic Search Ultimate、ProQuest）双组关键词配对检索共获得 4,558 篇初始记录；在去除跨数据库重复[[Document\|文献]]（$n = 37$）并剔除 2 篇无法获取全文的付费墙文献后，依据 Table 1 标准初步确定 35 篇潜在 FOM 进行全文精读（p. 1368）。
+> - **证据一：检索规模与初步过滤** 五大数据库（WoS、Scopus、[[Education Resources Information Center\|ERIC]]、Academic Search Ultimate、ProQuest）双组关键词配对检索共获得 4,558 篇初始记录；在去除跨数据库重复文献（$n = 37$）并剔除 2 篇无法获取全文的付费墙文献后，依据 Table 1 标准初步确定 35 篇潜在 FOM 进行全文精读（p. 1368）。
 > - **证据二：排除原因与证据流向** 进一步排除 16 篇不合格文献，具体排除原因为：考察 AI 使用影响因素而非学习成果（$n = 2$）、仅调查对 AI 的态度与焦虑压力（$n = 2$）、预测辍学风险（$n = 1$）、AI 知识本身的教学（$n = 2$）、测试 AI 答题准确率而非学生表现（$n = 3$），以及初级研究严重重叠（$n = 6$）。
 > - **证据三：最终数据集构成** 最终纳入 19 项独立一阶元分析，时间跨越 2020 至 2025 年，全面覆盖[[Academic Achievement\|学业成就]]与[[Higher-Order Thinking Skills\|高阶思维]]，奠定了宏观二阶综合的数据底座（p. 1369）。
 
@@ -329,7 +327,7 @@ issuing_organization: ""
 > - **证据三：异质性统计量分解与情境依存性** 总体异质性检验达到极显著水平（$Q(18) = 118.26, p < .001$），$I^2$ 指数高达 84.78%，研究间真实方差 $\tau^2 = .05$。高达 84.78% 的 $I^2$ 意味着数据集总方差中超过五分之四并非来自随机抽样误差，而是根源于不同研究之间实质性的学科结构、学段特征与教学设计差异。
 
 > [!warrant]- 推理桥梁
-> 随机效应模型将各一阶元分析视为具有独立真实效应的超总体（Super-population）。$ES = .67$ 确立了 AI 赋能教育的宏观正向基准，但高达 84.78% 的 $I^2$ 从统计学上彻底否定了“AI 技术在任何情境下都同等有效”的技术[[Determinism\|决定论]][[Hypothesis\|假设]]，强有力地证明 AI 的教学实效并非均质普适，而是受到学科认知负荷、学生[[Learner Autonomy\|自主学习]]准备度等具体情境机制的深刻制约，必须通过细致的分类[[Moderator Analysis\|调节变量分析]]与[[Meta-regression\|元回归]]予以逐层解构（pp. 1375–1376）。
+> 随机效应模型将各一阶元分析视为具有独立真实效应的超总体（Super-population）。$ES = .67$ 确立了 AI 赋能教育的宏观正向基准，但高达 84.78% 的 $I^2$ 从统计学上彻底否定了“AI 技术在任何情境下都同等有效”的技术[[Determinism\|决定论]]假设，强有力地证明 AI 的教学实效并非均质普适，而是受到学科认知负荷、学生[[Learner Autonomy\|自主学习]]准备度等具体情境机制的深刻制约，必须通过细致的分类[[Moderator Analysis\|调节变量分析]]与[[Meta-regression\|元回归]]予以逐层解构（pp. 1375–1376）。
 
 > [!effect-summary]- 总体效应与异质性统计指标详表（p. 1375）
 > | 指标名称 | 统计数值 | 方法学与实质含义解读 |
@@ -362,7 +360,7 @@ issuing_organization: ""
 > [!warrant]- 推理桥梁
 > 调节分析深入揭示了 AI 教育整合的“生态适配机制”（Ecological Alignment Mechanism）：
 > 1. **学段发展与自主调节差异** 高等教育学生具备更成熟的[[Metacognition\|元认知]]监控、[[Self-Regulated Learning\|自我调节学习]]能力与技术胜任力，高校课程设计也更具自主探究与模块化弹性；而 K12 阶段学生[[Executive Function\|执行功能]]尚未完善，面对生成式 AI 的开放式输出时易产生认知超载或注意力分散，加之基础教育课堂受制于严格的进度统排与高利害应试要求，AI 的个性化优势难以完全释放（pp. 1379–1380）。
-> 2. **学科知识表征与认知机制匹配** 计算机科学（程序设计与算法）具有形式化语法结构和确定性的报错闭环，生成式 AI 代码助手能提供精准的语法纠错、代码解释与逻辑[[Transfer Translation Transformation\|转译]]，直接移除了初学者的调试阻碍；语言学习依赖高频、低焦虑的语境互动，AI 聊天机器人能扮演耐心的拟真语伴；然而，数学学科涉及多步骤演绎推理、深层空间想象与高度抽象的概念建构（不仅要知其然，更要知其所以然；Young, 2017），当前 AI 往往停留于步骤代数套用或算式表面推导，缺乏启发式概念诊断与数学直觉引导能力（pp. 1380–1381）。
+> 2. **学科知识表征与认知机制匹配** 计算机科学（程序设计与算法）具有形式化语法结构和确定性的报错闭环，生成式 AI 代码助手能提供精准的语法纠错、代码解释与逻辑转译，直接移除了初学者的调试阻碍；语言学习依赖高频、低焦虑的语境互动，AI 聊天机器人能扮演耐心的拟真语伴；然而，数学学科涉及多步骤演绎推理、深层空间想象与高度抽象的概念建构（不仅要知其然，更要知其所以然；Young, 2017），当前 AI 往往停留于步骤代数套用或算式表面推导，缺乏启发式概念诊断与数学直觉引导能力（pp. 1380–1381）。
 
 ---
 
@@ -480,7 +478,7 @@ issuing_organization: ""
 > - **$ES = .40$ vs $.73$** K12 阶段与混合学段效应量对比（$p = .01$）（p. 1376）
 > - **$ES = .99$ vs $.34$** 计算机科学与数学学科效应量对比（$p = .04$）
 > - **$\text{Coef.} = .01$** 初级研究数量 $n$ 对效应量的[[Meta-regression\|元回归]]正向预测系数（$p = .01$）（p. 1378）
-> - **$\kappa = .87$** R-[[AMSTAR]] [[Coding in Qualitative Research\|编码]]一致性 Kappa 系数（p. 1370）
+> - **$\kappa = .87$** R-[[AMSTAR]] [[Intercoder Agreement|编码一致性]] Kappa 系数（p. 1370）
 > - **19 项 FOM / 58,702 名学生** 纳入证据总规模（p. 1371）
 
 ---
@@ -519,7 +517,7 @@ issuing_organization: ""
 > [!warning]
 > - **语言与发表时间窗限制** 本研究仅纳入 2020 年 1 月至 2025 年 4 月之间以英语发表的一阶[[Meta-analysis\|元分析]]，可能存在语言[[Publication Bias\|发表偏倚]]（Language Publication Bias），未覆盖非英语地区的关键本土元分析证据。
 > - **调节[[Variable\|变量]]亚组[[Sample Size Determination\|样本量]]不均衡** 部分调节变量亚组所包含的[[Effect Size\|效应量]]过少（例如数学学科与计算机科学学科各仅包含 2 项元分析，[[Higher-Order Thinking Skills\|高阶思维]]单独亚组仅包含 1 项元分析），因此对这些细分亚组差异的解读须保持审慎。
-> - **未附清单[[Document\|文献]]的潜在残留重叠** 尽管敏感性分析证实未对整体效应造成实质性扭曲，但纳入的 3 项未报告初级研究清单的元分析仍可能存在无法完全通过 [[GROOVE]]/[[Corrected Covered Area\|CCA]] 矩阵排除的潜在初级研究重叠。
+> - **未附清单文献的潜在残留重叠** 尽管敏感性分析证实未对整体效应造成实质性扭曲，但纳入的 3 项未报告初级研究清单的元分析仍可能存在无法完全通过 [[GROOVE]]/[[Corrected Covered Area\|CCA]] 矩阵排除的潜在初级研究重叠。
 > - **研究对象局限于学生端产出** 本研究仅聚焦 AI 对学生[[Academic Achievement\|学业成就]]与高阶思维技能的影响，未涵盖 AI 应用对教师教学行为、教师技术采纳态度以及学校管理流程等系统性层面的影响。（p. 1381）
 
 ---

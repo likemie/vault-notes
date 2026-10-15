@@ -10,7 +10,7 @@ summary: "评估同一测量工具在多次施测间得分稳定程度的信度�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 13
+method_related_count: 11
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -24,15 +24,13 @@ related_concepts:
   - "[[Construct]]"
   - "[[Order Effects]]"
   - "[[Variable]]"
-  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Internal Consistency]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Pearson Product-Moment Correlation]]"
   - "[[Questionnaire]]"
-related_persons:
-  - "[[Paul Pierson]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
@@ -40,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Test-Retest Reliability
@@ -71,7 +69,7 @@ updated: 2026-10-12
 > [!proc] 重测[[Reliability\|信度]]评估四步骤
 > 1. **首次施测** 在时间点 1 对一组受试者施测目标量表
 > 2. **间隔后重测** 在适当的时间间隔后对同一组受试者再次施测同一量表。常用适当间隔为两星期到一个月之间（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]], Ch.5；Creswell & Creswell, 2022, Ch8）
-> 3. **计算相关系数** 一般使用[[Paul Pierson|皮尔逊]]积矩相关系数（[[Pearson Product-Moment Correlation]]）计算两次测量之间的相关。高相关（如 r > .70）表明量表具有良好的重测信度
+> 3. **计算相关系数** 一般使用皮尔逊积矩相关系数（[[Pearson Product-Moment Correlation]]）计算两次测量之间的相关。高相关（如 r > .70）表明量表具有良好的重测信度
 > 4. **报告均值差异** 评估是否存在系统性变化（如[[Order Effects\|练习效应]]或疲劳效应）
 
 ### 计算公式与解读
@@ -91,7 +89,7 @@ updated: 2026-10-12
 > | 0.65–0.70 | 中等 | 勉强可以接受 |
 > | < 0.65 | 弱相关 | 不可接受，需修订工具 |
 
-> [!warning] Pearson r 的前提[[Hypothesis\|假设]]
+> [!warning] Pearson r 的前提假设
 > - **线性关系** Pearson r 仅适用于变量间具有线性关系，不适用于非线性关系（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]], Ch.10）
 > - **连续变量** 两变量应为等距或比率变量
 > - **正态分布** 两变量应近似服从正态分布

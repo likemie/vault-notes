@@ -7,7 +7,7 @@ aliases:
 summary: "由马克·伦科等于 2001 年开发并广泛应用的自陈式创造潜能量表，用于评估个体在日常生活中产生、探索与运用新颖想法的频次与行为倾向。"
 type: instrument
 instrument_type: scale
-instrument_related_count: 11
+instrument_related_count: 10
 instrument_related_level: 2
 instrument_related_stars: "⭐⭐"
 instrument_related_color: "#dcfce7"
@@ -30,7 +30,6 @@ tags:
   - construct/ideational-behavior
 related_concepts:
   - "[[Creativity]]"
-  - "[[Hypothesis]]"
   - "[[Emergence]]"
   - "[[Reliability]]"
   - "[[Variable]]"
@@ -48,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-09-11
+updated: 2026-10-15
 ---
 
 # Runco Ideational Behavior Scale
@@ -64,7 +63,7 @@ updated: 2026-09-11
 > - **实施方式** 纸笔或线上自陈量表。
 
 > [!citation-card]- 关键表述
-> 伦科观念行为量表基于这样一种测量[[Hypothesis\|假设]]：经常在日常生活中产生大量想法的人更有可能在特定任务中产出高水平的创造性构想；它为评估不受标准化纸笔测验时间限制的日常创造潜能提供了高效工具。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 3–4)]]
+> 伦科观念行为量表基于这样一种测量假设：经常在日常生活中产生大量想法的人更有可能在特定任务中产出高水平的创造性构想；它为评估不受标准化纸笔测验时间限制的日常创造潜能提供了高效工具。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 3–4)]]
 >
 > *The Runco Ideational Behavior Scale assesses the use of, appreciation of, and skill with ideas, capturing everyday creative potential beyond artificial testing conditions.*
 

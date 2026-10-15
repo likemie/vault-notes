@@ -13,7 +13,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 89
+fact_related_count: 86
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -40,7 +40,6 @@ related_concepts:
   - "[[Use-Inspired Basic Research]]"
   - "[[Academic Entrepreneurship]]"
   - "[[Convergence Research]]"
-  - "[[Electronic Design Automation]]"
   - "[[Co-Design]]"
   - "[[Golden Ticket Mechanism]]"
   - "[[Portable Fellowship]]"
@@ -59,7 +58,6 @@ related_concepts:
   - "[[Portfolio-Based Research Funding]]"
   - "[[Pull Mechanisms for Innovation]]"
   - "[[Research Universities]]"
-  - "[[Document]]"
   - "[[Technology-Oriented Social Contract]]"
   - "[[Center of Calculation]]"
 related_theories:
@@ -78,7 +76,6 @@ related_persons:
   - "[[Erich Bloch]]"
   - "[[Nam Pyo Suh]]"
   - "[[Donald Stokes]]"
-  - "[[Alfred Nobel]]"
   - "[[Fred Block]]"
   - "[[Michael Kratsios]]"
 related_facts:
@@ -167,7 +164,7 @@ updated: 2026-10-15
 > - **2010–2021 — 刚性化“更广泛影响”（[[NSF Broader Impacts Criterion|Broader Impacts]]）与高校创业生态拓展**
 >   - 2010 年依据 GPRAMA 法案将更广泛影响转为刚性门槛；2011 年创设 [[NSF I-Corps]] 创新兵团推动高校[[Academic Entrepreneurship|学术创业]]；2019 年启动跨学科[[Convergence Research|融合研究]]与首批国家人工智能研究院布局。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1060)]]; [[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 149)]]
 > - **2022–2024 — 《[[CHIPS and Science Act|芯片法案]]》赋能、[[Directorate for Technology, Innovation and Partnerships|TIP]] 理事会与国家微电子战略协同**
->   - 依据《芯片与科学法案》获五年 810 亿美元预算授权，设立三十年来首个新理事会——技术、创新与伙伴关系理事会（TIP），将研究生研究奖学金（GRFP）扩大至每年 3000 名，启动[[NSF Regional Innovation Engines|区域创新引擎]]（首批资助 1.6 亿美元），并大力支持大学开源指令集（RISC-V）与开源 [[Electronic Design Automation|EDA]] 工具链的研发与课程普及。
+>   - 依据《芯片与科学法案》获五年 810 亿美元预算授权，设立三十年来首个新理事会——技术、创新与伙伴关系理事会（TIP），将研究生研究奖学金（GRFP）扩大至每年 3000 名，启动[[NSF Regional Innovation Engines|区域创新引擎]]（首批资助 1.6 亿美元），并大力支持大学开源指令集（RISC-V）与开源 EDA 工具链的研发与课程普及。
 >   - **国家战略与中试网络共建** 在[[National Science and Technology Council|国家科学技术委员会]]（[[National Science and Technology Council|NSTC]]）微电子领导小组（[[Subcommittee on Microelectronics Leadership|SML]]）中担任联合主席，牵头编制《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》；设立“未来半导体前沿”（Future of Semiconductors, FuSe / FuSe2）专项计划，由 TIP 与工程学学部（ENG）、数学与物理科学学部（MPS）跨学科协同，聚焦多维[[Co-Design|协同设计]]、二维材料与能效突破，跨越从实验室到工业代工厂的转化断层；
 >   - **开放科研基础设施与全谱系人才培养** 持续资助全美国家纳米技术协同基础设施（[[National Nanotechnology Coordinated Infrastructure|NNCI]]）16 个核心高校微纳加工与表征节点，提供低门槛开放中试服务；通过[[Advanced Technological Education|先进技术教育]]（Advanced Technological Education, ATE）计划、本科生研究体验（REU）与教师研究体验（RET）深耕社区学院与大学晶圆代工技术员与工程拔尖人才梯队。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]; [[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 134–135)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 20)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–3, 8–11, 26)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10–12, 19–21, 26–28)]]
 > - **2025–2026 — [[Metascience|元科学]]单元设立、资助机制试验与非学术组织直接资助**
@@ -195,7 +192,7 @@ updated: 2026-10-15
 ## 核心业务与旗舰产出
 
 > [!finding-cards] 核心业务与科研矩阵
-> - **大学基础科研资助基石（[[Blue Skies Research]]）** 每年下拨数以万计竞争性科研基金，支撑全美约四分之一的高校联邦基础研究，孕育数百位[[Alfred Nobel|诺贝尔]]奖得主。
+> - **大学基础科研资助基石（[[Blue Skies Research]]）** 每年下拨数以万计竞争性科研基金，支撑全美约四分之一的高校联邦基础研究，孕育数百位诺贝尔奖得主。
 > - **[[University-Industry Collaboration|产学合作]][[Innovation Hub|创新中心]]矩阵（[[Industry-University Cooperative Research Centers|I/UCRC]] 与 [[Engineering Research Centers|ERC]]）** 建立大学与工业界共同攻坚共性工程技术的长效跨界网络。I/UCRC 通过行业伙伴资金匹配促进基础成果快速扩散；ERC 则通过 10 年长期稳定资助，开创了跨学科工程系统集成的[[Paradigm|范式]]。[[Argument_Block_2008_PS|(Block, 2008, pp. 174–176, 180–182)]]; [[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42)]]
 > - **[[SBIR and STTR Programs|小企业创新研究计划]]策源（[[SBIR and STTR Programs|SBIR]]）** 1977 年在 NSF 创立的[[Seed Funding|种子资助]]机制，成为全联邦扶持高科技衍生初创企业跨越[[Valley of Death|死亡之谷]]的旗舰政策工具。[[Argument_Block_2008_PS|(Block, 2008, pp. 176–178)]]
 > - **未来半导体前沿计划（FuSe / FuSe2）与多维[[Co-Design|协同设计]]** 联合工业界设立 Future of Semiconductors 专项，跨学部资助二维材料、神经形态器件、自旋电子学与全栈[[Co-Design|协同设计]]，并设立跨机构中试直通车突破后摩尔时代物理极限。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 10–12)]]
@@ -286,7 +283,7 @@ updated: 2026-10-15
 > | [[National Strategy on Microelectronics Research]] | Fact (Policy) | [[National Science and Technology Council\|NSTC]] 发布的国家微电子战略顶层设计，NSF 担任微电子领导小组联合主席并统筹基础研究与劳动力体系。 |
 > | [[National Semiconductor Technology Center]] | Fact (Organization) | 《芯片与科学法案》下设立的国家半导体研发中枢；NSF 主任参与其跨部门共治，与 TIP 理事会形成基础到中试的研发接力。 |
 > | [[Fred Block]] | Person | 经济社会学家，系统剖析 NSF 设立 IUCRC/ERC 产学中心及首创 [[SBIR and STTR Programs\|SBIR]] 计划对[[Developmental Network State\|发展型网络国家]]的贡献。 |
-> | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 剖析 NSF 产学合作中心网络（IUCRC/ERC）、首创 SBIR 种子机制及直面[[Market Fundamentalism\|市场原教旨主义]]挑战的[[Document\|文献]]。 |
+> | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 剖析 NSF 产学合作中心网络（IUCRC/ERC）、首创 SBIR 种子机制及直面[[Market Fundamentalism\|市场原教旨主义]]挑战的文献。 |
 > | [[Argument_NIST_2023_NSTC\|NIST (2023)]] | Argument | 阐明国家半导体技术中心的部际共治架构、全链条研发流水线及与 NSF 基础科学探索的协同机制。 |
 > | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | Argument | 确立国家微电子研究战略四大支柱，系统阐明 NSF 在基础材料探索、FuSe [[Co-Design\|协同设计]]计划、NNCI 开放中试设施与 ATE 技术员培养中的核心职能。 |
 

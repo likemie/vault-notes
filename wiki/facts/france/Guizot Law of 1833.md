@@ -11,7 +11,7 @@ subtype: policy
 region: france
 fact_region: "france"
 fact_kind: "policy"
-fact_related_count: 12
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -24,9 +24,7 @@ tags:
   - nineteenth-century
 related_concepts:
   - "[[Normal School]]"
-  - "[[Document]]"
   - "[[Comprehensive Education]]"
-  - "[[Bildung]]"
   - "[[Policy Borrowing]]"
   - "[[Educational Meliorism]]"
   - "[[Auslandspadagogik]]"
@@ -44,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-11
+updated: 2026-10-15
 ---
 
 # Guizot Law of 1833
@@ -82,7 +80,7 @@ updated: 2026-10-11
 > - **普鲁士式分权监察网络与国家最高督导权（Decentralized Oversight and Supreme State Supervision）**
 >   效仿普鲁士建立由市长、教士和地方显贵组成的市镇与区级分权监察委员会；承认天主教及私人办学之“教学自由原则”（*la liberté d’enseignement*），但划定绝对国家主权红线：所有公私立学校一律接受国家教育部皇家专职督学在道德、纪律与学业上的全面监督与行政视察。（pp. 29–30; Brewer, 1971:89）
 
-比较教育史家对该法案核心技术条款的跨国转置特征给出了精确的[[Document|文献]]提炼：
+比较教育史家对该法案核心技术条款的跨国转置特征给出了精确的文献提炼：
 
 > [!citation-card]- 关键条文：基佐法案核心条款概括
 > 基佐法案的主要条款如下：每一个市镇（当时全法超过三万个）都有义务开设一所初级小学，贫困家庭儿童免费就读；每一个省都必须设立一所师范学校以培训小学教师；初等教育按层级组织为两级……初级初等学校教授读写算、法语和宗教，高级初等学校面向中产阶级培养工商技能；各级学校均须包含宗教与道德教学；参照普鲁士模式实行分权化行政架构；通过承认开办非公立学校认可教学自由原则。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 29)]]
@@ -195,7 +193,7 @@ updated: 2026-10-11
 > > [[Victor Cousin\|库森]]与[[François Guizot\|基佐]]将哲学上的折衷主义映射至教育立法中。围绕其阶级属性，学界存在尖锐交锋：[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 28–29)]]
 > >
 > > - **Walter Brewer (1971) / J. M. Roberts (1996)** 指出基佐法案在本质上是“大资产阶级统治的辩护立法”；其设计的双轨分流将平民限制于初级小学以维持社会安定，而高级初小与文理中学则服务于工商业中产与统治精英，实质上以国家法律形式固化了阶层区隔。
-> > - **François Guizot (1833) / Victor Cousin (1831)** 坚称法案立足于大革命后的社会现实，通过市镇公学与贫困免费保障了大众的基础[[Bildung\|教养]]，是在无政府混乱与旧专制特权之间实现国家治理的最大善。
+> > - **François Guizot (1833) / Victor Cousin (1831)** 坚称法案立足于大革命后的社会现实，通过市镇公学与贫困免费保障了大众的基础教养，是在无政府混乱与旧专制特权之间实现国家治理的最大善。
 >
 > > [!axis] 世俗国家最高督察权 vs 传统教会特权与教学自由
 > > 围绕国家主权对学校的介入，天主教会与自由派展开激烈论辩：
@@ -228,7 +226,7 @@ updated: 2026-10-11
 > |:-----|:-----|:-----|
 > | [[Policy Borrowing]] | 概念 | 提供了 19 世纪比较教育史上将外部经验直接转置为国家实定法的欧陆经典案例。 |
 > | [[Educational Meliorism]] | 概念 | 展现了国家行政决策精英如何通过公立教育立法践行政治治理与社会秩序的改良主义。 |
-> | [[Auslandspadagogik]] | 概念 | [[Victor Cousin\|库森]] 1831 年普鲁士考察报告作为外国教育学[[Document\|文献]]，直接促成了该法案的诞生。 |
+> | [[Auslandspadagogik]] | 概念 | [[Victor Cousin\|库森]] 1831 年普鲁士考察报告作为外国教育学文献，直接促成了该法案的诞生。 |
 > | [[François Guizot]] | 人物 | 法国公共教育部部长，主导法案提交、审议与通谕推行。 |
 | [[Johann Wilhelm Süvern]] | 人物 | 普鲁士 1819 草案起草者，为基佐法案提供核心技术蓝本。 |
 | [[Victor Cousin]] | 人物 | 作为核心理论家和起草人，以其国家公共资源法哲学主导将普鲁士经验写入该法案。 |

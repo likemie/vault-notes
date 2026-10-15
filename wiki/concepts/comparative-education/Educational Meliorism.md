@@ -7,7 +7,7 @@ aliases:
 summary: "源自拉丁语更好之意且以改善社会与人类境况为根本导向的探究旨趣，是贯穿19世纪比较与国际教育发端的统治性认识论母题"
 type: concept
 domain: "comparative-education"
-related_count: 71
+related_count: 73
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -26,10 +26,8 @@ related_concepts:
   - "[[Popular Education]]"
   - "[[Artefact]]"
   - "[[Policy Borrowing]]"
-  - "[[Bildung]]"
   - "[[Scientism]]"
   - "[[Discourse]]"
-  - "[[Hypothesis]]"
   - "[[Falsification]]"
   - "[[Intangible Spiritual Forces]]"
   - "[[Enlightenment]]"
@@ -37,7 +35,7 @@ related_concepts:
   - "[[Postpositivism]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Paradigm]]"
-  - "[[Transfer Translation Transformation]]"
+  - "[[Pragmatic Paradigm]]"
   - "[[Variable]]"
   - "[[Geisteswissenschaften]]"
   - "[[Whiggism]]"
@@ -45,13 +43,12 @@ related_concepts:
   - "[[Navigation Metaphor in Comparative Education]]"
   - "[[Intercultural Education]]"
   - "[[Determinism]]"
-  - "[[Attrition]]"
   - "[[Historical Amnesia]]"
+  - "[[School Autonomy]]"
+  - "[[Global Educational Discourse]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Historical-Philosophical-Cultural Motif]]"
   - "[[Operationalization]]"
-  - "[[Document]]"
-  - "[[Pragmatic Paradigm]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Proto-Scientific Motif]]"
   - "[[Auslandspadagogik]]"
   - "[[Comparative History of Comparative Education]]"
@@ -82,8 +79,12 @@ related_persons:
   - "[[Martin Carnoy]]"
   - "[[Robert Arnove]]"
   - "[[Rolland Paulston]]"
+  - "[[Jason Beech]]"
   - "[[Brian Holmes]]"
 related_facts:
+  - "[[World Bank]]"
+  - "[[OECD]]"
+  - "[[UNESCO]]"
   - "[[Prussian Draft Education Law of 1819]]"
   - "[[Guizot Law of 1833]]"
   - "[[Seventh Annual Report of the Massachusetts Board of Education]]"
@@ -91,13 +92,14 @@ related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
+  - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Rust_2009_Reflections]]"
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 
 # Educational Meliorism
@@ -127,7 +129,7 @@ updated: 2026-10-09
 
 朱利安将教育事实比较上升为消除野蛮战争、追求世界[[Perpetual Peace|永久和平]]的改良蓝图：
 
-> [!citation-card] [[Marc-Antoine Jullien\|朱利安]]论以比较文明协作荡涤野蛮战争残余
+> [!citation-card] 朱利安论以比较文明协作荡涤野蛮战争残余
 > 只有比较解剖学和比较地质学才能推动长期停留在幼年期的解剖学与地质学发展。同样，只有比较文明才能迅速推进我们当前的文明，荡涤其尽管拥有辉煌奇迹却依然保留的深重野蛮残余。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 22–23; Palmer, 1993, p. 205)]]
 >
 > *Similarly, only comparative civilization can speedily advance our present civilization, which still preserves, despite its brilliant and imposing wonders, the deep and afflicting traces of the old barbarism.*
@@ -150,7 +152,7 @@ updated: 2026-10-09
 
 > [!boundary] 概念边界
 > - 不等于 **脱离语境的纯技术实证主义（Technocratic Positivism）** 战后实证学派片面标榜“价值无涉”，将跨国研究异化为去语境化的数理统计演算；改良主义始终坚守伦理价值导向，经验事实搜集天然服务于构建善好社会与促进人性解放。
-> - 不等于 **外在行为层面的“[[Artefact\|器物]]借用（[[Policy Borrowing\|Educational Borrowing]]）”** “借用”仅是改良主义在特定历史情境下的外部手段与行为表象，未能涵盖改良主义对国家危机化解、全人道德[[Bildung\|教化]]与世界和平的深层认识论关怀。
+> - 不等于 **外在行为层面的“[[Artefact\|器物]]借用（[[Policy Borrowing\|Educational Borrowing]]）”** “借用”仅是改良主义在特定历史情境下的外部手段与行为表象，未能涵盖改良主义对国家危机化解、全人道德教化与世界和平的深层认识论关怀。
 > - 不等于 **帝国主义教育强权输出（Imperialist Imposition）** 经典改良主义者（如库森、霍勒斯·曼）严厉警惕盲目照搬，强调必须立足本土政治环境与风土民情展开审慎吸收与改造。
 
 ---
@@ -163,29 +165,31 @@ updated: 2026-10-09
 > | 维度 | 教育改良主义（Educational Meliorism） | 政策借用（Policy Borrowing） | [[Value Neutrality\|价值无涉]]实证论（[[VALUE Rubrics\|VALUE]]-Free [[Positivism]]） | 方法论拜物教（Methodological Fetishism） |
 > |------|--------------------------------------|-----------------------------|---------------------------------------|-----------------------------------------|
 > | **核心旨趣** | 以实现人类福祉、社会善治与制度改进为探究的先验合法性 | 探讨政策决策者在立法博弈中策略性动用外部经验的[[Discourse\|话语]]过程 | 追求剔除研究者主观价值，寻求普遍共变的因果法则 | 狭隘地将科学等同于定量建模，崇拜数理技术工具 |
-> | **[[Epistemology\|认识论]]动力** | 应对现代性危机、启蒙人道主义关怀与国家政治建制 | 解决本土政客的正当性赤字、寻求改革的合法化背书 | [[Hypothesis\|假设]]演绎检验、经验数据[[Falsification\|证伪]]与中立规律发现 | 官僚问责驱动、指标量化竞赛与跨国排名竞争 |
-> | **对事实的态度** | 经验事实调查全面从属于伦理规范与全人道德[[Bildung\|教化]] | 战略性抽取有利于本土改革论证的特定实绩或条文 | 事实与价值截然二分，追求价值中立的数据集演算 | 事实被降维为可测量的标准化脱水指标 |
-> | **代表人物** | [[Marc-Antoine Jullien\|朱利安]]、[[Victor Cousin\|库森]]、[[Horace Mann\|曼]]、斯托、巴纳德 | 菲利普斯、厄克斯、施泰纳-汉姆西 | [[Harold Noah\|诺亚]]、[[Max Eckstein\|埃克斯坦]]、[[George Bereday\|贝雷迪]] | 战后行为主义实证派学者、现代跨国测试官僚 |
+> | **[[Epistemology\|认识论]]动力** | 应对现代性危机、启蒙人道主义关怀与国家政治建制 | 解决本土政客的正当性赤字、寻求改革的合法化背书 | 假设演绎检验、经验数据[[Falsification\|证伪]]与中立规律发现 | 官僚问责驱动、指标量化竞赛与跨国排名竞争 |
+> | **对事实的态度** | 经验事实调查全面从属于伦理规范与全人道德教化 | 战略性抽取有利于本土改革论证的特定实绩或条文 | 事实与价值截然二分，追求价值中立的数据集演算 | 事实被降维为可测量的标准化脱水指标 |
+> | **代表人物** | 朱利安、[[Victor Cousin\|库森]]、[[Horace Mann\|曼]]、斯托、巴纳德 | 菲利普斯、厄克斯、施泰纳-汉姆西 | [[Harold Noah\|诺亚]]、[[Max Eckstein\|埃克斯坦]]、[[George Bereday\|贝雷迪]] | 战后行为主义实证派学者、现代跨国测试官僚 |
 
 ---
 
 ## 核心要素
 
-教育改良主义在概念结构、动力机制与价值体系上包含五大相互支撑的核心要素：
+教育改良主义在概念结构、动力机制与价值体系上包含相互支撑的核心要素体系：
 
 > [!feature] 核心要素
-> - **现实改进作为先验[[Epistemology\|认识论]]目的（Inquiry with the Objective of Improvement）**
->   将探究的根本正当性建立在救治现实缺陷之上，坚信人类社会具有可改进性；拒绝脱离社会苦难的纯智力游戏，求知天然承载着增进人类福祉的道德使命。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 33–34)]]
+> - **现实改进作为先验[[Epistemology|认识论]]目的（Inquiry with the Objective of Improvement）**
+>   将探究的根本正当性建立在救治现实缺陷之上，坚信人类社会具有可改进性；拒绝脱离社会苦难的纯智力游戏，求知天然承载着增进人类福祉的道德使命。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 33–34)]]
 > - **双重实践路径分化（Dual Structural Pathways）**
->   在大西洋两岸具体制度情境下发生机制分流：欧陆表现为以[[Victor Cousin\|库森]]为代表的“行政制度移植与机制转置（transposition）模式”，直接推动国家法典化；北美表现为以[[Horace Mann\|霍勒斯·曼]]为代表的“政治动员与合法化依据（legitimating rationales）模式”，借域外实绩击溃本土反对派。（pp. 28–30, 33–34）
+>   在大西洋两岸具体制度情境下发生机制分流：欧陆表现为以[[Victor Cousin|库森]]为代表的“行政制度移植与机制转置（transposition）模式”，直接推动国家法典化；北美表现为以[[Horace Mann|霍勒斯·曼]]为代表的“政治动员与合法化依据（legitimating rationales）模式”，借域外实绩击溃本土反对派。（pp. 28–30, 33–34）
 > - **事实经验求真与崇高伦理规范的深度共生（Fact-VALUE Synthesis）**
->   经验事实的客观搜集与分类图表编制，从属于服务全人道德[[Bildung\|教化]]、理性预防流血革命与维系国际和平的启蒙伦理规范，形成经验分类服务于精神道德的有机统一。（pp. 16–22, 34）
+>   经验事实的客观搜集与分类图表编制，从属于服务全人道德教化、理性预防流血革命与维系国际和平的启蒙伦理规范，形成经验分类服务于精神道德的有机统一。（pp. 16–22, 34）
 > - **应对现代性危机（Crisis of Modernity）的国家整合诉求**
 >   深嵌于 19 世纪大革命创伤、普鲁士耶拿惨败重建、美利坚独立后自由共和体制维系等重大危机之中，充当现代民族国家重构公共领域与社会整合的核心纽带。（pp. 24–26, 31–32）
-> - **唯心主义、历史整体主义与[[Intangible Spiritual Forces\|无形精神力量]]的共生互嵌（Idealist & Holistic Meliorism）**
->   在[[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、汉斯与[[Robert Ulich\|乌利希]]等古典历史比较学派手中，改良主义与唯心主义哲学（思想观念支配人类行动）、历史整体主义以及不可捉摸的精神力量紧密交织；坚信教育是推动文明进步与道德净化的崇高事业，比较探究的终极抱负在于通过对文化理想与无形力量的人文洞察，促进民族间的精神理解，并在剧烈政治危机中捍卫民主制度的人道主义根基。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 59–60)]]
+> - **唯心主义、历史整体主义与[[Intangible Spiritual Forces|无形精神力量]]的共生互嵌（Idealist & Holistic Meliorism）**
+>   在[[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、汉斯与[[Robert Ulich|乌利希]]等古典历史比较学派手中，改良主义与唯心主义哲学（思想观念支配人类行动）、历史整体主义以及不可捉摸的精神力量紧密交织；坚信教育是推动文明进步与道德净化的崇高事业，比较探究的终极抱负在于通过对文化理想与无形力量的人文洞察，促进民族间的精神理解，并在剧烈政治危机中捍卫民主制度的人道主义根基。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 59–60)]]
 > - **四重论述代际演进与批判解放型改良主义（Four [[Discourse]] Generations & Critical-Emancipatory Meliorism）**
->   [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）以两百年学科史为跨度，系统梳理了改良主义形态的四重历史代际演变：从第一代[[Enlightenment|启蒙运动]]下[[Scholiocentric Approach|以校为中心]]（scholiocentric）的“道德教育改良主义”，到第二代萨德勒与坎德尔的“历史-文化哲学有机改良主义”，再到第三代被战[[Postpositivism|后实证主义]]异化为服务国家规划与技术援助的“行政治理[[Social Science as Legitimation Alibi|合法化借口]]（Legitimation Alibi）”；最终在 1970–1990 年代第四代批判冲突[[Paradigm|范式]]（Carnoy, Arnove, Paulston）中升华为“批判解放型改良主义（Critical-Emancipatory Meliorism）”——打破国家中立[[Hypothesis|假设]]，将改良主义转化为解构资本主义意识形态再生产、揭露文化帝国主义并赋权被压迫阶级参与社会变革的批判解放工程。（pp. 139–156）
+>   [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）以两百年学科史为跨度，系统梳理了改良主义形态的四重历史代际演变：从第一代[[Enlightenment|启蒙运动]]下[[Scholiocentric Approach|以校为中心]]（scholiocentric）的“道德教育改良主义”，到第二代萨德勒与坎德尔的“历史-文化哲学有机改良主义”，再到第三代被战[[Postpositivism|后实证主义]]异化为服务国家规划与技术援助的“行政治理[[Social Science as Legitimation Alibi|合法化借口]]（Legitimation Alibi）”；最终在 1970–1990 年代第四代批判冲突[[Paradigm|范式]]（Carnoy, Arnove, Paulston）中升华为“批判解放型改良主义（Critical-Emancipatory Meliorism）”——打破国家中立假设，将改良主义转化为解构资本主义意识形态再生产、揭露文化帝国主义并赋权被压迫阶级参与社会变革的批判解放工程。（pp. 139–156）
+> - **话语流通视阈下的制度性改良主义（Institutional Meliorism in Discourse Circulation）**
+>   在比奇的话语流通五位置模型中，处于位置2的国际组织（[[World Bank|世界银行]]、[[OECD|经合组织]]、[[UNESCO|联合国教科文组织]]）扮演“应用专家”角色，深受制度性改良主义与紧迫[[Pragmatic Paradigm|实用主义]]驱动；为满足项目资助交付与快速见效的政策干预需求，它们将复杂的学术理论进行激进简化与去情境化打包，提炼为高度格式化的全球治理处方（如五大支柱），并以二元地理区隔（发达国家作为最佳实践样板 vs 发展中国家作为缺陷受援方）合理化去语境化政策输出。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 349–352)]]
 
 上述核心要素如何在大西洋两岸分化演进并熔铸为现代比较认识论问题域，可通过以下逻辑图清晰呈现：
 
@@ -206,7 +210,7 @@ updated: 2026-10-09
 
 ## 围绕概念形成的命题
 
-围绕教育改良主义的统摄地位、跨大西洋分化机制与学科史[[Epistemology|认识论]]重构，确立了三大核心理论命题：
+围绕教育改良主义的统摄地位、跨大西洋分化机制、学科史[[Epistemology|认识论]]重构与全球[[Discourse|话语]]流通，确立了八大核心理论命题：
 
 ---
 
@@ -216,7 +220,7 @@ updated: 2026-10-09
 > 该命题探讨教育改良主义为何构成 19 世纪所有比较先驱的精神底色，揭示其对学科认识论的本体奠基功能。
 
 > [!claim] [[Marc-Antoine Jullien\|Jullien, M.]]
-> **经验事实调查服从全人[[Bildung\|教化]]与国际和平** 朱利安论证指出，教育如医学与解剖学一样由事实与观察构成，编制分析图表的目的绝非纯粹客观描述，而是为了科学诊断教育机体的患病断层，从而推导出确定改良原则；经验事实分类全面服从于预防阶级暴力革命、促进儿童体智德均衡展开，以及通过跨国教育协作确立消除战争的超国家治理网络。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 11–13, 19–24)]]
+> **经验事实调查服从全人教化与国际和平** 朱利安论证指出，教育如医学与解剖学一样由事实与观察构成，编制分析图表的目的绝非纯粹客观描述，而是为了科学诊断教育机体的患病断层，从而推导出确定改良原则；经验事实分类全面服从于预防阶级暴力革命、促进儿童体智德均衡展开，以及通过跨国教育协作确立消除战争的超国家治理网络。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 11–13, 19–24)]]
 
 > [!claim] Kaloyannaki, P. & [[Andreas Kazamias\|Kazamias, A.]] M.
 > **改良主义作为比较认识论的统治性母题** 卡洛扬纳基与卡扎米亚斯深入论证指出，超越外在的“[[Artefact\|器物]]借用”行为标签，贯穿 19 世纪所有先驱求知活动的深层精神底色是教育改良主义；朱利安关照社会动荡与[[Perpetual Peace\|永久和平]]，[[Victor Cousin\|库森]]重构中央行政机器与法典化，[[Horace Mann\|霍勒斯·曼]]捍卫自由共和政体免于文盲与专制；先驱们的跨国探究自始至终深嵌于应对现代性危机的崇高社会承诺之中，共同奠定了学科不可让渡的“比较认识论问题域（comparative epistemic problematique）”。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 33–34)]]
@@ -232,7 +236,7 @@ updated: 2026-10-09
 > **国家公共资源法哲学支撑下的实定法直接转置** 库森立足法国高度集权的行政官僚传统，提炼教育权属于国家神圣“公共资源”的法哲学命题，打破教会特权与家庭私权，为中央世俗国家行使最高督察主权确立本体法理支撑，进而主笔将普鲁士[[Prussian Draft Education Law of 1819\|聚芬法案]]的技术条款系统性吸纳为法国实定法（1833 年基佐法案），开创了自上而下行政直接移植模式。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 26–29)]]
 
 > [!claim] Mann, H.
-> **外部实绩[[Transfer Translation Transformation\|转译]]为击溃本土保守派的合法化武器** 霍勒斯·曼身处美利坚联邦分权与城镇自治语境，面对保守学监联合会与正统教会对公税公学的猛烈攻击，战略性抽取欧洲专制君主国公立学校的卓越教学与人道纪律实绩，以“专制君主尚能办好公学、自由共和国任由公民愚昧岂非文明耻辱”发起降维反诘，成功为争议改革确立不可撼动的政治合法化依据。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 31–34)]]
+> **外部实绩转译为击溃本土保守派的合法化武器** 霍勒斯·曼身处美利坚联邦分权与城镇自治语境，面对保守学监联合会与正统教会对公税公学的猛烈攻击，战略性抽取欧洲专制君主国公立学校的卓越教学与人道纪律实绩，以“专制君主尚能办好公学、自由共和国任由公民愚昧岂非文明耻辱”发起降维反诘，成功为争议改革确立不可撼动的政治合法化依据。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 31–34)]]
 
 > [!claim] Kaloyannaki, P. & Kazamias, A. M.
 > **权力结构分流催生改良主义的双重机制演进** 卡洛扬纳基与卡扎米亚斯总结指出，政治体制的权力结构直接决定了外部知识的处理方式：法国官僚集权体制促成了行政精英的法规直接移植，而北美分权民主博弈则迫使改革者将外部经验转译为公共说服的[[Discourse|话语]]资本；两种模式互为镜像，共同丰富了改良主义的实践形态。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 33–34)]]
@@ -303,7 +307,22 @@ updated: 2026-10-09
 > **打破国家中立神话并确立批判解放型改良主义** 卡诺伊、阿诺夫与[[Rolland Paulston|保尔斯顿]]（Rolland Paulston）等第四代批判学者彻底重构了改良主义的性质。卡诺伊借助修正主义新马克思主义国家理论，将学校定义为阶级再生产（对应性）与大众民主化诉求（矛盾性）激烈博弈的矛盾竞技场，破除正统马克思主义的机械单向[[Determinism|决定论]]。在批判冲突范式下，改良主义不再是协助资本主义主权国家缝补社会裂痕的技术修补匠，而是升华为“批判解放型改良主义（Critical-Emancipatory Meliorism）”——致力于在资本主义世界体系与第三世界转型国家中揭露文化帝国主义与教育分层再生产机制，赋权草根被压迫群体，使跨国教育探究直接服务于广泛的社会民主化与激进制度变革。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–155)]]
 
 > [!claim] Kazamias, A. M.
-> **历史维度[[Attrition|流失]]导致改良主义在世纪之交罹患[[Historical Amnesia|历史健忘症]]** 卡扎米亚斯总结两百年论述代际演进指出，第四代批判范式在丰富改良主义解放维度的同时，学科内部由于片面放逐历史-哲学传统而付出了沉重代价：世纪之交的期刊计量数据揭示出历史研究份额的断崖式跌落，比较教育学陷入了深重的“历史健忘症（Historical Amnesia）”。卡扎米亚斯警示，如果丢失了扎实的历史发生学考据与古典人道道德底座，改良主义要么退化为缺乏理论自省的技术官僚数字指标拼贴，要么沦为空洞悬浮的激进意识形态标语；唯有重建历史学与社会科学的理性综合，才能在现代语境下守护教育改良主义健康而富有批判力量的学术生命。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 155–156)]]
+> **历史维度流失导致改良主义在世纪之交罹患[[Historical Amnesia|历史健忘症]]** 卡扎米亚斯总结两百年论述代际演进指出，第四代批判范式在丰富改良主义解放维度的同时，学科内部由于片面放逐历史-哲学传统而付出了沉重代价：世纪之交的期刊计量数据揭示出历史研究份额的断崖式跌落，比较教育学陷入了深重的“历史健忘症（Historical Amnesia）”。卡扎米亚斯警示，如果丢失了扎实的历史发生学考据与古典人道道德底座，改良主义要么退化为缺乏理论自省的技术官僚数字指标拼贴，要么沦为空洞悬浮的激进意识形态标语；唯有重建历史学与社会科学的理性综合，才能在现代语境下守护教育改良主义健康而富有批判力量的学术生命。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 155–156)]]
+
+---
+
+### 命题八　话语流通视阈下的制度性改良主义：紧迫实用主义驱动国际组织将学术理论过度简化为去情境化的全球治理处方
+
+> [!concept-lens] 话语流通视阈与去情境化处方机制
+> 揭示跨国组织在将理论转化为政策处方的过程中，如何受到改良主义与紧迫[[Pragmatic Paradigm|实用主义]]的双重驱使，导致学术复杂性的过度流失与本土探索空间的闭合。
+
+> [!claim] [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]]
+> **紧迫实用主义与改良主义驱动下的知识过度简化** 杰森·比奇（[[Jason Beech]]）在话语流通五位置模型中，将国际组织（如[[World Bank|世界银行]]、[[OECD|经合组织]]、[[UNESCO|联合国教科文组织]]）定位于第二位置——充当“应用专家”的[[Knowledge Production|知识生产]]者与再生产者。比奇揭示，这些跨国机构受到两股核心力量的深度驱使：一是对全球教育弊病进行积极救治的**教育改良主义（Educational Meliorism）**，二是源于项目资助周期与见效考核的**紧迫实用主义（Urgent Pragmatism）**。这两股力量迫使它们在极度压缩的时间线内交付即时解决方案。为了实现跨国标准化转移，它们运用二元地理区隔策略，将学术界（第一位置）充满争议、高度复杂的学术辩论，激进过滤和过度简化为去情境化、教条化的改革口号与标准化模板（如包含权力下放与[[School Autonomy|学校自主权]]、国家统一测试在内的[[Global Educational Discourse|全球教育话语]]五大支柱）。这种制度性改良主义实质上推行了技术官僚式的单向[[Disciplina and Doctrina|规训]]，剥夺了学术理论的原初批判深度，并严重闭合了受援国探索本土自主改良路径的政策空间。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 349–352)]]
+
+> [!citation-card] 比奇论紧迫实用主义与改良主义驱动的知识过度简化
+> 国际组织必须将学术理论转化为实践应用。受改良主义意图（即改善世界教育的愿望）与紧迫实用主义的驱动，国际机构需要快速交付具体方案。因此，复杂的理论在这一流通位置被激进过滤，剥离其争辩性与情境依赖性，最终凝结为适用于一切受援国的标准化通用处方。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 351–352)]]
+>
+> *Driven by meliorism and urgent pragmatism, international agencies act as applied experts who must transform complex scholarly ideas into actionable solutions within compressed delivery cycles, resulting in radical simplification and decontextualized universal recipes.*
 
 ---
 
@@ -319,6 +338,7 @@ updated: 2026-10-09
 > | **技术化改良异化命题** | 科学范式清洗道德辞令的同时，将改良主义异化为服务国家规划与效能控制的合法化借口 | 战后比较教育科学化转型、国家规划理性与政策咨询分析 | Mattheou, D.; Noah, H. & Eckstein, M.; Holmes, B.; [[Andreas Kazamias\|Kazamias, A. M.]] |
 > | **政策咨询与实践改良命题** | 坚守航海隐喻中立预测的适度改良功能，结合跨文化微观教学改良诉求 | 政策咨询伦理边界厘定与多元文化学校教学革新分析 | [[Wolfgang Mitter\|Mitter, W.]] |
 > | **批判解放型改良命题** | 批判冲突范式打破国家中立，将改良主义升华为解构不平等再生产与赋权草根变革的批判工程 | 资本主义[[World-Systems Theory\|世界体系分析]]、依赖理论、阶级再生产批判与第三世界转型研究 | [[Martin Carnoy\|Carnoy, M.]]; [[Robert Arnove\|Arnove, R.]]; [[Andreas Kazamias\|Kazamias, A. M.]] |
+> | **制度处方命题** | 紧迫实用主义与改良主义驱动国际组织将理论过度简化为去情境化的全球治理处方 | 全球教育话语流通、跨国机构知识生产与受援国政策空间闭合 | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b, pp. 349–352)]] |
 
 ---
 
@@ -327,13 +347,14 @@ updated: 2026-10-09
 教育改良主义在两个世纪的学科演进中，经历了从启蒙崇高抱负、制度分化、历史哲学升华、实证贬抑到当代批判重构的演化历程：
 
 > [!dev-timeline] 概念演变
-> - **1817 — 准科学人道主义道德改良萌芽阶段** [[Marc-Antoine Jullien\|朱利安]]发表《计划》，将教育改良主义与居维叶比较解剖学分类、全人道德[[Bildung\|教化]]与世界和平共同体蓝图深度交织，奠定学科最初的[[Epistemology\|认识论]][[Paradigm\|范式]]。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 11–14, 21–24)]]
-> - **1830–1850 — 民族国家建制与行政-政治改良双轨分化阶段** [[Victor Cousin\|库森]]以国家公共资源法哲学主笔 1833 年[[Guizot Law of 1833\|基佐法案]]，开创欧陆实定法直接转置范式；[[Horace Mann\|霍勒斯·曼]]发表《[[Seventh Annual Report of the Massachusetts Board of Education\|第七次年度报告]]》，开创北美动用外部实绩作为国内改革政治合法化依据的范式。（pp. 24–34）
-> - **1900–1950 — 历史改良主义与哲学涵养阶段** [[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、汉斯与[[Robert Ulich\|乌利希]]开创[[Historical-Philosophical-Cultural Motif\|历史-哲学-文化母题]]，将改良主义由直接行政借用转向探寻[[Intangible Spiritual Forces\|校外无形精神力量]]，主张通过比较理解涵养哲学态度以服务民主自省与国际主义。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 40, 44–46)]]
-> - **1960年代 — 行为[[Positivism\|实证主义]]批判与“技术改良主义”[[Social Science as Legitimation Alibi|合法化借口]]阶段** 贝雷迪、诺亚、埃克斯坦与霍姆斯等学者指责历史学派充斥主观愿望与道德说教；但实证[[Scientific Paradigm|科学范式]]并未放弃改良，而是将改良主义重构为服务国家五年计划、[[Human Capital Theory\|人力资本]]预测与外援工程的“技术改良主义（Technocratic Meliorism）”，沦为技术官僚推卸决策责任的行政治理合法化借口。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 60–64)]]；[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 144–151)]]
-> - **1970s–1990s — 批判冲突范式与“批判解放型改良主义”兴起** 新马克思主义、[[World-Systems Theory|世界体系分析]]与依赖理论学者（卡诺伊、[[Robert Arnove|阿诺夫]]、[[Rolland Paulston|保尔斯顿]]）打破国家中立假象，揭示学校作为阶级矛盾博弈竞技场，将改良主义升华为解构资本主义再生产不平等与赋权第三世界草根社会变革的“批判解放型改良主义”。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 152–155)]]
-> - **1970s–1990s — 欧洲政策咨询光谱中的适度改良功能** 面对两德分裂与冷战现实，欧洲主流比较教育学者（如米特、安维勒）在[[Niklas Luhmann|卢曼]]激进疏离与罗宾逊激进干预之间确立温和立场，明确接受比较教育的“适度改良功能（melioristic function）”，以[[Navigation Metaphor in Comparative Education|航海隐喻]]提供方案预测而非操纵决策。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 95–96)]]
-> - **2000年代至今 — [[Historical Amnesia|历史健忘症]]反思与跨文化一线微观改良合流** 卡扎米亚斯诊断出学科在多元范式扩张表象下的“历史健忘症”，呼吁重构历史学与社会科学的综合纲领以守护改良主义的人文批判灵魂；同时，[[Intercultural Education|跨文化教育]]的崛起将改良主义引向教科书、课程与多元文化族群整合的一线教学论微观实践。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 155–156)]]; [[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 97–98)]]
+> - **1817 — 准科学人道主义道德改良萌芽阶段** 朱利安发表《计划》，将教育改良主义与居维叶比较解剖学分类、全人道德教化与世界和平共同体蓝图深度交织，奠定学科最初的[[Epistemology|认识论]][[Paradigm|范式]]。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 11–14, 21–24)]]
+> - **1830–1850 — 民族国家建制与行政-政治改良双轨分化阶段** [[Victor Cousin|库森]]以国家公共资源法哲学主笔 1833 年[[Guizot Law of 1833|基佐法案]]，开创欧陆实定法直接转置范式；[[Horace Mann|霍勒斯·曼]]发表《[[Seventh Annual Report of the Massachusetts Board of Education|第七次年度报告]]》，开创北美动用外部实绩作为国内改革政治合法化依据的范式。（pp. 24–34）
+> - **1900–1950 — 历史改良主义与哲学涵养阶段** [[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、汉斯与[[Robert Ulich|乌利希]]开创[[Historical-Philosophical-Cultural Motif|历史-哲学-文化母题]]，将改良主义由直接行政借用转向探寻[[Intangible Spiritual Forces|校外无形精神力量]]，主张通过比较理解涵养哲学态度以服务民主自省与国际主义。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 40, 44–46)]]
+> - **1960年代 — 行为[[Positivism|实证主义]]批判与“技术改良主义”[[Social Science as Legitimation Alibi|合法化借口]]阶段** 贝雷迪、诺亚、埃克斯坦与霍姆斯等学者指责历史学派充斥主观愿望与道德说教；但实证[[Scientific Paradigm|科学范式]]并未放弃改良，而是将改良主义重构为服务国家五年计划、[[Human Capital Theory|人力资本]]预测与外援工程的“技术改良主义（Technocratic Meliorism）”，沦为技术官僚推卸决策责任的行政治理合法化借口。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 60–64)]]；[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 144–151)]]
+> - **1970s–1990s — 批判冲突范式与“批判解放型改良主义”兴起** 新马克思主义、[[World-Systems Theory|世界体系分析]]与依赖理论学者（卡诺伊、[[Robert Arnove|阿诺夫]]、[[Rolland Paulston|保尔斯顿]]）打破国家中立假象，揭示学校作为阶级矛盾博弈竞技场，将改良主义升华为解构资本主义再生产不平等与赋权第三世界草根社会变革的“批判解放型改良主义”。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 152–155)]]
+> - **1970s–1990s — 欧洲政策咨询光谱中的适度改良功能** 面对两德分裂与冷战现实，欧洲主流比较教育学者（如米特、安维勒）在[[Niklas Luhmann|卢曼]]激进疏离与罗宾逊激进干预之间确立温和立场，明确接受比较教育的“适度改良功能（melioristic function）”，以[[Navigation Metaphor in Comparative Education|航海隐喻]]提供方案预测而非操纵决策。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 95–96)]]
+> - **2000年代至今 — [[Historical Amnesia|历史健忘症]]反思与跨文化一线微观改良合流** 卡扎米亚斯诊断出学科在多元范式扩张表象下的“历史健忘症”，呼吁重构历史学与社会科学的综合纲领以守护改良主义的人文批判灵魂；同时，[[Intercultural Education|跨文化教育]]的崛起将改良主义引向教科书、课程与多元文化族群整合的一线教学论微观实践。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 155–156)]]; [[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]
+> - **2009 — [[Discourse|话语]]流通视阈下的制度性改良主义与去情境化诊断** [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] 提出话语流通五位置模型，揭示跨国机构（位置2）在改良主义与紧迫[[Pragmatic Paradigm|实用主义]]驱使下，将学术理论过度简化为五大支柱去情境化处方的制度性机制，深化了改良主义在跨国政策空间中的批判诊断。
 
 ---
 
@@ -343,17 +364,17 @@ updated: 2026-10-09
 
 > [!debates] 学术争议
 >
-> > [!axis] 改良主义是崇高[[Epistemology\|认识论]]基石还是非科学价值偏见
-> > 围绕早期先驱强烈的道德改良动机，学界形成了两大对立视角的学术交锋：[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 16–18, 33–34)]]
+> > [!axis] 改良主义是崇高[[Epistemology|认识论]]基石还是非科学价值偏见
+> > 围绕早期先驱强烈的道德改良动机，学界形成了两大对立视角的学术交锋：[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 16–18, 33–34)]]
 > >
-> > - **Harold Noah & Max Eckstein (1969)** 批评早期改良主义充斥着强烈的价值诱导设问与主观行政偏见，严重损害了经验调查的客观性，未能达到真正[[Value Neutrality\|价值无涉]]的科学标准。
-> > - **Pella Kaloyannaki & Andreas Kazamias (2009)** 坚决驳斥这种时代倒错的[[Scientism\|科学主义]]自满，论证指出早期科学原本归属于关涉心灵与道德的欧陆[[Geisteswissenschaften|精神科学]]；正是改良主义对人性尊严、社会正义与世界和平的崇高承诺，才赋予了比较求知以真正的灵魂与行动力。
+> > - **Harold Noah and Max Eckstein (1969)** 批评早期改良主义充斥着强烈的价值诱导设问与主观行政偏见，严重损害了经验调查的客观性，未能达到真正[[Value Neutrality|价值无涉]]的科学标准。
+> > - **Pella Kaloyannaki and Andreas Kazamias (2009)** 坚决驳斥这种时代倒错的[[Scientism|科学主义]]自满，论证指出早期科学原本归属于关涉心灵与道德的欧陆[[Geisteswissenschaften|精神科学]]；正是改良主义对人性尊严、社会正义与世界和平的崇高承诺，才赋予了比较求知以真正的灵魂与行动力。
 >
 > > [!axis] 规范性制度转置有效性 vs 跨国借用去情境化的合法性风险
 > > 针对改良主义在政策实践中的制度化形态，学者反思其外在应用后果：
 > >
-> > - **行政决策改良派（[[Victor Cousin\|库森]]、曼等）** 坚信优良制度具有可借鉴性，通过审慎剥离与改造，能够迅速将其转化为重构国家教育机器或打破国内利益僵局的强大动力。
-> > - **批判文化学派（[[Michael Sadler\|萨德勒]]、考恩等）** 警示单纯受改良迫切性驱使的[[Policy Borrowing\|政策借用]]，极易滑向去语境化的[[Artefact\|器物]]主义拼盘；若忽视教育制度与本土文化精神的共生性，势必引发严重的文化排异与制度异化。
+> > - **行政决策改良派（[[Victor Cousin|库森]]、曼等）** 坚信优良制度具有可借鉴性，通过审慎剥离与改造，能够迅速将其转化为重构国家教育机器或打破国内利益僵局的强大动力。
+> > - **批判文化学派（[[Michael Sadler|萨德勒]]、考恩等）** 警示单纯受改良迫切性驱使的[[Policy Borrowing|政策借用]]，极易滑向去语境化的[[Artefact|器物]]主义拼盘；若忽视教育制度与本土文化精神的共生性，势必引发严重的文化排异与制度异化。
 >
 > > [!axis] 历史客观语境阐释（实然） vs 规范性社会改良（应然）的认识论张力
 > > 围绕历史探究是否应当从属于现实的制度改良，学界形成了深刻的方法论分歧：
@@ -362,26 +383,32 @@ updated: 2026-10-09
 > > - **[[Andreas Kazamias]] (1961, 2009)** 援引巴特菲尔德（Herbert Butterfield）对“[[Whiggism|辉格史观]]”的经典批判指出，将历史探究绑架为规范改良工具极易造成以今律古的编年史偏差；主张必须在历史客观情境阐释（实然）与规范性社会改良诉求（应然）之间建立清晰边界，防止主观道德诉求削弱历史学求真与批判的认识论力量。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 40, 54–55)]]
 >
 > > [!axis] 古典人本道德改良主义 vs 现代技术官僚效能改良主义（Technocratic Meliorism）
-> > 争论焦点在于：比较教育的改良旨在促进不同民族国家间的精神理解、道德净化与人性解放，还是旨在为现代国家计划与技术官僚提供提高教育系统效能的[[Operationalization\|操作化]]工具？
+> > 争论焦点在于：比较教育的改良旨在促进不同民族国家间的精神理解、道德净化与人性解放，还是旨在为现代国家计划与技术官僚提供提高教育系统效能的[[Operationalization|操作化]]工具？
 > > 
-> > - **古典历史比较学派（Sadler, Kandel, Hans, Ulich）** 坚守唯心主义与人本主义，主张通过考掘教育背后的文化理想与[[Intangible Spiritual Forces\|无形精神力量]]，涵养哲学自省、捍卫民主自由并促进文明和平。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 59–60)]]
-> > - **战后实证科学学派（Noah & Eckstein, Holmes, Anderson）** 坚守功能主义与实证规划理性，主张清洗空洞的人文道德说教，以严密的大样本测量与情境假说检验为规划者提供立竿见影的政策效能工具。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 63–64, 67–68)]]
+> > - **古典历史比较学派（Sadler, Kandel, Hans, Ulich）** 坚守唯心主义与人本主义，主张通过考掘教育背后的文化理想与[[Intangible Spiritual Forces|无形精神力量]]，涵养哲学自省、捍卫民主自由并促进文明和平。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 59–60)]]
+> > - **战后实证科学学派（Noah & Eckstein, Holmes, Anderson）** 坚守功能主义与实证规划理性，主张清洗空洞的人文道德说教，以严密的大样本测量与情境假说检验为规划者提供立竿见影的政策效能工具。[[Argument_Mattheou_2009_ScientificParadigm|(Mattheou, 2009, pp. 63–64, 67–68)]]
 >
 > > [!axis] 改良主义、[[Ideology Critique|意识形态批判]]与严格[[Value Neutrality|价值中立]]的三元方法论抉择
-> > > 争论焦点在于：比较教育研究应当以改良实践为根本目的，还是应当立足意识形态批判揭露结构性压迫，抑或恪守纯粹的价值中立？[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p.128)]]
-> > >
-> > > - **Kazamias (1961)** 系统厘清比较教育学研究取向的基本轴线，指出学科不可回避在“改良主义（melioristic）、意识形态批判（ideological）抑或严格价值中立（strictly neutral）”之间作出认识论决断。
-> > > - **[[Argument_Rust_2009_Reflections|Rust et al. (2009)]]** 进一步强调，这三种价值立场构成了学科科学化进程中持续交织的根本方法论张力，任何单一[[Paradigm|范式]]都无法垄断对比较探究合法性的定义。
+> > 争论焦点在于：比较教育研究应当以改良实践为根本目的，还是应当立足意识形态批判揭露结构性压迫，抑或恪守纯粹的价值中立？[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p.128)]]
+> >
+> > - **Kazamias (1961)** 系统厘清比较教育学研究取向的基本轴线，指出学科不可回避在“改良主义（melioristic）、意识形态批判（ideological）抑或严格价值中立（strictly neutral）”之间作出认识论决断。
+> > - **[[Argument_Rust_2009_Reflections|Rust et al. (2009)]]** 进一步强调，这三种价值立场构成了学科科学化进程中持续交织的根本方法论张力，任何单一[[Paradigm|范式]]都无法垄断对比较探究合法性的定义。
+>
+> > [!axis] 紧迫实用改良主义 vs 本土情境复杂性：跨国政策处方的过度简化风险
+> > 争论国际组织基于改良主义与紧迫[[Pragmatic Paradigm|实用主义]]迅速推行的标准化政策方案，究竟是突破治理危机的“有效干预”，还是破坏受援国本土生态的“去情境化强加”。
+> >
+> > - **技术干预派** 强调发展中国家面临严峻的治理与质量危机，基于国际最佳实践的标准化改革处方能够突破本土官僚惰性，快速建立基本问责与质量基线。
+> > - **[[Discourse|话语]]批判派** [[Argument_Beech_2009_GlobalGarden|Beech (2009b, pp. 349–352)]] 指出，紧迫实用主义驱使下的改良主义导致跨国机构过度简化复杂理论，强行推销去语境化的五大支柱套件，既忽视了受援国社会历史语境，又闭合了本土多元改良探索的政策想象空间。
 
-相关[[Document|文献]]记录了对改良主义异化风险的警示：
+相关文献记录了对改良主义异化风险的警示：
 
 > [!critique] 批评索引
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 记录了战后科学实证学派对改良主义先验道德偏见的方法论批判，并提出了当代历史诠释学对技术官僚主义自满的反思与平反。
-> - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 剖析改良主义在 20 世纪下半叶由古典道德精神关怀向现代技术改良主义（国家规划合法化工具）的历史演变。
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009)]] — 记录了战后科学实证学派对改良主义先验道德偏见的方法论批判，并提出了当代历史诠释学对技术官僚主义自满的反思与平反。
+> - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 剖析改良主义在 20 世纪下半叶由古典道德精神关怀向现代技术改良主义（国家规划合法化工具）的历史演变。
 
 > [!warning] 适用局限
-> - **警惕滑向技术官僚主义的“处方开具”** 改良主义若脱离了批判性反思与对本土权力结构的体察，极易退化为简单开具药方（prescription-mongering）的浅层[[Pragmatic Paradigm\|实用主义]]。
-> - **警惕沦为跨国强权推销“最佳实践”的遮羞布** 在当代全球教育治理中，若缺乏对全球不平等权力结构的批判，改良[[Discourse|话语]]可能被国际金融机构与霸权国家利用，成为强推新自由主义标准化政策的[[Disciplina and Doctrina\|规训]]工具。
+> - **警惕滑向技术官僚主义的“处方开具”** 改良主义若脱离了批判性反思与对本土权力结构的体察，极易退化为简单开具药方（prescription-mongering）的浅层[[Pragmatic Paradigm|实用主义]]。
+> - **警惕沦为跨国强权推销“最佳实践”的遮羞布** 在当代全球教育治理中，若缺乏对全球不平等权力结构的批判，改良[[Discourse|话语]]可能被国际金融机构与霸权国家利用，成为强推新自由主义标准化政策的[[Disciplina and Doctrina|规训]]工具。
 
 ---
 
@@ -396,24 +423,28 @@ updated: 2026-10-09
 > | [[Policy Borrowing\|政策借用]] | 概念 | 阐明改良主义如何转化为具体的跨国制度借鉴行为、机制转置与合法化修辞。 |
 > | [[Proto-Scientific Motif\|准科学母题]] | 概念 | 与行政改良主义母题并列为 19 世纪比较教育发端期的两大奠基母题。 |
 > | [[Scientific Paradigm\|比较教育学科学范式]] | 概念 | 展现战后科学化运动对古典改良主义的批判及其自身向现代技术改良主义的蜕变。 |
-> | [[Auslandspadagogik\|外国教育学]] | 概念 | 构成了 19 世纪改良主义探究在欧陆与美洲[[Document\|文献]]形态上的主要经验承载形式。 |
+> | [[Auslandspadagogik\|外国教育学]] | 概念 | 构成了 19 世纪改良主义探究在欧陆与美洲文献形态上的主要经验承载形式。 |
 > | [[Comparative History of Comparative Education\|比较教育学的比较史]] | 概念 | 将改良主义确立为解构学科现代主义发端与重构比较[[Epistemology\|认识论]]问题域的核心主线。 |
-> | [[Marc-Antoine Jullien\|马克-安托万·朱利安]] | 人物 | 开创准科学人道主义改良母题，将经验分类服务于全人道德[[Bildung\|教化]]与世界永久和平。 |
+> | [[Marc-Antoine Jullien\|马克-安托万·朱利安]] | 人物 | 开创准科学人道主义改良母题，将经验分类服务于全人道德教化与世界[[Perpetual Peace\|永久和平]]。 |
 > | [[Victor Cousin\|维克多·库森]] | 人物 | 开创欧陆官方行政改良路径，以国家公共资源法哲学将普鲁士经验转化为法国[[Guizot Law of 1833\|基佐法案]]。 |
-> | [[Horace Mann\|霍勒斯·曼]] | 人物 | 开创北美政治合法化改良路径，将欧洲公学卓越实绩[[Transfer Translation Transformation\|转译]]为击溃国内保守派的论据。 |
+> | [[Horace Mann\|霍勒斯·曼]] | 人物 | 开创北美政治合法化改良路径，将欧洲公学卓越实绩转译为击溃国内保守派的论据。 |
 > | [[Wolfgang Mitter\|沃尔夫冈·米特]] | 人物 | 在学科史中确立[[Navigation Metaphor in Comparative Education\|航海隐喻]]下“适度改良功能”（melioristic function）的政策咨询伦理，并阐明跨文化教育的一线教学改良诉求。 |
-> | [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] | 论证 | 提供改良主义本体定义、大西洋两岸双重机制分化与批判战[[Postpositivism\|后实证主义]]起源神话的系统证据。 |
+> | [[Jason Beech]] | 人物 | 提出[[Discourse\|话语]]流通五位置模型，揭示国际机构在改良主义与紧迫[[Pragmatic Paradigm\|实用主义]]驱动下的去情境化处方机制。 |
+> | [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] | 论证 | 提供改良主义本体定义、大西洋两岸双重机制分化与批判战[[Postpositivism\|后实证主义]]起源神话的系统证据。 |
 > | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 系统梳理政策咨询光谱中航海隐喻对适度改良功能的坚守，以及[[Intercultural Education\|跨文化教育]]一线实践改良进路。 |
 > | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 论证 | 梳理比较教育学方法论争鸣，将改良主义置于其与[[Ideology Critique\|意识形态批判]]、严格[[Value Neutrality\|价值中立]]的三元坐标系中定位。 |
+> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 论证 | 提供话语流通视阈下制度性改良主义、紧迫实用主义与全球教育五大支柱过度简化的实证论据。 |
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 考证教育改良主义在 19 世纪大西洋两岸比较教育发端期的统摄地位，系统揭示其实定法直接转置与本土政治合法化论证的双重演进机制，批判战[[Postpositivism\|后实证主义]]对早期改良探究的贬抑神话。
-> - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] — 梳理[[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、汉斯与[[Robert Ulich\|乌利希]]等历史学派学者的历史改良主义进路，探讨外国探究涵养本土哲学态度与民主自省的机制，同时反思改良诉求与历史客观性之间的张力及[[Whiggism\|辉格史观]]风险。
-> - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 揭示古典历史比较学派将改良主义与唯心主义、[[Intangible Spiritual Forces\|无形精神力量]]相绑定的思想前提，剖析战后实证[[Scientific Paradigm\|科学范式]]对历史道德说教的清算，以及自身向服务国家五年计划与技术官僚效能控制的技术改良主义（Technocratic Meliorism）的深层蜕变。
-> - [[Argument_Mitter_2009_Europe\|Mitter (2009)]] — 欧洲两百年比较教育学科史考察，系统厘清了比较教育政策咨询立场光谱中坚守“适度改良功能”（melioristic function）的[[Navigation Metaphor in Comparative Education|航海隐喻]]定位，并剖析了世纪之交[[Intercultural Education|跨文化教育]]兴起所带来的一线教学与多元文化整合改良进路。
-> - [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] — 梳理比较教育学科方法论争鸣，将卡扎米亚斯（Kazamias, 1961）提出的“改良主义、意识形态抑或严格[[Value Neutrality|价值中立]]”界定为贯穿学科发展的三大核心取向之一。
-> - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 卡扎米亚斯系统阐明改良主义从启蒙道德改良、历史哲学、战后行政治理“[[Social Science as Legitimation Alibi|合法化借口]]”到批判冲突[[Paradigm|范式]]下“批判解放型改良主义”的四重代际演进，并以[[Document|文献]]计量数据诊断历史维度[[Attrition|流失]]导致的[[Historical Amnesia|学科历史健忘症]]危机（pp. 139–156）。
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009)]] — 考证教育改良主义在 19 世纪大西洋两岸比较教育发端期的统摄地位，系统揭示其实定法直接转置与本土政治合法化论证的双重演进机制，批判战[[Postpositivism|后实证主义]]对早期改良探究的贬抑神话。
+> - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 梳理[[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、汉斯与[[Robert Ulich|乌利希]]等历史学派学者的历史改良主义进路，探讨外国探究涵养本土哲学态度与民主自省的机制，同时反思改良诉求与历史客观性之间的张力及[[Whiggism|辉格史观]]风险。
+> - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 揭示古典历史比较学派将改良主义与唯心主义、[[Intangible Spiritual Forces|无形精神力量]]相绑定的思想前提，剖析战后实证[[Scientific Paradigm|科学范式]]对历史道德说教的清算，以及自身向服务国家五年计划与技术官僚效能控制的技术改良主义（Technocratic Meliorism）的深层蜕变。
+> - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 欧洲两百年比较教育学科史考察，系统厘清了比较教育政策咨询立场光谱中坚守“适度改良功能”（melioristic function）的[[Navigation Metaphor in Comparative Education|航海隐喻]]定位，并剖析了世纪之交[[Intercultural Education|跨文化教育]]兴起所带来的一线教学与多元文化整合改良进路。
+> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 梳理比较教育学科方法论争鸣，将卡扎米亚斯（Kazamias, 1961）提出的“改良主义、意识形态抑或严格[[Value Neutrality|价值中立]]”界定为贯穿学科发展的三大核心取向之一。
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯系统阐明改良主义从启蒙道德改良、历史哲学、战后行政治理“[[Social Science as Legitimation Alibi|合法化借口]]”到批判冲突[[Paradigm|范式]]下“批判解放型改良主义”的四重代际演进，并以文献计量数据诊断历史维度流失导致的[[Historical Amnesia|学科历史健忘症]]危机（pp. 139–156）。
+> - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 提出[[Discourse|话语]]流通模型，揭示国际组织在制度性改良主义与紧迫[[Pragmatic Paradigm|实用主义]]驱使下将复杂理论过度简化为去情境化全球处方的机制。
+

@@ -18,7 +18,6 @@ related_concepts:
   - "[[Avatar]]"
   - "[[Retrotopia]]"
   - "[[Dialogue in Education]]"
-  - "[[Document]]"
   - "[[Second-generation Ethnic Policy]]"
   - "[[Grand Theory]]"
   - "[[Pragmatic Paradigm]]"
@@ -52,7 +51,7 @@ title: "Argument_Bulag_2024_CE"
 argument_key: "Argument_Bulag_2024_CE"
 argument_display_title: "The wheel of history and minorities' 'self-sacrifice' for the Chinese nation"
 argument_kind: "journal-article"
-argument_related_count: 24
+argument_related_count: 23
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -138,7 +137,7 @@ citation_aliases:
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > | --- | --- |
-> | **政策[[Document\|文献]]** | 中共官方关于内蒙古双语教育改革的文件、国家通用语言文字推广法令、以及新疆和西藏相关的早期同化性语言政策法令。 |
+> | **政策文献** | 中共官方关于内蒙古双语教育改革的文件、国家通用语言文字推广法令、以及新疆和西藏相关的早期同化性语言政策法令。 |
 > | **学术文本** | 包括赵汀阳《天下体系》、[[Pan Yue\|潘岳]]“[[Wuhu Ruhua\|五胡入华]]”历史叙事文集、费孝通“多元一体”讲稿，以及西方建构论学者（如杜磊，Dru Gladney；墨磊宁，Thomas Mullaney）和人权学者（如《新疆元年》）的专著与报告。 |
 > | **个案材料** | 2020 年内蒙古双语改革抗议记录、11 例内蒙古少数民族自杀个案统计，重点关注基层蒙古族干部苏日娜（Surnaa）的遗书原件翻译文本。 |
 > | **研究性质** | 跨学科概念建构与批评话语分析，并非一手实证定量/定性[[Fieldwork\|田野研究]]。 |

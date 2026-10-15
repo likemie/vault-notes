@@ -12,7 +12,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 14
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Learning Gain]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Critical Thinking]]"
-  - "[[Document]]"
   - "[[International Education]]"
 related_theories: []
 related_methods: []
@@ -35,7 +34,6 @@ related_instruments:
   - "[[ETS Proficiency Profile]]"
   - "[[ETS HEIghten Critical Thinking Assessment]]"
   - "[[Test of Teaching Knowledge]]"
-  - "[[Consensual Assessment Technique]]"
 related_persons: []
 related_facts:
   - "[[American Council on Education]]"
@@ -46,7 +44,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Educational Testing Service
@@ -76,6 +74,6 @@ updated: 2026-09-17
 ## 影响与后果
 
 > [!finding-cards] 影响与后果
-> - **行业影响** 奠定了现代心理测量学、计算机自适应测试（[[Consensual Assessment Technique\|CAT]]）与自动化评分技术的国际工业级标准。
+> - **行业影响** 奠定了现代心理测量学、计算机自适应测试（CAT）与自动化评分技术的国际工业级标准。
 > - **政策影响** 长期深度参与美国联邦与各州教育问责政策制定，为全球高等教育[[Learning Gain\|增值评价]]提供了最主要的标准化客观测量工具。
-> - **知识影响** 在《心理测量学》与教育评价领域发表了数以千计的奠基性[[Document\|文献]]，是[[International Education\|国际教育]]实证研究的重要知识策源地。
+> - **知识影响** 在《心理测量学》与教育评价领域发表了数以千计的奠基性文献，是[[International Education\|国际教育]]实证研究的重要知识策源地。

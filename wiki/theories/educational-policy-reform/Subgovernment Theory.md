@@ -9,7 +9,7 @@ aliases:
 summary: "阐释政策制定由国会专门委员会、行政官僚机构与特定利益集团三方紧密结盟所垄断的政治学分析框架，揭示封闭铁三角对专业话语、科研资助与法定标准的排他性支配"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 22
+theory_related_count: 20
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -24,14 +24,12 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Paradigm]]"
-  - "[[Document]]"
   - "[[Discourse]]"
   - "[[Scientific Paradigm]]"
   - "[[Epistemology]]"
   - "[[Whole Language]]"
   - "[[Research Question]]"
   - "[[Technical Rationality]]"
-  - "[[Hypothesis]]"
   - "[[Open-Mindedness]]"
 related_theories:
   - "[[Pluralism]]"
@@ -52,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-24
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Subgovernment Theory
@@ -77,7 +75,7 @@ updated: 2026-10-07
 > [!theory-origin] 提出者如何形成理论
 > - **提出者与原始文本** 休·赫克洛（Hugh Heclo）在 1978 年对其做出了经典政治学系统界定；后经斯黛拉·西奥杜卢（Stella Theodoulou）与马修·卡恩（Matthew Cahn）在 1995 年将其提炼为公共政策制定的基础类型；史蒂文·施特劳斯（Steven Strauss）与杰奎琳·埃德蒙森（Jacqueline Edmondson）在 2001 年与 2005 年将其深度引入美国基础教育与阅读政策分析。
 > - **原初问题** 为何美国联邦教育立法会固执推行单一且饱受学界争议的拼读与硬科学实证[[Paradigm|范式]]，而广大基层教师和多元研究者的抗议屡屡失效。
-> - **理论资源与材料** 汇集了美国国会委员会与联邦行政机构的权力分配机制、商业游说网络的研究，以及关于[[Punctuated Equilibrium Theory|政策垄断]]和纳税人资金滥用的批评[[Document|文献]]。
+> - **理论资源与材料** 汇集了美国国会委员会与联邦行政机构的权力分配机制、商业游说网络的研究，以及关于[[Punctuated Equilibrium Theory|政策垄断]]和纳税人资金滥用的批评文献。
 > - **形成路径** 通过追踪[[National Institute of Child Health and Human Development|国家儿童健康与人类发展研究所]]（National Institute of Child Health and Human Development, NICHD）、[[House Committee on Education and the Workforce|众议院教育与劳动力委员会]]核心政客以及麦格劳-希尔（McGraw-Hill）等商业教材巨头在立法中的互动，确立了次政府理论在教育政策中的实证适用性。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 8–10)]]
 
 ### 理论源流与演变
@@ -137,7 +135,7 @@ updated: 2026-10-07
 >
 > | 理论依据 | 分析维度与提问 | 可观察线索与材料 | 判读规则与边界 |
 > |:---|:---|:---|:---|
-> | 铁三角共生结构（Heclo, 1978; [[Argument_Edmondson_2005_EPAA\|Edmondson, 2005, p. 8]]） | **联盟构成与封闭度** 立法专委会、联邦机构与商业集团之间是否存在人员穿梭与利益互惠？ | 国会委员会核心幕僚与利益组织（如右翼阅读基金会、出版商顾问团）的任职重合度。 | 若核心政策制定者同时兼任商业智库或赞助基金会的高管，强力支持次政府垄断[[Hypothesis\|假设]]。 |
+> | 铁三角共生结构（Heclo, 1978; [[Argument_Edmondson_2005_EPAA\|Edmondson, 2005, p. 8]]） | **联盟构成与封闭度** 立法专委会、联邦机构与商业集团之间是否存在人员穿梭与利益互惠？ | 国会委员会核心幕僚与利益组织（如右翼阅读基金会、出版商顾问团）的任职重合度。 | 若核心政策制定者同时兼任商业智库或赞助基金会的高管，强力支持次政府垄断假设。 |
 > | 专家话语垄断（[[Argument_Edmondson_2005_EPAA\|Edmondson, 2005, pp. 8–9]]） | **知识规制与准入门槛** 官方采信的研究是否来自单一排他的资助体系？反对意见是否被制度化排除？ | 听证会邀请学者的科研资金来源、国家专家评审委员会成员的同质性。 | 若专家组成长期固化且高度依赖单一行政机构科研拨款，表明政策受到次政府知识垄断控制。 |
 > | 财政利益闭环（Dryzek, 1996; [[Argument_Edmondson_2005_EPAA\|Edmondson, 2005, p. 9]]） | **资金流向与市场受益者** 联邦专项拨款的最终受益者是否集中于特定同盟企业？ | 州与学区使用联邦拨款采购的教材品牌与评估系统的市场份额。 | 联邦拨款若强制要求采购特定商业产品，即构成次政府理论中的利益输送典型证据。 |
 

@@ -7,7 +7,7 @@ title: "Argument_Edovald_Nevill_2021_ECNUROE"
 argument_key: "Argument_Edovald_Nevill_2021_ECNUROE"
 argument_display_title: "Working Out What Works: The Case of the Education Endowment Foundation in England"
 argument_kind: "journal-article"
-argument_related_count: 135
+argument_related_count: 132
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -48,11 +48,9 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Statistical Analysis Plan]]"
   - "[[Publication Bias]]"
-  - "[[Attrition]]"
   - "[[Seed Funding]]"
+  - "[[Attrition]]"
   - "[[Pride in Learning]]"
-  - "[[Document]]"
-  - "[[Hypothesis]]"
   - "[[Reproducibility Crisis]]"
   - "[[Clinical Trial]]"
   - "[[Model Dependency]]"
@@ -108,7 +106,6 @@ related_methods:
   - "[[Classroom Observation]]"
   - "[[Covariate Adjustment]]"
   - "[[Questionnaire]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Simple Difference in Means Model]]"
   - "[[Ordinary Least Squares]]"
   - "[[Hierarchical Linear Model]]"
@@ -251,7 +248,7 @@ updated: 2026-10-04
 
 #### 1. 内在专业声誉动员与外在经济补偿相协同，破除学校伦理阻力并将试验流失率控制在安全阈值
 
-要确立国家尺度大规模教育试验的可行性，首要前提在于在实证层面击碎一线学校对“抛硬币[[Random Assignment|随机化]]”的伦理抵触与高[[Attrition|流失]]风险。（pp. 48–49）
+要确立国家尺度大规模教育试验的可行性，首要前提在于在实证层面击碎一线学校对“抛硬币[[Random Assignment|随机化]]”的伦理抵触与高流失风险。（pp. 48–49）
 
 > [!challenges] 大规模学校试验启动初期的制度与伦理屏障（Oakley, 2006; Styles & Torgerson, 2019）
 > - **伦理禁忌假定** 传统学界断言对未成年学生进行[[Random Assignment\|随机分配]]存在伦理禁忌，公立学校绝无可能自愿配合严格的对照试验。
@@ -266,10 +263,10 @@ updated: 2026-10-04
 
 针对严重的受试者流失威胁，EEF 探索了内在专业认同与外在经济补偿相协同的综合动员治理方案。（pp. 49–50）
 
-> [!case] 动员机制创新：从 24% 早期高[[Attrition\|流失]]到 EEF 研究[[Partnership Schools Kura Hourua\|伙伴学校]]认证
-> - **早期样本流失危机与效度威胁** 在 EEF 成立之初（2011–2012 年第一批资助项目）开展的教育试验中，学生平均流失率高达 24%（Dawson et al., 2017）。学校在被随机分配到无干预的对照组后，往往产生强烈的受挫感与抵触情绪，频繁单方面退出随访；加之基线与[[Pre-test and Post-test\|后测]]数据收集繁琐，导致大面积样本脱落，严重破坏了随机化建立的基线平衡并大幅侵蚀了统计功效。
+> [!case] 动员机制创新：从 24% 早期高流失到 EEF 研究[[Partnership Schools Kura Hourua\|伙伴学校]]认证
+> - **早期[[Attrition|样本流失]]危机与效度威胁** 在 EEF 成立之初（2011–2012 年第一批资助项目）开展的教育试验中，学生平均流失率高达 24%（Dawson et al., 2017）。学校在被随机分配到无干预的对照组后，往往产生强烈的受挫感与抵触情绪，频繁单方面退出随访；加之基线与[[Pre-test and Post-test\|后测]]数据收集繁琐，导致大面积样本脱落，严重破坏了随机化建立的基线平衡并大幅侵蚀了统计功效。
 > - **基于社会心理学的内在动机动员** 借鉴让·梯若尔与罗兰·贝纳布（Tirole & Benabou, 2006）的内在动机理论，EEF 认识到中小学校长与一线教师具备崇高的公共服务利他倾向与专业改善愿望。EEF 彻底摒弃将学校视作被动实验对象的传统模式，将学校重塑为循证科学研究的平等合作者：通过举办面向校领导的专门招募说明会，编制严谨而通俗的试验权责指引，向校长清晰阐明严密科研对改善全行业教学质量的战略价值；更为重要的是，EEF 创设了“EEF 研究伙伴学校”官方认证机制，向参与学校颁发由基金会首席执行官签署的装裱证书与用于学校官方网站及招生简章的专属徽标，极大地激发了学校参与前沿科研的专业[[Pride in Learning\|自豪]]感与社会声誉。
-> - **外在经济补偿与对照组依从度维护** 针对对照组学校承担的额外管理与测试负荷，依据卡尔蒂克·穆拉利德哈兰等（Muralidharan & Sundararaman, 2011）关于外部激励的实证[[Document\|文献]]，EEF 制度化为对照组学校提供合理的财务补偿（通常为每所学校 500 至 1,500 英镑的津贴），用于支付代课教师课时费与数据录入行政工时，有效弥补了对照组“无直接收益却承担繁重测试”的失衡心理，遏制了对照组流失倾向。
+> - **外在经济补偿与对照组依从度维护** 针对对照组学校承担的额外管理与测试负荷，依据卡尔蒂克·穆拉利德哈兰等（Muralidharan & Sundararaman, 2011）关于外部激励的实证文献，EEF 制度化为对照组学校提供合理的财务补偿（通常为每所学校 500 至 1,500 英镑的津贴），用于支付代课教师课时费与数据录入行政工时，有效弥补了对照组“无直接收益却承担繁重测试”的失衡心理，遏制了对照组流失倾向。
 > - **制度化规程沉淀与全英规模化动员** 这些长期实践经验最终凝练为 EEF 发布的行业标准《招募与留存指南》（Guidance on Recruitment and Retention; The EEF, 2019a）。截至 2019 年，全英格兰已有超过半数的中小学（逾 14,000 所学校）自愿参与过 EEF 资助的严谨评估；在后续已发表的评估报告中，高达 85% 的试验将样本总流失率稳健控制在 30% 以内，达到了 3 把挂锁以上的极高数据安全级别。（pp. 49–51）
 
 学校动员与样本留存的可行性确立之后，构建公信力证据体系的核心矛盾随之深化：如何防止研究沦为方案开发者的宣传锦标赛，彻底根除长期困扰社会科学的研发者利益冲突？（pp. 50–51）
@@ -296,7 +293,7 @@ updated: 2026-10-04
 > [!case] 研发者应对零结果的学术重析与发表偏倚防范（Burgess et al., 2019）
 > - **干预方案与试验评估流程** 英国布里斯托尔大学学者西蒙·伯吉斯（Simon Burgess）团队研发了一项旨在通过结构化“教师同行[[Classroom Observation|课堂观察]]”促进教学改进的项目，获 EEF 资助开展大规模多中心 RCT。在项目执行中，EEF 严格执行三方独立协议，将方案实施全权委托给原开发团队，而将样本随机化分配、后测数据采集与统计建模交由完全独立的第三方大学评估团队执行，并在国际平台预注册了详尽的[[Statistical Analysis Plan\|统计分析计划]]（SAP）。
 > - **官方独立评估的零结果判决** 经过严格的全样本追踪与[[Covariate Adjustment\|协变量调整]]，独立评估团队最终发布了权威报告：该同行观察项目对学生普通中等教育证书（General Certificate of Secondary Education, GCSE）全国统考的数学与英语成绩均未产生统计学显著的积极促进作用，效应量点估计值紧密贴近于零（$ES \approx 0.00, p > .05$），证实该干预在[[Business as Usual\|常态教学]]条件下未能带来实质性学业附加值。依据强制全量公开原则，该零结果报告被无条件公布于 EEF 官网。
-> - **开发者的二次挖掘与外部积极再发表** 面对官方独立评估的零成效定性，项目研发团队难以接受理论[[Hypothesis\|假设]]与巨额投入落空的结局。他们绕开 EEF 独立评估团队，自行提取次要[[Questionnaire\|问卷]]指标与特定子群体数据进行事后数据挖掘（Data Dredging），聚焦于教师自报的教学态度改善等非预注册软性指标，并在外部同行评审经济学期刊上单独发表了一篇宣称该项目具有积极成效的学术论文（Burgess et al., 2019），形成了同一试验在官方平台为“零结果”、而在外部学术期刊为“正向促进”的叙事断裂。
+> - **开发者的二次挖掘与外部积极再发表** 面对官方独立评估的零成效定性，项目研发团队难以接受理论假设与巨额投入落空的结局。他们绕开 EEF 独立评估团队，自行提取次要[[Questionnaire\|问卷]]指标与特定子群体数据进行事后数据挖掘（Data Dredging），聚焦于教师自报的教学态度改善等非预注册软性指标，并在外部同行评审经济学期刊上单独发表了一篇宣称该项目具有积极成效的学术论文（Burgess et al., 2019），形成了同一试验在官方平台为“零结果”、而在外部学术期刊为“正向促进”的叙事断裂。
 > - **发表偏倚防范边界与预注册权威基准** 该典型案例深刻揭示了即便建立了最严格的独立评估隔离墙，研发者为迎合学术锦标赛与商业推广而制造外部[[Publication Bias\|发表偏倚]]的风险依然顽固存在。它有力证明了强制方案预注册（[[ISRCTN\|国际标准随机对照试验编码]]平台，International Standard Randomised Controlled Trial Number, ISRCTN）与无条件公开独立评估报告的基石价值：若无官方独立报告作为公开锚定基准，决策者与学校管理层极易被研发者筛选发表的外部期刊论文所误导。EEF 为此在立项协议中增设了“期刊投稿前由基金会先行技术审查”的刚性条款，以制度化手段捍卫因果证据的纯洁性。（pp. 51–52）
 
 三方独立协议切断了研发者的直接干预，但若缺乏对统计建模与发表环节的全程锁定，研究者依然能够通过事后模型微调制造隐性偏倚，治理机制必须延伸至预注册与微观数据归档。（pp. 51–52）
@@ -309,7 +306,7 @@ updated: 2026-10-04
 > 实证数据显示，学术界正向显著结果的发表概率比零结果高出 40 个百分点；缺乏全程透明锁定的试验极易受事后数据挖掘与模型操纵侵蚀，陷入严重的发表偏倚。
 
 > [!feature] 证据全链条透明与可复现性制度的三大支柱（pp. 51–53）
-> - **方案预注册与 ISRCTN 登记** 借鉴[[Clinical Trial\|临床试验]]规范，试验开展前必须公开发布预先制定的评估方案与[[Statistical Analysis Plan\|统计分析计划]]（SAP），并在国际标准随机对照试验[[Coding in Qualitative Research\|编码]]平台（ISRCTN）完成登记。
+> - **方案预注册与 ISRCTN 登记** 借鉴[[Clinical Trial\|临床试验]]规范，试验开展前必须公开发布预先制定的评估方案与[[Statistical Analysis Plan\|统计分析计划]]（SAP），并在国际标准随机对照试验编码平台（ISRCTN）完成登记。
 > - **CONSORT 报告标准全面推行** 基于试验报告统一标准（Consolidated Standards of Reporting Trials, CONSORT）制定模板，深度对接社会与心理干预扩展版（Consolidated Standards of Reporting Trials - Social and Psychological Interventions, [[CONSORT-SPI]]）标准，无论成效显著与否，所有评估报告均无条件全量公开（Nevill, 2016; Montgomery et al., 2018）。
 > - **首创 NPD 试验微观数据库** 依托英格兰[[National Pupil Database\|国家学生数据库]]（NPD）建立全球首个 105 项教育试验微观开放档案库，打通试验样本与官方终结性统考的长效追踪通道。
 
@@ -349,10 +346,10 @@ updated: 2026-10-04
 > | 评估维度 | 核心核查内容 | 方法学支撑文献与工具要求 |
 > |---|---|---|
 > | **干预方案要素界定** | 明确界定干预的核心要素（Active Ingredients）、理论变革模型（[[Theory of Change\|Theory of Change]]）与不可替代的操作规程 | 对照 [[TIDieR]] 准则（Hoffmann et al., 2014）进行标准化解构，避免方案模糊不清。 |
-> | **[[Implementation Fidelity\|实施保真度]]与适应性** | 评估教师在多大程度上忠实执行了原设计；识别基层学校做出的良性校本调试与破坏性执行偏离 | 依据 Durlak & DuPre (2008) 框架，通过课堂观察[[Coding in Qualitative Research\|编码]]与培训出勤追踪落地保真度。 |
+> | **[[Implementation Fidelity\|实施保真度]]与适应性** | 评估教师在多大程度上忠实执行了原设计；识别基层学校做出的良性校本调试与破坏性执行偏离 | 依据 Durlak & DuPre (2008) 框架，通过课堂观察编码与培训出勤追踪落地保真度。 |
 > | **干预剂量与参与依从性** | 记录参与者实际接受干预的频次、时长与课时达标率；测量从[[Intent-to-Treat Analysis\|意向性治疗分析]]（Intent-to-Treat, ITT）到实际处理的依从衰减 | 线上学习日志、签到表；在统计上采用工具变量[[Complier Average Causal Effect\|依从者平均因果效应]]（Complier Average Causal Effect, CACE）估计实际接受干预效应。 |
 > | **对照组常态活动追踪** | 详尽调查对照组学校在实验期间开展的[[Business as Usual\|常态教学]]具体内容，排查是否存在自发竞品污染 | 对照组教师专项[[Questionnaire\|问卷]]与访谈，准确判定干预组相比于常态教学的真实净差异。 |
-> | **因果机制与中介路径** | 检验理论预设的中介变量是否被干预激活；探究干预如何通过师生互动、认知或动机路径最终影响学业 | 过程测验、定性访谈；在模型中验证因果中介效应与[[Hypothesis\|假设]]路径。 |
+> | **因果机制与中介路径** | 检验理论预设的中介变量是否被干预激活；探究干预如何通过师生互动、认知或动机路径最终影响学业 | 过程测验、定性访谈；在模型中验证因果中介效应与假设路径。 |
 > | **情境适应性与实施成本** | 探究不同生源背景、学段与学校文化对干预落地的制约；精确核算时间、物资与财政成本 | 财务审计、校长访谈，为工具包提供直观的成本分级参数。 |
 
 过程评估的核心功能不仅在于采集定性反馈，更在于与量化统计模型有机嵌合，使黑箱试验演进为机制透明的严密求证。（p. 53）
@@ -512,7 +509,7 @@ RCT 绝非全能的方法学灵丹妙药，强推随机化在特定决策层级�
 
 > [!finding-cards] 核心战略与方法学发现
 > 1. **大规模学校 [[Randomised Controlled Trials\|RCT]] 资助机制完全可行** [[Education Endowment Foundation\|EEF]] 八年间动员了英格兰过半数公立学校参与 150 余项 RCT（平均样本逾 8,000 人），证明国家中介机构能够成功建立大规模试验动员与运行体系。（pp. 48–50）
-> 2. **独立三方协议与[[Preregistration\|预注册]]树立防偏倚标杆** 专家库竞标、三方协议隔离与 [[ISRCTN]] 预注册彻底根除了研发者自评利益冲突，85% 的已发表报告获得 3 把锁及以上安全评级（[[Attrition\|流失]]率 $<30\%$）。（pp. 50–52）
+> 2. **独立三方协议与[[Preregistration\|预注册]]树立防偏倚标杆** 专家库竞标、三方协议隔离与 [[ISRCTN]] 预注册彻底根除了研发者自评利益冲突，85% 的已发表报告获得 3 把锁及以上安全评级（流失率 $<30\%$）。（pp. 50–52）
 > 3. **[[Implementation and Process Evaluation\|过程评估]]与高[[External Validity\|外部效度]]测验是识别机制的生命线** 必须将量化 RCT 与实施与过程评估（IPE）深度融合以区分实施失败与理论无效，且必须使用与国家统考高相关的测试以杜绝测验自编虚高。（pp. 53–54）
 > 4. **常态基线高企与规模化稀释催生多元设计转型** 商业干预平均效应微弱（$d=0.06$）反映了[[Business as Usual\|常态教学]]的高基线，而规模化推进极易因培训稀释而丧失效应；未来亟需转向[[Realist Evaluation\|现实主义试验]]及学校与[[Teacher Choices\|教师选择]]的差异化设计。（pp. 55–57）
 
@@ -566,7 +563,7 @@ RCT 绝非全能的方法学灵丹妙药，强推随机化在特定决策层级�
 > [!warning]
 > - **机构行动者的内在视角局限** 论述基于 [[Education Endowment Foundation\|EEF]] 评估部门主管与执行人员在机构内部工作与决策的直接经验，带有内部行动者的观察视角与经验边界。（p. 58）
 > - **[[Publication Bias\|发表偏倚]]的外部再发生风险** 尽管 EEF 实行了无条件全量公开报告制度，但当项目遭遇零结果时，外部开发者仍可能绕开 EEF 另行在学术期刊发表粉饰后的积极结果，基金会在评估周期结束后对此类外部再发表缺乏实质约束力。（p. 52）
-> - **[[EEF Padlock Security Rating\|挂锁安全评级]]的单指标争议** 挂锁评级将复杂的研究质量、[[Attrition\|流失]]风险与效度威胁压缩为单一维度的序数评分，在学术界存在简化方法学复杂性与忽视[[Confidence Interval\|置信区间]]精度的争议。（p. 57）
+> - **[[EEF Padlock Security Rating\|挂锁安全评级]]的单指标争议** 挂锁评级将复杂的研究质量、流失风险与效度威胁压缩为单一维度的序数评分，在学术界存在简化方法学复杂性与忽视[[Confidence Interval\|置信区间]]精度的争议。（p. 57）
 > - **[[Randomised Controlled Trials\|RCT]] 设计对特定政策问题的局限** 大规模学校 RCT 无法回答学校拒绝[[Random Assignment\|随机分配]]的宏观组织变革（如能力分班、上课时间调整）以及教师日常微观决策（如[[Homework\|作业]]批改方式），替代性设计（[[School Choice\|学校选择]]与[[Teacher Choices\|教师选择]]）仍处于机制探索与试点阶段。（pp. 55–56）
 
 ---

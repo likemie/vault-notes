@@ -10,7 +10,7 @@ summary: "美国理论物理学家，二战期间曼哈顿工程洛斯阿拉莫�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 41
+person_related_count: 40
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -51,7 +51,6 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Vannevar Bush]]"
-  - "[[Alfred Nobel]]"
   - "[[Percy Williams Bridgman]]"
   - "[[Lee Felsenstein]]"
   - "[[Stewart Brand]]"
@@ -75,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # J. Robert Oppenheimer
@@ -115,7 +114,7 @@ updated: 2026-10-09
 
 > [!timeline] 生平与职涯发展
 > - **1904年** 出生于美国纽约市一个富裕的德裔犹太家庭，早年在非宗派的伦理文化学校接受启蒙，展现出对化学、矿物学与古典文学的浓厚兴趣。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, pp. 16–18)]]
-> - **1925年** 以最高荣誉毕业于哈佛大学化学专业，本科期间师从[[Alfred Nobel|诺贝尔]]物理学奖得主[[Percy Williams Bridgman|珀西·威廉斯·布里奇曼]]（Percy Williams Bridgman），随后赴英国剑桥大学卡文迪许实验室与德国哥廷根大学深造理论物理。
+> - **1925年** 以最高荣誉毕业于哈佛大学化学专业，本科期间师从诺贝尔物理学奖得主[[Percy Williams Bridgman|珀西·威廉斯·布里奇曼]]（Percy Williams Bridgman），随后赴英国剑桥大学卡文迪许实验室与德国哥廷根大学深造理论物理。
 > - **1927年** 师从马克斯·玻恩（Max Born）获哥廷根大学哲学博士学位，提出分子物理学著名的玻恩-奥本海默近似（Born-Oppenheimer approximation）。
 > - **1929–1942年** 任教于加利福尼亚大学伯克利分校与加州理工学院，创立美国西海岸理论物理学派，在量子电动力学、核物理、中子星与黑洞理论（奥本海默-沃尔科夫极限）领域做出开创性贡献。
 > - **1942–1945年** 接受美国陆军格罗夫斯将军与[[Vannevar Bush|万尼瓦尔·布什]]委任，出任[[Manhattan Project|曼哈顿工程]]洛斯阿拉莫斯实验室（Project Y）科学主任，统领数千名顶尖科学家与工程师攻坚核裂变武器，1945 年 7 月 16 日主导完成人类首次“三位一体”核试验。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, p. 16)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, p. 37)]]

@@ -11,7 +11,7 @@ aliases:
 summary: "驱动国家科技战略、大学治理变革与劳动力技能重塑的核心逻辑与地缘政治装置。在新自由主义社会想象下，国家经济竞争力被假定为直接取决于由国际标准衡量的教育质量；在宏观上体现为长程战略计算、先进制造、跨国多边监测与地缘威慑；在中观上体现为产学中心破除学科壁垒与排名审计重塑大学；在微观上体现为产线组织学习与学习分析；创始人长期主义与全员股权模式构成了抵御短期金融化的深层底座。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 83
+related_count: 81
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -44,7 +44,6 @@ related_concepts:
   - "[[Stakeholder University]]"
   - "[[Other Transaction Authority]]"
   - "[[Research Impact]]"
-  - "[[Document]]"
   - "[[Pilot Scale Platform]]"
   - "[[Permissionless Innovation]]"
   - "[[Process Knowledge]]"
@@ -74,7 +73,6 @@ related_theories:
 related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[External Auditor]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_persons:
   - "[[Lee Kuan Yew]]"
@@ -117,7 +115,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-19
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Competitiveness
@@ -176,7 +174,7 @@ updated: 2026-10-14
 > | **主导驱动力** | 地缘政治博弈、先进制造业技术主权与长程威慑 | 审美品味、突破性创新与抵御季度短期主义 | [[Global Universities Rankings\|全球大学排名]]、国家卓越计划与高教拨款争夺 | 毕业[[Employability\|就业力]]、产业技能缺口填补与不确定性规避 |
 > | **核心组织载体** | 开放试验场、[[Megascience Installations\|大科学装置]]、前竞争联合体、长程国家战略规划机构 | 创始人掌舵企业、全员股权所有权社群 | 跨学科研究中心（[[Engineering Research Centers\|ERC]]）、[[Stakeholder University\|利益相关者大学]] | 产线工程技术人员、现代学徒、自我优化型学生 |
 > | **治理机制** | 千年期战略决断、[[Regulatory Sandbox\|监管沙盒]]、[[Other Transaction Authority\|OTA]] 协议、试验设施开放 | 股权激励、非委员会裁量、长程托管 | 排名指标、REF 卓越审计、[[Research Impact\|科研影响力]]绩效 | [[Learning Analytics\|学习分析]]算法、在线自评系统、产线数据分析 |
-> | **典型[[Document\|文献]]** | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17\|Karp & Zamiska (2025, pp. 194–197)]] | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18\|Karp & Zamiska (2025, pp. 209–212)]] | [[Argument_Thompson_2022_Promising_Student\|Thompson et al. (2022)]] | [[Argument_Macher_1998_CMR\|Macher et al. (1998)]] |
+> | **典型文献** | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17\|Karp & Zamiska (2025, pp. 194–197)]] | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18\|Karp & Zamiska (2025, pp. 209–212)]] | [[Argument_Thompson_2022_Promising_Student\|Thompson et al. (2022)]] | [[Argument_Macher_1998_CMR\|Macher et al. (1998)]] |
 
 ---
 
@@ -325,7 +323,7 @@ updated: 2026-10-14
 > 探讨区域一体化进程中，官方政策[[Discourse|话语]]如何将国际经贸与劳动力市场竞争力要求，包装为流动学生自愿修炼的公民美德。
 
 > [!claim] Papatsiba (2005, 2006); Nóvoa (2002); [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]]
-> **跨国流动性与就业竞争力风险的个体化承担** 诺亚·索比与梅丽莎·菲舍尔援引帕帕齐巴（Papatsiba, 2005, 2006）关于欧洲一体化与高等教育[[Student Mobility|学生流动性]]的研究指出，超国家教育治理通过将“流动性”（Mobility）[[Coding in Qualitative Research|编码]]为 enfranchised 公民的黄金资产，实质上构筑了一种巧妙的新自由主义[[Governmentality|治理术]]：
+> **跨国流动性与就业竞争力风险的个体化承担** 诺亚·索比与梅丽莎·菲舍尔援引帕帕齐巴（Papatsiba, 2005, 2006）关于欧洲一体化与高等教育[[Student Mobility|学生流动性]]的研究指出，超国家教育治理通过将“流动性”（Mobility）编码为 enfranchised 公民的黄金资产，实质上构筑了一种巧妙的新自由主义[[Governmentality|治理术]]：
 > 1. **胜任力话语对就业风险的转嫁** 欧洲联盟在[[Erasmus Programme|伊拉斯谟计划]]（ERASMUS）与[[TEMPUS|天普计划]]框架下，将跨国学业流动打造成以[[Employability|就业能力]]为核心的个体化教育实践；
 > 2. **公民修辞与竞争理性的双重编码** 尽管政策修辞高调颂扬文化多样性、欧洲认同与公民游学理想，其实质是将应对全球化劳动力市场弹性需求、跨文化适应与职业竞争的责任，全面转嫁给青年个体，要求其通过自费或自发流动累积“国际竞争力”，从而在宏观上免除了国家兜底充分就业的福利责任。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
 

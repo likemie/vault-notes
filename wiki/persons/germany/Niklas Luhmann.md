@@ -10,7 +10,7 @@ summary: "德国社会学家，社会系统理论创始人；提出自创生系�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 39
+person_related_count: 37
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -35,7 +35,6 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Visible Learning]]"
   - "[[Policy Brokerage]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Causality]]"
   - "[[School Leadership]]"
   - "[[Constructivist Paradigm]]"
@@ -53,7 +52,6 @@ related_theories:
   - "[[Structural Functionalism]]"
   - "[[Critical Theory]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
   - "[[Meta-analysis]]"
 related_instruments: []
@@ -71,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-04
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Niklas Luhmann
@@ -137,7 +135,7 @@ updated: 2026-10-08
 > *If we conceive of technology as the device that turns inputs into desired outcomes, the ‘technology deficit of education’ (Luhmann and Schorr 1979) becomes glaring... The long list of ‘actionable research evidence’ may be understood against the backdrop that the belief in practical actions in the present helps mitigate the uncertainty about the future.*
 
 > [!citation-card] 外化命题与准外部参照点的拟真投射
-> 外部环境的变化唯有被[[Transfer Translation Transformation\|转译]]为系统自身的逻辑与语言[[Coding in Qualitative Research\|编码]]，方能在系统内部产生共振与效力。系统通过‘在内部建构外部参照点’来生成额外意义、再生产自身认同并制造确定性。这种外化或对准外部参照点的建构，本质上作为‘调节性观念’运作；在严密审视下，它们不过是‘唯有假定其有效时方才有效’的主观投射。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 546)]]
+> 外部环境的变化唯有被转译为系统自身的逻辑与语言编码，方能在系统内部产生共振与效力。系统通过‘在内部建构外部参照点’来生成额外意义、再生产自身认同并制造确定性。这种外化或对准外部参照点的建构，本质上作为‘调节性观念’运作；在严密审视下，它们不过是‘唯有假定其有效时方才有效’的主观投射。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 546)]]
 >
 > *According to Luhmann (1995, 481), externalisation or the construction of such quasi-external points of reference serve as ‘regulative ideas’, which on closer examination are ‘projections’ that ‘are valid only “as if” they were valid.’*
 
@@ -153,7 +151,7 @@ updated: 2026-10-08
 > [!influence-path] 影响路径
 > - **社会学与哲学[[Epistemology\|认识论]]路径** 彻底终结[[René Descartes\|笛卡尔]]—[[Immanuel Kant\|康德]]式的主体哲学中心地位，开创以二阶控制论为基石的操作[[Constructivist Paradigm\|建构主义]]（Operative constructivism），深刻影响现代知识社会学与法社会学。
 > - **微观教学反思路径** 揭示“教不等于学”的认识论真相，促使教育者认识到可见的测验分数仅仅是社会沟通系统的代码产物，并非学生内心心理体验的直接镜像，消解了[[Positivism\|实证主义]]教学工程论的虚妄幻想。
-> - **比较教育与[[Policy Borrowing\|政策借用]]路径** 德国比较教育学家施瑞尔（[[Jurgen Schriewer|Jürgen Schriewer]]）直接引入卢曼的**[[Externalization\|外化]]命题**，提出跨国教育借用本质上是主权国家在面临国内政治争议时，能动地在内部建构“世界标杆”或“[[Reference Society\|参考社会]]”以寻求外部[[Social Science as Legitimation Alibi\|合法化借口]]的自指性操作；Steiner-Khamsi 等人（2024）进一步将这一命题深化为全球治理 2.0 时代[[Policy Brokerage\|政策中介]]与数字规制[[Transfer Translation Transformation\|转译]]的核心分析工具。
+> - **比较教育与[[Policy Borrowing\|政策借用]]路径** 德国比较教育学家施瑞尔（[[Jurgen Schriewer|Jürgen Schriewer]]）直接引入卢曼的**[[Externalization\|外化]]命题**，提出跨国教育借用本质上是主权国家在面临国内政治争议时，能动地在内部建构“世界标杆”或“[[Reference Society\|参考社会]]”以寻求外部[[Social Science as Legitimation Alibi\|合法化借口]]的自指性操作；Steiner-Khamsi 等人（2024）进一步将这一命题深化为全球治理 2.0 时代[[Policy Brokerage\|政策中介]]与数字规制转译的核心分析工具。
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
 > - [[Argument_Larsen_2019_EducSci\|Larsen (2019)]] — 动用卢曼的盲点理论与社会/心理系统不可[[Commensuration\|通约]]论，系统解构[[John Hattie\|约翰·哈蒂]]（John Hattie）的[[Visible Learning\|可见的学习]][[Paradigm\|范式]]，揭示实证主义[[Evidence-Based Education\|循证教育]]对教育复杂性的盲视与“超积极可见性意识形态”。

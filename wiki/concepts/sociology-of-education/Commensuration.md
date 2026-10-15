@@ -11,10 +11,10 @@ alias_reviewed:
 summary: "将不同性质的异质事物转化为基于同一通用尺度或公分母的标准化可比量化指标的社会过程，为跨情境绩效评价与资源配置确立形式公平，但伴随着质性情境剥离、统计公平与地域公平冲突及策略性博弈操纵等治理代价"
 type: concept
 domain: "sociology-of-education"
-related_count: 42
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 39
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - concept/sociology-of-education
   - theme/datafication
@@ -37,8 +37,6 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Discourse]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Assemblage]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Operationalization]]"
   - "[[Champ]]"
   - "[[Epistemology]]"
@@ -51,7 +49,6 @@ related_concepts:
   - "[[Social Imaginary]]"
   - "[[Network Governance]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Item Response Theory]]"
   - "[[Correlational Research]]"
 related_arguments:
@@ -72,7 +69,7 @@ related_theories:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Commensuration
@@ -82,7 +79,7 @@ updated: 2026-10-14
 ## 定义
 
 > [!def] 核心定义
-> 通约（Commensuration）指将不同性质、不同质态的异质事物转化为基于共同公分母或标准化尺度的可比较、通常是量化指标的社会建构过程（Espeland & Stevens, 1998）。在教育治理与学校监测中，通约机制通过脱域化[[Coding in Qualitative Research\|编码]]与算法建模，将复杂的学校生态、生源背景、教学质量及财政支出统一折算为可横向排序与统计对照的数值指标，为政策干预、资源再分配与外部问责提供依据[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 3, 6–7)]]。
+> 通约（Commensuration）指将不同性质、不同质态的异质事物转化为基于共同公分母或标准化尺度的可比较、通常是量化指标的社会建构过程（Espeland & Stevens, 1998）。在教育治理与学校监测中，通约机制通过脱域化编码与算法建模，将复杂的学校生态、生源背景、教学质量及财政支出统一折算为可横向排序与统计对照的数值指标，为政策干预、资源再分配与外部问责提供依据[[Argument_Hartong_Forschler_2019_BDS\|(Hartong & Förschler, 2019, pp. 3, 6–7)]]。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向异质质态向单一量化尺度的折算机制及其背后涉及的社会、政治与价值权重裁决。
@@ -135,9 +132,9 @@ updated: 2026-10-14
 > - **核心命题** 通约不仅是将不同质态转化为可比量化指标的技术操作，更是一种权威性裁决价值权重、并将深层政治决策包装为中立算法的社会工程。
 > - **理论机制** [[Sigrid Hartong|西格丽德·哈通]]（Sigrid Hartong）与诺拉·弗施勒（Nora Förschler, 2019）发现，在构建学校监测通约指标时，数据分析师对指标纳入（如出勤率、统考合格率、社会经济地位）、权重赋值以及过滤规则的微小技术微调，实质上行使了决定哪些学校合格、哪些学校需要行政接管的政治主权。[[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose, 1999）所谓的“数字即政策”（policy as numbers）在此高度具象化：通约操作将充满价值冲突的政治决断彻底封装于黑箱算法之中，免除了民主审议与公众辩论。[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 3, 6–7)]]
 
-> [!thesis] 命题三｜通约作为[[Disciplina and Doctrina|规训]][[Assemblage|装配]]诱发被测系统的策略性博弈与目标置换
-> - **核心命题** 通约机制是兼具治理能力延伸与[[Reflexivity|反身性]]控制的社会-技术[[Assemblage|装配]]；一旦通约指标与高利害问责或资源分配刚性绑定，必将导致现实与度量的系统性脱节，诱发被规训学校的策略性数据操纵。
-> - **理论机制** 当通约建立的“统计公平比较”被用于配置补偿性师资经费或触发惩罚性托管时，学校行动者展现出强烈的反身性适应（Espeland & Sauder, 2007）。学校为了在通约公式中获得有利排位，往往策略性申报处境不利生源数据、针对统考关键切分点突击刷题，甚至在[[Transfer Translation Transformation|转译]]阶段修改学生出勤记录，导致通约工具从原本旨在赋能学校自我改进的诊断镜鉴，异化为驱使学校追求虚假合规的考核锁链。[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 7, 9–10)]]
+> [!thesis] 命题三｜通约作为[[Disciplina and Doctrina|规训]]装配诱发被测系统的策略性博弈与目标置换
+> - **核心命题** 通约机制是兼具治理能力延伸与[[Reflexivity|反身性]]控制的社会-技术装配；一旦通约指标与高利害问责或资源分配刚性绑定，必将导致现实与度量的系统性脱节，诱发被规训学校的策略性数据操纵。
+> - **理论机制** 当通约建立的“统计公平比较”被用于配置补偿性师资经费或触发惩罚性托管时，学校行动者展现出强烈的反身性适应（Espeland & Sauder, 2007）。学校为了在通约公式中获得有利排位，往往策略性申报处境不利生源数据、针对统考关键切分点突击刷题，甚至在转译阶段修改学生出勤记录，导致通约工具从原本旨在赋能学校自我改进的诊断镜鉴，异化为驱使学校追求虚假合规的考核锁链。[[Argument_Hartong_Forschler_2019_BDS|(Hartong & Förschler, 2019, pp. 7, 9–10)]]
 
 ---
 

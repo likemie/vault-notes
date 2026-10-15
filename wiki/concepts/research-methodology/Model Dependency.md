@@ -8,7 +8,7 @@ aliases:
 summary: "同一经验数据集因统计分析者选用的建模假定不同而导致效应量估计与统计推断发生大幅漂移的现象，揭示了实证证据高度脆弱的主观模型设定根源，催生了强制性预注册与统计分析计划"
 type: concept
 domain: "research-methodology"
-related_count: 37
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -25,10 +25,8 @@ related_concepts:
   - "[[Statistical Analysis Plan]]"
   - "[[Researcher Degrees of Freedom]]"
   - "[[Sampling Error]]"
-  - "[[Hypothesis]]"
   - "[[Preregistration]]"
   - "[[Effective Sample Size]]"
-  - "[[Document]]"
   - "[[International Education]]"
   - "[[Type I and Type II Errors]]"
   - "[[Heterogeneity]]"
@@ -66,7 +64,7 @@ related_instruments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Model Dependency
@@ -100,7 +98,7 @@ updated: 2026-10-08
 > [!contrast-table] 实证推断偏倚与不确定性来源对比
 > | 比较维度 | 模型依赖性 (Model Dependency) | [[Researcher Degrees of Freedom\|研究者自由度]] (Researcher Degrees of Freedom) | [[Sampling Error\|抽样误差]] (Sampling Error) |
 > |---|---|---|---|
-> | **根源所在** | 统计模型底层假定（协[[Variable\|变量]]/集群/方差结构）的数学差异 | 分析者在多重[[Hypothesis\|假设]]检验中未公开的主观选择与挑拣 | 从总体中随机抽取有限样本带来的自然随机涨落 |
+> | **根源所在** | 统计模型底层假定（协[[Variable\|变量]]/集群/方差结构）的数学差异 | 分析者在多重假设检验中未公开的主观选择与挑拣 | 从总体中随机抽取有限样本带来的自然随机涨落 |
 > | **数据表现** | 相同固定数据集，切换模型即导致 $p$ 值与效应量漂移 | 数据清洗、剔除极端值或切换指标以达成 $p < .05$ | 样本统计量围绕总体真实参数呈现正态或 $t$ 分布分散 |
 > | **防范与治理手段** | 制定统一建模指南（如 [[Statistical Analysis Plan\|SAP]]）、多模型稳健性敏感性检验 | 严格方案[[Preregistration\|预注册]]（Preregistration）、[[Blinding\|盲法]]数据分析 | 扩大[[Effective Sample Size\|有效样本量]]、采用两阶段分层整群最优抽样设计 |
 > | **典型实证案例** | EEF 17 项试验四模型并行复算中 12 项结果漂移（Xiao et al., 2016） | 社会科学实验中显著结果发表率虚高 40%（Franco et al., 2014） | 早期教育试验由于群内相关（[[Intraclass Correlation Coefficient\|ICC]]）导致有效样本量骤降 |
@@ -164,7 +162,7 @@ updated: 2026-10-08
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者与[[Document\|文献]] |
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
 > | **推断脆弱性命题** | 揭示同一数据集在不同建模假定下[[Effect Size\|效应量]]与显著性的质变漂移 | [[Quantitative Research\|量化研究]]方法论、二阶复算审计、Meta分析 | Xiao, Higgins, & Kasim (2016); [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] |
 > | **制度防范治理命题** | 论证前置[[Preregistration\|预注册]]与强制统计分析计划（SAP）是消解模型依赖性唯一可靠路径 | 循证清算标准、科研治理、开放科学规范 | Demack (2019); The EEF (2018) |

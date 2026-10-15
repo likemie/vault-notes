@@ -35,9 +35,9 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Champ]]"
   - "[[Operationalization]]"
-  - "[[Hypothesis]]"
   - "[[Comparative History of Comparative Education]]"
   - "[[Scientific Paradigm]]"
+  - "[[Hypothesis]]"
   - "[[Value Neutrality]]"
   - "[[School Effectiveness]]"
   - "[[Nature of Science]]"
@@ -114,7 +114,7 @@ updated: 2026-10-09
 > - **1964** **哥伦比亚大学博士毕业与开启苏联教育经济研究** 赴美深造并获得哥伦比亚大学博士学位，博士学位论文聚焦苏联教育经济学、人力配置与教育财政体制；随后留校任教于师范学院，率先在比较教育学科内部开辟教育经济学专门方向。
 > - **1969** **出版《走向比较教育科学》确立战后第三代际哥大学派** 与埃克斯坦共同出版里程碑名著《走向比较教育科学》（*Toward a Science of Comparative Education*），将古典历史学派定性为依赖个人主观洞察力的前科学阶段，构建跨国“[[Independent Variable|自变量]]—[[Dependent Variable|因变量]]”函数共变模型，呼吁采纳严格统计技术清洗偏见与任意武断，并在第三代际实证[[Scientism|科学主义]]运动中确立以哥大学派为核心的[[Quantitative Research|量化研究]]纲领。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 7)]]; [[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 53–54)]]; [[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
 > - **1969–1975** **主编《比较教育的科学调查》与参与 [[IEA]] 实证测评** 与埃克斯坦进一步编纂《比较教育的科学调查》（*Scientific Investigations in Comparative Education*, 1969），系统将抽样、测量与多元统计技术[[Operationalization|操作化]]；深度参与国际教育成就评价协会（IEA）多国学生成就调查项目的数据分析，将大样本跨国实证调查推向全盛期。
-> - **1973** **发表《用[[Variable|变量]]替代系统名称》确立通则化方法论纲领** 发表关键方法论论文《在比较教育中以变量名称替代系统名称》（*Fast-Forward: Replacing the Names of Systems with the Names of Variables*），系统论证比较教育的核心科学任务是将历史固有名词（国名、制度名）消解为普适的社会科学抽象变量，并通过经验[[Hypothesis|假设]]检验确立跨国函数关系。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 148–149)]]
+> - **1973** **发表《用[[Variable|变量]]替代系统名称》确立通则化方法论纲领** 发表关键方法论论文《在比较教育中以变量名称替代系统名称》（*Fast-Forward: Replacing the Names of Systems with the Names of Variables*），系统论证比较教育的核心科学任务是将历史固有名词（国名、制度名）消解为普适的社会科学抽象变量，并通过经验假设检验确立跨国函数关系。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 148–149)]]
 > - **1976–1977** **当选美国[[Comparative and International Education Society|比较与国际教育学会]]（CIES）会长** 荣任 CIES 会长，推动学会与主流社会科学界、联邦教育智库及国际发展援助机构紧密对接。
 > - **1976–1981** **执掌哥伦比亚大学师范学院院长** 出任哥大师范学院院长（Dean），巩固了哥大在全美比较教育、教育社会学与教育经济学实证政策研究中的中枢领导地位。
 > - **1980年代–1990年代** **中等教育考试制度跨国比较与三十年合作总结** 聚焦国家中等教育考试体制的跨国比较，出版《中等学校考试：中英日德法美比较》（*Secondary School Examinations*, 1989）；1998 年与埃克斯坦出版学术合作总结《实践比较教育学》（*Doing Comparative Education: Three Decades of Collaboration*）。
@@ -150,10 +150,10 @@ updated: 2026-10-09
 >
 > *The fundamental ambition was replacing the names of social systems or observable facts by the names of concepts (variables).*
 >
-> 比较教育学者不应停留在讨论“法国体系”或“美国体系”的独特性，而应将具体国情分解为可测量的理论变量（如集权程度、社会阶层固化度、家庭收入离散度）。跨国比较的目的不是罗列事实，而是通过多国样本检验变量之间的因果[[Hypothesis|假设]]。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
+> 比较教育学者不应停留在讨论“法国体系”或“美国体系”的独特性，而应将具体国情分解为可测量的理论变量（如集权程度、社会阶层固化度、家庭收入离散度）。跨国比较的目的不是罗列事实，而是通过多国样本检验变量之间的因果假设。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149)]]
 
 > [!citation-card] 跨国变量假设检验范例：家庭收入分布与学生成就的回归建模
-> 为了展示如何将复杂的教育问题转化为纯粹的跨国变量关系，诺亚在 1973 年提出了一个经典的经验研究假设范例：
+> 为了展示如何将复杂的教育问题转化为纯粹的跨国变量关系，诺亚在 1973 年提出了一个经典的经验[[Hypothesis|研究假设]]范例：
 >
 > > “在家庭收入分配更加不平等的社会中，家庭收入与学生学校[[Academic Achievement|学业成就]]之间的相关关系，将显著强于家庭收入分配相对平等的社会。”
 >
@@ -169,8 +169,8 @@ updated: 2026-10-09
 >
 > *The [[Research in Schools Evaluation|RISE]] of quantitative empirical research, the greater availability of numerical data, an improved technology for storing, manipulating and retrieving data, and the widespread use of new statistical techniques had improved the scientific character of the social science approach in dealing with problems of bias, tendentiousness and even caprice and willfulness.*
 
-> [!citation-card] [[Bernard Barber|巴伯]]的方法论主义批判与实证社会科学的[[Social Science as Legitimation Alibi|合法化借口]]
-> 卡扎米亚斯援引科学社会学家伯纳德·巴伯（Bernard Barber, 1972）对“方法论主义（[[Empiricism|Methodologism]]）”的经典诊断指出，哥大学派等实证阵营过度执迷于统计程序与数学建模，犯下了三重[[Epistemology|认识论]]偏差：误将单一量化技术奉为全能真理、将事实与道德价值/精神追求生硬割裂、以抽象变量标签抹杀深层历史文化土壤。更为关键的是，这种声称[[Value Neutrality|价值无涉]]的量化实证研究，在冷战与第三世界现代化进程中深度扮演了国家五年计划与国际技术援助（[[World Bank|世界银行]]、美国国际开发署）的[[Social Science as Legitimation Alibi|合法化借口]]（Legitimation Alibi），将深刻的政治再生产干预伪装成中立的科学工程。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149, 151–152)]]
+> [!citation-card] 巴伯的方法论主义批判与实证社会科学的[[Social Science as Legitimation Alibi|合法化借口]]
+> 卡扎米亚斯援引科学社会学家[[Bernard Barber|伯纳德·巴伯]]（Bernard Barber, 1972）对“方法论主义（[[Empiricism|Methodologism]]）”的经典诊断指出，哥大学派等实证阵营过度执迷于统计程序与数学建模，犯下了三重[[Epistemology|认识论]]偏差：误将单一量化技术奉为全能真理、将事实与道德价值/精神追求生硬割裂、以抽象变量标签抹杀深层历史文化土壤。更为关键的是，这种声称[[Value Neutrality|价值无涉]]的量化实证研究，在冷战与第三世界现代化进程中深度扮演了国家五年计划与国际技术援助（[[World Bank|世界银行]]、美国国际开发署）的[[Social Science as Legitimation Alibi|合法化借口]]（Legitimation Alibi），将深刻的政治再生产干预伪装成中立的科学工程。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 147–149, 151–152)]]
 
 ---
 
@@ -197,7 +197,7 @@ updated: 2026-10-09
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Cowen_2009_HistoryCreation|Cowen (2009a)]] — 考恩分析诺亚与埃克斯坦经典著作对年轻学者学科合法性的建构机制，并将其列为[[Comparative History of Comparative Education|比较教育学比较史]]顾问委员会首选资深学者。
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 卡扎米亚斯回顾诺亚与埃克斯坦在 1960 年代对历史比较学派的实证主义批评，并对其狭隘科学观展开[[Epistemology|认识论]]辩护。
-> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 系统梳理战后第三代际哥大学派的量化实证纲领，评析诺亚“以变量替代系统”的方法论教条与家庭收入回归[[Hypothesis|假设]]案例，并基于[[Bernard Barber|巴伯]]的方法论主义揭示其实证模型充当冷战技术援助[[Social Science as Legitimation Alibi|合法化借口]]的实质。
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 系统梳理战后第三代际哥大学派的量化实证纲领，评析诺亚“以变量替代系统”的方法论教条与家庭收入回归假设案例，并基于巴伯的方法论主义揭示其实证模型充当冷战技术援助[[Social Science as Legitimation Alibi|合法化借口]]的实质。
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 评析诺亚与埃克斯坦在科学范式中建立的变量函数共变模型，及其审慎不称“法则”的方法论自省与战后政策规划取向。
 
 ---
@@ -240,7 +240,7 @@ updated: 2026-10-09
 > [!debates] 学术争议
 >
 > > [!axis] 实证科学化[[Paradigm|范式]] vs 历史-哲学人文主义
-> > 战后比较教育学核心范式大论战。诺亚与埃克斯坦坚决主张将教育现象解构为社会科学[[Variable|变量]]进行跨国假说检验与统计测量，批判历史学派依赖私人洞察力且缺乏判定因素重要性的客观标准；以卡扎米亚斯为代表的学者则批评其实证模型严重脱离具体的历史文化语境，抽空了教育制度背后的精神价值与政治哲学维度，重申广义科学观（*Wissenschaft*）与有限工作[[Hypothesis|假设]]的合法性。
+> > 战后比较教育学核心范式大论战。诺亚与埃克斯坦坚决主张将教育现象解构为社会科学[[Variable|变量]]进行跨国假说检验与统计测量，批判历史学派依赖私人洞察力且缺乏判定因素重要性的客观标准；以卡扎米亚斯为代表的学者则批评其实证模型严重脱离具体的历史文化语境，抽空了教育制度背后的精神价值与政治哲学维度，重申广义科学观（*Wissenschaft*）与有限工作假设的合法性。
 > >
 > > - **Harold Noah & Max Eckstein（1969）** 主张寻求教育与社会之间的普遍[[Nomothetic|通则式]]因果定律，指出历史结论本质上是待检验假说。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 53–54)]]
 > > - **Andreas Kazamias（2009b）** 批评[[Positivism|实证主义范式]]建立在狭隘的英语 Science 偏见之上，捍卫历史比较的[[Geisteswissenschaften|人文科学]]传统。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, p. 56)]]
@@ -274,7 +274,7 @@ updated: 2026-10-09
 > |:-----|:-----|:-----|
 > | [[Comparative History of Comparative Education\|比较教育学的比较史]] | 概念 | 1969 年经典著作为战后比较教育确立合法化起源叙事，成为考恩反思学科历史功能主义的核心案例。 |
 > | [[Variable\|变量]] | 概念 | 提出“用变量名称替代系统名称”的通则化方法论纲领，确立跨国[[Independent Variable\|自变量]]与[[Dependent Variable\|因变量]]测算[[Paradigm\|范式]]。 |
-> | [[Hypothesis\|假设]] | 概念 | 倡导假说检验逻辑，将跨国控制变量与统计检验确立为比较教育科学研究的核心规程。 |
+> | 假设 | 概念 | 倡导假说检验逻辑，将跨国控制变量与统计检验确立为比较教育科学研究的核心规程。 |
 > | [[Multiple Regression\|多元回归]] | 概念 | 倡导运用多元统计与回归分析检验宏观社会变量与教育成就之间的函数关系。 |
 > | [[Social Science as Legitimation Alibi\|实证社会科学作为合法化借口]] | 概念 | 作为第三代际实证[[Scientism\|科学主义]]代表，其量化模型被卡扎米亚斯揭露为充当冷战技术援助与五年计划的合法化借口。 |
 > | [[Value Neutrality\|价值中立]] | 概念 | 主张借助战后量化数据与新统计技术消除学科中的主观偏见、倾向性与任意武断，维护科学探究的客观中立。 |

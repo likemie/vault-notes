@@ -12,7 +12,7 @@ subtype: policy
 region: spain
 fact_region: "spain"
 fact_kind: "policy"
-fact_related_count: 19
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[School Inspection]]"
   - "[[Open-Mindedness]]"
   - "[[Normal School]]"
-  - "[[Bildung]]"
   - "[[Discourse]]"
   - "[[Liberalization]]"
   - "[[Dual School System]]"
@@ -50,7 +49,7 @@ related_persons:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # General Act of Education of 1970
@@ -115,7 +114,7 @@ updated: 2026-10-12
 
 > [!actor-grid] 权力—利益矩阵
 > - **高权力 · 高利益 — 关键行动者** 西班牙教育部技术官僚派（受[[OECD|经济合作与发展组织]]（OECD）与[[UNESCO|联合国教科文组织]]现代化[[Human Capital Theory|人力资本理论]]影响），主导顶层设计与教育立法。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 322)]]
-> - **高权力 · 低利益 — 潜在否决者或盟友** 弗朗哥政权保守派与传统派势力，抨击该法盲从外国光彩、出卖文化传统并弱化政治意识形态[[Bildung|教化]]。
+> - **高权力 · 低利益 — 潜在否决者或盟友** 弗朗哥政权保守派与传统派势力，抨击该法盲从外国光彩、出卖文化传统并弱化政治意识形态教化。
 > - **低权力 · 高利益 — 受影响群体** 广大工薪阶层子女与城市新兴中产家庭，首次获得制度保障的 8 年连续初中前免费[[Comprehensive Education|综合教育]]。
 > - **低权力 · 低利益 — 边缘行动者** 偏远乡村分散教学点，在集中办学撤并与校车网络建设中面临生源外流压力。
 

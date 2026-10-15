@@ -10,7 +10,7 @@ aliases:
 summary: "以参照群体的分数分布为比较基准，用于判断个体的相对位置并区分表现差异。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 13
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Criterion-Referenced Test]]"
   - "[[Domain-Referenced Test]]"
-  - "[[Hypothesis]]"
   - "[[Constructive Alignment]]"
 related_persons:
   - "[[Louis Cohen]]"
@@ -37,7 +36,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-08-01
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Norm-Referenced Test
@@ -86,7 +85,7 @@ updated: 2026-09-17
 > - **分数变异** 测验需要形成足够分散的分数；如果多数学生得到相同结果，测验便难以承担排序功能。
 > - **[[Item Analysis\|题目区分度]]** 能够区分高分者与低分者的题目具有较高价值，区分度过低的题目通常需要审查。
 > - **题目难度** 难度适中的题目通常更容易拉开差距；在这种测量目的下，理想答对率常被设定在约 50%（Frisbie, 1981）。
-> - **稳定性[[Hypothesis\|假设]]** 测量模型通常把被测特征视为相对稳定，有时还假定特征在总体中呈正态分布。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24\|Cohen et al. (2011, Ch. 24.3)]]；[[Argument_Biggs_1999_HERD\|Biggs (1999, p. 69)]]
+> - **稳定性假设** 测量模型通常把被测特征视为相对稳定，有时还假定特征在总体中呈正态分布。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24\|Cohen et al. (2011, Ch. 24.3)]]；[[Argument_Biggs_1999_HERD\|Biggs (1999, p. 69)]]
 
 这些要素彼此配合：只有先确定参照群体，把表现置于共同尺度，并产生足够变异，排名才有解释力。因此，题目难度与区分度是否“理想”，必须根据评估目的判断；适合选拔和排序的题目结构，不一定适合确认学生是否掌握了课程目标。
 
@@ -113,7 +112,7 @@ updated: 2026-09-17
 > 这一命题检验为稳定特征设计的比较模型，能否直接回答学生经过教学后学会了什么、学得多好。
 
 > [!claim] Biggs, J.
-> **三项[[Hypothesis\|假设]]发生错位** 第一，把表现压缩为数量，只能显示相对位置，难以揭示学生理解的性质和质量。第二，常模模型重视稳定差异，教学却以改变学生表现为目的。第三，常模模型需要良好的分数离散程度，良好教学却应使更多学生达到目标，并缩小原有差距。因此，常模参照可以描述学生之间的差异，却不宜成为大学学习评估的主导模型。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 69–70)]]
+> **三项假设发生错位** 第一，把表现压缩为数量，只能显示相对位置，难以揭示学生理解的性质和质量。第二，常模模型重视稳定差异，教学却以改变学生表现为目的。第三，常模模型需要良好的分数离散程度，良好教学却应使更多学生达到目标，并缩小原有差距。因此，常模参照可以描述学生之间的差异，却不宜成为大学学习评估的主导模型。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 69–70)]]
 
 ---
 

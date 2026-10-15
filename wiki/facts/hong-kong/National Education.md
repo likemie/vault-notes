@@ -9,9 +9,9 @@ subtype: policy
 region: hong-kong
 fact_region: "hong-kong"
 fact_kind: "policy"
-fact_related_count: 25
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 23
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 tags:
 - national-education
@@ -22,7 +22,6 @@ tags:
 - level/k12
 related_concepts:
   - "[[Zhonghua Minzu]]"
-  - "[[Document]]"
   - "[[Patriotic Education]]"
   - "[[Membership-Creating Function of Education]]"
   - "[[Lifelong Learning]]"
@@ -34,8 +33,7 @@ related_concepts:
   - "[[Paradigm]]"
 related_theories:
   - "[[Nation Building through Education]]"
-related_methods:
-  - "[[Coding in Qualitative Research]]"
+related_methods: []
 related_persons: []
 related_facts:
   - "[[Institute of Education Sciences]]"
@@ -54,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 ## 定义
@@ -78,7 +76,7 @@ updated: 2026-10-07
 ## 与相关概念的区别
 
 > [!example] 与相关概念的区别
-> - **vs 公民教育（Citizenship Education）** — 公民教育可以包含权利意识、民主参与；而国民教育在香港语境中侧重义务、忠诚和服从。Law (2013) 曾指出中共试图在保存党性教条和适应全球化之间取得平衡，但近年来的[[Document\|文献]]（Vickers & Morris, 2022）认为天平已完全倾向前者。
+> - **vs 公民教育（Citizenship Education）** — 公民教育可以包含权利意识、民主参与；而国民教育在香港语境中侧重义务、忠诚和服从。Law (2013) 曾指出中共试图在保存党性教条和适应全球化之间取得平衡，但近年来的文献（Vickers & Morris, 2022）认为天平已完全倾向前者。
 > - **vs [[Patriotic Education|爱国主义教育]]（Patriotic Education）** — 国民教育是实施爱国主义教育的制度手段。[[Citizenship and Social Development\|CSD]] 是爱国主义的课程载体。
 > - **vs [[Liberal Studies]]** — LS 包含对现代中国的知识学习但明确不强调忠诚培养；国民教育以忠诚和认同为核心目标。
 
@@ -88,7 +86,7 @@ updated: 2026-10-07
 
 > [!info] 理论基础
 > - [[Nation Building through Education]] — 中共通过教育在边疆地区推行统一的"[[Zhonghua Minzu\|中华民族]]"认同
-> - [[Membership-Creating Function of Education]] — Ramirez & Boli (1987) 揭示的更深层结构：香港国民教育的强化不是一个"例外"现象，而是现代民族国家教育系统的基础功能——通过教育划定"谁属于我们"的边界——在香港情境中的策略性强化。[[Argument_Amos_2022_Springer\|Amos (2022, pp.54–55)]] 的分析表明，公立教育自 18 世纪在欧洲诞生起，就同时[[Coding in Qualitative Research\|编码]]了"普遍包容"（对公民）和"边界排斥"（对外来者）的双重逻辑。香港国民教育从 1997 年后的温和渐进到 2020 年后的强制推行，体现了 membership-creating 从"低强度运作"到"高强度运作"的切换——不是功能的改变，是强度的改变
+> - [[Membership-Creating Function of Education]] — Ramirez & Boli (1987) 揭示的更深层结构：香港国民教育的强化不是一个"例外"现象，而是现代民族国家教育系统的基础功能——通过教育划定"谁属于我们"的边界——在香港情境中的策略性强化。[[Argument_Amos_2022_Springer\|Amos (2022, pp.54–55)]] 的分析表明，公立教育自 18 世纪在欧洲诞生起，就同时编码了"普遍包容"（对公民）和"边界排斥"（对外来者）的双重逻辑。香港国民教育从 1997 年后的温和渐进到 2020 年后的强制推行，体现了 membership-creating 从"低强度运作"到"高强度运作"的切换——不是功能的改变，是强度的改变
 > - **Vickers (2023)** — 习近平的民族复兴项目以"中国梦"为名，通过教育强化中央集权、消除区域文化差异
 
 ---
@@ -137,7 +135,7 @@ updated: 2026-10-07
 > - **2012 年的成功条件** 相对开放的公民社会、健全的学生组织网络、媒体自由、公众对"洗脑"指控的高度敏感
 > - **2020 年后的消失条件** 《国安法》使集体行动法律风险剧增、当局已建立将教育政治化的快速执行机制
 >
-> **目前状态** 此历史对比在学术[[Document\|文献]]中已被记录，但在香港本地公共讨论中已难以公开进行。
+> **目前状态** 此历史对比在学术文献中已被记录，但在香港本地公共讨论中已难以公开进行。
 
 > [!warning] 青年不满的"[[Psychologisation\|心理化]]"：从政治问题到个人适应
 > [[Argument_Vickers_2024_CE\|Vickers (2024, p.153–154)]]指出，《[[Youth Development Blueprint\|青年发展蓝图]]》和教育局的 "[[My Pledge to Act]]" 项目（2019–2022）共同构成了一种将青年不满"心理化"（psychologise）的治理策略：

@@ -7,7 +7,7 @@ aliases:
 summary: "由 Icek Ajzen 提出的社会心理学经典行为决策理论，主张个体的行为意向由行为态度、主观规范与知觉行为控制共同决定，且知觉行为控制与意向共同直接预测外显行为。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 25
+theory_related_count: 24
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Research Literacy]]"
   - "[[Teacher Professional Agency]]"
   - "[[Engagement in and with Research]]"
-  - "[[Document]]"
   - "[[Research Utilization]]"
   - "[[Construct]]"
   - "[[Epistemic Stances]]"
@@ -50,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Theory of Planned Behavior
@@ -85,7 +84,7 @@ updated: 2026-09-17
 > | [[Teacher Beliefs\|主观规范（Subjective Norm）]] | 机制 | 个体感知到的来自同事、[[School Leadership\|学校领导]]或社会群体期望其执行该行为的规范压力。 |
 > | [[Research Literacy\|知觉行为控制（PBC）]] | 概念 | 个体对自身掌握执行行为所需专业技能、资源与机会的主观掌控感。 |
 > | [[Teacher Professional Agency\|行为意向（Intention）]] | 机制 | 个体付诸实际行动的主观准备状态，是连接信念与实际行动的最直接前因。 |
-> | [[Engagement in and with Research\|背景因素与直接经验]] | 框架 | 涵盖亲身开展科研、[[Document\|文献]]研读与培训经验，通过重塑底层信念系统发挥间接赋能作用。 |
+> | [[Engagement in and with Research\|背景因素与直接经验]] | 框架 | 涵盖亲身开展科研、文献研读与培训经验，通过重塑底层信念系统发挥间接赋能作用。 |
 > | [[Research Utilization\|外显目标行为]] | 结果 | 最终的实践行动输出，由行为意向与知觉行为控制共同直接决定。 |
 > | [[Confirmatory Factor Analysis\|验证性因子分析]] | 方法 | 检验[[Construct\|理论构念]]维度结构、知觉控制方差贡献及测量等值性的核心量化方法。 |
 
@@ -99,7 +98,7 @@ updated: 2026-09-17
 > - **推导** 态度越积极、感知到的支持规范越强、自我掌控信心越充沛，个体形成的行动意向就越坚定；三者在不同行为情境中的相对权重依据行为特征而动态变化。
 
 > [!proposition-chain] 核心命题二｜知觉行为控制兼具直接预测行为与通过意向间接驱动行为的双重路径
-> - **前提一** 许多复杂实践（如在教学中运用教育科研证据）受制于专业技能、[[Document\|文献]]资源与制度时间等客观控制边界。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, pp. 3–4)]]
+> - **前提一** 许多复杂实践（如在教学中运用教育科研证据）受制于专业技能、文献资源与制度时间等客观控制边界。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, pp. 3–4)]]
 > - **前提二** 当知觉行为控制能够高度契合真实能力与外部条件时，它可以直接作为实际控制条件的代理[[Variable\|变量]]。
 >   > [!evidence-grid]- 证据
 >   > - **技能因子的主导方差贡献** 在[[Research Literacy Scale for Teachers\|教师研究素养量表]]的[[Scale Development\|量表编制]]实证中，代表知觉行为控制的研究技能因子单独解释了 $46.90\%$ 的最大方差，证实技能掌控是打破知行断层的最核心枢纽。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, p. 6, p. 14)]]

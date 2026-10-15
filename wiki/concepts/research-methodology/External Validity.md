@@ -7,7 +7,7 @@ aliases:
 summary: "研究结果能够推广到更广泛总体、案例、情境、时间或环境的程度，在量化研究中关乎从样本到总体的统计推广，在质性研究中转化为可比较性和可迁移性"
 type: concept
 domain: "research-methodology"
-related_count: 65
+related_count: 63
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Causality]]"
   - "[[Ecological Validity]]"
   - "[[Construct Validity]]"
-  - "[[Hypothesis]]"
   - "[[Operationalization]]"
   - "[[Construct]]"
   - "[[Rich and Thick Description]]"
@@ -60,7 +59,6 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Meta-analysis]]"
   - "[[Systematic Review]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Pre-test and Post-test]]"
   - "[[Survey Research]]"
   - "[[Random Assignment]]"
@@ -87,7 +85,7 @@ related_persons:
   - "[[Egon G. Guba]]"
 status: active
 created: 2026-05-31
-updated: 2026-10-05
+updated: 2026-10-15
 ---
 # External Validity
 
@@ -111,7 +109,7 @@ updated: 2026-10-05
 > [!boundary] 概念边界
 > - **不等于 [[Internal Validity\|内部效度]]** 内部效度关注[[Independent Variable\|自变量]]与[[Dependent Variable\|因变量]][[Causality\|因果关系]]的内部真实性与确定性；外部效度关注该因果推论向未测试情境的外推能力。
 > - **不等于 [[Ecological Validity\|生态效度]]** 生态效度是外部效度的子维度，专指研究环境与真实自然生活环境的相似性；外部效度除情境生态外，还涵盖目标总体、时间推移及测验工具的泛化性。
-> - **区别于统计结论效度与[[Construct Validity\|构念效度]]** 统计结论效度关乎样本统计功效与[[Hypothesis\|假设]]检验稳健性；构念效度关乎[[Operationalization\|操作化]]测量是否准确反映[[Construct\|理论构念]]（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）。
+> - **区别于统计结论效度与[[Construct Validity\|构念效度]]** 统计结论效度关乎样本统计功效与假设检验稳健性；构念效度关乎[[Operationalization\|操作化]]测量是否准确反映[[Construct\|理论构念]]（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）。
 
 ---
 
@@ -183,7 +181,7 @@ Schofield (1990) 精准刻画了这一分裂：对于一派，通过剥离情境
 > 探讨如何超越单项孤立试验的局限，构建面向系统决策的外部推广效力。
 
 > [!claim] Shadish, W. R.
-> **系统证据综合是确立稳健外部效度的必要路径** Shadish, Cook, & Campbell (2002) 论证，任何单项随机试验无论设计多么精良，其外部效度天然受制于特定的抽样时间、地点与人群边界；单项试验的结果只能告诉我们“什么曾经在特定条件下有效”，不能证明普遍有效性。只有通过对多情境、多群体试验开展大规模[[Meta-analysis\|元分析]]与[[Systematic Review\|系统综述]]（如英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation，EEF）[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]（EEF Teaching and Learning Toolkit）对超过 10,000 项独立试验的[[Coding in Qualitative Research\|编码]]综合），才能平抑单项试验的抽样偏倚与偶然误差，构建具有广泛指导意义的外部效度证据库（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 54]], 56；Higgins et al., 2015）。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
+> **系统证据综合是确立稳健外部效度的必要路径** Shadish, Cook, & Campbell (2002) 论证，任何单项随机试验无论设计多么精良，其外部效度天然受制于特定的抽样时间、地点与人群边界；单项试验的结果只能告诉我们“什么曾经在特定条件下有效”，不能证明普遍有效性。只有通过对多情境、多群体试验开展大规模[[Meta-analysis\|元分析]]与[[Systematic Review\|系统综述]]（如英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation，EEF）[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]（EEF Teaching and Learning Toolkit）对超过 10,000 项独立试验的编码综合），才能平抑单项试验的抽样偏倚与偶然误差，构建具有广泛指导意义的外部效度证据库（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 54]], 56；Higgins et al., 2015）。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
 
 ---
 
@@ -203,7 +201,7 @@ Schofield (1990) 精准刻画了这一分裂：对于一派，通过剥离情境
 > 探讨当法定循证要求进入地方教育采办场景时，证据结论如何在目标群体与学段错配中发生效度瓦解。
 
 > [!claim] [[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]]
-> **微观情境过度特异与学段供给空白诱发虚假外部概化** 在[[Evidence-Based Education\|循证教育]]政策落地中，教育干预的外部效度面临双重体制性破坏：其一是**证据情境迁移衰减（Transferability Decay）**，严格受控因果试验往往依托高度同质且狭窄的微观样本（如特定年级伴有特定障碍的儿童群体），其实施成效与干预人员的专门指导深度绑定，无法被自然外推至常规学校的全样本、其他学科或高低学段；其二是**跨学段降维推断（Cross-Grade Downgraded Inferences）**，当[[Educational Evidence Clearinghouses\|证据清算中心]]在某些学段面临严重的实证研究供给空白时，行政管理人员为满足法定合规要求，往往援引中学阶段的因果研究为小学阶段的同类采购提供依据，将未经验证的[[Heterogeneity\|异质性]][[Hypothesis\|假设]]当作既定事实。这种在政策问责压力下发生的证据外推异化，实质上架空了因果实验所追求的外部概化保障。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, pp. 177–178)]]
+> **微观情境过度特异与学段供给空白诱发虚假外部概化** 在[[Evidence-Based Education\|循证教育]]政策落地中，教育干预的外部效度面临双重体制性破坏：其一是**证据情境迁移衰减（Transferability Decay）**，严格受控因果试验往往依托高度同质且狭窄的微观样本（如特定年级伴有特定障碍的儿童群体），其实施成效与干预人员的专门指导深度绑定，无法被自然外推至常规学校的全样本、其他学科或高低学段；其二是**跨学段降维推断（Cross-Grade Downgraded Inferences）**，当[[Educational Evidence Clearinghouses\|证据清算中心]]在某些学段面临严重的实证研究供给空白时，行政管理人员为满足法定合规要求，往往援引中学阶段的因果研究为小学阶段的同类采购提供依据，将未经验证的[[Heterogeneity\|异质性]]假设当作既定事实。这种在政策问责压力下发生的证据外推异化，实质上架空了因果实验所追求的外部概化保障。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, pp. 177–178)]]
 
 ---
 
@@ -261,7 +259,7 @@ Campbell & Stanley (1963)、Bracht & Glass (1968) 和 Lewis-Beck (1993) 建立�
 > - **试验工具独立化与国家数据库锚定** 针对过度贴合干预的自编测验严重虚增[[Effect Size\|效应量]]、破坏外部效度的问题（Cheung & Slavin, 2016），英国 [[Education Endowment Foundation\|EEF]] 确立严格规程：主要学业结果必须采用具备广泛外部效度、与国家关键考试（如普通中等教育证书（General Certificate of Secondary Education，GCSE））强相关的标准化独立测验，并直接对接[[National Pupil Database\|国家学生数据库]]（National Pupil Database，NPD）行政追踪（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 54]]）。
 > - **规模化扩展试点阶梯（Scale-up Pilots）** 建立从[[Efficacy Trial\|效力试验]]（Efficacy）向[[Effectiveness Trial\|实效试验]]（Effectiveness）过渡的扩展试点机制，专门检验大规模项目在真实教育行政体系中的培训递送保真度、人员流动与组织支撑能力（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]）。
 > - **宏观决策的准实验渠道（[[Researching School Choices]]）** 针对学校拒斥[[Random Assignment\|随机化]]导致样本代表性受损的问题，开辟[[School Choice\|学校选择]]资助渠道，利用教育系统现存的自然变异与严格的[[Quasi-Experimental Designs\|准实验设计]]（QED）评估学校组织决策，拓宽证据的生态推广性（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 54–55]]）。
-> - **调查抽样设计与[[Attrition\|流失]]补偿** 采用[[Random Sampling\|概率抽样]]（Fowler, 2009）；为低回应率预留初始[[Sample Size Determination\|样本量]]缓冲（Punch, 2003）；实施跟进提醒唤醒 1/4–1/3 初始无回应者；对极小亚群采用过采样配合加权校正；在[[Longitudinal Study\|纵向调查]]中建立样本流失（attrition）监控与敏感性分析模型（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|Cohen et al., 2011, Ch. 8]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13\|Ch. 13]]）。
+> - **调查抽样设计与流失补偿** 采用[[Random Sampling\|概率抽样]]（Fowler, 2009）；为低回应率预留初始[[Sample Size Determination\|样本量]]缓冲（Punch, 2003）；实施跟进提醒唤醒 1/4–1/3 初始无回应者；对极小亚群采用过采样配合加权校正；在[[Longitudinal Study\|纵向调查]]中建立[[Attrition|样本流失]]（attrition）监控与敏感性分析模型（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|Cohen et al., 2011, Ch. 8]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13\|Ch. 13]]）。
 > - **质性[[Rich and Thick Description\|厚描述]]与多场所研究** 通过典型[[Case Study\|案例研究]]（typical cases）展现深度生态机制；开展多场所研究（multi-site studies；Miles & Huberman, 1984）识别跨情境共性；提供详尽厚描述供读者与实践者自主评估可迁移性条件（Lincoln & Guba, 1985；Schofield, 1996）。
 
 ---

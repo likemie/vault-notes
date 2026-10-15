@@ -9,7 +9,7 @@ aliases:
 summary: "历史制度主义微观博弈核心概念；打破传统制度分析将规则遵从视为外生常数的假定，将行动者的短期遵从行为与长期制度诉求解耦，揭示行动者如何利用解释与执行裁量缝隙进行蛰伏合规、违规套利或相机倒戈的策略机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 17
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,7 +20,6 @@ tags:
   - theme/political-economy
   - theme/comparative-politics
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Subversives]]"
   - "[[Symbionts]]"
@@ -46,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Strategic Compliance
@@ -56,7 +55,7 @@ updated: 2026-10-12
 ## 定义
 
 > [!def] 核心定义
-> **策略性遵从（Strategic Compliance）** 指政治行动者在面对成文规约时，依据自身长期制度诉求与外部权力约束，审时度势地选择日常遵守、偏离、变通乃至策略性违规的微观博弈行为模式。[[Historical Institutionalism|历史制度主义]]打破了传统理论将“遵从”视为理所当然常数的静态[[Hypothesis|假设]]，论证遵从是充满策略计算的经验[[Variable|变量]]；通过将行动者的“短期遵从行为”（是否遵守规则）与其“长期制度偏好”（是否追求维系制度）严格解耦，确立了四类微观变革行动者的策略行为基础。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 10–11, 22–27)]]
+> **策略性遵从（Strategic Compliance）** 指政治行动者在面对成文规约时，依据自身长期制度诉求与外部权力约束，审时度势地选择日常遵守、偏离、变通乃至策略性违规的微观博弈行为模式。[[Historical Institutionalism|历史制度主义]]打破了传统理论将“遵从”视为理所当然常数的静态假设，论证遵从是充满策略计算的经验[[Variable|变量]]；通过将行动者的“短期遵从行为”（是否遵守规则）与其“长期制度偏好”（是否追求维系制度）严格解耦，确立了四类微观变革行动者的策略行为基础。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 10–11, 22–27)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向行动者在日常规则执行与适用中非线性的、充满权衡的依从选择。

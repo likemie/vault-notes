@@ -7,7 +7,7 @@ aliases:
 summary: "大众媒介在报道教育事务时惯常套用的一种仪式化与还原论叙事框架，无论实证数据是否平稳，均系统性将国家教育系统描述为处于标准下滑与全面危机之中"
 type: concept
 domain: "sociology-of-education"
-related_count: 23
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[Policy Avoidance]]"
   - "[[Rashomon Effect]]"
-  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Accounts]]"
@@ -49,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Falling Standards Template
@@ -173,4 +172,4 @@ updated: 2026-10-07
 > | [[PISA]] | Fact (Program) | 沦为水平下降模板最常借用的跨国排列表与宏观危机修辞依据。 |
 > | [[OECD]] | Fact (Organization) | 其制作的极简排列表与价值倡导报告为媒体套用水平下降模板提供了便利燃料。 |
 > | [[Paul Morris]] | Person | 系统揭示英格兰媒体如何利用水平下降模板扭曲跨国教育评估的核心比较教育学者。 |
-> | [[Argument_Grey_2018_CE\|Grey & Morris (2018)]] | Argument | 深入解构水平下降模板在 PISA 2012 报道中如何运作的关键实证[[Document\|文献]]。 |
+> | [[Argument_Grey_2018_CE\|Grey & Morris (2018)]] | Argument | 深入解构水平下降模板在 PISA 2012 报道中如何运作的关键实证文献。 |

@@ -10,7 +10,7 @@ alias_reviewed:
 summary: "研究共同体共享的世界观、信念体系与原则集合，涵盖本体论、认识论与方法论承诺，决定何为合法的科学知识；在比较教育百年脉络中历经历史文化全景、实证主义论战与当代多元自创生范式重构。"
 type: concept
 domain: "educational-philosophy"
-related_count: 52
+related_count: 51
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Ontology]]"
   - "[[Axiology]]"
-  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Scale of Measurement]]"
   - "[[Commensuration]]"
@@ -80,7 +79,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Paradigm
@@ -116,7 +115,7 @@ updated: 2026-10-12
 > | 维度 | 范式（Paradigm） | 理论（Theory） | 研究纲领（Research Programme） | 研究方法（Research Method） |
 > |---|---|---|---|---|
 > | **抽象层级** | 最高：元哲学、[[Ontology\|本体论]]与[[Epistemology\|认识论]]公理 | 中观：概念网络与因果机制模型 | 宏观：包含硬核与保护带的发展序列 | 微观：具体的数据收集与分析技术 |
-> | **核心构成** | 世界观、元[[Hypothesis\|假设]]、价值标准、典型范例 | 命题陈述、[[Variable\|变量]]关系、假说与预测 | 不可反驳硬核、保护性辅助假说、启发法 | 抽样规程、[[Scale of Measurement\|测量量表]]、统计或[[Coding in Qualitative Research\|质性编码]] |
+> | **核心构成** | 世界观、元假设、价值标准、典型范例 | 命题陈述、[[Variable\|变量]]关系、假说与预测 | 不可反驳硬核、保护性辅助假说、启发法 | 抽样规程、[[Scale of Measurement\|测量量表]]、统计或[[Coding in Qualitative Research\|质性编码]] |
 > | **更迭机制** | 危机积累驱动的非常规科学革命 | 经验反驳、逻辑修正或概念细化 | 理论与经验递进（Progressive）或退化 | 工具迭代、技术改进与测量误差控制 |
 > | **[[Commensuration\|通约]]特征** | 范式间高度不可通约（[[Incommensurability\|incommensurable]]） | 理论间可通过经验证据与逻辑裁决检验 | 纲领间竞争取决于长期经验启发力 | 工具方法可跨范式技术性复用 |
 
@@ -129,7 +128,7 @@ updated: 2026-10-12
 > [!feature] 核心要素
 > - **[[Ontology|本体论]]承诺（Ontological Commitments）** 规定研究对象实在的根本属性——现实是独立于主观意识的客观实体（[[Positivism|实证主义]]），还是由社会主体主观建构、由语言和意义赋形的互为主体世界（解释学/[[Constructivist Paradigm|建构主义]]）。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
 > - **[[Epistemology|认识论]]确证（Epistemological Stance）** 界定知识与求知者之间的合法关系——主客二分、追求中立客观与普遍规律发现（实证主义[[Critical Dualism|批判二元论]]），还是主客交融、强调历史情境化[[Rich and Thick Description|深描]]与价值反思（文化主义与历史传统）。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–94)]]
-> - **方法论规程（Methodological Axioms）** 决定了获取有效证据的正当通道与逻辑路径——推导[[Hypothesis|假设]]、量化测量与因果法则检验，抑或是阐释学理解、制度发生学考证与意义[[Externalization|外化]]追踪。
+> - **方法论规程（Methodological Axioms）** 决定了获取有效证据的正当通道与逻辑路径——推导假设、量化测量与因果法则检验，抑或是阐释学理解、制度发生学考证与意义[[Externalization|外化]]追踪。
 > - **典型范例（Exemplars）与学科基质** 库恩所指的科学共同体公认的经典[[Problem Solving|问题解决]]方案（如经典专著、代表性调查工具）。在比较教育中，汉斯的历史文化因素分析、霍姆斯的[[Problem Approach|问题法]]以及施里维尔的世界体系系统论构成了各自范式的标志性范例。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 92–93)]]
 
 > [!logic-map]- 库恩科学发展循环

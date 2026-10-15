@@ -7,7 +7,7 @@ aliases:
 summary: "教师在真实课堂情境中协同分享、测试、实施与改进教学实践的双向互动过程，由 Fielding 与 Sebba 等提出并成为英格兰国家学校领导力学院的核心范式，旨在彻底超越传统单向线性移植的优秀实践转移模型，构成专业学习共同体与证据知情学校微观落地的核心机制"
 type: concept
 domain: "teacher-education"
-related_count: 37
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Epistemology]]"
   - "[[Champ]]"
-  - "[[Hypothesis]]"
   - "[[Activity Traps]]"
   - "[[Reflexivity]]"
   - "[[Technical Rationality]]"
@@ -35,7 +34,6 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Metacognition]]"
   - "[[School Leadership]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[School Enquiry Cycle]]"
   - "[[Performance Pay]]"
   - "[[Peer-Supported Learning]]"
@@ -44,7 +42,6 @@ related_concepts:
   - "[[Recontextualization]]"
   - "[[Research-Engaged School]]"
   - "[[Knowledge Mobilisation]]"
-  - "[[Document]]"
 related_theories:
   - "[[Third Generation Activity Theory]]"
 related_methods:
@@ -102,7 +99,7 @@ updated: 2026-10-15
 > | **[[Epistemology\|认识论假设]]** | 知识具有高度情境性与缄默性，需在互动中共同建构 | 知识是可分离、可封装、可线性移植的离散实体 | 知识由学术专家垄断，教师仅为被动接受者与执行者 |
 > | **互动形态** | 双向平等互惠、相互挑战、共同探究 | 单向传递、“专家示范—新手模仿” | 单向讲授、专家灌输、自上而下灌输 |
 > | **实践[[Champ\|场域]]** | 真实常态课堂、备课现场与课例研讨现场 | 脱离原生态环境的展示课、研讨会发言 | 校外培训机构教室、报告厅、会议室 |
-> | **反思深度** | 深入审视底层行动理论、[[Hypothesis\|假设]]与因果机制（双环学习） | 聚焦表层操作步骤与技巧套用（单环模仿） | 理论记忆与宏观理念认同，脱离具体微观操作 |
+> | **反思深度** | 深入审视底层行动理论、假设与因果机制（双环学习） | 聚焦表层操作步骤与技巧套用（单环模仿） | 理论记忆与宏观理念认同，脱离具体微观操作 |
 > | **常见风险** | 耗费时间与精力，易因工作量过载或虚假合意变形 | 水土不服、机械照搬，极易蜕变为[[Activity Traps\|活动陷阱]] | 听时心动、回校不动，培训成效迅速衰减遗忘 |
 
 ---
@@ -176,7 +173,7 @@ updated: 2026-10-15
 > 依托 JPD 开展课例探究与同侪观课，迫使教师团队跳出“执行活动清单”的表层思维，持续追问干预背后的“行动理论”（Theories of Action）及其在特定情境下的有效支撑条件，从而阻断教学活动脱离学习结果的“活动陷阱”（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, pp. 123, 125]]；Cartwright, 2013）。
 >
 > > [!warrant]- 理论推导与经验依据
-> > 当教师单独引入外部新教学法时，因缺乏客观反馈与批判性对话，往往满足于学生在课堂上“看起来很忙碌”（Activity Traps）。而在 JPD 模式下，同行观察员专门紧盯焦点学生的实际思维演变，课后研讨直接检视“原方案设想的因果链条是否在当前学生身上发生”。这种直面底层[[Hypothesis\|假设]]的反思推动了组织学习中的“双环学习”（Argyris & Schön, 1978），确保教学改进聚焦于实质性学习收益。
+> > 当教师单独引入外部新教学法时，因缺乏客观反馈与批判性对话，往往满足于学生在课堂上“看起来很忙碌”（Activity Traps）。而在 JPD 模式下，同行观察员专门紧盯焦点学生的实际思维演变，课后研讨直接检视“原方案设想的因果链条是否在当前学生身上发生”。这种直面底层假设的反思推动了组织学习中的“双环学习”（Argyris & Schön, 1978），确保教学改进聚焦于实质性学习收益。
 
 ---
 
@@ -185,7 +182,7 @@ updated: 2026-10-15
 > [!dev-timeline] 概念演变
 > - **2005 — 实践转移失败与 JPD 雏形奠定** 迈克尔·菲尔丁（Michael Fielding）等学者受英国教育部委托完成专项研究，发表报告《影响良好实践转移的因素》（*Factors Influencing the Transfer of Good Practice*），首次正式提出“联合实践发展”（JPD）概念，严厉批评新工党政府推行的机械式“优秀实践转移”政策，奠定情境共创[[Paradigm\|范式]]。
 > - **2010–2012 — 成为英格兰国家领导力战略核心范式** 英国著名教育学者戴维·哈格里夫斯（David Hargreaves）在论述“[[Self-Improving School System\|自我改进学校系统]]”（SISS）时将 JPD 确立为校际协作成熟度的标志；朱迪·塞巴（Judy Sebba）等学者（2012）为英格兰国家[[School Leadership\|学校领导力]]学院（NCSL）撰写《强大专业学习：学校领导者联合实践发展指南》，使 JPD 成为[[Teaching Schools\|教学学校联盟]]（TSAs）与卓越校建设的法定指南。
-> - **2014–2018 — 证据知情学校与微观课堂[[Transfer Translation Transformation\|转译]]整合** [[Chris Brown\|克里斯·布朗]]（Chris Brown）与[[Toby Greany\|托比·格里尼]]（Toby Greany）通过“[[Research Learning Communities\|研究学习共同体]]”（RLC）项目，将 JPD、[[Lesson Study\|课例研究]]与[[School Enquiry Cycle\|学校探究循环]]深度熔铸，确立 JPD 为一线学校实现研究证据微观转译、规避[[Activity Traps\|活动陷阱]]的[[Operationalization\|操作化]]中枢（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018]]）。
+> - **2014–2018 — 证据知情学校与微观课堂转译整合** [[Chris Brown\|克里斯·布朗]]（Chris Brown）与[[Toby Greany\|托比·格里尼]]（Toby Greany）通过“[[Research Learning Communities\|研究学习共同体]]”（RLC）项目，将 JPD、[[Lesson Study\|课例研究]]与[[School Enquiry Cycle\|学校探究循环]]深度熔铸，确立 JPD 为一线学校实现研究证据微观转译、规避[[Activity Traps\|活动陷阱]]的[[Operationalization\|操作化]]中枢（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018]]）。
 
 ---
 
@@ -214,7 +211,7 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - **[[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]]** 实证检验英格兰 79 所小学证据利用准备度，确立 JPD 与[[Lesson Study\|课例研究]]作为 [[Professional Learning Community\|PLC]] 在微观课堂中[[Operationalization\|操作化]][[Transfer Translation Transformation\|转译]]证据、规避[[Activity Traps\|活动陷阱]]的核心载体。
+> - **[[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]]** 实证检验英格兰 79 所小学证据利用准备度，确立 JPD 与[[Lesson Study\|课例研究]]作为 [[Professional Learning Community\|PLC]] 在微观课堂中[[Operationalization\|操作化]]转译证据、规避[[Activity Traps\|活动陷阱]]的核心载体。
 > - **Sebba et al. (2012)** 为英格兰国家[[School Leadership\|学校领导力]]学院撰写指南，系统界定 JPD 的领导力推进原则、组织流程与评估标准。
 > - **Fielding et al. (2005)** 奠定 JPD [[Construct\|构念]]的里程碑报告，通过多案例实证揭示“优秀实践转移”模型的内在缺陷与 JPD 的替代优势。
 
@@ -230,7 +227,7 @@ updated: 2026-10-15
 > | [[Lesson Study]] | Method | JPD 最经典、应用最广泛的微观操作化技术与集体反思形态。 |
 > | [[School Enquiry Cycle]] | Concept | 学校层面开展证据检验的四阶段宏观框架，JPD 支撑其“课堂试验与微调”阶段。 |
 > | [[Activity Traps]] | Concept | JPD 通过对底层行动理论与因果机制的审思，有效防范陷入形式主义的活动陷阱。 |
-> | [[Research Translation]] | Concept | 研究证据向微观常态课堂[[Transfer Translation Transformation\|转译]]的落地中介，JPD 拒绝机械剪贴并实现情境[[Recontextualization\|再脉络化]]。 |
+> | [[Research Translation]] | Concept | 研究证据向微观常态课堂转译的落地中介，JPD 拒绝机械剪贴并实现情境[[Recontextualization\|再脉络化]]。 |
 > | [[Evidence-Informed Practice]] | Concept | JPD 构成了循证实践在学校与课堂微观日常中的制度化实现载体。 |
 > | [[Research-Engaged School]] | Concept | 致力于培育全面探究文化的学校形态，普遍将 JPD 纳为常态化校本教研机制。 |
 > | [[Self-Improving School System]] | Concept | 英格兰国家教育改革战略，将校际 JPD 网络作为横向[[Knowledge Mobilisation\|知识动员]]与系统自改进的核心支柱。 |
@@ -239,4 +236,4 @@ updated: 2026-10-15
 > | [[Chris Brown]] | Person | 主持 RLC 实证研究，将 JPD 纳入学校循证领导力四因素结构模型的核心学者。 |
 > | [[Toby Greany]] | Person | 本文合作者，深入分析 JPD 在教学学校联盟与自我改进系统中的实践成效与工作量困境。 |
 > | [[Nancy Cartwright]] | Person | 提出干预起效依赖于底层行动理论与情境支持因素，为 JPD 提供了因果哲学依据。 |
-> | [[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018]] | Argument | 揭示学校微观研究转化机制、确立 JPD 与课例研究防范活动陷阱的关键[[Document\|文献]]。 |
+> | [[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018]] | Argument | 揭示学校微观研究转化机制、确立 JPD 与课例研究防范活动陷阱的关键文献。 |

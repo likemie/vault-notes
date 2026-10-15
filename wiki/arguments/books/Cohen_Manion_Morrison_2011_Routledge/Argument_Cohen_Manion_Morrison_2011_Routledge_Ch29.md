@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29"
 argument_display_title: "Research Methods in Education · Ch29"
 argument_kind: "book-chapter"
-argument_related_count: 37
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -43,11 +43,11 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Research Purpose]]"
   - "[[Abstract]]"
-  - "[[Hypothesis]]"
   - "[[Causality]]"
   - "[[Unit of Analysis]]"
   - "[[Positivism]]"
   - "[[Reliability]]"
+  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Chain of Evidence]]"
   - "[[Presence]]"
@@ -61,7 +61,6 @@ related_methods:
   - "[[Content Analysis]]"
   - "[[Typological Analysis]]"
   - "[[Case Study]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Qualitative Research]]"
   - "[[Stratified Sampling]]"
@@ -119,7 +118,7 @@ updated: '2026-09-08'
 > [!case] 案例　中国儿童学英语，访谈数据的表格化呈现（29.1）
 > 工作实例来自一篇博士论文，研究中国学童在学校学习英语时所遇的问题。该实例用逐题（question by question）的方式呈现访谈数据，展示如何用表格把质性数据组织起来并配以评注。
 >
-> **[[Coding in Qualitative Research\|编码]]系统**
+> **编码系统**
 > - P1–P6 为小学一至六年级（Primary forms），P1 为一年级，P2 为二年级，依此类推。
 > - F1–F5 为中学一至五年级（Secondary forms），F1 为中学第一年，依此类推。
 > - 表格左栏标明受访者编号（1–12）与所教年级（如 P1、F3），例如"1–3: P1"表示受访者 1–3 教授 P1 班级。
@@ -335,7 +334,7 @@ updated: '2026-09-08'
 > [!proc] 叙事与传记的分析流程
 > 1. **选择性聚焦** 叙事与传记无法记录所有事件，应采用选择性聚焦，依据所选择的判据：故事或叙事中的关键决策点、关键（对参与者有意义）的事件、主题、行为、行动、决策、人物、时间节点、对参与者的意义事件、个案历史的重构（Flick, 2009, p. 347）、关键地点、关键经验。
 > 2. **识别文本单元** 依适合[[Research Purpose\|研究目的]]的判据，识别传记或叙事中的文本单元。
-> 3. **分析与诠释** 分析并诠释文本中蕴含的意义，发展工作[[Hypothesis\|假设]]解释所发生之事。
+> 3. **分析与诠释** 分析并诠释文本中蕴含的意义，发展工作假设解释所发生之事。
 > 4. **检验假设** 以数据与文本其余部分核对假设，把文本视为整体而非离散单元。
 > 5. **考虑替代诠释** 确保已考虑文本的不同诠释，并选择对文本最忠实者（fidelity to the text）。（29.3）
 
@@ -387,7 +386,7 @@ updated: '2026-09-08'
 >     - **第一印象（first impressions）** 早期数据分析可能影响随后的数据收集与分析。
 >     - **正例（positive instances）** 可能过度强调确证数据，低估否证数据。
 >     - **[[Internal Consistency\|内部一致性]]（internal consistency）** 不寻常、意外或新颖之处可能被轻描淡写。
->     - **假设修订（revision of hypotheses）** 可能对新数据反应过度或不足。
+>     - **假设修订（revision of [[Hypothesis|hypotheses]]）** 可能对新数据反应过度或不足。
 >     - **判断信心（confidence in judgement）** 可能对最终判断信心过强。
 > - **可得性偏误**
 >     - **人员可得性（availability of people）** 例如这些人的代表性如何，以及如何知道缺失的人员与数据是否重要。
@@ -570,7 +569,7 @@ updated: '2026-09-08'
 >
 > *"All research is researching yourself" (Walford, 2001, p. 98).*
 
-> [!citation-card]- 叙事作为[[Coding in Qualitative Research\|编码]]的对照
+> [!citation-card]- 叙事作为编码的对照
 > 叙事是对编码及编码衍生分析的至上性的对照；通过讲述故事，叙事记述摆脱编码的限制与脱体文本的风险，把文本与内容保持在一起。（29.3）
 >
 > *Narratives are a foil to the supremacy of coding and coding-derived analysis.*

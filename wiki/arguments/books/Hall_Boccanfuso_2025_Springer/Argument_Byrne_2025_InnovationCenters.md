@@ -18,10 +18,8 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Asset Mapping]]"
   - "[[Placemaking]]"
-  - "[[Document]]"
   - "[[Technology Transfer]]"
   - "[[Theoretical Validity]]"
-  - "[[Hypothesis]]"
   - "[[Determinism]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Research Translation]]"
@@ -39,8 +37,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Red Tape]]"
   - "[[Creativity]]"
-related_theories:
-  - "[[Theory of Mind]]"
+related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Questionnaire]]"
@@ -74,7 +71,7 @@ title: "Argument_Byrne_2025_InnovationCenters"
 argument_key: "Argument_Byrne_2025_InnovationCenters"
 argument_display_title: "Innovation Centers and Economic Development"
 argument_kind: "book"
-argument_related_count: 43
+argument_related_count: 40
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -125,7 +122,7 @@ citation_aliases:
 >
 > 本章引用了利益相关者理论(Stakeholder Theory, Freeman, 1984)，借以说明创新中心采取整体性网络建设方式的合理性，但未将其作为正式[[Analytic Framework\|分析框架]](pp.125–126)。
 >
-> TUFF 的实践框架有相当规模的[[Document\|文献]]支持。Battelle 技术合作实践（Battelle Technology Partnership Practice）2013 年对北美大学[[Innovation Park\|研究园区]]的调查显示，研究园区附属企业相比非附属企业在就业增长、初创成功率和长期留存收益方面表现显著更好(p.125)。在学术产出方面，Dooley & Kirk(2007)证明了创新中心对大学研发和[[Technology Transfer\|技术转移]]的净正面影响；Chai & Shih(2016)发现产学合作同时提升了中小企业和大型企业的整体研究产出和专利数量。Katz & Ordover(1990)指出，创新园区能够打破大学内部各院系之间的孤岛，或创造出原本不存在的跨学科研发合作激励。区域经济政策层面，Cullum Clark(2022)的研究表明，支持创新的区域政策吸引了移民，移民又推动了本地财富增长和社会经济指标的相对提升，形成正向增长循环。不过，关于较新的产学合作的研究尚不充分，指向利益相关者[[Theoretical Validity\|理论有效性]]的证据目前"更加定性和轶事性"（more qualitative and anecdotal, p.126）。
+> TUFF 的实践框架有相当规模的文献支持。Battelle 技术合作实践（Battelle Technology Partnership Practice）2013 年对北美大学[[Innovation Park\|研究园区]]的调查显示，研究园区附属企业相比非附属企业在就业增长、初创成功率和长期留存收益方面表现显著更好(p.125)。在学术产出方面，Dooley & Kirk(2007)证明了创新中心对大学研发和[[Technology Transfer\|技术转移]]的净正面影响；Chai & Shih(2016)发现产学合作同时提升了中小企业和大型企业的整体研究产出和专利数量。Katz & Ordover(1990)指出，创新园区能够打破大学内部各院系之间的孤岛，或创造出原本不存在的跨学科研发合作激励。区域经济政策层面，Cullum Clark(2022)的研究表明，支持创新的区域政策吸引了移民，移民又推动了本地财富增长和社会经济指标的相对提升，形成正向增长循环。不过，关于较新的产学合作的研究尚不充分，指向利益相关者[[Theoretical Validity\|理论有效性]]的证据目前"更加定性和轶事性"（more qualitative and anecdotal, p.126）。
 
 ---
 
@@ -144,7 +141,7 @@ citation_aliases:
 > - [[University of Illinois Research Park]]
 > - STAR Park（特拉华大学）
 >
-> 信息来自 TUFF 的直接参与和与各园区管理者的对话，属于从大量案例中归纳的实践原则，而非系统性实证研究中的[[Hypothesis\|假设]]检验。
+> 信息来自 TUFF 的直接参与和与各园区管理者的对话，属于从大量案例中归纳的实践原则，而非系统性实证研究中的假设检验。
 
 ---
 
@@ -345,7 +342,7 @@ citation_aliases:
 > [!example]
 > 一个以旅游经济为主的小城市，看到深圳建了科技创新中心很成功，就照搬了一个"AI 产业园"。但本地没有 AI 研究基础，没有风投生态，最优秀的学生高中毕业就去了省会城市读大学且不再回来。这个"AI 产业园"大概率会变成空置的写字楼。
 >
-> 如果这个城市从本地优势出发，[[Hypothesis\|假设]]本地有丰富的中小学自然教育基地资源和一批有经验的户外教育从业者，围绕"自然教育"和"研学旅行"来设计创新中心，整合本地大学的生态学系、教育学院课程设计专家以及旅游行业的营销和运营能力，成功的可能性就大得多。
+> 如果这个城市从本地优势出发，假设本地有丰富的中小学自然教育基地资源和一批有经验的户外教育从业者，围绕"自然教育"和"研学旅行"来设计创新中心，整合本地大学的生态学系、教育学院课程设计专家以及旅游行业的营销和运营能力，成功的可能性就大得多。
 
 21. 区域合作初期需要一位多面手式执行主管，能在房地产、政府关系、金融、市场营销、学术、项目激活和资产管理之间做翻译和协调，不一定每个领域都是专家(p.134)。
 
@@ -364,7 +361,7 @@ citation_aliases:
 
 23. 科学家和工程师，尤其是来自不同学科和行业的人，不太会主动社交(p.137)。他们需要"借口"来互动。这种借口应当是趣味的、低压力、非正式的活动，正式会议无法产生真正的跨学科交流。
 
-24. 在 Tech Square，[[TUFF]] 的 [[Theory of Mind|ToM]] Hall 致力于创新"非传统激活"（unconventional activation）这一概念，专门为那些天性不太倾向于社交的、高度专注的群体设计互动契机。活动类型非常灵活，目标是尽可能把更多人聚到一起(p.137)。
+24. 在 Tech Square，[[TUFF]] 的 ToM Hall 致力于创新"非传统激活"（unconventional activation）这一概念，专门为那些天性不太倾向于社交的、高度专注的群体设计互动契机。活动类型非常灵活，目标是尽可能把更多人聚到一起(p.137)。
 
 > [!example]
 > 乐高搭建比赛、知识问答之夜、桌游下午茶、Taco Tuesday。两个平时在各自实验室里埋头工作的人，可能因为拼乐高时聊到"你做什么的"而发现，一个人正在做的机器学习模型，恰好可以解决另一个人实验室里困扰了三年的数据标注问题(pp.136–137)。

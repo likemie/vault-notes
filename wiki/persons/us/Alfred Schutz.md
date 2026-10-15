@@ -6,7 +6,7 @@ summary: "奥地利-美国社会学家与哲学家，现象学社会学奠基人
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 28
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -21,7 +21,6 @@ tags:
   - region/austria
 related_concepts:
   - "[[Creativity]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Interpretive Paradigm]]"
   - "[[Reflexivity]]"
   - "[[Typification]]"
@@ -31,7 +30,6 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Paradigm]]"
   - "[[Operationalization]]"
-  - "[[Hypothesis]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Structural Functionalism]]"
@@ -57,7 +55,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Alfred Schutz
@@ -68,7 +66,7 @@ updated: 2026-10-08
 
 > [!person-profile] 人物档案
 > - **身份位置** 奥地利裔美国哲学家、社会学家，[[Phenomenology\|现象学]]社会学（Phenomenological Sociology）与存在现象学（Existential Phenomenology）开山奠基人，曾执教于纽约新社会研究学院（New School for Social Research）。
-> - **核心角色** 将[[Edmund Husserl\|埃德蒙德·胡塞尔]]（[[Edmund Husserl]]）的先验现象学[[Creativity\|创造性]]地[[Transfer Translation Transformation\|转译]]引入社会学领域，致力于对人类社会行动进行严格的科学探究。舒茨将日常生活世界的意义结构置于核心，确立了行动者在微观互动中如何建构现实的理论大厦，成为社会科学[[Interpretive Paradigm\|诠释范式]]与[[Qualitative Research\|质性研究]]最根本的理论支柱之一。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
+> - **核心角色** 将[[Edmund Husserl\|埃德蒙德·胡塞尔]]（[[Edmund Husserl]]）的先验现象学[[Creativity\|创造性]]地转译引入社会学领域，致力于对人类社会行动进行严格的科学探究。舒茨将日常生活世界的意义结构置于核心，确立了行动者在微观互动中如何建构现实的理论大厦，成为社会科学[[Interpretive Paradigm\|诠释范式]]与[[Qualitative Research\|质性研究]]最根本的理论支柱之一。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
 > - **代表贡献** 提出日常生活世界现象学分析、意识流与回顾性[[Reflexivity\|反思性]]概念、常识[[Typification\|类型化]]（Typification）图式以及多重实在（Multiple Realities）理论。
 
 > [!citation-card] Burrell 与 Morgan 论舒茨将现象学融入社会行为研究
@@ -145,11 +143,11 @@ updated: 2026-10-08
 
 > [!person-network] 关系网络
 > - **师承／思想渊源**
->   - **[[Edmund Husserl\|埃德蒙德·胡塞尔]]（Edmund Husserl）** [[Phenomenology\|现象学]]思想领路人，舒茨将其先验主体[[Intent-to-Treat Analysis\|意向性分析]][[Transfer Translation Transformation\|转译]]至世俗的社会生活世界中。
+>   - **[[Edmund Husserl\|埃德蒙德·胡塞尔]]（Edmund Husserl）** [[Phenomenology\|现象学]]思想领路人，舒茨将其先验主体[[Intent-to-Treat Analysis\|意向性分析]]转译至世俗的社会生活世界中。
 >   - **[[Max Weber\|马克斯·韦伯]]（Max Weber）** 理解社会学开拓者，舒茨旨在通过现象学为韦伯的“主观意图”概念提供坚固的[[Epistemology\|认识论]]地基。
 >   - **亨利·柏格森（Henri Bergson）** 早期时间哲学启蒙者，启发其对内在绵延（durée）与反思回顾的理论建构。
 > - **学生／继承者**
->   - **[[Harold Garfinkel\|哈罗德·加芬克尔]]（Harold Garfinkel）** 常人方法学创始人，将舒茨关于日常生活中“理所当然”常识[[Hypothesis\|假设]]的论述激进化为微观实证方法。
+>   - **[[Harold Garfinkel\|哈罗德·加芬克尔]]（Harold Garfinkel）** 常人方法学创始人，将舒茨关于日常生活中“理所当然”常识假设的论述激进化为微观实证方法。
 >   - **彼得·伯格（Peter L. Berger）与托马斯·卢克曼（Thomas Luckmann）** 博士弟子，继承其生活世界现象学并出版《实在的社会构建》，风靡全球社会学界。
 > - **批评者／学术论敌**
 >   - **[[Talcott Parsons|塔尔科特·帕森斯]]（Talcott Parsons）** [[Structural Functionalism|结构功能主义]]领袖，与舒茨就主观唯意志行动是否能在宏观系统框架中被客观化展开了长达两年的历史性通信论战。
@@ -175,7 +173,7 @@ updated: 2026-10-08
 > [!entry-map]
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Phenomenology\|现象学]] | 理论 | 将欧陆先验哲学[[Transfer Translation Transformation\|转译]]为世俗的现象学社会学，确立生活世界的中心地位。 |
+> | [[Phenomenology\|现象学]] | 理论 | 将欧陆先验哲学转译为世俗的现象学社会学，确立生活世界的中心地位。 |
 > | [[Reflexivity\|反思性]] | 概念 | 阐明经验流通过主体的回顾性反身审视而获得主观意义生成的机制。 |
 > | [[Interpretive Paradigm\|诠释范式]] | 理论 | 为探究人类主观意图与常识理解提供了第一序[[Construct\|构念]]与第二序构念的方法论框架。 |
 > | [[Ethnomethodology\|常人方法学]] | 理论 | 启发后继学者将日常生活中理所当然的常识推理作为独立经验现象深入探究。 |

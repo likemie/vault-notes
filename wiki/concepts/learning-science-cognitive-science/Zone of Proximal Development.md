@@ -9,7 +9,7 @@ aliases:
 summary: "由维果茨基提出的心智发展与教学核心构念，指个体独立解决问题的实际水平与在他人指导或协作下的潜在水平之间的动态差距。现代教育理论已将其从儿童认知与自适应智能体脚手架，进一步拓展至基于课堂观察诊断的教师专业发展与循证辅导。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 55
+related_count: 53
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -48,7 +48,6 @@ related_concepts:
   - "[[Peer-Supported Learning]]"
   - "[[Dependent Variable]]"
   - "[[Heterogeneity]]"
-  - "[[Document]]"
   - "[[Procedural Skill]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Powerful Knowledge]]"
@@ -61,7 +60,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Observation Protocol]]"
   - "[[Pre-test and Post-test]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Cohort Study]]"
   - "[[Effect Size]]"
   - "[[Prediction Interval]]"
@@ -274,7 +272,7 @@ ZPD [[Construct|构念]]不仅支配儿童认知成长，同样统治着成年�
 > |---|---|---|
 > | **动态评估（Dynamic Assessment）** | 采用“前测（独立基线）$\to$ 标准化线索提示 $\to$ 后测（迁移应用）”的三段式流程。 | 以受试者达成解决问题所需的**线索提示数量（Prompt Count）**作为 ZPD 宽度的逆向指标。 |
 > | **自适应学习系统（[[AI Agent in Education\|AI Agent]] [[Intelligent Tutoring Systems\|ITS]]）** | 通过知识图谱与错因分析算法，动态推送掌握概率在 50%–70% 之间的挑战任务。 | 追踪知识点掌握度概率提升曲线与自适应支架撤销速率（Fading Rate）。 |
-> | **课堂协作支架设计** | 异质分组与[[Peer-Supported Learning\|同伴互助]]，确保组内存在能力稍高但认知差距适度的搭档。 | 课堂互动言语分析与认知参与度[[Coding in Qualitative Research\|编码]]。 |
+> | **课堂协作支架设计** | 异质分组与[[Peer-Supported Learning\|同伴互助]]，确保组内存在能力稍高但认知差距适度的搭档。 | 课堂互动言语分析与认知参与度编码。 |
 > | **教师微观实践辅导（Coach 规程）** | 依据标准化[[Observation Protocol\|观察协议]]（如 Teach）评定教师各要素得分，匹配最近发展区实施微格演练。 | 教师微观教学行为等级跃升度与学生学业标准化增值。[[Argument_WorldBank_2019_Teach\|(World Bank Group, 2019, p. 3)]] |
 
 ---
@@ -314,7 +312,7 @@ ZPD [[Construct|构念]]不仅支配儿童认知成长，同样统治着成年�
 
 ## 相关研究
 
-本 vault 中关于最近发展区及其支架化拓展的核心[[Document|文献]]索引如下。
+本 vault 中关于最近发展区及其支架化拓展的核心文献索引如下。
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Liu_2026_CHBR|Liu et al. (2026)]] — 将 AI [[AI Agent in Education|智能体]][[Operationalization|操作化]]为基础教育学生的外部[[Scaffolding|认知脚手架]]，论证其在最近发展区内自适应微提示对[[Procedural Skill|程序技能]]与[[Higher-Order Thinking Skills|高阶思维]]的赋能机制（pp. 2, 9–10）。

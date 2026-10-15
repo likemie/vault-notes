@@ -21,7 +21,6 @@ tags:
   - method/qualitative
 related_concepts:
   - "[[Professional Judgment]]"
-  - "[[Hypothesis]]"
   - "[[Policy Entrepreneur]]"
   - "[[Policy Window]]"
   - "[[Problem Finding]]"
@@ -36,10 +35,8 @@ related_concepts:
   - "[[College and Career Readiness]]"
   - "[[Competitiveness]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Discourse]]"
   - "[[Counterpart Funds]]"
-  - "[[Document]]"
   - "[[Epistemic Ascent]]"
   - "[[Learning Progression]]"
   - "[[Scaffolding]]"
@@ -101,7 +98,7 @@ title: "Argument_McDonnell_2013_AJE"
 argument_key: "Argument_McDonnell_2013_AJE"
 argument_display_title: "Evidence use and the Common Core State Standards movement: From problem definition to policy adoption"
 argument_kind: "journal-article"
-argument_related_count: 63
+argument_related_count: 60
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -126,7 +123,7 @@ issuing_organization: ""
 > [!concept-lens] 阅读透镜
 > - **对象** 美国[[Common Core State Standards|共同核心州立标准]]（Common Core State Standards, CCSS）运动从问题动议发起、标准文本研制到 45 个州及特区法定采纳的全过程。（pp. 1, 7）
 > - **张力** 科学实证政策（Research-based policy）的规范性学术诉求，与真实政策世界中多元证据混杂、细分研究供给匮乏以及政治妥协博弈之间的深层张力。（pp. 1–3）
-> - **贡献** 推翻了教育决策中科学证据单向注入的线性工程[[Hypothesis|假设]]，基于政治学与政策分析传统提炼出阶段权变型证据整合模型，细化了[[Policy Entrepreneur|政策企业家]]在不同生命周期动员多元证据的微观机制。（pp. 3–7, 19）
+> - **贡献** 推翻了教育决策中科学证据单向注入的线性工程假设，基于政治学与政策分析传统提炼出阶段权变型证据整合模型，细化了[[Policy Entrepreneur|政策企业家]]在不同生命周期动员多元证据的微观机制。（pp. 3–7, 19）
 
 ---
 
@@ -220,7 +217,7 @@ issuing_organization: ""
 > - **企业劳动力技能短缺数据** 联合全美主要商界协会，用雇主调研数据说明多数高中毕业生缺乏应对现代[[Knowledge-Based Economy|知识经济]]所需的复杂阅读理解与定量推理能力。
 
 > [!warrant]- 实证差距指标转化为改革压力的政治动员机制
-> 客观存在的统计数据本身并无政策强制力。政策企业家通过在国会听证会、全美州长峰会及主流媒体上的高频聚焦展示，将专业评估数据[[Transfer Translation Transformation|转译]]为公众可感知的危机警报，使立法者确信各州现行标准制造了虚假的高达标率，直接损害了年轻一代在知识经济中的竞争力，从而瓦解了维持现状的正当性。（pp. 8–10）
+> 客观存在的统计数据本身并无政策强制力。政策企业家通过在国会听证会、全美州长峰会及主流媒体上的高频聚焦展示，将专业评估数据转译为公众可感知的危机警报，使立法者确信各州现行标准制造了虚假的高达标率，直接损害了年轻一代在知识经济中的竞争力，从而瓦解了维持现状的正当性。（pp. 8–10）
 
 #### 3. 政策企业家融合两党核心价值观，并依托慈善基金建立跨界游说网络
 
@@ -245,7 +242,7 @@ issuing_organization: ""
 ### 论证步骤二　方案设计：倡导者以实证研究为盾牌排除政治干扰，面对实证不足则依靠专家逻辑与教师经验定稿
 
 > [!claim] 步骤二核心主张
-> 进入标准研制与条文起草阶段后，倡导者高举以实证为依据的旗号，实质上是为了筑起一道防范意识形态干预的技术护栏。然而，现有实证研究在多数高年级学科领域极度匮乏，各年级标准的实际编排无法仅凭[[Document|文献]]决定，最终依靠学科专家的内在学科逻辑与一线教师的实践经验才得以完成定稿。（pp. 12–16）
+> 进入标准研制与条文起草阶段后，倡导者高举以实证为依据的旗号，实质上是为了筑起一道防范意识形态干预的技术护栏。然而，现有实证研究在多数高年级学科领域极度匮乏，各年级标准的实际编排无法仅凭文献决定，最终依靠学科专家的内在学科逻辑与一线教师的实践经验才得以完成定稿。（pp. 12–16）
 
 #### 1. 倡导者将标准标榜为科学证据驱动，有效抵御了意识形态争议
 
@@ -404,7 +401,7 @@ issuing_organization: ""
 > [!finding-cards] 核心发现
 > 1. **证据利用呈现强烈的阶段权变性** 研究证据的动员形态在政策周期中发生系统演变：前端表现为概念性与象征性指标动员，中端表现为去政治化的专业护栏，后端收敛为极具针对性的工具性对标分析。（pp. 1–3, 18–19）
 > 2. **诉诸科学研究是有效的去政治化政治策略** 在争议激烈的课程领域，倡导者将标准锚定在实证研究之上，成功抑制了各方主观诉求将标准起草拖入政治妥协泥潭的风险，成为跨越课程战争的制度盾牌。（pp. 13, 19）
-> 3. **[[Professional Judgment|专业判断]]与实践常识是不可替代的证据支柱** 当学术[[Document|文献]]在细分教学领域缺乏确凿实证时，资深学者的逻辑推演与一线中小学教师的课堂可行性反馈，构成了填补知识断层不可或缺的核心证据源。（pp. 14–16, 19）
+> 3. **[[Professional Judgment|专业判断]]与实践常识是不可替代的证据支柱** 当学术文献在细分教学领域缺乏确凿实证时，资深学者的逻辑推演与一线中小学教师的课堂可行性反馈，构成了填补知识断层不可或缺的核心证据源。（pp. 14–16, 19）
 > 4. **打破[[Punctuated Equilibrium Theory|政策垄断]]必须依赖价值、指标与资金的三元共振** 单纯客观的数据无法自发开启[[Policy Window|政策窗口]]；只有将测评落差指标与国家经济安全、阶层向上流动等两党核心价值紧密结合，并在数千万美元慈善资本支撑下协同发力，才能瓦解长达百年的分权制度垄断。（pp. 4–5, 8–11, 22）
 
 > [!stat-cards]- 核心数据
@@ -446,7 +443,7 @@ issuing_organization: ""
 
 > [!warning]
 > - **实施阶段数据的未纳入** 本文研究仅截取至各州立法采纳节点，尚未纳入标准在具体学区与课堂实施（Implementation）阶段的实证数据；由于基层推行涉及截然不同的制度激励与行动者，实施阶段的证据利用逻辑可能出现显著漂移。（pp. 7, 20）
-> - **教育研究供应目录的未穷尽** [[Research Purpose|研究目的]]旨在基于[[Elite Interview|精英访谈]]和档案追踪真实被使用的证据，并未全面编目潜在可能指导 [[Common Core State Standards|CCSS]] 的全量学术[[Document|文献]]供给库。（p. 21）
+> - **教育研究供应目录的未穷尽** [[Research Purpose|研究目的]]旨在基于[[Elite Interview|精英访谈]]和档案追踪真实被使用的证据，并未全面编目潜在可能指导 [[Common Core State Standards|CCSS]] 的全量学术文献供给库。（p. 21）
 > - **[[Learning Progression|学习进阶]]的经验推断性质** 研究指出，虽然 K–2 数学进阶具备强实证基础，但高年级数学与复杂文本难度的进阶序列本质上仍具有概率性与经验推断特征，其实际因果效能有待未来长期大规模课堂干预检验。（pp. 22–23）
 
 ---

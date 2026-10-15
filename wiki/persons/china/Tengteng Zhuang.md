@@ -7,7 +7,7 @@ summary: "中国教育研究者，中国教育实证研究文献计量整理者�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 6
+person_related_count: 5
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -18,7 +18,6 @@ tags:
 - tengteng-zhuang
 - region/china
 related_concepts:
-  - "[[Document]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
 related_theories: []
@@ -32,17 +31,17 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-02'
-updated: 2026-09-11
+updated: 2026-10-15
 ---
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 庄腾腾，北京师范大学（Beijing Normal University）教育研究者，研究方向为中国教育实证研究的[[Document\|文献]]计量分析和制度化发展。
+> - **身份位置** 庄腾腾，北京师范大学（Beijing Normal University）教育研究者，研究方向为中国教育实证研究的文献计量分析和制度化发展。
 
 ## 核心思想
 
 > [!info] 核心思想
-> 关注[[Evidence-Based Education\|证据本位教育]]研究在中国的制度化进程。在 [[Argument_Slavin_2021_ECNUROE\|Slavin et al. (2021)]] 中负责梳理近年中国证据本位教育改革的[[Document\|文献]]和材料，包括 CNKI 数据库文献计量数据检索和摘要([[Argument_Slavin_2021_ECNUROE\|Slavin et al., 2021, p.23]])。
+> 关注[[Evidence-Based Education\|证据本位教育]]研究在中国的制度化进程。在 [[Argument_Slavin_2021_ECNUROE\|Slavin et al. (2021)]] 中负责梳理近年中国证据本位教育改革的文献和材料，包括 CNKI 数据库文献计量数据检索和摘要([[Argument_Slavin_2021_ECNUROE\|Slavin et al., 2021, p.23]])。
 
 ## 主要贡献
 
@@ -53,7 +52,7 @@ updated: 2026-09-11
 ## 主要著作
 
 > [!abstract] 主要著作
-> - [[Robert Slavin\|Slavin, R.]] E., [[Alan C. K. Cheung\|Cheung, A. C. K.]], & Zhuang, T. (2021). How could [[Evidence-Based Reform]] advance education? *ECNU Review of Education*, 4(1), 7–24. — 负责中国[[Evidence-Based Education\|证据本位教育]]改革[[Document\|文献]]与数据梳理
+> - [[Robert Slavin\|Slavin, R.]] E., [[Alan C. K. Cheung\|Cheung, A. C. K.]], & Zhuang, T. (2021). How could [[Evidence-Based Reform]] advance education? *ECNU Review of Education*, 4(1), 7–24. — 负责中国[[Evidence-Based Education\|证据本位教育]]改革文献与数据梳理
 
 ## 思想发展与影响
 

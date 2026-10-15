@@ -9,7 +9,7 @@ aliases:
 summary: "Carol Bacchi (2009) 提出的政策分析框架，通过六个递进问题审视政策文本中问题如何被表征和建构，揭示权力、假设和沉默，属于批判政策社会学传统。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 17
+theory_related_count: 16
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Policy Mobility]]"
   - "[[Discourse]]"
-  - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Theoretical Standpoint]]"
   - "[[Ontology]]"
@@ -44,7 +43,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Bacchi's WPR Approach
@@ -68,7 +67,7 @@ updated: 2026-10-07
 > [!proposition-chain] WPR 六步分析机制
 > WPR方法通过六个逐层递进的问题来审视和解构政策文本，从而揭示隐藏的治理逻辑（Bacchi, 2009, p. 2）：
 > 1. **问题表征的识别** 政策将“问题”表征为什么？（识别政策试图纠正的核心状况）
-> 2. **预设与[[Hypothesis\|假设]]分析** 这种“问题表征”基于什么深层预设或假设？（挖掘其底层概念、[[Epistemology\|认识论]]基础和二元对立）
+> 2. **预设与假设分析** 这种“问题表征”基于什么深层预设或假设？（挖掘其底层概念、[[Epistemology\|认识论]]基础和二元对立）
 > 3. **历史建构过程** 这种“问题表征”是如何形成的？（追溯其演变轨迹、关键转折点和权力博弈）
 > 4. **沉默与排除的追问** 哪些议题被沉默了？（寻找被政策[[Discourse|话语]]有意或无意排除的社会因素与解释路径）
 > 5. **物质与话语效果** 这种“问题表征”产生了什么效果？（分析对政策主体造成的行为限制、身份建构与物质后果）

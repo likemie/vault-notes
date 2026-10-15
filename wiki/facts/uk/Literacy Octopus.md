@@ -11,7 +11,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 36
+fact_related_count: 34
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Evaluator Independence]]"
   - "[[Educational Brokerage Agency]]"
-  - "[[Hypothesis]]"
   - "[[Deficit Model of Science Communication]]"
   - "[[Causality]]"
   - "[[Reliability]]"
@@ -40,7 +39,6 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Engineered Evidence]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[International Education]]"
   - "[[Scientific Paradigm]]"
   - "[[Evidence Ecosystem]]"
@@ -72,7 +70,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Literacy Octopus
@@ -88,7 +86,7 @@ updated: 2026-09-17
 > - **立项时间与周期** 2014 年立项启动，2017 年由评估团队发布独立终期评估报告（Lord et al., 2017）。
 > - **发起方与评估主体** 由英国教育捐赠基金会（EEF）提供全额资助；由英国国家教育研究基金会（NFER）作为[[Evaluator Independence\|第三方独立评估]]团队全程实施；联合多家专业[[Educational Brokerage Agency\|知识中介机构]]与专业期刊共同递送干预。
 > - **样本规模与覆盖广度** 动员全英格兰 800 余所公立小学、数千名在编语文教师以及数万名处于关键学段 2（Key Stage 2, KS2）的小学生，是英国乃至全球规模最大的证据传播因果试验之一。
-> - **核心问题导向** 传统循证运动默认假定“信息赤字[[Hypothesis\|假设]]”（Information [[Deficit Model of Science Communication\|deficit model]]）——即一线教师未采纳循证教学法是因为缺乏易懂的研究资讯；只要中介机构将高质量证据以生动通俗的方式推送给学校，便能自然驱动教师改变教学行为并提升学生成绩。EEF 设立该试验旨在以最严谨的[[Causality\|因果推断]]检验这一基本假设是否成立。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, p. 152)]]
+> - **核心问题导向** 传统循证运动默认假定“信息赤字假设”（Information [[Deficit Model of Science Communication\|deficit model]]）——即一线教师未采纳循证教学法是因为缺乏易懂的研究资讯；只要中介机构将高质量证据以生动通俗的方式推送给学校，便能自然驱动教师改变教学行为并提升学生成绩。EEF 设立该试验旨在以最严谨的[[Causality\|因果推断]]检验这一基本假设是否成立。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, p. 152)]]
 > - **因果质量评级基石** 戈拉德等在证据利用[[Systematic Review\|系统综述]]中运用“[[Gorard's Trustworthiness Sieve\|戈拉德研究可信度筛子]]”将该试验评定为 4 级（★★★★，最高可[[Reliability\|信度]]），认定其具备极低样本损耗、独立客观终考测量与严格[[Counterfactual\|反事实]]对照，是全球极少数直接以终端学业成效检验知识传播的黄金标准研究。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 577, 588)]]
 
 ---
@@ -103,7 +101,7 @@ updated: 2026-09-17
 > 4. **低交互网络资源库（Online Resources & Webinars）** 搭建专题在线教学资源库，并配套提供低交互式的录播或直播网络研讨会供教师自主点播学习。
 
 > [!contrast-table] 识字八爪鱼试验多臂干预样态对比
-> | 干预臂类型 | 传递媒介与机制 | 互动强度 | 实施成本 | 核心[[Hypothesis\|假设]] |
+> | 干预臂类型 | 传递媒介与机制 | 互动强度 | 实施成本 | 核心假设 |
 > |---|---|---|---|---|
 > | **精编纸质手册** | 印刷品直邮、物理课桌触达 | 极低（单向被动阅读） | 低至中等 | 物理案头常备可提升翻阅与微调概率 |
 > | **数字化通讯** | 电子邮件推送、数字化超链接 | 极低（异步自主点击） | 极低 | 便捷数字触达可加速资讯摄入 |
@@ -125,9 +123,9 @@ updated: 2026-09-17
 ## 方法学与制度性启示
 
 > [!finding-cards] 对全球[[Evidence-Based Education\|循证教育]]生态的颠覆性重构
-> - **彻底粉碎信息赤字[[Hypothesis\|假设]]** 识字八爪鱼试验以无可辩驳的高质量因果证据，彻底宣判了“单向学术推介（Research Push）”与单纯文本改写分发模式的失效。经验证实：单纯的信息可及性既不是实践变革的[[Necessary and Sufficient Conditions\|充分条件]]，甚至不是核心驱动力；寄送精美的手册无法自动转化为课堂生产力。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 588)]]
+> - **彻底粉碎信息赤字假设** 识字八爪鱼试验以无可辩驳的高质量因果证据，彻底宣判了“单向学术推介（Research Push）”与单纯文本改写分发模式的失效。经验证实：单纯的信息可及性既不是实践变革的[[Necessary and Sufficient Conditions\|充分条件]]，甚至不是核心驱动力；寄送精美的手册无法自动转化为课堂生产力。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 588)]]
 > - **倒逼英格兰建立“[[Research Schools Network\|研究学校网络]]”** 面对单向推送全军覆没的实证结论，[[Education Endowment Foundation\|EEF]] 深刻意识到证据中介必须从“冷冰冰的材料邮寄”转向“有温度的专业人际陪伴”。这直接倒逼 EEF 于 2016 年正式出资筹建全英[[Research Schools Network\|研究学校网络]]（Research Schools Network, RSN），依托区域标杆学校设立常设研修中心，通过面对面的同侪教研、长期驻校教练与[[Action Research\|行动研究]]落地证据。
-> - **推动循证转化转向[[Engineered Evidence\|证据工程化]]** 戈拉德等学者依据该试验的零效应指出，单纯降低阅读门槛无法突破教师教学惯性，循证转化的微观出路在于“[[Engineered Evidence\|证据工程化]]”——将经过验证的因果规律直接封装为预制的脚本化教案与课堂工件，免除教师额外的统计与[[Transfer Translation Transformation\|转译]]认知负荷。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 596–598)]]
+> - **推动循证转化转向[[Engineered Evidence\|证据工程化]]** 戈拉德等学者依据该试验的零效应指出，单纯降低阅读门槛无法突破教师教学惯性，循证转化的微观出路在于“[[Engineered Evidence\|证据工程化]]”——将经过验证的因果规律直接封装为预制的脚本化教案与课堂工件，免除教师额外的统计与转译认知负荷。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 596–598)]]
 > - **推动中介机制引入行为改变科学** 该试验促使[[International Education\|国际教育]]证据中介全面摒弃线性传播观，深度引入以行为改变轮（Behaviour Change Wheel）与 [[COM-B Model\|COM-B]] 模型（能力 Capability、机会 Opportunity、动机 Motivation 驱动行为 Behaviour）为核心的行为[[Scientific Paradigm\|科学范式]]，强调从学校组织问责生态与教师工作情境出发重构证据采纳机制。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 152–153)]]
 
 ---
@@ -142,7 +140,7 @@ updated: 2026-09-17
 > | [[Research Schools Network]] | Fact (Program) | 识字八爪鱼试验否定单向推送后催生的一线人际深度中介实体网络。 |
 > | [[National Pupil Database]] | Fact (Program) | 为试验提供客观全国终结性统考（KS2）成绩的微观普查数据库。 |
 > | [[Engineered Evidence]] | Concept | 戈拉德等在总结识字八爪鱼等被动分发失败后提出的微观封装路径。 |
-> | [[Research in Schools Evaluation]] | Fact (Program) | EEF 资助的另一项中学骨干人际中介试验，检验后续[[Transfer Translation Transformation\|转译]]机制。 |
+> | [[Research in Schools Evaluation]] | Fact (Program) | EEF 资助的另一项中学骨干人际中介试验，检验后续转译机制。 |
 > | [[Intent-to-Treat Analysis]] | Method | 评估识字八爪鱼试验各干预臂因果效应的标准保守估计方法。 |
 > | [[Business as Usual]] | Concept | 识字八爪鱼试验设立的维持常态学校教学的纯对照组基准。 |
 > | [[COM-B Model]] | Theory | 试验失效后解释教师行为转化障碍、指导证据生态重构的核心行为改变理论。 |

@@ -9,9 +9,9 @@ title: "Argument_Ryan_2010_ChineseLearner"
 argument_key: "Argument_Ryan_2010_ChineseLearner"
 argument_display_title: "The Chinese Learner: Misconceptions and Realities"
 argument_kind: "book"
-argument_related_count: 30
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 28
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
 book_title: International Education and the Chinese Learner
 citation: "Ryan, J. (2010). The Chinese Learner: Misconceptions and Realities. In J. Ryan & G. Slethaug (Eds.), International Education and the Chinese Learner (pp. 37–56). Hong Kong: Hong Kong University Press."
@@ -32,13 +32,11 @@ related_concepts:
   - "[[Meta-Cultural Sensitivity]]"
   - "[[Confucian Heritage Cultures]]"
   - "[[Constructivist Paradigm]]"
-  - "[[Document]]"
   - "[[Reflexivity]]"
   - "[[Teacher Mobility]]"
   - "[[Critical Thinking]]"
   - "[[International Education]]"
   - "[[Refined Mastery]]"
-  - "[[Hypothesis]]"
   - "[[Discourse]]"
   - "[[Epistemology]]"
   - "[[Scientific Explanation]]"
@@ -91,7 +89,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info]
-> - 类型：理论讨论与[[Document\|文献]]批判综述
+> - 类型：理论讨论与文献批判综述
 > - 方法：对"[[Chinese Learner\|中国学习者]]"西方文献的系统性[[Discourse Analysis\|话语分析]]，兼以作者个人跨文化教学和研究的[[Reflexivity\|反思性]]经验为佐证
 > - 数据来源：西方教育学界关于中国/[[Confucian Heritage Cultures\|CHC]] 学习者的研究文献；作者在中国、澳大利亚、英国作为国际学生和教师的亲身经历
 
@@ -105,7 +103,7 @@ citation_aliases:
 > [!note]-
 > **逻辑起点：** 论文开头描绘了一个看似矛盾的现象——一方面，中西之间的学生与[[Teacher Mobility|教师流动]]（"全球文化流动"，Appadurai, 1996）空前密集；另一方面，西方对[[Chinese Learner\|中国学习者]]的认知仍基于过时的刻板印象(p.37)。这引出一个前提性问题：连"中国学习者"指谁都没搞清楚，讨论他们的特征有什么意义？
 
-**例：** 澳大利亚大学里 24% 的学生是国际学生，主要来自中国及其他 [[Confucian Heritage Cultures|CHC]] 国家——CHC 即 Confucian Heritage Culture（儒家文化圈），在[[Document|文献]]中通常指中国（含香港）、台湾、新加坡、日本、韩国等受儒学历史影响的东亚社会(p.38–39)。老师们每天面对这些学生，但他们依赖的"[[Chinese Learner|中国学习者]]指南"往往还是 1990 年代的刻板描述。就像用 1990 年的手机说明书来操作今天的智能手机——工具和对象已经变了，说明书却原地踏步。
+**例：** 澳大利亚大学里 24% 的学生是国际学生，主要来自中国及其他 [[Confucian Heritage Cultures|CHC]] 国家——CHC 即 Confucian Heritage Culture（儒家文化圈），在文献中通常指中国（含香港）、台湾、新加坡、日本、韩国等受儒学历史影响的东亚社会(p.38–39)。老师们每天面对这些学生，但他们依赖的"[[Chinese Learner|中国学习者]]指南"往往还是 1990 年代的刻板描述。就像用 1990 年的手机说明书来操作今天的智能手机——工具和对象已经变了，说明书却原地踏步。
 
 ### 第 1 步：拆解"中国学习者"这个标签——它根本不是一个东西
 
@@ -175,7 +173,7 @@ Ryan (p.41)指出，此后的许多学者和教育开发者（educational develo
 
 #### 2c. 两种形态的共同本质
 
-**两者共享一个问题：** 都[[Hypothesis|假设]]"中国学习者"是一个同质的、可定义的整体。把"被动、缺乏批判思维"换成"勤奋、合作性强"，只是换了一个更友善的标签，本质化（essentializing）的操作没有变——仍然是从文化标签推导个体特征，仍然忽略了阶层、性别、地区、个体差异。
+**两者共享一个问题：** 都假设"中国学习者"是一个同质的、可定义的整体。把"被动、缺乏批判思维"换成"勤奋、合作性强"，只是换了一个更友善的标签，本质化（essentializing）的操作没有变——仍然是从文化标签推导个体特征，仍然忽略了阶层、性别、地区、个体差异。
 
 > **这一步的逻辑结论：** 缺陷型和优势型刻板印象是同一枚硬币的两面。正如 Ryan & Louie（2005, p.5）所警告的：我们需要的是**打破**"中国学习者"这个单一范畴，而不是用一套新神话替换旧神话。
 
@@ -335,7 +333,7 @@ Ryan (p.57)以 Hayhoe & Pan（2001, p.21）的"真正的对话——在愿意倾
 ## 主要发现
 
 > [!success]
-> - 西方关于[[Chinese Learner\|中国学习者]]的[[Document\|文献]]长期以缺陷型描述为主，将中国学习者的特征定义为西方学术规范的"反面"(p.39)
+> - 西方关于[[Chinese Learner\|中国学习者]]的文献长期以缺陷型描述为主，将中国学习者的特征定义为西方学术规范的"反面"(p.39)
 > - Ballard & Clanchy (1991, 1997) 虽明确警告刻板印象的危险，但西方学者选择性地放大其对中国学习者"缺陷"的描述——其著作在澳大利亚大学图书馆中被严重标注和折角的正是这些段落(p.41)
 > - 即便是所谓的"优势型"理论（如中国学习者勤奋、合作），同样构成本质化，对不符合该模型的学生造成压力；其根源可追溯至美国内战后移民时期的"模范少数族裔"建构(Murphy, 2005, 转引自 p.45)
 > - Shi (2006) 对上海 400 名中学生 ESL 学习者的研究发现，他们"与西方同龄人差异很小——都是[[Active Learning\|主动学习]]者，偏好与教师更互动的关系"(p.44)
@@ -370,7 +368,7 @@ Ryan (p.57)以 Hayhoe & Pan（2001, p.21）的"真正的对话——在愿意倾
 ## 局限性与批评
 
 > [!warning]
-> - **非实证研究** Ryan 采取的是[[Document\|文献]]批判综述和[[Reflexivity\|反思性]]论述的论证形式，未提供系统的实证数据来支持其主张；论证主要依赖对既有文献的二次分析和作者个人经历的叙述
+> - **非实证研究** Ryan 采取的是文献批判综述和[[Reflexivity\|反思性]]论述的论证形式，未提供系统的实证数据来支持其主张；论证主要依赖对既有文献的二次分析和作者个人经历的叙述
 > - **立场单一** 虽以"平衡"为目标，但论证明显偏向批判西方刻板印象，对中国教育体系内部的问题（如腐败、guanxi 关系文化）仅一笔带过
 > - **缺乏替代框架** 有效解构了刻板印象，但对"教师在实践中应具体如何操作"仅给出原则性建议（[[Meta-Cultural Sensitivity\|元文化敏感度]]），未提供可操作的教学策略或实证验证的方案
 > - **"文化内差异大于文化间差异"命题** 虽频繁被重复，但未提供系统的跨文化比较数据来严格检验

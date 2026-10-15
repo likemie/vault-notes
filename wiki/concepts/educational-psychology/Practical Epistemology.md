@@ -5,7 +5,7 @@ aliases:
 summary: "学生在学校科学探究过程中实际应用于自身知识建构的隐性认识论观念与话语行动规程，与关于专业科学的形式认识论相对立，可通过立足点、意义裂隙与关系搭建等实践认识论分析方法进行微观刻画。"
 type: concept
 domain: "educational-psychology"
-related_count: 36
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[Operationalization]]"
   - "[[Positivism]]"
-  - "[[Teaching Assistant]]"
   - "[[Epistemological Beliefs]]"
   - "[[Scientific Literacy]]"
   - "[[Inquiry-Based Learning]]"
@@ -36,7 +35,6 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Metacognition]]"
   - "[[Pragmatic Paradigm]]"
-  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Scaffolding]]"
 related_theories:
@@ -47,8 +45,8 @@ related_methods:
   - "[[Practical Epistemology Analysis]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Ethnography]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
+  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments:
   - "[[Views of Nature of Science Questionnaire]]"
@@ -60,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Practical Epistemology
@@ -160,7 +158,7 @@ updated: 2026-10-07
 > 探讨知识合法性与有效证据如何在师生即时对话序列中生成。
 
 > [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]]
-> **[[Discourse|话语]]行动中的认识论生成** 认识论并非深锁于大脑内部的静态表征，而是在微观话语和具身互动中展开的语言游戏。通过考察师生如何确立立足点、在遭遇异常数据时显化意义裂隙，并借[[Teaching Assistant\|助教]]具与手势搭建关系，研究者能够原生地捕捉学生如何在行动中界定何者算作有效观察与合理证据。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 149–150)]]
+> **[[Discourse|话语]]行动中的认识论生成** 认识论并非深锁于大脑内部的静态表征，而是在微观话语和具身互动中展开的语言游戏。通过考察师生如何确立立足点、在遭遇异常数据时显化意义裂隙，并借助教具与手势搭建关系，研究者能够原生地捕捉学生如何在行动中界定何者算作有效观察与合理证据。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 149–150)]]
 
 ---
 
@@ -210,11 +208,11 @@ updated: 2026-10-07
 > > [!axis] 分析[[Paradigm\|范式]]：内在心智表征 vs 外在[[Discourse|话语]]行动
 > > 实践认识论的本质是个体头脑中的隐性心理倾向，还是在对话中生成的社会互动规程？
 > > - **认知心理学范式** 致力于探寻学生在[[Problem Solving\|问题解决]]过程中底层的心理表征与[[Metacognition\|元认知]]结构。
-> > - **社会语言学与[[Pragmatic Paradigm\|实用主义范式]]（[[Practical Epistemology Analysis\|PEA]]）** 认为无需[[Hypothesis\|假设]]黑箱心智，应直接通过口头语言、手势与教具操作分析立足点与意义裂隙的跨越。
+> > - **社会语言学与[[Pragmatic Paradigm\|实用主义范式]]（[[Practical Epistemology Analysis\|PEA]]）** 认为无需假设黑箱心智，应直接通过口头语言、手势与教具操作分析立足点与意义裂隙的跨越。
 
 > [!warning] 适用局限
 > 1. **无法直接从实践认识论推断[[Formal Epistemology\|形式认识论]]水平** 学生在探究中表现出的高级操作策略，不能作为其已掌握[[Nature of Science\|科学本质]]哲学的直接证明（[[Argument_Sandoval_2005_SE\|Sandoval, 2005, p. 648]]）；
-> 2. **微观 PEA [[Coding in Qualitative Research\|编码]]的高推论难度** 识别课堂话语中的立足点与意义裂隙高度依赖[[Transcription in Qualitative Research\|转录]]上下文与研究者的[[Reflexivity\|反身性]]解释，较难进行大规模量化标准化编码（[[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona, 2018, pp. 149–150]]）。
+> 2. **微观 PEA 编码的高推论难度** 识别课堂话语中的立足点与意义裂隙高度依赖[[Transcription in Qualitative Research\|转录]]上下文与研究者的[[Reflexivity\|反身性]]解释，较难进行大规模量化标准化编码（[[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona, 2018, pp. 149–150]]）。
 
 ---
 

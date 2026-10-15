@@ -8,7 +8,7 @@ aliases:
 summary: "源自黑泽明电影的社会科学概念，指同一事件或数据集被不同利益行动者基于自身立场建构出矛盾且不可兼容的多重因果叙事，在质性研究中体现为因果的多重性，在全球治理中体现为数据可塑性引发的政策罗生门"
 type: concept
 domain: "sociology-of-education"
-related_count: 34
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -19,7 +19,6 @@ tags:
   - theme/educational-governance
   - theme/policy-discourse
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Technical Rationality]]"
   - "[[Epistemology]]"
   - "[[Causality]]"
@@ -61,7 +60,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Rashomon Effect
@@ -71,7 +70,7 @@ updated: 2026-10-07
 ## 定义
 
 > [!def] 核心定义
-> 罗生门效应（Rashomon Effect）指同一事件、现象或数据集被不同的行动者以**矛盾且互不兼容的因果叙事**加以陈述和诠释，且在缺乏绝对外部裁判标准的情境下呈现出“多重真实（multiple truths）”的现象。该术语由人类学家、法学家与社会科学研究者（Roth & Mehta, 2002）从黑泽明 1950 年的电影《罗生门》中引申而来，最初用于破除[[Qualitative Research\|质性研究]]中单一客观因果链的[[Hypothesis\|假设]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al., 2011, pp. 72–73]]），后被比较教育与政策学者拓展至分析大规模量化评估中数据高度可塑性所引发的政治解构与合法化博弈（[[Argument_Grey_2018_CE\|Grey & Morris, 2018, pp. 111–112]]）。
+> 罗生门效应（Rashomon Effect）指同一事件、现象或数据集被不同的行动者以**矛盾且互不兼容的因果叙事**加以陈述和诠释，且在缺乏绝对外部裁判标准的情境下呈现出“多重真实（multiple truths）”的现象。该术语由人类学家、法学家与社会科学研究者（Roth & Mehta, 2002）从黑泽明 1950 年的电影《罗生门》中引申而来，最初用于破除[[Qualitative Research\|质性研究]]中单一客观因果链的假设（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al., 2011, pp. 72–73]]），后被比较教育与政策学者拓展至分析大规模量化评估中数据高度可塑性所引发的政治解构与合法化博弈（[[Argument_Grey_2018_CE\|Grey & Morris, 2018, pp. 111–112]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向同一实体客体（如历史事件、实验结果、评估数据）在不同权力立场、利益动机与文化滤镜下发生意义裂变与叙事冲突的现象。

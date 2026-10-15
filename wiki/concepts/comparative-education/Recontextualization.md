@@ -10,7 +10,7 @@ aliases:
 summary: "知识与教育话语脱离原始生产场所并在跨场域流转中被接受者选择性挪用、重新定位、改造并嵌入本土制度与文化秩序的再情景化过程"
 type: concept
 domain: "comparative-education"
-related_count: 62
+related_count: 61
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Selective Affinity]]"
   - "[[Test-Based Accountability]]"
-  - "[[Hypothesis]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Boundary Spanner]]"
   - "[[Knowledge Production]]"
@@ -42,11 +41,11 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Dialogue in Education]]"
   - "[[School Inspection]]"
+  - "[[Habitus]]"
   - "[[Shape-Shifting]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Paradigm]]"
   - "[[Variable]]"
-  - "[[Document]]"
   - "[[Mātauranga Māori]]"
   - "[[Decodification]]"
 related_methods:
@@ -108,7 +107,7 @@ updated: 2026-10-15
 > *"Recontextualization... selectively appropriates, relocates, refocuses and relates other discourses to constitute its own order." [[Argument_McPhail_2023_JCS|(McPhail et al., 2023, p. 33)]]*
 
 > [!boundary]- 概念边界
-> - 不等于 被动误解（Misunderstanding） — 误解[[Hypothesis|假设]]存在单一正确的接收标准；再情景化将接受者视为主动的行动者，关注其选择背后的意图与本土逻辑。[[Argument_Schulte_2009_EncuentrosEducacion|(Schulte, 2009, p. 69)]]
+> - 不等于 被动误解（Misunderstanding） — 误解假设存在单一正确的接收标准；再情景化将接受者视为主动的行动者，关注其选择背后的意图与本土逻辑。[[Argument_Schulte_2009_EncuentrosEducacion|(Schulte, 2009, p. 69)]]
 > - 不等于 简单政策借用（Policy Borrowing） — 政策借用关注国家层面的决策采纳，而再情景化深入揭示话语从全球到国家再到微观课堂的逐层变形过程。
 > - 不等于 无中生有 — 再情景化必须依赖外来符号资源与本土既有话语的接榫与重组。
 
@@ -121,7 +120,7 @@ updated: 2026-10-15
 > |---|---|---|---|---|
 > | **分析重点** | [[Discourse\|话语]]脱离原情境后的选择性过滤与意义变异机制 | 国家层面上对外来政策的决策采纳、修辞与合法化 | 教育思想跨国流动的三个宏观阶段（转移—转译—转化） | 将接受者的吸收偏差归咎于被动的认知失误 |
 > | **行动者角色** | 主动选择、过滤、扭曲与重构的权力主体 | 寻求政策正当性与解决本土危机的借用者 | 跨国流动各阶段中的[[Boundary Spanner\|中介者]]与转译者 | 缺少正确理解能力的被动接受者 |
-> | **空间[[Hypothesis\|假设]]** | 假设存在原始生产场所与本土接收[[Champ\|场域]] | 假设存在政策输出国与输入国 | 假设存在源头、中介端与吸收端 | 假设正统知识位于源头，接收端发生偏离 |
+> | **空间假设** | 假设存在原始生产场所与本土接收[[Champ\|场域]] | 假设存在政策输出国与输入国 | 假设存在源头、中介端与吸收端 | 假设正统知识位于源头，接收端发生偏离 |
 > | **解释功能** | 解构知识变形、意识形态控制与本土制度调试 | 解释国家为何及如何引入国外政策 | 描绘教育思想跨国传播的宏观全貌 | 描述吸收偏差，忽视接受者主体能动性 |
 
 ---
@@ -134,7 +133,7 @@ updated: 2026-10-15
 > - **选择性挪用与重构** 行动者绝非被动接收，而是从外来思想中选择性拾取符合自身诉求的元素，同时忽略或扭曲不契合的部分。[[Argument_Schulte_2009_EncuentrosEducacion|(Schulte, 2009, pp. 68–69)]]
 > - **双重驱动力：想象的亲和性与感知的不可兼容性** [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] 识别出本土行动者在再情景化过程中的深层动机——既可能主动发现外来思想与本土传统的表面共鸣（如将[[John Dewey|杜威]]思想与经世致用或[[Quality Education|素质教育]]勾连），也可能因感知到对本土核心价值的威胁而将其排斥为异端。[[Argument_Schulte_2009_EncuentrosEducacion|(Schulte, 2009, p. 70)]]
 > - **三层空间变形与[[Floating Signifier|漂浮能指]]** [[Argument_Beech_2009_CE|Beech (2009a)]] 揭示话语在全球[[Space of Flows|流动空间]]被掏空为漂浮能指，在国家层与本土保守话语矛盾并置，在微观场所空间受地缘物质条件制约发生功能突变。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 353–361)]]
-> - **[[Pragmatic Paradigm|实用主义]]与结构硬边界** [[Argument_Wang_2025_CE|Wang and McLaughlin (2025)]] 发现外来教学理念（如以学生为中心教学法）被实用主义[[Transfer Translation Transformation|转译]]为提分与课堂效率工具，与儒家对话传统亲和，但受限于统一升学大纲而保留了排斥学生共决权力的结构性硬边界。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 601–603)]]
+> - **[[Pragmatic Paradigm|实用主义]]与结构硬边界** [[Argument_Wang_2025_CE|Wang and McLaughlin (2025)]] 发现外来教学理念（如以学生为中心教学法）被实用主义转译为提分与课堂效率工具，与儒家对话传统亲和，但受限于统一升学大纲而保留了排斥学生共决权力的结构性硬边界。[[Argument_Wang_2025_CE|(Wang & McLaughlin, 2025, pp. 601–603)]]
 > - **单体学校组织吸纳与本土重构** 在德语区学校发展与[[Transfer Science|转移科学]]视域下，再情景化（德语：Re-Kontextualisierung）被界定为单体学校面对外部科研成果、诊断测评工具或行政改革要求时，必须经历的内部组织同化与转化过程（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, pp. 9, 11]]; Koch, 2011; Jäger, 2004）。外部实证证据绝不能直接指导微观课堂，必须穿透学校特定的[[Organizational Culture|组织文化]]与[[Absorptive Capacity|组织吸收能力]]，在教师专业共同体中与校本情境规则重新嵌合。
 > - **非预期异化后果与外来微生物扰动** [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] 借由[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler）的植物移植隐喻指出，即便外来方案无法在本土土壤长成“活生生的植物”，其枯萎的死株仍携带异质微生物，不可逆转地扰动了受援国微观教学与制度生态。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 355–356)]]
 
@@ -171,7 +170,7 @@ updated: 2026-10-15
 > 围绕外来知识离开原始生产情境后的脱情景与重情景机制展开。经典观点强调知识在传播中会因接受者的意识形态、集体经验与权力秩序而被重新赋予含义。
 
 > [!claim] [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]]
-> **接受者主动再造与[[John Dewey|杜威]]在中国的百年质变** 跨国教育思想转移不是思想从源头到接收端的无损流动，而是接受者基于本土意识形态议程与社会痛点展开的选择性挪用与重写。以约翰·杜威（John Dewey）思想在中国 100 年的四次再情景化为例：民国时期[[Hu Shi|胡适]]将其[[Transfer Translation Transformation|转译]]为反迷信武器与经世致用传统；毛泽东时代因威胁马克思主义根基而被批判为唯心主义毒瘤；1980 年代通过[[Tao Xingzhi|陶行知]]被重塑为现代化建设旗帜；当代被部署为[[Quality Education|素质教育]]代言人。最终产物是“Duwei”这一高度质变的本土[[Knowledge Building Theory|知识建构]]物。[[Argument_Schulte_2009_EncuentrosEducacion|(Schulte, 2009, pp. 68–93)]]
+> **接受者主动再造与[[John Dewey|杜威]]在中国的百年质变** 跨国教育思想转移不是思想从源头到接收端的无损流动，而是接受者基于本土意识形态议程与社会痛点展开的选择性挪用与重写。以约翰·杜威（John Dewey）思想在中国 100 年的四次再情景化为例：民国时期[[Hu Shi|胡适]]将其转译为反迷信武器与经世致用传统；毛泽东时代因威胁马克思主义根基而被批判为唯心主义毒瘤；1980 年代通过[[Tao Xingzhi|陶行知]]被重塑为现代化建设旗帜；当代被部署为[[Quality Education|素质教育]]代言人。最终产物是“Duwei”这一高度质变的本土[[Knowledge Building Theory|知识建构]]物。[[Argument_Schulte_2009_EncuentrosEducacion|(Schulte, 2009, pp. 68–93)]]
 
 > [!claim] [[Argument_Beech_2009_CE|Beech (2009a)]]
 > **三层空间变形与[[Floating Signifier|漂浮能指]]的抽象化** 再情景化在不同空间层次上呈现出差异化机制：在全球层，话语被抽象化为漂浮能指以寻求最大跨国适用性；在国家层，官方将革新与保守话语并置以协商多元利益；在实践层，教师根据地缘物质条件（如将尊重多样性解读为“尊重贫困”）赋予其具体含义，甚至产生与原始意图相反的效果。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 353–361)]]
@@ -197,7 +196,7 @@ updated: 2026-10-15
 > 围绕德语区[[Transfer Science|转移科学]]与学校发展研究展开，揭示外部研究成果向单体学校扩散时微观组织生态的筛选与重塑机制。
 
 > [!claim] Koch (2011); Jäger (2004); [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]]
-> **单体学校[[Organizational Culture|组织文化]]与本土重构的非线性吸收** 宏观政策工具（如统测数据、[[School Inspection|学校督导]]报告或教育资源库推荐干预）在单体学校层面的成效缺失，印证了知识无法以线性方式直接注射入教学现场。学校是具备自身[[Organizational Culture|组织文化]]、日常惯习与[[Absorptive Capacity|组织吸收能力]]的自组织系统。外部创新成果与实践研究发现（如德国 [[SINUS]] 教学模块）若要存活并产生实质教学改进，必须经历本土重构（Re-Kontextualisierung）——即实践者结合本校生源特质、教研氛围与制度环境对其进行意义再诠释与功能适配；若缺乏这一本土重构过程，单纯依靠外部行政问责或平台灌输，改革必然退化为表面应付的象征性依从。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, pp. 9, 11; Koch, 2011; Jäger, 2004)]]
+> **单体学校[[Organizational Culture|组织文化]]与本土重构的非线性吸收** 宏观政策工具（如统测数据、[[School Inspection|学校督导]]报告或教育资源库推荐干预）在单体学校层面的成效缺失，印证了知识无法以线性方式直接注射入教学现场。学校是具备自身[[Organizational Culture|组织文化]]、日常[[Habitus|惯习]]与[[Absorptive Capacity|组织吸收能力]]的自组织系统。外部创新成果与实践研究发现（如德国 [[SINUS]] 教学模块）若要存活并产生实质教学改进，必须经历本土重构（Re-Kontextualisierung）——即实践者结合本校生源特质、教研氛围与制度环境对其进行意义再诠释与功能适配；若缺乏这一本土重构过程，单纯依靠外部行政问责或平台灌输，改革必然退化为表面应付的象征性依从。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, pp. 9, 11; Koch, 2011; Jäger, 2004)]]
 
 ---
 
@@ -253,7 +252,7 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] | 中国 1919–2009 年近百年间关于[[John Dewey\|杜威]]教育思想的[[Document\|文献]]与论述 | 历史再情景化追踪与[[Documentary Analysis\|文献分析]] | 意识形态议程、个人网络、外来思想元素的拾取/忽略/扭曲 | 杜威思想经历了民国反迷信武器、毛泽东时代批判魔鬼、1980s 现代化旗帜到当代[[Quality Education\|素质教育]]代言人的四次质变再情景化 | [[Historical Document Analysis of Curriculum\|历史文献分析]] — | 聚焦特定思想家在中国的接受史 |
+> | [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] | 中国 1919–2009 年近百年间关于[[John Dewey\|杜威]]教育思想的文献与论述 | 历史再情景化追踪与[[Documentary Analysis\|文献分析]] | 意识形态议程、个人网络、外来思想元素的拾取/忽略/扭曲 | 杜威思想经历了民国反迷信武器、毛泽东时代批判魔鬼、1980s 现代化旗帜到当代[[Quality Education\|素质教育]]代言人的四次质变再情景化 | [[Historical Document Analysis of Curriculum\|历史文献分析]] — | 聚焦特定思想家在中国的接受史 |
 > | [[Argument_Beech_2009_CE\|Beech (2009a)]] | 阿根廷与巴西 1990 年代国家课程改革文件及教师教育者访谈 | 跨国比较分析与多层[[Discourse\|话语]]追踪 | 全球[[Floating Signifier\|漂浮能指]]、国家政策话语并置、教师地缘实践解读 | 全球层将能力抽象化，国家层将能力与学科并置，学校层根据贫困等地缘条件做出完全不同的现实解读 | 跨国质性比较 — | 揭示了全球—国家—实践三层再情景化断裂 |
 > | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 1985–2002 年间三大国际组织政策文本与阿根廷、巴西两国国家课程大纲及师生访谈 | 跨国比较[[Discourse Analysis\|话语分析]]结合半结构化[[In-depth Interview\|深度访谈]] | [[Global Educational Discourse\|全球教育话语]]、五大支柱模型、[[Gatekeepers\|守门人]]网络、课程自主异化、实习制度拥堵 | 国际机构过度简化学术话语生产普遍模型；拉美多重精英重叠垄断封闭政策空间；落地学校引发阿根廷转抄商业教辅与巴西实习瘫痪等严重实践脱节 | 跨国比较质性追踪 — | 揭示了全球教育[[Champ\|场域]]五位置模型与再情景化断裂机制 |
 > | [[Argument_McPhail_2023_JCS\|McPhail et al. (2023)]] | 新西兰 2021–2026 课程改革官方文件与学术评论 | 课程再情景化原则批判分析 | 双文化主义、地方化、道德原则与知识结构 | 课程文件通过三重原则重构话语秩序，但隐伏着[[Mātauranga Māori\|毛利知识体系]]与课程知识增长之间的[[Ontology\|本体论]]张力 | 文本批判分析 — | 属于国家官方再情景化场域的政策分析 |

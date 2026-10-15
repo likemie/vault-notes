@@ -9,7 +9,7 @@ aliases:
 summary: "第三世界发展研究与国际政治经济学的重要批判理论流派，主张跨国大资产阶级与发展中国家本土统治阶级和管理资产阶级跨越国界结成支配同盟，解释了外围国家国家机器何以在外部跨国资本渗透与内部既得利益维护的双重合谋下推行阶级分化的教育与公共政策"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 12
+theory_related_count: 11
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -33,7 +33,6 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Liliana Esther Olmos]]"
-  - "[[Carlos Alberto Torres]]"
   - "[[Atilio Borón]]"
 related_facts: []
 related_arguments:
@@ -41,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Post-Imperialism Theory
@@ -74,7 +73,7 @@ updated: 2026-10-07
 > [!dev-timeline] 理论版本与贡献
 > - **1987 — 理论系统化** 贝克尔与斯克拉（Becker & Sklar, 1987）确立后帝国主义[[Paradigm|范式]]，系统提出管理资产阶级概念。
 > - **1990 年代 — 批判政治经济学延展** 鲁西奥、雷斯尼克与沃尔夫（Ruccio, Resnick, & Wolff, 1991）将后帝国主义的跨国阶级视角拓展至超越民族国家的全面阶级分析。
-> - **2000 年代 — 比较教育政治社会学应用** [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）将后帝国主义理论纳入解释第三世界国家教育政策的四大发展学派谱系，用于剖析外围资本主义[[Conditioned State Theory|受限国家]]如何通过教育政策维护跨国同盟利益。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 82–83)]]
+> - **2000 年代 — 比较教育政治社会学应用** [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）将后帝国主义理论纳入解释第三世界国家教育政策的四大发展学派谱系，用于剖析外围资本主义[[Conditioned State Theory|受限国家]]如何通过教育政策维护跨国同盟利益。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 82–83)]]
 
 ---
 

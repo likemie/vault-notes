@@ -11,7 +11,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Policy Mobility]]"
   - "[[External Validity]]"
   - "[[Tracking]]"
+  - "[[School Autonomy]]"
   - "[[Heterogeneity]]"
   - "[[Variable]]"
   - "[[Attrition]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-09-24
+updated: 2026-10-15
 ---
 
 # Researching School Choices
@@ -93,13 +94,13 @@ updated: 2026-09-24
 > [!policy-design]- 方案设计与准实验架构
 > - **资助方向界定** 专门资助学校管理层在宏观组织层面拥有自主选择权、但此前因缺乏外部因果证据而争议不决的制度议题，重点包括：
 >   1. **宏观教学组织架构** 按学科[[Tracking\|能力分组]]（Setting / Streaming）与混合能力编班（Mixed-ability Teaching）在常态校本选择中的长期累积增益差异；
->   2. **办学时间与作息制度** 学校自主推迟上午上课时间或延长下午课后学时对不同阶层学童的[[Heterogeneity\|异质性]]影响；
+>   2. **办学时间与作息制度** [[School Autonomy|学校自主]]推迟上午上课时间或延长下午课后学时对不同阶层学童的[[Heterogeneity\|异质性]]影响；
 >   3. **学校管理与学区联盟** 多学院信托（MATs）内部师资轮岗与课程共享的制度红利。
 > - **自然实验与准实验方法库** 严禁进行人为随机分配，强制要求评估团队采用以下严密准实验工具：
 >   1. **[[Regression Discontinuity Design\|断点回归设计]]（[[Regression Discontinuity Design\|RDD]]）** 利用学校自主划定的招生分数线、能力分班基准测试切点，检验切点两侧学生的局部平均因果效应；
 >   2. **[[Difference-in-Differences\|双重差分法]]（Difference-in-Differences, DID）** 对比自发实施宏观作息变革的学校与维持常态对照学校在改革前后的纵向趋势变异；
 >   3. **[[Propensity Score Matching\|倾向得分匹配]]（Propensity Score [[Matching]], PSM）** 基于 NPD 数据库中包含家庭经济地位（FSM）、族裔、历史考分与特教标记的上百个协[[Variable\|变量]]，构建平衡可比的虚拟对照组。
-> - **全量行政数据库支撑** 完全依赖 NPD 数据库中英格兰全量学生的纵向统考记录（Key Stage 2 与 GCSE），彻底规避试验招募受阻与被试主动[[Attrition\|流失]]（Attrition）的风险。
+> - **全量行政数据库支撑** 完全依赖 NPD 数据库中英格兰全量学生的纵向统考记录（Key Stage 2 与 GCSE），彻底规避试验招募受阻与被试主动流失（[[Attrition]]）的风险。
 
 > [!citation-card] 宏观[[School Choice\|学校选择]]资助流的准实验转向（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）
 > 面对某些学校层面的政策选择（如学生分流编班或作息时间调整），随机分配在实践中难以推进，因为学校很难同意放弃自主权以接受随机指派。为此，[[Education Endowment Foundation\|EEF]] 于 2019 年推出了‘研究学校选择’专属资助流。该资助流依托英格兰[[National Pupil Database\|国家学生数据库]]（NPD）所归档的丰富普查数据，采用严密的[[Quasi-Experimental Designs\|准实验设计]]（QED）评估学校宏观选择的因果成效，从而为难以开展 [[Randomised Controlled Trials\|RCT]] 的核心政策领域开辟了全新的求证通道。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 56)]]

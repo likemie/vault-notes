@@ -7,7 +7,7 @@ summary: "美国电机工程师、科技管理者与战后科技政策奠基人�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 70
+person_related_count: 69
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Consumer Internet]]"
   - "[[Academic Freedom]]"
   - "[[Blue Skies Research]]"
-  - "[[Hypothesis]]"
   - "[[Learning by Doing]]"
   - "[[Valley of Death]]"
   - "[[Big Idea Famine]]"
@@ -156,7 +155,7 @@ created: 2026-10-02
 > - **1945–1950s — 战后和平时期国家科学契约奠基期** 为摆脱战时军方严格管制、确保高校科学家[[Academic Freedom|学术自由]]与长期财政保障，建构基础研究神圣性叙事。
 >   - **代表著作** *[[Science, The Endless Frontier 1945|Science, The Endless Frontier]]* (1945)。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]
 >   - **关键概念** 基础研究（[[Blue Skies Research|Basic Research]]）、应用研究（Applied Research）、科技蓄水池假说、国家科学基金会。
->   - **历史局限** 在政治游说中策略性地将纯求知的基础研究与商业化应用开发做严格切割，奠定了基础/应用二分法与单向线性模型的制度教条。[[Chris Freeman|克里斯·弗里曼]]（Chris Freeman）指出，这种单向线性[[Hypothesis|假设]]系统性忽视了生产现场的“[[Learning by Doing|干中学]]”（Learning by Doing）与产业对科学的反向驱动。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–11)]]
+>   - **历史局限** 在政治游说中策略性地将纯求知的基础研究与商业化应用开发做严格切割，奠定了基础/应用二分法与单向线性模型的制度教条。[[Chris Freeman|克里斯·弗里曼]]（Chris Freeman）指出，这种单向线性假设系统性忽视了生产现场的“[[Learning by Doing|干中学]]”（Learning by Doing）与产业对科学的反向驱动。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–11)]]
 > - **1970s — 反文化个人计算对布什国家使命[[Paradigm|范式]]的颠覆** 越战与民权运动引发美国社会与文化大撕裂，硅谷新一代黑客与工程师将技术发明定位为个体从国家与企业机器中获得解放的工具，彻底背离了布什与[[J. Robert Oppenheimer|奥本海默]]将科技定位于赋能与拓展国家战略使命（American project）的传统，开启了长达数十年的反体制个人主义与[[Consumer Internet|消费互联网]]演进轨道。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|(Karp & Zamiska, 2025, pp. 98–99)]]
 > - **1980s–2000s — 布什二分法在大企业实验室解体中的失效与[[Developmental Network State|发展型网络国家]]崛起** [[Fred Block|弗雷德·布洛克]]指出，布什战后体制的有效运转依赖一个关键历史前提：通用电气、杜邦和[[Bell Labs|贝尔实验室]]等巨型垂直整合企业愿意出资将大学基础发现转化为商业产品；随着国际竞争加剧与大企业实验室收缩，布什关于“政府仅资助基础研究、企业自发商业转化”的教条催生了严重的[[Valley of Death|死亡之谷]]，迫使美国在《[[Bayh-Dole Act of 1980|拜杜法案]]》、[[SBIR and STTR Programs|SBIR]] 与 [[Sematech]] 等制度实践中打破布什禁条，演进出高度去中心化但实质深度的[[Developmental Network State|发展型网络国家]]（DNS）。[[Argument_Block_2008_PS|(Block, 2008, pp. 170–178)]]
 > - **2025–2026 — 战后契约的退出与历史性重构** 
@@ -270,7 +269,7 @@ created: 2026-10-02
 
 ## 相关研究
 
-> [!evidence-grid-a] 相关[[Document|文献]]索引
+> [!evidence-grid-a] 相关文献索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 在《游泳逆流：[[Developmental Network State|发展型网络国家]]在美国的崛起》中深度解构布什 1945 年报告的战后体制假定，揭示其依赖大企业封闭实验室吸收基础发现的历史局限；论证随着大企业实验室收缩与[[Valley of Death|死亡之谷]]凸显，美国被迫通过 1980 年代科技立法转向由发展型网络国家暗中主导的早期研发撮合机制。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 专著《[[Technological Republic|技术共和国]]》系统探讨二战 [[Office of Scientific Research and Development|OSRD]] 与国家安全深度结盟的动员体制（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Ch. 1]]）、对比布什深层物理突破与当代[[Big Idea Famine|大构想饥荒]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Ch. 4]]），以及剖析 1970 年代反文化运动与[[Consumer Internet|消费互联网]]对布什国家大战略使命的偏离（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch08|Ch. 8]]）。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 2026 年白宫战略报告，全面对照 1945 年[[Science, The Endless Frontier 1945|布什报告]]，肯定其公共资助核心，同时宣告单向管道终结，提出四大支柱与 2028 财年研发预算优先序。

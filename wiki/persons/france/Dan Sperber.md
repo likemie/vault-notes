@@ -8,7 +8,7 @@ summary: "法国认知科学家与哲学家，关联理论与认识论警觉理�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 21
+person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -32,14 +32,12 @@ related_concepts:
   - "[[Man-Computer Symbiosis]]"
   - "[[Cognitive Offloading]]"
   - "[[Epistemic Agency]]"
-  - "[[Hypothesis]]"
   - "[[Domain Specificity]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Epistemic Provocateur]]"
 related_theories:
   - "[[Theory of Mind]]"
-related_methods:
-  - "[[Coding in Qualitative Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Claude Lévi-Strauss]]"
@@ -51,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Dan Sperber
@@ -76,7 +74,7 @@ updated: 2026-10-08
 
 > [!timeline] 生平与学术节点
 > - **1942** 出生于法国。早年接受人类学与哲学训练，师从结构主义人类学家[[Claude Lévi-Strauss|列维-斯特劳斯]]（Claude Lévi-Strauss）。
-> - **1970s–1980s** 转向认知科学与语言哲学研究，与英国语言学家 Deirdre Wilson 紧密合作，构建反思传统[[Coding in Qualitative Research|编码]]-[[Decodification|解码]]模式的认知语用学理论。
+> - **1970s–1980s** 转向认知科学与语言哲学研究，与英国语言学家 Deirdre Wilson 紧密合作，构建反思传统编码-[[Decodification|解码]]模式的认知语用学理论。
 > - **1986** 出版划时代著作 *Relevance: Communication and Cognition*，正式确立关联理论，成为认知语用学与心智哲学领域的经典奠基之作。
 > - **1996** 出版 *Explaining Culture: A Naturalistic Approach*，提出表征流行病学，将文化现象解释为心智表征在人类群体中的分布与传播动力学。
 > - **2010** 在 *Mind & Language* 发表奠基性长文 *[[Epistemological Vigilance|Epistemic Vigilance]]*（与 Fabrice Clément, Christophe Heintz, Olivier Mascaro, Hugo Mercier, Gloria Origgi, Deirdre Wilson 联名），系统建构认识论警觉理论，开辟认知科学与社会[[Epistemology|认识论]]交叉的新领域。
@@ -92,7 +90,7 @@ updated: 2026-10-08
 >   - **核心问题** 人类如何通过不完全的语言符号精准推导说话者的真实意图。
 >   - **代表著作** *Relevance: Communication and Cognition* (1986/1995, with Deirdre Wilson)。
 >   - **关键概念** 关联性、明示-推理沟通（Ostensive-Inferential Communication）、语境效果与认知努力。
->   - **思想贡献** 批判了将沟通视为机械信号[[Coding in Qualitative Research|编码]]-[[Decodification|解码]]的传统模式，确立沟通本质上是基于心理理论（[[Theory of Mind]]）的意图推理过程。
+>   - **思想贡献** 批判了将沟通视为机械信号编码-[[Decodification|解码]]的传统模式，确立沟通本质上是基于心理理论（[[Theory of Mind]]）的意图推理过程。
 > - **1990s–2000s — 文化演化与表征流行病学**
 >   - **核心问题** 思想、信念与文化习俗如何在人群中传播、变异与稳定留存。
 >   - **代表著作** *Explaining Culture: A Naturalistic Approach* (1996)。
@@ -131,7 +129,7 @@ updated: 2026-10-08
 
 > [!debates] 理论争议与学术交锋
 >
-> > [!axis] 模块化演化心理学[[Hypothesis|假设]]争议
+> > [!axis] 模块化演化心理学假设争议
 > > [[Epistemological Vigilance|认识论警觉]]究竟是演化形成的专门化认知模块，还是通用智力与文化学习的产物？
 > > - **Sperber 等人** 强调认识论警觉是自然选择塑造的[[Domain Specificity|领域特异性]]机制，在幼儿期便具有早期本体发生表征（如幼儿对不同说话者可[[Reliability|信度]]的早期鉴别）。
 > > - **发展与文化心理学派** 认为现代社会复杂的信息审验（如科学论证、同行评议与算法事实核查）高度依赖后天正规教育与文化工具的显性训练，不能简单还原为生物演化本能。

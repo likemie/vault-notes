@@ -10,7 +10,7 @@ aliases:
 summary: "指优秀学术研究对学术共同体之外的经济、社会、公共政策、医疗健康、文化、教育及生态环境等领域所产生的可证实、可测度的实质性积极贡献与变革；在循证教育中涵盖中间过程产出、使用者行为变革与最终受益人成效三层评价阶梯"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 33
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -22,7 +22,6 @@ tags:
   - theme/public-engagement
   - policy/evaluation
 related_concepts:
-  - "[[Document]]"
   - "[[Technology Transfer]]"
   - "[[Knowledge Exchange]]"
   - "[[Citizen Science]]"
@@ -64,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Research Impact
@@ -77,7 +76,7 @@ updated: 2026-10-09
 > 科研影响力（Research Impact），在当代高等教育政策与科研评价语境中，特指经同行评议认定的优秀学术研究对学术共同体之外的广泛领域——包括经济繁荣、公共政策制定、医疗健康改善、文化生活繁荣、教育实践以及生态环境保护等——所带来的可验证、可测度的实质性贡献、效益或积极变革（demonstrable benefits to society and economy）。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|(The Royal Society, 2026, Ch. 6, pp. 100–101)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 区别于学术界内部的“学术影响”（以引文频次、期刊影响因子等[[Document\|文献]]计量为表征），科研影响力关注知识溢出（Knowledge Spillovers）与非学术社会价值创造。
+> - **含义** 区别于学术界内部的“学术影响”（以引文频次、期刊影响因子等文献计量为表征），科研影响力关注知识溢出（Knowledge Spillovers）与非学术社会价值创造。
 > - **用途** 作为国家宏观科研资助分配的准市场评价工具，督促大学向纳税人论证公共财政投入的社会回报（Accountability），激励学者走出象牙塔并回应当代重大社会挑战。
 > - **边界** 不等于短期的商业化变现或技术专利转让；亦不等于单纯的科研成果宣传公关，必须具备明确的因果转化链条与独立受益人证据。
 

@@ -29,7 +29,6 @@ related_concepts:
   - "[[Learning by Doing]]"
   - "[[Vertical Disintegration]]"
   - "[[Electronic Design Automation]]"
-  - "[[Document]]"
   - "[[Market Shaping and Creating]]"
   - "[[Fair Market Value]]"
   - "[[Assemblage]]"
@@ -43,8 +42,7 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Historical-Comparative Method]]"
 related_instruments: []
-related_persons:
-  - "[[Alfred Nobel]]"
+related_persons: []
 related_facts:
   - "[[CHIPS and Science Act]]"
   - "[[European Chips Act]]"
@@ -73,7 +71,7 @@ title: "Argument_Bown_2024_JEP"
 argument_key: "Argument_Bown_2024_JEP"
 argument_display_title: "Semiconductors and modern industrial policy"
 argument_kind: "journal-article"
-argument_related_count: 33
+argument_related_count: 31
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -129,7 +127,7 @@ issuing_organization: ""
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |---|---|
-> | **[[Document\|文献]]与法案样本** | 美国《1974年贸易法》第 301 条款、1986 年美日半导体贸易协定、[[CHIPS and Science Act\|2022年美国芯片与科学法案]]、[[European Chips Act\|2023年欧洲芯片法案]]、2022/2023 年美国商务部工业与安全局（Bureau of Industry and Security, BIS）出口管制规则、中国《新时期促进集成电路产业和软件产业高质量发展的若干政策》等。（pp. 83–101） |
+> | **文献与法案样本** | 美国《1974年贸易法》第 301 条款、1986 年美日半导体贸易协定、[[CHIPS and Science Act\|2022年美国芯片与科学法案]]、[[European Chips Act\|2023年欧洲芯片法案]]、2022/2023 年美国商务部工业与安全局（Bureau of Industry and Security, BIS）出口管制规则、中国《新时期促进集成电路产业和软件产业高质量发展的若干政策》等。（pp. 83–101） |
 > | **产业与贸易数据** | 美国半导体行业协会（Semiconductor Industry Association, SIA）、波士顿咨询公司（Boston Consulting Group, BCG）、国际半导体产业协会（Semiconductor Equipment and Materials International, SEMI）、美国地质调查局（United States Geological Survey, USGS）及企业年度财报数据，覆盖 1980–2022 年全球前十大半导体企业营收排名、全球晶圆产能区域分布与芯片贸易账单。（pp. 84, 88–92, 101） |
 
 ---
@@ -158,7 +156,7 @@ issuing_organization: ""
 晶体管的发明与摩尔定律的确立为现代信息技术革命奠定了底层硬件基石。（p. 83）
 
 > [!timeline] 早期技术突破与产业集聚历程
-> - **1940年代末** 美国电话电报公司（American Telephone and Telegraph, AT&T）旗下的[[Bell Labs|贝尔实验室]]（Bell Labs）发明晶体管，三位物理学家荣获 1956 年[[Alfred Nobel|诺贝尔]]物理学奖。（p. 83）
+> - **1940年代末** 美国电话电报公司（American Telephone and Telegraph, AT&T）旗下的[[Bell Labs|贝尔实验室]]（Bell Labs）发明晶体管，三位物理学家荣获 1956 年诺贝尔物理学奖。（p. 83）
 > - **1965** 英特尔创始人戈登·摩尔（Gordon Moore）提出芯片上晶体管数量每两年翻番的摩尔定律，确立了行业持续降低单位算力成本的迭代轨迹。（p. 83）
 > - **1960–1970年代** [[Fairchild Semiconductor|仙童半导体]]（Fairchild Semiconductor）及其衍生出的众多新兴公司在加州硅谷集聚，形成了高密度人才交流与专业化供应商网络的[[Agglomeration Externalities|集聚外部性]]。（pp. 82–83）
 
@@ -210,7 +208,7 @@ issuing_organization: ""
 ### 论证步骤二　制造流程走向纵向离散与极端地理集中，导致美欧本土制造份额断崖式下跌并加剧断链风险
 
 > [!claim] 步骤二核心主张
-> 20 世纪 90 年代以来，半导体产业经历了深刻的[[Vertical Disintegration|纵向离散]]与全球专业化重组，演变为由核心知识产权、[[Electronic Design Automation|EDA]] 软件、制造设备、芯片设计、晶圆代工与封装测试组成的六大跨国多阶段网络；在亚洲政府补贴与低成本[[Assemblage|组装]]需求的共同驱动下，晶圆制造产能高度向东亚倾斜，导致美欧本土制造产能份额急剧萎缩。（pp. 86–92）
+> 20 世纪 90 年代以来，半导体产业经历了深刻的[[Vertical Disintegration|纵向离散]]与全球专业化重组，演变为由核心知识产权、EDA 软件、制造设备、芯片设计、晶圆代工与封装测试组成的六大跨国多阶段网络；在亚洲政府补贴与低成本[[Assemblage|组装]]需求的共同驱动下，晶圆制造产能高度向东亚倾斜，导致美欧本土制造产能份额急剧萎缩。（pp. 86–92）
 
 #### 1. 晶圆建厂成本激增迫使产业分化为设计与代工分离模式，形成了跨国高度细分的六大专业化环节
 
@@ -225,7 +223,7 @@ issuing_organization: ""
 
 > [!feature] 现代全球半导体产业链的六大专业化细分环节
 > - **核心知识产权（Core IP）** 英国/日本软银旗下的 Arm 控制着全球移动设备与低功耗芯片的核心计算指令集架构。（pp. 88, 90）
-> - **电子设计自动化（EDA）软件** 美国新思科技（Synopsys）、铿腾电子（Cadence）与德国西门子（Siemens EDA）掌控着数十亿晶体管级芯片布局与电路仿真的核心设计工具。（pp. 88, 90）
+> - **[[Electronic Design Automation|电子设计自动化]]（EDA）软件** 美国新思科技（Synopsys）、铿腾电子（Cadence）与德国西门子（Siemens EDA）掌控着数十亿晶体管级芯片布局与电路仿真的核心设计工具。（pp. 88, 90）
 > - **半导体制造设备（SME）** 荷兰阿斯麦（ASML）独家垄断极紫外（Extreme Ultraviolet, EUV）光刻机；日本东京电子（Tokyo Electron）垄断涂胶显影设备；美国应用材料（Applied Materials）、泛林半导体（Lam Research）与科磊（KLA）主导薄膜沉积、刻蚀与光学检测设备。（pp. 88, 90）
 > - **无晶圆厂芯片设计（Fabless）** 美国英伟达（Nvidia，主导人工智能图形处理器与加速计算）、高通（Qualcomm，主导 5G 基带与系统级芯片）、博通（Broadcom）、苹果（Apple）与台湾联发科（MediaTek）专注于算法与芯片微架构开发，将制造环节全数外包。（pp. 88, 90）
 > - **晶圆代工与制造（Foundries & IDMs）** 台湾台积电（占据全球晶圆代工一半以上收入，控制 5nm 及以下尖端制程九成以上产能）、联华电子（United Microelectronics Corporation, UMC，联电）、中国中芯国际集成电路制造有限公司（Semiconductor Manufacturing International Corporation, SMIC，中芯国际）、美国格芯（GlobalFoundries）负责代工制造；英特尔、三星、美光、德州仪器等企业保留部分自有制造产线。（pp. 88, 90）

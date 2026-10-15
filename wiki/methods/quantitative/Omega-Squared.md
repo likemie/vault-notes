@@ -7,7 +7,7 @@ summary: "方差分析中用于估计自变量解释总体方差比例的无偏�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 26
+method_related_count: 24
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -23,8 +23,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Causality]]"
   - "[[Paradigm]]"
-  - "[[Hypothesis]]"
-  - "[[Document]]"
   - "[[Effective Sample Size]]"
   - "[[Interaction Effect]]"
 related_theories: []
@@ -51,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-10-15
 ---
 
 # Omega-Squared
@@ -80,7 +78,7 @@ updated: 2026-09-18
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 属于频率学派参数统计与[[Causality\|因果推断]][[Paradigm\|范式]]，主张不能仅依靠依赖于[[Sample Size Determination\|样本量]]的[[Statistical Significance\|统计显著性]]检验（$p$ 值），必须通过报告对总体效应的无偏点估计来界定经验差异的实质科学价值。
-> - **研究者角色** 研究者需检验[[Analysis of Variance\|方差分析]]的基本[[Hypothesis\|假设]]（正态性、方差齐性），在完全随机单因素、[[Factorial Design\|析因设计]]或[[Repeated Measures Design\|重复测量设计]]中选取对应形态的 $\omega^2$ 计算公式，并合理解释[[Effect Size\|效应量]]的理论与实践内涵。
+> - **研究者角色** 研究者需检验[[Analysis of Variance\|方差分析]]的基本假设（正态性、方差齐性），在完全随机单因素、[[Factorial Design\|析因设计]]或[[Repeated Measures Design\|重复测量设计]]中选取对应形态的 $\omega^2$ 计算公式，并合理解释[[Effect Size\|效应量]]的理论与实践内涵。
 > - **有效性标准** 统计结论效度（消除小样本正向偏倚）、跨研究可比性与[[Meta-analysis\|元分析]]效应量汇总适切性。
 > - **不声称回答的问题** $\omega^2$ 仅度量方差解释比例与关联强度，其数值高低本身不能证明[[Independent Variable\|自变量]]与[[Dependent Variable\|因变量]]之间必然存在因果关系（需依赖严格的研究设计排查混杂偏误）。
 
@@ -113,7 +111,7 @@ updated: 2026-09-18
 > - $k$ 为[[Independent Variable\|自变量]]水平数（组别数）。
 
 > [!formula-step] 公式推导二　基于 $F$ 检验统计量与自由度的等价表达
-> 在发表[[Document\|文献]]中，若仅报告了方差分析检验统计量 $F$ 值与自由度，可直接通过下式换算 $\omega^2$：
+> 在发表文献中，若仅报告了方差分析检验统计量 $F$ 值与自由度，可直接通过下式换算 $\omega^2$：
 > $$\omega^2 = \frac{df_{\text{between}}(F - 1)}{df_{\text{between}}(F - 1) + N}$$
 > 其中 $N$ 为全样本总[[Effective Sample Size\|有效样本量]]。
 > 当 $F < 1$ 时，分子为负数，代数计算结果为负值，在实证报告中通常截断记录为 $\omega^2 = .00$。
@@ -170,7 +168,7 @@ updated: 2026-09-18
 
 > [!ref-table]- 教育治理实证研究中的 $\omega^2$ 应用标本
 >
-> | 研究[[Document\|文献]] | 分析模型与[[Variable\|变量]] | $F$ 检验与样本量 | $\omega^2$ 统计结果 | 效应等级与实证解释 |
+> | 研究文献 | 分析模型与[[Variable\|变量]] | $F$ 检验与样本量 | $\omega^2$ 统计结果 | 效应等级与实证解释 |
 > |---|---|---|---|---|
 > | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 29, 教学活动)]] | 校长治理态度聚类（3组）对**校本教学发展活动**的影响 | $F(2, 301) = 7.99, p < .001, N = 304$ | $\omega^2 = 0.04$ | 小到中等效应；证实循证治理态度能实质解释约 4% 的教学发展活动变异。 |
 > | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, p. 29, 协同发展)]] | 校长治理态度聚类（3组）对**教师协同发展能力**的影响 | $F(2, 291) = 9.66, p < .001, N = 294$ | $\omega^2 = 0.06$ | **标准中等效应**；证实治理理念差异对学校教研共同体建设具有稳健的塑造作用。 |

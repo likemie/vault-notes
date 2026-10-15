@@ -27,12 +27,10 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Paradigm]]"
   - "[[Reference Society]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Policy Borrowing]]"
   - "[[Causality]]"
   - "[[Theories of Policy Change]]"
   - "[[Policy Network]]"
-  - "[[Document]]"
   - "[[Literature Review]]"
   - "[[Purpose Statement]]"
   - "[[European Education Space]]"
@@ -68,7 +66,6 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Meta-analysis]]"
   - "[[Case Study]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Codebook]]"
   - "[[Accounts]]"
 related_instruments:
@@ -100,7 +97,7 @@ title: "Argument_Li_2025_HSSC"
 argument_key: "Argument_Li_2025_HSSC"
 argument_display_title: "The effects of PISA on global basic education reform: A systematic literature review"
 argument_kind: "journal-article"
-argument_related_count: 58
+argument_related_count: 55
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -125,7 +122,7 @@ issuing_organization: ""
 > - **RQ3** 什么因素影响 PISA 的效果，即在什么条件下 PISA 对国家政策制定产生影响力？
 
 > [!claim] 核心主张
-> PISA 通过追求教育质量、数据驱动的比较分析和循证[[Paradigm\|研究范式]]，推动全球教育质量与公平的政策讨论。PISA 的影响远超其最初测量国家间教育质量的功能，通过软治理深刻影响全球教育治理格局。这一影响机制并非 [[OECD]] 到国家的线性传递，而是在**超国家组织（软治理与[[Reference Society\|模范社会]]塑造）**、**国家层面（自我认知落差、文化-制度[[Transfer Translation Transformation\|转译]]与[[Policy Borrowing\|政策借用]]）**和**内部行动者网络（政策制定者、政党、协会、媒体的信息诠释与传递）**三个层级的**双向互动**中实现的。
+> PISA 通过追求教育质量、数据驱动的比较分析和循证[[Paradigm\|研究范式]]，推动全球教育质量与公平的政策讨论。PISA 的影响远超其最初测量国家间教育质量的功能，通过软治理深刻影响全球教育治理格局。这一影响机制并非 [[OECD]] 到国家的线性传递，而是在**超国家组织（软治理与[[Reference Society\|模范社会]]塑造）**、**国家层面（自我认知落差、文化-制度转译与[[Policy Borrowing\|政策借用]]）**和**内部行动者网络（政策制定者、政党、协会、媒体的信息诠释与传递）**三个层级的**双向互动**中实现的。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 85 篇 PISA 影响教育政策的实证研究（SSCI and Scopus 数据库，截至 2023 年 9 月 13 日）。
@@ -146,7 +143,7 @@ issuing_organization: ""
 > | **[[Actor-Network Theory\|行动者网络理论]]** | 将权力视为与知识、主体地位和参与者身份交织的治理网络。该框架指出政治情感（political sentiment）是[[Theories of Policy Change\|政策变革]]的重要杠杆；情感理论框架和批判话语分析有助于分析文本材料中的支配、权力和控制结构关系。 |
 
 > [!warrant]- 理论如何支撑论证
-> 上述理论分别对应 PISA 影响机制的三个层级：议程设置理论解释国家层级的触发条件（自我认知落差）；政策[[Convergence Theory in Comparative Education\|趋同理论]]和人力资本理论解释超国家层级的软治理运作（跨国沟通、规制竞争）；行动者网络理论和体用框架解释内部行动者网络如何[[Transfer Translation Transformation\|转译]]和传递 PISA 信息（[[Policy Network\|政策网络]]中的动态博弈、文化-制度转译）。这些理论被整合到以**质量**和**公平**为核心维度的统一[[Analytic Framework\|分析框架]]中。
+> 上述理论分别对应 PISA 影响机制的三个层级：议程设置理论解释国家层级的触发条件（自我认知落差）；政策[[Convergence Theory in Comparative Education\|趋同理论]]和人力资本理论解释超国家层级的软治理运作（跨国沟通、规制竞争）；行动者网络理论和体用框架解释内部行动者网络如何转译和传递 PISA 信息（[[Policy Network\|政策网络]]中的动态博弈、文化-制度转译）。这些理论被整合到以**质量**和**公平**为核心维度的统一[[Analytic Framework\|分析框架]]中。
 
 ---
 
@@ -155,7 +152,7 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **系统综述**<br>[[Systematic Review]] | 按照 PRISMA 框架执行（Newman & Gough, 2020; Xiao & Watson, 2019）。系统综述作为独立研究方法，通过严格定义的检索策略、[[Document\|文献]]筛选流程、系统数据提取和分析方法、透明的报告标准，批判性评估相关文献以推动理论发展和创建目标研究领域的关键知识源。 |
+> | **系统综述**<br>[[Systematic Review]] | 按照 [[PRISMA]] 框架执行（Newman & Gough, 2020; Xiao & Watson, 2019）。系统综述作为独立研究方法，通过严格定义的检索策略、文献筛选流程、系统数据提取和分析方法、透明的报告标准，批判性评估相关文献以推动理论发展和创建目标研究领域的关键知识源。 |
 > | **数据库** | Social Sciences Citation Index（Web of Science）和 Scopus。代表性英文期刊包括 *Oxford Review of Education*、*Journal of Education Policy*、*Comparative Education*、*European Journal of Education*、*Assessment in Education: Principles, Policy & Practice* 等。 |
 > | **检索式** | （[[PISA]] OR 'Program for International Student Assessment'）AND（'education polic\*' OR 'educational polic\*' OR 'education reform' OR 'educational reform'）AND（'impact\*' OR 'influence\*' OR 'effect\*' OR 'consequence\*'）。截至 2023 年 9 月 13 日：初始 2,199 篇，去重后 1,754 篇。 |
 
@@ -167,12 +164,12 @@ issuing_organization: ""
 > | **纳入标准** | 同行评审、英文、期刊论文、实证研究（质性/量化/[[Mixed Methods Research\|混合方法]]）、聚焦基础教育。 |
 > | **排除标准** | 重复文献、非英文、全文不可获取、非期刊论文、[[Literature Review\|文献综述]]/评论/[[Meta-analysis\|元分析]]、非基础教育领域。 |
 > | **方法分布** | 49 篇质性数据分析，36 篇混合研究方法。主要设计：[[Case Study\|案例研究]]、历史比较研究、国际比较研究。量化数据来源：TIMSS、PISA 分数和排名数据；质性数据来源：教育部等中央部门官方政策文件、国家媒体报道和政治演讲、参与教育政策制定的学者咨询报告、政府官员和专家访谈。 |
-> | **地区分布** | 西欧 39 篇（德国 20、法国 8、英国 5、西班牙 5、瑞士 2）、北欧 14 篇（芬兰 6、挪威 8）、亚洲 16 篇（中国 8、日韩约旦澳大利亚各 2）、北美 10 篇（美国 5、加拿大 5）、南美 6 篇（阿根廷、乌拉圭、智利各 2）。欧盟/欧洲经济区成员国合计占 62.4%。西欧占总量 45.9%。PISA 已吸引 90 多个国家和经济体参与 OECD 全球倡议（OECD, 2022b），但截至 2023 年 9 月仅有 17 个国家有相关文献，中东、非洲、南亚和东南亚构成经验研究的主要盲区。纳入文献的核心主题涵盖教育质量改革（宏观/中观/微观三层决策）、教育公平（机会/过程/结果）、政策趋同与[[Transfer Translation Transformation\|转译]]机制及影响因素（国际组织角色、国内政治、文化传统），文献数量随时间呈上升趋势。 |
+> | **地区分布** | 西欧 39 篇（德国 20、法国 8、英国 5、西班牙 5、瑞士 2）、北欧 14 篇（芬兰 6、挪威 8）、亚洲 16 篇（中国 8、日韩约旦澳大利亚各 2）、北美 10 篇（美国 5、加拿大 5）、南美 6 篇（阿根廷、乌拉圭、智利各 2）。欧盟/欧洲经济区成员国合计占 62.4%。西欧占总量 45.9%。PISA 已吸引 90 多个国家和经济体参与 OECD 全球倡议（OECD, 2022b），但截至 2023 年 9 月仅有 17 个国家有相关文献，中东、非洲、南亚和东南亚构成经验研究的主要盲区。纳入文献的核心主题涵盖教育质量改革（宏观/中观/微观三层决策）、教育公平（机会/过程/结果）、政策趋同与转译机制及影响因素（国际组织角色、国内政治、文化传统），文献数量随时间呈上升趋势。 |
 
 > [!method-panel] 分析方法
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **数据提取与[[Coding in Qualitative Research\|编码]]** | 两步分析法。第一步：逐篇分析生成独立编码并创建具体[[Qualitative Codebook\|编码手册]]，编码维度包括年份、国家、概念框架、研究方法和研究结论。第二步：序列分析（series analysis），包括区域分布分析和核心主题分析以回应研究问题。 |
+> | **数据提取与编码** | 两步分析法。第一步：逐篇分析生成独立编码并创建具体[[Qualitative Codebook\|编码手册]]，编码维度包括年份、国家、概念框架、研究方法和研究结论。第二步：序列分析（series analysis），包括区域分布分析和核心主题分析以回应研究问题。 |
 > | **质量评估** | 将纳入文献分为评价效果文献、描述性文献和解释性文献三类，分别采用不同质量标准。描述性文献按信息来源、[[Purpose Statement\|研究目的]]与方法相关性、专业权威性判断。解释性文献从研究效度（数据收集和分析方法是否清晰说明、数据源和分析过程效度检验、受访者数据效度验证、特殊或矛盾数据是否清晰描述）和研究相关性（是否提出新知识或理论、能否广泛推广）两方面评估。 |
 > | **数据验证** | 独立分析后讨论直至达成一致（mutual agreement）。 |
 
@@ -205,7 +202,7 @@ issuing_organization: ""
 ### 论证步骤一：研究区域分布与特征
 
 > [!claim]
-> [[PISA]] 对国际基础教育政策影响的研究呈现显著的**区域集中**特征：欧洲国家是研究焦点，欧盟/欧洲经济区成员国[[Document\|文献]]占 62.4%（区域分布数据见研究方法 > 样本快照 > 地区分布）。尽管全球已有 90 多个国家和经济体参与 PISA，截至 2023 年 9 月仅有 17 个国家有相关实证研究文献可用。
+> [[PISA]] 对国际基础教育政策影响的研究呈现显著的**区域集中**特征：欧洲国家是研究焦点，欧盟/欧洲经济区成员国文献占 62.4%（区域分布数据见研究方法 > 样本快照 > 地区分布）。尽管全球已有 90 多个国家和经济体参与 PISA，截至 2023 年 9 月仅有 17 个国家有相关实证研究文献可用。
 
 > [!warrant]- 推理桥梁
 > 区域集中性与三个因素有关：
@@ -214,7 +211,7 @@ issuing_organization: ""
 > - 欧洲代表了 OECD 世界的重要部分。
 
 > [!warning] [[Research Scope\|研究范围]]的局限
-> PISA 已吸引全球 90 多个国家和经济体参与 OECD 全球倡议（OECD, 2022b），但研究仅覆盖 17 个国家。PISA 政策影响的全球图景存在严重的**经验盲区**，尤其在中东、非洲、南亚和东南亚地区。纳入研究的核心主题涵盖教育质量改革（宏观/中观/微观三层决策）、教育公平（机会/过程/结果）、政策趋同与[[Transfer Translation Transformation\|转译]]机制及影响因素（国际组织角色、国内政治、文化传统），文献数量随时间呈上升趋势。
+> PISA 已吸引全球 90 多个国家和经济体参与 OECD 全球倡议（OECD, 2022b），但研究仅覆盖 17 个国家。PISA 政策影响的全球图景存在严重的**经验盲区**，尤其在中东、非洲、南亚和东南亚地区。纳入研究的核心主题涵盖教育质量改革（宏观/中观/微观三层决策）、教育公平（机会/过程/结果）、政策趋同与转译机制及影响因素（国际组织角色、国内政治、文化传统），文献数量随时间呈上升趋势。
 
 > [!note] 各国对 PISA 结果的反应强度差异
 > PISA 结果公布后，各国的政策反应强度呈现显著差异。德国、土耳其、丹麦、墨西哥和葡萄牙反应强烈，PISA 结果直接触发了广泛的政策辩论和改革议程；美国（早期）、芬兰和法国则表现出极端漠不关心（extreme indifference）（Martens & Niemann, 2013）。反应强度与两个条件有关：PISA 评估内容在国家[[Discourse|话语]]中的权重，以及国家自我认知与实证结果之间的落差。具有相似 PISA 排名的国家可能启动完全不同的政策——法国和英国在 2001 年 PISA 中获得了相似结果，但此后采取了不同策略来改进教育表现（Baird et al., 2016）。
@@ -390,7 +387,7 @@ issuing_organization: ""
 > [!finding-cards] 核心发现
 > - **研究区域集中与盲区并存** 现有 [[PISA]] 政策影响研究高度集中于欧洲（62.4%），全球仅 17 个国家有相关实证研究。德国以 20 篇研究一骑绝尘，与 PISA 90+ 个参与经济体的规模严重不匹配。中东、非洲、南亚和东南亚构成经验研究的主要盲区。
 > - **质量—公平双维路径的跨国运作** PISA 通过质量维度（宏观/中观/微观三层决策，从新自由主义价值接受到课程学制改革）和公平维度（机会/过程/结果三个环节，从入学标准协调到质性学力重构）两条路径影响各国基础教育改革。PISA 推动了新自由主义教育价值、能力素养概念和循证政策[[Paradigm\|范式]]的全球扩散。
-> - **三层机制模型揭示了非线性、双向互动的政策影响机制** PISA 的政策影响不是 [[OECD]] 到国家的线性因果传递，而是在超国家软治理（国际[[Epistemic Community|认知共同体]]+[[Reference Society\|模范社会]]）、国家层级（自我认知落差+文化-制度[[Transfer Translation Transformation\|转译]]）和内部行动者网络（信息转译+政治博弈）三层交互下的**[[Emergence\|涌现]]结果**。同一 PISA 排名在不同国家的三层组合方式决定了完全不同的政策结果。
+> - **三层机制模型揭示了非线性、双向互动的政策影响机制** PISA 的政策影响不是 [[OECD]] 到国家的线性因果传递，而是在超国家软治理（国际[[Epistemic Community|认知共同体]]+[[Reference Society\|模范社会]]）、国家层级（自我认知落差+文化-制度转译）和内部行动者网络（信息转译+政治博弈）三层交互下的**[[Emergence\|涌现]]结果**。同一 PISA 排名在不同国家的三层组合方式决定了完全不同的政策结果。
 > - **PISA 已从一个测量工具演变为全球教育治理的核心制度载体** PISA 通过软治理深刻重塑全球教育治理格局，它既是 OECD 参与全球治理的政策工具，也是各国用来合法化国内改革议程的外部资源。PISA 的影响远超最初功能，是 [[Global Education Reform Movement\|GERM]]（全球教育改革运动）标准化和问责逻辑的跨国制度载体。
 
 > [!implication]- 三层机制模型的推论

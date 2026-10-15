@@ -7,10 +7,10 @@ aliases:
 summary: "Tyler（1949）提出的课程开发四问框架，是现代主义、实证主义课程观的经典表达，将课程视为受控、有序、预定和可预测的过程。"
 type: concept
 domain: "curriculum"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/curriculum
   - paradigm/positivism
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Cultural Capital]]"
   - "[[Constructivist Paradigm]]"
-  - "[[Hypothesis]]"
   - "[[Champ]]"
 related_theories:
   - "[[Critical Theory]]"
@@ -33,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-07-11
+updated: 2026-10-15
 ---
 
 # Tyler Rationale
@@ -86,7 +85,7 @@ updated: 2026-07-11
 
 > [!critique] Doll（1993）的三重批判
 > - **教育是开放过程** 教育不是填充预定容器，而是创造尚未存在的可能性。Tyler 原理的"目的先行"逻辑预设教育结果可以且应该被预先确定。
-> - **后现代社会的多样性** 知识不再有单一的正确结构，权力不再那么单一。Tyler 原理[[Hypothesis\|假设]]一个统一、可预测的教育世界——这一假设已不成立。
+> - **后现代社会的多样性** 知识不再有单一的正确结构，权力不再那么单一。Tyler 原理假设一个统一、可预测的教育世界——这一假设已不成立。
 > - **[[Constructivist Paradigm\|建构主义]]心理学的转向** 学习不是行为主义的刺激-反应，而是学习者主动建构意义的过程。Tyler 原理忽视了这一根本转变。
 
 > [!tension] 核心争议

@@ -9,7 +9,7 @@ aliases:
 summary: "由美国教育考试服务中心（ETS）开发的通识教育与核心素养标准化测评工具，综合测量大学生在批判性思维、阅读、写作与数学领域的学业增益。"
 type: instrument
 instrument_type: test
-instrument_related_count: 13
+instrument_related_count: 11
 instrument_related_level: 2
 instrument_related_stars: "⭐⭐"
 instrument_related_color: "#dbeafe"
@@ -32,8 +32,6 @@ related_concepts:
   - "[[General Education]]"
   - "[[Learning Gain]]"
   - "[[Critical Thinking]]"
-  - "[[Hypothesis]]"
-  - "[[Document]]"
   - "[[Reliability]]"
   - "[[Construct]]"
 related_theories: []
@@ -50,7 +48,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-08-27
+updated: 2026-10-15
 ---
 
 # ETS Proficiency Profile
@@ -74,7 +72,7 @@ updated: 2026-08-27
 >
 > | 维度 | 题项数（标准版） | 测量内容 | 计分方式 |
 > |---|---|---|---|
-> | **批判性思维（Critical Thinking）** | 27 题 | 评估论点有效性、识别前提[[Hypothesis\|假设]]、推导逻辑结论并处理复杂情境冲突。 | 机器自动计分（0–1 分） |
+> | **批判性思维（Critical Thinking）** | 27 题 | 评估论点有效性、识别前提假设、推导逻辑结论并处理复杂情境冲突。 | 机器自动计分（0–1 分） |
 > | **阅读理解（Reading）** | 27 题 | 分析复杂学术与公共文本，提取修辞目的与核心观点。 | 机器自动计分（0–1 分） |
 > | **书面表达（Writing）** | 27 题 | 识别语法谬误、句子结构问题与有效修辞策略。 | 机器自动计分（0–1 分） |
 > | **数学推理（Mathematics）** | 27 题 | 解决代数、几何与数据统计中的定量推理问题。 | 机器自动计分（0–1 分） |
@@ -84,7 +82,7 @@ updated: 2026-08-27
 ## 题项与作答方式
 
 > [!instrument-items] 作答规则
-> - **题项形式** 基于人文、社会科学与自然科学真实[[Document\|文献]]节选的情境[[Multiple-Choice Questions\|选择题]]。
+> - **题项形式** 基于人文、社会科学与自然科学真实文献节选的情境[[Multiple-Choice Questions\|选择题]]。
 > - **作答格式** 4 选 1 客观单项选择题。
 > - **计分与常模** 量表分范围为 400–500 分，提供 3 个熟练度水平等级（Proficiency Levels 1, 2, 3）与全美大学增值常模基准。
 

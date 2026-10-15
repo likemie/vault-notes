@@ -8,7 +8,7 @@ summary: "质性研究中系统记录编码标签、操作化定义、纳入排�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 34
+method_related_count: 33
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Open-Mindedness]]"
   - "[[Reliability]]"
-  - "[[Hypothesis]]"
   - "[[Reflexivity]]"
   - "[[Paradigm]]"
   - "[[Working Memory]]"
@@ -59,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Qualitative Codebook
@@ -93,7 +92,7 @@ updated: 2026-10-07
 > [!contrast-table] [[Coding in Qualitative Research\|质性编码]]工具与相关记录形态辨析
 > | 维度 | 质性编码手册（Qualitative Codebook） | 编码清单（Code List / Nodes） | 分析备忘录（[[Memos]]） |
 > |---|---|---|---|
-> | **功能定位** | 标准化操作规程与[[Reliability\|信度]]控制工具 | 数据归档检索与节点分类目录 | 概念化反思与[[Hypothesis\|假设]]生成记录 |
+> | **功能定位** | 标准化操作规程与[[Reliability\|信度]]控制工具 | 数据归档检索与节点分类目录 | 概念化反思与假设生成记录 |
 > | **核心构成** | 标签、详略定义、使用边界、正反样例 | 标签名称、层级路径、参考点频次 | 自由理论反思、概念推演、灵感笔记 |
 > | **规范程度** | 形式规范、边界互斥、受控迭代 | 动态调整、容易过度碎片化膨胀 | 高度主观开放、无固定形式约束 |
 > | **团队协作角色** | 消除编码歧义、实现编码员间一致性 | 共享软件项目节点库 | 记录研究者个体的主观[[Reflexivity\|反身性]]轨迹 |
@@ -134,7 +133,7 @@ updated: 2026-10-07
 
 ### 命题一　显性化编码手册是控制主观漂移与保障质性信度的制度性基石
 
-> [!concept-lens] [[Coding in Qualitative Research\|编码]][[Reliability\|信度]]控制与规则歧义消解
+> [!concept-lens] 编码[[Reliability\|信度]]控制与规则歧义消解
 > 质性分析极易受到编码员认知疲劳、主观偏见与语境推论分歧的影响，显性化手册通过公开透明的判定规则构筑可检验的信度防线。
 
 > [!claim] Weber, R. P.
@@ -148,7 +147,7 @@ updated: 2026-10-07
 ### 命题二　编码手册在质性分析中呈现理论先验演绎与经验归纳涌现的双向演化动力
 
 > [!concept-lens] 演绎规约与归纳弹性的方法论张力
-> 编码手册并非一成不变的机械模具，而是在理论[[Hypothesis\|假设]]与经验数据的往复穿梭中经历持续重构。
+> 编码手册并非一成不变的机械模具，而是在理论假设与经验数据的往复穿梭中经历持续重构。
 
 > [!claim] Flick, U. & [[Louis Cohen\|Cohen, L.]]
 > **预设范畴与经验修正的动态平衡** 针对预设编码手册是否会禁锢经验[[Emergence\|涌现]]的[[Paradigm\|范式]]质疑（Ezzy, 2002），科恩与[[Miranda Fricker|弗里克]]论证，初期从理论出发构建预设编码手册并不排斥经验数据的持续反哺；当经验材料无法拟合既有范畴时，手册必须经历多轮动态修改与重构，从而兼具理论检验与理论生成的双重弹性（Flick, 1998；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011, p. 575]]）。
@@ -164,7 +163,7 @@ updated: 2026-10-07
 > [[Generative Artificial Intelligence\|生成式人工智能]]的发展使得编码手册从面向人类研究者的被动参照指南，演进为直接驱动算法执行规则匹配的形式化协议。
 
 > [!claim] Cohen, L. et al.
-> **演绎性规程赋码（Deductive Prompt Coding）的形式化基石** 在人工智能辅助质性研究中，质性编码手册构成了提示词工程的核心输入规范。编码标签、[[Operationalization\|操作化]]定义、纳入排除准则及少样本（Few-shot）正反样例被转化为系统性提示词；模型在形式化编码手册约束下对文本段落实施规则匹配，提取目标片段并输出结构化赋码依据，极大提升了大规模[[Content Analysis\|内容分析]]的处理效率与规则一致性（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011, Ch. 30.6]]）。
+> **演绎性规程赋码（Deductive Prompt Coding）的形式化基石** 在人工智能辅助质性研究中，[[Coding in Qualitative Research|质性编码]]手册构成了提示词工程的核心输入规范。编码标签、[[Operationalization\|操作化]]定义、纳入排除准则及少样本（Few-shot）正反样例被转化为系统性提示词；模型在形式化编码手册约束下对文本段落实施规则匹配，提取目标片段并输出结构化赋码依据，极大提升了大规模[[Content Analysis\|内容分析]]的处理效率与规则一致性（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011, Ch. 30.6]]）。
 
 ---
 
@@ -182,7 +181,7 @@ updated: 2026-10-07
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1980s–1990s 经典[[Content Analysis\|内容分析]]与规则公开阶段** 随着量化与[[Qualitative Content Analysis\|质性内容分析]]在社会科学领域的规范化，韦伯（Weber, 1990）与迈林（Mayring, 2004）确立了公开透明的[[Coding in Qualitative Research\|编码]]规则（Coding Rules），强调依托显性化标准消除编码员主观变异。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Mayring, 2004; 引自 Cohen et al., 2011, p. 563)]]
+> - **1980s–1990s 经典[[Content Analysis\|内容分析]]与规则公开阶段** 随着量化与[[Qualitative Content Analysis\|质性内容分析]]在社会科学领域的规范化，韦伯（Weber, 1990）与迈林（Mayring, 2004）确立了公开透明的编码规则（Coding Rules），强调依托显性化标准消除编码员主观变异。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Mayring, 2004; 引自 Cohen et al., 2011, p. 563)]]
 > - **2000s–2010s [[Qualitative Reliability\|质性信度]]与健康科学多编码员协作阶段** 随着团队[[Qualitative Research\|质性研究]]在健康科学与政策评估领域的普及，Guest 等人（2012）正式将编码手册标准化为包含标签、详略定义、纳入排除准则与引文样例的完整表格工具，成为评估质性[[Reliability\|信度]]的必备规范。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, p. 211)]]
 > - **2010s–2020s [[Qualitative Computer Software\|CAQDAS]] 软件节点架构与层级包容阶段** 计算机辅助质性数据分析软件（如 NVivo、MAXQDA）将编码手册与节点属性库、字典检索系统相融合，Gibbs（2007）提出包容层级与浅层控制原则，编码手册兼具概念检索与矩阵比较功能。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Gibbs, 2007; 引自 Cohen et al., 2011, p. 562)]]
 > - **2020s 至今 大语言模型驱动的形式化提示词工程阶段** [[Generative Artificial Intelligence\|生成式人工智能]]引入质性分析后，编码手册演变为直接驱动大语言模型（LLM）执行演绎赋码与链式推理的系统提示词协议（System Prompts），实现人机认知协同。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, Ch. 30.6)]]
@@ -194,7 +193,7 @@ updated: 2026-10-07
 > [!debates] 学术争议
 >
 > > [!axis] 先验演绎规约 vs 经验归纳[[Emergence\|涌现]]的[[Paradigm\|范式]]冲突
-> > 围绕预先确立的[[Coding in Qualitative Research\|编码]]手册是否会扼杀[[Qualitative Research\|质性研究]]对意外发现的敏锐度存在长期争论。
+> > 围绕预先确立的编码手册是否会扼杀[[Qualitative Research\|质性研究]]对意外发现的敏锐度存在长期争论。
 > >
 > > - **Ezzy（2002）** 批评预设范畴将数据分析禁锢在先验议程内，剥夺了对经验现实的动态感知，导致[[Content Analysis\|内容分析]]只能验证既有假说而无法生成新理论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 574)]]
 > > - **Flick（1998）与 Cohen 等人（2011）** 反驳指出，初期理论演绎并不排斥中后期的经验归纳；通过反向案例核查与范畴动态重构，编码手册兼具理论检验与理论生成的双重弹性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 575)]]

@@ -7,7 +7,7 @@ aliases:
 summary: "将知识积累、技术创新与人力资本投资从传统外生假定转变为经济系统内生核心引擎的经济学理论。论证创意与知识具有非竞争性与收益递增特征，打破资本边际报酬递减规律；驱动全球教育治理向学习型经济、实用操作技能与终身学习全面转向。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 36
+theory_related_count: 35
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -18,7 +18,6 @@ tags:
   - endogenous-growth
   - comparative-education
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Social Imaginary]]"
   - "[[Lifelong Learning]]"
@@ -63,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # New Growth Theory
@@ -74,7 +73,7 @@ updated: 2026-10-14
 
 > [!theory-position] 理论定位
 > - **解释对象** 长期经济持续增长的内在动力源泉，尤其是知识创新、技术进步与高素质劳动力如何在没有外部冲击的情况下驱动经济产出。
-> - **理论问题** 克服新古典增长模型将技术进步视作外生“天赐”之[[Hypothesis|假设]]，解释为何国家间收入差距未能随资本积累自然收敛，阐明知识要素报酬递增的微观与宏观机制。
+> - **理论问题** 克服新古典增长模型将技术进步视作外生“天赐”之假设，解释为何国家间收入差距未能随资本积累自然收敛，阐明知识要素报酬递增的微观与宏观机制。
 > - **理论类型** 宏观经济解释理论与政策[[Analytic Framework|分析框架]]。
 > - **知识位置** 诞生于新古典宏观经济学与[[Evolutionary Economics|演化经济学]]的交叉地带，在跨国教育政策中成为[[OECD|经合组织]]（OECD）构筑[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]与[[Lifelong Learning|终身学习]]政策纲领的核心理论支柱。
 
@@ -118,7 +117,7 @@ updated: 2026-10-14
 ## 核心命题
 
 > [!theory-proposition] 命题一｜知识与技术创新的内生积累克服资本边际报酬递减并构成经济持续增长源泉
-> **解释** 新增长理论的核心命题在于彻底否定了传统新古典增长理论中“由于资本边际产出递减，长期增长率完全取决于外生技术冲击与人口增长”的被动[[Hypothesis|假设]]。提出者罗默（Romer, 1986, 1990）与豪伊特（Howitt, 2000）论证，创意与知识存量是一种非竞争性物品；一旦某项技术配方或软件算法被创造出来，其边际复用成本近乎为零，且新的知识会与已有的知识存量发生组合式爆发。因此，由技术进步推动的经济增长具有收益递增特性，对研发与教育[[Knowledge Production|知识生产]]部门的内生投资能够永久性提高一国的长期稳态增长率。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
+> **解释** 新增长理论的核心命题在于彻底否定了传统新古典增长理论中“由于资本边际产出递减，长期增长率完全取决于外生技术冲击与人口增长”的被动假设。提出者罗默（Romer, 1986, 1990）与豪伊特（Howitt, 2000）论证，创意与知识存量是一种非竞争性物品；一旦某项技术配方或软件算法被创造出来，其边际复用成本近乎为零，且新的知识会与已有的知识存量发生组合式爆发。因此，由技术进步推动的经济增长具有收益递增特性，对研发与教育[[Knowledge Production|知识生产]]部门的内生投资能够永久性提高一国的长期稳态增长率。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
 >
 > **应用实例** 各国政府对高技术产业研发集群提供税收抵免与[[Congressional Earmarks|科研专项拨款]]，旨在通过扩大知识公共积累诱发私营部门的持续创新与跨行业溢出效应。
 

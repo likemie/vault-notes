@@ -8,10 +8,10 @@ aliases:
 summary: "混合方法研究的核心概念，指在研究中将量化与质性数据的信息进行组合或混合，包括整合的意图（为何组合）和程序（如何实施组合），整合方式因设计类型而异"
 type: concept
 domain: "research-methodology"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - research-methodology
   - mixed-methods
@@ -26,7 +26,6 @@ related_methods:
   - "[[Joint Display]]"
   - "[[Explanatory Sequential Design]]"
   - "[[Exploratory Sequential Design]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Data Transformation]]"
 related_persons: []
 related_facts: []
@@ -35,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-02
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Integration in Mixed Methods
@@ -78,7 +77,7 @@ updated: 2026-09-22
 > 整合分析的具体操作因设计类型而异，但都遵循一个基本逻辑：先分别分析两个数据库，再进行跨数据库的整合分析。
 >
 > **[[Convergent Design\|聚敛式设计]]的三阶段整合分析([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p.238]])**
-> 1. 分析质性数据库（[[Coding in Qualitative Research\|编码]]→主题）
+> 1. 分析质性数据库（编码→主题）
 > 2. 分析量化数据库（统计结果）
 > 3. 进行[[Mixed Methods Research\|混合方法]]整合分析，有三种方式：
 >    - 并排比较（side-by-side）：在讨论部分先后报告两组发现

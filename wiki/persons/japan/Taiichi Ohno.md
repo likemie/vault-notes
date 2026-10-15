@@ -7,7 +7,7 @@ summary: "日本工业工程师与丰田汽车高管，丰田生产方式（TPS�
 type: person
 nationality: japan
 person_region: "japan"
-person_related_count: 19
+person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Lean Production]]"
   - "[[Totally Pedagogised Society]]"
   - "[[Paradigm]]"
-  - "[[Assemblage]]"
   - "[[Flow]]"
   - "[[Homework]]"
   - "[[Operationalization]]"
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Taiichi Ohno
@@ -66,7 +65,7 @@ updated: 2026-10-08
 > - **代表贡献** 创立丰田生产方式（Toyota Production System, TPS）与准时制（Just-In-Time, JIT）拉动架构；提出旨在穿透偶发故障表象、探寻深层系统缺陷的[[Five Whys|五问法]]（Five Whys）根本原因分析流程（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025, pp. 164–166]]）。
 
 > [!citation-card] 现场观察习惯与探寻工程根本缺陷的五问法
-> 大野耐一指出，连续追问五次“为什么”的方法建立在他从丰田佐吉那里学到的“观察习惯”之上……这一探究方法聚焦于查明问题根源处的真正工程缺陷，无论是一个损坏的机械部件，还是[[Assemblage|装配]]线上的延误。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, p. 164)]]
+> 大野耐一指出，连续追问五次“为什么”的方法建立在他从丰田佐吉那里学到的“观察习惯”之上……这一探究方法聚焦于查明问题根源处的真正工程缺陷，无论是一个损坏的机械部件，还是装配线上的延误。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, p. 164)]]
 >
 > *Ohno noted that the approach, of asking "why" five times, was built on the "habit of watching" that he learned from Sakichi Toyoda... The method of inquiry focused on identifying the engineering flaws at the root of a problem, whether a broken part or a delay in the assembly line.*
 

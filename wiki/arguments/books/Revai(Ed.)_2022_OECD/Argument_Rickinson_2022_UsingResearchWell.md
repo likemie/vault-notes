@@ -7,7 +7,7 @@ title: "Argument_Rickinson_2022_UsingResearchWell"
 argument_key: "Argument_Rickinson_2022_UsingResearchWell"
 argument_display_title: "Using research well in educational practice"
 argument_kind: "book-chapter"
-argument_related_count: 40
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -50,7 +50,6 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Construct]]"
   - "[[Dependent Variable]]"
-  - "[[Document]]"
   - "[[Emergence]]"
   - "[[Poor Research Use]]"
   - "[[Discourse]]"
@@ -58,12 +57,9 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[Push and Pull Models of Knowledge Mobilisation]]"
   - "[[Evidence-Based Education]]"
-  - "[[Hypothesis]]"
   - "[[Phronesis]]"
   - "[[Research Translation]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Evidence Standards]]"
-  - "[[Teaching Assistant]]"
   - "[[Evaluation Research]]"
   - "[[Absorptive Capacity]]"
   - "[[Translational Research]]"
@@ -71,7 +67,6 @@ related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
   - "[[Organizational Culture]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[In-depth Interview]]"
   - "[[Correlational Research]]"
   - "[[Questionnaire]]"
@@ -119,7 +114,7 @@ updated: 2026-09-14
 
 ### 核心变量与操作化编码表
 
-> [!index-table] 核心[[Variable\|变量]][[Operationalization\|操作化]]定义与[[Coding in Qualitative Research\|编码]]规程
+> [!index-table] 核心[[Variable\|变量]][[Operationalization\|操作化]]定义与编码规程
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
 > | **研究使用质态与频次** | 教育实践者在教学决策与日常实践中主动接触、审议并应用大学研究证据的常态化程度与主观质量定性。（pp.183, 192） | Survey 1 中测量常规使用大学研究与大学指导的频度；[[In-depth Interview\|深度访谈]]中区分高质量使用（以证据促进学生学习与教师专业发展）与劣质使用（盲从网络流行趋势、领导强加新点子、僵化防卫信念）。（pp.189–191） |
@@ -136,9 +131,9 @@ updated: 2026-09-14
 > [!method-panel] 研究设计与方法论阶段（Box 9.1: Study methodology, pp.184, 199）
 > | 研究阶段与模块 | 实施方法、材料范围与分析路径 |
 > |---|---|
-> | **第一阶段：跨领域系统综述与框架建构**<br>[[Systematic Review]] & Narrative Synthesis | 2019 年启动前期概念研究，针对卫生保健、社会关照、公共政策与教育四大领域的[[Research Utilization\|证据使用]][[Document\|文献]]展开系统综述与叙事综合。研究发现各领域均普遍缺乏关于使用质量的直接界定，但均包含指向能力建设的间接思考。研究团队基于四份叙事综合报告提炼异同，初步建构 [[Quality Use of Research Evidence Framework\|QURE]] 框架，并通过与合作学校、教育行政部门及学界利益相关者的研讨会与工作坊迭代修订。 |
+> | **第一阶段：跨领域系统综述与框架建构**<br>[[Systematic Review]] & Narrative Synthesis | 2019 年启动前期概念研究，针对卫生保健、社会关照、公共政策与教育四大领域的[[Research Utilization\|证据使用]]文献展开系统综述与叙事综合。研究发现各领域均普遍缺乏关于使用质量的直接界定，但均包含指向能力建设的间接思考。研究团队基于四份叙事综合报告提炼异同，初步建构 [[Quality Use of Research Evidence Framework\|QURE]] 框架，并通过与合作学校、教育行政部门及学界利益相关者的研讨会与工作坊迭代修订。 |
 > | **第二阶段：大规模学校问卷调查研究**<br>[[Survey Research]] | 2020 年 3 月至 2021 年 10 月面向澳大利亚 4 个州开展两轮标准化问卷调查。**Survey 1** 聚焦实践中的研究认知与使用行为，回收有效问卷 492 份；**Survey 2** 聚焦促成与阻碍因素及专业发展需求，回收有效问卷 414 份。数据在统计产品与服务解决方案软件（Statistical Product and Service Solutions, SPSS 27.0）中录入，对李克特五点量表（同意与完全同意合并）及排序题进行二分类重编码，通过 Fisher 精确检验（Fisher's Exact Tests, $p < .05$）检验显著性关联。 |
-> | **第二阶段：半结构化深度访谈与质性编码**<br>[[In-depth Interview]] | 针对 27 场深度访谈（共涵盖 29 名受访教育者，包含 20 名高级领导者、7 名中层管理者与 2 名普通教师）的录音文字稿，在 NVivo 12 质性分析软件中运用 Braun & Clarke (2006) 的法典式主题分析法（[[Qualitative Codebook\|codebook]] Thematic Analysis）。研究兼顾演绎理论[[Coding in Qualitative Research\|编码]]与归纳新主题[[Emergence\|涌现]]，精准捕捉实践者关于高质量与[[Poor Research Use\|劣质研究使用]]的质性定性。 |
+> | **第二阶段：半结构化深度访谈与质性编码**<br>[[In-depth Interview]] | 针对 27 场深度访谈（共涵盖 29 名受访教育者，包含 20 名高级领导者、7 名中层管理者与 2 名普通教师）的录音文字稿，在 NVivo 12 质性分析软件中运用 Braun & Clarke (2006) 的法典式主题分析法（[[Qualitative Codebook\|codebook]] Thematic Analysis）。研究兼顾演绎理论编码与归纳新主题[[Emergence\|涌现]]，精准捕捉实践者关于高质量与[[Poor Research Use\|劣质研究使用]]的质性定性。 |
 
 > [!sample-panel]- 样本与材料快照（Annex Table 9.A.1: Sample details, p.199）
 > | <small>划分维度与样本群体</small> | <small>Survey 1（$N = 492$）</small> | <small>Survey 2（$N = 414$）</small> | <small>深度访谈（$N = 29$*）</small> |
@@ -187,7 +182,7 @@ updated: 2026-09-14
 在[[Knowledge Mobilisation|知识动员]]的[[Push and Pull Models of Knowledge Mobilisation|推拉模型]]（Push and Pull Models of Knowledge Mobilisation）视域下，传统的[[Evidence-Based Education|循证教育]]政策长期存在供给驱动的偏误。
 
 > [!challenges] 传统证据供给驱动模式的三重实践困境（pp.183–184）
-> - **线性[[Hypothesis\|假设]]失效** 默认只要生产方法学严谨的学术证据并编制简报，实践端就会自然发生有效采纳，完全脱离了真实的教学现场。
+> - **线性假设失效** 默认只要生产方法学严谨的学术证据并编制简报，实践端就会自然发生有效采纳，完全脱离了真实的教学现场。
 > - **重推送轻吸收** 系统级资源长期偏重研究产出与单向数据库搭建，极度匮乏对一线实践者辨识、吸收与落地能力的实质支持。
 > - **形式化套用风险** 导致研究证据无法契合具体情境，学校易陷入机械采购外来方案或应付行政问责的浅层形式主义。
 
@@ -236,17 +231,17 @@ updated: 2026-09-14
 >
 > **心智驱动** Alex 对成为一名好奇、勇于探索且主动出击（*curious, adventurous and proactive*）的研究使用者抱有极大热情，迫切希望通过学术研究找到支持特殊学生的科学方案。
 >
-> **技能运作** Alex 广泛检索学术数据库、大学科研团队及州教育部研究[[Transfer Translation Transformation\|转译]]机构的多源成果。在引入任何研究前，他并不盲从权威结论，而是严格对照全校教师专业发展需求调查、学校改进议程及教育部[[Evidence Standards\|证据标准]]，多维度检验研究是否切合目的（*fit for purpose*）。
+> **技能运作** Alex 广泛检索学术数据库、大学科研团队及州教育部研究转译机构的多源成果。在引入任何研究前，他并不盲从权威结论，而是严格对照全校教师专业发展需求调查、学校改进议程及教育部[[Evidence Standards\|证据标准]]，多维度检验研究是否切合目的（*fit for purpose*）。
 >
 > **审慎设问** Alex 形成了一套标志性的适切性三重审问机制：
 > > “你必须追问：我是否获得了预期成效？这与我的具体情境有多大契合度？我和我的同事有多大可能将该研究或证据妥善地付诸实施？”
 >
-> **关系协同** 找到与教学目标紧密契合的证据后，Alex 与该校校长 Phoebe 紧密配合，在专业学习教研组（Professional Learning Teams, PLTs / [[Professional Learning Community\|专业学习共同体]]）中带领同事共同研读；他协[[Teaching Assistant\|助教]]师在课堂中开展渐进式教学试验，并系统收集学生数据以客观检验干预有效性。
+> **关系协同** 找到与教学目标紧密契合的证据后，Alex 与该校校长 Phoebe 紧密配合，在专业学习教研组（Professional Learning Teams, PLTs / [[Professional Learning Community\|专业学习共同体]]）中带领同事共同研读；他协助教师在课堂中开展渐进式教学试验，并系统收集学生数据以客观检验干预有效性。
 >
 > **要素印证** Alex 的案例完整体现了个体使能三要素：不仅具备获取与辨析证据的**技能集**，拥有好奇求索与批判反思的**心智倾向**，更通过与校长及同事的密切合作激活了**人际关系**。
 
 > [!warrant]- 个体使能如何驱动证据的实践转化（p.187）
-> Alex 的实践表明，仅有获取学术[[Document\|文献]]的技术技能并不足以保障使用质态；唯有将批判审思的心智、严谨的多源适切性评估以及教研组人际协作网络紧密结合，外部研究才能有效内化为契合特殊教育情境的有效行动方案。
+> Alex 的实践表明，仅有获取学术文献的技术技能并不足以保障使用质态；唯有将批判审思的心智、严谨的多源适切性评估以及教研组人际协作网络紧密结合，外部研究才能有效内化为契合特殊教育情境的有效行动方案。
 
 ---
 

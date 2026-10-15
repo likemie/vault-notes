@@ -11,10 +11,10 @@ summary: "美国保守派教育学者、元分析专家与福音派传教士，�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 8
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 born: "1956"
 died: ""
 lifespan: "1956–至今"
@@ -29,7 +29,6 @@ related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
-  - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[John Hattie]]"
 related_facts:
@@ -39,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-17
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # William Jeynes
@@ -64,7 +63,7 @@ updated: 2026-09-22
 ## 贡献地图
 
 > [!contribution-map] 贡献地图
-> - **方法贡献**[[Meta-analysis\|元分析]] — 运用元分析方法对低社会经济地位学童的阅读干预进行合成，但在分类[[Coding in Qualitative Research\|编码]]上引入了高度主观的四个分类（纯粹、特定、广泛、折衷）。
+> - **方法贡献**[[Meta-analysis\|元分析]] — 运用元分析方法对低社会经济地位学童的阅读干预进行合成，但在分类编码上引入了高度主观的四个分类（纯粹、特定、广泛、折衷）。
 > - **制度／政策影响**[[No Child Left Behind Act 2001]] — 其研究为美国 2000 年代初小布什政府推行排斥[[Whole Language\|全语言]]、强制系统拼读的法案提供了保守派实证依据。
 
 ---

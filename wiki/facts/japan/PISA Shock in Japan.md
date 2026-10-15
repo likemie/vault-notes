@@ -11,7 +11,7 @@ subtype: event
 region: japan
 fact_region: "japan"
 fact_kind: "event"
-fact_related_count: 19
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -34,7 +34,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Rote Learning]]"
   - "[[Problem Solving]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Inquiry-Based Learning]]"
 related_theories: []
 related_methods: []
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-15
 ---
 
 # PISA Shock in Japan
@@ -139,7 +138,7 @@ updated: 2026-10-11
 > > - **批判反思论** 认为媒体大肆炒作 PISA 震荡夸大了学力下滑幅度，忽视了宽松教育在培养自主探究方面的长期萌芽价值。
 
 > [!citation-card] 代表性史学论著引言：二宫论日本政策调适经验
-> 日本并非简单地模仿西方模式，而是将 PISA 构念[[Transfer Translation Transformation|转译]]并整合进国家学习指导要领之中；通过在维持扎实学术要求的同时强调情境应用，日本展示了一个东亚体系如何借国际评估反思本土课程的成熟历程。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]；Ninomiya (2019)
+> 日本并非简单地模仿西方模式，而是将 PISA 构念转译并整合进国家学习指导要领之中；通过在维持扎实学术要求的同时强调情境应用，日本展示了一个东亚体系如何借国际评估反思本土课程的成熟历程。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]；Ninomiya (2019)
 >
 > *Japan did not simply mimic Western models... By reinterpreting [[PISA Literacy]] into robust academic proficiency, it demonstrated how an East Asian system could constructively adapt international benchmarks.*
 

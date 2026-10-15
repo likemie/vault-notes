@@ -7,7 +7,7 @@ aliases:
 summary: "20世纪末由罗宾·亚历山大等学者系统开创的比较教育学微观研究进路，主张突破宏观政策与国家制度指标的抽象局限，深入中小学具体课堂话语互动与教学过程，揭示教学法深嵌于民族国家历史、文化土壤与认知传统中的社会建构本质。"
 type: concept
 domain: "comparative-education"
-related_count: 34
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -19,7 +19,6 @@ tags:
 related_concepts:
   - "[[Discourse]]"
   - "[[Paradigm]]"
-  - "[[Hypothesis]]"
   - "[[Scholiocentric Approach]]"
   - "[[Rich and Thick Description]]"
   - "[[Effective Teaching]]"
@@ -30,7 +29,6 @@ related_concepts:
   - "[[Learnology]]"
   - "[[Creativity]]"
   - "[[Variable]]"
-  - "[[Bildung]]"
   - "[[Dialogue in Education]]"
   - "[[Intangible Spiritual Forces]]"
 related_theories:
@@ -38,7 +36,6 @@ related_theories:
   - "[[Postmodernism]]"
   - "[[Organizational Culture]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
   - "[[Fieldwork]]"
   - "[[Ethnography]]"
@@ -60,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-01
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Comparative Pedagogy
@@ -74,8 +71,8 @@ updated: 2026-10-07
 
 > [!concept-lens] 概念透镜
 > - **含义** 将课堂教学与教学法（Pedagogy）界定为贯通宏观文化价值、中观学校制度与微观师生互动的多层建构中介。
-> - **用途** 帮助研究者穿透跨国测验（如 [[PISA]]、[[TIMSS]]）的去语境化排位表，洞悉教学法背后的深层文化[[Hypothesis|假设]]与课堂微观机制。
-> - **边界** 不等于脱离文化情境的实证微观行为[[Coding in Qualitative Research|编码]]，亦不等于一般教育学中抽象推演教学原则的思辨教学论。
+> - **用途** 帮助研究者穿透跨国测验（如 [[PISA]]、[[TIMSS]]）的去语境化排位表，洞悉教学法背后的深层文化假设与课堂微观机制。
+> - **边界** 不等于脱离文化情境的实证微观行为编码，亦不等于一般教育学中抽象推演教学原则的思辨教学论。
 
 > [!citation-card] 亚历山大论教学法作为文化的载体与实践
 > 教学法绝不仅仅是课堂组织与教学策略的技术汇编；教学法是关于教与学的观念、价值观、证据与集体信念的话语实践，它深深扎根于人类社会的历史与文化母体之中。任何对教学法的真正跨国比较，都必须将课堂视作民族文化规范与教育理想具身化的动态舞台。(Alexander, 2000, p. 540)
@@ -120,7 +117,7 @@ updated: 2026-10-07
 > |:-----|:-----|:-----|
 > | **微观教学实践** | 课堂空间组织、时间分配、常规流程、任务设计与评价话语 | 俄国课堂严整的整班集体讲授 vs 英国初等课堂高度松散的个别化工作角 |
 > | **中观制度与课程** | 教师专业身份、国家课程大纲、教科书编纂、学校[[Organizational Culture\|组织文化]] | 法国共和国统一公民知识体系 vs 印度分层学校的阶级文化再生产 |
-> | **宏观社会文化理念** | 个人与国家的关系、知识的本质观、平等的定义、儿童期观念 | 英美个人主义与自我表达信念 vs 欧陆对公共启蒙与古典全人[[Bildung\|教化]]的敬畏 |
+> | **宏观社会文化理念** | 个人与国家的关系、知识的本质观、平等的定义、儿童期观念 | 英美个人主义与自我表达信念 vs 欧陆对公共启蒙与古典全人教化的敬畏 |
 
 亚历山大据此提炼出著名的“[[Dialogue in Education|对话教学]]”（Dialogic Teaching）理论，指出课堂话语互动的质量直接折射了社会文化的民主包容程度。
 

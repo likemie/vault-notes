@@ -9,7 +9,7 @@ subtype: event
 region: uk
 fact_region: "uk"
 fact_kind: "event"
-fact_related_count: 12
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -29,7 +29,6 @@ related_persons:
   - "[[Kurt Hahn]]"
   - "[[Desmond Hoare]]"
   - "[[Alec Peterson]]"
-  - "[[Peter A. Hall]]"
 related_facts:
   - "[[United World Colleges]]"
   - "[[Atlantic College Curriculum 1962]]"
@@ -39,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Founding of Atlantic College
@@ -58,7 +57,7 @@ updated: 2026-10-12
 
 > [!dev-timeline]- 事件经过
 > - **1957–1958 — 形成筹备网络** 哈恩与达瓦尔联合英国工商、政治和教育界人士，筹备委员会把寻找校长置于校址和资金之前；1958 年邀请[[Desmond Hoare\|德斯蒙德·霍尔]]担任创校校长。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, pp. 3–4)]]
-> - **1961 — 确立校园与课程团队** 安东宁·贝斯的捐赠使圣多纳特城堡得以购入，德斯蒙德·[[Peter A. Hall|霍尔]]与罗伯特·布莱克本形成领导团队，场地和人员增强了募款可[[Reliability\|信度]]。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, pp. 6–7)]]
+> - **1961 — 确立校园与课程团队** 安东宁·贝斯的捐赠使圣多纳特城堡得以购入，德斯蒙德·霍尔与罗伯特·布莱克本形成领导团队，场地和人员增强了募款可[[Reliability\|信度]]。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, pp. 6–7)]]
 > - **1962 — 开学与课程实验** 首批招收 56 名男生，主要来自英国、斯堪的纳维亚和联邦德国；奖学金政策试图避免家庭支付能力成为录取障碍。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, p. 8)]]
 >   - 共同活动以海上与悬崖救援、海滩巡逻、露营和登山为核心。
 >   - 学术课程以英国高级程度考试为权宜基础，并用辅助课程补足母语、外语、社会研究、科学和艺术。
@@ -74,7 +73,7 @@ updated: 2026-10-12
 ## 争议与评论
 
 > [!tension] 男女同校争议
-> - **支持男女同校** [[Desmond Hoare\|德斯蒙德·霍尔]]、娜奥米·[[Peter A. Hall|霍尔]]和多数教师根据早期办学经验，认为青年有能力在跨文化环境中理解彼此并建立适当关系。
+> - **支持男女同校** [[Desmond Hoare\|德斯蒙德·霍尔]]、娜奥米·霍尔和多数教师根据早期办学经验，认为青年有能力在跨文化环境中理解彼此并建立适当关系。
 > - **反对男女同校** 部分治理成员担心不同文化传统中的男女会误读交往信号，甚至以辞职反对改变。最终的共同生活经验削弱了这一担忧。[[Argument_Peterson_1987_OpenCourt_Ch01\|Peterson (1987, Ch. 1, pp. 5–6)]]
 
 ## 相关概念／政策

@@ -9,7 +9,7 @@ summary: "德国慕尼黑工业大学教育心理学讲席教授，德国教学�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 20
+person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Effective Teaching]]"
   - "[[Knowledge Mediation]]"
   - "[[Bildung]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Praxis]]"
   - "[[Knowledge Transfer]]"
   - "[[Paradigm]]"
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Tina Seidel
@@ -90,7 +89,7 @@ updated: 2026-09-22
 > [!work-line] 主要著作
 > - **2007 — *Teaching Effectiveness Research in the Past Decade: The Role of Theory and Research Design in Disentangling [[Meta-analysis]] Results* (with R. J. Shavelson)** 系统分析过去十年[[Effective Teaching\|有效教学]]元分析的理论构架与研究设计特征，揭示传统元分析因缺乏教学论支撑而导致的局限，提出教学有效性的成分整合模型。
 > - **2014 — *Modeling and Measuring the Professional Vision of Teacher Candidates* (with K. Stürmer)** 确立以视频为中介的教师专业知觉（Professional Vision）测量模型，揭示职前教师如何识别、解读并反思微观课堂互动。
-> - **2017 — *Forschung fördert [[Bildung]]: Das [[Clearing House Unterricht]]* (with M. Knogler et al.)** 正式确立德国教学研究清算中心的制度职能、中介[[Transfer Translation Transformation\|转译]]规程与服务架构。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]
+> - **2017 — *Forschung fördert [[Bildung]]: Das [[Clearing House Unterricht]]* (with M. Knogler et al.)** 正式确立德国教学研究清算中心的制度职能、中介转译规程与服务架构。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]
 > - **2020 — *Evidence-based Practice in Higher Education: Teacher Educators' Attitudes, Challenges, and Uses* (with A. Diery et al.)** 针对德国高校教师教育者开展实证调查，揭示乘数群体在证据采纳中的认知障碍、资源短缺与实用支持需求。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 15)]]
 > - **2022 — *Determining an Evidence Base for Particular Fields of Educational Practice: A [[Systematic Review]] of Meta-Analyses on Effective Mathematics and Science Teaching* (with M. Knogler & A. Hetmanek)** 建立数理学科教学有效性元分析的系统筛选与评级标准，为清算中心知识库奠定高阶证据基底。
 > - **2025 — *Clearing House Unterricht: Ein innovativer Ansatz zur Stärkung des Wissenschaft-[[Praxis]]-Transfers in der Lehrkräftebildung* (with M. Knogler et al.)** 系统总结清算中心在教师教育与职业教育中的中介转译经验，论述以元分析为基底、聚焦乘数群体与非线性反馈的[[Knowledge Transfer\|知识转移]][[Paradigm\|范式]]。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, pp. 13–16)]]
@@ -100,7 +99,7 @@ updated: 2026-09-22
 ## 核心思想
 
 > [!claim] 核心主张
-> 教育研究与教学实践之间的鸿沟并非源于科研产出不足，而是学术理论的生产逻辑与课堂教学的情境逻辑存在结构性脱节；唯有以经过严格因果检验的高质量[[Meta-analysis\|元分析]]为证据源头，通过跨学科专家团队实施标准化的通俗二次[[Transfer Translation Transformation\|转译]]，并将成果精准嵌入教师教育者的培养网络与双向反馈机制中，方能打破线性转移的迷思，使循证原则实质性内化为教师专业思维的有机组成部分。
+> 教育研究与教学实践之间的鸿沟并非源于科研产出不足，而是学术理论的生产逻辑与课堂教学的情境逻辑存在结构性脱节；唯有以经过严格因果检验的高质量[[Meta-analysis\|元分析]]为证据源头，通过跨学科专家团队实施标准化的通俗二次转译，并将成果精准嵌入教师教育者的培养网络与双向反馈机制中，方能打破线性转移的迷思，使循证原则实质性内化为教师专业思维的有机组成部分。
 
 > [!citation-card] 教学证据中介的核心功能界定
 > 清算机构作为独立的中间协调机构，通过其专业中介服务，系统降低教育实践者获取当前最佳可用科学证据的门槛；其核心任务在于消除专业科学门槛，将因果实证知识转化为非专业研究者亦能顺畅理解并迁移至专业行动中的实践工具。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, pp. 13–14)]]
@@ -113,7 +112,7 @@ updated: 2026-09-22
 
 > [!influence-path] 影响路径
 > - **理论路径** 推进了[[Effective Teaching\|有效教学]]研究与学习科学理论的交叉整合；与[[Richard J. Shavelson\|沙维尔森]]共同提出的成分模型澄清了不同教学维度（[[Classroom Management\|课堂管理]]、支持性教学氛围、认知激活）与学习产出之间的复杂中介机制。
-> - **方法路径** 引领了课堂视频分析技术在教师评价中的应用，开发了标准化的 Observer 教学视频评估规程；确立了面向教育实践的 11 步[[Meta-analysis\|元分析]]二次加工[[Transfer Translation Transformation\|转译]]标准。
+> - **方法路径** 引领了课堂视频分析技术在教师评价中的应用，开发了标准化的 Observer 教学视频评估规程；确立了面向教育实践的 11 步[[Meta-analysis\|元分析]]二次加工转译标准。
 > - **政策路径** 作为首席专家参与德国联邦与各州重大教育改革政策咨询，推动设立国家级教师教育循证标准与数字化能力框架。
 > - **跨国与跨领域传播** 创设德语区首个教育证据清算平台，填补了欧洲大陆在教育循证中介机构建设上的制度空白，为奥地利、瑞士等德语国家的教师教育改革提供了可复制样本。
 
@@ -123,7 +122,7 @@ updated: 2026-09-22
 
 > [!person-network] 关系网络
 > - **学术合作者** [[Richard J. Shavelson]] — 2005 年起在斯坦福大学展开紧密学术合作，共同发表[[Effective Teaching\|有效教学]]十年[[Meta-analysis\|元分析]]里程碑综述。
-> - **学术合作者与团队骨干** 马克西米利安·克诺格勒（Maximilian Knogler） — [[Clearing House Unterricht\|CHU]] 研发总监与学术协调人，共同主持元分析证据筛选与[[Transfer Translation Transformation\|转译]]标准制定。
+> - **学术合作者与团队骨干** 马克西米利安·克诺格勒（Maximilian Knogler） — [[Clearing House Unterricht\|CHU]] 研发总监与学术协调人，共同主持元分析证据筛选与转译标准制定。
 > - **机构平台** [[Clearing House Unterricht]] 与 [[Zentrum für internationale Bildungsvergleichsstudien]] — 由其于 2017 年在慕尼黑工业大学创立并持续主持运营。
 > - **政策与资助方** [[Federal Ministry of Education and Research]] 与 [[Qualitätsoffensive Lehrerbildung]] — 为清算中心早期孵化提供关键国家科研与体制资助。
 

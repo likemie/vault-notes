@@ -5,7 +5,7 @@ aliases:
 summary: "效度被理解为推论的属性而非测试或实验本身的属性，验证是持续修正推论边界与证据基础的过程"
 type: concept
 domain: "research-methodology"
-related_count: 13
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Tracking]]"
   - "[[Reliability]]"
-  - "[[Hypothesis]]"
   - "[[Operationalization]]"
   - "[[Evidence Standards]]"
 related_theories: []
@@ -37,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-09-18
+updated: 2026-10-15
 ---
 
 ## 定义
@@ -88,7 +87,7 @@ updated: 2026-09-18
 > [!example] 与相关概念的区别
 > - **vs 传统效度概念（效度作为测试属性）** — 传统概念将效度定位在测试本身；Cronbach/Messick/Wiliam 的立场将效度重新定位在推论和使用
 > - **vs [[Reliability\|信度]]（Reliability）** — 信度是关于测量的一致性/稳定性，效度是关于推论的合理性。一个测试可以高度可信（多次产生相同结果）但其推论的效度仍可能受损（如果存在未排除的替代解释）
-> - **vs [[Evidence-Based Education]]** — EBE 倾向于将效度视为方法的属性（[[Randomised Controlled Trials\|RCT]] = 高效度的证据），效度作为推论属性的立场挑战这一[[Hypothesis\|假设]]
+> - **vs [[Evidence-Based Education]]** — EBE 倾向于将效度视为方法的属性（[[Randomised Controlled Trials\|RCT]] = 高效度的证据），效度作为推论属性的立场挑战这一假设
 
 ## 争议与批评
 

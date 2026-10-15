@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch05"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch05"
 argument_display_title: "The abandonment of belief"
 argument_kind: "book-chapter"
-argument_related_count: 29
+argument_related_count: 28
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -54,7 +54,6 @@ related_persons:
   - "[[Allan Bloom]]"
   - "[[Perry Link]]"
   - "[[Michael Sandel]]"
-  - "[[Isaiah Berlin]]"
   - "[[Kingman Brewster Jr.]]"
   - "[[Ralph Waldo Emerson]]"
   - "[[Michael Gove]]"
@@ -114,7 +113,7 @@ updated: 2026-10-08
 
 > [!case] 斯科基纳粹游行案（1977）：[[Aryeh Neier|阿里耶·内尔]]承受三万会员退会捍卫言论自由
 > - **大屠杀幸存者聚居区面临纳粹挑衅** 1976 年，美国国家社会主义党领袖弗兰克·柯林（Frank Collin）计划在伊利诺伊州斯科基村（Skokie）组织佩戴纳粹万字臂章的集会游行。斯科基村有大量犹太居民，其中数千人曾亲历二战大屠杀。小镇居民群情激愤，地方政府随即出台多项法令禁止游行（p. 57）。
-> - **承受三万会员退会坚持司法辩护** 美国公民自由联盟（American Civil Liberties Union, ACLU）基于宪法第一修正案出面为纳粹集会权提供法律援助。时任 ACLU 全国总监阿里耶·内尔（[[Aryeh Neier]]）本人就是 1937 年出生于[[Isaiah Berlin|柏林]]的犹太难民，幼年随父母流亡英美才侥幸逃脱大屠杀。内尔的决定引发轩然大波，他收到了成千上万封谴责信，约三万名会员愤然退会，给机构造成严重的财政危机。
+> - **承受三万会员退会坚持司法辩护** 美国公民自由联盟（American Civil Liberties Union, ACLU）基于宪法第一修正案出面为纳粹集会权提供法律援助。时任 ACLU 全国总监阿里耶·内尔（[[Aryeh Neier]]）本人就是 1937 年出生于柏林的犹太难民，幼年随父母流亡英美才侥幸逃脱大屠杀。内尔的决定引发轩然大波，他收到了成千上万封谴责信，约三万名会员愤然退会，给机构造成严重的财政危机。
 > - **以自由限制权力的崇高法理** 内尔同时持有两项真诚的信念：他对纳粹的极恶主张深恶痛绝，但他更坚信必须防止政府拥有任意禁止言论的权力。他在著作《保卫我的敌人》（*Defending My Enemy*, 1979）中写道：“为了保卫我自己，我必须用自由来限制权力，哪怕这一原则的暂时受益者正是自由的敌人”（pp. 57–58）。
 
 > [!case] 耶鲁华莱士演说争议（1963）：[[Pauli Murray|保利·默里]]确立反[[Heckler's Veto|起哄者否决]]的宪法底线

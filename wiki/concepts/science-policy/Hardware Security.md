@@ -9,7 +9,7 @@ aliases:
 summary: "贯穿微电子系统从底层材料、电路设计、晶圆制造、异构封装到现场部署全生命周期的安全防护学科与工程实践，旨在防范硬件木马、物理侧信道攻击、逆向工程、供应链伪造与篡改，并在架构根基处建立可度量验证的零信任硬件信任根。"
 type: concept
 domain: "science-policy"
-related_count: 17
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,8 +25,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Screening Off]]"
   - "[[Electronic Design Automation]]"
-  - "[[Hypothesis]]"
-  - "[[Document]]"
   - "[[Competitiveness]]"
   - "[[Variable]]"
 related_theories: []
@@ -45,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Hardware Security
@@ -114,7 +112,7 @@ updated: 2026-10-10
 > 围绕现代关键基础设施对微电子器件的深度依赖，探讨物理层安全对国防、能源与通信系统的决定性作用。
 
 > [!claim] [[National Science and Technology Council|NSTC]]
-> **硬件信任作为不可替代的安全锚点** 现代信息系统的信任链条自底向上层层建立，任何上层软件加密与协议防御都建立在底层硬件真实可靠的[[Hypothesis|假设]]之上。如果微电子硬件本身被植入恶意逻辑或存在物理漏洞，敌对势力便可在毫无软件日志痕迹的情况下窃取核心机密或瘫痪整个系统。因此，必须将硬件安全确立为最高优先级的国家战略技术基石。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 3, 10, 18–19)]]
+> **硬件信任作为不可替代的安全锚点** 现代信息系统的信任链条自底向上层层建立，任何上层软件加密与协议防御都建立在底层硬件真实可靠的假设之上。如果微电子硬件本身被植入恶意逻辑或存在物理漏洞，敌对势力便可在毫无软件日志痕迹的情况下窃取核心机密或瘫痪整个系统。因此，必须将硬件安全确立为最高优先级的国家战略技术基石。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 3, 10, 18–19)]]
 
 ---
 
@@ -131,10 +129,10 @@ updated: 2026-10-10
 ### 命题总览
 
 > [!contrast-table] 硬件安全核心命题概览
-> | 命题方向 | 核心论断 | 技术与政策意涵 | 代表[[Document\|文献]] |
+> | 命题方向 | 核心论断 | 技术与政策意涵 | 代表文献 |
 > |---|---|---|---|
 > | **国家可信计算根基** | 硬件完整性是整个计算栈信任链条的物理支点 | 驱动国防与关键基础设施专用可信微电子研发计划 | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024, pp. 3, 10)]] |
-> | **供应链安全防御** | 前置全栈协同安全设计能够免疫非可信代工环节风险 | 指导开发新一代安全[[Electronic Design Automation\|EDA]]工具与零信任硬件标准 | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024, pp. 13, 18–19)]] |
+> | **供应链安全防御** | 前置全栈协同安全设计能够免疫非可信代工环节风险 | 指导开发新一代安全EDA工具与零信任硬件标准 | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024, pp. 13, 18–19)]] |
 
 ---
 
@@ -174,7 +172,7 @@ updated: 2026-10-10
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | 美国关键基础设施与国防微电子全生命周期供应链安全（涵盖材料、设计、流片、先进封装与现场部署） | 跨部门国家安全战略评估与供应链脆弱性审查 | 硬件完整性与安全性（T&AM）要素、零信任硬件架构、抗侧信道防御与 [[Electronic Design Automation\|EDA]] 安全验证工具 | ① 确立硬件信任根（RoT）与物理不可克隆函数（PUF）为底层信任支点；② 规划自动化安全 EDA 验证工具以实现流片前硬件木马 **100% 形式化覆盖**；③ 提出跨部门微电子可信与保证框架 | 跨部门国家战略政策文件与安全规划（原文报告） | 确立硬件安全作为全生命周期内生要素抵御非可信代工风险与物理侧信道攻击的核心战略地位 |
+> | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024)]] | 美国关键基础设施与国防微电子全生命周期供应链安全（涵盖材料、设计、流片、先进封装与现场部署） | 跨部门国家安全战略评估与供应链脆弱性审查 | 硬件完整性与安全性（T&AM）要素、零信任硬件架构、抗侧信道防御与 EDA 安全验证工具 | ① 确立硬件信任根（RoT）与物理不可克隆函数（PUF）为底层信任支点；② 规划自动化安全 EDA 验证工具以实现流片前硬件木马 **100% 形式化覆盖**；③ 提出跨部门微电子可信与保证框架 | 跨部门国家战略政策文件与安全规划（原文报告） | 确立硬件安全作为全生命周期内生要素抵御非可信代工风险与物理侧信道攻击的核心战略地位 |
 
 ---
 

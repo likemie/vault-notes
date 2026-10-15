@@ -5,7 +5,7 @@ aliases:
 summary: "把生命系统理解为通过自我生产和自我指涉维持边界与连续性的理论，常用于分析系统如何在与环境互动中保持自身组织。在理性主义比较教育中，该理论解释了教育系统在世界社会同质化压力下的自我参照与本国折射机制；在后人类主义教育学中，它与共同制造（Sympoiesis）相对，作为分析系统自组织涌现、去中心化转型与防范知识殖民的重要理论资源。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 31
+theory_related_count: 30
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Sympoiesis]]"
   - "[[Reference Society]]"
   - "[[Externalization]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Structural Coupling]]"
   - "[[Wicked Problem]]"
   - "[[Transhumanism]]"
@@ -53,7 +52,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-08
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Autopoiesis
@@ -95,7 +94,7 @@ updated: 2026-10-07
 
 > [!proposition-chain] 核心命题一｜生命系统是操作封闭与自我指涉的
 > - **前提一** 操作封闭性（Operational Closure）：自创生系统内部由其自身的组件和操作网络构成，外界干扰仅能触发（trigger）系统内部的变化，而不能直接决定其产出。([[Argument_Amos_2022_Springer\|Amos, 2022, p. 61]])
-> - **前提二** 自我指涉性（Self-referentiality）：系统必须依赖自身的历史结构和运行规范来解释环境输入，不能直接吸收外界未经[[Transfer Translation Transformation\|转译]]的指令。
+> - **前提二** 自我指涉性（Self-referentiality）：系统必须依赖自身的历史结构和运行规范来解释环境输入，不能直接吸收外界未经转译的指令。
 > - **推导** 系统的边界并非由物理隔离定义，而是由其自我生产的动态操作封闭环定义。系统只能以其特定逻辑对外界环境进行“[[Structural Coupling\|结构耦合]]”。
 
 > [!proposition-chain] 核心命题二｜社会变革与转型源自去中心化地方行动的自组织[[Emergence\|涌现]]
@@ -142,7 +141,7 @@ updated: 2026-10-07
 
 > [!theory-use] 如何用于研究
 > - **作为理论框架** 用于勾勒全球趋同与地方变异折射的博弈地图，把全球[[Discourse|话语]]看作被借用的“原料”而非结果。
-> - **作为分析工具** 转化为[[Transfer Translation Transformation\|转译]]、转化与[[Structural Coupling\|结构耦合]]的分析维度，分析在[[Policy Borrowing\|政策借用]]各个阶段中系统内部抵制的自我指涉机制。
+> - **作为分析工具** 转化为转译、转化与[[Structural Coupling\|结构耦合]]的分析维度，分析在[[Policy Borrowing\|政策借用]]各个阶段中系统内部抵制的自我指涉机制。
 > - **作为批判视角** 批判将全球“最佳实践”视为技术中立客观知识的盲点，指出这忽视了系统自我参照的操作封闭性和地方认识论主权。
 
 ---

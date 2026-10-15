@@ -9,7 +9,7 @@ aliases:
 summary: "在复杂公共治理与转型政策中，通过多方参与、共同愿景塑造与反思性试验实现集体认知收敛的制度化过程"
 type: concept
 domain: "science-policy"
-related_count: 13
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Scientific Uncertainty]]"
   - "[[Unit of Analysis]]"
   - "[[Self-Efficacy]]"
-  - "[[Document]]"
   - "[[Discourse]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Disciplina and Doctrina]]"
@@ -40,7 +39,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-10-03
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Institutionalising Social Learning
@@ -76,7 +75,7 @@ updated: 2026-10-07
 > | **[[Unit of Analysis\|分析单位]]** | 跨部门治理网络与社会–技术系统 | 个体学习者与其直接观察环境 | 单一企业或科层组织内部构架 |
 > | **核心机制** | 框架重构、[[Participatory Research\|参与式研究]]与多方愿景协商 | 观察榜样、替代强化与[[Self-Efficacy\|自我效能]] | 单环/双环反馈、惯例更新与知识库积累 |
 > | **处理对象** | 跨界棘手挑战与价值争议 | 行为习得与社会认知发展 | 组织运营效率与战略环境适应 |
-> | **代表[[Document\|文献]]** | Ison et al. (2015); [[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020)]] | Bandura (1977) | Argyris & Schön (1978); March (1991) |
+> | **代表文献** | Ison et al. (2015); [[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020)]] | Bandura (1977) | Argyris & Schön (1978); March (1991) |
 
 ---
 

@@ -42,12 +42,10 @@ related_concepts:
   - "[[Constructivist Instruction]]"
   - "[[Problem-Based Learning]]"
   - "[[Problem Solving]]"
-  - "[[Document]]"
   - "[[Heterogeneity]]"
   - "[[Nature of Science]]"
   - "[[Publication Bias]]"
   - "[[Critical Thinking]]"
-  - "[[Hypothesis]]"
   - "[[Determinism]]"
   - "[[Metacognition]]"
   - "[[Scientific Method]]"
@@ -71,7 +69,6 @@ related_methods:
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Experimental Research]]"
   - "[[Effect Size]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Moderator Analysis]]"
   - "[[Confidence Interval]]"
   - "[[Funnel Plot]]"
@@ -105,7 +102,7 @@ title: "Argument_Cartiff_2021_JEP"
 argument_key: "Argument_Cartiff_2021_JEP"
 argument_display_title: "The effect of epistemic cognition interventions on academic achievement: A meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 67
+argument_related_count: 64
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -148,7 +145,7 @@ journal: "Journal of Educational Psychology"
 
 ### 核心变量与操作化编码表
 
-> [!coding-frame] 核心[[Variable\|变量]][[Operationalization\|操作化]]定义与[[Coding in Qualitative Research\|编码]]规程
+> [!coding-frame] 核心[[Variable\|变量]][[Operationalization\|操作化]]定义与编码规程
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
 > | **因变量：学业成就（[[Academic Achievement]]）** | 衡量学生在具体学习任务中所掌握的学科知识、技能与推理水平的结果指标，具体划分为五类层级：论证表现、概念性知识、陈述性知识、[[Procedural Knowledge\|程序性知识]]与一般常规知识。 | 包含研究者根据干预内容自行编制的测验（45 个[[Effect Size\|效应量]]，如科学概念转变测验、论证写作）、外部标准化考试（4 个效应量）、科任教师期末自编常规测验（9 个效应量）及官方平均学分绩点（Grade Point Average, GPA，1 个效应量）。代表研究如 Kuhn et al. (2017) 论证表现量表、Barger et al. (2018) 化学概念理解测验。 |
@@ -156,7 +153,7 @@ journal: "Journal of Educational Psychology"
 > | **调节变量：特异性水平与对齐** | 划分干预内容与测验指标的跨度层级：分为领域通用（跨学科通用思维）、领域特定（如物理学、历史学等学科门类）以及具体主题特定（如光合作用、气候变化等特定单元）。对齐是指干预层级与测验层级完全吻合。 | 编码干预层级、测验层级以及二者是否完全对齐。如 Lam & Chan (2008) 兼具领域通用与主题特定测验。 |
 > | **调节变量：干预时长** | 干预实施的时间长短与课时密度，划分为五档：单次高强度集中教学、短期干预（数天至 1 周）、中期干预（2 至 4 周）、长期干预（5 至 10 周）以及全学期及以上教学。 | 编码实际干预周数与课时量。从 1 小时即时干预（Barzilai & Ka'adan, 2017）到一学期（15 周）物理课程整合（Sahin, 2010b）。 |
 >
-> **图表解读** 本表系统界定了[[Meta-analysis\|元分析]]的变量操作化标准，将原本异质的认识论干预[[Document\|文献]]归入清晰的理论与操作维度，为后续检验因果效应及其[[Heterogeneity\|异质性]]来源提供了统一标尺。
+> **图表解读** 本表系统界定了[[Meta-analysis\|元分析]]的变量操作化标准，将原本异质的认识论干预文献归入清晰的理论与操作维度，为后续检验因果效应及其[[Heterogeneity\|异质性]]来源提供了统一标尺。
 
 ---
 
@@ -173,7 +170,7 @@ journal: "Journal of Educational Psychology"
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **纳入[[Document\|文献]]总览** | 最终纳入 26 篇实证研究（涵盖 28 个独立样本群、59 个独立效应量、总计 4,373 名学生），发表年代跨度为 1974 年至 2018 年。 |
+> | **纳入文献总览** | 最终纳入 26 篇实证研究（涵盖 28 个独立样本群、59 个独立效应量、总计 4,373 名学生），发表年代跨度为 1974 年至 2018 年。 |
 > | **学段构成分布** | 幼儿园至高中基础教育（Kindergarten through 12th Grade, K-12）阶段 15 项研究（54%，$N = 2{,}237$）；大学本科阶段 11 项研究（39%，$N = 2{,}025$）；成人教育阶段 2 项研究（7%，$N = 111$）。 |
 > | **学科与情境领域** | 超过 80% 的研究分布在科学与理科领域（物理、化学、生物、环境科学）；少数分布在历史学（如 Stoel et al., 2017）、数学（如 Mason & Scrivani, 2004）及跨学科[[Critical Thinking\|批判性思维]]中。 |
 > | **研究设计构成** | 严格随机对照试验（RCT）10 项（$N = 1{,}142$）；等效组准实验设计 4 项（$N = 289$）；自然班级对照准实验设计 14 项（$N = 2{,}942$）。 |
@@ -254,7 +251,7 @@ journal: "Journal of Educational Psychology"
 #### 2. 考虑多重测量相关性后因果促进效应依然高度稳健
 
 > [!evidence-grid] 多重测量相关性敏感性检验
-> - **合并计算（保守[[Hypothesis\|假设]]）** 假定同一研究内各测验高度相关，先平均为单一指标（$k = 28$），得出随机效应 $d = 0.509$。
+> - **合并计算（保守假设）** 假定同一研究内各测验高度相关，先平均为单一指标（$k = 28$），得出随机效应 $d = 0.509$。
 > - **完全独立计算（宽松假设）** 假定所有测验相互独立，直接合并 59 个效应量，得出随机效应 $d = 0.495$（$p < .001$）。
 
 两种算法结果仅相差 $0.014$，显著性完全一致，表明数据间的相关性并未干扰总体因果结论的有效性。（p. 484）
@@ -494,7 +491,7 @@ journal: "Journal of Educational Psychology"
 > | 非同行评审报告与论文 | 1282 | 5 | .335 | [.127, .542] | 3.161** | 17.874*** | 4 | 77.621% |
 > | 组间差异 | — | — | — | — | — | 1.895 | 1 | — |
 >
-> **图表解读** 同行评审[[Document\|文献]]与非评审报告均达统计显著，且置信区间高度重叠（$Q_b = 1.895, p > .05$）。
+> **图表解读** 同行评审文献与非评审报告均达统计显著，且置信区间高度重叠（$Q_b = 1.895, p > .05$）。
 
 > [!result-reading] 推广可行性的方法学确认
 > 方法学检验确立了认识论干预在中小学推广的可行性：学校不必依赖校外专家的长期驻场，一线在职科任教师经过常规培训就能独立胜任教学；而借助智能学习平台中的反思提示与自适应支架，同样能获得显著收益。自然教学班中开展的准实验与严密的随机实验取得了近乎相同的提升效果，排除了选择性偏差导致效果虚高的担忧。（pp. 489–492）
@@ -536,7 +533,7 @@ journal: "Journal of Educational Psychology"
 > *We grouped each intervention into one of six types of instructional framework and found that those focused on explicit instruction or some form of guided inquiry outperformed problem-based learning and argumentation interventions. Researchers have suggested that engaging students with contrasting perspectives is critical for facilitating epistemic change. Source evaluation interventions expose students to sources with multiple, diverging perspectives on a topic and directly Teach students strategies on how to evaluate these sources.*
 
 > [!citation-card] 干预时长悖论与测验错配的理论反思
-> 较长周期的干预（通常持续约一学期）占据了[[Document\|文献]]中相当大的比重，然而我们发现较短周期的干预反而取得了更好的结果。这可能是因为较短干预中所使用的[[Achievement and Aptitude Tests\|成就测验]]与干预目标契合度更高，也可能是因为简短研究中认识论认知教学的浓度更高，还可能是由于长期实施中的[[Fade-out Effect\|效应衰退]]问题。（p. 493）
+> 较长周期的干预（通常持续约一学期）占据了文献中相当大的比重，然而我们发现较短周期的干预反而取得了更好的结果。这可能是因为较短干预中所使用的[[Achievement and Aptitude Tests\|成就测验]]与干预目标契合度更高，也可能是因为简短研究中认识论认知教学的浓度更高，还可能是由于长期实施中的[[Fade-out Effect\|效应衰退]]问题。（p. 493）
 >
 > *Longer interventions, usually lasting approximately a semester, make up a large portion of the studies in the literature, yet we found shorter interventions yielded better results. This may be because the achievement measures used in shorter interventions better fit the target of the interventions, or it may be because the concentration of the epistemic cognition instruction is greater in brief studies. It may also be because of issues regarding fadeout.*
 
@@ -545,7 +542,7 @@ journal: "Journal of Educational Psychology"
 ## 自述局限
 
 > [!warning]
-> - **纳入[[Document\|文献]]与样本规模有限** 符合实验与准实验严格标准的[[Intervention Research\|干预研究]]总计仅 26 篇（28 个样本），导致部分亚组检验的统计功效相对有限（如[[Procedural Knowledge\|程序性知识]]仅 1 项研究，成人样本仅 2 项研究），可能存在因[[Sample Size Determination\|样本量]]较小而未检测出的真实差异。（pp. 492–493）
+> - **纳入文献与样本规模有限** 符合实验与准实验严格标准的[[Intervention Research\|干预研究]]总计仅 26 篇（28 个样本），导致部分亚组检验的统计功效相对有限（如[[Procedural Knowledge\|程序性知识]]仅 1 项研究，成人样本仅 2 项研究），可能存在因[[Sample Size Determination\|样本量]]较小而未检测出的真实差异。（pp. 492–493）
 > - **[[Construct\|构念]]主观性与[[Nature of Science\|科学本质]]排除** 为保证[[Epistemic Cognition\|认识论认知]]构念的纯度，研究严格排除了单纯针对科学本质（NOS）的文献和泛化的数学解题信念干预，虽然提升了结论的聚焦度，但也相应限制了样本总量。
 > - **学科覆盖主要偏向理科** 纳入的干预研究中有超过 80% 集中在科学与物理学科，人文学科、历史与跨学科领域的干预研究相对匮乏，跨学科推广结论时需保持审慎。
 > - **缺乏对长期效果的多波次追踪** 绝大多数研究仅测量了干预刚结束时的即时效果，仅有 5 项研究设置了延时[[Pre-test and Post-test\|后测]]，目前尚无法完整描绘干预收益在数月乃至数年后的长期保持与衰减轨迹。

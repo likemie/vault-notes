@@ -10,7 +10,7 @@ title: "Argument_Wang_2025_CE"
 argument_key: "Argument_Wang_2025_CE"
 argument_display_title: "Promoting learner-centred education amid the culture of test-based accountability: insights from a cross-cultural teacher education programme"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Inquiry-Based Learning]]"
   - "[[Quality Education]]"
   - "[[Going Native]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Decodification]]"
   - "[[Critical Thinking]]"
   - "[[Policy Borrowing]]"
@@ -91,7 +90,7 @@ citation_aliases:
 >
 > 中国拥有上千年的[[Civil Service Examination\|科举]]考试（Keju）传统，现代[[Gaokao\|高考]]与中考依然主导着学生的升学与社会流动。自 1990 年代起，中国全面推行[[Quality Education\|素质教育]]，并积极引入以学生为中心的教学理念。本研究基于一项由英国大学团队（剑桥大学与谢菲尔德大学团队）在华北某区域（济南高新区）主持的跨国教师专业发展项目（包含 15 所学校、4 轮为期两周的研讨会），深入追踪其中 4 所典型案例学校，追问两个核心问题(pp. 591–592)：
 > 1. 在引入国外教学经验后，[[Test-Based Accountability\|考试问责]]机制与 [[Learner-Centred Education\|LCE]] 改革系统在案例学校中各自如何被情境化？
-> 2. 这两个活动系统是否发生互动？若发生互动，如何通过内部与系统间矛盾的调解，影响教学改革的[[Going Native\|本土化]][[Transfer Translation Transformation\|转译]]、扩展性改造与落地边界？
+> 2. 这两个活动系统是否发生互动？若发生互动，如何通过内部与系统间矛盾的调解，影响教学改革的[[Going Native\|本土化]]转译、扩展性改造与落地边界？
 
 > [!claim] 核心主张
 > 高利害[[Test-Based Accountability\|考试问责]]文化并不必然导致[[Learner-Centred Education\|LCE]]改革的夭折。学校能够通过建立“学校特定共享目标”（School-Specific Shared Object），将 LCE 重新[[Decodification\|解码]]为培养高阶考题所需的[[Critical Thinking\|批判性思维]]或提升课堂 45 分钟吸收率的提分工具；同时协同重构评估规则（评课量表与额外绩效加分）、中介工具与领导/教师劳动分工（校长为改革风险兜底），促成两个活动系统的“扩展性改造”（Expansive Transformation），实现应试与改革的互惠借力。然而受制于统一课程大纲与高考的刚性约束，这种本土化 LCE 在权力共享维度（学生决定“学什么”与“怎么考”）上仍保留不可跨越的结构性硬边界(pp. 598–602)。
@@ -121,7 +120,7 @@ citation_aliases:
 > | **劳动分工（Division of Labor）** | 任务分配、权力结构与风险担当 | 自上而下：教育局/校长下达指标，教师单打独斗提分 | 倡导“共享领导”，但教师缺乏校长制度性背书(p. 597) |
 
 > [!warrant]- 理论如何支撑论证
-> 本研究将[[Test-Based Accountability\|考试问责]]与[[Learner-Centred Education\|LCE]] 改革视为学校同时嵌入的两个独立且相互作用的活动系统。活动理论的六要素拆解揭示：单纯引入外部中介工具（如英国教学案例）之所以在初始阶段失效，是因为它与既有考试问责系统中的规则（分数考核）、共同体（家长施压）和分工（自上而下指令）产生了深刻的二次矛盾（Secondary Contradictions）。而 Engeström（2001）的扩展性改造理论则解释了当学校领袖成功建构出“双系统共享客体”时，如何能带动规则（评价量表重构/额外加分）、工具（[[Dialogue in Education|对话教学]][[Going Native\|本土化]]）和分工（校长风险兜底）的全系统重组，从而为跨国[[Policy Borrowing\|政策借用]]中的动态[[Transfer Translation Transformation\|转译]]提供了社会文化历史视角的机制解释(pp. 590–591, 600)。
+> 本研究将[[Test-Based Accountability\|考试问责]]与[[Learner-Centred Education\|LCE]] 改革视为学校同时嵌入的两个独立且相互作用的活动系统。活动理论的六要素拆解揭示：单纯引入外部中介工具（如英国教学案例）之所以在初始阶段失效，是因为它与既有考试问责系统中的规则（分数考核）、共同体（家长施压）和分工（自上而下指令）产生了深刻的二次矛盾（Secondary Contradictions）。而 Engeström（2001）的扩展性改造理论则解释了当学校领袖成功建构出“双系统共享客体”时，如何能带动规则（评价量表重构/额外加分）、工具（[[Dialogue in Education|对话教学]][[Going Native\|本土化]]）和分工（校长风险兜底）的全系统重组，从而为跨国[[Policy Borrowing\|政策借用]]中的动态转译提供了社会文化历史视角的机制解释(pp. 590–591, 600)。
 
 ---
 
@@ -255,7 +254,7 @@ citation_aliases:
 ### 论证步骤四：中国考试文化与儒家传统中 LCE 的选择性亲和与硬边界
 
 > [!claim] 步骤四主张
-> [[Learner-Centred Education\|LCE]] 在案例学校的本土化是与中国考试文化及儒家教育传统的深度对话。这种[[Transfer Translation Transformation\|转译]]在赋予教学改革认知与效率强化的同时，也显现出不可跨越的结构性实施边界(pp. 601–603)。
+> [[Learner-Centred Education\|LCE]] 在案例学校的本土化是与中国考试文化及儒家教育传统的深度对话。这种转译在赋予教学改革认知与效率强化的同时，也显现出不可跨越的结构性实施边界(pp. 601–603)。
 
 > [!contrast-table] 理想型 LCE 与中国本土化 LCE 的维度张力对比
 > | 比较维度 | 西方理想型 LCE（如 Schweisfurth, 2013） | 中国案例学校的本土化 LCE 实践 |
@@ -267,20 +266,20 @@ citation_aliases:
 > [!exegesis]- [[Lev Vygotsky\|维果茨基]]与[[Confucius\|孔子]]思想的本土共振
 > 在农村二校的实践中，校长与教师展现出将西方心理学与中国传统教育哲学相融通的智慧。农村二校校长指出：*“提高学生的考试成绩与 LCE 并不冲突，它们应当是互惠互利的。此外，维果茨基（Vygotsky）关于社会互动促进认知发展的见解，恰好呼应了[[Confucius\|孔子]]关于对话式教学有助于深度思考的古老信念。”*(p. 596) 这种文化共振使得中国教师在心理上解除了对外来教学法的异己感，将其视作对本土教育哲学的现代复兴(p. 602)。
 
-> [!exegesis]- 与国际研究及中国[[Document\|文献]]的学术对话
+> [!exegesis]- 与国际研究及中国文献的学术对话
 > - **与 Sakata et al. (2023, 加纳案例) 的对比** 加纳等低/中收入国家推行 LCE 主要依赖外部政策引介与后殖民话语；而中国教师将 LCE 与孔子启发式对话、维果茨基社会文化理论产生选择性亲和（Selective Affinity），化外部经验为本土主体性。
 > - **与 You (2019) 的对比** You 认为仅有经济条件优越的学校才能平衡 LCE 与应试。本研究反驳了这一单向[[Determinism\|决定论]]——经济落后且成绩垫底的农村二校（Rural 2）因强烈的翻盘诉求，反而展现出最坚决的扩展性改造决心。
 > - **权力共享维度的结构硬边界** 城市二校教师坦言：*“学生不可能参与决定他们想学什么或考什么。在中国，课程标准和考试大纲是统一且刚性的，教师的任务是在这个框架内引导学生达成优秀。”*(p. 599) 统一大纲与高考决定了“学什么、怎么考”由国家和教师掌控，LCE 被严格限定在“怎么学、怎么思”的认知与效率层面。
 
 > [!warrant]- 理论推理桥梁
-> [[Policy Borrowing\|政策借用]]与再情境化理论表明，外来理念在本土落地的过程必然经历选择性亲和与重构。中国教师接受以学生为中心教育，是因为它能契合高考改革对批判性思维的要求以及儒家启发式教学传统；然而，由于升学考试制度的刚性约束，学生无法参与决定学什么或怎么考，这构成了教学改革在中国语境下的硬边界。这有力地解释了为什么跨国政策借用在不同国家会呈现完全不同的[[Transfer Translation Transformation\|转译]]形态(pp. 601–603)。
+> [[Policy Borrowing\|政策借用]]与再情境化理论表明，外来理念在本土落地的过程必然经历选择性亲和与重构。中国教师接受以学生为中心教育，是因为它能契合高考改革对批判性思维的要求以及儒家启发式教学传统；然而，由于升学考试制度的刚性约束，学生无法参与决定学什么或怎么考，这构成了教学改革在中国语境下的硬边界。这有力地解释了为什么跨国政策借用在不同国家会呈现完全不同的转译形态(pp. 601–603)。
 
 ---
 
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **[[Test-Based Accountability\|考试问责]]与[[Learner-Centred Education\|LCE]] 可并行协同** 在当前升学考试越来越强调[[Critical Thinking\|批判性思维]]与综合分析能力的背景下，追求考试优异与实施教学改革可以并行不悖。以学生为中心教育能够被成功[[Transfer Translation Transformation\|转译]]为帮助学生冲击高分段的提分工具(pp. 598–601)。
+> 1. **[[Test-Based Accountability\|考试问责]]与[[Learner-Centred Education\|LCE]] 可并行协同** 在当前升学考试越来越强调[[Critical Thinking\|批判性思维]]与综合分析能力的背景下，追求考试优异与实施教学改革可以并行不悖。以学生为中心教育能够被成功转译为帮助学生冲击高分段的提分工具(pp. 598–601)。
 > 2. **考试问责闭环咬合是改革卡顿的根源** 考试问责系统内部要素高度协调。仅引入外部教学理念，而缺乏考评规则、领导分工与共同体信任的协同重构，改革极易在临考前半途折返(pp. 593–598)。
 > 3. **谋求突破的渴望是触发扩展性改造的动力** 追求维持现状的名校（城市一校）因防御心理缺乏打破系统平衡的动力；相反，意图实现突破或垫底翻盘的学校（城市二校、农村二校）更倾向于重构要素，走向扩展性学习(p. 600)。
 > 4. **LCE [[Going Native\|本土化]]伴随着文化[[Selective Affinity\|选择性亲和]]与结构硬边界** 中国语境下的教学改革被转译为以认知与效率为核心的实用工具，与儒家[[Dialogue in Education|对话教学]]传统产生亲和，但也彻底排斥了西方教学理念中有关民主公民和学生共决课程的权力共享要求(pp. 601–603)。

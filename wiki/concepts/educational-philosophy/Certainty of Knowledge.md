@@ -10,7 +10,7 @@ aliases:
 summary: "关于知识本质的底层认知假设与哲学追求。在西方思想史中体现为以数学和逻辑为范式追求客观永恒真知的文化传统；在教育心理学中则是衡量个体认识论成熟度（绝对固定 vs 相对演变）的核心维度，实证表明其独立负向预测学业成绩并受学科选择与社会化的双重塑造。"
 type: concept
 domain: "educational-philosophy"
-related_count: 53
+related_count: 52
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -43,7 +43,6 @@ related_concepts:
   - "[[Cultural Capital]]"
   - "[[Variable]]"
   - "[[Disciplinary Socialization]]"
-  - "[[Hypothesis]]"
   - "[[Task Structure]]"
   - "[[Intercultural Education]]"
   - "[[Ontology]]"
@@ -84,7 +83,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Certainty of Knowledge
@@ -226,7 +225,7 @@ updated: 2026-10-07
 
 > [!claim] [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]]
 > **办学导向与性别分化主张** 确定知识信念的成熟度受学校办学导向与性别社会化的显著调节。
-> 实证研究表明，独立基督教学校学生在确定知识成熟度上显著超越公立学校学生（$M = -.26$ vs $.08, t = 2.85, p = .005, \eta^2 = .02$），打破了宗教办学必然导致绝对教条确定的刻板[[Hypothesis\|假设]]，揭示了思辨性道德议题讨论对协调矛盾视角的促进作用；同时，女生在确定知识成熟度上显著高于男生（$t = -2.59, p = .01, \eta^2 = .02$）。在[[Multiple Regression\|多元回归]]分析中，确定知识充当了不可或缺的基础控制变量，控制确定知识后方能更纯粹地识别出[[Simplicity of Knowledge\|简单知识]]对[[Task Structure\|劣构任务]]表现的特异性阻碍。[[Argument_Lodewyk_2007_EP\|(Lodewyk, 2007, pp. 317–318, 321–323)]]
+> 实证研究表明，独立基督教学校学生在确定知识成熟度上显著超越公立学校学生（$M = -.26$ vs $.08, t = 2.85, p = .005, \eta^2 = .02$），打破了宗教办学必然导致绝对教条确定的刻板假设，揭示了思辨性道德议题讨论对协调矛盾视角的促进作用；同时，女生在确定知识成熟度上显著高于男生（$t = -2.59, p = .01, \eta^2 = .02$）。在[[Multiple Regression\|多元回归]]分析中，确定知识充当了不可或缺的基础控制变量，控制确定知识后方能更纯粹地识别出[[Simplicity of Knowledge\|简单知识]]对[[Task Structure\|劣构任务]]表现的特异性阻碍。[[Argument_Lodewyk_2007_EP\|(Lodewyk, 2007, pp. 317–318, 321–323)]]
 
 ---
 

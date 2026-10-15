@@ -6,7 +6,7 @@ aliases:
 summary: "以列斐伏尔空间三元论为基础的分析框架，将高等教育理解为持续参与空间生产与空间治理的制度性实践，从物质性、表征性和关系性三个嵌套维度考察其如何参与全球空间秩序建构"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 13
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,8 +21,6 @@ related_concepts:
   - "[[Infrastructures of Immobility]]"
   - "[[Discourse]]"
   - "[[Champ]]"
-  - "[[Transfer Translation Transformation]]"
-  - "[[Document]]"
   - "[[Geopolitics of Higher Education]]"
 related_theories: []
 related_methods:
@@ -36,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 # Space Production
 
@@ -71,7 +69,7 @@ updated: 2026-10-07
 > - **物质性维度**回答"空间如何被制度装置所构建"——高校布局、资源分配与流动基础设施是权力运作的物质化显现。
 > - **表征性维度**追问"这些物质差异如何获得意义与合法性"——排名体系和知识规则将不平等自然化为"合理的世界图景"。
 > - **关系性维度**揭示"这种秩序如何通过多重行动者的博弈持续重组"——国家、高校与国际组织在具体实践中的协商塑造了空间的动态演化。
-> - **最终环节** 空间生产不停留在制度或结构层面，而是通过高等教育的核心功能——人的培养——被持续[[Transfer Translation Transformation\|转译]]为主体的认知与情感结构。课程设置、教材叙事、评价制度与校园环境的治理实践，将外在的空间秩序（等级、边界、伙伴关系与秩序想象）内化为学生对自身位置、他者关系与世界秩序的理解，并在后续的科研实践、流动选择与跨境合作中得到再生产。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, p. 13)]]
+> - **最终环节** 空间生产不停留在制度或结构层面，而是通过高等教育的核心功能——人的培养——被持续转译为主体的认知与情感结构。课程设置、教材叙事、评价制度与校园环境的治理实践，将外在的空间秩序（等级、边界、伙伴关系与秩序想象）内化为学生对自身位置、他者关系与世界秩序的理解，并在后续的科研实践、流动选择与跨境合作中得到再生产。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, p. 13)]]
 
 ---
 
@@ -90,4 +88,4 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Yu_Xie_2025_JHE\|余婧然和谢爱磊 (2025)]] — 首次在中文[[Document\|文献]]中系统提出以空间生产三元维度整合[[Geopolitics of Higher Education\|高等教育地缘政治]]研究的[[Analytic Framework\|分析框架]]，区分物质性、表征性和关系性三个维度。
+> - [[Argument_Yu_Xie_2025_JHE\|余婧然和谢爱磊 (2025)]] — 首次在中文文献中系统提出以空间生产三元维度整合[[Geopolitics of Higher Education\|高等教育地缘政治]]研究的[[Analytic Framework\|分析框架]]，区分物质性、表征性和关系性三个维度。

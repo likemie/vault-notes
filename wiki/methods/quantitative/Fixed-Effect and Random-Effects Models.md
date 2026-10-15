@@ -10,7 +10,7 @@ summary: "元分析中两种最基础的统计合成模型，固定效应模型�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 27
+method_related_count: 25
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -22,13 +22,11 @@ tags:
   - methodology
 related_concepts:
   - "[[Paradigm]]"
-  - "[[Hypothesis]]"
   - "[[Sampling Error]]"
   - "[[Heterogeneity]]"
   - "[[Construct]]"
   - "[[Publication Bias]]"
   - "[[Clinical Trial]]"
-  - "[[Document]]"
   - "[[Critical Thinking]]"
 related_theories: []
 related_methods:
@@ -57,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-08
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Fixed-Effect and Random-Effects Models
@@ -67,7 +65,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 方法定义
-> 固定效应模型（Fixed-Effect Model）与随机效应模型（Random-Effects Model）是[[Meta-analysis\|元分析]]中用于加权合成初级研究[[Effect Size\|效应量]]的两种根本性统计建模[[Paradigm\|范式]]。它们的核心分歧在于**对跨研究效应量变异来源的方法论[[Hypothesis\|假设]]**
+> 固定效应模型（Fixed-Effect Model）与随机效应模型（Random-Effects Model）是[[Meta-analysis\|元分析]]中用于加权合成初级研究[[Effect Size\|效应量]]的两种根本性统计建模[[Paradigm\|范式]]。它们的核心分歧在于**对跨研究效应量变异来源的方法论假设**
 > - **固定效应模型** 假定所有纳入研究共享同一个恒定不变的真实效应量 $\theta$，观察到的研究间差异纯粹源于初级研究内部的随机[[Sampling Error\|抽样误差]]（Sampling Error）；
 > - **随机效应模型** 假定各初级研究的真实效应量本身存在实质性[[Heterogeneity\|异质性]]，属于广义总体效应分布的一个[[Random Sampling\|随机抽样]]样本，因而模型同时分解“研究内抽样方差”（Within-study variance）与“[[Between-Study Variance\|研究间真实方差]]”（Between-study variance, $\tau^2$）。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, p. 39)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|(Cohen et al., 2011, Ch. 17)]]
 
@@ -128,7 +126,7 @@ updated: 2026-09-17
 > [!contrast-table] 固定效应与随机效应模型全方位对比
 > | 比较维度 | 固定效应模型（Fixed-Effect） | 随机效应模型（Random-Effects） |
 > |---|---|---|
-> | **核心哲学[[Hypothesis\|假设]]** | 存在唯一的“真实[[Effect Size\|效应量]]”（One True Effect） | 存在一个“真实效应量分布”（Distribution of True Effects） |
+> | **核心哲学假设** | 存在唯一的“真实[[Effect Size\|效应量]]”（One True Effect） | 存在一个“真实效应量分布”（Distribution of True Effects） |
 > | **方差来源分解** | 仅抽样方差（Within-study variance $v_i$） | 抽样方差 $v_i$ + [[Between-Study Variance\|研究间方差]] $\tau^2$ |
 > | **权重分配特征** | 极度偏向大样本研究（$w_i \propto N_i$） | 权重趋于平均化（大样本优势被 $\tau^2$ 稀释） |
 > | **[[Confidence Interval\|置信区间]]宽度** | 通常较窄（[[Standard Error\|标准误]]较小，推断激进） | 较宽（[[Standard Error\|标准误]]较大，充分反映[[Heterogeneity\|异质性]]不确定性） |
@@ -139,7 +137,7 @@ updated: 2026-09-17
 > [!math-principle] 权重再平衡（Weight Leveling Effect）与小研究效应敏感性
 > 当真实异质性极大（$\tau^2 \gg v_i$）时，随机效应权重 $w_i^* = \frac{1}{v_i + \tau^2} \to \frac{1}{\tau^2}$，这意味着所有研究的权重几乎变得完全相同。
 >
-> **方法学警示** 如果[[Document\|文献]]库中存在严重的[[Publication Bias\|发表偏倚]]（即存在若干具有夸大效应的小样本劣质研究），随机效应模型因相对提升了小研究的权重，其合并均值 $\hat{\mu}_{\text{RE}}$ 反而可能比固定效应估计值 $\hat{\theta}_{\text{FE}}$ 更容易被高估。因此，在报告随机效应模型时，必须严格配合[[Funnel Plot\|漏斗图]]、Egger 检验与[[Trim and Fill Method\|剪补法]]进行发表偏倚诊断。
+> **方法学警示** 如果文献库中存在严重的[[Publication Bias\|发表偏倚]]（即存在若干具有夸大效应的小样本劣质研究），随机效应模型因相对提升了小研究的权重，其合并均值 $\hat{\mu}_{\text{RE}}$ 反而可能比固定效应估计值 $\hat{\theta}_{\text{FE}}$ 更容易被高估。因此，在报告随机效应模型时，必须严格配合[[Funnel Plot\|漏斗图]]、Egger 检验与[[Trim and Fill Method\|剪补法]]进行发表偏倚诊断。
 
 ---
 

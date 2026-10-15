@@ -7,7 +7,7 @@ aliases:
 summary: "IB 知识论课程中把具体知识主张转化为开放且一般化认识论探究的核心问题形式，用于组织跨领域分析，并在并发学习中连接反思与实践。"
 type: concept
 domain: "curriculum"
-related_count: 25
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Extended Essay]]"
   - "[[Epistemology]]"
   - "[[Critical Thinking]]"
-  - "[[Hypothesis]]"
   - "[[Problem Solving]]"
   - "[[Praxis]]"
   - "[[Research Question]]"
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-04
-updated: 2026-10-02
+updated: 2026-10-15
 ---
 
 # Knowledge Questions
@@ -73,7 +72,7 @@ updated: 2026-10-02
 > - **知识主张** 知识主张表达关于世界或知识的判断，知识问题把这些判断转化为可以审查的[[Epistemology\|认识论]]问题。
 > - **学科问题** 学科问题通常要求在特定领域内形成答案，知识问题关注答案得以成立的证据、方法、概念和限制。
 > - **真实情境** 真实情境提供提问材料与应用背景，知识问题承担从具体事件进入一般知识探究的转换功能。
-> - **[[Critical Thinking\|批判性思维]]任务** 知识问题可以引发分析、评价和观点比较，但不能单独覆盖来源核查、[[Hypothesis\|假设]]检验、决策、[[Problem Solving\|问题解决]]与创造等全部批判性思维活动。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 39–43)]]
+> - **[[Critical Thinking\|批判性思维]]任务** 知识问题可以引发分析、评价和观点比较，但不能单独覆盖来源核查、假设检验、决策、[[Problem Solving\|问题解决]]与创造等全部批判性思维活动。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 39–43)]]
 
 ---
 
@@ -156,7 +155,7 @@ updated: 2026-10-02
 > 提问、观点比较、论证和评价属于[[Critical Thinking\|批判性思维]]的重要部分。完整的[[Construct Validity\|构念效度]]还要求任务直接呈现其他关键思维活动。
 
 > [!claim] Hughes, C.
-> **部分覆盖** 知识问题能够组织不同观点、反主张、真实实例和推论，因而支持若干批判性思维表现。2013 年评分结构没有系统要求批判性阅读、评价来源是否可信、[[Hypothesis\|假设]]检验、不确定性判断、决策、[[Problem Solving\|复杂问题解决]]和创造。知识问题的高度可见只能支持部分[[Construct Validity\|构念效度]]。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 40–43)]]
+> **部分覆盖** 知识问题能够组织不同观点、反主张、真实实例和推论，因而支持若干批判性思维表现。2013 年评分结构没有系统要求批判性阅读、评价来源是否可信、假设检验、不确定性判断、决策、[[Problem Solving\|复杂问题解决]]和创造。知识问题的高度可见只能支持部分[[Construct Validity\|构念效度]]。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 40–43)]]
 
 ---
 

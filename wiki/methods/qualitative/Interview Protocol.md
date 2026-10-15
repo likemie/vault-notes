@@ -8,9 +8,9 @@ summary: "质性访谈中用于指导问题提问和记录回答的一至两页�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 32
-method_related_level: 4
-method_related_stars: "⭐⭐⭐⭐"
+method_related_count: 31
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Knowledge Questions]]"
   - "[[Construct]]"
   - "[[Leading Questions]]"
-  - "[[Hypothesis]]"
   - "[[Emergence]]"
 related_methods:
   - "[[Qualitative Interview]]"
@@ -40,12 +39,12 @@ related_methods:
   - "[[Pilot Testing]]"
   - "[[Mixed Methods Research]]"
   - "[[Focus Group]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Content Analysis]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Semi-structured Interview]]"
   - "[[Ethnography]]"
   - "[[Questionnaire]]"
+  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
@@ -53,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Interview Protocol
@@ -92,7 +91,7 @@ updated: 2026-09-22
 > [!method-stack] 方法层级
 > - **研究设计** [[Qualitative Research\|质性研究]]、[[Mixed Methods Research\|混合方法研究]]中的质性部分
 > - **数据收集** 一对一访谈、[[Focus Group\|焦点小组]]访谈
-> - **分析方法** [[Coding in Qualitative Research\|编码]]、主题分析、[[Content Analysis\|内容分析]]
+> - **分析方法** 编码、主题分析、[[Content Analysis\|内容分析]]
 > - **辅助技术** [[Pilot Testing\|预测试]]、录音与[[Transcription in Qualitative Research\|转录]]、访谈者培训
 
 ---
@@ -159,7 +158,7 @@ Kerlinger（1970）区分了访谈提纲中使用的三种项目类型（[[Argum
 > [!contrast-table] 三种提纲项目类型
 > | 类型 | 示例 | 优势 | 局限 |
 > |---|---|---|---|
-> | **固定选项项目** | "你认为学校必须公开考试成绩是否符合学校利益？是/否/不知道" | 测量一致性高，[[Reliability\|信度]]高，易于[[Coding in Qualitative Research\|编码]] | 表面性；可能激怒找不到合适选项的受访者；可能强制不适当回应 |
+> | **固定选项项目** | "你认为学校必须公开考试成绩是否符合学校利益？是/否/不知道" | 测量一致性高，[[Reliability\|信度]]高，易于编码 | 表面性；可能激怒找不到合适选项的受访者；可能强制不适当回应 |
 > | **开放式项目** | "你最喜欢看什么类型的电视节目？" | 灵活；允许追问；测试知识边界；鼓励合作和融洽关系；可能产生意外答案 | 更难编码和量化 |
 > | **量表项目** | "14岁后的上学应自愿：非常同意/同意/未决定/不同意/非常不同意" | 可与[[Open-Ended and Closed-Ended Data\|开放式数据]]核验 | 耗时；可能产生偏差 |
 
@@ -241,7 +240,7 @@ Tuckman（1972）区分了四种问题格式和八种回答模式（[[Argument_C
 > 3. 避免模糊和不精确
 > 4. [[Leading Questions\|引导性问题]]需决定使用是否合理
 > 5. 避免双重问题，一次问一个以上要点
-> 6. 避免预设[[Hypothesis\|假设]]的问题
+> 6. 避免预设假设的问题
 > 7. 假设性或推测性问题需谨慎
 > 8. 敏感或个人问题需决定是否提问或回避
 > 9. 假设受访者拥有所需知识
@@ -261,7 +260,7 @@ Tuckman（1972）区分了四种问题格式和八种回答模式（[[Argument_C
 ## 局限性
 
 > [!method-limits] 方法局限
-> - **偏误来源** 过于紧密遵循协议可能限制访谈的自然性和相关性；提前固定的措辞可能与特定受访者的语言习惯不匹配。协议设计者的文化[[Hypothesis\|假设]]可能嵌入问题措辞中。
+> - **偏误来源** 过于紧密遵循协议可能限制访谈的自然性和相关性；提前固定的措辞可能与特定受访者的语言习惯不匹配。协议设计者的文化假设可能嵌入问题措辞中。
 > - **适用边界** 协议的价值随访谈的结构化程度而变化——越结构化的访谈，协议越关键；越开放的访谈，协议越接近松散的指南而非严格的脚本。
 > - **误用风险** 初学[[Qualitative Research\|质性研究]]者可能对仅有五到十个问题的访谈长度感到不安，但通过[[Probes\|追问提示]]可以有效延长访谈时长并获取有深度的信息（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch9）。
 > - **补救方式** [[Pilot Testing\|预测试]]是弥补协议缺陷的核心手段——通过试用发现困难、敏感、含糊或烦人的问题，并在正式使用前修订。

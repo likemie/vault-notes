@@ -13,7 +13,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 23
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -37,8 +37,6 @@ related_concepts:
   - "[[Total War]]"
   - "[[Knowledge Transfer]]"
   - "[[21st Century Skills and Competencies Discourse]]"
-  - "[[Transfer Translation Transformation]]"
-  - "[[Document]]"
   - "[[Research Translation]]"
   - "[[Literature Search]]"
   - "[[Transfer Science]]"
@@ -54,12 +52,11 @@ related_arguments:
   - "[[Argument_Kelly_2025_ROE]]"
 related_theories:
   - "[[Organizational Culture]]"
-related_persons:
-  - "[[Isaiah Berlin]]"
+related_persons: []
 confidence: high
 status: completed
 created: 2026-09-26
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # German State Educational Institutes and Quality Agencies
@@ -105,15 +102,15 @@ updated: 2026-10-08
 > - **课程大纲与教学规程编制（Lehrplanentwicklung）** 依据各州法律与 [[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] 国家标准，制定中小学各学段跨学科[[21st Century Skills and Competencies Discourse|核心素养]]教学纲领与考核规程。
 > - **教师职后进修与专业发展（Lehrerfortbildung）** 规划并实施面向全州任课教师、学科教研员与校长的常态化在岗研训方案。[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, p. 12]]
 > - **校本发展咨询支持（Schulentwicklungsberatung）** 组建独立顾问团队，进驻学校开展办学规划、[[Organizational Culture|组织文化]]改造与课程整合诊断。
-> - **研究[[Knowledge Mediation|知识中介]]与清算[[Transfer Translation Transformation|转译]]（Wissenstransfer & Brokerage）** 筛选前沿实证教育科研成果，加工为适切教学指南并通过 [[Forschungsmonitor Schule]] 平台全网分发。[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, p. 10]]
+> - **研究[[Knowledge Mediation|知识中介]]与清算转译（Wissenstransfer & Brokerage）** 筛选前沿实证教育科研成果，加工为适切教学指南并通过 [[Forschungsmonitor Schule]] 平台全网分发。[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, p. 10]]
 
 > [!row-contrast] 德国代表性州立研训与质量机构（Landesinstitute）横向配置表
-> | 机构简称与全称 | 所在联邦州与总部 | 核心业务特色与治理职能 | 代表性转移成果或平台 | 关键[[Document\|文献]]与案例来源 |
+> | 机构简称与全称 | 所在联邦州与总部 | 核心业务特色与治理职能 | 代表性转移成果或平台 | 关键文献与案例来源 |
 > |---|---|---|---|---|
 > | **QUA-LiS NRW**<br>Qualitäts- und UnterstützungsAgentur – Landesinstitut für Schule NRW | 北莱茵-威斯特法伦州（索斯特） | 统筹全州课程大纲编制、教师进修、学校咨询；主导《学校发展研究文丛》出版 | 主办 2018 年 KBBB [[Knowledge Transfer\|知识转移]]大会；深度参与 FMS 平台共建 | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, p. 8)]] |
 > | **ISB Bayern**<br>Staatsinstitut für Schulqualität und Bildungsforschung | 巴伐利亚州（慕尼黑） | 办学质量监测、全州统测试卷研制、学科教学法与实证教育[[Research Translation\|研究转化]] | 研发巴伐利亚 LehrplanPLUS 课程大纲体系与数字化教学资源库 | [[Argument_Dedering_2009_EERJ\|Dedering (2009, p. 485)]] |
 > | **LI Hamburg**<br>Landesinstitut für Lehrerbildung und Schulentwicklung | 汉堡自由汉萨市（汉堡） | 贯通第二阶段见习教师培养（Referendariat）与职后培训；开展低利害形成性治理 | 与 [[Institute for Educational Monitoring and Quality Improvement\|IfBQ]] 协同开展校长“同侪案例会商”（Kollegiale Fallberatung） | [[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 231)]] |
-> | **LISUM**<br>Landesinstitut für Schule und Medien Berlin-Brandenburg | [[Isaiah Berlin\|柏林]]-勃兰登堡跨州（路德维希费尔德） | 跨联邦州课程共建、数字媒体教育推进、中小学教学支持平台运营 | 研发柏林-勃兰登堡跨州联合统一教学大纲与数字媒介素养指南 | KMK (2015, p. 13) |
+> | **LISUM**<br>Landesinstitut für Schule und Medien Berlin-Brandenburg | 柏林-勃兰登堡跨州（路德维希费尔德） | 跨联邦州课程共建、数字媒体教育推进、中小学教学支持平台运营 | 研发柏林-勃兰登堡跨州联合统一教学大纲与数字媒介素养指南 | KMK (2015, p. 13) |
 
 ---
 
@@ -145,7 +142,7 @@ updated: 2026-10-08
 > | **管辖覆盖** | 全德 16 个联邦州基础教育系统 | 每个联邦州均设有至少一家法定公立州立研究所或质量机构 | 覆盖学前至高中全学段教育体系 |
 > | **政策定位** | 《国家教育监测总体战略》（KMK, 2015） | 专章法定要求 Landesinstitute 承担科研成果应用转化的中介职责 | 标志着州立机构由内部师训实体升级为国家级[[Knowledge Mediation\|知识中介]]载体 |
 > | **跨州共识** | 《关于研究知识转移的联合立场文件》（2018） | 全德 16 州立机构共同达成转移共识并确立具体合作措施 | 催生了全德首个跨区域教育实证监测平台 [[Forschungsmonitor Schule]] |
-> | **学术研究赤字** | 德语区实证教育科学[[Literature Search\|文献检索]] | 针对 Landesinstitute 微观中介运作的实证[[Document\|文献]]极度匮乏 [[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, p. 12)]] | 证实多层级治理中的中层执行环节面临严重学术研究空白 |
+> | **学术研究赤字** | 德语区实证教育科学[[Literature Search\|文献检索]] | 针对 Landesinstitute 微观中介运作的实证文献极度匮乏 [[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, p. 12)]] | 证实多层级治理中的中层执行环节面临严重学术研究空白 |
 
 ---
 

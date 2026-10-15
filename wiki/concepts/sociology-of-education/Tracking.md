@@ -9,7 +9,7 @@ aliases:
 summary: "根据学术能力、测试成绩或职业取向将学生分配至不同课程轨道、教学班组或学校类型的制度化分流实践，在宏观上加剧社会阶层隔离并削弱公平与动机，在微观上强化能力固化信念与自我实现预言"
 type: concept
 domain: "sociology-of-education"
-related_count: 45
+related_count: 43
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -20,7 +20,6 @@ tags:
   - theme/comparative-education
   - paradigm/critical
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Academic Achievement]]"
   - "[[Grade Retention]]"
   - "[[Comprehensive Education]]"
@@ -42,7 +41,6 @@ related_concepts:
   - "[[Policy Avoidance]]"
   - "[[Moral Sidestep]]"
   - "[[Media Logic]]"
-  - "[[Document]]"
 related_theories:
   - "[[Structural Functionalism]]"
   - "[[Human Capital Theory]]"
@@ -74,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-25
-updated: 2026-10-11
+updated: 2026-10-15
 ---
 
 # Tracking
@@ -84,7 +82,7 @@ updated: 2026-10-11
 ## 定义
 
 > [!def] 核心定义
-> 分轨制（Tracking）指根据学生的学业能力评估、标准化测验成绩或既定职业取向，将其系统性分配至不同课程难度轨道（Tracks）、教学班组或不同类型中等学校的制度化组织实践。在宏观制度层面，跨国比较实证研究表明，学校体系的分层与早期分轨不仅未能促进卓越，反而加剧了社会经济阶层隔离，对教育公平（Equity）与学生的学习动机产生显著负面抑制（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]；OECD, 2013b）；在微观文化心理层面，分轨制深植于西方文化的“固定自我观”与天赋论[[Hypothesis\|假设]]，通过“适应学生已有特征”而非“通过教学发展学生”的组织逻辑，促使低轨学生在长期的认知降级中陷入自我实现的失败预言（[[Argument_Li_2012_Cambridge\|Li, 2012]]）。
+> 分轨制（Tracking）指根据学生的学业能力评估、标准化测验成绩或既定职业取向，将其系统性分配至不同课程难度轨道（Tracks）、教学班组或不同类型中等学校的制度化组织实践。在宏观制度层面，跨国比较实证研究表明，学校体系的分层与早期分轨不仅未能促进卓越，反而加剧了社会经济阶层隔离，对教育公平（Equity）与学生的学习动机产生显著负面抑制（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]；OECD, 2013b）；在微观文化心理层面，分轨制深植于西方文化的“固定自我观”与天赋论假设，通过“适应学生已有特征”而非“通过教学发展学生”的组织逻辑，促使低轨学生在长期的认知降级中陷入自我实现的失败预言（[[Argument_Li_2012_Cambridge\|Li, 2012]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向中等教育中依据[[Academic Achievement\|学业表现]]对学生实施的结构性分流与层化机制，涵盖校内课程分轨、全科分班以及校际选拔等形态。
@@ -124,7 +122,7 @@ updated: 2026-10-11
 ## 核心要素
 
 > [!feature] 核心要素
-> - **能力固化[[Hypothesis\|假设]]（Fixed Ability Assumption）** 分轨制的核心哲学前提是默认学生的智力前景与学术潜力在进入初高中时已不可逆地定型（Oakes & Guiton, 1995）。教学设计的目的从“促成学生潜能转化”蜕化为“被动适应已有的能力分类”，使轨道成为预先锁定的终点分配。
+> - **能力固化假设（Fixed Ability Assumption）** 分轨制的核心哲学前提是默认学生的智力前景与学术潜力在进入初高中时已不可逆地定型（Oakes & Guiton, 1995）。教学设计的目的从“促成学生潜能转化”蜕化为“被动适应已有的能力分类”，使轨道成为预先锁定的终点分配。
 > - **双重隔离机制（Double Segregation）** 跨国评估实证揭示，学力分轨绝非单纯的技术分类，它在统计分布上与家庭社会经济地位（SES）及少数族裔背景高度重合，将原本隐蔽的阶层不平等固化为显性的制度隔离（OECD, 2013b; [[Argument_Grey_2018_CE\|Grey & Morris, 2018, p. 114]]）。
 > - **课程暴露与机会鸿沟（Opportunity Gap in Exposure）** 低轨学生遭遇教学节奏放缓与正规核心课程（如高级形式数学）暴露频次的系统性剥夺；缺乏挑战性思维训练使原本微小的学业差距在制度化[[Disciplina and Doctrina\|规训]]中被成倍拉大。
 > - **个人降级与自我实现的失败预言（Personal Downgrading & Self-Fulfilling Prophecy）** 低轨学生吸收了“自己能力有限、努力无用”的实体论信念，体验深刻的自我贬低并降低努力水平；教师亦对低轨班级持有低期望与防卫性教学，最终“印证”了初始预设（[[Argument_Li_2012_Cambridge\|Li, 2012, pp. 98–99]]）。
@@ -148,7 +146,7 @@ updated: 2026-10-11
 ### 命题二　实体论智力信念驱动的分轨实践通过适应逻辑触发自我实现的失败预言
 
 > [!concept-lens] 微观组织与文化心理维度的认知锁定机制
-> 探讨教育者内化的智力固定[[Hypothesis\|假设]]如何将学校课程重组为适应性轨道，迫使低轨学生经历个人降级并主动放弃努力。
+> 探讨教育者内化的智力固定假设如何将学校课程重组为适应性轨道，迫使低轨学生经历个人降级并主动放弃努力。
 
 > [!claim] Oakes & Guiton; Li
 > **适应逻辑与自我贬抑预言的制度生产** 在西方固定自我观与天赋论假设支配下，学校将分轨的目的定位于被动适应学生已显现的特征，而非改变和发展其认知潜能。被归入低轨的学生直接吸收了能力固化信念，认为低轨身份证明自己缺乏智识才能、努力亦属徒劳，从而产生深刻的个人降级（Personal Downgrading）并撤回学业努力；教师的低期望与学生的低投入相互强化，使分轨成为自我实现的失败预言。[[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 98–99)]]
@@ -252,7 +250,7 @@ updated: 2026-10-11
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Academic Achievement]] | Concept | 分轨制所依据的分配标准，同时也是分轨体制再生产和拉大差距的产出指标。 |
-> | [[Talent Assumption]] | Concept | 支撑西方分轨制度的先验哲学[[Hypothesis\|假设]]，认为才能是天生且难以通过后天教学根本改变的。 |
+> | [[Talent Assumption]] | Concept | 支撑西方分轨制度的先验哲学假设，认为才能是天生且难以通过后天教学根本改变的。 |
 > | [[Growth Mindset\|成长型思维与固定型思维]] | Theory | 实体论智力观为分轨提供了认知合法性，而分轨制度反向强化了师生的实体论信念。 |
 > | [[Intellectual-Social Divide]] | Concept | 分轨制在微观学校生活中所制度化再生产的知性与社交二元对立结构。 |
 > | [[Nerd]] | Concept | 在分轨与知性-社交二分语境下[[Emergence\|涌现]]的边缘化同伴亚文化标签。 |
@@ -267,7 +265,7 @@ updated: 2026-10-11
 > | [[Jin Li]] | Person | 从文化心理学与固定自我观视角深度解构美中分轨差异的核心学者。 |
 > | [[Paul Morris]] | Person | 揭示英格兰执政精英在应对 PISA 时选择性遗漏分轨负面实证结论的比较教育学者。 |
 > | [[Argument_Li_2012_Cambridge\|Li (2012)]] | Argument | 剖析分轨制的天赋假设、适应逻辑、个人降级与美中跨文化差异的奠基专著。 |
-> | [[Argument_Grey_2018_CE\|Grey & Morris (2018)]] | Argument | 记录经合组织对分轨破坏公平的实证发现及英国政客“遗漏话语”的关键期刊[[Document\|文献]]。 |
+> | [[Argument_Grey_2018_CE\|Grey & Morris (2018)]] | Argument | 记录经合组织对分轨破坏公平的实证发现及英国政客“遗漏话语”的关键期刊文献。 |
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] | Argument | 记录能力分组因果试验招募失败及转向利用自然变异与准实验设计评估学校选择的实证论文。 |
 
 ---

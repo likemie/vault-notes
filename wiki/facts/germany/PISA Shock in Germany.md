@@ -11,9 +11,9 @@ subtype: event
 region: germany
 fact_region: "germany"
 fact_kind: "event"
-fact_related_count: 32
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
+fact_related_count: 29
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#fef3c7"
 tags:
   - fact/event
@@ -28,9 +28,7 @@ related_concepts:
   - "[[Scientific Literacy]]"
   - "[[Academic Achievement]]"
   - "[[Data Infrastructure]]"
-  - "[[Assemblage]]"
   - "[[Center of Calculation]]"
-  - "[[Hypothesis]]"
   - "[[Output-Oriented Governance]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Discourse]]"
@@ -46,7 +44,6 @@ related_methods:
   - "[[Item Response Theory]]"
 related_instruments: []
 related_persons:
-  - "[[Isaiah Berlin]]"
   - "[[Sigrid Hartong]]"
 related_facts:
   - "[[PISA]]"
@@ -64,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-15
 ---
 
 # PISA Shock in Germany
@@ -88,8 +85,8 @@ updated: 2026-10-11
 
 > [!dev-timeline] 事件推进历程
 > - **2001–2002 — 震荡爆发与紧急政治动员** 2001 年 12 月主流媒体全面引爆“教育大国衰落”焦虑；[[Standing Conference of the Ministers of Education and Cultural Affairs|KMK]] 迅速打破党派门户之见，于 2002 年通过“七大优先行动领域”（Seven Priority Areas for Action），涵盖学前语言筛查、全日制学校扩建与弱势群体补偿。[[Argument_Hartong_2018_GSE|(Hartong, 2018, pp. 136–138)]]
-> - **2003–2006 — 产出标准确立与[[Data Infrastructure|数据基础设施]][[Assemblage|装配]]** 2003–2004 年颁布首批国家教育标准（NES）；2004 年在[[Isaiah Berlin|柏林]]洪堡大学创立[[Institute for Educational Quality Improvement|教育质量发展研究所]]（IQB）作为国家[[Center of Calculation|计算中心]]；2006 年 KMK 颁布《[[Gesamtstrategie zum Bildungsmonitoring|国家教育监测总体战略]]》（Gesamtstrategie zum Bildungsmonitoring），建立三级联动监测体系。[[Argument_Hartong_2018_GSE|(Hartong, 2018, pp. 138–144)]]
-> - **2006–2015 — 科层理性常态化与学业指标回升** 官员转向针对前置[[Hypothesis|假设]]的实证分析，设立专职数据分析编制；联邦投资 40 亿欧元推动全日制学校普及。至 2012–2015 年周期，德国 [[PISA]] 成绩稳步回升至 [[OECD]] 均线以上，社会阶层差距显著收窄。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, pp. 490–492)]]；[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
+> - **2003–2006 — 产出标准确立与[[Data Infrastructure|数据基础设施]]装配** 2003–2004 年颁布首批国家教育标准（NES）；2004 年在柏林洪堡大学创立[[Institute for Educational Quality Improvement|教育质量发展研究所]]（IQB）作为国家[[Center of Calculation|计算中心]]；2006 年 KMK 颁布《[[Gesamtstrategie zum Bildungsmonitoring|国家教育监测总体战略]]》（Gesamtstrategie zum Bildungsmonitoring），建立三级联动监测体系。[[Argument_Hartong_2018_GSE|(Hartong, 2018, pp. 138–144)]]
+> - **2006–2015 — 科层理性常态化与学业指标回升** 官员转向针对前置假设的实证分析，设立专职数据分析编制；联邦投资 40 亿欧元推动全日制学校普及。至 2012–2015 年周期，德国 [[PISA]] 成绩稳步回升至 [[OECD]] 均线以上，社会阶层差距显著收窄。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, pp. 490–492)]]；[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
 
 ---
 
@@ -116,7 +113,7 @@ updated: 2026-10-11
 > |:---|:---|:---|
 > | 核心行动者 | KMK 改革派、联邦 BMBF、[[OECD]]、IQB 学者 | 保守派州政府、文法中学教师联合会、传统人文学者 |
 > | 阶级／社会基础 | 现代工业与[[Knowledge-Based Economy\|知识经济]]精英、移民与弱势阶层倡导者 | 传统中产精英家庭、保守派天主教选民 |
-> | 核心价值[[Discourse\|话语]] | 强调[[Human Capital Theory\|人力资本]][[Competitiveness\|竞争力]]、教育机会均等与循证效能。 | 强调州文化主权独立性、人文[[Bildung\|教养]]（Bildung）传统与适性精英培养。 |
+> | 核心价值[[Discourse\|话语]] | 强调[[Human Capital Theory\|人力资本]][[Competitiveness\|竞争力]]、教育机会均等与循证效能。 | 强调州文化主权独立性、人文教养（[[Bildung]]）传统与适性精英培养。 |
 > | 斗争策略 | 动员跨国评估实证危机、制定国家统一标准、普及全日制。 | 抵制学校公开排名榜、捍卫三轨分流、抨击新自由主义[[Governing by Numbers\|数字治理]]。 |
 >
 > **关键分歧** 双方在是否建立国家统一质量监测标准、以及是否打破三轨早期分流体制上的深层博弈。[[Argument_Hartong_2018_GSE|(Hartong, 2018, pp. 138–144)]]
@@ -149,9 +146,9 @@ updated: 2026-10-11
 > > 学界对 [[PISA]] 震荡究竟是推动了制度现代化还是导致了商业化[[Governing by Numbers|数字治理]]的争鸣。
 > >
 > > - **现代化学派（2018）** 肯定 PISA 震荡打破了联邦分权体制数十年的改革积压，实现了教育标准的历史性统一与公平性提升。[[Argument_Hartong_2018_GSE|(Hartong, 2018, pp. 135–138)]]
-> > - **[[Critical Pedagogy|批判教育学]]派** 指责技术官僚主导的产出控制矮化了传统人文[[Bildung|教养]]理想，导致学校教学窄化为应试技能训练。
+> > - **[[Critical Pedagogy|批判教育学]]派** 指责技术官僚主导的产出控制矮化了传统人文教养理想，导致学校教学窄化为应试技能训练。
 
-> [!citation-card] 代表性史学论著引言：[[Sigrid Hartong|哈通]]论德国[[Topological Spatialisation|拓扑治理]][[Assemblage|装配]]
+> [!citation-card] 代表性史学论著引言：[[Sigrid Hartong|哈通]]论德国[[Topological Spatialisation|拓扑治理]]装配
 > 德国并未盲目效仿英美的高利害惩罚性学校排名榜，而是依托宪制折中，通过 [[Institute for Educational Quality Improvement|IQB]] [[Center of Calculation|计算中心]]与跨尺度[[Data Infrastructure|数据基础设施]]装配，发展出一种兼顾州自主与国家标准渗透的独特拓扑治理空间。[[Argument_Hartong_2018_GSE|(Hartong, 2018, pp. 138–144)]]
 >
 > *Germany did not adopt market-driven punitive [[Global Universities Rankings|league tables]]... Instead, through the IQB and data infrastructure assemblages, it created a topological governance spatialisation that reassembled federal educational space.*
@@ -167,4 +164,4 @@ updated: 2026-10-11
 > | [[PISA]] | Fact (Global) | 引发德国战后最剧烈教育危机与治理转型的跨国大规模评估体系。 |
 > | [[PISA Shock]] | Concept | 概括一国面对跨国评估落差引发全国性体制危机的宏观理论概念。 |
 > | [[Output-Oriented Governance]] | Concept | 德国震荡后取代传统输入规制模式的新型治理[[Paradigm\|范式]]。 |
-> | [[Data Infrastructure]] | Concept | 支撑德国 [[Institute for Educational Quality Improvement\|IQB]] 与校际诊断测试运作的国家级技术与制度[[Assemblage\|装配]]。 |
+> | [[Data Infrastructure]] | Concept | 支撑德国 [[Institute for Educational Quality Improvement\|IQB]] 与校际诊断测试运作的国家级技术与制度装配。 |

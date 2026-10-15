@@ -7,9 +7,9 @@ title: "Argument_Hattie_2005_ACER"
 argument_key: "Argument_Hattie_2005_ACER"
 argument_display_title: "What is the nature of evidence that makes a difference to learning? In Using data to support learning: Proceedings of the ACER Research Conference 2005 (pp. 11–21)"
 argument_kind: "conference-paper"
-argument_related_count: 47
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_count: 43
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#e5e7eb"
 issuing_organization: "Australian Council for Educational Research"
 authors:
@@ -34,7 +34,6 @@ tags:
   - source/report
 related_concepts:
   - "[[Academic Achievement]]"
-  - "[[Hypothesis]]"
   - "[[Formative Assessment]]"
   - "[[Learning Progression]]"
   - "[[Visible Learning]]"
@@ -63,15 +62,12 @@ related_concepts:
   - "[[Avatar]]"
   - "[[Reliability]]"
   - "[[Deficit Framing]]"
-  - "[[Document]]"
   - "[[Criterion-Referenced Test]]"
-  - "[[Teaching Assistant]]"
   - "[[School Choice]]"
 related_theories:
   - "[[Organizational Culture]]"
 related_methods:
   - "[[Effect Size]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Time Series Design]]"
   - "[[Meta-analysis]]"
   - "[[Systematic Sampling]]"
@@ -99,7 +95,7 @@ sources:
 > 全球各级教育行政部门与学校充斥着海量数据系统，为何学生[[Academic Achievement\|学业成就]]却未能获得实质性改善？在问责压力不断推高测验频次的背景下，究竟何种性质的证据才能真正对课堂教学与学生学习产生积极影响，以及如何构建一个以促进教学改进为旨归的系统级证据与问责模型？（p. 11）
 
 > [!claim] 核心主张
-> 促进学习改变的证据本质不在于外部数据的机械堆砌，而在于教师对数据的实质性专业诠释。教育改革必须摒弃自上而下的惩罚性问责与单纯资源堆砌[[Hypothesis\|假设]]，将证据周期的核心锚定于课堂教学与教师群体，依托标准化[[Formative Assessment\|形成性评价]]工具构建全校乃至全国共享的[[Learning Progression\|学业进阶]]语言，将评价结果重塑为教师反思自身教学效能并指导后续行动的即时线索。（pp. 11–15, p. 19）
+> 促进学习改变的证据本质不在于外部数据的机械堆砌，而在于教师对数据的实质性专业诠释。教育改革必须摒弃自上而下的惩罚性问责与单纯资源堆砌假设，将证据周期的核心锚定于课堂教学与教师群体，依托标准化[[Formative Assessment\|形成性评价]]工具构建全校乃至全国共享的[[Learning Progression\|学业进阶]]语言，将评价结果重塑为教师反思自身教学效能并指导后续行动的即时线索。（pp. 11–15, p. 19）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 中小学各级管理部门的数据回流机制、基于标准化考试的系统问责实践，以及教师在课堂中对评价数据的收集、解释与教学转化。（p. 11）
@@ -143,7 +139,7 @@ sources:
 > |---|---|
 > | **元分析综合分析**<br>Meta-Analysis Synthesis | 汇总教育领域 100 余项教学与结构创新的 300,000 余项原始实证研究，计算各干预措施的平均[[Effect Size\|效应量]]，绘制效应量整体分布直方图，确立均值关节点。（p. 16） |
 > | **大样本纵向常模分析**<br>Normative Longitudinal Analysis | 基于新西兰国家级测评工具 [[Assessment Tools for Teaching and Learning\|asTTle]] 的标定样本（约 25,000 名 5–12 年级中小学生，1,500 余道数学试题），拟合数运算策略与几何知识在不同学段的纵向[[Growth\|成长]]曲线。（pp. 15–16） |
-> | **内容分析与文本审查**<br>Content Analysis | 对新西兰 156 所学校向家长发放的学生学业报告卡进行系统文本[[Coding in Qualitative Research\|编码]]，统计官方课程标准使用率、常模参照率及评语修辞特征。（p. 12） |
+> | **内容分析与文本审查**<br>Content Analysis | 对新西兰 156 所学校向家长发放的学生学业报告卡进行系统文本编码，统计官方课程标准使用率、常模参照率及评语修辞特征。（p. 12） |
 > | **准实验与时间序列评价**<br>Interrupted Time Series Design | 运用 [[Time Series Design\|间断时间序列分析]] 取代脆弱的两时点增值评价，通过多时点连续密集测量外推反事实基线，评估教学干预在班级和学校层面的净增值。（p. 15） |
 
 > [!sample-panel]- 样本与材料快照
@@ -283,7 +279,7 @@ sources:
 
 #### 4. 突破专家闭门造车：基于 25,000 名学生大样本数据的课程实证重构
 
-课程改革往往受制于少数专家闭门造车的理论偏好，而 asTTle 系统的大样本数据为检验课程[[Hypothesis|假设]]提供了不可替代的实证基石（pp. 15–16）。
+课程改革往往受制于少数专家闭门造车的理论偏好，而 asTTle 系统的大样本数据为检验课程假设提供了不可替代的实证基石（pp. 15–16）。
 
 > [!contrast-table] 新西兰数学课程实证表现：数运算策略 vs. 几何知识成长曲线（pp. 15–16）
 > | 考察维度 | 数运算策略（Number Strategies） | 几何知识（Geometric Knowledge） |
@@ -368,7 +364,7 @@ sources:
 
 传统的教师在职培训大多陷入孤立的技能讲座或表面条件的改善，极少与学生实际学业增进建立硬性关联（pp. 18–19）。
 
-> [!stat-cards]- 全球教师专业发展[[Document\|文献]]实证有效性筛选
+> [!stat-cards]- 全球教师专业发展文献实证有效性筛选
 > - **17 篇** 国际文献中直接证实促进了学生学业增进的专业发展研究篇数。（Timperley, 2005; p. 18）
 
 绝大多数教师培训之所以成效匮乏，症结在于活动仅围绕教师满意度、工作舒适度或表面相关物打转，完全未将“促进学生实质学业增进”作为评判培训成功的硬性约束条件（Timperley, 2005; p. 18）。
@@ -396,14 +392,14 @@ sources:
 > - **30%** 教师在学生学业成就总变异中所占的解释比例，是学校教育系统内部最大的可控因果影响源。（p. 13）
 > - **150 年** 罗伯特·林恩估算的美国公立学校按照以往年均进度达成 [[No Child Left Behind Act 2001\|NCLB]] 既定指标所需的时间跨度。（Linn, 2003）
 > - **98%** 新西兰 156 所学校期末报告中对学生成就给出纯正面评价的比例，导致严重缺乏与国家课程等级对应的[[Criterion-Referenced Test\|标准参照]]信息。（p. 12）
-> - **17 篇** 廷珀利在庞大国际[[Document\|文献]]中筛选出仅有的直接证实促进了学生学业增进的教师专业发展研究篇数。（Timperley, 2005）
+> - **17 篇** 廷珀利在庞大国际文献中筛选出仅有的直接证实促进了学生学业增进的教师专业发展研究篇数。（Timperley, 2005）
 
 ---
 
 ## 关键引用
 
 > [!citation-card] 教师在证据周期中的核心位置
-> 学校充斥着数据，问责运动要求他们收集更多数据。本报告将教师定位为‘证据’周期中的关键枢纽。它展示了一个协[[Teaching Assistant\|助教]]师确定证据本质并利用证据促成学习改变的模型。该模型使校长、教育部、家长和学生等其他关键利益相关者能够共享这些证据。（p. 11）
+> 学校充斥着数据，问责运动要求他们收集更多数据。本报告将教师定位为‘证据’周期中的关键枢纽。它展示了一个协助教师确定证据本质并利用证据促成学习改变的模型。该模型使校长、教育部、家长和学生等其他关键利益相关者能够共享这些证据。（p. 11）
 >
 > *Schools are awash with data, and the accountability movement is requesting that they collect even more. This presentation locates the teachers as critical in the ‘evidence’ cycle. It demonstrates a model for assisting teachers to ascertain the nature and use evidence to make a difference to learning. Such a model allows these evidence to be shared by other critical stakeholders, such as principals, Ministries, parents, and students.*
 

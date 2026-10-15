@@ -9,9 +9,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 17
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 15
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 tags:
   - pnrc
@@ -23,7 +23,6 @@ tags:
   - region/us
 related_concepts:
   - "[[Congressional Earmarks]]"
-  - "[[Document]]"
   - "[[Causality]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Initial Teacher Training]]"
@@ -34,7 +33,6 @@ related_concepts:
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Regression Discontinuity Design]]"
@@ -48,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-02
+updated: 2026-10-15
 ---
 
 # Promise Neighborhoods Research Consortium
@@ -60,7 +58,7 @@ updated: 2026-10-02
 > [!info] 机构定位与运营概况
 > **承诺社区研究联盟（Promise Neighborhoods Research Consortium, PNRC）** 是由美国国家药物滥用研究所（NIDA/[[National Institutes of Health|NIH]]）于 2009 年资助建立的多领域公共证据清算联合体，由俄勒冈研究所（ORI）牵头全美数十所大学学者共同组建([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 7]])。
 >
-> PNRC 专注于高度贫困与高风险社区的青少年与儿童综合发展，覆盖教育促进、行为发展、身心健康与家庭经济等领域。当前处于**已停运 / 结项关闭（Defunct）**状态：2012 年[[Congressional Earmarks|科研专项拨款]]周期结束后原网站正式下线，其开创的“培育环境（Nurturing Environments）”循证框架沉淀于学术期刊[[Document\|文献]]中。
+> PNRC 专注于高度贫困与高风险社区的青少年与儿童综合发展，覆盖教育促进、行为发展、身心健康与家庭经济等领域。当前处于**已停运 / 结项关闭（Defunct）**状态：2012 年[[Congressional Earmarks|科研专项拨款]]周期结束后原网站正式下线，其开创的“培育环境（Nurturing Environments）”循证框架沉淀于学术期刊文献中。
 
 ---
 
@@ -77,7 +75,7 @@ updated: 2026-10-02
 ## 因果推断与方法学标准
 
 > [!abstract] 因果设计与质量规程
-> PNRC 因果设计描述程度[[Coding in Qualitative Research\|编码]]为 **[[Randomised Controlled Trials\|RCT]]=2, [[Quasi-Experimental Designs\|QED]]=1, [[Regression Discontinuity Design\|RDD]]=1, [[Intelligent Tutoring Systems\|ITS]]=1**，是全库中少数在早期即对断点回归（RDD）与中断时间序列（[[Intelligent Tutoring Systems\|ITS]]）给予方法学规范的多领域机构之一([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 10–11]])。
+> PNRC 因果设计描述程度编码为 **[[Randomised Controlled Trials\|RCT]]=2, [[Quasi-Experimental Designs\|QED]]=1, [[Regression Discontinuity Design\|RDD]]=1, [[Intelligent Tutoring Systems\|ITS]]=1**，是全库中少数在早期即对断点回归（RDD）与中断时间序列（[[Intelligent Tutoring Systems\|ITS]]）给予方法学规范的多领域机构之一([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 10–11]])。
 >
 > 1. **支持[[Intent-to-Treat Analysis\|意向治疗分析]]（[[Initial Teacher Training\|ITT]]）** 明确鼓励在复杂社区干预评估中实施 ITT 分析，以如实反映全社区推广效果。
 > 2. **多层级干预评估** 评估对象涵盖微观具名项目、宏观教育政策与社区治理实践。

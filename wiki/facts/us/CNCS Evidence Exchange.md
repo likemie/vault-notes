@@ -10,7 +10,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 15
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -30,7 +30,6 @@ related_concepts:
 related_theories:
   - "[[Theory of Change]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Regression Discontinuity Design]]"
@@ -46,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-09-13
+updated: 2026-10-15
 ---
 
 # CNCS Evidence Exchange
@@ -83,7 +82,7 @@ updated: 2026-09-13
 ## 因果推断与方法学标准
 
 > [!abstract] 因果设计与质量规程
-> CNCS EE 因果设计描述程度[[Coding in Qualitative Research\|编码]]为 **[[Randomised Controlled Trials\|RCT]]=2, [[Quasi-Experimental Designs\|QED]]=2, [[Regression Discontinuity Design\|RDD]]=0, [[Intelligent Tutoring Systems\|ITS]]=0**，对组间对比实验与准实验均建立了明确的证据质量审查指南([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 10]])。
+> CNCS EE 因果设计描述程度编码为 **[[Randomised Controlled Trials\|RCT]]=2, [[Quasi-Experimental Designs\|QED]]=2, [[Regression Discontinuity Design\|RDD]]=0, [[Intelligent Tutoring Systems\|ITS]]=0**，对组间对比实验与准实验均建立了明确的证据质量审查指南([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 10]])。
 >
 > 1. **独立外部评估要求** 强制要求获得高额资助的项目必须由外部独立第三方研究机构实施因果评估。
 > 2. **多层级证据阶梯** 建立了从“概念验证（Preliminary）”到“严格因果（Strong）”的清晰发展阶梯。

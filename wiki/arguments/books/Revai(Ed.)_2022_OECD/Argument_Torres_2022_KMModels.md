@@ -7,7 +7,7 @@ title: "Argument_Torres_2022_KMModels"
 argument_key: "Argument_Torres_2022_KMModels"
 argument_display_title: "Louder than words: Review and comparative analysis of knowledge mobilisation models"
 argument_kind: "book-chapter"
-argument_related_count: 43
+argument_related_count: 41
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -42,12 +42,10 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Paradigm]]"
   - "[[Heterogeneity]]"
-  - "[[Document]]"
   - "[[Knowledge Mediation]]"
   - "[[Knowledge Production]]"
   - "[[Professional Judgment]]"
   - "[[Research Impact]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Construct]]"
   - "[[Champ]]"
   - "[[Research-Informed Teaching Practice]]"
@@ -126,7 +124,7 @@ updated: 2026-09-13
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **多模型[[Document\|文献]]采样与系统甄选** | 针对公共卫生、社会政策与教育领域广泛引用且经国际同行公认的经典模型进行选择性采样，涵盖 Lavis et al. (2003)、Graham et al. (2006)、Levin (2004, 2013) 及 Gough et al. (2011, 2018, 2019) 四大宏观主流框架，并补充四组针对决策与教学的前沿微观模型。（pp.37–50） |
+> | **多模型文献采样与系统甄选** | 针对公共卫生、社会政策与教育领域广泛引用且经国际同行公认的经典模型进行选择性采样，涵盖 Lavis et al. (2003)、Graham et al. (2006)、Levin (2004, 2013) 及 Gough et al. (2011, 2018, 2019) 四大宏观主流框架，并补充四组针对决策与教学的前沿微观模型。（pp.37–50） |
 > | **多维[[Typological Analysis\|类型学分析]]与横向对比** | 建立涵盖“学术影响（被引量）”、“应用领域”、“代际归属”、“核心要素”、“构件互动形态”、“关键行动者与角色”以及“核心理论贡献”的七维对照矩阵，开展深入的结构性比照。（pp.43–46, Table 2.1 & 2.2） |
 
 > [!sample-panel]- 纳入模型与材料快照
@@ -234,7 +232,7 @@ Lavis et al. (2003) 在应用卫生与社会经济政策领域提出了极具组
 
 > [!feature] 知识转移战略框架的五问核心构件（Lavis et al., 2003）
 > - **传达什么？（信息）**
->   研究机构必须传递源自广泛研究[[Document\|文献]]、具有行动指导意义的核心信息，而非单一研究结论。并非所有研究都能或应当直接影响决策，基础研究在识别问题与发展方法上的价值同样需被承认。
+>   研究机构必须传递源自广泛研究文献、具有行动指导意义的核心信息，而非单一研究结论。并非所有研究都能或应当直接影响决策，基础研究在识别问题与发展方法上的价值同样需被承认。
 > - **传给谁？（目标受众）**
 >   将受众划分为公众/服务接受者、服务提供者、管理决策者与政策制定者四类。受众的决策情境与环境特征直接决定了传播格式与后续要素的设计。
 > - **由谁传递？（传递者）**
@@ -294,7 +292,7 @@ Gough et al. (2011, 2018, 2019) 历经近十年迭代，将教育知识动员推
 >
 > - **Panel C：确立双层嵌套生态架构（Gough, Thomas, & Oliver, 2019）**
 >
->   通过虚线将框架严格划分为双层系统：内层为狭义的证据生态系统（涵盖证据综合、初级研究、沟通[[Transfer Translation Transformation\|转译]]与决策采纳）；外层为更广泛的系统与情境（涵盖行动者、多元视点、议题争议、治理问题与权力博弈）。（pp.42–43）
+>   通过虚线将框架严格划分为双层系统：内层为狭义的证据生态系统（涵盖证据综合、初级研究、沟通转译与决策采纳）；外层为更广泛的系统与情境（涵盖行动者、多元视点、议题争议、治理问题与权力博弈）。（pp.42–43）
 
 #### 5. 四大主流知识动员模型的多维类型学横向比照
 

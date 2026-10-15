@@ -7,10 +7,10 @@ aliases:
 summary: "指脱离学生真实学情、缺乏批判审思且未经全员协同认同的异化证据使用形态；表现为盲从网络时髦、领导独断推行与教师僵化防卫。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - field/educational-policy-reform
   - theme/research-use
@@ -18,7 +18,6 @@ tags:
   - theme/school-improvement
 related_concepts:
   - "[[Research Utilization]]"
-  - "[[Document]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Implementation Fidelity]]"
   - "[[School Leadership]]"
@@ -45,7 +44,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Poor Research Use
@@ -59,7 +58,7 @@ updated: 2026-09-17
 
 > [!concept-lens] 概念透镜
 > - **核心指向** 学校微观组织与教学现场中对学术研究的病理性采纳、异化实施与防御性抵触机制。
-> - **理论用途** 破除单纯以[[Document\|文献]]阅读量、下载频次或形式化引用来衡量循证成效的供给偏误，揭示未经审慎消化的外来证据如何异化为实践负担与专业犬儒主义。
+> - **理论用途** 破除单纯以文献阅读量、下载频次或形式化引用来衡量循证成效的供给偏误，揭示未经审慎消化的外来证据如何异化为实践负担与专业犬儒主义。
 > - **适用边界** 聚焦教育组织与教学实践层面的证据转化异化；不指代学术研究本身的方法学缺陷，也不宜泛化为正常探索中的教学试错。
 
 > [!citation-card] Rickinson et al. 论劣质研究使用的本质

@@ -4,12 +4,12 @@ title: "Argument_Darwish_2009_Queens"
 argument_key: "Argument_Darwish_2009_Queens"
 argument_display_title: "Education as a Political Act: Dewey, Freire and the (International Baccalaureate) Theory of Knowledge Curriculum (Master's thesis)"
 argument_kind: "books"
-argument_related_count: 66
+argument_related_count: 64
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#e5e7eb"
 authors:
-  - "Darwish, B."
+  - "[[Bob Darwish|Darwish, B.]]"
 source_language: en
 year: 2009
 citation: "Darwish, B. (2009). Education as a Political Act: Dewey, Freire and the (International Baccalaureate) Theory of Knowledge Curriculum (Master's thesis). Faculty of Education, Queen's University."
@@ -18,8 +18,7 @@ citation_aliases:
   - "Darwish (2009)"
 summary: "通过行动研究探讨主动学习教学法在国际文凭大学预科项目（IBDP）中的实施机制、认识论基础与学生批判性思维发展。"
 related_facts: []
-related_methods:
-  - "[[Coding in Qualitative Research]]"
+related_methods: []
 status: active
 tags:
   - active-learning
@@ -76,13 +75,13 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Educative Experience]]"
   - "[[Mis-educative Experience]]"
-  - "[[Hypothesis]]"
   - "[[Democratic Education]]"
   - "[[Dialogue in Education]]"
   - "[[Growth]]"
   - "[[Scientific Method]]"
   - "[[Epoché]]"
   - "[[Critical Thinking]]"
+  - "[[Hypothesis]]"
   - "[[Reflexivity]]"
   - "[[Culture of Silence]]"
   - "[[Narration Sickness]]"
@@ -113,7 +112,6 @@ related_persons:
   - "[[Socrates]]"
   - "[[Hilda Taba]]"
   - "[[Henry Giroux]]"
-  - "[[Carlos Alberto Torres]]"
 ---
 # Argument_Darwish_2009_Queens
 
@@ -215,7 +213,7 @@ related_persons:
 > - **[[Experiential Learning\|经验教育]]理论与生长的判定双原则**
 >   提出连续性（Continuity）与“[[Interaction Effect\|交互作用]]”（Interaction）双重原则，严密区分促进生长的“[[Educative Experience\|教育性经验]]”与阻碍未来的“[[Mis-educative Experience\|反教育经验]]”，确立成熟教育者调查社区物理、历史、经济与职业资源并将其转化为教育工具的专业职责 (pp. 29–33)。
 > - **反思性探究五步骤、“[[Learning by Doing\|在做中学]]”与面对面对话**
->   拆解反思性思维的 5 大步骤（感知难题 → 明确难题 → 提出[[Hypothesis\|假设]] → 推演后果 → 实证检验），揭示传统学校压抑身体活动制造课堂纪律难题与机械习惯的认识论根源；通过投石机制作与“活体动植物照顾 vs 死标本/学术事实”案例，论证基于在做中学的智性探究与社区面对面对话才是深层实践知识与心智磨砺（Training of Mind）之源 (pp. 33–40)。
+>   拆解反思性思维的 5 大步骤（感知难题 → 明确难题 → 提出假设 → 推演后果 → 实证检验），揭示传统学校压抑身体活动制造课堂纪律难题与机械习惯的认识论根源；通过投石机制作与“活体动植物照顾 vs 死标本/学术事实”案例，论证基于在做中学的智性探究与社区面对面对话才是深层实践知识与心智磨砺（Training of Mind）之源 (pp. 33–40)。
 > - **作为联合生活方式的民主与杜威生长的批判性边界（实践缺失）**
 >   将民主定义为联合生活与协同沟通经验的模式，指出[[Democratic Education\|民主教育]]要求学校成为合作探究社区；借助肥胖者健康觉察案例（The Obesity Example），揭示理智觉察与变革行动之间的撕裂，批判杜威预设平等沟通条件、未能明确承诺采取政治变革行动去解构压迫结构的理论局限 (pp. 40–44)。
 
@@ -318,7 +316,7 @@ related_persons:
 >    探究始于某种困惑、怀疑、阻碍或经验中的不确定状态，学习者在实际情境或直觉感受中体会到阻碍或紧张感 (Dewey, 1910, p. 72, p. 110; Darwish, 2009, pp. 37–38)。
 > 2. **明确与定位问题（Definition and Location of the Problem）**
 >    结合上下文理性梳理困惑，将模糊的紧张感在学生心智中精细界定为具体的学术或实践难题，将其置于更广泛的情境中 (Skilbeck, 1970, p. 29; p. 38)。
-> 3. **提出假设与可能解法（Suggestion of Possible Solution / Hypothesis）**
+> 3. **提出假设与可能解法（Suggestion of Possible Solution / [[Hypothesis]]）**
 >    结合已有经验与联想，提出解决该难题的猜测、假说或预测方案 (Dewey, 1910, p. 72; Skilbeck, 1970, p. 29; p. 38)。
 > 4. **推演假设的逻辑后果（Development by Reasoning of Bearings）**
 >    运用逻辑推理展开假设，在头脑中模拟推演“若实施某一行动方案将产生何种连带后果”，必要时重新修正初始假说 (Skilbeck, 1970, p. 29; p. 38)。
@@ -428,7 +426,7 @@ related_persons:
 > |---|---|---|
 > | **教育终极目标** | 个体的[[Growth\|生长]]与自我实现 (p. 7) | [[Conscientization\|批判意识觉醒]]与解构压迫的解放 (pp. 7–8) |
 > | **沟通与[[Dialogue in Education\|对话]]功能** | 社区内共享经验、重新组织经验的民主手段 (p. 41) | 揭露与谴责不公、对抗压迫结构的政治行动 (p. 10) |
-> | **对改变行动的承诺** | 未明确承诺采取对抗压迫结构的**[[Praxis\|实践]]**行动 (p. 43) | 将[[Praxis\|实践]]（感知的觉醒 + 改变现实的行动）作为成长的唯一衡量标准 (p. 10, p. 43) |
+> | **对改变行动的承诺** | 未明确承诺采取对抗压迫结构的 **[[Praxis\|实践]]** 行动 (p. 43) | 将[[Praxis\|实践]]（感知的觉醒 + 改变现实的行动）作为成长的唯一衡量标准 (p. 10, p. 43) |
 > | **社会现实假设** | 预设社会具备平等沟通与协商改良的前提条件 | 指出压迫社会中存在[[Culture of Silence\|沉默文化]]，必须通过政治介入打破沉默 (p. 7, p. 43) |
 
 ---
@@ -447,7 +445,7 @@ related_persons:
 > [!chain-link] 第4章逻辑推导链条
 > - **储蓄式教育的“[[Narration Sickness\|叙事病]]”、空白知者与驯化逻辑**
 >   弗莱雷解构将学生视为被动容器与“空白知者”（[[Empty Knower]]）的[[Banking Model of Education\|储蓄式教育]]模型，揭示脱离总体性现实的断裂宣讲如何制造“[[Narration Sickness\|叙事病]]”（Narration Sickness），消解受教者的[[Creativity\|创造力]]与批判好奇心，从而驯化受压迫者适应既有阶级秩序 (Freire, 2000, pp. 71–75; Darwish, 2009, pp. 45–46)。
-> - **提问式教育、[[Coding in Qualitative Research\|编码]]/[[Decodification\|解码]]与生成性主题探究**
+> - **提问式教育、编码/[[Decodification\|解码]]与生成性主题探究**
 >   提出消解教师-学生二元对立的[[Problem-Posing Education\|提问式教育]]（Problem-Posing Education），主张深入被压迫者的切身生活抽取“[[Generative Themes\|生成性主题]]”（Generative Themes），通过“编码/[[Decodification\|解码]]”（[[Codification]]/Decodification）分析，使教师-学生与学生-教师在我们思考（We think）的横向合作中共同探究现实矛盾 (Freire, 2000, pp. 80–86; Freire, 1973, p. 135; Darwish, 2009, pp. 46–48, p. 55)。
 > - **批判意识觉醒、打破沉默文化与实践（Praxis）**
 >   剖析压迫霸权在被压迫者心中制造的“[[Culture of Silence\|沉默文化]]”（Culture of Silence），指出[[Conscientization\|批判意识觉醒]]（Conscientização）要求个体确立[[Epistemic Responsibility\|认识论责任]]与道德责任；强调学习的最高形态是反思与变革行动高度统一的实践（Praxis），断言无行动的言语是空谈（[[Verbalism]]），无反思的操练是盲动（Activism） (Freire, 2000, p. 51, p. 87; Darwish, 2009, pp. 48–51, pp. 61–63)。
@@ -587,7 +585,7 @@ related_persons:
 >   弗莱雷强调：“当我进入课堂时，我应当是一个对新[[Open-Mindedness|思想开放]]、对问题开放、对学生的好奇心以及抑制开放的人。我应当意识到自己是一个针对教学任务进行批判和探究的主体，而不是在转移知识” (Freire, 1998a, p. 49; p. 57)。
 > 
 > - **民主学校的核心机制：教师与学生共同认识**
->   在弗莱雷与阿尔贝托·[[Carlos Alberto Torres\|托雷斯]]（Alberto Torres）的对话中，弗莱雷明确定义：“民主学校是教师与学生共同认识的学校；教师在教学时绝不驯化学生，而学生在学习时最终也在教导教师” (Torres, 1990; Darwish, 2009, p. 58)。
+>   在弗莱雷与阿尔贝托·托雷斯（Alberto Torres）的对话中，弗莱雷明确定义：“民主学校是教师与学生共同认识的学校；教师在教学时绝不驯化学生，而学生在学习时最终也在教导教师” (Torres, 1990; Darwish, 2009, p. 58)。
 > 
 > - **言行一致伦理（Ethic of Consistency）**
 >   弗莱雷断言：“表明我是民主者的不是我说了什么，而是我做了什么。我的言语绝不能被我的行动所否定” (Freire, 1998c, p. 67; p. 58)。引用注脚 67 强调：“一个言行不一的教育者不仅是无能的，更是极其有害的” (Freire, 1998b, p. 90; p. 58 注脚67)。只有做到言行一致，教育才能培养学生积极参与民主社会所需的知识、技能与价值 (Ross, 2004, p. 249; p. 59)。
@@ -643,7 +641,7 @@ related_persons:
 >   TOK 课程指南止步于鼓励学生在课堂上口头讨论与理性反思种族主义、贫困、性别不平等等全球性议题，但**完全没有要求或引导学生采取任何改变这些不公结构的实际变革行动（[[Praxis\|Praxis]]）** (Darwish, 2009, p. 79)。
 > 
 > - **退化为[[Verbalism\|言语主义]]（Verbalism / Idle Chatter）**
->   缺乏实践行动的批判思考与课堂对话，必然沦为弗莱雷所警告的**[[Verbalism\|言语主义]]（Verbalism）** 一种象牙塔内的口头文字游戏与学术辩论赛。这种只有口头批评而无实质社会行动的假对话，客观上保护了现存的不公秩序 (Freire, 2000, p. 87; Darwish, 2009, p. 81)。
+>   缺乏实践行动的批判思考与课堂对话，必然沦为弗莱雷所警告的 **[[Verbalism\|言语主义]]（Verbalism）** 一种象牙塔内的口头文字游戏与学术辩论赛。这种只有口头批评而无实质社会行动的假对话，客观上保护了现存的不公秩序 (Freire, 2000, p. 87; Darwish, 2009, p. 81)。
 > 
 > - **未做出显性解放承诺（No Commitment to Emancipation）**
 >   与[[Curriculum as Praxis\|作为实践的课程]]相比，IBO 官方哲学倾向于维持一种技术官僚式的政治中立姿态，未能明确承诺对抗[[Dehumanization\|非人性化]]与结构性压迫，导致其主动学习宣称流于表面 (Darwish, 2009, pp. 80–82)。

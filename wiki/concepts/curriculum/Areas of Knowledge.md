@@ -6,10 +6,10 @@ aliases:
 summary: "知识论课程中用于比较不同学科与知识传统如何形成概念、证据、方法和判断标准的课程框架；其历史根源是以多种思维方式回应学科割裂，并逐步由早期知识形式主题发展为可比较的领域分类。"
 type: concept
 domain: "curriculum"
-related_count: 42
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 39
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - subject/curriculum
   - theme/epistemology
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Knowledge Questions]]"
   - "[[Geisteswissenschaften]]"
   - "[[Evaluative Judgement]]"
-  - "[[Document]]"
   - "[[Praxis]]"
   - "[[Paradigm]]"
   - "[[Constructed Knowledge]]"
@@ -34,7 +33,6 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Falsification]]"
   - "[[Operationalization]]"
-  - "[[Hypothesis]]"
   - "[[Problem Solving]]"
   - "[[Critical Thinking]]"
   - "[[Construct Validity]]"
@@ -46,7 +44,6 @@ related_theories:
   - "[[Knowledge Building Theory]]"
 related_methods:
   - "[[Domain Analysis]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Confidence Interval]]"
   - "[[Sample Size Determination]]"
   - "[[Correlational Research]]"
@@ -67,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-09-29
+updated: 2026-10-15
 ---
 
 # Areas of Knowledge
@@ -166,7 +163,7 @@ updated: 2026-09-29
 > | **传统六项** | **数学（Mathematics）** | 公理、证明、演绎结构以及形式系统与现实应用的关系 |
 > | **传统六项** | **自然科学（Natural sciences）** | 观察、实验、模型、解释、预测及经验检验 |
 > | **传统六项** | **人文科学（Human sciences）** | 人类行为和社会结构的解释、测量、语境与研究者位置 |
-> | **传统六项** | **历史（History）** | [[Document\|文献]]证据、过去重建、因果解释与历史视角 |
+> | **传统六项** | **历史（History）** | 文献证据、过去重建、因果解释与历史视角 |
 > | **传统六项** | **艺术（The arts）** | 创作、诠释、审美经验、感官形式与情感表达 |
 > | **传统六项** | **伦理（Ethics）** | 价值判断、规范理由、责任与行动标准 |
 > | **2013 年扩展项** | **宗教知识体系（Religious knowledge systems）** | 信仰、启示、传统、权威与共同体解释如何形成知识主张 |
@@ -243,7 +240,7 @@ updated: 2026-09-29
 > **比较能够支持迁移** 规定题目论文要求学生处理跨学科[[Knowledge Questions\|知识问题]]，并比较不同知识领域。这样的设计能够帮助学习者抽离可迁移的思维模式，发现证据、解释、信念和不确定性等问题如何跨越学科边界。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 38–39)]]
 
 > [!claim] 里查特（R. Ritchhart）与珀金斯（D. N. Perkins）
-> **通用结构依赖具体情境** 领域知识决定信息如何[[Coding in Qualitative Research\|编码]]及何种证据具有意义，通用认知结构则使学生能够识别跨领域的相似问题。迁移应被理解为二者复杂而动态的结合，AOK 比较需要同时保留领域差异和跨领域联系。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 34, 38–39)]]
+> **通用结构依赖具体情境** 领域知识决定信息如何编码及何种证据具有意义，通用认知结构则使学生能够识别跨领域的相似问题。迁移应被理解为二者复杂而动态的结合，AOK 比较需要同时保留领域差异和跨领域联系。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 34, 38–39)]]
 
 ### 命题三　领域分类过度简化时会阻碍真正的跨领域理解
 
@@ -262,7 +259,7 @@ updated: 2026-09-29
 > 将知识领域写入目标和描述符，可以把跨[[Domain Analysis\|领域分析]]变成可见成果。效度还取决于任务是否评价证据审查、推论和判断质量，以及领域连接能否超越术语出现。
 
 > [!claim] 休斯（C. Hughes）
-> **连接要求只能支持部分效度** 评估目标要求考察知识领域如何生成知识，并探索 AOK、WOK、知识主张和知识问题之间的联系；论文最高等级描述符也奖励有效联系知识领域。这些要求支持课程内部对齐。评分仍主要集中于连接、调查和探索，对来源评价、[[Hypothesis\|假设]]检验、决策、[[Problem Solving\|问题解决]]和创造的覆盖有限，因此无法单凭 AOK 连接证明完整的[[Critical Thinking\|批判性思维]][[Construct Validity\|构念效度]]。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 37–43)]]
+> **连接要求只能支持部分效度** 评估目标要求考察知识领域如何生成知识，并探索 AOK、WOK、知识主张和知识问题之间的联系；论文最高等级描述符也奖励有效联系知识领域。这些要求支持课程内部对齐。评分仍主要集中于连接、调查和探索，对来源评价、假设检验、决策、[[Problem Solving\|问题解决]]和创造的覆盖有限，因此无法单凭 AOK 连接证明完整的[[Critical Thinking\|批判性思维]][[Construct Validity\|构念效度]]。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 37–43)]]
 
 > [!claim] 曾普伦（G. Á. Zemplén）
 > **分类词汇可能成为评分替代指标** AOK and WOK 为超学科课程提供共同语言，也让评分者容易识别学生是否使用课程框架。学生若通过罗列领域名称和建立表面连接获得分数，作品会展示术语熟练度，却未充分呈现对证据、方法和价值前提的批判性审查。[[Argument_Zemplen_2007_SciEduc\|(Zemplén, 2007, pp. 171–173)]]
@@ -280,7 +277,7 @@ updated: 2026-09-29
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表研究 |
 > |---|---|---|---|
-> | **领域差异** | 方法、证据与概念标准塑造领域知识 | 学科比较、知识生产分析 | Darwish (2009); [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] |
+> | **领域差异** | 方法、证据与概念标准塑造领域知识 | 学科比较、知识生产分析 | [[Argument_Darwish_2009_Queens\|Darwish (2009)]]; [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] |
 > | **领域与迁移** | 跨领域理解需要结合专业知识、显化原则与通用结构 | 跨学科课程、迁移任务 | [[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987)]]; Ritchhart & Perkins (2005); [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] |
 > | **分类边界** | 领域标签可能遮蔽内部差异和跨领域共享结构 | 课程分类、学科身份分析 | [[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]]; [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] |
 > | **操作化与效度** | AOK 进入评分形成内部对齐，也可能诱发表面连接 | 评估设计、构念效度审查 | [[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]]; [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] |
@@ -317,14 +314,14 @@ updated: 2026-09-29
 ## 争议与批评
 
 > [!tension] [[Domain Specificity\|领域特异性]]与跨领域迁移
-> - **领域特异性立场** 知识按照学科图式[[Coding in Qualitative Research\|编码]]，各领域具有不同的方法、[[Evidence Standards\|证据标准]]和专业实践，批判性判断因而依赖具体领域知识。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 34, 38–39)]]
+> - **领域特异性立场** 知识按照学科图式编码，各领域具有不同的方法、[[Evidence Standards\|证据标准]]和专业实践，批判性判断因而依赖具体领域知识。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 34, 38–39)]]
 > - **跨领域迁移立场** 证据、因果、解释、信念和不确定性等结构能够跨越学科情境，课程应帮助学习者抽离并迁移这些思维模式。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 34, 38–39)]]
 
 > [!critique-method] 分类与评估风险
 > - **领域本质化** 用单一方法或[[Ways of Knowing\|认知方式]]定义整个领域，会把领域内部多样性压缩为学科刻板印象。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, p. 39)]]
 > - **边界封闭** 将 AOK 当作互不相通的知识领地，会遮蔽跨领域方法、概念与价值问题，削弱迁移和综合解释。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 38–39)]]
 > - **术语替代表现** 评分若主要确认领域名称和跨领域连接，可能把分类框架使用当作批判性分析。[[Argument_Zemplen_2007_SciEduc\|(Zemplén, 2007, pp. 171–173)]]
-> - **[[Construct\|构念]]覆盖不足** AOK 比较能够考察[[Epistemology\|认识论]]理解，却没有自动覆盖来源核查、推论、[[Hypothesis\|假设]]检验、决策、[[Problem Solving\|问题解决]]和创造。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 41–43)]]
+> - **[[Construct\|构念]]覆盖不足** AOK 比较能够考察[[Epistemology\|认识论]]理解，却没有自动覆盖来源核查、推论、假设检验、决策、[[Problem Solving\|问题解决]]和创造。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 41–43)]]
 
 > [!tension] 开放审查与科学知识权威
 > - **开放审查立场** [[Theory of Knowledge\|TOK]] 的批判性探究要求所有领域的知识主张接受理由、证据和价值前提的检验，包括自然科学。[[Argument_Zemplen_2007_SciEduc\|(Zemplén, 2007, pp. 179–181)]]

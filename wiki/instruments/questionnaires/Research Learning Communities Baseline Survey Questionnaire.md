@@ -7,7 +7,7 @@ aliases:
 summary: "研究学习共同体（RLC）项目在英格兰 79 所小学实施的基线调查问卷，围绕参与研究的能力、研究使用的文化常规、有效学习环境与支持性结构系统资源四个因素共 14 道题，采用五级李克特量表，用于在干预开始前刻画学校推进证据知情自我改进的准备状态并诊断组织制度性短板。"
 type: instrument
 instrument_type: questionnaire
-instrument_related_count: 26
+instrument_related_count: 25
 instrument_related_level: 6
 instrument_related_stars: "⭐⭐⭐⭐⭐⭐"
 instrument_related_color: "#fecdd3"
@@ -35,7 +35,6 @@ related_concepts:
   - "[[School Enquiry Cycle]]"
   - "[[School Leadership]]"
   - "[[Evidence-Informed Practice]]"
-  - "[[Hypothesis]]"
   - "[[Dialogue in Education]]"
   - "[[Face Validity]]"
   - "[[Construct Validity]]"
@@ -65,7 +64,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-15
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Research Learning Communities Baseline Survey Questionnaire
@@ -96,7 +95,7 @@ updated: 2026-09-17
 > |---|---|---|---|
 > | 参与研究并运用研究证据的能力（Capacity to engage both in and with research evidence） | 3 | 研究信息对教学实践的作用、研究信息在课堂应用新方法时的有用性、学校是否具备评价项目或实践的正式流程 | 5 点李克特标尺，逐题报告应答比例 |
 > | 让[[Research Utilization\|研究使用]]成为文化常规的学校文化（School cultures that are attuned to evidence use） | 4 | 对无研究支撑的校级变革的态度、学校对使用研究发现的鼓励、学校以证据提示改进策略的做法、校内分享有效与无效做法的意愿 | 同上 |
-> | 把研究使用作为有效学习环境一部分的学校（Schools promoting the use of research as part of an effective learning environment） | 4 | 对影响关键决策的潜在[[Hypothesis\|假设]]的讨论、以研究与证据激发[[Dialogue in Education\|对话]]、对新想法的重视、对新工作方式的尝试 | 同上 |
+> | 把研究使用作为有效学习环境一部分的学校（Schools promoting the use of research as part of an effective learning environment） | 4 | 对影响关键决策的潜在假设的讨论、以研究与证据激发[[Dialogue in Education\|对话]]、对新想法的重视、对新工作方式的尝试 | 同上 |
 > | 促进研究使用与最佳实践共享的有效结构、系统与资源（Effective structures, systems and resources facilitating research-use） | 3 | 过去一年与同事讨论研究发现的频次、学校是否设有分享信息的正式论坛、学校是否为教育培训活动留出充足时间 | 同上 |
 
 > [!ref-table]- 维度与题项对应
@@ -180,7 +179,7 @@ updated: 2026-09-17
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]] | 原始英文版，经 Survey Monkey 在线施测 | 英格兰 79 所小学（60 所 [[Research Learning Communities\|RLC]] 学校、19 所可计算应答率的对照学校）的教师与[[School Leadership\|学校领导]]者；调查期为 2014 年 10 月 2 日至 19 日，用于干预前的基线描述与诊断 | 在未参与项目的同区域小学教师中试测[[Face Validity\|表面效度]]与[[Construct Validity\|结构效度]]；信度系数、因子结构与[[Measurement Invariance\|测量不变性]]未报告 | 共收到 797 份应答，696 份纳入分析（仅保留 2014 年 9 月前入职者）；76% 认同研究价值，86% 认为在课堂有用；揭示了探究末端成效评价缺失（仅 67%）及底层[[Hypothesis\|假设]]讨论脱节（55%）的组织病理 |
+> | [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]] | 原始英文版，经 Survey Monkey 在线施测 | 英格兰 79 所小学（60 所 [[Research Learning Communities\|RLC]] 学校、19 所可计算应答率的对照学校）的教师与[[School Leadership\|学校领导]]者；调查期为 2014 年 10 月 2 日至 19 日，用于干预前的基线描述与诊断 | 在未参与项目的同区域小学教师中试测[[Face Validity\|表面效度]]与[[Construct Validity\|结构效度]]；信度系数、因子结构与[[Measurement Invariance\|测量不变性]]未报告 | 共收到 797 份应答，696 份纳入分析（仅保留 2014 年 9 月前入职者）；76% 认同研究价值，86% 认为在课堂有用；揭示了探究末端成效评价缺失（仅 67%）及底层假设讨论脱节（55%）的组织病理 |
 
 应答率分布方面，项目学校（n = 60）低于 30%、30% 至 40%、40% 至 50%、50% 至 60%、60% 至 70%、70% 至 80% 与 80% 以上各区间分别有 1、2、0、5、12、8、32 所，应答率超过 80% 的 32 所中 13 所（22%）达到 100%；对照学校（n = 19）对应区间分别有 1、3、4、0、2、3、6 所，超过 80% 的 6 所中 3 所（11%）达到 100%。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, p. 128)]]
 
@@ -198,7 +197,7 @@ updated: 2026-09-17
 > | **文化常规** | 学校鼓励我利用研究发现改进实践（Q5） | 76% | 18% | 6% | 领导层积极倡导循证文化 |
 > | **文化常规** | 学校用研究与证据向教职工提示改进策略（Q6） | 79% | 18% | 4% | 证据作为提示工具常态化 |
 > | **文化常规** | 校内人员乐于分享有效与无效的做法（Q7） | 89% | 9% | 2% | 心理安全与同伴分享意愿极高 |
-> | **有效学习环境** | 学校经常讨论影响关键决策的潜在[[Hypothesis\|假设]]（Q8，n = 694） | **55%** | 30% | **14%** | **环境悖论** 尝试新法极为活跃（82%），但底层假设审思滞后（55%），诱发[[Activity Traps\|活动陷阱]] |
+> | **有效学习环境** | 学校经常讨论影响关键决策的潜在假设（Q8，n = 694） | **55%** | 30% | **14%** | **环境悖论** 尝试新法极为活跃（82%），但底层假设审思滞后（55%），诱发[[Activity Traps\|活动陷阱]] |
 > | **有效学习环境** | 教职工用研究与证据激发[[Dialogue in Education\|对话]]（Q9，n = 695） | 73% | 20% | 8% | 证据激发对话普及度良好 |
 > | **有效学习环境** | 校内人员重视新想法（Q10，n = 694） | 74% | 17% | 10% | 组织开放度良好 |
 > | **有效学习环境** | 学校尝试新的工作方式（Q11，n = 694） | 82% | 9% | 10% | 实践尝试意愿极强 |

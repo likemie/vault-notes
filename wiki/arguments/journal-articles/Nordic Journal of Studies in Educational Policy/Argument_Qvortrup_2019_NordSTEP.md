@@ -9,7 +9,7 @@ title: "Argument_Qvortrup_2019_NordSTEP"
 argument_key: "Argument_Qvortrup_2019_NordSTEP"
 argument_display_title: "Visible learning and its enemies – the missing link"
 argument_kind: "journal-article"
-argument_related_count: 18
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -24,18 +24,17 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Visible Learning]]"
-  - "[[Hypothesis]]"
   - "[[Interpretation Community]]"
   - "[[Professional Judgment]]"
   - "[[Technology Deficit of Education]]"
   - "[[Reflexivity]]"
   - "[[Discourse]]"
-  - "[[Document]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
   - "[[Causality]]"
   - "[[Structural Coupling]]"
   - "[[Problem Solving]]"
+  - "[[Hypothesis]]"
 related_theories:
   - "[[Bounded Rationality]]"
 related_methods:
@@ -63,7 +62,7 @@ citation_aliases:
 > 论文试图回答三个问题(p.3)：
 > 1. 为什么 Hattie 及其支持者在丹麦被如此彻底地误读？
 > 2. 为什么在教育科学中定量方法与定性方法之间产生了冲突？
-> 3. [[Visible Learning]] 声称提供"[[Hypothesis\|假设]]"而非"食谱"，声称相关不等于因果——这背后的理论原因是什么？
+> 3. [[Visible Learning]] 声称提供"假设"而非"食谱"，声称相关不等于因果——这背后的理论原因是什么？
 
 ## 理论框架
 
@@ -78,7 +77,7 @@ citation_aliases:
 
 > [!info] 研究方法
 > - 方法：讨论论文（discussion paper）——以论辩和分析为主要方法
-> - 分析策略：以 Alexander (2011) 的四种批判性政策[[Discourse|话语]]（二分法、嘲弄、神话、无意义）为框架，分析丹麦 Hattie 批评[[Document\|文献]]的修辞特征
+> - 分析策略：以 Alexander (2011) 的四种批判性政策[[Discourse|话语]]（二分法、嘲弄、神话、无意义）为框架，分析丹麦 Hattie 批评文献的修辞特征
 > - [[Epistemology\|认识论]]立场："观察位置"(von Foerster, 1984; Thyssen, 2012)——不同的理论代表不同的观察位置和透镜，不同观察产生不同图像，相互补充而非排斥
 
 ## 核心论证
@@ -91,7 +90,7 @@ citation_aliases:
 >    - **步骤二** 定量与定性方法的对立源于将[[Epistemology\|认识论]]与[[Ontology\|本体论]]混淆——"真理"是认识论问题而非本体论问题。不同的观察透镜（phenomenological vs statistical）产生不同的图像，只要都遵循高效度标准，它们相互补充而非相互排斥(p.5)
 >    - **步骤三** 教学与学习之间不存在简单的[[Causality\|因果关系]]——两者是通过[[Structural Coupling\|结构耦合]]链接的两个封闭系统的关系。教学干预必须经过学生闭合的、自我指涉的、复杂的和不可预测的反思循环。因此，教师必须运用[[Professional Judgment\|专业判断]]——基于研究知识和方法知识、在理性赤字的条件下、通过反馈持续修正(p.6-7)
 >
-> 3. **结论** Visible Learning 的目的不是提供"什么有效食谱"，而是为教师提供"智能[[Problem Solving\|问题解决]]的[[Hypothesis\|假设]]"(Hattie, 2009, p.247)。专业判断是 VL 中教学干预与学习成果之间的"缺失环节"——它将研究证据（知道什么最可能有效）与具体情境（在特定情况下需要什么）连接起来
+> 3. **结论** Visible Learning 的目的不是提供"什么有效食谱"，而是为教师提供"智能[[Problem Solving\|问题解决]]的假设"(Hattie, 2009, p.247)。专业判断是 VL 中教学干预与学习成果之间的"缺失环节"——它将研究证据（知道什么最可能有效）与具体情境（在特定情况下需要什么）连接起来
 
 ## 主要发现
 

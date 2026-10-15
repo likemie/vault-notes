@@ -12,9 +12,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 16
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 15
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: think-tank
 headquarters: "美国华盛顿哥伦比亚特区"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[College and Career Readiness]]"
   - "[[Paradigm]]"
-  - "[[Document]]"
   - "[[Policy Entrepreneur]]"
 related_theories: []
 related_methods: []
@@ -52,7 +51,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Thomas B. Fordham Institute
@@ -139,6 +138,6 @@ updated: 2026-10-07
 > | [[American Diploma Project]] | 政策事实 | 福特汉姆作为共同发起方推动高中基准改革的标志性先锋项目。 |
 > | [[National Governors Association]] | 组织机构 | 借助福特汉姆的保守派学术公信力动员共和党州长的行政权力中枢。 |
 > | [[Council of Chief State School Officers]] | 组织机构 | 接受福特汉姆关于各州大纲审查意见并修正草案的州官僚联盟。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | 实证[[Document\|文献]] | 详细记录福特汉姆总裁切斯特·芬恩作为[[Policy Entrepreneur\|政策企业家]]及出具对标报告的研究。 |
+> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | 实证文献 | 详细记录福特汉姆总裁切斯特·芬恩作为[[Policy Entrepreneur\|政策企业家]]及出具对标报告的研究。 |
 
 ---

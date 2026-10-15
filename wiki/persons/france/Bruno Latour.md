@@ -7,10 +7,10 @@ summary: "法国著名哲学家、人类学家与科学社会学家，科学技�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 32
-person_related_level: 4
-person_related_stars: "⭐⭐⭐⭐"
-person_related_color: "#fce7f3"
+person_related_count: 31
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "1947"
 died: "2022"
 lifespan: 1947–2022
@@ -23,13 +23,12 @@ tags:
 related_concepts:
   - "[[Science and Technology Studies]]"
   - "[[Center of Calculation]]"
-  - "[[Assemblage]]"
   - "[[Ontology]]"
   - "[[Data Infrastructure]]"
+  - "[[Assemblage]]"
   - "[[Posthumanism]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Variable]]"
   - "[[Independent Variable]]"
   - "[[Educational Brokerage Agency]]"
@@ -61,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-07
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Bruno Latour
@@ -73,7 +72,7 @@ updated: 2026-10-07
 > [!person-profile] 人物档案
 > - **身份位置** 布鲁诺·拉图尔（Bruno Latour, 1947–2022），法国著名哲学家、人类学家与科学社会学家，科学技术学（[[Science and Technology Studies\|STS]]）的领军人物，先后任教于巴黎矿业学院创新社会学中心（CSI）与巴黎政治学院（Sciences Po）。
 > - **核心角色** [[Actor-Network Theory\|行动者网络理论]]（ANT）的核心奠基人与唯物主义后人类转向的倡导者。他打破了自然与社会、主体与客体的二元对立，开创了追踪异质实体、广义对称性与[[Center of Calculation\|计算中心]]的“旅行者社会学”。
-> - **代表贡献** 创立[[Actor-Network Theory\|行动者网络理论]]、提出[[Assemblage\|装配]]与广义对称性[[Ontology\|本体论]]、界定[[Center of Calculation\|计算中心]]与不变移动物（Immutable Mobiles）机制，为比较教育政策拓扑学与[[Data Infrastructure\|数据基础设施]]研究奠定了理论基石。
+> - **代表贡献** 创立[[Actor-Network Theory\|行动者网络理论]]、提出装配与广义对称性[[Ontology\|本体论]]、界定[[Center of Calculation\|计算中心]]与不变移动物（Immutable Mobiles）机制，为比较教育政策拓扑学与[[Data Infrastructure\|数据基础设施]]研究奠定了理论基石。
 
 > [!citation-card] 拉图尔论非人类行动者的对称能动性
 > 没有非人类客体的参与，人类甚至无法维持一分钟的社会秩序；客体的抗拒、固化与传导是社会权力效果能够持久稳定的物理底座。（Latour, 2004, 引自 [[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015, p. 8]]）
@@ -105,7 +104,7 @@ updated: 2026-10-07
 >   - **阶段转向** 从哲学[[Epistemology\|认识论]]转向唯物主义经验研究，揭示科学事实是由非人类工具与人类网络共同“制造”出来的。
 > - **1990–2005 — 唯物主义社会学与重新[[Assemblage\|组装]]社会** 打破现代性二元鸿沟，重构社会学[[Ontology\|本体论]]。
 >   - **代表著作** *We Have Never Been Modern* (1991); *Pandora's Hope* (1999); *Reassembling the Social* (2005)。
->   - **关键概念／方法** [[Assemblage\|装配]]（Assemblage）、行动元（Actant）、互客体性（Interobjectivity）、[[Transfer Translation Transformation\|转译]]（Translation）。
+>   - **关键概念／方法** 装配（Assemblage）、行动元（Actant）、互客体性（Interobjectivity）、转译（Translation）。
 >   - **阶段转向** 彻底否定“社会”作为先验解释[[Variable\|变量]]的有效性，将社会学重新定义为追踪异质联结痕迹的过程方法论。
 > - **2004–2022 — 后批判转向与盖娅生态政治** 反思去构主义批判的虚无化风险，转向维护可居住地球的关切政治。
 >   - **代表著作** *Why Has Critique Run out of Steam?* (2004); *Facing Gaia* (2017); *Down to Earth* (2018)。
@@ -117,14 +116,14 @@ updated: 2026-10-07
 ## 核心思想
 
 > [!claim] 核心主张
-> 社会并非先验存在的[[Independent Variable\|自变量]]或宏观实体，而是由人类与非人类行动者（法律、技术、仪器、文本）通过[[Transfer Translation Transformation\|转译]]与关系物质性临时[[Assemblage\|装配]]而成的网络效果；权力和知识的普遍性依靠“[[Center of Calculation\|计算中心]]”在远处汇聚“不变移动物”并辐射标准来实现，而非中心意志的自发扩散。（Latour, 1987, 2005; [[Argument_Hartong_2018_GSE\|Hartong, 2018]]；[[Argument_Rowe_2022_IJER\|Rowe, 2022]]）
+> 社会并非先验存在的[[Independent Variable\|自变量]]或宏观实体，而是由人类与非人类行动者（法律、技术、仪器、文本）通过转译与关系物质性临时装配而成的网络效果；权力和知识的普遍性依靠“[[Center of Calculation\|计算中心]]”在远处汇聚“不变移动物”并辐射标准来实现，而非中心意志的自发扩散。（Latour, 1987, 2005; [[Argument_Hartong_2018_GSE\|Hartong, 2018]]；[[Argument_Rowe_2022_IJER\|Rowe, 2022]]）
 
 > [!citation-card] 拉图尔论计算中心与从远处采取行动
 > 计算中心通过在边缘部署铭文装置，将遥远的世界转化为可移动、平整且可组合的记录（不变移动物），并在中心将其汇聚与再处理，从而实现对广袤空间的从远处采取行动。（Latour, 1987, pp. 215–232）
 >
 > *By acting at a distance on unfamiliar events, places and people, centers of calculation gather inscriptions, combine them and make them legible, enabling a few to dominate the many.* (Latour, 1987)
 
-> [!citation-card] 拉图尔论重新组装社会与追踪行动者痕迹
+> [!citation-card] 拉图尔论重新[[Assemblage|组装]]社会与追踪行动者痕迹
 > 社会不是由社会性的东西构成的，社会是由异质的行动者通过联结所产生的效果。社会学的任务不是用一个叫作‘社会’的神秘力量去解释一切，而是去追踪那些正在重新组装社会的痕迹。（Latour, 2005, pp. 1–11）
 >
 > *There is no society, no social realm, and no social ties, but there exists translations between mediating sites.* (Latour, 2005)
@@ -134,7 +133,7 @@ updated: 2026-10-07
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 彻底重塑了科学技术学（[[Science and Technology Studies\|STS]]）、[[Posthumanism\|后人类主义]]哲学与地理学，其[[Assemblage\|装配]]理论与广义对称性原则成为当代批判社会理论的核心[[Paradigm\|范式]]。
+> - **理论路径** 彻底重塑了科学技术学（[[Science and Technology Studies\|STS]]）、[[Posthumanism\|后人类主义]]哲学与地理学，其[[Assemblage|装配理论]]与广义对称性原则成为当代批判社会理论的核心[[Paradigm\|范式]]。
 > - **方法路径** 开创了追踪异质网络、跟随行动者（Follow the Actors）以及解构技术黑箱（Black-boxing）的[[Qualitative Research\|质性研究]]与[[Network Ethnography\|网络民族志]]传统。
 > - **教育政策与比较教育路径** 深刻启发了批判政策社会学：学者借用其“[[Center of Calculation\|计算中心]]”与“不变移动物”解构国际组织测评（[[PISA]]）与国家数据监测（[[Vergleichsarbeiten\|VERA]]）的[[Governing at a Distance\|远处治理]]（[[Argument_Hartong_2018_GSE\|Hartong, 2018]]；[[Argument_Klerides_2023_CE\|Klerides, 2023]]）；借用其“互客体性”与耐用材料装配解构国家[[Educational Brokerage Agency\|证据中介机构]]（[[Argument_Rowe_2022_IJER\|Rowe, 2022]]）与数字课堂硬件规制（[[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015]]）。
 > - **跨国／跨领域传播** 思想广泛辐射至建筑学、生态学、法学、人类学与管理学，并在全球学术界引发对非人类能动性的广泛探讨。
@@ -153,7 +152,7 @@ updated: 2026-10-07
 > - **师承／合作者** 米歇尔·卡隆（Michel Callon）— 共同创立[[Actor-Network Theory\|行动者网络理论]]（ANT）与转译社会学。
 > - **师承／合作者** 约翰·劳（John Law）— 共同发展关系物质性与耐用材料秩序化理论。
 > - **师承／合作者** 史蒂夫·伍尔加（Steve Woolgar）— 合著《实验室生活》，开创微观科学实验室[[Ethnography\|人类学研究]]。
-> - **思想对话者** 吉尔·德勒兹（Gilles Deleuze）— 汲取其块茎与[[Assemblage\|装配]]思想，构建去中心化的异质网络[[Ontology\|本体论]]。
+> - **思想对话者** 吉尔·德勒兹（Gilles Deleuze）— 汲取其块茎与装配思想，构建去中心化的异质网络[[Ontology\|本体论]]。
 > - **后世应用学者** [[Sigrid Hartong\|西格丽德·哈通]]（Sigrid Hartong）— 将拉图尔[[Center of Calculation\|计算中心]]理论应用于教育政策拓扑学与[[Data Infrastructure\|数据基础设施]]研究。
 > - **后世应用学者** 杰森·比奇（[[Jason Beech]]）与埃玛·罗威（Emma Rowe）— 将拉图尔 ANT 与互客体性理论应用于比较教育与批判[[Policy Network\|政策网络]]分析。
 

@@ -10,7 +10,7 @@ aliases:
 summary: "发生在传统学校课堂之外、具有自愿性与情境化的科学学习形态，涵盖科技馆、探索中心与公民科学。既是维系公民科学素养的文化基建，也是国家微电子等战略产业开展早期启蒙、破除认知盲区并培育多元人才池的先导阵地。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 34
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -36,8 +36,6 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[STEM Education]]"
   - "[[Praxis]]"
-  - "[[Document]]"
-  - "[[Attrition]]"
   - "[[Engineering Education]]"
   - "[[Apprenticeship]]"
   - "[[Curiosity-Driven Research]]"
@@ -62,7 +60,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Informal Science Learning
@@ -174,7 +172,7 @@ updated: 2026-10-10
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | [[Praxis\|实践]]机制与政策含义 | 关键来源 / 代表[[Document\|文献]] |
+> | 命题类型 | 核心指向 | [[Praxis\|实践]]机制与政策含义 | 关键来源 / 代表文献 |
 > |---|---|---|---|
 > | **社会文化基础设施** | 超越课堂补充，确立为支撑社区繁荣的核心公共品 | 政府采购 10% 社会价值，落实财税平权与长期战略基金 | The British Academy (2026); [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|The Royal Society (2026)]] |
 > | **长期累积与公平补偿** | 贯穿全生命周期的多次积极科学遭遇累积科学资本 | 推广 GLOs 框架，发起国家级长期队列追踪研究 | UCL ASPIRES (2025); 同上 |
@@ -199,7 +197,7 @@ updated: 2026-10-10
 
 > [!critique] 外部批评与现实困境
 > - **部门管辖割裂与政策真空** 科学中心处于科技创新部（DSIT）、教育部（DfE）、文化体育部（DCMS）与地方政府的四不管缝隙，缺乏明确的主管部门与法定经费列支渠道。
-> - **高校公共参与转向的挤出效应** 近年大学科研评估过度激励学者参与特定课题的[[Participatory Research\|参与式研究]]，导致通用型地方科学节与中小学外展讲座面临学者[[Attrition\|流失]]。（p. 49）
+> - **高校公共参与转向的挤出效应** 近年大学科研评估过度激励学者参与特定课题的[[Participatory Research\|参与式研究]]，导致通用型地方科学节与中小学外展讲座面临学者流失。（p. 49）
 
 ---
 

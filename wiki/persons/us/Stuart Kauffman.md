@@ -8,10 +8,10 @@ summary: "美国理论生物学家、复杂系统科学先驱、圣塔菲研究�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 16
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 15
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1939"
 died: ""
 lifespan: 1939–至今
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Positivism]]"
   - "[[Creativity]]"
-  - "[[Hypothesis]]"
   - "[[Unit of Analysis]]"
 related_theories:
   - "[[Complexity Theory]]"
@@ -111,7 +110,7 @@ updated: 2026-10-15
 
 > [!person-network] 关系网络
 > - **[[Paradigm\|范式]]共鸣** [[Complexity Theory]] — 复杂系统科学代表人物，为复杂性范式提供[[Ontology\|本体论]]与数学基础。
-> - **方法论对立** [[Randomised Controlled Trials]] — 考夫曼的自组织[[Emergence\|涌现]]理论从本体论上瓦解了随机受控实验将开放系统强行切片孤立的[[Hypothesis\|假设]]。
+> - **方法论对立** [[Randomised Controlled Trials]] — 考夫曼的自组织[[Emergence\|涌现]]理论从本体论上瓦解了随机受控实验将开放系统强行切片孤立的假设。
 
 ---
 

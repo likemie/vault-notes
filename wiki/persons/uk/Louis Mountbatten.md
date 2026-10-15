@@ -8,7 +8,7 @@ summary: "英国海军将领与公共人物，1968年后把联合世界书院从
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 12
+person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -24,11 +24,8 @@ related_concepts:
   - "[[International Schools]]"
   - "[[International Education]]"
   - "[[International Baccalaureate]]"
-  - "[[Document]]"
 related_persons:
-  - "[[Paul Pierson]]"
   - "[[Desmond Hoare]]"
-  - "[[Peter A. Hall]]"
   - "[[Kurt Hahn]]"
   - "[[Alec Peterson]]"
 related_facts:
@@ -39,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Louis Mountbatten
@@ -63,7 +60,7 @@ updated: 2026-10-12
 > - **1968 年** 接任大西洋学院理事会主席，条件是提高项目国际化程度，并建立与大西洋学院行政分离的国际办公室。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, p. 104)]]
 > - **1968–1972 年** 与吴丹（U Thant）讨论后采用联合世界书院名称，担任国际理事会主席，并推动成立联合世界书院国际有限公司、国际董事会和多国国家委员会。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 105–106)]]
 > - **1970–1975 年** 推动新加坡项目从寻找独立校园转向与新加坡[[International Schools|国际学校]]合作，继而促成整所全龄学校成为正式成员。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 110–117)]]
-> - **1975 年** 与玛丽昂·[[Paul Pierson|皮尔逊]]（Marion Pearson）主持莱斯特·B·皮尔逊联合世界书院开幕；同次国际理事会会议正式接受东南亚联合世界书院。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 117, 121–122)]]
+> - **1975 年** 与玛丽昂·皮尔逊（Marion Pearson）主持莱斯特·B·皮尔逊联合世界书院开幕；同次国际理事会会议正式接受东南亚联合世界书院。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 117, 121–122)]]
 > - **1978 年** 卸任 UWC 主席前推动沃特福德取得关联资格，并把国际办公室交给更完整的全职领导结构。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 124–125)]]
 > - **1979 年 8 月 27 日** 在爱尔兰海岸遇爱尔兰共和军炸弹袭击身亡，未及看到沃特福德和亚得里亚海书院成为正式成员。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 125–130)]]
 
@@ -94,7 +91,7 @@ updated: 2026-10-12
 > 乔治·舒斯特（Sir George Schuster）认为，蒙巴顿设想的扩展规模只有在政府提供主要资金时才可能实现。蒙巴顿也曾期待，在最初六所书院建立之后，政府会接受这一运动并承担更多经费。作者后来把这一方向表述为政府将本国建立书院、支持本国学生赴其他书院学习，纳入国家与[[International Education|国际教育]]责任；加拿大和意大利提供了先例。最初六校是希望中的启动门槛，不是原文证明已经触发政府全面接管的规则。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 209, 214)]]
 
 > [!case] 吸收既有学校为高成本创校提供另一条路径
-> 新加坡与沃特福德的关联及正式加入，不需要完全重复大西洋学院的资本和经常成本。第八章明确指出，创始者并未要求各校复制同一形态：[[Desmond Hoare|德斯蒙德·霍尔]]（Desmond Hoare）支持第三世界的简易低成本书院与不同于大西洋学院的泰国方案，舒斯特支持委内瑞拉农业项目。蒙巴顿此前推动新加坡整所学校成为成员的活动，可据此放在多样化扩展的脉络中理解；[[Peter A. Hall|霍尔]]与舒斯特的具体方案仍应归于各自主张。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, pp. 110–117)]] [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 209–210)]]
+> 新加坡与沃特福德的关联及正式加入，不需要完全重复大西洋学院的资本和经常成本。第八章明确指出，创始者并未要求各校复制同一形态：[[Desmond Hoare|德斯蒙德·霍尔]]（Desmond Hoare）支持第三世界的简易低成本书院与不同于大西洋学院的泰国方案，舒斯特支持委内瑞拉农业项目。蒙巴顿此前推动新加坡整所学校成为成员的活动，可据此放在多样化扩展的脉络中理解；霍尔与舒斯特的具体方案仍应归于各自主张。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, pp. 110–117)]] [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 209–210)]]
 
 > [!claim] 开放入学不以统一全额资助作为唯一初始形式
 > 蒙巴顿与霍尔原先希望奖学金足以保证择优入选者不因家庭缺钱失去机会，同时保留部分缴费生。加拿大后来提出全员且全额奖学金，增加了其他书院采用同一政策的压力。两者共同追求财富不阻碍入学，但财政承诺与资助方式不同；不能把运动后续的全员全额方向倒置为蒙巴顿自始规定的唯一形式。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 210–211)]]
@@ -143,6 +140,6 @@ updated: 2026-10-12
 > 人物形象主要来自同事和运动参与者亚历克·彼特森（[[Alec Peterson]]）的回忆，并包含作者对菲利普·齐格勒传记的转述。材料详细呈现组织者眼中的工作方式和贡献，却不能单独代表各国委员会、政府、学校员工或学生对蒙巴顿的评价。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 104–130)]]
 
 
-> [!evidence-grid] [[Document|文献]]与论证索引
+> [!evidence-grid] 文献与论证索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, pp. 104–130)]] — 记录蒙巴顿的国际组织、政治动员、筹款及成员扩展工作。
 > - [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 209–214, 216–217)]] — 将扩展放在和平目标、财政承诺与政府责任中讨论，并区分制度贡献与宏观效果宣称。

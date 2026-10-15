@@ -13,11 +13,9 @@ tags:
   - "level/higher-education"
 related_concepts:
   - "[[University-Industry Collaboration]]"
-  - "[[Document]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Clinical Trial]]"
   - "[[Variable]]"
-  - "[[Hypothesis]]"
   - "[[Academic Freedom]]"
   - "[[FAIR Principles]]"
 related_theories: []
@@ -46,9 +44,9 @@ title: "Argument_Brock_2025_DataAccessGenerationUse"
 argument_key: "Argument_Brock_2025_DataAccessGenerationUse"
 argument_display_title: "Data: Access, generation, use"
 argument_kind: "book"
-argument_related_count: 16
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 14
+argument_related_level: 0
+argument_related_stars: ""
 argument_related_color: "#ede9fe"
 book_title: "University-Industry Collaboration: Innovation at the Interface"
 year: 2025
@@ -82,7 +80,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info]
-> 这是一篇法律与政策综述（legal and policy review），不是实证研究。作者基于自身在大学赞助项目办公室和产学合同领域的执业经验，广泛引用联邦法规（HIPAA、FERPA、Privacy Act）、联邦标准（NIST SP 800-53）、欧盟法规（GDPR、Data Governance Act）、学术[[Document\|文献]] (Tedersoo et al., 2021; Wilkinson et al., 2016; Klein & Verhulst, 2017)和大学政策（UW-Madison、UW、U-M、UVA、Yale），构建了[[University-Industry Collaboration\|产学合作]]中数据治理的全景参考框架。
+> 这是一篇法律与政策综述（legal and policy review），不是实证研究。作者基于自身在大学赞助项目办公室和产学合同领域的执业经验，广泛引用联邦法规（HIPAA、FERPA、Privacy Act）、联邦标准（NIST SP 800-53）、欧盟法规（GDPR、Data Governance Act）、学术文献 (Tedersoo et al., 2021; Wilkinson et al., 2016; Klein & Verhulst, 2017)和大学政策（UW-Madison、UW、U-M、UVA、Yale），构建了[[University-Industry Collaboration\|产学合作]]中数据治理的全景参考框架。
 
 ---
 
@@ -178,7 +176,7 @@ citation_aliases:
 - 法律与保密义务：客户和供应商合同中通常包含限制数据披露的条款
 - 基础设施成本：建立安全的数据共享平台和培训专业人员需要可观的投资，企业可能认为这与核心业务无关
 - 跨国合规：在不同司法辖区之间传输数据需要逐一满足互不兼容的隐私法规
-- 数据可用性的错误[[Hypothesis|假设]]：企业往往高估了自身"可共享数据"的数量和质量——内部数据系统未必是为外部共享而设计的
+- 数据可用性的错误假设：企业往往高估了自身"可共享数据"的数量和质量——内部数据系统未必是为外部共享而设计的
 
 > [!info]
 > Klein & Verhulst(2017)识别了企业共享数据的六种动机，为产学数据谈判提供了[[Analytic Framework\|分析框架]]：互惠（为共同利益而共享）、研究（获取洞察和识别人才）、声誉（提升企业形象）、收入（通过销售或许可使用数据获利）、法规遵从（法定报告义务）、以及责任与慈善（社会责任行为带来的价值）。大学在与企业谈判数据共享条款时，应首先识别企业参与数据共享的主要动机——以互惠或研究为动机的合作，通常接受更开放的条款；以收入或竞争优势为动机的合作，倾向于更严格的限制(p.296)。

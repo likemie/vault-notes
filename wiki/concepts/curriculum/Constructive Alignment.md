@@ -6,7 +6,7 @@ aliases:
 summary: "Biggs 提出的课程系统设计原则，以学生实际开展的学习活动为核心，并用同一组目标动词协调预期学习结果、教学／学习活动与标准参照评估；OECD报告进一步将其扩展为涵盖宏观资格框架、中观全课程整合与微观真实性评价的多层级治理工程。"
 type: concept
 domain: "curriculum"
-related_count: 39
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Constructed Knowledge]]"
   - "[[Teaching and Learning Activities]]"
-  - "[[Hypothesis]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Rote Learning]]"
   - "[[Assessment Backwash]]"
@@ -32,7 +31,6 @@ related_concepts:
   - "[[Homework]]"
   - "[[Learning Gap]]"
   - "[[Problem Solving]]"
-  - "[[Document]]"
   - "[[Operationalization]]"
   - "[[Academic Achievement]]"
   - "[[Constructivist Paradigm]]"
@@ -66,7 +64,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-04
-updated: 2026-09-16
+updated: 2026-10-15
 ---
 
 # Constructive Alignment
@@ -79,7 +77,7 @@ updated: 2026-09-16
 > 建构性对齐（Constructive Alignment）是 Biggs 提出的课程与评价系统设计原则。“建构性”指学习者通过主动开展认知与实践活动[[Constructed Knowledge\|建构知识]]意义；“对齐”指教育者围绕预期理解，在课程目标（Intended Learning Outcomes, ILOs）、教学／学习活动（[[Teaching and Learning Activities\|teaching/learning activities]], TLAs）与评估任务（Assessment Tasks, ATs）之间建立内在一致的建构性闭环。[[OECD]] 报告进一步将其拓展为涵盖宏观国家资格框架、中观专业全课程架构与微观课堂真实性考核的多层级对齐工程。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 63–66)]]; [[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 6–8)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 建构性对齐把教育过程视为相互作用的生态系统，用同一组可观察的认知动词（如分析、评价、创新设计、批判[[Hypothesis\|假设]]）统整预期结果、学习经历与评价载体。
+> - **含义** 建构性对齐把教育过程视为相互作用的生态系统，用同一组可观察的认知动词（如分析、评价、创新设计、批判假设）统整预期结果、学习经历与评价载体。
 > - **用途** 帮助课程设计者诊断目标（宣称培养[[Higher-Order Thinking Skills\|高阶思维]]）、教学（教师单向事实讲授）与考试（低阶客观题[[Rote Learning\|死记硬背]]）之间的结构性脱节，并通过正向[[Assessment Backwash\|评价反拨]]驱动[[Surface and Deep Learning\|深层学习]]。
 > - **多层级拓展** 从单一微观课程模块，上升为宏观国家资格框架（如 [[European Qualifications Framework\|EQF]]）、中观专业全课程体系（如 [[TESTA Project\|TESTA]]）与微观课堂评价量规（如 VALUE）的全链条贯通。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 6–8, 26–28)]]
 > - **边界** 对齐只保障课程系统内部的逻辑协同与实现概率，不能代替对目标本身的价值判断，也不能自动抹平学生的个体背景差异。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 64, 73–74)]]
@@ -107,7 +105,7 @@ updated: 2026-09-16
 
 > [!theory-components] 建构性对齐的四大理论构件
 > - **学生主动建构意义（Constructive Aspect）** 学习质量取决于学生如何主动组织、应用、检验和批判知识；教师无法将理解直接灌输给学生，只能通过创设适切的任务情境激发相应心智活动。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 60–63)]]
-> - **用可观察的表现界定目标（Aligned ILOs）** 课程目标必须用具体的认知动词清晰表述（如“能提出[[Hypothesis\|假设]]并设计对照实验”、“能辨析相互冲突的论据”），而非模糊列出所要覆盖的知识点。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 64–67)]]
+> - **用可观察的表现界定目标（Aligned ILOs）** 课程目标必须用具体的认知动词清晰表述（如“能提出假设并设计对照实验”、“能辨析相互冲突的论据”），而非模糊列出所要覆盖的知识点。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 64–67)]]
 > - **创设驱动目标动词的教学活动（Aligned [[Teaching and Learning Activities\|TLAs]]）** 教学安排必须为学生提供反复实践目标动词的机会，无论是教师主导示范、同伴合作探究还是个体独立研究。
 > - **[[Criterion-Referenced Test\|标准参照]]的定性评价（Aligned ATs）** 考核任务必须直接要求学生在真实情境中展示目标表现，并依据公开的定性量规判断表现质量，彻底摒弃破坏对齐的常模曲线评分。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 64–68)]]
 
@@ -128,7 +126,7 @@ updated: 2026-09-16
 > [!taxonomy] 图 2 中的 A–D 理解质量与表现标准
 > | 等级 | 理解质量 | 可观察表现 |
 > |---|---|---|
-> | **A (拓展抽象)** | 达到本阶段合理期待的最高水平 | 提出[[Hypothesis\|假设]]、迁移到较远陌生领域、形成新理论见解、联系跨学科基本原则 |
+> | **A (拓展抽象)** | 达到本阶段合理期待的最高水平 | 提出假设、迁移到较远陌生领域、形成新理论见解、联系跨学科基本原则 |
 > | **B (关联结构)** | 理解充分，整体表现优良 | 解释机制、整合多源信息解决复杂问题、系统比较与批判分析 |
 > | **C (多点结构)** | 具备较完整的陈述性理解 | 展开说明、罗列事实、分类描述并覆盖主要大纲知识点 |
 > | **D (单点结构)** | 达到最低可接受水平 | 以孤立识别和简单记忆为主；高阶任务未能完整展开 |
@@ -234,7 +232,7 @@ updated: 2026-09-16
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心理论判定 | 适用分析情境 | 代表学者与[[Document\|文献]] |
+> | 命题类型 | 核心理论判定 | 适用分析情境 | 代表学者与文献 |
 > |---|---|---|---|
 > | **活动中介** | 学生的实际认知活动是连接教学安排与理解质量的直接中介 | 课堂教学法设计、学习过程分析 | [[Argument_Biggs_1999_HERD\|Biggs (1999, p. 60)]] |
 > | **动词统整** | 同一组认知动词为目标、活动与评估提供一致的[[Operationalization\|操作化]]标记 | 教学大纲编制、学习成果对齐 | [[Argument_Biggs_1999_HERD\|Biggs (1999, p. 64)]] |
@@ -285,7 +283,7 @@ updated: 2026-09-16
 
 ## 相关研究
 
-> [!evidence-grid] 相关[[Document\|文献]]索引
+> [!evidence-grid] 相关文献索引
 > - [[Argument_Biggs_1999_HERD\|Biggs (1999)]] — 建构性对齐理论的奠基性文献，系统阐明目标动词、活动选择、[[Criterion-Referenced Test\|标准参照评估]]、[[Assessment Backwash\|评估反拨]]及 PBL 与档案袋双路径。
 > - [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] — [[OECD]] 国际报告，将建构性对齐扩展为跨越宏观国家资格框架、中观全课程架构与微观表现评价的多层级治理模型，剖析高教过度考核与增益滞后危机。
 > - [[Argument_Hattie_2015_SOTLP\|Hattie (2015b)]] — 整合[[Success Criteria\|成功标准]]（$d=0.77$）、表层/[[Surface and Deep Learning\|深层学习]]配置（$d=0.71$）与反馈循环（$d=0.73$）的[[Meta-analysis\|元分析]]证据，丰富了对齐的心理测量学与教学法机制。

@@ -9,7 +9,7 @@ aliases:
 summary: "元科学与科技资助机制设计中的非共识突破型评审工具；赋予每位评审委员会专家一张具有绝对自由裁量权的“金券”，允许其在缺乏群体共识甚至遭遇广泛质疑的情况下，强行全额资助一项极具争议的高风险前沿提案，以制度化打破同行评议追求均值妥协的避险平庸化陷阱。"
 type: concept
 domain: "science-policy"
-related_count: 16
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Academic Risk Aversion]]"
   - "[[Portfolio-Based Research Funding]]"
   - "[[Reliability]]"
-  - "[[Document]]"
   - "[[Seniority Barrier in Academia]]"
   - "[[Portable Fellowship]]"
 related_theories: []
@@ -45,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Golden Ticket Mechanism
@@ -118,7 +117,7 @@ updated: 2026-10-07
 > [!ref-table]- 金券机制与同行评议偏倚实证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究[[Document\|文献]] | 样本与情境 | 考察指标与设计 | 原始实证结果 | 理论解释边界 |
+> | 研究文献 | 样本与情境 | 考察指标与设计 | 原始实证结果 | 理论解释边界 |
 > |:---|:---|:---|:---|:---|
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 27)]] | 全球 1990–2024 年联邦自然科学资助评审打分分布追踪 | 评委间评分方差（Variance）与后续突破性论文（Top 1% 引文及专利）相关性分析 | 在评审阶段评委打分分化最严重（方差最大）的争议项目，在十年后产出颠覆性成果的概率显著高于全票高分共识项目 | 实证确立高争议性是非共识突破的前兆，证明均值打分淘汰争议项目的严重体制缺陷 |
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 28)]] | 德国大众汽车基金会（VolkswagenStiftung）与前沿先导项目试点 | 引入金券机制（Golden Ticket）前后非传统学科交叉与青年学者获资助比例对比 | 金券机制的引入使高风险非主流方案的立项比例从不足 3% 跃升至 18%，青年第一完成人占比提高 35% | 验证金券机制打破[[Seniority Barrier in Academia\|资历垄断]]与名校学术藩篱的制度实效 |
@@ -128,7 +127,7 @@ updated: 2026-10-07
 ## 命题总览
 
 > [!contrast-table] 金券机制核心命题归纳
-> | 命题维度 | 核心命题名称 | 关键作用机制 | 核心论证[[Document\|文献]] |
+> | 命题维度 | 核心命题名称 | 关键作用机制 | 核心论证文献 |
 > |:---|:---|:---|:---|
 > | **病灶剖析** | **共识平庸化与避险淘汰** | 均值打分将争议视为缺陷，迫使学者退守无争议增量研究 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 26–28)]] |
 > | **机制设计** | **极端价值捕获与非对称赋权** | 赋予评委单人立项特权，在制度上匹配科学突破的幂律分布特征 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 27–28)]] |

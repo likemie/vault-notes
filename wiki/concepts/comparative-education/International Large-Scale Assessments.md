@@ -9,10 +9,10 @@ aliases:
 summary: "由政府间组织或跨国学术联盟（如 OECD、IEA）主持，采用标准化跨文化心理测量学技术（如 IRT、矩阵抽样）与代表性概率抽样，对不同国家和地区的学生或成年人群体的认知素养与背景变量进行系统测度与比较分析的大型评价范式。作为“硬事实施展软权力”与数字治理的物质技术中枢，推动全球教育从“投入要素规制”迈向“基于产出与排名的绩效规制”，但亦因诱发 PISA 冲击、课程狭窄化及全球趋同而饱受批判。"
 type: concept
 domain: "comparative-education"
-related_count: 41
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 39
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - concept/comparative-education
   - theme/educational-evaluation
@@ -36,14 +36,12 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Endogenous and Exogenous Privatisation]]"
-  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Questionnaire]]"
   - "[[Item Response Theory]]"
   - "[[Hierarchical Linear Model]]"
   - "[[Random Sampling]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Ethnography]]"
   - "[[Effect Size]]"
   - "[[Correlational Research]]"
@@ -70,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # International Large-Scale Assessments
@@ -193,7 +191,7 @@ updated: 2026-10-07
 > - **2014 年全球百名学者致[[Andreas Schleicher\|施莱歇尔]]公开信** 著名教育学者联合致信抨击[[OECD\|经合组织]] [[PISA]] 测评严重加剧了全球学生与教师的心理焦虑，将公共学校异化为跨国[[Endogenous and Exogenous Privatisation\|教育私有化]]资本与商业测试公司的牟利车间。
 
 > [!warning] 适用局限
-> ILSAs 仅能测量特定横截面时点上的可[[Coding in Qualitative Research\|编码]]认知技能；它既无法测量学校在品格、道德与公民责任维度的隐性培育价值，亦不能代替长周期的微观质性教育[[Ethnography\|人类学研究]]。
+> ILSAs 仅能测量特定横截面时点上的可编码认知技能；它既无法测量学校在品格、道德与公民责任维度的隐性培育价值，亦不能代替长周期的微观质性教育[[Ethnography\|人类学研究]]。
 
 ---
 
@@ -204,7 +202,7 @@ updated: 2026-10-07
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024, pp. 547–548)]] | 挪威国家能力课程改革（5 个专家委员会[[Document\|文献]] vs 教育部法定行政法令） | 政策咨询引文网络全样本追踪 | 国际组织测评工具文献垄断率 | 专家委员会引用的 464 篇文献在最终法令中仅存 22 篇，而仅存的 22 篇中有 20 篇全部来自专门审议 [[OECD]] ILSAs 衍生项目（[[Definition and Selection of Competencies\|DeSeCo]]）的单一委员会 | 全样本审查 | 实证揭示主权国家行政当局在决策阶段对跨国大规模测评体系衍生指标具有绝对压倒性的引用偏好 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024, pp. 547–548)]] | 挪威国家能力课程改革（5 个专家委员会文献 vs 教育部法定行政法令） | 政策咨询引文网络全样本追踪 | 国际组织测评工具文献垄断率 | 专家委员会引用的 464 篇文献在最终法令中仅存 22 篇，而仅存的 22 篇中有 20 篇全部来自专门审议 [[OECD]] ILSAs 衍生项目（[[Definition and Selection of Competencies\|DeSeCo]]）的单一委员会 | 全样本审查 | 实证揭示主权国家行政当局在决策阶段对跨国大规模测评体系衍生指标具有绝对压倒性的引用偏好 |
 
 ---
 

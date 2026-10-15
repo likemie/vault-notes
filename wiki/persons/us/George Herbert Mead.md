@@ -8,10 +8,10 @@ summary: "美国哲学家、社会心理学家与社会学家，实用主义哲�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 32
-person_related_level: 4
-person_related_stars: "⭐⭐⭐⭐"
-person_related_color: "#fce7f3"
+person_related_count: 29
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "1863"
 died: "1931"
 lifespan: "1863–1931"
@@ -30,12 +30,10 @@ related_concepts:
   - "[[Progressive Education]]"
   - "[[Reflexivity]]"
   - "[[Positivism]]"
-  - "[[Hypothesis]]"
   - "[[Ontology]]"
   - "[[Rich and Thick Description]]"
   - "[[Social Regime]]"
   - "[[Mind and Its Wonders]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Phenomenon-Based Learning]]"
   - "[[Lesson Study]]"
 related_theories:
@@ -50,7 +48,6 @@ related_methods:
   - "[[Correlational Research]]"
 related_persons:
   - "[[Michael Gove]]"
-  - "[[Isaiah Berlin]]"
   - "[[John Dewey]]"
   - "[[Erving Goffman]]"
 related_facts:
@@ -90,7 +87,7 @@ updated: 2026-10-15
 > - **1863年** 出生于美国马萨诸塞州南哈德利一个公理会牧师与学者家庭，父亲为神学教授，母亲曾任曼荷莲学院（Mount Holyoke College）院长。
 > - **1879–1883年** 就读于俄亥俄州奥伯林学院（Oberlin College），毕业后曾从事乡村学校教师、家庭教师与威斯康星中央铁路勘测测绘员等职业。
 > - **1887–1888年** 进入哈佛大学深造，研读哲学与心理学，受教于乔赛亚·罗伊斯（Josiah Royce）与威廉·詹姆斯（William James），确立了对反思意识与经验心理学的浓厚兴趣。
-> - **1888–1891年** 游学德国，先后在莱比锡大学和[[Isaiah Berlin|柏林]]大学学习生理心理学、[[Epistemology\|认识论]]与国民经济学，深受威廉·冯特（Wilhelm Wundt）的手势（Gestures）理论启迪。
+> - **1888–1891年** 游学德国，先后在莱比锡大学和柏林大学学习生理心理学、[[Epistemology\|认识论]]与国民经济学，深受威廉·冯特（Wilhelm Wundt）的手势（Gestures）理论启迪。
 > - **1891–1894年** 经[[John Dewey\|约翰·杜威]]（[[John Dewey]]）引荐受聘于密歇根大学担任哲学与心理学讲师，结识查尔斯·霍顿·库利（Charles Horton Cooley），萌发“镜中我”与社会自我的互动思索。
 > - **1894–1931年** 随杜威一同移席新成立的芝加哥大学，在此执教长达37年。在此期间担任赫尔之家（Hull House）重要参与者与财务主管，与简·亚当斯（Jane Addams）紧密协作推动劳动立法、移民融合与[[Progressive Education\|进步主义教育]]改革实验。
 > - **1931年** 4月26日因心力衰竭逝世于芝加哥。因支持哲学系同仁抗议罗伯特·哈钦斯（Robert Hutchins）与莫蒂默·阿德勒（Mortimer J. Adler）的新托马斯主义改革而刚递交辞呈，原定转往哥伦比亚大学执教未果。
@@ -119,7 +116,7 @@ updated: 2026-10-15
 ## 核心思想
 
 > [!claim] 核心主张
-> 米德主张，人类不仅生存于由驱力与生物本能支配的“自然世界”，更居住在由语言与象征符号赋予意义的“社会世界”之中。人类自我的本质并非生物遗传或孤立内省的产物，而是在微观人际互动中通过“扮演他人的角色”（taking the role of the other）持续协商与[[Reflexivity\|反思性]]建构的社会过程。[[Symbolic Interactionism\|符号互动论]]将微观人际“互动本身”确立为经验研究的基本单位，坚决摒弃将人视作机械被动有机体的[[Positivism\|实证主义]][[Hypothesis\|假设]]，确立了行动者主动解释情境、赋予意义并能动建构社会现实的完整主体形象。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]; [[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 7]]
+> 米德主张，人类不仅生存于由驱力与生物本能支配的“自然世界”，更居住在由语言与象征符号赋予意义的“社会世界”之中。人类自我的本质并非生物遗传或孤立内省的产物，而是在微观人际互动中通过“扮演他人的角色”（taking the role of the other）持续协商与[[Reflexivity\|反思性]]建构的社会过程。[[Symbolic Interactionism\|符号互动论]]将微观人际“互动本身”确立为经验研究的基本单位，坚决摒弃将人视作机械被动有机体的[[Positivism\|实证主义]]假设，确立了行动者主动解释情境、赋予意义并能动建构社会现实的完整主体形象。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]; [[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 7]]
 
 > [!feature] 符号互动论的三大基本公设（Woods, 1979）
 > 符号互动论在教育与社会探究中确立了三大不可动摇的[[Ontology\|本体论]]与[[Epistemology\|认识论]]前提（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch. 1）：
@@ -159,7 +156,7 @@ updated: 2026-10-15
 > [!influence-path] 影响路径
 > - **理论路径** 思想经赫伯特·布鲁默（Herbert Blumer）提炼为“[[Symbolic Interactionism\|符号互动论]]”学派，并启发了埃尔温·[[Michael Gove\|戈夫]]曼（[[Erving Goffman]]）的拟剧论（Dramaturgy）与霍华德·贝克尔（Howard S. Becker）的标签理论（Labeling Theory），成为社会学[[Interpretive Paradigm\|诠释范式]]最具活力的脉系。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
 > - **方法路径** 为学校微观[[Ethnography\|民族志]]、师生课堂互动分析提供了观察互动的概念工具（定义情境、角色协调、协商过程），并为[[Grounded Theory\|扎根理论]]（Glaser & Strauss）与质性探究[[Paradigm\|范式]]提供了微观[[Epistemology\|认识论]]辩护。
-> - **跨领域与课程传播** 1990年代被芬兰教育学者[[Transfer Translation Transformation\|转译]]为“[[Pragmatic Constructivism\|实用主义建构主义]]”，直接作为芬兰跨学科[[Phenomenon-Based Learning\|现象本位学习]]（PhBL）的核心课程与心理学基础。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 7–8]]
+> - **跨领域与课程传播** 1990年代被芬兰教育学者转译为“[[Pragmatic Constructivism\|实用主义建构主义]]”，直接作为芬兰跨学科[[Phenomenon-Based Learning\|现象本位学习]]（PhBL）的核心课程与心理学基础。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 7–8]]
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]] — 详细剖析了米德符号互动论三大公设、[[Role-playing\|角色扮演]]、互动研究单位以及其在学校与课堂探究中的独特解释力。
@@ -209,5 +206,5 @@ updated: 2026-10-15
 > | [[Symbolic Interactionism\|符号互动论]] | 理论 | 奠定符号互动论的哲学与社会心理学理论根基，开辟微观互动研究传统。 |
 > | [[Interpretive Paradigm\|诠释范式]] | 理论 | 将人际互动本身确立为研究单位，为质性教育探究奠定能动主体的人性观基石。 |
 > | [[Pragmatic Paradigm\|实用主义范式]] | 理论 | 推进古典实用主义与社会行为主义融合，阐明行动、心智与环境的共生适应。 |
-> | [[Phenomenon-Based Learning\|现象本位学习]] | 课程 | 其心身统一与环境共生互动的思想，被芬兰课程改革[[Transfer Translation Transformation\|转译]]为现象教学的心理学依托。 |
+> | [[Phenomenon-Based Learning\|现象本位学习]] | 课程 | 其心身统一与环境共生互动的思想，被芬兰课程改革转译为现象教学的心理学依托。 |
 

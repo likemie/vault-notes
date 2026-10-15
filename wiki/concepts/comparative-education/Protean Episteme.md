@@ -9,7 +9,7 @@ aliases:
 summary: "安德烈亚斯·卡扎米亚斯用希腊神话普罗透斯隐喻界定的比较教育学认识论特征，指学科在两百余年演进中因应不同时代的认识论、方法论与意识形态风尚而持续变换形态与论述代际"
 type: concept
 domain: "comparative-education"
-related_count: 56
+related_count: 54
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -44,10 +44,8 @@ related_concepts:
   - "[[Causality]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Operationalization]]"
-  - "[[Document]]"
   - "[[Postpositivism]]"
   - "[[Construct]]"
-  - "[[Attrition]]"
   - "[[Comparative History of Comparative Education]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -83,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Protean Episteme
@@ -249,7 +247,7 @@ updated: 2026-10-12
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 155–156; 征引 Larsen, 2001)]] | 1955–1994 年发表于三大旗舰学术期刊（IJED, CE, CER）的近 2000 篇论文 | 长期期刊[[Content Analysis\|内容分析]]与学科计量调查 | 依赖史学编纂与历史研究的论文占比 | 1955–1994 年全期历史研究论文占比仅为 10.5%；1985–1995 年近十年间历史研究论文占比跌破 5% | — | 实证证实战后比较教育学中历史维度遭受断崖式放逐，为“历史健忘症”提供了确凿的学科[[Document\|文献]]计量基准 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 155–156; 征引 Larsen, 2001)]] | 1955–1994 年发表于三大旗舰学术期刊（IJED, CE, CER）的近 2000 篇论文 | 长期期刊[[Content Analysis\|内容分析]]与学科计量调查 | 依赖史学编纂与历史研究的论文占比 | 1955–1994 年全期历史研究论文占比仅为 10.5%；1985–1995 年近十年间历史研究论文占比跌破 5% | — | 实证证实战后比较教育学中历史维度遭受断崖式放逐，为“[[Historical Amnesia\|历史健忘症]]”提供了确凿的学科文献计量基准 |
 > | [[Argument_Rust_2009_Reflections\|Rust et al. (2009, pp. 131–132)]] | 1960s–1990s 主流比较教育期刊论文全样本 | 跨年代期刊实证内容分析 | 理论[[Paradigm\|范式]]与母学科分布 | 1960 年代结构功能主义一统天下瓦解，1990 年代演变为 26 种理论范式共存（[[Positivism\|实证主义]] 40.5%、[[Postpositivism\|后实证主义]] 36.1%、非实证主义 23.4%） | — | 展现了学科从单一实证垄断走向多元并存的普罗透斯式理论面貌，反映出研究者母学科认同的深刻重构 |
 
 ---
@@ -274,7 +272,7 @@ updated: 2026-10-12
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯系统界定普罗透斯式认识体系，以此统摄比较教育学从启蒙发端至世纪之交的四重论述代际演化，并以实证计量数据诊断学科历史维度的[[Attrition|流失]]与“[[Historical Amnesia|历史健忘症]]”危机。
-> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 考掘比较教育学在近代比较学科群中的演进轨迹，依托大规模[[Document|文献]]计量证实单一实证[[Scientific Paradigm|科学范式]]垄断瓦解以及 26 种理论传统并存的“[[Pluralism|健康多元主义]]”。
+> - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯系统界定普罗透斯式认识体系，以此统摄比较教育学从启蒙发端至世纪之交的四重论述代际演化，并以实证计量数据诊断学科历史维度的流失与“[[Historical Amnesia|历史健忘症]]”危机。
+> - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 考掘比较教育学在近代比较学科群中的演进轨迹，依托大规模文献计量证实单一实证[[Scientific Paradigm|科学范式]]垄断瓦解以及 26 种理论传统并存的“[[Pluralism|健康多元主义]]”。
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 剖析比较教育科学[[Paradigm|范式]]的兴起动因、四大派别在目标与法则上的[[Epistemology|认识论]]分裂，揭示实证量化模式沦为国家机器[[Social Science as Legitimation Alibi|合法化借口]]的深层机制。
 > - [[Argument_Cowen_2009_HistoryCreation|Cowen (2009a)]] — 考恩诊断学科史编纂的档案隐蔽与材料匮乏困境，提出走向“[[Comparative History of Comparative Education|比较教育学的比较史]]”，与卡扎米亚斯普罗透斯认识体系的历史反思紧密呼应。

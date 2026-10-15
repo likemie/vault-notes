@@ -10,7 +10,7 @@ aliases:
 summary: "个体对其产生创造性想法、解决复杂不良结构问题以及实现创新成果的能力所持有的主观信心与自我效能信念；是连接创造潜能向显性创造表现转化的核心外认知动力中介。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 52
+related_count: 51
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -67,7 +67,6 @@ related_methods:
 related_instruments:
   - "[[Abbreviated Torrance Test for Adults]]"
   - "[[Test for Creative Thinking-Drawing Production]]"
-  - "[[Consensual Assessment Technique]]"
   - "[[Problem Solving Inventory]]"
 related_persons:
   - "[[Albert Bandura]]"
@@ -80,7 +79,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Creative Self-Efficacy
@@ -203,7 +202,7 @@ updated: 2026-10-08
 > 探讨创造性自我效能感在实证测评中的测量学风险与矫正策略。
 
 > [!claim] Park et al.; Podsakoff et al.
-> **共同方法变异对效能感相关的人为人为放大** 三水平元分析表明，当创造力与[[Critical Thinking\|批判性思维]]等构念均采用自陈主观测量（如 CSE 量表与自陈思维[[Questionnaire\|问卷]]）时，合并相关高达 $r = 0.509$；而当采用双客观任务表现测验时，相关回落至真实的认知重叠水平（$r = 0.317$），测量类型主效应高度显著（$Q_M(1) = 10.133, p = .002$）。这表明单靠自陈问卷测量创造性自我效能感，极易受到社会赞许性、积极自我偏差及 Likert 量表格式所引发的[[Common Method Variance\|共同方法变异]]（CMV）污染。科学的测评必须将自陈 CSE 量表与标准化发散表现测验（如 [[Abbreviated Torrance Test for Adults\|ATTA]]、[[Test for Creative Thinking-Drawing Production\|TCT-DP]]）或专家产品评定（[[Consensual Assessment Technique\|CAT]]）相结合。[[Argument_Park_2026_TSC\|(Park et al., 2026, pp. 8–10)]]
+> **共同方法变异对效能感相关的人为人为放大** 三水平元分析表明，当创造力与[[Critical Thinking\|批判性思维]]等构念均采用自陈主观测量（如 CSE 量表与自陈思维[[Questionnaire\|问卷]]）时，合并相关高达 $r = 0.509$；而当采用双客观任务表现测验时，相关回落至真实的认知重叠水平（$r = 0.317$），测量类型主效应高度显著（$Q_M(1) = 10.133, p = .002$）。这表明单靠自陈问卷测量创造性自我效能感，极易受到社会赞许性、积极自我偏差及 Likert 量表格式所引发的[[Common Method Variance\|共同方法变异]]（CMV）污染。科学的测评必须将自陈 CSE 量表与标准化发散表现测验（如 [[Abbreviated Torrance Test for Adults\|ATTA]]、[[Test for Creative Thinking-Drawing Production\|TCT-DP]]）或专家产品评定（CAT）相结合。[[Argument_Park_2026_TSC\|(Park et al., 2026, pp. 8–10)]]
 
 ---
 

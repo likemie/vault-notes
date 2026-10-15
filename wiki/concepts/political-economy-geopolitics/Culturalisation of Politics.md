@@ -5,7 +5,7 @@ aliases:
 summary: "Chen (2023) 提出的概念，政权以文化、历史和传统话语包装政治控制，替代公开的政治意识形态论证"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 13
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Zhonghua Minzu]]"
   - "[[Sinicisation]]"
   - "[[Filial Piety]]"
-  - "[[Benevolence]]"
   - "[[Patriotic Education]]"
   - "[[Avatar]]"
   - "[[Pride in Learning]]"
@@ -37,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-25'
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Culturalisation of Politics
@@ -70,7 +69,7 @@ updated: 2026-10-07
 > [!contrast-table] 政治文化化与相关政策导向对比
 > | 比较维度 | 政治的文化化 | 显性政治意识形态教育 | 多元文化主义（通识科时代） |
 > |---|---|---|---|
-> | **课程表现形式** | 灌输儒家八德（[[Filial Piety\|孝]]、[[Benevolence\|仁]]）、强调传统文化服务国家软实力（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp.150–151]]）。 | 直接宣讲宪法主权、国家安全红线、守法义务（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.149]]）。 | 承认流变的多重身份、探讨移民社会的多元文化共生（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.150]]）。 |
+> | **课程表现形式** | 灌输儒家八德（[[Filial Piety\|孝]]、仁）、强调传统文化服务国家软实力（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp.150–151]]）。 | 直接宣讲宪法主权、国家安全红线、守法义务（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.149]]）。 | 承认流变的多重身份、探讨移民社会的多元文化共生（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.150]]）。 |
 > | **核心治理逻辑** | 将顺从包装为天经地义的文化伦理，以文化归属掩盖制度性不满。 | 诉诸国家的行政与法治强制力，划定不容逾越的法律红线。 | 鼓励理性批判、多角度探究，培养参与式公民。 |
 > | **教科书管理** | 实行统一前置审查，确保本质化文化观的主导权。 | 强制使用通过审查的官方国安教材。 | 豁免前置评审，学校与教师可自主开发多元材料。 |
 
@@ -105,7 +104,7 @@ updated: 2026-10-07
 
 > [!claim] Vickers, 2024
 > **美德[[Discourse|话语]]对政[[Governmentality\|治理性]]辩论的替代与接管**
-> - **道德说教对法治边界探讨的置换** 官方在[[Citizenship and Social Development\|公民与社会发展科]]教材中，以灌输包括孝、[[Benevolence\|仁]]、义、礼等在内的个人道德特质，系统替换了通识科时代以《基本法》为核心的法治边界划分和政治能动性探究。顺从被重新定义为对家庭和国家整体的文化反哺义务（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp.150–151]]）。
+> - **道德说教对法治边界探讨的置换** 官方在[[Citizenship and Social Development\|公民与社会发展科]]教材中，以灌输包括孝、仁、义、礼等在内的个人道德特质，系统替换了通识科时代以《基本法》为核心的法治边界划分和政治能动性探究。顺从被重新定义为对家庭和国家整体的文化反哺义务（[[Argument_Vickers_2024_CE\|Vickers, 2024, pp.150–151]]）。
 > - **本质化种族叙事对主权的证成** 强调香港与内地的种族同源同种（“炎黄子孙”），利用不平等条约的历史脉络强加“香港从未是殖民地”的官方叙事，使顺从北京的管治权成为不可抗拒的血脉归属与道德责任（pp.149, 154）。
 
 ---

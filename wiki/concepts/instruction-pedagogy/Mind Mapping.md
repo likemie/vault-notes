@@ -11,7 +11,7 @@ aliases:
 summary: "围绕单一中心概念向外辐射多级分支，借助色彩、关键词与自由联想规则外显化非线性思维过程的低认知开销空间视觉组织工具。在创造力干预与高阶思维培养中，它以极简拓扑结构最大化降低认知负荷，是激发发散思维与概念远距组合的核心教学支架。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 38
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -52,7 +52,6 @@ related_theories:
   - "[[Cognitive Load Theory]]"
 related_methods:
   - "[[Meta-analysis]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Experimental Research]]"
   - "[[Three-Level Meta-Analysis]]"
   - "[[Prediction Interval]]"
@@ -67,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-10-03
+updated: 2026-10-15
 ---
 
 # Mind Mapping
@@ -118,7 +117,7 @@ updated: 2026-10-03
 > 1. **单一中心主题（Central Theme）** 居于画布中央的核心图像或核心关键词，作为所有思维发散的原点与认知锚点。
 > 2. **主干与多级分支（Main & Sub-branches）** 从中心向外辐射的一级主干（主要范畴）与逐级细化的次级分支，以树状拓扑表征层级包含关系。
 > 3. **节点关键词（Keywords）** 每一分支线上仅保留精炼的单个关键词或短语，避免整句长文本对[[Working Memory\|工作记忆]]造成的非必要阅读负荷。
-> 4. **视觉强化[[Coding in Qualitative Research\|编码]]（Color & Visual Coding）** 运用不同色彩区分思维板块，嵌入简笔图标强化视觉注意与语义双重编码（[[Dual Coding Theory]]）。
+> 4. **视觉强化编码（Color & Visual Coding）** 运用不同色彩区分思维板块，嵌入简笔图标强化视觉注意与语义双重编码（[[Dual Coding Theory]]）。
 > 5. **放射状自由联结（Radiant Association）** 鼓励发散式联想，摆脱传统线性笔记的书写定势，促进跨范畴思维跳跃。
 
 > [!logic-map]- 思维导图认知负荷释放与发散生成机制
@@ -201,7 +200,7 @@ updated: 2026-10-03
 ## 概念演变
 
 > [!dev-timeline] 思维导图理论与技术应用演进脉络
-> - **1970 年代　托尼·博赞创立放射性思维与经典导图[[Paradigm\|范式]]** Buzan (1974) 出版《Use Your Head》，系统提出单中心、多级主次分支、色彩图像与关键词[[Coding in Qualitative Research\|编码]]的经典脑图模型。
+> - **1970 年代　托尼·博赞创立放射性思维与经典导图[[Paradigm\|范式]]** Buzan (1974) 出版《Use Your Head》，系统提出单中心、多级主次分支、色彩图像与关键词编码的经典脑图模型。
 > - **1990 年代　认知心理学与[[Dual Coding Theory\|双重编码理论]]奠基** Paivio 双重编码理论与神经科学研究证实，视觉-空间维度的图文并茂有助于强化长时记忆痕迹并减轻[[Working Memory\|工作记忆]]负荷。
 > - **2000 年代　数字化导图工具普及** MindManager、XMind、FreeMind 等桌面软件与协作平台[[Emergence\|涌现]]，推动导图在企业[[Brainstorming\|头脑风暴]]与教育教学中大规模普及。
 > - **2017 年　结合概念组合的随机图技术创新** Malycha & Maier (2017) 提出 Random-Map Technique，将思维导图与随机概念刺激相结合，解决了传统导图独创性不足的痛点。
@@ -299,7 +298,7 @@ updated: 2026-10-03
 > | [[Graphic Organizer]] | 概念 | 上位范畴 | 思维导图是认知开销最低、发散效能最强的图形组织器子类别。 |
 > | [[Creativity Training]] | 概念 | 训练载体 | 思维训练类干预以思维导图为核心载体，取得显著创造力增益（$g = 0.762$）。 |
 > | [[Cognitive Load Theory]] | 理论 | 解释机制 | 极简组织语法最大限度降低外在认知负荷，释放[[Working Memory\|工作记忆]]空间。 |
-> | [[Dual Coding Theory]] | 理论 | 认知基础 | 色彩、空间位置与关键词结合激活大脑图文双重[[Coding in Qualitative Research\|编码]]通道。 |
+> | [[Dual Coding Theory]] | 理论 | 认知基础 | 色彩、空间位置与关键词结合激活大脑图文双重编码通道。 |
 > | [[Torrance Tests of Creative Thinking]] | 测量工具 | 效果效标 | Malycha & Maier (2017) 采用 TTCT 检验随机图技术对独创性的显著促进。 |
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 论证 | 实证基石 | 元分析确立思维导图高阶思维促学效应第一（$g = 1.041$）。 |
 > | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | 论证 | 实证基石 | 确立思维导图在思维训练中的核心地位及独立练习内化优势。 |

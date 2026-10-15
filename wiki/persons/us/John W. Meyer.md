@@ -8,7 +8,7 @@ summary: "美国社会学家，斯坦福学派新制度主义与世界社会理�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 42
+person_related_count: 40
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Epistemic Governance]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Hypothesis]]"
   - "[[Hard Power]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Constructivist Paradigm]]"
@@ -42,7 +41,6 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Cosmopolitanism]]"
   - "[[Epistemology]]"
-  - "[[Attrition]]"
 related_theories:
   - "[[World Society Theory]]"
   - "[[Cultural Models]]"
@@ -72,7 +70,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-11
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # John W. Meyer
@@ -140,7 +138,7 @@ updated: 2026-10-09
 > 现代社会的制度变迁、民族国家建构与组织演进，本质上不是各个孤立社会内部技术功能自发演化的产物，而是一个由共享理智化规范构成的世界社会不断向外扩散全球[[Cultural Models|文化模型]]的结果；在此过程中，现代国家、组织与个体被赋予了高度标准化的能动者身份，并通过科学家、专业人士与非政府组织所践行的“[[Otherhood|为他者行动]]”机制，将全球启蒙理性转化为合法性权威，维系着去中心化全球秩序的[[Institutional Isomorphism|制度同构]]与持续运转。
 
 > [!citation-card] 迈耶论孤岛社会对世界理性制度的自发采纳
-> 面对一个[[Hypothesis|假设]]新发现的完全孤立海岛社会，主流社会学理论难以解释其未来的变迁路径。政治现实主义模型长于解释经济与政治层面的兼并、不平等与支配控制，却无法解释由形式上平等、自主且不断扩展的民族国家行动者所构成的现代世界；而世界文化流派则指出，孤岛社会将自发建立起宪法、公民身份、正规学校以及追求增长的经济体制，这源于当代世界文化无处不在的理性说服力与合法性定义。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 103–104)]]
+> 面对一个假设新发现的完全孤立海岛社会，主流社会学理论难以解释其未来的变迁路径。政治现实主义模型长于解释经济与政治层面的兼并、不平等与支配控制，却无法解释由形式上平等、自主且不断扩展的民族国家行动者所构成的现代世界；而世界文化流派则指出，孤岛社会将自发建立起宪法、公民身份、正规学校以及追求增长的经济体制，这源于当代世界文化无处不在的理性说服力与合法性定义。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 103–104)]]
 >
 > *Prevailing social theories [[Accounts|account]] poorly for these changes. Given a dynamic sociocultural system, realist models can account for a world of economic and political absorption, inequality, and domination. They do not well explain a world of formally equal, autonomous, and expansive nation-state actors. (Meyer et al., 1997, p. 174)*
 
@@ -241,4 +239,4 @@ updated: 2026-10-09
 > | [[Epistemic Governance\|知识治理]] | 概念 | 提供理论根基；阐明观念、科学客观性与理性化脚本何以成为全球治理的核心支配机制。 |
 > | [[Robert Arnove\|罗伯特·阿诺夫]] | 人物 | 师生与学术对话；阿诺夫作为其早期学生，既继承其宏观体系视野，又结合[[Dependency Theory\|依附论]]展开现实主义批判。 |
 > | [[Immanuel Wallerstein\|伊曼努尔·沃勒斯坦]] | 人物 | 学术论敌与对立极；共同构成[[World-Systems Theory\|世界体系分析]]在比较教育学中的两大对立流派（共识论 vs 冲突论）。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 学科史定性；将迈耶置于第四阶段话语跨国转向，剖析学校作为全球理性神话与学科历史维度的[[Attrition\|流失]]。 |
+> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 学科史定性；将迈耶置于第四阶段[[Discourse\|话语]]跨国转向，剖析学校作为全球理性神话与学科历史维度的流失。 |

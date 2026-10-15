@@ -7,10 +7,10 @@ summary: "美国统计学家，Cohen’s d 与效应量阈值框架提出者，�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 8
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 born: "1923"
 died: "1998"
 lifespan: "1923–1998"
@@ -21,7 +21,6 @@ tags:
 - psychology
 - region/us
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Visible Learning]]"
 related_theories: []
 related_methods:
@@ -37,7 +36,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: 2026-09-11
+updated: 2026-10-15
 ---
 ## 简介
 
@@ -65,7 +64,7 @@ updated: 2026-09-11
 
 > [!success] 主要贡献
 > - [[Effect Size]] — Cohen 引入并推广了标准化均值差的解释框架，后来教育研究中的 Cohen's d 成为[[Meta-analysis\|元分析]]和 Hattie VL 排名的核心统计语言([[Argument_Allerup_2015_Paideia\|Allerup, 2015, p.43]])。
-> - [[Statistical Significance]] — Cohen 的效应量框架与显著性检验不同：效应量描述差异大小，显著性检验判断观察到的差异是否足以拒绝"无差异"[[Hypothesis\|假设]]；二者只有在给定[[Sample Size Determination\|样本量]]时才发生联系，例如 `t=d√n`([[Argument_Allerup_2015_Paideia\|Allerup, 2015, p.45]])。
+> - [[Statistical Significance]] — Cohen 的效应量框架与显著性检验不同：效应量描述差异大小，显著性检验判断观察到的差异是否足以拒绝"无差异"假设；二者只有在给定[[Sample Size Determination\|样本量]]时才发生联系，例如 `t=d√n`([[Argument_Allerup_2015_Paideia\|Allerup, 2015, p.45]])。
 
 ## 思想发展与影响
 

@@ -6,7 +6,7 @@ aliases:
 summary: "大学生将课余经历、活动和自我展示精细投资管理以积累履历资本的竞争逻辑，是高等教育就业竞争向生活全域扩展的表现"
 type: concept
 domain: "higher-education"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,8 +27,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[General Education]]"
 related_theories: []
-related_methods:
-  - "[[Coding in Qualitative Research]]"
+related_methods: []
 related_persons:
   - "[[Yajun Zheng]]"
 related_facts: []
@@ -37,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Economy of Experience
@@ -77,7 +76,7 @@ updated: 2026-10-07
 ## 核心要素
 
 > [!abstract]
-> - **课余生活的工具化** 旅行、实习、志愿服务、社团领导经验等原本与谋职无关的课外活动，被重新[[Coding in Qualitative Research\|编码]]为简历上的"可兑换资产"（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]）
+> - **课余生活的工具化** 旅行、实习、志愿服务、社团领导经验等原本与谋职无关的课外活动，被重新编码为简历上的"可兑换资产"（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]）
 > - **自我呈现的管理** 学生不仅需要积累经验，还需要将这些经验"适当包装以衔接雇主的偏好"——简历撰写、面试表现、人际网络维护均成为履历管理的组成部分
 > - **家庭资源的依赖** 精细投资和包装课余生活需要来自家庭的经济、社会和文化资源的加持——实质上是[[Cultural Capital\|文化资本]]在就业竞争中的兑现过程。优势家庭的学生拥有更多可投资于课余经历的资源，而弱势家庭学生在这一隐性竞争中处于结构性劣势
 
@@ -104,7 +103,7 @@ updated: 2026-10-07
 
 > [!warning]
 > - **阶层不平等的再生产** 履历经济学将就业竞争压力转化为个体的自我管理义务，但不同阶层的学生在投资课余经历方面的起点和资源截然不同。这一概念可能被批评为将结构性不平等自然化为个人能力的差异（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]）
-> - **大学教育的工具化** 当大学生活被完全[[Coding in Qualitative Research\|编码]]为"履历经济学"，[[General Education\|通识教育]]、探索性学习和内在成长的大学原初功能可能被挤出
+> - **大学教育的工具化** 当大学生活被完全编码为"履历经济学"，[[General Education\|通识教育]]、探索性学习和内在成长的大学原初功能可能被挤出
 
 ---
 

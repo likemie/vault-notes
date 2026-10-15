@@ -7,7 +7,7 @@ title: "Argument_Revai_2022_ChangingLandscape"
 argument_key: "Argument_Revai_2022_ChangingLandscape"
 argument_display_title: "The changing landscape of research use in education"
 argument_kind: "book-chapter"
-argument_related_count: 65
+argument_related_count: 62
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -40,7 +40,6 @@ related_concepts:
   - "[[Phronesis]]"
   - "[[Knowledge Co-production]]"
   - "[[Research Utilization]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Engaged Scholarship]]"
   - "[[Knowledge Transfer]]"
   - "[[Heterogeneity]]"
@@ -48,7 +47,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Technical Rationality]]"
   - "[[Champ]]"
-  - "[[Document]]"
   - "[[Interpretive Validity]]"
   - "[[Positivism]]"
   - "[[Professional Judgment]]"
@@ -58,7 +56,6 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Evidence-Informed Decision-Making]]"
-  - "[[Hypothesis]]"
   - "[[Abstract]]"
   - "[[Source of Knowledge]]"
   - "[[Research-Practice Partnership]]"
@@ -134,7 +131,7 @@ updated: 2026-09-24
 > | 理论工具 | 解释功能 |
 > |---|---|
 > | **[[Knowledge Mobilisation]]** | 剖析研究知识通过中介、传播与关系网络进入政策与实践的社会交互全过程，揭示促成[[Research Utilization\|研究利用]]的多元机制与障碍。（pp.18–19） |
-> | **[[Evidence Ecosystem]]** | 将研究生产、综合评价、[[Transfer Translation Transformation\|转译]]中介与实践采纳统摄于具有非线性反馈与自组织演化特征的宏观网络，解释为何局部优化无法自动引发系统性变革。（pp.19–20） |
+> | **[[Evidence Ecosystem]]** | 将研究生产、综合评价、转译中介与实践采纳统摄于具有非线性反馈与自组织演化特征的宏观网络，解释为何局部优化无法自动引发系统性变革。（pp.19–20） |
 > | **[[Engaged Scholarship\|参与式学术与鸿沟建构理论]]（Van de Ven & Johnson, 2006）** | 区分理论-实践脱节的三重解释路径（[[Knowledge Transfer\|知识转移]]问题、知识形态[[Heterogeneity\|异质性]]、[[Knowledge Production\|知识生产]]方式问题），确立多主体知识共创的[[Epistemology\|认识论]]合法性。（p.19） |
 > | **[[Knowledge Mobilisation\|知识动员三代演进模型]]（Best & Holmes, 2010）** | 揭示从单向线性推送、双向伙伴关系到复杂系统模型的嵌套深化路径，为诊断与激活宏观生态提供[[Analytic Framework\|分析框架]]。（pp.18–20） |
 
@@ -148,7 +145,7 @@ updated: 2026-09-24
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **文献考证与理论综述**<br>Conceptual Synthesis & Scoping Review | 系统梳理自 1990 年代以来的国际循证政策[[Document\|文献]]、[[Centre for Educational Research and Innovation\|CERI]] 知识管理系列报告（2000, 2003, 2007）以及卫生、农业与公共行政领域的跨学科[[Knowledge Mobilisation\|知识动员]]模型。（pp.16–22） |
+> | **文献考证与理论综述**<br>Conceptual Synthesis & Scoping Review | 系统梳理自 1990 年代以来的国际循证政策文献、[[Centre for Educational Research and Innovation\|CERI]] 知识管理系列报告（2000, 2003, 2007）以及卫生、农业与公共行政领域的跨学科[[Knowledge Mobilisation\|知识动员]]模型。（pp.16–22） |
 > | **跨国政策问卷调查**<br>Cross-National [[Survey Research]] | 由 OECD [[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]于 2021 年 6 月至 9 月实施，针对 29 个国家的 37 个教育系统教育部开展结构化问卷调查，摸排中介机制、促成举措与制度壁垒。（pp.25–27） |
 > | **半结构化深度访谈**<br>Semi-Structured Key Informant Interviews | 在调查后选取 6 个代表性国家的高级教育行政官员与决策主管进行跟进访谈，验证调查数据[[Interpretive Validity\|解释效度]]并挖掘机制案例。（pp.26–27） |
 
@@ -233,7 +230,7 @@ updated: 2026-09-24
 ### 论证步骤二　单向信息分发无法自发引发实践变革，唯有全系统激活的“证据生态系统”才能保障知识动员的长效运转
 
 > [!claim] 步骤二核心主张
-> [[Knowledge Mobilisation\|知识动员]]已从单向信息分发的线性模型与点状伙伴关系，演进为涵盖评估、综合、[[Transfer Translation Transformation\|转译]]与利用的[[Evidence Ecosystem\|证据生态系统]]；唯有激活系统性使能机制，才能突破微观中介的局限。（pp.18–21）
+> [[Knowledge Mobilisation\|知识动员]]已从单向信息分发的线性模型与点状伙伴关系，演进为涵盖评估、综合、转译与利用的[[Evidence Ecosystem\|证据生态系统]]；唯有激活系统性使能机制，才能突破微观中介的局限。（pp.18–21）
 
 伴随认识论的深化，学术界对知识如何流动的机制探讨也发生了重大[[Paradigm|范式]]转向。学者们逐步认识到，单纯关注如何把研究结果包装得更好无法解决转化梗阻，必须将知识流动置于宏观制度网络中考量。（p.18）
 
@@ -242,7 +239,7 @@ updated: 2026-09-24
 艾伦·贝斯特（Allan Best）与贝弗利·霍姆斯（Beverly Holmes）（Best & Holmes, 2010）提出了知识动员的三代嵌套模型，清晰揭示了动员认知的深化历程：线性模型关注信息推送（Push），视受众为被动容器；关系模型强调搭建伙伴关系与网络，打破社群壁垒；复杂系统模型则统摄前两者，将所有主体置于具有非线性反馈的系统之中。（pp.18–19）
 
 > [!row-contrast] 知识动员三种演进模型之核心特质比照（Best & Holmes, 2010; Levin, 2008）
-> | 演进形态 | 核心[[Hypothesis\|假设]]与操作路径 | 关注焦点与机制取向 | 局限性与突破口 | 代表性历史举措 |
+> | 演进形态 | 核心假设与操作路径 | 关注焦点与机制取向 | 局限性与突破口 | 代表性历史举措 |
 > |---|---|---|---|---|
 > | **线性模型（Linear Model）** | 将信息在正确时间、以适宜格式交付给正确的人（Levin, 2008） | 强调单向分发（Dissemination），以供给侧推力（Push）或需求端拉力（Pull）为主 | 忽视实践情境复杂性，单纯的可及性无法引发决策变革（Langer et al., 2016） | 美国强力推行的早期什么是有效研究所（[[What Works Clearinghouse]], WWC）数据库、初版[[Abstract\|研究摘要]]手册 |
 > | **关系模型（Relationship Model）** | [[Source of Knowledge\|知识来源]]于研究、政策与实践等多方源泉 | 依靠研究-实践伙伴关系（Research-Practice Partnerships, [[Research-Practice Partnership\|RPP]]）、边界跨越者（[[Boundary Spanner\|跨界中介者]]）撮合跨社群互动 | 仅建立人际联结仍不充分，极易受制于组织制度壁垒、时间赤字与权力失衡 | 伦敦大学学院证据确证政策与实践中心（[[EPPI-Centre\|Evidence for Policy and Practice Information and Co-ordinating Centre]], EPPI-Centre）的多方能力培训、新西兰 BES 协作[[Dialogue in Education\|对话]]机制 |
@@ -317,7 +314,7 @@ updated: 2026-09-24
 从知识生产的维度看，让教师与政策制定者深度介入研究设计乃至协同开展知识生产（Co-production / [[Engaged Scholarship]]），被普遍视为破解脱节的最优解（Cooper et al., 2017）。然而，协同生产绝非灵丹妙药，伴随着显著的质量控制困境。（pp.21–22）
 
 > [!tension-table] 知识共创模式的双重张力与治理挑战
-> | 机制维度 | 本土情境收益（Benefits） | 系统治理风险与挑战（Challenges） | 代表[[Document\|文献]]实证支撑 |
+> | 机制维度 | 本土情境收益（Benefits） | 系统治理风险与挑战（Challenges） | 代表文献实证支撑 |
 > |---|---|---|---|
 > | **问题相关性** | 教师与官员全程参与，确保研究直击真实痛点，产生高度的主人翁认同感（Ownership）。 | 研究问题易被短期[[Pragmatic Paradigm\|实用主义]]裹挟，忽视宏观基础性理论建构。 | Cooper et al. (2017) |
 > | **资源与时间投入** | 深化一线教师对教学机理的专业反思，提升循证教学效能。 | 教师与决策者面临严重的时间赤字，缺乏外部专业支持易导致参与流于形式。 | Bell et al. (2010) |

@@ -9,7 +9,7 @@ aliases:
 summary: "大学研究成果与前沿工业创新转化为商业应用与产业扩散的过程。除以 Bayh-Dole Act 为核心的专利排他许可与 TTO 商业化路径外，战后信息技术体系亦证实了公共领域开源披露、强制第二供应商工艺诀窍转移与科研人才跨界流动的决定性作用；当代科技政策进一步依托合作研发协议（CRADA）与其它交易授权（OTA）推动敏捷化与统一许可框架，将技术转移锚定于国家技术主权与本土制造能力。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 67
+related_count: 65
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -56,14 +56,12 @@ related_concepts:
   - "[[University Spin-Out]]"
   - "[[Cold War University]]"
   - "[[National Innovation System]]"
-  - "[[Document]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Developmental Network State]]"
   - "[[Academic Capitalism]]"
   - "[[Systems of Innovation]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
   - "[[Process Tracing]]"
   - "[[Correlational Research]]"
@@ -95,7 +93,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Technology Transfer
@@ -217,7 +215,7 @@ updated: 2026-10-14
 ### 命题三　关系型人员流动与隐性知识交流正在重塑传统交易型技术转移范式
 
 > [!claim] [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]]
-> **从狭义技术转移迈向广义知识交流** 托马斯·乌尔里克森（Tomas Ulrichsen）系统回顾英国与国际实践指出，单纯围绕专利转让和特许权使用费的交易型技术转移正被广义的关系型[[Knowledge Exchange|知识交流]]所取代。由于产业竞争中最前沿的核心工艺往往表现为高度情境化且不可[[Coding in Qualitative Research|编码]]的[[Tacit Knowledge|默会知识]]，人员双向穿梭、联合研发平台共建与网络协同活动展现出远超单一专利授权的创新杠杆价值。政府资助模式亦由此从短期项目制竞争拨款转向长周期公式驱动的稳定能力建设拨款。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 41–46)]]
+> **从狭义技术转移迈向广义知识交流** 托马斯·乌尔里克森（Tomas Ulrichsen）系统回顾英国与国际实践指出，单纯围绕专利转让和特许权使用费的交易型技术转移正被广义的关系型[[Knowledge Exchange|知识交流]]所取代。由于产业竞争中最前沿的核心工艺往往表现为高度情境化且不可编码的[[Tacit Knowledge|默会知识]]，人员双向穿梭、联合研发平台共建与网络协同活动展现出远超单一专利授权的创新杠杆价值。政府资助模式亦由此从短期项目制竞争拨款转向长周期公式驱动的稳定能力建设拨款。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 41–46)]]
 
 ---
 
@@ -338,4 +336,4 @@ updated: 2026-10-14
 > | [[National Research and Resource Facility for Submicron Structures]] | Fact (Organization) | 康奈尔大学国家用户设施，展现开放共享机台与工程咨询的平台型技术转移。 |
 > | [[David C. Mowery]] | Person | 深入研究非专利技术转移机制与战后微电子及互联网演进的代表性科技政策学者。 |
 > | [[Michael Kratsios]] | Person | 白宫科技政策办公室主任，系统提出敏捷技术许可与制造锚定国家科技战略。 |
-> | [[Argument_Mody_2017_MOH\|Mody (2017)]] | Argument | 剖析重资产微电子中心多边平台技术转移与多学科跨界转化的核心[[Document\|文献]]。 |
+> | [[Argument_Mody_2017_MOH\|Mody (2017)]] | Argument | 剖析重资产微电子中心多边平台技术转移与多学科跨界转化的核心文献。 |

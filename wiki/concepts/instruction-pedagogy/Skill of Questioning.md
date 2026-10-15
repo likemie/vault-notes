@@ -11,7 +11,7 @@ aliases:
 summary: "指认识主体在探究过程中有效构思、表达、调整和深化问题的可习得认知程序性技能。区别于作为理智品格的美德，提问技能聚焦于问题结构的精细化与探究路径的定向。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 29
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,7 +23,6 @@ tags:
   - philosophy-of-education
 related_concepts:
   - "[[Epistemology]]"
-  - "[[Teaching Assistant]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Scaffolding]]"
   - "[[Epistemic Virtues and Vices]]"
@@ -38,7 +37,6 @@ related_concepts:
   - "[[Open-Mindedness]]"
   - "[[Counterfactual]]"
   - "[[Man-Computer Symbiosis]]"
-  - "[[Hypothesis]]"
   - "[[Cognitive Deskilling]]"
   - "[[Working Memory]]"
   - "[[Intelligent Tutoring Systems]]"
@@ -60,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Skill of Questioning
@@ -74,7 +72,7 @@ updated: 2026-10-07
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向认知主体识别知识边界、将模糊好奇转化为结构化探究指令并推动深层理解的程序性智力操作能力。
-> - **用途** 帮[[Teaching Assistant|助教]]学论与教育哲学研究者区分可操作的探究技术与深层理智品格，为[[Inquiry-Based Learning|探究式教学]]与人机对话系统设计提供[[Scaffolding|认知支架]]规范。
+> - **用途** 帮助教学论与教育哲学研究者区分可操作的探究技术与深层理智品格，为[[Inquiry-Based Learning|探究式教学]]与人机对话系统设计提供[[Scaffolding|认知支架]]规范。
 > - **边界** 提问技能本身仅关注提问的技术有效性与成功定向，不能保证主体具备诚实、开放或追求真理的德性动机。
 
 > [!citation-card] 善于提问作为通往[[Epistemic Virtues and Vices|理智美德]]的技能基石
@@ -143,7 +141,7 @@ updated: 2026-10-07
 > **多答案追问规约与思想开放技能的习得** 提问技能不仅用于澄清已知，更是打破思维僵化与先入偏见的关键工具。在[[Man-Computer Symbiosis|人机协同]]或教学探究中，通过引导学生构思能够诱导“多个可能答案”而非单一标准答案的开放性问题，并追问不同回答背后的论据支撑，提问技能直接训练了认识主体生成和审视替代性视角的胜任力。这一程序性操作构成了培育[[Open-Mindedness|思想开放]]（Open-Mindedness）[[Epistemic Virtues and Vices|理智美德]]不可或缺的技能阶梯。[[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 273, 278–280)]]
 
 > [!claim] Watson, L.
-> **善于提问作为通向思想开放的大门** 提出好问题本身就是对未知与替代性可能性的开放姿态。善于提问能够帮助探究者主动搜寻反例、倾听被忽视的声音并检验自身前提[[Hypothesis|假设]]，因而构成了实践思想开放美德最有效的外显认知途径。引自 [[Argument_Naeem_2026_Episteme\|Naeem (2026, pp. 273, 278)]]
+> **善于提问作为通向思想开放的大门** 提出好问题本身就是对未知与替代性可能性的开放姿态。善于提问能够帮助探究者主动搜寻反例、倾听被忽视的声音并检验自身前提假设，因而构成了实践思想开放美德最有效的外显认知途径。引自 [[Argument_Naeem_2026_Episteme\|Naeem (2026, pp. 273, 278)]]
 
 ---
 

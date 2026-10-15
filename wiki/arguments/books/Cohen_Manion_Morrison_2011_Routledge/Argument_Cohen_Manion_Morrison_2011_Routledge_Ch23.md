@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23"
 argument_display_title: "Research Methods in Education · Ch23"
 argument_kind: "book-chapter"
-argument_related_count: 69
+argument_related_count: 67
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -60,7 +60,6 @@ related_concepts:
   - "[[Causal Processes]]"
   - "[[Causality]]"
   - "[[Dependent Variable]]"
-  - "[[Document]]"
   - "[[Hawthorne Effect]]"
   - "[[Construct Validity]]"
   - "[[Reflexivity]]"
@@ -82,7 +81,6 @@ related_methods:
   - "[[Qualitative Observation]]"
   - "[[Observation Protocol]]"
   - "[[Inter-Rater Reliability]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Participant Observation]]"
   - "[[Time Sampling]]"
   - "[[Rating Scale]]"
@@ -224,7 +222,7 @@ Patton（1990, p. 202）指出观察数据应使研究者能够进入并理解�
 
 > [!spectrum] 观察类型连续体
 >
-> - **非[[Structured Observation\|结构化观察]]** 不预先清楚要寻找什么，先进入[[Situative Perspective\|情境观]]察正在发生什么，再决定其对研究的意义。**[[Hypothesis\|假设]]生成性（hypothesis-generating）**。
+> - **非[[Structured Observation\|结构化观察]]** 不预先清楚要寻找什么，先进入[[Situative Perspective\|情境观]]察正在发生什么，再决定其对研究的意义。**假设生成性（[[Hypothesis]]-generating）**。
 > - **半结构化观察** 有一个议题清单（agenda of issues），但以远不那么预先决定或系统化的方式收集数据来阐明这些议题。
 > - **结构化观察** 预先知道要寻找什么（预设性观察，pre-ordinate），观察类别已事先制定。**假设验证性（hypothesis-testing）**，用观察数据来验证或反驳假设。
 
@@ -319,7 +317,7 @@ Gold（1958）提出了观察中研究者角色的经典四层分类，排列在
 > - **类别互斥** 类别之间没有重叠。需要通过**预试（pilot）**来制定和检验，以消除类别重叠问题。
 > - **固定时间间隔** 每列代表固定的时间间隔（如30秒），从左到右表示时间序列，研究者必须在每个间隔将数据填入矩阵的适当单元格（见下文的瞬时取样）。
 > - **需要练习** 类别多且需要快速扫描（如每30秒一次），研究者必须练习直到**熟练和一致**，即观察到的行为、环境等**一致地**被填入相同类别，达到[[Reliability\|信度]]。如果有多位研究者，还需要培训以确保[[Inter-Rater Reliability\|评分者间信度]]（inter-rater reliability）。
-> - **[[Coding in Qualitative Research\|编码]]系统** 决定在每个类别中填入什么，打勾（✓）、斜线（/）、反斜线（\）、数字（1, 2, 3）、字母（a, b, c）、计数符号（|）等。编码必须为所有研究者理解，且**简单快速**（符号而非文字）。
+> - **编码系统** 决定在每个类别中填入什么，打勾（✓）、斜线（/）、反斜线（\）、数字（1, 2, 3）、字母（a, b, c）、计数符号（|）等。编码必须为所有研究者理解，且**简单快速**（符号而非文字）。
 
 > [!feature] 结构化观察的五项设计决策
 > - **观察的焦点** 人以及事件
@@ -853,7 +851,7 @@ Silverman（1993）提醒注意主位分析（emic）与客位分析（etic）�
 
 #### 公开与隐蔽观察的伦理争议
 
-[[Covert Research|隐蔽研究]]中存在充分的[[Document|文献]]讨论公开与隐蔽观察之间的困境。公开研究中参与者知道被观察；隐蔽研究中他们不知道。
+[[Covert Research|隐蔽研究]]中存在充分的文献讨论公开与隐蔽观察之间的困境。公开研究中参与者知道被观察；隐蔽研究中他们不知道。
 
 > [!tension] 隐蔽研究的伦理张力：保护个体 vs 保护公共利益
 > - **反对隐蔽研究** 违反[[Informed Consent\|知情同意]]原则、侵犯参与者隐私和私人空间、将参与者工具化，视为研究对象而非主体，使研究者处于歪曲或否认其角色的位置（Mitchell, 1993）。

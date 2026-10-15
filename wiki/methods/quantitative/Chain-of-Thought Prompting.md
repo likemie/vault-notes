@@ -10,7 +10,7 @@ summary: "通过引导大语言模型显式生成逐步推理路径以解决复�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 26
+method_related_count: 24
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -21,13 +21,11 @@ tags:
 related_concepts:
   - "[[Man-Computer Symbiosis]]"
   - "[[Scaffolding]]"
-  - "[[Hypothesis]]"
   - "[[Unit of Analysis]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Epistemology]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Paradigm]]"
-  - "[[Document]]"
   - "[[Externalization]]"
   - "[[Problem Solving]]"
   - "[[Variable]]"
@@ -54,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Chain-of-Thought Prompting
@@ -68,7 +66,7 @@ updated: 2026-10-07
 
 > [!method-scope] 方法范围
 > - **研究对象** 大语言模型的人机交互提示语、复杂推理任务（如统计推论、算法设计、数理证明、逻辑论辩）及学习者的思维链外显记录。
-> - **问题类型** 多步计算、符号推演、[[Hypothesis\|假设]]检验推导、因果链条重构、概念辨析与逻辑查错。
+> - **问题类型** 多步计算、符号推演、假设检验推导、因果链条重构、概念辨析与逻辑查错。
 > - **[[Unit of Analysis\|分析单位]]** 交互轮次（Dialogue Turns）、中间推理节点（Reasoning Steps）、提示语模板与生成文本逻辑流。
 > - **输出形式** 分步推理链条、中间参数推导轨迹、纠错反思文本与最终问题解答。
 
@@ -101,10 +99,10 @@ updated: 2026-10-07
 ## 研究程序
 
 > [!proc] 通用操作程序
-> 1. **任务分解与问题表征** 明确复杂学科任务的核心目标，识别出解决该任务所必需的逻辑子步骤（如在统计[[Hypothesis\|假设]]检验中分解为：假设陈述 $\to$ 尺度诊断 $\to$ 公式选择 $\to$ 自由度与统计量计算 $\to$ 结论裁决）。
+> 1. **任务分解与问题表征** 明确复杂学科任务的核心目标，识别出解决该任务所必需的逻辑子步骤（如在统计假设检验中分解为：假设陈述 $\to$ 尺度诊断 $\to$ 公式选择 $\to$ 自由度与统计量计算 $\to$ 结论裁决）。
 > 2. **提示词模板构建** 选择适宜的 CoT [[Paradigm\|范式]]（零样本或少样本），在提示语中显式嵌入分步要求指令（如：“请按步骤推导[[Analysis of Variance\|方差分析]][[Effect Size\|效应量]] $\omega^2$ 的公式等价性，并明确每个参数在平衡设计下的含义”）。
 > 3. **人机多轮质询与中间链条审查** 学习者逐一审查大模型输出的各推导步骤，针对模糊或存疑环节发起定向追问。
-> 4. **结合外部证据溯源核验** 将思维链中的推导前提与教材、期刊[[Document\|文献]]或原始数据实施交叉比对，排查逻辑跳跃或虚假假设。
+> 4. **结合外部证据溯源核验** 将思维链中的推导前提与教材、期刊文献或原始数据实施交叉比对，排查逻辑跳跃或虚假假设。
 > 5. **整合反思与知识内化** 总结解题图式，将[[Externalization\|外化]]的机器思维链转化为个体内在的高阶[[Problem Solving\|问题解决]]策略。
 
 > [!formula-step] 公式步骤　思维链概率生成与分步条件依赖模型

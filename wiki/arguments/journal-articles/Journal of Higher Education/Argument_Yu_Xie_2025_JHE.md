@@ -17,7 +17,6 @@ tags:
   - theme/internationalization
   - source/journal-article
 related_concepts:
-  - "[[Document]]"
   - "[[Geopolitics of Higher Education]]"
   - "[[Paradigm]]"
   - "[[Ontology]]"
@@ -41,7 +40,6 @@ related_concepts:
   - "[[Scale in Higher Education]]"
   - "[[Geopolitical Subject]]"
   - "[[International Education]]"
-  - "[[Teaching Assistant]]"
   - "[[Cultural Capital]]"
   - "[[Assemblage]]"
   - "[[Emergence]]"
@@ -62,11 +60,9 @@ related_concepts:
   - "[[Zero-Sum Competition]]"
   - "[[Theoretical Standpoint]]"
   - "[[Realism in International Relations]]"
-  - "[[Hypothesis]]"
   - "[[Problem Finding]]"
   - "[[Value Neutrality]]"
   - "[[Determinism]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Literature Review]]"
   - "[[Operationalization]]"
 related_theories:
@@ -99,7 +95,7 @@ title: "Argument_Yu_Xie_2025_JHE"
 argument_key: "Argument_Yu_Xie_2025_JHE"
 argument_display_title: "空间、权力与高等教育：地缘政治视角下的高等教育研究"
 argument_kind: "journal-article"
-argument_related_count: 65
+argument_related_count: 61
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -108,7 +104,7 @@ journal: "高等教育研究"
 ## 研究问题
 
 > [!question]
-> 全球地缘政治竞争加剧正在深刻重塑高等教育的合作发展格局，而中文[[Document\|文献]]中对[[Geopolitics of Higher Education\|高等教育地缘政治]]意义的研究缺乏系统梳理。地缘政治视角在高等教育研究中经历了怎样的发展脉络，围绕哪些关键议题展开，其理论[[Paradigm\|范式]]如何演化？
+> 全球地缘政治竞争加剧正在深刻重塑高等教育的合作发展格局，而中文文献中对[[Geopolitics of Higher Education\|高等教育地缘政治]]意义的研究缺乏系统梳理。地缘政治视角在高等教育研究中经历了怎样的发展脉络，围绕哪些关键议题展开，其理论[[Paradigm\|范式]]如何演化？
 
 > [!claim] 核心主张
 > 高等教育始终具有地缘政治属性，对它的地缘政治研究经历了一个从相对不可见到非自觉再到自觉的转变过程。围绕地缘政治是物质性还是观念性、是科学性（知识）还是实践性（行动）这两个[[Ontology\|本体论]]问题，可分出[[Classical Geopolitics\|传统地缘政治]]与[[New Geopolitics\|新地缘政治]]两种范式，二者并非替代关系而是延续与互补。在当代多极化和碎片化的世界中，高等教育可以发挥能动性，通过积极参与世界空间秩序的建构与重构，为全球共同善作出贡献。
@@ -140,7 +136,7 @@ journal: "高等教育研究"
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **文献综述**<br>Literature Review | 系统梳理国际[[Document\|文献]]中围绕[[Geopolitics of Higher Education\|高等教育地缘政治]]意义的研究成果，按发展脉络、关键议题和理论[[Paradigm\|范式]]三个层面组织。文献覆盖教育学、地缘政治学、人文地理学和社会学等学科。 |
+> | **文献综述**<br>Literature Review | 系统梳理国际文献中围绕[[Geopolitics of Higher Education\|高等教育地缘政治]]意义的研究成果，按发展脉络、关键议题和理论[[Paradigm\|范式]]三个层面组织。文献覆盖教育学、地缘政治学、人文地理学和社会学等学科。 |
 > | **概念分析**<br>Conceptual Analysis | 追溯地缘政治学从[[Classical Geopolitics\|古典地缘政治]]到[[Critical Geopolitics\|批判地缘政治]]再到当代复合形态的理论演变，辨析空间、权力等核心概念在不同范式中的定义差异。 |
 > | **议题整合**<br>Thematic Synthesis | 将分散在不同研究领域（人的培养、[[Knowledge Production\|知识生产]]、学术流动、跨境合作）中的地缘政治分析汇集到统一框架中，揭示其共享的分析逻辑与互补关系。 |
 
@@ -284,7 +280,7 @@ journal: "高等教育研究"
 > 针对芬兰高等教育改革的研究指出，该国政府在全球资本主义的竞争中，积极筹谋、推动大学成为知识经济地缘话语的传播者，通过创设阿尔托大学（Aalto University）等机构来重构学生的主体性，推动学生将自己定位为全球知识经济中的行动者，并据此规划流动路径与职业想象（p.6; Moisio & Kangas, 2016）。
 
 > [!case] 多元社会中的公民身份塑造
-> 在美国和南非等较为多元化的社会中，政府通过资[[Teaching Assistant\|助教]]育系统打造人的公民身份，以在多元和分裂的社会创造可加以有效治理的、具有在特定时刻成为有效公民所需的技能和具备团结意识的政治主体（Staeheli & Hammett, 2010）。在地缘政治竞争日益加剧的时代背景下，各国政府更致力于打造具有全球竞争意识的主体（p.6）。
+> 在美国和南非等较为多元化的社会中，政府通过资助教育系统打造人的公民身份，以在多元和分裂的社会创造可加以有效治理的、具有在特定时刻成为有效公民所需的技能和具备团结意识的政治主体（Staeheli & Hammett, 2010）。在地缘政治竞争日益加剧的时代背景下，各国政府更致力于打造具有全球竞争意识的主体（p.6）。
 
 ---
 
@@ -493,7 +489,7 @@ journal: "高等教育研究"
 
 #### 传统地缘政治的谱系与核心假设
 
-> [!proposition-chain] 传统地缘政治（Traditional Geopolitics）的核心[[Hypothesis\|假设]]链
+> [!proposition-chain] 传统地缘政治（Traditional Geopolitics）的核心假设链
 > - **前提一（社会有机体）** 国家被视为处于自我保护斗争中的有机体，为了生存和繁荣天然地需要生存空间（Lebensraum）（Ratzel, 1896; Kjellén, 1916）。这一假设的源头可追溯到费舍尔的社会达尔文主义和斯宾塞的社会有机体概念。
 > - **前提二（空间容器）** 空间被理解为国家竞争的自然地理容器，即自然地理条件（领土、地形、区位和资源分布）所构成的客观现实，是竞争舞台和被争夺的对象。
 > - **机制** 权力的唯一主体是民族国家，权力的主要体现形式为对军事力量、安全能力和关键空间（领土、通道和资源等）的控制。
@@ -553,7 +549,7 @@ journal: "高等教育研究"
 > - **物质性维度** 回答空间如何被制度装置所构建。高校布局、资源分配与流动基础设施是权力运作的物质化显现。
 > - **表征性维度** 追问这些物质差异如何获得意义与合法性。排名体系和知识规则将不平等自然化为合理的世界图景。
 > - **关系性维度** 揭示这种秩序如何通过多重行动者的博弈持续重组。国家、高校与国际组织在具体实践中的协商塑造了空间的动态演化。
-> - **最终环节** 空间生产不停留在制度或结构层面，而是通过高等教育的核心功能——人的培养——被持续[[Transfer Translation Transformation\|转译]]为主体的认知与情感结构。课程设置、教材叙事、评价制度与校园环境的治理实践，将外在的空间秩序内化为学生对自身位置、他者关系与世界秩序的理解，并在后续的科研实践、流动选择与跨境合作中得到再生产。
+> - **最终环节** 空间生产不停留在制度或结构层面，而是通过高等教育的核心功能——人的培养——被持续转译为主体的认知与情感结构。课程设置、教材叙事、评价制度与校园环境的治理实践，将外在的空间秩序内化为学生对自身位置、他者关系与世界秩序的理解，并在后续的科研实践、流动选择与跨境合作中得到再生产。
 >
 >   高等教育由此构成了一种可持续的空间治理形式，在三个层面同时运作：
 >     - 物质层面，搭建空间项目的制度载体
@@ -591,7 +587,7 @@ journal: "高等教育研究"
 ## 自述局限
 
 > [!warning]
-> 该文是一篇[[Literature Review\|文献综述]]，主要基于国际英文[[Document\|文献]]展开梳理和讨论，中文文献中的[[Correlational Research\|相关研究]]涉及较少。文中对各理论流派的概念和命题进行了系统介绍，但对具体经验研究案例的深入分析有限。论文提出的[[Space Production\|空间生产]]三元维度[[Analytic Framework\|分析框架]]尚属初步整合，其经验适用性和[[Operationalization\|操作化]]路径有待后续研究进一步检验和完善。（p.13）
+> 该文是一篇[[Literature Review\|文献综述]]，主要基于国际英文文献展开梳理和讨论，中文文献中的[[Correlational Research\|相关研究]]涉及较少。文中对各理论流派的概念和命题进行了系统介绍，但对具体经验研究案例的深入分析有限。论文提出的[[Space Production\|空间生产]]三元维度[[Analytic Framework\|分析框架]]尚属初步整合，其经验适用性和[[Operationalization\|操作化]]路径有待后续研究进一步检验和完善。（p.13）
 
 ---
 

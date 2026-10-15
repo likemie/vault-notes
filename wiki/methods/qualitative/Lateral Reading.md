@@ -10,7 +10,7 @@ summary: "由 Wineburg 与 McGrew (2019) 提出的网络信息与证据核验方
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 27
+method_related_count: 25
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Reliability]]"
   - "[[Epistemology]]"
-  - "[[Document]]"
   - "[[Chain of Evidence]]"
   - "[[Counterfactual]]"
   - "[[Dialogue in Education]]"
@@ -45,7 +44,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Discourse Analysis]]"
   - "[[Cross-checking]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Confidence Interval]]"
   - "[[Correlational Research]]"
 related_instruments: []
@@ -56,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Lateral Reading
@@ -88,12 +86,12 @@ updated: 2026-10-07
 > - **知识观** 认为数字化时代的任何单一文本或算法输出在认识论上都具有情境性、利益相关性与潜在脆弱性；文本的客观真实性不能单凭内部语义的自洽性来保证，必须通过外部独立网络的交叉审问来确证。
 > - **研究者与求知者角色** 从被动的“文本信息吸收者”转变为主动的“[[Internet-based Survey\|网络调查]]员与认识论法官”，行使怀疑与[[Triangulation\|三角互证]]的能动权。
 > - **有效性标准** 遵循[[Qualitative Research\|质性研究]]的可[[Reliability\|信度]]（Credibility）与证实性（Confirmability）标准，要求断言必须具备来自异质独立信源的交叉重合证据。
-> - **不声称回答的问题** 横向阅读不负责直接生成原始学术假说，也不替代深度的领域专业[[Document\|文献]][[Meta-analysis\|元分析]]，其核心功能在于批判性过滤与信度裁决。
+> - **不声称回答的问题** 横向阅读不负责直接生成原始学术假说，也不替代深度的领域专业文献[[Meta-analysis\|元分析]]，其核心功能在于批判性过滤与信度裁决。
 
 > [!method-stack] 方法层级
 > - **研究设计** 质性文本考证、数字民俗学、批判性[[Discourse Analysis\|话语分析]]与网络公民推理。
 > - **数据收集** 跨平台开放网页检索、学术引文数据库穿透、公开企业股权与资助数据库核查、大模型对话日志。
-> - **分析方法** 多源交叉比对（[[Cross-checking]]）、来源偏见定性[[Coding in Qualitative Research\|编码]]、[[Chain of Evidence\|证据链]]条重构与论证前提质询。
+> - **分析方法** 多源交叉比对（[[Cross-checking]]）、来源偏见定性编码、[[Chain of Evidence\|证据链]]条重构与论证前提质询。
 > - **辅助工具** 浏览器标签页群组、专业学术检索工具（Google Scholar, Web of Science）、反向图像检索工具与事实核查档案库。
 
 ---
@@ -104,7 +102,7 @@ updated: 2026-10-07
 > 1. **遭遇断言并果断跳出（Leave the Page）** 在阅读可疑网页或大模型给出的自信断言时，抑制在当前界面盲信精细排版的冲动，迅速建立外部新标签页。
 > 2. **溯源信誉与利益关联（Investigate the Source）** 在维基百科、学术期刊数据库及公共监管平台检索该信源的主体性质：该机构由谁资助？作者是否具备该专业资质？其既往研究是否存在重大撤稿或行业偏倚？
 > 3. **检索对立主张与批评（Find Better Coverage）** 使用专业学术限定词与布尔逻辑，主动检索“该论断 + 局限 / 批评 / 争议 / [[Counterfactual\|反事实]]”，查阅主流专业知识共同体对该问题的共识状态与未解决争鸣。
-> 4. **多源[[Triangulation\|三角互证]]与综合裁决（Triangulate & Decide）** 将大模型或初始文本的主张、一手学术[[Document\|文献]]的结论与第三方独立评论并列在对照矩阵中，形成是否采纳该主张的最终评价决策。
+> 4. **多源[[Triangulation\|三角互证]]与综合裁决（Triangulate & Decide）** 将大模型或初始文本的主张、一手学术文献的结论与第三方独立评论并列在对照矩阵中，形成是否采纳该主张的最终评价决策。
 
 ### 质性方法模块
 
@@ -122,7 +120,7 @@ updated: 2026-10-07
 
 > [!method-fit] 适用判断
 > - **适合使用** 
->   1. **[[Man-Computer Symbiosis|人机协同]]学习与学术写作** 学生核验生成式 AI 提供的参考[[Document\|文献]]与统计数据真实性时；[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, p. 8)]]
+>   1. **[[Man-Computer Symbiosis|人机协同]]学习与学术写作** 学生核验生成式 AI 提供的参考文献与统计数据真实性时；[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, p. 8)]]
 >   2. **复杂跨学科公共议题审议** 涉及气候政策、公共卫生疫苗争议或人工智能伦理等高度杂合价值与利益的议题考证；
 >   3. **网络虚假信息与公关伪装识别** 鉴别打着独立科研所旗号的行业利益集团游说网站。
 > - **谨慎使用** 面对涉及高度精密数理推演或前沿纯理论纯逻辑内部有效性审查时，横向阅读只能提供外部信誉线索，最终仍需回归文本内部的形式逻辑演算（垂直阅读）。

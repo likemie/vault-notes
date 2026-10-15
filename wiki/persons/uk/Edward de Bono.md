@@ -9,10 +9,10 @@ summary: "英国/马耳他认知学者、心理学家与思维技术先驱，侧
 type: person
 nationality: "uk"
 person_region: "uk"
-person_related_count: 16
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 14
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
@@ -35,10 +35,8 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Construct]]"
   - "[[Creativity Training]]"
-  - "[[Hypothesis]]"
   - "[[Divergent Thinking]]"
   - "[[Positivism]]"
-  - "[[APA Style]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -52,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Edward de Bono
@@ -103,7 +101,7 @@ updated: 2026-09-22
 ## 核心思想
 
 > [!claim] 核心主张
-> 大脑在生物学本质上是一个为了节省能量而自发建立固定经验模式的“自组织模式形成网络”；逻辑思维（垂直思维）的局限在于它只能沿着既有神经凹槽把旧洞越挖越深，而无法在全新位置开辟新洞。[[Lateral Thinking\|侧向思维]]（水平思考）并不排斥逻辑，而是负责“在逻辑接管之前重新洗牌并开辟全新可能性”；通过引入“激发算子（PO）”、随机输入与反转[[Hypothesis\|假设]]，我们能够人为制造认知失谐、震碎僵化定势，实现[[Creativity\|创造性]]顿悟与高水平[[Cognitive Flexibility\|心智灵活性]]。de Bono (1969, 1970); [[Argument_Guo_2025_TSC\|(Guo et al., 2025, p. 10)]]
+> 大脑在生物学本质上是一个为了节省能量而自发建立固定经验模式的“自组织模式形成网络”；逻辑思维（垂直思维）的局限在于它只能沿着既有神经凹槽把旧洞越挖越深，而无法在全新位置开辟新洞。[[Lateral Thinking\|侧向思维]]（水平思考）并不排斥逻辑，而是负责“在逻辑接管之前重新洗牌并开辟全新可能性”；通过引入“激发算子（PO）”、随机输入与反转假设，我们能够人为制造认知失谐、震碎僵化定势，实现[[Creativity\|创造性]]顿悟与高水平[[Cognitive Flexibility\|心智灵活性]]。de Bono (1969, 1970); [[Argument_Guo_2025_TSC\|(Guo et al., 2025, p. 10)]]
 
 > [!citation-card]- 关键表述
 > 传统的逻辑思维关注‘是什么’以及事物‘对不对’，而侧向思维关注‘可能是什么’以及我们‘如何运动’。如果你只做正确的事，你永远只能停留在原地；为了发现新大陆，你必须先敢于在错误的跳板上短暂停留。de Bono (1970, pp. 2–8)
@@ -133,7 +131,7 @@ updated: 2026-09-22
 > [!debates] 学术争议
 >
 > > [!axis] 通俗实践运动 vs 学院派[[Positivism\|实证主义]]
-> > 心理学学院派早期曾批评德·博诺很少在 [[APA Style\|APA]] 期刊发表传统的双盲受控实验报告，更倾向于直接出版畅销书与培训大众；后继学者的大规模[[Meta-analysis\|元分析]]最终确立了其工具的稳健实证成效。
+> > 心理学学院派早期曾批评德·博诺很少在 APA 期刊发表传统的双盲受控实验报告，更倾向于直接出版畅销书与培训大众；后继学者的大规模[[Meta-analysis\|元分析]]最终确立了其工具的稳健实证成效。
 > >
 > > - **学院派心理学者** 指责其概念包装偏向商业化、缺乏实验心理学精细参数。
 > > - **教育实践与企业界** 盛赞其工具极易落地、跨学科迁移能力极强，真正把思维训练普及到普通大众。

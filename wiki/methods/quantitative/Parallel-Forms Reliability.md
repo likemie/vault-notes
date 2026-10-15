@@ -10,7 +10,7 @@ summary: "使用相似测量工具评估同一构念时所得结果的一致性�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 11
+method_related_count: 10
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -30,15 +30,14 @@ related_methods:
   - "[[Test-Retest Reliability]]"
   - "[[Pearson Product-Moment Correlation]]"
   - "[[Internal Consistency]]"
-related_persons:
-  - "[[Paul Pierson]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Parallel-Forms Reliability
@@ -62,7 +61,7 @@ updated: 2026-10-12
 > [!proc] 复本[[Reliability\|信度]]评估步骤
 > 1. **开发平行版本** 设计两套在测试目标、内容结构、难度水平和区分度上高度趋同的测量工具（如[[Questionnaire\|问卷]] A 卷与 B 卷）。
 > 2. **施测** 对同一组受试者分别使用两套工具进行测量（可同时或间隔施测）。
-> 3. **计算相关系数** 一般使用[[Paul Pierson|皮尔逊]]积矩相关系数（[[Pearson Product-Moment Correlation]]）计算两组得分之间的一致性。
+> 3. **计算相关系数** 一般使用皮尔逊积矩相关系数（[[Pearson Product-Moment Correlation]]）计算两组得分之间的一致性。
 > 4. **判定** 高相关表明两套工具具有复本信度，可互为替代使用。
 
 > [!warning] 前提条件

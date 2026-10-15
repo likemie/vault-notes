@@ -40,11 +40,11 @@ related_persons:
   - "[[David C. Mowery]]"
 related_facts:
   - "[[Ministry of International Trade and Industry]]"
-  - "[[Microelectronics and Computer Technology Corporation]]"
   - "[[Sematech]]"
   - "[[Alvey Programme]]"
   - "[[ESPRIT]]"
   - "[[VLSI Project]]"
+  - "[[Microelectronics and Computer Technology Corporation]]"
 related_arguments:
   - "[[Argument_Grindley_1994_JPAM]]"
 confidence: high
@@ -81,7 +81,7 @@ updated: 2026-10-07
 > - **完全开放的知识产权与国际学术会议** 每年举办国际第五代计算机大会（FGCS），公开所有论文与系统源代码，向全球学术界展示日本基础科研实力。
 
 > [!citation-card] 第五代计算机计划引发的全球协同研发连锁反应
-> 日本第五代计算机计划（5G/ICOT）的宏大愿景对欧美产生了极其深远的战略震撼。这一由政府全额资助的集中式计划，直接促成了美国成立 [[Microelectronics and Computer Technology Corporation|MCC]] 与 [[Sematech]]、英国启动[[Alvey Programme|阿尔维计划]]、欧洲启动 [[ESPRIT]] 等一系列国家级产学研联合体。
+> 日本第五代计算机计划（5G/ICOT）的宏大愿景对欧美产生了极其深远的战略震撼。这一由政府全额资助的集中式计划，直接促成了美国成立 MCC 与 [[Sematech]]、英国启动[[Alvey Programme|阿尔维计划]]、欧洲启动 [[ESPRIT]] 等一系列国家级产学研联合体。
 >
 > *Japan's Fifth Generation (5G) project (1982–1991), with $426 million in full government funding and a centralized research facility (ICOT), catalyzed an international wave of collaborative R&D consortia across the United States, the United Kingdom, and Western Europe.* [[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 726–728)]]
 

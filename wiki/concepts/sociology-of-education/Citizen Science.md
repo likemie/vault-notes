@@ -10,7 +10,7 @@ aliases:
 summary: "公众自愿、直接参与科学研究全生命周期（从数据采集、模式分类到议程共创与政策转化）的协作科研范式，兼具突破科研时空瓶颈、赋权公众科学资本与民主化重大使命创新方向的多维价值。"
 type: concept
 domain: "sociology-of-education"
-related_count: 29
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Homework]]"
   - "[[Scientific Literacy]]"
-  - "[[Document]]"
 related_theories: []
 related_facts:
   - "[[Big Butterfly Count]]"
@@ -58,7 +57,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Citizen Science
@@ -197,5 +196,5 @@ updated: 2026-10-10
 > | [[UN Sustainable Development Goals]] | 事实目标 | 公民科学广泛对接可持续发展目标中的气候行动、陆地与水下生物保护等指标监测。 |
 > | [[Big Butterfly Count]] | 实践案例 | 英国最具代表性的生态观测类公民科学国家工程。 |
 > | [[The Perception Census]] | 实践案例 | 全球首个大规模认知神经多样性艺术与科学跨界公民科学普查。 |
-> | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|The Royal Society (2026)]] | 实证[[Document\|文献]] | 系统评估英国公民科学项目、非正式科学基建与四级评估框架的权威报告。 |
+> | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02\|The Royal Society (2026)]] | 实证文献 | 系统评估英国公民科学项目、非正式科学基建与四级评估框架的权威报告。 |
 > | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | 理论文献 | 阐述使命导向创新政策中公众参与、公民协商与社会挑战共创的经典论述。 |

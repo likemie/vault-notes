@@ -11,7 +11,7 @@ subtype: policy
 region: "uk"
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 33
+fact_related_count: 32
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -23,10 +23,10 @@ tags:
   - policy/compensatory-education
   - policy/educational-finance
 related_concepts:
+  - "[[School Autonomy]]"
   - "[[School Inspection]]"
   - "[[Output-Oriented Governance]]"
   - "[[Academic Achievement]]"
-  - "[[Teaching Assistant]]"
   - "[[Critical Pedagogy]]"
   - "[[Teacher Professional Agency]]"
   - "[[Research Translation]]"
@@ -36,7 +36,6 @@ related_concepts:
   - "[[What Works Movement]]"
   - "[[Interactional Expertise]]"
   - "[[Evidence-Based Education]]"
-  - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[Growth Mindset]]"
 related_methods:
@@ -65,7 +64,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Pupil Premium
@@ -78,7 +77,7 @@ updated: 2026-09-22
 > - **发布时间 / 发布主体** 2011 年 4 月由英国保守党—自由民主党联合政府（Conservative-Liberal Democrat Coalition Government）教育部正式颁布实施。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 47–49)]]
 > - **适用地区 / 对象** 英格兰全境所有接受国家财政资助的公立初等与中等学校（含普通公立学校、学院制学校 Academies 及自由学校 Free Schools）中注册的处境不利学生。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 110–111)]]
 > - **问题背景** 长期以来英格兰基础教育体系存在严重的阶层学业差距，低收入家庭儿童的中学统考成绩（GCSE）落后于优势同龄人近两年的学习进展。社会阶层背景与教育成就的高度固化制约了英国的社会流动性。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 48)]]
-> - **制度位置** 政策作为英国教育财政转移支付的重大结构性创新，与 2011 年成立的[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）及随后推广的《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》相互绑定，形成“国家专项注资—学校自主支配—权威证据指引—[[School Inspection\|教育督导]]评估”四位一体的因果[[Output-Oriented Governance\|循证治理]]格局。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 280)]]
+> - **制度位置** 政策作为英国教育财政转移支付的重大结构性创新，与 2011 年成立的[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）及随后推广的《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》相互绑定，形成“国家专项注资—[[School Autonomy|学校自主]]支配—权威证据指引—[[School Inspection\|教育督导]]评估”四位一体的因果[[Output-Oriented Governance\|循证治理]]格局。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 280)]]
 
 ---
 
@@ -114,7 +113,7 @@ updated: 2026-09-22
 
 > [!actor-grid] 实施角色分工
 > - **发布与拨款主体** 英国教育部（Department for Education） — 依据[[National Pupil Database\|国家学生数据库]]（NPD）核定各校弱势学生名册，直接按年度向学校拨付专款。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 52)]]
-> - **决策与执行主体** 公立中小学校长与高级领导团队（Senior Leadership Teams） — 拥有自主支配权，决定是将资金投向师资专业发展、个别化小班辅导、[[Teaching Assistant\|助教]]优化配置还是非学业身心干预。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 111)]]
+> - **决策与执行主体** 公立中小学校长与高级领导团队（Senior Leadership Teams） — 拥有自主支配权，决定是将资金投向师资专业发展、个别化小班辅导、助教优化配置还是非学业身心干预。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 111)]]
 > - **证据支持与中介机构** [[Education Endowment Foundation\|EEF]] 与[[Research Schools Network\|研究学校网络]]（RSN） — 负责证据转化，向全英学校输出通俗易懂的《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》与证据教练入校辅导。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 48)]]
 > - **外部督导与问责机构** 英国教育标准局（[[Ofsted]]） — 负责将津贴支出的循证依据与实际缩小成就差距的幅度作为评定学校办学质量的关键维度。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, p. 237)]]
 
@@ -186,7 +185,7 @@ updated: 2026-09-22
 > > [!axis] 循证问责下的认知过载与表演性依从
 > > 政策将津贴开支与官方推荐证据强制挂钩并在督导评估中加以核查，但在实践中催生了校长的信息过载与策略性应对。
 > >
-> > - **一线校长实践反映** 质性实证调查显示，约半数校长并未真正依据 [[Education Endowment Foundation\|EEF]] 证据规划支出甚至对此并不知情；在海量商业方案推销的轰炸下，校长往往凭人际推荐决策，甚至将 EEF 证据作为裁减[[Teaching Assistant\|助教]]等经济紧缩措施的表演性借口。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, pp. 11, 19)]]
+> > - **一线校长实践反映** 质性实证调查显示，约半数校长并未真正依据 [[Education Endowment Foundation\|EEF]] 证据规划支出甚至对此并不知情；在海量商业方案推销的轰炸下，校长往往凭人际推荐决策，甚至将 EEF 证据作为裁减助教等经济紧缩措施的表演性借口。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, pp. 11, 19)]]
 > > - **官方与中介机构** 坚持认为基于证据的资源配置是打破家庭背景与[[Academic Achievement\|学业成就]]关联的科学途径，试图通过更多指南工具强化规范化执行。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 3)]]
 
 > [!citation-card] 循证决策防范公资浪费的去魅价值
@@ -210,4 +209,4 @@ updated: 2026-09-22
 > | [[Peter Lampl]] | 人物 | 萨顿信托与 EEF 主席，长期通过实证研究游说政府确立学生津贴制度。 |
 > | [[National Pupil Database]] | 事实 (平台) | 英国教育部用于精准核定每所学校享受学生津贴人数全样本数据的纵向档案库。 |
 > | [[Evidence-Based Education]] | 概念 | 学生津贴制度所依托的现代教育治理与资源分配哲学。 |
-> | [[What Works Movement]] | 概念 | 学生津贴在实践中催生的国家级有效性评价与证据[[Transfer Translation Transformation\|转译]]社会运动。 |
+> | [[What Works Movement]] | 概念 | 学生津贴在实践中催生的国家级有效性评价与证据转译社会运动。 |

@@ -11,10 +11,10 @@ aliases:
 summary: "起源于福柯治理术谱系并经罗斯、米勒与拉图尔发展、在批判教育社会学与拓扑学中深化的空间治理理论，指权力不依赖直接行政命令或物理在场，而是通过将宏观政治抱负转译为技术标准、计算中心、不变移动物与自适应数据基础设施，在“远处”重塑主体认知与微观实践的非接触式权力机制。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 54
-theory_related_level: 6
-theory_related_stars: "⭐⭐⭐⭐⭐⭐"
-theory_related_color: "#fef3c7"
+theory_related_count: 49
+theory_related_level: 5
+theory_related_stars: "⭐⭐⭐⭐⭐"
+theory_related_color: "#ffedd5"
 tags:
   - social-theory
   - governmentality
@@ -26,14 +26,13 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Data Infrastructure]]"
   - "[[Distributed Agency]]"
-  - "[[Hypothesis]]"
   - "[[Topological Spatialisation]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Value Neutrality]]"
   - "[[Center of Calculation]]"
   - "[[Disciplina and Doctrina]]"
   - "[[New Public Management]]"
   - "[[Governing by Numbers]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Performance Indicators]]"
   - "[[Research Topic]]"
   - "[[Competitiveness]]"
@@ -45,10 +44,8 @@ related_concepts:
   - "[[Strategic Compliance]]"
   - "[[Steering at a Distance]]"
   - "[[Paradigm]]"
-  - "[[Document]]"
   - "[[Grandes Ecoles]]"
   - "[[Output-Oriented Governance]]"
-  - "[[Assemblage]]"
   - "[[Educational Brokerage Agency]]"
 related_theories:
   - "[[Governmentality]]"
@@ -56,7 +53,6 @@ related_theories:
   - "[[Educational Governance Framework]]"
 related_methods:
   - "[[Analytic Framework]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Single-Case Design]]"
   - "[[Item Response Theory]]"
   - "[[Correlational Research]]"
@@ -66,7 +62,6 @@ related_persons:
   - "[[António Nóvoa]]"
   - "[[Sigrid Hartong]]"
   - "[[Eleftherios Klerides]]"
-  - "[[Isaiah Berlin]]"
   - "[[Walter J. M. Kickert]]"
   - "[[Stephen Ball]]"
 related_facts:
@@ -85,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-09
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Governing at a Distance
@@ -96,12 +91,12 @@ updated: 2026-10-14
 
 > [!theory-position] 理论定位
 > - **解释对象** 现代国家、超国家组织与跨国[[Policy Network\|政策网络]]如何在缺乏物理强制力、直接行政命令或法定管辖权的情境下，依托专业知识、标准化评估量规与[[Data Infrastructure\|数据基础设施]]，实现对[[Distributed Agency|分布式主体]]、偏远区域与自治机构的非接触式行为规约。
-> - **理论问题** 破解传统主权论将统治等同于领土垄断与垂直命令的静态[[Hypothesis\|假设]]，解释后福利国家与全球化治理中“国家职能形式下放与实质审计规制强化并存”的制度悖论。
+> - **理论问题** 破解传统主权论将统治等同于领土垄断与垂直命令的静态假设，解释后福利国家与全球化治理中“国家职能形式下放与实质审计规制强化并存”的制度悖论。
 > - **理论类型** 批判政治社会学、空间治理机制与政策社会学[[Analytic Framework\|分析框架]]。
 > - **知识位置** 起源于[[Governmentality\|治理术]]（Governmentality）谱系，由[[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose）与彼得·米勒（Peter Miller）在政治社会学中正式理论化，后与[[Actor-Network Theory\|行动者网络理论]]（ANT）、[[Topological Spatialisation\|拓扑空间]]理论及比较教育学深度交织。
 
 > [!claim] 核心判断
-> 远处治理并非国家权力的简单退场或自由放任，而是统治技术的拓扑重构；权力通过将宏观政治抱负“[[Transfer Translation Transformation\|转译]]”为看似[[Value Neutrality\|价值中立]]的技术量规、[[Center of Calculation\|计算中心]]（Centers of Calculation）与“不变移动物”（Immutable Mobiles），在赋予受治者形式自由的同时，诱导其进行自我测度与自我[[Disciplina and Doctrina\|规训]]，达成跨越时空阻隔的深层秩序整合。（Rose & Miller, 1992; Latour, 1987; [[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 136–138]]；[[Argument_Klerides_2023_CE\|Klerides, 2023, p. 425]]）
+> 远处治理并非国家权力的简单退场或自由放任，而是统治技术的拓扑重构；权力通过将宏观政治抱负“转译”为看似[[Value Neutrality\|价值中立]]的技术量规、[[Center of Calculation\|计算中心]]（Centers of Calculation）与“不变移动物”（Immutable Mobiles），在赋予受治者形式自由的同时，诱导其进行自我测度与自我[[Disciplina and Doctrina\|规训]]，达成跨越时空阻隔的深层秩序整合。（Rose & Miller, 1992; Latour, 1987; [[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 136–138]]；[[Argument_Klerides_2023_CE\|Klerides, 2023, p. 425]]）
 
 ---
 
@@ -111,7 +106,7 @@ updated: 2026-10-14
 > - **提出者与原始文本** [[Nikolas Rose|尼古拉斯·罗斯]]与彼得·米勒于 1992 年发表《超越国家的政治权力：政府的问题式》（*Political Power beyond the State: Problematics of Government*），首次系统提出远处[[Educational Governance Framework\|治理分析框架]]；[[Bruno Latour\|布鲁诺·拉图尔]]（[[Bruno Latour\|Bruno Latour]], 1987）在科学技术学中提出的“从远处采取行动”（action at a distance）提供了关键物质技术支撑。
 > - **原初问题** 20 世纪晚期西方新自由主义与[[New Public Management\|新公共管理]]改革兴起，私有化、去中心化与学校办学自主权普及，传统韦伯式科层行政模型无法解释去中心化背景下高度严密的问责与标准化审计网络。
 > - **理论资源与材料** 融合米歇尔·福柯（Michel Foucault）的[[Governmentality\|治理术]]思想、拉图尔关于实验室“铭文装置”与“[[Center of Calculation\|计算中心]]”的科学社会学观察，以及对会计审计制度、临床医学量表与心理学评估标准的实证考察。
-> - **形成路径** 从“政治抱负与专业知识的[[Transfer Translation Transformation\|转译]]链条”切入，论证统治阶级如何借助会计师、心理学家、统计学家等中介专家网络，将国家意志[[Coding in Qualitative Research\|编码]]为客观指标，使行动者在“自由追求卓越”的假象下自主对齐统治目标。
+> - **形成路径** 从“政治抱负与专业知识的转译链条”切入，论证统治阶级如何借助会计师、心理学家、统计学家等中介专家网络，将国家意志编码为客观指标，使行动者在“自由追求卓越”的假象下自主对齐统治目标。
 
 ### 后续修订与扩展
 
@@ -140,7 +135,7 @@ updated: 2026-10-14
 
 ## 核心命题
 
-> [!theory-proposition] 命题一｜权力通过将宏观治理抱负[[Transfer Translation Transformation\|转译]]为中立技术标准，使受治主体在行使自由时实现自我[[Disciplina and Doctrina\|规训]]
+> [!theory-proposition] 命题一｜权力通过将宏观治理抱负转译为中立技术标准，使受治主体在行使自由时实现自我[[Disciplina and Doctrina\|规训]]
 > **解释** 远处治理并不依赖外在肉体惩罚或物理监禁，而是依托专业知识将国家或超国家精英的政治抱负转译为操作规程、证据量规与[[Performance Indicators\|绩效指标]]。这种治理理性利用被治理者追求“卓越”、“科学”与“专业发展”的自主愿望，使个体在行使自由选择时，主动将自身行为调整至符合治理者预设的绩效轨道上，完成深层的主体性生产与自我规训。（Rose & Miller, 1992; [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka, 2022, pp. 251–260]]）
 >
 > **应用实例** 在特殊教育科研界，资助机构与学术期刊并未强行指定学者[[Research Topic\|研究主题]]，而是通过推广单一受试设计（[[Single-Case Design\|SCD]]）的“循证金标准”量规，使研究者为了获得课题立项与发表机会，主动将自身改造成符合量化绩效要求的学术主体。（[[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka, 2022]]）
@@ -172,7 +167,7 @@ updated: 2026-10-14
 
 > [!theory-use] 框架入口
 > - **[[Research Question\|研究问题]]** 适用于剖析“无行政隶属关系的组织间如何达成政策协同”、“标准化数据工具如何远程重塑专业人员自主性”、“跨国机构如何借助软法与指标[[Disciplina and Doctrina\|规训]]主权国家”等治理问题。
-> - **分析对象与单位** 分析对象是跨尺度的政策与数据网络；[[Unit of Analysis\|分析单位]]是“远处治理技术（标准、量规、平台）及其在微观[[Champ\|场域]]的[[Transfer Translation Transformation\|转译]]与主体性互动”。
+> - **分析对象与单位** 分析对象是跨尺度的政策与数据网络；[[Unit of Analysis\|分析单位]]是“远处治理技术（标准、量规、平台）及其在微观[[Champ\|场域]]的转译与主体性互动”。
 > - **需要的材料** 国际与国家标准文本、评估量规、机构章程、数字测试平台后台日志、会议决议纪要及一线人员访谈。
 > - **解释目标** 揭示显性权力缺席背后的隐性技术规训，绘制治理网络的拓扑连接图景。
 
@@ -189,7 +184,7 @@ updated: 2026-10-14
 
 > [!exegesis]- [[Gesamtstrategie zum Bildungsmonitoring|德国国家教育监测总体战略]]的拓扑远处治理解构
 > - **现象与问题** 德国联邦宪法明确赋予 16 个州文化主权（Kulturhoheit），严禁设立联邦中央集权的教育部或全国学校排名。但在 2000 年 [[PISA]] 震荡后，德国各州教育实践迅速呈现高度协同与标准统一步调。
-> - **维度与材料** [[Sigrid Hartong\|哈通]]（[[Argument_Hartong_2018_GSE\|Hartong, 2018]]）综合调取了：① [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]]《国家教育监测[[Total War|总体战]]略》决议文本（2006/2015）；② [[Isaiah Berlin|柏林]] [[Institute for Educational Quality Improvement\|IQB]] 题库开发与 [[Item Response Theory\|IRT]] 参数校准技术文档；③ [[Vergleichsarbeiten\|VERA]] 全域测试实施细则与在线数字练习平台架构；④ 地方学校管理系统（如北威州 SVP 软件）与教师访谈。
+> - **维度与材料** [[Sigrid Hartong\|哈通]]（[[Argument_Hartong_2018_GSE\|Hartong, 2018]]）综合调取了：① [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]]《国家教育监测[[Total War|总体战]]略》决议文本（2006/2015）；② 柏林 [[Institute for Educational Quality Improvement\|IQB]] 题库开发与 [[Item Response Theory\|IRT]] 参数校准技术文档；③ [[Vergleichsarbeiten\|VERA]] 全域测试实施细则与在线数字练习平台架构；④ 地方学校管理系统（如北威州 SVP 软件）与教师访谈。
 > - **综合判读**
 >   1. **转译与计算中心设立** 各州教育部长联席会议（KMK）通过建立 IQB 作为计算中心，将国家教育标准转译为心理测量学参数，规避了行政集权争议。
 >   2. **拓扑折叠实践** VERA 借助标准化纸笔与在线测试，将国家统一标准直接投送至数万间教室，教师依据 IQB 能力等级模型解读学生成绩并调整教学。
@@ -209,7 +204,7 @@ updated: 2026-10-14
 
 > [!boundary]- 理论边界与谱系辨析：远处治理 vs [[Steering at a Distance|远距离操纵]]（Steering at a Distance）
 > - **学术谱系分流** 远处治理（Governing at a Distance）植根于福柯[[Governmentality|治理术]]与拉图尔科学知识社会学，是由 Rose & Miller (1992) 开创的批判政治社会学理论；而在欧陆公共行政学界同期兴起的 远距离操纵（Steering at a Distance）（源自荷兰 1985 年 [[Higher Education Autonomy and Quality|HOAK]] 白皮书，由 Frans van Vught 与 [[Walter J. M. Kickert|瓦尔特·基克特]]（Walter J. M. Kickert） 等人理论化），则是一套旨在解决高校专业网络直接行政命令失灵的实证制度设计与管理[[Paradigm|范式]]。两者在 20 世纪 80 年代末至 90 年代初双轨并行生成，并非先后承继演变。
-> - **[[Document|文献]]中的同义互用与理论解构** 在当代比较教育与教育社会学研究中，学者们常将二者作为指代“国家退居幕后、由划桨转向掌舵”的功能性同义词互用。批判政策学者（如 [[Stephen Ball]]、[[Sigrid Hartong]] 等）频繁借用本理论的“[[Center of Calculation|计算中心]]”、“[[Transfer Translation Transformation|转译]]”与“自我[[Disciplina and Doctrina|规训]]”视角，对现实中声称扩[[Grandes Ecoles|大学校]]自主权的各类[[Steering at a Distance|远距离操纵]]制度实践进行深层权力批判与解构。
+> - **文献中的同义互用与理论解构** 在当代比较教育与教育社会学研究中，学者们常将二者作为指代“国家退居幕后、由划桨转向掌舵”的功能性同义词互用。批判政策学者（如 [[Stephen Ball]]、[[Sigrid Hartong]] 等）频繁借用本理论的“[[Center of Calculation|计算中心]]”、“转译”与“自我[[Disciplina and Doctrina|规训]]”视角，对现实中声称扩[[Grandes Ecoles|大学校]]自主权的各类[[Steering at a Distance|远距离操纵]]制度实践进行深层权力批判与解构。
 
 ---
 
@@ -239,5 +234,5 @@ updated: 2026-10-14
 > - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 整合 [[Actor-Network Theory\|ANT]] [[Center of Calculation\|计算中心]]理论与拓扑地理学，深入剖析[[Gesamtstrategie zum Bildungsmonitoring\|德国国家教育监测总体战略]]、[[Institute for Educational Quality Improvement\|IQB]] 计算中心及 [[Vergleichsarbeiten\|VERA]] 测评基础设施如何实现跨尺度的远处治理与政策重组。
 > - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 系统梳理了分散权威空间下基准数据和 [[PISA]] 测验作为理性主义比较教育远处治理政治手段的发展史。
 > - [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka (2022)]] — 分析了新自由主义理性如何通过循证方法（[[Single-Case Design\|SCD]]）和学术标准设计，实现对科研人员及评价体制的远距治理与主体性塑造。
-> - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 结合无生命客体[[Assemblage\|装配]]框架，揭示国家[[Educational Brokerage Agency\|证据中介机构]]如何借助因果量规和企业法人法条实现跨时空的远处治理与权力垄断。
+> - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 结合无生命客体装配框架，揭示国家[[Educational Brokerage Agency\|证据中介机构]]如何借助因果量规和企业法人法条实现跨时空的远处治理与权力垄断。
 

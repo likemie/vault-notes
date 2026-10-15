@@ -8,10 +8,10 @@ aliases:
 summary: "由 19 世纪经济学家弗里德里希·李斯特率先提出、后被演化经济学与当代国家战略理论重新阐发的核心概念；指人类历代发现、发明、工艺改良与社会努力积累而成的无形知识与认知技能总和，构成全社会脑力与体力生产能力的核心载体；强调有形物质投资的生产效率完全依附于智力资本的积累与配置方向，后发国家的技术赶超取决于其自主增进智力资本的能力，而大国竞争与国家安全则取决于能否将顶尖工程师与科学家的智力资本从浅层消费主义诱惑中引导至国家重大战略使命。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 40
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 39
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/political-economy
   - theme/innovation-economics
@@ -38,7 +38,6 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Variable]]"
   - "[[Public Value]]"
-  - "[[Document]]"
 related_theories:
   - "[[Third Generation Activity Theory]]"
   - "[[Human Capital Theory]]"
@@ -67,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Intellectual Capital
@@ -240,5 +239,5 @@ updated: 2026-10-14
 > | [[Chris Freeman]] | Person | 将李斯特智力资本理论重新引入现代[[Evolutionary Economics\|演化经济学]]与国家创新系统的学者。 |
 > | [[Alexander Karp]] | Person | 批判硅谷智力资本被浅层消费主义吸纳并主张重塑国家工程使命的理论家与实践者。 |
 > | [[Nicholas Zamiska]] | Person | 共同提出技术共和国命题并剖析顶尖工程师国家使命认同演变的学者。 |
-> | [[Argument_Freeman_1995_CJE\|Freeman (1995)]] | Argument | 阐发李斯特智力资本思想与[[Technological Catch-up\|技术追赶]]的经典[[Document\|文献]]。 |
+> | [[Argument_Freeman_1995_CJE\|Freeman (1995)]] | Argument | 阐发李斯特智力资本思想与[[Technological Catch-up\|技术追赶]]的经典文献。 |
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01\|Karp & Zamiska (2025)]] | Argument | 阐述冷战科技合作演化、硅谷消费主义转向与工程智力资本错配的专著第一章。 |

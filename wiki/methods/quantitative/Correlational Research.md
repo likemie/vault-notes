@@ -10,7 +10,7 @@ summary: "不操纵自变量而以量化资料分析变量共变、预测模式�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 62
+method_related_count: 59
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Academic Achievement]]"
   - "[[Unit of Analysis]]"
-  - "[[Hypothesis]]"
   - "[[Counterfactual]]"
   - "[[Causality]]"
   - "[[Epistemology]]"
@@ -52,7 +51,6 @@ related_theories:
   - "[[Organizational Culture]]"
 related_methods:
   - "[[Non-intervention Research]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Pearson Product-Moment Correlation]]"
   - "[[Multiple Regression]]"
   - "[[Causal Modeling]]"
@@ -77,8 +75,7 @@ related_methods:
   - "[[Intervention Research]]"
   - "[[Random Assignment]]"
   - "[[Content Analysis]]"
-related_persons:
-  - "[[Paul Pierson]]"
+related_persons: []
 related_arguments:
   - "[[Argument_Brady_2023_EPR]]"
   - "[[Argument_Ginsberg_2024_EP]]"
@@ -91,7 +88,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Correlational Research
@@ -101,7 +98,7 @@ updated: 2026-10-12
 ## 定义
 
 > [!def] 方法定义
-> **相关性研究（Correlational Research）** 是指研究者在不主动操纵[[Independent Variable\|自变量]]且不施加外在实验干预的情境下，通过量化测量两个或多个[[Variable\|变量]]，运用统计技术测度变量间的关联强度、共变方向与预测模式的[[Non-intervention Research\|非干预研究]]设计。[[Argument_Brady_2023_EPR\|Brady et al. (2023, pp. 3–4)]] 在对教育心理学实证期刊进行元研究[[Coding in Qualitative Research\|编码]]时，将所有未操纵自变量且包含量化数据的实证研究统合归入事后回溯（ex post facto）观察与相关设计范畴；而在美国联邦《[[Every Student Succeeds Act\|每个学生成功法]]》（Every Student Succeeds Act, ESSA Section 8101(21)(A)）法定证据框架下，对混杂因素实施统计控制的相关性研究则专门构成了 **Tier III 有希望证据（Promising Evidence）** 的法定实体。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, pp. 162–163)]]
+> **相关性研究（Correlational Research）** 是指研究者在不主动操纵[[Independent Variable\|自变量]]且不施加外在实验干预的情境下，通过量化测量两个或多个[[Variable\|变量]]，运用统计技术测度变量间的关联强度、共变方向与预测模式的[[Non-intervention Research\|非干预研究]]设计。[[Argument_Brady_2023_EPR\|Brady et al. (2023, pp. 3–4)]] 在对教育心理学实证期刊进行元研究编码时，将所有未操纵自变量且包含量化数据的实证研究统合归入事后回溯（ex post facto）观察与相关设计范畴；而在美国联邦《[[Every Student Succeeds Act\|每个学生成功法]]》（Every Student Succeeds Act, ESSA Section 8101(21)(A)）法定证据框架下，对混杂因素实施统计控制的相关性研究则专门构成了 **Tier III 有希望证据（Promising Evidence）** 的法定实体。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, pp. 162–163)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 学生认知与情感特征、家庭社会经济地位、学校组织氛围、教师教学行为、微观[[Academic Achievement\|学业成绩]]等在自然常态情境下自然分布的量化指标。
@@ -110,7 +107,7 @@ updated: 2026-10-12
 > - **输出形式** [[Pearson Product-Moment Correlation\|皮尔逊相关]]系数（$r$）、斯皮尔曼等级相关系数（$\rho$）、[[Multiple Regression\|多元回归]]系数（$\beta$）、判定系数（$R^2$）、路径系数、结构方程模型（Structural Equation Modeling, [[Causal Modeling\|SEM]]）拟合指数。
 
 > [!citation-card] 布雷迪等论非干预[[Quantitative Research\|量化研究]]的性质与边界
-> 观察与相关性研究被明确界定为不操纵自变量且包含定量数据的非干预实证研究。这类研究能够在大规模自然教育情境中描摹变量间的真实分布与潜在关联模式，构成了因果[[Hypothesis\|假设]]生成的经验起点；但由于其缺乏将处理组与对照组完全隔绝的实验[[Counterfactual\|反事实]]设计，极易受到未观测混杂因素的污染，绝不能直接等同于因果干预依据。[[Argument_Brady_2023_EPR\|(Brady et al., 2023, pp. 3–4)]]
+> 观察与相关性研究被明确界定为不操纵自变量且包含定量数据的非干预实证研究。这类研究能够在大规模自然教育情境中描摹变量间的真实分布与潜在关联模式，构成了因果假设生成的经验起点；但由于其缺乏将处理组与对照组完全隔绝的实验[[Counterfactual\|反事实]]设计，极易受到未观测混杂因素的污染，绝不能直接等同于因果干预依据。[[Argument_Brady_2023_EPR\|(Brady et al., 2023, pp. 3–4)]]
 
 ---
 
@@ -121,7 +118,7 @@ updated: 2026-10-12
 >   - 在现代因果推断框架（如鲁宾因果模型）与计量经济学中，**观察性研究（Observational Study）** 是一个**上位总称（Umbrella Term）**，指代所有处理[[Variable\|变量]]并非由研究者随机指派、而是由受试对象自主选择或自然暴露所形成的经验研究。在此视角下，严格控制选择偏误的高级设计（如[[Difference-in-Differences\|双重差分法]]、[[Regression Discontinuity Design\|断点回归]]、[[Propensity Score Matching\|倾向得分匹配]]等[[Quasi-Experimental Designs\|准实验设计]]）在广义上皆属于观察性研究的前沿分支。
 >   - 相比之下，**相关性研究（Correlational Research）** 是量化非实验设计中的一个**具体类型（Specific Design）**，侧重于直接测量变量间的共变关系（Covariation）与统计关联，通常采用[[Ordinary Least Squares\|普通最小二乘法]]（Ordinary Least Squares, OLS）[[Multiple Regression\|多元回归]]或[[Causal Modeling\|结构方程建模]]，并不依赖准实验的外生断点或政策冲击。
 > - **教育研究实践中的双重语境**
->   - 在微观课堂教学研究中，“观察”（Observation）常被用作资料收集技术的代称（如课堂[[Coding in Qualitative Research\|编码]]规程、[[Qualitative Observation\|质性观察]]法、结构化行为观察）。
+>   - 在微观课堂教学研究中，“观察”（Observation）常被用作资料收集技术的代称（如课堂编码规程、[[Qualitative Observation\|质性观察]]法、结构化行为观察）。
 >   - 在宏观政策证据学与期刊编码中（如 [[Argument_Brady_2023_EPR\|Brady et al., 2023]]），“观察/相关研究”常被并列作为非实验[[Quantitative Research\|量化研究]]的统称，用以对应无需操纵[[Independent Variable\|自变量]]的经验常态数据。而在 [[Every Student Succeeds Act\|ESSA]] 法定分级中，政策条文明确将 Tier III 锁定为“具备选择偏误统计控制的相关性研究”，确立了其规范的定量方法学界标。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, pp. 162–163)]]
 
 > [!method-position] [[Epistemology\|认识论]]与因果梯级定位
@@ -141,7 +138,7 @@ updated: 2026-10-12
 ## 研究程序
 
 > [!proc] 通用程序
-> 1. **界定理论[[Hypothesis\|假设]]与[[Variable\|变量]]关系** 基于已有理论或实地现象提出待验的变量关联假设，明确[[Independent Variable\|预测变量]]（自变量）、[[Dependent Variable\|效标变量]]（因变量）与潜在混杂变量。
+> 1. **界定理论假设与[[Variable\|变量]]关系** 基于已有理论或实地现象提出待验的变量关联假设，明确[[Independent Variable\|预测变量]]（自变量）、[[Dependent Variable\|效标变量]]（因变量）与潜在混杂变量。
 > 2. **样本抽取与测量工具选取** 确定[[Study Population and Sample\|目标总体]]并采用概率或[[Non-probability Sampling\|非概率抽样]]；选用具备良好信效度的量表、[[Questionnaire\|问卷]]或统一学业测验工具。
 > 3. **常态情境数据收集与清洗** 在不改变课堂与学校常规运作的前提下采集数据，筛查异常值、多重共线性与系统性缺失值。
 > 4. **统计建模与混杂因素控制** 依次进行双变量相关检验与纳入[[Pre-test and Post-test\|前测]]成绩、人口学特征协变量的[[Multiple Regression\|多元回归]]模型估计。
@@ -158,7 +155,7 @@ updated: 2026-10-12
 >   - **控制变量（Control Covariates）** 基线前测表现、性别、族裔、贫困状态（如免费午餐资格）等潜在干扰变量。
 > - **模型与诊断** 检验正态性、方差齐性、残差独立性与方差膨胀因子（Variance Inflation Factor, VIF）。
 
-> [!formula-step] 公式步骤一　[[Paul Pierson|皮尔逊]][[Pearson Product-Moment Correlation\|积差相关]]系数（Pearson Correlation Coefficient）
+> [!formula-step] 公式步骤一　皮尔逊[[Pearson Product-Moment Correlation\|积差相关]]系数（Pearson Correlation Coefficient）
 > $$r_{xy} = \frac{\sum_{i=1}^{n} (X_i - \bar{X})(Y_i - \bar{Y})}{\sqrt{\sum_{i=1}^{n} (X_i - \bar{X})^2 \sum_{i=1}^{n} (Y_i - \bar{Y})^2}} = \frac{Cov(X, Y)}{S_X S_Y}$$
 >
 > **这个公式在做什么** 计算两个连续变量之间的线性协变强度与方向，输出无量纲的标准化关联系数。
@@ -223,7 +220,7 @@ updated: 2026-10-12
 
 > [!method-fit] 适用判断
 > - **适合使用**
->   - **探索性前期阶段** 在未开展昂贵干预试验之前，识别[[Variable\|变量]]间的潜在关联模式，为构建因果理论模型提供[[Hypothesis\|假设]]来源。[[Argument_Brady_2023_EPR\|(Brady et al., 2023, p. 2)]]
+>   - **探索性前期阶段** 在未开展昂贵干预试验之前，识别[[Variable\|变量]]间的潜在关联模式，为构建因果理论模型提供假设来源。[[Argument_Brady_2023_EPR\|(Brady et al., 2023, p. 2)]]
 >   - **大规模自然调查** 依托大型国家或跨国教育数据库（如[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, PISA）、[[National Assessment of Educational Progress|全国教育进展评估]]（National Assessment of Educational Progress, NAEP）），分析[[Academic Achievement\|学业成就]]与背景变量的广泛分布规律。
 >   - **无法操纵[[Independent Variable\|自变量]]的现实议题** 针对家庭背景、性别差异、学校既有[[Organizational Culture\|组织文化]]等在伦理上或实际上无法进行随机操纵的变量。[[Argument_Lekhal_2015_Paideia\|(Lekhal et al., 2015, pp. 79–83)]]
 > - **谨慎使用**
@@ -242,7 +239,7 @@ updated: 2026-10-12
 
 > [!critique] 统计修辞挤压与[[Recommendations for Practice\|实践建议]]膨胀（基于 Brady et al., 2023）
 > - **因果挤压（Causal Squeeze）** 在教育心理学及相关实证研究中，研究者频繁使用“预测因子（predictors）”、“中介因子（mediators）”和“结局（outcomes）”等带有强烈因果色彩的模型语言，从而在无操纵数据的表述中“挤压”出貌似确凿的因果幻象。[[Argument_Brady_2023_EPR\|(Brady et al., 2023, p. 9)]]
-> - **实践建议急剧膨胀（RFP Inflation）** 纵向内容[[Coding in Qualitative Research\|编码]]揭示，顶级教育心理学期刊中包含明确实践建议（Recommendations for Practice, RFP）的观察与相关研究论文比例，从 2000 年的 **41%** 激增至 2010 年的 **46%**，并于 2020 年进一步飙升至 **66%**。这种建议膨胀使得严重缺乏[[Internal Validity\|内部效度]]保障的相关发现被过度包装为一线教学处方，极大地超越了方法学原本的证据边界。[[Argument_Brady_2023_EPR\|(Brady et al., 2023, pp. 6–7)]]
+> - **实践建议急剧膨胀（RFP Inflation）** 纵向内容编码揭示，顶级教育心理学期刊中包含明确实践建议（Recommendations for Practice, RFP）的观察与相关研究论文比例，从 2000 年的 **41%** 激增至 2010 年的 **46%**，并于 2020 年进一步飙升至 **66%**。这种建议膨胀使得严重缺乏[[Internal Validity\|内部效度]]保障的相关发现被过度包装为一线教学处方，极大地超越了方法学原本的证据边界。[[Argument_Brady_2023_EPR\|(Brady et al., 2023, pp. 6–7)]]
 
 > [!critique] 单项相关研究门槛下的合规漏洞与虚假繁荣（基于 Ginsberg et al., 2024）
 > - **单一研究支持下的采购盲区** [[Every Student Succeeds Act\|ESSA]] 法定将 Tier III 设为合格门槛且仅需“至少一项”研究支持。[[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]] 穿透式财务审计发现，大量耗费数千万美元公共教育资金的商业采购项目，全库仅能检索到单一项控制不全的相关性研究（例如针对实地考察 [[Champ\|field]] trips 的单一相关性研究，或 Stoeger 等人关于[[Self-Regulated Learning\|自我调节学习]]的单篇报告）。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, pp. 174, 180)]]

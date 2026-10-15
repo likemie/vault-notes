@@ -7,7 +7,7 @@ summary: "巴西演员和剧场导演，社区剧场项目组织者，为教育�
 type: person
 nationality: brazil
 person_region: "brazil"
-person_related_count: 10
+person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Cultural Capital]]"
   - "[[Epistemology of Resistance]]"
   - "[[Ganz-Methode]]"
-  - "[[Document]]"
   - "[[Epistemology]]"
 related_theories:
   - "[[Creative Tension of Sense]]"
@@ -37,7 +36,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: 2026-09-11
+updated: 2026-10-15
 ---
 # Camilla de Hollanda Amado
 
@@ -59,7 +58,7 @@ updated: 2026-09-11
 ## 主要著作与思想发展
 
 > [!abstract]
-> 目前可获得的[[Document\|文献]]仅记录了 Amado 作为合作者和文化行动者的角色，尚未发现其个人著作或艺术创作的详细清单([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.110]])。
+> 目前可获得的文献仅记录了 Amado 作为合作者和文化行动者的角色，尚未发现其个人著作或艺术创作的详细清单([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.110]])。
 
 ## 核心思想
 

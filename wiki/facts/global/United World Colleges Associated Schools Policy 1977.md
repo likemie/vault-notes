@@ -10,7 +10,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 10
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -25,7 +25,6 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
-  - "[[Paul Pierson]]"
   - "[[Louis Mountbatten]]"
 related_facts:
   - "[[United World Colleges]]"
@@ -36,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-01
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # United World Colleges Associated Schools Policy 1977
@@ -80,7 +79,7 @@ updated: 2026-10-12
 > - **1975 年 4 月　先例转为成员边界问题** 东南亚联合世界书院取得正式身份，证明关联学校可能迅速要求完整成员资格。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 116–117)]]
 > - **1975 至 1977 年　董事会讨论关联网络** 扩展派设想经典书院核心、约十余所关联学校内圈和数百所[[International Baccalaureate\|国际文凭]]学校外围；谨慎派强调国际办公室成本和身份稀释风险。
 > - **1977 年 10 月　政策正式形成** 国际董事会同意鼓励符合条件的既有学校建立关联，同时要求正式决定前先进行适当时长的非正式联系。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 123–124)]]
-> - **1977 年底　首批校际配对** 沃特福德卡姆拉巴与大西洋学院建立联系，蒙得维的亚英国学校（British Schools Montevideo）与[[Paul Pierson|皮尔逊]]书院形成另一组联系。
+> - **1977 年底　首批校际配对** 沃特福德卡姆拉巴与大西洋学院建立联系，蒙得维的亚英国学校（British Schools Montevideo）与皮尔逊书院形成另一组联系。
 > - **1978 年 4 月 13 日　沃特福德提前取得关联资格** 牛顿·汤普森要求不再延长联系期，[[Louis Mountbatten\|路易斯·蒙巴顿]]（Louis Mountbatten）推动国际理事会一致通过。个案价值和领导判断压缩了政策设定的缓冲程序。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 124–125)]]
 > - **1980 至 1982 年　关联转为正式成员** UWC 处理沃特福德的课程和财政障碍，1982 年签署正式加入协议，印证了关联可能成为晋级路径的早期担忧。[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 125–126)]]
 

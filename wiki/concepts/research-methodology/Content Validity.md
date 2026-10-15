@@ -7,7 +7,7 @@ aliases:
 summary: "测量工具公平且全面地覆盖其声称覆盖的领域或项目的程度，是效度类型中最基础的一种，基于专业判断而非统计测量"
 type: concept
 domain: "research-methodology"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[Convergent and Discriminant Validity]]"
   - "[[Operationalization]]"
-  - "[[Hypothesis]]"
   - "[[Consequential Validity]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
@@ -31,7 +30,7 @@ related_methods:
   - "[[Internal Consistency]]"
 status: draft
 created: 2026-06-23
-updated: 2026-06-23
+updated: 2026-10-15
 ---
 # Content Validity
 
@@ -69,7 +68,7 @@ updated: 2026-06-23
 > - **项目覆盖（programme coverage）** 课程或项目本身是否覆盖了整体相关领域——三层嵌套：领域 > 项目 > 测试（Wolf, 1994）
 
 > [!example] 内容效度的经典案例：法语拼写测试
-> [[Hypothesis\|假设]]研究者想测试一组学生拼写 1000 个法语单词的能力，但出于时间和可行性的限制，只决定抽样 50 个单词进行拼写测试。
+> 假设研究者想测试一组学生拼写 1000 个法语单词的能力，但出于时间和可行性的限制，只决定抽样 50 个单词进行拼写测试。
 >
 > 该测试的内容效度取决于：**这 50 个单词是否公平地代表了 1000 个单词中的拼写范围**？
 >

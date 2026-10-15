@@ -10,7 +10,7 @@ summary: "多位独立评判者使用同一工具对相同对象评分时彼此�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 65
+method_related_count: 63
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -31,13 +31,11 @@ related_concepts:
   - "[[Observer Drift]]"
   - "[[Halo Effect]]"
   - "[[Construct Validity]]"
-  - "[[Document]]"
   - "[[Construct]]"
   - "[[Heterogeneity]]"
   - "[[Operationalization]]"
   - "[[Scale of Measurement]]"
   - "[[Paradigm]]"
-  - "[[Hypothesis]]"
   - "[[Ecological Validity]]"
   - "[[Time on Task]]"
   - "[[Class Size]]"
@@ -46,7 +44,6 @@ related_concepts:
   - "[[Literature Review]]"
   - "[[Institutional Drift]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Codebook]]"
   - "[[Qualitative Interview]]"
   - "[[Classroom Observation]]"
@@ -72,6 +69,7 @@ related_methods:
   - "[[Fieldwork]]"
   - "[[Likert Scale]]"
   - "[[Qualitative Research]]"
+  - "[[Coding in Qualitative Research]]"
   - "[[Audit Trail]]"
   - "[[Content Analysis]]"
   - "[[Meta-analysis]]"
@@ -101,7 +99,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 方法定义
-> 评分者间[[Reliability|信度]]（Inter-rater reliability）指多位独立评判者或专家使用同一测量工具对相同研究对象进行独立评分或分类时，彼此评分之间达成一致的程度。它是信度作为**等值性（reliability as equivalence）** 的核心形式之一，如果多于一位研究者参与数据采集或[[Coding in Qualitative Research|编码]]，人类主观判断极易产生系统性误差与随机波动，必须通过信度检验确保所有研究者在数据记录与等级评定上具备高度的一致性与可互换性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 201–202)]]
+> 评分者间[[Reliability|信度]]（Inter-rater reliability）指多位独立评判者或专家使用同一测量工具对相同研究对象进行独立评分或分类时，彼此评分之间达成一致的程度。它是信度作为**等值性（reliability as equivalence）** 的核心形式之一，如果多于一位研究者参与数据采集或编码，人类主观判断极易产生系统性误差与随机波动，必须通过信度检验确保所有研究者在数据记录与等级评定上具备高度的一致性与可互换性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|(Cohen et al., 2011, Ch. 10, pp. 201–202)]]
 
 评分者间信度在经验研究中界定了多位观察者或评判员在面对同一客体时的数据可比性范围。
 
@@ -131,7 +129,7 @@ updated: 2026-10-15
 在研究方法架构中，评分者间信度构成了连接微观[[Qualitative Observation|质性观察]]与宏观计量分析的质量中介层。
 
 > [!method-stack] 测量架构与信度类型谱系
-> - **研究设计** 结构化[[Classroom Observation|课堂观察]]、大规模教育调查、标准化测验阅卷、[[Qualitative Content Analysis|质性内容分析]]、[[Systematic Review|系统综述]][[Document|文献]]筛选。
+> - **研究设计** 结构化[[Classroom Observation|课堂观察]]、大规模教育调查、标准化测验阅卷、[[Qualitative Content Analysis|质性内容分析]]、[[Systematic Review|系统综述]]文献筛选。
 > - **数据收集** 现场瞬时定格快照、连续时段行为记录、主观试卷评分、访谈[[Transcription in Qualitative Research|转录]]稿类目赋码。
 > - **分析方法** 边际偶合校正分析、交叉矩阵[[Chi-Squared Test|卡方检验]]、双向随机效应方差分解、容差邻域一致性分析。
 > - **辅助技术** 
@@ -173,9 +171,9 @@ updated: 2026-10-15
 >
 > **符号说明** $P_o$ 为观察到的一致性百分比（Observed Proportion of Agreement）；$A$ 为两位评分者完全一致的评定单元数量（Agreements）；$D$ 为两位评分者评定不一致的单元数量（Disagreements）。
 >
-> **数学直觉** 以最朴素的交集比例反映多位观察者视角的重合程度，直观呈现评定结果的外在重合度，无需引入复杂的概率分布与先验[[Hypothesis|假设]]。
+> **数学直觉** 以最朴素的交集比例反映多位观察者视角的重合程度，直观呈现评定结果的外在重合度，无需引入复杂的概率分布与先验假设。
 >
-> **结果怎么读** 数值范围在 $0\%$ 到 $100\%$ 之间。常规探索性[[Observation Method|观察研究]]通常要求 $P_o \ge 80\%$；高利害或严格行为[[Coding in Qualitative Research|编码]]规程要求 $P_o \ge 90\%$（Shaughnessy et al., 2003, p. 111）。
+> **结果怎么读** 数值范围在 $0\%$ 到 $100\%$ 之间。常规探索性[[Observation Method|观察研究]]通常要求 $P_o \ge 80\%$；高利害或严格行为编码规程要求 $P_o \ge 90\%$（Shaughnessy et al., 2003, p. 111）。
 >
 > **注意事项** 该公式完全未扣除纯粹随机猜测或偶然一致性（Chance Agreement）；在某一类别出现频率极高（如 90% 的课堂学生均在轨）时，即使观察员随意打分也能获得极高的表面一致性，需配合 Cohen's $\kappa$ 或[[Intraclass Correlation Coefficient|组内相关系数]]校准。
 
@@ -255,7 +253,7 @@ updated: 2026-10-15
 
 在[[Qualitative Research|质性研究]]与访谈资料编码中，研究团队需通过结构化协议在保持质性解释深度的同时达成分析共识。
 
-> [!coding-protocol] 质性编码与访谈分析中的信度协议
+> [!coding-protocol] [[Coding in Qualitative Research|质性编码]]与访谈分析中的信度协议
 > - **编码字典与边界锚定** 建立明确的主题命名、内涵定义、纳入标准与排除准则，辅以正例与反例判例集。
 > - **双编码独立试评** 抽取 10%–20% 的初级[[Transcription in Qualitative Research|转录]]材料，由两位研究者独立进行初级分类与节点赋码。
 > - **分歧协商与范畴修订** 对不一致的编码进行逐行比对讨论，修正概念漂移，持续迭代编码框架。
@@ -268,15 +266,15 @@ updated: 2026-10-15
 评分者间[[Reliability|信度]]的引入必须与[[Paradigm|研究范式]]、设计结构及评判者规模保持严格的适切性。
 
 > [!method-fit] 适用判断
-> - **适合使用** 研究设计中涉及多位观察者对行为进行[[Coding in Qualitative Research\|编码]]或评定时（如课堂[[Observation Method\|观察研究]]、临床行为评定）；[[Qualitative Research\|质性研究]]的[[Content Analysis\|内容分析]]中多位编码者对文本进行编码时；系统性[[Literature Review\|文献综述]]和[[Meta-analysis\|元分析]]中多位筛选者独立筛选[[Document\|文献]]时；测验和考试涉及多位评分者时。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch. 8)]]
-> - **谨慎使用** 在严格的[[Constructivist Paradigm\|建构主义]]质性研究中，[[Hypothesis|假设]]不同研究者应产生相同解释的前提可能与[[Paradigm\|研究范式]]冲突（Lincoln & Guba, 1985, p. 307）。
+> - **适合使用** 研究设计中涉及多位观察者对行为进行编码或评定时（如课堂[[Observation Method\|观察研究]]、临床行为评定）；[[Qualitative Research\|质性研究]]的[[Content Analysis\|内容分析]]中多位编码者对文本进行编码时；系统性[[Literature Review\|文献综述]]和[[Meta-analysis\|元分析]]中多位筛选者独立筛选文献时；测验和考试涉及多位评分者时。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch. 8)]]
+> - **谨慎使用** 在严格的[[Constructivist Paradigm\|建构主义]]质性研究中，假设不同研究者应产生相同解释的前提可能与[[Paradigm\|研究范式]]冲突（Lincoln & Guba, 1985, p. 307）。
 > - **不适合使用** 当研究设计中只有一位评判者或编码者时，评分者间信度不适用，此时应关注评分者[[Internal Consistency\|内部一致性]]（intra-rater reliability）。
 
 ---
 
 ## 局限性
 
-评估评分者[[Reliability|信度]]虽能增强测量可靠性，但其本身包含固有统计[[Hypothesis|假设]]与[[Paradigm|范式]]边界。
+评估评分者[[Reliability|信度]]虽能增强测量可靠性，但其本身包含固有统计假设与[[Paradigm|范式]]边界。
 
 > [!method-limits] 方法局限
 > - **偏误来源** [[Observer Drift|观察者漂移]]（Observer [[Institutional Drift|drift]]）、生理疲劳松懈、[[Halo Effect|光环效应]]扩散、首因印象锁定以及评分者普遍的避极趋中妥协。
@@ -298,7 +296,7 @@ updated: 2026-10-15
 > | [[Operationalization]] | 前置方法 | 细化具体可观测行为锚定描述符是达成多评分者一致性的操作前提。 |
 > | [[Internal Consistency]] | 替代方法 | 衡量测量工具内部题项间的一致性，而非不同观察员间的一致性。 |
 > | [[Test-Retest Reliability]] | 替代方法 | 衡量同一测量工具在不同时点跨时间维度的稳定性，而非跨观察员的一致性。 |
-> | [[Intercoder Agreement]] | 补充方法 | 质性文本[[Coding in Qualitative Research\|编码]]情境下的特化形式，与观察评分形成互补。 |
+> | [[Intercoder Agreement]] | 补充方法 | 质性文本编码情境下的特化形式，与观察评分形成互补。 |
 > | [[Coding in Qualitative Research]] | 补充方法 | 质性经验材料提取中建立多研究者分类一致性的具体操作规程。 |
 > | [[Observer Drift]] | 补充方法 | 识别与校正长期连续观察中评估尺度随时间衰减漂移的监测方法。 |
 > | [[Teach Classroom Observation Tool]] | 评估工具 | 大规模[[Classroom Observation\|课堂观察]]中双轨信度认证与认知偏误防御的标准化实践载体。 |

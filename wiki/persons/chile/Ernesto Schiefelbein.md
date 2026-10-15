@@ -35,8 +35,8 @@ related_methods:
   - "[[Cost-Benefit Analysis]]"
 related_persons:
   - "[[Liliana Esther Olmos]]"
-  - "[[Carlos Alberto Torres]]"
   - "[[Adriana Puiggrós]]"
+  - "[[Carlos Alberto Torres]]"
   - "[[Martin Carnoy]]"
 related_facts:
   - "[[UNESCO]]"
@@ -61,7 +61,7 @@ updated: 2026-10-15
 > - **核心角色** 战后拉丁美洲教育规划、教育投资收益评估与教育普及化追踪的领军统计学家；系统建立了评估拉美教育系统民主化与公平性的量化指标体系；其详实的历史统计为批判学者解构拉美教育扩张繁荣下的深层结构性矛盾提供了不可或缺的实证基准。
 > - **代表贡献** 提出评估拉美教育民主化进程的五项核心成就基准（1998）；长期主持 UNESCO/CEPAL 拉美教育发展报告；出版《为拉丁美洲民主筹措教育资金》（1998）。
 
-> [!citation-card]- [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]论席费尔拜因对拉美教育民主化成就的总结
+> [!citation-card]- [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论席费尔拜因对拉美教育民主化成就的总结
 > 埃内斯托·席费尔拜因指出，在 20 世纪的最后四十年中，拉丁美洲通过以下五个方面在迈向教育民主化道路上取得了显著进展：(1) 扩大绝大多数达到学龄儿童的受教育机会；(2) 延长法定修业年限；(3) 改善学龄儿童按时入学率；(4) 为越来越多处于不利境地的儿童提供早期保育；(5) 增加最低限度资源投入保障并消除社会阶层分轨。然而，这些历史成就的背后，却面临着新兴全球经济体制与外围依附结构的根本挑战。[[Argument_Olmos_Torres_2009_StateTheories|(Schiefelbein, 1998; Olmos & Torres, 2009, pp. 81–82)]]
 >
 > *Ernesto Schiefelbein has argued that in the last four decades of the last century, Latin America made significant progress toward democracy by "(i) expanding access to education for most the children reaching school age; (ii) extending the years of schooling; (iii) improving timely entrance to school, (iv) providing early care to an increasing number of deprived children, and (v) increasing the provision of minimum inputs and eliminating tracks for social levels."*
@@ -75,7 +75,7 @@ updated: 2026-10-15
 > - **1960s–1970s** 长期担任智利教育部国家规划委员会（CPEIP）主管，深度参与拉美[[Import Substitution Industrialisation|进口替代工业化]]时期的全国教育扩张大纲设计。
 > - **1980s–1990s** 出任[[UNESCO|联合国教科文组织]]拉美及加勒比地区教育办事处（OREALC）主任，主管全区域教育统计调查与政策评估。
 > - **1994** 在智利民主化转型时期出任智利教育部长，主导国家教育公平提升计划与公立学校最低投入保障改革。
-> - **1998** 在[[Carlos Alberto Torres|托雷斯]]与[[Adriana Puiggrós|普伊格罗斯]]主编的经典论文集《拉丁美洲教育：比较视角》中发表长文《为拉丁美洲民主筹措教育资金》（*Financing Education for Democracy in Latin America*），系统梳理战后四十年拉美教育的得与失。
+> - **1998** 在托雷斯与[[Adriana Puiggrós|普伊格罗斯]]主编的经典论文集《拉丁美洲教育：比较视角》中发表长文《为拉丁美洲民主筹措教育资金》（*Financing Education for Democracy in Latin America*），系统梳理战后四十年拉美教育的得与失。
 > - **2000s–至今** 持续担任[[World Bank|世界银行]]、[[Inter-American Development Bank|泛美开发银行]]（IDB）与拉加经委会（ECLAC）高级教育经济咨询顾问。
 
 ---
@@ -106,7 +106,7 @@ updated: 2026-10-15
 > [!influence-path] 影响路径
 > - **实证与评估路径** 建立了拉美区域最权威的纵向教育统计数据库与办学质量评估规程，成为国际组织与各国学者研究拉美教育史的公共实证基石。
 > - **政策决策路径** 作为前教育部长，其倡导的“最低教育投入保障”理念深刻影响了智利民主化后的一系列补偿性教育拨款法规。
-> - **[[Critical Theory|批判理论]]转化** 其所呈现的客观实证数据，被[[Carlos Alberto Torres|托雷斯]]等批判政治经济学者广泛反向引用，用以论证拉美国家“[[Compensatory Legitimation|补偿性合法化]]”与“[[Conditioned State Theory|受限国家]]”理论命题。
+> - **[[Critical Theory|批判理论]]转化** 其所呈现的客观实证数据，被托雷斯等批判政治经济学者广泛反向引用，用以论证拉美国家“[[Compensatory Legitimation|补偿性合法化]]”与“[[Conditioned State Theory|受限国家]]”理论命题。
 
 ---
 
@@ -127,5 +127,5 @@ updated: 2026-10-15
 > |:-----|:-----|:-----|
 > | [[Import Substitution Industrialisation]] | 概念 | 为分析拉美早期工业化背景下教育大爆发提供了核心的官方实证增长统计。 |
 > | [[Dual School System]] | 概念 | 其实证调查揭示了拉美虽然废除形式分轨，但事实上依然维持着精英高校与底层文盲并存的断裂。 |
-> | [[Conditioned State Theory]] | 理论 | 为[[Carlos Alberto Torres\|托雷斯]]论证外围国家利用有限教育扩张缓和政权合法性危机提供了翔实的经验数据支撑。 |
+> | [[Conditioned State Theory]] | 理论 | 为托雷斯论证外围国家利用有限教育扩张缓和政权合法性危机提供了翔实的经验数据支撑。 |
 > | [[Carlos Alberto Torres]] | 人物 | 在合编著作与多篇论著中持续引述席费尔拜因的实证研究成果。 |

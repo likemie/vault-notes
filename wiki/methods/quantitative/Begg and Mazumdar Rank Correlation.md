@@ -10,7 +10,7 @@ summary: "由 Colin Begg 与 Madhuchhanda Mazumdar（1994）提出的一种用�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 17
+method_related_count: 16
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Publication Bias]]"
   - "[[Study Population and Sample]]"
   - "[[Unit of Analysis]]"
-  - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Critical Thinking]]"
   - "[[Problem-Based Learning]]"
@@ -46,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Begg and Mazumdar Rank Correlation
@@ -65,7 +64,7 @@ updated: 2026-09-17
 > - **输出形式** Kendall's tau 秩相关系数值、检验统计量 $Z$ 值与双尾显著性 $p$ 值。
 
 > [!citation-card]- 关键定义
-> Begg 秩相关检验通过检验标准化效应估计与对应抽样方差之间的 Kendall's tau 秩相关，提供了一种不受正态性[[Hypothesis\|假设]]限制的发表偏倚非参数诊断指标（Begg & Mazumdar, 1994; Borenstein et al., 2021）。[[Argument_Erdem_2026_SHE\|(Erdem et al., 2026, p. 960)]]
+> Begg 秩相关检验通过检验标准化效应估计与对应抽样方差之间的 Kendall's tau 秩相关，提供了一种不受正态性假设限制的发表偏倚非参数诊断指标（Begg & Mazumdar, 1994; Borenstein et al., 2021）。[[Argument_Erdem_2026_SHE\|(Erdem et al., 2026, p. 960)]]
 >
 > *The Begg and Mazumdar rank correlation test examines the correlation between standardized effect sizes and their variances using Kendall's tau, serving as a nonparametric test for publication bias (Begg & Mazumdar, 1994).*
 
@@ -119,7 +118,7 @@ updated: 2026-09-17
 > | 比较维度 | Begg 秩相关检验 (Begg & Mazumdar, 1994) | Egger 回归检验 ([[Multilevel Egger's Test\|Egger et al., 1997]]) |
 > |---|---|---|
 > | 统计原理 | **非参数秩相关（基于等级次序 Kendall's tau）** | **参数线性回归**（精度加权残差回归） |
-> | 正态性[[Hypothesis\|假设]] | **无需**正态分布假设，对极端异常值不敏感 | 假设回归残差服从正态分布 |
+> | 正态性假设 | **无需**正态分布假设，对极端异常值不敏感 | 假设回归残差服从正态分布 |
 > | 统计检验功效 | 在样本量较小（$k < 25$）或中等异质性时功效较低 | 检验功效通常显著高于 Begg 检验 |
 > | 适用推荐 | 偏态严重、存在离群点或大样本[[Meta-analysis\|元分析]] | 元分析标准常规报告（配合多水平扩展） |
 

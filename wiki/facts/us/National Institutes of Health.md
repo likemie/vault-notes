@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 44
+fact_related_count: 43
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -54,7 +54,6 @@ related_instruments: []
 related_persons:
   - "[[Franklin D. Roosevelt]]"
   - "[[Mariana Mazzucato]]"
-  - "[[Alfred Nobel]]"
   - "[[Fred Block]]"
 related_facts:
   - "[[Office of Naval Research]]"
@@ -78,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # National Institutes of Health
@@ -151,7 +150,7 @@ updated: 2026-10-14
 
 > [!indicators]- 影响力维度与指标
 > - **公共预算规模** 年度财政拨款逾 450 亿美元，为全球最大的单一生物医药研究公共赞助者。
-> - **[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]关联** 累计有超过 160 位[[Alfred Nobel|诺贝尔]]奖获得者在其职业生涯中得到过 NIH 的持续资助，涵盖了战后现代医学与分子生物学的大部分重大丰碑。
+> - **[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]关联** 累计有超过 160 位诺贝尔奖获得者在其职业生涯中得到过 NIH 的持续资助，涵盖了战后现代医学与分子生物学的大部分重大丰碑。
 > - **国民健康与预期寿命成效** 推动美国心血管疾病死亡率降低超 70%，癌症 5 年生存率从 1970 年代的 50% 提升至近 70%。
 
 > [!stat-cards]- 核心规模与体制数据

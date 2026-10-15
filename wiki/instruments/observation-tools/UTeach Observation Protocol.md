@@ -8,7 +8,7 @@ aliases:
 summary: "由德克萨斯大学奥斯汀分校UTeach项目团队研发的针对数学与科学学科探究式教学的标准化课堂观察工具，围绕课堂环境、课时结构、教学实施以及数学/科学学科内容四大板块设立26项具体评定指标，采用1至5点等级量规综合评价中小学STEM课堂中的探究设计、概念严谨性与学生自主建构深度。"
 type: instrument
 instrument_type: observation-tool
-instrument_related_count: 18
+instrument_related_count: 17
 instrument_related_level: 3
 instrument_related_stars: "⭐⭐⭐"
 instrument_related_color: "#cffafe"
@@ -43,7 +43,6 @@ related_theories: []
 related_methods:
   - "[[Observation Protocol]]"
   - "[[Classroom Observation]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments:
   - "[[Teach Classroom Observation Tool]]"
@@ -102,7 +101,7 @@ UTOP 将探究性 [[STEM Education|STEM]] 课堂表现解构为四大核心板�
 > [!observation-focus] UTOP 核心观察维度重点
 > <span class="instrument-observation-table-marker" aria-hidden="true"></span>
 >
-> | 编号 | 观察维度 | 观察重点 | 记录方式 | 判定或[[Coding in Qualitative Research\|编码]] | 来源 |
+> | 编号 | 观察维度 | 观察重点 | 记录方式 | 判定或编码 | 来源 |
 > |---|---|---|---|---|---|
 > | 1 | 教学实施 | 教师提问能否激发学生进行猜想、论证与替代性解释 | 全课时连续观察 | 1–5 点等级量规 | Walkington et al. (2012) |
 > | 2 | 学科内容 | 教学是否牢固建立在学科核心概念上，而非停留在孤立机械操练 | 全课时连续观察 | 1–5 点等级量规 | 同上 |

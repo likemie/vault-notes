@@ -9,7 +9,7 @@ aliases:
 summary: "主张个体首要伦理忠诚应归于全人类共同体而非特定民族国家的规范哲学与教育思潮。在比较教育中主张超越狭隘爱国主义培育世界公民；在政治哲学与战略治理中则引发深层张力——批评者指出抽象世界主义常制造公共道德真空，弱化民主政体的防卫意志与制度凝聚力。"
 type: concept
 domain: "comparative-education"
-related_count: 22
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Hard Power]]"
   - "[[Dunbar's Number]]"
-  - "[[Bildung]]"
   - "[[Perpetual Peace]]"
   - "[[Technological Republic]]"
 related_theories:
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-09
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Cosmopolitanism
@@ -146,7 +145,7 @@ updated: 2026-10-09
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **后国家道德真空批判** | 批判抽象世界主义掏空国家认同导致资本异化与部落化 | 当代西方治理与地缘安全危机分析 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025); [[Richard Sennett\|Sennett]] (1994) |
-> | **世界公民[[Bildung\|教化]]与根基重构** | 辩护世界公民伦理并探索本土美德与普世博爱的平衡 | 比较教育学、公民哲学与课程正典研讨 | [[Martha Nussbaum\|Nussbaum]] (1994); [[Alasdair MacIntyre\|MacIntyre]] (2007) |
+> | **世界公民教化与根基重构** | 辩护世界公民伦理并探索本土美德与普世博爱的平衡 | 比较教育学、公民哲学与课程正典研讨 | [[Martha Nussbaum\|Nussbaum]] (1994); [[Alasdair MacIntyre\|MacIntyre]] (2007) |
 
 ---
 

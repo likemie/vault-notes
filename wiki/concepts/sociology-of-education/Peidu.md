@@ -7,7 +7,7 @@ aliases:
 summary: "中国农村家庭为子女选择城镇学校而迁入县城或乡镇陪读的做法，本质上是一种通过地理迁移实现的择校行为，按家庭社会经济地位呈现明显的分层分选，中上层家庭的迁出加速了农村学校的衰败。"
 type: concept
 domain: "sociology-of-education"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,7 +20,6 @@ fact_tags:
 related_concepts:
   - "[[School Choice]]"
   - "[[Cultural Capital]]"
-  - "[[Attrition]]"
   - "[[Class Size]]"
 related_theories: []
 related_methods: []
@@ -33,7 +32,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-26
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Peidu
@@ -87,7 +86,7 @@ updated: 2026-09-22
 > [!warning] 农村学校的衰退循环
 > 陪读现象作为中上层家庭用脚投票的结果，带走了农村最具资源优势的生源与家长支持，使留在原地的农村学校陷入不可逆转的恶性衰退循环。[[Argument_Teng_2025_CE\|Teng & Wang (2025, pp. 311–312)]]
 > 
-> - **经费锐减** 公立学校经费按在籍学生数核定拨付，生源大规模向县城[[Attrition\|流失]]导致农村学校经费断崖式下跌，日常运转困难，硬件损坏无钱修缮。
+> - **经费锐减** 公立学校经费按在籍学生数核定拨付，生源大规模向县城流失导致农村学校经费断崖式下跌，日常运转困难，硬件损坏无钱修缮。
 > - **优秀教师流失** 县城学校规模膨胀导致县城师资短缺，教育局通过公开借调、抽调形式将乡镇和村小年轻、优秀的骨干教师调入城里，农村学校只留下临近退休、教学热情较低的高龄教师。
 > - **班级教学氛围恶化** 留校生源在学习成绩、家庭支持上均处于最弱势阶层，[[Class Size\|班级规模]]缩减到极小（如仅有 5 人），导致小组讨论、生生互动等常规教学活动无法开展，进一步挫伤了留守教师的教学积极性。
 > - **信任危机与加速关闭** 软硬件的衰退使得农村学校的教学质量持续走低，彻底摧毁了剩余村民的信任，进而加速了农村家庭的逃离与学校的最终关闭。

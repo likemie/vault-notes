@@ -7,7 +7,7 @@ aliases:
 summary: "指超越新古典狭隘“公共品”修补的整体性治理与创新范式；强调国家、市场与社会在应对重大战略挑战与社会技术转型的全价值链中共同创造、塑造市场，并通过制度化附加条件与护栏条款确保公共投资创造普惠的集体经济、社会与生态福祉；同时强调技术发展必须实质交付于满足公众普遍利益与国家核心职能（如国防安全、医疗突破与高效公共服务），防范因技术被狭隘私人消费主义俘获而导致公共能力空心化与民主政体合法性危机。"
 type: concept
 domain: "science-policy"
-related_count: 69
+related_count: 67
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -45,12 +45,10 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Intellectual Capital]]"
-  - "[[Attrition]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Strategic Autonomy]]"
   - "[[Lifelong Learning]]"
   - "[[Variable]]"
-  - "[[Document]]"
   - "[[Research Translation]]"
   - "[[Patient Capital]]"
   - "[[Governing by Numbers]]"
@@ -96,7 +94,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Public Value
@@ -288,7 +286,7 @@ updated: 2026-10-14
 > [!example] 案例三｜《[[European Chips Act|欧洲芯片法案]]》与 [[Important Projects of Common European Interest|IPCEI]] 中的公共价值困境与超额利润回缴试验
 > 欧盟在追求半导体供应链韧性与自主这一超国家公共价值时，采取了不同于美国中央集权的治理进路：在微电子重大项目（IPCEI ME/CT）中动员 14 个成员国提供 81 亿欧元公共补贴，并要求受助企业执行超额利润回缴机制（Claw-back），即商业化成功后按比例返还部分补贴；然而，由于公共资金完全依赖成员国国库而非欧盟中央预算，德国与法国凭借财政空间垄断了绝大部分重大建厂资助，导致全欧范围的技能培训与区域均衡等更广泛的公共价值被成员国财力竞争所稀释，凸显出缺乏超国家财政直接投资时公共价值创造的体制局限。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14, 16–17)]]
 
-> [!example] 案例四｜冷战早期战略防务共生体向消费软件偏离的公共价值[[Attrition|流失]]
+> [!example] 案例四｜冷战早期战略防务共生体向消费软件偏离的公共价值流失
 > 早期硅谷依托国防部（DoD）与中央情报局（CIA）的战略合同（如[[Fairchild Semiconductor|仙童半导体]]为 Corona 侦察卫星研制军用芯片、[[DARPA]] 资助利克莱德[[Man-Computer Symbiosis|人机共生]]与 [[ARPANET]]），直接催生了现代信息社会的全部基础设施公共价值。但在 1990 年代互联网商业化后，硅谷大批技术精英转向在线广告与消费娱乐应用，将国家防务与公共机构视为障碍；公共部门技术采购受困于官僚合规，沦为“[[Innovation Desert|创新荒漠]]”，导致国家在应对 21 世纪软件定义防务与公共治理挑战时面临严峻的公共价值交付能力短缺。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 7–13)]]
 
 ---
@@ -333,7 +331,7 @@ updated: 2026-10-14
 > | [[Argument_Reynolds_2024_JICT\|Reynolds (2024)]] | 美国《芯片与科学法》（390 亿美元直接制造补贴）与《[[Inflation Reduction Act\|通胀削减法]]》（超 3700 亿美元气候激励） | 政策[[Process Tracing\|过程追踪]]与契约治理分析 | 托儿服务门槛、税收抵免倍数、社区利益计划（CBP）权重、环境正义目标 | 资助额 **>1.5 亿美元** 必须提供托儿方案；满足现行工资与[[Apprenticeship\|学徒制]]可获 **5 倍** 清洁能源税收抵免；[[Department of Energy\|DOE]] 竞争性资助中 CBP 占 **20% 评分权重**；Justice40 规定 **40% 气候收益** 流向弱势社区 | 联邦法案法定条款与实施细则（原文报告） | 证实[[Policy Conditionalities\|制度化附加条件]]将宏观产业补贴有效锚定于劳工福祉与包容性增长等公共价值目标 |
 > | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | 欧盟“[[Horizon Europe\|地平线欧洲]]”（Horizon Europe，约 1000 亿欧元）使命型研发框架 | 政策框架构建与国际案例比较 | 使使命导向设计、跨部门研发联动、公共价值评估 | 围绕气候、癌症、海洋等确立 **5 大重大社会使命**；推动全欧盟科研资金从点状补贴转向跨部门公共价值共创网络 | 欧盟委员会官方政策采纳文本（原文报告） | 确立了超越[[Market Failure\|市场失灵]]修补、以公共价值为导向的顶层使命设计逻辑 |
 > | [[Argument_Bulfone_2024_IAI\|Bulfone et al. (2024)]] | 欧盟《[[European Chips Act\|欧洲芯片法案]]》与 IPCEI ME/CT 跨国协同机制 | 比较政治经济学与多层级治理分析 | 欧盟直接预算份额、成员国国家援助规模、跨国技术协作项目数、超额利润回缴规则 | 欧盟自有预算仅 **33 亿欧元**（号称撬动 430 亿）；14 国提供 **81 亿欧元** 国家援助并撬动 **137 亿欧元** 私人资本；覆盖 **56 家企业与 68 个项目**；建立 **180 项跨国研发合作** | 官方立项数据与法案条文核查（原文报告） | 揭示多层级政体下超国家财政工具缺失对全域公共价值创造的制度约束与区域分化风险 |
-> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01\|Karp & Zamiska (2025)]] | 冷战防务科技合作 vs. 现代硅谷商业偏向（1940s–2020s） | [[Historical Institutionalism\|历史制度主义]]与批判政治哲学 | 联邦研发早期占比、消费广告营收集中度、公共部门采购周期 | 1960 年代联邦政府承担全美近三分之二研发支出并采购早期全部硅微芯片；当代顶尖科技企业广告营收达 80% 以上，公共防务采购流程长达数年并形成“[[Innovation Desert\|创新荒漠]]” | 历史[[Document\|文献]]与产业演进分析 | 证实当技术完全被消费主义捕获而公共交付停滞时，政体将面临深层合法性危机 |
+> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01\|Karp & Zamiska (2025)]] | 冷战防务科技合作 vs. 现代硅谷商业偏向（1940s–2020s） | [[Historical Institutionalism\|历史制度主义]]与批判政治哲学 | 联邦研发早期占比、消费广告营收集中度、公共部门采购周期 | 1960 年代联邦政府承担全美近三分之二研发支出并采购早期全部硅微芯片；当代顶尖科技企业广告营收达 80% 以上，公共防务采购流程长达数年并形成“[[Innovation Desert\|创新荒漠]]” | 历史文献与产业演进分析 | 证实当技术完全被消费主义捕获而公共交付停滞时，政体将面临深层合法性危机 |
 
 ---
 
@@ -342,7 +340,7 @@ updated: 2026-10-14
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 系统阐发超越[[Market Failure|市场失灵]]修补的公共价值共创理论与动态评估工具。
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 实证剖析美国现代产业战略中通过托儿配套、利润分成、现行工资与社区利益计划等[[Policy Conditionalities|制度化附加条件]]与护栏条款实现公共价值创造的具体机制。
-> - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 比较跨大西洋半导体产业政策治理架构对全域公共价值创造与单一市场协调影响的实证[[Document|文献]]。
+> - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 比较跨大西洋半导体产业政策治理架构对全域公共价值创造与单一市场协调影响的实证文献。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska (2025)]] — 阐发[[Technological Republic|技术共和国]]中前沿技术交付与普遍公众利益的关系，揭示公共部门[[Innovation Desert|创新荒漠]]与合法性危机的内在关联。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 揭示[[OECD|经合组织]]新自由主义政策转向如何将教育从民主公共物品异化为公私混合商品，阐明[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]对教育公共价值的残余化收编。
 
@@ -368,7 +366,7 @@ updated: 2026-10-14
 > | [[Bob Lingard]] | Person | 批判[[OECD\|经合组织]][[Governing by Numbers\|数字治理]]与教育公共价值异化的政策社会学家。 |
 > | [[Fazal Rizvi]] | Person | 揭示[[Policy Network\|全球政策网络]]与[[Knowledge-Based Economy\|知识经济]][[Social Imaginary\|社会想象]]侵蚀教育公共价值的学者。 |
 > | [[Jürgen Habermas]] | Person | 提出晚期资本主义合法性危机理论的哲学家与社会学家。 |
-> | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | Argument | 系统阐发超越市场失灵修补的公共价值共创理论与动态评估工具的经典[[Document\|文献]]。 |
+> | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | Argument | 系统阐发超越[[Market Failure\|市场失灵]]修补的公共价值共创理论与动态评估工具的经典文献。 |
 > | [[Argument_Reynolds_2024_JICT\|Reynolds (2024)]] | Argument | 详述现代产业战略如何通过附加条件与护栏条款将公共投资转化为公共价值的实证文献。 |
 > | [[Argument_Bulfone_2024_IAI\|Bulfone et al. (2024)]] | Argument | 比较跨大西洋半导体产业政策治理架构对全域公共价值创造与单一市场协调影响的实证文献。 |
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01\|Karp & Zamiska (2025)]] | Argument | 阐发冷战科技合作演进、公共技术交付断裂与技术共和国重塑的专著第一章。 |

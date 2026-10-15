@@ -10,7 +10,7 @@ summary: "由多位评判者各自估计最低可接受水平者在每个二分�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 9
+method_related_count: 8
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Professional Judgment]]"
-  - "[[Hypothesis]]"
 related_methods:
   - "[[Ebel Method]]"
   - "[[Multiple-Choice Questions]]"
@@ -34,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-25
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Angoff Method
@@ -81,7 +80,7 @@ updated: 2026-09-17
 > 6. 必要时进行多轮评判并讨论分歧，以收敛评判者之间的差异
 
 > [!case] Angoff 方法的计算示例
-> [[Hypothesis\|假设]]一个测验有 5 个二分计分项目，某位评判者估计最低可接受水平者在每题答对的比例分别为 0.80、0.70、0.60、0.85、0.75。则该评判者的切分分数 = 0.80 + 0.70 + 0.60 + 0.85 + 0.75 = 3.70。如果三位评判者的切分分数分别为 3.70、4.10 和 3.90，则最终切分分数可取均值约 3.90——即学生需要在 5 题中答对约 4 题才被视为达标。
+> 假设一个测验有 5 个二分计分项目，某位评判者估计最低可接受水平者在每题答对的比例分别为 0.80、0.70、0.60、0.85、0.75。则该评判者的切分分数 = 0.80 + 0.70 + 0.60 + 0.85 + 0.75 = 3.70。如果三位评判者的切分分数分别为 3.70、4.10 和 3.90，则最终切分分数可取均值约 3.90——即学生需要在 5 题中答对约 4 题才被视为达标。
 
 ---
 

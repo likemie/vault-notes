@@ -5,10 +5,10 @@ aliases:
 summary: "个体依据内在声音和核心价值观主导认知、自我认同与人际关系发展的概念，强调从外部依赖走向内部定向"
 type: concept
 domain: "higher-education"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - self-authorship
   - higher-education
@@ -19,7 +19,6 @@ related_concepts:
   - "[[Intuition-Dependent Mode]]"
   - "[[Conatus]]"
   - "[[Lost Mode]]"
-  - "[[Habitus]]"
 related_theories:
   - "[[Culture as Toolkit]]"
 related_methods: []
@@ -33,7 +32,7 @@ related_arguments:
 confidence: low
 status: draft
 created: 2026-05-08
-updated: 2026-05-18
+updated: 2026-10-15
 ---
 
 ## 定义
@@ -61,6 +60,6 @@ updated: 2026-05-18
 ## 与阶层的关系
 
 > [!info] 与阶层的关系
-> [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]对 Baxter Magolda 理论的借助同时也包含了对其理论局限的反思：作为心理学的理论工具，自我主导性"主要指涉个体的能力，而对其社会性特征语焉不详"。[[Yajun Zheng\|郑雅君]]将自我主导性（作为个体能力）与 Bourdieu 的[[Habitus\|习性]]理论（作为阶层化的倾向系统）结合，指出看似个人能力的"自我主导"实际上深受阶层条件的形塑——优势阶层的高中教育环境（鼓励独立思考、个性发展）本身就是培养自我主导性的训练场。
+> [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]对 Baxter Magolda 理论的借助同时也包含了对其理论局限的反思：作为心理学的理论工具，自我主导性"主要指涉个体的能力，而对其社会性特征语焉不详"。[[Yajun Zheng\|郑雅君]]将自我主导性（作为个体能力）与 Bourdieu 的习性理论（作为阶层化的倾向系统）结合，指出看似个人能力的"自我主导"实际上深受阶层条件的形塑——优势阶层的高中教育环境（鼓励独立思考、个性发展）本身就是培养自我主导性的训练场。
 >
 

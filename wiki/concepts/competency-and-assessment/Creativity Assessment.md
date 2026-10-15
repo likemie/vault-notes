@@ -14,7 +14,7 @@ aliases:
 summary: "创造力测评是对个体的发散思维潜能、创造过程认知加工、实际创新产品与日常观念行为特质的操作化测定与质性评价；在教育与心理研究中用于诊断创造潜能、衡量干预效果并化解效标困境。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 78
+related_count: 77
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -68,7 +68,6 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Effect Size]]"
   - "[[Test-Retest Reliability]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Meta-meta-analysis]]"
   - "[[Three-Level Meta-Analysis]]"
@@ -111,7 +110,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Creativity Assessment
@@ -150,7 +149,7 @@ updated: 2026-10-08
 > | **代表性工具** | [[Torrance Tests of Creative Thinking\|TTCT]]、[[Abbreviated Torrance Test for Adults\|ATTA]]、[[Alternate Uses Test\|AUT]]、[[Test for Creative Thinking-Drawing Production\|TCT-DP]] | [[Remote Associates Test\|RAT]]、OTT 过泛思维、问题界定与观念评估任务 | [[Consensual Assessment Technique\|共识评估技术（CAT）]]、[[Rainbow Project\|彩虹项目]]、工程设计 CEDA | [[Creative Achievement Questionnaire\|CAQ]]、[[Runco Ideational Behavior Scale\|RIBS]]、[[Emotional Creativity Inventory\|ECI]] | AAC&U [[VALUE Rubrics\|VALUE 创造性思维量规]]、[[OECD]] CERI 量规、[[CALOHEE Project\|CALOHEE]] |
 > | **核心测量[[Construct\|构念]]** | 创造潜能（Potential）：发散生成的流畅性、灵活性、独创性、精致性与边框突破 | 认知加工过程（Process）：远距离概念联想、[[Wicked Problem\|劣构问题]]表征与重构 | 实体产品（Product）：实际创作的新颖性与适切性（专家共识评判） | 创造特质与体验（Person）：终身卓越成就、观念产生频率与情绪体验 | 表现性表现（Performance）：承担智识风险、突破常规思维与多源观念整合 |
 > | **作答载体与题型** | 计时开放任务（列举非常规用途、图形完形与碎片组图） | 远距词汇联想三元组、开放情境下的问题重构与替代方案筛选 | 真实艺术作品、文学创作、工程实体原型、学术论文与设计方案 | 5 点或 7 点 Likert 自陈量表、跨领域里程碑成就核查清单 | 4 级阶梯表现描述符（Benchmark → Capstone），直接嵌入课程[[Homework\|作业]] |
-> | **评分[[Reliability\|信度]]与实施成本** | 评分标准化程度高，[[Test-Retest Reliability\|重测信度]]稳定，大样本团体施测成本低 | 评分具有确定标准或明确[[Coding in Qualitative Research\|编码]]规则，施测高效便捷 | 依赖多位同行专家独立匿名评审，组织成本高昂，难以自动化 | 施测便捷高效，但受社会期望与[[Common Method Variance\|共同方法变异]]严重干扰 | 依赖教师校准研讨，需建立跨学科质性评价文化 |
+> | **评分[[Reliability\|信度]]与实施成本** | 评分标准化程度高，[[Test-Retest Reliability\|重测信度]]稳定，大样本团体施测成本低 | 评分具有确定标准或明确编码规则，施测高效便捷 | 依赖多位同行专家独立匿名评审，组织成本高昂，难以自动化 | 施测便捷高效，但受社会期望与[[Common Method Variance\|共同方法变异]]严重干扰 | 依赖教师校准研讨，需建立跨学科质性评价文化 |
 > | **[[Ecological Validity\|生态效度]]与促学价值** | 生态效度受限，高度脱离专业情境，存在长程脱敏风险 | 贴近[[Creative Problem Solving\|创造性问题解决]]的微观瓶颈，具认知诊断价值 | 生态效度极高，被公认为实际产品测量的“黄金标准” | 生态效度中等，反映长周期真实生活表现，促学反馈较弱 | 生态效度极高，评价标准公开透明，全面赋能形成性反馈与自我调节 |
 >
 > （综合 [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]]、[[Argument_Park_2026_TSC\|Park et al. (2026)]]、[[Argument_Guo_2025_TSC\|Guo et al. (2025)]] 与 [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] 梳理）
@@ -169,12 +168,12 @@ updated: 2026-10-08
 > | 测量[[Construct\|构念]]属性 | 主观测量（自陈倾向 / 自我效能 / 成就[[Questionnaire\|问卷]]） | 客观测量（标准化认知测验 / 专家产品评定 / 真实任务量规） |
 > |---|---|---|
 > | **创造潜能与认知过程** | - 创造性自我效能量表（Creative Self-Efficacy Scale）<br>- 马尔马拉创造性思维倾向量表（Marmara Scale）<br>- 考夫曼创造力领域量表（K-DOCS）<br>- 朗科观念行为量表（[[Runco Ideational Behavior Scale\|RIBS]]）<br>- 情绪创造力量表（[[Emotional Creativity Inventory\|ECI]]） | - 托兰斯创造性思维测验（[[Torrance Tests of Creative Thinking\|TTCT]]，言语/图画版）<br>- 成人托兰斯创造性思维简表（[[Abbreviated Torrance Test for Adults\|ATTA]]）<br>- 创造性思维绘画测验（[[Test for Creative Thinking-Drawing Production\|TCT-DP]]）<br>- 另类用途测验（[[Alternate Uses Test\|AUT]]）与生成另类用途测验（GAU）<br>- 远距离联想测验（[[Remote Associates Test\|RAT]]）与过泛思维任务（OTT） |
-> | **创造性产品与综合表现** | - 创造性成就问卷（[[Creative Achievement Questionnaire\|CAQ]]）<br>- 创造力量表自评维度（Creativity Scale）<br>- 学生元技能调查（Student MetaSkills Survey）创造力分量表 | - 专家共识评估技术（[[Consensual Assessment Technique\|CAT]]）<br>- [[Creative Engineering Design Assessment\|创意工程设计评估测验（CEDA）]]<br>- [[Originality Scale of Visual Metaphors\|视觉隐喻原创性量表（OSVM）]]与词语重组测验（WRT）<br>- 斯腾伯格彩虹项目与万花筒项目招生情境任务<br>- AAC&U [[VALUE Rubrics\|VALUE 创造性思维评分量规]]<br>- [[OECD]] CERI 创造力原型评分量规<br>- 欧洲 [[CALOHEE Project\|CALOHEE]] 创新评价参照框架 |
+> | **创造性产品与综合表现** | - 创造性成就问卷（[[Creative Achievement Questionnaire\|CAQ]]）<br>- 创造力量表自评维度（Creativity Scale）<br>- 学生元技能调查（Student MetaSkills Survey）创造力分量表 | - 专家共识评估技术（CAT）<br>- [[Creative Engineering Design Assessment\|创意工程设计评估测验（CEDA）]]<br>- [[Originality Scale of Visual Metaphors\|视觉隐喻原创性量表（OSVM）]]与词语重组测验（WRT）<br>- 斯腾伯格彩虹项目与万花筒项目招生情境任务<br>- AAC&U [[VALUE Rubrics\|VALUE 创造性思维评分量规]]<br>- [[OECD]] CERI 创造力原型评分量规<br>- 欧洲 [[CALOHEE Project\|CALOHEE]] 创新评价参照框架 |
 >
 > （根据 [[Argument_Park_2026_TSC\|Park et al. (2026)]]、[[Argument_Guo_2025_TSC\|Guo et al. (2025)]] 与 [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] 整合扩充）
 
 > [!tension-table] 标准化发散思维测验与专家同感产品评定（CAT）的系统权衡
-> | 评价维度 | 标准化发散思维测验（如 [[Torrance Tests of Creative Thinking\|TTCT]] / [[Alternate Uses Test\|AUT]] / [[Test for Creative Thinking-Drawing Production\|TCT-DP]]） | 专家共识评估技术（Consensual Assessment Technique, [[Consensual Assessment Technique\|CAT]]） |
+> | 评价维度 | 标准化发散思维测验（如 [[Torrance Tests of Creative Thinking\|TTCT]] / [[Alternate Uses Test\|AUT]] / [[Test for Creative Thinking-Drawing Production\|TCT-DP]]） | 专家共识评估技术（Consensual Assessment Technique, CAT） |
 > |---|---|---|
 > | **心理测量学[[Reliability\|信度]]** | **极高** 具有标准化评分指南与常模参照，[[Inter-Rater Reliability\|评分者间信度]]与[[Test-Retest Reliability\|重测信度]]稳定。 | **中等** 依赖多名专家的主观共识（通常要求 ICC $\ge 0.70$），受评委偏好影响。 |
 > | **[[Ecological Validity\|生态效度]]与真实性** | **低至中等** 采用脱离真实专业情境的抽象任务，测量的仅是创造潜能而非实际成就。 | **极高** 直接评定真实世界中的艺术作品、工程设计或学术研究，被誉为“黄金标准”。 |
@@ -266,7 +265,7 @@ updated: 2026-10-08
 > [!debates] 测评方法学争议与[[Paradigm\|范式]]张力
 >
 > > [!axis] 潜能测查 vs 真实产出
-> > [[Divergent Thinking\|发散思维]]测验（[[Torrance Tests of Creative Thinking\|TTCT]]/[[Alternate Uses Test\|AUT]]/[[Abbreviated Torrance Test for Adults\|ATTA]]）测量的是心理加工潜能，但高潜能并不必然转化为卓越[[Creativity\|创造性]]成果；专家产品评定（[[Consensual Assessment Technique\|CAT]]）直接测量真实产出，但受限于作品完成度与领域专业积累。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 5–8)]]
+> > [[Divergent Thinking\|发散思维]]测验（[[Torrance Tests of Creative Thinking\|TTCT]]/[[Alternate Uses Test\|AUT]]/[[Abbreviated Torrance Test for Adults\|ATTA]]）测量的是心理加工潜能，但高潜能并不必然转化为卓越[[Creativity\|创造性]]成果；专家产品评定（CAT）直接测量真实产出，但受限于作品完成度与领域专业积累。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 5–8)]]
 >
 > > [!axis] 通用测验 vs [[Domain Specificity\|领域特异性]]任务
 > > 通用图形/词语发散测验试图建立跨学科常模，但高度脱离专业情境；学科真实性表现任务（如工程设计 [[Creative Engineering Design Assessment\|CEDA]]、历史课题探究）具有极高[[Ecological Validity\|生态效度]]，但跨学科横向可比性大幅下降。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 23–28)]]
@@ -325,7 +324,7 @@ updated: 2026-10-08
 >
 > | 调查或政策研究 | 样本与范围 | 主要测量与调查内容 | 核心定性与定量发现 | 关键解释边界 |
 > |---|---|---|---|---|
-> | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | [[OECD]] 国家高等教育系统与高校课程大纲普查 | 高等教育质量保障与创新人才测评机制（发散测验、[[Consensual Assessment Technique\|CAT]]、招生任务与 [[VALUE Rubrics\|VALUE]] 量规） | 绝大多数高校课程大纲宣称培养创造力，但微观教学中显性创造力评价工具普遍缺失；量规实践仍处于局部试点 | 制度惯性与大规模常模校准困难是阻碍高校创造力测评落地的首要原因 |
+> | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | [[OECD]] 国家高等教育系统与高校课程大纲普查 | 高等教育质量保障与创新人才测评机制（发散测验、CAT、招生任务与 [[VALUE Rubrics\|VALUE]] 量规） | 绝大多数高校课程大纲宣称培养创造力，但微观教学中显性创造力评价工具普遍缺失；量规实践仍处于局部试点 | 制度惯性与大规模常模校准困难是阻碍高校创造力测评落地的首要原因 |
 > | [[Measuring Quality Inventory]] | 美国高教质量评价总库（[[AIR Model of Epistemic Cognition\|AIR]] / ACE / NILOA 联合收录 250+ 工具） | 收录测评工具、[[Questionnaire\|问卷]]与评估规程的构念覆盖度普查 | 250 余种高教评估工具中，针对批判性思维与通用学术技能的工具有数十种，而针对创造力测量的成熟工具极端匮乏 | 揭示了高等教育评价生态中创造力测量工具供给的严重结构性失衡 |
 
 ---
@@ -333,7 +332,7 @@ updated: 2026-10-08
 ## 教育应用与教学实践
 
 > [!implication]- 高等教育[[Creativity\|创造力]]评价体系建构四项关键原则
-> 1. **推进“潜能筛查 + 产品评价 + 真实量规”的多源复合测评** 摒弃单一依赖发散纸笔测验或自陈量表的片面做法，在大学入门阶段使用标准化简表（如 [[Abbreviated Torrance Test for Adults\|ATTA]] / [[Test for Creative Thinking-Drawing Production\|TCT-DP]]）进行基线诊断，在期末与毕业设计中运用专家共识技术（[[Consensual Assessment Technique\|CAT]]）评定真实创新产品；
+> 1. **推进“潜能筛查 + 产品评价 + 真实量规”的多源复合测评** 摒弃单一依赖发散纸笔测验或自陈量表的片面做法，在大学入门阶段使用标准化简表（如 [[Abbreviated Torrance Test for Adults\|ATTA]] / [[Test for Creative Thinking-Drawing Production\|TCT-DP]]）进行基线诊断，在期末与毕业设计中运用专家共识技术（CAT）评定真实创新产品；
 > 2. **建立显性化、嵌入式的课程表现性量规** 借鉴 AAC&U VALUE 与 [[OECD]] [[Centre for Educational Research and Innovation\|CERI]] 原型量规，将“突破常规[[Paradigm\|范式]]”、“承担智识风险”与“多源概念整合”转化为清晰透明的 4 级表现量规，直接嵌入日常探究[[Homework\|作业]]与项目设计中；
 > 3. **审慎解释自陈[[Questionnaire\|问卷]]并防范[[Common Method Variance\|共同方法变异]]** 在科研与教学评估中使用自陈量表（如 [[Creative Self-Efficacy\|CSE]]、[[Emotional Creativity Inventory\|ECI]]、[[Creative Achievement Questionnaire\|CAQ]]）时，必须与客观任务或专家评定交叉验证，严防评价虚高；
 > 4. **警惕长周期机械测验引发的脱敏定势** 标准化发散测验宜用于中短期干预前[[Pre-test and Post-test\|后测]]评估，避免常年频繁机械刷题导致的测验[[Habituation\|习惯化]]与创造动机倦怠。
@@ -346,7 +345,7 @@ updated: 2026-10-08
 > - [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] — 系统综合 52 项一阶[[Meta-analysis\|元分析]]，确立[[Creativity\|创造力]]测评四大[[Paradigm\|范式]]与二阶效应基准，量化揭示[[Independent Variable\|预测变量]]（$r = 0.29$）与[[Dependent Variable\|结果变量]]（$r = 0.12$）的不对称性，证实过程测量（$r = 0.27$）优于单纯发散测验。
 > - [[Argument_Park_2026_TSC\|Park et al. (2026)]] — 开展[[Three-Level Meta-Analysis\|三水平元分析]]检验创造力与[[Critical Thinking\|批判性思维]]的测量关联，证实测量类型组合显著调节观察效应（双主观 $r = 0.509$ vs 双客观 $r = 0.317$），揭示了 [[Common Method Variance\|CMV]] 膨胀与[[Executive Function\|执行功能]]真实重叠的双重机制。
 > - [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] — 综合 29 项高校实验（109 个[[Effect Size\|效应量]]），实证确立[[Creativity Training\|创造力干预]]总体增益（$g = 0.628$），并首次系统量化了不同测量工具与子[[Construct\|构念]]的响应敏感度（思维测验 $g = 0.671$、图形创作 $g = 0.644$、词汇联想 $g = 0.641$、言语表达 $g = 0.606$、[[Problem Solving\|问题解决]] $g = 0.539$、情绪量表 $g = 0.397$）。
-> - [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] — [[Systematic Review\|系统综述]] [[OECD]] 国家高教创造力评价政策，梳理发散测验、[[Consensual Assessment Technique\|CAT]] 专家评定、[[Rainbow Project\|彩虹项目]]招生试验与校本真实性量规（VALUE/[[Centre for Educational Research and Innovation\|CERI]]/[[CALOHEE Project\|CALOHEE]]）的实施机制与制度挑战。
+> - [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] — [[Systematic Review\|系统综述]] [[OECD]] 国家高教创造力评价政策，梳理发散测验、CAT 专家评定、[[Rainbow Project\|彩虹项目]]招生试验与校本真实性量规（VALUE/[[Centre for Educational Research and Innovation\|CERI]]/[[CALOHEE Project\|CALOHEE]]）的实施机制与制度挑战。
 > - [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] — [[Meta-meta-analysis\|二阶元分析]]证实[[Cooperative Learning\|合作学习]]对创造性思维等[[Higher-Order Thinking Skills\|高阶认知技能]]具有显著促进效应（$ES = 0.76$），确立了社会建构情境对打破思维定势的测评与教学价值。
 
 ---

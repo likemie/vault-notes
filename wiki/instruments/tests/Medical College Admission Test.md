@@ -9,7 +9,7 @@ aliases:
 summary: "由美国医学院协会（AAMC）开发的高利害医学院准入选拔考试，其关键模块批判性分析与推理技能（CARS）通过53道情境题全面测查申请者的文本批判理解、论据推理与跨情境推论能力。"
 type: instrument
 instrument_type: test
-instrument_related_count: 6
+instrument_related_count: 5
 instrument_related_level: 1
 instrument_related_stars: "⭐"
 instrument_related_color: "#dbeafe"
@@ -29,7 +29,6 @@ tags:
   - medical-admission
 related_concepts:
   - "[[Critical Thinking]]"
-  - "[[Hypothesis]]"
   - "[[Predictive Validity]]"
 related_theories: []
 related_methods:
@@ -43,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-08-27
+updated: 2026-10-15
 ---
 
 # Medical College Admission Test
@@ -67,7 +66,7 @@ updated: 2026-08-27
 >
 > | 维度 | 题项占比 | 测量内容 | 计分方式 |
 > |---|---|---|---|
-> | **文本基础理解（Foundations of Comprehension）** | ~30% | 理解复杂学术文本的核心论点、识别修辞意图与隐含[[Hypothesis\|假设]]。 | 机器自动计分（118–132 量表分） |
+> | **文本基础理解（Foundations of Comprehension）** | ~30% | 理解复杂学术文本的核心论点、识别修辞意图与隐含假设。 | 机器自动计分（118–132 量表分） |
 > | **文本内逻辑推理（Reasoning Within the Text）** | ~30% | 辨析论点与论据之间的逻辑结构、评估证据强度、识别推理谬误。 | 机器自动计分 |
 > | **跨情境逻辑推演（Reasoning Beyond the Text）** | ~40% | 将论述推演至全新情境、评估引入新证据对原结论的强化或削弱效应。 | 机器自动计分 |
 

@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 30
+fact_related_count: 28
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Academic Freedom]]"
   - "[[Scientific Literacy]]"
   - "[[STEM Education]]"
-  - "[[APA Style]]"
   - "[[Tacit Knowledge]]"
   - "[[Learning by Doing]]"
   - "[[Grandes Ecoles]]"
@@ -45,7 +44,6 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Richard C. Atkinson]]"
-  - "[[Alfred Nobel]]"
   - "[[Vannevar Bush]]"
   - "[[Zewelanji N. Serpell]]"
 related_facts:
@@ -63,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # American Association for the Advancement of Science
@@ -102,14 +100,14 @@ updated: 2026-10-14
 ## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
-> - **理事会（Board of Directors）与评议会（Council）** 由民选会长（通常由[[Alfred Nobel|诺贝尔]]奖得主或学术宗师出任，如前 [[National Science Foundation|NSF]] 主任阿特金森）、候任会长及 24 个学部的选举代表组成，负责确立学会宏观学术方向与科学伦理标准。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 48)]]
+> - **理事会（Board of Directors）与评议会（Council）** 由民选会长（通常由诺贝尔奖得主或学术宗师出任，如前 [[National Science Foundation|NSF]] 主任阿特金森）、候任会长及 24 个学部的选举代表组成，负责确立学会宏观学术方向与科学伦理标准。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 48)]]
 > - **首席执行官与管理团队** 由执行总裁统领，下设学术出版部、国际事务部、[[STEM Education|STEM]] 教育与人力资源部，以及科学政策项目办公室（Science Policy Programs）。
 > - **24 个专业学部（Sections）** 包括教育学（Section Q）、心理学（Section J）、社会经济与政治学（Section K）等，体现了自然科学与社会科学高度交融的综合特性。
 > - **研发预算与政策项目组（R&D Budget and Policy Program）** 独立测算并长程跟踪联邦研发预决算、机构支出与学科分布，为学术界与政策制定者提供独立财政量化基准。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 28–29)]]
 
 > [!pathways]- 业务运行机制与跨界协同网络
 > - **科技政策研究员遴选与集中培植** 每年在全美公开遴选数百名拥有博士学位的各学科顶尖科学家，开展为期两周的“华盛顿政治与立法微型魔鬼集训”，随后派遣至参众两院议员个人办公室、常设委员会或联邦部委担任为期一至两年的全职特别幕僚。
-> - **同盟学会协同模式** AAAS 充当超级平台，与 [[American Educational Research Association|AERA]]、[[Society for Research in Child Development|SRCD]]、[[APA Style|APA]] 等三十余个专业协会建立联合资助联盟，协同管理学科专长研究员的国会入驻与后续校友网络。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 46–47)]]
+> - **同盟学会协同模式** AAAS 充当超级平台，与 [[American Educational Research Association|AERA]]、[[Society for Research in Child Development|SRCD]]、APA 等三十余个专业协会建立联合资助联盟，协同管理学科专长研究员的国会入驻与后续校友网络。[[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 46–47)]]
 > - **国家科学政策独立研讨与冷战史学反思** 定期组织由原政府高官、高校领袖与科学政策史学家参与的高峰研讨会，系统剖析早期冷战对美国国家科学政策形成的影响、基础研究资助结构变迁及跨国体制比较。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 47)]]
 
 ---

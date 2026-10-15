@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 30
+fact_related_count: 28
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -29,8 +29,6 @@ related_concepts:
   - "[[Causality]]"
   - "[[Academic Achievement]]"
   - "[[Evidence Standards]]"
-  - "[[Hypothesis]]"
-  - "[[Teaching Assistant]]"
   - "[[Variable]]"
   - "[[Attrition]]"
   - "[[Achievement and Aptitude Tests]]"
@@ -63,7 +61,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-01
-updated: 2026-09-14
+updated: 2026-10-15
 ---
 
 # Tennessee STAR Project 1985-1989
@@ -88,14 +86,14 @@ updated: 2026-09-14
 ## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
-> STAR 项目[[Hypothesis\|假设]]：在儿童正式教育的起点阶段（K-3），将[[Class Size\|班级规模]]大幅压缩至 13–17 人，能显著增加教师针对个体学生的即时反馈与诊断性互动，改善课堂纪律与专注度，从而带来具有长期累积效应的学业增益。[[Argument_Wiliam_2019_ERE\|(Wiliam, 2019, p. 6)]]
+> STAR 项目假设：在儿童正式教育的起点阶段（K-3），将[[Class Size\|班级规模]]大幅压缩至 13–17 人，能显著增加教师针对个体学生的即时反馈与诊断性互动，改善课堂纪律与专注度，从而带来具有长期累积效应的学业增益。[[Argument_Wiliam_2019_ERE\|(Wiliam, 2019, p. 6)]]
 
 项目在设计上严格遵循实验控制原则，设立了平行的对比组别与严格的[[Random Assignment|随机化]]规程。
 
 > [!policy-design]- 方案设计
 > - **项目目标** 科学测定小学低年级小班相对于常规大班对学生基础认知素养（阅读、数学）的净因果增值及长远留存效应。[[Argument_Wiliam_2019_ERE\|(Wiliam, 2019, p. 6)]]
 > - **覆盖对象** 田纳西州 79 所参与学校初入学的幼儿园儿童及逐年升入一至三年级的受试学生，教师亦按同等规则随机分配。[[Argument_Snook_2009_NZJES\|(Snook et al., 2009, p. 100)]]
-> - **干预措施** 设立三种班级组织形态：小班组（Small Class，13–17 人）、常规大班组（Regular Class，22–26 人）、常规大班配全职[[Teaching Assistant\|助教]]组（Regular with Aide，22–26 人加 1 名专任助教）。[[Argument_Wiliam_2019_ERE\|(Wiliam, 2019, p. 5)]]
+> - **干预措施** 设立三种班级组织形态：小班组（Small Class，13–17 人）、常规大班组（Regular Class，22–26 人）、常规大班配全职助教组（Regular with Aide，22–26 人加 1 名专任助教）。[[Argument_Wiliam_2019_ERE\|(Wiliam, 2019, p. 5)]]
 > - **实施控制** 采用校内分层[[Random Assignment\|随机分配]]机制，学生和教师均被随机分配至三类班级；四年级起全体学生回归常规规模班级，实施[[Blinding\|盲态]]长期学业追踪。[[Argument_Wiliam_2019_ERE\|(Wiliam, 2019, pp. 5–6)]]
 
 > [!citation-card] 统计学界对项目的权威评价（Mosteller, 1995）

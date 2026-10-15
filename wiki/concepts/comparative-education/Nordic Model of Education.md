@@ -7,7 +7,7 @@ aliases:
 summary: "北欧福利国家制度的核心支柱，以民主、团结、社会公平和人人平等为原则，致力于通过公共均等化基础教育促进社会整合"
 type: concept
 domain: "comparative-education"
-related_count: 16
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Global Education Reform Movement]]"
   - "[[Discourse]]"
   - "[[21st Century Skills and Competencies Discourse]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[New Public Management]]"
 related_theories: []
 related_methods:
@@ -41,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-22'
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Nordic Model of Education
@@ -96,7 +95,7 @@ updated: 2026-10-12
 > 20世纪90年代以来，芬兰等国遭遇严重经济衰退，这削弱了本土模式的抵抗力，导致国家急于响应 [[OECD]] 的”信息社会”和”[[21st Century Skills and Competencies Discourse\|21世纪技能]]”政策话语。[[PISA]] 测试的意外成功非但没有增强其自主权，反而带来了维持”最佳模型”的焦虑，加速吸纳全球测量和经济竞争逻辑，破坏了传统福利教育的团结基础（[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 8–10]]）。
 
 > [!claim] Baird et al. (2016)
-> 北欧模式构成了各国回应 PISA 外部影响的文化-制度[[Transfer Translation Transformation\|转译]]框架。挪威案例表明：北欧模式对[[Education for All\|全民教育]]和包容的强调与 PISA 框架天然一致，这使得该国无需根本性改革即可在 PISA 话语中获得合法性；同时，挪威语中缺乏 accountability 一词和对学校自治的传统支持，构成对 [[Global Education Reform Movement\|GERM]] 测试问责逻辑的文化-语言免疫力。不同国家对同一 PISA 结果的解读和政策回应因其文化转译机制不同而呈现显著差异（引自 [[Argument_Li_2025_HSSC\|Li et al., 2025]]）。
+> 北欧模式构成了各国回应 PISA 外部影响的文化-制度转译框架。挪威案例表明：北欧模式对[[Education for All\|全民教育]]和包容的强调与 PISA 框架天然一致，这使得该国无需根本性改革即可在 PISA 话语中获得合法性；同时，挪威语中缺乏 accountability 一词和对学校自治的传统支持，构成对 [[Global Education Reform Movement\|GERM]] 测试问责逻辑的文化-语言免疫力。不同国家对同一 PISA 结果的解读和政策回应因其文化转译机制不同而呈现显著差异（引自 [[Argument_Li_2025_HSSC\|Li et al., 2025]]）。
 
 ---
 
@@ -113,4 +112,4 @@ updated: 2026-10-12
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff (2024)]] — 分析了芬兰传统上承载北欧福利国家民主团结理想的教育体系，如何在 21 世纪被新自由主义治理和[[Global Education Industry\|全球教育产业]]重塑。
-> - [[Argument_Li_2025_HSSC\|Li et al. (2025)]] — [[Systematic Review\|系统综述]]揭示了北欧模式如何作为各国回应 [[PISA]] 的文化-制度[[Transfer Translation Transformation\|转译]]框架：挪威案例展示了北欧模式与 PISA 公平框架的天然契合，以及挪威语中 accountability 缺失对测试问责的文化免疫力。
+> - [[Argument_Li_2025_HSSC\|Li et al. (2025)]] — [[Systematic Review\|系统综述]]揭示了北欧模式如何作为各国回应 [[PISA]] 的文化-制度转译框架：挪威案例展示了北欧模式与 PISA 公平框架的天然契合，以及挪威语中 accountability 缺失对测试问责的文化免疫力。

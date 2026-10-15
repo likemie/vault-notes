@@ -17,12 +17,10 @@ tags: []
 related_concepts:
   - "[[Epistemology]]"
   - "[[Epistemic Cognition]]"
-  - "[[Document]]"
   - "[[Ontology]]"
   - "[[Epistemological Naturalism]]"
   - "[[Causal Processes]]"
   - "[[Praxis]]"
-  - "[[Hypothesis]]"
   - "[[Multiplist]]"
   - "[[Critical Thinking]]"
   - "[[Evaluativist]]"
@@ -89,7 +87,7 @@ title: "Argument_Sandoval_2016_RRE"
 argument_key: "Argument_Sandoval_2016_RRE"
 argument_display_title: "Understanding and Promoting Thinking About Knowledge: Origins, Issues, and Future Directions of Research on Epistemic Cognition"
 argument_kind: "journal-article"
-argument_related_count: 56
+argument_related_count: 54
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -112,7 +110,7 @@ issuing_organization: ""
 > 认识论认知研究处于充满活力但极度分裂的状态。跨越知识概念化、领域普遍性与情境性、发展轨迹、测量方法等四大核心断层线，并采用[[Integrative Pluralism\|整合的多元主义]]（integrative [[Pluralism]]）视角统合个体内在认知与社会文化情境，是指导复杂信息时代教育实践的前提。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 心理学与教育学关于认识论认知与个人[[Epistemology\|认识论]]（personal epistemology）的267篇高被引核心[[Document\|文献]]。
+> - **对象** 心理学与教育学关于认识论认知与个人[[Epistemology\|认识论]]（personal epistemology）的267篇高被引核心文献。
 > - **张力** [[Cognitive Constructivism\|个体建构主义]]关注内部心理表征，情境视角关注社会实践，二者在[[Ontology\|本体论]]和方法论上存在深度割裂。
 > - **贡献** 绘制领域诊断图，界定不同派别争论的底层分歧点，为[[Mixed Methods Research\|混合方法研究]]和跨语境迁移指明道路。
 
@@ -137,9 +135,9 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **文献检索与筛选**<br>Literature Review | 在 Web of Science 数据库中以对应英文术语为检索词，筛选出被引超过10次的[[Document\|文献]]，结合领域内三本核心著作的章节，锁定267篇核心文献。 |
+> | **文献检索与筛选**<br>Literature Review | 在 Web of Science 数据库中以对应英文术语为检索词，筛选出被引超过10次的文献，结合领域内三本核心著作的章节，锁定267篇核心文献。 |
 > | **文献计量分析**<br>Bibliometric Analysis | 提取核心文献在不同数据库的被引总数和年均被引数，进行排序和斯皮尔曼等级相关分析（Spearman rank correlation），验证高被引文献的高度一致性（r > .834）。 |
-> | **主题综合与理论批判**<br>Theoretical Synthesis | 放弃按年代线性综述的常规做法，采用识别断层线的方法，横向切割各流派在核心[[Hypothesis\|假设]]上的根本分歧。 |
+> | **主题综合与理论批判**<br>Theoretical Synthesis | 放弃按年代线性综述的常规做法，采用识别断层线的方法，横向切割各流派在核心假设上的根本分歧。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -179,7 +177,7 @@ issuing_organization: ""
 >   > 2. **多维信念系统（Dimensional Models）**Schommer (1990) 打破了阶段论同步发展的局限，主张认识论是由多个可独立异步变化的信念维度构成的。随后，[[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] 进一步将这些多维信念提炼聚合为四大核心维度：[[Simplicity of Knowledge\|知识的简单性]]与确定性（关于知识的本质）、[[Source of Knowledge\|知识的来源]]与确证（关于认知的本质）。
 >   > 3. **量化测量的繁荣与脱域隐患** 多维模型的提出催生了高度标准化的自陈量表（如 Schommer 编制的认识论[[Questionnaire\|问卷]]（Epistemological Questionnaire, EQ））。虽然这些工具通过将信念转化为客观分数极大推动了该领域的[[Quantitative Research\|量化研究]]，但也由于其严重脱离具体实践情境的测量设计，遗留了将认知误视为一种稳定“特质（trait）”的理论隐患，并持续面临心理测量学上[[Construct Validity\|构念效度]]不佳的批评。
 > - **链节三 发展心理学的前置补全（Developmental Foundations）**
->   儿童并不像早期理论[[Hypothesis\|假设]]的那样缺乏[[Epistemic Cognition\|认识论认知]]。幼儿在四个底层维度展现了极早期的发育：
+>   儿童并不像早期理论假设的那样缺乏[[Epistemic Cognition\|认识论认知]]。幼儿在四个底层维度展现了极早期的发育：
 >   > [!info] 四大底层维度解析
 >   > 1. **[[Theory of Mind\|心智理论]]（theory of mind）** 理解他人不仅拥有独立的心理状态，且可能持有与现实不符的“错误信念”（false belief，约 5 岁显现）。这构成了日后评估知识主张来源的直接认知底座。
 >   > 2. **因果推理（causal reasoning）** 儿童并非只能被动接受知识。到 8 至 9 岁时，他们已经能够清晰区分通过“推断（inference）”得出的结论与纯粹的“猜测”或直接的“知觉观察”之间的本质差别。
@@ -293,7 +291,7 @@ issuing_organization: ""
 
 > [!stat-cards]- 核心数据
 > - **267** 经过系统的引文网络检索和筛选，纳入综述的核心出版物总数。
-> - **.966** Thomson Reuters 数据库与 Google Scholar 数据库在总被引次数排序上的[[Pearson Product-Moment Correlation\|皮尔逊相关]]系数（Pearson correlation coefficient），验证了核心[[Document\|文献]]池的稳健性。
+> - **.966** Thomson Reuters 数据库与 Google Scholar 数据库在总被引次数排序上的[[Pearson Product-Moment Correlation\|皮尔逊相关]]系数（Pearson correlation coefficient），验证了核心文献池的稳健性。
 
 ---
 
@@ -316,7 +314,7 @@ issuing_organization: ""
 ## 自述局限
 
 > [!warning]
-> 综述数据集依赖于 Thomson Reuters Web of Science，可能无法完整捕捉书籍章节等其他[[Document\|文献]]形式的全面影响力，尽管已通过 Google Scholar 进行了交叉验证和手动增补。（p. 459）
+> 综述数据集依赖于 Thomson Reuters Web of Science，可能无法完整捕捉书籍章节等其他文献形式的全面影响力，尽管已通过 Google Scholar 进行了交叉验证和手动增补。（p. 459）
 
 ---
 

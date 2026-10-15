@@ -8,10 +8,10 @@ aliases:
 summary: "学习者在面临学业困难或知识盲区时，主动识别障碍、调动外部社会或技术资源以维持学习进程的自我调节学习与认识论策略，涵盖工具性求助、执行性求助与人机交互低威胁求助"
 type: concept
 domain: "educational-psychology"
-related_count: 30
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 28
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 confidence: high
 status: active
 tags:
@@ -20,8 +20,6 @@ tags:
   - cognition/learning-science
 related_concepts:
   - "[[Task Structure]]"
-  - "[[Teaching Assistant]]"
-  - "[[Document]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Self-Regulated Learning]]"
   - "[[Epistemology]]"
@@ -56,7 +54,7 @@ related_arguments:
   - "[[Argument_Chen_Cheung_2025_ERR]]"
   - "[[Argument_Li_2012_Cambridge]]"
 created: 2026-09-22
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Academic Help-Seeking
@@ -66,7 +64,7 @@ updated: 2026-10-07
 ## 定义
 
 > [!def] 核心定义
-> 学业求助（Academic Help-Seeking，亦作学业求助行为）是指学习者在遭遇认知瓶颈、概念困惑或[[Task Structure\|劣构任务]]障碍时，主动觉察自身理解局限并战略性地向外部人力资源（教师、同伴、[[Teaching Assistant\|助教]]）或技术中介（智能系统、[[Document\|文献]]数据库、[[Generative Artificial Intelligence\|生成式人工智能]]）寻求支持的高级[[Self-Regulated Learning\|自我调节学习]]（Self-Regulated Learning, SRL）与[[Epistemology\|认识论]]行为。它并非单纯的认知依赖或被动顺从，而是兼具[[Metacognition\|元认知]]监控、情感调控与社会交往的多维积极探究策略。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 361–362)]]; [[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 10–13)]]; [[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 106–108)]]
+> 学业求助（Academic Help-Seeking，亦作学业求助行为）是指学习者在遭遇认知瓶颈、概念困惑或[[Task Structure\|劣构任务]]障碍时，主动觉察自身理解局限并战略性地向外部人力资源（教师、同伴、助教）或技术中介（智能系统、文献数据库、[[Generative Artificial Intelligence\|生成式人工智能]]）寻求支持的高级[[Self-Regulated Learning\|自我调节学习]]（Self-Regulated Learning, SRL）与[[Epistemology\|认识论]]行为。它并非单纯的认知依赖或被动顺从，而是兼具[[Metacognition\|元认知]]监控、情感调控与社会交往的多维积极探究策略。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 361–362)]]; [[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 10–13)]]; [[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 106–108)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 学习者将外部社会网络与技术系统转化为自身认知拓展延伸的自适应行为过程。

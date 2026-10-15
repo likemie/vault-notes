@@ -10,7 +10,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 37
+fact_related_count: 36
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -27,7 +27,6 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Educational Brokerage Agency]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Paradigm]]"
   - "[[Effective Teaching]]"
   - "[[Knowledge Mobilisation]]"
@@ -70,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Centre for the Use of Research and Evidence in Education
@@ -80,7 +79,7 @@ updated: 2026-09-22
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> [[Evidence-Based Education\|循证教育]]研究与使用中心（Centre for the Use of Research and Evidence in Education, CUREE）是英国由菲莉帕·科丁利（Philippa Cordingley）于 1990 年代末领衔创设的独立专业[[Educational Brokerage Agency\|知识中介机构]]；在[[OECD\|经济合作与发展组织]]（OECD）2007 年对国际中介生态的梳理中，CUREE 被确立为国际上极少数从创立之初便“专门且排他性地聚焦于教师与微观教学实践”的先锋中介，开创了从抽象证据评级转向情境化教师专业学习与“研究路线图”（Research Route Maps）的[[Transfer Translation Transformation\|转译]][[Paradigm\|范式]]([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 57]]; [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 34]])。
+> [[Evidence-Based Education\|循证教育]]研究与使用中心（Centre for the Use of Research and Evidence in Education, CUREE）是英国由菲莉帕·科丁利（Philippa Cordingley）于 1990 年代末领衔创设的独立专业[[Educational Brokerage Agency\|知识中介机构]]；在[[OECD\|经济合作与发展组织]]（OECD）2007 年对国际中介生态的梳理中，CUREE 被确立为国际上极少数从创立之初便“专门且排他性地聚焦于教师与微观教学实践”的先锋中介，开创了从抽象证据评级转向情境化教师专业学习与“研究路线图”（Research Route Maps）的转译[[Paradigm\|范式]]([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 57]]; [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 34]])。
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1997 年创立于英国考文垂，旨在破除传统大学象牙塔式研究与中小学日常教研之间的鸿沟，致力于将严谨学术证据直接转化为一线教师能用、想用且好用的实践工具。
@@ -97,7 +96,7 @@ updated: 2026-09-22
 > - **2003–2005 — 协作型 CPD [[Systematic Review\|系统综述]]奠基** 联合大学学者开展划时代的教师专业发展系统综述（Cordingley et al., 2003），实证证实“协作型同行专业学习（Collaborative CPD）”相较于传统的单向灌输培训，对改善学生学业与改变教师行为具有决定性优势。
 > - **2007 — [[OECD]] 报告确立为微观实践先驱** 经合组织 2007 年首份报告指出，当时英国 [[EPPI-Centre]]、美国 [[What Works Clearinghouse\|WWC]] 与新西兰 BES 整体严重偏向宏观政策决策，而 CUREE 是极少数专精于学校微观实践的独立中介标杆([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 57]])。
 > - **2011 — 实践者参与研究里程碑调查** 受英国综合教师委员会（GTCE）委托发布系统综述，揭示教师参与研究对学校改进具有显著效益，但由于缺乏常态化制度支持，其从个人尝试走向全校文化依然进展缓慢([[Argument_Nelson_2017_ER\|Nelson & Campbell, 2017, p. 130]])。
-> - **2010 年代至今 — 研究路线图与国家教练框架深化** 研发“研究路线图”（Research Route Maps）交互工具，参与制定英国国家教学辅导与指导框架（National Coaching and Mentoring Framework），常态化通过 [curee.co.uk](http://www.curee.co.uk) 输出微观教学[[Transfer Translation Transformation\|转译]]资源。
+> - **2010 年代至今 — 研究路线图与国家教练框架深化** 研发“研究路线图”（Research Route Maps）交互工具，参与制定英国国家教学辅导与指导框架（National Coaching and Mentoring Framework），常态化通过 [curee.co.uk](http://www.curee.co.uk) 输出微观教学转译资源。
 
 ---
 
@@ -105,7 +104,7 @@ updated: 2026-09-22
 
 > [!actor-grid] 组织治理与执行矩阵
 > - **首席学术领导层（Philippa Cordingley 团队）** 把握机构[[Knowledge Mobilisation\|知识动员]]理论前沿，统筹综述方法论与咨询项目设计。
-> - **[[Transfer Translation Transformation\|转译]]与课程研发团队** 由具备一线丰富教学经验的特级教师、学科带头人与教育研究者共同组成，确保工具包的实践[[Ecological Validity\|生态效度]]。
+> - **转译与课程研发团队** 由具备一线丰富教学经验的特级教师、学科带头人与教育研究者共同组成，确保工具包的实践[[Ecological Validity\|生态效度]]。
 > - **学校伙伴协作网络** 与全英数百所试点中小学建立长效田野联系，直接在真实课堂情境中测试[[Research Translation\|研究转译]]工具的可用性。
 > - **政策与外部评估委托方** 承接教育部、慈善信托及各学区的独立第三方政策执行效果审计与教师发展项目评价。
 
@@ -153,7 +152,7 @@ updated: 2026-09-22
 
 > [!debates] 学术争议与局限反思
 >
-> > [!axis] 质性实践[[Transfer Translation Transformation\|转译]] vs 严苛[[Causality\|因果推断]]金标准
+> > [!axis] 质性实践转译 vs 严苛[[Causality\|因果推断]]金标准
 > > 争论面向微观教学的转译工具是否牺牲了方法学严谨性。
 > >
 > > - **因果[[Positivism\|实证主义]]质疑** 批评 CUREE 吸纳的实践研究与教师反思多为小规模[[Qualitative Research\|定性研究]]或[[Action Research\|行动研究]]，[[Sample Size Determination\|样本量]]小且缺乏严密的随机对照控制，可能存在主观偏倚。
@@ -174,7 +173,7 @@ updated: 2026-09-22
 > | [[Educational Brokerage Agency]] | Concept | 本机构所归属的核心组织形态（独立专业[[Knowledge Mediation\|知识中介]]机构先驱）。 |
 > | [[Evidence-Informed Practice]] | Concept | 机构致力于在中小学微观课堂中落地的核心实践[[Paradigm\|范式]]。 |
 > | [[Practice-Based Evidence]] | Concept | 机构长期倡导并实证综合的一线实践生成型证据样态。 |
-> | [[Professional Judgment]] | Concept | 机构[[Transfer Translation Transformation\|转译]]工具力求赋能与捍卫的教师核心专业素养。 |
+> | [[Professional Judgment]] | Concept | 机构转译工具力求赋能与捍卫的教师核心专业素养。 |
 > | [[Education Endowment Foundation]] | Fact (Organization) | 英国证据生态巨头；CUREE 聚焦微观教师学习，与 EEF 的宏观工具包形成互补。 |
 > | [[EPPI-Centre]] | Fact (Organization) | 英国学术综述旗舰；2007 年 [[OECD]] 报告将两者并列为早期涉足实践的中介代表。 |
 > | [[Systematic Review]] | Method | 机构研制协作型 CPD 标准所依托的核心综合方法。 |

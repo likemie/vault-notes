@@ -7,9 +7,9 @@ title: "Argument_WorldBank_2019_Teach"
 argument_key: "Argument_WorldBank_2019_Teach"
 argument_display_title: "Teach: Observer manual (1st ed.)"
 argument_kind: "report"
-argument_related_count: 46
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_count: 43
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dcfce7"
 authors:
   - "World Bank Group"
@@ -46,12 +46,10 @@ related_concepts:
   - "[[Construct]]"
   - "[[International Education]]"
   - "[[Critical Thinking]]"
-  - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Professional Judgment]]"
   - "[[Empiricism]]"
   - "[[Halo Effect]]"
-  - "[[Hypothesis]]"
   - "[[Predictive Validity]]"
   - "[[Class Size]]"
   - "[[Zone of Proximal Development]]"
@@ -61,7 +59,6 @@ related_theories:
 related_methods:
   - "[[Classroom Observation]]"
   - "[[Inter-Rater Reliability]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Time Sampling]]"
   - "[[Structured Observation]]"
   - "[[Pilot Testing]]"
@@ -106,7 +103,7 @@ updated: 2026-10-15
 > [!concept-lens] 阅读透镜
 > - **对象** 中低收入国家基础教育阶段小学课堂教学实践，覆盖拉美、撒哈拉以南非洲与南亚等地区的公立学校与弱势群体教育情境。
 > - **张力** 既有欧美成熟观察工具维度庞杂、培训成本高昂且忽视社会情感技能，而发展中国家既有简易工具往往局限于时间利用记录；Teach 必须在兼顾全面性与可操作性、跨文化普适性与情境敏感性之间取得平衡。
-> - **贡献** 确立了首个开源且专门面向发展中国家的标准化课堂观察工具体系，将社会情感技能培育作为课堂观察的独立核心支柱，首创将 10 大要素与 28 项行为指标转化为[[Operationalization|操作化]][[Coding in Qualitative Research|编码]]规程，并配套建立观察员认证体系。
+> - **贡献** 确立了首个开源且专门面向发展中国家的标准化课堂观察工具体系，将社会情感技能培育作为课堂观察的独立核心支柱，首创将 10 大要素与 28 项行为指标转化为[[Operationalization|操作化]]编码规程，并配套建立观察员认证体系。
 
 ---
 
@@ -119,7 +116,7 @@ Teach 工具的研发并非孤立的技术性指标拼凑，而是植根于[[Eff
 > |---|---|
 > | **有效[[Didaktik\|教学理论]]** | 将教学成效界定为教学时间利用、积极课堂氛围、[[Higher-Order Thinking Skills\|高阶思维]]激发与持续反馈的综合体现，为观察工具确立了多维度的核心评价标准。（pp. 2–3） |
 > | **认知与社会情感双轮驱动模型** | 强调学生的认知习得与社会情感技能培育是不可分割的双生过程，主张在评价课堂教学时必须显性测量教师对学生自主性、坚毅品质及人际交往技能的支架式支持。（pp. 2–4） |
-> | **高推论与低推论测量整合论** | 结合低推论瞬时[[Time Sampling\|时间抽样]]（客观扫视[[Time on Task\|学生在轨状态]]与教师教学供给）与高推论行为质性判定（基于具体锚点综合评估互动质量），在控制[[Coding in Qualitative Research\|编码]]认知负荷的同时保障指标的深度。（pp. 6–10） |
+> | **高推论与低推论测量整合论** | 结合低推论瞬时[[Time Sampling\|时间抽样]]（客观扫视[[Time on Task\|学生在轨状态]]与教师教学供给）与高推论行为质性判定（基于具体锚点综合评估互动质量），在控制编码认知负荷的同时保障指标的深度。（pp. 6–10） |
 
 > [!warrant]- 理论如何支撑论证
 > 理论框架通过阐明教师课堂行为与学生长短期发展结果之间的因果纽带，将宏观的[[Learning Crisis|学习危机]]治理拆解为可观察、可测量的微观师生互动行为。有效教学理论指引了工具维度的构建方向，确保指标覆盖[[Classroom Management|课堂管理]]、认知促进与情感支持；高低推论融合方法论则从测量学上解决了发展中国家实地观察员在复杂情境中难以同时兼顾记录精度与编码深度的实践难题。（pp. 2–5）
@@ -128,7 +125,7 @@ Teach 工具的研发并非孤立的技术性指标拼凑，而是植根于[[Eff
 
 基于上述理论模型，Teach 将复杂的课堂互动解构为 4 大核心维度与[[Operationalization|操作化]]行为指标：
 
-> [!index-table] 核心[[Variable|变量]]操作化定义与[[Coding in Qualitative Research|编码]]规程
+> [!index-table] 核心[[Variable|变量]]操作化定义与编码规程
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
 > | **[[Time on Task\|任务在轨时间]]** | 课堂教学时间的有效利用程度，操作化为教师提供学习活动的覆盖面以及学生专注在轨的比例。（p. 16） | **测量工具** Teach [[Time Sampling\|时间抽样]]模块（低推论）；<br>**规程** 每 15 分钟片段在第 4、9、14 分钟进行 3 次 1–10 秒定格快照；<br>**编码** 0.1 教师教学活动（是/否）；0.2 学生在轨状态（不适用（Not Applicable, N/A）、低: <50%、中: 50%–89%、高: ≥90%）。 |
@@ -222,7 +219,7 @@ Teach 工具的研发并非孤立的技术性指标拼凑，而是植根于[[Eff
 >
 > - **发展中国家实证证据过滤（25 ➔ 14 要素）**
 >
->   严格依据中低收入国家已有理论与实证[[Document|文献]]，剔除缺乏实证效力支持的指标，缩减为 14 项要素的第一代工作版工具。
+>   严格依据中低收入国家已有理论与实证文献，剔除缺乏实证效力支持的指标，缩减为 14 项要素的第一代工作版工具。
 >
 > - **跨国试点与认知负荷纠偏（14 ➔ 10 要素）**
 >
@@ -305,7 +302,7 @@ Teach 工具的研发并非孤立的技术性指标拼凑，而是植根于[[Eff
 > | **跨教师与跨片段横向比照** | 观察员因前序观察的教师极其优秀，而对当前教师的正常表现给予过低评价。 | 各片段严格孤立评分，杜绝前后片段或跨教师横向参照。 |
 > | **要素混淆与光环扩散** | 将一次好的反馈同时赋予高批判性思维得分，产生[[Halo Effect\|光环效应]]。 | 明确同一事实可作为多要素证据，但各要素打分必须严格独立。 |
 > | **首因效应过度加权** | 因教师开场一句不耐烦而全盘否定整堂课的良好师生互动。 | 依托全程详实笔记，客观权衡偶发事件在整体时间段内的比重。 |
-> | **趋中倾向与回避极值** | 出于不自信或顾忌负面影响，观察员刻意回避给出 1 分或 5 分。 | 消除极值罕见的刻板[[Hypothesis\|假设]]，只要事实符合手册标准即应果断打分。（pp. 9–10） |
+> | **趋中倾向与回避极值** | 出于不自信或顾忌负面影响，观察员刻意回避给出 1 分或 5 分。 | 消除极值罕见的刻板假设，只要事实符合手册标准即应果断打分。（pp. 9–10） |
 
 ---
 

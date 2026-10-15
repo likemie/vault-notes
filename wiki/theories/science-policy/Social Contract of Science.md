@@ -8,10 +8,10 @@ aliases:
 summary: "社会整体与科学共同体之间围绕知识生产的公共价值形成的权利与责任结构性配置框架，核心涵盖合法性基础、制度与资源支持、自治空间、功能期待与责任结构五个分析维度"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 33
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_count: 31
+theory_related_level: 3
+theory_related_stars: "⭐⭐⭐"
+theory_related_color: "#ede9fe"
 tags:
   - theme/science-policy
   - theme/research-governance
@@ -33,8 +33,6 @@ related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Research Universities]]"
   - "[[Research Question]]"
-  - "[[Document]]"
-  - "[[Hypothesis]]"
 related_theories:
   - "[[Pasteur's Quadrant]]"
 related_methods:
@@ -59,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Social Contract of Science
@@ -140,7 +138,7 @@ updated: 2026-10-07
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 如何跨越长时段历史周期系统刻画国家与科学共同体之间权利、资源、责任与自治关系的演化逻辑与结构性断裂？
 > - **分析对象与单位** 国家政治行政中枢（总统、国会、联邦资助机构）与科学共同体（[[Research Universities|研究型大学]]、国家实验室、科学家同行、产业研发界）之间的制度化权利义务互动体系。
-> - **需要的材料** 国家科技战略纲领、总统行政令、联邦科研预算分配方案与扣留拨款记录、资助评审指南（如 [[National Science Foundation|NSF]] PAPPG）、关键科技立法文本及代表性学术争鸣[[Document|文献]]。
+> - **需要的材料** 国家科技战略纲领、总统行政令、联邦科研预算分配方案与扣留拨款记录、资助评审指南（如 [[National Science Foundation|NSF]] PAPPG）、关键科技立法文本及代表性学术争鸣文献。
 > - **解释目标** 识别特定时期的科技政策调整究竟属于周期性边际变动还是底层社会契约的结构性转型，并评估替代契约形态的制度稳定性与长期后果。
 
 > [!theory-framework] 命题如何转化为五维分析维度 [[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1056–1057)]]
@@ -179,7 +177,7 @@ updated: 2026-10-07
 
 > [!critique] 外部批评
 > - **微观复杂性的过度抽象** 契约视角高度聚焦宏观政学权利义务配置，可能忽视具体学科门类（如高能物理 vs 人文学科 vs 临床医学）在面对国家资助与政治压力时的微观抵抗与[[Heterogeneity|异质性]]适应策略。
-> - **权力对称性[[Hypothesis|假设]]的隐喻局限** 契约概念源于法律与哲学中的平等协商隐喻，但在国家权力高度集中与行政扣留高压下，科学共同体往往缺乏平等的对谈地位，契约修辞可能掩盖国家对科学体系的单向度宰制。
+> - **权力对称性假设的隐喻局限** 契约概念源于法律与哲学中的平等协商隐喻，但在国家权力高度集中与行政扣留高压下，科学共同体往往缺乏平等的对谈地位，契约修辞可能掩盖国家对科学体系的单向度宰制。
 
 > [!boundary] 理论适用边界
 > 科学社会契约理论及其五维[[Analytic Framework|分析框架]]主要基于美国等西方现代国家科技体制的历史演化经验提炼而成。在分析中央集权制国家、后发追赶型创新体系或缺乏独立大学传统的研究情境时，需要对合法性来源（如追赶超越、国家现代化使命）与自治空间的概念内涵进行情境化修正。[[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1064)]]

@@ -8,7 +8,7 @@ aliases:
 summary: "通过 OSA 和学习分析把学生特征转化为一组可归因于个体的数字指标所建构的统计人造物，常作为算法治理、自我优化和风险预判的对象。"
 type: concept
 domain: "educational-technology"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,7 +24,6 @@ tags:
 related_concepts:
   - "[[Online Self-Assessment]]"
   - "[[Artefact]]"
-  - "[[Hypothesis]]"
   - "[[Language Skills]]"
   - "[[Document]]"
   - "[[Digital Optimum]]"
@@ -41,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-20'
-updated: 2026-05-20
+updated: 2026-10-15
 ---
 
 # Digital Self
@@ -65,7 +64,7 @@ Thompson 等人（2022, p.225）强调"数字自我"这一术语的关键洞见�
 数字自我的核心洞见是它**不是**对真实自我的透明反映，而是一种建构：
 
 - Kitchin（2014, p.5）指出数据并不"为自己说话"（speak for themselves）——这一信念本身就是一种误解
-- Espeland & Stevens（2008, p.432）批判了测量"提供通向真实的特权通道或独占通道"的前提[[Hypothesis|假设]]
+- Espeland & Stevens（2008, p.432）批判了测量"提供通向真实的特权通道或独占通道"的前提假设
 - Goriunova（2019）从后人类视角指出，数字主体是通过匹配、关联和建模被建构的，且是在"远距离"被生产出来的([[Argument_Thompson_2022_Promising_Student|Thompson et al., 2022, p.225]])
 
 > [!example]

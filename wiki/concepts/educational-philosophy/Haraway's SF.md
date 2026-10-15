@@ -7,7 +7,7 @@ aliases:
 summary: "Haraway 的核心概念缩写，同时代表 string figures、speculative fabulation、science fiction 和 so far，用于通过讲故事、连结关系与共同想象来实践后人类主义的世界制造。"
 type: concept
 domain: "educational-philosophy"
-related_count: 8
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,7 +21,6 @@ tags:
 - world-making
 related_concepts:
   - "[[Posthumanism]]"
-  - "[[Hypothesis]]"
   - "[[Open-Mindedness]]"
   - "[[Apprenticeship]]"
   - "[[Sympoiesis]]"
@@ -36,7 +35,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-08'
-updated: 2026-10-05
+updated: 2026-10-15
 ---
 
 ## 定义
@@ -53,7 +52,7 @@ updated: 2026-10-05
 > [[Argument_Amos_2022_Springer\|Amos (2022, p.62)]] 引用 Haraway (2016) 解释了 SF 的四重叠加含义：
 >
 > - **String Figures（线绳图案）** 一种跨文化的双手游戏——用一根线绳在手指间编织出不断变化的图案。Haraway 以此比喻"关系模式"的制造：就像线绳图案需要多双手的协作，世界的关系模式也是通过多重行动者（人类和非人类）的持续参与而被编织出来的
-> - **Speculative Fabulation（推测性编造）** 一种"如果……会怎样"的叙事实践——不是预测未来，而是通过想象替代性的关系模式来松动"事情只能这样"的[[Hypothesis\|假设]]
+> - **Speculative Fabulation（推测性编造）** 一种"如果……会怎样"的叙事实践——不是预测未来，而是通过想象替代性的关系模式来松动"事情只能这样"的假设
 > - **Science Fiction（科幻）** 作为一种文学和思想类型的科幻——不是逃避现实，而是通过虚构世界来揭示现实世界中被隐藏的关系和可能性
 > - **So Far（迄今）** 一个时间标记，表示"到现在为止是这样，但可能变化"——拒绝终结论和确定论，保持叙事的[[Open-Mindedness|开放性]]和未完性
 >

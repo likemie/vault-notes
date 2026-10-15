@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07"
 argument_display_title: "Research Methods in Education · Ch07"
 argument_kind: "book-chapter"
-argument_related_count: 74
+argument_related_count: 73
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Concept Mapping]]"
   - "[[Fitness for Purpose]]"
   - "[[Research Purpose]]"
-  - "[[Hypothesis]]"
   - "[[Paradigm]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
@@ -51,6 +50,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Research Scope]]"
   - "[[Front-loaded and End-loaded Research]]"
+  - "[[Hypothesis]]"
   - "[[Research Utilization]]"
   - "[[Reliability]]"
   - "[[Document]]"
@@ -95,14 +95,13 @@ related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Role-playing]]"
   - "[[Cross-checking]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Field Notes]]"
+  - "[[Content Analysis]]"
   - "[[Discourse Analysis]]"
   - "[[Group Interview]]"
   - "[[Focus Group]]"
   - "[[Qualitative Interview]]"
   - "[[Interview Protocol]]"
-  - "[[Content Analysis]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -175,7 +174,7 @@ updated: 2026-10-08
 > [!col1-table]- 表7.1：研究目的与研究方法
 > | 研究目的 | 适用方法 |
 > |---|---|
-> | 检验[[Hypothesis\|假设]]或理论 | 实验、调查、行动研究、[[Case Study\|案例研究]] |
+> | 检验假设或理论 | 实验、调查、行动研究、[[Case Study\|案例研究]] |
 > | 发展理论 | 民族志、[[Qualitative Research\|质性研究]]、[[Grounded Theory\|扎根理论]] |
 > | 测量 | 调查、实验 |
 > | 理解情境 | 民族志和诠释/质性方法 |
@@ -594,7 +593,7 @@ updated: 2026-10-08
 > [!seq-table]- 13种质性数据分析技术
 > | 技术 | 简述 |
 > |---|---|
-> | 田野笔记的**[[Coding in Qualitative Research\|编码]]和内容分析（Miles and Huberman, 1984）** | 将[[Field Notes\|田野笔记]]中的质性材料分解为类别、主题或模式，进行系统标注与归类 |
+> | [[Field Notes\|田野笔记]]的**编码和[[Content Analysis\|内容分析]]（Miles and Huberman, 1984）** | 将[[Field Notes\|田野笔记]]中的质性材料分解为类别、主题或模式，进行系统标注与归类 |
 > | **认知地图（Jones, 1987; Morrison, 1993）** | 用图示方式呈现个体或群体的概念结构、信念关系或决策逻辑 |
 > | 寻找**回应模式** | 在受访者的回答中识别反复出现的主题、比喻或叙事结构 |
 > | 寻找**因果路径和连接（Miles and Huberman, 1984）** | 追踪事件、行动与结果之间的链条关系，构建因果解释网络 |

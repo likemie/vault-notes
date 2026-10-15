@@ -13,14 +13,13 @@ subtype: program
 region: "us"
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 15
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "1992–至今"
 initiator_organization: "National Science Foundation"
 related_concepts:
-  - "[[Assemblage]]"
   - "[[Apprenticeship]]"
   - "[[Research Universities]]"
   - "[[Computer Simulation]]"
@@ -42,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Advanced Technological Education
@@ -58,7 +57,7 @@ updated: 2026-10-10
 > - **立项时间 / 周期** 1992 年通过联邦立法设立，1993 年正式启动首批项目资助，至今已常态化运行逾 30 年。
 > - **发起方与资助机制** 由 NSF 本科生教育学部（DUE）统一管理，采取国库全额竞争性同行评议资助模式，年度预算约 7000 万至 8000 万美元，资助项目类型包括前沿中心（Centers）、重点项目（Projects）及定向联合体。
 > - **覆盖范围与对象** 辐射全美 50 个州的数百所社区学院、地方技术中心、退役军人转岗实训营及紧密合作的高端制造业企业。
-> - **核心问题导向** 扭转美国本土半导体制造晶圆厂一线操作技师、真空设备维护师与超净间[[Assemblage|装配]]工严重短缺的用工荒，打破传统大学四年制本科教育脱离生产线实际机台运维的制度脱节。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 31–33, 35)]]
+> - **核心问题导向** 扭转美国本土半导体制造晶圆厂一线操作技师、真空设备维护师与超净间装配工严重短缺的用工荒，打破传统大学四年制本科教育脱离生产线实际机台运维的制度脱节。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 31–33, 35)]]
 
 ---
 

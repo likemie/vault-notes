@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 14
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Indirect Costs of Research]]"
   - "[[Grandes Ecoles]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Lifelong Learning]]"
   - "[[Academic Freedom]]"
 related_theories: []
@@ -47,7 +46,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-02
+updated: 2026-10-15
 ---
 
 # American Council on Education
@@ -86,7 +85,7 @@ updated: 2026-10-02
 > [!pathways]- 业务运行机制
 > - **统一立法发声机制** 面对国会出台的重大法案修正案，ACE 负责组织跨党派[[Grandes Ecoles|大学校]]长联名上书，并在关键听证会前出具代表全行业的深度实证经济与人口学影响评估报告。
 > - **最高法院司法之友简报（Amicus Briefs）** 在涉及高校招生自主权、学术言论自由与移民学生保护的联邦最高法院案件中，组织全美顶级宪法学者起草具有学术共识的权威简报，对司法裁决产生深远影响。
-> - **政策实证[[Transfer Translation Transformation\|转译]]** 将高校科研数据、学生债务违约率及毕业生就业增值模型转译为简明的政策行动清单，定向呈送国会两院专职委员会。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 45)]]
+> - **政策实证转译** 将高校科研数据、学生债务违约率及毕业生就业增值模型转译为简明的政策行动清单，定向呈送国会两院专职委员会。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 45)]]
 
 ---
 
@@ -103,7 +102,7 @@ updated: 2026-10-02
 ## 影响与学术利用机制
 
 > [!finding-cards] 政策生态中的中介辐射
-> - **作为国会委员会常设幕僚的信赖中介伙伴** 在 [[Argument_Serpell_2020_EP\|Serpell (2020)]] 的分析中，ACE 是能够与国会委员会幕僚建立长效互信、实现“语言[[Transfer Translation Transformation\|转译]]与定向传播”的旗舰教育智库代表。其提供的实证分析兼具高度的政治洞察与行业共识，是学术证据得以在国会山产生立竿见影影响的关键放大器。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 45)]]
+> - **作为国会委员会常设幕僚的信赖中介伙伴** 在 [[Argument_Serpell_2020_EP\|Serpell (2020)]] 的分析中，ACE 是能够与国会委员会幕僚建立长效互信、实现“语言转译与定向传播”的旗舰教育智库代表。其提供的实证分析兼具高度的政治洞察与行业共识，是学术证据得以在国会山产生立竿见影影响的关键放大器。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 45)]]
 > - **抵御意识形态侵蚀的制度避风港** 在美国高等教育近年来遭遇日益严峻的党派政治干预与文化战争冲击时，ACE 统筹组织[[Grandes Ecoles|大学校]]长共同坚守[[Academic Freedom\|学术自由]]与机构自治底线，展示了专业中介联盟在捍卫科学理性中的不可替代性。
 
 ---

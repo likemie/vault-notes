@@ -8,7 +8,7 @@ aliases:
 summary: "20 世纪 50 至 70 年代支配英美比较教育学的知识体系与研究纲领，摒弃古典历史学派主观印象与思辨归因，通过变量控制、量化共变检验与假说-演绎问题法探寻跨国规律与政策预测，并在实践中与战后国家理性规划形成合法化共谋"
 type: concept
 domain: "comparative-education"
-related_count: 70
+related_count: 67
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Subjectivism]]"
   - "[[Variable]]"
   - "[[Operationalization]]"
-  - "[[Hypothesis]]"
   - "[[Problem Solving]]"
   - "[[Knowledge Production]]"
   - "[[Policy Borrowing]]"
@@ -39,7 +38,6 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
   - "[[Shape-Shifting]]"
-  - "[[Document]]"
   - "[[National Character]]"
   - "[[Value Neutrality]]"
   - "[[Falsification]]"
@@ -53,7 +51,6 @@ related_concepts:
   - "[[Postpositivism]]"
   - "[[Academic Freedom]]"
   - "[[Securitization of Technology]]"
-  - "[[Bildung]]"
   - "[[Critical Dualism]]"
   - "[[Determinism]]"
   - "[[Research Security]]"
@@ -97,7 +94,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-07
-updated: 2026-10-11
+updated: 2026-10-15
 ---
 
 # Scientific Paradigm
@@ -107,7 +104,7 @@ updated: 2026-10-11
 ## 定义
 
 > [!def] 核心定义
-> 科学[[Paradigm\|范式]]（Scientific Paradigm）是指在 20 世纪 50 年代末至 70 年代初席卷英美比较教育学界的一种支配性知识体系与研究纲领。在[[Thomas Kuhn\|托马斯·库恩]]（Thomas Kuhn）的范式理论视阈下，该范式主张彻底清洗古典历史-哲学传统的[[Subjectivism\|主观主义]]、印象主义与道德思辨，将自然科学与行为经验社会科学（特别是[[Structural Functionalism|结构功能主义]]社会学与计量经济学）的实证准则确立为学科规范，通过[[Variable\|变量]][[Operationalization\|操作化]]、跨国量化共变[[Hypothesis\|假设]]检验或假说-演绎[[Problem Solving\|问题解决]]程序，探寻跨国教育制度与社会结构之间的普遍或权变规律，并为现代国家规划提供确定性的政策咨询。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 59–62)]]
+> 科学[[Paradigm\|范式]]（Scientific Paradigm）是指在 20 世纪 50 年代末至 70 年代初席卷英美比较教育学界的一种支配性知识体系与研究纲领。在[[Thomas Kuhn\|托马斯·库恩]]（Thomas Kuhn）的范式理论视阈下，该范式主张彻底清洗古典历史-哲学传统的[[Subjectivism\|主观主义]]、印象主义与道德思辨，将自然科学与行为经验社会科学（特别是[[Structural Functionalism|结构功能主义]]社会学与计量经济学）的实证准则确立为学科规范，通过[[Variable\|变量]][[Operationalization\|操作化]]、跨国量化共变假设检验或假说-演绎[[Problem Solving\|问题解决]]程序，探寻跨国教育制度与社会结构之间的普遍或权变规律，并为现代国家规划提供确定性的政策咨询。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 59–62)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指涉战后比较教育学界以现代自然科学与实证社会科学为典范、探寻跨国教育制度运行客观规律与因果/共变解释的整体知识体制与规范标准。
@@ -134,7 +131,7 @@ updated: 2026-10-11
 > | **[[Epistemology\|认识论]]基础** | 欧陆人文学科、历史主义与道德改良论（p. 59） | 逻辑经验主义、结构功能主义、批判[[Rationalism in International Relations\|理性主义]]（pp. 61–63） | [[Post-structuralism\|后结构主义]]、后殖民主义、[[Critical Theory\|批判理论]]与解释学（p. 69） |
 > | **核心研究目标** | 阐释深层民族文化精神与教育历史动因 | 发现跨国制度共变规律或建立政策预测假说 | 解构权力宰制话语、绘制[[Geopolitics of Knowledge\|知识地缘政治]]地图 |
 > | **主要[[Unit of Analysis\|分析单位]]** | 民族国家、时代精神、[[Intangible Spiritual Forces\|不可捉摸的精神力量]] | 抽象[[Independent Variable\|自变量]]/[[Dependent Variable\|因变量]]、跨国指标、制度情境 | 话语、多尺度空间、边缘群体经验、转移[[Shape-Shifting\|形变]] |
-> | **核心方法路径** | 历史[[Document\|文献]]考据、哲学阐释与直觉内省 | [[Variable\|变量]][[Operationalization\|操作化]]、统计共变检验、假说-演绎[[Problem Approach\|问题法]] | 谱系学考掘、批判性[[Discourse Analysis\|话语分析]]、多视角并置 |
+> | **核心方法路径** | 历史文献考据、哲学阐释与直觉内省 | [[Variable\|变量]][[Operationalization\|操作化]]、统计共变检验、假说-演绎[[Problem Approach\|问题法]] | 谱系学考掘、批判性[[Discourse Analysis\|话语分析]]、多视角并置 |
 > | **代表性学者** | Sadler, Kandel, Hans, Ulich | Bereday, Anderson, Foster, Noah, Eckstein, Holmes | Cowen, Schriewer, Steiner-Khamsi, Arnove |
 > | **与权力的关系** | 人文主义改良与[[National Character\|国民性格]]培养 | 直接结盟：充当国家五年计划与技术援助的合法化工具（p. 68） | 保持批判反思距离，警惕技术官僚治理与霸权借用 |
 > | **对历史的态度** | 将历史传统视为理解教育现状的根本源泉 | 视为非科学干扰；追求非历时性或情境功能规律 | 重构历史断裂面，关注被边缘化的非西方知识传统 |
@@ -148,7 +145,7 @@ updated: 2026-10-11
 > [!quad-grid] 科学范式的库恩式四维构件（p. 61）
 > - **研究目标与主题** 终结无序事实堆砌与个案直觉描述，将学科目标确立为揭示跨国教育制度运行的内在规律、类型学建构以及对政策干预后果的精确预见。
 > - **理论框架与典范** 依托[[Structural Functionalism|结构功能主义]]社会学模型、[[Human Capital Theory|人力资本理论]]与波普尔情境逻辑；典范实践包括大样本跨国实证调查（如 [[IEA]] 早期研究）与标准化[[Problem Solving|问题解决]]案例。
-> - **研究规则与规范标准** 恪守客观性、[[Value Neutrality|价值中立]]、概念严格[[Operationalization|操作化]]、[[Hypothesis|假设]]可检验性与[[Falsification|可证伪性]]；彻底清洗无法量化或不可经验验证的范畴。
+> - **研究规则与规范标准** 恪守客观性、[[Value Neutrality|价值中立]]、概念严格[[Operationalization|操作化]]、假设可检验性与[[Falsification|可证伪性]]；彻底清洗无法量化或不可经验验证的范畴。
 > - **应用技术与测量工具** 开发跨国标准化[[Questionnaire|问卷]]、多元统计模型、国家指标数据库，以及服务于中央五年计划的系统预测技术。
 
 > [!feature] 科学范式在跨文化比较中的双重客观约束
@@ -231,7 +228,7 @@ updated: 2026-10-11
 > 该命题从认识论限度与知识生产演进出发，揭示将自然科学受控实验与同质[[Commensuration|通约]]变量机械套用于跨文化比较必然遭遇的客观困境，论证单一[[Positivism|实证主义]]正统解体与多元范式并存的历史必然性。
 
 > [!claim] Rust, Johnstone, & Allaf (2009)
-> **实证科学单一垄断的破灭与[[Pluralism|健康多元主义]]成熟** [[Val D. Rust|瓦尔·拉斯特]]等人（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）系统梳理了比较学科追求科学地位的历程，指出近代比较学科群（Jordan 1905 年梳理的 26 个比较学科）虽共同致力于揭示跨情境规律，但在方法论实践中必然受制于两大客观限度：其一，比较教育学面对的是深嵌于不同历史脉络的“非同质单位”（dissimilar units，Smelser, 1976），无法将文化[[Heterogeneity|异质性]]简单降维为同质变量；其二，学科无法施加无菌实验室式的变量隔离，必须完全依托自然情境下的系统变异。依托对主流期刊论文的长期[[Document|文献]]计量，拉斯特等人实证证实：1950–1960 年代[[Structural Functionalism|结构功能主义]]与实证主义在冷战时期的一统天下并未能建成单一的统合科学，反而在 1970 年代后迅速瓦解；至 1990 年代，学科成熟地演进为涵盖实证主义（40.5%）、[[Postpositivism|后实证主义]]（36.1%）与非实证主义（23.4%）共 26 种理论传统的“健康多元主义”（healthy pluralism）。单一科学范式的终结并非学科碎片化衰亡，而是学者摆脱教条垄断、获得充分[[Academic Freedom|学术自由]]的研究心智成熟标志。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 126–132)]]
+> **实证科学单一垄断的破灭与[[Pluralism|健康多元主义]]成熟** [[Val D. Rust|瓦尔·拉斯特]]等人（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）系统梳理了比较学科追求科学地位的历程，指出近代比较学科群（Jordan 1905 年梳理的 26 个比较学科）虽共同致力于揭示跨情境规律，但在方法论实践中必然受制于两大客观限度：其一，比较教育学面对的是深嵌于不同历史脉络的“非同质单位”（dissimilar units，Smelser, 1976），无法将文化[[Heterogeneity|异质性]]简单降维为同质变量；其二，学科无法施加无菌实验室式的变量隔离，必须完全依托自然情境下的系统变异。依托对主流期刊论文的长期文献计量，拉斯特等人实证证实：1950–1960 年代[[Structural Functionalism|结构功能主义]]与实证主义在冷战时期的一统天下并未能建成单一的统合科学，反而在 1970 年代后迅速瓦解；至 1990 年代，学科成熟地演进为涵盖实证主义（40.5%）、[[Postpositivism|后实证主义]]（36.1%）与非实证主义（23.4%）共 26 种理论传统的“健康多元主义”（healthy pluralism）。单一科学范式的终结并非学科碎片化衰亡，而是学者摆脱教条垄断、获得充分[[Academic Freedom|学术自由]]的研究心智成熟标志。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 126–132)]]
 
 ---
 
@@ -261,11 +258,11 @@ updated: 2026-10-11
 ## 概念演变
 
 > [!dev-timeline] 科学[[Paradigm|范式]]的兴起、演进与解体
-> - **1950 年代末 — 历史范式危机与转型萌发** 二战浩劫击碎了古典人文[[Bildung|教化]]精英的神话，古典历史学派被指责沉溺于宏观文化白描而无力回应战后重建规划；[[George Bereday|乔治·贝雷迪]]（George Bereday）提出比较四步法，将学科目标推向跨国普遍法则探寻，充当过渡桥梁。（pp. 59–62）
+> - **1950 年代末 — 历史范式危机与转型萌发** 二战浩劫击碎了古典人文教化精英的神话，古典历史学派被指责沉溺于宏观文化白描而无力回应战后重建规划；[[George Bereday|乔治·贝雷迪]]（George Bereday）提出比较四步法，将学科目标推向跨国普遍法则探寻，充当过渡桥梁。（pp. 59–62）
 > - **1960 年代 — 科学范式全盛与[[Epistemology|认识论]]大论战** 芝加哥大学中心建立，推进超越时空的制度规律探索；诺亚与埃克斯坦（1969）出版《走向比较教育科学》，建立[[Variable|变量]]共变检验程序；霍姆斯（1965, 1981）提出[[Critical Dualism|批判二元论]]与假说-演绎[[Problem Approach|问题法]]，以预测力划界；科学范式确立绝对统治地位。（pp. 62–67）
 > - **1970 年代中叶 — 三重危机与全包容神话破灭** 西方滞胀与第三世界危机戳破了实证规划承诺；量子物理学打破[[Determinism|决定论]]神话；后现代思潮解构[[Grand Theory|宏大叙事]]，单一科学范式不可逆转地走向衰落。（pp. 68–69）
 > - **1980 年代至今 — 学科复数化与全球治理制度惯性** 学界确立多元范式并存且无霸权主导的共识（[[Comparative Educations]]）；与此同时，实证量化模式在 [[IEA]] 与 [[OECD]]（如 [[PISA]] 测验）等跨国治理机制中依然保有强大的制度惯性[[Discourse|话语]]权。（p. 69）
-> - **2000 年代 — [[Pluralism|健康多元主义]]实证确立** 拉斯特等学者（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）依托[[Document|文献]]计量实证证实，冷战时期单一实证功能主义正统已彻底终结，学科演进为涵盖 26 种理论传统的健康多元主义格局，确立了方法论与理论工具自由选择的成熟研究范式。
+> - **2000 年代 — [[Pluralism|健康多元主义]]实证确立** 拉斯特等学者（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）依托文献计量实证证实，冷战时期单一实证功能主义正统已彻底终结，学科演进为涵盖 26 种理论传统的健康多元主义格局，确立了方法论与理论工具自由选择的成熟研究范式。
 > - **2020 年代至今 — [[Securitization of Technology|技术安全化]]与国家使命导向范式重构** 在大国地缘科技博弈与《[[CHIPS and Science Act|芯片与科学法案]]》等立法推动下，科学范式经历从新自由主义市场适配向后新自由主义技术安全化与战略使命导向的深度转型，[[Research Security|科研安全]]审查与外籍人才管控使传统的开放国际主义科学范式面临结构性重塑。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 24–26)]]
 
 ---
@@ -340,4 +337,4 @@ updated: 2026-10-11
 > | [[Problem Approach]] | Method | 霍姆斯学派在科学范式内推进假说-演绎与情境政策预测的核心方法论路径。 |
 > | [[Pluralism]] | Theory | 科学范式单一垄断瓦解后学科演化形成的 26 种理论传统并存的健康多元主义格局。 |
 > | [[Securitization of Technology]] | Concept | 当代地缘竞争中驱动科学研究范式由自由探索向战略使命与排他防御转向的政治经济动力。 |
-> | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | Argument | 揭示大国地缘科技博弈驱动科学研究范式发生技术安全化与国家使命导向跃迁的实证[[Document\|文献]]。 |
+> | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | Argument | 揭示大国地缘科技博弈驱动科学研究范式发生技术安全化与国家使命导向跃迁的实证文献。 |

@@ -6,7 +6,7 @@ aliases:
 summary: "运用大数据融合、态势感知软件与人工智能算法整合多源异构线索、识别暴力犯罪网络与优化警力调配的现代治安治理范式；在反恐与打击涉枪暴力中展现出显著效能，但同时在民权保护、程序正义与算法偏见审查方面引发持续的宪政与伦理争辩。"
 type: concept
 domain: "ethics-of-technology"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Strategic Compliance]]"
   - "[[Meaningful Human Control]]"
-  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Network Analysis]]"
@@ -37,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Predictive Policing
@@ -113,7 +112,7 @@ updated: 2026-10-12
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者与[[Document\|文献]] |
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |:---|:---|:---|:---|
 > | **治安效能赋能** | 数据中枢与算法集成能显著提升对复杂犯罪网络的侦破效能 | 涉枪暴力治理、反恐侦查、新奥尔良警务改革 | [[Alexander Karp]] & [[Nicholas Zamiska]] (2025); Sledge & Vargas (2018) |
 > | **技术避险批判** | 彻底抵制警务科技是转嫁治理成本、漠视受害者生命权的虚伪表态 | 科技企业社会责任、民权争论、司法政策制定 | [[Alexander Karp]] & [[Nicholas Zamiska]] (2025); Stanley (2018) |

@@ -9,10 +9,10 @@ aliases:
 summary: "将教师薪酬与教学表现或测试产出挂钩的激励制度，新自由主义常视其为提升质量的手段，但面临跨国实证脱节、破坏合作文化及现场试验中遭教师强烈伦理抵制而流产等多重批判"
 type: concept
 domain: "educational-policy-reform"
-related_count: 40
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 37
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - performance-pay
   - merit-pay
@@ -20,7 +20,6 @@ tags:
   - level/k12
   - theme/educational-governance
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Peer-Supported Learning]]"
   - "[[Educational Level]]"
@@ -38,8 +37,6 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Theoretical Perspective]]"
   - "[[Heterogeneity]]"
-  - "[[Attrition]]"
-  - "[[Document]]"
   - "[[Academic Achievement]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -78,7 +75,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> 绩效工资（亦称 merit pay、payment by results、performance-related pay，简称 PRP）指将教师薪资报酬与其测量的教学表现或学生测试产出直接挂钩的制度安排。其核心[[Hypothesis\|假设]]是外在经济激励能够驱动教学质量提升与学生学业改进（[[Argument_Snook_2009_NZJES\|Snook et al., 2009, p. 103]]）。然而在教育治理实践中，该制度常演化为新自由主义问责的核心工具，不仅因测量指标失真、破坏专业合作生态以及缺乏跨国实证支撑而饱受批判（[[Argument_Grey_2018_CE\|Grey & Morris, 2018, pp. 116–118]]），更在严密设计的现场随机试验中因教师群体的强烈伦理抗议与内在专业动机冲突而遭遇招募流产（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 55]]）。
+> 绩效工资（亦称 merit pay、payment by results、performance-related pay，简称 PRP）指将教师薪资报酬与其测量的教学表现或学生测试产出直接挂钩的制度安排。其核心假设是外在经济激励能够驱动教学质量提升与学生学业改进（[[Argument_Snook_2009_NZJES\|Snook et al., 2009, p. 103]]）。然而在教育治理实践中，该制度常演化为新自由主义问责的核心工具，不仅因测量指标失真、破坏专业合作生态以及缺乏跨国实证支撑而饱受批判（[[Argument_Grey_2018_CE\|Grey & Morris, 2018, pp. 116–118]]），更在严密设计的现场随机试验中因教师群体的强烈伦理抗议与内在专业动机冲突而遭遇招募流产（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 55]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向将市场化计件逻辑与微观经济激励引入公共教育部门的薪酬再分配机制。
@@ -239,7 +236,7 @@ updated: 2026-10-15
 > - **同行信任瓦解与招募危机** 将同事重构为争夺有限奖金池的竞争对手，阻断跨班级教研合作，并在试验招募阶段引发集体抵制。
 
 > [!warning] 适用局限
-> 教学工作具有极高的情境依赖性与长周期累积效应，团队协同产出远大于个体简单相加。将复杂的专业劳作简化为单一个人计件考核，不仅违背教育系统运行规律，更易导致高素质教师[[Attrition\|流失]]与职业倦怠。同时，在教师专业认同强烈的公立体系中强行推进随机化经济奖惩，在伦理与可行性上存在不可逾越的鸿沟。
+> 教学工作具有极高的情境依赖性与长周期累积效应，团队协同产出远大于个体简单相加。将复杂的专业劳作简化为单一个人计件考核，不仅违背教育系统运行规律，更易导致高素质教师流失与职业倦怠。同时，在教师专业认同强烈的公立体系中强行推进随机化经济奖惩，在伦理与可行性上存在不可逾越的鸿沟。
 
 ---
 
@@ -250,7 +247,7 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 新西兰与国际 25 年以上实践案例追踪 | 政策[[Document\|文献]]历史回顾与批判性综合 | 绩效工资尝试成败记录、测量工具开发状态 | 绝大多数实施尝试均告失败；1986 年《[[The Scott Report\|斯科特报告]]》建议设立的专业测量单位因技术复杂从未建成 | — | 历史文献定性考证，证明长期缺乏支持教学改善的有效证据 |
+> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 新西兰与国际 25 年以上实践案例追踪 | 政策文献历史回顾与批判性综合 | 绩效工资尝试成败记录、测量工具开发状态 | 绝大多数实施尝试均告失败；1986 年《[[The Scott Report\|斯科特报告]]》建议设立的专业测量单位因技术复杂从未建成 | — | 历史文献定性考证，证明长期缺乏支持教学改善的有效证据 |
 > | [[Argument_Grey_2018_CE\|Grey & Morris (2018)]] | 65 个参与 [[PISA]] 2012 的国家与经济体系统 | 跨国评估数据二次分析与政策[[Discourse\|话语]]解构 | 教师绩效工资（PRP）有无与学生 PISA 学业平均分 | 跨国全样本分析显示绩效工资与学生表现之间无统计相关；顶尖梯队（芬兰等）无绩效工资，中下游国家多有实施 | 不具有[[Statistical Significance\|统计显著性]] | 跨国截面数据证实宏观层面教师绩效工资对[[Academic Achievement\|学业成就]]无普适促进效应 |
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]]; Sutherland et al. (2017) | 英格兰公立中学教师绩效工资激励与辅导试验（[[Incentivised Pay and Coaching Trial\|ICR]]） | 教师/学校层级随机对照试验（[[Randomised Controlled Trials\|RCT]]） | 目标奖金资格[[Random Assignment\|随机化]]分配、学校与教师招募参与率 | 遭遇全英公立学校与教师工会系统性抵制，招募人数严重不达标，试验流产并被迫发布《关闭报告》 | 试验因招募流产未能完成主要结局效应量估算（未满足 [[Statistical Analysis Plan\|SAP]] 样本底线） | 严格 RCT 在发达国家公立学校教师薪酬领域的应用边界，证实该机制遭遇严重伦理与组织排斥 |
 

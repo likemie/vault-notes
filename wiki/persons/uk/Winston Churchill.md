@@ -8,7 +8,7 @@ summary: "英国政治家、演说家与历史学家，二战时期英国首相�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 2
+person_related_count: 1
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -26,15 +26,14 @@ related_concepts: []
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons:
-  - "[[Alfred Nobel]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07]]"
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Winston Churchill
@@ -44,7 +43,7 @@ updated: 2026-10-08
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 英国政治家、演说家、历史学家，曾两度出任英国首相（1940–1945，1951–1955），1953年[[Alfred Nobel|诺贝尔]]文学奖得主。
+> - **身份位置** 英国政治家、演说家、历史学家，曾两度出任英国首相（1940–1945，1951–1955），1953年诺贝尔文学奖得主。
 > - **核心角色** 二战期间领导反法西斯同盟捍卫自由民主体制的核心政治领袖，提出文明本质在于以法治、代议议会与独立法院取代暴力专制的经典论断。
 > - **代表贡献** 著有《第二次世界大战回忆录》（1948–1953）、《英语民族史》（1956–1958）等。
 
@@ -63,7 +62,7 @@ updated: 2026-10-08
 > - **1900–1964** 当选英国下议院议员，历任海军大臣、军需大臣、财政大臣等职。
 > - **1938** 在布里斯托尔大学发表演说，深刻界定现代文明的法治与宪政内涵。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, p. 89)]]
 > - **1940–1945** 出任战时联合政府首相，领导英国度过至暗时刻并取得反法西斯战争胜利。
-> - **1953** 荣获[[Alfred Nobel|诺贝尔]]文学奖。
+> - **1953** 荣获诺贝尔文学奖。
 > - **1965** 逝世于英国伦敦。
 
 ---

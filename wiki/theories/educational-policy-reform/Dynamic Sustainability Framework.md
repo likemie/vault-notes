@@ -6,7 +6,7 @@ aliases:
 summary: "由 David A. Chambers、Russell E. Glasgow 与 Kurt C. Stange（2013）提出的实施科学与系统变革理论，彻底颠覆干预成效随时间衰减的传统‘电压降’假设，主张干预措施、实践现场与宏观生态系统三者处于持续的自适应调适、双向学习与动态拟合之中，以实现长效可持续性。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 31
+theory_related_count: 29
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -19,7 +19,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Reflexivity]]"
   - "[[Problem Solving]]"
-  - "[[Hypothesis]]"
   - "[[Programme Fidelity vs Adaptation]]"
   - "[[Phronesis]]"
   - "[[Metacognition]]"
@@ -44,7 +43,6 @@ related_methods:
   - "[[Design-Based Research]]"
   - "[[Mixed Methods Research]]"
   - "[[Process Tracing]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Meta-analysis]]"
   - "[[Correlational Research]]"
 related_instruments: []
@@ -56,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-09-26
+updated: 2026-10-15
 ---
 
 # Dynamic Sustainability Framework
@@ -88,7 +86,7 @@ updated: 2026-09-26
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
 > | 动态拟合（Dynamic Fit） | 核心机制 | 衡量干预措施的核心功能与组织特定情境、文化和资源之间的匹配与共生程度。 |
-> | 电压降假说批判（Voltage Drop Critique） | 理论靶子 | 批判传统[[Paradigm\|范式]]将实施成效衰退归咎于实践者未严格按原样照搬的机械[[Hypothesis\|假设]]。 |
+> | 电压降假说批判（Voltage Drop Critique） | 理论靶子 | 批判传统[[Paradigm\|范式]]将实施成效衰退归咎于实践者未严格按原样照搬的机械假设。 |
 > | [[Programme Fidelity vs Adaptation\|忠实度与调适平衡]] | 概念边界 | 区分破坏干预机理的盲目漂移（Program Drift）与基于[[Phronesis\|实践智慧]]的适切调适（Appropriate Adaptation）。 |
 > | 核心功能与适配形态（Core Functions vs Forms） | 结构构件 | 锁定干预发挥效能的底层因果逻辑（核心功能），同时允许具体实施步骤与工具形式随情境调整。 |
 > | [[Implementation and Process Evaluation\|过程评价]] | 诊断方法 | 追踪组织日常运作中拟合度演进、反馈收集与循环改进的经验手段。 |
@@ -153,7 +151,7 @@ updated: 2026-09-26
 
 > [!theory-use] 如何用于研究
 > - **作为理论框架** 指导[[Evidence-Based Education\|循证教育]]改革项目、课程创新方案的长期跟踪与可持续性评估。
-> - **作为分析工具** 提炼“核心功能与可变形态[[Coding in Qualitative Research\|编码]]矩阵”，分析实践者在实施过程中的具体调适行为及其对教学产出的[[Interaction Effect\|调节效应]]。
+> - **作为分析工具** 提炼“核心功能与可变形态编码矩阵”，分析实践者在实施过程中的具体调适行为及其对教学产出的[[Interaction Effect\|调节效应]]。
 > - **作为批判视角** 批判政策制定者对“机械忠实度”的教条考核，破除忽视学校[[Heterogeneity\|异质性]]的“一刀切”政策问责。
 > - **报告方式** 详细交代实施背景的演变轨迹、调适决策的具体动因与核心机制的保全程度。
 

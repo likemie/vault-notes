@@ -6,7 +6,7 @@ aliases:
 summary: "国家利用教育系统在边疆地区推行统一国族认同，Yan & Morris 将香港 LS→CSD 纳入此框架与西藏、新疆、内蒙古并置分析"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 21
+theory_related_count: 19
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Cultural Hierarchy]]"
   - "[[Zhonghua Minzu]]"
   - "[[Membership-Creating Function of Education]]"
-  - "[[Document]]"
   - "[[Sinicisation]]"
   - "[[Patriotic Education]]"
   - "[[Paradigm]]"
@@ -33,7 +32,6 @@ related_concepts:
 related_theories:
   - "[[Critical Theory]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_persons: []
 related_facts:
@@ -48,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 ## 核心主张
@@ -79,11 +77,11 @@ updated: 2026-10-07
 >
 > Membership-creating 与国族建构的关系是：前者是**结构性的制度功能**（为什么要有公立教育），后者是**策略性的政策操作**（如何利用这个制度在边疆推行统一身份）。[[Argument_Yan_2025_JCS\|Yan & Morris (2025)]] 分析的西藏、新疆、内蒙古和香港案例，都是国家在 membership-creating 制度基础上叠加的策略性强化——在已经划定"谁是中国公民"的边界内部，进一步消除地方文化和替代性身份认同。
 >
-> [[Argument_Amos_2022_Springer\|Amos (2022, p.55)]] 还指出了 membership-creating 的当代回响："直到今天，围绕难民儿童、移民或所谓非法外国人的学校教育争议"——这些争议之所以棘手，正是因为现代教育的 DNA 里[[Coding in Qualitative Research\|编码]]了"内外之分"。当国家通过教育系统强化"谁是公民"的边界时，这个机制的历史连续性清晰可见。
+> [[Argument_Amos_2022_Springer\|Amos (2022, p.55)]] 还指出了 membership-creating 的当代回响："直到今天，围绕难民儿童、移民或所谓非法外国人的学校教育争议"——这些争议之所以棘手，正是因为现代教育的 DNA 里编码了"内外之分"。当国家通过教育系统强化"谁是公民"的边界时，这个机制的历史连续性清晰可见。
 
 
 > [!abstract] 中国的边疆教育案例
-> | 地区 | 核心策略 | 关键[[Document\|文献]] |
+> | 地区 | 核心策略 | 关键文献 |
 > |------|---------|---------|
 > | **西藏** | 强制性国民教育消除地方语言和文化认同 | Leibold & Dorjee (2024) |
 > | **新疆** | "普通话化"教育政策压制维吾尔语言教育 | Tobin (2024) |

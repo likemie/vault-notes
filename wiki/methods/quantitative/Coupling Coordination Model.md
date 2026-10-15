@@ -8,7 +8,7 @@ summary: "一种基于系统论的多子系统协同发展水平测度方法，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 12
+method_related_count: 11
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Content Validity]]"
   - "[[Causality]]"
   - "[[Variable]]"
-  - "[[Hypothesis]]"
 related_theories:
   - "[[Coupling Coordination Theory]]"
 related_methods:
@@ -37,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-06-14
+updated: 2026-10-15
 ---
 
 # Coupling Coordination Model
@@ -237,7 +236,7 @@ updated: 2026-06-14
 > - **[[Causality\|因果性]]缺失** $D$ 是描述性综合指标，高协调度不等于子系统之间存在因果促进关系。
 > - **权重敏感性** 指标权重 $f_i$ 和子系统权重 $\alpha_j$ 会影响 $e_j$、$T$ 和 $D$，不同权重设定可能改变区域排序和等级分类。
 > - **分类阈值依赖样本** 自然断点、分位数和等距分类会产生不同的等级边界，地图展示可能放大边界附近地区的差异。
-> - **时间可比性问题** 如果标准化范围或权重基于全时段数据，结果隐含时间不变性[[Hypothesis\|假设]]；如果逐年标准化，又会削弱跨年绝对比较。
+> - **时间可比性问题** 如果标准化范围或权重基于全时段数据，结果隐含时间不变性假设；如果逐年标准化，又会削弱跨年绝对比较。
 > - **指标体系主观性** 模型的数学部分看似客观，但指标选择、正负向设定和缺失值处理都带有研究者判断。
 
 ---
@@ -246,7 +245,7 @@ updated: 2026-06-14
 
 > [!frames-ref] 相关理论
 > - [[Coupling Coordination Theory]] — 为模型提供系统论解释框架，将教育、科技、人才等对象理解为相互关联的子系统。
-> - General Systems Theory — 为“子系统相互作用构成整体状态”的基本[[Hypothesis\|假设]]提供理论背景。
+> - General Systems Theory — 为“子系统相互作用构成整体状态”的基本假设提供理论背景。
 
 > [!ref-table] 相关方法
 > | 方法 | 关系 | 区别 |

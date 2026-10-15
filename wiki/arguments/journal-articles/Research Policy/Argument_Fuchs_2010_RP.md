@@ -26,10 +26,8 @@ related_concepts:
   - "[[Network Governance]]"
   - "[[Network Plasticity]]"
   - "[[Vertical Disintegration]]"
-  - "[[Document]]"
   - "[[Boundary Spanner]]"
   - "[[Structural Holes]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Star Scientists]]"
   - "[[Broad Agency Announcement]]"
   - "[[Saturation]]"
@@ -45,7 +43,6 @@ related_theories:
   - "[[Organizational Culture]]"
   - "[[Developmental Network State]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Case Study]]"
   - "[[Grounded Theory]]"
   - "[[Triangulation]]"
@@ -60,7 +57,6 @@ related_persons:
   - "[[Erica Fuchs]]"
   - "[[Dwight D. Eisenhower]]"
   - "[[George Heilmeier]]"
-  - "[[Alfred Nobel]]"
   - "[[John W. Meyer]]"
 related_facts:
   - "[[DARPA]]"
@@ -85,9 +81,9 @@ title: "Argument_Fuchs_2010_RP"
 argument_key: "Argument_Fuchs_2010_RP"
 argument_display_title: "Rethinking the role of the state in technology development: DARPA and the case for embedded network governance"
 argument_kind: "journal-article"
-argument_related_count: 48
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_count: 44
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Research Policy
 book_title: ""
@@ -120,10 +116,10 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **[[Embedded Network Governance\|嵌入型网络治理]]**<br>Embedded Network Governance | 本文提出的核心理论[[Paradigm\|范式]]。指具备专业权威与网络中心地位的公共代理人，通过微观非正式制度主动重构科学家与产业界的社会关系网络，在不钦定赢家的前提下引导国家战略技术方向并适时断乳。（pp. 1133–1135） |
-> | **[[Developmental Network State\|发展型网络国家]]**<br>Developmental Network State, DNS | 区别于东亚自上而下韦伯式科层发展型国家，强调国家以分布式、去中心化的网络形态运作（Block, 2007; Ansell, 2000）；本文指出既有[[Document\|文献]]将国家角色局限于消极撮合或社区营造，忽视了国家主动引导技术方向的能动性。（pp. 1134–1135） |
+> | **[[Developmental Network State\|发展型网络国家]]**<br>Developmental Network State, DNS | 区别于东亚自上而下韦伯式科层发展型国家，强调国家以分布式、去中心化的网络形态运作（Block, 2007; Ansell, 2000）；本文指出既有文献将国家角色局限于消极撮合或社区营造，忽视了国家主动引导技术方向的能动性。（pp. 1134–1135） |
 > | **[[Network Plasticity\|网络可塑性]]**<br>Network Plasticity | 组织社会学理论（Davis, 2009）。指管理者能够主动改变、修剪并重组社会网络拓扑结构以实现组织目标，为公共代理人作为网络架构重塑者提供了理论基石。（p. 1135） |
-> | **[[Boundary Spanner\|边界跨越者]]与经纪人**<br>Boundary Spanner & Broker | 经典网络理论工具（Burt, 1992; Fleming & Waguespack, 2007）。本文通过对比论证，确立 [[DARPA]] 项目经理超越了消极连接两界的[[Structural Holes\|结构洞]]经纪人与被动[[Transfer Translation Transformation\|转译]]者，展现为兼具资源调配权与技术研判权的系统集成者与乐队指挥家。（pp. 1134–1135, 1144–1145） |
-> | **[[Star Scientists\|明星科学家理论]]**<br>Star Scientists | 祖克和达比（Zucker & Darby, 1996）提出的学术社会学概念。指在颠覆性技术早期拥有不可[[Coding in Qualitative Research\|编码]]专有诀窍的极少数顶级学者；该理论指出明星科学家在早期极度倾向于封闭保护专有成果，从而减缓跨机构技术扩散。（pp. 1140–1141） |
+> | **[[Boundary Spanner\|边界跨越者]]与经纪人**<br>Boundary Spanner & Broker | 经典网络理论工具（Burt, 1992; Fleming & Waguespack, 2007）。本文通过对比论证，确立 [[DARPA]] 项目经理超越了消极连接两界的[[Structural Holes\|结构洞]]经纪人与被动转译者，展现为兼具资源调配权与技术研判权的系统集成者与乐队指挥家。（pp. 1134–1135, 1144–1145） |
+> | **[[Star Scientists\|明星科学家理论]]**<br>Star Scientists | 祖克和达比（Zucker & Darby, 1996）提出的学术社会学概念。指在颠覆性技术早期拥有不可编码专有诀窍的极少数顶级学者；该理论指出明星科学家在早期极度倾向于封闭保护专有成果，从而减缓跨机构技术扩散。（pp. 1140–1141） |
 
 > [!warrant]- 理论如何支撑论证
 > 理论工具箱将宏观国家理论与微观社会网络动力学紧密结合。发展型网络国家理论解释了 DARPA 为何采取去中心化、横向协作的公共组织形态，但该理论遗留了国家如何避免成为盲目发包者并有效引导技术方向的空白；网络可塑性与明星科学家理论切入微观层面，解释了为何在早期技术探索阶段，科学家天然的壁垒倾向会导致技术扩散停滞，进而推导出逻辑——唯有身兼专业权威与财政资源的公共行动者，主动运用网络可塑性充当系统集成者，方能在市场与科层失灵的双重真空中成功催化新兴[[Technological Trajectories|技术轨道]]。（pp. 1134–1135, 1144–1146）
@@ -223,7 +219,7 @@ issuing_organization: ""
 > | **1990年代中期职位** | 桑迪亚国家实验室总裁兼主任 | 莱斯大学化学、物理与天文系教授 | 哈佛大学化学系教授 |
 > | **累计专利数** | 15 项 | > 90 项 | > 30 项 |
 > | **学术专著与论文数** | 宏观国防科研多项 | > 394 篇 | > 290 篇 |
-> | **学术声誉与荣誉** | 美国国家工程院院士、参谋长联席会议杰出公共服务奖章 | 1996 年[[Alfred Nobel\|诺贝尔]]化学奖得主（富勒烯发现者） | [[National Academy of Sciences\|美国国家科学院]]院士 |
+> | **学术声誉与荣誉** | 美国国家工程院院士、参谋长联席会议杰出公共服务奖章 | 1996 年诺贝尔化学奖得主（富勒烯发现者） | [[National Academy of Sciences\|美国国家科学院]]院士 |
 > | **此前是否存在合著或合作** | **无（None）** | **无（None）** | **无（None）** |
 
 > [!row-contrast] Table 4：DARPA 项目经理资助硅锗（SiGe）与应变硅技术的核心专家对比

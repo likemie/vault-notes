@@ -8,7 +8,7 @@ aliases:
 summary: "Donald Campbell等创立的因果推断与效度评估系统理论，确立了内部效度、外部效度、构念效度与统计结论效度四分体系，主张以系统排除替代解释为因果建立前提，并为多质多法（MTMM）收敛效度检验奠定基础。"
 type: theory
 theory_field: "research-methodology"
-theory_related_count: 51
+theory_related_count: 50
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -37,14 +37,13 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Operationalization]]"
   - "[[Threats to Internal Validity]]"
-  - "[[Attrition]]"
   - "[[Definition of Terms]]"
+  - "[[Attrition]]"
   - "[[Open-Mindedness]]"
   - "[[Threats to External Validity]]"
   - "[[Interaction Effect]]"
   - "[[Academic Achievement]]"
   - "[[Implementation Fidelity]]"
-  - "[[Hypothesis]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
@@ -83,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-02
-updated: 2026-10-06
+updated: 2026-10-16
 ---
 
 # Campbellian Validity Framework
@@ -118,7 +117,7 @@ updated: 2026-10-06
 > | [[External Validity\|外部效度（External Validity）]] | 概念 / 核心维度 | [[Causality\|因果推断]]在不同人群、场所、时间及类似但不同的[[Dependent Variable\|结果变量]]上依然成立的推广范围。 |
 > | [[Construct Validity\|构念效度（Construct Validity）]] | 概念 / 核心维度 | 实际[[Operationalization\|操作化]]测量的[[Variable\|变量]]与干预方案在多大程度上精确表征了理论所预设的高阶概念特质。 |
 > | [[Statistical Significance\|统计结论效度（Statistical Conclusion Validity）]] | 概念 / 核心维度 | 基于样本数据判断两变量之间是否存在协变关系的统计检验力与估计准确性。 |
-> | [[Threats to Internal Validity\|效度威胁（Threats to Validity）]] | 分类 / 机制 | 造成实验假象与因果误判的各种竞争性替代解释清单（如历史、成熟、回归均值、选择偏倚、[[Attrition\|流失]]）。 |
+> | [[Threats to Internal Validity\|效度威胁（Threats to Validity）]] | 分类 / 机制 | 造成实验假象与因果误判的各种竞争性替代解释清单（如历史、成熟、回归均值、选择偏倚、流失）。 |
 > | [[Gating Procedure\|门控程序（Gating Procedure）]] | 方法 / 评价规程 | 依据“内部效度优先”原则设立的方法学初筛机制，未通过内部效度门槛的研究不进入推广性评估。 |
 > | [[Multitrait-Multimethod Matrix\|多特质-多方法矩阵（MTMM）]] | 方法 / 检验程序 | 通过多特质与多方法的双向交叉，系统检验测量与评价工具的[[Convergent and Discriminant Validity\|收敛效度]]与判别效度。 |
 
@@ -135,7 +134,7 @@ updated: 2026-10-06
 >   > [!evidence-grid]- 证据
 >   > - **证据一（[[Single-Case Design\|SCD]] 与组间设计共通性）** 无论是[[Randomised Controlled Trials\|随机对照试验]]（RCT）通过[[Random Assignment\|随机分配]]消除选择偏倚，还是[[Single-Subject Design\|单一被试设计]]（SCD）通过 ABAB 撤回与多基线阶段对比消除成熟和历史效应，均统一遵循排除替代解释的 Campbellian 逻辑。[[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015, p. 462)]]
 > - **前提二（逻辑先后序）** 内部效度构成了[[External Validity\|外部效度]]的逻辑前置条件（*sin qua non*）——若干预本身无效，推广性讨论便失去本体依据。
-> - **推导** ① 识别干预后结果变化的潜在威胁清单（成熟、历史、仪器变异、均值回归、[[Attrition\|流失]]偏倚） → ② 构建能有效阻断这些威胁的设计机制 → ③ 确立内部效度门控程序（[[Gating Procedure]]），仅对通过因果质量审查的研究开展后续合成。[[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015, pp. 462–466)]]
+> - **推导** ① 识别干预后结果变化的潜在威胁清单（成熟、历史、仪器变异、均值回归、流失偏倚） → ② 构建能有效阻断这些威胁的设计机制 → ③ 确立内部效度门控程序（[[Gating Procedure]]），仅对通过因果质量审查的研究开展后续合成。[[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015, pp. 462–466)]]
 
 > [!index-table] 内部效度的核心威胁与实验控制机制（Shadish et al., 2002; [[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015]]）
 > | [[Threats to Internal Validity\|内部效度威胁]] | 威胁机制与含义 | 组间设计 (RCT/[[Quasi-Experimental Designs\|QED]]) 的控制方式 | 单一个案设计 (SCD) 的控制方式 |
@@ -145,7 +144,7 @@ updated: 2026-10-06
 > | **回归均值（Regression to the Mean）** | 基于极端分数（极高或极低）筛选被试后，重测分数向均值自然靠拢 | 避免极端截断入组，采用协方差调整 | 建立稳定且有足够数据点的基线期（Baseline Phase），确认无自然回归趋势后再施加干预 |
 > | **处理扩散（Diffusion of Treatment）** | 实验组干预信息、材料或技能向对照组泄漏污染 | 集群随机化（以学校或学区为单位随机） | 严格物理隔离各实验阶段，检验无干预控制条件是否遭受意外污染 |
 > | **工具化（Instrumentation）** | 测量工具校准漂移、评卷标准松紧或观察者疲劳 | 采用标准化盲审与高[[Test-Retest Reliability\|重测信度]]量表 | 强制实施观察者评分一致性检验（IOA ≥ 80%）与[[Definition of Terms\|操作性定义]]规范 |
-> | **样本流失（Attrition）** | 参与者因各种原因退出研究，导致组间基线等值性破坏 | 严格核算整体流失与差异流失边界模型 | 密集高频次追踪，完整记录个案每个阶段的数据点完整性 |
+> | **[[Attrition\|样本流失]]（Attrition）** | 参与者因各种原因退出研究，导致组间基线等值性破坏 | 严格核算整体流失与差异流失边界模型 | 密集高频次追踪，完整记录个案每个阶段的数据点完整性 |
 
 ---
 
@@ -172,7 +171,7 @@ updated: 2026-10-06
 ### 命题三　基于多质多法框架，“循证”构念要求跨评价机构展现经验收敛效度
 
 > [!proposition-chain] 核心命题三｜基于多质多法框架，“循证”[[Construct\|构念]]要求跨评价机构展现经验[[Convergent and Discriminant Validity\|收敛效度]]
-> - **前提一（[[Construct Validity\|构念效度]]的收敛性[[Hypothesis\|假设]]）** Campbell & Fiske (1959) 确立的多质多法（[[Multitrait-Multimethod Matrix\|MTMM]]）原则指出：若某一概念（如“干预有效性”）具有客观构念效度，则运用不同独立方法或不同评价者对其进行测量时，评级结果必须高度收敛。[[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024, p. 4)]]
+> - **前提一（[[Construct Validity\|构念效度]]的收敛性假设）** Campbell & Fiske (1959) 确立的多质多法（[[Multitrait-Multimethod Matrix\|MTMM]]）原则指出：若某一概念（如“干预有效性”）具有客观构念效度，则运用不同独立方法或不同评价者对其进行测量时，评级结果必须高度收敛。[[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024, p. 4)]]
 >   > [!evidence-grid]- 证据
 >   > - **证据一（1,359 项目多中心评级实证检验）** 实证分析 10 个清算中心评估的教育项目发现，多重评级完全一致率仅约 30.5%，完全对立冲突（1&3，一家推荐 vs 一家否决）高达 35.4%，共同推荐率仅 1.2%。[[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024, pp. 18–20)]]
 > - **前提二（综合门槛导致的特质异化）** 评级不一致并非源于单项 RCT 内部效度判定，而是源于各中心在证据综合门槛（独立复制、12个月随访、医源性排除）上的本质割裂。

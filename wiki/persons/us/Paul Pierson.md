@@ -8,10 +8,10 @@ summary: "美国政治学家，加州大学伯克利分校讲席教授，美国�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 24
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_count: 23
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: 1959
 lifespan: "1959–至今"
 tags:
@@ -40,7 +40,6 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Jacob S. Hacker]]"
-  - "[[Isaiah Berlin]]"
   - "[[Wolfgang Streeck]]"
   - "[[Theda Skocpol]]"
   - "[[James Mahoney]]"
@@ -79,7 +78,7 @@ updated: 2026-10-15
 
 > [!timeline] 生平与职涯
 > - **1959** 出生于美国俄勒冈州尤金市。
-> - **1981** 于奥[[Isaiah Berlin|柏林]]学院（Oberlin College）获政治学学士学位。
+> - **1981** 于奥柏林学院（Oberlin College）获政治学学士学位。
 > - **1989** 于耶鲁大学获政治学博士学位。
 > - **1989–2004** 任教于哈佛大学政府系，晋升为政治学正教授；在此期间奠定[[Historical Institutionalism|历史制度主义]]与[[Path Dependence|路径依赖理论]]的领军地位。
 > - **1994** 出版专著《拆解福利国家？里根、撒切尔与紧缩政治》（剑桥大学出版社），获美国政治学会格迪斯最佳著作奖。

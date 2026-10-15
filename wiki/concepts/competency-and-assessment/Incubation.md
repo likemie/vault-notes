@@ -10,7 +10,7 @@ aliases:
 summary: "个体在面临未决难题时，暂时停止有意识的直接思考并转向休息或无关活动，随后在无意识或偶发线索触发下产生灵感豁朗与创造性突破的认知心理现象。作为创造力四阶段模型的核心环节，它通过消退思维定势、促进无意识联想扩散与恢复认知资源，解释了创造力训练周期的倒 U 型演进规律。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 28
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,7 +23,6 @@ tags:
 related_concepts:
   - "[[Creativity]]"
   - "[[Creativity Training]]"
-  - "[[Attrition]]"
   - "[[Problem Solving]]"
   - "[[Habituation]]"
   - "[[Working Memory]]"
@@ -32,7 +31,6 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Variable]]"
   - "[[Paradigm]]"
-  - "[[Hypothesis]]"
   - "[[Heterogeneity]]"
   - "[[Divergent Thinking]]"
   - "[[Cognitive Flexibility]]"
@@ -44,7 +42,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Three-Level Meta-Analysis]]"
   - "[[Effect Size]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Prediction Interval]]"
   - "[[Meta-meta-analysis]]"
   - "[[Correlational Research]]"
@@ -56,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Incubation
@@ -71,7 +68,7 @@ updated: 2026-09-22
 > [!concept-lens] 概念透镜
 > - **核心本质** 有意识专注控制暂时解除后，大脑神经长时记忆网络进行低负荷自主重组、思维定势衰减与未决目标持续隐式追踪的“离线心智整合”。
 > - **理论用途** 解释为何“苦思冥想不得、转身偶得之”的顿悟常态；为高校与企业创造力训练课程的“间隔周期（Spaced Practice）”设置与节奏安排提供认知科学依据（解释创造力训练周期倒 U 型曲线）。
-> - **解释边界** 孕育效应并非“无中生有”的懒惰避风港；它必须以前期密集的准备阶段（知识储备、深入表征与遭遇阻碍）为绝对前提；若前期未形成未解决的认知紧张态（Zeigarnik Effect），搁置只会导致纯粹的遗忘与知识[[Attrition\|流失]]。
+> - **解释边界** 孕育效应并非“无中生有”的懒惰避风港；它必须以前期密集的准备阶段（知识储备、深入表征与遭遇阻碍）为绝对前提；若前期未形成未解决的认知紧张态（Zeigarnik Effect），搁置只会导致纯粹的遗忘与知识流失。
 
 > [!citation-card]- 关键表述：四阶段过程模型与周期倒 U 型解释（Wallas, 1926; [[Argument_Guo_2025_TSC\|Guo et al., 2025]]; Sio & Ormerod, 2009）
 > 创造力是[[Problem Solving\|问题解决]]的一系列有序阶段的展开：准备（Preparation）、孕育（Incubation）、豁朗（Illumination）与验证（Verification）。在孕育阶段，尽管没有自愿且有意识的思考，但在心智潜层中，未完成的任务依然在经历潜移默化的重新排列与意义酝酿。Wallas (1926, pp. 79–82)
@@ -191,7 +188,7 @@ updated: 2026-09-22
 > > 争论孕育期内大脑是否真的在无意识状态下积极进行概念运算与意义重组，还是仅仅发生了神经疲劳恢复与错误记忆消退的被动过程。
 > >
 > > - **主动无意识派（如 Dijksterhuis）** 坚信无意识心智具有极其庞大的信息处理吞吐量，能在梦境或走神中自主拼装复杂观念。
-> > - **被动消退派（如 Smith）** 强调绝大多数实验结果仅凭“错误定势衰减与重新[[Coding in Qualitative Research\|编码]]”即可充分解释，无需[[Hypothesis\|假设]]神秘的无意识高级思维。
+> > - **被动消退派（如 Smith）** 强调绝大多数实验结果仅凭“错误定势衰减与重新编码”即可充分解释，无需假设神秘的无意识高级思维。
 >
 > > [!axis] 实验室微观间隔 vs 真实世界长期孵化
 > > 批判指出，实验室任务（几分钟到几十分钟的字谜搁置）无法完全代表现实科学发现与文学创作中长达数月乃至数年的复杂潜伏孕育过程。

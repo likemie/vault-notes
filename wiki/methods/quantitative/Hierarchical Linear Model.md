@@ -12,9 +12,9 @@ summary: "专门用于分析具有嵌套或分层结构数据的统计建模方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 50
-method_related_level: 6
-method_related_stars: "⭐⭐⭐⭐⭐⭐"
+method_related_count: 49
+method_related_level: 5
+method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/quantitative
@@ -22,7 +22,6 @@ tags:
   - method/multilevel
   - method/hierarchical-modeling
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Dependent Variable]]"
   - "[[Interaction Effect]]"
   - "[[Heterogeneity]]"
@@ -81,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Hierarchical Linear Model
@@ -91,7 +90,7 @@ updated: 2026-10-08
 ## 定义
 
 > [!def] 方法定义
-> **分层线性模型（Hierarchical Linear Model，简称 HLM，在统计学中亦称多层线性模型 Multilevel Linear Model, MLM，或随机效应混合模型 Mixed-Effects Model）**是一种专门用于分析具有多层嵌套（Nested / Clustered）或分层结构数据的参数化回归建模方法。在教育研究中，学生个体（Level 1）天然嵌套于班级或学校（Level 2），同校学生因共享学校师资、校园文化、社区背景或课堂教学而存在内在相似性，违背了传统[[Ordinary Least Squares\|普通最小二乘法]]（OLS）所要求的“误差独立同分布（I.I.D.）”[[Hypothesis\|假设]]。HLM 通过将[[Dependent Variable\|因变量]]的总变异解构为个体层级残差方差与群体层级随机效应方差，不仅能够精确计算**[[Intraclass Correlation Coefficient\|组内相关系数]]（Intraclass Correlation Coefficient, ICC）**并对抽样[[Standard Error\|标准误]]进行彻底校正，还能显式估计宏观组织特征对微观个体产出的跨层级[[Interaction Effect\|调节效应]]（Cross-level Interaction）。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 52–53)]]; [[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 8–10)]]
+> **分层线性模型（Hierarchical Linear Model，简称 HLM，在统计学中亦称多层线性模型 Multilevel Linear Model, MLM，或随机效应混合模型 Mixed-Effects Model）**是一种专门用于分析具有多层嵌套（Nested / Clustered）或分层结构数据的参数化回归建模方法。在教育研究中，学生个体（Level 1）天然嵌套于班级或学校（Level 2），同校学生因共享学校师资、校园文化、社区背景或课堂教学而存在内在相似性，违背了传统[[Ordinary Least Squares\|普通最小二乘法]]（OLS）所要求的“误差独立同分布（I.I.D.）”假设。HLM 通过将[[Dependent Variable\|因变量]]的总变异解构为个体层级残差方差与群体层级随机效应方差，不仅能够精确计算**[[Intraclass Correlation Coefficient\|组内相关系数]]（Intraclass Correlation Coefficient, ICC）**并对抽样[[Standard Error\|标准误]]进行彻底校正，还能显式估计宏观组织特征对微观个体产出的跨层级[[Interaction Effect\|调节效应]]（Cross-level Interaction）。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 52–53)]]; [[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 8–10)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 具有两层或三层嵌套结构的数据（如“学生-班级-学校”、“重复测量时间点-个体受试者”、“初级[[Effect Size\|效应量]]-初级研究”）。
@@ -135,7 +134,7 @@ updated: 2026-10-08
 
 > [!proc] 通用程序
 > 1. **空模型估计与 [[Intraclass Correlation Coefficient\|ICC]] 测算（Null Model）** 不纳入任何[[Independent Variable\|预测变量]]，分解总方差为 Level 1 与 Level 2，计算组内相关系数 ICC。若 ICC 显著大于 0（如 $\ge 0.05$），证实必须采用多层分析。
-> 2. **[[Variable\|变量]]中心化处理（Centering Decision）** 依据理论[[Hypothesis\|假设]]决定自变量采用总均值中心化（便于控制宏观混杂）或组均值中心化（纯粹提取微观组内效应）。
+> 2. **[[Variable\|变量]]中心化处理（Centering Decision）** 依据理论假设决定自变量采用总均值中心化（便于控制宏观混杂）或组均值中心化（纯粹提取微观组内效应）。
 > 3. **拟合随机截距模型（Random Intercept Model）** 引入 Level 1 学生变量（如基线[[Pre-test and Post-test\|前测]]成绩）与 Level 2 学校变量（如干预组别），固定斜率，仅允许各校截距随机变动。
 > 4. **评估随机斜率与跨层级交互（Random Slope & Cross-level Interaction）** 检验干预效应是否在不同学校间存在显著[[Heterogeneity\|异质性]]；若存在，引入学校特征变量解释斜率异质性。
 > 5. **模型比较与残差诊断** 运用似然比检验（LRT）比较模型复杂度与拟合度，检查各层级残差的正态性与异常群聚点。
@@ -255,7 +254,7 @@ updated: 2026-10-08
 > > 教育统计界内部在处理集群相关数据时的模型路线之争。
 > >
 > > - **参数化多层模型派** 坚持显式指定层级概率结构，认为只有 HLM 能够诚实拆解方差来源、揭示学校背景的[[Interaction Effect\|调节效应]]，并为集群试验提供最贴近真实教育生成过程的解释力。
-> > - **半参数边际模型派（GEE 倡导者）** 批评 HLM 过于依赖随机效应服从正态分布的严苛[[Hypothesis\|假设]]，一旦分布设定错误，点估计可能遭受污染；而 GEE 仅关注群体平均因果效应，对工作相关结构的设定具有稳健性，更适合纯粹评估全系统干预净收益。肖等学者（Xiao et al., 2016）的复算审计表明，在正态性较好的标准试验中两类模型结论高度接近，但在非平衡小样本试验中 HLM 提供了更严谨的方差结构保护（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）。
+> > - **半参数边际模型派（GEE 倡导者）** 批评 HLM 过于依赖随机效应服从正态分布的严苛假设，一旦分布设定错误，点估计可能遭受污染；而 GEE 仅关注群体平均因果效应，对工作相关结构的设定具有稳健性，更适合纯粹评估全系统干预净收益。肖等学者（Xiao et al., 2016）的复算审计表明，在正态性较好的标准试验中两类模型结论高度接近，但在非平衡小样本试验中 HLM 提供了更严谨的方差结构保护（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）。
 
 ---
 
@@ -266,7 +265,7 @@ updated: 2026-10-08
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Cluster Randomized Trials]] | 适用场景 | HLM 作为核心分析工具所服务的核心教育实验设计[[Paradigm\|范式]]。 |
-> | [[Ordinary Least Squares]] | 基础模型 | HLM 克服 OLS 独立同分布[[Hypothesis\|假设]]局限性后在多层嵌套领域的自然扩展。 |
+> | [[Ordinary Least Squares]] | 基础模型 | HLM 克服 OLS 独立同分布假设局限性后在多层嵌套领域的自然扩展。 |
 > | [[Simple Difference in Means Model]] | 对照模型 | 极简双组比较模型，与 HLM 的层级方差分解形成鲜明的方法学阶梯。 |
 > | [[Three-Level Meta-Analysis]] | 跨领域应用 | HLM 原理在[[Meta-analysis\|元分析]]领域的经典推广，用于处理[[Effect Size\|效应量]]多层依赖。 |
 > | [[Covariate Adjustment]] | 核心技术 | 在 HLM Level 1 引入[[Pre-test and Post-test\|前测]]以压缩组内残差方差的核心统计策略。 |

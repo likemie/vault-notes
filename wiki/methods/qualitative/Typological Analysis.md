@@ -79,10 +79,10 @@ updated: 2026-10-12
 ## 定义
 
 > [!def] 方法定义
-> 类型学分析（Typological Analysis）是通过明确的分类维度与判据，将复杂的经验现象系统化组织为具有内在逻辑关联的子集、类型矩阵或因果构型的研究方法。在微观质性数据分析中，类型学分析表现为次级[[Coding in Qualitative Research|编码]]（Secondary Coding）过程，即将离散的描述性编码依据行为、意义或策略变异进一步汇总归入高阶类别与类型集合（Lofland, 1970；LeCompte & Preissle, 1993；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al., 2011, 29.5]]）；在宏观比较政治与[[Historical Institutionalism|历史制度主义]]中，类型学分析升华为**因果类型学理论（Typological Theory）**，通过将两个或多个具有解释力的维度在性质空间（Property Space）中进行交叉构建（Cross-tabulation），推导出互斥且逻辑完备的因果演变路径与行动者博弈类型，为长时段案例比较与机制追踪提供中观因果命题架构（Lazarsfeld & Barton, 1951；George & Bennett, 2005；[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 14–32]]）。
+> 类型学分析（Typological Analysis）是通过明确的分类维度与判据，将复杂的经验现象系统化组织为具有内在逻辑关联的子集、类型矩阵或因果构型的研究方法。在微观质性数据分析中，类型学分析表现为次级编码（Secondary Coding）过程，即将离散的描述性编码依据行为、意义或策略变异进一步汇总归入高阶类别与类型集合（Lofland, 1970；LeCompte & Preissle, 1993；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al., 2011, 29.5]]）；在宏观比较政治与[[Historical Institutionalism|历史制度主义]]中，类型学分析升华为**因果类型学理论（Typological Theory）**，通过将两个或多个具有解释力的维度在性质空间（Property Space）中进行交叉构建（Cross-tabulation），推导出互斥且逻辑完备的因果演变路径与行动者博弈类型，为长时段案例比较与机制追踪提供中观因果命题架构（Lazarsfeld & Barton, 1951；George & Bennett, 2005；[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 14–32]]）。
 
 > [!method-scope] 方法范围
-> - **研究对象** 质性编码片段、组织行动策略、制度结构属性、政策干预方案以及宏观政治经济体制案例。
+> - **研究对象** [[Coding in Qualitative Research|质性编码]]片段、组织行动策略、制度结构属性、政策干预方案以及宏观政治经济体制案例。
 > - **问题类型** 适合回答现象分类、类型建构、横向比较、中观因果机制推导以及条件构型分析问题。
 > - **[[Unit of Analysis|分析单位]]** 行为单元、意义主题、组织形态、政策工具组合、行动者角色或制度变迁案例。
 > - **输出形式** 层次化分类体系、二维属性交叉矩阵（如 $2 \times 2$ 象限表）、类型学因果假说集、行动者行为亲和力矩阵。
@@ -103,7 +103,7 @@ updated: 2026-10-12
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 类型不是客观现实中自然天然割裂的实体，而是研究者基于特定[[Theoretical Perspective|理论视角]]与分类准则对经验世界进行的属性空间抽象；类型学架起了归纳性经验观察与演绎性因果解释之间的桥梁。
-> - **研究者角色** 在归纳进路中，研究者扮演[[Reflexivity|反思性]]的[[Coding in Qualitative Research|编码]]整合者；在演绎进路中，研究者作为理论维度的构作师，负责界定属性边界、检验象限完备性并推导各象限对应的微观发生机制。
+> - **研究者角色** 在归纳进路中，研究者扮演[[Reflexivity|反思性]]的编码整合者；在演绎进路中，研究者作为理论维度的构作师，负责界定属性边界、检验象限完备性并推导各象限对应的微观发生机制。
 > - **有效性标准** 遵循组内同质性（同一类型内的案例或数据具有高度相似的核心特征）、组间互斥性（不同类型之间界限分明）、空间穷尽性（理论维度组合能覆盖现实变异范围）以及机制清晰性（每个类型能指涉明确的因果传导链条）。
 > - **因果解释维度的澄清** 传统[[Empiricism|经验主义]]常误认为“类型学仅仅是描述分类、无法回答因果问题”；当代方法论（George & Bennett, 2005；Mahoney & Thelen, 2009）明确指出，**因果类型学**通过将[[Independent Variable|自变量]]的离散状态组合与特定[[Dependent Variable|结果变量]]及因果机制绑定，能够产生极具解释力的条件性因果命题。
 
@@ -118,7 +118,7 @@ updated: 2026-10-12
 ## 研究程序
 
 > [!proc] 类型学建构的双轨程序
-> 1. **进路分支判定** 根据研究目标选择“自下而上”的归纳[[Coding in Qualitative Research|编码]]路径（适用于探索性质性数据）或“自上而下”的演绎因果路径（适用于中观理论与案例解释）。
+> 1. **进路分支判定** 根据研究目标选择“自下而上”的归纳编码路径（适用于探索性质性数据）或“自上而下”的演绎因果路径（适用于中观理论与案例解释）。
 > 2. **界定判据与维度** 提炼核心分析概念，明确分类维度（如政治环境特征与制度规则特征）。
 > 3. **构建属性空间** 通过维度的正交交叉建立 $2 \times 2$ 或多维矩阵，确保各个单元格逻辑清晰且概念边界明确。
 > 4. **推导微观机制或分配数据** 归纳路径下将质性材料归入各子集；演绎路径下为每个象限推导具体的因果传导机制与预测结果。
@@ -180,7 +180,7 @@ updated: 2026-10-12
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al. (2011, Ch. 29)]] — 介绍类型学分析作为质性分析的核心工具，梳理 Lofland 等学者的次级[[Coding in Qualitative Research|编码]]逻辑与类型建构程序。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al. (2011, Ch. 29)]] — 介绍类型学分析作为质性分析的核心工具，梳理 Lofland 等学者的次级编码逻辑与类型建构程序。
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 运用因果类型学方法将宏观[[Veto Possibilities|否决可能性]]与制度裁量权交叉构建，系统推导出四类制度变迁模式与行动者类型矩阵。
 > - [[Argument_Torres_2022_KMModels|Torres (2022b)]] — 运用三代分析透镜对四类主流[[Knowledge Mobilisation|知识动员]]模型展开七维对照矩阵的系统性类型学与横向比较分析。
 > - [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] — 依据争议性、复杂性与不确定性对公共问题与创新方案进行两分法概念解构，构建使命导向政策的二维类型学矩阵。

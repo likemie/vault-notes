@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14"
 argument_display_title: "Research Methods in Education · Ch14"
 argument_kind: "book-chapter"
-argument_related_count: 69
+argument_related_count: 67
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -36,10 +36,8 @@ related_concepts:
   - "[[Variable]]"
   - "[[Causality]]"
   - "[[Lesson Study]]"
-  - "[[Document]]"
   - "[[Creativity]]"
   - "[[Ways of Knowing]]"
-  - "[[Hypothesis]]"
   - "[[Research Purpose]]"
   - "[[Research Question]]"
   - "[[Formative Assessment]]"
@@ -94,7 +92,7 @@ related_methods:
   - "[[Structured Observation]]"
   - "[[Classroom Observation]]"
   - "[[Field Notes]]"
-  - "[[Coding in Qualitative Research]]"
+  - "[[Time Sampling]]"
   - "[[Progressive Focussing]]"
   - "[[In-depth Interview]]"
   - "[[Grounded Theory]]"
@@ -190,7 +188,7 @@ Hitchcock & Hughes（1995, pp. 317, 319）从两个互补角度描述个案研�
 > [!contrast-table] 个案研究与历史研究的区别
 > | 维度 | 个案研究 | 历史研究 |
 > |---|---|---|
-> | 数据来源 | 直接观察、访谈参与者，可接触活着的当事人 | 依赖档案、[[Document\|文献]]、二手记录，当事人通常已不在世 |
+> | 数据来源 | 直接观察、访谈参与者，可接触活着的当事人 | 依赖档案、文献、二手记录，当事人通常已不在世 |
 > | 与研究对象的关系 | 研究者可进入现场，与参与者互动 | 研究者与研究对象之间存在时间距离，无法直接接触 |
 > | 核心优势 | 捕捉正在进行中的行为和当下感知（Yin, 2009, p. 11） | 追溯长时段的变化脉络和制度演变 |
 > | 数据类型 | 多种类型混合（观察、访谈、文件、实物，Robson, 2002, p. 178） | 以文献和档案为主 |
@@ -229,7 +227,7 @@ Simons（1996）认为个案研究需要同时拥抱六组看似矛盾的立场�
 > [!contrast-table] 五种分类体系的对比
 > | 学者 | 分类标准 | 类型 | 说明 |
 > |---|---|---|---|
-> | **Yin（1984）** | 研究产出 | 探索性 | 作为试点，为后续调查、实验生成[[Hypothesis\|假设]] |
+> | **Yin（1984）** | 研究产出 | 探索性 | 作为试点，为后续调查、实验生成假设 |
 > | | | 描述性 | 提供叙事叙述 |
 > | | | 解释性 | 检验理论，回答如何和为什么 |
 > | **Merriam（1988）** | [[Research Purpose\|研究目的]] | 描述性 | 叙事叙述 |
@@ -481,7 +479,7 @@ Verschuren（2003, p. 136）为个案研究的推广性提供了更有力的辩�
 > | 与被观察者关系 | 融入群体，被视作自己人 | 保持距离，明确的外部者身份 |
 > | 典型情境 | 自然情境（课堂、帮派、社区） | 人工/半人工情境、结构化[[Classroom Observation\|课堂观察]] |
 > | 核心优势 | 获取内部人视角，理解群体文化 | 标准化记录，可精确量化行为频数 |
-> | 数据形式 | [[Field Notes\|田野笔记]]、非正式对话、印象 | 结构化观察表、时间抽样、[[Coding in Qualitative Research\|编码]]记录 |
+> | 数据形式 | [[Field Notes\|田野笔记]]、非正式对话、印象 | 结构化观察表、[[Time Sampling\|时间抽样]]、编码记录 |
 > | 经典示例 | Patrick（1973）隐蔽于格拉斯哥帮派四个月；Willis（1977）作为班级成员参与 | King（1979）站立保持距离、避免眼神接触；后排每三秒编码一次 |
 > | 主要风险 | 角色冲突，伦理与安全张力 | 无法获取内部人视角和深层意义 |
 

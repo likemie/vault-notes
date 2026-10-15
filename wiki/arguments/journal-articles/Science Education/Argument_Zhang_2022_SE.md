@@ -55,7 +55,6 @@ related_instruments: []
 related_persons:
   - "[[Jianwei Zhang]]"
   - "[[Anthony Giddens]]"
-  - "[[Marc-Antoine Jullien]]"
   - "[[Thomas D. Seeley]]"
 related_facts: []
 related_arguments: []
@@ -71,7 +70,7 @@ title: "Argument_Zhang_2022_SE"
 argument_key: "Argument_Zhang_2022_SE"
 argument_display_title: "Epistemic agency for costructuring expansive knowledge‐building practices"
 argument_kind: "journal-article"
-argument_related_count: 31
+argument_related_count: 30
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -212,10 +211,10 @@ issuing_organization: ""
 > [!figure]- 图 5　班级集体探究方向随时间演化与分化的完整历程
 > ![](https://img.mylikemie.icu/sources/Zhang_2022_SE/figures/Zhang_2022_SE_Fig5_Temporal_Evolution.jpg)
 
-学生在公共总结区定期复盘“搞懂了什么、还有哪些疑团”，对 16 篇总结笔记的内容[[Coding in Qualitative Research|编码]]分析表明，学生的思维呈现出极高的科学严谨度：
+学生在公共总结区定期复盘“搞懂了什么、还有哪些疑团”，对 16 篇总结笔记的内容编码分析表明，学生的思维呈现出极高的科学严谨度：
 
 > [!coding-frame]- 表 1　学生在公共总结区（BOOK 视图）反思笔记的内容编码分析
-> | [[Coding in Qualitative Research\|编码]]维度 | 类别划分 | 数量 | 占比与通俗解释 |
+> | 编码维度 | 类别划分 | 数量 | 占比与通俗解释 |
 > |---|---|---|---|
 > | **问题类型** | 寻找事实型（Fact-seeking）<br>寻找因果机制型（Explanation-seeking） | 7<br>23 | 机制解释型问题占比高达 76.7%，孩子们不再满足于“骨头叫什么名字”，而是追问“胃酸为什么不会把胃本身烧伤”、“骨骼关节是如何协同受力的”等深层原理 |
 > | **问题跨度** | 单一器官/系统（Single-area）<br>跨系统综合联动（Cross-area） | 15<br>15 | 跨系统问题占到 50.0%，学生主动探索“大脑是如何从血液中获取养分和氧气的”等跨系统协同机制 |
@@ -393,7 +392,7 @@ issuing_organization: ""
 > *As a hallmark of authentic science practices, students need to enact epistemic agency to shape/reshape the key aspects of their inquiry work as a collaborative community. This study elaborates an emergent temporal mechanism for engaging students' epistemic agency: 'reflective structuration' by which members of a classroom community coconstruct ever-evolving inquiry directions and group structures as their collective inquiry work proceeds.*
 
 > [!citation-card] [[Creativity|创造性]]知识工作的激流皮划艇隐喻
-> 知识创造团队应对的是[[Creativity|创造性]]过程中突现、不确定与不断展开的本质，鼓励所有参与者提出多元观点并展现领导力，借助灵活的观点互动与[[Opportunistic Collaboration|自组织协作]]进行探究。安·M·彭德尔顿-[[Marc-Antoine Jullien|朱利安]]（Ann M. Pendleton-Jullian）与约翰·[[Thomas D. Seeley|西利]]·布朗（John Seely Brown）使用白水皮划艇漂流的隐喻来描述互联世界中的创造性知识工作：[[Knowledge Building Theory|知识建构]]者如同皮划艇团队，绝非沿着一条固定航线死板向前推进，而是需要持续研读不断演化的情境并调整自身重心，以参与并塑造周围流淌的知识洪流。（p.891）
+> 知识创造团队应对的是[[Creativity|创造性]]过程中突现、不确定与不断展开的本质，鼓励所有参与者提出多元观点并展现领导力，借助灵活的观点互动与[[Opportunistic Collaboration|自组织协作]]进行探究。安·M·彭德尔顿-朱利安（Ann M. Pendleton-Jullian）与约翰·[[Thomas D. Seeley|西利]]·布朗（John Seely Brown）使用白水皮划艇漂流的隐喻来描述互联世界中的创造性知识工作：[[Knowledge Building Theory|知识建构]]者如同皮划艇团队，绝非沿着一条固定航线死板向前推进，而是需要持续研读不断演化的情境并调整自身重心，以参与并塑造周围流淌的知识洪流。（p.891）
 >
 > *Knowledge creation teams work with the emergent, uncertain, and ever-unfolding nature of creative processes, encourage diverse ideas and leadership among all participants and leverage flexible idea interaction and self-organized collaboration. Pendleton-Jullian and Brown use the metaphor of white-water kayaking to describe creative knowledge work: Instead of pushing forward along a fixed path, knowledge builders, like kayaking teams, need to constantly read the evolving context and reposition their center of gravity to participate in and shape the [[Flow]] of knowledge around them.*
 

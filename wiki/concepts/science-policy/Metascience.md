@@ -8,7 +8,7 @@ aliases:
 summary: "将严谨科学方法、实证评估与机制设计工具反身应用于科学事业自身的研究与治理领域；通过对同行评议、资助规则、项目经理自由裁量权及机构组织形态开展对照实验与量化追踪，旨在降低科研行政摩擦、破除平庸共识避险偏好，优化国家科学企业的整体配置效率。"
 type: concept
 domain: "science-policy"
-related_count: 29
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -19,7 +19,6 @@ tags:
   - theme/metascience
 related_concepts:
   - "[[Scientific Method]]"
-  - "[[Document]]"
   - "[[Feedback]]"
   - "[[Reproducibility Crisis]]"
   - "[[Golden Ticket Mechanism]]"
@@ -56,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Metascience
@@ -71,7 +70,7 @@ updated: 2026-10-09
 > [!concept-lens] 概念透镜
 > - **核心含义** 研究对象不是具体的自然或工程现象，而是探索这些现象的**科学社会组织系统与资源配置规则**。
 > - **治理功能** 充当科学资助机构的“自我纠错与反馈装置”，判断既有选拔程序究竟是在识别颠覆性突破，还是在为低风险平庸共识提供回避责任的制度护盾。
-> - **学科边界** 超越单纯的科学学（Scientometrics）[[Document|文献]]计量或常规项目合规审计；元科学强调**主动开展机制干预与前瞻对照实验**，以实证因果证据指导科技政策迭代。
+> - **学科边界** 超越单纯的科学学（Scientometrics）文献计量或常规项目合规审计；元科学强调**主动开展机制干预与前瞻对照实验**，以实证因果证据指导科技政策迭代。
 
 > [!citation-card] [[Michael Kratsios|克拉齐奥斯]]论元科学与科研资助机构的自我纠错
 > 私人风险资本若组合表现不佳会失去出资人，慈善基金必须争夺捐赠者的信任；然而联邦科研资助机构在投资组合系统性表现平庸时，几乎得不到任何纠正性反馈。元科学的核心功能正是将这种反馈机制化为日常的主动实验，通过对资助选拔规则开展严谨对照检验，使每年数千亿美元的公共研发预算真正流向最高影响力的突破性探索。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 30–32)]]
@@ -136,7 +135,7 @@ updated: 2026-10-09
 ## 概念演变与体制化历程
 
 > [!dev-timeline] 概念与制度演进
-> - **1960s–1980s — 科学计量学与科学学奠基（普赖斯学派）** 德里克·德索拉·普赖斯（Derek de Solla Price）奠定科学[[Quantitative Research|量化研究]]基础，探索科学[[Document|文献]]增长、引文网络与无形学院（Invisible Colleges）运作规律。
+> - **1960s–1980s — 科学计量学与科学学奠基（普赖斯学派）** 德里克·德索拉·普赖斯（Derek de Solla Price）奠定科学[[Quantitative Research|量化研究]]基础，探索科学文献增长、引文网络与无形学院（Invisible Colleges）运作规律。
 > - **2000s–2010s — [[Reproducibility Crisis|可重复性危机]]与科研方法反思（Ioannidis 学派）** 约翰·约阿尼迪斯（John Ioannidis）发表《为什么大多数已发表的研究发现都是虚假的》，引发对生物医学与心理学可重复性危机的大反思，元科学正式成为独立学术研究领域。
 > - **2020s 初 — 政策元科学萌芽与 [[DARPA]] / HHMI [[Paradigm|范式]]重估** 科技政策界开始从单纯揭露问题转向**机制干预**，系统总结 [[DARPA]] 项目经理自由裁量制与霍华德·休斯医学研究所（HHMI）对人资助模式的制度优越性。
 > - **2024 年 — [[United Kingdom Metascience Unit|英国元科学单元]]（UK Metascience Unit）设立** 英国科学、创新和技术部（DSIT）与英国研究与创新署（UKRI）联合创立全球首个国家级元科学专门机构，率先针对分布式同行评议、部分[[Random Assignment|随机化]]资助及评审一致性开展大规模实证试验。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 32)]]

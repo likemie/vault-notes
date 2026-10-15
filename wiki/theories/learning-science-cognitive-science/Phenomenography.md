@@ -6,7 +6,7 @@ aliases:
 summary: "以人们经验和理解现象的质性差异为对象的学习理论传统，通过分析特定任务中的学习方式与理解结果解释学生学习。"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 13
+theory_related_count: 12
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -16,7 +16,6 @@ related_concepts:
   - "[[Surface and Deep Learning]]"
   - "[[Conatus]]"
   - "[[Problem-Based Learning]]"
-  - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
   - "[[Constructivist Paradigm]]"
@@ -30,7 +29,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-07-28
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Phenomenography
@@ -75,7 +74,7 @@ updated: 2026-09-17
 > - **推导** 同一学生可以随情境采用不同活动，因此“深层”与“表层”应附着于学习方式，而非附着于人格。
 
 > [!exegesis]- 教育研究例子
-> 同一场讲授中，Susan 把新信息连接到已有问题并反思其意义，Robert 只记录可供考试回忆的事实。若课程改用[[Problem-Based Learning\|问题本位学习]]，Robert 也必须提出[[Hypothesis\|假设]]、检索知识和形成解法。这一变化说明观察单位应是学生在具体任务中做什么。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 57–59)]]
+> 同一场讲授中，Susan 把新信息连接到已有问题并反思其意义，Robert 只记录可供考试回忆的事实。若课程改用[[Problem-Based Learning\|问题本位学习]]，Robert 也必须提出假设、检索知识和形成解法。这一变化说明观察单位应是学生在具体任务中做什么。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 57–59)]]
 
 ---
 

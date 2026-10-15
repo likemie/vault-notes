@@ -9,7 +9,7 @@ summary: "美国心理学家，人本主义心理学主要奠基人，曾任美�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 19
+person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -22,12 +22,10 @@ tags:
   - paradigm/humanistic
   - theme/scientific-method
 related_concepts:
-  - "[[APA Style]]"
   - "[[Paradigm]]"
   - "[[Positivism]]"
   - "[[Epistemology]]"
   - "[[Creativity]]"
-  - "[[Hypothesis]]"
   - "[[Problem Finding]]"
   - "[[Scientific Method]]"
   - "[[Reflexivity]]"
@@ -36,6 +34,7 @@ related_concepts:
   - "[[Research Topic]]"
   - "[[Scientism]]"
   - "[[Empiricism]]"
+  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Correlational Research]]"
@@ -50,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Abraham Maslow
@@ -60,7 +59,7 @@ updated: 2026-10-08
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国心理学家，人本主义心理学（Humanistic Psychology）核心奠基人与领军人物，曾任美国心理学会（[[APA Style\|APA]]）主席，第三势力心理学（Third Force Psychology）旗手。
+> - **身份位置** 美国心理学家，人本主义心理学（Humanistic Psychology）核心奠基人与领军人物，曾任美国心理学会（APA）主席，第三势力心理学（Third Force Psychology）旗手。
 > - **核心角色** 在抗衡行为主义与精神分析的去人性化偏见中，系统开创以人的潜能、价值与自我实现为核心的探究[[Paradigm\|范式]]；在科学哲学领域深刻揭示[[Positivism\|实证主义]]对科学内涵的技术主义窄化，确立科学探究的完整人文功能图景。
 > - **代表贡献** 提出人类需求层次理论与自我实现（Self-Actualization）；在《科学心理学》（*The Psychology of Science*, 1954/1966）中系统提炼“科学的九大功能”（Box 1.1），全面超越实证主义狭隘验证技术观；倡导以“全人”与内在价值为中心的[[Epistemology\|认识论]]。
 
@@ -73,7 +72,7 @@ updated: 2026-10-08
 > - **1937–1951** 任教于布鲁克林学院，深受格式塔心理学与文化人类学启发，转向对人类潜能与健康人格的积极心理探究。
 > - **1951–1969** 担任布兰代斯大学（Brandeis University）心理学系主任与讲座教授，成为人本主义心理学运动的核心理论家。
 > - **1954** 出版《动机与人格》（*Motivation and Personality*），系统阐发科学的多元功能（Box 1.1）与需求层次理论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 16)]]
-> - **1966–1968** 出版《科学心理学》（*The Psychology of Science*），获选担任美国心理学会（[[APA Style\|APA]]）主席，推动人本主义与科学哲学深度对话。
+> - **1966–1968** 出版《科学心理学》（*The Psychology of Science*），获选担任美国心理学会（APA）主席，推动人本主义与科学哲学深度对话。
 > - **1970** 因心脏病突发在加州门洛帕克逝世。
 
 ---
@@ -94,7 +93,7 @@ updated: 2026-10-08
 > 科学探索是人类完整心智、价值追求与[[Creativity\|创造性]]潜能的崇高表达，绝不可被教条主义地窄化为冰冷、机械的数据收集或去人格化的统计检验技术。真正的科学涵盖从问题探寻、假说生成、事实检验、理论建构、历史积累，到工具开发、管理决策、公众启蒙，直至对未知宇宙的审美惊叹与精神庆典九重有机功能。科学研究者必须重拾科学探索的人文温度与内在价值追求。
 
 > [!citation-card] 马斯洛论科学探究的九大多元功能与人文精神
-> 在《科学心理学》中，马斯洛指出科学远不止于实证[[Hypothesis\|假设]]检验，它在人类文明中履行着九大关键功能：1. [[Problem Finding\|问题发现]]、探寻与假说生成；2. 检验、复核与事实积累；3. 组织化理论建构与大范围概括；4. 历史记录与学术传承；5. 仪器与测量技术工具开发；6. 组织治理与行政决策；7. 教育启蒙与科学传播；8. 人类福祉应用与困难纾解；9. 终极的审美赞叹、敬畏与精神庆典。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 16)]]
+> 在《科学心理学》中，马斯洛指出科学远不止于实证假设检验，它在人类文明中履行着九大关键功能：1. [[Problem Finding\|问题发现]]、探寻与假说生成；2. 检验、复核与事实积累；3. 组织化理论建构与大范围概括；4. 历史记录与学术传承；5. 仪器与测量技术工具开发；6. 组织治理与行政决策；7. 教育启蒙与科学传播；8. 人类福祉应用与困难纾解；9. 终极的审美赞叹、敬畏与精神庆典。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 16)]]
 >
 > *Science has multiple functions in human civilization: problem finding, verifying and checking, organizing and theorizing, historical collecting, developing technical tools, administration, educational communication, application to human welfare, and celebrating, wondering and enjoying. Reducing science merely to verification misses its vital exploratory and humanistic nature. (Maslow, 1954)*
 

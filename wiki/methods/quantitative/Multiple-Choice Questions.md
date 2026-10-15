@@ -12,9 +12,9 @@ summary: "教育测量与心理测验中最经典的客观量化题型，由题�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 25
-method_related_level: 3
-method_related_stars: "⭐⭐⭐"
+method_related_count: 23
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/quantitative
@@ -34,14 +34,12 @@ related_concepts:
   - "[[Content Validity]]"
   - "[[Construct]]"
   - "[[Creativity]]"
-  - "[[Hypothesis]]"
   - "[[Critical Thinking]]"
   - "[[Rote Learning]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Wicked Problem]]"
   - "[[Open-Mindedness]]"
   - "[[Constructive Alignment]]"
-  - "[[Document]]"
   - "[[Problem Solving]]"
   - "[[External Validity]]"
   - "[[Ecological Validity]]"
@@ -59,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-28
-updated: 2026-10-03
+updated: 2026-10-15
 ---
 
 # Multiple-Choice Questions
@@ -94,7 +92,7 @@ updated: 2026-10-03
 > | 维度 | 多项选择题 (MCQ / Selected-Response) | 建构反应型试题 (Constructed-Response) | 真实性表现任务 (Authentic Performance Tasks) |
 > |---|---|---|---|
 > | **认知加工机制** | **选项再认（Recognition）** 与排除法猜测 | **主动生成（Generation）** 与言语构建 | 劣构问题解决、多源证据整合与[[Creativity\|创造性]]产出 |
-> | **思维发散空间** | 零（完全受限于预设选项） | 有限（受限于题干字数与答题结构） | 极高（允许提出新[[Hypothesis\|假设]]、设计新方案） |
+> | **思维发散空间** | 零（完全受限于预设选项） | 有限（受限于题干字数与答题结构） | 极高（允许提出新假设、设计新方案） |
 > | **评分[[Reliability\|信度]]与成本** | 极高评分信度（机器自动批改）、边际成本趋零 | 需制定细则，依赖人工评阅，成本中等 | 依赖专家校准量规（Rubrics），评阅成本高 |
 > | **高阶素养适用度** | **严重不足**（易退化为表面应试技巧） | 良好（能测查分析与论证逻辑） | **卓越表现**，真实反映[[Critical Thinking\|批判性思维]]与创造力 |
 > | **对教学的反拨效应** | **负向反拨**，易诱导[[Rote Learning\|死记硬背]]与刷题技巧 | 中性偏正向，鼓励逻辑表达训练 | **强正向反拨**，驱动深层探究与[[Higher-Order Thinking Skills\|高阶思维]]教学 |
@@ -106,7 +104,7 @@ updated: 2026-10-03
 > [!debates] 测量学争议焦点
 >
 > > [!axis] 选择题测查[[Higher-Order Thinking Skills\|高阶思维]]的三重理论危机
-> > - **“再认”与“生成”的认知鸿沟（The Recognition-Generation Gap）** Frederiksen (1984)、Lane (2004) 与 Shepard (2000) 等大量认知测量学实证表明，能够从四个选项中认出正确答案，并不代表被试在面对现实世界真实[[Wicked Problem|劣构问题]]时具备独立分析、提出[[Hypothesis\|假设]]并生成解决方案的能力。[[Argument_Bouckaert_2023_OECD\|(Frederiksen, 1984; Lane, 2004; Shepard, 2000; Liu et al., 2014; Bouckaert, 2023, pp. 24–25)]]
+> > - **“再认”与“生成”的认知鸿沟（The Recognition-Generation Gap）** Frederiksen (1984)、Lane (2004) 与 Shepard (2000) 等大量认知测量学实证表明，能够从四个选项中认出正确答案，并不代表被试在面对现实世界真实[[Wicked Problem|劣构问题]]时具备独立分析、提出假设并生成解决方案的能力。[[Argument_Bouckaert_2023_OECD\|(Frederiksen, 1984; Lane, 2004; Shepard, 2000; Liu et al., 2014; Bouckaert, 2023, pp. 24–25)]]
 > > - **[[Construct\|构念]]代表性不足（Construct Underrepresentation）** 心理测量学将选择题测查[[Creativity\|创造力]]或批判思维视为重大效度威胁：由于无法容纳[[Open-Mindedness|开放性]]创新观念，选择题测验系统性排除了创造力的核心维度，导致测验分数严重偏离真实能力构念。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 24)]]
 > > - **应试技巧（Test-Wiseness）与负向反拨** 选项线索排除、关键词猜测等应试技巧可能虚假推高分数；高利害选择题统考强力驱动课堂转向机械刷题，从根本上摧毁了[[Constructive Alignment\|建构性对齐]]。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 24, 26–27)]]
 
@@ -117,7 +115,7 @@ updated: 2026-10-03
 > [!ref-table]- 选择题与其他题型效度与[[Reliability\|信度]]实证研究
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究[[Document\|文献]] | 考察对象与样本 | 研究设计 | 核心发现与统计结论 | 测量学解释边界 |
+> | 研究文献 | 考察对象与样本 | 研究设计 | 核心发现与统计结论 | 测量学解释边界 |
 > |---|---|---|---|---|
 > | Frederiksen (1984); Lane (2004)，引自 [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023, pp. 24–25)]] | 高等教育与中等教育大规模测验数据 | 题型因子分析与认知[[Process Tracing\|过程追踪]] | 证实选择反应题与建构反应题在认知加工上加载于不同潜在特质因子，选择题无法有效预测开放情境下的[[Problem Solving\|问题解决]]生成力 | 确立了再认与生成在心理测量学上的质性差异 |
 > | Shavelson, Baxter & Pine (1991); Linn, Baker & Dunbar (1991)，引自 [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023, p. 24)]] | 科学探究与[[Higher-Order Thinking Skills\|高阶思维]]表现测验 | 概化理论（[[External Validity\|generalizability]] Theory）方差分量分析 | 表现性任务跨任务情境变异大导致任务信度受限，而多项选择题虽具备高评分信度，但以牺牲任务的[[Ecological Validity\|生态效度]]为代价 | 揭示了信度（选择题优势）与效度（表现任务优势）之间的经典测量学张力 |

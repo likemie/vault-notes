@@ -6,16 +6,14 @@ aliases:
 summary: "女性认知方式模型中的认识论阶段，个体将知识视为绝对的确切事实，只能从外部权威处被动接收。"
 type: concept
 domain: "educational-psychology"
-related_count: 9
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
 related_concepts:
   - "[[Certainty of Knowledge]]"
   - "[[Justification for Knowing]]"
-  - "[[Teaching Assistant]]"
   - "[[Epistemology]]"
-  - "[[Hypothesis]]"
   - "[[Cognitive Source]]"
 related_theories:
   - "[[Women's Ways of Knowing]]"
@@ -25,7 +23,7 @@ related_methods:
   - "[[Correlational Research]]"
 status: active
 created: 2026-08-15
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Received Knowledge
@@ -39,8 +37,8 @@ updated: 2026-09-17
 
 > [!concept-lens] 概念透镜
 > - **含义** 作为[[Women's Ways of Knowing]]中的核心认知阶段，标志着个体在“[[Certainty of Knowledge\|知识的确定性]]”与“[[Justification for Knowing\|认知的辩护]]”上所处的水平。
-> - **用途** 帮[[Teaching Assistant\|助教]]育者识别学生所处的[[Epistemology\|认识论]]发展位置，并提供与之匹配的干预措施。
-> - **边界** 它描述的是个体对知识本质的“信念[[Hypothesis\|假设]]”，而不是一般意义上的智力水平或认知风格。
+> - **用途** 帮助教育者识别学生所处的[[Epistemology\|认识论]]发展位置，并提供与之匹配的干预措施。
+> - **边界** 它描述的是个体对知识本质的“信念假设”，而不是一般意义上的智力水平或认知风格。
 
 ---
 

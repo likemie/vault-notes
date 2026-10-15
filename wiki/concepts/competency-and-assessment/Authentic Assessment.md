@@ -8,7 +8,7 @@ aliases:
 summary: "将学生置于模拟现实专业或社会生活的劣构情境中，要求其主动建构、综合应用知识并生成复杂实质作品的教学评价取向"
 type: concept
 domain: "competency-and-assessment"
-related_count: 27
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Problem Solving]]"
   - "[[Higher-Order Thinking Skills]]"
-  - "[[Teaching Assistant]]"
   - "[[Construct]]"
   - "[[Reliability]]"
   - "[[Ecological Validity]]"
@@ -33,7 +32,6 @@ related_concepts:
   - "[[Surface and Deep Learning]]"
   - "[[Self-Regulated Learning]]"
   - "[[Feedback]]"
-  - "[[Hypothesis]]"
   - "[[Assessment Backwash]]"
   - "[[Open-Mindedness]]"
   - "[[Learning Portfolio]]"
@@ -54,7 +52,7 @@ related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
   - "[[Argument_Biggs_1999_HERD]]"
 created: 2026-08-26
-updated: 2026-10-03
+updated: 2026-10-15
 ---
 
 # Authentic Assessment
@@ -68,7 +66,7 @@ updated: 2026-10-03
 
 > [!concept-lens] 概念透镜
 > - **含义** 将评价任务锚定于现实生活中的真实认知挑战与专业实践标准，关注生成性表现而非记忆提取。
-> - **用途** 帮[[Teaching Assistant\|助教]]育者克服传统客观测试造成的“[[Construct\|构念]]代表性不足”（Construct Underrepresentation），使评估真正反映复杂能力的实际运用。
+> - **用途** 帮助教育者克服传统客观测试造成的“[[Construct\|构念]]代表性不足”（Construct Underrepresentation），使评估真正反映复杂能力的实际运用。
 > - **边界** 真实性评价不等于完全放弃标准化与结构化，其[[Reliability\|信度]]保障高度依赖明确的评分量规（Rubrics）与多评分员校准。
 
 > [!citation-card]- 真实性评价与生成性思维
@@ -117,7 +115,7 @@ updated: 2026-10-03
 > 探讨客观选答题在测量批判性与[[Creativity\|创造性思维]]时的效度局限，以及开放表现任务如何还原真实心智加工。
 
 > [!claim] [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]]
-> **真实生成任务对[[Higher-Order Thinking Skills\|高阶思维]]的必然要求** 标准化[[Multiple-Choice Questions\|多项选择题]]由于追求高评分者一致性与低成本，往往不可避免地偏向测试事实识记与封闭推理。然而，创造力与[[Critical Thinking\|批判性思维]]的核心在于提出未预设的[[Hypothesis\|假设]]、在冲突信息中构建独立论点并生成创新设计，这些心智机能只能通过开放式的真实表现任务（如研究项目、案例分析、实作设计与综合论述）得到充分测量。若仅依赖封闭选答，评价系统将产生严重的[[Construct\|构念]]代表性不足（Construct Underrepresentation），进而通过[[Assessment Backwash\|评价反拨]]诱发学生的[[Surface and Deep Learning\|表层学习]]。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 24–25)]]
+> **真实生成任务对[[Higher-Order Thinking Skills\|高阶思维]]的必然要求** 标准化[[Multiple-Choice Questions\|多项选择题]]由于追求高评分者一致性与低成本，往往不可避免地偏向测试事实识记与封闭推理。然而，创造力与[[Critical Thinking\|批判性思维]]的核心在于提出未预设的假设、在冲突信息中构建独立论点并生成创新设计，这些心智机能只能通过开放式的真实表现任务（如研究项目、案例分析、实作设计与综合论述）得到充分测量。若仅依赖封闭选答，评价系统将产生严重的[[Construct\|构念]]代表性不足（Construct Underrepresentation），进而通过[[Assessment Backwash\|评价反拨]]诱发学生的[[Surface and Deep Learning\|表层学习]]。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 24–25)]]
 
 ---
 

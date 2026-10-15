@@ -13,7 +13,7 @@ aliases:
 summary: "彼得·A·霍尔与戴维·索斯基斯于2001年提出的比较政治经济学奠基框架；以企业为核心协调主体，将发达资本主义划分为自由市场经济体（LMEs）与协调型市场经济体（CMEs），强调金融、劳资、职业培训与公司治理间的跨领域制度互补性；施特雷克与希伦等学者后续批判其功能主义与超稳定假定，揭示出两类体制在制度互补性遮蔽下共同走向渐进自由化的演化轨迹。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 34
+theory_related_count: 32
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -36,10 +36,8 @@ related_concepts:
   - "[[Institutional Drift]]"
   - "[[Research Question]]"
   - "[[University-Industry Collaboration]]"
-  - "[[Hypothesis]]"
   - "[[Causal Over-determination]]"
   - "[[Knowledge Production]]"
-  - "[[Document]]"
 related_theories:
   - "[[Historical Institutionalism]]"
   - "[[Theory of Gradual Institutional Change]]"
@@ -66,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-18
-updated: 2026-10-11
+updated: 2026-10-15
 ---
 
 # Varieties of Capitalism
@@ -183,8 +181,8 @@ updated: 2026-10-11
 > > [!axis] 静态[[Institutional Complementarity|制度互补性]] vs 内生渐进[[Liberalization|自由化]]演进
 > > 争论聚焦于资本主义多样性究竟是坚不可摧的自我强化均衡，还是正在经历深刻的结构性瓦解。
 > >
-> > - **[[Peter A. Hall|霍尔]]与索斯基斯（Hall & Soskice, 2001）** 坚持制度互补性假说，认为全球化压力下企业为了捍卫既有比较制度优势，会促使国家主动强化其本土独特的协调机制，国家模式差异将被放大而非消除。
-> > - **[[Wolfgang Streeck|施特雷克]]与希伦（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005]]）** 尖锐批判 VoC 的功能主义超稳定[[Hypothesis|假设]]，指出制度并非企业利益的温顺仆从，而是充满分配冲突的政治妥协；以德国为首的 CMEs 在制度表面存续的表象下，实际上发生了深刻的去规制、集体协商漂移与劳动市场双轨分层，两类体制共同走向了不可逆转的新自由主义自由化。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 4–7, 30–31)]]
+> > - **霍尔与索斯基斯（Hall & Soskice, 2001）** 坚持制度互补性假说，认为全球化压力下企业为了捍卫既有比较制度优势，会促使国家主动强化其本土独特的协调机制，国家模式差异将被放大而非消除。
+> > - **[[Wolfgang Streeck|施特雷克]]与希伦（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005]]）** 尖锐批判 VoC 的功能主义超稳定假设，指出制度并非企业利益的温顺仆从，而是充满分配冲突的政治妥协；以德国为首的 CMEs 在制度表面存续的表象下，实际上发生了深刻的去规制、集体协商漂移与劳动市场双轨分层，两类体制共同走向了不可逆转的新自由主义自由化。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 4–7, 30–31)]]
 >
 > > [!axis] 二分理想类型 vs 资本主义多元形态的拓展困境
 > > 批评者质疑 CME 与 LME 两分法过于简单化，无法解释广阔非欧美国家的制度现实。
@@ -205,7 +203,7 @@ updated: 2026-10-11
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] — 运用 VoC 框架系统分析跨国公司在[[Corporate Education|企业教育]]全球化中的组织分化，解释为何德国[[German Dual Education System|双元制]][[Apprenticeship|学徒制]]在海外跨国移植中遭遇排异失败。
 > - [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017)]] — 将 VoC 理论拓展至高等教育部门，揭示美、德、挪三国在[[Academic Capitalism|学术资本主义]]与大学学费改革中因[[Institutional Complementarity|制度互补性]]与合法性框架产生的[[Path Dependence|路径依赖]]分化。
-> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 批判资本主义多样性框架中制度互补性的功能主义静态[[Hypothesis|假设]]与连续性偏误，揭示先进资本主义体制向[[Liberalization|自由化]]渐进漂移的微观变迁机制。
+> - [[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen (2005)]] — 批判资本主义多样性框架中制度互补性的功能主义静态假设与连续性偏误，揭示先进资本主义体制向[[Liberalization|自由化]]渐进漂移的微观变迁机制。
 
 ---
 
@@ -223,8 +221,8 @@ updated: 2026-10-11
 > | [[Corporate Education]] | Concept | 资本主义多样性在微观企业技能投资与[[Knowledge Production\|知识生产]]中的重要应用领域，展现美德跨国企业的策略分歧。 |
 > | [[Apprenticeship]] | Concept | 协调型市场经济体专用技能形成体系的核心基石，高度依赖母国[[Institutional Complementarity\|制度互补性]]网络而极难跨国移植。 |
 > | [[Corporate University]] | Concept | 企业教育的重要组织实体，其治理架构（集权标准化对比分权自主）深刻映射母国的生产体制特征。 |
-> | [[Wolfgang Streeck]] | Person | 经济社会学家与制度学者，批判 VoC 静态功能主义互补性[[Hypothesis\|假设]]、阐明资本主义渐进[[Liberalization\|自由化]]大势的领军学者。 |
+> | [[Wolfgang Streeck]] | Person | 经济社会学家与制度学者，批判 VoC 静态功能主义互补性假设、阐明资本主义渐进[[Liberalization\|自由化]]大势的领军学者。 |
 > | [[Kathleen Thelen]] | Person | 比较政治学家与历史制度主义领军学者，系统揭示劳资与技能形成制度在互补性表象下的渐进转型机制。 |
-> | [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] | Argument | 运用 VoC 透镜解释 IVET 难以国际化及美国 MNCs 垄断全球企业教育市场的核心实证[[Document\|文献]]。 |
+> | [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] | Argument | 运用 VoC 透镜解释 IVET 难以国际化及美国 MNCs 垄断全球企业教育市场的核心实证文献。 |
 > | [[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al. (2017)]] | Argument | 将 VoC 框架引入高等教育领域并揭示学术资本主义跨国多样性机制的奠基文献。 |
 > | [[Argument_Streeck_Thelen_2005_OUP\|Streeck & Thelen (2005)]] | Argument | 提出过程与结果二元矩阵、批判 VoC 超稳定偏误并建构渐进制度变迁形态学的里程碑著作。 |

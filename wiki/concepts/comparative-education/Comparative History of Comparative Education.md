@@ -7,7 +7,7 @@ aliases:
 summary: "比较教育学学科史编纂方法论纲领，主张超越孤立的国别学科史与合法性起源神话，将比较视野、多中心历史、边缘学者与批判史学反思引入学科发展研究"
 type: concept
 domain: "comparative-education"
-related_count: 42
+related_count: 40
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Disciplinary Institutionalization]]"
   - "[[Positivism]]"
   - "[[Constructivist Paradigm]]"
-  - "[[Document]]"
   - "[[Empiricism]]"
   - "[[Proto-Scientific Motif]]"
   - "[[Educational Meliorism]]"
@@ -34,7 +33,6 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Scientific Method]]"
   - "[[Scientism]]"
-  - "[[Hypothesis]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Determinism]]"
   - "[[Primary and Secondary Documents]]"
@@ -67,7 +65,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-05
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Comparative History of Comparative Education
@@ -146,7 +144,7 @@ updated: 2026-10-09
 > 探讨早期学科史如何通过简化历史复杂性来换取学术合法性，以及这种合法化机制对后续严肃史学研究造成的遮蔽效应。
 
 > [!claim] [[Robert Cowen\|Cowen, R.]]
-> **起源叙事的合法化功能与历史遮蔽** 罗伯特·考恩（Robert Cowen）指出，以[[Harold Noah\|哈罗德·诺亚]]（Harold Noah）与[[Max Eckstein\|马克斯·埃克斯坦]]（Max Eckstein）的经典著作（Noah & Eckstein, 1969）为代表的学科早期历史，以极具说服力的清晰度勾勒了学科源头，其核心功能在于为战后初建大学系所中的青年学者提供学科归属感与专业合法性（The history legitimated me）。然而，一旦学科获得了制度合法性，这种线性叙事便暴露出严重的深层缺陷：它将复杂的历史剪裁为单向度的进化论序列，掩盖了海量未被照见的隐蔽历史；由于学术评价体制高度偏向当代政策导向的实证课题，缺乏对学科基础史学的激励与资助，导致[[Archival Research\|档案研究]]长期停滞，学科史研究面临可见性不足、制度支持匮乏与[[Document\|文献]]资料密度极低的三重瓶颈。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 7–8)]]
+> **起源叙事的合法化功能与历史遮蔽** 罗伯特·考恩（Robert Cowen）指出，以[[Harold Noah\|哈罗德·诺亚]]（Harold Noah）与[[Max Eckstein\|马克斯·埃克斯坦]]（Max Eckstein）的经典著作（Noah & Eckstein, 1969）为代表的学科早期历史，以极具说服力的清晰度勾勒了学科源头，其核心功能在于为战后初建大学系所中的青年学者提供学科归属感与专业合法性（The history legitimated me）。然而，一旦学科获得了制度合法性，这种线性叙事便暴露出严重的深层缺陷：它将复杂的历史剪裁为单向度的进化论序列，掩盖了海量未被照见的隐蔽历史；由于学术评价体制高度偏向当代政策导向的实证课题，缺乏对学科基础史学的激励与资助，导致[[Archival Research\|档案研究]]长期停滞，学科史研究面临可见性不足、制度支持匮乏与文献资料密度极低的三重瓶颈。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 7–8)]]
 
 ---
 
@@ -197,8 +195,8 @@ updated: 2026-10-09
 > [!dev-timeline] 概念演变
 > - **1960年代 — 线性规范起源叙事的奠定** 诺亚与埃克斯坦在《迈向比较教育科学》（1969）以及贝雷迪（1964）的经典教材中，确立了将学科史划分为“旅行者见闻—[[Policy Borrowing\|教育借用]]—历史文化背景研究—[[Scientific Method\|经验科学]]社会学分析”的单向演进阶梯，实证[[Scientism\|科学主义]]确立为学科合法性的基石。
 > - **1980–1990年代 — [[Epistemology\|认识论]]危机与去中心化反思** 后现代、后殖民与[[Critical Theory\|批判理论]]视角引入学科（如[[Martin Carnoy|马丁·卡诺伊]] [Martin Carnoy]、[[Robert Arnove|罗伯特·阿诺夫]] [Robert Arnove]），学者开始反思西方现代化理论的霸权，呼吁打破单一欧美中心叙事并关注第三世界的依附与抵抗。
-> - **2000年代初 — 奠基神话与核心文本的个案重读** 卡扎米亚斯与考恩等人系统重审[[Michael Sadler\|萨德勒]]爵士的吉尔福德演讲与[[Marc-Antoine Jullien\|朱利安]]的《计划》，揭示学科教科书对经典[[Document\|文献]]的去脉络化拔高，开启了对学科集体记忆与肖像学的学术反思。
-> - **2009年 — 比较教育学比较史的方法论确立** 考恩在施普林格《国际比较教育学手册》开篇导论中正式提出“比较教育学的历史应演变为比较教育学的比较史”，系统制定了深挖未见档案、纳入拉美等多元中心经验、剖析元认识论[[Hypothesis\|假设]]以及由未来重塑提问逻辑的批判史学纲领。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 8–10)]]
+> - **2000年代初 — 奠基神话与核心文本的个案重读** 卡扎米亚斯与考恩等人系统重审[[Michael Sadler\|萨德勒]]爵士的吉尔福德演讲与朱利安的《计划》，揭示学科教科书对经典文献的去脉络化拔高，开启了对学科集体记忆与肖像学的学术反思。
+> - **2009年 — 比较教育学比较史的方法论确立** 考恩在施普林格《国际比较教育学手册》开篇导论中正式提出“比较教育学的历史应演变为比较教育学的比较史”，系统制定了深挖未见档案、纳入拉美等多元中心经验、剖析元认识论假设以及由未来重塑提问逻辑的批判史学纲领。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 8–10)]]
 > - **2010年代至今 — 多中心、跨国网络与去殖民史学的深化** 学界进一步发掘女性学者（如安·德赖兰、哈廷盖夫人）与非西方教育思想家的档案文献，推动学科史从孤立的“伟人功勋志”全面转向全球[[Knowledge Production\|知识生产]]社会学与多维历史比较。
 
 ---

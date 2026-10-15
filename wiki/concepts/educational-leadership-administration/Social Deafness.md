@@ -7,7 +7,7 @@ aliases:
 summary: "指个体或组织在面对外部群体压力、世俗共识与社会评价时所保持的一种选择性钝感与反从众免疫力。在卡普与扎米斯卡（2025）的科技治理与工程思维体系中，社交失聪并非病理性感知缺陷，而是一种极具生产性的自适应心理机制——通过屏蔽世俗人际算计与从众噪音，专注于底层软件架构与前沿实战系统的颠覆性探索。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 21
+related_count: 20
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Organizational Culture Change]]"
   - "[[Technological Republic]]"
   - "[[Hard Power]]"
-  - "[[Document]]"
   - "[[Constructive Disobedience]]"
 related_theories:
   - "[[Organizational Culture]]"
@@ -41,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Social Deafness
@@ -179,7 +178,7 @@ updated: 2026-10-08
 > [!ref-table]- 经典案例与质性实证记录
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 案例与[[Document\|文献]]来源 | 历史情境与人物 | 考察维度 | 核心观察与实证表现 | 启示与边界 |
+> | 案例与文献来源 | 历史情境与人物 | 考察维度 | 核心观察与实证表现 | 启示与边界 |
 > |---|---|---|---|---|
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp & Zamiska (2025, p. 137)]] | 克劳德·莫奈（1922，巴黎） | 生理视觉局限与艺术突围 | 晚年严重白内障使视力降至十分之一并产生色偏，促成《垂柳》中模糊物象边界的粗犷笔触，直接启发了后世抽象表现主义 | 证实感官局限能迫使艺术家摆脱写实摹写并开创新[[Paradigm\|范式]] |
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic\|Karp & Zamiska (2025, pp. 137–138)]] | 路德维希·凡·贝多芬（1801，维也纳） | 听觉失聪与声响宇宙重构 | 二十余岁失聪后转入秘密隐忍状态，完全依靠视觉乐谱书写构建出超越时代的革命性乐章 | 证实感知通道阻断迫使心智在更高阶的抽象符号中重塑宇宙 |

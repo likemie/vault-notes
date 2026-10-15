@@ -10,7 +10,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 42
+fact_related_count: 41
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[International Education]]"
   - "[[Progressive Education]]"
-  - "[[Document]]"
   - "[[International Baccalaureate]]"
   - "[[Policy Window]]"
   - "[[Cross-National Attraction]]"
@@ -43,6 +42,7 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[School Choice]]"
   - "[[Determinism]]"
+  - "[[Document]]"
   - "[[Externalization]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -51,7 +51,6 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Michael Traill]]"
-  - "[[David Coleman]]"
 related_facts:
   - "[[OECD]]"
   - "[[National Center for Education Evaluation and Regional Assistance]]"
@@ -75,7 +74,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # A Nation at Risk 1983
@@ -103,7 +102,7 @@ updated: 2026-10-07
 >   - 1982 委员会在全美举行多场公开听证会，广泛搜集学界、企业界与公众对公立中学基础学科软弱、教师资质不足与有效学习时间偏短的抱怨。
 >   - 1983-04 委员会正式向里根总统呈交报告《国家处于危险之中：教育改革势在必行》，以开篇震撼性的军事战争隐喻将教育提升至国家生存安全战略高度。
 > - **1983–1988 — 国内政策震荡与跨国经验汲取** 说明全美各州核心学术课程改革浪潮与对日本教育的密集危机化借用。[[Argument_Rappleye_2006_RCIE\|(Rappleye, 2006, pp. 234–235)]]
->   - 1983-05 报告在全美引发狂风暴雨般的公共辩论，成为里根政府最轰动的国内政策[[Document\|文献]]；促使全美各州迅速出台强化高中毕业核心学术课程（“新五门基础课程”）的硬性规定，并为[[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）在北美公立高中的合法化采纳打开了[[Policy Window|政策窗口]]。[[Argument_Peterson_1987_OpenCourt_Ch06\|(Peterson, 1987, pp. 137–139)]]
+>   - 1983-05 报告在全美引发狂风暴雨般的公共辩论，成为里根政府最轰动的国内政策文献；促使全美各州迅速出台强化高中毕业核心学术课程（“新五门基础课程”）的硬性规定，并为[[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）在北美公立高中的合法化采纳打开了[[Policy Window|政策窗口]]。[[Argument_Peterson_1987_OpenCourt_Ch06\|(Peterson, 1987, pp. 137–139)]]
 >   - 1984–1987 美国教育界与联邦政府对日本教育爆发高强度的[[Cross-National Attraction\|跨国吸引力]]与危机化（Scandalization）操作，将日本高强度课程、长学时与全国统一标准树立为正面镜像，并于 1987 年由联邦教育部专设发布《今日日本教育》（*Japanese Education Today*）。
 > - **1987 至今 — 跨国指标委托与全球[[Governing by Numbers\|数字治理]]制度化** 说明美国推动[[OECD\|经合组织]]创建指标项目，开启全球教育治数而治的跨国演变。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 >   - 1987–1988 面对国内各州数据缺乏可比性及跨国实证的匮乏，美国联邦政府直接向经济合作与发展组织（Organisation for Economic Co-operation and Development，OECD）施压并注资，力推创建[[International Education\|国际教育]]指标；[[Centre for Educational Research and Innovation\|经合组织教育研究与创新中心]]（Centre for Educational Research and Innovation，CERI）正式设立[[International Indicators of Education Systems\|国际教育系统指标项目]]（International Indicators of Education Systems，INES）。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 8, 12)]]
@@ -183,7 +182,7 @@ updated: 2026-10-07
 > > 围绕教育不平等根源的政治解释学翻转展开史学论辩。
 > >
 > > - **社会学制度史视角** 指出该报告标志着美国教育政治[[Discourse|话语]]的根本性倒转：1966 年[[Coleman Report 1966\|科尔曼报告]]将学业差距归因于家庭与社会背景曾被视为保守立场，而到了 1983 年，保守派已全面倒向将学校界定为全部问题的根源，以学校内部效能掩盖深层资本主义结构不平等。[[Argument_Downey_2016_SoE\|(Downey & Condron, 2016, p. 2)]]
-> > - **激进左翼批判传统** 认为无论是[[David Coleman|科尔曼]]还是 1983 报告，本质上都未能直面资本主义阶级再生产机器的本质，只是在不同历史时期为了维护统治秩序而轮换替罪羊。
+> > - **激进左翼批判传统** 认为无论是科尔曼还是 1983 报告，本质上都未能直面资本主义阶级再生产机器的本质，只是在不同历史时期为了维护统治秩序而轮换替罪羊。
 >
 > > [!axis] 战后全球危机动员链的历时演变（战后早期动员 vs 80年代比较转向）
 > > 围绕 *A Nation at Risk* 在全球教育治理演进中的历史地位与功能延续性展开学术评述。

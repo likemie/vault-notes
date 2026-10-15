@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 23
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Seed Funding]]"
   - "[[Independent Variable]]"
   - "[[Counterfactual]]"
-  - "[[Hypothesis]]"
   - "[[Rote Learning]]"
   - "[[Computer Simulation]]"
   - "[[Academic Achievement]]"
@@ -48,8 +47,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
 related_instruments: []
-related_persons:
-  - "[[Alfred Nobel]]"
+related_persons: []
 related_facts:
   - "[[National Science Foundation]]"
   - "[[Web-based Inquiry Science Environment]]"
@@ -58,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # PhET Interactive Simulations
@@ -68,7 +66,7 @@ updated: 2026-10-08
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> PhET 交互式仿真平台（PhET Interactive Simulations，原名 Physics Education Technology）是由 2001 年[[Alfred Nobel|诺贝尔]]物理学奖得主卡尔·威曼（Carl E. Wieman）教授于 2002 年在科罗拉多大学博尔德分校（[[Corporate University\|CU]] Boulder）发起创立的开源科学与数学教育研发项目。平台提供基于网页的交互式动画微世界，被公认为全球覆盖面最广、影响力最大、实证研究最为密集的数字化科学探究工具库。（Wieman et al., 2008；Moore & Perkins, 2018；[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 9]]）
+> PhET 交互式仿真平台（PhET Interactive Simulations，原名 Physics Education Technology）是由 2001 年诺贝尔物理学奖得主卡尔·威曼（Carl E. Wieman）教授于 2002 年在科罗拉多大学博尔德分校（[[Corporate University\|CU]] Boulder）发起创立的开源科学与数学教育研发项目。平台提供基于网页的交互式动画微世界，被公认为全球覆盖面最广、影响力最大、实证研究最为密集的数字化科学探究工具库。（Wieman et al., 2008；Moore & Perkins, 2018；[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 9]]）
 
 > [!program-context] 项目背景
 > - **立项时间与资助** 2002 年启动，最初由卡尔·威曼捐赠其诺贝尔奖奖金设立[[Seed Funding|种子基金]]，随后获得[[National Science Foundation\|美国国家科学基金会]]（NSF）、休利特基金会（William and Flora Hewlett Foundation）与谷歌等多方数千万美元专项资助。
@@ -86,7 +84,7 @@ updated: 2026-10-08
 > - **教学界面设计准则**
 >   1. **隐性机制显性化（Making the Invisible Visible）** 直观渲染不可见的物理量（如电场线、磁力线、微观粒子碰撞速度矢量与能量条形图）；
 >   2. **直观交互与低操作门槛** 摈弃复杂的菜单栏与繁琐配置，直接采用直观滑块、抓手与测量表，让学生在 10 秒内即可自主上手操纵[[Independent Variable\|自变量]]；
->   3. **支持[[Counterfactual\|反事实]]（What-if）与极端条件探究** 允许学生随意设定极端参数（如将重力加速度设为木星或零重力、将摩擦系数设为零），在实体实验室无法复现的情境中检验理论[[Hypothesis\|假设]]；
+>   3. **支持[[Counterfactual\|反事实]]（What-if）与极端条件探究** 允许学生随意设定极端参数（如将重力加速度设为木星或零重力、将摩擦系数设为零），在实体实验室无法复现的情境中检验理论假设；
 >   4. **与显性教学时序无缝嵌合** 提倡“最小指导探索 ➔ 认知冲突暴露 ➔ 教师显性精讲 ➔ 模拟进阶验证”的混合流程。
 
 > [!citation-card] 威曼等论 PhET 模拟对科学心理表征的重构功能

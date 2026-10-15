@@ -8,7 +8,7 @@ aliases:
 summary: "由 Ben Levin 提出的经典教育知识动员系统理论模型，将研究流动表征为生产、使用与中介三大功能情境的动态重叠与双向反馈，提出五阶段研究利用阶梯与机制-障壁诊断比率，并深嵌于宏观社会背景之中"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 27
+theory_related_count: 25
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -31,9 +31,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Epistemology]]"
   - "[[Pragmatic Paradigm]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Academic Achievement]]"
-  - "[[Document]]"
   - "[[Evidence-Informed Decision-Making]]"
   - "[[Operationalization]]"
 related_theories: []
@@ -53,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Research Knowledge Mobilisation Model
@@ -139,7 +137,7 @@ updated: 2026-10-09
 
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
 > - **[[Ontology\|本体论]]** 关系的、动态演化的系统本体论。[[Knowledge Mobilisation\|知识动员]]是多系统互动的生成物，不存在脱离社会情境的绝对纯粹学术孤岛。
-> - **[[Epistemology\|认识论]]** 语境主义与[[Pragmatic Paradigm\|实用主义]]认识论。知识的有效性与价值在跨越情境的[[Transfer Translation Transformation\|转译]]与使用中得以确立。
+> - **[[Epistemology\|认识论]]** 语境主义与[[Pragmatic Paradigm\|实用主义]]认识论。知识的有效性与价值在跨越情境的转译与使用中得以确立。
 > - **方法含义** 倡导多案例跨组织比较、系统关系[[Network Analysis\|网络分析]]与质性[[Cohort Study\|追踪研究]]。
 > - **不能直接推出的东西** 不能推导出特定教学干预策略在统计学上的绝对因果效应大小；不能证明只要建立重叠网络就必然带来[[Academic Achievement\|学业成绩]]提高。
 
@@ -155,7 +153,7 @@ updated: 2026-10-09
 
 > [!theory-boundary] 适用边界
 > - **适合解释** 宏观与中观层面的教育科研体系治理、大学-学区伙伴关系网络、中介组织职能演化。
-> - **谨慎使用** 微观单个教师阅读[[Document\|文献]]时的心理认知过程（此时需结合 Cain 的三种声音理论或 Langer 的 [[Evidence-Informed Decision-Making\|EIDM]] 框架）。
+> - **谨慎使用** 微观单个教师阅读文献时的心理认知过程（此时需结合 Cain 的三种声音理论或 Langer 的 [[Evidence-Informed Decision-Making\|EIDM]] 框架）。
 > - **常见误用** 误将模型中的三个三角形当成具体的三个行政办公室，忽略了 Levin 所强调的“功能流动”本质。
 
 ---

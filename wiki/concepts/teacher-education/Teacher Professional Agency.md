@@ -9,7 +9,7 @@ aliases:
 summary: "指教师在宏观课程框架指引下，对教学法选择、探究实验设计、本土化课程开发与评价方式拥有充分的专业决策权与自主行动空间，并在政策博弈中具备批判性审议与多阵线民主行动能力"
 type: concept
 domain: "teacher-education"
-related_count: 28
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,7 +22,6 @@ tags:
 related_concepts:
   - "[[Going Native]]"
   - "[[Reflexivity]]"
-  - "[[Attrition]]"
   - "[[Paradigm]]"
   - "[[Technical Rationality]]"
   - "[[Professional Judgment]]"
@@ -33,7 +32,6 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Deficit Framing]]"
-  - "[[Document]]"
   - "[[Critical Pedagogy]]"
 related_theories:
   - "[[Critical Pluralism]]"
@@ -56,7 +54,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-10-01
+updated: 2026-10-15
 ---
 
 # Teacher Professional Agency
@@ -70,7 +68,7 @@ updated: 2026-10-01
 
 > [!concept-lens] 概念透镜
 > - **核心本质** 确立教师作为[[Reflexivity|反思性]]实践者与课堂教学设计者的主体地位，而非外源方案与行政指令的机械执行工具。
-> - **治理功能** 破除自上而下的微观行政规制与过度问责，为解决专业师资短缺、职业倦怠与人才[[Attrition|流失]]提供制度治理杠杆。
+> - **治理功能** 破除自上而下的微观行政规制与过度问责，为解决专业师资短缺、职业倦怠与人才流失提供制度治理杠杆。
 > - **拓展维度** 超越教室内部的孤立微观适应，将能动性延伸为直面国家政策与资本力量时开展政策读写、地方拒止与社会结盟的公民行动力。
 > - **适用边界** 赋权并非脱离国家教育标准的无序放任，而是在明确的育人素养导向下，依托专业信任与高水平持续专业发展赋能教师因材施教。
 
@@ -129,7 +127,7 @@ updated: 2026-10-01
 > 严苛的微观进度规制严重打击教师职业[[Pride in Learning|自豪]]感，而在宽框架下赋予教学决策权能显著降低离职率。
 
 > [!claim] Arthur & Bradley (2022) / Menzies et al. (2015)
-> **赋权与留任正相关** 实证研究（Arthur & Bradley, 2022; Menzies et al., 2015）表明，在宽广课程框架下赋予科学[[Teacher Choices|教师选择]]教学法与设计探究的自主权，能够营造对师生双方均具高度激发性的课堂文化，是改善教师工作满意度并遏制紧缺师资[[Attrition|流失]]的最有效非物质激励。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 36)]]
+> **赋权与留任正相关** 实证研究（Arthur & Bradley, 2022; Menzies et al., 2015）表明，在宽广课程框架下赋予科学[[Teacher Choices|教师选择]]教学法与设计探究的自主权，能够营造对师生双方均具高度激发性的课堂文化，是改善教师工作满意度并遏制紧缺师资流失的最有效非物质激励。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 36)]]
 
 ---
 
@@ -152,7 +150,7 @@ updated: 2026-10-01
 > **制度性不信任压制能动性** 问责系统把专业限制在政策方向指定的狭小能动域，构成制度性不信任（Institutional Distrust），其程度决定研究使用是[[Professional Judgment|专业判断]]与能动性的权限，还是工具性服从；摆脱[[Conceptual, Instrumental, and Symbolic Use of Research|象征性使用]]需要经由可持续结构培育专业能动性，而非依靠工具性指令。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, pp. 16, 18)]]
 
 > [!claim] Mausethagen, S., et al. (2025)
-> **[[Deficit Framing|赤字框架]]批判** 研究使用[[Document|文献]]长期把研究使用呈现为缺失或不足（[[Deficit Framing|赤字框架]]），这种框定把问题锚定在教师个体，而系统性条件（信任、技能发展、可持续结构与关系的互动）才是系统性地生产这种赤字的机制。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p. 18)]]
+> **[[Deficit Framing|赤字框架]]批判** 研究使用文献长期把研究使用呈现为缺失或不足（[[Deficit Framing|赤字框架]]），这种框定把问题锚定在教师个体，而系统性条件（信任、技能发展、可持续结构与关系的互动）才是系统性地生产这种赤字的机制。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p. 18)]]
 
 ---
 
@@ -203,7 +201,7 @@ updated: 2026-10-01
 > > 争论国家宏观大纲应当以高度自由裁量赋权一线，还是通过细化标准与统考指标保障办学底线。
 > >
 > > - **外部问责倡导者** 担忧过度赋予教师自主权可能导致薄弱校教学质量失控，主张通过统一课程与量化评估实施刚性兜底。
-> > - **赋权与公平学者** 论证死板问责只能诱发应试舞弊与师资大[[Attrition|流失]]，唯有依托高水平持续进修赋予教师情境裁决权，才能真正兼顾学术卓越与教育公平。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 31, 36)]]
+> > - **赋权与公平学者** 论证死板问责只能诱发应试舞弊与师资大流失，唯有依托高水平持续进修赋予教师情境裁决权，才能真正兼顾学术卓越与教育公平。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 31, 36)]]
 
 ---
 

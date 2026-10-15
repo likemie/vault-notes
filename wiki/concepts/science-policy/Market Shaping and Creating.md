@@ -11,7 +11,7 @@ aliases:
 summary: "指国家与公共机构不局限于事后修复既有市场失灵，而是通过战略投资、需求侧公共采购、标准规制、制度化附加条件与前沿引领，依托公共动态能力主动构筑、从零创造并共同重塑新经济、社会与技术景观的公共政策范式。"
 type: concept
 domain: "science-policy"
-related_count: 51
+related_count: 50
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -34,7 +34,6 @@ related_concepts:
   - "[[Patient Capital]]"
   - "[[Apprenticeship]]"
   - "[[Operationalization]]"
-  - "[[Hypothesis]]"
   - "[[Learning Economy]]"
   - "[[National Innovation System]]"
   - "[[Lead-and-Learn Paradigm]]"
@@ -83,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Market Shaping and Creating
@@ -204,7 +203,7 @@ updated: 2026-10-09
 > [!contrast-table] 市场塑造与共创核心命题矩阵
 > | 命题类型 | 核心指向 | 克服的传统困境 | 代表研究 |
 > |:---|:---|:---|:---|
-> | **投资挤入机制** | 国家前瞻引领通过明确预期拉动私人资本协同创新 | 传统新古典“挤出效应”[[Hypothesis\|假设]] | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] |
+> | **投资挤入机制** | 国家前瞻引领通过明确预期拉动私人资本协同创新 | 传统新古典“挤出效应”假设 | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] |
 > | **风险收益对称机制** | 批判风险社会化与收益私有化，构建多元公共回报分享机制 | 创新红利被少数私人寡头垄断 | 同上（2018, pp. 809–810） |
 > | **公共能力制度基石** | 三层公共动态能力是防止利益俘获与实现敏捷学习的前提 | 官僚短视、利益游说与规划短期化 | [[Argument_Kattel_Mazzucato_2018_ICC\|Kattel & Mazzucato (2018)]] |
 > | **首发创设与结构重塑** | 100% 早期采购托底创造初始市场，技术择优打破垄断格局 | 早期商业化买单缺失与成熟寡头垄断锁定 | [[Argument_Schnee_1978_RP\|Schnee (1978)]] |

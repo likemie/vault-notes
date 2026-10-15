@@ -9,7 +9,7 @@ aliases:
 summary: "指由于科研资助评审机制固化与行政合规负担激增，导致青年学者独立建组年龄过度推迟、学术探索被迫依附于资深学者主流范式并趋于保守的结构性失灵现象。"
 type: concept
 domain: "higher-education"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Metascience]]"
   - "[[Paradigm]]"
-  - "[[Document]]"
   - "[[Mentorship]]"
   - "[[Apprenticeship]]"
   - "[[Red Tape]]"
@@ -42,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Seniority Barrier in Academia
@@ -66,7 +65,7 @@ updated: 2026-10-08
 
 > [!boundary]- 概念边界
 > - 不等于 普通的学术代际传承 — 正常传承强调学术经验启发，而资历壁垒强调资源垄断、人身依附与课题强制锁定。
-> - 不等于 单纯的终身教职（Tenure）评审标准高低，而是涵盖联邦资助年龄、PI 实验室依附网络及[[Document|文献]]引用固化的复合制度现象。
+> - 不等于 单纯的终身教职（Tenure）评审标准高低，而是涵盖联邦资助年龄、PI 实验室依附网络及文献引用固化的复合制度现象。
 
 ---
 
@@ -86,7 +85,7 @@ updated: 2026-10-08
 > [!feature] 核心要素
 > - **首次独立资助年龄显著延后** 权威资助机构新晋 PI 年龄持续攀升至 40 岁以上，大幅跨过原创力最旺盛的 25–35 岁阶段。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 16)]]
 > - **行政合规负担的非对称惩罚** 漫长的申报周期（长达 20 个月）与[[Red Tape|繁文缛节]]对缺乏庞大团队分担的青年学者构成隐性“创新税”。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 15)]]
-> - **学术注意力与评审网络固化** 评审专家倾向于资助既有学术派系与经典[[Document|文献]]网络，圈外年轻学者的异端假说被边缘化。
+> - **学术注意力与评审网络固化** 评审专家倾向于资助既有学术派系与经典文献网络，圈外年轻学者的异端假说被边缘化。
 
 > [!logic-map]- 要素关系
 > ```mermaid

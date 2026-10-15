@@ -11,7 +11,7 @@ aliases:
 summary: "Schot & Steinmueller（2018）与 Mazzucato（2018）等学者识别的创新政策三大范式——科学促增长（Frame 1）、国家创新系统（Frame 2）与变革转型（Frame 3），揭示了公共干预从弥补市场失灵到管理系统失灵再到主动进行市场塑造与方向性引导的递进演化逻辑"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 45
+related_count: 44
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Transformative Change]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Public Value]]"
-  - "[[Hypothesis]]"
   - "[[Directionality of Innovation]]"
   - "[[National Innovation System]]"
   - "[[Market Failure]]"
@@ -75,7 +74,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-27
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Innovation Policy Paradigms
@@ -88,7 +87,7 @@ updated: 2026-10-14
 > 创新政策[[Paradigm|范式]]（Innovation Policy Paradigms，或称创新政策三框架 Three Frames for Innovation Policy）是指学者（Schot & Steinmueller, 2018; Lindner et al., 2024; [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen, 2025]]）识别出的、自第二次世界大战以来发达经济体科技创新政策所经历的三个核心演化阶段：**科学促增长（Frame 1: Science for [[Growth]]）**、**国家[[Systems of Innovation|创新系统]]（Frame 2: Systems of Innovation）** 与 **[[Transformative Change|变革转型]]／使命导向（Frame 3: Transformative Change & [[Mission-Oriented Innovation Policy|mission-oriented policy]]）**。每个范式代表了国家与公共部门对“创新如何发生”、“政策为何干预”以及“[[Public Value|公共价值]]如何实现”这三大根本问题的不同理论认知与制度回答。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 28–35)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–806)]]
 
 > [!concept-lens] 范式透镜
-> - **含义** 指主导特定历史时期科技创新战略设计、公共财政配置、中介机构建设与评估标准的深层理论[[Hypothesis|假设]]与制度范式。
+> - **含义** 指主导特定历史时期科技创新战略设计、公共财政配置、中介机构建设与评估标准的深层理论假设与制度范式。
 > - **用途** 提供历时性与跨国比较[[Analytic Framework|分析框架]]，透视政策工具箱如何从单一研发资助拓展至全系统协同与跨部门使命攻坚，并指导大学与研究机构定位自身的战略职能。
 > - **演进逻辑** 三大范式之间并非简单的后者替代或否定前者，而是呈现**层叠式累积与盲区超越（Cumulative Evolution & Blind-spot Transcendence）**——每一次范式演化均源于前一范式在面对新兴经济社会矛盾时暴露出的理论与政策盲区。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 28–35)]]
 

@@ -23,7 +23,6 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Certainty of Knowledge]]"
   - "[[Justification for Knowing]]"
-  - "[[Hypothesis]]"
   - "[[Educational Level]]"
   - "[[Simplicity of Knowledge]]"
   - "[[Source of Knowledge]]"
@@ -46,7 +45,6 @@ related_methods:
   - "[[Factor Mixture Modeling]]"
   - "[[Confirmatory Factor Analysis]]"
   - "[[Multinomial Logistic Regression]]"
-  - "[[Coding in Qualitative Research]]"
 related_instruments:
   - "[[Epistemic and Ontological Cognition Questionnaire]]"
 related_persons: []
@@ -65,7 +63,7 @@ title: "Argument_Greene_2010_JEP"
 argument_key: "Argument_Greene_2010_JEP"
 argument_display_title: "Empirical Evidence Regarding Relations Among a Model of Epistemic and Ontological Cognition, Academic Performance, and Educational Level"
 argument_kind: "journal-article"
-argument_related_count: 32
+argument_related_count: 30
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -103,7 +101,7 @@ issuing_organization: ""
 > | **认识论与本体论认知发展模型**<br>[[Epistemic and Ontological Cognition]] | 将[[Certainty of Knowledge\|知识的确定性]]与简单性界定为本体论认知，将[[Justification for Knowing\|认知的辩护]]机制保留为认识论认知。EOCD 模型提出现实主义、教条主义、怀疑主义与理性主义四种理论位置，并为每种位置设定 SC、JA、PJ 的组合轮廓。 |
 
 > [!warrant]- 理论如何支撑论证
-> 个体的认知本质反映在多维度的组合特征档案（profile）中。通过[[Factor Mixture Modeling\|因子混合模型]]寻找潜在的类群轮廓，可将离散的维度得分匹配回认识论与本体论认知模型[[Hypothesis\|假设]]的发展序列中，从而实现对整合理论的实证检验。
+> 个体的认知本质反映在多维度的组合特征档案（profile）中。通过[[Factor Mixture Modeling\|因子混合模型]]寻找潜在的类群轮廓，可将离散的维度得分匹配回认识论与本体论认知模型假设的发展序列中，从而实现对整合理论的实证检验。
 
 ---
 
@@ -231,7 +229,7 @@ issuing_organization: ""
 > 作者最终采用六类别强不变性模型，但模型选择证据并不一致：AIC 与 SABIC 倾向六类别，BIC 倾向五类别；Lo–Mendell–Rubin 检验不支持六类别，而 bootstrap likelihood ratio test 支持。六类别严格不变性模型还出现 Heywood cases 和大于 1 的因子相关，因此未被采用。就理论匹配而言，12个领域轮廓中8个符合预设位置，4个不清晰，且未识别出教条主义轮廓。
 
 > [!warrant] 推理桥梁
-> FMM 提供了一种检验方式：若连续维度形成与 EOCD 相符的稳定组合，潜在类别的因子均值轮廓应接近理论预测。实际结果是多数、但并非全部轮廓匹配，因此作者将[[Hypothesis|假设]]5判断为获得“混合支持”（mixed support），并建议通过修订题项、扩展维度和重抽样继续检验。
+> FMM 提供了一种检验方式：若连续维度形成与 EOCD 相符的稳定组合，潜在类别的因子均值轮廓应接近理论预测。实际结果是多数、但并非全部轮廓匹配，因此作者将假设5判断为获得“混合支持”（mixed support），并建议通过修订题项、扩展维度和重抽样继续检验。
 
 > [!ref-table]- 表5：因子混合模型拟合指标（Factor Mixture Model Fit Indices, 部分摘录）
 > | 类别数/等值性（Number of classes/Invariance） | 对数似然值（Log-likelihood） | AIC | BIC | SABIC |
@@ -275,7 +273,7 @@ issuing_organization: ""
 > 类别成员身份与教育水平及数学、历史自报成绩存在统计关联，为模型的[[Predictive Validity\|预测效度]]提供初步证据；由于部分类别无法按“高低阶段”清晰排序，结果不宜概括成单一的线性发展规律。
 
 > [!chain-link] 证据到判断
-> [[Multinomial Logistic Regression\|多项逻辑回归]]显示，教育水平及课程成绩能够区分若干类别对，但并非每项[[Independent Variable|预测变量]]在每个对比中都显著。成绩变量为学生自报的数学与历史成绩，[[Coding in Qualitative Research|编码]]越高表示成绩越差。
+> [[Multinomial Logistic Regression\|多项逻辑回归]]显示，教育水平及课程成绩能够区分若干类别对，但并非每项[[Independent Variable|预测变量]]在每个对比中都显著。成绩变量为学生自报的数学与历史成绩，编码越高表示成绩越差。
 
 > [!warrant] 推理桥梁
 > 回归结果说明类别轮廓与外部变量并非无关，但不能判断方向：教育经历可能影响认识论认知，也可能存在选择效应或共同原因；认识论轮廓与成绩的关系同样不能被解释为前者导致后者。作者明确指出，横截面数据不足以验证发展序列。

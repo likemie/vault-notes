@@ -11,9 +11,9 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 16
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 15
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "1988–1990s"
 initiator_organization: "[[Sematech]] 与 [[Semiconductor Research Corporation]]"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[University-Industry Collaboration]]"
   - "[[Industry Affiliate Program]]"
-  - "[[Attrition]]"
   - "[[Categorical Funding]]"
   - "[[Innovation Ecosystem]]"
   - "[[Engineering Education]]"
@@ -50,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Sematech Centers of Excellence
@@ -66,7 +65,7 @@ updated: 2026-10-09
 > - **立项时间 / 周期** 1988 年启动，贯穿 Sematech 第一阶段（1988–1992）与第二阶段（1993 以后），持续运作至 1990 年代后期。
 > - **发起方与资助机制** 由 Sematech 每年安排 **1000 万至 1500 万美元（约占 Sematech 年总预算的 5%–7.5%）**，通过半导体研究公司（SRC）进行专业转拨与项目跟踪管理，与各合作大学自筹资金及国家科学基金会（[[National Science Foundation|NSF]]）课题形成对等匹配。
 > - **覆盖范围与对象** 资助覆盖加州大学伯克利分校、斯坦福大学、麻省理工学院、得克萨斯大学奥斯汀分校、威斯康星大学[[James Madison|麦迪逊]]分校、亚利桑那大学等全美十余所顶尖微电子与工程研究型大学。
-> - **核心问题导向** 解决产业联盟在聚焦 0.5 微米与 0.35 微米在役制造设备改良时，缺乏长远光学物理、等离子体动力学机理支撑以及高校微电子专业毕业生[[Attrition|流失]]的结构性危机。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 730, 754)]]
+> - **核心问题导向** 解决产业联盟在聚焦 0.5 微米与 0.35 微米在役制造设备改良时，缺乏长远光学物理、等离子体动力学机理支撑以及高校微电子专业毕业生流失的结构性危机。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 730, 754)]]
 
 ---
 

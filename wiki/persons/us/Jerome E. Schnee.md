@@ -10,7 +10,7 @@ summary: "美国著名产业经济学与科技政策学者，哥伦比亚大学�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 21
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Learning Economy]]"
   - "[[Technological Conservatism in Mission Programs]]"
   - "[[Growth]]"
-  - "[[Document]]"
   - "[[Competitiveness]]"
   - "[[Demonstration Effect]]"
   - "[[Demand-side Innovation Policy]]"
@@ -54,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Jerome E. Schnee
@@ -74,14 +73,14 @@ updated: 2026-10-07
 
 > [!timeline] 生平与学术历程
 > - **1970年代** 于哥伦比亚大学与宾夕法尼亚大学开展关于制药工业创新、计算机与半导体产业演进的实证研究，深入调研[[National Aeronautics and Space Administration|美国国家航空航天局]]（NASA）与国防部公共项目。
-> - **1978年** 在国际科技政策顶刊《Research Policy》发表里程碑论文《政府项目与高技术产业成长》（*Government programs and the [[Growth]] of high-technology industries*），成为公共项目需求侧塑造微电子与计算机产业的经典权威[[Document|文献]]。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 2–24)]]
+> - **1978年** 在国际科技政策顶刊《Research Policy》发表里程碑论文《政府项目与高技术产业成长》（*Government programs and the [[Growth]] of high-technology industries*），成为公共项目需求侧塑造微电子与计算机产业的经典权威文献。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 2–24)]]
 > - **1980年代–2000年代** 任教于罗格斯大学管理学院，持续深耕战略管理、研发管理、技术扩散与创新经济学，出版多部关于研发管理与产业[[Competitiveness|竞争力]]的经典论著。
 
 ---
 
 ## 主要著作与学术发展
 
-> [!work-line] 代表性学术著作与[[Document|文献]]
+> [!work-line] 代表性学术著作与文献
 > - **1978 — *Government programs and the [[Growth]] of high-technology industries* (Research Policy)** 核心问题意识：大型空间与国防大项目如何驱动战后美国半导体与计算机产业确立全球优势。构建经济影响（研发资助、[[Assured Demand|确定性需求]]、促进竞争）、技术影响（前沿演进、[[Demonstration Effect|示范效应]]、方向引导）与[[Human Capital Theory|人力资本]]影响（企业间衍生与企业内转移）三维[[Analytic Framework|分析框架]]。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 2–24)]]
 > - **1977 — *Research and Innovation in the Modern Pharmaceutical Industry* (with E. Mansfield et al.)** 深入分析制药工业研发成本、新药上市周期与政府药品规制政策对创新的影响。
 
@@ -114,7 +113,7 @@ updated: 2026-10-07
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Argument_Schnee_1978_RP\|Schnee, 1978]] | [[Document\|文献]] | 施尼发表于《Research Policy》关于高技术产业成长的里程碑代表作。 |
+> | [[Argument_Schnee_1978_RP\|Schnee, 1978]] | 文献 | 施尼发表于《Research Policy》关于高技术产业成长的里程碑代表作。 |
 > | [[Assured Demand]] | Concept | 施尼在该研究中正式提炼并论证的核心创新政策概念。 |
 > | [[Technological Conservatism in Mission Programs]] | Concept | 施尼针对 [[National Aeronautics and Space Administration\|NASA]] 与军方管理行为提出的组织选型张力命题。 |
 > | [[Learning Economy]] | Theory | 施尼用于解释 100% 采购托底如何驱动器件均价暴跌的核心经济学机制。 |

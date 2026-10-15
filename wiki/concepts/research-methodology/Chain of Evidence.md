@@ -6,7 +6,7 @@ aliases:
 summary: "研究方法论与认识论论证的核心原则，指从研究问题、数据收集情境、中间推断到最终结论之间保持完整、透明且可双向追溯的逻辑证据路径；既是个案研究确立信度与效度的基石，也是历史科学回溯推测与学术论证组织认识论层级的核心规程。"
 type: concept
 domain: "research-methodology"
-related_count: 42
+related_count: 41
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -48,7 +48,6 @@ related_methods:
   - "[[Cohort Study]]"
   - "[[Triangulation]]"
   - "[[Audit Trail]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Mixed Methods Research]]"
   - "[[Fieldwork]]"
   - "[[Grounded Theory]]"
@@ -68,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-11
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Chain of Evidence
@@ -94,7 +93,7 @@ updated: 2026-10-07
 
 > [!boundary]- 概念边界
 > - **不等于[[Triangulation\|三角互证]]（Triangulation）** — 三角互证强调使用多种数据源、方法或研究者交叉检验同一现象以减少偏差；而证据链强调单一推论链条从起点到终点的连贯性与可追溯性。两者在方法论上互为补充。
-> - **不等于[[Audit Trail\|审计追踪]]（Audit Trail）** — 审计追踪侧重记录研究者的反思日志、研究决策与[[Coding in Qualitative Research\|编码]]演化过程（过程性记录）；证据链侧重于知识主张与经验事实之间的实质性逻辑因果链条（实质性论证结构）。
+> - **不等于[[Audit Trail\|审计追踪]]（Audit Trail）** — 审计追踪侧重记录研究者的反思日志、研究决策与编码演化过程（过程性记录）；证据链侧重于知识主张与经验事实之间的实质性逻辑因果链条（实质性论证结构）。
 
 ---
 
@@ -103,7 +102,7 @@ updated: 2026-10-07
 > [!contrast-table] 证据链与相关方法学[[Construct\|构念]]辨析
 > | 比较维度 | 证据链（Chain of Evidence） | [[Triangulation\|三角互证]]（Triangulation） | [[Audit Trail\|审计追踪]]（Audit Trail） | [[Toulmin's Argumentation Model\|图尔敏论证模型]]（Toulmin Model） |
 > |---|---|---|---|---|
-> | **分析焦点** | 结论与原始数据之间的双向可追溯路径 | 多元数据源或方法对同一现象的交叉印证 | 研究决策、[[Coding in Qualitative Research\|编码]]修改与研究者主观反思轨迹 | 论断、数据、保证、支撑与反驳的命题结构 |
+> | **分析焦点** | 结论与原始数据之间的双向可追溯路径 | 多元数据源或方法对同一现象的交叉印证 | 研究决策、编码修改与研究者主观反思轨迹 | 论断、数据、保证、支撑与反驳的命题结构 |
 > | **核心机制** | 严密维护证据层级与时空情境链接 | 通过多角度聚合消除单一测量偏差 | 提供透明研究步骤以供外部同行审查[[Reliability\|信度]] | 阐明从事实过渡到结论的逻辑正当性理由 |
 > | **典型应用** | [[Case Study\|个案研究]]、地学回溯推测、学术论文论证 | [[Mixed Methods Research\|混合方法研究]]、质性[[Fieldwork\|实地调查]]验证 | [[Grounded Theory\|扎根理论]]、质性[[Ethnography\|人种志]]质量评估 | 科学论辩教学、辩论与[[Philosophical Analysis in Education\|哲学分析]] |
 
@@ -199,7 +198,7 @@ updated: 2026-10-07
 > [!dev-timeline] 概念演变
 > - **1980s–1990s — [[Case Study\|个案研究]]方法论奠基** 殷（Yin, 1984, 1989）在《个案研究方法》中正式提出“证据链”概念，将其作为与[[Triangulation\|三角互证]]并列的[[Qualitative Research\|质性研究]][[Construct Validity\|构念效度]]与[[Reliability\|可靠性]]核心保障机制。
 > - **1990s — 历史科学与地学[[Epistemology\|认识论]]拓展** 奥尔特（Ault, 1998）将证据链引入地球科学与古生物学认识论研究，阐明[[Retrodiction\|回溯推测]]中多源证据链交叉印证的特异性规程。
-> - **2003 — 科学写作与认识论层级[[Coding in Qualitative Research\|编码]]确立** 高尾与凯利（Takao & Kelly, 2003）将证据链[[Operationalization\|操作化]]为科学论述中的认识论层级（EL）模型，用以量化评价学生学术论文中从数据到主张的证据链整合水平。
+> - **2003 — 科学写作与认识论层级编码确立** 高尾与凯利（Takao & Kelly, 2003）将证据链[[Operationalization\|操作化]]为科学论述中的认识论层级（EL）模型，用以量化评价学生学术论文中从数据到主张的证据链整合水平。
 > - **2011 — 教育研究方法论体系集成** [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|Cohen et al. (2011)]] 在《教育研究方法》中全面系统化证据链规范，确立其在[[Qualitative Reliability\|质性研究信度]]、效度与时空情境记录中的标准地位。
 > - **2018 — 课堂[[Epistemic Practices\|认识论实践]]综合[[Analytic Framework\|分析框架]]** [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018)]] 将证据链与微观课堂认识论实践、学科[[Heterogeneity\|异质性]]矩阵及[[Discourse|话语]]协商深度结合，确立证据链在科学与[[Engineering Education|工程教育]]中的核心[[Epistemic Value\|认识论价值]]。
 
@@ -230,7 +229,7 @@ updated: 2026-10-07
 > 
 > | 学科与范式 | 证据链起点 | 链条流转中介 | 终点结论形态 | [[Epistemology\|认识论]]功能与价值 | 证据来源 |
 > |---|---|---|---|---|---|
-> | **质性[[Case Study\|个案研究]]** | [[Qualitative Interview\|质性访谈]]录音、[[Qualitative Observation\|田野观察]]笔记与实物档案 | 时间地点记录、[[Coding in Qualitative Research\|编码]]节点与[[Transcription in Qualitative Research\|转录]]文本对照 | 具有[[Rich and Thick Description\|厚描述]]支撑的个案因果解释 | 保障研究具有可审计性与可复查性 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|Cohen et al. (2011, Ch14)]] |
+> | **质性[[Case Study\|个案研究]]** | [[Qualitative Interview\|质性访谈]]录音、[[Qualitative Observation\|田野观察]]笔记与实物档案 | 时间地点记录、编码节点与[[Transcription in Qualitative Research\|转录]]文本对照 | 具有[[Rich and Thick Description\|厚描述]]支撑的个案因果解释 | 保障研究具有可审计性与可复查性 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|Cohen et al. (2011, Ch14)]] |
 > | **地球科学[[Retrodiction\|回溯推测]]** | 地层剖面、断层滑动擦痕与同位素测年数据 | 板块构造运动模型与多区域地质历史对照 | 远古板块俯冲与造山运动历史回溯推论 | 在大时空尺度下实现独立证据链的交叉印证 | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, p. 156)]] |
 > | **大学学术写作论证** | 震源深度分布图与海底地形测深数据图表 | 认识论层级（EL）梯级递进分析 | 支持板块汇聚边界理论的论断 | 组织从观测事实到高阶理论主张的严密论述 | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly & Licona (2018, p. 146)]] |
 

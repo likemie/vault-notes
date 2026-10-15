@@ -5,7 +5,7 @@ aliases:
 summary: "强调个体在关系中成其为人的非洲关系性伦理哲学，并在现代技术哲学与教育学中用于重构算法治理、促进共情与化解认识不正义。"
 type: concept
 domain: "educational-philosophy"
-related_count: 26
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,13 +25,11 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Buen Vivir]]"
   - "[[Emergence]]"
-  - "[[Assemblage]]"
   - "[[Transhumanism]]"
   - "[[Knowledge Production]]"
   - "[[Theory of Knowledge]]"
   - "[[Pedagogical Subject]]"
   - "[[Creativity]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Critical Pedagogy]]"
   - "[[Epistemic Agency]]"
   - "[[Man-Computer Symbiosis]]"
@@ -86,7 +84,7 @@ updated: 2026-10-15
 > [!contrast-table] 乌班图与相近哲学及技术主义范式辨析
 > | 比较维度 | Ubuntu（乌班图） | [[Posthumanism\|后人类主义]] | [[Buen Vivir\|好好生活]] | 西方自由个体主义与技术优化 |
 > |---|---|---|---|---|
-> | **[[Ontology\|本体论]]起点** | 关系本体论（“我们存在，故我在”），个体从人际互依网络中[[Emergence\|涌现]] | 去人类中心主义，主体由人与非人行动者的网络共同[[Assemblage\|装配]] | 生态与共同体和谐共处，自然本身作为权利主体 | 实体本体论（[[René Descartes\|笛卡尔]]式“我思故我在”），孤立原子化主体 |
+> | **[[Ontology\|本体论]]起点** | 关系本体论（“我们存在，故我在”），个体从人际互依网络中[[Emergence\|涌现]] | 去人类中心主义，主体由人与非人行动者的网络共同装配 | 生态与共同体和谐共处，自然本身作为权利主体 | 实体本体论（[[René Descartes\|笛卡尔]]式“我思故我在”），孤立原子化主体 |
 > | **核心价值追求** | 相互承认、共同体连带、跨差异同理心与代际责任共享 | 解构人机二元对立，探寻分布式心智与异己物质性 | 拒绝无限增长与资本消费，追求生活的平衡与足够 | 个体自由最大化、个人主义成功观与绩效理性 |
 > | **技术与教育取向** | 人机交互需消除权力压迫，保护未成年人成长性认识正义 | 将智能技术视为共同进化的异己存在，打破人类中心特权 | 批判技术资本主义的生态掠夺，维系本土日常再生产 | [[Transhumanism\|超人类主义]]技术增强（“优化你自己”），算力外包取代实践 |
 
@@ -146,7 +144,7 @@ updated: 2026-10-15
 > **乌班图三大原则对医疗算法不正义的防御** 针对焦尔贾·波齐（Giorgia Pozzi, 2023）揭示的处方药监测程序（Prescription Drug Monitoring Programmes, PDMP）中机器学习算法侵害患者信任的证词不正义，费利托与德普罗斯特论证指出，乌班图的伦理进路能够有效弥补传统生物医学伦理中个体主义原则的不足。通过承认患者多元的生活情境与经验视角、促进专业医生与普通患者在不同认知层级之间的情感共鸣与理解，以及坚决拆解算法评分所强化的专家专断与权力不平等，乌班图成功修复了人机决策中的认识正义。[[Argument_Smith_2026_SPE|(Smith, 2026, pp. 9–10)]]
 
 > [!claim] Smith, S. J.
-> **乌班图原则在教育人机交互与批判教学中的历史共振** 塞缪尔·杰·史密斯（Samuel J. Smith, 2026）将费利托与德普罗斯特的乌班图框架[[Creativity|创造性]]地[[Transfer Translation Transformation|转译]]至教育技术领域。他论证指出，乌班图化解算法不正义的三大原则，在教育哲学传统中有着悠久而坚实的理论共振：承认多元视角呼应了哈里·布里豪斯（Harry Brighouse, 2005）倡导的学校民主治理与间断性伦理（Discontinuous Ethos）；跨层级共情呼应了莎伦·托德（Sharon Todd, 2003）将教育视为跨越差异联结他者的关系伦理；消解权力不对称则直接继承了[[Paulo Freire\|保罗·弗莱雷]]（Paulo Freire, 2005）的[[Critical Pedagogy\|批判教育学]]理念。将乌班图原则融入[[Generative Artificial Intelligence|生成式人工智能]]教学，能够坚决打破算法作为至高权威的假象，确保学生在面对算法输出时保有独立的[[Epistemic Agency|认识主体性]]，有效规避[[Formative Epistemic Injustice|成长性认识不正义]]。[[Argument_Smith_2026_SPE|(Smith, 2026, pp. 9–11)]]
+> **乌班图原则在教育人机交互与批判教学中的历史共振** 塞缪尔·杰·史密斯（Samuel J. Smith, 2026）将费利托与德普罗斯特的乌班图框架[[Creativity|创造性]]地转译至教育技术领域。他论证指出，乌班图化解算法不正义的三大原则，在教育哲学传统中有着悠久而坚实的理论共振：承认多元视角呼应了哈里·布里豪斯（Harry Brighouse, 2005）倡导的学校民主治理与间断性伦理（Discontinuous Ethos）；跨层级共情呼应了莎伦·托德（Sharon Todd, 2003）将教育视为跨越差异联结他者的关系伦理；消解权力不对称则直接继承了[[Paulo Freire\|保罗·弗莱雷]]（Paulo Freire, 2005）的[[Critical Pedagogy\|批判教育学]]理念。将乌班图原则融入[[Generative Artificial Intelligence|生成式人工智能]]教学，能够坚决打破算法作为至高权威的假象，确保学生在面对算法输出时保有独立的[[Epistemic Agency|认识主体性]]，有效规避[[Formative Epistemic Injustice|成长性认识不正义]]。[[Argument_Smith_2026_SPE|(Smith, 2026, pp. 9–11)]]
 
 ---
 

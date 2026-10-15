@@ -10,7 +10,7 @@ summary: "一种在宏观教育与经济规划中运用的定量预测方法。�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 19
+method_related_count: 17
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -26,9 +26,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Interaction Effect]]"
   - "[[Return on Investment]]"
-  - "[[Attrition]]"
   - "[[Variable]]"
-  - "[[Hypothesis]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Performance Indicators]]"
 related_theories:
@@ -48,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-01
+updated: 2026-10-15
 ---
 
 # Manpower Requirements Approach
@@ -96,7 +94,7 @@ updated: 2026-10-01
 > 2. **估算各产业部门劳动力总量需求** 依据预估的各部门劳动生产率年均提升幅度，计算各产业部门所需的劳动力总规模。
 > 3. **构建部门—职业结构映射矩阵** 将各部门劳动力分解至管理、技术、熟练工等标准化职业分类中。
 > 4. **转换职业—受教育程度门槛矩阵** 将各职业门类映射为必需的最低法定受教育层次与学科门类。
-> 5. **扣除存量与[[Attrition\|流失]]并反推教育系统净培养配额** 结合现有存量人才规模、自然死亡率与退休率，计算各学段必须补足的净毕业生数及对应招生配额。
+> 5. **扣除存量与流失并反推教育系统净培养配额** 结合现有存量人才规模、自然死亡率与退休率，计算各学段必须补足的净毕业生数及对应招生配额。
 
 ### 量化方法模块
 
@@ -125,7 +123,7 @@ ightarrow$ 学历资质构成。假定在各环节比例保持技术外生稳定
 >
 > **结果怎么读** 计算出的 $L_{e,t}$ 减去基期存量扣除退休折旧后的存活劳动力，即为教育系统在规划期内必须累计培养输送的毕业生绝对人数。
 >
-> **注意事项** 该公式隐含关键的零弹性[[Hypothesis\|假设]]——即假定生产技术系数、职业构成与学历要求在预测期内是固定的，排除了雇主在面对学历溢价变化时用低学历熟练工替代高学历大学生的市场调节可能。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
+> **注意事项** 该公式隐含关键的零弹性假设——即假定生产技术系数、职业构成与学历要求在预测期内是固定的，排除了雇主在面对学历溢价变化时用低学历熟练工替代高学历大学生的市场调节可能。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
 
 > [!software-impl] 软件实现
 > - **数据处理** 在 Excel、Python (`pandas`)、R 中构建大型宏观投入产出转换矩阵。

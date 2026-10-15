@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Didaktik
@@ -45,7 +45,7 @@ updated: 2026-09-22
 > [!def] 核心定义
 > 教学论（Didaktik）是德语教育传统中的教学理论与教学论传统，关注什么知识值得教、为什么教、以及如何教，旨在连接课程内容选择、教育目的和教师的教学判断。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 2]]
 > 
-> 在德国教育学家安德烈亚斯·格鲁施卡（Andreas Gruschka）于 2019 年提出的框架中，教学设计是由教学论（Didaktik）、[[Bildung\|教化]]（Bildung） 与规范教育（Erziehung）三者共同构成的整合性星座（Integrated case of constellation）。教学论在此指教师决定哪部分知识在什么时间点、以什么数量以及如何向学生呈现的具体安排方式。[[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022, pp. 238–239]]
+> 在德国教育学家安德烈亚斯·格鲁施卡（Andreas Gruschka）于 2019 年提出的框架中，教学设计是由教学论（Didaktik）、教化（[[Bildung]]） 与规范教育（Erziehung）三者共同构成的整合性星座（Integrated case of constellation）。教学论在此指教师决定哪部分知识在什么时间点、以什么数量以及如何向学生呈现的具体安排方式。[[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022, pp. 238–239]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 该概念指向对知识内容的教学性转化，强调课程内容的选择必须服务于教化目的，帮助个体形成批判自治的人格。
@@ -67,7 +67,7 @@ updated: 2026-09-22
 
 > [!boundary]- 概念边界与关联
 > - **与[[Phenomenon-Based Learning\|现象本位学习]]（Phenomenon-Based Learning, PhBL）的关联** 教学论是深厚的课程与教学理论传统，而现象本位学习是一种具体的跨学科教学取向。德国教育学家[[Wolfgang Klafki\|沃尔夫冈·克拉夫基]]（Wolfgang Klafki）提出的[[Epochal Key Problems\|时代关键问题]]（Epochal key problems）为现象本位学习选择教学现象与设计跨学科对话提供了核心理论支撑。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 6–7]]
-> - **有别于能力本位课程** 教学论关注知识的选择价值、人性的[[Bildung\|教化]]目的与开放未来；而新自由主义主导的能力本位课程若被可测量指标主导，容易导致知识与技能的原子化碎片拆散，损害学科的深层逻辑。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 5, 10]]
+> - **有别于能力本位课程** 教学论关注知识的选择价值、人性的教化目的与开放未来；而新自由主义主导的能力本位课程若被可测量指标主导，容易导致知识与技能的原子化碎片拆散，损害学科的深层逻辑。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 5, 10]]
 
 ---
 
@@ -89,7 +89,7 @@ updated: 2026-09-22
 ### 命题类型一：课程内容选择的教化正当性（Didactical Legitimacy of Curriculum Content Selection）
 
 > [!concept-lens] 课程知识的[[Ontology\|本体论]]深度与时代性
-> 这类命题关注“教什么”以及“为何教”，探讨什么样的知识具备[[Bildung\|教化]]价值，主张在维护学科[[Ontology\|本体论]]深度的前提下，围绕全球性、时代性的关键挑战来重组课程内容。
+> 这类命题关注“教什么”以及“为何教”，探讨什么样的知识具备教化价值，主张在维护学科[[Ontology\|本体论]]深度的前提下，围绕全球性、时代性的关键挑战来重组课程内容。
 
 > [!claim] 莉萨·维拉汉
 > [[Discipline-Based Theory\|学科理论]]知识是具有因果脉络的深层理论体系。课程必须维护学科自身的本体论深度与逻辑完整性，任何将系统知识拆散为横向能力或技能指标清单的能力本位改革都会损害其教化价值。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 5]]
@@ -105,7 +105,7 @@ updated: 2026-09-22
 > 这类命题关注“如何教”及教师的专业行动逻辑，强调教学论不仅是传递技巧，更是协调知识传授、主体塑造与规范要求之间张力的判断艺术。
 
 > [!claim] 安德烈亚斯·格鲁施卡
-> 教学设计是一个由教学论（Didaktik）、教化（Bildung）与规范教育（Erziehung）共同构成的整合性星座（Integrated case of constellation），教师必须基于特定内容在具体时间点以何种安排方式向学生呈现，来做出教学判断。[[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022, pp. 238–239]]
+> 教学设计是一个由教学论（Didaktik）、教化（[[Bildung]]）与规范教育（Erziehung）共同构成的整合性星座（Integrated case of constellation），教师必须基于特定内容在具体时间点以何种安排方式向学生呈现，来做出教学判断。[[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022, pp. 238–239]]
 
 > [!claim] 比尔吉特·沙法尔（Birgit Schaffar）与莉莉-安·沃尔夫（Lili-Ann Wolff）
 > 教学论史中存在着关于知识控制与[[Knowledge Production\|知识生成]]的关键区分。教学行动必须在规训（disciplina，侧重纠错、管理与绩效测量）与生成（doctrina，侧重知识的批判、更新与探究生产）之间建立良性张力，避免教学滑向单纯的机械控制。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 6]]
@@ -126,7 +126,7 @@ updated: 2026-09-22
 
 > [!dev-timeline] 概念演变
 > - **中世纪大学时期 — [[Disciplina and Doctrina\|规训]]与生成的词义分化** 欧洲教学实践中形成规训（disciplina，侧重训诫与纠错）与生成（doctrina，侧重[[Knowledge Production\|知识生产]]）的二元区分。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 6]]
-> - **19世纪初 — 德国教学论在芬兰的发展** 伴随芬兰哲学家约翰·威廉·斯内尔曼（Johan Wilhelm Snellman）对[[Bildung\|教化]]观的推动，德国教学理论开始影响芬兰的教师教育和学术构建。
+> - **19世纪初 — 德国教学论在芬兰的发展** 伴随芬兰哲学家约翰·威廉·斯内尔曼（Johan Wilhelm Snellman）对教化观的推动，德国教学理论开始影响芬兰的教师教育和学术构建。
 > - **20世纪末 — 批判建设性教学论转向** 克拉夫基提出[[Epochal Key Problems\|时代关键问题]]假说，旨在通过重组课程结构，使教育能直面社会的全球性正义与危机。
 > - **2014年 — 芬兰跨学科课程改革的理论统合** 教学论传统的时代危机意识与[[Phenomenon-Based Learning\|现象本位学习]]取向融合，成为芬兰核心课程政策的哲学底色。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 7]]
 
@@ -137,7 +137,7 @@ updated: 2026-09-22
 > [!debates] 学术争议
 > 
 > > [!abstract] 精英保守工具与社会解放之争
-> > 教学论在历史实践中常被批评容易沦为强化国家民族认同和维持精英阶级排他性的保守控制工具。但克拉夫基论证，经典的教学论与[[Bildung\|教化]]传统在本质上具有激进的社会政治解放性，旨在通过重组课程结构，推动人与人之间的正义、自由与共同责任。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 6]]
+> > 教学论在历史实践中常被批评容易沦为强化国家民族认同和维持精英阶级排他性的保守控制工具。但克拉夫基论证，经典的教学论与教化传统在本质上具有激进的社会政治解放性，旨在通过重组课程结构，推动人与人之间的正义、自由与共同责任。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 6]]
 > 
 > > [!abstract]- 国家课程简化风险
 > > 教学论如果被简化为国家课程意识形态的传递工具，其设计的知识结构易流于精英保守主义，从而削弱其本应具备的个体解放与自我实现功能。
@@ -147,5 +147,5 @@ updated: 2026-09-22
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff (2024)]] — 考掘欧洲教学论（Didaktik）与[[Bildung\|教化]]传统的批判解放内涵，阐述芬兰国家核心课程中跨学科与[[Phenomenon-Based Learning\|现象本位学习]]的理论根基，并分析 SveaSus 项目如何围绕[[Epochal Key Problems\|时代关键问题]]在世界遗产地开展具身教学实验。
+> - [[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff (2024)]] — 考掘欧洲教学论（Didaktik）与教化传统的批判解放内涵，阐述芬兰国家核心课程中跨学科与[[Phenomenon-Based Learning\|现象本位学习]]的理论根基，并分析 SveaSus 项目如何围绕[[Epochal Key Problems\|时代关键问题]]在世界遗产地开展具身教学实验。
 > - [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge (2022)]] — 探讨算法化与数字化时代教学论、教化与规范教育的整合星座，反思技术介入对教师教学判断的影响。

@@ -6,7 +6,7 @@ aliases:
 summary: "研究者在场改变被研究情境的现象，在质性研究中通过延长驻留、谨慎自我呈现和反身性来管理而非消除。"
 type: concept
 domain: "research-methodology"
-related_count: 22
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Champ]]"
   - "[[Educational Immunology]]"
   - "[[Research Purpose]]"
-  - "[[Hypothesis]]"
   - "[[Research Ethics]]"
   - "[[Habituation]]"
   - "[[Informed Consent]]"
@@ -44,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Reactivity in Qualitative Research
@@ -69,7 +68,7 @@ updated: 2026-09-17
 > [!feature] 核心要素
 > - **研究者效应** 研究者的个人特征——年龄、性别、种族、着装风格、语言口音、社会阶层——影响参与者如何回应和在研究者面前行为。
 > - **情境扰动** 引入研究者作为局外人进入社会系统本身即是一种干预和侵入（Flick, 1998, p. 57），系统会产生"[[Educational Immunology\|免疫反应]]"。
-> - **期望效应** 参与者根据自己对[[Research Purpose\|研究目的]]的猜测调整行为——类似参与者的"猜测[[Hypothesis\|假设]]"（demand characteristics）。
+> - **期望效应** 参与者根据自己对[[Research Purpose\|研究目的]]的猜测调整行为——类似参与者的"猜测假设"（demand characteristics）。
 > - **时间衰减** 反应性通常随时间推移而下降——研究者在情境中驻留越久，参与者越可能回归自然行为。这是长期[[Fieldwork\|田野工作]]优于短期[[Qualitative Research\|质性研究]]的理由之一。
 
 ## 管理策略

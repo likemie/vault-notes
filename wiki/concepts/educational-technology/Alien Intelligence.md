@@ -8,7 +8,7 @@ aliases:
 summary: "由 Braun & Meacham (2024) 提出并由 Smith (2026) 引入教育哲学的非拟人化技术本体论概念，指具备强大模式识别与符号输出能力但缺乏人类具身生活经验、情感共鸣与伦理关怀的非人类认知实体；在读写教学中作为打破算法权威、防范成长性认识不正义并引导批判性反思审问的核心教学防御防线。"
 type: concept
 domain: "educational-technology"
-related_count: 16
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Epistemic Agency]]"
   - "[[Generative Artificial Intelligence]]"
-  - "[[Teaching Assistant]]"
   - "[[Artificial General Intelligence]]"
   - "[[Paradigm]]"
   - "[[Feedback]]"
@@ -45,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-23
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Alien Intelligence
@@ -59,7 +58,7 @@ updated: 2026-10-07
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向[[Generative Artificial Intelligence|生成式人工智能]]的技术本体属性——它不是人类智慧的延伸或克隆，而是一种基于大规模数据统计关联的“异己心智（Alien Mind）”。
-> - **用途** 帮[[Teaching Assistant|助教]]育研究者与师生识破算法中立与权威神话，为课堂中推行思维步骤全外显、反向修辞追问与事实核查提供理论合法性。
+> - **用途** 帮助教育研究者与师生识破算法中立与权威神话，为课堂中推行思维步骤全外显、反向修辞追问与事实核查提供理论合法性。
 > - **边界** 不等于传统的科幻外星生命，亦不否定人工智能的计算效能；它不适用于描述具备人类具身体验的自然智能，也不应被简化为纯粹的工具虚无主义。
 
 > [!citation-card] 异己智能的本体论定位与反思教育学意涵

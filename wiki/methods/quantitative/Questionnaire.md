@@ -11,7 +11,7 @@ summary: "一种广泛使用的调查研究工具，通过结构化或半结构�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 34
+method_related_count: 32
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[Operationalization]]"
   - "[[Research Question]]"
-  - "[[Hypothesis]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
   - "[[Interviewer Effects]]"
@@ -45,7 +44,6 @@ related_methods:
   - "[[Rating Scale]]"
   - "[[Semantic Differential]]"
   - "[[Causal Modeling]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Case Study]]"
   - "[[Multiple Regression]]"
   - "[[Meta-regression]]"
@@ -61,7 +59,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-07-20
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 # Questionnaire
 
@@ -124,7 +122,7 @@ updated: 2026-09-17
 > | 二分类 / 多选 | 名义数据 | 卡方、二项检验、G检验、交叉表 |
 > | 排序 / 评定量表 / 固定总和 | 顺序数据 | 非参数统计（众数、中位数） |
 > | 比率数据 | 比率数据 | 均值、标准差、回归、因子分析、[[Causal Modeling\|SEM]] |
-> | 开放题 | 文字数据 | 质性分析（[[Coding in Qualitative Research\|编码]]、主题分析） |
+> | 开放题 | 文字数据 | 质性分析（编码、主题分析） |
 
 > [!dimension] 封闭式与开放式问题的选择维度
 > - **适用场景**
@@ -163,7 +161,7 @@ updated: 2026-09-17
 
 > [!decisions] Selltiz et al.（1976）的四类决策框架
 > - **A 问题内容的决策**（8条）：问题是否必要？受访者是否有信息回答？内容是否足够具体？是否有偏见？
-> - **B 问题措辞的决策**（7条）：问题是否可能被误解？是否包含未陈述的[[Hypothesis\|假设]]？措辞是否有偏见或情感负载？
+> - **B 问题措辞的决策**（7条）：问题是否可能被误解？是否包含未陈述的假设？措辞是否有偏见或情感负载？
 > - **C 回答形式的决策**（4条）：用检查式、自由回答还是检查式加追问？若是检查式，用二分类、多选还是量表？清单是否穷尽且互斥？
 > - **D 问题在序列中位置的决策**（3条）：答案是否受前序问题影响？问题引入是否自然？出现时机是否合适？
 
@@ -343,7 +341,7 @@ updated: 2026-09-17
 
 ### [[Rating Scale|评定量表]]的核心局限
 
-评定量表的十七项使用警示和选择建议详见 [[Rating Scale|评定量表]]条目。核心问题包括：类别间不存在等距[[Hypothesis|假设]]、不平衡量表偏差、左侧偏差、比较方向效应、量表数值的正负号含义不同、中庸倾向、回避极端、强制选择等（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al., 2011, Ch20, pp. 131–143]]）。
+评定量表的十七项使用警示和选择建议详见 [[Rating Scale|评定量表]]条目。核心问题包括：类别间不存在等距假设、不平衡量表偏差、左侧偏差、比较方向效应、量表数值的正负号含义不同、中庸倾向、回避极端、强制选择等（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20|Cohen et al., 2011, Ch20, pp. 131–143]]）。
 
 ### 排序题的局限
 

@@ -8,7 +8,7 @@ aliases:
 summary: "大学主动重构内部文化、组织架构与激励机制以融入经济社会发展的学术转型范式；经历从早期技术转移与专利创收（第二代）向应对重大社会挑战的使命型活体实验室（第三代）的演进；在欧洲大陆高教治理中，极端自由市场企业化方案因侵蚀公共品属性而遭到否决，转而探索法团网络间接操纵路径。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 44
+related_count: 43
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -47,7 +47,6 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Variable]]"
   - "[[University-Industry Collaboration]]"
-  - "[[Document]]"
 related_theories:
   - "[[Triple Helix]]"
   - "[[Academic Capitalism]]"
@@ -71,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-27
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Entrepreneurial University
@@ -275,7 +274,7 @@ updated: 2026-10-12
 ## 相关研究
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
-> - [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall (2025b)]] — 系统论述创业型大学文化调适、组织重构与激励机制的代表性实证[[Document|文献]]。
+> - [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso & Hall (2025b)]] — 系统论述创业型大学文化调适、组织重构与激励机制的代表性实证文献。
 > - [[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison & Wilson (2025)]] — 详尽剖析[[University Spin-Out|大学衍生企业]]跨越早期转化鸿沟过程中概念验证基金与[[Entrepreneur in Residence|驻校企业家]]（[[Education Innovation and Research|EIR]]）[[Mentorship|导师制]]的实操文献。
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 记录 20 世纪 80 年代荷兰高教改革在面对财政紧缩时明确否决极端自由市场“企业家型大学”方案，转而探索维系公共任务与“间接[[Steering at a Distance|远距离操纵]]”体制的经典比较行政研究。
 > - [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017)]] — 深入剖析创业型大学与[[Academic Capitalism|学术资本主义]]在符号权力与排名指标盲区上的经典文献。

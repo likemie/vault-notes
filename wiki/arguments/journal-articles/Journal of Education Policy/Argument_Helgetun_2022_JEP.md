@@ -21,7 +21,6 @@ tags:
   - region/uk
 related_concepts:
   - "[[Research Utilization]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Discourse]]"
   - "[[Rationalized Myth]]"
   - "[[Evidence Era]]"
@@ -29,7 +28,6 @@ related_concepts:
   - "[[Policy-Based Evidence-Making]]"
   - "[[Champ]]"
   - "[[Epistemology]]"
-  - "[[Document]]"
   - "[[Policy Network]]"
   - "[[Initial Teacher Training]]"
   - "[[Paradigm]]"
@@ -39,7 +37,6 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Critique of Evidence-Based Education]]"
   - "[[Epistemological Coherence]]"
-  - "[[Hypothesis]]"
   - "[[Policy Brokerage]]"
   - "[[Doxa]]"
   - "[[Construct]]"
@@ -50,7 +47,6 @@ related_methods:
   - "[[Documentary Analysis]]"
   - "[[In-depth Interview]]"
   - "[[Triangulation]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Action Research]]"
   - "[[Qualitative Interview]]"
@@ -81,7 +77,7 @@ title: "Argument_Helgetun_2022_JEP"
 argument_key: "Argument_Helgetun_2022_JEP"
 argument_display_title: "From an age of measurement to an evidence era? Policy-making in teacher education in England"
 argument_kind: "journal-article"
-argument_related_count: 43
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -98,7 +94,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 2010 年英国保守党与自由民主党联合政府上台后，英格兰教师教育政策制定中的[[Research Utilization\|证据使用]]模式发生了何种根本性转变？不同形式的研究证据在政策过程中如何被各方行动者调动、[[Transfer Translation Transformation\|转译]]与重塑？新媒体与权力网络如何影响了政策的合法化机制？（pp. 88–89）
+> 2010 年英国保守党与自由民主党联合政府上台后，英格兰教师教育政策制定中的[[Research Utilization\|证据使用]]模式发生了何种根本性转变？不同形式的研究证据在政策过程中如何被各方行动者调动、转译与重塑？新媒体与权力网络如何影响了政策的合法化机制？（pp. 88–89）
 
 > [!claim] 核心主张
 > 英格兰教师教育政策[[Discourse|话语]]已从以审计与量化指标为中心的测量时代，演进为以证据作为主导性[[Rationalized Myth\|合理化神话]]的[[Evidence Era\|证据时代]]；然而，白皮书中激增的学术化引文与国际借用并未促成纯粹理性的科学决策，反而深嵌于[[New Public Management\|新公共管理]]（New Public Management, NPM）的适宜性逻辑中，演化为受政府把关支配的[[Policy-Based Evidence-Making\|基于政策的证据制造]]（Policy-Based Evidence-Making, PBEM）。（pp. 88, 90–94）
@@ -131,7 +127,7 @@ issuing_organization: ""
 > |---|---|
 > | **政策文献分析**<br>[[Documentary Analysis]] | 收集 1983 年[[Committee for the Accreditation of Teacher Education\|教师教育认证委员会]]（Council for the Accreditation of Teacher Education, CATE）首次提出至 2019 年间英格兰教师教育领域 46 份核心政策文件、白皮书与法定规程，使用 MAXQDA 质性分析软件进行引文溯源、词频检索与文体编码。 |
 > | **精英访谈**<br>[[Elite Interview]] | 针对 20 位具备深度内部准入资格的行动者（包括英国教育部高级公务员、部长外部顾问、智库负责人、教师专业团体领袖与大学学者）开展开放式[[In-depth Interview\|深度访谈]]。 |
-> | **循环三角互证**<br>[[Triangulation]] | 在经验资料、政策[[Document\|文献]]、理论框架与田野现实之间进行循环往复的比对检验，交叉验证正式政策叙述与幕后决策机制。（p. 91） |
+> | **循环三角互证**<br>[[Triangulation]] | 在经验资料、政策文献、理论框架与田野现实之间进行循环往复的比对检验，交叉验证正式政策叙述与幕后决策机制。（p. 91） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -140,7 +136,7 @@ issuing_organization: ""
 > | **访谈样本** | 20 位高层精英受访者（涵盖 A1 至 A20 编号的关键政策知情人、外部顾问及执行官员）。 |
 > | **材料情境** | 历时性追踪跨度达 36 年，深入捕捉新工党时期到保守党执政联盟时期的制度变迁脉络。（pp. 89–91） |
 
-> [!index-table]- 精英访谈受访者[[Coding in Qualitative Research\|编码]]与机构背景全貌
+> [!index-table]- 精英访谈受访者编码与机构背景全貌
 > | 受访者编号 | 职务与所属机构类别 | [[Policy Network\|政策网络]]位置与角色特征 |
 > |---|---|---|
 > | **A1** | [[Bertrand Russell\|罗素]]大学集团资深学者 | 批判性学者，曾就政策违规向官方提出严正抵制（p. 93） |
@@ -202,7 +198,7 @@ issuing_organization: ""
 
 > [!phase] 政策引文[[Paradigm\|范式]]的历史演化（1983–2010）
 > - **1983–2009 内部科层封闭期**
->   政策论据高度封闭，正当性依赖政府内部科层权威与视导体系。1983 年白皮书《教学质量》（DES 1983）全篇仅包含 7 条参考[[Document\|文献]]（全为内部督学报告与委员会文件）；1989 年第 24/89 号通令仅列 5 条引文，其余 40 余份核心政策文件均未附带明确参考文献。（p. 91）
+>   政策论据高度封闭，正当性依赖政府内部科层权威与视导体系。1983 年白皮书《教学质量》（DES 1983）全篇仅包含 7 条参考文献（全为内部督学报告与委员会文件）；1989 年第 24/89 号通令仅列 5 条引文，其余 40 余份核心政策文件均未附带明确参考文献。（p. 91）
 > - **2010 年后 实证合法化爆发期**
 >   2010 年白皮书[[The Importance of Teaching\|《教学的重要性》]]发生根本性转向，仅教师教育专属章节即密集引证 34 条文献，广泛吸纳学术期刊、商业咨询调研及国际组织报告，全面模仿实证科学论文规范。（pp. 91–92）
 
@@ -261,13 +257,13 @@ issuing_organization: ""
 ### 论证步骤三　非正式中介流通与官僚高流动率割裂了证据转化中的全流程认识论连贯性
 
 > [!claim] 步骤三核心主张
-> 公务员高流动率、政策网络分化以及社交媒体意见领袖的崛起，使证据流通高度依赖非正式人际网络与口口相传，导致学术研究在去语境化的[[Transfer Translation Transformation\|转译]]与引用中割裂了从构思到应用的[[Epistemological Coherence\|认识论连贯性]]，加剧了政策实践中的伪科学风险。（pp. 94–96）
+> 公务员高流动率、政策网络分化以及社交媒体意见领袖的崛起，使证据流通高度依赖非正式人际网络与口口相传，导致学术研究在去语境化的转译与引用中割裂了从构思到应用的[[Epistemological Coherence\|认识论连贯性]]，加剧了政策实践中的伪科学风险。（pp. 94–96）
 
 #### 1. 官僚频繁轮岗与新媒体意见领袖的口口相传加剧证据脱语境化与碎片化
 
 > [!chain-link] 证据流通过程中的认识论链条断裂
-> - **环节一：学术研究生产** 学者在严格的方法学限制、特定样本情境与认识论[[Hypothesis\|假设]]下生产局部有效的实证知识。
-> - **环节二：中介[[Transfer Translation Transformation\|转译]]与新媒体扩散** 活跃于社交网络与博客圈的极少数意见领袖及[[Policy Brokerage\|政策中介]]对研究进行脱语境化提炼，剔除关键前置条件。（pp. 94–95）
+> - **环节一：学术研究生产** 学者在严格的方法学限制、特定样本情境与认识论假设下生产局部有效的实证知识。
+> - **环节二：中介转译与新媒体扩散** 活跃于社交网络与博客圈的极少数意见领袖及[[Policy Brokerage\|政策中介]]对研究进行脱语境化提炼，剔除关键前置条件。（pp. 94–95）
 > - **环节三：官僚口口相传与工具化引用** 教育部官员在公务员频繁轮岗的背景下，未直接研读原著，仅凭中介口头推荐将结论写入政策。
 > - **环节四：实践指令异化** 复杂的教育科研最终被固化为缺乏因果严谨性与跨情境效度的机械操作清单。（p. 96）
 
@@ -291,7 +287,7 @@ issuing_organization: ""
 > 3. **中介网络与[[Epistemology\|认识论]]连贯性断裂** 证据流通过程高度依赖社交媒体与非正式人际网络，剥离了学术研究的方法学前提与适用边界，加剧了政策实践中的认识论风险。（pp. 95–96）
 
 > [!stat-cards]- 关键实证数据
-> - **46 份** 研究所分析的 1983 至 2019 年间英格兰教师教育核心政策[[Document\|文献]]总量。（p. 91）
+> - **46 份** 研究所分析的 1983 至 2019 年间英格兰教师教育核心政策文献总量。（p. 91）
 > - **20 位** [[In-depth Interview\|深度访谈]]的高级公务员、部长顾问、智库负责人及学术领袖样本数。
 > - **7 vs 34** 1983 年白皮书与 2010 年白皮书教师教育章节可溯源参考文献数量对比。（p. 92）
 > - **79 次** 2012 年下议院教育委员会报告中提及新加坡作为证据案例的频次。

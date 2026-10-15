@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -30,7 +30,6 @@ tags:
 related_concepts:
   - "[[Going Native]]"
   - "[[Evidence Standards]]"
-  - "[[Teaching Assistant]]"
   - "[[Response to Proven Instruction]]"
 related_theories:
   - "[[Radical Constructivism]]"
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Math Recovery
@@ -114,7 +113,7 @@ updated: 2026-09-17
 > [!finding-cards] 核心实证结论
 > - **稳健的标准化早期数学[[Effect Size\|效应量]]** 在史密斯等学者开展的严格多中心[[Randomised Controlled Trials\|随机对照试验]]中，接受辅导的一年级高危学生在标准化数学测验上取得了 1.24$ 的因果效应量，达 [[Every Student Succeeds Act\|ESSA]] Moderate 中等证据等级。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
 > - **认知策略质变优于机械答题速度** 质性临床评估与思维测试证实，学生在面对未见过的复杂数数情境时，依赖手指逐一数数的比例大幅下降，采用凑十与基准数心理表征的比例翻倍。
-> - **实施成本与师资培训门槛高** 相比[[Teaching Assistant\|助教]]辅导方案，Math Recovery 要求教师接受长期研修且实施极高成本的 1:1 辅导，更适合作为 Tier 3 针对最严重学困儿童的精准兜底手段。
+> - **实施成本与师资培训门槛高** 相比助教辅导方案，Math Recovery 要求教师接受长期研修且实施极高成本的 1:1 辅导，更适合作为 Tier 3 针对最严重学困儿童的精准兜底手段。
 
 > [!stat-cards]- 关键实证数据
 > - **+0.24** 随机对照试验测得的综合平均数学效应量（$），获 ESSA 中等证据评级。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
@@ -129,4 +128,4 @@ updated: 2026-09-17
 > - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 Math Recovery 列为初等数学 Tier 3 专业教师个别辅导的代表性方案。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，展示如何依托专业教师在 Tier 3 阶段实施高精度的个别化临床补救。
 > - [[Numbers Count]] — 英国针对小学一、二年级重度学困儿童的专业教师 1:1 数学方案，形成英美双璧。
-> - [[Catch Up Numeracy]] — 英国[[Teaching Assistant\|助教]]主导的 1:1 数学方案，呈现了非专业师资与专业教师方案在 Tier 3 递送上的机制对比。
+> - [[Catch Up Numeracy]] — 英国助教主导的 1:1 数学方案，呈现了非专业师资与专业教师方案在 Tier 3 递送上的机制对比。

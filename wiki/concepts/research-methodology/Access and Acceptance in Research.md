@@ -9,16 +9,15 @@ aliases:
 summary: "研究者进入研究场所前获得官方许可和参与者接纳的伦理与操作程序，涉及准入层级协商、守门人关系建立和研究意图透明披露"
 type: concept
 domain: "research-methodology"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - method/research-ethics
   - theme/research-procedure
 related_concepts:
   - "[[Informed Consent]]"
-  - "[[Hypothesis]]"
   - "[[Research Scope]]"
   - "[[Research Purpose]]"
   - "[[Gatekeepers]]"
@@ -35,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-18
-updated: 2026-06-19
+updated: 2026-10-15
 ---
 
 # Access and Acceptance in Research
@@ -99,7 +98,7 @@ updated: 2026-06-19
 > - **避免以特定派系盟友身份进入** 不要以有特殊利益要利用的个人或群体的盟友身份进入，而应以各方共同利益为出发点
 > - **寻求尽可能广泛的支持基础**
 > - **使用组织内已接受的沟通渠道** 如果信息限于单一通道，研究可能被与该通道相关的利益所同化
-> - **如果不想让潜在宿主和/或参与者了解太多具体[[Hypothesis\|假设]]和目标** 在较一般层面提供明确声明，附一两例非关键性例子
+> - **如果不想让潜在宿主和/或参与者了解太多具体假设和目标** 在较一般层面提供明确声明，附一两例非关键性例子
 
 > [!warning] 研究者在准入阶段的风险
 > - 信息可能需要在合理范围内保留——完全公开可能导致结果偏差（如研究群体压力对从众的影响不能提前公布意图）
@@ -122,7 +121,7 @@ updated: 2026-06-19
 > 7. **准备一份意图和条件的书面大纲交给参与者**——即使你解释了[[Research Purpose\|研究目的]]、条件和保证，参与者可能会忘记
 > 8. **对[[Research Purpose\|研究目的]]和研究条件诚实**——如果说访谈持续十分钟，结果持续了一小时，你就失信了
 > 9. **记住同意协助的人是帮你的忙**——确保按时完好归还文件和书籍；无论多忙都应发感谢信
-> 10. **永远不要[[Hypothesis\|假设]]"会没事的"**——准入谈判是研究中的重要阶段；如果你是内部研究者，你必须与自己的错误共存
+> 10. **永远不要假设"会没事的"**——准入谈判是研究中的重要阶段；如果你是内部研究者，你必须与自己的错误共存
 
 ---
 

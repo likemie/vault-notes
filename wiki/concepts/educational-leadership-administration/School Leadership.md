@@ -6,7 +6,7 @@ aliases:
 summary: "围绕学校方向设定、人员发展、组织改进与信任建立展开的教育实践，在证据知情视域下依托榜样示范与制度化排程促成高质量研究使用与学校变革。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 44
+related_count: 41
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -23,8 +23,6 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Professional Learning Community]]"
   - "[[Evidence-Based School Development]]"
-  - "[[Hypothesis]]"
-  - "[[Habitus]]"
   - "[[School Autonomy]]"
   - "[[Champ]]"
   - "[[Institutional Displacement]]"
@@ -56,7 +54,6 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[In-depth Interview]]"
   - "[[Case Study]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
   - "[[Analysis of Variance]]"
 related_persons:
@@ -68,7 +65,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-10-11
+updated: 2026-10-15
 ---
 
 # School Leadership
@@ -147,7 +144,7 @@ updated: 2026-10-11
 ### 命题一　学校领导力深嵌于微观社会情境与宏观权力结构之中，不存在脱离情境的通用卓越处方
 
 > [!concept-lens] 情境特异性与权力结构嵌入
-> 批判将学校领导力抽象为普适商业管理技术的流行[[Hypothesis\|假设]]，阐明具体社会文化背景与权力关系对领导实践的决定性塑造。
+> 批判将学校领导力抽象为普适商业管理技术的流行假设，阐明具体社会文化背景与权力关系对领导实践的决定性塑造。
 
 > [!claim] Møller; Eacott
 > **情境嵌入机制** 成功的学校领导力在本质上是高度情境化的，任何试图提炼脱离本土语境的通用成功公式的努力都是徒劳的。乔伦·莫勒（[[Jorunn Møller]]）与斯科特·埃科特（[[Scott Eacott]]）基于国际成功学校校长项目（ISSPP）跨国案例指出，同样是设定方向或改进组织，在社会经济处境不利、种族文化多元的薄弱学校与在资源充沛的同质化精英学校中，面临截然不同的制度阻力与伦理权衡。领导力不仅是对校内人际的沟通协调，更时刻受到外部政治问责体制与宏观教育资本分配格局的深层规制。[[Argument_Møller_2017_EERJ\|(Møller, 2017, pp. 376–381)]]；[[Argument_Eacott_2011_JEAH\|(Eacott, 2011, pp. 45–49)]]
@@ -156,7 +153,7 @@ updated: 2026-10-11
 
 ### 命题二　市场化自主权与新公共管理绩效主义将校长撕裂于教育育人与企业化交付的制度陷阱
 
-> [!concept-lens] [[New Public Management\|新公共管理]]与校长双重[[Habitus\|习性]]绑定
+> [!concept-lens] [[New Public Management\|新公共管理]]与校长双重习性绑定
 > 揭示市场化[[School Autonomy\|学校自主权]]改革如何将校长重构为国家外包政策的交付者，剖析企业家压力对教育伦理的结构性侵蚀。
 
 > [!claim] Eacott; Keddie et al.
@@ -202,7 +199,7 @@ updated: 2026-10-11
 > - **20 世纪中叶 — 特质论与伟人领导力模型** 侧重研究优秀校长的个人心理特质与行政权威，预设卓越领导者具有先天的超凡个人魅力。
 > - **1980s–1990s — 教学领导与变革型领导兴起** 随着有效学校运动推进，领导力重心转向指导课堂教学（[[Instructional Leadership]]）以及激发教工组织承诺（Transformational Leadership）。
 > - **2000s — ISSPP 跨国项目与分布式领导转向** [[OECD\|经合组织]]（OECD）启动改进学校领导力项目（ISL），国际成功学校校长项目（ISSPP）在 20 多个国家展开长期追踪，确立领导力的情境特异性与分布式领导（Distributed Leadership）共识。[[Argument_Møller_2017_EERJ\|(Møller, 2017, pp. 376–380)]]
-> - **2010s — [[Critical Policy Analysis|批判性政策研究]]与管理主义反思** 学界运用[[Critical Theory\|批判理论]]与[[Pierre Bourdieu\|布迪厄]][[Champ\|场域]]视角，深刻反思[[New Public Management\|新公共管理]]（NPM）对校长职业身份的扭曲，倡导将教育问题提出与争辩作为替代性领导[[Habitus\|习性]]。[[Argument_Eacott_2011_JEAH\|(Eacott, 2011, pp. 45–58)]]
+> - **2010s — [[Critical Policy Analysis|批判性政策研究]]与管理主义反思** 学界运用[[Critical Theory\|批判理论]]与[[Pierre Bourdieu\|布迪厄]][[Champ\|场域]]视角，深刻反思[[New Public Management\|新公共管理]]（NPM）对校长职业身份的扭曲，倡导将教育问题提出与争辩作为替代性领导习性。[[Argument_Eacott_2011_JEAH\|(Eacott, 2011, pp. 45–58)]]
 > - **2010s 至今 — 德语区产出导向与校长角色转型** 随着国家教育标准与数据监测体系确立，欧陆中小学校长逐步打破兼课教师传统，在路径自主架构下转型为以教学诊断和质量保障为核心的教育企业管理者。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, pp. 19–21, 30–33)]]
 > - **2020s — [[Evidence-Informed Practice\|证据知情实践]]中的组织使能重塑** 莫纳什大学 Q 项目在[[Quality Use of Research Evidence Framework\|高质量研究证据使用框架]]（QURE）中，将榜样型领导力与制度化排程确立为促进循证实践的组织使能支柱，完成从行政管辖向循证培育的[[Paradigm\|范式]]跃升。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022, pp. 187–192)]]
 
@@ -225,7 +222,7 @@ updated: 2026-10-11
 > > 在市场驱动的[[School Autonomy\|学校自主权]]体制下，校长面临成为自负盈亏企业家的巨大压力，往往导致办学目标向争夺优势生源倾斜，损害了面向边缘群体的教育公平。
 
 > [!critique] 外部制度审视
-> - **校长职业[[Habitus\|习性]]的撕裂** 埃科特（Eacott）指出，校长必须同时在教育育人、行政问责与市场竞争三个冲突[[Champ\|场域]]中行动，导致其专业习性陷入深层自我分裂。[[Argument_Eacott_2011_JEAH\|(Eacott, 2011, pp. 49–51)]]
+> - **校长职业习性的撕裂** 埃科特（Eacott）指出，校长必须同时在教育育人、行政问责与市场竞争三个冲突[[Champ\|场域]]中行动，导致其专业习性陷入深层自我分裂。[[Argument_Eacott_2011_JEAH\|(Eacott, 2011, pp. 49–51)]]
 
 > [!warning] 适用局限
 > - **校长工作量激增与身心健康危机** 澳大利亚调查显示，过度问责与企业化压力导致校长群体普遍遭受严重身心损耗；在弱势偏远地区甚至出现高达 25 万澳元年薪仍无人应聘的招聘危机，造成优质师资资源在区域间严重倒挂。(Keddie et al., 2020, pp. 439–440)
@@ -251,7 +248,7 @@ updated: 2026-10-11
 > |---|---|---|---|---|---|---|---|
 > | [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022)]] | 澳大利亚 4 州中小学 906 名教育者（两轮[[Questionnaire\|问卷]]）与 29 名访谈受访者 | 两轮标准化李克特问卷调查与[[In-depth Interview\|深度访谈]]主题分析 | 领导力在[[Research Utilization\|研究使用]]中的使能权重、言行示范认可度与互信文化诉求 | 89% 访谈与 72% 问卷认同领导力为核心驱动力；84% 管理者与 73% 教师认同领导必须言行一致示范转化；82% 视师资与领导互信为关键促成条件；领导支持显著提升常规使用概率 | $p < .05$（Fisher 精确检验显著） | 基于澳大利亚基础教育从业者主观经验自陈，证实了领导力示范在证据利用组织生态中的首要地位 |
 > | [[Argument_Møller_2017_EERJ\|Møller (2017)]] | 20+ 个国家参与的国际成功学校校长项目（ISSPP）多样本 | 跨国质性多[[Case Study\|案例研究]]与叙事综合 | 成功学校校长的跨情境基本实践特征与伦理取向 | 提炼出设定方向、发展人员、组织改进、建立信任与安全环境 5 项基本实践；共同展现强烈的伦理关怀与社会正义承诺 | — | 案例高度依赖校长自我报告，需审慎防范个人英雄故事的方法学偏误 |
-> | Keddie et al. (2020) | 澳大利亚 42 位教育利益相关者（校长、教师工会、教育部官员） | 质性半结构化深度访谈与主题[[Coding in Qualitative Research\|编码]]分析 | 市场驱动[[School Autonomy\|学校自主权]]改革对校长工作性质、伦理实践与身心健康的冲击 | 普遍报告预算裁量缺乏透明度导致公平资金被挪用；校长陷入自利竞争的企业家压力；偏远弱势校面临极端招聘困难（25 万澳元年薪无人问津） | — | 质性揭示市场化自主权改革在特定联邦分权体制下的病态衍生后果 |
+> | Keddie et al. (2020) | 澳大利亚 42 位教育利益相关者（校长、教师工会、教育部官员） | 质性半结构化深度访谈与主题编码分析 | 市场驱动[[School Autonomy\|学校自主权]]改革对校长工作性质、伦理实践与身心健康的冲击 | 普遍报告预算裁量缺乏透明度导致公平资金被挪用；校长陷入自利竞争的企业家压力；偏远弱势校面临极端招聘困难（25 万澳元年薪无人问津） | — | 质性揭示市场化自主权改革在特定联邦分权体制下的病态衍生后果 |
 
 ---
 
@@ -261,4 +258,4 @@ updated: 2026-10-11
 > - [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] — 针对奥地利 362 名中小学校长开展聚类与[[Analysis of Variance\|方差分析]]，证实认同产出导向与[[Output-Oriented Governance\|循证治理]]的校长显著缩减课堂兼课时间，将更多工时投向教学观摩、质量评估与教研对话，重构为教育企业管理者的专业身份。
 > - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022)]] — 结合[[Monash Q Project\|莫纳什 Q 项目]]全澳实证调查，系统论证榜样型领导示范与制度化排程是打破教师防卫、促进高质量研究[[Research Utilization\|证据使用]]的首要组织杠杆。
 > - [[Argument_Møller_2017_EERJ\|Møller (2017)]] — 评述跨国成功学校校长项目（ISSPP），阐释领导力的情境特异性，并从[[Transformative Leadership\|变革型领导力]]与批判政策视角反思个人英雄主义偏差。
-> - [[Argument_Eacott_2011_JEAH\|Eacott (2011)]] — 运用[[Pierre Bourdieu\|布迪厄]][[Champ\|场域]]与[[Habitus\|习性]]理论，深入剖析新南威尔士州校长培养方案的管理主义 [[Doxa]]，提出走向教育问题争辩的替代性领导习性。
+> - [[Argument_Eacott_2011_JEAH\|Eacott (2011)]] — 运用[[Pierre Bourdieu\|布迪厄]][[Champ\|场域]]与习性理论，深入剖析新南威尔士州校长培养方案的管理主义 [[Doxa]]，提出走向教育问题争辩的替代性领导习性。

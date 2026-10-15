@@ -8,7 +8,7 @@ aliases:
 summary: "跨伦理哲学、教育学与研究方法论的双重概念：在亚里士多德伦理学中指通过重复实践形成德性与服从习惯；在观察研究中指通过长期驻留消除参与者反应性的策略。"
 type: concept
 domain: "sociology-of-education"
-related_count: 17
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,10 +20,8 @@ tags:
   - method/observation
 related_concepts:
   - "[[Informed Consent]]"
-  - "[[Hypothesis]]"
   - "[[Presence]]"
   - "[[Covert Research]]"
-  - "[[Habitus]]"
   - "[[Praxis]]"
   - "[[Critical Pedagogy]]"
   - "[[Active Learning]]"
@@ -45,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-24
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Habituation
@@ -79,7 +77,7 @@ updated: 2026-09-22
 > - **实践先行于理知（Action preceding Understanding）**
 >   道德德性并非起源于纯理论讲授，而是在青年时期通过重复合乎德性的行为形成肌肉记忆与心理倾向 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 4)]]。
 > - **权威日程的依循（Adherence to External Agenda）**
->   习惯化[[Hypothesis\|假设]]社会权威（如教育行政部门、学校董事会或教师）预先设定好学生应当习得的规范，学生通过重复行为适应既有日程，通常无需质疑系统本身的合法性 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 4–5)]]。
+>   习惯化假设社会权威（如教育行政部门、学校董事会或教师）预先设定好学生应当习得的规范，学生通过重复行为适应既有日程，通常无需质疑系统本身的合法性 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 4–5)]]。
 
 ---
 
@@ -100,7 +98,7 @@ updated: 2026-09-22
 > [!contrast-table] 习惯化在两大语境下的维度对比
 > | 维度 | 德性伦理与教育哲学（[[Aristotle\|亚里士多德]]） | [[Qualitative Observation\|质性观察]]研究方法论（Cohen et al.） |
 > |------|--------------------------------|----------------------------------|
-> | **核心目标** | 培养道德[[Habitus\|习性]]、社会秩序与知性德性 | 消除参与者警惕感，恢复自然真实行为 |
+> | **核心目标** | 培养道德习性、社会秩序与知性德性 | 消除参与者警惕感，恢复自然真实行为 |
 > | **动因** | 外部权威设定与自我重复[[Praxis\|实践]] | 时间累积带来的心理适应与新奇感消退 |
 > | **批判／挑战** | 被[[John Dewey\|杜威]]与[[Paulo Freire\|弗莱雷]]批判易导向被动服从与阶层固化 | 需要较高的现场时间成本，且无法保证完全习惯化 |
 

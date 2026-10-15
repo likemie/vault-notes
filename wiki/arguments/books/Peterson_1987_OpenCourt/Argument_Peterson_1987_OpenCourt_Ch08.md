@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch08"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch08"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch08"
 argument_kind: "book-chapter"
-argument_related_count: 26
+argument_related_count: 24
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -31,14 +31,12 @@ related_concepts:
   - "[[Whole Person Education]]"
   - "[[General Education]]"
   - "[[Terminal Courses]]"
-  - "[[Hypothesis]]"
   - "[[School Choice]]"
   - "[[International Schools]]"
   - "[[Creativity, Action, Service]]"
   - "[[Experiential Learning]]"
 related_persons:
   - "[[Desmond Hoare]]"
-  - "[[Peter A. Hall]]"
   - "[[Louis Mountbatten]]"
   - "[[Plato]]"
 related_facts:
@@ -196,7 +194,7 @@ updated: 2026-10-08
 > [!assumptions] 逃避不确定性的心理解释尚未获证实
 > 暴力分离主义被猜测为逃避现实复杂性的渠道：权衡价值、承认矛盾与不确定性带来压力，完全献身某种事业则可以把行动简化为目的正当化手段。爱国战争过去可能承担这一功能，当战争不再可行时，暴力分离主义是否成为替代途径仍未得到证明。（p. 198）
 
-对这一心理解释的保留，并不妨碍提出阶段安排；不过安排本身仍需作为教学[[Hypothesis|假设]]理解。
+对这一心理解释的保留，并不妨碍提出阶段安排；不过安排本身仍需作为教学假设理解。
 
 > [!phase] 归属教育的阶段安排
 >
@@ -210,7 +208,7 @@ updated: 2026-10-08
 >
 > - **青春期后期主要开展国际教育**
 >
->   IB 与 UWC 的学生年龄安排以此为工作[[Hypothesis|假设]]。是否插入双文化教育阶段，取决于具体环境。（p. 199）
+>   IB 与 UWC 的学生年龄安排以此为工作假设。是否插入双文化教育阶段，取决于具体环境。（p. 199）
 
 这种区分为爱国教育与国际理解相容提供理由，尚没有直接解决灌输与教育的全部判准。阶段安排也未被报告为经验证实的年龄规律。
 
@@ -450,7 +448,7 @@ UWC 扩张同时涉及学校模型与资助规则。吸收已有学校可以降�
 这类冲突在加拿大承诺的解释及其他国家的资助惯例中具体展开。
 
 > [!case] 全额奖学金与收入审查发生冲突的具体路径
-> **目标变化** [[Peter A. Hall|霍尔]]与[[Louis Mountbatten|路易斯·蒙巴顿]]（Louis Mountbatten）希望70%奖学金生与30%缴费生并存，并保证按优点选中的学生不因缺钱无法入学。约翰·尼科尔（John Nicol）向加拿大参议院作出的100%奖学金承诺，后来同时被理解为人人受助及每人两年全部费用受助，大西洋和亚得里亚海书院也采用这一政策。
+> **目标变化** 霍尔与[[Louis Mountbatten|路易斯·蒙巴顿]]（Louis Mountbatten）希望70%奖学金生与30%缴费生并存，并保证按优点选中的学生不因缺钱无法入学。约翰·尼科尔（John Nicol）向加拿大参议院作出的100%奖学金承诺，后来同时被理解为人人受助及每人两年全部费用受助，大西洋和亚得里亚海书院也采用这一政策。
 >
 > **公共资助的反例** 联邦德国的 Studienstiftung、挪威地方当局与英国地方教育当局把奖学金置于资助较贫困家庭的公共体系内，金额按家庭能力计算。对富裕家庭同样支付全部学费住宿费，与这一原则冲突。
 >

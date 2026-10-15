@@ -11,7 +11,7 @@ summary: "Campbell & Fiske (1959) 提出的经典测量效度检验矩阵，通�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 23
+method_related_count: 22
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -34,7 +34,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[Variable]]"
   - "[[Reliability]]"
-  - "[[Hypothesis]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
@@ -187,7 +186,7 @@ updated: 2026-10-15
 
 > [!method-limits] 方法局限
 > - **对角线启发式判别的主观性** 传统 Campbell-Fiske 相关比较缺乏严格的概率推断检验，容易在临界值处产生裁量分歧（已被现代 [[Confirmatory Factor Analysis\|CFA]] [[Causal Modeling\|结构方程建模]]部分弥补）。
-> - **方法独立性[[Hypothesis\|假设]]难以满足** 在社会科学现场中，很难找到在测量介质、刺激形态与施测情境上完全相互正交的“纯粹独立方法”。
+> - **方法独立性假设难以满足** 在社会科学现场中，很难找到在测量介质、刺激形态与施测情境上完全相互正交的“纯粹独立方法”。
 > - **CFA 模型不收敛与非正定解（Heywood Cases）** 在复杂 MTMM 结构方程中，由于特征值过小或方法因子共线性，经常出现负误差方差或模型无法迭代收敛。
 
 ---

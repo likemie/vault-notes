@@ -8,7 +8,7 @@ aliases:
 summary: "个体在目标导向活动中主动调节注意、情绪与冲动反应以实现长远目标的非认知心理能力。在学习科学中，它构成了元认知调节与社会情感能力的底层基础，表现为反应抑制、情绪稳定与任务切换，对学业持久性与课堂适应具有关键支撑作用。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 45
+related_count: 44
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -48,7 +48,6 @@ related_concepts:
   - "[[Structured Teaching]]"
   - "[[Dependent Variable]]"
   - "[[Variable]]"
-  - "[[Document]]"
   - "[[Student Engagement]]"
   - "[[Learning-Impeding Behavior]]"
   - "[[Discipline-Based Theory]]"
@@ -74,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-06'
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Self-control
@@ -273,7 +272,7 @@ updated: 2026-10-08
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021, p. 54)]]; Wigelsworth (2017) | 英国中小学与早期教育非学业素养测评[[Document\|文献]]库 | [[Systematic Review\|系统综述]]与测量工具数据库摸排 | 自我控制（Self-control）与韧性（Resilience）测评工具的心理测量学指标 | 现有非学业测量工具普遍缺乏高标准效度验证；[[Predictive Validity\|预测效度]]多呈中等；亟须编制统一标准化测量工具库 | — | 宏观系统综述，确证非认知素养评估中的心理测量学效度赤字与开发标准数据库的制度必要性 |
+> | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021, p. 54)]]; Wigelsworth (2017) | 英国中小学与早期教育非学业素养测评文献库 | [[Systematic Review\|系统综述]]与测量工具数据库摸排 | 自我控制（Self-control）与韧性（Resilience）测评工具的心理测量学指标 | 现有非学业测量工具普遍缺乏高标准效度验证；[[Predictive Validity\|预测效度]]多呈中等；亟须编制统一标准化测量工具库 | — | 宏观系统综述，确证非认知素养评估中的心理测量学效度赤字与开发标准数据库的制度必要性 |
 
 ---
 

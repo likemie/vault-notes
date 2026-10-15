@@ -9,7 +9,7 @@ aliases:
 summary: "比较政治经济学与批判政策社会学核心概念，既指发达资本主义社会中有组织集体规制向竞争性自由市场逻辑开放的去组织化与风险个体化进程（施特雷克与希伦，2005），也是超国家组织蓄意推进的意识形态工程，通过将全球化本体化与物化以掩蔽意义政治，强行驱动公共部门与教育系统服从全球市场规律（里兹维与林加德，2009；布迪厄，2003）。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 22
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Determinism]]"
   - "[[Performativity]]"
-  - "[[Hypothesis]]"
   - "[[Institutional Drift]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Washington Consensus]]"
@@ -131,7 +130,7 @@ updated: 2026-10-15
 > 探讨发达工业国家战后体制转型的主导历史逻辑，界定自由化改革的阶级属性与政治实质。
 
 > [!claim] [[Wolfgang Streeck|Streeck, W.]] & [[Kathleen Thelen|Thelen, K.]]
-> **自由化作为有组织资本主义的系统性解构** 施特雷克与希伦指出，当代发达政治经济学所经历的绝非中性的技术微调，而是一场深刻的自由化重塑。无论是[[Varieties of Capitalism|自由市场经济]]还是协调市场经济，都在以不同速率经历“去组织化”（Disorganization）。面对资本全球化与利润空间压缩，工会势力的削弱与雇主对弹性的诉求，瓦解了战后将资本流动性嵌入于社会妥协之中的制度基础。自由化是对战后民主资本主义社会整合[[Hypothesis|假设]]的根本解耦，其推进深刻重塑了国家的分配版图。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 3–5)]]
+> **自由化作为有组织资本主义的系统性解构** 施特雷克与希伦指出，当代发达政治经济学所经历的绝非中性的技术微调，而是一场深刻的自由化重塑。无论是[[Varieties of Capitalism|自由市场经济]]还是协调市场经济，都在以不同速率经历“去组织化”（Disorganization）。面对资本全球化与利润空间压缩，工会势力的削弱与雇主对弹性的诉求，瓦解了战后将资本流动性嵌入于社会妥协之中的制度基础。自由化是对战后民主资本主义社会整合假设的根本解耦，其推进深刻重塑了国家的分配版图。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 3–5)]]
 
 ---
 

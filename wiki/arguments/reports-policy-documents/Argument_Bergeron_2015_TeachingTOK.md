@@ -39,7 +39,6 @@ related_concepts:
   - "[[Areas of Knowledge]]"
   - "[[Discourse]]"
   - "[[Geisteswissenschaften]]"
-  - "[[Hypothesis]]"
   - "[[Feedback]]"
   - "[[Examination-Oriented Education]]"
   - "[[Class Size]]"
@@ -54,7 +53,6 @@ related_methods:
   - "[[Explanatory Sequential Design]]"
   - "[[Questionnaire]]"
   - "[[Exploratory Factor Analysis]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Interview]]"
 related_instruments:
   - "[[Confidence Teaching TOK Scale]]"
@@ -78,7 +76,7 @@ title: "Argument_Bergeron_2015_TeachingTOK"
 argument_key: "Argument_Bergeron_2015_TeachingTOK"
 argument_display_title: "Teaching the Theory of Knowledge course in IB World Schools"
 argument_kind: "report"
-argument_related_count: 41
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dcfce7"
@@ -198,14 +196,14 @@ issuing_organization: "International Baccalaureate Organization"
 > |---|---|---|---|
 > | 建立对个体和群体如何构建、批判性审视与更新知识的认识 | 753 | 1.80 | 1.28 |
 > | 帮助学生在学术门类之间、以及思想、情感和行动之间建立联系 | 746 | 2.90 | 1.18 |
-> | 帮助学生建立对个人和意识形态[[Hypothesis\|假设]]的认识 | 745 | 3.01 | 1.21 |
+> | 帮助学生建立对个人和意识形态假设的认识 | 745 | 3.01 | 1.21 |
 > | 鼓励学生反思他们在学校和日常生活中的经历 | 747 | 3.24 | 1.24 |
 > | 为学生进一步的学习做准备 | 738 | 4.33 | 1.20 |
 
 ---
 
 > [!success] 学生益处 重塑认知方式与溢出效应
-> 在**学生益处**方面，“批判性地评估知识”（Mean=1.76）和“识别并反思个人[[Hypothesis\|假设]]”（Mean=2.57）居首（表17）。质性数据进一步印证了这一点：学生不再全盘盲目接受单一信息来源，而是主动探寻不同视角，并学会处理争议。
+> 在**学生益处**方面，“批判性地评估知识”（Mean=1.76）和“识别并反思个人假设”（Mean=2.57）居首（表17）。质性数据进一步印证了这一点：学生不再全盘盲目接受单一信息来源，而是主动探寻不同视角，并学会处理争议。
 
 > [!ref-table]- 表17 主要学生益处排序
 > | 益处 | N | 均值 | SD |
@@ -216,7 +214,7 @@ issuing_organization: "International Baccalaureate Organization"
 > | 学生更能识别并反思意识形态假设 | 737 | 3.05 | 0.92 |
 
 > [!ref-table]- 表5 溢出效应反馈频率
-> | 领域 | [[Coding in Qualitative Research\|编码]]（Code） | 频率 |
+> | 领域 | 编码（Code） | 频率 |
 > |------|-------------|------|
 > | **其他 IBDP 科目** | 批判性思维（critical thinking） | 441 |
 > | | 关联内容（connect to content） | 439 |

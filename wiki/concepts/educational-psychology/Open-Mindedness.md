@@ -9,10 +9,10 @@ aliases:
 summary: "指认识主体在求真与理解等认识论动机驱动下，能够敏锐产生并公允审视替代性视角、依据新事实反思并修正自身信念的稳定理智美德。"
 type: concept
 domain: "educational-psychology"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - educational-psychology
   - virtue-epistemology
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Value Neutrality]]"
   - "[[Epistemic Virtues and Vices]]"
-  - "[[Teaching Assistant]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Humility]]"
   - "[[Brainstorming]]"
@@ -49,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-23
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Open-Mindedness
@@ -63,7 +62,7 @@ updated: 2026-10-07
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向认识主体克服信念固着、自我辩护与确认偏差，以求真为导向向异见和新事实保持理智开放的品格特质。
-> - **用途** 帮[[Teaching Assistant|助教]]育哲学与学习科学研究者突破单纯灌输多元观点表象的技巧化训练，解释为何掌握批判性质疑技能的学生在现实辩论中仍可能固执己见，为通过[[Man-Computer Symbiosis|人机协同]]和叙事引导培育深层品格提供规范依据。
+> - **用途** 帮助教育哲学与学习科学研究者突破单纯灌输多元观点表象的技巧化训练，解释为何掌握批判性质疑技能的学生在现实辩论中仍可能固执己见，为通过[[Man-Computer Symbiosis|人机协同]]和叙事引导培育深层品格提供规范依据。
 > - **边界** 思想开放不等于相对主义（认为所有观点等价正确）或毫无立场的轻信盲从；它要求主体基于证据质量进行理智审裁，核心在于公允对待异见，而非无条件接纳错误信念。
 
 > [!citation-card] 思想开放的德性责任论内涵与动机本质

@@ -8,7 +8,7 @@ aliases:
 summary: "指使命导向创新政策中摒弃针对个别企业直接补贴的挑选赢家旧模式，转为以重大社会挑战为导向、依托公共动态能力在全经济范围内遴选激励具备转型意愿与协同攻关承诺跨界主体的引领与学习治理机制"
 type: concept
 domain: "science-policy"
-related_count: 25
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Open-Mindedness]]"
   - "[[Technology Readiness Level]]"
   - "[[Agile Governance]]"
-  - "[[Document]]"
   - "[[Cognitive Deskilling]]"
   - "[[Market Shaping and Creating]]"
   - "[[Public Value]]"
@@ -51,7 +50,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Picking the Willing
@@ -168,7 +167,7 @@ updated: 2026-10-12
 ### 命题总览
 
 > [!contrast-table] 命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者与[[Document\|文献]] |
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
 > | **寻租阻断命题** | 将选择靶向从特定企业转向社会使命，阻断利益集团游说俘获 | 现代产业战略重构、反腐败规制与垂直干预机制设计 | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]]; Buchanan (2003) |
 > | **产业倒逼命题** | 以刚性绿色使命对传统高耗能重工业施加倒逼与转型支持 | 钢铁建材化工脱碳、传统制造绿色化与循环经济改造 | [[Mariana Mazzucato\|马祖卡托（绿色转型理论）]] |
@@ -235,4 +234,4 @@ updated: 2026-10-12
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 论证公共部门如何依托国家、政策与行政三层动态能力及引领学习[[Paradigm|范式]]，实现对跨界意愿者的敏捷协同与共创管理。
-> - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 奠定挑选意愿者概念内涵、四大治理支柱与防范传统产业政策寻租俘获的核心[[Document|文献]]。
+> - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 奠定挑选意愿者概念内涵、四大治理支柱与防范传统产业政策寻租俘获的核心文献。

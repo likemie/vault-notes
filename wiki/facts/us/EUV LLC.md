@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 25
+fact_related_count: 24
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Precompetitive Research]]"
   - "[[Cooperative Research and Development Agreement]]"
   - "[[Paradigm]]"
-  - "[[Attrition]]"
   - "[[Megascience Installations]]"
   - "[[Focused Research Organization]]"
   - "[[Agile Governance]]"
@@ -57,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # EUV LLC
@@ -113,7 +112,7 @@ updated: 2026-10-08
 > - **150+ 项核心基础专利池** 在极紫外光源收集、无缺陷反射掩模基板、抗蚀剂化学放大与干涉计量领域沉淀了超过 150 项关键专利。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 44)]]
 
 > [!citation-card] [[Michael Kratsios|克拉齐奥斯]]论极紫外联合体的攻坚[[Paradigm|范式]]与战略外溢教训
-> 极紫外有限责任公司（EUV LLC）是联邦政府统筹共性风险、组织前竞争攻坚的典范：它联合三大能源部国家实验室与半导体领军企业，攻克了等离子体物理与精密光学的极限瓶颈，为现代半导体制造的基石铺平了道路。然而，这一历史案例同样揭示了残酷的教训——尽管核心科学与原型起源于美国公共资助，但由于本土整机制造能力的缺失，最终的市场主导权被欧洲公司接管。科学发现若脱离本土制造承接，战略红利将不可避免地[[Attrition|流失]]。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 10, 44–45)]]
+> 极紫外有限责任公司（EUV LLC）是联邦政府统筹共性风险、组织前竞争攻坚的典范：它联合三大能源部国家实验室与半导体领军企业，攻克了等离子体物理与精密光学的极限瓶颈，为现代半导体制造的基石铺平了道路。然而，这一历史案例同样揭示了残酷的教训——尽管核心科学与原型起源于美国公共资助，但由于本土整机制造能力的缺失，最终的市场主导权被欧洲公司接管。科学发现若脱离本土制造承接，战略红利将不可避免地流失。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 10, 44–45)]]
 >
 > *EUV LLC tackled plasma physics and precision optics that no single firm could manage... Yet policy allowed commercial leadership to be captured by a European firm. Scientific discovery without domestic manufacturing anchors means the strategic benefits will inevitably dissipate.*
 
@@ -128,7 +127,7 @@ updated: 2026-10-08
 
 > [!threat] 战略反思：研发与制造脱节引发的红利外溢
 > - **本土光刻制造产业链萎缩** 在 EUV LLC 完成原型验证后，由于美国缺乏具有持续规模资本开支与精密机电集成能力的本土整机制造厂商，SVG 光刻部门最终于 2001 年被荷兰 ASML 收购。
-> - **[[Process Knowledge|过程知识]]与供应链集群[[Attrition|流失]]** 随着商业化制造中心向欧洲（ASML、蔡司）及东亚代工厂迁移，整机调试、产线调优等大量默会[[Process Knowledge|过程知识]]在本土中断。
+> - **[[Process Knowledge|过程知识]]与供应链集群流失** 随着商业化制造中心向欧洲（ASML、蔡司）及东亚代工厂迁移，整机调试、产线调优等大量默会[[Process Knowledge|过程知识]]在本土中断。
 > - **2026 年国家科技新政的核心警示** [[Michael Kratsios|克拉齐奥斯]]在 2026 年报告中将 EUV LLC 与先进锂电池并列为“单向开放导致战略外溢”的头号案例，据此提出未来所有联邦支持的前竞争联合体必须**深度绑定本土中试平台、[[Apprenticeship|学徒制]]技能与制造供应链承接**，坚决防止科技战略资产流失。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 10, 44–45)]]
 
 ---
@@ -141,7 +140,7 @@ updated: 2026-10-08
 > |:-----|:-----|:-----|
 > | [[Precompetitive Research]] | Concept | EUV LLC 是处理全行业共性高风险工程瓶颈的前竞争研发联合体典型代表。 |
 > | [[Pasteur's Quadrant]] | Concept | 联合体兼具微观光学/等离子体物理机理探索与明确的芯片制造应用指向。 |
-> | [[Process Knowledge]] | Concept | EUV LLC 历史教训表明，脱离本土制造工艺与过程知识将导致关键产业红利[[Attrition\|流失]]。 |
+> | [[Process Knowledge]] | Concept | EUV LLC 历史教训表明，脱离本土制造工艺与过程知识将导致关键产业红利流失。 |
 > | [[Sematech]] | Fact (Organization) | 1987 年设立的半导体制造联盟，EUV LLC 是其机制在极紫外时代的重要继承与演进。 |
 > | [[Department of Energy]] | Fact (Organization) | 联合体的核心公共科研伙伴，旗下三大国家实验室提供了决定性的物理与工程研发支撑。 |
 > | [[DARPA]] | Fact (Organization) | 早期资助极紫外概念探索与先进光刻研究的关键联邦国防机构。 |

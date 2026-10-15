@@ -4,14 +4,13 @@ aliases: [客观主义, objectivist approach, objectivist paradigm]
 summary: "研究社会现实的客观主义取向，持实在论本体论和实证主义认识论，将社会世界视为外在于个体的客观实在，以发现普遍法则为研究目标。"
 type: concept
 domain: "educational-philosophy"
-related_count: 9
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
 tags: [paradigm/positivist, theme/epistemology, theme/research-philosophy]
 related_concepts:
   - "[[Nomothetic]]"
-  - "[[Hypothesis]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
@@ -27,7 +26,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-09-11
+updated: 2026-10-15
 ---
 
 # Objectivism
@@ -40,7 +39,7 @@ updated: 2026-09-11
 
 ## 四组假设
 
-沿 Burrell & Morgan（1979）的维度，客观主义对应以下四组[[Hypothesis|假设]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
+沿 Burrell & Morgan（1979）的维度，客观主义对应以下四组假设（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）：
 
 > [!assumptions] 客观主义的四组假设
 > - **[[Ontology\|本体论]]：实在论（realism）**社会实在是外在于个体的客观存在，强加于意识之上（imposing itself on their consciousness from without）。组织是真实的实体，有自身的生命（Organizations are real entities with a life of their own）

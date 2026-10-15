@@ -8,7 +8,7 @@ summary: "新西兰教育统计学家，Visible Learning作者与元分析综合
 type: person
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 125
+person_related_count: 123
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
@@ -45,7 +45,6 @@ related_concepts:
   - "[[Structural Coupling]]"
   - "[[Problem-Based Learning]]"
   - "[[Problem Solving]]"
-  - "[[Hypothesis]]"
   - "[[Constructivist Paradigm]]"
   - "[[Direct Instruction]]"
   - "[[Metacognition]]"
@@ -53,7 +52,6 @@ related_concepts:
   - "[[Surface and Deep Learning]]"
   - "[[Epistemology]]"
   - "[[Policy Brokerage]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Professional Judgment]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Governing by Numbers]]"
@@ -221,7 +219,7 @@ updated: 2026-10-15
 ## 核心思想
 
 > [!claim] 核心主张
-> 教育教学的核心机制在于“使教对学生可见、使学对教师可见”。教师不应充当消极旁观的课堂“促进者”，而必须成为主动干预、高频反馈并以可见证据评估自身教学成效的“激活者”。通过以标准差为单位的[[Effect Size\|效应量]]关节点（$d=0.40$）建立证据排序坐标，能够穿透主观轶事与教学时尚，为学校改进提供实证标尺；然而，证据并非行动处方，而是明智[[Problem Solving\|问题解决]]的[[Hypothesis\|假设]]起点。
+> 教育教学的核心机制在于“使教对学生可见、使学对教师可见”。教师不应充当消极旁观的课堂“促进者”，而必须成为主动干预、高频反馈并以可见证据评估自身教学成效的“激活者”。通过以标准差为单位的[[Effect Size\|效应量]]关节点（$d=0.40$）建立证据排序坐标，能够穿透主观轶事与教学时尚，为学校改进提供实证标尺；然而，证据并非行动处方，而是明智[[Problem Solving\|问题解决]]的假设起点。
 
 > [!citation-card] 可见的教与学之本质
 > 当教师成为自身教学的学习者、学生成为自身教师时，对学生学习产生最大效应。[[Argument_McKnight_2020_Discourse\|(McKnight & Whitburn, 2020, p. 40)]]
@@ -246,7 +244,7 @@ updated: 2026-10-15
 > - **理论路径** 撼动了 1970–1990 年代以学生为中心的[[Radical Constructivism\|激进建构主义]]教学浪漫主义，重新确立了[[Direct Instruction\|直接教学]]、显性教学与掌握学习在教学论中的正当性；推动将师生认知互动、[[Metacognition\|元认知监控]]与反馈循环整合为统一的课堂[[Effective Teaching\|有效教学]]模型；晚期提出的三阶段学习模型推动了[[Surface and Deep Learning\|表层学习]]到深层概念迁移的[[Epistemology\|认识论]]建构。
 > - **方法路径** 开创并普及了教育领域的大规模[[Meta-meta-analysis\|元综合]]方法论，将跨越数十年、涉及数千万样本的[[Heterogeneity\|异质性]]研究统一置于以标准差为基准的通用连续体（$d$ 指标）上；首创[[Effect Size\|效应量]]“关节点”（$d=0.40$）与影响气压计可视化工具，成为全球循证政策与智库证据工具箱（如英国 [[Education Endowment Foundation\|EEF]] Toolkit）的标准参考框架。
 > - **政策路径** 深度嵌入盎格鲁-撒克逊国家的国家教育标准制定：成为[[New Zealand National Standards\|新西兰国家标准]]和教师评估工具（[[Assessment Tools for Teaching and Learning\|asTTle]]）的基石；直接主导澳大利亚教学与[[School Leadership\|学校领导力]]研究院（[[Australian Institute for Teaching and School Leadership\|AITSL]]）的国家专业标准制定；成为澳大利亚维多利亚州高影响教学策略（[[Victorian HITS and Literacy Toolkit\|HITS]]）的核心蓝本；被英国教育部 Coldwell et al.（2017）列为官方认可证据来源。[[Argument_Bainbridge_2022_ROE\|(Bainbridge et al., 2022, p. 4)]]
-> - **跨国／跨领域传播** 从学术专著演变为覆盖至少 23 个国家的跨国商业与[[Policy Brokerage\|政策中介]]复合体；在斯堪的纳维亚半岛（挪威、丹麦、瑞典）被[[Transfer Translation Transformation\|转译]]为推动学校组织变革与数据协作的支点，重塑[[Professional Judgment\|专业判断]]与[[Knowledge Mobilisation\|知识动员]]。[[Argument_Nordahl_2015_Paideia\|(Nordahl, 2015, pp. 61–69)]]；引发丹麦 2014 学校改革的激烈公共争议；在俄罗斯引发标准化课程应用论争；在跨国[[Governing by Numbers\|数字治理]]实证中揭示出主权国家在硬性行政法令起草中对个体学术明星的断崖式过滤。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
+> - **跨国／跨领域传播** 从学术专著演变为覆盖至少 23 个国家的跨国商业与[[Policy Brokerage\|政策中介]]复合体；在斯堪的纳维亚半岛（挪威、丹麦、瑞典）被转译为推动学校组织变革与数据协作的支点，重塑[[Professional Judgment\|专业判断]]与[[Knowledge Mobilisation\|知识动员]]。[[Argument_Nordahl_2015_Paideia\|(Nordahl, 2015, pp. 61–69)]]；引发丹麦 2014 学校改革的激烈公共争议；在俄罗斯引发标准化课程应用论争；在跨国[[Governing by Numbers\|数字治理]]实证中揭示出主权国家在硬性行政法令起草中对个体学术明星的断崖式过滤。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
 > - [[Argument_Hattie_2005_ACER\|Hattie, 2005]] — 在 [[Australian Council for Educational Research\|ACER]] 大会发表奠基性论文，首次系统提出 $d=0.40$ 关节点、30% 教师方差份额模型与 asTTle 形成性问责理论体系。
@@ -281,7 +279,7 @@ updated: 2026-10-15
 
 > [!person-network] 关系网络
 > - **师承／合作者** Herbert Walberg — 早期共同开展 226 项[[Meta-meta-analysis\|元综合]]检验[[Walberg's Educational Productivity Model\|教育生产力模型]]；[[John Biggs]] — 合作开展学习技能干预[[Meta-analysis\|元分析]]；Helen Timperley — 共同发表里程碑式反馈元分析；Gregory Yates — 合作撰写学习科学著作；Tanja Jansen 与 Jens Möller 等 — 合作开展基于 Meta-X 数据库的大语言模型[[Automated Data Extraction\|自动化数据提取]]前沿实证评测。
-> - **学生／继承者** [[Thomas Nordahl]]、Ane Qvortrup、Claus Nygaard — 斯堪的纳维亚引介者与北欧[[Going Native\|本土化]][[Transfer Translation Transformation\|转译]]者；Deb Masters — [[Visible Learning]] 培训实施与案例库联合编著者。
+> - **学生／继承者** [[Thomas Nordahl]]、Ane Qvortrup、Claus Nygaard — 斯堪的纳维亚引介者与北欧[[Going Native\|本土化]]转译者；Deb Masters — [[Visible Learning]] 培训实施与案例库联合编著者。
 > - **批评者／论敌** Ivan Snook & John Clark — 新西兰学术论战主要发起者，系统指控元分析方法缺陷；[[Gerald Grace]] — 批判其误用“社会的良知与批评者”法定角色；Ewald Terhart — 早期系统学术书评，指出理论空洞与福柯式监控统治；[[Scott Eacott]] — 批判澳大利亚[[School Leadership\|学校领导力]]陷入“[[Cult of the Guru\|大师崇拜]]”与[[Neo-Taylorism\|新泰勒主义]]；[[Klaus Nielsen]] & Jørgen Klitmøller — 细读反馈原始元分析并揭示[[Technical Rationality\|技术理性]][[Legitimation Crisis|合法化危机]]。
 > - **机构／运动／项目** [[Visible Learning]] — 核心研究成果；[[Visible Learning Meta-X]] — 亲自创建并持续维护的全球最大元分析汇聚数据库；Visible Learning 品牌化与全球影响 — 其学术成果依托的跨国培训产业与政策扩散历程；[[Cognition Education]] — 长期董事兼培训商业化运营商；[[Australian Institute for Teaching and School Leadership\|AITSL]] — 担任董事会主席并推动将可见学习嵌入国家专业标准；[[Evidence for Learning]]（E4L）— 担任学校专家咨询委员会主席，指导工具包与实践指南本土化；新西兰教育部 — 委托开发 [[Assessment Tools for Teaching and Learning\|asTTle]] 评估系统与国家标准技术顾问；[[Education Endowment Foundation\|EEF]] — 资助 Visible Classroom 试点并将其实证纳入证据工具箱。
 
@@ -344,7 +342,7 @@ updated: 2026-10-15
 > [!warning] 未解问题与边界
 > - **Hattie 对批评的回应与自辩** Hattie 始终坚持技术批评未削弱支撑《[[Visible Learning\|可见的学习]]》信息的核心故事；强调研究由持续元分析支撑以识别潜在[[Falsification\|可证伪性]]；制定学者参与公共事务的三条自我约束原则。[[Argument_Hattie_2010_NZJES\|(Hattie, 2010)]]; [[Argument_Hattie_2017_SLM\|(Hattie, 2017)]]
 > - **对排名的放弃与立场转向** Hattie & Donoghue（2016）承认策略内部变异过大而放弃单一排名，开发三阶段学习模型；公开表示若能重来会极力避免“结果的暴政”；2020 年演讲进一步肯定失败与[[Inquiry-Based Learning\|探究式学习]]的价值，呈现出晚期理论反思与早期直接教学排名的割裂。[[Argument_Blass_2020_JESP\|(Blass, 2020, pp. 95–96)]]
-> - **[[Professional Judgment\|专业判断]]与系统论张力** 支持者（如 Qvortrup）主张教学与学习之间是[[Structural Coupling\|结构耦合]]而非简单因果决定，《可见的学习》提供的是智能解决问题的[[Hypothesis\|假设]]而非死板食谱，教育专业判断（Professional Judgment）仍是连接实证数据与课堂情境的不可替代中介。[[Argument_Qvortrup_2019_NordSTEP\|(Qvortrup, 2019, pp. 3–7)]]
+> - **[[Professional Judgment\|专业判断]]与系统论张力** 支持者（如 Qvortrup）主张教学与学习之间是[[Structural Coupling\|结构耦合]]而非简单因果决定，《可见的学习》提供的是智能解决问题的假设而非死板食谱，教育专业判断（Professional Judgment）仍是连接实证数据与课堂情境的不可替代中介。[[Argument_Qvortrup_2019_NordSTEP\|(Qvortrup, 2019, pp. 3–7)]]
 
 ---
 
@@ -361,7 +359,7 @@ updated: 2026-10-15
 > | [[Effect Size]] | 方法 | 确立 $d=0.40$ 关节点与影响气压计作为教育干预效果的通用比较标尺。 |
 > | [[Meta-meta-analysis]] | 方法 | 开创并将教育领域大规模元综合发展为系统化证据生产方法论。 |
 > | [[Direct Instruction]] | 概念 | 依据[[Meta-analysis\|元分析]]数据强力倡导教师作为“激活者”的显性教学与直接指导。 |
-> | [[Formative Assessment]] | 概念 | 将高影响反馈与可见学习[[Transfer Translation Transformation\|转译]]为形成性评估与 asTTle 测评工具。 |
+> | [[Formative Assessment]] | 概念 | 将高影响反馈与可见学习转译为形成性评估与 [[Assessment Tools for Teaching and Learning\|asTTle]] 测评工具。 |
 > | [[Evidence-Based Education]] | 概念 | 作为全球循证教育运动的象征性人物，推动量化证据深度嵌入政策标准。 |
 > | [[Critiques of Visible Learning]] | 概念 | 激发了当代教育学界针对元分析伪科学、[[Neo-Taylorism\|新泰勒主义]]与技术理性的系统批判。 |
 > | [[Policy Brokerage]] | 概念 | 其学术成果与培训网络被跨国组织与国家专家委员会作为政策中介的重要合法化工具。 |

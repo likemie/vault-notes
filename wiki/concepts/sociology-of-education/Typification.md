@@ -4,20 +4,18 @@ aliases: [类型化, 典型化, 理想类型化, typifications]
 summary: "阿尔弗雷德·舒茨现象学社会学的核心认知与互动机制，指行动者与研究者运用源自社会既有知识库的“理想类型”心智图式来理解他人行为、组织日常生活世界并在多重实在间穿梭的过程。"
 type: concept
 domain: "sociology-of-education"
-related_count: 32
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags: [theme/epistemology, theme/social-phenomenology, theme/research-philosophy, paradigm/interpretivist]
 related_concepts:
   - "[[Concept Mapping]]"
-  - "[[Teaching Assistant]]"
   - "[[Construct]]"
   - "[[Rich and Thick Description]]"
   - "[[Phronesis]]"
   - "[[Indexicality]]"
   - "[[Reflexivity]]"
-  - "[[Document]]"
   - "[[Decodification]]"
   - "[[Cultural Capital]]"
   - "[[Epistemology]]"
@@ -44,12 +42,11 @@ related_methods:
   - "[[Grounded Theory]]"
   - "[[Correlational Research]]"
   - "[[Qualitative Interview]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Ethnography]]"
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Typification
@@ -63,7 +60,7 @@ updated: 2026-10-08
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向行动者在社会交往中将独特的个别经验归入匿名化、一般化的常识范畴的心智与符号过程。
-> - **用途** 帮[[Teaching Assistant\|助教]]育研究者揭示课堂微观互动中师生如何相互分类（如教师构建“理想学生”标签），以及[[Qualitative Research\|质性研究]]者如何从一阶常识[[Construct\|构念]]提炼二阶科学理论模型。
+> - **用途** 帮助教育研究者揭示课堂微观互动中师生如何相互分类（如教师构建“理想学生”标签），以及[[Qualitative Research\|质性研究]]者如何从一阶常识[[Construct\|构念]]提炼二阶科学理论模型。
 > - **边界** 必须警惕类型化僵化演变为排他性的刻板印象（stereotyping）与自证预言，不能代替对行动者独特鲜活主观经验的微观[[Rich and Thick Description\|深描]]。
 
 > [!citation-card] 理想类型图式与日常生活秩序建构
@@ -84,7 +81,7 @@ updated: 2026-10-08
 > | 维度 | 行动者的一阶类型化（First-order Typifications） | 研究者的二阶模型化（Second-order Constructs） |
 > |---|---|---|
 > | **认知主体** | 身处日常生活世界的常人行动者（教师、学生、家长） | 保持方法论[[Reflexivity\|反思性]]的社会与教育科学探究者 |
-> | **知识基础** | 个人传记情境、非正式习得与未言明的社会常识库 | 严密的学术[[Document\|文献]]、方法论规程与理论分析架构 |
+> | **知识基础** | 个人传记情境、非正式习得与未言明的社会常识库 | 严密的学术文献、方法论规程与理论分析架构 |
 > | **功能目标** | 解决当下实践问题、维系即时互动、达成默契合作 | 解释一阶常识如何生成、[[Decodification\|解码]]微观机制、构建学术通则 |
 > | **典型表现** | 教师口中的“机灵鬼”、“差生”、“老实孩子”标签 | [[Basil Bernstein\|伯恩斯坦]]的“代码理论”、[[Pierre Bourdieu\|布迪厄]]的“[[Cultural Capital\|文化资本]]与惯习” |
 > | **检验标准** | 在日常交往中是否行得通、是否被互动对方认可 | 逻辑自洽性、经验充分性、对行动者世界的保真度 |
@@ -152,7 +149,7 @@ updated: 2026-10-08
 ### 命题总览
 
 > [!contrast-table] 围绕类型化形成的理论命题总览
-> | 命题类型 | 核心主张 | 方法论机制 | 代表学者与[[Document\|文献]] |
+> | 命题类型 | 核心主张 | 方法论机制 | 代表学者与文献 |
 > |---|---|---|---|
 > | **理想类型中介命题** | 理解他人行为必须借由理想类型中介，日常世界是通过常识类型化分类组织的 | 概念分类、常识图式提取、互为主体性解析 | Schutz (1962); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 19)]] |
 > | **多重实在导航命题** | 类型化知识受传记情境塑造，支持行动者在多重实在与规则之间顺畅穿梭 | 传记分析、有限意义域考察、游戏规则[[Decodification\|解码]] | Burrell & Morgan (1979); James (1890) |
@@ -195,7 +192,7 @@ updated: 2026-10-08
 ## 实证数据
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 19)]] — 详尽阐述舒茨[[Phenomenology\|现象学]]社会学中的类型化概念、理想类型工具、传记情境以及行动者在多重实在中的穿梭机制。 [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen, Manion & Morrison (2011)]] — 在跨章节论述中探讨教师课堂标签建构、[[Qualitative Interview\|质性访谈]][[Coding in Qualitative Research\|编码]]以及行动者常识解释在[[Ethnography\|民族志]]中的方法论定位。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 19)]] — 详尽阐述舒茨[[Phenomenology\|现象学]]社会学中的类型化概念、理想类型工具、传记情境以及行动者在多重实在中的穿梭机制。 [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen, Manion & Morrison (2011)]] — 在跨章节论述中探讨教师课堂标签建构、[[Qualitative Interview\|质性访谈]]编码以及行动者常识解释在[[Ethnography\|民族志]]中的方法论定位。
 
 ---
 

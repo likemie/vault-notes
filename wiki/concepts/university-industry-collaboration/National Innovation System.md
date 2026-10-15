@@ -10,7 +10,7 @@ aliases:
 summary: "指由国家公共教育与培训体系、企业专职研发实验室、产业网络、前竞争技术联合体、实体制造公地、政府协调规制以及承接战略使命并贯通中试研发的研究型大学所构成的制度网络，是解释跨国技术赶超、无形知识积累与经济长期分化的核心分析单位。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 93
+related_count: 90
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Regional Innovation System]]"
   - "[[Process Knowledge]]"
-  - "[[Attrition]]"
   - "[[Problem Solving]]"
   - "[[Tacit Knowledge]]"
   - "[[Linear Model of Innovation]]"
@@ -51,7 +50,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Liberalization]]"
   - "[[User-Producer Interaction]]"
-  - "[[Document]]"
   - "[[Transformative Change]]"
   - "[[Market Shaping and Creating]]"
   - "[[Nature of Innovation]]"
@@ -74,7 +72,6 @@ related_theories:
 related_methods:
   - "[[Effect Size]]"
   - "[[Correlational Research]]"
-  - "[[Coding in Qualitative Research]]"
 related_instruments: []
 related_persons:
   - "[[Chris Freeman]]"
@@ -121,7 +118,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # National Innovation System
@@ -144,7 +141,7 @@ updated: 2026-10-14
 > *The network of institutions in the public and private sectors whose activities and interactions initiate, import, modify and diffuse new technologies.*
 
 > [!citation-card] 白宫科技政策办公室 2026 报告论国家创新公地与制造基石
-> 深植于民间的建造文化、实体制造业的集聚网络与现场默会排障经验，是国家创新体系不可忽视的基石；脱离实体制造的科研脱节将导致设计能力与[[Process Knowledge|过程知识]]的不可逆[[Attrition|流失]]。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 48, 54–56)]]
+> 深植于民间的建造文化、实体制造业的集聚网络与现场默会排障经验，是国家创新体系不可忽视的基石；脱离实体制造的科研脱节将导致设计能力与[[Process Knowledge|过程知识]]的不可逆流失。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 48, 54–56)]]
 >
 > *The deeply rooted culture of making, dense manufacturing clusters, and on-site tacit [[Problem Solving|Troubleshooting]] experience form the indispensable bedrock of the national innovation system; scientific research severed from physical manufacturing inevitably leads to an irreversible decay of design capability and process knowledge.*
 
@@ -282,7 +279,7 @@ updated: 2026-10-14
 > - **1982/1987 — 概念正式确立** [[Chris Freeman|克里斯·弗里曼]]在关于日本经济赶超的研究报告中首次正式提出“国家[[Systems of Innovation|创新系统]]”术语，系统提炼日本[[Ministry of International Trade and Industry|通产省]]、终身雇佣制、企业研发网络与技术集成的独特制度架构。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 5)]]
 > - **1992 — [[Bengt-Åke Lundvall|伦德瓦尔]]互动学习模型** 本特-奥克·伦德瓦尔（Bengt-Åke Lundvall）主编《国家创新系统：迈向创新与互动学习的理论》，从微观[[User-Producer Interaction|用户—生产者互动]]与[[Tacit Knowledge|隐性知识]]流动深化了概念内涵。
 > - **1993 — 跨国制度比较实证大典** [[Richard Nelson|理查德·纳尔逊]]（Richard R. Nelson）主编《国家创新系统：比较分析》，系统考察 15 个发达与发展中国家的科研体制、大学角色与企业结构。
-> - **1995 — 弗里曼长周期历史辩护** 弗里曼在《剑桥经济学杂志》发表奠基[[Document|文献]]，结合李斯特考证与日苏、韩巴长周期比较，有力回击全球化导致民族国家过时的神话，确立跨学科权威地位。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–24)]]
+> - **1995 — 弗里曼长周期历史辩护** 弗里曼在《剑桥经济学杂志》发表奠基文献，结合李斯特考证与日苏、韩巴长周期比较，有力回击全球化导致民族国家过时的神话，确立跨学科权威地位。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 5–24)]]
 > - **1997 — 政策建制化与 [[OECD]] 采纳** 经济合作与发展组织（OECD）正式发布《国家创新系统》报告，推动该概念成为全球主要工业化国家制定科技政策的标准分析工具。
 > - **2008 — 网络转型与隐藏国家形态解析** [[Fred Block|弗雷德·布洛克]]（Fred Block）在《政治与社会》发表里程碑论文，证实美国国家创新系统已从大企业封闭垄断转向以联邦机构为枢纽的去中心化协作网络，并首次系统揭示[[Market Fundamentalism|市场原教旨主义]]对国家创新系统造成的制造脱节与劳工技能赤字等隐形病理。[[Argument_Block_2008_PS|(Block, 2008, pp. 169–188)]]
 > - **2018 至今 — 使命导向与[[Transformative Change|变革转型]]拓展** [[Mariana Mazzucato|马祖卡托]]（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]）与肖特等（Schot & Steinmueller, 2018）反思传统 NIS 局限于修补系统失灵的缺陷，推动国家创新系统转向具有明确绿色与社会方向性的主动[[Market Shaping and Creating|市场塑造]]。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 804–806)]]; [[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 32–34)]]
@@ -367,7 +364,7 @@ updated: 2026-10-14
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Engineering Education]] | Concept | 国家[[Systems of Innovation\|创新系统]]向产业输送高阶工程科技人才与车间排障力量的教育基石。 |
-> | [[Process Knowledge]] | Concept | 支撑实体制造公地与前沿仪器研制的不可[[Coding in Qualitative Research\|编码]]默会工艺知识。 |
+> | [[Process Knowledge]] | Concept | 支撑实体制造公地与前沿仪器研制的不可编码默会工艺知识。 |
 > | [[Phronesis]] | Concept | 工程师与科学家在复杂生产线与实验现场开展排障与调优的实践智慧。 |
 > | [[Membership-based Research Consortium\|Pre-competitive Consortium]] | Concept | 国家创新系统用于化解跨行业共性研发高风险的核心制度工具。 |
 > | [[Pilot Scale Platform]] | Concept | 跨越从实验室发现到工业化量产“[[Valley of Death\|死亡之谷]]”的关键公共中试基础设施。 |

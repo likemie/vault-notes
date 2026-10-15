@@ -6,7 +6,7 @@ summary: "古希腊哲学家，苏格拉底的学生、亚里士多德的老师�
 type: person
 nationality: greece
 person_region: "greece"
-person_related_count: 48
+person_related_count: 45
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -28,12 +28,10 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Meno]]"
   - "[[Examined Life]]"
-  - "[[Hypothesis]]"
   - "[[Theory of Knowledge]]"
   - "[[Ontology]]"
   - "[[Rote Learning]]"
   - "[[Certainty of Knowledge]]"
-  - "[[Bildung]]"
   - "[[Paradigm]]"
   - "[[Positivism]]"
   - "[[General Education]]"
@@ -50,7 +48,6 @@ related_concepts:
   - "[[Western Learner]]"
   - "[[Engineering Mindset]]"
   - "[[Red Tape]]"
-  - "[[Attrition]]"
 related_theories:
   - "[[Virtue Epistemology]]"
   - "[[Theory of Mind]]"
@@ -82,7 +79,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-22
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Plato
@@ -128,7 +125,7 @@ updated: 2026-10-08
 > - **约 399–390 BCE — *Euthyphro*（《优绪弗洛篇》）** 早期典型反诘对话，[[Socrates|苏格拉底]]追问“什么是虔敬”。七轮对话逐层瓦解了优绪弗洛的经验例证，迫使其寻找使所有个别虔敬行为成为虔敬的“形式本身（form itself）”，奠定了理型思想的萌芽。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 31–32)]]
 > - **约 399–390 BCE — *Apology*（《申辩篇》）** 详实记叙苏格拉底面对雅典五百人陪审团的慷慨自辩词，铸就了西方学习传统与反思精神的座右铭——“[[Examined Life|未经省察的生活不值得过]]”。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 31)]]
 > - **约 385 BCE — *[[Meno]]*（《美诺篇》）** 早期向中期过渡的里程碑著作。围绕“美德是否可教”提出探究悖论（美诺悖论），首创灵魂回忆说，并通过引导无知的童奴推导几何正方形倍面积定理，奠定了西方先天论心智与启发式教学模型[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 27–28)]]；在现代教育技术与[[Epistemology|认识论]]视域下，亦成为反思收敛性预设诱导教学的经典靶标[[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 280–281)]]。
-> - **约 375 BCE — *Republic*（《理想国》）** 柏拉图体系的顶峰著作，通过正义城邦的设计，系统确立理型论、洞穴喻、以几何学为楷模的确定性知识观、哲学家王与分阶层教育选拔制；提出“善者不为金钱或名誉执政”的古典执政者[[Hypothesis|假设]]，全面塑造了西方政治哲学与教育思想传统。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 24–25, 27–28, 35)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 254)]]
+> - **约 375 BCE — *Republic*（《理想国》）** 柏拉图体系的顶峰著作，通过正义城邦的设计，系统确立理型论、洞穴喻、以几何学为楷模的确定性知识观、哲学家王与分阶层教育选拔制；提出“善者不为金钱或名誉执政”的古典执政者假设，全面塑造了西方政治哲学与教育思想传统。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 24–25, 27–28, 35)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 254)]]
 > - **约 385–370 BCE — *Phaedo*（《斐多篇》）** 详述苏格拉底在狱中服毒自尽前的最后谈话，通过灵魂不朽、对偶论证与回忆说论证哲学即是“死亡的练习”，感官是对灵魂认识真知的束缚。
 > - **约 385–370 BCE — *Symposium*（《会饮篇》）** 探讨爱欲（Eros）的哲学本质，描绘智者如何由迷恋个别形体之美逐步升华至对美的理型本身的沉思。
 > - **约 369 BCE — *Theaetetus*（《泰阿泰德篇》）** 晚期[[Theory of Knowledge|知识论]]专论，集中探讨“什么是知识”，彻底驳斥“知识即感觉”与单纯的“真实信念”，奠定了西方将知识界定为“有合理说明的真实信念”（Justified True Belief, JTB）的源流。
@@ -150,7 +147,7 @@ updated: 2026-10-08
 > - **[[Meno|知识即回忆]]说（Anamnesis）与几何启发原型**
 >   断言真正知识源自对灵魂先验真知的唤醒；《美诺篇》童奴实验展示了人类心智遵循演绎逻辑与几何证明的先天潜能[[Argument_Li_2012_Cambridge|(Li, 2012, p. 28)]]，但其预设唯一定理的收敛诱导机制亦成为现代教育技术反思学生思想自主权的核心靶标[[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 280–281)]]。
 > - **教育分层选拔与哲学家王（Philosopher King）**
->   基于天赋资质差异建立逐级筛选的国家教育体制，由音乐体育[[Bildung|教化]]、数学几何深造推进至辩证法研习，选拔最高智慧者执政；主张善者鄙弃金钱与荣誉、仅出于城邦正义责任执政，深刻塑造了西方对公共服务者“无私修道者”特质的古典道德[[Hypothesis|假设]][[Argument_Li_2012_Cambridge|(Li, 2012, p. 35)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 254)]]。
+>   基于天赋资质差异建立逐级筛选的国家教育体制，由音乐体育教化、数学几何深造推进至辩证法研习，选拔最高智慧者执政；主张善者鄙弃金钱与荣誉、仅出于城邦正义责任执政，深刻塑造了西方对公共服务者“无私修道者”特质的古典道德假设[[Argument_Li_2012_Cambridge|(Li, 2012, p. 35)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 254)]]。
 > - **灵魂三分与理性统治秩序**
 >   将人类灵魂剖析为理性（追求真理）、意气（追求荣誉）与欲望（追求生存繁衍），对应城邦统治者、军人与生产者；主张唯有理性统御意气并节制欲望，个体与城邦方能达成卓越与正义。
 
@@ -189,7 +186,7 @@ updated: 2026-10-08
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 结合[[John Dewey|杜威]]与弗雷尔[[Critical Pedagogy|批判教育学]]视角，解构柏拉图城邦等级固化目的论对平民[[Critical Thinking|批判性思维]]潜能的系统压制。
 > - [[Argument_Naeem_2026_Episteme|Naeem (2026)]] — 从[[Virtue Epistemology|德性认识论]]与人机对话交互视角批判柏拉图《美诺篇》问答法中预设唯一客观真理的收敛诱导缺陷，倡导向心理治疗式自主探究范式跃迁。
 > - [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] — 借用 Parker (2003) 对柏拉图“洞穴喻”的政治哲学重构，尖锐解构当代教育政策[[Positivism|实证主义]]“精巧研究洞穴石壁阴影”的技术迷思，倡导直面权力与意识形态的批判觉醒。
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|Karp & Zamiska (2025, Ch. 16)]] — 从《理想国》善者执政[[Hypothesis|假设]]出发，深度解构现代公共行政将从政者预设为无私[[Sage|圣人]]的制度弊端，论证权责对称激励的必要性。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|Karp & Zamiska (2025, Ch. 16)]] — 从《理想国》善者执政假设出发，深度解构现代公共行政将从政者预设为无私[[Sage|圣人]]的制度弊端，论证权责对称激励的必要性。
 
 ---
 
@@ -208,7 +205,7 @@ updated: 2026-10-08
 > - **师承／启蒙者** [[Socrates|苏格拉底]] — 柏拉图青年时期的精神导师；柏拉图以其为主角撰写了绝大部分对话录，后世所谓的苏格拉底思想实多为“柏拉图的苏格拉底”[[Argument_Li_2012_Cambridge|(Li, 2012, p. 27 脚注 1)]]。
 > - **学生／继承者** [[Aristotle|亚里士多德]] — 在雅典学院研习二十年，后虽提出“吾爱吾师，吾更爱真理”，但其形而上学与范畴论深度植根于柏拉图的问题意识之中。
 > - **批判者／论敌** [[John Dewey|约翰·杜威]]、保罗·弗雷尔、纳伊姆（Naeem） — 批判柏拉图哲学家王方案排斥民主变革与平民理性赋权，批评其几何诱导提问剥夺学习者的思想作者权。
-> - **治理理论对话** [[Lee Kuan Yew|李光耀]]、[[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 批判柏拉图哲学家王无私执政的禁欲主义[[Hypothesis|假设]]，主张正视人性现实，以市场化激励重塑公共治理。
+> - **治理理论对话** [[Lee Kuan Yew|李光耀]]、[[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 批判柏拉图哲学家王无私执政的禁欲主义假设，主张正视人性现实，以市场化激励重塑公共治理。
 > - **机构／运动／项目** 雅典学院（Academy） — 柏拉图约 387 BCE 创立的西方第一所高等学术机构，奠定了西方学术共同体与学院派研究的体制原型。
 
 ---
@@ -227,7 +224,7 @@ updated: 2026-10-08
 > > 围绕[[Meno|《美诺篇》]]童奴几何对话展开关于启发式教学真实[[Epistemology|认识论]]地位的交锋。
 > >
 > > - **古典启发教学派** 赞誉[[Socrates|苏格拉底]]不直接灌输公式、纯以追问唤醒学生内在逻辑证明能力的教学技艺。[[Argument_Li_2012_Cambridge|(Li, 2012, pp. 27–28)]]
-> > - **当代[[Virtue Epistemology|德性认识论]]与 AI 教育技术派** 揭露其提问者头脑中死死绑定唯一的预设标准答案，提问实为逐步缩减可能性的闭合收敛诱导，扼杀了学生的主动[[Hypothesis|假设]]与发散[[Creativity|创造力]]（P-creativity / H-creativity），主张向心理治疗式开放探究转向。[[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 280–281)]]
+> > - **当代[[Virtue Epistemology|德性认识论]]与 AI 教育技术派** 揭露其提问者头脑中死死绑定唯一的预设标准答案，提问实为逐步缩减可能性的闭合收敛诱导，扼杀了学生的主动假设与发散[[Creativity|创造力]]（P-creativity / H-creativity），主张向心理治疗式开放探究转向。[[Argument_Naeem_2026_Episteme|(Naeem, 2026, pp. 280–281)]]
 >
 > > [!axis] 哲学家王无私执政假设 vs. 现代公共行政利益激励对称
 > > 探讨公共领导者应依赖不计名利的道德德性奉献，还是依赖权责对称的市场化制度激励。
@@ -264,9 +261,9 @@ updated: 2026-10-08
 > | [[Western Learner]] | 概念 | 以《理想国》的阶层选拔体系塑造了西方重视个体天赋与能力差异的学习者观。 |
 > | [[Critical Pedagogy]] | 概念 | 柏拉图的阶层固化思想成为[[John Dewey\|杜威]]与弗雷尔现代批判教育学的重要反思靶标。 |
 > | [[Critical Pluralism]] | 理论 | 借用柏拉图洞穴喻批判实证功能主义政策研究的技术迷思，确立意识形态反思框架。 |
-> | [[Sage]] | 概念 | 德性与治理对照：柏拉图哲学王与儒家圣人共享德治理想，并在现代治理反思中被共同作为无私执政[[Hypothesis\|假设]]进行解构。 |
+> | [[Sage]] | 概念 | 德性与治理对照：柏拉图哲学王与儒家圣人共享德治理想，并在现代治理反思中被共同作为无私执政假设进行解构。 |
 > | [[Engineering Mindset]] | 概念 | 治理[[Paradigm\|范式]]对照：工程思维主张以实战结果和利益对称取代柏拉图式的空头道德预设。 |
-> | [[Red Tape]] | 概念 | 制度病理反思：指出以虚伪圣人道德要求公职人员会导致繁文缛节与人才[[Attrition\|流失]]。 |
+> | [[Red Tape]] | 概念 | 制度病理反思：指出以虚伪圣人道德要求公职人员会导致繁文缛节与人才流失。 |
 > | [[Singapore Civil Service Salary Benchmarking Policy]] | 事实 | 制度破局典范：以市场薪酬对标打破柏拉图式公职人员禁欲假设的现代治理实践。 |
 > | [[Socrates]] | 人物 | 柏拉图的哲学导师与全部对话录的核心代言人。 |
 > | [[Aristotle]] | 人物 | 柏拉图雅典学院二十年的得意门生与理型论的重要批判重构者。 |

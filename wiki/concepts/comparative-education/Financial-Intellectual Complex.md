@@ -182,7 +182,7 @@ updated: 2026-10-15
 > - **1980 — 独立研究帝国奠基** [[World Bank|世界银行]]发表《教育部门政策文件》，单方面终结对[[UNESCO|教科文组织]]的技术依附，开启由华盛顿总部集中统摄的教育政策与收益率计量帝国。
 > - **1992/1993 — 财智复合体批判确立** [[Joel Samoff|乔尔·萨莫夫]]（Joel Samoff）在非洲教育研究与国际政治学大会中首次正式提出“金融-智识复合体”，揭示世行将资金放贷与知识委托一体化的结构调整本质。
 > - **1994 — 高教领域与企业联盟亲和拓展** [[Daniel Schugurensky|丹尼尔·舒古伦斯基]]（Daniel Schugurensky）深入阿根廷高教案例，揭示世行如同跨国[[Business Roundtable|商业圆桌会]]议般推动高等教育商业化与学费成本分摊。
-> - **2009 — [[Conditioned State Theory|受限国家理论]]视阈下的政治经济整合** [[Liliana Esther Olmos|奥尔莫斯]]（Olmos）与[[Carlos Alberto Torres|托雷斯]]（Torres）将财智复合体纳入新自由主义国家[[Disciplina and Doctrina|规训]]分析，阐明其如何瓦解第三世界公共教育体系。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
+> - **2009 — [[Conditioned State Theory|受限国家理论]]视阈下的政治经济整合** [[Liliana Esther Olmos|奥尔莫斯]]（Olmos）与托雷斯（Torres）将财智复合体纳入新自由主义国家[[Disciplina and Doctrina|规训]]分析，阐明其如何瓦解第三世界公共教育体系。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
 
 ---
 

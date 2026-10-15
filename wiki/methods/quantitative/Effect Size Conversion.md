@@ -11,7 +11,7 @@ summary: "在元分析与证据合成中，将不同实证设计所报告的效�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 18
+method_related_count: 17
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Sampling Error]]"
   - "[[Dependent Variable]]"
-  - "[[Hypothesis]]"
   - "[[Floor and Ceiling Effects]]"
 related_methods:
   - "[[Effect Size]]"
@@ -44,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Effect Size Conversion
@@ -148,7 +147,7 @@ updated: 2026-10-12
 > **这个公式在做什么** 将医学与流行病学中广泛使用的二分类比值比（Odds Ratio, $OR$）转换为教育学与心理学通用的连续标准化均值差 $d$。
 >
 > **推导过程与数学原理**
-> 1. [[Hypothesis\|假设]]二分类结果（如“达标/未达标”）背后存在一个服从 Logistic 分布的潜变量 $Y^*$。
+> 1. 假设二分类结果（如“达标/未达标”）背后存在一个服从 Logistic 分布的潜变量 $Y^*$。
 > 2. 标准 Logistic 分布的概率密度函数为 $f(y) = \frac{e^{-y}}{(1 + e^{-y})^2}$，其理论均值为 $0$，理论方差为 $\sigma^2 = \frac{\pi^2}{3}$，标准差为 $\sigma = \frac{\pi}{\sqrt{3}} \approx 1.8138$。
 > 3. 对数比值比 $\ln(OR)$ 在数学上严格对应于两个 Logistic 隐变量分布在对数发生比（Logit）尺度上的均值差位移：
 >    $$\ln(OR) = \mu_{\text{logit}, 1} - \mu_{\text{logit}, 2}$$
@@ -260,7 +259,7 @@ updated: 2026-10-12
 ## 局限与方法学边界
 
 > [!warning]
-> 1. **总体分布形态[[Hypothesis\|假设]]限制** $d$ 与 $r$ 的数学转换基于两组数据服从正态分布且方差齐性的假定；若原始数据存在极端偏态或[[Floor and Ceiling Effects\|天花板效应]]，转换后关联系数可能产生失真。
+> 1. **总体分布形态假设限制** $d$ 与 $r$ 的数学转换基于两组数据服从正态分布且方差齐性的假定；若原始数据存在极端偏态或[[Floor and Ceiling Effects\|天花板效应]]，转换后关联系数可能产生失真。
 > 2. **人工二分[[Variable\|变量]]导致的衰减偏倚** 将原本连续的变量人为划分为二分类（如高低分组）计算 $d$ 再转为 $r$ 时，会系统性低估真实的相关强度（需运用连续校正公式进行矫正）。
 > 3. **群聚依赖效应（Clustering Dependency）** 若单项研究报告多个非独立[[Effect Size\|效应量]]，直接进行公式转换会造成抽样方差低估，必须结合[[Robust Variance Estimation\|稳健方差估计]]（RVE）进行协方差修正。
 

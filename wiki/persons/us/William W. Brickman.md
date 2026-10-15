@@ -9,7 +9,7 @@ summary: "美国比较教育史学家与教育史学者，比较教育学会（C
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 26
+person_related_count: 25
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -24,7 +24,6 @@ tags:
 related_concepts:
   - "[[Primary and Secondary Documents]]"
   - "[[Positivism]]"
-  - "[[Document]]"
   - "[[Intercultural Education]]"
   - "[[International Education]]"
   - "[[Refined Mastery]]"
@@ -57,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # William W. Brickman
@@ -69,7 +68,7 @@ updated: 2026-10-15
 > [!person-profile] 人物档案
 > - **身份位置** 美国二十世纪著名比较教育史学家、教育史学者，纽约大学与宾夕法尼亚大学教育学讲席教授，美国比较教育学会（[[Comparative and International Education Society|CIES]]，原 CES）创始人兼首任会长，《比较教育评论》（CER）创刊编辑。
 > - **核心角色** 比较教育学从战前史学传统向战后建制化学科过渡时期的“历史良心”与制度奠基人；长期捍卫一手[[Primary and Secondary Documents|原始文献]]考据的人文史学传统，抵制无视文化脉络的纯量化[[Positivism|实证主义]]浪潮。
-> - **代表贡献** 创立美国比较教育学术共同体建制；挖掘并系统编目上起古典古代、下至十九世纪的跨国教育[[Document|文献]]遗产；与斯图尔特·E·弗雷泽（Stewart E. Fraser）合著权威史料集《国际与比较教育史》（1968）。
+> - **代表贡献** 创立美国比较教育学术共同体建制；挖掘并系统编目上起古典古代、下至十九世纪的跨国教育文献遗产；与斯图尔特·E·弗雷泽（Stewart E. Fraser）合著权威史料集《国际与比较教育史》（1968）。
 
 > [!citation-card] 编目古典[[Intercultural Education|跨文化教育]]文献的历史使命
 > 斯图尔特·E·弗雷泽与威廉·W·布里克曼提醒我们，学界对前几个世纪有关国际与比较教育的浩瀚著作正在形成愈发清晰的认识。比较教育学者的首要任务之一，正是以某种系统的方式对这些古代文献进行编目。（p.122）[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 122)]]
@@ -83,7 +82,7 @@ updated: 2026-10-15
 > [!timeline] 生平与职涯
 > - **1913** 出生于美国纽约市，后在纽约市立学院获得文学学士（1934）与理学硕士（1935）。
 > - **1938** 在纽约大学获得教育学博士学位，专攻教育哲学与教育史。
-> - **1940–1962** 任教于纽约大学教育学院，讲授教育史与比较教育学，期间[[Refined Mastery|精通]]德语、法语、俄语、拉丁语等多种语言，奠定扎实[[Document|文献]]学功底。
+> - **1940–1962** 任教于纽约大学教育学院，讲授教育史与比较教育学，期间[[Refined Mastery|精通]]德语、法语、俄语、拉丁语等多种语言，奠定扎实文献学功底。
 > - **1956** 发起创办美国比较教育学会（[[Comparative and International Education Society|Comparative Education Society]], CES，后更名为 CIES）并担任创会会长（1956–1959），开创学科专业共同体建制。
 > - **1957–1969** 创办学科旗舰刊物《比较教育评论》（*Comparative Education Review*），并担任首任主编逾十二载，确立多元开放的学术交流[[Champ|场域]]。
 > - **1962–1981** 转任宾夕法尼亚大学教育学与历史学教授，建立教育史与比较教育博士培养项目。
@@ -95,7 +94,7 @@ updated: 2026-10-15
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **1960 — *Pre-evolution of Comparative Education*** 追溯十九世纪[[Marc-Antoine Jullien|朱利安]]（Marc-Antoine Jullien）之前的古典与近代比较教育思想萌芽，驳斥“学科始于十九世纪实证调查”的狭隘断代论。
+> - **1960 — *Pre-evolution of Comparative Education*** 追溯十九世纪朱利安（[[Marc-Antoine Jullien]]）之前的古典与近代比较教育思想萌芽，驳斥“学科始于十九世纪实证调查”的狭隘断代论。
 > - **1964 — *Educational Systems in the United States*** 系统阐述美国联邦分权体制下公共教育的演进脉络及其与欧洲教育思想的渊源。
 > - **1968 — *A History of International and Comparative Education*（与 Stewart E. Fraser 合著）** 跨越古希腊、古罗马、中世纪、文艺复兴至启蒙时代的[[Primary and Secondary Documents|原始文献]]汇编，奠定学科史料考据的权威实证基石。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 122)]]
 > - **1973 — *Research in Educational History*** 规范教育史与跨国比较的一手史料辨伪、语境化解读与档案考据方法论规则。
@@ -126,7 +125,7 @@ updated: 2026-10-15
 ## 历史评价
 
 > [!citation-card] 罗斯特等论布里克曼的西方中心先驱地位与史学贡献
-> 比较教育研究的早期中心几乎完全由发达国家的专家组成，布里克曼、埃格特森与安德森是其中的美国代表；正是他们对历史[[Document|文献]]的抢救与编目，维系了学科与古典人文主义传统的纽带。（pp.122, 129）[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 122, 129)]]
+> 比较教育研究的早期中心几乎完全由发达国家的专家组成，布里克曼、埃格特森与安德森是其中的美国代表；正是他们对历史文献的抢救与编目，维系了学科与古典人文主义传统的纽带。（pp.122, 129）[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 122, 129)]]
 >
 > *Thus, Brickman, Eggertsen, and Anderson were American... One task comparative educators have is to catalogue these writings in some systematic form.*
 

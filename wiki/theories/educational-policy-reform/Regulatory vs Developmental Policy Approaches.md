@@ -8,7 +8,7 @@ aliases:
 summary: "宏观教育政策治理模式的比较理论框架，对比了以强制法定框架、统一达标指标、硬性问责惩戒为特征的规制型进路（如NCLB），与以动态变革促进、地方因地制宜、综合指标与激励性证据使用为特征的发展型进路（如ESSA）及其制度效应。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 17
+theory_related_count: 16
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Research Utilization]]"
   - "[[Paradigm]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Output-Oriented Governance]]"
   - "[[Heterogeneity]]"
   - "[[Evidence-Based Education]]"
@@ -44,7 +43,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Regulatory vs Developmental Policy Approaches
@@ -57,7 +56,7 @@ updated: 2026-09-22
 > - **解释对象** 宏观教育政策治理中不同制度结构设计对地方实践、[[Research Utilization\|证据使用]]与问责生态的塑造机理。
 > - **理论问题** 为什么自上而下强制推行以单一科学研究为依据的高利害问责政策往往诱发教学窄化与数据造假？如何构建既能保障财政与公共利益、又能激发地方因地制宜活力的循证政策治理结构？
 > - **理论类型** 中层政策[[Analytic Framework\|分析框架]]／宏观治理[[Paradigm\|范式]]比较模型。
-> - **知识位置** 由[[Zewelanji N. Serpell\|泽韦兰吉·N·瑟佩尔]]（[[Zewelanji N. Serpell]], 2020）基于公共政策学界关于气候适应政策的分类理论（Russel et al., 2018; Sutcliffe & Court, 2005）[[Transfer Translation Transformation\|转译]]拓展至教育政策与[[Output-Oriented Governance\|循证治理]]领域。
+> - **知识位置** 由[[Zewelanji N. Serpell\|泽韦兰吉·N·瑟佩尔]]（[[Zewelanji N. Serpell]], 2020）基于公共政策学界关于气候适应政策的分类理论（Russel et al., 2018; Sutcliffe & Court, 2005）转译拓展至教育政策与[[Output-Oriented Governance\|循证治理]]领域。
 
 > [!claim] 核心主张
 > 规制型政策进路试图建立具有强制约束力的法定行动框架，依赖单一可测指标与惩戒性问责防范违规与资金浪费，但极易引发实践异化；发展型政策进路则将政策视为动态变革的赋能工具，倡导因地制宜与本土创新，注重综合多元指标并鼓励证据使用。循证改革要真正发挥效能，必须从死板的规制型控制转向兼顾情境[[Heterogeneity\|异质性]]与组织生态的发展型治理。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 41)]]
@@ -155,4 +154,4 @@ updated: 2026-09-22
 > | [[Navigational Framework for Educational Researchers]] | Theory | 运用该分类学指导学者在不同政策情境中精准定位行动的母框架。 |
 > | [[No Child Left Behind Act 2001]] | Fact (Policy) | 规制型进路的典型政策样本。 |
 > | [[Every Student Succeeds Act]] | Fact (Policy) | 发展型进路的制度修正样本。 |
-> | [[Zewelanji N. Serpell]] | Person | 将该理论模型[[Transfer Translation Transformation\|转译]]并阐发于教育政策领域的学者。 |
+> | [[Zewelanji N. Serpell]] | Person | 将该理论模型转译并阐发于教育政策领域的学者。 |

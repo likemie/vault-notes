@@ -10,7 +10,7 @@ aliases:
 summary: "统摄学科全貌、历史进程或文明演进的思辨性元叙述体系。在社会学中因脱离经验事实而遭遇中层理论与后现代解构；在技术政治与国家建构中，它既表现为福山历史终结论的胜者谬误，又表现为国家重大工程攻关愿景，以及凝聚多元移民社会、克服邓巴数限制并以千年为尺度的共有历史文明叙事。"
 type: concept
 domain: "sociology-of-education"
-related_count: 56
+related_count: 54
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -42,7 +42,6 @@ related_concepts:
   - "[[Working Hypothesis]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Interpretivism]]"
-  - "[[Hypothesis]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Rich and Thick Description]]"
   - "[[Total Factor Productivity]]"
@@ -61,7 +60,6 @@ related_theories:
   - "[[Pluralism]]"
 related_methods:
   - "[[Grounded Theory]]"
-  - "[[Coding in Qualitative Research]]"
 related_instruments: []
 related_persons:
   - "[[Francis Fukuyama]]"
@@ -89,7 +87,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-09
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Grand Theory
@@ -139,9 +137,9 @@ updated: 2026-10-09
 > [!contrast-table] 宏大理论、中层理论与[[Grounded Theory|扎根理论]]的方法论多维对照
 > | 比较维度 | 宏大理论（Grand Theory） | 中层理论（Middle-range Theory） | 扎根理论（Grounded Theory） |
 > |---|---|---|---|
-> | **理论源泉** | 哲学思辨、先验公理与历史元叙述 | 特定社会范围内的经验概括与问题抽象 | 深度嵌入实地情境的第一手经验数据与[[Coding in Qualitative Research\|编码]] |
+> | **理论源泉** | 哲学思辨、先验公理与历史元叙述 | 特定社会范围内的经验概括与问题抽象 | 深度嵌入实地情境的第一手经验数据与编码 |
 > | **[[Epistemology\|认识论]]定位** | 全包容、普适性与统摄一切的终极解释 | 局部性、可验证性与具体机制的解释 | [[Interpretivism\|解释主义]]、脉络化与动态[[Emergence\|涌现]]的实质理论 |
-> | **经验材料的角色** | 装饰性与印证性插图，不承担[[Falsification\|证伪]]功能 | 检验[[Hypothesis\|假设]]、修正理论与确立因果机制的裁决者 | 理论生成的母体土壤，持续进行比较与范畴提炼 |
+> | **经验材料的角色** | 装饰性与印证性插图，不承担[[Falsification\|证伪]]功能 | 检验假设、修正理论与确立因果机制的裁决者 | 理论生成的母体土壤，持续进行比较与范畴提炼 |
 > | **对反常事实的态度** | 通过增添概念辅助假定强行化解 | 构成理论修正或推翻假说的驱动力 | 视为情境[[Heterogeneity\|异质性]]与理论范畴深化的核心线索 |
 > | **典型代表** | [[Talcott Parsons\|帕森斯]][[Structural Functionalism\|结构功能主义]]、[[Georg Wilhelm Friedrich Hegel\|黑格尔]]历史哲学、[[Francis Fukuyama\|福山]][[End of History Thesis\|历史终结论]]、西方文明正典宏大叙事 | 相对剥夺理论、参照群体理论、地位声望模型 | 课堂互动策略理论、教师职业倦怠演化模型 |
 
@@ -200,7 +198,7 @@ updated: 2026-10-09
 > 探讨宏大理论在科学检验层面的致命缺陷，以及经验社会学向可[[Operationalization|操作化]]假说与中层机制的务实转向。
 
 > [!claim] Merton, R. K.; Layder, D.
-> **科学贫瘠与检验匮乏** 宏大理论虽然具备“拜占庭式的建筑辉煌与逻辑自洽”，但在科学探究中却呈现出惊人的贫瘠性（scientifically sterile）。其致命缺陷在于无法形成具有明确经验指向与可证伪性的[[Hypothesis|假设]]链条，因而无法为学校改进、教学决策或具体制度病理提供切实有效的方法论抓手，倒逼学术界转向以中层假说和局部机制为核心的务实研究。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Merton, 1949; Layder, 1994; cited in Cohen et al., 2011, Ch. 1, pp. 10–11)]]
+> **科学贫瘠与检验匮乏** 宏大理论虽然具备“拜占庭式的建筑辉煌与逻辑自洽”，但在科学探究中却呈现出惊人的贫瘠性（scientifically sterile）。其致命缺陷在于无法形成具有明确经验指向与可证伪性的假设链条，因而无法为学校改进、教学决策或具体制度病理提供切实有效的方法论抓手，倒逼学术界转向以中层假说和局部机制为核心的务实研究。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Merton, 1949; Layder, 1994; cited in Cohen et al., 2011, Ch. 1, pp. 10–11)]]
 
 ---
 

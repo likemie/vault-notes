@@ -8,7 +8,7 @@ aliases:
 summary: "以学校内部组织与教学差异解释学业成就的研究取向，在政策治理中将学校重塑为可量化干预的技术对象，并在全球教育转移中被学术重商主义包装为跨国咨询商品。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 46
+related_count: 45
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -29,14 +29,12 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Cultural Capital]]"
   - "[[Professional Judgment]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Global Universities Rankings]]"
   - "[[Champ]]"
   - "[[Policy Network]]"
   - "[[Technical Rationality]]"
   - "[[Effective Teaching]]"
   - "[[Abstract]]"
-  - "[[Document]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Global Educational Discourse]]"
   - "[[New Public Management]]"
@@ -49,6 +47,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Policy Borrowing]]"
   - "[[Knowledge Bank]]"
+  - "[[School Autonomy]]"
   - "[[Research Translation]]"
 related_theories:
   - "[[Governmentality]]"
@@ -156,7 +155,7 @@ updated: 2026-10-15
 > **常模化技术与羞辱机制** 从福柯治理术（[[Governmentality]]）视角审视，学校效能将学校区分为“有效/无效”、“健康/病态”、“平庸/卓越”，构造出标准化的常模模型。通过英国教育标准局（[[Ofsted]]）视导检查、公立学校排行榜与“失败学校”公开命名羞辱机制，教师与校长的[[Professional Judgment|专业判断]]被剥夺，退化为必须接受常态化风险防控的技术操作员。[[Argument_Ball_2008_SR|(Ball, 2008, pp. 663–665)]]
 
 > [!citation-card] Ball论学校效能政策技术对学校客体的常模化塑造
-> [[Ofsted]] 检查、失败学校命名、测试体系和排行榜是学校效能研究被政策[[Transfer Translation Transformation|转译]]后的治理技术。它们把学校构造成“一个知识分支的对象”，使学校能够被持续监控、引导和改造。在政策中作为一种正常化技术运作：它建构有效学校的规范模型，同时把无效学校异常化为需要治疗的学校。[[Argument_Ball_2008_SR|(Ball, 2008, pp. 663–665)]]
+> [[Ofsted]] 检查、失败学校命名、测试体系和排行榜是学校效能研究被政策转译后的治理技术。它们把学校构造成“一个知识分支的对象”，使学校能够被持续监控、引导和改造。在政策中作为一种正常化技术运作：它建构有效学校的规范模型，同时把无效学校异常化为需要治疗的学校。[[Argument_Ball_2008_SR|(Ball, 2008, pp. 663–665)]]
 >
 > *Inspection regimes, naming and shaming, testing systems, and [[Global Universities Rankings|league tables]] are governance technologies retranslated from school effectiveness research... constructing the school as an object of a branch of knowledge subject to perpetual monitoring and transformation.*
 
@@ -195,7 +194,7 @@ updated: 2026-10-15
 ### 命题总览
 
 > [!contrast-table] 学校效能核心理论命题总览
-> | 命题维度 | 核心判定 | 理论与方法论机制 | 代表学者与[[Document\|文献]]出处 |
+> | 命题维度 | 核心判定 | 理论与方法论机制 | 代表学者与文献出处 |
 > |---|---|---|---|
 > | **微观归因命题** | 将学业差距归因于校内组织风气与领导，抽离社会阶级结构 | 变量控制隔离输入背景、学校净效应内卷化 | [[Stephen Ball\|Ball (2008, pp. 663–664)]]; Angus (1993) |
 > | **治理[[Disciplina and Doctrina\|规训]]命题** | 作为现代常模化治理术，将学校重塑为可量化监控干预对象 | [[Governmentality\|治理术]]、Ofsted 视导、命名羞辱、指标排名 | [[Stephen Ball\|Ball (2008, pp. 664–665)]]; Reynolds et al. (1996) |
@@ -254,7 +253,7 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始实证发现（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Ball_2008_SR\|Ball (2008)]] | 英国 1980 年代至今教育社会学史料、政策[[Document\|文献]]及视导档案 | 历史社会学与福柯谱系考证 | 学校效能[[Discourse\|话语]][[Transfer Translation Transformation\|转译]]、[[Ofsted]] 视导机制、绩效政策技术 | 揭示效能研究从边缘实证演变为国家常模[[Governmentality\|治理术]]；证实社会阶级归因被校内管理问责全面取代 | — | 聚焦英国政策制度史演进考据，未报告统计效应量 |
+> | [[Argument_Ball_2008_SR\|Ball (2008)]] | 英国 1980 年代至今教育社会学史料、政策文献及视导档案 | 历史社会学与福柯谱系考证 | 学校效能[[Discourse\|话语]]转译、[[Ofsted]] 视导机制、绩效政策技术 | 揭示效能研究从边缘实证演变为国家常模[[Governmentality\|治理术]]；证实社会阶级归因被校内管理问责全面取代 | — | 聚焦英国政策制度史演进考据，未报告统计效应量 |
 > | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 1985–2002 年 [[UNESCO]]、[[World Bank\|世界银行]]与 [[OECD]] 核心政策文件；阿根廷与巴西课程改革卷宗及师生访谈 | 跨国比较[[Discourse Analysis\|话语分析]]与深度质性追踪 | 效能咨询市场化输出模式、国际普遍方案与微观学校脱节度 | 揭示英国高校学术重商主义将效能打包为跨国商品；证实阿根廷与巴西微观实践与效能方案剧烈脱节 | — | 跨国宏观话语分析与拉美案例，未报告定量效应量 |
 
 ---
@@ -296,6 +295,6 @@ updated: 2026-10-15
 > | [[Michael Barber\|迈克尔·巴伯]] | 人物 | 掌舵英国教育与就业部标准与效能司，推动学校效能研究成果全盘进驻国家行政体制。 |
 > | [[Ofsted\|英国教育标准局]] | 机构 | 依据学校效能常模设立的国家督导检查机构，将效能指标转化为视导与奖惩实践。 |
 > | [[World Bank\|世界银行]] | 机构 | 充当[[Knowledge Bank\|知识银行]]，通过政策建议将去情境化的学校效能与[[Effective Teaching\|有效教学]]方案输入发展中国家。 |
-> | [[Global Educational Discourse\|全球教育话语]] | 概念 | 学校效能与校本管理构成了多边国际组织倡导的全球教育话语五大核心支柱之一。 |
+> | [[Global Educational Discourse\|全球教育话语]] | 概念 | 学校效能与[[School Autonomy\|校本管理]]构成了多边国际组织倡导的全球教育话语五大核心支柱之一。 |
 > | [[Argument_Ball_2008_SR\|Ball (2008)]] | 论证 | 提供英国学校效能[[Research Translation\|研究转译]]为国家治理技术与去语境化归因的系统历史社会学文本证据。 |
 > | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 论证 | 提供高校学术重商主义与国际组织将学校效能包装为跨国商品输出的理论与经验证据。 |

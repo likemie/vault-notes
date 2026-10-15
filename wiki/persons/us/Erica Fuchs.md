@@ -10,7 +10,7 @@ summary: "美国卡内基梅隆大学工程与公共政策教授，技术变革�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 25
+person_related_count: 24
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -34,7 +34,6 @@ related_concepts:
   - "[[Boundary Spanner]]"
   - "[[Vertical Disintegration]]"
   - "[[Technology Infusion]]"
-  - "[[Document]]"
   - "[[Innovation Ecosystem]]"
 related_theories:
   - "[[Developmental Network State]]"
@@ -59,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Erica Fuchs
@@ -120,7 +119,7 @@ updated: 2026-10-07
 
 > [!influence-path] 影响路径
 > - **理论路径** 拓展了[[Developmental Network State|发展型网络国家]]（Developmental Network State）理论，打破了网络学派中行动者被动受制于结构或仅充当消极中介桥梁的传统假定，赋予嵌入型代理人主动重塑网络拓扑（[[Network Plasticity|网络可塑性]]）的战略能动性。
-> - **方法路径** 示范了将微观材料工程参数、半导体产业分工演进与[[Grounded Theory|扎根理论]]质性追踪、[[Document|文献]]计量学专利分析深度结合的研究路径。
+> - **方法路径** 示范了将微观材料工程参数、半导体产业分工演进与[[Grounded Theory|扎根理论]]质性追踪、文献计量学专利分析深度结合的研究路径。
 > - **政策路径** 为美国国会审议《[[CHIPS and Science Act|芯片与科学法案]]》（[[CHIPS and Science Act]]）以及国家科学基金会设立技术、创新与伙伴关系局（[[Directorate for Technology, Innovation and Partnerships|TIP]]）提供了关键的治理理论依据，推动了国家关键技术评估工程的制度化建构。
 
 ---

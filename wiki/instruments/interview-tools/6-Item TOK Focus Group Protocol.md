@@ -6,7 +6,7 @@ aliases:
 summary: "用于收集国际文凭知识论课程教师对课程目的、挑战、努力程度和教学影响等看法的六题半结构化焦点小组协议"
 type: instrument
 instrument_type: interview-tool
-instrument_related_count: 11
+instrument_related_count: 10
 instrument_related_level: 2
 instrument_related_stars: "⭐⭐"
 instrument_related_color: "#fce7f3"
@@ -33,7 +33,6 @@ related_theories: []
 related_methods:
   - "[[Focus Group]]"
   - "[[Transcription in Qualitative Research]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Questionnaire]]"
 related_instruments: []
 related_persons: []
@@ -43,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-17
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # 6-Item TOK Focus Group Protocol
@@ -67,7 +66,7 @@ updated: 2026-09-22
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
 > |---|---|---|---|
-> | 课程参与与定位 | 2 | 教师的参与程度、课程的整体目的、收益与主要挑战 | 定性[[Coding in Qualitative Research\|编码]] |
+> | 课程参与与定位 | 2 | 教师的参与程度、课程的整体目的、收益与主要挑战 | 定性编码 |
 > | 教学实施与[[Conatus\|努力]] | 1 | 教授知识论与其他常规课程的努力程度对比 | 定性编码 |
 > | 对学生的影响 | 1 | 课程对学生在 DP 其他科目、核心要素及[[IB Learner Profile\|学习者培养目标]]方面的影响与对未来成功的准备 | 定性编码 |
 > | 对教师的影响 | 2 | 课程对[[Teacher Beliefs\|教师信念]]、意图、教学实践以及效能感（[[Self-Efficacy\|Self-efficacy]]）的反向塑造 | 定性编码 |

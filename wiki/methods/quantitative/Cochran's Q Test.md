@@ -9,7 +9,7 @@ summary: "元分析中用于检验多项初级研究效应量同质性假设的�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 13
+method_related_count: 12
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -19,7 +19,6 @@ tags:
   - heterogeneity
   - methodology
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Sampling Error]]"
   - "[[Heterogeneity]]"
   - "[[Alternative Hypothesis]]"
@@ -41,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Cochran's Q Test
@@ -51,7 +50,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 方法定义
-> Cochran's Q 检验（Cochran's Q Test，亦称 Q 统计量检验）是由 William G. Cochran (1954) 提出并在[[Meta-analysis\|元分析]]中被作为标准检验手段的经典统计[[Hypothesis\|假设]]检验方法。它通过计算各项初级研究[[Effect Size\|效应量]]与其固定效应加权均值之间的**加权离差平方和**，检验“所有研究估计同一真实效应量”（原假设 $H_0: \theta_1 = \dots = \theta_k = \theta$，即 $\tau^2 = 0$）的同质性假设，判定观察到的研究间差异是纯属[[Sampling Error\|抽样误差]]随机波动，还是存在实质性[[Heterogeneity\|异质性]]。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, pp. 38–39)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|(Cohen et al., 2011, Ch. 17)]]
+> Cochran's Q 检验（Cochran's Q Test，亦称 Q 统计量检验）是由 William G. Cochran (1954) 提出并在[[Meta-analysis\|元分析]]中被作为标准检验手段的经典统计假设检验方法。它通过计算各项初级研究[[Effect Size\|效应量]]与其固定效应加权均值之间的**加权离差平方和**，检验“所有研究估计同一真实效应量”（原假设 $H_0: \theta_1 = \dots = \theta_k = \theta$，即 $\tau^2 = 0$）的同质性假设，判定观察到的研究间差异是纯属[[Sampling Error\|抽样误差]]随机波动，还是存在实质性[[Heterogeneity\|异质性]]。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, pp. 38–39)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|(Cohen et al., 2011, Ch. 17)]]
 
 > [!method-scope] 方法范围
 > - **检验对象** 纳入元分析的 $k$ 项独立实证研究的效应量向量与抽样方差矩阵。
@@ -77,7 +76,7 @@ updated: 2026-09-17
 > $$Q = \sum_{i=1}^k w_i y_i^2 - \frac{(\sum_{i=1}^k w_i y_i)^2}{\sum_{i=1}^k w_i}$$
 
 > [!math-principle] [[Sampling Error\|抽样分布]]与统计推断
-> 在原[[Hypothesis\|假设]] $H_0$ 成立的前提下，$Q$ 统计量渐近服从自由度为 $df = k - 1$ 的**卡方分布（$\chi^2_{k-1}$）**。
+> 在原假设 $H_0$ 成立的前提下，$Q$ 统计量渐近服从自由度为 $df = k - 1$ 的**卡方分布（$\chi^2_{k-1}$）**。
 > - $Q$ 的理论期望值为 $E(Q) = k - 1$；
 > - 若计算得到的 $Q > \chi^2_{1-\alpha, \, k-1}$（或对应 $p < \alpha$），则在 $\alpha$ 显著性水平下拒绝原假设，认定存在跨研究异质性。
 > - 在[[Meta-analysis\|元分析]]实践中，由于纳入研究数 $k$ 通常较小导致检验功效不足，常规惯例常采用更宽松的 **$\alpha = 0.10$** 作为显著性判定阈值。

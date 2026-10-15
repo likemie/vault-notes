@@ -8,7 +8,7 @@ summary: "在元分析框架下，通过加权回归检验研究特征与连续�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 55
+method_related_count: 52
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Heterogeneity]]"
   - "[[Interaction Effect]]"
-  - "[[Document]]"
   - "[[Reliability]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
@@ -31,7 +30,6 @@ related_concepts:
   - "[[Sampling Error]]"
   - "[[Ecological Fallacy]]"
   - "[[Construct]]"
-  - "[[Hypothesis]]"
   - "[[Publication Bias]]"
   - "[[Graphic Organizer]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -57,7 +55,6 @@ related_methods:
   - "[[Standard Error]]"
   - "[[Confidence Interval]]"
   - "[[Multiple Regression]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Second-Order Meta-Regression]]"
   - "[[Pairwise Wald Tests]]"
   - "[[Correlated and Hierarchical Effects Model]]"
@@ -80,7 +77,7 @@ related_facts:
   - "[[World Bank]]"
 confidence: high
 created: 2026-08-19
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Meta-regression
@@ -93,7 +90,7 @@ updated: 2026-10-08
 > 元回归（Meta-regression）是在[[Meta-analysis\|元分析]]框架下，以各纳入初级研究的[[Effect Size\|效应量]]为[[Dependent Variable\|因变量]]、研究层面的特征（调节[[Variable\|变量]]）为[[Independent Variable\|自变量]]，通过加权回归分析检验调节变量对效应量[[Heterogeneity\|异质性]]解释力的统计方法体系。它将元分析的[[Interaction Effect\|调节效应]]检验从离散分类子组比较推广到连续数值变量及多元复合模型，依据各研究的抽样精度（抽样方差倒数）与研究间真实异质性方差进行广义[[Inverse-Variance Weighting\|逆方差加权]]估计。[[Argument_Greene_2018_JEP\|(Greene et al., 2018, pp. 1098–1102)]]; [[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 5–6, 10–11)]]
 
 > [!method-scope] 方法范围
-> - **研究对象** 跨原始研究的效应量矩阵及其对应的样本特征、测量工具信效度、干预参数、宏观社会经济背景及[[Document\|文献]]发表年份等协变量。
+> - **研究对象** 跨原始研究的效应量矩阵及其对应的样本特征、测量工具信效度、干预参数、宏观社会经济背景及文献发表年份等协变量。
 > - **问题类型** 机制解释、异质性来源探索与因果调节识别：哪些连续型特征（如干预时长、量表[[Reliability\|信度]]、人均 GDP）或离散特征系统性预测效应量大小？
 > - **[[Unit of Analysis\|分析单位]]** 独立实证研究（Study）或独立样本（Sample），每条数据对应一项纳入元分析的效应量估计值。
 > - **输出形式** 回归截距 $\beta_0$、斜率系数 $\beta_j$、[[Standard Error\|标准误]]、95% [[Confidence Interval\|置信区间]]（CI）、模型整体检验量 $F$ 或 $Q_{\text{model}}$、残余异质性 $\tau^2_{\text{residual}}$ 及拟 $R^2$ 解释比例。
@@ -104,7 +101,7 @@ updated: 2026-10-08
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** [[Positivism\|实证主义]]后设整合：将单项实证研究视为带有[[Sampling Error\|抽样误差]]与情境约束的数据点，通过跨研究的[[Multiple Regression\|多元回归]]建模提取超越单一情境的稳健调节规律。
-> - **研究者角色** 预先依据实质理论设定候选调节[[Variable\|变量]]，对[[Document\|文献]]纳入标准、[[Effect Size\|效应量]]提取口径和变量[[Coding in Qualitative Research\|编码]][[Reliability\|信度]]负责，避免无理论指导的事后逐步数据挖掘。
+> - **研究者角色** 预先依据实质理论设定候选调节[[Variable\|变量]]，对文献纳入标准、[[Effect Size\|效应量]]提取口径和变量编码[[Reliability\|信度]]负责，避免无理论指导的事后逐步数据挖掘。
 > - **有效性标准** 统计结论效度（检验功效高度依赖纳入研究数 $k$，经验要求每个[[Independent Variable\|自变量]]至少对应 10 项独立研究）与模型设定准确性。
 > - **不声称回答的问题** 元回归揭示的是研究层面的生态关联（Ecological Association），不能直接推断个体层面的微观因果中介，不可犯[[Ecological Fallacy\|生态谬误]]。
 
@@ -122,8 +119,8 @@ updated: 2026-10-08
 ## 研究程序
 
 > [!proc] 通用程序
-> 1. 明确理论[[Hypothesis\|假设]]：预设哪些连续型或分类型研究特征（如量表[[Reliability\|信度]]、人均 GDP、发表年份、干预时长）可能系统性[[Interaction Effect\|调节效应]]量大小。
-> 2. 系统检索与[[Document\|文献]]筛选，提取各研究的[[Effect Size\|效应量]]指标（如 Hedges' $g$、Pearson $r$、Fisher's $z$）及其抽样方差 $v_i$，并对调节[[Variable\|变量]]进行标准化[[Coding in Qualitative Research\|编码]]。
+> 1. 明确理论假设：预设哪些连续型或分类型研究特征（如量表[[Reliability\|信度]]、人均 GDP、发表年份、干预时长）可能系统性[[Interaction Effect\|调节效应]]量大小。
+> 2. 系统检索与文献筛选，提取各研究的[[Effect Size\|效应量]]指标（如 Hedges' $g$、Pearson $r$、Fisher's $z$）及其抽样方差 $v_i$，并对调节[[Variable\|变量]]进行标准化编码。
 > 3. 计算合并效应与[[Heterogeneity\|异质性]]检验，评估总异质性 $Q_{\text{total}}$ 与[[Between-Study Variance\|研究间方差]] $\tau^2$ 是否显著，确立开展元回归的统计前提。
 > 4. 构建加权随机效应元回归模型，估计截距 $\beta_0$、偏回归系数 $\beta_j$、[[Confidence Interval\|置信区间]]及模型解释方差比例 $R^2_{\text{analog}}$。
 > 5. 进行模型诊断：检验残余异质性 $Q_{\text{residual}}$、多重共线性、高杠杆异常点及[[Publication Bias\|发表偏倚]]影响。
@@ -222,7 +219,7 @@ updated: 2026-10-08
 > - **偏误来源** [[Ecological Fallacy\|生态谬误]]（研究层面的[[Variable\|变量]]关联无法直接推导至学生个体）；混杂变量遗漏（由于 $k$ 有限无法同时控制所有潜在混杂因素）；[[Publication Bias\|发表偏倚]]与小样本效应干扰。
 > - **适用边界** 需要充足的独立研究数量；模型结论受制于原始研究报告的质量（Garbage in, garbage out）。
 > - **误用风险** 在高维调节变量空间中进行无理论指导的逐步回归，导致假阳性率激增。
-> - **补救方式** [[Preregistration\|预注册]]调节[[Hypothesis\|假设]]；采用置换检验（Permutation test）校正小样本推断；结合散点气泡图直观展示[[Effect Size\|效应量]]与调节变量的关系。
+> - **补救方式** [[Preregistration\|预注册]]调节假设；采用置换检验（Permutation test）校正小样本推断；结合散点气泡图直观展示[[Effect Size\|效应量]]与调节变量的关系。
 
 ---
 

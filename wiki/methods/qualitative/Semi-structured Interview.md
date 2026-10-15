@@ -8,7 +8,7 @@ summary: "在预先准备的话题提纲与开放式追问之间取得平衡的�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 28
+method_related_count: 27
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -26,7 +26,6 @@ related_concepts:
 related_methods:
   - "[[Qualitative Interview]]"
   - "[[Interview Protocol]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Pilot Testing]]"
   - "[[Qualitative Research]]"
   - "[[Case Study]]"
@@ -51,7 +50,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Semi-structured Interview
@@ -67,7 +66,7 @@ updated: 2026-10-08
 > - **研究对象** 个体对特定现象的经验、观点、态度和意义建构。
 > - **问题类型** 适合描述性和探索性问题——需要系统比较跨个案数据但又希望保留情境性追问的灵活性。
 > - **[[Unit of Analysis\|分析单位]]** 个体受访者或小组。
-> - **输出形式** 主题分析、[[Coding in Qualitative Research\|编码]]类别、比较矩阵。
+> - **输出形式** 主题分析、编码类别、比较矩阵。
 
 ---
 
@@ -82,7 +81,7 @@ updated: 2026-10-08
 > [!method-stack] 方法层级
 > - **研究设计** [[Qualitative Research\|质性研究]]、[[Case Study\|案例研究]]、[[Grounded Theory\|扎根理论]]
 > - **数据收集** [[Interview Protocol\|访谈提纲]]、一对一访谈、[[Focus Group\|焦点小组]]
-> - **分析方法** [[Coding in Qualitative Research\|编码]]、主题分析、[[Content Analysis\|内容分析]]
+> - **分析方法** 编码、主题分析、[[Content Analysis\|内容分析]]
 > - **辅助技术** 追问、[[Pilot Testing\|预测试]]、渐进式聚焦法
 
 ---

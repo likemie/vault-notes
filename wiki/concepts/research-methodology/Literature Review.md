@@ -4,13 +4,12 @@ aliases: ["文献综述", "文献回顾", "review of the literature"]
 summary: "研究过程中的核心步骤，指对某一主题已有研究进行系统检索、评估和总结，并以论证结构组织成文。在量化、质性和混合方法研究中有不同的组织方式和认识论角色。"
 type: concept
 domain: "research-methodology"
-related_count: 24
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
 tags: [source/textbook, method/research-process]
 related_concepts:
-  - "[[Document]]"
   - "[[Research Topic]]"
   - "[[Reliability]]"
   - "[[Abstract]]"
@@ -19,7 +18,6 @@ related_concepts:
   - "[[Primary and Secondary Documents]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
-  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
@@ -42,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Literature Review
@@ -51,7 +49,7 @@ updated: 2026-09-22
 
 ## 定义
 
-> [!def] [[Document\|文献]]综述（Literature Review）
+> [!def] 文献综述（Literature Review）
 > 文献综述是对某一[[Research Topic\|研究主题]]已有文献的系统检索、评估和总结。它向读者呈现与当前研究密切相关的已有研究成果，将研究置于更大范围的学术对话之中，填补已有研究的空白并延伸先前的研究（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）。
 
 > [!concept-lens] 概念透镜
@@ -67,7 +65,7 @@ updated: 2026-09-22
 
 ## 概念辨析
 
-> [!contrast-table] [[Document\|文献]]综述 vs [[Literature Search\|文献检索]]
+> [!contrast-table] 文献综述 vs [[Literature Search\|文献检索]]
 > | 维度 | 文献综述 | [[Literature Search\|文献检索]] |
 > |---|---|---|
 > | 本质 | 论证性写作 | 技术性操作 |
@@ -80,7 +78,7 @@ updated: 2026-09-22
 ## 核心任务与目的
 
 > [!abstract] 核心任务
-> [[Document\|文献]]综述的核心任务不是研究结果的简单汇总或堆砌，而是要依据一定的逻辑关系与框架归纳整理已有的[[Correlational Research\|相关研究]]成果，对当前研究中存在的不足予以剖析，指出研究的发展方向，并提出改进研究的建议（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015, Ch.1]]）。
+> 文献综述的核心任务不是研究结果的简单汇总或堆砌，而是要依据一定的逻辑关系与框架归纳整理已有的[[Correlational Research\|相关研究]]成果，对当前研究中存在的不足予以剖析，指出研究的发展方向，并提出改进研究的建议（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015, Ch.1]]）。
 
 Cohen et al. 提出了文献综述的七项目的（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Ch.7, pp.126–127]]）：
 
@@ -108,7 +106,7 @@ Cohen et al. 提出了文献综述的七项目的（[[Argument_Cohen_Manion_Morr
 
 ## 论证结构
 
-> [!claim] [[Document\|文献]]综述的本质是论证
+> [!claim] 文献综述的本质是论证
 > 文献综述必须是**有组织、有论证发展的文本**。如果将材料以其他顺序呈现，文献综述将失去意义、连贯性、说服力、逻辑和目的（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al., 2011, Ch.7, pp.127–128]]）。
 
 > [!chain-link] 文献综述的论证结构
@@ -141,7 +139,7 @@ Cohen et al. 提出了文献综述的七项目的（[[Argument_Cohen_Manion_Morr
 
 ### 文献阅读方法
 
-[[Document|文献]]阅读是文献综述的核心前提。齐梅 (2015, Ch.1) 区分了三种应结合使用的阅读方法：
+文献阅读是文献综述的核心前提。齐梅 (2015, Ch.1) 区分了三种应结合使用的阅读方法：
 
 > [!feature] 三种文献阅读方法
 > - **浏览（Skimming）** 旨在抓住要点，用以初步判断文献的价值，掌握文献的大致内容。
@@ -182,11 +180,11 @@ Cohen et al. 提出了文献综述的七项目的（[[Argument_Cohen_Manion_Morr
 ## 不同研究范式中的角色
 
 > [!abstract] [[Paradigm\|范式]]差异
-> [[Document\|文献]]综述在三种研究路径中有不同的组织方式和[[Epistemology\|认识论]]角色。
+> 文献综述在三种研究路径中有不同的组织方式和[[Epistemology\|认识论]]角色。
 
 ### 量化研究
 
-在[[Quantitative Research|量化研究]]中，文献综述通常以独立章节形式出现在研究开头，为[[Research Question|研究问题]]或[[Hypothesis|假设]]提供方向。其典型结构围绕[[Variable|变量]]组织（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）：
+在[[Quantitative Research|量化研究]]中，文献综述通常以独立章节形式出现在研究开头，为[[Research Question|研究问题]]或假设提供方向。其典型结构围绕[[Variable|变量]]组织（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）：
 
 > [!proc] 量化文献综述的五部分结构
 > 1. **引言** 告知读者该章节包含哪些部分
@@ -223,7 +221,7 @@ Cohen et al. 提出了文献综述的七项目的（[[Argument_Cohen_Manion_Morr
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 将[[Document\|文献]]综述作为研究方案的独立章节，系统阐述其在量化、质性和[[Mixed Methods Research\|混合方法]]路径中的不同策略
+> - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 将文献综述作为研究方案的独立章节，系统阐述其在量化、质性和[[Mixed Methods Research\|混合方法]]路径中的不同策略
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06\|Cohen et al. (2011, Ch.6)]] — 将文献综述作为[[Research Topic\|研究选题]]的决策因素之一，提出七项目的框架和规模考量
 > - Cohen et al. — 强调文献综述的论证本质，提供了四步论证结构和实施撰写规则
 > - [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015, Ch.1)]] — 提出文献综述的核心任务、两个基本条件、文献阅读方法、五部分撰写结构和撰写注意事项

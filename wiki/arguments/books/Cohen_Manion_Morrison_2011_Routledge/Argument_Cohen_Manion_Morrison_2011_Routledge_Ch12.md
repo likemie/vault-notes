@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12"
 argument_display_title: "Research Methods in Education · Ch12"
 argument_kind: "book-chapter"
-argument_related_count: 40
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -28,17 +28,16 @@ tags:
   - source/textbook
 related_concepts:
   - "[[Concept Mapping]]"
-  - "[[Document]]"
   - "[[Areas of Knowledge]]"
   - "[[Epistemology]]"
   - "[[Phronesis]]"
   - "[[Visual Data]]"
   - "[[Artefact]]"
   - "[[Primary and Secondary Documents]]"
+  - "[[Document]]"
   - "[[Virtual Documents]]"
   - "[[Research Question]]"
   - "[[Chain of Evidence]]"
-  - "[[Hypothesis]]"
   - "[[Discourse]]"
   - "[[Variable]]"
   - "[[Champ]]"
@@ -88,7 +87,7 @@ updated: '2026-08-27'
 
 ## 章节内容
 
-> [!logic-map]- 历史与[[Document\|文献]]研究的核心知识结构
+> [!logic-map]- 历史与[[Documentary Analysis|文献研究]]的核心知识结构
 > ```mermaid
 > flowchart LR
 >     A["三个知识领域<br/>过去 · 变迁延续 · 当下起源"] --> B["文献<br/>四轴分类"]
@@ -136,7 +135,7 @@ updated: '2026-08-27'
 
 ### 12.2 什么是文献
 
-[[Document|文献]]是对一个事件或过程的记录。这个定义展开后，呈现出多条相互交叉的类型划分轴线。研究者在实际运用中需要对这些轴线保持敏感。
+文献是对一个事件或过程的记录。这个定义展开后，呈现出多条相互交叉的类型划分轴线。研究者在实际运用中需要对这些轴线保持敏感。
 
 #### 四轴文献分类体系
 
@@ -169,7 +168,7 @@ updated: '2026-08-27'
 >   由研究者自己作为研究数据制作，如访谈转录稿或完成的问卷（Silverman, 2001, p. 119）。电子技术极大便利了以多种格式快速交换这类征集的文献，但它们的认知地位与自然发生的文献有本质区别。
 
 > [!feature] 第四轴 按一手/二手（primary/secondary）划分
-> - **[[Primary and Secondary Documents\|一手文献]]（primary document）**
+> - **[[Primary and Secondary Documents\|一手文献]]（primary [[Document]]）**
 >   由事件的目击者或参与者作为对事件的直接记录而生产的文献。它构成历史研究的原材料，是后续一切分析和解释的出发点。
 > - **[[Primary and Secondary Documents\|二手文献]]（secondary document）**
 >   通过对一手文献的分析形成的对事件的阐述，通常将单个事件置于更广泛的比较或综合语境中。二手文献提供了研究者进入一个领域的入口和导航，但不可避免地经过作者的分析过滤。
@@ -221,7 +220,7 @@ updated: '2026-08-27'
 
 #### 书籍与教科书
 
-500年来，现代印刷格式的书籍一直是知识和学术的存储库，同时也是挑战既定正统的关键手段。在文献研究中，小册子（tracts）和专著（treatises）是重要的文献证据来源。它们往往体现着政治和社会辩论的核心主题，但研究者不能假定它们充分传达了特定语境中的更广泛态度。作者的前提[[Hypothesis|假设]]和论证需要经过批判性的审视（而非被简单地接受为其表面价值），而对读者群体的研究也日益受到重视（J. Rose, 2001, 2007; Secord, 2000）。
+500年来，现代印刷格式的书籍一直是知识和学术的存储库，同时也是挑战既定正统的关键手段。在文献研究中，小册子（tracts）和专著（treatises）是重要的文献证据来源。它们往往体现着政治和社会辩论的核心主题，但研究者不能假定它们充分传达了特定语境中的更广泛态度。作者的前提假设和论证需要经过批判性的审视（而非被简单地接受为其表面价值），而对读者群体的研究也日益受到重视（J. Rose, 2001, 2007; Secord, 2000）。
 
 教科书（textbook）作为书籍的一个特殊子类型，自1830年代该术语首次出现以来（Stray, 1994, p. 2），已成为教育研究者重要分析对象。
 
@@ -451,7 +450,7 @@ Jupp & Norris（1993）将文献分析的多元理论路径归纳为三种一般
 ## 关键引用
 
 > [!citation-card]- 论[[Documentary Analysis\|文献分析]]的核心立场
-> [[Document\|文献]]一旦被找到和检视后，不会自己说话，它们需要经过仔细的分析与阐释。（第12章，p.17）
+> 文献一旦被找到和检视后，不会自己说话，它们需要经过仔细的分析与阐释。（第12章，p.17）
 >
 > *Documents once located and examined do not speak for themselves but require careful analysis and interpretation.*
 
@@ -463,7 +462,7 @@ Jupp & Norris（1993）将文献分析的多元理论路径归纳为三种一般
 > [!citation-card]- 论专业历史学家的标志
 > 处理文献来源材料被广泛视为专业历史学家的标志。（Scott, 1990, p. 1，转引自第12章，p.11）
 >
-> *Handling documentary source material is widely seen as the hallmark of the professional historian.*
+> *Handling [[Document|documentary source]] material is widely seen as the hallmark of the professional historian.*
 
 > [!citation-card]- 论[[Archival Research\|档案研究]]的现实
 > 你整天坐着阅读，以这个行业的特定方式阅读，以节省时间和金钱，并确信在你破译的一千行笔迹中，你也许只会用到一两行。（Steedman, 2001, p. 29，转引自第12章，p.16）

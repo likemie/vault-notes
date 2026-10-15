@@ -12,7 +12,7 @@ summary: "约翰·迈耶等开创的社会学新制度主义与世界社会研�
 type: person
 subtype: school
 person_region: "United States"
-person_related_count: 37
+person_related_count: 35
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -35,11 +35,9 @@ related_concepts:
   - "[[Otherhood]]"
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
-  - "[[Hypothesis]]"
   - "[[Class Size]]"
   - "[[Policy Borrowing]]"
   - "[[Red Tape]]"
-  - "[[Document]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Recontextualization]]"
 related_theories:
@@ -108,7 +106,7 @@ updated: 2026-10-15
 ### 理论基石与解释逻辑
 
 > [!ref-table] 斯坦福学派核心理论基石与解释逻辑
-> | 理论基石 | 核心论断与[[Hypothesis\|假设]] | 解释机制与微观运作 | 经验表征与现实映射 |
+> | 理论基石 | 核心论断与假设 | 解释机制与微观运作 | 经验表征与现实映射 |
 > |:---|:---|:---|:---|
 > | **形式理性与[[Rationalized Myth\|制度神话]]** | 组织结构是对制度环境中理性神话的仪式性反映，而非追求微观生产效率的工程结果。 | 汲取[[Max Weber\|韦伯]]合理化理论，强调遵循制度神话换取合法性与资源，正式结构充当仪式化合规展示。 | 薄弱学校建立完备但闲置的咨询室与数字管理台账，以满足督导验收与专项经费门槛。 |
 > | **[[Cultural Models\|世界文化模型]]的外生性** | 战后由启蒙理性、人权规范与正义目标构成的世界文化，为民族国家确立了先验的现代性脚本。 | 主权国家在非强制情境下为了确立国际合法性，自发进行跨国模仿与[[Institutional Isomorphism\|制度同构]]。 | 非工业化新兴发展中国家在缺乏现代工业需求下，依然普遍照搬六三三学制与门类齐全的学科大纲。 |
@@ -117,7 +115,7 @@ updated: 2026-10-15
 > | **[[Organizational Actorhood\|组织行动者身份]]的建构** | 现代组织并非天然拥有独立意图的实体，而是被世界文化塑造成具备理性自主与社会责任的责任主体。 | 外部制度环境赋予组织自主权、战略规划与问责要求，推动学校与大学向具备完整管理边界的“完全组织”演进。 | 现代大学普遍建立独立的品牌传播、战略规划与社会责任部门，深陷评估[[Red Tape\|繁文缛节]]与形式化治理。 |
 
 
-> [!work-line] 学派代表性经典[[Document|文献]]
+> [!work-line] 学派代表性经典文献
 > - **1977 — *Institutionalized Organizations: Formal Structure as Myth and Ceremony***（Meyer & Rowan）开创组织社会学新制度主义，界定制度神话与仪式性合规。
 > - **1977 — *The World Educational Revolution, 1950–1970***（Meyer, Ramirez, Rubinson, & Boli-Bennett）首次以全球大样本实证检验证明大众教育扩张与国家工业化脱钩。
 > - **1987 — *The Political Construction of Mass Schooling: European Origins and Worldwide Spread***（Ramirez & Boli）揭示大众教育起源于欧洲民族国家确立成员身份与地缘防御的政治动员。

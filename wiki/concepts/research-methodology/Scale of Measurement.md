@@ -8,7 +8,7 @@ aliases:
 summary: "量化研究中将理论构念转化为可分析数据的赋值法则与度量层级，涵盖分类量表（名义、顺序）与连续量表（等距、比率），其心理计量属性与量程灵敏度直接决定了统计模型推断效度与因果评价公信力。"
 type: concept
 domain: "research-methodology"
-related_count: 35
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -19,7 +19,6 @@ tags:
   - quantitative-research
 related_concepts:
   - "[[Construct]]"
-  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Operationalization]]"
   - "[[Causality]]"
@@ -27,7 +26,6 @@ related_concepts:
   - "[[Developer-Made Measures]]"
   - "[[Floor and Ceiling Effects]]"
   - "[[Predictive Validity]]"
-  - "[[Document]]"
   - "[[Reliability]]"
   - "[[Cross-cultural Validity]]"
   - "[[Academic Achievement]]"
@@ -40,7 +38,6 @@ related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
   - "[[Implementation and Process Evaluation]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
   - "[[Internal Consistency]]"
   - "[[Chi-Squared Test]]"
@@ -62,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Scale of Measurement
@@ -76,7 +73,7 @@ updated: 2026-09-17
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向经验现实与数字符号系统之间的映射规则，界定数字是否具备标识、排序、等距或绝对零点属性。
-> - **用途** 约束统计[[Hypothesis\|假设]]检验（参数 vs 非参数）的选择，并诊断因测验量程不当引发的测量截断与因果效应失真。
+> - **用途** 约束统计假设检验（参数 vs 非参数）的选择，并诊断因测验量程不当引发的测量截断与因果效应失真。
 > - **边界** 测量尺度不等于具体的物理测量仪器或单张试卷，而是指该工具所生成分数的底层数学尺度与心理计量结构。
 
 > [!citation-card] 测量尺度的反应选项与数据转化本质（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）
@@ -89,7 +86,7 @@ updated: 2026-09-17
 
 > [!boundary] 概念边界
 > - 不等于单一题项（Item） — 测量尺度是题项总分或合成指标所依附的度量系统。
-> - 不等于单纯的数字[[Coding in Qualitative Research\|编码]] — 名义尺度的数字（如 1=男，2=女）仅具有代号意义，不具备算术运算合法性。
+> - 不等于单纯的数字编码 — 名义尺度的数字（如 1=男，2=女）仅具有代号意义，不具备算术运算合法性。
 
 ---
 
@@ -133,7 +130,7 @@ updated: 2026-09-17
 为根治测量尺度质量参差不齐的痼疾，英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）前置建立了国家级测量工具审查基础设施：
 
 > [!feature] 现代循证评估的测量尺度基础设施
-> - **[[SPECTRUM]] 数据库（非认知与社会情感测量工具库）** 针对市场上非认知与心理韧性量表良莠不齐的现实，EEF 委托曼彻斯特大学迈克尔·威格斯沃思（Wigelsworth et al., 2017）开展超大规模系统[[Document\|文献]]审查，严格审核数百种量表的心理计量属性（[[Reliability\|信度]]、[[Construct Validity\|结构效度]]、预测效度、[[Cross-cultural Validity\|跨文化效度]]及学校可行性），建立起权威的非认知测量工具准入目录（[EEF SPECTRUM Database](https://educationendowmentfoundation.org.uk/spectrum-essential-skills-and-non-academic-outcomes/spectrum-database)）。
+> - **[[SPECTRUM]] 数据库（非认知与社会情感测量工具库）** 针对市场上非认知与心理韧性量表良莠不齐的现实，EEF 委托曼彻斯特大学迈克尔·威格斯沃思（Wigelsworth et al., 2017）开展超大规模系统文献审查，严格审核数百种量表的心理计量属性（[[Reliability\|信度]]、[[Construct Validity\|结构效度]]、预测效度、[[Cross-cultural Validity\|跨文化效度]]及学校可行性），建立起权威的非认知测量工具准入目录（[EEF SPECTRUM Database](https://educationendowmentfoundation.org.uk/spectrum-essential-skills-and-non-academic-outcomes/spectrum-database)）。
 > - **[[Academic Achievement\|学业成就]]测量数据库（Attainment Measures Database）** 系统收录并审查面向 6–18 岁学生的标准化[[Norm-Referenced Test\|常模参照测验]]，针对阅读、数学与科学等学科提供详细的心理计量评级与量程诊断（[Attainment Measures Database](https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/eef-outcome-measures-and-databases/attainment-measures-database/am-database)）。
 > - **学前早期测量数据库（Early Years Measures Database）** 专门评估面向 0–6 岁儿童早期语言、读写、数学与社会情感发展的测量工具，确保学前教育试验采用高敏感度、宽量程的测量尺度（[Early Years Measures Database](https://educationendowmentfoundation.org.uk/projects-and-evaluation/evaluation/eef-outcome-measures-and-databases/early-years-measures-database-2/early-years-measures-database)）。
 
@@ -147,7 +144,7 @@ updated: 2026-09-17
 > 测量尺度在数学上拥有的信息量决定了数据分析的统计合法性边界。
 
 > [!claim] [[John W. Creswell\|Creswell, J. W.]] & [[J. David Creswell\|Creswell, J. D.]]
-> **统计模型与尺度匹配的刚性原则** [[Quantitative Research\|量化研究]]者在选择[[Hypothesis\|假设]]检验方法时必须严格受制于[[Dependent Variable\|因变量]]与[[Independent Variable\|自变量]]的测量尺度属性。名义尺度与顺序尺度数据由于缺乏相等的测量间距，不能计算具有数学意义的算术均值与方差，原则上必须采用非参数统计方法（如[[Chi-Squared Test\|卡方检验]]、Mann-Whitney U 检验、Kruskal-Wallis 检验）；而等距尺度与比率尺度数据具有相等的度量间距，在满足分布假定下支持均值、标准差计算及参数检验（如 $t$ 检验、[[Analysis of Variance\|方差分析]] ANOVA、多元线性回归）。量表类型的混淆与误判将直接破坏统计推论的有效性。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, p. 56)]]
+> **统计模型与尺度匹配的刚性原则** [[Quantitative Research\|量化研究]]者在选择假设检验方法时必须严格受制于[[Dependent Variable\|因变量]]与[[Independent Variable\|自变量]]的测量尺度属性。名义尺度与顺序尺度数据由于缺乏相等的测量间距，不能计算具有数学意义的算术均值与方差，原则上必须采用非参数统计方法（如[[Chi-Squared Test\|卡方检验]]、Mann-Whitney U 检验、Kruskal-Wallis 检验）；而等距尺度与比率尺度数据具有相等的度量间距，在满足分布假定下支持均值、标准差计算及参数检验（如 $t$ 检验、[[Analysis of Variance\|方差分析]] ANOVA、多元线性回归）。量表类型的混淆与误判将直接破坏统计推论的有效性。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, p. 56)]]
 
 ---
 

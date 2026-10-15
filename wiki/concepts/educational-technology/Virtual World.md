@@ -7,7 +7,7 @@ aliases:
 summary: "计算机生成的模拟环境，参与者通过化身互动并共创世界，为教育研究提供安全、匿名和沉浸式的敏感议题探索空间"
 type: concept
 domain: "educational-technology"
-related_count: 21
+related_count: 20
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Discourse]]"
   - "[[Grand Challenges]]"
-  - "[[Hypothesis]]"
   - "[[Sensitive Research]]"
   - "[[Informed Consent]]"
 related_theories:
@@ -46,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-19
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Virtual World
@@ -186,7 +185,7 @@ updated: 2026-10-07
 
 > [!critique-method] 一阶变革与技术独特性
 > - **文化再生产的风险** 使用技术简单复制现有实践或复制其他技术的功能，是文化再生产或一阶变革的例子，不可能产生根本或持续的差异（Cuban, 1986, 2003; Fullan, 2007）。虚拟世界研究需要追问：教育者是否因为技术提供了某种独特功能而使用虚拟世界？
-> - **国际研究的协议兼容性** 不同机构的采购限制、不兼容的 IT 基础设施以及嵌入不同制度和文化[[Hypothesis\|假设]]的政策，使跨国虚拟世界研究面临额外的协调挑战。
+> - **国际研究的协议兼容性** 不同机构的采购限制、不兼容的 IT 基础设施以及嵌入不同制度和文化假设的政策，使跨国虚拟世界研究面临额外的协调挑战。
 
 ### 伦理层面的争议
 

@@ -8,7 +8,7 @@ aliases:
 summary: "个体、组织与公共治理系统通过实际行动、工程实践、政策试错与自适应排障获取并内化深层知识的认识与生产率演进机制。在杜威进步主义教育中指通过真实探究建构批判性思维的核心教学法；在产业组织与创新经济学中指随累积产量爬坡带来的动态良率提升与单位成本下降（学习曲线效应）；在现代产业战略中指通过执行中的自适应规制调整、审批改革与反馈纠偏实现政策实效的关键过程准则。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 47
+related_count: 44
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -20,13 +20,11 @@ tags:
   - theme/industrial-policy
   - theme/innovation-economics
 related_concepts:
-  - "[[Document]]"
   - "[[Progressive Education]]"
   - "[[Rote Learning]]"
   - "[[Critical Thinking]]"
   - "[[Learning Economy]]"
   - "[[Emergence]]"
-  - "[[Hypothesis]]"
   - "[[Modern Industrial Policy]]"
   - "[[Agglomeration Externalities]]"
   - "[[Market Failure]]"
@@ -45,7 +43,6 @@ related_concepts:
   - "[[STEM Education]]"
   - "[[Market Shaping and Creating]]"
   - "[[National Innovation System]]"
-  - "[[Assemblage]]"
   - "[[Active Learning]]"
 related_theories:
   - "[[Path Dependence]]"
@@ -76,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Learning by Doing
@@ -86,12 +83,12 @@ updated: 2026-10-09
 ## 定义
 
 > [!def] 核心定义
-> **在做中学（Learning by Doing）**，在经济学与产业政策[[Document|文献]]中常称**干中学**，是指认知主体、产业组织或公共治理系统通过投身真实实践操作、持续试错排障与经验累积，从而内生性获取、提炼并改进深层知识与治理能力的动态学习机制。在**[[Progressive Education|进步主义教育]]哲学**中，[[John Dewey|约翰·杜威]]（John Dewey）将其确立为打破[[Rote Learning|死记硬背]]、通过真实任务建构行动性理解与[[Critical Thinking|批判性思维]]的核心教学法；[[Argument_Darwish_2009_Queens|(Dewey, 1961; 引自 Darwish, 2009, p. 35)]] 在**产业组织与创新经济学**视角下，干中学表现为随着累积产出规模的扩大，制造良率逐步提升且单位生产成本持续以几何级数下降的[[Learning Economy|学习曲线效应]]，构成了政府通过前期采购或研发补贴分摊沉没风险、帮助新兴产业跨越早期高成本门槛的核心经济学理论辩护；[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 81, 102)]]; [[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 31)]] 在**现代产业战略治理**视角下，干中学表现为公共部门在政策落地执行中敏捷吸收产业反馈、动态推行规制改革与自适应纠偏的关键过程准则。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 4–5, 14)]]
+> **在做中学（Learning by Doing）**，在经济学与产业政策文献中常称**干中学**，是指认知主体、产业组织或公共治理系统通过投身真实实践操作、持续试错排障与经验累积，从而内生性获取、提炼并改进深层知识与治理能力的动态学习机制。在**[[Progressive Education|进步主义教育]]哲学**中，[[John Dewey|约翰·杜威]]（John Dewey）将其确立为打破[[Rote Learning|死记硬背]]、通过真实任务建构行动性理解与[[Critical Thinking|批判性思维]]的核心教学法；[[Argument_Darwish_2009_Queens|(Dewey, 1961; 引自 Darwish, 2009, p. 35)]] 在**产业组织与创新经济学**视角下，干中学表现为随着累积产出规模的扩大，制造良率逐步提升且单位生产成本持续以几何级数下降的[[Learning Economy|学习曲线效应]]，构成了政府通过前期采购或研发补贴分摊沉没风险、帮助新兴产业跨越早期高成本门槛的核心经济学理论辩护；[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 81, 102)]]; [[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 31)]] 在**现代产业战略治理**视角下，干中学表现为公共部门在政策落地执行中敏捷吸收产业反馈、动态推行规制改革与自适应纠偏的关键过程准则。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 4–5, 14)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 强调深层知识与自适应治理能力并非源于静态预设，而是在持续动作、反馈与排障调试的具身回路中内生[[Emergence|涌现]]的自适应专长。
 > - **用途** 在课堂教学中用于破除储蓄式灌输；在高科技产业竞争中用于解释先进制程制造的动态规模报酬递增；在公共政策中用于指导自适应规制设计与动态纠偏机制。
-> - **边界** 必须区别于盲目机械的试错；微观工艺干中学高度依存于受控[[Hypothesis|假设]]检验与[[Statistical Process Control|统计过程控制]]，宏观政策干中学高度依存于保持科层独立性的同时对现实瓶颈的敏捷规制调整。
+> - **边界** 必须区别于盲目机械的试错；微观工艺干中学高度依存于受控假设检验与[[Statistical Process Control|统计过程控制]]，宏观政策干中学高度依存于保持科层独立性的同时对现实瓶颈的敏捷规制调整。
 
 > [!citation-card] [[Modern Industrial Policy|现代产业政策]]辩护中的干中学效应
 > 利用产业政策解决[[Agglomeration Externalities|集聚外部性]]、干中学和技术领先等[[Market Failure|市场失灵]]问题的潜在功能依然存在；政府若能在技术早期通过订单采购或研发补贴支持企业承担巨额固定研发成本，将加速企业跨越干中学门槛并降低全行业长期成本。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 81, 102)]]
@@ -111,7 +108,7 @@ updated: 2026-10-09
 > | 维度 | 教育哲学中的“在做中学” | 工业制造中的“干中学” | 公共治理中的“干中学”（自适应规制） | 静态规模经济（Scale Economies） |
 > |---|---|---|---|---|
 > | **分析载体** | 课堂学生心智与[[Critical Thinking\|批判性思维]] | 车间工程团队、制造良率与工时 | 监管机构、跨部门协调办公室与执行网络 | 工业厂房与物理设备的瞬时产能规模 |
-> | **核心机制** | 真实任务挑战触发[[Hypothesis\|假设]]检验与经验重组 | 跨期累积产量爬坡触发工艺排障与缺陷消除 | 面对实体落地瓶颈开展行政审批改革与动态豁免复核 | 当期产出增加摊薄固定资产折旧与管理费 |
+> | **核心机制** | 真实任务挑战触发假设检验与经验重组 | 跨期累积产量爬坡触发工艺排障与缺陷消除 | 面对实体落地瓶颈开展行政审批改革与动态豁免复核 | 当期产出增加摊薄固定资产折旧与管理费 |
 > | **产出形态** | [[Problem Solving\|问题解决能力]]与自适应专长 | 晶圆良率从 10% 提升至 90%+、单位芯片成本骤降 | 破除并网与土地迟滞瓶颈、规则持续优化与防范僵化 | 单件产品即时边际成本曲线沿短期成本线下移 |
 > | **政策与教学意涵** | PBL 项目化探究、动手制作与实验验证 | 为战略新兴产业提供首发采购以越过成本门槛 | 确立干中学调整弹性、建立常态化信息反馈与[[Reflexivity\|反思性]]纠偏 | 鼓励企业兼并重组以达到最小有效规模 |
 
@@ -120,7 +117,7 @@ updated: 2026-10-09
 ## 核心要素与典型机制
 
 > [!feature] 核心要素
-> - **真实任务与工艺挑战的牵引（Problem-Driven Activity）** 学习与改进的起点必须是真实的工程、教学或政策难题，迫使主体直面缺陷并提出[[Hypothesis|假设]]。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 35)]]
+> - **真实任务与工艺挑战的牵引（Problem-Driven Activity）** 学习与改进的起点必须是真实的工程、教学或政策难题，迫使主体直面缺陷并提出假设。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 35)]]
 > - **受控假设检验与[[Statistical Process Control|统计过程控制]]（Controlled Process Control）** 在工业制造车间，干中学通过严格控制工艺[[Variable|变量]]、记录缺陷晶圆切片与微观化学归因展开，将隐性试错转化为显性知识。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 195–199)]]
 > - **首发采购支持下的规模累积爬坡（Scale-Accumulation under Lead Procurement）** 在[[General Purpose Technology|通用技术]]商业前景不明的萌芽期，政府与军方首发采购订单为供应商提供了不计短期成本的试验田，支撑企业在大规模生产中沿学习曲线快速下滑。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 31)]]
 > - **累积产量带来的动态成本陡降（Dynamic Learning Curve）** 半导体工业实证表明，累积产量每翻一番，单位芯片生产成本通常下降 20%–30%，使先发企业构筑起强大的动态成本护城河。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 81, 83)]]
@@ -137,8 +134,8 @@ updated: 2026-10-09
 > [!concept-lens] 教育[[Epistemology|认识论]]与[[Reflexivity|反思性]]经验重构
 > 解释个体认知如何从被动接受外在符号转向在真实操作反馈中发展[[Higher-Order Thinking Skills|高阶思维]]与自适应专长。
 
-> [!claim] Dewey (1961) & Darwish (2009)
-> **经验重组与心智增长的行动性路径** [[John Dewey|杜威]]指出，最先进入个体认知且留存最深的是行动知识；但“做”必须是有目的、受[[Reflective Thinking|反思性思维]]引导的智性操作。通过构建真实问题情境（如自主设计并制造一台可投射的投石机），学习者在面对材料断裂、角度偏差等真实阻碍时，自然激发了[[Hypothesis|假设]]检验、参数微调与同伴协商，从而使经验在持续重组中实现智性增长。[[Argument_Darwish_2009_Queens|(Dewey, 1961; Darwish, 2009, pp. 35, 44)]]
+> [!claim] Dewey (1961) & [[Argument_Darwish_2009_Queens|Darwish (2009)]]
+> **经验重组与心智增长的行动性路径** [[John Dewey|杜威]]指出，最先进入个体认知且留存最深的是行动知识；但“做”必须是有目的、受[[Reflective Thinking|反思性思维]]引导的智性操作。通过构建真实问题情境（如自主设计并制造一台可投射的投石机），学习者在面对材料断裂、角度偏差等真实阻碍时，自然激发了假设检验、参数微调与同伴协商，从而使经验在持续重组中实现智性增长。[[Argument_Darwish_2009_Queens|(Dewey, 1961; Darwish, 2009, pp. 35, 44)]]
 
 ---
 
@@ -198,7 +195,7 @@ updated: 2026-10-09
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **教育认知建构命题** | 真实任务挑战触发假设检验与经验重组，破除储蓄式灌输并塑造[[Critical Thinking\|批判性思维]] | 课堂探究教学、[[STEM Education\|STEM]] 项目化学习、实验与动手任务 | Dewey (1961); Darwish (2009) |
+> | **教育认知建构命题** | 真实任务挑战触发假设检验与经验重组，破除储蓄式灌输并塑造[[Critical Thinking\|批判性思维]] | 课堂探究教学、[[STEM Education\|STEM]] 项目化学习、实验与动手任务 | Dewey (1961); [[Argument_Darwish_2009_Queens\|Darwish (2009)]] |
 > | **产业政策效率命题** | 芯片良率爬坡依赖累积规模，早期补贴分担干中学风险构成培育动态先发优势的理论基石 | 先进半导体制造、战略性贸易政策、重大装备工业扶植 | [[Argument_Bown_2024_JEP\|Bown & Wang (2024)]] |
 > | **车间组织排障命题** | 干中学是工程师团队主动开展假设检验与统计过程控制的主动知识积累过程 | 微电子工艺工程史、制造车间质量控制与流程优化 | [[Argument_Lecuyer_1999_HT\|Lécuyer (1999)]] |
 > | **首发采购孵化命题** | 军方首发采购为萌芽技术垫付高额试错成本，通过规模累积驱动干中学良率爬坡并促成民用外溢 | 战后集成电路/计算机采购、前沿通用技术早期[[Market Shaping and Creating\|市场创造]] | [[Argument_Fabrizio_Mowery_2005_REI\|Fabrizio & Mowery (2005)]] |
@@ -226,7 +223,7 @@ updated: 2026-10-09
 > - 台积电当代先进制程依托苹果与英伟达的海量晶圆代工订单，在生产中快速积累缺陷密度分布数据，使 3nm 工艺良率爬坡速度显著优于竞争对手，强化了干中学带来的跨期成本壁垒。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 81, 88)]]
 
 > [!case] 案例四：战后日本制造车间的逆向工程与质量改进
-> [[Chris Freeman|克里斯·弗里曼]]考察日本战后制造业时指出，日本企业在引进欧美专利技术后，并未停留在被动使用，而是通过车间生产线上的持续“干中学”展开深度的逆向工程与工装再设计。基层技工与工程团队在[[Assemblage|装配]]线现场摸索操作瓶颈，推行全员参与的质量控制圈（QC 圈），使日本汽车与微电子产品的装配公差与返修率显著优于欧美同行，完成了从技术跟随到工艺引领的赶超。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 11–13)]]
+> [[Chris Freeman|克里斯·弗里曼]]考察日本战后制造业时指出，日本企业在引进欧美专利技术后，并未停留在被动使用，而是通过车间生产线上的持续“干中学”展开深度的逆向工程与工装再设计。基层技工与工程团队在装配线现场摸索操作瓶颈，推行全员参与的质量控制圈（QC 圈），使日本汽车与微电子产品的装配公差与返修率显著优于欧美同行，完成了从技术跟随到工艺引领的赶超。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 11–13)]]
 
 > [!case] 案例五：美国绿色转型与基础设施推进中的自适应规制学习
 > 拜登政府在推进《[[Infrastructure Investment and Jobs Act|基础设施投资与就业法案]]》与《[[Inflation Reduction Act|通胀削减法案]]》落地中的干中学实践：

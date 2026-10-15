@@ -7,7 +7,7 @@ aliases:
 summary: "教育知识治理的核心终极命题，指通过跨机构协作、多元方法证据综合与元中介机制，建构一套被全球教育系统准普遍公认为基础坚实、可跨情境调适并经得起时间检验的共享性知识体系。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 36
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Communities of Practice]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
-  - "[[Document]]"
   - "[[Heterogeneity]]"
   - "[[Rich and Thick Description]]"
   - "[[Phronesis]]"
@@ -62,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-10-05
+updated: 2026-10-15
 ---
 
 # Cumulative Knowledge Base
@@ -93,7 +92,7 @@ updated: 2026-10-05
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | 累积性知识库（Cumulative Knowledge Base） | 循证实践工具包（Practice Toolkits） | 传统学术[[Document\|文献]]库（Academic Repositories） |
+> | 维度 | 累积性知识库（Cumulative Knowledge Base） | 循证实践工具包（Practice Toolkits） | 传统学术文献库（Academic Repositories） |
 > |---|---|---|---|
 > | **组织治理属性** | 跨国、跨系统元中介协作网络与二阶综合平台 | 单一中介机构面向基层研发的通俗转化工具 | 大学、出版商或学术学会的离散期刊集合 |
 > | **知识集成形态** | 二阶[[Systematic Review\|系统综述]]（Reviews of Reviews）与情境调适模型 | [[Effect Size\|效应量]]、成本估算与实践警示卡片 | 单篇[[Case Study\|个案研究]]、实验报告与理论论文 |
@@ -176,7 +175,7 @@ updated: 2026-10-05
 ### 命题总览
 
 > [!ref-table] 累积性知识库核心命题汇总
-> | 命题编号 | 命题核心主张 | 理论维度 | 代表性学者与[[Document\|文献]] | 治理启示 |
+> | 命题编号 | 命题核心主张 | 理论维度 | 代表性学者与文献 | 治理启示 |
 > |---|---|---|---|---|
 > | **命题一** | 政治换届与 2–3 年财政预算短周期在科学评估出炉前仓促决定项目存亡，阻断了知识体系的纵向累积。 | 政治周期与评估错配 | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]]; Borman et al. (2003) | 必须建立国家最高立法授权与经常性法定预算形成的制度护城河。 |
 > | **命题二** | 单体中介孤岛受制于资源与受众局限，唯有协同推进“中介的中介”与二阶系统综述方能凝聚全球公认共识。 | 组织元治理与网络协同 | Gough et al. (2011); OECD (2021) | 采用双轨会议机制平衡网络广度与专业深度，培育跨国元中介。 |

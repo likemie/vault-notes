@@ -7,7 +7,7 @@ aliases:
 summary: "源自大学化学教育并广泛扩散至 K-12 阶段的小组合作探究教学法，依托探索、概念形成与应用三阶段学习环，结合结构化团队角色分配与引导式活动材料，元分析证实其能显著降低课程挂科率并大幅提高学业通过优势比"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 37
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Problem-Based Learning]]"
   - "[[Discovery Learning]]"
   - "[[Direct Instruction]]"
-  - "[[Document]]"
   - "[[Working Memory]]"
   - "[[STEM Education]]"
   - "[[Gatekeepers]]"
@@ -64,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Process-Oriented Guided Inquiry Learning
@@ -107,7 +106,7 @@ updated: 2026-10-07
 > | **课堂权力结构** | 教师退居幕后担任促进者（Facilitator） | 教师牢牢掌控讲台与讲解节奏 | 导师提供宏观资源，学生自主规划 | 学生自由散漫交流 |
 > | **材料载体** | 高度结构化的三阶段 POGIL 活动单 | 教科书、课件 PPT、黑板板书 | 复杂的劣构真实案例描述 | 课后开放思考题 |
 > | **小组分工机制** | **明确的四重角色分配**（轮流轮换） | 无分工（个体被动听讲） | 团队自发协调分工 | 常见责任分散与搭便车 |
-> | **认知加工路径** | 观察模型 ➔ 自主建构 ➔ 变式应用 | 聆听概念 ➔ 观察例题 ➔ 封闭操练 | 剖析问题 ➔ 查阅[[Document\|文献]] ➔ 提出方案 | 意见交换 ➔ 观点妥协 |
+> | **认知加工路径** | 观察模型 ➔ 自主建构 ➔ 变式应用 | 聆听概念 ➔ 观察例题 ➔ 封闭操练 | 剖析问题 ➔ 查阅文献 ➔ 提出方案 | 意见交换 ➔ 观点妥协 |
 > | **典型实证优势** | **大幅降低课程挂科率（OR 显著提升）** | 短期程序计算掌握速度极快 | 综合实践能力与自主求知欲 | 社交互动活跃 |
 
 ---

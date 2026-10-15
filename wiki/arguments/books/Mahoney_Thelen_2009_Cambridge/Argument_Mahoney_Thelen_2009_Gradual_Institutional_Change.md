@@ -7,7 +7,7 @@ title: "Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change"
 argument_key: "Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change"
 argument_display_title: "A theory of gradual institutional change"
 argument_kind: "book-chapter"
-argument_related_count: 42
+argument_related_count: 40
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -43,9 +43,7 @@ related_concepts:
   - "[[Opportunists]]"
   - "[[Rule Ambiguity]]"
   - "[[Veto Possibilities]]"
-  - "[[Hypothesis]]"
   - "[[Enforcement Discretion]]"
-  - "[[Document]]"
   - "[[Ontology]]"
   - "[[Strategic Compliance]]"
   - "[[Variable]]"
@@ -123,14 +121,14 @@ updated: 2026-10-11
 > [!method-panel] 研究设计
 > | 模块 | 材料与分析路径 |
 > |---|---|
-> | **制度主义学术史批判**<br>Comparative Institutionalist Critique | 梳理社会学、理性选择与[[Historical Institutionalism\|历史制度主义]]在变迁解释上的共同局限，反思外生危机[[Hypothesis\|假设]]，提炼制度稳定性的政治动员前提。（pp. 4–7） |
+> | **制度主义学术史批判**<br>Comparative Institutionalist Critique | 梳理社会学、理性选择与[[Historical Institutionalism\|历史制度主义]]在变迁解释上的共同局限，反思外生危机假设，提炼制度稳定性的政治动员前提。（pp. 4–7） |
 > | **长时段比较历史案例考证**<br>Comparative-Historical Case Analysis | 考证英国上议院演进、美国社会保障立法、法国劳资关系、日本议会选区与肯尼亚土地产权等案例，作为因果机制的经验检验。（pp. 1–3, 11–28） |
 > | **类型学因果建模**<br>Typological Modeling | 提炼政治[[Veto Possibilities\|否决可能性]]（强/弱）与[[Enforcement Discretion\|解释执行裁量权]]（高/低）双维属性空间，逻辑推导四类演进模式与四类行动者角色的匹配亲和性。（pp. 15, 28） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |---|---|
-> | **理论[[Document\|文献]]样本** | 涵盖[[Rational Action Theory\|理性选择理论]]与否决者文献（North, Ostrom, [[George Tsebelis\|Tsebelis]]）、[[Historical Institutionalism\|历史制度主义]]文献（[[Peter A. Hall\|Hall]], [[Theda Skocpol\|Skocpol]], [[Paul Pierson\|Pierson]], [[Jacob S. Hacker\|Hacker]], [[Wolfgang Streeck\|Streeck]], Thelen）与组织社会学研究（Selznick, Stinchcombe）。 |
+> | **理论文献样本** | 涵盖[[Rational Action Theory\|理性选择理论]]与否决者文献（North, Ostrom, [[George Tsebelis\|Tsebelis]]）、[[Historical Institutionalism\|历史制度主义]]文献（[[Peter A. Hall\|Hall]], [[Theda Skocpol\|Skocpol]], [[Paul Pierson\|Pierson]], [[Jacob S. Hacker\|Hacker]], [[Wolfgang Streeck\|Streeck]], Thelen）与组织社会学研究（Selznick, Stinchcombe）。 |
 > | **经验案例覆盖** | 涉及英国议会改革、美国国会议事与福利立法、巴西地方医疗、肯尼亚土地产权、印度尼西亚威权政体以及中国和古巴的市场双轨发展。 |
 > | **材料功能** | 案例不用于大样本统计检验，而是作为因果机制的经验具象检验，展示理论模型的现实解释力。 |
 
@@ -169,7 +167,7 @@ updated: 2026-10-11
 > - **理性选择制度主义的均衡自足论** 将制度预设为博弈均衡与可信承诺结构，假定违规惩罚与遵从激励已经内生于行动者的收益预期，从而将规则遵从预设为静态既定事实，将变迁退化为外生偶发事态。（pp. 5–6）
 > - **早期[[Historical Institutionalism|历史制度主义]]的断裂[[Path Dependence|路径依赖]]** 过度依赖报酬递增与沉没成本机制（如[[Paul Pierson|保罗·皮尔逊]]（Paul Pierson）关于时间性与自强化的论述），倾向于认为制度一旦跨过关键节点就会陷入刚性自我强化锁定，最终将历史机械割裂为漫长无变化的惰性期与剧烈的外生危机断裂。（pp. 6–7）
 
-三大流派因而在解释逻辑上共同陷入了平时绝对静止、危机剧烈突变的间断均衡[[Hypothesis|假设]]，无法透视常规历史时期正在悄然发生的深层蜕变。
+三大流派因而在解释逻辑上共同陷入了平时绝对静止、危机剧烈突变的间断均衡假设，无法透视常规历史时期正在悄然发生的深层蜕变。
 
 > [!contrast-table] 三大制度主义流派在制度维系与变迁解释上的理论局限
 > | 制度主义流派 | 制度本质属性 | 规则维系机制 | 变迁解释路径 | 理论分析局限 |

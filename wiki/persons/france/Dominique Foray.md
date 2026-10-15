@@ -9,7 +9,7 @@ summary: "法国著名经济学家、创新与知识经济学权威，瑞士洛�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 34
+person_related_count: 32
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Growth]]"
   - "[[Discourse]]"
   - "[[Paradigm]]"
-  - "[[Hypothesis]]"
   - "[[Codification]]"
   - "[[Knowledge Production]]"
   - "[[Knowledge Mediation]]"
@@ -50,7 +49,6 @@ related_concepts:
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -67,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Dominique Foray
@@ -78,7 +76,7 @@ updated: 2026-10-14
 
 > [!person-profile] 人物档案
 > - **身份位置** 法国当代著名经济学家、创新学学者，瑞士洛桑联邦理工学院（EPFL）创新与[[Knowledge-Based Economy|知识经济]]管理荣休教授，曾任[[CNRS|法国国家科学研究中心]]（[[CNRS]]）研究主任、巴黎第九大学教授，以及[[OECD|经济合作与发展组织]]（[[OECD]]）科技与工业司资深分析师及[[Centre for Educational Research and Innovation|教育研究与创新中心]]（[[Centre for Educational Research and Innovation|CERI]]）核心学术顾问。
-> - **核心角色** 知识经济学（Economics of Knowledge）与“学习型经济”（[[Learning Economy]]）的理论开创者之一。在教育政策社会学中，其关于[[Coding in Qualitative Research|编码]]知识贬值与默会技能稀缺性的论断，被经合组织采纳为重构全球[[Lifelong Learning|终身学习]]议程与职业技能转向的核心经济学支柱。
+> - **核心角色** 知识经济学（Economics of Knowledge）与“学习型经济”（[[Learning Economy]]）的理论开创者之一。在教育政策社会学中，其关于编码知识贬值与默会技能稀缺性的论断，被经合组织采纳为重构全球[[Lifelong Learning|终身学习]]议程与职业技能转向的核心经济学支柱。
 > - **代表贡献** 与[[Bengt-Åke Lundvall|本格特-奥克·伦德瓦尔]]（[[Bengt-Åke Lundvall]]）共同提出“学习型经济”框架，系统阐明[[Tacit Knowledge|默会知识]]在数字经济中的战略价值，奠定 OECD 报告《[[Knowledge-Based Economy|知识经济]]》（1996）的理论根基；开创欧盟“智能专门化”（Smart Specialisation）区域创新战略。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
 
 > [!citation-card]- 人物定位的关键来源
@@ -102,7 +100,7 @@ updated: 2026-10-14
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1990 年代初中期 — 学习型经济与知识微观机制奠基期** 批判传统新古典增长模型将知识视为外生公共品的[[Hypothesis|假设]]，论证信息通信技术虽然极大加速了知识[[Coding in Qualitative Research|编码]]（[[Codification]]），但有效应用编码信息必须依赖高度本地化的默会技能。
+> - **1990 年代初中期 — 学习型经济与知识微观机制奠基期** 批判传统新古典增长模型将知识视为外生公共品的假设，论证信息通信技术虽然极大加速了知识编码（[[Codification]]），但有效应用编码信息必须依赖高度本地化的默会技能。
 >   - **代表著作** 《[[Knowledge-Based Economy|知识经济]]中的就业与增长》（*Employment and Growth in the Knowledge-Based Economy*, OECD, 1996, 与 Lundvall 共同主编）。
 >   - **关键概念／方法** 学习型经济、默会技能、知识编码化、[[Knowledge-Based Economy|知识经济]]。
 >   - **阶段转向** 从传统技术经济学跃升为以知识属性、学习过程与教育培训为核心的新增长分析[[Paradigm|范式]]。
@@ -120,7 +118,7 @@ updated: 2026-10-14
 ## 核心思想
 
 > [!claim] 核心主张
-> 在数字信息时代，信息与通信技术的普及使得形式化、符号化的[[Coding in Qualitative Research|编码]]知识（Codified Knowledge）能够以接近于零的边际成本进行瞬间全球传输与复制，其市场交换价值随之迅速稀释；与此形成鲜明对照的是，深植于行动主体身心经验之中、无法被完全文字化或算法化的[[Tacit Knowledge|默会知识]]（Tacit Knowledge）与程序性实践技能（[[Procedural Knowledge|knowing how]]），反而成为决定创新效率与经济增值的唯一稀缺要素。因此，现代国家与教育系统的首要任务不再是灌输静态的学科事实，而是将整个社会重塑为持续[[Lifelong Learning|终身学习]]、反思与动态重组默会能力的“学习型经济”。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
+> 在数字信息时代，信息与通信技术的普及使得形式化、符号化的编码知识（Codified Knowledge）能够以接近于零的边际成本进行瞬间全球传输与复制，其市场交换价值随之迅速稀释；与此形成鲜明对照的是，深植于行动主体身心经验之中、无法被完全文字化或算法化的[[Tacit Knowledge|默会知识]]（Tacit Knowledge）与程序性实践技能（[[Procedural Knowledge|knowing how]]），反而成为决定创新效率与经济增值的唯一稀缺要素。因此，现代国家与教育系统的首要任务不再是灌输静态的学科事实，而是将整个社会重塑为持续[[Lifelong Learning|终身学习]]、反思与动态重组默会能力的“学习型经济”。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
 
 > [!citation-card] 福雷论编码知识的廉价化与默会能力的绝对稀缺性
 > 伴随数字技术的革命性扩散，编码知识正以极快速度商品化与公共化。然而，拥有信息绝不等于具备运用信息解决真实问题的能力。学习绝不仅仅是利用电脑获取数据库中的编码文本，而是一项高度依赖具身试错、社群协作与经验感知的默会技艺。一个社会能否繁荣，不再取决于它囤积了多少书本知识，而取决于它培育劳动力终身适应、反思并创造新知识的默会学习生态。
@@ -133,7 +131,7 @@ updated: 2026-10-14
 
 > [!influence-path] 影响路径
 > - **理论路径** 与[[Bengt-Åke Lundvall|本格特-奥克·伦德瓦尔]]（[[Bengt-Åke Lundvall]]）、内森·罗森伯格（Nathan Rosenberg）共同奠定了现代[[Knowledge-Based Economy|知识经济]]学与[[National Innovation System|国家创新系统]]分析的欧洲[[Paradigm|范式]]。
-> - **方法路径** 开创了知识[[Coding in Qualitative Research|编码]]度与默会性维度的测量分类法，为评估国家与地区无形知识资产提供了分析工具。
+> - **方法路径** 开创了知识编码度与默会性维度的测量分类法，为评估国家与地区无形知识资产提供了分析工具。
 > - **政策路径** 直接塑造了[[OECD|经合组织]]（[[OECD]]）自 1990 年代中期的教育与技能政策基调，促使国际组织全面转向“[[Lifelong Learning|终身学习]]”与“操作技能”；其倡导的智能专门化（Smart Specialisation）被欧盟委员会确立为欧洲结构与投资基金（ESIF）的法定前置评估标准。
 > - **跨国／跨领域传播** 思想跨越产业经济学、高等教育研究与区域地理学，成为连接经济增长理论与教育改革政策的跨学科桥梁。
 
@@ -180,7 +178,7 @@ updated: 2026-10-14
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Tacit Knowledge]] | 概念 | 将波兰尼的哲学概念引入[[Knowledge-Based Economy\|知识经济]]学，系统论证[[Coding in Qualitative Research\|编码]]知识贬值背景下默会技能的不可替代性。 |
+> | [[Tacit Knowledge]] | 概念 | 将波兰尼的哲学概念引入[[Knowledge-Based Economy\|知识经济]]学，系统论证编码知识贬值背景下默会技能的不可替代性。 |
 > | [[Learning Economy]] | 概念 | 核心理论提出者，界定现代经济竞争从静态知识存量转向动态快速学习与反思能力的[[Paradigm\|范式]]演变。 |
 > | [[Knowledge-Based Economy]] | 概念 | 奠基人之一，主编[[OECD\|经合组织]] 1996 年标志性报告，确立知识作为内生生产要素的全球政策共识。 |
 > | [[OECD]] | 机构 | 长期担任科技工业司与 [[Centre for Educational Research and Innovation\|CERI]] 资深学术顾问，直接起草并指导了多项全球技能与创新政策报告。 |

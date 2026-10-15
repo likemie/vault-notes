@@ -6,7 +6,7 @@ aliases:
 summary: "认识论认知构念之一，指个体认识到知识是不断演化、可被修正的发展性产物，而非永恒不变的绝对真理集合。是预测学业成就效力最强的单一认识论构念。"
 type: concept
 domain: "educational-psychology"
-related_count: 23
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Simplicity of Knowledge]]"
   - "[[Operationalization]]"
   - "[[Heterogeneity]]"
-  - "[[Hypothesis]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Certainty of Knowledge]]"
 related_arguments:
@@ -44,7 +43,7 @@ related_persons: []
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-09-23
+updated: 2026-10-15
 ---
 
 # Development of Knowledge
@@ -86,7 +85,7 @@ updated: 2026-09-23
 ## 理论主张与核心命题
 
 ### 命题一　知识发展信念在所有认识论构念中对学业成就具有最强大的正向预测力
-> [!concept-lens] [[Construct\|构念]]效力的[[Heterogeneity\|异质性]][[Hypothesis\|假设]]
+> [!concept-lens] [[Construct\|构念]]效力的[[Heterogeneity\|异质性]]假设
 > [[Epistemic Cognition\|认识论认知]]下辖的各细分构念并非均质发挥作用，直接关注知识演化属性的构念能产生最大的预测红利。
 
 > [!claim] Greene, J.
@@ -128,7 +127,7 @@ updated: 2026-09-23
 ## 争议与批评
 
 > [!tension] 核心张力：知识发展是独立正向[[Construct\|构念]]还是确定性的反面？
-> - **单维连续体[[Hypothesis\|假设]]（蓝方）** 传统心理测量（如 Schommer 量表）常将知识发展直接作为确定知识（Certain Knowledge）的反向计分项，认为两者是同一认知维度的两极。
+> - **单维连续体假设（蓝方）** 传统心理测量（如 Schommer 量表）常将知识发展直接作为确定知识（Certain Knowledge）的反向计分项，认为两者是同一认知维度的两极。
 > - **正交双构念假设（红方）** 当代实证数据（如 Conley et al., 2004；Greene et al., 2018）表明，否定[[Certainty of Knowledge\|知识的确定性]]并不必然等同于理解知识的演进机制；知识发展蕴含着对证据支持、理论重构的积极认知，应作为独立的单向高阶构念进行测量。
 
 ---

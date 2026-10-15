@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch05"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch05"
 argument_display_title: "Chapter five: Policy"
 argument_kind: "book-chapter"
-argument_related_count: 36
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -69,8 +69,7 @@ related_facts:
   - "[[Sciencewise]]"
   - "[[Chinese Academy of Sciences]]"
   - "[[Sense about Science]]"
-related_persons:
-  - "[[Peter A. Hall]]"
+related_persons: []
 status: draft
 created: 2026-09-04
 updated: 2026-09-17
@@ -158,7 +157,7 @@ updated: 2026-09-17
 > - **发布主体** 英国中央政策审查参谋部（Central Policy Review Staff, CPRS）负责人维克多·罗斯柴尔德勋爵（Lord Victor Rothschild, 1971）
 > - **适用对象** 英国中央政府各行政部委、国家研究理事会（Research Councils）及公共部门科研机构（Public Sector Research Establishments, PSREs）
 > - **政策问题** 战后政府科研经费急剧攀升，但应用科研与政府行政决策及公共需求严重脱节，财政部问责压力激增
-> - **制度位置** 打破 1918 年[[Peter A. Hall|霍尔]]丹报告确立的纯学术自主传统，确立现代“客户-承包商原则”（Customer-Contractor Principle）与国家科研市场采购[[Paradigm\|范式]]
+> - **制度位置** 打破 1918 年霍尔丹报告确立的纯学术自主传统，确立现代“客户-承包商原则”（Customer-Contractor Principle）与国家科研市场采购[[Paradigm\|范式]]
 
 > [!case] 案例研究三：海洋渔业配额制定（Fisheries Quotas Setting，p. 80）
 > 公共部门科研机构的专门设计正是为了支撑持续的政府规制职能：

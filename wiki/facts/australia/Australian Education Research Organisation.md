@@ -9,7 +9,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 46
+fact_related_count: 44
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -33,14 +33,12 @@ related_concepts:
   - "[[Initial Teacher Training]]"
   - "[[School Leadership]]"
   - "[[Paradigm]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Effective Teaching]]"
   - "[[Discourse]]"
-  - "[[Document]]"
-  - "[[Assemblage]]"
   - "[[Value Neutrality]]"
   - "[[Professional Judgment]]"
   - "[[Knowledge Production]]"
+  - "[[Assemblage]]"
   - "[[What Works Movement]]"
   - "[[Network Governance]]"
   - "[[Relational Space]]"
@@ -79,7 +77,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Australian Education Research Organisation
@@ -200,7 +198,7 @@ updated: 2026-10-07
 >     DEPT -->|推广有效教学量规与指南| SCHOOLS
 > ```
 > - **政府联合所有权与法定特许网络** 联邦教育部与全澳 6 个州及 2 个领地的教育部门依据《全国学校改革协议》联合提供 5000 万澳元初始预算，由教育部长联席会议（Education Ministers Meeting）代表共同所有；联邦政府专门修订《2020年公共治理、绩效与问责规则》修正案，以行政法特许其注册为《2001年公司法》担保有限公司并与私营慈善组织开展深度合作。
-> - **[[Venture Philanthropy\|风险慈善]]母体、EEF 输出与 [[Evidence for Learning\|E4L]] 试验原型** [[Social Ventures Australia\|澳大利亚社会创投]]（SVA）与英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）在 2014 年联合出资创设全资中介[[Evidence for Learning\|证据学习中心]]（Evidence for Learning, E4L），作为在澳大利亚本土试验工具包与因果证据的“概念验证样板”；SVA 以 E4L 的本土成功为跳板，借道 2016 生产力委员会调查与 2018 [[Gonski 2.0]] 审查（第 23 条建议）游说联邦设立国家级机构；AERO 成立后，全面承袭了 E4L 沉淀的工具包[[Paradigm\|范式]]与方法学网络，完成了从“私营创投试验原型”向“国家法定中介”的制度[[Transfer Translation Transformation\|转译]]。
+> - **[[Venture Philanthropy\|风险慈善]]母体、EEF 输出与 [[Evidence for Learning\|E4L]] 试验原型** [[Social Ventures Australia\|澳大利亚社会创投]]（SVA）与英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）在 2014 年联合出资创设全资中介[[Evidence for Learning\|证据学习中心]]（Evidence for Learning, E4L），作为在澳大利亚本土试验工具包与因果证据的“概念验证样板”；SVA 以 E4L 的本土成功为跳板，借道 2016 生产力委员会调查与 2018 [[Gonski 2.0]] 审查（第 23 条建议）游说联邦设立国家级机构；AERO 成立后，全面承袭了 E4L 沉淀的工具包[[Paradigm\|范式]]与方法学网络，完成了从“私营创投试验原型”向“国家法定中介”的制度转译。
 > - **核心治理中枢与政商兼任闭环** 专家董事会由 SVA 前董事莉萨·奥布莱恩（Lisa O'Brien）掌舵，汇聚 EEF 创始首席执行官[[Sir Kevan Collins\|柯文·科林斯爵士]]（Sir Kevan Collins）与 SVA 核心捐赠人罗杰·马西-格林（Roger Massy-Greene）等商业与慈善高管；公司章程明文规定董事选任须具备与慈善界合作资质；首席执行官杰妮·多诺万（Jenny Donovan）全面统筹三大业务部门运作。
 > - **国家兄弟中介与数字化底座** 与澳大利亚教学与[[School Leadership\|学校领导力]]研究所（[[Australian Institute for Teaching and School Leadership\|AITSL]]）及[[Australian Curriculum\|澳大利亚课程]]、评估与报告局（ACARA）共享澳大利亚教育服务社（[[Educational Services Australia\|ESA]]）底层数字化系统，实现国家证据资源的分发托管。
 > - **受托审查与私营咨询分包** 设立初期深度委托外部中介[[Centre for Evidence and Implementation\|证据与实施中心]]（CEI）承担全澳学校证据采纳桌面审查，并向麦肯锡系等私营咨询智库开放合规分包通道。
@@ -240,9 +238,9 @@ updated: 2026-10-07
 > - **生态与[[Discourse|话语]]垄断** [[Going Native\|本土化]]移植英国 [[Education Endowment Foundation\|EEF]] 工具模型，依托公私网络形成对国家教育研究议程定义权的集中垄断。([[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 2, 8]])
 
 > [!finding-cards] 关键成效与辐射影响
-> - **教师教育知识定义权的收拢** 成功通过证据评估框架和内部[[Document\|文献]]，掌控了职前教师大纲“大脑与学习”板块知识的官方裁决权。
+> - **教师教育知识定义权的收拢** 成功通过证据评估框架和内部文献，掌控了职前教师大纲“大脑与学习”板块知识的官方裁决权。
 > - **问责机制行政强硬化的主要推手** 董事会强力推动资金惩罚与剥夺办学认证立场，将循证要求转化为大学教育学院必须对齐的硬约束。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 8]])
-> - **跨国证据垄断生态的本土化固化** 完成了英国 EEF 与美国有效性运动模式在澳大利亚公共教育决策肌理中的结构性[[Assemblage\|装配]]。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 64]]; [[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 2, 8]])
+> - **跨国证据垄断生态的本土化固化** 完成了英国 EEF 与美国有效性运动模式在澳大利亚公共教育决策肌理中的结构性装配。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 64]]; [[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 2, 8]])
 
 > [!stat-cards]- 核心规模数据
 > - **5000 万澳元** 联邦与各州/领地联合拨付的公共初始启动财政资金。([[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3, 8]])
@@ -257,7 +255,7 @@ updated: 2026-10-07
 >
 > > [!axis] 公共中立神话 vs 担保有限公司的企业法底座
 > > - **官方与机构立场** 宣称为超党派、[[Value Neutrality\|价值中立]]的公共[[Educational Brokerage Agency\|证据经纪人]]，由各州及联邦教育部长联合所有，旨在依靠科学证据量规消除课堂政治纷争。([[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 2]])
-> > - **学术批判** 埃玛·罗威（Emma Rowe）揭露其真实法人实体是依据《公司法》设立的担保有限公司；其章程明文规定董事须具备与慈善界合作资质，并通过行政法规修正案合法授权其与私营慈善资本合作并向营利咨询分包，实质构成了遮蔽公私利益输送的制度[[Assemblage\|装配]]体。([[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 5, 10–11]])
+> > - **学术批判** 埃玛·罗威（Emma Rowe）揭露其真实法人实体是依据《公司法》设立的担保有限公司；其章程明文规定董事须具备与慈善界合作资质，并通过行政法规修正案合法授权其与私营慈善资本合作并向营利咨询分包，实质构成了遮蔽公私利益输送的制度装配体。([[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 5, 10–11]])
 >
 > > [!axis] 脑科学简化论 vs 大学教师的[[Professional Judgment\|专业判断]]自主权
 > > - **官方与机构立场** 主张教师教育必须根植于脑科学、[[Cognitive Load Theory\|认知负荷理论]]与高保真因果实验，建立全国一致且不可变通的权威大纲。(Australian Government, 2023, p. 31)
@@ -265,7 +263,7 @@ updated: 2026-10-07
 >
 > > [!axis] 封闭自循环专家网络与同行评审程序的缺失
 > > - **官方与机构立场** 声称其大纲与指南广泛汲取了国内外顶尖专家的共识意见，代表最高学术水准。
-> > - **学术批判** 实证分析显示其咨询专家高度集中于受托方 [[Centre for Evidence and Implementation\|CEI]] 机构内部和“有效性”分支网络，构成封闭自循环；核心大纲引用的审查报告仅局限于两本专业期刊，且指导改革的综合报告属于未发表[[Document\|文献]]，完全规避了学术共同体的公开双盲同行评议。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 8–9]])
+> > - **学术批判** 实证分析显示其咨询专家高度集中于受托方 [[Centre for Evidence and Implementation\|CEI]] 机构内部和“有效性”分支网络，构成封闭自循环；核心大纲引用的审查报告仅局限于两本专业期刊，且指导改革的综合报告属于未发表文献，完全规避了学术共同体的公开双盲同行评议。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 8–9]])
 >
 > > [!axis] 公共财政再分配与民主问责的结构性侵蚀
 > > - **官方与机构立场** 主张吸纳慈善界资助与多元力量合作能够有效汇聚社会资源，增强国家教育科研的供给能力。

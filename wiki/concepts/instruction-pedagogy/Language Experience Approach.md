@@ -5,7 +5,7 @@ aliases:
 summary: "基于学生自身口语经验生成阅读与写作材料的早期读写教学法，强调从能想、能说到能写、能读的连续发展。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 9
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,8 +16,6 @@ tags:
   - level/k12
 related_concepts:
   - "[[Whole Language]]"
-  - "[[Transfer Translation Transformation]]"
-  - "[[Document]]"
   - "[[Visible Learning]]"
 related_theories: []
 related_methods:
@@ -32,7 +30,7 @@ related_arguments: []
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: '2026-06-17'
+updated: 2026-10-15
 year: 2020
 doi: ""
 citation_aliases: []
@@ -71,7 +69,7 @@ citation_aliases: []
 > | 对比维度 | 语言经验法 (LEA) | 全语言 (Whole Language) |
 > | :--- | :--- | :--- |
 > | **诞生时间** | 1960年代早期（以 1964 年 R. V. Allen 的著作为标志）(p.144)。 | 1970年代中后期（以 1976 年为正式运动起点）(p.145)。 |
-> | **教学材料** | 主要是儿童自身口语经验[[Transfer Translation Transformation\|转译]]出的个性化、非标准化文本。 | 强调使用完整的、真实的儿童文学作品和图书 (p.143)。 |
+> | **教学材料** | 主要是儿童自身口语经验转译出的个性化、非标准化文本。 | 强调使用完整的、真实的儿童文学作品和图书 (p.143)。 |
 > | **教学逻辑** | 遵循“听-说-写-读”的渐进个人经验化路径。 | 主张在多重语言线索中主动进行意义建构的整体猜测 (p.143)。 |
 > | **与拼读的关系** | 主要通过儿童熟悉的口语词汇与书写符号建立字音关联。 | 坚决反对孤立拼读操练，支持情境化的音形融合教学 (p.148)。 |
 
@@ -83,7 +81,7 @@ citation_aliases: []
 > 语言经验法在后期实证研究汇总中，多次被错误等同于[[Whole Language\|全语言]]，导致了证据库污染：
 > 
 > - **[[Steven Stahl\|斯塔尔]]与米勒的混淆 (Stahl & Miller, 1989)** 在其关于全语言的元分析中，他们承认两者存在“重要的差异”，但仍将它们强行合并为“全语言/语言经验法”进行[[Effect Size\|效应量]]统计。这直接导致 1960 年代（全语言诞生前）的研究被算作全语言的证据 (p.144)。
-> - **Stahl et al. (1994) 的更正** 史蒂芬·斯塔尔（[[Steven Stahl]]）在 1994 年的后续元分析中明确承认，将两者等同是**时代错误的 (anachronistic)**，并在新研究中剔除了纯语言经验法的[[Document\|文献]] (p.145)。然而，[[John Hattie\|约翰·哈蒂]] (John Hattie) 在《[[Visible Learning\|可见的学习]]》（Visible Learning，VL）中合成数据时，却依然在不加纠正的情况下全盘引入了 1989 年包含混淆数据的效应量 (p.145)。
+> - **Stahl et al. (1994) 的更正** 史蒂芬·斯塔尔（[[Steven Stahl]]）在 1994 年的后续元分析中明确承认，将两者等同是**时代错误的 (anachronistic)**，并在新研究中剔除了纯语言经验法的文献 (p.145)。然而，[[John Hattie\|约翰·哈蒂]] (John Hattie) 在《[[Visible Learning\|可见的学习]]》（Visible Learning，VL）中合成数据时，却依然在不加纠正的情况下全盘引入了 1989 年包含混淆数据的效应量 (p.145)。
 > - **麦基与洛马斯的批判 (McGee & Lomax, 1990)** 他们明确指出：“语言经验法是全语言的重要前身，但检验语言经验法的研究结果绝不能用于对全语言进行推断” (p.144)。
  
 > [!case] 证据污染案例：Brazziel & Terrell (1962) 行为主义研究

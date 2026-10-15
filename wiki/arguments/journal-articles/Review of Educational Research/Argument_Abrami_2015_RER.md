@@ -37,9 +37,7 @@ related_concepts:
   - "[[Externalization]]"
   - "[[Zone of Proximal Development]]"
   - "[[Variable]]"
-  - "[[Hypothesis]]"
   - "[[Heterogeneity]]"
-  - "[[Document]]"
   - "[[Publication Bias]]"
   - "[[STEM Education]]"
   - "[[Problem Solving]]"
@@ -61,7 +59,6 @@ related_theories:
 related_methods:
   - "[[Role-playing]]"
   - "[[Effect Size]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Meta-analysis]]"
   - "[[Pre-test and Post-test]]"
   - "[[Experimental Research]]"
@@ -97,7 +94,7 @@ title: "Argument_Abrami_2015_RER"
 argument_key: "Argument_Abrami_2015_RER"
 argument_display_title: "Strategies for teaching students to think critically: A meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 57
+argument_related_count: 54
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -122,7 +119,7 @@ issuing_organization: ""
 > [!concept-lens] 阅读透镜
 > - **对象** 涵盖学前、初等、中等、高等教育及成人阶段的批判性思维教学干预实证研究（基于 341 个标准化测量的真实验与准实验[[Effect Size\|效应量]]，以及 97 个[[Domain Specificity\|学科特异性]]技能效应量、140 个学业成就效应量与 25 个思维倾向效应量）。
 > - **张力** 理论上关于批判性思维是可跨情境迁移的通用认知技能还是依附于特定学科的[[Domain Specificity\|领域特异性]]知识的长期争论；实践中关于“单一讲授”与“探究互动”、“独立设课”与“学科融入”之间的效果分歧。
-> - **贡献** 构建了对话、真实性教学、导师制三维微观教学策略[[Coding in Qualitative Research\|编码]]体系；通过大规模高质量[[Meta-analysis\|元分析]]量化论证了单一策略、双重组合与三维协同的效应梯度，揭示了显性示范、情境锚定与过程[[Scaffolding\|脚手架]]的交互增强机制。
+> - **贡献** 构建了对话、真实性教学、导师制三维微观教学策略编码体系；通过大规模高质量[[Meta-analysis\|元分析]]量化论证了单一策略、双重组合与三维协同的效应梯度，揭示了显性示范、情境锚定与过程[[Scaffolding\|脚手架]]的交互增强机制。
 
 ---
 
@@ -145,10 +142,10 @@ issuing_organization: ""
 
 ### 核心变量与操作化编码表
 
-> [!index-table] 核心[[Variable\|变量]]操作化定义与[[Coding in Qualitative Research\|编码]]规程
+> [!index-table] 核心[[Variable\|变量]]操作化定义与编码规程
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
-> | **通用批判性思维技能**<br>（Generic CT Skills） | 跨领域的通用认知技能，包括论证分析、证据评价、[[Hypothesis\|假设]]识别与逻辑推论。 | 标准化测试：[[California Critical Thinking Disposition Inventory\|CCTDI]] 关联技能量表、加州批判性思维技能测验（CCTST）、Watson-Glaser 批判性思维评估（WGCTA）、Ennis-Weir 批判性思维论证测试、Cornell 批判性思维测试；纳入 $k = 341$ 个效应量。（pp. 283–284, 289–291） |
+> | **通用批判性思维技能**<br>（Generic CT Skills） | 跨领域的通用认知技能，包括论证分析、证据评价、假设识别与逻辑推论。 | 标准化测试：[[California Critical Thinking Disposition Inventory\|CCTDI]] 关联技能量表、加州批判性思维技能测验（CCTST）、Watson-Glaser 批判性思维评估（WGCTA）、Ennis-Weir 批判性思维论证测试、Cornell 批判性思维测试；纳入 $k = 341$ 个效应量。（pp. 283–284, 289–291） |
 > | **[[Domain Specificity\|学科特异性]]批判性思维技能**<br>（Content-Specific CT Skills） | 嵌入特定学科领域（如化学、历史、护理）的情境化批判性思维表现。 | 学科特异性标准化与自编测验；纳入 $k = 97$ 个效应量。（pp. 295–296） |
 > | **[[Critical Thinking Disposition\|批判性思维倾向]]**<br>（CT Dispositions） | 运用批判性思维的习惯、态度与倾向（求真、开放、探究、系统性等）。 | 加州批判性思维倾向问卷（[[California Critical Thinking Disposition Inventory\|CCTDI]]）等自陈量表；排除前实验后纳入 $k = 25$ 个效应量。（pp. 296–297） |
 > | **学业成就**<br>（Achievement） | 课程学科知识与常规内容掌握度。 | 学科期末考试、标准化成就测验；纳入 $k = 140$ 个效应量。（p. 295） |
@@ -167,7 +164,7 @@ issuing_organization: ""
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **文献检索与数据库**<br>Systematic Search | 检索 15 个教育学、心理学、医学与跨学科数据库（包括 [[Education Resources Information Center\|ERIC]], PsycINFO, Web of Science, ProQuest Dissertations, PubMed 等），时间跨度从 1930 年代末至 2009 年，涵盖已发表论文、硕博论文及会议报告。（pp. 282–283, 306） |
-> | **纳入与排除标准**<br>Eligibility Criteria | 纳入研究必须：(1) 包含明确的[[Critical Thinking\|批判性思维]]教学干预；(2) 报告对照组或前[[Pre-test and Post-test\|后测]]定量数据以计算[[Effect Size\|效应量]]；(3) 针对正规或成人教育学习者。排除未报告充分统计量、无教学干预或纯理论[[Document\|文献]]。（pp. 283–284） |
+> | **纳入与排除标准**<br>Eligibility Criteria | 纳入研究必须：(1) 包含明确的[[Critical Thinking\|批判性思维]]教学干预；(2) 报告对照组或前[[Pre-test and Post-test\|后测]]定量数据以计算[[Effect Size\|效应量]]；(3) 针对正规或成人教育学习者。排除未报告充分统计量、无教学干预或纯理论文献。（pp. 283–284） |
 > | **效应量计算与模型**<br>[[Meta-analysis\|Meta-Analytic]] Synthesis | 计算无偏估计量 Hedges' $g+$；采用随机效应模型（Random-Effects Model）进行总体合成，混合效应模型进行调节变量分析；使用 Comprehensive Meta-Analysis（CMA v2.2）软件执行。（pp. 284–285） |
 > | **质量控制与偏倚检验**<br>Sensitivity & Bias Audit | 剔除 15 个极端异常值（$g \ge +2.5$）；剔除前实验设计（Pre-experiments，单组前后测），保留高质量准实验（$k=243$）与真实验（$k=98$）；通用技能分析严格限制为标准化测试；检验漏斗图对称性、经典失安全系数（Fail-Safe $N = 434,819$）与 Orwin 失安全系数（$N = 1,833$）。（pp. 288–291） |
 
@@ -268,7 +265,7 @@ issuing_organization: ""
 > | | 2.8 无教师小组讨论（Small group without teacher） | 24 | 0.26 | 0.09 | 0.43 | 84.97 ($p < .001$) | 72.93% | 自主合作产生适度增益 |
 > | | 2.9 [[Classroom Debate\|正式论辩]]（Debate） | 8 | 0.32 | 0.03 | 0.61 | 21.41 ($p = .003$) | 67.31% | 规则约束下的论点质询 |
 > | | 2.10 口头汇报后研讨（Oral presentations） | 5 | 0.29 | -0.07 | 0.65 | 14.59 ($p = .006$) | 72.58% | 成果展示与答辩互动 |
-> | | 2.11 [[Socratic Dialogue\|苏格拉底对话]]（Socratic dialogue） | 8 | 0.27 | -0.01 | 0.55 | 21.59 ($p = .003$) | 67.58% | 追问[[Hypothesis\|假设]]与概念澄清 |
+> | | 2.11 [[Socratic Dialogue\|苏格拉底对话]]（Socratic dialogue） | 8 | 0.27 | -0.01 | 0.55 | 21.59 ($p = .003$) | 67.58% | 追问假设与概念澄清 |
 > | **真实性教学子策略**<br>(Table 3C) | 3.1 应用型问题解决（Applied problem solving） | 31 | 0.35 | 0.20 | 0.49 | 101.59 ($p < .001$) | 70.47% | 解决现实复杂劣构问题 |
 > | | 3.2 [[Role-playing\|角色扮演]]（Role-playing） | 5 | 0.61 | 0.24 | 0.98 | 10.76 ($p = .030$) | 62.83% | 换位思考多方利益与伦理冲突 |
 > | | 3.3 [[Simulation-Based Learning\|情境模拟]]（Simulations） | 23 | 0.26 | 0.09 | 0.43 | 80.03 ($p < .001$) | 72.51% | 动态情境决策与即时反馈 |
@@ -393,7 +390,7 @@ issuing_organization: ""
 
 > [!warning]
 > 1. **标准化测验[[Construct\|构念]]代表性局限** [[Meta-analysis\|元分析]]所纳入的大多数通用测验主要测量相对狭窄的认知技能频带，可能未能完全覆盖某些批判哲学学者所主张的具身化、深层反思与复杂[[Phronesis\|实践智慧]]。（pp. 299–300）
-> 2. **少数负向干预机制待解** 数据集中存在少数干预效果低于对照组的研究（占 23.5%），元分析仅能对[[Document\|文献]]中明确报告的[[Variable\|变量]]进行[[Coding in Qualitative Research\|编码]]汇总，未能完全穷尽导致干预失败的深层课堂生态与教师实施质量变量。（p. 300）
+> 2. **少数负向干预机制待解** 数据集中存在少数干预效果低于对照组的研究（占 23.5%），元分析仅能对文献中明确报告的[[Variable\|变量]]进行编码汇总，未能完全穷尽导致干预失败的深层课堂生态与教师实施质量变量。（p. 300）
 > 3. **长期追踪与迁移证据不足** 纳入研究多数为学期或课程内的短期测量，缺乏关于[[Critical Thinking\|批判性思维]]在跨年度及真实生活情境中长程迁移与持续维持的追踪数据。（pp. 280, 300）
 
 ---

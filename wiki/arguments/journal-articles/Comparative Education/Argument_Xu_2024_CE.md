@@ -9,7 +9,7 @@ title: "Argument_Xu_2024_CE"
 argument_key: "Argument_Xu_2024_CE"
 argument_display_title: "'One country, two narratives' of China as a nation: comparing Chinese history education in mainland China and Hong Kong"
 argument_kind: "journal-article"
-argument_related_count: 19
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -26,7 +26,6 @@ tags:
   - method/comparative-analysis
   - paradigm/constructivist
 related_concepts:
-  - "[[Document]]"
   - "[[Research Question]]"
   - "[[Paradigm]]"
   - "[[Zhonghua Minzu]]"
@@ -40,7 +39,6 @@ related_theories:
 related_methods:
   - "[[Comparative Textbook Analysis]]"
   - "[[Grounded Theory]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Triangulation]]"
   - "[[Classroom Observation]]"
 related_persons:
@@ -71,7 +69,7 @@ citation_aliases:
 > [!question]
 > 学校历史教育如何塑造学生关于集体归属与外人界限的集体记忆？在多民族国家以及存在中心-边缘张力的体制下，历史教科书既可以作为凝聚国家的制度纽带，也可以成为强化族群对立的文化装置（pp. 573–574）。
 >
-> 既有研究已指出大陆历史课程倾向将中国叙述为统一多民族国家，而香港历史课程倾向将其叙述为以汉族为中心的族裔文化国家。然而，既有[[Document\|文献]]存在两大关键理论与经验缺口：
+> 既有研究已指出大陆历史课程倾向将中国叙述为统一多民族国家，而香港历史课程倾向将其叙述为以汉族为中心的族裔文化国家。然而，既有文献存在两大关键理论与经验缺口：
 >
 > 1. **缺乏直接比较与近期数据更新** 早期代表性研究（如 Lo 2004, 2007）数据陈旧，且两地初中中国历史教科书的直接量化与定性对比分析极为匮乏，无法反映过去十年两地政治整合加速后的教育实况。
 > 2. **族群视角遮蔽了领土维度** 绝大多数研究过度关注少数民族在教科书中的呈现与边饰化，忽视了执政党在国家叙事中极为强调的领土完整性。Baranovitch (2010) 曾明确指出：统一多民族国家观将中国设定为领土国家（territorial nation），其国界锚定于物理领土；而族裔文化观则将国界锚定于汉族。
@@ -128,7 +126,7 @@ citation_aliases:
 > |------|----------------|
 > | **文本样本选择**<br>[[Comparative Textbook Analysis\|比较教科书分析]] | 选定两地在 2010 年代末至 2020 年课堂上广泛使用的初中（7–9 年级）中国历史教科书共 6 册（大陆人教社 2016–2017 统编版 3 册 vs 香港龄记出版集团 2014 年《新编简明中国史》3 册）。两套教材编写起点相似（均在 2012 年前开始编制），均以编年体展开叙事，分析聚焦 1912 年帝制终结前的古代历史（p. 579）。 |
 > | **子句分析法**<br>Clause-Based Analysis | 将两套教材正文中所有涉及国家叙事的内容复制到 Excel 中，拆解为**子句（clause）**作为基本[[Unit of Analysis\|分析单位]]（包含主谓结构的完整表意单元，如重用汉官员、改革政治制度、奖励农业包含 3 个数据点），比段落或页码更精确。 |
-> | **质性归纳编码**<br>Inductive Qualitative Coding | 遵循 Corbin & Strauss (2015) [[Grounded Theory\|扎根理论]]归纳法进行三步[[Coding in Qualitative Research\|编码]]：(1) 提取正文子句；(2) 基于 Lu (2017) 指标进行归纳编码并根据数据修正（如新增汉人收复失地与军事实力的编码），再据此审核补充阅读、地图与插图；(3) 归纳生成族群、领土、政治冲突、文化互动 4 大主题（pp. 579–580）。 |
+> | **质性归纳编码**<br>Inductive Qualitative Coding | 遵循 Corbin & Strauss (2015) [[Grounded Theory\|扎根理论]]归纳法进行三步编码：(1) 提取正文子句；(2) 基于 Lu (2017) 指标进行归纳编码并根据数据修正（如新增汉人收复失地与军事实力的编码），再据此审核补充阅读、地图与插图；(3) 归纳生成族群、领土、政治冲突、文化互动 4 大主题（pp. 579–580）。 |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |

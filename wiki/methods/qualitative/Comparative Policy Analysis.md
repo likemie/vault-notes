@@ -8,7 +8,7 @@ summary: "公共政策与比较政治经济学中系统比较不同国家、地�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 42
+method_related_count: 40
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Paradigm]]"
   - "[[Unit of Analysis]]"
-  - "[[Document]]"
   - "[[Policy Conditionalities]]"
   - "[[Student Mobility]]"
   - "[[Knowledge-Based Economy]]"
@@ -44,7 +43,6 @@ related_theories:
   - "[[Path Dependence]]"
   - "[[Governmentality]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Discourse Analysis]]"
   - "[[Case Study]]"
   - "[[Effect Size]]"
@@ -67,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-06
-updated: 2026-10-13
+updated: 2026-10-15
 ---
 
 # Comparative Policy Analysis
@@ -77,7 +75,7 @@ updated: 2026-10-13
 ## 定义
 
 > [!def] 方法定义
-> **比较政策分析（Comparative Policy Analysis）** 是公共政策学、比较政治经济学（Comparative Political Economy，[[Cultural Political Economy|CPE]]）与比较教育学中用于系统对比不同国家、地区或跨国政治实体公共政策设计、[[Discourse|话语]]建构与[[Disciplina and Doctrina|规训]]机制的质性与制度研究方法。该方法通过将特定辖区的政策演进置于跨国或多层级坐标系下，构建涵盖治理主体、战略目标、资源承诺、政策工具箱与约束条件的多维分析矩阵，揭示制度背景与宪制结构如何塑造相异的政策路径（[[Argument_Bulfone_2024_IAI|Bulfone et al., 2024, pp. 3, 16–17]]）；通过跨国政策话语的平行对质，解构不同政体如何对社会现象进行道德[[Coding in Qualitative Research|编码]]与问题化（Problematization），暴露制度文本背后的空间规训逻辑（[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009, pp. 361–362]]）；并通过跨国制度横向对照诊断后发国家激进照搬政策原则时脱离审慎调适共识所诱发的结构性病理（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 325–331]]）。
+> **比较政策分析（Comparative Policy Analysis）** 是公共政策学、比较政治经济学（Comparative Political Economy，[[Cultural Political Economy|CPE]]）与比较教育学中用于系统对比不同国家、地区或跨国政治实体公共政策设计、[[Discourse|话语]]建构与[[Disciplina and Doctrina|规训]]机制的质性与制度研究方法。该方法通过将特定辖区的政策演进置于跨国或多层级坐标系下，构建涵盖治理主体、战略目标、资源承诺、政策工具箱与约束条件的多维分析矩阵，揭示制度背景与宪制结构如何塑造相异的政策路径（[[Argument_Bulfone_2024_IAI|Bulfone et al., 2024, pp. 3, 16–17]]）；通过跨国政策话语的平行对质，解构不同政体如何对社会现象进行道德编码与问题化（Problematization），暴露制度文本背后的空间规训逻辑（[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009, pp. 361–362]]）；并通过跨国制度横向对照诊断后发国家激进照搬政策原则时脱离审慎调适共识所诱发的结构性病理（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 325–331]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 法律法规文本、中长期战略规划、直接与间接财政预算、监管审查准则、国家评估指标手册、学制结构设计与公私契约条款。
@@ -87,7 +85,7 @@ updated: 2026-10-13
 
 > [!citation-card]
 > **[[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] 五维比较政策分析架构**
-> 借鉴产业政策[[Document|文献]]中的关键概念，可从五个维度对美国与欧洲联盟的半导体产业政策展开系统比较：行动主体（推进产业政策的主导力量）、目标、规模与财政承诺、所采用的政策工具类型（如直接补贴、税收减免或行政便利），以及附带于公共资金支持之上的条件约束形态。这一框架能够清晰呈现不同政体在面对地缘政治调整时的治理逻辑差异。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 3)]]
+> 借鉴产业政策文献中的关键概念，可从五个维度对美国与欧洲联盟的半导体产业政策展开系统比较：行动主体（推进产业政策的主导力量）、目标、规模与财政承诺、所采用的政策工具类型（如直接补贴、税收减免或行政便利），以及附带于公共资金支持之上的条件约束形态。这一框架能够清晰呈现不同政体在面对地缘政治调整时的治理逻辑差异。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 3)]]
 >
 > *In section two, we compare the industrial policy plans adopted by the United States and the EU along five dimensions identified as crucial in the industrial policy literature: protagonists (the main actors carrying out the industrial policy effort), goals, size/financial commitment, type of policy instruments used [...], and the forms of [[Policy Conditionalities|Conditionalities]] attached to public support.*
 
@@ -117,7 +115,7 @@ updated: 2026-10-13
 > - **研究设计** 跨国制度比较设计、纵向历史-跨国横向双轴设计、跨大西洋政策话语对质设计与多案例对比设计。
 > - **数据收集** 官方立法文本、行政指导细则、跨国统计数据库、政策问责指标量表、跨国条约协议与历史政策白皮书。
 > - **分析方法** 多维定性矩阵分析、批判性政策话语分析（Policy Discourse Analysis）、政策工具箱分类、制度功能等价性比对与治理网络制图。
-> - **辅助技术** 概念矩阵映射、跨国政策条文平行比对表、话语[[Coding in Qualitative Research|编码]]节点网络图与历时演变因果链示意图。
+> - **辅助技术** 概念矩阵映射、跨国政策条文平行比对表、话语编码节点网络图与历时演变因果链示意图。
 
 ---
 
@@ -169,7 +167,7 @@ updated: 2026-10-13
 > - **功能等价性难题（Functional Equivalence）** 不同政体的法律概念、行政层级与财政口径存在显著内涵差异（例如法国的权力外派与西班牙的实质分权在地方机构称谓上易产生混淆），需审慎确立比较基准。
 > - **政策纸面与实践脱节偏误** 官方立法前言中充斥着迎合国际组织的修辞借用与宣示性目标（如对标欧洲标准），若仅依赖文本解读而不探究其实际落地的行政官僚阻力与近亲繁殖现实，易产生研究偏差。
 > - **忽视[[Institutional Complementarity|制度互补性]]（Institutional Complementarity）** 脱离国家整体社会经济福利体制孤立比较单一教育或产业政策，容易忽视政策在原产国有效而在输入国失效的深层制度配套原因。
-> - **补救方式** 结合历史[[Document|文献]]、官僚编制数据、学业失败率与跨区域协调机制展开多源[[Triangulation|三角互证]]；区分政策声明（Rhetoric）与制度实践（Practice）。
+> - **补救方式** 结合历史文献、官僚编制数据、学业失败率与跨区域协调机制展开多源[[Triangulation|三角互证]]；区分政策声明（Rhetoric）与制度实践（Practice）。
 
 ---
 
@@ -182,7 +180,7 @@ updated: 2026-10-13
 > | [[Historical Institutionalism]] | 理论 | 历史制度主义为比较政策分析提供[[Path Dependence\|路径依赖]]、关键节点与[[Institutional Complementarity\|制度互补性]]的理论分析基础。 |
 > | [[Cultural Political Economy]] | 理论 | 文化政治经济学支撑政策[[Discourse\|话语]]解构，阐明意义建构如何与物质资本结构协同运作。 |
 > | [[Spatial Governmentality]] | 理论 | 空间[[Governmentality\|治理术]]理论指导对跨国人口流动[[Disciplina and Doctrina\|规训]]与空间包容/排斥策略的比较分析。 |
-> | [[Discourse Analysis]] | 补充方法 | 质性话语分析作为子模块，用于深剖法案文本前言与官方问责文本中的意识形态[[Coding in Qualitative Research\|编码]]。 |
+> | [[Discourse Analysis]] | 补充方法 | 质性话语分析作为子模块，用于深剖法案文本前言与官方问责文本中的意识形态编码。 |
 > | [[Case Study]] | 前置方法 | 单一案例研究为跨国比较政策分析提供深厚的地方情境理解与历史脉络支撑。 |
 > | [[Policy Borrowing]] | 概念 | 刻画比较政策分析所揭示的跨国政策模仿、修辞借用与制度转置机制。 |
 
@@ -192,7 +190,7 @@ updated: 2026-10-13
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 针对美欧半导体产业政策构建涵盖治理主体、政策目标、资金规模、政策工具与[[Policy Conditionalities|制度化附加条件]]的五维比较[[Analytic Framework|分析框架]]，揭示美国集中式补贴模式与欧盟去中心化协调者模式的制度差异与效能分化。
-> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] — 采用跨大西洋与跨国比较政策分析，对比欧盟[[Erasmus Programme|伊拉斯谟计划]]将[[Student Mobility|学生流动性]]建构为世界公民积极资本与美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》将学生流动性[[Coding in Qualitative Research|编码]]为病态化漂泊问责借口的[[Discourse|话语]]机制，并系统比较中、美、西、英、印等国对流动学童的空间教育治理政策。
+> - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] — 采用跨大西洋与跨国比较政策分析，对比欧盟[[Erasmus Programme|伊拉斯谟计划]]将[[Student Mobility|学生流动性]]建构为世界公民积极资本与美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》将学生流动性编码为病态化漂泊问责借口的[[Discourse|话语]]机制，并系统比较中、美、西、英、印等国对流动学童的空间教育治理政策。
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 采用跨国比较政策分析视角，将西班牙教育置于欧盟多国治理坐标系下，系统对比英、美、德、法、意与北欧的分权模式演变，解构西班牙教育激进分权导致的行政膨胀与中等学制平庸化困境。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 运用历史与跨国比较政策分析方法，对比[[OECD]]在1960–1990年社会民主主义妥协期与1990年代中期后新自由主义期的治理架构、工作模式及[[PISA]]指标体系，揭示国际组织从政府间论坛向独立跨国政策行动者的制度转型。
 

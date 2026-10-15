@@ -9,7 +9,7 @@ title: "Argument_Moisio_2022_Springer"
 argument_key: "Argument_Moisio_2022_Springer"
 argument_display_title: "In what sense a geopolitical knowledge-based economy? In M"
 argument_kind: "book"
-argument_related_count: 37
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Relational Space]]"
   - "[[Knowledge-Based Economization]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[National Competitive Advantage]]"
   - "[[Competitiveness]]"
   - "[[Theoretical Knowledge]]"
@@ -97,7 +96,7 @@ Moisio 从多学科传统中整合理论资源，构建分析[[Knowledge-Based E
 - Polanyi(1982)的经济作为制度化过程（economy as instituted process）— 论证所有资本积累体制（包括 KBE）均依赖于国家和额外经济实践（教育、科学、法律等）的构成性角色(p.25)
 - Ҫalişkan & Callon(2009)的 economization 概念 — 提供从"经济"到"经济化过程"的方法论转向关键资源(p.25)
 - Jessop(2005)的[[Cultural Political Economy|文化政治经济学]]（CPE）— 提供"想象"（imaginaries）在资本积累体制中的构成性和履行性角色分析，以及 KBE 作为"元治理"（meta-governance）对象的定位(pp.23, 26)
-- Gramsci(1971)的[[Hegemony|霸权理论]] — 论证资本积累体制的巩固需要"智识、政治和道德领导力"来将新体制[[Transfer Translation Transformation|转译]]进整个社会(p.26)
+- Gramsci(1971)的[[Hegemony|霸权理论]] — 论证资本积累体制的巩固需要"智识、政治和道德领导力"来将新体制转译进整个社会(p.26)
 - Porter(1990)的 [[National Competitive Advantage|国家竞争优势]] 理论 — 被分析为典型的地缘政治想象，其悖论性主张（全球化使国家角色更重要）对政策制定产生深刻影响(pp.26–27)
 - Hardt & Negri(2000)的劳动[[Typological Analysis|类型分析]] — 为论证 KBE 不仅需要特定技能还需要"交际性、合作性和情感性劳动"提供理论支持(p.29)
 
@@ -138,7 +137,7 @@ Moisio 首先论证 [[Knowledge-Based Economy|KBE]] 并非天然、必然的经�
 
 1. **问题的提出** KBE 被呈现为具有"无限增长的诱人承诺"——作为对 1980 年代已显现的各种物质和环境增长极限的解毒剂。在这种能力中，"[[Knowledge-Based Economization|知识经济化]]话语与 1990 年代以来资本主义被呈现为唯一能提供无限增长和利润的社会系统的方式紧密绑定"(p.24)。
 
-2. **引入 Ҫalişkan & Callon(2009)的 economization 概念** 分析焦点从"经济"转向"经济化过程"。在这些过程中，"一系列社会议题被不断[[Transfer Translation Transformation|转译]]为经济议题，如同它们是纯粹的经济事务；反之亦然，经济相关事务也被表述为社会的、政治的和集体的'我们'议题"(p.25)。
+2. **引入 Ҫalişkan & Callon(2009)的 economization 概念** 分析焦点从"经济"转向"经济化过程"。在这些过程中，"一系列社会议题被不断转译为经济议题，如同它们是纯粹的经济事务；反之亦然，经济相关事务也被表述为社会的、政治的和集体的'我们'议题"(p.25)。
 
 3. **引入 Polanyi(1982)的经济作为制度化过程** 所有资本积累体制均可理解为制度化过程，"国家和不同的额外经济实践——从教育和科学到法律和集体身份——在其中扮演核心角色"(p.25)。这解释了为什么大学在 KBE 想象中被如此凸显。
 

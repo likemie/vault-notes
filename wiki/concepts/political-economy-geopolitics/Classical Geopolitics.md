@@ -7,7 +7,7 @@ aliases:
 summary: "以国家为中心、将空间视为可占有客观地理实体的传统地缘政治范式，以社会有机体论为理论基石，关注领土控制、军事力量和硬实力竞争"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 34
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Realism in International Relations]]"
   - "[[Constructivist Paradigm]]"
   - "[[Knowledge Production]]"
-  - "[[Hypothesis]]"
   - "[[Doxa]]"
   - "[[Unit of Analysis]]"
   - "[[Geopolitics of Higher Education]]"
@@ -109,7 +108,7 @@ updated: 2026-10-15
 
 > [!proposition-chain] 核心命题｜古典地缘政治将空间视为客观容器、将国家视为竞争有机体，由此推出权力唯一主体是民族国家且权力=军事力量，最终陷入领土陷阱并将高等教育排除在地缘政治分析之外
 > - **前提一：空间是客观容器，国家是社会有机体**
->   空间被理解为可测量、可分割、可占有的客观地理实体——国家竞争的自然舞台。国家被视为处于自我保护斗争中的有机体，天然需要生存空间（Lebensraum）（Ratzel, 1896; Kjellén, 1916）。这两个[[Hypothesis\|假设]]相互锁定：空间可占有→国家必须占有；国家是竞争有机体→空间只能是战场。费舍尔的社会达尔文主义和斯宾塞的社会有机体概念是理论源头。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, pp. 3–4, 11–12)]]
+>   空间被理解为可测量、可分割、可占有的客观地理实体——国家竞争的自然舞台。国家被视为处于自我保护斗争中的有机体，天然需要生存空间（Lebensraum）（Ratzel, 1896; Kjellén, 1916）。这两个假设相互锁定：空间可占有→国家必须占有；国家是竞争有机体→空间只能是战场。费舍尔的社会达尔文主义和斯宾塞的社会有机体概念是理论源头。[[Argument_Yu_Xie_2025_JHE\|(余婧然和谢爱磊, 2025, pp. 3–4, 11–12)]]
 >   > [!evidence-grid]- 证据
 >   > - **[[Argument_Moisio_2022_Springer\|Moisio (2022, p. 26)]]** 古典地缘政治指划定国家边界、构建国内社会秩序、通过军事技术控制领土空间，以及为领土主张提供历史辩护。
 >   > - **Thompson & Parreira do Amaral (2022, p. 10)** 预设人口天然地位于并附着于特定空间，空间被理解为固定领土容器而非关系性构型。

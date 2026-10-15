@@ -5,7 +5,7 @@ aliases:
 summary: "John Hattie 发起的教育证据综合与学校改进框架，主张通过汇总海量元分析建立 d=0.40 关节点相对有效性判准，将教师确立为成就变异的核心因果枢纽（30%），依托学业进阶、显性成功标准与形成性反馈重塑教学评价性判断。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 73
+related_count: 71
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -43,7 +43,6 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Effective Teaching]]"
   - "[[Critiques of Visible Learning]]"
-  - "[[Document]]"
   - "[[Critical Thinking]]"
   - "[[Variable]]"
   - "[[Growth]]"
@@ -61,7 +60,6 @@ related_methods:
   - "[[Practitioner Enquiry]]"
   - "[[Intraclass Correlation Coefficient]]"
   - "[[Content Analysis]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
@@ -256,7 +254,7 @@ updated: 2026-10-15
 
 > [!critique] 外部学术批评导览
 > - **批评系统入口** 完整的方法论、教学论、教育哲学与政策商业化批评详见专用条目 [[Critiques of Visible Learning]]。
-> - **数据与文化局限** 原始元分析主要基于英语国家历史[[Document\|文献]]，直接跨语境迁移到非英语国家或不同社会文化体制中存在显著适应性障碍。[[Argument_Golovchin_2019_ESC\|(Golovchin, 2019, p. 232)]]
+> - **数据与文化局限** 原始元分析主要基于英语国家历史文献，直接跨语境迁移到非英语国家或不同社会文化体制中存在显著适应性障碍。[[Argument_Golovchin_2019_ESC\|(Golovchin, 2019, p. 232)]]
 
 > [!warning] 适用局限
 > 元分析所汇总的标准化测验多偏向于测量表层知识与常规技能，对深层[[Critical Thinking\|批判性思维]]、概念建构与非认知福祉的测量覆盖度存在天然局限。[[Argument_Qvortrup_2015_Paideia\|(Qvortrup, 2015, p. 29)]]
@@ -280,7 +278,7 @@ updated: 2026-10-15
 > |---|---|---|---|---|---|---|
 > | [[Argument_Hattie_2005_ACER\|Hattie (2005, p. 13)]] | 多国[[Academic Achievement\|学业成就]]方差多层实证模型 | 多层线性方差分解元模型 | 六大学业成就变异源方差贡献率 | 学生个人差异 50%；教师教学效能 30%；家庭 5–10%；学校 5–10%；同伴 5–10%；校长间接影响 | — | 实证确立教师在学校系统内部可控变量中占据绝对主导地位（30%） |
 > | [[Argument_Hattie_2005_ACER\|Hattie (2005, pp. 15–16)]] | 新西兰 [[Assessment Tools for Teaching and Learning\|asTTle]] 常模标定样本（25,000 名 5–12 年级学生，1,500 余道试题） | 大样本横断面与纵向常模测评 | 数运算策略 vs. 几何知识跨学段[[Growth\|成长]]曲线 | 数运算策略从 5 至 12 年级呈现陡峭线性递增；几何知识在 5–7 年级出现明显停滞甚至倒退 | — | 实证揭示现行小学几何课程脱离学生实际认知进阶，为循证课改提供依据 |
-> | [[Argument_Hattie_2005_ACER\|Hattie (2005, p. 12)]]（Hattie & Peddie, 2003） | 新西兰 156 所中小学真实出具给家长的期末学业报告卡 | 文本[[Content Analysis\|内容分析]]与[[Coding in Qualitative Research\|编码]]统计 | 报告提及国家课程等级比例、[[Criterion-Referenced Test\|标准参照]]率与评语倾向 | 仅 12 所（<8%）提及官方课程等级；>50% 无客观标准；98% 为纯正面赞许评语 | — | 揭示学校报告缺乏客观进阶信息，导致家长产生虚假乐观并倒逼外部统考 |
+> | [[Argument_Hattie_2005_ACER\|Hattie (2005, p. 12)]]（Hattie & Peddie, 2003） | 新西兰 156 所中小学真实出具给家长的期末学业报告卡 | 文本[[Content Analysis\|内容分析]]与编码统计 | 报告提及国家课程等级比例、[[Criterion-Referenced Test\|标准参照]]率与评语倾向 | 仅 12 所（<8%）提及官方课程等级；>50% 无客观标准；98% 为纯正面赞许评语 | — | 揭示学校报告缺乏客观进阶信息，导致家长产生虚假乐观并倒逼外部统考 |
 > | [[Argument_Jansen_2026_EPR\|Jansen et al. (2026, pp. 16–18)]] | 从 [[Visible Learning Meta-X]] 随机抽取 156 项一阶元分析（468 个统计数据点） | 专家双轮仲裁金标准比对评测 | 原数据库录入 vs. 金标准[[Intraclass Correlation Coefficient\|组内相关系数]]与一致率 | 原数据库录入 $\text{ICC} = 0.81$，一致率 80%；存在 57 处单方偏离与 31 例信息遗漏 | 单方偏离度显著高于人类独立作者（$\text{ICC} = 0.95$）与大语言模型（$\text{ICC} = 0.96–0.97$） | 实证揭示早期大规模人工录入的历史局限性，论证了引入多模型与专家仲裁混合质控的必要性 |
 
 ---
@@ -293,7 +291,7 @@ updated: 2026-10-15
 > |:-----|:-----|:-----|
 > | [[Visible Learning Meta-X]] | Fact (Program) | 承载 Visible Learning 核心实证数据的底层[[Meta-meta-analysis\|二阶元分析]]汇聚数据库（收录 2,100+ 项[[Meta-analysis\|元分析]]）。 |
 > | [[Visible Learning Branding and Global Influences]] | Fact (Event) | 记录 Visible Learning 从学术出版到跨国品牌化运营与政策扩散的制度化历程与争议。 |
-> | [[Critiques of Visible Learning]] | Concept | 系统梳理对 Visible Learning 在统计方法学、教学论与商业化推广维度的批判性[[Document\|文献]]。 |
+> | [[Critiques of Visible Learning]] | Concept | 系统梳理对 Visible Learning 在统计方法学、教学论与商业化推广维度的批判性文献。 |
 > | [[Effect Size]] | Method | VL 衡量教育干预相对有效性与绘制全域证据地图的通用统计度量衡。 |
 > | [[Evidence-Based Education]] | Concept | VL 是全球循证教育运动中最具政策影响力与争议性的教学综合框架之一。 |
 > | [[Contributory Expertise]] | Concept | 一线实践者用于审视、去魅与本土校准 VL 流行概念的具身实践专长。 |

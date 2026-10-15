@@ -21,8 +21,6 @@ related_concepts:
   - "[[Informationalization]]"
   - "[[Soviet Statism]]"
   - "[[State Vertical]]"
-  - "[[Document]]"
-  - "[[Hypothesis]]"
   - "[[Falsification]]"
   - "[[Total War]]"
   - "[[Creativity]]"
@@ -37,6 +35,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Flow]]"
   - "[[Bureaucracy]]"
+  - "[[Primary and Secondary Documents]]"
   - "[[Interaction Effect]]"
 related_theories:
   - "[[Informationalism]]"
@@ -64,9 +63,9 @@ title: "Argument_Chan_2015_Intersect"
 argument_key: "Argument_Chan_2015_Intersect"
 argument_display_title: "Fallen behind: Science, technology, and Soviet statism"
 argument_kind: "journal-article"
-argument_related_count: 30
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 29
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: Intersect
 book_title: ""
@@ -121,7 +120,7 @@ Castells 的框架将技术发展嵌入社会制度结构中理解：信息革�
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **历史分析**<br>Historical Analysis | 基于对苏联经济、科技政策和制度结构的二手文献综合分析，以 Castells 的[[Informationalism\|信息主义]]—[[Soviet Statism\|国家主义]]框架组织证据。 |
-> | **[[Document\|文献]]来源** | Castells 信息时代三部曲；苏联科技史（Graham, 1990; Fortescue, 1986; Josephson, 1991, 1998）；苏联经济分析（Goldman, 1983）；美国情报部门技术评估（Office of Scientific and Weapons Research, 1986）；冷战史（Lundestad, 2000; Beissinger, 2002） |
+> | **文献来源** | Castells 信息时代三部曲；苏联科技史（Graham, 1990; Fortescue, 1986; Josephson, 1991, 1998）；苏联经济分析（Goldman, 1983）；美国情报部门技术评估（Office of Scientific and Weapons Research, 1986）；冷战史（Lundestad, 2000; Beissinger, 2002） |
 
 该文是一篇历史分析性论文，通过理论[[Framework Synthesis|框架综合]]已有研究证据，对苏联技术落后提出结构性解释。非实证研究，属思辨—综合类文献。
 
@@ -163,7 +162,7 @@ Castells 的框架将技术发展嵌入社会制度结构中理解：信息革�
 > [!line-a] 工业化成功不保证[[Informationalization\|信息化]]成功
 > 苏联的工业化是20世纪的奇迹。从1928年到1987年，中央计划经济在短短两代人时间内将一个农业社会转变为重工业强国。到1980年代，苏联重工业产量全面超越美国：钢铁多80%，水泥多78%，石油多42%（Walker, 1986, p.2）。国家在科技上的投入极为慷慨：到1980年代，苏联拥有超过全球人均比例的科学家和工程师，是当时世界上科研人员密度最高的国家之一（Fortescue, 1986, p.2）。除生物学被[[Lysenkoism\|李森科主义]]严重破坏外，在数学、物理学和计算机科学领域，苏联保持了与国际前沿的[[Competitiveness|竞争力]]（Thomas and Kruse-Vaucienne, 1977, p.2）。
 >
-> 然而这一判断成立的前提是工业化积累会自动导向技术领先，但这一[[Hypothesis\|假设]]在1980年代被[[Falsification\|证伪]]。个人计算机革命从苏联身旁呼啸而过，苏联被完全绕过。真正的信息时代奖杯是硅，而非生铁和钢铁。苏联将所有能量集中在满足工业产量指标上，错过了1970年代中期在全球范围内成形的信息技术革命（pp.2–3）。
+> 然而这一判断成立的前提是工业化积累会自动导向技术领先，但这一假设在1980年代被[[Falsification\|证伪]]。个人计算机革命从苏联身旁呼啸而过，苏联被完全绕过。真正的信息时代奖杯是硅，而非生铁和钢铁。苏联将所有能量集中在满足工业产量指标上，错过了1970年代中期在全球范围内成形的信息技术革命（pp.2–3）。
 >
 > 这一错过的代价极其沉重。到1980年代末，苏联不仅在计算机数量上与美国差距悬殊，更在计算能力上落后了超过两个数量级。新西伯利亚的科研机构使用的计算设备比美日工业界落后整整20年（Kuleshov and Castells, 1993, p.2）。以物质投入的线性扩张为核心的工业化，与以信息处理和知识优化为核心的信息化，是两种性质根本不同的发展模式。前者向后者转型不是量的延续，而是质的断裂，需要根本性的制度变革。
 
@@ -344,7 +343,7 @@ Castells 的框架将技术发展嵌入社会制度结构中理解：信息革�
 ## 自述局限
 
 > [!warning]
-> 该文坦承其解释侧重于国家主义的体制逻辑，可能低估了其他因素，如民族主义动员（Beissinger, 2002）、帝国过度扩张（Lundestad, 2000; Kennedy, 2002）和领导个人决策，在苏联解体中的相对重要性（p.3）。论证主要依赖二手[[Document\|文献]]的已有研究综合，未提供新的原始档案或定量证据。五机制框架提供了一种结构性解释，但宏观历史变迁通常涉及多种机制的[[Interaction Effect\|交互作用]]，单因框架有其内在局限。
+> 该文坦承其解释侧重于国家主义的体制逻辑，可能低估了其他因素，如民族主义动员（Beissinger, 2002）、帝国过度扩张（Lundestad, 2000; Kennedy, 2002）和领导个人决策，在苏联解体中的相对重要性（p.3）。论证主要依赖[[Primary and Secondary Documents|二手文献]]的已有研究综合，未提供新的原始档案或定量证据。五机制框架提供了一种结构性解释，但宏观历史变迁通常涉及多种机制的[[Interaction Effect\|交互作用]]，单因框架有其内在局限。
 
 ---
 ## 来源

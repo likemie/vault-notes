@@ -7,7 +7,7 @@ aliases:
 summary: "指专业新闻从业者面向公众开展的针对科学探索、科研产出及其社会伦理影响的独立调查、诠释与报道实践；在媒介生态重构冲击下，正经历从传统专职记者主导向数字社交平台多元分发的深刻转型，面临高校通稿过度营销、商业点击率驱动与科研诚信标准对接等核心挑战。"
 type: concept
 domain: "science-communication"
-related_count: 27
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,12 +25,9 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Scientific Uncertainty]]"
   - "[[Conflict of Interest in Research]]"
-  - "[[Transfer Translation Transformation]]"
-  - "[[Attrition]]"
   - "[[Responsible Conduct of Research]]"
   - "[[Epistemology]]"
   - "[[Humility]]"
-  - "[[Document]]"
   - "[[Positivism]]"
   - "[[Solutions Journalism]]"
   - "[[Variable]]"
@@ -53,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-03
-updated: 2026-09-23
+updated: 2026-10-15
 ---
 
 # Science Journalism
@@ -101,7 +98,7 @@ updated: 2026-09-23
 >   抵御资助机构、高校公关与商业资本的议程操控，坚持对科研方法与结论进行不受干涉的独立调查与审查。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 61)]]
 > - **证据多源求证（Multi-source Verification）**
 >   穿透新闻通稿与单一论文摘要，主动采访独立第三方同行专家，评估样本规模、设计类型与因果推论严谨性。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 62)]]
-> - **不确定性[[Transfer Translation Transformation\|转译]]（Translating Uncertainty）**
+> - **不确定性转译（Translating Uncertainty）**
 >   拒绝将暂定假说绝对化为终极真理，向公众准确阐释统计[[Confidence Interval\|置信区间]]、[[Effect Size\|效应量]]边界与科学共识的演进过程。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 61–62)]]
 > - **利益冲突披露（Transparency & Bias Disclosure）**
 >   主动核查并披露科研项目背后的产业资助背景、专利关联与潜在商业偏倚，保障公众知情权。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, p. 64)]]
@@ -139,7 +136,7 @@ updated: 2026-09-23
 > 科学绝非少数专业精英的封闭特权；在高度技术化的现代社会中，公共政策（如防疫、气候适应、人工智能立法规制）深度依赖科学证据，而专业科学新闻正是公众理解科技决策、参与民主质询的关键桥梁。
 
 > [!claim] [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]]
-> **民主协商的知识基石** 科学新闻不仅传播知识，更在公共领域中扮演着客观审视者与议程设置者的双重角色；尽管传统纸媒与电视受众面临[[Attrition\|流失]]，但主流新闻机构开展的高质量科学调查依然主导着全社会的公共讨论议题；若专业科学新闻持续衰退，公共理性将被算法驱动的极化信息与伪科学所吞噬。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 56–58)]]
+> **民主协商的知识基石** 科学新闻不仅传播知识，更在公共领域中扮演着客观审视者与议程设置者的双重角色；尽管传统纸媒与电视受众面临流失，但主流新闻机构开展的高质量科学调查依然主导着全社会的公共讨论议题；若专业科学新闻持续衰退，公共理性将被算法驱动的极化信息与伪科学所吞噬。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 56–58)]]
 
 ---
 
@@ -172,7 +169,7 @@ updated: 2026-09-23
 ### 命题总览
 
 > [!contrast-table] 专业科学新闻核心命题归纳
-> | 命题类别 | 核心理论判定 | 实践与政策抓手 | 代表[[Document\|文献]] |
+> | 命题类别 | 核心理论判定 | 实践与政策抓手 | 代表文献 |
 > |---|---|---|---|
 > | **民主中介命题** | 科学新闻是现代民主协商与公共科技决策不可替代的知识底座 | 抵御媒体算法浅俗化，确立专业科学报道的编辑优先权 | [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026, p. 57)]] |
 > | **源头异化命题** | 高校公关过度营销与媒体流水线化是虚假信息的主要策源地 | 将新闻发布纳机构科研诚信（[[Responsible Conduct of Research\|RCR]]）考核与伦理审查 | Sumner et al. (2014); Nature (2024) |
@@ -183,7 +180,7 @@ updated: 2026-09-23
 ## 概念演变
 
 > [!dev-timeline] 专业科学新闻百年[[Paradigm\|范式]]演变
-> - **20 世纪初–中叶 — 传统普及与单向[[Transfer Translation Transformation\|转译]]时代** 科学新闻以纸媒专栏为主，记者主要充当科学家的“通俗翻译官”与科技成就的无保留传颂者，遵循典型的启蒙主义与[[Positivism\|实证主义]]立场。
+> - **20 世纪初–中叶 — 传统普及与单向转译时代** 科学新闻以纸媒专栏为主，记者主要充当科学家的“通俗翻译官”与科技成就的无保留传颂者，遵循典型的启蒙主义与[[Positivism\|实证主义]]立场。
 > - **1985 年 — 《公众理解科学》（Bodmer 报告）与体制化推进** 皇家学会发布标志性报告，推动英国主要新闻机构设置专职科技记者席位，研究理事会要求科学家主动对接媒体，但传播逻辑仍受[[Deficit Model of Science Communication\|赤字模型]]主导。
 > - **2000 年代初 — 科技争议爆发与独立中介确立** 疯牛病（BSE）、转基因食品（GM）及 [[Mixed Methods Research\|MMR]] 疫苗引发公众信任海啸，显露传统新闻简单对立报道的弊端；2002 年英国创立[[Science Media Centre\|科学媒体中心]]（SMC），确立多源证据快速核查与专业同行把关机制。
 > - **2020 年代中至今 — 数字化解构、虚假信息泛滥与诚信合流** 面对社交算法分发、生成式 AI 幻觉与新闻回避危机，皇家学会《面向社会的科学》提出将科学新闻提升为全生命周期国家战略基础设施，制定《科学传播实践守则》，并转向以“[[Solutions Journalism\|解决方案新闻]]”为引领的高质量传播范式。[[Argument_RoyalSociety_2026_ScienceForSociety\|(The Royal Society, 2026, pp. 56–64)]]

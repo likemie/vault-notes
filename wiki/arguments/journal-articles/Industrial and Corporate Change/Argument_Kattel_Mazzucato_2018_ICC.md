@@ -31,8 +31,6 @@ related_concepts:
   - "[[Cognitive Deskilling]]"
   - "[[Big Science]]"
   - "[[Organizational Ambidexterity]]"
-  - "[[Hypothesis]]"
-  - "[[Document]]"
   - "[[Tilting the Playing Field]]"
   - "[[Patient Capital]]"
   - "[[Demand-side Innovation Policy]]"
@@ -101,7 +99,7 @@ title: "Argument_Kattel_Mazzucato_2018_ICC"
 argument_key: "Argument_Kattel_Mazzucato_2018_ICC"
 argument_display_title: "Mission-oriented innovation policy and dynamic capabilities in the public sector"
 argument_kind: "journal-article"
-argument_related_count: 64
+argument_related_count: 62
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -143,7 +141,7 @@ issuing_organization: ""
 > | **[[Unbalanced Growth Theory\|非均衡增长理论]]**<br>[[Unbalanced Growth Theory]] | 借鉴阿伯特·赫希曼理论，论证通过国家使命制造战略性非均衡瓶颈以倒逼跨部门协同与激发前后向产业投资的动力机制。 |
 
 > [!warrant]- 理论如何支撑论证
-> 演化经济学打破了新古典完全竞争与一般均衡[[Hypothesis|假设]]，证明未来创新在本质上充满根本不确定性，因而基于边际收益等于边际成本的事前静态计算完全无法指导战略方向（Arrow, 1962; Nelson & Winter, 1974）。通过将企业动态能力（感知、捕获与转化）与国家能力理论相结合，理论工具阐明了公共机构如何在社会政治反馈的选择环境中持续演化出适应战略使命的组织技能。
+> 演化经济学打破了新古典完全竞争与一般均衡假设，证明未来创新在本质上充满根本不确定性，因而基于边际收益等于边际成本的事前静态计算完全无法指导战略方向（Arrow, 1962; Nelson & Winter, 1974）。通过将企业动态能力（感知、捕获与转化）与国家能力理论相结合，理论工具阐明了公共机构如何在社会政治反馈的选择环境中持续演化出适应战略使命的组织技能。
 
 ---
 
@@ -159,7 +157,7 @@ issuing_organization: ""
 > | 样本层面 | 构成 |
 > |----------|------|
 > | **经典历史案例库** | 普鲁士文化部[[System Althoff\|阿尔托夫体制]]（System Althoff）、[[Ministry of International Trade and Industry\|日本通商产业省]]（Ministry of International Trade and Industry, MITI）、[[French Modernisation Commissions\|法国战后计划署现代化委员会]]（Commissariat Général du Plan）、美国曼哈顿工程与阿波罗计划、橡树岭国家实验室、美国国防高级研究计划局（Defense Advanced Research Projects Agency, [[DARPA]]）、[[CERN\|欧洲核子研究组织]]（European Organization for Nuclear Research, CERN）及[[Government Digital Service\|英国政府数字服务局]]（Government Digital Service, GDS）。 |
-> | **制度[[Document\|文献]]与政策文本** | 涵盖亚历山大·汉密尔顿（Alexander Hamilton）《制造业报告》（1791）、弗里德里希·李斯特（Friedrich List）《政治经济学的国民体系》（1841）、欧盟[[Lund Declaration 2009\|《隆德宣言》]]（2009）、英国现代产业战略白皮书（2017）及[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）系统创新报告。 |
+> | **制度文献与政策文本** | 涵盖亚历山大·汉密尔顿（Alexander Hamilton）《制造业报告》（1791）、弗里德里希·李斯特（Friedrich List）《政治经济学的国民体系》（1841）、欧盟[[Lund Declaration 2009\|《隆德宣言》]]（2009）、英国现代产业战略白皮书（2017）及[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）系统创新报告。 |
 
 ---
 

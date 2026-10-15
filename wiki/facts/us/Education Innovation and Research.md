@@ -13,7 +13,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 22
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -31,7 +31,6 @@ tags:
 related_concepts:
   - "[[Tiered Evidence Grants]]"
   - "[[Academic Achievement]]"
-  - "[[Hypothesis]]"
   - "[[Evaluator Independence]]"
   - "[[Logic Model]]"
   - "[[Developer-Made Measures]]"
@@ -60,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-17'
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Education Innovation and Research
@@ -83,7 +82,7 @@ updated: 2026-09-17
 ## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
-> EIR [[Hypothesis\|假设]]通过研发成熟度阶梯匹配资助规模与硬性绑定[[Evaluator Independence\|第三方独立评估]]，能够激励全美出版商、科研团队与教育科技企业主动开展严格实地试验，形成教育创新从原型开发到全国规模化的良性循环。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 23–24, 29)]]
+> EIR 假设通过研发成熟度阶梯匹配资助规模与硬性绑定[[Evaluator Independence\|第三方独立评估]]，能够激励全美出版商、科研团队与教育科技企业主动开展严格实地试验，形成教育创新从原型开发到全国规模化的良性循环。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 23–24, 29)]]
 
 > [!policy-design]- 方案设计
 > - **分层资助阶梯** 

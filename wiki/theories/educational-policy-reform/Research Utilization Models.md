@@ -9,7 +9,7 @@ aliases:
 summary: "由卡罗尔·韦斯开创并经公共政策与教育研究发展的理论模型谱系，系统阐明学术研究进入政策与实践的非线性多元机制（知识驱动、问题解决、互动、政治、战术、启蒙及社会智识事业），奠定工具性、概念性与象征性使用三元分类的基础。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 57
+theory_related_count: 54
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Research Literacy]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Paradigm]]"
-  - "[[Hypothesis]]"
   - "[[Research Translation]]"
   - "[[Enlightenment]]"
   - "[[Evaluation Research]]"
@@ -58,7 +57,6 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Professional Judgment]]"
   - "[[Knowledge Production]]"
-  - "[[Document]]"
 related_theories:
   - "[[Ecosystem for Research-Engaged Schools]]"
   - "[[Theory of Planned Behavior]]"
@@ -68,7 +66,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Mixed Methods Research]]"
   - "[[Qualitative Interview]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Questionnaire]]"
   - "[[Correlational Research]]"
 related_instruments:
@@ -85,7 +82,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-29
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Research Utilization Models
@@ -128,7 +125,7 @@ updated: 2026-10-07
 ## 核心命题与机制
 
 > [!proposition-chain] 核心命题一｜[[Research Utilization\|研究利用]]存在七种质性相异的机制模型并可归纳为四大过程[[Paradigm\|范式]]
-> - **前提一** 传统政策与管理学默认“线性技术模型”（[[Technical Rationality\|Technical-Rational Model]]），[[Hypothesis\|假设]]只要研究质量足够高、结论足够明确，决策者就会据此直接制定政策或调整教学行为。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03\|(Cohen et al., 2011, p. 43)]]
+> - **前提一** 传统政策与管理学默认“线性技术模型”（[[Technical Rationality\|Technical-Rational Model]]），假设只要研究质量足够高、结论足够明确，决策者就会据此直接制定政策或调整教学行为。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03\|(Cohen et al., 2011, p. 43)]]
 > - **前提二** 现实中的政策制定与教学实践高度受到价值冲突、政治博弈、制度惯性与认知负荷的制约，研究证据只是多元竞争信息流中的一种输入。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, p. 3)]]
 > - **推导** Weiss (1979) 进而提出解构线性迷思的七种经典模型，并在 1991 年进一步提炼为四种过程范式：
 >   ① **知识驱动模型（Knowledge-Driven Model）** 基础研究 $\rightarrow$ 应用研究 $\rightarrow$ 技术开发 $\rightarrow$ 成果应用，适用于强自然科学或工程[[Research Translation\|技术转化]]，但在复杂社会教育情境中往往受限；
@@ -204,8 +201,8 @@ updated: 2026-10-07
 
 > [!theory-use] 如何用于研究
 > - **作为理论框架** 用于组织研究使用、[[Knowledge Mobilisation\|知识动员]]、循证实践或教育政策执行的[[Research Question\|研究问题]]，构建“认知意向 $\rightarrow$ 机制分流 $\rightarrow$ 多维实践表现”的解释逻辑。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, pp. 3–5)]]
-> - **作为分析工具** 将七种模型或三分类（工具、概念、象征）直接转化为[[Qualitative Interview\|质性访谈]][[Coding in Qualitative Research\|编码]]类目、观察量规或[[Questionnaire\|问卷调查]]的分量表题项。
-> - **作为批判视角** 揭示政策制定中将科研证据“武器化”为政治辩护或战术推诿的修辞把戏，批判唯[[Technical Rationality\|技术理性]]的单向传播政策[[Hypothesis\|假设]]。
+> - **作为分析工具** 将七种模型或三分类（工具、概念、象征）直接转化为[[Qualitative Interview\|质性访谈]]编码类目、观察量规或[[Questionnaire\|问卷调查]]的分量表题项。
+> - **作为批判视角** 揭示政策制定中将科研证据“武器化”为政治辩护或战术推诿的修辞把戏，批判唯[[Technical Rationality\|技术理性]]的单向传播政策假设。
 > - **报告方式** 在写作中应将研究利用的各类形态置于具体制度与文化脉络中呈现，明确区分行动者的言语认同（概念/态度）与实际操作行为（技能/工具使用）。
 
 > [!logic-map]- 分析流程图
@@ -252,7 +249,7 @@ updated: 2026-10-07
 > > - **Nutley et al.（2007）** 强调三种使用形态在不同政策阶段各具不可替代的价值，工具性追求短期具体产出，而概念性决定长期改革方向，不应预设高低优劣。
 > > - **Biesta（2007）** 批评将[[Research Utilization\|研究利用]]窄化为工具性技术处方的做法剥夺了教师的[[Professional Judgment\|专业判断力]]（Professional Judgment），强调启蒙与批判才是教育研究的本真价值。
 >
-> > [!axis] 线性传输[[Hypothesis\|假设]]与复杂系统演化的[[Paradigm\|范式]]对立
+> > [!axis] 线性传输假设与复杂系统演化的[[Paradigm\|范式]]对立
 > > 传统循证政策制定者依然偏好“知识驱动”与“[[Problem Solving\|问题解决]]”的线性逻辑，试图建立从国家证据中心（如 [[What Works Clearinghouse]]）直接下达操作指南的管道；[[Complexity Theory\|复杂性理论]]学者则认为该构想在复杂教育生态中注定失灵。
 > >
 > > - **Hargreaves（1996）** 主张建立类似循证医学的[[Knowledge Production\|知识生产]]与直接转化体系。
@@ -269,5 +266,5 @@ updated: 2026-10-07
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 将[[Research Utilization\|研究利用]]模型与[[Theory of Planned Behavior\|计划行为理论]]结合，开发并验证 20 题 4 维度的[[Research Literacy Scale for Teachers\|教师研究素养量表]]，证实研究技能是连接积极态度与实际使用的关键知觉控制枢纽，且做研究与读期刊具有双轨赋能效应。
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] — 在关于教师协作参与科研的[[Framework Synthesis\|框架综合]]中，运用 Weiss 的研究利用分类区分深度整合与浅层象征性合规，揭示信任与制度支持在促成互动模型中的决定性作用。
-> - [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] — 梳理 Weiss (1979) 以来研究利用[[Document\|文献]]对国际[[Evidence-Informed Practice\|证据知情实践]]（EIP）的奠基作用，探讨[[Knowledge Mobilisation\|知识动员]]条件与系统性落地瓶颈。
+> - [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] — 梳理 Weiss (1979) 以来研究利用文献对国际[[Evidence-Informed Practice\|证据知情实践]]（EIP）的奠基作用，探讨[[Knowledge Mobilisation\|知识动员]]条件与系统性落地瓶颈。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03\|Cohen, Manion & Morrison (2011, Ch. 3)]] — 系统评述 Weiss (1991b) 的政策研究利用四模型（研发、[[Problem Solving\|问题解决]]、互动、战术），探讨教育研究与政策制定之间的多重复杂关系。

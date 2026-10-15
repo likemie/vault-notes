@@ -9,7 +9,7 @@ summary: "美国著名外交家、国际政治学者，现实主义地缘战略�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 13
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -37,7 +37,6 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Lee Kuan Yew]]"
-  - "[[Alfred Nobel]]"
   - "[[Noam Chomsky]]"
 related_facts: []
 related_arguments:
@@ -47,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-09
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Henry Kissinger
@@ -74,7 +73,7 @@ updated: 2026-10-09
 > - **1923** 出生于德国巴伐利亚菲尔特的一个犹太家庭，1938 年为躲避纳粹迫害举家移民美国。
 > - **1950–1954** 在哈佛大学完成本硕博学业，博士论文《恢复的世界》（*A World Restored*）系统奠定其十九世纪欧洲梅特涅均势外交思想体系。
 > - **1954–1969** 任教于哈佛大学政府系，出版《核武器与对外政策》（1957），确立其作为顶尖防务战略思想家的学术声誉。
-> - **1969–1977** 连续出任尼克松与福特政府的国家安全事务助理和国务卿，主导结束越南战争谈判、开启中美关系破冰与美苏核军控条约签署，1973 年获[[Alfred Nobel|诺贝尔]]和平奖。
+> - **1969–1977** 连续出任尼克松与福特政府的国家安全事务助理和国务卿，主导结束越南战争谈判、开启中美关系破冰与美苏核军控条约签署，1973 年获诺贝尔和平奖。
 > - **2000** 为[[Lee Kuan Yew|李光耀]]回忆录《从第三世界到第一世界》撰写长篇序言，高度评价卓越领袖性格对历史演进的决定性塑造作用。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Kissinger, 2000; Karp & Zamiska, 2025, p. 197)]]
 > - **2022–2023** 出版晚期战略巨著《领导力：世界战略六论》（*Leadership*），系统总结卓越政治家在危机历史关头的决断力；2023 年 11 月以 100 岁高龄在美国康涅狄格州逝世。
 

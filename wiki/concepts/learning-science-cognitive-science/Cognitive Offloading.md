@@ -10,10 +10,10 @@ aliases:
 summary: "使用外部物理或数字工具执行原本由内部心智承担的认知加工，兼具释放工作记忆以赋能高阶探究与诱发捷径学习、导致思维惰性及元认知外包的深层双刃剑效应。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 51
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_count: 49
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - theme/cognitive-load
   - theme/artificial-intelligence
@@ -49,7 +49,6 @@ related_concepts:
   - "[[Evaluative Judgement]]"
   - "[[Epistemic Dependence]]"
   - "[[Reflexivity]]"
-  - "[[Hypothesis]]"
   - "[[Creativity]]"
   - "[[Brainstorming]]"
   - "[[Inquiry-Based Learning]]"
@@ -64,7 +63,6 @@ related_theories:
 related_methods:
   - "[[Chain-of-Thought Prompting]]"
   - "[[Role-playing]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Systematic Review]]"
@@ -79,7 +77,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-08-31
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Cognitive Offloading
@@ -175,7 +173,7 @@ updated: 2026-10-12
 > 探讨通过教学设计引导程序性与机械性任务卸载，进而激活发散生成与收敛评估协同发展的促进机制。
 
 > [!claim] [[Argument_Li_2026_CEAI\|Li et al. (2026)]]
-> **结构化卸载的高阶赋能** 当教学设计通过[[Reflexivity\|反思性]]提示词、多源反馈环路和量规评估对人机交互施加结构化支架时，认知卸载能够成功剥离机械性语法修改与初步素材搜集等外在认知负荷。释放出的[[Working Memory\|工作记忆]]资源被重新定向投入到[[Metacognition\|元认知监控]]、论证建构与[[Hypothesis\|假设]]检验等高阶认知加工中，从而实现批判性思维与[[Creativity\|创造性思维]]的协同增益。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3, 9–10)]]
+> **结构化卸载的高阶赋能** 当教学设计通过[[Reflexivity\|反思性]]提示词、多源反馈环路和量规评估对人机交互施加结构化支架时，认知卸载能够成功剥离机械性语法修改与初步素材搜集等外在认知负荷。释放出的[[Working Memory\|工作记忆]]资源被重新定向投入到[[Metacognition\|元认知监控]]、论证建构与假设检验等高阶认知加工中，从而实现批判性思维与[[Creativity\|创造性思维]]的协同增益。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 2–3, 9–10)]]
 
 ---
 
@@ -229,7 +227,7 @@ updated: 2026-10-12
 
 > [!dev-timeline] 概念演变
 > - **2010 年代初 — 具身与物理动作卸载** Risko & Gilbert 等认知心理学家系统界定认知卸载，聚焦于使用旋转头部/身体、纸笔备忘与数码提醒等外部动作降低内部记忆负荷。
-> - **2010 年代末 — 互联网互联与数字外包** 随着智能手机与搜索引擎普及，研究拓展至数字记忆外包（Google 效应 / 数字健忘症）对长时记忆[[Coding in Qualitative Research\|编码]]与信息检索策略的影响。
+> - **2010 年代末 — 互联网互联与数字外包** 随着智能手机与搜索引擎普及，研究拓展至数字记忆外包（Google 效应 / 数字健忘症）对长时记忆编码与信息检索策略的影响。
 > - **2024–2025 年 — 生成式 AI 介入下的认知分化与时间边界确立** 大语言模型赋予机器复杂的语义生成与代码调试能力，认知卸载突破低阶存储边界，进入论证建构与[[Creativity\|创造性]]综合等高阶领域。[[Argument_Li_2026_CEAI\|Li et al. (2026)]] 揭示了非结构化环境下的批判性侵蚀与[[Metacognition\|元认知]]外包路径；[[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] 进一步通过一阶[[Meta-analysis\|元分析]]实证确立了“8–16 周中期黄金平衡 vs 长期过度依赖衰落”的倒 U 型时间曲线，并证实[[Self-Regulated Learning\|自主调节学习]]能力（SRL）是中和认知外包风险的决定性个体防线。
 > - **2025 年 — [[Epistemic Stances\|认识立场]]分化与[[Man-Computer Symbiosis|人机共生]][[Epistemic Agency\|认识主体性]]框架确立** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 提出人机共生学习伙伴关系模型，系统揭示表面顺从（Superficial [[Strategic Compliance|compliance]]）与证据过滤剥离机制，阐明绝对主义、相对主义与[[Evaluativist\|评价主义认识立场]]对认知卸载形态的决定性分流作用。
 > - **2026 年 — 延展心智规范判准重塑与中间认识动作剥落诊断** [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] 从社会[[Epistemology\|认识论]]与延展[[Theory of Mind\|心智理论]]出发重新界定认知卸载，提出卸载能否扩展主体性取决于学习者能否控制耦合、审计系统输入并独立恢复推理，并系统剖析了无摩擦委派如何压缩检索与综合等中间认识动作并剥夺[[Evaluative Judgement\|评价性判断]]。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 4–6)]]

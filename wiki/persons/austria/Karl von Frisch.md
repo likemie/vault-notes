@@ -8,10 +8,10 @@ summary: "奥地利动物行为学家与感官生理学家，1973年诺贝尔生
 type: person
 nationality: austria
 person_region: "austria"
-person_related_count: 8
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 born: 1886
 died: 1982
 lifespan: "1886–1982"
@@ -27,8 +27,7 @@ related_concepts:
   - "[[Swarm Intelligence]]"
   - "[[Paradigm]]"
 related_theories: []
-related_methods:
-  - "[[Coding in Qualitative Research]]"
+related_methods: []
 related_instruments: []
 related_persons:
   - "[[Konrad Lorenz]]"
@@ -52,7 +51,7 @@ updated: 2026-10-15
 > [!person-profile] 人物档案
 > - **身份位置** 奥地利动物学家、比较生理学家与经典动物行为学奠基人；慕尼黑大学动物学研究所教授兼所长，1973 年与[[Konrad Lorenz|康拉德·洛伦茨]]（Konrad Lorenz）、尼古拉斯·廷伯根（Nikolaas Tinbergen）共同荣获[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]。
 > - **核心角色** 现代动物交流与感官生理学的开创者，通过数十年严密设计的行为学实验破译了蜜蜂复杂的符号化信息传递系统，指导并培育了包括[[Martin Lindauer|马丁·林道尔]]（[[Martin Lindauer]]）在内的一大批杰出行为生物学家。
-> - **代表贡献** 提出并证实[[Dance Language of Bees|蜜蜂舞蹈语言]]（[[Dance Language of Bees]]，Tanzsprache），阐明摆尾舞（Waggle dance）与圆舞（Round dance）中蕴含的距离和方向[[Coding in Qualitative Research|编码]]法则，为理解[[Swarm Intelligence|群智能]]（[[Swarm Intelligence]]）中去中心化信息共享提供了最核心的机制模型。
+> - **代表贡献** 提出并证实[[Dance Language of Bees|蜜蜂舞蹈语言]]（[[Dance Language of Bees]]，Tanzsprache），阐明摆尾舞（Waggle dance）与圆舞（Round dance）中蕴含的距离和方向编码法则，为理解[[Swarm Intelligence|群智能]]（[[Swarm Intelligence]]）中去中心化信息共享提供了最核心的机制模型。
 
 > [!citation-card] 卡普与扎米斯卡论弗里施发现的舞蹈语言
 > 弗里施与林道尔发现，蜜蜂舞蹈的行进距离（例如侦察蜂走过一两厘米）与它们返回的潜在筑巢地点距离成正比，从而指示了飞往该处的飞行路程；此外积累的证据表明，舞蹈相对于太阳位置的倾斜角度指示了新巢穴的具体方位。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 117)]]

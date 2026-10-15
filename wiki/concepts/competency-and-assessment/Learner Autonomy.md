@@ -8,10 +8,10 @@ aliases:
 summary: "学习者在明确目标与支架支持下对自身学习过程主动承担责任、进行批判性反思与元认知调节的能力与意愿。在现代因果试验中，技术辅助的自主学习需与教师主导教学解耦并析因测量，缺乏支架的放任个别化易诱发认知负荷失控与弱势学童掉队。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 51
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_count: 49
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - theme/autonomy
   - theme/critical-thinking
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Epistemology]]"
-  - "[[Hypothesis]]"
   - "[[Self-Efficacy]]"
   - "[[Critical Thinking]]"
   - "[[International Baccalaureate]]"
@@ -41,7 +40,6 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Constructivist Paradigm]]"
   - "[[Creativity]]"
-  - "[[Document]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Technology Infusion]]"
   - "[[Epistemological Vigilance]]"
@@ -78,7 +76,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-07-02
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Learner Autonomy
@@ -128,7 +126,7 @@ updated: 2026-10-07
 ## 核心要素
 
 > [!feature] 学习者自主性的四大核心支柱
-> - **内部反思与批判性判断（Internal Reflection & Critical Judgment）** 自主性表现为个体的信念与行为选择是“理性和知情反思”的结果（Carter et al., 2007, p. 323）。学习者拒绝盲从外部权威与算法输出，能够批判性审查自身[[Hypothesis\|假设]]并做出独立裁量。[[Argument_Lakhani_2012_AKUIED\|(Lakhani, 2012, p. 177)]]
+> - **内部反思与批判性判断（Internal Reflection & Critical Judgment）** 自主性表现为个体的信念与行为选择是“理性和知情反思”的结果（Carter et al., 2007, p. 323）。学习者拒绝盲从外部权威与算法输出，能够批判性审查自身假设并做出独立裁量。[[Argument_Lakhani_2012_AKUIED\|(Lakhani, 2012, p. 177)]]
 > - **[[Metacognition\|元认知]]意识与自评监控（Metacognitive Awareness & Monitoring）** 对自身认知状态具备高度警觉——清晰洞悉“自己已知何物、正在采取何种策略、遇到了何种认知卡点”，并能依据表现动态修正探究路径（Hacker & Dunlosky, 1998; Wenden, 1991）。
 > - **行动能力与探究技能（Capacity for Action & Inquiry）** 学习者掌握将抽象意愿转化为具体学术产出的工具性技能，包括分析性阅读、假设提出、因果推理与论据综合（Little, 2007）。
 > - **内在意愿与自律动机（Willingness, Motivation & Readiness）** 摆脱外在金钱奖惩与被动问责驱动，源自对真理探究的内在好奇心、[[Self-Efficacy\|自我效能感]]与自发承担探究责任的心理准备度（Dam, 1995）。
@@ -186,7 +184,7 @@ updated: 2026-10-07
 ### 命题总览
 
 > [!contrast-table] 学习者自主性三大理论命题比较
-> | 命题维度 | 核心论断 | 因果作用机制 | 代表[[Document\|文献]]与实证载体 |
+> | 命题维度 | 核心论断 | 因果作用机制 | 代表文献与实证载体 |
 > |---|---|---|---|
 > | **认识论与元认知基石** | 自主性取决于批判思维能力与意义建构自信的双轨养成。 | 知识论探究破除被动接受，反思训练激活风险承担与自主表达。 | [[Argument_Lakhani_2012_AKUIED\|Lakhani (2012)]]; [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] |
 > | **技术析因机制解耦** | 软件自主学习与教师主导教学存在异质效应与协同红利。 | 多臂析因试验剥离独立因果贡献，揭示软件自主需人际支架互补。 | McNally et al. (2018); [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] |
@@ -237,7 +235,7 @@ updated: 2026-10-07
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]]; McNally et al. (2018) | 英格兰小学学童（ABRA 在线阅读试验） | 2x2 析因整群 [[Randomised Controlled Trials\|RCT]] | 技术软件辅助自主学习、教师直接小步辅导、阅读理解与流利度 | 多臂析因比较证实：单独使用技术软件自主自学组取得微弱正向增益，但与教师面对面结构化辅导相结合的多组分臂产生最大协同效益；系统剥离了技术自主与教师[[Direct Instruction\|直接教学]]的独立因果贡献 | $p < .05$ | 证实教育技术支持的学习者自主学习绝非孤立替代品，其因果潜能高度依赖于教师人际支架的协同配合 |
 > | [[Argument_Lakhani_2012_AKUIED\|Lakhani (2012)]] | 某[[International Schools\|国际学校]] 12 年级高中生与[[Theory of Knowledge\|知识论]]（TOK）教师 | 质性[[Case Study\|个案研究]]（课堂深度观察、师生半结构访谈与文本分析） | [[Epistemology\|认识论]]批判反思、[[Self-Efficacy\|自我效能感]]、探究自信、自主学习行为 | 深度追踪显示：TOK 课程的驳诘性质问使学生突破“被动接收者”角色，在认识论训练与反思自信共同成熟后，学生在日常探究中展现出高水平的独立选题、多重论证与自我调节行为 | 质性[[Triangulation\|三角互证]]可靠 | 阐明自主性发展并非自发[[Emergence\|涌现]]，必须以系统的批判性反思知识和能力建设为前提 |
 > | [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] | 澳大利亚私立与公立学校高中毕业生（$N = 432$） | 准实验对照设计与结构方程模型 | [[Critical Thinking\|批判性思维]]（[[Watson-Glaser Critical Thinking Appraisal\|WGCTA]] 测验）、探究主动性、学术成就 | 经历 TOK 课程训练的学生在推理独立性、证据权衡及自主探究取向上的标准化得分显著高于对照组 | $p < .01$ | 为课程促进学习者批判性自主思维提供了量化证据支撑 |
-> | [[Argument_Håkansson_2015_TT\|Håkansson (2015a)]] | 瑞典本土与国际 43 项教学综述 | [[Comparative Meta-synthesis\|比较性元综合]]（Comparative [[Meta-meta-analysis\|meta-synthesis]]） | 课堂个人化自学比例、教师课堂领导力、[[PISA]] 学业产出 | 长期实证汇总表明：缺乏教师支架引导的激进自学使得课堂安静但思维浅表化，弱势群体掉队率显著攀升，全面颠覆了“去结构化等同于优质自主”的教条[[Hypothesis\|假设]] | 跨国趋势高度一致 | 确立自主性必须在教师清晰结构与支架引领下渐进释放的方法学铁律 |
+> | [[Argument_Håkansson_2015_TT\|Håkansson (2015a)]] | 瑞典本土与国际 43 项教学综述 | [[Comparative Meta-synthesis\|比较性元综合]]（Comparative [[Meta-meta-analysis\|meta-synthesis]]） | 课堂个人化自学比例、教师课堂领导力、[[PISA]] 学业产出 | 长期实证汇总表明：缺乏教师支架引导的激进自学使得课堂安静但思维浅表化，弱势群体掉队率显著攀升，全面颠覆了“去结构化等同于优质自主”的教条假设 | 跨国趋势高度一致 | 确立自主性必须在教师清晰结构与支架引领下渐进释放的方法学铁律 |
 
 ---
 

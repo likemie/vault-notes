@@ -7,7 +7,7 @@ aliases:
 summary: "由弗莱雷提出的概念，指学习者觉察自身在社会与文化压迫结构中位置的过程，是通往实践行动与成长的必要前提"
 type: concept
 domain: "educational-philosophy"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[Culture of Silence]]"
   - "[[Praxis]]"
-  - "[[Bildung]]"
   - "[[Epistemology]]"
   - "[[Pact of Domination]]"
 related_theories: []
@@ -37,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-25
-updated: 2026-09-28
+updated: 2026-10-15
 ---
 
 # Conscientization
@@ -47,7 +46,7 @@ updated: 2026-09-28
 ## 定义
 
 > [!def] 核心定义
-> 批判意识觉醒（Conscientization / Conscientização）是[[Critical Pedagogy\|批判教育学]]与[[Popular Education\|民众教育]]的核心[[Construct|构念]]。在[[Paulo Freire\|弗莱雷]]（Paulo Freire）与 Darwish (2009) 的论述中，批判意识觉醒不仅指学习者认识到自身生活中的社会、政治与经济现实及不公正统治，克服传统教育强加的“[[Culture of Silence\|沉默文化]]”、实现成长与通往实践（[[Praxis]]）行动的根本机制（[[Argument_Darwish_2009_Queens|Darwish, 2009, pp. 7–8, 10]]），更构成了被压迫大众解构自由主义资产阶级国家“[[Bildung|教化]]主权者”（educate the sovereign）这一虚伪恩庇神话、确立历史创造者主体地位的[[Epistemology|认识论]]根基（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009, p. 84]]）。
+> 批判意识觉醒（Conscientization / Conscientização）是[[Critical Pedagogy\|批判教育学]]与[[Popular Education\|民众教育]]的核心[[Construct|构念]]。在[[Paulo Freire\|弗莱雷]]（Paulo Freire）与 Darwish (2009) 的论述中，批判意识觉醒不仅指学习者认识到自身生活中的社会、政治与经济现实及不公正统治，克服传统教育强加的“[[Culture of Silence\|沉默文化]]”、实现成长与通往实践（[[Praxis]]）行动的根本机制（[[Argument_Darwish_2009_Queens|Darwish, 2009, pp. 7–8, 10]]），更构成了被压迫大众解构自由主义资产阶级国家“教化主权者”（educate the sovereign）这一虚伪恩庇神话、确立历史创造者主体地位的[[Epistemology|认识论]]根基（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009, p. 84]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 学习者从被动的盲从状态走向对自身生存境遇与权力关系的深刻省察。

@@ -6,7 +6,7 @@ aliases:
 summary: "以理由权衡、有目的的反思判断和自我调节为核心，统合认知技能、思维倾向、领域知识与情境标准；在教育研究中用于设计教学、界定学习结果并检验课程与评估的构念效度。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 121
+related_count: 119
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Creativity]]"
   - "[[Reliability]]"
-  - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Evidence Standards]]"
   - "[[Epistemological Understanding]]"
@@ -98,7 +97,6 @@ related_methods:
   - "[[Prediction Interval]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Questionnaire]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Interview]]"
   - "[[Multimodal Discourse Analysis]]"
   - "[[Correlational Research]]"
@@ -188,7 +186,7 @@ updated: 2026-10-15
 > - **解释** 澄清经验、文本、数据和问题的意义，并用适当分类或表述呈现。
 > - **分析** 识别主张、前提、理由与结论之间的关系，拆解论证结构。
 > - **评价** 判断信息相关性、来源可[[Reliability\|信度]]、推论强度和论证质量。
-> - **推论** 从证据形成合宜结论，提出[[Hypothesis\|假设]]、预测与替代解释，并控制主张范围。
+> - **推论** 从证据形成合宜结论，提出假设、预测与替代解释，并控制主张范围。
 > - **说明** 清楚表达判断及其依据，说明方法、标准和推导过程。
 > - **自我调节** 反思自身假设、偏见和推理过程，根据审查结果修正判断。
 > - **思维倾向** 探究、开放、公正、独立、智识[[Humility\|谦逊]]、勇气、诚信与坚持，使技能得到持续而负责的运用。
@@ -256,7 +254,7 @@ updated: 2026-10-15
 > **有理由的反思判断** Siegel 将批判性思维连接到理性，要求个体把握不同理由与判断的相关性并适当权衡其分量。Ennis and Weir 将其界定为聚焦于决定相信什么或做什么的合理、[[Reflective Thinking\|反思性思维]]。Facione 的德尔菲框架进一步把这种判断拆为解释、分析、评价、推论、说明和自我调节，并加入探究、开放和理解他人等倾向。三者共同表明，技能表现需要理由承诺和反思倾向才能形成完整构念。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, p. 32)]]
 
 > [!claim] Paul, R.; [[Steve Higgins\|Higgins, S.]]; Nisbett, R. E.
-> **情境化的思维质量** Paul 将独立思考、公正、智识[[Humility\|谦逊]]和坚持与来源评价、观点比较、[[Hypothesis\|假设]]审查、推论及后果分析并置。Higgins 进一步区分视角、倾向和所处理的知识维度。Nisbett 对清单式界定的批评说明，同一个行动词只有在倾向、视角和情境得到说明后，才可用于判断思维质量。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 32–35)]]
+> **情境化的思维质量** Paul 将独立思考、公正、智识[[Humility\|谦逊]]和坚持与来源评价、观点比较、假设审查、推论及后果分析并置。Higgins 进一步区分视角、倾向和所处理的知识维度。Nisbett 对清单式界定的批评说明，同一个行动词只有在倾向、视角和情境得到说明后，才可用于判断思维质量。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 32–35)]]
 
 ### 命题二　显性教学更可能产生可观察增益，其效果受领域知识与实施条件约束
 
@@ -476,7 +474,7 @@ updated: 2026-10-15
 > | 研究 | 样本与情境 | 研究设计 | 变量或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] | $N = 129$ 名成人与青少年（含高管与非专家群体） | 跨领域[[Epistemology\|认识论]]评估测试 | 价值观领域的评价论阶段达成率与批判论辩倾向 | 在成人精英群体（EMBA 等）中，仅 22% 达成[[Evaluativist\|评价论]]阶段并展现批判反思意愿，绝大多数停滞于[[Multiplist\|多元论]] | 组间差异极其显著 | 证实批判性思维意愿受制于底层认识论成熟度 |
-> | [[Argument_Bergeron_2015_TeachingTOK\|Bergeron & Rogers (2015)]] | $N = 960$ 名全球 [[IB Diploma Programme\|IBDP]] 教师 | [[Questionnaire\|问卷调查]]与开放[[Coding in Qualitative Research\|编码]] | 批判性思维在其他学科（441 次）、[[Extended Essay\|拓展论文]]（154 次）及大学学业（226 次）中的溢出频次 | 教师反馈批判性思维为显性探究课程中最高频溢出的[[21st Century Skills and Competencies Discourse\|核心素养]]；同时“评估批判性思维进展”列为首要教学痛点（$M = 3.56/5$） | — | 质性与频数证据，证实显性思维教学的可迁移性，但依赖自报数据 |
+> | [[Argument_Bergeron_2015_TeachingTOK\|Bergeron & Rogers (2015)]] | $N = 960$ 名全球 [[IB Diploma Programme\|IBDP]] 教师 | [[Questionnaire\|问卷调查]]与开放编码 | 批判性思维在其他学科（441 次）、[[Extended Essay\|拓展论文]]（154 次）及大学学业（226 次）中的溢出频次 | 教师反馈批判性思维为显性探究课程中最高频溢出的[[21st Century Skills and Competencies Discourse\|核心素养]]；同时“评估批判性思维进展”列为首要教学痛点（$M = 3.56/5$） | — | 质性与频数证据，证实显性思维教学的可迁移性，但依赖自报数据 |
 > | Arum & Roksa (2011)，引自 [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | $N = 2{,}322$ 名全美本科生（24 所高校） | 4 年纵向追踪（[[Collegiate Learning Assessment\|CLA]] 测验） | 批判性思维与复杂推理能力纵向增长率 | 45% 学生前两年无统计显著增益；36% 学生四年全周期无显著增益 | $p < .05$ 显著性判定 | 揭示大学本科阶段批判性思维增益匮乏的“学术漂泊”现象 |
 > | Loyalka et al. (2021)，引自同上 | $N > 30{,}000$ 名中、印、俄、美 STEM 本科生 | 跨国纵向追踪（[[ETS HEIghten Critical Thinking Assessment\|ETS HEIghten]] 测验） | 批判性思维技能跨学段增长轨迹 | 中俄学生大一入学生源测试显著高于美生，但就读四年间技能无明显增长或相对下滑，最终被美生反超 | 跨国组间差异显著 | 证实大学阶段教学法与批判性思维培养对高阶心智增长的决定性作用 |
 > | AAC&U (2016) 调查，引自同上 | $N = 325$ 所全美高校学术主管 | 宏观院校调查 | 全校通用成果标准与量规采纳率 | 85% 高校建立全校通用成果标准，其中 98% 包含批判性思维；开展累积评价的高校中 91% 使用评分量规，42% 采纳 [[VALUE Rubrics\|VALUE]] 量规 | — | 宏观管理实践数据，证实批判性思维已成为全校性核心学习成果 |

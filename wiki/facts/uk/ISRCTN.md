@@ -11,7 +11,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 20
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -29,7 +29,6 @@ tags:
 related_concepts:
   - "[[Clinical Trial]]"
   - "[[Statistical Analysis Plan]]"
-  - "[[Hypothesis]]"
   - "[[Reproducibility Crisis]]"
   - "[[Chain of Evidence]]"
   - "[[Variable]]"
@@ -41,7 +40,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Pre-test and Post-test]]"
   - "[[Sample Size Determination]]"
   - "[[Random Assignment]]"
@@ -56,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-06
+updated: 2026-10-15
 ---
 
 # ISRCTN
@@ -66,24 +64,24 @@ updated: 2026-10-06
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> 国际标准[[Randomised Controlled Trials\|随机对照试验]][[Coding in Qualitative Research\|编码]]（International Standard Randomised Controlled Trial Number，简称 ISRCTN）注册库是全球循证因果评估与临床科研领域的核心公共基础设施，由循证医学先驱伊恩·查尔默斯（Sir Iain Chalmers）于 2000 年倡议设立，由英国生物医学中心（BioMed Central / Springer Nature）负责运营管理。该平台作为世界卫生组织国际[[Clinical Trial\|临床试验]]注册平台（WHO ICTRP）认证的一级主注册机构，被英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）等国际权威证据资助方确立为全量试验方案与[[Statistical Analysis Plan\|统计分析计划]]（SAP）强制前置时间戳登记的法定基准。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 52)]]
+> 国际标准[[Randomised Controlled Trials\|随机对照试验]]编码（International Standard Randomised Controlled Trial Number，简称 ISRCTN）注册库是全球循证因果评估与临床科研领域的核心公共基础设施，由循证医学先驱伊恩·查尔默斯（Sir Iain Chalmers）于 2000 年倡议设立，由英国生物医学中心（BioMed Central / Springer Nature）负责运营管理。该平台作为世界卫生组织国际[[Clinical Trial\|临床试验]]注册平台（WHO ICTRP）认证的一级主注册机构，被英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）等国际权威证据资助方确立为全量试验方案与[[Statistical Analysis Plan\|统计分析计划]]（SAP）强制前置时间戳登记的法定基准。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 52)]]
 
 > [!program-context] 机构与平台背景
 > - **立项时间 / 周期** 2000 年正式启动上线，已持续常态化稳定运行 25 年以上。
 > - **发起方与管理架构** 由伊恩·查尔默斯发起创设，由 BioMed Central 提供技术支持与日常运维，受英国卫生与社会保障部（DHSC）认可，并对接国际医学期刊编辑委员会（ICMJE）审查标准。
 > - **覆盖范围与对象** 早期聚焦全球人体临床医学与药物试验；自 2010 年代起，广泛向教育学、犯罪学、社会工作与公共政策等复杂社会干预随机对照试验（RCT）延伸，覆盖全球数十万项试验档案。
-> - **核心问题导向** 针对长期困扰实证研究的“抽屉效应”（File Drawer Problem）、假阳性虚报、事后篡改[[Hypothesis\|假设]]（HARKing）以及选择性汇报等严重的科学[[Reproducibility Crisis|可复现性危机]]。
+> - **核心问题导向** 针对长期困扰实证研究的“抽屉效应”（File Drawer Problem）、假阳性虚报、事后篡改假设（HARKing）以及选择性汇报等严重的科学[[Reproducibility Crisis|可复现性危机]]。
 
 ---
 
 ## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
-> 通过为每项干预试验在样本招募与数据收集之前赋予全球唯一的数字化[[Coding in Qualitative Research\|编码]]，强制公开并锁定经同行评审的评估协议（Protocol）与[[Statistical Analysis Plan\|统计分析计划]]（SAP），使事后根据数据结果挑选显著指标或隐匿零结果的暗室操作无处遁形，从源头筑牢因果[[Chain of Evidence\|证据链]]条的客观纯洁性。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 52)]]
+> 通过为每项干预试验在样本招募与数据收集之前赋予全球唯一的数字化编码，强制公开并锁定经同行评审的评估协议（Protocol）与[[Statistical Analysis Plan\|统计分析计划]]（SAP），使事后根据数据结果挑选显著指标或隐匿零结果的暗室操作无处遁形，从源头筑牢因果[[Chain of Evidence\|证据链]]条的客观纯洁性。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 52)]]
 
 > [!policy-design]- 方案设计与注册规程
 > - **时间戳硬约束机制** 要求试验团队在第一名受试者入组或基线[[Pre-test and Post-test\|前测]]采集前，向注册库提交完整的方案细则；平台审核通过后生成带不可篡改时间戳的唯一 ISRCTN 编号。
-> - **核心[[Variable\|变量]]先验规约** 注册信息必须硬性锁定：试验[[Hypothesis\|假设]]、主要与次要结局指标的测量工具、[[Sample Size Determination\|样本量]]计算依据、[[Random Assignment\|随机分配]]层级与[[Screening Off\|屏蔽]]方法，以及预先指定的统计分析模型。
+> - **核心[[Variable\|变量]]先验规约** 注册信息必须硬性锁定：试验假设、主要与次要结局指标的测量工具、[[Sample Size Determination\|样本量]]计算依据、[[Random Assignment\|随机分配]]层级与[[Screening Off\|屏蔽]]方法，以及预先指定的统计分析模型。
 > - **实施变更透明化跟踪** 若在实地现场不可抗力下必须变更方案（如[[Attrition\|样本流失]]过大或追加中间指标），所有变更记录必须在平台历史版本树中全量公开留痕，并注明变更理由。
 > - **结局全量公布绑定** 无论试验最终呈现显著正向效应、零效应还是负向效应，试验结束后必须在注册条目中回填主要结局数据与结题公开报告链接。
 
@@ -119,7 +117,7 @@ updated: 2026-10-06
 > [!finding-cards] 核心制度价值与防偏倚成效
 > - **彻底封堵选择性报告与抽屉效应** 实证数据显示，传统社会科学中正向显著结果发表率比零结果高出 40 个百分点（Franco et al., 2014）；而在强制绑定 ISRCTN [[Preregistration\|预注册]]的 [[Education Endowment Foundation\|EEF]] 试验中，实现了 100% 全量发表，零结果与微弱效应报告公开率领先全球。
 > - **阻断数据挖掘与事后模型操纵** 使得研发者与评估团队无法在看到[[Pre-test and Post-test\|后测]]考分后通过微调模型或更换协[[Variable\|变量]]来制造虚假显著性，捍卫了因果证据的客观公信力。
-> - **支撑高公信力证据评级达成** EEF 已发表的 95 项评估报告中，高达 85% 获得了 3 把锁及以上的极高安全评级，整体被试[[Attrition\|流失]]率被有效压低至 30% 以下，ISRCTN 构成了全链条质控不可或缺的制度链环。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 52)]]
+> - **支撑高公信力证据评级达成** EEF 已发表的 95 项评估报告中，高达 85% 获得了 3 把锁及以上的极高安全评级，整体被试流失率被有效压低至 30% 以下，ISRCTN 构成了全链条质控不可或缺的制度链环。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 52)]]
 
 > [!stat-cards]- 关键实证数据
 > - EEF 资助试验：逾 200 项学校因果试验 100% 达成前置时间戳登记。
@@ -135,7 +133,7 @@ updated: 2026-10-06
 > > [!axis] [[Preregistration\|预注册]]刚性契约 vs 现场动态探索的科研自由
 > > 争论焦点在于强制锁定方案是否会束缚学者对田野突发[[Variable\|变量]]与意料外因果机制的敏锐洞察。
 > >
-> > - **严格规范立场（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）** 强调验证性因果结论必须受制于预注册契约；未预设的发现只能作为探索性[[Hypothesis\|假设]]列入附录，绝不可混淆因果证明。
+> > - **严格规范立场（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）** 强调验证性因果结论必须受制于预注册契约；未预设的发现只能作为探索性假设列入附录，绝不可混淆因果证明。
 > > - **灵活探索立场** 担忧过度严苛的时间戳惩罚机制可能诱导评估团队在注册时故意撰写模棱两可的模糊方案，导致预注册沦为形式主义走过场。
 
 > [!lessons] 经验教训与启示

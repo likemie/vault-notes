@@ -8,7 +8,7 @@ aliases:
 summary: "马丁·怀特将国际关系思想归纳为现实主义（马基雅维利）、理性主义（格劳秀斯）和革命主义（康德）三大传统，分别以权力、权威和武力为核心概念，克莱里德斯将其引入比较教育以解构学科的注意力议程与知识生产"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 46
+theory_related_count: 44
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -19,7 +19,6 @@ tags:
 related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Paradigm]]"
-  - "[[Hypothesis]]"
   - "[[Revolutionism]]"
   - "[[Agendas of Attention]]"
   - "[[Realism in International Relations]]"
@@ -57,7 +56,6 @@ related_persons:
   - "[[Michael Sadler]]"
   - "[[Isaac Kandel]]"
   - "[[Philip Altbach]]"
-  - "[[Marc-Antoine Jullien]]"
 related_facts:
   - "[[Sputnik Shock 1957]]"
   - "[[World Bank]]"
@@ -71,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-08'
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Wight's Three Traditions of International Theory
@@ -87,7 +85,7 @@ updated: 2026-10-07
 > - **知识位置** 国际关系学派中的英国学派奠基性理论，由马丁·怀特于 1950 年代末提出，并由赫德利·布尔等继承；后由[[Eleftherios Klerides\|克莱里德斯]]于 2023 年系统性地移植并发展于比较教育领域。
 
 > [!claim] 核心主张
-> 比较教育在学说、制度和大学建制上均是国际关系的产物与实践。对国际社会性质和政治运作规则的不同底层[[Hypothesis\|假设]]（现实主义、理性主义和[[Revolutionism\|革命主义]]），塑造了不同的比较教育学术形态、研究路径与[[Agendas of Attention\|注意力议程]]。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 417]])
+> 比较教育在学说、制度和大学建制上均是国际关系的产物与实践。对国际社会性质和政治运作规则的不同底层假设（现实主义、理性主义和[[Revolutionism\|革命主义]]），塑造了不同的比较教育学术形态、研究路径与[[Agendas of Attention\|注意力议程]]。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 417]])
 
 > [!citation-card]- 关键表述
 > 比较教育学者作为“比较教育者”所付诸的实践，本质上取决于他们对国际社会的性质、主要行动者以及国际政治运作法则的底层预设。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 417)]]
@@ -117,7 +115,7 @@ updated: 2026-10-07
 > - **前提二** 怀特的三大传统（现实主义、理性主义和[[Revolutionism\|革命主义]]）为理解国际社会的本质提供了三种基本的理想类型，分别以权力、权威和武力为核心驱动力 (p. 417)。
 > - **推导** 比较教育学者的[[Ontology\|本体论]]和方法论偏好本质上是这三种底层国际关系预设在教育领域的折射，对国际社会性质的设想决定了什么值得比较、如何比较以及比较服务于什么目的。([[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 416–417]])
 
-> [!proposition-chain] 核心命题二｜无政府状态的现实主义[[Hypothesis\|假设]]将比较教育塑造成国家实力竞争、地缘自保及殖民剥削的实用工具
+> [!proposition-chain] 核心命题二｜无政府状态的现实主义假设将比较教育塑造成国家实力竞争、地缘自保及殖民剥削的实用工具
 > - **前提一** 现实主义将国际关系视为无中央权威的自助竞技场，国家为了生存和安全必须最大化自身权力。教育系统被视为[[Competitiveness|国家竞争力]]和科技实力的关键中介，驱动了国家对外部的工具性借鉴。
 >   > [!evidence-grid]- 证据
 >   > - **19世纪的列强竞争与教育观摩** 19世纪英、法、德、美等国出于地缘实力竞争的假设，贪婪而好奇地相互调查教育系统；库赞 1831 年对普鲁士学校的系统调查报告直接服务于法国的国家根基维护 (p. 419)。
@@ -150,7 +148,7 @@ updated: 2026-10-07
 > - **前提二** 全球政策流动、西方评估体系及学科自身的认识型制造本质上是新殖民主义对非西方心智的“[[Re-Westernisation\|再西方化]]”奴役与剥削，必须从根本上予以解构。
 >   > [!evidence-grid]- 证据
 >   > - **解构评估与概念** 后殖民学者将[[PISA\|国际学生评估项目]]等评估体系重构为“[[Banal Imperialism\|平庸的帝国主义]]”，指出“全球公民”限制了受教育者身份的定义 (p. 428)。
->   > - **反思学科自身的殖民性** 揭示[[Marc-Antoine Jullien\|朱利安]] 1817 年学科奠基计划源自帝国政策扩张的差异分类；批判英语语言的主导权与西方理论解释非西方经验的知识垄断 (p. 428)。
+>   > - **反思学科自身的殖民性** 揭示朱利安 1817 年学科奠基计划源自帝国政策扩张的差异分类；批判英语语言的主导权与西方理论解释非西方经验的知识垄断 (p. 428)。
 >   > - **去殖民化的路径开辟** 开辟南南[[Knowledge Exchange\|知识交流]]，确立非西方教学模式的[[Reliability\|信度]]，引入南方理论与原住民认知以实现与西方地平线的脱钩。
 > - **推导** 比较教育在革命主义下放弃了以国家为中心的分析方法，转而揭示教育转移和学科自身的殖民认识型，致力于与西方知识地平线决裂，寻求南南知识互惠与原住民认知解放。([[Argument_Klerides_2023_CE\|Klerides, 2023, pp. 426–428]])
 

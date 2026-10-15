@@ -10,7 +10,7 @@ aliases:
 summary: "跨越研究哲学、学习理论与社会理论的概念家族，强调意义、知识和规范在主体活动及社会历史互动中形成，并用于质性研究、课程设计与观念权力分析"
 type: concept
 domain: "educational-philosophy"
-related_count: 67
+related_count: 64
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -41,7 +41,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Discourse]]"
   - "[[Progressive Education]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Test-Based Accountability]]"
   - "[[Selective Affinity]]"
   - "[[Knowledge Production]]"
@@ -55,7 +54,6 @@ related_concepts:
   - "[[Whole Language]]"
   - "[[Theoretical Standpoint]]"
   - "[[Dialogue in Education]]"
-  - "[[Bildung]]"
 related_theories:
   - "[[Radical Constructivism]]"
   - "[[Phenomenography]]"
@@ -72,7 +70,6 @@ related_methods:
   - "[[Qualitative Interview]]"
   - "[[Constructivist Grounded Theory]]"
   - "[[Effect Size]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Case Study]]"
   - "[[Design-Based Research]]"
   - "[[Questionnaire]]"
@@ -96,7 +93,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-30
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 # Constructivist Paradigm
 
@@ -204,7 +201,7 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 > 理念的传播也是意义建构过程。接受者会借助熟悉的文化资源解释外来概念，并根据课程、考试和组织权力重新界定其用途。
 
 > [!claim] [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]]
-> **文化亲和与制度筛选共同塑造借用结果**　进入中国学校的以学生为中心教育具有建构主义和[[Progressive Education\|进步主义教育]]背景。案例教师借助[[Confucius\|孔子]]的启发式对话传统和Vygotsky的社会文化理论理解外来理念，使其获得文化上的熟悉感。经过[[Transfer Translation Transformation\|转译]]后，课堂提问和互动被用于培养高阶思考、提高内容吸收效率，并服务于[[Gaokao\|高考]]环境下的教学目标。统一大纲和[[Test-Based Accountability\|考试问责]]仍限制学生参与课程内容与评价规则的决策。[[Selective Affinity\|选择性亲和]]解释了教学方法为何能够被采用，制度边界则解释了它为何只发生有限改变。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 591, 596, 601–602)]]
+> **文化亲和与制度筛选共同塑造借用结果**　进入中国学校的以学生为中心教育具有建构主义和[[Progressive Education\|进步主义教育]]背景。案例教师借助[[Confucius\|孔子]]的启发式对话传统和Vygotsky的社会文化理论理解外来理念，使其获得文化上的熟悉感。经过转译后，课堂提问和互动被用于培养高阶思考、提高内容吸收效率，并服务于[[Gaokao\|高考]]环境下的教学目标。统一大纲和[[Test-Based Accountability\|考试问责]]仍限制学生参与课程内容与评价规则的决策。[[Selective Affinity\|选择性亲和]]解释了教学方法为何能够被采用，制度边界则解释了它为何只发生有限改变。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 591, 596, 601–602)]]
 
 ---
 
@@ -268,7 +265,7 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] | 从覆盖 15 所学校的改革项目中选取 4 所案例学校，包括 2 所城市学校和 2 所农村学校；4 名校长、9 名教师；两轮共 25 次访谈，每次约 50 分钟 | 多案例[[Qualitative Research\|质性研究]]；NVivo 11 [[Coding in Qualitative Research\|编码]]；比较学校与角色差异 | 教师对以学生为中心教育、启发式[[Dialogue in Education\|对话]]、学生参与和课程决策权的解释 | 教师把对话、互动和高阶思考纳入课堂，同时保留统一课程和考试导向下的教师决策权 | 未报告统计不确定性；研究目标是解释意义与机制 | 目的性小样本支持情境化解释，不能估计这种重构在全部中国学校中的分布比例（pp. 594–602） |
+> | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] | 从覆盖 15 所学校的改革项目中选取 4 所案例学校，包括 2 所城市学校和 2 所农村学校；4 名校长、9 名教师；两轮共 25 次访谈，每次约 50 分钟 | 多案例[[Qualitative Research\|质性研究]]；NVivo 11 编码；比较学校与角色差异 | 教师对以学生为中心教育、启发式[[Dialogue in Education\|对话]]、学生参与和课程决策权的解释 | 教师把对话、互动和高阶思考纳入课堂，同时保留统一课程和考试导向下的教师决策权 | 未报告统计不确定性；研究目标是解释意义与机制 | 目的性小样本支持情境化解释，不能估计这种重构在全部中国学校中的分布比例（pp. 594–602） |
 > | [[Argument_Murphy_2026_JTS\|Murphy Jr. et al. (2026)]] | 美国 1 所高水平研究型大学；3 期学者工作坊（$n=21, 11, 12$） | 单机构[[Case Study\|案例研究]]与[[Design-Based Research\|基于设计的研究]]（DBR） | 基于社会建构与结构化提示研讨的学者协同与促学满意度 | 第二期线下研讨促学设计满意度达 100%；协作积极体验达 80%；三期研讨时间紧迫困境达 63%–75% | 质性开放[[Questionnaire\|问卷]]独立主题编码 | 单机构案例自陈调查；表明社会互动与面对面研讨有效支撑了跨学科知识协商与共同体生成 |
 
 ---
@@ -285,4 +282,4 @@ Biggs 将建构主义与[[Phenomenography|现象图式学]]视为[[Student Learn
 > - [[Argument_Zapp_2022_Springer\|Zapp (2022)]]　用国际关系建构主义解释观念、规范和知识在全球教育治理中的制度权力。
 > - [[Argument_Rømer_2018_EPT\|Rømer (2018)]]　分析[[Radical Constructivism\|激进建构主义]]与教师权威、文化内容之间的张力。
 > - [[Argument_OConnor_2020_AJLL\|O'Connor (2020)]]　审计反建构主义判断中的数据选择、研究分类和效应解释。
-> - [[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff (2024)]]　追溯芬兰现象化学习中[[Pragmatic Constructivism\|实用主义建构主义]]与[[Bildung\|教化]]传统的结合。
+> - [[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff (2024)]]　追溯芬兰现象化学习中[[Pragmatic Constructivism\|实用主义建构主义]]与教化传统的结合。

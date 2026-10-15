@@ -9,7 +9,7 @@ summary: "在多个时间点对同一或不同受访者收集数据的调查研�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 27
+method_related_count: 26
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Research Purpose]]"
   - "[[Pre-test Sensitisation]]"
-  - "[[Document]]"
   - "[[Emergence]]"
   - "[[Reliability]]"
   - "[[Epistemological Beliefs]]"
@@ -52,7 +51,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-07-09
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Longitudinal Study
@@ -124,7 +123,7 @@ updated: 2026-10-08
 > |---|---|---|
 > | 追踪对象 | 具有共同特征的群体，每次可选择性抽样 | 完全相同的个体，每轮全部追踪 |
 > | [[Attrition\|样本流失]] | 可通过补充新成员缓解 | 流失后无法替补，随时间加剧 |
-> | 术语区域 | 英国[[Document\|文献]]常用（follow-up study） | 美国文献常用，Lazarsfeld 1940 年代引入 |
+> | 术语区域 | 英国文献常用（follow-up study） | 美国文献常用，Lazarsfeld 1940 年代引入 |
 > | 典型实例 | NCDS（1958 年启动，追踪约 17,000 人） | BHPS（1991–2008，每年访谈约 10,000 人） |
 
 ### 前瞻性纵向研究
@@ -203,7 +202,7 @@ updated: 2026-10-08
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Cohort Study]] | 子类型 | 追踪具有共同特征的特定群体，每次可选择性抽样；英国[[Document\|文献]]常用术语。 |
+> | [[Cohort Study]] | 子类型 | 追踪具有共同特征的特定群体，每次可选择性抽样；英国文献常用术语。 |
 > | [[Trend Study]] | 子类型 | 关注因素而非同一人群，通过每轮更换样本避免[[Pre-test Sensitisation\|预试敏感化]]。 |
 > | [[Cross-sectional Study]] | 替代方法 | 横截面研究提供快照，成本低、速度快，但无法进行[[Causality\|因果]]分析或个体层面追踪。 |
 > | [[Survey Research]] | 前置方法 | 调查是纵向研究最常用的数据收集框架。 |

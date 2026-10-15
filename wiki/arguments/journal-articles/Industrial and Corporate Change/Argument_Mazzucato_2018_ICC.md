@@ -24,11 +24,9 @@ related_concepts:
   - "[[Market Shaping and Creating]]"
   - "[[Picking the Willing]]"
   - "[[Innovation Policy Paradigms]]"
-  - "[[Hypothesis]]"
   - "[[Grand Challenges]]"
   - "[[Wicked Problem]]"
   - "[[Public Value]]"
-  - "[[Document]]"
   - "[[Open-Mindedness]]"
   - "[[Network Governance]]"
   - "[[Reflexivity]]"
@@ -80,7 +78,7 @@ title: "Argument_Mazzucato_2018_ICC"
 argument_key: "Argument_Mazzucato_2018_ICC"
 argument_display_title: "Mission-oriented innovation policies: challenges and opportunities"
 argument_kind: "journal-article"
-argument_related_count: 44
+argument_related_count: 42
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -99,7 +97,7 @@ argument_related_color: "#dbeafe"
 
 > [!concept-lens] 阅读透镜
 > - **对象** 现代国家[[Innovation Policy Paradigms|创新政策范式]]、公共研发与产业资助机构的治理机制、公私合作契约设计，以及重大社会技术系统转型（如德国能源转型规划、欧盟[[Horizon Europe Missions|地平线欧洲战略使命]]）。
-> - **张力** 新古典经济学静态市场失灵修补与防范挤出[[Hypothesis|假设]]，同[[Evolutionary Economics|演化经济学]]动态市场共创与预期挤入机制之间的范式冲突；公共部门承担早期颠覆性研发高风险与私人资本独占商业化垄断暴利之间的制度失衡。
+> - **张力** 新古典经济学静态市场失灵修补与防范挤出假设，同[[Evolutionary Economics|演化经济学]]动态市场共创与预期挤入机制之间的范式冲突；公共部门承担早期颠覆性研发高风险与私人资本独占商业化垄断暴利之间的制度失衡。
 > - **贡献** 奠定了当代使命导向型创新政策（Mission-Oriented Innovation Policy, MIP）的理论基础，建立了超越市场失灵的新型政策工具箱（ROAR 框架），并为全球[[Grand Challenges|重大挑战]]的使命化落地提供了可操作的遴选标准与组合治理模型。
 
 ---
@@ -110,7 +108,7 @@ argument_related_color: "#dbeafe"
 > | 理论工具 | 解释功能 |
 > |---|---|
 > | **[[Mission-Oriented Innovation Policy\|使命导向型创新政策]]** | 界定调动系统性前沿知识攻克特定重大公共目标的政策[[Paradigm\|范式]]，实现从冷战工程技术壮举向21世纪[[Wicked Problem\|复杂社会难题]]转型的范式厘清。（pp. 804–805） |
-> | **[[Market Shaping and Creating\|市场塑造与市场共创]]** | 阐明国家在创新全链条中作为前瞻引领者、早期风险承担者与全新技术市场开拓者的内在机理，打破市场失灵理论的被动修补[[Hypothesis\|假设]]。（pp. 806–807） |
+> | **[[Market Shaping and Creating\|市场塑造与市场共创]]** | 阐明国家在创新全链条中作为前瞻引领者、早期风险承担者与全新技术市场开拓者的内在机理，打破[[Market Failure\|市场失灵理论]]的被动修补假设。（pp. 806–807） |
 > | **[[ROAR Framework\|ROAR 分析框架]]** | 提炼涵盖战略路径与方向（Routes）、探索型组织能力（Organizations）、动态评估（Assessment）与风险收益共享（Risks and rewards）四大支柱的系统治理工具箱。（pp. 809–810） |
 > | **[[Wicked Problem\|棘手问题理论]]** | 说明气候、老龄化与贫困等21世纪挑战的复杂性、系统交织性与多因性，为组合式探索与跨部门协同提供问题学依据。（pp. 803–804） |
 
@@ -124,7 +122,7 @@ argument_related_color: "#dbeafe"
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **概念重构与理论综合**<br>Conceptual Synthesis & Framework Formulation | 结合[[Evolutionary Economics\|演化经济学]]、[[Public Value\|公共价值]]理论与[[Systems of Innovation\|创新系统]][[Document\|文献]]，系统解构冷战时期经典使命项目与当代社会挑战型使命政策的本质差异，提炼 ROAR 四维治理框架。（pp. 804–810） |
+> | **概念重构与理论综合**<br>Conceptual Synthesis & Framework Formulation | 结合[[Evolutionary Economics\|演化经济学]]、[[Public Value\|公共价值]]理论与[[Systems of Innovation\|创新系统]]文献，系统解构冷战时期经典使命项目与当代社会挑战型使命政策的本质差异，提炼 ROAR 四维治理框架。（pp. 804–810） |
 > | **历史制度与案例横向比较**<br>Comparative Institutional Case Analysis | 对比分析美国、德国、巴西等典型使命型公共机构在不同历史时期的实践路径与制度成败。（pp. 805–809） |
 > | **政策操作化情境推演**<br>Policy Operationalization & Scenario Exemplification | 以[[UN Sustainable Development Goals\|联合国可持续发展目标]]（Sustainable Development Goals, SDGs）中的海洋保护目标（SDG 14）为基础，推演无塑海洋战略使命的五大标准落地程序与跨部门项目组合结构。（pp. 810–812） |
 

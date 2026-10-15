@@ -8,15 +8,13 @@ summary: "先以小样本进行质性探索、基于质性发现开发或修改�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 23
+method_related_count: 22
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#fef3c7"
 tags:
   - method/mixed-methods
 related_concepts:
-  - "[[Hypothesis]]"
-  - "[[Attrition]]"
   - "[[Interpretivism]]"
   - "[[Postpositivism]]"
   - "[[Epistemology]]"
@@ -26,6 +24,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Content Validity]]"
   - "[[Reliability]]"
+  - "[[Hypothesis]]"
   - "[[Construct]]"
   - "[[Metainferences]]"
   - "[[Construct Validity]]"
@@ -46,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-01
+updated: 2026-10-15
 ---
 
 # Exploratory Sequential Design
@@ -56,7 +55,7 @@ updated: 2026-10-01
 ## 1. 定义与核心价值
 
 > [!info] 定义
-> 探索性序列设计（exploratory sequential design）是[[Mixed Methods Research\|混合方法研究]]的三种核心设计之一。研究者首先通过小样本的质性数据收集来探索一个现象（第一阶段），基于质性发现设计或修改量化评估工具（第二阶段），然后用大样本的量化数据来检验该工具的性能和相关[[Hypothesis\|假设]]（第三阶段）。
+> 探索性序列设计（exploratory sequential design）是[[Mixed Methods Research\|混合方法研究]]的三种核心设计之一。研究者首先通过小样本的质性数据收集来探索一个现象（第一阶段），基于质性发现设计或修改量化评估工具（第二阶段），然后用大样本的量化数据来检验该工具的性能和相关假设（第三阶段）。
 > 
 > [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, p.138)]] 将其目的概括为：to first qualitatively explore with a small sample, design or modify a quantitative assessment based on qualitative findings, and then to test this designed or modified quantitative assessment with a large sample.（首先通过小样本进行质性探索，基于质性发现设计或修改量化评估，然后在大样本中检验该设计的或修改后的量化评估。）
 
@@ -74,7 +73,7 @@ updated: 2026-10-01
 
 探索性序列设计尤其适合以下情境([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.138]])：
 - **新兴现象探索** 研究对象缺乏既有量表，没有现成可用的测量工具。
-- **工具适切性存疑** 既有量表对特定文化群体的适用性不强（如翻译后的意义[[Attrition|流失]]、经验覆盖不足）。
+- **工具适切性存疑** 既有量表对特定文化群体的适用性不强（如翻译后的意义流失、经验覆盖不足）。
 - **植根性开发** 研究者希望新工具真正源自参与者的主观经验而非完全来自理论演绎。
 - **阶段性产出** 研究分为明显的先后阶段（先理解再检验），每个阶段可相对独立地完成。
 

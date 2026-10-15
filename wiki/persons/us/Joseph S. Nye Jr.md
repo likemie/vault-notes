@@ -8,7 +8,7 @@ summary: "美国著名国际关系理论家、新自由制度主义奠基人之�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 11
+person_related_count: 10
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -23,7 +23,6 @@ tags:
 related_concepts:
   - "[[Soft Power]]"
   - "[[Paradigm]]"
-  - "[[Hypothesis]]"
   - "[[Cultural Diplomacy]]"
   - "[[Hard Power]]"
   - "[[Necessary and Sufficient Conditions]]"
@@ -41,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Joseph S. Nye Jr.
@@ -78,7 +77,7 @@ updated: 2026-10-08
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1970–1980年代 — 复合相互依存与跨国制度主义** 质疑传统现实主义将军事安全作为唯一最高优先级的[[Hypothesis|假设]]，揭示跨国公司、国际组织与经济相互依赖对国家行为的深层塑造。
+> - **1970–1980年代 — 复合相互依存与跨国制度主义** 质疑传统现实主义将军事安全作为唯一最高优先级的假设，揭示跨国公司、国际组织与经济相互依赖对国家行为的深层塑造。
 >   - **代表著作** *Power and Interdependence: World Politics in Transition* (1977)。
 >   - **关键概念／方法** 复合相互依赖、制度合法性。
 > - **1990–2004 — [[Soft Power|软实力]]理论化与全球规范治理** 聚焦冷战后大国竞争维度的深刻演变，确立通过文化吸引、制度示范与价值内化来施展权力的理论体系。

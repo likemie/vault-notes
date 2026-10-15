@@ -8,7 +8,7 @@ summary: "美国比较教育与国际高等教育泰斗，波士顿学院国际�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 28
+person_related_count: 27
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Epistemology]]"
   - "[[Academic Freedom]]"
-  - "[[Attrition]]"
   - "[[Champ]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Competitiveness]]"
@@ -60,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Philip Altbach
@@ -106,7 +105,7 @@ updated: 2026-10-07
 >   - **阶段转向** 从单纯的国别个案考察上升为对全学科知识生产生态与学术潮流的宏观反思。
 > - **2000s–至今 — 全球大学卓越狂热与国际[[Academic Capitalism|学术资本主义]]批判** 批判跨国大学商业化排名与世界一流大学（World-Class Universities）迷思，呼吁捍卫大学作为公共利益机构的社会契约与[[Academic Freedom|学术自由]]。
 >   - **代表著作** *World Class Worldwide* (2007); *The Road to Academic Excellence* (2011); *Global Perspectives on Higher Education* (2016)。
->   - **关键概念／方法** 世界一流大学、智力[[Attrition|流失]]（Brain Drain）与智力循环（Brain Circulation）、学术卓越悖论。
+>   - **关键概念／方法** 世界一流大学、智力流失（Brain Drain）与智力循环（Brain Circulation）、学术卓越悖论。
 >   - **阶段转向** 全面迎战新自由主义绩效主义，构建捍卫全球南方大学学术生态的规范性理论框架。
 
 ---
@@ -133,7 +132,7 @@ updated: 2026-10-07
 > > - **阿特巴赫** 强调盲目追随西方量化指标与英美办学模式将导致发展中国家大学与本土发展脱节，主张大学必须首先扎根于本土社会的紧迫需求。
 > > - **全球新自由主义政策精英** 坚持只有通过参与国际排名的通用评价标准，大学才能在全球[[Knowledge-Based Economy|知识经济]]与人才竞争中获得世界级[[Competitiveness|竞争力]]。
 >
-> > [!axis] 学术流动的收益评估：人才[[Attrition|流失]]（Brain Drain）vs 智力共享（Brain Gain）
+> > [!axis] 学术流动的收益评估：人才流失（Brain Drain）vs 智力共享（Brain Gain）
 > > 国际学者与留学生跨国迁徙后果的理论争鸣。
 > >
 > > - **[[Dependency Theory|依附论]]视角的阿特巴赫** 指出南方国家最优秀青年向北方核心大学单向流动客观上抽空了母国的智力资源储备，强化了边缘依附。

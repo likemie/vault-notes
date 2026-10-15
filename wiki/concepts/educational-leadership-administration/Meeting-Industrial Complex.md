@@ -9,7 +9,7 @@ aliases:
 summary: "批判性组织社会学概念，描述大型科层企业与政府机构中演化为虚妄表演、争夺地位与抢占资源的庞大日常会议机制；揭示政治型员工如何利用漫长无休的例会与预备会排挤实干工程师，导致稀缺创造力严重内耗与员工心理窒息。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 9
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -21,7 +21,6 @@ tags:
 related_concepts:
   - "[[Engineering Mindset]]"
   - "[[Status Transactions]]"
-  - "[[Attrition]]"
   - "[[Discourse]]"
   - "[[Creativity]]"
   - "[[Technological Republic]]"
@@ -37,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Meeting-Industrial Complex
@@ -51,7 +50,7 @@ updated: 2026-10-08
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示冗长庞大的企业会议本质是政治投机者的权力宣誓舞台与[[Status Transactions|地位交易]]工具，而非实质产出平台。
-> - **用途** 诊断大型组织中实干技术人才[[Attrition|流失]]、决策迟钝以及形式主义文山会海的微观制度根源。
+> - **用途** 诊断大型组织中实干技术人才流失、决策迟钝以及形式主义文山会海的微观制度根源。
 > - **边界** 区别于敏捷开发中短小精悍的站立同步会；会议工业复合体特指多层级、人数臃肿、充斥虚假公关话术与展示汇报的政治性例会。
 
 > [!citation-card] 卡普与扎米斯卡论会议工业复合体与政治表演

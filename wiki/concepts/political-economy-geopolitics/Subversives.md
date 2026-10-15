@@ -8,7 +8,7 @@ aliases:
 summary: "历史制度主义渐进变迁理论中的四类变革行动者之一，长期谋求消灭既有制度但短期伪装成模范守法者潜伏运作；在强否决可能性与低解释执行裁量权下运用地下室白蚁机制在边缘赞助新规则，主导驱动制度层叠并在时机成熟时架空旧核心"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 21
+related_count: 20
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Institutional Drift]]"
   - "[[Institutional Conversion]]"
   - "[[Strategic Compliance]]"
-  - "[[Hypothesis]]"
   - "[[Theoretical Perspective]]"
   - "[[Paradigm]]"
 related_theories:
@@ -48,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Subversives
@@ -142,7 +141,7 @@ updated: 2026-10-12
 > 揭示为何颠覆者主导的制度变迁往往在观察上表现为长期的平静假象与随后的突发性剧变。
 
 > [!claim] Mahoney, J. & Thelen, K. (2009)
-> **延迟显现与隐性侵蚀** 颠覆者的微观运作具有高度隐秘性与时间滞后性。正如[[Paul Pierson|皮尔逊]]所指出的白蚁效应，颠覆者在外围所造成的制度侵蚀在较短时间截面上极难被常规指标捕捉，外部观察者甚至会将其误判为制度高度稳定的证据；只有在长历史周期中，当外围规则的累积效应跨过承重临界阈值、或外部政治机会窗口开启时，体制变迁才以看似“突变”的形式彻底显露（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, p. 31]]）。
+> **延迟显现与隐性侵蚀** 颠覆者的微观运作具有高度隐秘性与时间滞后性。正如皮尔逊所指出的白蚁效应，颠覆者在外围所造成的制度侵蚀在较短时间截面上极难被常规指标捕捉，外部观察者甚至会将其误判为制度高度稳定的证据；只有在长历史周期中，当外围规则的累积效应跨过承重临界阈值、或外部政治机会窗口开启时，体制变迁才以看似“突变”的形式彻底显露（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, p. 31]]）。
 
 ---
 
@@ -168,7 +167,7 @@ updated: 2026-10-12
 
 > [!debates] 学术争议与批判反思
 >
-> > [!axis] 英雄式能动性[[Hypothesis|假设]] vs 结构制度缝隙供给
+> > [!axis] 英雄式能动性假设 vs 结构制度缝隙供给
 > > 争论聚焦于颠覆者的成功是由于个别行动者的超常智谋，还是得益于既有制度本身留出的结构缝隙。
 > >
 > > - **制度结构条件视角** 法莱蒂与[[James Mahoney|马奥尼]]强调，颠覆者的成功绝非“克服一切困难的英雄行动者”的浪漫叙事；恰恰相反，正是巴西旧威权体制自身试图向内地农村渗透的组织扩张举措，为颠覆者提供了立足与潜伏的关键制度缝隙。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 26)]]

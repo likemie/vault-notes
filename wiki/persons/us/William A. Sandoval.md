@@ -9,7 +9,7 @@ summary: "美国科学教育与学习科学学者，加州大学洛杉矶分校�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 27
+person_related_count: 25
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Construct]]"
   - "[[Justificatory Standards]]"
-  - "[[Hypothesis]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Epistemic Scaffolding]]"
   - "[[Causality]]"
@@ -48,7 +47,6 @@ related_methods:
   - "[[Accounts]]"
   - "[[Questionnaire]]"
   - "[[Discourse Analysis]]"
-  - "[[Coding in Qualitative Research]]"
 related_instruments: []
 related_persons: []
 related_facts: []
@@ -58,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # William A. Sandoval
@@ -85,7 +83,7 @@ updated: 2026-10-07
 > - **1990s** 在西北大学学习科学专业获得博士学位，受 Brian J. Reiser 等学者影响，深入探索基于软件支架支持中学生开展复杂[[Scientific Explanation|科学解释建构]]的研究（如 ExplanationConstructor 工具）。
 > - **2000s** 任职于加州大学洛杉矶分校（UCLA）教育与信息研究院，历任助理教授、副教授、正教授。在 *Science Education*、*Cognition and Instruction* 等顶刊发表系列奠基性成果。
 > - **2003–2005** 发表重要论文 *Formal explanations as causal narratives* (2003) 与 *Understanding students' practical epistemologies and their influence on learning science* (2005)，系统确立解释驱动探究框架与[[Practical Epistemology|实践认识论]]理论。
-> - **2014** 在 *Journal of the Learning Sciences* 发表方法论名篇 *Conjecture Mapping: An Approach to Systematic Educational Design Research*，规范了学习科学中设计[[Hypothesis|假设]]与干预中介的操作映射流程。
+> - **2014** 在 *Journal of the Learning Sciences* 发表方法论名篇 *Conjecture Mapping: An Approach to Systematic Educational Design Research*，规范了学习科学中设计假设与干预中介的操作映射流程。
 > - **2016** 在 *Review of Research in Education* 发表综述 *Science education, epistemological commitments, and educational research*，全面梳理科学教育从心理信念向社会[[Epistemic Practices|认识论实践]]的历史转向。
 > - **2020s** 其关于科学解释评价标准（相关性、因果链、概念网络、多模态表征）的理论框架被广泛应用于跨国科学课程研制以及[[Man-Computer Symbiosis|人机协同]]探究教学（如 [[Argument_Han_Gutierez_2026_IJSE|Han & Gutierez, 2026]]）。
 
@@ -146,7 +144,7 @@ updated: 2026-10-07
 > |---|---|---|
 > | [[Scientific Explanation\|科学解释]] | 理论奠基 | 桑多瓦尔是科学解释因果叙事定义与四项评价标准的核心开创者。 |
 > | [[Practical Epistemology\|实践认识论]] | 理论建构 | 系统阐明实践[[Epistemology\|认识论]]与[[Formal Epistemology\|形式认识论]]的区别，确立探究行动中的认识论[[Paradigm\|研究范式]]。 |
-> | [[Epistemic Practices\|认识论实践]] | 实践扩展 | 桑多瓦尔的研究为课堂话语中认识论实践的观察与[[Coding in Qualitative Research\|编码]]提供了核心分析工具。 |
+> | [[Epistemic Practices\|认识论实践]] | 实践扩展 | 桑多瓦尔的研究为课堂[[Discourse\|话语]]中认识论实践的观察与编码提供了核心分析工具。 |
 > | [[Epistemic Scaffolding\|认识论支架]] | 教学干预 | 开创了基于软件与评价标准的认识论[[Scaffolding\|脚手架]]设计。 |
 > | [[Argument_Sandoval_2005_SE\|Argument_Sandoval_2005_SE]] | 核心论证 | 桑多瓦尔实践[[Epistemological Theories\|认识论理论]]的代表性论证卡。 |
 > | [[Argument_Han_Gutierez_2026_IJSE\|Argument_Han_Gutierez_2026_IJSE]] | 当代传承 | 韩与古铁雷斯直接继承了桑多瓦尔的四项科学解释标准作为人机审验的双轨支架之一。 |

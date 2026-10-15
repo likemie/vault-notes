@@ -12,7 +12,7 @@ aliases:
 summary: "指选拔顶尖机械师与高级技师进驻研究型大学与国家实验室，赋予其正式教职、联合指导权与成果署名权，以弥合工程理论与动手排障断层的师资与培养制度。"
 type: concept
 domain: "higher-education"
-related_count: 15
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,21 +31,18 @@ related_concepts:
   - "[[Big Science]]"
   - "[[Engineering Education]]"
   - "[[Industrial Commons]]"
-  - "[[Document]]"
 related_theories: []
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments: []
-related_persons:
-  - "[[Alfred Nobel]]"
+related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Kratsios_2026_OSTP]]"
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Practitioner-in-Residence
@@ -112,7 +109,7 @@ updated: 2026-10-14
 > 探讨顶尖实验科学如何依赖一线车间手艺与仪器建造直觉，以及理论与手艺割裂对国家科研基础设施的损害。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
-> **手艺传承与仪器突破** 现代工程与实验科学高度依赖无法被论文文字完全[[Coding in Qualitative Research|编码]]的默会经验与排障直觉。当大学教育过度偏向理论数学抽象而剥离车间动手训练时，毕业生将丧失维护与开发尖端科研仪器的能力；通过国家工匠奖学金与驻校实践者项目将高级技师引入科研核心，是重振国家实验探索底座与重[[Big Science|大科学]]仪器自主创新能力的根本制度保障。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 47–52)]]
+> **手艺传承与仪器突破** 现代工程与实验科学高度依赖无法被论文文字完全编码的默会经验与排障直觉。当大学教育过度偏向理论数学抽象而剥离车间动手训练时，毕业生将丧失维护与开发尖端科研仪器的能力；通过国家工匠奖学金与驻校实践者项目将高级技师引入科研核心，是重振国家实验探索底座与重[[Big Science|大科学]]仪器自主创新能力的根本制度保障。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 47–52)]]
 
 ---
 
@@ -129,7 +126,7 @@ updated: 2026-10-14
 
 > [!dev-timeline] 概念演变
 > - **1970s — [[Tacit Knowledge|默会知识]]与实验复现研究** 哈里·科林斯（Harry Collins）揭示激光器复现必须依赖技师身体力行的现场协同，奠定实践技艺认知基础。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 47–48)]]
-> - **2017 — 实验技艺与引力波探测** 赖纳·魏斯（Rainer Weiss）因早年机械与焊接学徒训练亲手打造 LIGO 探测器原型而获[[Alfred Nobel|诺贝尔]]物理学奖。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 51)]]
+> - **2017 — 实验技艺与引力波探测** 赖纳·魏斯（Rainer Weiss）因早年机械与焊接学徒训练亲手打造 LIGO 探测器原型而获诺贝尔物理学奖。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 51)]]
 > - **2026 — 驻校实践者与国家工匠学者政策化** 美国白宫科技政策办公室在《科学：新黄金时代》中正式将其确立为打破单一学术阶梯、重振[[Industrial Commons|产业公地]]的高等教育制度创新。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 52)]]
 
 ---
@@ -137,7 +134,7 @@ updated: 2026-10-14
 ## 争议与批评
 
 > [!tension] 传统学术评价与实践技艺认可的制度张力
-> - **学术纯洁性与论文导向（蓝方）** 担忧引入非学术背景技师会稀释大学理论深度，且难以融入基于[[Document|文献]]引用与影响因子的传统终身教职评审轨道。
+> - **学术纯洁性与论文导向（蓝方）** 担忧引入非学术背景技师会稀释大学理论深度，且难以融入基于文献引用与影响因子的传统终身教职评审轨道。
 > - **产研协同与硬核排障需求（红方）** 强调脱离实体动手能力的理论科研已导致国家重大仪器受制于人，必须在制度上赋予工匠学者平等学术地位与知识产权。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 48–52)]]
 
 ---

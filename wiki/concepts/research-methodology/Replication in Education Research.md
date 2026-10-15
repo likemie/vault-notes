@@ -11,7 +11,7 @@ aliases:
 summary: "在多元教育情境中对前人干预方案或实证发现进行独立重复检验的方法学机制，旨在克服小样本偏倚、开发者利益冲突与自编测验虚夸，确立研究成果的外部概化效度与实践可靠性"
 type: concept
 domain: "research-methodology"
-related_count: 19
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,8 +23,6 @@ tags:
   - rct
   - evidence-based-reform
 related_concepts:
-  - "[[Teaching Assistant]]"
-  - "[[Hypothesis]]"
   - "[[External Validity]]"
   - "[[Evaluator Independence]]"
   - "[[Preregistration]]"
@@ -51,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-17'
-updated: 2026-09-29
+updated: 2026-10-15
 ---
 
 # Replication in Education Research
@@ -65,8 +63,8 @@ updated: 2026-09-29
 
 > [!concept-lens] 概念透镜
 > - **含义** 跨情境检验因果干预效能是否具备稳定可重现性的科学验证程序。
-> - **用途** 帮[[Teaching Assistant\|助教]]育学界与政策制定者识别哪些方案具备真实的全国推广价值，破除单一试点“一鸣惊人”随后大规模推广却普遍落空的政策困境。
-> - **边界** 针对的是具有标准化操作规程的教学方案或因果[[Hypothesis\|假设]]，不适用于完全情境依赖的个案历史叙事。
+> - **用途** 帮助教育学界与政策制定者识别哪些方案具备真实的全国推广价值，破除单一试点“一鸣惊人”随后大规模推广却普遍落空的政策困境。
+> - **边界** 针对的是具有标准化操作规程的教学方案或因果假设，不适用于完全情境依赖的个案历史叙事。
 
 > [!citation-card] 概化力的本质是跨情境成功复现
 > 解决[[External Validity\|外部效度]]概化问题的唯一科学途径是在广泛多元的情境中成功复现。美国国家[[Institute of Education Sciences\|教育科学研究院]]（IES）设立了专门的资助流，支持在更广泛的学校与学区中对成功方案开展复现研究。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 27)]]
@@ -81,7 +79,7 @@ updated: 2026-09-29
 > - **[[Evaluator Independence\|第三方独立评估]]（Evaluator Independence）** 彻底切断方案开发者与评估团队之间的利益关联，由无商业利益冲突的独立研究者[[Implementation and Process Evaluation\|实施评估]]，消除实验者期望效应与挑选性报告。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 27)]]
 > - **大样本多中心聚类设计（Multi-Site [[Cluster Randomized Trials\|Cluster RCT]]）** 纳入 40–50 所跨区域学校进行整群[[Random Assignment\|随机分配]]，并在学校层级采用[[Hierarchical Linear Model\|多层线性模型]]（HLM）分析，平滑个别学校的背景异常。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 26–27)]]
 > - **强制采用独立标准化测验（Independent Standardized Tests）** 严格排除开发者自编的过度对齐测验，统一采用国家或全州统考测验，杜绝人为虚夸[[Effect Size\|效应量]]。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 24–25, 27)]]
-> - **研究设计与分析计划[[Preregistration\|预注册]]（Preregistration）** 在干预实施前公开[[Hypothesis\|假设]]与统计模型，防止事后数据挖掘（p-hacking）与假阳性结果发布。
+> - **研究设计与分析计划[[Preregistration\|预注册]]（Preregistration）** 在干预实施前公开假设与统计模型，防止事后数据挖掘（p-hacking）与假阳性结果发布。
 
 ---
 

@@ -9,7 +9,7 @@ aliases:
 summary: "由威廉·戈登创立的系统性创造力隐喻与类比训练理论与方法体系，以“使陌生变得熟悉，使熟悉变得陌生”为核心认知原则。通过直接类比、拟人类比、象征类比与幻想类比四大结构化操作支架，引导学习者在不同知识域与情感体验之间构建深层隐喻桥梁，系统克服功能固着并实现创造性飞跃。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 33
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Creativity Training]]"
   - "[[Emergence]]"
-  - "[[Document]]"
   - "[[Problem Solving]]"
   - "[[Brainstorming]]"
   - "[[SCAMPER]]"
@@ -61,7 +60,7 @@ related_persons: []
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Synectics
@@ -81,7 +80,7 @@ updated: 2026-10-10
 > [!citation-card]- 关键表述：提喻法的认知哲学与操作法则（Gordon, 1961; Prince, 1970; [[Argument_Guo_2025_TSC\|Guo et al., 2025]]）
 > 创造力是使陌生事物变熟悉、使熟悉事物变陌生的艺术。传统的理性思维把我们禁锢在‘熟悉’的牢笼中；提喻法正是通过具身拟人类比与充满矛盾的象征意象，强迫我们的潜意识情感参与解题，从而撕开理性的缝隙，让不可思议的全新构想[[Emergence\|涌现]]出来。Gordon (1961, pp. 1–12)
 >
-> 历史[[Document\|文献]]系统回顾确立了主要的创造力干预流派，包括创造性[[Problem Solving\|问题解决]]（CPS）、生产性思维计划、[[Brainstorming\|头脑风暴]]伙伴项目以及提喻法（Synectics）；这些系统化方案共同证实了运用多样化思维技巧进行显性练习能够显著跃升学习者的创造力潜能。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, p. 3)]]
+> 历史文献系统回顾确立了主要的创造力干预流派，包括创造性[[Problem Solving\|问题解决]]（CPS）、生产性思维计划、[[Brainstorming\|头脑风暴]]伙伴项目以及提喻法（Synectics）；这些系统化方案共同证实了运用多样化思维技巧进行显性练习能够显著跃升学习者的创造力潜能。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, p. 3)]]
 
 > [!boundary]- 概念边界辨析
 > - **不等于 自由头脑风暴（Brainstorming）** 头脑风暴提倡完全自由、非受控地提出尽可能多的点子；提喻法则是高度受控、由引导者严格带领在“直接类比、拟人感受、矛盾词组”之间层层递进的结构化深潜过程。
@@ -173,7 +172,7 @@ updated: 2026-10-10
 > 结构化类比技术并非不可言传的天赋神迹，而是具备极高教学普适性的成熟干预工具。
 
 > [!claim] Torrance; Ma; Guo et al.
-> **系统干预稳健促学命题** 历史元评价与当代[[Meta-analysis\|元分析]]综合确立，提喻法是创造力教育史上最为稳健成功的系统方案之一。托兰斯（Torrance, 1972）对 142 项早期[[Intervention Research\|干预研究]]的综合评价表明，提喻法的实验促学成功率高达 76%，仅次于 [[Creative Problem Solving\|CPS]]；马金（Ma, 2006）的二阶元分析进一步确立，提喻法（Synectics）作为单一系统训练程序在全域干预中的[[Effect Size\|效应量]]基准高达 $d = 0.70$；郭恒等（[[Argument_Guo_2025_TSC\|Guo et al., 2025]]）的[[Document\|文献]]系统梳理更确立了其作为经典创造力训练理论中坚支柱的学术地位。Torrance (1972); Ma (2006); [[Argument_Guo_2025_TSC\|(Guo et al., 2025, p. 3)]]
+> **系统干预稳健促学命题** 历史元评价与当代[[Meta-analysis\|元分析]]综合确立，提喻法是创造力教育史上最为稳健成功的系统方案之一。托兰斯（Torrance, 1972）对 142 项早期[[Intervention Research\|干预研究]]的综合评价表明，提喻法的实验促学成功率高达 76%，仅次于 [[Creative Problem Solving\|CPS]]；马金（Ma, 2006）的二阶元分析进一步确立，提喻法（Synectics）作为单一系统训练程序在全域干预中的[[Effect Size\|效应量]]基准高达 $d = 0.70$；郭恒等（[[Argument_Guo_2025_TSC\|Guo et al., 2025]]）的文献系统梳理更确立了其作为经典创造力训练理论中坚支柱的学术地位。Torrance (1972); Ma (2006); [[Argument_Guo_2025_TSC\|(Guo et al., 2025, p. 3)]]
 
 ---
 
@@ -196,7 +195,7 @@ updated: 2026-10-10
 > - **1961 年　经典奠基专著《提喻法：[[Creativity\|创造性]]潜能的发展》出版** Gordon (1961) 正式出版《Synectics: The Development of Creative Capacity》，确立[[Making the Familiar Strange\|使熟悉变陌生]]双向原则与四大类比体系。
 > - **1970 年　普林斯拓展教学实务与商业运作** Prince (1970) 出版《The Practice of Creativity》，成立提喻法教育咨询集团，将该方法大规模推向中小学课堂与财富 500 强企业。
 > - **1972–1978 年　早期创造力实证综合确立学术地位** Torrance (1972) 与 Mansfield et al. (1978) 分别将提喻法列为全球最高效的代表性创造力培训系统之一（干预成功率 76%）。
-> - **2006–2025 年　[[Meta-meta-analysis\|二阶元分析]]量化确证与[[Document\|文献]]梳理** Ma (2006) 通过二阶[[Meta-analysis\|元分析]]量化确立提喻法的高[[Effect Size\|效应量]]基准（$d = 0.70$）；[[Argument_Guo_2025_TSC\|Guo et al. (2025)]] 进一步梳理其作为经典[[Creativity Training\|创造力训练]]理论基柱的学术脉络。
+> - **2006–2025 年　[[Meta-meta-analysis\|二阶元分析]]量化确证与文献梳理** Ma (2006) 通过二阶[[Meta-analysis\|元分析]]量化确立提喻法的高[[Effect Size\|效应量]]基准（$d = 0.70$）；[[Argument_Guo_2025_TSC\|Guo et al. (2025)]] 进一步梳理其作为经典[[Creativity Training\|创造力训练]]理论基柱的学术脉络。
 
 ---
 

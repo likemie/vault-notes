@@ -9,7 +9,7 @@ aliases:
 summary: "源自亚里士多德实践哲学的核心认识论概念；指在特定道德、教育与工程情境中，个体超越机械规则与算法推演，权衡复杂变量并做出适切行动决断的实践智慧，涵盖课程审议、教师临床判断与产线实验排障手感。"
 type: concept
 domain: "educational-philosophy"
-related_count: 33
+related_count: 30
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -25,15 +25,14 @@ related_concepts:
   - "[[Curriculum as Process]]"
   - "[[Professional Judgment]]"
   - "[[Epistemology]]"
-  - "[[Teaching Assistant]]"
   - "[[Metacognition]]"
   - "[[Praxis]]"
-  - "[[Assemblage]]"
   - "[[Champ]]"
   - "[[Homework]]"
   - "[[Value Neutrality]]"
   - "[[Theory of Knowledge]]"
   - "[[Process Knowledge]]"
+  - "[[Assemblage]]"
   - "[[Engineering Education]]"
   - "[[Tyler Rationale]]"
   - "[[Creativity]]"
@@ -44,14 +43,12 @@ related_concepts:
 related_theories:
   - "[[Critical Theory]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Practitioner Enquiry]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Aristotle]]"
   - "[[Gert Biesta]]"
-  - "[[Alfred Nobel]]"
   - "[[Bob Darwish]]"
   - "[[Stephen Kemmis]]"
   - "[[Michael Kratsios]]"
@@ -62,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-03
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Phronesis（实践明智 / 实践智慧）
@@ -76,7 +73,7 @@ updated: 2026-10-14
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向在特定情境中洞察核心矛盾、非机械依循规则并做出适切决断的情境化实践理性。
-> - **用途** 帮[[Teaching Assistant|助教]]育哲学、课程教学与科技政策研究者理解为何高水平教育探究、名师教学机智与前沿工程排障无法被自动化算法与标准化脚本完全替代。
+> - **用途** 帮助教育哲学、课程教学与科技政策研究者理解为何高水平教育探究、名师教学机智与前沿工程排障无法被自动化算法与标准化脚本完全替代。
 > - **边界** 不等于抽象永恒的命题科学（Episteme），亦不等于照本宣科的常规工匠操作（Techne）或单纯的认知监控策略（[[Metacognition|元认知]]）。
 
 > [!citation-card] 亚里士多德论实践明智的本质
@@ -85,7 +82,7 @@ updated: 2026-10-14
 > *Phronesis is a true and reasoned state of capacity to act with regard to the things that are good or bad for man. (Aristotle, 1140b; Grundy, 1987, p. 61)*
 
 > [!citation-card] 白宫科技政策办公室 2026 报告论工程制造中的默会实践智慧
-> 熟练机械师与资深工程师在长期产线攻坚与现场排障中积累了无法被文字完全[[Coding in Qualitative Research|编码]]的实践智慧（Phronesis），这种深厚的默会经验是驱动实验装置研制与复杂制造迭代的底层动力。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 56)]]
+> 熟练机械师与资深工程师在长期产线攻坚与现场排障中积累了无法被文字完全编码的实践智慧（Phronesis），这种深厚的默会经验是驱动实验装置研制与复杂制造迭代的底层动力。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 56)]]
 >
 > *Master machinists and senior engineers accumulate an uncodifiable practical wisdom (phronesis) through sustained on-site problem-solving, which constitutes the foundational engine for experimental apparatus development and complex manufacturing iterations.*
 
@@ -101,7 +98,7 @@ updated: 2026-10-14
 > [!contrast-table] [[Aristotle|亚里士多德]]知识三元结构与现代扩展
 > | 比较维度 | [[Praxis\|实践]]明智（Phronesis） | [[Theoretical Knowledge\|理论知识]]（Episteme） | 制作技术（Techne） | 算法自动化（Algorithm） |
 > |---|---|---|---|---|
-> | **终极追求** | 伦理至善、情境适切性与系统现实最优 | 永恒普适真理与因果理论模型 | 预定技术产物的高效加工与[[Assemblage\|装配]] | 规则约束下的快速状态搜索与收敛 |
+> | **终极追求** | 伦理至善、情境适切性与系统现实最优 | 永恒普适真理与因果理论模型 | 预定技术产物的高效加工与装配 | 规则约束下的快速状态搜索与收敛 |
 > | **适用情境** | 动态多变、多[[Variable\|变量]]纠缠的复杂现实[[Champ\|场域]] | 受控实验、符号逻辑与数学空间 | 标准化[[Homework\|作业]]指导书所覆盖的车间工艺 | 结构化问题空间与高维数据计算 |
 > | **认知特征** | 默会直觉、非算法审议与即兴决断 | 形式推导、假说演绎与公理证明 | 工具熟练操作、手艺复现与规范执行 | 统计关联分析与确定性逻辑迭代 |
 > | **教育/工程场景** | 开放课程审议、教师教学机智、产线疑难排障 | 科学定律讲授、数学定理推导 | 技能考证培训、基础实验器皿清洗 | 智能导师测评排错、自动化数据拟合 |
@@ -115,7 +112,7 @@ updated: 2026-10-14
 > - **高度情境适切性（Situational Attunement）** 实践智慧无法脱离微观现场而独立存在，解题者必须对具体教学课堂、临床诊室或制造车间的细微征兆与多约束边界保持敏锐感知。
 > - **价值导向与责任担当（Value Orientation / Telos）** 审议过程受长远道德善、人类繁荣或系统总体效能的目标牵引，绝非[[Value Neutrality|价值中立]]的工具理性算计。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 67)]]
 > - **非算法即兴审议（Non-algorithmic Deliberation）** 无法通过机械套用现成操作手册或线性公式来替代决策，强调面对异常扰动时的临场调优与权衡取舍。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 68)]]
-> - **深层默会经验内化（Tacit Know-how Integration）** 深植于长期具身实践中积累的“手感”、“眼力”与模式识别直觉，难以完全用文字或代码进行形式化[[Coding in Qualitative Research|编码]]。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 47, 56)]]
+> - **深层默会经验内化（Tacit Know-how Integration）** 深植于长期具身实践中积累的“手感”、“眼力”与模式识别直觉，难以完全用文字或代码进行形式化编码。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 47, 56)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -159,7 +156,7 @@ updated: 2026-10-14
 > 探讨尖端实验科学与高端制造领域中，实践智慧如何作为默会过程知识的核心载体驱动重大技术突破。
 
 > [!claim] Kratsios, M.
-> **现场排障与手艺实践智慧论** 白宫科技政策办公室 2026 年战略报告指出，技术能力不仅包含图纸与设备硬件，更深植于熟练机械师与资深工程师世代传承的实践智慧（Phronesis）。2017 年[[Alfred Nobel|诺贝尔]]物理学奖得主赖纳·魏斯（Rainer Weiss）正是凭借青年时期积累的机械加工、电路[[Assemblage|组装]]与现场调优实践智慧，才得以亲手建造出探测引力波的激光干涉引力波天文台（LIGO）原型机。这种非[[Coding in Qualitative Research|编码]]的实践智慧构成了国家创新公地与[[Engineering Education|工程教育]]的底层支柱。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 51, 56)]]
+> **现场排障与手艺实践智慧论** 白宫科技政策办公室 2026 年战略报告指出，技术能力不仅包含图纸与设备硬件，更深植于熟练机械师与资深工程师世代传承的实践智慧（Phronesis）。2017 年诺贝尔物理学奖得主赖纳·魏斯（Rainer Weiss）正是凭借青年时期积累的机械加工、电路[[Assemblage|组装]]与现场调优实践智慧，才得以亲手建造出探测引力波的激光干涉引力波天文台（LIGO）原型机。这种非编码的实践智慧构成了国家创新公地与[[Engineering Education|工程教育]]的底层支柱。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 51, 56)]]
 
 ---
 
@@ -191,7 +188,7 @@ updated: 2026-10-14
 > > [!axis] 情境实践智慧 vs 批判解放理性的张力
 > > 法兰克福学派[[Critical Theory|批判理论]]学者指出，过分强调在既定社会与制度传统内的“适切审议”，容易诱导实践者顺从既有权力结构，缺乏打破体制压迫的解放反思力量。[[Argument_Darwish_2009_Queens|(Grundy, 1987, p. 64)]]
 >
-> > [!axis] 默会直觉的不可[[Coding in Qualitative Research|编码]]性 vs 现代科学标准化管理的冲突
+> > [!axis] 默会直觉的不可编码性 vs 现代科学标准化管理的冲突
 > > 强调实践智慧的不可编码性常被标准化管理主义者批评为“主观黑箱”，容易沦为缺乏客观度量指标与问责凭据的借口；而实践论者则反驳过度量化与算法控制必然扼杀真正的专业[[Creativity|创造力]]。
 
 ---

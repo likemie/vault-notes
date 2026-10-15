@@ -7,7 +7,7 @@ aliases:
 summary: "科学教育与课程论核心概念，指学习者依据学科评价标准与经验证据为自然现象建构因果机制、概念网络与多模态理论模型的认识论实践。"
 type: concept
 domain: "curriculum"
-related_count: 28
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Authentic Science Practices]]"
   - "[[Epistemology]]"
   - "[[Epistemic Ideals]]"
-  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Cognitive Complexity Index]]"
   - "[[Man-Computer Symbiosis]]"
@@ -38,7 +37,6 @@ related_concepts:
 related_theories:
   - "[[Knowledge Building Theory]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
   - "[[Interactional Ethnography]]"
   - "[[Multimodal Discourse Analysis]]"
@@ -52,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Scientific Explanation
@@ -87,7 +85,7 @@ updated: 2026-10-07
 > | 维度 | 科学解释（Scientific Explanation） | 科学描述（Scientific Description） | 科学论证（Scientific Argumentation） | 科学预测（Scientific Prediction） |
 > |---|---|---|---|---|
 > | **核心问题指向** | 为什么发生？因果机制是什么？ | 是什么？观察到了什么特征？ | 为什么该主张比对立观点更可信？ | 在特定条件下未来将发生什么？ |
-> | **核心构成要素** | 因果叙事、概念框架、机制表征 | 观察事实、形态特征、测量数据 | 主张（Claim）、证据（Evidence）、论据辩护（Warrant） | [[Hypothesis\|假设]]条件、模型外推、预期[[Variable\|变量]]值 |
+> | **核心构成要素** | 因果叙事、概念框架、机制表征 | 观察事实、形态特征、测量数据 | 主张（Claim）、证据（Evidence）、论据辩护（Warrant） | 假设条件、模型外推、预期[[Variable\|变量]]值 |
 > | **理论深度** | 揭示不可见的中介因果链与深层原理 | 停留在可观察的宏观或微观表象 | 聚焦于知识主张的合理性辩护与反驳 | 依托既有规律对未知状态的前瞻判断 |
 > | **代表性规范** | de Andrade et al. (2019); [[Argument_Zhang_2022_SE\|Zhang et al. (2022)]]; [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] | NGSS Lead States (2013) | Osborne & Pimentel (2023) | [[Argument_Sandoval_2005_SE\|Sandoval (2005)]] |
 
@@ -105,7 +103,7 @@ updated: 2026-10-07
 
 ### 科学解释的双维编码层级框架
 
-> [!feature] 科学理解与认知复杂度[[Coding in Qualitative Research|编码]]层级（[[Argument_Zhang_2022_SE|Zhang et al., 2022]], Table 3）
+> [!feature] 科学理解与认知复杂度编码层级（[[Argument_Zhang_2022_SE|Zhang et al., 2022]], Table 3）
 > - **科学理解层级（Scientific Understanding Levels）**
 >   1. 前科学水平（Prescientific）：包含朴素直觉与前科学错误概念；
 >   2. 混合水平（Hybrid）：科学术语与直觉错误混杂；
@@ -188,7 +186,7 @@ updated: 2026-10-07
 > - **1965 — 哲学演绎-法则模型** Hempel 提出科学解释的演绎-法则模型（D-N Model），将解释确立为由普遍规律与初始条件演绎推导出的命题结构。
 > - **2005–2013 — 科学教育中的[[Epistemology|认识论]]转向** [[Argument_Sandoval_2005_SE|Sandoval (2005)]]、McNeill et al. (2006) 及美国《下一代科学标准》（NGSS, 2013）将科学解释确立为中小学科学探究的核心[[Epistemic Practices|认识论实践]]，强调因果机制与证据协调。
 > - **2019 — 四维评价标准系统化** de Andrade, Freire & Baptista (2019) 系统提出优质科学解释的四项评价标准（相关性、因果叙事、概念框架、适切表征水平），为课堂解释评估提供可操作的[[Operationalization|操作化]]工具。
-> - **2022 — [[Knowledge Building Theory|协作知识建构]]中的解释深化与层级[[Coding in Qualitative Research|编码]]** [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 提出科学理解（4 级）与认知复杂度（4 级）双维编码体系，证实[[Reflective Structuration|反思性结构化]]能有效驱动小学生从简单事实描述跃升至高阶详细因果解释。
+> - **2022 — [[Knowledge Building Theory|协作知识建构]]中的解释深化与层级编码** [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 提出科学理解（4 级）与认知复杂度（4 级）双维编码体系，证实[[Reflective Structuration|反思性结构化]]能有效驱动小学生从简单事实描述跃升至高阶详细因果解释。
 > - **2026 — [[Man-Computer Symbiosis|人机协同]]多模态解释建构** [[Argument_Han_Gutierez_2026_IJSE|Han & Gutierez (2026)]] 将科学解释实践置于生成式 AI 协同探究语境，揭示学生如何依托四项标准对 AI 生成的文本与多模态图像展开持续的内容审验、因果补全与表征修正。
 
 ---
@@ -198,7 +196,7 @@ updated: 2026-10-07
 > [!debates] 学术争议
 >
 > > [!axis] CER 句法模板化 vs 实质因果机制表征
-> > 传统主张-证据-推理（CER）模板在教学中常退化为死板的句式套用，学生填入关键词却未真正理解因果机制；四维标准与复杂度[[Coding in Qualitative Research|编码]]强调因果叙事与概念框架的深层理解，超越单纯句法合规。
+> > 传统主张-证据-推理（CER）模板在教学中常退化为死板的句式套用，学生填入关键词却未真正理解因果机制；四维标准与复杂度编码强调因果叙事与概念框架的深层理解，超越单纯句法合规。
 > >
 > > - **句法规范立场** 认为统一的 CER 句式有助于初学者快速建立论证基本意识。
 > > - **机制建模立场** 强调科学解释的核心在于因果机制的阐明与多模态表征，死板套词反而压制真实思维。[[Argument_Han_Gutierez_2026_IJSE|(Sandoval, 2005; de Andrade et al., 2019)]]; [[Argument_Zhang_2022_SE|(Zhang et al., 2022)]]
@@ -212,7 +210,7 @@ updated: 2026-10-07
 
 > [!example] 典型教学应用案例
 > - **五年级眼睛-大脑视觉协同因果机制解释深化（[[Argument_Zhang_2022_SE|Zhang et al., 2022]]）**
->   在人体系统探究中，学生对眼睛如何看见的解释经历了从直觉事实到多系统机制的深层跃升：初始[[Hypothesis|假设]]认为光线直接射入瞳孔；随后在[[Theory of Knowledge|知识论]]坛讨论中发现视网膜倒立成像；接着大脑探究组与眼睛探究组跨界协同，阐明视神经将光信号转化为电脉冲并传输至大脑枕叶视觉中枢进行二次翻转与图像解析的完整因果链条，产出了达到完全科学水平与详细解释层级的典范科学解释。
+>   在人体系统探究中，学生对眼睛如何看见的解释经历了从直觉事实到多系统机制的深层跃升：初始假设认为光线直接射入瞳孔；随后在[[Theory of Knowledge|知识论]]坛讨论中发现视网膜倒立成像；接着大脑探究组与眼睛探究组跨界协同，阐明视神经将光信号转化为电脉冲并传输至大脑枕叶视觉中枢进行二次翻转与图像解析的完整因果链条，产出了达到完全科学水平与详细解释层级的典范科学解释。
 > - **初中生物植物生长因果协同机制人机多模态建构（[[Argument_Han_Gutierez_2026_IJSE|Han & Gutierez, 2026]]）**
 >   学生在利用 Canva 与 ChatGPT 生成植物生长机制时，面对 AI 罗列根、茎、叶器官功能的碎片化文本，依据概念框架与因果叙事标准重构提示词：“解释根、茎、叶的相互作用如何帮助植物良好生长”，成功生成了包含根部吸水—茎部运送—叶片光合制造能量并回传的因果闭环；随后在多模态插图中添加吸水根毛微观解剖与水流渗透方向箭头，实现文本与多模态表征的深层机制融合。
 
@@ -225,7 +223,7 @@ updated: 2026-10-07
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Zhang_2022_SE\|Zhang et al. (2022)]] | 美国东北部公立小学 22 名五年级学生，7 个月人体系统[[Knowledge Building Theory\|知识建构]]课堂 | [[Interactional Ethnography\|互动民族志]]、协作话语分析与典型案例研究 | 16 篇 BOOK 视图反思笔记的科学理解层级与认知复杂度[[Coding in Qualitative Research\|编码]] | 科学理解中 13 篇达完全科学水平（占比 81.25%），2 篇达基本科学水平，0 篇前科学/混合水平；认知复杂度中 7 篇达详细因果解释（占比 43.75%），2 篇简要解释，6 篇详细事实；30 个核心问题中 23 个为解释寻求型问题（占比 76.7%） | 编码一致性 90%（Cohen's $\kappa = 0.82$） | 证实[[Reflective Structuration\|反思性结构化]]教学有效驱动小学生从表层事实搜寻跃迁至高质量的因果机制科学解释 |
+> | [[Argument_Zhang_2022_SE\|Zhang et al. (2022)]] | 美国东北部公立小学 22 名五年级学生，7 个月人体系统[[Knowledge Building Theory\|知识建构]]课堂 | [[Interactional Ethnography\|互动民族志]]、协作话语分析与典型案例研究 | 16 篇 BOOK 视图反思笔记的科学理解层级与认知复杂度编码 | 科学理解中 13 篇达完全科学水平（占比 81.25%），2 篇达基本科学水平，0 篇前科学/混合水平；认知复杂度中 7 篇达详细因果解释（占比 43.75%），2 篇简要解释，6 篇详细事实；30 个核心问题中 23 个为解释寻求型问题（占比 76.7%） | 编码一致性 90%（Cohen's $\kappa = 0.82$） | 证实[[Reflective Structuration\|反思性结构化]]教学有效驱动小学生从表层事实搜寻跃迁至高质量的因果机制科学解释 |
 > | [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026, pp. 11–18)]] | 韩国 8 名初中生，两节人机协同科学课（植物[[Growth\|生长]]与真菌分类） | 质性多层[[Multimodal Discourse Analysis\|多模态话语分析]]（录像[[Transcription in Qualitative Research\|转录]]、数字生成物、访谈） | 依据四标准评估与重构 AI 科学解释的行为表现 | 学生在 4 组[[Dialogue in Education\|对话]]中系统运用相关性、因果叙事、概念框架与表征水平标准，成功识别并修正 AI 文本中的机制遗漏与多模态图像中的水流运输表征缺陷 | 质性微观对话与制品分析 | 证实四项科学解释标准能有效作为初中生审验与优化生成式 AI 科学输出的[[Operationalization\|操作化]][[Epistemology\|认识论]]工具 |
 
 ---

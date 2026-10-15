@@ -5,7 +5,7 @@ aliases:
 summary: "某种解释在特定社群中获得动量并从观点演变为广泛接受事实的机制，用于说明争议如何被共同语言、立场和制度位置稳定下来。"
 type: concept
 domain: "science-communication"
-related_count: 5
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -16,7 +16,6 @@ related_concepts:
   - "[[Doxa]]"
   - "[[Visible Learning]]"
   - "[[Positivism]]"
-  - "[[Hypothesis]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -26,7 +25,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-03'
-updated: 2026-09-11
+updated: 2026-10-15
 ---
 
 ## 定义
@@ -52,7 +51,7 @@ updated: 2026-09-11
 
 > [!success] 实证发现
 > - [[Argument_Qvortrup_2019_NordSTEP\|Qvortrup (2019, p.3-4)]]以丹麦教育研究界对 Hattie [[Visible Learning]] 的误读为案例：一个由研究者、政治家和工会代表组成的强解释社群在短时间内形成，将 Hattie 从"教育英雄"转变为"教育敌人"
-> - 在丹麦，2014 年学校改革后反对者形成了对 Hattie 的共同误解：将其等同于"反理论"的原始[[Positivism\|实证主义]]立场，而实际上 Hattie 明确表示提供的是"[[Hypothesis\|假设]]"而非"食谱"([[Argument_Qvortrup_2019_NordSTEP\|Qvortrup, 2019, p.4]])
+> - 在丹麦，2014 年学校改革后反对者形成了对 Hattie 的共同误解：将其等同于"反理论"的原始[[Positivism\|实证主义]]立场，而实际上 Hattie 明确表示提供的是"假设"而非"食谱"([[Argument_Qvortrup_2019_NordSTEP\|Qvortrup, 2019, p.4]])
 
 ## 争议与批评
 

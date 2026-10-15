@@ -8,7 +8,7 @@ summary: "英国当代社会学家与社会理论家，系统提出结构化理�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 43
+person_related_count: 42
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -28,7 +28,6 @@ tags:
   - research-methodology
 related_concepts:
   - "[[Positivism]]"
-  - "[[Hypothesis]]"
   - "[[Double Hermeneutic]]"
   - "[[Reflexivity]]"
   - "[[Discourse]]"
@@ -79,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-14
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Anthony Giddens
@@ -90,7 +89,7 @@ updated: 2026-10-08
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国当代社会理论家，伦敦政治经济学院（LSE）前院长，剑桥大学国王学院终身研究员，英国上议院终身贵族；政体出版社（Polity Press）联合创始人。
-> - **核心角色** 在社会学理论与教育研究方法论中，吉登斯是连接经典社会学反思、微观行动诠释与宏观社会结构分析的核心理论枢纽；他系统揭示了[[Positivism|实证主义]]的两大核心[[Hypothesis|假设]]，提出著名的[[Double Hermeneutic|双重诠释]]（Double Hermeneutic）学说，为[[Qualitative Research|质性研究]]、[[Reflexivity|反思性]]（反身性）以及制度化[[Discourse|话语]]权力分析确立了基础性的[[Epistemology|认识论]]坐标。
+> - **核心角色** 在社会学理论与教育研究方法论中，吉登斯是连接经典社会学反思、微观行动诠释与宏观社会结构分析的核心理论枢纽；他系统揭示了[[Positivism|实证主义]]的两大核心假设，提出著名的[[Double Hermeneutic|双重诠释]]（Double Hermeneutic）学说，为[[Qualitative Research|质性研究]]、[[Reflexivity|反思性]]（反身性）以及制度化[[Discourse|话语]]权力分析确立了基础性的[[Epistemology|认识论]]坐标。
 > - **代表贡献**
 >   1. **双重诠释学与前诠释世界** 论证社会科学的研究对象是一个已被行动者赋予意义的生活世界，确立研究者诠释叠加于参与者自我诠释之上的二阶建构法则；
 >   2. **实证主义两大假设的批判** 提炼出实证主义社会学的方法论统一与产出同构两大预设，揭示其实证自然主义对人类自我阐释能力的系统遮蔽；
@@ -209,7 +208,7 @@ updated: 2026-10-08
 > |:-----|:-----|:-----|
 > | [[Reflective Structuration]] | 概念 | 结构化理论与结构二重性在微观学习科学中的[[Creativity\|创造性]]迁移，阐明探究结构的动态共建与双向中介机制。 |
 > | [[Double Hermeneutic]] | 概念 | 提出双重诠释概念，确立社会科学研究者诠释与行动者自我诠释的双重叠加结构。 |
-> | [[Positivism]] | 概念 | 经典提炼实证主义社会学的方法论统一与产出同构两大[[Hypothesis\|假设]]，发起深刻[[Epistemology\|认识论]]反思。 |
+> | [[Positivism]] | 概念 | 经典提炼实证主义社会学的方法论统一与产出同构两大假设，发起深刻[[Epistemology\|认识论]]反思。 |
 > | [[Reflexivity]] | 概念 | 双重诠释为[[Qualitative Research\|质性研究]]反思性提供了[[Ontology\|本体论]]依据，强调理论与现实的双向循环渗透。 |
 > | [[Interpretive Paradigm]] | [[Paradigm\|范式]] | 为诠释范式确立了前诠释世界与主体-主体关系的认识论基石。 |
 > | [[Qualitative Research]] | 方法 | 奠定质性数据分析、主客位结合与第一人称反思性写作的方法论规范。 |

@@ -7,7 +7,7 @@ summary: "美国教育学者和全语言运动奠基人，提出阅读作为心�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 9
+person_related_count: 8
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -23,7 +23,6 @@ tags:
 related_concepts:
   - "[[Whole Language]]"
   - "[[Decodification]]"
-  - "[[Hypothesis]]"
   - "[[Paradigm]]"
   - "[[Visible Learning]]"
 related_theories: []
@@ -38,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-09-11
+updated: 2026-10-15
 ---
 ## 简介
 
@@ -64,7 +63,7 @@ updated: 2026-09-11
 > [!info] 全语言的核心原则
 > Goodman（2005, p.42）阐述了全语言的建构原则：
 >
-> > "全语言学习围绕完整的学习者在完整的情境中学习完整的语言而构建；全语言学习[[Hypothesis\|假设]]对语言、学习者和教师的尊重；重点在意义而非语言本身，集中于真实的言语和读写事件；学习者被鼓励冒险并被邀请以其所有变体为自身目的使用语言；在全语言课堂中，口头和书面语言的所有多样功能都是适当的并被鼓励。"（引自 O'Connor, 2020, p.143）
+> > "全语言学习围绕完整的学习者在完整的情境中学习完整的语言而构建；全语言学习假设对语言、学习者和教师的尊重；重点在意义而非语言本身，集中于真实的言语和读写事件；学习者被鼓励冒险并被邀请以其所有变体为自身目的使用语言；在全语言课堂中，口头和书面语言的所有多样功能都是适当的并被鼓励。"（引自 O'Connor, 2020, p.143）
 
 
 > [!info] 对行为主义心理学研究方法的警告

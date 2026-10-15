@@ -8,7 +8,7 @@ aliases:
 summary: "黑格尔主义教育哲学中的一个学生隐喻，指在尚未填充具体课程内容时虽缺乏实质知识储备，但被设想为天然具备理性精神潜能，能够通过辩证否定走向绝对精神的认知主体。"
 type: concept
 domain: "educational-philosophy"
-related_count: 18
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[Critical Thinking]]"
   - "[[Epistemology]]"
-  - "[[Bildung]]"
   - "[[Conatus]]"
 related_theories:
   - "[[Phenomenology]]"
@@ -43,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-13
-updated: 2026-09-24
+updated: 2026-10-15
 ---
 
 # Empty Knower
@@ -109,7 +108,7 @@ updated: 2026-09-24
 ## 争议与批评
 
 > [!tension] 核心张力
-> - **[[Georg Wilhelm Friedrich Hegel\|黑格尔]]式空无的认知者（蓝方）** 将学生设定为理性、缺乏实质的能动者，通过对课程内容的否定与反思走向普遍精神，将教育视为脱离直接自然的辩证[[Bildung\|教化]]。（[[Argument_Cole_2005_JRIE\|Cole, 2005, pp. 212–213]]）
+> - **[[Georg Wilhelm Friedrich Hegel\|黑格尔]]式空无的认知者（蓝方）** 将学生设定为理性、缺乏实质的能动者，通过对课程内容的否定与反思走向普遍精神，将教育视为脱离直接自然的辩证教化。（[[Argument_Cole_2005_JRIE\|Cole, 2005, pp. 212–213]]）
 > - **[[Baruch Spinoza\|斯宾诺莎]]式欲望主体（红方）** 将学生设定为处于内在性平面的、充盈着[[Conatus\|欲力]]与情感的身体，通过在相遇中释放想象力来驱动智识发展，反对心物对立与理性灌输。（[[Argument_Cole_2005_JRIE\|Cole, 2005, pp. 214]], 222）
 
 ---
@@ -117,4 +116,4 @@ updated: 2026-09-24
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cole_2005_JRIE\|Cole (2005)]] — 批判了[[Theory of Knowledge\|知识论]]课程中将学生设定为空无的认知者的[[Georg Wilhelm Friedrich Hegel\|黑格尔]]式[[Bildung\|教化]]框架，指出其容易导致理性异化和应试倾向，并提出[[Baruch Spinoza\|斯宾诺莎]]主义的替代方案。
+> - [[Argument_Cole_2005_JRIE\|Cole (2005)]] — 批判了[[Theory of Knowledge\|知识论]]课程中将学生设定为空无的认知者的[[Georg Wilhelm Friedrich Hegel\|黑格尔]]式教化框架，指出其容易导致理性异化和应试倾向，并提出[[Baruch Spinoza\|斯宾诺莎]]主义的替代方案。

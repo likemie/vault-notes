@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 37
+fact_related_count: 36
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -29,15 +29,14 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Incubation]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Counterfactual]]"
   - "[[Going Native]]"
-  - "[[Document]]"
   - "[[Evidence-Based Education]]"
   - "[[Positivism]]"
   - "[[Critical Pedagogy]]"
   - "[[Venture Philanthropy]]"
   - "[[Policy Network]]"
+  - "[[Document]]"
   - "[[Output-Oriented Governance]]"
   - "[[Knowledge Mediation]]"
   - "[[Knowledge Mobilisation]]"
@@ -71,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-10-15
 ---
 
 # Evidence for Education Network
@@ -95,7 +94,7 @@ updated: 2026-09-18
 
 > [!dev-timeline] 组织发展历程
 > - **2014–2017 — 早期国际双边探索期** 英国 [[Education Endowment Foundation\|EEF]] 首批探索向澳大利亚（联合 [[Social Ventures Australia\|SVA]] 孵化 [[Evidence for Learning\|E4L]]）等英语国家输出《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》，建立跨国同盟原型。
-> - **2018–2022 — 矿业资本资助与跨国证据生态[[Incubation\|孵化期]]** [[BHP Foundation\|必和必拓基金会]]注资启动“[[Building a Global Evidence Ecosystem for Teaching\|构建全球教学证据生态系统]]”五年项目（因疫情延长至 2025 年）。EEF 联合智利 [[SUMMA]]、西班牙“la Caixa”基金会、约旦拉尼娅王后基金会等建立大区级证据中枢，完成工具包跨语种[[Transfer Translation Transformation\|转译]]初测。
+> - **2018–2022 — 矿业资本资助与跨国证据生态[[Incubation\|孵化期]]** [[BHP Foundation\|必和必拓基金会]]注资启动“[[Building a Global Evidence Ecosystem for Teaching\|构建全球教学证据生态系统]]”五年项目（因疫情延长至 2025 年）。EEF 联合智利 [[SUMMA]]、西班牙“la Caixa”基金会、约旦拉尼娅王后基金会等建立大区级证据中枢，完成工具包跨语种转译初测。
 > - **2023 — 网络正式升格与常态机制制度化（EEN 确立）** EEF 与全球 20 国伙伴正式宣布联合成立“教育[[Evidence Network\|证据网络]]”（EEN），建立统一的全球门户平台 [evidence.education](https://evidence.education)，标志着从“单向技术援助输出”迈向“去中心化多边知识共建”新格局。
 > - **2024–2025 — 策略重心下沉与前置试点攻坚** 针对多国缺乏成熟大规模试验项目的现实，EEN 协调将资源从昂贵的大型 [[Randomised Controlled Trials\|RCT]] 务实倾斜至前置试点评估（Pilot Studies），在非洲与中东完成多项本土因果[[Pilot Testing\|实地测试]]；同时深化评估能力平台 Impacta+ 的多语种下沉。
 > - **2026 — 独立终审报告出炉与后资助战略转型** 英国国家社会研究中心（NatCen）于 2026 年 1 月 22 日发布最终独立评估报告，确认了 EEN 在降低证据获取门槛与动员教师循证意识上的全球贡献，网络全面转向应对后慈善资助时代的财政可持续性挑战。
@@ -110,7 +109,7 @@ updated: 2026-09-18
 > - **学术与方法论协同网络** 由跨国专家与评估团队组成，协调统一各语言版本工具包的方法学透明度标准（如证据[[EEF Padlock Security Rating\|挂锁安全评级]]、[[Counterfactual\|反事实]]设计规范与[[Effect Size\|效应量]]计算校准）。
 
 > [!pathways]- 核心业务三大支柱（Three Pillars of EEN）
-> 1. **证据利用与语境化（Evidence Use）** 系统[[Transfer Translation Transformation\|转译]]并[[Going Native\|本土化]]全球最高质量因果实证库，将英国 EEF 的底层证据模型与各国本土研究[[Document\|文献]]深层融合，打破单向西方中心主义局限。
+> 1. **证据利用与语境化（Evidence Use）** 系统转译并[[Going Native\|本土化]]全球最高质量因果实证库，将英国 EEF 的底层证据模型与各国本土研究文献深层融合，打破单向西方中心主义局限。
 > 2. **证据动员与专业赋能（Evidence Mobilisation）** 将枯燥复杂的统计报告提炼为面向一线教师与校长的操作性指南；通过与教育部、教师学院合作，将证据规程嵌入在职培训课程体系。
 > 3. **本土证据生成与孵化（Evidence Generation）** 面对发展中国家高水平干预稀缺的挑战，资助与指导本土研究团队开展严谨的前置试点（Pilot Studies）与因果实验，填补全球南方因果实证空白。
 
@@ -136,7 +135,7 @@ updated: 2026-09-18
 > | **威尔士政府**<br>Welsh Government (Llywodraeth Cymru) | 英国（威尔士） | **地方分权政府教育行政主管部门**<br>配合威尔士新国家课程改革，将循证工具包深度嵌入地方督导与学校拨款 | 英语、威尔士语；威尔士[[Evidence-Based Education\|循证教育]]实践资源网、学校改善实证清单 | [威尔士政府教育网](https://gov.wales/education-skills) |
 
 > [!finding-cards] 核心成果与业务矩阵
-> - **5 大语种[[Going Native\|本土化]]工具包矩阵** 成功完成《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》向**西班牙语、葡萄牙语、阿拉伯语、加泰罗尼亚语和法语**五大世界语种的深度本土化[[Transfer Translation Transformation\|转译]]，并全面嵌入区域本土因果[[Document\|文献]]。
+> - **5 大语种[[Going Native\|本土化]]工具包矩阵** 成功完成《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》向**西班牙语、葡萄牙语、阿拉伯语、加泰罗尼亚语和法语**五大世界语种的深度本土化转译，并全面嵌入区域本土因果文献。
 > - **数字化公共品与能力开发工具箱** 联合智利 SUMMA 推出循证评估设计工具箱 **Impacta+**；上线 **evidence.education** 全球知识门户，实现全球因果综述与干预成本数据的自由共享。
 > - **全球南方本土前置试验孵化** 成功资助并实施了包括约旦“儿童流利阅读”（Let's Read Fluently!）、喀麦隆女童月经健康干预对就学影响试验、以及拉美 EDU-LAC 影响力基金系列本土课堂教学法试验。
 
@@ -156,7 +155,7 @@ updated: 2026-09-18
 > > 审视由英国 [[Education Endowment Foundation\|EEF]] 统领的全球[[Evidence Network\|证据网络]]是否构成了新形式的“知识帝国主义”。
 > >
 > > - **[[Critical Pedagogy\|批判教育学]]与后殖民视角** 质疑以 EEF 为模板的量化 [[Randomised Controlled Trials\|RCT]] 与工具包框架过于迷信[[Positivism\|实证主义]]指标，将复杂、深植于地缘政治与社会阶层结构的教育不平等，简化为全球统一的“[[Effect Size\|效应量]]月数增益”，有削弱发展中国家本土教育哲学与文化多样性的危险。
-> > - **网络官方与务实主义立场** EEN 强调去中心化的“[[Going Native\|本土化]]改造”（[[Going Native\|Going Native]]），各节点拥有完全自主权将本土[[Document\|文献]]与本国教育优先事项注入工具包，且工具包的根本价值在于打破跨国商业软件与伪科学对第三世界学校有限公用预算的掠夺。
+> > - **网络官方与务实主义立场** EEN 强调去中心化的“[[Going Native\|本土化]]改造”（[[Going Native\|Going Native]]），各节点拥有完全自主权将本土文献与本国教育优先事项注入工具包，且工具包的根本价值在于打破跨国商业软件与伪科学对第三世界学校有限公用预算的掠夺。
 >
 > > [!axis] 后资助时代的“可持续性断崖”与主权财政挑战
 > > 探讨企业大额慈善期满后，全球中介网络的生存策略。
@@ -172,7 +171,7 @@ updated: 2026-09-18
 > [!citation-card] NatCen 独立终审报告对网络可持续性的定性
 > 建立与关键利益相关者（包括教育工作者、政策制定者、地方行政当局和学术界）的深层信任与政治认同，是维系[[Evidence Ecosystem\|证据生态系统]]长期发展的根本前提。教育证据网络（EEN）的正式设立，为各伙伴机构规范化工作流程、沉淀经验并保持长效协作提供了制度化基石，但后资助时代的财政维系仍需全行业持久的制度投入。(NatCen, 2026)
 >
-> *"Building trust and securing buy-in from key stakeholders—including educators, policymakers, local government, and academics—is critical to the long-term sustainability and development of an evidence ecosystem. The formation of the Evidence for Education Network (EEN) may provide a necessary structure to help partners consolidate, document, and standardize their work, while offering a platform for continued networking and shared learning."*
+> *"Building trust and securing buy-in from key stakeholders—including educators, policymakers, local government, and academics—is critical to the long-term sustainability and development of an evidence ecosystem. The formation of the Evidence for Education Network (EEN) may provide a necessary structure to help partners consolidate, [[Document]], and standardize their work, while offering a platform for continued networking and shared learning."*
 
 ---
 
@@ -197,4 +196,4 @@ updated: 2026-09-18
 > | [[Venture Philanthropy]] | Concept | 必和必拓等矿业资本注资孵化 EEN 所体现的现代跨国风险慈善模式。 |
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] | Argument | 记录 EEF 跨国拓展与全球证据生态启动的关键论文。 |
 > | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | Argument | 揭示 EEF 与必和必拓基金会跨国网络异层治理与快速政策流动的批判研究。 |
-> | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe (2024)]] | Argument | 追踪企业慈善资本对大洋洲及跨国证据中介深度渗透的最新[[Document\|文献]]。 |
+> | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe (2024)]] | Argument | 追踪企业慈善资本对大洋洲及跨国证据中介深度渗透的最新文献。 |

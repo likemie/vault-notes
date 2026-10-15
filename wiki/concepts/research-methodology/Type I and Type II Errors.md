@@ -11,7 +11,7 @@ aliases:
 summary: "统计推断中两类对称的决策错误——拒绝真零假设（第一类，冤枉无辜）和接受假零假设（第二类，放过有罪），两者之间存在内在权衡，在量化与质性研究中均有对应"
 type: concept
 domain: "research-methodology"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,7 +21,6 @@ tags:
   - theme/statistics
 related_concepts:
   - "[[Null Hypothesis]]"
-  - "[[Hypothesis]]"
   - "[[Reliability]]"
   - "[[Internal Validity]]"
   - "[[Threats to Internal Validity]]"
@@ -38,7 +37,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
 created: 2026-06-23
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 # Type I and Type II Errors
 
@@ -47,7 +46,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!def] 核心定义
-> 第一类错误（Type I error）和第二类错误（Type II error）是统计推断中两类对称的决策错误。**第一类错误**指拒绝了实际上为真的[[Null Hypothesis\|零假设]]；**第二类错误**指接受了实际上不为真的零[[Hypothesis\|假设]]。Mitchell & Jolley (1988, p. 121) 提供了一个直观类比：第一类错误相当于**冤枉无辜者（convicting an innocent person）**，第二类错误相当于**放过有罪者（finding a guilty person innocent）**。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, pp. 165–166)]]
+> 第一类错误（Type I error）和第二类错误（Type II error）是统计推断中两类对称的决策错误。**第一类错误**指拒绝了实际上为真的[[Null Hypothesis\|零假设]]；**第二类错误**指接受了实际上不为真的零假设。Mitchell & Jolley (1988, p. 121) 提供了一个直观类比：第一类错误相当于**冤枉无辜者（convicting an innocent person）**，第二类错误相当于**放过有罪者（finding a guilty person innocent）**。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, pp. 165–166)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 两类错误是[[Null Hypothesis\|零假设]]显著性检验（NHST）框架内生的不确定性来源——即使研究设计和执行完美无缺，统计推断本身仍然包含这两类错误的风险。它们不是研究者的操作失误，而是**统计决策的固有属性**。
@@ -61,7 +60,7 @@ updated: 2026-09-22
 > [!contrast-table] 第一类错误 vs 第二类错误
 > | 维度 | 第一类错误（Type I） | 第二类错误（Type II） |
 > |---|---|---|
-> | **定义** | 拒绝真的[[Null Hypothesis\|零假设]] | 接受假的零[[Hypothesis\|假设]] |
+> | **定义** | 拒绝真的[[Null Hypothesis\|零假设]] | 接受假的零假设 |
 > | **通俗类比** | 冤枉无辜者 | 放过有罪者 |
 > | **概率符号** | α（alpha）——显著性水平 | β（beta）；1-β = 统计效力（power） |
 > | **典型后果** | 宣称无效的干预有效 | 错失真正有效的干预 |

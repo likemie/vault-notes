@@ -8,7 +8,7 @@ aliases:
 summary: "欧洲教育空间是指在欧洲一体化与超国家治理进程中，由欧盟委员会与OECD通过数据基础设施、资格框架、开放协调机制以及学术流动项目共同建构的功能性与象征性治理空间；该概念打破了将欧洲教育视为单一主权国家集合的地理假定，揭示了数据互认与跨国流动如何既建构出共同的欧洲公民身份想象，又在后发成员国亲欧修辞对标下掩盖主权防御与学术近亲繁殖。"
 type: concept
 domain: "comparative-education"
-related_count: 41
+related_count: 40
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[International Large-Scale Assessments]]"
   - "[[Avatar]]"
   - "[[Discourse]]"
-  - "[[Assemblage]]"
   - "[[Student Mobility]]"
   - "[[Teacher Mobility]]"
   - "[[Plaintive Comparison]]"
@@ -158,7 +157,7 @@ graph TD
 > 探讨超国家空间[[Discourse|话语]]如何通过赞美跨国人员流动来生产统一的欧洲公民身份，以及这种修辞背后的[[Governmentality|治理性]]转嫁。
 
 > [!claim] Nóvoa & Lawn (2002); [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]]
-> **流动性美德化与超国家治理术的阶层偏向** 欧洲教育空间不是静态的领土容器，而是通过流动网络所生产的话语[[Assemblage|装配]]。政策制定者调动欧洲古典旅行的人文主义浪漫意象，将跨国流动（[[Student Mobility|学生流动]]与[[Teacher Mobility|教师流动]]）建构为面向未来、包容开放的时代美德，使跨文化资源成为有权公民的核心象征。然而，这种话语本质上是将适应劳动力市场不确定性的风险个体化，把[[Employability|就业能力]]包装成个体的道德责任；同时，它将合法流动特权赋予高校文化精英，与基础教育和底层移民流动所遭遇的空间排斥形成了尖锐的阶层化区隔。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360, 362–363)]]
+> **流动性美德化与超国家治理术的阶层偏向** 欧洲教育空间不是静态的领土容器，而是通过流动网络所生产的话语装配。政策制定者调动欧洲古典旅行的人文主义浪漫意象，将跨国流动（[[Student Mobility|学生流动]]与[[Teacher Mobility|教师流动]]）建构为面向未来、包容开放的时代美德，使跨文化资源成为有权公民的核心象征。然而，这种话语本质上是将适应劳动力市场不确定性的风险个体化，把[[Employability|就业能力]]包装成个体的道德责任；同时，它将合法流动特权赋予高校文化精英，与基础教育和底层移民流动所遭遇的空间排斥形成了尖锐的阶层化区隔。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360, 362–363)]]
 
 ---
 

@@ -28,14 +28,14 @@ related_concepts:
   - "[[Creativity, Action, Service]]"
   - "[[Creativity]]"
   - "[[General Education]]"
+  - "[[School Autonomy]]"
   - "[[International Education]]"
   - "[[Further Education]]"
   - "[[Areas of Knowledge]]"
   - "[[Active Learning]]"
   - "[[Epistemology]]"
   - "[[Intercultural Education]]"
-related_theories:
-  - "[[Theory of Mind]]"
+related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-10-02
+updated: 2026-10-16
 ---
 
 # Alec Peterson
@@ -75,7 +75,7 @@ updated: 2026-10-02
 > - **身份位置** 英国教育家（1908–1988），牛津大学教育系主任、教授；[[International Baccalaureate\|国际文凭]]（International Baccalaureate，IB）组织首任总干事（1968–1977）。
 > - **制度角色** 参与[[Founding of Atlantic College\|大西洋学院创办]]及其学术课程设计，后把课程框架、外部考试、资金、试验学校和大学资格承认整合为一个可运行的跨国文凭制度。
 > - **课程角色** 推动国际文凭大学预科项目（[[IB Diploma Programme|International Baccalaureate Diploma Programme]]，IBDP），尤其重视[[Theory of Knowledge\|知识论]]（Theory of Knowledge，TOK）、[[Extended Essay\|拓展论文]]（Extended Essay，EE）和[[Creativity, Action, Service\|创意、行动、服务]]（[[Creativity]], Action, Service，[[Chinese Academy of Sciences|CAS]]）如何补足六学科框架。
-> - **思想位置** 他的[[General Education|通识教育]]观强调思维过程而非事实堆积；制度设计则强调共同质量边界与学校自主实施之间的平衡。
+> - **思想位置** 他的[[General Education|通识教育]]观强调思维过程而非事实堆积；制度设计则强调共同质量边界与[[School Autonomy|学校自主]]实施之间的平衡。
 > - **史料边界** 他的著作是参与者历史。书中事实、个人回忆与规范性判断需要分开阅读，不能自动视为 IB 或[[United World Colleges\|联合世界书院]]（United World Colleges，UWC）的官方立场。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, p. 161)]]
 
 ## 生平与职涯
@@ -86,7 +86,7 @@ updated: 2026-10-02
 > - **1966–1967** 在[[International Schools Examination Syndicate\|国际学校考试辛迪加]]陷入人员、财务与组织危机时投入近一年全职领导；与哈兰·哈波·汉森借助牛津大学和美国大学理事会的承诺，促成福特基金 300,000 美元资助，并把课程、考试、试验学校、家庭风险、持续资金和大学承认整合为同一可行性计划。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 23–24)]]
 > - **1968–1977** 担任[[International Baccalaureate\|国际文凭]]组织首任总干事，以牛津、日内瓦和英国考试团队之间的兼职／巡回领导方式推进六年试验。他负责大学联络、筹资、学校访问与行政分权，并在 1973 年离开牛津后于哈默史密斯与西伦敦[[Further Education\|继续教育]]学院教授[[Theory of Knowledge\|知识论]]，直接接触开放入学的 IB 学生。[[Argument_Peterson_1987_OpenCourt_Ch04\|Peterson (1987, Ch. 4, pp. 66–69, 78–80, 86–92)]]
 > - **1977–1978** 1977 年卸任总干事，由[[Gerard Renaud\|杰拉德·雷诺]]（Gerard Renaud）接任；随后仍以 IBO 理事会副主席身份参与部分谈判，显示他从日常执行转向治理支持。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 166, 178)]]
-> - **1978–1980** 七十岁时接任 [[United World Colleges|UWC]] 国际董事会主席，事先将任期限定为两年，并把寻找可持续的继任者作为主要任务。1980 年由汤姆·西蒙斯（[[Theory of Mind|ToM]] Symons）接任。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, p. 172)]]
+> - **1978–1980** 七十岁时接任 [[United World Colleges|UWC]] 国际董事会主席，事先将任期限定为两年，并把寻找可持续的继任者作为主要任务。1980 年由汤姆·西蒙斯（ToM Symons）接任。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, p. 172)]]
 > - **1984–1987** 在巴林主持 TOK 教师培训，讨论伊斯兰语境中如何处理不同知识传统；随后以 *Schools Across Frontiers* 总结 IB 与 UWC 第二个十年的课程、治理、财政和资格承认问题。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 180–191)]]
 
 ---

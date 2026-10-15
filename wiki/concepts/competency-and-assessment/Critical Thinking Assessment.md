@@ -8,7 +8,7 @@ aliases:
 summary: "批判性思维测评是对个体在论证分析、证据评价、推论构建与反思判断等高阶认知技能及求真探究倾向的操作化测量与促学评价；在教育与心理研究中用于量化学业增益、诊断思维短板并检验课程对齐与构念效度。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 71
+related_count: 68
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -34,7 +34,6 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Document]]"
   - "[[Homework]]"
-  - "[[Hypothesis]]"
   - "[[Self-Efficacy]]"
   - "[[Reliability]]"
   - "[[Ecological Validity]]"
@@ -42,7 +41,6 @@ related_concepts:
   - "[[Open-Mindedness]]"
   - "[[Problem Finding]]"
   - "[[Critical Thinking Disposition]]"
-  - "[[Attrition]]"
   - "[[Rote Learning]]"
   - "[[Surface and Deep Learning]]"
   - "[[Interaction Effect]]"
@@ -50,7 +48,6 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Evaluative Validity]]"
   - "[[Knowledge Questions]]"
-  - "[[APA Style]]"
   - "[[Task Structure]]"
   - "[[Variable]]"
   - "[[Domain Specificity]]"
@@ -98,7 +95,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-09-24
+updated: 2026-10-15
 ---
 
 # Critical Thinking Assessment
@@ -134,7 +131,7 @@ updated: 2026-09-24
 > |---|---|---|---|---|
 > | **代表性工具** | [[Watson-Glaser Critical Thinking Appraisal\|WGCTA]]、[[California Critical Thinking Skills Test\|CCTST]]、[[Cornell Critical Thinking Test\|Cornell 测验]] | [[California Critical Thinking Disposition Inventory\|CCTDI]]、[[Critical Thinking Strategies Scale\|CTSS]]、MSLQ-CT | [[Collegiate Learning Assessment\|CLA / CLA+]]、[[ETS HEIghten Critical Thinking Assessment\|ETS HEIghten]]、CAAP | AAC&U [[VALUE Rubrics\|VALUE 批判性思维量规]]、欧洲 CALOHEE 框架 |
 > | **作答载体与题型** | 客观[[Multiple-Choice Questions\|多项选择题]]（MCQs） | 莱克特（Likert）自陈量表 / [[Questionnaire\|问卷]] | 真实文档库（[[Document]] in-basket）开放情境表现任务（PT） + 选答题 | 嵌入课程真实大[[Homework\|作业]]、研究论文、设计原型与反思档案袋的 4 级表现描述符 |
-> | **核心测量对象** | 推理、识别[[Hypothesis\|假设]]、演绎、解释、论据评价（再认型） | 求真、开放、探究、分析性、[[Self-Efficacy\|自我效能]]与自述策略使用 | 复杂问题分析、跨文档证据综合、决策制定与论述写作 | 阐明问题、证据运用、情境识别、个人立场确立、结论推导 |
+> | **核心测量对象** | 推理、识别假设、演绎、解释、论据评价（再认型） | 求真、开放、探究、分析性、[[Self-Efficacy\|自我效能]]与自述策略使用 | 复杂问题分析、跨文档证据综合、决策制定与论述写作 | 阐明问题、证据运用、情境识别、个人立场确立、结论推导 |
 > | **[[Reliability\|信度]]与实施成本** | 机器阅卷信度极高，自动化成本极低 | 施测便捷，自评信度依赖作答诚实度 | 依赖专业阅卷员/算法，评分成本高昂 | 依赖校内与跨校教师评分校准研讨（Calibration） |
 > | **[[Ecological Validity\|生态效度]]与促学价值** | 生态效度低，仅输出总分，促学反馈弱 | 易受社会期望与[[Common Method Variance\|共同方法变异]]（CMV）干扰 | 生态效度高，可测纵向增益，但低利害下动机不足 | 生态效度极高，标准公开透明，全面赋能形成性促学与自我调节 |
 >
@@ -164,7 +161,7 @@ updated: 2026-09-24
 > | **心理测量学[[Reliability\|信度]]** | **极高** 机器阅卷无评分者主观误差，[[Internal Consistency\|内部一致性]]信度极高。 | **中等** 依赖人工量规打分与算法校准，评分一致性需持续维护。 |
 > | **构念代表性与效度** | **低** 偏向孤立事实识记与封闭推理，存在严重的构念代表性不足。 | **极高** 模拟真实劣构情境，直接测度分析、综合推理与创新生成。 |
 > | **实施成本与可扩展性** | **极低** 计算机自动化施测与即时评分，适于数十万人规模。 | **高昂** 任务设计与专业评分员阅卷开销巨大，耗时漫长。 |
-> | **学生作答动机影响** | **低利害下易盲目乱猜** 答题耗时短但学生容易采取猜测策略。 | **低利害下极易疲劳[[Attrition\|流失]]** 需耗费大量心智书写，无利害下作答努力度显著下降。 |
+> | **学生作答动机影响** | **低利害下易盲目乱猜** 答题耗时短但学生容易采取猜测策略。 | **低利害下极易疲劳流失** 需耗费大量心智书写，无利害下作答努力度显著下降。 |
 > | **对课堂教学的反拨效应** | **负向反拨** 诱发应试刷题、[[Rote Learning\|死记硬背]]与[[Surface and Deep Learning\|表层学习]]。 | **正向反拨** 引导学生开展深度探究、批判审视与实践创作。 |
 >
 > （综合 [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023, pp. 24–26)]] 分析归纳）
@@ -203,7 +200,7 @@ updated: 2026-09-24
 > 探讨显性思维课程在转化为具体评价任务时面临的效度覆盖与实操评分挑战。
 
 > [!claim] Hughes, C.; Zemplén, G. Á.; Bergeron, L., & Rogers, C.
-> **构念覆盖不足、术语表演与主观评分困境** 对探究性课程（如 IB ToK）的构念审查显示，书面课程目标虽高调倡导批判性思维，但实际评估任务往往局限于[[Knowledge Questions\|知识问题]]讨论与反主张列举，未能系统覆盖批判性阅读、证据来源考据、[[Hypothesis\|假设]]检验、概率判断与决策解决，导致内部对齐不能等同于完整的[[Construct Validity\|构念效度]]。同时，当评分标准过度依赖特定分析词汇时，易诱发学生通过套用套话进行“术语表演”（Jargon Performance）；而在教学一线，缺乏绝对客观答案的主观思维评估始终是教师面临的最大实操痛点。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 38–43)]] [[Argument_Zemplen_2007_SciEduc\|(Zemplén, 2007, pp. 171–174)]] [[Argument_Bergeron_2015_TeachingTOK\|(Bergeron & Rogers, 2015, pp. 18, 33)]]
+> **构念覆盖不足、术语表演与主观评分困境** 对探究性课程（如 IB ToK）的构念审查显示，书面课程目标虽高调倡导批判性思维，但实际评估任务往往局限于[[Knowledge Questions\|知识问题]]讨论与反主张列举，未能系统覆盖批判性阅读、证据来源考据、假设检验、概率判断与决策解决，导致内部对齐不能等同于完整的[[Construct Validity\|构念效度]]。同时，当评分标准过度依赖特定分析词汇时，易诱发学生通过套用套话进行“术语表演”（Jargon Performance）；而在教学一线，缺乏绝对客观答案的主观思维评估始终是教师面临的最大实操痛点。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 38–43)]] [[Argument_Zemplen_2007_SciEduc\|(Zemplén, 2007, pp. 171–174)]] [[Argument_Bergeron_2015_TeachingTOK\|(Bergeron & Rogers, 2015, pp. 18, 33)]]
 
 ### 命题总览
 
@@ -221,7 +218,7 @@ updated: 2026-09-24
 
 > [!dev-timeline] [[Critical Thinking\|批判性思维]]测评的技术演进与[[Paradigm\|范式]]转向
 > - **1960–1980 年代　经典心理测量学客观测试主导** 以沃森-格拉瑟批判性思维评估（WGCTA, 1980）和康奈尔测试为代表，采用客观[[Multiple-Choice Questions\|多项选择题]]（MCQs）测量推理、前提识别与解释，确立了高[[Reliability\|信度]]与标准化常模范式。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 21)]]
-> - **1990 年代　德尔菲框架确立与倾向[[Questionnaire\|问卷]]兴起** [[APA Style\|APA]] 德尔菲共识报告（Facione, 1990）将[[Construct\|构念]]明确划分为认知技能与情意倾向双维度，催生了[[California Critical Thinking Skills Test\|加州批判性思维技能测验]]（CCTST, 1992）与[[California Critical Thinking Disposition Inventory\|加州批判性思维倾向问卷]]（CCTDI, 1992），开启了技能与倾向分离测量的阶段。[[Argument_Cole_2015_AJE\|(Cole et al., 2015, pp. 251–252)]]
+> - **1990 年代　德尔菲框架确立与倾向[[Questionnaire\|问卷]]兴起** APA 德尔菲共识报告（Facione, 1990）将[[Construct\|构念]]明确划分为认知技能与情意倾向双维度，催生了[[California Critical Thinking Skills Test\|加州批判性思维技能测验]]（CCTST, 1992）与[[California Critical Thinking Disposition Inventory\|加州批判性思维倾向问卷]]（CCTDI, 1992），开启了技能与倾向分离测量的阶段。[[Argument_Cole_2015_AJE\|(Cole et al., 2015, pp. 251–252)]]
 > - **2000 年代　高等教育增值统考与[[Voluntary System of Accountability\|自愿问责体系]]兴衰** 美国《[[Spellings Report\|斯佩林斯报告]]》（2006）推动建立自愿问责体系（VSA），采用大学学习评估（[[Collegiate Learning Assessment\|CLA]]）等情境表现任务（PT）测量全校纵向[[Learning Gain\|学习增益]]；但因外部统考与课程脱节、成本高昂及学生低利害动机缺失，增值统考在十年后大范围衰退。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 24–25)]]
 > - **2010 年代至今　校本真实性量规崛起与[[Formative Assessment\|促学评价]]生态** 全美高校广泛转向 AAC&U VALUE 量规（Rhodes, 2009），欧洲推行 [[CALOHEE Project\|CALOHEE]] 参照框架（Wagenaar, 2018），批判性思维评价深度回归微观课堂，聚焦真实[[Task Structure\|劣构任务]]、纯质性描述评语与多轮形成性反馈迭代。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 26–34)]]
 

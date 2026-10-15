@@ -21,7 +21,6 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Industry Affiliate Program]]"
   - "[[Academic Entrepreneurship]]"
-  - "[[Document]]"
   - "[[Membership-based Research Consortium]]"
   - "[[Technology Transfer]]"
   - "[[Primary and Secondary Documents]]"
@@ -42,8 +41,7 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Active Listening]]"
 related_instruments: []
-related_persons:
-  - "[[Alfred Nobel]]"
+related_persons: []
 related_facts:
   - "[[VLSI Project]]"
   - "[[Silicon Structures Project]]"
@@ -72,7 +70,7 @@ title: "Argument_Mody_2017_MOH"
 argument_key: "Argument_Mody_2017_MOH"
 argument_display_title: "Academic centers and/as industrial consortia in American microelectronics research"
 argument_kind: "journal-article"
-argument_related_count: 36
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -96,7 +94,7 @@ issuing_organization: ""
 
 > [!concept-lens] 阅读透镜
 > - **对象** 1970 年代末至 1990 年代中期美国半导体与微电子领域的大学研究中心（加州理工学院[[Silicon Structures Project|硅结构计划]]、康奈尔大学国家亚微米设施、斯坦福大学[[Center for Integrated Systems|集成系统中心]]、明尼苏达大学微电子与信息科学研究所等）与产业研发联合体（[[Semiconductor Research Corporation|半导体研究公司]]、[[Microelectronics and Computer Technology Corporation|微电子与计算机技术公司]]、[[Sematech|半导体制造技术战略联盟]]等）。
-> - **张力** 既有[[Academic Entrepreneurship|学术创业]][[Document|文献]]主要聚焦于生物技术初创公司（Biotechnology Start-ups）的微观专利变现，遮蔽了重资产硬件领域由学界、产业界与政府行动者共同塑造的制度同源共生现象与中介组织载体。
+> - **张力** 既有[[Academic Entrepreneurship|学术创业]]文献主要聚焦于生物技术初创公司（Biotechnology Start-ups）的微观专利变现，遮蔽了重资产硬件领域由学界、产业界与政府行动者共同塑造的制度同源共生现象与中介组织载体。
 > - **贡献** 拓展了[[Academic Entrepreneurship|学术制度创业]][[Analytic Framework|分析框架]]，揭示出学术中心与产业联合体互为镜像、彼此嵌合的制度共生演进轨迹，并阐明大学多学科生态赋予学术实体的抗周期适应韧性。
 
 ---
@@ -127,7 +125,7 @@ issuing_organization: ""
 > | 样本层面 | 构成 |
 > |----------|------|
 > | **档案样本** | 涵盖 6 所主要大学与国家机构档案馆的数十卷书信、会议纪要、备忘录与未出版讲稿（1976–1998 年）。 |
-> | **案例样本** | 深入剖析加州理工学院 [[Silicon Structures Project\|SSP]]、康奈尔大学 [[National Research and Resource Facility for Submicron Structures\|NRRFSS]]、斯坦福大学 CIS 等核心学术中心，以及 [[Semiconductor Research Corporation\|SRC]]、[[Microelectronics and Computer Technology Corporation\|MCC]]、Sematech 等产业联合体。 |
+> | **案例样本** | 深入剖析加州理工学院 [[Silicon Structures Project\|SSP]]、康奈尔大学 [[National Research and Resource Facility for Submicron Structures\|NRRFSS]]、斯坦福大学 CIS 等核心学术中心，以及 [[Semiconductor Research Corporation\|SRC]]、MCC、Sematech 等产业联合体。 |
 > | **材料情境** | 贯穿冷战后期美日半导体贸易摩擦与高技术产业政策重构的宏观历史语境。 |
 
 ---
@@ -259,14 +257,14 @@ NRRFSS 在运营过程中不仅为 40 余家机构提供微纳实验室建设咨
 > | 州别与中心载体 | 争夺目标产业联盟 | 竞标年份与时间跨度 | 竞争策略与资源投入 | 最终结果与区域影响 |
 > |---|---|---|---|---|
 > | **北卡罗来纳州**<br>北卡微电子中心（Microelectronics Center of North Carolina, MCNC） | 半导体研究公司<br>[[Semiconductor Research Corporation\|SRC]] | **1981–1982 年**（早期联盟落户期） | 州政府联合 5 所重点大学共同出资设立，由州长吉姆·亨特亲自领衔推动。 | **成功落户**<br>SRC 总部落户三角研究园，推动北卡高技术走廊崛起。 |
-> | **得克萨斯州**<br>得州大学奥斯汀分校 MRC | 微电子与计算机技术公司<br>[[Microelectronics and Computer Technology Corporation\|MCC]] | **1982–1983 年**（首轮全美选址竞标） | 得州州长马克·怀特向联盟承诺由州政府全资新建大学级微电子研究中心。 | **成功落户**<br>MCC 于 1983 年落户奥斯汀，奠定奥斯汀硅丘高科技集群基础。 |
+> | **得克萨斯州**<br>得州大学奥斯汀分校 MRC | 微电子与计算机技术公司<br>MCC | **1982–1983 年**（首轮全美选址竞标） | 得州州长马克·怀特向联盟承诺由州政府全资新建大学级微电子研究中心。 | **成功落户**<br>MCC 于 1983 年落户奥斯汀，奠定奥斯汀硅丘高科技集群基础。 |
 > | **得克萨斯州**<br>得州大学奥斯汀分校 MRC | 半导体制造技术战略联盟<br>[[Sematech]] | **1987–1988 年**（制造联盟选址竞标） | 本·斯特里特曼教授等学者游说州长，承诺出资数千万美元为大学微电子中心建造顶尖新设施。 | **成功落户**<br>Sematech 于 1988 年选址奥斯汀，击败纽约州伦斯勒理工学院的竞标。 |
 > | **纽约州**<br>纽约州立大学（SUNY）中心群 | 半导体制造技术战略联盟<br>[[Sematech]] | **2002–2010 年代**（后期逆向争夺回流） | 纽约州跨期承诺建造电脑芯片商业化中心与化学机械研磨中心等系列大学级微纳配套。 | **逆转回流**<br>Sematech 研发重心与总部随后被纽约奥尔巴尼地区从得州奥斯汀成功撬走。 |
 
 > [!case] 地方政府制度竞标背后的政产学三螺旋动员
 > 州政府领导人（如得克萨斯州长马克·怀特、北卡罗来纳州长吉姆·亨特）将微电子研究中心视为培育本土高技术集群的战略催化剂；通过出资数千万美元兴建前沿大学洁净室与微电子大楼，各州成功将原本分散的联邦研发投资、跨国企业财团与顶尖学术人才锚定在特定地理空间中。
 >
-> 竞标过程亦直接推动了大学[[Engineering Education|工程教育]]体系与课程形态的重构。例如集成电路[[Co-invention|共同发明]]人、[[Alfred Nobel|诺贝尔]]物理学奖得主杰克·基尔比（Jack Kilby）在德克萨斯 A&M 大学任教期间，极力推动在校内设立开拓性的“教学用芯片试验线”（Pedagogical Fab），试图将重资产微电子制造产线置于电气工程本科生核心课程体系中央；基尔比原本期望借助 MCC 落户得州的东风进一步壮大该教学试验线，而得克萨斯大学奥斯汀分校的本·斯特里特曼教授则通过非正式统筹设备资源与州政府支持，促成了更大规模大学科研中心的诞生。（pp.293–294）
+> 竞标过程亦直接推动了大学[[Engineering Education|工程教育]]体系与课程形态的重构。例如集成电路[[Co-invention|共同发明]]人、诺贝尔物理学奖得主杰克·基尔比（Jack Kilby）在德克萨斯 A&M 大学任教期间，极力推动在校内设立开拓性的“教学用芯片试验线”（Pedagogical Fab），试图将重资产微电子制造产线置于电气工程本科生核心课程体系中央；基尔比原本期望借助 MCC 落户得州的东风进一步壮大该教学试验线，而得克萨斯大学奥斯汀分校的本·斯特里特曼教授则通过非正式统筹设备资源与州政府支持，促成了更大规模大学科研中心的诞生。（pp.293–294）
 
 ---
 
@@ -314,7 +312,7 @@ NRRFSS 在运营过程中不仅为 40 余家机构提供微纳实验室建设咨
 > [!finding-cards] 核心发现
 > 1. **学术中心与[[Industry Affiliate Program|产业联盟]]的共生同源性** 揭示出大学微电子研究中心与产业研发联盟是 1970 年代末共同应对微电子制造设备成本暴涨与日本竞争危机的同源制度创新，二者在治理结构上相互借用并镜像发展。（pp.285–287）
 > 2. **大学中心的技术经纪人角色** 证明大学多学科研究中心充当了产业联合体在[[Grandes Ecoles|大学校]]园内部的最佳技术经纪人，克服了单个教授知识面狭窄与传统院系决策迟缓的治理困境。（pp.292–293）
-> 3. **地方政府的制度竞标逻辑** 揭示出得克萨斯州、北卡罗来纳州与纽约州等地方政府利用出资建设大学微电子中心作为吸引 [[Microelectronics and Computer Technology Corporation|MCC]]、[[Semiconductor Research Corporation|SRC]] 与 [[Sematech]] 等产业联合体总部落户的核心产业政策工具。（pp.293–294）
+> 3. **地方政府的制度竞标逻辑** 揭示出得克萨斯州、北卡罗来纳州与纽约州等地方政府利用出资建设大学微电子中心作为吸引 MCC、[[Semiconductor Research Corporation|SRC]] 与 [[Sematech]] 等产业联合体总部落户的核心产业政策工具。（pp.293–294）
 > 4. **大学实体的多学科跨界韧性** 阐明大学中心依托高等教育生态的多学科近邻优势，在半导体产业赞助退潮后能够灵活将微加工技术平台迁移至生物微阵列、基因枪与纳米技术，展现出纯产业联盟所不具备的组织韧性。（pp.297–299）
 
 > [!stat-cards]- 核心数据与规模快照

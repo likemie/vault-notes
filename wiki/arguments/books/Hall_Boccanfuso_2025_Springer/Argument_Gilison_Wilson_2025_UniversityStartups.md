@@ -18,7 +18,6 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Sponsored Research Agreement]]"
   - "[[Proof of Concept Programs]]"
-  - "[[Hypothesis]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Academic Freedom]]"
   - "[[Research Scope]]"
@@ -28,7 +27,6 @@ related_concepts:
   - "[[Corporate Venture Capital]]"
   - "[[Technology Readiness Level]]"
   - "[[Mentorship]]"
-  - "[[Teaching Assistant]]"
   - "[[Professional Judgment]]"
   - "[[Entrepreneur in Residence]]"
   - "[[Innovation Hub]]"
@@ -72,7 +70,7 @@ title: "Argument_Gilison_Wilson_2025_UniversityStartups"
 argument_key: "Argument_Gilison_Wilson_2025_UniversityStartups"
 argument_display_title: "University-Based Startups and Entrepreneurship: A Practical Guide for Industry Collaboration"
 argument_kind: "book"
-argument_related_count: 42
+argument_related_count: 40
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -132,7 +130,7 @@ citation_aliases:
 
 ---
 
-3. 一个常见的直觉[[Hypothesis|假设]]是，这些赞助研究中应该有一小部分在显示出前景后衍生为新创企业。毕竟，企业投了钱、大学做了研究、研究出了成果，如果成果不适合直接纳入企业产品线，让它独立成为一家公司不是顺理成章吗？但研究发现，这种情况"就像追踪雪人一样，人们听说过它们存在，但从未亲眼在野外见过"(p.143)。
+3. 一个常见的直觉假设是，这些赞助研究中应该有一小部分在显示出前景后衍生为新创企业。毕竟，企业投了钱、大学做了研究、研究出了成果，如果成果不适合直接纳入企业产品线，让它独立成为一家公司不是顺理成章吗？但研究发现，这种情况"就像追踪雪人一样，人们听说过它们存在，但从未亲眼在野外见过"(p.143)。
 
 > [!example]
 > 想象一所大学的教育学院与一家大型教育出版公司签订了[[Sponsored Research Agreement\|赞助研究协议]]，研究"人工智能（[[Generative Artificial Intelligence\|Artificial Intelligence]], AI）辅助写作反馈的有效性"。出版公司的目标是把这个功能嵌入到它已有的在线写作平台中，而不是孵化一家新公司。在研究协议中，出版公司会要求：产生的所有 AI 算法和训练数据归它独占使用，不可转让给第三方；如果有衍生企业，出版公司保留一票否决权。三年后，研究团队发现这个 AI 反馈引擎其实可以独立成为一个跨平台的教学工具，不仅适用于写作，还能用于科学探究和数学解题，市场远大于出版公司原有的写作产品。但协议已经锁死了 IP，研究团队无法拿这个技术去创业，出版公司也只对它原有产品线的应用感兴趣，不会投资开发科学和数学方向。一个潜在的衍生企业就这样被扼杀在摇篮里。
@@ -224,7 +222,7 @@ citation_aliases:
 
 ---
 
-15. 一个坦诚的观察是：如果大学衍生企业真的代表有吸引力的投资机会，"更多基金和更大规模的基金就会出现"(p.146)。市场不是傻瓜。衍生企业的融资困境不仅仅是"偏见"或"不理解"的问题，它们在客观上确实风险更高、回报周期更长、成功概率更低。除非通过系统性的去风险策略——更多产业合作带来市场验证、更多政府非稀释性投资填补早期资金缺口、更高质量的创业[[Mentorship|导师制]]帮[[Teaching Assistant|助教]]授们补上商业知识短板——来改善这个基本面，否则"资金供给将始终低于需求"。
+15. 一个坦诚的观察是：如果大学衍生企业真的代表有吸引力的投资机会，"更多基金和更大规模的基金就会出现"(p.146)。市场不是傻瓜。衍生企业的融资困境不仅仅是"偏见"或"不理解"的问题，它们在客观上确实风险更高、回报周期更长、成功概率更低。除非通过系统性的去风险策略——更多产业合作带来市场验证、更多政府非稀释性投资填补早期资金缺口、更高质量的创业[[Mentorship|导师制]]帮助教授们补上商业知识短板——来改善这个基本面，否则"资金供给将始终低于需求"。
 
 > [!quote]
 > “你问他们要钱，他们会给你建议。你问他们要建议，他们会给你钱。”

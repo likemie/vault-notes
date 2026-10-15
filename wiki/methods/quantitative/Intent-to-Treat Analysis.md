@@ -8,7 +8,7 @@ summary: "一种按原始随机分配而非实际接受情况来分析结果的 
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 45
+method_related_count: 43
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Causality]]"
   - "[[Internal Validity]]"
-  - "[[Hypothesis]]"
   - "[[Attrition]]"
   - "[[Academic Achievement]]"
   - "[[Dependent Variable]]"
@@ -51,7 +50,6 @@ related_methods:
   - "[[Implementation and Process Evaluation]]"
   - "[[Intraclass Correlation Coefficient]]"
   - "[[Ordinary Least Squares]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Triangulation]]"
   - "[[Correlational Research]]"
 related_instruments:
@@ -70,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-02
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Intent-to-Treat Analysis
@@ -111,13 +109,13 @@ updated: 2026-10-12
 > | **意向治疗分析（ITT）** | 纳入所有随机分配样本，按原始分配组别分析 | **严格保持**，消除所有基线混杂偏误 | 政策提供效应（Effect of Treatment Availability） | 反映真实田野推广价值，保守稳健；但当非依从率高时严重稀释干预内在效力。 |
 > | **符合方案集分析（Per-Protocol, PP）** | 仅纳入完全达到预定依从标准的样本 | **彻底破坏**，引入严重的非随机选择偏误 | 理想依从效能（Ideal Efficacy） | 揭示方案在完美执行下的效力；但破坏组间均衡，高估实际政策收益。 |
 > | **实际接受分析（As-Treated, AT）** | 按被试实际接受的处理情况重新划组 | **彻底破坏**，等同于非等价的事后[[Observation Method\|观察研究]] | 实际暴露关联（Observed Exposure Association） | 严重混淆干预效果与个体主动选择特征，丧失因果识别能力。 |
-> | **依从者平均因果效应（CACE / LATE）** | 全样本纳入，以随机分配作为工具变量进行两阶段估计 | **数学矫正保持**，依赖单调性与排他性约束[[Hypothesis\|假设]] | 潜在依从者因果效应（Complier Average Causal Effect） | 剥离依从衰减，精准还原真实参与者的净增益；但依赖不可直接检验的排除限制假设。 |
+> | **依从者平均因果效应（CACE / LATE）** | 全样本纳入，以随机分配作为工具变量进行两阶段估计 | **数学矫正保持**，依赖单调性与排他性约束假设 | 潜在依从者因果效应（Complier Average Causal Effect） | 剥离依从衰减，精准还原真实参与者的净增益；但依赖不可直接检验的排除限制假设。 |
 
 > [!method-stack] 方法层级
 > - **研究设计** 双臂或[[Multi-Arm Trial\|多臂随机对照试验]]（[[Randomised Controlled Trials\|RCT]]）、整群随机对照试验（[[Cluster Randomized Trials\|Cluster RCT]]）、[[Factorial Design\|析因实验]]设计。
 > - **数据收集** 试验前基线测试（Pre-test）、终点[[Pre-test and Post-test\|后测]]（Post-test）、行政追踪数据库、实施出勤签到表与数字化学习日志。
 > - **分析方法** [[Analysis of Covariance\|协方差分析]]（ANCOVA）、多水平[[Hierarchical Linear Model\|分层线性模型]]（Hierarchical Linear Modelling, HLM）、意向性[[Generalized Estimating Equations\|广义估计方程]]（GEE）。
-> - **辅助技术** 工具变量法（IV-2SLS）、全信息最大似然估计（FIML）、多重插补（Multiple [[Imputation Methods\|imputation]]）、[[Attrition\|流失]]敏感性检验。
+> - **辅助技术** 工具变量法（IV-2SLS）、全信息最大似然估计（FIML）、多重插补（Multiple [[Imputation Methods\|imputation]]）、流失敏感性检验。
 
 ---
 
@@ -125,8 +123,8 @@ updated: 2026-10-12
 
 > [!proc] 通用程序
 > 1. **确定全样本基线并实施[[Random Assignment\|随机分配]]** 严格锁定试验招募池所有被试的身份标识，在基线测验完成后由独立统计师实施随机双盲或单盲分配，生成不可篡改的初始组别名单。
-> 2. **全周期追踪与非依从/[[Attrition\|流失]]监测** 在干预推进过程中，独立于干预团队进行[[Implementation and Process Evaluation\|实施与过程评估]]（IPE），详实记录每位参与者的出勤率、系统登录日志、脱落时间与对照组污染事件。
-> 3. **执行全样本终点测试与数据补全** 无论学生或学校是否中途放弃干预，调查团队均必须全力动员其参加终点[[Pre-test and Post-test\|后测]]，尽可能将样本流失率控制在最低警戒线以内。
+> 2. **全周期追踪与非依从/流失监测** 在干预推进过程中，独立于干预团队进行[[Implementation and Process Evaluation\|实施与过程评估]]（IPE），详实记录每位参与者的出勤率、系统登录日志、脱落时间与对照组污染事件。
+> 3. **执行全样本终点测试与数据补全** 无论学生或学校是否中途放弃干预，调查团队均必须全力动员其参加终点[[Pre-test and Post-test\|后测]]，尽可能将[[Attrition|样本流失]]率控制在最低警戒线以内。
 > 4. **构建意向治疗统计模型** 严格按照初始分配[[Variable\|变量]]编制哑变量指标，在控制基线协变量与嵌套集群效应的基础上估计主效应 $\beta_{\text{[[Initial Teacher Training\|ITT]]}}$。
 > 5. **敏感性分析与依从机制校正** 针对不可避免的样本流失开展流失偏误检验；若现场非依从率显著，进一步利用随机分配作为工具变量拟合 [[Complier Average Causal Effect\|CACE]] 模型，对照解释 ITT 估计值的稀释程度。
 
@@ -173,12 +171,12 @@ updated: 2026-10-12
 >
 > **结果怎么读** 当依从率小于 100% 时，分母小于 1，必有 $|\beta_{\text{CACE}}| > |\beta_{\text{ITT}}|$。依从率越低，ITT 与 CACE 差距越大，直观体现出政策稀释的严重程度。
 >
-> **注意事项** 该调整高度依赖单调性[[Hypothesis\|假设]]（无逆反者 Defiers）与排他性约束假设。在英国[[Education Endowment Foundation\|EEF]]的大规模实证评估中，研究团队普遍将 ITT 作为首要报告指标，并配合 CACE 作为关键探索性分析，以[[Scientific Explanation\|科学解释]]为何总体效应较小（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 50, 53]]）。
+> **注意事项** 该调整高度依赖单调性假设（无逆反者 Defiers）与排他性约束假设。在英国[[Education Endowment Foundation\|EEF]]的大规模实证评估中，研究团队普遍将 ITT 作为首要报告指标，并配合 CACE 作为关键探索性分析，以[[Scientific Explanation\|科学解释]]为何总体效应较小（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 50, 53]]）。
 
 > [!software-impl] 软件实现
 > - **推荐软件** R (`lme4`, `AER`, `clubSandwich`), Stata (`mixed`, `ivregress`), Python (`statsmodels`).
 > - **实现流程**
->   1. 数据清洗：保留所有随机化样本，[[Coding in Qualitative Research\|编码]] $Z$（初始分配）与实际出勤时长 $D$。
+>   1. 数据清洗：保留所有随机化样本，编码 $Z$（初始分配）与实际出勤时长 $D$。
 >   2. 估计基准 ITT 模型：
 >      - Stata: `mixed math_post treat_assign math_pre fsm || school_id:, vce(cluster school_id)`
 >      - R: `lmer(math_post ~ treat_assign + math_pre + fsm + (1 | school_id), data = rct_data)`
@@ -195,8 +193,8 @@ updated: 2026-10-12
 >
 > 1. **全样本分析的强制约束**
 >    - [[Blueprints for Healthy Youth Development]]、[[Social Programs That Work]]（SPTW）与 [[Promise Neighborhoods Research Consortium]]（PNRC）**明确强制要求 ITT 分析**。任何剔除非依从学校、剔除未完成干预学童或按实际执行情况重新分组的评估报告，将直接被剥夺最高证据评级资格。
->    - 美国联邦教育部[[What Works Clearinghouse\|WWC]]在因果标准中确立：只有基于原始随机组别的 ITT 分析且[[Attrition\|流失]]率达标的 [[Randomised Controlled Trials\|RCT]]，才具备获评“无保留满足标准（Meets Standards Without Reservations）”的资格；在特定合规监测条件下，允许补充报告 [[Complier Average Causal Effect\|CACE]]。
-> 2. **样本流失与[[EEF Padlock Security Rating\|挂锁安全评级]]的联动约束**
+>    - 美国联邦教育部[[What Works Clearinghouse\|WWC]]在因果标准中确立：只有基于原始随机组别的 ITT 分析且流失率达标的 [[Randomised Controlled Trials\|RCT]]，才具备获评“无保留满足标准（Meets Standards Without Reservations）”的资格；在特定合规监测条件下，允许补充报告 [[Complier Average Causal Effect\|CACE]]。
+> 2. **[[Attrition|样本流失]]与[[EEF Padlock Security Rating\|挂锁安全评级]]的联动约束**
 >    - 英国[[Education Endowment Foundation\|EEF]]将 ITT 确立为所有评估报告第一标题[[Effect Size\|效应量]]（Headline Effect Size）的法定计算口径（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 50]]）。
 >    - 然而，若试验遭遇严重的随访流失（Attrition），即使遵循 ITT 统计口径，组间基线可比性亦可能荡然无存。为此 EEF 实施了严格的[[EEF Padlock Security Rating\|挂锁安全评级]]：将流失率作为核减挂锁数量的核心依据。全英试验通过专业招募与留存规程，使 85% 的试验将样本流失率控制在 30% 以内，稳健维持了 3 把挂锁以上的证据信用（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 49–51]]）。
 
@@ -222,7 +220,7 @@ updated: 2026-10-12
 > [!method-limits] 方法局限
 > - **偏误来源**
 >   - **假阴性与稀释偏误（Dilution Bias）** 当许多受派学校并未真实开展干预活动时，由于 [[Initial Teacher Training\|ITT]] 机械地将未受干预样本的零产出混入处理组计算，会导致估计出的[[Effect Size\|效应量]]趋近于零，掩盖方案在真实落实时的有效性。
->   - **样本选择性[[Attrition\|流失]]（Differential Attrition）** 若困难学生更倾向于从处理组脱落，将造成两组基线破缺。ITT 无法自动解决非随机流失问题（Schweig & Pane, 2016; [[Argument_Pampaka_2016_IJRME\|Pampaka et al., 2016]]）。
+>   - **样本选择性流失（[[Attrition|differential attrition]]）** 若困难学生更倾向于从处理组脱落，将造成两组基线破缺。ITT 无法自动解决非随机流失问题（Schweig & Pane, 2016; [[Argument_Pampaka_2016_IJRME\|Pampaka et al., 2016]]）。
 > - **适用边界** 仅能回答“政策提供”的因果效应，无法解释因果机制与黑箱过程。
 > - **误用风险** 将 ITT 估计的微弱正向效应直接等同于“干预毫无价值”，忽视实施剂量与保真度短板；或将名义上的技术依从等同于实质高质量落实，导致推广至真实世界时效果再次受挫（[[Argument_Pampaka_2016_IJRME\|Pampaka et al., 2016, pp. 233–234]]）。
 > - **补救方式** 建立“量化 ITT + 质性/量化 [[Implementation and Process Evaluation\|IPE]] 过程评估 + 工具[[Variable\|变量]] [[Complier Average Causal Effect\|CACE]]”三位一体的[[Triangulation\|三角互证]]链条（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 53–54]]）。

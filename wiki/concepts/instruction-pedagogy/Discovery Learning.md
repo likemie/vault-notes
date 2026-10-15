@@ -10,7 +10,7 @@ aliases:
 summary: "认知心理学与教学设计中的自主建构范式，由杰罗姆·布鲁纳奠基，主张让学生在最小干预下通过自主探究概念例证领悟学科基本结构；经 Alfieri 等 164 项元分析解构确立无指导纯发现成效低下而辅以支架的增强型引导式发现显著优于传统直接讲授"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 32
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -22,7 +22,6 @@ tags:
   - inquiry-based-learning
   - direct-instruction
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Constructivist Paradigm]]"
   - "[[Paradigm]]"
   - "[[Scaffolding]]"
@@ -63,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Discovery Learning
@@ -72,7 +71,7 @@ updated: 2026-10-08
 
 ## 定义
 
-在认知心理学与现代教学设计中，“发现学习”（Discovery Learning）指一种促使学习者通过自主操纵材料、探索案例、提出[[Hypothesis|假设]]与反思归纳，自发发现概念规律或学科基本结构的[[Constructivist Paradigm|建构主义]]教学取向。
+在认知心理学与现代教学设计中，“发现学习”（Discovery Learning）指一种促使学习者通过自主操纵材料、探索案例、提出假设与反思归纳，自发发现概念规律或学科基本结构的[[Constructivist Paradigm|建构主义]]教学取向。
 
 > [!def] 核心定义
 > 发现学习由认知心理学家杰罗姆·布鲁纳（Jerome S. Bruner）在 1960 年代系统提出。该理论假定知识的最深刻内化并非源于被动接受外界讲授，而源于学习者运用归纳推理自主“发现”概念的过程。然而在半个多世纪的理论论争与实验检验中，学界对其内涵进行了根本性解构，严格区分为两类截然不同的[[Paradigm\|范式]]：
@@ -142,7 +141,7 @@ updated: 2026-10-08
 ### 命题一　无指导纯发现学习因工作记忆超载与直觉迷思固化导致概念习得效率系统低下
 
 > [!concept-lens] 认知架构与认知负荷维度
-> 阐明为何早期的激进纯[[Constructivist Paradigm\|建构主义]][[Hypothesis\|假设]]在实证科学中全面溃败。
+> 阐明为何早期的激进纯[[Constructivist Paradigm\|建构主义]]假设在实证科学中全面溃败。
 
 > [!claim] [[Richard E. Mayer\|Mayer, R. E.]]
 > **纯发现学习的三击出局假说** 认知心理学实证研究长达三十年的历史表明，纯粹无指导的发现学习在科学与计算教学中反复失败。当面对复杂问题时，没有外部指导的学生往往盲目搜索问题空间，导致[[Working Memory\|工作记忆]]被冗余的外在认知负荷彻底压垮。学生不仅无法自主发现目标原理，反而极易固化先入为主的错误直觉。因此，将纯发现作为[[Effective Teaching\|有效教学]]模式的构想在实证检验中早已三击出局。（Mayer, 2004；引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 5]]）

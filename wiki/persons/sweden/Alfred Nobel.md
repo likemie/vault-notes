@@ -9,10 +9,10 @@ summary: "阿尔弗雷德·伯恩哈德·诺贝尔（Alfred Bernhard Nobel, 1833
 type: person
 nationality: sweden
 person_region: "sweden"
-person_related_count: 16
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 15
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1833"
 died: "1896"
 lifespan: 1833–1896
@@ -26,7 +26,6 @@ tags:
   - theme/hard-power
 related_concepts:
   - "[[Engineering Education]]"
-  - "[[Document]]"
   - "[[Total War]]"
   - "[[Long Peace]]"
   - "[[Hard Power]]"
@@ -87,7 +86,7 @@ updated: 2026-10-15
 
 ## 主要著作与思想发展
 
-> [!work-line] 主要专利与思想[[Document|文献]]
+> [!work-line] 主要专利与思想文献
 > - **1867 — *Improved Explosive Compound (Dynamite Patent)*** 解决硝化甘油运输与引爆安全问题，开启全球矿山开采、运河与铁路建设的工业爆破革命。
 > - **1876 — *Blasting Gelatin Patent*** 发明胶质炸药（Gelignite），大幅提升爆破能量密度。
 > - **1887 — *Ballistite Patent*** 发明军用无烟双基火药，直接改变 19 世纪末步枪弹药与火炮射程。

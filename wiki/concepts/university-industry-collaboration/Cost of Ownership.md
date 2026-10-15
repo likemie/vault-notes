@@ -7,10 +7,10 @@ aliases:
 summary: "所有权成本（Cost of Ownership, COO）是评估制造装备与研发设施全生命周期单位产出综合成本的标准模型。该模型综合纳入初始资本折旧、日常运维、停机损失及良率损失，确立了单位合格品成本测算标准，是产学研协同与技术验证的核心基准。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 21
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - university-industry-collaboration
   - technology-transfer
@@ -25,10 +25,8 @@ related_concepts:
   - "[[Pilot Scale Platform]]"
   - "[[University Spin-Out]]"
   - "[[Megascience Installations]]"
-  - "[[Hypothesis]]"
   - "[[Paradigm]]"
   - "[[Variable]]"
-  - "[[Assemblage]]"
 related_theories: []
 related_methods:
   - "[[Statistical Process Control]]"
@@ -47,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Cost of Ownership
@@ -154,7 +152,7 @@ updated: 2026-10-07
 ## 争议与批评
 
 > [!critique] 外部批评
-> - **参数高度敏感性与主观[[Hypothesis|假设]]偏差** COO 计算对设备稼动率（Utilization Rate）与微小良率波动的假设极为敏感，微小的参数设定偏差可能导致不同设备之间的单位成本估算产生数倍颠倒。
+> - **参数高度敏感性与主观假设偏差** COO 计算对设备稼动率（Utilization Rate）与微小良率波动的假设极为敏感，微小的参数设定偏差可能导致不同设备之间的单位成本估算产生数倍颠倒。
 > - **忽略战略颠覆性技术价值** COO 模型本质上是针对渐进性技术改良与已知工艺路线的优化工具；当面临全新[[Paradigm|范式]]革新（如全新光刻物理架构）时，初期极高的 COO 可能会扼杀具有远期战略潜力的颠覆性技术。
 
 > [!warning] 适用局限
@@ -169,7 +167,7 @@ updated: 2026-10-07
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Grindley_1994_JPAM\|Grindley et al. (1994)]] | 1988–1992 年美国半导体制造与设备产业（[[Sematech]] 合作项目及 11 项工程案例） | 产业追踪与多案例定性/定量分析 | 设备运行成本、MTBF、[[Assemblage\|装配]]调试周期 | 推广 COO 与 [[Statistical Process Control\|SPC]] 后，设备生命周期运行成本削减最高达 50%，在役设备 MTBF 显著倍增，新设备调试周期由数月缩短至数周 | 描述性产业案例统计，无推断性统计检验 | 结果反映纵向协同与工程工具推广的综合成效，不可单独归因于单一财务模型 |
+> | [[Argument_Grindley_1994_JPAM\|Grindley et al. (1994)]] | 1988–1992 年美国半导体制造与设备产业（[[Sematech]] 合作项目及 11 项工程案例） | 产业追踪与多案例定性/定量分析 | 设备运行成本、MTBF、装配调试周期 | 推广 COO 与 [[Statistical Process Control\|SPC]] 后，设备生命周期运行成本削减最高达 50%，在役设备 MTBF 显著倍增，新设备调试周期由数月缩短至数周 | 描述性产业案例统计，无推断性统计检验 | 结果反映纵向协同与工程工具推广的综合成效，不可单独归因于单一财务模型 |
 > | [[Argument_Macher_1998_CMR\|Macher et al. (1998)]] | 1980–1997 年美日半导体制造装备与材料产业（SME 供应商与晶圆厂数据） | 宏观产业追踪与微观标杆案例分析 | 设备[[Reliability\|可靠性]]、买卖双方合作研发密度、全球装备市场份额 | COO 模型标准化消除了买卖双方信息不对称，驱动美国装备商在 1992 年以 51% 份额重夺全球第一，奠定了设备供应链长期竞争壁垒 | 描述性统计与产业案例，结合伯克利 [[Competitive Semiconductor Manufacturing Program\|CSM]] 现场调研 | 份额回升兼受宏观日元升值与日本投资紧缩影响，COO 提供了微观工程能力支撑 |
 
 ---

@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 26
+fact_related_count: 24
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -31,11 +31,9 @@ related_concepts:
   - "[[Democratising Evidence]]"
   - "[[Research Universities]]"
   - "[[Discourse]]"
-  - "[[Bildung]]"
   - "[[Scientific Method]]"
   - "[[Metascience]]"
   - "[[Discipline-Based Theory]]"
-  - "[[Document]]"
   - "[[Academic Freedom]]"
   - "[[Curiosity-Driven Research]]"
   - "[[Blue Skies Research]]"
@@ -61,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # William T. Grant Foundation
@@ -85,7 +83,7 @@ updated: 2026-10-07
 
 > [!dev-timeline]- 组织发展历程
 > - **1936–1980 年代 — 青少年发展与心理适应奠基期** 早期重点资助青少年心理学、精神卫生与适应力研究，设立著名的“格兰特学者计划”（William T. Grant Scholars Program），重点扶持处于职业早期的杰出青年学者开展前沿探索。
-> - **1980–2000 年代 — 处境不利儿童实证研究转型期** 伴随美国贫困加剧与城市种族隔离，资助重心转向弱势家庭、少数族裔儿童发展与跨文化[[Bildung\|教养]]研究，长期资助包括美籍华裔与亚洲儿童文化适应在内的重要实证工程。[[Argument_Li_2012_Cambridge\|(Li, 2012, p. xii)]]
+> - **1980–2000 年代 — 处境不利儿童实证研究转型期** 伴随美国贫困加剧与城市种族隔离，资助重心转向弱势家庭、少数族裔儿童发展与跨文化教养研究，长期资助包括美籍华裔与亚洲儿童文化适应在内的重要实证工程。[[Argument_Li_2012_Cambridge\|(Li, 2012, p. xii)]]
 > - **2000 年代至今 — 研究证据利用（URE）与[[Democratising Evidence\|证据民主化]]引领期** 在高级副总裁[[Vivian Tseng\|薇薇安·曾]]（Vivian Tseng, 2004–2022 年主政科研）推动下，基金会开创性将 URE 与 [[Research-Practice Partnership\|RPP]] 确立为核心资助支柱；2017 年后全面反思大学学术研究的种族主义历史与“采矿式科研”（Extractive Research），发起声势浩大的证据民主化运动与大学考核停钟机制改革。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–224)]]
 
 ---
@@ -115,7 +113,7 @@ updated: 2026-10-07
 > - **全美教育研究-实践伙伴关系网络（NNERPP）扶持** 为连接各学区与高校的跨界 RPP 组织提供核心孵化与能力建设支持。[[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 221)]]
 
 > [!citation-card] 威廉·T·格兰特基金会使命与[[Democratising Evidence\|证据民主化]]宗旨
-> 长期以来，研究者与科研出资方对科研议题的设定拥有不成比例的支配权，导致研究往往只服务于填补学术期刊[[Document\|文献]]的空白，而非解决实践或政策的真实困境。如果我们把学生及其所在社区视为教育研究的最终受益人，那么他们的切身利益就必须处于研究设计的中心。推进证据民主化意味着科研议题必须由包括边缘社区在内的多元利益相关者共同审议决定。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–221)]]
+> 长期以来，研究者与科研出资方对科研议题的设定拥有不成比例的支配权，导致研究往往只服务于填补学术期刊文献的空白，而非解决实践或政策的真实困境。如果我们把学生及其所在社区视为教育研究的最终受益人，那么他们的切身利益就必须处于研究设计的中心。推进证据民主化意味着科研议题必须由包括边缘社区在内的多元利益相关者共同审议决定。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 220–221)]]
 >
 > *For far too long, researchers and research funders have had outsized influence on research agendas, and thus it is unsurprising that research is more likely to fill gaps in the academic literature than inform practice or policy dilemmas... If we see students and their communities as beneficiaries of education, then their interests should be at the centre of education research.* (Tseng, 2022; cited in Bangs et al., 2022, pp. 220–221)
 

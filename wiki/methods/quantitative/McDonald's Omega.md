@@ -12,7 +12,7 @@ summary: "现代心理测量学中基于因子分析模型评估潜变量内部�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 17
+method_related_count: 16
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -34,7 +34,6 @@ related_methods:
   - "[[Internal Consistency]]"
   - "[[Likert Scale]]"
   - "[[Confirmatory Factor Analysis]]"
-  - "[[Exploratory Factor Analysis]]"
   - "[[Average Variance Extracted]]"
   - "[[Cronbach's Alpha]]"
   - "[[Composite Reliability]]"
@@ -48,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-29
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # McDonald's Omega
@@ -79,7 +78,7 @@ updated: 2026-09-17
 ## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
-> - **知识观** 属于现代潜[[Variable\|变量]]测量[[Paradigm\|范式]]，强调[[Reliability\|信度]]不仅是被试作答的样本表面统计特征，更是特定因子模型（[[Confirmatory Factor Analysis\|CFA]] / [[Exploratory Factor Analysis\|EFA]]）与真实数据拟合度的结构化参数。
+> - **知识观** 属于现代潜[[Variable\|变量]]测量[[Paradigm\|范式]]，强调[[Reliability\|信度]]不仅是被试作答的样本表面统计特征，更是特定因子模型（[[Confirmatory Factor Analysis\|CFA]] / EFA）与真实数据拟合度的结构化参数。
 > - **研究者角色** 研究者必须在拟合优度良好的因子模型（CFA）前提下计算 $\omega$；如果底层因子模型错误，计算出的 $\omega$ 亦无实际意义。
 > - **有效性标准** 决策阈值通常与 $\alpha$ 保持一致：$\omega \ge .70$ 达到基本可接受标准；$\omega \ge .80$ 良好；$\omega \ge .90$ 卓越。双因子模型中，若 $\omega_h \ge .80$，表明量表具备强烈的单维统整属性，允许直接计算总量表总分。
 > - **不声称回答的问题** $\omega$ 本身度量信度（测量精确性），不能直接替代效度检验（如 [[Average Variance Extracted\|AVE]] [[Convergent and Discriminant Validity\|收敛效度]]与 Fornell-Larcker 区分效度）。

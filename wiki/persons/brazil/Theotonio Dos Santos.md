@@ -38,10 +38,10 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Liliana Esther Olmos]]"
-  - "[[Carlos Alberto Torres]]"
   - "[[Thomas D. Seeley]]"
   - "[[Immanuel Kant]]"
   - "[[Joel Samoff]]"
+  - "[[Carlos Alberto Torres]]"
   - "[[Martin Carnoy]]"
 related_facts:
   - "[[UNESCO]]"
@@ -64,7 +64,7 @@ updated: 2026-10-10
 > - **核心角色** [[Dependency Theory|依附理论]]（Dependency Theory）与“新依附论”（New Dependency）的核心开创者；在批判现代化理论与古典帝国主义理论的基础上，系统提出了外围国家在跨国垄断资本控制下的技术-金融依附模型；其结构性分析为拉美教育政治社会学揭示外围资本主义教育扩张悖论与[[Conditioned State Theory|受限国家]]机制奠定了奠基性宏观理论根基。
 > - **代表贡献** 提出系统的依附定义与历史分期模型（殖民依附、金融-工业依附、技术-工业新依附）；出版《依附与社会变革》（1970）、《当代资本主义的危机》（1977）与《依附理论：历史与理论总结》（1998）。
 
-> [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]论多斯桑托斯与依附理论对解释外围国家困境的核心贡献
+> [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论多斯桑托斯与依附理论对解释外围国家困境的核心贡献
 > 依附[[Theoretical Perspective|理论视角]]应当置于现代化理论、[[Post-Imperialism Theory|后帝国主义理论]]以及本土政治经济学互动的广泛发展学派谱系中来理解。该理论集中聚焦于国际资本主义的整体结构，以及欠发达经济体缺乏实现自主资本积累所需资本的制度性困境。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 82–83)]]
 >
 > *Although the "dependency perspective" should be placed in the context of broad schools of development as modernization, postimperialism, and interactive local political economy perspective among others, it focuses on the structure of international capitalism and the lack of availability of capital for autonomous expansion of a less developed economy.*
@@ -114,7 +114,7 @@ updated: 2026-10-10
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 与瓦勒斯坦（Wallerstein）、阿明（Amin）、弗兰克（Frank）等学者共同构建了当代批判政治经济学与[[World-Systems Theory|世界体系分析]]的支柱网络；其概念工具直接启发了卡诺伊（Carnoy）、[[Joel Samoff|萨莫夫]]（Samoff）、[[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]对外围资本主义国家教育政策的政治社会学建模。
+> - **理论路径** 与瓦勒斯坦（Wallerstein）、阿明（Amin）、弗兰克（Frank）等学者共同构建了当代批判政治经济学与[[World-Systems Theory|世界体系分析]]的支柱网络；其概念工具直接启发了卡诺伊（Carnoy）、[[Joel Samoff|萨莫夫]]（Samoff）、[[Liliana Esther Olmos|奥尔莫斯]]与托雷斯对外围资本主义国家教育政策的政治社会学建模。
 > - **政策路径** 深刻影响了战后拉美非结盟运动、南南合作倡议以及联合国拉美经委会（CEPAL）关于产业自主权与[[Technology Transfer|技术转移]]监管的政策抗辩。
 > - **跨国／跨领域传播** 思想广泛跨越经济学、政治学与教育学界，成为全球[[Critical Pedagogy|批判教育学]]解构跨国金融机构援助神话的核心[[Epistemology|认识论]]武器。
 
@@ -136,5 +136,5 @@ updated: 2026-10-10
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Dependency Theory]] | 理论 | 核心创立者之一，系统阐明外围国家受限与资本积累匮乏的制度根源。 |
-> | [[Conditioned State Theory]] | 理论 | 为[[Carlos Alberto Torres\|托雷斯]]等人界定外围国家在世界体系中的从属性提供了基础结构视角。 |
+> | [[Conditioned State Theory]] | 理论 | 为托雷斯等人界定外围国家在世界体系中的从属性提供了基础结构视角。 |
 > | [[Historical-Comparative Method]] | 方法 | 倡导从长期历史脉络检视中心与外围资本积累的不平衡演进。 |

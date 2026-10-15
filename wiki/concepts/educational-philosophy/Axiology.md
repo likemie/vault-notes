@@ -8,10 +8,10 @@ aliases:
 summary: "研究者在探究中所持有的价值、信念与意义目的系统，位于研究推导阶梯最顶层，界定何为有价值的知识并统摄本体论、认识论与方法论选择。"
 type: concept
 domain: "educational-philosophy"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/epistemology
   - theme/research-philosophy
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
-  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Evaluation Research]]"
   - "[[Postpositivism]]"
@@ -44,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Axiology
@@ -115,7 +114,7 @@ updated: 2026-09-17
 > 探讨价值取向如何先验地界定“何为值得研究的问题”与“何为合法的科学产出”。
 
 > [!claim] Cohen et al.
-> **方法论的技术超越** 科学研究绝非脱离价值世界的单纯技术性演练，而是深受研究者如何看待世界以及追求何种理解目的所驱动。格雷厄姆·希区柯克（Graham Hitchcock）与戴维·休斯（David Hughes）提出的四层推导架构，在补充了价值论后构成完整的五层递进阶梯：价值论预设居于最顶层，直接规范[[Ontology\|本体论]]对实在本质的断定，进而推导[[Epistemology\|认识论]]关于求知途径的[[Hypothesis\|假设]]，并最终在方法论策略与资料收集工具的选择上落地（Hitchcock & Hughes, 1995, p. 21）。研究者选择关注什么现象、采纳何种评估指标，均根源于特定的价值论预设[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, p. 111)]]。
+> **方法论的技术超越** 科学研究绝非脱离价值世界的单纯技术性演练，而是深受研究者如何看待世界以及追求何种理解目的所驱动。格雷厄姆·希区柯克（Graham Hitchcock）与戴维·休斯（David Hughes）提出的四层推导架构，在补充了价值论后构成完整的五层递进阶梯：价值论预设居于最顶层，直接规范[[Ontology\|本体论]]对实在本质的断定，进而推导[[Epistemology\|认识论]]关于求知途径的假设，并最终在方法论策略与资料收集工具的选择上落地（Hitchcock & Hughes, 1995, p. 21）。研究者选择关注什么现象、采纳何种评估指标，均根源于特定的价值论预设[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, p. 111)]]。
 
 ---
 

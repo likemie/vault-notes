@@ -12,7 +12,7 @@ summary: "用于评估元分析中发表偏倚与抽屉文件效应的敏感性�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 23
+method_related_count: 21
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -23,9 +23,7 @@ tags:
   - field/research-methodology
 related_concepts:
   - "[[Counterfactual]]"
-  - "[[Hypothesis]]"
   - "[[Publication Bias]]"
-  - "[[Document]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Heterogeneity]]"
@@ -54,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Fail-Safe N
@@ -64,11 +62,11 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 方法定义
-> 失安全系数（Fail-Safe N, 简写为 $N_{\text{fs}}$），又称失安全数（Fail-Safe Number），是由心理统计学家 Robert Rosenthal 于 1979 年提出并在后续由 Orwin（1983）和 Rosenberg（2005）扩展的[[Meta-analysis\|元分析]]敏感性分析方法体系。该方法通过构建极端[[Counterfactual\|反事实]][[Hypothesis\|假设]]，计算在现有纳入研究的基础上，还需要多少篇无效应（[[Effect Size\|效应量]]为零）的未发表研究才能将当前统计显著的汇总结果拉低至不显著水平（经典法），或将合并效应量稀释至微小无意义阈值（Orwin 法），从而定量测度元分析结论抵抗[[Publication Bias\|发表偏倚]]（抽屉文件效应，File Drawer Effect）的稳健性边界。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 6–8)]]; [[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 8, 12)]]
+> 失安全系数（Fail-Safe N, 简写为 $N_{\text{fs}}$），又称失安全数（Fail-Safe Number），是由心理统计学家 Robert Rosenthal 于 1979 年提出并在后续由 Orwin（1983）和 Rosenberg（2005）扩展的[[Meta-analysis\|元分析]]敏感性分析方法体系。该方法通过构建极端[[Counterfactual\|反事实]]假设，计算在现有纳入研究的基础上，还需要多少篇无效应（[[Effect Size\|效应量]]为零）的未发表研究才能将当前统计显著的汇总结果拉低至不显著水平（经典法），或将合并效应量稀释至微小无意义阈值（Orwin 法），从而定量测度元分析结论抵抗[[Publication Bias\|发表偏倚]]（抽屉文件效应，File Drawer Effect）的稳健性边界。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 6–8)]]; [[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 8, 12)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 元分析中纳入的 $k$ 项独立初级实证研究的标准正态统计量（$Z$ 值）、加权合并效应量（如 Hedges' $g$、Cohen's $d$）及其抽样方差。
-> - **问题类型** 评估元分析汇总发现对未发表阴性[[Document\|文献]]潜在威胁的容忍限度与统计稳健性。
+> - **问题类型** 评估元分析汇总发现对未发表阴性文献潜在威胁的容忍限度与统计稳健性。
 > - **[[Unit of Analysis\|分析单位]]** 元分析数据集（一阶元分析效应量集合或[[Meta-meta-analysis\|二阶元分析]]汇总集）。
 > - **输出形式** 理论所需的临界文献数量 $N_{\text{fs}}$（整数值）及经验安全门槛（如 Rosenthal $5k + 10$ 准则）。
 
@@ -83,7 +81,7 @@ updated: 2026-09-17
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 基于[[Counterfactual\|反事实推理]]与极端情境压力测试，将[[Publication Bias\|发表偏倚]]形式化为未发表阴性研究在抽屉中的隐藏堆积。
-> - **研究者角色** 设定临界显著性水平（如 $\alpha = .05$）或微小[[Effect Size\|效应量]]实践阈值（如 $g_c = 0.01$ 或 $0.10$），对潜在缺失[[Document\|文献]]的理论规模进行逆向推导。
+> - **研究者角色** 设定临界显著性水平（如 $\alpha = .05$）或微小[[Effect Size\|效应量]]实践阈值（如 $g_c = 0.01$ 或 $0.10$），对潜在缺失文献的理论规模进行逆向推导。
 > - **有效性标准** 若计算得出的 $N_{\text{fs}} > 5k + 10$（Rosenthal 准则），且 Orwin 失安全数远超该领域合理的未发表文献容量，判定结论具备高度抗偏倚稳健度。
 > - **不声称回答的问题** 不能检验[[Funnel Plot\|漏斗图]]不对称的具体机制，不能识别小研究偏倚的来源，亦不能直接修正有偏的效应量点估计值。
 
@@ -120,9 +118,9 @@ updated: 2026-09-17
 > - $Z_i$：第 $i$ 项初级研究单尾显著性对应的标准正态分位数；
 > - $Z_\alpha$：显著性检验临界值（单尾 $\alpha = .05$ 时为 1.645；双尾 $\alpha = .05$ 时为 1.96，分母对应 $1.96^2 = 3.841$）。
 >
-> **数学直觉** [[Hypothesis\|假设]]所有未发表的抽屉研究其平均 $Z$ 值为 0；当加入 $N_{\text{fs}}$ 篇零效应研究后，新的合并统计量 $\bar{Z}_{\text{new}} = \frac{\sum Z_i}{\sqrt{k + N_{\text{fs}}}}$ 恰好等于显著性临界值 $Z_\alpha$，解此方程即可得出 $N_{\text{fs}}$。
+> **数学直觉** 假设所有未发表的抽屉研究其平均 $Z$ 值为 0；当加入 $N_{\text{fs}}$ 篇零效应研究后，新的合并统计量 $\bar{Z}_{\text{new}} = \frac{\sum Z_i}{\sqrt{k + N_{\text{fs}}}}$ 恰好等于显著性临界值 $Z_\alpha$，解此方程即可得出 $N_{\text{fs}}$。
 >
-> **结果怎么读** $N_{\text{fs}}$ 数值越大，表明推翻当前显著性所需的隐藏[[Document\|文献]]越多；若 $N_{\text{fs}} > 5k + 10$（Rosenthal 经验准则），确认[[Publication Bias\|发表偏倚]]极难颠覆结论。
+> **结果怎么读** $N_{\text{fs}}$ 数值越大，表明推翻当前显著性所需的隐藏文献越多；若 $N_{\text{fs}} > 5k + 10$（Rosenthal 经验准则），确认[[Publication Bias\|发表偏倚]]极难颠覆结论。
 
 > [!formula-step] 公式步骤二　Orwin（1983）效应量稀释失安全数
 > $$N_{\text{fs}} = \frac{k(\bar{g} - g_c)}{g_c - g_{\text{fs}}}$$
@@ -186,7 +184,7 @@ updated: 2026-09-17
 > | 维度 | Rosenthal 经典失安全数 | Orwin [[Effect Size\|效应量]]失安全数 | 现代偏倚校正法（[[Trim and Fill Method\|剪补法]] / Egger 检验 / [[Leave-One-Out Sensitivity Analysis\|留一法]]） |
 > |---|---|---|---|
 > | **关注核心** | 统计显著性（$p$ 值） | 效应量绝对大小（Effect Size） | [[Funnel Plot\|漏斗图]]不对称几何形态与分布[[Heterogeneity\|异质性]] |
-> | **[[Hypothesis\|假设]]前提** | 假设未发表[[Document\|文献]]效应严格为 0 | 假设未发表文献效应为 0 或指定常数 | 基于已有研究分布迭代剪除与镜像填补 |
+> | **假设前提** | 假设未发表文献效应严格为 0 | 假设未发表文献效应为 0 或指定常数 | 基于已有研究分布迭代剪除与镜像填补 |
 > | **效应量校正** | **无法修正点估计** | **无法修正点估计** | **可输出校正后的真实效应量与[[Confidence Interval\|置信区间]]** |
 > | **敏感性识别** | 无法检测单个异常值主导效应 | 无法检测单个异常值主导效应 | **留一法可直接识别极端异常值干扰** |
 > | **现代定位** | 辅助性压力测试工具 | 辅助性效应量稀释指标 | Cochrane 与 [[PRISMA]] 推荐的标准报告工具 |
@@ -203,7 +201,7 @@ updated: 2026-09-17
 > [!case] 实证案例一　[[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] · AI [[AI Agent in Education\|智能体]]促学[[Meta-analysis\|元分析]]双重失安全数检验
 > 在关于 AI 智能体促进 K-12 认知表现的元分析中（34 项研究，73 个[[Effect Size\|效应量]]），研究者同时执行了经典与 Orwin 失安全数压力测试：
 > - **经典失安全数** 观测研究合并 $Z = 4.870 (p < .001)$，计算得到 $N_{\text{fs}} = 378.00$，远超 Rosenthal 经验安全门槛（$5k + 10 = 5 \times 34 + 10 = 180$）；
-> - **Orwin 失安全数** 在随机效应合并效应量 $g = 0.404$ 基础上，设定微小琐碎阈值 $g_c = 0.01$ 且[[Hypothesis\|假设]]缺失研究平均效应 $g_{\text{fs}} = 0.00$，计算得出需要 **$2{,}876.00$ 篇**未发表的零效应研究才能将结果稀释至无意义水平；
+> - **Orwin 失安全数** 在随机效应合并效应量 $g = 0.404$ 基础上，设定微小琐碎阈值 $g_c = 0.01$ 且假设缺失研究平均效应 $g_{\text{fs}} = 0.00$，计算得出需要 **$2{,}876.00$ 篇**未发表的零效应研究才能将结果稀释至无意义水平；
 > - **结论** 双重失安全数确凿证实该元分析证据体系受[[Publication Bias\|发表偏倚]]逆转的概率极低。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 8, 12)]]
 
 > [!case] 实证案例二　[[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] · [[Cooperative Learning\|合作学习]][[Meta-meta-analysis\|二阶元分析]]极端稳健性检验

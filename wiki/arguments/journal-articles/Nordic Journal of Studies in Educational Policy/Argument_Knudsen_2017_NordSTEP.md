@@ -9,7 +9,7 @@ title: "Argument_Knudsen_2017_NordSTEP"
 argument_key: "Argument_Knudsen_2017_NordSTEP"
 argument_display_title: "John Hattie: I'm a statistician, I'm not a theoretician"
 argument_kind: "journal-article"
-argument_related_count: 19
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -26,8 +26,6 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Champ]]"
   - "[[Science and Technology Studies]]"
-  - "[[Document]]"
-  - "[[Hypothesis]]"
   - "[[Learning Intentions]]"
   - "[[Success Criteria]]"
   - "[[Surface and Deep Learning]]"
@@ -89,7 +87,7 @@ citation_aliases:
 ## 论证结构
 
 > [!example] 论证结构
-> 论文以引言-访谈-参考[[Document\|文献]]的结构呈现。引言部分(p.253–254)阐述了四个[[Research Question\|研究问题]]的背景：丹麦 VL 实施现状、现有批评文献([[Argument_Snook_2009_NZJES\|Snook et al., 2009]]; [[Argument_Simpson_2017_JEP\|Simpson, 2017]]; [[Argument_Biesta_2010_SPE\|Biesta, 2010]])、以及 Knudsen 自己的 [[Science and Technology Studies\|STS]] 研究取向。访谈正文分为五个主题板块：(1) 规模化与翻译；(2) 丹麦批评；(3) 儿童与基本[[Hypothesis\|假设]]；(4) 可见性与基本假设；(5) 证据与理论；(6) 政策、研究与商业。
+> 论文以引言-访谈-参考文献的结构呈现。引言部分(p.253–254)阐述了四个[[Research Question\|研究问题]]的背景：丹麦 VL 实施现状、现有批评文献([[Argument_Snook_2009_NZJES\|Snook et al., 2009]]; [[Argument_Simpson_2017_JEP\|Simpson, 2017]]; [[Argument_Biesta_2010_SPE\|Biesta, 2010]])、以及 Knudsen 自己的 [[Science and Technology Studies\|STS]] 研究取向。访谈正文分为五个主题板块：(1) 规模化与翻译；(2) 丹麦批评；(3) 儿童与基本假设；(4) 可见性与基本假设；(5) 证据与理论；(6) 政策、研究与商业。
 >
 
 ## 主要发现
@@ -98,7 +96,7 @@ citation_aliases:
 > ### 规模化与翻译
 >
 > - Hattie 自称"我是测量人员，我是统计学家"，VL 的工作最初是"业余爱好"(p.254)
-> - 教育领域缺乏规模化[[Document\|文献]]——Hattie 只能找到 5 篇关于规模化成功的文章；也缺乏实施模型
+> - 教育领域缺乏规模化文献——Hattie 只能找到 5 篇关于规模化成功的文章；也缺乏实施模型
 > - 通过 [[Cognition Education\|Cognition Education]] 的授权经营（licensing）模式运作：Hattie 从咖啡连锁店的商业模式中获取灵感，核心关注质量控制和法律合同
 > - VL 工作坊是脚本化的（"scripted. To the word"），禁止教师分享自己的故事和课堂经验
 > - 认证通过率仅五分之一，因为"几乎每个教师都想讲自己的故事、轶事和课堂"
@@ -123,7 +121,7 @@ citation_aliases:
 > - 如果重新开始，Hattie 可能只使用"成功标准"（success criteria）概念
 > - 成功标准显示"什么意味着成功"，建议以 10–12 周为一个周期；少于此时段则过于狭窄或过于频繁测试(p.256–257)
 >
-> ### 儿童与基本[[Hypothesis\|假设]]
+> ### 儿童与基本假设
 >
 > - 认为 3–5 岁儿童可以有复杂的思维——"只是另一种复杂性"(p.257)
 > - 坚持幼儿可以反思自己的学习——"我更担心 10–12 岁的孩子被教得不会反思"

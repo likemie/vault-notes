@@ -8,7 +8,7 @@ aliases:
 summary: "涵盖科学、技术、工程与数学四大学科的跨学科融合教育范式与国家战略，主张打破传统分科壁垒，依托真实情境问题解决、工程设计与探究实践培养综合创新与认识论素养；在教学论上面向指导式探究与直接讲授的时序整合，并尊重各子学科的特异性认识论规程。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 60
+related_count: 57
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Engineering Education]]"
   - "[[Authentic Instruction]]"
   - "[[Computer Simulation]]"
-  - "[[Hypothesis]]"
   - "[[Heterogeneity]]"
   - "[[Productive Failure]]"
   - "[[Domain Specificity]]"
@@ -55,7 +54,6 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Control of Variables Strategy]]"
   - "[[Self-Efficacy]]"
-  - "[[Document]]"
   - "[[Chain of Evidence]]"
 related_theories:
   - "[[Inquiry Cycle]]"
@@ -63,7 +61,6 @@ related_theories:
   - "[[Knowledge Integration]]"
 related_persons:
   - "[[Ton de Jong]]"
-  - "[[Alfred Nobel]]"
 related_facts:
   - "[[Web-based Inquiry Science Environment]]"
   - "[[PhET Interactive Simulations]]"
@@ -88,7 +85,7 @@ related_methods:
 confidence: high
 status: completed
 created: 2026-06-05
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # STEM Education
@@ -133,7 +130,7 @@ updated: 2026-10-10
 > - **多学科深度有机融合（Interdisciplinary Integration）** 打破单科割裂，将数学量化建模、技术工具中介、工程约束优化与科学实证检验融为一体。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 2)]]
 > - **科学探究与工程设计双螺旋（Inquiry & Design Dual Helix）** 探究科学侧重揭示自然规律与提出解释，[[Engineering Education|工程教育]]侧重在多重约束条件下寻求最优设计方案，二者相互交织驱动。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 142–143)]]
 > - **真实情境[[Problem Solving\|问题解决]]（[[Authentic Instruction\|authentic problem solving]]）** 以生态环境、清洁能源、生物医药等真实复杂情境为载体，引导学生经历完整的认知与实践挑战。
-> - **数字化技术中介与仿真探究（Digital Mediation & [[Computer Simulation\|simulation]]）** 依托高交互微世界与虚拟仿真工具，将不可见的微观机制可视化，支撑[[Hypothesis\|假设]]检验与参数优化。
+> - **数字化技术中介与仿真探究（Digital Mediation & [[Computer Simulation\|simulation]]）** 依托高交互微世界与虚拟仿真工具，将不可见的微观机制可视化，支撑假设检验与参数优化。
 
 > [!logic-map]- 跨学科 STEM 教育的探究与设计双螺旋模型
 > ```mermaid
@@ -184,7 +181,7 @@ updated: 2026-10-10
 > 探讨互动模拟与数字仿真工具如何作为认知中介，帮助学习者直观把握跨学科微观因果机制并实现想法调和。
 
 > [!claim] [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]
-> **技术赋能的微世界概念整合与直观探究** 依托[[Computer Simulation\|计算机仿真]]（如基于网络的探究性科学环境（[[Web-based Inquiry Science Environment]], WISE）与物理教育技术交互式仿真平台（Physics Education Technology Interactive Simulations, [[PhET Interactive Simulations\|PhET]]）），学生能够在高度交互的微世界中实时操纵不可见的物理参数（如分子速率、电磁通量、温室气体浓度）。这种技术中介将抽象的跨学科因果关系动态可视化，不仅大幅降低了理解微观机制的外生认知负荷，而且为学生提供了通过主动[[Hypothesis\|假设]]检验与同伴论辩实现[[Knowledge Integration\|知识整合]]的理想[[Scaffolding\|认知支架]]，显著促进了深层概念迁移与探究能力的提升。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 4–6 引用 Linn et al., 2006; Wieman et al., 2008)]]
+> **技术赋能的微世界概念整合与直观探究** 依托[[Computer Simulation\|计算机仿真]]（如基于网络的探究性科学环境（[[Web-based Inquiry Science Environment]], WISE）与物理教育技术交互式仿真平台（Physics Education Technology Interactive Simulations, [[PhET Interactive Simulations\|PhET]]）），学生能够在高度交互的微世界中实时操纵不可见的物理参数（如分子速率、电磁通量、温室气体浓度）。这种技术中介将抽象的跨学科因果关系动态可视化，不仅大幅降低了理解微观机制的外生认知负荷，而且为学生提供了通过主动假设检验与同伴论辩实现[[Knowledge Integration\|知识整合]]的理想[[Scaffolding\|认知支架]]，显著促进了深层概念迁移与探究能力的提升。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 4–6 引用 Linn et al., 2006; Wieman et al., 2008)]]
 
 ---
 
@@ -236,7 +233,7 @@ updated: 2026-10-10
 > 由加州大学伯克利分校（玛西娅·琳恩领衔）研发的开源探究平台，严格遵循知识整合理论。学生在探究温室效应或板块构造时，首先调动生活前概念，随后在[[Computer Simulation|计算机模拟]]中操控[[Variable|变量]]参数，基于生成的折线图与同伴展开科学论辩与反思，显著提升跨学科因果理解（Linn et al., 2006）。
 
 > [!case] [[PhET Interactive Simulations|PhET]]：高交互微世界中的因果参数操纵
-> [[Alfred Nobel|诺贝尔]]奖得主卡尔·威曼（Carl Wieman）领衔开发的仿真微世界，涵盖电路、量子力学、分子运动等百余个主题。学生通过实时操纵不可见的物理量，在直观可视化的反馈中打破前概念迷思，实证确证其在概念迁移与[[Scientific Attitude|科学态度]]上的显著增益（Wieman et al., 2008; [[Argument_DeJong_2023_ERR|De Jong et al., 2023]]）。
+> 诺贝尔奖得主卡尔·威曼（Carl Wieman）领衔开发的仿真微世界，涵盖电路、量子力学、分子运动等百余个主题。学生通过实时操纵不可见的物理量，在直观可视化的反馈中打破前概念迷思，实证确证其在概念迁移与[[Scientific Attitude|科学态度]]上的显著增益（Wieman et al., 2008; [[Argument_DeJong_2023_ERR|De Jong et al., 2023]]）。
 
 ---
 
@@ -279,7 +276,7 @@ updated: 2026-10-10
 > | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | [[Effect Size\|效应量]] | 显著性或不确定性 | 设计与解释边界 |
 > |---|---|---|---|---|---|---|---|
 > | Klahr & Nigam (2004) | [[Control of Variables Strategy\|变量控制策略]]（CVS）：直接讲授 vs 纯发现探索 | CVS 策略掌握率与跨情境设计迁移 | 112 名三至四年级小学生 | [[Direct Instruction\|直接讲授]]组 77% 掌握 vs 发现组 23% | $d \approx 1.10$ | $p<.001$ | 早期实验室对照实验。确立了显性直接讲授在基础规则学习中的高效率，但未考察长效认识论探究态度。 |
-> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | [[Inquiry-Based Learning\|指导式探究]]学习 vs 传统单向讲授 | 概念理解、长效迁移、[[Scientific Attitude\|科学态度]]与科学[[Self-Efficacy\|自我效能]] | K-12 科学与 STEM 探究[[Document\|文献]]综合与[[Systematic Review\|系统综述]] | — | 指导式探究在深层理解与[[Epistemology\|认识论]]维度全面优于纯讲授 | 综合多项元分析[[Chain of Evidence\|证据链]]确证 | 国际学习科学权威综述；证实指导式探究与时序动态整合是最优教学[[Paradigm\|范式]]。 |
+> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | [[Inquiry-Based Learning\|指导式探究]]学习 vs 传统单向讲授 | 概念理解、长效迁移、[[Scientific Attitude\|科学态度]]与科学[[Self-Efficacy\|自我效能]] | K-12 科学与 STEM 探究文献综合与[[Systematic Review\|系统综述]] | — | 指导式探究在深层理解与[[Epistemology\|认识论]]维度全面优于纯讲授 | 综合多项元分析[[Chain of Evidence\|证据链]]确证 | 国际学习科学权威综述；证实指导式探究与时序动态整合是最优教学[[Paradigm\|范式]]。 |
 
 > [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>

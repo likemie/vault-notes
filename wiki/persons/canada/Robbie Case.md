@@ -7,7 +7,7 @@ summary: "加拿大发展心理学家和新皮亚杰理论家，四子域发展�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 6
+person_related_count: 5
 person_related_level: 0
 person_related_stars: ""
 person_related_color: "#e5e7eb"
@@ -18,8 +18,7 @@ tags:
 - case
 - paradigm/constructivist
 - neo-piagetian
-related_concepts:
-  - "[[Hypothesis]]"
+related_concepts: []
 related_theories:
   - "[[Neo-Piagetian Theories]]"
 related_methods: []
@@ -33,7 +32,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-04'
-updated: 2026-09-11
+updated: 2026-10-15
 ---
 ## 简介
 
@@ -47,7 +46,7 @@ updated: 2026-09-11
 >
 > - **四子域（Four Sub-domains）** — 每个认知领域有不同的组织方式和发展路径
 > - **子阶段递进** — 儿童须先经过其全部四个子阶段后，才进入下一个主要发展阶段
-> - 质疑[[Jean Piaget\|皮亚杰]]"儿童同时仅存在于一个阶段"的[[Hypothesis\|假设]]（Case, 1992）
+> - 质疑[[Jean Piaget\|皮亚杰]]"儿童同时仅存在于一个阶段"的假设（Case, 1992）
 
 ## 测量方法
 

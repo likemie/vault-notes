@@ -9,7 +9,7 @@ summary: "美国哈佛商学院经济学与战略管理学者，当代竞争战�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 31
+person_related_count: 29
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[National Competitive Advantage]]"
   - "[[National Innovation System]]"
   - "[[Regional Innovation System]]"
-  - "[[Document]]"
   - "[[Space of Flows]]"
   - "[[Flow]]"
   - "[[Discourse]]"
@@ -42,7 +41,6 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Going Native]]"
-  - "[[Hypothesis]]"
   - "[[Recontextualization]]"
   - "[[Knowledge-Based Economization]]"
   - "[[Innovation Hub]]"
@@ -79,7 +77,7 @@ updated: 2026-10-15
 
 > [!person-profile] 人物档案
 > - **身份位置** 迈克尔·E·波特（Michael E. Porter），美国当代著名经济学与战略管理学者，哈佛商学院主教威廉·劳伦斯大学教授（Bishop William Lawrence University Professor）。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 27)]]
-> - **核心角色** 当代竞争战略与产业集群理论的开创者。在产业经济学与管理学界奠定了五力模型与价值链理论；在创新经济学中，其 1990 年《[[National Competitive Advantage|国家竞争优势]]》提出的“钻石模型”（Diamond Model）成为[[National Innovation System|国家创新系统]]与[[Regional Innovation System|区域创新系统]][[Document|文献]]的重要参照；在[[Critical Geopolitics|批判地缘政治学]]中，其理论被定性为塑造全球枢纽与[[Space of Flows|流动空间]]想象（Hub-and-[[Flow]] Imaginaries）的关键[[Discourse|话语]]来源。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 20–21)]]; [[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 26–27)]]
+> - **核心角色** 当代竞争战略与产业集群理论的开创者。在产业经济学与管理学界奠定了五力模型与价值链理论；在创新经济学中，其 1990 年《[[National Competitive Advantage|国家竞争优势]]》提出的“钻石模型”（Diamond Model）成为[[National Innovation System|国家创新系统]]与[[Regional Innovation System|区域创新系统]]文献的重要参照；在[[Critical Geopolitics|批判地缘政治学]]中，其理论被定性为塑造全球枢纽与[[Space of Flows|流动空间]]想象（Hub-and-[[Flow]] Imaginaries）的关键[[Discourse|话语]]来源。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 20–21)]]; [[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 26–27)]]
 > - **代表贡献** 国家竞争优势理论与钻石模型；产业集群（Industrial Clusters）与[[Agglomeration Externalities|空间集聚外部性]]分析；企业竞争战略与五力[[Analytic Framework|分析框架]]。
 
 > [!citation-card] 莫伊西奥论波特理论的地缘政治构成性角色
@@ -141,7 +139,7 @@ updated: 2026-10-15
 
 > [!influence-path] 影响路径
 > - **理论路径** [[National Competitive Advantage|钻石模型]]直接拓宽了产业经济学对创新的空间理解，与[[Evolutionary Economics|演化经济学]]家（如弗里曼、[[Bengt-Åke Lundvall|伦德瓦尔]]）的[[National Innovation System|国家创新系统]]理论形成强烈呼应，奠定了当代次国家级[[Regional Innovation System|区域创新系统]]与集群经济学（Storper & Harrison, 1991; Scott, 1991）的学理基石。
-> - **方法路径** 倡导基于微观企业[[Fieldwork|实地调查]]、跨国跨行业案例对比与产业链上下游关联测度的系统分析法，打破了宏观新古典增长模型脱离生产现场的抽象[[Hypothesis|假设]]。
+> - **方法路径** 倡导基于微观企业[[Fieldwork|实地调查]]、跨国跨行业案例对比与产业链上下游关联测度的系统分析法，打破了宏观新古典增长模型脱离生产现场的抽象假设。
 > - **政策路径** 其集群理论被[[OECD|经济合作与发展组织]]（OECD）、欧盟委员会及全球数十个主权国家采纳为产业政策指导纲领，引发了全球范围内建设高新产业园、科学城、创新走廊与国家冠军城市的浪潮。
 > - **批判性地缘政治学[[Recontextualization|再脉络化]]** 在当代[[Critical Geopolitics|批判地缘政治学]]分析中，波特的[[Discourse|话语]]被揭示为驱动高等教育“[[Knowledge-Based Economization|知识经济化]]”的关键意识形态源泉，推动大学被全面重塑为服务于国家地缘经济竞争的[[Innovation Hub|创新枢纽]]。[[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 26–27)]]
 

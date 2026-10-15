@@ -9,7 +9,7 @@ summary: "美国社会学家，加州大学圣地亚哥分校荣休教授，存�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 27
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Interpretive Paradigm]]"
   - "[[Positivism]]"
-  - "[[Hypothesis]]"
   - "[[Reflexivity]]"
   - "[[Commensuration]]"
   - "[[Indexicality]]"
@@ -58,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-01
+updated: 2026-10-15
 ---
 
 # Jack Douglas
@@ -69,7 +68,7 @@ updated: 2026-10-01
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国社会学家，加利福尼亚大学圣迭戈分校（UCSD）社会学系荣休教授，日常生活社会学（Sociology of Everyday Life）与存在主义社会学（Existential Sociology）的创立者与领军学者。
-> - **核心角色** 在社会[[Scientific Method\|科学方法]]论中提出划时代的“[[Normative Paradigm\|规范范式]]”（Normative [[Paradigm]]）与“[[Interpretive Paradigm\|诠释范式]]”（Interpretive Paradigm）两分模型，首次系统揭示[[Positivism\|实证主义]]与[[Structural Functionalism|结构功能主义]]共享的“先验规则统治”[[Hypothesis\|假设]]，为当代教育与社会探究的方法论范式划界奠定基石。
+> - **核心角色** 在社会[[Scientific Method\|科学方法]]论中提出划时代的“[[Normative Paradigm\|规范范式]]”（Normative [[Paradigm]]）与“[[Interpretive Paradigm\|诠释范式]]”（Interpretive Paradigm）两分模型，首次系统揭示[[Positivism\|实证主义]]与[[Structural Functionalism|结构功能主义]]共享的“先验规则统治”假设，为当代教育与社会探究的方法论范式划界奠定基石。
 > - **代表贡献** 提出规范范式与诠释范式的宏观切分架构（Douglas, 1973）；开创存在主义社会学与官方统计数据建构论批判（《自杀的社会意义》*The Social Meanings of Suicide*, 1967；《理解日常生活》*Understanding Everyday Life*, 1970）；深入剖析行动与规则的复杂[[Reflexivity\|反身性]]关系。
 
 ---
@@ -149,6 +148,6 @@ updated: 2026-10-01
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Normative Paradigm]] | 概念 | 首次正式命名并界定规范[[Paradigm\|范式]]的核心假定与宏大因果诉求。 |
-> | [[Interpretive Paradigm]] | 概念 | 确立诠释范式作为对抗[[Positivism\|实证主义]]规则统治[[Hypothesis\|假设]]的核心替代模型。 |
+> | [[Interpretive Paradigm]] | 概念 | 确立诠释范式作为对抗[[Positivism\|实证主义]]规则统治假设的核心替代模型。 |
 > | [[Positivism]] | 概念 | 将实证主义社会学定位为规范范式的代表性哲学形态。 |
 > | [[Voluntarism]] | 概念 | 为诠释范式中行动者的意图导向与自由选择提供哲学支撑。 |

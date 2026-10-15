@@ -8,7 +8,7 @@ aliases:
 summary: "在生成式人工智能大幅降低假说提出与论文撰写成本背景下提出的科研认识论与治理标准；主张从过度奖励首发与篇数的旧范式，转向生成与核验等规模协同扩建，通过原始数据全量开源、计算算法机器沙盒隔离复现、形式化数学定理证明及设立专职证伪复现奖金，筑牢真实可复现的科学基底。"
 type: concept
 domain: "science-policy"
-related_count: 18
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Dynamic Research Notebook]]"
   - "[[Publication Bias]]"
   - "[[Scientific Paradigm]]"
-  - "[[Document]]"
   - "[[Replication in Education Research]]"
   - "[[Goodhart's Law]]"
 related_theories: []
@@ -46,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Gold Standard Science
@@ -120,7 +119,7 @@ updated: 2026-10-07
 > [!ref-table]- 黄金标准科学实证数据与机器核验突破
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究[[Document\|文献]] | 样本与情境 | 考察指标与设计 | 原始实证结果 | 理论解释边界 |
+> | 研究文献 | 样本与情境 | 考察指标与设计 | 原始实证结果 | 理论解释边界 |
 > |:---|:---|:---|:---|:---|
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 66–67)]] | 2024–2025 年素数定理形式化验证项目 | 人类团队（全球 20 余名数学家协作）vs AI 赋能自动化形式化系统验证周期与准确率对比 | 人类数学家耗时 18 个月未获完全形式化验证；AI 系统借助 Lean 证明器仅用 3 周完成包含 1,100 个定理与定义的全量形式化验证 | 证实形式化机器核验在复杂长链逻辑验证中的超凡效率，展示黄金标准在纯科学中的落地潜能 |
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 65)]] | 全美生物医药与社会科学近万篇顶级期刊论文复现普查 | 计算代码可用性、原始数据开源率与自动化复现成功率统计 | 逾 50% 顶级论文因代码缺失、环境依赖不完整而无法被外部沙盒成功复现 | 实证揭示传统静态出版[[Paradigm\|范式]]的严重危机，支撑国家推行强制黄金标准行政令 |
@@ -130,7 +129,7 @@ updated: 2026-10-07
 ## 命题总览
 
 > [!contrast-table] 黄金标准科学核心命题归纳
-> | 命题维度 | 核心命题名称 | 关键作用机制 | 核心论证[[Document\|文献]] |
+> | 命题维度 | 核心命题名称 | 关键作用机制 | 核心论证文献 |
 > |:---|:---|:---|:---|
 > | **生态平衡** | **生成与核验等规模扩建** | 抑制低质论文大火蔓延，要求发现加速与核验基建扩建保持严格对齐 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 60–65)]] |
 > | **[[Epistemology\|认识论]]重构** | **机器核验终局与确定性** | 引入沙盒一键复现与形式化机器证明，消灭主观信用与统计篡改 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 65–67)]] |

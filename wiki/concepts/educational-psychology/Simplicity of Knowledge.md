@@ -8,7 +8,7 @@ aliases:
 summary: "衡量个体认为知识是孤立、离散的事实片段，还是高度互联的复杂概念网络。构成了认识论理论中“知识的本质”维度的核心支柱，实证表明其是制约学生在劣构任务中开展反思性判断与获得优异学业成就的关键认知瓶颈。"
 type: concept
 domain: "educational-psychology"
-related_count: 22
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -17,7 +17,6 @@ tags:
   - "level/secondary"
 related_concepts:
   - "[[Epistemological Theories]]"
-  - "[[Hypothesis]]"
   - "[[Rote Learning]]"
   - "[[Surface and Deep Learning]]"
   - "[[Task Structure]]"
@@ -47,7 +46,7 @@ related_arguments:
 status: active
 confidence: high
 created: 2026-08-14
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Simplicity of Knowledge
@@ -61,7 +60,7 @@ updated: 2026-09-22
 > 知识的简单性（simplicity of knowledge，在量化测验中常简称为简单知识，simple knowledge，SK）是构成[[Epistemological Theories\|认识论理论]]的核心维度之一（属于“知识的本质”范畴）。它指的是个体关于知识组织结构的底层信念：知识究竟是一系列相互孤立、无歧义且无需概念整合的离散事实清单，还是一个高度互联、充满条件性且依赖于具体情境的复杂概念网络。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 120)]]; [[Argument_Lodewyk_2007_EP\|(Lodewyk, 2007, pp. 309-310)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 衡量个体在认知加工中对“知识复杂性与概念整合必要性”的深层[[Hypothesis\|假设]]。
+> - **含义** 衡量个体在认知加工中对“知识复杂性与概念整合必要性”的深层假设。
 > - **用途** 解释为何部分学生习惯于采取[[Rote Learning\|机械记忆]]孤立术语的[[Surface and Deep Learning\|表层学习]]策略，以及为何在面对开放复杂的[[Task Structure\|劣构任务]]时产生认知超载与论辩挫折。
 > - **边界** 知识的简单性侧重于知识的“结构形态（孤立碎片 vs 网络交织）”，区别于[[Certainty of Knowledge\|知识的确定性]]（侧重于真理的固定性与绝对性）。
 

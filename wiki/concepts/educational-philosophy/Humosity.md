@@ -5,7 +5,7 @@ aliases:
 summary: "将人类去中心化并置入物质循环之中的后人类主义概念，强调人类生命只是更广泛生态生成与腐解过程中的一环"
 type: concept
 domain: "educational-philosophy"
-related_count: 8
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Posthumanism]]"
   - "[[Transhumanism]]"
   - "[[Humility]]"
-  - "[[Hypothesis]]"
   - "[[Sympoiesis]]"
   - "[[Response-ability]]"
 related_theories: []
@@ -33,7 +32,7 @@ related_arguments:
 confidence: low
 status: draft
 created: 2026-05-08
-updated: 2026-09-23
+updated: 2026-10-15
 ---
 
 ## 定义
@@ -47,7 +46,7 @@ updated: 2026-09-23
 ## 词源与创造
 
 
-Humosity 的词根是 **humus**（腐殖质、泥土），与 human（人类）、[[Humility]]（谦逊）共享拉丁词源 *humus*（大地、土壤）。Hogness 的造词行为本身就是一种世界制造（world making）：通过在一个词里把"人类"和"泥土"重新连接，来松动"人是宇宙中心"的默认[[Hypothesis|假设]]([[Argument_Amos_2022_Springer|Amos, 2022, p.62]])。
+Humosity 的词根是 **humus**（腐殖质、泥土），与 human（人类）、[[Humility]]（谦逊）共享拉丁词源 *humus*（大地、土壤）。Hogness 的造词行为本身就是一种世界制造（world making）：通过在一个词里把"人类"和"泥土"重新连接，来松动"人是宇宙中心"的默认假设([[Argument_Amos_2022_Springer|Amos, 2022, p.62]])。
 
 ---
 

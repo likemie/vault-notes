@@ -23,7 +23,6 @@ related_concepts:
   - "[[Justification for Knowing]]"
   - "[[Epistemology]]"
   - "[[Construct]]"
-  - "[[Hypothesis]]"
   - "[[Epistemic Cognition]]"
   - "[[Ontology]]"
   - "[[Multiplicity]]"
@@ -70,7 +69,7 @@ title: "Argument_Hofer_1997_RER"
 argument_key: "Argument_Hofer_1997_RER"
 argument_display_title: "The development of epistemological theories: Beliefs about knowledge and knowing and their relation to learning"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -94,7 +93,7 @@ issuing_organization: ""
 
 > [!info] 阅读透镜
 > - **对象** 过往六种研究个人[[Epistemology\|认识论]]发展的心理学模型。
-> - **张力** 现有模型在[[Construct\|构念]]定义、测量方法和独立维度[[Hypothesis\|假设]]上存在分歧，难以形成整合的[[Epistemic Cognition\|认识论认知]]研究框架，且常将学习、教学的信念与纯粹的认识论信念相混淆。
+> - **张力** 现有模型在[[Construct\|构念]]定义、测量方法和独立维度假设上存在分歧，难以形成整合的[[Epistemic Cognition\|认识论认知]]研究框架，且常将学习、教学的信念与纯粹的认识论信念相混淆。
 > - **贡献** 系统梳理并按主题分类比较了已有模型，澄清了认识论的边界，并提炼出了四维度的认识论理论。
 
 ---
@@ -279,7 +278,7 @@ Schommer (1990) 编制了包含 63 个题目的量表，提取出了四到五个
 >   知识是绝对不变的。
 
 > [!critique] 对 Schommer 独立维度模型的批评
-> - **混入非[[Epistemology\|认识论]]成分** 固定能力实质属于隐性智力理论（Dweck & Leggett），快速学习涉及对学习任务难度的预期。二者已偏离了严格哲学意义上对知识本身的认识论[[Hypothesis\|假设]]。(p. 108)
+> - **混入非[[Epistemology\|认识论]]成分** 固定能力实质属于隐性智力理论（Dweck & Leggett），快速学习涉及对学习任务难度的预期。二者已偏离了严格哲学意义上对知识本身的认识论假设。(p. 108)
 > - **因子结构不稳定** 后续研究发现，其量表在不同样本中的因子结构缺乏一致的重现性。(p. 110)
 
 ---

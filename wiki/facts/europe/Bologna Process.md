@@ -12,9 +12,9 @@ subtype: policy
 region: europe
 fact_region: "europe"
 fact_kind: "policy"
-fact_related_count: 24
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 23
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 tags:
   - bologna-process
@@ -40,7 +40,6 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons:
-  - "[[Isaiah Berlin]]"
   - "[[António Nóvoa]]"
   - "[[José Luis García Garrido]]"
   - "[[Jason Beech]]"
@@ -94,7 +93,7 @@ updated: 2026-10-15
 > - **1998 年 《索邦宣言》签署** 法、德、意、英四国教育部长在巴黎索邦大学聚会，首次倡议协调全欧高等教育资格架构，拉开区域改革序幕。
 > - **1999 年 《博洛尼亚宣言》签署与进程正式启动** 29 国教育部长确立 2010 年前建成“欧洲高等教育区”（EHEA）的战略目标。
 > - **2001 年 布拉格公报与行动者扩容** 确立[[Lifelong Learning|终身学习]]支柱，欧洲大学协会（European University Association, [[Epistemological Understanding Assessment|EUA]]）与欧洲学生联盟（ESU）作为正式咨询成员加入治理网络。
-> - **2003 年 [[Isaiah Berlin|柏林]]公报与博士层级纳管** 将博士研究生阶段明确纳入博洛尼亚三级学制的第三周期，全面推进欧洲学分转换系统（ECTS）与质量保障建设。
+> - **2003 年 柏林公报与博士层级纳管** 将博士研究生阶段明确纳入博洛尼亚三级学制的第三周期，全面推进欧洲学分转换系统（ECTS）与质量保障建设。
 > - **2005 年 卑尔根公报与 [[European Standards and Guidelines|ESG]] 标准确立** 正式采纳欧洲高等教育区质量保障标准与指南（ESG），确立国家资格框架对齐基准。
 > - **2010 年 维也纳-布达佩斯部长级会议与 EHEA 正式宣告落成** 进程走满初创十年，成员国扩充至 47 国，欧洲高等教育区宣告正式建立；但南部欧洲等部分成员国被曝出现实质改革滞后与表面对标危机。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 332–333)]]
 > - **2020 年代 罗马公报与深度互联** 成员国扩展至 49 国，重点转向全包容性高等教育、微证书认证、数字化创新教学与绿色可持续发展议题。

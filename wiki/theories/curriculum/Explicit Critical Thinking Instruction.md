@@ -8,10 +8,10 @@ aliases:
 summary: "主张批判性思维应通过独立的专门课程显性教授而非作为学科学习副产品隐性培养的教学理论，以元分析证据为支撑，强调教师培训和专门课程设计的关键作用。"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 42
-theory_related_level: 5
-theory_related_stars: "⭐⭐⭐⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_count: 39
+theory_related_level: 4
+theory_related_stars: "⭐⭐⭐⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theme/critical-thinking
   - theme/curriculum
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Didaktik]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
-  - "[[Hypothesis]]"
   - "[[Theory of Knowledge]]"
   - "[[International Baccalaureate]]"
   - "[[Metacognition]]"
@@ -34,7 +33,6 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
-  - "[[Habitus]]"
   - "[[Research Question]]"
   - "[[Heterogeneity]]"
   - "[[Critical Pedagogy]]"
@@ -51,7 +49,6 @@ related_methods:
   - "[[Case Study]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Prediction Interval]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Correlational Research]]"
@@ -68,7 +65,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-06-30
-updated: 2026-09-29
+updated: 2026-10-15
 ---
 
 # Explicit Critical Thinking Instruction
@@ -94,7 +91,7 @@ updated: 2026-09-29
 >
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
-> | [[Critical Thinking]] | 概念 | 理论所要发展的目标能力——包括分析和评估论证、澄清意义、反思[[Hypothesis\|假设]]、基于证据推理等认知技能与倾向 |
+> | [[Critical Thinking]] | 概念 | 理论所要发展的目标能力——包括分析和评估论证、澄清意义、反思假设、基于证据推理等认知技能与倾向 |
 > | [[Theory of Knowledge]] | 概念 | [[International Baccalaureate\|IB]] DP 中体现显性教学路径的实践案例，即一个不教授固定内容、专门培养学生批判性思维的独立课程 |
 > | [[Metacognition\|元认知]]（Metacognition） | 概念 | 批判性思维的高阶组成部分，指对自己思维过程的意识和调节；显性教学被认为更能促进元认知发展 |
 > | 教师培训（Teacher Training） | 机制 | 调节显性教学效果的关键[[Variable\|变量]]——教师接受批判性思维教学法培训后，学生获益最大 |
@@ -133,21 +130,21 @@ updated: 2026-09-29
 > - **推论二（源自核心命题二和三）** 即使开设了独立课程，批判性思维教学的效果仍取决于学校的实施方式。[[Case Study\|案例研究]]显示，不同学校对同一门 ToK 课程的诠释和[[Operationalization\|操作化]]差异很大——有的学校将 ToK 视为全校批判性思维计划的核心，有的学校则过度依赖全班讨论而缺乏目的性教学（[[Argument_Cole_2015_AJE\|Cole et al., 2015, pp. 256–257]]）。
 
 > [!exegesis]- 教育研究例子
-> 以核心命题一为例：[[Hypothesis\|假设]]一所学校在 11–12 年级设置了一门独立的批判性思维课程（如 ToK），每周 3 课时。教师接受了专门的批判性思维教学法培训，课程设计包括分析论证结构、评估证据质量、识别逻辑谬误、撰写论证文等显性教学活动。与此同时，另一所学校将批判性思维列为所有学科的"隐性期望"，但没有专门课程或教师培训。根据本理论的预测，第一所学校的学生在标准化批判性思维测量上应表现出更高的技能水平和更强的思维倾向——这一预测在 [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] 的澳大利亚研究中得到了初步支持：完成 ToK 课程的学生在 [[Critical Thinking Strategies Scale\|CTSS]]、[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ]] 批判性思维分量表和 [[California Critical Thinking Disposition Inventory\|CCTDI]] 上的得分均高于对照组。
+> 以核心命题一为例：假设一所学校在 11–12 年级设置了一门独立的批判性思维课程（如 ToK），每周 3 课时。教师接受了专门的批判性思维教学法培训，课程设计包括分析论证结构、评估证据质量、识别逻辑谬误、撰写论证文等显性教学活动。与此同时，另一所学校将批判性思维列为所有学科的"隐性期望"，但没有专门课程或教师培训。根据本理论的预测，第一所学校的学生在标准化批判性思维测量上应表现出更高的技能水平和更强的思维倾向——这一预测在 [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] 的澳大利亚研究中得到了初步支持：完成 ToK 课程的学生在 [[Critical Thinking Strategies Scale\|CTSS]]、[[Motivated Strategies for Learning Questionnaire Critical Thinking Subscale\|MSLQ]] 批判性思维分量表和 [[California Critical Thinking Disposition Inventory\|CCTDI]] 上的得分均高于对照组。
 
 ---
 
 ## 理论立场与使用方式
 
 > [!theory-stance] [[Epistemology\|认识论]]立场
-> - **[[Ontology\|本体论]]** [[Critical Thinking\|批判性思维]]被视为一组可识别、可教学、可测量的认知技能和倾向，而非仅是个体特质或文化[[Habitus\|习性]]的产物。
+> - **[[Ontology\|本体论]]** [[Critical Thinking\|批判性思维]]被视为一组可识别、可教学、可测量的认知技能和倾向，而非仅是个体特质或文化习性的产物。
 > - **认识论** 本理论依赖教育心理学实证研究（实验、准实验、[[Meta-analysis\|元分析]]）的证据，将教学效果的[[Operationalization\|操作化]]定义为学生在标准化测量上的得分变化。
 > - **方法含义** 支持使用[[Randomised Controlled Trials\|随机对照试验]]、[[Quasi-Experimental Designs\|准实验设计]]和元分析来检验不同教学路径的效果；需要有效的批判性思维测量工具（如 [[California Critical Thinking Disposition Inventory\|CCTDI]]、[[Critical Thinking Strategies Scale\|CTSS]] 等）。
 > - **不能直接推出的东西** 不能从"显性教学更有效"直接推出"应在所有学校强制开设批判性思维独立课程"——这一推论需要额外的政策分析（课程空间、教师供给、资源成本和公平性考量）。也不能推出"学科教师不需要教授批判性思维"——理想状态是在独立课程和跨学科融入之间建立互补关系。
 
 > [!theory-use] 如何用于研究
 > - **作为理论框架** 用于组织关于批判性思维教学效果的[[Research Question\|研究问题]]：教学路径（显性 vs 隐性）、教师[[Variable\|变量]]（培训 vs 未培训）、学生变量（年级间增长、群体间差异）如何交互影响批判性思维结果。
-> - **作为分析工具** 用于[[Coding in Qualitative Research\|编码]]和比较不同教育项目或政策的批判性思维教学方式，判断其属于显性还是隐性路径，并预测其可能的效果。
+> - **作为分析工具** 用于编码和比较不同教育项目或政策的批判性思维教学方式，判断其属于显性还是隐性路径，并预测其可能的效果。
 > - **作为批判视角** 用于揭示隐性融入路径在实践中的制度性缺陷，特别是批判性思维教育在弱势学生群体中的不平等提供。
 > - **报告方式** 研究成果应说明教学路径的操作化定义、教师培训情况、测量工具的信效度，以及研究设计能否分离显性教学的效果与其他混淆变量（如选课效应）。
 

@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 19
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -27,10 +27,8 @@ tags:
   - region/us
 related_concepts:
   - "[[Response to Intervention]]"
-  - "[[Hypothesis]]"
   - "[[Evidence Standards]]"
   - "[[Evidence-Based Education]]"
-  - "[[Teaching Assistant]]"
   - "[[Evaluation Research]]"
 related_theories: []
 related_methods:
@@ -54,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-17'
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Reading Recovery
@@ -77,7 +75,7 @@ updated: 2026-09-17
 ## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
-> 项目[[Hypothesis\|假设]]通过专业认证教师每日开展 30 分钟高保真度的一对一个别辅导，结合儿童自选阅读材料、动态观察记录（Running Records）与针对性拼读策略，能够使绝大多数原本需要转入特殊教育的落后儿童在半学年内重返年级平均阅读水平。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 27–28)]]
+> 项目假设通过专业认证教师每日开展 30 分钟高保真度的一对一个别辅导，结合儿童自选阅读材料、动态观察记录（Running Records）与针对性拼读策略，能够使绝大多数原本需要转入特殊教育的落后儿童在半学年内重返年级平均阅读水平。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 27–28)]]
 
 > [!policy-design]- 方案设计
 > - **干预形态与配置** 严格的一对一（1:1）个别化辅导，由经过为期一年大学研究生层级专业培训的认证教师担任辅导员，每日 30 分钟，持续 12 至 20 周。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
@@ -96,7 +94,7 @@ updated: 2026-09-17
 > [!dev-timeline] 项目推进历程
 > - **1970 年代 — 新西兰研发与理论成型期** 玛丽·克莱通过对儿童早期阅读行为的[[Qualitative Observation\|质性观察]]与临床测验，系统研发 Reading Recovery 干预规程。
 > - **1984–2009 — 北美扩散与跨国规模化期** 俄亥俄州立大学建立全美培训中心网络，广泛进入各州公立小学 [[Title I of the Elementary and Secondary Education Act\|Title I]] 辅导项目。
-> - **2010–至今 — 联邦 i3 验证与成本效益论辩期** 获得联邦 i3 计划 4500 万美元规模化资助并完成大型全美多中心 [[Randomised Controlled Trials\|RCT]] 评估，同时在[[Evidence-Based Education\|循证教育]]界引发与教学[[Teaching Assistant\|助教]]辅导模式的成本效益对比争鸣。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 23–24, 28)]]
+> - **2010–至今 — 联邦 i3 验证与成本效益论辩期** 获得联邦 i3 计划 4500 万美元规模化资助并完成大型全美多中心 [[Randomised Controlled Trials\|RCT]] 评估，同时在[[Evidence-Based Education\|循证教育]]界引发与教学助教辅导模式的成本效益对比争鸣。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 23–24, 28)]]
 
 ---
 
@@ -104,7 +102,7 @@ updated: 2026-09-17
 
 > [!finding-cards] 核心实证结论
 > - **显著的即时因果效应** [[Argument_Slavin_2019_EP\|Slavin (2019)]] 汇总的 4 项符合严格因果标准的[[Evaluation Research\|评估研究]]显示，Reading Recovery 平均[[Effect Size\|效应量]]达 $ES = +0.42$，在 [[What Works Clearinghouse\|WWC]] 与 [[Evidence for ESSA]] 中均被评定为强证据（Strong）。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
-> - **成本效益与普及瓶颈** 虽然教学效能卓越，但由于必须配备全职认证教师且师生比为 1:1，每生干预成本高达数千美元；[[Robert Slavin\|罗伯特·斯莱文]]（Robert E. Slavin）指出，由受训[[Teaching Assistant\|助教]]实施的脚本化辅导（如 [[Sound Partners]] $ES = +0.43$）能以不到一半的人力成本取得相当的阅读提升，为公立学校提供了更高性价比的替代选项。
+> - **成本效益与普及瓶颈** 虽然教学效能卓越，但由于必须配备全职认证教师且师生比为 1:1，每生干预成本高达数千美元；[[Robert Slavin\|罗伯特·斯莱文]]（Robert E. Slavin）指出，由受训助教实施的脚本化辅导（如 [[Sound Partners]] $ES = +0.43$）能以不到一半的人力成本取得相当的阅读提升，为公立学校提供了更高性价比的替代选项。
 
 ---
 

@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch01"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch01"
 argument_display_title: "Chapter one: Education"
 argument_kind: "book-chapter"
-argument_related_count: 59
+argument_related_count: 58
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -62,7 +62,6 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Brainstorming]]"
   - "[[Science Capital]]"
-  - "[[Attrition]]"
   - "[[Authentic Science Practices]]"
   - "[[Seed Funding]]"
   - "[[Knowledge-Based Economy]]"
@@ -222,7 +221,7 @@ updated: 2026-10-11
 > [!warrant]- 实验探究萎缩的三重系统成因与科学资本分化
 > - **大纲超载与应试回忆导向** 考试体系高度偏重知识点回忆与纸笔作答，教师迫于进度压力被迫放弃耗时的探究实验，转为演示甚至讲实验。
 > - **学校实验耗材经费严重受挤压** 财政紧缩导致学校日常生均经费吃紧，实验耗材与设备更新预算被大幅削减。
-> - **专业实验技术员（Technicians）队伍[[Attrition\|流失]]** 待遇偏低与职业通道狭窄导致专业实验员流失严重，教师因缺乏课前准备与安全保障支持而难于开齐实验。（p. 33）
+> - **专业实验技术员（Technicians）队伍流失** 待遇偏低与职业通道狭窄导致专业实验员流失严重，教师因缺乏课前准备与安全保障支持而难于开齐实验。（p. 33）
 > - **科学资本（Science Capital）与社会阶层固化** 伦敦大学学院 ASPIRES 2 纵向追踪表明，高社会经济地位家庭子女拥有更丰富的课外科技网络与文化资源，科学抱负显著高于弱势群体；而在物理、计算机等学科上，女性选修比例长期偏低。（p. 32）
 
 > [!case] 案例研究：真实科研课题探究与课外 STEM 拓展机制（[[Authentic Science Practices|authentic inquiry]] & STEM Enrichment）
@@ -320,7 +319,7 @@ updated: 2026-10-11
 > [!finding-cards] 核心发现
 > 1. **[[Scientific Literacy\|科学素养]]从事实记忆转向证据评估与运作机制理解** 科学教育必须超越孤立概念灌输，着重培养多源信息批判评估能力与审慎理解[[Scientific Uncertainty\|科学不确定性]]的理性公民。（pp. 30–31）
 > 2. **[[Data Literacy\|数据素养]]与 [[AI Literacy\|人工智能素养]]构成新型通用关键胜任力** 必须将概率风险意识、数据图表解读及防范[[Cognitive Offloading\|认知外包]]的批判性 AI 素养深度融入课程体系。（pp. 31–32）
-> 3. **中学课堂动手实验课时面临腰斩式系统性萎缩危机** 英格兰 14–16 岁学生至少每两周一次实验的比例从 2016 年的 44% 暴跌至 2023 年的 26%，受困于应试压力、耗材短缺与技术员[[Attrition\|流失]]。（p. 33）
+> 3. **中学课堂动手实验课时面临腰斩式系统性萎缩危机** 英格兰 14–16 岁学生至少每两周一次实验的比例从 2016 年的 44% 暴跌至 2023 年的 26%，受困于应试压力、耗材短缺与技术员流失。（p. 33）
 > 4. **后 16 岁 3 门 A-level 过早专门化分科造成学科狭窄化** 亟待打破英格兰狭隘分科传统，推行直至 18 岁的全员宽口径跨学科教育，维持数理与人文艺术均衡。（pp. 34–35）
 > 5. **[[Teacher Professional Agency\|教师专业自主权]]与全周期学科 CPD 是破除师资危机的根本投资** 43% 教师报告专业师资短缺损害学业，学科专属 CPD 能显著促进教师留任并为国家节约 5850 万英镑财政成本。（pp. 35–37）
 

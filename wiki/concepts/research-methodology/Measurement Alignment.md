@@ -8,10 +8,10 @@ aliases:
 summary: "在教育心理学实证研究中，测量工具与结果变量在特异性颗粒度及学科情境维度上的严格对应匹配，是避免效应量人为衰减的核心方法论法则。"
 type: concept
 domain: "research-methodology"
-related_count: 31
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/methodology
   - educational-measurement
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Academic Achievement]]"
   - "[[Construct]]"
-  - "[[Document]]"
   - "[[Variable]]"
   - "[[Ontology]]"
   - "[[Reliability]]"
@@ -34,7 +33,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Epistemological Beliefs]]"
   - "[[Heterogeneity]]"
-  - "[[Hypothesis]]"
   - "[[Justificatory Standards]]"
   - "[[Reliable Epistemic Processes]]"
   - "[[Developer-Made Measures]]"
@@ -54,7 +52,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-08-19
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Measurement Alignment
@@ -69,7 +67,7 @@ updated: 2026-09-22
 
 > [!concept-lens] 概念透镜
 > - **含义** 强调心理构念并非悬空的通用特质，而是依附于具体情境与任务层级的动态过程；测量标尺必须与目标产出在尺度上保持几何对齐。
-> - **用途** 解释以往[[Document\|文献]]中实证[[Effect Size\|效应量]]冲突与“虚假不显著”现象，为[[Questionnaire\|问卷]]编制与实验设计提供颗粒度匹配的标准规范。
+> - **用途** 解释以往文献中实证[[Effect Size\|效应量]]冲突与“虚假不显著”现象，为[[Questionnaire\|问卷]]编制与实验设计提供颗粒度匹配的标准规范。
 > - **边界** 它界定的是自[[Variable\|变量]]与因变量之间的测量匹配度，本身不改变构念的[[Ontology\|本体论]]性质，也不能完全替代测量工具自身的内部[[Reliability\|信度]]。
 
 > [!boundary]- 概念边界
@@ -99,7 +97,7 @@ updated: 2026-09-22
 ## 理论主张与核心命题
 
 ### 命题一　双重测量对齐是释放认识论认知预测效力的决定性方法论红利
-> [!concept-lens] 测量对齐的统计效应[[Hypothesis\|假设]]
+> [!concept-lens] 测量对齐的统计效应假设
 > [[Epistemic Cognition\|认识论认知]]与[[Academic Achievement\|学业成就]]的关联强度不仅取决于理论本身，更受制于测量维度的匹配纯度。
 
 > [!claim] Greene, J.

@@ -7,10 +7,10 @@ aliases:
 summary: "指公共政策制定中针对同一客观情境或治理问题同时并存多种互不相容、无法通约的思考方式与价值取向的生态特征。在信息过量时代，更多知识证据无法自发消除歧义性，反而加剧解释撕裂，促使决策者将数字作为理性表象的脚手架以应对多元分歧。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 42
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 38
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - concept/educational-policy-reform
   - theme/policy-process
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Return on Investment]]"
   - "[[Policy Brokerage]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Problem Finding]]"
   - "[[Policy Entrepreneur]]"
   - "[[Policy Window]]"
@@ -41,8 +40,6 @@ related_concepts:
   - "[[Knowledge Mediation]]"
   - "[[Literature Review]]"
   - "[[Variable]]"
-  - "[[Document]]"
-  - "[[Attrition]]"
 related_theories:
   - "[[Multiple Streams Framework]]"
   - "[[Post-structuralism]]"
@@ -50,7 +47,6 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Sample Size Determination]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Correlational Research]]"
@@ -67,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Policy Ambiguity
@@ -144,7 +140,7 @@ updated: 2026-10-07
 > **组织信息生产的符号功能超越决策功能** 官僚组织生产海量信息的首要动机往往不是为了在决策前消除认知模糊，而是作为展现自身理性运作、专业素养与审慎形象的组织符号；信息越充裕，组织内部对信息的解读分支便越繁杂，歧义性深植于官僚生态结构之中。
 
 > [!claim] [[Gita Steiner-Khamsi\|Steiner-Khamsi, G.]]
-> **[[Surplus of Evidence\|证据过剩]]催生[[Policy Brokerage\|政策中介]]的选择性[[Transfer Translation Transformation\|转译]]** 在信息过载环境下，单纯积累更多实证数据无法自动实现证据知情的政策制定；相反，证据的泛滥恰恰为政策中介机构提供了巨大的政治套利空间——中介机构通过选择性筛选特定研究、将其[[Coding in Qualitative Research\|编码]]为权威证据，帮助政府在充满歧义的意见丛林中强行确立单一合法叙事。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
+> **[[Surplus of Evidence\|证据过剩]]催生[[Policy Brokerage\|政策中介]]的选择性转译** 在信息过载环境下，单纯积累更多实证数据无法自动实现证据知情的政策制定；相反，证据的泛滥恰恰为政策中介机构提供了巨大的政治套利空间——中介机构通过选择性筛选特定研究、将其编码为权威证据，帮助政府在充满歧义的意见丛林中强行确立单一合法叙事。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
 
 ---
 
@@ -177,7 +173,7 @@ updated: 2026-10-07
 > - **1972 — 组织决策的垃圾桶模型** 科恩、马奇与奥尔森（Cohen, March, & Olsen, 1972）提出组织歧义性概念，指出大学等组织具有目标含混、技术不清晰与参与流动三大特征。
 > - **1989 — 《无序的秩序》确立政策歧义性分析** 费尔德曼（Martha Feldman, 1989）系统界定歧义性为“对同一情境存在多种并存思考方式”，论证信息生产在政策制定中的符号化机制。
 > - **2003–2017 — [[Multiple Streams Framework\|多源流分析框架]]的深化** 扎哈里亚迪斯（Nikolaos Zahariadis）将决策歧义性确立为多源流理论的[[Epistemology\|认识论]]基石，强调政策过程的本质是操纵与管理歧义性。
-> - **2024 — [[Governing by Numbers\|数字治理]] 2.0 时代的[[Policy Brokerage\|政策中介]]整合** 施泰纳-哈姆西等（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024]]）指出在[[Surplus of Evidence\|证据过剩]]的数字时代，政策中介凭借数字理性[[Scaffolding\|脚手架]]对政策歧义性进行定向[[Transfer Translation Transformation\|转译]]与治理控制。
+> - **2024 — [[Governing by Numbers\|数字治理]] 2.0 时代的[[Policy Brokerage\|政策中介]]整合** 施泰纳-哈姆西等（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024]]）指出在[[Surplus of Evidence\|证据过剩]]的数字时代，政策中介凭借数字理性[[Scaffolding\|脚手架]]对政策歧义性进行定向转译与治理控制。
 
 ---
 
@@ -212,7 +208,7 @@ updated: 2026-10-07
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | 挪威能力导向课程改革（5 个法定专家委员会 vs 教育部行政法令） | 政策咨询网络引文追踪与[[Document\|文献]]计量 | 专家咨询报告引文（464篇）与法定行政法令引文（22篇）的对应度 | 464 篇专家引文在行政法令中仅存 22 篇，[[Attrition\|流失]]率高达 95.3%；仅存 22 篇中 20 篇来自[[OECD\|经合组织]] [[Definition and Selection of Competencies\|DeSeCo]] 项目 | — | 强实证支持：行政当局在面对教育歧义性时，对多元学术证据实施政治过滤，排他性诉诸权威跨国中介指标 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | 挪威能力导向课程改革（5 个法定专家委员会 vs 教育部行政法令） | 政策咨询网络引文追踪与文献计量 | 专家咨询报告引文（464篇）与法定行政法令引文（22篇）的对应度 | 464 篇专家引文在行政法令中仅存 22 篇，流失率高达 95.3%；仅存 22 篇中 20 篇来自[[OECD\|经合组织]] [[Definition and Selection of Competencies\|DeSeCo]] 项目 | — | 强实证支持：行政当局在面对教育歧义性时，对多元学术证据实施政治过滤，排他性诉诸权威跨国中介指标 |
 
 ---
 

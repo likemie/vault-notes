@@ -10,7 +10,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 13
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -32,7 +32,6 @@ related_theories:
   - "[[Governmentality]]"
 related_methods:
   - "[[Qualitative Interview]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Comparative Policy Analysis]]"
 related_persons: []
 related_facts:
@@ -43,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-10
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Plyler v. Doe 1982
@@ -140,6 +139,6 @@ updated: 2026-10-10
 > | [[Student Mobility\|学生流动性]] | 概念 | 该判例确立了跨界空间流动学童在美国接受公立初等与中等教育的不可剥夺权利基石。 |
 > | [[Presence]] | 概念 | 布伦南大法官在判词中强调居住存在事实（Presence）先于法律身份，成为公民权利空间化的重要判例表征。 |
 > | [[Hukou System]] | 政策事实 | 与中国户籍制度排斥城市随迁儿童形成鲜明对照：美国确立了公立教育保障，但两者均折射出深刻的身份登记[[Governmentality\|治理术]]。 |
-> | [[No Child Left Behind Act 2001]] | 政策事实 | 尽管该判例保障了入学权，但后续 NCLB 的学校报告卡仍将流动学童的高流动率[[Coding in Qualitative Research\|编码]]为负面失范指标。 |
+> | [[No Child Left Behind Act 2001]] | 政策事实 | 尽管该判例保障了入学权，但后续 NCLB 的学校报告卡仍将流动学童的高流动率编码为负面失范指标。 |
 > | [[Comparative Policy Analysis]] | 研究方法 | 比较教育学者运用比较政策分析，将美、中、西、英对流动学童的教育空间治理政策展开横向对质。 |
 > | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] | 论证条目 | 深入阐述该判例如何正规化美国流动学童教育供给，同时剖析流动学童面临的跨校机会断裂与登记政治。 |

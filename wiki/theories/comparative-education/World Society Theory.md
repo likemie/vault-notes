@@ -10,7 +10,7 @@ aliases:
 summary: "斯坦福学派新制度主义社会学理论，将全球大众教育和国家体制的跨国趋同阐释为世界文化模型扩散与模仿的产物。主张去中心化的世界社会依赖无私代理人的他者性机制输出进步与正义规范，同时该理论面临政治现实主义与批判政治经济学关于掩盖中心边缘依附剥削、实质不平等及微观抵制能动性的深刻批评。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 44
+theory_related_count: 43
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Otherhood]]"
   - "[[Paradigm]]"
   - "[[Enlightenment]]"
-  - "[[Hypothesis]]"
   - "[[Organizational Actorhood]]"
   - "[[Cognitive Decoupling]]"
   - "[[Development Turn in Comparative Education]]"
@@ -32,6 +31,7 @@ related_concepts:
   - "[[General Education]]"
   - "[[Research Question]]"
   - "[[Discourse]]"
+  - "[[Global Educational Discourse]]"
   - "[[Construct]]"
   - "[[Champ]]"
   - "[[Dual School System]]"
@@ -48,7 +48,6 @@ related_theories:
   - "[[Convergence Theory in Comparative Education]]"
 related_methods:
   - "[[Analytic Framework]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_persons:
   - "[[Stanford School]]"
@@ -71,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-11
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 
 # World Society Theory
@@ -102,7 +101,7 @@ updated: 2026-10-09
 > - **提出者与原始文本** [[John W. Meyer|约翰·迈耶]]与布赖恩·罗恩（Brian Rowan, 1977）奠定组织制度化神话基础；Meyer, Boli, Thomas & Ramirez (1997) 在《美国社会学期刊》发表《世界社会与民族国家》（*World Society and the Nation-State*），系统确立世界社会理论分析[[Paradigm|范式]]。
 > - **原初问题** 回应传统功能主义与[[Human Capital Theory|人力资本理论]]的解释困境：为什么物质资源匮乏、工业化程度极低的新独立第三世界国家，不是优先满足本土特定生产技能需求，反而迅速照搬欧美高度成熟的现代大众教育体制与标准化文凭架构。
 > - **理论资源与材料** 吸收[[Max Weber|马克斯·韦伯]]的合理化理论、舒茨的[[Phenomenology|现象学]]社会学，以及[[Enlightenment|启蒙运动]]以来的理性主义文化信念；以全球数百个国家在初等义务教育立法、国家课程大纲门类与入学率扩张上的宏观跨国时间序列数据为经验支撑。
-> - **形成路径与经典假想** 迈耶等人提出了著名的“孤岛思想实验”：[[Hypothesis|假设]]在大洋深处新发现一个从未与现代世界接触的孤立海岛社会，只要它被纳入当代国际社会视野，它便会迅速按照世界文化的通行规范，制定宪法、设立议会、颁布人权保护法令，并建立标准化的正规学校体系。该假想生动阐明了[[Cultural Models|世界文化模型]]作为先验合法性脚本的强大规范力量。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 103)]]
+> - **形成路径与经典假想** 迈耶等人提出了著名的“孤岛思想实验”：假设在大洋深处新发现一个从未与现代世界接触的孤立海岛社会，只要它被纳入当代国际社会视野，它便会迅速按照世界文化的通行规范，制定宪法、设立议会、颁布人权保护法令，并建立标准化的正规学校体系。该假想生动阐明了[[Cultural Models|世界文化模型]]作为先验合法性脚本的强大规范力量。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 103)]]
 
 ### 后续修订与扩展
 
@@ -141,7 +140,7 @@ updated: 2026-10-09
 ---
 
 > [!theory-proposition] 命题二｜全球学校体制的跨国趋同源自世界文化模板的扩散与合法性模仿，而非各国本土功能效率需求
-> **解释** 全球大众教育在班级编制、学段划分、国家课程大纲（数理、母语、外语、公民）等结构上呈现高度趋同。这种趋同无法用各国的实际工业化水平、经济效率或阶级斗争完全解释。比较教育二战后的[[Development Turn in Comparative Education|发展转向]]与多边援助网络，将欧美教育[[Paradigm|范式]][[Coding in Qualitative Research|编码]]为普世客观的科学设计；主权国家为了获取国际承认与国内政治合法性，在法案和体制上主动模仿这些模板，促成了跨国[[Institutional Isomorphism|制度同构]]。[[Argument_Yan_2025_JCS|(Yan & Morris, 2025, p. 482)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 102–104)]]
+> **解释** 全球大众教育在班级编制、学段划分、国家课程大纲（数理、母语、外语、公民）等结构上呈现高度趋同。这种趋同无法用各国的实际工业化水平、经济效率或阶级斗争完全解释。比较教育二战后的[[Development Turn in Comparative Education|发展转向]]与多边援助网络，将欧美教育[[Paradigm|范式]]编码为普世客观的科学设计；主权国家为了获取国际承认与国内政治合法性，在法案和体制上主动模仿这些模板，促成了跨国[[Institutional Isomorphism|制度同构]]。[[Argument_Yan_2025_JCS|(Yan & Morris, 2025, p. 482)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 102–104)]]
 >
 > **应用实例** 无论是非洲初获独立的发展中国家，还是拉美边缘经济体，均在宪法中迅速确立免费初等义务教育，并设立门类高度一致的全国统一课程，即使其办学经费和师资严重短缺，也要在国家制度形式上完成合规。
 
@@ -188,7 +187,7 @@ updated: 2026-10-09
 > | **[[Cultural Models\|世界文化模型]]扩散（命题一、二）** | 国家出台某项教育改革是否是为了呼应超国家通行的普世规范？ | 政策引言中的国际倡议引用、多边机构专家咨询记录、与国际最佳实践的文本相似度。 | 若国内缺乏直接的经济或技术需求，但政策迅速出台且强调接轨国际，支持世界文化扩散假说。 |
 > | **无私代理机制（命题一）** | 是谁在扮演推动改革的合法性权威？ | 参与政策设计的大学教授、国际非政府组织代表、智库评估报告。 | 区分技术官僚的行政指令与科学家/学者借助客观规律[[Discourse\|话语]]进行的规范劝导。 |
 > | **仪式性合规与解耦（命题四）** | 政策的正式条文与基层学校的真实课堂运作之间是否存在显著脱节？ | 评估考核方案与实际教学日常的对比、教师访谈、课程资源分配差异。 | 若正式大纲高度现代化但实际教学依然沿用旧法，支持制度解耦判读；不能单凭文本一致推断实践同质。 |
-> | **主权边界与安全防卫（命题三、四）** | 当全球教育话语与国家安全诉求发生碰撞时，政策轨迹如何演进？ | 国家安全法案颁布、公民政治教育课时调整、对外部资助项目的审查记录。 | 若国家强力介入废除国际化课程，表明地缘政治与主权安全优先于世界文化同构。 |
+> | **主权边界与安全防卫（命题三、四）** | 当[[Global Educational Discourse\|全球教育话语]]与国家安全诉求发生碰撞时，政策轨迹如何演进？ | 国家安全法案颁布、公民政治教育课时调整、对外部资助项目的审查记录。 | 若国家强力介入废除国际化课程，表明地缘政治与主权安全优先于世界文化同构。 |
 
 ---
 
@@ -232,7 +231,7 @@ updated: 2026-10-09
 > > 争论世界社会的核心规范是否具有客观普遍的进步性质。
 > >
 > > - **普遍主义学者** 认为世界社会扩展的是无私的科学人文主义与客观治理规律，有利于落后地区改良。
-> > - **去殖民学者（Silova & Brehm, 2015; [[Argument_Klerides_2023_CE|Klerides, 2023]]）** 指出该理论以西方现代性为普世标准的[[Hypothesis|假设]]，在客观上为新帝国知识霸权辩护，消解了非西方社会的本土认识论主权。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 428)]]
+> > - **去殖民学者（Silova & Brehm, 2015; [[Argument_Klerides_2023_CE|Klerides, 2023]]）** 指出该理论以西方现代性为普世标准的假设，在客观上为新帝国知识霸权辩护，消解了非西方社会的本土认识论主权。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 428)]]
 >
 > > [!axis] 修辞趋同与本地政治安全的可逆冲突
 > > 争论全球制度趋同假说能否在面对强力政治安全介入时保持稳健。

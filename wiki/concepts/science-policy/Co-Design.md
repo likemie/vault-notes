@@ -10,7 +10,7 @@ aliases:
 summary: "打破传统自上而下单向或离散工程壁垒，在微电子系统全生命周期中将底层物理材料、器件物理、制造工艺、高级封装、电路架构、算法软件直至终端应用需求进行全栈双向信息互通与联合优化的工程研发范式。"
 type: concept
 domain: "science-policy"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Electronic Design Automation]]"
   - "[[Computer Simulation]]"
-  - "[[Document]]"
   - "[[Process Design Kit]]"
 related_theories: []
 related_methods:
@@ -44,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Co-Design
@@ -131,7 +130,7 @@ updated: 2026-10-10
 ### 命题总览
 
 > [!contrast-table] 协同设计核心命题概览
-> | 命题方向 | 核心论断 | 技术与政策意涵 | 代表[[Document\|文献]] |
+> | 命题方向 | 核心论断 | 技术与政策意涵 | 代表文献 |
 > |---|---|---|---|
 > | **物理与架构效能** | 跨尺度全栈双向反馈突破传统单片物理微缩收益递减瓶颈 | 推动先进[[Electronic Design Automation\|电子设计自动化]]（EDA）与跨尺度仿真工具研发 | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024, pp. 10–16)]] |
 > | **安全与系统可持续性** | 硬件信任根与全生命周期低碳参数必须在前置阶段内生嵌入 | 指导国防关键芯片与绿色半导体制造重大研发计划布局 | [[Argument_NSTC_2024_MicroelectronicsResearch\|NSTC (2024, pp. 18–20)]] |

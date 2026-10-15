@@ -6,7 +6,7 @@ aliases:
 summary: "大学与产业、政府及广泛社会之间通过多元双向机制进行知识流动的交互过程。涵盖合同研究、人员流动、联合研发、设施共享及隐性知识外溢，超越了传统单向线性的技术转移范式；在产业政策与创新地理视角下，知识交流高度依赖高密度专业劳动力池与实体集聚外部性。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 31
+related_count: 30
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -42,7 +42,6 @@ related_concepts:
 related_theories:
   - "[[Systems of Innovation]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Analytic Framework]]"
 related_persons: []
 related_facts:
@@ -56,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-27
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Knowledge Exchange
@@ -106,7 +105,7 @@ updated: 2026-10-14
 
 > [!feature] 核心要素
 > - **多元互动渠道矩阵（Multidimensional Channels）** 涵盖合同研究、技术咨询、人员借调（联合聘任）、共建中试设施与高管[[Further Education|继续教育]]等丰富路径。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, p. 44)]]
-> - **[[Tacit Knowledge|隐性知识]]的人际具身流动（Tacit Knowledge Embodiment）** 最关键的工艺创新与实验直觉无法[[Coding in Qualitative Research|编码]]为专利文本，必须通过工程师与科学家的面对面交流、共同调试产线或离职创业流转。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 82–83)]]
+> - **[[Tacit Knowledge|隐性知识]]的人际具身流动（Tacit Knowledge Embodiment）** 最关键的工艺创新与实验直觉无法编码为专利文本，必须通过工程师与科学家的面对面交流、共同调试产线或离职创业流转。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 82–83)]]
 > - **长期稳定制度支持（Formula Funding & Infrastructure）** 从短期竞争性项目补贴转向公式驱动的长期稳定资金拨付，为大学建立专业化知识交流支持体系与战略性伙伴关系提供[[Patient Capital|耐心资本]]。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 42–43)]]
 > - **专业劳动力池与[[Agglomeration Externalities|集聚外部性]]（Agglomeration & Labor Market Pooling）** 空间上紧密相邻的企业与科研机构孕育了密集的专业人才交流网络，使知识交流成本降至最低。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 82, 102–103)]]
 

@@ -9,10 +9,10 @@ aliases:
 summary: "技术经济学与工程教育的核心理论命题，由内森·罗森伯格提出，指在通用目的技术扩散过程中，原本相互割裂的工业部门与学科领域逐渐汇聚于共同的底层科学原理、制造工艺、工程技能体系与标准物理界面上，为高等工程教育课程标准化与跨行业工程人才流动奠定基础。"
 type: concept
 domain: "economics"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 18
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/technological-change
   - theme/engineering-education
@@ -22,13 +22,11 @@ related_concepts:
   - "[[General Purpose Technology]]"
   - "[[Engineering Education]]"
   - "[[Dual In-Line Package]]"
-  - "[[Assemblage]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
-  - "[[Document]]"
   - "[[Paradigm]]"
+  - "[[Assemblage]]"
   - "[[Heterogeneity]]"
   - "[[Application Engineering]]"
-  - "[[Attrition]]"
   - "[[Innovation Ecosystem]]"
   - "[[Variable]]"
   - "[[Learning by Doing]]"
@@ -48,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Technological Convergence
@@ -66,7 +64,7 @@ updated: 2026-10-09
 > - **边界** 聚焦于底层生产技术、工艺方法与工程知识体系的收敛，不同于终端消费产品功能合一意义上的“消费产品融合”（Product Convergence / 媒介融合）。
 
 > [!citation-card] 技术收敛与硅微电子的跨行业整合
-> 硅微电子革命不仅是价格下降与学习效应的结果，更促成了深刻的技术收敛。[[Fairchild Semiconductor|仙童半导体]]通过平面工艺、成套数字逻辑电路与标准化的[[Dual In-Line Package|双列直插封装]]（DIP），使计算机、无线电通信、电视制造和汽车工业等多元产业在底层共享相同的电路设计逻辑与自动化[[Assemblage|装配]]工艺，重塑了全美工业体系的共同技术底座。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 180–181, 207–209)]]
+> 硅微电子革命不仅是价格下降与学习效应的结果，更促成了深刻的技术收敛。[[Fairchild Semiconductor|仙童半导体]]通过平面工艺、成套数字逻辑电路与标准化的[[Dual In-Line Package|双列直插封装]]（DIP），使计算机、无线电通信、电视制造和汽车工业等多元产业在底层共享相同的电路设计逻辑与自动化装配工艺，重塑了全美工业体系的共同技术底座。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 180–181, 207–209)]]
 >
 > *Technological convergence occurs when diverse sectors come to rely upon a common pool of components, manufacturing processes, and design skills... Silicon microelectronics emerged as a general purpose technology by fostering technical convergence across computer, consumer, and automotive industries.*
 
@@ -85,7 +83,7 @@ updated: 2026-10-09
 > | **核心驱动力** | [[General Purpose Technology\|通用目的技术]]（GPT）的跨行业标准化 | 特定细分任务的极度精度与专用性需求 | 用户体验整合与数字网络互联 |
 > | **对[[Engineering Education\|工程教育]]的影响** | 推动工程学院开设通用核心课程（如数字逻辑、固态电子学） | 导致学科高度割裂与行业专有技术壁垒 | 催生[[Comparative Education as a Cross-Sectional Area\|交叉学科]]与综合应用型专业 |
 > | **劳动力流动性** | 极高：掌握通用技术的工程师可自由跨行业流动 | 较低：技能被锁定于狭窄特定行业内 | 中等：依赖跨界创意与复合技能 |
-> | **代表[[Document\|文献]]** | [[Argument_Lecuyer_1999_HT\|Lécuyer (1999)]]; Rosenberg (1963) | 传统工科文献 | 传播学与计算机文献 |
+> | **代表文献** | [[Argument_Lecuyer_1999_HT\|Lécuyer (1999)]]; Rosenberg (1963) | 传统工科文献 | 传播学与计算机文献 |
 
 ---
 
@@ -93,7 +91,7 @@ updated: 2026-10-09
 
 > [!feature] 技术收敛机制的三大核心要素
 > - **底层工艺与制造基础设施的统一（Convergence of Manufacturing Processes）** 多元行业不再依赖各自定制的机械与电子元件，而是统一采纳以平面光刻、化学气相沉积与硅批处理为代表的微电子制造[[Paradigm|范式]]。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 180, 195–203)]]
-> - **标准物理接口与互补性[[Assemblage|装配]]规范（Standard Physical Interfaces & Assemblage Standards）** 如[[Dual In-Line Package|双列直插封装]]（DIP）的 100 密耳引脚矩阵规范，使得无论是军用导弹计算机还是商用电子琴，均统一采用相同的印刷电路板自动插件机与波峰焊接机，消除了整机装配[[Heterogeneity|异质性]]阻力。
+> - **标准物理接口与互补性装配规范（Standard Physical Interfaces & [[Assemblage]] Standards）** 如[[Dual In-Line Package|双列直插封装]]（DIP）的 100 密耳引脚矩阵规范，使得无论是军用导弹计算机还是商用电子琴，均统一采用相同的印刷电路板自动插件机与波峰焊接机，消除了整机装配[[Heterogeneity|异质性]]阻力。
 > - **工程知识范式与技能库的结构性重组（Convergence of Engineering Knowledge & Skills）** 电子工程（EE）与计算机科学（CS）的专业技能逐渐脱离特定行业属性，形成以半导体物理、开关理论、布尔代数逻辑与印刷板布线为核心的通用工程知识体系。
 
 > [!logic-map]- 技术收敛促成工程人才跨界与[[General Purpose Technology|通用技术]]扩散逻辑
@@ -157,7 +155,7 @@ updated: 2026-10-09
 
 > [!debates] 学术争议与批判反思
 >
-> > [!axis] 技术收敛带来的效率提升 vs 专用技术多样性的[[Attrition|流失]]
+> > [!axis] 技术收敛带来的效率提升 vs 专用技术多样性的流失
 > > 针对全行业收敛于单一技术底层对长期技术演进路径的影响分析。
 > >
 > > - **规模经济与互补协同论** 强调技术收敛极大提升了全社会的研发与生产效率，使上游元器件企业能以海量规模平摊研发成本并驱动价格断崖式下降。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 180–181)]]
@@ -178,7 +176,7 @@ updated: 2026-10-09
 
 ## 相关研究
 
-> [!evidence-grid-a] 核心来源[[Document|文献]]索引
+> [!evidence-grid-a] 核心来源文献索引
 > - [[Argument_Lecuyer_1999_HT|Lécuyer (1999)]] — 从[[Fairchild Semiconductor|仙童半导体]]企业史角度，实证检验了微电子技术如何通过制造革新、[[Application Engineering|应用工程]]和系统级封装促成全美工业部门的技术收敛。
 
 ---
@@ -190,7 +188,7 @@ updated: 2026-10-09
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[General Purpose Technology]] | Concept | 技术收敛所围绕展开的核心基础技术[[Paradigm\|范式]]。 |
-> | [[Dual In-Line Package]] | Concept | 促成跨行业[[Assemblage\|装配]]工艺与自动化插装设备收敛的标准物理界面。 |
+> | [[Dual In-Line Package]] | Concept | 促成跨行业装配工艺与自动化插装设备收敛的标准物理界面。 |
 > | [[Application Engineering]] | Concept | 加速下游工程师掌握通用技术语言并实现技能收敛的关键组织机制。 |
 > | [[Fairchild Semiconductor]] | Fact | 率先推动硅微电子跨行业技术收敛的先驱企业载体。 |
 > | [[Learning by Doing]] | Concept | 伴随技术收敛在全行业规模化制造中发生的工艺学习过程。 |

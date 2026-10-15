@@ -6,7 +6,7 @@ aliases:
 summary: "认识论认知中衡量知识是驻留于外部权威还是由主体内部积极建构的核心维度，在数字多文本时代进一步拓展为对信息源资质、立场与可信度的批判性评估规程。"
 type: concept
 domain: "educational-psychology"
-related_count: 39
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -38,7 +38,6 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Paradigm]]"
   - "[[Scaffolding]]"
-  - "[[Document]]"
   - "[[Academic Achievement]]"
   - "[[Subjectivism]]"
   - "[[Ecological Validity]]"
@@ -147,7 +146,7 @@ updated: 2026-10-15
 ### 命题总览
 
 > [!contrast-table] 围绕知识来源形成的命题归纳
-> | 命题命名 | 核心理论指向 | 适用情境与机制功能 | 代表学者与[[Document\|文献]] |
+> | 命题命名 | 核心理论指向 | 适用情境与机制功能 | 代表学者与文献 |
 > |---|---|---|---|
 > | **权威祛魅假说** | 认知成熟表现为[[Knowledge Production\|知识生成]]主体由外部权威垄断向内部自我建构转移 | 解释学习者从被动容器向[[Learner Autonomy\|自主学习]]与批判性反思的转变 | [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] |
 > | **信源评估教学规程机制** | 显性教授多文本来源评估规则能有效破解盲从依赖并带来突出学业提升 | 适用于数字时代网络冲突信息的跨文本阅读、论辩写作与概念理解 | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] |

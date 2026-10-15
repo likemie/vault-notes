@@ -11,7 +11,7 @@ subtype: event
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "event"
-fact_related_count: 12
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Educational Management Organisation]]"
   - "[[Policy Network]]"
   - "[[International Education]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[School Leadership]]"
   - "[[Discourse]]"
 related_theories: []
@@ -42,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-23'
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Cognition Education
@@ -82,7 +81,7 @@ updated: 2026-10-07
 > [!info]
 > Cognition 不是单一公司，而是由 Cognition Education Trust and Cognition Education Limited 及其子公司构成的双层结构。Trust 是唯一股东，商业公司负责运营，利润再通过捐赠和投资基金回流到教育公益与资助项目（grant programme），这使商业扩张和公益合法性被组织成同一条叙事。([[Argument_Bates_2017_CognitionEducationTrust\|Bates, 2017, p.7, p.69-73]])
 >
-> 到 2010 年代中期，Cognition 自我描述为把学习科学（learning science）[[Transfer Translation Transformation\|转译]]为面向学校、社区与政府的实际服务，业务横跨研究、专业学习、国际咨询、数字产品和校车运输等多个板块；O'Neill 等据此把它界定为新西兰最大的[[Educational Management Organisation\|教育管理组织]]（EMO），而不是单一培训公司。([[Argument_ONeill_2016_Report\|O'Neill et al., 2016, pp.65-68]])
+> 到 2010 年代中期，Cognition 自我描述为把学习科学（learning science）转译为面向学校、社区与政府的实际服务，业务横跨研究、专业学习、国际咨询、数字产品和校车运输等多个板块；O'Neill 等据此把它界定为新西兰最大的[[Educational Management Organisation\|教育管理组织]]（EMO），而不是单一培训公司。([[Argument_ONeill_2016_Report\|O'Neill et al., 2016, pp.65-68]])
 
 ## 国内与国际市场的重组
 

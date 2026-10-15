@@ -8,7 +8,7 @@ aliases:
 summary: "科学哲学中关于经验证据无法唯一决定理论选择的核心论题，迪昂版本强调整体论，蒯因版本将其扩展为认识论整体论"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 13
+theory_related_count: 12
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -18,7 +18,6 @@ tags:
 related_concepts:
   - "[[Epistemology]]"
   - "[[Empiricism]]"
-  - "[[Hypothesis]]"
   - "[[Areas of Knowledge]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Theory of Knowledge]]"
@@ -38,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-04
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Duhem-Quine Thesis
@@ -54,7 +53,7 @@ updated: 2026-09-22
 > - **知识位置** 起源于法国物理学家和科学哲学家 Pierre Duhem（迪昂）的《物理理论的目的与结构》（1906），被 [[W. V. O. Quine]]（蒯因）在《[[Empiricism\|经验论]]的两个教条》（1951）中扩展为更彻底的认识论整体论。[[Otto Neurath]] 的纽拉特原则构成迪昂与蒯因之间的重要桥梁。[[Argument_Zemplen_2007_SciEduc\|(Zemplén, 2007, pp. 183–184)]]
 
 > [!claim] 核心主张
-> 迪昂版本认为，物理理论总是作为整体面对经验检验——不可能单独检验一个孤立[[Hypothesis\|假设]]，因为检验总是同时预设了辅助假设、测量理论和背景知识。蒯因版本将这一整体论推广到所有[[Areas of Knowledge\|知识领域]]：我们的知识是一个整体网络，与经验的接触只发生在边缘，任何陈述（包括逻辑和数学）原则上都可以在面对反常经验时被修正，只要对网络其他部分做足够大的调整。[[Argument_Zemplen_2007_SciEduc\|(Zemplén, 2007, pp. 183–184)]]
+> 迪昂版本认为，物理理论总是作为整体面对经验检验——不可能单独检验一个孤立假设，因为检验总是同时预设了辅助假设、测量理论和背景知识。蒯因版本将这一整体论推广到所有[[Areas of Knowledge\|知识领域]]：我们的知识是一个整体网络，与经验的接触只发生在边缘，任何陈述（包括逻辑和数学）原则上都可以在面对反常经验时被修正，只要对网络其他部分做足够大的调整。[[Argument_Zemplen_2007_SciEduc\|(Zemplén, 2007, pp. 183–184)]]
 
 > [!citation-card]- 蒯因的自我评价
 > 在回答 Grünbaum 关于该论题非平凡地理解是假的这一批评时，蒯因承认：该论题以我所使用的方式来看可能是平凡的。我没有把它作为有趣的论题来推进。我甚至不关心通过改变意义来维持一条定律这种平凡极端。[[Argument_Zemplen_2007_SciEduc\|(Zemplén, 2007, p. 193, note 24)]]
@@ -66,7 +65,7 @@ updated: 2026-09-22
 ## 核心命题与机制
 
 > [!proposition-chain] 核心命题一｜经验证据不能唯一决定理论选择
-> - **前提一** 任何理论检验都同时预设了辅助[[Hypothesis\|假设]]、测量理论、背景知识和初始条件。
+> - **前提一** 任何理论检验都同时预设了辅助假设、测量理论、背景知识和初始条件。
 > - **前提二** 当检验结果与预测不符时，逻辑上可以归咎于理论本身、任何一个辅助假设或测量程序，而逻辑本身不能指定该否定哪一项。
 > - **推导** 因此，仅凭逻辑和证据无法唯一地决定理论选择 → 科学家的健全常识（迪昂）或[[Pragmatic Paradigm\|实用主义]]理性（蒯因）在理论选择中扮演不可消除的角色。[[Argument_Zemplen_2007_SciEduc\|(Zemplén, 2007, pp. 183–184)]]
 

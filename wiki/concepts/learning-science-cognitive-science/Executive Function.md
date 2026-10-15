@@ -5,7 +5,7 @@ aliases:
 summary: "一组用于目标导向控制的高阶通用认知调控过程，包含抑制控制、任务转换与工作记忆更新三大核心成分；不仅稳健预测学业成就与高阶思维（创造力与批判性思维），更构成了科学探究推理与概念转变的微观神经认知调控基石。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 43
+related_count: 40
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -31,8 +31,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Metacognition]]"
   - "[[Feedback]]"
-  - "[[Hypothesis]]"
-  - "[[Document]]"
   - "[[Cognitive Inhibition]]"
   - "[[Cognitive Shifting]]"
   - "[[Self-control]]"
@@ -49,7 +47,6 @@ related_theories:
   - "[[Miyake's Unity and Diversity Framework of Executive Function]]"
 related_methods:
   - "[[Longitudinal Study]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Meta-analysis]]"
   - "[[True Experimental Design]]"
   - "[[Effect Size]]"
@@ -67,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Executive Function
@@ -104,8 +101,8 @@ updated: 2026-09-22
 > | **分析对象** | 目标导向的微观神经认知控制过程 | 意识中心的信息在线保持与操作空间 | 对自身认知过程的监控、评估与策略反思 | 跨领域的综合抽象推理与知识习得潜能 |
 > | **核心机制** | 抑制优势反应、任务灵活切换、表征动态更新 | 语音回路、视觉空间模板、情境缓冲与中央执行 | 元认知知识（知人知法）、元认知体验与策略调控 | 流体推理能力与晶体知识储备系统 |
 > | **神经生理基础** | [[Prefrontal Cortex\|前额叶皮层]]（背外侧、眶额、前扣带回等）突触修剪 | 额顶控制网络（Frontoparietal Network）短时神经激活 | 额极皮层及前额叶更高阶联合皮层的多级元表征 | 全脑神经网络传导效率与皮层联络区全局连接 |
-> | **教学与探究作用** | 抑制直觉错误概念，过滤非本质实验刺激，调控多[[Variable\|变量]]探索 | 暂存对比多组实验变量与测量数据，避免认知超载 | 评估[[Hypothesis\|假设]]是否已被充分检验，决定是否修正研究方案 | 快速理解形式化数学推导与高阶抽象符号体系 |
-> | **代表[[Document\|文献]]** | [[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie (2017)]]; [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | Baddeley (2000); Cowan (2001) | Flavell (1979); Schraw (1998) | Spearman (1904); Carroll (1993) |
+> | **教学与探究作用** | 抑制直觉错误概念，过滤非本质实验刺激，调控多[[Variable\|变量]]探索 | 暂存对比多组实验变量与测量数据，避免认知超载 | 评估假设是否已被充分检验，决定是否修正研究方案 | 快速理解形式化数学推导与高阶抽象符号体系 |
+> | **代表文献** | [[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie (2017)]]; [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | Baddeley (2000); Cowan (2001) | Flavell (1979); Schraw (1998) | Spearman (1904); Carroll (1993) |
 
 ---
 
@@ -113,8 +110,8 @@ updated: 2026-09-22
 
 > [!feature] 执行功能的三大核心成分（Miyake 统一性与多样性框架）
 > - **[[Inhibitory Control\|抑制控制]]（Inhibitory Control / [[Cognitive Inhibition\|Cognitive Inhibition]]）** 在必要时故意抑制主导性、自动化或习惯性反应的能力。在科学探究中表现为主动压制基于直觉的经验偏误与无关知觉线索（[[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p. 4]]；[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 8]]）。
-> - **[[Cognitive Shifting\|认知转换]]（Cognitive Shifting / [[Cognitive Flexibility\|Cognitive Flexibility]]）** 亦称任务切换或心理灵活性，指在不同任务规则、思维视角或心理集之间灵活来回转换的能力。支持学习者在[[Hypothesis\|假设]]提出、实验验证与理论反思等多重角色间换轨（[[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p. 5]]）。
-> - **[[Updating and Monitoring\|更新与监控]]（[[Updating and Monitoring\|Updating and Monitoring]]）** 动态监控并修正[[Working Memory\|工作记忆]]中[[Coding in Qualitative Research\|编码]]内容的能力，根据外部环境的新证据持续刷新信息表征、剔除过时数据。
+> - **[[Cognitive Shifting\|认知转换]]（Cognitive Shifting / [[Cognitive Flexibility\|Cognitive Flexibility]]）** 亦称任务切换或心理灵活性，指在不同任务规则、思维视角或心理集之间灵活来回转换的能力。支持学习者在假设提出、实验验证与理论反思等多重角色间换轨（[[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p. 5]]）。
+> - **[[Updating and Monitoring\|更新与监控]]（[[Updating and Monitoring\|Updating and Monitoring]]）** 动态监控并修正[[Working Memory\|工作记忆]]中编码内容的能力，根据外部环境的新证据持续刷新信息表征、剔除过时数据。
 
 > [!logic-map]- 执行功能核心三成分与高阶教育结果关系拓扑
 > ```mermaid
@@ -215,7 +212,7 @@ updated: 2026-09-22
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | **Kwon & Lawson (2000)** | 韩国中学生科学探究追踪样本 | 追踪实验与[[Multiple Regression\|多元回归]]路径分析 | [[Inhibitory Control\|抑制控制]]能力（斯特鲁普测验/镶嵌图形测验）与探究产出 | • 独立解释 **29%** 科学推理技能方差<br>• 独立解释 **28%** 科学概念转变方差 | $p < .01$ | 证实抑制控制对微观探究认知构建具有强力解释力，但未测试教学支架介入后的补偿消除效应。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 8)]] |
-> | **[[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie (2017)]]** | K-12 学龄儿童与青少年认知发展数据库 | 纵向发展追踪与[[Document\|文献]]计量综合 | 执行功能各成分发展速率、前额叶[[Myelination\|髓鞘化]]与[[Academic Achievement\|学业成就]] | • 抑制控制在 **3–5 岁**出现关键铰链点<br>• 约 **16 岁至 30 岁初**改善速率逐渐平缓<br>• 纵向预测学业变异准确度超越 IQ | 综合纵向[[Chain of Evidence\|证据链]]证实 | 阐明发展时间表与因果预测方向，但受试群体主要集中于欧美工业化国家样本。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, pp. 4–5, 10)]] |
+> | **[[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie (2017)]]** | K-12 学龄儿童与青少年认知发展数据库 | 纵向发展追踪与文献计量综合 | 执行功能各成分发展速率、前额叶[[Myelination\|髓鞘化]]与[[Academic Achievement\|学业成就]] | • 抑制控制在 **3–5 岁**出现关键铰链点<br>• 约 **16 岁至 30 岁初**改善速率逐渐平缓<br>• 纵向预测学业变异准确度超越 IQ | 综合纵向[[Chain of Evidence\|证据链]]证实 | 阐明发展时间表与因果预测方向，但受试群体主要集中于欧美工业化国家样本。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017, pp. 4–5, 10)]] |
 > | **[[Argument_Park_2026_TSC\|Park et al. (2026)]]** | 68 项独立实证研究涉及跨学段学生群体 | 效应量相关[[Meta-analysis\|元分析]]与调节效应检验 | [[Creativity\|创造力]]（发散）与[[Critical Thinking\|批判性思维]]（收敛）之关系 | • 总体加权相关系数 **$r = 0.38$**<br>• 共享抑制控制与任务灵活性方差贡献 | 95% CI [0.33, 0.43], $p < .001$ | 实证确认两者存在共享认知基础，但元分析未直接包含神经影像学并发扫描数据。[[Argument_Park_2026_TSC\|(Park et al., 2026, pp. 2–3)]] |
 > | **Homer & Plass (2014)** | 科学虚拟仿真[[Inquiry-Based Learning\|探究学习]]实验 | [[Factorial Design\|析因实验]]设计（符号表征 vs 具象图标） | 视觉表征设计对不同执行功能负荷学生的干扰率 | 具象图标显著分散低抑制控制学生的注意力并增加外生负荷 | 组间差异显著 ($p < .05$) | 揭示知觉诱惑对认知控制的消耗，证实科学探究界面需要微观脚手架约束。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 8–9)]] |
 

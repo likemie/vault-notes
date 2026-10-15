@@ -12,9 +12,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24"
 argument_display_title: "Research Methods in Education · Ch24"
 argument_kind: "book-chapter"
-argument_related_count: 60
-argument_related_level: 4
-argument_related_stars: "⭐⭐⭐⭐"
+argument_related_count: 57
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
 book_title: "Research Methods in Education"
 publication_place: "London"
@@ -35,7 +35,6 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_concepts:
   - "[[Concept Mapping]]"
-  - "[[Hypothesis]]"
   - "[[Criterion-Referenced Test]]"
   - "[[Achievement and Aptitude Tests]]"
   - "[[Academic Achievement]]"
@@ -71,7 +70,6 @@ related_concepts:
   - "[[Divergent Thinking]]"
   - "[[Test Scoring and Weighting]]"
   - "[[Trust Calibration]]"
-  - "[[Document]]"
   - "[[High-Stakes Testing]]"
   - "[[Non-maleficence and Beneficence in Research]]"
   - "[[Informed Consent]]"
@@ -95,8 +93,7 @@ related_methods:
   - "[[Rating Scale]]"
   - "[[Standard Error]]"
   - "[[Parametric and Non-parametric Tests]]"
-related_instruments:
-  - "[[Consensual Assessment Technique]]"
+related_instruments: []
 status: draft
 created: 2026-07-24
 updated: '2026-09-12'
@@ -117,7 +114,7 @@ updated: '2026-09-12'
 > [!question] 核心问题
 >
 > - **测试什么？** 成就、能力倾向、态度、人格、智力、社会适应等
-> - **采用参数还是非参数测验？** 是否对总体分布做出[[Hypothesis\|假设]]
+> - **采用参数还是非参数测验？** 是否对总体分布做出假设
 > - **常模参照还是[[Criterion-Referenced Test\|标准参照]]？** 比较他人还是满足标准
 > - **商业测验还是自编测验？** 购买成熟工具还是自行开发
 > - **是否属于[[Experimental Research\|实验法]]的前[[Pre-test and Post-test\|后测]]设计？** 控制组与实验组的前后比较
@@ -205,7 +202,7 @@ updated: '2026-09-12'
 #### 参数测验
 
 > [!def] 参数测验
-> 参数测验旨在代表更广泛总体（如全国或某一年龄组）。它们对更广泛总体的特征做出[[Hypothesis\|假设]]，即能力的**参数**是已知的（Morrison, 1993）。
+> 参数测验旨在代表更广泛总体（如全国或某一年龄组）。它们对更广泛总体的特征做出假设，即能力的**参数**是已知的（Morrison, 1993）。
 
 参数测验依赖三项核心假设（Morrison, 1993）：
 
@@ -1011,7 +1008,7 @@ Ebel（1979）认为，用于区分不同成就等级的分数越多，等级的
 > - **难度对等** 编制后测时避免使一组比另一组更容易完成
 > - **水平一致** 两次测验的难度水平必须相同
 
-测验数据不仅是实验研究模型的核心特征，还可能作为[[Questionnaire|问卷]]、访谈和[[Document|文献]]材料的一部分出现。
+测验数据不仅是实验研究模型的核心特征，还可能作为[[Questionnaire|问卷]]、访谈和文献材料的一部分出现。
 
 ---
 
@@ -1069,7 +1066,7 @@ Ebel（1979）认为，用于区分不同成就等级的分数越多，等级的
 ### 24.9 计算机自适应测验
 
 > [!info] IRT 的技术实现与信效度代价
-> [[Computerized Adaptive Testing\|计算机自适应测验]]（[[Consensual Assessment Technique\|CAT]]）代表了测验技术的前沿，它利用 [[Item Response Theory\|IRT]] 的数学基础，根据受试者的实时表现动态调整项目难度。CAT 的核心承诺是在不牺牲测量精度的前提下大幅缩短测验长度，但这依赖于大型经校准的项目库和严格的单维性假设。同时，CAT 引入了传统纸笔测验所没有的信效度问题——认知过程差异、动机影响和信度含义的转换。
+> [[Computerized Adaptive Testing\|计算机自适应测验]]（CAT）代表了测验技术的前沿，它利用 [[Item Response Theory\|IRT]] 的数学基础，根据受试者的实时表现动态调整项目难度。CAT 的核心承诺是在不牺牲测量精度的前提下大幅缩短测验长度，但这依赖于大型经校准的项目库和严格的单维性假设。同时，CAT 引入了传统纸笔测验所没有的信效度问题——认知过程差异、动机影响和信度含义的转换。
 
 > [!def] 计算机自适应测验（CAT）
 > 根据受试者对先前项目的回答决定施测哪些测验项目（Wainer, 1990; Aiken, 2003, pp. 50–52）。首题置于假设能力范围的中位；答对 → 下一题更难，答错 → 下一题更易。
@@ -1128,7 +1125,7 @@ Ebel（1979）认为，用于区分不同成就等级的分数越多，等级的
 >
 > *In tests, researchers have at their disposal a powerful method of data collection, an impressive array of tests for gathering data of a numerical rather than verbal kind.*
 
-> [!citation-card]- 参数测验的三项[[Hypothesis\|假设]]
+> [!citation-card]- 参数测验的三项假设
 > 参数测验假设：分数在总体中呈正态曲线分布；测验分数之间为连续且等距的间隔；如果测验具有真正零点，则可能使用比率数据。这与[[Questionnaire\|问卷]]设计中的顺序量表不同，后者不能假设每两个分数之间的等间隔。（第 24 章，24.2 节；Morrison, 1993）
 >
 > *[[Parametric and Non-parametric Tests\|parametric tests]] assume a normal curve of distribution of scores in the population, continuous and equal intervals between the test scores, and with tests that have a true zero, the opportunity for ratio data.*
@@ -1158,7 +1155,7 @@ Ebel（1979）认为，用于区分不同成就等级的分数越多，等级的
 >
 > *The test data should only be used for the purpose for which the test was constructed; too often test data become used for purposes other than these, and this is ethically highly questionable.*
 
-> [!citation-card]- [[Consensual Assessment Technique\|CAT]] 的效率
+> [!citation-card]- CAT 的效率
 > [[Computerized Adaptive Testing\|计算机自适应测验]]可以将测验项目数减少至传统测验的约 50%。（第 24 章，24.9 节；Aiken, 2003, p. 51）
 >
 > *Computer adaptive testing can reduce the number of test items present to around 50 per cent of those used in conventional tests.*

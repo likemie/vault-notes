@@ -7,7 +7,7 @@ aliases:
 summary: "指新加坡教育体系建构的政-学-校三方枢纽驱动的知识动员与系统革新范式；由新加坡教育部（MOE）提供国家战略规划与专项资助，南洋理工大学国立教育学院（NIE/OER/CRPP）主导高水平实证研究与工具开发，依托教师学院（AST）与学校网络将研发成果转化为一线教学干预与专业实践，形成高度协调的循证政策与实践创新生态。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Central Phenomenon]]"
   - "[[Evidence-Based Education]]"
   - "[[Research-Practice Partnership]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Research Question]]"
 related_theories: []
 related_methods:
@@ -41,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-18
-updated: 2026-10-03
+updated: 2026-10-15
 ---
 
 # Educational Research, Development and Innovation
@@ -87,7 +86,7 @@ updated: 2026-10-03
 > [!feature] 新加坡 RDI [[Knowledge Mobilisation\|知识动员]]体系的三大支柱
 > - **战略引导与资助中枢（MOE 顶层统筹与 ERFP 资金池）** 教育部通过顶层战略确立国家重大教育改革优先事项，设立专门的研究基金资助针对性强、可落地的长期研究项目。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, p. 134)]]
 > - **实证生产与原型孵化中枢（NIE / OER / CRPP 学术主体）** 依托唯一的国立[[Normal School\|师范教育]]研究基地，开展大规模课堂教学实录分析、学习科学前沿实验与循证教学工具原型开发。
-> - **实践[[Transfer Translation Transformation\|转译]]与规模化传播网络（AST 教师学院与学群网络）** 教师学院与各学科 Master Teacher 作为中介枢纽，将研究团队开发的创新教学法转化为标准化的教师研修模块并在全岛推行。
+> - **实践转译与规模化传播网络（AST 教师学院与学群网络）** 教师学院与各学科 Master Teacher 作为中介枢纽，将研究团队开发的创新教学法转化为标准化的教师研修模块并在全岛推行。
 
 > [!logic-map]- 三方枢纽协同流动机制
 > ```mermaid

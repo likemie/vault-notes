@@ -10,7 +10,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 10
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -23,7 +23,6 @@ tags:
 related_concepts:
   - "[[Assemblage]]"
   - "[[Focused Research Organization]]"
-  - "[[Hypothesis]]"
   - "[[Other Transaction Authority]]"
   - "[[Metascience]]"
 related_theories: []
@@ -40,7 +39,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # NSF X-Labs
@@ -70,7 +69,7 @@ updated: 2026-10-07
 > - **干预措施** 运营自主权加上基于里程碑的经费，使团队有财务跑道去开发平台。
 > - **实施控制** 里程碑而不是年度项目叙事。报告没有描述独立的外部评估协议。
 
-报告用哺乳动物奖赏与动机环路的连线作[[Hypothesis|假设]]例子。这样的数据集可以为抑郁、成瘾和自闭提供环路图，也可以给人工智能一种来自生物结构的参照。类比是[[Human Genome Project|人类基因组计划]]把测序变成可以购买的能力。[[Argument_Kratsios_2026_OSTP|Kratsios, 2026, pp. 25–26]]
+报告用哺乳动物奖赏与动机环路的连线作假设例子。这样的数据集可以为抑郁、成瘾和自闭提供环路图，也可以给人工智能一种来自生物结构的参照。类比是[[Human Genome Project|人类基因组计划]]把测序变成可以购买的能力。[[Argument_Kratsios_2026_OSTP|Kratsios, 2026, pp. 25–26]]
 
 国家科学基金会和国立卫生研究院已有的[[Other Transaction Authority|其他交易授权]]，被写成可以绕过传统资助约束、从而支撑这类团队的法律工具。国家实验室也可以为有时限的联邦团队开通路。
 

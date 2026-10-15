@@ -8,7 +8,7 @@ aliases:
 summary: "教育实证研究向实践转化的最高介入形态，指将因果证据直接封装进高结构化教学工件（如预制教案与软件规程）或法定制度要求（拨款门槛），免除一线教师自行检索解读统计证据的认知负荷"
 type: concept
 domain: "educational-policy-reform"
-related_count: 29
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Teacher Professional Agency]]"
   - "[[Research Utilization]]"
   - "[[Knowledge Mobilisation]]"
-  - "[[Document]]"
   - "[[Feedback]]"
   - "[[Reliability]]"
   - "[[Effective Teaching]]"
@@ -32,7 +31,6 @@ related_concepts:
   - "[[Causality]]"
   - "[[Chain of Evidence]]"
   - "[[School Leadership]]"
-  - "[[Attrition]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
@@ -78,7 +76,7 @@ updated: 2026-10-15
 > *Teachers probably need clearer guidance, professional development, and modelling of effective strategies on the [[Research Utilization\|Use of Research Evidence]], to improve attainment. There needs to be some more engineered format to translate research evidence into practical guidance for teachers — which could be in the form of lesson plans or protocols — that are simply used by teachers without the need for them to understand or appreciate the underlying evidence base.*
 
 > [!boundary]- 概念边界辨析
-> - **不等于[[Knowledge Mobilisation\|知识动员]]中的改写证据（Modified Evidence）** 改写证据仅对学术[[Document\|文献]]做文字摘要、图表简化或工具包汇总，仍要求使用者自行完成从理解到课堂行动的再创造；工程化证据则直接产出行动方案本身，将因果活性成分固化于教具与规程之中。
+> - **不等于[[Knowledge Mobilisation\|知识动员]]中的改写证据（Modified Evidence）** 改写证据仅对学术文献做文字摘要、图表简化或工具包汇总，仍要求使用者自行完成从理解到课堂行动的再创造；工程化证据则直接产出行动方案本身，将因果活性成分固化于教具与规程之中。
 > - **不等于普通的课程教材编写** 工程化证据必须以严密因果试验（如高质量[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT））验证确凿有效的干预机制为核心输入，且工件内部设计严格锁定因果活性成分。
 > - **不等于去专业化的教学控制** 工程化证据的核心意图在于免除实践者承担力不能及的统计审计与方法学甄别负担，使教师能将有限的认知资源集中于高质量师生互动与情境化[[Feedback\|教学反馈]]，而非取代教师的育人职能。
 
@@ -122,20 +120,20 @@ updated: 2026-10-15
 ## 围绕概念形成的命题
 
 > [!claim] 命题一：被动分发与通俗改写在严格因果评估中无法驱动实践行为与学业提升
-> 大规模[[Systematic Review\|系统综述]]与实证[[Document\|文献]]表明，单纯将实证结果以摘要、简报或工具包形式公开分发给学校（如英国 NFER 2017 年针对数百所小学的《读写章鱼》顶级 RCT 评估），虽然能够微弱改变教师的阅读感知，但在教师专业行为的 6 项量化指标上均无实质改变，更未能在学生关键学段 2（Key Stage 2, KS2）统考成绩上产生任何增益。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 586–588)]]
+> 大规模[[Systematic Review\|系统综述]]与实证文献表明，单纯将实证结果以摘要、简报或工具包形式公开分发给学校（如英国 NFER 2017 年针对数百所小学的《读写章鱼》顶级 RCT 评估），虽然能够微弱改变教师的阅读感知，但在教师专业行为的 6 项量化指标上均无实质改变，更未能在学生关键学段 2（Key Stage 2, KS2）统考成绩上产生任何增益。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 586–588)]]
 
 > [!claim] 命题二：将因果证据封装为预制工件能有效消除统计审计负担并阻断致命变异
 > 基层教师在自主解读学术期刊时，往往因缺乏高级统计学与[[Causality\|因果推断]]素养而产生误读（如 See et al., 2016 杜伦大学小学反馈试验中，教师将形成性反馈异化为繁琐勾选表格的致命变异）。将因果规律预先工程化为高度明确的教学脚本与软件规程，使教师无需知晓底层[[Chain of Evidence\|证据链]]条即可直接复制[[Effective Teaching\|有效教学]]实践，实现有效练习频次的显著跃升（Doabler et al., 2014）。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 595–597)]]
 
 > [!claim] 命题三：以法定资助准入门槛为代表的制度工程化是实现群体级证据效益的根本保证
-> 依靠个体教师或[[School Leadership\|学校领导]]者的主观自觉推行循证实践极易受制于人员流动与组织[[Attrition\|流失]]（如 Wiggins et al., 2019 RISE 试验中专职领头人的大量流失）。最有效的证据工程化发生在制度治理层面，即国家立法机关通过法律强制将公共拨款限定于达到一级强证据（Well-designed [[Randomised Controlled Trials\|RCT]]）或二级中度证据（[[Quasi-Experimental Designs\|QED]]）的项目，从源头上阻断公共财政浪费于未经证实的教学伪科学。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 597–600)]]
+> 依靠个体教师或[[School Leadership\|学校领导]]者的主观自觉推行循证实践极易受制于人员流动与组织流失（如 Wiggins et al., 2019 RISE 试验中专职领头人的大量流失）。最有效的证据工程化发生在制度治理层面，即国家立法机关通过法律强制将公共拨款限定于达到一级强证据（Well-designed [[Randomised Controlled Trials\|RCT]]）或二级中度证据（[[Quasi-Experimental Designs\|QED]]）的项目，从源头上阻断公共财政浪费于未经证实的教学伪科学。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 597–600)]]
 
 ---
 
 ## 实证数据
 
 > [!ref-table]- 证据转化形态与互动模式实证评估汇总表（基于 Gorard et al., 2020 纳入之因果研究）
-> | 评估[[Document\|文献]]与年份 | 转化模式类别 | 研究设计质评评级 | 知识与态度改变 | 行为与实践改变 | 终端成效（学生/患者产出） |
+> | 评估文献与年份 | 转化模式类别 | 研究设计质评评级 | 知识与态度改变 | 行为与实践改变 | 终端成效（学生/患者产出） |
 > |:---|:---|:---|:---|:---|:---|
 > | 英国国家教育研究基金会（NFER）(2017) | 改写证据被动传递（工具包分发） | 4 级（★★★★） | — | 负向 / 中性（行为指标无变） | 负向 / 中性（KS2 成绩零提升） |
 > | Rohwer et al. (2017) | 改写证据在线学习（e-learning） | 3 级（★★★） | 正向显著提升 | 负向 / 中性（临床行为无变） | — |
@@ -158,6 +156,6 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid] 证据工程化与[[Knowledge Mobilisation\|知识动员]]代表性研究
-> - **[[Argument_Gorard_2020_ROE\|Gorard et al. (2020)]]** [[Systematic Review\|系统综述]]了 335 万篇[[Document\|文献]]并甄选出 33 项因果实证评估，正式提出证据工程化作为突破被动分发与弱互动失效局限的根本出路。
+> - **[[Argument_Gorard_2020_ROE\|Gorard et al. (2020)]]** [[Systematic Review\|系统综述]]了 335 万篇文献并甄选出 33 项因果实证评估，正式提出证据工程化作为突破被动分发与弱互动失效局限的根本出路。
 > - **Doabler et al. (2014)** 通过 379 次现场[[Classroom Observation|课堂教学观察]]，证实工程化核心数学预制教案可有效消除底层审计负担并显著提升课堂有效实践频次。
 > - **Kansagra & Farley (2012)** 从公共卫生政策视角对比个体依从治疗与群体级工程化措施，为教育治理层面的法定工程化提供了理论与经验借镜。

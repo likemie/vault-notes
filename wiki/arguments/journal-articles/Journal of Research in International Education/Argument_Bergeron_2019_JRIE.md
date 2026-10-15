@@ -20,7 +20,6 @@ related_concepts:
   - "[[Champ]]"
   - "[[Epistemology]]"
   - "[[Teacher Beliefs]]"
-  - "[[Hypothesis]]"
   - "[[Reflexivity]]"
   - "[[Variable]]"
   - "[[Inquiry-Based Learning]]"
@@ -47,7 +46,7 @@ related_methods:
   - "[[Trend Study]]"
   - "[[Focus Group]]"
   - "[[Group Interview]]"
-  - "[[Coding in Qualitative Research]]"
+  - "[[Open Coding]]"
   - "[[Internal Consistency]]"
   - "[[Sensitive Questions]]"
 related_instruments:
@@ -67,7 +66,7 @@ title: "Argument_Bergeron_2019_JRIE"
 argument_key: "Argument_Bergeron_2019_JRIE"
 argument_display_title: "Investigating the perspective of Theory of Knowledge teachers in International Baccalaureate World Schools"
 argument_kind: "journal-article"
-argument_related_count: 35
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -99,7 +98,7 @@ issuing_organization: ""
 ## 理论框架
 
 > [!theory-position] 理论工具：[[Teacher Beliefs\|教师信念]] (Teacher Beliefs)
-> - **解释对象** 教师对教学、学习和知识本质的观念[[Hypothesis\|假设]]，及其与教学实践的双向交互关系。
+> - **解释对象** 教师对教学、学习和知识本质的观念假设，及其与教学实践的双向交互关系。
 > - **理论问题** 教师对 [[Theory of Knowledge\|TOK]] 的看法如何影响其教学投入？教授高度[[Reflexivity\|反思性]]的 TOK 课程又如何重塑教师原有的教学信念？
 > - **理论类型** 教育心理学与教师专业发展的中层机制。
 > - **知识位置** 作为分析 TOK 课程有效性的中介[[Variable\|变量]]——课程的成功实施不仅改变学生，也在重塑教师。
@@ -114,7 +113,7 @@ issuing_organization: ""
 > [!method-panel] 解释性顺序设计 ([[Explanatory Sequential Design]])
 > 本研究采用[[Mixed Methods Research\|混合方法]]设计（量化先行，质性跟进），旨在用定性数据深入解释定量的统计模式：
 > - **第一阶段（量化调查）** 使用研究者设计的“[[Theory of Knowledge\|TOK]] Survey”（包含教授 TOK 自信心量表（[[Confidence Teaching TOK Scale]]）与 DP 协调员[[Questionnaire\|问卷]]）。使用描述性统计、独立样本 t 检验、[[Analysis of Variance\|方差分析]]（ANOVA）和线性[[Trend Study\|趋势分析]]，探究国别、教龄和[[Class Size\|班级规模]]对教师态度与自信心的影响。
-> - **第二阶段（质性[[Focus Group\|焦点小组]]）** 基于问卷发现的问题，开展半结构化焦点[[Group Interview\|小组访谈]]。运用逐行开放[[Coding in Qualitative Research\|编码]]和恒定比较法，归纳出教学法转变、行政排课问题及评估困难等核心主题。
+> - **第二阶段（质性[[Focus Group\|焦点小组]]）** 基于问卷发现的问题，开展半结构化焦点[[Group Interview\|小组访谈]]。运用逐行[[Open Coding|开放编码]]和恒定比较法，归纳出教学法转变、行政排课问题及评估困难等核心主题。
 
 > [!stat-cards] 样本与[[Reliability\|信度]]快照
 > - **1,534** 量化样本（$n$），含 960 名 TOK 教师、585 名 DP 协调员，涵盖英、法、西三种语言的全球 IB 学校。
@@ -154,10 +153,10 @@ issuing_organization: ""
 >   2. **跨界连接** 帮助学生在不同的“学术流派/学科”之间，以及在“思想、情感和行动”之间建立深度的联系（$M=2.90, SD=1.18$）。
 > - **给学生带来的两项最大益处（按重要性排序）**
 >   1. **批判性评价** 学生能够更好地批判性评价不同形式的知识，即[[Critical Thinking\|批判性思维]]能力显著增强（$M=1.76, SD=1.10$）。
->   2. **自我反思** 学生能够更好地识别并反思自己内在的偏见与[[Hypothesis\|假设]]（$M=2.57, SD=0.99$）。（p. 175，注：均值越小代表排名越靠前）
+>   2. **自我反思** 学生能够更好地识别并反思自己内在的偏见与假设（$M=2.57, SD=0.99$）。（p. 175，注：均值越小代表排名越靠前）
 
 > [!chain-link] 质性发现：无处不在的连接感与批判视野
-> - **高频词聚焦** 在对[[Focus Group\|焦点小组]]和开放式[[Questionnaire\|问卷]]的[[Coding in Qualitative Research\|编码]]分析中，“连接（Connections）”与“批判性思维（Critical thinking）”作为最核心的两大主题，共计被标记超过 100 次（包含连接其他学科、连接现实世界、包容性、扮演[[Devil's Advocate\|魔鬼代言人]]等子代码）。
+> - **高频词聚焦** 在对[[Focus Group\|焦点小组]]和开放式[[Questionnaire\|问卷]]的编码分析中，“连接（Connections）”与“批判性思维（Critical thinking）”作为最核心的两大主题，共计被标记超过 100 次（包含连接其他学科、连接现实世界、包容性、扮演[[Devil's Advocate\|魔鬼代言人]]等子代码）。
 > - **直面争议** 教师指出，学生通过 TOK 获得了客观分析信息的能力，学会了从多种视角看待[[Sensitive Questions\|敏感问题]]，并且不再害怕分歧与争议（learn to handle controversy）。
 > - **广泛迁移与“无法被撤回的钟声”** 教师用“无处不在（being everywhere）”来形容 TOK 的作用，认为其赋予的[[Metacognition\|元认知]]与批判技能会自然外溢到常规学科、大学学习乃至真实生活中。访谈教师生动地描述道：“一旦学生开始在各个[[Areas of Knowledge\|知识领域]]和[[Ways of Knowing\|认知方式]]之间建立起那些联系，这个钟声就再也无法被撤回（that bell can’t be unrung）……他们会敏锐地注意到那些以前绝对不会留意的事情”。（pp. 176-177）
 

@@ -10,7 +10,7 @@ aliases:
 summary: "由 Martin (2018) 初创、Nikolaidis (2021) 扩展并由 Smith (2026) 操作化推进的教育哲学与社会认识论理论，揭示教育制度安排或技术代劳对未成年人在求知者形成期的认知发展权造成的根本侵害，核心涵盖知识传递阻断、技能实践剥夺与信度认知失真三重检验维度。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 37
+theory_related_count: 35
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -39,12 +39,10 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Research Question]]"
   - "[[Cognitive Deskilling]]"
-  - "[[Teaching Assistant]]"
   - "[[Unit of Analysis]]"
   - "[[Self-Efficacy]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Humility]]"
-  - "[[Document]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Epistemic Practices]]"
   - "[[Central Phenomenon]]"
@@ -69,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-23
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Formative Epistemic Injustice
@@ -169,7 +167,7 @@ updated: 2026-10-08
 
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 该理论适合回答教学活动方案、课程标准设计或智能技术采纳是否对学习者的心智成长权构成了侵犯，诊断教育实践中的[[Cognitive Deskilling|认知去技能化]]、知识传递受阻与能力发育阻滞风险。
-> - **分析对象与单位** 分析学校课程标准、课堂教学活动方案、智能[[Teaching Assistant|助教]]或[[Homework|作业]]批改系统的人机交互界面，以及学生人机交互过程与思维日志（以教学任务、互动会话或作业工序为[[Unit of Analysis|分析单位]]）。
+> - **分析对象与单位** 分析学校课程标准、课堂教学活动方案、智能助教或[[Homework|作业]]批改系统的人机交互界面，以及学生人机交互过程与思维日志（以教学任务、互动会话或作业工序为[[Unit of Analysis|分析单位]]）。
 > - **需要的材料** 教学大纲与任务指导书、AI 工具交互日志、草稿演化版本记录、学生思维出声报告、[[Self-Efficacy|自我效能]]与[[Reliability|信度]]自我评价量表、深度[[Qualitative Interview|质性访谈]]。
 > - **解释目标** 准确识别教学或技术应用落入了“计算器式的认知增强”还是“私厨式的认知剥夺”；判别三大维度的受损严重程度，为教学干预划定规范性伦理防火墙。
 
@@ -207,7 +205,7 @@ updated: 2026-10-08
 > [!theory-boundary] 局限性与适用边界
 > - **适合分析** 处于心智与学科素养奠基期的未成年学习者；强调探究、论证与概念反思的高阶认知课程（如文科读写、哲学辩论、科学探究、批判性阅读）。
 > - **成立条件** 必须明确区分“学习者的技能形成期（Formation）”与“成熟专家的工具协同期（Matured Agency）”；需要穿透最终[[Homework|作业]]成果，深入到真实的认知过程与人机交互日志中取证。
-> - **解释不足** 理论主要定位于规范批判与教学伦理诊断，尚未提供细粒度的量化心理测量工具；对不需要深层内化的纯机械重复性劳动的技术替代（如自动化[[Document|文献]]排版或数据格式清洗），其批判效力有限；对标准化应试评价体制造成的宏观结构性压迫，未能提供政治经济学层面的彻底解决方案。
+> - **解释不足** 理论主要定位于规范批判与教学伦理诊断，尚未提供细粒度的量化心理测量工具；对不需要深层内化的纯机械重复性劳动的技术替代（如自动化文献排版或数据格式清洗），其批判效力有限；对标准化应试评价体制造成的宏观结构性压迫，未能提供政治经济学层面的彻底解决方案。
 > - **转化困难** 学生的内部思维挣扎、真实反思深度及自我[[Reliability|信度]]的细微波动难以通过外部标准化测试捕捉，高度依赖教师的时间投入与形成性质性档案支持。
 > - **不能直接推出** 理论不能直接推导出全面排斥 AI 的技术禁令；它反对的是“全流程私厨代劳”，提倡的是在安全边界内将 AI 作为“[[Alien Intelligence|异己智能]]”开展反向审问的人机审慎共生。
 

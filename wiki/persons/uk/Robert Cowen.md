@@ -7,7 +7,7 @@ summary: "英国比较教育学者，以 transitology、现代／晚期现代教
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 53
+person_related_count: 52
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
@@ -21,10 +21,10 @@ tags:
   - theme/knowledge-transfer
   - theme/educational-reform
 related_concepts:
-  - "[[Transfer Translation Transformation]]"
   - "[[Four Sins of Comparative Education]]"
   - "[[Heroic, Strange, and Barbaric]]"
   - "[[Comparative History of Comparative Education]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Shape-Shifting]]"
   - "[[Educated Identity]]"
   - "[[Generative Artificial Intelligence]]"
@@ -36,7 +36,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Ontology]]"
   - "[[Geometries of Insertion]]"
-  - "[[Document]]"
   - "[[Academic Iconography]]"
   - "[[Policy Borrowing]]"
   - "[[Epistemology]]"
@@ -94,7 +93,7 @@ updated: 2026-10-15
 > [!person-profile] 人物档案
 > - **身份位置** 英国比较教育学者，伦敦大学学院教育与社会学院（UCL Institute of Education，UCL IOE）荣休教授，曾任[[Comparative Education Society in Europe\|欧洲比较教育学会]]（CESE）会长，《比较教育学国际手册》（*International Handbook of Comparative Education*, 2009）联合主编。
 > - **核心角色** 比较教育理论化与批判研究的代表人物。米特（[[Wolfgang Mitter]]）指出，考恩全面继承了[[Michael Sadler|萨德勒]]在伦敦大学教育研究院（IOE）开创的学术遗产，并与卡扎米亚斯（[[Andreas Kazamias]]）、诺瓦（[[António Nóvoa]]）及施里维尔（[[Jurgen Schriewer|Jürgen Schriewer]]）共同构成了 20 世纪末抵御北美量化行为主义侵蚀、坚守欧洲深厚历史与文化主义研究主干的领袖学者。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 89–90, 94)]]
-> - **代表贡献** 创立 [[Transitology\|转型学]]（Transitology）与“转移—[[Transfer Translation Transformation\|转译]]—转化”（Transfer, Translation, Transformation，3T）跨国转移[[Analytic Framework\|分析框架]]；提出 [[Four Sins of Comparative Education\|比较教育的四种罪过]] 与 [[Heroic, Strange, and Barbaric\|英雄、陌生与野蛮]] 的批判震荡词汇。
+> - **代表贡献** 创立 [[Transitology\|转型学]]（Transitology）与“转移—转译—转化”（Transfer, Translation, Transformation，3T）跨国转移[[Analytic Framework\|分析框架]]；提出 [[Four Sins of Comparative Education\|比较教育的四种罪过]] 与 [[Heroic, Strange, and Barbaric\|英雄、陌生与野蛮]] 的批判震荡词汇。
 
 ---
 
@@ -137,7 +136,7 @@ updated: 2026-10-15
 >   - **关键概念** [[Transfer Translation Transformation\|3T 框架]]、形变（Shape-Shifting）、[[Geometries of Insertion\|嵌入几何学]]。
 >   - **阶段转向** 打破了“忠实移植”的二元论，将跨国流动解构为转移、转译和转化的演变过程。以嵌入几何学的伦理追问收尾，将分析推向规范层面。
 > - **2009 — 学科史批判与[[Comparative History of Comparative Education\|比较教育学比较史]]阶段**
->   系统反思比较教育学史作为学科合法性起源神话的局限性，揭示隐蔽历史、制度支持不足与[[Document\|文献]]密度匮乏三重困境，倡导超越单一线性国别叙事。
+>   系统反思比较教育学史作为学科合法性起源神话的局限性，揭示隐蔽历史、制度支持不足与文献密度匮乏三重困境，倡导超越单一线性国别叙事。
 >   - **代表著作** *On History and on The Creation of Comparative Education* (2009)。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 7–10)]]
 >   - **关键概念** [[Comparative History of Comparative Education\|比较教育学的比较史]]、[[Academic Iconography\|学科肖像学]]批判、历史哲学诠释学悖论（未来决定过去）。
 >   - **阶段转向** 将批判锋芒从外部[[Policy Borrowing\|政策借用]]转向学科内部的历史建构，主张挖掘边缘学者档案（含女性学者）、剖析国别元[[Epistemology\|认识论假设]]，并打破对学术图腾（如[[Michael Sadler\|萨德勒]]）的迷信。

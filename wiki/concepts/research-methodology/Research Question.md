@@ -6,7 +6,7 @@ aliases:
 summary: "研究设计中将研究目的收窄为可回答的具体问题或预测的核心工具，涵盖量化研究问题与假设、质性研究问题、混合方法研究问题三种路径，以及30种问题类型谱系和无研究问题的边界情况"
 type: concept
 domain: "research-methodology"
-related_count: 32
+related_count: 30
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -16,12 +16,10 @@ tags:
 related_concepts:
   - "[[Purpose Statement]]"
   - "[[Research Purpose]]"
-  - "[[Hypothesis]]"
   - "[[Integration in Mixed Methods]]"
   - "[[Research Problem]]"
   - "[[Variable]]"
   - "[[Literature Search]]"
-  - "[[Document]]"
   - "[[Causality]]"
   - "[[Class Size]]"
   - "[[Research Utilization]]"
@@ -54,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-06-25
+updated: 2026-10-15
 ---
 # Research Question
 
@@ -63,7 +61,7 @@ updated: 2026-06-25
 > [!def] 核心定义
 > 研究问题（research questions）是研究设计中将[[Purpose Statement\|目的陈述]]收窄为具体可回答问题的核心工具。它们紧接在目的陈述之后，将[[Research Purpose\|研究目的]]细化为研究者计划回答的具体问题或预测的具体结果（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）。研究问题的功能是将一般目的转化为具体问题，从而提供具体的、数据驱动的、可回答的答案。
 
-在三种研究路径中，研究问题的形式和功能有显著差异：[[Quantitative Research|量化研究]]同时使用研究问题和[[Hypothesis|假设]]；[[Qualitative Research|质性研究]]只使用研究问题，不使用假设；[[Mixed Methods Research|混合方法研究]]则需要包含量化问题或假设、质性研究问题和[[Integration in Mixed Methods|混合方法整合]]问题三部分（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。
+在三种研究路径中，研究问题的形式和功能有显著差异：[[Quantitative Research|量化研究]]同时使用研究问题和假设；[[Qualitative Research|质性研究]]只使用研究问题，不使用假设；[[Mixed Methods Research|混合方法研究]]则需要包含量化问题或假设、质性研究问题和[[Integration in Mixed Methods|混合方法整合]]问题三部分（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。
 
 ---
 
@@ -78,7 +76,7 @@ updated: 2026-06-25
 
 三者体现研究焦点的逐步收窄：研究议题建立需求 → 目的陈述明确意图 → 研究问题细化为可操作问题（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。
 
-> [!contrast-table] 研究问题 vs [[Hypothesis\|假设]]
+> [!contrast-table] 研究问题 vs 假设
 > | | 研究问题 | 假设 |
 > |---|---|---|
 > | **[[Quantitative Research\|量化研究]]** | 就[[Variable\|变量]]间关系提出疑问 | 对变量间预期关系做出预测 |
@@ -95,7 +93,7 @@ updated: 2026-06-25
 
 ### 缩小范围
 
-先将宽泛的问题转化为狭窄的问题，将一般性问题转化为特定的问题。例如，"中学生违纪问题"可以转化为"中学生违纪的原因研究"或"中学生违纪的特点研究"。在这一过程中，[[Literature Search|文献检索]]与回顾往往具有十分重要的作用——通过查阅已有[[Document|文献]]发现研究空白，从而确定更具体的研究问题。
+先将宽泛的问题转化为狭窄的问题，将一般性问题转化为特定的问题。例如，"中学生违纪问题"可以转化为"中学生违纪的原因研究"或"中学生违纪的特点研究"。在这一过程中，[[Literature Search|文献检索]]与回顾往往具有十分重要的作用——通过查阅已有文献发现研究空白，从而确定更具体的研究问题。
 
 ### 清楚陈述
 
@@ -132,7 +130,7 @@ updated: 2026-06-25
 
 ## 量化研究问题与假设
 
-[[Quantitative Research|量化研究]]中的研究问题围绕[[Variable|变量]]间的关系提问。量化[[Hypothesis|假设]]则是对变量间预期关系的预测，通过统计程序检验，研究者基于样本对总体做出推论。实验或[[Intervention Research|干预研究]]（含组间比较的）由正式假设指导（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。
+[[Quantitative Research|量化研究]]中的研究问题围绕[[Variable|变量]]间的关系提问。量化假设则是对变量间预期关系的预测，通过统计程序检验，研究者基于样本对总体做出推论。实验或[[Intervention Research|干预研究]]（含组间比较的）由正式假设指导（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。
 
 ### 撰写指南
 
@@ -153,7 +151,7 @@ updated: 2026-06-25
 
 ## 质性研究问题
 
-[[Qualitative Research|质性研究]]只使用研究问题，不使用[[Hypothesis|假设]]，因为研究者不想为研究结果预设方向。质性研究问题分为[[Central Question|核心研究问题]]（一至两个宽泛开放问题）和子问题（五至七个收窄问题，用于数据收集如访谈）。撰写规则及质性路径差异详见 [[Central Question]] 条目（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。
+[[Qualitative Research|质性研究]]只使用研究问题，不使用假设，因为研究者不想为研究结果预设方向。质性研究问题分为[[Central Question|核心研究问题]]（一至两个宽泛开放问题）和子问题（五至七个收窄问题，用于数据收集如访谈）。撰写规则及质性路径差异详见 [[Central Question]] 条目（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。
 
 > [!warning] 质性研究不使用研究问题的情况
 > 并非所有研究都需要研究问题。一些研究，通常是质性研究（Bryman, 2007b），可能没有研究问题。研究方法并不总是由研究问题驱动（Bryman, 2007b: 18），应避免研究问题的独裁（dictatorship of the research questions）（Bryman, 2007b: 14）。[[Ethnography\|人种志]]等研究类型可能不以研究问题开始，而是在后期阶段使用开放式研究提出研究问题供后续[[Research Utilization\|研究使用]]。选择无研究问题的路径需要有[[Epistemology\|认识论]]层面的理由，通常与归纳式研究设计、[[Emergence\|涌现]]性发现和自然主义方法论立场有关（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06\|Cohen et al., 2011, Ch.6]]）。
@@ -162,7 +160,7 @@ updated: 2026-06-25
 
 ## 混合方法研究问题
 
-[[Mixed Methods Research|混合方法研究]]需要三类问题：量化问题或[[Hypothesis|假设]]、[[Qualitative Research|质性研究]]问题，以及[[Mixed Methods Question|混合方法研究问题]]——描述研究者希望通过整合两类数据获得什么洞见（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。三类问题的顺序反映设计步骤（聚敛式、解释性序列、探索性序列）。
+[[Mixed Methods Research|混合方法研究]]需要三类问题：量化问题或假设、[[Qualitative Research|质性研究]]问题，以及[[Mixed Methods Question|混合方法研究问题]]——描述研究者希望通过整合两类数据获得什么洞见（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）。三类问题的顺序反映设计步骤（聚敛式、解释性序列、探索性序列）。
 
 框定混合方法研究问题往往比单一[[Paradigm|范式]]研究更困难，因为它需要在同一研究问题中同时处理量化与质性策略（Onwuegbuzie & Leech, 2006a: 477）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06|Cohen et al., 2011, Ch.6]]）。
 

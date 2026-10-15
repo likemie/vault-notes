@@ -2,7 +2,7 @@
 summary: "由 Mazzucato 与 Perez 提出、Kattel 与 Mazzucato 深化的现代科技政策核心概念，指国家超越单纯修补市场失灵与平整场地的被动角色，主动通过战略采购、规制设定与定向激励，将市场游戏规则与资本预期向符合长期公共价值的绿色与包容性技术轨道倾斜。"
 type: concept
 domain: "science-policy"
-related_count: 16
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Grand Challenges]]"
   - "[[Public Value]]"
   - "[[Growth]]"
-  - "[[Hypothesis]]"
 related_theories:
   - "[[Technological Trajectories]]"
   - "[[Evolutionary Economics]]"
@@ -37,7 +36,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-15
 title: Tilting the Playing Field
 aliases:
   - 倾斜竞争场地
@@ -79,7 +78,7 @@ aliases:
 > | **理论理论基石** | 新古典福利经济学、[[Market Failure\|市场失灵理论]]。 | [[Evolutionary Economics\|演化经济学]]、国家能力与制度经济学。 |
 > | **国家角色定位** | 守夜人、市场裁判员、被动风险兜底者（De-risking）。 | [[Market Shaping and Creating\|市场塑造]]者、第一大买家、战略方向引领者。 |
 > | **政策工具特征** | 中立性普惠减税、基础教育供给、消除信息不对称。 | 定向公共采购、碳排放惩罚、附加社会责任条件的研发资助。 |
-> | **创新方向[[Hypothesis\|假设]]** | 假设市场价格信号能自发指引最优技术演化路径。 | 指出市场可能发生锁定失灵，方向性必须由公共政策引导。 |
+> | **创新方向假设** | 假设市场价格信号能自发指引最优技术演化路径。 | 指出市场可能发生锁定失灵，方向性必须由公共政策引导。 |
 > | **对私人资本作用** | 避免干预私人决策，防范对私人投资的所谓“挤出”。 | 塑造未来确定性增长预期，积极撬动与引导私人资本。 |
 
 ---

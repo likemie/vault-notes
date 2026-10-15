@@ -8,7 +8,7 @@ summary: "奥地利-德国哲学家与数学家，现象学奠基人，提出悬
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 27
+person_related_count: 24
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Scientific Method]]"
   - "[[Grandes Ecoles]]"
   - "[[Nature of Science]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Phenomenon-Based Learning]]"
   - "[[Paradigm]]"
   - "[[Operationalization]]"
@@ -36,12 +35,10 @@ related_concepts:
   - "[[Objectivism]]"
 related_theories:
   - "[[Phenomenology]]"
-  - "[[Theory of Mind]]"
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Correlational Research]]"
 related_persons:
-  - "[[Isaiah Berlin]]"
   - "[[Immanuel Kant]]"
   - "[[René Descartes]]"
   - "[[Alfred Schutz]]"
@@ -81,7 +78,7 @@ updated: 2026-10-15
 
 > [!timeline] 生平与职涯
 > - **1859年** 出生于奥地利帝国摩拉维亚的普罗斯尼茨（Proßnitz，现捷克普罗斯捷约夫）一个德语犹太中产家庭。
-> - **1876–1883年** 先后在莱比锡大学、[[Isaiah Berlin|柏林]]大学和维也纳大学攻读数学、天文与物理。期间听取威廉·冯特（Wilhelm Wundt）的哲学讲座，并结识托马斯·加里格·马萨里克（[[Theory of Mind\|ToM]]áš Garrigue Masaryk）。1883年在维也纳大学师从利奥·柯尼希斯贝格尔（Leo Königsberger）获得数学博士学位，论文为《变分法理论的贡献》（*Beiträge zur Variationsrechnung*）。
+> - **1876–1883年** 先后在莱比锡大学、柏林大学和维也纳大学攻读数学、天文与物理。期间听取威廉·冯特（Wilhelm Wundt）的哲学讲座，并结识托马斯·加里格·马萨里克（ToMáš Garrigue Masaryk）。1883年在维也纳大学师从利奥·柯尼希斯贝格尔（Leo Königsberger）获得数学博士学位，论文为《变分法理论的贡献》（*Beiträge zur Variationsrechnung*）。
 > - **1884–1886年** 在维也纳大学旁听弗朗茨·布伦塔诺（Franz Brentano）的哲学与经验心理学讲座，深受其意向性概念启发，决意终身转向哲学研究。
 > - **1886–1887年** 受布伦塔诺推荐追随卡尔·施图姆普夫（Carl Stumpf）前往哈勒大学，于1887年完成大学授课资格论文（Habilitation）《论数的概念》（*Über den Begriff der Zahl*）。同年与马尔维娜·施泰因施奈德（Malvine Steinschneider）结婚并改信基督教路德宗。
 > - **1887–1901年** 在哈勒大学担任无薪私人讲师（Privatdozent）。1891年发表《算术哲学》（*Philosophie der Arithmetik*），1894年遭遇哥特洛布·弗雷格（Gottlob Frege）针对该书心理学主义立场的严厉书评，促使其深刻反思并转向纯粹逻辑研究。
@@ -157,7 +154,7 @@ updated: 2026-10-15
 > [!influence-path] 影响路径
 > - **理论路径** 直接开创了欧陆[[Phenomenology\|现象学]]学派，深刻影响了海德格尔、萨特、梅洛-庞蒂等后继者的存在主义与具身现象学。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 2–3]]
 > - **方法路径** [[Epoché\|悬置]]和现象学还原方法成为[[Qualitative Research\|质性研究]]中[[Interpretive Paradigm\|诠释范式]]的核心反思工具，为超越表面行为记录、探究参与者深层主观意义提供了[[Epistemology\|认识论]]框架。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
-> - **跨领域传播** 其主体间性与生活世界概念被舒茨（[[Alfred Schutz]]）[[Transfer Translation Transformation\|转译]]并带入社会学中，成为社会现象学与常人方法学的基石，并在当代教师教育与芬兰[[Phenomenon-Based Learning\|现象本位学习]]中作为抵制课程原子化与工具主义的技术性批判资源。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 1, 11]]
+> - **跨领域传播** 其主体间性与生活世界概念被舒茨（[[Alfred Schutz]]）转译并带入社会学中，成为社会现象学与常人方法学的基石，并在当代教师教育与芬兰[[Phenomenon-Based Learning\|现象本位学习]]中作为抵制课程原子化与工具主义的技术性批判资源。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 1, 11]]
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]] — 系统阐明了胡塞尔的悬置方法及先验意识三要素如何确立了自然主义与诠释性教育探究的认识论合法性。
@@ -171,12 +168,12 @@ updated: 2026-10-15
 > - **师承／合作者**
 >   - **弗朗茨·布伦塔诺（Franz Brentano）** 哲学启蒙导师，激发了胡塞尔对意向性概念的哲学思考。
 >   - **卡尔·施图姆普夫（Carl Stumpf）** 授课资格论文导师，实验心理学先驱。
->   - **卡尔·魏尔斯特拉斯（Karl Weierstrass）** [[Isaiah Berlin|柏林]]时期的数学导师，启发了将数学对象视为本质构造的思维方式。
->   - **托马斯·加里格·马萨里克（[[Theory of Mind\|ToM]]áš Garrigue Masaryk）** 莱比锡时期的导师与密友，引导其转向人文哲学思考并引介布伦塔诺。
+>   - **卡尔·魏尔斯特拉斯（Karl Weierstrass）** 柏林时期的数学导师，启发了将数学对象视为本质构造的思维方式。
+>   - **托马斯·加里格·马萨里克（ToMáš Garrigue Masaryk）** 莱比锡时期的导师与密友，引导其转向人文哲学思考并引介布伦塔诺。
 > - **学生／继承者**
 >   - **马丁·海德格尔（Martin Heidegger）** 助手并接任弗莱堡大学教席，但其在《存在与时间》中用“此在”替代纯粹先验自我，导致两人哲学决裂。
 >   - **埃迪特·施泰英（Edith Stein）** 早期私人助手，协助整理核心手稿，对[[Phenomenology\|现象学]]实在论维度做出了重要贡献。
->   - **[[Alfred Schutz\|阿尔弗雷德·舒茨]]（Alfred Schutz）** 现象学社会学奠基人，将胡塞尔先验意识与生活世界理论[[Transfer Translation Transformation\|转译]]至社会行动与日常知识库存研究中。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
+>   - **[[Alfred Schutz\|阿尔弗雷德·舒茨]]（Alfred Schutz）** 现象学社会学奠基人，将胡塞尔先验意识与生活世界理论转译至社会行动与日常知识库存研究中。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
 >   - **欧根·芬克（Eugen Fink）** 晚期私人助手与学术协作者，宣读其葬礼悼词。
 >   - **赫尔曼·凡·布雷达（Herman Van Breda）** 比利时方济各会修士，在二战前夕将胡塞尔手稿密运至鲁汶，成立胡塞尔档案馆。
 > - **批评者／论敌**

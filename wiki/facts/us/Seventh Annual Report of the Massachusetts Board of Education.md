@@ -13,7 +13,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 19
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -26,11 +26,9 @@ tags:
   - theme/educational-borrowing
   - theme/nineteenth-century
 related_concepts:
-  - "[[Document]]"
   - "[[Rote Learning]]"
   - "[[Auslandspadagogik]]"
   - "[[Educational Meliorism]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Normal School]]"
   - "[[Policy Borrowing]]"
   - "[[Discourse]]"
@@ -54,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Seventh Annual Report of the Massachusetts Board of Education
@@ -63,13 +61,13 @@ updated: 2026-10-07
 
 ## 背景
 
-《马萨诸塞州教育委员会第七次年度报告》（*Seventh Annual Report of the Secretary of the Board of Education*，通常简称《第七次年度报告》）是 19 世纪美国公立学校运动中最富国际视野与政治战斗力的历史[[Document|文献]]：
+《马萨诸塞州教育委员会第七次年度报告》（*Seventh Annual Report of the Secretary of the Board of Education*，通常简称《第七次年度报告》）是 19 世纪美国公立学校运动中最富国际视野与政治战斗力的历史文献：
 
 > [!policy-context] 政策与历史背景
 > - **发布时间 / 调查主体** 1844 年 1 月由马萨诸塞州教育委员会首任秘书[[Horace Mann\|霍勒斯·曼]]（Horace Mann, 1796–1859）正式向州教育委员会及州立法机构提交；该报告基于曼于 1843 年自费赴欧洲为期五个月的深度实地教育考察（历经英国、爱尔兰、法国、荷兰以及德意志诸邦，尤以普鲁士和萨克森为主）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 31; Downs, 1974:88)]]
 > - **适用地区 / 对象** 马萨诸塞州全体市镇学区（School Districts）、选民、[[Grammar School\|文法学校]]教师及州议会立法者；由于其论述气势磅礴、数据翔实，迅速被再版并在全美各州广泛流传，成为推动北方与中西部公学立法的标准参考文献。（pp. 31–32）
 > - **问题背景** 1840 年代初马萨诸塞州公立学校运动遭遇空前保守阻抗：富裕阶层纳税人抗税抵制公立学校，正统加尔文宗教派攻讦非宗派学校为“无神论温床”，传统文法学校教师死守严酷体罚与[[Rote Learning\|死记硬背]]（[[Rote Learning]]）；曼急需为建立由公税资助、师范专业化培养以及推行温和人道教育的激进改革寻找无可辩驳的外部经验依据。（Downs, 1974; pp. 31–33）
-> - **制度位置与学科史定位** 美国比较教育史上“[[Auslandspadagogik\|外国教育学]]”（[[Auslandspadagogik]]）与行政[[Educational Meliorism\|改良主义]]（[[Educational Meliorism]]）的最高成就；卡洛扬纳基与卡扎米亚斯（2009）将其提炼为非中央集权体制下“将外国经验[[Transfer Translation Transformation\|转译]]为本土国内改革政治合法化依据（legitimating rationales）”的经典范例。（pp. 33–34）
+> - **制度位置与学科史定位** 美国比较教育史上“[[Auslandspadagogik\|外国教育学]]”（[[Auslandspadagogik]]）与行政[[Educational Meliorism\|改良主义]]（[[Educational Meliorism]]）的最高成就；卡洛扬纳基与卡扎米亚斯（2009）将其提炼为非中央集权体制下“将外国经验转译为本土国内改革政治合法化依据（legitimating rationales）”的经典范例。（pp. 33–34）
 
 ---
 
@@ -117,7 +115,7 @@ updated: 2026-10-07
 ## 实施情况与话语功能转化
 
 > [!actor-grid] 改革中介矩阵
-> - **倡导与[[Transfer Translation Transformation\|转译]]核心** [[Horace Mann\|霍勒斯·曼]]与马萨诸塞州教育委员会——将外部实绩转化为政策倡导的说服资本。
+> - **倡导与转译核心** [[Horace Mann\|霍勒斯·曼]]与马萨诸塞州教育委员会——将外部实绩转化为政策倡导的说服资本。
 > - **同盟群体** 自由派辉格党立法精英、一神论及自由派教友、公学教师与新兴工商业平民父母。
 > - **阻抗势力** 波士顿 31 位[[Grammar School\|文法学校]]校长、保守加尔文派公理宗教会、极端地方自治派土地纳税人。
 > - **制度落脚点** 州立公立[[Normal School\|师范学校]]（Normal Schools）、非宗派公学课程法典、地方公税统筹法案。
@@ -160,11 +158,11 @@ updated: 2026-10-07
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Horace Mann]] | 人物 | 本报告作者，美国公立学校之父。 |
-> | [[Common School Movement]] | 概念 | 本报告构成了公学运动争取政治与道义合法性的纲领性[[Document\|文献]]。 |
+> | [[Common School Movement]] | 概念 | 本报告构成了公学运动争取政治与道义合法性的纲领性文献。 |
 > | [[Boston Schoolmasters Controversy]] | 事件 | 本报告直接激发的全美最著名的教育论战。 |
 > | [[Report on the State of Public Instruction in Prussia]] | 政策 | [[Victor Cousin\|库森]]报告的美译本直接激发了曼赴欧考察普鲁士学校的学术雄心。 |
 > | [[Prussian Draft Education Law of 1819]] | 政策 | 曼在报告中所高度盛赞的普鲁士初等义务教育与[[Normal School\|师范学院]]建制的法律母体。 |
 > | [[Normal School]] | 概念 | 本报告力推的核心制度工具，推动美国建立现代专业师范体系。 |
-> | [[Policy Borrowing]] | 概念 | 本报告开创了将外部实绩[[Transfer Translation Transformation\|转译]]为国内争议改革政治合法化依据的借用[[Paradigm\|范式]]。 |
+> | [[Policy Borrowing]] | 概念 | 本报告开创了将外部实绩转译为国内争议改革政治合法化依据的借用[[Paradigm\|范式]]。 |
 > | [[Educational Meliorism]] | 概念 | 报告所贯穿的以教育改良推动社会与政治进步的崇高信念。 |
 > 

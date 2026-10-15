@@ -8,7 +8,7 @@ aliases:
 summary: "当代学业情绪与学习动机的核心认知-评价理论，主张个体对学习活动及其结果的控制感评价与价值感评价是激发和调节成就情绪（如享受、希望、焦虑、无聊等）的决定性认知中介，进而深远影响认知策略、自我调节与学业产出。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 31
+theory_related_count: 30
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -40,7 +40,6 @@ related_concepts:
   - "[[Metacognitive Laziness]]"
   - "[[Heterogeneity]]"
   - "[[Metacognition]]"
-  - "[[Document]]"
   - "[[AI Agent in Education]]"
 related_theories:
   - "[[Self-Determination Theory]]"
@@ -60,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-05'
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Control-Value Theory
@@ -180,7 +179,7 @@ updated: 2026-09-22
 
 > [!dev-timeline] 发展脉络
 > - **2000–2002 — 理论初创** Reinhard Pekrun 提出控制-价值理论核心架构，打破以往单一关注考试焦虑的局限，构建涵盖多维学业情绪的整体图景。
-> - **2006 — 完整体系发表** Pekrun 在 *Educational Psychology Review* 发表里程碑[[Document\|文献]] *The Control-VALUE Theory of Achievement Emotions*，确立三维矩阵与递归因果模型。
+> - **2006 — 完整体系发表** Pekrun 在 *Educational Psychology Review* 发表里程碑文献 *The Control-VALUE Theory of Achievement Emotions*，确立三维矩阵与递归因果模型。
 > - **2014 — 跨文化与实证深化** Pekrun 等人出版专著并发布 AEQ 系列量表，在全球范围内验证控制-价值评价机制的普适性。
 > - **2025 — AI 教育时代的理论应用** [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung (2025)]] 将 CVT 与 [[Self-Determination Theory\|SDT]] 并列为解释生成式 AI 改善大学生[[Affective Outcomes\|情感动机]]状态（$g^+ = 0.617$）的核心理论，指出自适应 AI 工具重塑了学习者的过程控制感与学习效能体验。
 

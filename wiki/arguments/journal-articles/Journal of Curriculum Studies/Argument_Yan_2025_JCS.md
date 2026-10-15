@@ -10,7 +10,7 @@ title: "Argument_Yan_2025_JCS"
 argument_key: "Argument_Yan_2025_JCS"
 argument_display_title: "The life and death of Liberal Studies: explaining curriculum change in post-handover Hong Kong"
 argument_kind: "journal-article"
-argument_related_count: 42
+argument_related_count: 40
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -29,12 +29,10 @@ related_concepts:
   - "[[General Education]]"
   - "[[Policy Borrowing]]"
   - "[[Progressive Education]]"
-  - "[[Hypothesis]]"
   - "[[Discourse]]"
   - "[[Lifelong Learning]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Zhonghua Minzu]]"
-  - "[[Document]]"
   - "[[Growth]]"
   - "[[Rote Learning]]"
   - "[[Constructivist Paradigm]]"
@@ -105,7 +103,7 @@ citation_aliases:
 >
 > **Cuban(1992)的三因素模型**。Cuban 在分析美国课程变革史时识别出三个外部驱动力：[[Progressive Education\|进步教育]]运动、冷战与国防、立法与法律决定。将此框架搬到香港语境中检验，三个因素的权重在 LS 的诞生与废除两个阶段发生了戏剧性变化。Cuban 还强调课程变革本质上是政治过程，涉及权力、控制、联盟、讨价还价和妥协(p. 224)。
 >
-> **[[World Society Theory\|世界文化理论]](Meyer et al., 1997)**。全球学校模式正在趋同，各国课程日益相似。LS 的诞生表面上支撑了这一[[Hypothesis\|假设]]，因为港府在推行改革时大量引用全球趋势和海外课程模式。但这些引用更可能是修辞手段而非变革动因。
+> **[[World Society Theory\|世界文化理论]](Meyer et al., 1997)**。全球学校模式正在趋同，各国课程日益相似。LS 的诞生表面上支撑了这一假设，因为港府在推行改革时大量引用全球趋势和海外课程模式。但这些引用更可能是修辞手段而非变革动因。
 >
 > **[[Policy Borrowing\|政策借用]](Steiner-Khamsi, 2012)**。与世界文化理论关注扩散模式不同，政策借用框架聚焦国内政治条件如何催生借用行为，以及决策者如何借用全球[[Discourse|话语]]来合法化国内议程。港府引用[[Lifelong Learning\|终身学习]]和[[Knowledge-Based Economy\|知识经济]]等全球论述的动机，正可以用此框架解释。
 >
@@ -118,7 +116,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info] [[Historical Document Analysis of Curriculum\|历史文献分析]]
-> - **方法**[[Historical Document Analysis of Curriculum\|课程历史文献分析]]，对课程指引、政府出版物、媒体报道和既有学术[[Document\|文献]]进行系统分析
+> - **方法**[[Historical Document Analysis of Curriculum\|课程历史文献分析]]，对课程指引、政府出版物、媒体报道和既有学术文献进行系统分析
 > - **数据来源** 《[[General Education\|通识教育]]科课程及评估指引》(2007)、《[[Citizenship and Social Development\|公民与社会发展科]]课程及评估指引》(2021)、历届《施政报告》、教育局通告与新闻稿、立法会记录、中国内地官媒文章（《人民日报》《北京日报》《中国青年报》《光明日报》《中国日报》）、香港本地媒体、以及围绕 LS 的学术文献
 > - **分析范围** 限定在"意图课程"（intended curriculum）层面，即国家定义的官方课程，不涉及课堂实施或学生学习成果
 > - **时间跨度** 1997 年回归至 2021 年公民与社会发展科（CSD）实施，覆盖 LS 从酝酿到废除的全周期
@@ -312,7 +310,7 @@ CSD 的课程内容也发生了根本性转变。六个跨学科模块被三个�
 ## 主要发现
 
 > [!success] 核心发现
-> 1. **全球化论述的[[Conceptual, Instrumental, and Symbolic Use of Research\|工具性使用]]**。如果仅看 LS 的创立，似乎验证了 [[World Society Theory\|世界文化理论]] 的趋同[[Hypothesis\|假设]]。但港府引用全球论述的真正目的是"[[Externalization\|外部化]]"国内问题，这更符合 [[Policy Borrowing\|政策借用]] 逻辑。全球趋势和海外模式是合法化改革的修辞工具，而非变革的真正动因(p. 491)。
+> 1. **全球化论述的[[Conceptual, Instrumental, and Symbolic Use of Research\|工具性使用]]**。如果仅看 LS 的创立，似乎验证了 [[World Society Theory\|世界文化理论]] 的趋同假设。但港府引用全球论述的真正目的是"[[Externalization\|外部化]]"国内问题，这更符合 [[Policy Borrowing\|政策借用]] 逻辑。全球趋势和海外模式是合法化改革的修辞工具，而非变革的真正动因(p. 491)。
 >
 > 2. **Cuban 框架中各因素的权重发生了戏剧性变化**。创立阶段，[[Progressive Education\|进步教育]]运动和立法协商是核心；废除阶段，"冷战/国防"以"新冷战"和"国家安全"的形式回归，成为压倒其他所有因素的决定性力量(pp. 488–489)。
 >

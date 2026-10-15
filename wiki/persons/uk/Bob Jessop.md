@@ -7,7 +7,7 @@ summary: "英国社会学家和政治经济学家，文化政治经济学代表�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 14
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Hub and Flow Imaginaries]]"
   - "[[Flow]]"
-  - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[Cultural Political Economy]]"
   - "[[Hegemony]]"
@@ -44,7 +43,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 ## 简介
 
@@ -112,7 +111,7 @@ Sum & Jessop（2013, p.284）提供了 Moisio 所采纳的 KBE 经典定义：
 - [[Knowledge-Based Economy]] — 提供 KBE 的经典系统定义，将其定位为霸权的元治理对象
 - [[Knowledge-Based Economization]] — [[Cultural Political Economy|CPE]] 框架为 Moisio 的知识经济化概念提供了关键分析语言：特别是"想象"的构成性和履行性角色、以及经济形式与额外经济形式的共在
 - [[Hub and Flow Imaginaries]] — Jessop 的"想象"概念是其直接理论基础：Moisio 借以论证 Hub and [[Flow]] 想象不仅描述世界，更在制造世界([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.26–27]])
-- Gramci 的[[Hegemony|霸权理论]]与 CPE 的结合 — 论证资本积累体制的巩固依赖于"智识、政治和道德领导力"的行使，想象在其中发挥关键[[Transfer Translation Transformation|转译]]功能([[Argument_Moisio_2022_Springer|Moisio, 2022, p.26]])
+- Gramci 的[[Hegemony|霸权理论]]与 CPE 的结合 — 论证资本积累体制的巩固依赖于"智识、政治和道德领导力"的行使，想象在其中发挥关键转译功能([[Argument_Moisio_2022_Springer|Moisio, 2022, p.26]])
 
 ---
 

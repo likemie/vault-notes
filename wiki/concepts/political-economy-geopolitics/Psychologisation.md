@@ -6,7 +6,7 @@ aliases:
 summary: "将社会政治不满重新框定为个体心理调适问题的治理策略，通过课程去政治化、课外感恩教育和个体化归因三条路径运作"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Social-Emotional Learning]]"
   - "[[Progressive Education]]"
-  - "[[Benevolence]]"
   - "[[Patriotic Education]]"
 related_theories: []
 related_methods:
@@ -38,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-25'
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Psychologisation
@@ -109,7 +108,7 @@ updated: 2026-10-07
 > [!claim] Vickers, 2024
 > **全球[[Social-Emotional Learning\|社会情感学习]]与传统文化清单的工具化共谋**
 > - **社会情感学习概念的工具化挪用** 借用新自由主义框架下强调心态调适的社会情感学习运动，将其与内地的感恩教育逻辑并置，从而为威权性的情感控制提供全球流行概念的伪装（[[Argument_Vickers_2024_CE\|Vickers, 2024, p.153]]）。
-> - **传统美德清单的降维利用** 将中华文化本质化提炼为孝、[[Benevolence\|仁]]、义、礼等一组特定的个人道德美德，忽略文化的流变与反思功能，用以教育学生接受中国身份是不可抗拒的血脉与宿命（pp.150–151）。
+> - **传统美德清单的降维利用** 将中华文化本质化提炼为孝、仁、义、礼等一组特定的个人道德美德，忽略文化的流变与反思功能，用以教育学生接受中国身份是不可抗拒的血脉与宿命（pp.150–151）。
 
 ---
 

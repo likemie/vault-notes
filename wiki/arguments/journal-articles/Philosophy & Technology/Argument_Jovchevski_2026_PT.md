@@ -32,7 +32,6 @@ related_concepts:
   - "[[Epistemic Friction]]"
   - "[[Socratic Dialogue]]"
   - "[[Cognitive Deskilling]]"
-  - "[[Document]]"
   - "[[Hypothesis]]"
   - "[[Reliability]]"
   - "[[AI Agent in Education]]"
@@ -59,7 +58,7 @@ title: "Argument_Jovchevski_2026_PT"
 argument_key: "Argument_Jovchevski_2026_PT"
 argument_display_title: "What is wrong with automation bias?"
 argument_kind: "journal-article"
-argument_related_count: 20
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -112,7 +111,7 @@ issuing_organization: ""
 > | **规范哲学论证与思想实验** | 运用小微信贷审批思想实验、爱国者导弹误击事故及信任博弈实验，分别从程序主义（信念修正连贯性）与实质主义（关系权威与[[Cognitive Deskilling\|去技能化]]）两路推导强偏差对自主性的侵害。（pp. 8–17） |
 > | **伦理推演与交互设计建模** | 结合自主武器杀伤链的尊严论批判，推演人在回路的形式化失效机制；提出反思机器（[[Socrates\|苏格拉底]]追问）与击败者架构（反驳型反例呈现）的设计规程。（pp. 17–25） |
 
-> [!sample-panel]- [[Document|文献]]语料与现实案例范围
+> [!sample-panel]- 文献语料与现实案例范围
 > | 领域层面 | 纳入材料与典型案例 |
 > |---|---|
 > | **跨领域实证语料** | 涵盖航空工效学（Mosier et al., 1992, 1998）、[[Trust Calibration\|人机信任校准]]（Muir, 1987; Lee & See, 2004; Hoff & Bashir, 2015）、医疗 AI 辅助诊断（Lyell & Coiera, 2017; Rosbach et al., 2025）及人机博弈实验（Klingbeil et al., 2024）。 |

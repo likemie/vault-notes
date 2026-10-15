@@ -7,7 +7,7 @@ title: "Argument_Sobe_Fischer_2009_MobilityMigration"
 argument_key: "Argument_Sobe_Fischer_2009_MobilityMigration"
 argument_display_title: "Mobility, Migration and Minorities in Education"
 argument_kind: "book-chapter"
-argument_related_count: 52
+argument_related_count: 49
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -57,11 +57,9 @@ related_concepts:
   - "[[Champ]]"
   - "[[Boarding Schools]]"
   - "[[Paradigm]]"
-  - "[[Hypothesis]]"
   - "[[International Education]]"
   - "[[Knowledge Questions]]"
   - "[[Research Scope]]"
-  - "[[Document]]"
 related_theories:
   - "[[Governmentality]]"
   - "[[Two Problematics of Educational Inclusion and Exclusion]]"
@@ -73,7 +71,6 @@ related_methods:
   - "[[Comparative Policy Analysis]]"
   - "[[Ethnography]]"
   - "[[Fieldwork]]"
-  - "[[Coding in Qualitative Research]]"
 related_instruments: []
 related_persons:
   - "[[Thomas S. Popkewitz]]"
@@ -241,7 +238,7 @@ updated: 2026-10-10
 > [!evidence-grid] 学生流动成因实证研究对官方病态化叙事的对质
 > - **居住变迁的主导地位** 拉塞尔·伦伯格（Russell Rumberger, 2003）实证指出，居住地变迁是导致美国中小学生中途转校的最大因素（约占 60%），大多源于租房到期或家长工作调动等客观现实。（p. 363）
 > - **底层家庭的主动避险选择** 柯博等学者（Kerbow et al., 2003）对芝加哥城市学校的调查表明，大量居住变迁属于同城近距离搬迁；许多贫困与少数族裔家庭中途转校是深思熟虑的选择，旨在逃避原校严重的校园暴力、低下的教学质量与混乱校风，是底层家长谋求孩子人身安全的理性抗争。
-> - **高等教育与[[Teacher Mobility|教师流动]]的反差镜像** 在美国高等教育中，学生跨校流动被称为[[Multiple Institution Attendance|多机构就读]]（Multiple Institution Attendance），常被指责为拉低毕业率的低效损耗（Pusser & Turner, 2004）；只有富裕家庭学生的海外交流才被命名为国际交流而免遭污名。同时，在[[Teacher Mobility|教师流动]]（Teacher Mobility）镜像中，欧洲将教师跨国任教视作一体化理想（Sayer, 2006），而美国基础教育则更关注优秀教师因为待遇和环境逃离贫困薄弱学校的[[Attrition|流失]]危机（Attrition, Elfers et al., 2006; Scafidi et al., 2007）。（pp. 363–364）
+> - **高等教育与[[Teacher Mobility|教师流动]]的反差镜像** 在美国高等教育中，学生跨校流动被称为[[Multiple Institution Attendance|多机构就读]]（Multiple Institution Attendance），常被指责为拉低毕业率的低效损耗（Pusser & Turner, 2004）；只有富裕家庭学生的海外交流才被命名为国际交流而免遭污名。同时，在[[Teacher Mobility|教师流动]]（Teacher Mobility）镜像中，欧洲将教师跨国任教视作一体化理想（Sayer, 2006），而美国基础教育则更关注优秀教师因为待遇和环境逃离贫困薄弱学校的流失危机（Attrition, Elfers et al., 2006; Scafidi et al., 2007）。（pp. 363–364）
 
 > [!contrast-table] 欧美学生流动政策建构的跨大西洋对比
 > | 比较维度 | 欧洲联盟政策话语（EU Discourse） | 美国联邦问责政策话语（US NCLB Discourse） |
@@ -252,7 +249,7 @@ updated: 2026-10-10
 > | **治理功能定位** | 建构超国家公民归属感与网络化弹性[[Employability\|就业能力]] | 识别学校生源异化、解释未达 AYP 绩效达标的减分因子 |
 > | **对主体移动的定性** | 自主自决的公民权利与崇高时代美德 | 拒绝服从空间圈禁规训的越轨偏离行为 |
 > | **高等教育跨校流动** | 制度化全欧洲学分互认与学位无缝衔接 | 降格为[[Multiple Institution Attendance\|多机构就读]]，被指责为降低系统效率与毕业率 |
-> | **[[Teacher Mobility\|教师流动]]政策镜像** | 消除边境壁垒、统一欧洲师资资质的理想目标 | 师资流失危机（Attrition），揭示良师逃离贫困薄弱学校 |
+> | **[[Teacher Mobility\|教师流动]]政策镜像** | 消除边境壁垒、统一欧洲师资资质的理想目标 | 师资流失危机（[[Attrition]]），揭示良师逃离贫困薄弱学校 |
 
 ---
 
@@ -330,7 +327,7 @@ updated: 2026-10-10
 > |---|---|---|
 > | **核心关注焦点** | 个体与群体在学校机构中的制度准入（Access）与代表性（Representation）。（p. 367） | 评判个体行为何为正当与失范、美德与缺陷的文化思维系统（Systems of Reasoning）。（pp. 367–368） |
 > | **对国家角色的理解** | 将国家视作一个由各方利益驱动、受制于物质资源的功利分配者。 | 将国家视作生产管理话语、确立人群分类排斥标准的制度机器。（p. 368） |
-> | **对排斥机制的诊断** | 排斥源于财政经费不足、学费门槛高昂、学区划界歧视或法定资格缺失。 | 排斥源于话语对人群的道德[[Coding in Qualitative Research\|编码]]，在观念底层把特定群体预设为有缺陷或落后的。 |
+> | **对排斥机制的诊断** | 排斥源于财政经费不足、学费门槛高昂、学区划界歧视或法定资格缺失。 | 排斥源于话语对人群的道德编码，在观念底层把特定群体预设为有缺陷或落后的。 |
 > | **传统政策补救手段** | 增加公共教育拨款、出台反歧视法规、提供免费午餐与保障名额。 | 批判并解构政策话语背后的分类框架，反思被视为理所当然的常识。 |
 
 #### 2. 学校空间实践构成了连结物质准入与文化分类的关键纽带
@@ -360,7 +357,7 @@ updated: 2026-10-10
 > - **150 万人** 欧洲联盟伊拉斯谟计划（ERASMUS）自 1987 年设立至 2007 年二十周年期间资助的跨国研修大学生总规模。（p. 362）
 > - **2000 万人** 中国进城务工随迁学龄儿童的估计总量，面临城乡二元户籍准入排斥与[[Schools for Migrant Children|打工子弟学校]]取缔危机。（p. 365）
 > - **9%** 西班牙外籍常住人口比例，其 0–14 岁外籍学童在 2002 至 2006 年间翻了一倍以上，推动[[Intercultural Education|跨文化教育]]改革。（p. 366）
-> - **60%** 美国中小学生学年中途转校中归因于家庭居住地址变迁的比例（Rumberger, 2003），反驳纯粹家庭病态化[[Hypothesis|假设]]。（p. 363）
+> - **60%** 美国中小学生学年中途转校中归因于家庭居住地址变迁的比例（Rumberger, 2003），反驳纯粹家庭病态化假设。（p. 363）
 
 ---
 
@@ -392,7 +389,7 @@ updated: 2026-10-10
 
 > [!warning] [[Research Scope|研究边界]]与局限
 > 1. **未纳入非自愿强迫迁移的专门讨论** 研究聚焦于伴随经济就业的自愿流动，未涵盖武装冲突、战争避难、难民营与跨国遣返等强迫迁移（Forced Migration）所涉及的复杂教育与心理重建问题。（pp. 364–365）
-> 2. **未展开永久定居移民的多代同化全景** 分析主要关注在不同学校与地区之间处于转徙中（in transit）的流动学生，未系统展开关于永久性定居移民的代际同化[[Document|文献]]。
+> 2. **未展开永久定居移民的多代同化全景** 分析主要关注在不同学校与地区之间处于转徙中（in transit）的流动学生，未系统展开关于永久性定居移民的代际同化文献。
 > 3. **案例经验的情境局限** 印度拉巴里游牧部族的应对策略植根于当地特定的生计结构，无法直接推论至伊朗或尼日利亚等其他[[Nomadic Education|游牧教育]]情境。（p. 367）
 
 ---

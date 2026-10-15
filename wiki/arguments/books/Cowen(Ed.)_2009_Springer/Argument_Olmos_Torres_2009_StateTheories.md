@@ -27,7 +27,6 @@ related_concepts:
   - "[[Financial-Intellectual Complex]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Praxis]]"
-  - "[[Hypothesis]]"
   - "[[Construct]]"
   - "[[Pact of Domination]]"
   - "[[Politicity of Education]]"
@@ -35,7 +34,6 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Discourse]]"
-  - "[[Document]]"
   - "[[Cosmopolitanism]]"
   - "[[Competitiveness]]"
   - "[[Dual School System]]"
@@ -52,7 +50,6 @@ related_concepts:
   - "[[Educational Level]]"
   - "[[Policy Conditionalities]]"
   - "[[Popular Education]]"
-  - "[[Bildung]]"
   - "[[Conscientization]]"
   - "[[Bureaucracy]]"
   - "[[Creativity]]"
@@ -83,7 +80,6 @@ related_persons:
   - "[[Stephen Ball]]"
   - "[[Joel Samoff]]"
   - "[[Daniel Bensaïd]]"
-  - "[[Carlos Alberto Torres]]"
   - "[[Mark Ginsburg]]"
   - "[[Liliana Esther Olmos]]"
   - "[[David Held]]"
@@ -118,7 +114,7 @@ title: "Argument_Olmos_Torres_2009_StateTheories"
 argument_key: "Argument_Olmos_Torres_2009_StateTheories"
 argument_display_title: "Theories of The State, Educational Expansion, Development, and Globalizations: Marxian and Critical Approaches"
 argument_kind: "book-chapter"
-argument_related_count: 79
+argument_related_count: 75
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -142,7 +138,7 @@ issuing_organization: ""
 
 > [!concept-lens] 阅读透镜
 > - **对象** 现代国家理论与教育扩张的互动关系，以 20 世纪战后拉丁美洲（重点考证墨西哥、阿根廷、哥斯达黎加与智利）的教育发展史、工业化转型与新自由主义结构调整为核心经验案例。（pp. 73–74, 81–84）
-> - **张力** 宏大功能主义与普世世界文化理论的非历史均质化[[Hypothesis|假设]]，对决新马克思主义政治经济学强调的资本积累阶段性、[[Legitimation Crisis|合法化危机]]、殖民剥削遗产与历史具体性。（pp. 74–76）
+> - **张力** 宏大功能主义与普世世界文化理论的非历史均质化假设，对决新马克思主义政治经济学强调的资本积累阶段性、[[Legitimation Crisis|合法化危机]]、殖民剥削遗产与历史具体性。（pp. 74–76）
 > - **贡献** 系统提炼比较教育政治社会学[[Analytic Framework|分析框架]]，确立[[Conditioned State Theory|受限国家理论]]、[[State Corporatism|国家法团主义]]、[[Compensatory Legitimation|补偿性合法化]]与[[Financial-Intellectual Complex|金融-智识复合体]]等核心[[Construct|构念]]，推动比较教育学彻底摆脱西方中心主义的现代化叙事与技术官僚迷思。（pp. 77–85）
 
 ---
@@ -175,7 +171,7 @@ issuing_organization: ""
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **理论[[Document\|文献]]样本** | 涵盖[[Martin Carnoy\|卡诺伊]]、[[Paulo Freire\|弗莱雷]]、葛兰西、萨特、[[Michael W. Apple\|阿普尔]]、[[Stephen Ball\|鲍尔]]、[[Joel Samoff\|萨莫夫]]、多斯桑托斯及[[Daniel Bensaïd\|本萨义德]]等学者的经典文本。（pp. 85–86） |
+> | **理论文献样本** | 涵盖[[Martin Carnoy\|卡诺伊]]、[[Paulo Freire\|弗莱雷]]、葛兰西、萨特、[[Michael W. Apple\|阿普尔]]、[[Stephen Ball\|鲍尔]]、[[Joel Samoff\|萨莫夫]]、多斯桑托斯及[[Daniel Bensaïd\|本萨义德]]等学者的经典文本。（pp. 85–86） |
 > | **经验与历史案例** | 重点覆盖拉丁美洲地区（墨西哥后革命国家法团体制与扫盲政策、阿根廷布宜诺斯艾利斯大学高教重构、智利新自由主义中产阶级危机）的制度演变档案。（pp. 79, 81–84） |
 > | **跨国统计与政策材料** | 世界银行教育部门政策文件、结构调整贷款协议文本、[[UNESCO\|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization, UNESCO）/联合国拉丁美洲和加勒比经济委员会（United Nations Economic Commission for Latin America and the Caribbean, CEPAL）/联合国开发计划署（United Nations Development Programme, PNUD）历史联合统计报告。（pp. 81, 85–86） |
 
@@ -196,13 +192,13 @@ issuing_organization: ""
 
 ### 论证步骤一　战后教育扩张不是普世文化趋同，而是资本积累与殖民遗产塑造的阶级分选
 
-[[Cosmopolitanism|普世主义]][[World Society Theory|世界文化理论]]将战后教育扩张简化为单一价值模型的扩散，但这种非历史[[Hypothesis|假设]]无法解释第三世界国家的阶级分化现实。
+[[Cosmopolitanism|普世主义]][[World Society Theory|世界文化理论]]将战后教育扩张简化为单一价值模型的扩散，但这种非历史假设无法解释第三世界国家的阶级分化现实。
 
 > [!critique-logic] 战后世界文化理论的逻辑缺陷
 > 战后主流的[[World Society Theory|世界文化理论]]认为，全球教育扩张是现代国家模仿单一世界[[Cultural Models|文化模型]]、追求公民权利与经济[[Competitiveness|竞争力]]的自然趋同过程。然而，这种解释预设了一个仿佛在 1945 年突然降临的大爆炸假说（Big Bang），割断了历史联系，无法解释为什么第三世界国家在经历了相同名义的教育扩张后，普遍演化出富人与穷人泾渭分明的阶级[[Dual School System|双轨学制]]。（pp. 74–75）
 
 > [!claim] 核心判断：非历史的普世叙事抹杀了殖民压迫与外围资本积累的残酷现实
-> 世界文化理论假定全球存在一个均质的价值体系，各国政府建立学校只是为了培育现代化公民。但是，正如[[Colonial State Theory|殖民国家理论]]所指出的，殖民与后殖民历史表明，第三世界国家并不是主动选择学校制度的，而是在不同历史时期被动接入全球资本主义体系的结果。正如[[Martin Carnoy|马丁·卡诺伊]]与[[Joel Samoff|乔尔·萨莫夫]]（Carnoy & Samoff, 1990）、[[Carlos Alberto Torres|托雷斯]]（Torres, 1991）以及[[Mark Ginsburg|马克·金斯伯格]]（Mark Ginsburg, 1991）对剧烈社会转型中国家教育改革研究所阐明的，教育制度的变迁始终深刻嵌入在国家权力、意识形态与经济积累的矛盾之中。殖民时期的宗主国完全不需要通过教育换取被统治者的政治认同，其设立的有限学校主要用于满足资源掠夺和培养初级行政仆从；后殖民时期的教育扩张，则不可避免地承受着资本积累需求与本土历史遗产的双重制约。（pp. 74–76）
+> 世界文化理论假定全球存在一个均质的价值体系，各国政府建立学校只是为了培育现代化公民。但是，正如[[Colonial State Theory|殖民国家理论]]所指出的，殖民与后殖民历史表明，第三世界国家并不是主动选择学校制度的，而是在不同历史时期被动接入全球资本主义体系的结果。正如[[Martin Carnoy|马丁·卡诺伊]]与[[Joel Samoff|乔尔·萨莫夫]]（Carnoy & Samoff, 1990）、托雷斯（Torres, 1991）以及[[Mark Ginsburg|马克·金斯伯格]]（Mark Ginsburg, 1991）对剧烈社会转型中国家教育改革研究所阐明的，教育制度的变迁始终深刻嵌入在国家权力、意识形态与经济积累的矛盾之中。殖民时期的宗主国完全不需要通过教育换取被统治者的政治认同，其设立的有限学校主要用于满足资源掠夺和培养初级行政仆从；后殖民时期的教育扩张，则不可避免地承受着资本积累需求与本土历史遗产的双重制约。（pp. 74–76）
 
 两种分析路径在解释驱动力、历史因果与国家职能上存在根本分歧。
 
@@ -236,7 +232,7 @@ issuing_organization: ""
 > [!claim] 核心判断：标榜技术中立的教育规划掩盖了国家作为阶级权力工具的本质
 > 正如[[Martin Carnoy|马丁·卡诺伊]]（Martin Carnoy, 1992）所指出的，绝大多数教育政策分析都暗含着一种国家理论。[[Liberal-Pluralist Theory of the State|自由多元主义国家观]]假定国家是中立的仲裁者，新马克思主义则揭示国家是维系统治阶级政治经济利益的暴力与统识工具。如果研究者不澄清自己依赖的国家观，就会无意识地沦为既有权力秩序的辩护士。（pp. 73–74, 78）
 
-> [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]论国家理论对教育规划的前提性支配
+> [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论国家理论对教育规划的前提性支配
 > 界定教育的“真实”问题以及最适宜（如最具成本效益、伦理上可接受且具有合法性）的解决方案，在很大程度上取决于支撑、证成并指引教育诊断与提议方案的国家理论。然而，正如[[Martin Carnoy|马丁·卡诺伊]]（Martin Carnoy, 1992）所指出的，大多数教育问题分析都暗含着一种国家理论，但在教育研究与实践中，这种理论的根本前提却极少被识别或阐明。对我们自身的理论假定保持自我审思，是开展扎实学术研究的前提条件。（pp. 73–74）
 >
 > *Defining the "real" problems of education and the most appropriate (e.g., cost-effective, ethically acceptable, and legitimate) solutions depends greatly on the theories of the state that underpin, justify, and guide the educational diagnosis and proponed solutions. There is, however, a permanent challenge here. As Martin Carnoy (1992) has argued, most analyses of educational problems have implicit in them a theory of the state but seldom are the fundamentals of that theory recognized or spelled out in educational research and practice.*
@@ -370,7 +366,7 @@ issuing_organization: ""
 
 面对受限国家机器与法团主义官僚恩庇，拉美基层社会孕育了自主的批判教育抵抗传统。
 
-> [!claim] 核心判断：[[Popular Education|民众教育]]解构“[[Bildung|教化]]主权者”神话，确立工农大众历史主体性
+> [!claim] 核心判断：[[Popular Education|民众教育]]解构“教化主权者”神话，确立工农大众历史主体性
 > 尽管拉美自由主义国家试图通过扩大公立教育确立其统治合法性，并将政策理由总结为“教化主权者”（educate the sovereign），但 1960 年代伴随受压迫者教育学、[[Conscientization|批判意识觉醒]]与[[Popular Education|民众教育]]（Educación Popular）的兴起，这一资产阶级恩赐假定遭到了彻底解构。民众教育坚决反对国家法团主义将成人扫盲蜕变为换取政治顺从的恩庇工具，主张教育必须扎根大众生活现实，通过对等对话激发批判意识，成为被压迫阶级自我赋权与民主反抗的自主武器。（p. 84）
 
 ---
@@ -420,7 +416,7 @@ issuing_organization: ""
 >
 > *Samoff argues persuasively that the World Bank is a major player in an intellectual and financial complex pursuing the transnationalization of knowledge and expertise, using a community of experts for hire in a process where there is a strong confluence of research and educational financing. The world is seen as having a pivotal role in the network of power and decision making in education worldwide, influencing in peculiar ways research and policy-making in developing countries as well as influencing the international discourse in education by different means.*
 
-> [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]论[[Conditioned State Theory|受限国家]]与依附性危机
+> [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论[[Conditioned State Theory|受限国家]]与依附性危机
 > 受限国家的理论进一步拓展并澄清了依附国家的概念，指出国家受制于其经济在世界体系中扮演的外围角色以及自身政治体系中显著的后封建元素。因此，拉美受限国家无法正常履行其公共职能：一方面，本土经济的脆弱性使本土统治集团不愿允许大众以多元方式参与国家官僚机构的遴选；另一方面，底层阶级历史上更倾向于将国家视为统治阶级的[[Pact of Domination|支配同盟]]或代用国家，而非代表公民利益的独立公权力。（p. 83）
 >
 > *The theory of the "conditioned states" in the Third World, expanding upon and clarifying the notion of the dependent state, argues that the state is conditioned "by the nature of the peripheral role that its economy plays in the world system and the significant (postfeudal) elements in its own political system". Therefore, Latin American "conditioned states" have not been able to carry out their public functions properly for a number of reasons. On the one hand, the fragility of local economies made local dominant groups unwilling to allow the pluralist participation of the masses in the selection of the state [[Bureaucracy]]. On the other hand, since the state historically has been identified by the popular sectors more as a pact of domination by the dominant classes, or a surrogate state, it has not been seen as an independent state working on behalf of the citizenry.*

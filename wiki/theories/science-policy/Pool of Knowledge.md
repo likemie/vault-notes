@@ -8,7 +8,7 @@ aliases:
 summary: "万尼瓦尔·布什在1945年布什报告中提出的科学政策基石理论；将大学自由探索的基础研究比作国家知识蓄水池，为工业界的应用技术创新提供活水，从非排他性与非竞争性的公共品属性论证了由联邦财政全面承担大学基础研究资助的正当性。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 25
+theory_related_count: 24
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Market Failure]]"
   - "[[Research Universities]]"
-  - "[[Hypothesis]]"
   - "[[Application Engineering]]"
   - "[[Research Question]]"
   - "[[University-Industry Collaboration]]"
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Pool of Knowledge
@@ -83,7 +82,7 @@ updated: 2026-10-07
 
 > [!dev-timeline] 理论演变与批判拓展
 > - **1945 — 经典蓄水池与线性假说** 布什报告确立了“基础研究 $\rightarrow$ 应用研究 $\rightarrow$ 开发与产品化”的单向线性供给假说，强调学术探索必须保持绝对自治以维护知识池的纯洁性。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 35)]]
-> - **1980 — 产学产权联通与反向注水** 《[[Bayh-Dole Act of 1980|拜杜法案]]》与 [[National Science Foundation|NSF]] [[Industry-University Cooperative Research Centers|大学-工业界合作研究中心]]（I/UCRC）重塑了该理论的单向[[Hypothesis|假设]]，认识到工业界的实际技术痛点与工程挑战同样能反向反哺并激活大学知识池的活力。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 40–42)]]
+> - **1980 — 产学产权联通与反向注水** 《[[Bayh-Dole Act of 1980|拜杜法案]]》与 [[National Science Foundation|NSF]] [[Industry-University Cooperative Research Centers|大学-工业界合作研究中心]]（I/UCRC）重塑了该理论的单向假设，认识到工业界的实际技术痛点与工程挑战同样能反向反哺并激活大学知识池的活力。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 40–42)]]
 > - **1997 — 斯托克斯[[Pasteur's Quadrant|巴斯德象限]]拓展** 斯托克斯（[[Donald Stokes|Donald E. Stokes]]）提出[[Stokes' Quadrant Model of Scientific Research|巴斯德象限模型]]，纠正了知识池理论中“纯基础探索”与“应用关切”互斥的两极化预设，证明“受应用引发的基础研究”构成了更高效的知识蓄水池形态。
 
 ---
@@ -134,7 +133,7 @@ updated: 2026-10-07
 ## 局限性与适用边界
 
 > [!theory-boundary] 理论边界与适用局限
-> - **线性创新[[Hypothesis|假设]]的简单化** 理论默认基础研究自然会按水流顺畅外溢至下游工业，低估了基础科学向实际工程跨越所面临的“[[Valley of Death|死亡之谷]]”（Valley of Death）与复杂的跨组织转化壁垒。
+> - **线性创新假设的简单化** 理论默认基础研究自然会按水流顺畅外溢至下游工业，低估了基础科学向实际工程跨越所面临的“[[Valley of Death|死亡之谷]]”（Valley of Death）与复杂的跨组织转化壁垒。
 > - **对逆向反馈机制的忽视** 工业界工程实践中遭遇的技术瓶颈往往是倒逼基础科学产生重大理论突破的动力源（如蒸汽机催生热力学、[[Bell Labs|贝尔实验室]]晶体管催生固态物理），知识流动并非单向的蓄水与取水。
 > - **学科解释力差异** 蓄水池隐喻在数理、天文等纯基础学科高度适用，但在现代生物医药与计算机软件领域，基础科学发现与商业专利化应用之间的距离已被极度压缩，公共品与专有品的界限日趋模糊。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–44)]]
 

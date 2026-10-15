@@ -8,7 +8,7 @@ aliases:
 summary: "Robert Ennis (1989) 提出的批判性思维课程设计四分法理论，依据思维原则的显性程度与学科知识的结合架构划分为独立通用、学科融入、学科沉浸与显性混合四种模式"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 20
+theory_related_count: 19
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Immersion Approach]]"
   - "[[Construct]]"
   - "[[Variable]]"
-  - "[[Hypothesis]]"
   - "[[Reliability]]"
   - "[[Scaffolding]]"
   - "[[Academic Achievement]]"
@@ -46,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Ennis's Curricular Typology
@@ -114,7 +113,7 @@ updated: 2026-10-08
 > [!proposition-chain] 命题推导
 > - **前提一** 沉浸模式与融入模式均在常规学科内部展开高强度的思维探究，两者的唯一[[Variable\|变量]]差异在于**是否向学生显性揭示[[Critical Thinking\|批判性思维]]原则与反思[[Metacognition\|元认知]]**（Ennis, 1989）。
 > - **前提二** 大规模[[Meta-analysis\|元分析]]实证显示，显性的[[Infusion Approach\|学科融入模式]]干预效果达 $g+ = 0.29$（$k = 152$），而隐性的[[Immersion Approach\|学科沉浸模式]]效果仅为 $g+ = 0.23$（$k = 61$），在所有四类模式中表现最弱（[[Argument_Abrami_2015_RER\|Abrami et al., 2015]]）。
-> - **推导结论** 单纯增加学科内容的探究难度（沉浸）并不能自动转化为学生的批判性思维能力；只有当教师把“如何识别[[Hypothesis\|假设]]、如何评估证据可[[Reliability\|信度]]、如何避免逻辑谬误”等思维准则作为显性知识进行示范与[[Scaffolding\|脚手架]]搭建时，才能有效促进思维技能的发展。
+> - **推导结论** 单纯增加学科内容的探究难度（沉浸）并不能自动转化为学生的批判性思维能力；只有当教师把“如何识别假设、如何评估证据可[[Reliability\|信度]]、如何避免逻辑谬误”等思维准则作为显性知识进行示范与[[Scaffolding\|脚手架]]搭建时，才能有效促进思维技能的发展。
 
 ---
 
@@ -144,7 +143,7 @@ updated: 2026-10-08
 > | **显性混合模式（Mixed）** | 独立显性教学 + 学科内深度融入 | 84 | **0.38** | 0.26 | 0.51 | $Q_b(3) = 4.10, p = .25$ | **综合效果最佳**；通用[[Metacognition\|元认知]]脚手架与学科情境演练产生协同放大效应。 |
 > | **[[Infusion Approach\|学科融入模式]]（Infusion）** | 学科教学中显性讲授思维原则 | 152 | **0.29** | 0.23 | 0.36 | | 兼顾学科知识学习与思维训练，成效稳健且易于在常规课堂落地。 |
 > | **直接通用模式（General）** | 独立开设思维与逻辑专门课程 | 44 | **0.26** | 0.14 | 0.37 | | 能够有效传授通用论证规则，但若缺乏学科应用则迁移幅度有限。 |
-> | **[[Immersion Approach\|学科沉浸模式]]（[[Presence\|immersion]]）** | 隐性渗透，不讲授通用思维规则 | 61 | **0.23** | 0.12 | 0.34 | | **效果最弱**；证明缺乏显性引导的“自发领悟”[[Hypothesis\|假设]]在统计上不成立。 |
+> | **[[Immersion Approach\|学科沉浸模式]]（[[Presence\|immersion]]）** | 隐性渗透，不讲授通用思维规则 | 61 | **0.23** | 0.12 | 0.34 | | **效果最弱**；证明缺乏显性引导的“自发领悟”假设在统计上不成立。 |
 
 ---
 

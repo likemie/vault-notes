@@ -13,7 +13,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 94
+fact_related_count: 93
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -47,13 +47,13 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Performance Indicators]]"
   - "[[Knowledge Bank]]"
+  - "[[School Autonomy]]"
   - "[[Knowledge Production]]"
   - "[[Learning Crisis]]"
   - "[[Multilateral Development Bank]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Going Native]]"
   - "[[Refined Mastery]]"
-  - "[[Document]]"
   - "[[Causality]]"
   - "[[Paradigm]]"
   - "[[Structural Adjustment Programs]]"
@@ -66,7 +66,6 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Epistemology]]"
   - "[[Champ]]"
-  - "[[School Autonomy]]"
   - "[[Social Imaginary]]"
   - "[[Soft Power by Hard Facts]]"
   - "[[Endogenous and Exogenous Privatisation]]"
@@ -188,7 +187,7 @@ updated: 2026-10-15
 >
 >   詹姆斯·沃尔芬森（James Wolfensohn）主导世行转型为知识银行。比奇指出，这意味着借款国在获得有限资金的同时，被迫成套借入西方技术官僚量身打造的整套教育制度愿景；而[[Claudio de Moura Castro|卡斯特罗]]（Castro）的实务观察表明，借款国重视世行建议的根本原因在于背后捆绑的主权贷款杠杆，脱离资金的纯政策咨询会重蹈教科文组织的无效覆辙。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 345–346)]]; [[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 472–473)]]
 >
->   - **1996** 正式宣布向知识银行（Knowledge Bank）转型，输出涵盖分权、学校自主、教师专业化、能力本位与中央测评五大支柱的制度愿景。
+>   - **1996** 正式宣布向知识银行（Knowledge Bank）转型，输出涵盖分权、[[School Autonomy|学校自主]]、教师专业化、能力本位与中央测评五大支柱的制度愿景。
 >   - **1999** 创设[[Global Development Network|全球发展网络]]（Global Development Network，GDN）探索本土去中心化[[Knowledge Production|知识生产]]，但很快被华盛顿总部集权的工具所取代。[[Argument_Steiner-Khamsi_2024_CE|(Stone, 2000; Steiner-Khamsi et al., 2024, p. 543)]]
 >   - **2000s** 在公共服务提供上日益绕过受援国政府，直接委托非政府组织提供教育，架空国家公共权威，使 NGO 蜕变为去政治化的影子国家。[[Argument_Arnove_2009_WorldSystems|(Sutton & Arnove, 2004; Kamat, 2004, cited in Arnove, 2009, pp. 111–112)]]
 >   - **2011** 推出[[Systems Approach for Better Education Results|改善教育成果系统分析法]]（Systems Approach for Better Education Results，SABER），并联合英美双边援助机构组建[[Building Evidence in Education|构建教育证据联盟]]（Building Evidence in Education，BE2），确立自指性政策仓库。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 545, 548)]]
@@ -249,7 +248,7 @@ updated: 2026-10-15
 > - **旗舰出版物与咨询成果** 1980 年《教育部门政策文件》；2018 年《世界发展报告：学习以实现教育的承诺》（WDR 2018）；《Teach 课堂观察员操作手册》（2019 年第一版）；各借贷国公共支出审查报告（PER）与国别教育战略备忘录。[[Argument_Steiner-Khamsi_2024_CE|(World Bank, 1980; Steiner-Khamsi et al., 2024, p. 542)]]; [[Argument_WorldBank_2019_Teach|(World Bank Group, 2019)]]
 
 > [!citation-card] 世界银行教育自主政策研究的独立宣言
-> 1980 年政策文件不仅反映了世界银行的业务行动日益建立在科研成果的基础之上，更昭示着世界银行正在开展完全属于自己的独立研究，并将在未来持续推进这一路线。这是极其值得欢迎的，因为世界银行所掌握的丰富的比较教育[[Document|文献]]与一手数据，是外界独立学者做梦也无法企及的。Psacharopoulos (1981, p. 144, 转引自 [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024, p. 542]])
+> 1980 年政策文件不仅反映了世界银行的业务行动日益建立在科研成果的基础之上，更昭示着世界银行正在开展完全属于自己的独立研究，并将在未来持续推进这一路线。这是极其值得欢迎的，因为世界银行所掌握的丰富的比较教育文献与一手数据，是外界独立学者做梦也无法企及的。Psacharopoulos (1981, p. 144, 转引自 [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024, p. 542]])
 >
 > *The 1980 Policy Paper does not only reflect the fact that Bank operations are now increasingly based on the results of research, but also that the Bank conducts research of its own and will continue to do so in the future. This is extremely welcome for the Bank has access to a wealth of comparative education material outsiders could not even dream about.*
 
@@ -397,7 +396,7 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid] [[Document|文献]]与论证索引
+> [!evidence-grid] 文献与论证索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 运用[[World-Systems Theory|世界体系分析]]透视世界银行等机构的教育援助政策，揭示其防卫性[[Disciplina and Doctrina|规训]]、固化国际分层以及扶植去政治化“[[Shadow State|影子国家]]”的政治经济学后果（pp. 105–107, 110–112）。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 建立[[Conditioned State Theory|受限国家理论]][[Analytic Framework|分析框架]]，解构世界银行[[Financial-Intellectual Complex|金融-智识复合体]]通过结构调整与指标杠杆对第三世界[[State Educational Sovereignty|国家教育主权]]的深度规训（pp. 80–85）。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 运用[[World Education Reform Database|世界教育改革数据库]]实证检验世界银行的自指性[[Policy Brokerage|政策中介]]机制，详述其从 [[UNESCO]] 依附期到回报率帝国与[[Knowledge Bank|知识银行]]演变的全过程（pp. 540–550）。

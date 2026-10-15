@@ -9,7 +9,7 @@ aliases:
 summary: "由世界银行、埃及教育部及国际开发署联合研发的面向中东北非基础教育情境的标准化课堂观察工具，围绕主动学习、支持性课堂环境、促进学习的评估以及有效课堂管理四大领域构建，采用4级表现量规评估教师在国家专业教学标准下的实际课堂表现，为区域教师绩效评估与在职教研提供结构化数据支持。"
 type: instrument
 instrument_type: observation-tool
-instrument_related_count: 12
+instrument_related_count: 11
 instrument_related_level: 2
 instrument_related_stars: "⭐⭐"
 instrument_related_color: "#cffafe"
@@ -40,7 +40,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Classroom Observation]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments:
   - "[[Teach Classroom Observation Tool]]"
@@ -99,7 +98,7 @@ SCOPE 严格对应埃及国家教师专业标准，涵盖四大核心教学领�
 > [!observation-focus] SCOPE 核心观察指标重点
 > <span class="instrument-observation-table-marker" aria-hidden="true"></span>
 >
-> | 编号 | 观察维度 | 观察重点 | 记录方式 | 判定或[[Coding in Qualitative Research\|编码]] | 来源 |
+> | 编号 | 观察维度 | 观察重点 | 记录方式 | 判定或编码 | 来源 |
 > |---|---|---|---|---|---|
 > | 1 | [[Active Learning\|主动学习]] | 教师是否设计需学生动手或合作完成的[[Problem Solving\|问题解决]]任务 | 现场连续观察记录 | 1–4 级标准达成度 | World Bank (2012) |
 > | 2 | [[Formative Assessment\|形成性评估]] | 教师提问是否覆盖全体学生，还是仅与坐前排的少数积极学生互动 | 现场连续观察记录 | 1–4 级标准达成度 | 同上 |

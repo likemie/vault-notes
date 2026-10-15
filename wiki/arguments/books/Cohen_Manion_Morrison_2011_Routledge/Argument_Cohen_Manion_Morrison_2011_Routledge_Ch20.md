@@ -12,9 +12,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20"
 argument_display_title: "Research Methods in Education · Ch20"
 argument_kind: "book-chapter"
-argument_related_count: 46
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_count: 44
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
 book_title: "Research Methods in Education"
 publication_place: "London"
@@ -38,7 +38,6 @@ related_concepts:
   - "[[Informed Consent]]"
   - "[[Non-maleficence and Beneficence in Research]]"
   - "[[Reliability]]"
-  - "[[Hypothesis]]"
   - "[[Construct]]"
   - "[[Research Question]]"
   - "[[Research Purpose]]"
@@ -67,7 +66,6 @@ related_methods:
   - "[[Chi-Squared Test]]"
   - "[[Meta-regression]]"
   - "[[Case Study]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Rating Scale]]"
   - "[[Ranking Questions]]"
   - "[[Semantic Differential]]"
@@ -164,7 +162,7 @@ Selltiz et al.（1976）提供了一份详尽的问卷构建指南，按四类�
 > **B 问题措辞的决策**（7 条）
 > 1. 问题是否可能被误解？是否包含困难或不清晰的措辞？
 > 2. 问题是否充分表达了与该点相关的替代选项？
-> 3. 问题是否因未陈述的[[Hypothesis\|假设]]或未被看见的隐含而具有误导性？
+> 3. 问题是否因未陈述的假设或未被看见的隐含而具有误导性？
 > 4. 措辞是否有偏见？是否有情感负载或偏向某种特定回答？
 > 5. 问题措辞是否可能以任何方式令受访者反感？
 > 6. 更个人化的措辞是否会产生更好的结果？
@@ -302,7 +300,7 @@ Selltiz et al.（1976）提供了一份详尽的问卷构建指南，按四类�
 > |---|---|---|
 > | 适用场景 | 大样本、测量导向、比较导向 | 小样本、探索性、特定情境[[Case Study\|案例研究]] |
 > | 回答性质 | 预设范围，结构化 | 自由书写，受访者以自己的话回答 |
-> | [[Coding in Qualitative Research\|编码]]与分析 | 快速编码，适合统计处理（Bailey, 1994, p. 118） | 难以编码和分类，不易跨参与者比较 |
+> | 编码与分析 | 快速编码，适合统计处理（Bailey, 1994, p. 118） | 难以编码和分类，不易跨参与者比较 |
 > | 受访者负担 | 快速完成，不因参与者表达能力而产生歧视（Wilson & McLean, 1994, p. 21） | 耗时较长，可能导致拒绝完成或使问卷显得冗长和令人沮丧 |
 > | 优势 | 可生成回应频率，便于跨组比较（Oppenheim, 1992, p. 115）；直接到点、更有焦点 | 可捕捉真实性、丰富性、深度、诚实和坦率；适合复杂议题；可用于生成后续封闭式问题的题项 |
 > | 风险 | 类别可能不穷尽、存在偏差；不允许受访者添加任何评论、限定或解释 | 可能产生无关或冗余信息；受访者可能不知道需要什么类型的信息；不适合大样本的文字数据处理 |

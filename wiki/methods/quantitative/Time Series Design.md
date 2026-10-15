@@ -10,7 +10,7 @@ summary: "准实验设计的重要范式，通过在干预前后开展多次等�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 35
+method_related_count: 34
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Hawthorne Effect]]"
   - "[[Dependent Variable]]"
   - "[[Variable]]"
-  - "[[Hypothesis]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
@@ -65,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-25
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Time Series Design
@@ -186,7 +185,7 @@ ho \varepsilon_{t-1} + u_t$），必须采用 Newey-West HAC 估计或 Prais-Win
 > - **共时历史事件混杂（Co-occurring History Threat）** 单组 [[Intelligent Tutoring Systems\|ITS]] 最根本的软肋：若干预推行的同时恰逢新校长上任或财政注资，分段回归无法在数理上区分哪个是真正原因（需借助 C-ITS 对照组缓解）。
 > - **测量工具漂移与敏感化（Instrumentation & Testing）** 高频重复测试可能引入[[Order Effects\|练习效应]]、疲劳效应或测验难度微调带来的虚假波动。
 > - **自相关导致的假阳性显著（Autocorrelation Bias）** 时间序列数据天然存在相邻点高度相关性，若直接套用普通 [[Ordinary Least Squares\|OLS]] 回归，将严重低估[[Standard Error\|标准误]]，导致原本不显著的 $\beta_2, \beta_3$ 呈现出虚假的[[Statistical Significance\|统计显著性]]。
-> - **延迟反应与模型误设（Lagged Effects & Model Misspecification）** 若真实干预需要 3 个月才起效，而研究者[[Hypothesis\|假设]]即时跳升，可能将真实的渐进斜率误判为无效果。
+> - **延迟反应与模型误设（Lagged Effects & Model Misspecification）** 若真实干预需要 3 个月才起效，而研究者假设即时跳升，可能将真实的渐进斜率误判为无效果。
 
 ---
 

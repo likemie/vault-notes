@@ -6,7 +6,7 @@ aliases:
 summary: "研究原因之效果的核心策略，通过施加干预并观察效果来建立因果推断，与回溯效果之原因的事后策略形成对照"
 type: concept
 domain: "research-methodology"
-related_count: 16
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -14,7 +14,6 @@ tags:
   - subject/research-methodology
   - topic/causation
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Causality]]"
   - "[[Praxis]]"
@@ -38,7 +37,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-18
-updated: 2026-06-18
+updated: 2026-10-15
 ---
 
 # Interventionist Strategy
@@ -46,7 +45,7 @@ updated: 2026-06-18
 ## 定义
 
 > [!def] 核心定义
-> 干预主义策略（interventionist strategy）是研究原因之效果（effects of causes）的核心策略：施加一项干预，目的有两种可能——检验[[Hypothesis\|假设]]的因果影响或因果模型，或者利用已知的因果效应来产生预期效果。干预主义策略通过操纵[[Variable\|变量]]来观察其对效果产生的差异，属于前向[[Causality\|因果推断]]（从原因到效果）。非干预本身也可以是原因——不浇水导致植物死亡，即什么都不做也可以是一个原因。
+> 干预主义策略（interventionist strategy）是研究原因之效果（effects of causes）的核心策略：施加一项干预，目的有两种可能——检验假设的因果影响或因果模型，或者利用已知的因果效应来产生预期效果。干预主义策略通过操纵[[Variable\|变量]]来观察其对效果产生的差异，属于前向[[Causality\|因果推断]]（从原因到效果）。非干预本身也可以是原因——不浇水导致植物死亡，即什么都不做也可以是一个原因。
 
 > [!concept-lens] 概念透镜
 > - **含义** 干预主义策略是主动介入、操纵变量以观察因果效应的研究取向——研究者不是被动观察，而是主动改变情境。
@@ -68,7 +67,7 @@ updated: 2026-06-18
 > | 维度 | 干预主义策略（研究原因之效果） | 事后回溯策略（研究效果之原因） |
 > |------|---------------------------|----------------------------|
 > | [[Causality\|因果]]方向 | 前向——施加干预，观察效果 | 后向——从已观察到的效果回溯寻找原因 |
-> | 研究逻辑 | 操纵[[Variable\|变量]] → 观察差异 → 归因 | 观察效果 → 提出[[Hypothesis\|假设]]原因 → 检验竞争假设 |
+> | 研究逻辑 | 操纵[[Variable\|变量]] → 观察差异 → 归因 | 观察效果 → 提出假设原因 → 检验竞争假设 |
 > | 确定性 | 相对较高——能操纵变量以观察效果 | 更尝试性和推断性——数据不完整，回溯因果链困难 |
 > | 核心挑战 | 隔离和控制所有变量、[[Causal Processes\|因果过程]]可能被忽视 | 从大量潜在原因中确定真正的原因 |
 > | 典型方法 | [[Experimental Research\|实验法]]、行动研究、调查分析、观察法 | [[Ex Post Facto Research\|事后回溯研究]]、七步推理过程 |

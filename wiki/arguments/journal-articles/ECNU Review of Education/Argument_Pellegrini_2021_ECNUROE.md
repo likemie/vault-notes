@@ -10,7 +10,7 @@ title: "Argument_Pellegrini_2021_ECNUROE"
 argument_key: "Argument_Pellegrini_2021_ECNUROE"
 argument_display_title: "Evidence-based policies in education: Initiatives and challenges in Europe"
 argument_kind: "journal-article"
-argument_related_count: 36
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Literature Review]]"
-  - "[[Document]]"
   - "[[Knowledge Mediation]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Reusability Paradox]]"
@@ -97,7 +96,7 @@ citation_aliases:
 
 > [!info] 研究方法
 > - 方法：政策文件分析与[[Literature Review\|文献综述]]。
-> - 数据来源：欧洲委员会、Eurydice et al.官方文件，以及[[Evidence-Based Education\|证据本位教育]]领域关于政策、实践和证据文化的[[Document\|文献]](p.25)。
+> - 数据来源：欧洲委员会、Eurydice et al.官方文件，以及[[Evidence-Based Education\|证据本位教育]]领域关于政策、实践和证据文化的文献(p.25)。
 > - 分析对象：欧盟和 Eurydice 网络成员国中促进[[Research Utilization\|证据使用]]的政策措施、证据生产与传播组织，以及欧洲发展证据知情教育政策面临的主要挑战(p.28)。
 
 ## 论证结构

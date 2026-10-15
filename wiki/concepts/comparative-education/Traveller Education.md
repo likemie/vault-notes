@@ -8,7 +8,7 @@ aliases:
 summary: "旅行者教育是指面向大篷车居民、旅行者以及罗姆/吉普赛族群儿童的专门教育政策与教学干预实践；该领域聚焦于具有漫游传统的少数群体所承受的社会污名、正规学校内部高度结构化的空间区隔引发的文化与身体失调，以及多元文化政策在追求社会融入与尊重社群空间自主性之间的内在张力。"
 type: concept
 domain: "comparative-education"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Sedentarism]]"
   - "[[Migrant Children]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Habitus]]"
   - "[[Heterogeneity]]"
   - "[[Variable]]"
   - "[[Intercultural Education]]"
@@ -41,7 +40,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Traveller Education
@@ -84,7 +83,7 @@ updated: 2026-10-10
 
 > [!feature] 核心要素
 > - **漫游污名的社会统合（Social Stigma of Itinerancy）** 尽管大篷车社群内部高度异质（涵盖传统流动家庭、已定居家庭以及冷战后来自中东欧的新罗姆移民），但在主流定居社会眼中均被统一贴上“流窜、不稳定与边缘病态”的社会污名。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 366)]]
-> - **学校微观空间的结构化[[Disciplina and Doctrina|规训]]（Highly Structured Use of Space）** 现代学校依靠被精细分割的教室、走廊走动限制、按钟声起坐以及不得随意外出的微观空间秩序，直接抵触旅行者儿童习惯于宽阔自然营地与灵活移动的身体[[Habitus|习性]]。
+> - **学校微观空间的结构化[[Disciplina and Doctrina|规训]]（Highly Structured Use of Space）** 现代学校依靠被精细分割的教室、走廊走动限制、按钟声起坐以及不得随意外出的微观空间秩序，直接抵触旅行者儿童习惯于宽阔自然营地与灵活移动的身体习性。
 > - **多元文化承认与空间同化的政策张力（Recognition vs Containment Paradox）** 英国等国政策一方面通过“旅行者教育服务（Traveller Education Services, TES）”试图在课程中尊重其族群尊严，另一方面学校的日常组织结构却在物质与身体层面强制推行定居化纪律，使教育实践陷入深刻矛盾。
 
 > [!logic-map]- 旅行者教育的制度遭遇与空间失调

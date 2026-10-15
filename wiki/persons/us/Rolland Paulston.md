@@ -8,7 +8,7 @@ summary: "匹兹堡大学比较教育学教授，1976年比较与国际教育学
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 28
+person_related_count: 27
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Positivism]]"
   - "[[Construct]]"
-  - "[[Document]]"
   - "[[Epistemological Break]]"
   - "[[Popular Education]]"
   - "[[Value Neutrality]]"
@@ -58,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-01
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Rolland Paulston
@@ -96,7 +95,7 @@ updated: 2026-10-10
 ## 主要著作与思想发展
 
 > [!work-line] 代表著作
-> - **1977 — *Social and Educational Change: Conceptual Frameworks*** 比较教育学史上引用率最高的经典[[Document|文献]]之一，系统梳理功能均衡[[Paradigm|范式]]与多元冲突范式在社会变迁认知上的[[Epistemological Break|认识论断裂]]。
+> - **1977 — *Social and Educational Change: Conceptual Frameworks*** 比较教育学史上引用率最高的经典文献之一，系统梳理功能均衡[[Paradigm|范式]]与多元冲突范式在社会变迁认知上的[[Epistemological Break|认识论断裂]]。
 > - **1980 — *Other Dreams, Other Schools: Folk Colleges in Social and Ethnic Movements*** 运用冲突与抗争视角考察[[Popular Education|民众教育]]和民族社会运动中的另类学校形态。
 > - **1996 — *[[Social Cartography]]: Mapping Ways of Seeing Social and Educational Change* (Ed.)** 奠定社会地图学理论与实践准则的开山巨著，倡导用跨学科地图图谱表达知识争鸣。
 > - **1999 — *Mapping the [[Postmodernism|postmodern]] in Comparative Education*** 反思世纪之交比较教育学的[[Epistemology|认识论]]碎片化，倡导通过地图隐喻实现范式间的宽容对话。

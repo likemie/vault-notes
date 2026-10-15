@@ -29,7 +29,6 @@ related_concepts:
   - "[[Cooperative Learning]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Affective Outcomes]]"
-  - "[[Document]]"
   - "[[Sampling Error]]"
   - "[[Academic Achievement]]"
   - "[[Variable]]"
@@ -57,7 +56,6 @@ related_concepts:
   - "[[Task Structure]]"
   - "[[External Validity]]"
   - "[[Reliability]]"
-  - "[[Hypothesis]]"
   - "[[Flow]]"
   - "[[Interaction Effect]]"
   - "[[Deficiencies in Past Literature]]"
@@ -74,7 +72,6 @@ related_methods:
   - "[[Confidence Interval]]"
   - "[[Survey Research]]"
   - "[[Random Assignment]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Systematic Review]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Inverse-Variance Weighting]]"
@@ -107,7 +104,7 @@ title: "Argument_Gungor_2026_CP"
 argument_key: "Argument_Gungor_2026_CP"
 argument_display_title: "A second-order meta-analysis on the effects of cooperative learning on students’ academic achievement, higher-order thinking, and affective behaviors"
 argument_kind: "journal-article"
-argument_related_count: 67
+argument_related_count: 64
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -131,7 +128,7 @@ issuing_organization: ""
 > - **测量产出单一** 仅聚焦低阶常规学业考试成绩，而忽略[[Higher-Order Thinking Skills\|高阶思维]]与[[Affective Outcomes\|情感动机]]；
 > - **学科范围单一** 过度集中于数学等个别学科，缺乏跨学科全局视野。
 >
-> 这种碎片化合成极大增加了[[Document\|文献]]的产出偏倚（product bias）与地点偏倚（location bias），且受制于一阶研究数量而残留着不可避免的二阶[[Sampling Error\|抽样误差]]（second-order sampling error，Schmidt & Oh, 2013）。如何通过更高层级的定量证据综合，系统评估合作学习对[[Academic Achievement\|学业成就]]、[[Higher-Order Thinking Skills\|高阶思维技能]]（Higher-Order Thinking Skills，HOTS）与[[Affective Outcomes\|情感行为]]的综合干预效应，并深入厘清教学技术、学科领域、学段、文化背景与实验设计等调节[[Variable\|变量]]的作用机制？（pp. 1–3）
+> 这种碎片化合成极大增加了文献的产出偏倚（product bias）与地点偏倚（location bias），且受制于一阶研究数量而残留着不可避免的二阶[[Sampling Error\|抽样误差]]（second-order sampling error，Schmidt & Oh, 2013）。如何通过更高层级的定量证据综合，系统评估合作学习对[[Academic Achievement\|学业成就]]、[[Higher-Order Thinking Skills\|高阶思维技能]]（Higher-Order Thinking Skills，HOTS）与[[Affective Outcomes\|情感行为]]的综合干预效应，并深入厘清教学技术、学科领域、学段、文化背景与实验设计等调节[[Variable\|变量]]的作用机制？（pp. 1–3）
 
 > [!claim] 核心主张
 > 基于 15 项一阶元分析（涵盖 403 项原始实证研究、23 个独立[[Effect Size\|效应量]]（Effect Size，ES））的[[Meta-meta-analysis\|二阶元分析]]（Second-Order Meta-Analysis，SOMA）表明，合作学习对学生的综合学习产出具有显著且高度稳健的中等促进效应（加权平均效应量 $ES = 0.71$，95% [[Confidence Interval\|置信区间]]（Confidence Interval，CI）为 $[0.55, 0.87]$），其中对高阶思维技能的赋能效应最为突出（$ES = 0.76$），高于学业成就（$ES = 0.71$）与情感行为（$ES = 0.51$）。其干预成效受到具体合作学习教学技术（[[Cooperative Integrated Reading and Composition\|合作整合阅读与写作]]（Cooperative Integrated Reading and Composition，CIRC）与小组[[Survey Research\|调查法]]（[[Group Investigation]]，GI）效应最高）、学科领域（语言、社会科与自然科学学科成效显著，体育学科不显著）以及原始研究实验设计类型（真实课堂准实验显著高于人工实验室全实验）的显著调节，同时揭示出当前软科学元分析严重匮乏的结构性文献失衡。（pp. 6–11）
@@ -157,7 +154,7 @@ issuing_organization: ""
 
 ### 核心变量与合作学习技术操作化编码表
 
-> [!index-table] 学习产出与合作学习技术操作化定义与[[Coding in Qualitative Research\|编码]]规程
+> [!index-table] 学习产出与合作学习技术操作化定义与编码规程
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
 > | **[[Higher-Order Thinking Skills\|高阶思维技能]]**<br>（Higher-Order Thinking Skills，HOTS） | 依据布鲁姆修订版认知目标分类学的高阶层级（分析、评价、创造），指超越机械识记与常规运算、需综合多源信息进行深层认知加工的心智能力，涵盖[[Critical Thinking\|批判性思维]]、[[Creativity\|创造性思维]]、复杂问题解决及[[21st Century Skills and Competencies Discourse\|21世纪核心素养]]。 | 加州批判性思维倾向问卷（California Critical Thinking Disposition Inventory，CCTDI）、托兰斯创造性思维测验（Torrance Tests of Creative Thinking，TTCT）、开放性探究任务表现量表；纳入 Siagian et al. (2023, 数学批判与创造性思维, $ES = 0.79/0.69$)、Solissa et al. (2023, 21世纪技能, $ES = 0.84$)、Özkan & Çetinkaya-Uslusoy (2024, 护理批判性思维, $ES = 0.70$) 等 4 个效应量，加权平均 $ES = 0.76$。 |
@@ -178,12 +175,12 @@ issuing_organization: ""
 
 ## 研究方法
 
-> [!method-panel] 研究设计与[[Coding in Qualitative Research\|编码]]流程
+> [!method-panel] 研究设计与编码流程
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **文献检索与筛选**<br>Systematic Search & Screening | 检索 Web of Science、Scopus、EBSCO 旗下数据库（包含教育资源信息中心（Educational Resources Information Center，ERIC）、Academic Search Ultimate、MEDLINE Complete、Teacher Reference Center、MasterFILE Complete Academic）及 Google Academic 灰色文献；使用[[Cooperative Learning\|合作学习]]技术（拼图法 jigsaw、小组[[Survey Research\|调查法]] group investigation、学生小组成就区分法 STAD、团队游戏竞赛法 TGT、合作整合阅读与写作 CIRC、思考配对分享 think-pair-share 等）与[[Meta-analysis\|元分析]]（meta-analysis、[[Systematic Review\|系统评价]] systematic review）的二元关键词组合；遵循系统综述和荟萃分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses，PRISMA）2020 指南，限定 2010–2024 年英文期刊文献；排除技术或网络支持学习及重叠率超过 25% 的一阶元分析，最终纳入 15 项独立一阶元分析。（pp. 4–5） |
 > | **方法学质量评估**<br>Quality Assessment | 采用[[AMSTAR\|系统评价质量评估工具修订版]]（Revised Assessment of Multiple Systematic Reviews，R-AMSTAR，Kung et al., 2010）对 14 项元分析进行独立双人评定（得分 24–36 分，分为中等与高质量，无低质量或不充分级）；对 1 项内部元分析（Stanczak et al., 2022）采用乔安娜布里格斯研究所（Joanna Briggs Institute，JBI）实验研究批判性评价清单（Tufanaru et al., 2017）进行评估。（p. 5） |
-> | **数据提取与双人编码**<br>Data Extraction & Coding | 两位研究者独立[[Coding in Qualitative Research\|编码]]学习产出、合作学习技术、学科范围、教育阶段、研究设计、地理区域、方法质量、发表偏倚状态及发表年份，评定者间一致性系数 Cohen's $\kappa = 0.89$；分歧经研讨与教育科学专家咨询后达成共识。（pp. 5–6） |
+> | **数据提取与双人编码**<br>Data Extraction & Coding | 两位研究者独立编码学习产出、合作学习技术、学科范围、教育阶段、研究设计、地理区域、方法质量、发表偏倚状态及发表年份，评定者间一致性系数 Cohen's $\kappa = 0.89$；分歧经研讨与教育科学专家咨询后达成共识。（pp. 5–6） |
 > | **效应量转换与统计合成**<br>Effect Size Conversion & Synthesis | 将比值比（Odds Ratio，OR）与皮尔逊相关系数（$r$）转换为 Cohen's $d$（Borenstein et al., 2021）；基于样本量足够大的假设合并 Hedges' $g$（$k=14$）与 Cohen's $d$（$k=7$），提取 23 个独立[[Effect Size\|效应量]]；在[[Fixed-Effect and Random-Effects Models\|随机效应模型]]（Random-Effects Models，REM）下采用经典[[Inverse-Variance Weighting\|逆方差加权法]]（Inverse-Variance Weighting，IVW）合成，各效应量权重计算为 $w_i^* = \frac{1}{v_i + \tau^2}$（其中 $v_i$ 为一阶元分析抽样方差，$\tau^2 = 0.13$ 为研究间异质性方差）；合并报告 95% [[Confidence Interval\|置信区间]]并计算总[[Heterogeneity\|异质性]] $Q$、$I^2$ 与 $\tau^2$；执行亚组调节分析与多重[[Publication Bias\|发表偏倚检验]]。（pp. 6–7） |
 
 > [!ref-table]- [[Variable\|变量]]编码程序规范表（Table 1）
@@ -201,7 +198,7 @@ issuing_organization: ""
 > | **发表年份区间** | 2010 年至 2024 年之间（细分为 2020 年前与 2021 年后两组）。 |
 
 > [!ref-table]- 纳入一阶元分析特征全量清单（Table 2）
-> | 一阶元分析研究 | 效应量 ES | 95% CI 下限 | 95% CI 上限 | 原始研究数 k | 学科领域 | 教育阶段 | 合作学习技术 | 研究区域 | 实验设计类型 | 测量产出 | 方法质量 | 发表偏倚 | 纳入[[Document\|文献]]年代 |
+> | 一阶元分析研究 | 效应量 ES | 95% CI 下限 | 95% CI 上限 | 原始研究数 k | 学科领域 | 教育阶段 | 合作学习技术 | 研究区域 | 实验设计类型 | 测量产出 | 方法质量 | 发表偏倚 | 纳入文献年代 |
 > |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 > | **Çapar & Tarım (2015)** | 0.59 | 0.38 | 0.80 | 36 | 数学 | 混合学段 | 综合合作学习 | 土耳其与其他 | 全实验与准实验 | 学业成就 | 中等 | 无偏倚 | 1988–2010 |
 > | **Çapar & Tarım (2015)** | 0.52 | -0.20 | 1.24 | 7 | 数学 | 混合学段 | 综合合作学习 | 土耳其与其他 | 全实验与准实验 | 情感态度 | 中等 | 不清楚 | 1988–2010 |
@@ -264,7 +261,7 @@ issuing_organization: ""
 
 > [!chain-link] 证据到判断
 > - 现代知识社会要求学生掌握[[Problem Solving\|问题解决]]、创造性思维与批判性思维等高阶认知能力，以及沟通、协作与领导等社会技能（Johnson & Johnson, 2009; Klang et al., 2020）。（p. 1）
-> - 既有一阶元分析多局限于单一国家（如 Stanczak et al., 2022 局限于瑞士；Tanjung et al., 2022 局限于印尼）、单一学科（如 Çapar & Tarım, 2015 局限于数学）或单一[[Dependent Variable\|结果变量]]（Gürdoğan-Bayır & Bozkurt, 2018 仅关注学业成就），容易产生[[Document\|文献]]产出与地点偏倚。（p. 2）
+> - 既有一阶元分析多局限于单一国家（如 Stanczak et al., 2022 局限于瑞士；Tanjung et al., 2022 局限于印尼）、单一学科（如 Çapar & Tarım, 2015 局限于数学）或单一[[Dependent Variable\|结果变量]]（Gürdoğan-Bayır & Bozkurt, 2018 仅关注学业成就），容易产生文献产出与地点偏倚。（p. 2）
 > - 一阶元分析通过合并原始实证研究降低了一阶抽样误差，但由于纳入研究数量有限，仍残留着显著的二阶抽样误差（Schmidt & Oh, 2013）。（p. 2）
 
 > [!warrant]- 推理桥梁
@@ -275,12 +272,12 @@ issuing_organization: ""
 ### 论证步骤二：严格筛选文献与统一效应量尺度，奠定二阶数据基础
 
 > [!claim] 严格的方法学质控与[[Effect Size\|效应量]]尺度统一为二阶定量合成奠定了数据基础
-> 遵循 [[PRISMA]] 指南、采用 R-[[AMSTAR]] 规程评估方法学质量并执行双人独立[[Coding in Qualitative Research\|编码]]，将 OR、$r$ 与 Hedges' $g$ 统一转换为 Cohen's $d$，确保了二阶数据集的独立性与统计可比性。（pp. 4–7）
+> 遵循 [[PRISMA]] 指南、采用 R-[[AMSTAR]] 规程评估方法学质量并执行双人独立编码，将 OR、$r$ 与 Hedges' $g$ 统一转换为 Cohen's $d$，确保了二阶数据集的独立性与统计可比性。（pp. 4–7）
 
 > [!chain-link] 证据到判断
 > - 检索覆盖 Web of Science、Scopus、EBSCO 旗下 5 大专业库及 Google Academic，运用二元关键词组合全面捕获 2010–2024 年文献，严格遵循 PRISMA 流程筛选出 15 项独立一阶元分析（图1 流程图）。（pp. 4–5）
 > - 采用 R-AMSTAR 量表（Kung et al., 2010）与 JBI 清单评估质量，得分在 24 至 36 分之间，划分为 14 项中等质量与 9 项高质量效应量，无低质量研究。（p. 5）
-> - 编码[[Reliability\|信度]] Cohen's $\kappa = 0.89$，争议经学科专家仲裁解决；将 Liu & Lipowski (2021) 的 OR 值与 Setiana et al. (2020) 的 Pearson $r$ 值转换为 Cohen's $d$，在大样本[[Hypothesis\|假设]]下合并 Hedges' $g$ 与 Cohen's $d$，最终生成 $k = 23$ 个独立效应量。（pp. 5–6）
+> - 编码[[Reliability\|信度]] Cohen's $\kappa = 0.89$，争议经学科专家仲裁解决；将 Liu & Lipowski (2021) 的 OR 值与 Setiana et al. (2020) 的 Pearson $r$ 值转换为 Cohen's $d$，在大样本假设下合并 Hedges' $g$ 与 Cohen's $d$，最终生成 $k = 23$ 个独立效应量。（pp. 5–6）
 
 > [!example]- 图1：文献筛选数据流程图（Data [[Flow]] Diagram）
 > ![](https://img.mylikemie.icu/sources/Gungor_2026_CP/figures/Gungor_2026_CP_Fig1_Data_Flow_Diagram.jpg)
@@ -435,7 +432,7 @@ issuing_organization: ""
 > *The considerable effect size indicates the potential of CL for enhancing higher-order thinking skills. In light of the impact of CL on critical and creative thinking skills (Huang et al., 2017; Silva et al., 2022), it would be prudent to subject CL to further scrutiny in order to ascertain its potential in this promising area.*
 
 > [!citation-card]- 软科学领域综合缺口的揭示
-> 采用二阶元分析的独特价值不仅在于报告一项发现，更在于精准揭示这一方法学空白：系统性报告语言或社会学科领域效应量的高水平综合（元分析）极度匮乏……我们的研究不仅证实了合作学习的总体有效性，更关键的是为未来的一阶元分析确立了明确的议程，这些研究必须积极搜寻并综合语言和社会学科的基础研究，以纠正综合[[Document\|文献]]图景中的系统性失衡。（p. 10）
+> 采用二阶元分析的独特价值不仅在于报告一项发现，更在于精准揭示这一方法学空白：系统性报告语言或社会学科领域效应量的高水平综合（元分析）极度匮乏……我们的研究不仅证实了合作学习的总体有效性，更关键的是为未来的一阶元分析确立了明确的议程，这些研究必须积极搜寻并综合语言和社会学科的基础研究，以纠正综合文献图景中的系统性失衡。（p. 10）
 >
 > *The unique VALUE of employing a second-order meta-analysis here is not just to report a finding, but to highlight this exact methodological gap: there is a severe paucity of high-level synthesis (meta-analyses) that systematically report effect sizes for the language or social studies domains... establishes a clear agenda for future first-order meta-analyses, which must actively seek out and synthesize primary research in disciplines such as language and social studies to rectify this systemic imbalance in the synthesis landscape.*
 
@@ -445,10 +442,10 @@ issuing_organization: ""
 
 > [!warning] 原文自述局限与[[Research Scope\|研究边界]]
 > 1. **[[Dependent Variable\|因变量]]分类受制于一阶[[Meta-analysis\|元分析]]数据实态** 尽管教育目标理论框架涵盖认知、情感与动作技能三领域，但因一阶元分析中缺乏动作技能实证数据，导致本研究被迫排除了动作技能领域。
-> 2. **教学技术分类无法在基础研究层面深度穿透** 纳入的一阶元分析多按研究产出而非严格按具体教学技术系统[[Coding in Qualitative Research\|编码]][[Effect Size\|效应量]]，限制了直接断言某项技术绝对优于另一项技术的推断效度。
+> 2. **教学技术分类无法在基础研究层面深度穿透** 纳入的一阶元分析多按研究产出而非严格按具体教学技术系统编码[[Effect Size\|效应量]]，限制了直接断言某项技术绝对优于另一项技术的推断效度。
 > 3. **缺失干预持续周期（Implementation Duration）数据** 纳入的一阶元分析普遍未报告干预时长数据，导致无法将实施周期长短作为调节[[Variable\|变量]]进行检验。
 > 4. **软科学[[Sample Size Determination\|样本量]]严重不足与合成图景失衡** 语言、社会科及体育学科各仅有 1 项一阶元分析，导致学科特定结论解释需保持高度审慎，暴露出当前元分析合成领域的严重失衡。
-> 5. **语言与地理区域集中度偏高** 检索主要基于英文发表[[Document\|文献]]，且样本高度集中于印尼与土耳其，存在潜在的地点与语言偏倚。
+> 5. **语言与地理区域集中度偏高** 检索主要基于英文发表文献，且样本高度集中于印尼与土耳其，存在潜在的地点与语言偏倚。
 > 6. **文献类型仅限于已发表期刊文章** 未能纳入博硕士学位论文等更广泛的未发表灰色文献以进一步降低潜在[[Publication Bias\|发表偏倚]]。
 > 7. **模型范畴限定于[[Cooperative Learning\|合作学习]]** 未涵盖协作学习（collaborative learning）、同伴学习（peer learning）及团队导向学习（team-based learning）等其他[[Constructivist Paradigm\|建构主义]]小群体互动模式。
 > 8. **[[Affective Outcomes\|情感产出]]缺乏子维度的精细化拆解** 将各类情感行为粗放合并分析，未来亟待针对内在动机、[[Self-Efficacy\|自我效能感]]与学科态度等具体子维度开展更精细的元分析。（p. 11）

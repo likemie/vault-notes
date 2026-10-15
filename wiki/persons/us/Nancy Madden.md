@@ -10,7 +10,7 @@ summary: "美国当代著名教育心理学家、约翰斯·霍普金斯大学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 14
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Evidence Standards]]"
   - "[[Champ]]"
   - "[[Paradigm]]"
-  - "[[Teaching Assistant]]"
   - "[[Structured Teaching]]"
 related_theories: []
 related_methods:
@@ -47,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-17'
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Nancy Madden
@@ -83,14 +82,14 @@ updated: 2026-09-17
 > [!work-line] 主要著作
 > - **1987 — *[[Cooperative Integrated Reading and Composition]]: Two [[Champ\|field]] experiments*** 系统确立中高年级阅读与写作的结构化同伴合作教学[[Paradigm\|范式]]。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 31)]]
 > - **2001 — *One Million Children: [[Success for All]]*** 总结全校改革方案在全美多元高贫困学校落地推广的实证轨迹与组织机制。
-> - **2017 — *Evaluations of technology-assisted small-group tutoring for struggling readers*** 论证教学[[Teaching Assistant\|助教]]结合智能技术开展小组辅导（$ES = +0.34$）的实证效能。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 28, 30)]]
+> - **2017 — *Evaluations of technology-assisted small-group tutoring for struggling readers*** 论证教学助教结合智能技术开展小组辅导（$ES = +0.34$）的实证效能。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 28, 30)]]
 
 ---
 
 ## 核心思想
 
 > [!claim] 核心主张
-> **以[[Structured Teaching\|结构化教学]]材料与同伴交互重塑底层课堂效能** 马登主张教育公平的实现不能仅停留在宏观政策号召，而必须深入到每日每课的课堂教学微观结构中；通过为教师和[[Teaching Assistant\|助教]]提供经过严格实验验证的结构化脚本材料、将[[Cooperative Learning\|合作学习]]机制深度内嵌于阅读教学各环节，并为落后儿童配备即时的个别化/小组辅导，任何高贫困学校都有能力让绝大多数儿童掌握熟练的读写技能。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 25, 27–29)]]
+> **以[[Structured Teaching\|结构化教学]]材料与同伴交互重塑底层课堂效能** 马登主张教育公平的实现不能仅停留在宏观政策号召，而必须深入到每日每课的课堂教学微观结构中；通过为教师和助教提供经过严格实验验证的结构化脚本材料、将[[Cooperative Learning\|合作学习]]机制深度内嵌于阅读教学各环节，并为落后儿童配备即时的个别化/小组辅导，任何高贫困学校都有能力让绝大多数儿童掌握熟练的读写技能。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 25, 27–29)]]
 
 ---
 

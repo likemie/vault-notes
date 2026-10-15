@@ -10,9 +10,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 16
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 14
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: foundation
 headquarters: "美国华盛顿州西雅图"
@@ -31,8 +31,6 @@ related_concepts:
   - "[[Going Native]]"
   - "[[Effective Teaching]]"
   - "[[Learning Gain]]"
-  - "[[Teaching Assistant]]"
-  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -50,7 +48,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-09-26
+updated: 2026-10-15
 ---
 
 # Bill & Melinda Gates Foundation
@@ -98,7 +96,7 @@ updated: 2026-09-26
 > [!finding-cards] 核心产品与业务矩阵
 > - **[[Common Core State Standards|共同核心标准]]推进网络专项资助（近 9,000 万美元）** 在 2009 至 2010 年间向 18 个全国性倡导机构注资超过 5,000 万美元，向 10 家第三方技术服务机构和 20 个州/地方教育局拨款约 3,900 万美元，全面保障 CCSS 落地。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 22)]]
 > - **[[Effective Teaching|有效教学]]度量项目（Measures of Effective Teaching, MET）** 投入数千万美元开展全美最大规模课堂录像与[[Learning Gain|增值评价]]实证研究，探讨学生测评、同行观摩与学生反馈对教师效能的测量度。
-> - **开放教育资源（OER）与高质量教材普及** 支持研发适配新标准的免费开源教材，协[[Teaching Assistant|助教]]师平稳度过课程过渡期。
+> - **开放教育资源（OER）与高质量教材普及** 支持研发适配新标准的免费开源教材，协助教师平稳度过课程过渡期。
 
 > [!citation-card] 盖茨基金会对通用标准推进网络的巨额注资
 > 在 2009 至 2010 年间，共有 18 个全美性机构从比尔与梅琳达·盖茨基金会获得了超过 5,000 万美元的资助，用于提供信息宣传并协助实施共同核心州立标准。此外，大约 10 家第三方专业服务机构以及 20 个州和地方教育局也获得了约 3,900 万美元的配套资助用于相同目标。
@@ -136,6 +134,6 @@ updated: 2026-09-26
 > | [[Achieve]] | 智库机构 | 长期获得基金会核心战略资助的技术智库与操盘实体。 |
 > | [[The Education Trust]] | 智库机构 | 接受基金会资助并代表弱势学生推动教育公平倡导的民权智库。 |
 > | [[Hunt Institute]] | 智库机构 | 接受基金会资助并负责全美每周推进策略同步会议的协调平台。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | 实证[[Document\|文献]] | 详细披露盖茨基金会 8,900 万美元跨界网络资助规模与政治功能的研究。 |
+> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | 实证文献 | 详细披露盖茨基金会 8,900 万美元跨界网络资助规模与政治功能的研究。 |
 
 ---

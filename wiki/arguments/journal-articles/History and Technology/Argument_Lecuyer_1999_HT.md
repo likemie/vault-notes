@@ -21,11 +21,9 @@ tags:
   - method/archival-research
   - method/case-study
 related_concepts:
-  - "[[Document]]"
   - "[[Learning Economy]]"
   - "[[San Francisco Bay Area]]"
   - "[[General Purpose Technology]]"
-  - "[[Assemblage]]"
   - "[[Application Engineering]]"
   - "[[Dual In-Line Package]]"
   - "[[Determinism]]"
@@ -33,7 +31,7 @@ related_concepts:
   - "[[Technological Convergence]]"
   - "[[Institutional Complementarity]]"
   - "[[Reliability]]"
-  - "[[Transfer Translation Transformation]]"
+  - "[[Assemblage]]"
 related_theories: []
 related_methods:
   - "[[Statistical Process Control]]"
@@ -59,7 +57,7 @@ title: "Argument_Lecuyer_1999_HT"
 argument_key: "Argument_Lecuyer_1999_HT"
 argument_display_title: "Silicon for industry: Component design, mass production, and the move to commercial markets at Fairchild Semiconductor, 1960–1967"
 argument_kind: "journal-article"
-argument_related_count: 20
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -76,10 +74,10 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 既有微电子革命史与产业经济学[[Document|文献]]（Golding, 1971; Levin, 1982; Steinmueller, 1987）多将硅技术的成型与扩散归因于美国军方的赞助采购、[[Learning Economy|学习经济]]以及良率提升带来的被动降价，忽视了企业制造专门知识的获取机制、进军商业市场的社会经济动因以及元器件厂商与下游用户共同构建新产品与应用方案的微观过程。本文旨在探讨：处于[[San Francisco Bay Area|旧金山湾区]]的[[Fairchild Semiconductor|仙童半导体]]（Fairchild Semiconductor）究竟通过怎样的制造革新、组织重组、用户-供应商互动以及系统级封装设计，推动硅微电子技术在1960至1967年间跨越军民市场鸿沟，最终演变为辐射全美计算机、消费电子与汽车等多元工业部门的[[General Purpose Technology|通用目的技术]]（General Purpose Technology, GPT）？（pp. 179–181）
+> 既有微电子革命史与产业经济学文献（Golding, 1971; Levin, 1982; Steinmueller, 1987）多将硅技术的成型与扩散归因于美国军方的赞助采购、[[Learning Economy|学习经济]]以及良率提升带来的被动降价，忽视了企业制造专门知识的获取机制、进军商业市场的社会经济动因以及元器件厂商与下游用户共同构建新产品与应用方案的微观过程。本文旨在探讨：处于[[San Francisco Bay Area|旧金山湾区]]的[[Fairchild Semiconductor|仙童半导体]]（Fairchild Semiconductor）究竟通过怎样的制造革新、组织重组、用户-供应商互动以及系统级封装设计，推动硅微电子技术在1960至1967年间跨越军民市场鸿沟，最终演变为辐射全美计算机、消费电子与汽车等多元工业部门的[[General Purpose Technology|通用目的技术]]（General Purpose Technology, GPT）？（pp. 179–181）
 
 > [!claim] 核心主张
-> 硅微电子技术向非军用商业市场的全面扩张，并非价格下降与学习效应诱发的自发扩散过程，而是企业在国防采购体制紧缩与军用竞争加剧背景下，深度协同推进大规模制造组织变革（混合批处理-流水[[Assemblage|装配]]、[[Statistical Process Control|统计过程控制]]与离岸制造）、[[Application Engineering|应用工程]]支持（招聘整机工程师、协同定制元器件、免费分发应用说明书与原型）以及系统级物理封装革命（发明兼容自动插件机的[[Dual In-Line Package|双列直插封装]]）的共演结果。（pp. 179–181, 207–209）
+> 硅微电子技术向非军用商业市场的全面扩张，并非价格下降与学习效应诱发的自发扩散过程，而是企业在国防采购体制紧缩与军用竞争加剧背景下，深度协同推进大规模制造组织变革（混合批处理-流水装配、[[Statistical Process Control|统计过程控制]]与离岸制造）、[[Application Engineering|应用工程]]支持（招聘整机工程师、协同定制元器件、免费分发应用说明书与原型）以及系统级物理封装革命（发明兼容自动插件机的[[Dual In-Line Package|双列直插封装]]）的共演结果。（pp. 179–181, 207–209）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 1960至1967年间[[Fairchild Semiconductor|仙童半导体]]在加州山景城、帕洛阿尔托、圣拉斐尔及中国香港工厂的研发、制造、应用工程与市场营销实践。
@@ -97,7 +95,7 @@ issuing_organization: ""
 > | **用户-供应商协同演进与技术收敛<br>User-Supplier Relations & [[Technological Convergence]]** | 继承 Rosenberg (1963) 关于机床工业[[Technological Convergence\|技术收敛]]的思想，强调上游元器件供给商与下游整机使用部门之间的知识双向流动、工程协同设计及系统接口匹配，是打破技术扩散阻力的核心机制。（pp. 180–181） |
 
 > [!warrant]- 理论如何支撑论证
-> 通用目的技术理论揭示了基础技术扩散所面临的跨部门协调壁垒与互补性创新时滞，而用户-供应商关系理论为解释[[Fairchild Semiconductor|仙童半导体]]的主动干预行为提供了[[Analytic Framework|分析框架]]。通过将两者结合，本文阐明了仙童半导体如何不仅生产物理芯片，更通过[[Application Engineering|应用工程]]部输出系统级知识、通过[[Dual In-Line Package|双列直插封装]]（DIP）消除下游印刷电路板（PCB）[[Assemblage|装配]]瓶颈，从而在微观层面完成了通用目的技术扩散所需的全部[[Institutional Complementarity|互补性制度]]与技术重组。（pp. 180–181, 207–209）
+> 通用目的技术理论揭示了基础技术扩散所面临的跨部门协调壁垒与互补性创新时滞，而用户-供应商关系理论为解释[[Fairchild Semiconductor|仙童半导体]]的主动干预行为提供了[[Analytic Framework|分析框架]]。通过将两者结合，本文阐明了仙童半导体如何不仅生产物理芯片，更通过[[Application Engineering|应用工程]]部输出系统级知识、通过[[Dual In-Line Package|双列直插封装]]（DIP）消除下游印刷电路板（PCB）装配瓶颈，从而在微观层面完成了通用目的技术扩散所需的全部[[Institutional Complementarity|互补性制度]]与技术重组。（pp. 180–181, 207–209）
 
 ---
 
@@ -163,7 +161,7 @@ issuing_organization: ""
 > [!tension-table] 1960年代初半导体下游两类市场的需求特征对比
 > | 比较维度 | 军工航电市场（1950年代末） | 民用商业市场（1960年代初） |
 > |---|---|---|
-> | **核心诉求** | 极端环境耐受力、抗震动与抗辐射指标 | 极低单件采购成本、大批量稳定供货与[[Assemblage\|装配]]便利性 |
+> | **核心诉求** | 极端环境耐受力、抗震动与抗辐射指标 | 极低单件采购成本、大批量稳定供货与装配便利性 |
 > | **价格承受水平** | 单只晶体管 50–150 美元，成本敏感度低 | 晶体管目标单价低于 1 美元，集成电路目标单价数美元 |
 > | **主要应用场景** | 洲际导弹制导计算机、机载雷达与军用电台 | 电视机高频调谐器、晶体管收音机、民用超级计算机与汽车电气 |
 > | **传统器件缺陷** | 锗材料耐温上限低，无法适应机载密闭高温环境 | 锗管热噪声过高影响画质（电视），且高频开关速度不足（计算机） |
@@ -188,7 +186,7 @@ issuing_organization: ""
 > [!proc] 系统导向元器件的协同开发流程
 > 1. **吸纳整机行业工程人才** 从无线电接收机领域招募拉里·布拉泽（Larry Blaser），从计算机逻辑设计领域招募鲍勃·科尔（Bob Cole）与唐纳德·法里纳（Donald Farina），从汽车电子领域招募约翰·赫尔姆（John Hulme）。（pp. 188–189）
 > 2. **按整机功能反向定制元器件产品线** 应用工程团队针对射频调谐、音频放大与高速逻辑等具体系统功能，开发出高频低噪晶体管以及微逻辑 DTL 数字集成电路家族。（pp. 189–191）
-> 3. **将客户专用电路[[Transfer Translation Transformation|转译]]为单片集成电路** 协助 IBM、霍尼韦尔（Honeywell）与科学数据系统（Scientific Data Systems, SDS）将整机厂商自有的分立电路重新设计为符合硅微电子工艺特性的集成电路芯片。（p. 191）
+> 3. **将客户专用电路转译为单片集成电路** 协助 IBM、霍尼韦尔（Honeywell）与科学数据系统（Scientific Data Systems, SDS）将整机厂商自有的分立电路重新设计为符合硅微电子工艺特性的集成电路芯片。（p. 191）
 
 #### 2. 免费发放应用说明书与样机原型直接充当下游整机厂商的外部研发部门
 
@@ -208,7 +206,7 @@ issuing_organization: ""
 ### 论证步骤三　移植现代工业管理、提高晶圆良率与离岸组装确立半导体量产范式
 
 > [!claim] 步骤三核心主张
-> 为满足商业市场对极低售价与巨量供货的要求，仙童半导体采取前瞻性降价策略，引入通用电气的生产排程与在制品控制体系，应用[[Statistical Process Control|统计过程控制]]攻克空气污染与光刻良率障碍，并率先在香港设立离岸组装厂以化解劳动密集环节的成本制约。（pp. 194–203）
+> 为满足商业市场对极低售价与巨量供货的要求，仙童半导体采取前瞻性降价策略，引入通用电气的生产排程与在制品控制体系，应用[[Statistical Process Control|统计过程控制]]攻克空气污染与光刻良率障碍，并率先在香港设立离岸[[Assemblage|组装]]厂以化解劳动密集环节的成本制约。（pp. 194–203）
 
 #### 1. 采取前瞻性大幅降价并引入通用电气产品线与在制品管理体系
 
@@ -297,7 +295,7 @@ issuing_organization: ""
 > *Fairchild's application notes were meant to "show [commercial customers] how to use the products and how to design systems around these products." ... became instant engineering "classics" and were widely used by circuit and system engineers in the commercial sector. "People would design right out of the application notes," recalled Hulme, "they would take the application note and would essentially copy it."* (pp. 191–193)
 
 > [!citation-card] 半导体大规模制造的新[[Paradigm|范式]]
-> 硅制造企业发明了一种不同于机械工业的新型大规模生产模式。虽然硅制造具有大规模生产的一些特征（如低价格、专用机器和大批量生产），但它在许多方面有所不同：硅企业广泛依赖东南亚的低成本劳动力，且仅在部分生产过程中使用[[Assemblage|装配]]线；更重要的是，半导体制造的特点是实验室环境下的批处理生产、严格的工业纪律、高工程含量以及对精度和[[Reliability|可靠性]]的极高关注。
+> 硅制造企业发明了一种不同于机械工业的新型大规模生产模式。虽然硅制造具有大规模生产的一些特征（如低价格、专用机器和大批量生产），但它在许多方面有所不同：硅企业广泛依赖东南亚的低成本劳动力，且仅在部分生产过程中使用装配线；更重要的是，半导体制造的特点是实验室环境下的批处理生产、严格的工业纪律、高工程含量以及对精度和[[Reliability|可靠性]]的极高关注。
 >
 > *They invented a new form of mass production, different from the one in the mechanical industries. While silicon manufacturing shared some characteristics with mechanical modes of mass production such as low prices, single purpose machinery, and large volume production, it differed in a number of ways: silicon firms relied extensively on low cost labor in South-East Asia and used assembly lines in only part of their production processes. More importantly, semiconductor manufacturing was characterized by batch production in laboratory settings, tight industrial discipline, high engineering content, and considerable attention to precision and reliability.* (p. 208)
 

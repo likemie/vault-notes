@@ -5,7 +5,7 @@ aliases:
 summary: "把全球尺度视为完全决定国家尺度的方法论立场，常作为方法论民族主义的镜像，并倾向弱化地方和制度的相对自主性"
 type: concept
 domain: "comparative-education"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Scale in Higher Education]]"
   - "[[Determinism]]"
   - "[[Falsification]]"
-  - "[[Hypothesis]]"
   - "[[Semi-Autonomy of Higher Education]]"
   - "[[Multiplicity]]"
   - "[[Ontology]]"
@@ -34,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-13'
-updated: 2026-09-11
+updated: 2026-10-15
 ---
 
 # Methodological Globalism
@@ -70,7 +69,7 @@ updated: 2026-09-11
 ## 概念演变
 
 > [!note]-
-> 方法论全球主义概念由 Marginson（2025）在批评 Wallerstein [[World-Systems Theory\|世界体系理论]]时提出并命名。这一概念的提出是在 Wimmer & Schiller（2003）的"[[Methodological Nationalism\|方法论民族主义]]"和 Beck（2007）对方法论民族主义的扩展之后，作为方法论批判的对偶概念。Marginson 同时指出，过去三十年全球高等教育和科学的发展——特别是中国、新加坡、韩国、印度、巴西等国在绝对和相对意义上的同时进步——直接[[Falsification\|证伪]]了方法论全球主义的零和[[Hypothesis\|假设]]([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 12–13]])。
+> 方法论全球主义概念由 Marginson（2025）在批评 Wallerstein [[World-Systems Theory\|世界体系理论]]时提出并命名。这一概念的提出是在 Wimmer & Schiller（2003）的"[[Methodological Nationalism\|方法论民族主义]]"和 Beck（2007）对方法论民族主义的扩展之后，作为方法论批判的对偶概念。Marginson 同时指出，过去三十年全球高等教育和科学的发展——特别是中国、新加坡、韩国、印度、巴西等国在绝对和相对意义上的同时进步——直接[[Falsification\|证伪]]了方法论全球主义的零和假设([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 12–13]])。
 
 ---
 

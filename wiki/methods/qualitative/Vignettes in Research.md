@@ -9,7 +9,7 @@ summary: "敏感研究中通过简短描述一个人或社会情境来间接收�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 6
+method_related_count: 5
 method_related_level: 0
 method_related_stars: ""
 method_related_color: "#dbeafe"
@@ -21,13 +21,12 @@ related_concepts:
   - "[[Sensitive Research]]"
   - "[[Epistemology]]"
   - "[[Research Question]]"
-  - "[[Hypothesis]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch09]]"
 status: draft
 created: 2026-06-22
-updated: 2026-07-11
+updated: 2026-10-15
 ---
 # Vignettes in Research
 
@@ -41,7 +40,7 @@ updated: 2026-07-11
 > [!method-position] 方法[[Epistemology\|认识论]]定位
 > - **研究者角色** 研究者设计与[[Research Question\|研究问题]]相关的典型情境描述，并邀请参与者以多种方式做出回应。
 > - **有效性标准** Vignettes 的有效性取决于情境描述的真实性和相关性——参与者是否将其视为可信的、与自己生活经验相关的场景。
-> - **不能回答的问题** Vignettes 收集的是参与者的判断和[[Hypothesis\|假设]]性反应（"在这种情况下你会怎么做？"），而非实际行为观察。Vignettes 的回答不能直接等同于真实行为。
+> - **不能回答的问题** Vignettes 收集的是参与者的判断和假设性反应（"在这种情况下你会怎么做？"），而非实际行为观察。Vignettes 的回答不能直接等同于真实行为。
 
 ## 研究程序
 
@@ -61,7 +60,7 @@ updated: 2026-07-11
 ## 局限性
 
 > [!method-limits] 方法局限
-> - Vignettes 收集的是[[Hypothesis\|假设]]性反应而非实际行为——在真实情境中参与者可能做出不同选择
+> - Vignettes 收集的是假设性反应而非实际行为——在真实情境中参与者可能做出不同选择
 > - Vignette 的设计质量高度依赖研究者对研究领域的理解——如果情境不典型或不完整，结论将受限制
 > - 投射效果并不完美——一些参与者仍可能意识到他们实际上在透露关于自己的信息
 

@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31"
 argument_display_title: "Research Methods in Education · Ch31"
 argument_kind: "book-chapter"
-argument_related_count: 24
+argument_related_count: 22
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -39,13 +39,11 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Total Institution]]"
   - "[[Boarding Schools]]"
-  - "[[Attrition]]"
   - "[[Homework]]"
   - "[[Student-Teacher Relationship]]"
 related_theories:
   - "[[Thomas Theorem]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Discourse Analysis]]"
   - "[[Conversation Analysis]]"
   - "[[Narrative Analysis]]"
@@ -65,7 +63,7 @@ updated: 2026-10-07
 
 ## 总览
 
-完整文本保留谈话的先后顺序、故事的情境与个人经历的变化，为分段[[Coding in Qualitative Research|编码]]之外的质性分析提供路径。[[Discourse Analysis|话语分析]]依据具体语言证据解释社会行动与权力关系，同时要求审视文本选择与解释者自身的影响。（§§31.1–31.5）
+完整文本保留谈话的先后顺序、故事的情境与个人经历的变化，为分段编码之外的质性分析提供路径。[[Discourse Analysis|话语分析]]依据具体语言证据解释社会行动与权力关系，同时要求审视文本选择与解释者自身的影响。（§§31.1–31.5）
 
 > [!textbook-overview] 第31章的知识路线
 > | 章节 | 内容概要 | 主要关联条目 |
@@ -85,7 +83,7 @@ updated: 2026-10-07
 
 #### 章节内容
 
-分析与解释难以在质性文本中完全分离，因为词语已经带有意义，且意义随情境而变化。保留完整会话、叙事和自传，可以看到分段[[Coding in Qualitative Research|编码]]容易削弱的联系，例如一个回答怎样接续问题、一种行为为何出现在特定处境中。（§31.1）
+分析与解释难以在质性文本中完全分离，因为词语已经带有意义，且意义随情境而变化。保留完整会话、叙事和自传，可以看到分段编码容易削弱的联系，例如一个回答怎样接续问题、一种行为为何出现在特定处境中。（§31.1）
 
 > [!question] 完整文本分析需要解决的三个问题
 > - **意义如何被保存** 拆分和重组材料之后，会话顺序、叙事处境与个人选择之间的联系可能被削弱，怎样在整体文本中辨认这些关系？
@@ -509,7 +507,7 @@ updated: 2026-10-07
 故事兼具告知、揭示和教导的作用（Eisner, 1997, p. 6）。生活也可能依照自己的故事和他人的故事获得理解与组织（Sartre, 1964, p. 39；Plummer, 1995, 2001）。因此，自传的研究价值既在于发生了什么，也在于叙述者选择哪些事件、把事件组织成什么故事，以及这些意义怎样指向未来行动。（§31.4）
 
 > [!example] 虚构音乐教师自传呈现单一叙述者的经历
-> 音乐教师自传是虚构案例，以第一人称呈现职业愿望、教学挫折与离职选择。这些事件可以用于分析叙述立场，不能作为真实教师群体的经历或[[Attrition|流失]]证据。（§31.4）
+> 音乐教师自传是虚构案例，以第一人称呈现职业愿望、教学挫折与离职选择。这些事件可以用于分析叙述立场，不能作为真实教师群体的经历或流失证据。（§31.4）
 
 ###### 音乐理想和培训经验强化了教师对职业转行的期待
 

@@ -8,7 +8,7 @@ summary: "与参与者进行开放式对话以理解其主观经验和意义建�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 38
+method_related_count: 36
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -18,7 +18,6 @@ tags:
   - paradigm/interpretivist
 related_concepts:
   - "[[Unit of Analysis]]"
-  - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Fitness for Purpose]]"
   - "[[Reflexivity]]"
@@ -43,7 +42,6 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Grounded Theory]]"
   - "[[Group Interview]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Narrative Analysis]]"
   - "[[Content Analysis]]"
   - "[[Interview Protocol]]"
@@ -61,7 +59,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Qualitative Interview
@@ -77,7 +75,7 @@ updated: 2026-09-22
 > - **研究对象** 个体的主观经验、意义建构、观点、感受、态度和生活世界。
 > - **问题类型** 适合描述性、探索性和解释性问题——探究"为什么"和"如何"，而非"多少"。
 > - **[[Unit of Analysis\|分析单位]]** 个体受访者（一对一访谈）或群体（[[Focus Group\|焦点小组]]）。
-> - **输出形式** [[Transcription in Qualitative Research\|转录]]文本、主题分析、叙事重构、理论[[Hypothesis\|假设]]。
+> - **输出形式** [[Transcription in Qualitative Research\|转录]]文本、主题分析、叙事重构、理论假设。
 
 > [!citation-card]- 关键定义
 > 访谈不是专门主观的，也不是专门客观的——它是主体间的（intersubjective）。访谈使参与者能够讨论他们对所生活的世界的解释，并从自身立场表达对情境的看法。（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al., 2011, p. 409]]）
@@ -97,7 +95,7 @@ updated: 2026-09-22
 > [!method-stack] 方法层级
 > - **研究设计** [[Qualitative Research\|质性研究]]、[[Case Study\|案例研究]]、[[Ethnography\|民族志]]、[[Grounded Theory\|扎根理论]]、[[Phenomenology\|现象学]]研究
 > - **数据收集** 一对一访谈、[[Focus Group\|焦点小组]]、[[Group Interview\|小组访谈]]、[[Telephone Interview\|电话访谈]]、电子邮件访谈
-> - **分析方法** [[Coding in Qualitative Research\|编码]]、主题分析、[[Phenomenology\|现象学]]分析、[[Narrative Analysis\|叙事分析]]、[[Content Analysis\|内容分析]]
+> - **分析方法** 编码、主题分析、[[Phenomenology\|现象学]]分析、[[Narrative Analysis\|叙事分析]]、[[Content Analysis\|内容分析]]
 > - **辅助技术** [[Interview Protocol\|访谈提纲]]、追问、[[Pilot Testing\|预测试]]、录音与[[Transcription in Qualitative Research\|转录]]、人员校验、[[Triangulation\|三角互证]]
 
 ---
@@ -159,7 +157,7 @@ Kvale（1996, p. 88）提出访谈调查的七个阶段（[[Argument_Cohen_Manio
 > 2. **设计** 将研究目标转化为访谈问题，选择问题格式、回答模式，构建[[Interview Protocol\|访谈提纲]]。
 > 3. **访谈实施** 建立融洽关系、管理互动动态、保持[[Fitness for Purpose\|适合目的]]的引导程度。
 > 4. **[[Transcription in Qualitative Research\|转录]]** 将口头遭遇转换为书面文本——这是选择性转换，数据损失风险巨大。
-> 5. **分析** 通过[[Coding in Qualitative Research\|编码]]、[[Content Analysis\|内容分析]]或[[Phenomenology\|现象学]]程序生成意义。
+> 5. **分析** 通过编码、[[Content Analysis\|内容分析]]或[[Phenomenology\|现象学]]程序生成意义。
 > 6. **验证** 在全部七个阶段持续进行效度核验。
 > 7. **报告** 以适合目的的格式呈现发现。
 
@@ -175,14 +173,14 @@ Kvale（1996, p. 88）提出访谈调查的七个阶段（[[Argument_Cohen_Manio
 > 转录是从口头和人际系统到书面语言系统的选择性转换，不存在唯一准确的版本。应记录语调、抑扬变化、强调、暂停和沉默、打断、情绪、语速、同时说话人数、连续或短句、谁在对谁说话、无法辨认的言语、同期事件及非语言沟通。
 
 > [!info] 数据分析与伦理
-> 数据分析可采用 Miles & Huberman（1994）的 12 种策略、Brenner et al.（1985）的 13 步内容分析或 Hycner（1985）的 15 步现象学分析，详见 [[Coding in Qualitative Research\|编码]] 和 [[Phenomenology\|现象学]] 条目。伦理维度贯穿七阶段全过程，关键问题包括[[Informed Consent\|知情同意]]、保密性、匿名性、数据所有权、否决权和访谈者人身安全（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al., 2011, pp. 476–477]]）。
+> 数据分析可采用 Miles & Huberman（1994）的 12 种策略、Brenner et al.（1985）的 13 步内容分析或 Hycner（1985）的 15 步现象学分析，详见 编码 和 [[Phenomenology\|现象学]] 条目。伦理维度贯穿七阶段全过程，关键问题包括[[Informed Consent\|知情同意]]、保密性、匿名性、数据所有权、否决权和访谈者人身安全（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al., 2011, pp. 476–477]]）。
 
 ---
 
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 需要了解主观经验和意义建构；参与者无法被直接观察；探究行动者"为什么这样做"；已有理论不足以解释现象时生成[[Hypothesis\|假设]]；研究复杂社会过程；获取边缘或沉默群体的声音；需要从多个视角获取丰富描述。
+> - **适合使用** 需要了解主观经验和意义建构；参与者无法被直接观察；探究行动者"为什么这样做"；已有理论不足以解释现象时生成假设；研究复杂社会过程；获取边缘或沉默群体的声音；需要从多个视角获取丰富描述。
 > - **谨慎使用** 某些文化中正式访谈可能被视为异化；敏感群体中非正式对话可能更合适；访谈者和受访者之间存在显著权力不对称时。
 > - **不适合使用** 需要大规模统计推广；需要严格控制[[Variable\|变量]]的[[Causality\|因果推断]]；需要标准化可精确比较的数据。
 

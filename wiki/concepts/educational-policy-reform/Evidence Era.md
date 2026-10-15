@@ -6,10 +6,10 @@ aliases:
 summary: "由 Helgetun & Menter 提出的教育治理范式概念，指教育政策合法化超越单纯依靠量化指标的测量时代，演进为借助学术引用、国际最佳实践、医学类比与随机对照试验等多维证据修辞确立正当性的治理新阶段"
 type: concept
 domain: "educational-policy-reform"
-related_count: 31
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - educational-policy-reform
   - evidence-based-education
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Rationalized Myth]]"
   - "[[Governing by Numbers]]"
   - "[[Discourse]]"
-  - "[[Document]]"
   - "[[Reflexivity]]"
   - "[[Performance Indicators]]"
   - "[[Causality]]"
@@ -31,7 +30,6 @@ related_concepts:
   - "[[Policy-Based Evidence-Making]]"
   - "[[New Public Management]]"
   - "[[Scientization of Politics]]"
-  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -55,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Evidence Era
@@ -73,7 +71,7 @@ updated: 2026-10-07
 > - **边界** 并不意味着政策制定真正变得完全由科学理性主导，而是指诉诸证据成为了政策合法化不可或缺的制度性仪式与文化认知脚本。
 
 > [!citation-card] 从测量时代向证据时代的范式演进
-> 证据时代比测量时代更为贴切，因为政策的新型合法化形式根植于研究[[Document\|文献]]、经验观察与教育[[Reflexivity\|反思性]]论证的综合体，其范畴远超大规模数据测量本身；尽管大规模数据仍居于核心，但它不再单独发挥作用。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, p. 96)]]
+> 证据时代比测量时代更为贴切，因为政策的新型合法化形式根植于研究文献、经验观察与教育[[Reflexivity\|反思性]]论证的综合体，其范畴远超大规模数据测量本身；尽管大规模数据仍居于核心，但它不再单独发挥作用。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, p. 96)]]
 >
 > *The term 'evidence era' has become more apt than 'age of measurement' to indicate how even though large-scale data uses are still central, they are not alone, and require new forms of problematization.*
 
@@ -98,7 +96,7 @@ updated: 2026-10-07
 ## 核心要素
 
 > [!feature] 核心要素
-> - **学术规[[Paradigm\|范式]]引文普及** 政策白皮书与指导文件普遍采用类似学术论文的标准引文格式与参考[[Document\|文献]]列表，以此彰显政策依据的透明度与客观性。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, p. 91)]]
+> - **学术规[[Paradigm\|范式]]引文普及** 政策白皮书与指导文件普遍采用类似学术论文的标准引文格式与参考文献列表，以此彰显政策依据的透明度与客观性。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, p. 91)]]
 > - **[[Epistemology\|认识论]]实验层级确立** 在政策[[Discourse|话语]]中极度推崇以 [[Randomised Controlled Trials\|RCT]] 与系统评价为代表的因果实证研究，将医学临床范式作为教师教育改革的理想蓝图。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, p. 90)]]
 > - **去语境化国际参照** 广泛以[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, PISA）高表现国家（如芬兰、新加坡）作为有效实践的合法性来源。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 91–92)]]
 > - **官方守门与代理机构扶植** 政府充当[[Gatekeepers\|守门人]]，定向扶植官方认可的专业代言机构（如[[Chartered College of Teaching\|特许教学学院]]）以排斥传统大学批判力量。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 93–94)]]
@@ -125,7 +123,7 @@ updated: 2026-10-07
 > 探讨教育政策为何超越简单的指标审计，演进为系统性吸纳学术引文与实验修辞的复合治理模式。
 
 > [!claim] [[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]]
-> **合法化形式的学术化跃迁** 政策合法化不再仅仅依赖量化[[Performance Indicators\|绩效指标]]，而是广泛吸收学术[[Document\|文献]]、研究反思与临床证据；1983 年白皮书《教学质量》仅有 7 条内部报告引用，而 2010 年白皮书[[The Importance of Teaching\|《教学的重要性》]]包含 34 条学术与国际引文，标志着政策文本从行政指令向学术化论证的彻底转型。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 90–91, p. 96)]]
+> **合法化形式的学术化跃迁** 政策合法化不再仅仅依赖量化[[Performance Indicators\|绩效指标]]，而是广泛吸收学术文献、研究反思与临床证据；1983 年白皮书《教学质量》仅有 7 条内部报告引用，而 2010 年白皮书[[The Importance of Teaching\|《教学的重要性》]]包含 34 条学术与国际引文，标志着政策文本从行政指令向学术化论证的彻底转型。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 90–91, p. 96)]]
 
 ---
 
@@ -170,7 +168,7 @@ updated: 2026-10-07
 
 > [!critique] 外部批评
 > - **教育目的之技术化遮蔽** 将本质上关涉价值取向与育人目的的公共议题简化为技术有效性计算。
-> - **[[Epistemology\|认识论]]全流程断裂** 政策引文常剥离原始学术研究的方法论[[Hypothesis\|假设]]与适用边界，导致去语境化政策干预在一线强制推行。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, p. 96)]]
+> - **[[Epistemology\|认识论]]全流程断裂** 政策引文常剥离原始学术研究的方法论假设与适用边界，导致去语境化政策干预在一线强制推行。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, p. 96)]]
 
 > [!warning] 适用局限
 > 证据时代描述的是宏观政策[[Discourse|话语]]与合法化机制的结构性演进，不宜被误读为一线教师教学决策已完全被学术研究所支配。

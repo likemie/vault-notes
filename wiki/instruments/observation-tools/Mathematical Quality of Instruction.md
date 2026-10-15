@@ -9,7 +9,7 @@ aliases:
 summary: "由希瑟·希尔等人研发的针对中小学数学教学的专门性外部课堂观察工具，系统解构课堂教学中的数学内容丰富性、学生与数学互动、概念错误与不严谨表述以及学生参与意义建构的深度，通过分段微格量规评估教师学科教学知识在课堂实践中的真实转化质量。"
 type: instrument
 instrument_type: observation-tool
-instrument_related_count: 11
+instrument_related_count: 10
 instrument_related_level: 2
 instrument_related_stars: "⭐⭐"
 instrument_related_color: "#cffafe"
@@ -37,7 +37,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Classroom Observation]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments:
   - "[[Teach Classroom Observation Tool]]"
@@ -98,7 +97,7 @@ MQI 将数学教学质量解构为五个互补的核心领域。
 > [!observation-focus] MQI 核心观察维度重点
 > <span class="instrument-observation-table-marker" aria-hidden="true"></span>
 >
-> | 编号 | 观察维度 | 观察重点 | 记录方式 | 判定或[[Coding in Qualitative Research\|编码]] | 来源 |
+> | 编号 | 观察维度 | 观察重点 | 记录方式 | 判定或编码 | 来源 |
 > |---|---|---|---|---|---|
 > | 1 | 数学丰富性 | 教师是否在图示、符号与现实情境之间建立清晰的多重表征转换 | 7.5 分钟微片段连续编码 | 行为等级（低/中/高） | Hill et al. (2008) |
 > | 2 | 错误防范 | 教师黑板书写与口头表达中是否存在混淆定理、概念偷换或计算失误 | 7.5 分钟微片段连续编码 | 行为等级（无错误/少许/严重） | 同上 |
@@ -126,7 +125,7 @@ MQI 将数学教学质量解构为五个互补的核心领域。
 >
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
-> | MQI 原始版 | 英语（美国） | 中小学数学教师 | 4 领域 | 首次将教师数学教学知识[[Operationalization\|操作化]]为微观观察[[Coding in Qualitative Research\|编码]] | Hill et al. (2008) |
+> | MQI 原始版 | 英语（美国） | 中小学数学教师 | 4 领域 | 首次将教师数学教学知识[[Operationalization\|操作化]]为微观观察编码 | Hill et al. (2008) |
 > | MQI 共同核心版 | 英语 | K-12 数学教师与教研员 | 5 领域 | 紧密对接数学[[Common Core State Standards\|共同核心标准]]，强化论证与推理 | Blazar et al. (2015) |
 
 ---

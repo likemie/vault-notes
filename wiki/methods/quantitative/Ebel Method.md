@@ -12,7 +12,7 @@ summary: "在Angoff方法基础上增加项目相关性维度，构建难度（�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 10
+method_related_count: 9
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Criterion-Referenced Test]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
-  - "[[Hypothesis]]"
   - "[[Operationalization]]"
 related_methods:
   - "[[Item Analysis]]"
@@ -37,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-25
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Ebel Method
@@ -97,7 +96,7 @@ updated: 2026-09-17
 > | **困难** | n₃₁ / p₃₁ | n₃₂ / p₃₂ | n₃₃ / p₃₃ |
 
 > [!case] 计算示例
-> [[Hypothesis\|假设]]一个 50 题的测验，某位评判者分配项目后，矩阵为：高度相关-容易 10 题（估计比例 0.90）、高度相关-中等 12 题（0.75）、高度相关-困难 5 题（0.40）、中等相关-容易 8 题（0.80）、中等相关-中等 8 题（0.60）、中等相关-困难 3 题（0.30）、勉强相关-容易 2 题（0.70）、勉强相关-中等 1 题（0.40）、勉强相关-困难 1 题（0.10）。则该评判者的切分分数 = (10×0.90 + 12×0.75 + 5×0.40 + 8×0.80 + 8×0.60 + 3×0.30 + 2×0.70 + 1×0.40 + 1×0.10) / 50 = 33.10 / 50 ≈ 33 分。
+> 假设一个 50 题的测验，某位评判者分配项目后，矩阵为：高度相关-容易 10 题（估计比例 0.90）、高度相关-中等 12 题（0.75）、高度相关-困难 5 题（0.40）、中等相关-容易 8 题（0.80）、中等相关-中等 8 题（0.60）、中等相关-困难 3 题（0.30）、勉强相关-容易 2 题（0.70）、勉强相关-中等 1 题（0.40）、勉强相关-困难 1 题（0.10）。则该评判者的切分分数 = (10×0.90 + 12×0.75 + 5×0.40 + 8×0.80 + 8×0.60 + 3×0.30 + 2×0.70 + 1×0.40 + 1×0.10) / 50 = 33.10 / 50 ≈ 33 分。
 
 ---
 

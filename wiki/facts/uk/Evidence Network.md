@@ -10,7 +10,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 19
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Knowledge Mobilisation]]"
   - "[[What Works Movement]]"
   - "[[School Leadership]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Paradigm]]"
   - "[[Evidence Ecosystem]]"
   - "[[Evidence-Based Education]]"
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-14
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Evidence Network
@@ -92,7 +91,7 @@ updated: 2026-09-22
 
 > [!pathways]- 关系型[[Knowledge Mobilisation\|知识动员]]机制与运行路径
 > - **反向需求拉动与议程共创** 改变单纯由学者闭门选题的惯性，通过定期圆桌会议让决策者与实践者提前介入课题设计，精准对接国家重大改革需求；
-> - **成果去专业化[[Transfer Translation Transformation\|转译]]与政策简报** 将动辄数百页的学术论著与[[Meta-analysis\|元分析]]转化为直指决策痛点的精炼政策摘要（Policy Briefings）与操作指南；
+> - **成果去专业化转译与政策简报** 将动辄数百页的学术论著与[[Meta-analysis\|元分析]]转化为直指决策痛点的精炼政策摘要（Policy Briefings）与操作指南；
 > - **跨界交往空间与信任资本培育** 依托面对面工作坊、联合研修班与非正式对话，消除不同制度文化与专业行话带来的交流阻力，建立跨越体制壁垒的非交易性伙伴关系。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 106, 122)]]
 
 ---

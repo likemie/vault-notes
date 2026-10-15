@@ -9,7 +9,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 22
+fact_related_count: 21
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Class Size]]"
   - "[[Control of Variables Strategy]]"
   - "[[Avatar]]"
-  - "[[Hypothesis]]"
   - "[[Computer Simulation]]"
   - "[[Variable]]"
   - "[[Dependent Variable]]"
@@ -54,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Inq-ITS
@@ -80,7 +79,7 @@ updated: 2026-10-07
 > [[Inquiry-Based Learning\|探究学习]]的有效性取决于对学生认知困难的秒级捕获与即时精准干预。通过教育数据挖掘技术实时解析学生在虚拟实验中的底层点击与操纵日志，能够精准识别学生是否具备[[Control of Variables Strategy\|控制变量策略]]（CVS）、是否能够正确解释数据，并由数字化[[Avatar\|化身]]智能代理即时推送自适应支架，显著促进高阶探究技能的内化与跨情境远迁移。（Gobert et al., 2018；Li et al., 2019）
 
 > [!policy-design]- 方案设计
-> - **平台目标** 培养中学生提出科学[[Hypothesis\|假设]]、设计对照实验、解释数据与撰写基于证据的科学论据四项核心探究素养。
+> - **平台目标** 培养中学生提出科学假设、设计对照实验、解释数据与撰写基于证据的科学论据四项核心探究素养。
 > - **覆盖学科** 物理学（如碰撞平衡、摩擦力）、化学（如相变反应）、生命科学与地球系统虚拟微世界。
 > - **核心技术组件**
 >   1. **高保真交互式[[Computer Simulation\|计算机模拟]]微世界** 学生在开放界面中调整独立[[Variable\|变量]]并观测[[Dependent Variable\|因变量]]反馈；

@@ -9,7 +9,7 @@ aliases:
 summary: "指大量自主个体（如鸟群、鱼群、无人机集群）在缺乏中央指挥官或全局首领的条件下，依据邻近个体的局部拓扑交互规则与边缘感知，自发涌现出高度协调、极速转向与强抗逆力的大规模整体空间运动的复杂自组织现象；在卡普与扎米斯卡（2025）的论证中，椋鸟群飞展现了去中心化组织即兴应对突发危机的物理学原型。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Technological Republic]]"
   - "[[Creativity]]"
   - "[[Variable]]"
-  - "[[Hypothesis]]"
 related_theories:
   - "[[Organizational Culture]]"
 related_methods:
@@ -43,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Flocking Behavior
@@ -170,7 +169,7 @@ updated: 2026-10-08
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10\|Parisi (2023; 见 Karp & Zamiska, 2025)]] | 2005 年 12 月罗马马西莫宫（国家罗马博物馆）上空椋鸟群（数百只个体） | 3 台同步相机、每秒 10 帧立体高速摄影与三维空间位置重建 | 鸟群空间几何构型、转向发起位置与传导速度 | 证实鸟群呈盘状（Disk）而非球状；机动转向由外围边缘鸟只启动，在几分之一秒内沿拓扑网络传遍全群 | 毫秒级空间位移测量，无推断[[Hypothesis\|假设]]检验量 | 证实自然界集群运动由边缘个体感知与拓扑局域网络驱动，完全无预设首领指令 |
+> | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10\|Parisi (2023; 见 Karp & Zamiska, 2025)]] | 2005 年 12 月罗马马西莫宫（国家罗马博物馆）上空椋鸟群（数百只个体） | 3 台同步相机、每秒 10 帧立体高速摄影与三维空间位置重建 | 鸟群空间几何构型、转向发起位置与传导速度 | 证实鸟群呈盘状（Disk）而非球状；机动转向由外围边缘鸟只启动，在几分之一秒内沿拓扑网络传遍全群 | 毫秒级空间位移测量，无推断假设检验量 | 证实自然界集群运动由边缘个体感知与拓扑局域网络驱动，完全无预设首领指令 |
 
 ---
 

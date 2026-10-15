@@ -13,7 +13,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 54
+fact_related_count: 53
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -59,7 +59,6 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Mariana Mazzucato]]"
-  - "[[Alfred Nobel]]"
   - "[[Venkatesh Narayanamurti]]"
   - "[[Michael Kratsios]]"
   - "[[Paula Stephan]]"
@@ -93,7 +92,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Department of Energy
@@ -177,7 +176,7 @@ updated: 2026-10-14
 
 > [!indicators]- 影响力维度与指标
 > - **科研资产与预算规模** 管理 17 所国家实验室，拥有全美最集中的物理科学、材料工程与超算研究网络，年科研与项目预算逾 400 亿美元。
-> - **[[Alfred Nobel|诺贝尔]]奖谱系关联** 依托 DOE 资助诞生的诺贝尔物理学奖与化学奖得主逾百位。
+> - **诺贝尔奖谱系关联** 依托 DOE 资助诞生的诺贝尔物理学奖与化学奖得主逾百位。
 > - **前沿产业母体孵化** 奠定了商用轻水堆、极紫外光刻（EUV）、现代锂电池、碳纤维与全基因组测序底层专利的早期核心基础。
 
 > [!finding-cards] 关键成效与政策辐射

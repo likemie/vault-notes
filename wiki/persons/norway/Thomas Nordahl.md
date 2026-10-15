@@ -8,7 +8,7 @@ summary: "挪威教育学者与学校改进论者，Visible Learning 北欧支�
 type: person
 nationality: norway
 person_region: "norway"
-person_related_count: 15
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -24,7 +24,6 @@ tags:
 - stance/support
 related_concepts:
   - "[[Visible Learning]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Evidence-Based Education]]"
   - "[[Professional Judgment]]"
   - "[[Research Translation]]"
@@ -51,7 +50,7 @@ updated: 2026-10-15
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** Thomas Nordahl 是挪威教育学者，任 SePU、Høgskolen i Hedmark 教授([[Argument_Nordahl_2015_Paideia\|Nordahl, 2015, p.61]])。在当前 vault 已处理到的 `Paideia` [[Visible Learning\|可见的学习]]（Visible Learning，VL）主题号中，他代表一条清晰的 [[Visible Learning]] 支持路径：不把VL理解成干预排行榜，而把它[[Transfer Translation Transformation\|转译]]成围绕学习结果、研究证据、教师判断和学校改进能力展开的系统性论述（[[Argument_Nordahl_2015_Paideia\|Nordahl, 2015]]；[[Argument_Hansen_2015_Paideia\|Hansen et al., 2015]]）。
+> - **身份位置** Thomas Nordahl 是挪威教育学者，任 SePU、Høgskolen i Hedmark 教授([[Argument_Nordahl_2015_Paideia\|Nordahl, 2015, p.61]])。在当前 vault 已处理到的 `Paideia` [[Visible Learning\|可见的学习]]（Visible Learning，VL）主题号中，他代表一条清晰的 [[Visible Learning]] 支持路径：不把VL理解成干预排行榜，而把它转译成围绕学习结果、研究证据、教师判断和学校改进能力展开的系统性论述（[[Argument_Nordahl_2015_Paideia\|Nordahl, 2015]]；[[Argument_Hansen_2015_Paideia\|Hansen et al., 2015]]）。
 
 ## 核心思想
 
@@ -68,7 +67,7 @@ updated: 2026-10-15
 ## 影响
 
 > [!success] 影响
-> - 在 `Paideia` VL主题号的内部结构中，Nordahl 提供了明显的**支持方系统改进论述**，把 [[Visible Learning]] 从[[Effect Size\|效应量]]讨论推进到学校组织、教师协作与证据[[Transfer Translation Transformation\|转译]]层面([[Argument_Hansen_2015_Paideia\|Hansen et al., 2015, pp.6–8]])。
+> - 在 `Paideia` VL主题号的内部结构中，Nordahl 提供了明显的**支持方系统改进论述**，把 [[Visible Learning]] 从[[Effect Size\|效应量]]讨论推进到学校组织、教师协作与证据转译层面([[Argument_Hansen_2015_Paideia\|Hansen et al., 2015, pp.6–8]])。
 > - 他的文章为本 vault 中 [[Evidence-Based Education]] 的“证据到实践转化”部分提供了一条清晰的学校改进链条，特别强化了 [[Professional Judgment]]、[[Knowledge Mobilisation]] 和组织能力之间的关系。
 
 ## 主要著作

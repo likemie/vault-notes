@@ -28,11 +28,11 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Red Tape]]"
   - "[[Gold Standard Science]]"
-  - "[[Document]]"
   - "[[Decodification]]"
   - "[[Portfolio-Based Research Funding]]"
   - "[[Clinical Trial]]"
   - "[[Goodhart's Law]]"
+  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Correlational Research]]"
@@ -115,7 +115,7 @@ updated: 2026-10-08
 > 探讨人工智能如何与自动化实验基础设施协同大幅压低发现与试错边际成本。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
-> **智能生成与机器核验协同假说** 逆转厄鲁姆定律必须重构科学工具箱：一方面，依托[[Genesis Mission|创世纪计划]]训练行业基础大模型，将蛋白质结构预测与分子逆向从头设计的时间由数年压缩至数天；另一方面，必须同步建立机器可读的自动化形式化验证与云端实验室核验沙盒，以[[Gold Standard Science|黄金标准科学]]打破不可重复[[Document|文献]]对公共预算长达十余年的误导，从根本上重塑国家生物医药与硬科学的研发生产率曲线。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 57–67)]]
+> **智能生成与机器核验协同假说** 逆转厄鲁姆定律必须重构科学工具箱：一方面，依托[[Genesis Mission|创世纪计划]]训练行业基础大模型，将蛋白质结构预测与分子逆向从头设计的时间由数年压缩至数天；另一方面，必须同步建立机器可读的自动化形式化验证与云端实验室核验沙盒，以[[Gold Standard Science|黄金标准科学]]打破不可重复文献对公共预算长达十余年的误导，从根本上重塑国家生物医药与硬科学的研发生产率曲线。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 57–67)]]
 
 ---
 
@@ -124,7 +124,7 @@ updated: 2026-10-08
 > [!ref-table]- 厄鲁姆定律与科研生产率放缓实证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究[[Document\|文献]] | 样本与行业情境 | 考察指标与设计 | 原始实证结果 | 理论解释边界 |
+> | 研究文献 | 样本与行业情境 | 考察指标与设计 | 原始实证结果 | 理论解释边界 |
 > |:---|:---|:---|:---|:---|
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 13)]] | 全球 1950–2020 年通胀调整后新药研发与审批数据（引自 Scannell et al., 2012） | 每 10 亿美元研发支出产出新药获批数量纵向追踪 | 1950 年来通胀调整后单位研发产出新药下降幅度达 80 倍，平均每 9 年产出效率减半 | 实证确立厄鲁姆定律的核心基准数据，展现生物医药研发效率的长期指数级衰退 |
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 14)]] | 1970 年代初以来全美半导体与农业研发投入普查 | 维持技术进步所需研究人员规模与农业投入产出比追踪 | 维持晶体管密度历史增长所需研究人员激增 18 倍；农业研发投入扩大 3–25 倍而产出大体持平 | 证实科研边际效率放缓并非生物医学特有现象，而是跨学科的普遍系统性趋势 |
@@ -139,7 +139,7 @@ updated: 2026-10-08
 ## 命题总览
 
 > [!contrast-table] 厄鲁姆定律核心命题归纳
-> | 命题维度 | 核心命题名称 | 关键作用机制 | 核心论证[[Document\|文献]] |
+> | 命题维度 | 核心命题名称 | 关键作用机制 | 核心论证文献 |
 > |:---|:---|:---|:---|
 > | **病灶诊断** | **制度摩擦主导与避险放缓** | 行政合规通胀与[[Seniority Barrier in Academia\|资历垄断]]推高沉没成本，诱发普遍学术避险 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 14–16)]]; Scannell (2012) |
 > | **组织突破** | **新型[[Focused Research Organization\|聚焦研究组织]]（FRO）破局** | 聘用专职工程团队攻坚中等规模公共品工具，弥补系所与市场断层 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 22–26)]] |

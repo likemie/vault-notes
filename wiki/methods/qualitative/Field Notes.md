@@ -7,7 +7,7 @@ summary: "质性研究中研究者在观察现场或观察后尽快记录的文�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 11
+method_related_count: 10
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -21,7 +21,6 @@ related_methods:
   - "[[Case Study]]"
   - "[[Ethnography]]"
   - "[[Transcription in Qualitative Research]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Questionnaire]]"
   - "[[Correlational Research]]"
 related_arguments:
@@ -33,7 +32,7 @@ related_concepts:
 confidence: medium
 status: draft
 created: 2026-07-11
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 # Field Notes
 
@@ -46,7 +45,7 @@ updated: 2026-10-08
 > - **研究对象** 观察到的行为、互动、对话、环境细节、非语言线索、研究者当场反应
 > - **问题类型** 记录发生了什么、如何发生、在什么情境中发生
 > - **[[Unit of Analysis\|分析单位]]** 事件、互动回合、时间片段、场景
-> - **输出形式** 文字笔记（手写或打字）、口述录音[[Transcription in Qualitative Research\|转录]]、[[Coding in Qualitative Research\|编码]]和分析用的原始材料
+> - **输出形式** 文字笔记（手写或打字）、口述录音[[Transcription in Qualitative Research\|转录]]、编码和分析用的原始材料
 
 > [!citation-card]- King（1979）的田野笔记规模
 > 我填满了三十二本笔记本，包含在近六百小时观察中做的约五十万字笔记。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|(Cohen et al., 2011, Ch14, p. 295)]]
@@ -70,7 +69,7 @@ updated: 2026-10-08
 > - **知识观** 田野笔记不是对现实的透明记录，而是研究者在特定时刻的选择性建构——记录什么、忽略什么、如何表述都涉及研究者的判断
 > - **研究者角色** 研究者在记录时已在进行初步分析。Wolcott 承认记笔记帮助他对抗观察校长每天无尽的会议时的极度无聊，但偶尔事件发生得太快只能做粗略笔记后补充
 > - **有效性标准** 记录的及时性（越快越完整）、细节的充分性（能否数月后唤起画面）、多源交叉验证
-> - **不声称回答的问题** 田野笔记本身不是分析，需要后续[[Coding in Qualitative Research\|编码]]和解释
+> - **不声称回答的问题** 田野笔记本身不是分析，需要后续编码和解释
 
 > [!warning] Wolcott 的核心提示
 > 在先前观察的笔记完成之前，绝不要恢复观察。仅仅作为观察者在场是没有任何收获的。直到一个访问的观察和印象被记录在案，回到课堂或学校并把更近的一组事件叠加在另一组之上没有什么意义。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|(Cohen et al., 2011, Ch14, p. 296)]]

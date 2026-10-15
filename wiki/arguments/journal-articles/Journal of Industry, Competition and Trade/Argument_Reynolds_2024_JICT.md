@@ -23,12 +23,10 @@ related_concepts:
   - "[[Public Value]]"
   - "[[Market Shaping and Creating]]"
   - "[[Modern Industrial Policy]]"
-  - "[[Hypothesis]]"
   - "[[National Competitive Advantage]]"
   - "[[Market Failure]]"
   - "[[Embedded Autonomy]]"
   - "[[Apprenticeship]]"
-  - "[[Document]]"
   - "[[Total Factor Productivity]]"
   - "[[Innovation Ecosystem]]"
   - "[[Workforce Development]]"
@@ -65,9 +63,9 @@ title: "Argument_Reynolds_2024_JICT"
 argument_key: "Argument_Reynolds_2024_JICT"
 argument_display_title: "U.S"
 argument_kind: "journal-article"
-argument_related_count: 30
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 28
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: "Journal of Industry, Competition and Trade"
 ---
@@ -95,7 +93,7 @@ journal: "Journal of Industry, Competition and Trade"
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Modern Industrial Policy\|现代产业政策]]**<br>[[Modern Industrial Policy]] | 指向国家超越新古典新自由主义市场中立[[Hypothesis\|假设]]，通过定向研发、直接补贴、税收激励与规制工具主动引导战略性产业发展并重塑[[National Competitive Advantage\|国家竞争优势]]。（pp. 1–3） |
+> | **[[Modern Industrial Policy\|现代产业政策]]**<br>[[Modern Industrial Policy]] | 指向国家超越新古典新自由主义市场中立假设，通过定向研发、直接补贴、税收激励与规制工具主动引导战略性产业发展并重塑[[National Competitive Advantage\|国家竞争优势]]。（pp. 1–3） |
 > | **[[Market Shaping and Creating\|市场塑造与市场共创]]**<br>[[Market Shaping and Creating]] | 超越消极修复[[Market Failure\|市场失灵]]（Market Fixing），主张公共部门通过设定社会使命与[[Policy Conditionalities\|制度化附加条件]]（Conditionalities），与私人部门共担风险并共享公共回报，主动培育全新产业生态。（p. 5） |
 > | **[[Embedded Autonomy\|嵌入式自主性]]**<br>[[Embedded Autonomy]] | 阐明国家机构既需与产业界保持制度化信息交流与战略协作以解决现实问题，又必须保持高度的科层独立性与防俘获能力。（pp. 4–5） |
 
@@ -111,7 +109,7 @@ journal: "Journal of Industry, Competition and Trade"
 > |------|----------------|
 > | **政策文献分析**<br>[[Documentary Analysis\|Documentary Analysis]] | 运用政策与法规文献分析方法，系统剖析美国三大联邦法案文本（[[Infrastructure Investment and Jobs Act\|IIJA]], [[CHIPS and Science Act]], [[International Reading Association\|IRA]]）的法定条款、实施细则及资助机会公告（Notice of Funding Opportunity, NOFO）。（pp. 6–13） |
 > | **比较制度分析**<br>Comparative Institutional Analysis | 横向对比三大法案在政策目标（供应链韧性、再工业化、气候转型）、工具属性（直接拨款 vs. 税收抵免 vs. 政府采购）及约束机制（护栏 vs. 附加条件）上的异同。（pp. 6–14） |
-> | **过程治理框架建构**<br>Process-based Policy Evaluation | 综合[[Evolutionary Economics\|演化经济学]]、公共治理与产业政策[[Document\|文献]]，提炼出保障产业政策落地实施的七项操作性过程准则与成效评估维度。（pp. 4–5, 14） |
+> | **过程治理框架建构**<br>Process-based Policy Evaluation | 综合[[Evolutionary Economics\|演化经济学]]、公共治理与产业政策文献，提炼出保障产业政策落地实施的七项操作性过程准则与成效评估维度。（pp. 4–5, 14） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |

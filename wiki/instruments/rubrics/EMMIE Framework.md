@@ -7,7 +7,7 @@ aliases:
 summary: "由英国警务有效性中心推行的五维证据评价与质评量规矩阵，涵盖效应（Effect）、机制（Mechanism）、调节变量（Moderator）、实施（Implementation）与经济学评价（Economics）五个维度，各维度配备0–4级质评评分锚点，推动证据标准从单一效应量等级向多维因果机制与情境适切性量规演进。"
 type: instrument
 instrument_type: rubric
-instrument_related_count: 41
+instrument_related_count: 38
 instrument_related_level: 6
 instrument_related_stars: "⭐⭐⭐⭐⭐⭐"
 instrument_related_color: "#fecdd3"
@@ -34,12 +34,10 @@ related_concepts:
   - "[[Evidence Standards]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Variable]]"
-  - "[[Hypothesis]]"
   - "[[Implementation Fidelity]]"
   - "[[Criterion-Referenced Test]]"
   - "[[Causality]]"
   - "[[Reliability]]"
-  - "[[Attrition]]"
   - "[[Logic Model]]"
   - "[[Preregistration]]"
   - "[[Heterogeneity]]"
@@ -52,7 +50,6 @@ related_theories: []
 related_methods:
   - "[[Systematic Review]]"
   - "[[Effect Size]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Rating Scale]]"
   - "[[Confidence Interval]]"
   - "[[Implementation and Process Evaluation]]"
@@ -80,7 +77,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-03
+updated: 2026-10-15
 ---
 
 # EMMIE Framework
@@ -93,7 +90,7 @@ updated: 2026-10-03
 > - **工具类型** [[Authentic Assessment\|表现性评价]]量规矩阵（Rubrics）与多维[[Evidence Standards\|证据标准]]评定工具。
 > - **开发者与年份** Johnson, S. D., Tilley, N., & Bowers, K. J. (2015)；英国警务学院犯罪减少有效性中心（College of Policing What Works Centre for Crime Reduction, WWCCR, 2016）。
 > - **测量目的** 为社会政策、治安管理与公共教育干预的[[Systematic Review\|系统综述]]与实证综合提供多维质评标准，摆脱传统单一因果阶梯制仅关注平均[[Effect Size\|效应量]]的局限，系统评估效应方向与证据严密性、因果机制实证度、情境调节边界、实施条件与保真度门槛以及经济学投入产出比。
-> - **实施方式** 专家[[Coding in Qualitative Research\|编码]]评估（Expert Coding），由[[Educational Brokerage Agency\|证据中介机构]]研究员或系统评价团队对照阶梯描述符独立研判并开展复核。
+> - **实施方式** 专家编码评估（Expert Coding），由[[Educational Brokerage Agency\|证据中介机构]]研究员或系统评价团队对照阶梯描述符独立研判并开展复核。
 
 > [!citation-card] 证据多维评价量规开发主旨与方法论演进
 > 针对单一效果指标无法解释复杂社会情境干预有效性的局限，Johnson 等人于 2015 年在《Journal of Experimental Criminology》提出 EMMIE 证据评级量表，并在英国警务学院《犯罪减少工具包》中制度化推行。[[David Gough]] 等学者指出，EMMIE 框架标志着[[Educational Brokerage Agency\|知识中介机构]]由单维因果效应评级向涵盖机制解释与情境适切性的多维量规演进。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, p. 150)]]
@@ -111,7 +108,7 @@ updated: 2026-10-03
 > |---|---|---|---|
 > | **干预效应（Effect）** | 1 | 干预因果效应的方向、大小、[[Confidence Interval\|置信区间]]及设计抗偏倚能力 | 0–4 级量规评分（对接科学严密性量表 SMS 等级）并标注效应方向（正向 / 无效 / 负向 / 混合） |
 > | **作用机制（Mechanism）** | 1 | 解释干预起效的因果链条、中间[[Variable\|变量]]测量与中介效应实证支持度 | 0–4 级量规评分（从纯理论推演到基于[[Implementation and Process Evaluation\|过程评估]]或中介模型的充分实证验证） |
-> | **调节变量（Moderator）** | 1 | 识别影响干预成效的目标人群、机构生态、实施密度与情境激活边界 | 0–4 级量规评分（从无情境分析到预设[[Hypothesis\|假设]]的系统调节分析与 CMO 构型解释） |
+> | **调节变量（Moderator）** | 1 | 识别影响干预成效的目标人群、机构生态、实施密度与情境激活边界 | 0–4 级量规评分（从无情境分析到预设假设的系统调节分析与 CMO 构型解释） |
 > | **实施条件（Implementation）** | 1 | 落地干预所需的人力资源、专业培训、组织准备度与[[Implementation Fidelity\|实施保真度]]监控 | 0–4 级量规评分（从无实施记录到高保真度监控与深度过程评估） |
 > | **经济学评价（Economics）** | 1 | 干预的单位成本、实施启动与维持成本、成本效益或成本效用比 | 0–4 级量规评分（从无成本数据到包含多情境敏感性分析的严密成本效益核算） |
 
@@ -135,7 +132,7 @@ updated: 2026-10-03
 > | **0 级** | 无有效证据 | 研究设计存在严重混杂，无法支持[[Causality\|因果推断]]，或未报告可核实的效果数据 | 缺乏对照组的单组前[[Pre-test and Post-test\|后测]]或横截面[[Correlational Research\|相关研究]]（SMS 1） |
 > | **1 级** | 统计不确定 | 具有对照组但缺乏基线匹配，混杂偏倚极高，统计推断不可靠 | 弱非对等对照组设计，未做[[Covariate Adjustment\|协变量调整]]（SMS 2） |
 > | **2 级** | 中等因果证据 | 采用基线均衡匹配或统计调整的[[Quasi-Experimental Designs\|准实验设计]]，具有一定的因果可[[Reliability\|信度]] | 良好匹配的准[[Experimental Research\|实验研究]]（SMS 3） |
-> | **3 级** | 高度严密证据 | 采用严密的[[Regression Discontinuity Design\|断点回归]]、工具[[Variable\|变量]]法或中等规模随机试验，基线可比且[[Attrition\|流失]]控制良好 | 严格准实验或低偏倚风险[[Randomised Controlled Trials\|随机对照试验]]（SMS 4） |
+> | **3 级** | 高度严密证据 | 采用严密的[[Regression Discontinuity Design\|断点回归]]、工具[[Variable\|变量]]法或中等规模随机试验，基线可比且流失控制良好 | 严格准实验或低偏倚风险[[Randomised Controlled Trials\|随机对照试验]]（SMS 4） |
 > | **4 级** | 最高等级证据 | 大样本多中心[[Randomised Controlled Trials\|随机对照试验]]（RCT）或针对多项高严密性设计的系统综述与元分析 | 充分功效的高质量 RCT 或 Cochrane/Campbell 级[[Meta-analysis\|元分析]]（SMS 5） |
 
 ### 作用机制量规
@@ -147,7 +144,7 @@ updated: 2026-10-03
 > | 评级 | 等级名称 | 表现描述符与证据判定标准 | 验证方法支撑 |
 > |---|---|---|---|
 > | **0 级** | 缺失机制解释 | 仅报告输入与输出关系，完全未阐述干预起效的内在因果机理 | 纯黑箱实证测试 |
-> | **1 级** | 纯理论[[Hypothesis\|假设]] | 提出了干预触发因果改变的理论假说，但属于事后推测，无任何实证数据支撑 | 纯理论推导或未经检验的[[Logic Model\|逻辑模型]] |
+> | **1 级** | 纯理论假设 | 提出了干预触发因果改变的理论假说，但属于事后推测，无任何实证数据支撑 | 纯理论推导或未经检验的[[Logic Model\|逻辑模型]] |
 > | **2 级** | 间接相关测量 | 测量了预期中介变量的变化，但未建立中介变化与最终产出之间的因果检验 | 单纯的前后测中间指标描述 |
 > | **3 级** | 实证机制支撑 | 通过质性[[Process Tracing\|过程追踪]]或定量中介分析，证明干预激活了中间机制并促进了最终产出 | [[Mixed Methods Research\|混合方法]][[Implementation and Process Evaluation\|过程评估]]或初步中介效应分析 |
 > | **4 级** | 严密机制因果链 | 具备先验[[Preregistration\|预注册]]机制假设，通过多重中介模型或因果中介分析彻底证实因果传导路径 | 严格中介分析或系统化[[Mechanism Experiments\|机制实验]] |

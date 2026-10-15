@@ -10,9 +10,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 17
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 14
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: higher-ed-association
 headquarters: "Washington, D.C., USA"
@@ -28,11 +28,8 @@ related_concepts:
   - "[[Normal School]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Policy Network]]"
-  - "[[Attrition]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Research Translation]]"
   - "[[Research Utilization]]"
-  - "[[Hypothesis]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -51,7 +48,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # American Association of Colleges for Teacher Education
@@ -88,8 +85,8 @@ updated: 2026-09-17
 > - **州级分会网络（State Chapters）** 在全美各州建立常设基层分会，与州议会和州教育厅协同推进师资准入标准与薪酬立法。
 
 > [!pathways]- 业务运行机制
-> - **行业实证监测** 定期开展全美教师教育机构普查，发布《全美教师准备状态报告》（*State of the Profession*），系统追踪全美师范招生生源、高贫困学校师资[[Attrition\|流失]]率等关键指标。
-> - **语言[[Transfer Translation Transformation\|转译]]与定向游说** 将关于临床实践（Clinical Practice）有效性与教师效能的计量实证[[Research Translation\|研究转译]]为国会议员立即可读的一页纸政策清单，为法案条文起草提供实证抗辩护栏。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 45)]]
+> - **行业实证监测** 定期开展全美教师教育机构普查，发布《全美教师准备状态报告》（*State of the Profession*），系统追踪全美师范招生生源、高贫困学校师资流失率等关键指标。
+> - **语言转译与定向游说** 将关于临床实践（Clinical Practice）有效性与教师效能的计量实证[[Research Translation\|研究转译]]为国会议员立即可读的一页纸政策清单，为法案条文起草提供实证抗辩护栏。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 45)]]
 
 ---
 
@@ -107,7 +104,7 @@ updated: 2026-09-17
 
 > [!finding-cards] 中介动员与[[Research Utilization\|知识利用]]
 > - **作为高校象牙塔与立法中枢的桥梁** 在 [[Argument_Serpell_2020_EP\|Serpell (2020)]] 的政策生态分析中，AACTE 被列为与 [[American Council on Education\|ACE]]、[[The Education Trust\|EdTrust]] 并立的最具代表性的教育专业中介机构之一。这些机构深谙立法痛点与政治语言，能够使分散在大学象牙塔中的个别研究成果聚合成代表行业共识的强大政治声浪。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 45)]]
-> - **遏制去专业化浪潮的制度屏障** 凭借详实的循证审查，AACTE 有力驳斥了“只要具备学科知识无需经过教育学培训即可胜任教学”的激进市场化[[Hypothesis\|假设]]，确保了专业教育学实习与儿童发展心理学课程在各州教师资格认证中的法定核心地位。
+> - **遏制去专业化浪潮的制度屏障** 凭借详实的循证审查，AACTE 有力驳斥了“只要具备学科知识无需经过教育学培训即可胜任教学”的激进市场化假设，确保了专业教育学实习与儿童发展心理学课程在各州教师资格认证中的法定核心地位。
 
 ---
 

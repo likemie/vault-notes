@@ -9,7 +9,7 @@ summary: "一种同时访谈多位受访者的数据收集方法，通过在群�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 11
+method_related_count: 10
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -24,7 +24,6 @@ related_methods:
   - "[[Focus Group]]"
   - "[[Cross-checking]]"
   - "[[Qualitative Research]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Triangulation]]"
   - "[[Qualitative Interview]]"
   - "[[Correlational Research]]"
@@ -34,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Group Interview
@@ -65,7 +64,7 @@ updated: 2026-09-22
 > [!method-stack] 方法层级
 > - **研究设计** [[Qualitative Research\|质性研究]]设计，常与个别访谈结合使用——小组访谈在先以激发后续个别访谈的洞见。
 > - **数据收集** 预先安排的、通常已有共同工作经历或共同目的的群体；半结构化话题指南；需要处理群体动态的访谈技能。
-> - **分析方法** 群体互动分析（关注参与者如何相互支持、影响、补充、同意和不同意）、主题分析、[[Coding in Qualitative Research\|编码]]群体回应。
+> - **分析方法** 群体互动分析（关注参与者如何相互支持、影响、补充、同意和不同意）、主题分析、编码群体回应。
 > - **辅助技术** 注意物理布局（确保每人能看到彼此）、群体规模管理、轮流发言安排。
 
 ---
@@ -97,7 +96,7 @@ updated: 2026-09-22
 
 > [!method-limits] 方法局限
 > - **偏误来源** 某位受访者可能主导访谈——特别是如果存在性别或地位差序（Arksey and Knight, 1999, p. 76）；可能激起对抗；个体在同事或他人面前可能沉默——特别是敏感话题；可能提供"公共立场"而非更诚实的个人回应；参与者可能串通隐瞒信息；群体思维可能压制持不同意见的个体。
-> - **适用边界** 不适用于获取个人深层资料；回应[[Coding in Qualitative Research\|编码]]较个别访谈更复杂（Lewis, 1992）；[[Unit of Analysis\|分析单位]]必须是群体整体，不能误将群体层面的发现归于个体。
+> - **适用边界** 不适用于获取个人深层资料；回应编码较个别访谈更复杂（Lewis, 1992）；[[Unit of Analysis\|分析单位]]必须是群体整体，不能误将群体层面的发现归于个体。
 > - **误用风险** 将群体共识误读为个体真实态度；忽视群体互动对个体表达的扭曲效应；错误地将个体层面的观察推广到群体结论，或反过来。
 > - **补救方式** 结合个别访谈进行[[Triangulation\|三角互证]]；明确记录群体动态和潜在的权力差序；关注谁在说话、谁没有说、以及为什么。
 

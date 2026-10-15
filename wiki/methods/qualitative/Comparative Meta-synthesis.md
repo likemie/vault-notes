@@ -7,9 +7,9 @@ summary: "通过跨元分析比较来得出推论的综合方法，旨在回答�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 16
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 15
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/meta-synthesis
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Epistemology]]"
   - "[[Creativity]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Structured Teaching]]"
   - "[[Classroom Management]]"
 related_theories:
@@ -43,7 +42,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-06-08
+updated: 2026-10-15
 ---
 
 ## 定义
@@ -99,7 +98,7 @@ updated: 2026-06-08
 > - 选择国际和本土研究综述，并记录材料差异（p.589）
 > - 阅读、扫描和协议记录，将描述性报告转化为可比较的分析主题（pp.589–590）
 > - 在不同综述之间进行翻译：有些可直接互译，有些相互抵触，有些可以组合成推论链（p.588）
-> - 综合翻译结果，形成对研究领域的整体重建，并把结论[[Transfer Translation Transformation\|转译]]给政策、实践或学术讨论（pp.588–590）
+> - 综合翻译结果，形成对研究领域的整体重建，并把结论转译给政策、实践或学术讨论（pp.588–590）
 
 ---
 

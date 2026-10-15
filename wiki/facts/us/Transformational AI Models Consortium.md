@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 20
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Market Failure]]"
   - "[[Precompetitive Research]]"
   - "[[Grand Challenges]]"
-  - "[[Hypothesis]]"
   - "[[Learner Autonomy]]"
   - "[[Gold Standard Science]]"
   - "[[Portable Fellowship]]"
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Transformational AI Models Consortium
@@ -82,7 +81,7 @@ updated: 2026-10-07
 > - **战略[[Grand Challenges|重大挑战]]聚焦（Strategic Challenge Focus）** 严格限定在组合空间巨大、具备高纯度结构化数据且物理基准明确的重大领域（先进半导体物理制造、受控核聚变等离子体磁约束控制、全生命周期生物防御与新型常温拓扑材料），避免与民间消费级商业 AI 展开无序竞争。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 62–63)]]
 > - **国家科学与安全平台（ASSP）互联** 将橡树岭 Frontier、阿贡 Aurora 及劳伦斯利弗莫尔 El Capitan 等国家级百亿亿次超算算力整合成统一可调度的“美国科学云（American Science Cloud）”。
 > - **失败实验与阴性数据共享激励** 建立反向补偿机制，鼓励国家实验室与合作企业公开历史上的未发表失败实验、化学合成排障数据及未见刊负面结果，为模型提供关键边界负样本。
-> - **开放数据接口与自动化云实验室联通** 推动实验仪器摒弃专有封闭协议，构建机器可调用的可编程云端实验室节点，实现“AI [[Hypothesis|假设]]生成—模型逆向设计—云端物理实验合成—数据自动回流”的闭环。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 63–64)]]
+> - **开放数据接口与自动化云实验室联通** 推动实验仪器摒弃专有封闭协议，构建机器可调用的可编程云端实验室节点，实现“AI 假设生成—模型逆向设计—云端物理实验合成—数据自动回流”的闭环。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 63–64)]]
 
 > [!citation-card] 创世纪联合体使命宣言
 > 转型人工智能模型联合体代表了国家战略动员的新形态。我们将美国最强大的超级计算机、跨越数十年积累的国家科学数据，与全美最具创新力的科技企业智慧融为一体，打造能够[[Learner Autonomy|自主学习]]物理自然规律的超级发现引擎。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 63)]]

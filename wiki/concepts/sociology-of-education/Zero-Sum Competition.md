@@ -8,7 +8,7 @@ aliases:
 summary: "美国学生将学业竞争视为零和博弈的文化信念，是 nerd 同伴文化的重要文化根源之一"
 type: concept
 domain: "sociology-of-education"
-related_count: 8
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Self-Cultivation]]"
   - "[[Talent Assumption]]"
   - "[[Intellectual-Social Divide]]"
-  - "[[Hypothesis]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
 related_methods: []
@@ -35,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-08-20
+updated: 2026-10-15
 ---
 
 # Zero-Sum Competition
@@ -130,7 +129,7 @@ Watkins 及其学生采用 Fülöp 的方法研究香港高中生（含高能力
 3. [[Talent Assumption|天赋假设]] → 努力 = 低能力的标志，不努力的成功 = 天才
 4. [[Intellectual-Social Divide|知性-社交二分]] → 学术投入的人 = 社交有缺陷的人
 
-四条根相互加强：固定自我使人敏感于比较 → 零和竞争将比较建构为敌对 → 天赋[[Hypothesis|假设]]让"不努力的成功者"获得豁免、"努力的成功者"加倍可疑 → 知性-社交二分为所有骚扰提供合理化。
+四条根相互加强：固定自我使人敏感于比较 → 零和竞争将比较建构为敌对 → 天赋假设让"不努力的成功者"获得豁免、"努力的成功者"加倍可疑 → 知性-社交二分为所有骚扰提供合理化。
 
 完整的论证链见 Li (2012) 第 6 章第 3 步。
 

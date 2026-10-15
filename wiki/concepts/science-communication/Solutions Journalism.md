@@ -7,7 +7,7 @@ aliases:
 summary: "指基于实证证据对社会、环境与健康议题应对方案进行系统调查、成效评估与局限审视的严谨新闻实践范式；旨在克服传统轰动性负面报道引发的“新闻回避”与受众习得性无助，在肯定行动希望的同时恪守证据批判与反思边界。"
 type: concept
 domain: "science-communication"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Critical Thinking Disposition]]"
-  - "[[Document]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:
@@ -41,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-03
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Solutions Journalism
@@ -155,7 +154,7 @@ updated: 2026-10-07
 ### 命题总览
 
 > [!contrast-table] 解决方案新闻核心命题归纳
-> | 命题类别 | 核心理论判定 | 适用情境与实践路径 | 代表[[Document\|文献]] |
+> | 命题类别 | 核心理论判定 | 适用情境与实践路径 | 代表文献 |
 > |---|---|---|---|
 > | **受众赋能命题** | 建设性方案叙事是克服习得性无助与逆转新闻回避的核心解药 | 复杂公共危机（气候变化、公共卫生、贫困）的大众传播 | Newman et al. (2025); Majid (2022) |
 > | **科学策源命题** | 科学研究天然的问题解决面向是建设性公共议程的基石 | 科学新闻采编优先级的重塑与科技议题大众化传播 | [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]] |

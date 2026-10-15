@@ -10,7 +10,7 @@ title: "Argument_Bolton_2017_ArchPsych"
 argument_key: "Argument_Bolton_2017_ArchPsych"
 argument_display_title: "Cognitive and brain development: Executive function, Piaget, and the prefrontal cortex"
 argument_kind: "journal-article"
-argument_related_count: 28
+argument_related_count: 26
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -33,13 +33,11 @@ related_concepts:
   - "[[Updating and Monitoring]]"
   - "[[Literature Review]]"
   - "[[Paradigm]]"
-  - "[[Document]]"
   - "[[Inhibitory Control]]"
   - "[[Working Memory]]"
   - "[[Attentional Inertia]]"
   - "[[Synaptic Pruning]]"
   - "[[Cognitive Flexibility]]"
-  - "[[Hypothesis]]"
   - "[[Variable]]"
 related_theories:
   - "[[Piaget's Theory of Cognitive Development]]"
@@ -112,7 +110,7 @@ citation_aliases:
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **[[Document\|文献]]样本池** | 覆盖 1950 年代至 2017 年间发表的认知心理学、神经科学及教育管理文献（p.2）。 |
+> | **文献样本池** | 覆盖 1950 年代至 2017 年间发表的认知心理学、神经科学及教育管理文献（p.2）。 |
 > | **测评任务范围** | 包含 A非B任务 (A-not-B Task, 0–2岁)、Stroop式日夜任务与维度变化卡片分类任务 (Day-Night & DCCS Tasks, 3–5岁)、守恒任务与 Go/No-Go 任务 (Conservation & Go/No-Go Tasks, 7–11岁)、威斯康星卡片分类任务与 Keep-track 任务 (WCST & Keep-track Tasks, 11–16岁) 等代表性行为学测试（pp.9–15）。 |
 > | **大脑解剖样本** | 包含尸检解剖数据 (如背外侧前额叶皮层 [[Prefrontal Cortex\|Dorsolateral Prefrontal Cortex, dlPFC]] 锥体细胞) 以及不同年龄段儿童与成人的神经成像扫描数据（pp.9–13）。 |
 
@@ -193,7 +191,7 @@ citation_aliases:
 
 ### 步骤四：形式运算阶段（11-16岁及以后）——皮层修剪与 EF 完全成熟
 
-从 11–16 岁，儿童发展出抽象、[[Hypothesis|假设]]演绎和反射性智能 (Reflective Intelligence)，能够系统预判所有组合和结果。这直接标志着 EF 的最终成熟，在生理上对应着 dlPFC 第 III 层锥体细胞构筑的最终锁定，以及皮层选择性变薄（pp.15–17）。
+从 11–16 岁，儿童发展出抽象、假设演绎和反射性智能 (Reflective Intelligence)，能够系统预判所有组合和结果。这直接标志着 EF 的最终成熟，在生理上对应着 dlPFC 第 III 层锥体细胞构筑的最终锁定，以及皮层选择性变薄（pp.15–17）。
 
 > [!line-a] 行为表征与实验案例
 > - **更新功能 (Updating) 的全面登顶** WCST（威斯康星卡片分类任务）是检验该阶段高级更新能力的典型任务。11岁以下儿童做该任务主要依赖抑制和转换得分预测；11岁之后，工作记忆更新成为唯一预测因子（p.14）。尽管 11 岁儿童的 WCST 错误率与成人无异，但完成分类的分类数要到 15–16 岁才达到成人水平。

@@ -8,7 +8,7 @@ aliases:
 summary: "指 1970 年代中叶以降，由于战后实证主义单一全包容科学范式在治理现实、物理学量子转向与后现代思潮中全面破裂，比较教育学演进为多个理论学派、研究取向与多元真理体制并存竞争的复数化学科格局。"
 type: concept
 domain: "comparative-education"
-related_count: 32
+related_count: 30
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Discourse]]"
   - "[[Positivism]]"
-  - "[[Hypothesis]]"
   - "[[Agendas of Attention]]"
   - "[[Policy Borrowing]]"
   - "[[Grand Theory]]"
@@ -36,7 +35,6 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Epistemological Break]]"
   - "[[Spatial Sortings]]"
-  - "[[Document]]"
 related_theories:
   - "[[Critical Theory]]"
   - "[[Postmodernism]]"
@@ -60,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-08
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Comparative Educations
@@ -83,7 +81,7 @@ updated: 2026-10-07
 > *Already by the 1980s one could rightfully suggest that ‘there are now many schools of thought in comparative education and none has dominance’ (Altbach, 1991: 493); consequently it would be more accurate to speak today about comparative educations rather than about comparative education (Cowen, 2000).*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Scientific Paradigm]] — 后者在 1960 年代特指以大样本跨国共变、[[Hypothesis\|假设]]检验与普遍社会学规律为追求的单一统治范式，而复数比较教育学是该霸权解体后形成的学术多极格局。
+> - 不等于 [[Scientific Paradigm]] — 后者在 1960 年代特指以大样本跨国共变、假设检验与普遍社会学规律为追求的单一统治范式，而复数比较教育学是该霸权解体后形成的学术多极格局。
 > - 不等于 [[Agendas of Attention]] — [[Robert Cowen\|罗伯特·考恩]]的“关注议程”侧重不同历史阶段主导比较教育学科的核心关切主题（从[[Policy Borrowing\|教育借用]]到人力测算再到认同建构），而复数比较教育学聚焦于同一时代内部认识论、方法论范式的并立与真理体制多元化。
 
 ---
@@ -94,7 +92,7 @@ updated: 2026-10-07
 > | 维度 | 复数比较教育学（Comparative Educations） | 科学范式（[[Scientific Paradigm]]） | 关注议程（[[Agendas of Attention]]） |
 > |------|---|---|---|
 > | **分析对象** | 1970 年代中叶以降学科内多元流派并立的多极化[[Epistemology\|认识论]]生态与体制格局。 | 1960 年代占统治地位的单一、实证量化、跨国共变全包容[[Paradigm\|研究范式]]。 | 随地缘政治与社会变迁而在不同历史时期主导比较教育学的核心关切主题。 |
-> | **核心机制** | 现实规划失败、量子不确定性转向与后现代解构导致单一真理独断破灭，学派林立。 | 确立[[Hypothesis\|假设]]演绎检验、大样本统计与无时空限制规律，驱逐主观人文传统。 | 外部历史脉动驱动学科研究重心在技术、经济、认同等问题域之间转换。 |
+> | **核心机制** | 现实规划失败、量子不确定性转向与后现代解构导致单一真理独断破灭，学派林立。 | 确立假设演绎检验、大样本统计与无时空限制规律，驱逐主观人文传统。 | 外部历史脉动驱动学科研究重心在技术、经济、认同等问题域之间转换。 |
 > | **学科定位** | 承认多元真理体制（regimes of truth）与方法[[Pluralism\|多元主义]]的后实证学科常态。 | [[Positivism\|实证主义]]全盛期对“硬科学”属性与政策工具效用的单向度追求。 | 学科史研究中把握问题意识变迁与历史分期的解释透镜。 |
 
 ---
@@ -203,5 +201,5 @@ updated: 2026-10-07
 > | [[Scientific Paradigm]] | 概念 | 单数霸权形态，其在 1970 年代的解体直接催生了复数比较教育学格局。 |
 > | [[Positivism]] | 概念 | 单一科学[[Paradigm\|范式]]的哲学基石，其被量子物理学与后现代思潮动摇促成范式转向。 |
 > | [[Social Science as Legitimation Alibi]] | 概念 | 解释实证量化范式在学术垄断破裂后，为何依然能稳固盘踞在政策大厦内部。 |
-> | [[Torsten Husén]] | 人物 | 提供 1970 年代西方教育规划失效与学校危机的一手[[Falsification\|证伪]][[Document\|文献]]，推动范式反思。 |
+> | [[Torsten Husén]] | 人物 | 提供 1970 年代西方教育规划失效与学校危机的一手[[Falsification\|证伪]]文献，推动范式反思。 |
 > | [[Agendas of Attention]] | 概念 | 与复数化概念互补，共同构成把握比较教育学科历史演进的核心分析透镜。 |

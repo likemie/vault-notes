@@ -12,7 +12,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 53
+fact_related_count: 52
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -39,7 +39,6 @@ related_concepts:
   - "[[Science and Technology Studies]]"
   - "[[Falsification]]"
   - "[[Competitiveness]]"
-  - "[[Hypothesis]]"
   - "[[Learning by Doing]]"
   - "[[Total Quality Management]]"
   - "[[Technological Catch-up]]"
@@ -195,7 +194,7 @@ updated: 2026-10-15
 > > [!axis] 单向线性科学促增长 vs. 演化[[Systems of Innovation|创新系统]]学习
 > > 高额的基础与应用研发支出是否能自发转化为国家产业[[Competitiveness|竞争力]]？
 > >
-> > - **线性供给驱动论（布什模型）** [[Hypothesis|假设]]科学发现是创新的根本源泉，研发支出总额及高水平科学家产出构成了国家创新能力的充分前提。
+> > - **线性供给驱动论（布什模型）** 假设科学发现是创新的根本源泉，研发支出总额及高水平科学家产出构成了国家创新能力的充分前提。
 > > - **演化创新系统论（[[Argument_Freeman_1995_CJE|Freeman, 1995]]）** [[Chris Freeman|克里斯·弗里曼]]借助国际比较史揭示了布什假说的严重盲区：苏联在 1970 年代将高达 3.6% 的 GNP 投入研发，但因科研与民用工业割裂而陷入停滞；而战后日本依托车间[[Learning by Doing|干中学]]、[[Total Quality Management|全面质量管理]]与工艺学习实现了跨越式[[Technological Catch-up|技术追赶]]。决定国家长期竞争力的是整个创新系统内各制度支柱的互动学习能力，而非孤立的研发经费规模。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–11)]]
 >
 > > [!axis] 八十年后的历史裁决：布什契约的继承与超越

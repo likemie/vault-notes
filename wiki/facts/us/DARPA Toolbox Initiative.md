@@ -65,7 +65,7 @@ updated: 2026-10-10
 > [!policy-design]- 方案设计
 > - **项目目标** 打破先进设计工具与经过验证的物理 IP 核准入壁垒，建立贯通全美微电子研究人员的即插即用型敏捷设计环境。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 23–24)]]
 > - **覆盖对象** 参与 DARPA 各类芯片与微系统研发计划的高校教授、博士研究生及早期硬件初创企业技术骨干。
-> - **干预措施** 签约纳入全套先进 [[Electronic Design Automation|EDA]] 设计与仿真工具链（涵盖逻辑综合、时钟树、自动布局布线、物理验证与多物理场仿真），以及经商业晶圆厂硅验证的基础 IP（处理器核心、内存控制器、SerDes 高速接口与加密引擎）。
+> - **干预措施** 签约纳入全套先进 EDA 设计与仿真工具链（涵盖逻辑综合、时钟树、自动布局布线、物理验证与多物理场仿真），以及经商业晶圆厂硅验证的基础 IP（处理器核心、内存控制器、SerDes 高速接口与加密引擎）。
 > - **实施控制** 实行基于科研项目的自动化授权审批流程，设立统一的软件下载、云端部署与合规防扩散监管接口。
 
 > [!citation-card] 借助 DARPA 工具箱模式打破设计工具准入瓶颈
@@ -79,7 +79,7 @@ updated: 2026-10-10
 
 > [!dev-timeline] 项目推进历程
 > - **2020 — 框架发布与首批龙头入驻** [[DARPA]] 正式推出 Toolbox 框架，首期与 ARM、CEVA 等国际顶级 IP 供应商达成战略协议，允许科研人员直接获取免预付版税的商用微处理器核心与 DSP 设计库。
-> - **2021–2022 — [[Electronic Design Automation|EDA]] 工具全栈覆盖扩展** 成功引入新思科技（Synopsys）、铿腾电子（Cadence）与西门子 EDA（Siemens EDA），将工具箱范畴从纯 IP 扩展至全流程商业级微电子物理设计与仿真平台。
+> - **2021–2022 — EDA 工具全栈覆盖扩展** 成功引入新思科技（Synopsys）、铿腾电子（Cadence）与西门子 EDA（Siemens EDA），将工具箱范畴从纯 IP 扩展至全流程商业级微电子物理设计与仿真平台。
 > - **2023–至今 — 跨部门模式推广与国家战略采纳** 白宫与 [[National Science and Technology Council|NSTC]] 在《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》中将 DARPA Toolbox 模式确立为全美民用微电子[[Innovation Ecosystem|创新生态]]向学术界普及 EDA 工具的最高优先级推广样板。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 23–24)]]
 
 ---
@@ -88,7 +88,7 @@ updated: 2026-10-10
 
 > [!actor-grid] 实施协同矩阵
 > - **规则制定与总谈判方** [[DARPA]] 微系统技术办公室（MTO），负责企业战略谈判、合同拟定与预算兜底保障。
-> - **商业软件与 IP 供应商阵营** Synopsys、Cadence、Siemens [[Electronic Design Automation|EDA]]、ARM 等行业巨头，提供正版软件授权、技术支持文档与专用培训课程。
+> - **商业软件与 IP 供应商阵营** Synopsys、Cadence、Siemens EDA、ARM 等行业巨头，提供正版软件授权、技术支持文档与专用培训课程。
 > - **课题承担执行主体（Performers）** 获得 DARPA 资助的大学实验室与初创团队，作为终端用户调用工具开展前沿流片前设计。
 > - **跨机构推广对接方（[[National Science and Technology Council|NSTC]] / DOC）** [[National Science and Technology Council|国家科学技术委员会]]与商务部，负责将该模式向非国防民用学术资助体系迁移。
 
@@ -112,7 +112,7 @@ updated: 2026-10-10
 > - **重塑学术界芯片研发能力[[Paradigm|范式]]** 使得资源有限的高校课题组也能够直接基于工业界成熟的 64 位应用处理器核与接口 IP 开展前沿试验，彻底告别了依靠落后低速模型做玩具设计的历史。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 23–24)]]
 
 > [!stat-cards]- 关键实证数据
-> - **数天内** 科研团队从申请到正式获得商业工业级 [[Electronic Design Automation|EDA]] 与 IP 授权的标准流转周期（传统模式需 3–6 个月）。
+> - **数天内** 科研团队从申请到正式获得商业工业级 EDA 与 IP 授权的标准流转周期（传统模式需 3–6 个月）。
 > - **100% 覆盖** 全美受 DARPA 资助且有先进制程芯片设计需求的前沿微电子科研课题团队覆盖率。
 > - **数以百万计美元** 单个中等规模科研课题通过工具箱机制免除的商业软件采购与 IP 授权开销。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 23–24)]]
 
@@ -129,7 +129,7 @@ updated: 2026-10-10
 > > - **学术开放与跨国人才协同（大学教授阵营）** 指出美国顶尖大学电气与计算机工程系博士生大多来自国际生源，严苛的合规准入审批容易导致课题组在人选安排上面临两难困境。
 
 > [!lessons] 经验教训与启示
-> - **商业寡头在公共采购中具有谈判弹性** 实践证明，只要政府以国家级机构信誉进行总揽担保，商业 [[Electronic Design Automation|EDA]] 与 IP 巨头愿意以极具吸引力的折扣向科研人员开放资源以培育未来生态黏性。
+> - **商业寡头在公共采购中具有谈判弹性** 实践证明，只要政府以国家级机构信誉进行总揽担保，商业 EDA 与 IP 巨头愿意以极具吸引力的折扣向科研人员开放资源以培育未来生态黏性。
 > - **必须与实体流片渠道形成闭环** 单纯提供设计软件不足以完成全链条闭环，工具箱必须与[[Multi-Project Wafer|多项目晶圆]]（MPW）拼圆及先导试验线紧密配合。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 23–24, 27)]]
 
 ---

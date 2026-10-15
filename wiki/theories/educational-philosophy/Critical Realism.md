@@ -5,7 +5,7 @@ aliases:
 summary: "Bhaskar 的科学哲学，区分实在、实际、经验三层本体论并强调开放系统中的因果机制，为教育研究批判封闭实验逻辑提供框架"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 45
+theory_related_count: 44
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -39,7 +39,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Interpretive Paradigm]]"
   - "[[Heterogeneity]]"
-  - "[[Hypothesis]]"
   - "[[Falsification]]"
 related_theories:
   - "[[Realist Evaluation]]"
@@ -71,7 +70,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Critical Realism
@@ -205,7 +204,7 @@ updated: 2026-10-07
 
 > [!tension] 争议焦点
 > - **方法论操作难度大** 批判实在论虽然提供了高度精确的哲学概念（如[[Emergence\|涌现]]、机制、实在分层），但在转化为经验研究的具体操作时，其难度远高于[[Positivism\|实证主义]]的标准化量化指标；[[Realist Evaluation\|实在论综合]]在实践中耗时费力，难以成为政策制定者快速决策的工具。([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 15]])
-> - **[[Ontology\|本体论]]地位的科学性张力** 部分偏向实证主义的批评者认为，批判实在论[[Hypothesis\|假设]]的“深层实在”和“潜在因果机制”属于不可直接观察的范畴，这使得该理论带有一层形而上学色彩，不易被传统科学标准所[[Falsification\|证伪]]。
+> - **[[Ontology\|本体论]]地位的科学性张力** 部分偏向实证主义的批评者认为，批判实在论假设的“深层实在”和“潜在因果机制”属于不可直接观察的范畴，这使得该理论带有一层形而上学色彩，不易被传统科学标准所[[Falsification\|证伪]]。
 > - **在实证界接受度受限** 由于其对“经验规则性”进行了强力批判，极易被量化阵营误解为对数据科学的全面排斥，这导致其在政策决策主流（偏好简单[[Effect Size\|效应量]]与百分比排行）中的接受度和影响力相对有限。([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 16]])
 
 ---

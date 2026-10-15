@@ -24,7 +24,6 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Knowledge Production]]"
   - "[[Discourse]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Global Educational Discourse]]"
   - "[[Gatekeepers]]"
@@ -37,7 +36,6 @@ related_concepts:
   - "[[Normal School]]"
   - "[[Policy Borrowing]]"
   - "[[Unit of Analysis]]"
-  - "[[Document]]"
   - "[[School Effectiveness]]"
   - "[[School Inspection]]"
   - "[[Professional Learning Community]]"
@@ -71,7 +69,6 @@ related_persons:
   - "[[Basil Bernstein]]"
   - "[[Manuel Castells]]"
   - "[[Michael Sadler]]"
-  - "[[Marc-Antoine Jullien]]"
   - "[[Jean-François Lyotard]]"
   - "[[Robert Cowen]]"
   - "[[Stephen Ball]]"
@@ -94,7 +91,7 @@ title: "Argument_Beech_2009_GlobalGarden"
 argument_key: "Argument_Beech_2009_GlobalGarden"
 argument_display_title: "Who is Strolling Through The Global Garden? International Agencies and Educational Transfer"
 argument_kind: "book-chapter"
-argument_related_count: 56
+argument_related_count: 53
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -111,7 +108,7 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 在全球化背景下，全球教育[[Champ|场域]]中[[Emergence|涌现]]出哪些超越传统主权国家的新型政策行动者？以联合国教育、科学及文化组织（[[UNESCO|United Nations Educational, Scientific and Cultural Organization]], UNESCO，简称联合国教科文组织）、[[World Bank|世界银行]]（World Bank, WB）与[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD，简称经合组织）为代表的国际组织，如何通过[[Knowledge Production|知识生产]]与跨国政策建议塑造全球教育？比较教育学需要何种新的[[Analytic Framework|理论分析框架]]，方能系统把握教育[[Discourse|话语]]在不同结构位置之间的跨国流动、[[Transfer Translation Transformation|转译]]机制及其在本土学校机构中引发的复杂实践效应？（pp. 341–343）
+> 在全球化背景下，全球教育[[Champ|场域]]中[[Emergence|涌现]]出哪些超越传统主权国家的新型政策行动者？以联合国教育、科学及文化组织（[[UNESCO|United Nations Educational, Scientific and Cultural Organization]], UNESCO，简称联合国教科文组织）、[[World Bank|世界银行]]（World Bank, WB）与[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD，简称经合组织）为代表的国际组织，如何通过[[Knowledge Production|知识生产]]与跨国政策建议塑造全球教育？比较教育学需要何种新的[[Analytic Framework|理论分析框架]]，方能系统把握教育[[Discourse|话语]]在不同结构位置之间的跨国流动、转译机制及其在本土学校机构中引发的复杂实践效应？（pp. 341–343）
 
 > [!claim] 核心主张
 > 传统由民族国家主导的世界教育花园采撷式转移已被多元跨国行动者重构；国际组织基于紧迫[[Pragmatic Paradigm|实用主义]]，将复杂的学术话语过度简化为以信息时代为前景、包含五大支柱的统一[[Global Educational Discourse|全球教育话语]]；这一去情境化的普遍模型不仅通过界定问题与解方双重收拢并闭合了受援国的政策话语空间，更在阿根廷与巴西等后发国家因学术与官僚精英身份重叠的[[Gatekeepers|守门人]]效应而得以制度化垄断，最终在降落至微观学校机构时必然遭遇抵抗、重构与不可预测的实践脱节。（pp. 342, 348–355）
@@ -143,7 +140,7 @@ issuing_organization: ""
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **跨国比较话语分析**<br>[[Discourse Analysis]] | 对比分析 1985–1996 年间 [[UNESCO]]、[[World Bank\|世界银行]]与 [[OECD]] 发布的 30 余份核心教育战略报告、政策审查与白皮书，解构其在未来社会预测、教育功能定位及改革工具箱上的深层预设与[[Discourse\|话语]]修辞。（pp. 345–348） |
-> | **历史制度与政策文献追踪**<br>[[Documentary Analysis]] | 梳理阿根廷与巴西自 1980 年代中叶至 2002 年间的国家教育基础法、联邦课程大纲规范、教师教育法令及地方配套行政规章，辨析其对国际机构普遍模型的政策[[Transfer Translation Transformation\|转译]]轨迹。（pp. 348–349, 353–354） |
+> | **历史制度与政策文献追踪**<br>[[Documentary Analysis]] | 梳理阿根廷与巴西自 1980 年代中叶至 2002 年间的国家教育基础法、联邦课程大纲规范、教师教育法令及地方配套行政规章，辨析其对国际机构普遍模型的政策转译轨迹。（pp. 348–349, 353–354） |
 > | **半结构化深度访谈**<br>[[Semi-structured Interview]] | 对阿根廷与巴西的核心教育政策制定者、[[Normal School\|师范院校]]教师培训者以及中小学一线教师进行系统访谈，挖掘政策落地过程中的微观博弈、认知抵制与意外实践后果。（pp. 349, 353–354） |
 
 > [!sample-panel]- 样本与材料快照
@@ -194,7 +191,7 @@ issuing_organization: ""
 
 #### 1. 危机驱动的国家教育借用由来已久，但传统借用始终由主权国家特派官员垄断
 
-在比较教育学科史上，跨国经验借鉴往往在国家遭遇内部重大发展危机时被推向高潮。尽管[[Michael Sadler|萨德勒]]早在 1900 年便提出著名的花园漫步警告，但历代改革者仍频繁借助外来方案寻求危机突破（Sadler, 1979: 49；pp. 341–342）。从[[Marc-Antoine Jullien|朱利安]]、库赞、曼、托尔斯泰到萨米恩托，先驱者们始终致力于考察普鲁士与法国等典范制度以克服本土危机，这一传统在近代日本与战后美国的危机应对中表现得尤为典型（Cowen, 2006；pp. 341–342）。
+在比较教育学科史上，跨国经验借鉴往往在国家遭遇内部重大发展危机时被推向高潮。尽管[[Michael Sadler|萨德勒]]早在 1900 年便提出著名的花园漫步警告，但历代改革者仍频繁借助外来方案寻求危机突破（Sadler, 1979: 49；pp. 341–342）。从朱利安、库赞、曼、托尔斯泰到萨米恩托，先驱者们始终致力于考察普鲁士与法国等典范制度以克服本土危机，这一传统在近代日本与战后美国的危机应对中表现得尤为典型（Cowen, 2006；pp. 341–342）。
 
 > [!row-contrast] 危机驱动型国家教育借用的历史案例对比
 > | 历史维度与比较指标 | 日本明治维新黑船来航借用案例（1850s–1870s） | 美国发射人造卫星危机借用案例（1957–1970s） |
@@ -203,7 +200,7 @@ issuing_organization: ""
 > | **国家危机认知定性** | 将现代教育制度视为西方强盛不衰的核心秘诀，确立唯有借用西方教育方能与之抗衡的共识（Passin, 1965） | 将科技落后危机直接定性为国家教育体制的彻底失败，全社会猛烈抨击公立学校的压抑与僵化（mindlessness）（Ravitch, 1983；pp. 341–342） |
 > | **考察与借用主体** | 聘用欧洲教育家直接管理在日教育机构；派遣政治精英与知识分子代表团赴欧洲与北美开展系统实地考察（Tanaka, 2005） | 以约瑟夫·费瑟斯通（Joseph Featherstone）和莉莲·韦伯（Lillian Weber）为代表的学者先锋；全美 20 个主要城市的联合教育考察团（Ravitch, 1983；p. 342） |
 > | **借用源头与制度样板** | 拼盘式多国借用：行政集权模式借鉴法国；作为基础单元的男女同校普通学校、师范学校与职业农业教育借用美国；帝国大学创建蓝本借用德国（Passin, 1965; Tanaka, 2005） | 单向聚焦英国初等教育模式：韦伯在英国小学深度考察长达 18 个月；全美掀起对英国幼儿学校与开放式课堂的模仿狂潮（Ravitch, 1983） |
-> | **[[Document\|文献]]与实践扩散规模** | 自上而下由明治政府强行颁布《学制》，在全国范围内废藩置县并成套移植现代学校体系（Passin, 1965） | 至 1971 年全美发表逾 300 篇推介英国初等教育改革专文；自由学校在 1960 年代末至 1970 年代初爆发式扩张，1972 年已达约 500 所（Ravitch, 1983） |
+> | **文献与实践扩散规模** | 自上而下由明治政府强行颁布《学制》，在全国范围内废藩置县并成套移植现代学校体系（Passin, 1965） | 至 1971 年全美发表逾 300 篇推介英国初等教育改革专文；自由学校在 1960 年代末至 1970 年代初爆发式扩张，1972 年已达约 500 所（Ravitch, 1983） |
 
 上述历史案例表明，传统的经验借鉴始终局限于主权国家政府特派官员垄断的线性移植，其分析单位未曾超越民族国家的地理边界（p. 342）。
 
@@ -287,7 +284,7 @@ issuing_organization: ""
 > [!quad-grid] 全球教育场域五大结构位置与职能分工表
 > - **全球学术空间（Global Academic Space）** 话语生产的最高层级。依托国际专业期刊、学术专著、国际研讨会及学者与学生的跨国流动网络运转，属于纯粹的流动空间；掌控关于教育可思与不可思（thinkable/unthinkable）的终极认识论边界；西欧与北美学术传统占据压倒性霸权。（pp. 350–351）
 > - **国际组织（International Agencies）** 话语中介与普遍化场所。受制于[[Educational Meliorism|改良主义]]行动与紧迫实用主义，国际机构充当应用专家，将深奥前沿的学术话语通过过度简化提炼为去情境化的普遍操作包裹，生产出以五大支柱为核心的全球教育话语。
-> - **国家（The State）** 法定政策话语的专属生产场所。作为政治权力争夺与多方社会利益妥协博弈的交汇点，国家负责将外来输入话语[[Transfer Translation Transformation|转译]]并协商为具有法律强制力的政策法令。（p. 351）
+> - **国家（The State）** 法定政策话语的专属生产场所。作为政治权力争夺与多方社会利益妥协博弈的交汇点，国家负责将外来输入话语转译并协商为具有法律强制力的政策法令。（p. 351）
 > - **本土学术空间（Local Academic Space）** 本土学术话语生产场所。通过引介、解释与转译全球学术话语建构本土话语，理论上应当形成本土反思并向国家提供替代性方案，但在许多外围国家发育不全并严重依附。（pp. 351–352）
 > - **教育机构（Educational Institutions）** 话语再生产与终极实践阵地。涵盖中小学、[[Normal School|师范院校]]及各类实践基地，是将宏观抽象法案转化为师生日常面对面微观互动的具身场所。
 
@@ -356,7 +353,7 @@ issuing_organization: ""
 
 > [!finding-cards] 核心发现
 > 1. **新型跨国多元行动者重塑全球教育[[Champ|场域]]** [[Michael Sadler|萨德勒]] 1900 年关于主权国家垄断世界教育花园采撷的设想已被历史彻底超越；跨国营利性教育服务集团（如 GEMS、诺德安达）、大学国际发展咨询部、超国家联盟（如欧盟）以及多边国际组织共同构成了全球教育转移的核心网络。（pp. 341–344）
-> 2. **[[Global Educational Discourse|全球教育话语]]对政策空间的双重闭合机制** [[UNESCO]]、[[World Bank|世界银行]]与 [[OECD]] 在 1985–1996 年间实质共享了一套以信息时代为前景、捆绑五大支柱（分权、学校自主、教师专业化、能力本位、统一质检）的单一普遍模型；该模型通过统一定义危机并垄断提供解方，从[[Epistemology|认识论]]源头上闭合了受援国构想替代性政策的可能性。（pp. 347–349）
+> 2. **[[Global Educational Discourse|全球教育话语]]对政策空间的双重闭合机制** [[UNESCO]]、[[World Bank|世界银行]]与 [[OECD]] 在 1985–1996 年间实质共享了一套以信息时代为前景、捆绑五大支柱（分权、[[School Autonomy|学校自主]]、教师专业化、能力本位、统一质检）的单一普遍模型；该模型通过统一定义危机并垄断提供解方，从[[Epistemology|认识论]]源头上闭合了受援国构想替代性政策的可能性。（pp. 347–349）
 > 3. **五位置流通模型与拉美[[Gatekeepers|守门人]]垄断** 比奇首创涵盖全球学术、国际组织、国家、本土学术与学校机构的五位置模型；揭示在阿根廷与巴西，本土学术精英、国家决策高官与国际贷款顾问身份高度重合，形成严密的守门人群体，掌控研究资助并阻绝了独立批判性本土学术[[Discourse|话语]]的生产。（pp. 349–353）
 > 4. **普遍模型落地必然诱发微观实践异化** 去情境化模型在微观机构必然发生[[Recontextualization|再语境化]]脱节；阿根廷教师在课程自主权改革中因专业培训缺失被迫直接翻抄商业教辅目录备课，巴阿两国对教师实训政策引发的截然相反反应，确证了全球抽象战略无法解决地方具体问题。（pp. 353–355）
 

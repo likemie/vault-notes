@@ -11,7 +11,7 @@ aliases:
 summary: "学习者在经历挑战、挫折或过度依赖技术代劳时，因将困难归因于不可改变的天生能力匮乏而产生的消极行为与认知模式；在生成式人工智能时代延伸为将高阶思考推给算法引发的自加信度赤字与认识畸变。"
 type: concept
 domain: "educational-psychology"
-related_count: 37
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Epistemic Malformation]]"
   - "[[Epistemic Practices]]"
-  - "[[Document]]"
   - "[[Metacognition]]"
   - "[[Humility]]"
   - "[[Epistemological Beliefs]]"
@@ -68,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-10-03
+updated: 2026-10-15
 ---
 
 # Learned Helplessness
@@ -97,7 +96,7 @@ updated: 2026-10-03
 > | **核心归因** | “我天生不是学这门学科的料，努力没有用” | “算法写得太完美了，我天生不可能组织出如此严密的论证” |
 > | **行为表现** | 迅速停止解题尝试，数分钟内放弃，防御性回避 | 面对独立探究时产生严重焦虑，不假思索地直接召唤 AI 代写代劳 |
 > | **[[Epistemology\|认识论]]后果** | 表现目标压倒掌握目标，逃避公开展示 | **信度自我认知失真** 形成自加信度赤字，主动剥夺自身求知者资格 |
-> | **代表学者与[[Document\|文献]]** | Dweck & Leggett (1988); [[Argument_Li_2012_Cambridge\|Li (2012)]]; [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] | Nikolaidis (2021); [[Argument_Smith_2026_SPE\|Smith (2026)]] |
+> | **代表学者与文献** | Dweck & Leggett (1988); [[Argument_Li_2012_Cambridge\|Li (2012)]]; [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] | Nikolaidis (2021); [[Argument_Smith_2026_SPE\|Smith (2026)]] |
 
 > [!boundary] 概念边界辨析
 > - **习得性无助 vs [[Growth Mindset|实体论智力观]]（Entity Theory of Intelligence）** 习得性无助是面临挑战或面对技术代理时表现出的退缩与放弃行为（症状层面）；实体智力观则是认为智力是天生固定不可变质的底层信念（病因层面）。
@@ -177,7 +176,7 @@ updated: 2026-10-03
 ### 命题总览
 
 > [!contrast-table] 习得性无助命题归纳与理论边界
-> | 命题类型 | 核心主张 | 适用情境与作用机制 | 代表学者与[[Document\|文献]] |
+> | 命题类型 | 核心主张 | 适用情境与作用机制 | 代表学者与文献 |
 > |---|---|---|---|
 > | **实体智力致病根源** | 实体智力观将失败归结为天生不可变缺陷，是诱发传统习得性无助的核心病因。 | 学业归因干预、成就目标定向分析 | Dweck & Leggett (1988); [[Argument_Li_2012_Cambridge\|Li (2012)]] |
 > | **快速学习效能催化** | 快速学习期望促使学生将正常的认知挣扎误判为无能，加速效能崩塌与即时放弃。 | 数理问题解决、认知耐挫力培养 | Schoenfeld (1985); Bandura (1993); [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] |

@@ -48,7 +48,6 @@ related_concepts:
   - "[[Creative Self-Efficacy]]"
   - "[[Structured Teaching]]"
   - "[[Heterogeneity]]"
-  - "[[Document]]"
   - "[[External Validity]]"
   - "[[Literature Search]]"
   - "[[Flow]]"
@@ -56,7 +55,6 @@ related_concepts:
   - "[[Publication Bias]]"
   - "[[Conflict of Interest in Research]]"
   - "[[Creativity Assessment]]"
-  - "[[Hypothesis]]"
   - "[[Literature Review]]"
   - "[[Reliability]]"
   - "[[Critique of Meta-meta-analysis]]"
@@ -80,7 +78,6 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Rating Scale]]"
   - "[[Pre-test and Post-test]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Effect Size Conversion]]"
   - "[[Correlated and Hierarchical Effects Model]]"
   - "[[Correlational Research]]"
@@ -117,7 +114,7 @@ title: "Argument_Runco_2026_CRJ"
 argument_key: "Argument_Runco_2026_CRJ"
 argument_display_title: "Second-order meta-analysis of the creativity research"
 argument_kind: "journal-article"
-argument_related_count: 80
+argument_related_count: 77
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -189,8 +186,8 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **文献检索与筛选**<br>[[Meta-meta-analysis]] | 检索五个大型数据库与博硕士论文库，人工检索专业期刊与灰色[[Document\|文献]]，经系统评价和荟萃分析优先报告条目声明（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）流程筛选出 52 项符合标准的一阶[[Meta-analysis\|元分析]]。（pp. 3–4） |
-> | **方法学质量评价**<br>[[AMSTAR]] | 采用系统评价方法学质量评估工具（AMSTAR）改编的 12 项规程评估一阶元分析质量（双人独立[[Coding in Qualitative Research\|编码]]一致率 97%），以得分达到 0.75（至少满足 9 项标准）作为高质量指示[[Variable\|变量]]。（p. 4） |
+> | **文献检索与筛选**<br>[[Meta-meta-analysis]] | 检索五个大型数据库与博硕士论文库，人工检索专业期刊与灰色文献，经系统评价和荟萃分析优先报告条目声明（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）流程筛选出 52 项符合标准的一阶[[Meta-analysis\|元分析]]。（pp. 3–4） |
+> | **方法学质量评价**<br>[[AMSTAR]] | 采用系统评价方法学质量评估工具（AMSTAR）改编的 12 项规程评估一阶元分析质量（双人独立编码一致率 97%），以得分达到 0.75（至少满足 9 项标准）作为高质量指示[[Variable\|变量]]。（p. 4） |
 > | **效应量转换与正态化**<br>[[Effect Size Conversion]] | 将各类一阶效应指标统一转换为皮尔逊相关系数 $r$，并进一步进行费舍尔 $z$ 正态化转换；计算加权效应后再逆转换为 $r$ 呈现。（p. 5） |
 > | **多水平统计建模与方差校正**<br>[[Robust Variance Estimation]] | 采用[[Correlated and Hierarchical Effects Model\|相关与层级效应模型]]（Correlated and Hierarchical Effects Model, CHE，设定集群内相关系数为 0.8）与稳健方差估计（RVE）计算稳健标准误与小样本 $F$ 检验；运用多水平改进艾格回归检验并校正小研究效应。（p. 6） |
 
@@ -225,9 +222,9 @@ issuing_organization: ""
 > [[Meta-meta-analysis\|二阶元分析]]在大样本水平上整合多重一阶[[Meta-analysis\|元分析]]，采用[[AMSTAR\|系统评价质量评估工具]]与多水平[[Robust Variance Estimation\|稳健方差估计]]，能够克服单一研究局限，提供高度稳健且具备[[External Validity\|可推广性]]的[[Creativity\|创造力]][[Effect Size\|效应量]]基准。（pp. 2–5）
 
 > [!proc] 创造力二阶元分析研究程序
-> 1. **多数据库检索与灰色[[Document\|文献]]扩展** 检索五个专业数据库、博硕士论文库、四大专刊期刊与学术搜索平台，获取 4,228 篇文献。
+> 1. **多数据库检索与灰色文献扩展** 检索五个专业数据库、博硕士论文库、四大专刊期刊与学术搜索平台，获取 4,228 篇文献。
 > 2. **[[PRISMA]] 筛选与严格排除** 全文评估 78 篇，排除无合并统计量的质性综述（如 Bicer et al., 2021）与无关系效应量的脑成像坐标元分析（如 Boccia et al., 2015; Brown & Kim, 2021; Gonen-Yaacovi et al., 2013; Pidgeon et al., 2016; Wu et al., 2015），最终纳入 52 篇。（pp. 3–4）
-> 3. **AMSTAR 12 项方法学质量评估** 双人独立[[Coding in Qualitative Research\|编码]]（97% 一致性），设立得分达到 0.75 为高质量判定门槛。（p. 4）
+> 3. **AMSTAR 12 项方法学质量评估** 双人独立编码（97% 一致性），设立得分达到 0.75 为高质量判定门槛。（p. 4）
 > 4. **效应量标准化转换与正态化** 统一转换为相关系数 $r$ 并经费舍尔 $z$ 正态化转换。（p. 5）
 > 5. **多水平 [[Correlated and Hierarchical Effects Model\|相关与层级效应模型]] 与 [[Robust Variance Estimation\|稳健方差估计]] 建模** 设定集[[Intraclass Correlation Coefficient\|群内相关系数]]为 0.8，基于经验残差构造三明治估计量，运用霍特林 $T^2$ 近似检验进行小样本 $F$ 检验。（pp. 5–6）
 > 6. **[[Multilevel Egger's Test\|多水平艾格回归]]偏倚校正** 检验[[Small Study Effects\|小研究效应]]（$F(1, 10.9) = 15.7, p = .002$），输出偏倚校正后二阶效应量 $r = 0.17$（95% [[Confidence Interval\|置信区间]]（Confidence Interval, CI）$[0.11, 0.22]$）。（p. 6）
@@ -295,7 +292,7 @@ issuing_organization: ""
 > - $\mathbf{W}_j$：基于工作模型计算的逆方差权重矩阵。
 > - $\mathbf{e}_j$：第 $j$ 个元分析的经验残差向量。
 >
-> **数学直觉** 经典方差估计依赖于效应量相互独立的[[Hypothesis\|假设]]；三明治估计量通过外积残差矩阵 $\mathbf{e}_j \mathbf{e}_j^T$ 代替未知的真实方差结构，即使工作模型设定存在偏差，大样本下估计量依然无偏且有效。（pp. 5–6）
+> **数学直觉** 经典方差估计依赖于效应量相互独立的假设；三明治估计量通过外积残差矩阵 $\mathbf{e}_j \mathbf{e}_j^T$ 代替未知的真实方差结构，即使工作模型设定存在偏差，大样本下估计量依然无偏且有效。（pp. 5–6）
 
 > [!warrant]- 推理桥梁
 > 传统[[Literature Review\|文献综述]]无法量化汇总效应的[[Reliability\|可靠性]]，而二阶抽样误差与研究重叠使得早期粗糙元综合面临诸多方法论质疑（参见 [[Critique of Meta-meta-analysis\|元-元分析批判]]）。通过 [[Correlated and Hierarchical Effects Model\|相关与层级效应模型]] 与 [[Robust Variance Estimation\|稳健方差估计]] 进行经验残差校正，并结合 [[Multilevel Egger's Test\|多水平艾格回归]] 纠正小研究效应，系统克服了传统二阶综合的统计缺陷，保证了统计推断在复杂依赖情境下的严密性。（pp. 3, 5–6）

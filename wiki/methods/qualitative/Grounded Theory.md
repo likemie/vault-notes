@@ -9,7 +9,7 @@ summary: "源自社会学的经典质性研究设计，通过理论抽样、多�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 63
+method_related_count: 61
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -20,7 +20,6 @@ tags:
   - data-analysis
   - inductive
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Emergence]]"
   - "[[Saturation]]"
   - "[[Reflexivity]]"
@@ -37,7 +36,6 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Constructivist Paradigm]]"
   - "[[Literature Review]]"
-  - "[[Document]]"
   - "[[Dialogue in Education]]"
   - "[[Value Neutrality]]"
   - "[[Causality]]"
@@ -58,7 +56,6 @@ related_theories:
   - "[[Phenomenology]]"
 related_methods:
   - "[[Qualitative Research]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Open Coding]]"
   - "[[Axial Coding]]"
   - "[[Selective Coding]]"
@@ -78,6 +75,7 @@ related_methods:
   - "[[Content Analysis]]"
   - "[[Questionnaire]]"
   - "[[Domain Analysis]]"
+  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
@@ -92,7 +90,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-05-30
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # Grounded Theory
@@ -102,9 +100,9 @@ updated: 2026-10-08
 ## 定义
 
 > [!def] 方法定义
-> **扎根理论（Grounded Theory，又称扎根理论方法、扎根理论设计）** 是一种源自社会学的经典[[Qualitative Research\|质性研究]]设计：通过多阶段迭代的数据收集、系统的概念化[[Coding in Qualitative Research\|编码]]（[[Open Coding\|开放编码]]、[[Axial Coding\|主轴编码]]与[[Selective Coding\|选择性编码]]）、持续比较与理论备忘录撰写，自下而上地从经验材料与参与者行动视角中，归纳推导出解释某一过程、行动或互动机制的实质性理论（Glaser & Strauss, 1967；Strauss & Corbin, 1990；Charmaz, 2006；Corbin & Strauss, 2008, 2015；[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch. 1, 7]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011, pp. 560–562]]）。
+> **扎根理论（Grounded Theory，又称扎根理论方法、扎根理论设计）** 是一种源自社会学的经典[[Qualitative Research\|质性研究]]设计：通过多阶段迭代的数据收集、系统的概念化编码（[[Open Coding\|开放编码]]、[[Axial Coding\|主轴编码]]与[[Selective Coding\|选择性编码]]）、持续比较与理论备忘录撰写，自下而上地从经验材料与参与者行动视角中，归纳推导出解释某一过程、行动或互动机制的实质性理论（Glaser & Strauss, 1967；Strauss & Corbin, 1990；Charmaz, 2006；Corbin & Strauss, 2008, 2015；[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch. 1, 7]]；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011, pp. 560–562]]）。
 >
-> 扎根理论的核心特征在于理论直接根植于（grounded in）经验数据本身。研究者并不预先设定僵化的理论[[Hypothesis\|假设]]去验证数据，而是通过严密的归纳程序让概念、范畴与关系网络从现实世界中自然[[Emergence\|涌现]]，最终在经验数据与抽象概念之间达成高度拟合与[[Saturation\|理论饱和]]。
+> 扎根理论的核心特征在于理论直接根植于（grounded in）经验数据本身。研究者并不预先设定僵化的理论假设去验证数据，而是通过严密的归纳程序让概念、范畴与关系网络从现实世界中自然[[Emergence\|涌现]]，最终在经验数据与抽象概念之间达成高度拟合与[[Saturation\|理论饱和]]。
 
 > [!method-scope] 方法范围
 > - **研究对象** [[In-depth Interview\|深度访谈]]逐字稿、现场[[Participant Observation\|参与观察]]笔记、当事人生命史[[Reflexivity\|反思性]]自述、组织制度文本、田野日记等多源质性材料。
@@ -136,7 +134,7 @@ updated: 2026-10-08
 > - **研究设计** [[Qualitative Research\|质性研究]]设计（经典扎根理论、程序扎根理论、[[Constructivist Grounded Theory\|建构主义扎根理论]]）。
 > - **数据收集** [[Theoretical Sampling\|理论抽样]]引导下的[[In-depth Interview\|深度访谈]]、跟踪追访、[[Participant Observation\|参与观察]]、实物档案与田野备忘录。
 > - **分析方法** [[Open Coding\|开放编码]]（属性与维度展开）、[[Axial Coding\|主轴编码]]（六要素[[Paradigm\|范式]]模型）、[[Selective Coding\|选择性编码]]（[[Story Line\|故事线]]整合）、[[Constant Comparison\|持续比较法]]、理论备忘录撰写（memoing）。
-> - **辅助技术** 质性分析软件（[[Qualitative Computer Software\|CAQDAS]]，如 NVivo、MAXQDA、ATLAS.ti）节点网络建模、[[Coding in Qualitative Research\|编码]]矩阵检索、大语言模型[[Meaningful Human Control|人在回路]]（HITL）归纳辅助。
+> - **辅助技术** 质性分析软件（[[Qualitative Computer Software\|CAQDAS]]，如 NVivo、MAXQDA、ATLAS.ti）节点网络建模、编码矩阵检索、大语言模型[[Meaningful Human Control|人在回路]]（HITL）归纳辅助。
 
 ---
 
@@ -149,8 +147,8 @@ updated: 2026-10-08
 > |---|---|---|---|
 > | **代表学者** | 巴尼·格拉瑟（Barney Glaser, 1978, 1992） | 安塞尔姆·施特劳斯、朱丽叶·科宾（Strauss & Corbin, 1990） | 凯西·查尔马兹（Kathy Charmaz, 2006, 2014） |
 > | **认识论倾向** | [[Critical Realism\|批判实在论]] / [[Objectivism\|客观主义]]（理论外在于研究者等待被发掘） | [[Pragmatic Paradigm\|实用主义]] / [[Postpositivism\|后实证主义]]（系统化规程保证客观性与[[Reliability\|信度]]） | [[Constructivist Paradigm\|建构主义]]（意义与理论由研究者与参与者共同建构） |
-> | **[[Coding in Qualitative Research\|编码]]程序** | 实质编码（开放、选择性）与理论编码家族，排斥主轴模型 | 严格的三级编码阶梯：[[Open Coding\|开放编码]] ➔ [[Axial Coding\|主轴编码]] ➔ [[Selective Coding\|选择性编码]] | 初始编码（逐词、逐行）与聚焦编码，灵活开放 |
-> | **[[Literature Review\|文献回顾]]时机** | 严禁在编码前阅读[[Document\|文献]]，防止理论偏见规约数据 | 允许早期查阅文献以激发理论敏感度，但不可照搬框架 | 承认研究者带着前见进入田野，将文献作为平行的反思[[Dialogue in Education\|对话]]材料 |
+> | **编码程序** | 实质编码（开放、选择性）与理论编码家族，排斥主轴模型 | 严格的三级编码阶梯：[[Open Coding\|开放编码]] ➔ [[Axial Coding\|主轴编码]] ➔ [[Selective Coding\|选择性编码]] | 初始编码（逐词、逐行）与聚焦编码，灵活开放 |
+> | **[[Literature Review\|文献回顾]]时机** | 严禁在编码前阅读文献，防止理论偏见规约数据 | 允许早期查阅文献以激发理论敏感度，但不可照搬框架 | 承认研究者带着前见进入田野，将文献作为平行的反思[[Dialogue in Education\|对话]]材料 |
 > | **研究者角色** | [[Value Neutrality\|价值中立]]的客观发现者与数据破译者 | 系统规范的科学分析者与[[Causality\|因果关系]]建模者 | [[Reflexivity\|反思性]]参与者、意义共建者与多重声部倾听者 |
 
 ---
@@ -160,7 +158,7 @@ updated: 2026-10-08
 扎根理论的研究流程构成一个高度交织、往复穿梭的迭代闭合回路，核心包含六大关键分析支柱（Strauss & Corbin, 1990；Creswell & Creswell, 2022；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30|Cohen et al., 2011, pp. 560–562]]）：
 
 ### 1. 理论抽样（Theoretical Sampling）
-[[Theoretical Sampling|理论抽样]]不是预先按照人口学特征确定样本规模的[[Random Sampling|概率抽样]]，而是由正在生成的理论逻辑引导的数据收集过程。分析者在[[Coding in Qualitative Research|编码]]过程中识别出哪些概念范畴尚未充分明晰、哪些关系尚存疑点，据此有针对性地决定下一步去何处寻找新的受访者、事件或[[Document|文献]]，直至理论关系被完全阐明。
+[[Theoretical Sampling|理论抽样]]不是预先按照人口学特征确定样本规模的[[Random Sampling|概率抽样]]，而是由正在生成的理论逻辑引导的数据收集过程。分析者在编码过程中识别出哪些概念范畴尚未充分明晰、哪些关系尚存疑点，据此有针对性地决定下一步去何处寻找新的受访者、事件或文献，直至理论关系被完全阐明。
 
 ---
 
@@ -185,7 +183,7 @@ updated: 2026-10-08
 ---
 
 ### 4. 持续比较法（Constant Comparison）
-贯穿扎根理论全周期的核心检验技术。研究者持续实施四重比较：同一事件内部不同片段比较 ➔ 概念与概念之间比较 ➔ 概念与范畴之间比较 ➔ 范畴与理论[[Hypothesis|假设]]之间比较。通过不断搜寻反常案例（negative cases），迫使范畴与理论命题持续修正，直至实现与全部经验数据的严密契合（Glaser & Strauss, 1967；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al., 2011, 29.5]]）。
+贯穿扎根理论全周期的核心检验技术。研究者持续实施四重比较：同一事件内部不同片段比较 ➔ 概念与概念之间比较 ➔ 概念与范畴之间比较 ➔ 范畴与理论假设之间比较。通过不断搜寻反常案例（negative cases），迫使范畴与理论命题持续修正，直至实现与全部经验数据的严密契合（Glaser & Strauss, 1967；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29|Cohen et al., 2011, 29.5]]）。
 
 ---
 
@@ -235,7 +233,7 @@ updated: 2026-10-08
 ### 扎根理论研究问题的过程导向性
 与其他质性流派截然不同，扎根理论的[[Research Question|研究问题]]不以描摹主观经验的本质结构为核心（如[[Phenomenology|现象学]]），亦不以刻画群体共享文化模式为旨趣（如[[Ethnography|民族志]]），而是明确指向**解释一个社会过程、行动机制或互动关系的演进规律**（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, Ch. 7]]）：
 - 典型研究问题设问[[Paradigm|范式]]：“在医院重症监护环境中，照顾者、医生与病患之间是如何通过互动建立治疗信任并协商医疗决策的？”
-- **问题的动态重构性** 在[[Quantitative Research|量化研究]]中，研究问题在开题后保持固定；而在扎根理论中，随着[[Theoretical Sampling|理论抽样]]与[[Coding in Qualitative Research|编码]]分析的纵深推进，研究问题处于持续审视、精炼与重写的开放状态。
+- **问题的动态重构性** 在[[Quantitative Research|量化研究]]中，研究问题在开题后保持固定；而在扎根理论中，随着[[Theoretical Sampling|理论抽样]]与编码分析的纵深推进，研究问题处于持续审视、精炼与重写的开放状态。
 
 ---
 
@@ -254,23 +252,23 @@ updated: 2026-10-08
 ## 方法论争议与应用张力
 
 > [!tension] 经验真实[[Emergence\|涌现]] vs 理论[[Paradigm\|范式]]强加的学术论争
-> - **施特劳斯的系统规范性** 强调运用严密的三级[[Coding in Qualitative Research\|编码]]和六要素范式模型，使扎根理论具备可被同行复现的操作程序与科学[[Reliability\|信度]]。
+> - **施特劳斯的系统规范性** 强调运用严密的三级编码和六要素范式模型，使扎根理论具备可被同行复现的操作程序与科学[[Reliability\|信度]]。
 > - **格拉瑟的范式强加批评** 尖锐批评施特劳斯-科宾学派的六要素范式模型退化为繁复的理性主义[[Scaffolding\|脚手架]]，容易导致研究者将外部范式强加于文本（forcing data into paradigm），扼杀了真正理论自下而上的鲜活涌现。
 
 > [!critique] 离散切片导致的去情境化风险
-> 阿曼达·考菲（Amanda Coffey）与保罗·阿特金森（Paul Atkinson）警示，质性编码在对文本进行逐行切片与离散检索时，存在割裂时序脉络与生活情境的系统性风险。当某一特定行为在不同时空场景下的深层意涵完全不同时，机械归纳容易抹平真实差异；扎根理论分析者必须通过保留情境化叙事记录与[[Rich and Thick Description\|深描]]，对冲过度理论抽象带来的失真（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011, p. 562]]）。
+> 阿曼达·考菲（Amanda Coffey）与保罗·阿特金森（Paul Atkinson）警示，[[Coding in Qualitative Research|质性编码]]在对文本进行逐行切片与离散检索时，存在割裂时序脉络与生活情境的系统性风险。当某一特定行为在不同时空场景下的深层意涵完全不同时，机械归纳容易抹平真实差异；扎根理论分析者必须通过保留情境化叙事记录与[[Rich and Thick Description\|深描]]，对冲过度理论抽象带来的失真（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011, p. 562]]）。
 
 ---
 
 ## 适用场景与局限性
 
 > [!method-fit] 适用判断
-> - **适合使用** 现有学术[[Document\|文献]]对某一社会现象、心理转变或互动过程缺乏成熟理论解释，或既有理论无法适配本土新情境的研究；旨在建构中微观解释机制的探索性探究。
+> - **适合使用** 现有学术文献对某一社会现象、心理转变或互动过程缺乏成熟理论解释，或既有理论无法适配本土新情境的研究；旨在建构中微观解释机制的探索性探究。
 > - **谨慎使用** 涉及极高学术风险或严格受制于固定资助周期的项目（[[Theoretical Sampling\|理论抽样]]和多轮饱和检验导致研究时长不可精确预见）。
 > - **不适合使用** 旨在检验既定形式假说的纯量化实证研究，或仅需要对封闭文本开展词频描述性统计的[[Content Analysis\|内容分析]]。
 
 > [!method-limits] 方法局限
-> - **时间与精力成本高昂** 迭代式的理论抽样、多轮[[Coding in Qualitative Research\|编码]]与持续比较需要耗费极大的田野与分析周期；
+> - **时间与精力成本高昂** 迭代式的理论抽样、多轮编码与持续比较需要耗费极大的田野与分析周期；
 > - **先入为主的认知陷阱** 研究者极难完全[[Epoché\|悬置]]既有学术背景，容易不自觉地将熟悉的理论概念作为前见强加给经验材料；
 > - **新手容易陷入代码汪洋** 初学者易在[[Open Coding\|开放编码]]阶段迷失于海量碎片化代码，缺乏提炼高阶[[Central Phenomenon\|核心范畴]]的理论敏感度。
 
@@ -279,6 +277,6 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011)]] — 整合第 30 章[[Coding in Qualitative Research\|编码]]三阶进阶与[[Story Line\|故事线]]规程、第 28 章计算机辅助理论生成及第 29 章[[Constant Comparison\|持续比较法]]，系统剖析扎根理论从经验切片到[[Central Phenomenon\|核心范畴]]构建的操作规程与去情境化防范。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011)]] — 整合第 30 章编码三阶进阶与[[Story Line\|故事线]]规程、第 28 章计算机辅助理论生成及第 29 章[[Constant Comparison\|持续比较法]]，系统剖析扎根理论从经验切片到[[Central Phenomenon\|核心范畴]]构建的操作规程与去情境化防范。
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 阐释扎根理论聚焦社会互动过程的[[Research Question\|研究问题]]设计逻辑，系统论述基于[[Theoretical Sampling\|理论抽样]]与多阶段编码生成实质性解释理论的完整研究规程（Ch. 1, 7, 9）。
 > - [[Argument_Fuchs_2010_RP\|Fuchs (2010)]] — 采用扎根理论构建方法（Eisenhardt, 1989; Glaser & Strauss, 1967），针对 [[DARPA]] 微系统技术办公室跨越 16 年的半导体关键材料资助案例展开概念化编码与持续比较，自下而上提炼出公共代理人识别方向、播撒主题、工作坊强制知识流动、第三方背书与断乳等 5 项核心非正式治理机制，建构出[[Embedded Network Governance|嵌入型网络治理]]实质性理论。

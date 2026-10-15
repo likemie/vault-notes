@@ -10,7 +10,7 @@ aliases:
 summary: "认知主体在面临知识状态、信息缺口、认知冲突及探究活动时所体验到的特定情感反应（如好奇、惊异、着迷、认识论困惑与敬畏），是连接智力技能与理智美德动机成分的心理纽带与动力引擎。"
 type: concept
 domain: "educational-psychology"
-related_count: 26
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Cognitive Deskilling]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Counterfactual]]"
-  - "[[Hypothesis]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Problem Solving]]"
   - "[[AI Agent in Education]]"
@@ -56,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-22
-updated: 2026-09-23
+updated: 2026-10-15
 ---
 
 # Intellectual Emotions
@@ -154,7 +153,7 @@ updated: 2026-09-23
 > 探讨“负向”理智情感（困惑、惊异、认知失调）在打破思维定势与促进概念重构中的积极建设性功能。
 
 > [!claim] Scheffler, I.; D'Mello & Graesser
-> **生产性困惑在深层概念转变与理智谦逊养成中的核心价值** [[Epistemology|认识论]]困惑并非学习失败的表征，而是[[Higher-Order Thinking Skills|高阶思维]]激活的催化剂。当学习者在探究中遭遇反常证据或[[Counterfactual|反事实]]设问（What-if）时，产生的认识论困惑迫使其承认现有知识局限（培育理智谦逊），并调动反思监控机制审视底层[[Hypothesis|假设]]，从而打破教条主义理智恶德，驱动深层概念转变与理论重构。[[Argument_Naeem_2026_Episteme\|(Naeem, 2026, pp. 275–277)]]
+> **生产性困惑在深层概念转变与理智谦逊养成中的核心价值** [[Epistemology|认识论]]困惑并非学习失败的表征，而是[[Higher-Order Thinking Skills|高阶思维]]激活的催化剂。当学习者在探究中遭遇反常证据或[[Counterfactual|反事实]]设问（What-if）时，产生的认识论困惑迫使其承认现有知识局限（培育理智谦逊），并调动反思监控机制审视底层假设，从而打破教条主义理智恶德，驱动深层概念转变与理论重构。[[Argument_Naeem_2026_Episteme\|(Naeem, 2026, pp. 275–277)]]
 
 ---
 
@@ -207,7 +206,7 @@ updated: 2026-09-23
 ## 教学案例与叙事唤起
 
 > [!example] 典型理智情感唤起与美德转化案例
-> - **蜘蛛织网叙事与[[Creativity|创造力]]美德共鸣** 在 Q-Tutor 的故事模式中，面对一位对昆虫世界着迷的学生，系统生成了一只蜘蛛在面临捕食者追捕时创造性织造非对称几何网逃生的故事。学生被蜘蛛的解困构想深深吸引并产生着迷情感，进而主动将创造力视为解决现实困境的高价值理智品格，并在后续学习中积极尝试提出发散性[[Hypothesis|假设]]。[[Argument_Naeem_2026_Episteme\|(Naeem, 2026, pp. 281–282)]]
+> - **蜘蛛织网叙事与[[Creativity|创造力]]美德共鸣** 在 Q-Tutor 的故事模式中，面对一位对昆虫世界着迷的学生，系统生成了一只蜘蛛在面临捕食者追捕时创造性织造非对称几何网逃生的故事。学生被蜘蛛的解困构想深深吸引并产生着迷情感，进而主动将创造力视为解决现实困境的高价值理智品格，并在后续学习中积极尝试提出发散性假设。[[Argument_Naeem_2026_Episteme\|(Naeem, 2026, pp. 281–282)]]
 > - **音乐声学与引力波天体模型的好奇迁移** 面对具有音乐特长的学生，[[AI Agent in Education|智能体]]以声波驻波与乐器共振为隐喻解释天体引力波的探测机制，迅速将学生的音乐直觉转化为对天体物理学的强烈好奇与求知冲动，促使学生主动跨越学科边界提出深层物理问题。[[Argument_Naeem_2026_Episteme\|(Naeem, 2026, pp. 276–278)]]
 
 ---

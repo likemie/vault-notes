@@ -44,7 +44,6 @@ related_concepts:
   - "[[Construct Validity]]"
   - "[[Study Population and Sample]]"
   - "[[Reflexivity]]"
-  - "[[Habitus]]"
   - "[[Variable]]"
   - "[[Formative Assessment]]"
   - "[[Business as Usual]]"
@@ -67,7 +66,6 @@ related_methods:
   - "[[Systematic Sampling]]"
   - "[[Meta-analysis]]"
   - "[[Analytic Framework]]"
-  - "[[Coding in Qualitative Research]]"
 related_instruments:
   - "[[Model-Evidence-Link Matrix]]"
 related_persons:
@@ -88,7 +86,7 @@ title: "Argument_Duncan_2025_CI"
 argument_key: "Argument_Duncan_2025_CI"
 argument_display_title: "Evaluating the Quality of Argumentation: The Role of Epistemic Ideals and Reliable Processes"
 argument_kind: "journal-article"
-argument_related_count: 51
+argument_related_count: 49
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -360,7 +358,7 @@ AIR 模型由[[Clark A. Chinn|克拉克·钦]]（[[Clark A. Chinn]]）等学者�
 >    学生尖锐指出休闲散步与专业搜寻的本质差别：
 >    *Erica*：“那根本说明不了任何问题，因为全靠猜。住客只是在旅馆周围到处闲逛，又不是有专业人员专门出去搜寻这些野生动物。而且他们看到的甚至可能根本不是北极狐，只是他们自以为是北极狐而已！”
 >    *Natalie*：“我也想说这个，人们可能根本没在认真搜寻，或者错把其他动物当成了北极狐，因为他们根本不懂专业识别。”
-> 5. **生物生活[[Habitus\|习性]]、隐蔽性与观察时长分析（Regina 与 Brianna）**
+> 5. **生物生活习性、隐蔽性与观察时长分析（Regina 与 Brianna）**
 >    学生结合动物行为学机制深化反驳：
 >    *Regina*：“我不认为北极狐会故意跑到人类面前展示自己。所以就算人们只看到11只，野外实际存在的可能多得多。他们只是偶然瞥见了，并不代表只有11只……人们没看到绝不等于动物不存在，你必须坐在那里长时间蹲守观察。”
 >    *Brianna*：“而且北极狐可能隐蔽迁移到了森林的其他区域，根本不在旅馆周围活动。”
@@ -434,7 +432,7 @@ AIR 论证评价方案与非形式逻辑领域的著名框架存在深层差异�
 > [!finding-cards] 核心发现
 > 1. **结构主义局限** 纯粹基于主张、数据、推理及反驳的句法分析，无法识别披着完备外衣的伪科学诡辩，气候变暖否定论与反疫苗言论在结构评分中均能斩获高分。（pp. 203–204）
 > 2. **[[Epistemic Ideals\|认识论理想]]的实际运作** 初中生在面对生物学复杂证据时，能够自发调动全域证据契合、多源收敛、推论直接性与决定性等认识论理想，对备选科学模型做出高水平裁决。（pp. 213–216）
-> 3. **过程[[Reliability\|可靠性]]条件的深度审视** 在看似零散的课堂口头互动中，初中生能够敏锐指认物理遮挡、无序抽样、缺乏专业资质及动物生态[[Habitus\|习性]]等严重削弱观察可靠性的环境约束条件。（pp. 217–218）
+> 3. **过程[[Reliability\|可靠性]]条件的深度审视** 在看似零散的课堂口头互动中，初中生能够敏锐指认物理遮挡、无序抽样、缺乏专业资质及动物生态习性等严重削弱观察可靠性的环境约束条件。（pp. 217–218）
 > 4. **学科知识与[[Epistemology\|认识论]]推理的纠缠性** 学生对认识论理想与过程条件的恰当运用，高度依附于具体的领域实体知识；缺乏实体知识可能导致理想的机械套用与误判。（pp. 221–222）
 > 5. **元认识论教学旨趣** 科学教学应从灌输现成规则转向引导学生参与元认识论审议，通过协商建构公共认识标准，赋予学生平等的[[Epistemic Agency\|认识主体性]]与批判抗辩力。（pp. 222–223）
 
@@ -468,7 +466,7 @@ AIR 论证评价方案与非形式逻辑领域的著名框架存在深层差异�
 
 > [!warning] 原文自述局限与边界条件
 > - **实证证据的探索性与概念验证性质** 本文呈现的书面与口头[[Discourse Analysis\|话语分析]]旨在提供理论[[Analytic Framework\|分析框架]]的概念验证，样本来自特定教学干预项目（[[PRACCIS]]）的初中课堂，尚未在更广泛的学科学段或[[Business as Usual\|常态教学]]中建立大规模的[[Statistical Normalisation\|统计标准化]]评分常模。（pp. 211–212）
-> - **未纳入[[Epistemic Aims\|认识目标]]的独立[[Coding in Qualitative Research\|编码]]** 鉴于本研究依托的课程任务由教材预设了明确的认识目标（即在备选模型间作出判别并撰写说服性论证），因此未对 [[AIR Model of Epistemic Cognition\|AIR]] 模型中的认识目标构件展开系统实证编码，未来研究需在目标开放的探究情境中考察三者的完整互动。（p. 208）
+> - **未纳入[[Epistemic Aims\|认识目标]]的独立编码** 鉴于本研究依托的课程任务由教材预设了明确的认识目标（即在备选模型间作出判别并撰写说服性论证），因此未对 [[AIR Model of Epistemic Cognition\|AIR]] 模型中的认识目标构件展开系统实证编码，未来研究需在目标开放的探究情境中考察三者的完整互动。（p. 208）
 > - **学科知识与[[Epistemology\|认识论]]推理的分离难题** 在论证分析中，极难将学生的学科实体知识缺陷与不良认识论推理完全剥离，二者往往深度交织，这给标准化测评工具的开发带来了复杂的测量挑战。（pp. 221–222）
 > - **[[Reliable Epistemic Processes\|可靠过程]]数量庞大带来的教学粒度挑战** 科学实践中具体的可靠认识过程极其繁复、领域依赖且随技术发展动态变化，如何在有限的课堂教学时间内确定最为核心的教学目标粒度与进阶序列，仍需长期的实证探索。（pp. 222, 224）
 

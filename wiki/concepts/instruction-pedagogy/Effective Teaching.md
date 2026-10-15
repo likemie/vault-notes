@@ -5,7 +5,7 @@ aliases:
 summary: "综合性教学质量概念，关注教师如何通过明确领导、清晰目标、反馈、学习导向气氛和适配学生前提来促进学习。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 58
+related_count: 57
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -39,7 +39,6 @@ related_concepts:
   - "[[Inquiry-Based Learning]]"
   - "[[Source Evaluation]]"
   - "[[Problem Solving]]"
-  - "[[Hypothesis]]"
   - "[[Interaction Effect]]"
   - "[[Formative Assessment]]"
   - "[[Cooperative Integrated Reading and Composition]]"
@@ -171,7 +170,7 @@ updated: 2026-10-15
 > **跨国共识指向课堂经典基本质量** 综合 [[John Hattie]]（可见学习）、[[Hilbert Meyer]] 及 [[Andreas Helmke]] 的实证体系，有效教学高度收敛于清晰目标、积极教师领导、学习导向气氛与形成性反馈。丹麦国家社会科学研究所（[[Science Foundation Ireland|SFI]]）的实证研究进一步确证，清晰一致的[[Classroom Management\|课堂管理]]与高学业要求在北欧情境下同样是提升[[Academic Achievement\|学业成绩]]的关键决定因素。[[Argument_Laursen_2015_Paideia\|(Laursen, 2015, pp. 35–37)]]
 
 > [!claim] Cartiff et al.
-> **显性证据规则与支架介入确立有效教学基线** 对[[Epistemology\|认识论]]教学干预的因果元分析量化证实了教师显性领导的不可替代性：明确向学生讲授证据确证规则并提供实验[[Variable\|变量]]支架的[[Inquiry-Based Learning\|指导式探究]]与[[Source Evaluation\|信源评估]]模式，成效显著优于缺乏支架的自主[[Problem Solving\|问题解决]]与开放辩论。这一结果从反面推翻了“放任探究自发有效”的[[Hypothesis\|假设]]，确立了教师提供结构化[[Scaffolding\|脚手架]]、嵌入即时诊断反馈并开展短周期高浓度聚焦教学，是实现高品质有效教学的循证基准。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 485–486, 492)]]
+> **显性证据规则与支架介入确立有效教学基线** 对[[Epistemology\|认识论]]教学干预的因果元分析量化证实了教师显性领导的不可替代性：明确向学生讲授证据确证规则并提供实验[[Variable\|变量]]支架的[[Inquiry-Based Learning\|指导式探究]]与[[Source Evaluation\|信源评估]]模式，成效显著优于缺乏支架的自主[[Problem Solving\|问题解决]]与开放辩论。这一结果从反面推翻了“放任探究自发有效”的假设，确立了教师提供结构化[[Scaffolding\|脚手架]]、嵌入即时诊断反馈并开展短周期高浓度聚焦教学，是实现高品质有效教学的循证基准。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 485–486, 492)]]
 
 ---
 
@@ -238,7 +237,7 @@ updated: 2026-10-15
 > > [!axis] 国家文化[[Determinism\|决定论]] vs 社会阶层背景调节论
 > > 探讨教学模式在跨国移植时究竟受国家宏观文化制约，还是受班级微观社会阶层结构调节。
 > >
-> > - **国家文化[[Hypothesis\|假设]]（Hofstede 视角）** 认为低权力距离与高个人主义文化（如北欧）天然更适配开放对话式教学。
+> > - **国家文化假设（Hofstede 视角）** 认为低权力距离与高个人主义文化（如北欧）天然更适配开放对话式教学。
 > > - **阶层实证否定（[[Science Foundation Ireland|SFI]] / Laursen）** 实证表明文化画像仅代表中产阶级偏好；在任何国家，弱势阶层学生均最需要高度结构化与明确目标的有效教学。[[Argument_Laursen_2015_Paideia\|(Laursen, 2015, p. 40)]]
 
 > [!warning] 适用局限

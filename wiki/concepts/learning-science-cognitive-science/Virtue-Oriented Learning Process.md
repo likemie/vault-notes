@@ -25,9 +25,9 @@ related_concepts:
   - "[[Self-Cultivation]]"
   - "[[Homework]]"
   - "[[Familiarization]]"
-  - "[[Refined Mastery]]"
   - "[[Chinese Learner]]"
   - "[[Western Learner]]"
+  - "[[Refined Mastery]]"
   - "[[Pride in Learning]]"
   - "[[Sage]]"
   - "[[Mind-Oriented Learning Process]]"
@@ -95,7 +95,7 @@ Li 以西方管弦乐团类比说明这种文化契约：指挥与乐手之间�
 
 ### 2. 勤奋／自勉 — 学习的主体工程
 
-勤奋是整个学习过程中工作量最大、分化最细的核心美德。Li 区分出勤奋之下的三个递进目标层次：「[[Familiarization|熟]]」、「练」和「[[Refined Mastery|精]]」([[Argument_Li_2012_Cambridge|Li, 2012, pp.126-127]])。
+勤奋是整个学习过程中工作量最大、分化最细的核心美德。Li 区分出勤奋之下的三个递进目标层次：「熟」、「练」和「精」([[Argument_Li_2012_Cambridge|Li, 2012, pp.126-127]])。
 
 #### 2.1 熟 — 熟悉化
 
@@ -106,7 +106,7 @@ Li 以西方管弦乐团类比说明这种文化契约：指挥与乐手之间�
 - "熟读唐诗三百首，不会作诗也会吟"
 - "熟能生巧"
 
-熟悉化的目的是确保对材料的流畅度和第一层知识——类似于英文中"having it at my fingertips"的意思。最终结果是可测量的成果：记忆，即"背下来"([[Argument_Li_2012_Cambridge|Li, 2012, p.127]])。关于此过程的完整讨论，参见[[Familiarization]]。
+[[Familiarization|熟悉化]]的目的是确保对材料的流畅度和第一层知识——类似于英文中"having it at my fingertips"的意思。最终结果是可测量的成果：记忆，即"背下来"([[Argument_Li_2012_Cambridge|Li, 2012, p.127]])。关于此过程的完整讨论，参见[[Familiarization]]。
 
 #### 2.2 练 — 练习
 
@@ -143,7 +143,7 @@ Li 以西方管弦乐团类比说明这种文化契约：指挥与乐手之间�
 #### 2.3 精 — 精通／精深
 
 勤奋的最终目标是"精"——一种只有最杰出的大师才能达到和展示的状态([[Argument_Li_2012_Cambridge|Li, 2012, pp.134-136]])。相关表达包括：
-- "精通"——透彻理解
+- "[[Refined Mastery|精通]]"——透彻理解
 - "精深"——精深的掌握
 - "炉火纯青"——最高的技艺境界
 - "熟能生巧，巧能生精"——从熟悉到技巧到精通的三层递进

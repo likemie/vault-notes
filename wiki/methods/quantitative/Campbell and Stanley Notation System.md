@@ -9,7 +9,7 @@ summary: "Campbell和Stanley（1963）提出的用于图示实验设计的经典
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 13
+method_related_count: 12
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -18,7 +18,6 @@ tags:
   - quantitative-research
   - notation
 related_concepts:
-  - "[[Document]]"
   - "[[Variable]]"
   - "[[Internal Validity]]"
   - "[[External Validity]]"
@@ -39,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-09-11
+updated: 2026-10-15
 ---
 
 # Campbell and Stanley Notation System
@@ -47,7 +46,7 @@ updated: 2026-09-11
 ## 定义
 
 > [!info]
-> Campbell and Stanley 符号系统（Campbell & Stanley Notation System）是 Campbell & Stanley (1963, p.6) 在其经典著作 Experimental and [[Quasi-Experimental Designs]] for Research 中提出的一套用于图示实验设计的标准化符号。该符号系统至今仍在[[Experimental Research\|实验研究]]方法论[[Document\|文献]]中广泛使用，Creswell & Creswell (2022, Ch8) 将其作为报告实验设计方案的推荐工具。
+> Campbell and Stanley 符号系统（Campbell & Stanley Notation System）是 Campbell & Stanley (1963, p.6) 在其经典著作 Experimental and [[Quasi-Experimental Designs]] for Research 中提出的一套用于图示实验设计的标准化符号。该符号系统至今仍在[[Experimental Research\|实验研究]]方法论文献中广泛使用，Creswell & Creswell (2022, Ch8) 将其作为报告实验设计方案的推荐工具。
 
 ## 核心要素
 
@@ -67,7 +66,7 @@ updated: 2026-09-11
 ## 概念演变
 
 > [!note]-
-> Campbell & Stanley (1963) 的原始章节发表于 N. L. Gage 主编的 Handbook of Research on Teaching 中，是该领域的奠基性[[Document\|文献]]。Creswell & Creswell (2022, Ch8) 将其称为"经典声明"（the classical statement about experimental designs），指出该符号系统"至今仍在使用"（is still used today）。该符号系统不仅提供了图示设计的工具，还同时提出了[[Internal Validity\|内部效度]]和[[External Validity\|外部效度]]威胁的分类框架——后者构成了后来[[Experimental Research\|实验研究]]方法论中效度威胁讨论的基础。
+> Campbell & Stanley (1963) 的原始章节发表于 N. L. Gage 主编的 Handbook of Research on Teaching 中，是该领域的奠基性文献。Creswell & Creswell (2022, Ch8) 将其称为"经典声明"（the classical statement about experimental designs），指出该符号系统"至今仍在使用"（is still used today）。该符号系统不仅提供了图示设计的工具，还同时提出了[[Internal Validity\|内部效度]]和[[External Validity\|外部效度]]威胁的分类框架——后者构成了后来[[Experimental Research\|实验研究]]方法论中效度威胁讨论的基础。
 
 ## 适用场景
 

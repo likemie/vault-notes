@@ -7,7 +7,7 @@ aliases:
 summary: "指向在传统与数字媒体中传播的与科学证据或学界共识相悖的错误或误导性信息，涵盖无恶意失实与蓄意操纵，其扩散受算法推荐、极化回音室与源头新闻通稿夸大共同驱动，治理依赖证据透明、不确定性坦诚沟通与科研诚信制度融合。"
 type: concept
 domain: "science-communication"
-related_count: 24
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -17,7 +17,6 @@ tags:
   - theme/digital-media
 related_concepts:
   - "[[Discourse]]"
-  - "[[Hypothesis]]"
   - "[[Scientific Uncertainty]]"
   - "[[Scientific Literacy]]"
   - "[[Conflict of Interest in Research]]"
@@ -49,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-03
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Scientific Misinformation
@@ -63,7 +62,7 @@ updated: 2026-10-07
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向与实证科学证据相脱节的错误信息形态，揭示信息在生产、中介、算法分发与受众认知各个环节中的失真机制。
-> - **用途** 帮助研究者超越简单的“公众知识匮乏”[[Hypothesis\|假设]]，诊断数字媒介生态如何重构公众对科学事实与不确定性的理解与信任。
+> - **用途** 帮助研究者超越简单的“公众知识匮乏”假设，诊断数字媒介生态如何重构公众对科学事实与不确定性的理解与信任。
 > - **边界** 科学虚假信息不等于科学探索中暂定的理论假说或正常的学术争论；科学知识本身具有暂定性与演进性，对未经证实的初步结论的学术探讨不属于虚假信息。
 
 > [!citation-card]- 科学虚假信息的时代威胁
@@ -139,7 +138,7 @@ updated: 2026-10-07
 ### 命题三　坦诚披露科学证据的不确定性不仅不会削弱公众信任反而能增强信息可信度
 
 > [!concept-lens] [[Scientific Uncertainty\|证据不确定性]]与公众信任机制
-> 检验传统传播中担忧“承认研究局限性会导致公众困惑与怀疑”的[[Hypothesis\|假设]]是否成立，确立循证传播新原则。
+> 检验传统传播中担忧“承认研究局限性会导致公众困惑与怀疑”的假设是否成立，确立循证传播新原则。
 
 > [!claim] Kerr et al.
 > **透明沟通不确定性对公众信任的保护效应** 大规模实验心理学与传播学证据表明，在向公众传播科学发现时，明确呈现数值不确定性（如[[Confidence Interval\|置信区间]]）、证据强弱等级与研究局限，不会损害公众对证据本身或对科学家的信任度，在某些涉及争议与前沿政策的议题中反而显著提升了信息源的可[[Reliability\|信度]]（[[Trustworthiness]]）。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03\|(The Royal Society, 2026, p. 62)]]

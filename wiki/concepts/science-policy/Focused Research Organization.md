@@ -7,7 +7,7 @@ aliases:
 summary: "一种以攻克关键科学瓶颈、生产公共品为导向的中等规模新型非营利科研组织；通过固定 5 年周期与严格日落条款（做完即散）、全职专业科学家与工程团队以及 2000 万至 5000 万美元集中资助，填补传统大学小课题组、营利性企业研发与永久国家实验室之间的‘中等规模公共品缺口’。"
 type: concept
 domain: "science-policy"
-related_count: 23
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Construct]]"
   - "[[Convergence Research]]"
-  - "[[Attrition]]"
 related_theories:
   - "[[Path Dependence]]"
 related_methods:
@@ -50,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Focused Research Organization
@@ -179,7 +178,7 @@ updated: 2026-10-09
 > > - **混合转化派** 认为基础协议与数据开源的同时，允许团队在期满后围绕应用开发创立商业公司，是保障技术持续工程化迭代与人员合理安置的现实通道。
 >
 > > [!axis] 5 年硬性寿命与科研人员职业通道可持续性
-> > 争论短期固定任期是否会导致顶尖工程人才因缺乏长期职业安全感而[[Attrition|流失]]。
+> > 争论短期固定任期是否会导致顶尖工程人才因缺乏长期职业安全感而流失。
 > > - **灵活性支持派** 认为提供市场化全额高薪与明确的技能跃升，能吸引最具实战力的工程师在黄金期集中攻关，期满后在学术界与工业界均极具[[Competitiveness|竞争力]]。
 > > - **职业保障担忧派** 批评没有终身教职或稳定退休保障的组织形态难以吸引成家或资深的资深科学家。
 

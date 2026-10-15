@@ -9,7 +9,7 @@ aliases:
 summary: "学习与学术任务在目标清晰度、解题算法、信息充分性及评价标准等维度的结构化程度。任务沿良构到劣构的连续谱分布，调节着学生的认识论信念激活、元认知监控与自我调节学习策略。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Problem Finding]]"
   - "[[Epistemology]]"
   - "[[Simplicity of Knowledge]]"
-  - "[[Hypothesis]]"
   - "[[Student Engagement]]"
   - "[[Scaffolding]]"
   - "[[Academic Achievement]]"
@@ -34,7 +33,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-08-19
-updated: 2026-09-23
+updated: 2026-10-15
 ---
 
 # Task Structure
@@ -86,7 +85,7 @@ updated: 2026-09-23
 > 探讨任务结构如何作为边界条件，决定认识论信念（尤其是[[Simplicity of Knowledge\|简单知识]]与确定性信念）何时对学业产出产生实质影响。
 
 > [!claim] [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]]
-> **劣构任务特异性预测效应** 学生的认识论信念对良构任务的表现无显著预测力（$R^2 = .04, p = .37$），但对劣构任务的表现具有显著预测力（$R^2 = .12, p = .01$）；其中简单知识（simple knowledge, SK）信念越朴素（认为知识由孤立碎片构成、回避复杂性），在劣构任务中的总成绩（$\beta = -0.24, R^2 = .06, p = .02$）和[[Reflexivity\|反思性]]判断得分（$\beta = -0.24, R^2 = .06, p = .02$）越差。这是因为劣构任务的模糊性与复杂性激活了认识动机（epistemic motivation），迫使认知者进行[[Hypothesis\|假设]]检验与认知解冻；而良构任务因提供现成线索与明确标准，抵消了个体认识论信念朴素带来的认知劣势。[[Argument_Lodewyk_2007_EP\|(Lodewyk, 2007, pp. 320-324)]]
+> **劣构任务特异性预测效应** 学生的认识论信念对良构任务的表现无显著预测力（$R^2 = .04, p = .37$），但对劣构任务的表现具有显著预测力（$R^2 = .12, p = .01$）；其中简单知识（simple knowledge, SK）信念越朴素（认为知识由孤立碎片构成、回避复杂性），在劣构任务中的总成绩（$\beta = -0.24, R^2 = .06, p = .02$）和[[Reflexivity\|反思性]]判断得分（$\beta = -0.24, R^2 = .06, p = .02$）越差。这是因为劣构任务的模糊性与复杂性激活了认识动机（epistemic motivation），迫使认知者进行假设检验与认知解冻；而良构任务因提供现成线索与明确标准，抵消了个体认识论信念朴素带来的认知劣势。[[Argument_Lodewyk_2007_EP\|(Lodewyk, 2007, pp. 320-324)]]
 
 ---
 

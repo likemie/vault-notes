@@ -7,7 +7,7 @@ aliases:
 summary: "大学聘请具有成功创业和退出经验的产业高管支持多个衍生企业的制度安排，分为全职和兼职团队两种模式，是帮助衍生企业跨越从实验室到市场鸿沟的有效人才投资策略"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 5
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,7 +19,6 @@ tags:
 related_concepts:
   - "[[University Spin-Out]]"
   - "[[Professional Judgment]]"
-  - "[[Teaching Assistant]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -30,7 +29,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-29
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Entrepreneur in Residence
@@ -62,7 +61,7 @@ updated: 2026-09-17
 > [[Education Innovation and Research\|EIR]] 制度的价值在于补充了学术创始团队系统性缺乏的商业能力（pp.147-148）：
 
 - **合同与谈判** EIR 能识别试点合同中对衍生企业不利的条款，并利用其行业经验进行协商
-- **市场验证** EIR 帮[[Teaching Assistant|助教]]授判断"这个技术适合走创业路线还是许可路线"，避免在错误的方向上投入
+- **市场验证** EIR 帮助教授判断"这个技术适合走创业路线还是许可路线"，避免在错误的方向上投入
 - **投资者对接** EIR 利用其人脉网络帮助衍生企业找到匹配的早期投资者，解决天使投资的"匹配摩擦"问题
 - **商业计划** 辅助撰写商业计划书、财务模型和市场进入策略
 

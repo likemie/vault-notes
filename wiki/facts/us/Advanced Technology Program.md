@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 18
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Market Failure]]"
   - "[[Competitiveness]]"
   - "[[Research Universities]]"
-  - "[[Assemblage]]"
   - "[[Market Fundamentalism]]"
   - "[[Precompetitive Research]]"
 related_theories:
@@ -50,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-12
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Advanced Technology Program
@@ -112,7 +111,7 @@ updated: 2026-10-12
 
 > [!finding-cards] 核心成效与制度遗产
 > - **卓越的商业化与技术产出回报** 独立评估表明 ATP 资助的项目取得了优异的技术成功率，在汽车车身制造公差改良、DNA 芯片测试、新型复合材料与纳米涂层等领域解决了关键全行业瓶颈。[[Argument_Block_2008_PS|(Block, 2008, pp. 184, 188)]]
-> - **汽车车身公差 2 毫米工程奇迹** ATP 联合美国三大汽车制造商及其核心设备供应商成立联合攻关项目，将车身钣金冲压[[Assemblage|装配]]公差从行业普遍的数毫米缩减至 2 毫米以内，极大缩小了与日本车企制造精度的差距。[[Argument_Block_2008_PS|(Block, 2008, p. 188)]]
+> - **汽车车身公差 2 毫米工程奇迹** ATP 联合美国三大汽车制造商及其核心设备供应商成立联合攻关项目，将车身钣金冲压装配公差从行业普遍的数毫米缩减至 2 毫米以内，极大缩小了与日本车企制造精度的差距。[[Argument_Block_2008_PS|(Block, 2008, p. 188)]]
 > - **显性民用产业政策的政治脆弱性典型样本** 作为全美极少数公开打着“民用商业化产业政策”旗号的联邦机构，ATP 的坎坷命运反向证明了：在[[Market Fundamentalism|市场原教旨主义]]占统治地位的政治语境中，任何公开、高调的民用产业干预都会成为政治攻击的活靶子，迫使国家发展型职能不得不退入国防军用或隐性分散机构寻求生存掩护。[[Argument_Block_2008_PS|(Block, 2008, pp. 183–186)]]
 
 > [!stat-cards]- 核心数据快照

@@ -7,7 +7,7 @@ aliases:
 summary: "由安德鲁·范德文与保罗·约翰逊（2006）开创的学术探究范式，主张将理论与实践的脱节界定为知识生产方式问题，通过学者与实践者在复杂现实问题上的平等合作与协同探究，从源头上弥合学术象牙塔与实践现场的制度与认识论鸿沟。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 36
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -18,7 +18,6 @@ tags:
   - theme/knowledge-mobilisation
   - theme/research-practice-partnership
 related_concepts:
-  - "[[Transfer Translation Transformation]]"
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
   - "[[Knowledge Transfer]]"
@@ -26,12 +25,10 @@ related_concepts:
   - "[[Phronesis]]"
   - "[[Commensuration]]"
   - "[[Heterogeneity]]"
-  - "[[Document]]"
   - "[[Research-Practice Partnership]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Epistemology]]"
   - "[[Research Translation]]"
-  - "[[Hypothesis]]"
   - "[[Ontology]]"
   - "[[Research Literacy]]"
   - "[[Boundary Spanner]]"
@@ -72,11 +69,11 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **参与式学术（Engaged Scholarship，亦称合作式学术或协作式学术）**指学者与一线实践者作为平等的探究主体，共同界定现实难题、[[Design-Based Research\|设计研究]]、收集证据并[[Transfer Translation Transformation\|转译]]应用的协同[[Knowledge Production\|知识生产]][[Paradigm\|范式]]。安德鲁·范德文（Andrew Van de Ven）与保罗·约翰逊（Paul Johnson）（2006）提出，理论与实践脱节的深层根源不在于信息能否被顺利传递（[[Knowledge Transfer\|知识转移]]问题），也不在于[[Theoretical Knowledge\|理论知识]]与[[Phronesis\|实践智慧]]的不可[[Commensuration\|通约]]（知识形态[[Heterogeneity\|异质性]]问题），而是**知识生产（Knowledge Production）方式本身的问题**——知识在何处、如何以及由谁生产，直接决定了理论与实践现场的距离。多主体在复杂问题上的合作探究从源头上自然消解了象牙塔与实践界的鸿沟。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, p. 19)]]
+> **参与式学术（Engaged Scholarship，亦称合作式学术或协作式学术）**指学者与一线实践者作为平等的探究主体，共同界定现实难题、[[Design-Based Research\|设计研究]]、收集证据并转译应用的协同[[Knowledge Production\|知识生产]][[Paradigm\|范式]]。安德鲁·范德文（Andrew Van de Ven）与保罗·约翰逊（Paul Johnson）（2006）提出，理论与实践脱节的深层根源不在于信息能否被顺利传递（[[Knowledge Transfer\|知识转移]]问题），也不在于[[Theoretical Knowledge\|理论知识]]与[[Phronesis\|实践智慧]]的不可[[Commensuration\|通约]]（知识形态[[Heterogeneity\|异质性]]问题），而是**知识生产（Knowledge Production）方式本身的问题**——知识在何处、如何以及由谁生产，直接决定了理论与实践现场的距离。多主体在复杂问题上的合作探究从源头上自然消解了象牙塔与实践界的鸿沟。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, p. 19)]]
 
 > [!concept-lens] 概念透镜
 > - **核心指向** 强调知识生产主体的多元共创与民主化，将一线教育工作者从单纯的“研究受众或数据提供者”提升为“平等的联合探究者”。
-> - **理论用途** 解释为什么传统的单向研究分发与[[Document\|文献]]推送无法有效促进学校变革，为[[Research-Practice Partnership\|研究-实践伙伴关系]]（RPP）与全系统[[Knowledge Mobilisation\|知识动员]]提供[[Epistemology\|认识论]]正当性。
+> - **理论用途** 解释为什么传统的单向研究分发与文献推送无法有效促进学校变革，为[[Research-Practice Partnership\|研究-实践伙伴关系]]（RPP）与全系统[[Knowledge Mobilisation\|知识动员]]提供[[Epistemology\|认识论]]正当性。
 > - **边界限定** 它不是降低学术严密性的随意经验总结，也不是学者充当外包商业咨询或培训讲师；它要求在兼顾学理严谨性的同时直面实践前沿的复杂性。
 
 > [!citation-card] 理论实践鸿沟的知识生产本质
@@ -96,8 +93,8 @@ updated: 2026-10-15
 > [!contrast-table] 理论—实践脱节的三重解释框架（Van de Ven & Johnson, 2006; [[Argument_Revai_2022_ChangingLandscape\|Révai, 2022]]）
 > | 比较维度 | [[Knowledge Transfer\|知识转移]]取向（Transfer Problem） | 知识形态异质取向（Distinct Knowledge Forms） | [[Knowledge Production\|知识生产]]取向（Engaged Scholarship） |
 > |---|---|---|---|
-> | **核心[[Hypothesis\|假设]]** | 研究知识自足且具备普适性，断裂仅因格式不当或分发渠道堵塞 | 学术理论与实践智慧在[[Ontology\|本体论]]与[[Epistemology\|认识论]]上本质不同，两者皆具局部性 | 知识生产主体的空间隔绝与权力垄断导致理论必然悬浮于实践之外 |
-> | **症结归因** | 供给侧传播不力或实践者缺乏[[Research Literacy\|研究素养]]与理解时间 | 学院逻辑与临床现场语言隔阂，缺乏有效的中介[[Transfer Translation Transformation\|转译]]装置 | 学术体制排斥一线教育者参与，将实践者降格为被动应用者 |
+> | **核心假设** | 研究知识自足且具备普适性，断裂仅因格式不当或分发渠道堵塞 | 学术理论与实践智慧在[[Ontology\|本体论]]与[[Epistemology\|认识论]]上本质不同，两者皆具局部性 | 知识生产主体的空间隔绝与权力垄断导致理论必然悬浮于实践之外 |
+> | **症结归因** | 供给侧传播不力或实践者缺乏[[Research Literacy\|研究素养]]与理解时间 | 学院逻辑与临床现场语言隔阂，缺乏有效的中介转译装置 | 学术体制排斥一线教育者参与，将实践者降格为被动应用者 |
 > | **解决路径** | 强化单向推送（Push）、研制精炼指南、开发用户友好工具包 | 引入[[Boundary Spanner\|跨界中介者]]与中介机构，建立对话桥梁促进双向互补 | 践行参与式学术，组建跨界伙伴关系（[[Research-Practice Partnership\|RPP]]），全流程联合攻关 |
 > | **动员[[Paradigm\|范式]]对应** | 第一代：线性模型（Linear Model） | 第二代：关系模型（Relationship Model） | 第三代：复杂系统共创模型（Systems Model） |
 
@@ -106,10 +103,10 @@ updated: 2026-10-15
 ## 核心要素
 
 > [!feature] 参与式学术的核心要素构成
-> - **劣构难题的联合界定（Collaborative Problem Formulation）** 探究的逻辑起点是一线教育治理或课堂教学中真实遭遇的劣构困境（ill-structured problems），而非学者依据单纯[[Document\|文献]]空白（gap-spotting）自上而下设定的[[Hypothesis\|假设]]。
+> - **劣构难题的联合界定（Collaborative Problem Formulation）** 探究的逻辑起点是一线教育治理或课堂教学中真实遭遇的劣构困境（ill-structured problems），而非学者依据单纯文献空白（gap-spotting）自上而下设定的假设。
 > - **双向多元视角的理论建构（Theory Building with Dual Lenses）** 学者带入严密的学术框架与概念工具，教师和政策官员带入对制度环境、情境制约与本土学情的[[Phronesis\|实践智慧]]（[[Phronesis]]），实现理论与经验的有机融合。
 > - **合作探究与实证研究设计（Collaborative Research Design）** 实践人员深度介入调研方案设计、[[Classroom Observation|课堂观察]]指标研制、阶段性试误与数据收集，保障研究方案具有微观可行性。
-> - **行动方案与理论成果的联合[[Transfer Translation Transformation\|转译]]（Joint [[Problem Solving]] & Translation）** 产出兼顾理论贡献与现实收益的双轨成果，既形成经同行评议的学术成果，又转化为指导学校变革的可操作干预工具与政策备忘录。
+> - **行动方案与理论成果的联合转译（Joint [[Problem Solving]] & Translation）** 产出兼顾理论贡献与现实收益的双轨成果，既形成经同行评议的学术成果，又转化为指导学校变革的可操作干预工具与政策备忘录。
 
 > [!logic-map]- 范德文参与式学术[[National Competitive Advantage|钻石模型]]（Diamond Model）
 > ```mermaid

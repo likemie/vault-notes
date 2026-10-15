@@ -10,7 +10,7 @@ summary: "通过操作化变量、标准化测量、受控实验或抽样调查�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 88
+method_related_count: 84
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -35,17 +35,15 @@ related_concepts:
   - "[[Construct]]"
   - "[[Epistemology]]"
   - "[[Falsification]]"
-  - "[[Hypothesis]]"
   - "[[Value Neutrality]]"
   - "[[Internal Validity]]"
   - "[[Reliability]]"
   - "[[Construct Validity]]"
   - "[[Scale of Measurement]]"
-  - "[[Document]]"
+  - "[[Hypothesis]]"
   - "[[Research Question]]"
   - "[[Independent Variable]]"
   - "[[Study Population and Sample]]"
-  - "[[APA Style]]"
   - "[[Champ]]"
   - "[[Discourse]]"
   - "[[Tacit Knowledge]]"
@@ -76,7 +74,6 @@ related_methods:
   - "[[Survey Research]]"
   - "[[Cohort Study]]"
   - "[[Classroom Observation]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Analysis of Variance]]"
   - "[[Causal Modeling]]"
   - "[[Hierarchical Linear Model]]"
@@ -97,7 +94,6 @@ related_methods:
   - "[[Generalized Estimating Equations]]"
   - "[[Measurement Invariance]]"
   - "[[Confirmatory Factor Analysis]]"
-  - "[[Exploratory Factor Analysis]]"
   - "[[Mixed Methods Research]]"
   - "[[Correlational Research]]"
   - "[[Intervention Research]]"
@@ -155,14 +151,14 @@ updated: 2026-10-15
 ## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
-> - **知识观** 根植于[[Critical Realism\|批判实在论]]与[[Postpositivism\|后实证主义]]。世界存在独立于研究者意识的客观规律，但人类一切经验观察皆具推测性与误差；[[Karl Popper\|卡尔·波普尔]]（[[Karl Popper]]）的[[Falsification\|证伪主义]]确立了推测性知识观，量化探究不声称绝对“证明”[[Hypothesis\|假设]]，而仅指出在特定显著性水平下未能拒绝原假设。
+> - **知识观** 根植于[[Critical Realism\|批判实在论]]与[[Postpositivism\|后实证主义]]。世界存在独立于研究者意识的客观规律，但人类一切经验观察皆具推测性与误差；[[Karl Popper\|卡尔·波普尔]]（[[Karl Popper]]）的[[Falsification\|证伪主义]]确立了推测性知识观，量化探究不声称绝对“证明”假设，而仅指出在特定显著性水平下未能拒绝原假设。
 > - **研究者角色** 追求外在客观性与[[Value Neutrality\|价值中立]]。研究者作为独立于客体的观测者，通过预设研究设计、[[Blinding\|盲法]]控制、标准化[[Questionnaire\|问卷]]和既定算法规程最大限度约束主观价值卷入。
 > - **有效性标准** Campbell & Stanley 四大效度体系：[[Internal Validity\|内部效度]]（排除混杂干扰确立[[Causality\|因果推断]]的可[[Reliability\|信度]]）、[[External Validity\|外部效度]]（跨样本、情境与时间的可推广性）、[[Construct Validity\|构念效度]]（测量指标与理论概念的吻合度）、统计结论效度（统计检验功效与误差控制），以及测量[[Reliability\|信度]]（[[Internal Consistency\|内部一致性]]、[[Test-Retest Reliability\|重测信度]]与[[Parallel-Forms Reliability\|复本信度]]）。
 > - **不声称回答的问题** 无法直接探究行动者在微观互动中主观赋予世界的流动意义与前诠释结构；无法捕捉逃逸于标准化指标缝隙的情境机智与偶发突变；不能脱离实质理论将纯粹的统计相关直接等同于现实因果机制。
 
 > [!method-stack] 方法层级
 > - **研究设计** [[Randomised Controlled Trials\|随机对照试验]]、[[Quasi-Experimental Designs\|准实验设计]]、[[Survey Research\|调查研究]]、纵向[[Cohort Study\|追踪研究]]、相关与比较设计。
-> - **数据收集** 标准化认知测验、心理[[Scale of Measurement\|测量量表]]、封闭式[[Questionnaire\|问卷]]调查、系统性[[Classroom Observation|课堂观察]][[Coding in Qualitative Research\|编码]]表、国家与区域行政数据库。
+> - **数据收集** 标准化认知测验、心理[[Scale of Measurement\|测量量表]]、封闭式[[Questionnaire\|问卷]]调查、系统性[[Classroom Observation|课堂观察]]编码表、国家与区域行政数据库。
 > - **分析方法** 参数与非参数检验、[[Analysis of Variance\|方差分析]]（ANOVA）、多元线性回归、逻辑回归、结构方程模型（[[Causal Modeling\|SEM]]）、[[Hierarchical Linear Model\|多层线性模型]]（HLM）、因果推断计量模型（[[Difference-in-Differences\|DID]], [[Regression Discontinuity Design\|RDD]], [[Propensity Score Matching\|PSM]]）。
 > - **辅助技术** [[Random Sampling\|概率抽样]]技术（简单随机抽样、[[Stratified Sampling\|分层抽样]]、[[Cluster Sampling\|整群抽样]]）、先验[[Power Analysis\|统计功效分析]]（G*Power）、缺失数据多重插补、异方差稳健[[Standard Error\|标准误]]校正、多重假设检验校正。
 
@@ -171,7 +167,7 @@ updated: 2026-10-15
 ## 研究程序
 
 > [!proc] 量化研究通用程序
-> 1. 明确理论框架与[[Hypothesis\|研究假设]]：从既有[[Document\|文献]]中提炼核心[[Construct\|构念]]，推导出可检验、可[[Falsification\|证伪]]的定向理论假说或[[Research Question\|研究问题]]。
+> 1. 明确理论框架与[[Hypothesis\|研究假设]]：从既有文献中提炼核心[[Construct\|构念]]，推导出可检验、可[[Falsification\|证伪]]的定向理论假说或[[Research Question\|研究问题]]。
 > 2. 构念[[Operationalization\|操作化]]与指标界定：将抽象构念转化为离散的[[Independent Variable\|自变量]]、[[Dependent Variable\|因变量]]、控制[[Variable\|变量]]、调节变量与中介变量，明确[[Scale of Measurement\|测量尺度]]。
 > 3. 工具开发与测量标定：选用或编制具有良好信效度的标准化量表或[[Questionnaire\|问卷]]，进行[[Pilot Testing\|预测试]]与测量学检验。
 > 4. 样本设计与数据采集：界定[[Study Population and Sample\|目标总体]]，依据功效分析确定[[Sample Size Determination\|样本量]]，实施严格的[[Random Sampling\|概率抽样]]或实验分组（如[[Random Assignment\|随机分配]]），收集标准化数值数据。
@@ -192,8 +188,8 @@ updated: 2026-10-15
 > - **数据处理** 标准化转换、缺失值多重插补（MICE）、逆向计分处理、[[Propensity Score Matching\|倾向得分匹配]]（PSM）与权重赋范。
 > - **推荐软件** R、Python、Stata、SPSS、Mplus、JASP、Jamovi。
 > - **核心包或命令** R 语言中运用 `lavaan` 开展结构方程建模，运用 `lme4` 进行多层线性分析，运用 `fixest` 进行高维面板固定效应估计；Python 运用 `statsmodels` 与 `scikit-learn`；Stata 运用 `regress`、`xtreg` 与 `sem`。
-> - **实现流程** 原始数据校验 $\rightarrow$ 探索性与[[Confirmatory Factor Analysis\|验证性因子分析]]（[[Exploratory Factor Analysis\|EFA]]/CFA） $\rightarrow$ 假设检验主模型拟合 $\rightarrow$ 敏感性与稳健性检验 $\rightarrow$ 规范制表与可视化导出。
-> - **报告标准** 严格遵循 [[APA Style\|APA]] 第 7 版量化研究报告标准（JARS-Quant），透明报告效应量大小、95% 置信区间、自由度、精确 p 值与代码可复现环境。
+> - **实现流程** 原始数据校验 $\rightarrow$ 探索性与[[Confirmatory Factor Analysis\|验证性因子分析]]（EFA/CFA） $\rightarrow$ 假设检验主模型拟合 $\rightarrow$ 敏感性与稳健性检验 $\rightarrow$ 规范制表与可视化导出。
+> - **报告标准** 严格遵循 APA 第 7 版量化研究报告标准（JARS-Quant），透明报告效应量大小、95% 置信区间、自由度、精确 p 值与代码可复现环境。
 
 ---
 

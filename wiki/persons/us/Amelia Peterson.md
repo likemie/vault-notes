@@ -7,7 +7,7 @@ summary: "美国教育研究者，What Works 2.0 框架提出者，为教育研�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 9
+person_related_count: 8
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -22,7 +22,6 @@ tags:
 - region/us
 related_concepts:
   - "[[Paradigm]]"
-  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Mechanism Experiments]]"
@@ -38,7 +37,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 ## 简介
 
@@ -61,7 +60,7 @@ updated: 2026-09-22
 > [[Argument_Peterson_2016_IJRME\|Peterson (2016, pp. 307–308)]] 提出实施"什么有效 2.0"的三个初步步骤：
 >
 > 1. **从其他领域学习** 汇集英国各 What Works 中心的资金建立跨领域研究者探究小组，将公共健康、社会政策和教育领域的从业者聚集在一起，分享识别测试机制的专业知识
-> 2. **从伙伴关系方法中提取学习** What Works 系统行动者承担协调机构的新角色，系统性地捕捉和精炼跨网络和现有试验库中的"猜想"——即从业者和研究者在改编项目使其在情境中有效时关于什么导致学生改进的隐含[[Hypothesis\|假设]]
+> 2. **从伙伴关系方法中提取学习** What Works 系统行动者承担协调机构的新角色，系统性地捕捉和精炼跨网络和现有试验库中的"猜想"——即从业者和研究者在改编项目使其在情境中有效时关于什么导致学生改进的隐含假设
 > 3. **建立报告机制的标准化方法**[[Education Endowment Foundation\|EEF]] 等 What Works 中心承担开发教育变革关键机制分类学的角色——类似于行为改变技术分类学（Michie et al., 2013，已获 250+ 引用），以不同概括层次对机制进行分类，区分在一般、人群或情境特定层面的有效性证据
 
 ## 主要著作

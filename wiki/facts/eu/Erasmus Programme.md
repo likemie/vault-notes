@@ -12,7 +12,7 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 28
+fact_related_count: 27
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -42,7 +42,6 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Academic Inbreeding]]"
   - "[[Paradigm]]"
-  - "[[Document]]"
 related_theories:
   - "[[Governmentality]]"
   - "[[Spatial Governmentality]]"
@@ -190,7 +189,7 @@ updated: 2026-10-15
 > | [[TEMPUS]] | Fact (Program) | **外围辐射衍生** 欧盟将伊拉斯谟的校际合作与学分互认经验推广至非成员国及东欧邻国的平行项目。 |
 > | [[Bologna Process]] | Fact (Policy) | **体制对齐框架** 博洛尼亚进程的三级学位与欧洲学分互认改革，直接奠定并扩展了伊拉斯谟计划的制度土壤。 |
 > | [[Spatial Governmentality]] | Theory | **解释理论工具** 透视超国家机构如何通过空间流动调控与网络化连接对青年劳动力实施[[Governing at a Distance\|远距治理]]。 |
-> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] | 论证 | 深入解构伊拉斯谟流动性政策话语如何将劳动力市场风险个体化的学术[[Document\|文献]]。 |
+> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] | 论证 | 深入解构伊拉斯谟流动性政策话语如何将劳动力市场风险个体化的学术文献。 |
 > | [[Argument_Garcia_Garrido_2009_SpainEU\|García Garrido (2009)]] | 论证 | 揭示西班牙成为伊拉斯谟第一大接收国背后的非学术驱动机制，批判将流动规模混同于大学质量的自满假象。 |
 > | [[José Luis García Garrido]] | 人物 | 比较教育学者，深入剖析伊拉斯谟计划在南欧大学实践中的流动性悖论与大学近亲繁殖。 |
 

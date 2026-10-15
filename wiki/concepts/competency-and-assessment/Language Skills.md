@@ -10,7 +10,7 @@ aliases:
 summary: "在课程与教学论及应用语言学中，指学习者在第一语言（L1）或第二语言/外语（L2/FL）中理解、组织与表达意义的多维可测量能力构念，涵盖听、说、读、写四大技能及语法词汇、体裁结构与交际流利度。在教育技术与生成式人工智能干预实证中，该构念常作为核心产出变量，表现出对自然语言模型的强敏感性与显著促学效应（g+ = 2.331），但易受发表偏倚与小研究效应影响。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 26
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -26,13 +26,11 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Problem Solving]]"
   - "[[Dialogue in Education]]"
-  - "[[Teaching Assistant]]"
   - "[[Cognitive Offloading]]"
   - "[[Decodification]]"
   - "[[Affective Outcomes]]"
   - "[[Publication Bias]]"
   - "[[Critical Thinking]]"
-  - "[[Hypothesis]]"
   - "[[AI Agent in Education]]"
   - "[[Heterogeneity]]"
   - "[[Dependent Variable]]"
@@ -55,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-04
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Language Skills
@@ -86,7 +84,7 @@ updated: 2026-09-17
 > |---|---|---|---|
 > | 核心关注 | 符号组织、句法结构、词汇运用与听说读写交际流利度 | 学科事实识记、公式推导、概念理解与期末测验分数 | 逻辑推理、批判性审视、多视角反思与劣构[[Problem Solving\|问题解决]] |
 > | 典型评价工具 | 托福/雅思写作量规、口语即时[[Dialogue in Education\|对话]]流利度、词汇语法测验 | 标准化学科考试、课程期末统考、平时绩点（GPA） | 真实任务表现量规、[[California Critical Thinking Skills Test\|加州批判性思维测验]]、反思辩护报告 |
-> | AI 干预敏感度 | **极高** — 自然语言模型底层基于符号概率分布，即时纠错赋能显著 | **中等** — 依赖于概念解释、例题练习与[[Teaching Assistant\|助教]]答疑 | **中等至审慎** — 易诱发[[Cognitive Offloading\|认知卸载]]，表面文本流畅掩盖深层推理缺陷 |
+> | AI 干预敏感度 | **极高** — 自然语言模型底层基于符号概率分布，即时纠错赋能显著 | **中等** — 依赖于概念解释、例题练习与助教答疑 | **中等至审慎** — 易诱发[[Cognitive Offloading\|认知卸载]]，表面文本流畅掩盖深层推理缺陷 |
 
 ---
 
@@ -120,7 +118,7 @@ updated: 2026-09-17
 > 文本生成的表观完善容易遮蔽学生在认知加工深度上的不足，语言技能维度的单向突进并不必然带动元认知监控与[[Critical Thinking\|批判性思维]]的同步提升。
 
 > [!claim] Chen & Cheung
-> **学习产出呈现语言技能向元认知单调递减的心智加工深度级差** 促学[[Effect Size\|效应量]]呈现“语言技能（$2.331$）$>$ 学业成绩（$0.633$）$>$ 情感动机（$0.617$）$>$ 高阶思维（$0.580$）$>$ 元认知（$0.078$，不显著）”的显著阶梯结构，推翻了技术全能主义[[Hypothesis\|假设]]。这证明智能工具对表层符号转换与规则模仿能提供强效杠杆，但若缺乏显性的反思与策略训练，学生往往难以将语言技能获益自动迁移为深层自我监控与高阶思维能力。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 15–16)]]
+> **学习产出呈现语言技能向元认知单调递减的心智加工深度级差** 促学[[Effect Size\|效应量]]呈现“语言技能（$2.331$）$>$ 学业成绩（$0.633$）$>$ 情感动机（$0.617$）$>$ 高阶思维（$0.580$）$>$ 元认知（$0.078$，不显著）”的显著阶梯结构，推翻了技术全能主义假设。这证明智能工具对表层符号转换与规则模仿能提供强效杠杆，但若缺乏显性的反思与策略训练，学生往往难以将语言技能获益自动迁移为深层自我监控与高阶思维能力。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 15–16)]]
 
 ---
 

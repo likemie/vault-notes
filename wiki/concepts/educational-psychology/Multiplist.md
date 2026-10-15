@@ -8,14 +8,13 @@ aliases:
 summary: "论辩推理模型中的中间认识论立场，主张知识纯属主观意见，所有观点都同等有效；在人机共生学习中表现为意识到大模型输出的多样性但缺乏客观评判标准，导致选择迷失与批判性比较匮乏。"
 type: concept
 domain: "educational-psychology"
-related_count: 27
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
 related_concepts:
   - "[[Epistemology]]"
   - "[[Generative Artificial Intelligence]]"
-  - "[[Teaching Assistant]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Evaluative Judgement]]"
   - "[[Critical Thinking]]"
@@ -25,7 +24,6 @@ related_concepts:
   - "[[Evaluativist]]"
   - "[[Knowledge Production]]"
   - "[[Variable]]"
-  - "[[Hypothesis]]"
   - "[[Scale of Measurement]]"
   - "[[Problem Solving]]"
   - "[[Dialogue in Education]]"
@@ -42,11 +40,10 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Chi-Squared Test]]"
   - "[[Pearson Product-Moment Correlation]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 status: active
 created: 2026-08-15
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Multiplist
@@ -60,7 +57,7 @@ updated: 2026-10-07
 
 > [!concept-lens] 概念透镜
 > - **含义** 标志着个体从盲从权威的绝对客观，彻底滑向了相对主义的主观立场，完全被主观维度主导。
-> - **用途** 帮[[Teaching Assistant\|助教]]育者理解为什么部分学生能够接纳多种声音，却极度抗拒对声音进行批判性比较；解释人机交互中学生为何提出泛化追问却无法做出定论。
+> - **用途** 帮助教育者理解为什么部分学生能够接纳多种声音，却极度抗拒对声音进行批判性比较；解释人机交互中学生为何提出泛化追问却无法做出定论。
 > - **[[Man-Computer Symbiosis|人机共生]]视界** 在智能中介环境中，多元主义立场虽优于绝对主义的盲从，但极易导致认知参与停留在发散层面，无法落实基于因果证据的[[Evaluative Judgement\|评价性判断]]。
 > - **边界** 在品味和审美领域成为多元论者是自然的，但在科学事实、数据推论和价值观领域停留在多元论，则是[[Critical Thinking\|批判性思维]]与[[Epistemic Agency\|认识主体性]]发展的阻碍。
 
@@ -89,7 +86,7 @@ updated: 2026-10-07
 > - **主观性的极端化（彻底的相对主义）** [[Knowledge Production\|知识生成]]过程被归结为人脑内部完全不受外部现实约束的自由生成，从而消解了客观标准。由于不存在共同遵守的判断准则，理性论辩失去了意义。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, p. 314)]]
 > - **“投毒”式的极速渗透机制** 主观性的觉醒极具传染力。正如 Chandler 等人（1990）所言，只要个体在某一领域（如觉得不同的人对什么菜好吃有不同的看法）承认了主观性的存在，就像在认知之井里投入了一滴毒药，这种“一切皆为主观感受”的逻辑会以极快的速度蔓延并解构原本的绝对客观体系，导致个体极速滑向多元论。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, p. 320)]]
 > - **宽容陷阱的伪装** 许多成人在价值观领域的多元论立场，往往被现代社会推崇的“宽容”、“接纳”与“求同存异”的美德所包裹，将其误认为是对他人权利的尊重，从而抑制了向高阶发展的动力。[[Argument_Kuhn_2000_CD\|(Kuhn et al., 2000, p. 325-326)]]
-> - **生成式 AI 交互中的选择迷失与批判匮乏** 在面对大模型输出的多种代码、算法或论点时，多元论者缺乏依据[[Variable\|变量]]类型、[[Sample Size Determination\|样本量]]或前提[[Hypothesis\|假设]]进行因果检验的自发意愿，往往依靠直觉或便利性随意挑选。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 363–364)]]
+> - **生成式 AI 交互中的选择迷失与批判匮乏** 在面对大模型输出的多种代码、算法或论点时，多元论者缺乏依据[[Variable\|变量]]类型、[[Sample Size Determination\|样本量]]或前提假设进行因果检验的自发意愿，往往依靠直觉或便利性随意挑选。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 363–364)]]
 
 ---
 
@@ -123,7 +120,7 @@ updated: 2026-10-07
 > 揭示大语言模型输出的多样性如何成为[[Pluralism|多元主义]]者的认知陷阱，以及如何通过支架干预实现评价论跃迁。
 
 > [!claim] Wu et al.
-> **算法多元呈现下的评价性缺失与双轨干预** [[Generative Artificial Intelligence\|生成式人工智能]]具备强大的多视角生成能力，能够根据提示词瞬间提供三到五种不同解法。持有多元主义立场的学生虽能意识到不同解法并存（例如追问[[Chi-Squared Test\|卡方检验]]与[[Pearson Product-Moment Correlation\|皮尔逊相关]]系数的异同），但由于缺乏依据数据分布、[[Scale of Measurement\|测量尺度]]与统计[[Hypothesis\|假设]]进行权衡的评价标准，极易在多种选项前迷失或随意定夺。要突破多元主义的相对主义瓶颈，教学中必须引入技术侧提示词支架（要求模型显式输出每种方案的前提假设与边界）与教学侧同行评审支架（迫使学生向同伴公开辩护方案选择理由），驱动其[[Epistemic Stances\|认识立场]]向评价主义演进。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 363–366)]]
+> **算法多元呈现下的评价性缺失与双轨干预** [[Generative Artificial Intelligence\|生成式人工智能]]具备强大的多视角生成能力，能够根据提示词瞬间提供三到五种不同解法。持有多元主义立场的学生虽能意识到不同解法并存（例如追问[[Chi-Squared Test\|卡方检验]]与[[Pearson Product-Moment Correlation\|皮尔逊相关]]系数的异同），但由于缺乏依据数据分布、[[Scale of Measurement\|测量尺度]]与统计假设进行权衡的评价标准，极易在多种选项前迷失或随意定夺。要突破多元主义的相对主义瓶颈，教学中必须引入技术侧提示词支架（要求模型显式输出每种方案的前提假设与边界）与教学侧同行评审支架（迫使学生向同伴公开辩护方案选择理由），驱动其[[Epistemic Stances\|认识立场]]向评价主义演进。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 363–366)]]
 
 ---
 
@@ -163,7 +160,7 @@ updated: 2026-10-07
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Kuhn_2000_CD\|Kuhn et al. (2000)]] | N=129名成人/青少年及N=21名儿童 | 跨领域的[[Epistemology\|认识论]]评估工具（15题标准化测试） | 多元论模式在五个判断领域的分布 | 在非专家组中，纯粹处于彻底多元论（除个人品味外的所有核心领域均为多元论，即 MMMM 模式）的占比最高（37人，约占非专家子样本的35%），证实这是从青春期到成年的普遍停滞状态。 | — | 此模式为数据频次分布最高项，反映典型状态。 |
-> | [[Argument_Wu_2025_ER\|Wu et al. (2025, pp. 363–364)]] | 大学生统计推论与数据分析任务 | 人机交互[[Dialogue in Education\|对话]]分析与认知追踪 | [[Epistemic Stances\|认识立场]]分类与 AI 多元方案权衡表现 | 持多元论立场的学生向 ChatGPT 索取了多种不同检验公式并记录下来，但在最终[[Homework\|作业]]中未作任何针对数据尺度的比较性推演，随机选填其中一种；在引入同行评审支架后评价性论辩显著增加。 | 质性交互[[Coding in Qualitative Research\|编码]]与方案对比 | 证实多元论立场在大模型环境下的评价性匮乏。 |
+> | [[Argument_Wu_2025_ER\|Wu et al. (2025, pp. 363–364)]] | 大学生统计推论与数据分析任务 | 人机交互[[Dialogue in Education\|对话]]分析与认知追踪 | [[Epistemic Stances\|认识立场]]分类与 AI 多元方案权衡表现 | 持多元论立场的学生向 ChatGPT 索取了多种不同检验公式并记录下来，但在最终[[Homework\|作业]]中未作任何针对数据尺度的比较性推演，随机选填其中一种；在引入同行评审支架后评价性论辩显著增加。 | 质性交互编码与方案对比 | 证实多元论立场在大模型环境下的评价性匮乏。 |
 
 ---
 

@@ -8,7 +8,7 @@ summary: "系统综述的一种质性证据综合方法，以先验框架组织�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 29
+method_related_count: 28
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -19,7 +19,6 @@ tags:
   - methodology
 related_concepts:
   - "[[Emergence]]"
-  - "[[Document]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Positivism]]"
@@ -36,13 +35,13 @@ related_theories:
 related_methods:
   - "[[Systematic Review]]"
   - "[[Analytic Framework]]"
-  - "[[Coding in Qualitative Research]]"
+  - "[[Open Coding]]"
   - "[[Mixed Methods Research]]"
   - "[[Intercoder Agreement]]"
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Thematic Synthesis]]"
-  - "[[Open Coding]]"
+  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments:
   - "[[PRISMA]]"
@@ -56,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Framework Synthesis
@@ -66,10 +65,10 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 方法定义
-> 框架综合（Framework Synthesis）是[[Systematic Review\|系统综述]]中处理多样化实证证据的一种质性综合方法：研究者先基于既有理论或概念框架构建一个先验的"最佳拟合"[[Analytic Framework\|分析框架]]，再以该框架作为初始[[Coding in Qualitative Research\|编码]]与数据组织的模板，在综合过程中允许新主题从数据中[[Emergence\|涌现]]并迭代修订框架（Brunton et al., 2020; Booth et al., 2022; Gough et al., 2017）。框架综合源于框架分析（Framework Analysis），后者最初用于分析研究数据以服务政策议题（Gale et al., 2013）。
+> 框架综合（Framework Synthesis）是[[Systematic Review\|系统综述]]中处理多样化实证证据的一种质性综合方法：研究者先基于既有理论或概念框架构建一个先验的"最佳拟合"[[Analytic Framework\|分析框架]]，再以该框架作为[[Open Coding|初始编码]]与数据组织的模板，在综合过程中允许新主题从数据中[[Emergence\|涌现]]并迭代修订框架（Brunton et al., 2020; Booth et al., 2022; Gough et al., 2017）。框架综合源于框架分析（Framework Analysis），后者最初用于分析研究数据以服务政策议题（Gale et al., 2013）。
 
 > [!method-scope] 方法范围
-> - **研究对象** 已发表的实证研究[[Document\|文献]]，可涵盖定量、质性与[[Mixed Methods Research\|混合方法]]设计；纳入研究的结果章节与部分讨论章节。
+> - **研究对象** 已发表的实证研究文献，可涵盖定量、质性与[[Mixed Methods Research\|混合方法]]设计；纳入研究的结果章节与部分讨论章节。
 > - **问题类型** 适合回答描述性、解释性与整合性问题，尤其是"现象如何被框定""什么条件促进或阻碍某个过程"这类需要理论透镜的问题。
 > - **[[Unit of Analysis\|分析单位]]** 单项研究（study-level）为基本分析单位，研究内的数据段为编码单位；不同层级的主题是综合输出单位。
 > - **输出形式** 映射到先验框架的结构化主题、跨框架层级的横切机制，以及修订后的框架或理论模型。
@@ -86,13 +85,13 @@ updated: 2026-09-17
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 方法本身认识论上灵活，可配合[[Positivism\|实证主义]]也可配合[[Critical Realism\|批判实在论]]。批判实在论取向把表面可观察的模式解释为深层机制的结构化生成物，因而把分析注意力引向"支配[[Research Utilization\|研究使用]]的条件与机制"，而不是仅作屏障与促进因素频数统计（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al., 2026, p.6]]）。
 > - **研究者角色** 研究者既是证据的组织者，也是理论的整合者：先验框架的选择本身承载理论判断，随后的配置式（configurative）分析也依赖研究团队的解释性协商。
-> - **有效性标准** 先验框架须来自同行评议[[Document\|文献]]、具备概念清晰性与可[[Operationalization\|操作化]]程度，并适配数据；[[Intercoder Agreement\|编码者间信度]]、双盲筛选与团队协商用于控制解释偏差。
+> - **有效性标准** 先验框架须来自同行评议文献、具备概念清晰性与可[[Operationalization\|操作化]]程度，并适配数据；[[Intercoder Agreement\|编码者间信度]]、双盲筛选与团队协商用于控制解释偏差。
 > - **不声称回答的问题** 框架综合本身不能建立因果效果，也不能替代原始研究产生新数据；先验框架可能使分析对框架未覆盖的维度失明。
 
 > [!method-stack] 方法层级
 > - **研究设计** [[Systematic Review\|系统综述]]内的证据综合阶段；总体遵循[[PRISMA]]报告框架。
 > - **数据收集** 数据库检索（如 Scopus、Web of Science、[[Education Resources Information Center\|ERIC]]）、筛选与全文获取；通常配合 [[EPPI-Centre\|EPPI]]-Reviewer 等软件管理。
-> - **分析方法** 框架分析（两阶段：描述性特征提取 + 基于先验框架主节点的[[Coding in Qualitative Research\|编码]]）；聚合式（aggregative）计数与配置式（configurative）跨层主题识别。
+> - **分析方法** 框架分析（两阶段：描述性特征提取 + 基于先验框架主节点的编码）；聚合式（aggregative）计数与配置式（configurative）跨层主题识别。
 > - **辅助技术** 双盲筛选、质量评估工具（如[[Mixed Methods Appraisal Tool\|混合方法评价工具]]（Mixed Methods Appraisal Tool, MMAT））、NVivo 编码软件、共识式团队讨论。
 
 ---
@@ -100,8 +99,8 @@ updated: 2026-09-17
 ## 研究程序
 
 > [!proc] 通用程序
-> 1. **提出问题与检索[[Document\|文献]]** 明确[[Research Question\|研究问题]]，制定纳入排除标准，在多个数据库执行系统检索。
-> 2. **构建初始框架** 综合既有理论或概念框架，形成先验的初始概念框架作为[[Coding in Qualitative Research\|编码]]模板。
+> 1. **提出问题与检索文献** 明确[[Research Question\|研究问题]]，制定纳入排除标准，在多个数据库执行系统检索。
+> 2. **构建初始框架** 综合既有理论或概念框架，形成先验的初始概念框架作为编码模板。
 > 3. **数据提取** 分两阶段：先提取每项研究的描述性特征（年份、国家、设计、对象等），再以研究问题对应主节点对结果（及部分讨论）文本编码。
 > 4. **综合与分析** 聚合式分析将发现映射到先验框架并统计来源研究数；配置式分析跨越框架层级识别反复出现的横切主题。
 > 5. **质量评估** 用标准工具评估纳入研究质量，并只把低质量研究的独有发现当作弱证据处理。
@@ -127,7 +126,7 @@ updated: 2026-09-17
 > - **偏误来源** 先验框架会敏化分析者注意系统性与关系性模式，可能使个体层面因素在配置式综合中相对不突出；团队的[[Theoretical Perspective\|理论取向]]不同，识别的机制可能被赋予不同权重（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al., 2026, p.6]]）。
 > - **适用边界** 综合结论的[[External Validity\|可推广性]]受纳入研究情境（如英语国家与西欧学校）限制；框架的跨情境适用性需后续实证检验。
 > - **误用风险** 把先验框架当成"结论"而不是"透镜"；或把配置式综合中识别出的机制误读为因果效应。
-> - **补救方式** 透明报告先验框架来源与修订过程；采用双盲[[Coding in Qualitative Research\|编码]]、团队共识与[[Intercoder Agreement\|编码者间信度]]；用多框架互补减少单一框架的盲点。
+> - **补救方式** 透明报告先验框架来源与修订过程；采用双盲编码、团队共识与[[Intercoder Agreement\|编码者间信度]]；用多框架互补减少单一框架的盲点。
 
 ---
 

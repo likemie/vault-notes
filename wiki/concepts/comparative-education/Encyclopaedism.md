@@ -5,7 +5,7 @@ aliases:
 summary: "一种以广泛覆盖既定学科知识和准确复现事实为通识教育标准的课程范式，可解释多科目课程的浅层学习、考试反拨以及能力改革中旧有分科结构的延续。"
 type: concept
 domain: "comparative-education"
-related_count: 21
+related_count: 20
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Theory of Knowledge]]"
   - "[[Geisteswissenschaften]]"
-  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods:
   - "[[Correlational Research]]"
@@ -44,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Encyclopaedism
@@ -163,4 +162,4 @@ updated: 2026-10-07
 
 > [!evidence-grid] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987)]] 追踪欧洲[[General Education\|通识教育]]从多科目知识覆盖转向多种思维方式的过程，并以 IB 的六学科、共同核心和深度选项呈现课程回应。
-> - [[Argument_Beech_2009_CE\|Beech (2009)]] 追踪全球教育[[Discourse|话语]]在拉丁美洲的[[Transfer Translation Transformation\|转译]]，揭示百科全书式分科如何在能力与跨学科改革语言中继续存在。
+> - [[Argument_Beech_2009_CE\|Beech (2009)]] 追踪全球教育[[Discourse|话语]]在拉丁美洲的转译，揭示百科全书式分科如何在能力与跨学科改革语言中继续存在。

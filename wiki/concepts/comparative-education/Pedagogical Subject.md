@@ -8,7 +8,7 @@ aliases:
 summary: "批判教育政治社会学与拉美国家批判理论的核心构念，指公立教育体系在宪法契约层面所培育的具备民主权利、公共理性与反思抗辩能力的政治公民，遭到新自由主义国家撤资与市场化改革的根本性侵蚀，公民由此被降格为自负盈亏的教育消费者"
 type: concept
 domain: "comparative-education"
-related_count: 16
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -36,7 +36,6 @@ related_theories:
 related_methods: []
 related_instruments: []
 related_persons:
-  - "[[Carlos Alberto Torres]]"
   - "[[Adriana Puiggrós]]"
   - "[[Paulo Freire]]"
 related_facts: []
@@ -45,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-09-28
+updated: 2026-10-15
 ---
 
 # Pedagogical Subject
@@ -62,7 +61,7 @@ updated: 2026-09-28
 > - **用途** 作为反思与批判新自由主义教育改革的核心规范尺度，揭示市场化改革如何摧毁教育的公共属性。
 > - **边界** 不等于心理学或教学法层面被动吸收知识的“学习者（Learner/Student）”，亦不等于新古典经济学中追求个人[[Return on Investment|投资回报]]的“[[Human Capital Theory|人力资本]]所有者（Human Capital Agent）”。
 
-> [!citation-card] [[Carlos Alberto Torres|托雷斯]]与[[Adriana Puiggrós|普伊格罗斯]]论国家撤资对教育主体建构的制度性侵蚀
+> [!citation-card] 托雷斯与[[Adriana Puiggrós|普伊格罗斯]]论国家撤资对教育主体建构的制度性侵蚀
 > 相似的论断适用于拉丁美洲公共教育投资的国家撤资现象，以及这一过程如何严重损害了公民作为教育主体的形塑。当国家将教育职能让渡给市场逻辑，公民不再被视为具备政治反思与民主参与权利的公共主体，而是被异化为孤立的教育市场消费者。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 79)]]
 >
 > *A similar argument is made about the withdrawal of state investment in public education in Latin America and how that would affect the constitution of citizens as pedagogical subjects (Torres & Puiggrós, 1995).*
@@ -96,7 +95,7 @@ updated: 2026-09-28
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Adriana Puiggrós]] | 人物 | 与[[Carlos Alberto Torres\|托雷斯]]共同开创拉美教育主体[[Critical Theory\|批判理论]]框架。 |
+> | [[Adriana Puiggrós]] | 人物 | 与托雷斯共同开创拉美教育主体[[Critical Theory\|批判理论]]框架。 |
 > | [[Popular Education]] | 概念 | 民众教育为重塑底层的[[Reflexivity\|反思性]]教育主体提供了实践武器。 |
 > | [[Endogenous and Exogenous Privatisation]] | 概念 | 私有化改革是瓦解教育主体公共性的直接制度根源。 |
 > | [[Conditioned State Theory]] | 理论 | 外围受限国家屈从于跨国资本积累导致教育主体宪法契约崩溃。 |

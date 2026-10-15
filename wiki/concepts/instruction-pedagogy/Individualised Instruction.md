@@ -6,7 +6,7 @@ aliases:
 summary: "围绕学生差异调整内容、节奏与支持方式的教学安排，但其效果高度依赖教师结构和学生前提条件，不能简单等同于把学习责任交给学生。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -16,7 +16,6 @@ tags:
   - subject/instruction
   - level/k12
 related_concepts:
-  - "[[Document]]"
   - "[[Structured Teaching]]"
   - "[[Direct Instruction]]"
   - "[[Feedback]]"
@@ -47,7 +46,7 @@ updated: 2026-10-15
 > [!info] 定义
 > 个别化教学（individualised instruction）指教师根据学生差异，在内容、进度、任务难度、支持方式或学习路径上做出调整，以回应学生不同的能力、兴趣和学习节奏。它的核心问题不是“是否让学生自己做”，而是“教师如何在差异面前组织支持”([[Argument_Laursen_2015_Paideia\|Laursen, 2015, p.38]])。
 >
-> 在当前 vault 的[[Document\|文献]]链里，这个概念经常和“教学差异化”相邻出现，但两者并不完全等同。英语语境中的 individualised instruction 只是对北欧讨论中“教学差异化”的近似参照。
+> 在当前 vault 的文献链里，这个概念经常和“教学差异化”相邻出现，但两者并不完全等同。英语语境中的 individualised instruction 只是对北欧讨论中“教学差异化”的近似参照。
 
 ---
 

@@ -11,7 +11,7 @@ subtype: policy
 region: global
 fact_region: "global"
 fact_kind: "policy"
-fact_related_count: 11
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[Total Quality Management]]"
   - "[[National Innovation System]]"
-  - "[[Hypothesis]]"
 related_theories:
   - "[[Evolutionary Economics]]"
 related_persons:
@@ -42,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-15
 ---
 
 # Frascati Manual
@@ -115,4 +114,4 @@ updated: 2026-10-05
 > | [[OECD]] | Fact (Organization) | 《弗拉斯卡蒂手册》的研制、发布与持续维护国际组织。 |
 > | [[National Innovation System]] | Concept | 手册提供了其基础量化指标，同时也成为反思其宏观制度复杂性的对比镜像。 |
 > | [[Chris Freeman]] | Person | 手册的核心参与起草者之一与指标批判性反思者。 |
-> | [[Vannevar Bush]] | Person | 手册底层的研发三分类与布什的科学单向线性推动[[Hypothesis\|假设]]高度契合。 |
+> | [[Vannevar Bush]] | Person | 手册底层的研发三分类与布什的科学单向线性推动假设高度契合。 |

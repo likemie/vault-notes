@@ -25,9 +25,9 @@ tags:
   - essa-strong
   - region/us
 related_concepts:
-  - "[[Teaching Assistant]]"
   - "[[Structured Teaching]]"
   - "[[Evidence Standards]]"
+  - "[[Teaching Assistant]]"
   - "[[Response to Proven Instruction]]"
   - "[[Response to Intervention]]"
   - "[[Business as Usual]]"
@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Pirate Math
@@ -73,7 +73,7 @@ updated: 2026-09-17
 ## 方案设计与运行机制
 
 > [!claim] 核心干预假说
-> 通过显性指导学生识别文字应用题的内在语义结构基模，并结合海盗主题脚本将语义关系转化为含未知数的标准化代数算式（如 $a + b = c$ 或 $a - b = c$），由非专业教学[[Teaching Assistant\|助教]]实施一对一[[Structured Teaching\|结构化教学]]，能够显著改善高危儿童的问题表征与迁移能力，在标准化应用题测试上取得实质性学业增益。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> 通过显性指导学生识别文字应用题的内在语义结构基模，并结合海盗主题脚本将语义关系转化为含未知数的标准化代数算式（如 $a + b = c$ 或 $a - b = c$），由非专业教学助教实施一对一[[Structured Teaching\|结构化教学]]，能够显著改善高危儿童的问题表征与迁移能力，在标准化应用题测试上取得实质性学业增益。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
 
 > [!policy-design] 方案设计与教学规程
 > - **三大核心数学应用题基模（Schemas）** 方案聚焦加减法文字应用题的三大底层结构：
@@ -86,7 +86,7 @@ updated: 2026-09-17
 > [!citation-card] 斯莱文论 Pirate Math 助教辅导的实证效能
 > 在初等数学领域，不仅小组辅导成效显著，由教学助教开展的一对一辅导同样被证明高度有效。例如在三年级开展的 Pirate Math 辅导项目，在严格[[Randomised Controlled Trials\|随机对照试验]]中取得了 +0.37 的学业[[Effect Size\|效应量]]，完全达到了《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）的强[[Evidence Standards\|证据标准]]。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
 >
-> *Tutoring provided by paraprofessionals using structured approaches was also effective in mathematics. For example, Pirate Math, delivered by teaching assistants to third graders in 1:1 sessions, produced an effect size of +0.37, qualifying for the Strong rating under ESSA.*
+> *Tutoring provided by paraprofessionals using structured approaches was also effective in mathematics. For example, Pirate Math, delivered by [[Teaching Assistant|Teaching Assistants]] to third graders in 1:1 sessions, produced an effect size of +0.37, qualifying for the Strong rating under ESSA.*
 
 ---
 
@@ -94,7 +94,7 @@ updated: 2026-09-17
 
 > [!dev-timeline] Pirate Math 发展历程
 > - **2008–2012 — 方案研发与基模先导试验** 范德堡大学 Fuchs 团队（Fuchs et al., 2008, 2010）针对小学二年级和三年级开展系列先导 [[Randomised Controlled Trials\|RCT]]，验证结合代数方程的基模教学法在消除应用题认知缺陷上的突破性成效。
-> - **2013–2018 — [[Teaching Assistant\|助教]]实施效能验证与多中心复现** 团队由萨拉·鲍威尔（Sarah Powell）等学者主导推进，系统验证了低成本教学助教在无资深数学专业背景下，完全依照标准化操作脚本实施 Pirate Math 的高保真度与显著学业成效。
+> - **2013–2018 — 助教实施效能验证与多中心复现** 团队由萨拉·鲍威尔（Sarah Powell）等学者主导推进，系统验证了低成本教学助教在无资深数学专业背景下，完全依照标准化操作脚本实施 Pirate Math 的高保真度与显著学业成效。
 > - **2019–至今 — 确立为 [[Every Student Succeeds Act\|ESSA]] 强证据基石与开放资源普及** 被斯莱文在桑代克奖演说中作为初等数学 Tier 3 助教个别辅导的旗舰案例列入[[Response to Proven Instruction\|循证干预反应]]（RTPI）框架，同时项目以开放科学模式公开发布全部教学材料与培训视频。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
 
 ---
@@ -102,8 +102,8 @@ updated: 2026-09-17
 ## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
-> - **方案研发与培训方（范德堡大学 / UT Austin）** 研发海盗主题学生工作手册、未知数代数卡具及[[Teaching Assistant\|助教]]操作手册，向各学区提供师资培训。
-> - **一线执行人员（教学助教 Teaching Assistants）** 接受 1–2 天集中操作培训，负责每日对高危学生进行一对一微辅导并登记每日解题金币奖励。
+> - **方案研发与培训方（范德堡大学 / UT Austin）** 研发海盗主题学生工作手册、未知数代数卡具及助教操作手册，向各学区提供师资培训。
+> - **一线执行人员（教学助教 [[Teaching Assistant|Teaching Assistants]]）** 接受 1–2 天集中操作培训，负责每日对高危学生进行一对一微辅导并登记每日解题金币奖励。
 > - **校级协调员（数学干预专员 / [[Response to Intervention\|RTI]] 协调员）** 负责基于全校秋季通用筛查甄别入组儿童，监控辅导进度并评估学业退出标准。
 > - **干预受益儿童（小学三年级学困生）** 在安全接纳的环境中接受结构化辅导，逐步建立对应用题语义架构的主动建构与解题自信。
 
@@ -114,7 +114,7 @@ updated: 2026-09-17
 > [!finding-cards] 核心实证结论
 > - **显著的标准化应用题学业[[Effect Size\|效应量]]** 在独立第三方大样本[[Randomised Controlled Trials\|随机对照试验]]中，接受 Pirate Math 辅导的学生在全国标准化数学[[Problem Solving Inventory\|问题解决测验]]（如 Iowa Test of Basic Skills, KeyMath）上取得了平均 $+0.37$ 的显著效应量，达到 [[Every Student Succeeds Act\|ESSA]] Strong 强证据等级。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
 > - **优异的认知基模远迁移能力** 追踪评估显示，学生不仅在直接受训的问题类型上表现优异，而且在面对从未练习过的新颖干扰情境与复合步骤应用题时，同样展现出远超[[Business as Usual\|常规对照组]]的结构迁移水平。
-> - **跨师资模式的稳健可复制性** 实证研究证明，教学[[Teaching Assistant\|助教]]与具备正规教师资质的认证专业人员在执行 Pirate Math 时取得的效应量未呈现统计学显著差异，充分证明了高质量脚本化方案对实施者专业门槛的解耦作用。
+> - **跨师资模式的稳健可复制性** 实证研究证明，教学助教与具备正规教师资质的认证专业人员在执行 Pirate Math 时取得的效应量未呈现统计学显著差异，充分证明了高质量脚本化方案对实施者专业门槛的解耦作用。
 
 > [!stat-cards]- 关键实证数据
 > - **+0.37** 随机对照试验测得的三年级数学[[Problem Solving\|问题解决]]标准化平均效应量（$ES$），获 ESSA 强证据最高评级。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
@@ -126,7 +126,7 @@ updated: 2026-09-17
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 Pirate Math 列为初等数学 Tier 3 一对一[[Teaching Assistant\|助教]]辅导的标志性强证据方案。
+> - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 Pirate Math 列为初等数学 Tier 3 一对一助教辅导的标志性强证据方案。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，阐释如何利用 Pirate Math 等强证据工具在 Tier 3 个别辅导中阻断学困生转介特殊教育。
 > - [[Fraction Face-Off!]] — 同属范德堡大学 Fuchs 团队研发的强证据初等数学方案，侧重四年级分数概念与数轴表征。
 > - [[Catch Up Numeracy]] — 英国初等数学助教一对一干预代表方案，与 Pirate Math 形成英美跨国对照。

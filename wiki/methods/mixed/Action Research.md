@@ -6,7 +6,7 @@ summary: "研究者与实践者合作，通过计划—行动—观察—反思�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 68
+method_related_count: 65
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -38,7 +38,6 @@ related_concepts:
   - "[[Grand Theory]]"
   - "[[Concurrency of Learning]]"
   - "[[Discourse]]"
-  - "[[Document]]"
   - "[[Research Question]]"
   - "[[Creativity]]"
   - "[[Research Problem]]"
@@ -50,7 +49,6 @@ related_concepts:
   - "[[Ideal Speech Situation]]"
   - "[[Engineered Evidence]]"
   - "[[Primary and Secondary Documents]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[International Baccalaureate]]"
 related_theories:
   - "[[Critical Theory]]"
@@ -64,7 +62,6 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Nominal Group Technique]]"
   - "[[Delphi Technique]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
   - "[[Correlational Research]]"
   - "[[Observation Method]]"
@@ -91,7 +88,7 @@ related_facts:
 confidence: high
 status: stable
 created: 2026-06-25
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 # Action Research
 
@@ -147,7 +144,7 @@ updated: 2026-10-07
 > [!method-stack] 方法层级
 > - **研究设计** 螺旋循环设计、[[Participatory Action Research\|参与式行动研究]]（PAR）、校本准实验干预、案例行动研究。
 > - **数据收集** 教学日志与[[Field Notes\|田野笔记]]、课堂录像与录音、学生[[Homework\|作业]]与测验、前[[Pre-test and Post-test\|后测]][[Questionnaire\|问卷]]、[[Nominal Group Technique\|名义小组技术]]（NGT）、[[Delphi Technique\|德尔菲技术]]、三角观察。
-> - **分析方法** 循环反思分析、质性文本[[Coding in Qualitative Research\|编码]]、前后测均值与[[Effect Size\|效应量]]对比分析、行动差异归因、[[Reflexivity\|反身性]]备忘录审议。
+> - **分析方法** 循环反思分析、质性文本编码、前后测均值与[[Effect Size\|效应量]]对比分析、行动差异归因、[[Reflexivity\|反身性]]备忘录审议。
 > - **辅助技术** [[Brainstorming\|头脑风暴]]、中立主席法、[[Concept Mapping\|概念图]]、双环学习审议。
 
 > [!feature] 四大关键特征
@@ -182,7 +179,7 @@ updated: 2026-10-07
 > - **理论与实践内在化（Theory and practice internalized）** 将理论与实践视为变革过程中相辅相成的两个有机阶段。
 
 > [!feature] [[Stephen Kemmis\|凯米斯]]与麦克塔格特（Kemmis & McTaggart, 1992, pp. 22–25）的核心原则
-> - **核心循环与实践** 通过变革改进教育并从中学习（原则一）；遵循“计划 ➔ 行动 ➔ 观察 ➔ 反思”的螺旋迭代（原则三）；保持系统学习并对意外发现开放（原则六）；从实践中提炼理论认识（原则七）；通过坚实证据检验[[Hypothesis|假设]]与制度假设（原则八、九）；撰写个人反思日志实现[[Concurrency of Learning|并行学习]]（原则十）。
+> - **核心循环与实践** 通过变革改进教育并从中学习（原则一）；遵循“计划 ➔ 行动 ➔ 观察 ➔ 反思”的螺旋迭代（原则三）；保持系统学习并对意外发现开放（原则六）；从实践中提炼理论认识（原则七）；通过坚实证据检验假设与制度假设（原则八、九）；撰写个人反思日志实现[[Concurrency of Learning|并行学习]]（原则十）。
 > - **合作与共同体建设** 实践者自主参与（原则二）；对改进负有责任的人全员协作（原则四）；建立自我批判的合作共同体（原则五）。
 > - **政治维度与推进策略** 正视触动既有利益的政治过程（原则十一）；深入批判工作情境的制度结构（原则十二）；从小处着手、从小循环起步、从小群体逐步扩大共同体（原则十三、十四、十五）。
 > - **成果建档与公开辩护** 系统建立活动实践、[[Discourse|话语]]表达、社会关系与研究能力四类变革记录（原则十六）；向公众与同行提供有理据的检验辩护（原则十七）。
@@ -203,8 +200,8 @@ updated: 2026-10-07
 
 > [!proc] 综合八阶段操作程序（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011, pp. 279–280]]）
 > 1. **识别、评价和表述问题** 从日常教学情境中明确亟待改进的核心议题或创新需求。
-> 2. **初步讨论与多方协商** 利益相关方共同商议，明确研究目标、指导[[Hypothesis\|假设]]与合作伦理边界。
-> 3. **审查[[Correlational Research\|相关研究]][[Document\|文献]]** 研读既有文献，借鉴类似干预的成熟程序与教训。
+> 2. **初步讨论与多方协商** 利益相关方共同商议，明确研究目标、指导假设与合作伦理边界。
+> 3. **审查[[Correlational Research\|相关研究]]文献** 研读既有文献，借鉴类似干预的成熟程序与教训。
 > 4. **重新界定并聚焦问题** 将宽泛问题提炼为具体可检验的假设或行动目标。
 > 5. **选择研究设计与程序** 确定抽样、材料、教学方案与资源配置，灵活嵌入准实验、[[Questionnaire\|问卷]]或案例分析。
 > 6. **确立持续评价标准** 制定明确、可操作的形成性与总结性评价准则。
@@ -271,7 +268,7 @@ updated: 2026-10-07
 
 > [!method-limits] 方法局限
 > - **偏误来源** 实践者同时作为研究者容易导致评估结果的主观性偏倚（Newby, 2010, p. 64）；强烈的团队群体动力可能压制个别教师的异议。
-> - **实施的致命变异（Lethal Mutation）** 要求一线教师在缺乏专业统计与[[Counterfactual\|反事实]]因果训练的情况下直接基于学术[[Document\|文献]]开展校本行动研究，极易因方法学素养不足而发生严重的“致命变异”——将复杂的因果干预原理曲解为繁琐的表面形式主义操作，导致学生客观学业改善完全落空。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 594–596)]]
+> - **实施的致命变异（Lethal Mutation）** 要求一线教师在缺乏专业统计与[[Counterfactual\|反事实]]因果训练的情况下直接基于学术文献开展校本行动研究，极易因方法学素养不足而发生严重的“致命变异”——将复杂的因果干预原理曲解为繁琐的表面形式主义操作，导致学生客观学业改善完全落空。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 594–596)]]
 > - **适用边界与制度合法性弱势** 对宏观社会制度结构的直接改造能力有限；在[[Technical Rationality|技术理性]]主导的国家量化循证政策体系中，行动研究极易被技术官僚贴上“主观”、“非科学”的标签而遭遇边缘化。[[Argument_Edmondson_2005_EPAA\|(Edmondson, 2005, p. 10)]]
 > - **误用风险** 以行动研究为借口规避学术严谨性；将缺乏系统数据与反思的日常教学琐碎经验盲目包装为行动研究。
 > - **补救方式** 建立规范透明的数据收集与分析程序；构建多源[[Chain of Evidence\|证据链]]；坚持撰写[[Reflexivity\|反身性]]日志；或转向采用深度内嵌因果规律的预制工程化工件。
@@ -288,7 +285,7 @@ updated: 2026-10-07
 > | [[Critical Pluralism]] | 理论 | 将基层行动研究的反制实践与宏观政策制定相连接的民主政治理论 |
 > | [[Participatory Action Research]] | 子方法 | 行动研究的政治化分支，以社区赋权与社会正义为核心议程 |
 > | [[Engineered Evidence]] | 替代进路 | 针对教师自主行动研究易诱发致命变异的缺陷，主张采用预制工程化工件替代一线盲目摸索 |
-> | [[Primary and Secondary Documents]] | 概念 | 行动研究中教师直接研读专业一手[[Document\|文献]]与依赖二手[[Transfer Translation Transformation\|转译]]材料的方法学载体 |
+> | [[Primary and Secondary Documents]] | 概念 | 行动研究中教师直接研读专业一手文献与依赖二手转译材料的方法学载体 |
 > | [[Nominal Group Technique]] | 支撑工具 | 结构化群体议题聚焦与共识凝聚方法 |
 > | [[Delphi Technique]] | 支撑工具 | 匿名多轮书面迭代收敛专家意见的技术 |
 > | [[Case Study]] | [[Correlational Research\|相关设计]] | 行动研究常以案例研究为载体，核心区分在于是否主动实施变革干预 |

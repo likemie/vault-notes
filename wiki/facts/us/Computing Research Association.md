@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 14
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -28,11 +28,9 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Disciplinary Institutionalization]]"
   - "[[Application Engineering]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Embedded Network Governance]]"
   - "[[DARPA Model]]"
   - "[[Paradigm]]"
-  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -48,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-05
+updated: 2026-10-15
 ---
 
 # Computing Research Association
@@ -88,7 +86,7 @@ updated: 2026-10-05
 > [!pathways]- 业务运行机制
 > - **政策议程设置** 密切追踪国会国防授权法案（NDAA）与 [[National Science Foundation|NSF]] 拨款，系统监测联邦机构在大学基础科研上的经费分配趋势。
 > - **实证调查发布** 每年发布享誉全球的《陶尔比调查报告》（Taulbee Survey），精确记录全美计算机博士招生、毕业薪资、师资流动与生源结构。
-> - **国会政策听证** 代表计算机学术界起草国会白皮书、协调专家作证，向立法者[[Transfer Translation Transformation|转译]]科研生态受损的系统性风险。
+> - **国会政策听证** 代表计算机学术界起草国会白皮书、协调专家作证，向立法者转译科研生态受损的系统性风险。
 
 ---
 
@@ -136,4 +134,4 @@ updated: 2026-10-05
 > | [[DARPA]] | Fact (Org) | CRA 在联邦政府层面长期对话、合作并实施政策监督的核心机构。 |
 > | [[Tony Tether]] | Person | 2001–2009 年推行采办激进重组并引发 CRA 全国抗议的时任局长。 |
 > | [[National Science Foundation]] | Fact (Org) | CRA 推动承接和扩大大学基础计算科研资助的核心联邦伙伴机构。 |
-> | [[Argument_Fuchs_2010_RP\|Fuchs (2010)]] | Argument | 实证记录 CRA 抗议背景并展开理论深层反思的核心[[Document\|文献]]。 |
+> | [[Argument_Fuchs_2010_RP\|Fuchs (2010)]] | Argument | 实证记录 CRA 抗议背景并展开理论深层反思的核心文献。 |

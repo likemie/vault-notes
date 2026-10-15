@@ -9,9 +9,9 @@ aliases:
 summary: "国际公认的干预方案详细描述与可复现性12项标准化核查清单，由Hoffmann等（2014）研制，用于详尽解构并规范记录复杂干预的变革理论、材料、程序、递送模式、实施剂量与保真度，被EEF强制采纳为破解教育试验黑箱的标准工具。"
 type: instrument
 instrument_type: checklist
-instrument_related_count: 16
-instrument_related_level: 3
-instrument_related_stars: "⭐⭐⭐"
+instrument_related_count: 14
+instrument_related_level: 2
+instrument_related_stars: "⭐⭐"
 instrument_related_color: "#e5e7eb"
 part_of: ""
 developers:
@@ -38,7 +38,6 @@ related_concepts:
   - "[[Implementation Fidelity]]"
   - "[[Literature Review]]"
   - "[[Strategic Compliance]]"
-  - "[[Teaching Assistant]]"
   - "[[Causality]]"
   - "[[Preregistration]]"
 related_theories:
@@ -48,7 +47,6 @@ related_theories:
 related_methods:
   - "[[Systematic Review]]"
   - "[[Implementation and Process Evaluation]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Questionnaire]]"
   - "[[Intervention Research]]"
 related_instruments: []
@@ -60,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # TIDieR
@@ -92,7 +90,7 @@ updated: 2026-10-12
 > | **干预命名与[[Theory of Change\|变革理论]]（Why）** | 2 | 干预官方简短名称、底层理论假设与预期因果变革链条（[[Theory of Change\|Theory of Change]]） | 标准化二元合规核查（已提供且可获取 / 未提供） |
 > | **干预物理与信息材料（What: Materials）** | 1 | 培训手册、课件、数字软件、工作纸及获取这些实体材料的公开途径 | 二元合规核查（材料清单完整公开 / 未公开） |
 > | **干预操作活动与步骤（What: Procedures）** | 1 | 教师与学生参与的具体教学活动、培训研讨、互动流程与操作细节 | 二元合规核查（逐项陈述清晰 / 含糊不清） |
-> | **实施主体与资质背景（Who Provided）** | 1 | 干预递送者（如学科教师、[[Teaching Assistant\|助教]]、外部辅导员）的专业资质、教育背景及专门受训时长 | 二元合规核查（详述师资背景与培训规程 / 缺失） |
+> | **实施主体与资质背景（Who Provided）** | 1 | 干预递送者（如学科教师、助教、外部辅导员）的专业资质、教育背景及专门受训时长 | 二元合规核查（详述师资背景与培训规程 / 缺失） |
 > | **递送模式与物理场景（How & Where）** | 2 | 单独辅导、整班教学、数字化混合递送模式及具体的教室或学校物理基础设施 | 二元合规核查（场景与递送模式界定清楚 / 未界定） |
 > | **实施日程与剂量强度（When & How Much）** | 1 | 干预总周数、每周课时数、单次时长、总接触暴露剂量（Total Dosage） | 二元合规核查（精确报告量化剂量 / 仅有概略描述） |
 > | **个性化定制与现场变更（Tailoring & Modifications）** | 2 | 干预针对特定弱势学生的个性化微调规程，以及在试验执行期间发生的意外调整与演变 | 二元合规核查（说明调整边界与过程变更记录 / 无记录） |
@@ -125,7 +123,7 @@ updated: 2026-10-12
 > | **Item 9** | 适应微调（Tailoring） | 说明干预方案是否允许针对学生先前学力、阅读水平或特殊需求进行计划内的差异化微调及其调整规则。 | 区分规范性因材施教与随意违规变通 | Hoffmann et al. (2014, p. 6) |
 > | **Item 10** | 过程修正（Modifications） | 说明在试验执行期间，干预方案因实地突发情况或阻力而发生的任何未预先计划的变更、删减或增补。 | 捕捉田野妥协，防止评价脱靶 | Hoffmann et al. (2014, Table 1) |
 > | **Item 11** | 计划保真度（How Well: Planned） | 说明研究团队在方案设计中预先规划了哪些策略以确保干预按原设计高保真度实施（如培训考核、辅导日志、课堂抽检）。 | 评估干预设计的质控防护网严密性 | Hoffmann et al. (2014, Box 1) |
-> | **Item 12** | 实测依从度（How Well: Actual） | 说明评估者在实地通过独立观察、录音录像[[Coding in Qualitative Research\|编码]]、[[Questionnaire\|问卷]]核查等手段实际测得的教师与学生遵从度、到达率与实施质量。 | 确证是“干预本身无效”还是“实施走样导致失败” | Hoffmann et al. (2014, Box 2) |
+> | **Item 12** | 实测依从度（How Well: Actual） | 说明评估者在实地通过独立观察、录音录像编码、[[Questionnaire\|问卷]]核查等手段实际测得的教师与学生遵从度、到达率与实施质量。 | 确证是“干预本身无效”还是“实施走样导致失败” | Hoffmann et al. (2014, Box 2) |
 
 ---
 

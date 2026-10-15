@@ -32,6 +32,7 @@ related_concepts:
   - "[[School Inspection]]"
   - "[[Going Native]]"
   - "[[Dual School System]]"
+  - "[[School Autonomy]]"
   - "[[Commensuration]]"
   - "[[Performance Indicators]]"
   - "[[21st Century Skills and Competencies Discourse]]"
@@ -47,7 +48,6 @@ related_concepts:
   - "[[Test-Based Accountability]]"
   - "[[Paradigm]]"
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Document]]"
   - "[[Reflexivity]]"
 related_facts:
   - "[[PISA]]"
@@ -64,7 +64,7 @@ related_methods:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-10-15
 ---
 
 # Institute for Educational Monitoring and Quality Improvement
@@ -88,7 +88,7 @@ updated: 2026-09-18
 
 > [!dev-timeline]- 组织发展与职能演进
 > - **2006–2010 — 创设奠基与测评体系[[Going Native\|本土化]]** 依据 [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 2006 年[[Gesamtstrategie zum Bildungsmonitoring\|国家教育监测总体战略]]正式创设，整合汉堡原有的分散评估机构。初期聚焦于研发契合汉堡[[Dual School System\|双轨制学制]]的 KERMIT（Kompetenzen ermitteln）全州统一能力诊断测试，确立从小学到高中的标准化测评基准。
-> - **2011–2018 — [[Data Infrastructure\|数据基础设施]]制度化与社会指数研发** 主导开发“汉堡社会指数”（Hamburger Sozialindex），依据全州普查家庭背景数据将全州学校划分为 1–6 级，奠定了补偿性教育资源精准配置的科学基石；同步上线面向校长的“学校一览表”（SchÜb）数字化概览系统，推动数据向校本管理下沉（[[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler, 2019, pp. 5–6]]）。
+> - **2011–2018 — [[Data Infrastructure\|数据基础设施]]制度化与社会指数研发** 主导开发“汉堡社会指数”（Hamburger Sozialindex），依据全州普查家庭背景数据将全州学校划分为 1–6 级，奠定了补偿性教育资源精准配置的科学基石；同步上线面向校长的“学校一览表”（SchÜb）数字化概览系统，推动数据向[[School Autonomy|校本管理]]下沉（[[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler, 2019, pp. 5–6]]）。
 > - **2019–至今 — 跨国比较视域下的形成性模式示范与深层协同** 在跨国教育治理研究中，IfBQ 被广泛确立为欧洲低利害形成性治理的典范（[[Argument_Kelly_2025_ROE\|Kelly et al., 2025]]）。该机构在坚持去排名、去高利害淘汰的前提下，与汉堡州立师训与学校发展研究所（Landesinstitut für Lehrerbildung und Schulentwicklung, LI）深度协同，为基层校长开展同侪案例会商（Kollegiale Fallberatung）提供客观实证支撑。
 
 ---
@@ -189,7 +189,7 @@ updated: 2026-09-18
 > | [[Vergleichsarbeiten]] | Fact (Program) | IfBQ 负责在汉堡组织实施的全德跨州能力比较测试（VERA）。 |
 > | [[Ofsted]] | Fact (Organization) | 英格兰高利害外部督导机构，与 IfBQ 的低利害形成性监测模式构成鲜明制度对照。 |
 > | [[Education Endowment Foundation]] | Fact (Organization) | 英国国家级[[Educational Evidence Clearinghouses\|证据清算中心]]，与 IfBQ 呈现出不同的循证支持生态与中介机制。 |
-> | [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler, 2019]] | Argument | 深入剖析 IfBQ 数据基础设施、社会指数算法及其在汉堡教育治理中实践张力的核心[[Document\|文献]]。 |
+> | [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler, 2019]] | Argument | 深入剖析 IfBQ 数据基础设施、社会指数算法及其在汉堡教育治理中实践张力的核心文献。 |
 > | [[Argument_Kelly_2025_ROE\|Kelly et al., 2025]] | Argument | 跨国实证对比揭示 IfBQ 低利害形成性监测如何促进校长[[Reflexivity\|反思性]]证据利用与案例会商的文献。 |
 
 ---

@@ -8,9 +8,9 @@ summary: "Delamont (1981) 提出的民族志研究策略，通过研究非典型
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 8
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 7
+method_related_level: 0
+method_related_stars: ""
 method_related_color: "#dbeafe"
 tags:
   - paradigm/qualitative
@@ -18,7 +18,6 @@ tags:
 related_concepts:
   - "[[Cognitive Shifting]]"
   - "[[Tacit Knowledge]]"
-  - "[[Hypothesis]]"
   - "[[Reflexivity]]"
   - "[[Total Institution]]"
 related_theories: []
@@ -32,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Making the Familiar Strange
@@ -44,7 +43,7 @@ updated: 2026-10-14
 
 > [!concept-lens] 概念透镜
 > - **含义** 一种刻意的[[Cognitive Shifting\|认知转换]]策略：将对研究者而言"自然"和"理所当然"的日常情境重新审视，使其呈现出陌生和新颖的面貌，从而揭示此前被忽视的社会文化结构和互动模式。
-> - **用途** 帮助民族志研究者识别[[Tacit Knowledge|隐性知识]]、默会规则和想当然的[[Hypothesis\|假设]]——这些往往是最具分析价值但最容易被遗漏的数据。
+> - **用途** 帮助民族志研究者识别[[Tacit Knowledge|隐性知识]]、默会规则和想当然的假设——这些往往是最具分析价值但最容易被遗漏的数据。
 > - **边界** 不等于刻意寻找异常或怪异现象——目标不是制造奇观，而是揭示日常中隐藏的结构性特征。也不等于[[Reflexivity\|反身性]]——反身性是研究者对自身的审视，使熟悉变陌生是对研究情境的重新审视。
 
 ---
@@ -54,7 +53,7 @@ updated: 2026-10-14
 Delamont（1981）提出了四种使熟悉变陌生的具体策略：
 
 > [!feature] 使熟悉变陌生的四条路径
-> - **研究同一问题的非典型案例** 例如研究非典型课堂、非典型学校时间表或学校组织方式。通过将通常视为理所当然的实践与其变体进行对照，揭示常规实践背后的隐性[[Hypothesis\|假设]]。
+> - **研究同一问题的非典型案例** 例如研究非典型课堂、非典型学校时间表或学校组织方式。通过将通常视为理所当然的实践与其变体进行对照，揭示常规实践背后的隐性假设。
 > - **研究其他文化中的类似现象** 在同一议题上考察其他文化中的例子。跨文化比较能够凸显本文化中被视为"自然"或"不可避免"的实践其实是特定历史和社会的产物。
 > - **研究类似但不同的机构** 例如，研究学校时也可以考察医院、监狱等其他"[[Total Institution|总体性机构]]"（total institutions）。通过比较不同类型的机构如何运作，使学校的独特组织逻辑变得可见。
 > - **刻意聚焦重大议题** 选取一个具有分析意义的议题（如性别化行为）并刻意将观察聚焦于它。这种有意识的聚焦能够使原本散布在日常背景中的相关现象集中显现。

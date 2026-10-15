@@ -124,7 +124,7 @@ updated: 2026-10-15
 > - **300 毫米基线与先进封装中试设施（Prototyping & Packaging Facilities）** 建设涵盖先进基线互补金属氧化物半导体（Complementary Metal-Oxide-Semiconductor, CMOS）制程、EUV 光刻机时共享、Fab-to-Lab 切片测试与 2.5D/3D [[Heterogeneous Integration|异构集成]]的共享洁净室试验床。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 14–15)]]
 > - **[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]协同（NAPMP Coordination）** 与 NIST NAPMP 紧密联动，承接先进封装前沿技术的工程化验证与标准化芯粒接口落地。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11, 26)]]
 > - **多节点技术中心网络（Technical Centers）** 布局后 CMOS 新材料、神经形态计算、宽禁带功率半导体与射频器件等专业化技术中心。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 12–14)]]
-> - **数字化设计与执行网关（Design and Execution Gateway, DEG）** 搭建集成云端 [[Electronic Design Automation|EDA]] 工具链、标准 [[Process Design Kit|PDK]] 与[[Multi-Project Wafer|多项目晶圆]]（Multi-Project Wafer, MPW）拼版制造的一站式设计网关。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 16–17)]]
+> - **数字化设计与执行网关（Design and Execution Gateway, DEG）** 搭建集成云端 EDA 工具链、标准 [[Process Design Kit|PDK]] 与[[Multi-Project Wafer|多项目晶圆]]（Multi-Project Wafer, MPW）拼版制造的一站式设计网关。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 16–17)]]
 > - **半导体人才卓越中心（Workforce Center of Excellence, WCoE）** 统筹协调全美社区学院、[[Research Universities|研究型大学]]与[[Apprenticeship|学徒制]]基地，制定行业技能标准与微证书认证体系。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 18–19)]]
 > - **[[National Science and Technology Council|NSTC]] 创业投资基金与孵化服务（Investment Fund & Startup Support）** 设立定向催化投资基金，为早期深科技初创企业提供抗周期耐受资本与商业代工厂准入辅导。[[Argument_NIST_2023_NSTC|(NIST, 2023, p. 20)]]
 

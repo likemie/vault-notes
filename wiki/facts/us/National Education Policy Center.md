@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 15
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Legislative Policy Brief]]"
   - "[[Paradigm]]"
   - "[[Research Universities]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[High-Stakes Testing]]"
   - "[[Performance Pay]]"
   - "[[Discourse]]"
@@ -48,7 +47,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # National Education Policy Center
@@ -82,7 +81,7 @@ updated: 2026-10-07
 > [!actor-grid] 组织治理架构
 > - **决策领导层（Director & Steering Committee）** 由资深教育法学与政策领袖统筹，负责把控中心重大科研规划、资助独立性与学术道德准则。
 > - **全美学术研究员网络（NEPC Fellows）** 汇聚来自全美顶尖[[Research Universities|研究型大学]]的数百位教育学、心理学、社会学与经济学权威学者，构成中心强大的跨学科同行评议与智力供给池。
-> - **法律与法案起草顾问团队** 专门聘请深谙国会山与州议会立法起草规程的执业专业律师，负责将实证研究综述无缝[[Transfer Translation Transformation\|转译]]为精准的法定条文。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 46)]]
+> - **法律与法案起草顾问团队** 专门聘请深谙国会山与州议会立法起草规程的执业专业律师，负责将实证研究综述无缝转译为精准的法定条文。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 46)]]
 > - **政策传播与媒体中介枢纽** 专设科学传播团队，负责将长篇学术综述精简为“一页纸诉求”与[[Legislative Policy Brief\|立法政策简报]]，直接对接国会常设委员会幕僚。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 45–46)]]
 
 ---

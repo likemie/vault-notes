@@ -10,7 +10,7 @@ summary: "德国理论物理学家、量子论创立者、诺贝尔物理学奖�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 10
+person_related_count: 8
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -32,9 +32,7 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_instruments: []
-related_persons:
-  - "[[Isaiah Berlin]]"
-  - "[[Alfred Nobel]]"
+related_persons: []
 related_facts:
   - "[[Max Planck Society]]"
 related_arguments:
@@ -42,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Max Planck
@@ -52,9 +50,9 @@ updated: 2026-10-08
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 德国著名理论物理学家、科学哲学家，[[Isaiah Berlin|柏林]]大学教授、威廉皇帝学会会长（后更名为[[Max Planck Society|马克斯·普朗克学会]]），近代物理学两大支柱之一（量子力学）的开创者。
+> - **身份位置** 德国著名理论物理学家、科学哲学家，柏林大学教授、威廉皇帝学会会长（后更名为[[Max Planck Society|马克斯·普朗克学会]]），近代物理学两大支柱之一（量子力学）的开创者。
 > - **核心角色** 提出量子假说打破经典物理学连续性教条，并在晚年系统反思科学发展的[[Epistemology|认识论]]规律与科学共同体的代际交替机制。
-> - **代表贡献** 发现普朗克辐射定律与基本物理常数（普朗克常数 $h$），荣获 1918 年[[Alfred Nobel|诺贝尔]]物理学奖；在《科学自传》中提出著名的“普朗克原理”（Planck's Principle）。
+> - **代表贡献** 发现普朗克辐射定律与基本物理常数（普朗克常数 $h$），荣获 1918 年诺贝尔物理学奖；在《科学自传》中提出著名的“普朗克原理”（Planck's Principle）。
 
 > [!citation-card] 科学真理的代际更替规律
 > 一项新的科学真理之所以取得胜利，并不是通过说服其反对者并使他们看到光明，而是因为其反对者最终都死去了，成长起来的新一代熟悉了它。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 72–73)]]
@@ -68,9 +66,9 @@ updated: 2026-10-08
 > [!timeline] 生平与职涯
 > - **1858** 出生于德国荷尔斯泰因公国基尔。
 > - **1879** 在慕尼黑大学获得博士学位，专攻热力学第二定律。
-> - **1889–1926** 担任[[Isaiah Berlin|柏林]]大学理论物理学教授。
+> - **1889–1926** 担任柏林大学理论物理学教授。
 > - **1900** 提出能量量子化假说，成功解释黑体辐射光谱，标志着量子物理学的诞生。
-> - **1918** 荣获[[Alfred Nobel|诺贝尔]]物理学奖。
+> - **1918** 荣获诺贝尔物理学奖。
 > - **1930–1937** 担任威廉皇帝学会会长，在纳粹时期坚守科学道德与学者操守。
 > - **1948** 遗作《科学自传及其他论文》（*Scientific Autobiography and Other Papers*）出版。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, pp. 72–73)]]
 > - **1947** 逝世于哥廷根。

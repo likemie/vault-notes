@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 15
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Learning Economy]]"
   - "[[Demonstration Effect]]"
-  - "[[Assemblage]]"
   - "[[Center of Calculation]]"
   - "[[Big Idea Famine]]"
   - "[[Technological Republic]]"
@@ -48,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Apollo Program
@@ -101,7 +100,7 @@ updated: 2026-10-10
 > - **发起与资助方** [[National Aeronautics and Space Administration|美国国家航空航天局]]（NASA），负责制定总体技术规范、资金划拨、跨部门协调与任务发射指挥。
 > - **总体设计与高校研发中心** 麻省理工学院仪器实验室（查尔斯·斯塔克·德雷珀领导），负责星载制导与导航算法设计及硬件规格定义。[[Argument_Schnee_1978_RP|(Schnee, 1978, p. 23)]]
 > - **半导体与器件供应商** [[Fairchild Semiconductor|仙童半导体]]、德州仪器、摩托罗拉等企业，负责攻克高[[Reliability|可靠性]]硅平面集成电路与特种半导体制造工艺。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 11, 16)]]
-> - **整机系统集成商与工业承包商** IBM、Univac、北美航空、格鲁曼航空等，负责星载计算机[[Assemblage|装配]]、地面大型[[Center of Calculation|计算中心]]构建与飞船制造。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 10, 19)]]
+> - **整机系统集成商与工业承包商** IBM、Univac、北美航空、格鲁曼航空等，负责星载计算机装配、地面大型[[Center of Calculation|计算中心]]构建与飞船制造。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 10, 19)]]
 
 ---
 

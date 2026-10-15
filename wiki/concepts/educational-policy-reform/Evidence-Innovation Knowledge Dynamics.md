@@ -8,7 +8,7 @@ aliases:
 summary: "由 Noémi Révai (2020) 在 OECD 提出的知识动力学模型，旨在修复证据动员与教育创新长期割裂的断层，将知识动员重塑为面向教学难题解决与创新的知识创生全流程。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 27
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,12 +25,10 @@ related_concepts:
   - "[[Research-Informed Teaching Practice]]"
   - "[[Empiricism]]"
   - "[[Knowledge Transfer]]"
-  - "[[Hypothesis]]"
   - "[[Going Native]]"
   - "[[Problem Finding]]"
   - "[[Knowledge Mediation]]"
   - "[[Boundary Spanner]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Evidence-Based Education]]"
   - "[[Conatus]]"
   - "[[International Education]]"
@@ -53,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Evidence-Innovation Knowledge Dynamics
@@ -87,7 +85,7 @@ updated: 2026-10-09
 > [!contrast-table] 证据-创新知识动力学 vs. 传统线性[[Knowledge Transfer\|知识转移]] vs. 孤立教育创新推广
 > | 维度 | 证据-创新知识动力学（Révai） | 传统线性知识转移（KT） | 孤立教育创新推广（Fad Scaling） |
 > |---|---|---|---|
-> | **核心底层[[Hypothesis\|假设]]** | 证据利用与创新共生，动员即本土知识创生 | 知识是现成货品，传递顺畅即自然采纳 | 创新天然具备优越性，追求迅速规模化扩散 |
+> | **核心底层假设** | 证据利用与创新共生，动员即本土知识创生 | 知识是现成货品，传递顺畅即自然采纳 | 创新天然具备优越性，追求迅速规模化扩散 |
 > | **教师与学校角色** | 能动的需求界定者、调试试验者与新知识创造者 | 被动的证据接收容器与末端执行者 | 创新项目的试验田或被动受训对象 |
 > | **中介组织功能** | 协助诊断需求、跨界搜寻外部证据并赋能校本转化 | 单向的信息包装、宣传推介与分发渠道 | 商业化包装、推销教育时尚与说服性公关 |
 > | **最终产出形态** | 兼具实证严谨性与情境敏感性的[[Going Native\|本土化]]新知识体系 | 停留在报告纸面上的静态学术建议 | 缺乏扎实证据基础、随风而过的流行教育时尚 |
@@ -99,7 +97,7 @@ updated: 2026-10-09
 > [!proc] 证据-创新知识动力学的五阶段循环全流程（Révai, 2020; Torres, 2022）
 > 1. **情境诊断与需求界定（Diagnosing & Need Formulation）** 教师直面真实的课堂困境与学情瓶颈，将实践中的挑战明确形式化为“需要何种额外外部知识”的具体[[Problem Finding\|问题界定]]；
 > 2. **[[Knowledge Mediation\|知识中介]]与跨界接入（Brokering & External Knowledge）** 校内外[[Boundary Spanner\|知识中介者]]（[[Knowledge Mediation]]）或科研人员协助搜寻、筛选并引入适配的外部学术研究证据；
-> 3. **课堂转化与调试试验（Translation & Experimentation）** 教师将外来研究理论[[Transfer Translation Transformation\|转译]]为具体的校本教学干预，在日常课堂开展探索性实验与敏捷调整；
+> 3. **课堂转化与调试试验（Translation & Experimentation）** 教师将外来研究理论转译为具体的校本教学干预，在日常课堂开展探索性实验与敏捷调整；
 > 4. **本土新知识创生（Knowledge Creation）** 在解决实践难题的试错互动中，教师将外部实证与现场默会经验深度交融，共同创生出原创性的情境化实践新知识；
 > 5. **系统沉淀与规模扩散（Systematisation & Diffusion）** 新生成的有效实践被学校教研机制提炼、固化并系统化沉淀，进而借助专业网络反哺全系统的共享证据库。
 
@@ -135,7 +133,7 @@ updated: 2026-10-09
 > 重塑知识动员的概念内核，确立一线教师作为情境知识创造者的主体地位。
 
 > [!claim] Noémi Révai (2020) / [[Argument_Torres_2022_KMModels\|Torres (2022)]]
-> **动员即[[Problem Solving\|问题解决]]驱动的知识创生** 将知识动员仅仅描绘为从外部向内部输送证据的观点严重低估了教学的复杂性。在知识动力学视角下，动员不是终点，而是创生的起点。教师不是外部证据的最终消费者，而是[[Transfer Translation Transformation\|转译]]与试验的主体。当外部研究证据与课堂情境发生碰撞、并经由教师的主动调试成功解决教学难题时，系统内便诞生了此前未曾存在过的新知识。知识动员实质上是系统利用外部资源激发内部创新与知识自我更新的动力学过程。[[Argument_Torres_2022_KMModels\|(Torres, 2022, pp. 49–51)]]
+> **动员即[[Problem Solving\|问题解决]]驱动的知识创生** 将知识动员仅仅描绘为从外部向内部输送证据的观点严重低估了教学的复杂性。在知识动力学视角下，动员不是终点，而是创生的起点。教师不是外部证据的最终消费者，而是转译与试验的主体。当外部研究证据与课堂情境发生碰撞、并经由教师的主动调试成功解决教学难题时，系统内便诞生了此前未曾存在过的新知识。知识动员实质上是系统利用外部资源激发内部创新与知识自我更新的动力学过程。[[Argument_Torres_2022_KMModels\|(Torres, 2022, pp. 49–51)]]
 
 ---
 

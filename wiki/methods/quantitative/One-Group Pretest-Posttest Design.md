@@ -6,7 +6,7 @@ summary: "前实验设计中仅对单一组进行前测、干预和后测的设�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 13
+method_related_count: 12
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -19,7 +19,6 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Unit of Analysis]]"
   - "[[Causality]]"
-  - "[[Hypothesis]]"
 related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Pre-Experimental Designs]]"
@@ -32,7 +31,7 @@ related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
 status: draft
 created: 2026-07-13
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 # One-Group Pretest-Posttest Design
 
@@ -85,7 +84,7 @@ updated: 2026-09-17
 > - **无控制组** 无法区分干预效果与自然成熟或历史事件的影响——前[[Pre-test and Post-test\|后测]]差异可能完全来自外部因素。
 > - **无[[Random Assignment\|随机分配]]** 无法排除选择偏差——单组本身可能具有特定特征使其对干预异常敏感（或不敏感）。
 > - **多重混淆无法分离** 成熟、历史、测验效应、工具变化、回归均值——所有这些威胁同时存在且无法分离。
-> - **[[Causality\|因果推断]]几乎不可能** Campbell & Stanley (1963) 将其描述为展示混淆[[Variable\|变量]]的"坏例子"——该设计只能产生[[Hypothesis\|假设]]，不能检验假设。
+> - **[[Causality\|因果推断]]几乎不可能** Campbell & Stanley (1963) 将其描述为展示混淆[[Variable\|变量]]的"坏例子"——该设计只能产生假设，不能检验假设。
 
 ## 相关理论与方法
 

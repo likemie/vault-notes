@@ -9,7 +9,7 @@ aliases:
 summary: "个体获取并有效应用理解与管理情绪、确立积极目标、展现同理心、建立正向关系以及作出负责任决策所需的认知、情感与行为素养框架。在全球教育治理中，经历从心理卫生与全人教育起源，到联合国儿童基金会（UNICEF）将其开辟为危机保护与脆弱儿童政策中介新赛道，再到经合组织（OECD）与教科文组织跨界将其量化为跨国比较评价指标（如 SSES 测评）的制度演变，引发了关于非认知能力标准化与文化情境性的深刻争鸣。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 26
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,10 +20,8 @@ tags:
   - theme/global-governance
   - theme/well-being
 related_concepts:
-  - "[[Transfer Translation Transformation]]"
   - "[[Soft Power]]"
   - "[[Critical Thinking]]"
-  - "[[Bildung]]"
   - "[[Academic Achievement]]"
   - "[[Global Education Governing Complex]]"
   - "[[Policy Brokerage]]"
@@ -38,7 +36,6 @@ related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Questionnaire]]"
   - "[[Correlational Research]]"
 related_instruments: []
@@ -55,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-18
+updated: 2026-10-15
 ---
 
 # Social-Emotional Learning
@@ -65,7 +62,7 @@ updated: 2026-09-18
 ## 定义
 
 > [!def] 核心定义
-> 社会情感学习（Social-Emotional Learning，SEL）是个体在终身发展过程中，系统习得并协调应用自我意识、自我管理、社会意识、人际交往技能以及作出负责任决策所需的认知、情感、态度与行为素养的综合建构。在全球教育治理视阈下，SEL 已从早期的微观心理辅导[[Transfer Translation Transformation\|转译]]为跨国多边组织开拓全新规制领域、争夺全球规范制定权与慈善资本的核心中介议题。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 544)]]
+> 社会情感学习（Social-Emotional Learning，SEL）是个体在终身发展过程中，系统习得并协调应用自我意识、自我管理、社会意识、人际交往技能以及作出负责任决策所需的认知、情感、态度与行为素养的综合建构。在全球教育治理视阈下，SEL 已从早期的微观心理辅导转译为跨国多边组织开拓全新规制领域、争夺全球规范制定权与慈善资本的核心中介议题。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 544)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向个体在社会交往与复杂危机情境中调节心理状态、维系社会连接并实现亲社会适应的非认知能力集群。
@@ -89,7 +86,7 @@ updated: 2026-09-18
 > | 维度 | 社会情感学习（SEL） | 传统学业认知素养（Cognitive Skills） | 德育与公民品格教育（Character Education） |
 > |---|---|---|---|
 > | 分析对象 | 情绪认知、压力应对、同理心与亲社会决策 | 语数外学科知识、形式逻辑推理与记忆再现 | 道德规范内化、公民爱国情操与伦理美德 |
-> | 核心机制 | 心理社会技能训练与支持性学校微观生态营造 | 符号表征加工、认知结构同化与练习巩固 | 价值榜样示范、社会规范[[Bildung\|教化]]与道德体验践行 |
+> | 核心机制 | 心理社会技能训练与支持性学校微观生态营造 | 符号表征加工、认知结构同化与练习巩固 | 价值榜样示范、社会规范教化与道德体验践行 |
 > | 治理功能 | 多边机构开拓的非认知素养跨国规制新工具 | 传统 [[PISA]]/TIMSS 大规模测评排名的硬通货 | 主权国家维系政治认同与文化传承的内生阵地 |
 
 ---
@@ -138,7 +135,7 @@ updated: 2026-09-18
 > 围绕国际组织如何通过制造新颖政策议题来防御地盘萎缩、争夺外部私人资助展开。
 
 > [!claim] Steiner-Khamsi et al.
-> **组织利基开辟与多边跟进内卷** [[Global Education Governing Complex\|全球教育治理复合体]]内部存在高度白热化的地盘争夺；当[[UNICEF\|儿童基金会]]凭借 SEL 成功占据弱势关怀道德高地并撬动乐高、盖茨等私人基金会巨额赠款后，[[OECD\|经合组织]]与[[UNESCO\|教科文组织]]迅速通过将其标准化与测验化实施跨界殖民，将原本具有批判人道色彩的议题重新[[Coding in Qualitative Research\|编码]]为服务于自身多边中介权力的量化指标。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
+> **组织利基开辟与多边跟进内卷** [[Global Education Governing Complex\|全球教育治理复合体]]内部存在高度白热化的地盘争夺；当[[UNICEF\|儿童基金会]]凭借 SEL 成功占据弱势关怀道德高地并撬动乐高、盖茨等私人基金会巨额赠款后，[[OECD\|经合组织]]与[[UNESCO\|教科文组织]]迅速通过将其标准化与测验化实施跨界殖民，将原本具有批判人道色彩的议题重新编码为服务于自身多边中介权力的量化指标。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
 
 ---
 

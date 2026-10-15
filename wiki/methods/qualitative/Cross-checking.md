@@ -5,7 +5,7 @@ summary: "质性研究中多位研究者独立分析相同材料后协商一致�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 17
+method_related_count: 16
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -21,7 +21,6 @@ related_methods:
   - "[[Inter-Rater Reliability]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Classroom Observation]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Analytic Framework]]"
   - "[[Content Analysis]]"
   - "[[Member Tests]]"
@@ -60,7 +59,7 @@ updated: 2026-10-15
 
 > [!proc] 交叉检查的操作程序
 > 1. 多位研究者分别独立分析相同的质性材料（如访谈[[Transcription in Qualitative Research\|转录]]、[[Classroom Observation|课堂观察]]记录）
-> 2. 每位研究者独立提出类别系统、[[Coding in Qualitative Research\|编码]]方案或解释框架
+> 2. 每位研究者独立提出类别系统、编码方案或解释框架
 > 3. 研究者之间交换意见，比较各自分析的异同
 > 4. 协商讨论，识别分歧来源并努力达成共识
 > 5. 基于协商结果修改和确定最终的[[Analytic Framework\|分析框架]]
@@ -71,7 +70,7 @@ Kitwood（1977）推荐的实践是两位以上研究者独立提出类别系统
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 涉及多研究者团队的[[Qualitative Research\|质性研究]]；[[Content Analysis\|内容分析]]和[[Coding in Qualitative Research\|编码]]研究中需要建立编码者[[Reliability\|信度]]时；[[Research Topic\|研究主题]]容易引发研究者个人立场和偏见时。
+> - **适合使用** 涉及多研究者团队的[[Qualitative Research\|质性研究]]；[[Content Analysis\|内容分析]]和编码研究中需要建立编码者[[Reliability\|信度]]时；[[Research Topic\|研究主题]]容易引发研究者个人立场和偏见时。
 > - **谨慎使用** 当研究资源不允许配备多研究者时；当研究者之间的视角差异过大以至于难以协商时。
 > - **不适合使用** 单人研究项目（但可部分通过[[Member Tests\|成员核验]]和其他验证手段来弥补）。
 

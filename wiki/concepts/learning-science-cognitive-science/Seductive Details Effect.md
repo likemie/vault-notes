@@ -8,7 +8,7 @@ aliases:
 summary: "教学材料中添加有趣但与核心目标无关的视听装饰元素，导致学习者注意力分散并损害深层理解的认知负荷效应"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,7 +27,6 @@ related_concepts:
 related_theories:
   - "[[Dual Coding Theory]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Meta-analysis]]"
   - "[[Correlational Research]]"
 related_instruments: []
@@ -38,7 +37,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Seductive Details Effect
@@ -62,7 +61,7 @@ updated: 2026-09-17
 
 > [!boundary]- 概念边界
 > - 不等于 趣味化教学原则：适度趣味化能够激发学习者的情境兴趣，但诱人细节效应警示：脱离核心概念逻辑的纯装饰性趣味会侵占有限的[[Working Memory\|工作记忆]]容量。
-> - 不等于 有效双重[[Coding in Qualitative Research\|编码]]：在[[Dual Coding Theory\|双重编码理论]]中，图文协同必须围绕同一核心命题展开；诱人细节则属于图文不一致或视觉冗余。
+> - 不等于 有效双重编码：在[[Dual Coding Theory\|双重编码理论]]中，图文协同必须围绕同一核心命题展开；诱人细节则属于图文不一致或视觉冗余。
 
 ---
 

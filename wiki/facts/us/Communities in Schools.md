@@ -10,9 +10,9 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 25
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 23
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
 tags:
   - communities-in-schools
@@ -25,7 +25,6 @@ tags:
 related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Peer-Supported Learning]]"
-  - "[[Document]]"
   - "[[Academic Achievement]]"
   - "[[Attrition]]"
   - "[[Intelligent Tutoring Systems]]"
@@ -44,7 +43,6 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[National Dropout Prevention Center]]"
-  - "[[Promising Practices Network]]"
   - "[[CNCS Evidence Exchange]]"
   - "[[Blueprints for Healthy Youth Development]]"
   - "[[Clearinghouse for Military Family Readiness Continuum of Evidence]]"
@@ -57,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Communities in Schools
@@ -69,7 +67,7 @@ updated: 2026-09-17
 > [!info] 项目定位与方案概况
 > **校内社区（Communities in Schools, CIS）** 由 Bill Milliken 于 1977 年创立，是全美规模最大的综合学生支持（Integrated Student Supports, ISS）与高危青少年预防辍学非营利组织，常年在全美 26 个州的 2,900 多所公立学校运行，每年为超过 170 万名贫困与辍学高风险学生提供系统支持。
 >
-> 在[[Evidence-Based Education\|循证教育]]元评估中，CIS 构成了全库 **“最大极性冲突（Maximum Polarity Conflict: Full Endorsement vs Outright Rejection）”** 的标志性案型——横跨 [[National Dropout Prevention Center\|NDPC]]、[[Promising Practices Network\|PPN]]、[[CNCS Evidence Exchange]]、[[Blueprints for Healthy Youth Development\|Blueprints]]、[[Clearinghouse for Military Family Readiness Continuum of Evidence\|CMFR]] 与 [[What Works Clearinghouse\|WWC]] 六大机构，评级结论从“最高强力推荐”直接跌落至“无明显效果”与“彻底不予背书”的极端对立两极([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 25]])。
+> 在[[Evidence-Based Education\|循证教育]]元评估中，CIS 构成了全库 **“最大极性冲突（Maximum Polarity Conflict: Full Endorsement vs Outright Rejection）”** 的标志性案型——横跨 [[National Dropout Prevention Center\|NDPC]]、PPN、[[CNCS Evidence Exchange]]、[[Blueprints for Healthy Youth Development\|Blueprints]]、[[Clearinghouse for Military Family Readiness Continuum of Evidence\|CMFR]] 与 [[What Works Clearinghouse\|WWC]] 六大机构，评级结论从“最高强力推荐”直接跌落至“无明显效果”与“彻底不予背书”的极端对立两极([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 25]])。
 
 ---
 
@@ -86,10 +84,10 @@ updated: 2026-09-17
 ## 循证清算中心评级全景对比
 
 > [!contrast-table] 六大清算中心对 CIS 的评级与审查机制对比（基于 Wadhwa et al., 2024）
-> | 清算中心 | 最终底线评级结论 | 核心支撑实证池与[[Document\|文献]]来源 | 评级推导机制与方法学裁量依据 |
+> | 清算中心 | 最终底线评级结论 | 核心支撑实证池与文献来源 | 评级推导机制与方法学裁量依据 |
 > |:---|:---|:---|:---|
 > | **[[National Dropout Prevention Center\|NDPC]]** | **Strong Evidence**<br>(强力推荐·最高级) | 声称依据多项学生级 [[Randomised Controlled Trials\|RCT]] 和 1 项学校级 [[Quasi-Experimental Designs\|QED]] | **未公开具体篇目**；宣称项目在出勤、[[Academic Achievement\|GPA]]、学分、初中读写及高中防辍上全面卓越。 |
-> | **[[Promising Practices Network\|PPN]]** | **Promising（有望）**<br>(历史认证推荐) | Urban Institute 评估报告 (Rossman & Morley, 1995) | 基于多地点准[[Experimental Research\|实验研究]]，但**干预组与比较组完全未实施任何匹配控制**。 |
+> | **PPN** | **Promising（有望）**<br>(历史认证推荐) | Urban Institute 评估报告 (Rossman & Morley, 1995) | 基于多地点准[[Experimental Research\|实验研究]]，但**干预组与比较组完全未实施任何匹配控制**。 |
 > | **[[CNCS Evidence Exchange]]** | **Moderate Support（中度支持）**<br>(联邦志愿服务资助认证) | MDRC 系列评估报告 (Parise 2017; Somers 2017) | 采纳 2 年期 RCT（改善非学业参与）与间断时间序列（[[Time Series Design\|ITS]]），认可其系统推进成效。 |
 > | **[[Blueprints for Healthy Youth Development\|Blueprints]]** | **Inconclusive / Uncertified**<br>(证据不确定·不予认证) | 检索审查现有候选实证文献 | **方法学缺陷一票否决**，指出研究普遍存在严重[[Attrition\|差异流失]]、基线不平衡及缺乏独立复制。 |
 > | **[[Clearinghouse for Military Family Readiness Continuum of Evidence\|CMFR]]** | **Insufficient Evidence**<br>(证据不足·不予推荐) | 检索截至 2018 年初公开文献 | **刚性排斥灰色文献**，因检索不到任何**同行评审学术期刊发表**的评估论文而直接拒绝背书。 |

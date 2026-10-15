@@ -8,7 +8,7 @@ aliases:
 summary: "以硬事实施展软权力由 Dennis Niemann、Kerstin Martens 与 Christian Ydesen 等提出，指涉国际组织在缺乏法定强制制裁权的前提下，通过生产标准化、可量化与可比较的硬性实证数据（如 PISA、教育指标、投资回报率），赋予政策倡议以客观科学表象并实施远处治理与绩效问责的核心规制机制。"
 type: concept
 domain: "comparative-education"
-related_count: 35
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -21,8 +21,6 @@ tags:
 related_concepts:
   - "[[Soft Power]]"
   - "[[Global Education Governing Complex]]"
-  - "[[Transfer Translation Transformation]]"
-  - "[[Attrition]]"
   - "[[Façade of Rationality]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
@@ -31,7 +29,6 @@ related_concepts:
   - "[[Externalization]]"
   - "[[Knowledge Production]]"
   - "[[Variable]]"
-  - "[[Document]]"
   - "[[Return on Investment]]"
   - "[[Performance Indicators]]"
 related_theories:
@@ -63,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Soft Power by Hard Facts
@@ -87,7 +84,7 @@ updated: 2026-10-08
 
 > [!boundary]- 概念边界
 > - 不等于 传统软权力 — 传统软权力侧重于意识形态同化、大众文化辐射与道德魅力；以硬事实施展软权力则严格依托技术官僚的专业性、测验数据与量化指标的科学神话。
-> - 不等于 强制性硬法（Hard Law） — 并不具备国际条约的法律违约惩罚或军事制裁权，其效力完全依赖将国内教育问题[[Transfer Translation Transformation\|转译]]为国际竞争危机后的政治舆论问责。
+> - 不等于 强制性硬法（Hard Law） — 并不具备国际条约的法律违约惩罚或军事制裁权，其效力完全依赖将国内教育问题转译为国际竞争危机后的政治舆论问责。
 
 ---
 
@@ -98,7 +95,7 @@ updated: 2026-10-08
 > |:---------|:------------------------|:----------------------|:----------------------------------------------|
 > | **权力渊源** | 国家文化吸引力、政治意识形态与外交道德威望（[[Joseph S. Nye Jr.\|Joseph Nye]]） | 国际条约、法定公约、安理会决议与主权司法管辖权 | 量化测评、跨国指标库与计量经济学实证研究的科学权威 |
 > | **核心治理技术** | 文化传播、公共外交、人道援助倡导 | 法律起诉、经济制裁、贸易禁运、强制执行 | 基准设定（Benchmarking）、跨国排名、[[Peer Debriefing\|同行审议]]与“命名与羞辱” |
-> | **合规驱动力** | 价值认同与情感共鸣 | 规避法定违法成本与经济受罚风险 | 规避在国际排名中垫底引发的国内执政危机与合法性[[Attrition\|流失]] |
+> | **合规驱动力** | 价值认同与情感共鸣 | 规避法定违法成本与经济受罚风险 | 规避在国际排名中垫底引发的国内执政危机与合法性流失 |
 > | **典型国际载体** | 好莱坞电影、[[Confucius\|孔子]]学院、联合国和平道德倡议 | [[World Trade Organization\|WTO]] 争端解决机制、国际刑事法院判决 | [[OECD\|经合组织]] [[PISA]]、世界银行 SABER 指标库与投资回报率测算 |
 
 ---
@@ -210,7 +207,7 @@ updated: 2026-10-08
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024, pp. 547–548)]] | 挪威教育部能力改革政策咨询网络（5 个专家委员会与最终行政法令） | 政策[[Document\|文献]]计量与引文网络追踪 | 咨询报告与行政法令中的外部参考文献分布及机构来源 | 咨询报告共引用 464 篇文献；最终行政法令仅引用 22 篇（引文损耗率 >95%）；仅存的 22 篇引文中 20 篇（90.9%）全部来自审议 [[OECD]] [[Definition and Selection of Competencies\|DeSeCo]] 的委员会 | — | 实证证实了 OECD 硬事实在行政出台阶段的垄断性权威，同时揭示了主权国家对外部学术文献的大规模政治清洗 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024, pp. 547–548)]] | 挪威教育部能力改革政策咨询网络（5 个专家委员会与最终行政法令） | 政策文献计量与引文网络追踪 | 咨询报告与行政法令中的外部参考文献分布及机构来源 | 咨询报告共引用 464 篇文献；最终行政法令仅引用 22 篇（引文损耗率 >95%）；仅存的 22 篇引文中 20 篇（90.9%）全部来自审议 [[OECD]] [[Definition and Selection of Competencies\|DeSeCo]] 的委员会 | — | 实证证实了 OECD 硬事实在行政出台阶段的垄断性权威，同时揭示了主权国家对外部学术文献的大规模政治清洗 |
 > | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024, p. 548)]] | 世界银行 60 年[[Return on Investment\|教育投资回报率]]实证研究与世界发展指标库 | 文献综合与指标库历史追踪 | 回报率估算覆盖面与[[Performance Indicators\|教育指标]]数量 | 回报率数据库覆盖 139 个国家、1,120 项估算；[[World Development Indicators\|世界发展指标库]]中的教育指标从 1989 年 116 项激增至 2018 年 1,600 项 | — | 证实[[World Bank\|世行]]依托超大规模实证数据库构建起自指性最佳实践仓库，以此向借贷国施加贷款附加条件 |
 
 ---

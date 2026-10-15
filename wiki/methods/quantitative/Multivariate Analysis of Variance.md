@@ -30,9 +30,9 @@ related_concepts:
   - "[[Type I and Type II Errors]]"
   - "[[Epistemology]]"
   - "[[Epistemological Beliefs]]"
-  - "[[Hypothesis]]"
   - "[[Construct Validity]]"
   - "[[Construct]]"
+  - "[[Hypothesis]]"
   - "[[Research Literacy]]"
   - "[[Reliability]]"
   - "[[Academic Achievement]]"
@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-29
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 
 # Multivariate Analysis of Variance
@@ -90,7 +90,7 @@ updated: 2026-09-17
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 秉持系统论与整体主义的量化认识论，认为复杂心理与教育现象（如学业素养、[[Epistemological Beliefs\|认识论信念]]、职业倦怠）是由多个相互关联的子维度共同表征的有机系统，单维度的孤立测量容易割裂[[Variable\|变量]]间的内在关联。
-> - **研究者角色** 研究者需基于严谨的实质性理论预先确定[[Dependent Variable\|因变量]]集合，避免盲目堆砌不相关的因变量；在模型设定、前置[[Hypothesis\|假设]]诊断（多元正态性、协方差齐性）以及事后分解路径中行使审慎的统计判断。
+> - **研究者角色** 研究者需基于严谨的实质性理论预先确定[[Dependent Variable\|因变量]]集合，避免盲目堆砌不相关的因变量；在模型设定、前置假设诊断（多元正态性、协方差齐性）以及事后分解路径中行使审慎的统计判断。
 > - **有效性标准** 核心致力于保障统计结论效度（有效控制 $\alpha$ 错误膨胀并提升统计功效）与[[Construct Validity\|构念效度]]（通过多维指标联合表征复杂[[Construct\|构念]]）。
 > - **不声称回答的问题** MANOVA 本身属于观察或实验组间均值比较技术，**不能仅凭多元显著性直接推断因果机制（在非[[Random Assignment\|随机分配]]的[[Observation Method\|观察研究]]中仍受选择偏差制约）**；同时不能替代结构方程模型（[[Causal Modeling\|SEM]]）对因变量间双向因果路径与测量误差的直接建模。
 
@@ -123,7 +123,7 @@ updated: 2026-09-17
 > [!formula-step] 公式步骤一　离差平方和与交叉乘积矩阵分解（SSCP Decomposition）
 > $$\mathbf{T} = \mathbf{H} + \mathbf{E}$$
 >
-> **这个公式在做什么** 将多元总离差平方和与交叉乘积矩阵（$\mathbf{T}$，Total SSCP）解构为组间[[Hypothesis\|假设]]矩阵（$\mathbf{H}$，Hypothesis/Between SSCP）与组内误差矩阵（$\mathbf{E}$，Error/Within SSCP）。
+> **这个公式在做什么** 将多元总离差平方和与交叉乘积矩阵（$\mathbf{T}$，Total SSCP）解构为组间假设矩阵（$\mathbf{H}$，[[Hypothesis]]/Between SSCP）与组内误差矩阵（$\mathbf{E}$，Error/Within SSCP）。
 >
 > **符号说明**
 > - $\mathbf{T}$：$p \times p$ 维总变异矩阵，对角线为各因变量的总方差，非对角线为因变量间的总协方差。
@@ -208,7 +208,7 @@ updated: 2026-09-17
 > - **SPSS**
 >   `Analyze -> General Linear Model -> Multivariate`，勾选 `Descriptive statistics`、`Estimates of effect size`、`Homogeneity tests` 及 `Post Hoc`。
 > - **规范报告格式**
->   应当完整汇报统计量名称、近似 $F$ 值、[[Hypothesis\|假设]]自由度与误差自由度、$p$ 值以及偏 $\eta^2$。例：*“多[[Variable\|变量]][[Analysis of Variance\|方差分析]]表明，教师开展科研的主效应显著，$F(4, 251) = 3.73, p = .006, \text{Wilks' } \Lambda = .944, \text{partial } \eta^2 = .056$。”*
+>   应当完整汇报统计量名称、近似 $F$ 值、假设自由度与误差自由度、$p$ 值以及偏 $\eta^2$。例：*“多[[Variable\|变量]][[Analysis of Variance\|方差分析]]表明，教师开展科研的主效应显著，$F(4, 251) = 3.73, p = .006, \text{Wilks' } \Lambda = .944, \text{partial } \eta^2 = .056$。”*
 
 ---
 

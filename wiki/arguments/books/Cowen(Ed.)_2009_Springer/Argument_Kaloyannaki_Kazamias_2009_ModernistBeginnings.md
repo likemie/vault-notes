@@ -7,10 +7,10 @@ title: "Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings"
 argument_key: "Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings"
 argument_display_title: "The Modernist Beginnings of Comparative Education: The Proto-Scientific and The Reformist-meliorist Administrative Motif"
 argument_kind: "book-chapter"
-argument_related_count: 76
-argument_related_level: 5
-argument_related_stars: "⭐⭐⭐⭐⭐"
-argument_related_color: "#fecdd3"
+argument_related_count: 72
+argument_related_level: 4
+argument_related_stars: "⭐⭐⭐⭐"
+argument_related_color: "#fef3c7"
 authors:
   - "[[Pella Kaloyannaki|Kaloyannaki, P.]]"
   - "[[Andreas Kazamias|Kazamias, A. M.]]"
@@ -41,7 +41,6 @@ related_concepts:
   - "[[Geisteswissenschaften]]"
   - "[[Cosmopolitanism]]"
   - "[[Positivism]]"
-  - "[[Document]]"
   - "[[Faculty Psychology]]"
   - "[[International Education]]"
   - "[[Policy Borrowing]]"
@@ -55,10 +54,8 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Normal School]]"
   - "[[Performance Indicators]]"
-  - "[[Bildung]]"
   - "[[Rote Learning]]"
   - "[[Value Neutrality]]"
-  - "[[Hypothesis]]"
   - "[[Leading Questions]]"
   - "[[Variable]]"
   - "[[Falsification]]"
@@ -68,7 +65,6 @@ related_concepts:
   - "[[Ontology]]"
   - "[[State Educational Sovereignty]]"
   - "[[Culture Générale]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Research Translation]]"
   - "[[Problem Solving]]"
   - "[[Whiggism]]"
@@ -138,7 +134,7 @@ updated: 2026-10-09
 
 > [!concept-lens] 阅读透镜
 > - **对象** 19 世纪前中期现代比较教育学奠基文本，包括朱利安 1817 年《计划》（Esquisse）与问卷题项、库森 1831 年《普鲁士公共教育现状报告》与法国 1833 年基佐法案、霍勒斯·曼 1844 年《[[Seventh Annual Report of the Massachusetts Board of Education\|第七次年度报告]]》、[[Calvin Stowe\|卡尔文·斯托]]（Calvin Stowe）1837 年俄亥俄州报告，以及[[Henry Barnard\|亨利·巴纳德]]（Henry Barnard）1872 年《国民教育》（[[National Education]]）两卷本巨著。
-> - **张力** 20 世纪行为[[Positivism\|实证主义]]对早期[[Document\|文献]]主观偏见与方法粗糙的时代倒错指责 vs 历史情境中启蒙人文理性、[[Faculty Psychology\|心灵官能心理学]]（faculty psychology）与国家道德重生的整全抱负；欧洲行政官员以实定法条文移植为核心的借用 vs 美国改革者在共和政体危机下将外部经验作为国内政治动员合法化工具的深层修辞。
+> - **张力** 20 世纪行为[[Positivism\|实证主义]]对早期文献主观偏见与方法粗糙的时代倒错指责 vs 历史情境中启蒙人文理性、[[Faculty Psychology\|心灵官能心理学]]（faculty psychology）与国家道德重生的整全抱负；欧洲行政官员以实定法条文移植为核心的借用 vs 美国改革者在共和政体危机下将外部经验作为国内政治动员合法化工具的深层修辞。
 > - **贡献** 系统解构了学科起源叙事中的单向度实证主义偏见，揭示出朱利安文献兼具实证分类与[[International Education\|国际教育]]和平主义的双重特质，并在跨大西洋视野下提炼出改良主义在欧陆制度直接移植与北美政治合法化依据之间的机制分殊。
 
 ---
@@ -157,8 +153,8 @@ updated: 2026-10-09
 
 > [!warrant]- 理论如何支撑论证
 > 这一组理论工具构成了从[[Epistemology\|认识论]]预设到政治行动策略的严密推理桥梁：
-> 1. [[Enlightenment\|启蒙现代性范式]]与改良主义解释了[[Marc-Antoine Jullien\|朱利安]]、[[Victor Cousin\|库森]]与[[Horace Mann\|霍勒斯·曼]]等不同国别学者何以不约而同地将教育确立为社会大厦的基石，并试图借助跨国经验来救治各国的制度缺陷；
-> 2. [[Faculty Psychology\|心灵官能心理学]]与欧洲大陆[[Geisteswissenschaften|人文科学]]概念，合理解释了朱利安[[Questionnaire\|问卷]]中看似充满道德说教与价值偏见的题项，破除了现代[[Positivism\|实证主义]]对早期[[Document\|文献]]的脱节指责；
+> 1. [[Enlightenment\|启蒙现代性范式]]与改良主义解释了朱利安、[[Victor Cousin\|库森]]与[[Horace Mann\|霍勒斯·曼]]等不同国别学者何以不约而同地将教育确立为社会大厦的基石，并试图借助跨国经验来救治各国的制度缺陷；
+> 2. [[Faculty Psychology\|心灵官能心理学]]与欧洲大陆[[Geisteswissenschaften|人文科学]]概念，合理解释了朱利安[[Questionnaire\|问卷]]中看似充满道德说教与价值偏见的题项，破除了现代[[Positivism\|实证主义]]对早期文献的脱节指责；
 > 3. 外国教育学与政策借用框架，精准切分了欧洲大陆中央集权行政体制下的法案移植逻辑，与美洲联邦分权共和政体下地方改革者动用外部证据平抑本土争议的[[Discourse|话语]]合法化机制。（pp.17–18, 28–30, 33–34）
 
 ---
@@ -168,14 +164,14 @@ updated: 2026-10-09
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **历史文献辨析与思想史考掘**<br>Intellectual Historiography | 对[[Marc-Antoine Jullien\|朱利安]]《计划》初版本、[[Victor Cousin\|库森]]普鲁士教育报告原著、[[Horace Mann\|霍勒斯·曼]]第七次年度报告以及相关传记史料开展考据，还原各思想家从大革命阵痛到七月王朝、从波士顿学监争议到边疆立州立法的具体情境。（pp.11–13, 24–26, 31–32） |
+> | **历史文献辨析与思想史考掘**<br>Intellectual Historiography | 对朱利安《计划》初版本、[[Victor Cousin\|库森]]普鲁士教育报告原著、[[Horace Mann\|霍勒斯·曼]]第七次年度报告以及相关传记史料开展考据，还原各思想家从大革命阵痛到七月王朝、从波士顿学监争议到边疆立州立法的具体情境。（pp.11–13, 24–26, 31–32） |
 > | **问卷指标与法案文本分析**<br>Textual & Indicator Analysis | 逐项解构朱利安[[Questionnaire\|问卷]]在初等与中等教育领域设计的指标维度，细致比对[[Prussian Draft Education Law of 1819\|普鲁士 1819 年聚芬法案条文]]与法国 1833 年[[Guizot Law of 1833\|基佐法案]]条款之间的法制移植痕迹。（pp.14–17, 26–29） |
 > | **跨大西洋认识论比较**<br>Transatlantic Epistemic Comparison | 将法兰西欧陆学者（以实证归纳与国家法典为中心）与美利坚学者（以共和民情、地方自治与经验叙事为中心）进行双向对称性对照，提炼借用[[Discourse\|话语]]在不同政治体制下的功能分殊。（pp.31–34） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **原始经典[[Document\|文献]]** | [[Esquisse d'un ouvrage sur l'éducation comparée\|朱利安 1817 年《关于比较教育的一项著作的计划与初步观点》（Esquisse）]]及其附录问卷；库森 1831 年[[Report on the State of Public Instruction in Prussia\|《普鲁士公共教育现状报告》]]与 1837 年《普鲁士王国中等教育备忘录》；[[Seventh Annual Report of the Massachusetts Board of Education\|霍勒斯·曼 1844 年《第七次年度报告》]]；[[Report on Elementary Public Instruction in Europe\|斯托 1837 年《欧洲公共教育报告》]]；[[National Education in Europe\|巴纳德 1872 年《国民教育》（National Education，2 卷）]]。（pp.11, 26, 30–33） |
+> | **原始经典文献** | [[Esquisse d'un ouvrage sur l'éducation comparée\|朱利安 1817 年《关于比较教育的一项著作的计划与初步观点》（Esquisse）]]及其附录问卷；库森 1831 年[[Report on the State of Public Instruction in Prussia\|《普鲁士公共教育现状报告》]]与 1837 年《普鲁士王国中等教育备忘录》；[[Seventh Annual Report of the Massachusetts Board of Education\|霍勒斯·曼 1844 年《第七次年度报告》]]；[[Report on Elementary Public Instruction in Europe\|斯托 1837 年《欧洲公共教育报告》]]；[[National Education in Europe\|巴纳德 1872 年《国民教育》（National Education，2 卷）]]。（pp.11, 26, 30–33） |
 > | **立法与政策法案** | [[Prussian Draft Education Law of 1819\|普鲁士 1819 年聚芬教育法案]]（Süvern Law of 1819）；法国七月王朝 [[Guizot Law of 1833\|1833年基佐法案]]（Loi Guizot）；马萨诸塞州公立学校与师范教育法令。（pp.26–29, 31） |
 > | **权威研究与评注文献** | 斯图尔特·弗雷泽（Stewart Fraser）朱利安文献集（Fraser, 1964）；罗伯特·帕尔默（R. R. Palmer）朱利安思想传记（Palmer, 1993）；沃尔特·布鲁尔（Walter Brewer）库森专著（Brewer, 1971）；劳伦斯·克雷明（Lawrence A. Cremin）霍勒斯·曼论集（Cremin, 1957）；[[Harold Noah\|哈罗德·诺亚]]与[[Max Eckstein\|马克斯·埃克斯坦]]（Harold Noah & Max Eckstein）[[Scientism\|科学主义]]学科史（Noah & Eckstein, 1969）。（pp.12, 16–18, 25, 32） |
 
@@ -216,7 +212,7 @@ updated: 2026-10-09
 ### 论证步骤一　朱利安将比较教育奠基为服从伦理规范的准实证人文科学，以全人教化预防暴力革命并构建和平秩序
 
 > [!claim] 步骤一核心主张
-> [[Marc-Antoine Jullien\|朱利安]]将比较教育界定为一门类似于比较解剖学的准实证科学，首创标准化[[Questionnaire\|问卷]]与跨国比较观察表以推进教育事实分类；这一早期构想植根于启蒙自由主义与欧洲大陆[[Geisteswissenschaften|人文科学]]传统，旨在通过体智德协调发展实现全人重生、预防流血革命并促进国际和平。（pp.11–24）
+> 朱利安将比较教育界定为一门类似于比较解剖学的准实证科学，首创标准化[[Questionnaire\|问卷]]与跨国比较观察表以推进教育事实分类；这一早期构想植根于启蒙自由主义与欧洲大陆[[Geisteswissenschaften|人文科学]]传统，旨在通过体智德协调发展实现全人重生、预防流血革命并促进国际和平。（pp.11–24）
 
 #### 1. 朱利安借比较解剖学类比构建事实分类，设计覆盖六大领域的跨国教育观察指标体系
 
@@ -224,7 +220,7 @@ updated: 2026-10-09
 
 > [!method-position] 居维叶比较解剖学方法论类比与教育实证转向
 > - **社会危机与教育病理根源** 朱利安与其同时代的法国社会学-[[Positivism\|实证主义]]哲学家[[Auguste Comte\|奥古斯特·孔德]]（Auguste Comte）相似，坚信[[Scientific Method\|科学方法]]可应用于人类社会事务；他痛陈大革命后欧洲道德纽带解体与心灵堕落导致了流血战争，并将病灶直指各国教育的“不完整、缺陷与不协调”，由此将教育确立为“整个社会大厦的真正基石”与见解习惯的根本源泉。（pp.13–14; Fraser, 1964:35）
-> - **跨学科解剖学类比** 马克-安托万·朱利安（Marc-Antoine Jullien de Paris）在 1817 年《[[Esquisse d'un ouvrage sur l'éducation comparée\|关于比较教育的一项著作的计划与初步观点]]》（*Esquisse d'un ouvrage sur l'éducation comparée*，简称《计划》）及 1833 年[[Document\|文献]]中确立核心类比：正如乔治·居维叶（Georges Cuvier）运用比较解剖学与比较地质学使生物地质科学摆脱幼年状态，跨国教育体制横向比较同样能为完善教育科学提供前所未有的实证手段。（pp.12, 23; Palmer, 1993:205）
+> - **跨学科解剖学类比** [[Marc-Antoine Jullien|马克-安托万·朱利安]]（Marc-Antoine Jullien de Paris）在 1817 年《[[Esquisse d'un ouvrage sur l'éducation comparée\|关于比较教育的一项著作的计划与初步观点]]》（*Esquisse d'un ouvrage sur l'éducation comparée*，简称《计划》）及 1833 年文献中确立核心类比：正如乔治·居维叶（Georges Cuvier）运用比较解剖学与比较地质学使生物地质科学摆脱幼年状态，跨国教育体制横向比较同样能为完善教育科学提供前所未有的实证手段。（pp.12, 23; Palmer, 1993:205）
 > - **准实证科学构想与经验归纳** 主张采用“经验-演绎法”（empirico-deductive），运用类似于机械工艺与实证科学的方法搜集客观可确定的经验事实，通过分析图表（analytical charts）横向关联与系统比对归纳出确定法则，使教育几乎成为一门实证科学。（pp.12–14）
 > - **社会病理学诊断功能** 经验事实分类超越了静态数据堆砌，旨在客观诊断欧洲各国教育机体的“健康部位与患病断层”（deficient and ailing sections），使教育研究摆脱政治专制干预与教会神学偏见，并为瑞士各州国家认同建构等现实治理提供科学依据。（pp.13–14）
 
@@ -246,7 +242,7 @@ updated: 2026-10-09
 > | **初等与大众教育** | **办学组织与财政维系** | 公立与私立学校数量、行政隶属与视导组织、办学经费维系来源；不同宗教派系学校的区分；是否实行免收学费。 | 定量统计与建制分类；评估国家与教会在国民初等教育中的制度分工。 |
 > | **初等与大众教育** | **学生规模与师资体制** | 学童入学年龄、适龄儿童净在校率；初等学校教师与校长数量、师资资格考核选拔规程、薪资报酬水平、职务晋升通道与退休抚恤制度。 | 人口学统计与人事法制对比；诊断教师队伍专业化水准与初等教育普及深度。 |
 > | **初等与大众教育** | **身体教育与卫生环境** | 婴儿哺乳习惯、日常饮食营养摄入、衣着防寒、睡眠作息与寝具卫生；体育游戏、体操操练与户外远足；传染病防治、天花疫苗接种普及率与学童死亡率。 | 医学与生理学指标；将儿童体质健全确立为现代文明社会大厦的首要物质基础。 |
-> | **初等与大众教育** | **道德情感与宗教训育** | 早期道德情感启发、恶习抑制规程、家庭母亲[[Bildung\|教化]]的影响力；宗教教学是枯燥教条的机械背诵还是触及心灵的启发；学校纪律规程、体罚惩戒、奖惩机制与竞赛激励。 | 深度定性诠释与价值判断；探索以道德教化预防社会犯罪与政治动荡的心灵防线。 |
+> | **初等与大众教育** | **道德情感与宗教训育** | 早期道德情感启发、恶习抑制规程、家庭母亲教化的影响力；宗教教学是枯燥教条的机械背诵还是触及心灵的启发；学校纪律规程、体罚惩戒、奖惩机制与竞赛激励。 | 深度定性诠释与价值判断；探索以道德教化预防社会犯罪与政治动荡的心灵防线。 |
 > | **初等与大众教育** | **智育发展与官能启迪** | 儿童心理官能的循序渐进开发；以法国哲学家皮埃尔·拉罗米吉埃（Pierre Laromiguière）哲学心理学为参照，考察感官初阶训练、记忆力练习，以及对三大核心心灵官能（注意力、比较力、推理力）的启迪规程。 | 启蒙心灵官能心理学操作化；以理性认知规律取代经院[[Rote Learning\|死记硬背]]。 |
 > | **初等与大众教育** | **家庭公校衔接与平民教育普及** | 家庭私领域教育与公立学校教育是和谐互补还是冲突对立；初等教育体系是否足够健全完备，以确保向贫困与平民劳动阶层儿童提供开发其全部官能所必需的不可或缺的基础知识。 | 社会学与阶级流动维度；评估初等教育作为平民社会流动通道与国家凝聚纽带的制度效能。 |
 > | **中等与古典教育** | **学校建制与学费结构** | 公立学院、文理中学与私立寄宿中学的创办渊源、学费标准、年级划分与走读/住宿规程；中学在校生年龄与阶层分布。 | 制度沿革与阶层教育准入调查；剖析中产与精英阶层的学术分流机制。 |
@@ -260,7 +256,7 @@ updated: 2026-10-09
 在 20 世纪下半叶的学科史叙事中，朱利安因最早倡导建立事实分析图表而被尊为实证主义先驱。然而，当行为主义实证学派以现代定量测量的“[[Value Neutrality|价值无涉]]”尺度检验其问卷时，却指认其题项充斥着大量不可容忍的主观偏见与诱导性提问：
 
 > [!critique-method] 20 世纪行为实证派对朱利安问卷的“偏见”批判
-> - **先验哲学预设主导提问（Biased Questions）** [[Harold Noah\|哈罗德·诺亚]]（Harold Noah）与[[Max Eckstein\|马克斯·埃克斯坦]]（Max Eckstein）（Noah & Eckstein, 1969:29）尖锐指出，朱利安问卷过于冗长且带有严重主观偏见，其对理想教育目标的先验哲学[[Hypothesis\|假设]]彻底渗透并支配了所提的问题，绝非客观事实调查。（p.16）
+> - **先验哲学预设主导提问（Biased Questions）** [[Harold Noah\|哈罗德·诺亚]]（Harold Noah）与[[Max Eckstein\|马克斯·埃克斯坦]]（Max Eckstein）（Noah & Eckstein, 1969:29）尖锐指出，朱利安问卷过于冗长且带有严重主观偏见，其对理想教育目标的先验哲学假设彻底渗透并支配了所提的问题，绝非客观事实调查。（p.16）
 > - **道德宗教题项中的价值诱导（[[Leading Questions]]）** 题项设计充斥盘根错节的引导性提问，直接质问“宗教教学是否局限于枯燥教条与仪式背诵，还是深入触及儿童心灵良知培养虔敬与博爱”，并借用巴西道（Johann Bernhard Basedow）之说质问是否引导儿童分清美德与恶习以避免伪善，借调查强力推销自身启蒙伦理。（pp.16–17）
 > - **智育设问中的学派独尊与内容预设** 题项公然预设特定教学流派，直接质问学校“是否采用了[[Johann Heinrich Pestalozzi\|裴斯泰洛齐]]（Johann Heinrich Pestalozzi）先生在其实验学校成功践行的算术教学法”，并在括号中大段论证完整学科体系对文明人的必要性。（p.17; Fraser, 1964:63）
 > - **单一[[Faculty Psychology\|官能心理学]]教条垄断** 在心智训练题项中，完全以法国哲学家皮埃尔·拉罗米吉埃（Pierre Laromiguière）在《哲学课》中确立的三官能学说为绝对真理，强行要求各地答卷者汇报如何按顺序训练注意力（首要官能）、比较力与推理力。（pp.16–17; Fraser, 1964:64）
@@ -416,7 +412,7 @@ updated: 2026-10-09
 ### 论证步骤三　北美改革者突破直接制度移植，将外国公立教育实绩转译为击败保守势力、维系共和政体的合法化依据
 
 > [!claim] 步骤三核心主张
-> [[Horace Mann\|霍勒斯·曼]]、斯托与巴纳德等美国改革者投身欧洲教育考察，虽在方法论形态上多属于描述性、非批判性的外国教育学编年史，但在制度功能上，他们将欧洲公立教育的卓越成效战略性地[[Transfer Translation Transformation\|转译]]为击败国内反对派、为自由共和政体确立公共学校制度的强大合法化依据。（pp.31–34）
+> [[Horace Mann\|霍勒斯·曼]]、斯托与巴纳德等美国改革者投身欧洲教育考察，虽在方法论形态上多属于描述性、非批判性的外国教育学编年史，但在制度功能上，他们将欧洲公立教育的卓越成效战略性地转译为击败国内反对派、为自由共和政体确立公共学校制度的强大合法化依据。（pp.31–34）
 
 #### 1. 美利坚自由共和政体视普及教育为立国基石，但公立学校运动遭遇地方宗派势力的严重合法性阻抗
 
@@ -528,8 +524,8 @@ updated: 2026-10-09
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **现代主义发端由准科学人道主义与行政[[Educational Meliorism\|改良主义]]双重母题共同塑造** 比较教育学的现代主义发端由后启蒙现代性催生的两大母题共同奠基：[[Marc-Antoine Jullien\|朱利安]]开创的准[[Proto-Scientific Motif\|科学人道主义母题]]，以及欧美教育决策者推进的政策导向行政改良主义母题，二者合力构筑了学科早期的[[Epistemology\|认识论]]骨架。（pp.11–13, 33–34）
-> 2. **朱利安准实证科学构想本质上是服从全人[[Bildung\|教化]]与世界和平的欧陆人文[[Geisteswissenschaften|精神科学]]** 朱利安以比较解剖学为类比的分析图表与标准化[[Questionnaire\|问卷]]设计，本质上属于欧陆传统意义上的人文科学；其经验事实调查统摄于体智德协调发展、全人道德重生、预防流血革命与国际和平的[[Cosmopolitanism|世界主义]]工程，绝非 20 世纪[[Value Neutrality\|价值无涉]]的技术官僚实证论。（pp.12–14, 16–22）
+> 1. **现代主义发端由准科学人道主义与行政[[Educational Meliorism\|改良主义]]双重母题共同塑造** 比较教育学的现代主义发端由后启蒙现代性催生的两大母题共同奠基：朱利安开创的准[[Proto-Scientific Motif\|科学人道主义母题]]，以及欧美教育决策者推进的政策导向行政改良主义母题，二者合力构筑了学科早期的[[Epistemology\|认识论]]骨架。（pp.11–13, 33–34）
+> 2. **朱利安准实证科学构想本质上是服从全人教化与世界和平的欧陆人文[[Geisteswissenschaften|精神科学]]** 朱利安以比较解剖学为类比的分析图表与标准化[[Questionnaire\|问卷]]设计，本质上属于欧陆传统意义上的人文科学；其经验事实调查统摄于体智德协调发展、全人道德重生、预防流血革命与国际和平的[[Cosmopolitanism|世界主义]]工程，绝非 20 世纪[[Value Neutrality\|价值无涉]]的技术官僚实证论。（pp.12–14, 16–22）
 > 3. **跨大西洋借用机制发生根本分化：欧陆侧重国家立法移植，北美转向政治合法化依据** 欧美改革者在对待外部经验时呈现出深刻的机制分化：以[[Victor Cousin\|库森]]为代表的欧洲语境将普鲁士考察直接转化为国家实定法（1833 年基佐法案）中的具体制度规程移植；而以[[Horace Mann\|霍勒斯·曼]]为代表的北美语境则开创了**将外国先进经验作为国内争议政策的合法化依据**的全新路径，借外部实绩击败国内保守势力，奠定共和政体公立学校基石。（pp.28–30, 33–34）
 > 4. **教育改良主义作为统摄性母题，确立了兼具事实经验求真与社会伦理关怀的比较认识论问题域** 改良主义（源自拉丁语 *melior*，即以改善为探究宗旨）是统摄 19 世纪所有外国教育探究的统治性母题；它将跨国事实探究与国家治理危机、共和政体存续及公民权利紧密绑定，确立了比较教育学从发端起便兼具事实求真与规范价值关怀的比较认识论问题域（comparative epistemic problematique）。（pp.33–34）
 
@@ -537,7 +533,7 @@ updated: 2026-10-09
 
 ## 关键引用
 
-> [!citation-card] [[Marc-Antoine Jullien\|朱利安]]：教育如同医学与解剖学，必须借助事实图表与比较成为准实证科学
+> [!citation-card] 朱利安：教育如同医学与解剖学，必须借助事实图表与比较成为准实证科学
 > 正如所有其他科学与艺术一样，教育由事实与观察构成。因此，为这门科学编制排列在分析图表中的事实与观察汇编显得尤为必要，以便对它们进行关联与比较，从中推导出确定原则与规程，从而使教育几乎成为一门实证科学……对比较解剖学的研究推进了人体解剖学；同样，对比较教育的研究必将为完善教育科学提供新的手段。（p.12）
 >
 > *Education, as all other sciences and all the arts, is composed of facts and observations. It, therefore, seems necessary to form, for this science as one has done for other branches of knowledge, collections of facts and observations, arranged in analytical charts, which permit them to be related and compared, to deduct from them certain principles, determined rules, so that education might become almost nearly a positive science.*
@@ -552,7 +548,7 @@ updated: 2026-10-09
 >
 > *Mann understood well the integral relationship between freedom, [[Popular Education]], and republican government ... A nation cannot long remain ignorant and free. No political structure, however artfully devised, can inherently guarantee the rights and liberties of citizens, for freedom can be secure only as knowledge is widely distributed among the populace. Hence, universal popular education is the only foundation on which republican government can securely rest.*
 
-> [!citation-card] 卡洛扬纳基与卡扎米亚斯：美洲借用的实质是将外国实绩[[Transfer Translation Transformation\|转译]]为本土争议改革的合法化依据
+> [!citation-card] 卡洛扬纳基与卡扎米亚斯：美洲借用的实质是将外国实绩转译为本土争议改革的合法化依据
 > 毫无疑问，与欧洲人一样，美利坚的决策者和行政官员同样受到从海外汲取有益教训这一愿望的驱动，但其目的绝非朱利安和库森所理解的那种[[Policy Borrowing\|教育借用]]或制度移植。更为确切的表述应当是：美国的[[Educational Meliorism\|改良主义]]者远赴海外寻找教训，主要是为了将其用作推进合众国国家公共教育改革的雄辩的合法化依据。（p.34）
 >
 > *It is, of course, the case that, like the Europeans, the American policy-makers and administrators were motivated 'by a desire to gain useful lessons from abroad', but not for the purpose of 'educational borrowing' or 'transplantation' as understood by Jullien and Cousin. It would be more accurate to say that the American meliorists sought 'lessons' from abroad to use as legitimating rationales for the reform of national public education in the United States.*
@@ -562,7 +558,7 @@ updated: 2026-10-09
 ## 自述局限
 
 > [!warning]
-> 在考察政策导向的行政[[Educational Meliorism\|改良主义]]母题时，受限于 19 世纪中后期外国教育[[Document\|文献]]蔚为大观、卷帙浩繁的客观体量，考察范围聚焦于英法美三国最具有国家决策建制代表性的先驱个案（法国的[[Victor Cousin\|库森]]，美国的[[Horace Mann\|霍勒斯·曼]]、斯托与巴纳德），并未追求全景式包揽所有观察异域教育的游记与报告；同时，受限于当时[[Auslandspadagogik\|外国教育学]]整体发展水平，早期文献普遍表现出重事实罗列与报道、轻深层历史文化情境归因与跨国解释的局限性。（pp.11, 24–25, 32–33）
+> 在考察政策导向的行政[[Educational Meliorism\|改良主义]]母题时，受限于 19 世纪中后期外国教育文献蔚为大观、卷帙浩繁的客观体量，考察范围聚焦于英法美三国最具有国家决策建制代表性的先驱个案（法国的[[Victor Cousin\|库森]]，美国的[[Horace Mann\|霍勒斯·曼]]、斯托与巴纳德），并未追求全景式包揽所有观察异域教育的游记与报告；同时，受限于当时[[Auslandspadagogik\|外国教育学]]整体发展水平，早期文献普遍表现出重事实罗列与报道、轻深层历史文化情境归因与跨国解释的局限性。（pp.11, 24–25, 32–33）
 
 ---
 

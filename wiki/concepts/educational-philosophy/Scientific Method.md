@@ -9,7 +9,7 @@ aliases:
 summary: "以经验观察、受控检验与假设证伪为基础的系统性探究程序；传统实证主义将其预设为贯通自然与社会的普适法则，当代科学哲学与科学教育将其重构为多元情境化的社会认识论实践，而现代科学学（Metascience）进一步将科学方法反身应用于评估与革新科研资助及评价制度本身。"
 type: concept
 domain: "educational-philosophy"
-related_count: 78
+related_count: 76
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -20,7 +20,6 @@ tags:
   - theme/epistemology
   - theme/metascience
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Falsification]]"
   - "[[Epistemology]]"
@@ -40,10 +39,10 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Empiricism]]"
   - "[[Principle of Parsimony]]"
+  - "[[Hypothesis]]"
   - "[[Causality]]"
   - "[[Paradigm]]"
   - "[[Value Neutrality]]"
-  - "[[Bildung]]"
   - "[[Chain of Evidence]]"
   - "[[Retrodiction]]"
   - "[[Socioscientific Issues]]"
@@ -87,7 +86,6 @@ related_instruments: []
 related_persons:
   - "[[Anthony Giddens]]"
   - "[[Andreas Kazamias]]"
-  - "[[Marc-Antoine Jullien]]"
   - "[[William A. Sandoval]]"
   - "[[Jürgen Habermas]]"
   - "[[Michael Kratsios]]"
@@ -107,7 +105,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-13
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Scientific Method
@@ -117,7 +115,7 @@ updated: 2026-10-09
 ## 定义
 
 > [!def] 核心定义
-> 科学方法（Scientific Method）传统上被界定为一套以系统观察、提出[[Hypothesis|假设]]、隔离[[Variable|变量]]、受控实验检验以及逻辑推理为核心的经验探究程序，其关键特质在于操作程序的可公开复现性与结论的[[Falsification|可证伪性]]。在当代科学哲学、科学社会学与科学教育界，单一标准化的“机械五步法”神话已被消解，科学方法被重构为包含观察建模、历史推演与共同体辩护的多元化社会[[Epistemology|认识论]]实践；而在现代科学学中，科学方法进一步被反身运用于对科研资助分配、同行评议与[[Knowledge Production|知识生产]]制度本身的实证检验与循证重构。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]; [[Argument_Sandoval_2005_SE|(Sandoval, 2005)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 144–145, 154)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 31–32)]]
+> 科学方法（Scientific Method）传统上被界定为一套以系统观察、提出假设、隔离[[Variable|变量]]、受控实验检验以及逻辑推理为核心的经验探究程序，其关键特质在于操作程序的可公开复现性与结论的[[Falsification|可证伪性]]。在当代科学哲学、科学社会学与科学教育界，单一标准化的“机械五步法”神话已被消解，科学方法被重构为包含观察建模、历史推演与共同体辩护的多元化社会[[Epistemology|认识论]]实践；而在现代科学学中，科学方法进一步被反身运用于对科研资助分配、同行评议与[[Knowledge Production|知识生产]]制度本身的实证检验与循证重构。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]; [[Argument_Sandoval_2005_SE|(Sandoval, 2005)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 144–145, 154)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 31–32)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 科学共同体生成、检验、修正与积累系统化经验知识的核心路径与规范体系。
@@ -151,7 +149,7 @@ updated: 2026-10-09
 > [!contrast-table] 概念辨析
 > | 维度 | 科学方法（Scientific Method） | 科学主义（[[Scientism]]） | 实践认识论（[[Practical Epistemology]]） | 诠释学探究（[[Interpretive Paradigm]]） |
 > |:---|:---|:---|:---|:---|
-> | **[[Epistemology\|认识论]]前提** | 经验观察、逻辑推论与[[Hypothesis\|假设]][[Falsification\|证伪]]相统一 | 将经验科学方法视作获取真理的唯一合法途径 | 探究者在具体情境行动中内隐运用的求知信念 | 现实由具有能动性的人类主体主观建构与赋义 |
+> | **[[Epistemology\|认识论]]前提** | 经验观察、逻辑推论与假设[[Falsification\|证伪]]相统一 | 将经验科学方法视作获取真理的唯一合法途径 | 探究者在具体情境行动中内隐运用的求知信念 | 现实由具有能动性的人类主体主观建构与赋义 |
 > | **主客体关系** | 主张研究者保持客观中立，降低主观干扰 | 确立科技专家对社会客体的[[Absolute Knowing\|绝对认知]]支配 | 探究者在活动情境中与工具、同伴深度互动 | 研究者与研究对象处于“主体-主体”交往[[Dialogue in Education\|对话]]中 |
 > | **真理检验标准** | 经验可重复性、[[Predictive Validity\|预测效度]]与可证伪性 | 凡不能被量化测量的命题皆被判定为无意义 | 知识能否有效解决当下行动困境并达成理解 | 阐释是否具有丰富情境深度与反思共鸣感 |
 > | **方法论取向** | 假设检验、受控观察、建模与论证综合 | 机械套用数理量化与自然科学实验外壳 | 具身参与、行动反思与局内人情境决策 | [[In-depth Interview\|深度访谈]]、[[Participant Observation\|参与观察]]、文本阐释与意义还原 |
@@ -162,9 +160,9 @@ updated: 2026-10-09
 ## 核心要素
 
 > [!feature] 核心要素
-> - **[[Determinism|决定论]]与经验性[[Hypothesis|假设]]（Determinism & [[Empiricism]]）** 预设世界运转具有客观规律且由先行情境决定，一切有效知识的最终合法性均依赖于可检验的感官经验证据。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, p. 112)]]
+> - **[[Determinism|决定论]]与经验性假设（Determinism & [[Empiricism]]）** 预设世界运转具有客观规律且由先行情境决定，一切有效知识的最终合法性均依赖于可检验的感官经验证据。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, p. 112)]]
 > - **简约法则与普遍性概括（Parsimony & Generality）** 追求以最经济的概念与因果链条解释最为广泛的现象（[[Principle of Parsimony|奥卡姆剃刀]]），致力于将个别观察提升为具有预测力的普遍理论。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, p. 113)]]
-> - **假说演义与[[Falsification|可证伪性]]检验（Hypothesis-Deduction & Falsifiability）** 科学家借助思辨想象提出推测性假设，并设定严格的反驳与检验条件，在受控观察中暴露于潜在证伪风险之中（Popper, 1968）。
+> - **假说演义与[[Falsification|可证伪性]]检验（[[Hypothesis]]-Deduction & Falsifiability）** 科学家借助思辨想象提出推测性假设，并设定严格的反驳与检验条件，在受控观察中暴露于潜在证伪风险之中（Popper, 1968）。
 > - **方法[[Pluralism|多元主义]]与情境建模（Methodological Pluralism & Modeling）** 摒弃单一实验霸权，视具体学科对象灵活运用生态建模、天文观察、受控干预或历史推演。[[Argument_Sandoval_2005_SE|(Sandoval, 2005, p. 638)]]
 > - **社会性论证与共同体说服（Social Argumentation & Persuasion）** 科学事实并非客体世界的单向镜像投射，而是研究者在共同体内通过数据表征、修辞辩论与同行评议达成的暂定性共识。[[Argument_Sandoval_2005_SE|(Sandoval, 2005, p. 639)]]
 > - **[[Reflexivity|反身性]]实证评估（Reflexive Empirical Testing in [[Metascience]]）** 运用严格的对照实验、[[Causality|因果推断]]与数据透明度，系统检验同行评议、评审专家一致性与基金分配模式等科研建制本身的效率与偏误。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 31–32)]]
@@ -206,10 +204,10 @@ updated: 2026-10-09
 > **社会物理学与实证法则概括** 人类心灵必然从神学思辨走向经验实证阶段，社会现象与自然物理现象服从完全同质的不可逆客观因果法则；探究者应当放弃寻求宇宙起源或第一因的形而上学狂妄，通过系统性的受控观察、实验与比较概括建立不变的实证定律，从而实现“从观察中预见，从预见中控制”的社会治理目标。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1, p. 175)]]
 
 > [!claim] [[Anthony Giddens|Giddens, A.]]
-> **方法论统一与产出同构双重[[Hypothesis|假设]]** 经典实证主义对科学方法的坚定信念根植于两大核心预设之上：其一是“方法论统一”（unity of method），即自然科学的方法程序完全可以直接且平整地应用于社会科学探究；其二是“产出同构”（isomorphism of outcome），即社会科学探究的最终成果必须如同自然科学一样表述为普遍法则或类法则概括（laws or law-like generalizations）。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, p. 179)]]
+> **方法论统一与产出同构双重假设** 经典实证主义对科学方法的坚定信念根植于两大核心预设之上：其一是“方法论统一”（unity of method），即自然科学的方法程序完全可以直接且平整地应用于社会科学探究；其二是“产出同构”（isomorphism of outcome），即社会科学探究的最终成果必须如同自然科学一样表述为普遍法则或类法则概括（laws or law-like generalizations）。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, p. 179)]]
 
 > [!claim] Kaloyannaki, P. & [[Andreas Kazamias|Kazamias, A.]] M.
-> **启蒙现代性将科学方法投射至教育与社会治理** 19 世纪初现代主义先驱（如孔德与[[Marc-Antoine Jullien|朱利安]]）坚信科学方法能够应用于人类社会事务。朱利安借鉴解剖学与机械艺术的方法，主张通过严密的分析式问题表与系统化观察表采集经验数据，将比较教育学构筑为“准实证科学”，其目的不是发展[[Value Neutrality|价值中立]]的技术，而是通过客观经验事实诊断法国大革命后欧洲社会道德解体的病灶，进而实现全人[[Bildung|教化]]与和平改良。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 13–14)]]
+> **启蒙现代性将科学方法投射至教育与社会治理** 19 世纪初现代主义先驱（如孔德与朱利安）坚信科学方法能够应用于人类社会事务。朱利安借鉴解剖学与机械艺术的方法，主张通过严密的分析式问题表与系统化观察表采集经验数据，将比较教育学构筑为“准实证科学”，其目的不是发展[[Value Neutrality|价值中立]]的技术，而是通过客观经验事实诊断法国大革命后欧洲社会道德解体的病灶，进而实现全人教化与和平改良。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009, pp. 13–14)]]
 
 ---
 
@@ -265,7 +263,7 @@ updated: 2026-10-09
 
 > [!dev-timeline] 概念演变
 > - **17 世纪 — 培根经验归纳法奠定近代科学基础** [[Francis Bacon|弗朗西斯·培根]]提出经验归纳法，主张通过系统观察与实验事实积累发现自然规律，奠定了实验科学的方法论先导。
-> - **1810–1830 年代 — 启蒙现代性与跨国社会科学改良构想** [[Marc-Antoine Jullien|朱利安]]与孔德将科学方法外推至人类社会事务，主张通过分析式[[Questionnaire|问卷]]与系统观察表采集经验事实服务于全人[[Bildung|教化]]。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009)]]
+> - **1810–1830 年代 — 启蒙现代性与跨国社会科学改良构想** 朱利安与孔德将科学方法外推至人类社会事务，主张通过分析式[[Questionnaire|问卷]]与系统观察表采集经验事实服务于全人教化。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|(Kaloyannaki & Kazamias, 2009)]]
 > - **19 世纪中后期 — [[Positivism|实证主义]]法典化与社会学独立学科确立** 孔德与密尔系统确立实证[[Epistemology|认识论]]阶梯与经验因果归纳法则，奠定了现代统计与[[Survey Research|调查研究]]的实证根基。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011)]]
 > - **20 世纪前半叶 — 逻辑实证主义鼎盛与波普尔[[Falsification|证伪主义]]确立** 维也纳学派追求完全经验证实，波普尔（[[Karl Popper]]）提出证伪主义标准，确立检验与潜在反驳的核心标尺。
 > - **20 世纪 60–80 年代 — 库恩[[Paradigm|范式]]革命与[[Interpretive Paradigm|反实证主义]]哲学高涨** 库恩揭示常规科学与范式转换的历史社会嵌入性，科学方法纯粹客观中立的神话被打破；诠释学派与[[Critical Theory|批判理论]]崛起。
@@ -282,7 +280,7 @@ updated: 2026-10-09
 > > [!axis] 方法一元论（普遍法则） vs 方法多元论（情境建构）
 > > 争论焦点在于：科学探索到底遵循一套通用的、标准化的法则，还是依赖于具体学科和情境的多元实践？
 > > 
-> > - **传统实证派（一元论倾向）** 坚持所有真正的科学都必须遵循提出[[Hypothesis|假设]]、隔离[[Variable|变量]]、受控实验与经验[[Falsification|证伪]]的统一步骤。
+> > - **传统实证派（一元论倾向）** 坚持所有真正的科学都必须遵循提出假设、隔离[[Variable|变量]]、受控实验与经验[[Falsification|证伪]]的统一步骤。
 > > - **当代科学哲学与科学教育界（多元论建构派）** 坚决打破“唯一科学方法”的神话，指出天文学依赖宏观观察，生态学依赖模型拟合，进化生物学与地质学依赖历史[[Retrodiction|回溯推测]]，各学科具有各自合法且多样的科学方法。[[Argument_Sandoval_2005_SE|(Sandoval, 2005)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018)]]
 > 
 > > [!axis] [[Value Neutrality|价值无涉]]的客观测量 vs 价值渗透的社会[[Epistemology|认识论]]
@@ -306,7 +304,7 @@ updated: 2026-10-09
 > - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] — 批判学校教育中将科学方法简化为五步线性程序的教条神话，依据维特根斯坦家族相似性与微观[[Discourse|话语]][[Practical Epistemology|实践认识论]]，系统构建涵盖探究科学、工程设计与社会议题的跨领域实践矩阵。
 > - [[Argument_Sandoval_2005_SE|Sandoval (2005)]] — 提出实践[[Epistemology|认识论]]与[[Formal Epistemology|形式认识论]]的[[Analytic Framework|分析框架]]，揭示学生探究活动与所持形式[[Epistemological Beliefs|认识论信念]]的脱节，批判中小学科学教育将科学方法教条化为单一线性规程的神话。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统梳理西方教育探究方法论从[[Positivism|实证主义]]向后实证与批判[[Paradigm|范式]]的演化历程，复原传统科学方法八阶段与五步经验进程，并从存在主义、法兰克福学派与吉登斯社会学维度清算其忽视主体能动性的缺陷。
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 阐明 19 世纪比较教育发轫期将科学方法运用于社会治理与道德改良的现代性源流，剖析[[Marc-Antoine Jullien|朱利安]]借用分类、制表与事实收集为全人[[Bildung|教化]]与和平治理服务的准实证构想。
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 阐明 19 世纪比较教育发轫期将科学方法运用于社会治理与道德改良的现代性源流，剖析朱利安借用分类、制表与事实收集为全人教化与和平治理服务的准实证构想。
 > - [[Argument_Skourdoumbis_2024_AER|Skourdoumbis & Rowe (2024)]] — 批判当代[[Evidence-Based Education|循证教育]]对科学方法的教条化应用，揭示将教学质量简化为[[Meta-analysis|元分析]][[Effect Size|效应量]]与[[Variable|变量]]控制，剥离了教学实践作为人际交往的生成性[[Ontology|本体论]]。
 > - [[Argument_Peterson_1987_OpenCourt|Peterson (1987)]] — 从[[Theory of Knowledge|知识论]]视角界定科学方法的有效性限度与认识论边界，强调[[General Education|通识教育]]的核心在于理解科学方法能够支持哪些结论，以及哪些伦理与价值判断落在其解释范围之外。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 反思[[School Effectiveness|学校效能]]研究与量化评价中过度借用实证科学方法的认识论陷阱，揭示指标驱动的评价模式对微观教育复杂性的遮蔽。

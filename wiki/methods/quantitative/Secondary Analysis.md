@@ -8,16 +8,15 @@ summary: "对已有数据集或官方行政与跨国评估数据库进行的进�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 34
-method_related_level: 4
-method_related_stars: "⭐⭐⭐⭐"
+method_related_count: 31
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/research-methods
   - method/data-analysis
   - comparative-education
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Research Purpose]]"
   - "[[Unit of Analysis]]"
@@ -33,7 +32,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Response Bias]]"
   - "[[Research Question]]"
-  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Trend Study]]"
@@ -41,7 +39,6 @@ related_methods:
   - "[[Multiple Regression]]"
   - "[[Sampling Frame]]"
   - "[[Questionnaire]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Statistical Significance]]"
   - "[[Comparative Policy Analysis]]"
   - "[[Sample Size Determination]]"
@@ -60,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-07-09
-updated: 2026-10-11
+updated: 2026-10-15
 ---
 
 # Secondary Analysis
@@ -70,7 +67,7 @@ updated: 2026-10-11
 ## 定义
 
 > [!def] 方法定义
-> **二手分析（Secondary Analysis，又称二次分析）** 是指对已有数据集、官方行政记录或跨国大规模评估数据库进行的进一步挖掘与重新分析，以不同于原始调查的解释视角、理论[[Hypothesis|假设]]或比较框架推进对现实规律的理解（Hakim, 1982）。在比较教育与[[Policy Science in Comparative Education|政策科学]]中，研究者通过对国际组织（如[[OECD|经合组织]] [[PISA]]、欧盟 Eurydice 数据库）及国家官方普查与学业评估数据展开二手分析，能够绕过高昂的一手调研成本，系统透视教育政策执行偏差、跨国趋同假象与弱势群体学业抗拒机制。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(p. 12)]]; [[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 330–333)]]
+> **二手分析（Secondary Analysis，又称二次分析）** 是指对已有数据集、官方行政记录或跨国大规模评估数据库进行的进一步挖掘与重新分析，以不同于原始调查的解释视角、理论假设或比较框架推进对现实规律的理解（Hakim, 1982）。在比较教育与[[Policy Science in Comparative Education|政策科学]]中，研究者通过对国际组织（如[[OECD|经合组织]] [[PISA]]、欧盟 Eurydice 数据库）及国家官方普查与学业评估数据展开二手分析，能够绕过高昂的一手调研成本，系统透视教育政策执行偏差、跨国趋同假象与弱势群体学业抗拒机制。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(p. 12)]]; [[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 330–333)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 他人为其他[[Research Purpose|研究目的]]或官方行政管理已收集并整理的数据集，包括人口普查数据、国际大规模测评数据库（PISA、[[TIMSS]]）、超国家政策监测网络（Eurydice）、全国性学业质量监测报告以及高校行政人事统计记录。
@@ -111,9 +108,9 @@ updated: 2026-10-11
 ## 研究程序
 
 > [!proc] 通用程序
-> 1. **确立[[Research Question|研究问题]]与[[Hypothesis|假设]]** 明确拟检验的理论命题、政策假设或批判性议题，检索是否存在能够回答该问题的已有宏观或微观数据库。
+> 1. **确立[[Research Question|研究问题]]与假设** 明确拟检验的理论命题、政策假设或批判性议题，检索是否存在能够回答该问题的已有宏观或微观数据库。
 > 2. **数据可用性与质量审查** 详查原始研究的技术报告、[[Sampling Frame|抽样框架]]、无应答率、[[Variable|变量]]定义以及[[Questionnaire|问卷]]题项的信效度。
-> 3. **概念匹配与变量重构** 评估当前理论概念与原始变量之间的映射关系，对原始数据展开重[[Coding in Qualitative Research|编码]]、子样本提取或派生变量构造。
+> 3. **概念匹配与变量重构** 评估当前理论概念与原始变量之间的映射关系，对原始数据展开重编码、子样本提取或派生变量构造。
 > 4. **统计分析与敏感性核验** 运用适配复杂抽样权重的统计模型进行数据运算，排查测量误差、极端值及跨国比较中的等价性偏误。
 > 5. **审慎解释与边界明示** 明确指出分析结论在多大程度上受制于原始数据的时间范围与指标局限，将数据发现置于制度历史语境中进行阐释。
 
@@ -139,7 +136,7 @@ updated: 2026-10-11
 > - **偏误的继受性** 原始数据采集中的抽样偏误、测量误差与社会期望效应会无损传递至二手分析中，且研究者难以对其进行事后物理校正。
 > - **[[Operationalization|操作化]]受制于人** 研究者必须在既有[[Variable|变量]]中妥协，无法增设最理想的核心测量工具，可能出现概念滑移。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch12|(p. 12)]]
 > - **误用风险** 在不理解变量原始构建逻辑与复杂抽样设计（如 [[PISA]] 的学生权重与复本权重）的情况下进行简单汇总推断，导致[[Statistical Significance|统计显著性]]虚假膨胀。
-> - **补救方式** 研读原始数据技术手册与[[Coding in Qualitative Research|编码]]本；结合官方定性政策文本与质性案例展开多源互证；透明报告测量局限与解释边界。
+> - **补救方式** 研读原始数据技术手册与编码本；结合官方定性政策文本与质性案例展开多源互证；透明报告测量局限与解释边界。
 
 ---
 
@@ -151,7 +148,7 @@ updated: 2026-10-11
 > |:-----|:-----|:-----|
 > | [[Comparative Policy Analysis]] | 关联方法 | 二手分析为跨国比较政策分析提供大[[Sample Size Determination\|样本量]]化指标与官方统计基底支撑。 |
 > | [[Trend Study]] | 关联方法 | 二手分析常用于对多期普查或重复横截面测评展开跨时间演进趋势分析。 |
-> | [[Systematic Review]] | 互补方法 | 系统综述聚焦于同行评审[[Document\|文献]]的综合，而二手分析直接对原始数据微观库展开计算。 |
+> | [[Systematic Review]] | 互补方法 | 系统综述聚焦于同行评审文献的综合，而二手分析直接对原始数据微观库展开计算。 |
 > | [[PISA]] | 事实 | 二手分析在比较教育研究中最常调用的跨国大规模评估数据库之一。 |
 
 ---

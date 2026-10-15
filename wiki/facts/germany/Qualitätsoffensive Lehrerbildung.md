@@ -10,9 +10,9 @@ subtype: program
 region: germany
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 24
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 21
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2015–2023"
 initiator_organization: "[[Federal Ministry of Education and Research|德国联邦教育与研究部（BMBF）]]"
@@ -26,14 +26,11 @@ related_concepts:
   - "[[Normal School]]"
   - "[[Research-Practice Gap]]"
   - "[[Heterogeneity]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Paradigm]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Evidence-Based Education]]"
-  - "[[Attrition]]"
   - "[[Output-Oriented Governance]]"
   - "[[Scaffolding]]"
-  - "[[Document]]"
   - "[[Transfer Science]]"
   - "[[Educational Evidence Clearinghouses]]"
 related_theories: []
@@ -97,7 +94,7 @@ updated: 2026-10-15
 
 > [!dev-timeline] 项目推进历程
 > - **2013–2015 — 顶层制度确立与首轮竞争遴选** 联邦与各州历经数轮宪法权责磋商，达成联合攻坚协议；2014 年完成首轮全国盲审申报，2015 年首批 49 个大学改革项目正式启动实施。
-> - **2017 — 证据中介示范实体正式破土** 慕尼黑工业大学[[Tina Seidel\|蒂娜·赛德尔]]（Tina Seidel）团队在 QLB 专项资金支持下，正式推出[[Clearing House Unterricht\|德国教学研究清算中心]]（CHU）线上中介平台，成为全德首个专注于教学有效性证据二次[[Transfer Translation Transformation\|转译]]的示范旗舰。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]
+> - **2017 — 证据中介示范实体正式破土** 慕尼黑工业大学[[Tina Seidel\|蒂娜·赛德尔]]（Tina Seidel）团队在 QLB 专项资金支持下，正式推出[[Clearing House Unterricht\|德国教学研究清算中心]]（CHU）线上中介平台，成为全德首个专注于教学有效性证据二次转译的示范旗舰。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]
 > - **2019–2023 — 第二轮深化推进与数字化专项追加** 通过严谨的中期成果审计，绝大多数项目获准进入第二阶段（2019–2023）；面对全球疫情与数字化挑战，联邦追加设立“数字化与职业教育”专门子通道（Förderlinie Digitalisierung），资助 43 个数字化教学转型子专项。
 > - **2023–至今 — 终期结项与长效机制沉淀** 2023 年底 QLB 正式结项收官；[[Federal Ministry of Education and Research\|BMBF]] 委托独立智库完成国家综合评估报告；各受资助大学将 QLB 设立的教师教育学院、循证资源库与清算中心平台（如 CHU 通过对接威廉·施特默基金会（Wilhelm Stemmer Stiftung）长期注资）沉淀为各州高校的常设法定组织。
 
@@ -129,7 +126,7 @@ updated: 2026-10-15
 > > [!axis] 阶段性专项资助与结项后的“断崖式滑坡”风险
 > > QLB 设立为期 8 年的巨额外部注资极大地激发了大学创新活力，但由于各联邦州公共财政紧缩，项目于 2023 年期满后，部分大学未能全额将专职中介人员与创新实验编制纳入经常性编制，面临改革成果难以为继的隐忧。
 > >
-> > - **批评视角** 抨击联邦科研资助惯常的“项目制思维”（Projektitis），指出缺乏制度化经常预算会导致前期巨额沉淀资产随结项而[[Attrition\|流失]]。
+> > - **批评视角** 抨击联邦科研资助惯常的“项目制思维”（Projektitis），指出缺乏制度化经常预算会导致前期巨额沉淀资产随结项而流失。
 > > - **实践应对（以 [[Clearing House Unterricht\|CHU]] 为例）** 慕尼黑工业大学团队探索了“国家专项启动—产出高质量中介成果—引入战略慈善基金会长期资助至 2029 年”的跨越式自救机制，为项目制转化提供了关键范本。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]
 >
 > > [!axis] 自上而下的[[Output-Oriented Governance|循证治理]]意图 vs 大学内部多[[Paradigm|范式]]与学术自治抵制
@@ -139,7 +136,7 @@ updated: 2026-10-15
 > > - **治理启示** 教师教育转移绝不能降格为单向知识搬运的被动容器，而必须确立为高校科研人员与一线实践者在多范式平衡中开展平等双向对话的战略性试验场。
 
 > [!lessons] 经验教训与启示
-> - **中介[[Transfer Translation Transformation\|转译]]需要专业载体与时间减负** 仅在师范课程中灌输科研理论无法促成实践转变；必须如 CHU 所展示的那样，通过精炼的 Kurzreviews、配套微课与术语[[Scaffolding\|脚手架]]，直接减轻师生查阅厚重外文[[Document\|文献]]的认知负荷。
+> - **中介转译需要专业载体与时间减负** 仅在师范课程中灌输科研理论无法促成实践转变；必须如 CHU 所展示的那样，通过精炼的 Kurzreviews、配套微课与术语[[Scaffolding\|脚手架]]，直接减轻师生查阅厚重外文文献的认知负荷。
 > - **必须锁定教师教育者作为关键乘数** 师资培养的突破口不在于直接面对全德数十万分散的一线在岗教师，而在于赋能大学授课教师与实习指导教官，依托教学法研讨课实现规模化倍增。
 
 ---

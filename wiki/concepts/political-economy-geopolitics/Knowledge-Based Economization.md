@@ -5,7 +5,7 @@ aliases:
 summary: "指知识密集型资本主义的物质过程如何通过想象、指标和社会实践被话语建构并制度化的过程。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 47
+related_count: 46
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Academic Freedom]]"
   - "[[Competitiveness]]"
   - "[[Geopolitical Subject]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Economic Patriotism]]"
   - "[[Grandes Ecoles]]"
   - "[[Praxis]]"
@@ -72,7 +71,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 ## 定义
@@ -113,7 +112,7 @@ Moisio 的[[Knowledge-Based Economy|知识经济]]化概念建立在两个理论
 
 ### Ҫalişkan & Callon（2009）的 economization：经济是被经济化出来的
 
-Ҫalişkan & Callon 的 economization 概念的核心主张是：**经济不是一个给定的事实领域，而是通过将社会议题不断[[Transfer Translation Transformation|转译]]（translate）为经济议题的过程被制造出来的。**
+Ҫalişkan & Callon 的 economization 概念的核心主张是：**经济不是一个给定的事实领域，而是通过将社会议题不断转译（translate）为经济议题的过程被制造出来的。**
 
 具体而言，economization 包含两个方向的运动([[Argument_Moisio_2022_Springer|Moisio, 2022, p.25]])：
 

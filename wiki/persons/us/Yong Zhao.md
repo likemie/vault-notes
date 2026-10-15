@@ -7,10 +7,10 @@ summary: "华裔比较教育学者，堪萨斯大学教育学院教授，以教�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 16
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 15
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1965"
 died: ""
 lifespan: "1965–至今"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Direct Instruction]]"
   - "[[PISA Made-up Claim]]"
   - "[[PISA Monolithic View of Education]]"
-  - "[[Hypothesis]]"
   - "[[PISA Distorted View of Education]]"
   - "[[PISA Score Negative Correlation]]"
   - "[[PISA Glorifying Authoritarian Education]]"
@@ -45,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-04
-updated: 2026-09-18
+updated: 2026-10-15
 ---
 # Yong Zhao
 
@@ -97,7 +96,7 @@ updated: 2026-09-18
 >
 > **捏造的主张（[[PISA Made-up Claim]]）**。PISA 声称测量未来生活所需的基本技能，但没有任何实证依据，且与 [[TIMSS]] 等其他国际评估高度相关。
 >
-> **单一教育观（[[PISA Monolithic View of Education]]）**。PISA 将 [[OECD]] 成员国的西方[[Hypothesis\|假设]]强加于全球近 200 个国家。
+> **单一教育观（[[PISA Monolithic View of Education]]）**。PISA 将 [[OECD]] 成员国的西方假设强加于全球近 200 个国家。
 >
 > **扭曲的教育观（[[PISA Distorted View of Education]]）**。PISA 将经济增长作为教育唯一目的，忽视公民身份、好奇心、同理心等更广泛的教育目的。
 >

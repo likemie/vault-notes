@@ -9,7 +9,7 @@ title: "Argument_Allerup_2015_Paideia"
 argument_key: "Argument_Allerup_2015_Paideia"
 argument_display_title: "Hatties brug af effect size som grundlag for rangordning af pædagogiske indsatser"
 argument_kind: "journal-article"
-argument_related_count: 19
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Visible Learning]]"
   - "[[Didaktik]]"
-  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Feedback]]"
 related_theories: []
@@ -68,7 +67,7 @@ citation_aliases:
 
 > [!abstract] 理论框架
 > - 统计检验理论：用均值、标准差、t 检验、p 值和[[Confidence Interval\|置信区间]]解释 d 的含义及其限制(pp.42–46；参见 [[Effect Size#技术定义与计算方法]]、[[Statistical Significance]])。
-> - 分布[[Hypothesis\|假设]]：以正态分布、偏态分布和 Cauchy 分布说明[[Effect Size\|效应量]]解释依赖基础数据分布(pp.45–49；参见 [[Effect Size#基本公式与构成逻辑]])。
+> - 分布假设：以正态分布、偏态分布和 Cauchy 分布说明[[Effect Size\|效应量]]解释依赖基础数据分布(pp.45–49；参见 [[Effect Size#基本公式与构成逻辑]])。
 > - 边际分析与多[[Variable\|变量]]分析：用[[Covariate Adjustment\|协变量控制]]说明单一边际 d 值会随统计模型改变(pp.49–51；参见 [[Meta-meta-analysis#技术方法论缺陷]])。
 
 ## 研究方法

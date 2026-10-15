@@ -24,7 +24,6 @@ related_concepts:
   - "[[Going Native]]"
   - "[[University-Industry Collaboration]]"
   - "[[Academic Risk Aversion]]"
-  - "[[Document]]"
   - "[[Humboldtian Model of Higher Education]]"
   - "[[Knowledge Production]]"
   - "[[Grandes Ecoles]]"
@@ -50,10 +49,8 @@ related_methods:
   - "[[Historical-Comparative Method]]"
 related_instruments: []
 related_persons:
-  - "[[Isaiah Berlin]]"
   - "[[Vannevar Bush]]"
   - "[[Franklin D. Roosevelt]]"
-  - "[[Alfred Nobel]]"
   - "[[Dwight D. Eisenhower]]"
   - "[[Richard C. Atkinson]]"
 related_facts:
@@ -98,9 +95,9 @@ title: "Argument_Atkinson_2008_TIS"
 argument_key: "Argument_Atkinson_2008_TIS"
 argument_display_title: "Research universities: Core of the US science and technology system"
 argument_kind: "journal-article"
-argument_related_count: 61
-argument_related_level: 4
-argument_related_stars: "⭐⭐⭐⭐"
+argument_related_count: 58
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Technology in Society"
 book_title: ""
@@ -147,7 +144,7 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **材料分析／具体方法**<br>[[Historical-Comparative Method\|历史比较与制度分析法]] | 系统梳理中世纪欧陆大学档案、普鲁士大学改革史、1940 年代战时科研动员[[Document\|文献]]、布什报告、《国家科学基金会法案》及 1970–1980 年代联邦科技立法史料。 |
+> | **材料分析／具体方法**<br>[[Historical-Comparative Method\|历史比较与制度分析法]] | 系统梳理中世纪欧陆大学档案、普鲁士大学改革史、1940 年代战时科研动员文献、[[Science, The Endless Frontier 1945\|布什报告]]、《国家科学基金会法案》及 1970–1980 年代联邦科技立法史料。 |
 > | **跨国体制比较**<br>跨国制度比较分析 | 将美国大学系统与英国、德国、法国、日本及中国的高等教育治理架构、中央教育部管控权限、科研院所分立格局及学术劳动力市场流动性进行横向结构对照。 |
 > | **量化指标纵向追踪**<br>历史量化趋势分析 | 运用美国国家科学委员会（National Science Board, NSB）《科学与工程指标》、卡内基教学促进基金会分类数据及上海交通大学[[Academic Ranking of World Universities\|世界大学学术排名]]（Academic Ranking of World Universities, ARWU），追踪 1940–2004 年间全美研究与试验发展（Research and Development, R&D）支出结构、联邦资助占比、学科经费分布及资助成功率变迁。 |
 
@@ -196,7 +193,7 @@ issuing_organization: ""
 > - **18 世纪启蒙时代：皇家学术学会与[[Chinese Academy of Sciences|科学院]]兴起**
 >   科学研究与探索的主要阵地逐步转移至享有国家特许的专门机构，如巴黎皇家科学院（1666）与柏林科学院（1700）；美洲大陆亦由本杰明·富兰克林于 1743 年创立美国哲学会（American Philosophical Society, APS），约翰·亚当斯于 1780 年创立美国艺术与科学院（American Academy of Arts and Sciences, [[American Association for the Advancement of Science|AAAS]]），为科学家与社会贤达提供研讨平台。（p.32）
 > - **19 世纪初普鲁士改革：洪堡模式确立教学与科研统一原则**
->   1810 年[[Isaiah Berlin|柏林]]大学创办，正式奠定[[Humboldtian Model of Higher Education|洪堡模式]]（Humboldtian Model），提出大学教授不仅需要讲授知识，还必须从事科学研究；1826 年化学家李比希（Justus Liebig）在吉森大学创设首个兼具教学实验与前沿研究功能的现代化学实验室，教学与研究并重的现代大学体制由此成型，并在德意志帝国统一后与工业界产生紧密互动。（pp.32–33）
+>   1810 年柏林大学创办，正式奠定[[Humboldtian Model of Higher Education|洪堡模式]]（Humboldtian Model），提出大学教授不仅需要讲授知识，还必须从事科学研究；1826 年化学家李比希（Justus Liebig）在吉森大学创设首个兼具教学实验与前沿研究功能的现代化学实验室，教学与研究并重的现代大学体制由此成型，并在德意志帝国统一后与工业界产生紧密互动。（pp.32–33）
 
 德国开创的教学与科研一体化模式，打破了欧洲数百年间大学不从事知识生产的旧规，成为后来美国高等教育转型的制度母本。
 
@@ -291,7 +288,7 @@ issuing_organization: ""
 这一组织生态所释放的生产力，在战后国际顶尖学术产出与世界大学学术指标中得到了直观体现。（pp.37, 42）
 
 > [!evidence-grid] 美国研究型大学全球卓越学术声誉的实证表征
-> - **[[Alfred Nobel|诺贝尔]]物理学奖主导地位** 1950 至 1975 年间美国学者包揽了 26 项诺贝尔物理学奖中的绝大多数，彻底扭转了战前依赖欧洲基础理论的依附局面。（p.37）
+> - **诺贝尔物理学奖主导地位** 1950 至 1975 年间美国学者包揽了 26 项诺贝尔物理学奖中的绝大多数，彻底扭转了战前依赖欧洲基础理论的依附局面。（p.37）
 > - **全球顶尖高校排名的压倒性垄断** 2005 年上海交通大学[[Academic Ranking of World Universities|世界大学学术排名]]（ARWU）中，全球前 20 强大学美国独占 17 席（仅英国剑桥第 2、牛津第 10 与日本东京大学第 20 名列其中），全球前 50 强中美国占据 37 席。（p.42）
 
 #### 2. 跨国制度移植受阻：西欧、东亚四国案例比较
@@ -360,7 +357,7 @@ issuing_organization: ""
 ### 论证步骤五　当代结构性危机：学科经费极化、政治专项分肥与学术避险平庸化
 
 > [!claim] 步骤五核心主张
-> 当代美国研究型大学正遭遇严峻的系统性异化：联邦资金向生物医学的单一倾斜严重削弱了科技根基学科；[[Congressional Earmarks|国会专项拨款]]（Earmarks）政治分肥直接架空了同行评议公信力；而项目资助率骤降至 20% 倒逼青年学者陷入[[Academic Risk Aversion|学术避险主义]]，导致学术界充斥着缺乏突破性的平庸[[Document|文献]]。（pp.43–46）
+> 当代美国研究型大学正遭遇严峻的系统性异化：联邦资金向生物医学的单一倾斜严重削弱了科技根基学科；[[Congressional Earmarks|国会专项拨款]]（Earmarks）政治分肥直接架空了同行评议公信力；而项目资助率骤降至 20% 倒逼青年学者陷入[[Academic Risk Aversion|学术避险主义]]，导致学术界充斥着缺乏突破性的平庸文献。（pp.43–46）
 
 #### 1. 学科资助严重失衡与国会政治专项分肥的腐蚀
 
@@ -405,7 +402,7 @@ issuing_organization: ""
 > 2. **非集权竞争与教育科研共生优势** 美国大学体系的核心优势在于非中央集权的分层竞争生态、顶尖学者的自由流动市场、独立同行评议以及研究生教育与前沿科研在实验室的一体化共生；欧亚国家受困于中央教育部集权管制、教授讲席制壁垒及国家[[Chinese Academy of Sciences|科学院]]分立而难以完全复制。（pp.42–43, 46）
 > 3. **产学研发机制的制度化重构** 战后联邦经费的垄断激增曾导致大学远离产业实际需求；1970 年代 [[National Science Foundation|NSF]] [[University-Industry Collaboration|产学合作]]中心试点与 1980 年《[[Bayh-Dole Act of 1980|拜杜法案]]》赋予大学专利所有权，成功重塑了[[Technology Transfer|大学技术转移]]与现代区域创新集群的法律与激励基座。（pp.30, 40–42）
 > 4. **生物医学极化与政治专项分肥侵蚀** 联邦科研资金过度偏向生物医学（1973–2003 年达 120 亿美元），数理与社科发展长期滞后；国会定向专项拨款政治分肥直接架空了同行评议这一大学基石。（pp.43–44）
-> 5. **竞争白热化倒逼学术避险与[[Document|文献]]平庸化** 资助率低迷（青年学者仅约 20%）与 3 年启动金生存倒计时，迫使学者放弃高风险颠覆性课题，转向申报高度稳妥的安全项目，导致学术产出呈现系统性平庸化。（pp.44–45）
+> 5. **竞争白热化倒逼学术避险与文献平庸化** 资助率低迷（青年学者仅约 20%）与 3 年启动金生存倒计时，迫使学者放弃高风险颠覆性课题，转向申报高度稳妥的安全项目，导致学术产出呈现系统性平庸化。（pp.44–45）
 
 > [!stat-cards]- 核心数据
 > - **$345M vs $288.4B** 1940 年战前全美 R&D 总支出（折合 2000 年不变价 37.5 亿美元）与 2004 年全美 R&D 总支出（2000 年不变价 2,884 亿美元）。（pp.33–34）
@@ -430,7 +427,7 @@ issuing_organization: ""
 >
 > *"Although the annual total of such research-related earmarks is small compared with congressional earmarks for bridges, highways, libraries, or hospitals, such earmarking circumvents the peer review process which is a cornerstone of the research university system. Moreover, there is no evidence that a new building or research facility earmarked for a given university has led to its becoming more highly regarded. Entry into the ranks of leading research universities is a long and arduous process that cannot be short circuited by congressional earmarks."*
 
-> [!citation-card] 竞争加剧引发的选题避险与学术[[Document|文献]]平庸化
+> [!citation-card] 竞争加剧引发的选题避险与学术文献平庸化
 > 在更加激烈地争夺稀缺科研经费的压力下，大学教师往往被迫选择申报稳妥的安全研究项目，而规避那些虽然更具风险但可能带来重[[Big Science|大科学]]突破的课题。其结果是，科学文献中发表了太多充其量只能算平庸的研究论文，除了拉长其作者的论文发表清单之外，几乎没有发挥任何实质作用。（p.45）
 >
 > *"A related problem faced by American research universities is that in an effort to compete more effectively for scarce research dollars, faculty members often opt to submit proposals for 'safe' research projects rather than more risky ones that might lead to major breakthroughs. As a result, too many research papers published in the scientific literature are mediocre at best, serving little purpose other than to increase the publication lists of their authors."*

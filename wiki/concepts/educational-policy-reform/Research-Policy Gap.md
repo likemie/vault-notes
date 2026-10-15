@@ -8,7 +8,7 @@ aliases:
 summary: "指教育与公共政策领域科学研究与政府政策制定之间的结构性脱节，表现为政治选举周期与学术周期的非对称时间错配、意识形态与政治意愿阻碍、科研委托与需求诊断倒挂，以及单向信息分发替代深层互动的治理困局。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 42
+related_count: 40
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Research-Practice Gap]]"
-  - "[[Document]]"
   - "[[Evidence-Informed Decision-Making]]"
   - "[[Categorical Funding]]"
   - "[[Research-Practice Partnership]]"
@@ -36,7 +35,6 @@ related_concepts:
   - "[[Enlightenment]]"
   - "[[Technical Rationality]]"
   - "[[Variable]]"
-  - "[[Hypothesis]]"
 related_theories:
   - "[[Organizational Culture]]"
   - "[[Multiple Streams Framework]]"
@@ -69,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Research-Policy Gap
@@ -92,7 +90,7 @@ updated: 2026-10-14
 > *Policy makers and researchers operate under fundamentally different institutional logics and timelines. Even when high-quality research is available, the urgency of political cycles, bureaucratic silos, lack of systematic identification of policy knowledge needs, and conflicting political priorities create structural barriers that hinder the translation of evidence into policy.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Research-Practice Gap]] — 后者指向研究者与一线教师、校长及学校组织之间的脱节，核心阻碍是课堂教学时间有限、专业[[Document\|文献]]可读性差及本土情境转化难；本概念则指向研究者与政府官员、立法者及教育部官僚之间的脱节，核心阻碍是选举任期约束、意识形态冲突与政治妥协。
+> - 不等于 [[Research-Practice Gap]] — 后者指向研究者与一线教师、校长及学校组织之间的脱节，核心阻碍是课堂教学时间有限、专业文献可读性差及本土情境转化难；本概念则指向研究者与政府官员、立法者及教育部官僚之间的脱节，核心阻碍是选举任期约束、意识形态冲突与政治妥协。
 > - 不等于 [[Knowledge Mobilisation]] — 知识动员是系统为了克服鸿沟所采取的关系性、结构性与中介化过程；研究-政策鸿沟是需要被干预和治理的对象状态。
 
 ---
@@ -229,7 +227,7 @@ updated: 2026-10-14
 ## 争议与批评
 
 > [!warning] 适用局限
-> - **理性主义偏见** 将研究与政策的分离仅仅表述为“鸿沟”，容易暗示一种[[Technical Rationality\|技术理性]]主义[[Hypothesis\|假设]]，即“只要证据足够充分、传递足够顺畅，政策就应当完全由研究决定”。批判学者指出，政策制定的本质是分配有限资源与平衡多方利益，民主合法性与公众民意在很多情境下具有不可替代的优先性，研究只是政策考量的输入源之一而非唯一裁决者。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 110)]]
+> - **理性主义偏见** 将研究与政策的分离仅仅表述为“鸿沟”，容易暗示一种[[Technical Rationality\|技术理性]]主义假设，即“只要证据足够充分、传递足够顺畅，政策就应当完全由研究决定”。批判学者指出，政策制定的本质是分配有限资源与平衡多方利益，民主合法性与公众民意在很多情境下具有不可替代的优先性，研究只是政策考量的输入源之一而非唯一裁决者。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 110)]]
 > - **证据的象征性利用与政治工具化** 政策部门对研究的引用可能并非出于改善政策效能，而是为了在公共舆论中为既定政见辩护（Symbolic or Political Use）。在此情境下，鸿沟并未真正消除，而是演变为研究被政治权力单向利用。
 
 ---

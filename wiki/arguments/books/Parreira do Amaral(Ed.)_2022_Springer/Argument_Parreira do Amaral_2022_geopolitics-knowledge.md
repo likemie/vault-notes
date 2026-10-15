@@ -9,7 +9,7 @@ title: "Argument_Parreira do Amaral_2022_geopolitics-knowledge"
 argument_key: "Argument_Parreira do Amaral_2022_geopolitics-knowledge"
 argument_display_title: "Imagining and transforming higher education. Knowledge production in the new geopolitics of knowledge"
 argument_kind: "book"
-argument_related_count: 32
+argument_related_count: 30
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Hypothesis]]"
   - "[[Discourse]]"
   - "[[Classical Geopolitics]]"
   - "[[Epistemology]]"
@@ -51,7 +50,6 @@ related_concepts:
   - "[[Champ]]"
   - "[[Techno-Utopianism]]"
   - "[[Student Mobility]]"
-  - "[[Document]]"
   - "[[Ontology]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -92,7 +90,7 @@ citation_aliases:
 
 ### 脉络一：批判地缘政治学（Critical Geopolitics）
 
-源自人文地理学和政治地理学的近期智识发展。[[Critical Geopolitics|批判地缘政治学]]者(Agnew, 2003; Kuus, 2017)检视塑造世界政治的地理[[Hypothesis|假设]]和[[Discourse|话语]]建构，认为"空间性不限于领土性"，需要关注将"国际政治空间化并表征为以特定类型场所为特征的'世界'"的政治实践(Kuus, 2017, p.2, p.37)。
+源自人文地理学和政治地理学的近期智识发展。[[Critical Geopolitics|批判地缘政治学]]者(Agnew, 2003; Kuus, 2017)检视塑造世界政治的地理假设和[[Discourse|话语]]建构，认为"空间性不限于领土性"，需要关注将"国际政治空间化并表征为以特定类型场所为特征的'世界'"的政治实践(Kuus, 2017, p.2, p.37)。
 
 这一脉络将[[Classical Geopolitics|古典地缘政治]]概念扩展至涵盖"主导国家和其统治阶级对空间——控制领土和／或生产现代陆地空间的互动性流动——的掌控努力"(Agnew & Corbridge, quoted in Moisio, 2018, p.3, p.37)，增加了关系性和话语-符号维度，关注地缘政治秩序如何不仅通过领土控制更通过话语和意义建构实践被建构和稳定化。
 
@@ -163,7 +161,7 @@ Dussel (1993) 批评后现代性对现代性的批判"必要但不充分"，指�
 
 > [!warning]
 - 本章为概念性/理论性章节，未包含实证研究方法——所举案例（IEHs、Minerva）作为例证而非系统实证分析使用，其代表性和推广性有待独立检验
-- 后殖民/去殖民脉络主要以 1990–2000 年代的经典[[Document|文献]](Dussel, 1993; Mignolo, 2002)为基础，未充分纳入近年"南方[[Epistemology|认识论]]"(Connell, 2007, 2019)和"多元世界"建构(Escobar, 2018; Reiter, 2019)领域的最新发展
+- 后殖民/去殖民脉络主要以 1990–2000 年代的经典文献(Dussel, 1993; Mignolo, 2002)为基础，未充分纳入近年"南方[[Epistemology|认识论]]"(Connell, 2007, 2019)和"多元世界"建构(Escobar, 2018; Reiter, 2019)领域的最新发展
 - 两大传统的综合仍处于初步阶段——前者以空间配置和政治想象为中心，后者以认识论暴力和殖民性为中心，两者在[[Ontology|本体论]]和认识论前提上的张力尚未被充分理论化
 - [[Global Education Industry|GEI]] 的分析主要建立在 Verger et al. (2016) 和 Parreira do Amaral et al. (2019) 的基础上，对 GEI 内部非西方行动者和非英语文献的覆盖有限
 

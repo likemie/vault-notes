@@ -8,7 +8,7 @@ aliases:
 summary: "教师在教育教学实践中所依托的多元复合知识体系，涵盖学科知识、学科教学知识、实践智慧、学情认知与育人伦理，强调在情境中对多源知识进行动态整合与审慎裁决"
 type: concept
 domain: "teacher-education"
-related_count: 25
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Heterogeneity]]"
   - "[[Phronesis]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Epistemology]]"
   - "[[Technical Rationality]]"
   - "[[Implementation Fidelity]]"
@@ -31,7 +30,6 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Research Literacy]]"
   - "[[Paradigm]]"
-  - "[[Document]]"
   - "[[Variable]]"
   - "[[Rich and Thick Description]]"
 related_methods:
@@ -50,7 +48,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Teacher Knowledge Base
@@ -64,7 +62,7 @@ updated: 2026-10-07
 
 > [!concept-lens] 概念透镜
 > - **结构特征** 复合[[Heterogeneity\|异质性]]（Heterogeneity）：教师知识不是单一来源的逻辑推论，而是学术科研、[[Phronesis\|实践智慧]]、情境线索与价值信念的有机融合。
-> - **动态机制** 知识整合（Knowledge Integration）：面对具体复杂的课堂难题，教师并非照单套用外部论文处方，而是主动在多源知识库中进行因地制宜的剪裁、[[Transfer Translation Transformation\|转译]]与重构。
+> - **动态机制** 知识整合（Knowledge Integration）：面对具体复杂的课堂难题，教师并非照单套用外部论文处方，而是主动在多源知识库中进行因地制宜的剪裁、转译与重构。
 > - **理论用途** 确立教师职业的专业[[Epistemology\|认识论]]地位，破除把教师当作外部知识被动执行者的[[Technical Rationality\|技术理性]]偏见，为解释一线教学中审慎取舍科研证据提供正当性基础。
 
 > [!citation-card]- 关键表述
@@ -155,7 +153,7 @@ updated: 2026-10-07
 > - **1986–1987 — 李·舒尔曼提出学科教学知识（PCK）与七大知识库分类** Shulman（1986, 1987）系统奠定了教师知识库理论，确立教师职业独特的专业[[Epistemology\|认识论]]地位。
 > - **2000s — 专业社会学视角下的异质知识库理论** Grimen（2008）从专业研究视角指出，专业人员的知识基础具有先天的多源[[Heterogeneity\|异质性]]，[[Knowledge Integration\|知识整合]]是解决实践难题的关键。
 > - **2022 — 循证实践、[[Phronesis\|实践智慧]]与[[Research Literacy\|研究素养]]的融合** Eriksen（2022）提出专业人员的研究素养是一种守护知识库完整性与调和价值冲突的专业德性。
-> - **2025 — 迈向第四代[[Profession-Sensitive Conceptualisations of Research Use\|专业敏感型研究使用概念化]]** [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] 将教师知识库理论作为第四代[[Research Utilization\|研究使用]][[Paradigm\|范式]]的基石，批判 30 年[[Document\|文献]]对知识整合特征的忽视。
+> - **2025 — 迈向第四代[[Profession-Sensitive Conceptualisations of Research Use\|专业敏感型研究使用概念化]]** [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] 将教师知识库理论作为第四代[[Research Utilization\|研究使用]][[Paradigm\|范式]]的基石，批判 30 年文献对知识整合特征的忽视。
 
 ---
 
@@ -166,7 +164,7 @@ updated: 2026-10-07
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] | 34 篇关于教育中[[Research Utilization\|研究使用]]的同行评议学术[[Document\|文献]]（1996–2024 年） | [[Critical Review\|批判性综述]]＋系统检索 | 既有实证对微观[[Knowledge Integration\|知识整合]]过程的关注度 | 24 项实证研究中，仅 3 项（12.5%）包含微观课堂决策观察，其余均将知识使用简化为[[Questionnaire\|问卷]]打分 | — | 凸显既有实证研究严重缺乏对教师知识库在微观实践中动态整合过程的质性[[Rich and Thick Description\|深描]] |
+> | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] | 34 篇关于教育中[[Research Utilization\|研究使用]]的同行评议学术文献（1996–2024 年） | [[Critical Review\|批判性综述]]＋系统检索 | 既有实证对微观[[Knowledge Integration\|知识整合]]过程的关注度 | 24 项实证研究中，仅 3 项（12.5%）包含微观课堂决策观察，其余均将知识使用简化为[[Questionnaire\|问卷]]打分 | — | 凸显既有实证研究严重缺乏对教师知识库在微观实践中动态整合过程的质性[[Rich and Thick Description\|深描]] |
 
 ---
 

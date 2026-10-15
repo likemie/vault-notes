@@ -10,7 +10,7 @@ aliases:
 summary: "德国比较教育学家奥斯卡·安维勒于1967年提出的学科建制概念。主张比较教育牢固依托于母体学科普通教育学，同时在问题意识与研究工具上面向历史学、政治学与社会学纵深切入，形成兼具规范育人关怀与跨学科实证解释力的横截面知识领域。"
 type: concept
 domain: "comparative-education"
-related_count: 23
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Positivism]]"
   - "[[Variable]]"
-  - "[[Document]]"
   - "[[Epistemology]]"
   - "[[Public Value]]"
   - "[[Intercultural Education]]"
@@ -49,7 +48,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-09-28
-updated: 2026-10-05
+updated: 2026-10-15
 ---
 
 # Comparative Education as a Cross-Sectional Area
@@ -72,7 +71,7 @@ updated: 2026-10-05
 > *Oskar Anweiler, already in the sixties of the twentieth century – though contested in that period – defined it as a "cross-sectional area" in reference to its historical and sociological neighbours. In this respect he contributed to laying the ground for opening its borders to interdisciplinarity without, however, abandoning its traditional affiliation to 'general pedagogy' as its 'mother-discipline'.*
 
 > [!boundary]- 概念边界
-> - **不等于脱离教育学的纯粹独立学科（英国模式）** 英国大学建制不设统一的“普通教育学”母体，而是将比较教育作为教育学院（如伦敦大学教育学院）内部平行的分支学科或独立系所进行实用化建制；而欧陆交叉领域论坚决捍卫普通教育学与[[Bildung|教化]]（Bildung）哲学的母体地位。
+> - **不等于脱离教育学的纯粹独立学科（英国模式）** 英国大学建制不设统一的“普通教育学”母体，而是将比较教育作为教育学院（如伦敦大学教育学院）内部平行的分支学科或独立系所进行实用化建制；而欧陆交叉领域论坚决捍卫普通教育学与教化（[[Bildung]]）哲学的母体地位。
 > - **不等于取消学科边界的泛化跨学科拼盘** 交叉领域并非缺乏核心问题意识的散漫杂烩，它始终以受教育者的人格形成、教育制度与社会的内在价值关联为轴心，有选择地汲取外部邻近学科的概念工具。
 > - **不等于去情境化的实证测量工匠** 与将比较教育降格为单纯大样本统计、指标排行与心理测量的工具主义范式不同，交叉领域论深度依托历史解释学与制度发生学，强调制度与社会生态的共生性。
 
@@ -93,8 +92,8 @@ updated: 2026-10-05
 ## 核心要素
 
 > [!feature] 核心要素
-> - **母体学科根基** 始终将受教育者的[[Bildung|教化]]、人的形成以及教育体系与社会的内在价值关联作为核心问题意识，避免沦为缺乏价值反思的纯工程技术。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 98)]]
-> - **历史学维度** 强调对教育制度的理解必须溯源其制度发生学脉络，汲取史料[[Document|文献]]考证与思想史诠释方法。
+> - **母体学科根基** 始终将受教育者的教化、人的形成以及教育体系与社会的内在价值关联作为核心问题意识，避免沦为缺乏价值反思的纯工程技术。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 98)]]
+> - **历史学维度** 强调对教育制度的理解必须溯源其制度发生学脉络，汲取史料文献考证与思想史诠释方法。
 > - **社会学维度** 引入社会结构、阶级分层、国家政治形态与全球资本流动的结构性分析视角，使比较分析具备扎实的经验解释力。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 97)]]
 > - **跨国横截面视角** 突破单一民族国家的国别容器，以多国横向对比作为照亮本国与外国体制隐蔽特征的棱镜。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 87–88)]]
 
@@ -159,7 +158,7 @@ updated: 2026-10-05
 > > [!axis] 母体依附 vs 独立学科建制
 > > 围绕比较教育是否需要固守[[Allgemeine Pädagogik|普通教育学]]母体地位的建制路线分歧。
 > >
-> > - **欧陆[[Bildung|教化]]传统立场（Anweiler, Mitter）** 坚持比较教育必须依附普通教育学母体，以人的教化（Bildung）与育人价值为不可动摇的规范内核。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]
+> > - **欧陆教化传统立场（Anweiler, Mitter）** 坚持比较教育必须依附普通教育学母体，以人的教化（[[Bildung]]）与育人价值为不可动摇的规范内核。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]
 > > - **英国实用建制立场（Sadler 传统）** 倾向于将教育研究视为无需预设普通教育学母体的专业学系集合，追求经验制度与政策实践的直接对接。
 >
 > > [!axis] 跨学科横切 vs 泛化拼盘与身份消解
@@ -186,7 +185,7 @@ updated: 2026-10-05
 > | [[State Educational Sovereignty]] | 概念 | 交叉领域研究中历史与社会学维度所考察的民族国家教育主权制度容器。 |
 > | [[Comparative Education Society in Europe]] | 事实 | 安维勒与米特活跃的学术平台，长期见证德国模式与英国模式在建制理念上的交锋。 |
 > | [[Paradigm]] | 概念 | 交叉领域论标志着欧洲比较教育从纯唯心哲学思辨走向多元跨学科的范式演进。 |
-> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 本条目关于交叉领域学科史定位与英德模式比较的核心来源[[Document\|文献]]。 |
+> | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 本条目关于交叉领域学科史定位与英德模式比较的核心来源文献。 |
 
 ---
 

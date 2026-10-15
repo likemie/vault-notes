@@ -7,7 +7,7 @@ aliases:
 summary: "新古典福利经济学核心概念，指由于公共品、外部性、信息不对称与不完全竞争导致自由市场价格机制无法实现帕累托最优资源配置；在科技政策中构成了传统研发资助与产业政策（集聚外部性、干中学效应）的基准依据，但在演化经济学与当代地缘政治产业政策实践中，该框架因无法指引演化方向并被国家安全与供应链保险动机所超越，成为理论反思与扩展的核心对象。"
 type: concept
 domain: "science-policy"
-related_count: 54
+related_count: 52
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -20,7 +20,6 @@ tags:
   - evolutionary-economics
   - industrial-policy
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Learning by Doing]]"
   - "[[Agglomeration Externalities]]"
   - "[[Directionality of Innovation]]"
@@ -38,7 +37,6 @@ related_concepts:
   - "[[Policy Conditionalities]]"
   - "[[Public Value]]"
   - "[[Pilot Scale Platform]]"
-  - "[[Electronic Design Automation]]"
   - "[[Translational Research]]"
   - "[[Valley of Death]]"
   - "[[Process Design Kit]]"
@@ -82,7 +80,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Market Failure
@@ -92,7 +90,7 @@ updated: 2026-10-14
 ## 定义
 
 > [!def] 核心定义
-> **市场失灵（Market Failure / 市场失灵理论）**是新古典福利经济学（Neoclassical Welfare Economics）的核心基石概念，指在自由放任的市场环境中，由于价格机制无法满足完全竞争与完备市场的理想[[Hypothesis|假设]]，导致资源配置无法自发达到帕累托最优（Pareto Optimality）状态的经济现象（Bator, 1958; Arrow, 1962）。在传统科技与产业政策中，市场失灵理论构成了国家干预的唯一合法性基准——包括因知识外溢导致的基础研发供给不足、因生产规模经济引发的[[Learning by Doing|干中学]]（[[Learning by Doing]]）壁垒，以及由于地理集聚带来的[[Agglomeration Externalities|集聚外部性]]（Agglomeration Externalities）错配。然而，在[[Evolutionary Economics|演化经济学]]中，[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）与[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）批评该框架只能被动修补失灵而无法指引创新战略方向（[[Directionality of Innovation|directionality]]）；而在当代前沿高科技博弈中，查德·鲍恩（Chad P. Bown）与王丹（Dan Wang）进一步指出，[[Modern Industrial Policy|现代产业政策]]的动因已由单纯的效率失灵修补转变为国家安全保障、地缘技术遏制与供应链韧性保险，甚至不惜以牺牲集聚外部性与经济效率为代价。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–790)]]; [[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 81–83, 102)]]
+> **市场失灵（Market Failure / 市场失灵理论）**是新古典福利经济学（Neoclassical Welfare Economics）的核心基石概念，指在自由放任的市场环境中，由于价格机制无法满足完全竞争与完备市场的理想假设，导致资源配置无法自发达到帕累托最优（Pareto Optimality）状态的经济现象（Bator, 1958; Arrow, 1962）。在传统科技与产业政策中，市场失灵理论构成了国家干预的唯一合法性基准——包括因知识外溢导致的基础研发供给不足、因生产规模经济引发的[[Learning by Doing|干中学]]（[[Learning by Doing]]）壁垒，以及由于地理集聚带来的[[Agglomeration Externalities|集聚外部性]]（Agglomeration Externalities）错配。然而，在[[Evolutionary Economics|演化经济学]]中，[[Mariana Mazzucato|玛丽安娜·马祖卡托]]（Mariana Mazzucato）与[[Rainer Kattel|莱纳·卡特尔]]（Rainer Kattel）批评该框架只能被动修补失灵而无法指引创新战略方向（[[Directionality of Innovation|directionality]]）；而在当代前沿高科技博弈中，查德·鲍恩（Chad P. Bown）与王丹（Dan Wang）进一步指出，[[Modern Industrial Policy|现代产业政策]]的动因已由单纯的效率失灵修补转变为国家安全保障、地缘技术遏制与供应链韧性保险，甚至不惜以牺牲集聚外部性与经济效率为代价。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–790)]]; [[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 81–83, 102)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 确立了新古典经济学中公共干预的严格边界：国家只能在经证明存在市场缺陷处充当修补者与被动去风险者，目标在于“平整竞争场地”（Leveling the Playing [[Champ|field]]）。
@@ -118,7 +116,7 @@ updated: 2026-10-14
 > |:---|:---|:---|:---|
 > | **理论来源** | 新古典福利经济学与公共选择理论。 | [[Evolutionary Economics\|演化经济学]]、熊彼特动态能力。 | 地缘政治经济学、国际安全与大国博弈理论。 |
 > | **国家角色定位** | 市场守夜人、被动兜底者与要素补贴提供方。 | 战略引领者、第一大买家与新兴市场共创者。 | 经济安保卫士、供应链风险买保人、技术流向把关者。 |
-> | **对方向性理解** | [[Hypothesis\|假设]]市场价格机制能自发实现最优技术演进。 | 强调技术演化具有非中性，必须明确战略方向。 | 强调地缘政治排他性与技术主导权代差。 |
+> | **对方向性理解** | 假设市场价格机制能自发实现最优技术演进。 | 强调技术演化具有非中性，必须明确战略方向。 | 强调地缘政治排他性与技术主导权代差。 |
 > | **竞争场地逻辑** | 维持中立规则以“平整竞争场地”。 | 主动向可持续目标[[Tilting the Playing Field\|倾斜竞争场地]]。 | 实行友岸外包，针对战略对手设立技术高墙与护栏。 |
 > | **核心失灵/目标** | 知识溢出、[[Learning by Doing\|干中学]]成本、[[Agglomeration Externalities\|集聚外部性]]不足。 | 解决方向性失灵、跨部门协调瘫痪与宏观大挑战。 | 防范单点断链风险、遏制竞争对手前沿算力赶超。 |
 > | **典型政策工具** | 普惠研发加计扣除、专利法、特定先导产线补贴。 | 需求侧战略采购、使命导向研发组合、国家[[Patient Capital\|耐心资本]]。 | 巨额资本建厂补贴、先进制程出口管制、实体清单与护栏条款。 |
@@ -178,7 +176,7 @@ updated: 2026-10-14
 > 探讨新古典市场失灵理论为何在面对重大社会挑战与颠覆性技术革命时陷入被动修补困境。
 
 > [!claim] Mazzucato & Kattel (2018)
-> **市场失灵修补论的方向性失明** 市场失灵框架立足于静态均衡[[Hypothesis|假设]]，其政策逻辑局限于识别知识外部性导致的私人研发投资缺口，进而通过供给端补贴与税收抵免平整竞争场地；但该理论对技术演化的[[Path Dependence|路径依赖]]与非中性缺乏认知，完全无法为有限公共资源的投向提供战略方向（[[Directionality of Innovation|directionality]]），因而无法指导国家主动应对气候变化与系统性技术变革。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–790)]]
+> **市场失灵修补论的方向性失明** 市场失灵框架立足于静态均衡假设，其政策逻辑局限于识别知识外部性导致的私人研发投资缺口，进而通过供给端补贴与税收抵免平整竞争场地；但该理论对技术演化的[[Path Dependence|路径依赖]]与非中性缺乏认知，完全无法为有限公共资源的投向提供战略方向（[[Directionality of Innovation|directionality]]），因而无法指导国家主动应对气候变化与系统性技术变革。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–790)]]
 
 ---
 
@@ -230,7 +228,7 @@ updated: 2026-10-14
 > 探讨在先进制程、异构封装与硬件安全研发中，为何自由市场与分散私人资本无法自发提供共性中试线与安全信任根，导致深科技陷入创新链中间带市场失灵。
 
 > [!claim] [[Argument_NIST_2023_NSTC|NIST (2023)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]]
-> **中试验证高门槛与硬件安全外部性导致的创新链市场失灵与公共品修复** 在半导体等高资本密度战略前沿领域，基础科研成果向产业化量产的转化面临深层市场失灵。兴建一座具备 300mm 晶圆与 2.5D/3D 异构封装能力的[[Pilot Scale Platform|中试验证线]]需要数十至上百亿美元资本开支，单次流片掩模成本高达数百万至上千万美元，且 [[Electronic Design Automation|EDA]] 工具授权极其昂贵；同时，硬件层面的木马后门与侧信道漏洞无法在商业市场中被买方有效检验或定价，导致私营部门对硬件根信任（Root of Trust）与零信任架构严重投资不足。这种极高的资本门槛、试错不确定性与信息不对称，导致商业资本系统性避险，使全美高校与初创企业的研究成果深陷实验室到制造厂（[[Translational Research|lab-to-fab]]）的[[Valley of Death|死亡之谷]]。[[National Science and Technology Council|白宫国家科学技术委员会]]（NSTC）与 NIST 战略论证指出，国家必须通过法定授权直接出资设立分布式共享中试技术中心、云端设计网关（DEG）、开放 [[Process Design Kit|PDK]]/ADK 接口及可量化硬件安全基准，将中试验证能力与根信任架构转化为国家级产业公共品，从根本上矫正微电子创新链的中试与安全市场失灵。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 6–10, 20–23)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 21–29, 37–44)]]
+> **中试验证高门槛与硬件安全外部性导致的创新链市场失灵与公共品修复** 在半导体等高资本密度战略前沿领域，基础科研成果向产业化量产的转化面临深层市场失灵。兴建一座具备 300mm 晶圆与 2.5D/3D 异构封装能力的[[Pilot Scale Platform|中试验证线]]需要数十至上百亿美元资本开支，单次流片掩模成本高达数百万至上千万美元，且 EDA 工具授权极其昂贵；同时，硬件层面的木马后门与侧信道漏洞无法在商业市场中被买方有效检验或定价，导致私营部门对硬件根信任（Root of Trust）与零信任架构严重投资不足。这种极高的资本门槛、试错不确定性与信息不对称，导致商业资本系统性避险，使全美高校与初创企业的研究成果深陷实验室到制造厂（[[Translational Research|lab-to-fab]]）的[[Valley of Death|死亡之谷]]。[[National Science and Technology Council|白宫国家科学技术委员会]]（NSTC）与 NIST 战略论证指出，国家必须通过法定授权直接出资设立分布式共享中试技术中心、云端设计网关（DEG）、开放 [[Process Design Kit|PDK]]/ADK 接口及可量化硬件安全基准，将中试验证能力与根信任架构转化为国家级产业公共品，从根本上矫正微电子创新链的中试与安全市场失灵。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 6–10, 20–23)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 21–29, 37–44)]]
 
 ---
 

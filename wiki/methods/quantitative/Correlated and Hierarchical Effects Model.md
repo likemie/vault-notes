@@ -9,7 +9,7 @@ summary: "用于同时处理元分析中多重测量相关的效应量（相关�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 19
+method_related_count: 18
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Sampling Error]]"
   - "[[Presence]]"
-  - "[[Hypothesis]]"
   - "[[Creativity]]"
   - "[[Construct]]"
   - "[[Primary and Secondary Documents]]"
@@ -43,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-09-18
+updated: 2026-10-15
 ---
 
 # Correlated and Hierarchical Effects Model
@@ -73,7 +72,7 @@ updated: 2026-09-18
 > [!contrast-table] 传统模型 vs 独立[[Hierarchical Linear Model\|多水平模型]] vs CHE 工作模型
 > | 维度 | 传统两水平[[Meta-analysis\|元分析]]模型 | 纯层级效应模型（Hierarchical） | 相关与层级效应工作模型（CHE） |
 > |---|---|---|---|
-> | **依赖性[[Hypothesis\|假设]]** | 假设所有[[Effect Size\|效应量]]完全独立 | 仅假设效应量嵌套于研究中，假设研究内无额外相关 | **同时建模研究内测量相关（$\rho$）与多层嵌套（$\tau_3^2, \tau_2^2$）** |
+> | **依赖性假设** | 假设所有[[Effect Size\|效应量]]完全独立 | 仅假设效应量嵌套于研究中，假设研究内无额外相关 | **同时建模研究内测量相关（$\rho$）与多层嵌套（$\tau_3^2, \tau_2^2$）** |
 > | **协方差结构** | 对角矩阵（非对角线恒为 0） | 块对角矩阵（仅靠随机截距吸收） | **显示定义块对角已知抽样协方差矩阵 $\mathbf{V}$（包含 $\rho$ 结构）** |
 > | **方差分解能力** | 单一残差方差 $\tau^2 + v_i$ | 两级[[Heterogeneity\|异质性]]方差（研究间 vs 抽样） | **三级方差分解（元分析间 $\tau_3^2$ + 元分析内 $\tau_2^2$ + 抽样 $V_{ij}$）** |
 > | **与 [[Robust Variance Estimation\|RVE]] 的配合** | 加权效率低下 | 权重可能欠佳 | **提供最优 GLS 权重，极大提升 RVE 统计估计效率** |
@@ -159,7 +158,7 @@ updated: 2026-09-18
 
 > [!method-fit] 适用判断
 > - **强烈推荐** [[Meta-analysis\|元分析]]中存在多重结果测量、亚组对比，或[[Meta-meta-analysis\|二阶元分析]]中[[Effect Size\|效应量]]嵌套于多个一阶元分析中。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 5)]]
-> - **配合使用** 强烈建议将 CHE 模型作为加权工作模型，配合 [[Robust Variance Estimation\|稳健方差估计]]（RVE） 进行[[Hypothesis\|假设]]检验与[[Standard Error\|标准误]]校正。
+> - **配合使用** 强烈建议将 CHE 模型作为加权工作模型，配合 [[Robust Variance Estimation\|稳健方差估计]]（RVE） 进行假设检验与[[Standard Error\|标准误]]校正。
 
 > [!method-limits] 方法局限
 > - **工作模型假定依赖** 先验相关系数 $\rho$ 是人为指定的固定常数，必须进行敏感性检验（如在 0.0 到 0.9 间变动）以确认估计结论对 $\rho$ 的取值不敏感。
@@ -173,6 +172,6 @@ updated: 2026-09-18
 > | 条目 | 类型 | 关联方向 | 说明 |
 > |:-----|:-----|:---------|:-----|
 > | [[Meta-meta-analysis]] | 综合方法 | 核心技术 | 二阶[[Meta-analysis\|元分析]]运用 CHE 模型分解一阶元分析间与元分析内的双重方差。 |
-> | [[Robust Variance Estimation]] | 推断方法 | 黄金搭档 | CHE 提供最优加权工作矩阵，RVE 基于该矩阵提供稳健[[Hypothesis\|假设]]检验与[[Standard Error\|标准误]]。 |
+> | [[Robust Variance Estimation]] | 推断方法 | 黄金搭档 | CHE 提供最优加权工作矩阵，RVE 基于该矩阵提供稳健假设检验与[[Standard Error\|标准误]]。 |
 > | [[Multilevel Egger's Test]] | 偏倚方法 | 扩展应用 | 将 CHE 模型扩展用于控制聚类依赖下的小研究偏倚检验与截距校正。 |
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 论证 | 典范应用 | 在 52 项[[Creativity\|创造力]]一阶元分析中运用 CHE 模型实现了高精度的[[Effect Size\|效应量]]建模。 |

@@ -9,7 +9,7 @@ aliases:
 summary: "指认识主体因过度依赖外部自动化认知工具或生成式人工智能系统，导致自身内生认知能力与程序性智力技能发生退化、萎缩或无法正常形成的现象。"
 type: concept
 domain: "educational-technology"
-related_count: 37
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Working Memory]]"
-  - "[[Teaching Assistant]]"
   - "[[Epistemology]]"
   - "[[Scaffolding]]"
   - "[[Cognitive Offloading]]"
@@ -51,7 +50,6 @@ related_theories:
   - "[[Formative Epistemic Injustice]]"
   - "[[Epistemic Injustice]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments: []
@@ -80,7 +78,7 @@ updated: 2026-10-15
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向技术过度中介导致的生物认知主体内在智力技能与认知能力的退化或未充分发育状态。
-> - **用途** 帮[[Teaching Assistant|助教]]育技术学与学习科学审视人工智能引入教育场景的深层[[Epistemology|认识论]]代价，区分赋能型[[Scaffolding|认知脚手架]]与替代型[[Cognitive Offloading|认知外包]]。
+> - **用途** 帮助教育技术学与学习科学审视人工智能引入教育场景的深层[[Epistemology|认识论]]代价，区分赋能型[[Scaffolding|认知脚手架]]与替代型[[Cognitive Offloading|认知外包]]。
 > - **边界** 区别于良性的中性认知卸载（Cognitive Offloading）；去技能化特指高阶智力核心环节被剥离且主体在脱离工具后无法独立复现核心认知能力的负向后果。
 
 > [!citation-card] 人工智能依赖与教育目标的结构性冲突
@@ -106,7 +104,7 @@ updated: 2026-10-15
 > |---|---|---|---|
 > | **表现特征** | 脱离技术后无法独立执行原本应掌握的智力任务 | 卸载维持性记忆负荷，高阶推理与判断控制权完整保留 | 认知负荷超出[[Working Memory\|工作记忆]]容量导致加工中断 |
 > | **技术中介角色** | 替代中枢决策与推理过程（黑箱输出） | 辅助性外在媒介与符号存储器（透明协同） | 呈现信息过于繁杂或无序 |
-> | **对教育目标影响** | 瓦解内生认知技能与理智品格的养成 | 释放认知带宽以支持更深层的探究与反思 | 阻碍新信息的加工与长期记忆图式[[Coding in Qualitative Research\|编码]] |
+> | **对教育目标影响** | 瓦解内生认知技能与理智品格的养成 | 释放认知带宽以支持更深层的探究与反思 | 阻碍新信息的加工与长期记忆图式编码 |
 > | **应对机制** | 逆向[[Dialogue in Education\|对话]]启发、限制直接给答案与提问[[Scaffolding\|脚手架]] | 设定人机交互评价性控制权标准 | 优化教学设计与减少外在负荷 |
 
 ---

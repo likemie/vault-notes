@@ -23,7 +23,6 @@ tags:
 related_concepts:
   - "[[Critical Pedagogy]]"
   - "[[Paradigm]]"
-  - "[[Hypothesis]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Champ]]"
   - "[[Humility]]"
@@ -39,6 +38,7 @@ related_concepts:
   - "[[Empty Knower]]"
   - "[[Narration Sickness]]"
   - "[[Learned Helplessness]]"
+  - "[[Hypothesis]]"
   - "[[Praxis]]"
   - "[[Rote Learning]]"
   - "[[Pragmatic Paradigm]]"
@@ -92,7 +92,7 @@ updated: 2026-09-24
 储蓄式教育（Banking Model of Education，亦作储蓄概念/银行概念，Banking Concept of Education）是[[Critical Pedagogy|批判教育学]]奠基人[[Paulo Freire|保罗·弗莱雷]]（Paulo Freire）在《被压迫者教育学》（*Pedagogy of the Oppressed*）中确立的基石性批判范畴。
 
 > [!def] 核心定义
-> 储蓄式教育指将教育异化为自上而下“知识存款”行为的压迫性与驯化性教学[[Paradigm|范式]]。在这一模式中，知识被窄化为自封有知识者（教师、专家或算法权威）施舍给被[[Hypothesis|假设]]一无所知者（学生或技术使用者）的单向礼物；学习者被彻底客体化为等待被灌输现成事实与死板数据的“空容器”（Empty Vessels/Depositories），丧失了通过批判性探究改造生活现实的主体资格。在数智时代，该范式被进一步延伸用于诊断学习者将灵感构思、论证提纲与反思修改全流程外包给[[Generative Artificial Intelligence|生成式人工智能]]所造成的“数字储蓄式教育”异化与求知权能剥夺。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 5–6, 9)]]; [[Argument_Smith_2026_SPE|(Smith, 2026, pp. 10–11)]]
+> 储蓄式教育指将教育异化为自上而下“知识存款”行为的压迫性与驯化性教学[[Paradigm|范式]]。在这一模式中，知识被窄化为自封有知识者（教师、专家或算法权威）施舍给被假设一无所知者（学生或技术使用者）的单向礼物；学习者被彻底客体化为等待被灌输现成事实与死板数据的“空容器”（Empty Vessels/Depositories），丧失了通过批判性探究改造生活现实的主体资格。在数智时代，该范式被进一步延伸用于诊断学习者将灵感构思、论证提纲与反思修改全流程外包给[[Generative Artificial Intelligence|生成式人工智能]]所造成的“数字储蓄式教育”异化与求知权能剥夺。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 5–6, 9)]]; [[Argument_Smith_2026_SPE|(Smith, 2026, pp. 10–11)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示了教育[[Champ|场域]]中知识所有权垄断、自上而下权力不平等以及将能动求知者降格为被动受体的控制机制。
@@ -111,7 +111,7 @@ updated: 2026-09-24
 储蓄式教育与[[Critical Pedagogy|批判教育学]]的[[Problem-Posing Education|提问式教育]]、进步主义的[[Active Learning|主动学习]]，以及当代数智技术代劳模式在[[Epistemology|认识论]]前提与育人取向上存在深刻冲突。
 
 > [!contrast-table] 储蓄式教育与提问式教育、主动学习及数字算法代劳模式对比
-> | 比较维度 | 储蓄式教育（Freire, 1970） | [[Problem-Posing Education\|提问式教育]]（Freire, 1970） | [[Active Learning\|主动学习]]（Dewey; Darwish, 2009） | 数字储蓄式教育（[[Argument_Smith_2026_SPE\|Smith, 2026]]） |
+> | 比较维度 | 储蓄式教育（Freire, 1970） | [[Problem-Posing Education\|提问式教育]]（Freire, 1970） | [[Active Learning\|主动学习]]（Dewey; [[Argument_Darwish_2009_Queens\|Darwish, 2009]]） | 数字储蓄式教育（[[Argument_Smith_2026_SPE\|Smith, 2026]]） |
 > |---|---|---|---|---|
 > | **权力结构与角色** | 教师作为存款员单向灌输，学生作为储蓄罐被动接纳 | 确立师生平等对话，成为批判性共同探究者 | 教师提供[[Scaffolding\|脚手架]]支架，学生作为能动主体建构意义 | 大模型被误设为权威先知，学生退化为算法成品的享用者 |
 > | **知识与认知机制** | 静态现成事实的机械背诵，割裂生活真实处境 | 将现实处境“问题化”，在反思与行动统一的实践中生成 | 做中学与[[Reflexivity\|反思性]][[Problem Solving\|问题解决]]，重视认知发现与经验重构 | 概率统计模式黑箱匹配，思维过程被代劳，推理理由被隐匿 |
@@ -125,7 +125,7 @@ updated: 2026-09-24
 储蓄式教育由一整套相互强化的制度、心理与教学机制所构成。
 
 > [!feature] 储蓄式教育的四大异化机制
-> - **客体化与空容器[[Hypothesis|假设]]（Objectification & [[Empty Knower]]）** 将受教者视为缺乏自主建构能力的被动受体（Objects）而非创造历史的主体（Subjects），预设学生的心智是空白荒漠。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 6)]]
+> - **客体化与空容器假设（Objectification & [[Empty Knower]]）** 将受教者视为缺乏自主建构能力的被动受体（Objects）而非创造历史的主体（Subjects），预设学生的心智是空白荒漠。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 6)]]
 > - **断裂化事实灌输与[[Narration Sickness|叙事病]]（Narration Sickness & Fact Deposition）** 教学退化为背诵与生命现实彻底割裂的死板事实与孤立数据，制造[[Paulo Freire|弗莱雷]]所批判的“叙事病”，使知识失去改造世界的批判力量。
 > - **专断性权威垄断（Authoritarian Monopoly）** 教师或技术系统垄断真理定义权与评价尺度，通过单向知识赠予确立不平等的支配秩序。
 > - **[[Culture of Silence|沉默文化]]再生产（Reproduction of Culture of Silence）** 压抑求知者的发问本能与辩驳冲动，促使学生在工具理性驯化中对既有不公形成被动顺从与[[Learned Helplessness|习得性无助]]。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 7, 9)]]
@@ -187,7 +187,7 @@ updated: 2026-09-24
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心理论指向 | 适用情境与解释对象 | 代表学者 |
 > |---|---|---|---|
-> | **经典阶级批判命题** | 揭露单向知识存款的文化霸权，批判空容器[[Hypothesis\|假设]]与[[Narration Sickness\|叙事病]]驯化 | 社区扫盲、国家课程审查、传统讲授制课堂批判 | Freire (1970); [[Argument_Darwish_2009_Queens\|Darwish (2009)]] |
+> | **经典阶级批判命题** | 揭露单向知识存款的文化霸权，批判空容器假设与[[Narration Sickness\|叙事病]]驯化 | 社区扫盲、国家课程审查、传统讲授制课堂批判 | Freire (1970); [[Argument_Darwish_2009_Queens\|Darwish (2009)]] |
 > | **数智技术异化命题** | 诊断大语言模型代写引发的数字储蓄式认识压迫，确立异己智能防御规程 | 生成式 AI 辅助写作、高校数字化教学伦理、[[Examination-Oriented Education\|应试教育]]计算机化批判 | [[Argument_Smith_2026_SPE\|Smith (2026)]]; [[Argument_Partaken_2022_Springer\|Partaken (2022)]] |
 
 ---
@@ -198,7 +198,7 @@ updated: 2026-09-24
 
 > [!dev-timeline] 储蓄式教育概念的历史流变与当代数智转向
 > - **1968–1972 — 原创提出与解放奠基** [[Paulo Freire|保罗·弗莱雷]]在《被压迫者教育学》中正式界定储蓄式教育（Banking Education），确立[[Problem-Posing Education|提问式教育]]与反思实践（[[Praxis]]）作为对立[[Paradigm|范式]]，成为全球[[Critical Pedagogy|批判教育学]]的奠基性纲领。
-> - **2000s — 课程审查与[[Active Learning|主动学习]]融合** [[Bob Darwish|鲍勃·达维什]]（Darwish, 2009）等学者将储蓄式批判引入[[International Baccalaureate|国际文凭]]大学预科课程（[[IB Diploma Programme|IB DP]]）与主流课程论研究，结合[[John Dewey|杜威]]哲学批判[[High-Stakes Testing|高利害测验]]与标准化应试诱发的储蓄式回潮。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 12–16)]]
+> - **2000s — 课程审查与[[Active Learning|主动学习]]融合** [[Bob Darwish|鲍勃·达维什]]（[[Argument_Darwish_2009_Queens|Darwish, 2009]]）等学者将储蓄式批判引入[[International Baccalaureate|国际文凭]]大学预科课程（[[IB Diploma Programme|IB DP]]）与主流课程论研究，结合[[John Dewey|杜威]]哲学批判[[High-Stakes Testing|高利害测验]]与标准化应试诱发的储蓄式回潮。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 12–16)]]
 > - **2020s — [[Geopolitics of Knowledge|知识地缘政治]]与殖民性反思** 帕塔肯（[[Argument_Partaken_2022_Springer|Partaken, 2022]]）等学者将储蓄式概念扩展至知识地缘政治分析，剖析跨国[[Forced Knowledge Transfer|强制知识转移]]与新殖民主义[[Policy Borrowing|政策借用]]中的制度化存取机制。[[Argument_Partaken_2022_Springer|(Partaken, 2022, pp. 75–76)]]
 > - **2026 — [[Generative Artificial Intelligence|生成式人工智能]]与数字储蓄式异化诊断** 史密斯（[[Argument_Smith_2026_SPE|Smith, 2026]]）将弗莱雷思想与社会[[Epistemology|认识论]]结合，揭示大语言模型全流程代写构成的“数字储蓄式教育”，为重构人机协作中的批判性教学防线确立规范标尺。[[Argument_Smith_2026_SPE|(Smith, 2026, pp. 10–11)]]
 
@@ -229,6 +229,6 @@ updated: 2026-09-24
 储蓄式教育在教育哲学、课程论、知识社会学与人工智能伦理学中形成了持续扩展的跨学科实证与理论谱系。
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Darwish_2009_Queens|Darwish (2009)]] 结合[[John Dewey|杜威]]与[[Paulo Freire|弗莱雷]]哲学审查[[International Baccalaureate|国际文凭]]课程，系统解构储蓄式教育中“加仑事实”灌输与空容器[[Hypothesis|假设]]对[[Active Learning|主动学习]]的侵害。
+> - [[Argument_Darwish_2009_Queens|Darwish (2009)]] 结合[[John Dewey|杜威]]与[[Paulo Freire|弗莱雷]]哲学审查[[International Baccalaureate|国际文凭]]课程，系统解构储蓄式教育中“加仑事实”灌输与空容器假设对[[Active Learning|主动学习]]的侵害。
 > - [[Argument_Smith_2026_SPE|Smith (2026)]] 借鉴弗莱雷批判传统，深入剖析生成式 AI 时代大模型代劳造成的数字储蓄式教育异化，构建防范[[Formative Epistemic Injustice|成长性认识不正义]]的三重防御规程。
 > - [[Argument_Partaken_2022_Springer|Partaken (2022)]] 运用弗莱雷储蓄式模型探讨[[Geopolitics of Knowledge|知识地缘政治]]，揭示赫尔巴特五段教学法与殖民教育中的[[Forced Knowledge Transfer|强制知识转移]]机制。

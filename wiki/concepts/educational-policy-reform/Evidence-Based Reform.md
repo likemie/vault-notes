@@ -6,7 +6,7 @@ aliases:
 summary: "以严格实验研究有效性证据作为选择教育项目和产品核心标准的政策治理框架，强调已验证项目存量、独立证据审查与政府财政激励三者的联动循环"
 type: concept
 domain: "educational-policy-reform"
-related_count: 85
+related_count: 82
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Knowledge Mediation]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Implementation Fidelity]]"
   - "[[Effective Teaching]]"
   - "[[Active Learning]]"
@@ -43,16 +42,13 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Heterogeneity]]"
   - "[[Educational Evidence Clearinghouses]]"
-  - "[[Attrition]]"
   - "[[Dependent Variable]]"
   - "[[Business as Usual]]"
-  - "[[Teaching Assistant]]"
   - "[[Problem Solving]]"
   - "[[Variable]]"
   - "[[Entrepreneur in Residence]]"
   - "[[Output-Oriented Governance]]"
   - "[[Evidence-Based School Development]]"
-  - "[[Hypothesis]]"
 related_theories:
   - "[[Critical Realism]]"
 related_methods:
@@ -91,6 +87,7 @@ related_facts:
   - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[Peer-Assisted Learning Strategies]]"
   - "[[Lindamood Phoneme Sequencing]]"
+  - "[[Lightning Squad]]"
   - "[[Reading Recovery]]"
   - "[[Reading Rescue]]"
   - "[[Fraction Face-Off!]]"
@@ -112,7 +109,7 @@ related_arguments:
   - "[[Argument_Altrichter_2019_ZfB]]"
 status: draft
 created: '2026-05-01'
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Evidence-Based Reform
@@ -158,7 +155,7 @@ updated: 2026-09-22
 
 > [!feature] 核心要素
 > - **已验证项目存量（Critical Mass of Proven Programs）** 在核心学科（阅读、数学、科学）中通过严格实验评估建立充足的强证据干预方案库，确保学校具备充足的实证方案可供选择。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 23)]]
-> - **独立证据审查系统（Independent Clearinghouses）** 建立客观、公信且快速更新的证据审查与极速[[Transfer Translation Transformation\|转译]]平台（如 [[What Works Clearinghouse\|WWC]]、[[Evidence for ESSA]]），从源头上过滤未经检验的商业营销。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 24–25)]]
+> - **独立证据审查系统（Independent Clearinghouses）** 建立客观、公信且快速更新的证据审查与极速转译平台（如 [[What Works Clearinghouse\|WWC]]、[[Evidence for ESSA]]），从源头上过滤未经检验的商业营销。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 24–25)]]
 > - **政策与财政激励（Policy & Funding Incentives）** 通过国家与州级立法（如 [[Every Student Succeeds Act\|ESSA]] 2015）将公共教育拨款与采纳循证方案刚性挂钩，以财政杠杆驱动学校主动选择有效方案。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 25–26)]]
 > - **全链条四项核心活动（Four Essential Activities）** 制度化贯通“评估有效干预 $\to$ 专家转译指南 $\to$ 提供采纳资源 $\to$ 政策持续累积”的良性循环活动。[[Argument_Slavin_2021_ECNUROE\|(Slavin et al., 2021, pp. 9, 21–22)]]
 > - **本地情境可用性（Local Usability）** 将经济成本、耗材要求、学生使用时间及与本地课程标准的匹配度纳入循证决策考量，确保外部因果证据能够在具体学校顺利落地。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 120–121)]]
@@ -200,7 +197,7 @@ updated: 2026-09-22
 > 分析公共政策如何通过[[Tiered Evidence Grants\|分层资助管线]]、独立审查平台与法定拨款门槛重塑教育采购生态。
 
 > [!claim] Slavin, R. E.
-> **三条件框架是驱动教育实践不可逆进步的制度基石** 单纯依靠学术发表无法改变学校实践；循证改革必须同时建立三大支柱：通过联邦分层研发管线（如[[Investing in Innovation Program\|创新投资项目]]（Investing in Innovation, i3）/ [[Education Innovation and Research\|教育创新与研究项目]]（Education Innovation and Research, EIR）、英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF））形成充足的合规项目库；建立面向校长的独立极速[[Transfer Translation Transformation\|转译]]平台（如 [[Evidence for ESSA]]）；并通过立法（如《[[Every Student Succeeds Act\|每一个学生成功法]]》）将数十亿美元的学校改进拨款与 TIER 1–3 证据方案刚性绑定，从制度上阻断商业营销对公款的侵蚀。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 23–26)]]
+> **三条件框架是驱动教育实践不可逆进步的制度基石** 单纯依靠学术发表无法改变学校实践；循证改革必须同时建立三大支柱：通过联邦分层研发管线（如[[Investing in Innovation Program\|创新投资项目]]（Investing in Innovation, i3）/ [[Education Innovation and Research\|教育创新与研究项目]]（Education Innovation and Research, EIR）、英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF））形成充足的合规项目库；建立面向校长的独立极速转译平台（如 [[Evidence for ESSA]]）；并通过立法（如《[[Every Student Succeeds Act\|每一个学生成功法]]》）将数十亿美元的学校改进拨款与 TIER 1–3 证据方案刚性绑定，从制度上阻断商业营销对公款的侵蚀。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 23–26)]]
 
 ---
 
@@ -271,7 +268,7 @@ updated: 2026-09-22
 
 > [!warning] 适用局限
 > - **证据供给不平衡** K–12 早期阅读和初等数学领域强证据丰富，但在艺术、高中心理健康和科学探究领域，合规项目依然匮乏。
-> - **清算中心评级[[Heterogeneity\|异质性]]** 跨机构调查显示（[[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024]]），不同[[Educational Evidence Clearinghouses\|证据清算中心]]由于门槛、[[Attrition\|流失]]率标准和[[Effect Size\|效应量]]算法不同，对同一项目的评级一致率仅约 30%，表明审查平台本身亦需方法学透明度审视。
+> - **清算中心评级[[Heterogeneity\|异质性]]** 跨机构调查显示（[[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024]]），不同[[Educational Evidence Clearinghouses\|证据清算中心]]由于门槛、流失率标准和[[Effect Size\|效应量]]算法不同，对同一项目的评级一致率仅约 30%，表明审查平台本身亦需方法学透明度审视。
 
 ---
 
@@ -285,7 +282,7 @@ updated: 2026-09-22
 > | [[Argument_Slavin_2019_EP\|Borman et al. (2007, as cited in Slavin, 2019, p. 24)]] | 全校改革项目：[[Success for All]] vs [[Business as Usual\|常态教学]] | K–2 年级阅读成就 | 5 项独立大规模试验 | — | $+0.41$ | $p < .05$（ESSA 强证据） | 整群 RCT / 准实验；全校统整阅读干预 |
 > | [[Argument_Slavin_2019_EP\|Fuchs et al. (1997, as cited in Slavin, 2019, p. 24)]] | 全班教学方案：[[Peer-Assisted Learning Strategies\|PALS]] vs 常态教学 | 1 年级阅读成就 | 1 项试验 | — | $+0.58$ | $p < .05$（ESSA 中等证据） | 整群实验；同伴互助学习策略 |
 > | [[Argument_Slavin_2019_EP\|Torgesen et al. (2001, as cited in Slavin, 2019, p. 24)]] | 教师小组辅导：[[Lindamood Phoneme Sequencing\|LiPS]] vs 常态教学 | 1 年级阅读成就 | 1 项试验 | — | $+0.64$ | $p < .05$（ESSA 强证据） | 针对阅读落后学生的语音意识与音素结构干预 |
-> | [[Argument_Slavin_2019_EP\|Chambers et al. (2011, as cited in Slavin, 2019, p. 24)]] | [[Teaching Assistant\|助教]]小组辅导：Lightning Squad vs 常态教学 | 1–3 年级阅读成就 | 3 项试验 | — | $+0.34$ | $p < .05$（ESSA 强证据） | 教学助教主导的结构化计算机辅助协作阅读 |
+> | [[Argument_Slavin_2019_EP\|Chambers et al. (2011, as cited in Slavin, 2019, p. 24)]] | 助教小组辅导：[[Lightning Squad]] vs 常态教学 | 1–3 年级阅读成就 | 3 项试验 | — | $+0.34$ | $p < .05$（ESSA 强证据） | 教学助教主导的结构化计算机辅助协作阅读 |
 > | [[Argument_Slavin_2019_EP\|May et al. (2016, as cited in Slavin, 2019, p. 24)]] | 教师一对一辅导：[[Reading Recovery]] vs 常态教学 | 1 年级阅读成就 | 4 项试验 | — | $+0.42$ | $p < .05$（ESSA 强证据） | 专业教师一对一辅导，成本较高但效果稳定 |
 > | [[Argument_Slavin_2019_EP\|Jacob et al. (2016, as cited in Slavin, 2019, p. 24)]] | 助教一对一辅导：[[Reading Rescue]] vs 常态教学 | 1 年级阅读成就 | 1 项试验 | — | $+0.81$ | $p < .05$（ESSA 中等证据） | 教学助教一对一密集阅读辅导 |
 > | [[Argument_Slavin_2019_EP\|Fuchs et al. (2013, as cited in Slavin, 2019, p. 25)]] | 助教小组辅导：[[Fraction Face-Off!]] vs 常态教学 | 4 年级分数计算与概念 | 2 项试验 | — | $+0.51$ | $p < .05$（ESSA 强证据） | 助教指导的小组分数针对性强化干预 |
@@ -315,6 +312,6 @@ updated: 2026-09-22
 > - [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet (2021)]] — 剖析欧洲大陆软法协调机制下的证据知情政策路径与多语言语境张力。
 > - [[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison (2021)]] — 探讨三条件框架下地方可用性信息（成本、技术支持）对学区采购决策的关键影响。
 > - [[Argument_Dachet_2021_ECNUROE\|Dachet & Baye (2021)]] — 法语比利时《[[Pact for Educational Excellence\|教育卓越公约]]》案例，展示低实验存量环境下的包容性验证类型学过渡策略。
-> - [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] — 对 [[Randomised Controlled Trials\|RCT]] 概化力、[[Effect Size\|效应量]]失真与[[Teaching Assistant\|助教]]去情境化评价的批判性考察。
+> - [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] — 对 [[Randomised Controlled Trials\|RCT]] 概化力、[[Effect Size\|效应量]]失真与助教去情境化评价的批判性考察。
 > - [[Argument_Biesta_2010_SPE\|Biesta (2010)]] — 对将教育简化为分层因果干预的技术主义与工具理性提出哲学反思。
-> - [[Argument_Peterson_2016_IJRME\|Peterson (2016)]] — 从微观实施机制与活性成分视角批判预包装完整项目的采纳[[Hypothesis\|假设]]。
+> - [[Argument_Peterson_2016_IJRME\|Peterson (2016)]] — 从微观实施机制与活性成分视角批判预包装完整项目的采纳假设。

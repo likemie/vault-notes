@@ -25,7 +25,6 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Epistemic Value]]"
   - "[[Establishing One's Will]]"
-  - "[[Hypothesis]]"
   - "[[Rote Learning]]"
   - "[[Determinism]]"
   - "[[Domain Specificity]]"
@@ -67,7 +66,7 @@ title: "Argument_Chinn_2011_EP"
 argument_key: "Argument_Chinn_2011_EP"
 argument_display_title: "Expanding the Dimensions of Epistemic Cognition: Arguments From Philosophy and Psychology"
 argument_kind: "journal-article"
-argument_related_count: 35
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -143,7 +142,7 @@ issuing_organization: ""
 > - **对动机维度的系统性忽视**
 >   过去的心理学研究预设学习者自带求真动机，导致现有[[Questionnaire\|问卷]]仅测量学习者对知识客观属性的信念，遗漏了评估学习者主观上是否[[Establishing One's Will\|立志]]掌握复杂知识。
 > - **同信念不同策略的悖论**
->   [[Hypothesis\|假设]]三名学习者在问卷上均表现出认为历史知识是复杂的信念：
+>   假设三名学习者在问卷上均表现出认为历史知识是复杂的信念：
 >   - **学生 A（应试目标）** 为应付期末考试，采取[[Rote Learning\|死记硬背]]的表面认知策略（surface strategies）。
 >   - **学生 B（规避成本）** 觉得深层理解的认知成本太高，主动放弃该目标并拒绝深度学习。
 >   - **学生 C（追求理解）** 具备追求深层理解的认识目标，主动采取交叉对比多重史料的高级探究策略。

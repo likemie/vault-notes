@@ -9,7 +9,7 @@ aliases:
 summary: "指高中毕业生进入无须补习的高等学科学分课程或具备发展前景的高技能职业培训所需具备的综合核心素养；它颠覆了传统普通高中学术升学与职业就业的双轨二元割裂，被共同核心州立标准（CCSS）确立为十二年一贯制逆向推导与标准设计的顶层锚点。"
 type: concept
 domain: "curriculum"
-related_count: 26
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Apprenticeship]]"
   - "[[Scaffolding]]"
   - "[[Pragmatic Paradigm]]"
-  - "[[Document]]"
   - "[[Learning Progression]]"
   - "[[Epistemology]]"
   - "[[High-Stakes Testing]]"
@@ -55,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-26
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # College and Career Readiness
@@ -185,7 +184,7 @@ updated: 2026-10-08
 > > 批判语文标准过度强调信息性文本与实用职场写作，忽视了文学对人性与审美的涵养。
 > >
 > > - **文学学者批评视角** 阿肯色大学文学学者桑德拉·斯托茨基（Sandra Stotsky）拒绝签字，抨击新标准为迎合职场就绪要求，大幅削减经典文学与诗歌比重、代之以枯燥的政府规章与技术手册阅读，背离了博雅人文学科的根本宗旨。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 16, 23)]]
-> > - **标准编写组回应** 坚称现代公民与职场工作者超过 70% 的日常阅读均为高信息密度的非虚构[[Document|文献]]，强化论证性分析写作是提升社会流动与民主参与的必要工具。
+> > - **标准编写组回应** 坚称现代公民与职场工作者超过 70% 的日常阅读均为高信息密度的非虚构文献，强化论证性分析写作是提升社会流动与民主参与的必要工具。
 
 ---
 
@@ -204,4 +203,4 @@ updated: 2026-10-08
 > | [[Technical Rationality]] | Concept | 将复杂多维的学生人生就绪状态简化为可度量的标准化测试指标所体现的技术理性张力。 |
 > | [[American Federation of Teachers]] | Fact (Organization) | 组织一线骨干教师对 CCR 导向的草案条文开展实操审查、确保其符合日常教学现实的工会。 |
 > | [[National Education Association]] | Fact (Organization) | 参与 CCR 语文标准审读并坚持剔除文本价值主观评判的全国教师组织。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | Argument | 系统剖析 CCR 概念的演进脉络、逆向推导机制与独立验证委员会内部学术争鸣的核心[[Document\|文献]]。 |
+> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | Argument | 系统剖析 CCR 概念的演进脉络、逆向推导机制与独立验证委员会内部学术争鸣的核心文献。 |

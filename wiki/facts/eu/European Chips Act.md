@@ -11,9 +11,9 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 16
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 15
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "European Union"
 tags:
@@ -24,7 +24,6 @@ tags:
   - policy/economic-development
   - science-policy
 related_concepts:
-  - "[[Assemblage]]"
   - "[[Strategic Autonomy]]"
   - "[[Modern Industrial Policy]]"
   - "[[Competitiveness]]"
@@ -49,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # European Chips Act
@@ -63,7 +62,7 @@ updated: 2026-10-07
 > - **适用地区 / 对象** 覆盖欧盟 27 个成员国境内的半导体研发机构（如比利时微电子研究中心 IMEC、法国 CEA-Leti、德国[[Fraunhofer Society Model|弗劳恩霍夫学会]]）、设备制造商（如荷兰 ASML）及跨国与本土晶圆制造企业。
 > - **问题背景** 
 >   1. **全链条结构性依赖与制造份额萎缩** 欧洲在数字价值链采矿、提纯、中间元器件与最终终端产品各环节均呈现长期净进口依赖，仅在微芯片制造设备上具备局部优势；全球芯片制造产能份额从 1990 年的 44% 跌落至不足 10%，前十大芯片制造商无一设在欧盟；[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 4–5)]]; [[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 91–92, 95)]]
->   2. **汽车与工业支柱遭遇断链重创** 2020–2022 年全球半导体短缺危机导致欧洲汽车[[Assemblage|装配]]线频繁大面积停产，严重冲击德法意实体经济底座；[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 95)]]
+>   2. **汽车与工业支柱遭遇断链重创** 2020–2022 年全球半导体短缺危机导致欧洲汽车装配线频繁大面积停产，严重冲击德法意实体经济底座；[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 95)]]
 >   3. **地缘冲突加剧与大国补贴竞赛倒逼** 俄乌冲突爆发、台海地缘风险升温，叠加美国出台《[[CHIPS and Science Act|芯片与科学法案]]》与《[[Inflation Reduction Act|通胀削减法案]]》吸纳欧洲产业与人才，促使欧盟在 2019 年后彻底告别单纯依赖多边自由贸易的传统，仓促转向以国家干预追求[[Strategic Autonomy|战略自主]]；尽管法国倾向国家保护主义而德国偏好多边贸易的内部矛盾依然存在。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 8)]]
 > - **制度位置** 该法案是欧盟重塑[[Strategic Autonomy|战略自主]]与推行[[Modern Industrial Policy|现代产业政策]]的核心支柱，与欧洲绿色协议、《[[Critical Raw Materials Act|关键原材料法案]]》（CRMA）及微电子 [[Important Projects of Common European Interest|IPCEI]] 共同构成欧洲经济安全战略的制度支柱。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 2–3, 16)]]
 

@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 20
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -35,7 +35,6 @@ related_concepts:
   - "[[University-Based Research Center]]"
   - "[[Academic Entrepreneurship]]"
   - "[[University-Industry Collaboration]]"
-  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Archival Research]]"
@@ -54,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-06
+updated: 2026-10-15
 ---
 
 # Center for Integrated Systems
@@ -159,4 +158,4 @@ updated: 2026-10-06
 > | [[Semiconductor Research Corporation]] | Fact (Organization) | 资助并在 CIS 设立半导体制造系统卓越中心的行业联合体。 |
 > | [[Sematech]] | Fact (Organization) | CIS 参与早期规划、诺伊斯后来出任首任 CEO 的半导体制造技术战略联盟。 |
 > | [[Archival Research]] | Method | 莫迪（[[Argument_Mody_2017_MOH\|Mody, 2017]]）重构 CIS 历史所使用的主要方法。 |
-> | [[Argument_Mody_2017_MOH\|Mody (2017)]] | Argument | 深入剖析 CIS 组织结构、会员机制与跨界转型的核心[[Document\|文献]]。 |
+> | [[Argument_Mody_2017_MOH\|Mody (2017)]] | Argument | 深入剖析 CIS 组织结构、会员机制与跨界转型的核心文献。 |

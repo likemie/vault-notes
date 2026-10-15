@@ -9,7 +9,7 @@ aliases:
 summary: "由 Alvin Goldman 于 1976 年提出的外部主义认识论理论，主张知识要求主体能够区分实际真实状态与相关可能替代状态；经 Dylan Wiliam 等人引入教育研究，用于说明教育因果证据的局部性、情境性与暂定性。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 29
+theory_related_count: 27
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -28,10 +28,8 @@ related_concepts:
   - "[[Justificatory Standards]]"
   - "[[Creativity]]"
   - "[[Evidence-Based Education]]"
-  - "[[Hypothesis]]"
   - "[[Ontology]]"
   - "[[Emergence]]"
-  - "[[Document]]"
   - "[[Tracking]]"
   - "[[Research Question]]"
   - "[[Evaluation Research]]"
@@ -56,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Goldman's Discrimination Theory of Knowledge
@@ -99,7 +97,7 @@ updated: 2026-09-22
 > | 理论构件 | 构件类型 | 在理论中的功能与分析含义 |
 > |---|---|---|
 > | **区分/辨识能力（Discrimination）** | 核心机制 | 主体将目标事物的真实状态与潜在虚假替代状态在认知与感官上有效剥离的能力。 |
-> | **相关替代方案（Relevant Alternatives）** | 判定准则 | 在特定具体情境下合理可能发生或存在的竞争性[[Hypothesis\|假设]]；排除逻辑上极其荒谬的可能性，聚焦现实情境中的混淆因子。 |
+> | **相关替代方案（Relevant Alternatives）** | 判定准则 | 在特定具体情境下合理可能发生或存在的竞争性假设；排除逻辑上极其荒谬的可能性，聚焦现实情境中的混淆因子。 |
 > | **外部环境敏感性（Environmental Sensitivity）** | [[Ontology\|本体论假设]] | 知识是否成立不完全由主体颅内思维决定，而是由主体认知机制与外部环境实在状态的交互结构共同决定。 |
 > | **知识局部性（Locality of Knowledge）** | 推论特征 | 替代方案的相关性因地域、文化与资源配置而异，某一地区的有效因果结论无法无缝外推至另一地区。 |
 > | **知识暂定性（Provisionality of Knowledge）** | 推论特征 | 随着科学测量与新变量的[[Emergence\|涌现]]，先前未被注意的混淆因素变为现实替代方案，既有因果结论随即面临重新定性。 |
@@ -121,7 +119,7 @@ updated: 2026-09-22
 > [!theory-proposition] 命题三｜教育[[Causality\|因果推断]]的多重竞争解释赋予教育知识鲜明的局部性与暂定性
 > **解释** 教育系统是一个由无数异质[[Variable\|变量]]构成的复杂因果场。任何一项教学干预的学业增益，都存在多种相互竞争的因果解释机制（如教师分配偏差、生源溢出效应）。由于研究者往往无法在所有情境中排除这重重竞争性替代方案，教育实证知识永远只能是局部情境下的有效判断，且随着新测量变量的揭示而始终处于被修订的暂定状态。[[Argument_Wiliam_2019_ERE\|(Wiliam, 2019, p. 10)]]
 >
-> **应用实例** 过去[[Document\|文献]]曾断言[[Tracking\|能力分组]]会损伤学生成就；但当教师效能变异性的精准测量数据[[Emergence\|涌现]]后，研究者发现先前无法区分到底是分组本身导致差异，还是优质师资倾斜导致差异，从而使先前能力分组的绝对定论转化为悬而未决的暂定推断。
+> **应用实例** 过去文献曾断言[[Tracking\|能力分组]]会损伤学生成就；但当教师效能变异性的精准测量数据[[Emergence\|涌现]]后，研究者发现先前无法区分到底是分组本身导致差异，还是优质师资倾斜导致差异，从而使先前能力分组的绝对定论转化为悬而未决的暂定推断。
 
 ---
 

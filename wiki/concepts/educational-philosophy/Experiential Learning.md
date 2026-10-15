@@ -8,10 +8,10 @@ aliases:
 summary: "以经验及其重组促进学习与成长的教育概念，借连续性与个体—环境交互判定经验价值，并分析学术学习、社会服务与地方实践如何相互联系。"
 type: concept
 domain: "educational-philosophy"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - field/educational-philosophy
   - theme/active-learning
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[International Baccalaureate]]"
   - "[[Growth]]"
-  - "[[Document]]"
   - "[[Active Learning]]"
 related_theories: []
 related_methods:
@@ -45,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Experiential Learning
@@ -206,6 +205,6 @@ updated: 2026-10-07
 > | [[Learning by Doing]] | 概念 | 经验学习的具体教学操作体现。 |
 > | [[Growth]] | 概念 | 连续性与[[Interaction Effect\|交互作用]]所指向的教育终极目标。 |
 
-> [!evidence-grid]- [[Document|文献]]与论证索引
+> [!evidence-grid]- 文献与论证索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–207, 214–215)]] — 讨论社会服务、学术课程与地方发展实践的整合，以及教师和制度支持。
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 详细分析杜威《经验与教育》中的连续性与交互作用原则及其在[[Active Learning|主动学习]]中的地位。

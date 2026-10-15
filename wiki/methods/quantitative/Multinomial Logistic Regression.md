@@ -7,7 +7,7 @@ summary: "一种用于预测名义变量（包含两个以上无序类别）的�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 15
+method_related_count: 14
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -18,7 +18,6 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
-  - "[[Hypothesis]]"
   - "[[Discourse]]"
   - "[[Academic Achievement]]"
   - "[[Educational Level]]"
@@ -37,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-15
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Multinomial Logistic Regression
@@ -81,7 +80,7 @@ updated: 2026-10-07
 > [!method-stack] 数据、变量与模型
 > - **数据结构** 横截面数据。
 > - **变量或指标** 因变量必须是名义分类变量（如：分流后的轨道类型、潜在类别群组），自变量可为连续或分类变量。
-> - **诊断与检验** 多重共线性诊断、独立无关替换[[Hypothesis\|假设]]检验（IIA, Independence of Irrelevant Alternatives）。
+> - **诊断与检验** 多重共线性诊断、独立无关替换假设检验（IIA, Independence of Irrelevant Alternatives）。
 
 > [!formula-step] 公式步骤　多项逻辑回归模型
 > $$ \ln\left(\frac{P(Y=k)}{P(Y=K)}\right) = \beta_{0k} + \beta_{1k}X_1 + \dots + \beta_{pk}X_p $$
@@ -139,7 +138,7 @@ updated: 2026-10-07
 ## 局限性
 
 > [!method-limits] 方法局限
-> - **适用边界** 需要满足 IIA [[Hypothesis\|假设]]（各类别间的选择几率不依赖于是否存在其他类别）。如果类别间存在极强的相互替代性，应考虑其他模型（如嵌套 logit 模型）。
+> - **适用边界** 需要满足 IIA 假设（各类别间的选择几率不依赖于是否存在其他类别）。如果类别间存在极强的相互替代性，应考虑其他模型（如嵌套 logit 模型）。
 > - **偏误来源** 当某一类别的[[Sample Size Determination\|样本量]]极小时，极大似然估计可能不收敛或产生极大的[[Standard Error\|标准误]]。
 
 ---

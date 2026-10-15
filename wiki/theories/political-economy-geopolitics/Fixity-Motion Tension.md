@@ -5,7 +5,7 @@ aliases:
 summary: "解释资本主义为何一方面依赖空间固着来组织生产与投资、另一方面又不断推动流动以打破既有配置的空间动力学理论"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 19
+theory_related_count: 18
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -34,7 +34,6 @@ related_concepts:
   - "[[Economic Patriotism]]"
   - "[[Discourse]]"
   - "[[Operationalization]]"
-  - "[[Hypothesis]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -44,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 ## 定义
@@ -155,7 +154,7 @@ Harvey 的理论论证从资本主义生产方式的根本特征出发，可以�
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - Harvey 的理论框架高度抽象，在具体经验研究中的[[Operationalization\|操作化]]面临挑战——如何将"固着-流动张力"转化为可经验检验的[[Hypothesis\|假设]]，仍然是一个开放的方法论问题
+> - Harvey 的理论框架高度抽象，在具体经验研究中的[[Operationalization\|操作化]]面临挑战——如何将"固着-流动张力"转化为可经验检验的假设，仍然是一个开放的方法论问题
 > - 该理论主要基于西方资本主义的历史经验（特别是十九世纪英国和二十世纪美国的工业化与去工业化历程），在非西方政治经济语境中的适用性有待检验
 >
 

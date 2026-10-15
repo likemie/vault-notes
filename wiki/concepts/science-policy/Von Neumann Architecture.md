@@ -12,7 +12,7 @@ aliases:
 summary: "约翰·冯·诺依曼于1945年提出的经典通用数字计算机体系结构范式。以存储程序控制与运算器、控制器、存储器及输入输出五大部件为核心，实现软硬件解耦。后摩尔时代正向类脑神经形态与存内计算等非冯架构演进。"
 type: concept
 domain: "science-policy"
-related_count: 23
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -36,7 +36,6 @@ related_concepts:
 related_theories:
   - "[[Path Dependence]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Perpetual Inventory Method]]"
   - "[[Effect Size]]"
   - "[[Correlational Research]]"
@@ -55,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Von Neumann Architecture
@@ -101,7 +100,7 @@ updated: 2026-10-10
 > - **算术逻辑单元（Arithmetic Logic Unit, ALU）** 负责执行算术四则运算与布尔逻辑运算的核心部件。
 > - **控制单元（Control Unit, [[Corporate University|CU]]）** 负责从存储器中顺序读取指令、解释指令含义并向全局协调发送控制时钟信号的指挥中枢。
 > - **内部存储器（Memory）** 按统一编址的存储单元序列，同等存放程序指令代码与运算原始/中间数据。
-> - **输入设备（Input Devices）** 将外部信息（纸带、穿孔卡片、键盘或数字信号）[[Coding in Qualitative Research|编码]]为计算机内部二进制电平的接口。
+> - **输入设备（Input Devices）** 将外部信息（纸带、穿孔卡片、键盘或数字信号）编码为计算机内部二进制电平的接口。
 > - **输出设备（Output Devices）** 将计算机计算结果转换为人类可读形式（打印机、显示器）或机器控制信号的终端。
 > - **存储程序与顺序控制流（Stored-Program Control）** 程序指令按内存地址自动顺序递增执行，同时支持基于条件判断的无条件或条件跳转控制。[[Argument_Mowery_2011_NBER|(Mowery, 2011, pp. 171–174)]]
 

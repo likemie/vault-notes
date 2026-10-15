@@ -6,7 +6,7 @@ aliases:
 summary: "政治哲学与思想史概念，指具备超越自利、承受公众非议并愿意为之承担现实代价与声誉风险的实质信念；与缺乏代价意识、流于合规避险与道德姿态的软信念形成鲜明对立。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 19
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Technological Republic]]"
   - "[[Soft Belief]]"
   - "[[Anonymity in Research]]"
-  - "[[Attrition]]"
   - "[[Grandes Ecoles]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Discourse]]"
@@ -44,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Hard Belief
@@ -73,7 +72,7 @@ updated: 2026-10-10
 > [!contrast-table] 概念辨析
 > | 维度 | 硬信念（Hard Belief） | [[Soft Belief\|软信念]]（Soft Belief / 道德姿态） | 犬儒虚无主义（Cynical Nihilism） |
 > |---|---|---|---|
-> | **代价承担** | 愿意承受会员[[Attrition\|流失]]、职位动摇、公众非议等现实代价 | 仅在无风险或有公关收益时表态，遇阻即退缩至程序合规 | 拒绝相信任何崇高价值，将所有原则视作权力伪装 |
+> | **代价承担** | 愿意承受会员流失、职位动摇、公众非议等现实代价 | 仅在无风险或有公关收益时表态，遇阻即退缩至程序合规 | 拒绝相信任何崇高价值，将所有原则视作权力伪装 |
 > | **行动逻辑** | 以实质原则为中心，勇于介入复杂的伦理与政治争议 | 以免责避险为中心，将领导责任外包给公关法务团队 | 以纯粹自利与机构权力再生产为唯一行为法则 |
 > | **代表主体** | 阿里耶·内尔（[[Aryeh Neier]]）、保利·默里（[[Pauli Murray]]） | 2023 年国会听证会上的常春藤[[Grandes Ecoles\|大学校]]长群体 | 宣称“不作恶”却对重大国家防卫责任保持沉默的商业巨头 |
 

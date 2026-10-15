@@ -8,7 +8,7 @@ aliases:
 summary: "由美国大学与学院协会组织数百名学者研发的16套通识学习成果评价量规，涵盖批判性思维与创造性思维等高阶认知素养的阶梯式表现标准"
 type: instrument
 instrument_type: rubric
-instrument_related_count: 16
+instrument_related_count: 15
 instrument_related_level: 3
 instrument_related_stars: "⭐⭐⭐"
 instrument_related_color: "#ffedd5"
@@ -38,7 +38,6 @@ related_concepts:
   - "[[Problem Finding]]"
   - "[[Research Utilization]]"
   - "[[Reliability]]"
-  - "[[Hypothesis]]"
   - "[[Ecological Validity]]"
   - "[[External Validity]]"
 related_theories: []
@@ -54,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-09-15
+updated: 2026-10-15
 ---
 
 # VALUE Rubrics
@@ -85,7 +84,7 @@ updated: 2026-09-15
 > |---|---|---|---|
 > | **批判性思维量规（Critical Thinking Rubric）** | **解释说明（Explanation of issues）** | [[Problem Finding\|问题界定]]清晰度、背景脉络完整性与关键争议识别。 | 4 个层级（基准 1 分 $\to$ 里程碑 2–3 分 $\to$ 顶峰 4 分） |
 > | 同上 | **[[Research Utilization\|证据使用]]（Evidence）** | 来源[[Reliability\|可靠性]]评估、数据解读充分度与对反面证据的包容审视。 | 同上 |
-> | 同上 | **情境与[[Hypothesis\|假设]]（Context and assumptions）** | 识别自身与他人立场中的未言明假设及其文化/学科情境约束。 | 同上 |
+> | 同上 | **情境与假设（Context and assumptions）** | 识别自身与他人立场中的未言明假设及其文化/学科情境约束。 | 同上 |
 > | 同上 | **个人立场（Student's position）** | 提出明确、具备自我反思且充分吸纳反驳意见的独立主张。 | 同上 |
 > | 同上 | **结论与后果（Conclusions and outcomes）** | 结论与证据的逻辑契合度及对潜在深远影响的预判。 | 同上 |
 > | **创造性思维量规（Creative Thinking Rubric）** | **获取好奇（Acquiring competencies）** | 突破常规范畴、主动探索未知领域与整合多源知识的意愿。 | 同上 |

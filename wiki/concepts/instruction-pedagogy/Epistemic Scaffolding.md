@@ -6,7 +6,7 @@ aliases:
 summary: "教学法与学习科学概念，指通过使学科认识论规范、评价标准与反思路径显性化以引导学习者评估知识、辩护主张并参与学科核心探究实践的教学支持机制。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 24
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Scaffolding]]"
   - "[[Epistemology]]"
   - "[[Justificatory Standards]]"
-  - "[[Teaching Assistant]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Epistemic Agency]]"
@@ -46,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Epistemic Scaffolding
@@ -60,7 +59,7 @@ updated: 2026-10-07
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向旨在使隐性学科认识论准则、证据评估维度与自我监控问题外显化的中介工具与对话指引。
-> - **用途** 帮[[Teaching Assistant\|助教]]师与课程设计者超越单一“给步骤、给概念”的浅层指导，为学习者在复杂探究及[[Man-Computer Symbiosis|人机协同]]环境中提供[[Higher-Order Thinking Skills\|高阶思维]]脚手架。
+> - **用途** 帮助教师与课程设计者超越单一“给步骤、给概念”的浅层指导，为学习者在复杂探究及[[Man-Computer Symbiosis|人机协同]]环境中提供[[Higher-Order Thinking Skills\|高阶思维]]脚手架。
 > - **边界** 认识论支架不直接提供结论性知识答案，而是构建评价知识与主张的规则体系；它必须在保持学习者[[Epistemic Agency\|认识主体性]]的前提下动态介入与逐渐褪除。
 
 > [!citation-card] 认识论支架的本质特征

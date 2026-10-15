@@ -8,7 +8,7 @@ summary: "美国生物学家与行为生态学家，康奈尔大学生物学名�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 9
+person_related_count: 8
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -31,7 +31,6 @@ related_instruments: []
 related_persons:
   - "[[Karl von Frisch]]"
   - "[[Martin Lindauer]]"
-  - "[[Peter A. Hall]]"
 related_facts:
   - "[[Chinese Academy of Sciences]]"
   - "[[Eck Swarm Experiment]]"
@@ -40,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Thomas D. Seeley
@@ -65,7 +64,7 @@ updated: 2026-10-12
 
 > [!timeline] 生平与职涯
 > - **1952** 出生于美国宾夕法尼亚州，自幼在乡村农场观察自然生态。
-> - **1974–1978** 毕业于达特茅斯学院，随后在哈佛大学师从著名社会生物学家爱德华·O. 威尔逊（Edward O. Wilson）与伯特·[[Peter A. Hall|霍尔]]多布勒（Bert Hölldobler），获得生物学博士学位。
+> - **1974–1978** 毕业于达特茅斯学院，随后在哈佛大学师从著名社会生物学家爱德华·O. 威尔逊（Edward O. Wilson）与伯特·霍尔多布勒（Bert Hölldobler），获得生物学博士学位。
 > - **1980–1986** 在耶鲁大学任教，随后转入康奈尔大学长期执教并建立全球领先的蜜蜂行为学实验室。
 > - **2002–2010** 与德国同行合作撰写[[Martin Lindauer|林道尔]]学术传记，并在普林斯顿大学出版社出版代表作《蜜蜂的民主》，通过高帧率红外摄像与标记实验全面证实了蜂群协商的数理模型。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 115–116)]]
 

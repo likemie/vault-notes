@@ -9,7 +9,7 @@ subtype: policy
 region: belgium
 fact_region: "belgium"
 fact_kind: "policy"
-fact_related_count: 20
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Normal School]]"
   - "[[Inclusive Evidence Validation Typology]]"
   - "[[Evidence-Based Reform]]"
-  - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Research Utilization]]"
   - "[[Educational Evidence Clearinghouses]]"
@@ -49,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-10-05
+updated: 2026-10-15
 ---
 
 # Pact for Educational Excellence
@@ -92,12 +91,12 @@ updated: 2026-10-05
 > [!info]- 核心数据
 > - 2017 年工作组列出 425 个教学工具或项目，其中 61 个曾被教育研究者测试，13 个采用实验设计测试，占总数约 3%([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, p.175]])。
 > - 改革文本估算需要 200 万欧元专项和经常性预算，用于学校实验、严格评价和公共政策系统评价([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, p.181]])。
-> - 首年工作中，英文科学[[Document\|文献]]引用少于全部参考文献的 15%，显示语言屏障限制了法语教育行动者使用国际证据资源。
+> - 首年工作中，英文科学文献引用少于全部参考文献的 15%，显示语言屏障限制了法语教育行动者使用国际证据资源。
 
 ## 争议与评论
 
 > [!warning]
-> 公约处在纯粹证据本位[[Paradigm\|范式]]与学科教学专家传统专业发展取向之间的妥协位置。它承认[[Experimental Research\|实验研究]]和项目验证的重要性，但由于本地实验研究稀少、英语[[Document\|文献]]进入困难、政治上难以排除多数既有工具，只能先采用方法多元的包容性标准，而不是直接套用 [[Education Endowment Foundation\|EEF]]、[[What Works Clearinghouse\|WWC]] 或 [[Best Evidence Encyclopedia\|BEE]] 的证据等级([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, pp.175-176, 181-182]])。
+> 公约处在纯粹证据本位[[Paradigm\|范式]]与学科教学专家传统专业发展取向之间的妥协位置。它承认[[Experimental Research\|实验研究]]和项目验证的重要性，但由于本地实验研究稀少、英语文献进入困难、政治上难以排除多数既有工具，只能先采用方法多元的包容性标准，而不是直接套用 [[Education Endowment Foundation\|EEF]]、[[What Works Clearinghouse\|WWC]] 或 [[Best Evidence Encyclopedia\|BEE]] 的证据等级([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, pp.175-176, 181-182]])。
 
 [[Grade Retention|留级]]政策展示了“有证据但改革不够强”的一面。大量综述未能识别留级的平均正效应，但法语比利时案例中的改革目标只是到 2030 年降低 50%，仍允许共同核心课程阶段使用留级；这体现了自上而下禁令与自下而上软性改变之间的政策取舍([[Argument_Dachet_2021_ECNUROE|Dachet & Baye, 2021, p.174]])。
 

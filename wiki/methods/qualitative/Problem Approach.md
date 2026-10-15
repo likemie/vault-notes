@@ -10,7 +10,7 @@ summary: "由布赖恩·霍姆斯开创的比较教育学假说-演绎方法论�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 39
+method_related_count: 38
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Operationalization]]"
   - "[[National Character]]"
-  - "[[Document]]"
   - "[[Policy Borrowing]]"
   - "[[Positivism]]"
   - "[[Refined Mastery]]"
@@ -69,7 +68,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-07
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Problem Approach
@@ -116,7 +115,7 @@ updated: 2026-10-09
 > $$L + I = P$$
 > 
 > - **公式含义** 式中 $L$ 代表通用的社会学法则（Sociological Laws）；$I$ 代表具体的初始情境条件（Initial Conditions）；$P$ 代表对教育问题解决结果的概率推断（Problem / Prediction）。
-> - **以受约束的预测检验[[Hypothesis|假设]]** 霍姆斯认为，科学的解释与预测紧密相连：如果研究者能在明确具体国情条件的前提下准确预测一项教育政策的实施走向，那么这项假说就得到了经验检验；反之，若预测落空，假说即被证伪。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 150)]]
+> - **以受约束的预测检验假设** 霍姆斯认为，科学的解释与预测紧密相连：如果研究者能在明确具体国情条件的前提下准确预测一项教育政策的实施走向，那么这项假说就得到了经验检验；反之，若预测落空，假说即被证伪。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 150)]]
 > - **审慎的概率判断区别于绝对预言** 任何对教育发展的预测都必须明确附加具体的国情条件，绝不能演变为不受检验的绝对历史宿命论。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 150–151)]]
 
 > [!tension-table] 霍姆斯论规范法则与社会学法则的[[Ontology|本体论]]二元分立
@@ -124,7 +123,7 @@ updated: 2026-10-09
 > |---|---|---|
 > | **生成与掌控** | 人类意志设立、执行与维护的公约与价值信仰 | 描述学校系统内外社会机构实际运行规律的陈述 |
 > | **人类干预性** | **人造且可变**，可被人类自主接受、拒绝或彻底废除 | 超越个体主观控制，属于机构功能层面的客观常规性 |
-> | **认识论功能** | 构成学校运行的深层文化语境；若要理解学校，必须考掘特定国家的规范法则 | 属于[[Hypothesis\|假设]]性陈述；若要具备科学性，必须是**可经验证伪的** |
+> | **认识论功能** | 构成学校运行的深层文化语境；若要理解学校，必须考掘特定国家的规范法则 | 属于假设性陈述；若要具备科学性，必须是**可经验证伪的** |
 > | **法则有效性** | 表现为跨国规范模式或民族历史文化形态 | **非普遍有效，具有严格的情境权变性（Contingency）** |
 > | **原型启发** | 经典人文学科、古典哲学经典与法学规范 | 相对论物理学与机构社会学 |
 
@@ -161,7 +160,7 @@ updated: 2026-10-09
 
 ## 资料与分析
 
-问题法在资料处理上展现出显著的跨学科综合特征，拒绝将研究材料窄化为单一的量化统计指标，将规范[[Document|文献]]与制度运行实态紧密融合：
+问题法在资料处理上展现出显著的跨学科综合特征，拒绝将研究材料窄化为单一的量化统计指标，将规范文献与制度运行实态紧密融合：
 
 > [!method-panel] 资料来源与情境分析策略
 > | 资料与分析维度 | 来源与处理方式 |

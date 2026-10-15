@@ -11,7 +11,7 @@ summary: "元分析与统计综合中最核心的最优加权方法，依据各�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 28
+method_related_count: 26
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -26,9 +26,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Publication Bias]]"
   - "[[Variable]]"
-  - "[[Hypothesis]]"
   - "[[Sampling Error]]"
-  - "[[Document]]"
   - "[[Reliability]]"
   - "[[Visible Learning]]"
   - "[[Cooperative Learning]]"
@@ -58,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Inverse-Variance Weighting
@@ -115,7 +113,7 @@ updated: 2026-09-17
 > $$w_i = \frac{1}{v_i} = \frac{1}{SE_i^2}$$
 > $$\bar{y}_{\text{FE}} = \frac{\sum_{i=1}^k w_i y_i}{\sum_{i=1}^k w_i}, \quad SE(\bar{y}_{\text{FE}}) = \sqrt{\frac{1}{\sum_{i=1}^k w_i}}$$
 >
-> **这个公式在做什么** [[Hypothesis\|假设]]所有纳入研究共享同一个恒定的真实效应量 $\theta$，各个研究的权重仅取决于其自身的抽样精度（抽样方差的倒数）。
+> **这个公式在做什么** 假设所有纳入研究共享同一个恒定的真实效应量 $\theta$，各个研究的权重仅取决于其自身的抽样精度（抽样方差的倒数）。
 >
 > **符号说明**
 > - $y_i$：第 $i$ 个研究报告的观测效应量。
@@ -183,7 +181,7 @@ updated: 2026-09-17
 >   - 一阶[[Meta-analysis\|元分析]]中综合来自多个独立实验或调查的标准化[[Effect Size\|效应量]]。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 6)]]
 >   - [[Meta-meta-analysis\|二阶元分析]]中对经过严格质量评估与测度转换的一阶元分析结果进行宏观定量合并。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, p. 26)]]
 > - **谨慎使用**
->   - 纳入研究存在严重[[Document\|文献]]重叠（Primary study overlap）或集群依赖（Cluster dependence）时，需补充[[Robust Variance Estimation\|稳健方差估计]]（RVE）或层级模型，避免[[Standard Error\|标准误]]虚假缩水。
+>   - 纳入研究存在严重文献重叠（Primary study overlap）或集群依赖（Cluster dependence）时，需补充[[Robust Variance Estimation\|稳健方差估计]]（RVE）或层级模型，避免[[Standard Error\|标准误]]虚假缩水。
 > - **不适合使用**
 >   - 原始研究效应量测度尺度不统一且无法通过数学公式等价转换的数据集。
 >   - 缺乏基本[[Sample Size Determination\|样本量]]与方差信息、仅有定性结论的研究汇总。
@@ -194,7 +192,7 @@ updated: 2026-09-17
 
 > [!method-limits] 方法局限
 > - **对大样本研究极端值敏感** 在[[Fixed-Effect and Random-Effects Models\|固定效应模型]]下，超大样本研究会占据绝大多数权重，若该研究存在系统性测量偏误，将拉偏全局估计。
-> - **不能消除[[Document\|文献]]重叠偏倚** 逆方差加权假定各观测项彼此独立；若多个[[Meta-analysis\|元分析]]包含相同的主要研究，直接应用逆方差加权会导致重复研究获得多重权重（Double-Counting）。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 29–30)]]
+> - **不能消除文献重叠偏倚** 逆方差加权假定各观测项彼此独立；若多个[[Meta-analysis\|元分析]]包含相同的主要研究，直接应用逆方差加权会导致重复研究获得多重权重（Double-Counting）。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 29–30)]]
 > - **小样本研究中 $\tau^2$ 估计不稳定** 当纳入研究数量较少（如 $k < 5$）时，[[Between-Study Variance\|研究间方差]] $\tau^2$ 的估计精度极低，随机效应加权权重的[[Reliability\|可靠性]]下降。
 
 ---
@@ -208,7 +206,7 @@ updated: 2026-09-17
 > | [[Meta-analysis]] | 基础方法 | 逆方差加权法是一阶定量元分析的核心数学基石。 |
 > | [[Meta-meta-analysis]] | 进阶方法 | 二阶元分析在第二代标准[[Umbrella Review\|伞状综述]]中广泛采用逆方差加权法进行跨元分析定量合成。 |
 > | [[Fixed-Effect and Random-Effects Models]] | 模型框架 | 逆方差加权法分别在固定效应与随机效应模型下具有不同的方差构造形式。 |
-> | [[Robust Variance Estimation]] | 进阶替代与补充 | 解决逆方差加权法在面对[[Document\|文献]]重叠与多重结果集群依赖时[[Standard Error\|标准误]]失真的现代稳健统计方案。 |
+> | [[Robust Variance Estimation]] | 进阶替代与补充 | 解决逆方差加权法在面对文献重叠与多重结果集群依赖时[[Standard Error\|标准误]]失真的现代稳健统计方案。 |
 > | [[Meta-regression]] | 扩展方法 | 基于逆方差加权最小二乘法（WLS）检验调节[[Variable\|变量]]对[[Effect Size\|效应量]]的线性影响。 |
 
 ---

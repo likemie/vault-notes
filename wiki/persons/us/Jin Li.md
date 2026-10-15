@@ -7,7 +7,7 @@ summary: "华人教育研究者，布朗大学教授，以中西文化学习模�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 42
+person_related_count: 41
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Creativity Training]]"
   - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Nerd]]"
-  - "[[Hypothesis]]"
   - "[[Certainty of Knowledge]]"
   - "[[Mind and Its Wonders]]"
   - "[[Examined Life]]"
@@ -71,7 +70,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-21
-updated: 2026-09-23
+updated: 2026-10-15
 ---
 # Jin Li
 
@@ -97,7 +96,7 @@ updated: 2026-09-23
 > - 现任布朗大学教授（[[Argument_Li_2012_Cambridge\|Li, 2012]], 封面）
 > - 研究先后获 [[William T. Grant Foundation]]、Foundation for Child Development (FCD)、Chiang-ching Kuo Foundation、Spencer Foundation 资助([[Argument_Li_2012_Cambridge\|Li, 2012, p.xii]])
 - Li 的儿子在美国公立初中就读期间经历了典型的 [[Nerd]] 骚扰：因为性格有些内向、运动能力低于平均水平，但擅长并热爱数学、成绩优秀，他的姓名上了学校的荣誉榜并张贴于走廊。同伴每天对他进行言语嘲笑和社交排斥——一个大男孩曾试图将他扔进垃圾桶。Li 和家人收集了他受到的约十二种侮辱性称呼。这种骚扰严重到使她的儿子一度拒绝上学，要求要么在家教育、要么转学。Li 和丈夫向校长和辅导员提议开展"尊重你的同伴"项目，但校方以"孩子就是这样——这是人性"为由拒绝了。最终他们别无选择，将儿子转入一所私立学校——在那里，"孩子突然就不再'是这样'了"，知性与社交终于整合在了一起([[Argument_Li_2012_Cambridge|Li, 2012, pp.92–94]])。
-- 这段经历成为 Li 研究nerd 同伴文化的直接动力之一，也促使她在第 6 章中论证 nerd 骚扰并非"人性使然"，而是特定文化[[Hypothesis|假设]]的产物([[Argument_Li_2012_Cambridge|Li, 2012, pp.93–94]])
+- 这段经历成为 Li 研究nerd 同伴文化的直接动力之一，也促使她在第 6 章中论证 nerd 骚扰并非"人性使然"，而是特定文化假设的产物([[Argument_Li_2012_Cambridge|Li, 2012, pp.93–94]])
 
 ---
 

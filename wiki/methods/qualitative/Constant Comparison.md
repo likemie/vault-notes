@@ -24,11 +24,11 @@ related_concepts:
   - "[[Emergence]]"
 related_theories: []
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Research]]"
   - "[[Grounded Theory]]"
   - "[[Theoretical Sampling]]"
   - "[[Content Analysis]]"
+  - "[[Coding in Qualitative Research]]"
   - "[[Analytic Induction]]"
   - "[[Correlational Research]]"
 related_persons: []
@@ -55,7 +55,7 @@ updated: 2026-09-26
 > *In constant comparison the researcher compares newly acquired data with existing data and categories and theories that have been devised and which are emerging, in order to [[Achieve]] a perfect fit between these and the data.*
 
 > [!method-scope] 方法范围
-> - **研究对象** 正在分析的质性数据（访谈、观察、文档等）及其生成的类别与[[Coding in Qualitative Research\|编码]]。
+> - **研究对象** 正在分析的质性数据（访谈、观察、文档等）及其生成的类别与编码。
 > - **问题类型** 适合归纳生成类别、检验类别边界、修正理论框架的质性分析。
 > - **[[Unit of Analysis\|分析单位]]** 数据片段、编码、类别、负面案例。
 > - **输出形式** 修正后的类别体系、契合数据的理论。
@@ -71,13 +71,13 @@ updated: 2026-09-26
 > [!method-stack] 方法层级
 > - **研究设计** [[Qualitative Research\|质性研究]]、[[Grounded Theory\|扎根理论]]的数据分析技术。
 > - **数据收集** 访谈、观察、文档等。
-> - **分析方法** 持续比较、[[Coding in Qualitative Research\|编码]]、类别生成与修正。
+> - **分析方法** 持续比较、编码、类别生成与修正。
 > - **辅助技术** 备忘录、反例检验、[[Theoretical Sampling\|理论抽样]]。
 
 ## 研究程序
 
 > [!proc] 持续比较的操作逻辑
-> 1. **生成初步类别** 从数据中形成初步的[[Coding in Qualitative Research\|编码]]与类别。
+> 1. **生成初步类别** 从数据中形成初步的编码与类别。
 > 2. **比较新数据** 把新获取的数据与既有数据、类别和理论比较。
 > 3. **寻找负面案例** 主动寻找不契合既有类别或理论的数据或案例。
 > 4. **修正类别与理论** 负面案例导致类别或理论被修改、扩展或限定。

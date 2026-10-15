@@ -7,9 +7,9 @@ title: "Argument_Mahoney_Thelen_2009_Cambridge"
 argument_key: "Argument_Mahoney_Thelen_2009_Cambridge"
 argument_display_title: "Explaining institutional change: Ambiguity, agency, and power"
 argument_kind: "edited-volume"
-argument_related_count: 10
+argument_related_count: 9
 argument_related_level: 0
-argument_related_stars: ""
+argument_related_stars: "☆"
 argument_related_color: "#e5e7eb"
 authors: []
 editors:
@@ -25,7 +25,6 @@ isbn: "9780511658440"
 citation: "Mahoney, J., & Thelen, K. (Eds.). (2009). Explaining institutional change: Ambiguity, agency, and power. Cambridge: Cambridge University Press."
 tags: ["theme/institutional-change", "theme/historical-institutionalism", "theme/book-reading"]
 related_concepts:
-  - "[[Document]]"
   - "[[Rule Ambiguity]]"
   - "[[Creativity]]"
 related_theories:
@@ -72,7 +71,7 @@ updated: "2026-10-11"
 ## 章节处理路线
 
 > [!chapter-roadmap] 阅读进度
-> - **准备完成** 七章已转换为七个 TXT，每章包含原有脚注和参考[[Document|文献]]。
+> - **准备完成** 七章已转换为七个 TXT，每章包含原有脚注和参考文献。
 > - **阅读顺序** 从第 1 章理论导论开始，按原书次序阅读第 2–6 章，最后阅读第 7 章。
 > - **当前进度** 第 1 章理论导论已完成解读（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]）；第 2–6 章经验章节与第 7 章制度主义比较章节待解读。
 
@@ -91,7 +90,7 @@ updated: "2026-10-11"
 
 > [!volume-limits] 文本整理与引用边界
 > - **前置材料** 前言、致谢与作者简介并入第 1 章，明确标为全书补充材料。
-> - **注释与参考[[Document|文献]]** 保留在所属章节及原有页码位置，不另外生成零散 TXT。
+> - **注释与参考文献** 保留在所属章节及原有页码位置，不另外生成零散 TXT。
 > - **页码定位** `[p. N]` 为原书页码，`[PDF page M]` 为文件内的一基页序；正文 PDF 页序为原书页码加 18。
 > - **图表核对** TXT 保留文字层中的图表标签与表格排版，图像、箭头关系及精确表格布局请回到 PDF 核对。
 > - **证据归属** 总页面只承担结构导航功能，后续引用应回到对应章节作者与章节论证页。

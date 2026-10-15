@@ -13,7 +13,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 21
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -26,14 +26,11 @@ tags:
   - theme/educational-borrowing
   - theme/nineteenth-century
 related_concepts:
-  - "[[Document]]"
   - "[[Normal School]]"
   - "[[Auslandspadagogik]]"
   - "[[Refined Mastery]]"
   - "[[Rote Learning]]"
-  - "[[Bildung]]"
   - "[[Paradigm]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Discourse]]"
   - "[[Policy Borrowing]]"
   - "[[Educational Meliorism]]"
@@ -56,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Report on Elementary Public Instruction in Europe
@@ -65,7 +62,7 @@ updated: 2026-10-07
 
 ## 背景
 
-《欧洲初等公共教育报告》（*Report on Elementary Public Instruction in Europe*，通常简称《斯托报告》）是 19 世纪美国[[Common School Movement|公学运动]]西进边疆时最具政治影响力的官方[[Document|文献]]之一：
+《欧洲初等公共教育报告》（*Report on Elementary Public Instruction in Europe*，通常简称《斯托报告》）是 19 世纪美国[[Common School Movement|公学运动]]西进边疆时最具政治影响力的官方文献之一：
 
 > [!policy-context] 政策与历史背景
 > - **调查主体与官方授权** 1836 年俄亥俄州议会正式通过联合决议，委派即将赴欧为莱恩神学院采购图书的古典文献学者兼教育家[[Calvin Stowe\|卡尔文·斯托]]（Calvin Stowe, 1802–1886）担任州官方教育特使，正式委托其在欧洲期间收集“关于公共教学与教育体制的、对俄亥俄州有益的各种事实与信息”。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 31; Knight, 1930:248)]]
@@ -92,7 +89,7 @@ updated: 2026-10-07
 > - **裴斯泰洛齐教学法与口头启发式课堂**
 >   推崇普鲁士广泛采纳的[[Johann Heinrich Pestalozzi\|裴斯泰洛齐]]要素教学与直观实物教学法，顺应儿童心灵官能自然节奏，以口头互动问答取代枯燥的[[Rote Learning\|死记硬背]]（[[Rote Learning]]）。（p. 31）
 > - **非宗派普遍道德训育**
->   指出普鲁士学校成功将基督教普遍道德[[Bildung\|教化]]与多元教派包容相结合，为美利坚移民社会建立无教派偏见的公共道德教育提供了[[Paradigm\|范式]]依据。（pp. 31–32）
+>   指出普鲁士学校成功将基督教普遍道德教化与多元教派包容相结合，为美利坚移民社会建立无教派偏见的公共道德教育提供了[[Paradigm\|范式]]依据。（pp. 31–32）
 
 斯托赞扬普鲁士学校法唤醒国民精神的经典表述，成为跨国借用史上的名段：
 
@@ -117,14 +114,14 @@ updated: 2026-10-07
 
 ## 实施情况与话语功能转化
 
-> [!actor-grid] 制度[[Transfer Translation Transformation\|转译]]矩阵
+> [!actor-grid] 制度转译矩阵
 > - **转译核心** [[Calvin Stowe\|卡尔文·斯托]]与俄亥俄州议会公学改革派议员。
 > - **受益与覆盖群体** 俄亥俄州学区委员会、中西部拓殖家庭、全美重印各州的立法决策者。
 > - **抵制群体** 边疆极端地方主义纳税人、私立宗派学校主办方。
 > - **[[Discourse|话语]]功能** 作为击碎“公立学校是专制集权与违宪抢劫”借口的强力“政治合法化依据（legitimating rationales）”。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 33–34]]）
 
 > [!pathways]- 实施路径：从俄亥俄官方报告到全美公学立法的转译机制
-> - **立法动员的跨州引爆点** 斯托报告不仅直接推动了俄亥俄州自身的公学法案，更通过马萨诸塞州、宾夕法尼亚州等五州议会的官方再版决议，演化为一场席卷全美的公共政策[[Document\|文献]]大动员。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 31–32]]）
+> - **立法动员的跨州引爆点** 斯托报告不仅直接推动了俄亥俄州自身的公学法案，更通过马萨诸塞州、宾夕法尼亚州等五州议会的官方再版决议，演化为一场席卷全美的公共政策文献大动员。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 31–32]]）
 > - **作为合法化依据的借用功能** 卡洛扬纳基与卡扎米亚斯指出，斯托与曼一样，绝非机械将普鲁士法律法典直接移植到美利坚，而是将普鲁士在无文盲、专业师资与高素质道德教学上的无可辩驳事实，转译为说服议会投票支持公税办学与设立公立[[Normal School\|师范学校]]的政治资本。（pp. 33–34）
 
 ---
@@ -148,12 +145,12 @@ updated: 2026-10-07
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Calvin Stowe]] | 人物 | 本报告作者，俄亥俄州官方教育考察特使。 |
-> | [[Common School Movement]] | 概念 | 本报告构成了公学运动在中西部边疆与全美立法突破的核心[[Document\|文献]]。 |
+> | [[Common School Movement]] | 概念 | 本报告构成了公学运动在中西部边疆与全美立法突破的核心文献。 |
 > | [[Seventh Annual Report of the Massachusetts Board of Education]] | 政策 | [[Horace Mann\|霍勒斯·曼]] 1844 年欧洲考察报告，与斯托报告互为美洲公学借用的两大丰碑。 |
 > | [[Report on the State of Public Instruction in Prussia]] | 政策 | [[Victor Cousin\|库森]]报告的英美译本启发并推动了斯托等人的欧洲考察之旅。 |
 > | [[Prussian Draft Education Law of 1819]] | 政策 | 斯托在报告中重点考察并盛赞的普鲁士公学体制的法律源头。 |
 > | [[National Education in Europe]] | 政策 | 巴纳德 1854 年出版的百科全书式巨著，承续并深化了斯托报告开辟的欧洲公学调查。 |
 > | [[Normal School]] | 概念 | 本报告大力向全美呼吁并推动建立的专业教师培训制度。 |
-> | [[Policy Borrowing]] | 概念 | 本报告展现了将外部经验[[Transfer Translation Transformation\|转译]]为国内立法合法化依据的政策借用[[Paradigm\|范式]]。 |
+> | [[Policy Borrowing]] | 概念 | 本报告展现了将外部经验转译为国内立法合法化依据的政策借用[[Paradigm\|范式]]。 |
 > | [[Educational Meliorism]] | 概念 | 本报告秉持以教育考察改良本土公共生活的强烈改良主义信念。 |
 > | [[Johann Heinrich Pestalozzi]] | 人物 | 斯托在普鲁士课堂上见证并向美国全力引介的启发式人道教学法导师。 |

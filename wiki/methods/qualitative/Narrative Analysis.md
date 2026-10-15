@@ -8,7 +8,7 @@ summary: "以故事为意义建构与表达的基本形式，通过时间序列�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 23
+method_related_count: 22
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Reflexivity]]"
   - "[[Total Institution]]"
-  - "[[Hypothesis]]"
   - "[[Emergence]]"
   - "[[Abstract]]"
   - "[[Paradigm]]"
@@ -33,11 +32,11 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Case Study]]"
   - "[[Narrative Research]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Field Notes]]"
   - "[[Autobiographical Analysis]]"
   - "[[Meta-analysis]]"
   - "[[Stories as Research Data]]"
+  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_persons: []
 related_facts:
@@ -49,7 +48,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-16
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Narrative Analysis
@@ -82,7 +81,7 @@ updated: 2026-10-07
 > - **研究设计** [[Qualitative Research\|质性研究]]、[[Case Study\|个案研究]]、[[Narrative Research\|叙事研究]]、传记与生命史研究。
 > - **数据收集** 访谈、故事数据、传记材料、档案。
 > - **分析方法** 叙事建构、传记重构、关键事件选择、主题归纳。
-> - **辅助技术** [[Coding in Qualitative Research\|编码]]、备忘录、[[Reflexivity\|反身性]]；叙事分析是编码的对照面。
+> - **辅助技术** 编码、备忘录、[[Reflexivity\|反身性]]；叙事分析是编码的对照面。
 
 ## 研究程序
 
@@ -113,7 +112,7 @@ updated: 2026-10-07
 
 > [!proc] 叙事与传记的分析流程
 > 1. **选择性聚焦** 叙事与传记不能记录全部事件，须依据研究者选择的判据（如关键时刻、关键决策、对参与者有意义的事件、主题、行为、人物、时间节点、关键经验、个案历史的重构）选择文本单元。
-> 2. **分析与诠释** 对所选文本单[[Meta-analysis\|元分析]]其蕴含的意义，发展工作[[Hypothesis\|假设]]解释所发生的事情。
+> 2. **分析与诠释** 对所选文本单[[Meta-analysis\|元分析]]其蕴含的意义，发展工作假设解释所发生的事情。
 > 3. **检验假设** 以数据与文本其余部分核对假设，把文本视为整体而非离散单元。
 > 4. **考虑替代诠释** 确保已考虑文本的不同诠释，并选择对文本最忠实者。
 > 5. **建构最终叙事** 以多种方式组织：时间序列（chronology）、因果序列、关键参与者、关键行为或行动、[[Emergence\|涌现]]或关键主题、关键议题与议题群、参与者传记、关键事件、生命史转折点、不同视角、关键决策点、个体个案或跨个案的整体分析。
@@ -133,16 +132,16 @@ updated: 2026-10-07
 
 > [!method-fit] 适用判断
 > - **适合使用** 需要保留个体完整性与连贯性、追踪情境随时间演变、建立因果链、呈现人性与情感维度的研究。
-> - **谨慎使用** 需要与[[Coding in Qualitative Research\|编码]]式分析结合、或需权衡"整体 vs 碎片化"张力时，研究者须明确呈现策略。
+> - **谨慎使用** 需要与编码式分析结合、或需权衡"整体 vs 碎片化"张力时，研究者须明确呈现策略。
 > - **不适合使用** 追求统计性概括、代表性或大规模模式识别的研究。
 
 ## 局限性
 
 > [!method-limits] 方法局限与政策遭遇
 > - **偏误来源** 叙事与传记无法记录所有事件，选择性聚焦取决于研究者判据，可能带来选择性。
-> - **适用边界** 叙事分析须权衡整体与碎片化的张力；[[Coding in Qualitative Research\|编码]]式分析可能使文本脱离语境（disembodied text），叙事则保留文本与内容的整合。
+> - **适用边界** 叙事分析须权衡整体与碎片化的张力；编码式分析可能使文本脱离语境（disembodied text），叙事则保留文本与内容的整合。
 > - **误用风险** 把叙事当作可推广的事实；忽略研究者自身建构叙事的[[Reflexivity\|反身性]]问题。
-> - **政策制定中的法定贬抑与[[Paradigm|范式]]抗辩** 在美国 2000 年卡斯尔草案（H.R. 4875, Sec. 6）中，叙事分析被直接点名定性为“源自人文学科历史传统”的数据收集与分析方式，在成文法中被明文贬抑为仅在因素“尚未充分提炼、理解或无法进行实验控制时”使用的“初步形式”（Preliminary Form），要求事后必须通过量化[[Hypothesis|假设]]检验予以补充确证；直至 2002 年《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA）在学界抗争下彻底删除歧视性清单，确立了“方法契合所提问题”的统一科学标准（[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, pp. 33–34]]）。
+> - **政策制定中的法定贬抑与[[Paradigm|范式]]抗辩** 在美国 2000 年卡斯尔草案（H.R. 4875, Sec. 6）中，叙事分析被直接点名定性为“源自人文学科历史传统”的数据收集与分析方式，在成文法中被明文贬抑为仅在因素“尚未充分提炼、理解或无法进行实验控制时”使用的“初步形式”（Preliminary Form），要求事后必须通过量化假设检验予以补充确证；直至 2002 年《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA）在学界抗争下彻底删除歧视性清单，确立了“方法契合所提问题”的统一科学标准（[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, pp. 33–34]]）。
 > - **补救方式** 以忠实于文本为检验标准，考虑替代诠释，配研究者的诠释性评论与反身性。
 
 ## 相关理论与方法

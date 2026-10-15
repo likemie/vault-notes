@@ -8,7 +8,7 @@ aliases:
 summary: "西方学校中一种将高学业成就与同伴接纳对立起来的同伴文化，理智好奇、努力学习的学生被冠以nerd等贬称并遭受同伴骚扰"
 type: concept
 domain: "sociology-of-education"
-related_count: 12
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,10 +20,8 @@ tags:
 related_concepts:
   - "[[Academic Achievement]]"
   - "[[Academic Engagement]]"
-  - "[[Hypothesis]]"
   - "[[Student Attitude]]"
   - "[[Tall Poppy Syndrome]]"
-  - "[[Document]]"
   - "[[Zero-Sum Competition]]"
   - "[[Homework]]"
   - "[[Tracking]]"
@@ -38,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-08-20
+updated: 2026-10-15
 ---
 
 # Nerd
@@ -48,7 +46,7 @@ updated: 2026-08-20
 > [!info]
 > Nerd 是西方（尤其是美国）中学文化中用来标记那些理智好奇、对学习（特别是科学、数学、技术等复杂学科）有兴趣并投入努力、[[Academic Achievement\|学业成就]]高的学生的贬称。与之类似的称谓包括 geek、dork，英国的 swot，德国的 Schreber，法国的 bouttoneux，荷兰的 stuud，以色列的 hnun([[Argument_Li_2012_Cambridge\|Li, 2012, p.89]])。
 
-根据《美国传统英语词典》的定义，nerd 指"在科学或技术追求上专注或有成就，但被认为社交笨拙的人"（转引自 Li, 2012, p.89）。定义的两个关键要素是：（1）理智好奇与[[Academic Engagement|学业投入]]；（2）被认为缺乏社交能力。这种将知性与社交对立起来的[[Hypothesis|假设]]——即理智投入的人必有社交缺陷——是 nerd 标签的核心。
+根据《美国传统英语词典》的定义，nerd 指"在科学或技术追求上专注或有成就，但被认为社交笨拙的人"（转引自 Li, 2012, p.89）。定义的两个关键要素是：（1）理智好奇与[[Academic Engagement|学业投入]]；（2）被认为缺乏社交能力。这种将知性与社交对立起来的假设——即理智投入的人必有社交缺陷——是 nerd 标签的核心。
 
 > [!quote]
 > "Sheldon White 有力地论证过，一个文化中出现的新词意味着一种重要的社会现实——就像 adolescence（青春期）在 19 世纪末出现于西方文化一样。nerd 及类似词汇在西方文化中的出现并非例外。"([[Argument_Li_2012_Cambridge\|Li, 2012, pp.89–90]])
@@ -93,7 +91,7 @@ N. T. Feather 用"[[Tall Poppy Syndrome|高罂粟]]的倒下"（fall of the tall
 ## 文化根源
 
 > [!tip]-
-> Li 综合研究[[Document\|文献]]，提出了西方 nerd 同伴文化得以存在和运作的四重文化根源([[Argument_Li_2012_Cambridge\|Li, 2012, pp.94–99]])：
+> Li 综合研究文献，提出了西方 nerd 同伴文化得以存在和运作的四重文化根源([[Argument_Li_2012_Cambridge\|Li, 2012, pp.94–99]])：
 
 ### 1. 固定自我观
 
@@ -105,7 +103,7 @@ Márta Fülöp 的跨文化研究发现：美国儿童将竞争视为零和游�
 
 ### 3. 天赋假设
 
-西方文化深植着"智力成就是天赋"的[[Hypothesis|假设]]——才能（talent）是天生的。Dweck 的研究表明：西方幼儿园儿童相信"聪明的人努力，努力的人也聪明"，但到童年中期他们意识到光靠努力不足以取得大成就；青少年则明确认为"努力是低能力的标志——聪明的人不需要努力"([[Argument_Li_2012_Cambridge|Li, 2012, pp.96–97]])。
+西方文化深植着"智力成就是天赋"的假设——才能（talent）是天生的。Dweck 的研究表明：西方幼儿园儿童相信"聪明的人努力，努力的人也聪明"，但到童年中期他们意识到光靠努力不足以取得大成就；青少年则明确认为"努力是低能力的标志——聪明的人不需要努力"([[Argument_Li_2012_Cambridge|Li, 2012, pp.96–97]])。
 
 > [!example]
 > Li 引述了一个美国高中男生对写作课的"自我实验"：每次英语课的第一篇作文都拿 B。他尝试按照老师要求完成所有步骤——大纲、草稿、修改——还是 B。于是开始故意迟交[[Homework\|作业]]，几小时、一天、几周——最后还是 B。到高中毕业，他的写作评分始终固定在 B。他由此得出结论：老师心中有一个不成文的法则——一旦被标记为 B 等写作者，做多少好事都无济于事，做多少坏事也不会降级([[Argument_Li_2012_Cambridge\|Li, 2012, pp.97–98]])。

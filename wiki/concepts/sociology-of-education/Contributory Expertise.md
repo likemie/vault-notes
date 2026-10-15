@@ -8,10 +8,10 @@ aliases:
 summary: "实践者在特定物理与社会情境中通过长期实践积累的、兼具默会性与具身性的实践智慧与手艺知识，能够应对现场偶发挑战并促成实际成效的专门知识类型。"
 type: concept
 domain: "sociology-of-education"
-related_count: 32
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 28
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - sociology-of-expertise
   - science-and-technology-studies
@@ -30,21 +30,17 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Boundary Spanner]]"
   - "[[Student-Teacher Relationship]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Educational Brokerage Agency]]"
-  - "[[Teaching Assistant]]"
   - "[[Professional Learning Community]]"
   - "[[Positivism]]"
   - "[[Operationalization]]"
   - "[[Research Utilization]]"
   - "[[Variable]]"
-  - "[[Document]]"
   - "[[Reflexivity]]"
   - "[[Evidence-Informed Practice]]"
 related_theories: []
 related_methods:
   - "[[Accounts]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Practitioner Enquiry]]"
   - "[[Effect Size]]"
   - "[[Qualitative Research]]"
@@ -59,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Contributory Expertise
@@ -103,7 +99,7 @@ updated: 2026-10-14
 
 > [!feature] 核心要素
 > - **情境嵌入性** 深植于特定学校、班级、社区文化与[[Student-Teacher Relationship\|师生关系]]的动态脉络之中，难以简单剥离。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 7)]]
-> - **默会具身性** 许多关键决策依赖长期直觉、行动中的反思（reflection-in-action）与身体化经验，无法完全[[Coding in Qualitative Research\|编码]]为显性文本。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 8)]]
+> - **默会具身性** 许多关键决策依赖长期直觉、行动中的反思（reflection-in-action）与身体化经验，无法完全编码为显性文本。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 8)]]
 > - **偶发应对力** 善于在资源匮乏、多重目标冲突和时间紧迫的不确定条件下进行审慎权衡。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 20)]]
 > - **实践有效性** 专长权威源于真实的实践效能与同行共同体认可，而非外在资质认证或发表指标。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 22)]]
 
@@ -127,11 +123,11 @@ updated: 2026-10-14
 
 ### 命题一　贡献型专长对通用循证原则具有内在筛选与情境重塑作用
 
-> [!concept-lens] 证据吸收与实践[[Transfer Translation Transformation\|转译]]
+> [!concept-lens] 证据吸收与实践转译
 > 阐述一线专业人员如何凭借贡献专长审视并改造外部研究证据。
 
 > [!claim] [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]]
-> **受训判断力对外部中介证据的抵制与校准** 当外部[[Educational Brokerage Agency\|知识中介机构]]或工具包推销的“有效做法”（如削减[[Teaching Assistant\|助教]]以节约成本的结论）与一线长期的具身实践经验直接冲突时，具有成熟贡献型专长的校长与教师会展现出坚决的专业怀疑主义。他们依托对微观生源特征与特定学生的深刻理解，将外部研究降维为粗略的参考起点或对话契机，通过[[Practitioner Enquiry\|实践者探究]]（practitioner enquiry）检验其真实适切性，拒绝被动盲从缺乏情境敏感性的技术客观性主张。[[Argument_Kelly_2025_ROE\|(Kelly et al., 2025, pp. 19–21)]]
+> **受训判断力对外部中介证据的抵制与校准** 当外部[[Educational Brokerage Agency\|知识中介机构]]或工具包推销的“有效做法”（如削减助教以节约成本的结论）与一线长期的具身实践经验直接冲突时，具有成熟贡献型专长的校长与教师会展现出坚决的专业怀疑主义。他们依托对微观生源特征与特定学生的深刻理解，将外部研究降维为粗略的参考起点或对话契机，通过[[Practitioner Enquiry\|实践者探究]]（practitioner enquiry）检验其真实适切性，拒绝被动盲从缺乏情境敏感性的技术客观性主张。[[Argument_Kelly_2025_ROE\|(Kelly et al., 2025, pp. 19–21)]]
 
 ---
 
@@ -176,7 +172,7 @@ updated: 2026-10-14
 > > - **Hemsley-Brown & Oplatka (2005)** 认为教学实践具有高度不确定性与多义性，要求研究者提炼硬科学原理难度极大，社会性专业中的[[Research Utilization\|知识利用]]天然高度依附于贡献型专长的情境裁量。[[Argument_Kelly_2025_ROE\|(Kelly et al., 2025, p. 7)]]
 
 > [!warning] 适用局限
-> - **[[Tacit Knowledge|默会知识]]的[[Coding in Qualitative Research\|编码]]与跨情境迁移壁垒** 贡献型专长高度依附于特定学校与师生情境，难以直接脱水提炼为全国通用的标准化教案或政策清单。
+> - **[[Tacit Knowledge|默会知识]]的编码与跨情境迁移壁垒** 贡献型专长高度依附于特定学校与师生情境，难以直接脱水提炼为全国通用的标准化教案或政策清单。
 > - **过度防御可能演变为经验主义停滞** 当一线专业人员将贡献型专长作为拒绝一切外部实证检验的挡箭牌时，易导致学校丧失吸收前沿循证教学法的反思动力。
 
 ---
@@ -188,7 +184,7 @@ updated: 2026-10-14
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] | 英格兰（3人）、苏格兰（3人）与德国汉堡（3人）共 9 位中小学及特教[[School Leadership\|学校领导]]者；49 份政策与中介[[Document\|文献]] | 跨国比较[[Qualitative Research\|质性研究]]（[[Documentary Analysis\|文献分析]]＋半结构化[[In-depth Interview\|深度访谈]]） | 贡献专长在不同治理体制下的表现形式、中介负担与对冲突证据的反应 | 英格兰校长在督导高压下借用研究术语防御，[[Reflexivity\|反思性]]受训判断被边缘化；苏格兰校长依据贡献专长公开反驳官方[[Teaching Assistant\|助教]]无用论并开展实践者探究；德国校长依托同侪案例咨询与法定压力评估去魅研究 | 内部研究者第一阶段独立[[Coding in Qualitative Research\|编码]]与跨国团队交叉验证 | 样本规模较小（每地 3 位校长），揭示特定治理体制下贡献专长的质性形态，非大样本代表性推断 |
+> | [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] | 英格兰（3人）、苏格兰（3人）与德国汉堡（3人）共 9 位中小学及特教[[School Leadership\|学校领导]]者；49 份政策与中介文献 | 跨国比较[[Qualitative Research\|质性研究]]（[[Documentary Analysis\|文献分析]]＋半结构化[[In-depth Interview\|深度访谈]]） | 贡献专长在不同治理体制下的表现形式、中介负担与对冲突证据的反应 | 英格兰校长在督导高压下借用研究术语防御，[[Reflexivity\|反思性]]受训判断被边缘化；苏格兰校长依据贡献专长公开反驳官方助教无用论并开展实践者探究；德国校长依托同侪案例咨询与法定压力评估去魅研究 | 内部研究者第一阶段独立编码与跨国团队交叉验证 | 样本规模较小（每地 3 位校长），揭示特定治理体制下贡献专长的质性形态，非大样本代表性推断 |
 
 ---
 

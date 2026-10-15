@@ -10,7 +10,7 @@ title: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_key: "Argument_Zheng_2023_ShanghaiSanlian"
 argument_display_title: "金榜题名之后：大学生出路分化之谜"
 argument_kind: "book"
-argument_related_count: 111
+argument_related_count: 107
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -26,9 +26,7 @@ tags:
   - level/higher-ed
 related_concepts:
   - "[[Epoché]]"
-  - "[[Hypothesis]]"
   - "[[Cultural Capital]]"
-  - "[[Habitus]]"
   - "[[Champ]]"
   - "[[Academic and Social Integration]]"
   - "[[Academic Engagement]]"
@@ -49,9 +47,8 @@ related_concepts:
   - "[[Cultural Disembedding]]"
   - "[[Cultural Disorientation]]"
   - "[[Grandes Ecoles]]"
-  - "[[Bildung]]"
+  - "[[Habitus]]"
   - "[[Literature Review]]"
-  - "[[Document]]"
   - "[[Credential Inflation]]"
   - "[[Employability]]"
   - "[[Theoretical Perspective]]"
@@ -116,7 +113,6 @@ related_methods:
   - "[[Case Study]]"
   - "[[Theoretical Sampling]]"
   - "[[Progressive Focussing]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Triangulation]]"
   - "[[Qualitative Research]]"
   - "[[Interview Protocol]]"
@@ -159,7 +155,7 @@ citation_aliases:
 > [!question]
 > 寒门学子即使冲破了[[Gaokao\|高考]]壁垒进入顶尖大学，为何在毕业出路和职业前景上仍然系统性落后于优势阶层同学？大学经历本身在其中扮演了什么角色？
 
-本书从经验谜题出发——"金榜题名"之后的不安：网络热议的"985废物""小镇做题家"、[[Quantitative Research|量化研究]]一再确认的弱势学生出路劣势——指出现有解释（[[Human Capital Theory|人力资本理论]]、社会再生产理论）的共同缺陷是将教育视为一种"所有物"（possession），而非一个生成性的"过程"（process）。|[[Yajun Zheng|郑雅君]][[Epoché|悬置]]"经济人"[[Hypothesis|假设]]，走入教育过程的"黑箱"，追问：
+本书从经验谜题出发——"金榜题名"之后的不安：网络热议的"985废物""小镇做题家"、[[Quantitative Research|量化研究]]一再确认的弱势学生出路劣势——指出现有解释（[[Human Capital Theory|人力资本理论]]、社会再生产理论）的共同缺陷是将教育视为一种"所有物"（possession），而非一个生成性的"过程"（process）。|[[Yajun Zheng|郑雅君]][[Epoché|悬置]]"经济人"假设，走入教育过程的"黑箱"，追问：
 
 1. 家庭的资源优势如何转化为学生在大学阶段的[[Cultural Capital|文化资本]]？（资本化过程）
 2. 学生在大学里的努力如何转化为出路获得上的优势？（投入过程）
@@ -171,7 +167,7 @@ citation_aliases:
 > [!abstract]
 > 全书整合三条理论脉络，建构"资本化过程—投入过程—价值选择过程"三层嵌套[[Analytic Framework\|分析框架]]：
 
-- **[[Pierre Bourdieu]]**（[[Habitus|习性]]／[[Champ|场域]]／[[Cultural Capital|文化资本]]）— 解释家庭背景如何通过中学教育经历和父母决策角色，被"资本化"为学生进入大学时的习性差异与初始竞争优势／劣势。场域概念贯穿全书，将精英大学类比为有着复杂游戏规则的"迷宫"。
+- **[[Pierre Bourdieu]]**（习性／[[Champ|场域]]／[[Cultural Capital|文化资本]]）— 解释家庭背景如何通过中学教育经历和父母决策角色，被"资本化"为学生进入大学时的习性差异与初始竞争优势／劣势。场域概念贯穿全书，将精英大学类比为有着复杂游戏规则的"迷宫"。
 
 - **高等教育过程理论（[[Academic and Social Integration|Tinto 融入理论]] + Kuh 投入理论）**— 框定学生在校期间的能动性空间，以"[[Academic Engagement|学业投入]]"和"[[Social Engagement|社会性投入]]"为双轴分析两种模式的行为差异。
 
@@ -233,7 +229,7 @@ citation_aliases:
 
 **第三步：提出替代性研究进路——走入黑箱**
 
-作者[[Epoché|悬置]]"经济人"[[Hypothesis|假设]]和再生产假设，转向从行动者层面理解：学生为何这样选择？其选择意图是如何在大学过程中形成的？
+作者[[Epoché|悬置]]"经济人"假设和再生产假设，转向从行动者层面理解：学生为何这样选择？其选择意图是如何在大学过程中形成的？
 
 前提假设：学生的毕业去向选择是基于某种目的的审慎选择（承袭[[Rational Action Theory|理性选择理论]]），但不一定仅基于经济利益计算——还可能受韦伯意义上的文化因素和价值理性引导。[[Grandes Ecoles|大学校]]园被视作一个"充斥着多元价值目标和行动逻辑的'意义竞技场'"。
 
@@ -260,12 +256,12 @@ citation_aliases:
 
 **关键引述：**
 - [[Coleman Report 1966]](Coleman, 1966, p.71-72)："学校只有使学生的前景尽可能免受其社会出身的制约，才算完成了它的使命"
-- Clippings/Pierre Bourdieu和帕斯隆(Bourdieu & Passeron, 1979, pp.21-22)："各种教育……暗含地以一整套有[[Bildung|教养]]阶级传递的知识、本领、表达模式为前提。……它导致了这种特权者游戏面前根本性的不平等"
+- Clippings/Pierre Bourdieu和帕斯隆(Bourdieu & Passeron, 1979, pp.21-22)："各种教育……暗含地以一整套有教养阶级传递的知识、本领、表达模式为前提。……它导致了这种特权者游戏面前根本性的不平等"
 
 
 ### 第一章 迷宫
 
-**本章性质：** 纯[[Literature Review|文献综述]]章。以已有研究和统计数据为据，为读者勾勒精英大学这一"游戏场"的基本布局和竞争规则。所有发现均来自**以往[[Document|文献]]**，尚未进入本书自身的质性分析。
+**本章性质：** 纯[[Literature Review|文献综述]]章。以已有研究和统计数据为据，为读者勾勒精英大学这一"游戏场"的基本布局和竞争规则。所有发现均来自**以往文献**，尚未进入本书自身的质性分析。
 
 **核心论证链：** 当代精英大学是一个布迪厄意义上的"游戏场"（[[Champ]]）→ 这个场域的"游戏规则"对学生提出了特定的隐性要求 → 不同阶层出身的学生在获知和满足这些要求方面面临天差地别的难度。
 
@@ -620,7 +616,7 @@ Walder et al.(2000)的**二元精英职业路径**理论（[[Dual Elite Career P
 
 实际分析过程是一种"**理论演绎法和现象归纳法循环往复的分析方法**"：
 1. 反复阅读访谈文稿 → 理解被访者处境和观念
-2. 在个案经验基础上寻求理论性命题或假设 → 确立[[Coding in Qualitative Research|编码]]类目
+2. 在个案经验基础上寻求理论性命题或假设 → 确立编码类目
 3. 新现象推翻旧猜想时 → 放弃原有编码类别，重新建立新猜想和类属
 4. 循环迭代 → 直至理论命题兼容所有个案经验
 5. **最终产出**[[Goal-Controlled Mode]] 与 [[Intuition-Dependent Mode]] 两种"上大学"实践模式的区分

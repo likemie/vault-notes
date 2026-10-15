@@ -8,7 +8,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 22
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -24,12 +24,10 @@ related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Paradigm]]"
   - "[[Evidence-Based Education]]"
-  - "[[Document]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Chain of Evidence]]"
 related_theories: []
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Regression Discontinuity Design]]"
@@ -52,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-06
+updated: 2026-10-15
 ---
 
 # Promising Practices Network
@@ -74,7 +72,7 @@ updated: 2026-10-06
 > PPN 由兰德公司儿童与政策倡议中心发起，受到威廉与弗洛拉·惠普尔基金会等多家慈善基金支持。
 >
 > - **先驱性循证平台** 在 [[What Works Clearinghouse\|WWC]] 成立之前，PPN 与 [[Blueprints for Healthy Youth Development\|Blueprints]] 共同开创了美国早期循证项目独立评级[[Paradigm\|范式]]。
-> - **全美政策参考书** 结项后发布的《改善儿童生活的行之有效与有前景实践指南》（RAND Tools TL145）成为[[Evidence-Based Education\|循证教育]]与社会干预的重要历史[[Document\|文献]]基准。
+> - **全美政策参考书** 结项后发布的《改善儿童生活的行之有效与有前景实践指南》（RAND Tools TL145）成为[[Evidence-Based Education\|循证教育]]与社会干预的重要历史文献基准。
 
 ---
 
@@ -89,7 +87,7 @@ updated: 2026-10-06
 ## 因果推断与方法学标准
 
 > [!abstract] 因果设计与质量规程
-> PPN 因果设计描述程度[[Coding in Qualitative Research\|编码]]为 **[[Randomised Controlled Trials\|RCT]]=1, [[Quasi-Experimental Designs\|QED]]=1, [[Regression Discontinuity Design\|RDD]]=0, [[Intelligent Tutoring Systems\|ITS]]=0**([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 10]])。
+> PPN 因果设计描述程度编码为 **[[Randomised Controlled Trials\|RCT]]=1, [[Quasi-Experimental Designs\|QED]]=1, [[Regression Discontinuity Design\|RDD]]=0, [[Intelligent Tutoring Systems\|ITS]]=0**([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 10]])。
 >
 > 1. **[[Effect Size\|效应量]]绝对阈值设定** PPN 是少数直接将效应量大小写入最高准入门槛的清算中心之一，要求标准化效应量至少达到 **0.25 个标准差（ES ≥ 0.25 SD）** 且达到[[Statistical Significance\|统计显著性]]水平([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 12]])。
 > 2. **[[Sample Size Determination\|样本量]]硬性门槛** 要求纳入研究的样本总量必须达到 **N > 100**，以确保统计检验力与估计稳定性。

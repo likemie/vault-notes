@@ -7,7 +7,7 @@ aliases:
 summary: "全面质量管理（Total Quality Management, TQM）是以全员参与、流程持续改进（CQI）、学习者导向及客观数据决策为特征的组织治理范式。由戴明与朱兰奠基，经产业联盟（如 SEMATECH）实践后，于 1990 年代广泛渗透至高等教育质量保证与学校治理变革。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 37
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -19,7 +19,6 @@ tags:
   - continuous-improvement
 related_concepts:
   - "[[Paradigm]]"
-  - "[[Teaching Assistant]]"
   - "[[Bureaucracy]]"
   - "[[Neo-Taylorism]]"
   - "[[Disciplina and Doctrina]]"
@@ -35,7 +34,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Technological Catch-up]]"
   - "[[Industry Affiliate Program]]"
-  - "[[Hypothesis]]"
   - "[[Output-Oriented Governance]]"
   - "[[Critical Thinking]]"
   - "[[Red Tape]]"
@@ -64,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Total Quality Management
@@ -78,7 +76,7 @@ updated: 2026-10-08
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向将质量控制从“末端产品质检与追责”前置为“全过程系统优化与全员能力赋能”的组织治理机制。
-> - **用途** 帮[[Teaching Assistant|助教]]育行政部门、高等院校与学校管理者识别[[Bureaucracy|科层制]]管理中的流程摩擦，构建以证据和持续反馈为支撑的内部质量保障体系。
+> - **用途** 帮助教育行政部门、高等院校与学校管理者识别[[Bureaucracy|科层制]]管理中的流程摩擦，构建以证据和持续反馈为支撑的内部质量保障体系。
 > - **边界** 植根于流程可测性与系统工程逻辑，在面对教育独特的非线性价值探索、师生主体互动及深度人文生成过程时存在解释力边界。
 
 > [!citation-card] 关键表述
@@ -190,7 +188,7 @@ updated: 2026-10-08
 > [!dev-timeline] 概念演变
 > - **1950s–1970s — 奠基与日本制造业实践** 爱德华兹·戴明（W. Edwards Deming）与约瑟夫·朱兰（Joseph M. Juran）将统计方法与系统管理引入战后日本，日本企业将其与车间一线技工参与（质量控制圈）深度融合，开创了全员参与的质量控制[[Paradigm|范式]]。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 11–12)]]
 > - **1980s–1990s 初 — 高技术研发与[[Industry Affiliate Program|产业联盟]]深化** 面对日本制造竞争压力，美国通过设立波多里奇国家质量奖（Malcolm Baldrige National Quality Award）和 [[Sematech]] “Partnering for Total Quality” 项目，将 TQM 推广至高科技中小企业与研发网络。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, p. 735)]]
-> - **1990s — 先进晶圆厂微观工程实践与良率追赶** 美国商业芯片制造商将 TQM 与全员生产维护（TPM）融入逻辑芯片产线，破除了 DRAM 唯一驱动器[[Hypothesis|假设]]，在先进逻辑制程中追平国际领先良率。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 113–118)]]
+> - **1990s — 先进晶圆厂微观工程实践与良率追赶** 美国商业芯片制造商将 TQM 与全员生产维护（TPM）融入逻辑芯片产线，破除了 DRAM 唯一驱动器假设，在先进逻辑制程中追平国际领先良率。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 113–118)]]
 > - **1990s 至今 — 深入教育管理与持续质量改进** TQM 广泛进入欧美高等教育质量评估（ABET 认证等）与 K-12 学校改进（School-Based Continuous Quality Improvement），演化为现代教育[[Output-Oriented Governance|循证治理]]与院校研究（Institutional Research）的重要基石。
 
 ---

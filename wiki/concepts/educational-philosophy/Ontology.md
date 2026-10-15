@@ -10,7 +10,7 @@ aliases:
 summary: "关于实在本质的哲学假设，决定研究者如何看待社会现象的存在方式；在教育心理学中，也指代个体对知识属性进行分类的心智认知系统。"
 type: concept
 domain: "educational-philosophy"
-related_count: 27
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -19,7 +19,6 @@ tags:
   - theme/research-philosophy
   - theme/research-planning
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Simplicity of Knowledge]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
@@ -54,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-03
+updated: 2026-10-15
 ---
 
 # Ontology
@@ -64,7 +63,7 @@ updated: 2026-10-03
 ## 定义
 
 > [!def] 核心定义
-> **本体论（Ontology）**是关于实在本质与事物性质的元理论[[Hypothesis\|假设]]（assumptions about the nature of reality and the nature of things；Hitchcock & Hughes, 1995, p. 21）。在社会科学研究哲学中，它聚焦于社会现象究竟是独立于人类知觉的外在客观实体（实在论），还是人类个体意识与语言符号建构的心灵产物（唯名论/观念论；Burrell & Morgan, 1979）；在教育心理学与学习科学中，它指代个体学习者对知识属性（如[[Simplicity of Knowledge\|知识的简单性]]与确定性）进行排他性分类的心智认知系统[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, p. 115)]][[Argument_Greene_2010_JEP\|(Greene et al., 2010, p. 237)]]。
+> **本体论（Ontology）**是关于实在本质与事物性质的元理论假设（assumptions about the nature of reality and the nature of things；Hitchcock & Hughes, 1995, p. 21）。在社会科学研究哲学中，它聚焦于社会现象究竟是独立于人类知觉的外在客观实体（实在论），还是人类个体意识与语言符号建构的心灵产物（唯名论/观念论；Burrell & Morgan, 1979）；在教育心理学与学习科学中，它指代个体学习者对知识属性（如[[Simplicity of Knowledge\|知识的简单性]]与确定性）进行排他性分类的心智认知系统[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, p. 115)]][[Argument_Greene_2010_JEP\|(Greene et al., 2010, p. 237)]]。
 
 > [!concept-lens] 概念透镜
 > - **含义（哲学视角）** 回答“被研究现象的本质是什么”——社会世界是客观外在于主体的硬性实体，还是主体间赋予意义建构的发明物。
@@ -103,7 +102,7 @@ updated: 2026-10-03
 > - **动态[[Emergence\|涌现]]的复杂实在（Emergent Reality）** [[Complexity Theory\|复杂性理论]]确立社会实在处于永恒生成之中，呈现非线性、自组织与不可还原的系统共生属性（Kuhn, 2007）。
 > - **学习者的本体论认知（Ontological Cognition）** 心理认知结构中对知识属性的范畴分类，经历从“知识是绝对客观事实”向“知识是多重视角建构”的本体论转变[[Argument_Greene_2010_JEP\|(Greene et al., 2010, p. 237)]]。
 
-> [!logic-map]- 本体论[[Hypothesis\|假设]]的光谱展开与方法论映射
+> [!logic-map]- 本体论假设的光谱展开与方法论映射
 > ```mermaid
 > flowchart LR
 >     subgraph Subj["主观主义本体论极"]
@@ -139,7 +138,7 @@ updated: 2026-10-03
 ### 命题一　本体论预设决定社会实在的存在方式并规约认识论进路
 
 > [!concept-lens] 实在性质对探究进路的刚性约束
-> 探讨社会现象的客观硬质性[[Hypothesis\|假设]]与主观建构假设如何决定科学探究的方向。
+> 探讨社会现象的客观硬质性假设与主观建构假设如何决定科学探究的方向。
 
 > [!claim] Cohen et al.
 > **本体论决定[[Epistemology\|认识论]]推导** 吉布森·伯勒尔（Gibson Burrell）与加雷斯·摩根（Gareth Morgan）提炼的四组核心假设中，本体论居于基础先导地位。研究者关于现象本质的本体论设问直接分化为实在论与[[Nominalism\|唯名论]]两极：若认定社会实在如同自然界一般具有客观独立性，必然推导采用[[Positivism\|实证主义]]认识论，运用中立实验与通则法则进行[[Variable\|变量]]测度；若认定社会实在仅存在于人类心灵与知觉赋予之中，则必然要求[[Interpretive Paradigm\|反实证主义]]认识论，采用表意法与质性[[Rich and Thick Description\|深描]]去理解个体独特的意义世界（Burrell & Morgan, 1979）[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, p. 115)]]。

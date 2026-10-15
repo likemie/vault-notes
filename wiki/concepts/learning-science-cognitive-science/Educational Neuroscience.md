@@ -28,8 +28,8 @@ related_concepts:
   - "[[What Works Movement]]"
   - "[[Working Memory]]"
   - "[[Initial Teacher Training]]"
-  - "[[Document]]"
   - "[[Scientific Method]]"
+  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Functional Magnetic Resonance Imaging]]"
@@ -80,7 +80,7 @@ updated: 2026-10-07
 > - 1993 约翰·布鲁尔（John Bruer）率先倡导基于神经科学的教育（“brain-based education”）。然而，他随后成为这一趋势最强烈的批判者之一，指出从神经科学直接跨越到教育实践是一步“太远的桥梁”（a bridge too far）（Bruer, 1993, cited in OECD, 2007, p. 132）。
 > - 2002 [[OECD]] 发布《理解大脑：走向新的学习科学》报告，警告过度依赖脑科学可能“导致建立一个过度科学化且高度顺从（highly conformist）的教育体系”的严重后果（p. 17）。
 > - 2007 OECD 发布后续报告，重申神经科学绝非灵丹妙药，必须依赖整合哲学、社会科学及教育本身的真正的跨学科方法（p. 21），并明确警告脑科学极易生成滥用（generate abuse，p. 132）。
-> - 2023 澳大利亚发布《强劲开端》报告，首次在全国主权层面上将“大脑与学习”强制列为全国[[Initial Teacher Training\|初始教师教育]]（ITE）项目的核心必修大纲，但在报告中系统性地隐瞒了[[Document\|文献]]中已达成的所有科学局限性与风险警告。
+> - 2023 澳大利亚发布《强劲开端》报告，首次在全国主权层面上将“大脑与学习”强制列为全国[[Initial Teacher Training\|初始教师教育]]（ITE）项目的核心必修大纲，但在报告中系统性地隐瞒了文献中已达成的所有科学局限性与风险警告。
 
 ---
 

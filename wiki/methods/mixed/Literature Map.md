@@ -5,16 +5,14 @@ summary: "Creswell 提出的文献组织工具，以层级结构、流程图或�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 10
+method_related_count: 8
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#fef3c7"
 tags: [source/textbook, method/research-process]
 related_concepts:
-  - "[[Document]]"
   - "[[Literature Review]]"
   - "[[Research Topic]]"
-  - "[[APA Style]]"
   - "[[Variable]]"
   - "[[Recommendations for Practice]]"
 related_theories: []
@@ -29,7 +27,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-09-11
+updated: 2026-10-15
 ---
 
 # Literature Map
@@ -37,7 +35,7 @@ updated: 2026-09-11
 ## 定义
 
 > [!info]
-> [[Document\|文献]]地图（Literature Map）是 Creswell 提出的一种文献组织工具，以可视化方式呈现已有研究的分类与分组关系，并将研究者计划开展的研究置于这一文献体系之中。它既帮助研究者理解自己的研究如何补充、延伸或复制已有研究，也可用于向学位委员会汇报、在学术会议上展示，或为期刊投稿组织[[Literature Review\|文献综述]]([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]])。
+> 文献地图（Literature Map）是 Creswell 提出的一种文献组织工具，以可视化方式呈现已有研究的分类与分组关系，并将研究者计划开展的研究置于这一文献体系之中。它既帮助研究者理解自己的研究如何补充、延伸或复制已有研究，也可用于向学位委员会汇报、在学术会议上展示，或为期刊投稿组织[[Literature Review\|文献综述]]([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]])。
 
 文献地图本质上是一幅"文献的视觉摘要"，读者能够从中一目了然地看到：该领域已有哪些研究方向、各个方向中包含哪些关键文献，以及计划研究填补了哪个缺口。
 
@@ -45,7 +43,7 @@ updated: 2026-09-11
 
 ## 呈现形式
 
-[[Document|文献]]地图可以有多种呈现形式([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]])：
+文献地图可以有多种呈现形式([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]])：
 
 - **层级结构（Hierarchical）** 自上而下展开文献分类，最顶层是广泛的[[Research Topic|研究主题]]，逐层缩小至具体分支，最底端放置计划研究的定位。这是最常见的呈现形式。
 - **流程图（Flowchart）** 从左到右展开文献脉络，最右侧推进计划研究。
@@ -53,12 +51,12 @@ updated: 2026-09-11
 
 ## 研究程序
 
-设计[[Document|文献]]地图的推荐步骤([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]])：
+设计文献地图的推荐步骤([[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]])：
 
 1. **确定顶层主题** 在层级结构的最顶端框中放入研究的大主题。这个主题是文献地图所归属的广泛研究领域。
 2. **通过计算机搜索定位研究** 搜索数据库，获取文献副本，并将其组织为几个主要子主题（通常为 3 个或更多，取决于该主题的文献数量和发表情况）。
 3. **在每个分类框中标注文献性质** 用标签描述该分类中研究的特征（如"结果""信任""组织支持"等）。
-4. **在每个分类框中标注关键引文** 放入说明该分类内容的主要引文，使用适当的格式（如 [[APA Style|APA]] 格式）。使用当前和有代表性的文献引用。
+4. **在每个分类框中标注关键引文** 放入说明该分类内容的主要引文，使用适当的格式（如 APA 格式）。使用当前和有代表性的文献引用。
 5. **设计多层级的文献地图** 主要主题延伸至子主题，再延伸至子子主题。某些分支的展开程度取决于已有的文献数量和研究者探索的深度。
 6. **在底部放置"需要研究"（Need to Study）框** 简要说明计划研究的性质，并画出连接到计划研究将延伸的文献分支的线条。
 7. **包含量化和质性两类研究** 文献地图中可同时包含量化、质性和[[Mixed Methods Research|混合方法研究]]。
@@ -79,7 +77,7 @@ updated: 2026-09-11
 ## 适用场景
 
 > [!success]
-> [[Document\|文献]]地图适用于以下场景([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]])：
+> 文献地图适用于以下场景([[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]])：
 > - 研究者首次接触一个主题，需要系统梳理已有文献的结构
 > - 撰写学位论文或开题报告，需要向委员会展示研究在文献中的定位
 > - 准备学术会议报告或期刊投稿，需要组织[[Literature Review\|文献综述]]的结构
@@ -90,7 +88,7 @@ updated: 2026-09-11
 ## 实践建议
 
 > [!tip]- Creswell 的[[Recommendations for Practice\|实践建议]]
-> - **教育读者** 第一次看到[[Document\|文献]]地图的人可能不熟悉这种文献组织方式，应仔细解释地图的意图和研究在其中的位置
+> - **教育读者** 第一次看到文献地图的人可能不熟悉这种文献组织方式，应仔细解释地图的意图和研究在其中的位置
 > - **投入足够时间** 制作文献地图需要时间。初步地图可能只需收集约 25 篇研究，而学位论文或论文的完整文献地图可能扩展至 100 篇或更多
 > - **限制连接到研究的文献分支** 只选择一到两个研究将延伸的子分支，然后从计划研究画线连接到这些分支
 > - **反复修改** 经过多个版本的迭代——制定初步地图、撰写讨论、征求他人反馈

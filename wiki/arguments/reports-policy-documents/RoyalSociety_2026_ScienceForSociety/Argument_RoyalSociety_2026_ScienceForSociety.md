@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety"
 argument_display_title: "Science for society: How society and science shape each other"
 argument_kind: "report"
-argument_related_count: 52
+argument_related_count: 51
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dcfce7"
@@ -46,7 +46,6 @@ related_concepts:
   - "[[Social License to Operate]]"
   - "[[Scientific Literacy]]"
   - "[[Upstream Public Engagement]]"
-  - "[[Hypothesis]]"
   - "[[Science Capital]]"
   - "[[Data Literacy]]"
   - "[[AI Literacy]]"
@@ -143,7 +142,7 @@ updated: 2026-10-08
 > [!monograph-tools] 理论与概念工具体系
 > - **[[Public Engagement with Science\|公众科学参与]]（Public Engagement with Science, PES）** 贯穿全书的核心理念与制度支柱，确立双向平权互动、真诚倾听公众关切与内嵌于科研全生命周期三大根本原则（pp. 8–10, 14）。
 > - **[[Deficit Model of Science Communication\|科学传播赤字模型]]（Deficit Model of Science Communication）** 全书深刻反思并彻底终结的传统知识普及[[Paradigm\|范式]]，揭示单纯单向知识灌输在应对现代公众信任危机时的根本失效（pp. 4, 10）。
-> - **[[Upstream Public Engagement\|上游公众参与]]（Upstream Public Engagement）** 推动公众参与从成果落地后的“下游公关补丁”，向科研立项论证、技术伦理研判、[[Hypothesis\|假设]]构建及国家政策议程初期的“前端协同共创”系统跃迁（pp. 76, 88, 100, 105）。
+> - **[[Upstream Public Engagement\|上游公众参与]]（Upstream Public Engagement）** 推动公众参与从成果落地后的“下游公关补丁”，向科研立项论证、技术伦理研判、假设构建及国家政策议程初期的“前端协同共创”系统跃迁（pp. 76, 88, 100, 105）。
 > - **[[Social License to Operate\|社会运营许可]]（Social License to Operate）** 阐释大学学术探索、产业前沿研发与颠覆性技术试验维系公共财政支持、伦理合规合法性及全社会民主信任的基础性政治与社会契约（pp. 75, 93, 102）。
 > - **[[Science Capital\|科学资本]]（Science Capital）与 [[Scientific Literacy\|科学素养]]（Scientific Literacy）** 解释家庭背景、社会网络与文化资源如何深层影响青少年科学抱负，阐明现代科学素养从[[Rote Learning\|死记硬背]]公式向证据评估、[[Data Literacy\|数据素养]]与 [[AI Literacy\|人工智能素养]]的当代演进（pp. 30–32）。
 > - **[[Informal Science Learning\|非正式科学学习]]（Informal Science Learning）与 [[Citizen Science\|公民科学]]（Citizen Science）** 确立科学探索中心、博物馆及社区空间作为支撑繁荣社会的文化基建地位，揭示公众作为数据生产者与研究共同体深度介入真实科研的平权力量（pp. 42–44, 75）。

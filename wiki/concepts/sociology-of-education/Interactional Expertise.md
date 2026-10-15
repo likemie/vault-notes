@@ -8,7 +8,7 @@ aliases:
 summary: "行动者能够熟练掌握并运用特定领域的专门语言与概念体系进行有效沟通、知识转译与理性论辩，但缺乏在实践现场直接开展实际操作的具身经验与默会手艺的专门知识类型。"
 type: concept
 domain: "sociology-of-education"
-related_count: 16
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Contributory Expertise]]"
   - "[[Refined Mastery]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Reliability]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Discourse]]"
@@ -43,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Interactional Expertise
@@ -53,7 +52,7 @@ updated: 2026-10-08
 ## 定义
 
 > [!def] 核心定义
-> 交互型专长（Interactional Expertise）是科学知识社会学与专长社会学中的核心概念，最初由柯林斯（Harry Collins）与埃文斯（Robert Evans）在专长周期表理论中提出，后经埃亚尔（Gil Eyal）拓展至公共领域专长研究。该概念指行动者虽不具备在实践现场直接操作、解决偶发性情境问题的默会[[Contributory Expertise\|贡献型专长]]，但能够[[Refined Mastery\|精通]]该专业领域的语言、概念工具与论辩规则，从而足以与专业人员进行深入交流、[[Transfer Translation Transformation\|转译]]研究发现、评估证据[[Reliability\|可靠性]]并向外部公众和政策制定者推广通用行动原则。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, pp. 7–8)]]
+> 交互型专长（Interactional Expertise）是科学知识社会学与专长社会学中的核心概念，最初由柯林斯（Harry Collins）与埃文斯（Robert Evans）在专长周期表理论中提出，后经埃亚尔（Gil Eyal）拓展至公共领域专长研究。该概念指行动者虽不具备在实践现场直接操作、解决偶发性情境问题的默会[[Contributory Expertise\|贡献型专长]]，但能够[[Refined Mastery\|精通]]该专业领域的语言、概念工具与论辩规则，从而足以与专业人员进行深入交流、转译研究发现、评估证据[[Reliability\|可靠性]]并向外部公众和政策制定者推广通用行动原则。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, pp. 7–8)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向脱离现场具体物理操作与具身手艺、以语言和符号体系为媒介的专门知识与转译说服能力。
@@ -88,7 +87,7 @@ updated: 2026-10-08
 > [!feature] 核心要素
 > - **专业语言精熟度** 能够无障碍掌握并运用特定学科或政策领域的概念术语、分析[[Paradigm\|范式]]与论证修辞。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 7)]]
 > - **技术客观性取向** 倾向于将复杂社会现象还原为可独立测量的[[Variable\|变量]]与抽象原则，追求跨越情境的普适性结论。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, p. 8)]]
-> - **[[Transfer Translation Transformation\|转译]]与中介功能** 在[[Knowledge Production\|知识生产]]方（学术研究）与知识消费方（政策制定与一线实践）之间搭建沟通桥梁。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, pp. 11–12)]]
+> - **转译与中介功能** 在[[Knowledge Production\|知识生产]]方（学术研究）与知识消费方（政策制定与一线实践）之间搭建沟通桥梁。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, pp. 11–12)]]
 > - **认知主义行动预设** 预设实践者是根据清晰信息做出理性选择的独立理性行动者，低估结构性约束与制度性焦虑。[[Argument_Kelly_2025_ROE\|Kelly et al. (2025, pp. 6–7)]]
 
 > [!logic-map]- 要素关系
@@ -134,7 +133,7 @@ updated: 2026-10-08
 > [!contrast-table] 交互型专长核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **合法性构建机制** | 依赖修辞论辩、技术客观性与方法学权威 | 政策咨询、智库评估与跨界[[Transfer Translation Transformation\|转译]] | Collins & Evans; Eyal |
+> | **合法性构建机制** | 依赖修辞论辩、技术客观性与方法学权威 | 政策咨询、智库评估与跨界转译 | Collins & Evans; Eyal |
 > | **治理生态与异化** | 市场化环境导致交互专长商品化与表演性应用 | [[Evidence-Based Education\|循证教育]]改革、问责制下的学校改进 | Kelly et al. |
 
 ---

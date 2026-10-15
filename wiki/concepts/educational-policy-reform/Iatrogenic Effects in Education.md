@@ -12,7 +12,7 @@ aliases:
 summary: "本意为促进发展的教育或心理干预在实施后反而对受试者产生系统性负面损害或越轨行为加剧的现象，在循证清算体系中被设立为不可豁免的一票否决红线。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 18
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -23,7 +23,6 @@ tags:
   - unintended-consequences
   - peer-contagion
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Non-maleficence and Beneficence in Research]]"
   - "[[Learned Helplessness]]"
   - "[[Institutional Displacement]]"
@@ -50,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Iatrogenic Effects in Education
@@ -65,7 +64,7 @@ updated: 2026-10-12
 > 在国际循证清算体系中，医源性伤害被视作不可豁免的**最高伦理与准入红线**。以 [[Blueprints for Healthy Youth Development\|Blueprints]] 和 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|CEBC]] 为代表的严格机构明确规定：任何候选项目只要在核心使命领域或随访期内被证实存在统计显著或实质重要的负向效应（Negative Treatment Effects），将直接实施**一票否决**并标记为“无效或有害（Iatrogenic / Non-certified）”([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 11–15, 26–27]])。
 
 > [!concept-lens] 效度视角与方法学定位
-> - **打破“干预总是无害”的善良[[Hypothesis\|假设]]** 传统教育研究常假设“最差不过是无效（No Effect）”；但实证表明，不当的分组机制或过度干预会造成不可逆的实际伤害（如加剧标签化、恶化学风）。
+> - **打破“干预总是无害”的善良假设** 传统教育研究常假设“最差不过是无效（No Effect）”；但实证表明，不当的分组机制或过度干预会造成不可逆的实际伤害（如加剧标签化、恶化学风）。
 > - **清算机构的监控盲区** 纯教育类清算中心（如 [[What Works Clearinghouse\|WWC]]、[[Best Evidence Encyclopedia\|BEE]]、[[National Dropout Prevention Center\|NDPC]]）长期聚焦于正向提分[[Effect Size\|效应量]]，普遍缺乏系统捕捉心理焦虑、同伴传染及反向行为恶化的监测指标与排查规程。
 
 > [!citation-card]- 关键定义

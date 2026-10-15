@@ -41,13 +41,13 @@ related_methods:
   - "[[Theoretical Sampling]]"
   - "[[Triangulation]]"
   - "[[Semi-structured Interview]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
   - "[[Case Study]]"
   - "[[Process Tracing]]"
   - "[[In-depth Interview]]"
   - "[[Qualitative Content Analysis]]"
   - "[[Transcription in Qualitative Research]]"
+  - "[[Coding in Qualitative Research]]"
   - "[[Purposeful Sampling]]"
   - "[[Content Analysis]]"
   - "[[Elite Interview]]"
@@ -98,7 +98,7 @@ updated: 2026-10-08
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 秉持[[Constructivist Paradigm\|建构主义]]与知识社会学立场，将专家知识区分为显性技术知识（Technical knowledge）、组织情境知识（Contextual knowledge）与实践惯例知识（[[Praxis]]/insider knowledge）。
 > - **研究者角色** 研究者必须作为具备相当专业储备的同行对话者进入现场，展现对行业背景与制度法规的深度理解，打破官方公关防备，建立实质性专业互信。
-> - **有效性标准** [[Internal Validity\|内部效度]]依托[[Theoretical Sampling\|理论抽样]]、多源[[Triangulation\|三角互证]]与受访者立场[[Reflexivity\|反身性]]检视；[[Reliability\|信度]]依托标准化[[Semi-structured Interview\|半结构化访谈]]提纲与透明[[Coding in Qualitative Research\|编码]]审计。
+> - **有效性标准** [[Internal Validity\|内部效度]]依托[[Theoretical Sampling\|理论抽样]]、多源[[Triangulation\|三角互证]]与受访者立场[[Reflexivity\|反身性]]检视；[[Reliability\|信度]]依托标准化[[Semi-structured Interview\|半结构化访谈]]提纲与透明编码审计。
 > - **不声称回答的问题** 不能直接用于推断总体行为发生率或精确测量[[Variable\|变量]]间的量化因果[[Effect Size\|效应量]]。
 
 > [!method-stack] 方法层级
@@ -161,7 +161,7 @@ updated: 2026-10-08
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Qualitative Content Analysis]] | 补充方法 | 专家访谈[[Transcription in Qualitative Research\|转录]]文本通常采用规范的质性[[Content Analysis\|内容分析]]方法进行主题[[Coding in Qualitative Research\|编码]]与范畴提炼。 |
+> | [[Qualitative Content Analysis]] | 补充方法 | 专家访谈[[Transcription in Qualitative Research\|转录]]文本通常采用规范的质性[[Content Analysis\|内容分析]]方法进行主题编码与范畴提炼。 |
 > | [[Elite Interview]] | 替代方法 | 精英访谈聚焦最高权力核心的政治博弈与非正式交易；专家访谈则更偏向职能操作知识与行政业务常规。 |
 > | [[Semi-structured Interview]] | 上位方法 | 专家访谈在操作形式上属于针对特定职业人群演化而来的半结构化访谈。 |
 > | [[Working Knowledge]] | 理论 | 专家访谈重点挖掘的组织内部经验与信念体系正是行政决策者实践运作知识的核心组成。 |

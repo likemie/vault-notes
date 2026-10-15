@@ -7,7 +7,7 @@ summary: "行动研究的政治化版本，以集体参与、赋权和解放为�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 19
+method_related_count: 18
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Conscientization]]"
   - "[[Praxis]]"
   - "[[Reflexivity]]"
-  - "[[Hypothesis]]"
   - "[[Chain of Evidence]]"
   - "[[Problem Solving]]"
 related_theories:
@@ -43,7 +42,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
 status: draft
 created: 2026-07-18
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 # Participatory Action Research
 
@@ -114,7 +113,7 @@ PAR 的议程由参与者自身识别，因此扎根于现实、真实且由参�
 > - **改进社会实践** 行动的直接目标是改变社会实践使之更好，而非仅仅描述或解释现状
 > - **系统的学习过程** 行动研究遵循有计划的学习步骤，而非随意的试错
 > - **对实践和价值观进行理论化** 实践者不只是行动，还要从行动中提炼可迁移的理论认识
-> - **在真实实践中检验** [[Hypothesis\|假设]]、价值观和观念必须在真实情境中经受检验，而非停留在纸面推演
+> - **在真实实践中检验** 假设、价值观和观念必须在真实情境中经受检验，而非停留在纸面推演
 > - **保持记录** 系统地记录过程数据和反思日志，为后续分析和公开辩护提供[[Chain of Evidence\|证据链]]
 > - **客观看待自身经验** 参与者需要从自身经验中抽离，以分析性眼光审视自己的行动和假设
 > - **建立证据记录** 积累实践变化、理论发展和反思过程的证据记录，供公开审查

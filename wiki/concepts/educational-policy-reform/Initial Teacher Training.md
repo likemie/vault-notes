@@ -11,7 +11,7 @@ alias_reviewed:
 summary: "指个体在正式获得合格教师资格（QTS）并独立执教前所接受的系统性专业职前准备阶段，涵盖大学本位培养、校本学徒制及混合临床实践模式"
 type: concept
 domain: "educational-policy-reform"
-related_count: 24
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -33,8 +33,6 @@ related_concepts:
   - "[[Rationalized Myth]]"
   - "[[Evidence Era]]"
   - "[[Technical Rationality]]"
-  - "[[Attrition]]"
-  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Correlational Research]]"
@@ -171,11 +169,11 @@ updated: 2026-10-15
 > > - **大学学者与批判阵营** 批评过度校本化导致职前教育去智识化（de-intellectualisation），使准教师失去质疑既定政策与情境审辩的专业底蕴。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 89, 96)]]
 
 > [!critique] 外部批评
-> - **劳动力[[Attrition\|流失]]与生源危机** 碎片化的市场化培训路径并未解决英格兰严峻的教师招聘与早期流失危机，高压问责与清单考核反而加剧了入职焦虑。
+> - **劳动力流失与生源危机** 碎片化的市场化培训路径并未解决英格兰严峻的教师招聘与早期流失危机，高压问责与清单考核反而加剧了入职焦虑。
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]] — 历时追踪 1983–2019 年英格兰 ITT 政策[[Document\|文献]]与 20 位[[Elite Interview\|精英访谈]]，揭示从测量时代向[[Evidence Era\|证据时代]]的合法化[[Paradigm\|范式]]演进与国家把关机制。
+> - [[Argument_Helgetun_2022_JEP\|Helgetun & Menter (2022)]] — 历时追踪 1983–2019 年英格兰 ITT 政策文献与 20 位[[Elite Interview\|精英访谈]]，揭示从测量时代向[[Evidence Era\|证据时代]]的合法化[[Paradigm\|范式]]演进与国家把关机制。

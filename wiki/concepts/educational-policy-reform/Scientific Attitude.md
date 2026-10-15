@@ -10,7 +10,7 @@ aliases:
 summary: "指个体与公众在面对自然现象、实证证据与公共决策时所秉持的理性探究倾向与价值取向，涵盖实证怀疑、拥抱不确定性、开放反思等认识论心智，并在历史教育改革（如1920年代民国新教育）与现代公众科学态度调查（如PAS 2025）中扮演核心话语功能。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 46
+related_count: 44
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[Critical Thinking]]"
   - "[[Pragmatic Paradigm]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Scientism]]"
   - "[[Scientific Method]]"
   - "[[Scientific Uncertainty]]"
@@ -47,7 +46,6 @@ related_concepts:
   - "[[Deficit Model of Science Communication]]"
   - "[[Science Journalism]]"
   - "[[Praxis]]"
-  - "[[Document]]"
   - "[[Citizen Science]]"
   - "[[Public Engagement with Science]]"
   - "[[Reflective Thinking]]"
@@ -79,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Scientific Attitude
@@ -93,7 +91,7 @@ updated: 2026-10-07
 
 > [!concept-lens] 概念透镜
 > - **含义** 科学态度不仅指向个体心理层面的探究好奇心与证据怀疑论，更是联结科学共同体、媒体生态与大众民主协商的社会文化规范。
-> - **用途** 在科学教育中用于打破[[Rote Learning\|死记硬背]]、培养直面复杂争议的[[Critical Thinking\|批判性思维]]；在历史社会学中用于解释改革者如何将[[Pragmatic Paradigm\|实用主义]][[Transfer Translation Transformation\|转译]]为适应国情的改良工具；在科技政策与大众传播中用于诊断公众信任落差与防范通稿过度营销。
+> - **用途** 在科学教育中用于打破[[Rote Learning\|死记硬背]]、培养直面复杂争议的[[Critical Thinking\|批判性思维]]；在历史社会学中用于解释改革者如何将[[Pragmatic Paradigm\|实用主义]]转译为适应国情的改良工具；在科技政策与大众传播中用于诊断公众信任落差与防范通稿过度营销。
 > - **边界** 科学态度坚守对证据的开放反思与自我修正，严格区别于将科学教条化为绝对终极真理的[[Scientism\|科学主义]]（Scientism）。
 
 > [!boundary]- 概念边界
@@ -180,7 +178,7 @@ updated: 2026-10-07
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 适用情境与[[Praxis\|实践]]机制 | 代表[[Document\|文献]] / 来源 |
+> | 命题类型 | 核心指向 | 适用情境与[[Praxis\|实践]]机制 | 代表文献 / 来源 |
 > |---|---|---|---|
 > | **范式转向与国情适应** | 揭示民国[[New Education Movement\|新教育运动]]从激进民主向科学态度的转型 | 比较教育史、教育范式演进 | [[Argument_Zhou_2024_CE\|Zhou & Westberg (2024)]] |
 > | **[[Epistemology\|认识论]]与不确定性接纳** | 强调掌握多源证据批判与科学暂定性认知的核心地位 | 科学课程改革、[[Citizen Science\|公民科学]]素养 | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026, p. 30)]] |
@@ -242,5 +240,5 @@ updated: 2026-10-07
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Zhou_2024_CE\|Zhou & Westberg (2024)]] — 系统考证 1920 年代民国[[New Education Movement\|新教育运动]][[Paradigm\|范式]]转向与赵乃传科学态度三要素。
-> - [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] — 追踪科学态度与[[Pragmatism in China\|实用主义在中国]]现代政治[[Discourse|话语]]中的[[Transfer Translation Transformation\|转译]]演变。
+> - [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] — 追踪科学态度与[[Pragmatism in China\|实用主义在中国]]现代政治[[Discourse|话语]]中的转译演变。
 > - [[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society (2026)]] — 整合 20 年科研人员公众参与态度[[Longitudinal Study\|纵向调查]]与 [[Public Attitudes to Science\|PAS 2025]] 全国民意数据，论证以批判性审视证据、接纳不确定性与抵御恐慌新闻为核心的建设性科学态度，倡导负责任传播（[[Responsible Conduct of Research\|RCR]]）的学术伦理自律。

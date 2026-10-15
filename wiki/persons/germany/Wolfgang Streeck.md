@@ -8,10 +8,10 @@ summary: "德国经济社会学家，马克斯·普朗克社会研究所荣休�
 type: person
 nationality: "germany"
 person_region: "germany"
-person_related_count: 32
-person_related_level: 4
-person_related_stars: "⭐⭐⭐⭐"
-person_related_color: "#fce7f3"
+person_related_count: 30
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: 1946
 lifespan: "1946–至今"
 tags:
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Apprenticeship]]"
   - "[[Institutional Complementarity]]"
-  - "[[Hypothesis]]"
   - "[[Rule Enactment]]"
 related_theories:
   - "[[Theory of Gradual Institutional Change]]"
@@ -48,7 +47,6 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Max Planck]]"
-  - "[[Isaiah Berlin]]"
   - "[[Kathleen Thelen]]"
   - "[[James Madison]]"
   - "[[James Mahoney]]"
@@ -62,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-15
 ---
 
 # Wolfgang Streeck
@@ -72,7 +70,7 @@ updated: 2026-10-11
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 德国比较经济社会学家与政治经济学家，科隆[[Max Planck|马克斯·普朗克]]社会研究所（Max Planck Institute for the Study of Societies, MPIfG）荣休所长，[[Isaiah Berlin|柏林]]自由大学社会学荣誉教授，当代欧洲批判政治经济学与[[Theory of Gradual Institutional Change|制度变迁理论]]领军人物。
+> - **身份位置** 德国比较经济社会学家与政治经济学家，科隆[[Max Planck|马克斯·普朗克]]社会研究所（Max Planck Institute for the Study of Societies, MPIfG）荣休所长，柏林自由大学社会学荣誉教授，当代欧洲批判政治经济学与[[Theory of Gradual Institutional Change|制度变迁理论]]领军人物。
 > - **核心角色** 在当代[[Historical Institutionalism|历史制度主义]]与比较资本主义分析网络中担任形态学奠基者与宏观批判中枢；与[[Kathleen Thelen|凯瑟琳·希伦]]于 2005 年合编里程碑著作《制度变迁的超越》（*Beyond Continuity*），在社会科学界首次系统建构[[Institutional Displacement|制度置换]]、[[Institutional Layering|制度层叠]]、[[Institutional Drift|制度漂移]]、[[Institutional Conversion|制度转换]]与[[Institutional Exhaustion|制度耗竭]]的五分形态学框架，系统破除间断均衡论与[[Varieties of Capitalism|资本主义多样性]]（VoC）的静态偏误，为历史制度主义确立以“规则设计与践行脱节”为核心的内生演化[[Paradigm|范式]]；晚近聚焦资本主义危机与民主制度的退化分析。
 > - **代表贡献** 与希伦合作奠定渐进制度变迁形态学分类标准（2005）；出版专著《重塑资本主义》（*Re-Forming Capitalism*，2009），追踪德国劳资协商体制在无激变状态下的[[Liberalization|自由化]]渐变；出版《买来的时间》（*Buying Time*，2014），剖析民主资本主义的深层延期危机。
 
@@ -89,10 +87,10 @@ updated: 2026-10-11
 > - **1946** 出生于德国兰斯巴赫（Lollar）。
 > - **1972** 于法兰克福大学获社会学学位，深受法兰克福学派批判社会理论熏陶。
 > - **1980** 于比勒费尔德大学获社会学博士学位。
-> - **1980–1988** 任职于[[Isaiah Berlin|柏林]]社会科学研究中心（WZB），专注于德国工会、产业民主与[[Apprenticeship|学徒培训]]制度实证研究。
+> - **1980–1988** 任职于柏林社会科学研究中心（WZB），专注于德国工会、产业民主与[[Apprenticeship|学徒培训]]制度实证研究。
 > - **1988–1995** 任教于美国威斯康星大学[[James Madison|麦迪逊]]分校（University of Wisconsin-Madison），出任社会学与工业关系讲席教授，深度融入英美比较政治经济学学术共同体。
 > - **1995–2014** 出任[[Max Planck|马克斯·普朗克]]社会研究所（MPIfG）主任兼所长，将其打造为全球比较资本主义与[[Historical Institutionalism|历史制度主义]]研究殿堂。
-> - **2005** 与希伦合编出版《制度变迁的超越：发达政治经济学中的制度变迁》（*Beyond Continuity*，牛津大学出版社），系统提出置换、层叠、漂移、转换与耗竭五大内生变迁形态，正式向传统间断均衡模型与静态[[Institutional Complementarity|制度互补性]][[Hypothesis|假设]]发起[[Paradigm|范式]]挑战。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 1–39)]]
+> - **2005** 与希伦合编出版《制度变迁的超越：发达政治经济学中的制度变迁》（*Beyond Continuity*，牛津大学出版社），系统提出置换、层叠、漂移、转换与耗竭五大内生变迁形态，正式向传统间断均衡模型与静态[[Institutional Complementarity|制度互补性]]假设发起[[Paradigm|范式]]挑战。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 1–39)]]
 > - **2009** 出版代表作《重塑资本主义》（*Re-Forming Capitalism*），系统运用渐进变迁理论解剖战后德国社会市场经济在法律未改前提下的去组织化与[[Liberalization|自由化]]重组。
 > - **2014** 从马普所荣休；出版《买来的时间》（*Buying Time*），引发全球对现代财政国家与新自由主义危机的政治学大讨论。
 
@@ -146,7 +144,7 @@ updated: 2026-10-11
 > [!person-network] 关系网络
 > - **核心理论合作者** [[Kathleen Thelen]] — 2005 年合编出版《制度变迁的超越》，共同奠定渐进变迁形态学基石。
 > - **理论同行与吸收者** [[James Mahoney]] — 将施特雷克与希伦的形态学整合入双维解释矩阵与微观行动者模型。
-> - **学术对话者** [[Peter A. Hall]] — 就[[Varieties of Capitalism|资本主义多样性]]（VoC）的[[Institutional Complementarity|制度互补性]][[Hypothesis|假设]]与[[Liberalization|自由化]]演进动力开展长期学术交锋。
+> - **学术对话者** [[Peter A. Hall]] — 就[[Varieties of Capitalism|资本主义多样性]]（VoC）的[[Institutional Complementarity|制度互补性]]假设与[[Liberalization|自由化]]演进动力开展长期学术交锋。
 > - **学术同行与参著者** [[Jacob S. Hacker]] — 2005 年在《制度变迁的超越》中撰写核心章节，首创[[Institutional Drift|政策漂移]]理论，为施特雷克的形态学贡献关键机制。
 > - **理论批评对象** [[Paul Pierson]] — 施特雷克与希伦（2005）系统批评皮尔逊福利国家紧缩理论中的“连续性偏误”，指出其忽视了无立法修改状态下的渐进侵蚀。
 

@@ -36,11 +36,8 @@ related_concepts:
   - "[[Construct]]"
   - "[[Topological Spatialisation]]"
   - "[[Literature Search]]"
-  - "[[Document]]"
   - "[[Publication Bias]]"
-  - "[[APA Style]]"
   - "[[Heterogeneity]]"
-  - "[[Hypothesis]]"
   - "[[Reliability]]"
   - "[[Externalization]]"
   - "[[Working Memory]]"
@@ -60,7 +57,6 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Three-Level Meta-Analysis]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Meta-regression]]"
   - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Standard Error]]"
@@ -100,9 +96,9 @@ title: "Argument_Guo_2025_TSC"
 argument_key: "Argument_Guo_2025_TSC"
 argument_display_title: "Effect of training programs on the creativity of university students: A multi-level meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 62
-argument_related_level: 4
-argument_related_stars: "⭐⭐⭐⭐"
+argument_related_count: 58
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Thinking Skills and Creativity"
 book_title: ""
@@ -141,7 +137,7 @@ issuing_organization: ""
 
 ### 核心变量与操作化编码表
 
-> [!index-table] 核心[[Variable\|变量]][[Operationalization\|操作化]]定义与[[Coding in Qualitative Research\|编码]]规程
+> [!index-table] 核心[[Variable\|变量]][[Operationalization\|操作化]]定义与编码规程
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
 > | **创造性思维** | 产生新颖、多向度且具适应性观念的认知发散与重构能力。 | 典型工具包含[[Torrance Tests of Creative Thinking\|托兰斯创造性思维测验（Torrance Tests of Creative Thinking, TTCT）]]图形版（TTCT-F）与言语版（TTCT-V）、[[Abbreviated Torrance Test for Adults\|成人托兰斯创造性思维简表（Abbreviated Torrance Test for Adults, ATTA）]]、[[Evaluation of Potential for Creativity\|创造潜能评估测验（Evaluation of Potential for Creativity, EPOC）]]；代表研究如 Karwowski & Soszynski (2008)、Puccio et al. (2020)；$N = 24, g = 0.671$。 |
@@ -163,7 +159,7 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **[[Literature Search\|文献检索]]与筛选** | 遵循系统评价和荟萃分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, [[PRISMA]]）指南，系统检索 Web of Science、Scopus、ScienceDirect、PubMed、ERIC 等数据库（2000–2024 年）；采用布尔逻辑检索、[[Document\|文献]]滚雪球法与专家咨询两阶段策略；经双人独立筛选与第三方复核，最终纳入 29 项实证研究。（pp.3–5） |
+> | **[[Literature Search\|文献检索]]与筛选** | 遵循系统评价和荟萃分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, [[PRISMA]]）指南，系统检索 Web of Science、Scopus、ScienceDirect、PubMed、ERIC 等数据库（2000–2024 年）；采用布尔逻辑检索、文献滚雪球法与专家咨询两阶段策略；经双人独立筛选与第三方复核，最终纳入 29 项实证研究。（pp.3–5） |
 > | **[[Effect Size\|效应量]]计算** | 提取各实验组与对照组（或前后测）的均值、标准差及样本量，采用小样本无偏校正的 Hedges' $g$ 作为[[Effect Size\|效应量]]指标；依据 Cohen 准则将 0.2、0.5、0.8 分别界定为小、中、大效应。（p.5） |
 > | **[[Three-Level Meta-Analysis\|多层元分析]]与[[Meta-regression\|元回归]]** | 运用综合元分析软件（Comprehensive Meta-Analysis, CMA v3.070）构建多层随机效应模型（[[Fixed-Effect and Random-Effects Models\|Random-Effects Model]]），妥善处理单项研究内多个效应量的嵌套依赖性；通过 $Q$ 检验与 $I^2$ 评估异质性，并以亚组分析与[[Meta-regression\|元回归]]检验调节变量。（pp.5–7） |
 > | **[[Publication Bias\|发表偏倚]]诊断** | 绘制包含 109 个效应量的[[Standard Error\|标准误]]漏斗图，通过散点分布形态与对称性检验评估潜在发表偏倚风险。（pp.5–6） |
@@ -177,7 +173,7 @@ issuing_organization: ""
 > | **测量工具多样性** | 涵盖[[Divergent Thinking\|发散思维]]（TTCT、AUT、GAU）、联想重组（RAT、OTT）、真实性设计与作品评价（CEDA、WRT、OSVM）及情绪[[Creativity\|创造力]]量表（ECI）等多模态测量体系。（pp.10–11） |
 
 > [!ref-table]- 纳入实证研究特征与干预方案清单（Table 4）
-> | 纳入研究（[[APA Style\|APA]] 格式） | 国别与样本构成 | 测量工具与实验设计 | 干预特征（训练方式 / 周期 / 组织形式） |
+> | 纳入研究（APA 格式） | 国别与样本构成 | 测量工具与实验设计 | 干预特征（训练方式 / 周期 / 组织形式） |
 > |---|---|---|---|
 > | Baruah & Paulus (2008) | 美国（ = 48 / CG = 48$） | 发散思维产出量；前后测设计（b: 替代训练） | 书面[[Brainstorming\|头脑风暴]]训练；< 1 周；小组协作 |
 > | Campion & Levita (2014) | 英国（$EG = 56 / CG = 56$） | SEES, [[Torrance Tests of Creative Thinking\|TTCT]]；实验组/对照组（b: 替代训练） | 言语训练；< 2 个月；独立练习 |
@@ -244,7 +240,7 @@ issuing_organization: ""
 > | **随机效应模型** | $k = 29$ | $\mathbf{0.628}\ [0.446, 0.809]$ | $SE = 0.092,\ \mathbf{Z = 6.79\ (p < .001)}$ | $Q(28) = 178.51^{***},\ I^2 = 84.31\%,\ \tau^2 = 0.189$；真实异质性高，确立中等促进基准 |
 
 > **图表解读** 
-> 1. **总体效应量级** 随机效应模型点估计为 $g = 0.628$（95% CI $[0.446, 0.809]$），依据 Cohen 标准达到中等偏上效应，有力推翻了“成年期创造潜能固化不可塑”的[[Hypothesis\|假设]]。
+> 1. **总体效应量级** 随机效应模型点估计为 $g = 0.628$（95% CI $[0.446, 0.809]$），依据 Cohen 标准达到中等偏上效应，有力推翻了“成年期创造潜能固化不可塑”的假设。
 > 2. **模型选择依据** 异质性检验 $I^2 = 84.314\% > 75\%$ 且 $Q(28) = 178.507$（$p < 0.001$），表明效应量的变异主要来自各研究间真实的教学设计与情境差异而非抽样误差，因而随机效应模型与后续调节分析具有充分的方法学正当性。（p.6）
 
 > [!evidence-grid]- 支持全域效应与偏倚检验的论述证据
@@ -341,7 +337,7 @@ issuing_organization: ""
 > **典型实证循证支持** 该类别代表性实证研究涵盖奥地利（Fink et al., 2015）、英国（Campion & Levita, 2014; Lewis & Lovatt, 2013）及美国（Kienitz et al., 2014）等多国高校实验（详见 Table 4 清单）。
 >
 > **核心操作规程与教学设计**
-> 1. **言语符号即时外化** 依托[[Alternate Uses Test\|另类用途测验]]（AUT）与口头叙述任务，要求学生在限定时间内对非常规概念与命题进行快速言语表述，将头脑中模糊的发散意象即时[[Coding in Qualitative Research\|编码]]为明确的语言符号。
+> 1. **言语符号即时外化** 依托[[Alternate Uses Test\|另类用途测验]]（AUT）与口头叙述任务，要求学生在限定时间内对非常规概念与命题进行快速言语表述，将头脑中模糊的发散意象即时编码为明确的语言符号。
 > 2. **积极言语反馈与支架提供** 教师在干预中给予显式指导语鼓励（Explicit Instructions to be Creative）与积极正向反馈，明确肯定非常规联想。
 >
 > **深层认知机制拆解**
@@ -466,7 +462,7 @@ issuing_organization: ""
 > [!warning]
 > 1. **调节[[Variable\|变量]]覆盖范围有限** 本研究仅检验了训练周期、学段层次、活动组织形式与训练方式四个调节变量，基于特定认知导向的细分干预要素（如具体的注意力控制或[[Working Memory\|工作记忆]]负荷策略）尚未能完全穷尽，有待未来实证研究深入细化。（pp.9–10）
 > 2. **研究生样本数据代表性不足** 纳入的 29 项实证研究中，仅有 2 项[[Effect Size\|效应量]]涉及研究生群体，虽然点估计较高（$g = 0.991$），但因[[Sample Size Determination\|样本量]]极小，本科生与研究生之间的确切效应差异仍需在大样本数据中进一步验证。（pp.7, 10）
-> 3. **长期迁移与追踪效标缺失** 现有实证[[Document\|文献]]普遍依赖干预结束后的即时或短期测验分数，对[[Creativity\|创造力]]技能在真实专业领域及长期职业发展中的实际转化与远迁移效果缺乏追踪数据。（p.10）
+> 3. **长期迁移与追踪效标缺失** 现有实证文献普遍依赖干预结束后的即时或短期测验分数，对[[Creativity\|创造力]]技能在真实专业领域及长期职业发展中的实际转化与远迁移效果缺乏追踪数据。（p.10）
 
 ---
 

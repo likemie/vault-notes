@@ -5,13 +5,12 @@ aliases:
 summary: "女性认知方式模型中的最高阶段，个体认为知识是随语境变化的主动建构产物。"
 type: concept
 domain: "educational-psychology"
-related_count: 31
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 related_concepts:
   - "[[Epistemology]]"
-  - "[[Teaching Assistant]]"
   - "[[Subjectivism]]"
   - "[[Epistemological Beliefs]]"
   - "[[Constructivist Paradigm]]"
@@ -24,7 +23,6 @@ related_concepts:
   - "[[Evaluativist]]"
   - "[[Epistemic Cognition]]"
   - "[[Knowledge Production]]"
-  - "[[Hypothesis]]"
   - "[[Ways of Knowing]]"
   - "[[External Validity]]"
   - "[[Cross-cultural Validity]]"
@@ -47,7 +45,7 @@ related_methods:
 related_persons: []
 status: active
 created: 2026-08-15
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 # Constructed Knowledge
 （建构知识）
@@ -61,7 +59,7 @@ updated: 2026-09-22
 
 > [!concept-lens] 概念透镜
 > - **含义** 它是认识论发展阶段理论（发展论模型）中标志"认识论成熟度顶阶"的专属术语，与 Perry (1970) 发展论中的"相对主义内的承诺"阶段相对应。
-> - **用途** 它帮[[Teaching Assistant\|助教]]育者识别学生所处的[[Epistemology\|认识论]]发展位置，尤其是学习者是否已超越了[[Subjectivism\|主观主义]]（认为所有观点等价），进入了能够在情境中主动建构和评估知识的成熟阶段。
+> - **用途** 它帮助教育者识别学生所处的[[Epistemology\|认识论]]发展位置，尤其是学习者是否已超越了[[Subjectivism\|主观主义]]（认为所有观点等价），进入了能够在情境中主动建构和评估知识的成熟阶段。
 > - **边界** 它描述的是个体对知识本质的[[Epistemological Beliefs\|认识论信念]]，而不是一般意义上的智力水平、认知风格，也不是[[Constructivist Paradigm\|建构主义]][[Didaktik\|教学理论]]中笼统描述的"学生自主建构知识"过程。
 
 > [!boundary]- 概念边界
@@ -103,7 +101,7 @@ updated: 2026-09-22
 
 ### 命题二　发展论模型的阶段假设受到颗粒度与文化偏见的双重挑战
 
-> [!concept-lens] 发展路径的线性[[Hypothesis\|假设]]及其局限
+> [!concept-lens] 发展路径的线性假设及其局限
 > 将认识论认知理解为线性发展阶段（包括以建构知识为终点）受到了来自微观资源库理论与文化批评的根本性挑战。
 
 > [!claim] Hofer, B.

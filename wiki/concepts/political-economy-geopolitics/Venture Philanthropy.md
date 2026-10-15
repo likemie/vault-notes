@@ -23,7 +23,6 @@ related_concepts:
   - "[[Philanthrocapitalism]]"
   - "[[Discourse]]"
   - "[[Policy Network]]"
-  - "[[Assemblage]]"
   - "[[Epistemology]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Educational Brokerage Agency]]"
@@ -34,6 +33,7 @@ related_concepts:
   - "[[Deductible Gift Recipient]]"
   - "[[Initial Teacher Training]]"
   - "[[Paradigm]]"
+  - "[[Assemblage]]"
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
@@ -95,7 +95,7 @@ updated: 2026-10-15
 > | **治理关系** | 深度嵌入受助方董事会，掌控战略与运营决策 | 外部资助者角色，尊重受助机构自主运营 | 派遣董事，行使股东投票权与重大事务否决权 |
 > | **评估标准** | 社会[[Return on Investment\|投资回报]]率（SROI）、标准化因果[[Effect Size\|效应量]]与里程碑考核 | 财务报销合规性、活动产出与受助人数统计 | 财务回报率（IRR）、企业净利润与估值倍数 |
 > | **[[Discourse\|话语]]语系** | 证据经纪（brokerage）、买入（buy in）、杠杆撬动、孵化 | 捐助、仁爱、利他、扶危济困 | 资本利得、尽职调查、股权稀释、上市退出 |
-> | **制度定位** | 公私伙伴关系、影子[[Policy Network\|政策网络]]与中介实体[[Assemblage\|装配]]枢纽 | 宗教或人道主义第三部门补充力量 | 纯私营市场化金融中介机构 |
+> | **制度定位** | 公私伙伴关系、影子[[Policy Network\|政策网络]]与中介实体装配枢纽 | 宗教或人道主义第三部门补充力量 | 纯私营市场化金融中介机构 |
 
 ---
 
@@ -104,7 +104,7 @@ updated: 2026-10-15
 > [!feature] 核心要素
 > - **金融化投资语系与契约纪律** 风险慈善将风投行话（如证据经纪、买入、对赌协议、杠杆融资）全面植入公共政策议程，将受资助的学校、教师与非营利机构视作“被投项目”（portfolio investees），实施严密的过程审计与绩效追踪（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3–4]]）。
 > - **非财务赋能与组织深度控制** 资助方不仅提供资金，更联合麦肯锡等战略咨询寡头向受助机构输出免费或收费的管理咨询、IT 系统与治理模板，直接派遣高管兼任受助方董事，重构其内部决策生态（[[Argument_ONeill_2016_Report\|O'Neill et al., 2016, p. xiii]]; [[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 6]]）。
-> - **跨国资本流动与影子网络[[Assemblage\|装配]]** 风险慈善机构充当连接全球金融财团（如高盛、美洲银行、摩根大通）、跨国矿业基金会（如[[BHP Foundation\|必和必拓基金会]]）与国家行政机器的隐形枢纽，通过跨国定向注资构建[[Epistemology\|认识论]]高度同质的全球政策生态（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 6–8]]）。
+> - **跨国资本流动与影子网络装配** 风险慈善机构充当连接全球金融财团（如高盛、美洲银行、摩根大通）、跨国矿业基金会（如[[BHP Foundation\|必和必拓基金会]]）与国家行政机器的隐形枢纽，通过跨国定向注资构建[[Epistemology\|认识论]]高度同质的全球政策生态（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 6–8]]）。
 > - **企业法律底座与税收庇护机制** 机构普遍注册为担保有限公司或留本慈善信托，在享有大额公共财政配套补贴的同时充当企业税收庇护所（tax shelter），并在初创期享受法定审计保密豁免（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 5, 11]]）。
 > - **异层再分配与资本净截留（Heterarchical Redistribution & Capital Retention）** 风险慈善中介吸纳的政府直接财政补贴与全额税收抵免，远高于其实际向基层学校发放的赠款总额，导致公共财富逆向流向企业化咨询中介与私营机构（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 527]]）。
 > - **项目化资助与公立学校商业[[Disciplina and Doctrina\|规训]]（Project-based Grants & Commercial Disciplining）** 迫使弱势公立学校脱离法定均等化财政保障，转而竞标微额商业赠款并接受企业中介制定的因果量规考核，使公共教育的专业自主权从属于商业绩效逻辑（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 528]]）。
@@ -139,7 +139,7 @@ updated: 2026-10-15
 
 ### 命题二　跨国政策网络通过无生命客体装配实现风险慈善的法定特权与制度合法化
 
-> [!concept-lens] 制度[[Assemblage\|装配]]与[[Policy Network\|政策网络]]穿透
+> [!concept-lens] 制度装配与[[Policy Network\|政策网络]]穿透
 > 探讨风险慈善如何借助法律条款、中介样板与咨询契约等物质性材料，将自身嵌入国家科研治理的法定肌理。
 
 > [!claim] Rowe, E.
@@ -203,7 +203,7 @@ updated: 2026-10-15
 >
 > > [!axis] 科学中立技术治理 vs 民主问责的制度性解体
 > > - **机构辩护** 宣称其资助的[[Educational Brokerage Agency\|证据中介机构]]（如 [[Evidence for Learning\|E4L]]、[[Australian Education Research Organisation\|AERO]]）完全超脱政治纷争，依托统一量规与因果实证，旨在实现将政治移出课堂。
-> > - **批判立场** 揭露所谓中立表象实为无生命客体[[Assemblage\|装配]]的修辞；其决策核心被前商业银行家与风险慈善理事深度把持，通过法律特许分包架空大学同行评议与议会审议，构成隐蔽的寡头政治网络（[[Argument_Rowe_2022_IJER\|Rowe, 2022]]）。
+> > - **批判立场** 揭露所谓中立表象实为无生命客体装配的修辞；其决策核心被前商业银行家与风险慈善理事深度把持，通过法律特许分包架空大学同行评议与议会审议，构成隐蔽的寡头政治网络（[[Argument_Rowe_2022_IJER\|Rowe, 2022]]）。
 
 ---
 

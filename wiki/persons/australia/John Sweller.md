@@ -6,7 +6,7 @@ summary: "澳大利亚认知与教育心理学家，新南威尔士大学名誉�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 33
+person_related_count: 32
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Inquiry-Based Learning]]"
   - "[[Problem Solving]]"
   - "[[Initial Teacher Training]]"
-  - "[[Document]]"
   - "[[Evidence Standards]]"
   - "[[Policy Network]]"
   - "[[Surface and Deep Learning]]"
@@ -60,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-16
-updated: 2026-10-06
+updated: 2026-10-15
 ---
 
 # John Sweller
@@ -91,7 +90,7 @@ updated: 2026-10-06
 > - **2011** 结合 David C. Geary 的进化心理学观点，出版专著《认知负荷理论》，系统提出生物初级与生物次级知识区分，为其支持[[Direct Instruction\|直接教学]]、反对自然主义自主探究奠定进化理论基础。
 > - **2021** 受澳大利亚保守派智库独立研究中心（[[Centre for Independent Studies]], CIS）资助发表政策分析报告《为什么探究式学习有害学生学习》（*Why inquiry-based approaches harm students' learning*），为主张回归显性直接教学提供政策弹药。
 > - **2022** 与张莉（Li Zhang）、Paul A. Kirschner 及 William W. Cobern 联合发表论文《科学教育政策中的实证危机》（*There is an Evidence Crisis in Science Educational Policy*），公开斥责各国课程标准倡导科学探究是无视关键实证事实，直接引发由 [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] 牵头的全球学习科学学者集体反驳。
-> - **2023** 其学术专著与 CIS 出版物被澳大利亚联邦政府专家报告《强劲开端》（[[Strong Beginnings Report]]）列为全国[[Initial Teacher Training\|初始教师教育]]（Initial Teacher Education, ITE）“大脑与学习”核心必修[[Document\|文献]]。
+> - **2023** 其学术专著与 CIS 出版物被澳大利亚联邦政府专家报告《强劲开端》（[[Strong Beginnings Report]]）列为全国[[Initial Teacher Training\|初始教师教育]]（Initial Teacher Education, ITE）“大脑与学习”核心必修文献。
 
 ---
 
@@ -106,7 +105,7 @@ updated: 2026-10-06
 >   - **代表著作** *Why minimal guidance during instruction does not work: An analysis of the failure of constructivist, discovery, problem-based, experiential, and inquiry-based teaching* (2006); *Cognitive Load Theory* (2011, 与 P. Ayres & S. Kalyuga 合著).
 >   - **关键概念／方法** 生物初级与次级知识、极简指导批判、[[Direct Instruction\|显性直接教学]]、专长逆转效应（Expertise Reversal Effect）。
 >   - **阶段转向** 走出认知实验室，正面参与教学哲学与课程[[Paradigm\|范式]]的宏观争论。
-> - **2020 年代至今 — 教育政策介入与循证科学教学论战阶段** 将理论武器直接投放于国家教育政策与教师认证体系，联合保守智库批判科学教育中的[[Inquiry-Based Learning\|探究式学习]]，引发全球学习科学界对其[[Document\|文献]]选择、[[Meta-analysis\|元分析]]解读与[[Evidence Standards\|证据标准]]的深度质疑。
+> - **2020 年代至今 — 教育政策介入与循证科学教学论战阶段** 将理论武器直接投放于国家教育政策与教师认证体系，联合保守智库批判科学教育中的[[Inquiry-Based Learning\|探究式学习]]，引发全球学习科学界对其文献选择、[[Meta-analysis\|元分析]]解读与[[Evidence Standards\|证据标准]]的深度质疑。
 >   - **代表著作** *Why inquiry-based approaches harm students' learning* (2021); *There is an evidence crisis in science educational policy* (2022).
 >   - **关键概念／方法** 科学教育政策实证危机、反探究政策游说、智库理念动员、[[Initial Teacher Training\|初始教师教育]]标准嵌入。
 >   - **阶段转向** 理论被[[Policy Network\|政策网络]]深度吸纳，成为国家强制性教学标准化的核心理论支柱。
@@ -158,7 +157,7 @@ updated: 2026-10-06
 > [!person-network] 关系网络
 > - **学术合作者** Paul A. Kirschner — 长期核心学术盟友，共同发表 2006 年极简指导批判及 2022 年科学教育政策危机论；Richard E. Clark — 共同合著 2006 年论文；Jeroen J. G. van Merriënboer 与 Fred Paas — 1990 年代共同奠定现代三维[[Cognitive Load Theory\|认知负荷理论]]模型；张莉（Li Zhang）— 合作撰写 2022 年反探究政策论文。
 > - **论敌与批评者** [[Ton de Jong]]、[[Cindy E. Hmelo-Silver]]、[[Clark A. Chinn]] — 学习科学阵营学者，于 2007 年与 2023 年两度对 Sweller 阵营发起系统反击，证明[[Inquiry-Based Learning\|指导式探究]]具有更优的概念建构与迁移成效；Anthony Skourdoumbis — 批判其理论沦为保守派智库[[Disciplina and Doctrina\|规训]]教师教育的工具；[[Deanna Kuhn]] — 通过[[Control of Variables Strategy\|变量控制策略]]长期实验反驳其关于[[Direct Instruction\|直接教学]]具有持久优势的主张。
-> - **机构与政策项目** 新南威尔士大学（UNSW）— 长期任职机构与荣休学术基地；[[Centre for Independent Studies]] — 合作保守智库，资助并出版其政策批判报告；[[Education Endowment Foundation]] — 推广机构，将其理论工具列入全球教学工具箱；[[Strong Beginnings Report]] — 澳大利亚联邦政策报告，将其著作列为全国[[Initial Teacher Training\|初始教师教育]]法定必修[[Document\|文献]]。
+> - **机构与政策项目** 新南威尔士大学（UNSW）— 长期任职机构与荣休学术基地；[[Centre for Independent Studies]] — 合作保守智库，资助并出版其政策批判报告；[[Education Endowment Foundation]] — 推广机构，将其理论工具列入全球教学工具箱；[[Strong Beginnings Report]] — 澳大利亚联邦政策报告，将其著作列为全国[[Initial Teacher Training\|初始教师教育]]法定必修文献。
 
 ---
 
@@ -179,7 +178,7 @@ updated: 2026-10-06
 > > - **批判政策社会学立场（Skourdoumbis & Rowe）** 批评其理论将生动的社会化学习约化为机械的心理测量数据，其非同行评审的智库报告被[[Policy Network\|政策网络]]强制推销为法定必修，侵蚀了专业教师的审慎自主权。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024, pp. 8–11)]]
 
 > [!critique]- 批评索引
-> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 批评其 2022 年论文存在严重的[[Document\|文献]]选择性引证偏误，曲解了[[Control of Variables Strategy\|变量控制策略]]实验与元分析结论，并指出单一直接教学在长期记忆保持上的严重衰减。
+> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 批评其 2022 年论文存在严重的文献选择性引证偏误，曲解了[[Control of Variables Strategy\|变量控制策略]]实验与元分析结论，并指出单一直接教学在长期记忆保持上的严重衰减。
 > - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe (2024)]] — 批评其受保守派智库资助的论著被政治化动员为强制推行脚本化教学、剥夺大学教师教育自主权的[[Disciplina and Doctrina\|规训]]工具。
 
 > [!warning] 未解问题与边界
@@ -196,5 +195,5 @@ updated: 2026-10-06
 > | [[Direct Instruction]] | 概念 | 从有限[[Working Memory\|工作记忆]]理论出发，为显性直接教学的合理性与不可替代性提供微观认知解释。 |
 > | [[Inquiry-Based Learning]] | 概念 | 发起持续批评，将极简指导探究界定为引发认知超载的低效教学，促使学习科学界明确界定“辅以支架的指导式探究”。 |
 > | [[Cognitive Load Theory]] | 理论 | 开创者与核心奠基人，系统建构内在、外在与关联负荷模型及样例效应等一系列微观教学原理。 |
-> | [[Strong Beginnings Report]] | 政策 | 其论著被该报告列为澳大利亚[[Initial Teacher Training\|初始教师教育]]核心[[Document\|文献]]，深度重塑了职前教师资格认证国家标准。 |
+> | [[Strong Beginnings Report]] | 政策 | 其论著被该报告列为澳大利亚[[Initial Teacher Training\|初始教师教育]]核心文献，深度重塑了职前教师资格认证国家标准。 |
 > | [[Centre for Independent Studies]] | 智库 | 担任学者并出版政策分析报告，成为澳大利亚保守派智库倡导重返传统讲授的核心[[Source of Knowledge\|知识来源]]。 |

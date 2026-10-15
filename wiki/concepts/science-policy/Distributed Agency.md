@@ -2,7 +2,7 @@
 summary: "源自科学技术论与演化制度主义的核心概念，指重大技术创新与社会系统转型的能动性并非集中于单一英雄式企业家或全能中央政府，而是分散分布于多元异质的行动者网络之中；在第三代使命导向政策中构成了多元主体协同共创与分布式探索的理论基石。"
 type: concept
 domain: "science-policy"
-related_count: 26
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Grand Challenges]]"
   - "[[Problem Finding]]"
   - "[[Discourse]]"
-  - "[[Hypothesis]]"
   - "[[Paradigm]]"
   - "[[Innovation Ecosystem]]"
   - "[[Reflexivity]]"
@@ -47,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-10
+updated: 2026-10-15
 title: Distributed Agency
 aliases:
   - 分布式主体
@@ -87,7 +86,7 @@ aliases:
 >
 > | 比较维度 | 英雄式单一主体观（Single Agency） | 分布式主体观（Distributed Agency） |
 > |:---|:---|:---|
-> | **主导主体[[Hypothesis\|假设]]** | 孤立的天才发明家、冒险企业家或全能中央部委。 | 涵盖公、私、学术界与公民社会的异质行动者网络。 |
+> | **主导主体假设** | 孤立的天才发明家、冒险企业家或全能中央部委。 | 涵盖公、私、学术界与公民社会的异质行动者网络。 |
 > | **知识与能力分布** | 假设关键知识集中于组织金字塔顶端或中央实验室。 | 承认前沿实践知识分散在产业一线与终端用户体验中。 |
 > | **政策协调[[Paradigm\|范式]]** | 自上而下的科层命令、指标分解与严格垂直管控。 | 网络统筹（Orchestration）、平台共创与分布式敏捷实验。 |
 > | **代表使命模式** | 第二代狮子形态（如[[Manhattan Project\|曼哈顿工程]]、阿波罗登月计划）。 | 第三代儿童形态（如德国能源转型、[[Horizon Europe Missions\|地平线欧洲使命]]）。 |

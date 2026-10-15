@@ -9,7 +9,7 @@ aliases:
 summary: "起源于日本的校本协同教研范式，通过集体备课、授课观课、基于学童证据的研讨与教学微调循环提升教学质量；在证据知情体系中被确立为融通内部实践探究与外部研究使用、支撑专业学习共同体落地的联合实践发展（JPD）核心载体，同时其有效性高度依赖制度化课时保障与高位专业引领。"
 type: concept
 domain: "teacher-education"
-related_count: 39
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -28,9 +28,7 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Operationalization]]"
   - "[[International Education]]"
-  - "[[Hypothesis]]"
   - "[[Homework]]"
-  - "[[Document]]"
   - "[[Further Education]]"
   - "[[Co-Design]]"
   - "[[Activity Traps]]"
@@ -67,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Lesson Study
@@ -104,8 +102,8 @@ updated: 2026-10-10
 > | 维度 | 课例研究（Lesson Study / [[Joint Practice Development\|JPD]]） | 传统公开课听评 | 教师个人行动研究 | 外部专家处方培训 |
 > |---|---|---|---|---|
 > | **核心焦点** | 个案学童思维反应与微观概念理解断点 | 执教教师的教态、板书与教学环节完整性 | 教师个人的微观教学困惑与感性经验 | 外部理论框架与普适性教学技术讲授 |
-> | **教案性质** | 团队集体研制与共同所有的[[Hypothesis\|假设]]方案 | 执教者个人劳动成果与表演脚本 | 个人撰写并由个人执行的行动方案 | 专家提供的标准化教学包或活动设计 |
-> | **证据角色** | 课堂现场个案学童表现 ＋ 外部循证策略 | 听课者的主观印象与经验性评语 | 教师个人教学反思日记与[[Homework\|作业]]表现 | 外部[[Document\|文献]]宣讲，缺乏课堂二次检验 |
+> | **教案性质** | 团队集体研制与共同所有的假设方案 | 执教者个人劳动成果与表演脚本 | 个人撰写并由个人执行的行动方案 | 专家提供的标准化教学包或活动设计 |
+> | **证据角色** | 课堂现场个案学童表现 ＋ 外部循证策略 | 听课者的主观印象与经验性评语 | 教师个人教学反思日记与[[Homework\|作业]]表现 | 外部文献宣讲，缺乏课堂二次检验 |
 > | **评价功能** | 发现教学与学习之间的因果差距以改进教案 | 对执教教师业务水平的科层考核与打分 | 个人实践改善与经验积累 | 教师专业[[Further Education\|继续教育]]学时合规核查 |
 > | **运作机制** | [[Co-Design\|协同设计]]—试验—微调迭代闭环（JPD） | 单次展示—课后点评—活动终结 | 个人计划—行动—反思单兵闭环 | 集中讲授—各自回校自行摸索尝试 |
 
@@ -121,8 +119,8 @@ updated: 2026-10-10
 > - **第五阶段：教学法提炼与成果沉淀（Consolidating Learning & Revision）** 总结关于该主题微观学科教学知识（PCK）的普适性结论，修改教案并在新班级再教，或形成公共校本课例知识资产。
 
 > [!factors] 课例研究作为高质量 [[Joint Practice Development\|JPD]] 载体的三大核心机制（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018]]; Sebba et al., 2012）
-> - **内外证据深度融通（Bridging [[Practitioner Enquiry\|practitioner inquiry]] and External Research）** 打破“教师只做微观摸索”或“机械照搬外部[[Document\|文献]]”的人为割裂；课例研究将外部经检验的高质量证据作为教案设计的科学支撑，并通过课堂真实互动检验外部证据在本土情境下的有效性，实现“从事探究”（inquiry）与“使用证据”（evidence use）的紧密交融。
-> - **协同测试与微调[[Operationalization\|操作化]]系统（Testing, Implementing, and Refining）** 充当 [[Professional Learning Community\|PLC]] 的实质性落地规程；使教师团队避免停留在会议室的高谈阔论，而是通过真实的课堂现场共同检验[[Hypothesis\|假设]]、试验新法、微调策略，形成因果严密的实践检验闭环。
+> - **内外证据深度融通（Bridging [[Practitioner Enquiry\|practitioner inquiry]] and External Research）** 打破“教师只做微观摸索”或“机械照搬外部文献”的人为割裂；课例研究将外部经检验的高质量证据作为教案设计的科学支撑，并通过课堂真实互动检验外部证据在本土情境下的有效性，实现“从事探究”（inquiry）与“使用证据”（evidence use）的紧密交融。
+> - **协同测试与微调[[Operationalization\|操作化]]系统（Testing, Implementing, and Refining）** 充当 [[Professional Learning Community\|PLC]] 的实质性落地规程；使教师团队避免停留在会议室的高谈阔论，而是通过真实的课堂现场共同检验假设、试验新法、微调策略，形成因果严密的实践检验闭环。
 > - **去私有化与互惠专业信任（Relational Trust & De-privatizing Practice）** 以共同研制的教案为客体，解除了对执教者个人的评价压力；依托“值得信赖的同行”（trusted peers）之间的平等切磋，将封闭孤立的私人课堂转化为共享的专业探究基地。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 122, 125)]]
 
 ---
@@ -137,7 +135,7 @@ updated: 2026-10-10
 > 课例研究将教学反思从“教师主观感觉”锚定在“学生客观学习证据”之上。
 
 > [!claim] 课例实证研讨的机制优势
-> 课例研究之所以在东亚被证实能持续提升教学质量，关键在于其将教研焦点从“抽象理念清谈”下沉为“微观课堂行为观察”，并以个案学童的真实反应作为检验教学[[Hypothesis\|假设]]的试金石。这种基于证据的对话打破了教师各自为政的课堂孤岛，使隐性经验转化为公共知识。
+> 课例研究之所以在东亚被证实能持续提升教学质量，关键在于其将教研焦点从“抽象理念清谈”下沉为“微观课堂行为观察”，并以个案学童的真实反应作为检验教学假设的试金石。这种基于证据的对话打破了教师各自为政的课堂孤岛，使隐性经验转化为公共知识。
 
 ---
 

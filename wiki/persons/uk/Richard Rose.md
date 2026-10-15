@@ -8,7 +8,7 @@ summary: "英国比较政治学家（1933–2019），斯特拉斯克莱德大�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 14
+person_related_count: 13
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -23,7 +23,6 @@ tags:
   - theme/lesson-drawing
 related_concepts:
   - "[[Policy Borrowing]]"
-  - "[[Document]]"
   - "[[Going Native]]"
   - "[[Criterion-Referenced Test]]"
   - "[[Unit of Analysis]]"
@@ -45,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Richard Rose
@@ -73,7 +72,7 @@ updated: 2026-10-14
 > - **1958** 获英国牛津大学（Lincoln College）政治学博士学位，随后留英从事学术，逐渐成为英国比较政治学研究的领军人物。
 > - **1966–2005** 在英国格拉斯哥斯特拉斯克莱德大学担任政治学教授，建立并长期主持跨国选举与政府比较研究项目（CSPP，Centre for the Study of Public Policy）。
 > - **1976–1979** 担任英国政治研究学会（Political Studies Association）主席，推动比较方法论在英国政治学界的制度化。
-> - **1993** 出版《从别处汲取经验：政策转移指南》（*Lesson-Drawing in Public Policy: A Guide to Learning from Abroad*），系统奠定政策经验汲取理论的[[Analytic Framework\|分析框架]]，成为比较政策与教育[[Policy Borrowing\|政策借用]]研究的必读奠基[[Document\|文献]]。
+> - **1993** 出版《从别处汲取经验：政策转移指南》（*Lesson-Drawing in Public Policy: A Guide to Learning from Abroad*），系统奠定政策经验汲取理论的[[Analytic Framework\|分析框架]]，成为比较政策与教育[[Policy Borrowing\|政策借用]]研究的必读奠基文献。
 > - **2005** 转任荣休教授，持续发表关于选举政治与政策比较的著述。
 > - **2019** 在英国辞世，享年 86 岁。
 

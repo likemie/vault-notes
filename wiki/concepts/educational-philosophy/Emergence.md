@@ -12,10 +12,10 @@ alias_reviewed:
 summary: "系统低阶组成部分遵循简单局部规则相互作用时自发产生高阶全局秩序与新结构的非线性动力学过程；整体大于部分之和且无法向下机械还原，广泛存在于生态系统、社会组织、质性探究设计及万亿参数大模型认知智能演化之中。"
 type: concept
 domain: "educational-philosophy"
-related_count: 50
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_count: 46
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - theme/complexity-theory
   - theme/systems-thinking
@@ -32,18 +32,15 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[Variable]]"
   - "[[Determinism]]"
-  - "[[Assemblage]]"
   - "[[Heterogeneity]]"
   - "[[Discourse]]"
   - "[[Unit of Analysis]]"
   - "[[Positivism]]"
   - "[[Paradigm]]"
-  - "[[Hypothesis]]"
   - "[[Causality]]"
   - "[[Independent Variable]]"
   - "[[Creativity]]"
   - "[[General Purpose Technology]]"
-  - "[[Document]]"
   - "[[Emergent Design]]"
   - "[[Stochastic Parrot]]"
   - "[[Rich and Thick Description]]"
@@ -55,7 +52,6 @@ related_theories:
 related_methods:
   - "[[Qualitative Research]]"
   - "[[Grounded Theory]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Agent-based Modelling]]"
   - "[[Progressive Focussing]]"
   - "[[Randomised Controlled Trials]]"
@@ -82,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Emergence
@@ -125,9 +121,9 @@ updated: 2026-10-07
 > | 维度 | 涌现（Emergence） | 机械还原（Reductionism） | 集中控制（Centralized Control） |
 > |:---|:---|:---|:---|
 > | **分析对象** | 开放、非平衡的[[Complexity Theory\|复杂适应系统]]与大模型隐空间 | 孤立、封闭的线性物理或机械系统 | 层级官僚体系与自顶向下规则系统 |
-> | **核心机制** | 遵循简单局部规则（如梯度下降、邻域对齐）的非线性互动与自组织演化 | 将高阶整体逐层分解为低阶离散[[Variable\|变量]]与原子化零件 | 依据先验预设目标自上而下发布硬性[[Coding in Qualitative Research\|编码]]指令与机械调控 |
+> | **核心机制** | 遵循简单局部规则（如梯度下降、邻域对齐）的非线性互动与自组织演化 | 将高阶整体逐层分解为低阶离散[[Variable\|变量]]与原子化零件 | 依据先验预设目标自上而下发布硬性编码指令与机械调控 |
 > | **因果逻辑** | 环形反馈网络、多向因果与相变临界性（高维空间相变） | [[Determinism\|决定论]]式的单向线性因果链（X 导致 Y） | 目的论式的工具理性手段-目标匹配 |
-> | **秩序来源** | 内部微观互动内生自发生成（“秩序是免费的 / 智能是涌现的”） | 孤立部件机械[[Assemblage\|装配]]后的被动求和 | 外部中心权威自上而下强加与约束 |
+> | **秩序来源** | 内部微观互动内生自发生成（“秩序是免费的 / 智能是涌现的”） | 孤立部件机械装配后的被动求和 | 外部中心权威自上而下强加与约束 |
 
 ---
 
@@ -195,7 +191,7 @@ updated: 2026-10-07
 > 论证自然主义[[Qualitative Research|质性研究]]如何将涌现原理内化为探究的本体论承诺，规范理论从实地数据中生发以及研究设计随现场深入而动态迭代。
 
 > [!claim] Lincoln & Guba (1985) & Parlett (1976)
-> **双重涌现公理重塑质性探究形态** 在自然主义[[Paradigm|范式]]中，涌现表现为理论的涌现（实地情境中动态涌现的[[Grounded Theory|扎根理论]]取代先验[[Hypothesis|假设]]）与设计的涌现（研究设计随着现场沉浸与抽样重构而持续演变）；探究者通过[[Progressive Focussing|逐步聚焦]]（Progressive Focussing）使认知过程契合现实世界的自组织属性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 404–405, 435)]]
+> **双重涌现公理重塑质性探究形态** 在自然主义[[Paradigm|范式]]中，涌现表现为理论的涌现（实地情境中动态涌现的[[Grounded Theory|扎根理论]]取代先验假设）与设计的涌现（研究设计随着现场沉浸与抽样重构而持续演变）；探究者通过[[Progressive Focussing|逐步聚焦]]（Progressive Focussing）使认知过程契合现实世界的自组织属性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, pp. 404–405, 435)]]
 
 ---
 
@@ -222,7 +218,7 @@ updated: 2026-10-07
 ### 命题总览
 
 > [!contrast-table] 围绕涌现展开的五大核心命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者与[[Document\|文献]] |
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |:---|:---|:---|:---|
 > | **自组织微观生成命题** | 复杂全局秩序由底层行动者遵循的简单局部规则微观互动自发派生 | 复杂适应系统、学校[[Organizational Culture\|组织文化]]、计算仿真 | Waldrop; Lewin; Kauffman; Reynolds |
 > | **整体不可还原命题** | 涌现的高阶整体具有全新属性与不可逆质变，不可向下分解还原 | 系统哲学、教育生态系统、宏观制度演变 | Davis & Sumara; Bar-Yam; Goodwin |
@@ -273,7 +269,7 @@ updated: 2026-10-07
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |:---|:---|:---|:---|:---|:---|:---|
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Reynolds (1987) via Cohen et al. (2011)]] | 计算机拟合空间中的多主体鸟群群落 | 基于主体建模（[[Agent-based Modelling\|ABM]]）仿真实验 | 最小距离、速度匹配度、中心凝聚力三项局部规则参数 | 三条简单规则自发稳定涌现宏观集群飞行模式，碰撞率为 0 | 确定性算法下的非线性稳态 | 模拟虚拟空间中的生成秩序，推广至人类真实社会时需考虑反身能动性 |
-> | [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] | 2010–2020 年五本顶级教育心理学期刊（JEP, CE, AERJ 等）论文 | 历时性[[Document\|文献]]计量与方法学[[Coding in Qualitative Research\|编码]] | [[Qualitative Research\|质性研究]]占比与[[Recommendations for Practice\|实践建议]]（RFP）分布 | 质性研究占比由 2010 年的 9% 显著攀升至 2020 年的 22% | $p < .05$ | 验证了质性探究中涌现取向在主流心理学阵地中的合法性扩张 |
+> | [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] | 2010–2020 年五本顶级教育心理学期刊（JEP, CE, AERJ 等）论文 | 历时性文献计量与方法学编码 | [[Qualitative Research\|质性研究]]占比与[[Recommendations for Practice\|实践建议]]（RFP）分布 | 质性研究占比由 2010 年的 9% 显著攀升至 2020 年的 22% | $p < .05$ | 验证了质性探究中涌现取向在主流心理学阵地中的合法性扩张 |
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02\|Bubeck et al. (2023) via Karp & Zamiska (2025)]] | [[General Purpose Technology\|GPT]]-4 大语言模型高维隐空间推理测试 | 跨模态常识力学与几何代码生成实证实验 | 9 鸡蛋/电脑/瓶子/钉子立体堆叠测试、独角兽代码绘制测试 | 模型成功给出 3×3 平铺减震力学方案，代码绘图随版本演进呈现幼儿心智成熟轨迹 | 定性能力质变突破（[[Artificial General Intelligence\|Sparks of AGI]]） | 揭示超大参数规模下计算智能对人类传统心智领地的自组织涌现渗透 |
 
 ---

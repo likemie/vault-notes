@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 22
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Normal School]]"
   - "[[Development Education]]"
   - "[[Paradigm]]"
-  - "[[Assemblage]]"
   - "[[Critical Thinking Disposition]]"
   - "[[Credential Inflation]]"
   - "[[21st Century Skills and Competencies Discourse]]"
@@ -35,7 +34,6 @@ related_concepts:
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Manpower Requirements Approach]]"
 related_instruments: []
 related_persons:
@@ -55,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-01
+updated: 2026-10-15
 ---
 
 # Mediterranean Regional Project
@@ -121,7 +119,7 @@ updated: 2026-10-01
 
 > [!indicators]- 评估指标体系
 > - **投入指标** 教育支出占国民生产总值（GNP）比重（普遍要求提升至 4%–5%）、公立学校基础设施基建投资额。
-> - **过程与依从性指标** 职业分类[[Coding in Qualitative Research\|编码]]与 ISCED 标准衔接完整率、各学段招生配额执行达标率。
+> - **过程与依从性指标** 职业分类编码与 ISCED 标准衔接完整率、各学段招生配额执行达标率。
 > - **产出与结果指标** 中等教育普及率跃升、工程与技术类高等教育毕业生占比、劳动力文盲率降幅。
 
 > [!finding-cards] 核心实证结论
@@ -147,7 +145,7 @@ updated: 2026-10-01
 > > [!axis] 育人目的争鸣：国家经济机器配件 vs 公民自由觉醒
 > > 欧陆人文学者与社会民主主义批评家对 MRP 的功利主义取向提出尖锐道德质疑。
 > >
-> > - **批判教育史学界** 抨击 MRP 将学校彻底重构为西方工业资本[[Assemblage\|装配]]线的前置加工车间，以冷酷的劳动力配额剥夺了学生的自由个性与[[Critical Thinking Disposition\|批判精神]]。
+> > - **批判教育史学界** 抨击 MRP 将学校彻底重构为西方工业资本装配线的前置加工车间，以冷酷的劳动力配额剥夺了学生的自由个性与[[Critical Thinking Disposition\|批判精神]]。
 > > - **现代化规划学派** 认为只有快速摆脱文盲与半封建经济依附，广大下层劳工子弟才能真正获得现代市民社会的生存尊严与阶层流动机会。
 
 > [!lessons] 经验教训与启示

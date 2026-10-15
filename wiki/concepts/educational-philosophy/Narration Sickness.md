@@ -6,7 +6,7 @@ aliases:
 summary: "保罗·弗莱雷在《被压迫者教育学》中提出的批判性概念，指传统储蓄式教育中教师单向宣讲脱离学生切身现实的抽象词汇，导致教育退化为无意义词语灌输与记忆机械复制的教学生态病态现象。"
 type: concept
 domain: "educational-philosophy"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Empty Knower]]"
 related_theories: []
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -37,7 +36,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-02
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Narration Sickness（叙事病）
@@ -71,7 +70,7 @@ updated: 2026-10-07
 > | 维度 | 叙事病（Narration Sickness） | [[Problem-Posing Education\|提问式教育（Problem-Posing）]] |
 > |------|-----------------------------------|--------------------------------------|
 > | **分析对象** | 单向宣讲与词汇异化的教学生态 | 横向合作与问题探究的教学过程 |
-> | **核心机制** | 脱离现实的词汇灌输与机械复述 | 生存矛盾[[Coding in Qualitative Research\|编码]]、[[Generative Themes\|生成性主题]]与[[Decodification\|解码]] |
+> | **核心机制** | 脱离现实的词汇灌输与机械复述 | 生存矛盾编码、[[Generative Themes\|生成性主题]]与[[Decodification\|解码]] |
 > | **受教者状态** | “[[Empty Knower\|空白知者]]”与适应压迫的客体 | 重新解读与重塑现实的能动“主体” |
 
 ---

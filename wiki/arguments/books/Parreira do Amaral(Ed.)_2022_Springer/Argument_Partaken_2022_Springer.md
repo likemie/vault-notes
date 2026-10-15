@@ -9,7 +9,7 @@ title: "Argument_Partaken_2022_Springer"
 argument_key: "Argument_Partaken_2022_Springer"
 argument_display_title: "Two faces of geopolitics of knowledge"
 argument_kind: "book"
-argument_related_count: 48
+argument_related_count: 46
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#ede9fe"
@@ -25,13 +25,11 @@ related_concepts:
   - "[[Geopolitics of Knowledge]]"
   - "[[Knowledge Production]]"
   - "[[Knowledge Transfer]]"
-  - "[[Document]]"
   - "[[Narrative Knowledge]]"
   - "[[Forced Knowledge Transfer]]"
   - "[[Typification]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Discourse]]"
-  - "[[Hypothesis]]"
   - "[[Fourth Industrial Revolution]]"
   - "[[Incommensurability]]"
   - "[[Commensuration]]"
@@ -98,7 +96,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract]
-> 论文以两个分析步骤组织论证：[[Knowledge Production\|知识生产]]与[[Knowledge Transfer\|知识转移]]。第一部分依托后殖民研究[[Document\|文献]]（Fanon、[[Chen Kuan-Hsing]]、Mignolo、Tharoor），梳理知识生产作为殖民工具的分析传统；第二部分提出知识转移的六种模态（强制转移、间谍、监视、审查、破坏、交换），以中美地缘政治紧张为核心案例。理论资源包括：
+> 论文以两个分析步骤组织论证：[[Knowledge Production\|知识生产]]与[[Knowledge Transfer\|知识转移]]。第一部分依托后殖民研究文献（Fanon、[[Chen Kuan-Hsing]]、Mignolo、Tharoor），梳理知识生产作为殖民工具的分析传统；第二部分提出知识转移的六种模态（强制转移、间谍、监视、审查、破坏、交换），以中美地缘政治紧张为核心案例。理论资源包括：
 > - [[Decolonial Geopolitics of Knowledge]] — 后殖民研究的 [[Geopolitics of Knowledge\|GPK]] 分析传统，Partaken 批评其过度关注知识生产而忽视知识转移
 > - Lyotard [[Narrative Knowledge\|叙事知识]]／科学知识区分 — 作为分析叙事知识衰退的理论工具
 > - Foucault 的全景敞视主义 — 分析监视如何通过"永久可见性"自动运行权力
@@ -111,7 +109,7 @@ citation_aliases:
 > [!info]
 > 属于理论讨论与概念分析文章。方法包括：
 > - 方法：Google Books Ngram Viewer 词频分析，追踪"geopolitics""[[Geopolitics of Knowledge]]"等术语的历史使用频率
-> - 数据来源：后殖民研究[[Document\|文献]]、美国国会报告（[[US-China Economic and Security Review Commission\|USCC]]）、FBI 调查数据、专利统计、网络攻击统计数据
+> - 数据来源：后殖民研究文献、美国国会报告（[[US-China Economic and Security Review Commission\|USCC]]）、FBI 调查数据、专利统计、网络攻击统计数据
 > - 分析逻辑：概念区分（[[Knowledge Production\|知识生产]] vs [[Knowledge Transfer\|知识转移]]）+ 类型学建构（六种知识转移模态）+ 案例说明（中美紧张关系）
 
 
@@ -130,7 +128,7 @@ citation_aliases:
 
 **观察 3** 从词频数据看，"[[Geopolitics of Knowledge]]"[[Discourse|话语]]在 1990 年代出现，2000 年代和 2010 年代迅速强化。2010 年后，"知识"已超过能源、石油、资本主义等传统议题，成为"geopolitics of *"后面最常见的名词——意味着当代地缘政治中最密集的书写和辩论已从自然资源争夺转向了知识争夺(p.68)。
 
-**提出核心问题** 后殖民研究通常将 GPK 的问题域界定为"[[Knowledge Production|知识生产]]"（knowledge production）——谁生产知识、以什么视角、为谁的利益。但这一视角是否抓住了 GPK 的全部？Partaken 提出反向[[Hypothesis|假设]]：GPK 的真正核心（epicenter）从殖民时代至今一直是[[Knowledge Transfer|知识转移]]（knowledge transfer）而非知识生产(p.68–69)。
+**提出核心问题** 后殖民研究通常将 GPK 的问题域界定为"[[Knowledge Production|知识生产]]"（knowledge production）——谁生产知识、以什么视角、为谁的利益。但这一视角是否抓住了 GPK 的全部？Partaken 提出反向假设：GPK 的真正核心（epicenter）从殖民时代至今一直是[[Knowledge Transfer|知识转移]]（knowledge transfer）而非知识生产(p.68–69)。
 
 ### 第二步：审查"知识生产"视角，揭示其盲点（§5.2–5.5, pp.70–75）
 

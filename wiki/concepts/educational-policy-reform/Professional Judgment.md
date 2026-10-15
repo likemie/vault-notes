@@ -6,7 +6,7 @@ aliases:
 summary: "教师在复杂、非线性的教学情境中整合研究证据、伦理标准、教育学原则与实践经验做出决策的核心专业能力，是 EIP 多源整合的枢纽与抵御技术官僚主义去专业化的关键防线。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 75
+related_count: 72
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -22,11 +22,9 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Empiricism]]"
-  - "[[Hypothesis]]"
   - "[[Commensuration]]"
   - "[[Bildung]]"
   - "[[Evaluation Research]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Teaching Assistant]]"
   - "[[Formative Assessment]]"
@@ -44,7 +42,6 @@ related_concepts:
   - "[[Technical Rationality]]"
   - "[[Paradigm]]"
   - "[[Evidence-Based Education]]"
-  - "[[Document]]"
   - "[[Teacher Professional Agency]]"
   - "[[Return on Investment]]"
   - "[[Tacit Knowledge]]"
@@ -155,7 +152,7 @@ updated: 2026-10-15
 > | **证据角色** | 作为概率性资源，结合情境权衡与批判解读 | 作为绝对指令或标准操作规程，强调忠实依从 | 视为外来干扰，选择性忽视或排斥客观数据 |
 > | **教育目的取向** | 聚焦育人价值与长远目的（To What Ends） | 聚焦有效性指标（What Works）与效率 | 依据个人偏好与既有习惯维持教学现状 |
 > | **教师主体角色** | 具有[[Reflexivity\|反思性]]与批判能动性的专业人员（Professional） | 接受数据审计与标准化流水线的操作工人（Technician） | 依赖封闭经验与隐性直觉的个体从业者（Artisan） |
-> | **系统与情境[[Hypothesis\|假设]]** | 学校是开放、复杂、充满主体互动与不确定性的系统 | 学校是封闭、线性、可精确控制的机械系统 | 课堂是个体封闭领地，情境差异不可[[Commensuration\|通约]] |
+> | **系统与情境假设** | 学校是开放、复杂、充满主体互动与不确定性的系统 | 学校是封闭、线性、可精确控制的机械系统 | 课堂是个体封闭领地，情境差异不可[[Commensuration\|通约]] |
 > | **决策检验标准** | 实践反思循环与定性定量证据的[[Triangulation\|三角验证]] | 外部考核指标达成度与方案依从度（Fidelity） | 自我感觉良好与无冲突维持 |
 
 > [!term] 核心辨析点
@@ -177,7 +174,7 @@ updated: 2026-10-15
 > | 整合数据源 | 专业判断在整合中的具体功能 | 缺乏专业判断时的异化风险 |
 > |---|---|---|
 > | **基于实践的证据**<br>（Practice-based Evidence） | 唤醒与反思教师的默会实践知识、个案经验与情境敏感度，确立育人审议的主体立场。 | 退化为因循守旧的封闭[[Empiricism\|经验主义]]或个人主观盲从。 |
-> | **基于研究的证据**<br>（Research-based Evidence） | [[Evaluation Research\|评估研究]]在特定班级与情境中的适切性，完成从概率规律到具体策略的本土[[Transfer Translation Transformation\|转译]]。 | 陷入教条化照搬，导致教学水土不服与技术官僚依赖。 |
+> | **基于研究的证据**<br>（Research-based Evidence） | [[Evaluation Research\|评估研究]]在特定班级与情境中的适切性，完成从概率规律到具体策略的本土转译。 | 陷入教条化照搬，导致教学水土不服与技术官僚依赖。 |
 > | **基于数据的证据**<br>（Data-based Evidence） | 批判性解读系统指标与课堂微观学情，开展形成性观察与定性定量[[Triangulation\|三角验证]]。 | 被终结性量化分数与考核排行榜绑架，诱发应试[[Disciplina and Doctrina\|规训]]。 |
 
 > [!exegesis]- 实践理解与应用示例
@@ -303,7 +300,7 @@ updated: 2026-10-15
 > - **2018 — [[Critical Realism|批判实在论]]解构与概率性资源** Wrigley 在 BERJ 发表论文，将证据界定为开放系统中的概率性资源，深刻批判[[Governing by Numbers|数字治理]]对专业判断的侵蚀。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 16)]]
 > - **2021 — 复杂改革评价的多维解读** [[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison (2021)]] 结合巴尔的摩 [[Students and Teachers Accessing Tomorrow|STAT]] 项目，论证专业判断在解读复杂评估报告与权衡地方价值中的不可替代作用。
 > - **2022 — 循证医学危机镜像与反算法[[Cognitive Deskilling|去技能化]]** [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller (2022)]] 引入循证医学（EBM）发展后期的危机教训（Greenhalgh et al., 2014），警示自动化算法与离散任务拆解对教师专业判断的剥夺，确立教学作为知识型专业的不可替代性。
-> - **2022 — 跨领域[[Research Utilization|证据使用]]框架确立专业判断的补充与支持地位** [[Argument_Rickinson_2022_ER|Rickinson et al. (2022a)]] 基于跨卫生、社会关照、教育与政策四大领域的[[Systematic Review|系统综述]]（[[PRISMA]] 10,813 $\to$ 112 篇核心[[Document|文献]]），正式确立证据知情转向的[[Epistemology|认识论]]核心：研究证据旨在支持与补充专业专长而非替代专业判断，在 [[Quality Use of Research Evidence Framework|QURE]] 框架中将审慎实施与适切证据确立为双核互构支柱。
+> - **2022 — 跨领域[[Research Utilization|证据使用]]框架确立专业判断的补充与支持地位** [[Argument_Rickinson_2022_ER|Rickinson et al. (2022a)]] 基于跨卫生、社会关照、教育与政策四大领域的[[Systematic Review|系统综述]]（[[PRISMA]] 10,813 $\to$ 112 篇核心文献），正式确立证据知情转向的[[Epistemology|认识论]]核心：研究证据旨在支持与补充专业专长而非替代专业判断，在 [[Quality Use of Research Evidence Framework|QURE]] 框架中将审慎实施与适切证据确立为双核互构支柱。
 > - **2023 — [[Venture Philanthropy|风险慈善]]商业量规对专业判断的异层[[Disciplina and Doctrina|规训]]** [[Argument_Rowe_2023_ECNUROE|Rowe (2023)]] 基于对澳大利亚公共教育中风险慈善网络（[[Social Ventures Australia|SVA]]）的实证研究，指出弱势公立学校在竞逐企业项目赠款时，一线教师与校长的办学自主权与教育专业判断深度受制于外部商业问责与因果量规规训。
 > - **2026 — 专业能动性与多维整合范式** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] [[Systematic Review|系统综述]]指出，学校[[Research Utilization|研究使用]]正由被动的线性实施转向以[[Teacher Professional Agency|教师专业能动性]]为核心的整合。
 
@@ -355,8 +352,8 @@ updated: 2026-10-15
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013, pp. 14–16, 19)]] | 美国州共同核心标准（[[Common Core State Standards\|CCSS]]）研制与验证委员会审查 | 政策过程历史制度分析与[[In-depth Interview\|深度访谈]] | 实证研究、学科专长与专业判断在政策研制中的结构性配置 | 高中数学与文本复杂度等关键领域缺乏实证 [[Randomised Controlled Trials\|RCT]] 支撑；起草组依赖数学家演绎逻辑与 AFT 教师为期 2 天的剪贴实操测试；验证委员会 29 位成员中 25 位基于系统专业判断签署背书 | — | 证实专业判断在大规模政策研制中对有限科研证据具有不可替代的结构性补位功能 |
-> | [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a, pp. 139–141)]] | 跨卫生、社会关照、教育与政策四大领域[[Document\|文献]]库 | PRISMA [[Systematic Review\|系统综述]]（初检 10,813 篇 $\to$ 纳入 112 篇核心文献） | [[Research Utilization\|证据使用]][[Paradigm\|范式]]演进与专业专长定位 | 证实跨领域普遍经历由“证据本位”向“证据知情”的[[Discourse\|话语]]转向；确立研究证据对专业知识是补充而非替代关系 | 定性综合证实 | 为专业判断在循证生态中的[[Ontology\|本体论]]合法性提供跨领域实证支撑 |
-> | [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017, p. 132)]] | 特刊 7 篇论文及更广国际 [[Evidence-Informed Practice\|EIP]] [[Document\|文献]]库 | 特刊导言概念与实证综合 | 教育者最常使用的证据来源 | 实践者最常依赖的证据来自专业经验与同事交流，而非原始研究 | — | 确立专业经验在决策审议中的现实基础 |
+> | [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a, pp. 139–141)]] | 跨卫生、社会关照、教育与政策四大领域文献库 | PRISMA [[Systematic Review\|系统综述]]（初检 10,813 篇 $\to$ 纳入 112 篇核心文献） | [[Research Utilization\|证据使用]][[Paradigm\|范式]]演进与专业专长定位 | 证实跨领域普遍经历由“证据本位”向“证据知情”的[[Discourse\|话语]]转向；确立研究证据对专业知识是补充而非替代关系 | 定性综合证实 | 为专业判断在循证生态中的[[Ontology\|本体论]]合法性提供跨领域实证支撑 |
+> | [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017, p. 132)]] | 特刊 7 篇论文及更广国际 [[Evidence-Informed Practice\|EIP]] 文献库 | 特刊导言概念与实证综合 | 教育者最常使用的证据来源 | 实践者最常依赖的证据来自专业经验与同事交流，而非原始研究 | — | 确立专业经验在决策审议中的现实基础 |
 > | [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017, p. 130)]] 转述 Cooper et al. | 小学教师群体，课堂评估实践信息搜寻 | 大规模调查与[[In-depth Interview\|深度访谈]] | 教师获取信息的最首要渠道 | 教师主要从其他一线教师（同行专业网络）获取评估信息 | — | 证实专业人际网络主导着微观证据流向 |
 > | [[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp. 122–123]] | 美国巴尔的摩县 [[Students and Teachers Accessing Tomorrow\|STAT]] 技术改革 | 形成性项目评估[[Case Study\|案例研究]] | 不同决策主体对同一份评估报告的解读与态度 | 校董、校长与教师基于各自专业判断给出了截然不同的政策解读 | — | 证明专业判断在复杂数据解释中的持续主导性 |
 > | [[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 12]] | 英国中小学面临预算缩减情境 | 实证案例与政策文本分析 | [[Education Endowment Foundation\|EEF]] 工具包效应量排行的决策应用 | 部分学校盲信工具包低效应量排行误裁[[Teaching Assistant\|教学助理]]（TA） | — | 证实抹杀专业判断的技术官僚决策会产生破坏性后果 |

@@ -2,7 +2,7 @@
 summary: "非形式推理（Informal Reasoning）是指在面对开放、复杂、结构不良（ill-structured）且缺乏唯一标准算法的现实争议性问题时，个体基于不完全信息综合调动经验证据、逻辑论证、伦理关怀与价值权衡进行因果推论、多角度权衡与反驳辩护的认知过程。作为社会科学议题（SSI）与公民科学素养的核心支撑，非形式推理揭示了日常与科学决策中证据评估与价值审议的动态交互机制。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 18
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,7 +19,6 @@ tags:
   - theme/epistemic-practices
 related_concepts:
   - "[[Socioscientific Issues]]"
-  - "[[Teaching Assistant]]"
   - "[[Scientific Literacy]]"
   - "[[Epistemology]]"
   - "[[Problem Solving]]"
@@ -33,7 +32,6 @@ related_concepts:
   - "[[Discourse]]"
 related_theories: []
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments: []
@@ -45,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 # Informal Reasoning
 
@@ -58,7 +56,7 @@ updated: 2026-10-07
 
 > [!concept-lens] 概念透镜
 > - **含义** 在不确定性与证据冲突情境下协调事实数据与价值考量以形成立场或决断的思维机制。
-> - **用途** 帮[[Teaching Assistant\|助教]]育研究者刻画学生在面对现实科技争议（如基因编辑、核能建设、气候政策）时的真实论辩与决策品质。
+> - **用途** 帮助教育研究者刻画学生在面对现实科技争议（如基因编辑、核能建设、气候政策）时的真实论辩与决策品质。
 > - **边界** 不同于追求公理演绎真值的形式逻辑推理，亦不等于缺乏事实依据的随意主观臆断（必须受到经验证据与理性融贯性的严格约束）。
 
 > [!citation-card] 论社会科学议题中非形式推理的全面调动
@@ -138,7 +136,7 @@ updated: 2026-10-07
 
 > [!dev-timeline] 概念演变
 > - **1980s — 认知心理学转向** Voss 等人将非形式推理从传统形式逻辑学中独立出来，开辟了对社会科学与复杂现实[[Problem Solving\|问题解决]]机制的认知研究。
-> - **2000s — 科学教育领域[[Paradigm\|范式]]确立** Sadler 与 Zeidler 将非形式推理引入科学教育，系统建立了基于[[Socioscientific Issues\|社会科学议题]]（SSI）的推理模式[[Coding in Qualitative Research\|编码]]体系与实证测量工具。
+> - **2000s — 科学教育领域[[Paradigm\|范式]]确立** Sadler 与 Zeidler 将非形式推理引入科学教育，系统建立了基于[[Socioscientific Issues\|社会科学议题]]（SSI）的推理模式编码体系与实证测量工具。
 > - **2010s 至今 — [[Practical Epistemology\|实践认识论]]与公民审议融合** Kelly & Licona 等人将非形式推理融入微观[[Discourse|话语]]协商与[[Epistemic Practices\|认识论实践]]框架，确立其作为公共[[Scientific Literacy\|科学素养]]核心支柱的学术地位。[[Argument_Kelly_Licona_2018_EpistemicPractices\|(Kelly & Licona, 2018, pp. 154–157)]]
 
 ---
@@ -147,7 +145,7 @@ updated: 2026-10-07
 
 > [!warning] 适用局限
 > - **确认偏误与认知捷径的干扰** 在高度情绪化的议题中，非形式推理容易受个体既有意识形态或偏见影响，滑向选择性采纳证据的动机性推理（Motivated Reasoning）。
-> - **测量与评价工具的质性依赖** 由于非形式推理涉及论据质量、多视角权衡与反驳深度等多维指标，难以通过标准化客观题进行快速自动化测量，[[Transcription in Qualitative Research\|转录]]与[[Coding in Qualitative Research\|编码]]成本高昂。
+> - **测量与评价工具的质性依赖** 由于非形式推理涉及论据质量、多视角权衡与反驳深度等多维指标，难以通过标准化客观题进行快速自动化测量，[[Transcription in Qualitative Research\|转录]]与编码成本高昂。
 > - **对学科基础事实知识的依存度** 缺乏必要物理、生物或化学机理认知时，非形式推理容易退化为无事实根基的空洞言语修辞或立场互搏。
 
 ---

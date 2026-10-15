@@ -10,7 +10,7 @@ aliases:
 summary: "中国学习模型中的核心情感维度，指学习者在青少年阶段思索人生目的并做出明确个人志向承诺的心理过程"
 type: concept
 domain: "chinese-philosophy"
-related_count: 9
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -23,8 +23,6 @@ related_concepts:
   - "[[Chinese Learner]]"
   - "[[Heart and Mind for Wanting to Learn]]"
   - "[[Learning Virtues]]"
-  - "[[Refined Mastery]]"
-  - "[[Familiarization]]"
   - "[[Western Learner]]"
   - "[[Study Population and Sample]]"
   - "[[Ideal Learner]]"
@@ -37,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-05-23
+updated: 2026-10-15
 ---
 
 # Establishing One's Will
@@ -66,11 +64,11 @@ updated: 2026-05-23
 | 1. 诚意 | 诚心（renzhen） | 前驱——对学习做出真诚承诺 |
 | 2. 立志 | — | 枢纽——将诚意转化为具体方向和目标 |
 | 3. 公开承诺 | 见证人机制 | 社会锚定——将私人决心转化为社会契约 |
-| 4. 勤奋行动 | 勤奋（qinfen） | 行为转化——大量时间投入，经历熟→练→[[Refined Mastery\|精]] |
+| 4. 勤奋行动 | 勤奋（qinfen） | 行为转化——大量时间投入，经历熟→练→精 |
 | 5. 持久坚持 | 恒心（hengxin） | 维持——从始至终不放弃 |
 
 > [!note]-
-> [[Familiarization\|熟]]→练→精 对应 [[Familiarization\|熟]] 和 [[Refined Mastery\|精]] 两个学习美德概念。
+> 熟→练→精 对应 熟 和 精 两个学习美德概念。
 
 ### 见证人机制
 

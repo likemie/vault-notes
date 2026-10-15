@@ -21,18 +21,14 @@ related_concepts:
   - "[[Research Contribution]]"
   - "[[Institutional Layering]]"
   - "[[Variable]]"
-  - "[[Attrition]]"
   - "[[Regulatory Ratchet]]"
-  - "[[Document]]"
   - "[[Composite-Standard Model]]"
   - "[[Paradigm]]"
   - "[[Operationalization]]"
   - "[[Epistemology]]"
-  - "[[Hypothesis]]"
   - "[[Institutional Conversion]]"
   - "[[Institutional Drift]]"
   - "[[Institutional Displacement]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Heterogeneity]]"
   - "[[Scaffolding]]"
   - "[[Problem of Many Hands]]"
@@ -72,7 +68,7 @@ title: "Argument_VanDerHeijden_2011_Politics"
 argument_key: "Argument_VanDerHeijden_2011_Politics"
 argument_display_title: "Institutional layering: A review of the use of the concept"
 argument_kind: "journal-article"
-argument_related_count: 36
+argument_related_count: 32
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -96,10 +92,10 @@ issuing_organization: ""
 ## 研究问题
 
 > [!question]
-> 长期以来制度分析被外生重大冲击打破长期惰性稳态与内生微观主体持续推动微小调整两种割裂视角主导；作为解释[[Theory of Gradual Institutional Change|渐进制度变迁]]的热门分析工具，[[Institutional Layering|制度层叠]]（Institutional Layering）在当代研究中经历着持续的语义宽泛化与随意改编，导致其作为分析工具的比较优势面临[[Attrition|流失]]危险。
+> 长期以来制度分析被外生重大冲击打破长期惰性稳态与内生微观主体持续推动微小调整两种割裂视角主导；作为解释[[Theory of Gradual Institutional Change|渐进制度变迁]]的热门分析工具，[[Institutional Layering|制度层叠]]（Institutional Layering）在当代研究中经历着持续的语义宽泛化与随意改编，导致其作为分析工具的比较优势面临流失危险。
 
 > [!claim] 核心主张
-> 制度层叠概念本身并不属于某一学者的固化专利，而是经历六十年演化、由行动者增厚、[[Regulatory Ratchet|规制棘轮]]向双重叠加推进的思想传统；当代[[Document|文献]]将层叠误用于描述制度核心巩固与制度再生产的做法削弱了其分析效力，但只要将层叠聚焦于被叠加的行动者与规制工具这两类具体解释[[Variable|变量]]，它便具备弥合[[Punctuated Equilibrium Theory|间断均衡理论]]（Punctuated Equilibrium Theory）与渐进变迁视角理论鸿沟的根本分析潜能。
+> 制度层叠概念本身并不属于某一学者的固化专利，而是经历六十年演化、由行动者增厚、[[Regulatory Ratchet|规制棘轮]]向双重叠加推进的思想传统；当代文献将层叠误用于描述制度核心巩固与制度再生产的做法削弱了其分析效力，但只要将层叠聚焦于被叠加的行动者与规制工具这两类具体解释[[Variable|变量]]，它便具备弥合[[Punctuated Equilibrium Theory|间断均衡理论]]（Punctuated Equilibrium Theory）与渐进变迁视角理论鸿沟的根本分析潜能。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 跨越经济学、法学、社会学、政治学与公共行政学等学科，考察 60 年间（1944–2010）涉及层叠概念的 166 篇期刊文献、理论专著以及涵盖荷兰建筑规制、欧洲联盟（European Union, EU）预算与规制空间、互联网协议标准的代表性实证案例。
@@ -175,7 +171,7 @@ issuing_organization: ""
 > [!tension-table] 两种制度变迁研究视角的认识论困境
 > | 比较维度 | 间断均衡视角（外生突变论） | 渐进主义视角（内生演进论） | 认识论盲区与共同症结 |
 > |---|---|---|---|
-> | **核心[[Hypothesis\|假设]]** | 长期惰性稳态与偶发剧烈断裂交替 | 制度在日常博弈中发生持续微调 | 预设决定发现：从突变出发必验证突变，从微调出发必验证微调。（p. 10） |
+> | **核心假设** | 长期惰性稳态与偶发剧烈断裂交替 | 制度在日常博弈中发生持续微调 | 预设决定发现：从突变出发必验证突变，从微调出发必验证微调。（p. 10） |
 > | **变迁动力** | 战争、金融危机等外生宏观震荡 | 行动者对制度意图与结果缝隙的博弈 | 缺乏客观分界：何为重大突变、何为日常微调缺乏操作化标尺。 |
 > | **时间尺度** | 压缩宏观转折时刻，忽略微观孕育 | 聚焦漫长连续演化，忽视临界突变 | 割裂时间连续性：忽视微调累积可能触发制度临界跃迁。 |
 
@@ -212,7 +208,7 @@ issuing_organization: ""
 > - **[[Institutional Conversion|制度转换]]（Conversion）** 规则形式保持不变，但在新行动者介入或新议题引导下被赋予全新功能或目标。
 > - **[[Institutional Drift|制度漂移]]（Drift）** 制度文本静态不动，但外部环境发生剧烈变迁导致既有规则的实际治理效力发生侵蚀。
 > - **[[Institutional Displacement|制度替代]]（Displacement）** 彻底废除既有旧规则，或引入竞争性平行体制逐步边缘化并挤出旧体制。
-> - **拼贴与[[Transfer Translation Transformation|转译]]（Bricolage & Translation）** 行动者将[[Heterogeneity|异质性]]制度碎片重新组合，或将外部理念本地化转译为新规范。
+> - **拼贴与转译（Bricolage & Translation）** 行动者将[[Heterogeneity|异质性]]制度碎片重新组合，或将外部理念本地化转译为新规范。
 
 希伦在确立层叠机制时，深度吸收了美国政治发展中的国会妥协与历史时间性研究。（pp. 11–12）
 
@@ -244,7 +240,7 @@ issuing_organization: ""
 
 #### 2. 战后文献史呈现出机构增厚、规制棘轮与双重叠加三条演化脉络
 
-[[Document|文献]]考证表明，层叠概念在战后六十年间跨越经济学、法学与公共行政学，发展出三条具体的演化脉络。（pp. 14–15）
+文献考证表明，层叠概念在战后六十年间跨越经济学、法学与公共行政学，发展出三条具体的演化脉络。（pp. 14–15）
 
 > [!row-contrast] 制度层叠的三大历史演变传统
 > | 演进传统 | 核心机制与侧重 | 代表学者与文献 | 典型治理后果与理论隐喻 |
@@ -284,7 +280,7 @@ issuing_organization: ""
 > - **真正的制度层叠（渐进变迁视角）** 核心特征是新旧要素共存并最终引发质变；新附加的规则或机构必须在时间推移中逐步削弱、侵蚀旧体制的垄断权威，改变人们的行为模式，最终将制度整体引向全新的发展方向。（pp. 9, 13–14）
 > - **制度加固与再生产（[[Path Dependence|路径依赖]]视角）** 核心特征是外围累加巩固核心结构；在外围增加的新保护层或附属应用不但没有改变旧核心，反而像护城河一样把旧制度锁得更死，加剧了[[Path Dependence|路径依赖]]的自我强化。（pp. 13–14）
 
-混淆变迁与加固将导致概念解释力的严重[[Attrition|流失]]，削弱其理论区分度。（pp. 13–14, 16）
+混淆变迁与加固将导致概念解释力的严重流失，削弱其理论区分度。（pp. 13–14, 16）
 
 > [!boundary] 概念有效性边界：警惕层叠概念的空心化
 > 层叠概念绝非容纳一切新旧要素共存现象的泛化标签。若将所有外围规制累加均界定为层叠，将抹杀其与路径依赖和制度再生产的理论边界，使研究者无法有效判别制度是走向实质转型还是加剧既有锁定。（pp. 13–14, 16）
@@ -354,7 +350,7 @@ issuing_organization: ""
 ## 自述局限
 
 > [!warning]
-> 原文[[Literature Search|文献检索]]局限于学术数据库中能够追踪到的经济学、法学、社会学、政治学、公共政策与公共行政学期刊论文，未能穷尽该学科领域的所有未收录[[Document|文献]]与专著。（p. 16）
+> 原文[[Literature Search|文献检索]]局限于学术数据库中能够追踪到的经济学、法学、社会学、政治学、公共政策与公共行政学期刊论文，未能穷尽该学科领域的所有未收录文献与专著。（p. 16）
 
 ---
 

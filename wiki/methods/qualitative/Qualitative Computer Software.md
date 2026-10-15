@@ -10,7 +10,7 @@ summary: "用于辅助质性研究中文本、音频与图像数据组织、编�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 55
+method_related_count: 52
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -20,7 +20,6 @@ tags:
   - software
 related_concepts:
   - "[[Generative Artificial Intelligence]]"
-  - "[[Document]]"
   - "[[Unit of Analysis]]"
   - "[[Reflexivity]]"
   - "[[Epistemology]]"
@@ -31,7 +30,6 @@ related_concepts:
   - "[[Central Phenomenon]]"
   - "[[Meaningful Human Control]]"
   - "[[Saturation]]"
-  - "[[Hypothesis]]"
   - "[[Paradigm]]"
   - "[[Dialogue in Education]]"
   - "[[Working Memory]]"
@@ -39,7 +37,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Going Native]]"
   - "[[Epistemic Friction]]"
-  - "[[Assemblage]]"
   - "[[Rich and Thick Description]]"
   - "[[AI Hallucination]]"
   - "[[Reliability]]"
@@ -51,7 +48,6 @@ related_methods:
   - "[[Transcription in Qualitative Research]]"
   - "[[Field Notes]]"
   - "[[Questionnaire]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Data Reduction]]"
   - "[[Audit Trail]]"
   - "[[Winnowing]]"
@@ -68,6 +64,7 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[In-depth Interview]]"
   - "[[Intercoder Agreement]]"
+  - "[[Coding in Qualitative Research]]"
   - "[[Data Display]]"
   - "[[Correlational Research]]"
   - "[[Semi-structured Interview]]"
@@ -82,7 +79,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Qualitative Computer Software
@@ -95,8 +92,8 @@ updated: 2026-10-07
 > 质性计算机软件（Qualitative Computer Software），通常称为计算机辅助质性数据分析软件（Computer Assisted Qualitative Data Analysis Software，CAQDAS），是指用于辅助[[Qualitative Research\|质性研究]]中组织、排序、存储、检索和分析文本、音频与图像数据库的专用程序与智能分析系统（Guest et al., 2012; 引自 [[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch9, p. 206]]）。传统 CAQDAS（如 NVivo、MAXQDA、ATLAS.ti、Dedoose 等）的核心逻辑是“标记与检索”（code-and-retrieve），主要承担机械性管理与关系数据库支持，本身并不进行自动化的理论诠释；随着[[Generative Artificial Intelligence\|生成式人工智能]]与大语言模型（LLM）的发展，计算工具进一步演进为具备语义理解、概念初筛与交互式探索能力的认知协同系统，但质性研究中对经验脉络的主观赋意与效度核验责任始终由人类研究者承担。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, pp. 537, 576)]]
 
 > [!method-scope] 方法范围
-> - **研究对象** 访谈[[Transcription in Qualitative Research\|转录]]稿、[[Field Notes\|田野笔记]]、政策与历史[[Document\|文献]]、[[Questionnaire\|问卷]]开放式回答、音视频记录及多模态图像资料。
-> - **问题类型** 质性数据的大规模组织管理、分类[[Coding in Qualitative Research\|编码]]、主题模式识别、文本片段交叉比较、概念网络拓扑分析与[[Data Reduction\|数据缩减]]。
+> - **研究对象** 访谈[[Transcription in Qualitative Research\|转录]]稿、[[Field Notes\|田野笔记]]、政策与历史文献、[[Questionnaire\|问卷]]开放式回答、音视频记录及多模态图像资料。
+> - **问题类型** 质性数据的大规模组织管理、分类编码、主题模式识别、文本片段交叉比较、概念网络拓扑分析与[[Data Reduction\|数据缩减]]。
 > - **[[Unit of Analysis\|分析单位]]** 字词、句子、段落、意义单元、完整事件记录、多模态音画片段或跨文档案例。
 > - **输出形式** 层级编码树、主题节点矩阵、语境关键词（KWIC）清单、共现网络关系图、[[Reflexivity\|反身性]]备忘录链条与[[Audit Trail\|审计追踪]]日志。
 > - **演变形态** 从早期的纯文本检索与关系型数据库标记（第一代），发展为现代多模态交互式 GUI 平台（第二代），并进一步融合大语言模型少样本提示赋码与智能概念聚类的认知协同系统（第三代）。
@@ -118,7 +115,7 @@ updated: 2026-10-07
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** [[Qualitative Research\|质性研究]]视知识为扎根于具体社会语境与主体经验中的主观意义建构；计算工具是协助管理复杂经验资料的技术中介，而非独立生成客观实在的认识论代理。
 > - **研究者角色** 研究者始终处于[[Man-Computer Symbiosis|人机协同]]的中心，作为主动诠释者与理论架构者。软件提供数据库检索、结构化映射与候选模式建议，研究者则负责赋予意义、裁决分类边界、反思潜在偏误并提炼理论洞见。
-> - **有效性标准** 依托全面系统的样本覆盖与透明数据检索保障[[Qualitative Validity\|质性效度]]；通过跨[[Coding in Qualitative Research\|编码]]者独立赋码比较与规则一致性维护[[Qualitative Reliability\|质性信度]]；借助完整的[[Audit Trail\|审计追踪]]确保分析链条的可审计性与可确证性。
+> - **有效性标准** 依托全面系统的样本覆盖与透明数据检索保障[[Qualitative Validity\|质性效度]]；通过跨编码者独立赋码比较与规则一致性维护[[Qualitative Reliability\|质性信度]]；借助完整的[[Audit Trail\|审计追踪]]确保分析链条的可审计性与可确证性。
 > - **不声称回答的问题** 软件无法直接揭示文本背后的潜意识动机、非言语权力博弈或未言明的文化禁忌；亦不能脱离研究者的理论敏锐度与[[Reflexivity\|反思性]]判断而独立推导出合法的因果解释。
 
 > [!method-stack] 方法层级
@@ -137,13 +134,13 @@ updated: 2026-10-07
 > [!proc] 计算机辅助质性分析通用规程
 >
 > > [!step] 阶段一：数据准备与文本单位化
-> > 导入原始[[Transcription in Qualitative Research\|转录]]稿、[[Field Notes\|田野笔记]]与图像等多模态材料，完成文档格式化与匿名化处理；依据分析目标与[[Unit of Analysis\|分析单位]]（句子、段落或意群）进行初步浏览与粗[[Coding in Qualitative Research\|编码]]，建立基础主题节点并分配原始文本片段。
+> > 导入原始[[Transcription in Qualitative Research\|转录]]稿、[[Field Notes\|田野笔记]]与图像等多模态材料，完成文档格式化与匿名化处理；依据分析目标与[[Unit of Analysis\|分析单位]]（句子、段落或意群）进行初步浏览与粗编码，建立基础主题节点并分配原始文本片段。
 >
 > > [!step] 阶段二：编码迭代与备忘录整合
 > > 针对特定数据片段即时撰写分析备忘录（[[Memos\|analytic memos]]）；利用软件检索工具对归入同一编码的所有文本片段进行集中提取，开展持续比较以检验编码定义的一致性与稳定性，剔除漂移并细化分类边界。
 >
 > > [!step] 阶段三：范畴建构与[[Saturation\|理论饱和]]
-> > 整合已有初级编码，构建浅层树状包容层级与概念网络拓扑图；围绕[[Central Phenomenon\|核心现象]]与[[Story Line\|故事线]]提炼高阶核心范畴，持续补充负面案例检验模型[[Hypothesis\|假设]]，直至达到理论饱和状态并输出分析矩阵与图表。
+> > 整合已有初级编码，构建浅层树状包容层级与概念网络拓扑图；围绕[[Central Phenomenon\|核心现象]]与[[Story Line\|故事线]]提炼高阶核心范畴，持续补充负面案例检验模型假设，直至达到理论饱和状态并输出分析矩阵与图表。
 
 > [!contrast-table] 传统 CAQDAS 与大语言模型智能辅助编码的[[Paradigm\|范式]]对比
 >
@@ -196,8 +193,8 @@ updated: 2026-10-07
 ## 局限性
 
 > [!method-limits] 方法局限与[[Man-Computer Symbiosis|人机协同]]风险
-> - **工具宰制与方法倒置（The Tail Wags the Dog）** 多数软件的设计架构天然偏向[[Grounded Theory\|扎根理论]]式的[[Coding in Qualitative Research\|编码]]与检索（Code-and-Retrieve）逻辑，容易诱使研究者机械迎合软件提供的功能与树状层级，忽视对文本更深层的批判性追问与诠释学理解（Crowley et al., 2002; Richards, 2002; Coffey et al., 1996）。软件是工具而非方法论指导者，研究者不能让工具逻辑反客为主。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|(Cohen et al., 2011, p. 539)]]
-> - **编码碎片化与语境剥离（Decontextualization）** 软件将连续文本切分为孤立片段存入节点数据库，若单纯按编码抽取片段进行[[Assemblage\|装配]]，极易抽离发生的时间序列、背景环境与情感张力（Gibbs, 2007; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011, p. 562]]）。研究者若过度沉溺于节点切片，可能因技术屏障而“疏远数据”（Distance from Data），削弱[[Qualitative Research\|质性研究]]立足的[[Rich and Thick Description\|深描]]根基。
+> - **工具宰制与方法倒置（The Tail Wags the Dog）** 多数软件的设计架构天然偏向[[Grounded Theory\|扎根理论]]式的编码与检索（Code-and-Retrieve）逻辑，容易诱使研究者机械迎合软件提供的功能与树状层级，忽视对文本更深层的批判性追问与诠释学理解（Crowley et al., 2002; Richards, 2002; Coffey et al., 1996）。软件是工具而非方法论指导者，研究者不能让工具逻辑反客为主。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|(Cohen et al., 2011, p. 539)]]
+> - **编码碎片化与语境剥离（Decontextualization）** 软件将连续文本切分为孤立片段存入节点数据库，若单纯按编码抽取片段进行装配，极易抽离发生的时间序列、背景环境与情感张力（Gibbs, 2007; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al., 2011, p. 562]]）。研究者若过度沉溺于节点切片，可能因技术屏障而“疏远数据”（Distance from Data），削弱[[Qualitative Research\|质性研究]]立足的[[Rich and Thick Description\|深描]]根基。
 > - **算法依赖与虚假模式风险（[[AI Hallucination\|Algorithmic Hallucination]]）** 当引入大语言模型辅助赋码与主题生成时，模型固有的一致性幻觉、去情境化归纳偏倚以及预训练语料中的文化刻板印象可能带来系统性失真；机器可能拼凑出看似严密实则脱离现实经验的“伪主题”。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 578)]]
 > - **[[Meaningful Human Control|人在回路]]（HITL）与[[Audit Trail\|审计追踪]]责任（Audit Trail）** 质性软件不会自主思考，更无法替代人类研究者赋予意义与感知生命体验（García-Horta & Guerra-Ramos, 2009; Flick, 2009）。研究者必须贯彻人在回路原则：强制大模型输出附带原文行号与证据溯源，设定低采样温度；建立详实的分析日志（记录版本、提示词、分歧裁决与修改过程），保留透明的[[Audit Trail\|审计追踪]]。
 
@@ -209,7 +206,7 @@ updated: 2026-10-07
 >
 > | 关系层级 | 条目 | 类型 | 关系 |
 > |:---|:-----|:-----|:-----|
-> | **理论与方法论支撑** | [[Grounded Theory\|扎根理论]] | 理论基石 | 现代 CAQDAS 的[[Coding in Qualitative Research\|编码]]、持续比较、备忘录与网络建模架构深度起源于扎根理论逻辑。 |
+> | **理论与方法论支撑** | [[Grounded Theory\|扎根理论]] | 理论基石 | 现代 CAQDAS 的编码、持续比较、备忘录与网络建模架构深度起源于扎根理论逻辑。 |
 > | | [[Content Analysis\|内容分析]] | 核心应用 | 软件支持关键词提取、规则化范畴匹配与频次矩阵统计的典型分析方法。 |
 > | | [[Template Analysis\|模板分析]] | 协同方法 | 在软件中构建分层编码模板并随经验分析迭代调整的结构化分析技术。 |
 > | **分析操作与空间化呈现** | [[Coding in Qualitative Research\|质性编码]] | 核心操作 | 软件最核心的分析交互载体，将文本切片转化为结构化概念节点。 |
@@ -224,6 +221,6 @@ updated: 2026-10-07
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|Cohen et al. (2011)]]（亦见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Ch. 30]]） — 系统总结 CAQDAS 的功能类型、Kelle 六步规程与[[Reliability\|信度]]效度机制，并深入探讨大语言模型智能辅助[[Coding in Qualitative Research\|编码]]的三大进路、[[Paradigm\|范式]]对比与[[Meaningful Human Control|人在回路]]准则。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|Cohen et al. (2011)]]（亦见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Ch. 30]]） — 系统总结 CAQDAS 的功能类型、Kelle 六步规程与[[Reliability\|信度]]效度机制，并深入探讨大语言模型智能辅助编码的三大进路、[[Paradigm\|范式]]对比与[[Meaningful Human Control|人在回路]]准则。
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, Ch. 9)]] — 阐明计算机软件辅助[[Winnowing\|数据筛选]]与 5–7 个主题聚合的实操流程，强调软件不替代研究者分析责任，并梳理现代主流软件包。
 > - [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] — 在 NVivo 11 中结合[[Open Coding\|开放编码]]与基于[[Third Generation Activity Theory\|第三代活动理论]]（3GAT）六构件的[[Template Analysis\|模板分析]]，对 25 份[[Semi-structured Interview\|半结构化访谈]]展开扎根编码与矛盾解析。

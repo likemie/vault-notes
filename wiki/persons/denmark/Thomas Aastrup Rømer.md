@@ -7,7 +7,7 @@ summary: "丹麦教育哲学学者，Visible Learning 五线批评与纯粹评�
 type: person
 nationality: denmark
 person_region: "denmark"
-person_related_count: 15
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Pure Evaluation]]"
   - "[[Variable]]"
   - "[[Bildung]]"
-  - "[[Document]]"
   - "[[Surface and Deep Learning]]"
   - "[[Pragmatic Paradigm]]"
 related_theories:
@@ -42,7 +41,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 ## 简介
 
@@ -82,7 +81,7 @@ updated: 2026-10-08
 > [!success] 主要贡献
 > - [[Pure Evaluation]] — 与 Tanggaard & Brinkmann (2014) 共同提出的概念，描述声称在自调节系统中独立于时空运作的评价实践
 > - Argument_Rømer_2018_EPT — 对 Hattie VL 理论基础的第一个系统性哲学批判
-> - [[Visible Learning]] — 为 VL 批评[[Document\|文献]]贡献了教育哲学维度（评价理论取代教育理论、[[Radical Constructivism\|激进建构主义]]根基、误读 Popper、反馈集权化）
+> - [[Visible Learning]] — 为 VL 批评文献贡献了教育哲学维度（评价理论取代教育理论、[[Radical Constructivism\|激进建构主义]]根基、误读 Popper、反馈集权化）
 > - [[Surface and Deep Learning]] — Hattie 将表层/深层/建构性学习映射到 Popper 三个世界，[[Argument_Rømer_2018_EPT\|Rømer (2018)]] 论证此映射构成对 Popper 的系统误读
 
 ## 思想发展与影响
@@ -90,7 +89,7 @@ updated: 2026-10-08
 > [!note-] 思想发展与影响
 > - 立基于 Dewey 的[[Pragmatic Paradigm\|实用主义]]教育哲学，尤其是 Dewey 对想象力和判断力的分析（Rømer, 2012）
 > - 在丹麦批评文集 *[[Hattie på dansk]]*（[[Hattie på dansk]]）中撰文批评 VL 的反馈概念——[[Argument_Qvortrup_2019_NordSTEP\|Qvortrup (2019, p.4)]] 反驳称 Rømer 声称反馈具有"集权化效应"的论断"without any kind of factual support"
-> - 其五线批评（Argument_Rømer_2018_EPT）被纳入 VL 国际批评[[Document\|文献]]谱系，补充了此前以方法论（Wecker, Bergeron, Simpson）和文化政治（McKnight & Whitburn）为主的批评维度
+> - 其五线批评（Argument_Rømer_2018_EPT）被纳入 VL 国际批评文献谱系，补充了此前以方法论（Wecker, Bergeron, Simpson）和文化政治（McKnight & Whitburn）为主的批评维度
 > - 与丹麦教育研究界内部的 VL 接受者（[[Lars Qvortrup]]、Laursen、Egelund）形成争论，[[Argument_Qvortrup_2019_NordSTEP\|Qvortrup (2019)]] 以解释社群分析将丹麦批评者整体定性为短期内形成广泛误解的社群
 
 ## 争议与批评

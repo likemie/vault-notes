@@ -8,7 +8,7 @@ aliases:
 summary: "在自愿且信息充分的交易双方间达成资产、服务或商品合理价格的公允定价原则。在反倾销与国际贸易法中表现为核定外国出口产品非掠夺性最低价格底线的监管工具，在产学合作与临床试验中表现为基于行业多中心实际谈判数据共享防范不当利益输送的合规基线。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 18
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,9 +24,7 @@ related_concepts:
   - "[[Cost of Ownership]]"
   - "[[Academic Medical Center]]"
   - "[[Learning by Doing]]"
-  - "[[Document]]"
   - "[[Modern Industrial Policy]]"
-  - "[[Attrition]]"
   - "[[Variable]]"
   - "[[Market Failure]]"
   - "[[Vertical Disintegration]]"
@@ -46,7 +44,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-03
-updated: 2026-10-04
+updated: 2026-10-15
 ---
 
 # Fair Market Value
@@ -149,7 +147,7 @@ updated: 2026-10-04
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **管理贸易动态失灵命题** | 静态成本 FMV 价格底线脱离动态良率学习曲线，引发全球供给短缺并为第三方竞争者提供价格保护伞 | 跨国高技术贸易制裁、半导体双边管理贸易 | [[Argument_Macher_1998_CMR\|Macher et al. (1998)]]; [[Argument_Bown_2024_JEP\|Bown & Wang (2024)]] |
-> | **产学合规预算张力命题** | 公允市场基准与大学高间接费率之间的结构性错位，驱动临床研究基地去中心化与国际化分流 | 生物医药产学研发、学术医学中心临床试验立项 | [[University-Industry Collaboration\|产学合作]]研究[[Document\|文献]] |
+> | **产学合规预算张力命题** | 公允市场基准与大学高间接费率之间的结构性错位，驱动临床研究基地去中心化与国际化分流 | 生物医药产学研发、学术医学中心临床试验立项 | [[University-Industry Collaboration\|产学合作]]研究文献 |
 
 ---
 
@@ -181,7 +179,7 @@ updated: 2026-10-04
 
 > [!critique] 外部批评
 > - **扭曲产业供给与诱发下游系统厂商危机** 在 1980 年代芯片贸易中，FMV 价格底线直接诱发 1987–1988 年全球 DRAM 暴利短缺，大幅抬高了苹果、康柏等美国个人电脑厂商的硬件物料成本。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 126–127)]]
-> - **高声誉机构的“声誉惩罚”困境** 在[[Clinical Trial|临床试验]]中，声誉越高的学术中心其综合运维与合规成本越高，在刚性 FMV 框架下因无法获得充分报销而面临受试者与课题[[Attrition|流失]]。
+> - **高声誉机构的“声誉惩罚”困境** 在[[Clinical Trial|临床试验]]中，声誉越高的学术中心其综合运维与合规成本越高，在刚性 FMV 框架下因无法获得充分报销而面临受试者与课题流失。
 
 > [!warning] 适用局限
 > - **动态学习曲线产品失灵** FMV 核算依赖历史成本回溯，对于制程良率迅速爬升的大宗半导体芯片，行政价格底线具有强烈的顺周期扭曲效应。

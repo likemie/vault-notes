@@ -9,10 +9,10 @@ summary: "美国教育史学家与比较教育学家，密歇根大学比较教�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 24
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_count: 22
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1906"
 died: "1997"
 lifespan: "1906–1997"
@@ -25,12 +25,10 @@ related_concepts:
   - "[[International Education]]"
   - "[[Champ]]"
   - "[[Influences Across Cultures]]"
-  - "[[Bildung]]"
   - "[[Geisteswissenschaften]]"
   - "[[Scientific Paradigm]]"
   - "[[Postpositivism]]"
   - "[[Positivism]]"
-  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
@@ -54,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-15
 ---
 
 # Claude A. Eggertsen
@@ -103,7 +101,7 @@ updated: 2026-10-01
 ## 核心思想
 
 > [!claim] 核心主张
-> 教育制度从来不是孤立封闭的民族产物，任何试图脱离世界文明交融与跨国文化互渗来理解本国教育传统的企图都是狭隘且危险的。历史学的人文考据传统必须打破国界藩篱；比较教育学真正的生命力在于将历史纵深的批判眼光与横向跨文化的全球视野相融合。学者唯有超越单一国别立场的自满，以共情且理性的学术姿态审视异域文明的[[Bildung|教化]]实践，才能在全球化时代为国际理解与和平筑牢思想防线。
+> 教育制度从来不是孤立封闭的民族产物，任何试图脱离世界文明交融与跨国文化互渗来理解本国教育传统的企图都是狭隘且危险的。历史学的人文考据传统必须打破国界藩篱；比较教育学真正的生命力在于将历史纵深的批判眼光与横向跨文化的全球视野相融合。学者唯有超越单一国别立场的自满，以共情且理性的学术姿态审视异域文明的教化实践，才能在全球化时代为国际理解与和平筑牢思想防线。
 
 > [!citation-card] 埃格特森论跨国比较对历史研究狭隘性的克服
 > 孤立考察一个国家的教育体系，往往会让人将暂时的、地域性的偶然制度当成永恒的真理；唯有置身于跨国比较的宏大广角镜中，教育史才能真正成为启迪智慧的[[Geisteswissenschaften|人文科学]]。
@@ -141,7 +139,7 @@ updated: 2026-10-01
 ## 争议与批评
 
 > [!warning] 适用边界与战[[Postpositivism|后实证主义]]冲击
-> - 1960 年代[[Positivism|实证主义]]与社会科学定量化浪潮兴起时，以诺亚（[[Harold Noah]]）和安德森（[[C. Arnold Anderson]]）为代表的计量学者曾批评埃格特森等传统学者的方法过于侧重史料爬梳与叙事性描述，缺乏严谨的[[Hypothesis|假设]]检验与量化[[Variable|变量]]控制；但埃格特森坚持认为，剥离了深厚历史脉络与文化理解的纯量化模型，极易导致对复杂异质文明教育现实的浅薄误读。
+> - 1960 年代[[Positivism|实证主义]]与社会科学定量化浪潮兴起时，以诺亚（[[Harold Noah]]）和安德森（[[C. Arnold Anderson]]）为代表的计量学者曾批评埃格特森等传统学者的方法过于侧重史料爬梳与叙事性描述，缺乏严谨的假设检验与量化[[Variable|变量]]控制；但埃格特森坚持认为，剥离了深厚历史脉络与文化理解的纯量化模型，极易导致对复杂异质文明教育现实的浅薄误读。
 
 ---
 

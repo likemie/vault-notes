@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 20
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -28,7 +28,6 @@ tags:
 related_concepts:
   - "[[Engineering Education]]"
   - "[[Competitiveness]]"
-  - "[[Hypothesis]]"
   - "[[Feedback]]"
   - "[[Paradigm]]"
   - "[[Falsification]]"
@@ -43,7 +42,6 @@ related_methods:
   - "[[Statistical Process Control]]"
   - "[[Questionnaire]]"
   - "[[Triangulation]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Matching]]"
 related_instruments: []
 related_persons:
@@ -55,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Competitive Semiconductor Manufacturing Program
@@ -78,7 +76,7 @@ updated: 2026-10-07
 ## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
-> 项目[[Hypothesis|假设]]半导体制造的国际[[Competitiveness|竞争力]]差距根源于微观工程实践、[[Statistical Process Control|统计过程控制]]与组织学习能力的差异，而非不可逾越的国家文化或单一自动化设备投资；通过建立标准化的工厂层级度量与缺陷密度归一化模型，能够精准量化工艺排障效率与管理机制对晶圆良率的边际贡献。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 114–117)]]
+> 项目假设半导体制造的国际[[Competitiveness|竞争力]]差距根源于微观工程实践、[[Statistical Process Control|统计过程控制]]与组织学习能力的差异，而非不可逾越的国家文化或单一自动化设备投资；通过建立标准化的工厂层级度量与缺陷密度归一化模型，能够精准量化工艺排障效率与管理机制对晶圆良率的边际贡献。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 114–117)]]
 
 > [!policy-design]- 方案设计与测量规程
 > - **项目目标** 建立全球半导体制造绩效（良率、缺陷密度、制造周期、设备综合效率、直接劳动生产率）的客观基准数据库，为[[Engineering Education|工程教育]]改革与产业运营优化提供实证支撑。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 115–116)]]
@@ -111,7 +109,7 @@ updated: 2026-10-07
 > - **高校研究生与青年学者团队** 选拔跨学科博士生深度参与驻厂调研与数据清洗，为全美高校培养了一批兼通微电子技术与现代运营管理的复合型工程领军人才。
 
 > [!pathways]- 调研路径与数据保护机制
-> - **严格保密与非公开数据脱敏协议** 为打消直接市场竞争企业对工艺诀窍泄露的顾虑，CSM 项目制定了严密的双盲[[Coding in Qualitative Research|编码]]与数据脱敏规则，所有对外发布的图表均进行类别化匿名处理。
+> - **严格保密与非公开数据脱敏协议** 为打消直接市场竞争企业对工艺诀窍泄露的顾虑，CSM 项目制定了严密的双盲编码与数据脱敏规则，所有对外发布的图表均进行类别化匿名处理。
 > - **工程实地校准与回访机制** 研究团队坚持必须亲临洁净室现场核验数据采集流程，杜绝纯案头[[Questionnaire|问卷]]带来的虚假汇报偏差。
 > - **学术成果向产学双向反馈** 定期向参与企业提交个性化标杆对标诊断报告，同时提炼具有共性的制造科学原理向全行业公开发表。
 
@@ -159,7 +157,7 @@ updated: 2026-10-07
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Industrial Benchmarking]] | Method | CSM 项目所采用并大幅拓展的核心微观产线标杆测算方法。 |
-> | [[Technology Driver Hypothesis]] | Concept | CSM 项目通过跨国晶圆良率实证数据予以系统[[Falsification\|证伪]]的传统行业[[Hypothesis\|假设]]。 |
+> | [[Technology Driver Hypothesis]] | Concept | CSM 项目通过跨国晶圆良率实证数据予以系统[[Falsification\|证伪]]的传统行业假设。 |
 > | [[Total Quality Management]] | Concept | CSM 项目在调研中系统评估的晶圆厂核心工程质量管理[[Paradigm\|范式]]。 |
 > | [[Statistical Process Control]] | Method | CSM 测算中美国晶圆厂缩小与日本良率差距的核心工程诊断工具。 |
 > | [[Cost of Ownership]] | Concept | 与 CSM 制造生产率模型相呼应的半导体设备全生命周期经济模型。 |

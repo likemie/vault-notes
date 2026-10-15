@@ -4,14 +4,13 @@ aliases: ["研究议题", "research problems"]
 summary: "学术研究中引导研究需求的难题或议题，区别于通过数据来回答的研究问题句（research questions），可来自个人经验、文献争论或政策讨论"
 type: concept
 domain: "research-methodology"
-related_count: 7
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
 tags: [method/research-process, source/textbook]
 related_concepts:
   - "[[Research Question]]"
-  - "[[Document]]"
   - "[[Variable]]"
 related_theories: []
 related_methods:
@@ -25,7 +24,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-10-15
 ---
 
 # Research Problem
@@ -47,7 +46,7 @@ updated: 2026-05-31
 [[Research Question|研究问题]]可以来自多种途径（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]], 第5章）：
 
 - **个人经验与职场经历** 研究者在个人生活或工作中遇到的实际困境
-- **[[Document|文献]]中的争论** 学术文献中的争议往往揭示了研究空白、需要解决的对立观点或需要扩展的讨论
+- **文献中的争论** 学术文献中的争议往往揭示了研究空白、需要解决的对立观点或需要扩展的讨论
 - **政策讨论** 政府或高层决策者之间的政策辩论
 
 > [!note]-
@@ -59,7 +58,7 @@ updated: 2026-05-31
 
 Creswell & Creswell（2022, 第5章）指出了陈述[[Research Question|研究问题]]时容易出现的几个问题：
 
-1. **混淆"现状"与"问题"** 研究者常常只描述[[Document|文献]]中存在的现象，而非识别需要解决的真正问题。例如，引用青少年怀孕的普遍性数据只是在陈述事实；真正的问题可能是"学校在接纳怀孕青少年方面做得很差"。
+1. **混淆"现状"与"问题"** 研究者常常只描述文献中存在的现象，而非识别需要解决的真正问题。例如，引用青少年怀孕的普遍性数据只是在陈述事实；真正的问题可能是"学校在接纳怀孕青少年方面做得很差"。
 
 2. **研究问题不明确** 当作者没有清晰识别研究问题时，读者只能自己判断研究的重要性。如果一项研究开篇就没有明确的问题，读者可能会质疑其研究价值，甚至放弃阅读。
 
@@ -107,7 +106,7 @@ Creswell & Creswell（2022, 第5章）提供了以下操作建议：
 - 考虑使用数字信息增强影响力
 - 清晰识别引导研究的[[Research Question|研究问题]]
 - 自我检查："是否有明确的句子传达了研究问题？"
-- 通过引用大量参考[[Document|文献]]说明问题的重要性（建议第一页至少引用十几条参考文献）
+- 通过引用大量参考文献说明问题的重要性（建议第一页至少引用十几条参考文献）
 - 确保问题的框架与研究路径一致
 - 考虑并识别一个或多个引导研究需求的问题
 

@@ -27,7 +27,6 @@ related_concepts:
   - "[[Domain Specificity]]"
   - "[[Measurement Alignment]]"
   - "[[Examination-Oriented Education]]"
-  - "[[Document]]"
   - "[[Sampling Error]]"
   - "[[Epistemological Beliefs]]"
   - "[[Epistemic Aims]]"
@@ -53,7 +52,6 @@ related_concepts:
   - "[[Academic Engagement]]"
   - "[[Student Engagement]]"
   - "[[Interaction Effect]]"
-  - "[[Hypothesis]]"
   - "[[Formative Assessment]]"
   - "[[Learner Autonomy]]"
   - "[[Champ]]"
@@ -72,7 +70,6 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Three-Level Meta-Analysis]]"
   - "[[Meta-analysis]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Qualitative Codebook]]"
   - "[[Sample Size Determination]]"
   - "[[Standard Error]]"
@@ -110,7 +107,7 @@ title: "Argument_Song_Choi_2026_FPSYG"
 argument_key: "Argument_Song_Choi_2026_FPSYG"
 argument_display_title: "A three-level meta-analysis of the association between students’ epistemic cognition and learning outcomes in South Korea"
 argument_kind: "journal-article"
-argument_related_count: 72
+argument_related_count: 69
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -134,7 +131,7 @@ issuing_organization: ""
 
 > [!concept-lens] 阅读透镜
 > - **对象** 韩国 K-12 阶段（小学、初中、高中）中小学生群体及 18 项量化实证研究中的 512 个相关效应量，覆盖 6,312 名韩国学生。
-> - **张力** 普遍主义发展模型（认知成熟度随年龄与受教育阶段单调递增）与东亚[[Examination-Oriented Education\|应试教育]]生态（高学段高压应试与补习刷题阻断高阶认知转化）之间的现实张力；西方实证[[Document\|文献]]强调的“测量颗粒度对齐法则与高阶认知特异性”与东亚全域性“修养与努力文化”之间的跨文化张力。
+> - **张力** 普遍主义发展模型（认知成熟度随年龄与受教育阶段单调递增）与东亚[[Examination-Oriented Education\|应试教育]]生态（高学段高压应试与补习刷题阻断高阶认知转化）之间的现实张力；西方实证文献强调的“测量颗粒度对齐法则与高阶认知特异性”与东亚全域性“修养与努力文化”之间的跨文化张力。
 > - **贡献** 首次在非西方/东亚特定文化背景下采用[[Three-Level Meta-Analysis\|三层元分析]]模型，彻底克服了单项研究报告多个效应量造成的统计依赖性；精确分解了[[Sampling Error\|抽样误差]]、研究内变异与研究间变异，不仅提供了东亚情境的元分析基准值，而且通过“学段倒挂”和“全成果类型均一促进”深化了认识论认知的文化情境理论。
 
 ---
@@ -154,14 +151,14 @@ issuing_organization: ""
 > [!theory-boundary] 概念隔离：认识论认知 vs. 智力内隐观与建构主义
 > - **认识论认知 (Epistemic Cognition)** 旨在探究个体如何界定知识的本质（确定性、简单性）以及认识与证成的过程（来源、证据评估）。
 > - **智力内隐观 ([[Growth Mindset\|Implicit Theories of Intelligence]])** 侧重于个体对自身认知能力是固定实体还是可增进潜能的信念（如学习能力与学习速度）。
-> - **建构主义学习观 (Constructivist Learning)** 侧重于个体对学习活动是主动意义建构还是被动接受灌输的理解。本研究对这三类构念进行了明确的[[Coding in Qualitative Research\|编码]]分类。
+> - **建构主义学习观 (Constructivist Learning)** 侧重于个体对学习活动是主动意义建构还是被动接受灌输的理解。本研究对这三类构念进行了明确的编码分类。
 
 > [!warrant]- 理论如何支撑论证
 > 论文通过梳理上述理论模型，将模型所涵盖的具体构念（知识本质、认识本质、学习本质）作为[[Meta-analysis\|元分析]]的调节[[Variable\|变量]]，验证哪类理论构念在东亚情境下对学习成果最具预测力；同时结合文化情境理论，解释宏观教育体制与微观认知发展之间的互动机制。
 
 ### 核心变量与操作化编码表
 
-> [!index-table] 认识论认知与学习成果[[Operationalization\|操作化]]定义与[[Coding in Qualitative Research\|编码]]规程
+> [!index-table] 认识论认知与学习成果[[Operationalization\|操作化]]定义与编码规程
 > | [[Variable\|变量]]维度与分类 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
 > | **知识本质：确定性**<br>（Certainty） | 个体对知识是否固定、绝对且不随证据修正的信念；成熟取向将知识理解为暂时、可发展并可修正。 | 采用 Schommer、Hofer 等理论传统下的认识论信念问卷，以双极量表或独立分量表测量；纳入 Bak & Chai (2006)、Choi (2019)、Kim & Yun (2009)、Yu (2020) 等研究。 |
@@ -192,12 +189,12 @@ issuing_organization: ""
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **[[Document\|文献]]样本** | 18 项韩国 K-12 阶段量化实证研究，共包含 512 个相关[[Effect Size\|效应量]]，发表年份跨越 2001–2025 年。 |
+> | **文献样本** | 18 项韩国 K-12 阶段量化实证研究，共包含 512 个相关[[Effect Size\|效应量]]，发表年份跨越 2001–2025 年。 |
 > | **学生样本** | 涵盖小学（49 个效应量）、初中（251 个效应量）、高中（188 个效应量）共 6,312 名韩国中小学生。 |
 > | **构念与成果** | 涵盖 9 大认识论构念（确定性、简单性、来源、确证、速度、能力、[[Rote Learning\|死记硬背]]等）与 4 类学习成果（高阶认知 184 个、低阶认知 55 个、动机情感 109 个、自我调节 164 个）。 |
 > | **测量工具** | 认识论测量包含双极量表（248 个效应量）与独立分量表（264 个效应量）；领域通用测量 81 个效应量，领域/内容特异测量 427 个效应量（涵盖数学、科学、社会学科等）。 |
 
-> [!index-table]- 表 1：[[Variable\|变量]][[Coding in Qualitative Research\|编码]]与数据提取指标
+> [!index-table]- 表 1：[[Variable\|变量]]编码与数据提取指标
 > | 类别 (Category) | 编码指标 (Codes) |
 > |---|---|
 > | **学段与年级**<br>(School level & Grade) | 1. 学段：小学 (Elementary)、初中 (Middle)、高中 (High)、初高中混合 (Mixed)<br>2. 年级：小学 4–6 年级、小学 6 年级、初一 (7th)、初中 7–9 年级、初高中 7–12 年级、初二 (8th)、高一 (10th)、高二 (11th)、高三 (12th) |
@@ -303,7 +300,7 @@ issuing_organization: ""
 > - **三层随机效应方差解构** 采用[[Hierarchical Linear Model\|多层线性模型]]架构将总变异解构为三个独立来源：第一层为[[Sampling Error\|抽样误差]]方差（Level 1 占 7.54%）；第二层为同一研究内部不同效应量之间的变异（Level 2, $	au_{(2)}^2 = 0.015$，占 35.82%）；第三层为不同研究之间的真实[[Heterogeneity\|异质性]]（Level 3, $	au_{(3)}^2 = 0.024$，占 56.64%）。
 > - **对数似然比检验（LRT）确证** 模型拟合对比检验显示，三层模型相比传统二层模型在统计上呈现断崖式改善（$\chi^2 = 261.06, p < 0.001$），总变异中高达 92.46% 属于真实的系统性异质性。
 
-> [!example]- 图 1：[[Document\|文献]]筛选流程图（PRISMA [[Flow]] Diagram）
+> [!example]- 图 1：文献筛选流程图（PRISMA [[Flow]] Diagram）
 > ![](https://img.mylikemie.icu/sources/Song_Choi_2026_FPSYG/figures/Song_Choi_2026_FPSYG_Fig1_Literature_Search_Flow_Diagram.jpg)
 
 > [!ma-table]- 表 4：三层元分析模型与方差分解结果
@@ -344,7 +341,7 @@ issuing_organization: ""
 ### 步骤三：关键调节效应与各学段发展机制深度剖析
 
 > [!claim] 学段呈现断崖式“倒挂”调节特征，揭示了东亚应试体制对高阶认知的制度性压制
-> 学段是[[Interaction Effect\|调节效应]]量变异的最关键宏观变量（$F(2, 485) = 5.683, p = 0.003$）；小学阶段相关强度（$r = 0.375$）大幅跃升，而初中（$r = 0.142$）与高中（$r = 0.157$）显著衰退，颠覆了西方发展模型中“认知效能随学段单调递增”的经典[[Hypothesis\|假设]]。
+> 学段是[[Interaction Effect\|调节效应]]量变异的最关键宏观变量（$F(2, 485) = 5.683, p = 0.003$）；小学阶段相关强度（$r = 0.375$）大幅跃升，而初中（$r = 0.142$）与高中（$r = 0.157$）显著衰退，颠覆了西方发展模型中“认知效能随学段单调递增”的经典假设。
 
 > [!chain-link] 证据到判断
 > - **小学阶段的强预测力** 小学样本（$k = 49$）的加权效应量高达 $r = 0.375$（$95\%\text{ CI } [0.262, 0.477], z = 6.144, p < 0.001$），显著高出初高中两倍以上。

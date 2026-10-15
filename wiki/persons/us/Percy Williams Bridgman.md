@@ -10,7 +10,7 @@ summary: "美国实验物理学家与科学哲学家，1946年诺贝尔物理学
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 10
+person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -30,7 +30,6 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
-  - "[[Alfred Nobel]]"
   - "[[J. Robert Oppenheimer]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
@@ -41,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Percy Williams Bridgman
@@ -51,7 +50,7 @@ updated: 2026-10-08
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 珀西·威廉斯·布里奇曼（Percy Williams Bridgman, 1882–1961）是美国实验物理学家、哈佛大学教授，1946 年[[Alfred Nobel|诺贝尔]]物理学奖获得者，操作主义（Operationalism）科学哲学流派的开创者。
+> - **身份位置** 珀西·威廉斯·布里奇曼（Percy Williams Bridgman, 1882–1961）是美国实验物理学家、哈佛大学教授，1946 年诺贝尔物理学奖获得者，操作主义（Operationalism）科学哲学流派的开创者。
 > - **核心角色** 在物理学上开创高压物理学领域，在科学哲学上主张概念必须由具体测量操作来界定；在科技伦理上系统阐述了科学探索独立于道德评判的非道德（Amoral）[[Objectivism|客观主义]]立场。
 > - **代表贡献** 奠定高压物理学测量技术；提出操作主义[[Epistemology|认识论]]；其关于科学家不承担自然事实道德责任的论断，成为剖析现代工程师技术中立与道德超然心理的经典案例。
 
@@ -69,7 +68,7 @@ updated: 2026-10-08
 > - **1900–1908** 就读于哈佛大学，先后获得学士、硕士及物理学博士学位。
 > - **1908–1954** 终身任教于哈佛大学物理学系，指导包括J. [[J. Robert Oppenheimer|罗伯特·奥本海默]]（J. Robert Oppenheimer）在内的多位杰出物理学家。
 > - **1927** 出版《现代物理学的逻辑》（*The Logic of Modern Physics*），系统提出操作主义科学哲学。
-> - **1946** 获[[Alfred Nobel|诺贝尔]]物理学奖，表彰其在高压物理学领域的发明与发现。
+> - **1946** 获诺贝尔物理学奖，表彰其在高压物理学领域的发明与发现。
 > - **1961** 逝世于新罕布什尔州伦道夫。
 
 ---

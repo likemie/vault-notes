@@ -13,7 +13,7 @@ aliases:
 summary: "教育心理学与教学干预研究中指称学生情感领域可观测、可测量产出的操作化概念，涵盖自信心、学科态度、内在动机与一般学习感知等非认知结果变量。理论渊源根植于 Krathwohl 等人（1964）的情感分类学，与学业成就、高阶思维构成学习产出的三大支柱；实证研究表明其在合作学习中具有稳健正向响应（ES = 0.51），但受学科与测量工具影响具有高度情境依赖性。"
 type: concept
 domain: "educational-psychology"
-related_count: 35
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Cooperative Learning]]"
   - "[[Generative Artificial Intelligence]]"
-  - "[[Document]]"
   - "[[Heterogeneity]]"
   - "[[Problem Solving]]"
   - "[[Metacognition]]"
@@ -67,7 +66,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Affective Outcomes
@@ -82,7 +81,7 @@ updated: 2026-10-07
 > [!concept-lens] 概念透镜
 > - **含义** 指向学生在非认知层面的态度、情感体验与动力状态，与关注事实记忆的低阶[[Academic Achievement\|学业成就]]及分析批判的[[Higher-Order Thinking Skills\|高阶思维]]共同构成完整的全人学习结果谱系。
 > - **用途** 帮助研究者超越单纯认知分数的局限，评估教学干预（如[[Cooperative Learning\|合作学习]]、[[Generative Artificial Intelligence\|生成式人工智能]]）对学生学习兴趣、学科认同与心理赋能的长效机制。
-> - **边界** 在实证[[Document\|文献]]中通常作为数据驱动的操作化分类，其具体内涵受限于各研究采用的[[Questionnaire\|问卷]]与量表指标；不同子维度之间[[Heterogeneity\|异质性]]显著，不能简单等同于单一的同质心理特质。
+> - **边界** 在实证文献中通常作为数据驱动的操作化分类，其具体内涵受限于各研究采用的[[Questionnaire\|问卷]]与量表指标；不同子维度之间[[Heterogeneity\|异质性]]显著，不能简单等同于单一的同质心理特质。
 
 > [!boundary]- 概念边界
 > - 不等于**精神运动域产出（Psychomotor Outcomes）**——精神运动产出聚焦身体动作、实验操作与体能技能表现，属于动作技能领域。

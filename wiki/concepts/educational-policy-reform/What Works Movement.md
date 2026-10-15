@@ -9,7 +9,7 @@ aliases:
 summary: "20世纪末兴起于英美澳等国的公共治理与教育改革运动，主张以因果推断量化证据识别有效干预，依托法定知识中介组织转化证据，重塑公共财政配置与专业实践。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 61
+related_count: 59
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -33,8 +33,6 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Knowledge Mediation]]"
   - "[[Business as Usual]]"
-  - "[[Document]]"
-  - "[[Attrition]]"
   - "[[Professional Judgment]]"
   - "[[Return on Investment]]"
   - "[[Research-Practice Gap]]"
@@ -90,7 +88,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-06
-updated: 2026-10-03
+updated: 2026-10-15
 ---
 
 # What Works Movement
@@ -125,8 +123,8 @@ updated: 2026-10-03
 > | 比较维度 | 英国 [[Education Endowment Foundation\|教育捐赠基金会]]（EEF） | 美国 [[What Works Clearinghouse\|什么样的有效清算所]]（WWC） | 澳大利亚 [[Australian Education Research Organisation\|教育研究组织]]（AERO） |
 > |:---|:---|:---|:---|
 > | **成立时间与法定性质** | 2011 年成立；独立慈善信托基金（由[[Sutton Trust\|萨顿信托]]联合教育捐赠创设，获政府 1.25 亿英镑注资）。 | 2002 年依据《教育科学改革法案》（ESRA）成立；属联邦教育部 [[Institute of Education Sciences\|IES]] 直属官方评估平台。 | 2020 年由联邦与各州政府联合资助成立；全国性独立教育证据中介实体。 |
-> | **运作机制与资助权限** | **资助者与评估委托者** 直接资助学校项目并强制委托独立专家库进行 [[Randomised Controlled Trials\|RCT]] 评估。 | **证据审查与评级中心** 自身通常不直接资助试验，专门对公开发表的[[Document\|文献]]进行质量筛选评级。 | **知识转化与标准制定者** 聚焦将高阶证据合成为实践指南，参与国家教师培养标准。 |
-> | **评估独立性规约** | **极高规约** 强制签署三方资助协议，随机化、主数据采集与报告撰写全由独立评估者完成（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 50–51]]）。 | **技术导向规约** 主要审查研究设计指标（[[Attrition\|流失]]率等），未对研发者经济与人事依附做刚性隔离。 | **倡导型规约** 强调证据透明度与方法学严格性，依赖外部同行评议与[[Meta-analysis\|元分析]]。 |
+> | **运作机制与资助权限** | **资助者与评估委托者** 直接资助学校项目并强制委托独立专家库进行 [[Randomised Controlled Trials\|RCT]] 评估。 | **证据审查与评级中心** 自身通常不直接资助试验，专门对公开发表的文献进行质量筛选评级。 | **知识转化与标准制定者** 聚焦将高阶证据合成为实践指南，参与国家教师培养标准。 |
+> | **评估独立性规约** | **极高规约** 强制签署三方资助协议，随机化、主数据采集与报告撰写全由独立评估者完成（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 50–51]]）。 | **技术导向规约** 主要审查研究设计指标（流失率等），未对研发者经济与人事依附做刚性隔离。 | **倡导型规约** 强调证据透明度与方法学严格性，依赖外部同行评议与[[Meta-analysis\|元分析]]。 |
 > | **核心决策转化载体** | [[EEF Teaching and Learning Toolkit\|教学与学习工具包]]：将效应量通俗转化为“额外学习月数”与成本星级。 | Practice Guides 与 Intervention Reports：提供循证干预评级索引（从无保留到达标）。 | Evidence Guides 与 Practice Rubrics：围绕显性教学等核心教学法输出实操规程。 |
 > | **与教师[[Professional Judgment\|专业判断]]关系** | 工具包作为“指导罗盘”，强调教师依据学校情境裁量；深入推进基层[[Research Schools Network\|研究学校网络]]。 | 早期与高利害问责直接挂钩，受到技术官僚化批评；近年逐步增强实践指导弹性。 | 深度介入职前教师教育与国家督导标准，面临侵蚀教师专业自主权的学术争鸣（[[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 4–6]]）。 |
 
@@ -210,7 +208,7 @@ updated: 2026-10-03
 > | [[Output-Oriented Governance\|循证治理]]体系 | 核心政策机构 / 载体 | 动员规模与覆盖广度 | 核心实证参数与成效产出 | 方法学与制度特色 | 核心实证来源 |
 > |:---|:---|:---|:---|:---|:---|
 > | **英国循证改革体系** | [[Education Endowment Foundation\|EEF]] / [[What Works Network\|WWN]] | 资助逾 **200 项**现场试验；动员全英 **50% 以上**的中小学校；涵盖逾 160 万名学生。 | 仅少量项目实现统计显著正效应；商业干预中位效应量 **$d = 0.06$**；**85%** 试验获 3+ 安全挂锁。 | 强制三方资助协议；对接[[National Pupil Database\|国家学生数据库]] NPD 统考；绑定定性[[Implementation and Process Evaluation\|过程评估]]（IPE）。 | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 47–56]]；White, 2019 |
-> | **美国联邦循证体系** | [[Institute of Education Sciences\|IES]] / [[What Works Clearinghouse\|WWC]] | 覆盖全美教育科学改革法案（ESRA）与 [[Every Student Succeeds Act\|ESSA]] 资助；设立 10 余个区域教育实验室。 | 审查数万篇[[Document\|文献]]；获得“无保留达标”（Meets Without Reservations）认证比例不足 **20%**。 | 严苛的方法学技术审查；早期侧重[[Internal Validity\|内部效度]]；受资助者自聘评估导致部分 [[Quasi-Experimental Designs\|QED]] 妥协。 | Boulay et al., 2018；[[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 11–15]] |
+> | **美国联邦循证体系** | [[Institute of Education Sciences\|IES]] / [[What Works Clearinghouse\|WWC]] | 覆盖全美教育科学改革法案（ESRA）与 [[Every Student Succeeds Act\|ESSA]] 资助；设立 10 余个区域教育实验室。 | 审查数万篇文献；获得“无保留达标”（Meets Without Reservations）认证比例不足 **20%**。 | 严苛的方法学技术审查；早期侧重[[Internal Validity\|内部效度]]；受资助者自聘评估导致部分 [[Quasi-Experimental Designs\|QED]] 妥协。 | Boulay et al., 2018；[[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 11–15]] |
 > | **澳大利亚循证体系** | [[Australian Education Research Organisation\|AERO]] | 联动联邦与 8 个州/领地教育行政部门；覆盖全国公立学校与教师培养机构。 | 输出覆盖显性教学、[[Formative Assessment\|形成性评估]]等核心实践指南；驱动职前教师教育认证改革。 | 强调证据在国家标准中的[[Disciplina and Doctrina\|规训]]作用；受到学术界关于侵蚀[[Professional Judgment\|专业判断力]]的方法论争鸣。 | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, pp. 1–6]] |
 
 ---

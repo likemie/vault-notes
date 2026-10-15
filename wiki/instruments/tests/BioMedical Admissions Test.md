@@ -8,7 +8,7 @@ aliases:
 summary: "由剑桥大学考评部研发的高利害医学与生物医学本科入学选拔考试，其第一模块思维技能通过32道情境题系统测度问题解决与批判性思维。"
 type: instrument
 instrument_type: test
-instrument_related_count: 7
+instrument_related_count: 6
 instrument_related_level: 1
 instrument_related_stars: "⭐"
 instrument_related_color: "#dbeafe"
@@ -28,7 +28,6 @@ tags:
   - medical-admission
 related_concepts:
   - "[[Critical Thinking]]"
-  - "[[Hypothesis]]"
   - "[[Problem Solving]]"
 related_theories: []
 related_methods:
@@ -43,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-09-15
+updated: 2026-10-15
 ---
 
 # BioMedical Admissions Test
@@ -67,7 +66,7 @@ updated: 2026-09-15
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
 > |---|---|---|---|
-> | **批判性思维（Critical Thinking）** | 16 题 | 识别核心结论、辨析未言明[[Hypothesis\|假设]]、评估对立论据影响、识别推理漏洞与平行论证。 | 机器阅卷标定分（1.0–9.0 量表分） |
+> | **批判性思维（Critical Thinking）** | 16 题 | 识别核心结论、辨析未言明假设、评估对立论据影响、识别推理漏洞与平行论证。 | 机器阅卷标定分（1.0–9.0 量表分） |
 > | **[[Problem Solving\|问题解决]]（Problem Solving）** | 16 题 | 定量推理、空间几何分析、[[Data Transformation\|数据转换]]、寻找最优决策路径。 | 机器阅卷标定分（1.0–9.0 量表分） |
 > | **科学知识与应用（Section 2）** | 27 题 | 中等阶段生物、化学、物理与数学知识的综合运用。 | 机器阅卷标定分（1.0–9.0 量表分） |
 > | **写作与论证沟通（Section 3）** | 1 篇小论文 | 针对科学、哲学或医学伦理命题构建清晰立论、辨析正反论据并得出合逻辑结论。 | 专家量规打分（内容分 1–5 分 + 语言分 A–E 级） |

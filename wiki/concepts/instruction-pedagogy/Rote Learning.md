@@ -8,10 +8,10 @@ aliases:
 summary: "指单纯依赖机械重复与表层记忆、缺乏深层因果推论与概念重构的认知加工方式。在现代认知心理学与教育测量中构成程序性知识习得的低阶层级，而在跨文化教育研究中，其与理解的非二元对立关系构成了理解东亚学习者成就悖论的关键。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 42
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 39
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/memorization
   - theme/deep-learning
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Chinese Learner]]"
   - "[[Recontextualization]]"
   - "[[Source of Knowledge]]"
-  - "[[Hypothesis]]"
   - "[[Concept Mapping]]"
   - "[[Surface and Deep Learning]]"
   - "[[Virtue-Oriented Learning Process]]"
@@ -45,12 +44,10 @@ related_concepts:
   - "[[Epistemic Agency]]"
   - "[[Dependent Variable]]"
   - "[[Variable]]"
-  - "[[Document]]"
 related_theories:
   - "[[Social Realism]]"
   - "[[Phenomenology]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
   - "[[Meta-analysis]]"
@@ -68,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-25
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Rote Learning
@@ -81,7 +78,7 @@ updated: 2026-10-07
 > 死记硬背（Rote Learning，亦称机械学习、机械记忆 Rote Memorization）是指个体通过字面重复、机械背诵和算法式程序套用，将孤立的事实、公式或规程储存于记忆中，而不寻求建立深层逻辑联系、因果机制推论或[[Epistemology\|认识论]]确证的表层认知加工模式。在现代认知心理学与教育测量中，它被视为认知加工层级的低阶产物；而在跨文化比较研究中，它构成了探讨东亚学习者“记忆与理解”关系以及解释[[Paradox of the Chinese Learner\|中国学习者悖论]]的核心争议议题。[[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 136–139)]]; [[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 488, 492)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向缺乏因果解释意图的浅层信息[[Coding in Qualitative Research\|编码]]。西方二[[Metacognition\|元认知]][[Discourse|话语]]长期将其定性为理解的直接对立面；但在东亚儒家文化认知中，重复性记忆往往被界定为通往高阶理解的初始“[[Familiarization\|熟悉化]]”台阶。
+> - **含义** 指向缺乏因果解释意图的浅层信息编码。西方二[[Metacognition\|元认知]][[Discourse|话语]]长期将其定性为理解的直接对立面；但在东亚儒家文化认知中，重复性记忆往往被界定为通往高阶理解的初始“[[Familiarization\|熟悉化]]”台阶。
 > - **用途** 诊断课堂教学是停留在程序操练还是促进了概念转变；解释为何[[Epistemic Cognition\|认识论认知]]干预能大幅提升高阶论证能力，却对常规考卷中的机械套用完全脱节。
 > - **边界** 必须严格区分纯粹为记忆而记忆的机械死记，与以追求深层理解为终极导向的“温故知新”式重复性内化；同时不能借反对死记硬背而走向极端[[Constructivist Paradigm\|建构主义]]，否定学科系统概念知识的传承价值。
 
@@ -102,7 +99,7 @@ updated: 2026-10-07
 > [!contrast-table] 机械记忆、有意义接受学习与探究式概念理解对比
 > | 维度 | 机械记忆（Rote Learning） | 有意义接受学习（Meaningful Learning） | 探究式概念理解（Inquiry Understanding） |
 > |---|---|---|---|
-> | **认知加工深度** | 表层孤立存储、字面复述与算法套用 | 将新知识与认知结构中已有概念建立非人为联系 | 依据经验证据自主检验[[Hypothesis\|假设]]并重构因果模型 |
+> | **认知加工深度** | 表层孤立存储、字面复述与算法套用 | 将新知识与认知结构中已有概念建立非人为联系 | 依据经验证据自主检验假设并重构因果模型 |
 > | **知识本质信念** | 视知识为现成、绝对且零散的权威清单 | 视知识为逻辑严密的客观概念网络 | 视知识为动态演进、依赖证据证成的解释体系 |
 > | **典型学习行为** | 机械抄写、刷套路题、临考突击背诵 | 绘制[[Concept Mapping\|概念图]]、精细化自我解释、类比迁移 | 设计受控实验、评估相左证据、协同论辩 |
 > | **对[[Epistemology\|认识论]]干预的敏感度** | 完全不敏感（[[Effect Size\|效应量]]接近于零） | 中度敏感 | 极度敏感（效应量达大幅促进水平） |
@@ -248,7 +245,7 @@ updated: 2026-10-07
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Li_2012_Cambridge\|Li (2012)]]<br>（引述 Marton 团队研究） | 中国香港中学生群体 | 质性[[Phenomenology\|现象学]]深度访谈 | 记忆与理解的主观关系认知 | 学生普遍报告通过反复背诵“每次重复均能产生新的理解”，记忆被作为通往深层理解的手段 | 质性现象学一致共识 | 揭示东亚文化语境中重复记忆的积极认知建构功能，推翻单纯表层死记[[Hypothesis\|假设]] |
+> | [[Argument_Li_2012_Cambridge\|Li (2012)]]<br>（引述 Marton 团队研究） | 中国香港中学生群体 | 质性[[Phenomenology\|现象学]]深度访谈 | 记忆与理解的主观关系认知 | 学生普遍报告通过反复背诵“每次重复均能产生新的理解”，记忆被作为通往深层理解的手段 | 质性现象学一致共识 | 揭示东亚文化语境中重复记忆的积极认知建构功能，推翻单纯表层死记假设 |
 > | 同上<br>（引述跨国比较研究） | 越南与德国中学生对比 | [[Questionnaire\|问卷调查]]与相关分析 | 重复性学习与[[Surface and Deep Learning\|深层学习]]策略的关联 | 越南学生中重复学习与深层策略呈高度显著正相关；德国学生中相关近乎为零 | 跨国组间差异高度显著 | 确证重复性学习对东亚文化背景学习者而言具有不同于西方模式的深层中介意义 |
 
 ---
@@ -256,7 +253,7 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - **[[Argument_Li_2012_Cambridge\|Li (2012)]]** — 系统剖析西方观察者对东亚学习者重复记忆行为的四大认知谬误，结合拉赫玛尼诺夫练琴案例[[Document\|文献]]，阐述东亚文化中“以记忆为手段达到理解”的深层认知机制。
+> - **[[Argument_Li_2012_Cambridge\|Li (2012)]]** — 系统剖析西方观察者对东亚学习者重复记忆行为的四大认知谬误，结合拉赫玛尼诺夫练琴案例文献，阐述东亚文化中“以记忆为手段达到理解”的深层认知机制。
 > - **[[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]]** — [[Epistemology\|认识论]]干预[[Meta-analysis\|元分析]]证实，认识论教学主要促进论证与概念理解，对考查死记硬背的[[Procedural Knowledge\|程序性知识]]无效；常规考卷聚焦机械记忆是导致测量不敏感的根源。
 > - **[[Argument_Greene_2018_JEP\|Greene et al. (2018)]]** — 大规模元分析确立[[Epistemological Beliefs\|认识论信念]]对概念与论证的显著预测力，实证证实其与底层程序性记忆的解耦。
 > - **[[Argument_McPhail_2023_JCS\|McPhail et al. (2023)]]** — 从[[Social Realism\|社会实在论]]视角批判课程改革将学科实体知识等同于过时死记硬背的虚无主义倾向，捍卫系统概念知识的教育价值。

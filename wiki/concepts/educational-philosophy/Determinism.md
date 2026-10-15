@@ -8,7 +8,7 @@ aliases:
 summary: "关于宇宙与人类行为根本特性的本体论假设，主张任何事件与行为均由先前条件与客观规律所决定，反对任性与偶然性；在现代科学与认识论演进中，经典钟表式因果决定论受到波普尔云状现实、刺猬与狐狸认知模型以及工程思维概率探索的深刻反思与超越。"
 type: concept
 domain: "educational-philosophy"
-related_count: 36
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -19,7 +19,6 @@ tags:
   - paradigm/positivist
   - theme/engineering-mindset
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
   - "[[Engineering Mindset]]"
@@ -33,7 +32,6 @@ related_concepts:
   - "[[Grand Theory]]"
   - "[[Heterogeneity]]"
   - "[[Emergence]]"
-  - "[[Document]]"
   - "[[Variable]]"
   - "[[Technological Republic]]"
   - "[[Double Hermeneutic]]"
@@ -63,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-09
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Determinism
@@ -73,7 +71,7 @@ updated: 2026-10-08
 ## 定义
 
 > [!def] 核心定义
-> **决定论（Determinism）**是科学信仰四大基本[[Hypothesis|假设]]之首，亦是社会科学主客观[[Analytic Framework|分析框架]]中关于“人性本质”的核心[[Ontology|本体论]]维度之一（Burrell & Morgan, 1979, p. 8）。该假设主张自然与社会世界中的一切事件和人类行为皆有其前因，是由先行的环境、生理或社会条件所决定的（events have causes, determined by other circumstances）；因果链条在原则上能够被经验探索所揭示与理解。决定论假定宇宙运作具有高度规则性而非反复无常，确立普适因果法则是经典科学实现对现象预测与控制（prediction and control）的终极基石。
+> **决定论（Determinism）**是科学信仰四大基本假设之首，亦是社会科学主客观[[Analytic Framework|分析框架]]中关于“人性本质”的核心[[Ontology|本体论]]维度之一（Burrell & Morgan, 1979, p. 8）。该假设主张自然与社会世界中的一切事件和人类行为皆有其前因，是由先行的环境、生理或社会条件所决定的（events have causes, determined by other circumstances）；因果链条在原则上能够被经验探索所揭示与理解。决定论假定宇宙运作具有高度规则性而非反复无常，确立普适因果法则是经典科学实现对现象预测与控制（prediction and control）的终极基石。
 > 
 > 在现代[[Epistemology|认识论]]与复杂性哲学视域下，[[Karl Popper|卡尔·波普尔]]（Karl Popper, 1965）将决定论的世界观隐喻为“一切皆为精密钟表”（All clouds are clocks），而将真实世界描述为高度不规则、湍流且充满不可预测性的“云团”（Clouds）。卡普与扎米斯卡（2025）进一步指出，执迷于单一宏大体系的“刺猬型”意识形态决定论在高度动态的现实云团面前必然破产，现代[[Engineering Mindset|工程思维]]与狐狸型认知必须打破机械决定论执念，转而建立在概率评估、现场实测与持续反馈修正的基础之上。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 15)]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 159–160)]]
 
@@ -175,7 +173,7 @@ updated: 2026-10-08
 ### 命题总览
 
 > [!contrast-table] 围绕决定论形成的理论命题总览
-> | 命题类型 | 核心主张 | 方法论机制 | 代表学者与[[Document\|文献]] |
+> | 命题类型 | 核心主张 | 方法论机制 | 代表学者与文献 |
 > |---|---|---|---|
 > | **前因决定可知命题** | 事件皆由前因决定且运作具有客观规律，因果法则赋予预测与控制能力 | 经验观察、[[Causal Modeling\|因果建模]]、法则归纳 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 15)]] |
 > | **环境塑造客体命题** | 人类是环境刺激与社会结构的机械反应产物，个体受制于既定角色 | 刺激-反应测量、角色分析、环境[[Variable\|变量]]控制 | Burrell & Morgan (1979); Skinner (1953) |
@@ -220,7 +218,7 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011)]] — 系统论述决定论作为科学第一[[Hypothesis|假设]]、Burrell & Morgan 人性维度木偶模型，以及[[Complexity Theory|复杂性理论]]对线性决定论的超越（pp. 8, 15, 29–31）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011)]] — 系统论述决定论作为科学第一假设、Burrell & Morgan 人性维度木偶模型，以及[[Complexity Theory|复杂性理论]]对线性决定论的超越（pp. 8, 15, 29–31）。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 结合波普尔云钟模型与[[Philip Tetlock|泰特洛克]]狐狸刺猬研究，论证克服意识形态决定论、践行工程实测[[Epistemology|认识论]]的制度价值（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14]]）。
 
 ---
@@ -231,7 +229,7 @@ updated: 2026-10-08
 >
 > | 条目 | 类型 | 关联与贡献 |
 > |:-----|:-----|:-----|
-> | [[Voluntarism]] | 概念 | 决定论在人性[[Hypothesis\|假设]]上的对立极，主张人具备自由意志并能能动改造环境。 |
+> | [[Voluntarism]] | 概念 | 决定论在人性假设上的对立极，主张人具备自由意志并能能动改造环境。 |
 > | [[Positivism]] | 概念 | 采纳决定论为其核心[[Ontology\|本体论]]预设，主张通过发现普遍因果法则实现预测与控制。 |
 > | [[Normative Paradigm]] | 概念 | 将决定论作为研究前提，主张人类行为在本质上受规则统治并由过去刺激决定。 |
 > | [[Complexity Theory]] | 理论 | 挑战简单的线性等比决定论，揭示确定性系统中的非线性混沌与[[Emergence\|涌现]]动力学。 |

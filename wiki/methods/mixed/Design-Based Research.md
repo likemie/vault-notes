@@ -12,7 +12,7 @@ summary: "以真实情境中的多轮迭代循环为核心的混合方法论：�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 41
+method_related_count: 40
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Paradigm]]"
   - "[[Ecological Validity]]"
-  - "[[Hypothesis]]"
   - "[[Problem Finding]]"
   - "[[Discourse]]"
   - "[[Theory of Knowledge]]"
@@ -73,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-12
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Design-Based Research
@@ -104,7 +103,7 @@ updated: 2026-10-07
 > - **[[Epistemology|认识论]]立场** 扎根于[[Pragmatic Paradigm|实用主义范式]]（Pragmatic [[Paradigm]]），强调知识的[[Ecological Validity|生态效度]]（Ecological Validity）与实践效用，主张通过改变现实来理解现实（Cobb et al., 2003, p. 10）。
 > - **研究者角色** 兼具干预设计者、促学协作者与理论建构者的复合角色，与一线教师和学习者紧密合作，深度介入情境而非保持冷眼旁观。
 > - **有效性标准** 强调理论的情境解释力、干预在生态情境中的可用性与可迁移性，而非实验室控制下的统计泛化性。
-> - **不声称回答的问题** 无法提供单一[[Hypothesis|假设]]的隔离因果检验；不适用于需要严格对照组与[[Random Assignment|随机化]]控制的传统假设检验。
+> - **不声称回答的问题** 无法提供单一假设的隔离因果检验；不适用于需要严格对照组与[[Random Assignment|随机化]]控制的传统假设检验。
 
 > [!method-stack] 方法层级
 > - **研究设计** 历时迭代循环设计：[[Problem Finding|问题界定]] $\rightarrow$ 原型开发 $\rightarrow$ 实境测试 $\rightarrow$ 机制分析 $\rightarrow$ 理论与设计再迭代（DBR Collective, 2003）。
@@ -145,7 +144,7 @@ updated: 2026-10-07
 > [!method-stack] [[Integration in Mixed Methods|混合方法整合]]设计
 > - **设计类型** 嵌入式[[Mixed Methods Research|混合方法]]（Embedded Mixed-Methods）与纵向历时追踪设计。
 > - **先后顺序** 质性互动观察与量化[[Discourse Analysis|话语分析]]同步并行，相互印证。
-> - **整合点** 将课堂质性微观[[Rich and Thick Description|深描]]（如师生对话、微实验）与量化[[Network Analysis|网络分析]]（如 SNA 回帖密度、BOOK 总结[[Coding in Qualitative Research|编码]]）在事件地图中进行互文整合（Intertextual Integration）。
+> - **整合点** 将课堂质性微观[[Rich and Thick Description|深描]]（如师生对话、微实验）与量化[[Network Analysis|网络分析]]（如 SNA 回帖密度、BOOK 总结编码）在事件地图中进行互文整合（Intertextual Integration）。
 > - **整合逻辑** 借助质性[[Ethnography|民族志]]呈现机制发生的生动情境与行动者意图，借助量化指标刻画全班[[Knowledge Building Theory|知识建构]]的广度与结构特征（[[Argument_Zhang_2022_SE|Zhang et al., 2022]]）。
 
 > [!feature] 设计研究生成的四类累积知识
@@ -156,7 +155,7 @@ updated: 2026-10-07
 
 > [!proc] DBR 产出的处方性设计原则范例：高校国家战略学者发展十项原则
 > 在针对大学半导体科研团队培育的多轮迭代研究中，DBR 最终沉淀出十项指导未来科研组织干预的具操作性原则：[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 6–7)]]
-> 1. **激发既有[[Hypothesis|假设]]反思** 设置促发批判性自省的活动，引导学者审视和质疑对既有[[Paradigm|研究范式]]、跨学科协作或自身专业边界的惯性假设。
+> 1. **激发既有假设反思** 设置促发批判性自省的活动，引导学者审视和质疑对既有[[Paradigm|研究范式]]、跨学科协作或自身专业边界的惯性假设。
 > 2. **实施灵活多元模态** 灵活统筹线上、线下与混合交付模式，平衡不同背景学者的日程与物理时空约束。
 > 3. **奠定坚实理论根基** 必须将学习科学理论作为专业发展活动与课程设计的首要架构支柱。
 > 4. **留足显性与有机社交时空** 在紧凑技术报告之外，预留充足且有保障的正式与非正式面对面网络拓展时间。
@@ -174,7 +173,7 @@ updated: 2026-10-07
 > [!method-fit] 适用判断
 > - **适合使用** 需要在真实复杂的课堂情境中开发、检验和精炼创新教学方案时；希望深入探究干预措施如何运作的微观机制时；旨在同时产出实用教学工具与情境化理论时。[[Argument_Zhang_2022_SE|(Zhang et al., 2022)]]
 > - **谨慎使用** 需要向非专业受众推导普遍性统计结论时（需明确阐述情境边界与可转移性条件）；研究时间与资源极为有限时（DBR 依赖长周期多轮迭代）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|(Cohen et al., 2011)]]
-> - **不适合使用** 仅需检验单一孤立[[Hypothesis|假设]]且要求严格控制所有无关[[Variable|变量]]的受控实验；仅需进行大规模现状普查而无干预意图的描述性研究。
+> - **不适合使用** 仅需检验单一孤立假设且要求严格控制所有无关[[Variable|变量]]的受控实验；仅需进行大规模现状普查而无干预意图的描述性研究。
 
 ---
 
@@ -183,8 +182,8 @@ updated: 2026-10-07
 > [!method-limits] 方法局限与应对策略
 > - **生态混淆[[Variable|变量]]与推论保证** 真实课堂中存在大量不可控的环境因素，如何证明成效确由设计干预带来而非其他变量导致？应对策略：采用长周期[[Process Tracing|过程追踪]]与多模态数据[[Triangulation|三角互证]]，呈现完整的因果链条（Shavelson et al., 2003, p. 25）。
 > - **推广性受限** 扎根于特定班级与学校文化的发现难以直接机械推广。应对策略：提供丰富厚密的描述（[[Rich and Thick Description|thick description]]），支持读者的[[Naturalistic Generalization|自然主义概括]]与情境迁移评估。
-> - **叙事循环与解释偏误** 研究者既是设计者又是评估者，容易陷入自我证实的循环论证。应对策略：引入双人独立[[Coding in Qualitative Research|编码]]检验、[[Reflexivity|反思性]]备忘录与外部[[Peer Debriefing|同行审议]]（Shavelson et al., 2003, p. 27）。
-> - **缺乏标准化失败判准** 工程设计具备明确的失效阈值，而教育设计往往对“局部失败”缺乏规范定义。应对策略：在研究设计中预先界定机制失效与[[Hypothesis|假设]]修正的判读规则（Sloane & Gorard, 2003）。
+> - **叙事循环与解释偏误** 研究者既是设计者又是评估者，容易陷入自我证实的循环论证。应对策略：引入双人独立编码检验、[[Reflexivity|反思性]]备忘录与外部[[Peer Debriefing|同行审议]]（Shavelson et al., 2003, p. 27）。
+> - **缺乏标准化失败判准** 工程设计具备明确的失效阈值，而教育设计往往对“局部失败”缺乏规范定义。应对策略：在研究设计中预先界定机制失效与假设修正的判读规则（Sloane & Gorard, 2003）。
 
 ---
 

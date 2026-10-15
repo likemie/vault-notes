@@ -8,7 +8,7 @@ summary: "美国著名宗教社会学家、加州大学伯克利分校社会学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 12
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -23,7 +23,6 @@ tags:
   - region/us
 related_concepts:
   - "[[Civic Religion]]"
-  - "[[Habitus]]"
   - "[[Technological Republic]]"
   - "[[Soft Belief]]"
   - "[[Hard Belief]]"
@@ -55,7 +54,7 @@ updated: 2026-10-15
 > [!person-profile] 人物档案
 > - **身份位置** 美国著名宗教社会学家，加州大学伯克利分校福特社会学教授（Elliott Professor of Sociology emeritus），美国国家人文奖章获得者。
 > - **核心角色** 当代[[Civic Religion|公民宗教]]（Civil Religion）理论与社群主义文化批判的核心奠基人。
-> - **代表贡献** 创立美国[[Civic Religion|公民宗教]]概念，揭示支撑民主宪政共同体的非排他性世俗信仰体系；主笔经典社会学著作《心灵的[[Habitus|习性]]》（*Habits of the Heart*）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 200–201)]]
+> - **代表贡献** 创立美国[[Civic Religion|公民宗教]]概念，揭示支撑民主宪政共同体的非排他性世俗信仰体系；主笔经典社会学著作《心灵的习性》（*Habits of the Heart*）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 200–201)]]
 
 > [!citation-card]- 人物定位的关键来源
 > 正如罗伯特·贝拉（Robert Bellah）在 1967 年所写，美国确实“在教会体制之外且与教会截然不同地存在着一套精致且高度制度化的公民宗教”。他提出论点认为，“这种宗教——或者更准确地说，这种宗教维度——具有其自身的严肃性与完整性，并且需要像对待任何宗教一样给予同样的关怀与理解”。一套松散的“圣经原型”，包括来自出埃及记、牺牲以及复活的故事，或许是一个起点，但当代精英文化甚至对公共生活中的这些微小参照也日益持怀疑和轻蔑态度。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 200–201)]]
@@ -69,7 +68,7 @@ updated: 2026-10-15
 > [!timeline] 生平与职涯
 > - **1927** 出生于美国俄克拉荷马州阿尔塔斯，后在哈佛大学获得博士学位并师从[[Talcott Parsons|塔尔科特·帕森斯]]（Talcott Parsons）。
 > - **1967** 在《代达罗斯》（*Daedalus*）发表划时代论文《美国的[[Civic Religion|公民宗教]]》（*Civil Religion in America*）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 200–201)]]
-> - **1985** 出版《心灵的[[Habitus|习性]]：个人主义与承诺》（*Habits of the Heart*），深刻反思美国过度个人主义对公共生活的侵蚀。
+> - **1985** 出版《心灵的习性：个人主义与承诺》（*Habits of the Heart*），深刻反思美国过度个人主义对公共生活的侵蚀。
 > - **2013** 在加利福尼亚州奥克兰逝世，享年 86 岁。
 
 ---
@@ -78,7 +77,7 @@ updated: 2026-10-15
 
 > [!work-line] 主要著作
 > - **1967 — *[[Civic Religion|civil religion]] in America* （美国的公民宗教）** 系统论证美国存在独立于宗派教会的公民宗教维度，以出埃及、立约、牺牲等象征符号维系国家道德共识。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 200–201)]]
-> - **1985 — *Habits of the Heart* （心灵的[[Habitus|习性]]）** 结合托克维尔视角，批判现代功利个人主义与表达个人主义造成的社群瓦解。
+> - **1985 — *Habits of the Heart* （心灵的习性）** 结合托克维尔视角，批判现代功利个人主义与表达个人主义造成的社群瓦解。
 
 ---
 
@@ -98,7 +97,7 @@ updated: 2026-10-15
 
 > [!influence-path] 影响路径
 > - **宗教社会学与政治哲学路径** 开创了当代[[Civic Religion|公民宗教]]研究领域，推动社会学界由单纯研究教会建制转向探讨世俗政治秩序中的神圣象征与道德整合机制。
-> - **社群主义思想运动** 《心灵的[[Habitus|习性]]》直接启发了 1980–1990 年代西方社群主义对新自由主义极端个人主义的系统反思。
+> - **社群主义思想运动** 《心灵的习性》直接启发了 1980–1990 年代西方社群主义对新自由主义极端个人主义的系统反思。
 > - **现代[[Technological Republic|技术共和国]]的文化道德资本重构** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）在《技术共和国》中借用贝拉概念，指出科技精英与现代政体必须重新珍视公民宗教遗产，以防止民主国家沦为纯粹的物质交易市场。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 200–201)]]
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
@@ -134,4 +133,4 @@ updated: 2026-10-15
 > |:-----|:-----|:-----|
 > | [[Civic Religion\|公民宗教]] | 概念 | 贝拉于 1967 年提出并奠定现代社会学分析基石的核心概念。 |
 > | [[Technological Republic\|技术共和国]] | 概念 | 卡普将公民宗教视为技术共和国对抗物质主义与文化虚无的核心[[Hard Belief\|软信念]]支柱。 |
-> | [[National Character\|国民性]] | 概念 | 贝拉在《心灵的[[Habitus\|习性]]》中对美国国民性格中个人主义与公共承诺的演变作出经典诊断。 |
+> | [[National Character\|国民性]] | 概念 | 贝拉在《心灵的习性》中对美国国民性格中个人主义与公共承诺的演变作出经典诊断。 |

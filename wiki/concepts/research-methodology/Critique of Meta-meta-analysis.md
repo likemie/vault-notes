@@ -11,7 +11,7 @@ aliases:
 summary: "对元-元分析（二阶元分析）在认识论假设、试验清晰度混淆、偏倚逐级复合、方法论不透明及政策排名误用层面的系统性学术批判"
 type: concept
 domain: "research-methodology"
-related_count: 48
+related_count: 46
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Epistemological Break]]"
   - "[[Metacognition]]"
-  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Homework]]"
   - "[[Class Size]]"
@@ -38,7 +37,6 @@ related_concepts:
   - "[[Language Experience Approach]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Cargo Cult Science]]"
-  - "[[Document]]"
   - "[[Reliability]]"
   - "[[Critique of Effect Size]]"
   - "[[Critique of Meta-analysis]]"
@@ -79,7 +77,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-09-15
+updated: 2026-10-15
 ---
 
 # Critique of Meta-meta-analysis
@@ -109,7 +107,7 @@ updated: 2026-09-15
 > > - **[[Argument_Simpson_2019_ERE\|Simpson (2019)]]** 提出教匈牙利单词思想实验，展示同一干预可因测试设计产生从 0 到无穷大的效应量；论证效应量测量的是试验清晰度，元-[[Meta-analysis\|元分析]]是对已经无效的指标进行更高级的统计操作。（pp. 105–106）
 >
 > > [!axis] 维度二：技术方法论缺陷与数学模型违背
-> > 从统计学与数学模型基础揭示二阶简单聚合所产生的计算失真与前提[[Hypothesis\|假设]]崩溃。
+> > 从统计学与数学模型基础揭示二阶简单聚合所产生的计算失真与前提假设崩溃。
 > >
 > > - **[[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]** 推导二阶元分析必须满足的 6 项数学要求，证明《[[Visible Learning\|可见的学习]]》在效应量测度混合、SE/SD 混淆（如 Eisenstaedt 1990 中 SE=2.74 被当 SD 导致 $d$ 从 $-0.80 \to -8.29$）、未加权平均（正确加权后 $d$ 从 $0.59 \to 0.23$，排名从 #26 骤跌至 #98）等所有步骤均存在严重违背。（pp. 24–33）
 > > - **[[Argument_Allerup_2015_Paideia\|Allerup (2015)]]** 批评二阶排名未报告[[Confidence Interval\|置信区间]]与[[Standard Error\|标准误]]（$d=0.71$ 与 $0.72$ 的相邻排名差异可能只是误差），忽略正态分布前提（Cauchy 型厚尾分布使均值崩溃），且单一边际效应量易将未控制的社会经济背景第三[[Variable\|变量]]误读为干预效果（TIMSS 2011 丹麦数学教师资质未调整效应量 0.15，控制背景后降至 0.08 且不显著）。（pp. 45–51）
@@ -167,7 +165,7 @@ updated: 2026-09-15
 > 1. **[[Realist Evaluation\|实在论综合]]（Realist Synthesis）** Pawson (2006) 主张以“在何种情境下、对谁、通过何种机制产生何种结果”（CMOC 机制模型）替代单纯的数字平均，呈现效应的分布图景。[[Argument_Wrigley_2019_ERE\|(Wrigley & McCusker, 2019, pp. 119, 123)]]
 > 2. **中央标准化证据数据库** [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, p. 35)]] 主张建立中央证据库，以统一标准格式（Hedges' $g$）收集原始实证数据并公开完整矩阵，为高质量二阶合成奠定真实数据基础。
 > 3. **承认证据的临时性与质控透明度** [[Argument_Terhart_2011_JCS\|Terhart (2011, p. 436)]] 建议研究者明确公开质量筛选标准，承认宏观综合结论的局部性与阶段性，警惕时效滞后。
-> 4. **现代多水平稳健推断（RVE / 三明治估计量）** 针对 Wecker 等人揭示的“[[Document\|文献]]重叠导致经典方差崩溃与假阳性爆炸”缺陷，现代二阶元分析通过三明治估计量引入经验残差外积，自动吸收聚类相关与文献重叠，实现了推断[[Reliability\|可靠性]]的质的跃迁。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 5)]]
+> 4. **现代多水平稳健推断（RVE / 三明治估计量）** 针对 Wecker 等人揭示的“文献重叠导致经典方差崩溃与假阳性爆炸”缺陷，现代二阶元分析通过三明治估计量引入经验残差外积，自动吸收聚类相关与文献重叠，实现了推断[[Reliability\|可靠性]]的质的跃迁。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, p. 5)]]
 
 ---
 

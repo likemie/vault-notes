@@ -8,7 +8,7 @@ summary: "美国著名比较教育学家与教育社会学家，纽约州立大�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 26
+person_related_count: 24
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -24,7 +24,6 @@ tags:
 related_concepts:
   - "[[Sustainability Education]]"
   - "[[Global Citizenship]]"
-  - "[[Hypothesis]]"
   - "[[Heterogeneity]]"
   - "[[School Autonomy]]"
   - "[[Cognitive Decoupling]]"
@@ -32,7 +31,6 @@ related_concepts:
   - "[[Educational Decentralization]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Discourse]]"
-  - "[[Document]]"
   - "[[Hidden Curriculum]]"
   - "[[Areas of Knowledge]]"
 related_theories:
@@ -57,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-11
+updated: 2026-10-15
 ---
 
 # Aaron Benavot
@@ -96,7 +94,7 @@ updated: 2026-10-11
 > - **1980s–1990s — 大众学校知识的世界模型与课程同构** 借助跨国大规模历史数据，证明课程大纲是[[Cultural Models|世界文化模型]]的制度体现。
 >   - **代表著作** *School Knowledge for the Masses: World Models and National Primary Curricular Categories in the Twentieth Century* (1992, with J. W. Meyer & D. H. Kamens)。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108, 118)]]
 >   - **关键概念／理论** [[World Society Theory|世界文化理论]]、[[Institutional Isomorphism|制度同形]]、现代性课程模型。
->   - **阶段转向** 否定了课程设置纯粹由一国工业化水平或特定意识形态决定的传统[[Hypothesis|假设]]，指出各国在语文、数理与社会科课时比例上展现出惊人的全球标准化趋势。
+>   - **阶段转向** 否定了课程设置纯粹由一国工业化水平或特定意识形态决定的传统假设，指出各国在语文、数理与社会科课时比例上展现出惊人的全球标准化趋势。
 > - **2000s — 分权改革下国家大纲落地的阶层分化** 从宏观跨国模型深入具体国家教育系统内部，揭示政策落地的[[Heterogeneity|异质性]]。
 >   - **代表著作** "The social construction of the local school curriculum: Patterns of diversity and uniformity in Israeli junior high schools" (2001, with N. Resh)。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108, 116)]]
 >   - **关键概念／理论** 课程本土社会建构、[[School Autonomy|学校自主权]]悖论、阶层差异调节。
@@ -111,7 +109,7 @@ updated: 2026-10-11
 ## 核心思想
 
 > [!claim] 核心主张
-> 全球学校课程的演进是世界文化理性化神话扩散的核心晴雨表；然而，宏观官方课程大纲在形式上的高度同构，绝不意味着教室内教学实践的均质化。在[[Educational Decentralization|教育权力下放]]与学校自主的全球政策潮流下，课程大纲的落实呈现出尖锐的“阶层化社会建构”——优势阶层学校利用自主权强化高阶数理与精英知识，而劣势学校则在补救教学中牺牲了[[21st Century Skills and Competencies Discourse|核心素养]]，导致宏观上的[[Institutional Isomorphism|制度同形]]在微观上转化为维系既有阶层不平等的合法化外衣。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 108)]]
+> 全球学校课程的演进是世界文化理性化神话扩散的核心晴雨表；然而，宏观官方课程大纲在形式上的高度同构，绝不意味着教室内教学实践的均质化。在[[Educational Decentralization|教育权力下放]]与[[School Autonomy|学校自主]]的全球政策潮流下，课程大纲的落实呈现出尖锐的“阶层化社会建构”——优势阶层学校利用自主权强化高阶数理与精英知识，而劣势学校则在补救教学中牺牲了[[21st Century Skills and Competencies Discourse|核心素养]]，导致宏观上的[[Institutional Isomorphism|制度同形]]在微观上转化为维系既有阶层不平等的合法化外衣。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 108)]]
 
 > [!citation-card] 贝纳沃特论课程趋同与本土学校分化
 > 尽管跨国扩散促成了课程门类的全球通用化，但在国家权力向地方学校下放的政策冲击下，实际执行呈现出高度的分歧。学校的社会阶层背景、结构性地位与资源动员能力，深度制约了国家法定科目的实际落实形态，使得趋同的[[Discourse|话语]]遮蔽了微观教育资源与知识分配的不平等。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 108)]]
@@ -124,7 +122,7 @@ updated: 2026-10-11
 
 > [!influence-path] 影响路径
 > - **理论路径** 推进了新制度主义世界文化论从“国家法律体系分析”向“核心课程知识社会学”的纵深开拓。
-> - **实证与数据库路径** 建立了覆盖全球百余个国家长达一个世纪的初等与中等教育课程课时纵向历史数据库，成为国际课程史量化比较研究的奠基[[Document|文献]]。
+> - **实证与数据库路径** 建立了覆盖全球百余个国家长达一个世纪的初等与中等教育课程课时纵向历史数据库，成为国际课程史量化比较研究的奠基文献。
 > - **全球治理政策路径** 领导[[UNESCO|联合国教科文组织]] GEM Report，奠定了全球[[Education for All|全民教育]]与 [[UN Sustainable Development Goals|SDG 4]] 进展监测的国际循证基准。
 
 ---
@@ -134,7 +132,7 @@ updated: 2026-10-11
 > [!person-network] 关系网络
 > - **博士导师与合作者** [[John W. Meyer|约翰·迈耶]]——[[Stanford School|斯坦福新制度主义学派]]领袖，共同奠定课程世界模型理论。
 > - **研究合作者** 努里特·雷什（Nura Resh）——共同开展以色列初中课程本土执行实证研究。
-> - **学术对话同行** [[Robert Arnove|罗伯特·阿诺夫]]——阿诺夫将贝纳沃特的实证研究作为证明全球课程趋同与本土阶层分化共存的代表性经验[[Document|文献]]。
+> - **学术对话同行** [[Robert Arnove|罗伯特·阿诺夫]]——阿诺夫将贝纳沃特的实证研究作为证明全球课程趋同与本土阶层分化共存的代表性经验文献。
 
 ---
 

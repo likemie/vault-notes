@@ -10,7 +10,7 @@ summary: "RCT 与组间比较中最直观的基础统计模型，直接以处理
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 39
+method_related_count: 38
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Researcher Degrees of Freedom]]"
   - "[[Internal Validity]]"
   - "[[Heterogeneity]]"
-  - "[[Hypothesis]]"
   - "[[Attrition]]"
   - "[[Null Hypothesis]]"
   - "[[Dependent Variable]]"
@@ -68,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-10
+updated: 2026-10-16
 ---
 
 # Simple Difference in Means Model
@@ -108,7 +107,7 @@ updated: 2026-10-10
 > | **残差方差** | 最大（包含全部个体基线变异） | 显著收缩（被前测吸收 50%–70%） | 结构化分解（分为层内与层间残差） |
 > | **检验功效** | 较低（需更大样本量才能检出） | 显著提高（[[Standard Error\|标准误]]明显收窄） | 高（且能准确反映集群真实功效） |
 > | **集群相关处理** | 无法处理（违背独立性假定） | 需外挂聚类稳健标准误（CRSE） | 模型内直接建模组间随机效应与 [[Intraclass Correlation Coefficient\|ICC]] |
-> | **模型[[Hypothesis\|假设]]** | 极少（仅依赖随机化无偏性） | 线性假定、无遗漏变量、同方差 | 正态随机效应分布、层级嵌套假定 |
+> | **模型假设** | 极少（仅依赖随机化无偏性） | 线性假定、无遗漏变量、同方差 | 正态随机效应分布、层级嵌套假定 |
 
 > [!method-stack] 方法层级
 > - **研究设计** 简单[[Randomised Controlled Trials\|随机对照试验]]（Individual RCT）、实验室双组实验、AB 测试。
@@ -124,7 +123,7 @@ updated: 2026-10-10
 > 1. **检验[[Random Assignment\|随机分配]]质量与基线平衡性** 比较处理组与对照组在基线人口统计学特征上的分布，评估是否存在严重的偶然基线偏差。
 > 2. **计算两组[[Pre-test and Post-test\|后测]][[Descriptive Analysis\|描述统计]]量** 分别计算处理组（$N_T$）与对照组（$N_C$）的[[Sample Size Determination\|样本量]]、后测算术均值（$\bar{Y}_T, \bar{Y}_C$）与样本方差（$s_T^2, s_C^2$）。
 > 3. **计算简单均值差点估计量** 直接两组相减计算 $\hat{\tau}_{\text{SDM}} = \bar{Y}_T - \bar{Y}_C$。
-> 4. **执行[[Hypothesis\|假设]]检验与推断** 检验两组方差齐性（Levene 检验）；若方差不齐采用韦尔奇 $t$ 检验（Welch's $t$），构建[[Confidence Interval\|置信区间]]与确定 $p$ 值。
+> 4. **执行假设检验与推断** 检验两组方差齐性（Levene 检验）；若方差不齐采用韦尔奇 $t$ 检验（Welch's $t$），构建[[Confidence Interval\|置信区间]]与确定 $p$ 值。
 > 5. **换算标准化[[Effect Size\|效应量]]** 结合全样本对照组标准差换算为 Cohen's $d$ 或小样本校正的 Hedges' $g$。
 
 ### 量化分析模块
@@ -134,7 +133,7 @@ updated: 2026-10-10
 > - **核心变量**
 >   - 后测产出变量 $Y_i$：个体终结性测验成绩或行为量表得分。
 >   - 处理状态哑变量 $T_i$：分配至处理组取值为 1，对照组取值为 0。
-> - **诊断与检验** 正态性检验（Shapiro-Wilk）、方差齐性检验（Levene）、选择性[[Attrition\|流失]]检验（Attrition Bias Check）。
+> - **诊断与检验** 正态性检验（Shapiro-Wilk）、方差齐性检验（Levene）、选择性流失检验（[[Attrition|attrition bias]] Check）。
 
 > [!formula-step] 公式步骤　简单均值差异估计量与抽样方差
 > $$\hat{\tau}_{\text{SDM}} = \bar{Y}_T - \bar{Y}_C = \frac{1}{N_T}\sum_{i \in T} Y_i - \frac{1}{N_C}\sum_{j \in C} Y_j$$
@@ -219,7 +218,7 @@ updated: 2026-10-10
 > > [!axis] 模型自由度滥用防范 vs 估计精度最大化
 > > 证据学界围绕试验分析是否应坚持最简均值比较的争论。
 > >
-> > - **极简无参派观点** 坚持认为简单均值比较完全不依赖任何线性函数形式[[Hypothesis\|假设]]，彻底杜绝了分析师通过挑选协[[Variable\|变量]]（$p$-hacking）操纵显著性的可能，是保持试验绝对客观公信力的防线。
+> > - **极简无参派观点** 坚持认为简单均值比较完全不依赖任何线性函数形式假设，彻底杜绝了分析师通过挑选协[[Variable\|变量]]（$p$-hacking）操纵显著性的可能，是保持试验绝对客观公信力的防线。
 > > - **现代计量与循证派抗辩** 认为在具备[[Preregistration\|预注册]][[Statistical Analysis Plan\|统计分析计划]]（SAP）的前提下，[[Researcher Degrees of Freedom\|研究者自由度]]已被有效封死；强行采用简单均值比较会白白丢弃基线[[Pre-test and Post-test\|前测]]的巨大解释力，导致大量真正有效的微弱教育创新因统计功效不足而被误杀。肖等学者（Xiao et al., 2016）利用 NPD 微观数据的复算无可辩驳地证明了这一点，推动了英国《[[Education Endowment Foundation\|EEF]] 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018）对[[Covariate Adjustment\|协变量调整]]的强制要求（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）。
 
 ---

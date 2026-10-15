@@ -9,9 +9,9 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 16
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 15
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 tags:
   - ndpc
@@ -29,7 +29,6 @@ related_concepts:
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Regression Discontinuity Design]]"
@@ -47,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-06
+updated: 2026-10-15
 ---
 
 # National Dropout Prevention Center
@@ -84,7 +83,7 @@ updated: 2026-10-06
 ## 因果推断与方法学标准
 
 > [!abstract] 因果设计与质量规程
-> NDPC 因果设计描述程度[[Coding in Qualitative Research\|编码]]为 **[[Randomised Controlled Trials\|RCT]]=1, [[Quasi-Experimental Designs\|QED]]=1, [[Regression Discontinuity Design\|RDD]]=0, [[Intelligent Tutoring Systems\|ITS]]=0**([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 10]])。
+> NDPC 因果设计描述程度编码为 **[[Randomised Controlled Trials\|RCT]]=1, [[Quasi-Experimental Designs\|QED]]=1, [[Regression Discontinuity Design\|RDD]]=0, [[Intelligent Tutoring Systems\|ITS]]=0**([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 10]])。
 >
 > 1. **宽容的因果准入** 不强制要求 RCT，认可非等对控制组的准实验设计（QED）。
 > 2. **免除长期追踪与独立复制** 不要求干预后 12 个月的[[Fade-out Effect\|持续效果]]随访，亦不要求研究必须由独立于开发者的第三方学者完成([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 14]])。

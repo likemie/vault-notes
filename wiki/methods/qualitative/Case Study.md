@@ -7,7 +7,7 @@ summary: "以单个或少数个案为分析单位深入追踪过程、情境和�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 89
+method_related_count: 87
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Analytic Generalization]]"
   - "[[Falsification]]"
   - "[[Causality]]"
-  - "[[Document]]"
   - "[[Formative Assessment]]"
   - "[[Learner-Centred Education]]"
   - "[[Test-Based Accountability]]"
@@ -64,7 +63,6 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Questionnaire]]"
   - "[[Grounded Theory]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Audiovisual, Social Media, and Digital Materials]]"
   - "[[Ethnography]]"
   - "[[Narrative Research]]"
@@ -151,7 +149,7 @@ updated: 2026-10-15
 > [!method-stack] 方法层级
 > - **研究设计** 单案例设计、嵌入式单案例设计、多案例设计、嵌入式多案例设计（Yin, 2009, pp. 46ff.）
 > - **数据收集** 访谈、观察、文件、档案记录、实物、[[Questionnaire\|问卷]]等（Yin 六类证据来源）
-> - **分析方法** 主题分析、跨案例分析、模式匹配、时间序列分析、[[Grounded Theory\|扎根理论]]、[[Coding in Qualitative Research\|编码]]
+> - **分析方法** 主题分析、跨案例分析、模式匹配、时间序列分析、[[Grounded Theory\|扎根理论]]、编码
 > - **辅助技术** 个案研究数据库、[[Chain of Evidence\|证据链]]、[[Triangulation\|三角验证]]、受访者验证、[[Reflexivity\|反身性]]
 
 > [!citation-card] 米特论国别个案研究中的比较视野与容器突破
@@ -192,7 +190,7 @@ updated: 2026-10-15
 
 > [!proc] Yin（2009, p. 27）的设计五要素
 > 1. **个案研究的问题** 个案研究在回答如何和为什么类问题时特别有力。问题越具体，个案研究就越可能保持在轨道上且在限定范围内（Yin, 2009, p. 29）
-> 2. **个案研究的命题** （如有）待检验的[[Hypothesis\|假设]]
+> 2. **个案研究的命题** （如有）待检验的假设
 > 3. **个案研究的[[Unit of Analysis\|分析单位]]** 界定什么构成案例——可包括个体、群体、社区、组织、项目、创新、决策及其后果、产业、经济体等。Yin（2009, p. 32）建议分析单位应是具体的（真实生活现象）而非抽象的。Verschuren（2003, p. 126）的示例：对单个企业抽取 500 名员工不构成个案研究而是调查，因为分析单位是个体而非组织
 > 4. **连接数据与命题的逻辑** 数据将如何被分析——寻找模式、解释、事件分析、跨地点和跨案例分析（Yin, 2009, p. 34）
 > 5. **解释发现的标准** 包括明确说明所给解释为何优于竞争性解释
@@ -215,7 +213,7 @@ Yin（2009, p. 35）补充：理论生成应包含在个案研究的研究设计
 > | 分析对象 | Robson（2002） | 个体个案研究<br>一组个体个案研究<br>社会群体研究<br>组织和机构研究<br>事件/角色/关系研究 |
 > | 案例数量 | 齐梅 | 单案例研究：需典型性或极端性<br>多案例研究：比较性，遵循复制原则 |
 > | 案例层级 | 齐梅 | 整体性：仅研究案例整体层面<br>嵌入性：包含多个分析单位层级 |
-> | 理论贡献 | Lijphart | 非理论型 / 解释性 / 产生[[Hypothesis\|假设]] / 理论证实 / 理论[[Falsification\|证伪]] / 偏离常规（后两类理论价值最大） |
+> | 理论贡献 | Lijphart | 非理论型 / 解释性 / 产生假设 / 理论证实 / 理论[[Falsification\|证伪]] / 偏离常规（后两类理论价值最大） |
 
 ---
 ### Yin（2009, pp. 46ff.）的四种研究设计类型
@@ -247,7 +245,7 @@ Yin告诫在单案例设计中要谨慎：通常会忽视多案例的可能好�
 > [!evidence-grid] 多位学者的优势汇总
 > - **现实感强，情境真实** 个案研究数据贴近现实、接地气，与读者自身经验协调；在真实场景中收集数据，支撑结论有效性（Adelman et al., 1980; Nisbet & Watt, 1984; [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]]）
 > - **研究对象广阔，可推广** 从小到微观个体、大到民族国家均可研究；允许从实例到类别的推广，关注案例的微妙性和复杂性（Adelman et al., 1980）
-> - **研究功能与方法多样** 探索、描述、解释、理解多重功能；观察、访谈、[[Questionnaire\|问卷]]、[[Document\|文献]]等可混合使用，可与实证研究和解释学研究互补
+> - **研究功能与方法多样** 探索、描述、解释、理解多重功能；观察、访谈、[[Questionnaire\|问卷]]、文献等可混合使用，可与实证研究和解释学研究互补
 > - **结果更易被广泛受众理解** 常用日常、非专业语言书写，立即清晰易懂（Nisbet & Watt, 1984）
 > - **识别社会真理的复杂性和嵌入性** 呈现参与者观点之间的差异或冲突，最好的个案研究能为替代解释提供支持（Adelman et al., 1980）
 > - **形成可再解释的档案，捕捉独特特征** 作为产品可形成足够丰富的描述性材料档案；捕捉大规模数据中可能丢失的独特特征（Adelman et al., 1980; Nisbet & Watt, 1984）

@@ -8,7 +8,7 @@ aliases:
 summary: "指以自觉的战略性与发展性取向，在全校教职工中系统培育证据知情实践与文化的组织形态；其判定标准不仅在于具体决策是否参考研究，更在于学校在组织层面是否具备使用证据的意图、意愿与能力，并建立起支撑反思性探究的制度化生态。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 39
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -25,10 +25,8 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Unit of Analysis]]"
   - "[[School Leadership]]"
-  - "[[Hypothesis]]"
   - "[[Research Utilization]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
-  - "[[Document]]"
   - "[[Professional Learning Community]]"
   - "[[Professional Judgment]]"
   - "[[Knowledge Production]]"
@@ -69,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Research-Engaged School
@@ -84,7 +82,7 @@ updated: 2026-10-14
 > [!concept-lens] 概念透镜
 > - **含义** 描述的不是个别教师的孤立科研行为或单次决策，而是一所学校在组织架构、领导方式、教研文化与工时保障上形成的、可持续支持证据知情探究的整体制度生态。
 > - **用途** 将“证据知情实践”从个体行动者层面提升至学校组织层面，确立以学校为[[Unit of Analysis\|分析单位]]（Unit of Analysis），使政策制定者与[[School Leadership\|学校领导]]者能够诊断“一所学校在多大程度上具备研究参与的准备状态”，并为评估证据“使用得有多好”提供组织使能载体。
-> - **边界** 聚焦组织层面的取向、文化与机制准备，不直接衡量单项干预措施的学生学业产出因果效应，亦不[[Hypothesis\|假设]]学校必须在所有情境下完全依从研究指南。
+> - **边界** 聚焦组织层面的取向、文化与机制准备，不直接衡量单项干预措施的学生学业产出因果效应，亦不假设学校必须在所有情境下完全依从研究指南。
 
 > [!citation-card] 研究参与学校的组织界定
 > 研究参与学校是指那些以自觉的战略性与发展性取向，致力于在全体教职工中培育证据知情实践与证据知情文化的学校。
@@ -99,7 +97,7 @@ updated: 2026-10-14
 > [!boundary]- 概念边界
 > - 区别于 [[Evidence-Informed Practice\|证据知情实践]]（EIP）：EIP 聚焦教育实践者个体在决策中结合经验、研究与数据的行动取向；研究参与学校则是为 EIP 提供制度保障、资源工时与[[Reflexivity\|反思性]]文化的组织载体。
 > - 区别于 [[Research Utilization\|研究利用]]（Research Utilization）：研究利用侧重描述知识从生产到采纳的形态（工具性、概念性或[[Conceptual, Instrumental, and Symbolic Use of Research\|象征性使用]]）；研究参与学校则侧重描述承载并维系这些行为的组织制度环境。
-> - 不适用于单一决策的合法性判定：即使是一所高度成熟的研究参与学校，其日常大量即时性课堂交互仍依赖教师即兴直觉与默会智慧，不能因个别决策未查阅[[Document\|文献]]而否定学校的研究参与属性。
+> - 不适用于单一决策的合法性判定：即使是一所高度成熟的研究参与学校，其日常大量即时性课堂交互仍依赖教师即兴直觉与默会智慧，不能因个别决策未查阅文献而否定学校的研究参与属性。
 
 ---
 
@@ -126,7 +124,7 @@ updated: 2026-10-14
 > [!factors] 支撑研究参与学校运转的四类关键条件
 > - **研究参与能力（Capacity）** 包含解读日常校本数据以定位问题、评估学术研究方法稳健性，以及识别因果支撑条件以进行本地再情境化的专业能力。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 122–123)]]
 > - **证据导向文化（Culture）** 领导层兼具变革型愿景与学习中心型支持，并在全校形成鼓励安全试错、乐于分享成功与失败经验的组织氛围。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 123–124)]]
-> - **[[Reflexivity\|反思性]]学习环境（Learning Environment）** 以[[Professional Learning Community\|专业学习共同体]]（PLC）为载体，持续开展反思性对话，深入质询底层教学[[Hypothesis\|假设]]，有效防范[[Activity Traps\|活动陷阱]]。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 124–125)]]
+> - **[[Reflexivity\|反思性]]学习环境（Learning Environment）** 以[[Professional Learning Community\|专业学习共同体]]（PLC）为载体，持续开展反思性对话，深入质询底层教学假设，有效防范[[Activity Traps\|活动陷阱]]。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 124–125)]]
 > - **结构系统与资源（Structures & Resources）** 刚性划拨专有教研工时、空间与预算，建立正式研讨论坛，并有效利用校内非正式人际信任网络促成知识扩散。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 125)]]
 
 > [!theory-components] [[Quality Use of Research Evidence Framework\|QURE]] 框架视域下组织使能的三大支柱（[[Argument_Rickinson_2022_ER\|Rickinson et al., 2022a, pp. 143–144]]）
@@ -170,7 +168,7 @@ updated: 2026-10-14
 > 探讨研究参与如何重塑学校的组织学习[[Paradigm\|范式]]，论证证据知情绝非搜集现成教案的效率工具，而是推动学校思维方式转变的文化杠杆。
 
 > [!claim] Godfrey, D.
-> **从技巧清单转向探究性学习文化** 研究参与学校的核心价值在于打破将研究视为实用“锦囊妙计”（hints and [[TRIZ\|TIPS]]）的工具主义狭隘取向，推动全校形成探究性学习文化。在学习文化中，研究证据被用作重新审视教学痛点、暴露认知盲区与检验底层[[Hypothesis\|假设]]的[[Scaffolding\|脚手架]]，从而使教师专业学习与学校改进形成良性演进循环。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 118)]]
+> **从技巧清单转向探究性学习文化** 研究参与学校的核心价值在于打破将研究视为实用“锦囊妙计”（hints and [[TRIZ\|TIPS]]）的工具主义狭隘取向，推动全校形成探究性学习文化。在学习文化中，研究证据被用作重新审视教学痛点、暴露认知盲区与检验底层假设的[[Scaffolding\|脚手架]]，从而使教师专业学习与学校改进形成良性演进循环。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 118)]]
 
 > [!claim] Handscomb, G. & MacBeath, J.; Stoll, L. 等
 > **制度化日常嵌入是文化转型的物质基石** 学校能否实现向学习文化的转型，取决于组织是否将[[Research Utilization\|研究使用]]制度化嵌入教师日常专业生活，而非视作额外的外加负担。这需要[[School Leadership\|学校领导]]层在课表排程、教研空间与评价激励上提供刚性支持，依托[[Reflexivity\|反思性]]专业探究将教师[[Tacit Knowledge|默会知识]]转化为全校共享资源。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 118, 124–125)]]
@@ -226,7 +224,7 @@ updated: 2026-10-14
 > - **2006 — 概念萌芽与初步倡导** Sharp 等（2006）在英国国家[[School Leadership\|学校领导力]]学院（NCSL）报告中提出领导“研究参与学校”的初步构想，强调研究对教师专业发展的赋能价值。
 > - **2014 — 组织理论界定奠基** Godfrey（2014a, 2014b）发表系列研究，正式确立“自觉的战略性与发展性取向”为研究参与学校的核心界定，明确其关注组织意图、意愿与能力而非单次决策。
 > - **2017 — 领导者[[Knowledge Mediation\|知识中介]]与赋权功能揭示** Coldwell et al. (2017) 揭示高研究参与学校中校级领导作为[[Boundary Spanner\|知识中介者]]与促进者的关键职能，通过分布式架构赋权教研骨干。
-> - **2018 — 大样本实证测度与四因素框架建构** [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]] 将该概念[[Operationalization\|操作化]]为能力、文化、学习环境与结构资源四因素[[Questionnaire\|问卷]]，对英格兰 79 所小学的基线准备状态展开系统测度，揭示出[[Hypothesis\|假设]]反思与成效评价的机制断裂。
+> - **2018 — 大样本实证测度与四因素框架建构** [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]] 将该概念[[Operationalization\|操作化]]为能力、文化、学习环境与结构资源四因素[[Questionnaire\|问卷]]，对英格兰 79 所小学的基线准备状态展开系统测度，揭示出假设反思与成效评价的机制断裂。
 > - **2019 — 生态系统观系统化** Godfrey & Brown (2019) 主编《[[Ecosystem for Research-Engaged Schools\|研究参与学校生态]]系统》（*An Ecosystem for Research-Engaged Schools*），将学校组织置于宏观问责与中观网络的复杂生态整体中。
 > - **2022 — [[Quality Use of Research Evidence Framework\|QURE]] 框架确立其为组织使能基石并提供质量反思透镜** [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]] 将研究参与学校确立为 QURE 框架三大组织使能构件（领导力、文化、基础架构）的核心实践载体，并提供三重反省透镜，推动其从二元参与走向卓越使用质量。
 
@@ -265,7 +263,7 @@ updated: 2026-10-14
 > | 同上 | 同上 | 同上 | (2) 发现研究信息在课堂应用新教学方法时很有用 | 非常同意 26%、同意 60%、不确定 13%、不同意 2%、非常不同意 0%（合计同意率 86%） | — | 高达 86% 肯定研究的实践功用，与评价流程的缺失形成鲜明落差 |
 > | 同上 | 同上 | 同上 | (3) 学校设有评价项目或教学实践成效的正式流程（n = 694） | 非常同意 17%、同意 50%、不确定 20%、不同意 8%、非常不同意 5%（合计同意率 67%） | — | 确认率降至 67%（13% 明确持否定态度），显示[[Inquiry Cycle\|探究循环]]中评价环节最薄弱 |
 > | 同上 | 同上 | 同上 | (4) 不支持在缺乏研究支撑时推行全校性变革 | 非常同意 13%、同意 37%、不确定 38%、不同意 12%、非常不同意 1%（合计同意率 50%） | — | 50%（正文按未坚定支持计为 61%）持不确定或赞成态度，表明学校极易盲从未经检验的变革风口 |
-> | 同上 | 同上 | 同上 | (8) 学校经常讨论可能影响关键决策的底层[[Hypothesis\|假设]]（n = 694） | 非常同意 11%、同意 44%、不确定 30%、不同意 10%、非常不同意 4%（合计同意率 55%） | — | 全卷 14 项最低分，与乐于尝试新方法（82%）形成鲜明反差，为[[Activity Traps\|活动陷阱]]的核心表征 |
+> | 同上 | 同上 | 同上 | (8) 学校经常讨论可能影响关键决策的底层假设（n = 694） | 非常同意 11%、同意 44%、不确定 30%、不同意 10%、非常不同意 4%（合计同意率 55%） | — | 全卷 14 项最低分，与乐于尝试新方法（82%）形成鲜明反差，为[[Activity Traps\|活动陷阱]]的核心表征 |
 > | 同上 | 同上 | 同上 | (13) 学校建有供教职工分享与研讨信息的正式论坛（n = 694） | 非常同意 14%、同意 47%、不确定 21%、不同意 10%、非常不同意 7%（合计同意率 61%） | — | 仅 61% 确认建有正式论坛，与 82% 曾有非正式讨论对照，提示缺乏制度化交流平台 |
 
 ---

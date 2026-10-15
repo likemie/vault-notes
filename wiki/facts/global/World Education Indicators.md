@@ -12,7 +12,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 33
+fact_related_count: 32
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Definition of Terms]]"
   - "[[Commensuration]]"
-  - "[[Hypothesis]]"
   - "[[Operationalization]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Going Native]]"
@@ -101,7 +100,7 @@ updated: 2026-10-15
 > - **国家统计能力建构** 由经合组织与[[UNESCO|联合国教科文组织]]专家组定期组织跨国培训与方法论研讨班，指导参与国教育部规划司与国家统计局官员掌握现代抽样调查、数据清洗与指标汇总技术，推动各国内部统计制度与国际[[Commensuration|通约]]规范接轨。
 
 > [!citation-card] 经合组织在世界教育指标项目中的双重角色与规范输出
-> 经合组织关于全球化的视角也促使它与诸多其他国际组织建立正式联系，其明确目的在于协助将经合组织的制度经验、政策专长与技术诀窍输出给非成员经济体。因此，例如它与[[World Bank|世界银行]]和联合国教科文组织合作开发了世界教育指标（WEI）项目。该项目是由上述组织联合发起的一项倡议，旨在提供关于转型经济体的一整套比较教育数据。经合组织在该项目中的角色是基于其在绩效指标方面长期的工作经验提供技术咨询。但正如鲁特考夫斯基（Rutkowski, 2007）所指出的，这一角色深植于经合组织的新自由主义规范预设之中，并且很难将经合组织的技术专长与其关于教育在全球经济发展中所必须扮演之角色的规范性[[Hypothesis|假设]]割裂开来。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444)]]
+> 经合组织关于全球化的视角也促使它与诸多其他国际组织建立正式联系，其明确目的在于协助将经合组织的制度经验、政策专长与技术诀窍输出给非成员经济体。因此，例如它与[[World Bank|世界银行]]和联合国教科文组织合作开发了世界教育指标（WEI）项目。该项目是由上述组织联合发起的一项倡议，旨在提供关于转型经济体的一整套比较教育数据。经合组织在该项目中的角色是基于其在绩效指标方面长期的工作经验提供技术咨询。但正如鲁特考夫斯基（Rutkowski, 2007）所指出的，这一角色深植于经合组织的新自由主义规范预设之中，并且很难将经合组织的技术专长与其关于教育在全球经济发展中所必须扮演之角色的规范性假设割裂开来。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444)]]
 >
 > *The OECD’s perspective on globalization has also led it to develop formal links with a number of other international organizations, with the expressed purpose of helping bring the OECD’s institutional and policy expertise and technical know how to NMEs. It has therefore worked, for example, with the World Bank and UNESCO on the development of a World Education Indicators (WEI) project. WEI is a joint initiative of these organizations designed to provide a set of comparative educational data about transitional economies. The OECD’s role in the project has been to provide technical advice based on its long history of work with performance indicators. But as Rutkowski (2007) points out, this role is grounded in the OECD’s neoliberal precepts, and it is difficult to separate the OECD’s technical expertise from its normative assumptions about the role education must play in the development of the global economy.* (Rutkowski, 2007)
 

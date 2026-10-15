@@ -7,10 +7,10 @@ aliases:
 summary: "由Stenhouse开创并经复杂性理论深化的教育研究范式，主张教师从知识消费者转向自身实践的知识生产者，在复杂自组织教育生态中与外部研究者形成共生探究网络。"
 type: concept
 domain: "teacher-education"
-related_count: 40
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 39
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - research-methodology
   - action-research
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Homework]]"
   - "[[Open-Mindedness]]"
   - "[[Formative Assessment]]"
-  - "[[Hypothesis]]"
   - "[[Business as Usual]]"
   - "[[Ontology]]"
 related_theories:
@@ -157,7 +156,7 @@ updated: 2026-10-15
 
 > [!proc] 实践者本位研究的标准操作五步规程
 > 1. **情境诊断与困惑聚焦** 审视常规教学中的阻滞点，将模糊的不满明确转化为可探究的实践问题。
-> 2. **行动[[Hypothesis\|假设]]与方案拟定** 结合理论灵感与同行智慧，设计切实可行的教学改进干预方案。
+> 2. **行动假设与方案拟定** 结合理论灵感与同行智慧，设计切实可行的教学改进干预方案。
 > 3. **行动实施与多源证据收集** 在[[Business as Usual\|常态教学]]中推行新策略，同步记录过程性数据与师生交互细节。
 > 4. **协同反思与效果评估** 对照基线数据分析干预实效，提炼哪些策略促成了积极改变及其背后的情境动因。
 > 5. **经验概念化与迭代再出发** 形成校本案例叙事与实践假说，启动下一轮螺旋上升的[[Inquiry Cycle\|探究循环]]。
@@ -202,7 +201,7 @@ updated: 2026-10-15
 > | [[Complexity Theory]] | 理论 | 阐明学校作为自组织复杂适应系统的本质，为教师内生探究确立元理论支撑。 |
 > | [[Professional Judgment]] | 概念 | 探究的核心目标在于提升教师在复杂未定情境中做出知情明智决策的专业权威。 |
 > | [[Knowledge Production]] | 概念 | 打破外部学术垄断，确立一线教师作为情境实践性知识生产者的正当性。 |
-> | [[Reflexivity]] | 概念 | 教师在探究全程中持续监控自身前置[[Hypothesis\|假设]]与教学行为偏差的关键思维品质。 |
+> | [[Reflexivity]] | 概念 | 教师在探究全程中持续监控自身前置假设与教学行为偏差的关键思维品质。 |
 > | [[Critical Theory]] | 理论 | 为教师研究注入超越微观课堂、审视社会结构不平等与意识形态约束的批判视角。 |
 > | [[Donald A. Schön]] | 人物 | 提出行动中反思与反思性实践者理论，奠定教师专业自主研究的认识论基石。 |
 > | [[Stephen Kemmis]] | 人物 | 倡导批判性与[[Emancipatory Action Research\|解放性行动研究]]，警示教师个体化探究回避社会体制权力的局限。 |

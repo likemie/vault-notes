@@ -11,7 +11,7 @@ aliases:
 summary: "由澳大利亚莫纳什大学 Q 项目提出的研究使用理论框架，将质量使用界定为对适切研究证据的审慎参与与实施，受个体、组织与系统多层使能构件协同支持，提炼出六大实践特征并广泛应用于学校实践与跨国政策生态诊断"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 63
+theory_related_count: 61
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -25,7 +25,6 @@ tags:
   - region/australia
 related_concepts:
   - "[[Research Utilization]]"
-  - "[[Document]]"
   - "[[Phronesis]]"
   - "[[Research Literacy]]"
   - "[[Evidence-Informed Practice]]"
@@ -46,13 +45,13 @@ related_concepts:
   - "[[Knowledge Co-production]]"
   - "[[Absorptive Capacity]]"
   - "[[Individualised Instruction]]"
-  - "[[Teaching Assistant]]"
   - "[[Embedded Researcher]]"
   - "[[Epistemic Stances]]"
   - "[[Epistemology]]"
   - "[[Research Question]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Academic Achievement]]"
+  - "[[School Autonomy]]"
   - "[[Evidence-Based Education]]"
   - "[[Falsification]]"
   - "[[Discourse]]"
@@ -70,7 +69,6 @@ related_methods:
   - "[[Rating Scale]]"
   - "[[Practitioner Enquiry]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Mixed Methods Research]]"
   - "[[In-depth Interview]]"
   - "[[Framework Synthesis]]"
@@ -96,7 +94,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 
 # Quality Use of Research Evidence Framework
@@ -106,7 +104,7 @@ updated: 2026-10-09
 ## 理论定位
 
 > [!theory-position] 理论定位
-> - **解释对象** 教育领域中研究[[Research Utilization\|证据使用]]的质态（Quality of Use），即超越使用与否的二元统计（如[[Document\|文献]]阅读量、点击率或引用频次），解释何谓高质量使用（即适切证据与审慎实施的双核互构），以及个体素养心智、学校组织生态与宏观系统治理在多大程度上协同促成或阻碍深思熟虑的证据利用。
+> - **解释对象** 教育领域中研究[[Research Utilization\|证据使用]]的质态（Quality of Use），即超越使用与否的二元统计（如文献阅读量、点击率或引用频次），解释何谓高质量使用（即适切证据与审慎实施的双核互构），以及个体素养心智、学校组织生态与宏观系统治理在多大程度上协同促成或阻碍深思熟虑的证据利用。
 > - **理论问题** 突破传统供给驱动（Push）模式将研究使用窄化为单向学术推送的线性偏误，回应一线教育实践者缺乏甄别信心、被动采购外部方案、时间极度匮乏以及研究脱离教学现场的深层实践困境，建构由供给驱动向需求牵引（Pull）转型的系统解释框架。
 > - **理论类型** 跨层使能机制模型（Multi-level Enabling Framework）、中层[[Analytic Framework\|分析框架]]与规范性实践指引。
 > - **知识位置** 源自澳大利亚莫纳什大学 Q 项目，由 Rickinson et al. (2020, 2022) 奠定核心概念基石；在《教育研究》（*Educational Research*）正式发表跨领域[[Systematic Review\|系统综述]]奠基成果（[[Argument_Rickinson_2022_ER\|Rickinson et al., 2022a]]），并被[[OECD\|经合组织]]（Organisation for Economic Co-operation and Development, [[OECD]]）[[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]确立为贯通微观学校实践（第 9 章）与宏观跨国政策生态诊断（第 1、2、4 章）的核心理论支柱（[[Argument_Revai_2022_ChangingLandscape\|Révai, 2022]]; [[Argument_Torres_2022_KMModels\|Torres, 2022b]]; [[Argument_Hill_2022_FacilitatingActors\|Hill, 2022]]; [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al., 2022b]]）。
@@ -202,7 +200,7 @@ QURE 框架的[[Ontology|本体论]]突破在于打破侧重“证据生产质�
 > - **前提一** QURE 框架的核心内核是由适切研究证据与审慎参与及实施构成的双向互连构件；证据质量具有情境特异性，取决于具体教育问题、学校背景与使用意图，单纯方法学严谨不足以保障适切性。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 185–186)]]
 >   > [!evidence-grid]- 证据
 >   > - **澳大利亚特教现场实证** 专职特教教师 Alex 在教学中确立适切性三重审问机制（“预期成效何在？与学校特殊情境有多大契合度？我和同事有多大可能妥善付诸实施？”），表明证据必须情境化检验。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, p. 187)]]
->   > - **[[Systematic Review\|系统综述]]多维归纳** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] 综述证实，适切证据在经验[[Document\|文献]]中表现为情境匹配、实践实用、来源整合与方法可[[Reliability\|信度]]四大维度的交汇。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, p. 11)]]
+>   > - **[[Systematic Review\|系统综述]]多维归纳** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] 综述证实，适切证据在经验文献中表现为情境匹配、实践实用、来源整合与方法可[[Reliability\|信度]]四大维度的交汇。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, p. 11)]]
 > - **前提二** 高质量使用要求实践者对研究展开批判审视、集体审议与渐进式课堂整合；脱离审慎实施的单纯引用容易蜕化为追逐潮流、证实偏见或行政强加等劣质使用。
 >   > [!evidence-grid]- 证据
 >   > - **一线教育者质性对照** 906 名教育者明确指出，劣质使用表现为在社交媒体偶然看到即盲目套用、管理层头脑发热强加新点子、以及教师抱持僵化防卫心态；高质量使用则以坚实证据积累、开放探究心智与师生减负为特征。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, Table 9.1, p. 190)]]
@@ -245,7 +243,7 @@ QURE 框架的[[Ontology|本体论]]突破在于打破侧重“证据生产质�
 > - **推论一（源自核心命题一）** 恰当研究由情境匹配、实践实用、来源整合与方法可信度四维构成；缺乏情境适切性的高设计严密性研究（如脱离校情的[[Randomised Controlled Trials\|随机对照试验]]）在实践端无法实现高质量使用。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, p. 11)]]
 > - **推论二（源自核心命题二）** 外部专业支持（如大学研究者进校合作）与内部教研共同体相结合时，实践者更易克服研究晦涩感与质量甄别信心缺失，展现出最高水平的深思熟虑参与。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, p. 192)]]; [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, p. 12)]]
 > - **推论三（源自核心命题三与四）** 行政征询网络的简单规模扩张并不等于高质量使用，大网络并不带来深层理解；唯有依靠高频度、小范围、制度化的一对一指导与教研组研讨，才能化解信任赤字。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 84–87)]]; [[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, p. 188)]]
-> - **应用命题** QURE 既可作为质性与混合研究中度量研究使用质态的多维[[Coding in Qualitative Research\|编码]]透镜，也可作为学校与区域教育系统开展循证能力自评、诊断时间赤字与优化排程的改进工具。[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 50–51)]]; [[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 193–195)]]
+> - **应用命题** QURE 既可作为质性与混合研究中度量研究使用质态的多维编码透镜，也可作为学校与区域教育系统开展循证能力自评、诊断时间赤字与优化排程的改进工具。[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 50–51)]]; [[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 193–195)]]
 
 > [!mechanism-map]- 机制图
 > ```mermaid
@@ -290,7 +288,7 @@ QURE 框架的[[Ontology|本体论]]突破在于打破侧重“证据生产质�
 
 > [!exegesis]- 教育研究例子
 > - **微观教学现场的个体使能运转** 澳大利亚一所招收极度弱势与创伤学生的公立小学专职特教教师 Alex，展现了好奇、勇于探索且主动出击的审慎心智。在检索多源研究后，Alex 不盲从权威结论，而是对照学校改进目标严格执行适切性三重审问（是否切合目的、情境契合度如何、团队能否落地）；随后在专业学习教研组（PLTs）中与校长紧密配合带领同事共同研读，并在课堂中开展渐进式教学试验与学生数据监测。该案例生动证明：唯有将批判审思心智、多源适切性评估与教研组协作网络紧密结合，外部研究才能转化为有成效的专业行动（[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al., 2022b, Box 9.2, p. 187]]）。
-> - **特教学校中的组织使能协同** 在一所专门招收肢体与智力残障学生的政府特殊学校中，普通教师 Genevieve 的循证实践深度依赖组织使能三大支柱。该校校长 Kerrie 深入教学一线，坚持每周与每位教师开展 1 小时的一对一深度指导，共同研讨学术文献在[[Individualised Instruction\|个别化教学]]中的落地；学校建立了制度化的专业学习共同体（PLCs），安排专有时间供教师与[[Teaching Assistant\|助教]]围坐研读，避免在教职工大会上被仓促挤兑；同时学校主动链接区域校际协作网络与学区专业顾问。该案例表明：领导者的躬身示范提供了试错心理安全，制度化的排程保障打破了行政事务对教研的碎片化挤压，校际网络打破了单一学校的资源孤岛，构成了常态化循证的实践庇护所（[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al., 2022b, Box 9.3, p. 188]]）。
+> - **特教学校中的组织使能协同** 在一所专门招收肢体与智力残障学生的政府特殊学校中，普通教师 Genevieve 的循证实践深度依赖组织使能三大支柱。该校校长 Kerrie 深入教学一线，坚持每周与每位教师开展 1 小时的一对一深度指导，共同研讨学术文献在[[Individualised Instruction\|个别化教学]]中的落地；学校建立了制度化的专业学习共同体（PLCs），安排专有时间供教师与助教围坐研读，避免在教职工大会上被仓促挤兑；同时学校主动链接区域校际协作网络与学区专业顾问。该案例表明：领导者的躬身示范提供了试错心理安全，制度化的排程保障打破了行政事务对教研的碎片化挤压，校际网络打破了单一学校的资源孤岛，构成了常态化循证的实践庇护所（[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al., 2022b, Box 9.3, p. 188]]）。
 > - **宏观政策制定中的中介机构建设** 挪威与斯洛文尼亚教育部在部属机构常设专门的研究情报中心，配备兼具学术功底与政策敏感度的[[Embedded Researcher\|嵌入式研究者]]（Embedded Researchers）。通过定期召开跨部门政策研讨例会，使政策制定者不仅将研究用于寻找现成方案，更将其作为审议争议与凝聚共识的资源，有效化解了单纯外购学术报告所导致的浅层技术采购异化（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, pp. 84–87]]）。
 
 ---
@@ -305,7 +303,7 @@ QURE 框架的[[Ontology|本体论]]突破在于打破侧重“证据生产质�
 
 > [!theory-use] 如何用于研究
 > - **作为理论框架** 重新组织[[Research Question\|研究问题]]：打破“教师或官员是否使用了研究”的简单二元设问，将其重构为“使用了何种证据、如何审慎参与、受何种个体与组织条件使能以及使用质态如何”。
-> - **作为分析工具** 转化为多维[[Coding in Qualitative Research\|编码]]体系与诊断指标：在[[Qualitative Research\|质性研究]]与政策评估中，将个体技能/心智/关系、组织领导/文化/基础架构、六大实践特征作为先验编码节点，用于诊断学校或区域系统的证据使用瓶颈。
+> - **作为分析工具** 转化为多维编码体系与诊断指标：在[[Qualitative Research\|质性研究]]与政策评估中，将个体技能/心智/关系、组织领导/文化/基础架构、六大实践特征作为先验编码节点，用于诊断学校或区域系统的证据使用瓶颈。
 > - **作为批判视角** 揭示以供给为中心、重推送轻吸收的政策盲区；批判将研究使用障碍简单归咎于一线教师个体素养的懒政思维；警惕缺乏制度保障时对教师业余时间的隐性剥削与浅层交易型采购。
 > - **报告方式** 报告实证研究时，应明确区分 QURE 作为先验理论透镜与经验证据检验之间的界限，避免将规范性的理想特征直接等同于已然实现的实践现实。
 
@@ -334,13 +332,13 @@ QURE 框架的[[Ontology|本体论]]突破在于打破侧重“证据生产质�
 ## 发展脉络
 
 > [!dev-timeline] 发展脉络
-> - **2019 — 跨领域[[Systematic Review\|系统综述]]与概念奠基** 莫纳什大学 Q 项目团队针对卫生保健、社会关照、公共政策与教育四大领域的[[Research Utilization\|证据使用]][[Document\|文献]]展开系统综述与[[Narrative Synthesis\|叙事综合]]，发现各领域均缺乏关于使用质量的直接界定，初步建构 QURE 框架并开展学校利益相关者工作坊迭代。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 184, 199)]]
+> - **2019 — 跨领域[[Systematic Review\|系统综述]]与概念奠基** 莫纳什大学 Q 项目团队针对卫生保健、社会关照、公共政策与教育四大领域的[[Research Utilization\|证据使用]]文献展开系统综述与[[Narrative Synthesis\|叙事综合]]，发现各领域均缺乏关于使用质量的直接界定，初步建构 QURE 框架并开展学校利益相关者工作坊迭代。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 184, 199)]]
 > - **2020 — 框架正式发布** 团队发布奠基性专著报告《Using Evidence Better: Quality Use of Research Evidence Framework》，明确提出双核互构与三层使能系统，将研究使用议程由证据质量转向使用质量（Rickinson et al., 2020）。
 > - **2022 — 同行评议奠基论文发表于《教育研究》** [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]] 在《教育研究》（*Educational Research*）发表同行评议理论论文，详述基于卫生、社会关照、教育与政策四大领域 112 篇核心文献的跨领域系统综述与叙事综合方法，正式确立适切证据与审慎实施双核，并系统阐述个体、组织使能构件及宏观系统影响。（[[Argument_Rickinson_2022_ER\|Rickinson et al., 2022a, pp. 133–158]]）
 > - **2022 — [[OECD]] [[Knowledge Mobilisation\|知识动员]]模型横向比较** [[Argument_Torres_2022_KMModels\|Torres (2022b)]] 将 QURE 框架作为考察使用质量的第四代创新知识动员模型纳入横向比较，指出其突破了传统模型只关注使用有无的局限，从个体、组织与系统全链条定义了“用得好”的实质内涵。[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 47–50)]]
 > - **2022 — OECD 跨国政策调查[[Operationalization\|操作化]]** [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] 首次将 QURE 操作化为跨国政策调查维度，在 29 国 37 个教育系统测度了使能构件分布，揭示出高主观承诺与低信任、行政中介集聚与实践真空等深层结构矛盾。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 75–104)]]
 > - **2022 — [[Monash Q Project\|莫纳什 Q 项目]]全澳 906 名教育者实证发表** [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] 在 OECD 编著第九章系统公布澳大利亚 4 州两轮[[Questionnaire\|问卷]]（$N=906$）与[[In-depth Interview\|深度访谈]]成果，提炼出高质量使用六大实践特征、劣质使用对照矩阵，并量化检验证明了领导示范、[[Professional Learning Community\|PLCs]] 与时间赤字的决定性影响。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 182–199)]]
-> - **2023–2024 — 实践诊断与学校自评工具开发** Q 项目团队跟进研发面向学校现场的研究使用自评与改进工具（Quality Use of Research Evidence Assessment Tool），将框架转化为促进学校自主诊断的实操规程（Gleeson et al., 2023, 2024）。
+> - **2023–2024 — 实践诊断与学校自评工具开发** Q 项目团队跟进研发面向学校现场的研究使用自评与改进工具（Quality Use of Research Evidence Assessment Tool），将框架转化为促进[[School Autonomy|学校自主]]诊断的实操规程（Gleeson et al., 2023, 2024）。
 > - **2026 — 作为先验透镜被独立系统综述采纳** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] 以 QURE 为主先验框架进行跨国[[Framework Synthesis\|框架综合]]，实证映射各层级发现，证实既有研究的个体归因偏向，并将框架重构为跨层治理机制体系。
 
 ---
@@ -353,7 +351,7 @@ QURE 框架的[[Ontology|本体论]]突破在于打破侧重“证据生产质�
 > > 争议深思熟虑参与与适切性是否足以[[Operationalization\|操作化]]为客观度量，以及统一的质量特征是否会忽视学校多元情境。
 > >
 > > - **Rickinson et al. (2020, 2022)** 主张适切性由情境、用途与问题共同决定，六大特征提供了兼顾规范性与情境灵活性的共识性坐标。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 185–191)]]
-> > - **[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]]** 在[[Coding in Qualitative Research\|编码]]中发现既有实证[[Document\|文献]]极少直接测量使用质量，多仅描述使用行为，说明质量维度的经验测量仍面临严峻的操作化壁垒。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, p. 4)]]
+> > - **[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]]** 在编码中发现既有实证文献极少直接测量使用质量，多仅描述使用行为，说明质量维度的经验测量仍面临严峻的操作化壁垒。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, p. 4)]]
 >
 > > [!axis] 深思熟虑审议与科层短期政绩考核的现实冲突
 > > QURE 倡导放慢节奏以换取长远加速的审慎对话，但实证研究质疑科层体制是否容许这种深层实践。

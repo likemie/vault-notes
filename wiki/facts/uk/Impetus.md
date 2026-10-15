@@ -11,9 +11,9 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 24
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 23
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "foundation"
 headquarters: "London, UK"
@@ -34,7 +34,6 @@ related_concepts:
   - "[[Co-affiliation]]"
   - "[[Performance Indicators]]"
   - "[[Epistemology]]"
-  - "[[Teaching Assistant]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Educational Brokerage Agency]]"
 related_theories: []
@@ -59,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Impetus
@@ -142,7 +141,7 @@ updated: 2026-09-22
 > > - **机构与支持者立场** 强调公共财政与传统慈善充斥着低效投入，私募风投资本的尽职调查与严谨数据监控能够最大化纳税人与捐赠者的每一分钱，确保干预真正对弱势群体的学业与收入产生确定性实效。
 >
 > > [!axis] 跨国金融巨头的免税套利与道德洗白（Tax Shelter & Public Relations）
-> > 探讨全球顶尖对冲基金与私募股权寡头资[[Teaching Assistant\|助教]]育慈善背后的资本动机。
+> > 探讨全球顶尖对冲基金与私募股权寡头资助教育慈善背后的资本动机。
 > >
 > > - **批判[[Policy Network\|政策网络]]分析** [[Argument_Rowe_2022_IJER\|Rowe (2022, pp. 6–8)]] 尖锐指出，贝恩资本、黑石集团、高盛等跨国金融机构通过资助 Impetus 及其衍生的公共证据中介，不仅在客观上享受了巨额税收减免，更将自身塑造为反贫困与促进社会流动的道德倡导者；这种道德资本为其在金融危机与监管审查中提供了强大的合法性公关掩体（[[Social Science as Legitimation Alibi\|legitimation alibi]]）。
 

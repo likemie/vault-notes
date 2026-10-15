@@ -8,7 +8,7 @@ aliases:
 summary: "对科学作为独特知识生产体系的认识论属性、社会文化嵌入性及其生成机理的元认知理解，区别于陈述性事实记忆与孤立操作技能，构成公民科学素养的重要基石。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 45
+related_count: 44
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Metacognition]]"
   - "[[Epistemic Practices]]"
-  - "[[Hypothesis]]"
   - "[[Scientific Literacy]]"
   - "[[Epistemological Beliefs]]"
   - "[[Epistemic Cognition]]"
@@ -73,7 +72,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Nature of Science
@@ -83,7 +82,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!def] 核心定义
-> 科学本质（Nature of Science, NOS）是科学教育学、科学哲学与[[Epistemology\|认识论]]的核心交叉概念，指个体对科学作为一种独特[[Knowledge Production\|知识生产]]体系的[[Metacognition\|元认知]]理解——涵盖科学知识的认识论属性（如实证性、暂时性与可修正性）、科学共同体的[[Epistemic Practices\|认识论实践]]（如[[Hypothesis\|假设]]检验、异常数据排查与同行评议），以及科学活动与社会、历史及文化情境之间复杂的交互共生关系（Lederman, 1992; Lederman et al., 2002; McComas, 1998; [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 10]]）。理解科学本质被公认为培育公民[[Scientific Literacy\|科学素养]]（Scientific Literacy）的三大支柱之一，促使学习者从被动接受现成定理的知识消费者转变为具备理性审辨力的探究参与者。
+> 科学本质（Nature of Science, NOS）是科学教育学、科学哲学与[[Epistemology\|认识论]]的核心交叉概念，指个体对科学作为一种独特[[Knowledge Production\|知识生产]]体系的[[Metacognition\|元认知]]理解——涵盖科学知识的认识论属性（如实证性、暂时性与可修正性）、科学共同体的[[Epistemic Practices\|认识论实践]]（如假设检验、异常数据排查与同行评议），以及科学活动与社会、历史及文化情境之间复杂的交互共生关系（Lederman, 1992; Lederman et al., 2002; McComas, 1998; [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 10]]）。理解科学本质被公认为培育公民[[Scientific Literacy\|科学素养]]（Scientific Literacy）的三大支柱之一，促使学习者从被动接受现成定理的知识消费者转变为具备理性审辨力的探究参与者。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向关于科学本身的“元知识”（Meta-knowledge），即关于科学主张如何被提出、检验、辩护与修正的[[Epistemological Beliefs\|认识论信念]]与规范结构。
@@ -122,7 +121,7 @@ updated: 2026-09-22
 > - **暂时性与可修正性（Tentative Nature）** 科学知识具有[[Reliability\|可靠性]]与持久性，但绝非绝对真理；随着新实证证据的发现或全新理论[[Paradigm\|范式]]的引入，既有理论随时面临修正甚至重构。
 > - **观察与推论的分野（Observations vs. Inferences）** 观察是经由感官或仪器直接获取的描述性记录，而推论是对未能直接观测到的因果机制与理论实体（如电子、基因、引力场）做出的解释性建构。
 > - **理论与定律的层级区分（Theories and Laws）** 定律是对可观测自然现象之间稳定关系或数学模式的描述；理论是为解释现象底层因果机制而建构的完备系统；科学理论不会通过积累更多证据而“晋升”为定律。
-> - **[[Creativity\|创造性]]与想象力（Creativity and Imagination）** 科学研究并非机械的数据归纳，提出先锋[[Hypothesis\|假设]]、[[Design-Based Research\|设计实验]]仪器与建构抽象概念模型均高度依赖科学家的创造力。
+> - **[[Creativity\|创造性]]与想象力（Creativity and Imagination）** 科学研究并非机械的数据归纳，提出先锋假设、[[Design-Based Research\|设计实验]]仪器与建构抽象概念模型均高度依赖科学家的创造力。
 > - **主观性与理论负荷（Subjectivity and Theory-Ladenness）** 科学家的先验理论、学术范式、研究传统与信念期望，必然会影响其对[[Research Question\|研究问题]]的界定、[[Variable\|变量]]的选择以及对模糊数据的解读。
 > - **社会与文化嵌入性（Social and Cultural Embeddedness）** 科学作为人类的共同体事业，不可避免地扎根并受制于特定时代的政治、经济、哲学文化与伦理价值取向。
 

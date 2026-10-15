@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch16"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch16"
 argument_display_title: "“Piety and Its Price”"
 argument_kind: "book-chapter"
-argument_related_count: 22
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#fef3c7"
@@ -42,9 +42,7 @@ related_concepts:
   - "[[Engineering Mindset]]"
   - "[[Paradigm]]"
   - "[[Red Tape]]"
-  - "[[Hypothesis]]"
   - "[[Sage]]"
-  - "[[Attrition]]"
   - "[[Competitiveness]]"
   - "[[Innovation Desert]]"
   - "[[Founder Culture]]"
@@ -55,7 +53,6 @@ related_persons:
   - "[[Kenneth Burke]]"
   - "[[James Madison]]"
   - "[[Saint Benedict]]"
-  - "[[Peter A. Hall]]"
   - "[[Plato]]"
 related_facts:
   - "[[USS Nautilus Submarine Development]]"
@@ -136,7 +133,7 @@ updated: 2026-10-09
 > ```
 
 > [!warrant]- 逆向淘汰机制：低薪如何将公职异化为富豪慈善或离职变现跳板
-> 根据美国西北大学研究团队 2023 年针对《福布斯》全球两千名亿万富豪的实证调查（Krcmaric et al., 2023），约有 11% 的亿万富豪曾竞选或出任过公职（p. 180）。政治学者安德鲁·[[Peter A. Hall|霍尔]]（Andrew B. Hall, 2019）在其著作《谁想参选？》（*Who Wants to Run?*）中同样实证指出，立法者薪酬的贬值必然导致唯有富豪阶层才负担得起参选成本。与此相对，根据美国国会研究处（Congressional Research Service, CRS）的报告（Brudnick, 2024），美国参众两院议员平均年薪仅为 17.4 万美元，但其决策却影响着数百万国民的生计，这种体制在制度上驱使无资产背景的议员走向国会演剧化并谋求离职后寻租（pp. 180–181）。
+> 根据美国西北大学研究团队 2023 年针对《福布斯》全球两千名亿万富豪的实证调查（Krcmaric et al., 2023），约有 11% 的亿万富豪曾竞选或出任过公职（p. 180）。政治学者安德鲁·霍尔（Andrew B. Hall, 2019）在其著作《谁想参选？》（*Who Wants to Run?*）中同样实证指出，立法者薪酬的贬值必然导致唯有富豪阶层才负担得起参选成本。与此相对，根据美国国会研究处（Congressional Research Service, CRS）的报告（Brudnick, 2024），美国参众两院议员平均年薪仅为 17.4 万美元，但其决策却影响着数百万国民的生计，这种体制在制度上驱使无资产背景的议员走向国会演剧化并谋求离职后寻租（pp. 180–181）。
 
 ---
 
@@ -147,7 +144,7 @@ updated: 2026-10-09
 > [!contrast-table] 美国清教禁欲模式与新加坡务实挂钩模式对比
 > | 比较维度 | 美国清教禁欲模式 | 新加坡[[Lee Kuan Yew\|李光耀]]务实对标模式 |
 > |---|---|---|
-> | **核心人性[[Hypothesis\|假设]]** | 预设公职人员应为道德[[Sage\|圣人]]或清贫修道者 | 承认公职人员是有家庭、有现实经济诉求的真实个体 |
+> | **核心人性假设** | 预设公职人员应为道德[[Sage\|圣人]]或清贫修道者 | 承认公职人员是有家庭、有现实经济诉求的真实个体 |
 > | **薪酬制定基准** | 象征性低薪，由立法者在民粹舆论压力下人为压低 | 法定挂钩于私营部门顶级专业人士中位数折算标准 |
 > | **人才吸引机制** | 依赖富豪自费奉献或吸引热衷政客表演的投机者 | 以一流报酬竞争全社会最聪明、最务实的技术官僚与专业领袖 |
 > | **廉洁防腐路径** | 诉诸微观繁复的行政合规审查与舆论道德审判 | 形成高薪养廉与违法必惩的权责对称机制 |
@@ -158,7 +155,7 @@ updated: 2026-10-09
 
 在 1787 年制宪会议关于议员薪酬的辩论中，[[James Madison|詹姆斯·麦迪逊]]（James Madison）即对议员掌控自身薪酬持怀疑态度，认为将手伸进公款中饱私囊是失德的；新闻评论家马修·伊格莱西亚斯（Matthew Yglesias, 2019）呼吁给国会大幅加薪以扩大候选人蓄水池，但在华盛顿屡遭搁浅（p. 181）。
 
-> [!implication]- 治理后果：禁欲主义如何造成公共部门人才[[Attrition|流失]]与阶层固化
+> [!implication]- 治理后果：禁欲主义如何造成公共部门人才流失与阶层固化
 > 美国文化中对物质消费的警惕与清贫节制的崇尚虽然具有抵御消费主义沉沦的精神价值，但若将这种本能不加区分地泛化为要求公职人员充当道德圣人，其结果将是灾难性的。它剥夺了政府、教育与公共医疗等关乎国计民生的核心公共部门利用有效激励吸引顶尖人才的能力，并极具倒退性地将整个公共服务领域演变为少数不需要为生计发愁的世袭受教育精英的特权领地，变相排斥了来自底层社会的真正[[Competitiveness|竞争力]]（pp. 182–183）。
 
 ---

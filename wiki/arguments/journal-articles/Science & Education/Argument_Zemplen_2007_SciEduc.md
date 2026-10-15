@@ -28,12 +28,10 @@ related_concepts:
   - "[[Scientism]]"
   - "[[Knowledge Questions]]"
   - "[[Discourse]]"
-  - "[[Hypothesis]]"
   - "[[Homework]]"
   - "[[Operationalization]]"
   - "[[Reliability]]"
   - "[[Nature of Science]]"
-  - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Scientific Method]]"
   - "[[Cultural Relativism]]"
@@ -88,7 +86,7 @@ title: "Argument_Zemplen_2007_SciEduc"
 argument_key: "Argument_Zemplen_2007_SciEduc"
 argument_display_title: "Conflicting agendas: Critical thinking versus science education in the International Baccalaureate Theory of Knowledge course"
 argument_kind: "journal-article"
-argument_related_count: 54
+argument_related_count: 52
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -184,7 +182,7 @@ issuing_organization: ""
 > - **批判性思维课程变成自身不可批判的对象** 所有学科都通过提供框架来灌输，但 TOK 的框架特殊之处在于：它被创造出来恰恰是为了反对灌输。用这样一个框架来灌输，比用成熟的学术学科来灌输更不可接受。
 >
 > > [!exegesis]- 类比：一门课教媒体素养，教材本身却充满宣传
-> > [[Hypothesis\|假设]]学校开设了一门媒体素养课，目标是教学生识别新闻报道中的偏见和操控。但教材本身按某种特定政治立场来选择案例，考试必须用教材的术语来回答。学生很快发现：真正的批判性分析如果触及教材自身的偏见，反而会被扣分。于是学生学会在[[Homework\|作业]]中复述教材的批判性术语（这个报道存在框架效应、该信源有利益冲突），而不去真正质疑任何东西。TOK 的问题与此同构：一门反对灌输的课程，用自己创造的术语框架来[[Disciplina and Doctrina\|规训]]学生如何使用这些术语。
+> > 假设学校开设了一门媒体素养课，目标是教学生识别新闻报道中的偏见和操控。但教材本身按某种特定政治立场来选择案例，考试必须用教材的术语来回答。学生很快发现：真正的批判性分析如果触及教材自身的偏见，反而会被扣分。于是学生学会在[[Homework\|作业]]中复述教材的批判性术语（这个报道存在框架效应、该信源有利益冲突），而不去真正质疑任何东西。TOK 的问题与此同构：一门反对灌输的课程，用自己创造的术语框架来[[Disciplina and Doctrina\|规训]]学生如何使用这些术语。
 
 框架问题一旦形成，黑箱化就紧随其后。[[Operationalization|操作化]]带来了自身特有的危险：
 - **[[Reliability|信度]]改进掩盖效度追问** TOK 的评估程序一旦建立并且表面可靠，教师和管理者自然会将注意力转移到如何让评分更一致、更可预测上。这些是信度问题，可以技术性地改进
@@ -198,7 +196,7 @@ issuing_organization: ""
 批判性思维问题进一步加深了困境。课程没有明确说明期待什么层次、什么类型的批判性思维。
 
 > [!evidence-grid] 批判性思维问题的认知依据
-> - **反思判断模型的警告** King & Kitchener（1994）的反思判断模型（[[Reflective Judgment Model]]）表明，高中生的推理能力通常无法达到对比不同来源证据、阐明决策标准的水平。Dotger（2005）在讨论[[Nature of Science\|科学本质]]（Nature of Science，NOS）与批判性思维时指出，NOS [[Document\|文献]]隐含的理解深度期望实际上在大多数高阶研究生中才会发展（pp.173–174）。
+> - **反思判断模型的警告** King & Kitchener（1994）的反思判断模型（[[Reflective Judgment Model]]）表明，高中生的推理能力通常无法达到对比不同来源证据、阐明决策标准的水平。Dotger（2005）在讨论[[Nature of Science\|科学本质]]（Nature of Science，NOS）与批判性思维时指出，NOS 文献隐含的理解深度期望实际上在大多数高阶研究生中才会发展（pp.173–174）。
 > - **学校运作的现实矛盾** 学校通常在扩散（或缺失）模型中运作，本质上是权威性的，旨在限制和引导批判性思维。实际政治与普遍政策背道而驰（p.173）。
 > - **评估可能在测量一般认知发展** 如果批判性思维技能的发展与一般认知成熟度高度相关，那么评估批判性思维是否公平？将其称为知识论的成绩是否合理？这类似于：如果化学计算题的解答能力直接与短时记忆广度相关，测试短时记忆广度并据此给出化学成绩是否公平（p.173，note 12）？
 
@@ -534,7 +532,7 @@ issuing_organization: ""
 > - 三种模块尚未形成成熟的、经过系统研究的方案，每个模块设计为 5 到 6 次双课时，这些建议是试探性的（pp.181–182, 189）。
 > - 提出了但未回答框架问题和黑箱化问题，因为这两个问题涉及更广泛的教育体制议题，超越了文章的范围（p.189）。
 > - 分析部分依赖于在布达佩斯 Karinthy Frigyes 双语高中的个人 TOK 教学经验，存在教师视角的局限。TOK 教师对此课程的评价存在分化，来自科学背景的教师和来自哲学背景的教师对评估可预测性的感受不同（p.171, note 7）。
-> - 文中引用的反思判断模型（King & Kitchener, 1994）在认知科学中受到挑战。一些[[Jean Piaget\|皮亚杰]]式[[Hypothesis\|假设]]近年来被质疑，该研究区分了[[Reflexivity\|反思性]]思维和批判性思维，但这一区分对本文的论证不构成显著影响（p.174, note 14）。
+> - 文中引用的反思判断模型（King & Kitchener, 1994）在认知科学中受到挑战。一些[[Jean Piaget\|皮亚杰]]式假设近年来被质疑，该研究区分了[[Reflexivity\|反思性]]思维和批判性思维，但这一区分对本文的论证不构成显著影响（p.174, note 14）。
 
 ---
 

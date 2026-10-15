@@ -9,7 +9,7 @@ summary: "用于分析纵向追踪与群聚相关数据的半参数半回归方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 31
+method_related_count: 30
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Causality]]"
   - "[[Unit of Analysis]]"
   - "[[Heterogeneity]]"
-  - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Internal Validity]]"
   - "[[Independent Variable]]"
@@ -59,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Generalized Estimating Equations
@@ -78,7 +77,7 @@ updated: 2026-10-10
 > - **输出形式** 群体平均回归系数向量 $\boldsymbol{\beta}$、基于模型与三明治经验修正的两组标准误、Wald 统计量及 95% [[Confidence Interval\|置信区间]]。
 
 > [!citation-card] 广义估计方程在教育试验审计中的半参数稳健性（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]; Xiao et al., 2016）
-> 在杜伦大学学者针对英国 [[Education Endowment Foundation\|EEF]] 早期 17 项大规模教育 [[Randomised Controlled Trials\|RCT]] 开展的四模型并行复算中，广义估计方程（GEE）作为应对学校群聚偏误的重要备选模型接受了全面审计。复算显示，GEE 与[[Hierarchical Linear Model\|多层线性模型]]（HLM）均能有效吸收校内组内相关性，避免了标准 [[Ordinary Least Squares\|OLS]] 产生的虚假显著性膨胀；由于 GEE 聚焦于“干预对全系统平均学生的净效益”，无需对学校间未观测[[Heterogeneity\|异质性]]施加严格的正态分布[[Hypothesis\|假设]]，因而在集群规模充足的教育试验中展现出极佳的边际效应稳健性。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 52–53)]]
+> 在杜伦大学学者针对英国 [[Education Endowment Foundation\|EEF]] 早期 17 项大规模教育 [[Randomised Controlled Trials\|RCT]] 开展的四模型并行复算中，广义估计方程（GEE）作为应对学校群聚偏误的重要备选模型接受了全面审计。复算显示，GEE 与[[Hierarchical Linear Model\|多层线性模型]]（HLM）均能有效吸收校内组内相关性，避免了标准 [[Ordinary Least Squares\|OLS]] 产生的虚假显著性膨胀；由于 GEE 聚焦于“干预对全系统平均学生的净效益”，无需对学校间未观测[[Heterogeneity\|异质性]]施加严格的正态分布假设，因而在集群规模充足的教育试验中展现出极佳的边际效应稳健性。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 52–53)]]
 >
 > *“In their reanalyses of 17 EEF trials, Xiao et al. (2016) tested generalized estimating equations alongside multilevel models. GEE models the population-averaged response while treating clustering as a nuisance parameter, providing robust standard errors that protect against misspecification of the correlation structure.”*
 
@@ -115,7 +114,7 @@ updated: 2026-10-10
 > [!proc] 通用程序
 > 1. **定义边际均值模型与连接函数** 依据[[Dependent Variable\|因变量]]类型（连续、二元、计数）选定适宜的连接函数 $g(\cdot)$（如恒等连接、Logit 连接或 Log 连接）。
 > 2. **界定集群结构与独立聚类单位** 明确高层级独立集群标识符（如学校 ID 或学区 ID），确认集群间彼此独立。
-> 3. **选取工作相关矩阵（Working Correlation Matrix）** 结合数据生成机制预设相关结构（教育集群试验通常选用可交换相关结构 Exchangeable，[[Hypothesis\|假设]]同校任意两名学生相关度相同）。
+> 3. **选取工作相关矩阵（Working Correlation Matrix）** 结合数据生成机制预设相关结构（教育集群试验通常选用可交换相关结构 Exchangeable，假设同校任意两名学生相关度相同）。
 > 4. **执行准似然迭代求解** 利用广义估计方程算法迭代计算回归参数向量 $\hat{\boldsymbol{\beta}}$。
 > 5. **提取并汇报稳健[[Standard Error\|标准误]]** 无论模型基于工作相关矩阵输出的模型标准误为何，最终结论必须汇报基于[[Robust Variance Estimation\|三明治估计量]]的经验稳健标准误（Robust Standard Errors）。
 

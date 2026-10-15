@@ -10,7 +10,7 @@ aliases:
 summary: "以连续提问、澄清假设、呈现反例与暴露认知矛盾为核心的启发式教学对话策略，在哲学思辨与理科探究中作为关键言语支架促进概念重构与批判性思维发展。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 39
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -21,7 +21,6 @@ tags:
   - inquiry-learning
   - conceptual-change
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Critical Thinking]]"
   - "[[Paradigm]]"
   - "[[Man-Computer Symbiosis]]"
@@ -69,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Socratic Dialogue
@@ -79,7 +78,7 @@ updated: 2026-10-07
 ## 定义
 
 > [!def] 核心定义
-> [[Socrates\|苏格拉底]]对话（Socratic Dialogue）是一种以结构化连续追问为载体的启发式交互策略。引导者或系统不直接给出终局答案或标准公式，而是通过界定核心术语、追问潜在前提[[Hypothesis\|假设]]、引入极端反例并暴露逻辑矛盾，促使主体主动审视并重构既有认知，最终实现理性知识的自主构建与[[Critical Thinking\|批判性思维]]发展。在现代科学探究教学中，苏格拉底对话被确立为非讲授型教学指导的重要[[Paradigm\|范式]]；在现代[[Man-Computer Symbiosis|人机协同]]与决策支持系统中，苏格拉底对话进一步被工程化为对抗性质询[[AI Agent in Education|智能体]]（反思机器），通过开放追问主动注入生产性[[Epistemic Friction|认识论摩擦]]，防范对算法输出的[[Trust Calibration|过度信任]]与[[Automation Bias|自动化偏差]]。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 285–286)]]; [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 9–10)]]; [[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 3)]]; [[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–22)]]
+> [[Socrates\|苏格拉底]]对话（Socratic Dialogue）是一种以结构化连续追问为载体的启发式交互策略。引导者或系统不直接给出终局答案或标准公式，而是通过界定核心术语、追问潜在前提假设、引入极端反例并暴露逻辑矛盾，促使主体主动审视并重构既有认知，最终实现理性知识的自主构建与[[Critical Thinking\|批判性思维]]发展。在现代科学探究教学中，苏格拉底对话被确立为非讲授型教学指导的重要[[Paradigm\|范式]]；在现代[[Man-Computer Symbiosis|人机协同]]与决策支持系统中，苏格拉底对话进一步被工程化为对抗性质询[[AI Agent in Education|智能体]]（反思机器），通过开放追问主动注入生产性[[Epistemic Friction|认识论摩擦]]，防范对算法输出的[[Trust Calibration|过度信任]]与[[Automation Bias|自动化偏差]]。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 285–286)]]; [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 9–10)]]; [[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 3)]]; [[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–22)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 将交互过程重构为平等的辩证探究，通过[[Reflexivity\|反思性]]质询“助产”出主体内心隐蔽的理性理解、因果模型与审议理由。
@@ -121,7 +120,7 @@ updated: 2026-10-07
 
 > [!feature] [[Socrates\|苏格拉底]]教学对话的四阶段探究进程
 > - **初始表述与概念界定** 引导学生就核心议题或观察到的现象提出初始解释，明确界定关键概念与[[Variable\|变量]]。
-> - **[[Hypothesis\|假设]]显性化与引入反例** 追问该解释背后的隐含假设，提供冲突性实验数据或极端情境检验其普遍性。
+> - **假设显性化与引入反例** 追问该解释背后的隐含假设，提供冲突性实验数据或极端情境检验其普遍性。
 > - **认知冲突与困境暴露（Aporia）** 呈现反常数据与原观点的逻辑摩擦，使学生意识到朴素直觉的局限性与漏洞。
 > - **理性修正与概念重构** 在教师言语支架引导下，学生整合反思结果重新建立严密的科学概念模型。
 > - **基于大语言模型的苏格拉底反思机器（AI-Powered Socratic Reflection Machines）** 将自回归大语言模型（Large Language Models, LLMs）配置为对抗性质询[[AI Agent in Education|智能体]]（Reflection Machines, RMs），在[[Man-Computer Symbiosis|人机协同]]关键决策与探究节点发起不可预测的连续追问，依据用户输入的实质内容动态调整反思深度，主动注入生产性[[Epistemic Friction|认识论摩擦]]并有效抵御交互形式化。[[Argument_Jovchevski_2026_PT|(Jovchevski et al., 2026, pp. 20–23)]]
@@ -146,7 +145,7 @@ updated: 2026-10-07
 > 探讨诘问式言语互动如何激活深层推理与高阶[[Metacognition\|元认知监控]]。
 
 > [!claim] [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]]
-> **[[Meta-analysis\|元分析]]实证支持** 大规模元分析表明，在[[Critical Thinking\|批判性思维]]干预中运用[[Socrates\|苏格拉底]]对话能够产生稳定的正向促进效应（$k = 8, g+ = 0.27, 95\%\text{ CI} = [-0.01, 0.55]$）。通过连续追问促使学生澄清概念、辨识[[Hypothesis\|假设]]并权衡理由，直接激活了高阶认知监控与思维自洽性。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 286, 294)]]
+> **[[Meta-analysis\|元分析]]实证支持** 大规模元分析表明，在[[Critical Thinking\|批判性思维]]干预中运用[[Socrates\|苏格拉底]]对话能够产生稳定的正向促进效应（$k = 8, g+ = 0.27, 95\%\text{ CI} = [-0.01, 0.55]$）。通过连续追问促使学生澄清概念、辨识假设并权衡理由，直接激活了高阶认知监控与思维自洽性。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 286, 294)]]
 
 ---
 

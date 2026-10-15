@@ -29,7 +29,6 @@ related_concepts:
   - "[[Publication Bias]]"
   - "[[Evidence-Based Education]]"
   - "[[Evidence-Based Reform]]"
-  - "[[Document]]"
   - "[[Construct]]"
   - "[[Conversational AI in Education]]"
   - "[[Self-Efficacy]]"
@@ -62,8 +61,6 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Emergence]]"
   - "[[Scaffolding]]"
-  - "[[Hypothesis]]"
-  - "[[Teaching Assistant]]"
   - "[[Falsification]]"
   - "[[Fade-out Effect]]"
   - "[[Interaction Effect]]"
@@ -86,7 +83,6 @@ related_methods:
   - "[[Trim and Fill Method]]"
   - "[[Experimental Research]]"
   - "[[Sample Size Determination]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Questionnaire]]"
   - "[[Role-playing]]"
   - "[[Quasi-Experimental Designs]]"
@@ -127,7 +123,7 @@ title: "Argument_Chen_Cheung_2025_ERR"
 argument_key: "Argument_Chen_Cheung_2025_ERR"
 argument_display_title: "Effect of generative artificial intelligence on university students learning outcomes: A systematic review and meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 90
+argument_related_count: 86
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -153,7 +149,7 @@ issuing_organization: ""
 > [!concept-lens] 阅读透镜
 > - **研究团队与脉络** 香港中文大学陈树贞（Shuzhen Chen）与[[Alan C. K. Cheung\|张志强]]（Alan C. K. Cheung）承袭[[Evidence-Based Education\|循证教育]]改革（[[Evidence-Based Reform]]）传统与严格实验元分析方法论，将针对实证研究的方法学审视推进至生成式 AI 这一新兴领域。
 > - **对象** 2022 年 12 月至 2025 年 3 月期间发表的 57 项关于生成式 AI 赋能大学生产出的实验与准[[Experimental Research\|实验研究]]（涵盖 97 个效应量估计，$N = 5{,}389$ 名大学生）。
-> - **张力** 早期[[Document\|文献]]对生成式 AI 促学潜力的“过度乐观估计”与方法学不严密（未控基线差异、依赖自制测验、忽略抽屉文件偏倚）之间的张力，以及工具对认知产出的即时促进与对自主元认知监控潜在抑制之间的张力。
+> - **张力** 早期文献对生成式 AI 促学潜力的“过度乐观估计”与方法学不严密（未控基线差异、依赖自制测验、忽略抽屉文件偏倚）之间的张力，以及工具对认知产出的即时促进与对自主元认知监控潜在抑制之间的张力。
 > - **贡献** 首次在生成式 AI 元分析中引入基线等效性控制标准（$d < 0.25$），构建基于[[Third Generation Activity Theory\|活动理论]]移动计算机支持协作学习（Activity Theory-Mobile Computer-Supported Collaborative Learning, AT-MCSCL）的多维调节分析框架，系统揭示了边际效益递增假说与权力距离调节机制，并公开全部数据与分析代码以确保透明度与可复现性。
 
 > [!row-contrast] 高等教育生成式 AI 元分析的方法学与结局定位对比（pp. 3–4）
@@ -199,7 +195,7 @@ issuing_organization: ""
 
 ### 核心变量与操作化编码表（仅量化研究填写）
 
-> [!index-table] 核心[[Variable\|变量]][[Operationalization\|操作化]]定义与[[Coding in Qualitative Research\|编码]]规程
+> [!index-table] 核心[[Variable\|变量]][[Operationalization\|操作化]]定义与编码规程
 > | 变量类别与维度 | [[Construct\|理论构念]]与操作化定义 | 核心教学规程、典型测量工具与纳入案例 |
 > |---|---|---|
 > | **结果变量：[[Academic Achievement\|学业成绩]]**<br>（Academic Achievement, AA） | 课程知识掌握、概念理解与客观学科测验成绩，反映学习者通过生成式 AI 辅助对课程内容的认知吸收与事实/[[Procedural Knowledge\|程序性知识]]掌握程度。 | 纳入 25 项研究；涵盖计算机编程测验（Kosar et al., 2024; Johnson et al., 2024）、医学骨科临床考试（Gan et al., 2024; Hui et al., 2025）及专业课期末成绩；测量工具以教师自编学科测试（$k=38$）为主，亦含标准化专业统考；AI 提供即时概念解释、步骤提示与错题解析。 |
@@ -231,7 +227,7 @@ issuing_organization: ""
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **文献检索与筛选**<br>Systematic Search & PRISMA | 检索 Web of Science、Scopus、ERIC、IEEE Xplore、PsycINFO、ProQuest 等核心数据库，辅以 Google Scholar 灰色[[Literature Search\|文献检索]]及滚雪球追溯；时间跨度为 2022 年 12 月至 2025 年 3 月；共检索出 3,718 篇[[Document\|文献]]，经 EndNote 去重（排除 275 篇）、标题摘要初筛与全文复筛，依据系统评价和元分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, [[PRISMA]]）流程最终纳入 57 篇符合标准的实证研究。（pp. 7–9） |
+> | **文献检索与筛选**<br>Systematic Search & PRISMA | 检索 Web of Science、Scopus、ERIC、IEEE Xplore、PsycINFO、ProQuest 等核心数据库，辅以 Google Scholar 灰色[[Literature Search\|文献检索]]及滚雪球追溯；时间跨度为 2022 年 12 月至 2025 年 3 月；共检索出 3,718 篇文献，经 EndNote 去重（排除 275 篇）、标题摘要初筛与全文复筛，依据系统评价和元分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, [[PRISMA]]）流程最终纳入 57 篇符合标准的实证研究。（pp. 7–9） |
 > | **基线等效性控制门槛**<br>Baseline Equivalence & WWC Standards | 严格遵循 [[Robert Slavin\|Slavin]] & Smith (2009) 与美国教育科学研究院有效教学策略网（[[What Works Clearinghouse\|What Works Clearinghouse, WWC]], 2022）标准：① 必须包含对照组的[[Experimental Research\|实验]]或[[Quasi-Experimental Designs\|准实验设计]]；② 每组[[Study Population and Sample\|样本量]]至少 15 人；③ 报告[[Pre-test and Post-test\|前测]]数据并满足[[Baseline Standardized Mean Difference\|基线等效性标准化均数差]] $d < 0.25$，若在 $0.05 \le d \le 0.25$ 之间则要求统计调整协变量；④ 若无前测必须为严格[[Randomised Controlled Trials\|随机对照试验（Randomized Controlled Trial, RCT）]]；⑤ 排除测量工具与干预内容过度重叠的自利性设计。（pp. 8–9） |
 > | **效应量计算与统计模型**<br>Meta-Analysis & Mixed-Effects Model | 使用元分析综合软件（Comprehensive Meta-Analysis, CMA 3.0）进行统计建模；采用 [[Jacob Cohen\|Cohen's]] $d$ 并通过 [[Effect Size\|Hedges' g]] 小样本校正公式转化为无偏[[Effect Size\|效应量]] $g$；由于研究间存在显著[[Heterogeneity\|异质性]]（$Q = 1390.157, p < 0.001$），采用[[Fixed-Effect and Random-Effects Models\|随机效应模型（Random-Effects Model）]]进行加权合成；运用混合效应模型（Mixed-Effects Model）检验分类调节[[Variable\|变量]]（$Q_B$ 组间异质性检验），运用[[Meta-regression\|元回归（Meta-regression）]]检验连续变量（女性比例）。（pp. 9–10） |
 > | **偏倚诊断与敏感性分析**<br>Publication Bias & Sensitivity Analysis | 绘制[[Funnel Plot\|漏斗图（Funnel Plot）]]，结合 Begg [[Begg and Mazumdar Rank Correlation\|秩相关检验]]与 [[Egger Regression Test\|Egger 线性回归检验]]诊断[[Publication Bias\|发表偏倚]]；运用 Duval & Tweedie [[Trim and Fill Method\|剪补法（Trim and Fill Method）]]估算缺失研究并校正合并[[Effect Size\|效应量]]；执行[[Leave-One-Out Sensitivity Analysis\|留一法敏感性分析]]验证极端值影响。（pp. 10, 13–14） |
@@ -291,7 +287,7 @@ issuing_organization: ""
 >
 > **图表解读** 本表是[[Meta-analysis\|元分析]]的“核心总账表”，读懂各列关键统计参数需掌握三大判读准则：
 > - **先看效应量点估计与置信区间（$g^+$ 与 95% CI）** 关注 $g^+$（Hedges' g，排除小样本偏差后的标准化均数差）量级——按教育学经验，0.2 为小效应，0.5 为中等，0.8 以上为大效应。但更关键的是审视 95% 置信区间是否跨越零点：若区间完全落在零点右侧（如语言与学业成绩），证实促学成效稳健存在；若区间下限为负、上限为正跨越 0（如元认知能力），则意味着在统计学上无法排除该干预无效的可能。
-> - **次看检验统计量与显著性（$Z$ 值与 $p$ 值）** $Z$ 检验对应“效应量真实值为 0”的原[[Hypothesis\|假设]]。$Z$ 值越大且 $p < 0.05$（特别是 $p < 0.001$），表明该产出维度的促学实效具有极高统计确信度；反之若 $p > 0.05$（如元认知 $p = 0.789$），则表明该维度的微弱增益纯属偶然波动。
+> - **次看检验统计量与显著性（$Z$ 值与 $p$ 值）** $Z$ 检验对应“效应量真实值为 0”的原假设。$Z$ 值越大且 $p < 0.05$（特别是 $p < 0.001$），表明该产出维度的促学实效具有极高统计确信度；反之若 $p > 0.05$（如元认知 $p = 0.789$），则表明该维度的微弱增益纯属偶然波动。
 > - **关键枢纽：看异质性统计量（$Q$ 与 $I^2$）决定后续解读方向** $Q$ 值服从卡方分布，$I^2$ 代表效应量真实变异占总变异的百分比（25% 为低度、50% 为中度、75% 以上为极高度）。当表中各产出 $I^2$ 普遍突破 80%–95% 时，具有两大方法学指示：一是必须放弃[[Fixed-Effect and Random-Effects Models\|固定效应模型]]、选用随机效应模型；二是**单一合并效应量不能代表全貌，必须深入开展步骤二的亚组调节检验寻找差异来源**。（pp. 10, 15）
 
 > [!spectrum] 学习产出促学效应阶梯谱系（p. 15）
@@ -305,7 +301,7 @@ issuing_organization: ""
 
 > [!evidence-grid]- 支持步骤一主张的初级研究实证证据
 > - **[[Language Skills\|语言技能]]超大效应** 自然语言模型底层基于大规模语料概率分布，在二语写作重构、语法纠错、体裁模仿与口语即时对话中提供极低焦虑的演练环境，产生超大促学效应（Liu et al., 2025; Wang et al., 2024）。（pp. 9–10）
-> - **学业成绩实证案例** 在计算机初级编程（Kosar et al., 2024; Johnson et al., 2024）与骨科医学病案教学（Gan et al., 2024; Hui et al., 2025）中，AI 扮演即时[[Teaching Assistant\|助教]]角色有效帮助学生理解复杂程序逻辑与临床诊断要点。（pp. 14–15）
+> - **学业成绩实证案例** 在计算机初级编程（Kosar et al., 2024; Johnson et al., 2024）与骨科医学病案教学（Gan et al., 2024; Hui et al., 2025）中，AI 扮演即时助教角色有效帮助学生理解复杂程序逻辑与临床诊断要点。（pp. 14–15）
 > - **情感动机提升机制** AI 工具以无评判压力的对话界面响应学生提问，极大降低了求助焦虑并提升了学业[[Self-Efficacy\|自我效能感]]（Urban et al., 2024; Yilmaz & Yilmaz, 2023b; Marengo et al., 2025）。（pp. 10, 15）
 > - **高阶思维促进与张力** 在国际关系辩论与方案设计中，ChatGPT 作为思维[[Scaffolding\|脚手架]]促进了[[Reflexivity\|反思性]]论证（de la Puente et al., 2024; Lee et al., 2024），但部分研究也警示其可能降低深层逻辑推断质量（Stadler et al., 2024）。（pp. 15, 17）
 > - **元认知促学缺失警示** 实证数据表明生成式 AI 对大学生元认知能力未产生统计显著影响，证实直接提供技术工具无法自发带来自主监控提升，反而可能导致学生跳过反思评估直接采纳生成答案（Fan et al., 2025; Karaoglan Yilmaz & Yilmaz, 2025）。（pp. 15–16）
@@ -332,7 +328,7 @@ issuing_organization: ""
 > | **【前测设置】**<br>• 无前测（RCT 保证等效）<br>• 有前测（控 $d < 0.25$） | <br>36<br>61 | <br>0.819<br>0.816 | <br>0.175<br>0.093 | <br>[0.477, 1.162]<br>[0.633, 0.999] | $Q_B = 0.000 (1)$ | $0.985$ | 严格筛选标准确保了两组设计的方法学基准等价。 |
 > | **【测量工具】**<br>• 研究者自编测验<br>• 标准化量表<br>• 问卷调查 | <br>38<br>40<br>16 | <br>**1.022**<br>0.614<br>0.582 | <br>0.144<br>0.125<br>0.165 | <br>[0.740, 1.304]<br>[0.369, 0.859]<br>[0.258, 0.906] | $Q_B = 12.688 (3)$ | $0.005^{**}$ | 自编测验紧扣教学干预内容，导致效应量显著虚高，标准化量表更为稳健客观。 |
 > | **【样本规模】**<br>• 中等样本（40–100 人）<br>• 小样本（$< 40$ 人）<br>• 大样本（$> 100$ 人） | <br>55<br>12<br>30 | <br>**1.218**<br>0.524<br>0.465 | <br>0.166<br>0.100<br>0.097 | <br>[0.894, 1.543]<br>[0.327, 0.721]<br>[0.274, 0.655] | $Q_B = 16.451 (2)$ | $< 0.001^{***}$ | 中等样本实现统计功效与教学实施保真度的最佳平衡；大样本易受情境异质性稀释。 |
-> | **【出版类型】**<br>• 期刊发表<br>• 未公开发表 | <br>80<br>17 | <br>**0.893**<br>0.398 | <br>0.096<br>0.185 | <br>[0.704, 1.082]<br>[0.036, 0.761] | $Q_B = 5.624 (1)$ | $0.018^*$ | 期刊偏好显著阳性结果，未发表[[Document\|文献]]效应量收敛于中等水平，证实[[Publication Bias\|发表偏倚]]拉升。 |
+> | **【出版类型】**<br>• 期刊发表<br>• 未公开发表 | <br>80<br>17 | <br>**0.893**<br>0.398 | <br>0.096<br>0.185 | <br>[0.704, 1.082]<br>[0.036, 0.761] | $Q_B = 5.624 (1)$ | $0.018^*$ | 期刊偏好显著阳性结果，未发表文献效应量收敛于中等水平，证实[[Publication Bias\|发表偏倚]]拉升。 |
 >
 > **图表解读** 本表展示[[Third Generation Activity Theory\|活动理论]]内部要素的亚组调节检验，掌握三个步骤即可透彻读懂各列参数：
 > - **首看组间异质性检验（$Q_B$ 统计量与 $p$ 值）甄别真伪调节因子** $Q_B$（Between-group Q）类比于[[Analysis of Variance\|方差分析]]中的组间方差。读表第一步是看 $p$ 值是否小于 0.05（或带星号）：只有达到显著的[[Variable\|变量]]（如学科、样本规模、测量工具、学段与出版类型），才能在统计学上确认为对促学效果产生实质影响的“调节变量”；若 $p > 0.05$（如工具类型、模态），说明组间差距只是[[Random Sampling\|随机抽样]]波动，并非技术本身所致。
@@ -420,7 +416,7 @@ issuing_organization: ""
 ## 关键引用
 
 > [!citation-card]- [[Baseline Standardized Mean Difference\|基线等效性]]与[[Meta-analysis\|元分析]]严谨性
-> 早期元分析往往采用了不够严格的纳入标准，导致对[[Effect Size\|效应量]]的高估，例如未能控制基线差异以及使用与实验干预内在绑定的测量工具。由于本研究采用了更为严格的标准，许多在其他综述中出现的[[Document\|文献]]未被纳入。在经过[[Trim and Fill Method\|剪补法]]调整后，总体效应量降至小幅度（$g^+ = 0.321$），这一数值与教育干预的基准效应高度吻合，表明生成式 AI 具有超越既往膨胀估计的真实教育价值。（p. 15）
+> 早期元分析往往采用了不够严格的纳入标准，导致对[[Effect Size\|效应量]]的高估，例如未能控制基线差异以及使用与实验干预内在绑定的测量工具。由于本研究采用了更为严格的标准，许多在其他综述中出现的文献未被纳入。在经过[[Trim and Fill Method\|剪补法]]调整后，总体效应量降至小幅度（$g^+ = 0.321$），这一数值与教育干预的基准效应高度吻合，表明生成式 AI 具有超越既往膨胀估计的真实教育价值。（p. 15）
 >
 > *Earlier meta-analyses might have adopted less stringent inclusion criteria, leading to inflated estimates of effect sizes, such as failing to control for baseline differences and using measures inherent to the experimental treatment... Moreover, the overall effect after applying the trim-and-fill procedure was reduced to a small magnitude ($g^+ = 0.321$). This effect size aligns with benchmarks in educational interventions, indicating that Gen-AI tools offer genuine educational VALUE beyond inflated estimates reported in prior reviews.*
 
@@ -444,7 +440,7 @@ issuing_organization: ""
 ## 自述局限
 
 > [!warning] 研究局限与未来方向（p. 19）
-> 1. **[[Document\|文献]]语种与未检索范围局限** [[Literature Search\|文献检索]]受限于英文公开发表与网络可获取的实证研究，未能涵盖非英语国家以本土语言发表的研究，可能存在一定的语言选择偏倚。
+> 1. **文献语种与未检索范围局限** [[Literature Search\|文献检索]]受限于英文公开发表与网络可获取的实证研究，未能涵盖非英语国家以本土语言发表的研究，可能存在一定的语言选择偏倚。
 > 2. **长期追踪与滞后效应数据匮乏** 纳入的实证研究绝大多数为一学期或数周内的短期干预，长期实施（$> 12$ 周）的研究数量较少（仅 9 项），难以充分评估生成式 AI 对高阶认知与习惯形成的深远滞后效应。
 > 3. **部分亚组研究数量不平衡** 在学科分布（医学健康与混合学科偏少）、AI 工具类别（以 ChatGPT 为主，多模态与新兴开源大模型偏少）以及地理区域（非洲与拉美数据缺乏）上存在分布不均，限制了部分细分亚组结论的外推度。
 > 4. **测量工具质量差异** 部分初级研究依赖[[Developer-Made Measures\|研究者自编测验]]，可能存在对干预内容的顺应性测量偏差，未来研究需更多采用经过心理测量学检验的标准化跨情境工具。

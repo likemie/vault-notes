@@ -11,7 +11,7 @@ title: "Argument_McPhail_2023_JCS"
 argument_key: "Argument_McPhail_2023_JCS"
 argument_display_title: "Knowledge and the New Zealand curriculum refresh"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 33
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -42,21 +42,17 @@ related_concepts:
   - "[[Causality]]"
   - "[[Global Citizenship]]"
   - "[[Ontology]]"
-  - "[[Document]]"
   - "[[Big Ideas]]"
   - "[[Artefact]]"
-  - "[[Teaching Assistant]]"
   - "[[Epistemic Ascent]]"
 related_theories:
   - "[[Social Realism]]"
   - "[[Curriculum Design Coherence Model]]"
   - "[[Postmodernism]]"
-related_methods:
-  - "[[Coding in Qualitative Research]]"
+related_methods: []
 related_persons:
   - "[[Basil Bernstein]]"
   - "[[Lev Vygotsky]]"
-  - "[[Sigmund Freud]]"
   - "[[Gilbert Ryle]]"
   - "[[Michael Young]]"
   - "[[Johan Muller]]"
@@ -134,7 +130,7 @@ citation_aliases:
 > |---------|---------|------|---------|
 > | 知其然 | 命题 | 一句话说明某个核心主张 | 黑人生命攸关运动致力于消除系统性种族主义、维护人权 |
 > | | 学科概念 | 用词语或短语表达的抽象思想 | 种族主义、人权、社会公正、偏见 |
-> | 内容 | 概念的具体化 | 支撑概念的事实、案例、情境 | 该运动始于美国并向全球扩散，2020 年乔治·[[Sigmund Freud\|弗洛伊德]]之死引发了广泛关注 |
+> | 内容 | 概念的具体化 | 支撑概念的事实、案例、情境 | 该运动始于美国并向全球扩散，2020 年乔治·弗洛伊德之死引发了广泛关注 |
 > | 知其所用 | 技能、学科实践 | 运用学科方法处理具体问题 | 解读关于系统性种族主义的案例资料，在不同情境中运用人权原则进行分析 |
 
 ---
@@ -188,7 +184,7 @@ citation_aliases:
 >
 > **双文化主义**。毛利知识体系贯穿整个课程改革，为其提供了统一的主题和隐喻凝聚力：
 > - 课程文件声称 Te Mātaiaho 旨在落实怀唐伊条约的承诺，「旨在转变毛利人的教育不平等，给予毛利知识体系和毛利语言突出地位」（March 2023d, p.12）
-> - Siteine (2018) 提出了一个强烈的身份指令，[[Coding in Qualitative Research\|编码]]在[[The New Zealand Curriculum\|新西兰课程]]话语中：认为[[Academic Achievement\|学业成就]]与民族身份认可之间存在[[Causality\|因果关系]]，主张在课堂中运用文化价值观、语言和实践来实现这一目标
+> - Siteine (2018) 提出了一个强烈的身份指令，编码在[[The New Zealand Curriculum\|新西兰课程]]话语中：认为[[Academic Achievement\|学业成就]]与民族身份认可之间存在[[Causality\|因果关系]]，主张在课堂中运用文化价值观、语言和实践来实现这一目标
 > - 这一身份指令在课程改革中进一步强化
 >
 > **地方化**。地方化原则强调「与当地社区共同设计和审查学校课程」(p.5)，通过「与当地人民（tangata whenua）和社区的关系来学习」(p.6)：
@@ -204,7 +200,7 @@ citation_aliases:
 > **三种再脉络化原则之间的张力**
 > - 毛利知识体系的核心关切与课程声称已转向关注学习进步和增长之间存在潜在矛盾——两者建立在不同的[[Ontology\|本体论]]和认识论基础上(Hikuroa, 2017; Stewart, 2022)
 > - 高期望原则要求教师「将学习者带出其直接经验、激发好奇心、打开新视野」，这可能与强烈的地方化倾向存在矛盾
-> - 教育部声称「课程受到知识景观和一系列课程理论洞见的启发」(p.12)，但课程文件中并未提供具体的[[Document\|文献]]引用来说明所借鉴的教育理论是什么，特别是关于学习如何发生的理论
+> - 教育部声称「课程受到知识景观和一系列课程理论洞见的启发」(p.12)，但课程文件中并未提供具体的文献引用来说明所借鉴的教育理论是什么，特别是关于学习如何发生的理论
 
 ---
 
@@ -305,7 +301,7 @@ citation_aliases:
 > - 例如，英语学科的大概念混合了知识陈述（如「交流依赖于共享的符码和惯例」）和论证学科重要性的陈述（如「故事是快乐和营养的源泉」），后者放在目的声明部分更为合适
 > - 课程文件因此缺乏内在的逻辑性和凝聚力，根源在于没有一套清晰的认识论「意义系统」来统领课程设计
 >
-> **声称与现实的矛盾** 课程文件声称该结构「清晰且易于使用」(p.5)，但作者作为学者发现其多层次结构实际上相当复杂，怀疑这一结构能否帮[[Teaching Assistant\|助教]]师厘清认识论知识，从而为[[Surface and Deep Learning\|深层学习]]所需的课程设计连贯性和逻辑提供支撑。
+> **声称与现实的矛盾** 课程文件声称该结构「清晰且易于使用」(p.5)，但作者作为学者发现其多层次结构实际上相当复杂，怀疑这一结构能否帮助教师厘清认识论知识，从而为[[Surface and Deep Learning\|深层学习]]所需的课程设计连贯性和逻辑提供支撑。
 
 ---
 

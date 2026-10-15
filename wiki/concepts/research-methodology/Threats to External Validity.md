@@ -7,7 +7,7 @@ aliases:
 summary: "在量化研究中限制研究发现从样本推广到更广泛总体、情境和时间的系统性偏差来源，Campbell and Stanley 经典框架列出九种量化威胁，Lincoln and Guba 将其扩展至自然主义研究中的四种威胁"
 type: concept
 domain: "research-methodology"
-related_count: 38
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -31,9 +31,7 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Ecological Validity]]"
   - "[[Class Size]]"
-  - "[[Teaching Assistant]]"
   - "[[Construct]]"
-  - "[[Hypothesis]]"
   - "[[Policy Window]]"
   - "[[Catalytic Validity]]"
   - "[[Interpretive Validity]]"
@@ -58,7 +56,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
 status: draft
 created: 2026-06-23
-updated: 2026-10-06
+updated: 2026-10-15
 ---
 # Threats to External Validity
 
@@ -114,7 +112,7 @@ Creswell & Guetterman (2018) 将外部效度威胁按交互类型分为三种（
 > [!example]- Creswell 三类威胁的案例
 > **选择 × 处理** 一项在某精英私立学校中验证有效的新教学法，不能直接宣称对所有学校都有效。该校学生家庭背景优越、师资充足、[[Class Size\|班级规模]]小——这些特征可能共同塑造了教学法的效果。在公立学校或农村学校中能否复制同样效果，需要额外研究来验证。
 >
-> **情境 × 处理** 一项在设备先进、小班教学（每班 15 人）的实验室学校中验证有效的计算机辅[[Teaching Assistant\|助教]]学方案，未必能在设备陈旧、每班 45 人的普通公立学校中产生同样效果。情境不单是物理环境，也包括师生比、学校文化、社区支持等不可见的因素。只有在新情境中复制实验，才能确定结果的推广边界。
+> **情境 × 处理** 一项在设备先进、小班教学（每班 15 人）的实验室学校中验证有效的计算机辅助教学方案，未必能在设备陈旧、每班 45 人的普通公立学校中产生同样效果。情境不单是物理环境，也包括师生比、学校文化、社区支持等不可见的因素。只有在新情境中复制实验，才能确定结果的推广边界。
 >
 > **历史 × 处理** 2020 年疫情期间进行的一项在线教学效果实验中，受试者处于被迫远程教学的非常态下，对在线学习的态度和投入度与常态时期可能完全不同。该实验结果不能自动推广到疫情结束之后的情境。在后续时间点复制研究，可以检验结果的时间稳定性。
 
@@ -130,7 +128,7 @@ Lincoln & Guba (1985, p. 189, 300) 列出了自然主义研究的四种外部效
 
 > [!dimension] 自然主义研究的外部效度威胁（Lincoln & Guba）
 > - **选择效应（selection effects）**
->   所选择的研究[[Construct\|构念]]实际上只与特定群体相关，却[[Hypothesis\|假设]]其广泛适用。[[Qualitative Research\|质性研究]]的小样本和[[Purposeful Sampling\|目的性抽样]]使这一问题尤为突出——研究发现可能只反映了被选中的少数参与者的经验。
+>   所选择的研究[[Construct\|构念]]实际上只与特定群体相关，却假设其广泛适用。[[Qualitative Research\|质性研究]]的小样本和[[Purposeful Sampling\|目的性抽样]]使这一问题尤为突出——研究发现可能只反映了被选中的少数参与者的经验。
 > - **情境效应（setting effects）**
 >   结果很大程度上是其特定情境的函数——离开该情境后不再成立。一个在特定学校文化中观察到的现象，可能在该校的独特历史、领导和社群关系中才能被理解。
 > - **历史效应（history effects）**

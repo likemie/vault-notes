@@ -8,7 +8,7 @@ summary: "混合方法研究中将量化与质性数据或结果并列在同一�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 9
+method_related_count: 8
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#fef3c7"
@@ -25,7 +25,6 @@ related_methods:
   - "[[Convergent Design]]"
   - "[[Explanatory Sequential Design]]"
   - "[[Exploratory Sequential Design]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Multimethod Research]]"
 related_persons: []
 related_facts: []
@@ -34,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-05-30
+updated: 2026-10-15
 ---
 
 # Joint Display
@@ -58,7 +57,7 @@ updated: 2026-05-30
 >
 > **[[Explanatory Sequential Design\|解释性序列设计]]联合展示** 从左到右依次为：量化得分 → 质性后续主题 → [[Metainferences\|元推论]]（质性主题如何解释得分）。这种横向排列反映了该设计的程序顺序。
 >
-> **[[Exploratory Sequential Design\|探索性序列设计]]联合展示** 以调查开发为例，前两列为：质性阶段（引用、[[Coding in Qualitative Research\|编码]]、主题）→ 设计特征（调查条目、变量、量表）。第三列为元推论，关注调整后的量化评估是否产生了良好结果。
+> **[[Exploratory Sequential Design\|探索性序列设计]]联合展示** 以调查开发为例，前两列为：质性阶段（引用、编码、主题）→ 设计特征（调查条目、变量、量表）。第三列为元推论，关注调整后的量化评估是否产生了良好结果。
 
 
 ## 与元推论的关系

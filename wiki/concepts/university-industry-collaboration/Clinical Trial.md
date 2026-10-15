@@ -10,7 +10,7 @@ aliases:
 summary: "以人为研究对象、按预设试验方案分阶段评估新药、医疗器械或前沿疗法安全性、有效性与风险收益比的前瞻性干预研究。在产学合作中构成生物医药领域资金体量最大、规制约束最严苛的转化载体；当代规制科学正通过接受真实世界证据、推行单项高统计效力确证性研究、设立受控监管沙盒以及搭建公私伙伴加速平台重塑临床试验范式。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 39
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -41,7 +41,6 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Causality]]"
   - "[[Permissionless Innovation]]"
-  - "[[Document]]"
 related_theories:
   - "[[Developmental Network State]]"
 related_methods:
@@ -240,7 +239,7 @@ updated: 2026-10-15
 > | [[Developmental Network State]] | Theory | 解释国家卫生研究院与公共财政在早期临床试验中承担高风险去风险功能的理论。 |
 > | [[Fred Block]] | Person | 基于紫杉醇等临床试验实证案例批判医药创新领域公共承担风险、私人垄断暴利的学者。 |
 > | [[Michael Kratsios]] | Person | 白宫科技政策办公室主任，系统提出临床审批改革与监管沙盒战略。 |
-> | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 从发展型网络国家与虚构商品化视阈剖析临床试验公共出资与公私利益倒挂的理论[[Document\|文献]]。 |
+> | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 从发展型网络国家与虚构商品化视阈剖析临床试验公共出资与公私利益倒挂的理论文献。 |
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] | Argument | 战略报告，提出真实世界证据、单项高功效确证试验与前沿生物医疗沙盒改革方案。 |
 
 ---

@@ -5,9 +5,9 @@ summary: "Brown和Sime发展的陈述收集操作框架，包含信息提供者�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 16
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 15
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dbeafe"
 tags: [method/qualitative, data-collection, theme/language]
 related_concepts:
@@ -20,7 +20,6 @@ related_methods:
   - "[[Accounts]]"
   - "[[Internal Consistency]]"
   - "[[Transcription in Qualitative Research]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Data Reduction]]"
   - "[[Ethogenic Approach]]"
   - "[[Experience Sampling Method]]"
@@ -32,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 # Account Gathering
 
@@ -52,7 +51,7 @@ updated: 2026-09-17
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 陈述是参与者在社会情境中赋予行动以意义的言语产物；研究者对陈述的分析本身也是一个需要被说明和验证的过程。
 > - **研究者角色** 研究者需要管理信息提供者的选择、陈述收集情境的建构、陈述转化的忠实性、以及自身陈述的透明性。
-> - **有效性标准** 协商验证、[[Internal Consistency\|内部一致性]]、交叉佐证、[[Transcription in Qualitative Research\|转录]][[Reliability\|信度]]和[[Coding in Qualitative Research\|编码]]者信度的结合。
+> - **有效性标准** 协商验证、[[Internal Consistency\|内部一致性]]、交叉佐证、[[Transcription in Qualitative Research\|转录]][[Reliability\|信度]]和编码者信度的结合。
 > - **不声称回答的问题** 不声称产生统计概括或[[Causality\|因果推断]]；不声称排除研究者在陈述转化和解释中的中介作用。
 
 ## 研究程序
@@ -68,12 +67,12 @@ updated: 2026-09-17
 > [!method-fit] 适用判断
 > - **适合使用** 需要系统化操作程序的[[Ethogenic Approach\|人因研究]]；需要在研究团队内部建立统一的陈述收集和分析标准时。
 > - **谨慎使用** 当研究情境不允许严格遵循所有控制程序时；当参与者群体难以清晰界定片段和角色时。
-> - **不适合使用** 高度探索性的研究（可能更适合[[Experience Sampling Method\|经验取样法]]）；不需要[[Transcription in Qualitative Research\|转录]]和[[Coding in Qualitative Research\|编码]]的简单陈述记录。
+> - **不适合使用** 高度探索性的研究（可能更适合[[Experience Sampling Method\|经验取样法]]）；不需要[[Transcription in Qualitative Research\|转录]]和编码的简单陈述记录。
 
 ## 局限性
 
 > [!method-limits] 方法局限
-> - **偏误来源** 每个要素都可能引入偏差：信息提供者选择偏差、场所的情境效应、[[Transcription in Qualitative Research\|转录]]和[[Coding in Qualitative Research\|编码]]的不一致性、研究者自身陈述中的解释偏差。
+> - **偏误来源** 每个要素都可能引入偏差：信息提供者选择偏差、场所的情境效应、[[Transcription in Qualitative Research\|转录]]和编码的不一致性、研究者自身陈述中的解释偏差。
 > - **适用边界** 框架的结构化程度可能在高度探索性研究中限制灵活性；控制程序的实施依赖于研究者的技能和资源。
 > - **误用风险** 机械地遵循框架而忽视陈述的社会意义；将控制程序等同于"客观性"保证。
 > - **补救方式** 每个要素内部已包含控制程序；框架本身的系统性提供了多重验证节点。

@@ -7,7 +7,7 @@ aliases:
 summary: "由 William Davies (2022) 批判提出并由 Smith (2026) 引入教育哲学的批判社会学概念，指在标准化改革与高利害测验压力下，读写教育系统性向计算机优势能力（信息处理与模式识别）靠拢，从而边缘化并驱逐人类独有的主观阐释与深层理解；在生成式 AI 时代，算法代劳与套路八股形成恶性共谋，前置并加剧了成长性认识不正义。"
 type: concept
 domain: "sociology-of-education"
-related_count: 19
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,7 +21,6 @@ tags:
 related_concepts:
   - "[[High-Stakes Testing]]"
   - "[[Generative Artificial Intelligence]]"
-  - "[[Teaching Assistant]]"
   - "[[Informationalization]]"
   - "[[Epistemology]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -47,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-23
-updated: 2026-09-28
+updated: 2026-10-15
 ---
 
 # Computerization of Education
@@ -61,7 +60,7 @@ updated: 2026-09-28
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向课程与教学目标的降格——将鲜活的人文求知实践窄化为机器亦能胜任的套路化算法操作。
-> - **用途** 帮[[Teaching Assistant|助教]]育社会学与哲学研究者透视大语言模型在学校流行背后的制度土壤，批判应试标准化教育与算法代劳的结构性共谋。
+> - **用途** 帮助教育社会学与哲学研究者透视大语言模型在学校流行背后的制度土壤，批判应试标准化教育与算法代劳的结构性共谋。
 > - **边界** 不等于教育[[Informationalization|信息化]]、数字化校园建设或中性的计算机辅助教学（CAI）；它专指教育评价与认知要求向机器模式对齐的“去人性化（De-humanizing）”退化。
 
 > [!citation-card] 读写教育的计算机化及其[[Epistemology|认识论]]窄化

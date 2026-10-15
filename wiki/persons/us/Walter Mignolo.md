@@ -7,7 +7,7 @@ summary: "阿根廷裔文学与文化理论家，殖民性、边界思维与认�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 21
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Knowledge Transfer]]"
   - "[[Ganz-Methode]]"
-  - "[[APA Style]]"
   - "[[Theoretical Standpoint]]"
   - "[[Corporate University]]"
   - "[[Ways of Knowing]]"
@@ -51,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-07
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 # Walter Mignolo
 
@@ -79,7 +78,7 @@ updated: 2026-09-22
 
 ### 1995 — *The Darker Side of the Renaissance: Literacy, Territoriality, and Colonization*
 
-- [[APA Style|APA]]：Mignolo, W. D. (1995). *The darker side of the Renaissance: Literacy, territoriality, and colonization*. University of Michigan Press.
+- APA：Mignolo, W. D. (1995). *The darker side of the Renaissance: Literacy, territoriality, and colonization*. University of Michigan Press.
 - 核心内容：通过分析文艺复兴时期语言、书写和地图制作在西班牙殖民美洲中的作用，揭示西方现代性从一开始就与殖民扩张和[[Epistemology|认识论]]暴力内在绑定。提出了"殖民差异"概念的早期形态。
 - 思想位置：代表早期思想形成阶段——从文学和符号学研究转向殖民性批判。
 

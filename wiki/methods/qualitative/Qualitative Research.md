@@ -11,7 +11,7 @@ summary: "以解释学与建构主义为认识论基础，在自然情境中通�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 98
+method_related_count: 97
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Value Neutrality]]"
   - "[[Backyard Research]]"
   - "[[Saturation]]"
-  - "[[Document]]"
   - "[[Champ]]"
   - "[[Research Question]]"
   - "[[Alternative Hypothesis]]"
@@ -45,6 +44,7 @@ related_concepts:
   - "[[Informed Consent]]"
   - "[[Gatekeepers]]"
   - "[[Central Phenomenon]]"
+  - "[[Document]]"
   - "[[Grandes Ecoles]]"
   - "[[Paradigm]]"
   - "[[Research Scope]]"
@@ -54,7 +54,6 @@ related_concepts:
   - "[[Analytic Generalization]]"
   - "[[Heterogeneity]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Hypothesis]]"
   - "[[Causality]]"
   - "[[Big Science]]"
 related_theories:
@@ -128,7 +127,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-05
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Qualitative Research
@@ -179,7 +178,7 @@ updated: 2026-10-07
 > [!method-stack] 方法层级与核心特征
 > - **研究设计传统** [[Narrative Research\|叙事研究]]、[[Phenomenology\|现象学]]研究、[[Grounded Theory\|扎根理论]]、[[Ethnography\|民族志]]、[[Case Study\|案例研究]]与基础性质性描述设计。
 > - **数据收集载体** 深度[[Qualitative Interview\|质性访谈]]、半结构化[[Focus Group\|焦点小组]]、参与式与非参与式[[Qualitative Observation\|质性观察]]、实物与文本档案、视听与数字材料。
-> - **分析进路** [[Qualitative Content Analysis\|质性内容分析]]、[[Coding in Qualitative Research\|编码]]程序（[[Open Coding\|开放编码]]、[[Axial Coding\|轴心编码]]、[[Selective Coding\|选择性编码]]）、主题分析、常人方法学[[Discourse Analysis\|话语分析]]与叙事重构。
+> - **分析进路** [[Qualitative Content Analysis\|质性内容分析]]、编码程序（[[Open Coding\|开放编码]]、[[Axial Coding\|轴心编码]]、[[Selective Coding\|选择性编码]]）、主题分析、常人方法学[[Discourse Analysis\|话语分析]]与叙事重构。
 > - **辅助技术** 质性计算机辅助分析软件（[[Qualitative Computer Software\|CAQDAS]]，如 NVivo, MAXQDA, ATLAS.ti, HyperQual）、反身性备忘录（[[Memos]]）、[[Field Notes\|田野笔记]]三层记录体系与[[Saturation\|理论饱和]]度检验。
 
 ---
@@ -188,11 +187,11 @@ updated: 2026-10-07
 
 根据 Creswell & Creswell（2022, Ch. 9）与批判诠释传统，质性研究具备九大贯穿始终的方法论特征：
 
-1. **参与者意义（Participants' Meanings）** 探究始终聚焦于参与者赋予现象的意义，而非研究者预设的理论框架或[[Document|文献]]假定。
+1. **参与者意义（Participants' Meanings）** 探究始终聚焦于参与者赋予现象的意义，而非研究者预设的理论框架或文献假定。
 2. **自然情境（Natural Setting）** 研究者进入参与者经历问题的真实日常[[Champ|场域]]（如学校教室、教师办公室），在现场收集一手近距离信息。
 3. **[[Researcher as Key Instrument|研究者作为关键工具]]（Researcher as Key Instrument）** 研究者亲自收集数据并进行解释，而非依赖冰冷的机械[[Questionnaire|问卷]]或客观测验。
 4. **多重数据来源（Multiple Sources of Data）** 收集访谈、观察、文件、音视频等多种形态的数据，通过多源互证构建整体图景。
-5. **归纳与演绎辩证分析（Inductive and Deductive Data Analysis）** 自下而上提炼[[Coding in Qualitative Research|编码]]与主题，随后自上而下回到数据检验主题的覆盖度与一致性。
+5. **归纳与演绎辩证分析（Inductive and Deductive Data Analysis）** 自下而上提炼编码与主题，随后自上而下回到数据检验主题的覆盖度与一致性。
 6. **[[Emergent Design|涌现式设计]]（Emergent Design）** 探究计划不是僵化锁定的，[[Research Question|研究问题]]、抽样策略与现场焦点随着理解的深入而动态演化。
 7. **[[Reflexivity|反身性]]（Reflexivity）** 研究者坦诚披露个人背景、价值观、文化前设与过往经历，审视其如何塑造数据解释。
 8. **研究者角色与边界意识（Researcher's Role）** 明确界定研究者与受访者的伦理与权力边界，警惕熟悉场域带来的理所当然偏见。
@@ -207,7 +206,7 @@ updated: 2026-10-07
 > 2. 进入现场与建立关系：办理机构审查（[[Institutional Review Board\|IRB]]）与[[Informed Consent\|知情同意]]，取得[[Gatekeepers\|守门人]]（Gatekeeper）许可，与受访者建立信任关系（Rapport）。
 > 3. [[Purposeful Sampling\|目的性抽样]]与现场收集：采用目的抽样、[[Theoretical Sampling\|理论抽样]]或最大变异抽样，同步开展访谈、观察与档案采集。
 > 4. 数据整理与逐字[[Transcription in Qualitative Research\|转录]]：将录音录像逐字转录为文本，建立统一命名与编目的研究档案库。
-> 5. [[Coding in Qualitative Research\|编码]]、提炼与主题生成：运用[[Winnowing\|数据筛选]]法则压缩冗余信息，通过[[Open Coding\|开放编码]]归并为[[Central Phenomenon\|核心范畴]]与解释性主题。
+> 5. 编码、提炼与主题生成：运用[[Winnowing\|数据筛选]]法则压缩冗余信息，通过[[Open Coding\|开放编码]]归并为[[Central Phenomenon\|核心范畴]]与解释性主题。
 > 6. [[Story Line\|故事线]]串联与理论建构：将各主题连接为连贯的[[Story Line\|故事线]]，或借助[[Analytic Framework\|分析框架]]提炼理论命题。
 > 7. 质量验证与叙事撰写：实施[[Triangulation\|三角互证]]与[[Member Checking\|成员核查]]，运用丰富密集描述撰写引人入胜的质性研究报告。
 
@@ -224,7 +223,7 @@ updated: 2026-10-07
 > [!proc] 质性数据分析七步程序（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）
 > 1. **组织和准备数据** 完成访谈录音的逐字[[Transcription in Qualitative Research\|转录]]、扫描关键文本与图像材料、录入[[Field Notes\|田野笔记]]，建立可检索的原始数据库。
 > 2. **通读所有数据以获整体感知** 全面沉浸于材料之中，反思受访者的言语基调与潜在意义，撰写[[Reflexivity\|反思性]]边缘备忘录。
-> 3. **[[Coding in Qualitative Research\|编码]]数据** 细致切分文本或图像片段，提炼概念标签并进行范畴分类。
+> 3. **编码数据** 细致切分文本或图像片段，提炼概念标签并进行范畴分类。
 > 4. **识别并生成核心主题** 将细分编码合并归并为 5 至 7 个核心主题，提炼展现多元立场的引语证据。
 > 5. **发展[[Story Line\|故事线]]解释** 将主题按时间脉络、因果关联或组织演进串联为完整的故事线。
 > 6. **运用[[Analytic Framework\|分析框架]]深化阐释** 在基础[[Descriptive Analysis\|描述性分析]]之上，依托叙事、[[Phenomenology\|现象学]]、[[Grounded Theory\|扎根理论]]或[[Ethnography\|民族志]]等特定传统推进高阶理论解释。
@@ -250,7 +249,7 @@ updated: 2026-10-07
 在质性研究方法学中，分析路径可划分为两个具有层次差异的进路（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, Ch. 9]]）：
 
 - **[[Descriptive Methods|描述性方法]]（Descriptive Methods）** 属于基础性分析路径。研究者紧密扎根于原始数据本身，较少借用外部深奥理论框架，使用参与者的日常语言将经验资料归类为通俗主题，追求样本在情境中的最大变异度。
-- **[[Analytic Framework|分析框架]]（Analytic Framework）** 在描述性[[Coding in Qualitative Research|编码]]的基础之上，叠加特定的哲学解释传统。包括：
+- **[[Analytic Framework|分析框架]]（Analytic Framework）** 在描述性编码的基础之上，叠加特定的哲学解释传统。包括：
   - [[Narrative Research|叙事研究]]：重构个人生命史故事；
   - [[Phenomenology|现象学]]：探求生活经验的本质结构；
   - [[Grounded Theory|扎根理论]]：通过[[Open Coding|开放编码]]、[[Axial Coding|轴心编码]]与[[Selective Coding|选择性编码]]系统建构中层实体理论；
@@ -271,7 +270,7 @@ Miller 关于新任[[Grandes Ecoles|大学校]]长第一年经历的博士论文
 > 4. **[[Research Scope\|研究边界]]四要素界定** 严格界定场所（中西部农村公立学院）、行动者（新任校长与五名内阁核心成员）、事件（内阁会议与意外危机）以及过程（愿景建立与权力协商）。
 > 5. **伦理保护与 [[Institutional Review Board\|IRB]] 审查** 设立书面研究许可、IRB 豁免申请、逐字[[Transcription in Qualitative Research\|转录]]稿审阅权与匿名最终决定权等七重保护机制。
 > 6. **多源数据流规划** 安排为期四个月的五条并行数据流（双月录音访谈、双月内阁观察、日常活动观察、文件分析与校长持续录音日记），配合田野日志、[[Field Notes\|田野笔记]]本与田野日记三层记录系统。
-> 7. **数据分析与软件操作** 采用 HyperQual 软件对访谈与日记开展类属与时间序列[[Coding in Qualitative Research\|编码]]，动态发展概念清单。
+> 7. **数据分析与软件操作** 采用 HyperQual 软件对访谈与日记开展类属与时间序列编码，动态发展概念清单。
 > 8. **确证度保障策略** 综合实施多源[[Triangulation\|三角验证]]、参与者持续核查、长期田野浸润、[[Peer Debriefing\|同行审议]]、丰富密集描述与[[External Auditor\|外部审计]]。
 > 9. **叙事呈现形式** 采用富有代入感的描述性叙事而非冷冰冰的量化报告，使读者能够身临其境地体悟校长的生存挑战。
 
@@ -294,8 +293,8 @@ Miller 关于新任[[Grandes Ecoles|大学校]]长第一年经历的博士论文
 > - **忽视宏观权力与微观浪漫主义批判** [[John Rex\|约翰·雷克斯]]（John Rex, 1974）、[[Basil Bernstein\|巴兹尔·伯恩斯坦]]（[[Basil Bernstein]], 1974）与[[Keith Morrison\|基思·莫里森]]（Keith Morrison, 2009）深刻指出：质性诠释进路容易陷入微观乌托邦与主观浪漫主义，将社会结构虚幻地描绘为个体完全自由协商的产物，却在[[Epistemology\|认识论]]上遮蔽了宏观阶级结构、制度性不平等以及权力对微观互动的深层[[Disciplina and Doctrina\|规训]]与宰制（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 26]]）。
 > - **政策制定中的[[Paradigm|范式]]排他性遭遇与国家立法的等级规制** 在自上而下的循证政策规制浪潮中，质性研究曾遭遇严重的法定贬抑与排除：
 >   - 在 1998 年《[[Reading Excellence Act]]》与国家阅读专家组（[[National Reading Panel|NRP]]）报告中，官方将“科学”狭隘锚定为实验/[[Randomised Controlled Trials|RCT]]，系统性排斥质性探究；
->   - 在 2000 年国会卡斯尔草案（H.R. 4875）中，立法者甚至试图在成文法中直接确立等级清单，将[[Narrative Analysis|叙事分析]]、[[In-depth Interview|深度访谈]]、[[Participant Observation|参与观察]]、[[Case Study|案例研究]]与[[Ethnography|民族志]]明文贬低为仅供在因素尚未明晰时开展的“初步形式”（Preliminary Form），强制要求事后必须通过量化[[Hypothesis|假设]]检验予以确证；
->   - 经[[National Research Council|国家研究委员会]]（NRC）科学原则报告与[[Richard J. Shavelson|理查德·沙维尔森]]（Richard Shavelson）在国会听证会上的严正质证，2002 年《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA）删除了歧视质性方法的条款，确立了“研究方法契合所提问题”的包容性科学标准，并在[[What Works Clearinghouse|有效干预清算中心]]（[[What Works Clearinghouse|WWC]]）的审查规程中促成了质性实施情境与调节[[Variable|变量]][[Coding in Qualitative Research|编码]]模块的增设。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 33–36)]]; [[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 10)]]
+>   - 在 2000 年国会卡斯尔草案（H.R. 4875）中，立法者甚至试图在成文法中直接确立等级清单，将[[Narrative Analysis|叙事分析]]、[[In-depth Interview|深度访谈]]、[[Participant Observation|参与观察]]、[[Case Study|案例研究]]与[[Ethnography|民族志]]明文贬低为仅供在因素尚未明晰时开展的“初步形式”（Preliminary Form），强制要求事后必须通过量化假设检验予以确证；
+>   - 经[[National Research Council|国家研究委员会]]（NRC）科学原则报告与[[Richard J. Shavelson|理查德·沙维尔森]]（Richard Shavelson）在国会听证会上的严正质证，2002 年《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA）删除了歧视质性方法的条款，确立了“研究方法契合所提问题”的包容性科学标准，并在[[What Works Clearinghouse|有效干预清算中心]]（[[What Works Clearinghouse|WWC]]）的审查规程中促成了质性实施情境与调节[[Variable|变量]]编码模块的增设。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 33–36)]]; [[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, p. 10)]]
 
 ---
 
@@ -304,7 +303,7 @@ Miller 关于新任[[Grandes Ecoles|大学校]]长第一年经历的博士论文
 > [!method-stack] 质性研究与相近研究路径的界限
 > - **vs 观察/[[Correlational Research\|相关研究]]** 两者皆不操纵[[Variable\|变量]]，但相关研究依赖数值统计与标准化测量，质性研究则以[[In-depth Interview\|深度访谈]]和情境文本为数据基础（[[Argument_Brady_2023_EPR\|Brady et al., 2023, p. 4]]）。
 > - **vs [[Mixed Methods Research\|混合方法研究]]** 混合方法研究在同一研究中对量化与质性数据进行深层整合；纯质性研究则完全依托质性数据链条（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, Ch. 1]]）。
-> - **vs [[Intervention Research\|干预研究]]** 质性研究聚焦理解自然发生的情境与过程；干预研究则主动施加控制性处理以检验因果[[Hypothesis\|假设]]（[[Argument_Brady_2023_EPR\|Brady et al., 2023, p. 2]]）。
+> - **vs [[Intervention Research\|干预研究]]** 质性研究聚焦理解自然发生的情境与过程；干预研究则主动施加控制性处理以检验因果假设（[[Argument_Brady_2023_EPR\|Brady et al., 2023, p. 2]]）。
 
 ---
 

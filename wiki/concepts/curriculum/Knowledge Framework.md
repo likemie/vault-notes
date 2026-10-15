@@ -6,7 +6,7 @@ aliases:
 summary: "IB 知识论课程中用于系统考察和比较知识领域的五维分析工具，涵盖范围与应用、概念语言、知识生产方法、历史发展及个人知识互动。"
 type: concept
 domain: "curriculum"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Knowledge Questions]]"
   - "[[Construct]]"
   - "[[Epistemology]]"
-  - "[[Hypothesis]]"
   - "[[Problem Solving]]"
   - "[[Construct Validity]]"
   - "[[Falsification]]"
@@ -40,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-04
-updated: 2026-08-04
+updated: 2026-10-15
 ---
 
 # Knowledge Framework
@@ -144,7 +143,7 @@ updated: 2026-08-04
 > 结构化考察知识领域能够引发比较、解释和反思。课程是否覆盖完整[[Critical Thinking\|批判性思维]]，还要检查任务与评分是否要求来源评价、推论、决策和创造。
 
 > [!claim] Hughes, C.
-> **框架与[[Construct\|构念]]覆盖** ToK 的目标和评分描述符强调知识领域联系、不同观点与知识问题，知识框架能够服务这些[[Epistemology\|认识论]]活动。评分要求较少覆盖批判性阅读、评价来源是否可信、[[Hypothesis\|假设]]检验、不确定性判断、[[Problem Solving\|问题解决]]和创造，因此框架的存在不能单独建立完整的[[Construct Validity\|构念效度]]。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 40–43)]]
+> **框架与[[Construct\|构念]]覆盖** ToK 的目标和评分描述符强调知识领域联系、不同观点与知识问题，知识框架能够服务这些[[Epistemology\|认识论]]活动。评分要求较少覆盖批判性阅读、评价来源是否可信、假设检验、不确定性判断、[[Problem Solving\|问题解决]]和创造，因此框架的存在不能单独建立完整的[[Construct Validity\|构念效度]]。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 40–43)]]
 
 ### 命题总览
 
@@ -164,7 +163,7 @@ updated: 2026-08-04
 > [!critique-method] 使用风险
 > - **领域本质化** 以单一[[Ways of Knowing\|认知方式]]或方法概括整个领域，容易形成数学只依赖推理、艺术只依赖表达、科学只依赖[[Falsification\|证伪]]等简化判断。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, p. 39)]]
 > - **维度清单化** 五个维度若被机械分割，概念、方法、历史与个人知识之间的互动会被压缩为表面覆盖。分类框架适合诊断覆盖范围，不宜充当机械清单。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 34–35)]]
-> - **术语替代分析** 学生可以建立领域连接并使用课程术语，实际作品仍可能缺少来源审查、推论、[[Hypothesis\|假设]]检验和评价标准。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 41–43)]]
+> - **术语替代分析** 学生可以建立领域连接并使用课程术语，实际作品仍可能缺少来源审查、推论、假设检验和评价标准。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 41–43)]]
 
 > [!warning] 解释边界
 > Hughes 分析的是 2013 年 ToK 指南中的知识框架及其课程位置。指南文本能够说明预设分析结构，无法单独判断教师如何使用五个维度，也无法判断学生是否形成深入的领域理解。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 31, 35–36)]]

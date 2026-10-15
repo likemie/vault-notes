@@ -7,7 +7,7 @@ aliases:
 summary: "以国家战略意志为导向、依赖巨额公共财政与集中式国家实验室攻关突破性物理与工程极限的科研组织范式；在冷战技术使命中奠定强大物理突破力，但在复杂社会挑战中遭遇制度局限；在当代演进为兼具超级算力、闭环自主实验室、中等规模聚焦研究组织（FRO）与大规模前竞争产学研联合体的分布式创新基础设施。"
 type: concept
 domain: "science-policy"
-related_count: 48
+related_count: 47
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Focused Research Organization]]"
   - "[[Megascience Installations]]"
   - "[[Reproducibility Crisis]]"
-  - "[[Hypothesis]]"
   - "[[Scientific Paradigm]]"
   - "[[Grand Challenges]]"
   - "[[Precompetitive Research]]"
@@ -75,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Big Science
@@ -108,7 +107,7 @@ updated: 2026-10-07
 > *Beyond traditional national aerospace and physics projects, Big Science now encompasses massive compute clusters, mid-scale Focused Research Organizations (FROs), and the Genesis Mission marshaling 17 national laboratories for AI-driven discovery.*
 
 > [!boundary]- 概念边界
-> - **不等于 传统大学学术研究（小科学，Little Science）** 大学科研以教授个人课题组为单元、高度分权且追求自由[[Hypothesis|假设]]探索；大科学依托集中式实验平台（如同步辐射光源、百亿亿次超算），具有严格的工程里程碑与统一预算约束。
+> - **不等于 传统大学学术研究（小科学，Little Science）** 大学科研以教授个人课题组为单元、高度分权且追求自由假设探索；大科学依托集中式实验平台（如同步辐射光源、百亿亿次超算），具有严格的工程里程碑与统一预算约束。
 > - **不等于 孤立的商业专有产品开发** 必须具有主权国家战略背书、基础科学公共品属性或全行业前竞争共性技术突破功能。
 
 ---

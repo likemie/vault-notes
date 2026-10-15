@@ -3,9 +3,9 @@ summary: "实践认识论分析（Practical Epistemological Analysis, PEA）由�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 32
-method_related_level: 4
-method_related_stars: "⭐⭐⭐⭐"
+method_related_count: 30
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
 title: "Practical Epistemology Analysis"
 aliases:
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Academic Achievement]]"
   - "[[Reflexivity]]"
-  - "[[Hypothesis]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Operationalization]]"
   - "[[Epistemic Practices]]"
@@ -39,7 +38,6 @@ related_theories: []
 related_methods:
   - "[[Discourse Analysis]]"
   - "[[Transcription in Qualitative Research]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Ethnography]]"
   - "[[Peer Debriefing]]"
   - "[[Observation Method]]"
@@ -60,7 +58,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 # Practical Epistemology Analysis
 
@@ -75,7 +73,7 @@ updated: 2026-10-07
 > - **研究对象** 课堂教学互动中的口头交谈、具身手势、实验操作以及实物媒介（如地图、天球仪、仪器读数）。
 > - **问题类型** 适合回答学习者如何在即时活动中产生理解障碍、如何调动先验经验建立新关联，以及特定[[Scaffolding\|教学支架]]如何影响意义生成。
 > - **[[Unit of Analysis\|分析单位]]** 连续[[Discourse|话语]]回合（turns of talk）、具身操作片段或师生围绕特定科学现象展开的微观交互事件。
-> - **输出形式** 微观话语[[Transcription in Qualitative Research\|转录]][[Coding in Qualitative Research\|编码]]序列、认知裂隙产生与弥合的动态轨迹图、学生就地意义建构的质性机制阐释。
+> - **输出形式** 微观话语[[Transcription in Qualitative Research\|转录]]编码序列、认知裂隙产生与弥合的动态轨迹图、学生就地意义建构的质性机制阐释。
 
 > [!citation-card] 论实践认识论分析的微观核心
 > 实践认识论分析并不将科学认识论预设为一个既定的抽象实体，也不试图机械灌输给学生，而是聚焦于学生和教师理解现象与发展知识的日常实践。这种视角将认识论视为嵌入在持续的交流、行动与实践之中的动态过程。该方法考察参与者在对话中哪些概念是不证自明的立足点（stand fast），以及当学生遭遇挑战时所出现的认知裂隙（gaps），并进而分析学生如何通过建立新关联（relations）来跨越裂隙。（pp. 149–150）
@@ -89,13 +87,13 @@ updated: 2026-10-07
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 知识不是储存在大脑中的静态命题信念，而是在具体社群中通过言语、工具与行动被提出、使用与检验的实践成就。
 > - **研究者角色** 研究者采取“行动中的科学”（science-in-the-making）的[[Ethnography\|人种志]]观察立场，不预设绝对的规范性标准，而是关注参与者自身在互动中如何界定何者算作有效证据。
-> - **有效性标准** 依托微观多模态[[Transcription in Qualitative Research\|转录]]的[[Rich and Thick Description\|厚描述]]、语料情境的完整还原、团队交叉[[Coding in Qualitative Research\|编码]]的一致性检验，以及同伴审议（[[Peer Debriefing]]）。
+> - **有效性标准** 依托微观多模态[[Transcription in Qualitative Research\|转录]]的[[Rich and Thick Description\|厚描述]]、语料情境的完整还原、团队交叉编码的一致性检验，以及同伴审议（[[Peer Debriefing]]）。
 > - **不声称回答的问题** 不能直接测量学生去情境化的普遍心智发展阶段，亦不用于量化统计学生长期[[Academic Achievement\|学业成绩]]的净增长值。
 
 > [!method-stack] 方法层级
 > - **研究设计** 微观交互[[Ethnography\|人种志]]、课堂[[Discourse Analysis\|话语分析]]、实验室微观[[Observation Method\|观察研究]]。
 > - **数据收集** 课堂多角度音视频录像、师生即时手势与操作记录、实验教具交互轨迹、学生生成性文本与图表。
-> - **分析方法** 逐行多模态[[Discourse|话语]][[Coding in Qualitative Research\|编码]]、意义裂隙分类分析、关联建构路径追踪。
+> - **分析方法** 逐行多模态[[Discourse|话语]]编码、意义裂隙分类分析、关联建构路径追踪。
 > - **辅助技术** 音视频切片转录软件（Transana, ELAN）、微观言语互动情境还原、手势与语调多模态标注。
 
 ---
@@ -105,7 +103,7 @@ updated: 2026-10-07
 > [!proc] 通用程序
 > 1. **确定微观互动事件** 选取师生或同伴围绕某一探究任务（如重力测量、振动规律、化学反应）展开的完整[[Discourse|话语]]片段。
 > 2. **进行多模态精细[[Transcription in Qualitative Research\|转录]]** 将口头言语、停顿、语调高低、身体手势、仪器操作与教具移动同步转录为对应行。
-> 3. **执行 PEA 核心四元[[Coding in Qualitative Research\|编码]]** 逐句标定对话中的立足点（`Stand Fast`）、认知裂隙（`Gaps`）、建立关联（`Relations`）与情境碰撞（`Encounters`）。
+> 3. **执行 PEA 核心四元编码** 逐句标定对话中的立足点（`Stand Fast`）、认知裂隙（`Gaps`）、建立关联（`Relations`）与情境碰撞（`Encounters`）。
 > 4. **绘制意义建构轨迹** 梳理学生如何通过建立新关联填补裂隙，或者旧有关联为何失效从而引发新的认知裂隙。
 > 5. **提炼教学互动机制** 分析教师介入话语（如元话语提示）或实物工具如何引导学生克服裂隙，形成结论性解释。
 
@@ -137,7 +135,7 @@ updated: 2026-10-07
 > - **建立关联（Relations）** 
 >   学习者调动先验经验、具身动作或实物教具，将立足点与未知对象建立语义或因果连接的动态过程。
 > - **情境碰撞（Encounters）** 
->   学习者与外部物质环境（实验仪器、样本、天球仪）或他人[[Discourse|话语]]发生直接互动，促使潜在[[Hypothesis\|假设]]显性化。
+>   学习者与外部物质环境（实验仪器、样本、天球仪）或他人[[Discourse|话语]]发生直接互动，促使潜在假设显性化。
 
 ---
 
@@ -160,7 +158,7 @@ updated: 2026-10-07
 ## 局限性
 
 > [!method-limits] 方法局限
-> - **[[Transcription in Qualitative Research\|转录]]与[[Coding in Qualitative Research\|编码]]成本高昂** 微观多模态转录耗时巨大，通常仅能对数十分钟的关键课堂片段开展精细分析，[[Sample Size Determination\|样本量]]较为有限。
+> - **[[Transcription in Qualitative Research\|转录]]与编码成本高昂** 微观多模态转录耗时巨大，通常仅能对数十分钟的关键课堂片段开展精细分析，[[Sample Size Determination\|样本量]]较为有限。
 > - **情境高度特异性** 发现的裂隙弥合路径高度依赖具体的课堂情境、[[Student-Teacher Relationship\|师生关系]]与实验器材，难以直接进行大样本统计推广。
 > - **对研究者洞察力依赖度高** 辨识何者真正“立足”（`Stand Fast`）需要研究者深入理解学科知识与儿童日常语言，容易受研究者主观解释偏误的影响。
 > - **补救方式** 采用团队多编码员交叉检验、结合前[[Pre-test and Post-test\|后测]]文本进行[[Triangulation\|三角互证]]，并公开详尽转录文本片段以增强研究透明度与确认性。
@@ -174,7 +172,7 @@ updated: 2026-10-07
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Practical Epistemology]] | 理论基础 | 实践[[Epistemology\|认识论]]分析（PEA）是实践认识论（Practical Epistemology）在微观课堂话语中的具体质性分析方法[[Operationalization\|操作化]]。 |
-> | [[Epistemic Practices]] | 分析对象 | PEA 为考察课堂中提出、沟通、评估与合法化主张的认识论实践提供了逐行微观[[Coding in Qualitative Research\|编码]]工具。 |
+> | [[Epistemic Practices]] | 分析对象 | PEA 为考察课堂中提出、沟通、评估与合法化主张的认识论实践提供了逐行微观编码工具。 |
 > | [[Discourse Analysis]] | 上位方法 | PEA 属于质性话语分析的专门分支，融合了语言哲学与课堂微观互动分析。 |
 > | [[Views of Nature of Science Questionnaire]] | 互补工具 | [[Questionnaire\|问卷]]测量学生去情境化的显性[[Nature of Science\|科学本质]]信念，PEA 则捕捉学生在行动中就地展现的隐性实践认识论。 |
 

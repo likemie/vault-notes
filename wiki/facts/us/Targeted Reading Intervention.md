@@ -10,7 +10,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 15
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Individualised Instruction]]"
   - "[[External Validity]]"
   - "[[Response to Proven Instruction]]"
-  - "[[Teaching Assistant]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -50,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Targeted Reading Intervention
@@ -129,4 +128,4 @@ updated: 2026-09-22
 > - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 TRI 评定为初等阅读 Tier 3 专业教师一对一辅导代表性强证据方案。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，展示如何依托 TRI 架构在普通班级内部以极低时间成本构建动态轮换个别救济防线。
 > - [[Reading Recovery]] — 传统专业教师 1:1 辅导代表方案，与 TRI 在实施场景（脱产独立辅导室 vs 班内角落）、技术媒介（纯面授 vs 远程摄像头教练）上形成鲜明对比。
-> - [[Sound Partners]] — 同属早期读写一对一辅导方案，与 TRI 形成教学[[Teaching Assistant\|助教]]实施 vs 普通班主任执教的路径互补。
+> - [[Sound Partners]] — 同属早期读写一对一辅导方案，与 TRI 形成教学助教实施 vs 普通班主任执教的路径互补。

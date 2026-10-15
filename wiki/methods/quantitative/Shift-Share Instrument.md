@@ -9,7 +9,7 @@ summary: "利用初始份额分布与总体冲击的交互项构建工具变量�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 12
+method_related_count: 11
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -20,7 +20,6 @@ tags:
   - panel-data
 related_concepts:
   - "[[Variable]]"
-  - "[[Hypothesis]]"
   - "[[Dependent Variable]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
@@ -39,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Shift-Share Instrument
@@ -49,7 +48,7 @@ updated: 2026-10-10
 ## 定义
 
 > [!def] 方法定义
-> Shift-Share Instrument（份额转移工具[[Variable\|变量]]，也称 Bartik Instrument）利用初始时期的截面分布（share）与总时间序列变化（shift）的交互构造预测值，作为内生解释变量的工具变量。其识别[[Hypothesis\|假设]]是初始份额分布是前定的，不受后续时期策略性行为的影响，因此由初始份额和总体变化交互产生的变异是外生的。
+> Shift-Share Instrument（份额转移工具[[Variable\|变量]]，也称 Bartik Instrument）利用初始时期的截面分布（share）与总时间序列变化（shift）的交互构造预测值，作为内生解释变量的工具变量。其识别假设是初始份额分布是前定的，不受后续时期策略性行为的影响，因此由初始份额和总体变化交互产生的变异是外生的。
 
 > [!method-scope] 方法范围
 > - **研究对象** 当个体（行业、地区、国家）层面的某变量同时受总体趋势和个体策略选择影响时，用于分离外生变异。

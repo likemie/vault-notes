@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 19
+fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[STEM Education]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Direct Instruction]]"
-  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Control of Variables Strategy]]"
   - "[[Independent Variable]]"
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Inq-Blotter
@@ -81,7 +80,7 @@ updated: 2026-10-07
 > [!policy-design]- 方案设计
 > - **核心功能目标** 实现秒级学生受挫检测、认知障碍分类诊断、按需介入策略推荐与师生交互记录。
 > - **预警信息架构**
->   1. **全班探究态势热力图** 实时大屏或平板界面展示全班学生在“[[Hypothesis\|假设]]生成”、“[[Variable\|变量]]控制（[[Control of Variables Strategy\|CVS]]）”、“数据收集”、“证据解释”四大环节的推进状态；
+>   1. **全班探究态势热力图** 实时大屏或平板界面展示全班学生在“假设生成”、“[[Variable\|变量]]控制（[[Control of Variables Strategy\|CVS]]）”、“数据收集”、“证据解释”四大环节的推进状态；
 >   2. **多级警报触发机制（Alerts）** 当某位学生在特定技能上连续遭遇算法判定的认知停滞（例如未做变量控制而连续点击测试 5 次以上），系统生成高优先级黄色或红色预警；
 >   3. **微观认知归因提示** 点击警报不仅显示“该生受挫”，更直接阐明具体原因（如：“该生未固定[[Independent Variable\|自变量]] X，混淆了自变量与无关变量”）；
 >   4. **[[Scaffolding\|脚手架]]与直接教学话术建议** 系统为教师提供针对该认知迷思的口头启发问题或简短直接讲解要点建议，降低教师现场即兴组织教学语言的认知负荷（Gobert, Sao Pedro, & Betts, 2023）。

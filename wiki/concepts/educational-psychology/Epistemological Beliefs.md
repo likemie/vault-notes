@@ -3,7 +3,7 @@ title: Epistemological Beliefs
 summary: "关于个体对知识本质及认知过程的假设与信念。该研究领域经历了从早期一维发展阶段模型，到 Schommer 多维独立量表，再到被重构为“认识论理论”核心四维度，以及近期被拆分为本体论与认识论认知（EOC）的演变过程。"
 type: concept
 domain: "educational-psychology"
-related_count: 48
+related_count: 47
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -13,7 +13,6 @@ tags:
   - "theme/epistemological-beliefs"
 related_concepts:
   - "[[Epistemology]]"
-  - "[[Hypothesis]]"
   - "[[Certainty of Knowledge]]"
   - "[[Wicked Problem]]"
   - "[[Rote Learning]]"
@@ -68,7 +67,7 @@ related_arguments:
   - "[[Argument_Lodewyk_2007_EP]]"
 status: active
 created: 2026-08-13
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Epistemological Beliefs
@@ -78,7 +77,7 @@ updated: 2026-10-09
 ## 定义
 
 > [!def] 核心定义
-> [[Epistemology\|认识论]]信念（epistemological beliefs）是指个体对于“知识究竟是什么”（知识的本质）以及“人们如何获得知识”（认知的本质）所持有的潜在[[Hypothesis\|假设]]与信念。在教育心理学领域，它不仅是一组零散的观点，更构成了一种指导学习行为和动机的“个人理论”。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, pp. 88-90)]]
+> [[Epistemology\|认识论]]信念（epistemological beliefs）是指个体对于“知识究竟是什么”（知识的本质）以及“人们如何获得知识”（认知的本质）所持有的潜在假设与信念。在教育心理学领域，它不仅是一组零散的观点，更构成了一种指导学习行为和动机的“个人理论”。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, pp. 88-90)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 探讨学生如何理解[[Certainty of Knowledge\|知识的确定性]]、简单性、来源以及如何为其辩护。
@@ -97,7 +96,7 @@ updated: 2026-10-09
 
 > [!dev-timeline] 概念演变
 > - **20 世纪 70-80 年代 — 发展阶段论起源** Perry (1970) 等人首创对大学生认知发展历程的探究，将[[Epistemology\|认识论]]信念视为一种从二元论、多元论到相对主义的单向、结构化的发展阶段。
-> - **1990 年 — 量化与多维独立转向** Schommer (1990) 提出了“认识论信念”量表（Epistemological [[Questionnaire]]），打破了阶段论[[Hypothesis\|假设]]，主张个体的认识论信念由多个相互独立的维度构成，开辟了大规模[[Quantitative Research\|量化研究]]。
+> - **1990 年 — 量化与多维独立转向** Schommer (1990) 提出了“认识论信念”量表（Epistemological [[Questionnaire]]），打破了阶段论假设，主张个体的认识论信念由多个相互独立的维度构成，开辟了大规模[[Quantitative Research\|量化研究]]。
 > - **1997 年 — 理论重构阶段** [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] 系统梳理了过往六大模型，剔除了诸如固定智力等非纯粹的认识论维度，提炼出四大核心共性维度，并倡导将该[[Construct\|构念]]升级为更具内部连贯性的“[[Epistemological Theories\|认识论理论]]（epistemological theories）”。
 > - **2004 年 — 网络学习环境与信念双向重塑假说** [[Chin-Chung Tsai\|蔡今中]]（Chin-Chung Tsai）系统提出网络环境认识论信念假说，指出认识论信念不仅调节网络信息搜寻策略，开放的超媒体环境在支架引导下更能逆向重塑个体的认识论信念。
 > - **2007 年 — 大规模纵向追踪与因果/社会化检验** [[Argument_Trautwein_2007_CEP\|Trautwein & Lüdtke (2007)]] 基于德国 [[TOSCA]] 追踪数据，通过结构方程模型证实知识确定性信念在控制智力与家庭背景后仍能显著独立预测[[Academic Achievement\|学业成就]]，并揭示了学科选择中的自我选择与大学[[Disciplinary Socialization\|学科社会化]]双重机制。
@@ -131,7 +130,7 @@ updated: 2026-10-09
 > 探讨个体的[[Epistemology\|认识论]]信念是否必须同步发展，以及能否通过量化工具独立预测[[Academic Achievement\|学业表现]]。
 
 > [!claim] Schommer (1990)
-> **独立维度假说与学业预测** 个体的各项认识论[[Hypothesis\|假设]]不必是整合在同一阶段的结构，而是可以在某些信念维度上显得成熟，而在其他维度上保持幼稚。这种不均衡分布能够通过量表进行测量。基于此主张，Schommer 提出了包含以下独立维度的测量模型：
+> **独立维度假说与学业预测** 个体的各项认识论假设不必是整合在同一阶段的结构，而是可以在某些信念维度上显得成熟，而在其他维度上保持幼稚。这种不均衡分布能够通过量表进行测量。基于此主张，Schommer 提出了包含以下独立维度的测量模型：
 > - **固定能力（fixed ability）** 认为智力是先天固定的，还是可通过努力改变的。
 > - **快速学习（quick learning）** 认为学习要么立刻发生要么根本不发生，还是渐进过程。
 > - **[[Simplicity of Knowledge\|简单知识]]（simple knowledge）** 认为知识是孤立的片段，还是相关的概念网络。

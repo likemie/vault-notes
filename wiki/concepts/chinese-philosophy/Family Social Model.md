@@ -7,7 +7,7 @@ aliases:
 summary: "儒家将家庭等级关系扩展到社会关系中的文化模式，在学校中表现为学兄学姐学弟学妹等称谓，将同学关系建构为类亲属关系"
 type: concept
 domain: "chinese-philosophy"
-related_count: 8
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -18,7 +18,6 @@ tags:
   - field/comparative-education
 related_concepts:
   - "[[Five Cardinal Relationships]]"
-  - "[[Ritual Propriety]]"
   - "[[Self-Cultivation]]"
   - "[[Learning Virtues]]"
   - "[[Humility]]"
@@ -33,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-09-23
+updated: 2026-10-15
 ---
 
 # Family Social Model
@@ -62,7 +61,7 @@ updated: 2026-09-23
 
 > [!tip]-
 > - [[Five Cardinal Relationships\|五伦]] — Family Social Model 以五伦中的父子、长幼关系为基础模板，向所有社会关系扩展
-> - [[Ritual Propriety\|礼]] — 类亲属称谓的使用和相应的行为规范体现了礼的秩序
+> - 礼 — 类亲属称谓的使用和相应的行为规范体现了礼的秩序
 > - [[Self-Cultivation\|修身]] — 帮助同学被视为展现[[Learning Virtues\|学习美德]]中的慷慨与责任，求助则展现[[Humility\|谦逊]]
 
 ## 概念辨析

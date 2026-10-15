@@ -6,7 +6,7 @@ aliases:
 summary: "把地缘政治理解为由政治想象、话语和空间表述持续建构出来的批判理论，反对把领土秩序视为自然和既定事实"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 44
+theory_related_count: 43
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -34,7 +34,6 @@ related_concepts:
   - "[[Economic Patriotism]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Geopolitics of Knowledge]]"
-  - "[[Hypothesis]]"
   - "[[Performativity]]"
   - "[[Problem Finding]]"
   - "[[Value Neutrality]]"
@@ -70,7 +69,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 ## 理论定位
@@ -110,7 +109,7 @@ updated: 2026-10-09
 
 ## 核心命题与机制
 
-批判地缘政治学挑战[[Classical Geopolitics|古典地缘政治]]的一组核心[[Hypothesis|假设]]。古典地缘政治的核心假设详见 [[Classical Geopolitics#核心假设]]。
+批判地缘政治学挑战[[Classical Geopolitics|古典地缘政治]]的一组核心假设。古典地缘政治的核心假设详见 [[Classical Geopolitics#核心假设]]。
 
 > [!proposition-chain] 核心命题一｜地缘政治不是对世界的客观描述，而是通过[[Discourse|话语]]、想象和意义建构被持续生产和再生产的意识形态产物
 > - **前提一** 空间不是天然容器，而是通过社会空间关系被持续建构。Kuus (2017, p. 5) 提出"空间性不限于领土性"的核心命题；空间转向将空间从自然地理事实重新理解为社会建构过程（Thompson & Parreira do Amaral, 2022, p. 10）。

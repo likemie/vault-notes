@@ -7,7 +7,7 @@ aliases:
 summary: "以学术研究成果为依据组织课堂教学决策的专业取向，强调外部实证文献对教学与领导力的启发与应对能力提升，是证据知情实践（EIP）的关键拼图之一；在现实中常与基于数据的决策（DBDM）割裂，亟需依托教师研究素养与学校探究循环实现双轮整合。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 56
+related_count: 53
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -22,10 +22,7 @@ related_concepts:
   - "[[Jigsaw]]"
   - "[[Data-Based Decision Making]]"
   - "[[Professional Judgment]]"
-  - "[[Transfer Translation Transformation]]"
-  - "[[Teaching Assistant]]"
   - "[[School Leadership]]"
-  - "[[Document]]"
   - "[[Technical Rationality]]"
   - "[[Effective Teaching]]"
   - "[[Research Literacy]]"
@@ -44,11 +41,11 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Evidence-Based Education]]"
   - "[[Positivism]]"
+  - "[[Habitus]]"
   - "[[Discourse]]"
   - "[[Variable]]"
   - "[[Academic Achievement]]"
   - "[[Dialogue in Education]]"
-  - "[[Hypothesis]]"
   - "[[Teacher Professional Agency]]"
 related_theories:
   - "[[Inquiry Cycle]]"
@@ -82,7 +79,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Research-Informed Teaching Practice
@@ -95,8 +92,8 @@ updated: 2026-10-14
 > 研究知情教学实践（Research-Informed Teaching Practice, RITP）指教育者以发表的学术研究成果（如同行评议论文、[[Systematic Review\|系统综述]]、[[Meta-analysis\|元分析]]报告与循证工具包）为依据组织教学决策与课堂实践的专业取向。英国教育部（Department for Education, DfE）将其界定为“实践者专业智慧与最佳外部研究及评估证据的有机结合”（DfE, 2014）。在《Educational Research》特刊中，[[Argument_Brown_2017_ER\|Brown et al. (2017, pp. 159–160)]] 与 [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017, p. 129)]] 明确指出，“研究知情”（research-informed）根本不同于[[Evidence-Informed Practice\|证据知情实践]]（Evidence-Informed Practice, EIP）：学术研究证据只是完整证据知情拼图（evidence-informed [[Jigsaw]]）中的一块关键碎片。RITP 必须与[[Data-Based Decision Making\|基于数据的决策]]（Data-Based Decision-Making, DBDM）、课堂形成性数据及教师[[Professional Judgment\|专业判断]]深度嵌合，才能克服学术证据脱离校本学情的悬浮风险。
 
 > [!concept-lens] 概念透镜
-> - **含义** 聚焦外部学术实证研究成果向课堂日常教学的[[Transfer Translation Transformation\|转译]]、情境化改编与实践嵌入机制。
-> - **用途** 帮[[Teaching Assistant\|助教]]师掌握成熟教学法的作用机制、提升教学应对能力，并为[[School Leadership\|学校领导]]改进组织运作机制提供循证策略支撑。
+> - **含义** 聚焦外部学术实证研究成果向课堂日常教学的转译、情境化改编与实践嵌入机制。
+> - **用途** 帮助教师掌握成熟教学法的作用机制、提升教学应对能力，并为[[School Leadership\|学校领导]]改进组织运作机制提供循证策略支撑。
 > - **边界** RITP 仅覆盖外部学术研究证据一条渠道；它无法提供学校内部实时的学情反馈，因而不能替代基于数据的校本诊断与教师即时的微观审议。
 
 > [!citation-card] 沙普尔斯论专业技能与研究证据结合
@@ -106,7 +103,7 @@ updated: 2026-10-14
 
 > [!boundary]- 概念边界
 > - 不等于 [[Evidence-Informed Practice\|证据知情实践]]（EIP） — 研究证据是 EIP 的组成板块之一，EIP 更强调整合研究证据、系统数据、课堂数据与专业判断的多源生态。
-> - 不等于 [[Data-Based Decision Making\|基于数据的决策]]（DBDM） — RITP 的证据来源于外部学术界发表的研究[[Document\|文献]]，而 DBDM 的依据来源于学校内部生成的评估与管理数据。
+> - 不等于 [[Data-Based Decision Making\|基于数据的决策]]（DBDM） — RITP 的证据来源于外部学术界发表的研究文献，而 DBDM 的依据来源于学校内部生成的评估与管理数据。
 > - 不等于机械执行研究处方 — RITP 拒绝[[Technical Rationality\|技术理性]]式的照搬脚本与机械套用，强调教师结合具体学情对研究结论展开批判性审议与情境化转译。
 
 ---
@@ -129,7 +126,7 @@ updated: 2026-10-14
 > [!feature] 核心要素构成
 > - **研究证据的拼图定位（Piece of Evidence-Informed [[Jigsaw]]）** 确立学术研究是教学决策的重要输入但非唯一源泉，明确其必须与其他证据形态协同发力。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 129)]]
 > - **双轨行动理论与[[Tacit Knowledge|默会知识]]融合（Dual-Track Theory of Action）** RITP 包含指向教师教学与指向[[School Leadership\|学校领导]]的双轨机制：教师借助研究提升应对力以改善教学质量与学生成果；领导者借助研究改善组织运作与全校效能；两轨均需在正式研究与实践者默会知识之间建立融合转化的子行动理论。[[Argument_Brown_2017_ER\|(Brown et al., 2017, pp. 160–161)]]
-> - **[[Research Learning Communities\|研究学习共同体]]支架（Research Learning Communities, RLC）** 由 [[Chris Brown]] 开发，结对学校各选派骨干教师与校领导组队，在外部协调员引领下完成全学年四次跨校工作坊，借助结构化协议将学术成果[[Transfer Translation Transformation\|转译]]为校本干预并全校扩散。[[Argument_Brown_2017_ER\|(Brown et al., 2017, p. 161)]]
+> - **[[Research Learning Communities\|研究学习共同体]]支架（Research Learning Communities, RLC）** 由 [[Chris Brown]] 开发，结对学校各选派骨干教师与校领导组队，在外部协调员引领下完成全学年四次跨校工作坊，借助结构化协议将学术成果转译为校本干预并全校扩散。[[Argument_Brown_2017_ER\|(Brown et al., 2017, p. 161)]]
 > - **批判性[[Research Literacy\|研究素养]]与[[Analytical Stance\|分析立场]]（Research Literacy & Analytical Stance）** 教师具备辨识研究质量、识破商业化[[Persuasive Communication in Education\|说服性修辞]]包装并评估实证效能的专业素养。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, pp. 130–131)]]
 > - **同行实践证据中介网络（Peer-Mediated Practice Evidence）** 依托教师工会、学区教研员与学校领导等中介者，将原始学术成果转译为易吸收的[[Practice-Based Evidence\|实践本位证据]]。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 130)]]
 > - **[[School Enquiry Cycle\|学校探究循环]]整合机制（School Enquiry Cycle Integration）** 在学校[[Inquiry Cycle\|探究循环]]中，将 RITP 的实证干预策略与 [[Data-Based Decision Making\|DBDM]] 的校本诊断紧密嵌合。[[Argument_Brown_2017_ER\|(Brown et al., 2017, pp. 165–167)]]
@@ -137,8 +134,8 @@ updated: 2026-10-14
 
 > [!exegesis]- 实践理解与应用示例
 > 1. **英格兰研究学习共同体（RLC）干预模型（Brown et al.）** 伦敦大学学院教育学院 [[Chris Brown]] 在英格兰 43 所小学实施了 RLC 干预。每学年开展四次跨校工作坊，由大学研究者提供转译的研究成果总结、评估工具与研讨协议，支持教师团队经历“研读实证研究→结合本校经验深化理解→共同开发教学干预方案→班级试点→全校规模化推广”的完整过程。实证调查表明，RLC 显著提升了教师将研究与实践相融合的能力，促进了教学策略革新；但同时也警示若缺乏前置校本数据诊断，学校易根据流行风向盲目选择热门话题，陷入方案科学却不对症的困境。[[Argument_Brown_2017_ER\|(Brown et al., 2017, pp. 161–162)]]
-> 2. **安大略小学教师同行网络与实践证据偏好（Cooper et al.）** Cooper et al. 对加拿大安大略省小学教师联合会（[[Elementary Teachers' Federation of Ontario\|ETFO]]）的大规模调查发现，在课堂评估这一高度依赖实践经验的领域，教师搜寻[[Effective Teaching\|有效教学]]信息时绝大多数依赖同行人际交流，对实践本位证据的信任度远超大学发表的原始学术期刊。该案例说明推进 RITP 不能走单向推送路线，而必须借[[Teaching Assistant\|助教]]师专业网络与中介机构的力量，将学术[[Research Translation\|研究转译]]为接地气的实践语言。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 130)]]
-> 3. **[[Reflexivity\|反思性]]审议中的三种声音与五类能动反应（Cain, 2015; [[Argument_Torres_2022_KMModels\|Torres, 2022b]]）** 教师在审视外部研究时并非机械照搬，而是通过反思性审议平衡自身个人信念（第一声音）、同行学校文化（第二声音）与学术[[Document\|文献]]主张（第三声音），形成直接忽略、证实既有经验、策略性利用、概念性启发与批判性拒绝等多元反应模式。[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 47–49)]]
+> 2. **安大略小学教师同行网络与实践证据偏好（Cooper et al.）** Cooper et al. 对加拿大安大略省小学教师联合会（[[Elementary Teachers' Federation of Ontario\|ETFO]]）的大规模调查发现，在课堂评估这一高度依赖实践经验的领域，教师搜寻[[Effective Teaching\|有效教学]]信息时绝大多数依赖同行人际交流，对实践本位证据的信任度远超大学发表的原始学术期刊。该案例说明推进 RITP 不能走单向推送路线，而必须借助教师专业网络与中介机构的力量，将学术[[Research Translation\|研究转译]]为接地气的实践语言。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 130)]]
+> 3. **[[Reflexivity\|反思性]]审议中的三种声音与五类能动反应（Cain, 2015; [[Argument_Torres_2022_KMModels\|Torres, 2022b]]）** 教师在审视外部研究时并非机械照搬，而是通过反思性审议平衡自身个人信念（第一声音）、同行学校文化（第二声音）与学术文献主张（第三声音），形成直接忽略、证实既有经验、策略性利用、概念性启发与批判性拒绝等多元反应模式。[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 47–49)]]
 
 > [!logic-map]- 要素关系与探究循环
 > ```mermaid
@@ -174,7 +171,7 @@ updated: 2026-10-14
 > RITP 擅长提供解决方案但缺乏精准学情靶向，[[Data-Based Decision Making\|DBDM]] 擅长精准诊断问题但缺乏实证方案，二者在现实学校中处于孤立割裂状态。
 
 > [!claim] [[Argument_Brown_2017_ER\|Brown et al. (2017)]] / [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]]
-> **双轮嵌合与学校探究闭环** 在中小学实践中，RITP（研究知情）与 DBDM（数据驱动）长期被视作两个互不相通的独立世界：教研部门热衷于研读[[Document\|文献]]却脱离本校真实学情数据，管理部门沉迷于制作成绩报表却无法提供经过实证验证的[[Effective Teaching\|有效教学]]策略。推进证据知情改革的核心路径在于通过系统的“[[School Enquiry Cycle\|学校探究循环]]”（school enquiry cycle / ESTI），使两个世界紧密嵌合：首先依托 DBDM 诊断校内学情断层，随后调动 RITP 检索并改编外部学术研究中的有效干预方案，再通过课堂试验与形成性数据检验成效，形成学校持续改进的行动闭环。[[Argument_Brown_2017_ER\|(Brown et al., 2017, pp. 154–156, 165–167)]]
+> **双轮嵌合与学校探究闭环** 在中小学实践中，RITP（研究知情）与 DBDM（数据驱动）长期被视作两个互不相通的独立世界：教研部门热衷于研读文献却脱离本校真实学情数据，管理部门沉迷于制作成绩报表却无法提供经过实证验证的[[Effective Teaching\|有效教学]]策略。推进证据知情改革的核心路径在于通过系统的“[[School Enquiry Cycle\|学校探究循环]]”（school enquiry cycle / ESTI），使两个世界紧密嵌合：首先依托 DBDM 诊断校内学情断层，随后调动 RITP 检索并改编外部学术研究中的有效干预方案，再通过课堂试验与形成性数据检验成效，形成学校持续改进的行动闭环。[[Argument_Brown_2017_ER\|(Brown et al., 2017, pp. 154–156, 165–167)]]
 
 ---
 
@@ -184,7 +181,7 @@ updated: 2026-10-14
 > 教师极少直接阅读原始学术报告，证据传播高度依赖人际网络，呼唤发展批判性[[Research Literacy\|研究素养]]以抵御虚假创新。
 
 > [!claim] Cooper et al. (2017) / Carrier (2017) / Campbell et al. (2017) / [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]]
-> **同行中介优先性与[[Analytical Stance\|分析立场]]确立** 实证调查表明，一线教师获取教学改进信息的最主要渠道是同行教师，而非大学学术期刊；在日常工作中，实践者对[[Practice-Based Evidence\|实践本位证据]]的接纳与使用程度显著高于原始研究报告。与此同时，许多缺乏实证基础的流行教育创新往往凭借高度吸引人的“说服性沟通策略”（persuasive communication）在学校中迅速扩散。因此，推进真实的 RITP 不能仅靠向学校推送文献，而必须依托教师工会、学区网络等多元中介者进行[[Transfer Translation Transformation\|转译]]，并着力培育教师的研究素养与“分析立场”（analytical stance），使教师具备独立审视研究质量与识破商业包装的评估技能。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, pp. 130–131)]]
+> **同行中介优先性与[[Analytical Stance\|分析立场]]确立** 实证调查表明，一线教师获取教学改进信息的最主要渠道是同行教师，而非大学学术期刊；在日常工作中，实践者对[[Practice-Based Evidence\|实践本位证据]]的接纳与使用程度显著高于原始研究报告。与此同时，许多缺乏实证基础的流行教育创新往往凭借高度吸引人的“说服性沟通策略”（persuasive communication）在学校中迅速扩散。因此，推进真实的 RITP 不能仅靠向学校推送文献，而必须依托教师工会、学区网络等多元中介者进行转译，并着力培育教师的研究素养与“分析立场”（analytical stance），使教师具备独立审视研究质量与识破商业包装的评估技能。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, pp. 130–131)]]
 
 ---
 
@@ -237,7 +234,7 @@ updated: 2026-10-14
 > > - **[[Positivism\|实证主义]]普适取向** 假定最佳证据具有跨情境的可移植性。
 > > - **[[Situative Perspective\|情境主义]]建构取向** 强调实践者必须根据校本微观条件对外部方案展开再情境化改造。[[Argument_Brown_2017_ER\|(Brown et al., 2017, p. 165)]]
 >
-> > [!axis] 学术[[Document\|文献]]单向推送还是专业共同体[[Transfer Translation Transformation\|转译]]
+> > [!axis] 学术文献单向推送还是专业共同体转译
 > > 传统[[Knowledge Mobilisation\|知识动员]]侧重自上而下向学校推送简报与数据库；当代学者强调，原始论文语言晦涩，单向推送无法跨越实践门槛，唯有依托[[Professional Learning Community\|专业学习共同体]]与结构化研习协议展开协作意义建构才能落地。
 > >
 > > - **供给端推送模式** 预设严谨研究会自发渗透至课堂实践。
@@ -245,7 +242,7 @@ updated: 2026-10-14
 
 > [!tension] 核心张力
 > - **外部验证策略的科学严谨性** 依靠同行评议论文与综合工具包提供因果机制与概率性有效保障。
-> - **教师[[Tacit Knowledge|默会知识]]与教学信念的主观性** 根植于一线日常摸爬滚打的教学直觉与本土文化惯习。[[Argument_Brown_2017_ER\|(Brown et al., 2017, p. 160)]]
+> - **教师[[Tacit Knowledge|默会知识]]与教学信念的主观性** 根植于一线日常摸爬滚打的教学直觉与本土文化[[Habitus|惯习]]。[[Argument_Brown_2017_ER\|(Brown et al., 2017, p. 160)]]
 
 > [!warning] 适用局限与实践阻碍
 > - **追逐学术热点而脱离校本真实需要** RITP 极易因学术流行风向或外部政策偏好选择改进主题，而非立足学校自身的真实学情痛点。[[Argument_Brown_2017_ER\|(Brown et al., 2017, p. 165)]]
@@ -263,8 +260,8 @@ updated: 2026-10-14
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Brown_2017_ER\|Brown et al. (2017, pp. 161–162)]] 引 Brown, Daly & Liou (2016); Godfrey (2016) | 英格兰 43 所小学骨干教师与校领导团队 | 历时一学年、四次跨校工作坊的干预试验与[[Network Analysis\|社会网络分析]]（SNA） | [[Research Learning Communities\|RLC]] 模式对教师[[Research Utilization\|研究利用]]深度、专业自信及教学策略革新的影响 | 教师将研究与实践相融合的能力显著提高，学校由依赖浅层小妙招转向探究有效机制；但缺乏前置数据诊断的学校容易陷入追逐热门话题偏差 | 社会网络分析与追踪[[Questionnaire\|问卷]]显著改善 | 证实结构化研习协议对[[Research Translation\|研究转译]]的有效性；但对学生最终[[Academic Achievement\|学业成绩]]的直接因果影响仍需更大规模 [[Randomised Controlled Trials\|RCT]] 检验 |
-> | [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017, p. 130)]] 引 Cooper et al. (2017) | 加拿大安大略省小学教师联合会（[[Elementary Teachers' Federation of Ontario\|ETFO]]）教师会员 | 针对课堂评估实践的大规模问卷调查与[[In-depth Interview\|深度访谈]] | 教师搜寻[[Effective Teaching\|有效教学]]信息时的主要渠道与证据信赖偏好 | 教师最首要的信息搜寻渠道为其他一线教师（同行网络）；对[[Practice-Based Evidence\|实践本位证据]]的信任与采纳频率显著高于原始学术论文 | — | 表明实践端对同行网络的天然依附，单向[[Document\|文献]]推送无法取代社会性人际[[Transfer Translation Transformation\|转译]] |
-> | [[Argument_Torres_2022_KMModels\|Torres (2022b, pp. 47–49)]] 引 Cain (2015) | 参与研究性专业发展项目的一线学科教师 | 课堂实地观察、访谈与教师反思日志质性分析 | 教师审阅学术研究文本时的认知交互模式与能动反应类型 | 教师对研究文本普遍展现出五类能动反应（忽略、证实、策略、概念、拒绝）；学术证据必须与个人信念及同行文化[[Dialogue in Education\|对话]]方能产生实质影响 | 质性文本主题分析 | 否定了机械被动的技术采纳[[Hypothesis\|假设]]，证实[[Teacher Professional Agency\|教师专业能动性]]在知识转译中的决定地位 |
+> | [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017, p. 130)]] 引 Cooper et al. (2017) | 加拿大安大略省小学教师联合会（[[Elementary Teachers' Federation of Ontario\|ETFO]]）教师会员 | 针对课堂评估实践的大规模问卷调查与[[In-depth Interview\|深度访谈]] | 教师搜寻[[Effective Teaching\|有效教学]]信息时的主要渠道与证据信赖偏好 | 教师最首要的信息搜寻渠道为其他一线教师（同行网络）；对[[Practice-Based Evidence\|实践本位证据]]的信任与采纳频率显著高于原始学术论文 | — | 表明实践端对同行网络的天然依附，单向文献推送无法取代社会性人际转译 |
+> | [[Argument_Torres_2022_KMModels\|Torres (2022b, pp. 47–49)]] 引 Cain (2015) | 参与研究性专业发展项目的一线学科教师 | 课堂实地观察、访谈与教师反思日志质性分析 | 教师审阅学术研究文本时的认知交互模式与能动反应类型 | 教师对研究文本普遍展现出五类能动反应（忽略、证实、策略、概念、拒绝）；学术证据必须与个人信念及同行文化[[Dialogue in Education\|对话]]方能产生实质影响 | 质性文本主题分析 | 否定了机械被动的技术采纳假设，证实[[Teacher Professional Agency\|教师专业能动性]]在知识转译中的决定地位 |
 
 ---
 

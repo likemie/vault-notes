@@ -5,7 +5,7 @@ summary: "将故事和叙事作为教育研究证据来源的方法，故事是�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 14
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -16,7 +16,6 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Causality]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Narrative Analysis]]"
   - "[[Narrative Research]]"
   - "[[Triangulation]]"
@@ -30,7 +29,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-23
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 # Stories as Research Data
 
@@ -45,7 +44,7 @@ updated: 2026-09-17
 > - **研究对象** 参与者讲述的个人故事、口述历史、传记性叙事。
 > - **问题类型** 实践者如何理解和叙述自身经验；叙事如何建构和传达意义。
 > - **[[Unit of Analysis\|分析单位]]** 个体故事、叙事文本、主题片段。
-> - **输出形式** 经过分类、[[Coding in Qualitative Research\|编码]]和主题化后的[[Narrative Analysis\|叙事分析]]。
+> - **输出形式** 经过分类、编码和主题化后的[[Narrative Analysis\|叙事分析]]。
 
 ---
 
@@ -53,7 +52,7 @@ updated: 2026-09-17
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 故事承载的是叙事者的主观经验和意义建构，其价值在于真实性和丰富性而非可验证性。故事是"触及实践者心态的无可比拟的方法"（Thody, 1997, p. 331）。
-> - **研究者角色** 研究者通过分类、[[Coding in Qualitative Research\|编码]]和主题化从故事中提取模式，同时保持对叙事者视角的敏感。
+> - **研究者角色** 研究者通过分类、编码和主题化从故事中提取模式，同时保持对叙事者视角的敏感。
 > - **有效性标准** 故事的验证困难（除非有其他人在场核实），但其价值恰恰来自叙事者的主观投入——丰富性来自主观嵌入性，这使传统的[[Reliability\|信度]]概念难以直接适用（Bauman, 1986）。
 > - **不声称回答的问题** 不声称产生统计概括或[[Causality\|因果推断]]；不声称故事内容可被独立验证。
 
@@ -80,7 +79,7 @@ updated: 2026-09-17
 > [!proc] 故事分析程序
 > 1. 收集故事——通过访谈引导参与者叙述相关经验，或收集书面叙事
 > 2. [[Transcription in Qualitative Research\|转录]]和整理——将口头叙事转化为文本，保留叙事结构和语言特征
-> 3. 内容分类与[[Coding in Qualitative Research\|编码]]——对故事内容进行系统分类和编码（Thody, 1997, p. 331）
+> 3. 内容分类与编码——对故事内容进行系统分类和编码（Thody, 1997, p. 331）
 > 4. 主题化——从编码中识别反复出现的主题和模式
 > 5. 概念建构——基于主题发展更抽象的概念和理解
 > 6. 交叉验证——如有可能，通过其他在场者核实关键事件
@@ -122,4 +121,4 @@ updated: 2026-09-17
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]] — 本章将故事与访谈并列为研究证据来源，介绍 Bauman（1986）的定义、Bruner（1986）的理论基础、Thody（1997）的方法论定位，以及分类[[Coding in Qualitative Research\|编码]]、主题化和概念建构三种分析方法。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]] — 本章将故事与访谈并列为研究证据来源，介绍 Bauman（1986）的定义、Bruner（1986）的理论基础、Thody（1997）的方法论定位，以及分类编码、主题化和概念建构三种分析方法。

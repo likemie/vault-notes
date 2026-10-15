@@ -9,7 +9,7 @@ aliases:
 summary: "适应智能与数据密集型科学范式的新型学术交流与成果发布基础设施；批判并替代源自17世纪印刷时代的静态PDF期刊论文，以集成实时数据流、可执行代码容器（Docker/Conda）、环境依赖与自动化测试管道的动态交互式笔记本为知识发布基准，支持自动化AI复现代理进行秒级验证与跨平台审计。"
 type: concept
 domain: "science-policy"
-related_count: 17
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Goodhart's Law]]"
   - "[[Seniority Barrier in Academia]]"
   - "[[National Innovation System]]"
-  - "[[Document]]"
   - "[[Gold Standard Science]]"
 related_theories: []
 related_methods: []
@@ -46,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Dynamic Research Notebook
@@ -121,7 +120,7 @@ updated: 2026-10-07
 > [!ref-table]- 动态可执行笔记本与可复现性实证数据
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究[[Document\|文献]] | 样本与情境 | 考察指标与设计 | 原始实证结果 | 理论解释边界 |
+> | 研究文献 | 样本与情境 | 考察指标与设计 | 原始实证结果 | 理论解释边界 |
 > |:---|:---|:---|:---|:---|
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 67)]] | 全美近 5 年发表的 5,000 篇计算生物学与材料模拟论文抽样 | 静态 PDF 论文附录代码 vs 动态容器化笔记本的一键复现成功率对比 | 静态 PDF 附录代码在全新独立算力节点上的首次运行成功率不足 18%；采用动态容器化笔记本封包的项目一键复现成功率达 94% | 实证验证动态研究笔记本在消灭环境依赖摩擦、终结[[Reproducibility Crisis\|可重复性危机]]上的绝对优势 |
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 69)]] | 2025 年联邦资助试点中的自动化 AI 复现代理审计系统 | AI 代理执行动态笔记本代码审计与异常值挖掘的平均耗时 | 自动化复现代理对单个动态笔记本完成全流程数据校验与敏感性测试的平均耗时为 42 秒，人工对照审查平均耗时 14 天 | 证明机器原生交互格式对提升国家科研质检效率的指数级赋能 |
@@ -131,7 +130,7 @@ updated: 2026-10-07
 ## 命题总览
 
 > [!contrast-table] 动态研究笔记本核心命题归纳
-> | 命题维度 | 核心命题名称 | 关键作用机制 | 核心论证[[Document\|文献]] |
+> | 命题维度 | 核心命题名称 | 关键作用机制 | 核心论证文献 |
 > |:---|:---|:---|:---|
 > | **载体批判** | **出版载体滞后与过程黑箱** | 静态 PDF 隐瞒试错排障过程，与计量异化共谋加剧学术[[Reproducibility Crisis\|可重复性危机]] | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 67–68)]] |
 > | **交流重构** | **机器原生交流与秒级核验** | 容器化全封包赋能 AI 代理毫秒级沙盒复现，解放人类审稿人聚焦宏观审美 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 67–70)]] |

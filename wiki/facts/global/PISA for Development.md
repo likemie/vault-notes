@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 21
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -25,7 +25,6 @@ tags:
   - theme/global-governance
 related_concepts:
   - "[[Floor and Ceiling Effects]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Grade Retention]]"
   - "[[Variable]]"
   - "[[Going Native]]"
@@ -80,7 +79,7 @@ updated: 2026-10-15
 > [[PISA]]-D 的核心假说认为：全球南方国家无法通过机械套用发达国家的测验直接指导改革，必须通过扩展低阶能力测量刻度并打通校外家庭抽样，建立能够灵敏反映极端贫困与师资匮乏背景的跨国量化坐标系，从而为落实[[UN Sustainable Development Goals\|联合国可持续发展目标]]（[[UN Sustainable Development Goals\|SDG 4]]）提供科学基准。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 544–545)]]
 
 > [!policy-design]- 方案设计
-> - **项目目标** 开发适应中低收入国家认知水平的普适性测评量表，构建在校与校外青少年的统合评估架构，提升伙伴国自主实证分析与政策[[Transfer Translation Transformation\|转译]]能力。
+> - **项目目标** 开发适应中低收入国家认知水平的普适性测评量表，构建在校与校外青少年的统合评估架构，提升伙伴国自主实证分析与政策转译能力。
 > - **覆盖对象** 试点国正规学校 15 岁在校生（Strand A & B）以及深入社区入户抽样的 14–16 岁失学或严重[[Grade Retention\|留级]]青少年（Strand C）。
 > - **干预措施** 细化 1 级以下能力等级划分（拆分为 1a、1b、1c 三级细粒度阶梯）；增加低难度情境阅读与数学题比重；增设本土贫困、家庭语言差异及基础设施匮乏背景[[Variable\|变量]]。
 > - **实施控制** 采用纸笔测验与平板入户调查并行模式，建立严格的跨国等值化参数锚定规程，确保其得分与主线 PISA 量表绝对互通。

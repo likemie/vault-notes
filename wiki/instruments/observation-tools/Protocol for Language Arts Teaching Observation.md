@@ -102,7 +102,7 @@ updated: 2026-10-15
 > [!observation-focus] [[Plato]] 核心观察维度重点
 > <span class="instrument-observation-table-marker" aria-hidden="true"></span>
 >
-> | 编号 | 观察维度 | 观察重点 | 记录方式 | 判定或[[Coding in Qualitative Research\|编码]] | 来源 |
+> | 编号 | 观察维度 | 观察重点 | 记录方式 | 判定或编码 | 来源 |
 > |---|---|---|---|---|---|
 > | 1 | [[Scaffolding\|教学支架]] | 教师通过出声思维（Thinking Aloud）清晰示范读写认知策略 | 15 分钟片段连续观察 | 1–4 点行为量规 | Grossman et al. (2013) |
 > | 2 | 学科要求 | 任务要求学生进行深层文本推断与批判性分析，而非表层信息检索 | 15 分钟片段连续观察 | 1–4 点行为量规 | 同上 |

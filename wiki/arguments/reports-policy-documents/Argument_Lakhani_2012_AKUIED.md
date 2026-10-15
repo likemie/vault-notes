@@ -22,7 +22,7 @@ title: "Argument_Lakhani_2012_AKUIED"
 argument_key: "Argument_Lakhani_2012_AKUIED"
 argument_display_title: "Knower's roles of autonomy for knowledge construction: A case of International Baccalaureate (IB) Curriculum"
 argument_kind: "conference-paper"
-argument_related_count: 36
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#e5e7eb"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Learner Autonomy]]"
   - "[[Epistemology]]"
-  - "[[Document]]"
   - "[[Metacognition]]"
   - "[[Definition of Terms]]"
   - "[[Homework]]"
@@ -103,7 +102,7 @@ updated: 2026-07-02
 > Dam 将自主性从单一能力概念扩展为包含**准备度（readiness）**的双维结构。准备度由两个要素构成：**能力（capacity）**，指独立和在合作中执行学习任务的能力；**意愿（willingness）**，指内在动机或意图强度，即学习者是否真正想要承担学习责任。这一区分意味着自主性不仅是技能训练的结果，还涉及学习者的动机状态和自我信念。
 
 > [!feature] 自主性的操作性特征
-> 综合[[Document\|文献]]，自主性在操作层面涉及三个核心特征（pp.173–174）：
+> 综合文献，自主性在操作层面涉及三个核心特征（pp.173–174）：
 >
 > - **内部反思（Internal Reflection）** 自主性体现在个体的信念和欲望是理性和知情反思的结果（Carter, Kramer, & Steiner, 2007, p. 323）。个体经过有意识的反思后形成判断和选择。
 > - **[[Metacognition\|元认知]]意识（Metacognitive Awareness）** 自主性要求对自身认知保持意识（consciousness），包括关注和自评自己知道什么、正在做什么、以及认知和情感状态如何（Hacker & Dunlosky, 1998; Wilkins, 1996; Wenden, 1991）。

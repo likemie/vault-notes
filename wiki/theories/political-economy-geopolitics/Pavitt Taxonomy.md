@@ -8,7 +8,7 @@ aliases:
 summary: "Keith Pavitt 于 1984 年提出的产业创新模式分类框架，将制造业分为科学基础型、专业供应商型、规模密集型、供应商主导型四类，2016 年由 Bogliacino and Pianta 修订扩展至服务业和信息通信技术行业"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 13
+theory_related_count: 12
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -17,7 +17,6 @@ tags:
   - theme/industrial-economics
   - theme/taxonomy
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Research Utilization]]"
   - "[[Heterogeneity]]"
   - "[[Paradigm]]"
@@ -38,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-10
-updated: 2026-10-02
+updated: 2026-10-15
 ---
 
 # Pavitt Taxonomy
@@ -47,7 +46,7 @@ updated: 2026-10-02
 ## 核心主张
 
 > [!abstract]
-> Pavitt 分类法（Pavitt Taxonomy）的核心命题是：不同产业在创新来源、创新方式和创新与绩效关系上存在系统性的、持久的结构性差异。这些差异不能通过代表性企业的[[Hypothesis\|假设]]来抹平，而需要通过分类框架来揭示和总结。[[Argument_Pavitt_1984_RP\|Pavitt (1984)]]基于对英国制造业企业的实证研究，根据创新的**来源（内部研发 vs 外部供应商）**、**性质（产品创新 vs 流程创新）**和**企业规模与市场结构**，将制造业分为四个类别。[[Argument_Bogliacino_Pianta_2016_EP\|Bogliacino & Pianta (2016)]]利用欧洲多国创新调查数据对这一分类法进行了系统的实证检验和修订，并将其扩展至服务业和信息通信技术（ICT）行业。
+> Pavitt 分类法（Pavitt Taxonomy）的核心命题是：不同产业在创新来源、创新方式和创新与绩效关系上存在系统性的、持久的结构性差异。这些差异不能通过代表性企业的假设来抹平，而需要通过分类框架来揭示和总结。[[Argument_Pavitt_1984_RP\|Pavitt (1984)]]基于对英国制造业企业的实证研究，根据创新的**来源（内部研发 vs 外部供应商）**、**性质（产品创新 vs 流程创新）**和**企业规模与市场结构**，将制造业分为四个类别。[[Argument_Bogliacino_Pianta_2016_EP\|Bogliacino & Pianta (2016)]]利用欧洲多国创新调查数据对这一分类法进行了系统的实证检验和修订，并将其扩展至服务业和信息通信技术（ICT）行业。
 
 ---
 ## 理论框架

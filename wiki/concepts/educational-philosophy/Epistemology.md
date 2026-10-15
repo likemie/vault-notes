@@ -8,7 +8,7 @@ aliases:
 summary: "关于知识本质、形式与获取方式的哲学假设，在研究哲学中决定不同范式的有效知识判准；在教育心理学与学习科学中，表现为个体心智协调主观与客观维度的认识论理解演进。"
 type: concept
 domain: "educational-philosophy"
-related_count: 77
+related_count: 74
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -18,7 +18,6 @@ tags:
   - theme/research-planning
   - theme/cognitive-development
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Objectivism]]"
   - "[[Subjectivism]]"
   - "[[Paradigm]]"
@@ -26,7 +25,6 @@ related_concepts:
   - "[[Metacognition]]"
   - "[[Certainty of Knowledge]]"
   - "[[Reliability]]"
-  - "[[Teaching Assistant]]"
   - "[[Epistemological Beliefs]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
@@ -68,7 +66,6 @@ related_concepts:
   - "[[Scientific Attitude]]"
   - "[[Pure Evaluation]]"
   - "[[Flow]]"
-  - "[[Document]]"
 related_theories:
   - "[[World-Systems Theory]]"
   - "[[Phenomenology]]"
@@ -104,7 +101,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Epistemology
@@ -114,12 +111,12 @@ updated: 2026-10-09
 ## 定义
 
 > [!def] 核心定义
-> **认识论（Epistemology）**是关于知识的本质、形式、获取途径以及如何向他人传播的底层元理论[[Hypothesis|假设]]（bases of knowledge – its nature and forms, how it can be acquired, and how communicated to other human beings；Burrell & Morgan, 1979）。在社会科学与教育研究哲学中，认识论决定了何种证据构成“合法且有效的知识”，直接规约着[[Objectivism|客观主义]]与[[Subjectivism|主观主义]][[Paradigm|范式]]的探究路径；在教育心理学与学习科学中，认识论指代个体关于[[Source of Knowledge|知识来源]]与确定性的[[Metacognition|元认知]]信念系统，其核心发展机制表现为主观维度与客观维度的协调演进[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, p. 115)]][[Argument_Kuhn_2000_CD|(Kuhn et al., 2000, p. 310)]]。
+> **认识论（Epistemology）**是关于知识的本质、形式、获取途径以及如何向他人传播的底层元理论假设（bases of knowledge – its nature and forms, how it can be acquired, and how communicated to other human beings；Burrell & Morgan, 1979）。在社会科学与教育研究哲学中，认识论决定了何种证据构成“合法且有效的知识”，直接规约着[[Objectivism|客观主义]]与[[Subjectivism|主观主义]][[Paradigm|范式]]的探究路径；在教育心理学与学习科学中，认识论指代个体关于[[Source of Knowledge|知识来源]]与确定性的[[Metacognition|元认知]]信念系统，其核心发展机制表现为主观维度与客观维度的协调演进[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, p. 115)]][[Argument_Kuhn_2000_CD|(Kuhn et al., 2000, p. 310)]]。
 
 > [!concept-lens] 概念透镜
 > - **含义（哲学视角）** 回答“我们如何知道（how we know）”以及“何为有效知识（what constitutes valid knowledge）”。
 > - **含义（心理视角）** 探讨个体心智如何理解[[Certainty of Knowledge|知识的确定性]]、客观性与主体介入程度，协调认知的主客观张力。
-> - **用途** 帮助研究者在选定范式后确立严密的数据收集逻辑与可[[Reliability|信度]]判准；帮[[Teaching Assistant|助教]]育者诊断学习者的批判性反思水平与[[Epistemological Beliefs|认识论信念]]障碍。
+> - **用途** 帮助研究者在选定范式后确立严密的数据收集逻辑与可[[Reliability|信度]]判准；帮助教育者诊断学习者的批判性反思水平与[[Epistemological Beliefs|认识论信念]]障碍。
 > - **边界** [[Epistemic Stances|认识论立场]]界定知的方式与有效性判准，不可替代具体研究方法的经验操作规程，亦不等于[[Ontology|本体论]]对实在存在属性的判定。
 
 > [!citation-card] 知识性质与获取途径的认识论根本设问
@@ -148,7 +145,7 @@ updated: 2026-10-09
 ## 核心要素
 
 > [!feature] 核心要素
-> - **在研究层级中的承转位置** 认识论是研究设计五层推导框架（Hitchcock & Hughes, 1995）的第三层：[[Axiology|价值论]] → [[Ontology|本体论]] → 认识论 → 方法论 → 工具。研究者关于实在本质的本体论[[Hypothesis|假设]]，必然先导决定其关于知识获取的认识论进路。
+> - **在研究层级中的承转位置** 认识论是研究设计五层推导框架（Hitchcock & Hughes, 1995）的第三层：[[Axiology|价值论]] → [[Ontology|本体论]] → 认识论 → 方法论 → 工具。研究者关于实在本质的本体论假设，必然先导决定其关于知识获取的认识论进路。
 > - **[[Objectivism|客观主义]]认识论极（Objectivism / [[Positivism]]）** 坚信知识是硬性的、客观的、可累积且外在于知觉者的，要求研究者扮演中立抽离的观察者角色，严密遵循自然科学的实验控制与测量规程（Burrell & Morgan, 1979）。
 > - **[[Subjectivism|主观主义]]认识论极（Subjectivism / [[Interpretive Paradigm|anti-positivism]]）** 坚信知识是个人化的、主观体验的与情境独特的，要求研究者深度介入生活世界，通过主客观共情分享行动者的内在参照框架（Beck, 1979）。
 > - **[[Pragmatic Paradigm|实用主义]]认识论支柱（Pragmatism）** 以“适应目的”（[[Fitness for Purpose]]）与效用即真理为准则，打破量质认识论的机械隔阂，协同整合数值测度与叙事[[Rich and Thick Description|深描]]（Onwuegbuzie & Leech, 2005a）。
@@ -187,10 +184,10 @@ updated: 2026-10-09
 > 探讨不同社会科学研究范式在“什么是有效知识”上的根本分歧，以及对探究路径的刚性规约。
 
 > [!claim] Cohen et al.
-> **范式背后的认识论反思与进路规约** 研究规划绝非机械的技术拼装，而是取决于支撑它的认识论[[Hypothesis\|假设]]。吉布森·伯勒尔（Gibson Burrell）与加雷斯·摩根（Gareth Morgan）指出，研究者在认识论光谱上的定位，根本决定了其揭示社会行为知识的方法进路：持[[Objectivism\|客观主义]]认识论者，必然要求采用观察者角色，恪守自然科学的实证方法与通则法；持[[Subjectivism\|主观主义]]认识论者，则必然拒绝自然科学规程，深度融入行动者的生活世界，通过表意法理解主观构建的意义（Burrell & Morgan, 1979）。安东尼·翁乌埃格布齐（Anthony Onwuegbuzie）与南希·里奇（Nancy Leech）进一步确立[[Pragmatic Paradigm\|实用主义]]认识论作为[[Mixed Methods Research\|混合方法]]的哲学支柱，主张以“适应目的”为准则协同整合不同认识论进路[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, p. 115)]][[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|(Cohen et al., 2011, Ch. 7, p. 120)]]。
+> **范式背后的认识论反思与进路规约** 研究规划绝非机械的技术拼装，而是取决于支撑它的认识论假设。吉布森·伯勒尔（Gibson Burrell）与加雷斯·摩根（Gareth Morgan）指出，研究者在认识论光谱上的定位，根本决定了其揭示社会行为知识的方法进路：持[[Objectivism\|客观主义]]认识论者，必然要求采用观察者角色，恪守自然科学的实证方法与通则法；持[[Subjectivism\|主观主义]]认识论者，则必然拒绝自然科学规程，深度融入行动者的生活世界，通过表意法理解主观构建的意义（Burrell & Morgan, 1979）。安东尼·翁乌埃格布齐（Anthony Onwuegbuzie）与南希·里奇（Nancy Leech）进一步确立[[Pragmatic Paradigm\|实用主义]]认识论作为[[Mixed Methods Research\|混合方法]]的哲学支柱，主张以“适应目的”为准则协同整合不同认识论进路[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, p. 115)]][[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|(Cohen et al., 2011, Ch. 7, p. 120)]]。
 
 > [!feature] 经典范式与认识论映射谱系
-> - **[[Positivism\|实证主义]]** 知识源自对客观外在现象的系统观察、测量与[[Hypothesis\|假设]]检验，追求普适性因果规律。
+> - **[[Positivism\|实证主义]]** 知识源自对客观外在现象的系统观察、测量与假设检验，追求普适性因果规律。
 > - **[[Postpositivism\|后实证主义]]（Post-positivism）** 承认现实的复杂性与观察的可错性，追求概率性规律与[[Falsification\|证伪]]检验。
 > - **诠释与建构范式（[[Interpretivism]]）** 承认多重实在，强调通过参与者之眼理解情境——知识是情境化的、主体间建构的。
 > - **[[Phenomenology\|现象学]]与存在主义** 通过探究生活体验本身的本质结构与意识赋予来获取知识。
@@ -268,10 +265,10 @@ updated: 2026-10-09
 > - **古希腊奠基时期 — 确证真信念与理性求索** [[Plato|柏拉图]]在《泰阿泰德篇》（Theaetetus）中提出知识的经典[[Construct|构念]]——“确证的真信念”（Justified True Belief, JTB），开启西方认识论探究[[Source of Knowledge|知识来源]]与真理标准的哲学传统。
 > - **近代哲学革命 — 理性主义与[[Empiricism|经验主义]]论战** 勒内·[[René Descartes|笛卡尔]]（René Descartes）以理性演绎为基石，[[John Locke|约翰·洛克]]（John Locke）与[[Francis Bacon|弗朗西斯·培根]]（Francis Bacon）以经验归纳与白板说立论，系统确立认识论在哲学探究中的枢纽地位。
 > - **19世纪末至20世纪中叶 — [[Positivism|实证主义]]确立与批判** 实证主义将自然科学的实证经验确立为唯一真理形态；法兰克福学派与[[Karl Popper|卡尔·波普尔]]（Karl Popper）相继批判[[Scientism|科学主义]]的独断论，奠定理论负载与可错论思想。
-> - **1970年代 — 社会[[Scientific Paradigm|科学范式]]二元划分** Burrell & Morgan（1979）将认识论作为核心[[Hypothesis|假设]]轴线，正式确立[[Objectivism|客观主义]]（实证主义）与[[Subjectivism|主观主义]]（[[Interpretive Paradigm|反实证主义]]）的[[Paradigm|范式]]光谱。
+> - **1970年代 — 社会[[Scientific Paradigm|科学范式]]二元划分** Burrell & Morgan（1979）将认识论作为核心假设轴线，正式确立[[Objectivism|客观主义]]（实证主义）与[[Subjectivism|主观主义]]（[[Interpretive Paradigm|反实证主义]]）的[[Paradigm|范式]]光谱。
 > - **2000年代 — 认知发展与教育心理学[[Operationalization|操作化]]** [[Deanna Kuhn|迪安娜·库恩]]（Deanna Kuhn）等学者将认识论操作化为个体可发展的“[[Epistemological Understanding|认识论理解]]”模型，开创个人认识论与[[Domain Specificity|领域特殊性]]测量传统。
 > - **2000年代 — 批判认识论反抗与解构19世纪社会科学前提** [[Immanuel Wallerstein|沃勒斯坦]]（Wallerstein, 2000; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）提出[[World-Systems Theory|世界体系分析]]是对欺骗性认识论的智识反抗，主张超越 19 世纪[[Disciplinary Institutionalization|学科建制]]的分裂与[[Value Neutrality|价值中立]]假象，将追求真理与追求正义社会统一于批判认识论方案。
-> - **2000年代末 — [[Protean Episteme|普罗透斯式认识体系]]与[[Historical Amnesia|历史健忘症]]诊断** [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）以两百年学科史为镜鉴，提出跨学科探究作为“[[Protean Episteme|普罗透斯式认识体系]]”的四重代际演进（启蒙准科学、历史哲学、经验实证与批判冲突），结合[[Bernard Barber|巴伯]]（Barber, 1973）批判唯方法论主义的技术拜物教，以期刊计量数据诊断出放逐历史导致的学科“历史健忘症”危机，确立历史学与社会科学综合纲领的现代认识论合法性。
+> - **2000年代末 — [[Protean Episteme|普罗透斯式认识体系]]与[[Historical Amnesia|历史健忘症]]诊断** [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）以两百年学科史为镜鉴，提出跨学科探究作为“[[Protean Episteme|普罗透斯式认识体系]]”的四重代际演进（启蒙准科学、历史哲学、经验实证与批判冲突），结合巴伯（Barber, 1973）批判唯方法论主义的技术拜物教，以期刊计量数据诊断出放逐历史导致的学科“历史健忘症”危机，确立历史学与社会科学综合纲领的现代认识论合法性。
 > - **当代前沿 — [[Pragmatic Paradigm|实用主义]]整合与复杂适应** [[Mixed Methods Research|混合方法研究]]以实用主义认识论超越量质之争（Johnson et al., 2007）；[[Complexity Theory|复杂性理论]]进一步确立动态[[Emergence|涌现]]与生态反思的非线性认识论架构。
 
 ---
@@ -323,7 +320,7 @@ updated: 2026-10-09
 > | [[Positivism]] | 概念 | [[Objectivism\|客观主义]]认识论的核[[Flow\|心流]]派，主张经验证实、规律预测与事实价值二分。 |
 > | [[Postpositivism]] | 概念 | 确立观察的理论与价值负载，以可错论打破传统实证主义客观神话。 |
 > | [[Epistemological Understanding]] | 概念 | 认识论在个体认知维度的[[Operationalization\|操作化]][[Construct\|构念]]，经历绝对论、多元论向评价论的三阶演进。 |
-> | [[Andreas Kazamias]] | 人物 | 提出普罗透斯式认识体系，批判唯方法论主义并以[[Document\|文献]]计量数据诊断历史健忘症危机。 |
+> | [[Andreas Kazamias]] | 人物 | 提出普罗透斯式认识体系，批判唯方法论主义并以文献计量数据诊断[[Historical Amnesia\|历史健忘症]]危机。 |
 > | [[Immanuel Wallerstein]] | 人物 | 提出[[World-Systems Theory\|世界体系分析]]是对欺骗性认识论的反抗，主张求真与求善的认识论同构。 |
 > | [[Deanna Kuhn]] | 人物 | 建立个体认识论协调发展的阶段模型，实证检验认知反转序列与宽容陷阱。 |
 

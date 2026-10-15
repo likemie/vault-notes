@@ -10,7 +10,7 @@ aliases:
 summary: "个体理解科学运作机制、批判性评估多源证据质量、接纳科学知识暂定性与不确定性，并在日常生活和公共审议中做出理性判断的核心公民素养，涵盖科学本质理解、证据辨析、认识论实践、抵御虚假信息与大模型幻觉，以及在公共政策中坚守基于客观实证可复现性与学术卓越的“金标准科学”评价心智。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 67
+related_count: 65
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -51,11 +51,9 @@ related_concepts:
   - "[[Preregistration]]"
   - "[[Paradigm]]"
   - "[[Open-Mindedness]]"
-  - "[[Bildung]]"
   - "[[Examination-Oriented Education]]"
   - "[[Humility]]"
   - "[[Generative Artificial Intelligence]]"
-  - "[[Document]]"
   - "[[Output-Oriented Governance]]"
   - "[[Direct Instruction]]"
   - "[[Interaction Effect]]"
@@ -97,7 +95,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Scientific Literacy
@@ -189,7 +187,7 @@ updated: 2026-10-07
 > **全员科学教育的社会民主价值** 科学教育的双重目标并非零和博弈；为全体年轻人提供扎实的科学探究体验与证据评估能力，不仅是维系民主社会理性协商的基石，也是扩大[[Science Capital|科学资本]]、吸引多元背景人才进入科技领域的根本途径。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 30–32)]]
 
 > [!claim] [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]]
-> **参与[[Epistemic Practices|认识论实践]]培育民主审议理性** 稳健科学教育的基石在于引导学生深度参与学科认识论实践。这种参与不仅让学生掌握证据评估的微观规程，更能使他们领会[[Knowledge Production|知识生产]]共同体的核心民主价值（说服优于强制、[[Open-Mindedness|思想开放]]优于教条盲从、审慎考量备选方案），为在公共领域中作为有[[Bildung|教养]]的现代公民理性审议科技争议奠定[[Epistemology|认识论]]能动性。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 140, 161)]]
+> **参与[[Epistemic Practices|认识论实践]]培育民主审议理性** 稳健科学教育的基石在于引导学生深度参与学科认识论实践。这种参与不仅让学生掌握证据评估的微观规程，更能使他们领会[[Knowledge Production|知识生产]]共同体的核心民主价值（说服优于强制、[[Open-Mindedness|思想开放]]优于教条盲从、审慎考量备选方案），为在公共领域中作为有教养的现代公民理性审议科技争议奠定[[Epistemology|认识论]]能动性。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 140, 161)]]
 
 ---
 
@@ -218,7 +216,7 @@ updated: 2026-10-07
 > **穿透源头过度营销的批判性鉴别力** 里程碑实证研究证明，大众媒体上的夸大失真高达三分之一以上直接发端于大学新闻通稿的过度营销（Overselling）；具备科学素养的公民能够穿透耸人听闻的新闻标题，审视其原始研究设计是动物实验还是人体临床、是相关性还是因果推论。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 62)]]
 
 > [!claim] West & Bergstrom (2021)
-> **对抗算法污染的批判性证据素养** 在[[Generative Artificial Intelligence|生成式人工智能]]与推荐算法主导的信息环境中，科学素养不仅意味着辨别传统的错误论断，更意味着识别由大语言模型生成的看似严谨、实则虚构的伪学术[[Document|文献]]与模型幻觉（[[AI Hallucination]]）。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 61)]]
+> **对抗算法污染的批判性证据素养** 在[[Generative Artificial Intelligence|生成式人工智能]]与推荐算法主导的信息环境中，科学素养不仅意味着辨别传统的错误论断，更意味着识别由大语言模型生成的看似严谨、实则虚构的伪学术文献与模型幻觉（[[AI Hallucination]]）。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch03|(The Royal Society, 2026, p. 61)]]
 
 ---
 

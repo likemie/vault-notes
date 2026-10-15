@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 18
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -42,7 +42,6 @@ related_methods: []
 related_persons:
   - "[[Daniel Schugurensky]]"
   - "[[Michael W. Apple]]"
-  - "[[Carlos Alberto Torres]]"
 related_facts:
   - "[[World Bank]]"
   - "[[No Child Left Behind Act 2001]]"
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Business Roundtable
@@ -127,7 +126,7 @@ updated: 2026-10-07
 > > [!axis] 公共教育主权 vs 垄断资本公司化掠夺
 > > [[Critical Pedagogy|批判教育学]]者强烈抗议商业圆桌会将公立学校矮化为跨国资本的廉价劳工代工厂。
 > >
-> > - **批判教育社会学立场（反方）** [[Michael W. Apple|阿普尔]]与[[Carlos Alberto Torres|托雷斯]]等学者指出，商业圆桌会的教育改革是一场赤裸裸的阶级策略，旨在通过标准化考评剥夺[[Teacher Professional Agency|教师专业能动性]]，将公共教育资金转移给营利性测试与教育科技资本。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 81)]]
+> > - **批判教育社会学立场（反方）** [[Michael W. Apple|阿普尔]]与托雷斯等学者指出，商业圆桌会的教育改革是一场赤裸裸的阶级策略，旨在通过标准化考评剥夺[[Teacher Professional Agency|教师专业能动性]]，将公共教育资金转移给营利性测试与教育科技资本。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 81)]]
 > > - **商业圆桌会辩解（正方）** 辩称高标准与严格问责是保障所有学生在未来全球竞争中获得[[Employability|就业能力]]的唯一手段，否认存在阶级剥削动机。
 
 ---

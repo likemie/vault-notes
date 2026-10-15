@@ -7,7 +7,7 @@ summary: "实验中向受试者提供的关于研究目的和程序的一个表�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 9
+method_related_count: 8
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -18,7 +18,6 @@ tags:
 related_concepts:
   - "[[Research Purpose]]"
   - "[[Variable]]"
-  - "[[Hypothesis]]"
   - "[[Deception in Research]]"
   - "[[Informed Consent]]"
   - "[[Institutional Review Board]]"
@@ -33,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-09-11
+updated: 2026-10-15
 ---
 
 # Cover Story
@@ -52,7 +51,7 @@ updated: 2026-09-11
 > 封面故事在实验方法计划中的使用（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]], Ch8）：
 
 1. 在方法计划的程序部分，研究者需撰写并描述将向受试者讲述的封面故事。
-2. 封面故事应表面可信——足以让受试者理解自己在做什么，但不应透露研究的真实[[Hypothesis|假设]]或哪些[[Variable|变量]]正在被操纵。
+2. 封面故事应表面可信——足以让受试者理解自己在做什么，但不应透露研究的真实假设或哪些[[Variable|变量]]正在被操纵。
 3. 若封面故事涉及欺骗（[[Deception in Research|deception]]），研究者必须同时制定适当的解除欺骗（debriefing）方案——在实验结束后向受试者说明研究的真实目的。
 
 > [!example] 封面故事实例

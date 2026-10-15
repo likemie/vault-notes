@@ -10,7 +10,7 @@ aliases:
 summary: "指学生在学年中途频繁跨校转学的非正常流动形态。在政策问责话语中常被病理化为家庭贫困、失范与学业落后的表征，甚至被学校作为未达成问责目标的免责借口；实证研究则揭示其主要受住房居住变迁驱动，并构成底层家庭逃离校园暴力与劣质教学的主动避险策略。"
 type: concept
 domain: "sociology-of-education"
-related_count: 24
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -30,8 +30,6 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Employability]]"
   - "[[Falsification]]"
-  - "[[Hypothesis]]"
-  - "[[Document]]"
   - "[[Variable]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -54,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Transiency
@@ -145,7 +143,7 @@ updated: 2026-10-10
 > 探讨量化追踪与微观质性调查如何[[Falsification|证伪]]官方管理[[Discourse|话语]]中的“家庭病态论”，还原弱势群体在恶劣空间环境中的抗争理性。
 
 > [!claim] Rumberger (2003)
-> **居住变迁的主导因果律** 实证教育社会学研究直接推翻了“家庭道德失范导致漂泊”的病理学[[Hypothesis|假设]]。拉塞尔·伦伯格（Russell Rumberger, 2003）通过大样本追踪数据证实，约 60% 的中小学生学年中途转校完全是由居住地变迁驱动的（如租约到期、租金上涨、父母被解雇或调换工作等经济客观约束），而非家庭缺乏定居意愿。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 363)]]
+> **居住变迁的主导因果律** 实证教育社会学研究直接推翻了“家庭道德失范导致漂泊”的病理学假设。拉塞尔·伦伯格（Russell Rumberger, 2003）通过大样本追踪数据证实，约 60% 的中小学生学年中途转校完全是由居住地变迁驱动的（如租约到期、租金上涨、父母被解雇或调换工作等经济客观约束），而非家庭缺乏定居意愿。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 363)]]
 
 > [!claim] Kerbow et al. (2003)
 > **逃离劣质学校的主动避险理性** 柯博等学者（Kerbow et al., 2003）对芝加哥城市学校的深入调查表明，相当大比例的居住迁移属于同城近距离搬迁，原本无需强制变更学区；然而，许多贫困与少数族裔家长在学年中途坚决选择为孩子转学，其实质是一种经过深思熟虑的主动避险策略，旨在让孩子逃离原校严重的校园欺凌暴力、混乱校风与极其低下的教学质量，谋求基本的人身安全与受教育机会。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 363–364)]]
@@ -155,7 +153,7 @@ updated: 2026-10-10
 ### 命题总览
 
 > [!contrast-table] 流动漂泊核心命题归纳
-> | 命题类型 | 核心论断 | 机制与政策影响 | 代表[[Document\|文献]] |
+> | 命题类型 | 核心论断 | 机制与政策影响 | 代表文献 |
 > |---|---|---|---|
 > | **绩效问责异化与免责** | 高利害问责制将学生流动赤字化，作为学校逃避未达 AYP 责任的法定借口 | 学校报告卡将生源流动列为减分因子，掩盖学校办学失职 | Offenberg (2004) |
 > | **空间规训越轨定性** | 频繁转校挑战了学校作为固定封闭空间容器的规训连续性 | 空间[[Governmentality\|治理术]]将非定居主体病理化为失范越轨群体 | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] |

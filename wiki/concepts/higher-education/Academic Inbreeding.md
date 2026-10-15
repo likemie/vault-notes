@@ -9,7 +9,7 @@ aliases:
 summary: "高等教育学与科学社会学概念，指大学倾向于聘用本校毕业的博士或内部教师担任教职的聘任现象。该现象常伴随外部竞争机制缺失与地方行政保护主义，导致学术网络封闭、学术创新动力衰减与裙带关系固化。"
 type: concept
 domain: "higher-education"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Academic Freedom]]"
   - "[[Analytical Stance]]"
   - "[[Variable]]"
-  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Effect Size]]"
@@ -42,7 +41,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Academic Inbreeding
@@ -115,7 +114,7 @@ updated: 2026-10-12
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Garcia_Garrido_2009_SpainEU\|García Garrido (2009)]] | 西班牙 17 个自治区公立大学系统 | 政策[[Document\|文献]]与历史比较分析 | 区域高校教职来源构成与国际学术流动 | 西班牙大学成为欧盟[[Erasmus Programme\|伊拉斯谟计划]]接纳流动学生最多的国家，但国际排名低迷，本校留任与同自治区留任比例畸高 | — | 定性[[Documentary Analysis\|文献分析]]，揭示国际流动规模繁荣与内部教职封闭之间的鲜明反差 |
+> | [[Argument_Garcia_Garrido_2009_SpainEU\|García Garrido (2009)]] | 西班牙 17 个自治区公立大学系统 | 政策文献与历史比较分析 | 区域高校教职来源构成与国际学术流动 | 西班牙大学成为欧盟[[Erasmus Programme\|伊拉斯谟计划]]接纳流动学生最多的国家，但国际排名低迷，本校留任与同自治区留任比例畸高 | — | 定性[[Documentary Analysis\|文献分析]]，揭示国际流动规模繁荣与内部教职封闭之间的鲜明反差 |
 
 ---
 

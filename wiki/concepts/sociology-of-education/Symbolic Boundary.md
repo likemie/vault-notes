@@ -20,7 +20,6 @@ tags:
   - moral-judgment
   - paradigm/interpretivist
 related_concepts:
-  - "[[Habitus]]"
   - "[[Official Knowledge]]"
   - "[[Cultural Capital]]"
   - "[[Discourse]]"
@@ -32,6 +31,7 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Tacit Knowledge]]"
   - "[[Champ]]"
+  - "[[Habitus]]"
   - "[[Pragmatic Paradigm]]"
 related_theories: []
 related_methods:
@@ -59,7 +59,7 @@ related_arguments:
 
 > [!concept-lens] 概念透镜
 > - **含义** 指指向行动者或制度通过道德评价在群体间构建主观边界的文化与符号机制。
-> - **用途** 帮助研究者分析高等教育中微观阶层[[Habitus\|习性]]导致的互动隔阂（如目标掌控者 vs. 直觉依赖者），以及宏观国家如何通过学校课程将特定文化（如汉儒传统）自然化为[[Official Knowledge\|官方知识]]的边界[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023)]][[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]]。
+> - **用途** 帮助研究者分析高等教育中微观阶层习性导致的互动隔阂（如目标掌控者 vs. 直觉依赖者），以及宏观国家如何通过学校课程将特定文化（如汉儒传统）自然化为[[Official Knowledge\|官方知识]]的边界[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023)]][[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 71)]]。
 > - **边界** 不同于客观的社会边界（Social Boundary）；前者属于观念与道德分类的范畴，后者则属于资源分配、法律身份与阶级区隔等硬性社会事实（Lamont & Molnár, 2002）。
 
 > [!citation-card]- 关键表述
@@ -111,7 +111,7 @@ related_arguments:
 
 ### 命题一　高等教育微观互动中不同阶层习性建构了自我标识与道德拒斥他者的象征边界
 
-> [!concept-lens] 微观阶层[[Habitus\|习性]]与大学生自我/他者区隔
+> [!concept-lens] 微观阶层习性与大学生自我/他者区隔
 > 探讨大学生的阶层文化背景如何转化为道德评价[[Discourse|话语]]，并在不同学业文化模式之间划出难以逾越的心理界限。
 
 > [!claim] [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]
@@ -150,7 +150,7 @@ related_arguments:
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 分析层次 | 核心机制 | 代表学者 |
 > |:---|:---|:---|:---|
-> | **微观习性与道德区隔** | 微观个体 / 大学[[Champ\|场域]] | 阶层[[Habitus\|习性]]转化为“淳朴 vs. 功利”的道德拒斥与自我标识[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023)]] | [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] |
+> | **微观习性与道德区隔** | 微观个体 / 大学[[Champ\|场域]] | 阶层习性转化为“淳朴 vs. 功利”的道德拒斥与自我标识[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023)]] | [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] |
 > | **宏观课程与符号霸权** | 宏观制度 / 教科书场域 | 国家通过[[Official Knowledge\|官方知识]]自然化“中国文化=汉儒文化”边界[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024)]] | [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] |
 > | **边界硬化与结构再生产** | 中观—宏观跨层 | 主观道德拒斥阻断文化资本传递，硬化为客观[[Social Boundary\|社会边界]] | Lamont & Molnár (2002) |
 
@@ -175,7 +175,7 @@ related_arguments:
 > > 讨论象征边界在决定个体社会轨迹时，究竟具有独立于经济与[[Cultural Capital\|文化资本]]的自主解释力，还是仅仅是结构性地位的附庸。
 > >
 > > - **Lamont et al. (2002, 2015)** — 主张道德象征边界具有独立的社会学意义，能够独立于资本总量对社会互动施加约束。
-> > - **传统[[Pierre Bourdieu\|布迪厄]]学派学者** — 倾向于将道德表述视为文化资本与阶级[[Habitus\|习性]]（Habitus）的派生产物。
+> > - **传统[[Pierre Bourdieu\|布迪厄]]学派学者** — 倾向于将道德表述视为文化资本与阶级习性（[[Habitus]]）的派生产物。
 >
 > > [!axis]- 边界跨越（Boundary Crossing）vs. 边界固化（Boundary Reinforcement）
 > > 探讨行动者在遭遇符号象征边界时，倾向于调整自身行为穿透边界，还是强化自我认同形成抵制。

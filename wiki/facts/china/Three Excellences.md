@@ -11,7 +11,7 @@ subtype: policy
 region: china
 fact_region: "china"
 fact_kind: "policy"
-fact_related_count: 7
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Competitiveness]]"
   - "[[Pride in Learning]]"
-  - "[[Hypothesis]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
 related_methods: []
@@ -36,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Three Excellences
@@ -77,7 +76,7 @@ updated: 2026-10-07
 > [!tip]-
 > 三好生制度体现了东亚文化中"榜样学习"（model learning）的传统——这与儒家传统中使用历史典范人物进行教学的长期实践一脉相承。中国九年义务教育语文课程的分析显示，36% 的学习材料包含了这类学习者榜样故事([[Argument_Li_2012_Cambridge\|Li, 2012, pp.106–107]])。
 
-榜样学习的核心[[Hypothesis|假设]]与西方形成鲜明对比：
+榜样学习的核心假设与西方形成鲜明对比：
 - **西方** 能力是固定的——某些人天生就有天赋——模范对学生而言主要起"展示何为卓越"的作用
 - **东亚** 能力是可变的——模范展示了"通过努力可以达到的境界"——每个人都可以通过学习达到榜样的水平([[Argument_Li_2012_Cambridge|Li, 2012, pp.103–104]])
 

@@ -8,7 +8,7 @@ aliases:
 summary: "OECD 教育研究与创新中心（CERI）在 SIER 项目下开发的宏观系统级政策调查问卷，涵盖政策利用、实践促成与学术生产三大板块，通过多维矩阵打分与质性开放题，全面测度 29 国 37 个教育系统的研究动员生态、行动者网络、促成机制与制度障碍。"
 type: instrument
 instrument_type: questionnaire
-instrument_related_count: 33
+instrument_related_count: 31
 instrument_related_level: 6
 instrument_related_stars: "⭐⭐⭐⭐⭐⭐"
 instrument_related_color: "#fecdd3"
@@ -43,7 +43,6 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Evaluation Research]]"
   - "[[Engagement in and with Research]]"
-  - "[[Hypothesis]]"
   - "[[Research Impact]]"
   - "[[Research Translation]]"
   - "[[Construct]]"
@@ -54,7 +53,6 @@ related_theories:
 related_methods:
   - "[[Questionnaire]]"
   - "[[Qualitative Content Analysis]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Rating Scale]]"
   - "[[Design-Based Research]]"
   - "[[Correlational Research]]"
@@ -71,7 +69,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: 2026-09-13
-updated: 2026-09-18
+updated: 2026-10-15
 ---
 
 # Strengthening the Impact of Education Research Policy Survey
@@ -107,7 +105,7 @@ updated: 2026-09-18
 > | **维度四：跨界中介个体角色与个体科研生命周期参与** | 19 题（4 角色 + 7 阶段 + 8 激励） | 测度 4 类跨界中介在行政端与实践端的配备率、各类主体在科研 7 阶段的介入深度以及内外激励驱动。 | 二分类选择（0/1 标记）、阶段卷入标记、激励认同标记 |
 > | **维度五：循证[[Organizational Culture\|组织文化]]、心态态度与学习机会** | 10 题（9 态度 + 1 学习） | 测度部委官员与实践者对研究价值的认同、批判反思意识、深层人际互信，以及在岗专业学习机会。 | 5 点 Likert 认同度量表（1 = 强烈不同意 至 5 = 强烈同意） |
 > | **维度六：促成机制拥有率与四重转化阻力障壁** | 24 题（11 机制 + 13 障壁） | 测度促进研究利用的制度化机制（项目/经费/规约/合成）以及文化、时间、能力、学习阻力排序。 | 二值机制标记（0/1 标记）、阻力严重程度等级排序（Rank 1–6+） |
-> | **维度七：教育研究生产统筹协调与中介开放论述** | 8 题（7 机制 + 1 开放题） | 测度国家级教育研究生产的顶层设计与资助统筹，以及官方中介机构的法人属性与治理模式。 | 二值统筹标记（0/1 标记）、[[Qualitative Content Analysis\|质性文本分析]]与治理类型学[[Coding in Qualitative Research\|编码]] |
+> | **维度七：教育研究生产统筹协调与中介开放论述** | 8 题（7 机制 + 1 开放题） | 测度国家级教育研究生产的顶层设计与资助统筹，以及官方中介机构的法人属性与治理模式。 | 二值统筹标记（0/1 标记）、[[Qualitative Content Analysis\|质性文本分析]]与治理类型学编码 |
 
 ---
 
@@ -116,7 +114,7 @@ updated: 2026-09-18
 > [!instrument-items] 作答规则
 > - **题项形式** 涵盖矩阵式组织活跃度评定、部委日常征询频度标尺、政策制定利用频次、中介角色与机制存在性核查、[[Organizational Culture\|组织文化]][[Rating Scale\|态度量表]]、转化阻力位次排序及官方中介治理开放描述。
 > - **作答格式** 涵盖 5 点 Likert 等级、6 点频度量表、二分类选择（是 / 否）、多主体类别勾选与位次等级排序。
-> - **计分规则** 连续量表题按原始等级正向计分（计算系统均值）；二分类题按 0/1 标记计算配备率；阻力位次题按排位分级赋分（Rank 1 赋 3 分，Rank 2–3 赋 2 分，Rank 4–6 赋 1 分）；开放题采用[[Qualitative Content Analysis\|质性内容分析]]与类型学[[Coding in Qualitative Research\|编码]]。
+> - **计分规则** 连续量表题按原始等级正向计分（计算系统均值）；二分类题按 0/1 标记计算配备率；阻力位次题按排位分级赋分（Rank 1 赋 3 分，Rank 2–3 赋 2 分，Rank 4–6 赋 1 分）；开放题采用[[Qualitative Content Analysis\|质性内容分析]]与类型学编码。
 
 ### 维度一：17 类组织行动者在三大维度的活跃度评估
 
@@ -262,7 +260,7 @@ updated: 2026-09-18
 > | Willing to try new ways to integrate education research<br>**他们愿意尝试将教育研究整合到实践中的新路径** |
 > | High level of trust in research amongst them<br>**他们内部对教育研究成果抱有高度信任** |
 > | High level of trust with researchers<br>**他们与外部学术研究人员之间具备高度人际信任** |
-> | Willing to use education research to question ideas/preconceptions<br>**他们愿意使用教育研究来质疑反思既有[[Hypothesis\|假设]]与思路** |
+> | Willing to use education research to question ideas/preconceptions<br>**他们愿意使用教育研究来质疑反思既有假设与思路** |
 > | Shared understanding of education research with researchers<br>**他们与研究人员对教育研究及其应用拥有共享理解** |
 
 > [!seq-table]- 在岗专业学习与能力发展机会

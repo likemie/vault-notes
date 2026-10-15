@@ -7,7 +7,7 @@ summary: "牛津大学教师教育荣休教授，英国教育研究协会与苏�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 27
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -36,7 +36,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Gatekeepers]]"
   - "[[Discipline-Based Theory]]"
-  - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods:
   - "[[Elite Interview]]"
@@ -178,5 +177,5 @@ updated: 2026-10-15
 > | [[Evidence Era]] | 概念 | 合作提出证据时代概念，界定[[Pre-test and Post-test\|后测]]量时代的教育治理新[[Paradigm\|范式]]。 |
 > | [[Policy-Based Evidence-Making]] | 概念 | 实证剖析英格兰教育部通过[[Gatekeepers\|守门人]]机制进行逆向证据生产的运作流程。 |
 > | [[Elite Interview]] | 方法 | 运用 20 位高层知情人精英访谈突破政策幕后决策与政治适宜性机制。 |
-> | [[Carter Review of Initial Teacher Training]] | 事实 | 其临床实践研究成果被卡特审查广泛采纳并被[[Transfer Translation Transformation\|转译]]为官方政策语言。 |
+> | [[Carter Review of Initial Teacher Training]] | 事实 | 其临床实践研究成果被卡特审查广泛采纳并被转译为官方政策语言。 |
 

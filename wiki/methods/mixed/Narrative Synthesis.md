@@ -7,7 +7,7 @@ summary: "由 Jennie Popay 等人（2006）系统化制定的系统综述证据�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 31
+method_related_count: 29
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -18,7 +18,6 @@ tags:
   - theme/qualitative-synthesis
 related_concepts:
   - "[[Heterogeneity]]"
-  - "[[Document]]"
   - "[[Unit of Analysis]]"
   - "[[Research Topic]]"
   - "[[Epistemology]]"
@@ -47,7 +46,6 @@ related_methods:
   - "[[Content Analysis]]"
   - "[[Meta-analysis]]"
   - "[[Framework Synthesis]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
@@ -57,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-01
+updated: 2026-10-15
 ---
 
 # Narrative Synthesis
@@ -67,7 +65,7 @@ updated: 2026-10-01
 ## 定义
 
 > [!def] 方法定义
-> 叙事综合（Narrative Synthesis）是一种在[[Systematic Review\|系统综述]]中主要依赖文字阐释与结构化叙事来综合多项研究发现的严谨方法，旨在通过系统、透明的文字描述与逻辑映射，整合包含不同设计、质性与量化混合及复杂干预机理的[[Heterogeneity\|异质性]][[Document\|文献]]证据，产出对干预机制、情境变异与实践影响的深层解释。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 136–138)]]
+> 叙事综合（Narrative Synthesis）是一种在[[Systematic Review\|系统综述]]中主要依赖文字阐释与结构化叙事来综合多项研究发现的严谨方法，旨在通过系统、透明的文字描述与逻辑映射，整合包含不同设计、质性与量化混合及复杂干预机理的[[Heterogeneity\|异质性]]文献证据，产出对干预机制、情境变异与实践影响的深层解释。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 136–138)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 涵盖定量实验、质性个案、[[Mixed Methods Research\|混合方法]]评估、政策文本、实施过程评价等高度异质性的多源研究文献与实证数据。
@@ -86,7 +84,7 @@ updated: 2026-10-01
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 秉持[[Critical Realism\|批判实在论]]与[[Interpretivism|解释主义]]互补立场；认为社会与教育现实具有多层嵌套性与复杂情境性，经验现象不仅包含可测量的[[Effect Size\|效应量]]，更包含行动者的主观理解、情境互动与因果机制。
-> - **研究者角色** 研究者在综合过程中扮演积极的理论阐释者与[[Reflexivity\|反思性]]整合者，需要在不同[[Paradigm\|范式]][[Document\|文献]]之间搭建对话桥梁，同时保持证据判别的自反性与透明度。
+> - **研究者角色** 研究者在综合过程中扮演积极的理论阐释者与[[Reflexivity\|反思性]]整合者，需要在不同[[Paradigm\|范式]]文献之间搭建对话桥梁，同时保持证据判别的自反性与透明度。
 > - **有效性标准** 遵循透明度（Transparency）、系统性（Systematicity）、可追溯性（Auditability）与理论自洽性（Theoretical Coherence），要求详尽记录每一阶段的文献转化与解释逻辑。
 > - **不声称回答的问题** 不能提供高度同质化干预措施的统合数学效应量，亦不能在缺乏微观原始数据的情况下替代初级量化因果识别。
 
@@ -120,7 +118,7 @@ updated: 2026-10-01
 
 > [!method-fit] 适用判断
 > - **适合使用** 纳入综述的研究在干预方案、研究设计、测量指标或人群特征上具有高度[[Heterogeneity\|异质性]]，导致无法进行统计[[Meta-analysis\|元分析]]；涉及跨学科、跨行业（如教育、医疗、社会工作）的复杂制度或机制研究。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 136–138)]]
-> - **谨慎使用** [[Document\|文献]]仅有碎片化的定性观点且缺乏扎实的方法学记录，或[[Evaluation Research\|评价研究]]数量极少难以支撑跨研究比较。
+> - **谨慎使用** 文献仅有碎片化的定性观点且缺乏扎实的方法学记录，或[[Evaluation Research\|评价研究]]数量极少难以支撑跨研究比较。
 > - **不适合使用** 面对纯粹同质化的药物[[Clinical Trial\|临床试验]]或高度标准化的单一认知测验结果比较，此时应优先采用统计元分析。
 
 ---
@@ -128,7 +126,7 @@ updated: 2026-10-01
 ## 局限性
 
 > [!method-limits] 方法局限
-> - **偏误来源** 研究者的主观选择偏倚（Confirmation Bias）、发表偏误（[[Publication Bias]]）及对不同[[Paradigm\|范式]][[Document\|文献]]权重的赋权失衡。
+> - **偏误来源** 研究者的主观选择偏倚（Confirmation Bias）、发表偏误（[[Publication Bias]]）及对不同[[Paradigm\|范式]]文献权重的赋权失衡。
 > - **适用边界** 综合结论的[[External Validity\|可推广性]]受制于[[Primary and Secondary Documents\|原始文献]]的情境交代厚度；若原始研究情境描述薄弱，所得机制解释易流于泛化。
 > - **误用风险** 极易退化为无方法论约束的传统叙述性[[Literature Review\|文献回顾]]（Traditional Narrative Review），缺乏透明的筛选规则与可检验性。
 > - **补救方式** 引入同行盲审、严格执行 Popay 等人的四阶段透明规程，并在报告中完整披露纳入研究的质量评价矩阵与反思日志。
@@ -141,8 +139,8 @@ updated: 2026-10-01
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Systematic Review\|系统综述]] | 前置方法 | 叙事综合是系统综述在面对[[Heterogeneity\|异质性]][[Document\|文献]]时采用的关键整合分析子程序。 |
-> | [[Framework Synthesis\|框架综合]] | 补充方法 | 可与框架综合结合，以先验理论框架组织叙事综合的初步分析与[[Coding in Qualitative Research\|编码]]。 |
+> | [[Systematic Review\|系统综述]] | 前置方法 | 叙事综合是系统综述在面对[[Heterogeneity\|异质性]]文献时采用的关键整合分析子程序。 |
+> | [[Framework Synthesis\|框架综合]] | 补充方法 | 可与框架综合结合，以先验理论框架组织叙事综合的初步分析与编码。 |
 > | [[Mixed Methods Research\|混合方法研究]] | 方法[[Paradigm\|范式]] | 为叙事综合中质性与量化证据的[[Epistemology\|认识论]][[Dialogue in Education\|对话]]提供方法论支撑。 |
 > | [[Fitness for Purpose\|适切性]] | 概念标准 | 衡量证据类型与综合问题契合度的关键认识论基准。 |
 
@@ -151,4 +149,4 @@ updated: 2026-10-01
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Rickinson_2022_ER\|Rickinson et al., 2022a]] — 依据 Popay 等（2006）规范整合跨四大实践领域的 112 篇高度[[Heterogeneity\|异质性]][[Document\|文献]]，构建了 [[Quality Use of Research Evidence Framework\|QURE]] 框架。
+> - [[Argument_Rickinson_2022_ER\|Rickinson et al., 2022a]] — 依据 Popay 等（2006）规范整合跨四大实践领域的 112 篇高度[[Heterogeneity\|异质性]]文献，构建了 [[Quality Use of Research Evidence Framework\|QURE]] 框架。

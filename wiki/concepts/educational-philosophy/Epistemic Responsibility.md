@@ -10,7 +10,7 @@ aliases:
 summary: "指认知主体在知识建构中主动审视信念合法性与社会后果的理性伦理责任；在知识建构学派中体现为共同体成员不仅对个人理解负责，更对全班公共知识推进承担的集体认知责任；在人机共生中体现为审问算法输出、拒绝盲目认知卸载的终极求证底线。"
 type: concept
 domain: "educational-philosophy"
-related_count: 44
+related_count: 40
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -22,12 +22,10 @@ tags:
   - ai-in-education
   - knowledge-building
 related_concepts:
-  - "[[Transfer Translation Transformation]]"
   - "[[Critical Pedagogy]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Knowledge Production]]"
-  - "[[Teaching Assistant]]"
   - "[[Active Learning]]"
   - "[[Epistemology]]"
   - "[[Epistemic Agency]]"
@@ -38,13 +36,11 @@ related_concepts:
   - "[[Discourse]]"
   - "[[AI Hallucination]]"
   - "[[Dialogue in Education]]"
-  - "[[Hypothesis]]"
   - "[[Theory of Knowledge]]"
   - "[[Praxis]]"
   - "[[AI Agent in Education]]"
   - "[[Evaluative Judgement]]"
   - "[[Democratic Education]]"
-  - "[[Document]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Liberal Education]]"
   - "[[Open-Mindedness]]"
@@ -75,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-02
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Epistemic Responsibility
@@ -85,11 +81,11 @@ updated: 2026-10-07
 ## 定义
 
 > [!def] 核心定义
-> [[Epistemic Responsibility|认识论责任]]（Epistemic Responsibility，亦作认知责任、集体认知责任、认识问责）指学习者与教育者在[[Knowledge Building Theory|知识建构]]、接收与[[Transfer Translation Transformation|转译]]过程中，主动审查知识合法性、权力立场、证据因果链以及集体认知进展的理性伦理义务。在[[Critical Pedagogy|批判教育学]]脉络中，它强调拒绝盲从既定意识形态教条；在[[Knowledge Building Theory|协作知识建构]]脉络中，它深化为**集体认知责任（Collective Cognitive Responsibility）**，即共同体成员不仅对个人理解负责，更对整个班级公共知识前沿的充实、知识缺口的填补与观点的持续改进承担实质责任；在[[Generative Artificial Intelligence|生成式人工智能]]（GenAI）[[Man-Computer Symbiosis|人机共生]]环境中，它特指学习者坚决守持对算法生成推论的多源求证权，拒绝将核心认识裁决盲目外包给算法。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 54, 57)]]; [[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 892–893)]]; [[Argument_Wu_2025_ER|(Wu et al., 2025, pp. 360–366)]]
+> [[Epistemic Responsibility|认识论责任]]（Epistemic Responsibility，亦作认知责任、集体认知责任、认识问责）指学习者与教育者在[[Knowledge Building Theory|知识建构]]、接收与转译过程中，主动审查知识合法性、权力立场、证据因果链以及集体认知进展的理性伦理义务。在[[Critical Pedagogy|批判教育学]]脉络中，它强调拒绝盲从既定意识形态教条；在[[Knowledge Building Theory|协作知识建构]]脉络中，它深化为**集体认知责任（Collective Cognitive Responsibility）**，即共同体成员不仅对个人理解负责，更对整个班级公共知识前沿的充实、知识缺口的填补与观点的持续改进承担实质责任；在[[Generative Artificial Intelligence|生成式人工智能]]（GenAI）[[Man-Computer Symbiosis|人机共生]]环境中，它特指学习者坚决守持对算法生成推论的多源求证权，拒绝将核心认识裁决盲目外包给算法。[[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 54, 57)]]; [[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 892–893)]]; [[Argument_Wu_2025_ER|(Wu et al., 2025, pp. 360–366)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向认知主体审查[[Knowledge Production|知识生成]]机制、对自身所持信念与共同体公共知识进展承担证成义务的理智与道德双重承诺。
-> - **用途** 帮[[Teaching Assistant|助教]]育者与研究者区分无反思的技术性[[Active Learning|主动学习]]与真正具备认识批判力的深层探究；解释协作课堂中学生为何能超越狭隘个人竞争、自发展开分布式互助与跨组流转。
+> - **用途** 帮助教育者与研究者区分无反思的技术性[[Active Learning|主动学习]]与真正具备认识批判力的深层探究；解释协作课堂中学生为何能超越狭隘个人竞争、自发展开分布式互助与跨组流转。
 > - **人机共生与协作视界** [[Epistemology|认识论]]责任是连接[[Epistemic Agency|认识能动性]]与评价主义立场的伦理桥梁：学习者可以借助外部工具进行机械性[[Cognitive Offloading|认知卸载]]，但绝不能放弃认识论责任的最终审验权；同时，学习者将个人探究对接到集体认知网络中，共同对班级知识前沿负责。
 > - **边界** 认识论责任不等于虚无主义的全面怀疑，而是建立在理性审查、多源证据检验、集体协作与[[Humility|谦逊]]开放基础上的建构性审慎。
 
@@ -125,7 +121,7 @@ updated: 2026-10-07
 ## 核心要素
 
 > [!feature] 核心要素
-> - **权力与[[Hypothesis|假设]]质询（Critique of Power & Assumptions）** 拒绝将既有教材、专家定论或大模型输出视作中立无偏的绝对真理，主动追问知识背后的前提假设与立场倾向。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 57)]]
+> - **权力与假设质询（Critique of Power & Assumptions）** 拒绝将既有教材、专家定论或大模型输出视作中立无偏的绝对真理，主动追问知识背后的前提假设与立场倾向。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 57)]]
 > - **集体认知责任与公共知识贡献（Collective Cognitive Responsibility）** 共同体成员不将知识私有化或局限于个人得分，而是主动监控全班知识前沿，在[[Theory of Knowledge|知识论]]坛中跨组共享见解，自发填补集体认知缺口。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 892–893)]]
 > - **[[Humility|谦逊]]开放（Epistemic Openness & Humility）** 保持对反例、相左证据及自我认知局限的敏锐觉察，在理性论辩中愿意修正自身不成熟的假说。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 54)]]
 > - **知行统一与批判行动（[[Praxis]]: Unity of Reflection & Action）** 认识到对谬误的盲从本身即是对不公或平庸的妥协，将理智审验转化为主动干预和证据重构。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 61)]]
@@ -170,7 +166,7 @@ updated: 2026-10-07
 > 揭示学习者若放弃对大模型输出的认识论责任，将如何引发消极[[Cognitive Offloading|认知卸载]]与[[Epistemic Agency|认识主体性]]瓦解。
 
 > [!claim] Wu et al.
-> **算法交互中认识论责任的防御与促学机制** 在[[Generative Artificial Intelligence|生成式人工智能]]高度可用的环境下，学习者面临将思考过程全面外包的巨大诱惑。若学习者卸载了认识论责任，就会直接滑入绝对主义的表面顺从，将 AI 编造的虚假[[Document|文献]]与错误公式全盘接受，引发学术失范与心智惰性；唯有在教学中强化认识论责任要求（如要求学生为最终方案提供[[Primary and Secondary Documents|一手文献]]与数据验证证据），学习者才能被有效驱动转向评价主义立场，在[[Man-Computer Symbiosis|人机共生]]中牢牢掌握认识主动权。[[Argument_Wu_2025_ER|(Wu et al., 2025, pp. 363–366)]]
+> **算法交互中认识论责任的防御与促学机制** 在[[Generative Artificial Intelligence|生成式人工智能]]高度可用的环境下，学习者面临将思考过程全面外包的巨大诱惑。若学习者卸载了认识论责任，就会直接滑入绝对主义的表面顺从，将 AI 编造的虚假文献与错误公式全盘接受，引发学术失范与心智惰性；唯有在教学中强化认识论责任要求（如要求学生为最终方案提供[[Primary and Secondary Documents|一手文献]]与数据验证证据），学习者才能被有效驱动转向评价主义立场，在[[Man-Computer Symbiosis|人机共生]]中牢牢掌握认识主动权。[[Argument_Wu_2025_ER|(Wu et al., 2025, pp. 363–366)]]
 
 ---
 

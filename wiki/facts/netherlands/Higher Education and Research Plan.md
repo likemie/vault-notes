@@ -13,7 +13,7 @@ subtype: policy
 region: "netherlands"
 fact_region: "netherlands"
 fact_kind: "policy"
-fact_related_count: 7
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Paradigm]]"
   - "[[Network Governance]]"
-  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -41,7 +40,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Higher Education and Research Plan
@@ -121,5 +120,5 @@ updated: 2026-10-12
 
 ## 相关研究
 
-> [!evidence-grid] 相关[[Document|文献]]索引
+> [!evidence-grid] 相关文献索引
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 实证剖析荷兰 HOOP 规划程序的演进机制，系统论证对话式规划替代中央蓝图指令的控制论依据与治理价值。

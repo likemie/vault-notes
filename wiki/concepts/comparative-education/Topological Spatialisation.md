@@ -13,7 +13,7 @@ aliases:
 summary: "人文地理学与批判政策社会学的核心空间概念，指打破传统欧几里得几何与层级化行政疆界的连续、关系性空间构型。在教育治理中，它揭示数据基础设施与算法通约如何压缩时空距离，将分散微观的学校实践与跨区域甚至跨国计算中心折叠进即时连通的拓扑网络中。"
 type: concept
 domain: "comparative-education"
-related_count: 36
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Champ]]"
   - "[[Assemblage]]"
   - "[[PISA Shock]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Policy Mobility]]"
   - "[[Relational Space]]"
@@ -46,7 +45,6 @@ related_theories:
   - "[[Post-structuralism]]"
   - "[[Historical Institutionalism]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
   - "[[Case Study]]"
   - "[[Correlational Research]]"
@@ -115,7 +113,7 @@ updated: 2026-10-15
 > [!feature] 拓扑空间化的关键机制构件
 > - **关系的密集触达（Intensities of [[Reach]] & Proximity）** 权力不再取决于物理驻留，而是取决于[[Data Infrastructure\|数据基础设施]]向微观教育[[Champ\|场域]]触达的深度与频次；通过标准化日常测试与在线题库平台，中央机构得以直接与一线教师互动（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 136, 144]]）。
 > - **时空折叠与拉伸（Folding & Stretching of Time-Space）** 数据流将相隔千里但指标相同的学校拉伸至同一比较轴线，将分散在全德 16 州的课堂表现直接折叠进联邦[[Center of Calculation\|计算中心]]的监测屏幕（[[Argument_Hartong_2018_GSE\|Hartong, 2018, p. 137]]）。
-> - **标准化数据表征与算法[[Commensuration\|通约]]（Standardised Inscriptions & Commensuration）** 异质的教学过程被[[Coding in Qualitative Research\|编码]]为标准化的测验得分与能力层级，使不可比的教学情境在数学上转化为可自由移动、聚合与二次计算的数据（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 138, 141]]）。
+> - **标准化数据表征与算法[[Commensuration\|通约]]（Standardised Inscriptions & Commensuration）** 异质的教学过程被编码为标准化的测验得分与能力层级，使不可比的教学情境在数学上转化为可自由移动、聚合与二次计算的数据（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 138, 141]]）。
 > - **跨尺度制度重组（Cross-scale Re-[[Assemblage]]）** 传统被宪法严格区隔的联邦、州与地方权限，在拓扑数据网络中被重新装配为新型治理形态（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 143–145]]）。
 
 > [!logic-map]- 拓扑空间折叠与数据流转拓扑
@@ -145,7 +143,7 @@ updated: 2026-10-15
 
 ### 命题二　拓扑空间的生产依赖于计算中心对微观教育现象的标准化数据表征转译
 
-> [!concept-lens] 尺度[[Transfer Translation Transformation\|转译]]与远程操控维度
+> [!concept-lens] 尺度转译与远程操控维度
 > 剖析微观复杂的师生互动与学校教学如何被提炼为可移动数据，并在中心节点生成治理效力。
 
 > [!claim] [[Bruno Latour\|Latour, B.]]; [[Sigrid Hartong\|Hartong, S.]]
@@ -169,7 +167,7 @@ updated: 2026-10-15
 > - **2000 年代初 — 人文地理学的[[Relational Space\|关系空间]]转向** [[John Allen\|约翰·艾伦]]（John Allen, 2003, 2011）系统提出拓扑权力和空间理论，批判将权力等同于领土占有的传统地理学观点，强调权力的空间性在于连接与触达的密集度。
 > - **2010 年代初 — 数字社会学与数据库拓扑学** 伊芙琳·鲁珀特（Evelyn Ruppert, 2012）提出数据库的治理拓扑学（Governmental Topologies of Database Devices），论证人口普查与社会数据库如何重组现代国家的治理空间。
 > - **2013–2015 年 — 欧洲教育治理的拓扑学引入** 马丁·朗（Martin Lawn, 2013）与[[Bob Lingard\|鲍勃·林加德]]（Bob Lingard）等将拓扑学引入全球教育政策研究，分析[[European Education Space\|欧洲教育空间]]（EES）与 [[PISA]] 测评如何构造超越欧盟成员国边界的拓扑治理网络。
-> - **2018 年 — 联邦制国家内部[[Data Infrastructure\|数据基础设施]]的拓扑重组** [[Sigrid Hartong\|西格丽德·哈通]]（[[Argument_Hartong_2018_GSE\|Hartong, 2018]]）将拓扑空间与[[Assemblage\|装配]]理论结合，深入剖析德国在 PISA 震荡（[[PISA Shock]]）后建立 [[Institute for Educational Quality Improvement\|IQB]] 与跨州数据基础设施的过程，揭示去排名共识下潜藏的拓扑计算权力。
+> - **2018 年 — 联邦制国家内部[[Data Infrastructure\|数据基础设施]]的拓扑重组** [[Sigrid Hartong\|西格丽德·哈通]]（[[Argument_Hartong_2018_GSE\|Hartong, 2018]]）将拓扑空间与[[Assemblage|装配理论]]结合，深入剖析德国在 PISA 震荡（[[PISA Shock]]）后建立 [[Institute for Educational Quality Improvement\|IQB]] 与跨州数据基础设施的过程，揭示去排名共识下潜藏的拓扑计算权力。
 
 ---
 
@@ -182,7 +180,7 @@ updated: 2026-10-15
 > >
 > > - **拓扑[[Post-structuralism\|后结构主义]]视角** 强调新兴数字平台与数据中介已然重构了权力运行逻辑，传统地理与行政边界正被算法连通性所穿透（Allen, 2011; Ruppert, 2012）。
 > > - **[[Historical Institutionalism|历史制度主义]]与国家中心视角** 指出在法律、人事与财政预算等硬性主权支柱上，传统的民族国家与地方行政层级依然牢牢把控核心资源，拓扑网络仅构成科层制的辅助技术手段（Pierson, 2000）。
-> > - **[[Assemblage\|装配]]理论折中视角** [[Argument_Hartong_2018_GSE\|Hartong (2018)]] 强调拓扑网络并非完全替代传统领土层级，而是与之发生摩擦、妥协并形成新型复合装配体（re-assemblage），传统各州依然保有测试实施权与禁止排名的法条底线。
+> > - **[[Assemblage|装配理论]]折中视角** [[Argument_Hartong_2018_GSE\|Hartong (2018)]] 强调拓扑网络并非完全替代传统领土层级，而是与之发生摩擦、妥协并形成新型复合装配体（re-assemblage），传统各州依然保有测试实施权与禁止排名的法条底线。
 
 > [!warning] 适用局限
 > 拓扑空间化概念高度依赖于数字化基础设施、标准化测评工具与可[[Commensuration\|通约]]数据库的存在；在缺乏[[Informationalization\|信息化]]硬件支持、未推行量化产出监测或各行政主体完全相互封闭的低技术环境中，该概念的解释力将显著受限。

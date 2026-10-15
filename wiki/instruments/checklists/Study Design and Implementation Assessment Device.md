@@ -9,7 +9,7 @@ aliases:
 summary: "有效干预清算中心（WWC）在创设初期研发的因果证据质量与实施审查核查规程，经47条学界公众评议确立量化非唯一科学声明、增设断点回归专章并规范干预测量对齐标准。"
 type: instrument
 instrument_type: checklist
-instrument_related_count: 29
+instrument_related_count: 26
 instrument_related_level: 6
 instrument_related_stars: "⭐⭐⭐⭐⭐⭐"
 instrument_related_color: "#fecdd3"
@@ -35,19 +35,16 @@ related_concepts:
   - "[[Causality]]"
   - "[[Reliability]]"
   - "[[Evidence Standards]]"
-  - "[[Attrition]]"
   - "[[Variable]]"
   - "[[Implementation Fidelity]]"
   - "[[Heterogeneity]]"
   - "[[Scientific Paradigm]]"
   - "[[Clinical Trial]]"
   - "[[Measurement Alignment]]"
-  - "[[Document]]"
   - "[[Evidence-Based Education]]"
 related_theories: []
 related_methods:
   - "[[Intervention Research]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Random Assignment]]"
   - "[[Baseline Standardized Mean Difference]]"
   - "[[Covariate Adjustment]]"
@@ -69,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-09-28
+updated: 2026-10-15
 ---
 
 # Study Design and Implementation Assessment Device
@@ -82,7 +79,7 @@ updated: 2026-09-28
 > - **工具类型** 方法学质评核查清单与因果证据分级规程（Checklist and Evidence Rating Protocol）。
 > - **开发者与年份** [[What Works Clearinghouse]] (WWC, 2002/2003)。
 > - **测量目的** 系统审查与评定教育[[Intervention Research|干预研究]]的[[Internal Validity|内部效度]]、[[Causality|因果推断]]可[[Reliability|信度]]与设计实施质量，为清算中心编制《证据报告》（Evidence Reports）提供客观、统一的方法学准入标准。
-> - **实施方式** 由两名通过专业认证的独立审查员依据标准核查表进行双盲[[Coding in Qualitative Research|编码]]与评分（Observer-Rating），分歧项由资深方法学仲裁员裁定。
+> - **实施方式** 由两名通过专业认证的独立审查员依据标准核查表进行双盲编码与评分（Observer-Rating），分歧项由资深方法学仲裁员裁定。
 
 > [!citation-card] WWC 吸纳学界评议后在规程引言中的官方声明
 > 有效干预清算中心聚焦于评估因果有效性的最佳方法，但清算中心绝不认为定量方法是唯一可被称为“科学”的方法。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, p. 35)]]
@@ -98,20 +95,20 @@ updated: 2026-09-28
 >
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
 > |---|---|---|---|
-> | **受控实验设计审查**<br>*(Experimental Designs Module)* | 5 | 审查[[Random Assignment\|随机分配]]机制、样本与集群[[Attrition\|流失]]（Attrition）边界、干预与对照组基线等价性（[[Baseline Standardized Mean Difference\|Baseline Equivalence]]）。 | 三级序数定级：无保留符合标准、有保留符合标准、不符合标准 |
+> | **受控实验设计审查**<br>*(Experimental Designs Module)* | 5 | 审查[[Random Assignment\|随机分配]]机制、样本与集群流失（Attrition）边界、干预与对照组基线等价性（[[Baseline Standardized Mean Difference\|Baseline Equivalence]]）。 | 三级序数定级：无保留符合标准、有保留符合标准、不符合标准 |
 > | **准实验设计审查**<br>*(Quasi-Experimental Designs Module)* | 4 | 审查非随机比较组的匹配方法、可观测[[Covariate Adjustment\|协变量调整]]及选择偏差控制。 | 最高可评定为“有保留符合标准” |
 > | **断点回归设计审查**<br>*(Regression Discontinuity Designs Module)* | 4 | 审查赋值[[Variable\|变量]]连续性、断点切分点合规性、模型带宽设定及局部处理效应[[Reliability\|可靠性]]。 | 专章独立核查，符合门槛者准予纳入因果综合 |
 > | **干预与测量指标对齐审查**<br>*(Intervention-Outcome Alignment Module)* | 2 | 排查干预措施与结局测量工具之间的脱节偏差（过小关联）或自编测验过度重合（过度对齐偏差）。 | 二元门控核查：合格准入 / 效度受损排除 |
-> | **潜在调节特征编码清单**<br>*(Moderators of Effect Size Checklist)* | 30+ | [[Coding in Qualitative Research\|编码]]研究情境、样本社会人口学背景、师资培训与[[Implementation Fidelity\|实施保真度]]等情境变量。 | 描述性编码，作为后续[[Meta-analysis\|元分析]][[Effect Size\|效应量]][[Heterogeneity\|异质性]]解释的调节变量 |
+> | **潜在调节特征编码清单**<br>*(Moderators of Effect Size Checklist)* | 30+ | 编码研究情境、样本社会人口学背景、师资培训与[[Implementation Fidelity\|实施保真度]]等情境变量。 | 描述性编码，作为后续[[Meta-analysis\|元分析]][[Effect Size\|效应量]][[Heterogeneity\|异质性]]解释的调节变量 |
 
 ---
 
 ## 题项与作答方式
 
 > [!instrument-items] 核查规程与作答规则
-> - **题项形式** 客观条件核查项、方法学门控判定题与情境特征[[Coding in Qualitative Research|编码]]表。
+> - **题项形式** 客观条件核查项、方法学门控判定题与情境特征编码表。
 > - **作答格式** 三分类证据评级（符合标准 / 有保留符合 / 不符合）、二分类门控判定（通过 / 未通过）以及多项名义编码。
-> - **逻辑门控与分流规则** 首先基于研究设计类型进入不同核查分流（随机试验、准实验或[[Regression Discontinuity Design|断点回归]]）；接着执行干预与测量指标对齐门控；最后根据[[Attrition|流失]]率与基线等价性判定最终证据等级。
+> - **逻辑门控与分流规则** 首先基于研究设计类型进入不同核查分流（随机试验、准实验或[[Regression Discontinuity Design|断点回归]]）；接着执行干预与测量指标对齐门控；最后根据流失率与基线等价性判定最终证据等级。
 
 ### 核心核查模块
 
@@ -129,12 +126,12 @@ updated: 2026-09-28
 
 ## 使用该工具的研究
 
-> [!ref-table]- 使用 Study DIAD 的代表性[[Document|文献]]
+> [!ref-table]- 使用 Study DIAD 的代表性文献
 > <span class="instrument-study-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart & Towne (2003)]] | [[What Works Clearinghouse\|WWC]] Study DIAD (2003 Rev.) | 审查 WWC 发布的规程草案及 47 份学界公众评议文本 | 政策[[Content Analysis\|内容分析]]与规程文本考证 | 证实公共审议推动 WWC 放宽了单一实验垄断，确立[[Regression Discontinuity Design\|断点回归]]专章与多元调节[[Coding in Qualitative Research\|编码]]（pp. 34–36） |
+> | [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart & Towne (2003)]] | [[What Works Clearinghouse\|WWC]] Study DIAD (2003 Rev.) | 审查 WWC 发布的规程草案及 47 份学界公众评议文本 | 政策[[Content Analysis\|内容分析]]与规程文本考证 | 证实公共审议推动 WWC 放宽了单一实验垄断，确立[[Regression Discontinuity Design\|断点回归]]专章与多元调节编码（pp. 34–36） |
 
 ---
 

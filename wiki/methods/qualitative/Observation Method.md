@@ -10,7 +10,7 @@ summary: "教育研究中基础的资料收集方法，通过系统地看和记�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 44
+method_related_count: 43
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -23,11 +23,11 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Ecological Validity]]"
   - "[[Epistemology]]"
-  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Operationalization]]"
   - "[[Value Neutrality]]"
   - "[[Reliability]]"
+  - "[[Hypothesis]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Computer Simulation]]"
   - "[[Emergence]]"
@@ -46,7 +46,6 @@ related_methods:
   - "[[Non-participant Observation]]"
   - "[[Structured Observation]]"
   - "[[Narrative Analysis]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Ethnography]]"
   - "[[Survey Research]]"
   - "[[Case Study]]"
@@ -108,7 +107,7 @@ updated: 2026-10-15
 ## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
-> - **知识观** 科学观察基于明确清晰的理论[[Hypothesis\|假设]]，假设中的[[Variable\|变量]]可以被[[Operationalization\|操作化]]界定。这与人类学观察（以文化阐释为基础，变量不能预先清晰界定）形成对照。
+> - **知识观** 科学观察基于明确清晰的理论假设，假设中的[[Variable\|变量]]可以被[[Operationalization\|操作化]]界定。这与人类学观察（以文化阐释为基础，变量不能预先清晰界定）形成对照。
 > - **研究者角色** 研究者根据研究设计进行有目的、有计划的观察，尽量保持[[Value Neutrality\|价值中立]]。同时需考虑观察者自身的特征——性别、性取向、族裔、阶级、外貌、年龄、语言、人格、气质、态度、人际行为、对情境的熟悉程度等——这些都可能影响观察，尤其是参与式观察（cf. Kawulich, 2005, p. 7）（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al., 2011, Ch. 23, 23.1 节]]）。
 > - **有效性标准** 观察工具的[[Reliability\|信度]]和效度、观察程序的标准化、观察记录的准确性和完整性
 > - **不声称回答的问题** 单纯的观察不能直接确立[[Causality\|因果关系]]（需要结合实验设计）；不能替代对研究对象内在心理过程的直接测量
@@ -116,7 +115,7 @@ updated: 2026-10-15
 > [!method-stack] 方法层级
 > - **研究设计** 自然观察、实验观察、[[Participant Observation\|参与观察]]、[[Non-participant Observation\|非参与观察]]、[[Structured Observation\|结构式观察]]、非结构式观察
 > - **数据收集** 描述观察（日记描述法、轶事记录法、连续记录法）、取样观察（时间取样、活动取样、事件取样）、行为检核法
-> - **分析方法** 定性分析（文字描述、[[Narrative Analysis\|叙事分析]]）、定量分析（[[Coding in Qualitative Research\|编码]]体系、记号体系、等级量表）
+> - **分析方法** 定性分析（文字描述、[[Narrative Analysis\|叙事分析]]）、定量分析（编码体系、记号体系、等级量表）
 > - **辅助技术** 观察仪器和记录设备（录音、录像）、观察量表、观察笔记
 
 ---
@@ -141,7 +140,7 @@ updated: 2026-10-15
 > - **获得第一手研究资料** 积累大量生动、细节性的原始资料，为检验假设提供经验支持
 
 > [!proc] 科学观察的六项基本要求
-> 1. **有明确清晰的理论[[Hypothesis\|假设]]作为指导** 科学观察与人类学观察的关键区别。[[Variable\|变量]]及其关系可被[[Operationalization\|操作化]]界定
+> 1. **有明确清晰的理论假设作为指导** 科学观察与人类学观察的关键区别。[[Variable\|变量]]及其关系可被[[Operationalization\|操作化]]界定
 > 2. **有明确的目的** 科学观察以研究设计为依据，目的和设计不同则观察对象、范围、条件及内容不同
 > 3. **了解观察对象的基本情况，保持[[Value Neutrality\|价值中立]]** 年龄、性别、智力水平、受教育程度等人口学特征可能影响观察结果
 > 4. **有计划地进行，事先拟定观察提纲或量表** 事先确定观察维度和具体指标。实验观察中程序标准化也是必需的
@@ -151,7 +150,7 @@ updated: 2026-10-15
 ### 影响观察效果的因素
 
 > [!warning] 影响观察效果的四类因素
-> - **对所观察事物的科学知识严重匮乏** 难以形成有说服力的解释性[[Hypothesis\|假设]]，对课堂行为背后隐含的教育理念、态度、课堂文化等隐性因素容易疏于观察
+> - **对所观察事物的科学知识严重匮乏** 难以形成有说服力的解释性假设，对课堂行为背后隐含的教育理念、态度、课堂文化等隐性因素容易疏于观察
 > - **教育科学理论和方法训练不足** 观察对象的范围、条件，观察工具的[[Reliability\|信度]]和效度、记录方式和手段等影响观察结果
 > - **对假设先入为主或学术诚信不足** 可能对不利数据视而不见、挑数据，或因急功近利而恶意篡改数据
 > - **观察工具的可靠性和有效性欠缺** 技术手段的发展水平影响观察结果（如高速摄影、[[Computer Simulation\|计算机模拟]]、电子成像虚拟置入技术应用较少）
@@ -166,7 +165,7 @@ updated: 2026-10-15
 
 > [!spectrum] 观察类型连续体
 >
-> - **非[[Structured Observation\|结构化观察]]** 不预先知道要寻找什么，先进入[[Situative Perspective\|情境观]]察，再决定其对研究的意义。**[[Hypothesis\|假设]]生成性**
+> - **非[[Structured Observation\|结构化观察]]** 不预先知道要寻找什么，先进入[[Situative Perspective\|情境观]]察，再决定其对研究的意义。**假设生成性**
 > - **半结构化观察** 有一个议题清单，以不那么预先决定的方式收集数据来阐明议题
 > - **[[Structured Observation\|结构化观察]]** 预先知道要寻找什么（预设性观察），观察类别已事先制定。**假设验证性**
 
@@ -347,7 +346,7 @@ Simpson & Tuson（2003, ch. 2）提出观察规划需考虑十四个方面（[[A
 ### 定量观察记录方式
 
 > [!feature] 三种定量观察记录方式
-> - **[[Coding in Qualitative Research\|编码]]体系（Coding System）** 以既定观察分类项目为依据，采用时间取样，用事先编制的代码记录预期行为是否出现。典型代表是[[Flanders Interaction Analysis Categories\|弗兰德斯语言互动分析分类体系]]（FIAC）
+> - **编码体系（Coding System）** 以既定观察分类项目为依据，采用时间取样，用事先编制的代码记录预期行为是否出现。典型代表是[[Flanders Interaction Analysis Categories\|弗兰德斯语言互动分析分类体系]]（FIAC）
 > - **记号体系或项目清单（Sign System）** 事先列出所有可能行为的清单，观察者根据清单记录行为呈现与否。常与编码体系结合使用
 > - **等级量表（[[Rating Scale]]）** 预先形成观察量表，观察者在量表上对目标行为做出等级评价，主要用于事件取样
 
@@ -374,7 +373,7 @@ Simpson & Tuson（2003, ch. 2）提出观察规划需考虑十四个方面（[[A
 > - **选择性数据记录** 有时先解释情境再记录解释而非现象本身
 > - **选择性记忆** 事后书写时记忆忽略和选择数据。笔记应在观察期间或观察后立即书写
 > - **人际因素与反移情** 解释受判断和偏好影响，研究者需保持[[Reflexivity\|反身性]]
-> - **期望效应** 观察者知道[[Hypothesis\|假设]]或期望找到某些行为。双盲方法可克服
+> - **期望效应** 观察者知道假设或期望找到某些行为。双盲方法可克服
 > - **如何记录的决策** 需记录多少不同的人展示了该行为，而非重复记录同一人
 > - **观察者数量** 不同观察者可能看向不同方向，结果不一致
 
@@ -438,7 +437,7 @@ Simpson & Tuson（2003, ch. 2）提出观察规划需考虑十四个方面（[[A
 ## 局限性
 
 > [!method-limits] 方法局限
-> - **偏误来源** 观察者主观偏见、对观察事物的科学知识匮乏、观察工具信效度不足、先入为主的[[Hypothesis\|假设]]影响、学术诚信问题。[[Structured Observation\|结构化观察]]另有行为主义取向（排除意图和动机）、主体性丧失（个体还原为聚合分数）、推断效度问题、忽视情境和定格快照等批评（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al., 2011, Ch. 23, 23.2 节]]）
+> - **偏误来源** 观察者主观偏见、对观察事物的科学知识匮乏、观察工具信效度不足、先入为主的假设影响、学术诚信问题。[[Structured Observation\|结构化观察]]另有行为主义取向（排除意图和动机）、主体性丧失（个体还原为聚合分数）、推断效度问题、忽视情境和定格快照等批评（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al., 2011, Ch. 23, 23.2 节]]）
 > - **适用边界** 主要收集外显行为数据，对内在心理过程的推断需谨慎；观察结果受时间、场合和观察对象的人口统计学特征影响
 > - **误用风险** 将相关关系误判为[[Causality\|因果关系]]；忽视观察者培训的重要性；将非[[Structured Observation\|结构化观察]]数据过度量化
 > - **补救方式** 加强观察者培训；采用多人同步观察和反复观察；结合多种观察策略和记录方式；使用成熟的观察量表；辅以访谈或[[Questionnaire\|问卷调查]]进行[[Triangulation\|三角互证]]；对特定学生进行跟踪以获取跨情境的完整画像；采用[[Habituation\|习惯化]]减少反应性

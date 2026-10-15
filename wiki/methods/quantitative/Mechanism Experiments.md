@@ -6,7 +6,7 @@ summary: "用于测试特定行为机制或理论路径的小规模现场实验�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 19
+method_related_count: 18
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Variable]]"
   - "[[School Leadership]]"
-  - "[[Hypothesis]]"
 related_theories:
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
   - "[[Realist Evaluation]]"
@@ -45,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: '2026-05-18'
+updated: 2026-10-15
 ---
 
 ## 定义
@@ -88,7 +87,7 @@ updated: '2026-05-18'
 > [!abstract] 鼓励设计（Encouragement Design）
 > 由于在教育情境中直接操纵中介[[Variable\|变量]]可能困难（例如随机分配教师接受不同形式的培训可能产生与自然响应不同的行为），Imai, Tingley, & Yamamoto (2013) 提出了**鼓励设计**作为替代方案。
 >
-> **操作方式** 受试者被随机分配接受"鼓励"以采取更高值的中介变量——例如教师被随机分配接受来自[[School Leadership\|学校领导]]团队的额外提醒以执行干预的关键要素。关键[[Hypothesis\|假设]]：(1) 鼓励仅通过中介变量影响结果；(2) 鼓励对中介变量的影响是线性的（无"违抗者"或不成比例受影响的受试者）([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 304]])。
+> **操作方式** 受试者被随机分配接受"鼓励"以采取更高值的中介变量——例如教师被随机分配接受来自[[School Leadership\|学校领导]]团队的额外提醒以执行干预的关键要素。关键假设：(1) 鼓励仅通过中介变量影响结果；(2) 鼓励对中介变量的影响是线性的（无"违抗者"或不成比例受影响的受试者）([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 304]])。
 >
 > **嵌入黑箱 RCT** 评估者可与项目开发者合作，识别项目产生效果的关键假设机制。学校被随机分配至处理组、对照组或"处理+鼓励"条件。在机制试验中，处理组教师的随机子集还接受对关键项目要素的持续指导和提示([[Argument_Peterson_2016_IJRME\|Peterson, 2016, pp. 304–305]])。
 >

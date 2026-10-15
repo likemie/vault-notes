@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch06"
 argument_display_title: "Research Methods in Education · Ch06"
 argument_kind: "book-chapter"
-argument_related_count: 68
+argument_related_count: 66
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -28,13 +28,11 @@ tags:
   - theme/research-planning
 related_concepts:
   - "[[Concept Mapping]]"
-  - "[[Document]]"
   - "[[Fitness for Purpose]]"
   - "[[Reliability]]"
   - "[[Research Topic]]"
   - "[[Research Contribution]]"
   - "[[Literature Search]]"
-  - "[[Hypothesis]]"
   - "[[Research Purpose]]"
   - "[[Descriptive Research Question]]"
   - "[[Homework]]"
@@ -139,7 +137,7 @@ updated: '2026-08-27'
 > - **新手从过于宏大的课题出发**
 >   许多新手学生和研究者从一个过于宏大的课题出发。导师的任务是帮助新手将研究领域收窄和打磨，使其变得可行、有用、可操作。研究的纪律在于将其缩小到可管理／可研究的比例（cf. Hopkins, 1985, p. 47）。由此推出：课题必须被框紧，严谨性才能嵌入。
 > - **研究不是个人观点的佐证**
->   新手往往让教育研究成为自己的人生故事，或为个人观点寻找[[Document\|文献]]和经验支撑。这不是研究的任务。研究的任务是发现（find out）、调查（investigate）、发展（develop）、检验（test out）和回答（what if、how、why、how well、what、where）。由此推出：研究必须指向外部世界的问题，而非研究者自身。
+>   新手往往让教育研究成为自己的人生故事，或为个人观点寻找文献和经验支撑。这不是研究的任务。研究的任务是发现（find out）、调查（investigate）、发展（develop）、检验（test out）和回答（what if、how、why、how well、what、where）。由此推出：研究必须指向外部世界的问题，而非研究者自身。
 > - **框紧边界才能严谨**
 >   研究课题只是学科领域中的一小块，必须画出谨慎的边界。严谨性不在于宏大，而在于框得紧（tightly framed）。未经收窄的课题如同没有边界的田野，在其中漫游，最终哪里也到不了。课题宏大则无法管理，无法管理则无法嵌入严谨性（[[Fitness for Purpose\|目的适配性]]和方法[[Reliability\|可靠性]]），缺乏严谨性则失败。由此推出：规划阶段的第一个纪律就是将课题收窄到可研究的比例。
 
@@ -256,7 +254,7 @@ updated: '2026-08-27'
 > 4. **审视** 在做出是否追问该领域的坚定决定之前，先审视该领域的现状
 > 5. **讨论** 与可能的导师讨论拟议课题，获得专家反馈
 >
-> UC Santa Cruz (2010, p. 1) 提供了一个虽不完全但有用的起点：选择感兴趣的课题、阅读背景材料并编制关键词列表、澄清核心概念、将课题写成陈述句或[[Hypothesis\|假设]]。
+> UC Santa Cruz (2010, p. 1) 提供了一个虽不完全但有用的起点：选择感兴趣的课题、阅读背景材料并编制关键词列表、澄清核心概念、将课题写成陈述句或假设。
 
 ---
 

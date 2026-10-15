@@ -8,7 +8,7 @@ aliases:
 summary: "由 Schommer 针对中学生群体修订的认识论信念自陈问卷，用于评估个体在能力本质、学习速度、知识结构与知识确定性等维度的认识论信念特征。"
 type: instrument
 instrument_type: questionnaire
-instrument_related_count: 9
+instrument_related_count: 8
 instrument_related_level: 1
 instrument_related_stars: "⭐"
 instrument_related_color: "#fef3c7"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Epistemological Beliefs]]"
   - "[[Simplicity of Knowledge]]"
   - "[[Academic Achievement]]"
-  - "[[Document]]"
   - "[[Epistemology]]"
 related_methods:
   - "[[Questionnaire]]"
@@ -40,7 +39,7 @@ related_facts: []
 confidence: medium
 status: draft
 created: 2026-08-19
-updated: 2026-09-15
+updated: 2026-10-15
 ---
 
 # Schommer's Modified Epistemological Questionnaire
@@ -77,7 +76,7 @@ updated: 2026-09-15
 > - **题项形式** 第一人称或泛指陈述句。
 > - **作答格式** 5点 Likert 量表（1 = 完全不同意，5 = 完全同意）。
 > - **反向题与跳题** 部分反向表述题项在计分时予以反向转换；分数越高通常代表[[Epistemological Beliefs\|认识论信念]]越朴素（naïve），分数越低代表认识论信念越成熟（sophisticated）。
-> - **题项呈现说明** 学生实际施测填写 52 题[[Questionnaire\|问卷]]；经[[Exploratory Factor Analysis\|探索性因子分析]]（EFA）筛选后，仅将因子载荷达标（$\ge .33$）且构成 3 个核心因子的 **11 个核心题项** 纳入统计模型并在[[Document\|文献]]中公开发布（见下表）。其余 41 题因载荷过低或跨载荷未进入核心模型。
+> - **题项呈现说明** 学生实际施测填写 52 题[[Questionnaire\|问卷]]；经[[Exploratory Factor Analysis\|探索性因子分析]]（EFA）筛选后，仅将因子载荷达标（$\ge .33$）且构成 3 个核心因子的 **11 个核心题项** 纳入统计模型并在文献中公开发布（见下表）。其余 41 题因载荷过低或跨载荷未进入核心模型。
 
 ### 固定与快速学习能力
 

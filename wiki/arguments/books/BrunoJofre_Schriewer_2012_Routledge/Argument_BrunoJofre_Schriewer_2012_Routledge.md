@@ -7,7 +7,7 @@ title: "Argument_BrunoJofre_Schriewer_2012_Routledge"
 argument_key: "Argument_BrunoJofre_Schriewer_2012_Routledge"
 argument_display_title: "The global reception of John Dewey's thought: Multiple refractions through time and space"
 argument_kind: "edited-volume"
-argument_related_count: 5
+argument_related_count: 4
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#e5e7eb"
@@ -26,7 +26,6 @@ citation: "Bruno-Jofré, R., & Schriewer, J. (Eds.). (2012). The global receptio
 tags: ["theme/comparative-education", "theme/history-of-education", "theme/book-reading"]
 related_concepts:
   - "[[Discourse]]"
-  - "[[Document]]"
 related_persons:
   - "[[John Dewey]]"
   - "[[Jurgen Schriewer]]"
@@ -106,7 +105,7 @@ updated: "2026-10-10"
 
 > [!volume-limits] 文本整理与引用边界
 > - **前置材料** 前言、致谢及原始发表说明并入第 1 章，明确标为全书补充材料。
-> - **公共附录** 作者简介与完整参考[[Document|文献]]并入后记，供所有章节追溯来源。
+> - **公共附录** 作者简介与完整参考文献并入后记，供所有章节追溯来源。
 > - **页码定位** TXT 中 `[p. N]` 为原书页码，`[PDF page M]` 为文件内的一基页序；正文页序为原书页码加 18。
 > - **识别质量** 原文件为扫描版，TXT 使用已有文字识别层，可能保留拼写、重音符号与注释编号的识别错误。精确引文、图像与表格应回到 PDF 核对。
 > - **证据归属** 后续引用以章节作者及章节论证页为单位；总页面仅承担导航功能。

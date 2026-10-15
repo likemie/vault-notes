@@ -10,7 +10,7 @@ title: "Argument_Skourdoumbis_2024_AER"
 argument_key: "Argument_Skourdoumbis_2024_AER"
 argument_display_title: "A critique of 'Strong Beginnings' initial teacher education reforms: mandating neuroscience as core curriculum within the 'what works' movement"
 argument_kind: "journal-article"
-argument_related_count: 51
+argument_related_count: 49
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -25,13 +25,11 @@ tags:
   - australia
 related_concepts:
   - "[[Initial Teacher Training]]"
-  - "[[Attrition]]"
   - "[[Discourse]]"
   - "[[Policy Network]]"
   - "[[Value Neutrality]]"
   - "[[School Leadership]]"
   - "[[Causality]]"
-  - "[[Document]]"
   - "[[Red Tape]]"
   - "[[What Works Movement]]"
   - "[[Knowledge Production]]"
@@ -102,13 +100,13 @@ citation_aliases:
 > [!question] 核心关切与政策谜题
 > 澳大利亚自1979年以来已进行了101次政府主导的教师教育审查，是检验[[Initial Teacher Training\|初始教师教育]]（Initial Teacher Education, ITE）政策改革的肥沃土壤。2023年联邦政府发布《强劲开端》（*[[Strong Beginnings Report\|Strong Beginnings]]*）报告，在延续2015年教师教育部长级咨询组（[[Teacher Education Ministerial Advisory Group]], TEMAG）《行动立即开始》报告和2022年优质初始教师教育（Quality Initial Teacher Education, QITE）审查逻辑的基础上，首次在全国范围内将“大脑与学习”（神经科学）列为ITE的必修核心课程。
 >
-> 这一改革带来了重大的政策谜题：一场因全国性教师严重短缺危机而发起的政策审查，为何最终绕过了教师[[Attrition\|流失]]的根本原因（如过载工作量），转而将问题表征为教师培训质量缺陷？将神经科学强制列入必修课程的深层逻辑是什么？“什么有效”运动的[[Discourse|话语]]策略如何通过[[Policy Network\|政策网络]]进行“理念编排”，服务于特定中介组织和保守智库的私人与制度性利益？
+> 这一改革带来了重大的政策谜题：一场因全国性教师严重短缺危机而发起的政策审查，为何最终绕过了教师流失的根本原因（如过载工作量），转而将问题表征为教师培训质量缺陷？将神经科学强制列入必修课程的深层逻辑是什么？“什么有效”运动的[[Discourse|话语]]策略如何通过[[Policy Network\|政策网络]]进行“理念编排”，服务于特定中介组织和保守智库的私人与制度性利益？
 
 > [!claim] 核心主张
 > 报告中将“大脑与学习”强制列为初始教师教育（ITE）核心课程，并非客观、[[Value Neutrality\|价值中立]]的循证决策，而是一种生物简化主义与赤字话语的体现。这一改革由官方教育证据中介组织[[Australian Education Research Organisation\|澳大利亚教育研究组织]]（Australian Education Research Organisation, [[Australian Education Research Organisation\|AERO]]）、评估认证机构[[Australian Institute for Teaching and School Leadership\|澳大利亚教学与学校领导力协会]]（Australian Institute for Teaching and [[School Leadership]], [[Australian Institute for Teaching and School Leadership\|AITSL]]）与保守智库独立研究中心（[[Centre for Independent Studies]], CIS）组成的权力网络共同动员与编排，旨在通过强制性与惩罚性的认证机制，确立标准化“什么有效”知识的霸权，从而剥夺教师教育者的课程自主权，将教育本质从“人际沟通与意义建构”异化为可度量监控的“[[Causality\|因果关系]]”。
 
 > [!concept-lens]- 阅读透镜
-> - **对象** 澳大利亚联邦政府2023年发布的《强劲开端：教师教育专家小组报告》（*Strong Beginnings*），特别是其中将“大脑与学习”（神经科学）列为初始教师教育（ITE）必修核心课程的优先改革1（Priority Reform 1）及附录D的核心内容规范与指定参考[[Document\|文献]]。
+> - **对象** 澳大利亚联邦政府2023年发布的《强劲开端：教师教育专家小组报告》（*Strong Beginnings*），特别是其中将“大脑与学习”（神经科学）列为初始教师教育（ITE）必修核心课程的优先改革1（Priority Reform 1）及附录D的核心内容规范与指定参考文献。
 > - **张力** 一方面，教师流失与短缺的核心原因是“工作量过大”和“行政[[Red Tape|繁文缛节]]”等结构性与劳动环境问题（如2021年QITE审查所指出的）；另一方面，改革方案却将问题归咎于“教师培训质量不足”和“课堂准备度不够”，试图通过强制推行标准化、生物简化主义的“大脑与学习”课程来解决。此外，在提倡价值中立、客观“循证”的同时，改革却强制指定由保守智库（CIS）资助、尚未经过同行评审的未发表证据，这构成了话语与实际利益之间的张力。
 > - **贡献** 运用批判政策社会学视角与Bacchi的[[Bacchi's WPR Approach\|WPR方法]]，去除了神经科学在教育政策中“价值中立”的伪装，揭示了“[[What Works Movement\|什么有效运动]]”如何通过中介组织（AERO）、评估机构（AITSL）和保守智库（CIS）的权力网络进行“理念编排”，实现了对初始教师教育的监视蔓延与惩罚性问责，进而削弱了教师的专业自主权与大学教师教育者的专业地位。
 
@@ -140,7 +138,7 @@ citation_aliases:
 > |----------|------|
 > | **核心政策文本** | 澳大利亚政府教师教育专家小组报告《强劲开端》（*Strong Beginnings*, 2023）及其核心内容附录D（pp. 95–96）。 |
 > | **历史背景文本** | 1979年以来的澳大利亚教师教育审查文献（Louden, 2008）；2015年[[Teacher Education Ministerial Advisory Group\|TEMAG]]报告《行动立即开始》；2021年QITE审查报告《下一步：优质初始教师教育审查报告》。 |
-> | **循证与中介[[Document\|文献]]** | AERO公开的《证据标准》（AERO, 2021）；证据与实施中心（Centre for Evidence and Implementation, CEI）为澳大利亚教育研究组织（AERO）撰写的桌面审查报告（Abdo et al., 2021）；[[Education Endowment Foundation\|EEF]]的全球循证生态建设计划（EEF, 2024）；[[Centre for Independent Studies\|CIS]]出版的研究及政策倡议（Sweller, 2021）。 |
+> | **循证与中介文献** | AERO公开的《证据标准》（AERO, 2021）；证据与实施中心（Centre for Evidence and Implementation, CEI）为澳大利亚教育研究组织（AERO）撰写的桌面审查报告（Abdo et al., 2021）；[[Education Endowment Foundation\|EEF]]的全球循证生态建设计划（EEF, 2024）；[[Centre for Independent Studies\|CIS]]出版的研究及政策倡议（Sweller, 2021）。 |
 > | **实证与满意度数据** | 2022年澳大利亚毕业生结果调查数据（GOS, 2023）；[[Australian Institute for Teaching and School Leadership\|AITSL]]教师工作量与流失率调查数据（AITSL, 2021）。 |
 
 ---
@@ -187,7 +185,7 @@ citation_aliases:
 ### 论证步骤一：教师短缺背景下“工作量危机”向“教学缺陷观”的政治置换
 
 > [!claim] 步骤一主张
-> 政策将“教师[[Attrition\|流失]]与短缺”这一结构性劳动力市场危机，降维并重构为“教师培训质量不足与缺乏准备度”的问题。通过选择性使用和歪曲满意度调查数据，避开了对过度工作量这一流失主因的讨论，从而将责任转移至[[Initial Teacher Training\|初始教师教育]]（ITE）机构，为强制嵌入外部标准课程制造合法性。
+> 政策将“教师流失与短缺”这一结构性劳动力市场危机，降维并重构为“教师培训质量不足与缺乏准备度”的问题。通过选择性使用和歪曲满意度调查数据，避开了对过度工作量这一流失主因的讨论，从而将责任转移至[[Initial Teacher Training\|初始教师教育]]（ITE）机构，为强制嵌入外部标准课程制造合法性。
 
 > [!contrast-table] 实际劳动力市场状况 vs. 《强劲开端》政策表征
 > | 维度 | 实际劳动力市场状况（GOS 2022 / AITSL） | 《强劲开端》政策表征（2023） |
@@ -255,7 +253,7 @@ citation_aliases:
 ### 论证步骤五：私人利益的隐形嵌入：保守智库（CIS）文献的强制消费
 
 > [!claim] 步骤五主张
-> 改革核心内容所指定的必读参考[[Document\|文献]]，直接嵌入了由右翼保守主义智库（如独立研究中心 CIS）资助并带有明确党派意识形态偏见的研究。通过“理念编排”网络，私人和智库的意识形态诉求在“中性脑科学”的包装下实现了隐形和强制消费。
+> 改革核心内容所指定的必读参考文献，直接嵌入了由右翼保守主义智库（如独立研究中心 CIS）资助并带有明确党派意识形态偏见的研究。通过“理念编排”网络，私人和智库的意识形态诉求在“中性脑科学”的包装下实现了隐形和强制消费。
 
 > [!line-a] 智库意识形态的文献伪装
 > 附录D（p. 96）指定的“大脑与学习”核心参考文献中，[[Cognitive Load Theory\|认知负荷理论]]（Cognitive Load Theory, CLT）和 [[John Sweller]] 的文献被确立为统治性的引文来源。其中强制指定了 Sweller (2021) 撰写的《为什么探究式学习有害学生学习》。该文献并非同行评审学术期刊研究，而是由右翼保守主义游说智库 CIS 出资赞助并出版的游说政策册子（Analysis Paper 24）。

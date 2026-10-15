@@ -8,7 +8,7 @@ aliases:
 summary: "由高年级或更有经验的同辈向新手学习者提供学术支持、认知脚手架与社会情感共情的对等指导模式，在高等教育与主动学习中广泛应用"
 type: concept
 domain: "higher-education"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[Academic Achievement]]"
   - "[[Academic Self-Concept]]"
-  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -41,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Peer Mentoring
@@ -98,7 +97,7 @@ updated: 2026-10-08
 > 探讨近同辈互动如何降低认知焦虑并促进深度反思。
 
 > [!claim] Abrami, P. C., et al.; Topping, K. J.
-> **同伴导师的认知催化价值** [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 指出，[[Mentorship\|导师制]]在探究教学中包含教师专家指导与同伴导师（Peer Mentoring）两种核心形态。实证表明，同伴导师由于具备相似的认知视角，能够更敏锐地识别同伴在理解复杂概念时的关键盲区，在无权威威慑的轻松氛围下激发受训者勇于暴露错误、质疑[[Hypothesis\|假设]]并展开深度论辩。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 287, 298)]]
+> **同伴导师的认知催化价值** [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 指出，[[Mentorship\|导师制]]在探究教学中包含教师专家指导与同伴导师（Peer Mentoring）两种核心形态。实证表明，同伴导师由于具备相似的认知视角，能够更敏锐地识别同伴在理解复杂概念时的关键盲区，在无权威威慑的轻松氛围下激发受训者勇于暴露错误、质疑假设并展开深度论辩。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 287, 298)]]
 
 ---
 

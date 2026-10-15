@@ -147,7 +147,7 @@ updated: 2026-10-07
 > - **学生／继承者**
 >   - Hans Christoph Berg — 学术关系：Klafki 从1990年代起长期支持并积极参与其同僚 Berg 推动的“教学艺术（Lehrkunst）”设计，并担任其二导师。
 >   - Astrid Kaiser 等 — 师承关系：Klafki 指导了 70 余名博士，大多成为德国各高校和学科教学论（特别是常识课教学论）的领军人物。
->   - Johan Wilhelm Snellman — 思想关联：Snellman 是将[[Bildung\|教化]]（Bildung）概念引入北欧（芬兰）的核心先驱，Klafki 在当代重新定义了这一教化传统，使其成为应对不确定未来的社会政治性力量。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 5–6]]
+>   - Johan Wilhelm Snellman — 思想关联：Snellman 是将教化（[[Bildung]]）概念引入北欧（芬兰）的核心先驱，Klafki 在当代重新定义了这一教化传统，使其成为应对不确定未来的社会政治性力量。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 5–6]]
 >   - Rauste-von Wright — 思想交汇：作为芬兰[[Constructivist Paradigm\|建构主义]]教育心理学家，她的[[Pragmatic Paradigm\|实用主义]]自我修正课程模型与 Klafki 的 [[Didaktik]] 思想有共同根源，共同为芬兰 [[Phenomenon-Based Learning\|PhBL]] 奠定了理论与心理学基石。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 7–8]]
 > - **批评者／论敌** 无（文中未详细提及 Klafki 思想的直接学术论敌）。
 > - **机构／运动／项目**[[OECD]] / [[PISA]] — 国际新自由主义治理的代表。其推行的“21 世纪技能”话语将复杂时代议题降格为孤立的可测性技能，造成[[Atomisation of Knowledge and Skills\|知识与技能原子化]]（Atomisation of Skills），与 Klafki 主张的面向开放未来的整体性、价值性 Allgemeinbildung 传统形成正面冲突。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 9–10]]
@@ -158,8 +158,8 @@ updated: 2026-10-07
 
 > [!debates] 学术争议
 >
-> > [!axis] [[Bildung\|教化]]与教学论传统的历史误用与现代重释
-> > 历史上，德语区和芬兰的 Bildung 与 [[Didaktik]] 传统常常被批评为强化社会阶层精英主义以及国家民族主义政治目标的工具。
+> > [!axis] 教化与教学论传统的历史误用与现代重释
+> > 历史上，德语区和芬兰的 [[Bildung]] 与 [[Didaktik]] 传统常常被批评为强化社会阶层精英主义以及国家民族主义政治目标的工具。
 > >
 > > - **Masschelein and Ricken 于 2003 年** 尖锐批评了教化理想在历史中扮演的阶级分化与民族主义意识形态角色。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 6]]
 > > - **Klafki 于 1999 年** 反驳指出，这属于对教化原初思想的误用。经典教化理论的真实特质在于其具有激进的社会政治批判力，旨在赋能个体的自由、正义和对共同体的责任。

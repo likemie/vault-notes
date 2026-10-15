@@ -9,7 +9,7 @@ summary: "量化研究数据分析的第一步，报告所有变量的均值、�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 12
+method_related_count: 11
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Dependent Variable]]"
-  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Quantitative Research]]"
@@ -38,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-02
+updated: 2026-10-15
 ---
 
 # Descriptive Analysis
@@ -81,7 +80,7 @@ updated: 2026-10-02
 ## 局限性
 
 > [!warning]
-> - 描述性分析只提供样本特征的总结，不能直接用于推断总体特征或检验[[Hypothesis\|假设]]。
+> - 描述性分析只提供样本特征的总结，不能直接用于推断总体特征或检验假设。
 > - 缺失数据的处理方式可能显著影响描述统计量的估计——不同的缺失数据处理策略可能产生不同的均值估计和[[Standard Error\|标准误]]。
 > - 仅报告均值而不报告变异指标（如标准差或[[Standard Error\|标准误]]）可能导致对数据分布特征的误读。
 

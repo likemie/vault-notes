@@ -12,7 +12,7 @@ summary: "单一案实验设计的核心格式，通过交替引入和撤除干�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 12
+method_related_count: 11
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Research Question]]"
 related_methods:
   - "[[Statistical Significance]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Single-Case Design]]"
   - "[[Repeated Measures Design]]"
   - "[[Experimental Research]]"
@@ -37,7 +36,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
 status: draft
 created: 2026-07-13
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 # ABAB Design
 
@@ -63,7 +62,7 @@ updated: 2026-09-17
 > - **研究设计** 单一个体 × 四个时间阶段 × 每阶段多次重复测量。
 > - **数据收集** 各阶段内对目标行为的连续观测和记录。
 > - **分析方法** 视觉分析——比较各阶段的行为水平、趋势和变异性。
-> - **辅助技术** 行为观测[[Coding in Qualitative Research\|编码]]系统；观察者间信度检验。
+> - **辅助技术** 行为观测编码系统；观察者间信度检验。
 
 ## 研究程序
 

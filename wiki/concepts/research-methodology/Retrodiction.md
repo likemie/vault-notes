@@ -2,7 +2,7 @@
 summary: "回溯推测（Retrodiction，亦称历史溯因）是指在地质学、古生物学、天体物理学等历史科学（Historical Sciences）中，基于当下留存的痕迹与多重独立收敛证据链，反向推断与重构过去发生的不可重复事件的认识论推理策略。与经典物理和化学以受控实验向前“预测”（Prediction）未来状态不同，回溯推测强调在宏大时空尺度上对外推系统施加歧义性约束，是破除单一实验科学方法神话的关键概念。"
 type: concept
 domain: "research-methodology"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Heterogeneity]]"
   - "[[Big Ideas]]"
-  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Correlational Research]]"
@@ -40,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-22
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 # Retrodiction
 
@@ -130,7 +129,7 @@ updated: 2026-09-22
 
 > [!warning] 适用局限
 > - **历史痕迹不完备性带来的欠决性** 随着年代久远，地质历史痕迹常被风化或俯冲消减破坏，容易导致多重竞争性假说在现有证据下处于经验欠决（Underdetermination）状态。
-> - **时空尺度外推的均一性[[Hypothesis\|假设]]局限** 若远古自然条件与当前物理环境发生非线性突变（如早期地球无氧环境），直接线性外推可能导致推论偏误。
+> - **时空尺度外推的均一性假设局限** 若远古自然条件与当前物理环境发生非线性突变（如早期地球无氧环境），直接线性外推可能导致推论偏误。
 
 ---
 

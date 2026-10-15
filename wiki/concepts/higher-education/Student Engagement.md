@@ -9,7 +9,7 @@ aliases:
 summary: "学生在教育性活动中投入时间、精力与心智的综合构念，涵盖行为、情感、认知与认识论维度，受阶层文化习性制约，并作为连接教育环境与深层学业发展的核心中介机制。"
 type: concept
 domain: "higher-education"
-related_count: 36
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -32,18 +32,14 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Directionality of Innovation]]"
   - "[[Critical Thinking]]"
-  - "[[Hypothesis]]"
   - "[[Cultural Capital]]"
-  - "[[Habitus]]"
   - "[[Goal-Controlled Mode]]"
   - "[[Intuition-Dependent Mode]]"
   - "[[Homework]]"
   - "[[Scientific Uncertainty]]"
-  - "[[Document]]"
   - "[[Epistemic Friction]]"
   - "[[Academic Engagement]]"
   - "[[Social Engagement]]"
-  - "[[Teaching Assistant]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Epistemic Agency]]"
 related_theories: []
@@ -64,7 +60,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-05-08
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Student Engagement
@@ -163,7 +159,7 @@ updated: 2026-10-07
 ### 命题二　学生投入不仅存在数量多寡，更具有策略方向性并深刻受制于家庭阶层习性
 
 > [!concept-lens] 投入的质性分化与社会学机制
-> 挑战传统“投入时间越长越好”的线性[[Hypothesis\|假设]]，揭示[[Cultural Capital\|文化资本]]与家庭[[Habitus\|习性]]如何决定学生对投入机会的认知与策略把握。
+> 挑战传统“投入时间越长越好”的线性假设，揭示[[Cultural Capital\|文化资本]]与家庭习性如何决定学生对投入机会的认知与策略把握。
 
 > [!claim] [[Yajun Zheng\|郑雅君]]
 > **投入方向性与阶层习性制约** 投入并非阶层中立的自由选择，而是深刻折射出家庭背景所赋予的文化习性。优势背景学生往往展现出“[[Goal-Controlled Mode\|目标掌控模式]]”，能够提前规划、将时间精准投入到具有高长效回报的科研、名企实习与高质量社交中；而弱势背景的第一代大学生多呈现“[[Intuition-Dependent Mode\|直觉依赖模式]]”，其投入往往局限于琐碎事务或机械课程[[Homework\|作业]]，投入缺乏明确的方向性与策略协同，难以有效转化为生涯竞争优势。[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023, pp. 120–128)]]
@@ -183,7 +179,7 @@ updated: 2026-10-07
 ### 命题总览
 
 > [!contrast-table] 学生投入核心命题归纳
-> | 命题类别 | 核心理论断言 | 实践与政策抓手 | 代表[[Document\|文献]] |
+> | 命题类别 | 核心理论断言 | 实践与政策抓手 | 代表文献 |
 > |---|---|---|---|
 > | **中介转化论** | 学生投入是连接院校资源供给与实际能力产出的决定性中介桥梁 | 改进第一学年体验、增加高影响力教学实践（HIPs） | Kuh; Pascarella & Terenzini |
 > | **方向与习性论** | 投入兼具量与方向性特征，弱势群体往往因习性缺乏策略方向 | 提供显性学业与生涯导航，实施定向社会性支持 | 郑雅君 |
@@ -197,7 +193,7 @@ updated: 2026-10-07
 > - **1984 — [[Student Involvement\|学生涉入]]理论奠基** 亚历山大·阿斯汀（Alexander Astin）提出涉入理论，聚焦个体生理与心理能量的全面投入，为“投入—成效”研究奠定假说基石。
 > - **1991 — 学生投入理论系统化** 乔治·库（George Kuh）出版 *Involving Colleges*，将投入[[Operationalization\|操作化]]为具体教育性实践的时间与精力测量，并首次将院校制度支持纳入分析。
 > - **2000 年代 — 全国常模与实证巩固** [[National Survey of Student Engagement\|全美学生投入调查]]（NSSE）广泛应用，Pascarella & Terenzini 等学者通过海量实证确立投入对认知增益的稳健促进作用。
-> - **2023 — 质性质态与方向性深化** [[Yajun Zheng\|郑雅君]]引入“投入方向性”与“文化[[Habitus\|习性]]”视角，超越“投入越多越好”的线性[[Hypothesis\|假设]]，揭示[[Goal-Controlled Mode\|目标掌控模式]]与[[Intuition-Dependent Mode\|直觉依赖模式]]的机制差异。[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023)]]
+> - **2023 — 质性质态与方向性深化** [[Yajun Zheng\|郑雅君]]引入“投入方向性”与“文化习性”视角，超越“投入越多越好”的线性假设，揭示[[Goal-Controlled Mode\|目标掌控模式]]与[[Intuition-Dependent Mode\|直觉依赖模式]]的机制差异。[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023)]]
 > - **2026 — 认识性投入与算法伪投入反思** [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] 揭示人工智能时代商业参与度指标的局限，区分表层情感/行为交互与深层认识性投入，推动概念向[[Epistemology\|认识论]]反思与[[Evaluative Judgement\|评价性判断]]拓展。
 
 ---
@@ -206,7 +202,7 @@ updated: 2026-10-07
 
 > [!debates] 学生投入的核心理论争议
 >
-> > [!axis] “中立过程[[Hypothesis\|假设]]” vs 阶层[[Habitus\|习性]]与结构性不平等
+> > [!axis] “中立过程假设” vs 阶层习性与结构性不平等
 > > 传统学生投入研究常预设大学是一个公平中立的竞技场，将未积极投入归因于学生个人努力不足。
 > >
 > > - **中立能动论** 认为大学向所有人开放相同的资源，学生能否脱颖而出纯属个人时间管理与主观动机问题。
@@ -246,14 +242,14 @@ updated: 2026-10-07
 > - **高校目标掌控者与直觉依赖者的分流案例（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]]）**
 >   学生泽斌（[[Goal-Controlled Mode\|目标掌控模式]]）清醒意识到课堂学习仅占其大学精力的一部分，策略性地将大量时间定向投入到实习和职业网络拓展中，最终获得高满意度出路；而学生牛铭（[[Intuition-Dependent Mode\|直觉依赖模式]]）同样付出了大量时间参与学生会，但因缺乏明确的方向性组织，导致宝贵精力被事务性活动严重分散，毕业时陷入迷茫。
 > - **[[Man-Computer Symbiosis|人机协同]]课堂中“伪投入”辨析与反思干预（[[Argument_Du_Yuan_2026_AIS\|Du & Yuan, 2026]]）**
->   某高校工程写作课发现，引入 AI [[Teaching Assistant\|助教]]后学生的平均[[Homework\|作业]]提交速度与界面聊天互动大幅增加，但在后续闭卷面对面答辩中，大量高频使用 AI 的学生无法解释方案的折中理由与核心推导链条。教师据此调整考核方案，强制要求学生在提交方案的同时汇报“与算法对话中的驳斥与分歧判定记录”，成功促发学生从表层行为互动转向深层的认识性投入。
+>   某高校工程写作课发现，引入 AI 助教后学生的平均[[Homework\|作业]]提交速度与界面聊天互动大幅增加，但在后续闭卷面对面答辩中，大量高频使用 AI 的学生无法解释方案的折中理由与核心推导链条。教师据此调整考核方案，强制要求学生在提交方案的同时汇报“与算法对话中的驳斥与分歧判定记录”，成功促发学生从表层行为互动转向深层的认识性投入。
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 结合量化调查与质性长周期追踪，构建“投入过程”[[Analytic Framework\|分析框架]]，实证揭示[[Cultural Capital\|文化资本]]与阶层[[Habitus\|习性]]对学生投入量与方向性的深层分化机制。
+> - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] — 结合量化调查与质性长周期追踪，构建“投入过程”[[Analytic Framework\|分析框架]]，实证揭示[[Cultural Capital\|文化资本]]与阶层习性对学生投入量与方向性的深层分化机制。
 > - [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] — 辨析[[Generative Artificial Intelligence\|生成式人工智能]]环境下表层行为与情感参与对深层“认识性投入”的遮蔽效应，提出重塑评价判断权与培育关系性主体性的实践方案。
 
 ---
@@ -263,9 +259,9 @@ updated: 2026-10-07
 > [!entry-map] 相关概念与理论关系总览
 > | 概念/理论 | 维度/关系类型 | 核心关联说明 |
 > |---|---|---|
-> | [[Student Involvement\|学生涉入]] | 理论前身 | Astin 的涉入理论奠定了“学生精力投入直接决定产出成效”的基础因果[[Hypothesis\|假设]]。 |
+> | [[Student Involvement\|学生涉入]] | 理论前身 | Astin 的涉入理论奠定了“学生精力投入直接决定产出成效”的基础因果假设。 |
 > | [[Academic and Social Integration\|学业与社会融入]] | 机制互补 | Tinto 的融入理论聚焦心理层面的归属感，与 Kuh 的可观察行为投入构成微观与中观互补。 |
-> | [[Cultural Capital\|文化资本]] | 社会学基础 | 家庭文化资本与阶层[[Habitus\|习性]]深刻塑造学生能否确立具有前瞻性的策略性投入方向。 |
+> | [[Cultural Capital\|文化资本]] | 社会学基础 | 家庭文化资本与阶层习性深刻塑造学生能否确立具有前瞻性的策略性投入方向。 |
 > | [[Epistemic Agency\|认识主体性]] | [[Epistemology\|认识论]]旨归 | 现代认识性投入的核心诉求是让学生在[[Man-Computer Symbiosis\|人机协同]]中牢牢掌握评价证据与主张的自主权。 |
 > | [[Epistemic Friction\|思维摩擦]] | 认知促发机制 | 面对[[Scientific Uncertainty\|认知不确定性]]与探究阻力带来的思维摩擦，是促发深层认知与认识性投入的前提。 |
 > | [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] | 实证与理论突破 | 提出投入不仅有多寡之分更有方向性区别，实证刻画目标掌控与直觉依赖的投入机制。 |

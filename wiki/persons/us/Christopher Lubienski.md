@@ -9,7 +9,7 @@ summary: "美国教育政策学者，印第安纳大学布卢明顿分校（Indi
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 18
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Policy Brokerage]]"
   - "[[School Choice]]"
   - "[[Surplus of Evidence]]"
-  - "[[Document]]"
   - "[[Knowledge Production]]"
   - "[[Academic Achievement]]"
   - "[[Knowledge Mediation]]"
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Christopher Lubienski
@@ -63,7 +62,7 @@ updated: 2026-10-07
 > [!person-profile] 人物档案
 > - **身份位置** 美国教育政策学者，印第安纳大学布卢明顿分校（Indiana University Bloomington）教育领导与政策研究中心教授，曾任伊利诺伊大学厄巴纳-香槟分校（UIUC）教育政策教授。
 > - **核心角色** 研究教育政策中的智库（Think Tanks）、[[Policy Brokerage\|政策中介]]机构与新自由主义改革（[[School Choice\|择校]]制度、私立化、课程市场化）的权威学者；以"思想市场"（Marketplace of Ideas）概念揭示过剩研究证据在意识形态竞争中的政治化利用。
-> - **代表贡献** 系统分析右翼教育智库如何在"思想市场"中选择性挑拣研究证据、绕过学术同行评审机制直接向政策制定者兜售处方；其研究深刻揭示了教育政策领域的"[[Surplus of Evidence\|证据过剩]]"与"信息孤岛"（Information Silos）现象，是 Steiner-Khamsi 论文直接援引的核心[[Document\|文献]]来源之一。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 537)]]
+> - **代表贡献** 系统分析右翼教育智库如何在"思想市场"中选择性挑拣研究证据、绕过学术同行评审机制直接向政策制定者兜售处方；其研究深刻揭示了教育政策领域的"[[Surplus of Evidence\|证据过剩]]"与"信息孤岛"（Information Silos）现象，是 Steiner-Khamsi 论文直接援引的核心文献来源之一。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 537)]]
 
 > [!citation-card] 思想市场中的逆向选择：政策中介的意识形态性证据挑拣
 > 在日益拥挤的教育政策思想市场（Marketplace of Ideas）中，政治家与政策制定者并不寻找最优质的学术证据，而是如同逛超市一般，从货架上精准挑拣能够佐证其既定意识形态主张的研究结论，同时将不利研究斥为伪科学或政治偏见。证据过剩不仅未能净化政策决策，反而为各路中介机构提供了无限的合法化弹药。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 537)]]
@@ -77,7 +76,7 @@ updated: 2026-10-07
 > [!timeline] 生平与职涯
 > - **学术成长期** 在美国接受教育研究领域的系统培训，早期研究聚焦教育市场化与[[School Choice\|择校]]政策的实证效果，逐渐转向对教育政策[[Knowledge Production\|知识生产]]政治学的批判性反思。
 > - **伊利诺伊大学时期** 担任 UIUC 教育政策系教授，建立教育智库与[[Policy Brokerage\|政策中介]]研究的系统研究议程；与 Sarah Lubienski 合作开展大规模的公立学校与私立学校[[Academic Achievement\|学业成绩]]比较研究。
-> - **2019 — 思想市场奠基[[Document\|文献]]** 发表《政策空间中的想法：教育政策中的智库与市场》（*The Idea of a Market in Education Policy*）系列研究，提出"教育思想市场"框架，系统揭示智库绕过学术同行评审直接渗透政策流程的机制。
+> - **2019 — 思想市场奠基文献** 发表《政策空间中的想法：教育政策中的智库与市场》（*The Idea of a Market in Education Policy*）系列研究，提出"教育思想市场"框架，系统揭示智库绕过学术同行评审直接渗透政策流程的机制。
 > - **印第安纳大学时期（至今）** 转至印第安纳大学布卢明顿分校担任教授，继续推进择校制度、私立化政策与政策[[Knowledge Mediation\|知识中介]]的跨国比较研究。
 
 ---

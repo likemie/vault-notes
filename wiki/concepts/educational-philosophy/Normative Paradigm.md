@@ -4,7 +4,7 @@ aliases: [规范范式, normative model, 规则统治范式]
 summary: "道格拉斯提出的方法论上位范式，统摄实证主义与结构功能主义取向，主张人类行为本质上受规则统治，应采纳自然科学方法探究外在因果规律，追求构建普适的宏大理性大厦。"
 type: concept
 domain: "educational-philosophy"
-related_count: 38
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -22,12 +22,10 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Dialogue in Education]]"
   - "[[Determinism]]"
-  - "[[Document]]"
   - "[[International Education]]"
   - "[[Creativity]]"
   - "[[Technical Rationality]]"
   - "[[Nomothetic]]"
-  - "[[Hypothesis]]"
   - "[[Subjectivism]]"
 related_persons:
   - "[[Jack Douglas]]"
@@ -55,7 +53,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Normative Paradigm
@@ -160,7 +158,7 @@ updated: 2026-10-08
 ### 命题总览
 
 > [!contrast-table] 围绕规范范式形成的理论命题总览
-> | 命题类型 | 核心主张 | 方法论机制 | 代表学者与[[Document\|文献]] |
+> | 命题类型 | 核心主张 | 方法论机制 | 代表学者与文献 |
 > |---|---|---|---|
 > | **行为规则统治命题** | 人类行为受规则统治并由过去前因决定，应通过自然[[Scientific Method\|科学方法]]加以探索 | [[Variable\|变量]]化测量、刺激-反应分析、[[Causal Modeling\|因果建模]] | Douglas (1973); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 17)]] |
 > | **宏大理性大厦命题** | 理论的本质是关于集体实在的普遍理性大厦，先验于具体微观情境 | 演绎公理推演、跨情境通则检验、形式化建构 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 18)]] |
@@ -217,5 +215,5 @@ updated: 2026-10-08
 > | [[Positivism\|实证主义]] | 概念 | 规范范式在认识论层面的理论底色，提供实证经验观察与规律检验的哲学依据。 |
 > | [[Determinism\|决定论]] | 概念 | 规范范式在人性与因果层面的[[Ontology\|本体论]]公设，主张行为由过去的刺激前因所决定。 |
 > | [[Nomothetic\|通则式]] | 概念 | 规范范式在研究方法上的典型表征，致力于发现跨情境适用的普遍规律。 |
-> | [[Scientific Method\|科学方法]] | 概念 | 规范范式开展研究所采纳的标准程序性工具，包括[[Hypothesis\|假设]]检验与控制实验。 |
+> | [[Scientific Method\|科学方法]] | 概念 | 规范范式开展研究所采纳的标准程序性工具，包括假设检验与控制实验。 |
 > | [[Thomas Barr Greenfield\|托马斯·巴尔·格林菲尔德]] | 人物 | 现代教育行政组织[[Subjectivism\|主观主义]]巨擘，对规范范式的系统组织实在论发起历史性清算。 |

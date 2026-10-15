@@ -5,7 +5,7 @@ aliases:
 summary: "对科学方法和科学权威的过度美化与神化，将其排他性外推至原本不适用的人类精神与社会探究领域的认识论倾向。科学主义将实证科学视为唯一合法的求真法则，以工具理性和概念数学化扼杀价值伦理辩论，在当代教育治理中表现为量化霸权与对多元认知方式的系统规训。"
 type: concept
 domain: "educational-philosophy"
-related_count: 59
+related_count: 56
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -34,7 +34,6 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Knowledge Production]]"
   - "[[Ecological Validity]]"
-  - "[[Hypothesis]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Critical Thinking]]"
   - "[[Discourse]]"
@@ -44,7 +43,6 @@ related_concepts:
   - "[[Areas of Knowledge]]"
   - "[[Visible Learning]]"
   - "[[Policy Borrowing]]"
-  - "[[Document]]"
   - "[[Postpositivism]]"
   - "[[Scientific Paradigm]]"
   - "[[Disciplinary Institutionalization]]"
@@ -66,7 +64,6 @@ related_persons:
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
   - "[[Val D. Rust]]"
-  - "[[Peter A. Hall]]"
   - "[[Hu Shi]]"
   - "[[John Dewey]]"
   - "[[Michael Sadler]]"
@@ -165,7 +162,7 @@ updated: 2026-10-15
 > 这是教育研究与政策治理中最显著的科学主义形态：通过将量化指标等同于存在价值、以技术层级替代价值判断来运作。核心争点在于教育研究是否允许多元证据形态共同参与[[Knowledge Production\|知识生产]]。
 
 > [!claim] [[Argument_Johnson_2023_CE\|Johnson & Janzen (2023)]]
-> **可见学习的量化包装与[[Ecological Validity\|生态效度]]丧失** [[John Hattie\|约翰·哈蒂]]（John Hattie）的可见学习以海量数据库、精美图表与[[Meta-analysis\|元分析]]统计营造出无可挑剔的科学外观，其底层方法论却存在不透明与不可验证的缺陷，却宣称找到了教育探究的终极“圣杯”。丹尼斯·菲利普斯（D. C. Phillips, 2014）指出，物理科学受控实验的方法论[[Hypothesis\|假设]]根本无法机械移植到充满多元[[Variable\|变量]]的真实课堂之中：物理实验可以通过人工隔离排除干扰变量，但在教室环境中，情境变量本身就是承载师生主体意义与教育价值的核心要素——人为控制或滤除变量将彻底摧毁探究的[[Ecological Validity\|生态效度]]（[[Argument_Johnson_2023_CE\|Johnson & Janzen, 2023, pp. 34–35]]）。
+> **可见学习的量化包装与[[Ecological Validity\|生态效度]]丧失** [[John Hattie\|约翰·哈蒂]]（John Hattie）的可见学习以海量数据库、精美图表与[[Meta-analysis\|元分析]]统计营造出无可挑剔的科学外观，其底层方法论却存在不透明与不可验证的缺陷，却宣称找到了教育探究的终极“圣杯”。丹尼斯·菲利普斯（D. C. Phillips, 2014）指出，物理科学受控实验的方法论假设根本无法机械移植到充满多元[[Variable\|变量]]的真实课堂之中：物理实验可以通过人工隔离排除干扰变量，但在教室环境中，情境变量本身就是承载师生主体意义与教育价值的核心要素——人为控制或滤除变量将彻底摧毁探究的[[Ecological Validity\|生态效度]]（[[Argument_Johnson_2023_CE\|Johnson & Janzen, 2023, pp. 34–35]]）。
 
 > [!claim] Hayek (1942)
 > **反思机械移植与捍卫行动者自由意志** 弗里德里希·哈耶克（Friedrich Hayek）系统批判了近代思想界的科学主义取向。哈耶克强调，批判科学主义的核心绝非反对科学本身，而是坚决反对将自然科学的物理因果模型机械套用于社会与人类行动。人类是具有自由意志与能动诠释能力的行动者，其行为建立在个体对情境信息的独特主观理解之上，绝不可能被还原为遵循恒常不变物理铁律的客体（[[Argument_Johnson_2023_CE\|Johnson & Janzen, 2023, p. 27]]）。
@@ -216,7 +213,7 @@ updated: 2026-10-15
 > 在人文社会学科与跨文化探究建制化进程中，科学主义表现为急于通过照搬自然科学假说检验与统计建模、将学科提升为“硬科学”的学科合法性焦虑。然而，这种努力必然遭遇自然情境无法人工干预以及比较单位深刻异质的双重客观限度。
 
 > [!claim] Rust, Johnstone, & Allaf (2009)
-> **迈向科学化的实证独尊与[[Pluralism|多元主义]]反拨** 20 世纪 60 年代末，[[Harold Noah|哈罗德·诺亚]]与[[Max Eckstein|马克斯·埃克斯坦]]（Harold Noah & Max Eckstein, 1969）出版《迈向比较教育科学》（*Toward a Science of Comparative Education*），将十九世纪丰富的跨文化考察与[[Policy Borrowing|政策借用]]贬为业余的“史前时期”，主张唯有依托量化指标与跨国假设检验，学科方能确立科学合法性。然而，这种实证主义科学垄断很快遭遇认识论瓶颈：尼尔·斯梅尔瑟（Neil Smelser, 1976）指出，社会比较研究面对的是深嵌于不同历史脉络的“[[Dissimilar Units|非同质单位]]”（dissimilar units），且无法像自然科学那样脱离真实情境在受控实验室中操作变量。[[Val D. Rust|瓦尔·拉斯特]]等人（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）依托期刊[[Document|文献]]计量实证证实，[[Structural Functionalism|结构功能主义]]与实证主义在冷战时期的一统天下不仅未能建成“统一的科学”，反而在 1970 年代后迅速瓦解，最终让位于涵盖实证主义（40.5%）、[[Postpositivism|后实证主义]]（36.1%）与非实证主义（23.4%）共 26 种理论传统的“健康多元主义”（healthy pluralism）。跨文化探究的生命力恰恰在于包容多元范式，而非屈从于单一的科学主义规训。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 122–129, 131–135)]]
+> **迈向科学化的实证独尊与[[Pluralism|多元主义]]反拨** 20 世纪 60 年代末，[[Harold Noah|哈罗德·诺亚]]与[[Max Eckstein|马克斯·埃克斯坦]]（Harold Noah & Max Eckstein, 1969）出版《迈向比较教育科学》（*Toward a Science of Comparative Education*），将十九世纪丰富的跨文化考察与[[Policy Borrowing|政策借用]]贬为业余的“史前时期”，主张唯有依托量化指标与跨国假设检验，学科方能确立科学合法性。然而，这种实证主义科学垄断很快遭遇认识论瓶颈：尼尔·斯梅尔瑟（Neil Smelser, 1976）指出，社会比较研究面对的是深嵌于不同历史脉络的“[[Dissimilar Units|非同质单位]]”（dissimilar units），且无法像自然科学那样脱离真实情境在受控实验室中操作变量。[[Val D. Rust|瓦尔·拉斯特]]等人（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）依托期刊文献计量实证证实，[[Structural Functionalism|结构功能主义]]与实证主义在冷战时期的一统天下不仅未能建成“统一的科学”，反而在 1970 年代后迅速瓦解，最终让位于涵盖实证主义（40.5%）、[[Postpositivism|后实证主义]]（36.1%）与非实证主义（23.4%）共 26 种理论传统的“健康多元主义”（healthy pluralism）。跨文化探究的生命力恰恰在于包容多元范式，而非屈从于单一的科学主义规训。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 122–129, 131–135)]]
 
 ---
 
@@ -236,9 +233,9 @@ updated: 2026-10-15
 
 > [!dev-timeline] 概念演变
 > - **1940s — 自由主义早期系统清算** 弗里德里希·哈耶克（Hayek, 1942–1944）系统反思科学主义倾向，论证人类行动的自由意志无法被机械还原为自然物理铁律。
-> - **1960s — 比较学科实证科学化狂热与早期传统贬抑** 诺亚与埃克斯坦（Noah & Eckstein, 1969）出版《迈向比较教育科学》，将十九世纪跨文化考察与制度借用贬为业余的“史前时期”，试图通过跨国[[Hypothesis|假设]]检验建立实证科学主义垄断；这一[[Disciplinary Institutionalization|学科建制]]诉求掩盖了历史考据与比较文学传统的深厚学术价值。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 121–123)]]
-> - **1970s — 法兰克福学派与人本主义批判** [[Jürgen Habermas|哈贝马斯]]（Habermas, 1972）与霍克海默（Horkheimer, 1972）确立社会[[Critical Theory|批判理论]]框架，揭示科学主义作为西方新宗教的技术极权危险；特里·扬斯（Ions, 1977）批判统计计算导致的去个性化；西奥多·罗斯扎克（Roszak, 1970, 1972）抨击客观意识造成的自我疏离；大卫·[[Peter A. Hall|霍尔]]布鲁克（Holbrook, 1977）指出[[Positivism|实证主义]]在内在精神世界的彻底破产（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1]]）。
-> - **2000s — 实证单一垄断瓦解与[[Pluralism|健康多元主义]]的确立** 拉斯特等学者（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）依托期刊[[Document|文献]]计量实证揭示，战后单一实证主义与[[Structural Functionalism|结构功能主义]]垄断业已解体，学科演化出涵盖 26 种理论传统的健康多元主义格局，宣告了实证科学主义一统天下幻梦的破灭。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 131–132)]]
+> - **1960s — 比较学科实证科学化狂热与早期传统贬抑** 诺亚与埃克斯坦（Noah & Eckstein, 1969）出版《迈向比较教育科学》，将十九世纪跨文化考察与制度借用贬为业余的“史前时期”，试图通过跨国假设检验建立实证科学主义垄断；这一[[Disciplinary Institutionalization|学科建制]]诉求掩盖了历史考据与比较文学传统的深厚学术价值。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 121–123)]]
+> - **1970s — 法兰克福学派与人本主义批判** [[Jürgen Habermas|哈贝马斯]]（Habermas, 1972）与霍克海默（Horkheimer, 1972）确立社会[[Critical Theory|批判理论]]框架，揭示科学主义作为西方新宗教的技术极权危险；特里·扬斯（Ions, 1977）批判统计计算导致的去个性化；西奥多·罗斯扎克（Roszak, 1970, 1972）抨击客观意识造成的自我疏离；大卫·霍尔布鲁克（Holbrook, 1977）指出[[Positivism|实证主义]]在内在精神世界的彻底破产（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al., 2011, Ch. 1]]）。
+> - **2000s — 实证单一垄断瓦解与[[Pluralism|健康多元主义]]的确立** 拉斯特等学者（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）依托期刊文献计量实证揭示，战后单一实证主义与[[Structural Functionalism|结构功能主义]]垄断业已解体，学科演化出涵盖 26 种理论传统的健康多元主义格局，宣告了实证科学主义一统天下幻梦的破灭。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 131–132)]]
 > - **2000s — 科学哲学立场与划界反思** 米卡埃尔·斯滕马克（Mikael Stenmark, 2001）将科学主义系统解构为关于科学能力边界的哲学主张，梳理出[[Epistemology|认识论]]、[[Ontology|本体论]]与存在论多重科学主义形态。
 > - **2007 — 课程评估层面的隐性[[Disciplina and Doctrina|规训]]揭示** 赞普伦（[[Argument_Zemplen_2007_SciEduc|Zemplén, 2007]]）揭示科学主义已从粗放的量化指标下沉至[[Critical Thinking|批判性思维]]与认识论课程的细部评估规程中，开辟了课程社会学批判新维度。
 > - **2010s–2020s — 新自由主义教育治理与循证狂热批判** 德里克·约翰逊与梅拉妮·扬森（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）等学者揭示科学主义在当代与“可量化=可改进”的治理技术深度绑定，重构了对[[Evidence-Based Education|循证教育]]盲从与[[Meta-analysis|元分析]]崇拜的系统批判。
@@ -268,7 +265,7 @@ updated: 2026-10-15
 >
 > > [!axis] 硬核实证科学主义 vs 情境历史考据与[[Pluralism|健康多元主义]]
 > > [[Intercultural Education|跨文化教育]]探究应当追求寻找跨越时空的普遍因果法则，还是深耕特定民族文化的历史语境与情境多元性？
-> > - **诺亚与埃克斯坦（Noah & Eckstein, 1969）科学主义立场** 主张摆脱[[Michael Sadler|萨德勒]]（Sadler）等早期学者的描述性与历史考据传统，借用社会学与经济学量化模型开展跨国[[Hypothesis|假设]]检验，追求建立[[Positivism|实证主义]]的“比较教育硬科学”。
+> > - **诺亚与埃克斯坦（Noah & Eckstein, 1969）科学主义立场** 主张摆脱[[Michael Sadler|萨德勒]]（Sadler）等早期学者的描述性与历史考据传统，借用社会学与经济学量化模型开展跨国假设检验，追求建立[[Positivism|实证主义]]的“比较教育硬科学”。
 > > - **拉斯特等人（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）多元反思立场** 揭示跨国探究受制于斯梅尔瑟（Smelser, 1976）指出的“[[Dissimilar Units|非同质单位]]”与“无法受控实验”客观约束，任何单一科学主义垄断都会导致对异质现实的误读；比较研究最终必然走向多[[Paradigm|范式]]并存的“健康多元主义”。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 122–126)]]
 
 > [!critique] 科学主义对教育生态的系统性损害

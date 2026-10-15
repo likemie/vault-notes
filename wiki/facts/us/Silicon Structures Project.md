@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 15
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -28,12 +28,10 @@ related_concepts:
   - "[[University-Industry Collaboration]]"
   - "[[Tacit Knowledge]]"
   - "[[Technology Transfer]]"
-  - "[[Electronic Design Automation]]"
   - "[[Counterpart Funds]]"
   - "[[University-Based Research Center]]"
   - "[[Membership-based Research Consortium]]"
   - "[[Industry Affiliate Program]]"
-  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Archival Research]]"
@@ -94,7 +92,7 @@ updated: 2026-10-15
 
 > [!finding-cards] 核心成果与辐射影响
 > - **Mead-Conway [[VLSI Project|VLSI]] 设计方法学奠基** 推动将芯片物理版图与逻辑功能解耦，开创了无晶圆厂设计（Fabless）与代工制造分离的基础理念。[[Argument_Mody_2017_MOH|(Mody, 2017, p. 290)]]
-> - **早期多厂商 [[Electronic Design Automation|EDA]] 算法原型** 联合出资开发针对数十万晶体管规模的早期电路仿真与版图自动生成软件工具。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 290–291)]]
+> - **早期多厂商 EDA 算法原型** 联合出资开发针对数十万晶体管规模的早期电路仿真与版图自动生成软件工具。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 290–291)]]
 
 > [!citation-card] 卡弗·米德论大学在前瞻性微电子研究中的不可替代功能
 > 大学的功能之一在于进行比在快速兴起且竞争激烈的产业界中可能进行的更长远的前瞻性探索。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 290–291)]]
@@ -126,4 +124,4 @@ updated: 2026-10-15
 > | [[Center for Integrated Systems]] | Fact (Organization) | 借鉴并放大了 SSP 经验、具备更大规模与政府配套的斯坦福微电子中心。 |
 > | [[National Research and Resource Facility for Submicron Structures]] | Fact (Organization) | 同期由 [[National Science Foundation\|NSF]] 资助成立的康奈尔大学国家用户设施对照案例。 |
 > | [[Archival Research]] | Method | 莫迪（[[Argument_Mody_2017_MOH\|Mody, 2017]]）基于加州理工学院档案重构 SSP 历史的方法。 |
-> | [[Argument_Mody_2017_MOH\|Mody (2017)]] | Argument | 详述 SSP 创设背景、微型联合体机制与衰亡成因的历史[[Document\|文献]]。 |
+> | [[Argument_Mody_2017_MOH\|Mody (2017)]] | Argument | 详述 SSP 创设背景、微型联合体机制与衰亡成因的历史文献。 |

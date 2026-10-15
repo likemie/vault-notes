@@ -8,14 +8,13 @@ aliases:
 summary: "按回答结构的复杂性区分五种理解水平的学习结果分类框架，可用于把课程目标、等级标准与评估表现转化为可观察的认知动词。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 6
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
 tags: [solo-taxonomy, learning-outcomes, assessment, level/higher-ed]
 related_concepts:
   - "[[Abstract]]"
-  - "[[Hypothesis]]"
   - "[[Constructive Alignment]]"
 related_arguments:
   - "[[Argument_Biggs_1999_HERD]]"
@@ -26,7 +25,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-07-28
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # SOLO Taxonomy
@@ -54,7 +53,7 @@ updated: 2026-09-17
 > | **单点结构（Unistructural）** | 识别一个相关方面或执行一个简单程序 | 识别、执行简单程序 |
 > | **多点结构（Multistructural）** | 掌握多个相关方面，但主要以并列方式呈现 | 列举、描述、组合、执行算法 |
 > | **关联结构（Relational）** | 把多个方面整合为有意义的整体并应用 | 比较、解释原因、分析、关联、应用 |
-> | **拓展抽象（Extended [[Abstract]]）** | 将整合后的结构推广到新问题或新领域 | 理论化、概括、提出[[Hypothesis\|假设]]、反思 |
+> | **拓展抽象（Extended [[Abstract]]）** | 将整合后的结构推广到新问题或新领域 | 理论化、概括、提出假设、反思 |
 >
 > [[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 66–67)]]
 

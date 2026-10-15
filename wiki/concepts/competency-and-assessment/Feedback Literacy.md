@@ -9,7 +9,7 @@ aliases:
 summary: "学习者在多源反馈生态中理解反馈价值、调控情绪抗拒、协同做出评价性判断并将其转化为后续实质性改进决策的核心胜任力与行动倾向。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 22
+related_count: 20
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,13 +22,11 @@ tags:
 related_concepts:
   - "[[Feedback]]"
   - "[[Evaluative Judgement]]"
-  - "[[Teaching Assistant]]"
   - "[[Strategic Compliance]]"
   - "[[Construct]]"
   - "[[AI Literacy]]"
   - "[[Homework]]"
   - "[[Man-Computer Symbiosis]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Metacognition]]"
   - "[[Paradigm]]"
   - "[[Illusion of Competence]]"
@@ -51,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Feedback Literacy
@@ -66,7 +64,7 @@ updated: 2026-10-12
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向学习者在反馈交互中的主体能动性机制，涵盖对反馈价值的深层理解、情绪防御的自我调节、评价标准的内在把握以及后续实质性修改行动。
-> - **用途** 帮[[Teaching Assistant\|助教]]育研究者与教师破除“反馈仅为评阅者向被评者单向传递信息包”的机械传输假定，看见学习者在面对评语时的主动阐释、批判审思与策略行动。
+> - **用途** 帮助教育研究者与教师破除“反馈仅为评阅者向被评者单向传递信息包”的机械传输假定，看见学习者在面对评语时的主动阐释、批判审思与策略行动。
 > - **边界** 不等同于机械执行修改意见的合规率（Feedback Uptake），也不等同于单纯衡量成果好坏的内部标尺感（[[Evaluative Judgement]]），而是连结外部评价信息与内部认知重构的能动中介。
 
 > [!citation-card] 自动化反馈作为判断素材而非判断替代
@@ -125,7 +123,7 @@ updated: 2026-10-12
 ### 命题一　反馈素养是学习者将外部多源评议转化为内部认知重构的能动中介
 
 > [!concept-lens] 认知转化与主体能动性
-> 探讨外部[[Feedback\|教学反馈]]如何跨越单纯的信息供给，通过学习者的主观能动[[Transfer Translation Transformation\|转译]]与[[Metacognition\|元认知]]整合，转化为长效的心智结构重组。
+> 探讨外部[[Feedback\|教学反馈]]如何跨越单纯的信息供给，通过学习者的主观能动转译与[[Metacognition\|元认知]]整合，转化为长效的心智结构重组。
 
 > [!claim] Carless & Boud (2018)
 > **反馈效能取决于学习者能动转化而非单向信息传递** 论证反馈并非教师端给出评语即可宣告完成的单向事务，其实质效能完全取决于接收者是否具备阐释信息、调控防御情绪并将建议注入后续行动的素养[[Paradigm\|范式]]；若缺乏学习者的主动参与，外部评语仅是滞留于纸面的静态符号。Carless & Boud (2018, pp. 1315–1317)

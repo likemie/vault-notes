@@ -9,7 +9,7 @@ aliases:
 summary: "国家或地区通过法定课程与教学语言规约，要求学生同时掌握两种语言（通常为官方通用语与母语）的系统性公共教育制度。在新加坡实践中，确立了以英语维系全球经济竞争力与科技接轨、以母语（华语等）沉淀传统道德价值与文化认同的双轨国家战略。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 17
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Language Skills]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Discourse]]"
-  - "[[Attrition]]"
   - "[[Competitiveness]]"
   - "[[Dunbar's Number]]"
   - "[[Technological Republic]]"
@@ -47,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-09
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Bilingual Education Policy
@@ -126,7 +125,7 @@ updated: 2026-10-09
 ### 命题二　双语政策必须平衡工具性经济赋能与本体性道德文化防御
 
 > [!concept-lens] 比较教育哲学透镜
-> 探讨外语世俗教育带来的道德资本[[Attrition|流失]]风险，以及本土母语教育在抵御文化虚无中的不可替代性。
+> 探讨外语世俗教育带来的道德资本流失风险，以及本土母语教育在抵御文化虚无中的不可替代性。
 
 > [!claim] [[Alexander Karp|Karp, A. C.]] & [[Nicholas Zamiska|Zamiska, N. W.]]
 > **经济作物花园与文明防线** 卡普与扎米斯卡指出，新加坡将语言生态从原生混乱的热带雨林修剪为高效聚焦的经济作物花园，实现了经济增长与文化凝聚的双赢；它为当代西方提供了深刻镜鉴——若放任国家文化解体，单靠自由市场无法维持社会的精神团结。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 196–197)]]

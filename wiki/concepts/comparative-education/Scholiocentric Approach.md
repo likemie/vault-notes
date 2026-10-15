@@ -9,7 +9,7 @@ aliases:
 summary: "19 世纪早期欧美官方教育考察者所采取的一种描述性比较取向，将外国具体学校机构与教学管理规程孤立于社会历史脉络之外进行白描记录与政策借用，后被萨德勒等学者批判并推动学科发生文化转向"
 type: concept
 domain: "comparative-education"
-related_count: 21
+related_count: 20
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Artefact]]"
   - "[[Intangible Spiritual Forces]]"
-  - "[[Hypothesis]]"
   - "[[State Educational Sovereignty]]"
   - "[[Normal School]]"
   - "[[Epistemology]]"
@@ -49,7 +48,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-01
-updated: 2026-10-01
+updated: 2026-10-15
 ---
 
 # Scholiocentric Approach
@@ -114,7 +113,7 @@ updated: 2026-10-01
 > > [!axis] 机械借用移植 vs 制度有机共生
 > > 争论焦点在于外国学校经验是否具备跨国可移植性。
 > >
-> > - **以校为中心借用者** [[Hypothesis|假设]]优秀的教学法与学校组织形式具有通用效能，可以通过立法自上而下嫁接移植。
+> > - **以校为中心借用者** 假设优秀的教学法与学校组织形式具有通用效能，可以通过立法自上而下嫁接移植。
 > > - **历史学派学者（[[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、卡扎米亚斯）** 强调国民教育体系是活生生的有机体，任何脱离其本土社会土壤的学校制度嫁接都必然遭遇排异反应乃至导致制度灾难。
 
 > [!citation-card] 萨德勒论校外事物对校内事物的支配

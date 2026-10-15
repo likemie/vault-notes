@@ -7,7 +7,7 @@ aliases:
 summary: "比较教育学源流中考证教育思想、制度与实践跨国界、跨时空流动与相互塑形的实证探究传统，借鉴比较文学方法，为前建制期功利性描述与现代政策借用确立认识论合法性。"
 type: concept
 domain: "comparative-education"
-related_count: 34
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -20,9 +20,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Scientism]]"
   - "[[Policy Borrowing]]"
-  - "[[Hypothesis]]"
   - "[[Champ]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Policy Science in Comparative Education]]"
   - "[[Cognitive Decoupling]]"
   - "[[Policy Entrepreneur]]"
@@ -32,7 +30,6 @@ related_concepts:
   - "[[Normal School]]"
   - "[[Going Native]]"
   - "[[Variable]]"
-  - "[[Document]]"
 related_theories:
   - "[[Institutional Isomorphism]]"
   - "[[World Society Theory]]"
@@ -60,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Influences Across Cultures
@@ -75,7 +72,7 @@ updated: 2026-10-08
 > [!concept-lens] 概念透镜
 > - **对象** 跨越地理边界与历史时段的教育观念传播路线、制度移植形态、法案借鉴文本以及双向文化互塑实践。
 > - **用途** 纠正将早期比较教育研究机械割裂为前科学业余游记的辉格式进步主义史观，揭示国家教育系统在建制过程中如何持续依托外部经验作为本国教育改良的参照与推力。
-> - **边界** 它不等于静态的国别教育并置（juxtaposition），也不等同于全球同质化[[Hypothesis|假设]]下的无主体扩散；它高度聚焦跨文化流动中的选择性吸收机制、本土政治语境以及行动者对外部异质元素的重新诠释。
+> - **边界** 它不等于静态的国别教育并置（juxtaposition），也不等同于全球同质化假设下的无主体扩散；它高度聚焦跨文化流动中的选择性吸收机制、本土政治语境以及行动者对外部异质元素的重新诠释。
 
 > [!citation-card] 跨文化影响与学科遗产（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）
 > 正如在比较文学领域一样，“跨文化影响”是比较教育学遗产中清晰且极其精彩的一部分，它应当获得比以往高得多的重视与珍视。比较教育学者通过关注历史与当代的跨文化影响探索，能够为本学科的发展做出巨大贡献……学术界的后继者之所以对这些早期研究做出严苛裁决，是因为这些作品所反映的比较研究类型在今天的学科中已不再普遍，即它们专注于今天可被称为“跨文化影响”的探究领域。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 123–124)]]
@@ -84,7 +81,7 @@ updated: 2026-10-08
 
 > [!boundary]- 概念边界
 > - **不等于 [[Policy Borrowing|政策借用]]** 政策借用通常局限于现代国家在特定改革周期内的实用性立法移植与治理工具采纳；跨文化影响涵盖了思想史、制度史与文化互构的长程互动，具有深厚的人文主义与比较文学渊源。
-> - **不等于静态国别并置（Juxtaposition）** 静态并置仅将两国制度数据分栏罗列；跨文化影响必须考证出事实上的传播渠道、文本[[Transfer Translation Transformation|转译]]、人员互访与制度化印记。
+> - **不等于静态国别并置（Juxtaposition）** 静态并置仅将两国制度数据分栏罗列；跨文化影响必须考证出事实上的传播渠道、文本转译、人员互访与制度化印记。
 > - **不适用于完全封闭孤立的内生变迁** 若一项教育制度的产生完全源自本土社会结构的内部演化且缺乏外部交流考证证据，则不属于跨文化影响的解释范畴。
 
 ---
@@ -98,7 +95,7 @@ updated: 2026-10-08
 > |---|---|---|---|
 > | **学科与思想渊源** | 人文历史学与比较文学（跨国母题追踪） | [[Policy Science in Comparative Education\|政策科学]]与比较政治学（决策与治理循环） | 新制度主义社会学与[[World Society Theory\|世界文化理论]] |
 > | **考察时间尺度** | 长程历史变迁与多世代思想流变 | 特定改革政策周期的中短期过程 | 全球现代性扩展以来的结构趋同 |
-> | **核心分析焦点** | 观念、体裁与制度在不同文明间的双向互动与渊源考据 | 政策引入、[[Transfer Translation Transformation\|转译]]、国内合法化与立法落地 | 外部理性化规范压力下的形式趋同 |
+> | **核心分析焦点** | 观念、体裁与制度在不同文明间的双向互动与渊源考据 | 政策引入、转译、国内合法化与立法落地 | 外部理性化规范压力下的形式趋同 |
 > | **对早期借用的评价** | 充分肯定 19 世纪描述与功利性考察的学术价值与情境意识 | 聚焦当代多边机构与跨国测评触发的借用决策 | 视政策宣称为仪式性解耦（[[Cognitive Decoupling\|decoupling]]） |
 > | **行动者能动性** | 强调本土教育家辩证剥离外部要素与本国情境的裁量权 | 突出[[Policy Entrepreneur\|政策企业家]]、官僚机构与利益集团的博弈 | 强调世界社会宏观文化剧本对主权国家的[[Disciplina and Doctrina\|规训]] |
 
@@ -202,7 +199,7 @@ updated: 2026-10-08
 > - **1830s–1850s — 先驱实地考察与制度奠基阶段** 法国学者[[Victor Cousin|维克多·库森]]考察普鲁士初等教育并在英美广泛翻译流传；[[Calvin Stowe|卡尔文·斯托]]、[[Horace Mann|霍勒斯·曼]]与[[Henry Barnard|亨利·巴纳德]]等先驱亲赴欧洲开展实地考察，以“恶政良教可分”为由奠定美国公立公学（[[Common School Movement|Common School]]）与[[Normal School|师范学校]]（Normal School）基础。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 124–125)]]
 > - **1940s–1960s — 思想辐射与跨国双向考据阶段** [[Friedrich Schneider|弗里德里希·施奈德]]（Schneider, 1943）流亡中系统考证德国教育在海外的跨国影响；[[W. H. G. Armytage|哈里·阿米蒂奇]]（Harry Armytage）出版四卷本详述美、法、德、俄对英国教育变革的浸润，形成跨文化影响的历史考证高潮。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, p. 126)]]
 > - **1960s–1980s — 战后[[Scientism|科学主义]]霸权下的贬抑边缘化** 诺亚与埃克斯坦（Noah & Eckstein, 1969）倡导实证量化与假说检验，将19世纪的跨文化借用与历史描述贬斥为“缺乏严密科学性、业余游记性质且充满主观赞美”的前建制形态，跨文化影响[[Paradigm|范式]]在主流期刊中边缘化。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 121, 123)]]
-> - **1990s 至今 — 学科遗产重估与[[Policy Borrowing|政策借用]]理论繁荣** 拉斯特等学者（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）公开为早期跨文化影响研究平反，确认其作为学科核心遗产的独特价值；同时，该传统与当代政策借用理论（Phillips & Ochs 四阶段模型）、本土[[Transfer Translation Transformation|转译]]理论（Steiner-Khamsi）深度融合，重新成为比较教育学最具生机的领域之一。
+> - **1990s 至今 — 学科遗产重估与[[Policy Borrowing|政策借用]]理论繁荣** 拉斯特等学者（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）公开为早期跨文化影响研究平反，确认其作为学科核心遗产的独特价值；同时，该传统与当代政策借用理论（Phillips & Ochs 四阶段模型）、本土转译理论（Steiner-Khamsi）深度融合，重新成为比较教育学最具生机的领域之一。
 
 ---
 
@@ -237,7 +234,7 @@ updated: 2026-10-08
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 1840 年代至今挪威国家教育改革档案；19 世纪美国[[Common School Movement\|公学运动]]史料与欧洲考察[[Document\|文献]] | 历史文献考据与学科长程计量[[Meta-analysis\|元分析]] | 跨文化影响制度化阶段、考察文献流传谱系与学术[[Paradigm\|范式]]分布 | 确立挪威常设委员会 4 阶段演进模式；考证[[Report on the State of Public Instruction in Prussia\|库森报告]]英译后引发欧美跨大西洋考察潮；揭示 26 种共存范式中跨文化传统被长期低估 | — | 解释仅限于制度史考证与学科史计量，未报告统计效应量 |
+> | [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] | 1840 年代至今挪威国家教育改革档案；19 世纪美国[[Common School Movement\|公学运动]]史料与欧洲考察文献 | 历史文献考据与学科长程计量[[Meta-analysis\|元分析]] | 跨文化影响制度化阶段、考察文献流传谱系与学术[[Paradigm\|范式]]分布 | 确立挪威常设委员会 4 阶段演进模式；考证[[Report on the State of Public Instruction in Prussia\|库森报告]]英译后引发欧美跨大西洋考察潮；揭示 26 种共存范式中跨文化传统被长期低估 | — | 解释仅限于制度史考证与学科史计量，未报告统计效应量 |
 
 ---
 

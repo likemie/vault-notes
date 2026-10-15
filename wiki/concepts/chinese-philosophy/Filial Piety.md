@@ -10,7 +10,7 @@ alias_reviewed:
 summary: "儒学的起始道德，指子女对父母的真诚敬爱和道德义务，被认为是人类一切道德的起点（百善孝为先）。"
 type: concept
 domain: "chinese-philosophy"
-related_count: 6
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -22,7 +22,6 @@ tags:
 - theme/ethics
 related_concepts:
   - "[[Five Cardinal Relationships]]"
-  - "[[Hypothesis]]"
   - "[[Self-Cultivation]]"
   - "[[Champ]]"
 related_theories: []
@@ -35,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-05-22
+updated: 2026-10-15
 ---
 
 # Filial Piety
@@ -59,7 +58,7 @@ updated: 2026-05-22
 > **孝 ≠ 临时的情感冲动** "父母的完全承诺和子女的孝道不是单纯的情感（通常由暂时的情感冲动决定），而是锚定在相应的道德义务中，以滋养彼此的福祉。如此理解和实践，这些义务将持续一生"([[Argument_Li_2012_Cambridge\|Li, 2012, p.38]])。
 
 > [!example]
-> **孝是道德起点，非终点**[[Confucius\|孔子]]认为孝是"百善孝为先"——一切人类道德的起始。[[Hypothesis\|假设]]是：如果一个人连对生养自己的父母都做不到敬爱和尊重，他如何能对无关的人展现爱与关怀？([[Argument_Li_2012_Cambridge\|Li, 2012, pp.38-39]])
+> **孝是道德起点，非终点**[[Confucius\|孔子]]认为孝是"百善孝为先"——一切人类道德的起始。假设是：如果一个人连对生养自己的父母都做不到敬爱和尊重，他如何能对无关的人展现爱与关怀？([[Argument_Li_2012_Cambridge\|Li, 2012, pp.38-39]])
 
 ---
 

@@ -12,7 +12,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 36
+fact_related_count: 32
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -27,20 +27,16 @@ tags:
   - professional-learning-community
   - region/uk
 related_concepts:
-  - "[[Transfer Translation Transformation]]"
   - "[[Research-Informed Teaching Practice]]"
   - "[[Evaluator Independence]]"
   - "[[Research Literacy]]"
-  - "[[Hypothesis]]"
   - "[[Analytical Stance]]"
   - "[[Tacit Knowledge]]"
   - "[[Peer-Supported Learning]]"
   - "[[Reliability]]"
-  - "[[Document]]"
   - "[[Brainstorming]]"
   - "[[Counterfactual]]"
   - "[[Primary and Secondary Documents]]"
-  - "[[Attrition]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Evidence-Informed Practice]]"
   - "[[Engineered Evidence]]"
@@ -72,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Research Learning Communities
@@ -82,7 +78,7 @@ updated: 2026-10-14
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **研究学习共同体（Research Learning Communities, RLC）**是由伦敦大学学院教育学院[[Chris Brown\|克里斯·布朗]]（[[Chris Brown]]）主持研发的循证专业发展干预模型，旨在通过跨校专业学习网络与结构化[[Transfer Translation Transformation\|转译]]支架，协助中小学规模化推进[[Research-Informed Teaching Practice\|研究知情教学实践]]（RITP）。[[Argument_Brown_2017_ER\|(Brown et al., 2017, p. 161)]]
+> **研究学习共同体（Research Learning Communities, RLC）**是由伦敦大学学院教育学院[[Chris Brown\|克里斯·布朗]]（[[Chris Brown]]）主持研发的循证专业发展干预模型，旨在通过跨校专业学习网络与结构化转译支架，协助中小学规模化推进[[Research-Informed Teaching Practice\|研究知情教学实践]]（RITP）。[[Argument_Brown_2017_ER\|(Brown et al., 2017, p. 161)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 始于 2014 年，单轮项目以一学年为完整实施周期，涵盖跨学年的持续跟踪与终期评估。
@@ -94,8 +90,8 @@ updated: 2026-10-14
 
 ## 方案设计与运行机制
 
-> [!claim] 核心干预与机制[[Hypothesis\|假设]]
-> 项目假定：通过结构化的中介[[Transfer Translation Transformation\|转译]]简报、结对跨校网络研讨以及校内二次扩散机制，能够有效降低教师阅读学术证据的认知负荷，激活指向教学法改进与领导力发展的双轨行动理论，促成学术证据向校本教学行动的深度转化。[[Argument_Brown_2017_ER\|(Brown et al., 2017, pp. 160–161)]]
+> [!claim] 核心干预与机制假设
+> 项目假定：通过结构化的中介转译简报、结对跨校网络研讨以及校内二次扩散机制，能够有效降低教师阅读学术证据的认知负荷，激活指向教学法改进与领导力发展的双轨行动理论，促成学术证据向校本教学行动的深度转化。[[Argument_Brown_2017_ER\|(Brown et al., 2017, pp. 160–161)]]
 
 > [!policy-design]- 方案设计
 > - **项目目标** 培育教师的[[Analytical Stance\|批判性分析立场]]与[[Research Literacy\|研究素养]]，打破校际孤岛，建立跨校知识共享与循证教学文化。
@@ -125,7 +121,7 @@ updated: 2026-10-14
 ## 推进历程与阶段演进
 
 > [!dev-timeline]- 推进历程
-> - **2014 年 10 月 — 基线调查刻画学校准备状态** 项目在干预开始前以四因素 14 题[[Questionnaire\|问卷]]对 79 所小学施测，共回收 797 份应答、696 份纳入分析；全部 60 所 RLC 学校均积极响应（53.3% 的学校问卷回收率超过 80%，其中 13 所达到 100% 回收率）。结果显示学校普遍具有高度的研究认同感（76%–86%），但在评价项目或实践的正式流程（67% 无）、讨论影响关键决策的潜在[[Hypothesis\|假设]]（55% 无）以及正式分享论坛（61% 无）三处准备最为薄弱。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 127–132)]]
+> - **2014 年 10 月 — 基线调查刻画学校准备状态** 项目在干预开始前以四因素 14 题[[Questionnaire\|问卷]]对 79 所小学施测，共回收 797 份应答、696 份纳入分析；全部 60 所 RLC 学校均积极响应（53.3% 的学校问卷回收率超过 80%，其中 13 所达到 100% 回收率）。结果显示学校普遍具有高度的研究认同感（76%–86%），但在评价项目或实践的正式流程（67% 无）、讨论影响关键决策的潜在假设（55% 无）以及正式分享论坛（61% 无）三处准备最为薄弱。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 127–132)]]
 > - **2014–2015 — 理论奠基与小范围试点** 布朗在伦敦大学学院确立 RLC 概念框架与操作手册，联合英格兰南部部分学区开展原型测试。
 > - **2015–2016 — [[Education Endowment Foundation\|EEF]] 资助大规模试点与[[Network Analysis\|网络分析]]** 在英格兰小学展开系统干预，通过社会网络分析（SNA）与前[[Pre-test and Post-test\|后测]]问卷，系统评估教师[[Research Literacy\|研究素养]]与专业网络密度的动态跃升。
 > - **2017 — 布里斯托大学独立 [[Randomised Controlled Trials\|RCT]] 评估发布** 由布里斯托大学领衔执行的独立随机对照试验发布终期报告（Rose et al., 2017），直接追踪 119 所小学 5,462 名学生的客观阅读成绩，发现对学生终考成绩提升净值为零（$ES = -0.03$）。[[Gorard's Trustworthiness Sieve\|戈拉德可信度筛子]]将其评定为 3 级（★★★，良好因果可[[Reliability\|信度]]）。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 592–593)]]
@@ -136,7 +132,7 @@ updated: 2026-10-14
 ## 行动者与利益相关者
 
 > [!actor-grid] 实施角色分工
-> - **大学研究与协调机构** 伦敦大学学院教育学院团队，负责梳理高等级[[Document\|文献]]、研制[[Transfer Translation Transformation\|转译]]工具包并主持跨校研讨。
+> - **大学研究与协调机构** 伦敦大学学院教育学院团队，负责梳理高等级文献、研制转译工具包并主持跨校研讨。
 > - **校级证据带头人** 骨干任课教师，承担前沿实证文献学习、课堂教学微型试验与同伴引领职责。
 > - **校级领导者** 参与团队的校长或教导主任，负责调配排课工时、提供教学试错心理安全感并推进全校扩散。
 > - **校际教研共同体** 结对学校构成的跨校教研网络，提供外部参照系、跨界[[Brainstorming\|头脑风暴]]与批判性友伴支持。
@@ -146,7 +142,7 @@ updated: 2026-10-14
 ## 效果与评价
 
 > [!finding-cards] 效果与因果实证结论
-> - **显著提升教师[[Research Literacy\|研究素养]]与[[Document\|文献]]转化自信** 参与教师在辨识高质量学术成果、识破商业包装宣传以及将实证教学法适配于课堂情境的专业能力上展现出显著积极增长。[[Argument_Brown_2017_ER\|(Brown et al., 2017, p. 161)]]
+> - **显著提升教师[[Research Literacy\|研究素养]]与文献转化自信** 参与教师在辨识高质量学术成果、识破商业包装宣传以及将实证教学法适配于课堂情境的专业能力上展现出显著积极增长。[[Argument_Brown_2017_ER\|(Brown et al., 2017, p. 161)]]
 > - **重塑校内与跨校社会网络密度** [[Network Analysis\|社会网络分析]]（SNA）定量表明，项目显著加密了校内教师关于教学研究的交流频次与互信关系，促进了默会专业知识与显性学术证据的深层交融。
 > - **学生终端学业客观统考收益为零** 布里斯托大学的大规模因果评估（Rose et al., 2017; 戈拉德筛子 3 级）显示：整整两年的跨校研讨与校内级联推广虽激发了教师的研究探讨热情，但 5,462 名受试小学生的客观阅读统考成绩毫无改善，[[Effect Size\|效应量]]净值为 $ES = -0.03$。强[[Counterfactual\|反事实]]证据表明：促进教师讨论证据无法确保微观课堂教学行为的准确转化。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, pp. 592–593)]]
 > - **缺乏前置学情诊断易致“热门话题”偏差** 实践同样暴露了孤立推行 [[Research-Informed Teaching Practice\|RITP]] 的内在缺陷：由于未事先进行校内真实数据诊断，学校容易将精力投入学术流行或政策倡导的“热门话题”（hot topics），导致方案看似先进却脱离学校真实学情痛点。[[Argument_Brown_2017_ER\|(Brown et al., 2017, pp. 164–165)]]
@@ -164,10 +160,10 @@ updated: 2026-10-14
 
 > [!debates] 核心学术争议与因果机制断裂
 >
-> > [!axis] 二次[[Transfer Translation Transformation\|转译]]证据还是直接研读[[Primary and Secondary Documents\|原始文献]]
+> > [!axis] 二次转译证据还是直接研读[[Primary and Secondary Documents\|原始文献]]
 > > 有学者质疑由大学研究者提供二次提炼的实证简报是否会削弱教师直接接触学术原著的严密性；布朗反驳指出，一线教师面临压倒性的时间赤字，结构化转译简报是跨越学术壁垒、实现规模化参与的必要现实阶梯。[[Argument_Brown_2017_ER\|(Brown et al., 2017, pp. 161–162)]]
 > >
-> > - **原始[[Document\|文献]]坚守者** 担忧过度转译会导致方法学严谨性与情境细节的[[Attrition\|流失]]。
+> > - **原始文献坚守者** 担忧过度转译会导致方法学严谨性与情境细节的流失。
 > > - **实用中介转译者** 强调低门槛、情境适切的转译工具包是破除[[Knowledge Mobilisation\|知识动员]]阻滞的关键。
 >
 > > [!axis] 教师研讨热情 vs 学生终端学业增益的解耦

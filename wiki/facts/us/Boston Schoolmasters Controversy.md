@@ -14,7 +14,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 12
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -30,8 +30,6 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[Faculty Psychology]]"
   - "[[Policy Borrowing]]"
-  - "[[Transfer Translation Transformation]]"
-  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -47,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-09-06
+updated: 2026-10-15
 ---
 
 # Boston Schoolmasters Controversy
@@ -120,7 +118,7 @@ updated: 2026-09-06
 > [!finding-cards] 历史影响与后果
 > - **制度与政策影响** 彻底击垮了波士顿[[Grammar School\|文法学校]]保守派的政治抵抗，马萨诸塞州议会全面确立了对公立学校的财政资助与州级行政监督权；推动各市镇立法严格限制与规范体罚，并为马萨诸塞州 1852 年颁布全美第一部强制义务教育法铺平了道路。（Downs, 1974; Cremin, 1957）
 > - **实践与教学法影响** 极大地推动了公立[[Normal School\|师范学校]]的扩张与正规化建设，[[Johann Heinrich Pestalozzi\|裴斯泰洛齐]]直观启发式教学法取代了纯粹[[Rote Learning\|死记硬背]]，人道纪律成为现代美国公立学校的基本伦理；同时，因论战而促成的波士顿 1845 年统一笔试测验，开启了全美大规模标准化教育评价的制度先河。
-> - **知识与学科史影响** 成为比较教育史上关于“跨国[[Policy Borrowing\|政策借用]]（[[Policy Borrowing]]）如何在本土政治冲突中充当合法化武器”的最具代表性案例；展示了域外考察报告如何被改革者[[Transfer Translation Transformation\|转译]]为降维打击国内保守势力的强大政治杠杆（legitimating rationales）。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 33–34]]）
+> - **知识与学科史影响** 成为比较教育史上关于“跨国[[Policy Borrowing\|政策借用]]（[[Policy Borrowing]]）如何在本土政治冲突中充当合法化武器”的最具代表性案例；展示了域外考察报告如何被改革者转译为降维打击国内保守势力的强大政治杠杆（legitimating rationales）。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 33–34]]）
 
 ---
 
@@ -131,7 +129,7 @@ updated: 2026-09-06
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Horace Mann]] | 人物 | 论战的核心主角，[[Common School Movement\|公学运动]]领袖。 |
-> | [[Seventh Annual Report of the Massachusetts Board of Education]] | 政策 | 直接引爆这场全美大论战的导火索[[Document\|文献]]。 |
+> | [[Seventh Annual Report of the Massachusetts Board of Education]] | 政策 | 直接引爆这场全美大论战的导火索文献。 |
 > | [[Common School Movement]] | 概念 | 本次论战是公学运动击溃传统保守派阻抗的最关键一役。 |
 > | [[Grammar School]] | 机构 | 论战反方的制度大本营，代表传统新英格兰学术保守派。 |
 > | [[Normal School]] | 概念 | 论战后在全美加速普及的专业师资培训机构。 |

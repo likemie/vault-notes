@@ -25,7 +25,6 @@ related_concepts:
   - "[[Modern Industrial Policy]]"
   - "[[STEM Education]]"
   - "[[Use-Inspired Basic Research]]"
-  - "[[Hypothesis]]"
   - "[[Competitiveness]]"
   - "[[Big Science]]"
 related_theories:
@@ -56,7 +55,7 @@ title: "Argument_Brint_2023_IHE"
 argument_key: "Argument_Brint_2023_IHE"
 argument_display_title: "The US “CHIPS and Science” Act launches industrial policy as counter to China"
 argument_kind: "journal-article"
-argument_related_count: 17
+argument_related_count: 16
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -236,7 +235,7 @@ issuing_organization: ""
 > | **科学机构与高校研发经费** | NSF 810 亿及 DOE 科学办公室 305 亿美元增量 | **高度不确定** | 属于常规年度拨款范围，后续极易在预算博弈中遭到削减 |
 > | **理工科教育与研究生奖学金** | 数十亿美元（含每年新增 1,000 名博士奖学金） | **中度不确定** | 属于弹性支出，极易受到控制联邦财政赤字等政策的挤压 |
 
-这种资金落空并非理论[[Hypothesis|假设]]，历史上的审计证据已经给出了清晰的警示。
+这种资金落空并非理论假设，历史上的审计证据已经给出了清晰的警示。
 
 > [!critique] 美国政府问责局（GAO）的历史审计结论
 > - **立项与兑现脱节** GAO 对 2007 年与 2010 年《[[America COMPETES Act|美国竞争法]]》执行审计表明，规划的 28 项新政策中最终仅有 1 项获得全额拨款并得以实施。（p. 10）

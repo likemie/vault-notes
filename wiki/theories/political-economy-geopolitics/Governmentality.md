@@ -9,7 +9,7 @@ aliases:
 summary: "米歇尔·福柯提出的权力分析核心理论，指一种以人口为对象、以安全配置为技术、通过塑造主体的自我理解来引导个体行为的治理理性；该理论指出自由与主体化是现代治理的运作条件而非对立面，并通过远距治理与空间化规训将学校和制度环境建构为可计算、可干预的治理单元。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 44
+theory_related_count: 43
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Self-control]]"
   - "[[Paradigm]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Document]]"
   - "[[Political Arithmetic]]"
   - "[[New Sociology of Education]]"
   - "[[School Effectiveness]]"
@@ -74,7 +73,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-20
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Governmentality
@@ -107,7 +106,7 @@ updated: 2026-10-14
 > [!theory-origin] 福柯对现代治理理性的谱系学考察
 > - **提出者与原始文本** 米歇尔·福柯（Michel Foucault）于 1978–1979 年在法兰西学院的两次关键课程《安全、领土与人口》（*Security, Territory, Population*）与《生命政治的诞生》（*The Birth of Biopolitics*）中系统提出。
 > - **原初问题** 18 世纪以来，现代欧洲国家的统治重心如何从“保卫君主领土”向“优化人口生命质量、繁荣国民财富”转变；自由主义政治经济学如何将自身确立为限制国家直接干预但同时最大化治理效能的统治艺术。
-> - **理论资源与材料** 基督教牧领权力（Pastoral Power）的照料与引导传统、重农学派政治经济学理论、德意志国家警政学（Polizeiwissenschaft）历史[[Document|文献]]，以及现代人口统计学与公共卫生制度的形成史。
+> - **理论资源与材料** 基督教牧领权力（Pastoral Power）的照料与引导传统、重农学派政治经济学理论、德意志国家警政学（Polizeiwissenschaft）历史文献，以及现代人口统计学与公共卫生制度的形成史。
 > - **形成路径** 福柯通过解构主权、[[Disciplina and Doctrina|规训]]与安全配置的历史演进，创造出“治理术”（Gouvernementalité = Gouverner + Mentalité，即“治理之心理/理性”）一词，指出现代国家的力量并非源于统治机构的膨胀，而在于社会整体被“治理化”（Governmentalized）的深度。
 
 ### 后续修订与扩展

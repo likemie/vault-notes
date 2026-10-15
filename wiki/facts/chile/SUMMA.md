@@ -12,7 +12,7 @@ subtype: organization
 region: chile
 fact_region: "chile"
 fact_kind: "organization"
-fact_related_count: 37
+fact_related_count: 35
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -28,12 +28,10 @@ tags:
   - knowledge-brokerage
 related_concepts:
   - "[[Evidence Ecosystem]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Evaluation Research]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Going Native]]"
   - "[[Policy Brokerage]]"
-  - "[[Document]]"
   - "[[Metacognition]]"
   - "[[Peer-Supported Learning]]"
   - "[[Learnology]]"
@@ -89,7 +87,7 @@ updated: 2026-10-15
 > - **成立时间 / 创设背景** 2015 年巴拿马美洲峰会期间，拉美 7 国教育部部长联合提出设立区域性证据与创新实体的倡议；美洲开发银行依托区域公共产品倡议（Iniciativa Bienes Públicos Regionales）于 2016 年正式出资孵化设立 SUMMA，并于同年在华盛顿特区与智利圣地亚哥举行官方发布。
 > - **总部地点 / 业务辐射** 法定总部与中央办公室设于智利圣地亚哥，在阿根廷、洪都拉斯与加拿大设有常设办事机构；实际常态业务协同网络覆盖拉美和加勒比地区 21 个国家的教育部与国家教育评价机构。
 > - **法人属性与经费基础** 2019 年 12 月完成法定独立注册，成立“SUMMA 基金会”（Fundación SUMMA）作为自主非营利组织。经费来源包含美洲开发银行专项资助、[[BHP Foundation\|必和必拓基金会]]（BHP Foundation）战略资助、成员国政府项目委托以及国际多边机构（如[[Global Partnership for Education\|全球教育伙伴关系]] GPE、加拿大国际发展研究中心 IDRC）的竞争性联合基金。
-> - **核心宗旨与法定职责** 确立教育为基本人权与社会正义支柱的价值定位；核心职责涵盖实证证据综合与多语种[[Transfer Translation Transformation\|转译]]、一线教学创新方案实验测评、支持国家教育大纲及政策因果评价、以及为拉美各国教育部提供常态化循证决策咨询。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 49)]]
+> - **核心宗旨与法定职责** 确立教育为基本人权与社会正义支柱的价值定位；核心职责涵盖实证证据综合与多语种转译、一线教学创新方案实验测评、支持国家教育大纲及政策因果评价、以及为拉美各国教育部提供常态化循证决策咨询。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 49)]]
 > - **官方门户** 官方网站为 [https://summaedu.org](https://summaedu.org)。
 
 ---
@@ -99,7 +97,7 @@ updated: 2026-10-15
 > [!dev-timeline] 组织发展历程
 > - **2015–2016 — 区域倡议与多边创设期** 拉美 7 国教育部在美洲峰会提议构建区域创新中枢；美洲开发银行设立专项基金，委任经济学家哈维尔·冈萨雷斯（Javier González）出任总监兼联合创始人，正式启动 SUMMA 运作并在华盛顿特区完成多边启动。
 > - **2017 — 循证工具与创新地图发布** 在智利、乌拉圭、厄瓜多尔、墨西哥和哥伦比亚等国相继启动国家级工作网络；在厄瓜多尔基多发布《有效教育实践平台》（Plataforma de Prácticas Efectivas），在智利圣地亚哥上线《教育创新地图》（Mapa de Innovaciones）。
-> - **2018 — 跨国证据生态战略构建与矿业资本注资** 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）与[[BHP Foundation\|必和必拓基金会]]联合启动为期 5 年的“[[Building a Global Evidence Ecosystem for Teaching\|构建全球教学证据生态系统]]”项目，SUMMA 获选为拉美和加勒比地区核心海外中枢，获得数百万美元长期注资以推动工具包西葡双语[[Transfer Translation Transformation\|转译]]与本土现场试验。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 49)]]
+> - **2018 — 跨国证据生态战略构建与矿业资本注资** 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）与[[BHP Foundation\|必和必拓基金会]]联合启动为期 5 年的“[[Building a Global Evidence Ecosystem for Teaching\|构建全球教学证据生态系统]]”项目，SUMMA 获选为拉美和加勒比地区核心海外中枢，获得数百万美元长期注资以推动工具包西葡双语转译与本土现场试验。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 49)]]
 > - **2019 — 基金会独立法人化与 EDU-LAC 基金启动** 正式依法登记为独立法人“SUMMA 基金会”；携手 EEF 与必和必拓基金会发起设立“EDU-LAC 影响力基金”（Fondo Impacto EDU-LAC），专门资助拉美本土学校层级因果干预评估。
 > - **2020–至今 — 多边枢纽深化与区域网络扩展** 联合[[UNESCO\|联合国教科文组织]]（UNESCO）发布拉美区域《[[Global Education Monitoring Report\|全球教育监测报告]]》（GEM Report LAC）；携手[[Global Partnership for Education\|全球教育伙伴关系]]（GPE）与加拿大 IDRC 建立 [[Knowledge and Innovation Exchange\|KIX]] LAC 枢纽；业务协同国家扩展至 21 国，成为全球南方规模最大的跨国教育证据中介实体。
 
@@ -113,7 +111,7 @@ updated: 2026-10-15
 > - **执行机构与跨学科研发团队** 执行总部设于圣地亚哥，由执行总监 Javier González 与副总监 Rafael Carrasco 领导，汇集经济学、社会学、教育学与数据科学领域的跨国跨学科研究团队（80% 以上拥有硕士学位，约三分之一获博士学位）。
 
 > [!pathways]- 证据中介与[[Knowledge Mobilisation\|知识动员]]机制
-> 1. **国际证据[[Going Native\|本土化]]校准（Global-to-Local Adaptation）** 引进英国 [[Education Endowment Foundation\|EEF]] 等国际成熟因果证据库，组织本土专家对其方法论、干预成本及适切性实施审查，完成从英语到西班牙语与葡萄牙语的语境化[[Transfer Translation Transformation\|转译]]。
+> 1. **国际证据[[Going Native\|本土化]]校准（Global-to-Local Adaptation）** 引进英国 [[Education Endowment Foundation\|EEF]] 等国际成熟因果证据库，组织本土专家对其方法论、干预成本及适切性实施审查，完成从英语到西班牙语与葡萄牙语的语境化转译。
 > 2. **本土干预因果试验孵化（Local Evidence Generation）** 依托 EDU-LAC 影响力基金与各国教育部协同机制，在拉美本土学校一线设计并执行[[Randomised Controlled Trials\|随机对照试验]]（RCT）与准实验评估，克服全球北方证据无法直接外推的局限。
 > 3. **政策与实践端双向反馈（[[Policy Brokerage]] & Embedding）** 通过 CAPE 部长级联席会议与一线教师工作坊（如 PRISA 平台、La Voz Docente 调查），将评估发现直接嵌入各成员国教师培训大纲与国家教育拨款指南中。
 
@@ -122,7 +120,7 @@ updated: 2026-10-15
 ## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
-> - **有效教育实践平台（Plataforma de Prácticas Educativas Efectivas）** 核心旗舰平台（[practicasefectivas.summaedu.org](https://practicasefectivas.summaedu.org/)），将英国 [[Education Endowment Foundation\|EEF]]《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》完整[[Transfer Translation Transformation\|转译]]为西班牙语与葡萄牙语，结合拉美实证[[Document\|文献]]对 30 余项干预策略（如[[Metacognition\|元认知]]、形成性反馈、[[Peer-Supported Learning\|同伴互助]]、显性教学等）进行本土[[Effect Size\|效应量]]、成本效益与证据质量评级。
+> - **有效教育实践平台（Plataforma de Prácticas Educativas Efectivas）** 核心旗舰平台（[practicasefectivas.summaedu.org](https://practicasefectivas.summaedu.org/)），将英国 [[Education Endowment Foundation\|EEF]]《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》完整转译为西班牙语与葡萄牙语，结合拉美实证文献对 30 余项干预策略（如[[Metacognition\|元认知]]、形成性反馈、[[Peer-Supported Learning\|同伴互助]]、显性教学等）进行本土[[Effect Size\|效应量]]、成本效益与证据质量评级。
 > - **EDU-LAC 影响力基金（Fondo Impacto EDU-LAC）** 由[[BHP Foundation\|必和必拓基金会]]支持设立的专项资助平台，在智利、巴拿马等国资助多项本土干预评估，涵盖识字干预（Kit Literacy+）、协作[[Learnology|学习学]]校（Escuela de Aprendizaje Colaborativo）及教师专业发展等试点。
 > - **评估能力发展平台（Impacta+）** 与英国 EEF 和必和必拓基金会合作开发的循证评估公共品（[impactamas.summaedu.org](https://impactamas.summaedu.org/)），为政策制定者、研究机构与非营利组织提供因果评估设计指南、方法论工具箱与质控清单。
 > - **教育创新地图（Mapa de Innovaciones）** 系统测绘收录拉美和加勒比地区极具公平推广潜力的草根教育创新与制度化改革案例，搭建区域实践互鉴网络。
@@ -184,7 +182,7 @@ updated: 2026-10-15
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
 > | [[BHP Foundation]] | Fact (Organization) | 提供长期专项战略慈善资助、支持建设拉美证据生态的跨国矿业资本方。 |
-> | [[Education Endowment Foundation]] | Fact (Organization) | 英国循证母体机构，与 SUMMA 合作开展工具包西葡双语[[Transfer Translation Transformation\|转译]]与因果评估方法输出。 |
+> | [[Education Endowment Foundation]] | Fact (Organization) | 英国循证母体机构，与 SUMMA 合作开展工具包西葡双语转译与因果评估方法输出。 |
 > | [[EEF Teaching and Learning Toolkit]] | Fact (Organization) | 被 SUMMA 翻译[[Going Native\|本土化]]为《有效教育实践平台》的核心实证证据工具箱。 |
 > | [[Evidence for Learning]] | Fact (Organization) | 同受必和必拓基金会资助建立的澳大利亚姊妹[[Educational Brokerage Agency\|证据中介机构]]。 |
 > | [[Building a Global Evidence Ecosystem for Teaching]] | Fact (Program) | 基金会与 EEF 联合发起、SUMMA 作为核心海外受资助中枢的跨国五年战略项目。 |

@@ -30,7 +30,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Cognitive Deskilling]]"
   - "[[Operationalization]]"
-  - "[[Document]]"
   - "[[AI Hallucination]]"
   - "[[Literature Review]]"
   - "[[Homework]]"
@@ -43,7 +42,6 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Brainstorming]]"
   - "[[Divergent Thinking]]"
-  - "[[Hypothesis]]"
   - "[[Reflexivity]]"
   - "[[Writing Habit]]"
   - "[[Ubuntu]]"
@@ -75,7 +73,7 @@ title: "Argument_Smith_2026_SPE"
 argument_key: "Argument_Smith_2026_SPE"
 argument_display_title: "Generative artificial intelligence, formative epistemic injustice, and educators’ solutions"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -162,7 +160,7 @@ issuing_organization: ""
 > | 认识正义维度（Fricker, 2013） | 技术倡导者的平权辩护与应用案例 | 育人情境下的批判反思 |
 > |---|---|---|
 > | **分配认识正义（Distributive Epistemic Justice）** | 自由主义社会正义历来将教育与互联网视为基本认识财富；支持者将生成式 AI 纳入该清单，主张实现人人皆可获取的普惠分配。<br>**机构案例** 加州州立大学（California State University, CSU）与 OpenAI 建立系统性战略合作（Palmer, 2025; Singer, 2025），旨在让所有学生获得 AI 赋能以适应未来就业市场，以普惠分配标榜教育正义。<br>**课堂案例** 希瑟·格林哈尔-斯宾塞（Heather Greenhalgh-Spencer, 2025）论证 ChatGPT 如同耐心的私人家教，弥补了微积分大课匆忙助教（Teaching Assistant, TA）与昂贵学习软件的不足，实现认知资源的平等分布。（pp.2–3） | 仅解决工具可及性，完全未触及认知能力的真实发育。即便人手一台计算器，也无法保证学生理解算理背后的数学逻辑。 |
-> | **诠释不正义（Hermeneutical Epistemic Injustice）** | 当主体属于被边缘化群体而无法参与社会意义建构时，将陷入理解自身经验的不利境地。在 AI 情境中，未参与大模型开发、不懂底层原理的学生处于诠释边缘，易盲信算法导致未识别虚假[[Document\|文献]]（[[AI Hallucination]]）而挂科。技术派倡导通过教授 AI 原理与提示词工程消除此类不公。（p.2） | 提示词技巧与工具原理教学只能教会学生如何驾驭黑箱，无法代替学生自身建立深层次的文本解读图式。 |
+> | **诠释不正义（Hermeneutical Epistemic Injustice）** | 当主体属于被边缘化群体而无法参与社会意义建构时，将陷入理解自身经验的不利境地。在 AI 情境中，未参与大模型开发、不懂底层原理的学生处于诠释边缘，易盲信算法导致未识别虚假文献（[[AI Hallucination]]）而挂科。技术派倡导通过教授 AI 原理与提示词工程消除此类不公。（p.2） | 提示词技巧与工具原理教学只能教会学生如何驾驭黑箱，无法代替学生自身建立深层次的文本解读图式。 |
 > | **证词不正义（Testimonial Epistemic Injustice）** | 因听者偏见导致言说者遭受信度赤字。倡导者指出 AI 能够抹平非标准语体差异：例如非裔美国英语（African American Vernacular English, AAVE）背景的学生常因教师对标准美语（Standard American English, SAE）的偏见而错失学业机会，AI 润色能让其表达转换为规范学术文风，避免因身份偏见被扣分；凯西·海滕（Kathy Hytten, 2025）指出 AI 几分钟即可完成原本耗时数天的[[Literature Review\|文献综述]]并产出规范学术语调。（p.3） | 统一语体看似规避了当下偏见，实则迫使边缘群体放弃自身的独特性与文化主体性，掩盖了深层教育不公。 |
 
 > [!implication] 经典认识不正义[[Paradigm|范式]]的育人盲区：成人预设遮蔽了学习者的发展权
@@ -249,7 +247,7 @@ issuing_organization: ""
 > 亚历克斯·巴雷特与奥斯汀·帕克（Alex Barrett & Austin Pack, 2023）的调查显示，拟定提纲是师生双方最放心、最乐于让 AI 介入的环节。教师常指导学生用 AI 快速搭建说服性议论文的提纲以求省力。然而，写作学经典模型表明，列提纲绝非形式排版：琳达·S·弗劳尔与约翰·R·海耶斯（Linda S. Flower & John R. Hayes, 1980）指出，提纲拟定是至关重要的认知监控过程，它释放短时记忆负荷，并为作者的复杂思想提供廉价、快速的预检验。（pp.7–8）
 
 > [!row-contrast] 提纲拟定在写作过程中的认知机制解构
-> 针对电子提纲提升文本质量的现象，学界曾存在两种[[Hypothesis|假设]]竞争；实证研究最终证实了提纲对心智重构的不可替代性：
+> 针对电子提纲提升文本质量的现象，学界曾存在两种假设竞争；实证研究最终证实了提纲对心智重构的不可替代性：
 >
 > | 写作学实证研究 | 核心实证发现与认知机制 | 对 AI 提纲外包的批判意涵 |
 > |---|---|---|

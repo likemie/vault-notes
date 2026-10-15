@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17"
 argument_display_title: "Research Methods in Education · Ch17"
 argument_kind: "book-chapter"
-argument_related_count: 67
+argument_related_count: 65
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -45,7 +45,6 @@ related_concepts:
   - "[[Recommendations for Practice]]"
   - "[[Critique of Evidence-Based Education]]"
   - "[[Variable]]"
-  - "[[Document]]"
   - "[[Tacit Knowledge]]"
   - "[[Fitness for Purpose]]"
   - "[[External Validity]]"
@@ -53,7 +52,6 @@ related_concepts:
   - "[[Humility]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
-  - "[[Hypothesis]]"
   - "[[Class Size]]"
   - "[[Research Scope]]"
   - "[[Emergence]]"
@@ -66,6 +64,7 @@ related_concepts:
   - "[[Attrition]]"
   - "[[Internal Validity]]"
   - "[[Scientific Method]]"
+  - "[[Hypothesis]]"
   - "[[Heterogeneity]]"
   - "[[Research Question]]"
   - "[[Evaluation Research]]"
@@ -77,7 +76,6 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Statistical Significance]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Sample Size Determination]]"
   - "[[Secondary Analysis]]"
   - "[[Random Sampling]]"
@@ -138,7 +136,7 @@ updated: 2026-10-08
 
 与其他章节侧重单一方法不同，第17章在介绍方法的同时以相当篇幅展开了对元分析的多维度批判，这一批判体系同时构成了循证教育争议中方法论层面的核心论证。全章三节按逻辑递进：先建立循证研究的制度背景和核心论证（17.1），再展开元分析的方法步骤与批判（17.2），最后处理更广泛的研究综合与系统综述（17.3）。
 
-作为方法工具参考：先区分元分析（定量综合[[Effect Size|效应量]]）与研究综合（更广泛的伞式方法，可包含[[Qualitative Research|定性研究]]）；元分析的四种操作模型和效应量计算方法可直接用于实际研究设计；元分析的批判体系帮助研究者在解释和引用元分析结论时保持方法论警觉。可结合[[Effect Size|效应量]]与[[Statistical Significance|统计显著性]]（第34章）、[[Randomised Controlled Trials|随机对照试验]]（第16章）、[[Coding in Qualitative Research|编码]]与[[Reliability|信度]]（第10章）和[[Evidence-Based Education|证据本位教育]]的更大争议。[[Critique of Effect Size|效应量批判]]见 [[Critique of Effect Size]]（第1章、第2章）。
+作为方法工具参考：先区分元分析（定量综合[[Effect Size|效应量]]）与研究综合（更广泛的伞式方法，可包含[[Qualitative Research|定性研究]]）；元分析的四种操作模型和效应量计算方法可直接用于实际研究设计；元分析的批判体系帮助研究者在解释和引用元分析结论时保持方法论警觉。可结合[[Effect Size|效应量]]与[[Statistical Significance|统计显著性]]（第34章）、[[Randomised Controlled Trials|随机对照试验]]（第16章）、编码与[[Reliability|信度]]（第10章）和[[Evidence-Based Education|证据本位教育]]的更大争议。[[Critique of Effect Size|效应量批判]]见 [[Critique of Effect Size]]（第1章、第2章）。
 
 ---
 
@@ -166,7 +164,7 @@ updated: 2026-10-08
 #### 从医学到教育的制度迁移
 
 > [!dev-timeline] 从 Cochrane 到 Campbell：循证实践的制度扩散
-> - **1972 — Cochrane 的奠基** Archie Cochrane 出版 *Effectiveness and Efficiency*，倡导随机对照试验及其系统综述和[[Document\|文献]]记录，推动了 Cochrane 协作网的建立（Maynard & Chalmers, 1997）。Cochrane 协作网后来成为全球性的循证医学制度基础设施（pp. 336–337）。
+> - **1972 — Cochrane 的奠基** Archie Cochrane 出版 *Effectiveness and Efficiency*，倡导随机对照试验及其系统综述和文献记录，推动了 Cochrane 协作网的建立（Maynard & Chalmers, 1997）。Cochrane 协作网后来成为全球性的循证医学制度基础设施（pp. 336–337）。
 > - **1990s 后期 — 进入社会政策与教育** 循证实践进入社会政策、社会工作（MacDonald, 1997）和教育（Fitz-Gibbon, 1997）。在教育研究前沿的是伦敦大学 EPPI-Centre 和杜伦大学 CEM 中心，Fitz-Gibbon and Tymms 展示了指标系统如何与实验方法结合，为"我们如何知道什么有效？"提供因果推断证据（Fitz-Gibbon, 1999, p. 33）（pp. 337–338）。
 > - **2000 — Campbell 协作网成立** SPECTR 注册库转移至 Campbell 协作网，成为 Cochrane 在教育和社会科学领域的平行机构（p. 330）。
 
@@ -298,7 +296,7 @@ McGaw（1997, p. 371）认为，定量元分析用透明和明确的程序替代
 Wood（1995, p. 393）建议效应量也可通过将显著性水平除以样本量来计算。Hedges（1981）和 Hunter et al.（1982）提出了考虑样本量差异的不同权重的替代公式。最常用的两种效应量指标是标准化均值差和相关系数（Glass et al., 1981, p. 373），尽管非参数统计量（如中位数）也可使用。Lipsey（1992, pp. 93–100）列出了处理效应量、效应量均值和同质性的系列统计检验（pp. 349–353）。
 
 > [!warning] 适用范围限制
-> Glass 等人[[Hypothesis\|假设]]元分析仅适用于实验型研究而非所有类型的研究，这可能限制其适用性（pp. 350–351）。
+> Glass 等人假设元分析仅适用于实验型研究而非所有类型的研究，这可能限制其适用性（pp. 350–351）。
 
 ---
 
@@ -349,12 +347,12 @@ Wolf 的六项批评之首，也是元分析面临的最根本挑战：使用不
 > [!claim] Morrison, K. (2001) — 公平性的根本追问
 > Morrison（2001, p. 78）将可比性问题推向逻辑极致（pp. 369–370）：
 >
-> > 如果各实验的[[Hypothesis\|假设]]不同、假设不是同一[[Construct\|构念]]的[[Operationalization\|操作化]]、RCT 的具体执行（时间框架、干预方案、控制条件、小组构成、参与者特征、测量工具）各不相同，如何确定元分析是公平的？
+> > 如果各实验的假设不同、假设不是同一[[Construct\|构念]]的[[Operationalization\|操作化]]、RCT 的具体执行（时间框架、干预方案、控制条件、小组构成、参与者特征、测量工具）各不相同，如何确定元分析是公平的？
 >
 > 这一追问直指元分析的前提：如果连是否在测量同一个东西都无法确认，合并效应量就失去了逻辑基础。
 
 > [!success] 支持者的回应与 Glass 本人的保留
-> Smith & Glass（1977）、Glass et al.（1981, pp. 218–220）、Slavin（1995）和 Evans et al.（2000）回应了这些批评，主张研究间差异可以被[[Coding in Qualitative Research\|编码]]并在分析中处理。但这将问题从"是否可合并"转移为"如何更好地合并"，并未消除根本性的不可比问题。最值得玩味的是，Glass 本人，即元分析的创始人，也发出警告：元分析的结果永远不应该是平均值，而应该是一张图（Robinson, 2004, p. 29, cited in [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, p. 119]]）。这句话既是方法论忠告，也隐含了对平均效应量使用的深刻保留（pp. 370–372）。
+> Smith & Glass（1977）、Glass et al.（1981, pp. 218–220）、Slavin（1995）和 Evans et al.（2000）回应了这些批评，主张研究间差异可以被编码并在分析中处理。但这将问题从"是否可合并"转移为"如何更好地合并"，并未消除根本性的不可比问题。最值得玩味的是，Glass 本人，即元分析的创始人，也发出警告：元分析的结果永远不应该是平均值，而应该是一张图（Robinson, 2004, p. 29, cited in [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, p. 119]]）。这句话既是方法论忠告，也隐含了对平均效应量使用的深刻保留（pp. 370–372）。
 
 ##### 维度二：输入质量——垃圾进，垃圾出
 
@@ -439,7 +437,7 @@ Wolf 的六项批评之首，也是元分析面临的最根本挑战：使用不
 ##### 维度八：替代解释、反驳证据与实践障碍
 
 > [!critique] [[Scientific Method\|科学方法]]论的要求未满足
-> 如果元分析要遵循自然科学的传统，就必须收集和评估可能推翻研究假设的替代解释和数据。这是科学方法论的标准要求，RCT 的支持者可能也会同意这一点。
+> 如果元分析要遵循自然科学的传统，就必须收集和评估可能推翻[[Hypothesis|研究假设]]的替代解释和数据。这是科学方法论的标准要求，RCT 的支持者可能也会同意这一点。
 >
 > 尽管教育中元分析的倡导者（如 Fitz-Gibbon, 1984, 1985）建议同时使用已发表和未发表的研究，但存在严重的**实践问题**（pp. 383）：
 > - 已发表研究可能只报告"成功"
@@ -598,9 +596,9 @@ Thomas & Pring（2004, pp. 54–55）从研究设计层面补充了元分析应�
 > *Quantitative meta-analysis replaces intuition, which is frequently reported narratively, as a means of synthesizing different research studies transparently and explicitly, particularly when they differ very substantially.*
 
 > [!citation-card]- Morrison 对元分析公平性的追问
-> 如果各实验的[[Hypothesis\|假设]]不同、假设不是同一[[Construct\|构念]]的[[Operationalization\|操作化]]、[[Randomised Controlled Trials\|RCT]] 的具体执行（时间框架、干预方案、控制条件、小组构成、参与者特征、测量工具）各不相同，如何确定元分析是公平的？（Morrison, 2001, p. 78）
+> 如果各实验的假设不同、假设不是同一[[Construct\|构念]]的[[Operationalization\|操作化]]、[[Randomised Controlled Trials\|RCT]] 的具体执行（时间框架、干预方案、控制条件、小组构成、参与者特征、测量工具）各不相同，如何确定元分析是公平的？（Morrison, 2001, p. 78）
 >
-> *How can we be certain that meta-analysis is fair if the hypotheses for the separate experiments were not identical, if the hypotheses were not operationalisations of the identical constructs, if the conduct of the separate RCTs (e.g. time frames, interventions and programmes, controls, constitution of the groups, characteristics of the participants, measures used) were not identical?*
+> *How can we be certain that meta-analysis is fair if the [[Hypothesis|hypotheses]] for the separate experiments were not identical, if the hypotheses were not operationalisations of the identical constructs, if the conduct of the separate RCTs (e.g. time frames, interventions and programmes, controls, constitution of the groups, characteristics of the participants, measures used) were not identical?*
 
 > [!citation-card]- Fitz-Gibbon 论[[Effect Size\|效应量]]优于显著性
 > 在元分析中，[[Variable\|变量]]的效应以效应量来检验——即它们产生了多大差异——而不仅仅是效应是否在某个任意水平（如 5%）上具有[[Statistical Significance\|统计显著性]]。因为使用效应量更容易关注发现的教育显著性，而不是通过统计显著性来评估其重要性，我们可能最终看到统计显著性被放在恰当的位置上——只是[[Internal Validity\|内部效度]]众多可能威胁中的一个。（Fitz-Gibbon, 1985, p. 45）

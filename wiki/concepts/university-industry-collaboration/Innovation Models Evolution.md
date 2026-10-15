@@ -9,7 +9,7 @@ aliases:
 summary: "Tidd（2006）等学者识别的创新过程理解方式的五次迭代——技术推动、需求拉动、耦合、系统集成与网络化、创新系统——从线性到系统的认识升级，现实中五种模型共存而非替代"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 15
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Big Science]]"
   - "[[Paradigm]]"
-  - "[[Hypothesis]]"
   - "[[Creativity]]"
   - "[[Epistemology]]"
   - "[[Unit of Analysis]]"
@@ -28,7 +27,6 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Grand Challenges]]"
   - "[[Wicked Problem]]"
-  - "[[Document]]"
 related_theories:
   - "[[Systems of Innovation]]"
 related_methods:
@@ -41,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-27
-updated: 2026-10-03
+updated: 2026-10-15
 ---
 
 # Innovation Models Evolution
@@ -73,7 +71,7 @@ updated: 2026-10-03
 
 > 核心逻辑：创新的信号来自市场需求——"市场上缺什么 → 研究者想办法解决"。技术推动被倒转：不是科学产生需求，而是需求牵引科学。
 
-> 第一代和第二代的共同盲区：两者都[[Hypothesis\|假设]]创新是线性单向的——只是箭头的起点不同。到了 1970 年代，这种单一方向的思维被广泛质疑。
+> 第一代和第二代的共同盲区：两者都假设创新是线性单向的——只是箭头的起点不同。到了 1970 年代，这种单一方向的思维被广泛质疑。
 
 ### 第三代：耦合模型（Coupling Model，1970s–80s）
 
@@ -125,7 +123,7 @@ Kline & Rosenberg（1986）提出了耦合模型（也称"链环模型"），其
 > [!tip]-
 > - [[Systems of Innovation]] — 五代模型中的第五代，也是当前主导[[Paradigm\|范式]]；两者的关系是：创新模型演变描述的是"理解方式"的历史轨迹，创新系统理论是这条轨迹上最新、最复杂的节点
 > - Kline & Rosenberg（1986）的链环模型 — 第三代耦合模型的核心来源，打破了线性思维的垄断
-> - [[Argument_Caraca_2009_TFSC\|Caraça et al. (2009)]]— 提出代际共存观点的关键[[Document\|文献]]，标题本身就是一个隐喻："From Queen to Cinderella?"（科学在创新过程中从女王变成灰姑娘？）
+> - [[Argument_Caraca_2009_TFSC\|Caraça et al. (2009)]]— 提出代际共存观点的关键文献，标题本身就是一个隐喻："From Queen to Cinderella?"（科学在创新过程中从女王变成灰姑娘？）
 
 ---
 

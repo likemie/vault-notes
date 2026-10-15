@@ -13,7 +13,7 @@ summary: "基于连续驱动变量在特定阈值处的刚性或概率性分配�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 37
+method_related_count: 36
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -26,7 +26,6 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Causality]]"
-  - "[[Hypothesis]]"
   - "[[Dependent Variable]]"
   - "[[Academic Achievement]]"
   - "[[Unit of Analysis]]"
@@ -70,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-09-28
+updated: 2026-10-15
 ---
 
 # Regression Discontinuity Design
@@ -82,7 +81,7 @@ updated: 2026-09-28
 > [!def] 方法定义
 > **断点回归设计（Regression Discontinuity Design, RDD）** 最早由 Donald L. Thistlethwaite 与 Donald T. Campbell 于 1960 年创立，是指依据某个连续**驱动[[Variable\|变量]]（Running Variable / Forcing Variable）**在预设**截断阈值（Cut-off Point）**处的分配规则，将受试对象严格或概率性划分为干预组与对照组，进而在阈值邻域内识别干预因果效应的准实验方法([[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, pp. 320–324]]; [[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022, p. 1327]])。
 >
-> 其核心[[Causality\|因果推断]]逻辑建立在**局域[[Random Assignment\|随机化]][[Hypothesis\|假设]]（Local Randomization Assumption）**之上：在紧邻阈值的极小带宽（Bandwidth）范围内，个体的潜能、动机与家庭背景等不可测混杂特征均是平滑连续分布的；唯独干预分配状态在阈值处发生非连续阶跃。因此，阈值两侧[[Dependent Variable\|结果变量]]的垂直跳跃量可直接无偏地归因为干预的**局部平均处理效应（Local Average Treatment Effect, LATE）**。在美国教育部 [[What Works Clearinghouse\|WWC]] 因果设计审查体系中，符合质量标准的 RDD 被赋予与 [[Randomised Controlled Trials\|RCT]] 同等的一级最高资质（Meets Standards Without Reservations）([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 8–11]])。
+> 其核心[[Causality\|因果推断]]逻辑建立在**局域[[Random Assignment\|随机化]]假设（Local Randomization Assumption）**之上：在紧邻阈值的极小带宽（Bandwidth）范围内，个体的潜能、动机与家庭背景等不可测混杂特征均是平滑连续分布的；唯独干预分配状态在阈值处发生非连续阶跃。因此，阈值两侧[[Dependent Variable\|结果变量]]的垂直跳跃量可直接无偏地归因为干预的**局部平均处理效应（Local Average Treatment Effect, LATE）**。在美国教育部 [[What Works Clearinghouse\|WWC]] 因果设计审查体系中，符合质量标准的 RDD 被赋予与 [[Randomised Controlled Trials\|RCT]] 同等的一级最高资质（Meets Standards Without Reservations）([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 8–11]])。
 
 > [!method-scope] 方法范围
 > - **研究对象** 依赖连续分数进行资源分配的教育与公共政策方案（如中[[Gaokao\|高考]]择优录取、奖学金评定、学业辅导划线、贫困家庭资助线、按出生日期划定的小学入学年龄截点）。
@@ -101,7 +100,7 @@ updated: 2026-09-28
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **认识论取向** 秉承[[Postpositivism\|后实证主义]]与因果计量经济学[[Paradigm\|范式]]，用完全透明的确定性行政规则（Deterministic Rule）替代[[Random Assignment\|随机化]]抽签，化解了实验随机分配剥夺弱势群体受助资格的伦理争议。
-> - **因果识别定位** 属于基于外生规则识别的[[Counterfactual\|反事实]]比较。相比常规[[Propensity Score Matching\|倾向得分匹配]]（PSM）依赖不可检验的“可忽略性[[Hypothesis\|假设]]（CIA）”，RDD 的因果有效性仅依赖“潜在结果在断点处关于驱动[[Variable\|变量]]的条件期望连续性”，不依赖不可测混杂变量可被完全观测的严苛假定。
+> - **因果识别定位** 属于基于外生规则识别的[[Counterfactual\|反事实]]比较。相比常规[[Propensity Score Matching\|倾向得分匹配]]（PSM）依赖不可检验的“可忽略性假设（CIA）”，RDD 的因果有效性仅依赖“潜在结果在断点处关于驱动[[Variable\|变量]]的条件期望连续性”，不依赖不可测混杂变量可被完全观测的严苛假定。
 > - **与真实验（[[Randomised Controlled Trials\|RCT]]）及准实验（[[Quasi-Experimental Designs\|QED]]）的张力**
 >   - **[[Internal Validity\|内部效度]]** 在准实验谱系中居于顶峰，因果识别力远超非等对控制组前[[Pre-test and Post-test\|后测]]设计；
 >   - **[[External Validity\|外部效度]]** 因果效应仅严格代表处于阈值切分点邻域（Cut-off Boundary）的边际群体（Marginal Population），无法直接推论至远离阈值的极端高分或低分群体。

@@ -7,7 +7,7 @@ summary: "美国当代教育政策设计者与企业家，学生成就伙伴组�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 17
+person_related_count: 16
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[College and Career Readiness]]"
   - "[[Formative Assessment]]"
-  - "[[Document]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Professional Judgment]]"
   - "[[Paradigm]]"
@@ -49,7 +48,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # David Coleman
@@ -98,7 +97,7 @@ updated: 2026-10-07
 ## 核心思想
 
 > [!claim] 核心主张
-> 科尔曼的核心教育哲学建立在严厉批判美国传统语文教育“空洞化”与“个人感觉至上”的基础之上。他尖锐指出，美国中小学语文教学长期沉溺于让学生就个人生活经验抒发主观情感（如写个人日记和虚构故事），导致学生普遍丧失了应对复杂非虚构[[Document|文献]]的阅读理解与论辩能力。为实现真实的[[College and Career Readiness|大学与职业就绪]]，K-12 阶段的母语教育必须完成三大结构性转向：第一，大幅提升课堂阅读文本的复杂度阶梯（Text Complexity）；第二，所有读写训练必须完全锚定在文本本身的实证证据之上（Grounded in Evidence），学生的一切论断都必须能在原文中找到字句证据支持；第三，非虚构文本与跨学科[[Knowledge Building Theory|知识建构]]必须占据阅读量的主要比例，以使学生具备在现代[[Knowledge-Based Economy|知识经济]]中竞争的硬核素养。
+> 科尔曼的核心教育哲学建立在严厉批判美国传统语文教育“空洞化”与“个人感觉至上”的基础之上。他尖锐指出，美国中小学语文教学长期沉溺于让学生就个人生活经验抒发主观情感（如写个人日记和虚构故事），导致学生普遍丧失了应对复杂非虚构文献的阅读理解与论辩能力。为实现真实的[[College and Career Readiness|大学与职业就绪]]，K-12 阶段的母语教育必须完成三大结构性转向：第一，大幅提升课堂阅读文本的复杂度阶梯（Text Complexity）；第二，所有读写训练必须完全锚定在文本本身的实证证据之上（Grounded in Evidence），学生的一切论断都必须能在原文中找到字句证据支持；第三，非虚构文本与跨学科[[Knowledge Building Theory|知识建构]]必须占据阅读量的主要比例，以使学生具备在现代[[Knowledge-Based Economy|知识经济]]中竞争的硬核素养。
 
 > [!citation-card] 文本复杂度作为英语标准支柱的实证依托与局限
 > 麦克唐纳与韦瑟福德指出，科尔曼主持起草的 ELA 标准将“文本复杂度”列为最核心的立论支柱，其依据主要来自美国大学考试机构（ACT, 2006）的研究报告，该报告证实能否驾驭逐级递增的复杂文本是预测学生大学与职场成功的最关键指标。然而，读写研究学者皮尔森与希伯特（Pearson & Hiebert, 2012）指出，当时学界关于文本复杂度的底层基础理论与实证测量工具极度匮乏；科尔曼团队在缺乏充分课堂微观实验的情况下，将定性[[Professional Judgment|专业判断]]与定量指标相结合，迅速确立了全美年级进阶标准。
@@ -112,7 +111,7 @@ updated: 2026-10-07
 > [!influence-path] 影响路径
 > - **标准研制路径** 直接塑造了全美 45 个州采纳的 [[Common Core State Standards|CCSS]] 英语语言艺术大纲，重新定义了全美 K-12 阶段的阅读书单与写作教学[[Paradigm|范式]]。
 > - **教材与出版重塑** 其倡导的三大转向迫使培生（Pearson）、麦格劳-希尔（McGraw-Hill）等全美大型教科书出版商全面下架传统虚构文学选本，按非虚构比例与复杂度指标重印全套教材。
-> - **高利害考试重构** 在出任大学理事会总裁后，科尔曼直接废除了 SAT 考试中偏门冷僻词汇记忆题和主观猜谜题，将其改造为严格基于历史[[Document|文献]]精读与数学实际应用的全新测评体系。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 13, 22)]]
+> - **高利害考试重构** 在出任大学理事会总裁后，科尔曼直接废除了 SAT 考试中偏门冷僻词汇记忆题和主观猜谜题，将其改造为严格基于历史文献精读与数学实际应用的全新测评体系。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 13, 22)]]
 
 ---
 
@@ -148,6 +147,6 @@ updated: 2026-10-07
 > | [[College and Career Readiness]] | 核心理念 | 将大学与职业就绪[[Operationalization\|操作化]]为以文本证据和文本复杂度为核心的起草规则。 |
 > | [[Achieve]] | 智库机构 | 深度协作其主持的[[American Diploma Project\|美国文凭项目]]并将成果输入通用标准草案。 |
 > | [[National Governors Association]] | 组织机构 | 接受其正式委托开展全国统一标准方案的文本研制与多轮修订。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | 实证[[Document\|文献]] | 详细记录科尔曼主导起草团队如何调用 ACT 数据与填补科研实证空白的研究。 |
+> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | 实证文献 | 详细记录科尔曼主导起草团队如何调用 ACT 数据与填补科研实证空白的研究。 |
 
 ---

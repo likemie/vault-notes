@@ -109,7 +109,7 @@ updated: 2026-10-07
 > [!method-stack] 方法层级
 > - **研究设计** [[Mixed Methods Research|混合方法]]社会网络分析（Mixed-Methods SNA）、全网络纵向追踪、多层自我中心网络设计。
 > - **数据收集** 关系名录调查[[Questionnaire|问卷]]、数字化协作平台（如[[Theory of Knowledge|知识论]]坛 KF）交互发帖与引用日志提取、[[In-depth Interview|深度访谈]]与[[Accounts|陈述法]]。
-> - **分析方法** [[Sociometry|社会计量学]]测度、中心度与中介度计算、网络密度分析、QAP 关系[[Hypothesis|假设]]检验、块模型（Blockmodeling）。
+> - **分析方法** [[Sociometry|社会计量学]]测度、中心度与中介度计算、网络密度分析、QAP 关系假设检验、块模型（Blockmodeling）。
 > - **辅助技术** 质性协作[[Discourse Analysis|话语分析]]与 SNA 结合（如 Gephi、UCINET、NetDraw、Pajek，以及 R 扩展包 `igraph`、`tidygraph`、`sna`、Python `networkx`）。
 
 ---

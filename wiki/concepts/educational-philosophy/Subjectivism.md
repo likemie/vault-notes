@@ -9,7 +9,7 @@ aliases:
 summary: "社会科学与教育研究的基本认识论与方法论取向，将社会世界视为主观意识、语言符号与人造意义的建构产物；在组织与方法论上持唯名论、反实证主义、意志论与个例式假定，在比较教育学史中历经战后实证范式的系统清洗、批判二元论的情境整合以及后现代思潮对多元真理体制的重新合法化。"
 type: concept
 domain: "educational-philosophy"
-related_count: 51
+related_count: 50
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Absolutist]]"
   - "[[Postpositivism]]"
   - "[[Paradigm]]"
-  - "[[Bildung]]"
   - "[[Champ]]"
   - "[[Hypothesis]]"
   - "[[Objectivism]]"
@@ -79,7 +78,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-14
-updated: 2026-10-03
+updated: 2026-10-15
 ---
 
 # Subjectivism
@@ -102,7 +101,7 @@ updated: 2026-10-03
 > *The principal concern is with an understanding of the way in which the individual [[CREATES Project\|CREATES]], modifies and interprets the world in which he or she finds himself or herself... The approach now takes on a qualitative as well as quantitative aspect... emphasis is placed on the explanation and understanding of the unique and the particular individual case rather than the general and the universal... interest is in a subjective, relativistic social world rather than an [[Absolutist]], external reality... This approach is termed idiographic.*
 
 > [!citation-card] 战[[Postpositivism\|后实证主义]]对主观主义与印象主义的[[Paradigm\|范式]]清洗
-> 比较教育学在 1950 年代末全面开启了争夺科学身份的学术转型。批评者断言，该领域获得科学地位的根本前提，在于彻底废除印象主义、主观主义、思辨、直觉与先验倾向，这些特质与先驱者历史哲学著述所滋养的质性及价值负荷特征紧密相连。新范式要求理解与解释不再依赖于比较学者直觉、有[[Bildung\|教养]]而敏感的心智，而必须立足于由法则和可检验定量假说构成的硬核科学理论。[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 61–62)]]
+> 比较教育学在 1950 年代末全面开启了争夺科学身份的学术转型。批评者断言，该领域获得科学地位的根本前提，在于彻底废除印象主义、主观主义、思辨、直觉与先验倾向，这些特质与先驱者历史哲学著述所滋养的质性及价值负荷特征紧密相连。新范式要求理解与解释不再依赖于比较学者直觉、有教养而敏感的心智，而必须立足于由法则和可检验定量假说构成的硬核科学理论。[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 61–62)]]
 >
 > *A fundamental prerequisite for the [[Champ\|field]] to acquire scientific status was, according to the critics, the abolition of impressionism, subjectivity, speculation, intuition and predisposition, generically linked, with its qualitative and value-laden character, as this had been nurtured by the historical and philosophical work of its forefathers (Templeton, 1958; Epperson & Schmuck, 1963; Clayton, 1972)... Yet understanding and explanation should not be based any longer on the intuitive, cultivated and sensitive mind of the comparativist but on a hard-core scientific theory, comprising laws and verifiable quantitative [[Hypothesis\|hypotheses]] that would stand exhaustive empirical test.*
 
@@ -120,7 +119,7 @@ updated: 2026-10-03
 > |---|---|---|---|
 > | **[[Ontology\|本体论]]假定** | **[[Nominalism\|唯名论]]（Nominalism）** 社会实在是人类发明的概念与意义网络 | **实在论（Realism）** 社会世界是独立于知者的硬性客观实在 | **二元分立** 人为规范法则与客观机构社会学法则并存 |
 > | **[[Epistemic Stances\|认识论立场]]** | **[[Interpretive Paradigm\|反实证主义]]（Anti-positivism）** 知识是独特的、情境化的人类体验 | **实证主义（Positivism）** 知识遵循自然科学法则，追求普遍真理 | **假说-演绎[[Falsification\|可证伪性]]** 承认主观信念为初始情境，探求权变规律 |
-> | **人性[[Hypothesis\|假设]]** | **意志论（Voluntarism）** 人具有自由意志与[[Creativity\|创造力]]，主动创造环境 | **[[Determinism\|决定论]]（Determinism）** 人的行为完全由外部环境与制度矩阵所塑造 | **能动与约束并存** 人在特定制度机构约束下进行自主理性抉择 |
+> | **人性假设** | **意志论（Voluntarism）** 人具有自由意志与[[Creativity\|创造力]]，主动创造环境 | **[[Determinism\|决定论]]（Determinism）** 人的行为完全由外部环境与制度矩阵所塑造 | **能动与约束并存** 人在特定制度机构约束下进行自主理性抉择 |
 > | **研究方法** | **[[Idiographic\|个例式]]（Idiographic）** 深入个案内部、语言分析与主体阐释 | **[[Nomothetic\|律则式]]（Nomothetic）** 变量控制、大样本量化与假设统计检验 | **[[Problem Approach\|问题法]]（Problem Approach）** 情境分析、演绎推导与概率性预测 |
 > | **法则定位** | 否定超越时空的普遍规律，聚焦个案独特性与意义理解 | 探寻普遍恒常的制度规律或[[Variable\|变量]]间的函数共变关系 | 拒绝绝对律则，主张具有情境权变性（Contingency）的社会学法则 |
 
@@ -128,7 +127,7 @@ updated: 2026-10-03
 
 ## 核心要素
 
-> [!feature] 伯勒尔与摩根主观主义四维[[Hypothesis\|假设]]构架
+> [!feature] 伯勒尔与摩根主观主义四维假设构架
 > - **[[Nominalism\|唯名论]][[Ontology\|本体论]]（Nominalism）** 坚持思想的对象仅仅是词语与概念，不存在独立于知者并构成词语意义的可及事物；组织与社会制度并非自然实体，而是由人类行动者[[Co-invention|共同发明]]的社会实在。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011, Ch. 1)]]
 > - **[[Interpretive Paradigm\|反实证主义]][[Epistemology\|认识论]]（Anti-[[Positivism]]）** 断言社会知识具有鲜明的个人性、主观性与独特性，坚决拒绝将自然科学的客观观察方法直接套用于人类事务，要求研究者同情性地投入研究对象的生活世界之中。
 > - **意志论人性假设（[[Voluntarism]]）** 坚信人是自身行动的发起者，拥有自由意志和[[Creativity\|创造力]]，能够在与环境的互动中能动地创造和重构自身的生活情境。
@@ -220,7 +219,7 @@ updated: 2026-10-03
 > - **19 世纪末–20 世纪初 — 古典人文历史主义奠基** [[Michael Sadler\|迈克尔·萨德勒]]（Michael Sadler）与[[Isaac Kandel\|艾萨克·坎德尔]]（Isaac Kandel）将比较教育学建立在对[[Intangible Spiritual Forces\|无形精神力量]]、民族历史与文化理想的主观同情性理解之上。[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 59–60)]]
 > - **1950 年代末–1960 年代 — 战[[Postpositivism\|后实证主义]]对主观主义的系统清算** 比较教育学掀起争夺科学地位的运动，坦普尔顿、安德森与诺亚等人强烈要求废除主观主义、印象主义与哲学思辨，代之以大[[Sample Size Determination\|样本量]]化与[[Variable\|变量]]函数共变。[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 61–62, 65–66)]]
 > - **1965–1970 年代初 — 霍姆斯[[Critical Dualism\|批判二元论]]的情境折衷** 霍姆斯运用波普尔批判二元论，将人类主观意志与文化信仰界定为“规范法则”，在批判实证派放逐主观精神的同时，实现了主观规范模式与客观社会学法则的综合。[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 62–63, 67)]]
-> - **1975–1979 年 — 组织与社会学主观主义理论化** 格林菲尔德（1975）系统提出组织主观主义十维度理论，伯勒尔与摩根（1979）正式在四组[[Hypothesis\|假设]]构架中确立主观主义[[Paradigm\|范式]]（[[Nominalism\|唯名论]]、[[Interpretive Paradigm\|反实证主义]]、意志论与[[Idiographic\|个例式]]）。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011, Ch. 1)]]
+> - **1975–1979 年 — 组织与社会学主观主义理论化** 格林菲尔德（1975）系统提出组织主观主义十维度理论，伯勒尔与摩根（1979）正式在四组假设构架中确立主观主义[[Paradigm\|范式]]（[[Nominalism\|唯名论]]、[[Interpretive Paradigm\|反实证主义]]、意志论与[[Idiographic\|个例式]]）。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011, Ch. 1)]]
 > - **1980 年代至今 — 后现代转向与主观主义范式合法化** 实证规划神话破产与量子力学不确定性转向促使后现代思潮崛起，[[Grand Theory\|宏大理论]]被解构，主观、质性与参与性方法获得等同的学术合法性，学科走向复数真理体制。[[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009, pp. 68–69)]]
 
 ---
@@ -254,5 +253,5 @@ updated: 2026-10-03
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] — 详述伯勒尔与摩根的主观—客观四组[[Hypothesis\|假设]]构架，以及格林菲尔德组织主观主义十维度分析矩阵。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] — 详述伯勒尔与摩根的主观—客观四组假设构架，以及格林菲尔德组织主观主义十维度分析矩阵。
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 系统考掘战后比较教育学中[[Positivism\|实证主义]]对主观主义的清洗运动、霍姆斯[[Critical Dualism\|批判二元论]]对主观规范的情境整合，以及后现代思潮对多元真理体制与主观阐释进路的重新合法化。

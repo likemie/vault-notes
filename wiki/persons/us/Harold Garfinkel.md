@@ -6,7 +6,7 @@ summary: "美国社会学家，常人方法学（Ethnomethodology）创始人，
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 29
+person_related_count: 27
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -18,7 +18,6 @@ tags:
   - person/ethnomethodologist
   - theme/micro-sociology
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Interpretive Paradigm]]"
   - "[[Indexicality]]"
   - "[[Reflexivity]]"
@@ -43,7 +42,6 @@ related_methods:
   - "[[Transcription in Qualitative Research]]"
   - "[[Correlational Research]]"
   - "[[Questionnaire]]"
-  - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Alfred Schutz]]"
   - "[[Talcott Parsons]]"
@@ -56,7 +54,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Harold Garfinkel
@@ -67,7 +65,7 @@ updated: 2026-10-08
 
 > [!person-profile] 人物档案
 > - **身份位置** 美国社会学家，常人方法学（[[Ethnomethodology]]，亦译俗民方法学）创始人，曾长期担任加利福尼亚大学洛杉矶分校（UCLA）社会学系教授。
-> - **核心角色** 20世纪微观社会学革命的领军人物。加芬克尔从[[Alfred Schutz\|阿尔弗雷德·舒茨]]（[[Alfred Schutz]]）的生活世界[[Phenomenology\|现象学]]汲取养分，对主流[[Structural Functionalism|结构功能主义]]关于社会秩序由外在客观法则决定的[[Hypothesis\|假设]]发起激进挑战；他拒绝将行动者视作被动遵从规范的“文化笨蛋”（Cultural Dopes），主张社会秩序是由行动者在日常实践推理中动态创造与维持的成就，为社会科学[[Interpretive Paradigm\|诠释范式]]与微观互动研究开辟了全新的经验调查方向。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
+> - **核心角色** 20世纪微观社会学革命的领军人物。加芬克尔从[[Alfred Schutz\|阿尔弗雷德·舒茨]]（[[Alfred Schutz]]）的生活世界[[Phenomenology\|现象学]]汲取养分，对主流[[Structural Functionalism|结构功能主义]]关于社会秩序由外在客观法则决定的假设发起激进挑战；他拒绝将行动者视作被动遵从规范的“文化笨蛋”（Cultural Dopes），主张社会秩序是由行动者在日常实践推理中动态创造与维持的成就，为社会科学[[Interpretive Paradigm\|诠释范式]]与微观互动研究开辟了全新的经验调查方向。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]
 > - **代表贡献** 创立常人方法学，提出[[Indexicality\|索引性]]（Indexicality）与[[Reflexivity\|反思性]]（Reflexivity）核心分析范畴，发明破坏性实验（Breaching Experiments）并催生了[[Conversation Analysis|会话分析]]（Conversation Analysis）。
 
 > [!citation-card] Garfinkel 论常人方法学的探究主旨与日常现象的自身权利
@@ -95,7 +93,7 @@ updated: 2026-10-08
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1940s–1950s — 批判规范[[Determinism\|决定论]]与常人方法奠基阶段（Harvard & Early UCLA Phase）** 反思[[Talcott Parsons|帕森斯]]的[[Structural Functionalism|结构功能主义]]规范内化[[Hypothesis\|假设]]，结合舒茨生活世界[[Phenomenology\|现象学]]，提出实践推理与“常人方法”构想。
+> - **1940s–1950s — 批判规范[[Determinism\|决定论]]与常人方法奠基阶段（Harvard & Early UCLA Phase）** 反思[[Talcott Parsons|帕森斯]]的[[Structural Functionalism|结构功能主义]]规范内化假设，结合舒茨生活世界[[Phenomenology\|现象学]]，提出实践推理与“常人方法”构想。
 >   - **代表论文／著作** 博士论文《感知他人行动者的知觉与反应研究》（1952）、陪审团决策民族志调查（1954）。
 >   - **关键概念／方法** 实践社会学推理（Practical Sociological Reasoning）、拒绝“文化笨蛋”（Rejection of Cultural Dopes）、常人方法（Ethno-methods）。
 >   - **阶段转向** 质疑正统社会学将行动者视作受外在规范与价值共识操纵的木偶，主张研究人们在微观情境中如何凭借常识推理建构行动的可理解性。
@@ -139,7 +137,7 @@ updated: 2026-10-08
 ## 历史评价
 
 > [!citation-card] Burrell 与 Morgan 论常人方法学对社会成就的内部透视
-> 常人方法学关注人们如何理解自身的日常世界。更具体而言，它针对参与者在社会相遇中达成并维系互动的机制——他们所作的[[Hypothesis\|假设]]、所采用的惯例以及所采纳的实践。常人方法学因此寻求以其自身的[[Discourse|话语]]来理解社会成就；它致力于从内部去理解它们。（Burrell & Morgan, 1979；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]）
+> 常人方法学关注人们如何理解自身的日常世界。更具体而言，它针对参与者在社会相遇中达成并维系互动的机制——他们所作的假设、所采用的惯例以及所采纳的实践。常人方法学因此寻求以其自身的[[Discourse|话语]]来理解社会成就；它致力于从内部去理解它们。（Burrell & Morgan, 1979；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]）
 >
 > *[[Ethnomethodology]], then, is concerned with how people make sense of their everyday world. More especially, it is directed at the mechanisms by which participants [[Achieve]] and sustain interaction in a social encounter – the assumptions they make, the conventions they utilize and the practices they adopt. Ethnomethodology thus seeks to understand social accomplishments in their own terms; it is concerned to understand them from within.*
 
@@ -167,7 +165,7 @@ updated: 2026-10-08
 >   - **哈维·萨克斯（Harvey Sacks）** 杰出弟子，常人方法学[[Conversation Analysis|会话分析]]（CA）的主要创立者。
 >   - **伊曼纽尔·谢格洛夫（Emanuel Schegloff）** 早期学术伙伴，推动会话分析在社会学与语言学界制度化。
 > - **学术论敌**
->   - **正统[[Positivism\|实证主义]]与量化社会学家** 加芬克尔批判其运用预设[[Questionnaire\|问卷]]与机械[[Coding in Qualitative Research\|编码]]强加外在虚假秩序，忽视日常生活的原初丰富性。
+>   - **正统[[Positivism\|实证主义]]与量化社会学家** 加芬克尔批判其运用预设[[Questionnaire\|问卷]]与机械编码强加外在虚假秩序，忽视日常生活的原初丰富性。
 
 ---
 
@@ -198,5 +196,5 @@ updated: 2026-10-08
 > | [[Ethnomethodology\|常人方法学]] | 理论 | 创立常人方法学学派，将日常实践活动与常识推理确立为自足的经验探究课题。 |
 > | [[Indexicality\|索引性]] | 概念 | 提出言论与行动的意义深度依赖于其产生的具体社会情境与未言明的背景预设。 |
 > | [[Reflexivity\|反思性]] | 概念 | 阐明情境描述（说明）与情境本身互为因果、相互依存的微观社会机制。 |
-> | [[Interpretive Paradigm\|诠释范式]] | 理论 | 颠覆[[Positivism\|实证主义]]外在秩序[[Hypothesis\|假设]]，为教育微观互动与课堂[[Ethnography\|民族志]]探究提供微观方法论支柱。 |
+> | [[Interpretive Paradigm\|诠释范式]] | 理论 | 颠覆[[Positivism\|实证主义]]外在秩序假设，为教育微观互动与课堂[[Ethnography\|民族志]]探究提供微观方法论支柱。 |
 

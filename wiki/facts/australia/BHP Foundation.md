@@ -8,7 +8,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 30
+fact_related_count: 28
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -26,12 +26,10 @@ related_concepts:
   - "[[Knowledge Mediation]]"
   - "[[Evidence Ecosystem]]"
   - "[[Social Impact Investing]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Going Native]]"
   - "[[Evidence-Based Education]]"
   - "[[Policy Network]]"
   - "[[Value Neutrality]]"
-  - "[[Document]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Initial Teacher Training]]"
   - "[[Paradigm]]"
@@ -60,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-16
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # BHP Foundation
@@ -76,7 +74,7 @@ updated: 2026-09-22
 > - **成立时间 / 创设背景** 2013 年由必和必拓集团出资设立，旨在管理集团在全球各业务所在国的[[Social Impact Investing\|社会投资]]与企业社会责任基金，其教育项目聚焦于解决全球教育不平等与提升教学效能。
 > - **总部地点 / 业务辐射** 法律注册与全球运营总部设于澳大利亚墨尔本，项目网络横跨大洋洲（澳大利亚）、拉丁美洲（智利等国）、北美洲与西非地区。
 > - **法人属性与经费基础** 独立免税慈善法人；经费全部来源于必和必拓集团按全球矿业利润一定比例拨付的经常性企业捐赠，具备极强的私人资本动员力与长期资助周期。
-> - **核心宗旨与战略愿景** 宣称致力于通过促进负责任的自然资源治理、环境保护以及包容性教育推动全球可持续发展；在教育领域，核心使命在于资助高品质实证证据生产与本地化[[Transfer Translation Transformation\|转译]]，构建支撑教师决策的全球证据生态。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 49)]]
+> - **核心宗旨与战略愿景** 宣称致力于通过促进负责任的自然资源治理、环境保护以及包容性教育推动全球可持续发展；在教育领域，核心使命在于资助高品质实证证据生产与本地化转译，构建支撑教师决策的全球证据生态。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 49)]]
 
 ---
 
@@ -99,7 +97,7 @@ updated: 2026-09-22
 
 > [!pathways]- [[Venture Philanthropy\|风险慈善]]资本运作链条
 > 1. **资本注资与中介赋能** 避开官僚程序，直接向国际顶尖证据中介（如 EEF）注资，资助其跨国扩张与全球知识产品开发。
-> 2. **扶持本土中介组织** 在目标国家资助设立对标 EEF 模式的非政府证据机构（如智利 [[SUMMA]]、澳洲 E4L），完成核心证据工具的本土情境[[Transfer Translation Transformation\|转译]]。
+> 2. **扶持本土中介组织** 在目标国家资助设立对标 EEF 模式的非政府证据机构（如智利 [[SUMMA]]、澳洲 E4L），完成核心证据工具的本土情境转译。
 > 3. **人事网络流动与借调** 推动核心专家在国际中介、慈善智库与政府咨询委员会之间交叉任职（如原 EEF 首席执行官柯文·柯林斯爵士同时兼任 AERO 董事会成员）。
 > 4. **国家法案与准入标准渗透** 借助官方循证咨询契机，将基金会资助的中介成果直接嵌入国家教师认证大纲与学校财政问责法规。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024, p. 8)]]
 
@@ -128,7 +126,7 @@ updated: 2026-09-22
 > - **资金杠杆效应** 凭借数千万美元的慈善种子资金，成功撬动了澳大利亚联邦与各州政府数亿澳元的公共财政匹配投入。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024, p. 8)]]
 
 > [!finding-cards] 关键成效与辐射影响
-> - **跨国证据中介多中心网络成型** 改变了以往证据由英美单向输出的格局，促成了拉美和澳洲本土因果试验生产与多语种证据[[Transfer Translation Transformation\|转译]]体系的建立。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 49)]]
+> - **跨国证据中介多中心网络成型** 改变了以往证据由英美单向输出的格局，促成了拉美和澳洲本土因果试验生产与多语种证据转译体系的建立。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 49)]]
 > - **企业绩效理性对公共教育的重塑** 将复杂的教育教学人际互动实践，全面降维包装为以[[Effect Size\|效应量]]、标准化工具包为核心的企业化知识管理模式。
 
 ---
@@ -153,7 +151,7 @@ updated: 2026-09-22
 > >
 > > - **批判学者指出** 关键专家既代表由必和必拓资助的跨国中介网络，又主导澳大利亚官方 AERO 董事会与联邦大纲评审团，这种政、学、资三位一体的人事闭环，使公共政策制定极易沦为少数资本赞助网络的闭门产物。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024, p. 8)]]
 
-> [!citation-card] 批判政策社会学的审视[[Document\|文献]]
+> [!citation-card] 批判政策社会学的审视文献
 > 澳大利亚教育研究组织（AERO）的创设及其对初任教师教育大纲的重塑，绝非单纯的专业技术决策，而是深嵌于由必和必拓基金会资助、连接英国教育捐赠基金会（EEF）的人事与制度异层治理网络之中；资本借由循证科学的合法性外衣，悄然重构了主权国家公共教育的[[Disciplina and Doctrina\|规训]]机制。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024, p. 8)]]
 >
 > *"AERO’s inception and its subsequent influence on [[Initial Teacher Training\|Initial Teacher Education]] reforms reflect a transnational heterarchy financed by the BHP Foundation in partnership with the UK's EEF... capital exercises power by masking policy agendas beneath the veneer of evidence-based objectivity."*
@@ -175,5 +173,5 @@ updated: 2026-09-22
 > | [[Australian Education Research Organisation]] | 机构事实 | 基金会资助项目在澳大利亚直接催生并深度联结的官方证据旗舰。 |
 > | [[Evidence Ecosystem]] | 核心概念 | 基金会 5 年战略计划所致力于在全球范围内构建的[[Epistemic Governance\|知识治理]]形态。 |
 > | [[Strong Beginnings Report]] | 政策事实 | 基金会跨国中介网络最终落地并重塑澳大利亚教师教育的国家大纲文本。 |
-> | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe (2024)]] | 来源论证 | 系统批判必和必拓基金会异层治理与教师大纲重塑的核心社会学[[Document\|文献]]。 |
+> | [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe (2024)]] | 来源论证 | 系统批判必和必拓基金会异层治理与教师大纲重塑的核心社会学文献。 |
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] | 来源论证 | 系统阐发 EEF 携手必和必拓基金会构建跨国多中心证据生态的实证文献。 |

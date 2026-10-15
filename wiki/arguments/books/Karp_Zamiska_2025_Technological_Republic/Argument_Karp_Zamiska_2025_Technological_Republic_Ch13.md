@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch13"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch13"
 argument_display_title: "“Building a Better Rifle”"
 argument_kind: "book-chapter"
-argument_related_count: 14
+argument_related_count: 13
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#fef3c7"
@@ -41,7 +41,6 @@ related_concepts:
   - "[[Consumer Internet]]"
   - "[[Technological Republic]]"
   - "[[Red Tape]]"
-  - "[[Attrition]]"
 related_theories: []
 related_persons:
   - "[[Alexander Karp]]"
@@ -199,7 +198,7 @@ updated: 2026-10-08
 > | 比较维度 | 消费级互联网企业（如 Zynga、Groupon） | 专注于实体防务的技术企业（如[[Palantir Technologies\|帕兰提尔]]） |
 > |:---|:---|:---|
 > | **主要业务方向** | 社交休闲游戏（如《开心农场》）、本地商户团购折扣 | 大规模数据整合分析平台（Gotham、Foundry） |
-> | **资本市场表现** | 2011 年分别以 70 亿美元和 250 亿美元估值完成首次公开募股（Initial Public Offering, IPO），受到高度关注 | 业务不属于大众消费热点，一度面临行业质疑与人员[[Attrition\|流失]] |
+> | **资本市场表现** | 2011 年分别以 70 亿美元和 250 亿美元估值完成首次公开募股（Initial Public Offering, IPO），受到高度关注 | 业务不属于大众消费热点，一度面临行业质疑与人员流失 |
 > | **技术开发重点** | 关注用户点击量与线上消费转化 | 派遣技术人员前往前线实地环境，根据实际任务调整代码 |
 > | **后续发展结果** | 市场热度消退后部分企业估值大幅缩水 | 成为防务数据处理的重要技术支持，推动了采办模式转变 |
 

@@ -13,7 +13,7 @@ summary: "线性回归参数估计的最经典基准模型，通过最小化观�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 45
+method_related_count: 44
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Type I and Type II Errors]]"
   - "[[Epistemology]]"
   - "[[Independent Variable]]"
-  - "[[Hypothesis]]"
   - "[[Heterogeneity]]"
   - "[[Interaction Effect]]"
   - "[[Academic Achievement]]"
@@ -77,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Ordinary Least Squares
@@ -107,7 +106,7 @@ updated: 2026-10-10
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 建立在条件期望函数（Conditional Expectation Function, CEF）线性逼近论之上。假定复杂的现实因果与关联模式可通过[[Independent Variable\|自变量]]的线性组合进行局部最优逼近；在[[Causality\|因果推断]]视角下，若满足条件独立性假定（CIA），回归系数可被赋予净因果边际贡献的解释。
 > - **核心理论假定** 古典高斯-马尔可夫假定：线性函数设定、设计矩阵列满秩（无完全多重共线性）、条件均值为零（严格外生性 $E[\varepsilon|\mathbf{X}] = 0$）、球形扰动项（同方差性 $\text{Var}(\varepsilon_i|\mathbf{X}) = \sigma^2$ 与无自相关 $\text{Cov}(\varepsilon_i, \varepsilon_j|\mathbf{X}) = 0$）。
-> - **有效性标准** 估计量的无偏性取决于外生性假定；有效性（BLUE）取决于球形扰动；[[Hypothesis\|假设]]检验有效性依赖残差正态性或渐进正态性。
+> - **有效性标准** 估计量的无偏性取决于外生性假定；有效性（BLUE）取决于球形扰动；假设检验有效性依赖残差正态性或渐进正态性。
 > - **不声称回答的问题** 不能在存在遗漏[[Variable\|变量]]混杂或逆向因果的非实验数据中直接宣称因果；不能在未校正群聚相关的多层嵌套数据中直接套用常规[[Standard Error\|标准误]]。
 
 > [!contrast-table] OLS vs 加权/广义最小二乘（WLS/GLS） vs [[Hierarchical Linear Model\|多层线性模型]]（HLM）
@@ -246,7 +245,7 @@ updated: 2026-10-10
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Simple Difference in Means Model]] | 前置/基准方法 | 无协[[Variable\|变量]]时的 OLS 特例，两者构成方差吸收与功效提升的鲜明对比。 |
-> | [[Hierarchical Linear Model]] | 进阶模型 | 突破 OLS 独立同分布[[Hypothesis\|假设]]、显式建模层级嵌套结构的现代高级回归模型。 |
+> | [[Hierarchical Linear Model]] | 进阶模型 | 突破 OLS 独立同分布假设、显式建模层级嵌套结构的现代高级回归模型。 |
 > | [[Covariate Adjustment]] | 核心技术 | OLS 在 [[Randomised Controlled Trials\|RCT]] 中作为吸收基线变异、校正偶然不平衡的主要统计载体。 |
 > | [[Analysis of Covariance]] | 等价形式 | OLS 纳入类别处理变量与连续[[Pre-test and Post-test\|前测]]变量时的经典[[Analysis of Variance\|方差分析]]表达形式。 |
 > | [[Standard Error]] | 推断基础 | OLS 参数推断的核心指标，在嵌套数据中易发生系统性低估。 |

@@ -8,7 +8,7 @@ aliases:
 summary: "在高度复杂与不确定情境下，通过持续监测、多方学习与动态调整来防范路径锁定的现代治理模式"
 type: concept
 domain: "science-policy"
-related_count: 17
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,12 +24,10 @@ related_concepts:
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Scientific Uncertainty]]"
   - "[[Problem Finding]]"
-  - "[[Hypothesis]]"
   - "[[Open-Mindedness]]"
   - "[[Network Governance]]"
   - "[[New Public Management]]"
   - "[[Performance Indicators]]"
-  - "[[Document]]"
   - "[[Regulatory Sandbox]]"
   - "[[Grand Challenges]]"
 related_theories:
@@ -43,7 +41,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-10-03
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Reflexive Governance
@@ -56,7 +54,7 @@ updated: 2026-10-09
 > **[[Reflexivity|反思性]]治理（Reflexive Governance）** 是由扬-彼得·福斯（Jan-Peter Voß）与巴斯蒂安·博内曼（Bastien Bornemann）等学者在可持续转型与科技政策中系统发展的治理理论[[Paradigm|范式]]，并在伊里斯·万岑伯克（Iris Wanzenböck）等人的研究中被确立为[[Mission-Oriented Innovation Policy|使命导向创新政策]]的核心机制。它指面对具有高度[[Scientific Uncertainty|认知不确定性]]、价值争议与复杂系统关联的社会转型挑战时，治理主体放弃确定性预测与刚性自上而下规划，通过制度化嵌入多方参与审议、持续实证监测、跨领域社会学习与小步渐进试验，动态反思并调整公共[[Problem Finding|问题界定]]与技术方案选择，从而防范系统过早陷入不可逆的[[Path Dependence|技术锁定]]与合法性赤字。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 485–487)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 将政策制定本身视为一个持续的反思、探索与纠偏实验，强调对政策[[Hypothesis|假设]]、外部次生效应及替代方案的[[Open-Mindedness|开放性]]审视。
+> - **含义** 将政策制定本身视为一个持续的反思、探索与纠偏实验，强调对政策假设、外部次生效应及替代方案的[[Open-Mindedness|开放性]]审视。
 > - **用途** 为高风险、前沿科技以及深层绿色转型政策提供一种兼具战略方向性与高度制度弹性的新型治理架构。
 > - **边界** 严格区别于单纯的学者个体方法论自我审视（Methodological Reflexivity）或危机发生后的被动政策修补；它是全周期、制度化嵌入的组织与[[Network Governance|网络治理]]模式。
 
@@ -76,10 +74,10 @@ updated: 2026-10-09
 > [!contrast-table] 治理模式演化特征对比
 > | 维度 | 传统经典科层管制 | [[New Public Management\|新公共管理]]模式 | [[Reflexivity\|反思性]]治理模式 |
 > |---|---|---|---|
-> | **认知[[Hypothesis\|假设]]** | 完全理性与技术确定性 | 市场竞争与价格信号有效 | 根本不确定性与价值多元冲突 |
+> | **认知假设** | 完全理性与技术确定性 | 市场竞争与价格信号有效 | 根本不确定性与价值多元冲突 |
 > | **决策机制** | 官僚层级自上而下刚性指令 | 绩效承包、外包与指标考核 | 转型竞技场、多方审议与小步试验 |
 > | **应对不确定性** | 强化预测与行政规制 | 引入竞争机制分散风险 | 持续学习、动态监控与纠偏重构 |
-> | **代表[[Document\|文献]]** | Weber (1922) | Hood (1991) | Voß & Bornemann (2011); [[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020)]] |
+> | **代表文献** | Weber (1922) | Hood (1991) | Voß & Bornemann (2011); [[Argument_Wanzenbock_2020_SPP\|Wanzenböck et al. (2020)]] |
 
 ---
 

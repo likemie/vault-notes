@@ -7,7 +7,7 @@ aliases:
 summary: "以异质性小组为基本组织形式，依托积极互赖、面对面互动与个体责任协同促进学生学业成就、高阶思维与社会情感发展的社会建构主义教学范式；二阶元分析证实其对多维产出具有稳健促进效应（ES = 0.71），高阶思维赋能最为突出（ES = 0.76），并受具体技术与学科情境显著调节。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 42
+related_count: 40
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Higher-Order Thinking Skills]]"
   - "[[Structured Teaching]]"
   - "[[Paradigm]]"
-  - "[[Teaching Assistant]]"
   - "[[Task Structure]]"
   - "[[Individualised Instruction]]"
   - "[[Wicked Problem]]"
@@ -42,7 +41,6 @@ related_concepts:
   - "[[Sampling Error]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Problem Solving]]"
-  - "[[Document]]"
   - "[[Critical Thinking]]"
   - "[[Creativity]]"
 related_theories: []
@@ -67,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Cooperative Learning
@@ -81,7 +79,7 @@ updated: 2026-10-08
 
 > [!concept-lens] 概念透镜
 > - **含义** 以小群体的社会化互动与认知协商为载体，将个体学业成功与同伴成功深度绑定的[[Structured Teaching\|结构化教学]]组织[[Paradigm\|范式]]。
-> - **用途** 帮[[Teaching Assistant\|助教]]育研究者与一线教师超越传统单向灌输式讲授法，通过异质性同伴互动协同促进学生的学业考试成绩、高阶思维品质与社会人际技能。
+> - **用途** 帮助教育研究者与一线教师超越传统单向灌输式讲授法，通过异质性同伴互动协同促进学生的学业考试成绩、高阶思维品质与社会人际技能。
 > - **边界** 合作学习区别于无结构约束的自发小组讨论（Unstructured Group Work），也不同于去中心化且赋予学生完全自主决策权的协作学习（Collaborative Learning）。
 
 > [!citation-card]- 经典界定与代表性表述
@@ -209,7 +207,7 @@ updated: 2026-10-08
 > > 传统[[Meta-analysis\|元分析]]常认为理科（数学、自然科学）等结构化任务更适合合作学习，而新近二阶综合显示语言学科效应极高，但体育与动作技能领域效应微弱，引发关于合作任务与学科知识形态匹配度的广泛争论。
 > >
 > > - **Kyndt et al. (2013)** 认为理科任务具有明确结构层级，更有利于同伴协作分工。
-> > - **[[Argument_Gungor_2026_CP\|Güngör et al. (2026)]]** 指出语言与社会学科表现出高[[Effect Size\|效应量]]，但当前一阶元分析存在严重的软科学[[Document\|文献]]匮乏偏倚，亟待补充高水平系统综合。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 10–11)]]
+> > - **[[Argument_Gungor_2026_CP\|Güngör et al. (2026)]]** 指出语言与社会学科表现出高[[Effect Size\|效应量]]，但当前一阶元分析存在严重的软科学文献匮乏偏倚，亟待补充高水平系统综合。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 10–11)]]
 >
 > > [!axis] 实验设计控制与真实教学情境的[[Paradigm\|范式]]冲突
 > > 严格[[Random Assignment\|随机化]]实验（[[Randomised Controlled Trials\|随机对照试验]]，RCT）与课堂准实验在合作学习评价上呈现截然相反的结论，引发关于证据层级与[[Ecological Validity\|生态效度]]的学术争鸣。

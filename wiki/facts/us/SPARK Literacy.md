@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 10
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -27,7 +27,6 @@ tags:
   - essa-strong
   - region/us
 related_concepts:
-  - "[[Attrition]]"
   - "[[Direct Instruction]]"
   - "[[Response to Proven Instruction]]"
 related_theories: []
@@ -46,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-03
+updated: 2026-10-15
 ---
 
 # SPARK Literacy
@@ -62,7 +61,7 @@ updated: 2026-10-03
 > - **立项时间与周期** 创立于 2010 年，依托联邦服务与社区参与基金（CNCS / AmeriCorps）专项支持，在密尔沃基高贫困城市小学网络深度运行至今逾十余年。
 > - **发起方与资助机制** 男孩女孩俱乐部牵头运营，联合联邦全美服务队（AmeriCorps）津贴拨款与慈善基金会协同资助。
 > - **覆盖范围与对象** 密尔沃基等城市公立小学学前班至二年级学生中，处于全校阅读成绩后 20% 的高危低收入与少数族裔儿童。
-> - **核心问题导向** 探索如何克服传统无偿志愿者[[Attrition\|流失]]率高、出勤不稳、专业度不足的结构性缺陷，通过微额生活津贴打造一支高依从度、全职化的青年辅导师资梯队。
+> - **核心问题导向** 探索如何克服传统无偿志愿者流失率高、出勤不稳、专业度不足的结构性缺陷，通过微额生活津贴打造一支高依从度、全职化的青年辅导师资梯队。
 
 ---
 
@@ -108,7 +107,7 @@ updated: 2026-10-03
 
 > [!finding-cards] 核心实证结论
 > - **优异的标准化因果学业[[Effect Size\|效应量]]** 在独立因果评估中，接受 SPARK 辅导的学生在 STAR Reading 等独立标准化测验上取得了平均 $+0.51$ 的高因果效应量，达 [[Every Student Succeeds Act\|ESSA]] Strong 强证据等级。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
-> - **出勤稳定性与依从度的质的飞跃** 相比传统纯义务志愿者，有偿服务队成员由于享有官方津贴与组织荣誉感，全年辅导依从度达到 95% 以上，彻底克服了志愿服务普遍存在的[[Attrition\|流失]]断档困境。
+> - **出勤稳定性与依从度的质的飞跃** 相比传统纯义务志愿者，有偿服务队成员由于享有官方津贴与组织荣誉感，全年辅导依从度达到 95% 以上，彻底克服了志愿服务普遍存在的流失断档困境。
 > - **城市高贫困社区的双赢效应** 既大幅提升了极度贫困儿童的基础读写能力，又为大批有志于从事教育事业的青年人才提供了高质量的实战浸润平台。
 
 > [!stat-cards]- 关键实证数据

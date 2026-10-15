@@ -9,7 +9,7 @@ aliases:
 summary: "由罗伯特·皮安塔等人开发的高推论课堂外部观察评价系统，通过聚焦师生动态互动过程，涵盖情感支持、班级组织与教学支持三大核心领域及十个具体维度，采用7点行为锚定量规系统量化K-12全学段课堂教学质量，广泛应用于学前与基础教育研究、教师专业发展及有效教学效度检验。"
 type: instrument
 instrument_type: observation-tool
-instrument_related_count: 12
+instrument_related_count: 11
 instrument_related_level: 2
 instrument_related_stars: "⭐⭐"
 instrument_related_color: "#cffafe"
@@ -39,7 +39,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Classroom Observation]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments:
   - "[[Teach Classroom Observation Tool]]"
@@ -99,7 +98,7 @@ CLASS 将复杂的课堂师生互动解构为三大支柱领域与十个核心�
 > [!observation-focus] CLASS 核心观察维度重点
 > <span class="instrument-observation-table-marker" aria-hidden="true"></span>
 >
-> | 编号 | 观察维度 | 观察重点 | 记录方式 | 判定或[[Coding in Qualitative Research\|编码]] | 来源 |
+> | 编号 | 观察维度 | 观察重点 | 记录方式 | 判定或编码 | 来源 |
 > |---|---|---|---|---|---|
 > | 1 | 情感支持 | 师生彼此尊重、温暖言语、积极同伴关系与情绪共鸣 | 连续观察（15–20 分钟片段） | 1–7 行为等级（低/中/高） | Pianta et al. (2008) |
 > | 2 | 班级组织 | 明确的行为期望指引、课堂过渡流畅性与学习时间利用 | 连续观察（15–20 分钟片段） | 1–7 行为等级（低/中/高） | 同上 |

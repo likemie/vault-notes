@@ -10,7 +10,7 @@ summary: "源自人类学与社会学的质性研究设计，要求研究者在�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 65
+method_related_count: 62
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -34,10 +34,8 @@ related_concepts:
   - "[[Emic and Etic]]"
   - "[[Discourse]]"
   - "[[Artefact]]"
-  - "[[Hypothesis]]"
   - "[[Emergence]]"
   - "[[Doxa]]"
-  - "[[Document]]"
   - "[[Operationalization]]"
   - "[[Informed Consent]]"
   - "[[Hawthorne Effect]]"
@@ -72,7 +70,6 @@ related_methods:
   - "[[Theoretical Sampling]]"
   - "[[Purposeful Sampling]]"
   - "[[Snowball Sampling]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Questionnaire]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Case Study]]"
@@ -155,11 +152,11 @@ updated: 2026-10-15
 
 > [!feature] 有效民族志的11条操作性标准（Spindler & Spindler, 1992）
 > 1. 观察在即时情境与宏观语境中均具相关性；
-> 2. [[Hypothesis|假设]]在田野中动态[[Emergence|涌现]]；
+> 2. 假设在田野中动态[[Emergence|涌现]]；
 > 3. 事件经过长期且重复观察以确保可靠；
 > 4. 推断始终服务于主位视角；
 > 5. 以阐明社会文化[[Tacit Knowledge|隐性知识]]为核心任务；
-> 6. 工具与[[Coding in Qualitative Research|编码]]现场生成；
+> 6. 工具与编码现场生成；
 > 7. 蕴含跨文化比较视角；
 > 8. 将[[Doxa|不言自明]]的默会实践显性化；
 > 9. 提问绝不预设封闭答案；
@@ -173,7 +170,7 @@ updated: 2026-10-15
 > [!proc] 民族志探究阶段与关键操作
 > 1. **确定文化群体与研究领域** 选定具有稳定文化互动的现场，建立初始研究兴趣。
 > 2. **管理准入与角色定位** 识别[[Gatekeepers|守门人]]，协商进入协议，逐步完成从“陌生人”到“被接纳者”的角色演进。
-> 3. **长期田野沉浸与多源数据收集** 以[[Participant Observation|参与观察]]为主轴，细致记录[[Field Notes|田野笔记]]，穿插[[In-depth Interview|深度访谈]]与[[Document|文献]]搜集。
+> 3. **长期田野沉浸与多源数据收集** 以[[Participant Observation|参与观察]]为主轴，细致记录[[Field Notes|田野笔记]]，穿插[[In-depth Interview|深度访谈]]与文献搜集。
 > 4. **主位梳理与[[Progressive Focussing|逐步聚焦]]** 运用[[Domain Analysis|领域分析]]与主位范畴归纳，发现负面案例，不断修正理解。
 > 5. **撰写[[Rich and Thick Description|厚描述]]报告与[[Reflexivity|反身性]]审视** 呈现多重声音，公开研究者自身的互动位置与局限。
 
@@ -235,7 +232,7 @@ updated: 2026-10-15
 > |:-----|:----------------------|:----------------------|:---------------------------|
 > | **研究焦点** | 文化共享群体的整体价值、行为与[[Discourse\|话语]]模式。 | 具有明确时空边界的特定个案（事件、项目或机构）。 | 聚焦某一核心社会过程，提炼中层理论模型。 |
 > | **田野驻留** | 必须长期沉浸驻留于自然生活情境。 | 视个案需要而定，可以长期亦可短期多次收集。 | 以[[Saturation\|理论饱和]]为终止准则，不强调单一现场长期生活。 |
-> | **核心证据** | 主位视角的[[Rich and Thick Description\|厚描述]]、生活史与仪式实践。 | 多源证据围绕个案议题的[[Triangulation\|三角互证]]。 | 严格按三级[[Coding in Qualitative Research\|编码]]体系从文本中提炼的概念关系图。 |
+> | **核心证据** | 主位视角的[[Rich and Thick Description\|厚描述]]、生活史与仪式实践。 | 多源证据围绕个案议题的[[Triangulation\|三角互证]]。 | 严格按三级编码体系从文本中提炼的概念关系图。 |
 
 > [!entry-map]
 >

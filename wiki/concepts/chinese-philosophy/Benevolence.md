@@ -7,7 +7,7 @@ aliases:
 summary: "儒学核心概念，指通过终身修养达到的最高道德境界，超越具体德目（如孝、礼），代表最真诚、最完整的人性实现。"
 type: concept
 domain: "chinese-philosophy"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,7 +18,6 @@ tags:
 - field/chinese-philosophy
 - theme/learning
 related_concepts:
-  - "[[Ritual Propriety]]"
   - "[[Four Sprouts]]"
   - "[[Open-Mindedness]]"
   - "[[Creativity]]"
@@ -40,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-09-23
+updated: 2026-10-15
 ---
 
 # Ren
@@ -48,7 +47,7 @@ updated: 2026-09-23
 ## 定义
 
 > [!info]
-> Ren（仁）是儒学的最高道德概念，指一个人通过终身修养达到的最真诚、最完整、最富人性的道德境界。它超越任何单一德目（如孝、[[Ritual Propriety\|礼]]、义），是[[Confucian Learning Tradition\|儒家学习传统]]的终极目标。
+> Ren（仁）是儒学的最高道德概念，指一个人通过终身修养达到的最真诚、最完整、最富人性的道德境界。它超越任何单一德目（如孝、礼、义），是[[Confucian Learning Tradition\|儒家学习传统]]的终极目标。
 
 > [!quote]
 > Ren 在仅约 55 页的《论语》碎片化段落中出现了 105 次，足见其核心地位([[Argument_Li_2012_Cambridge\|Li, 2012, p.41]])。Li 将 ren 概括为：
@@ -76,7 +75,7 @@ updated: 2026-09-23
 
 > [!note]-
 > - **[[Confucius\|孔子]]（551–479 BCE）** 奠定 ren 作为最高道德目标，强调**为仁由己**——追求 ren 是个人自主选择的终身志业([[Argument_Li_2012_Cambridge\|Li, 2012, p.41]])
-> - **[[Mencius\|孟子]]（ca. 372–289 BCE）** 以[[Four Sprouts\|四端]]说为 ren 提供人性论基础——恻隐之心 → 仁；羞恶之心 → 义；辞让之心 → [[Ritual Propriety\|礼]]；是非之心 → 智([[Argument_Li_2012_Cambridge\|Li, 2012, pp.42-43]])
+> - **[[Mencius\|孟子]]（ca. 372–289 BCE）** 以[[Four Sprouts\|四端]]说为 ren 提供人性论基础——恻隐之心 → 仁；羞恶之心 → 义；辞让之心 → 礼；是非之心 → 智([[Argument_Li_2012_Cambridge\|Li, 2012, pp.42-43]])
 > - **[[Neo-Confucianism\|宋明理学]]** [[Cheng Brothers\|程颢]]、程颐兄弟将 ren 与天理关联，认为循道即达仁。[[Zhu Xi\|朱熹]]整合格物致知为达成仁的必要步骤([[Argument_Li_2012_Cambridge\|Li, 2012, pp.43-44]])
 > - **[[Wang Yangming\|王阳明]]（1472–1529）** 强调仁源于人的内在良知（致良知），而非外在的天理，主张知行合一([[Argument_Li_2012_Cambridge\|Li, 2012, p.44]])
 

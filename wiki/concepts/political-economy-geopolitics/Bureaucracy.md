@@ -9,7 +9,7 @@ aliases:
 summary: "指基于明确的职能分工、自顶向下的层级节制、非人格化的成文规则与专业化职业考核建立的理性化组织与治理形态；在古典社会学中被视作现代性理性化效率的基石，而在公共选择学派与当代实战工程治理论证（卡普与扎米斯卡，2025）中，科层制被批判为容易滋生自利性层级设卡、微观地位固化、会议工业复合体、制度性顺从偏好、公共采办定制垄断及避险自保机制，严重阻碍一线自适应创新与快速交付。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 44
+related_count: 43
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Steering at a Distance]]"
   - "[[Block Grants]]"
-  - "[[Attrition]]"
   - "[[Constructive Disobedience]]"
   - "[[Technological Republic]]"
   - "[[Network Governance]]"
@@ -74,7 +73,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-13
+updated: 2026-10-15
 ---
 
 # Bureaucracy
@@ -231,7 +230,7 @@ updated: 2026-10-13
 > |---|---|---|---|
 > | **古典理性化效能命题** | 依据专业分工与规章程序实现大规模稳定与可预测管理 | 工业化大生产、标准化公共行政、常规司法体系 | Weber, M. |
 > | **宏观中介阻滞批判命题** | 层级设卡与免责内耗阻断信息流动，扼杀高敏捷创新与自适应力 | 颠覆性技术研发、大国地缘科技竞争、前线作战系统迭代 | Tullock, G.; [[Alexander Karp\|Karp, A. C.]] & [[Nicholas Zamiska\|Zamiska, N. W.]] |
-> | **微观地位与会议病理命题** | 地位特权固化与会议工业复合体抽干智力，导致实干人才逆向[[Attrition\|流失]] | 大型跨国公司、官僚化研究机构、传统防卫型企业 | [[Alexander Karp\|Karp, A. C.]] & [[Nicholas Zamiska\|Zamiska, N. W.]] |
+> | **微观地位与会议病理命题** | 地位特权固化与会议工业复合体抽干智力，导致实干人才逆向流失 | 大型跨国公司、官僚化研究机构、传统防卫型企业 | [[Alexander Karp\|Karp, A. C.]] & [[Nicholas Zamiska\|Zamiska, N. W.]] |
 > | **顺从文化与平庸之恶批判命题** | 制度性偏好唯命是从与礼貌合规，压制[[Constructive Disobedience\|建设性不服从]]并诱发平庸之恶与灾难性失明 | 航天安全审查、危机应对指挥、前沿技术攻坚 | [[Alexander Karp\|Karp, A. C.]] & [[Nicholas Zamiska\|Zamiska, N. W.]] |
 > | **公共采办定制垄断批判命题** | [[Red Tape\|繁文缛节]]与避险自保割裂开发者—用户连接，造成天量浪费与战备脱节 | 国防采办改革、政府采购现代化、[[Commercial Off-The-Shelf\|商用现货]]准入 | Glenn, J.; [[Alexander Karp\|Karp, A. C.]] & [[Nicholas Zamiska\|Zamiska, N. W.]] |
 > | **多理性网络科层失灵命题** | 揭示单中心科层指令在多重理性网络中的失能，论证向间接操纵治理范式转型的必然性 | 比较公共行政、高等教育体制改革、复杂政策网络协调 | [[Argument_Kickert_1995_Governance\|Kickert (1995)]] |

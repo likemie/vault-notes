@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 45
+fact_related_count: 44
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[Implementation Fidelity]]"
   - "[[Tracking]]"
   - "[[Grade Retention]]"
-  - "[[Document]]"
   - "[[Academic Achievement]]"
   - "[[Master Protocol]]"
   - "[[Evidence Standards]]"
@@ -81,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-04
+updated: 2026-10-15
 ---
 
 # Success for All
@@ -111,7 +110,7 @@ updated: 2026-10-04
 > - **覆盖对象** K–5 年级全体学生，重点聚焦 [[Title I of the Elementary and Secondary Education Act\|Title I]] 资助的高贫困率、高少数族裔比例公立小学。
 > - **核心教学干预体系（RTPI 三层架构）**
 >   - **TIER 1（全班核心教学）** 每日 90 分钟高度结构化的读写课程，整合[[Cooperative Integrated Reading and Composition\|合作整合阅读与写作]]（CIRC）、显性自然拼读、音素意识与[[Metacognition\|元认知]]阅读理解策略；
->   - **Tier 2（小组定向辅导）** 针对全班教学中跟进困难的学生，由经认证的教学[[Teaching Assistant\|助教]]（Teaching Assistant, TA）提供每日 20 分钟的小组（1:2–6）针对性强化（如 [[Lightning Squad]] 计算机辅助协作阅读）；
+>   - **Tier 2（小组定向辅导）** 针对全班教学中跟进困难的学生，由经认证的教学助教（[[Teaching Assistant]], TA）提供每日 20 分钟的小组（1:2–6）针对性强化（如 [[Lightning Squad]] 计算机辅助协作阅读）；
 >   - **Tier 3（密集个别化辅导与家庭支持）** 针对严重阅读困难学生提供专业教师 1 对 1 辅导（如 [[Reading Recovery]] / [[Reading Rescue]]），并由全校“家庭支持团队（Family Support Team）”介入解决出勤、健康与社会情感困境。
 > - **实施控制机制** 严格实行干预方案标准化配置、季度性学习进度监测与动态重组走班制。
 
@@ -137,7 +136,7 @@ updated: 2026-10-04
 > [!actor-grid] 实施协同矩阵
 > - **研发与督导方（JHU CRRE / SFA 基金会）** 负责教材教具编制、全国实证数据追踪及派遣全职驻校教练（Coaches）开展常态化磨课。
 > - **学校管理层与全校教师** 全员参与每年多轮专业培训；在 80% 民主投票赞成后全面重组课表，严格执行每日 90 分钟读写大块时间。
-> - **教学[[Teaching Assistant\|助教]]与辅导师** 经考核认证后执行 TIER 2 与 Tier 3 的小组/个别化辅导，每日记录学生诊断数据并动态向主讲教师反馈。
+> - **教学助教与辅导师** 经考核认证后执行 TIER 2 与 Tier 3 的小组/个别化辅导，每日记录学生诊断数据并动态向主讲教师反馈。
 > - **家庭支持团队与社区** 协调家长参与家庭阅读计划，跟踪解决长期缺勤与处境不利儿童的家庭社会性支持。
 
 > [!pathways]- 实施路径与管理机制
@@ -158,7 +157,7 @@ updated: 2026-10-04
 > | 审查维度 | [[What Works Clearinghouse\|WWC]] (联邦官方) | [[Best Evidence Encyclopedia\|BEE]] (JHU/Slavin) | [[Blueprints for Healthy Youth Development\|Blueprints]] | [[Social Programs That Work\|SPTW]] (Arnold) | [[Clearinghouse for Military Family Readiness Continuum of Evidence\|CMFR]] / [[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|CEBC]] |
 > |:---|:---|:---|:---|:---|:---|
 > | **底线评级** | **分域评定**<br>(Positive 至 Mixed) | **Strong Evidence**<br>(基础版加权 $ES=+0.29$) | **Promising（有望）**<br>(二级认证) | **Top Tier / Promising**<br>(唯 RCT 严谨认证) | **Level 2 (Supported) / Effective** |
-> | **合格[[Document\|文献]]池规模** | 纳入 **9 项研究** | 合成 **23 项研究** (初读综述) | 审查 16 项，**仅认证 1 项** | 纳入 **6 项研究** | 纳入 **8 项研究** |
+> | **合格文献池规模** | 纳入 **9 项研究** | 合成 **23 项研究** (初读综述) | 审查 16 项，**仅认证 1 项** | 纳入 **6 项研究** | 纳入 **8 项研究** |
 > | **对核心 [[Randomised Controlled Trials\|RCT]] (Borman 2007) 的审视** | 认定为高质量集群 RCT，认可其在大规模多学区样本中的提分效果。 | 作为元分析核心证据；估算阅读总分效应量在 $+0.25$ 至 $+0.33\text{ SD}$ 之间。 | 认证该 RCT，但**指出其缺乏长期随访且种族/族裔基线等值存疑**。 | 认证该 RCT，**完全认可其基线等值性与随访期**。 | 认可该项 RCT 及后续多中心跟踪研究。 |
 > | **微观结果域穿透** | 分域极化：拼读评为 Positive；流畅度评为 Potentially Positive；阅读理解与总分评为 Mixed。 | 未按微观测验子项拆分，采用标准化学业总分进行[[Meta-analysis\|元分析]]合成。 | 项目级整体评级（聚焦整体阅读与[[Academic Achievement\|学业成就]]）。 | 项目级整体评级（要求在标准化阅读测验上达标）。 | 整体项目评级（作为军属与儿童福利推荐方案）。 |
 > | **项目变体分层** | 未对多语变体作独立分层。 | 变体分层：基础读写方案评为 Strong；西英双语过渡版 $ES=+0.16$ 降为 Modest。 | 统一纳入[[Master Protocol\|主方案]]（Master Protocol）评估。 | 聚焦基础全校模式。 | 纳入基础模式。 |
@@ -195,7 +194,7 @@ updated: 2026-10-04
 
 > [!lessons] SFA 案型揭示的四大循证综合机制
 > [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024, p. 23)]] 指出，SFA 案例深刻展示了即使在全机构一致正向推荐的情境下，证据综合规则如何塑造评级形态：
-> - **合格证据池规模的极端剪刀差** Blueprints 仅认证 1 项 [[Randomised Controlled Trials\|RCT]]（Borman et al., 2007），而 BEE 合成了 23 项研究，两者[[Document\|文献]]量相差达 23 倍；
+> - **合格证据池规模的极端剪刀差** Blueprints 仅认证 1 项 [[Randomised Controlled Trials\|RCT]]（Borman et al., 2007），而 BEE 合成了 23 项研究，两者文献量相差达 23 倍；
 > - **对同一标杆 RCT 的质量审视分歧** SPTW 完全认可 Borman (2007) 的基线等值性，而 Blueprints 则挑出其缺乏长期随访与族裔基线失衡；
 > - **WWC 细分结果域穿透对项目形象的解构** WWC 拆分发现其语音拼读极强（Positive），但阅读理解为 Mixed，难以向校长传递单一强推荐信号；
 > - **[[Effect Size\|效应量]]阈值对项目变体的刚性排序** BEE 严格依据 $ES \ge +0.20$ 门槛将基础版评为 Strong，而将双语过渡版（$ES = +0.16$）降为 Modest。
@@ -213,7 +212,7 @@ updated: 2026-10-04
 > | [[Cooperative Integrated Reading and Composition]] | 教学模式 | SFA 全班读写教学（[[Top Institute for Evidence-Based Education Research\|TIER]] 1）所采用的核心[[Cooperative Learning\|合作学习]]技术模式。 |
 > | [[Response to Intervention]] | [[Didaktik\|教学理论]] | SFA 构建了以预防为导向的三层循证干预金字塔（[[Response to Proven Instruction\|RTPI]]）。 |
 > | [[Comprehensive School Reform Program]] | 联邦政策 | 1990 年代末联邦 CSR 拨款直接推动了 SFA 在全美数千所薄弱校的铺开。 |
-> | [[Educational Evidence Clearinghouses]] | 核心概念 | SFA 是检验多机构评价一致性、[[Document\|文献]]池差异与变体分层的代表案例。 |
+> | [[Educational Evidence Clearinghouses]] | 核心概念 | SFA 是检验多机构评价一致性、文献池差异与变体分层的代表案例。 |
 > | [[What Works Clearinghouse]] | 评价机构 | 对 SFA 开展微观分域审查，揭示了不同技能层面的差异化反应。 |
 > | [[Best Evidence Encyclopedia]] | 评价机构 | SFA 创立团队依托 JHU 设立的清算平台，将 SFA 列为强证据标杆。 |
 

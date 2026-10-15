@@ -10,7 +10,7 @@ summary: "质性与高推论实证观察中用于系统记录田野信息、微�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 37
+method_related_count: 35
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Construct]]"
   - "[[Predictive Validity]]"
   - "[[Class Size]]"
-  - "[[Hypothesis]]"
   - "[[Time on Task]]"
   - "[[Discourse]]"
   - "[[Research Question]]"
@@ -45,7 +44,6 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Classroom Observation]]"
   - "[[Qualitative Observation]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Field Notes]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Inter-Rater Reliability]]"
@@ -91,7 +89,7 @@ updated: 2026-10-15
 克雷斯韦尔与[[World Bank|世界银行]]分别从质性与定量双轨视角奠定了观察协议的规范。
 
 > [!citation-card] 克雷斯韦尔论[[Qualitative Observation|质性观察]]协议的双栏切分逻辑
-> 观察协议是质性研究者用于记录田野观察信息的物理工具。通常为单页纸，中间设计有一条垂直分隔线：左侧用于记录现场客观发生的参与者肖像、对话重构与特定事件等描述性笔记；右侧则用于记录研究者内心的个人反思、直觉印象、疑问与偏误警觉。这种结构强制将客体事实与主观阐释分立，为后续[[Coding in Qualitative Research|编码]]提供了可信的证据链。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 203)]]
+> 观察协议是质性研究者用于记录田野观察信息的物理工具。通常为单页纸，中间设计有一条垂直分隔线：左侧用于记录现场客观发生的参与者肖像、对话重构与特定事件等描述性笔记；右侧则用于记录研究者内心的个人反思、直觉印象、疑问与偏误警觉。这种结构强制将客体事实与主观阐释分立，为后续编码提供了可信的证据链。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, p. 203)]]
 >
 > *"An observation protocol is a form designed by the researcher before data collection that is used for taking [[Field Notes|fieldnotes]] during an observation... with a dividing line down the middle to separate descriptive notes from reflective notes."*
 
@@ -120,7 +118,7 @@ updated: 2026-10-15
 > - **研究设计层** 依从于[[Ethnography|民族志]]、[[Case Study|案例研究]]或大规模微观[[Classroom Observation|课堂观察]]评估设计。
 > - **工具载体层** 实体纸质单页分栏表、移动端数字采集表单（如 Teach 移动采集 App）。
 > - **记录规程层** 描述性笔记与反思性笔记物理分界、时间戳快照扫描、事实证据[[Transcription in Qualitative Research|转录]]。
-> - **质控与分析层** 文本主题[[Coding in Qualitative Research|编码]]、扎根分析、行为量规赋分、观察员双评信度复核。
+> - **质控与分析层** 文本主题编码、扎根分析、行为量规赋分、观察员双评信度复核。
 
 ---
 
@@ -148,7 +146,7 @@ updated: 2026-10-15
 > |---|---|---|---|
 > | **顶部表头** | 基础情境元数据 | 观察日期、起止时间、物理地点、参与者角色、物理环境简图 | 确立田野记录的时空锚点 |
 > | **左侧栏（占 60%）** | **描述性笔记**<br>（Descriptive Notes） | 参与者外貌肖像、对话[[Transcription in Qualitative Research\|逐字转录]]、特定互动事件过程、活动转换节奏 | 忠实还原客体现场所见所闻 |
-> | **右侧栏（占 40%）** | **反思性笔记**<br>（Reflexive Notes） | 研究者的个人感受、理论预感、方法论疑虑、自身偏误反省、即时[[Hypothesis\|假设]] | 显性化主体认知与[[Reflexivity\|反身性]]防偏 |
+> | **右侧栏（占 40%）** | **反思性笔记**<br>（Reflexive Notes） | 研究者的个人感受、理论预感、方法论疑虑、自身偏误反省、即时假设 | 显性化主体认知与[[Reflexivity\|反身性]]防偏 |
 > | **底部附注** | 场后综合备忘 | 关键疑问总结、下一次访谈需追问线索、突发事件后续跟进备忘 | 衔接后续研究设计与数据清洗 |
 
 ---

@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch06"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch06"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch06"
 argument_kind: "book-chapter"
-argument_related_count: 37
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -53,7 +53,6 @@ related_concepts:
   - "[[Boarding Schools]]"
 related_persons:
   - "[[Louis Mountbatten]]"
-  - "[[Paul Pierson]]"
   - "[[Hyman Rickover]]"
   - "[[Gerard Renaud]]"
   - "[[Gilbert Nicol]]"
@@ -70,8 +69,7 @@ related_facts:
   - "[[Education International]]"
 sources:
   - "[[books/Peterson_1987_OpenCourt/Peterson_1987_OpenCourt|Peterson_1987_OpenCourt]]"
-related_theories:
-  - "[[Theory of Mind]]"
+related_theories: []
 status: draft
 created: 2026-09-01
 updated: 2026-10-08
@@ -175,7 +173,7 @@ updated: 2026-10-08
 > - **联合国国际学校（UNIS）** 直接服务多国学生，国际资格与学校日常生源结构一致，因此不是额外附加项目，而是对既有办学问题的回应。
 > - **华盛顿国际学校** 联合创办人兼校长多萝西·古德曼（Dorothy Goodman）此后十年持续在 IB 各理事机构发挥重要作用，说明早期采用不仅依赖学校类型，也依赖能够连接学校与 IB 组织的个人推动者。
 > - **纽约英美学校与旧金山法美学校** 同样位于跨国人口流动明显的城市，为不同国别课程和大学资格之间的衔接提供了直接需求。
-> - **[[United World Colleges\|联合世界书院]]** 加拿大太平洋地区的[[Paul Pierson|皮尔逊]]联合世界书院与新墨西哥州美国西部的阿曼德·哈默联合世界书院后来加入，使[[International Education\|国际教育]]使命、寄宿制跨国生源和 IB 文凭形成高度一致的组合（p. 131）。
+> - **[[United World Colleges\|联合世界书院]]** 加拿大太平洋地区的皮尔逊联合世界书院与新墨西哥州美国西部的阿曼德·哈默联合世界书院后来加入，使[[International Education\|国际教育]]使命、寄宿制跨国生源和 IB 文凭形成高度一致的组合（p. 131）。
 
 > [!warrant]- 国际学校的适配性不能自动转化为普遍扩张
 > 上述学校需要一种能跨越国别课程和大学体系的共同资格，IB 因而解决了真实而持续的组织问题；但这种需求只集中在少量国际学校。若要扩大规模，IB 必须进入并非以跨国学生为主要对象的本国教育机构。接下来的两次尝试，实质上都在检验：国际学校之外的机构是否也有足够强的自身理由承担完整文凭课程。
@@ -381,7 +379,7 @@ updated: 2026-10-08
 > - **查尔斯·罗斯（Charles Rose）** 本为艺术史学者，在独立办公室形成前暂时担任执行官，维持从社区学院办事点向专职组织过渡。
 > - **[[Gilbert Nicol\|吉尔伯特·尼科尔]]（Gilbert Nicol）** 1977 年 8 月接替罗斯。其经历包括军事情报工作、1947 年获阿默斯特学院学士、1950 年获哥伦比亚大学法学学士、在普林斯顿负责三年发展工作，以及 1971—1976 年领导大学规划协会；这些经验直接对应教育规划、筹资和机构谈判。
 > - **斯蒂芬妮·伊斯勒（Stephanie Isler）** 后来在狭小的纽约办公室协助尼科尔，支撑学校数量快速增长时的日常行政工作。
-> - **汤姆·哈戈特（[[Theory of Mind\|ToM]] Hagoort）** 参与过华盛顿国际学校创办和 UNIS 搬迁，1980 年接替卡鲁斯领导 IBNA；他把北美学校快速增长视为 IBO 摆脱不可持续基金会资助、走向财务自立的[[Necessary and Sufficient Conditions\|必要条件]]（pp. 142–147）。
+> - **汤姆·哈戈特（ToM Hagoort）** 参与过华盛顿国际学校创办和 UNIS 搬迁，1980 年接替卡鲁斯领导 IBNA；他把北美学校快速增长视为 IBO 摆脱不可持续基金会资助、走向财务自立的[[Necessary and Sufficient Conditions\|必要条件]]（pp. 142–147）。
 
 > [!evidence-grid] 董事会构成如何为新法人赋予本地权威
 > - **公共教育经验：** 前纽约州教育专员进入董事会或学校—大学关系委员会，使 IBNA 能以熟悉州级教育治理的声音接触学区。

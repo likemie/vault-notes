@@ -42,9 +42,9 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Liliana Esther Olmos]]"
-  - "[[Carlos Alberto Torres]]"
   - "[[Anthony Giddens]]"
   - "[[Robert Arnove]]"
+  - "[[Carlos Alberto Torres]]"
 related_facts:
   - "[[World Bank]]"
   - "[[OECD]]"
@@ -67,7 +67,7 @@ updated: 2026-10-15
 > - **核心角色** 当代全球化研究中“变革论”（Transformationalism）学派的领头学者与[[Cosmopolitanism|世界主义]]民主（Cosmopolitan Democracy）模式的开创者；其关于全球化多维联结与民族国家主权渗透的经典界定，为批判比较教育学分析全球资本流动如何穿透国家边界、重塑教育治理与[[Disciplina and Doctrina|规训]]制度提供了奠基性[[Analytic Framework|分析框架]]。
 > - **代表贡献** 提出全球化五重核心机制维度模型（1991）；出版《政治理论与现代国家》（1989）、《民主的模式》（1987/2006）、《全球大变革：全球化时代的政治、经济与文化》（与麦克格鲁等合著，1999）。
 
-> [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]论赫尔德对全球化及其多维机制的界定
+> [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论赫尔德对全球化及其多维机制的界定
 > 全球化被界定为“世界范围内社会关系的强化，这种强化以一种使得地方性事件受到千里之外发生的事件所形塑、反之亦然的方式，将遥远的地方紧密联系在一起”。赫尔德指出，全球化是全球经济兴起、经济单元间跨国联结扩张形成新的集体决策形态、政府间及准超国家机构发展、跨国传播集约化以及全新区域和军事秩序建立的产物。全球化进程模糊了国家边界，转变了民族国家内部与相互间的认同。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–80)]]
 >
 > *Globalization has been defined as "the intensification of worldwide social relations which link distant localities in such a way that local happenings are shaped by events occurring many miles away and vice versa" (Held, 1991)... Held suggests that globalization is the product of the [[Emergence]] of a global economy, expansion of transnational linkages between economic units creating new forms of collective decision making, development of intergovernmental and quasi-supranational institutions, intensifications of transnational communications, and the creation of new regional and military orders.*
@@ -122,7 +122,7 @@ updated: 2026-10-15
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 开创了当代政治学与社会学关于全球化的变革论[[Paradigm|范式]]，与极端全球化论和怀疑论分庭抗礼；其多维机制分析为比较教育学者（如[[Robert Arnove|阿诺夫]]、[[Carlos Alberto Torres|托雷斯]]、戴尔）分析全球教育[[Policy Borrowing|政策借用]]与[[Disciplina and Doctrina|规训]]提供了结构支柱。
+> - **理论路径** 开创了当代政治学与社会学关于全球化的变革论[[Paradigm|范式]]，与极端全球化论和怀疑论分庭抗礼；其多维机制分析为比较教育学者（如[[Robert Arnove|阿诺夫]]、托雷斯、戴尔）分析全球教育[[Policy Borrowing|政策借用]]与[[Disciplina and Doctrina|规训]]提供了结构支柱。
 > - **方法路径** 倡导结合全球时空伸延（extensity）、集约度（intensity）、流速（velocity）与冲击度（impact propensity）四个维度开展跨国比较分析。
 > - **跨国／跨领域传播** 思想广泛渗透至国际关系、发展社会学、教育政治经济学与国际人权法领域，成为反思后主权国家治理的必读书目。
 

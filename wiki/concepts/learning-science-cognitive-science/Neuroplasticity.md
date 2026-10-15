@@ -5,7 +5,7 @@ aliases:
 summary: "神经系统在经验、练习和环境作用下持续改变连接、功能和组织方式的能力，用于说明学习、发展和适应具有动态生物基础。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 13
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,7 +26,6 @@ related_theories:
   - "[[Luhmann's Systems Theory]]"
 related_methods:
   - "[[Effect Size]]"
-  - "[[Coding in Qualitative Research]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -35,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: '2026-08-27'
+updated: 2026-10-15
 ---
 
 ## 定义
@@ -84,7 +83,7 @@ updated: '2026-08-27'
 
 > [!info] 理论基础
 > - 身体[[Phenomenology\|现象学]]（Thomas Fuchs）— 大脑作为"关系器官"（Beziehungsorgan），嵌入身体和世界的生态学视角([[Argument_Larsen_2019_EducSci\|Larsen, 2019, p.5-6]])
-> - [[Luhmann's Systems Theory]] — 社会沟通系统永远无法观察个体学生的心理系统，两个系统不共享[[Coding in Qualitative Research\|编码]]([[Argument_Larsen_2019_EducSci\|Larsen, 2019, p.4]])
+> - [[Luhmann's Systems Theory]] — 社会沟通系统永远无法观察个体学生的心理系统，两个系统不共享编码([[Argument_Larsen_2019_EducSci\|Larsen, 2019, p.4]])
 
 ## 争议与批评
 

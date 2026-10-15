@@ -11,7 +11,7 @@ aliases:
 summary: "将公共政策全生命周期解构为问题识别、议程设置、政策制定、政策合法化、政策实施与政策评估六个连贯阶段的分析框架，揭示政策制定的内在秩序、驱动力量以及实证研究证据与专业经验、政治价值的动态阶段权变整合机制"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 43
+theory_related_count: 40
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -34,16 +34,13 @@ related_concepts:
   - "[[Legislative Policy Brief]]"
   - "[[Academic Achievement]]"
   - "[[Technical Rationality]]"
-  - "[[Document]]"
   - "[[Operationalization]]"
   - "[[Competitiveness]]"
   - "[[Discourse]]"
   - "[[Research Question]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Independent Variable]]"
   - "[[Dependent Variable]]"
   - "[[Policy Network]]"
-  - "[[Hypothesis]]"
 related_theories:
   - "[[Navigational Framework for Educational Researchers]]"
   - "[[Punctuated Equilibrium Theory]]"
@@ -75,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Six-Stage Model of Policymaking
@@ -138,7 +135,7 @@ updated: 2026-10-10
 > **应用实例** 在美国中小学恢复性管教改革立法中，各阶段展现出清晰的驱动梯次：最初基层学校频发的恶性停课处分将管教不公推为公众痛点（阶段一）；媒体对零容忍政策导致高辍学率的曝光促使议题进入国会视野（阶段二）；国会教育委员会启动立法听证并由学者起草恢复性实践拨款条款（阶段三）；经过两党利益妥协作为综合法案一部分投票表决（阶段四）；联邦教育部下发歧视指导规程并在学区落实（阶段五）；最终学者对各校停课率及[[Academic Achievement|学业成绩]]开展长期评估（阶段六）。[[Argument_Serpell_2020_EP|(Serpell, 2020, p. 45)]]
 
 > [!theory-proposition] 命题二｜实证证据的形态与功能随政策生命周期发生阶段权变性演变
-> **解释** 传统的循证决策理论往往抱持[[Technical Rationality|技术理性]]假说，误以为学术研究能像工程图纸一样单向决定政策方案。然而，实证研究证据在政策生命周期中展现出强烈的阶段权变性：在前端阶段，证据主要充当概念性与象征性工具，与两党根本价值绑定以制造危机共识；在中端方案研制阶段，诉诸科学证据主要充当抵御外部政治与意识形态游说的技术护栏，且面对实证匮乏必须依赖专家的内在学科逻辑与一线教师的实践经验补位；在后端合法化阶段，宏观学术[[Document|文献]]退居幕后，高度[[Operationalization|操作化]]的逐条对标工具（Crosswalks）与财政激励成为促成表决的关键。实证研究永远无法脱离行动者的专业经验和政治价值而独立发挥作用。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 1–3, 18–19)]]; [[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 43–46)]]
+> **解释** 传统的循证决策理论往往抱持[[Technical Rationality|技术理性]]假说，误以为学术研究能像工程图纸一样单向决定政策方案。然而，实证研究证据在政策生命周期中展现出强烈的阶段权变性：在前端阶段，证据主要充当概念性与象征性工具，与两党根本价值绑定以制造危机共识；在中端方案研制阶段，诉诸科学证据主要充当抵御外部政治与意识形态游说的技术护栏，且面对实证匮乏必须依赖专家的内在学科逻辑与一线教师的实践经验补位；在后端合法化阶段，宏观学术文献退居幕后，高度[[Operationalization|操作化]]的逐条对标工具（Crosswalks）与财政激励成为促成表决的关键。实证研究永远无法脱离行动者的专业经验和政治价值而独立发挥作用。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 1–3, 18–19)]]; [[Argument_Serpell_2020_EP|(Serpell, 2020, pp. 43–46)]]
 >
 > **应用实例** 在美国[[Common Core State Standards|共同核心州立标准]]（CCSS）改革全流程中：在议程设置阶段，倡导者整合 [[National Assessment of Educational Progress|NAEP]] 及格鸿沟与 [[TIMSS]] 国际落差等宏观实证指标，同国家经济[[Competitiveness|竞争力]]和教育公平[[Discourse|话语]]绑定，打破百年分散标准的[[Punctuated Equilibrium Theory|政策垄断]]；在方案设计阶段，起草团队确立实证至上原则抵御利益集团谈判，面对高年级实证缺乏，依托数学家公理推演与 [[American Federation of Teachers|AFT]] 骨干教师连续两日物理剪裁条文完成定稿；在各州法定采纳阶段，学术论文淡出听证会，各州教委依靠智库制作的逐条对标报告（Crosswalks）与 43.5 亿美元[[Race to the Top|力争上游]]（RTTT）拨款窗口迅速完成法定采纳。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–18)]]
 
@@ -169,7 +166,7 @@ updated: 2026-10-10
 ## 转化为分析框架
 
 > [!theory-use] 框架入口
-> - **[[Research Question|研究问题]]** 重大教育改革政策如何经历从社会危机、方案拟定到法定采纳的全生命周期；实证研究证据在各个制度关口如何被选择、[[Transfer Translation Transformation|转译]]与动员。
+> - **[[Research Question|研究问题]]** 重大教育改革政策如何经历从社会危机、方案拟定到法定采纳的全生命周期；实证研究证据在各个制度关口如何被选择、转译与动员。
 > - **分析对象与单位** 政策事件序列、法案草案文本迭代、跨部门政治博弈网络、听证会专家证词与政策对标报告。
 > - **需要的材料** 国会或州议会听证记录、法案草案演化版本、政策简报、精英[[In-depth Interview|深度访谈]]证词、智库比对报告与[[Implementation and Process Evaluation|实施评估]]档案。
 > - **解释目标** 精准定位政策当前所处的制度节点，诊断证据利用的真实形态（概念性、象征性或工具性），解释阻碍政策通过的体制症结，并提出与该阶段相匹配的倡导策略。
@@ -203,14 +200,14 @@ updated: 2026-10-10
 > > [!axis] 线性阶段论 vs 动态网络流与间断均衡交锋
 > > 争论阶段启发式模型是否过度简化了政治过程的复杂性与突发性。
 > >
-> > - **保罗·萨巴[[Peter Thiel|蒂尔]]（Paul Sabatier, 1991, 1999）** 著名批判指出阶段模型缺乏严格因果理论支撑，将充满偶然性、重叠交错与利益撕裂的政治过程人为切割为单向推进的线性[[Hypothesis|假设]]，主张代之以倡导联盟框架（ACF）。
+> > - **保罗·萨巴[[Peter Thiel|蒂尔]]（Paul Sabatier, 1991, 1999）** 著名批判指出阶段模型缺乏严格因果理论支撑，将充满偶然性、重叠交错与利益撕裂的政治过程人为切割为单向推进的线性假设，主张代之以倡导联盟框架（ACF）。
 > > - **奥克利与塞佩尔等人（Oakley et al., 2013; [[Argument_Serpell_2020_EP|Serpell, 2020]]）** 辩护指出阶段模型的核心价值在于其作为启发式地图的强大指引力，代议制立法机构存在高度制度化的程序关卡，阶段模型为研究者提供了穿透政治迷雾的导航坐标。
 >
 > > [!axis]- [[Technical Rationality|技术理性]]单向驱动 vs 阶段权变的多源证据整合
 > > 争论循证决策究竟是科学证据自上而下的单向注入，还是多源证据在政治生命周期中的策略性共生。
 > >
 > > - **传统技术理性循证论者（Knowledge-driven）** 假设科学实证是中立真理，只要生产出高质量、严谨因果的科研成果，决策者就应当按图索骥落实为政策。
-> > - **阶段权变多源证据论者（[[Argument_McDonnell_2013_AJE|McDonnell & Weatherford, 2013]]）** 实证反驳指出纯粹科研[[Document|文献]]从未单独决定政策，科学证据必须随阶段任务演化形态，并与实践经验、地方工具和两党政治价值深度结合才能实现破局。
+> > - **阶段权变多源证据论者（[[Argument_McDonnell_2013_AJE|McDonnell & Weatherford, 2013]]）** 实证反驳指出纯粹科研文献从未单独决定政策，科学证据必须随阶段任务演化形态，并与实践经验、地方工具和两党政治价值深度结合才能实现破局。
 
 ---
 

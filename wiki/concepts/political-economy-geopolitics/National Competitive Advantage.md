@@ -8,7 +8,7 @@ aliases:
 summary: "波特提出的经典战略经济学理论，认为国家竞争优势并非由先天生产要素禀赋决定，而是通过高度本地化的产业集群、有效国内竞争、高标准需求与创新生态所共同创造与维持；在当代地缘经济学与现代产业政策中，该理论被进一步拓展为国家通过战略性干预主动重塑关键供应链韧性与科技主权的核心地缘想象与政策基石。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 36
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -35,7 +35,6 @@ related_concepts:
   - "[[Economic Patriotism]]"
   - "[[Innovation Park]]"
   - "[[Hub and Flow Imaginaries]]"
-  - "[[Attrition]]"
   - "[[Learning by Doing]]"
   - "[[Policy Conditionalities]]"
   - "[[Apprenticeship]]"
@@ -66,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-07
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # National Competitive Advantage
@@ -151,7 +150,7 @@ updated: 2026-10-09
 > 探讨当代大国如何通过现代产业战略应对制造业空心化与地缘竞争风险。
 
 > [!claim] [[Argument_Reynolds_2024_JICT|Reynolds (2024)]]
-> **战略制造回流与过程治理重塑竞争力** 埃利萨贝思·雷诺兹（Elisabeth B. Reynolds）指出，长期依赖离岸外包导致美国关键制造业产能严重[[Attrition|流失]]，削弱了国家在先进半导体、清洁能源与高端制造领域的国家竞争优势。21 世纪重塑国家竞争优势不仅需要通过三大法案（[[Infrastructure Investment and Jobs Act|IIJA]]、CHIPS、[[International Reading Association|IRA]]）动员数千亿美元公共资本以重建本土产业基础，更必须通过七项过程准则（保持部门内竞争、撬动私人投资、投资组合进路、[[Learning by Doing|干中学]]自适应调整、分阶段监测与资金追回）以及[[Policy Conditionalities|制度化附加条件]]（托儿服务、[[Apprenticeship|学徒制]]、社区利益计划），在提升生产率的同时防范政治寻租，实现高质量与包容性繁荣。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 1–6, 14–15)]]
+> **战略制造回流与过程治理重塑竞争力** 埃利萨贝思·雷诺兹（Elisabeth B. Reynolds）指出，长期依赖离岸外包导致美国关键制造业产能严重流失，削弱了国家在先进半导体、清洁能源与高端制造领域的国家竞争优势。21 世纪重塑国家竞争优势不仅需要通过三大法案（[[Infrastructure Investment and Jobs Act|IIJA]]、CHIPS、[[International Reading Association|IRA]]）动员数千亿美元公共资本以重建本土产业基础，更必须通过七项过程准则（保持部门内竞争、撬动私人投资、投资组合进路、[[Learning by Doing|干中学]]自适应调整、分阶段监测与资金追回）以及[[Policy Conditionalities|制度化附加条件]]（托儿服务、[[Apprenticeship|学徒制]]、社区利益计划），在提升生产率的同时防范政治寻租，实现高质量与包容性繁荣。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 1–6, 14–15)]]
 
 ---
 

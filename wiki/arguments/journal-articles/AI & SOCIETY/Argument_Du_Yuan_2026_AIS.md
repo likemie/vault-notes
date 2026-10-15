@@ -27,7 +27,6 @@ related_concepts:
   - "[[Epistemic Agency]]"
   - "[[Homework]]"
   - "[[Intelligent Tutoring Systems]]"
-  - "[[Document]]"
   - "[[Epistemology]]"
   - "[[Educational Affordances]]"
   - "[[Knowledge Production]]"
@@ -43,7 +42,6 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Brainstorming]]"
   - "[[Primary and Secondary Documents]]"
-  - "[[Hypothesis]]"
   - "[[Chain of Evidence]]"
   - "[[Heterogeneity]]"
   - "[[Paradigm]]"
@@ -59,7 +57,6 @@ related_concepts:
   - "[[Blended Learning]]"
   - "[[Research Question]]"
   - "[[AI Literacy]]"
-  - "[[Teaching Assistant]]"
   - "[[Student Engagement]]"
   - "[[Feedback]]"
   - "[[Determinism]]"
@@ -106,7 +103,7 @@ title: "Argument_Du_Yuan_2026_AIS"
 argument_key: "Argument_Du_Yuan_2026_AIS"
 argument_display_title: "Epistemic dependence in AI-mediated learning"
 argument_kind: "journal-article"
-argument_related_count: 69
+argument_related_count: 66
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -134,7 +131,7 @@ issuing_organization: ""
 > 外部技术依赖本身并非教育的失败，人类求知历来扎根于人际与工具的相互协作。教育的真正危机不在于学生使用了多少次技术，而在于使用过程中[[Evaluative Judgement\|评价性判断]]的最终裁决权是否被算法接管。应对技术依赖不能仅停留在事后防作弊与抓违规，而必须确立“关系性[[Epistemic Agency\|认识主体性]]”的新型规范认识理想，通过在人机交互中保留必要的思维摩擦、在[[Homework\|作业]]考核中前移至全流程思维追踪、在制度层面明确人机分工，切实守护学生独立负责的求知能力。（pp. 1–2, 7–8）
 
 > [!concept-lens] 阅读透镜
-> - **对象** 大语言模型（Large Language Model, LLM）、[[Intelligent Tutoring Systems\|智能导师系统]]与自动化评价工具全面介入的高等教育与日常学习场景，重点考察学生获取解释、综合多源[[Document\|文献]]、获取反馈与评估学业品质的求知过程。
+> - **对象** 大语言模型（Large Language Model, LLM）、[[Intelligent Tutoring Systems\|智能导师系统]]与自动化评价工具全面介入的高等教育与日常学习场景，重点考察学生获取解释、综合多源文献、获取反馈与评估学业品质的求知过程。
 > - **核心张力**
 >   - *工具论偏向与认识中介现实的张力* 传统教育讨论常把人工智能单纯当成提高效率的帮手或防范作弊的合规难题，忽视了智能系统正在实质性重构知识确证中分工关系的[[Epistemology\|认识论]]现实；
 >   - *合法认知减负与心智机能萎缩的张力* 外部技术中介确实能帮助人类卸载繁重的表层信息搜集负担，但如果算法的即时回答将原本具有探究价值的“思维摩擦”彻底抹去，学生反思监控与面对不确定性时的深入加工机能就会逐步退化。
@@ -163,7 +160,7 @@ issuing_organization: ""
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
 > | **方法性质**<br>Critical-Integrative Review | 采用[[Critical Review\|批判整合性综述（Critical-Integrative Review）]]方法，跨越教育人工智能、人机交互、认识论认知、信息行为、认知卸载与社会认识论等多学科视阈，开展概念综合与规范性论证。（pp.2–3） |
-> | **文献检索与遴选**<br>Literature Search and Corpus | 检索截至 2026 年 7 月收录于[[Education Resources Information Center\|教育资源信息中心]]（Education Resources Information Center, ERIC）与 Crossref 元数据中的核心[[Document\|文献]]，并辅以出版商平台定向检索与参考文献回溯，最终确立由 60 篇重要同行评议论著组成的分析语料。 |
+> | **文献检索与遴选**<br>Literature Search and Corpus | 检索截至 2026 年 7 月收录于[[Education Resources Information Center\|教育资源信息中心]]（Education Resources Information Center, ERIC）与 Crossref 元数据中的核心文献，并辅以出版商平台定向检索与参考文献回溯，最终确立由 60 篇重要同行评议论著组成的分析语料。 |
 > | **分析与综合策略**<br>Abductive and Contrastive Synthesis | 运用溯因与对比综合方法，提取既有文献中的情境条件、机制模型、依赖形态与教育后果，解构理论重叠并归纳出四条核心社会技术路径；通过与邻近文献开展边际贡献比对，明晰理论创新点。 |
 
 > [!sample-panel]- 样本与材料快照
@@ -221,7 +218,7 @@ issuing_organization: ""
 > [!contrast-table] 人工智能协助形态的类型与认识功能分层（p.4）
 > | 协助形态 | 核心操作范围 | [[Epistemology\|认识论]]要求与自主权归属 |
 > |---|---|---|
-> | **工具性／表征性协助**<br>(Instrumental / Representational Assistance) | [[Brainstorming\|头脑风暴]]方案生成、语法修正、跨语言翻译、[[Document\|文献]]初步检索与格式排版 | 属于表层心智负荷的物理延展，学术质量与正确性标准仍完全由学习者自主把控。 |
+> | **工具性／表征性协助**<br>(Instrumental / Representational Assistance) | [[Brainstorming\|头脑风暴]]方案生成、语法修正、跨语言翻译、文献初步检索与格式排版 | 属于表层心智负荷的物理延展，学术质量与正确性标准仍完全由学习者自主把控。 |
 > | **承载判断型协助**<br>(Judgement-Bearing Assistance) | 评价论据充分性、判定论证说服力、裁定伦理合规性以及鉴别学术质量高下 | 极具规范敏感性，学习者不仅外包了内容生产，更彻底移交了界定知识优劣的标准与裁决权。 |
 
 #### 2. 六维诊断标准明确划定生产性依赖与有害依赖的实质边界
@@ -234,7 +231,7 @@ issuing_organization: ""
 > | **可质疑性（Contestability）** | 学习者能够质疑、拒绝或修改系统结论；交互界面呈现多元选项，教学环境积极支持[[Reflexivity\|反思性]]争鸣。 | 系统输出被预设为默认标准或终局定论；产品界面、学校政策或考评方式实质上压制对算法的质疑。 |
 > | **可恢复性（Recoverability）** | 在减少或脱离技术辅助时，学习者依然能够自主复现核心推理路径、证据基础与分析规程。 | 学习者能够快速生成精致的[[Homework\|作业]]成品，却完全无法阐明该结论依据何种证据推导或如何获得证成。 |
 > | **可迁移性（Transfer）** | 当系统被撤除、算法基础规则变更或迁移至表层特征不同但逻辑相似的新任务时，能力得以保持或提升。 | 一旦脱离人工智能的技术支撑，或者遭遇表面形式稍有变动的陌生情境，实际解决表现发生断崖式瓦解。 |
-> | **可追溯性（Traceability）** | 知识主张能够清晰锚定至可供审查的[[Primary and Secondary Documents\|一手文献]]、前提[[Hypothesis\|假设]]、推论转化过程及认识不确定性。 | 综合文本彻底遮蔽了其[[Chain of Evidence\|证据链]]条与取舍标准，使学习者完全无法审计文献源头、偏倚与置信边界。 |
+> | **可追溯性（Traceability）** | 知识主张能够清晰锚定至可供审查的[[Primary and Secondary Documents\|一手文献]]、前提假设、推论转化过程及认识不确定性。 | 综合文本彻底遮蔽了其[[Chain of Evidence\|证据链]]条与取舍标准，使学习者完全无法审计文献源头、偏倚与置信边界。 |
 > | **分布式责任（Distributed Responsibility）** | 学习者、教师、高校机构与技术提供商根据其知情程度与实际掌控权，公平合理地分担认识责任。 | 学习者被迫对递交的成果承担全部学术诚信责任，而控制算法黑箱与评价导向的厂商和高校却免于审查。 |
 > | **认识多样性（Epistemic Plurality）** | 人机交互主动暴露学术争鸣、[[Heterogeneity\|异质性]]学科[[Paradigm\|范式]]规范以及处于边缘地位的非主导性观点。 | 系统将算法训练数据中占主导地位的答案、强势语言或知识层级包装为中立、唯一且全面的客观真理。 |
 
@@ -387,7 +384,7 @@ issuing_organization: ""
 > [!policy-context] 评价体系去结果化与采购治理规章的制度化重塑（p.8）
 > - **考核机制由静态产出转向过程追溯与无技术迁移测试** 引入分阶段写作草稿审查、口头答辩、思维决策日志与无技术闭卷能力测试，重点检验学生在技术抽离后是否依然保留核心推理与概念迁移能力。
 > - **机构采购确立透明度与可审计性硬约束** 高校在遴选教育技术产品时，必须将算法可追溯性、数据合规性、无障碍可及性与模型更新机制纳入准入考核，严禁采购剥夺教师审计权限的黑箱系统。
-> - **教师专业发展聚焦学科认识论指导能力** 为教师提供针对特定学科认识论特征的研修培训，帮[[Teaching Assistant\|助教]]师从技术监测者转型为阐明显释学科证据标准与学术价值观的导师。
+> - **教师专业发展聚焦学科认识论指导能力** 为教师提供针对特定学科认识论特征的研修培训，帮助教师从技术监测者转型为阐明显释学科证据标准与学术价值观的导师。
 
 上述系统化设计共同支撑起一套能够抵御技术异化的教育生态。（pp.8–9）
 
@@ -408,7 +405,7 @@ issuing_organization: ""
 ## 关键引用
 
 > [!citation-card] [[Epistemic Dependence\|认识依赖]]的核心界定
-> 认识依赖是指在与知识相关的各项活动中对人工智能系统的依托，涵盖获取信息、接收解释、综合[[Document\|文献]]、评价质量、选择诠释、消解不确定性以及为知识主张提供辩护。这一界定远比单纯的行为使用频次更为宽广。一个学习者可能频繁使用人工智能，但只要这种交互能够激发质疑、对比与反思修正，其依然保持着高度的[[Epistemic Agency\|认识主体性]]；相反，另一个学习者可能仅仅使用了一次，却在高风险的评价任务中将算法输出奉为终局定论。因此，分析的界限从来不是使用与否，而是协助形态与认知判断之间的实质关系。（pp.3–4）
+> 认识依赖是指在与知识相关的各项活动中对人工智能系统的依托，涵盖获取信息、接收解释、综合文献、评价质量、选择诠释、消解不确定性以及为知识主张提供辩护。这一界定远比单纯的行为使用频次更为宽广。一个学习者可能频繁使用人工智能，但只要这种交互能够激发质疑、对比与反思修正，其依然保持着高度的[[Epistemic Agency\|认识主体性]]；相反，另一个学习者可能仅仅使用了一次，却在高风险的评价任务中将算法输出奉为终局定论。因此，分析的界限从来不是使用与否，而是协助形态与认知判断之间的实质关系。（pp.3–4）
 >
 > *For this review, epistemic dependence refers to reliance on AI systems for knowledge-related activity, including obtaining information, receiving explanations, synthesising sources, evaluating quality, selecting interpretations, resolving uncertainty and justifying claims. This definition is broader than behavioural frequency. A learner may use AI repeatedly yet remain epistemically agentic if the interaction prompts questioning, comparison and revision. Another learner may use AI once but treat its answer as decisive in a high-stakes evaluative task. The analytic boundary is therefore not use versus non-use. It is the relation between assistance and judgement.*
 
@@ -423,7 +420,7 @@ issuing_organization: ""
 > *This review positions relational epistemic agency as the normative orientation of AI-mediated learning... The value at stake is not independence from others or tools. Education necessarily involves dependence, and ideals of self-sufficient knowing are both unrealistic and exclusionary. The relevant conception is relational and scaffolded: learners exercise agency through social, material and institutional supports while retaining meaningful capacities to participate in how claims are formed, assessed and accepted. This position extends work on relational autonomy and hybrid human–AI learning.*
 
 > [!citation-card] 分布式责任伦理与认识正义
-> 学习者固然应当对所提交的知识主张承担责任，但这种责任只有在他们享有充分知情权与控制权时才具有公正性。强推或将人工智能常态化的高校机构、设计依赖人工智能考核任务的教师，以及掌控模型算法规则的技术供应商，同样在深刻塑形着这一认识关系。因此，关系性视角必须以分布式责任彻底取代孤立个体用户的虚妄[[Hypothesis\|假设]]。治理规程应当明确界定：在信息来源追溯、算法偏差纠正、技术可及性保障、数据合规使用、模型动态更新以及考评环境构建中，究竟谁应当向公众负责。（p.7）
+> 学习者固然应当对所提交的知识主张承担责任，但这种责任只有在他们享有充分知情权与控制权时才具有公正性。强推或将人工智能常态化的高校机构、设计依赖人工智能考核任务的教师，以及掌控模型算法规则的技术供应商，同样在深刻塑形着这一认识关系。因此，关系性视角必须以分布式责任彻底取代孤立个体用户的虚妄假设。治理规程应当明确界定：在信息来源追溯、算法偏差纠正、技术可及性保障、数据合规使用、模型动态更新以及考评环境构建中，究竟谁应当向公众负责。（p.7）
 >
 > *Learners should take responsibility for claims they submit, but responsibility is fair only when they have sufficient knowledge and control. Institutions that mandate or normalise AI, teachers who design AI-dependent assessments, and providers that control model behaviour also shape the epistemic relation. A relational [[Accounts\|account]] therefore replaces the fiction of the isolated user with distributed responsibility. Governance should specify who is answerable for provenance, errors, accessibility, data use, model updates and the conditions under which AI-mediated work is assessed.*
 
@@ -433,9 +430,9 @@ issuing_organization: ""
 
 > [!warning] 自述研究局限与边界条件（p.9）
 > 原文第 13 节明确交代了四项边界局限与研究审慎性要求：
-> 1. **[[Document\|文献]]综合性质与覆盖范围局限** 本研究属于目的性批判整合综述，旨在进行概念提炼与规范论证，并非穷尽性[[Systematic Review\|系统综述]]或[[Meta-analysis\|元分析]]，所记录的检索程序能提高审计性但无法计算实证发生率或全量效应。
+> 1. **文献综合性质与覆盖范围局限** 本研究属于目的性批判整合综述，旨在进行概念提炼与规范论证，并非穷尽性[[Systematic Review\|系统综述]]或[[Meta-analysis\|元分析]]，所记录的检索程序能提高审计性但无法计算实证发生率或全量效应。
 > 2. **前沿文献时效与同行评议状态限制** 检索文献更新截至 2026 年 7 月，鉴于该领域演进极快，部分纳入的高频文献为预印本、社论或会议论文，其论断与学术地位可能在后续发表中发生变动。
-> 3. **长期发展因果证据的相对缺乏** 关于长期使用人工智能对个体认识发展、思维习惯与身份认同塑造的直接实证证据仍旧有限，部分社会技术路径目前属于理论论证的[[Hypothesis\|假设]]模型而非无可争辩的既定因果事实。
+> 3. **长期发展因果证据的相对缺乏** 关于长期使用人工智能对个体认识发展、思维习惯与身份认同塑造的直接实证证据仍旧有限，部分社会技术路径目前属于理论论证的假设模型而非无可争辩的既定因果事实。
 > 4. **跨学科与跨系统抽象的概括性边界** 综述框架在具体技术架构与学科情境上进行了高度抽象，不同生成式模型在检索增强、溯源展示与个性化方面差异巨大，各学科对证据合法性的判准亦不相同，该框架应作为提出情境敏感性问题的质询透镜，而非机械推断一切技术使用均导致依赖的[[Determinism\|决定论]]预测。
 
 ---

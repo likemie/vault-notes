@@ -8,10 +8,10 @@ aliases:
 summary: "美国《联邦技术转移法》（1986）确立的公私研发合作机制；允许联邦政府直属国家实验室与私营企业、大学在不适用联邦政府采购法规（FAR）的前提下，共享人员、设备设施、实验装置与知识产权，通过联合攻关将国家级前沿科研能力与大科学装置向民间创新生态深度开放；但因缺乏利润分享与定价规制，亦面临公共研发成果私人垄断与财政可持续性张力。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 32
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/university-industry-collaboration
   - theme/technology-transfer
@@ -30,17 +30,14 @@ related_concepts:
   - "[[Process Knowledge]]"
   - "[[Market Fundamentalism]]"
   - "[[Innovation Ecosystem]]"
-  - "[[Document]]"
   - "[[Competitiveness]]"
   - "[[Regulatory Sandbox]]"
-  - "[[Attrition]]"
   - "[[Technology Transfer Office]]"
   - "[[General Purpose Technology]]"
   - "[[Clinical Trial]]"
 related_theories:
   - "[[Developmental Network State]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -139,7 +136,7 @@ updated: 2026-10-15
 > 论证公私协同研发如何反哺底层工程工艺积累与制造能力。
 
 > [!claim] [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]]
-> **公地共生纽带与[[Strategic Autonomy|战略自主]]** 历史经验（如 EUV 光刻有限责任公司与半导体技术联盟）表明，单靠大学发表论文或企业孤立研发，均无法攻克极紫外光源、先进微型反应堆与超导磁体等系统级重资产瓶颈。CRADA 机制为国家实验室顶尖物理学家与车间工程师提供了常设性的协同攻关平台，在联合试错中沉淀了无法被论文[[Coding in Qualitative Research|编码]]的[[Process Knowledge|默会过程知识]]，筑牢了国家核心[[Industrial Commons|产业公地]]。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 43–47)]]
+> **公地共生纽带与[[Strategic Autonomy|战略自主]]** 历史经验（如 EUV 光刻有限责任公司与半导体技术联盟）表明，单靠大学发表论文或企业孤立研发，均无法攻克极紫外光源、先进微型反应堆与超导磁体等系统级重资产瓶颈。CRADA 机制为国家实验室顶尖物理学家与车间工程师提供了常设性的协同攻关平台，在联合试错中沉淀了无法被论文编码的[[Process Knowledge|默会过程知识]]，筑牢了国家核心[[Industrial Commons|产业公地]]。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 43–47)]]
 
 ---
 
@@ -156,11 +153,11 @@ updated: 2026-10-15
 ### 命题总览
 
 > [!contrast-table] CRADA 核心命题归纳
-> | 命题维度 | 核心命题名称 | 关键作用机制 | 核心论证[[Document\|文献]] |
+> | 命题维度 | 核心命题名称 | 关键作用机制 | 核心论证文献 |
 > |:---|:---|:---|:---|
 > | **设施准入** | **设施开放与制度摩擦消除** | 依法豁免政府采购条例与保护商业机密，激活[[Megascience Installations\|大科学装置]]民间利用率 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 40–42)]] |
 > | **敏捷规制** | **标准化绿色通道与时效保障** | 设立 30 天标准协议模板，消除谈判沉没成本，防止中试测试外迁 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 41–42)]] |
-> | **公地共生** | **公地共生纽带与[[Strategic Autonomy\|战略自主]]** | 联合攻坚系统级硬科技瓶颈，在产研协同现场沉淀非[[Coding in Qualitative Research\|编码]][[Process Knowledge\|默会过程知识]] | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 43–47)]] |
+> | **公地共生** | **公地共生纽带与[[Strategic Autonomy\|战略自主]]** | 联合攻坚系统级硬科技瓶颈，在产研协同现场沉淀非编码[[Process Knowledge\|默会过程知识]] | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, pp. 43–47)]] |
 > | **收益分配** | **公共研发收益不对称与财政脆弱性** | 缺乏利润分享与定价管制引发暴利垄断，侵蚀公共研发财政可持续性 | [[Argument_Block_2008_PS\|Block (2008, pp. 180, 195)]] |
 
 ---
@@ -195,7 +192,7 @@ updated: 2026-10-15
 > > [!axis] 国家安全出口管制 vs 开放科学跨国合作
 > > 探讨在国家实验室高精尖仪器合作中，如何平衡前沿技术的跨国人才参与和防范敏感技术外溢。
 > >
-> > - **技术封锁安全派** 主张对 CRADA 合作方的资本背景与雇员国籍进行严格审查，防止关键技术[[Attrition|流失]]。
+> > - **技术封锁安全派** 主张对 CRADA 合作方的资本背景与雇员国籍进行严格审查，防止关键技术流失。
 > > - **开放创新活力派** 警告过度政治化审查会扼杀国家实验室对全球顶尖工程人才的吸引力，反而削弱本土[[Innovation Ecosystem|创新生态]]。
 
 ---
@@ -205,7 +202,7 @@ updated: 2026-10-15
 > [!ref-table]- CRADA 协议在全美科研转化中的实证数据与改革基准
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究[[Document\|文献]] | 样本与情境 | 考察指标与设计 | 原始实证结果 | 理论解释边界 |
+> | 研究文献 | 样本与情境 | 考察指标与设计 | 原始实证结果 | 理论解释边界 |
 > |:---|:---|:---|:---|:---|
 > | [[Argument_Block_2008_PS\|Block (2008, p. 195)]]; GAO (2003) | 美国国立卫生研究院（[[National Institutes of Health\|NIH]]）与施贵宝（BMS）抗癌药物紫杉醇（Taxol）CRADA 合作 | 联邦研发收益分成比例与公共医保采购支出追踪 | NIH 通过 CRADA 获得专利许可版税仅 **3,500 万美元**；而仅联邦医疗保险（Medicare）单项计划为购买 Taxol 就支付了 **5 亿美元**（采购支出是特许权使用费的 **14 倍以上**） | 揭示 CRADA 缺乏利润反哺与价格约束导致纳税人双重买单的实证证据 |
 > | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026, p. 40)]] | 美国能源部（[[Department of Energy\|DOE]]）17 所国家实验室纵向合作普查 | 活跃 CRADA 数量、调用设施频次及企业出资规模追踪 | 能源部系统常年维持逾 3,000 项活跃 CRADA 协议，涵盖先进核能、电池储能与量子计算等关键领域 | 证实 CRADA 是联邦[[Megascience Installations\|大科学装置]]与民间产业界深度互联的最主要制度纽带 |

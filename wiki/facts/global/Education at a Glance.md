@@ -9,7 +9,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 27
+fact_related_count: 25
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Governing by Numbers]]"
   - "[[Commensuration]]"
   - "[[Operationalization]]"
-  - "[[Hypothesis]]"
   - "[[Performativity]]"
   - "[[Student Mobility]]"
   - "[[Class Size]]"
@@ -35,7 +34,6 @@ related_concepts:
   - "[[Policy Brokerage]]"
   - "[[Discourse]]"
   - "[[International Education]]"
-  - "[[Attrition]]"
   - "[[Science and Technology Studies]]"
   - "[[Global Education Governing Complex]]"
 related_theories:
@@ -57,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Education at a Glance
@@ -80,7 +78,7 @@ updated: 2026-10-10
 ## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
-> 《教育概览》的治理逻辑建立在“仪表盘警示”与“指标施为性”双重[[Hypothesis\|假设]]之上：一方面，派生指标如同仪表盘警示灯，促使决策者发现本国系统的深层病灶；另一方面，指标的公开披露具备强大的自我实现与行动引导能力（[[Performativity]]），使数字成为民族国家政府与跨国组织之间对话的首要语言代码。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 7–8, 16)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
+> 《教育概览》的治理逻辑建立在“仪表盘警示”与“指标施为性”双重假设之上：一方面，派生指标如同仪表盘警示灯，促使决策者发现本国系统的深层病灶；另一方面，指标的公开披露具备强大的自我实现与行动引导能力（[[Performativity]]），使数字成为民族国家政府与跨国组织之间对话的首要语言代码。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 7–8, 16)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 
 > [!policy-design]- 四维指标框架设计
 > 《教育概览》将复杂的国家教育生态抽象并归纳为四大相互嵌套的分析维度：
@@ -129,7 +127,7 @@ updated: 2026-10-10
 > > - **[[Norberto Bottani]]（前 [[International Indicators of Education Systems\|INES]] 主任）** 严厉批判[[OECD\|经合组织]]模糊了“指标（提供预警信号的警示装置）”与“全面评判（考虑生态情境的综合评估）”的根本界限；EAG 将复杂的社会历史系统折算为单薄的数字排名，在缺乏民主审议的前提下擅自扮演了全球教育系统的最高法官。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 14)]]
 > > - **OECD 官方辩解** 坚持认为报告仅提供客观镜鉴（“我们不提供强制处方”），但私下承认跨国指标必然承载为各国决策者“指明政策方向”的导向性使命。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, p. 15)]]
 >
-> > [!axis] 科学审慎的[[Attrition\|流失]]与媒介化过度简化
+> > [!axis] 科学审慎的流失与媒介化过度简化
 > > 科学与技术研究（[[Science and Technology Studies]]，STS）揭示了 EAG 在公关传播中的技术妥协。
 > >
 > > - **技术细节的蓄意遗忘** 早期 EAG 包含海量技术附录、背景警示与误差说明，但随着报告演变为大众媒介盛宴，团队官员承认在面向公众时不得不“忘记所有统计细节”，讲出“作为统计学家明知并不严密但所有人都能听懂的故事”。[[Argument_Gorur_2014_Discourse\|(Gorur, 2014, pp. 15–16)]]

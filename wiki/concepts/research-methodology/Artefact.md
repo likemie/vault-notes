@@ -11,7 +11,7 @@ aliases:
 summary: "在社会与教育探究中兼具物质实体与方法学双重维度的核心概念：既指承载文化与制度话语的有形物质实体，又指因测量偏差与工具局限导致的方法学人为假象。"
 type: concept
 domain: "research-methodology"
-related_count: 36
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Construct]]"
-  - "[[Document]]"
   - "[[Visual Data]]"
   - "[[Boundary Object]]"
   - "[[Communities of Practice]]"
@@ -34,7 +33,6 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Causality]]"
   - "[[Epistemology]]"
-  - "[[Hypothesis]]"
   - "[[Determinism]]"
   - "[[Interpretive Paradigm]]"
   - "[[Whiggism]]"
@@ -65,7 +63,7 @@ related_persons:
 confidence: high
 status: stable
 created: 2026-08-05
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Artefact
@@ -93,7 +91,7 @@ updated: 2026-10-08
 > *Discourse analysis views human speech, classroom interaction, and material artefacts as texts in production, examining how language and representations [[Construct]] social realities within institutions.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Document\|文献]] — 文献以正式文字与记录为核心载体，器物则涵盖三维物质空间、实体设备与多感官物体。
+> - 不等于 文献 — 文献以正式文字与记录为核心载体，器物则涵盖三维物质空间、实体设备与多感官物体。
 > - 不等于 [[Visual Data\|视觉数据]] — 器物可调动触觉、操作性等多感官体验，视觉数据仅是器物被注视与图像化记录的一种方式。
 > - 不等于客观真实效应 — 作为方法人为产物时，它纯属特定研究程序诱导的假象，必须通过多元测量加以甄别和剔除。
 
@@ -132,7 +130,7 @@ updated: 2026-10-08
 > 探讨物质环境如何映射群体文化，以及单纯依赖器物进行[[Causality\|因果推断]]的[[Epistemology\|认识论]]局限。
 >
 > > [!claim] Schein, E. H.
-> > **[[Organizational Culture\|组织文化]]最可见却最表层的指示物** 器物是组织文化的最外层显现，涵盖工作空间的物理布局、办公室陈设与着装规范；器物提示群体在做什么，却不能揭示深层的基本[[Hypothesis\|假设]]与价值认同。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al., 2011, Ch. 27, p. 531]]
+> > **[[Organizational Culture\|组织文化]]最可见却最表层的指示物** 器物是组织文化的最外层显现，涵盖工作空间的物理布局、办公室陈设与着装规范；器物提示群体在做什么，却不能揭示深层的基本假设与价值认同。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al., 2011, Ch. 27, p. 531]]
 >
 > > [!claim] [[Louis Cohen\|Cohen, L.]], [[Lawrence Manion\|Manion, L.]], & [[Keith Morrison\|Morrison, K.]]
 > > **器物解释的多义性与矛盾性** 同样的器物状态可以衍生截然相反的推论；例如凌乱的教师休息室既可被解读为工作极其忙碌，也可被推断为管理极度松懈，必须辅以访谈与观察等互补资料进行三角印证。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al., 2011, Ch. 27, p. 532]]

@@ -11,7 +11,7 @@ subtype: policy
 region: uk
 fact_region: "uk"
 fact_kind: "policy"
-fact_related_count: 7
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -23,7 +23,6 @@ tags:
   - method/longitudinal-study
 related_concepts:
   - "[[STEM Education]]"
-  - "[[Attrition]]"
   - "[[Practical Inquiry in Science Education]]"
   - "[[Science Capital]]"
 related_arguments:
@@ -35,7 +34,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # UK Science Education Tracker
@@ -66,7 +65,7 @@ updated: 2026-09-22
 
 > [!finding-cards] 报告政策建议
 > - **设立专项实验经费** 设立国家级学校实验耗材与设备更新专项基金，确保学校具备开齐开足实验的物资条件。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, p. 33)]]
-> - **保障实验技术员队伍** 改善学校实验技术员（Technicians）的薪酬待遇与职业发展通道，遏制专业技术队伍严重[[Attrition\|流失]]。
+> - **保障实验技术员队伍** 改善学校实验技术员（Technicians）的薪酬待遇与职业发展通道，遏制专业技术队伍严重流失。
 > - **大纲减负与评价转型** 纠正近年国家课程事实回忆过载倾向，重塑以证据评估与探究实践为核心的考核体系。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, pp. 31, 33)]]
 
 ---

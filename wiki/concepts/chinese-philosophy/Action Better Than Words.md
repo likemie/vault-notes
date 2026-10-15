@@ -9,7 +9,7 @@ aliases:
 summary: "儒学学习传统第四主题，以行动而非言语为修身标准；孔子不信任巧言令色，君子讷于言而敏于行，沉默不等于被动"
 type: concept
 domain: "chinese-philosophy"
-related_count: 14
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Strategic Compliance]]"
   - "[[Humility]]"
-  - "[[Ritual Propriety]]"
   - "[[Chinese Learner]]"
   - "[[Self-Cultivation]]"
   - "[[Learning Virtues]]"
@@ -42,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Action Better Than Words
@@ -99,7 +98,7 @@ updated: 2026-10-12
 
 **2. 行先于言、多于言**。"先行其言而后从之""[[Junzi|君子]]欲讷于言而敏于行""古者言之不出，耻躬之不逮也"——这些表述的核心是"对一种与说话者生命和品格相符的说话的渴望。说话者的生命品格比他的说话更重要"([[Argument_Li_2012_Cambridge|Li, 2012, p.100]])。Li 进一步区分：这不是西方修辞学中的"修辞性沉默"（为取得更大的听众效果而停顿或拒绝发言以确保公正），而是"对虚浮之言的彻底否定和对行动的强调"。不说话被用来"前景化"行动的全部伦理意义。
 
-**3. 说话的社会协调性**。说话不是脱离社会关系的独立行为——必须协调于具体的社会情境和人际关系（[[Ritual Propriety|礼]]，li）。"非礼勿言"（Analects 12.1）。"可与言而不与之言，失人；不可与言而与之言，失言"（Analects 15.8）。[[Confucius|孔子]]自身在乡党"恂恂如也，似不能言者"，在宗庙朝廷"便便言，唯谨尔"（Analects 10.1）——这奠定了东亚人在不同社会关系中说不同话的基本模式([[Argument_Li_2012_Cambridge|Li, 2012, pp.100-101]])。
+**3. 说话的社会协调性**。说话不是脱离社会关系的独立行为——必须协调于具体的社会情境和人际关系（礼，li）。"非礼勿言"（Analects 12.1）。"可与言而不与之言，失人；不可与言而与之言，失言"（Analects 15.8）。[[Confucius|孔子]]自身在乡党"恂恂如也，似不能言者"，在宗庙朝廷"便便言，唯谨尔"（Analects 10.1）——这奠定了东亚人在不同社会关系中说不同话的基本模式([[Argument_Li_2012_Cambridge|Li, 2012, pp.100-101]])。
 
 > [!tip]-
 > Li 强调，在东亚文化中，沉默不是说话的缺席或对立面，而是一种独立的美德。Arabella Lyon 指出：在西方沉默可能被等同于"不参与、漠视"或软弱的不作为；但在中国/东亚，**"被选择的沉默"**在人际关系中有重要的角色——"它可以表示问题、承诺、否认、警告、威胁、侮辱、要求、命令、尊重和亲密"([[Argument_Li_2012_Cambridge\|Li, 2012, p.101]])。

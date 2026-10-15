@@ -10,7 +10,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 21
+fact_related_count: 19
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -33,13 +33,11 @@ related_concepts:
   - "[[Anchored Instruction]]"
   - "[[Student Attitude]]"
   - "[[Business as Usual]]"
-  - "[[Hypothesis]]"
   - "[[Attrition]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Repeated Measures Design]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Questionnaire]]"
   - "[[Analysis of Variance]]"
   - "[[Effect Size]]"
@@ -55,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Teacher Choices
@@ -85,10 +83,10 @@ updated: 2026-09-22
 >   2. **[[Homework\|作业]]反馈机制** 全班集中式讲评反馈（Whole-class [[Feedback]]）与教师逐本耗时精细批注[[Homework\|家庭作业]]相比，能否在不损害学业增益的前提下大幅减轻教师工时负担？
 >   3. **课堂朗读规程** 大班集体朗读（Whole-class Reading）与分层轮流朗读，对不同能力学童阅读流畅度的即时激活机制差异。
 > - **创新评估方法学架构** 摒弃动辄长达数年、追踪国家统考（GCSE）的重型跨校集群设计，转向被试内轮换设计（Crossover Design）与析因微型试验：同一位教师在不同教学单元或教学周次中轮流采用两类对照策略，通过自身控制消除教师个体能力与风格的混淆干扰。
-> - **近端敏感指标测量** 测量工具主要[[Anchored Instruction\|锚定教学]]单元结束后的近端学业测验、课堂行为即时[[Coding in Qualitative Research\|编码]]记录与学生[[Student Attitude\|学习态度]][[Questionnaire\|问卷]]，在干预发生后数周内即时抓取因果微弱效应，避免远端统考指标被长期[[Business as Usual\|常态教学]]噪声所稀释。
+> - **近端敏感指标测量** 测量工具主要[[Anchored Instruction\|锚定教学]]单元结束后的近端学业测验、课堂行为即时编码记录与学生[[Student Attitude\|学习态度]][[Questionnaire\|问卷]]，在干预发生后数周内即时抓取因果微弱效应，避免远端统考指标被长期[[Business as Usual\|常态教学]]噪声所稀释。
 
 > [!citation-card] 教师日常决策因果试验的设计突破（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）
-> 2018 年，[[Education Endowment Foundation\|EEF]] 启动了探索‘教师选择’的试点项目，这是一套用于研究日常课堂教学决策（如作业批改方式或全班阅读策略）的方法学框架。与需要学校额外采购手册化干预项目的传统试验不同，教师选择试验直接将研究工具嵌入教师现有的日常教研习惯中，采用被试内设计等创新架构，从而以更低的研究成本与更敏捷的反馈周期检验微观教学[[Hypothesis\|假设]]。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 55)]]
+> 2018 年，[[Education Endowment Foundation\|EEF]] 启动了探索‘教师选择’的试点项目，这是一套用于研究日常课堂教学决策（如作业批改方式或全班阅读策略）的方法学框架。与需要学校额外采购手册化干预项目的传统试验不同，教师选择试验直接将研究工具嵌入教师现有的日常教研习惯中，采用被试内设计等创新架构，从而以更低的研究成本与更敏捷的反馈周期检验微观教学假设。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 55)]]
 >
 > *“In 2018, the EEF began piloting ‘Teacher Choices’—a methodology to investigate the everyday classroom decisions that teachers make (e.g., approaches to marking homework or whole-class reading), rather than manualised interventions... Teacher Choices trials offer a promising route to evaluate cost-free, high-leverage pedagogical habits.”*
 
@@ -117,7 +115,7 @@ updated: 2026-09-22
 
 > [!finding-cards] 核心制度价值与实证突破
 > - **打破“循证等于花钱买项目”的虚假神话** 首次系统证明了因果实证方法能够直接作用于公立学校已有的、零额外成本的[[Business as Usual\|常态教学]]微生态，极大拓宽了 What Works 运动的实践辐射半径。
-> - **极大降低参试学校的组织摩擦与行政[[Attrition\|流失]]** 微观试验不触碰学校排课表、不打乱行政班级、无需家长繁复授权，参试学校流失率（Attrition）降至极低水平，教师参与热情与专业自主感显著提升。
+> - **极大降低参试学校的组织摩擦与行政流失** 微观试验不触碰学校排课表、不打乱行政班级、无需家长繁复授权，参试学校流失率（[[Attrition]]）降至极低水平，教师参与热情与专业自主感显著提升。
 > - **赋能教师专业反思的科学化转型** 通过客观数据检验诸如“批改每本[[Homework\|作业]]写满批语是否真优于全班共性讲评”，直接打破了大量凭借经验直觉代代相传、却徒增教师心理枯竭的陈旧形式主义负担。
 
 > [!stat-cards]- 关键实证特征
@@ -138,7 +136,7 @@ updated: 2026-09-22
 > > - **辩护发展立场（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）** 指出正因为宏观统考指标过于迟钝且充满系统噪声，唯有借助高灵敏度近端测量，才能准确判定细微教学机制的优劣，两者构成了互补的证据金字塔。
 
 > [!lessons] 经验教训与启示
-> - **警惕课堂内部的外溢效应（Spillover）** 在同一教师的班级中实行被试内交叉时，教师习得的新技巧极易不自觉渗透至对照组周期；评估团队必须在方案中设立严格的“洗脱期”（Washout Period）并运用观察[[Coding in Qualitative Research\|编码]]加以质控。
+> - **警惕课堂内部的外溢效应（Spillover）** 在同一教师的班级中实行被试内交叉时，教师习得的新技巧极易不自觉渗透至对照组周期；评估团队必须在方案中设立严格的“洗脱期”（Washout Period）并运用观察编码加以质控。
 
 ---
 

@@ -7,7 +7,7 @@ title: "Argument_Rizvi_Lingard_2009_OECDEducationPolicy"
 argument_key: "Argument_Rizvi_Lingard_2009_OECDEducationPolicy"
 argument_display_title: "The OECD and Global Shifts in Education Policy"
 argument_kind: "book-chapter"
-argument_related_count: 74
+argument_related_count: 72
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -66,7 +66,6 @@ related_concepts:
   - "[[Tacit Knowledge]]"
   - "[[Procedural Knowledge]]"
   - "[[Critical Thinking]]"
-  - "[[Hypothesis]]"
   - "[[Construct Validity]]"
   - "[[Construct]]"
   - "[[Ontology]]"
@@ -87,7 +86,6 @@ related_theories:
 related_methods:
   - "[[Discourse Analysis]]"
   - "[[Questionnaire]]"
-  - "[[Coding in Qualitative Research]]"
 related_instruments: []
 related_persons:
   - "[[Fazal Rizvi]]"
@@ -355,7 +353,7 @@ updated: 2026-10-14
 > - **机制：人力资本升级转变为国家竞争的生死关键**
 >   经合组织据此要求政府全力升级人力资本，为高技能岗位准备劳动力。所看重的人力素质不仅包括传统能力，更包括适应力、组织忠诚度、抗压能力、跨文化协作与把知识商业化的敏锐意识。
 > - **演进：从[[Discipline-Based Theory|学科理论]]知识转向实用操作技能与[[Tacit Knowledge|默会知识]]**
->   学习重心从正规书本上关于客观事实与理论的[[Coding in Qualitative Research|编码]]认知（knowing that），全面倒向关于如何在复杂关系网络中运作的操作能力（[[Procedural Knowledge|knowing how]]）与实践性默会技能。（pp. 445–446）
+>   学习重心从正规书本上关于客观事实与理论的编码认知（knowing that），全面倒向关于如何在复杂关系网络中运作的操作能力（[[Procedural Knowledge|knowing how]]）与实践性默会技能。（pp. 445–446）
 > - **结论：学习型经济中默会能力的稀缺性与终身学习的必然性**
 >   [[Dominique Foray|多米尼克·福雷]]与本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（Foray & Lundvall, 1996）指出，信息技术使编码知识的获取与传输边际成本骤降，这反而使得无法被算法完全替代的[[Tacit Knowledge|默会知识]]与持续探究技能成为稀缺资本；国家必须迅速转变为学习型经济，促使劳动力在正规学校之外终身不断更新默会技能，以维持在动态市场中的[[Competitiveness|竞争力]]。（p. 445）
 
@@ -371,7 +369,7 @@ updated: 2026-10-14
 
 #### 1. 脱离特定课程的标准化测评建构起信度优先于构念效度的跨国[[Space of Equivalence|等值空间]]
 
-菲利普·布朗等学者指出，当代国家竞争力的基本[[Hypothesis|假设]]是按国际统一标准来评估各国的教育与培训质量（Brown et al., 1997, pp. 7–8）。经合组织敏锐地抓住了这一需求，于1999年发布《测量学生知识与技能：评估新框架》，并在2000年正式启动PISA测评。（pp. 446–447）
+菲利普·布朗等学者指出，当代国家竞争力的基本假设是按国际统一标准来评估各国的教育与培训质量（Brown et al., 1997, pp. 7–8）。经合组织敏锐地抓住了这一需求，于1999年发布《测量学生知识与技能：评估新框架》，并在2000年正式启动PISA测评。（pp. 446–447）
 
 > [!feature] PISA测评工具的设计机制与方法论特征
 > - **三年一周期的15岁义务教育终期监测** 针对即将完成义务教育的15岁学童，每三年施测一次，主要考查阅读、数学、科学（2003年首次增加问题解决能力），评估其应用知识应对现实挑战的实际技能。（p. 447）
@@ -497,7 +495,7 @@ PISA除了测试核心认知能力外，还通过庞大的[[Questionnaire|问卷
 ## 关键引用
 
 > [!citation-card] [[OECD|经合组织]]对全球化现象的本体化与意识形态物化
-> 经合组织物化了全球化，也就是说，它以一种本体化的方式来对待这一概念，仿佛全球化指涉的是某种客观且[[Doxa|不言自明]]的自然存在。然而，这种对全球化的理解遮蔽了一个根本事实：它预先设定了一套关于世界经济秩序应当如何被组织和治理的特定规范性[[Hypothesis|假设]]。它忽略了个体与集体的主观能动性在塑造和引导历史变迁中所能发挥的作用，同时也抹杀了一个关键真相——经合组织所兜售的全球化图景，本质上反映的是一项蓄意推进[[Liberalization|经济自由化]]的意识形态工程，它赋予特定的政治经济哲学以特权，用一种单一维度的全球经济视野彻底取代了民族国家原有的经济发展诉求。（p. 441）
+> 经合组织物化了全球化，也就是说，它以一种本体化的方式来对待这一概念，仿佛全球化指涉的是某种客观且[[Doxa|不言自明]]的自然存在。然而，这种对全球化的理解遮蔽了一个根本事实：它预先设定了一套关于世界经济秩序应当如何被组织和治理的特定规范性假设。它忽略了个体与集体的主观能动性在塑造和引导历史变迁中所能发挥的作用，同时也抹杀了一个关键真相——经合组织所兜售的全球化图景，本质上反映的是一项蓄意推进[[Liberalization|经济自由化]]的意识形态工程，它赋予特定的政治经济哲学以特权，用一种单一维度的全球经济视野彻底取代了民族国家原有的经济发展诉求。（p. 441）
 >
 > *The OECD reifies globalization, that is, it treats the concept in an ontologized manner, as if it refers to an objective and self-evident entity. However, this understanding of globalization masks the fact that it presupposes a particular set of normative assumptions about how the world economic order should be organized and governed. It ignores the role that subjective agency – both individual and collective – plays in how historical changes might be shaped and steered, and the fact that the vision of globalization promoted by the OECD reflects a deliberate ideological project of economic liberalization (Bourdieu, 2003), which privileges a particular politico-economic philosophy, replacing national economic development perspectives with a singular global view of the economy.*
 

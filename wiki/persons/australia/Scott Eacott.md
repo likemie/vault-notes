@@ -7,7 +7,7 @@ summary: "澳大利亚教育行政学者，关系取向组织理论与领导力�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 18
+person_related_count: 17
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[School Leadership]]"
   - "[[Champ]]"
-  - "[[Habitus]]"
   - "[[Doxa]]"
   - "[[Paradigm]]"
 related_theories: []
@@ -47,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-03
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 ## 简介
 
@@ -70,7 +69,7 @@ updated: 2026-09-22
 > - [[Parallel Monologues]] — 提出并命名了教育行政研究领域缺乏真正学术对话的结构性现象
 > - [[Neo-Taylorism]] — 将 Taylor 科学管理原理重新应用于分析当代教育领导力的知识政治
 > - [[Cult of the Guru]] — 以 Callahan (1962) 为框架分析教育领导力领域对单一权威人物的不加批判的接受
-> - 以 Bourdieu 的[[Champ\|场域]]/[[Habitus\|习性]]/[[Doxa]] 框架分析 NSW 校长培养项目，论证其将校长建构为"国家改革的交付者"并提出替代性领导习性([[Argument_Eacott_2011_JEAH\|Eacott, 2011]])
+> - 以 Bourdieu 的[[Champ\|场域]]/习性/[[Doxa]] 框架分析 NSW 校长培养项目，论证其将校长建构为"国家改革的交付者"并提出替代性领导习性([[Argument_Eacott_2011_JEAH\|Eacott, 2011]])
 > - 在 *Beyond Leadership*（2018）中提出教育组织理论的关系取向，试图超越传统的领导力研究[[Paradigm\|范式]]
 
 ## 主要著作

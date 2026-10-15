@@ -8,7 +8,7 @@ aliases:
 summary: "学习者理解何为良好工作质量，并能够对自己及他人的工作质量做出审慎、明智评价决策的核心能力。在高等教育与智能化求知情境中，评价性判断被确立为不可向算法外包的核心认识能力与终身学习基石。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 29
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -34,7 +34,6 @@ related_concepts:
   - "[[Formative Assessment]]"
   - "[[Operationalization]]"
   - "[[Epistemology]]"
-  - "[[Document]]"
   - "[[Variable]]"
   - "[[Dialogue in Education]]"
   - "[[Self-Efficacy]]"
@@ -54,7 +53,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Evaluative Judgement
@@ -200,7 +199,7 @@ updated: 2026-10-14
 > [!ref-table]- 评价性判断实证研究表
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
-> | 研究[[Document\|文献]] | 样本与情境 | 核心[[Variable\|变量]]与测量 | 关键实证发现 | 理论与教学启示 |
+> | 研究文献 | 样本与情境 | 核心[[Variable\|变量]]与测量 | 关键实证发现 | 理论与教学启示 |
 > |---|---|---|---|---|
 > | **Tai et al. (2018)** | 澳大利亚多所高校本科及研究生课程（医学、工程、人文） | 评价性判断培养实践（范例对比、同伴评审与标准[[Dialogue in Education\|对话]]） | 深入参与评价实践的学生展现出显著更强的自主纠错能力、长周期[[Self-Efficacy\|自我效能感]]与专业迁移胜任力。 | 证实评价性判断能够通过系统教学设计加以培育，是高等教育可持续学习的核心引擎。 |
 > | **[[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]]** | 人工智能中介的高等教育求知场景与[[Critical Review\|批判性综述]] | 协助形态（工具型 vs 承载型 vs 承载判断型）对评价性判断与认知依赖的影响 | 当协助形态上升为承载判断型时，学生评价性判断让渡率达临界点，导致中间推导动作剥离与可恢复性崩塌。 | 确立评价性判断为区分生产性人机协同与有害[[Epistemic Dependence\|认识依赖]]的关键实证[[Operationalization\|操作化]]指标。 |

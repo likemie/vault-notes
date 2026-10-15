@@ -9,7 +9,7 @@ summary: "英国当代教育社会学与社会语言学奠基理论家，开创�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 48
+person_related_count: 46
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -34,18 +34,17 @@ related_concepts:
   - "[[New Sociology of Education]]"
   - "[[Discourse]]"
   - "[[Grand Theory]]"
-  - "[[Hypothesis]]"
   - "[[Areas of Knowledge]]"
   - "[[Champ]]"
   - "[[Value Neutrality]]"
   - "[[Paradigm]]"
   - "[[Commensuration]]"
   - "[[Critical Pedagogy]]"
-  - "[[Attrition]]"
   - "[[Epistemology]]"
   - "[[Interpretive Paradigm]]"
   - "[[Technical Rationality]]"
   - "[[Cultural Capital]]"
+  - "[[Habitus]]"
   - "[[Determinism]]"
 related_theories:
   - "[[Phenomenology]]"
@@ -60,7 +59,6 @@ related_methods:
   - "[[Correlational Research]]"
   - "[[Action Research]]"
   - "[[Analytic Framework]]"
-  - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Michael W. Apple]]"
   - "[[Henry Giroux]]"
@@ -79,7 +77,7 @@ related_facts:
 confidence: high
 status: stable
 created: 2026-05-23
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # Basil Bernstein
@@ -140,7 +138,7 @@ updated: 2026-10-08
 
 > [!feature] 伯恩斯坦理论体系的四大核心支柱
 > - **语言代码理论（Language Codes）**
->   - **限制代码（Restricted Code）** 依赖高度共享的经验背景与隐性[[Hypothesis\|假设]]，语言结构简洁、语境紧密嵌构，多见于传统工人阶级群体，强调集体团结与位置取向。
+>   - **限制代码（Restricted Code）** 依赖高度共享的经验背景与隐性假设，语言结构简洁、语境紧密嵌构，多见于传统工人阶级群体，强调集体团结与位置取向。
 >   - **精致代码（Elaborated Code）** 强调脱离具体语境的普遍化表达、显性阐释与逻辑论证，强调个体反思与以人为导向，是中产阶级文化与主流正规学校的通用操作语言。
 >   - **代码霸权与结构性不平等** 学校教育表面上倡导普遍中立，实质上默认并垄断精致代码，从而使得不熟悉该代码的工人阶级儿童在体制内遭遇天然的制度性过滤与污名化。
 > - **教育知识的分类与框架（Classification and Framing）**
@@ -171,7 +169,7 @@ updated: 2026-10-08
 > [!influence-path] 影响路径
 > - **理论路径** 深刻启发了国际[[Critical Pedagogy\|批判教育学]]与课程社会学（如[[Michael W. Apple|迈克尔·阿普尔]]、[[Henry Giroux|亨利·吉鲁]]）；其晚期弟子与后继学者将其思想发展为当代教育学的重要理论阵地——[[Social Realism\|社会实在论]]（Social Realism）与合法化代码理论（Legitimation Code Theory, LCT）。
 > - **方法路径** 为课程文本分析与课堂[[Discourse Analysis\|话语分析]]提供了极高操作度的分析矩阵（如分类与框架指数、[[Recontextualization\|再脉络化]]规则链条、[[Curriculum Design Coherence Model\|CDCM]] 课程设计连贯性模型），使宏观意识形态分析能够精准落地为对教材篇章结构与课堂师生问答的微观测量。
-> - **政策路径** 其“代码差异非文化赤字”的科学定性直接冲击了 1970 年代英国盲目的补偿教育政策，并在当代成为评估国家课程改革失衡风险的重要预警工具（如[[NZ Curriculum Refresh 2021-2026\|新西兰课程改革]]中概念知识[[Attrition\|流失]]的反思）。[[Argument_McPhail_2023_JCS\|McPhail et al., 2023]]
+> - **政策路径** 其“代码差异非文化赤字”的科学定性直接冲击了 1970 年代英国盲目的补偿教育政策，并在当代成为评估国家课程改革失衡风险的重要预警工具（如[[NZ Curriculum Refresh 2021-2026\|新西兰课程改革]]中概念知识流失的反思）。[[Argument_McPhail_2023_JCS\|McPhail et al., 2023]]
 > - **跨国传播** 广泛传播至澳大利亚、南非、拉美、北欧及东亚，成为探究社会阶层固化、教育公平治理与现代性符号暴力的世界性学术母语。
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
@@ -187,7 +185,7 @@ updated: 2026-10-08
 
 > [!person-network] 关系网络
 > - **师承与思想渊源** 埃米尔·涂尔干（Émile Durkheim，提供有机团结、集体意识、仪式与分类控制的社会学古典基石）、米歇尔·福柯（Michel Foucault，[[Discourse|话语]]规则与微观权力运作）。
-> - **学术盟友与理论互鉴** 迈克尔·扬（1970 年代共同开辟知识社会学转向，虽伯恩斯坦对其早期 NSE 的主观相对主义持批评态度，但晚年两人共同促成社会实在论复兴）、[[Pierre Bourdieu\|皮埃尔·布迪厄]]（英法教育再生产理论的双子星，布迪厄偏重外部[[Cultural Capital\|文化资本]]与[[Champ\|场域]]惯习，伯恩斯坦则深入剖析教育知识内部传递的代码与分类语法）、[[Stephen Ball\|斯蒂芬·鲍尔]]（运用伯恩斯坦[[Horizontal Knowledge Structure\|横向知识结构]]与话语理论重构英国教育社会学史）。
+> - **学术盟友与理论互鉴** 迈克尔·扬（1970 年代共同开辟知识社会学转向，虽伯恩斯坦对其早期 NSE 的主观相对主义持批评态度，但晚年两人共同促成社会实在论复兴）、[[Pierre Bourdieu\|皮埃尔·布迪厄]]（英法教育再生产理论的双子星，布迪厄偏重外部[[Cultural Capital\|文化资本]]与[[Champ\|场域]][[Habitus|惯习]]，伯恩斯坦则深入剖析教育知识内部传递的代码与分类语法）、[[Stephen Ball\|斯蒂芬·鲍尔]]（运用伯恩斯坦[[Horizontal Knowledge Structure\|横向知识结构]]与话语理论重构英国教育社会学史）。
 > - **论敌与方法论对立** 微观[[Phenomenology\|现象学]]派、常人方法学派与主观互动论者（批评其把制度与客观权力虚无化为纯粹的面谈协商）；保守派语言赤字论者（驳斥其将工人阶级语言判定为认知缺陷的阶级偏见）。
 
 ---
@@ -228,7 +226,7 @@ updated: 2026-10-08
 > | [[Totally Pedagogised Society]] | 概念 | 前瞻性预见教学与评估关系向全社会弥散、个体终身被纳入符号控制的现代社会趋势。 |
 > | [[Social Realism]] | 概念 | 为后继学者超越[[Radical Constructivism\|激进建构主义]]与后现代相对主义、恢复学科核心知识合法地位提供坚实概念基石。 |
 > | [[Critical Theory]] | 理论 | 为批判理论与课程社会学批判意识形态再生产提供了深度的符号与制度结构[[Analytic Framework\|分析框架]]。 |
-> | [[Discourse Analysis]] | 方法 | 奠定批判性话语分析在课程政策与教科书研究中的分类、框架与[[Coding in Qualitative Research\|编码]]分析操作规程。 |
-> | [[NZ Curriculum Refresh 2021-2026]] | 政策 | 其理论被作为诊断该国新课程改革中科学概念知识[[Attrition\|流失]]与规约性话语泛滥的核心分析框架。 |
+> | [[Discourse Analysis]] | 方法 | 奠定批判性话语分析在课程政策与教科书研究中的分类、框架与编码分析操作规程。 |
+> | [[NZ Curriculum Refresh 2021-2026]] | 政策 | 其理论被作为诊断该国新课程改革中科学概念知识流失与规约性[[Discourse\|话语]]泛滥的核心分析框架。 |
 
 

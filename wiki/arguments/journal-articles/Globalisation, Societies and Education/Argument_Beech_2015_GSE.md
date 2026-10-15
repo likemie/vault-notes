@@ -10,7 +10,7 @@ title: "Argument_Beech_2015_GSE"
 argument_key: "Argument_Beech_2015_GSE"
 argument_display_title: "Interpreting the circulation of educational discourse across space: searching for new vocabularies"
 argument_kind: "journal-article"
-argument_related_count: 34
+argument_related_count: 31
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Discourse]]"
   - "[[Methodological Nationalism]]"
-  - "[[Hypothesis]]"
   - "[[Global-Local Binary]]"
   - "[[Relational Space]]"
   - "[[Unit of Analysis]]"
@@ -33,13 +32,11 @@ related_concepts:
   - "[[Circular Transfer]]"
   - "[[Normal School]]"
   - "[[Grammar of Schooling]]"
-  - "[[Teaching Assistant]]"
   - "[[Epistemology]]"
   - "[[Government to Governance Shift]]"
   - "[[Network Governance]]"
   - "[[Posthumanism]]"
   - "[[Assemblage]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Effective Teaching]]"
 related_theories:
   - "[[Actor-Network Theory]]"
@@ -91,7 +88,7 @@ citation_aliases:
 > [!abstract]
 > 从三个层面展开批评，然后提出替代方案
 >
-> - 转移概念的静态和领土性空间[[Hypothesis\|假设]]
+> - 转移概念的静态和领土性空间假设
 > - 全球化概念的[[Global-Local Binary\|全球/地方二元对立]]
 > - [[Policy Borrowing\|政策借用]]只关注国家政策的局限
 > - [[Relational Space\|关系性空间]]概念和[[Actor-Network Theory\|行动者网络理论]]作为替代方案
@@ -121,7 +118,7 @@ citation_aliases:
 > 关系性空间概念意味着将空间理解为由社会行动者之间的关系所构成。关键概念是「网络」。网络不被包含在空间中，网络生产和塑造空间。从关系性视角来看，不存在绝对空间，而是不同的网络共存，创造不同的空间。空间研究不再基于传统的地形图分析，而是旨在分析网络配置的过程(Murdoch, 2006)。空间被视为社会过程的效果，而非容器。
 
 > [!example]- 教育中的关系性空间
-> 以一门大学课程为例，课程内容不是在某个孤立的「地方」被生产然后被「转移」到课堂的。课程空间由一系列关系构成：课程大纲连接了系主任、教授、[[Teaching Assistant\|助教]]、学生、教务处、教材出版商、学科协会、认证机构等。当教授更换教材时，整个网络发生变化，新的出版商、新的内容框架、新的学习观念都介入了。课程空间不是固定的容器，而是这些关系的效果。
+> 以一门大学课程为例，课程内容不是在某个孤立的「地方」被生产然后被「转移」到课堂的。课程空间由一系列关系构成：课程大纲连接了系主任、教授、助教、学生、教务处、教材出版商、学科协会、认证机构等。当教授更换教材时，整个网络发生变化，新的出版商、新的内容框架、新的学习观念都介入了。课程空间不是固定的容器，而是这些关系的效果。
 
 ---
 
@@ -129,7 +126,7 @@ citation_aliases:
 
 [[Global-Local Binary|全球/地方二元对立]]将全球与地方视为对立两极。在主流社会学中，地方/空间与领土邻近性、固定性、静态性和真实性相关联，而全球/空间被定义为抽象的、无限的、代表未来和运动的事物(Tuan, 1974, 1977; Cresswell, 2004; Harvey, 1989)。
 
-> [!warning] 全球/地方二元对立的三种问题[[Hypothesis\|假设]]
+> [!warning] 全球/地方二元对立的三种问题假设
 >
 > **第一种假设** 认为市场导向的教育改革纯粹是全球的。但 [[Doreen Massey]] (2009) 指出，所谓的全球不是某种外在的抽象力量，它有物质基础，是在地方环境中建构的。几乎没有哪个地方不以某种方式参与全球的建构。[[World Bank\|世界银行]]和 [[OECD]] 确实推广新自由主义政策，但生产者和再生产者这些思想的人来自具体的地方，如果这些思想在某地被制定为教育政策，也是因为某些所谓的「地方」专家或官员认可了它们。
 >
@@ -173,7 +170,7 @@ citation_aliases:
 >
 > **对称性原则**。ANT 基于[[Posthumanism\|后人类主义]]的激进社会观，假定非人类物体具有能动性，不应与人类区别对待，因为「没有非人类，人类连一分钟都撑不过」（[[Bruno Latour]], 2004, p.91）。物体施加力量，产生吸引或排斥，与其他物体和人类结合并在过程中发生变化。教科书就是一个例子，它连接了政策制定者、专家、出版商、教师、学生、家长、内容和理论、学习观念、课程等。通过教科书，所有这些行动者都在对课堂施加权力，共同定义应该学什么和如何学。如果教科书被替换为另一本，新的网络就介入了(Fenwick & Edwards, 2010)。
 >
-> **[[Assemblage\|组装]]与[[Transfer Translation Transformation\|转译]]**。人类和非人类的网络被称为组装（assemblages）。转译（translation）是行动者加入网络、组装被聚合在一起的过程。在此过程中，人类和非人类实体相互作用并相互改变，从而成为执行特定目标的协调行动者网络的一部分(Callon, 1986)。当转译过程成功时，网络可以变得稳定、被视为理所当然并被黑箱化。但转译也可能是部分的，产生弱连接和不稳定网络。
+> **[[Assemblage\|组装]]与转译**。人类和非人类的网络被称为组装（assemblages）。转译（translation）是行动者加入网络、组装被聚合在一起的过程。在此过程中，人类和非人类实体相互作用并相互改变，从而成为执行特定目标的协调行动者网络的一部分(Callon, 1986)。当转译过程成功时，网络可以变得稳定、被视为理所当然并被黑箱化。但转译也可能是部分的，产生弱连接和不稳定网络。
 >
 > **打破二元对立**。社会与自然、物质与文化、技术与社会、全球与地方等区分被视为效果而非基础假设。特别是，它们被视为网络效果。社会是一个具有无限规模互联性的组装，通过其关系支撑着我们世界的意义。
 
@@ -224,7 +221,7 @@ citation_aliases:
 
 > [!success]
 >
-> **既有词汇的局限**。转移、全球化、[[Policy Borrowing\|政策借用]]等概念基于领土性和静态的空间[[Hypothesis\|假设]]，无法捕捉教育[[Discourse|话语]]跨空间流通的复杂性。这些概念有时被用作逃避复杂性的舒适方式。
+> **既有词汇的局限**。转移、全球化、[[Policy Borrowing\|政策借用]]等概念基于领土性和静态的空间假设，无法捕捉教育[[Discourse|话语]]跨空间流通的复杂性。这些概念有时被用作逃避复杂性的舒适方式。
 >
 > **[[Global-Local Binary\|全球/地方二元对立]]的误导**。将全球与地方视为对立两极掩盖了权力关系的复杂性。全球化概念需要被锐化而非被丢弃，需要仔细定义其含义、边界和行动者。
 >

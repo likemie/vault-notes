@@ -35,12 +35,10 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Source Evaluation]]"
   - "[[Reliability]]"
-  - "[[Hypothesis]]"
   - "[[Growth]]"
   - "[[Dialogue in Education]]"
   - "[[Cooperative Learning]]"
   - "[[STEM Education]]"
-  - "[[Document]]"
   - "[[Critical Thinking]]"
   - "[[Epistemic Ideals]]"
 related_theories: []
@@ -50,7 +48,6 @@ related_methods:
   - "[[Case Study]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Multimodal Discourse Analysis]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Discourse Analysis]]"
 related_instruments: []
 related_persons:
@@ -73,7 +70,7 @@ title: "Argument_Han_Gutierez_2026_IJSE"
 argument_key: "Argument_Han_Gutierez_2026_IJSE"
 argument_display_title: "‘How can we check the evidence presented by GenAI’s response?’: students’ epistemic vigilance of their co-constructed scientific explanations with GenAI"
 argument_kind: "journal-article"
-argument_related_count: 35
+argument_related_count: 32
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -107,7 +104,7 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
-> | **认识论警觉理论**<br>[[Epistemological Vigilance]] | 源自认知科学与科学教育（[[Dan Sperber\|Sperber et al., 2010]]; Bielik & Krell, 2025; Tseng et al., 2021），指学习者在接收外界传递的信息时保持的主动核验与批判审查机制，涵盖三个维度：内容评估（判断内容是否合理、片面或脱离语境）、[[Source Evaluation\|信源评估]]（考察信息提供者的专业性与[[Reliability\|可靠性]]）以及接收者评估（反思自身的理解程度与先验[[Hypothesis\|假设]]）。（pp.4–5） |
+> | **认识论警觉理论**<br>[[Epistemological Vigilance]] | 源自认知科学与科学教育（[[Dan Sperber\|Sperber et al., 2010]]; Bielik & Krell, 2025; Tseng et al., 2021），指学习者在接收外界传递的信息时保持的主动核验与批判审查机制，涵盖三个维度：内容评估（判断内容是否合理、片面或脱离语境）、[[Source Evaluation\|信源评估]]（考察信息提供者的专业性与[[Reliability\|可靠性]]）以及接收者评估（反思自身的理解程度与先验假设）。（pp.4–5） |
 > | **显性认识论支架理论**<br>[[Epistemic Scaffolding]] | 源自计算机支持的协作学习与分布式支架理论（Lin & Puntambekar, 2019; Puntambekar, 2021; Barzilai et al., 2020），主张通过清晰展示学科评价标准与反思提示，帮助学生掌握如何评价知识主张与论证质量的规则。（pp.4–6） |
 > | **科学解释评价标准**<br>[[Scientific Explanation]] | 源自科学教育研究（[[William A. Sandoval\|Sandoval, 2005]]; de Andrade et al., 2019），确立了优质科学解释的四项核心准则：相关性（回答核心问题）、因果叙事（揭示因果链条）、概念框架（依托系统科学概念）与适切表征水平（微观与宏观机制匹配），以此作为学生评估生成内容质量的操作基准。（pp.5–6） |
 > | **人机协同中的认识主体性**<br>[[Epistemic Agency]] | 强调在人工智能辅助学习中，学生必须始终保有对知识有效性的判断权、证据的核验权与解释方案的决定权，防止将思考过程完全外包给算法（[[Argument_Wu_2025_ER\|Wu et al., 2025]]; [[Argument_Du_Yuan_2026_AIS\|Du & Yuan, 2026]]）。（pp.3–4, 6–7） |
@@ -136,7 +133,7 @@ issuing_organization: ""
 > | 样本层面 | 构成 |
 > |---|---|
 > | **参与者构成** | 8 名初中二年级学生（分为 4 个[[Cooperative Learning\|合作学习]]小组：A-B、C-D、E-F、G-H），此前在小学阶段系统学习过[[Scientific Explanation\|科学解释]]评价标准，并具备基础的 Canva 和 ChatGPT 使用经验。（pp.6–8） |
-> | **语料情境** | 课后非计分自愿拓展活动；课堂对话与访谈均以韩语原声进行并逐字转录，抽取 4 组核心对话片段英译后进行深层多模态[[Coding in Qualitative Research\|编码]]。（pp.8–9） |
+> | **语料情境** | 课后非计分自愿拓展活动；课堂对话与访谈均以韩语原声进行并逐字转录，抽取 4 组核心对话片段英译后进行深层多模态编码。（pp.8–9） |
 > | **分析层级** | 包含四层架构：（1）宏观[[Epistemology\|认识论]]事件划分；（2）中观评价动作编码；（3）微观多模态[[Discourse Analysis\|话语分析]]；（4）跨数据源[[Triangulation\|三角互证]]（录像、制品、访谈）。（pp.9–10） |
 
 > [!row-contrast] 表1：课程设计与[[Man-Computer Symbiosis|人机协同]]课堂规范（源自 Table 1, p. 7）
@@ -267,7 +264,7 @@ issuing_organization: ""
 > | 合作小组与任务 | 针对人工智能输出提出的信源追问 | 教科书权威比对与多方查验动作 | 最终决策与态度 |
 > |---|---|---|---|
 > | **小组 A-B**<br>（Canva 植物生长） | “Canva 没有告诉我们这些信息来自哪里，所以我们应该去核对其他来源。”（行 24） | 立即翻开手边的科学教科书，逐一比对器官协同输送水和能量的具体过程。（行 22–23） | “查过教科书之后，我认为绝不能仅仅因为是 AI 写的就完全相信它。”（行 28） |
-> | **小组 C-D**<br>（ChatGPT 真菌分类） | “ChatGPT 没有说明它是从哪里得到这些结论的，让我们要求它给出参考来源。”（行 14） | 学生 D 提出：“如果它能给出生物教科书或权威科学机构的依据，核实后我们才能更信任它。”（行 15） | 尽管 ChatGPT 表示信息来自生物学[[Document\|文献]]，学生仍坚持查阅教材核实分类标准。（行 16–18） |
+> | **小组 C-D**<br>（ChatGPT 真菌分类） | “ChatGPT 没有说明它是从哪里得到这些结论的，让我们要求它给出参考来源。”（行 14） | 学生 D 提出：“如果它能给出生物教科书或权威科学机构的依据，核实后我们才能更信任它。”（行 15） | 尽管 ChatGPT 表示信息来自生物学文献，学生仍坚持查阅教材核实分类标准。（行 16–18） |
 > | **小组 E-F**<br>（Canva 四季豆故事） | “谁能证明这个解释是对的？Canva 能说明信息来源吗？”（行 37） | 面对 Canva 的常识性回答，学生 E 依然坚持：“我们还是得对照教科书核对，因为它没给具体出处。”（行 39） | 确认教科书中有相同的茎部输导机制后才采纳内容，拒绝未经验证的输出。（行 40） |
 > | **小组 G-H**<br>（Canva 吸水图解） | “Canva 没有给出明确来源。我更相信科学教科书，因为那是科学家编写的。”（行 47） | 将生成的微观吸收图与教科书中的标准解剖图谱进行仔细比对。（行 43–44） | “教科书上的内容与修改后的图画一致，现在可以确认它是可靠的了。”（行 48） |
 

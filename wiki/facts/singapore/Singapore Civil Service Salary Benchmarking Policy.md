@@ -11,7 +11,7 @@ subtype: policy
 region: singapore
 fact_region: "singapore"
 fact_kind: "policy"
-fact_related_count: 6
+fact_related_count: 5
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#dbeafe"
@@ -24,7 +24,6 @@ tags:
   - theme/market-benchmarking
   - region/singapore
 related_concepts:
-  - "[[Attrition]]"
   - "[[Competitiveness]]"
   - "[[Technological Republic]]"
 related_persons:
@@ -36,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Singapore Civil Service Salary Benchmarking Policy
@@ -48,7 +47,7 @@ updated: 2026-10-09
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1994 年 10 月至 11 月由新加坡政府向国会提交《竞争性薪酬确保廉洁高效政府》（*Competitive Salaries for Competent & Honest Government: Benchmarks for Ministers & Senior Public Officers*）白皮书，经议会充分辩论后正式确立。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16|(Karp & Zamiska, 2025, p. 182)]]
 > - **适用地区 / 对象** 覆盖新加坡内阁部长、法官、高级政务官员以及高级文官行政服务序列（Administrative Service）。
-> - **问题背景** 伴随 1980–1990 年代新加坡金融、法律与高科技制造业的迅猛扩张，私营部门高管薪酬大幅飙升；公共部门面临顶尖专业人才[[Attrition|流失]]加剧与潜在贪腐风险上升的治理挑战。
+> - **问题背景** 伴随 1980–1990 年代新加坡金融、法律与高科技制造业的迅猛扩张，私营部门高管薪酬大幅飙升；公共部门面临顶尖专业人才流失加剧与潜在贪腐风险上升的治理挑战。
 > - **制度位置** 将以往零散的薪酬调整升级为制度化、透明化且与私营市场顶尖行业收入对标的法定公式，奠定新加坡现代文官制度的基石。
 
 ---
@@ -100,7 +99,7 @@ updated: 2026-10-09
 > | 行动者 | 资源类型 | 核心利益 | 立场 | 策略 |
 > |:---|:---|:---|:---|:---|
 > | [[Lee Kuan Yew\|李光耀]]与执政内阁 | 政治权威 / 立法权 | 确保国家治理机器吸引全社会顶尖人才并维持绝对廉洁 | 强力支持倡导 | 提出白皮书并在国会开展公开辩论，将务实薪酬制度化 |
-> | 高级公务员与技术官僚 | 政策执行力 / 专业能力 | 获得与自身专业能力匹配的市场尊严与稳定预期 | 支持拥护 | 积极投身国家重大战略规划，降低向私营部门[[Attrition\|流失]]率 |
+> | 高级公务员与技术官僚 | 政策执行力 / 专业能力 | 获得与自身专业能力匹配的市场尊严与稳定预期 | 支持拥护 | 积极投身国家重大战略规划，降低向私营部门流失率 |
 > | 议会反对党与部分公众 | 舆论监督 / 选民诉求 | 担忧公职演变为高薪特权阶层，要求强化民生关联 | 质疑审慎 | 推动设立独立审查委员会，增加包容性增长考核指标 |
 
 ---
@@ -109,7 +108,7 @@ updated: 2026-10-09
 
 > [!indicators]- 评估指标体系
 > - **政府清廉与效能指数** 常年位居透明国际（Transparency International）与[[World Bank|世界银行]]全球前列。
-> - **人才留存率** 高级技术官僚向私营企业[[Attrition|流失]]的比例显著受控，确保重大国家战略规划连续性。
+> - **人才留存率** 高级技术官僚向私营企业流失的比例显著受控，确保重大国家战略规划连续性。
 > - **行政效率与经济增长** 支撑新加坡从第三世界跃升为全球顶尖科技、物流与金融中心。
 
 > [!finding-cards] 核心政策发现

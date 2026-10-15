@@ -7,7 +7,7 @@ aliases:
 summary: "指在21世纪软件世纪中，大国战略安全与地缘均势不再主要取决于传统动能硬件与核武器物理存量，而转由人工智能算法、自主无人系统、边缘算力与敏捷软件开发能力所决定的新型战略威慑形态。强调软件跃居指挥调度中枢、硬件降维为执行载体，以低成本分布式算法蜂群重构非对称攻防成本，为伦理约束下的民主政体提供常规威慑支柱。"
 type: concept
 domain: "educational-policy"
-related_count: 27
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Emergence]]"
   - "[[Swarm Intelligence]]"
   - "[[Technological Republic]]"
-  - "[[Document]]"
   - "[[Winner's Fallacy]]"
   - "[[Hard Power]]"
   - "[[Long Peace]]"
@@ -54,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # AI Deterrence
@@ -184,7 +183,7 @@ updated: 2026-10-09
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 关键机制 | 代表学者与[[Document\|文献]] |
+> | 命题类型 | 核心指向 | 关键机制 | 代表学者与文献 |
 > |:---|:---|:---|:---|
 > | **战略研发不可暂停** | 面对大国战略竞争，民主阵营绝不可单方面叫停前沿武器 AI 研发 | 警惕自满与[[Winner's Fallacy\|胜者谬误]]；维护地缘制衡主动权 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025) |
 > | **软硬件层级颠倒** | 软件跃升为战术指挥中枢，低成本算法蜂群颠覆传统装备成本曲线 | 软件定义作战；破除千亿美元重型硬件陷阱；非对称蜂群打击 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025) |

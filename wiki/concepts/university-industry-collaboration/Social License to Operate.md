@@ -10,7 +10,7 @@ aliases:
 summary: "指大学及科研机构在法律法定办学资质之外，由周边社区、纳税人、政策制定者及广大公众基于对学术机构公共价值、透明伦理及社会贡献的认可而自发赋予的非正式、动态演变的社会信任与合法性契约"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Public Value]]"
   - "[[Strategic Compliance]]"
   - "[[Dialogue in Education]]"
-  - "[[Attrition]]"
   - "[[Grandes Ecoles]]"
   - "[[Emergence]]"
   - "[[Knowledge Production]]"
@@ -46,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Social License to Operate
@@ -77,7 +76,7 @@ updated: 2026-10-12
 > | **授权主体** | 纳税人、在地社区、学生家庭与公众 | 国家教育部、地方政府与法定认证署 | 大学管理层自身聘用的宣传公关部门 |
 > | **契约性质** | 不成文的隐性道德信任与社会契约 | 具有法律效力的成文行政许可法规 | 旨在提升机构形象的单向传播活动 |
 > | **维系机制** | 双向公众[[Dialogue in Education\|对话]]、伦理自律与社会责任 | 达到生师比、校舍与财务合规审计 | 媒体投放、新闻发布与品牌声誉推广 |
-> | **丧失后果** | 公共信任危机、生源[[Attrition\|流失]]与财政被削减 | 被吊销办学资质、勒令整改或停办 | 品牌知名度下降或公关危机事件 |
+> | **丧失后果** | 公共信任危机、生源流失与财政被削减 | 被吊销办学资质、勒令整改或停办 | 品牌知名度下降或公关危机事件 |
 > | **动态特征** | **脆弱易逝**，需要持续通过实践争取 | 相对稳定，遵循法定周期进行复审 | 战术性操作，随具体危机公关事件变动 |
 
 ---

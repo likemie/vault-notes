@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08"
 argument_display_title: "Research Methods in Education · Ch08"
 argument_kind: "book-chapter"
-argument_related_count: 64
+argument_related_count: 62
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -48,7 +48,6 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Research Question]]"
   - "[[Fitness for Purpose]]"
-  - "[[Hypothesis]]"
   - "[[Purpose Statement]]"
 related_theories:
   - "[[Central Limit Theorem]]"
@@ -87,7 +86,6 @@ related_methods:
   - "[[Snowball Sampling]]"
   - "[[Dimensional Sampling]]"
   - "[[Volunteer Sampling]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Multilevel Mixed Methods Sampling]]"
   - "[[Parallel Mixed Methods Sampling]]"
   - "[[Sequential Mixed Methods Sampling]]"
@@ -293,7 +291,7 @@ Bartlett et al.（2001, pp. 48–9）还指出：
 
 确定样本量还必须考虑：
 - **无回应（non-response）** 部分参与者不返回[[Questionnaire|问卷]]
-- **[[Attrition|流失]]（attrition）** 参与者中途退出研究
+- **流失（[[Attrition]]）** 参与者中途退出研究
 - **受访者死亡（respondent mortality）** 参与者离开或因故无法继续
 - **无效回应** 不完整或损坏的问卷（如漏填项目、单选变多选）
 
@@ -649,7 +647,7 @@ $$[[Causal Modeling|SEM]] = \frac{SD_{s}}{\sqrt{N}}$$
 ##### 理论抽样
 
 > [!step] 理论抽样（Theoretical Sampling）
-> [[Grounded Theory\|扎根理论]]的核心特征。Glaser & Strauss（1967, p. 45）指出，在数据收集过程中，研究者收集、[[Coding in Qualitative Research\|编码]]和分析数据，分析结果影响下一步从谁那里、在哪里收集什么数据。两个关键问题：
+> [[Grounded Theory\|扎根理论]]的核心特征。Glaser & Strauss（1967, p. 45）指出，在数据收集过程中，研究者收集、编码和分析数据，分析结果影响下一步从谁那里、在哪里收集什么数据。两个关键问题：
 >
 > 1. 下一步转向哪些群体获取数据
 > 2. 为哪些理论目的寻求进一步数据
@@ -721,7 +719,7 @@ Teddlie & Tashakkori（2009, pp. 186–7）还推荐了两种混合变体：
 ---
 
 > [!chain-link] 混合方法抽样策略的八项准则（Teddlie & Tashakkori, 2009, pp. 192–3）
-> - **逻辑源自研究问题** 抽样策略应从研究问题或[[Hypothesis\|假设]]中逻辑推导而来。
+> - **逻辑源自研究问题** 抽样策略应从研究问题或假设中逻辑推导而来。
 > - **忠实于假定** 忠实于抽样策略所依据的假定（如随机分配、总体中特征的均匀分布等）。
 > - **生成所需数据** 生成能够回答研究问题的定性和定量数据。
 > - **支持清晰推论** 能从数值数据和定性数据中得出清晰推论。

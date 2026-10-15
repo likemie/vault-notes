@@ -9,7 +9,7 @@ aliases:
 summary: "对真实世界复杂系统的计算机建模与交互式表征，既作为教育研究中基于复杂性理论检验假设与探索涌现规律的建模方法，又作为科学教育中为学习者提供可操纵变量与实时反馈的数字化探究微世界"
 type: concept
 domain: "educational-technology"
-related_count: 46
+related_count: 44
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -22,7 +22,6 @@ tags:
   - science-education
 related_concepts:
   - "[[Epistemology]]"
-  - "[[Hypothesis]]"
   - "[[STEM Education]]"
   - "[[Variable]]"
   - "[[Causality]]"
@@ -37,7 +36,6 @@ related_concepts:
   - "[[Causal Processes]]"
   - "[[Hawthorne Effect]]"
   - "[[Inquiry-Based Learning]]"
-  - "[[Document]]"
   - "[[Concept Mapping]]"
   - "[[Determinism]]"
   - "[[Direct Instruction]]"
@@ -76,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-19
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Computer Simulation
@@ -85,7 +83,7 @@ updated: 2026-09-22
 
 ## 定义
 
-计算机模拟（Computer Simulation），亦称计算机仿真或虚拟仿真，在现代教育科学中具有双重[[Epistemology|认识论]]定位：既是研究者用来对复杂动态社会系统进行建模、推理与[[Hypothesis|假设]]检验的研究方法，又是科学与 [[STEM Education|STEM]] 教育中为学习者提供直观可操纵[[Variable|变量]]、动态交互可视化与反思支架的数字化探究微世界（Micro-worlds）。
+计算机模拟（Computer Simulation），亦称计算机仿真或虚拟仿真，在现代教育科学中具有双重[[Epistemology|认识论]]定位：既是研究者用来对复杂动态社会系统进行建模、推理与假设检验的研究方法，又是科学与 [[STEM Education|STEM]] 教育中为学习者提供直观可操纵[[Variable|变量]]、动态交互可视化与反思支架的数字化探究微世界（Micro-worlds）。
 
 > [!def] 核心定义
 > 作为研究工具，计算机模拟是对真实世界系统的计算机表征，通过数学模型与算法规则使理论显性化，支持在受控条件下进行“what-if”[[Causality\|因果推断]]与多主体[[Emergence\|涌现]]分析（Gilbert & Troitzsch, 2005；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al., 2011, Ch. 19]]）。作为教学技术，计算机模拟通过将微观分子运动、电磁场分布、天体轨道或生态平衡等隐性抽象机制显性化，为学习者创设安全、可重复、即时反馈的实验探究环境；多项权威[[Meta-analysis\|元分析]]证实，配备[[Scaffolding\|认知支架]]的计算机模拟探究在促进概念理解、科学推理与学习兴趣上显著优于传统讲授与常规纸笔实验（Smetana & Bell, 2012; d'Angelo et al., 2014；[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 5]]）。
@@ -122,7 +120,7 @@ updated: 2026-09-22
 > |---|---|---|---|---|
 > | **核心机理** | 基于数学物理模型计算并动态反馈系统状态 | 用户多能动性在开放虚拟空间中社交互动 | 基于学生模型与领域知识库自动推理推题 | 操纵真实物理器材与物质反应 |
 > | **[[Variable\|变量]]状态** | 参数清晰可控，适合隔离与测试[[Causality\|因果关系]] | 边界模糊开放，系统行为具有极高偶发性 | 跟踪学生答题正确率与知识图谱掌握度 | 存在大量不可控环境噪音与测量误差 |
-> | **用户角色** | 积极的研究者或探究者（操纵变量与检验[[Hypothesis\|假设]]） | 社区公民与[[Role-playing\|角色扮演]]者（创造数字生活） | 任务完成者与针对性指导接受者 | 实验操作员与实物现象观察者 |
+> | **用户角色** | 积极的研究者或探究者（操纵变量与检验假设） | 社区公民与[[Role-playing\|角色扮演]]者（创造数字生活） | 任务完成者与针对性指导接受者 | 实验操作员与实物现象观察者 |
 > | **时间性** | 瞬时、可逆、可暂停、可倍速快进 | 持续流逝（用户离线后世界仍运转） | 依据答题节奏线性递进 | 严格受制于真实物理时间与化学反应周期 |
 > | **主要教育功能** | 科学微世界探究、概念转变与变量控制训练 | 沉浸式情境体验与跨文化合作交流 | 规则性技能精熟训练与针对性补救 | 动手操作技能养成与真实器材规范体验 |
 
@@ -167,7 +165,7 @@ updated: 2026-09-22
 > **复杂系统根植于简单生成规则** 真实世界的社会与教育现象虽然表象高度复杂，但其底层往往建立在相对简单的局部互动规则之上。计算机模拟的理论基础植根于[[Complexity Theory\|复杂性理论]]，通过反复迭代初始参数与 what-if 操作，研究者能够观察到复杂系统中微观行动者交互如何自组织涌现出宏观的群体行为模式（如学业分流固化、资源竞争极化），有力驳斥了模拟必然陷入过度简化论的机械批评。（Waldrop, 1992；引自 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al., 2011, Ch. 19, pp. 147–154]]）
 
 > [!claim] Gilbert, N. & Troitzsch, K. G.
-> **诠释力与解释力优先于表层预测** 模拟的价值不仅在于对未来[[Performance Indicators\|绩效指标]]进行定量数值预测，更在于获得对复杂社会[[Causal Processes\|因果过程]]如何随时间展开的动态机制解释。模拟模型将原本隐蔽在黑箱中的理论[[Hypothesis\|假设]]具象化为可操纵的代码逻辑，赋予了研究者探索[[Counterfactual\|反事实]]场景的强大[[Epistemology\|认识论]]工具。（Gilbert & Troitzsch, 2005；引自 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al., 2011, Ch. 19, pp. 5–6]]）
+> **诠释力与解释力优先于表层预测** 模拟的价值不仅在于对未来[[Performance Indicators\|绩效指标]]进行定量数值预测，更在于获得对复杂社会[[Causal Processes\|因果过程]]如何随时间展开的动态机制解释。模拟模型将原本隐蔽在黑箱中的理论假设具象化为可操纵的代码逻辑，赋予了研究者探索[[Counterfactual\|反事实]]场景的强大[[Epistemology\|认识论]]工具。（Gilbert & Troitzsch, 2005；引自 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al., 2011, Ch. 19, pp. 5–6]]）
 
 ---
 
@@ -184,7 +182,7 @@ updated: 2026-09-22
 ### 命题三　配备认知支架与即时介入的模拟探究在概念理解与科学推理上系统优于传统教学
 
 > [!concept-lens] 科学[[Inquiry-Based Learning\|探究学习]]效能与支架协同维度
-> 聚焦现代教育技术[[Document\|文献]]，确立虚拟模拟在 [[STEM Education\|STEM]] 概念学习与远迁移中的循证优势。
+> 聚焦现代教育技术文献，确立虚拟模拟在 [[STEM Education\|STEM]] 概念学习与远迁移中的循证优势。
 
 > [!claim] Smetana, L. K. & Bell, R. L.
 > **支持结构下模拟探究的压倒性促学优势** 对 61 项实证研究的[[Systematic Review\|系统综述]]表明，计算机模拟并非放任学生随意乱试的数字玩具，当模拟配备了清晰的引导问题、反思提示或[[Concept Mapping\|概念图]]支架时，高达 80% 的实证研究证实计算机模拟探究在促进学科概念掌握与推理技能上显著优于传统讲授与纯实体实验。（Smetana & Bell, 2012；引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 5]]）
@@ -272,7 +270,7 @@ updated: 2026-09-22
 > 科罗拉多大学研发的 PhET 交互式物理仿真库（如“单摆实验”、“电路搭建”、“光电效应”）在全球数千万课堂中广泛普及。在单摆探究中，学生可以随意调整摆线长度、摆锤质量、振幅角度，甚至切换地球、月球与木星重力场。系统不直接给出单摆周期公式 $T = 2\pi\sqrt{L/g}$，而是允许学生在毫秒级秒表与动态能量条形图反馈中自主探索。通过将不可见的动能与势能相互转化可视化，学生自主发现“摆锤质量对周期毫无影响”的反直觉规律，随后由教师进行公式推导，实现了技术微世界与课堂讲授的完美融合。
 
 > [!case] 基于主体的社会分流建模（NetLogo Schelling 模型；Cohen et al., 2011, p. 156）
-> 研究者为了解释为何微观上并不极端的个体偏好会导致宏观上高度隔离的居住与[[School Choice\|择校]]分流，建立了基于主体的计算机模拟。模型中，每个代理（Agent）仅拥有极温和的局部规则（例如：“只要邻居中有 30% 与自己同族即感到满意，否则随机搬家迁徙”）。模拟启动后，经历数百轮迭代，全域系统迅速自组织[[Emergence\|涌现]]出 100% 深度隔离的板块格局。该模拟无需[[Hypothesis\|假设]]种族歧视，纯粹通过微观简单互动展现了宏观涌现的不可逆机制，成为反思择校均衡化政策的经典科研模拟。
+> 研究者为了解释为何微观上并不极端的个体偏好会导致宏观上高度隔离的居住与[[School Choice\|择校]]分流，建立了基于主体的计算机模拟。模型中，每个代理（Agent）仅拥有极温和的局部规则（例如：“只要邻居中有 30% 与自己同族即感到满意，否则随机搬家迁徙”）。模拟启动后，经历数百轮迭代，全域系统迅速自组织[[Emergence\|涌现]]出 100% 深度隔离的板块格局。该模拟无需假设种族歧视，纯粹通过微观简单互动展现了宏观涌现的不可逆机制，成为反思择校均衡化政策的经典科研模拟。
 
 ---
 
@@ -297,5 +295,5 @@ updated: 2026-09-22
 ## 使用此概念的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统梳理虚拟仿真[[Document\|文献]]，引用 Smetana & Bell (2012) 61 项综述与 d'Angelo et al. (2014) 59 项[[Meta-analysis\|元分析]]，确立配备[[Scaffolding\|认知支架]]与即时介入的计算机模拟探究在概念掌握与推理技能上的显著循证优势。
+> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统梳理虚拟仿真文献，引用 Smetana & Bell (2012) 61 项综述与 d'Angelo et al. (2014) 59 项[[Meta-analysis\|元分析]]，确立配备[[Scaffolding\|认知支架]]与即时介入的计算机模拟探究在概念掌握与推理技能上的显著循证优势。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch19\|Cohen et al. (2011, Ch. 19)]] — 详尽解构计算机模拟作为研究方法的理论逻辑，剖析其在[[Complexity Theory\|复杂性理论]]、系统[[Emergence\|涌现]]建模、实验控制与人性保持中的四项优势与十一项反思批判。

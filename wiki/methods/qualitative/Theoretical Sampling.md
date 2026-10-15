@@ -7,7 +7,7 @@ summary: "扎根理论的核心抽样方法，数据收集与分析迭代推进�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 12
+method_related_count: 10
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -18,12 +18,10 @@ tags:
 related_concepts:
   - "[[Saturation]]"
   - "[[Unit of Analysis]]"
-  - "[[Hypothesis]]"
   - "[[Emergence]]"
 related_theories: []
 related_methods:
   - "[[Grounded Theory]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Sample Size Determination]]"
   - "[[Qualitative Research]]"
   - "[[Analytic Induction]]"
@@ -36,14 +34,14 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-22
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 # Theoretical Sampling
 
 ## 定义
 
 > [!def] 方法定义
-> 理论抽样（Theoretical Sampling）是[[Grounded Theory\|扎根理论]]的核心抽样方法（Glaser & Strauss, 1967）。研究者收集数据、[[Coding in Qualitative Research\|编码]]和分析数据，分析结果影响下一步从谁那里、在哪里收集什么数据。样本选择由理论发展驱动——随着理论浮现，下一步数据收集自然呈现。持续至[[Saturation\|理论饱和]]（[[Saturation\|theoretical saturation]]）：新数据不再推进、修改、限定、扩展或增加已发展的理论（Glaser & Strauss, 1967, p. 61）。
+> 理论抽样（Theoretical Sampling）是[[Grounded Theory\|扎根理论]]的核心抽样方法（Glaser & Strauss, 1967）。研究者收集数据、编码和分析数据，分析结果影响下一步从谁那里、在哪里收集什么数据。样本选择由理论发展驱动——随着理论浮现，下一步数据收集自然呈现。持续至[[Saturation\|理论饱和]]（[[Saturation\|theoretical saturation]]）：新数据不再推进、修改、限定、扩展或增加已发展的理论（Glaser & Strauss, 1967, p. 61）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 能够推动理论发展的群体、个体或情境
@@ -54,7 +52,7 @@ updated: 2026-10-08
 ## 研究程序
 
 > [!proc] 迭代程序
-> 1. 收集初始数据，进行[[Coding in Qualitative Research\|编码]]和分析。
+> 1. 收集初始数据，进行编码和分析。
 > 2. 分析结果指出下一步需要从哪些群体获取数据、为哪些理论目的。
 > 3. 继续收集、编码、分析，循环迭代。
 > 4. 当达到[[Saturation\|理论饱和]]时停止。
@@ -88,7 +86,7 @@ Flick（2004b: 151）将理论抽样称为"[[Qualitative Research|质性研究]]
 >
 > 意外发现：这些教师反而有高士气——因为他们习惯了对问题学生的期望（不惊讶不受威胁），且同事之间提供巨大相互支持——大家都深知与挑战学生共事的感受。
 >
-> 焦点转移：转向破坏性学生很少的学校——竟发现这群教师经历极低士气。研究者[[Hypothesis\|假设]]逻辑链浮现：高期望→仅一二学生不遵守→期望落空→更高士气打击（因为被视为教师弱点，同事互助少）。理论被精炼：教师士气受期望的影响大于受破坏性行为本身→进行"最大变异抽样"→跨校探究期望与士气的关系。抽样随研究推进和理论[[Emergence\|涌现]]而变化——这就是理论抽样。
+> 焦点转移：转向破坏性学生很少的学校——竟发现这群教师经历极低士气。研究者假设逻辑链浮现：高期望→仅一二学生不遵守→期望落空→更高士气打击（因为被视为教师弱点，同事互助少）。理论被精炼：教师士气受期望的影响大于受破坏性行为本身→进行"最大变异抽样"→跨校探究期望与士气的关系。抽样随研究推进和理论[[Emergence\|涌现]]而变化——这就是理论抽样。
 
 Ezzy（2002, pp. 74–75）在其失业研究中给出了另一个示例：初步理论认为失业者的痛苦程度受财务困难影响。他访谈了有债务和无债务的低收入与高收入失业群体，发现痛苦程度更受收入与债务之比的影响，而非绝对收入水平。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|(Cohen et al., 2011, p. 422)]]
 

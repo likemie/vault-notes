@@ -9,7 +9,7 @@ aliases:
 summary: "由瓦尔·拉斯特基于挪威自1840年代以来的教育改革委员会制度实践提炼的跨国政策借用分析框架，涵盖发起调研、凝聚共识、确立法律框架与推进实施四个阶段，阐明主权国家如何通过常设专门委员会与民主协商白皮书，实现高度自主且具制度韧性的外部经验筛选与本土化重塑。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 20
+theory_related_count: 19
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -21,7 +21,6 @@ tags:
 related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Influences Across Cultures]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Paradigm]]"
   - "[[Cross-National Attraction]]"
   - "[[Going Native]]"
@@ -64,7 +63,7 @@ updated: 2026-10-15
 > - **知识位置** 隶属于比较教育学中的[[Policy Borrowing|教育借用]]与[[Influences Across Cultures|跨文化影响]]理论谱系，与牛津大学戴维·菲利普斯（[[David Phillips]]）的四阶段政策借用模型构成东西方学术对话互鉴。
 
 > [!claim] 核心判断
-> 成功的跨国教育政策借用并非突发式盲目移植，而是高度制度化的国家治理艺术。挪威自 1840 年代以来的改革实践证明，通过“常设调查委员会（调研）➔ 议会白皮书（共识）➔ 民主国家立法（法治）➔ 福利体制重组（实施）”四阶段链条，国家能够建立强大的外来经验过滤与[[Transfer Translation Transformation|转译]]缓冲机制，实现将外部多国异质[[Paradigm|范式]]与本土民主平等价值观的高度整合。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 124, 126)]]
+> 成功的跨国教育政策借用并非突发式盲目移植，而是高度制度化的国家治理艺术。挪威自 1840 年代以来的改革实践证明，通过“常设调查委员会（调研）➔ 议会白皮书（共识）➔ 民主国家立法（法治）➔ 福利体制重组（实施）”四阶段链条，国家能够建立强大的外来经验过滤与转译缓冲机制，实现将外部多国异质[[Paradigm|范式]]与本土民主平等价值观的高度整合。[[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 124, 126)]]
 
 ---
 
@@ -102,7 +101,7 @@ updated: 2026-10-15
 > | **一、发起调研** | 皇家改革调查委员会 | 比较国别考察调研报告 | 扫描斯堪的纳维亚、西欧及北美 | 开阔政策视野，解构单一[[Path Dependence\|路径依赖]] |
 > | **二、凝聚共识** | 议会、政党、教师工会与公众 | 政府白皮书与政策辩论记录 | 评估外部模型与本国国情的兼容度 | 剥离意识形态异质物，凝聚民主认同 |
 > | **三、确立框架** | 挪威议会与教育部 | 基础教育法案与规程立法 | 确立国家主权法律刚性约束 | 将软性外部经验固化为刚性法律制度 |
-> | **四、推进实施** | 地方市政学区、学校与社区 | 综合学校体系与地方课程重构 | 与邻国实施成效开展持续追踪比对 | 完成制度[[Transfer Translation Transformation\|转译]]，融入北欧福利国家机制 |
+> | **四、推进实施** | 地方市政学区、学校与社区 | 综合学校体系与地方课程重构 | 与邻国实施成效开展持续追踪比对 | 完成制度转译，融入北欧福利国家机制 |
 
 ---
 

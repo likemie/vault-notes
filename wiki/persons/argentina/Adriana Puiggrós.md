@@ -45,8 +45,8 @@ related_theories:
 related_methods: []
 related_instruments: []
 related_persons:
-  - "[[Carlos Alberto Torres]]"
   - "[[Liliana Esther Olmos]]"
+  - "[[Carlos Alberto Torres]]"
   - "[[Paulo Freire]]"
   - "[[Ernesto Schiefelbein]]"
 related_facts:
@@ -68,10 +68,10 @@ updated: 2026-10-15
 
 > [!person-profile] 人物档案
 > - **身份位置** 阿根廷著名马克思主义教育史学家、批判比较教育学家、政策实践者与左翼政治家；布宜诺斯艾利斯大学哲学与文学系荣休教授，曾任阿根廷教育部副部长、布宜诺斯艾利斯省教育文化总局局长及拉美比较教育学会（SAECE）会长。
-> - **核心角色** 拉美激进教育史与教育政治社会学领域的核心开拓者；开创拉美教育制度历史替代方案研究计划（APPEAL）；其学术工作深刻揭示了国家统治霸权、[[Neocorporatism|法团主义]]恩庇与帝国主义干预如何塑造学校教育，并在与[[Carlos Alberto Torres|托雷斯]]的合作中系统论证了新自由主义国家撤资对公共[[Pedagogical Subject|教育主体]]（Pedagogical Subjects）的瓦解效应。
+> - **核心角色** 拉美激进教育史与教育政治社会学领域的核心开拓者；开创拉美教育制度历史替代方案研究计划（APPEAL）；其学术工作深刻揭示了国家统治霸权、[[Neocorporatism|法团主义]]恩庇与帝国主义干预如何塑造学校教育，并在与托雷斯的合作中系统论证了新自由主义国家撤资对公共[[Pedagogical Subject|教育主体]]（Pedagogical Subjects）的瓦解效应。
 > - **代表贡献** 提出系统的拉美教育历史分期与批判[[Paradigm|范式]]；出版《帝国主义与拉丁美洲教育》（1980）、《受主体困扰的臣民：阿根廷[[Dialogue in Education|教育对话]]》（1990）以及《拉丁美洲的国家与公共教育》（与托雷斯合著，1995/2007）。
 
-> [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]论普伊格罗斯对国家撤资与教育主体瓦解的批判
+> [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论普伊格罗斯对国家撤资与教育主体瓦解的批判
 > 相似的论断适用于拉丁美洲公共教育投资的国家撤资现象，以及这一过程如何严重损害了公民作为教育主体的形塑。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 79)]]
 >
 > *A similar argument is made about the withdrawal of state investment in public education in Latin America and how that would affect the constitution of citizens as pedagogical subjects.*
@@ -86,7 +86,7 @@ updated: 2026-10-15
 > - **1974** 阿根廷右翼极端势力暗杀威胁与随后的军事政变迫使其流亡墨西哥，进入墨西哥国立自治大学（UNAM）攻读拉丁美洲研究博士学位并任教。
 > - **1980** 在墨西哥出版开创性著作《帝国主义与拉丁美洲教育》（*Imperialismo y educación en América Latina*），将[[Dependency Theory|依附理论]]与[[Hegemony|葛兰西霸权理论]]融汇于拉美教育史研究。
 > - **1984** 阿根廷恢复民主宪政后返回祖国，在布宜诺斯艾利斯大学创立“拉美教育历史替代方案研究计划”（APPEAL），主持编撰十卷本《阿根廷教育史》（*Historia de la educación en la Argentina*）。
-> - **1990 年代** 与[[Carlos Alberto Torres|托雷斯]]密切合作，深入批判[[World Bank|世界银行]]结构调整与[[Washington Consensus|华盛顿共识]]在拉美推行的教育市场化改革。
+> - **1990 年代** 与托雷斯密切合作，深入批判[[World Bank|世界银行]]结构调整与[[Washington Consensus|华盛顿共识]]在拉美推行的教育市场化改革。
 > - **2005–2007** 出任布宜诺斯艾利斯省教育文化总局局长（正部级），力推公立学校民主化改革。
 > - **2019–2020** 出任阿根廷国家教育部副部长。
 
@@ -121,7 +121,7 @@ updated: 2026-10-15
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 开创了拉美批判教育史学派与 APPEAL 研究纲领，直接影响了整个伊比利亚美洲关于正规教育与非正规[[Popular Education|民众教育]]冲突演变的理论建构；其关于“[[Pedagogical Subject|教育主体]]”的分析被[[Carlos Alberto Torres|托雷斯]]等学者深度整合入国家[[Critical Theory|批判理论]]。
+> - **理论路径** 开创了拉美批判教育史学派与 APPEAL 研究纲领，直接影响了整个伊比利亚美洲关于正规教育与非正规[[Popular Education|民众教育]]冲突演变的理论建构；其关于“[[Pedagogical Subject|教育主体]]”的分析被托雷斯等学者深度整合入国家[[Critical Theory|批判理论]]。
 > - **政策路径** 作为副部长和教育局长直接参与阿根廷全国[[General Act of Education of 1970|普通教育法]]修订与公立师资培训体系改革，坚决抵制极端新自由主义教育券实验。
 > - **跨国／跨领域传播** 思想广泛辐射墨西哥、巴西、智利及北美比较教育学界，被视为拉美与全球[[Critical Pedagogy|批判教育学]]对话的代表性桥梁学者之一。
 

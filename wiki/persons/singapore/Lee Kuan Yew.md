@@ -8,7 +8,7 @@ summary: "新加坡建国总理（1959–1990年在任）。以千年期战略�
 type: person
 nationality: singapore
 person_region: "singapore"
-person_related_count: 23
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -27,7 +27,6 @@ tags:
 related_concepts:
   - "[[Paradigm]]"
   - "[[Junzi]]"
-  - "[[Document]]"
   - "[[Value Neutrality]]"
   - "[[Technological Republic]]"
   - "[[Cosmopolitanism]]"
@@ -56,7 +55,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Lee Kuan Yew
@@ -95,7 +94,7 @@ updated: 2026-10-10
 
 > [!thought-timeline] 治国思想演进历程
 > - **1965–1970年代 — 千年存续视野与多族群国家建构** 面对独立初期的地缘脆弱性与资源匮乏，确立以千年期时间尺度思考国家生存的执政意志；突破自由放任教条，在土地、住房与基础设施中强化国家能动性。
->   - **代表[[Document|文献]]** 1965 年酒商公会建国演说；1979 年双语教育改革指令。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 194)]]
+>   - **代表文献** 1965 年酒商公会建国演说；1979 年双语教育改革指令。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 194)]]
 >   - **关键概念** 千年战略视野、国家生存意志、跨族群共同体。
 >   - **阶段转向** 从反对殖民统治的政治动员，转向以极长程理性计算为核心的国家制度建构。
 > - **1979–1980年代 — 语言统合、共有价值观与防卫意志** 依据《[[Goh Report|吴庆瑞报告]]》推动[[Speak Mandarin Campaign|讲华语运动]]与道德教育，强调缺乏文化价值观引领的社会在危机中必将涣散，将共享语言与公民身份作为国家防卫的底座。

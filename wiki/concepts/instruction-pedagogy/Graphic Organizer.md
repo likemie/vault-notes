@@ -8,10 +8,10 @@ aliases:
 summary: "通过空间隐喻与视觉拓扑结构表征概念关系、逻辑论证与层级脉络的教学与认知脚手架，能有效卸载低阶信息检索负荷并释放高阶认知资源"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 31
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/graphic-organizer
   - instruction/pedagogy
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Seductive Details Effect]]"
   - "[[Brainstorming]]"
   - "[[Externalization]]"
-  - "[[Hypothesis]]"
   - "[[Wicked Problem]]"
   - "[[Causality]]"
   - "[[Variable]]"
@@ -44,7 +43,6 @@ related_concepts:
 related_theories:
   - "[[Knowledge Integration]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Meta-analysis]]"
   - "[[Prediction Interval]]"
   - "[[Correlational Research]]"
@@ -58,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-03
+updated: 2026-10-15
 ---
 
 # Graphic Organizer
@@ -102,10 +100,10 @@ updated: 2026-10-03
 ## 核心要素
 
 > [!feature] 核心要素
-> - **空间隐喻表征（Spatial Metaphors）** 利用空间邻近性、包含关系与层级走向[[Coding in Qualitative Research\|编码]]语义关联，借助大脑海马体与大脑皮层的空间感知通道实现长时记忆联结。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 2–3)]]
+> - **空间隐喻表征（Spatial Metaphors）** 利用空间邻近性、包含关系与层级走向编码语义关联，借助大脑海马体与大脑皮层的空间感知通道实现长时记忆联结。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 2–3)]]
 > - **核心信息筛选与提炼（Key Information Selection）** 剥离非关键细节与表层语言冗余，凸显核心概念节点与关键证据要素。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 1–2)]]
 > - **结构拓扑与层级组织（Structural Topology & Hierarchy）** 通过中心辐射、逻辑推论链或概念交叉网络，清晰呈现概念间的从属、因果、对立与协同关系。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 3–4)]]
-> - **认知加工外显化（[[Externalization]] of Thought）** 将隐性思维过程、[[Hypothesis\|假设]]检验与推论跳跃转化为可见的可视化实体，便于自我监控与同伴协作修正。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 2–3)]]
+> - **认知加工外显化（[[Externalization]] of Thought）** 将隐性思维过程、假设检验与推论跳跃转化为可见的可视化实体，便于自我监控与同伴协作修正。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 2–3)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid

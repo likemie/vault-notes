@@ -4,15 +4,13 @@ aliases: ["四端", "siduan", "four beginnings"]
 summary: "孟子提出的性善论基础，四种先天的道德萌芽，恻隐之心，羞恶之心，辞让之心，是非之心，为修身提供人性论依据"
 type: concept
 domain: "chinese-philosophy"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 8
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags: ["region/china", "theory/confucianism", "field/chinese-philosophy", "theme/moral-psychology"]
 related_concepts:
   - "[[Self-Cultivation]]"
-  - "[[Benevolence]]"
-  - "[[Ritual Propriety]]"
   - "[[Sage]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
@@ -28,7 +26,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-08-20
+updated: 2026-10-15
 ---
 
 # Four Sprouts
@@ -42,9 +40,9 @@ updated: 2026-08-20
 
 具体而言，四种萌芽包括：
 
-1. 恻隐之心——对他人苦难的同情能力，通向"[[Benevolence|仁]]"
+1. 恻隐之心——对他人苦难的同情能力，通向"仁"
 2. 羞恶之心——感受羞耻的能力，通向"义"
-3. 辞让之心——谦恭与辞让的能力，通向"[[Ritual Propriety|礼]]"
+3. 辞让之心——谦恭与辞让的能力，通向"礼"
 4. 是非之心——辨别对错的能力，通向"智"
 
 ([[Argument_Li_2012_Cambridge|Li, 2012, pp.42-43]])

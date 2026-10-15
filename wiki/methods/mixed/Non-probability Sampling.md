@@ -9,9 +9,9 @@ summary: "研究者有针对性地选择特定群体作为样本的抽样策略�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 32
-method_related_level: 4
-method_related_stars: "⭐⭐⭐⭐"
+method_related_count: 31
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#fef3c7"
 tags:
   - method/sampling
@@ -39,7 +39,6 @@ related_methods:
   - "[[Survey Research]]"
   - "[[Focus Group]]"
   - "[[Narrative Analysis]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Convenience Sampling]]"
   - "[[Quota Sampling]]"
   - "[[Purposeful Sampling]]"
@@ -58,7 +57,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-21
-updated: 2026-10-01
+updated: 2026-10-15
 ---
 # Non-probability Sampling
 
@@ -89,7 +88,7 @@ updated: 2026-10-01
 > [!method-stack] 方法层级
 > - **研究设计**[[Case Study\|案例研究]]、[[Ethnography\|民族志]]、[[Action Research\|行动研究]]、[[Grounded Theory\|扎根理论]]、试点研究和小规模[[Survey Research\|调查研究]]
 > - **数据收集** 访谈、观察、[[Focus Group\|焦点小组]]、[[Questionnaire\|问卷]]试点、档案分析和文件审查
-> - **分析方法** 主题分析、[[Narrative Analysis\|叙事分析]]、扎根理论[[Coding in Qualitative Research\|编码]]、案例内/跨案例分析
+> - **分析方法** 主题分析、[[Narrative Analysis\|叙事分析]]、扎根理论编码、案例内/跨案例分析
 > - **辅助技术** 滚雪球扩展、关键信息提供者识别、受访者驱动招募、加权调整
 
 ## 子类型总览

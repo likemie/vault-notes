@@ -9,10 +9,10 @@ summary: "波兰裔英国比较教育学家，伦敦大学教育研究院（IOE�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 16
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 14
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1928"
 died: "2003"
 lifespan: "1928–2003"
@@ -23,7 +23,6 @@ tags:
   - theme/historiography
   - theme/institutional-history
 related_concepts:
-  - "[[Document]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Positivism]]"
   - "[[Disciplina and Doctrina]]"
@@ -39,7 +38,6 @@ related_persons:
   - "[[Edmund King]]"
   - "[[Oskar Anweiler]]"
   - "[[Brian Holmes]]"
-  - "[[Isaiah Berlin]]"
   - "[[Robert Cowen]]"
 related_facts:
   - "[[Comparative Education Society in Europe]]"
@@ -48,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Janusz Tomiak
@@ -59,7 +57,7 @@ updated: 2026-10-08
 
 > [!person-profile] 人物档案
 > - **身份位置** 波兰裔英国著名比较教育学家、苏联与中东欧教育研究专家，伦敦大学教育研究院（Institute of Education, IOE）比较教育学系副教授（Reader）兼伦敦大学斯拉夫和东欧研究学院（School of Slavonic and East European Studies, SSEES）教授；[[Comparative Education Society in Europe|欧洲比较教育学会]]（[[Comparative Education Society in Europe|CESE]]）核心理事。
-> - **核心角色** 战后伦敦大学比较教育“文化主义”（Culturalist）学派与中东欧社会主义教育体制研究的核心领军学者。[[Wolfgang Mitter|沃尔夫冈·米特]]（[[Wolfgang Mitter]]）指出，托米亚克在伦敦大学 IOE 内部与[[Nicholas Hans|尼古拉斯·汉斯]]（[[Nicholas Hans]]）、约瑟夫·劳威斯（[[Joseph Lauwerys]]）及[[Edmund King|埃德蒙·金]]（[[Edmund King]]）共同构成了坚守文化与历史脉络的学者群像；同时，在冷战铁幕对峙与意识形态偏见的背景下，托米亚克凭借深厚的斯拉夫语言[[Document|文献]]功底，开创了跨越地缘阵营的客观实证研究。
+> - **核心角色** 战后伦敦大学比较教育“文化主义”（Culturalist）学派与中东欧社会主义教育体制研究的核心领军学者。[[Wolfgang Mitter|沃尔夫冈·米特]]（[[Wolfgang Mitter]]）指出，托米亚克在伦敦大学 IOE 内部与[[Nicholas Hans|尼古拉斯·汉斯]]（[[Nicholas Hans]]）、约瑟夫·劳威斯（[[Joseph Lauwerys]]）及[[Edmund King|埃德蒙·金]]（[[Edmund King]]）共同构成了坚守文化与历史脉络的学者群像；同时，在冷战铁幕对峙与意识形态偏见的背景下，托米亚克凭借深厚的斯拉夫语言文献功底，开创了跨越地缘阵营的客观实证研究。
 > - **代表贡献**
 >   - **开辟西方苏联教育研究高地** 出版《苏联教育》（*The Soviet Union*, 1972）、编著《1980年代的苏联教育》（*Soviet Education in the 1980s*, 1983）等经典著作，成为英语世界把握苏联教育政策与体制演变最权威的学术参考文献。
 >   - **坚守文化主义与一手档案考证** 抵御冷战宣传与教条反共脸谱化论调，坚持以大量苏联官方统计报表、教育法案公文与课程大纲等[[Primary and Secondary Documents|一手文献]]进行深度历史情境化解读。
@@ -80,7 +78,7 @@ updated: 2026-10-08
 > - **1960s** 受约瑟夫·劳威斯与[[Nicholas Hans|尼古拉斯·汉斯]]举荐，进入伦敦大学教育研究院（IOE）比较教育系任教，同时在伦敦大学斯拉夫和东欧研究学院（SSEES）兼领教席。
 > - **1970–1985** 成为全英乃至整个西欧斯拉夫与苏联教育研究的核心学术协调人，主编多套东欧教育研究丛书，长期主持全英苏联与东欧研究协会（BASEES）教育分会。
 > - **1970s–1980s** 在 IOE 内部，面对[[Brian Holmes|布莱恩·霍姆斯]]（[[Brian Holmes]]）推行的[[Positivism|实证主义]][[Problem Approach|问题法]]浪潮，托米亚克与劳威斯、考恩共同捍卫了历史考据与文化理解的学统。
-> - **1989–1991** [[Isaiah Berlin|柏林]]墙倒塌与苏联解体期间，受邀深入莫斯科、基辅与华沙考察转型期学校体制，为联合国与欧洲委员会提供转型教育评估。
+> - **1989–1991** 柏林墙倒塌与苏联解体期间，受邀深入莫斯科、基辅与华沙考察转型期学校体制，为联合国与欧洲委员会提供转型教育评估。
 > - **2003** 逝世于英国伦敦。
 
 ---

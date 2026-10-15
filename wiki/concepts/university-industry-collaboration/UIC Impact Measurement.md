@@ -8,7 +8,7 @@ aliases:
 summary: "Cohen、Fernandes and Godinho（2025）通过系统综述 92 篇文献提出的 UIC 影响测量综合框架，将 25 种产学合作影响归入智力、经济、技术、环境、社会和战略六种类型，并以主体、时间、发生方式和性质四个辅助维度交叉分类，同时识别四类测量挑战与七项应对策略"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 13
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Multiplicity]]"
   - "[[University Spin-Out]]"
   - "[[Innovation Ecosystem]]"
-  - "[[Document]]"
   - "[[Problem Solving]]"
   - "[[Competitiveness]]"
   - "[[Responsible Innovation]]"
@@ -38,7 +37,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-05
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # UIC Impact Measurement
@@ -59,7 +58,7 @@ updated: 2026-10-07
 
 ## 影响分类系统
 
-Cohen 等人（2025）通过对 92 篇[[Document|文献]]的[[Systematic Review|系统综述]]，识别出 25 种 UIC 影响并建立了一个五维分类系统（pp.354–361）。
+Cohen 等人（2025）通过对 92 篇文献的[[Systematic Review|系统综述]]，识别出 25 种 UIC 影响并建立了一个五维分类系统（pp.354–361）。
 
 ### 六种影响类型
 
@@ -141,7 +140,7 @@ Cohen 等人识别出四类系统性测量挑战（pp.362–363）：
 
 ## 应对策略
 
-通过[[Document|文献]]自反性主题分析，七项策略被识别用于克服上述挑战（pp.363–364）：
+通过文献自反性主题分析，七项策略被识别用于克服上述挑战（pp.363–364）：
 
 > [!success] 七项策略
 > 1. **合作全生命周期持续监控** 对输入、过程活动、输出和成果同时跟踪，而非仅关注末端专利和许可（Albats et al., 2018）

@@ -7,7 +7,7 @@ aliases:
 summary: "一种教学理论框架，依据教师把学习结果归因于学生特征、教师行为还是完整教学系统，区分三个递进的教学观层次。"
 type: theory
 theory_field: "instruction-pedagogy"
-theory_related_count: 15
+theory_related_count: 14
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Didaktik]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Classroom Observation]]"
   - "[[Correlational Research]]"
 related_persons:
@@ -119,7 +118,7 @@ updated: 2026-10-15
 
 > [!theory-use] 如何用于研究
 > - **作为理论框架** 组织教师教学观、归因方式和课程设计责任的[[Research Question\|研究问题]]。
-> - **作为分析工具** 按“学生是什么／教师做什么／学生做什么”[[Coding in Qualitative Research\|编码]]访谈、[[Classroom Observation|课堂观察]]或教学设计文本。
+> - **作为分析工具** 按“学生是什么／教师做什么／学生做什么”编码访谈、[[Classroom Observation|课堂观察]]或教学设计文本。
 > - **作为批判视角** 检查教师发展项目是否把教学质量压缩为技巧清单，或把学习失败单向归责于学生。
 > - **报告方式** 分别报告教师表达的教学观、实际课程安排和学生学习活动，避免仅凭其中一类材料判定教师所处层次。
 

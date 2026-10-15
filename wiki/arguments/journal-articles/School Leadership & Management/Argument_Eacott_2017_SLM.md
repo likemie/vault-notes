@@ -9,7 +9,7 @@ title: "Argument_Eacott_2017_SLM"
 argument_key: "Argument_Eacott_2017_SLM"
 argument_display_title: "School leadership and the cult of the guru: The neo-Taylorism of Hattie"
 argument_kind: "journal-article"
-argument_related_count: 41
+argument_related_count: 38
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -33,12 +33,10 @@ related_concepts:
   - "[[Cult of Efficiency]]"
   - "[[Neo-Taylorism]]"
   - "[[Cult of the Guru]]"
-  - "[[Assemblage]]"
   - "[[Ontological Complicity]]"
   - "[[Champ]]"
   - "[[Rational-Control Rhetoric]]"
   - "[[Visible Learning]]"
-  - "[[Document]]"
   - "[[Discourse]]"
   - "[[Instructional Leadership]]"
   - "[[Transformative Leadership]]"
@@ -48,7 +46,6 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Positivism]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Initial Teacher Training]]"
   - "[[Cognitive Deskilling]]"
   - "[[Teacher Professional Agency]]"
@@ -99,7 +96,7 @@ updated: 2026-09-16
 > - **对象** 澳大利亚[[School Leadership\|学校领导力]]实践、哈蒂的VL品牌与国家行政权力的结盟。
 > - **工具** 卡拉汉的[[Cult of Efficiency\|效率崇拜]]历史类比，诊断VL为重构学校领导力的[[Neo-Taylorism\|新泰勒主义]]。
 > - **张力** 方法论的严厉学术批判与政策/实践界将哈蒂封神并制度性深锁之间的巨大鸿沟。
-> - **结论** 盲从[[Cult of the Guru\|大师崇拜]]是学校领导力的悲剧，它剥夺了教师自主权并倒退回百年前泰勒制的[[Assemblage\|装配]]线控制中（p.422）。
+> - **结论** 盲从[[Cult of the Guru\|大师崇拜]]是学校领导力的悲剧，它剥夺了教师自主权并倒退回百年前泰勒制的装配线控制中（p.422）。
 
 ---
 
@@ -129,7 +126,7 @@ updated: 2026-09-16
 > |----------|------|
 > | **政策与商业文本** | 澳大利亚《墨尔本宣言》（MCEETYA 2008）、[[Australian Institute for Teaching and School Leadership\|AITSL]] 国家教师与校长专业标准、ACEL 官方商业声明与出版物。 |
 > | **测试绩效体系** | NAPLAN（国家评估计划）、[[PISA]]（国际学生评估项目）、TIMSS（国际数学和科学趋势研究）的历史分析文本。 |
-> | **历史比较对象** | 20 世纪初弗雷德里克·泰勒的科学管理体系、20 世纪初以库伯利（Ellwood Cubberly）等为代表的美国教育行政学[[Document\|文献]]。 |
+> | **历史比较对象** | 20 世纪初弗雷德里克·泰勒的科学管理体系、20 世纪初以库伯利（Ellwood Cubberly）等为代表的美国教育行政学文献。 |
 
 ---
 
@@ -187,10 +184,10 @@ updated: 2026-09-16
 
 在VL的逻辑[[Disciplina and Doctrina|规训]]下，原本深藏于师生认知内部的隐性教学过程被强制拉扯到外部可观察的数据层面上。这催生了行政监控上的绝对教条：“无数据即无学习，无学习即无教学”（p.420）。教学过程不再是复杂的互动，而被归入绩效赤字和需要行政干预的“管理问题”。举证责任被彻底倒置：教师必须向校长展示其教学对学生学习的数据影响，校长也必须向系统展示其资源配置的数据成效（pp.420–421）。
 
-早在 1950 和 60 年代，以库伯森（Jack Culbertson, 1981）为代表的“理论运动”曾试图引入[[Herbert A. Simon|赫伯特·西蒙]]（[[Herbert A. Simon|Herbert Simon]]）的行政行为学说和逻辑[[Positivism|实证主义]]，建立一门预测性的教育行政科学，但以失败告终。哈蒂则通过创建一门看似可操作的教学科学，实现了这一夙愿（p.419）。哈蒂本人长期担任 [[Australian Institute for Teaching and School Leadership|AITSL]] 主席，使VL和绩效数据逻辑直接[[Transfer Translation Transformation|转译]]为国家教师与校长专业标准、以及学校年度绩效考核的铁律。墨尔本大学甚至开发了 TeacherSelector 软件，在入口端对[[Initial Teacher Training|初始教师教育]]（ITE）申请者进行“科学筛选”（p.421）。至此，从入职筛选、国家标准到日常考核，哈蒂品牌完成了与国家科层行政权力的合谋。
+早在 1950 和 60 年代，以库伯森（Jack Culbertson, 1981）为代表的“理论运动”曾试图引入[[Herbert A. Simon|赫伯特·西蒙]]（[[Herbert A. Simon|Herbert Simon]]）的行政行为学说和逻辑[[Positivism|实证主义]]，建立一门预测性的教育行政科学，但以失败告终。哈蒂则通过创建一门看似可操作的教学科学，实现了这一夙愿（p.419）。哈蒂本人长期担任 [[Australian Institute for Teaching and School Leadership|AITSL]] 主席，使VL和绩效数据逻辑直接转译为国家教师与校长专业标准、以及学校年度绩效考核的铁律。墨尔本大学甚至开发了 TeacherSelector 软件，在入口端对[[Initial Teacher Training|初始教师教育]]（ITE）申请者进行“科学筛选”（p.421）。至此，从入职筛选、国家标准到日常考核，哈蒂品牌完成了与国家科层行政权力的合谋。
 
 > [!tension] [[Cognitive Deskilling|去技能化]]与科学筛选的幻觉
-> 这种将教学分割为最小可测量单元并按图索骥的改进方式，不仅是对泰勒制[[Assemblage\|装配]]线的模仿，更是对[[Teacher Professional Agency\|教师专业自主权]]的彻底瓦解。教师不再是具有情境感知和反思能力的专业人士，而沦为哈蒂效应量清单下照本宣科的流水线工人。这正是澳大利亚[[School Leadership\|学校领导力]]的真正悲剧（p.422）。
+> 这种将教学分割为最小可测量单元并按图索骥的改进方式，不仅是对泰勒制装配线的模仿，更是对[[Teacher Professional Agency\|教师专业自主权]]的彻底瓦解。教师不再是具有情境感知和反思能力的专业人士，而沦为哈蒂效应量清单下照本宣科的流水线工人。这正是澳大利亚[[School Leadership\|学校领导力]]的真正悲剧（p.422）。
 
 ---
 

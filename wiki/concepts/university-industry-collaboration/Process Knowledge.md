@@ -8,10 +8,10 @@ aliases:
 summary: "存在于熟练工程师、技师与实验科学家身上、无法完全编码为图纸与专利的排障手感与默会实践经验；作为技术能力的核心支柱，依赖物理邻近与制造生态传承，并在智能充沛时代构成物理创新的关键约束。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 33
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 27
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/innovation
   - theme/manufacturing
@@ -19,17 +19,14 @@ tags:
   - theme/science-policy
 related_concepts:
   - "[[21st Century Skills and Competencies Discourse]]"
-  - "[[Assemblage]]"
   - "[[Innovation Ecosystem]]"
   - "[[Apprenticeship]]"
   - "[[Pilot Scale Platform]]"
   - "[[Learning by Doing]]"
-  - "[[Attrition]]"
   - "[[Tacit Knowledge]]"
   - "[[Theoretical Knowledge]]"
   - "[[Variable]]"
   - "[[Research Translation]]"
-  - "[[Hypothesis]]"
   - "[[Phronesis]]"
   - "[[Industrial Commons]]"
   - "[[Generative Artificial Intelligence]]"
@@ -38,18 +35,15 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Practitioner-in-Residence]]"
   - "[[Innovation Hub]]"
-  - "[[Document]]"
   - "[[Total Quality Management]]"
   - "[[Technological Catch-up]]"
 related_theories:
   - "[[Evolutionary Economics]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
-  - "[[Alfred Nobel]]"
   - "[[Chris Freeman]]"
 related_facts:
   - "[[Workforce Pell Grants 2025]]"
@@ -60,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Process Knowledge
@@ -70,13 +64,13 @@ updated: 2026-10-14
 ## 定义
 
 > [!def] 核心定义
-> 过程知识（Process Knowledge）是指深植于熟练工程师、技师与实验科研人员身体经验之中，无法被文字、图纸、配方或专利完全[[Coding in Qualitative Research|编码]]的排障手感、即兴调优直觉与复杂工艺权衡经验。它与实体物理工具（如光刻机、反应釜）和显性规程（如工程图纸、标准操作规范）共同构成技术的三大支柱，是决定一项科学理论能否在物理实体世界中被稳定制造并持续迭代的[[21st Century Skills and Competencies Discourse|关键能力]]层。[[Argument_Kratsios_2026_OSTP|Kratsios (2026, p. 47)]]
+> 过程知识（Process Knowledge）是指深植于熟练工程师、技师与实验科研人员身体经验之中，无法被文字、图纸、配方或专利完全编码的排障手感、即兴调优直觉与复杂工艺权衡经验。它与实体物理工具（如光刻机、反应釜）和显性规程（如工程图纸、标准操作规范）共同构成技术的三大支柱，是决定一项科学理论能否在物理实体世界中被稳定制造并持续迭代的[[21st Century Skills and Competencies Discourse|关键能力]]层。[[Argument_Kratsios_2026_OSTP|Kratsios (2026, p. 47)]]
 > 迈克尔·波兰尼（Michael Polanyi）将其经典界定为“我们知道的比我们能说出来的更多”（We know more than we can tell）。在尖端制造业中，资深焊工听得出焊道内部缺陷，微纳加工专家掌握晶圆清洗中极细微的温湿度调控直觉，制药工程师认得决定批次活性的微妙流体变化，此类认知均无法被完全写入标准操作文档。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 47)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 揭示为何拥有相同的公开论文、专利授权与进口设备，外部实验室或工厂仍无法自发复现尖端技术（如先进制程良率爬坡、复杂激光器[[Assemblage|装配]]）。
+> - **含义** 揭示为何拥有相同的公开论文、专利授权与进口设备，外部实验室或工厂仍无法自发复现尖端技术（如先进制程良率爬坡、复杂激光器装配）。
 > - **用途** 评估去工业化与制造离岸外包对国家原始[[Innovation Ecosystem|创新生态]]的隐性侵蚀，为重构[[Apprenticeship|学徒制]]、[[Pilot Scale Platform|中试平台]]与区域制造集群提供理论依据。
-> - **边界** 过程知识并非神秘不可知的文化禀赋，而是依托物理邻近、师徒接触与“[[Learning by Doing|干中学]]”（Learning by Doing）在产线和实验室现场累积的专业技能；脱离实体制造环境将迅速发生不可逆的经验[[Attrition|流失]]。
+> - **边界** 过程知识并非神秘不可知的文化禀赋，而是依托物理邻近、师徒接触与“[[Learning by Doing|干中学]]”（Learning by Doing）在产线和实验室现场累积的专业技能；脱离实体制造环境将迅速发生不可逆的经验流失。
 
 > [!boundary]- 概念边界
 > - 不等于专利与公开论文 — 专利和论文属于可编码的显性知识（Explicit Knowledge）；过程知识是使图纸转化为高良率实体产品的排障手感与[[Tacit Knowledge|默会知识]]（Tacit Knowledge）。
@@ -91,11 +85,11 @@ updated: 2026-10-14
 > [!contrast-table] 知识形态的三维分类与特征辨析
 > | 比较维度 | 理论科学知识（[[Theoretical Knowledge]]） | 显性工程规程（Explicit Codified Knowledge） | 默会过程知识（Tacit Process Knowledge） |
 > |:---|:---|:---|:---|
-> | **存在形态** | 数学公式、物理定律、学术论文 | 工程蓝图、专利说明书、标准操作规程（SOP） | 技师排障手感、[[Assemblage\|装配]]直觉、多[[Variable\|变量]]工艺微调经验 |
+> | **存在形态** | 数学公式、物理定律、学术论文 | 工程蓝图、专利说明书、标准操作规程（SOP） | 技师排障手感、装配直觉、多[[Variable\|变量]]工艺微调经验 |
 > | **传递载体** | 课堂教学、学术期刊、教材阅读 | 数字化文档、技术授权许可、图纸图样 | 人际面对面接触、现场[[Apprenticeship\|学徒制]]、长期产线实操 |
 > | **跨地域流动性** | 极高（光速网络传输、全球开源共享） | 极高（数字化文件跨境传输、设备采购） | 极低（高度黏着于本土熟练劳动力与制造生态） |
-> | **创新功能** | 提供机理理解与[[Hypothesis\|假设]]生成空间 | 规定技术复现的基本参数与结构基线 | 攻关良品率爬坡、消除制造缺陷、反哺新设计 |
-> | **[[Attrition\|流失]]风险** | 永久留存于人类知识库，几乎不流失 | 受产权保护，过期或解密后永久存在 | 随产线外迁与技师退休发生断崖式、不可逆流失 |
+> | **创新功能** | 提供机理理解与假设生成空间 | 规定技术复现的基本参数与结构基线 | 攻关良品率爬坡、消除制造缺陷、反哺新设计 |
+> | **流失风险** | 永久留存于人类知识库，几乎不流失 | 受产权保护，过期或解密后永久存在 | 随产线外迁与技师退休发生断崖式、不可逆流失 |
 
 ---
 
@@ -103,13 +97,13 @@ updated: 2026-10-14
 
 > [!taxonomy] 技术的三大实体构成支柱
 > - **物理设备与工具（Hardware & Tools）** 光刻机、精密离子注入机、电子显微镜及工业母机等重资产硬件；具备资本的实体均可通过市场采购获得。
-> - **显性[[Coding in Qualitative Research|编码]]规程（Explicit Codified Recipes）** 专利文本、配方表、材料成分配比与电路图纸；能够被记录并在介质上快速跨国复制。
+> - **显性编码规程（Explicit Codified Recipes）** 专利文本、配方表、材料成分配比与电路图纸；能够被记录并在介质上快速跨国复制。
 > - **默会过程知识（Tacit Process Knowledge）** 排除半导体良率故障、调控极端物理环境下材料退火微结构、平衡性能与工艺容差的[[Phronesis|实践智慧]]；深植于熟练工程师与工匠身上。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 47)]]
 
 > [!feature] 过程知识的核心生产与传递机制
 > - **人身近距接触与现场浸润** 科学社会学家哈里·科林斯（Harry Collins）对 1970 年代横向激发大气压（TEA）激光器实验室复制史的考察表明：仅凭公开论文与图纸，全球无一实验室能够成功复现；所有成功者均曾亲自派遣学者进驻原作者实验室与技师共同调试，且复现者往往无法用语言穷尽其所习得的手法。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 47–48)]]
 > - **研发与制造的物理邻近性（Physical Proximity）** 半导体物理学家从产线良率攻坚中提炼前沿理论难题，机器人工程师在数控机床旁依据切削振动即时修改机械结构设计；科学研究与实体生产的近距离互动构成了知识迭代的生命线。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 54)]]
-> - **学徒动手技艺先于理论抽象** 2017 年[[Alfred Nobel|诺贝尔]]物理学奖得主赖纳·魏斯（Rainer Weiss）在成为顶尖实验物理学家之前，曾长期在麻省理工学院（MIT）实验室担任技师并向老工匠系统学习车工、钎焊与电路布线；魏斯将此归结为实验科学中的即兴技艺（improvisational art），正是精湛的仪器建造直觉使其成功设计出引力波天文台（LIGO）原型机。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 51)]]
+> - **学徒动手技艺先于理论抽象** 2017 年诺贝尔物理学奖得主赖纳·魏斯（Rainer Weiss）在成为顶尖实验物理学家之前，曾长期在麻省理工学院（MIT）实验室担任技师并向老工匠系统学习车工、钎焊与电路布线；魏斯将此归结为实验科学中的即兴技艺（improvisational art），正是精湛的仪器建造直觉使其成功设计出引力波天文台（LIGO）原型机。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 51)]]
 
 ---
 
@@ -120,7 +114,7 @@ updated: 2026-10-14
 ### 命题一　制造外流将诱发工程设计能力与前沿探索问题的不可逆衰减
 
 > [!concept-lens] [[Industrial Commons|产业公地]]（Industrial Commons）与设计-制造反馈循环
-> 检验将实体制造外包离岸、仅在本土保留高附加值设计与论文研发的政策[[Hypothesis|假设]]是否有效。
+> 检验将实体制造外包离岸、仅在本土保留高附加值设计与论文研发的政策假设是否有效。
 
 > [!claim] Kratsios, M. J.; [[Chris Freeman|Freeman, C.]]
 > **制造集聚地必然在演进中掌控核心设计能力** 技术创新的长期经济回报与战略主导权，不在于实验室产出论文的瞬间，而在于将原型设计转化为可量化生产、降低制造成本并维持密集供应商网络的后续工艺攻关。当实体制造外迁后，本土科学家将失去由真实生产难题激发的科研问题来源，本土工程界也将丧失关键工艺经验；长期承接实体制造的区域将在反复迭代中积累深厚的过程知识，并在高端工程设计与设备制造上反向实现超越。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 48, 54)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–11)]]
@@ -181,5 +175,5 @@ updated: 2026-10-14
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技战略报告，系统提出过程知识理论框架，阐释技术三形态、激光复现与 LIGO 技艺案例，主张以社区学院、[[Apprenticeship|学徒制]]与区域[[Innovation Hub|创新中心]]守护国家制造公地。
-> - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — [[Evolutionary Economics|演化经济学]]经典[[Document|文献]]，详尽论证车间工艺学习、[[Total Quality Management|全面质量管理]]与现场[[Learning by Doing|干中学]]是战后东亚跨越式[[Technological Catch-up|技术追赶]]的核心动力，深刻批判西方轻视过程知识的单纯研发指标论。
+> - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — [[Evolutionary Economics|演化经济学]]经典文献，详尽论证车间工艺学习、[[Total Quality Management|全面质量管理]]与现场[[Learning by Doing|干中学]]是战后东亚跨越式[[Technological Catch-up|技术追赶]]的核心动力，深刻批判西方轻视过程知识的单纯研发指标论。
 > - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al. (2013)]] — 批判线性模型深层文化偏见，论证工程发明与仪器研制对基础理论探索的前提使能作用。

@@ -11,9 +11,9 @@ aliases:
 summary: "由 J. P. Guilford 于 1967 年开发的经典发散思维与创造力认知测评工具，要求被试在限定时间内为日常物品提出非常规、新颖且实用的用途，从流畅性、灵活性、原创性与精致性四个维度量化发散认知潜能。"
 type: instrument
 instrument_type: test
-instrument_related_count: 15
-instrument_related_level: 3
-instrument_related_stars: "⭐⭐⭐"
+instrument_related_count: 14
+instrument_related_level: 2
+instrument_related_stars: "⭐⭐"
 instrument_related_color: "#dbeafe"
 part_of: ""
 developers:
@@ -41,7 +41,6 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Test-Retest Reliability]]"
   - "[[Meta-analysis]]"
 related_arguments:
@@ -52,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-02
-updated: 2026-09-02
+updated: 2026-10-15
 ---
 
 # Alternate Uses Test
@@ -83,7 +82,7 @@ updated: 2026-09-02
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
 > |---|---|---|---|
 > | **流畅性（Fluency）** | 3–6 项物品 | 规定时间内生成的有效、不重复且符合逻辑的用途总数 | 统计有效独立答案总个数 |
-> | **灵活性/变通性（Flexibility）** | 3–6 项物品 | 生成用途所跨越的语义范畴或功能概念类别的数量 | 依据[[Coding in Qualitative Research\|编码]]类目字典统计概念类别转换总数 |
+> | **灵活性/变通性（Flexibility）** | 3–6 项物品 | 生成用途所跨越的语义范畴或功能概念类别的数量 | 依据编码类目字典统计概念类别转换总数 |
 > | **原创性/独创性（Originality）** | 3–6 项物品 | 生成用途在统计上的罕见程度、新颖度与远距离联想深度 | 统计样本中出现频率较低（如 $< 5\%$）的答案，或采用专家主观共识评分（CAT）及自然语言语义距离计算（SemDis） |
 > | **精致性（Elaboration）** | 3–6 项物品 | 对提出用途进行细节补充、情境阐述与实施构想的丰富程度 | 依据添加的细节描述要点进行等级评分（1–5 分） |
 

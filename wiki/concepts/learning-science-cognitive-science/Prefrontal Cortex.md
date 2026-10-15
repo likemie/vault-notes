@@ -6,7 +6,7 @@ aliases:
 summary: "位于额叶前部、与计划、抑制、决策和执行功能密切相关的脑区，是理解高阶认知控制和发展晚熟性的关键神经基础。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 6
+related_count: 5
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -22,8 +22,7 @@ related_concepts:
   - "[[Synaptic Pruning]]"
   - "[[Myelination]]"
 related_theories: []
-related_methods:
-  - "[[Coding in Qualitative Research]]"
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments:
@@ -31,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 ## 定义
@@ -52,7 +51,7 @@ updated: 2026-09-22
 >
 > 外侧 PFC 可进一步分为两个子区域：
 > - **腹外侧前额叶皮层（vlPFC）** — 与主动控制和注意力相关
-> - **背外侧前额叶皮层（dlPFC）** — 与 EF 成分特别是视觉空间[[Working Memory\|工作记忆]]密切相关。存在左/右发展分工：检索需要右侧 dlPFC，[[Coding in Qualitative Research\|编码]]使用左侧 dlPFC。在任务需要新颖性或任务间切换时发挥作用
+> - **背外侧前额叶皮层（dlPFC）** — 与 EF 成分特别是视觉空间[[Working Memory\|工作记忆]]密切相关。存在左/右发展分工：检索需要右侧 dlPFC，编码使用左侧 dlPFC。在任务需要新颖性或任务间切换时发挥作用
 
 ## 发育特征
 
@@ -65,7 +64,7 @@ PFC 的解剖和生理发育与白质和灰质的变化相关，这些变化源�
 
 ## 在学习中的作用
 
-PFC 在学习序列或任务开始时被激活（通过功能神经影像学观察），但随着练习、重复和常规化，此激活消退，皮层下结构（包括基底神经节）开始活跃([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.7]])。PFC 内部存在偏侧化：[[Coding in Qualitative Research|编码]]/检索新信息时出现左/右偏向。
+PFC 在学习序列或任务开始时被激活（通过功能神经影像学观察），但随着练习、重复和常规化，此激活消退，皮层下结构（包括基底神经节）开始活跃([[Argument_Bolton_2017_ArchPsych|Bolton & Hattie, 2017, p.7]])。PFC 内部存在偏侧化：编码/检索新信息时出现左/右偏向。
 
 ## 功能定位的注意事项
 

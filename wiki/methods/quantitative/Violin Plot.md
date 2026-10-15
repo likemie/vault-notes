@@ -7,7 +7,7 @@ summary: "一种结合箱线图与核密度估计的定量数据可视化方法�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 19
+method_related_count: 17
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -18,7 +18,6 @@ tags:
 related_concepts:
   - "[[Variable]]"
   - "[[Unit of Analysis]]"
-  - "[[Document]]"
   - "[[Epistemology]]"
   - "[[Heterogeneity]]"
   - "[[Dependent Variable]]"
@@ -32,7 +31,6 @@ related_methods:
   - "[[Analysis of Variance]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Questionnaire]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[UpSet Plot]]"
   - "[[Intraclass Correlation Coefficient]]"
   - "[[Correlational Research]]"
@@ -44,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-10-15
 ---
 
 # Violin Plot
@@ -59,7 +57,7 @@ updated: 2026-09-18
 > [!method-scope] 方法范围
 > - **研究对象** 连续型数值变量、模型预测输出、[[Effect Size\|效应量]]分布、评分数据或多组实验测量值。
 > - **问题类型** 适合回答多组别分布形状对比、分布对齐性检验、非正态性与多峰识别、以及极值与离散程度辨析。
-> - **[[Unit of Analysis\|分析单位]]** 观测值、被试得分、[[Meta-analysis\|元分析]]效应量、[[Document\|文献]]提取指标或模型参数。
+> - **[[Unit of Analysis\|分析单位]]** 观测值、被试得分、[[Meta-analysis\|元分析]]效应量、文献提取指标或模型参数。
 > - **输出形式** 水平或垂直排列的多组对称密度外轮廓，内部内嵌微型箱线图、中位数标记点或散点抖动（Jitter）。
 
 > [!citation-card] 小提琴图的视觉统合逻辑
@@ -79,7 +77,7 @@ updated: 2026-09-18
 
 > [!method-stack] 方法层级
 > - **研究设计** 跨组准实验对比、多[[Inter-Rater Reliability\|评分者信度]]研究、大语言模型基准评测、[[Meta-analysis\|元分析]][[Heterogeneity\|异质性]]探索。
-> - **数据收集** 连续型实验测量、学术[[Document\|文献]]参数提取、[[Questionnaire\|问卷]]连续题项总分、模型统计参数。
+> - **数据收集** 连续型实验测量、学术文献参数提取、[[Questionnaire\|问卷]]连续题项总分、模型统计参数。
 > - **分析方法** 非参数核密度估计（KDE）、箱线图五数概括（极小值、$Q_1$、中位数、$Q_3$、极大值）。
 > - **辅助技术**
 >   - R 语言生态：`ggplot2::geom_violin()`、`vioplot`
@@ -91,7 +89,7 @@ updated: 2026-09-18
 ## 研究程序
 
 > [!proc] 通用程序
-> 1. **数据准备与分组标定** 整理包含连续[[Dependent Variable\|因变量]]（如综合[[Effect Size\|效应量]] $d$）与离散分类[[Independent Variable\|自变量]]（如[[Coding in Qualitative Research\|编码]]主体：金标准、专家、LLMs）的长表数据集。
+> 1. **数据准备与分组标定** 整理包含连续[[Dependent Variable\|因变量]]（如综合[[Effect Size\|效应量]] $d$）与离散分类[[Independent Variable\|自变量]]（如编码主体：金标准、专家、LLMs）的长表数据集。
 > 2. **参数设定与核密度估计** 针对每个组别独立拟合核密度曲线，推荐采用高斯核函数（Gaussian Kernel），并检验默认平滑带宽的拟合效果。
 > 3. **边界控制与截断处理** 依据[[Variable\|变量]]的理论取值域（如研究篇数 $k$ 与[[Sample Size Determination\|样本量]] $N$ 必须为非负整数）设置核密度估计的极值边界截断，避免虚假的负值延伸。
 > 4. **嵌套汇总统计标记** 在对称小提琴外廓内部内嵌深色粗线条展示四分位距（IQR），以白色圆点标示中位数，或保留须线标示非异常值范围。

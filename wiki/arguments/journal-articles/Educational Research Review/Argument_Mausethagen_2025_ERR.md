@@ -7,7 +7,7 @@ title: "Argument_Mausethagen_2025_ERR"
 argument_key: "Argument_Mausethagen_2025_ERR"
 argument_display_title: "A systematic critical review of research on ‘research use’ in education: Towards more profession-sensitive conceptualisations"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 34
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -36,7 +36,6 @@ tags:
 related_concepts:
   - "[[Research Utilization]]"
   - "[[Paradigm]]"
-  - "[[Document]]"
   - "[[Deficit Framing]]"
   - "[[Teacher Knowledge Base]]"
   - "[[Professional Judgment]]"
@@ -44,14 +43,12 @@ related_concepts:
   - "[[Profession-Sensitive Conceptualisations of Research Use]]"
   - "[[Methodological Individualism]]"
   - "[[Research Literacy]]"
-  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Discourse]]"
   - "[[Literature Search]]"
   - "[[Reflexivity]]"
   - "[[Epistemology]]"
   - "[[Phronesis]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Unit of Analysis]]"
   - "[[Disciplina and Doctrina]]"
   - "[[School Leadership]]"
@@ -94,7 +91,7 @@ updated: 2026-08-26
 > 虽然全球教育政策持续倡导学校与教师依托科研成果改进教学，但大量实证调查表明，中小学教师在日常教学中极少直接套用科研结论。过去 30 年学术界是如何理解与研究[[Research Utilization\|研究使用]]（research use）现象的？既有理论模型在理解教师职业特性与外部科研知识时存在何种盲点？这种分析[[Paradigm\|范式]]又带来了怎样的理论困境？（pp. 1–2）
 
 > [!claim] 核心主张
-> 过去 30 年关于教育领域研究使用的学术[[Document\|文献]]，在问题提出方式上长期受[[Deficit Framing\|赤字框架]]（Deficit Framing）主导，习惯将教师预设为缺乏科研素养与技能的被动受体；在调查方法上也多局限于针对教师个体的[[Questionnaire\|问卷]]与自陈访谈。这种思维范式导致了理论僵局：无论后续研究如何丰富调查维度、呼吁加强学校环境支持，实证调查均同质化得出教师日常研究使用不足的结论；而在政策建议中，又机械退回强化技能培训与弥补个体短板的方案，陷入自我循环论证。打破这一困境的出路在于超越将教师视为被动消费者的传统模型，迈向第[[Four Generations of Research Use\|四代研究使用模型]]，确立专业敏感型概念化：将科研成果视为[[Teacher Knowledge Base\|教师知识库]]中的多元资源之一，确立教师基于育人伦理与[[Professional Judgment\|专业判断]]主动筛选、调适与融会研究成果的主体地位。（pp. 1–2, 7–8）
+> 过去 30 年关于教育领域研究使用的学术文献，在问题提出方式上长期受[[Deficit Framing\|赤字框架]]（Deficit Framing）主导，习惯将教师预设为缺乏科研素养与技能的被动受体；在调查方法上也多局限于针对教师个体的[[Questionnaire\|问卷]]与自陈访谈。这种思维范式导致了理论僵局：无论后续研究如何丰富调查维度、呼吁加强学校环境支持，实证调查均同质化得出教师日常研究使用不足的结论；而在政策建议中，又机械退回强化技能培训与弥补个体短板的方案，陷入自我循环论证。打破这一困境的出路在于超越将教师视为被动消费者的传统模型，迈向第[[Four Generations of Research Use\|四代研究使用模型]]，确立专业敏感型概念化：将科研成果视为[[Teacher Knowledge Base\|教师知识库]]中的多元资源之一，确立教师基于育人伦理与[[Professional Judgment\|专业判断]]主动筛选、调适与融会研究成果的主体地位。（pp. 1–2, 7–8）
 
 > [!concept-lens] 阅读透镜
 > - **考察对象** 1996–2024 年间发表在同行评议学术期刊上的 34 篇代表性文献，涵盖基础教育（K-12）学校引入外部科研成果的实证与理论研究。
@@ -108,13 +105,13 @@ updated: 2026-08-26
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Four Generations of Research Use\|公共部门证据使用三代演进模型（Boaz & Nutley, 2019）]]** | 将[[Research Utilization\|研究使用]]思维划分为第一代理性-线性（单向传递）、第二代关系网络（伙伴合作）与第三代系统全局（制度嵌入），作为审视 30 年[[Document\|文献]]演进的基准坐标。（p. 2） |
+> | **[[Four Generations of Research Use\|公共部门证据使用三代演进模型（Boaz & Nutley, 2019）]]** | 将[[Research Utilization\|研究使用]]思维划分为第一代理性-线性（单向传递）、第二代关系网络（伙伴合作）与第三代系统全局（制度嵌入），作为审视 30 年文献演进的基准坐标。（p. 2） |
 > | **线性与复杂性二维张力（Linearity vs Complexity）** | 区分是将研究使用理解为研究者单向生产向教师机械套用的传递过程，还是理解为教师在具体教学情境中主动改造与反思重构的复杂过程。（pp. 3–4） |
 > | **个体主义与情境化取向（Individualist vs Contextual Approaches）** | 区分是基于[[Methodological Individualism\|方法论个体主义]]将研究使用窄化为教师个体的技能、态度或[[Research Literacy\|研究素养]]水平，还是理解为嵌入在学校组织文化、信任、领导力与制度环境中的集体实践。（pp. 4, 6–7） |
 > | **[[Profession-Sensitive Conceptualisations of Research Use\|专业敏感型概念化（Fourth Generation）]]** | 本文提出的第四代框架，核心在于立足教师职业实践的独特性，聚焦多源知识动态整合（[[Knowledge Integration]]）与专业伦理规范。（pp. 7–8） |
 
 > [!warrant]- 理论如何支撑论证
-> 借助 Boaz & Nutley（2019）的代际框架以及线性与复杂、个体与情境两组分析工具，本研究得以系统解构 34 篇文献的深层[[Hypothesis\|假设]]，清晰梳理出研究者在提问方式、[[Variable\|变量]]测量和建议推论中潜藏的思维盲区，进而解释为何单靠增加外部组织支持依然无法跳出赤字[[Discourse|话语]]的怪圈。（pp. 2, 4）
+> 借助 Boaz & Nutley（2019）的代际框架以及线性与复杂、个体与情境两组分析工具，本研究得以系统解构 34 篇文献的深层假设，清晰梳理出研究者在提问方式、[[Variable\|变量]]测量和建议推论中潜藏的思维盲区，进而解释为何单靠增加外部组织支持依然无法跳出赤字[[Discourse|话语]]的怪圈。（pp. 2, 4）
 
 ---
 
@@ -123,8 +120,8 @@ updated: 2026-08-26
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |------|----------------|
-> | **文献检索与筛选**<br>[[Systematic Review\|Systematic Review]] & [[PRISMA]] | 在教育资源信息中心（Educational Resources Information Center, ERIC）、Education Source、Teacher Reference Center 及 Scopus 数据库中，检索 [[Research Utilization\|Research Use]]/evidence use 与中小学教育管理、教学改进等关键词；经过严格去重、标题摘要初筛与全文审查，最终纳入 34 篇聚焦基础教育学校引入外部科研成果的高质量英文学术[[Document\|文献]]。（pp. 2–3） |
-> | **综述综合方法**<br>[[Critical Review\|Critical Review]] | 采用批判性综述方法（Grant & Booth, 2009; Gough et al., 2012），不满足于简单的[[Document\|文献]]事实罗列，而是聚焦学术概念的发展脉络，深度剖析各研究在问题预设、实证设计和政策推论上的逻辑机制。（pp. 2–4） |
+> | **文献检索与筛选**<br>[[Systematic Review\|Systematic Review]] & [[PRISMA]] | 在教育资源信息中心（Educational Resources Information Center, ERIC）、Education Source、Teacher Reference Center 及 Scopus 数据库中，检索 [[Research Utilization\|Research Use]]/evidence use 与中小学教育管理、教学改进等关键词；经过严格去重、标题摘要初筛与全文审查，最终纳入 34 篇聚焦基础教育学校引入外部科研成果的高质量英文学术文献。（pp. 2–3） |
+> | **综述综合方法**<br>[[Critical Review\|Critical Review]] | 采用批判性综述方法（Grant & Booth, 2009; Gough et al., 2012），不满足于简单的文献事实罗列，而是聚焦学术概念的发展脉络，深度剖析各研究在问题预设、实证设计和政策推论上的逻辑机制。（pp. 2–4） |
 > | **编码与多维分析**<br>[[Coding in Qualitative Research\|Coding in Qualitative Research]] | 首先提取发表年份、国别、学段、调查对象、研究设计等基本特征；接着针对核心概念的界定方式、线性与复杂维度、个体与情境取向，以及结论中的还原主义倾向进行深度的概念编码分析。（pp. 3–4） |
 
 > [!sample-panel]- 样本与材料快照
@@ -159,7 +156,7 @@ updated: 2026-08-26
 ### 论证步骤一：三十年文献在提问时普遍把教师预设为能力短缺的客体
 
 > [!claim] 步骤一主张
-> 现有[[Document\|文献]]在提出问题时表现出高度的思维定势：普遍不加反思地假定教师在知识或能力上存在赤字，把[[Research Utilization\|研究使用]]视作矫正教师技能短板的干预手段，形成长期停滞的赤字[[Discourse|话语]]。（pp. 4–5）
+> 现有文献在提出问题时表现出高度的思维定势：普遍不加反思地假定教师在知识或能力上存在赤字，把[[Research Utilization\|研究使用]]视作矫正教师技能短板的干预手段，形成长期停滞的赤字[[Discourse|话语]]。（pp. 4–5）
 
 > [!chain-link] 证据到判断
 > - **科研绝对化预设** 文献普遍先验假定使用科研成果必然促进学校改进并激发创新教学；因此，科研与课堂脱节被理所当然地看作一道必须由外部力量填补的能力鸿沟（如 Hodges, 1996; Anwaruddin & Pervin, 2015; Brown et al., 2018）。
@@ -178,18 +175,18 @@ updated: 2026-08-26
 ### 论证步骤二：方法论个体主义导致无论研究方法如何丰富，调查结论总是千篇一律显示使用不足
 
 > [!claim] 步骤二主张
-> 尽管后来的研究在理论模型（从线性传递走向复杂[[Transfer Translation Transformation\|转译]]）和分析视角（从个体技能走向组织支持）上日益多样，但受[[Methodological Individualism\|方法论个体主义]]支配，实证调查总是同质化得出教师在实际教学中极少使用研究的结论。（pp. 5–6）
+> 尽管后来的研究在理论模型（从线性传递走向复杂转译）和分析视角（从个体技能走向组织支持）上日益多样，但受[[Methodological Individualism\|方法论个体主义]]支配，实证调查总是同质化得出教师在实际教学中极少使用研究的结论。（pp. 5–6）
 
 > [!contrast-table] 研究使用概念化的二维分析矩阵与实证表征
 > | 维度组合 | 理性-线性取向（Linearity） | 复杂性与情境化取向（Complexity & Contextual） |
 > |----------|--------------------------|-----------------------------------------------|
-> | **核心视角** | 知识自上而下单向传递，侧重考察教师是否直接照搬论文方案（Brown et al., 2018）。（p. 5） | 关注教师在真实情境中如何[[Transfer Translation Transformation\|转译]]、改编与反思科研成果（Cordingley, 2008; La Velle & Flores, 2018）。 |
+> | **核心视角** | 知识自上而下单向传递，侧重考察教师是否直接照搬论文方案（Brown et al., 2018）。（p. 5） | 关注教师在真实情境中如何转译、改编与反思科研成果（Cordingley, 2008; La Velle & Flores, 2018）。 |
 > | **[[Unit of Analysis\|分析单位]]** | 个人层面：受[[Methodological Individualism\|方法论个体主义]]主导，调查教师个人的态度、问卷打分与信息素养（Brown & Zhang, 2016）。 | 组织生态层面：关注学校信任氛围、领导支持与教研制度（Farley-Ripple, 2012; Schaik et al., 2018）。 |
 > | **代表性研究** | Williams & Coles (2007) 测度教师信息素养；Brown & Zhang (2016) 检验教师循证行为的理性选择逻辑。 | Cooper (2013); Lysenko et al. (2015); Proctor (2015) 考察学区中介与学校支持环境。 |
 > | **实证结论** | 教师缺乏[[Research Literacy\|研究素养]]与技能，实际使用极少。（p. 6） | 尽管学校提供了系统支持且教师态度积极，但实际使用依然处于低水平。（p. 6） |
 
 > [!chain-link] 证据到判断
-> - **理性行为[[Hypothesis\|假设]]的局限** Brown & Zhang (2016, p. 784) 探讨教师参与循证实践是否属于理性行为，其前提假定循证教学具有明晰效益，因而积极使用科研理所当然；这一范式在方法论上将非使用行为直接判定为不理性或能力缺失。
+> - **理性行为假设的局限** Brown & Zhang (2016, p. 784) 探讨教师参与循证实践是否属于理性行为，其前提假定循证教学具有明晰效益，因而积极使用科研理所当然；这一范式在方法论上将非使用行为直接判定为不理性或能力缺失。
 > - **调查方法对测量结果的[[Disciplina and Doctrina\|规训]]** 24 项实证研究中有 13 项采用自陈[[Questionnaire\|问卷]]、4 项采用访谈，这类工具只能测量教师在孤立状态下阅读与消费论文的频次；当学者发现教师未机械套用科研结论时，所有统计指标均整齐划一地指向使用不足，实证方法反向固化了结论的单一性。（pp. 5–6）
 
 ---
@@ -227,9 +224,9 @@ ightarrow$ 结论呼吁增设技能培训以弥补短板；结论反向印证了
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **[[Deficit Framing\|赤字框架]]长期主导[[Problem Finding\|问题界定]]** 30 年来[[Document\|文献]]习惯于将教师预设为能力不足者，将使用科研视作自上而下改造教师的矫正手段。（pp. 4–5）
+> 1. **[[Deficit Framing\|赤字框架]]长期主导[[Problem Finding\|问题界定]]** 30 年来文献习惯于将教师预设为能力不足者，将使用科研视作自上而下改造教师的矫正手段。（pp. 4–5）
 > 2. **方法多样但结论高度雷同** 无论是[[Questionnaire\|问卷调查]]还是生态环境分析，实证研究普遍得出教师认可研究价值但实际日常使用有限的结论。（pp. 5–6）
-> 3. **政策建议陷入循环论证** 建议部分不断重复提供更多培训与支持的要求，以调查结果自我确证初始的赤字[[Hypothesis\|假设]]，缺乏对理论[[Paradigm\|范式]]本身的根本反思。（pp. 6–7）
+> 3. **政策建议陷入循环论证** 建议部分不断重复提供更多培训与支持的要求，以调查结果自我确证初始的赤字假设，缺乏对理论[[Paradigm\|范式]]本身的根本反思。（pp. 6–7）
 > 4. **确立第四代专业敏感型研究议程** 主张跳出[[Methodological Individualism\|方法论个体主义]]，将研究焦点转向依托[[Teacher Knowledge Base\|教师知识库]]对多元知识的动态整合（[[Knowledge Integration]]）、专业伦理考量与教师的专业能动性。（pp. 7–8）
 
 > [!stat-cards]- 综述文献数据快照
@@ -242,7 +239,7 @@ ightarrow$ 结论呼吁增设技能培训以弥补短板；结论反向印证了
 ## 关键引用
 
 > [!citation-card]- [[Deficit Framing\|赤字框架]]的长期存在
-> 赤字框架（Deficit Framing）指的是将教师专业群体定位为在知识、技能或能力上存在不足，而倡导[[Research Utilization\|研究使用]]正是为了应对这一缺失……30 年来，关于[[Research Utilization\|研究使用]]的学术[[Document\|文献]]在这种[[Problem Finding\|问题界定]]下保持了高度的一致性。（pp. 4–5）
+> 赤字框架（Deficit Framing）指的是将教师专业群体定位为在知识、技能或能力上存在不足，而倡导[[Research Utilization\|研究使用]]正是为了应对这一缺失……30 年来，关于[[Research Utilization\|研究使用]]的学术文献在这种[[Problem Finding\|问题界定]]下保持了高度的一致性。（pp. 4–5）
 >
 > *The term deficit framing refers to the teacher profession being positioned as lacking in knowledge, skills or competences, which increased research use is designed to address... Problem formulations associated with deficit framing have remained stable over time.*
 

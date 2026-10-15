@@ -10,7 +10,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 45
+fact_related_count: 42
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -29,11 +29,9 @@ related_concepts:
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Going Native]]"
-  - "[[Document]]"
   - "[[Research-Practice Gap]]"
   - "[[Reliability]]"
   - "[[Knowledge Mediation]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Self-Regulated Learning]]"
   - "[[Gamification]]"
@@ -45,7 +43,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Business as Usual]]"
   - "[[Knowledge Transfer]]"
-  - "[[Hypothesis]]"
   - "[[International Education]]"
   - "[[Academic Achievement]]"
   - "[[Educational Science Communication]]"
@@ -93,7 +90,7 @@ updated: 2026-10-15
 > 德国教学研究清算中心（Clearing House Unterricht, CHU）是设立于慕尼黑工业大学（Technische Universität München, TUM）的学术性[[Educational Evidence Clearinghouses\|教育证据清算中心]]与教育[[Educational Brokerage Agency\|知识中介机构]]（Seidel et al., 2017）。作为德语区教育科学领域首个常设清算平台，其核心使命是系统搜集、筛选与二次加工国际教学有效性实证研究（重点[[FocusMath\|聚焦数学]]、信息学、自然科学与技术［Mathematik, Informatik, Naturwissenschaften und Technik, MINT］学科），促进前沿科研证据向教师教育与学校课堂实践的专业化转移。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, pp. 13–14)]]; [[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, p. 10)]]
 
 > [!org-context] 机构背景
-> - **成立时间与创设背景** 机构于 2017 年正式上线运行，创设背景在于德语区长期缺乏[[Going Native\|本土化]]教育证据清算中介，且实证教育研究[[Document\|文献]]激增与中小学一线教学实践之间存在深刻的[[Research-Practice Gap\|研究-实践鸿沟]]（Transferproblem）。
+> - **成立时间与创设背景** 机构于 2017 年正式上线运行，创设背景在于德语区长期缺乏[[Going Native\|本土化]]教育证据清算中介，且实证教育研究文献激增与中小学一线教学实践之间存在深刻的[[Research-Practice Gap\|研究-实践鸿沟]]（Transferproblem）。
 > - **总部地点与官方门户** 总部设于德国慕尼黑，由慕尼黑工业大学教师教育与教学研究团队运营；官方门户为 [www.clearinghouse.edu.tum.de](https://www.clearinghouse.edu.tum.de/)（亦支持 [www.clearinghouse-unterricht.de](https://www.clearinghouse-unterricht.de/)），面向全德语区教育系统提供开放获取服务。
 > - **法人属性与经费资助谱系** 属于公立大学依托型非营利学术服务实体。其发展历经联邦项目孵化 → 大学建设运行 → 私人基金会接续资助的典型治理演进轨迹：创设初期由[[Federal Ministry of Education and Research\|德国联邦教育与研究部]]（BMBF）通过[[Qualitätsoffensive Lehrerbildung\|教师教育质量攻坚计划]]（QLB）全额专项注资；后期成功引入威廉·施特默基金会（Wilhelm Stemmer Stiftung）至少 6 年的战略注资，资金保障刚性延续至 2029 年。
 > - **资助方渊源与 MINT 战略** 威廉·施特默基金会由慕尼黑知名工业家、机器视觉技术先驱威廉·施特默创立，专注于长期扶持青少年与教师的数学、信息学、自然科学与技术（MINT）教育；自 2012 年起，该基金会便长期资助弗劳恩霍夫智能分析与信息系统研究所（Fraunhofer IAIS）开展 Roberta——用机器人学习（Roberta – Lernen mit Robotern）项目，已资助巴伐利亚州超百名 MINT 教师培训并捐赠机器人实验教具。基金会对 CHU 的接续资助旨在通过支持师资培养源头，全面激发中小学生对 MINT 学科的志趣。
@@ -104,7 +101,7 @@ updated: 2026-10-15
 ## 历史沿革与组织演变
 
 > [!dev-timeline] 组织发展三部曲
-> - **2015/2016–2020 — 第一阶段：联邦项目孵化与标准确立期（[[Federal Ministry of Education and Research\|BMBF]] / [[Qualitätsoffensive Lehrerbildung\|QLB]] 资助）** 慕尼黑工业大学[[Tina Seidel\|蒂娜·赛德尔]]（Tina Seidel）团队在 BMBF 国家重大专项[[Qualitätsoffensive Lehrerbildung\|教师教育质量攻坚计划]]（QLB）框架下的“Teach@TUM”项目中立项研发；确立针对课堂教学实证研究的 11 步标准化检索、因果质量审查与通俗化[[Transfer Translation Transformation\|转译]]规程；2017 年官方门户正式上线，推出首批德语简评（Kurzreviews）、配套评估表（Rating Sheets）与专题学术播客。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]
+> - **2015/2016–2020 — 第一阶段：联邦项目孵化与标准确立期（[[Federal Ministry of Education and Research\|BMBF]] / [[Qualitätsoffensive Lehrerbildung\|QLB]] 资助）** 慕尼黑工业大学[[Tina Seidel\|蒂娜·赛德尔]]（Tina Seidel）团队在 BMBF 国家重大专项[[Qualitätsoffensive Lehrerbildung\|教师教育质量攻坚计划]]（QLB）框架下的“Teach@TUM”项目中立项研发；确立针对课堂教学实证研究的 11 步标准化检索、因果质量审查与通俗化转译规程；2017 年官方门户正式上线，推出首批德语简评（Kurzreviews）、配套评估表（Rating Sheets）与专题学术播客。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]
 > - **2021–2023 — 第二阶段：大学建设运行与学院拓展期（TUM 实体化推进）** 慕尼黑工业大学社会科学与技术学院设立常设专职团队，将清算成果全面嵌入本校及合作大学的师范生培养方案；设立数字化教学培训学院（CHU-Academy），上线科学证据自学通识课与专题进阶模块；产品线扩展至[[Inquiry-Based Learning\|探究学习]]、协作教学、性别差异、[[Self-Regulated Learning\|自我调节学习]]、[[Gamification\|游戏化学习]]及数字媒体六大核心教学法谱系。
 > - **2023–2029 — 第三阶段：私人基金会接续资助与长效深化期（威廉·施特默基金会资助）** 在联邦 QLB 国家攻坚计划收官之际，平台成功对接长期深耕 MINT 教育的威廉·施特默基金会（Wilhelm Stemmer Stiftung），获得为期 6 年的刚性大额资助延期至 2029 年；创设[[Design-Based Research\|设计实验]]室（DesignLabs）开展沉浸式教学原型共创；与同设于 TUM 的[[Zentrum für internationale Bildungsvergleichsstudien\|德国国际教育比较研究中心]]（ZIB）建立深度战略协同机制（CHU x ZIB），实现宏观国际测评与微观课堂有效性的结构融通。
 
@@ -114,20 +111,20 @@ updated: 2026-10-15
 
 > [!actor-grid] 组织治理架构
 > - **学术与项目主持** 由慕尼黑工业大学教育心理学讲席教授[[Tina Seidel\|蒂娜·赛德尔]]（Tina Seidel）与研究主管马克西米利安·克诺格勒（Maximilian Knogler）领衔，统筹学术标准研制与证据中介生态建设。
-> - **跨学科专职研发团队** 汇聚来自教育心理学、一般教学论（Allgemeine [[Didaktik]]）、学科教学论（Fachdidaktik）与媒体教育学领域的跨学科研究人员，承担高阶实证[[Document\|文献]]综合与数字交互资源开发。
+> - **跨学科专职研发团队** 汇聚来自教育心理学、一般教学论（Allgemeine [[Didaktik]]）、学科教学论（Fachdidaktik）与媒体教育学领域的跨学科研究人员，承担高阶实证文献综合与数字交互资源开发。
 > - **外部资助与协同网络** 早期依托 [[Federal Ministry of Education and Research\|BMBF]] 与 [[Qualitätsoffensive Lehrerbildung\|QLB]] 国家公法资助，当前依托威廉·施特默基金会长效公益资助，横向联结全德各州师资进修学院、[[Fraunhofer Society Model|弗劳恩霍夫学会]]相关项目以及国际比较中心（[[Zentrum für internationale Bildungsvergleichsstudien\|ZIB]]）。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, pp. 14, 16)]]
 
 > [!pathways]- 业务运行机制
 > - **选题聚焦与高阶证据基底遴选** 重点聚焦[[Effective Teaching\|有效教学]]（effektiver Unterricht）与 MINT 学科教学，严格限定文献池为同行评议的当代实证研究，以[[Randomised Controlled Trials\|随机对照试验]]（RCT）为高因果证据基石，优先收录大样本、可复制的高质量[[Meta-analysis\|元分析]]。
 > - **专业研究合成与动态证据库维护** 建立并持续更新涵盖数理学科教学有效性元分析的专门数据库，团队不仅二次提炼外部顶级文献，亦自主开展并发表系统性元综述（如 Knogler et al., 2022a, 2022b）。
-> - **标准化通俗[[Transfer Translation Transformation\|转译]]规程（11-Step Protocol）** 专家团队严格推行从学术元分析到教学简评的 11 步转译标准：解构复杂统计参数，转化为实践行动发问、结构化核心要点、决策参数概览框与实施边界条件。
+> - **标准化通俗转译规程（11-Step Protocol）** 专家团队严格推行从学术元分析到教学简评的 11 步转译标准：解构复杂统计参数，转化为实践行动发问、结构化核心要点、决策参数概览框与实施边界条件。
 > - **需求导向与非线性反馈迭代** 常态化开展针对高校教师教育者与在岗教师的需求调查与效用评估，针对实践现场严峻的时间挤压与资源门槛，动态迭代短评与微课模块。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, pp. 14–16)]]
 
 ---
 
 ## 核心业务与协同范式
 
-> [!feature] 核心中介业务与[[Transfer Translation Transformation\|转译]]产品矩阵
+> [!feature] 核心中介业务与转译产品矩阵
 > - **研究简要评价（Kurzreviews）** 针对前沿教学[[Meta-analysis\|元分析]]提炼的德语通俗化评介，系统解构数字化教学、[[Inquiry-Based Learning\|探究式学习]]、翻转课堂、[[Gamification\|游戏化学习]]、[[Self-Regulated Learning\|自我调节学习]]等策略的因果[[Effect Size\|效应量]]、前提条件与教学建议，配套提供评分表（Rating Sheets）与材料下载。
 > - **在线进修学院（CHU-Academy）** 提供体系化在线自学进修课程，涵盖科学证据导论课、[[Effective Teaching\|有效教学]]专题课程，以及最新生成的[[Generative Artificial Intelligence\|生成式人工智能]]在教学中的应用模块。
 > - **概念导引与在线术语表（Online-Glossar）** 针对效应量（Effektstärke）、统计控制、元分析与[[Causality\|因果推断]]等核心概念编制专业教学指南与交互术语表，正文专业术语均内嵌跳转链接。
@@ -179,7 +176,7 @@ updated: 2026-10-15
 > > 将资源重点配置于大学教师教育者与在职进修负责人（乘数群体）虽能实现杠杆扩散，但这批骨干群体自身同样高度依赖成套易用的教学工具；且与 [[Forschungsmonitor Schule\|学校研究监测平台]] 相比，CHU 重点聚焦 MINT 学科及高阶[[Meta-analysis\|元分析]]，其学术成果从大学研训课堂向中小学[[Business as Usual\|常态教学]]法渗透的链路较长，仍需各州在职进修督导体制与大众化科学传播格式的深度协同。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 16)]]; [[Argument_Besa_2024_UW\|(Besa, 2024, pp. 256–257)]]
 >
 > > [!axis] 底层转移模型的反思贫困与微观教学有效性证据赤字
-> > 清算平台的迅猛扩增掩盖了其底层[[Knowledge Transfer|知识转移]]模型与因果作用[[Hypothesis|假设]]（Wirkannahmen）的学术反思贫困。[[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, p. 10)]]
+> > 清算平台的迅猛扩增掩盖了其底层[[Knowledge Transfer|知识转移]]模型与因果作用假设（Wirkannahmen）的学术反思贫困。[[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, p. 10)]]
 > >
 > > - **供给端理性预设** 清算机制暗含一种“信息改写即能引发实践变革”的单向理性假设，假定只要将元分析成果解构改写为结构化简评（Kurzreviews）并降低阅读门槛，实践者就会自发阅读、认同并主动调整教学行动。
 > > - **实证成效赤字批判** [[International Education|国际教育]]清算机构（如美国[[What Works Clearinghouse|有效干预清算中心]] WWC、英国[[Educational Evidence Clearinghouses|教育证据清算机构]] [[EPPI-Centre]] 与丹麦 DPU 清算所）的长线跟踪表明，信息中介供给与学校微观教学常态之间存在巨大阻隔。清算平台在德语区虽然获得了高校研训者的主观满意度评分，但其产出的证据评介究竟在多大程度上改变了一线教师的深层教育信念、重构了真实课堂的师生互动，并最终转化为学生[[Academic Achievement|学业成绩]]的提升，迄今为止在实证层面依然极度匮乏严格的经验检验。
@@ -199,5 +196,5 @@ updated: 2026-10-15
 > | [[Tina Seidel]] | 人物 | 慕尼黑工业大学讲席教授，平台的学术发起人与首席科学家。 |
 > | [[Educational Evidence Clearinghouses]] | 概念 | 德语区首个常设清算实体，代表高校依托与混合资助模式的创新范本。 |
 > | [[Educational Brokerage Agency]] | 概念 | 实践[[Knowledge Mediation\|知识中介]]理论的典型机构实体，以教师教育者为核心乘数载体。 |
-> | [[Educational Science Communication]] | 概念 | 平台是开展实证教学证据通俗[[Transfer Translation Transformation\|转译]]与专业科学传播的典型载体。 |
-> | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] | 论证 (论文) | 批判清算机构底层转移模型与作用[[Hypothesis\|假设]]的理论贫困，指出微观课堂实效证据依然匮乏。 |
+> | [[Educational Science Communication]] | 概念 | 平台是开展实证教学证据通俗转译与专业科学传播的典型载体。 |
+> | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] | 论证 (论文) | 批判清算机构底层转移模型与作用假设的理论贫困，指出微观课堂实效证据依然匮乏。 |

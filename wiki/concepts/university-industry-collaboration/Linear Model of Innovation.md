@@ -6,10 +6,10 @@ aliases:
 summary: "一种预设从基础科学到技术开发再到经济增长单向因果链的概念模型；战后主导科技政策资源配置，后因忽视反馈机制、轻视工程发明的前提使能地位以及导致本土制造脱节而遭受系统性批判。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 43
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 39
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/innovation-studies
   - theme/science-policy
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Innovation Models Evolution]]"
   - "[[Blue Skies Research]]"
   - "[[Long-Term Public Utility]]"
-  - "[[Hypothesis]]"
   - "[[Causality]]"
   - "[[Emergence]]"
   - "[[Process Knowledge]]"
@@ -36,7 +35,6 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Pilot Scale Platform]]"
   - "[[Tacit Knowledge]]"
-  - "[[Attrition]]"
   - "[[Industrial Commons]]"
   - "[[Paradigm]]"
   - "[[Multi-channel Interactive Learning Model]]"
@@ -47,13 +45,11 @@ related_theories:
   - "[[Pasteur's Quadrant]]"
   - "[[Systems of Innovation]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Vannevar Bush]]"
-  - "[[Alfred Nobel]]"
   - "[[Richard Nelson]]"
   - "[[Donald Stokes]]"
 related_facts:
@@ -67,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-09
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Linear Model of Innovation
@@ -112,11 +108,11 @@ updated: 2026-10-14
 
 ## 核心要素
 
-> [!feature] 线性创新模型的核心[[Hypothesis|假设]]支柱
+> [!feature] 线性创新模型的核心假设支柱
 > - **单向因果推进（Unidirectional [[Causality]]）** 假定创新严格遵循自上而下的推进逻辑，完全无视工程生产实践、仪器研制向基础科学前沿的反向知识馈送。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 863)]]
 > - **科学[[Epistemology|认识论]]层级优越性（Hierarchical Primacy of Science）** 在文化上将纯理论研究置于价值阶梯顶端，将工程工艺与技术发明贬抑为纯科学的衍生性手艺劳作。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 32)]]
 > - **投入自动转化假设（Automatic Pipeline Assumption）** 假定只要国家持续向基础科学管道注入公共财政资金，工业技术突破与宏观经济增长就会如流水线末端般自动[[Emergence|涌现]]。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 862)]]
-> - **地理中立与去制造化假设（Geographic Neutrality and Demanufacturing Assumption）** 假定科学发现是无国界的纯公共品，本土可以仅保留高附加值设计而让渡实体制造；忽视了制造业外迁将彻底带走无法[[Coding in Qualitative Research|编码]]的[[Process Knowledge|过程知识]]并切断科研问题来源。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 34–35, 48–54)]]
+> - **地理中立与去制造化假设（Geographic Neutrality and Demanufacturing Assumption）** 假定科学发现是无国界的纯公共品，本土可以仅保留高附加值设计而让渡实体制造；忽视了制造业外迁将彻底带走无法编码的[[Process Knowledge|过程知识]]并切断科研问题来源。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 34–35, 48–54)]]
 
 ---
 
@@ -133,7 +129,7 @@ updated: 2026-10-14
 > **市场与设计的牵引主导性** 创新极少直接发端于前沿基础科学研究，绝大多数技术突破源于工业企业对市场需求的感知以及工程师的试错性重新设计；科学知识在此过程中仅作为既有知识库被检索调用。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 863)]]
 
 > [!claim] Narayanamurti, V. et al.
-> **工程发明作为前沿科学的前提载体** 物理学与信息技术半个世纪的六项[[Alfred Nobel|诺贝尔]]物理学奖谱系表明，重大基础科学发现必须以先前的工程技术发明（如半导体异质结、超纯晶体生长工艺、高真空仪器）为物理实验平台；线性因果预设完全颠倒了技术赋能科学的历史事实。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 33–35)]]
+> **工程发明作为前沿科学的前提载体** 物理学与信息技术半个世纪的六项诺贝尔物理学奖谱系表明，重大基础科学发现必须以先前的工程技术发明（如半导体异质结、超纯晶体生长工艺、高真空仪器）为物理实验平台；线性因果预设完全颠倒了技术赋能科学的历史事实。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 33–35)]]
 
 ---
 
@@ -156,7 +152,7 @@ updated: 2026-10-14
 > 剖析线性分工模型在开放市场与全球地缘竞争环境下引发的国家级战略失灵。
 
 > [!claim] Kratsios, M. J.
-> **公共科学成果的非对称外溢与去工业化陷阱** 线性模型预设基础研究成果发表后，本国市场能自然吸纳并实现产业领先。然而在面对推行产业政策与举国动员的竞争对手时，若本土缺乏测试试验场、[[Pilot Scale Platform|中试平台]]与制造供应链，公开论文和专利将被外国制造商快速获取并建立规模垄断（如平板显示、先进锂电池）；本土去制造化更导致资深技师的排障手感与[[Tacit Knowledge|默会知识]]永久[[Attrition|流失]]，切断了产业前沿对基础物理与材料科学的反馈通路。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 34–35, 48–54)]]
+> **公共科学成果的非对称外溢与去工业化陷阱** 线性模型预设基础研究成果发表后，本国市场能自然吸纳并实现产业领先。然而在面对推行产业政策与举国动员的竞争对手时，若本土缺乏测试试验场、[[Pilot Scale Platform|中试平台]]与制造供应链，公开论文和专利将被外国制造商快速获取并建立规模垄断（如平板显示、先进锂电池）；本土去制造化更导致资深技师的排障手感与[[Tacit Knowledge|默会知识]]永久流失，切断了产业前沿对基础物理与材料科学的反馈通路。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 34–35, 48–54)]]
 
 ---
 
@@ -224,6 +220,6 @@ updated: 2026-10-14
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 以私人基础研究崛起、[[Alfred Nobel|诺贝尔]]奖级用启发性工作（蛋白质折叠与超导量子）以及高校单 PI 模式滞后为据，系统论证线性管道作为预算[[Hypothesis|假设]]已经失真，提出重组联邦资助并锚定本土制造。
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 以私人基础研究崛起、诺贝尔奖级用启发性工作（蛋白质折叠与超导量子）以及高校单 PI 模式滞后为据，系统论证线性管道作为预算假设已经失真，提出重组联邦资助并锚定本土制造。
 > - [[Argument_Caraca_2009_TFSC|Caraça et al., 2009]] — 梳理科学在创新过程中角色的历史演进，批判线性模型引发的大学商业化偏向，提出[[Multi-channel Interactive Learning Model|多通道互动学习模型]]。
 > - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]] — 深入批判线性模型深层的文化偏见，以六届诺贝尔物理学奖演进谱系证明工程发明对基础科学的反向催生，宣告线性创新模型的终结。

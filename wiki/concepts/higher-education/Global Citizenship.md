@@ -10,10 +10,10 @@ aliases:
 summary: "高等与基础教育语境中挑战传统国民身份的受教育者身份与品质能力分析框架。在理性主义脉络下，它表现为包含数字、文化、社会沟通及环境素养的跨界就业能力组合；在批判与革命主义视角中，它被视为缺乏精确性的“漂浮能指”，一方面为超国家组织的数据远处治理与新自由主义经济教义（如全球竞争力）背书，另一方面也构成了再西方化地缘话语的一部分。"
 type: concept
 domain: "higher-education"
-related_count: 30
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 theory_related_count: 5
 theory_related_level: 1
 theory_related_stars: "⭐"
@@ -35,7 +35,6 @@ related_concepts:
   - "[[Language Skills]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Employability]]"
-  - "[[Hypothesis]]"
   - "[[Re-Westernisation]]"
   - "[[Revolutionism]]"
   - "[[Competitiveness]]"
@@ -61,7 +60,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-05-26
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Global Citizenship
@@ -103,7 +102,7 @@ updated: 2026-10-08
 > [!feature] 核心要素
 > 以下是基于 O'Brien (2011) 的三素养框架与 Spronken-Smith (2018) 补充后形成的核心要素 (引自 [[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al., 2024, p. 87]])：
 > - **数字素养（Digital Literacy）** 通过于多元媒介和信息通信技术与全球多元受众有效沟通、在虚拟跨国团队中协作并管理专业数字形象的能力。
-> - **文化素养（Cultural Literacy）** 对自我文化[[Hypothesis\|假设]]保持高度[[Reflexivity\|反思性]]（Reflexivity），以同理心接近差异，并在多元视角交汇处保持开放的姿态。
+> - **文化素养（Cultural Literacy）** 对自我文化假设保持高度[[Reflexivity\|反思性]]（Reflexivity），以同理心接近差异，并在多元视角交汇处保持开放的姿态。
 > - **社会沟通素养（Socio-communicative Literacy）** 跨越多元文化立场与规范差异进行建设性协商和价值共识达成的能力。
 > - **环境素养（Environmental Literacy）** 对全球生态可持续性和气候正义的意识与深度理解。
 > - **倡导与社会正义取向（Advocacy & Social Justice Orientation）** 将权力关系和不平等结构作为分析视角，主动为边缘人群与生态正义发声和行动的倾向。([[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al., 2024, p. 98]])
@@ -139,7 +138,7 @@ updated: 2026-10-08
 > 检验大学宣称的国际化全球公民愿景在实际培养与职场感知中的表现，评估其结构性赤字与阻力。
 
 > [!claim] Spronken-Smith, R.
-> **博士教育的边缘化与阻力** 揭示出 PhD 校友对全球公民指标的自我发展感知与实际职场应用评分显著低于专业学术技能。这一系统性缺陷源于高度专精学科导师的防御性劝阻文化（如认为一切时间应用于论文研究），以及对于全球公民是年轻一代代际自然拥有属性等未经证实的盲目[[Hypothesis\|假设]]。([[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al., 2024, pp. 89–97]])
+> **博士教育的边缘化与阻力** 揭示出 PhD 校友对全球公民指标的自我发展感知与实际职场应用评分显著低于专业学术技能。这一系统性缺陷源于高度专精学科导师的防御性劝阻文化（如认为一切时间应用于论文研究），以及对于全球公民是年轻一代代际自然拥有属性等未经证实的盲目假设。([[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al., 2024, pp. 89–97]])
 
 > [!claim] Wong, M.
 > **本科毕业生特质的口惠而实不至** 发现英国高校毕业生特质话语中虽广泛包含全球公民和参与意愿，但其实际成分极度不均——仅有少部分大学包含环境意识、[[Language Skills\|外语技能]]与国际网络，显示其在实践操作层面沦为表面化的政策口号。([[Argument_Wong_2022_HERD\|Wong et al., 2022, pp. 1347–1348]])

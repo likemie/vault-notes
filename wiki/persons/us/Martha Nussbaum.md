@@ -8,7 +8,7 @@ summary: "当代美国著名哲学家、芝加哥大学法学与哲学杰出贡�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 13
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -32,7 +32,6 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
-  - "[[Peter A. Hall]]"
   - "[[Richard Sennett]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
@@ -43,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Martha Nussbaum
@@ -53,7 +52,7 @@ updated: 2026-10-12
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国著名政治哲学家、伦理学家、法学家，芝加哥大学法律与哲学杰出贡献教授（Ernst Freund Distinguished Service Professor of Law and Ethics），京都奖与[[Peter A. Hall|霍尔]]堡奖得主。
+> - **身份位置** 美国著名政治哲学家、伦理学家、法学家，芝加哥大学法律与哲学杰出贡献教授（Ernst Freund Distinguished Service Professor of Law and Ethics），京都奖与霍尔堡奖得主。
 > - **核心角色** 当代[[Cosmopolitanism|世界主义]]（Cosmopolitanism）与自由主义全球正义理论的代表人物。
 > - **代表贡献** 与阿玛蒂亚·森（Amartya Sen）共同发展可行能力方法（[[Capability Approach]]）；在 1994 年发表《爱国主义与世界主义》（*Patriotism and Cosmopolitanism*），批判民族认同并倡导后国家世界公民理想。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, p. 198)]]
 

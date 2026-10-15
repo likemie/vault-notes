@@ -8,10 +8,10 @@ aliases:
 summary: "在认识论认知AIR模型中，用于生成可信、有效认识产出的因果性认识过程及其适用与保障条件。"
 type: concept
 domain: "educational-psychology"
-related_count: 40
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 38
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/epistemic-cognition
   - theme/argumentation
@@ -26,8 +26,6 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Epistemic Ideals]]"
   - "[[Clinical Trial]]"
-  - "[[Habitus]]"
-  - "[[Document]]"
   - "[[Epistemological Understanding]]"
   - "[[Metacognition]]"
   - "[[Inquiry-Based Learning]]"
@@ -96,8 +94,8 @@ updated: 2026-10-15
 ## 核心要素
 
 > [!feature] 科学实践中两类典型可靠过程及其条件
-> - **观察实践的可靠过程与条件（Observation Processes）** 包括在无遮挡和适宜距离下进行观察、将观察方案与研究对象的生物学生活史及[[Habitus\|习性]]严格对齐、观察者具备专业鉴别资质、在空间与时间跨度上保持系统记录、使用自动化或增强仪器拓展人类感官、采用防范偏差的[[Blinding\|盲法]]或评分员一致性检验。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, p. 219)]]
-> - **证据整合的可靠过程与条件（Evidence Integration Processes）** 包括基于大体量证据合成（[[Systematic Review\|系统综述]]、[[Meta-analysis\|元分析]]与共识报告）而非单一孤立研究作出判断、采用全面检索方案定位全部相关[[Document\|文献]]杜绝选择性报告（cherry-picking）、依靠熟稔全域证据的领域同行综合评估、使用不带偏见的客观程序按证据质量赋予权重。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, p. 220)]]
+> - **观察实践的可靠过程与条件（Observation Processes）** 包括在无遮挡和适宜距离下进行观察、将观察方案与研究对象的生物学生活史及习性严格对齐、观察者具备专业鉴别资质、在空间与时间跨度上保持系统记录、使用自动化或增强仪器拓展人类感官、采用防范偏差的[[Blinding\|盲法]]或评分员一致性检验。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, p. 219)]]
+> - **证据整合的可靠过程与条件（Evidence Integration Processes）** 包括基于大体量证据合成（[[Systematic Review\|系统综述]]、[[Meta-analysis\|元分析]]与共识报告）而非单一孤立研究作出判断、采用全面检索方案定位全部相关文献杜绝选择性报告（cherry-picking）、依靠熟稔全域证据的领域同行综合评估、使用不带偏见的客观程序按证据质量赋予权重。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, p. 220)]]
 > - **同行评议与批判反思的社会过程（Social Vetting Processes）** 包括科学共同体内部公开接受同行评议、开放辩驳、多元视角检验以及长期共识凝聚机制，防范商业利益或媒体追求耸动收视率导致的虚假平衡报道。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 209–211)]]
 
 > [!logic-map]- 可靠[[Epistemology\|认识论]]过程与因果保障条件
@@ -213,7 +211,7 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] | $N = 332$ 名七年级学生，分布于 24 个初中科学班级（涵盖格陵兰食物网与 HIV 遗传抗性单元） | 课堂[[Discourse Analysis\|话语分析]]与质性论证文本分析 | 对观察过程条件（视线遮挡、动物[[Habitus\|习性]]、专业资质、系统采样）与实验设计条件（变量纯洁性、[[Sample Size Determination\|样本量]]、样本偏误）的审视调用 | 质性展现：在食物网口头辩论中，全班通过多轮[[Dialogue in Education\|对话]]逐层析出水体遮挡、游客业余性与缺乏样带等 5 层[[Reliability\|可靠性]]条件；在 HIV 书面论证中敏锐识别门诊抽样偏误 | — | 质性概念验证，证实初中生已具备自发审视认识过程因果条件的能力；未提供大规模效应量 |
+> | [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] | $N = 332$ 名七年级学生，分布于 24 个初中科学班级（涵盖格陵兰食物网与 HIV 遗传抗性单元） | 课堂[[Discourse Analysis\|话语分析]]与质性论证文本分析 | 对观察过程条件（视线遮挡、动物习性、专业资质、系统采样）与实验设计条件（变量纯洁性、[[Sample Size Determination\|样本量]]、样本偏误）的审视调用 | 质性展现：在食物网口头辩论中，全班通过多轮[[Dialogue in Education\|对话]]逐层析出水体遮挡、游客业余性与缺乏样带等 5 层[[Reliability\|可靠性]]条件；在 HIV 书面论证中敏锐识别门诊抽样偏误 | — | 质性概念验证，证实初中生已具备自发审视认识过程因果条件的能力；未提供大规模效应量 |
 
 ---
 

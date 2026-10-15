@@ -9,7 +9,7 @@ summary: "智利公共政策与教育研究学者，经合组织教育研究与�
 type: person
 nationality: chile
 person_region: "chile"
-person_related_count: 26
+person_related_count: 24
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Paradigm]]"
   - "[[Technology Transfer]]"
-  - "[[Document]]"
   - "[[Innovation Hub]]"
   - "[[Self-report Bias]]"
   - "[[Research-Policy Gap]]"
@@ -45,8 +44,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments:
   - "[[Strengthening the Impact of Education Research Policy Survey]]"
-related_persons:
-  - "[[Carlos Alberto Torres]]"
+related_persons: []
 related_facts:
   - "[[Centre for Educational Research and Innovation]]"
   - "[[OECD]]"
@@ -57,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # José Manuel Torres
@@ -67,7 +65,7 @@ updated: 2026-10-09
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 何塞·曼努埃尔·[[Carlos Alberto Torres\|托雷斯]]（José Manuel Torres），智利公共政策与教育研究学者，[[Centre for Educational Research and Innovation\|经合组织教育研究与创新中心]]（[[OECD]] CERI）顾问。
+> - **身份位置** 何塞·曼努埃尔·托雷斯（José Manuel Torres），智利公共政策与教育研究学者，[[Centre for Educational Research and Innovation\|经合组织教育研究与创新中心]]（[[OECD]] CERI）顾问。
 > - **核心角色** 在经合组织“加强教育[[Research Impact\|研究影响力]]”（Strengthening the Impact of Education Research）项目中担任核心分析员，主持构建跨国教育研究[[Knowledge Mobilisation\|知识动员]]（[[Research Knowledge Mobilisation Model\|RKM]]）[[Analytic Framework\|分析框架]]，并在实证调查中系统梳理了 29 国 37 个教育系统的证据利用阻碍与机制全景。
 > - **代表贡献** 提出教育知识动员四层级分析框架（因素、机制、干预、战略），构建影响[[Research Utilization\|研究利用]]的五维度拓扑模型，系统梳理线性、关系性与系统性知识动员模型，并从实证层面揭示了证据政策中以信息分发替代机制治理的深层悖论。
 
@@ -99,7 +97,7 @@ updated: 2026-10-09
 ## 核心思想
 
 > [!claim] 核心主张
-> Torres 认为，教育研究的生产与应用并非单一的单向[[Technology Transfer\|技术转移]]，而是一个嵌入在复杂政治与组织生态中的多层次关系网络。证据转化的有效性取决于“因素-机制-干预-战略”四层级结构的协调：单一的“信息分发干预”（如建立[[Document\|文献]]库或发布政策简报）无法自动突破时间错配、制度动机匮乏与文化抗拒等深层系统阻碍；只有将个体认知、组织吸收容量与系统治理激励统整起来的“互动与链接机制”，才能实现持续的证据动员。
+> Torres 认为，教育研究的生产与应用并非单一的单向[[Technology Transfer\|技术转移]]，而是一个嵌入在复杂政治与组织生态中的多层次关系网络。证据转化的有效性取决于“因素-机制-干预-战略”四层级结构的协调：单一的“信息分发干预”（如建立文献库或发布政策简报）无法自动突破时间错配、制度动机匮乏与文化抗拒等深层系统阻碍；只有将个体认知、组织吸收容量与系统治理激励统整起来的“互动与链接机制”，才能实现持续的证据动员。
 
 > [!citation-card] [[Knowledge Mobilisation\|知识动员]]的层级架构与治理超越
 > 在系统层面推动[[Research Utilization\|研究利用]]，不仅需要识别阻碍研究利用的要素，更需要理解这些要素在个体、组织与系统层级如何转化为具体的作用机制。各教育系统普遍部署了大量的信息分发与能力建设计制，然而缺乏系统性的跨部门协调战略与关系网络构建，致使研究供给与政策实践需求之间形成了结构性的倒挂脱节。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 104–105)]]

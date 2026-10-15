@@ -10,7 +10,7 @@ aliases:
 summary: "研究者、教育实践者与决策者平等介入研究问题提出、方案设计、数据解析与成果转化的全周期协作模式，旨在打破单向线性知识传递并化解实践者沦为被动数据收集客体的体制困境；苏格兰与德国的治理经验证实制度化实践者探究与同侪会商是弥合专长断裂、实现知识共创的关键路径。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 35
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -37,7 +37,6 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Pride in Learning]]"
-  - "[[Document]]"
   - "[[Discourse]]"
   - "[[Ontology]]"
   - "[[Evaluation Research]]"
@@ -62,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Knowledge Co-production
@@ -150,7 +149,7 @@ updated: 2026-10-08
 > 阐明宏观治理环境（高利害督导 vs 低利害协商共治）与专业标准如何决定一线教育者是将研究作为共同探究的起点，还是沦为外包方案的被动消费者。
 
 > [!claim] Kelly et al.
-> **治理体制与[[Practitioner Enquiry\|实践者探究]]的桥梁功能** 比较[[Qualitative Research\|质性研究]]表明，知识共创的实现高度依赖于宏观教育治理架构。在以苏格兰为代表的协商共治体制下，[[General Teaching Council for Scotland\|苏格兰通用教学总署]]（General Teaching Council for Scotland, GTCS）将“实践者探究”（Practitioner Enquiry）作为法定要求嵌入教师专业标准，促使教师与大学研究者在平等伙伴关系中结合校本学情共同提出问题、检验外部理论，使一线人员成长为情境化知识的共创者，成功搭建起连接[[Interactional Expertise\|交互型专长]]与[[Contributory Expertise\|贡献型专长]]的制度桥梁；在德国汉堡，学校管理者依托同侪案例会商（Kollegiale Fallberatung）与州立师训院（LI）展开校本互助，将监测数据与实证[[Document\|文献]]作为共同反思的起点。相反，在英格兰的高利害市场化问责体制下，过剩的商业中介与督导生存焦虑迫使学校领导者直接采购现成证据包装包，教师被降格为标准化干预的被动执行者，实质性摧毁了知识共创的制度土壤。[[Argument_Kelly_2025_ROE\|(Kelly et al., 2025, pp. 14–16, 21–24)]]
+> **治理体制与[[Practitioner Enquiry\|实践者探究]]的桥梁功能** 比较[[Qualitative Research\|质性研究]]表明，知识共创的实现高度依赖于宏观教育治理架构。在以苏格兰为代表的协商共治体制下，[[General Teaching Council for Scotland\|苏格兰通用教学总署]]（General Teaching Council for Scotland, GTCS）将“实践者探究”（Practitioner Enquiry）作为法定要求嵌入教师专业标准，促使教师与大学研究者在平等伙伴关系中结合校本学情共同提出问题、检验外部理论，使一线人员成长为情境化知识的共创者，成功搭建起连接[[Interactional Expertise\|交互型专长]]与[[Contributory Expertise\|贡献型专长]]的制度桥梁；在德国汉堡，学校管理者依托同侪案例会商（Kollegiale Fallberatung）与州立师训院（LI）展开校本互助，将监测数据与实证文献作为共同反思的起点。相反，在英格兰的高利害市场化问责体制下，过剩的商业中介与督导生存焦虑迫使学校领导者直接采购现成证据包装包，教师被降格为标准化干预的被动执行者，实质性摧毁了知识共创的制度土壤。[[Argument_Kelly_2025_ROE\|(Kelly et al., 2025, pp. 14–16, 21–24)]]
 
 ---
 
@@ -216,7 +215,7 @@ updated: 2026-10-08
 > | [[OECD]] | Fact (Organization) | 开展 37 个教育系统跨国政策调查、系统揭示实践者在科研周期中客体化困境的国际组织。 |
 > | [[Institute for Educational Monitoring and Quality Improvement]] | Fact (Organization) | 德国汉堡依托形成性监测数据与同侪研讨支持学校开展校本探究的专业机构。 |
 > | [[Education Endowment Foundation]] | Fact (Organization) | 英格兰主导的[[Educational Brokerage Agency\|证据中介机构]]，其实施指南试图规范证据转化但在高利害下易异化为工具包依从。 |
-> | [[Argument_Hill_2022_FacilitatingActors\|Hill, 2022]] | Argument | 基于 OECD 跨国数据系统论证知识共创基础设施地位、客体化困境与激励机制缺位的核心[[Document\|文献]]。 |
+> | [[Argument_Hill_2022_FacilitatingActors\|Hill, 2022]] | Argument | 基于 OECD 跨国数据系统论证知识共创基础设施地位、客体化困境与激励机制缺位的核心文献。 |
 > | [[Argument_Kelly_2025_ROE\|Kelly et al., 2025]] | Argument | 跨国质性比较揭示苏格兰[[Practitioner Enquiry\|实践者探究]]（[[General Teaching Council for Scotland\|GTCS]]）与德国同侪会商如何弥合专长断裂实现知识共创的实证文献。 |
 
 ---

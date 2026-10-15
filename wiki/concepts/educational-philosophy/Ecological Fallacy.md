@@ -8,7 +8,7 @@ aliases:
 summary: "将聚合数据中发现的关系错误地假定适用于个体的推理错误，是跨文化研究和量化比较研究中限制外部效度的核心威胁之一"
 type: concept
 domain: "educational-philosophy"
-related_count: 3
+related_count: 2
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,11 +20,10 @@ related_facts:
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
-related_concepts:
-  - "[[Hypothesis]]"
+related_concepts: []
 status: draft
 created: 2026-06-24
-updated: 2026-09-11
+updated: 2026-10-15
 ---
 # Ecological Fallacy
 
@@ -33,7 +32,7 @@ updated: 2026-09-11
 ## 定义
 
 > [!def] 核心定义
-> 生态谬误（Ecological fallacy）指"将聚合数据中发现的关系（如均值分数）假定适用于个体——即从群体特征推断个体特征"（Morrison, 2009, p. 62）。其核心错误在于：**[[Hypothesis\|假设]]群体中的每个个体表现出与群体整体相同的特征**——这是一种**刻板印象**的逻辑形式。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, pp. 181–182)]]
+> 生态谬误（Ecological fallacy）指"将聚合数据中发现的关系（如均值分数）假定适用于个体——即从群体特征推断个体特征"（Morrison, 2009, p. 62）。其核心错误在于：**假设群体中的每个个体表现出与群体整体相同的特征**——这是一种**刻板印象**的逻辑形式。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|(Cohen et al., 2011, Ch. 10, pp. 181–182)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 生态谬误的本质是**分析层次的混淆**——将在群体层面（聚合数据）发现的统计关系错误地归因到个体层面。群体层面的相关性不一定在个体层面成立，反之亦然。
@@ -45,7 +44,7 @@ updated: 2026-09-11
 ## 核心要素
 
 > [!example] 生态谬误的经典示例
-> **教育中的生态谬误**[[Hypothesis\|假设]]一项研究发现富裕社区学校的平均考试成绩高于贫困社区学校。如果由此推断"富裕家庭的每个孩子成绩都好于贫困家庭的孩子"，就犯了生态谬误——聚合数据（社区均值）被错误地应用于个体。实际上，贫困社区中可能有许多成绩优秀的学生，富裕社区中也可能有成绩不佳的学生。社区层面的相关性掩盖了个体层面的巨大变异。
+> **教育中的生态谬误**假设一项研究发现富裕社区学校的平均考试成绩高于贫困社区学校。如果由此推断"富裕家庭的每个孩子成绩都好于贫困家庭的孩子"，就犯了生态谬误——聚合数据（社区均值）被错误地应用于个体。实际上，贫困社区中可能有许多成绩优秀的学生，富裕社区中也可能有成绩不佳的学生。社区层面的相关性掩盖了个体层面的巨大变异。
 >
 > **跨文化研究中的生态谬误**Hofstede (1980) 的文化维度研究被批评将国家层面的均值差异等同于个体层面的行为差异——"日本人在个体主义上得分低"不等于"每个日本人的个体主义程度都低"。Matsumoto & Yoo (2006) 指出这是将国家等同于文化、将个体行为等同于群体行为的经典生态谬误形式。
 

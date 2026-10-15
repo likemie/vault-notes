@@ -9,10 +9,10 @@ aliases:
 summary: "以学习者主动建构意义为核心的教学系统，主张通过创设真实情境、激活先备经验、嵌入认知支架与促进社会协作达成概念转变与深层理解。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 51
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_count: 49
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - subject/instruction
   - theory/learning-theory
@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Epistemology]]"
-  - "[[Hypothesis]]"
   - "[[Rote Learning]]"
   - "[[Problem Solving]]"
   - "[[Constructive Alignment]]"
@@ -37,7 +36,6 @@ related_concepts:
   - "[[Epistemic Cognition]]"
   - "[[Academic Achievement]]"
   - "[[Inquiry-Based Learning]]"
-  - "[[Document]]"
   - "[[Anchored Instruction]]"
   - "[[Cognitive Apprenticeship]]"
   - "[[Discourse]]"
@@ -87,7 +85,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> [[Constructivist Paradigm\|建构主义]]教学（Constructivist Instruction）是以[[Knowledge Building Theory|知识建构]]观为[[Epistemology\|认识论]]基石的教学系统与规程。它主张意义并非由教师单向移交给学生，而是学习者在特定物理与社会情境中，依托自身先备知识、通过积极操作材料、对话协商、检验[[Hypothesis\|假设]]并修正心理表征而主动生成的产物。教师的角色从知识传递者转型为学习环境设计者、探究支架提供者与反思引导者。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 60–63)]]; [[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 480, 486)]]
+> [[Constructivist Paradigm\|建构主义]]教学（Constructivist Instruction）是以[[Knowledge Building Theory|知识建构]]观为[[Epistemology\|认识论]]基石的教学系统与规程。它主张意义并非由教师单向移交给学生，而是学习者在特定物理与社会情境中，依托自身先备知识、通过积极操作材料、对话协商、检验假设并修正心理表征而主动生成的产物。教师的角色从知识传递者转型为学习环境设计者、探究支架提供者与反思引导者。[[Argument_Biggs_1999_HERD\|(Biggs, 1999, pp. 60–63)]]; [[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 480, 486)]]
 
 > [!concept-lens] 概念透镜
 > - **核心内核** 强调学生是认知建构的能动主体，学习的核心机制是图式同化、顺应与概念重组。
@@ -109,7 +107,7 @@ updated: 2026-10-15
 > | **知识观** | 知识是主体与情境互动建构的心理网络 | 知识是客观存在的系统事实与标准程序 | 知识由学习者在自由探索中自发归纳 | 知识围绕真实专业问题在应用中整合 |
 > | **核心驱动** | 任务引发的认知冲突与图式修正 | 教师显性讲解、步骤分解与即时反馈 | 学习者的内在好奇心与探索尝试 | 真实劣构案例与跨学科解释需求 |
 > | **支架类型** | 动态嵌入的认知、[[Metacognition\|元认知]]与协作支架 | 详尽的前置讲授、示范练习与正误纠偏 | 极少提供外部支架，强调自主试错 | 导师提问引导、案例序列与反思复盘 |
-> | **适用目标** | 深层概念理解、高阶论证与[[Epistemology\|认识论]]素养 | 基础事实识记、规则演练与[[Procedural Skill\|程序技能]] | 早期探究兴趣激发与[[Hypothesis\|假设]]提出 | 专业实践推理、团队协作与情境应用 |
+> | **适用目标** | 深层概念理解、高阶论证与[[Epistemology\|认识论]]素养 | 基础事实识记、规则演练与[[Procedural Skill\|程序技能]] | 早期探究兴趣激发与假设提出 | 专业实践推理、团队协作与情境应用 |
 > | **实证因果效应** | 常规教学 $d = 0.479$；指导式探究 $d = 0.808$ | Hattie 综合 $d \approx 0.60$ | 缺乏指导时多项[[Meta-analysis\|元分析]]效应微弱 | 认识干预 $d = 0.340$；高教二阶 $d = 0.60$ |
 
 ---
@@ -162,7 +160,7 @@ updated: 2026-10-15
 ### 命题总览
 
 > [!contrast-table] 围绕建构主义教学形成的命题归纳
-> | 命题命名 | 核心理论指向 | 教学设计与实践含义 | 代表学者与[[Document\|文献]] |
+> | 命题命名 | 核心理论指向 | 教学设计与实践含义 | 代表学者与文献 |
 > |---|---|---|---|
 > | **建构性对齐命题** | 学习效能取决于学生自主建构活动与评估的系统对齐 | 课程开发必须同步对齐目标、活动与表现性考核 | [[Argument_Biggs_1999_HERD\|Biggs (1999)]] |
 > | **结构化支架赋能命题** | 建构主义教学必须依赖显性支架规程方能释放最大效益 | 探究教学设计严禁放任自流，必须嵌入方法规程支架 | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] |

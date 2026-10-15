@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-09-22
+updated: 2026-10-16
 ---
 
 # Cluster Randomized Trials
@@ -121,7 +121,7 @@ updated: 2026-09-22
 > 1. **集群抽样与基线评估** 招募足够数量的自然学校或班级（通常要求每组至少 15–30 个集群以上），采集学校背景及历史基线成绩。
 > 2. **实施集群层级[[Random Assignment\|随机分配]]** 在学校或班级层面进行完全随机化（可结合学区或生源特征进行分层块随机分配 Stratified Block Randomization）。
 > 3. **全集群现场干预与保真度监控** 干预校全员落实新课程方案，对照校维持常规教学（[[Business as Usual\|BAU]]），同步监控集群层级的[[Implementation Fidelity\|实施保真度]]。
-> 4. **个体层级[[Pre-test and Post-test\|后测]]数据收集** 跟踪全校学生采集后测指标，分别核查**集群层级[[Attrition\|流失]]（Cluster Attrition）**与**个体层级流失（Sub-cluster Attrition）**。
+> 4. **个体层级[[Pre-test and Post-test\|后测]]数据收集** 跟踪全校学生采集后测指标，分别核查**集群层级流失（Cluster [[Attrition]]）**与**个体层级流失（Sub-cluster Attrition）**。
 > 5. **构建多层统计估计模型** 采用 [[Hierarchical Linear Model\|HLM]] 或混合效应模型显式估计[[Intraclass Correlation Coefficient\|群内相关系数]] $\rho$，剥离集群间方差与集群内方差。
 > 6. **实施自由度校正与稳健性检验** 针对小样本集群（如学校数 $< 30$），采用 Satterthwaite 或 Kenward-Roger 自由度调整，防止过失显著性（Type I Error）。
 
@@ -175,7 +175,7 @@ updated: 2026-09-22
 > [!method-limits] 效度威胁、偏误来源与误用风险
 > - **单位错位分析偏误（Unit-of-Analysis Error）** 绝大多数误用源于研究者将 $N$ 记为学生总数直接套用普通 [[Analysis of Variance\|ANOVA]] 或 $t$ 检验，虚假膨胀 $t$ 值导致原本不显著的结果呈现出伪显著性。
 > - **招募成本极其高昂** 为达到 80% 统计功效，通常需要动员数十所学校参与，招募难度、行政协调与财政激励成本呈指数级上升([[Argument_Slavin_2002_ER\|Slavin, 2002, p. 18]])。
-> - **集群级[[Attrition\|流失]]的致命破坏** 若干预组中有 1 所学校因校长更迭整体退出，将直接损失 10%–25% 的核心有效样本，严重摧毁组间基线平衡。
+> - **集群级流失的致命破坏** 若干预组中有 1 所学校因校长更迭整体退出，将直接损失 10%–25% 的核心有效样本，严重摧毁组间基线平衡。
 
 ---
 

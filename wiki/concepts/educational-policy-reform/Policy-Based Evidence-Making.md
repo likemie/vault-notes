@@ -9,7 +9,7 @@ aliases:
 summary: "批判性政策研究概念，指决策者预先确立政治意图与改革方案，再对学术研究与经验数据进行选择性筛选、重构或定制以逆向论证政策正当性的政治过程"
 type: concept
 domain: "educational-policy-reform"
-related_count: 23
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -18,9 +18,7 @@ tags:
   - evidence-based-education
   - policy-analysis
 related_concepts:
-  - "[[Transfer Translation Transformation]]"
   - "[[Chain of Evidence]]"
-  - "[[Hypothesis]]"
   - "[[Gatekeepers]]"
   - "[[Knowledge Production]]"
   - "[[Screening Off]]"
@@ -50,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Policy-Based Evidence-Making
@@ -60,7 +58,7 @@ updated: 2026-10-07
 ## 定义
 
 > [!def] 核心定义
-> 基于政策的证据制造（Policy-Based Evidence-Making, PBEM）是[[Critical Policy Analysis|批判性政策研究]]中的核心概念（Chung, 2016），指在公共政策制定与合法化过程中，决策者预先确立了政治意图、意识形态偏好与既定改革议程，随后通过有针对性地筛选、[[Transfer Translation Transformation\|转译]]、裁剪甚至定制学术研究、经验数据与国际案例，反向构建支持该政策的[[Chain of Evidence\|证据链]]条。它构成了对传统循证政策制定规范性[[Hypothesis\|假设]]的根本逆转。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 91–94)]]
+> 基于政策的证据制造（Policy-Based Evidence-Making, PBEM）是[[Critical Policy Analysis|批判性政策研究]]中的核心概念（Chung, 2016），指在公共政策制定与合法化过程中，决策者预先确立了政治意图、意识形态偏好与既定改革议程，随后通过有针对性地筛选、转译、裁剪甚至定制学术研究、经验数据与国际案例，反向构建支持该政策的[[Chain of Evidence\|证据链]]条。它构成了对传统循证政策制定规范性假设的根本逆转。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 91–94)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示政治权威如何将证据从探索真理与评估方案的认知工具，异化为服务于既定政策辩护的修辞防护盾。
@@ -86,7 +84,7 @@ updated: 2026-10-07
 > | **分析对象与逻辑** | 适宜性逻辑（政治规范与立场契合导向） | 后果性逻辑（因果证据导向方案选择） | 意识形态动员与权力宣示逻辑 |
 > | **证据的核心机制** | 为既定政策提供科学化修辞包装与合法性盾牌 | 发现问题、评估方案可行性与因果归因 | 情感煽动、单向灌输与信息垄断 |
 > | **咨询与[[Knowledge Production\|知识生产]]** | 官方守门把关、定向委托审查与邀请式圆桌咨询 | 独立开放的学术探索、多元对质与同行评议 | 官方完全自产或审查抹杀一切异质声音 |
-> | **矛盾证据处置** | 过滤剔除、搁置不发或通过口头包装掩盖 | 公开修正理论[[Hypothesis\|假设]]、调整政策干预参数 | 彻底[[Screening Off\|屏蔽]]、定性为敌对言论或强力压制 |
+> | **矛盾证据处置** | 过滤剔除、搁置不发或通过口头包装掩盖 | 公开修正理论假设、调整政策干预参数 | 彻底[[Screening Off\|屏蔽]]、定性为敌对言论或强力压制 |
 
 ---
 
@@ -95,7 +93,7 @@ updated: 2026-10-07
 > [!feature] 核心要素
 > - **政治议程与立场先行** 执政者依据政党意识形态或市场化治理诉求确立改革底线（如削弱大学教师教育、推行校本分权），确立政策的不可逆方向。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, p. 91)]]
 > - **准入控制与官方守门** 政府部门充当[[Gatekeepers\|守门人]]，定向委任符合自身政策偏好的专家主持审查，并扶植官方认可的专业团体（如[[Chartered College of Teaching\|特许教学学院]]）以替代传统学术机构。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 93–94)]]
-> - **政策落地预期审查** 外部咨询者与中介主动适应政策如何落地的政治语境，对结论进行预先[[Transfer Translation Transformation\|转译]]与合规包装，剔除违背官员预期的尖锐批判。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, p. 94)]]
+> - **政策落地预期审查** 外部咨询者与中介主动适应政策如何落地的政治语境，对结论进行预先转译与合规包装，剔除违背官员预期的尖锐批判。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, p. 94)]]
 > - **科学化引用与形式理性** 在政策白皮书中密集嵌入学术引文、国际高表现范例与实验修辞，将既定政策塑造为毋庸置疑的科学结论与[[Rationalized Myth\|合理化神话]]。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 91–95)]]
 
 > [!logic-map]- 要素关系
@@ -163,7 +161,7 @@ updated: 2026-10-07
 > > - **批判政策[[Analytical Stance\|分析立场]]** 认为政策制定本质上是价值权衡与权力分配，证据必然受到适宜性逻辑与制度环境的塑形，完全去政治化的纯粹循证是不切实际的[[Technical Rationality\|技术理性]]幻想。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 91–93)]]
 >
 > > [!axis] 外部咨询学者的能动性与共谋风险
-> > 学者在参与政府委托咨询时究竟是受到权力结构压制的被动[[Transfer Translation Transformation\|转译]]者，还是主动适应游戏规则的共谋行动者。
+> > 学者在参与政府委托咨询时究竟是受到权力结构压制的被动转译者，还是主动适应游戏规则的共谋行动者。
 > >
 > > - **结构压制论** 强调政府通过财政资助与出版审查构成强大的[[Gatekeepers\|守门人]]垄断，倒逼研究者迎合政策落地预期（如[[Carter Review of Initial Teacher Training\|卡特审查]]）。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, p. 94)]]
 > > - **策略性行动论** 认为学者与智库在一定程度上利用基于政策的证据制造谋取学术资本与政策[[Discourse|话语]]权，二者存在相互赋能与利用的双向博弈。
@@ -171,7 +169,7 @@ updated: 2026-10-07
 > [!critique] 外部批评与制度后果
 > - **消解民主审议价值** 将涉及教育目的与公共利益的政治与价值争议伪装为纯粹的技术有效性问题，削弱了公众与专业群体的民主审议空间。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, p. 96)]]
 > - **侵蚀学术研究自主性** 形成以政治预期为导向的课题资助与[[Research Topic\|研究选题]]倾向，边缘化具有批判性与基础性的理论探索。
-> - **[[Epistemology\|认识论]]全流程断裂** 剥离了科研成果的方法论[[Hypothesis\|假设]]与情境边界（如[[Carter Review of Initial Teacher Training\|卡特审查]]），导致缺乏因果稳健性的规程在一线被强制推行。
+> - **[[Epistemology\|认识论]]全流程断裂** 剥离了科研成果的方法论假设与情境边界（如[[Carter Review of Initial Teacher Training\|卡特审查]]），导致缺乏因果稳健性的规程在一线被强制推行。
 
 > [!warning] 适用局限
 > 该概念主要用于揭示宏观与中观政策合法化过程中的政治过滤与修辞包装机制，不宜被泛化为对所有教育实证研究或所有循证实践本身的虚无主义否定。

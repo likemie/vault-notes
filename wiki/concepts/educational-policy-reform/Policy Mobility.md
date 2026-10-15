@@ -10,7 +10,7 @@ aliases:
 summary: "指涉政策观念、治理技术与制度模型在跨国、跨区域及公私异质网络中被解构、转译、变异和再语境化的动态过程；强调政策并非在真空或纯粹地理空间中的静态线性转移，而是伴随社会-技术中介、权力拓扑与资本纽带的流动性装配。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 57
+related_count: 55
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -19,9 +19,7 @@ tags:
   - theme/governance
   - theme/educational-policy
 related_concepts:
-  - "[[Assemblage]]"
   - "[[Policy Borrowing]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Venture Philanthropy]]"
   - "[[Policy Network]]"
   - "[[Champ]]"
@@ -35,6 +33,7 @@ related_concepts:
   - "[[Going Native]]"
   - "[[Space of Flows]]"
   - "[[Co-affiliation]]"
+  - "[[Assemblage]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Network Governance]]"
   - "[[Deductible Gift Recipient]]"
@@ -58,7 +57,6 @@ related_theories:
   - "[[Historical Institutionalism]]"
   - "[[Post-structuralism]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Network Ethnography]]"
   - "[[Analytic Framework]]"
   - "[[Discourse Analysis]]"
@@ -95,7 +93,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **政策流动（Policy Mobility / Policy Mobilities）** 是指政策观念、模型、工具与治理技术如何在跨国、跨区域及公私混合网络中穿梭、解构、变异并在本地重新[[Assemblage\|装配]]的动态过程。与经典政策转移或[[Policy Borrowing\|政策借用]]理论将政策视作可在真空物理空间中完整平移的既定“包裹”不同，政策流动强调政策在位移过程中不可避免地发生形态变异（mutation）与权力[[Transfer Translation Transformation\|转译]]；其背后通常由跨国管理咨询公司、[[Venture Philanthropy\|风险慈善]]（Venture Philanthropy）组织与金融资本组成的[[Policy Network\|政策网络]]所驱动，依托“快速政策”（fast policy）机制穿透传统民族国家边界，并通过耐用物质材料与法律装置在目标[[Champ\|场域]]完成[[Recontextualization|再语境化]]（Peck & Theodore, 2015；Ball et al., 2017；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 1–3, 5–6]]；[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 522–525]]）。
+> **政策流动（Policy Mobility / Policy Mobilities）** 是指政策观念、模型、工具与治理技术如何在跨国、跨区域及公私混合网络中穿梭、解构、变异并在本地重新装配的动态过程。与经典政策转移或[[Policy Borrowing\|政策借用]]理论将政策视作可在真空物理空间中完整平移的既定“包裹”不同，政策流动强调政策在位移过程中不可避免地发生形态变异（mutation）与权力转译；其背后通常由跨国管理咨询公司、[[Venture Philanthropy\|风险慈善]]（Venture Philanthropy）组织与金融资本组成的[[Policy Network\|政策网络]]所驱动，依托“快速政策”（fast policy）机制穿透传统民族国家边界，并通过耐用物质材料与法律装置在目标[[Champ\|场域]]完成[[Recontextualization|再语境化]]（Peck & Theodore, 2015；Ball et al., 2017；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 1–3, 5–6]]；[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 522–525]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向政策方案在跨国与异质组织网络中流通时的解构、变异、重组与物质化装配过程。
@@ -125,7 +123,7 @@ updated: 2026-10-15
 > | 维度 | 政策流动（Policy Mobility） | [[Policy Borrowing\|政策借用（Policy Borrowing）]] | 政策转移（Policy Transfer） |
 > |---|---|---|---|
 > | **空间[[Ontology\|本体论]]** | 关系性[[Topological Spatialisation\|拓扑空间]]（Relational Topologies）；打破国家内外边界，关注多尺度网络穿梭 | 比较民族国家空间；以内外二元划界，关注“外部借入”与“[[Going Native\|本土化]]” | [[René Descartes\|笛卡尔]]/欧几里得地理空间；点对点的主权管辖区位移 |
-> | **流动客体属性** | 处于未定型状态的[[Assemblage\|装配]]体与变异混合物（Mutating Assemblages） | 相对清晰的政策文本、制度模式或教育实践 | 完整的政策法规、管理方案或项目工具包 |
+> | **流动客体属性** | 处于未定型状态的装配体与变异混合物（Mutating Assemblages） | 相对清晰的政策文本、制度模式或教育实践 | 完整的政策法规、管理方案或项目工具包 |
 > | **核心驱动机制** | “快速政策”（Fast policy）、跨国资本流动、咨询寡头推动与异质网络装配 | 本土执政当局的合法化诉求、正当性危机应对与交叉吸引（Attraction） | 决策者的理性经验汲取（Lesson-drawing）、自愿模仿或国际组织施加的强制压力 |
 > | **物质与技术维度** | 核心关注因果量规、咨询报告、公司章程与法律修正案等无生命耐用材料 | 侧重[[Discourse\|话语]]、意识形态、比较修辞与文化滤网 | 侧重制度规范、行政规章与操作指南 |
 > | **国家角色定位** | 国家是异质网络中的积极催化者、立法赋权者与共同装配节点 | 国家是具有完全自主裁量权的主权借用主体 | 国家是寻求最优政策效能的理性行动主体 |
@@ -135,10 +133,10 @@ updated: 2026-10-15
 ## 核心要素
 
 > [!feature] 核心要素
-> - **突变与[[Transfer Translation Transformation\|转译]]（Mutation and Translation）** 政策在跨界穿梭中从不是原封不动的复制品，而是在不断遭遇地方摩擦、政治阻力与利益再分配时发生形式突变与功能再[[Coding in Qualitative Research\|编码]]；进入新[[Champ\|场域]]的政策已经成为杂糅了跨国模板与地方权宜考量的衍生[[Assemblage\|装配]]体。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 2, 5]]
+> - **突变与转译（Mutation and Translation）** 政策在跨界穿梭中从不是原封不动的复制品，而是在不断遭遇地方摩擦、政治阻力与利益再分配时发生形式突变与功能再编码；进入新[[Champ\|场域]]的政策已经成为杂糅了跨国模板与地方权宜考量的衍生装配体。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 2, 5]]
 > - **关系拓扑与跨尺度流动（Relational Topologies and Trans-scalar Mobility）** [[Space of Flows\|流动空间]]由行动者之间的制度联结、重叠董事任职（[[Co-affiliation\|Co-affiliations]]）与资助网络界定，而非传统的物理距离；远隔重洋的跨国私市股权基金、华尔街投行与地方公立学校，在[[Topological Spatialisation\|拓扑空间]]中通过紧密的中介枢纽直接相连。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 6, 8]]
 > - **快速政策与中介经纪（Fast Policy and Intermediary Brokerage）** 政策由麦肯锡（McKinsey & Company）等跨国咨询巨头、[[Venture Philanthropy\|风险慈善]]基金会与智库打包为去情境化、即插即用的因果证据与商业评估量规，以超常规的行政速度在跨国体系间高速流通，剥夺公众民主审议时间。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3–4]]
-> - **物质耐用性与无生命装配（Inanimate Assemblage and Durable Materials）** 观念层面的政策流动必须具身化（embodied）并固定在公司法注册资格、法案修改条款、标准化随机试验量规等耐用材料中，方能在异地获得长期的合法性与制度刚性。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 2, 5, 10]]
+> - **物质耐用性与无生命装配（Inanimate [[Assemblage]] and Durable Materials）** 观念层面的政策流动必须具身化（embodied）并固定在公司法注册资格、法案修改条款、标准化随机试验量规等耐用材料中，方能在异地获得长期的合法性与制度刚性。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 2, 5, 10]]
 > - **金融资本的黏合与通道作用（Financial Capital as Relational Glue）** 政策流动不仅是观念或技术的传播，其根本动力完全由穿透边境的资本纽带所驱动；大型商业银行、主权基金与资源寡头的资金流向慈善信托与中介智库，直接催生出顺应资本增殖逻辑的[[Endogenous and Exogenous Privatisation\|教育私有化]]改革方案。[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 6]]
 > - **国家催化与税法特许装配（State Catalysation and Tax-Concession Assemblage）** 政策流动中的国家并非被动的规则接受者，而是主动充当[[Network Governance\|网络治理]]的“催化平台”与“市场缔造者”；国家通过授予[[Deductible Gift Recipient\|第一类可扣税赠款人]]（Deductible Gift Recipient Item 1, DGR1）特许免税资质与制定定向政策建议，将英美风险慈善与[[Social Impact Investing\|影响力投资]]模型系统装配至公共教育体系，并借助四层控股法人网络完成商业资本与国家权力的制度咬合。[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 522–526]]
 
@@ -185,19 +183,19 @@ updated: 2026-10-15
 ### 命题一　政策流动不是机械的线性空间位移，而是伴随持续变异与制度转译的重构过程
 
 > [!concept-lens] 流动[[Ontology\|本体论]]：移动中的突变（Mutation in Motion）
-> 探讨政策如何在脱离原生地并穿梭于多重治理网络的过程中被解构与重组，强调流动本身即是[[Transfer Translation Transformation\|转译]]与政治权衡的生产性[[Champ\|场域]]。
+> 探讨政策如何在脱离原生地并穿梭于多重治理网络的过程中被解构与重组，强调流动本身即是转译与政治权衡的生产性[[Champ\|场域]]。
 
 > [!claim] Peck, J. & Theodore, N.
 > **政策流动的变异性本质** 政策跨界流动决不能等同于制成品包裹的简单地理搬运；在跨国与地方尺度的穿梭中，政策模型始终处于一种持续变异、部分解体与适应性重构的状态。政策不是作为完成品被“转移”，而是在流动中发生突变，其形态取决于沿途经由的管理咨询、智库游说与地方政治力量的博弈转译（Peck & Theodore, 2010, 2015）。
 
 > [!claim] [[Stephen Ball\|Ball, S.]] J.
-> **网络拓扑对政策内容的再造** 政策流动并非发生于平坦的国家版图之上，而是依托于跨国异质网络展开；在这一流动拓扑中，政策的内涵被跨国[[Policy Entrepreneur\|政策企业家]]、慈善资本家与技术官僚的利益[[Co-affiliation\|共同从属]]性所重新[[Coding in Qualitative Research\|编码]]，使公共教育治理彻底卷入以市场逻辑为导向的企业化重构过程（Ball, 2016；Ball et al., 2017）。
+> **网络拓扑对政策内容的再造** 政策流动并非发生于平坦的国家版图之上，而是依托于跨国异质网络展开；在这一流动拓扑中，政策的内涵被跨国[[Policy Entrepreneur\|政策企业家]]、慈善资本家与技术官僚的利益[[Co-affiliation\|共同从属]]性所重新编码，使公共教育治理彻底卷入以市场逻辑为导向的企业化重构过程（Ball, 2016；Ball et al., 2017）。
 
 ---
 
 ### 命题二　政策跨国流动依赖耐用物质材料的锚定与法律技术装置的特许装配
 
-> [!concept-lens] 物质[[Assemblage\|装配]]维度：无生命材料与远距离控制（Long-Distance Control）
+> [!concept-lens] 物质装配维度：无生命材料与远距离控制（Long-Distance Control）
 > 探讨抽象的流动[[Discourse|话语]]如何通过物理和法律材料的具身化获得超越时空的稳定性，并对目标生态实施长程[[Disciplina and Doctrina\|规训]]。
 
 > [!claim] Law, J. & Singleton, V.
@@ -240,7 +238,7 @@ updated: 2026-10-15
 > [!dev-timeline] 概念演变
 > - **1990s — 经典政策转移与经验汲取[[Paradigm\|范式]]** 政治学与公共政策学者（Rose, 1991；Dolowitz & Marsh, 1996）提出政策转移（Policy Transfer）概念，主要聚焦主权国家政府间自愿或强制的政策搬运，预设理性的决策主体与稳定的地理管辖权。
 > - **2000s — 比较教育[[Policy Borrowing\|政策借用]]与[[Going Native\|本土化]]转向** 比较教育学界（Phillips & Ochs, 2003；Steiner-Khamsi, 2004）提出政策借用（Policy Borrowing）四阶段模型与外生[[Van Leeuwen's Legitimation Theory\|合法化理论]]，强调政策借用往往受国内政治危机驱动，并重点关注政策抵达成后的本土折射（Refraction）与变形。
-> - **2010–2015 — 地理学空间转向与“快速政策”兴起** 批判地理学家（Peck & Theodore, 2010, 2015；McCann & Ward, 2012）正式确立“政策流动”（Policy Mobilities）框架，提出“突变”（mutation）与“快速政策”（fast policy）概念，指出政策是通过由智库、商业顾问构成的跨国[[Infrastructures of Immobility\|流动基础设施]]穿梭的去中心化[[Assemblage\|装配]]体。
+> - **2010–2015 — 地理学空间转向与“快速政策”兴起** 批判地理学家（Peck & Theodore, 2010, 2015；McCann & Ward, 2012）正式确立“政策流动”（Policy Mobilities）框架，提出“突变”（mutation）与“快速政策”（fast policy）概念，指出政策是通过由智库、商业顾问构成的跨国[[Infrastructures of Immobility\|流动基础设施]]穿梭的去中心化装配体。
 > - **2016–2017 — 教育[[Network Ethnography\|政策网络民族志]]的系统融合** [[Stephen Ball\|斯蒂芬·鲍尔]]（Stephen J. Ball）及其合作者将政策流动框架全面引入教育政策研究，出版专著《Edu.net》（Ball et al., 2017），开创结合[[Network Ethnography\|网络民族志]]追踪资本、人、思想与技术跨国流动的新范式。
 > - **2021–2022 — 物质性转向与[[Venture Philanthropy\|风险慈善]]金融化综合** 埃玛·罗威（Emma Rowe）将[[Actor-Network Theory\|行动者网络理论]]的耐用材料与无生命客体概念融入教育政策流动研究，揭示跨国政策流动如何通过企业法注册与公私特许立法在国家内部固化为看似客观中立的证据经纪实体。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 1–4]]
 > - **2023 — 国家催化平台与风险慈善异层网络装配** [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] 进一步揭示政策流动中民族国家作为“催化平台”与“市场缔造者”的双重角色；展示跨国政策流动如何通过 [[Deductible Gift Recipient\|DGR1]] 免税特许管道与 [[Social Ventures Australia\|SVA]] 四层控股公司架构，将英美风险慈善与私营商业中介深度装配至公共教育体系，并导致财政资源逆向流动与[[School Autonomy\|学校自主权]]受制。
@@ -261,7 +259,7 @@ updated: 2026-10-15
 > > 探讨[[Network Ethnography\|网络民族志]]追踪的个案流动机制是否具备实证[[External Validity\|可推广性]]。
 > >
 > > - **[[Positivism\|实证主义]]政策评估学者** 批评政策流动研究过度依赖定性网络深描与批判[[Discourse Analysis\|话语分析]]，缺乏关于政策流动后在学生[[Academic Achievement\|学业成就]]与教学产出上的严格量化因果效应检验。
-> > - **[[Post-structuralism\|后结构主义]]与政策社会学学者（Gulson et al., 2017）** 坚决反驳将政策化约为可度量指标的做法，主张政策流动研究的核心价值恰恰在于解构量化测评与循证工具背后的政治[[Assemblage\|装配]]与资本利益。
+> > - **[[Post-structuralism\|后结构主义]]与政策社会学学者（Gulson et al., 2017）** 坚决反驳将政策化约为可度量指标的做法，主张政策流动研究的核心价值恰恰在于解构量化测评与循证工具背后的政治装配与资本利益。
 
 > [!critique] 外部批评
 > - **过度泛化与概念通胀** 部分批评指出，若将一切政策出台都归因于模糊的“流动”与“网络装配”，极易消解公共政策制定过程中各政党议员、一线教师工会与选民所付出的具体民主博弈努力，导致政治行动的能动性被结构性流动[[Discourse|话语]]所稀释。
@@ -273,7 +271,7 @@ updated: 2026-10-15
 
 ## 实证数据
 
-> [!ref-table]- 跨国教育政策流动案例、中介[[Assemblage\|装配]]与物质载体对照（2011–2023）
+> [!ref-table]- 跨国教育政策流动案例、中介装配与物质载体对照（2011–2023）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
 >
 > | 研究 | 政策流动案例与地理跨度 | 跨界流动源与资本纽带 | 关键中介机构与经纪人 | 耐用物质载体与法律装置 | 变异形态与制度实质 |
@@ -288,6 +286,6 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 结合[[Network Ethnography\|网络民族志]]与[[Actor-Network Theory\|行动者网络理论]]，追踪循证中介模型从英国 [[Education Endowment Foundation\|EEF]] 流动至澳大利亚 [[Australian Education Research Organisation\|AERO]] 的十年跨国历程，揭示跨国资本与企业法耐用材料在快速政策流动中的[[Assemblage\|装配]]功能。
+> - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 结合[[Network Ethnography\|网络民族志]]与[[Actor-Network Theory\|行动者网络理论]]，追踪循证中介模型从英国 [[Education Endowment Foundation\|EEF]] 流动至澳大利亚 [[Australian Education Research Organisation\|AERO]] 的十年跨国历程，揭示跨国资本与企业法耐用材料在快速政策流动中的装配功能。
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 系统绘制澳大利亚公共教育中[[Venture Philanthropy\|风险慈善]]与国家催化网络的崛起图景，揭示 [[Social Ventures Australia\|SVA]] 作为政策流动中枢装配 [[Australian Schools Plus\|Schools Plus]]、[[Evidence for Learning\|E4L]] 与 AERO 的演进机制，以及税法特许与异层再分配对公共教育民主基石的侵蚀。
 > - [[Argument_Keddie_2020_IJLE\|Keddie et al. (2020b)]] — 探讨 Gonski 拨款改革在全澳流动与落地过程中的政策折射，揭示资源需求基准如何在各州自治分权语境下遭遇体制摩擦。

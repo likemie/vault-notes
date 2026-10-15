@@ -9,7 +9,7 @@ title: "Argument_Amos_2022_Springer"
 argument_key: "Argument_Amos_2022_Springer"
 argument_display_title: "Which Vision of Education for Late Modernity? In M"
 argument_kind: "book"
-argument_related_count: 54
+argument_related_count: 52
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#ede9fe"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Posthumanism]]"
   - "[[Response-ability]]"
   - "[[Sympoiesis]]"
-  - "[[Hypothesis]]"
   - "[[International Education]]"
   - "[[School Autonomy]]"
   - "[[Competitiveness]]"
@@ -65,7 +64,6 @@ related_theories:
   - "[[Transition Design]]"
 related_methods:
   - "[[Analytic Framework]]"
-  - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Robert Cowen]]"
   - "[[Julian Huxley]]"
@@ -130,11 +128,11 @@ citation_aliases:
 >
 > 她借用斯坦福学派 Ramirez & Boli (1987) 的历史分析：18 世纪的欧洲，新兴民族国家面临一个根本问题——如何让领土范围内的居民认同自己是"法国人"或"德国人"，而不是某个村庄或教区的成员？答案是建立大众教育系统。
 >
-> > 例：[[Hypothesis\|假设]]你是 18 世纪末的普鲁士官员。你的领土上住着说不同方言、信不同宗教的人。你需要他们把自己首先看作"普鲁士人"，愿意缴税、参军。你怎么做？你建立公立学校，让所有孩子学同一套课程、同一段历史、同一种"我们是谁"的叙事。这就是 Ramirez & Boli 所说的"大众教育的政治建构"。
+> > 例：假设你是 18 世纪末的普鲁士官员。你的领土上住着说不同方言、信不同宗教的人。你需要他们把自己首先看作"普鲁士人"，愿意缴税、参军。你怎么做？你建立公立学校，让所有孩子学同一套课程、同一段历史、同一种"我们是谁"的叙事。这就是 Ramirez & Boli 所说的"大众教育的政治建构"。
 >
 > 这个系统的核心机制是**创造成员身份（membership-creating）** 教育让你"成为"某个国家的公民。但 Amos 提醒我们注意这个机制的黑暗面——它是通过**划定边界**来运作的(p.55)。公立教育的"普遍性"（universality）只延伸到国界之内。
 >
-> > 例：今天欧洲关于难民儿童入学权的争论，就是这一历史逻辑的当代回响。如果你的父母没有合法居留身份，你是否"属于"这个国家的公立教育系统？这个问题之所以如此棘手，正是因为现代教育的 DNA 里就[[Coding in Qualitative Research\|编码]]了"内外之分"。
+> > 例：今天欧洲关于难民儿童入学权的争论，就是这一历史逻辑的当代回响。如果你的父母没有合法居留身份，你是否"属于"这个国家的公立教育系统？这个问题之所以如此棘手，正是因为现代教育的 DNA 里就编码了"内外之分"。
 >
 > ### 第二步：画出转型地图——Cowen 的双轴模型（§4.2 续）
 >

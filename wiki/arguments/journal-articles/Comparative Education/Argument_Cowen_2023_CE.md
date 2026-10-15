@@ -9,7 +9,7 @@ title: "Argument_Cowen_2023_CE"
 argument_key: "Argument_Cowen_2023_CE"
 argument_display_title: "Comparative education: and now? Comparative Education, 59(3), 326-340"
 argument_kind: "journal-article"
-argument_related_count: 68
+argument_related_count: 65
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -34,10 +34,8 @@ related_concepts:
   - "[[Heroic, Strange, and Barbaric]]"
   - "[[Conatus]]"
   - "[[Ontology]]"
-  - "[[Document]]"
   - "[[Paideia]]"
   - "[[Four Sins of Comparative Education]]"
-  - "[[Hypothesis]]"
   - "[[Scientific Method]]"
   - "[[Big Ideas]]"
   - "[[Variable]]"
@@ -45,7 +43,6 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Hierarchy of Future Issues in Comparative Education]]"
   - "[[Posthumanism]]"
-  - "[[Assemblage]]"
   - "[[Emergence]]"
   - "[[Conversational AI in Education]]"
   - "[[Policy Science in Comparative Education]]"
@@ -149,7 +146,7 @@ citation_aliases:
 > |------|----------------|
 > | **[[Ideology Critique\|意识形态批判]] (Ideology Critique)** | 对比较教育史中的合法化修辞、大学管理主义话语及[[PISA\|国际学生评估项目]]（Programme for International Student Assessment，PISA）背后的新自由主义合谋进行解构，揭示其隐藏的政治预设。(p.332, pp.333–334) |
 > | **[[Philosophical Analysis in Education\|教育哲学分析]] (Philosophical Analysis in Education)** | 探讨教育的本质目的，重构转移（形态变化）与[[Educated Identity\|受教育身份]]（伦理关切）的[[Ontology\|本体论]]与伦理学基础。(pp.335–336) |
-> | **[[Documentary Analysis\|文献分析]] (Documentary Analysis)** | 梳理两百年来比较教育经典[[Document\|文献]]（Sadler, Jullien, Mill）及当代理论争论，分析地缘政治与[[Epistemology\|认识论]]遭遇的矛盾。(pp.327–329) |
+> | **[[Documentary Analysis\|文献分析]] (Documentary Analysis)** | 梳理两百年来比较教育经典文献（Sadler, Jullien, Mill）及当代理论争论，分析地缘政治与[[Epistemology\|认识论]]遭遇的矛盾。(pp.327–329) |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -192,7 +189,7 @@ citation_aliases:
 
 > [!warning] [[Four Sins of Comparative Education\|比较教育的四种罪过]]
 > 每一代比较教育学者都在犯错，却常将错误视为理论突破。
-> - **进步[[Hypothesis\|假设]] (Assumption of progress)** 如 Harold Noah & Max Eckstein (1969) 的目的论历史观，假设学科在经历早期错误后必然成熟为接受实证[[Scientific Method\|科学方法]]的比较社会科学。
+> - **进步假设 (Assumption of progress)** 如 Harold Noah & Max Eckstein (1969) 的目的论历史观，假设学科在经历早期错误后必然成熟为接受实证[[Scientific Method\|科学方法]]的比较社会科学。
 > - **地方主义 (Parochialism)** 默认大西洋中部（Mid-Atlantic，即美英轴心）是定义全球比较教育政治、视角和方向的唯一世界轴心。
 > - **借用成瘾 (Addiction to borrowing)** 不加批判地进口[[Big Ideas\|大概念]]（如全球化），通过快速引用（如模式[[Variable\|变量]]、第三世界、多文化社会、儒家学说等）来保护自己免于处理复杂的社会情境。
 > - **科学混乱 (Scientific confusion)** 科学一词定义极其不稳定，混淆了计量经济学模型（Harold Noah, 1973）、物理学式精确预测（Brian Holmes, 1984）、探寻事物原因与拥有海量硬数据四种含义。(p.328)
@@ -233,7 +230,7 @@ citation_aliases:
 > [!chain-link] 证据到判断
 > - **[[Hierarchy of Future Issues in Comparative Education\|未来议题分类原则]]** 决定学科智识命运与前瞻方向的五个核心议题层级：
 >   1. **常规谜题 (Normal-puzzle topics)** 学科日常运转的核心业务，侧重于对学校系统及其各个组成部分的运转和改革分析。具体包括：学前教育、初等教育、中等教育、考试、课程、教师教育、职业技术教育、衡量学校与大学质量、以及新型教学技术。(p.329, p.330)
->   2. **热门主题 (Hot topics)** 产出极其丰厚、学者关注度极高且将持续维持热度的领域。具体包括：种族与性别（例如 Unterhalter 于 2023 年编辑的女孩教育专刊），以及各种以“后”（POST）为标志的新理论研究，如后社会主义、后现代、[[Posthumanism\|后人类主义]]理论，以及系统[[Assemblage\|装配]] (assemblages) 解释视角。
+>   2. **热门主题 (Hot topics)** 产出极其丰厚、学者关注度极高且将持续维持热度的领域。具体包括：种族与性别（例如 Unterhalter 于 2023 年编辑的女孩教育专刊），以及各种以“后”（POST）为标志的新理论研究，如后社会主义、后现代、[[Posthumanism\|后人类主义]]理论，以及系统装配 (assemblages) 解释视角。
 >   3. **突破性主题 (Break-through themes)** 近年[[Emergence\|涌现]]、不仅突然显性化且直穿未来的突破性议题。具体包括：治理与控制模式 (governance and modes of control)；数据霸权；后殖民主义与全球南方 (post-colonialism and the Global South)；[[PISA]] 等国际测试批判；从全球化洪流中重新解救民族主义概念；以及人工智能尤其是智能[[Conversational AI in Education|对话机器人]]（如 ChatGPT）带来的急剧技术变革与行业恐慌。
 >   4. **冷门主题与重大沉默 (Cold topics / Major silences)** 学科历史上面对重大地缘政治剧变却长期失声、几乎从未进入学术过去的冷门领域。具体包括：战争、革命、帝国以及宗教。Cowen 强调，这些领域不能仅靠短文章来拯救，而应当被全盘重估，放在不以提供政策建议为目的的纯粹学术比较教育中进行深刻探讨。
 >   5. **全球解读** 学科对外部政治与经济大叙事变化的宏观回应，直接决定了比较教育在不同历史分期中的理解风格与研究议程。

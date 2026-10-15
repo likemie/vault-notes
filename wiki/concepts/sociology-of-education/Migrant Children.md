@@ -9,7 +9,7 @@ aliases:
 summary: "指跟随进城务工父母从户籍所在地流向输入地城镇共同生活的学龄人口；在城乡二元户籍壁垒与城市公共品空间排斥中，其教育获得经历了从体制外自办学校到两为主纳编、积分制准入的制度演变与身份认同重塑。"
 type: concept
 domain: "sociology-of-education"
-related_count: 17
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,7 +22,6 @@ tags:
   - region/china
 related_concepts:
   - "[[Cultural Capital]]"
-  - "[[Document]]"
   - "[[Migrant Education]]"
   - "[[Sedentarism]]"
   - "[[Discourse]]"
@@ -46,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-10
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Migrant Children
@@ -98,7 +97,7 @@ updated: 2026-10-10
 > | **主导政策逻辑** | 地方政府默许游离或强制取缔 | “两为主”推进，收取借读赞助费 | 公共服务均等化与公办率 85%+ 刚性考核 |
 > | **学生空间分布** | 城乡接合部、城中村违建校舍 | 公立学校独立分班或插班就读 | 全面按片区公办统筹或政府购买民办学位 |
 > | **微观排斥机制** | 办学资质非法化、随时面临拆迁 | 借读费经济壁垒、校内身份歧视标签 | “五证”审核、积分排位、异地中[[Gaokao\|高考]]户籍限制 |
-> | **代表[[Document\|文献]]考察** | Kwong (2004); French (2007) | Yan (2005); Yuankai (2006) | Liang & Chen (2007); [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] |
+> | **代表文献考察** | Kwong (2004); French (2007) | Yan (2005); Yuankai (2006) | Liang & Chen (2007); [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] |
 
 ---
 
@@ -139,7 +138,7 @@ updated: 2026-10-10
 ### 命题总览
 
 > [!contrast-table] 随迁儿童核心命题归纳
-> | 命题类型 | 核心论断 | 实践机制与政策含义 | 代表[[Document\|文献]] / 理论源流 |
+> | 命题类型 | 核心论断 | 实践机制与政策含义 | 代表文献 / 理论源流 |
 > |---|---|---|---|
 > | **户籍制度与公民权二元化** | 城乡户籍将受教育权与出生地绑定，生产出享有不同权利的第二等教育公民 | 改革义务教育财政分权，推行生均公用经费“钱随人走” | Liang & Chen (2007); [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] |
 > | **教育准入与空间人口调控** | 大城市通过抬高入学前置门槛，将随迁儿童教育工具化为人口调控杠杆 | 批判以控人为导向的入学五证审核，保障常住人口平等受教权 | French (2007) |
@@ -187,6 +186,6 @@ updated: 2026-10-10
 > | [[Spatial Governmentality]] | Theory | **解释理论工具** 揭示地方政府如何通过户籍准入门槛与校舍地理规划对流动人口实施空间治理。 |
 > | [[Two Problematics of Educational Inclusion and Exclusion]] | Theory | **批判分析透镜** 阐释随迁儿童如何在公平-参与层面争取指标的同时，在知识分类层面遭遇象征排斥。 |
 > | [[Student Mobility]] | Concept | **微观行动概念** 随迁儿童在中途转校与跨区域迁移中的空间位移特征及其道德评价反差。 |
-> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] | 论证 | 深入剖析中国 2000 万随迁儿童在户籍壁垒与空间治理下求学困境的经典比较教育[[Document\|文献]]。 |
+> | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] | 论证 | 深入剖析中国 2000 万随迁儿童在户籍壁垒与空间治理下求学困境的经典比较教育文献。 |
 
 ---

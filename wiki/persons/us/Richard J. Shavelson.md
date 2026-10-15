@@ -10,7 +10,7 @@ summary: "美国当代著名教育心理学家与心理测量学家，斯坦福�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 37
+person_related_count: 35
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -32,11 +32,9 @@ related_concepts:
   - "[[Evaluation Research]]"
   - "[[Critical Thinking]]"
   - "[[Problem Solving]]"
-  - "[[Document]]"
   - "[[Paradigm]]"
   - "[[Construct]]"
   - "[[Evidence-Based Education]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Knowledge Transfer]]"
   - "[[Reliability]]"
@@ -72,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-02
+updated: 2026-10-15
 ---
 
 # Richard J. Shavelson
@@ -100,7 +98,7 @@ updated: 2026-10-02
 > - **2005–2008** 当选美国教育研究协会（[[American Educational Research Association\|AERA]]）主席（2007–2008 任期），在主席就职演说与系列专著中强力呼吁推进实证教育科学严谨性与转化机制。
 > - **2005–2007** 指导并合作慕尼黑工业大学[[Tina Seidel\|蒂娜·赛德尔]]（Tina Seidel），共同发表里程碑式教学有效性十年[[Meta-analysis\|元分析]]综述。
 > - **2010** 出版专著《测量大学学习》（*Measuring College Learning Fully*），开创性倡导利用表现性真实任务测评大学生[[Critical Thinking\|批判性思维]]与[[Problem Solving\|复杂问题解决]]能力。
-> - **2020** 发表重要理论[[Document\|文献]]《教学研究与教师教育：弥合鸿沟的中介机制》（*Research on teaching and the education of teachers: Brokering the gap*），系统阐释教育研究与教学实践的双重逻辑冲突及中介解决[[Paradigm\|范式]]。
+> - **2020** 发表重要理论文献《教学研究与教师教育：弥合鸿沟的中介机制》（*Research on teaching and the education of teachers: Brokering the gap*），系统阐释教育研究与教学实践的双重逻辑冲突及中介解决[[Paradigm\|范式]]。
 
 ---
 
@@ -119,7 +117,7 @@ updated: 2026-10-02
 ## 核心思想
 
 > [!claim] 核心主张
-> 教育研究的终极使命并非在象牙塔内产出封闭的抽象理论，而必须建立对真实人类认知、测量误差与实践情境的客观求真；学术界往往以假说检验与理论积累为最高奖励导向，而一线教学决策则要求在高时间压力与不确定性中迅速采取有效行动。这种生产目的与行动情境的根本相异性造成了长期的“转移阻滞”，单纯依赖学术自发扩散无法跨越断层，唯有通过建立具备科学鉴别力与教学论[[Transfer Translation Transformation\|转译]]能力的[[Educational Brokerage Agency\|知识中介机构]]，构建连通科研界与师资培养者的非线性桥梁，方能实现研究与实践的双向增益。
+> 教育研究的终极使命并非在象牙塔内产出封闭的抽象理论，而必须建立对真实人类认知、测量误差与实践情境的客观求真；学术界往往以假说检验与理论积累为最高奖励导向，而一线教学决策则要求在高时间压力与不确定性中迅速采取有效行动。这种生产目的与行动情境的根本相异性造成了长期的“转移阻滞”，单纯依赖学术自发扩散无法跨越断层，唯有通过建立具备科学鉴别力与教学论转译能力的[[Educational Brokerage Agency\|知识中介机构]]，构建连通科研界与师资培养者的非线性桥梁，方能实现研究与实践的双向增益。
 
 > [!citation-card] 科研理论生产与教学实践行动的逻辑脱节
 > 教育研究往往并非以向教师提供具体的微观行动建议为直接旨趣，而是优先致力于推动理论发展、建构解释模型与推进科学知识积累；这种学术生产导向直接决定了研究成果难以自发转变为对一线实践者高度可用、即时可操的决策资源。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 13)]]

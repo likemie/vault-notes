@@ -12,7 +12,7 @@ subtype: policy
 region: australia
 fact_region: "australia"
 fact_kind: "policy"
-fact_related_count: 27
+fact_related_count: 25
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -34,8 +34,6 @@ related_concepts:
   - "[[Philanthrocapitalism]]"
   - "[[Network Governance]]"
   - "[[Policy Mobility]]"
-  - "[[Transfer Translation Transformation]]"
-  - "[[Assemblage]]"
 related_theories: []
 related_methods:
   - "[[Network Ethnography]]"
@@ -59,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-03
+updated: 2026-10-15
 ---
 
 # Gonski 2.0
@@ -142,7 +140,7 @@ updated: 2026-10-03
 > | [[Educational Brokerage Agency]] | 概念 | Gonski 2.0 第 23 条建议明确要求设立的核心组织实体形态（国家级证据经纪机构）。 |
 > | [[Philanthrocapitalism]] | 概念 | 报告所反映的将商业投资逻辑、因果量规与企业慈善引入公共教育治理的运作机制。 |
 > | [[Network Governance]] | 概念 | 报告出台与 AERO 创设背后政、商、慈善跨界协同与国家催化平台化的治理形态。 |
-> | [[Policy Mobility]] | 概念 | 报告见证了英美循证政策模型在澳大利亚国家体制内部的[[Transfer Translation Transformation\|转译]]与制度化[[Assemblage\|装配]]。 |
+> | [[Policy Mobility]] | 概念 | 报告见证了英美循证政策模型在澳大利亚国家体制内部的转译与制度化装配。 |
 > | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | 关键论证 | 揭示 SVA 以 E4L 为原型游说 Gonski 2.0 及国家向[[Venture Philanthropy\|风险慈善]]催化平台演化的机制。 |
 > | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | 关键论证 | 深入解构 Gonski 2.0 作为公共道德杠杆背后的[[Venture Philanthropy\|风险慈善]]游说轨迹与企业法装配实质。 |
 
@@ -152,5 +150,5 @@ updated: 2026-10-03
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 追踪澳大利亚公立教育中的[[Venture Philanthropy\|风险慈善]]与国家重组网络，揭示 [[Social Ventures Australia\|SVA]] 如何以 [[Evidence for Learning\|E4L]] 运行成效为原型向 Gonski 2.0 审查委员会递交专项建议书，以及报告第 23 条建议如何促成国家向私营中介催化平台的转型。
-> - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 运用[[Network Ethnography\|网络民族志]]剖析 Gonski 2.0 第 23 条建议背后的[[Policy Network\|政策网络]][[Assemblage\|装配]]，解构冈斯基的商业律师与慈善游说者双重身份及 [[Australian Education Research Organisation\|AERO]] 设立的企业法架构。
+> - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 运用[[Network Ethnography\|网络民族志]]剖析 Gonski 2.0 第 23 条建议背后的[[Policy Network\|政策网络]]装配，解构冈斯基的商业律师与慈善游说者双重身份及 [[Australian Education Research Organisation\|AERO]] 设立的企业法架构。
 > - [[Argument_Keddie_2020_IJLE\|Keddie et al. (2020b)]] — 分析 Gonski 拨款审查如何试图重振需求本位公平原则，以及卓越教育政策重点向绩效产出转移对基层学校自治的影响。

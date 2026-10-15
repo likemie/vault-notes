@@ -7,7 +7,7 @@ summary: "德国社会学家，理解社会学奠基人与新教伦理与资本�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 28
+person_related_count: 25
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -26,11 +26,9 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Selective Affinity]]"
   - "[[Causality]]"
-  - "[[Document]]"
   - "[[Determinism]]"
   - "[[Unit of Analysis]]"
   - "[[Corporate Education]]"
-  - "[[Habitus]]"
   - "[[Champ]]"
   - "[[Cultural Capital]]"
   - "[[Necessary and Sufficient Conditions]]"
@@ -43,7 +41,6 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
-  - "[[Isaiah Berlin]]"
   - "[[Jerome E. Schnee]]"
   - "[[Pierre Bourdieu]]"
   - "[[Ann Swidler]]"
@@ -57,7 +54,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 # Max Weber
 
@@ -82,7 +79,7 @@ updated: 2026-10-08
 > [!timeline] 生平与职涯
 > - **1864–1886 早年奠基与通识法学**
 >   - **1864** 出生于普鲁士萨克森省埃尔福特（Erfurt），为家中长子。
->   - **1882–1886** 先后在海德堡大学、斯特拉斯堡大学、哥廷根大学和[[Isaiah Berlin|柏林]]大学学习法学、国民经济学、哲学、神学和历史学，主修罗马法；1883–1884 年服一年志愿兵役成为预备役军官（Kaesler, 2014, p. 198）。
+>   - **1882–1886** 先后在海德堡大学、斯特拉斯堡大学、哥廷根大学和柏林大学学习法学、国民经济学、哲学、神学和历史学，主修罗马法；1883–1884 年服一年志愿兵役成为预备役军官（Kaesler, 2014, p. 198）。
 > - **1889–1897 博士执教与经验调查转向**
 >   - **1889** 在柏林大学获法学博士学位（*magna cum laude*），论文为《中世纪贸易公司史》（MWG I/1, 2008, p. 343）。
 >   - **1892–1893** 完成教授资格论文《罗马农业史》，任柏林大学商法和德国法特聘教授；与表妹玛丽安娜·[[Jerome E. Schnee|施尼]]特格（Marianne Schnitger）结婚；主持社会政策协会易北河以东农业工人状况的大规模调查（Kaesler, 2014, p. 345, 387）。
@@ -106,7 +103,7 @@ updated: 2026-10-08
 > - **1889–1897 早期法律史与农业经济政策探索期** 此阶段聚焦商法史与农业制度史，探寻法律规范、土地秩序与经济行动之间的历史关联。
 >   - **代表著作** 《中世纪贸易公司史》（1889）、《罗马农业史》（1891）、《易北河以东农业工人状况》（1892）、《民族国家与国民经济政策》（1895）。
 >   - **关键概念／方法** 共同体与社会化、农业制度与理性法律、民族国家利益。
->   - **阶段转向** 从传统罗马法[[Document\|文献]]考据转向国民经济学与社会政策经验调查，为后续支配社会学与资本主义研究奠基。
+>   - **阶段转向** 从传统罗马法文献考据转向国民经济学与社会政策经验调查，为后续支配社会学与资本主义研究奠基。
 > - **1904–1910 方法论突破与宗教社会学破题期** 此阶段重构社会科学[[Epistemology\|认识论]]，探索现代西方文明理性化的文化伦理诱因。
 >   - **代表著作** 《社会科学和社会政策知识的“客观性”》（1904）、《新教伦理与资本主义精神》（1904–1905）。
 >   - **关键概念／方法** 价值关联与[[Value Neutrality\|价值中立]]、理想类型、[[Selective Affinity\|选择性亲和]]、入世禁欲、天职伦理。
@@ -124,7 +121,7 @@ updated: 2026-10-08
 >
 > | 年份 | 著作名称 | 核心内容 | 思想定位与关联概念 |
 > |---|---|---|---|
-> | 1889 | *Zur Geschichte der Handelsgesellschaften im Mittelalter* | 以南欧[[Document\|文献]]为依据研究中世纪商业合伙组织，分析商法制度、共同体关系与经济组织形式之间的历史关联。 | 共同体、社会化、法律形式与经济组织萌芽（Dilcher, 2007） |
+> | 1889 | *Zur Geschichte der Handelsgesellschaften im Mittelalter* | 以南欧文献为依据研究中世纪商业合伙组织，分析商法制度、共同体关系与经济组织形式之间的历史关联。 | 共同体、社会化、法律形式与经济组织萌芽（Dilcher, 2007） |
 > | 1891 | *Die römische Agrargeschichte in ihrer Bedeutung für das Staats- und Privatrecht* | 以罗马农业史和土地制度为对象，探讨古代土地测量、农业法、国家法与私法之间的互动机制。 | 关联经济生活、国家组织与理性法秩序，为支配社会学奠基 |
 > | 1892 | *Die Lage der Landarbeiter im ostelbischen Deutschland* | 为社会政策协会主持大规模经验调查，研究易北河以东农业工人的迁移流动、阶层结构与民族政治问题。 | 从法学家向国民经济学家转型，显现支配关系与资本主义精神线索 |
 > | 1895 | *Der Nationalstaat und die Volkswirtschaftspolitik* | 弗赖堡大学就职演讲，以民族国家利益、经济政策与边境劳工为中心表达民族自由主义政治立场。 | 体现早期市民阶级政治理想，成为后来民族主义与权力国家争鸣的焦点文本（Mommsen, 1974） |
@@ -201,7 +198,7 @@ updated: 2026-10-08
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 开创理解社会学传统；深刻启发法兰克福学派对工具理性异化的批判；[[Pierre Bourdieu\|皮埃尔·布迪厄]]（[[Pierre Bourdieu]]）继承其支配合法性关照，建构[[Habitus\|习性]]与[[Champ\|场域]]实践理论；[[Ann Swidler\|安·斯威德勒]]（[[Ann Swidler]]）以其价值观驱动模式为对照，建构[[Culture as Toolkit\|文化工具箱]]理论。
+> - **理论路径** 开创理解社会学传统；深刻启发法兰克福学派对工具理性异化的批判；[[Pierre Bourdieu\|皮埃尔·布迪厄]]（[[Pierre Bourdieu]]）继承其支配合法性关照，建构习性与[[Champ\|场域]]实践理论；[[Ann Swidler\|安·斯威德勒]]（[[Ann Swidler]]）以其价值观驱动模式为对照，建构[[Culture as Toolkit\|文化工具箱]]理论。
 > - **方法路径** 确立理想类型、价值关联与[[Value Neutrality\|价值中立]]的方法论规程，强调文化科学研究中主观意义阐释与客观因果验证的统一。
 > - **组织与政策路径** [[Tullock's Bureaucracy Theory\|官僚制理论]]成为公共行政与组织社会学的奠基基石；权力与合法权威的区分为新制度主义的[[Institutional Isomorphism\|制度同构]]机制提供核心分析透镜。
 > - **教育研究与文化社会学路径** 为教育社会学中的生涯决策、阶层[[Cultural Capital\|文化资本]]与工作价值图式分析提供核心概念框架（如[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君, 2023]]）。

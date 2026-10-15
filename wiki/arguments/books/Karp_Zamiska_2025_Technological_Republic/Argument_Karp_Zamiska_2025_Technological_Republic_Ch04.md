@@ -55,9 +55,9 @@ related_persons:
   - "[[Nicholas Zamiska]]"
   - "[[Nicholas Negroponte]]"
   - "[[Remi Adekoya]]"
-  - "[[Alfred Nobel]]"
   - "[[J. Robert Oppenheimer]]"
   - "[[Vannevar Bush]]"
+  - "[[Alfred Nobel]]"
   - "[[Erich Ludendorff]]"
   - "[[John Lewis Gaddis]]"
   - "[[Steven Pinker]]"
@@ -178,7 +178,7 @@ updated: 2026-10-08
 > [!claim] 战略威慑而非道德自省铸就大国[[Long Peace|长和平]]
 > 西方社会对和平常态的理解，长期建立在对战略威慑本质的误读之上。1945 年核裂变武器的出现不仅改变了战争的技术形态，更深刻重塑了大国博弈的成本函数：唯一能够阻止国家发动战争的不是道德承诺，而是绝对的威慑恐怖。([[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025, pp. 37–41]])
 
-> [!case] [[Alfred Nobel|诺贝尔]]炸药止战悖论与三位一体核试验
+> [!case] 诺贝尔炸药止战悖论与三位一体核试验
 > 1945 年 7 月 16 日清晨，在新墨西哥州沙漠深处，[[J. Robert Oppenheimer|罗伯特·奥本海默]]（[[J. Robert Oppenheimer]]）与战时科研领袖[[Vannevar Bush|万尼瓦尔·布什]]（[[Vannevar Bush]]）等人见证了人类首次三位一体（Trinity）核试验。在那场紫光闪耀、雷鸣回荡的核爆现场，奥本海默回想起了 19 世纪瑞典工业家[[Alfred Nobel|阿尔弗雷德·诺贝尔]]（[[Alfred Nobel]]）发明硝化甘油炸药时的和平期许——诺贝尔早年曾寄望于终极毁灭性武器的出现能够彻底终结战争。然而炸药在 1870–1871 年普法战争中被迅速改装为残酷武器后，诺贝尔在 1891 年写下了现实主义断言：“唯一能够阻止国家发动战争的，只有恐怖。性能更强的武器，而非更弱的武器，才是和平最可靠的守护者”（pp. 37–38）。
 
 > [!concept-lens] [[Erich Ludendorff|鲁登道夫]][[Total War|总体战]]逻辑与工业化无差别杀伤

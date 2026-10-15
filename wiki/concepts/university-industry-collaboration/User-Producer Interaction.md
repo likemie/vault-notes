@@ -9,7 +9,7 @@ aliases:
 summary: "由本格特-奥克·伦德瓦尔等演化经济学家提出、后成为国家创新系统微观基础的核心概念；指技术装备和先进材料的供应企业与下游行业用户之间持续开展的非正式、双向且制度化的信息交换、协同开发与反馈网络；强调技术创新不仅源于实验室科学推动，更依赖于供需双方在地理与文化邻近性基础上形成的日常互动学习，是决定复杂技术扩散速度与比较优势形成的关键微观机制。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 23
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -18,7 +18,6 @@ tags:
   - theme/systems-of-innovation
   - theme/industrial-organization
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Tacit Knowledge]]"
   - "[[Technology Transfer]]"
   - "[[Paradigm]]"
@@ -34,7 +33,6 @@ related_theories:
   - "[[Path Dependence]]"
 related_methods:
   - "[[Questionnaire]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
   - "[[Correlational Research]]"
 related_persons:
@@ -49,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # User-Producer Interaction
@@ -59,7 +57,7 @@ updated: 2026-10-14
 ## 定义
 
 > [!def] 核心定义
-> **用户—生产者互动（User-Producer Interaction）** 指机器设备、零部件或专业服务的生产者（供应方）与这些产品和服务的专业使用者（需求方）之间建立的长期、稳定且双向协作的信息流动与共同解决问题关系；它突破了将交易单纯视作价格机制调节的传统[[Hypothesis|假设]]，揭示了在面对技术不确定性与复杂非标需求时，供需双方依托面对面沟通、工艺试错与相互信任所开展的制度化“互动学习”机制。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 11, 15, 17)]]
+> **用户—生产者互动（User-Producer Interaction）** 指机器设备、零部件或专业服务的生产者（供应方）与这些产品和服务的专业使用者（需求方）之间建立的长期、稳定且双向协作的信息流动与共同解决问题关系；它突破了将交易单纯视作价格机制调节的传统假设，揭示了在面对技术不确定性与复杂非标需求时，供需双方依托面对面沟通、工艺试错与相互信任所开展的制度化“互动学习”机制。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 11, 15, 17)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 聚焦创新活动中跨越企业组织边界、但根植于本土产业协作生态中的供需关系纽带。
@@ -84,7 +82,7 @@ updated: 2026-10-14
 > |---|---|---|---|
 > | **信息流动特征** | 双向、持续循环、密集的逆向反馈网络 | 单向自上而下：基础研究 → 应用开发 → 生产销售 | 需求单向传导：消费者偏好调查 → 针对性开发 |
 > | **参与主体关系** | 长期合作伙伴、联合研发、共同承担试错风险 | 科研人员作为供给方，企业与用户为被动接受者 | 生产者通过市场营销试探分散且匿名的最终买家 |
-> | **关键知识形态** | 难以编码的[[Process Knowledge\|隐性知识]]、车间经验与现场工艺调试 | [[Coding in Qualitative Research\|编码]]化科学定律、实验室规范与专利说明书 | 消费者偏好数据、市场价格信号与销售统计 |
+> | **关键知识形态** | 难以编码的[[Process Knowledge\|隐性知识]]、车间经验与现场工艺调试 | 编码化科学定律、实验室规范与专利说明书 | 消费者偏好数据、市场价格信号与销售统计 |
 > | **典型代表体系** | 1970–1980 年代日本丰田精益网络、北欧机械制造 | 二战后美国[[Big Science\|大科学]]体制与前苏联部委研究所模式 | 消费品工业、大规模标准化流水线快消品市场 |
 
 ---

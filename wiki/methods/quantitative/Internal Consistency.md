@@ -8,7 +8,7 @@ summary: "信度作为内部一致性的形式，衡量多项目量表中各条�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 18
+method_related_count: 17
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Construct]]"
   - "[[Heterogeneity]]"
-  - "[[Document]]"
   - "[[Study Population and Sample]]"
   - "[[Research Purpose]]"
 related_methods:
@@ -39,7 +38,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
 created: 2026-05-31
-updated: 2026-09-18
+updated: 2026-10-15
 ---
 # Internal Consistency
 
@@ -128,7 +127,7 @@ updated: 2026-09-18
 > - **条目数量效应** α 受条目数量影响——条目越多，α 倾向于越高。比较不同长度量表的 α 值需谨慎
 
 > [!example] Perceived Stress Scale (PSS) 实例
-> 10 项的 Perceived Stress Scale（PSS; Cohen et al., 1983）在原始发表[[Document\|文献]]中报告了三个独立[[Study Population and Sample\|研究样本]]的内部一致性值 α = .84–.86。这些值落在最佳范围内，表明 PSS 的 10 个条目在一致地测量"知觉压力"这一[[Construct\|构念]]。该量表可免费用于[[Research Purpose\|研究目的]]，只需引用原始来源。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch8)]]
+> 10 项的 Perceived Stress Scale（PSS; Cohen et al., 1983）在原始发表文献中报告了三个独立[[Study Population and Sample\|研究样本]]的内部一致性值 α = .84–.86。这些值落在最佳范围内，表明 PSS 的 10 个条目在一致地测量"知觉压力"这一[[Construct\|构念]]。该量表可免费用于[[Research Purpose\|研究目的]]，只需引用原始来源。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch8)]]
 
 ---
 

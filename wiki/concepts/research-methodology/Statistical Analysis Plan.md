@@ -8,7 +8,7 @@ aliases:
 summary: "在试验数据收集或解盲前由独立评估团队预先制定并公开发布的详尽技术法典，硬性锁定主要模型、协变量、集群校正与敏感性分析规则，是根除数据钓鱼与消解模型依赖性的制度基石"
 type: concept
 domain: "research-methodology"
-related_count: 39
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -28,10 +28,8 @@ related_concepts:
   - "[[Publication Bias]]"
   - "[[Dependent Variable]]"
   - "[[Attrition]]"
-  - "[[Hypothesis]]"
   - "[[Paradigm]]"
   - "[[Preregistration]]"
-  - "[[Document]]"
   - "[[Clinical Trial]]"
   - "[[Heterogeneity]]"
 related_theories:
@@ -68,7 +66,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Statistical Analysis Plan
@@ -115,7 +113,7 @@ updated: 2026-10-09
 > - **主效应回归模型形式化（Primary Model Equation）** 用明确的数学公式锁定因果估计方程（例如：指定两级[[Hierarchical Linear Model\|分层线性模型]]、固定斜率与随机截距、[[Dependent Variable\|因变量]]标准化方式及 Hedges' $g$ 计算分母）。
 > - **协[[Variable\|变量]]前置刚性列表（Pre-specified Covariates）** 逐一明确纳入主模型的控制变量名称与测量来源（如强制纳入英国 NPD 统考基线[[Pre-test and Post-test\|前测]]成绩），严禁在看到回归结果后随意增删控制变量。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 52)]]
 > - **层级群聚与[[Standard Error\|标准误]]估计准则（Clustering Standard Errors）** 明确设定如何校正学校或班级层级的[[Intraclass Correlation Coefficient\|组内相关系数]]（ICC），指定采用 Huber-White 聚类稳健标准误还是全贝叶斯[[Stratified Sampling\|分层抽样]]。
-> - **缺失数据诊断与敏感性规程（Missing Data Protocols）** 预先规定当[[Attrition\|样本流失]]率超过特定阈值时，采取何种缺失机制[[Hypothesis\|假设]]（MCAR, MAR, MNAR）并执行多重插补或界限分析（Bounds Analysis）。
+> - **缺失数据诊断与敏感性规程（Missing Data Protocols）** 预先规定当[[Attrition\|样本流失]]率超过特定阈值时，采取何种缺失机制假设（MCAR, MAR, MNAR）并执行多重插补或界限分析（Bounds Analysis）。
 > - **偏离记录与备案透明度（Protocol Deviation Reporting）** 明确若在实际分析中因不可抗力必须偏离 SAP 时，必须在最终报告中设立专门章节详述偏离理由，并同时报告原 SAP 模型的基准结果。
 
 > [!logic-map]- 统计分析计划（SAP）在证据生产全周期的防护机制
@@ -160,7 +158,7 @@ updated: 2026-10-09
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者与[[Document\|文献]] |
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
 > | **技术契约命题** | 阐明 SAP 如何通过算法级预先规约剥夺事后分析自由度，根除选择性报告 | 开放科学、试验方案审查、统计推断防偏倚 | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]]; Franco et al. (2014) |
 > | **制度红线命题** | 论证 SAP 作为证据等级评定与跨项目可比性制度门槛的刚性治理功能 | 证据中介机构运营、[[What Works Clearinghouse\|WWC]]/EEF 清算标准 | The EEF (2018, 2019c); Boulay et al. (2018) |
@@ -191,7 +189,7 @@ updated: 2026-10-09
 > - **评估者形式化应对风险** 部分学者指出，某些评估团队为了规避责任，在制定 SAP 时倾向于写下宽泛模棱两可的模型描述，使得事后的所谓“严格按 SAP 执行”流于形式。
 
 > [!warning] 适用局限
-> 统计分析计划专用于以因果[[Hypothesis\|假设]]检验为核心目的的定量实证研究（如 [[Randomised Controlled Trials\|RCT]] 与严谨 [[Quasi-Experimental Designs\|QED]]）。在以理论生成为目的的[[Qualitative Research\|质性研究]]、质性[[Ethnography\|民族志]]或探索性先导试验（Pilots）中不适用。
+> 统计分析计划专用于以因果假设检验为核心目的的定量实证研究（如 [[Randomised Controlled Trials\|RCT]] 与严谨 [[Quasi-Experimental Designs\|QED]]）。在以理论生成为目的的[[Qualitative Research\|质性研究]]、质性[[Ethnography\|民族志]]或探索性先导试验（Pilots）中不适用。
 
 ---
 

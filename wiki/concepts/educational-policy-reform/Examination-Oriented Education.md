@@ -8,7 +8,7 @@ aliases:
 summary: "以标准化高利害考试成绩为教育质量与个体价值核心衡量指标的制度化教学与评价体系。在中国根植于科举文化传统并由高考多层问责机制维持；在当代全球语境下表现为与教育计算机化对齐的模式识别与公式套路化规训，前置性造成未成年学习者的成长性认识不正义。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 36
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -32,7 +32,6 @@ related_concepts:
   - "[[Epistemic Malformation]]"
   - "[[Reliability]]"
   - "[[Learned Helplessness]]"
-  - "[[Document]]"
   - "[[Intercultural Education]]"
   - "[[Epistemic Agency]]"
   - "[[Going Native]]"
@@ -188,7 +187,7 @@ updated: 2026-10-15
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心论点 | 适用情境 | 代表[[Document\|文献]] |
+> | 命题类型 | 核心论点 | 适用情境 | 代表文献 |
 > |---|---|---|---|
 > | **系统维系命题** | 应试教育是由行政问责、家长期望与教师道德责任多层锁定的高协调性自稳活动系统 | 东亚社会、中国基础教育改革与[[Intercultural Education\|跨文化教育]]治理 | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]]; You (2019) |
 > | **计算机化异化命题** | 追求标准化得分将教学窄化为模式识别与公式套路，前置剥夺了学生的深层探究权与[[Epistemic Agency\|认识主体性]] | 高利害测验、欧美与全球标准化读写教学改革 | Learned et al. (2020); Collin (2024); Davies (2022); [[Argument_Smith_2026_SPE\|Smith (2026)]] |

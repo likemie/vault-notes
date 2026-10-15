@@ -7,7 +7,7 @@ summary: "一种通过访问、筛查和分析档案馆与记录办公室中保�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 18
+method_related_count: 16
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -15,11 +15,11 @@ tags:
   - method/historical-research
   - method/documentary-research
 related_methods:
+  - "[[Documentary Analysis]]"
   - "[[Internal Consistency]]"
   - "[[Case Study]]"
   - "[[Process Tracing]]"
   - "[[Triangulation]]"
-  - "[[Documentary Analysis]]"
   - "[[Archival Correspondence Analysis]]"
   - "[[Correlational Research]]"
 related_arguments:
@@ -28,10 +28,8 @@ related_arguments:
   - "[[Argument_Mody_2017_MOH]]"
 related_concepts:
   - "[[Primary and Secondary Documents]]"
-  - "[[Document]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
-  - "[[Hypothesis]]"
   - "[[Causality]]"
   - "[[Research Question]]"
 related_facts:
@@ -39,7 +37,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-10-06
+updated: 2026-10-15
 ---
 
 # Archival Research
@@ -49,7 +47,7 @@ updated: 2026-10-06
 ## 定义
 
 > [!def] 方法定义
-> 档案研究（archival research）是在档案馆和记录办公室中，通过系统访问、筛查和分析以组织化格式存储的[[Primary and Secondary Documents\|原始文献]]来获取历史证据的研究方法。档案是有组织地积累的知识存储库，在许多意义上构成了现代社会的制度记忆。档案研究区别于一般的[[Document\|文献]]研究，在于它涉及对未公开发表的、按文件编号组织的官方或机构记录的深度查阅，而非仅依靠已出版或数字化的材料（pp.14–17）。
+> 档案研究（archival research）是在档案馆和记录办公室中，通过系统访问、筛查和分析以组织化格式存储的[[Primary and Secondary Documents\|原始文献]]来获取历史证据的研究方法。档案是有组织地积累的知识存储库，在许多意义上构成了现代社会的制度记忆。档案研究区别于一般的[[Documentary Analysis|文献研究]]，在于它涉及对未公开发表的、按文件编号组织的官方或机构记录的深度查阅，而非仅依靠已出版或数字化的材料（pp.14–17）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 政府部门的官方记录、委员会会议记录与通信、政策制定者的个人文件、机构档案、地方记录以及未被组织收藏的个人或家庭档案。
@@ -62,10 +60,10 @@ updated: 2026-10-06
 ## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
-> - **知识观**档案研究在认识论上[[Hypothesis\|假设]]官方文件的组织方式和幸存模式本身就是历史过程的产物（而非中性的信息容器）。研究者需要同时阅读文件内容和文件的组织逻辑。
+> - **知识观**档案研究在认识论上假设官方文件的组织方式和幸存模式本身就是历史过程的产物（而非中性的信息容器）。研究者需要同时阅读文件内容和文件的组织逻辑。
 > - **研究者角色** 研究者是档案的主动阐释者，需要在浩繁的材料中进行选择性阅读和判断，同时受到自身问题意识和时间预算的约束。
 > - **有效性标准** 档案来源的[[Internal Consistency\|内部一致性]]、不同文件系列之间的交叉验证、对文件幸存偏误的明示、以及对文件生产语境的充分理解。
-> - **不声称回答的问题** 档案研究无法直接观察事件本身（只能通过记录重构），无法弥补已遗失[[Document\|文献]]造成的证据空白，也不能假定幸存文献具有统计代表性。
+> - **不声称回答的问题** 档案研究无法直接观察事件本身（只能通过记录重构），无法弥补已遗失文献造成的证据空白，也不能假定幸存文献具有统计代表性。
 
 > [!method-stack] 方法层级
 > - **研究设计** 历史[[Case Study\|个案研究]]、政策[[Process Tracing|过程追踪]]、制度变迁分析、多档案比较研究。
@@ -87,7 +85,7 @@ updated: 2026-10-06
 > 4. **语境重建**
 >    将单份文件置于其生产与保存的制度语境中。一份教育部门的会议记录不仅包含该次会议的信息，其归档方式、与之并列的其他文件、以及该系列文件的整体幸存模式都提供了额外的分析线索。
 > 5. **伦理处理**
->    在档案中谨慎处理易碎[[Document\|文献]]，不擅自移动或标记原始材料。对机构和个人信息的呈现需要考虑声誉影响，尤其是内部人研究情境下。
+>    在档案中谨慎处理易碎文献，不擅自移动或标记原始材料。对机构和个人信息的呈现需要考虑声誉影响，尤其是内部人研究情境下。
 
 ---
 
@@ -103,7 +101,7 @@ updated: 2026-10-06
 ## 局限性
 
 > [!method-limits] 方法局限
-> - **偏误来源**[[Document\|文献]]的幸存率不均等（某些机构、时期和主题的材料系统性缺失）；文件偏向自上而下的政策视角（Timutimu et al., 1998）；研究者对文件的筛选受问题意识、理论预设和时间预算约束。
+> - **偏误来源**文献的幸存率不均等（某些机构、时期和主题的材料系统性缺失）；文件偏向自上而下的政策视角（Timutimu et al., 1998）；研究者对文件的筛选受问题意识、理论预设和时间预算约束。
 > - **适用边界** 档案提供的不是事件本身，而是关于事件的记录；幸存记录中存在大量沉默（Andrew, 1985）——被报告后无后续跟进的事件、未被明确识别的个人、以及恰好遗漏研究者最迫切需要的细节的丰富记录。
 > - **误用风险** 将政策文件中的描述等同于教育实践本身；忽略档案未记录的内容；对跨国档案的访问权限和法律限制缺乏了解。
 > - **补救方式** 与其他文献类型（报纸、个人文献、已出版报告）进行[[Triangulation\|三角验证]]；与访谈或口述历史结合使用（Saran, 1985; McCulloch et al., 2000）；在研究报告中明示档案幸存的不完整性和选择策略。
@@ -116,7 +114,7 @@ updated: 2026-10-06
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Documentary Analysis]] | 并列方法 | [[Archival Correspondence Analysis\|档案研究]]侧重材料的发现和获取；[[Document\|文献]]分析侧重材料的评估和解释。二者在实际研究中高度互补。 |
+> | [[Documentary Analysis]] | 并列方法 | [[Archival Correspondence Analysis\|档案研究]]侧重材料的发现和获取；文献分析侧重材料的评估和解释。二者在实际研究中高度互补。 |
 > | [[Archival Correspondence Analysis]] | 相关方法 | 一种聚焦于档案信件中通信关系分析的特定档案研究方法。 |
 
 ---

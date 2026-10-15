@@ -12,9 +12,9 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 24
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_count: 23
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "美国国会（United States Congress）"
 tags:
@@ -26,7 +26,6 @@ tags:
 related_concepts:
   - "[[Scientifically Based Research]]"
   - "[[Causality]]"
-  - "[[Hypothesis]]"
   - "[[Research Question]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
@@ -55,7 +54,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-09-27
-updated: 2026-09-28
+updated: 2026-10-15
 ---
 
 # Education Sciences Reform Act 2002
@@ -94,7 +93,7 @@ updated: 2026-09-28
 > |:---|:---|:---|
 > | **分类架构** | 将量化与质性人为拆分为两套对立标准 | 统一制定统揽整体的科学本位研究标准，不再罗列方法清单 |
 > | **质性研究定位** | 贬低为缺乏控制、仅作铺垫的辅助形式 | 删去贬抑性表述，确立整体探究的客观效度准则 |
-> | **探究类型空间** | 强制要求所有研究必须检验预设[[Hypothesis\|假设]] | 删去硬性假设检验门槛，为描述性、探索性与理论生成研究保留空间 |
+> | **探究类型空间** | 强制要求所有研究必须检验预设假设 | 删去硬性假设检验门槛，为描述性、探索性与理论生成研究保留空间 |
 > | **因果推断边界** | 仅青睐具备对照的随机实验 | 承认非随机设计在排除合理解释条件下同样具有因果推断效力 |
 > | **方法选择原则** | 由立法预先钦定实验方法规范 | 条文明确写入“根据研究具体情况采用契合所提问题的设计与方法” |
 

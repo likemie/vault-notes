@@ -9,7 +9,7 @@ aliases:
 summary: "立足教师专业实践特征与复杂知识库的研究使用新范式，强调将研究证据视为与经验、情境及专业规范动态整合的多元资源之一，确立教师的专业能动性"
 type: concept
 domain: "teacher-education"
-related_count: 22
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Phronesis]]"
   - "[[Research Literacy]]"
-  - "[[Document]]"
   - "[[Rich and Thick Description]]"
   - "[[Implementation Fidelity]]"
   - "[[Professional Judgment]]"
@@ -48,7 +47,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Profession-Sensitive Conceptualisations of Research Use
@@ -160,7 +159,7 @@ updated: 2026-09-22
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] | 34 项同行评议学术[[Document\|文献]]（1996–2024 年） | [[Critical Review\|批判性综述]]＋系统综述与元分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）流程 | 证据形态与微观观察缺失比例 | 24 项实证研究中[[Questionnaire\|问卷]]自陈调查 13 项（54%），微观课堂决策观察仅 3 项（12.5%） | — | 凸显既有实证缺乏微观知识整合与互动数据，支撑了转向专业敏感型质性[[Rich and Thick Description\|深描]]的必要性 |
+> | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] | 34 项同行评议学术文献（1996–2024 年） | [[Critical Review\|批判性综述]]＋系统综述与元分析优先报告条目（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA）流程 | 证据形态与微观观察缺失比例 | 24 项实证研究中[[Questionnaire\|问卷]]自陈调查 13 项（54%），微观课堂决策观察仅 3 项（12.5%） | — | 凸显既有实证缺乏微观知识整合与互动数据，支撑了转向专业敏感型质性[[Rich and Thick Description\|深描]]的必要性 |
 > | [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] | 同上 | 同上 | 教师[[Research Utilization\|研究使用]]态度与实际行为比较 | [[Survey Research\|调查研究]]普遍报告教师高度认可研究价值，但实际日常教学使用率持续处于极低水平 | — | 证明非使用往往源自情境复杂性与[[Knowledge Integration\|知识整合]]难度，而非教师主观抵触 |
 
 ---

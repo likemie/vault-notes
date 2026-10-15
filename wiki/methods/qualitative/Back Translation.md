@@ -9,7 +9,7 @@ summary: "跨文化研究中验证翻译工具效度的标准技术，通过原�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 10
+method_related_count: 9
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dbeafe"
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Concurrent Validity]]"
   - "[[Reliability]]"
   - "[[Construct Validity]]"
-  - "[[Hypothesis]]"
 related_methods:
   - "[[Questionnaire]]"
   - "[[Pilot Testing]]"
@@ -32,7 +31,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
 created: 2026-06-24
-updated: 2026-09-11
+updated: 2026-10-15
 ---
 # Back Translation
 
@@ -90,4 +89,4 @@ updated: 2026-09-11
 ## 争议与批评
 
 > [!warning] 回译的局限
-> 回译只保障了语言对等性——它将原始语言作为"参照语言"，[[Hypothesis\|假设]]原始版本是意义的标准。但**去中心化（decentring）**的观点认为，原始语言和译文语言应同等重要——在某些情况下，原始语言本身也可能需要修改以适应跨文化情境。此外，Aldridge & Fraser (2000) 指出目标语言中可能根本不存在对等的词汇，这迫使研究者在两种语言中都做出妥协。
+> 回译只保障了语言对等性——它将原始语言作为"参照语言"，假设原始版本是意义的标准。但**去中心化（decentring）**的观点认为，原始语言和译文语言应同等重要——在某些情况下，原始语言本身也可能需要修改以适应跨文化情境。此外，Aldridge & Fraser (2000) 指出目标语言中可能根本不存在对等的词汇，这迫使研究者在两种语言中都做出妥协。

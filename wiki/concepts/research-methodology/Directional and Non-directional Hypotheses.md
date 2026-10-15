@@ -41,7 +41,7 @@ updated: 2026-09-17
 
 ## 定义
 
-> [!def] 方向性[[Hypothesis\|假设]]与非方向性假设
+> [!def] 方向性假设与非方向性假设
 > 方向性假设（directional [[Hypothesis]]）陈述两个条件或两组参与者之间差异或关系的种类或方向。非方向性假设（non-directional hypothesis）仅预测存在差异或关系，不陈述方向。统计上，方向性假设要求单尾检验，非方向性假设使用双尾检验（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al., 2011, Ch.7, pp.138–139]]）。
 
 > [!concept-lens] 概念透镜
@@ -57,7 +57,7 @@ updated: 2026-09-17
 
 ## 概念辨析
 
-> [!contrast-table] 方向性[[Hypothesis\|假设]] vs 非方向性假设
+> [!contrast-table] 方向性假设 vs 非方向性假设
 > | 维度 | 方向性假设（Directional） | 非方向性假设（Non-directional） |
 > |---|---|---|
 > | 陈述方式 | 陈述差异或关系的**种类或方向** | 仅预测**存在**差异或关系，不陈述方向 |
@@ -72,7 +72,7 @@ updated: 2026-09-17
 
 ### 方向性假设
 
-方向性[[Hypothesis|假设]]通常用于已有研究、预测或理论提示发现可能走向特定方向的情境。因为它陈述了关系的方向，统计检验力更强（单尾检验在相同[[Sample Size Determination|样本量]]下比双尾检验更容易检测到预期方向的效应），但代价是无法检测到相反方向的显著效应（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, p.138]]）。
+方向性假设通常用于已有研究、预测或理论提示发现可能走向特定方向的情境。因为它陈述了关系的方向，统计检验力更强（单尾检验在相同[[Sample Size Determination|样本量]]下比双尾检验更容易检测到预期方向的效应），但代价是无法检测到相反方向的显著效应（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07|Cohen et al., 2011, Ch.7, p.138]]）。
 
 ### 非方向性假设
 
@@ -87,5 +87,5 @@ updated: 2026-09-17
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al. (2011, Ch.7)]] — 系统阐述方向性/非方向性[[Hypothesis\|假设]]的定义、与单尾/双尾检验的对应关系及各自适用情境
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07\|Cohen et al. (2011, Ch.7)]] — 系统阐述方向性/非方向性假设的定义、与单尾/双尾检验的对应关系及各自适用情境
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — Ch.7 将方向性作为好假设的关键特征之一，并提供方向性词汇列表

@@ -8,10 +8,10 @@ aliases:
 summary: "指在科学研究中研究者有意对受试者隐瞒真实目的、实验条件、研究者身份或主动提供误导性信息的实验设计实践；虽然在社会心理学中被用于绕过被试的社会赞许性偏误并揭示人类从众与服从本能，但因直接冲突于知情同意与不伤害伦理原则，成为现代研究伦理学中最具争议的制度化焦点。"
 type: concept
 domain: "research-methodology"
-related_count: 30
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - method/research-ethics
   - theme/research-governance
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Informed Consent]]"
   - "[[Hawthorne Effect]]"
   - "[[Covert Research]]"
-  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Ecological Validity]]"
   - "[[Public Value]]"
@@ -55,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-18
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Deception in Research
@@ -83,7 +82,7 @@ updated: 2026-10-09
 > [!contrast-table] 概念辨析
 > | 维度 | 主动误导欺骗 | 不完全知情披露 | [[Covert Research\|隐蔽观察研究]] |
 > |---|---|---|---|
-> | **信息操作方式** | 主动编造虚假实验目的、伪造仪器读数或安插假同谋 | 仅告知研究大类主题，隐瞒具体测量维度或实验[[Hypothesis\|假设]] | 完全不告知被观察者其正处于科学研究之中 |
+> | **信息操作方式** | 主动编造虚假实验目的、伪造仪器读数或安插假同谋 | 仅告知研究大类主题，隐瞒具体测量维度或实验假设 | 完全不告知被观察者其正处于科学研究之中 |
 > | **受试者知情状态** | 知晓正在接受测试，但对真实测试[[Variable\|变量]]产生彻底误解 | 知晓正在接受测试，但对深层测量意图保持不知情 | 完全不知道研究者的存在与观察记录行为 |
 > | **典型现实代表** | [[Milgram Obedience Experiment\|米尔格拉姆假电击实验]]、[[Asch Conformity Experiment\|阿施线条比对实验]] | [[Rating Scale\|态度量表]]、人格投射测验、掩饰性反应时任务 | 街头公共场所行为观察、网络公开论坛文本抓取 |
 > | **主要伦理补救** | 实验结束后立即进行深度事后说明（Debriefing） | 签署概括性[[Informed Consent\|知情同意书]]，事后公布整体研究结论 | 严格脱敏个人身份信息，确保不造成任何现实伤害 |
@@ -94,7 +93,7 @@ updated: 2026-10-09
 
 > [!feature] 欺骗的主要表现形态
 > - **未告知被研究事实** 在受试者完全不知情的情形下记录其行为与生理指标。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, p. 109)]]
-> - **不告知全部真相** 隐瞒研究的真正[[Hypothesis|假设]]与利益关联，使受试者基于片面信息作出参与承诺。
+> - **不告知全部真相** 隐瞒研究的真正假设与利益关联，使受试者基于片面信息作出参与承诺。
 > - **主动提供虚构信息** 积极编造虚假的实验背景故事（[[Cover Story]]）或伪造权威指令。
 > - **安插实验同谋（Confederates）** 安排研究助手伪装成普通受试者或权威代表，制造人为群体压力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|(Karp & Zamiska, 2025, p. 130)]]
 > - **客体化与工具化操控** 将受试者置于无预警的高度紧张、尴尬或痛苦情境中进行极端压力测试。
@@ -159,7 +158,7 @@ updated: 2026-10-09
 > 探讨如何通过制度化事后说明（Debriefing）与新型实验设计化解欺骗带来的负面伦理效应。
 
 > [!claim] Kelman, H. C.; Cooper, D. R., & Schindler, P. S.
-> **欺骗治理与事后说明救济断言** 赫伯特·凯尔曼（Herbert Kelman）提出处理研究欺骗的三重进路：提升研究者对欺骗伦理风险的主动审议意识、将操纵限制在中低强度并严格筛除脆弱个体、积极开发[[Role-playing|角色扮演]]（Role-playing）与情景[[Hypothesis|假设]]等替代程序。库珀与辛德勒（Cooper & Schindler）进一步确立了事后说明（Debriefing）作为核心补救机制的标准流程，要求研究者在实验后详尽解释欺骗动机、分享真实科学假设并提供后续心理疏导，以真诚沟通重建受试者的心理平衡。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, pp. 111–113)]]
+> **欺骗治理与事后说明救济断言** 赫伯特·凯尔曼（Herbert Kelman）提出处理研究欺骗的三重进路：提升研究者对欺骗伦理风险的主动审议意识、将操纵限制在中低强度并严格筛除脆弱个体、积极开发[[Role-playing|角色扮演]]（Role-playing）与情景假设等替代程序。库珀与辛德勒（Cooper & Schindler）进一步确立了事后说明（Debriefing）作为核心补救机制的标准流程，要求研究者在实验后详尽解释欺骗动机、分享真实科学假设并提供后续心理疏导，以真诚沟通重建受试者的心理平衡。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch05|(Cohen et al., 2011, pp. 111–113)]]
 
 ---
 

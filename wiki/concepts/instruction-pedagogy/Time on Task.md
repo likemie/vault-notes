@@ -11,10 +11,10 @@ aliases:
 summary: "学习者在课堂教学过程中实际专注投入于教师所提供学习活动的时间总量或比例。作为有效教学与学业成就的基础性前置条件，它反映了潜在教学机会向实质学习经历的转化效率；在世界银行Teach等工具中，通过瞬时定格快照操作化为教师提供学习活动与学生在轨人数的客观状态判定，但实证研究一致表明单纯增加在轨时间若缺乏高推论教学质量支撑，无法自发带来深层认知与社会情感技能发展。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 30
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 27
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/pedagogy
   - theme/classroom-observation
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Student Engagement]]"
   - "[[Metacognition]]"
-  - "[[Attrition]]"
   - "[[Homework]]"
   - "[[Zone of Proximal Development]]"
   - "[[Rote Learning]]"
@@ -36,7 +35,6 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Effective Teaching]]"
   - "[[Critical Thinking]]"
-  - "[[Document]]"
   - "[[Reliability]]"
   - "[[Strategic Compliance]]"
   - "[[Disciplina and Doctrina]]"
@@ -47,7 +45,6 @@ related_theories:
   - "[[Knowledge Building Theory]]"
 related_methods:
   - "[[Classroom Observation]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
   - "[[Standard Error]]"
   - "[[Correlational Research]]"
@@ -101,7 +98,7 @@ updated: 2026-10-15
 为了厘清教育时间理论的发展脉络，需要将任务在轨时间置于课堂时间逐层衰减的分析矩阵中进行比较。
 
 > [!contrast-table] 课堂教学时间四层漏斗模型对比
-> | 时间层级 | 核心定义 | 测量重点 | 典型[[Attrition\|流失]]环节 | 质量敏感性 |
+> | 时间层级 | 核心定义 | 测量重点 | 典型流失环节 | 质量敏感性 |
 > |---|---|---|---|---|
 > | **分配时间**<br>（Allocated Time） | 课程表和教育行政规程正式划定的课时总长度（如每节课 45 分钟）。 | 名义制度时长，反映宏观教育资源供给。 | 教师迟到、早退、整堂缺课、极端天气停课。 | 零敏感（纯物理外在指标）。 |
 > | **教学时间**<br>（Instructional Time） | 教师实际身处教室且开展课程教学、练习指导的总时长。 | 排除收发[[Homework\|作业]]、点名考勤、纪律惩戒后的教学活动时间。 | 课堂常规混乱、组织过渡拖沓、频繁处理违纪。 | 低敏感（仅看教师是否在教）。 |
@@ -173,7 +170,7 @@ updated: 2026-10-15
 对上述关于任务在轨时间的核心命题进行横向系统归纳：
 
 > [!contrast-table] 任务在轨时间理论命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表[[Document\|文献]] |
+> | 命题类型 | 核心指向 | 适用情境 | 代表文献 |
 > |---|---|---|---|
 > | **认知生产必要前提命题** | 在轨时间是学业成就的基础保障，但其价值取决于教学指导与支持的质量水平。 | 基础教育全科课堂、教育生产函数建模、宏观教学效能诊断。 | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] |
 > | **微观组织损耗防范命题** | 清晰的过渡管理与结构化任务设计能够最大限度阻断行政事务对注意力的吞噬。 | 班级管理常规构建、职前教师技能训练、课堂低效诊断。 | 同上 |
@@ -186,7 +183,7 @@ updated: 2026-10-15
 
 > [!dev-timeline] 概念演变
 > - **1963 — 学校学习时间模型奠基** 约翰·卡罗尔（John Carroll）提出学校学习模型，指出学习程度是学生实际花费的时间（Time Spent）与掌握该任务所需时间（Time Needed）的函数比值，将时间利用引入学习科学核心。
-> - **1975–1980 — 课堂微观时间实证测量** 简·斯托林斯（Jane Stallings）开发[[Stallings Classroom Observation System|斯托林斯课堂观察系统]]，采用连续时段[[Coding in Qualitative Research|编码]]测量教师教学时间与互动类型，开启大规模实地在轨时间计量先河。
+> - **1975–1980 — 课堂微观时间实证测量** 简·斯托林斯（Jane Stallings）开发[[Stallings Classroom Observation System|斯托林斯课堂观察系统]]，采用连续时段编码测量教师教学时间与互动类型，开启大规模实地在轨时间计量先河。
 > - **1990 — 学业学习时间（ALT）分层成熟** 戴维·伯利纳（David Berliner）系统提出学业学习时间理论，严格区分分配时间、教学时间、在轨时间与成功学业学习时间，确立时间四层递进漏斗模型。
 > - **2019 — 全球中低收入国家标准化双轨融合** [[World Bank|世界银行]]发布 Teach [[Classroom Observation|课堂观察]]系统，将任务在轨时间与高推论行为量规分离并重，确立基于 1–10 秒瞬时定格快照的低推论抽样技术，成为全球南方教育质量监测的标准度量衡。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 2–5)]]
 

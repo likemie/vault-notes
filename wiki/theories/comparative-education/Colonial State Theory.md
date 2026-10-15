@@ -10,7 +10,7 @@ aliases:
 summary: "比较教育政治经济学视阈下的国家理论，批判自由主义民主国家假定，指出殖民国家因其天然非代表性与暴力胁迫本质而极少承担政治合法化职能，其教育供给完全服务于资本掠夺与最低限度治安行政能力，并提出后殖民教育扩张由全球积累嵌入时机、殖民制度遗产与本土社会结构三重历史条件共同决定"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 20
+theory_related_count: 18
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -27,7 +27,6 @@ related_concepts:
   - "[[Popular Education]]"
   - "[[Theoretical Standpoint]]"
   - "[[Global Citizenship]]"
-  - "[[Hypothesis]]"
   - "[[Dual School System]]"
   - "[[Import Substitution Industrialisation]]"
 related_theories:
@@ -40,7 +39,6 @@ related_methods:
   - "[[Analytic Framework]]"
 related_persons:
   - "[[Liliana Esther Olmos]]"
-  - "[[Carlos Alberto Torres]]"
   - "[[Martin Carnoy]]"
   - "[[Joel Samoff]]"
 related_facts: []
@@ -49,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-09-28
+updated: 2026-10-15
 ---
 
 # Colonial State Theory
@@ -65,14 +63,14 @@ updated: 2026-09-28
 > - **知识位置** 隶属于比较教育政治经济学与后殖民批判研究传统，与[[Dependency Theory|依附理论]]及[[Conditioned State Theory|受限国家理论]]构成紧密理论互补。
 
 > [!claim] 核心判断
-> [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）明确指出，自由主义民主国家的“资本积累与政治合法化双重功能模型”根本无法套用于殖民国家。殖民国家本质上是外来强加的、非代表性与纯粹暴力胁迫的政权，它无须通过提供普惠教育福利来争取被统治大众的政治认同；其教育政策仅受制于资本掠夺需要及建立最低限度行政-强制官僚机构的工具诉求。战后非殖民化以来的教育大扩张，在本质上是由外围社会嵌入全球资本积累的模式、殖民历史制度遗产以及本土社会阶级结构三重历史条件共同决定的。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 75–76)]]
+> [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）明确指出，自由主义民主国家的“资本积累与政治合法化双重功能模型”根本无法套用于殖民国家。殖民国家本质上是外来强加的、非代表性与纯粹暴力胁迫的政权，它无须通过提供普惠教育福利来争取被统治大众的政治认同；其教育政策仅受制于资本掠夺需要及建立最低限度行政-强制官僚机构的工具诉求。战后非殖民化以来的教育大扩张，在本质上是由外围社会嵌入全球资本积累的模式、殖民历史制度遗产以及本土社会阶级结构三重历史条件共同决定的。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 75–76)]]
 
 ---
 
 ## 理论来源与形成
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]在《比较教育学国际手册》（2009）第 6 章《国家理论、教育扩张、发展与全球化》中系统阐发。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 75–76)]]
+> - **提出者与原始文本** [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯在《比较教育学国际手册》（2009）第 6 章《国家理论、教育扩张、发展与全球化》中系统阐发。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 75–76)]]
 > - **原初问题** 主流宏观社会学（如功能主义与[[World-Systems Theory|世界体系理论]]）将 1945 年后的全球教育扩张描绘成一场突如其来的全球“大爆炸”（Big Bang），将二战前的殖民教育统制历史一笔勾销，无法解释为何全球南方的学校系统普遍呈现极度的阶级断层与工具化特征。
 > - **理论资源与材料** 汲取[[Martin Carnoy|马丁·卡诺伊]]（Carnoy, 1974）《教育作为文化帝国主义》、哈姆扎·阿拉维（Hamza Alavi）后殖民国家“过度发达国家机器”论，以及拉美新马克思主义关于资本原始积累与国家相对自主性的论述。
 > - **形成路径** 从历史政治经济学出发，对比西方民主国家与殖民国家的统治基础差异，抽离出“合法化功能缺失”与“三重历史决定机制”两大理论核心。
@@ -82,7 +80,7 @@ updated: 2026-09-28
 > [!dev-timeline] 理论演变脉络
 > - **1974 — 奠基阶段（文化帝国主义与依附教育）** 卡诺伊系统论述西方殖民宗主国如何通过正规学校教育灌输依附性文化，确立宗主国对殖民地思想与经济的全面支配。
 > - **1990 — 转型深化（第三世界社会主义与后殖民国家）** 卡诺伊与[[Joel Samoff|萨莫夫]]合著《第三世界的教育与社会转型》，实证追踪莫桑比克、坦桑尼亚等国脱离殖民统治后，重构国家政治认同与教育供给的曲折历程。[[Argument_Olmos_Torres_2009_StateTheories|(Carnoy & Samoff, 1990; Olmos & Torres, 2009, p. 75)]]
-> - **2009 — 系统定型（殖民国家双重功能剥离与三重历史[[Determinism|决定论]]）** [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]正式确立了殖民国家在积累与合法化功能上的非对称性，提出分析后殖民教育扩张的三重历史维度。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 75–76)]]
+> - **2009 — 系统定型（殖民国家双重功能剥离与三重历史[[Determinism|决定论]]）** [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯正式确立了殖民国家在积累与合法化功能上的非对称性，提出分析后殖民教育扩张的三重历史维度。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 75–76)]]
 
 ---
 
@@ -160,7 +158,7 @@ updated: 2026-09-28
 > |:-----|:-----|:-----|
 > | [[Conditioned State Theory]] | 理论 | 阐明殖民地独立后演变为外围资本主义受限国家的制度延续性。 |
 > | [[Dependency Theory]] | 理论 | 为理解殖民国家在世界资本主义体系中的中心-外围掠夺关系提供宏观政治经济学基石。 |
-> | [[World Society Theory]] | 理论 | 构成直接理论论敌，批判其抹杀殖民历史、将教育扩张[[Hypothesis\|假设]]为去情境化“大爆炸”的偏误。 |
+> | [[World Society Theory]] | 理论 | 构成直接理论论敌，批判其抹杀殖民历史、将教育扩张假设为去情境化“大爆炸”的偏误。 |
 > | [[Dual School System]] | 概念 | 揭示殖民国家为维持少数买办统治而设计的一内一外、高度分化的学校双轨结构。 |
 > | [[Import Substitution Industrialisation]] | 概念 | 说明后殖民国家脱离宗主国控制后，试图通过内向型工业化打破殖民分工并拉动教育扩张的努力。 |
 > | [[Martin Carnoy]] | 人物 | 率先系统论证殖民主义如何通过学校制度实施文化帝国主义统治的奠基学者。 |

@@ -7,7 +7,7 @@ aliases:
 summary: "一种逻辑谬误，指仅因一个事件在时间上先于另一个事件，就推断前者是后者的原因。是事后回溯研究中的核心风险之一。"
 type: concept
 domain: "educational-philosophy"
-related_count: 13
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,7 +19,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Causality]]"
   - "[[Necessary and Sufficient Conditions]]"
-  - "[[Hypothesis]]"
   - "[[Falsification]]"
   - "[[Academic Achievement]]"
   - "[[Independent Variable]]"
@@ -35,7 +34,7 @@ related_facts: []
 confidence: medium
 status: draft
 created: 2026-07-12
-updated: 2026-09-11
+updated: 2026-10-15
 ---
 # Post Hoc Ergo Propter Hoc Fallacy
 
@@ -48,7 +47,7 @@ updated: 2026-09-11
 
 > [!concept-lens] 概念透镜
 > - **含义** 事后归因谬误指向因果推断中的一种典型错误：将时间序列（temporal sequence）误认为因果序列（causal sequence）。两个事件 A 和 B 先后发生，并不意味 A 导致了 B。
-> - **用途** 识别和命名这一谬误有助于研究者警惕非[[Experimental Research\|实验研究]]设计中因果推断的脆弱性，特别是在[[Ex Post Facto Research\|事后回溯研究]]中，[[Hypothesis\|假设]]是从已收集的数据中生成的，无法在同一数据上被检验。
+> - **用途** 识别和命名这一谬误有助于研究者警惕非[[Experimental Research\|实验研究]]设计中因果推断的脆弱性，特别是在[[Ex Post Facto Research\|事后回溯研究]]中，假设是从已收集的数据中生成的，无法在同一数据上被检验。
 > - **边界** 事后归因谬误仅指出时间顺序≠因果关系的逻辑问题，本身不提供如何正确建立因果关系的正面方案。它不同于反向因果（reverse causation，因果方向可能相反）和第三变量问题（common cause，两者都是共同原因的结果），尽管这三者在事后回溯研究中经常同时出现（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15\|Cohen et al., 2011, Ch. 15, pp. 309–310]]）。
 
 ---
@@ -58,7 +57,7 @@ updated: 2026-09-11
 > [!feature] 事后归因谬误的三个层面
 > - **逻辑层面** 时间先后是[[Causality\|因果关系]]的[[Necessary and Sufficient Conditions\|必要条件]]而非充分条件。即使 A 每次都先于 B 发生，也不能在逻辑上排除其他解释。
 > - **统计层面** 两个[[Variable\|变量]]的相关（correlation）不能单独确立因果关系。在[[Ex Post Facto Research\|事后回溯研究]]中，即使发现强相关，也可能存在三种竞争性解释：X 导致 O、O 导致 X、第三变量导致二者。
-> - **方法层面** 事后回溯研究的[[Hypothesis\|假设]]是在数据收集之后生成的，因此无法在同一数据上被[[Falsification\|证伪]]（Babbie, 2010, p. 462）。证据只能说明假设，不能检验假设（Lord, 1973, p. 7）。
+> - **方法层面** 事后回溯研究的假设是在数据收集之后生成的，因此无法在同一数据上被[[Falsification\|证伪]]（Babbie, 2010, p. 462）。证据只能说明假设，不能检验假设（Lord, 1973, p. 7）。
 
 ---
 

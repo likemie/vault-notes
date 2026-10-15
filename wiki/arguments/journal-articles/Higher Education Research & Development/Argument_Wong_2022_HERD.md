@@ -12,7 +12,7 @@ title: "Argument_Wong_2022_HERD"
 argument_key: "Argument_Wong_2022_HERD"
 argument_display_title: "A mapping of graduate attributes: what can we expect from UK university students? Higher Education Research & Development, 41(4), 1340–1355"
 argument_kind: "journal-article"
-argument_related_count: 12
+argument_related_count: 11
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -36,8 +36,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Language Skills]]"
 related_theories: []
-related_methods:
-  - "[[Coding in Qualitative Research]]"
+related_methods: []
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -67,7 +66,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info] 研究方法
-> - 方法：质性归纳主题分析（inductive thematic analysis），使用 NVivo and NCapture 收集和[[Coding in Qualitative Research\|编码]]数据
+> - 方法：质性归纳主题分析（inductive thematic analysis），使用 NVivo and NCapture 收集和编码数据
 > - 样本：Universities UK 137 所成员大学中，76 所（55%）至少有一个公开网页列出[[Graduate Attributes\|毕业生特质]]（截至 2020 年 1 月）
 > - 数据来源：大学官方网站公开的毕业生特质页面
 > - 分析流程：三位作者独立编码相同数据（三所大学网站）→ 讨论差异达成共识 → 逐步精炼编码框架 → 超过 30 个子代码归纳为四大[[Discourse|话语]](p.1343)

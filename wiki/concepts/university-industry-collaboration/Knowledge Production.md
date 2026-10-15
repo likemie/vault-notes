@@ -7,7 +7,7 @@ aliases:
 summary: "知识的创造、建构与合法化过程；在宏观场域揭示资本偏向、跨国组织自指性指标帝国与高校基础科研体制变迁，在微观教育场域指向学习者在本土协商共同体中依托证据协调与认识论实践自主生成新知并内化说服优于强制的民主审议价值。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 135
+related_count: 132
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Champ]]"
   - "[[University-Industry Collaboration]]"
   - "[[Justificatory Standards]]"
-  - "[[Document]]"
   - "[[Epistemic Agency]]"
   - "[[National Innovation System]]"
   - "[[Research Universities]]"
@@ -41,8 +40,8 @@ related_concepts:
   - "[[Gatekeepers]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Theoretical Knowledge]]"
+  - "[[School Autonomy]]"
   - "[[Humboldtian Model of Higher Education]]"
-  - "[[Teaching Assistant]]"
   - "[[Intellectual Capital]]"
   - "[[Narrative Knowledge]]"
   - "[[Interpretive Paradigm]]"
@@ -55,7 +54,6 @@ related_concepts:
   - "[[Structural Adjustment Programs]]"
   - "[[Heterogeneous Integration]]"
   - "[[Valley of Death]]"
-  - "[[Hypothesis]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Direct Instruction]]"
   - "[[Open-Mindedness]]"
@@ -90,6 +88,7 @@ related_concepts:
   - "[[Focused Research Organization]]"
   - "[[Metascience]]"
   - "[[Scientific Method]]"
+  - "[[Document]]"
   - "[[Global Educational Discourse]]"
   - "[[Epistemic Governance]]"
 related_theories:
@@ -108,13 +107,11 @@ related_methods:
   - "[[Discourse Analysis]]"
   - "[[Network Analysis]]"
   - "[[Ethnography]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Chain-of-Thought Prompting]]"
   - "[[Role-playing]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Correlational Research]]"
 related_persons:
-  - "[[Isaiah Berlin]]"
   - "[[Jason Beech]]"
   - "[[Michael Kratsios]]"
   - "[[Ton de Jong]]"
@@ -184,7 +181,7 @@ updated: 2026-10-15
 > | **核心分析场域** | 国家研发资助体系、跨国治理机构（[[OECD]]、世界银行）、大学科研系统与产业界 | 中小学科学课堂、大学探究研讨课、人机协同探究共同体 |
 > | **主要生产主体** | 大学教授、实验室科学家、国际智库专家、产业研发团队 | 学生探究小组、师生学习共同体、人机共生认知网络 |
 > | **核心实践活动** | 基础研究探索、竞争性课题申报、跨国指标测度、专利申请与[[University-Industry Collaboration\|产学合作]] | 提出猜想、协同实验、观点论证、同行质询与概念模型持续改进 |
-> | **合法性与[[Justificatory Standards\|确证标准]]** | 同行匿名评议、期刊[[Document\|文献]]计量标准、产业经济回报率、跨国量化基准 | 经验证据协调、四维认识论实践规程、学科概念解释力、人机评价主义立场检验 |
+> | **合法性与[[Justificatory Standards\|确证标准]]** | 同行匿名评议、期刊文献计量标准、产业经济回报率、跨国量化基准 | 经验证据协调、四维认识论实践规程、学科概念解释力、人机评价主义立场检验 |
 > | **权力与组织关系** | 联邦资助契约、资本对成果所有权的剥离、跨国指标帝国的排他性垄断 | 分布式认知、平等的智识权威、公共观点改进与[[Epistemic Agency\|认识主体性]]确立 |
 > | **深层核心价值** | 国家科技创新竞争力、经济增长引擎、对公共科研池（[[Pool of Knowledge]]）的再充实 | 内化说服优于强制的民主审议伦理、开放反思精神与行使[[Epistemic Agency\|认识能动性]] |
 
@@ -203,7 +200,7 @@ updated: 2026-10-15
 > - **边界** 聚焦宏观研发体制、国家资助结构与国际组织治理工具，区别于微观个体的心理认知加工。
 
 > [!citation-card] 大学知识生产职能的历史转型与公共知识池假说
-> 直到 19 世纪中叶，大学在本质上仍是专注于传授已有知识的教学机构。这一传统首先在 19 世纪早期的德国被打破——[[Isaiah Berlin|柏林]]大学确立了大学应当同时从事知识生产与知识传播的全新信条。二战后[[Science, The Endless Frontier 1945|布什报告]]确立了基础研究的公共品属性：基础研究如同全社会共享的知识蓄水池，工业界从中汲取养分转化为技术，而联邦资助大学基础研究正是为了持续向这一知识蓄水池注水。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 31–32, 35)]]
+> 直到 19 世纪中叶，大学在本质上仍是专注于传授已有知识的教学机构。这一传统首先在 19 世纪早期的德国被打破——柏林大学确立了大学应当同时从事知识生产与知识传播的全新信条。二战后[[Science, The Endless Frontier 1945|布什报告]]确立了基础研究的公共品属性：基础研究如同全社会共享的知识蓄水池，工业界从中汲取养分转化为技术，而联邦资助大学基础研究正是为了持续向这一知识蓄水池注水。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 31–32, 35)]]
 >
 > *Until the mid-19th century, universities were teaching institutions devoted to the transmission of knowledge... The German model of universities dedicated to both the production and transmission of knowledge was replicated in the United States... [[Blue Skies Research|Basic Research]] is the pacemaker of technological progress, replenishing the [[Pool of Knowledge]] from which industry can draw.*
 
@@ -219,7 +216,7 @@ updated: 2026-10-15
 > - **从认知中枢向技术能力组件的降维与三轨分化** 在技术导向型契约确立与大国地缘博弈加剧背景下，知识生产从国家科技战略的好奇心驱动认知中枢降维为技术能力要素；外部行政规约绕开传统同行评审，导致宏观生态分化为联邦国家任务、安全规约大学与私营算力垄断三大异质轨道。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1061–1064)]]
 > - **智能时代学术交流与生成-核验生态重塑** 深刻批判源自 17 世纪的学术期刊同行评议体系（人为制造稀缺、指标异化、排斥失败与负面数据）；主张以包含数据、代码与运行环境的“[[Dynamic Research Notebook|动态研究笔记本]]”取代孤立静态论文，部署专职 AI 复现审计代理与云端自主实验室，并依托国家级平台（[[Genesis Mission|创世纪计划]]与美国科学云）打破数据壁垒，实现细粒度贡献追踪与负面数据共享。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 62–70)]]
 > - **教育即标准与中试共置的战略产业嵌入** 在国家关键战略产业（如半导体与微电子）中，大学突破单向专利许可模式，将开源技术架构（如加利福尼亚大学伯克利分校 RISC-V）直接嵌入研究生课程与实验训练，依托人才流动与网络外部性（David, 1985）驱动全球技术事实标准的内生锁定；同时依托 300 毫米晶圆中试线（SUNY Poly）与跨学科共享平台（MIT.nano）实现产学共置攻关，弥合实验室原型向制造产线导入的工程断层。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 20–22)]]
-> - **跨国知识流通的过度简化与外围本土知识生产的[[Gatekeepers|守门人]]阻绝** 国际机构（如世界银行、经合组织、[[UNESCO|教科文组织]]）受紧迫[[Pragmatic Paradigm|实用主义]]驱动，将全球学术空间的多元复杂[[Theoretical Knowledge|理论知识]]，过度简化（Oversimplification）为标准化的五大支柱政策模板（分权、学校自主、教师专业化、能力本位、中央评估）；同时，外围发展中国家（如阿根廷、巴西）内部由兼具本土学者、政府技术官僚与跨国顾问多重身份的精英构成“[[Gatekeepers|守门人]]”网络，在全盘借入外部制度愿景的同时，系统性边缘化了本国大学与科研机构的自主知识生产空间，致使其深厚的百科全书式知识传统被贬抑为落后低效。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–353)]]
+> - **跨国知识流通的过度简化与外围本土知识生产的[[Gatekeepers|守门人]]阻绝** 国际机构（如世界银行、经合组织、[[UNESCO|教科文组织]]）受紧迫[[Pragmatic Paradigm|实用主义]]驱动，将全球学术空间的多元复杂[[Theoretical Knowledge|理论知识]]，过度简化（Oversimplification）为标准化的五大支柱政策模板（分权、[[School Autonomy|学校自主]]、教师专业化、能力本位、中央评估）；同时，外围发展中国家（如阿根廷、巴西）内部由兼具本土学者、政府技术官僚与跨国顾问多重身份的精英构成“[[Gatekeepers|守门人]]”网络，在全盘借入外部制度愿景的同时，系统性边缘化了本国大学与科研机构的自主知识生产空间，致使其深厚的百科全书式知识传统被贬抑为落后低效。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–353)]]
 
 ---
 
@@ -236,10 +233,10 @@ updated: 2026-10-15
 
 #### 命题二　去中心化的竞争性资助体制造就了高产出知识生态，但也诱发了系统性学术避险
 > [!concept-lens] 科研资助经济学与学术生产力
-> 审视联邦项目竞争制在激发科研活力的同时，对青年学者研究方向与[[Document|文献]]质量产生的潜在扭曲。
+> 审视联邦项目竞争制在激发科研活力的同时，对青年学者研究方向与文献质量产生的潜在扭曲。
 
 > [!claim] [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008)]]; [[Argument_Stephan_2013_NBER|Stephan (2013)]]
-> **竞争性知识生产的双刃剑效应** Atkinson & Blanpied 论证指出，美国联邦研发基金直接资[[Teaching Assistant|助教]]师个人而非大学当局的去中心化同行评审机制，激发了高校间争夺人才与课题的激烈竞争，构成了战后顶尖学术成果井喷的制度保障；但与此同时，当资助成功率走低与高校 2–3 年启动金耗尽时，生存压力迫使学者退守风险较低的增量课题，导致学术知识生产出现广泛的学术避险与文献平庸化现象。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42, 44–45)]]
+> **竞争性知识生产的双刃剑效应** Atkinson & Blanpied 论证指出，美国联邦研发基金直接资助教师个人而非大学当局的去中心化同行评审机制，激发了高校间争夺人才与课题的激烈竞争，构成了战后顶尖学术成果井喷的制度保障；但与此同时，当资助成功率走低与高校 2–3 年启动金耗尽时，生存压力迫使学者退守风险较低的增量课题，导致学术知识生产出现广泛的学术避险与文献平庸化现象。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 41–42, 44–45)]]
 
 ---
 
@@ -318,7 +315,7 @@ updated: 2026-10-15
 ### 2.1 核心定义与概念透镜
 
 > [!def] 微观课堂知识生产界定
-> **微观课堂知识生产（Micro-Classroom Knowledge Production / Construction）** 聚焦学校教学情境下学习者在本土协商共同体中自主构建新认知的社会[[Epistemology|认识论]]过程。在该视阈下，知识不是教师单向灌输的静态事实，而是学生作为能动的探究者，通过面对反常现象、提出猜想[[Hypothesis|假设]]、协调多源经验证据、接受同伴理性批评并达成共识，使个体的认知结构实现概念转变，进而推进班级共同体公共观点前沿的能动实践。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, p. 2)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 140, 161)]]; [[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 891–893)]]
+> **微观课堂知识生产（Micro-Classroom Knowledge Production / Construction）** 聚焦学校教学情境下学习者在本土协商共同体中自主构建新认知的社会[[Epistemology|认识论]]过程。在该视阈下，知识不是教师单向灌输的静态事实，而是学生作为能动的探究者，通过面对反常现象、提出猜想假设、协调多源经验证据、接受同伴理性批评并达成共识，使个体的认知结构实现概念转变，进而推进班级共同体公共观点前沿的能动实践。[[Argument_DeJong_2023_ERR|(De Jong et al., 2023, p. 2)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 140, 161)]]; [[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 891–893)]]
 
 > [!concept-lens] 微观概念透镜
 > - **含义** 学生在课堂中开展调查并自主生成对其自身而言全新的理解，行使实质性的[[Epistemic Agency|认识能动性]]，将观点视为可以被持续改进的客观“概念制品”。
@@ -338,7 +335,7 @@ updated: 2026-10-15
 > - **四维社会化认识论实践（Four-Dimensional Epistemic Practices）** 课堂知识生产由提出（Proposing）、沟通（Communicating）、评估（Evaluating）与合法化（Legitimating）四项核心社会行动组成，贯穿于探索发现、证据辩护与反思交流三重情境中。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 144–147)]]
 > - **观点作为客观概念制品（Idea Improvement as Conceptual Artefacts）** [[Knowledge Building Theory|知识建构学派]]将学生的观点视作波普尔“世界 3”中的客体，引导学生克服“观点即自尊”的心理防御，使观点接受全班同学持续的修补、检验与合成。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 891–893)]]
 > - **[[Reflective Structuration|反思性结构化]]（Reflective Structuration）** 探究群体打破僵化的固定分组，根据探究进展动态自发重构意向领域与弹性合作团队，推动全班知识前沿从碎片经验向系统因果模型迭代。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 892–893)]]
-> - **多源证据协调与[[Chain of Evidence|证据链]]建构** 学生通过将一手实验读数、计算机波形图、具身肢体动作与学科[[Document|文献]]相对照，构建严密的三级[[Chain of Evidence|证据链]]以支撑或[[Falsification|证伪]][[Scientific Explanation|科学解释]]。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 148–152)]]
+> - **多源证据协调与[[Chain of Evidence|证据链]]建构** 学生通过将一手实验读数、计算机波形图、具身肢体动作与学科文献相对照，构建严密的三级[[Chain of Evidence|证据链]]以支撑或[[Falsification|证伪]][[Scientific Explanation|科学解释]]。[[Argument_Kelly_Licona_2018_EpistemicPractices|(Kelly & Licona, 2018, pp. 148–152)]]
 > - **人机协同共建与[[Epistemic Stances|认识立场]]调节** 引入生成式 AI 后，课堂知识生产演化为人机共生协同建构；学习者的[[Epistemic Stances|认识立场]]（绝对主义、相对主义、评价主义）决定了 AI 命题如何被检验，评价主义立场是确保人机共生中学生坚守主导权的核心支柱。[[Argument_Wu_2025_ER|(Wu et al., 2025, pp. 358–361)]]
 
 ---
@@ -380,7 +377,7 @@ updated: 2026-10-15
 > | 研究文献 | 样本与教学情境 | 研究设计与分析方法 | 核心实证指标与结果 | 理论解释边界 |
 > |:---|:---|:---|:---|:---|
 > | [[Argument_Zhang_2022_SE\|Zhang et al. (2022)]] | 美国公立小学 22 名五年级学生，7 个月人体系统知识建构课堂 | [[Interactional Ethnography\|互动民族志]]、协作[[Discourse Analysis\|话语分析]]与[[Network Analysis\|社会网络分析]] | 16 篇 BOOK 视图反思笔记中 13 篇达到完全科学水平（81.25%），7 篇展现详细因果机制解释（43.75%），0 篇处于前科学水平；全班知识论坛形成 500+ 发帖高密度互联网络 | 证实小学生通过反思性结构化重构弹性探究组，能够切实开展高水平概念制品改进并推进集体公共知识前沿 |
-> | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] | 高中物理电磁实验、小学工程设计及大学地质写作语料 | 交互[[Ethnography\|人种志]]、话语微观分析与证据[[Coding in Qualitative Research\|编码]] | 课堂互动中学生运用波形读数与具身手势协同跨越概念断层；高水平地质学学术写作呈现严密的三级证据链整合模式 | 质性证实学生在四维社会化实践中通过证据协调构建新知的认识论规程与审议价值内化 |
+> | [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] | 高中物理电磁实验、小学工程设计及大学地质写作语料 | 交互[[Ethnography\|人种志]]、话语微观分析与证据编码 | 课堂互动中学生运用波形读数与具身手势协同跨越概念断层；高水平地质学学术写作呈现严密的三级证据链整合模式 | 质性证实学生在四维社会化实践中通过证据协调构建新知的认识论规程与审议价值内化 |
 > | [[Argument_Wu_2025_ER\|Wu et al. (2025)]] | 中学与高校人机协同跨学科科学探究案例 | 概念模型构建与人机交互语料追踪 | 质性证实持有[[Evaluativist\|评价主义认识立场]]的学习者能有效设计[[Chain-of-Thought Prompting\|思维链]]（CoT）与[[Role-playing\|角色扮演提示]]词，驱动大模型开展多视角辩难并进行多源实验核验 | 确立了人机共生环境下知识生产的确证规范与评价主义立场调节模型 |
 
 > [!example] 典型微观教学应用案例
@@ -394,14 +391,14 @@ updated: 2026-10-15
 ## 命题总览
 
 > [!contrast-table] 知识生产全谱系命题归纳
-> | 谱系领域 | 命题类型 | 核心指向 | 关键作用机制 | 核心论证[[Document\|文献]] |
+> | 谱系领域 | 命题类型 | 核心指向 | 关键作用机制 | 核心论证文献 |
 > |:---|:---|:---|:---|:---|
 > | **宏观体制** | **大学职能研教共生** | 现代[[Research Universities\|研究型大学]]确立了知识生产与传播并重的使命，研究生院构建起尖端探索与拔尖人才培养共生生态 | 德国[[Humboldtian Model of Higher Education\|洪堡理念]]移植；研究生师徒共进；前沿科研与研究生教育绑定 | [[Argument_Atkinson_2008_TIS\|Atkinson and Blanpied (2008)]] |
-> | **宏观体制** | **竞争资助与学术避险** | 去中心化同行评审与竞争资助造就卓越生产力，但竞争过热与启动金耗尽诱发青年学者学术避险与文献平庸化 | 联邦直接资[[Teaching Assistant\|助教]]师个人；跨校师资竞争；课题成功率走低倒逼规避风险 | [[Argument_Stephan_2013_NBER\|Stephan (2013)]]; Alberts (2011) |
+> | **宏观体制** | **竞争资助与学术避险** | 去中心化同行评审与竞争资助造就卓越生产力，但竞争过热与启动金耗尽诱发青年学者学术避险与文献平庸化 | 联邦直接资助教师个人；跨校师资竞争；课题成功率走低倒逼规避风险 | [[Argument_Stephan_2013_NBER\|Stephan (2013)]]; Alberts (2011) |
 > | **宏观体制** | **产学协同与资本剥离** | [[University-Industry Collaboration\|产学合作]]与《[[Bayh-Dole Act of 1980\|拜杜法案]]》激活成果商业转化，但也导致成果产权被工业资本捕获及人文社科[[Narrative Knowledge\|叙事知识]]相对衰退 | 知识产权下放大学；企业联合中心资助；硬科学专利主导 | [[Argument_Partaken_2022_Springer\|Partaken (2022)]]; Lissoni (2012) |
 > | **宏观体制** | **超国家自指指标帝国** | 跨国组织通过自制指标、自研报告与贷款捆绑构筑封闭知识帝国，促使比较教育向标准化量化[[Paradigm\|范式]]位移 | 治理巨头自给自足；以硬事实行使[[Soft Power\|软权力]]；标准指标取代历史诠释 | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]]; [[Argument_Mitter_2009_Europe\|Mitter (2009)]] |
 > | **宏观体制** | **技术化降维与三轨分化** | 大国博弈推动知识生产从国家认知中枢向技术能力组件降维，演化为联邦国家任务、安全规约大学与科技资本垄断三轨分化生态 | 确立技术导向型契约；行政规约绕开自由探索；[[Research Security\|科研安全]]审查与商业算力垄断 | [[Argument_Fan_2026_BCAS\|樊春良 (2026)]] |
-> | **宏观体制** | **生成-核验协同与动态交流网络** | 智能时代知识生产要求建立与[[Hypothesis\|假设]]生成同等规模的自动化机器核验与去中心化动态交流基础设施 | [[Genesis Mission\|创世纪计划]]与国家平台整合；黄金标准机器复现包；动态研究笔记本与负面数据共享 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] |
+> | **宏观体制** | **生成-核验协同与动态交流网络** | 智能时代知识生产要求建立与假设生成同等规模的自动化机器核验与去中心化动态交流基础设施 | [[Genesis Mission\|创世纪计划]]与国家平台整合；黄金标准机器复现包；动态研究笔记本与负面数据共享 | [[Argument_Kratsios_2026_OSTP\|Kratsios (2026)]] |
 > | **宏观体制** | **标准内生锁定与中试共置** | 战略产业动员中大学通过“教育即标准”推动开源架构全球扩散，依托产学共置[[Pilot Scale Platform\|中试平台]]打通 [[Technology Readiness Level\|TRL]] 4–6 工程转化断层 | 课程与实验训练内生开源标准；人才流动扩散（David, 1985）；300 毫米中试线与共享平台共置攻关 | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] |
 > | **微观课堂** | **共同体社会化新知生成** | 课堂知识生产强调学生在探究共同体中通过四维实践与证据协调自主生成新知，实现概念重塑并内化审议价值 | 提出、沟通、评估、合法化四维实践；证据协调；内化说服优于强制 | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]; [[Argument_Kelly_Licona_2018_EpistemicPractices\|Kelly and Licona (2018)]] |
 > | **微观课堂** | **[[Reflective Structuration\|反思性结构化]]与观点提升** | 学生将观点作为客观制品持续改进，通过[[Reflexivity\|反思性]]重构合作小组推动全班公共知识前沿历时演进 | 观点客体化；动态重构意向领域；[[Metacognition\|元认知]]反思评估与高阶因果解释 | [[Argument_Zhang_2022_SE\|Zhang et al. (2022)]] |
@@ -412,7 +409,7 @@ updated: 2026-10-15
 ## 概念演变历程
 
 > [!dev-timeline] 知识生产概念的谱系演化脉络
-> - **1810s–1870s — 现代[[Research Universities|研究型大学]]知识生产使命的确立** [[Isaiah Berlin|柏林]]洪堡大学确立“研究与教学合一”信条；1876 年约翰斯·霍普金斯大学创立将这一[[Paradigm|范式]]引入美国，确立现代大学生产知识与传播知识并重的双重职能。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 31–32)]]
+> - **1810s–1870s — 现代[[Research Universities|研究型大学]]知识生产使命的确立** 柏林洪堡大学确立“研究与教学合一”信条；1876 年约翰斯·霍普金斯大学创立将这一[[Paradigm|范式]]引入美国，确立现代大学生产知识与传播知识并重的双重职能。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 31–32)]]
 > - **1945–1950s — 战后公共科研契约确立与基础研究蓄水池假说** 《[[Science, The Endless Frontier 1945|布什报告]]》确立联邦支持大学基础科研的公共品契约，提出基础科学如同全社会共享的知识蓄水池，为后续工业技术开发提供源头活水；[[National Science Foundation|NSF]] 创设确立同行评审竞争资助传统。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 35–36)]]
 > - **1950s–1970s — 殖民知识体系批判与[[Epistemology|认识论]]去依附** 弗朗茨·[[Frantz Fanon|法农]]揭示宗主国如何通过语言与[[Cultural Hierarchy|文化等级]]制造依附性知识生产；[[Post-colonial Theory|后殖民理论]]呼吁打破西方中心主义认识论霸权。
 > - **1960s–2000s — 比较教育学科知识生产由大学诠释向跨国指标治理位移** [[Wolfgang Mitter|沃尔夫冈·米特]]尔梳理学科史指出，知识生产早年植根于大学历史哲学反思，晚近则被超国家机构（[[OECD]]、[[IEA]]）大规模标准化量化测度体系（如 [[PISA]]）全面收编。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 94–98)]]
@@ -475,7 +472,7 @@ updated: 2026-10-15
 > | [[Epistemic Practices]] | Concept | 微观课堂知识生产的核心行动载体（提出、沟通、评估、合法化）。 |
 > | [[Knowledge Building Theory]] | Theory | 将观点视作客观概念制品进行持续改进并推进公共知识前沿的理论。 |
 > | [[Soft Power by Hard Facts]] | Concept | 跨国组织自指性量化指标生产转化为[[Governing at a Distance\|远处治理]][[Soft Power\|软权力]]的核心政治机制。 |
-> | [[Academic Risk Aversion]] | Concept | 宏观过度竞争资助体制导致学者规避风险、退守增量研究并诱发[[Document\|文献]]平庸化的概念。 |
+> | [[Academic Risk Aversion]] | Concept | 宏观过度竞争资助体制导致学者规避风险、退守增量研究并诱发文献平庸化的概念。 |
 > | [[University-Industry Collaboration]] | Concept | 宏观体制下大学与企业协同推进应用科学知识生产的组织形态。 |
 > | [[Technology-Oriented Social Contract]] | Concept | 剖析知识生产从战后自由探索向服务国家技术主权与能力组件降维的制度契约。 |
 > | [[Research Security]] | Concept | 地缘竞争下对高校跨境知识生产与学术交流施加外部政治审查的核心机制。 |
@@ -485,7 +482,7 @@ updated: 2026-10-15
 > | [[Focused Research Organization]] | Concept | 攻克中等规模工程科学共性瓶颈、提供开源公共品数据集的新型知识生产组织形态。 |
 > | [[Metascience]] | Concept | 运用[[Scientific Method\|科学方法]]开展[[Randomised Controlled Trials\|随机对照实验]]以检验和优化国家科研资助与选拔机制的元科学研究。 |
 > | [[Social Contract of Science]] | Theory | 战后规约大学知识生产与国家资助关系的经典理论框架。 |
-> | [[Science, The Endless Frontier 1945]] | Fact (Document) | 确立联邦资助大学基础科学以再充实国家公共知识蓄水池的奠基性科技政策报告。 |
+> | [[Science, The Endless Frontier 1945]] | Fact ([[Document]]) | 确立联邦资助大学基础科学以再充实国家公共知识蓄水池的奠基性科技政策报告。 |
 > | [[National Science Foundation]] | Fact (Organization) | 落实战后布什报告、以分散竞争性同行评审资助大学基础科学研究的核心联邦机构。 |
 > | [[Bayh-Dole Act of 1980]] | Fact (Policy) | 推动高校科研成果知识产权下放与商业化专利转让的标志性法案。 |
 > | [[OECD]] | Fact (Organization) | 建立自指性量化指标体系并在全球推行标准化基准治理的跨国机构。 |

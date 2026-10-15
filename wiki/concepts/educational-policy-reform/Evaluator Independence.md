@@ -10,10 +10,10 @@ aliases:
 summary: "要求实证干预评估由与项目开发者无经济利益或学术隶属关联的独立团队完成的方法学准则，用于消除研发者自研自评导致的效应量夸大并确立循证最高认证。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 51
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_count: 49
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - subject/educational-policy-reform
   - research-ethics
@@ -34,9 +34,7 @@ related_concepts:
   - "[[Replication in Education Research]]"
   - "[[Preregistration]]"
   - "[[Reliability]]"
-  - "[[Document]]"
   - "[[Evidence Standards]]"
-  - "[[Attrition]]"
   - "[[Internal Validity]]"
   - "[[Variable]]"
   - "[[External Validity]]"
@@ -81,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-09-27
+updated: 2026-10-15
 ---
 
 # Evaluator Independence
@@ -197,7 +195,7 @@ updated: 2026-09-27
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **研发者自评偏倚** | 开发者自评平均夸大效应量 50%–100%，自编测验与[[Hawthorne Effect\|霍桑效应]]是主要诱因 | 证据审查标准制定、[[Meta-analysis\|元分析]][[Document\|文献]]筛选与偏倚校正 | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]]; Cheung & Slavin (2016) |
+> | **研发者自评偏倚** | 开发者自评平均夸大效应量 50%–100%，自编测验与[[Hawthorne Effect\|霍桑效应]]是主要诱因 | 证据审查标准制定、[[Meta-analysis\|元分析]]文献筛选与偏倚校正 | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]]; Cheung & Slavin (2016) |
 > | **三方协议制度解耦** | 必须由独立资助方直接竞标并委托评估团队，彻底切断对开发者的财务与人事依附 | 国家级公共科研基金管理、大型干预招标机制设计 | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021, pp. 50–51)]] |
 > | **四核心环节控制权** | 随机分组、数据采集、统计分析与全网公开发布四项核心权责必须由独立方掌控 | 随机对照试验方案设计与国家教育数据库（NPD）对接 | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021, p. 53)]] |
 > | **破解科学复现危机** | 制度化第三方独立评估是消除虚高、保障教育科研在真实课堂可复现的根本制度基石 | 循证政策立法（[[Every Student Succeeds Act\|ESSA]]）、清算中心准入标准与大规模规模化推广 | [[Argument_Slavin_2019_EP\|Slavin (2019)]]; Borman et al. (2007) |
@@ -222,7 +220,7 @@ updated: 2026-09-27
 > > 争论清算中心是否应当将第三方独立评估作为最高评级的硬性一票否决指标。
 > >
 > > - **严格防范派（[[Blueprints for Healthy Youth Development\|Blueprints]], [[Education Endowment Foundation\|EEF]], Wadhwa）** 坚信没有独立评估的证据是沙上建塔，允许开发者自评会使整个循证体系沦为商业利益代言人。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 11–15)]]
-> > - **技术包容派（[[What Works Clearinghouse\|WWC]], [[Best Evidence Encyclopedia\|BEE]], Slavin）** 认为只要研究设计严谨（大样本整群 [[Randomised Controlled Trials\|RCT]]、低[[Attrition\|流失]]率、[[Hierarchical Linear Model\|多层线性模型]] HLM 校正），开发者团队同样能产出高[[Internal Validity\|内部效度]]研究；若过度苛求独立性，将导致合规方案数量骤减，无法满足一线学校迫切的采购需求。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 24, 26–27)]]
+> > - **技术包容派（[[What Works Clearinghouse\|WWC]], [[Best Evidence Encyclopedia\|BEE]], Slavin）** 认为只要研究设计严谨（大样本整群 [[Randomised Controlled Trials\|RCT]]、低流失率、[[Hierarchical Linear Model\|多层线性模型]] HLM 校正），开发者团队同样能产出高[[Internal Validity\|内部效度]]研究；若过度苛求独立性，将导致合规方案数量骤减，无法满足一线学校迫切的采购需求。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 24, 26–27)]]
 >
 > > [!axis] 研发者与评估者协作支持 vs 评估客观纯洁性
 > > 探讨在现场实施中，研发者的深入介入究竟是保障[[Implementation Fidelity\|实施保真度]]还是污染了因果因果效度。

@@ -9,7 +9,7 @@ summary: "以一张或一组照片唤起受访者讨论、反思、评论、观�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 18
+method_related_count: 17
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -30,7 +30,6 @@ related_methods:
   - "[[Visual Research Methods]]"
   - "[[Group Interview]]"
   - "[[Transcription in Qualitative Research]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Content Analysis]]"
   - "[[Grounded Theory]]"
   - "[[Constant Comparison]]"
@@ -46,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-05
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Photo-elicitation
@@ -60,7 +59,7 @@ updated: 2026-09-17
 > - **研究对象** 受访者对照片的讲述、照片背后的故事及其引发的记忆与反思。
 > - **问题类型** 揭示性、描述性与解释性[[Research Question\|研究问题]]，尤其适合与儿童等难以用语言直接沟通的[[Group Interview\|群体访谈]]。
 > - **[[Unit of Analysis\|分析单位]]** 访谈文本、照片及其叙事、照片内容与受访者解释之间的对照。
-> - **输出形式** 访谈[[Transcription in Qualitative Research\|转录]]文本、主题、[[Coding in Qualitative Research\|编码]]与照片支撑的叙事。
+> - **输出形式** 访谈[[Transcription in Qualitative Research\|转录]]文本、主题、编码与照片支撑的叙事。
 
 > [!citation-card]- Harper 的定义
 > 照片引谈法（photo-elicitation interview）以照片作为访谈的起点或主要内容，照片唤起受访者的讨论与记忆。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch27\|Cohen et al. (2011, 27.1–27.2)]]
@@ -82,7 +81,7 @@ updated: 2026-09-17
 > 2. **确定照片来源** 照片可以是研究者拍摄的、受访者应研究者之邀拍摄的（研究者可提供相机），或受访者已有的照片。
 > 3. **以照片开启访谈** 从照片开始提问，照片显示什么、谁拍的、何时何地、背后有什么故事。
 > 4. **借助照片的共同焦点** 共同注视照片，形成共同关注，引入中性的第三方。
-> 5. **记录并分析** 访谈[[Transcription in Qualitative Research\|转录]]后按常规方法分析，包括[[Coding in Qualitative Research\|编码]]、[[Content Analysis\|内容分析]]、[[Grounded Theory\|扎根理论]]取向的图像与编码[[Constant Comparison\|不断比较]]。
+> 5. **记录并分析** 访谈[[Transcription in Qualitative Research\|转录]]后按常规方法分析，包括编码、[[Content Analysis\|内容分析]]、[[Grounded Theory\|扎根理论]]取向的图像与编码[[Constant Comparison\|不断比较]]。
 
 > [!info] 照片在访谈中的缓冲作用
 > 在访谈中注视照片可以避免尴尬的沉默，也无需维持直接眼神接触，这对某些参与者（如儿童）可能令人生畏，尤其当存在研究者与参与者之间的权力与地位差异时。把注意力集中在照片上，可以冲淡把访谈当成一场测试或盘问的感受，尤其是当照片来自参与者本人时。

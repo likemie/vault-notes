@@ -6,9 +6,9 @@ summary: "观察性研究中的因果推断方法，通过匹配协变量分布�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 24
-method_related_level: 3
-method_related_stars: "⭐⭐⭐"
+method_related_count: 23
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - matching
@@ -18,7 +18,6 @@ tags:
   - paradigm/positivist
 related_concepts:
   - "[[Variable]]"
-  - "[[Hypothesis]]"
   - "[[Causality]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
@@ -49,7 +48,7 @@ related_facts:
 confidence: low
 status: draft
 created: 2026-05-03
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 ## 定义
@@ -59,7 +58,7 @@ updated: 2026-10-10
 >
 > **作为实验设计技术** 在真实验的[[Matched Pairs Design\|配对设计]]中，先在关键[[Variable\|变量]]上配对参与者，再[[Random Assignment\|随机分配]]每对成员至实验组和控制组——随机化发生在配对层面。在准实验中，匹配是增强组间可比性的主要手段。
 >
-> **作为观察性研究技术** 在处理组和对照组之间匹配协变量分布相似的研究对象，使两组在可观测特征上变得可比。[[Argument_Berk_2011_ER\|Berk (2011)]] 推荐其为[[Causal Modeling\|因果建模]]（SEM）的替代方法——"更少依赖不可检验的[[Hypothesis\|假设]]，更多受实证诊断约束"([[Argument_Berk_2011_ER\|Berk, 2011, p.198]])。
+> **作为观察性研究技术** 在处理组和对照组之间匹配协变量分布相似的研究对象，使两组在可观测特征上变得可比。[[Argument_Berk_2011_ER\|Berk (2011)]] 推荐其为[[Causal Modeling\|因果建模]]（SEM）的替代方法——"更少依赖不可检验的假设，更多受实证诊断约束"([[Argument_Berk_2011_ER\|Berk, 2011, p.198]])。
 
 > [!method-scope] 方法范围
 > - **研究对象** 需要在关键变量上可比的两组或多组参与者——可以是实验设计中的实验组/控制组，也可以是观察性数据中的处理组/对照组。
@@ -115,7 +114,7 @@ updated: 2026-10-10
 
 > [!method-limits]
 > - **对未观测混杂因素的敏感性** "样本中的平衡并不意味着未观测协[[Variable\|变量]]也存在平衡"([[Argument_Berk_2011_ER\|Berk, 2011, p.198]])。匹配仅能基于已观测和已包含的协变量建立可比性——如果关键混杂因素未被测量，结果的因果解释仍然脆弱。
-> - **需要满足与随机实验相同的[[Hypothesis\|假设]]** 匹配不能豁免随机实验所需的关键假设——同样必须满足无干扰（no interference）的 [[Stable Unit Treatment Value Assumption\|SUTVA]] 要求([[Argument_Berk_2011_ER\|Berk, 2011, p.199]])。
+> - **需要满足与随机实验相同的假设** 匹配不能豁免随机实验所需的关键假设——同样必须满足无干扰（no interference）的 [[Stable Unit Treatment Value Assumption\|SUTVA]] 要求([[Argument_Berk_2011_ER\|Berk, 2011, p.199]])。
 > - **远不如[[Random Assignment\|随机化]]** Smith (1991, p. 215) 指出匹配最常用于准实验和非[[Experimental Research\|实验研究]]，在排除替代因果解释方面远不如随机化——随机化控制所有变量，匹配只控制命名变量（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, Ch16, p. 323]]）。
 > - **样本缩减风险** 匹配可能导致样本大幅缩减——Lewis-Beck (1993) 报告了一个从 1,194 缩减至 46 的实例（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15\|Cohen et al., 2011, Ch15]]）。
 > - **协变量[[Interaction Effect\|交互效应]]** "与协变量的交互效应最好通过事后分层（POST stratification）来解决，而非因果模型"([[Argument_Berk_2011_ER\|Berk, 2011, p.199]])。
@@ -135,6 +134,6 @@ updated: 2026-10-10
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Berk_2011_ER\|Berk (2011)]] — 将匹配推荐为[[Causal Modeling\|因果建模]]的替代方法，论证其更少依赖不可检验[[Hypothesis\|假设]]，更多受实证诊断约束。
+> - [[Argument_Berk_2011_ER\|Berk (2011)]] — 将匹配推荐为[[Causal Modeling\|因果建模]]的替代方法，论证其更少依赖不可检验假设，更多受实证诊断约束。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15\|Cohen et al. (2011, Ch. 15)]] — 将匹配列为[[Ex Post Facto Research\|事后回溯研究]]中最常用的控制手段之一，在因果-比较设计中通过匹配实验组与对照组的关键特征提高可比性；同时指出匹配可能导致样本大幅缩减（Lewis-Beck, 1993 报告从 1,194 缩减至 46 的实例）。
 

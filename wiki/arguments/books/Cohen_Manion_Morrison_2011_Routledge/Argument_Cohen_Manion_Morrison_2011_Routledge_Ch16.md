@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16"
 argument_display_title: "Research Methods in Education · Ch16"
 argument_kind: "book-chapter"
-argument_related_count: 80
+argument_related_count: 79
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -41,7 +41,6 @@ related_concepts:
   - "[[School Effectiveness]]"
   - "[[Null Hypothesis]]"
   - "[[Fundamental Problem of Causal Inference]]"
-  - "[[Hypothesis]]"
   - "[[Hawthorne Effect]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Counterfactual]]"
@@ -226,7 +225,7 @@ Holland (1986, p. 947) 建议通过**随机化和平均效应的测量**来统�
 
 > [!critique] 对实验方法的根本性挑战（p. 314）
 > - **实验室与现实的距离** 社会情境能否或应否成为实验室那种无菌、人为的世界，既是实证问题也是伦理问题（见第5章）。[[Design-Based Research\|设计研究]]的早期倡导者 Brown (1992) 已从实验室转向自然情境，以捕捉真实世界中多元变量的交互。
-> - **单一因果[[Hypothesis\|假设]]的局限** Hage & Meeker (1988, p. 55) 认为实验方法可能根本性地假设单一原因产生一个效应，这在复杂社会现象中可能不成立。
+> - **单一因果假设的局限** Hage & Meeker (1988, p. 55) 认为实验方法可能根本性地假设单一原因产生一个效应，这在复杂社会现象中可能不成立。
 > - **情境效应的混淆** 可能存在情境效应（setting effect），结果主要是其情境的函数（Maxwell, 2004），实际产生因果效应的是情境而非干预本身（如 Milgram 服从研究和 Stanford 监狱实验，见第26章；Zimbardo, 2007a, 2007b）。
 
 ---

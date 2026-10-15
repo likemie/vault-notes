@@ -11,10 +11,10 @@ aliases:
 summary: "假定根据学习者自我报告的偏好感官通道（视觉、听觉、动觉等）定制教学即可显著提升学业成效的流行信念，已被大量实证认知研究证伪，但仍在教师教育和大众出版物中广泛存在并产生负面教学偏差。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 17
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - field/learning-science-cognitive-science
   - field/educational-psychology
@@ -22,10 +22,9 @@ tags:
   - theme/teacher-beliefs
   - theme/science-communication
 related_concepts:
-  - "[[Teaching Assistant]]"
-  - "[[Hypothesis]]"
   - "[[Working Memory]]"
   - "[[Falsification]]"
+  - "[[Hypothesis]]"
   - "[[Operationalization]]"
   - "[[Learned Helplessness]]"
   - "[[Epistemology]]"
@@ -33,10 +32,8 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Variable]]"
   - "[[Normal School]]"
-  - "[[Document]]"
 related_theories: []
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Questionnaire]]"
   - "[[Experimental Research]]"
   - "[[Effect Size]]"
@@ -51,7 +48,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Learning Style Myth
@@ -65,7 +62,7 @@ updated: 2026-10-07
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示了教育实践中将主观感官偏好错误等同于客观认知加工能力的伪科学信念。
-> - **用途** 辅[[Teaching Assistant\|助教]]育研究者反思教师经验信念的形成机制，评估科学传播干预与概念转变策略对破除神经神话的实际效能。
+> - **用途** 辅助教育研究者反思教师经验信念的形成机制，评估科学传播干预与概念转变策略对破除神经神话的实际效能。
 > - **边界** 批判学习风格神话并不意味着否定学生的个体差异或多元表征教学的价值，而是反对基于虚假感官类型对学生进行僵化分类与针对性贴标。
 
 > [!citation-card] 学习风格神话的经验与逻辑缺陷
@@ -82,9 +79,9 @@ updated: 2026-10-07
 ## 概念辨析
 
 > [!contrast-table] 学习风格神话与科学认知机制辨析
-> | 比较维度 | 学习风格神话（Learning Style Myth） | 多感官协同教学（Multisensory Learning） | 双重[[Coding in Qualitative Research\|编码]]机制（Dual Coding） |
+> | 比较维度 | 学习风格神话（Learning Style Myth） | 多感官协同教学（Multisensory Learning） | 双重编码机制（Dual Coding） |
 > |---|---|---|---|
-> | **理论[[Hypothesis\|假设]]** | 学习者依感官通道划分为固定类型，教学必须匹配其优势通道 | 调动多种感官通道协同参与能够增强信息加工深度 | 视觉表征与言语表征在[[Working Memory\|工作记忆]]中具有互补的加工通道 |
+> | **理论假设** | 学习者依感官通道划分为固定类型，教学必须匹配其优势通道 | 调动多种感官通道协同参与能够增强信息加工深度 | 视觉表征与言语表征在[[Working Memory\|工作记忆]]中具有互补的加工通道 |
 > | **个体差异观** | 将学生定型为视觉型或听觉型等孤立类别 | 承认学习者经验差异，但强调人类普遍认知架构的一致性 | 强调所有认知健全的学习者均能从图文协同表征中获益 |
 > | **教学实践导向** | 为不同学生分别定制单一通道的教学材料（耗费资源且低效） | 在课堂中综合使用板书、图示、语言讲解与操作练习 | 在多媒体呈现中避免认知负荷超载，优化图文时空协同 |
 > | **实证支持度** | 无可靠实证支持（长期被对照试验[[Falsification\|证伪]]） | 高度实证支持（认知科学广泛证实） | 高度实证支持（教育心理学核心共识） |
@@ -200,7 +197,7 @@ updated: 2026-10-07
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | Krammer et al. (2019) | 奥地利职前师范生入学群体 | 横截面[[Questionnaire\|问卷调查]] | 学习风格神经神话的认同率 | 高度认同学习风格神话，且该认同独立于个体对大脑神经生理学客观知识的掌握程度 | 统计显著 | 证实神经神话在[[Normal School\|师范教育]]初期具有高度普遍性与认知顽固性 |
-> | Krüger & Konrad (2022) | 德国图书市场（2019–2020 年） | 市场[[Document\|文献]]计量与[[Content Analysis\|内容分析]] | 教师实践指南出版物规模与作者构成 | 共有 410 部流通在售的教师实践指南，绝大多数由一线教师单方撰写 | 行业普查数据 | 揭示实践读物是神话传播的重要载体且鲜有科研人员深度参与 |
+> | Krüger & Konrad (2022) | 德国图书市场（2019–2020 年） | 市场文献计量与[[Content Analysis\|内容分析]] | 教师实践指南出版物规模与作者构成 | 共有 410 部流通在售的教师实践指南，绝大多数由一线教师单方撰写 | 行业普查数据 | 揭示实践读物是神话传播的重要载体且鲜有科研人员深度参与 |
 > | Götzfried et al. (2022) | 德国职前师范生 | [[Randomised Controlled Trials\|随机对照实验]]研究 | 播客语言风格与概念转变设计对纠正学习风格神话的效果 | 采用通俗日常语言并整合概念转变引导的播客组，其对学习风格神话的修正程度显著优于学术语言控制组 | 实验组显著优于对照组（$p < .05$） | 证实科学传播的受众适配语言是破除教师神经神话的关键调节变量 |
 
 ---

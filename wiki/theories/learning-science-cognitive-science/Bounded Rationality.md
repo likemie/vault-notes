@@ -7,7 +7,7 @@ aliases:
 summary: "由赫伯特·西蒙（Herbert A. Simon）开创的认知与决策理论，指出行为主体在信息、时间与计算能力受限条件下无法实现全局最优，只能依靠满意原则与持续反馈进行决策；在教育中解释了教师面对高复杂度课堂时依赖反馈修正开展专业判断的必然性；在国家创新系统理论中作为微观行为基石，论证了有限理性与不确定性导致主体高度依赖地理与制度邻近性开展本地化互动学习，从而奠定国家制度多样性与发展路径差异。"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 42
+theory_related_count: 40
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Deficit Framing]]"
   - "[[Visible Learning]]"
-  - "[[Hypothesis]]"
   - "[[Feedback]]"
   - "[[Problem Solving]]"
   - "[[Formative Assessment]]"
@@ -38,6 +37,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Habitus]]"
   - "[[Homework]]"
+  - "[[Hypothesis]]"
 related_theories:
   - "[[Evolutionary Economics]]"
   - "[[Path Dependence]]"
@@ -49,13 +49,11 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Classroom Observation]]"
   - "[[Qualitative Interview]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
   - "[[Correlational Research]]"
   - "[[Agent-based Modelling]]"
 related_persons:
   - "[[Herbert A. Simon]]"
-  - "[[Alfred Nobel]]"
   - "[[Bengt-Åke Lundvall]]"
   - "[[Chris Freeman]]"
   - "[[Niklas Luhmann]]"
@@ -100,9 +98,9 @@ updated: 2026-10-15
 
 > [!dev-timeline] 理论版本与贡献
 > - **1969/1996 — 人工科学与复杂任务界定** [[Herbert A. Simon]] 进一步提炼出复杂专业任务的根本属性：任务的内在复杂性天然大于行动者的实践计算能力。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, p. 6)]]
-> - **1978 — [[Alfred Nobel|诺贝尔]]经济学奖肯定** 瑞典皇家[[Chinese Academy of Sciences|科学院]]授予西蒙诺贝尔经济学奖，表彰其对经济组织内部决策过程的开创性研究。
+> - **1978 — 诺贝尔经济学奖肯定** 瑞典皇家[[Chinese Academy of Sciences|科学院]]授予西蒙诺贝尔经济学奖，表彰其对经济组织内部决策过程的开创性研究。
 > - **1990s — [[Evolutionary Economics|演化经济学]]与[[National Innovation System|国家创新系统]]微观基础重构** [[Bengt-Åke Lundvall|本格特-奥克·伦德瓦尔]]（Lundvall, 1993）与[[Chris Freeman|克里斯·弗里曼]]（[[Argument_Freeman_1995_CJE|Freeman, 1995]]）将有限理性与不确定性确立为演化经济学的微观行为公理，指出正因为主体是有限理性的，技术与知识传播高度依赖面对面的本地化互动学习（Localized Learning）与社会信任网络，从而从微观机理上[[Falsification|证伪]]了技术全球平滑[[Convergence Theory in Comparative Education|趋同论]]。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 11)]]
-> - **2019 — 教育哲学与[[Professional Judgment|专业判断]]理论应用** Ane Qvortrup（2019）将有限理性引入教学与学习关系分析，与[[Niklas Luhmann|卢曼]]（Luhmann）的技术[[Deficit Framing|赤字理论]]结合，论证[[Visible Learning|可见的学习]]（[[Visible Learning]]）提供的仅是概率[[Hypothesis|假设]]而非确定性配方，捍卫了教师面对不可预测反思循环时的专业判断地位。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, pp. 6–7)]]
+> - **2019 — 教育哲学与[[Professional Judgment|专业判断]]理论应用** Ane Qvortrup（2019）将有限理性引入教学与学习关系分析，与[[Niklas Luhmann|卢曼]]（Luhmann）的技术[[Deficit Framing|赤字理论]]结合，论证[[Visible Learning|可见的学习]]（[[Visible Learning]]）提供的仅是概率假设而非确定性配方，捍卫了教师面对不可预测反思循环时的专业判断地位。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, pp. 6–7)]]
 
 ---
 
@@ -123,7 +121,7 @@ updated: 2026-10-15
 ## 核心命题
 
 > [!theory-proposition] 命题一｜复杂专业任务存在结构性理性赤字，决策依赖以反馈为核心的[[Professional Judgment|专业判断]]
-> **解释** 专业任务（如课堂教学、临床诊断或组织领导）具有非线性、自指涉与高度不可预测的特征，任务的客观复杂性始终大于专业人员的计算处理能力。专业人员注定在“理性赤字”条件下工作；因此，追求机械的“标准有效食谱”在理论上是破产的。应对有限理性的唯一有效途径，是将实证研究成果作为“智能[[Problem Solving|问题解决]]的概率性[[Hypothesis|假设]]”，在实践中将即时反馈作为持续的修正机制。这一命题由 Simon（1969/1996）提出、[[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] 在教育政策与专业理论中进行了系统阐释。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, pp. 6–7)]]
+> **解释** 专业任务（如课堂教学、临床诊断或组织领导）具有非线性、自指涉与高度不可预测的特征，任务的客观复杂性始终大于专业人员的计算处理能力。专业人员注定在“理性赤字”条件下工作；因此，追求机械的“标准有效食谱”在理论上是破产的。应对有限理性的唯一有效途径，是将实证研究成果作为“智能[[Problem Solving|问题解决]]的概率性假设”，在实践中将即时反馈作为持续的修正机制。这一命题由 Simon（1969/1996）提出、[[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] 在教育政策与专业理论中进行了系统阐释。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, pp. 6–7)]]
 >
 > **应用实例** 教师在面对班级 30 名背景相异的学生时，不可能在课前精算每一个学生的瞬时注意力与先验认知状态；教师根据实证研究提供的有效策略假设（如[[Formative Assessment|形成性评估]]）开展教学，并通过实时观察学生困惑表情或课堂练习反馈，随时微调讲授节奏与支架设计。
 
@@ -146,7 +144,7 @@ updated: 2026-10-15
 >
 > | 理论依据 | 分析维度与提问 | 可观察线索与材料 | 判读规则与边界 |
 > |:---------|:---------------|:-----------------|:-----------------|
-> | **理性赤字与任务复杂性** | 实践情境中存在哪些无法被提前[[Coding in Qualitative Research\|编码]]或预测的[[Variable\|变量]]？行动者面临怎样的信息与认知负荷？ | 观察环境的多变量特征（如课堂突发状况、学生[[Heterogeneity\|异质性]]）；访谈中决策者的犹豫、信息不足感与多目标权衡。 | 出现多变量不可化约性支持有限理性解释；不能将行动者的暂时疏忽或知识欠缺简单等同于结构性理性赤字。 |
+> | **理性赤字与任务复杂性** | 实践情境中存在哪些无法被提前编码或预测的[[Variable\|变量]]？行动者面临怎样的信息与认知负荷？ | 观察环境的多变量特征（如课堂突发状况、学生[[Heterogeneity\|异质性]]）；访谈中决策者的犹豫、信息不足感与多目标权衡。 | 出现多变量不可化约性支持有限理性解释；不能将行动者的暂时疏忽或知识欠缺简单等同于结构性理性赤字。 |
 > | **反馈驱动的动态修正** | 行动者是否以及如何利用来自客体或受众的实时反馈调整后续步骤？ | 课堂互动中的即时纠偏行为、教学进度的弹性调整、基于学生反馈生成的追问与变式。 | 存在高频循环修正表明行动者运用了适应性启发式；若行动者盲目僵化执行预定脚本，表明专业判断受行政硬性规制压制。 |
 > | **本地化互动与制度邻近性** | 行动者在克服不确定性时，在多大程度上依赖地理、制度或文化邻近性以及既有社会资本？ | 面对面沟通频次、非正式技术交流、本地行业协会与学徒网络纽带、跨国技术转移中的沟通阻滞。 | 行动者强烈依赖本地网络支持微观有限理性前提；若技术与知识完全通过远程文本无阻碍流动，则反思是否存在例外。 |
 
@@ -157,7 +155,7 @@ updated: 2026-10-15
 > [!theory-boundary] 局限性与适用边界
 > - **适合分析** 高度不确定、非线性、[[Variable|变量]]交织的复杂专业任务（如教育、医疗、公共管理）以及技术变迁与组织制度演化。
 > - **成立条件** 承认行动者具有主观能动性与反思潜能，同时承认环境具有非平稳与开放特征。
-> - **解释不足** 有限理性理论虽然突破了完全理性[[Hypothesis|假设]]，但其概念内核仍围绕“理性”与“认知计算”展开，对情感冲动、潜意识欲望、无意识社会惯习（[[Habitus]]）以及纯粹权力压迫机制的阐释相对有限。
+> - **解释不足** 有限理性理论虽然突破了完全理性假设，但其概念内核仍围绕“理性”与“认知计算”展开，对情感冲动、潜意识欲望、无意识社会[[Habitus|惯习]]（[[Habitus]]）以及纯粹权力压迫机制的阐释相对有限。
 > - **转化困难** 行动者的具体“认知边界”难以像古典最优点那样通过数学解析解精确标定，往往需要结合质性情境分析与启发式个案重构。
 > - **不能直接推出** 不能单凭有限理性推导出行动者的一切直觉判断必然有效，亦不能据此否定宏观实证研究（如[[Effect Size|效应量]]或计量统计）作为背景参考证据的重要启发价值。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, p. 7)]]
 
@@ -171,7 +169,7 @@ updated: 2026-10-15
 > > 围绕有限理性是否仍然受制于新古典理性主义思维[[Paradigm|范式]]的分歧。
 > >
 > > - **认知科学与行为经济学（Simon）** 主张保留理性的程序性追求，将有限理性作为更贴近经验现实的科学分析工具。
-> > - **社会系统论与[[Post-structuralism|后结构主义]]（Luhmann; [[Critical Theory|批判理论]]）** 认为西蒙仍将决策视为主体的意识计算，主张从[[Autopoiesis|自创生]]系统（Autopoiesis）或微观权力机制彻底抛弃“理性主体”的虚构[[Hypothesis|假设]]。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, p. 6)]]
+> > - **社会系统论与[[Post-structuralism|后结构主义]]（Luhmann; [[Critical Theory|批判理论]]）** 认为西蒙仍将决策视为主体的意识计算，主张从[[Autopoiesis|自创生]]系统（Autopoiesis）或微观权力机制彻底抛弃“理性主体”的虚构假设。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, p. 6)]]
 
 > [!warning] 适用局限
 > 在高度结构化、规则明确、参数可被算法穷尽的简单封闭任务中（如标准化流水线操作、规则明确的确定性记账），完全算法理性即可发挥最优控制效果，过度强调有限理性的模糊经验反而可能降低[[Homework|作业]]精度。

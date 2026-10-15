@@ -21,12 +21,10 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Clinical Trial]]"
-  - "[[Document]]"
   - "[[Scientifically Based Research]]"
   - "[[Evidence-Based Reform]]"
   - "[[Student Mobility]]"
   - "[[Research Utilization]]"
-  - "[[Hypothesis]]"
   - "[[Democratic Education]]"
 related_theories: []
 related_methods:
@@ -53,7 +51,7 @@ title: "Argument_Slavin_2002_ER"
 argument_key: "Argument_Slavin_2002_ER"
 argument_display_title: "Evidence-based education policies: Transforming educational practice and research"
 argument_kind: "journal-article"
-argument_related_count: 17
+argument_related_count: 15
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -87,7 +85,7 @@ issuing_organization: ""
 > [!info] 研究方法
 > - **方法** 政策分析与方法论论证（非实证研究）
 > - **发表于** 2002 年 [[American Educational Research Association\|AERA]] 年会 Dewitt Wallace-Reader's Digest 杰出讲座
-> - **证据基础** 引用美国联邦教育政策文件（CSR 拨款数据、[[No Child Left Behind Act 2001\|NCLB]] 法案文本、OERI 战略计划）、方法论[[Document\|文献]]、Slavin 本人及同事的研究实践案例（[[Success for All]] [[Random Assignment\|随机化]]评估经验）
+> - **证据基础** 引用美国联邦教育政策文件（CSR 拨款数据、[[No Child Left Behind Act 2001\|NCLB]] 法案文本、OERI 战略计划）、方法论文献、Slavin 本人及同事的研究实践案例（[[Success for All]] [[Random Assignment\|随机化]]评估经验）
 
 ---
 
@@ -148,7 +146,7 @@ issuing_organization: ""
 >
 > - **政策乐观主义** Slavin 承认"这些政策发展尚未产生我预期的革命"——CSR 资金大多流向了未经证实的项目，[[No Child Left Behind Act 2001\|NCLB]] 等新倡议"太新以至于尚未对实践或资助产生影响"。全文建立在"可能"和"潜力"之上。
 > - **方法论的中庸立场** Slavin 同时主张"尽可能使用[[Random Assignment\|随机化]]"和"匹配实验也有价值"，这一双轨立场在修辞上灵活但可能导致政策上的模糊性——何时匹配实验"足够好"缺乏明确标准。
-> - **渐进改进[[Hypothesis\|假设]]** Slavin 认为不需要"突破"（breakthroughs），渐进式改进就足够——这一假设未经验证，且回避了教育效果普遍较小且难以持续积累的实证问题。
+> - **渐进改进假设** Slavin 认为不需要"突破"（breakthroughs），渐进式改进就足够——这一假设未经验证，且回避了教育效果普遍较小且难以持续积累的实证问题。
 > - **对民主维度的忽视** 论文完全从技术效率角度论证证据本位政策，未讨论谁决定"什么值得研究"以及证据如何与[[Democratic Education\|民主教育]]决策互动——这一问题后来被 Biesta (2007) 和 [[Argument_Biesta_2010_SPE\|Biesta (2010)]] 系统展开。
 
 ---

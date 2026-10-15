@@ -11,7 +11,7 @@ subtype: organization
 region: "us"
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 44
+fact_related_count: 42
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -25,17 +25,15 @@ tags:
   - evaluation/educational-policy
   - organization/federal-agency
 related_concepts:
-  - "[[Transfer Translation Transformation]]"
   - "[[Causality]]"
   - "[[Evidence Standards]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Heterogeneity]]"
   - "[[Evidence-Based Education]]"
-  - "[[Document]]"
   - "[[Evaluator Independence]]"
-  - "[[Attrition]]"
   - "[[Response to Intervention]]"
   - "[[Recommendations for Practice]]"
+  - "[[Attrition]]"
   - "[[Paradigm]]"
   - "[[Effective Sample Size]]"
   - "[[Evaluation Research]]"
@@ -78,7 +76,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-09-27
+updated: 2026-10-15
 ---
 
 # National Center for Education Evaluation and Regional Assistance
@@ -88,7 +86,7 @@ updated: 2026-09-27
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 美国联邦最高法定教育评价与证据[[Transfer Translation Transformation\|转译]]中枢，隶属于[[Institute of Education Sciences\|美国教育部教育科学研究院]]（IES），统辖[[What Works Clearinghouse\|有效干预清算中心]]（WWC）、全美十大区域教育实验室（RELs）及[[Education Resources Information Center\|教育资源信息中心]]（ERIC），旨在通过独立、严谨、基于[[Causality\|因果推断]]的实证评价，向全美政策制定者、学区管理者与一线教育者提供客观科学的有效性证据。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 50–51)]]
+> 美国联邦最高法定教育评价与证据转译中枢，隶属于[[Institute of Education Sciences\|美国教育部教育科学研究院]]（IES），统辖[[What Works Clearinghouse\|有效干预清算中心]]（WWC）、全美十大区域教育实验室（RELs）及[[Education Resources Information Center\|教育资源信息中心]]（ERIC），旨在通过独立、严谨、基于[[Causality\|因果推断]]的实证评价，向全美政策制定者、学区管理者与一线教育者提供客观科学的有效性证据。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 50–51)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 2002 年依据美国国会颁布的《[[Education Sciences Reform Act 2002|2002年教育科学改革法]]案》（Education Sciences Reform Act of 2002, ESRA）正式设立，旨在彻底改变以往联邦教育研究碎片化、缺乏科学因果严谨性与充斥利益冲突的弊病。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 50)]]
@@ -115,12 +113,12 @@ updated: 2026-09-27
 >   1. **评估处（Evaluation Division）** — 直接监管联邦重大法定项目的独立外部第三方评价合同；
 >   2. **[[What Works Clearinghouse\|有效干预清算中心]]（WWC Branch）** — 负责[[Evidence Standards\|证据标准]]手册研发、认证系统评价员资格与干预指南编写；
 >   3. **区域教育实验室处（RELs Branch）** — 统管全美 10 个跨州区域实验室，开展地方性合作研究与技术援助；
->   4. **国家教育图书馆与 [[Education Resources Information Center\|ERIC]] 处** — 维护全球最大的开放获取教育[[Document\|文献]]数据库。
+>   4. **国家教育图书馆与 [[Education Resources Information Center\|ERIC]] 处** — 维护全球最大的开放获取教育文献数据库。
 > - **外部科学咨询理事会** 由国家教育科学委员会（National Board for Education Sciences, NBES）提供同行评议监督与战略指导。
 
 > [!pathways]- 业务运行机制与独立性制度特征
 > - **法定独立评估采购** 依据 [[Education Sciences Reform Act 2002|ESRA]] 规定，NCEE 必须通过公开竞争性招标，将评估合同授予无利益冲突的外部独立研究机构（如 Mathematica、MDRC、SRI International、[[AIR Model of Epistemic Cognition\|AIR]]）。
-> - **受资助者自选评估模式的实践偏离** 区别于英国 [[Education Endowment Foundation\|EEF]] 由基金会直接统一竞聘评估团队并签署三方独立协议的模式，NCEE 在支持 i3 等竞争性拨款时，允许项目申请者（方案研发者或学区）自行物色[[Evaluator Independence\|独立评估者]]并由其管理资助款项。这一模式虽然达成了 97% 的名义独立性，但由于缺乏实质利益冲突审查机制，导致评估者受制于开发者偏好，显著偏向选择[[Quasi-Experimental Designs\|准实验设计]]（QED）并导致高[[Attrition\|流失]]率（Boulay et al., 2018；[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 50–51]]）。
+> - **受资助者自选评估模式的实践偏离** 区别于英国 [[Education Endowment Foundation\|EEF]] 由基金会直接统一竞聘评估团队并签署三方独立协议的模式，NCEE 在支持 i3 等竞争性拨款时，允许项目申请者（方案研发者或学区）自行物色[[Evaluator Independence\|独立评估者]]并由其管理资助款项。这一模式虽然达成了 97% 的名义独立性，但由于缺乏实质利益冲突审查机制，导致评估者受制于开发者偏好，显著偏向选择[[Quasi-Experimental Designs\|准实验设计]]（QED）并导致高流失率（Boulay et al., 2018；[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 50–51]]）。
 
 ---
 
@@ -162,7 +160,7 @@ updated: 2026-09-27
 > [!debates] 核心争议交锋
 >
 > > [!axis] 独立性形式化与利益冲突妥协
-> > [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] 剖析指出，NCEE 在支持 i3 项目时采取由开发者自聘评估机构的松散模式，带来了严重的制度漏洞：虽然 97% 的项目表面上符合独立性要求，但由于评估者的资金由被评项目方拨付，极易屈服于开发者的设计偏好，导致大量试验降级为准实验（[[Quasi-Experimental Designs\|QED]]）；最终仅 68%（13/19 项）达到 [[What Works Clearinghouse\|WWC]] 最高因果标准，且 WWC 允许的总体[[Attrition\|流失]]率门槛高达 55%，远逊于英国 [[Education Endowment Foundation\|EEF]] 的刚性三方独立防火墙。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 50–51)]]
+> > [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] 剖析指出，NCEE 在支持 i3 项目时采取由开发者自聘评估机构的松散模式，带来了严重的制度漏洞：虽然 97% 的项目表面上符合独立性要求，但由于评估者的资金由被评项目方拨付，极易屈服于开发者的设计偏好，导致大量试验降级为准实验（[[Quasi-Experimental Designs\|QED]]）；最终仅 68%（13/19 项）达到 [[What Works Clearinghouse\|WWC]] 最高因果标准，且 WWC 允许的总体流失率门槛高达 55%，远逊于英国 [[Education Endowment Foundation\|EEF]] 的刚性三方独立防火墙。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 50–51)]]
 > >
 > > - **英国 EEF 评估团队** 批评自选自聘模式存在根本性的结构性偏倚隐患，主张建立集中化专家库竞聘机制。
 > > - **美国联邦管理团队** 辩护称自聘模式能提高申请灵活性，适应学区复杂多元的本地实施诉求。
@@ -189,7 +187,7 @@ updated: 2026-09-27
 > |---|---|---|---|---|---|---|
 > | Dynarski et al. (2007)（见 [[Argument_Serpell_2020_EP\|Serpell, 2020, p. 42]]） | 全美 33 个学区 132 所学校各年级课堂（评估 16 款阅读与数学教学软件产品） | 全国多中心整群[[Randomised Controlled Trials\|随机对照试验]]（Cluster RCT） | 阅读与数学标准化统考测验成绩、[[Class Size\|班级规模]]与师生比 | 软件实验组与对照组之间总体[[Academic Achievement\|学业成就]]未显现显著差异；但部分学校表现出正向效应，另一些学校表现出负向效果 | 整体主效应  > .05$ 不显著；呈现极强情境[[Heterogeneity\|异质性]] | 证实即使实施严格的 RCT，“什么有效”也始终受制于组织情境与实施条件，政策不可搞一刀切 |
 > | Lortie-Forgues & Inglis (2019)（见 [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 56]]） | NCEE 与 EEF 联合资助的 141 项大规模教育 RCT（受试学童 $N = 1,222,024$） | 跨机构[[Meta-analysis\|元分析]]与试验质量复审 | 平均[[Effect Size\|效应量]]与[[Confidence Interval\|置信区间]]宽度 | 平均效应量 $ES = +0.06\text{ SD}$；平均 95% 置信区间宽度达 $0.30\text{ SD}$ | 多数试验置信区间包含 0 | 说明早期大规模现场试验统计精度不足，促使两机构扩大样本并升级质控规程 |
-> | Boulay et al. (2018)（见 [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 50]]） | NCEE 审阅的 65 项 i3 独立评估项目（含 19 项发展类项目） | 联邦竞争性资助评估审查 | 独立评估比例与 [[What Works Clearinghouse\|WWC]] 最高标准达标率 | 97% 报告声称独立评估；仅 68%（13/19 项）达到 WWC 最高无保留标准 | — | 揭示自选自聘评估模式下存在向准实验（[[Quasi-Experimental Designs\|QED]]）退化与[[Attrition\|流失]]率偏高的制度弊端 |
+> | Boulay et al. (2018)（见 [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 50]]） | NCEE 审阅的 65 项 i3 独立评估项目（含 19 项发展类项目） | 联邦竞争性资助评估审查 | 独立评估比例与 [[What Works Clearinghouse\|WWC]] 最高标准达标率 | 97% 报告声称独立评估；仅 68%（13/19 项）达到 WWC 最高无保留标准 | — | 揭示自选自聘评估模式下存在向准实验（[[Quasi-Experimental Designs\|QED]]）退化与流失率偏高的制度弊端 |
 > | Balu et al. (2015)（见 [[Argument_Slavin_2019_EP\|Slavin, 2019, p. 23]]） | 全美 13 个州 146 所小学 1–3 年级干预响应模型（[[Response to Intervention\|RTI]]）全样本学生 | 跨州多中心[[Regression Discontinuity Design\|断点回归]]（RDD）与对比评估 | 早期阅读补救干预对后进生[[Academic Achievement\|学业表现]]的影响 | 传统 RTI 实施未产生显著正面效果，部分层级出现负向效应 | 统计上无显著正向收益 | 证实单纯依赖未经验证的零散补救练习难以见效，呼吁转向成熟实证教学方案 |
 
 ---

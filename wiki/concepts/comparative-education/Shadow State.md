@@ -7,7 +7,7 @@ aliases:
 summary: "萨顿、阿诺夫与卡马特提出的比较教育批判概念，指新自由主义外包机制下非政府组织沦为跨国机构与政府的教育服务承包商，在缓解财政负担的同时侵蚀了国家公共合法性并消解了民间社会的政治批判潜能"
 type: concept
 domain: "comparative-education"
-related_count: 16
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,13 +20,11 @@ tags:
   - region/global
 related_concepts:
   - "[[Discourse]]"
-  - "[[Attrition]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Bureaucracy]]"
   - "[[Performance Indicators]]"
   - "[[State Educational Sovereignty]]"
   - "[[Red Tape]]"
-  - "[[Document]]"
   - "[[Variable]]"
 related_theories:
   - "[[Pluri-Scalar Governance]]"
@@ -44,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Shadow State
@@ -58,7 +56,7 @@ updated: 2026-10-08
 
 > [!concept-lens] 概念透镜
 > - **含义** 指民间社会组织被外包机制体制化，扮演原本属于国家的公共教育管理、办学与服务职能，形成并行的影子治理结构。
-> - **用途** 帮助研究者透视国际援助与民间组织蓬勃发展表象背后的去政治化风险，解构“民间社会活力”[[Discourse|话语]]掩盖下的权力依附与国家公共性[[Attrition|流失]]。
+> - **用途** 帮助研究者透视国际援助与民间组织蓬勃发展表象背后的去政治化风险，解构“民间社会活力”[[Discourse|话语]]掩盖下的权力依附与国家公共性流失。
 > - **边界** 并不否定民间社会自发互助与独立抗争实践；核心界限在于组织是否蜕变为迎合捐助者审计量规的“合同承包商”（contractors），从而丧失了基层的批判性与代表性。
 
 > [!citation-card] 阿诺夫论教育外包对国家合法性与非政府组织道德权威的双重侵蚀
@@ -155,7 +153,7 @@ updated: 2026-10-08
 ### 命题总览
 
 > [!contrast-table] 影子国家核心命题归纳
-> | 命题类型 | 核心理论指向 | 适用情境 | 代表学者与[[Document\|文献]] |
+> | 命题类型 | 核心理论指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
 > | **宏观主权侵蚀命题** | 跨国援助绕开国家官僚，导致公共教育统筹权丧失与体系碎片化。 | 后殖民国家基础教育外包与多边援助项目制。 | 玛格丽特·萨顿与[[Robert Arnove\|罗伯特·阿诺夫]] |
 > | **中观去政治化命题** | 资金依赖迫使 NGO 迎合审计量规，由维权先锋蜕变为技术附庸。 | 发展中国家非政府组织承接跨国银行减贫教育服务。 | 桑吉塔·卡马特与阿诺夫 |
@@ -177,7 +175,7 @@ updated: 2026-10-08
 
 > [!debates] 围绕非政府组织角色的治理争议
 >
-> > [!axis] 服务递送效能 vs 公共主权[[Attrition|流失]]
+> > [!axis] 服务递送效能 vs 公共主权流失
 > > 争论外包给 NGO 究竟是解决公共服务失灵的灵活创新，还是对民族国家宪政责任的危险瓦解。
 > >
 > > - **新自由主义与多边援助机构立场** 强调 NGO 贴近基层、运行成本低廉、没有官僚腐败负担，能最迅速地扩大边缘人群受教育机会。

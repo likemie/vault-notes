@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-03
+updated: 2026-10-15
 ---
 
 # Halpern Critical Thinking Assessment
@@ -79,7 +79,7 @@ updated: 2026-10-03
 > |---|---|---|---|
 > | **言语推理（Verbal Reasoning）** | 5 个情境（10 题） | 识别修辞陷阱、歧义、情绪化用词以及语言误导的能力。 | 开放题量规打分（0–5 分）+ [[Multiple-Choice Questions\|选择题]]客观计分 |
 > | **论证分析（Argument Analysis）** | 5 个情境（10 题） | 识别前提与结论、评估论据对结论的支持力度、辨析逻辑谬误的能力。 | 开放题量规打分（0–5 分）+ 选择题客观计分 |
-> | **[[Hypothesis\|假设]]检验（Hypothesis Testing）** | 5 个情境（10 题） | 理解科学研究设计逻辑、识别控制[[Variable\|变量]]、区分相关与[[Causality\|因果关系]]的能力。 | 开放题量规打分（0–5 分）+ 选择题客观计分 |
+> | **假设检验（[[Hypothesis]] Testing）** | 5 个情境（10 题） | 理解科学研究设计逻辑、识别控制[[Variable\|变量]]、区分相关与[[Causality\|因果关系]]的能力。 | 开放题量规打分（0–5 分）+ 选择题客观计分 |
 > | **概率与不确定性分析（Likelihood and Uncertainty）** | 5 个情境（10 题） | 运用基准概率、样本代表性与贝叶斯思维评估事件发生可能性的能力。 | 开放题量规打分（0–5 分）+ 选择题客观计分 |
 > | **[[Problem Solving\|问题解决]]与决策制定（Problem Solving and Decision Making）** | 5 个情境（10 题） | 生成替代备选方案、权衡多目标利弊并做出合理决策的能力。 | 开放题量规打分（0–5 分）+ 选择题客观计分 |
 

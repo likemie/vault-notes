@@ -9,7 +9,7 @@ summary: "结合量化与质性数据并通过特定设计进行系统整合的�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 78
+method_related_count: 76
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Paradigm Wars]]"
   - "[[Commensuration]]"
   - "[[Knowledge Production]]"
-  - "[[APA Style]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
   - "[[Reflexivity]]"
@@ -44,7 +43,6 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Emergence]]"
   - "[[External Validity]]"
-  - "[[Hypothesis]]"
   - "[[Integration Statement]]"
   - "[[Communities of Practice]]"
   - "[[Positivism]]"
@@ -176,7 +174,7 @@ updated: 2026-10-15
 > - **2003** 经典巨著 *Handbook of Mixed Methods in the Social and Behavior Sciences* 正式出版，标志着该领域专业化沉淀。
 > - **2007** 专业国际权威学术期刊 *Journal of Mixed Methods Research*（JMMR）创刊。
 > - **2014** [[Mixed Methods International Research Association\|混合方法国际研究协会]]（[[Mixed Methods International Research Association\|MMIRA]]）正式成立，建立全球学术共同体网络。
-> - **2020** 美国心理学会（[[APA Style\|APA]]）《出版手册》第七版首次正式确立混合方法研究报告标准（JARS-Mixed）。
+> - **2020** 美国心理学会（APA）《出版手册》第七版首次正式确立混合方法研究报告标准（JARS-Mixed）。
 > - **至今** 在教育学、公共卫生、组织管理等领域成为复杂实证探究的主流[[Paradigm\|研究范式]]之一（Molina-Azorin & Fetters, 2022）。
 
 ---
@@ -274,7 +272,7 @@ updated: 2026-10-15
 >   - **顺序衔接** 确保前序阶段的分析产出有效转化为后序阶段的设计输入。
 >   - **数据转换** 保障量化转换与质化转换过程中的意义保真度与解释连贯性。
 > - **哲学与政治合法化**
->   - **范式混合** 务实协调不同哲学[[Hypothesis\|假设]]，避免[[Epistemology\|认识论]]分裂。
+>   - **范式混合** 务实协调不同哲学假设，避免[[Epistemology\|认识论]]分裂。
 >   - **可[[Commensuration\|通约]]性** 跨越概念鸿沟，搭建跨学科与跨范式整合对话平台。
 >   - **政治合法化** 同时满足同行评议专家、政策决策者与实践社区多元主体的证据期待。
 
@@ -339,7 +337,7 @@ updated: 2026-10-15
 > | [[Convergent Design]] | 补充方法 | 构成混合方法研究同步采集与合并分析的核心设计变体。 |
 > | [[Explanatory Sequential Design]] | 补充方法 | 构成量化先行、质性深入解释因果机制的关键序列设计。 |
 > | [[Exploratory Sequential Design]] | 补充方法 | 构成质性先行探索、量化编制工具并检验推广的核心序列设计。 |
-> | [[Quantitative Research]] | 替代方法 | 专注于客观[[Variable\|变量]]关系、[[Hypothesis\|假设]]检验与统计推广的单一量化路径。 |
+> | [[Quantitative Research]] | 替代方法 | 专注于客观[[Variable\|变量]]关系、假设检验与统计推广的单一量化路径。 |
 > | [[Qualitative Research]] | 替代方法 | 专注于自然情境[[Rich and Thick Description\|深描]]、主观意义建构与[[Phenomenology\|现象学]]理解的单一质性路径。 |
 
 ---

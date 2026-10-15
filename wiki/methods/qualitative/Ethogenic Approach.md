@@ -13,7 +13,7 @@ summary: "Harré & Secord 提出的社会行为质性研究方法论，秉持“
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 37
+method_related_count: 34
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -27,12 +27,10 @@ related_concepts:
   - "[[Anthropomorphic Model]]"
   - "[[Social Episodes]]"
   - "[[Decodification]]"
-  - "[[Habitus]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Reliability]]"
   - "[[Reflexivity]]"
-  - "[[Hypothesis]]"
   - "[[Construct]]"
   - "[[Discourse]]"
   - "[[Tacit Knowledge]]"
@@ -53,7 +51,6 @@ related_methods:
   - "[[Experience Sampling Method]]"
   - "[[Experience-Sampling Method]]"
   - "[[Transcription in Qualitative Research]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Triangulation]]"
   - "[[Classroom Observation]]"
   - "[[Qualitative Research]]"
@@ -82,7 +79,7 @@ updated: 2026-10-15
 > 人因取向（Ethogenic Approach，亦译民族发生学进路或行动生成法）是由英国哲学家与社会心理学家[[Rom Harré\|罗姆·哈雷]]（[[Rom Harré]]）与保罗·塞考德（Paul Secord）等人于 1970 年代奠立的社会行为研究方法论。该方法植根于[[Interpretive Paradigm\|反实证主义]]的“[[Anthropomorphic Model\|人的科学]]（science of persons）”运动，确立了“拟人化模型（anthropomorphic model）”，强调“为了科学本身的目的，请把人当作真正的人类来对待”（Harré & Secord, 1972）。该进路将人类视为能够制定计划、自我监控并践行能动性的个人（person），专注于通过引发与分析[[Social Episodes\|社会片段]]（social episodes）中行动者伴随行动发出的言语陈述（[[Accounts]]），[[Decodification\|解码]]支配其行为的意图、信念以及情境性社会规则系统。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, p. 19)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22\|(Cohen et al., 2011, Ch. 22, pp. 441–442)]]
 
 > [!term] 词源与概念溯源
-> Harré 仿照医学术语 pathogenic（病原性的）自造该词，由希腊语词根复合而成：**etho-** 源自 ἦθος（ethos，常俗、品格、[[Habitus\|习性]]），**-genic** 源自 -γενής（-genēs，产生于、由……生成的）。其字面涵义即为“由人的习性与常俗生成的”。Harré 意在与传统行为主义心理学形成尖锐对照：主流心理学将社会行为视为“由外在法则产生的（nomogenic）”，将人还原为被动承受刺激的机械客体；人因取向则坚信社会行为是“由能动的人所生成的（ethogenic）”——探究必须回到行动者本身的意向性与意义世界。
+> Harré 仿照医学术语 pathogenic（病原性的）自造该词，由希腊语词根复合而成：**etho-** 源自 ἦθος（ethos，常俗、品格、习性），**-genic** 源自 -γενής（-genēs，产生于、由……生成的）。其字面涵义即为“由人的习性与常俗生成的”。Harré 意在与传统行为主义心理学形成尖锐对照：主流心理学将社会行为视为“由外在法则产生的（nomogenic）”，将人还原为被动承受刺激的机械客体；人因取向则坚信社会行为是“由能动的人所生成的（ethogenic）”——探究必须回到行动者本身的意向性与意义世界。
 
 > [!method-scope] 方法范围
 > - **研究对象** 社会片段中的行动者互动、伴随行动展开的言语说明（陈述）、以及行动者对情境规则、目标取向和行动合理性的主观认识。
@@ -113,7 +110,7 @@ updated: 2026-10-15
 > [!method-stack] 方法层级
 > - **研究设计** 人因研究、微观互动[[Ethnography\|民族志]]（[[Ethnography]]）、情境扎根探究。
 > - **数据收集** [[Account Gathering\|陈述收集]]——通过自由评述访谈、[[Reflexivity\|反思性]]对谈和情境追溯，引发参与者对[[Social Episodes\|社会片段]]的言语说明。
-> - **分析方法** 陈述分析——涵盖内容分类、主题追踪、生活世界重建、遗漏分析与规则[[Hypothesis\|假设]]推验（Kitwood, 1977）。
+> - **分析方法** 陈述分析——涵盖内容分类、主题追踪、生活世界重建、遗漏分析与规则假设推验（Kitwood, 1977）。
 > - **辅助技术** [[Cross-checking\|交叉检查]]、[[Member Tests\|成员核验]]、协商验证、[[Experience Sampling Method\|经验取样法]]（[[Experience-Sampling Method]]）。
 
 ---
@@ -139,7 +136,7 @@ updated: 2026-10-15
 
 > [!proc] 质性分析程序
 > 1. **片段切分与资料转录** 完整转录访谈与互动录音，严格按自然时序切分出具有独立情节的社会片段。
-> 2. **表面陈述[[Coding in Qualitative Research\|编码]]** 提取行动者就行为原因、意图目标与对他人行动的评价所作出的显性说明。
+> 2. **表面陈述编码** 提取行动者就行为原因、意图目标与对他人行动的评价所作出的显性说明。
 > 3. **隐性规则推演** 对照多方陈述与实际行动结果，推导行动者共同遵循但未言明的默会社会规则。
 > 4. **生活世界重构（Kitwood, 1977）** 统合多维陈述，系统建构参与者关于自我、他人与环境的主观经验体系。
 > 5. **协商验证与修正** 将“对陈述的再陈述”呈送给当事人进行成员核验，经由充分对话校准偏差。

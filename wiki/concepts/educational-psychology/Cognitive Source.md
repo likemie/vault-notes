@@ -7,10 +7,10 @@ aliases:
 summary: "母亲引导儿童思考学习时所依赖的认知框架与合法性资源，通常表现为心智来源或学习美德来源等不同文化取向"
 type: concept
 domain: "educational-psychology"
-related_count: 11
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 8
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - theme/socialization
   - theme/learning
@@ -23,21 +23,18 @@ related_concepts:
   - "[[Benevolence]]"
   - "[[Socratic Tutoring Style]]"
   - "[[Confucian Tutoring Style]]"
-  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Discourse Analysis]]"
-  - "[[Coding in Qualitative Research]]"
 related_persons:
   - "[[Socrates]]"
-related_facts:
-  - "[[Microelectronics and Computer Technology Corporation]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Li_2012_Cambridge]]"
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Cognitive Source
@@ -67,7 +64,7 @@ Li 的跨文化比较揭示了两组母亲调用**截然不同**的认知来源(
 EA 母亲几乎完全从**心智**的角度来概念化儿童的学习。她们将儿童的学习行为定性为"聪明"或"不聪明"的表现，引导儿童关注"你是怎么想的""你的脑子能做什么"，并以"聪明的人也会这样做"来赋予学习行为合法性([[Argument_Li_2012_Cambridge|Li, 2012]])。
 
 > [!example] 典型例证
-> Ed 的母亲将儿子"和朋友在课间谈论书籍"的行为直接[[Coding in Qualitative Research\|编码]]为"这就是聪明人做的事，聪明的大人也这样"。Ed 的反应从最初的犹豫（"Sort of. Sometimes, we... sometimes maybe."）迅速升级为[[Pride in Learning\|自豪]]地宣称"我们想成为世界上最伟大的科学家"([[Argument_Li_2012_Cambridge\|Li, 2012]])。完整对话见 [[Microelectronics and Computer Technology Corporation|MCC]] 示例 7–8。
+> Ed 的母亲将儿子"和朋友在课间谈论书籍"的行为直接编码为"这就是聪明人做的事，聪明的大人也这样"。Ed 的反应从最初的犹豫（"Sort of. Sometimes, we... sometimes maybe."）迅速升级为[[Pride in Learning\|自豪]]地宣称"我们想成为世界上最伟大的科学家"([[Argument_Li_2012_Cambridge\|Li, 2012]])。完整对话见 MCC 示例 7–8。
 
 心智来源的运作逻辑是：**学习行为之所以值得做，是因为它展现了心智的力量。** 母亲不需要诉诸道德或品德——"聪明"本身就是足够有力的合法性论证。
 
@@ -85,7 +82,7 @@ EA 母亲几乎完全从**心智**的角度来概念化儿童的学习。她们�
 ## 概念辨析
 
 > [!example]
-> **认知来源 vs 因果归因（causal attribution）** 认知来源是母亲讨论学习时所处的**认知领域（心智领域 vs 美德领域）**，它本身不一定包含对学习成败的解释。因果归因则是母亲对"**为什么**学好了 / 没学好"的明确解释——前者设定对话的"词汇表"，后者用这套词汇表构建因果推理链([[Argument_Li_2012_Cambridge\|Li, 2012]])。例如，一位 EA 母亲可能在心智来源中讨论"思考"，但只有当她说"你之所以没理解，是因为你没有想清楚"时，她才在做因果归因。因果归因的文化差异见 [[Microelectronics and Computer Technology Corporation|MCC]] [[Discourse Analysis\|话语分析]]。
+> **认知来源 vs 因果归因（causal attribution）** 认知来源是母亲讨论学习时所处的**认知领域（心智领域 vs 美德领域）**，它本身不一定包含对学习成败的解释。因果归因则是母亲对"**为什么**学好了 / 没学好"的明确解释——前者设定对话的"词汇表"，后者用这套词汇表构建因果推理链([[Argument_Li_2012_Cambridge\|Li, 2012]])。例如，一位 EA 母亲可能在心智来源中讨论"思考"，但只有当她说"你之所以没理解，是因为你没有想清楚"时，她才在做因果归因。因果归因的文化差异见 MCC [[Discourse Analysis\|话语分析]]。
 
 > [!example]
 > **认知来源 vs 心理框架（mental frame）** 心理框架是对话开头的**操作性入口**（"你当时感觉如何？""你不复习会发生什么？"），认知来源是入口背后的**整个文化概念库**。同一个认知来源可以生成不同的心理框架——例如"[[Learning Virtues\|学习美德]]"来源既可以生成"你认真了吗？"的框架（关注过去），也可以生成"你怎么才能更认真？"的框架（关注未来）。
@@ -101,7 +98,7 @@ EA 母亲几乎完全从**心智**的角度来概念化儿童的学习。她们�
 ## 实证发现
 
 > [!success]
-> Li 通过反复阅读和比较 EA and TW 两组的对话文本，从[[Discourse Analysis\|话语分析]]中**归纳**出认知来源这一分析维度——它不是事先[[Hypothesis\|假设]]的，而是在逐句审读 200 组对话后浮现出的深层结构差异([[Argument_Li_2012_Cambridge\|Li, 2012]])。
+> Li 通过反复阅读和比较 EA and TW 两组的对话文本，从[[Discourse Analysis\|话语分析]]中**归纳**出认知来源这一分析维度——它不是事先假设的，而是在逐句审读 200 组对话后浮现出的深层结构差异([[Argument_Li_2012_Cambridge\|Li, 2012]])。
 
 > [!info] 关键观察
 > - 两组母亲的认知来源差异在**好学习**讨论中已经可见，在**差学习**讨论中更为显著——当儿童表现不佳时，EA 母亲更密集地调用心智来源（"你哪里没想明白？"），TW 母亲更密集地调用美德来源（"你是不是懒惰了？"）
@@ -109,7 +106,7 @@ EA 母亲几乎完全从**心智**的角度来概念化儿童的学习。她们�
 > - 认知来源不仅影响母亲**说什么**，还影响她们**不说什么** EA 母亲几乎从不谈论"勤奋""刻苦"，TW 母亲几乎从不谈论"聪明""智力"([[Argument_Li_2012_Cambridge\|Li, 2012]])
 
 > [!tip]- 方法论意义
-> "认知来源"是 Li 话语分析的核心产出之一。它展示了一种分析策略：不是去问母亲"你从什么角度理解学习"（母亲自己可能意识不到），而是从母亲**实际说了什么、反复强调什么、从不提及什么**中推断出她的认知来源。这种从对话文本逆向推断文化框架的方法，是 [[Microelectronics and Computer Technology Corporation|MCC]] 话语分析区别于访谈研究的关键所在。
+> "认知来源"是 Li 话语分析的核心产出之一。它展示了一种分析策略：不是去问母亲"你从什么角度理解学习"（母亲自己可能意识不到），而是从母亲**实际说了什么、反复强调什么、从不提及什么**中推断出她的认知来源。这种从对话文本逆向推断文化框架的方法，是 MCC 话语分析区别于访谈研究的关键所在。
 
 ---
 

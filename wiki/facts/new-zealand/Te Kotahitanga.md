@@ -11,7 +11,7 @@ subtype: program
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "program"
-fact_related_count: 11
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -25,7 +25,6 @@ tags:
 related_concepts:
   - "[[Academic Achievement]]"
   - "[[Epistemological Beliefs]]"
-  - "[[Attrition]]"
   - "[[Deficit Framing]]"
   - "[[Effective Teaching]]"
   - "[[Student-Teacher Relationship]]"
@@ -43,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-16
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Te Kotahitanga
@@ -59,7 +58,7 @@ updated: 2026-09-22
 > - **立项时间 / 周期** 2001 年启动先导质性调查与试点，2003 年进入课堂干预试验，随后分阶段扩展至全纽数十所中学，持续运行至 2013 年后转化为国家级常规教师专业发展体系。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, p. 17)]]
 > - **发起方与资助机制** 新西兰教育部专项拨款全额资助，由怀卡托大学毛利教育研究团队联合实施。
 > - **覆盖范围与对象** 先导阶段覆盖 4 所中学 11 位试验教师及其所教 9–10 年级毛利学生；后扩展至全国 50 余所中学、数千名教师及数万名毛利中学生。
-> - **核心问题导向** 毛利学生在中等教育阶段[[Attrition\|流失]]严重，国家统考合格率长期大幅低于欧裔学生；传统政策倾向于将问题归咎于毛利家庭贫困、文化缺失或语言障碍，陷入典型的[[Deficit Framing\|赤字归因]]泥潭。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, pp. 17–18)]]
+> - **核心问题导向** 毛利学生在中等教育阶段流失严重，国家统考合格率长期大幅低于欧裔学生；传统政策倾向于将问题归咎于毛利家庭贫困、文化缺失或语言障碍，陷入典型的[[Deficit Framing\|赤字归因]]泥潭。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, pp. 17–18)]]
 
 ---
 
@@ -69,7 +68,7 @@ updated: 2026-09-22
 > 项目的核心假说主张：毛利学生学业困境的决定性根源并非学生自身的文化或家庭缺陷，而是教师根深蒂固的 [[Deficit Framing\|赤字归因]]（Deficit Theorising）；通过倾听学生真实的课堂体验叙事、打破赤字认知，并在课堂中建立基于毛利文化隐喻的关系性教学配置（[[Effective Teaching]] Profile），能够迅速恢复学生的学习尊严并大幅提升[[Academic Achievement\|学业表现]]。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, pp. 17–18)]]
 
 > [!policy-design]- 方案设计
-> - **倾听学生心声与叙事采集** 深入访谈 9–10 年级毛利学生、[[Attrition\|流失]]学生、家长及校长，建立“以学生体验为镜”的证据库，直观揭示学生对消极[[Student-Teacher Relationship\|师生关系]]与低期望的敏感洞察。
+> - **倾听学生心声与叙事采集** 深入访谈 9–10 年级毛利学生、流失学生、家长及校长，建立“以学生体验为镜”的证据库，直观揭示学生对消极[[Student-Teacher Relationship\|师生关系]]与低期望的敏感洞察。
 > - **破除赤字理论与重塑[[Teacher Professional Agency\|教师能动性]]** 通过专业研讨会向教师展示学生叙事，使教师痛苦而清醒地意识到自身将学生困难归因于家庭文化是在推卸教学责任，进而确立“教师能够在课堂创造改变”的专业承诺。
 > - **有效教学画像（Effective Teaching Profile）** 建立涵盖 Manaakitanga（关爱学生作为毛利人的身份）、Mana Motuhake（对学生学业抱有极高期望）、Whanaungatanga（构建班级家庭式信任关系）、Wānanga（互动对话式教学）与 Kotahitanga（共同愿景）等毛利文化核心价值的课堂教学规程。
 > - **[[Reflexivity\|反思性]]听课与录像反馈循环** 组建校本辅导员队伍，常态化开展基于课堂真实互动的随堂观察、录像回放、学生反馈采集与一对一反思辅导。

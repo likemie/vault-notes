@@ -7,7 +7,7 @@ title: "Argument_DeJong_2023_ERR"
 argument_key: "Argument_DeJong_2023_ERR"
 argument_display_title: "Let’s talk evidence – The case for combining inquiry-based and direct instruction"
 argument_kind: "journal-article"
-argument_related_count: 71
+argument_related_count: 69
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -46,7 +46,6 @@ related_concepts:
   - "[[STEM Education]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Direct Instruction]]"
-  - "[[Document]]"
   - "[[Business as Usual]]"
   - "[[Control of Variables Strategy]]"
   - "[[Epistemic Agency]]"
@@ -58,7 +57,6 @@ related_concepts:
   - "[[Rote Learning]]"
   - "[[Computer Simulation]]"
   - "[[Research Question]]"
-  - "[[Hypothesis]]"
   - "[[Process-Oriented Guided Inquiry Learning]]"
   - "[[Discovery Learning]]"
   - "[[Causality]]"
@@ -133,7 +131,7 @@ updated: 2026-09-21
 ## 研究问题
 
 > [!question]
-> 在科学与科学、技术、工程和数学（Science, Technology, Engineering, and Mathematics, [[STEM Education\|STEM]]）教育领域，围绕教学应以[[Inquiry-Based Learning\|探究式学习]]为主还是以[[Direct Instruction\|直接教学]]为主的争论已持续数十年。[[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 近期发表论文，断言直接教学在所有情境下全面压倒性地优于探究式教学，指责各国教育政策在课程标准中倡导科学实践与探究属于依据错误证据、无视关键实证事实。这一指控是否成立？现有实证[[Document\|文献]]究竟揭示了怎样的教学规律，科学教育研究又该如何走出非此即彼的二元对立？
+> 在科学与科学、技术、工程和数学（Science, Technology, Engineering, and Mathematics, [[STEM Education\|STEM]]）教育领域，围绕教学应以[[Inquiry-Based Learning\|探究式学习]]为主还是以[[Direct Instruction\|直接教学]]为主的争论已持续数十年。[[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 近期发表论文，断言直接教学在所有情境下全面压倒性地优于探究式教学，指责各国教育政策在课程标准中倡导科学实践与探究属于依据错误证据、无视关键实证事实。这一指控是否成立？现有实证文献究竟揭示了怎样的教学规律，科学教育研究又该如何走出非此即彼的二元对立？
 >
 > 核心分析维度包括：
 > 1. 受控实验与[[Meta-analysis\|元分析]]证据是否支持直接教学的绝对优势。
@@ -179,7 +177,7 @@ updated: 2026-09-21
 > [!sample-panel]- 样本与证据材料快照
 > | 证据层面 | 构成 |
 > |---|---|
-> | **受控实验与元分析证据池** | 涵盖数百篇初级实证[[Document\|文献]]、覆盖数万名学生的 8 项权威系统综述（如 Alfieri 涵盖 164 项研究，Minner 涵盖 138 项研究，Schwichow 涵盖 72 项[[Control of Variables Strategy\|变量控制策略]]（Control of Variables Strategy, CVS）干预）。 |
+> | **受控实验与元分析证据池** | 涵盖数百篇初级实证文献、覆盖数万名学生的 8 项权威系统综述（如 Alfieri 涵盖 164 项研究，Minner 涵盖 138 项研究，Schwichow 涵盖 72 项[[Control of Variables Strategy\|变量控制策略]]（Control of Variables Strategy, CVS）干预）。 |
 > | **跨国评估调查证据池** | PISA 2015 涵盖全球数十个国家与经济体、逾 50 万名 15 岁在校中学生的多层嵌套数据；Aditomo & Klieme 抽取的极端组分析覆盖 20 个地区逾 15 万名学生与 5,000 余所学校。 |
 > | **课程级长周期实验证据池** | 涵盖[[Web-based Inquiry Science Environment\|基于网络的探究科学环境]]（Web-based Inquiry Science Environment, WISE）逾 8,000 名学生队列实验、密歇根大学为期 5 年的物理课程[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT），以及美瑞跨国常态课堂对照实验。 |
 
@@ -213,7 +211,7 @@ updated: 2026-09-21
 > - **高阶主动认知加工** 学生开展深层推理与自我解释，展开高水平[[Active Learning\|主动学习]]与认知加工，主动协调概念表征，而非[[Rote Learning\|机械记忆]]现成结论。
 > - **严格依据经验证据** 知识主张的生成与辩护必须锚定于物理实验数据、[[Computer Simulation\|虚拟仿真]]结果或科学文本。
 > - **行使[[Epistemic Agency\|认识能动性]]（Epistemic Agency）** 学习者对自身的探究决策负有实质责任，能够自主提炼[[Research Question\|研究问题]]并对解释模型的有效性负责。
-> - **协调复杂推理** 学习者必须权衡相互冲突的多源证据，严谨评估替代性[[Hypothesis\|假设]]并处理反常数据。
+> - **协调复杂推理** 学习者必须权衡相互冲突的多源证据，严谨评估替代性假设并处理反常数据。
 > - **共同体批判协商** 将探究程序与因果结论公开置于班级共同体中接受同伴质询，开展社会化[[Knowledge Building Theory|知识建构]]。（p. 2）
 
 Pedaste et al. (2015) 总结的[[Inquiry Cycle|探究循环]]涵盖定向、概念化、实证调查、得出结论与反思讨论五个阶段。在教学实践中，诸如WISE与[[Process-Oriented Guided Inquiry Learning|过程导向指导式探究学习]]（Process-Oriented Guided Inquiry Learning, POGIL）（Moog & Spencer, 2008）等成熟方案，均体现出高度严密的探究循环与支架系统；而直接教学倡导者恰恰将批判矛头对准了早已被[[Richard E. Mayer|理查德·E·梅耶]]（Mayer, 2004）判定“三振出局”且被科学教育界彻底抛弃的无指导纯[[Discovery Learning|发现学习]]（Discovery Learning）。（pp. 3, 5）
@@ -230,7 +228,7 @@ Pedaste et al. (2015) 总结的[[Inquiry Cycle|探究循环]]涵盖定向、概�
 对科学教育领域相关元分析与[[Systematic Review|系统综述]]的全面梳理表明，在受控实验层面，指导式探究在概念学习上展现出整体优势。（pp. 3–5）
 
 > [!tension-table] 直接教学倡导者主张与元分析实证数据对比
-> | 争议维度 | [[Argument_Zhang_2022_SE\|Zhang et al. (2022)]] 的断言与证据选择 | 全面元分析[[Document\|文献]]的实际实证全景 |
+> | 争议维度 | [[Argument_Zhang_2022_SE\|Zhang et al. (2022)]] 的断言与证据选择 | 全面元分析文献的实际实证全景 |
 > |---|---|---|
 > | **总体有效性对比** | 仅援引 Stockard et al. (2018) 的元分析，声称直接教学在所有受控比较中全面胜出。 | 该元分析考察的是阅读、算术与拼写，完全脱离 STEM 科学概念探究；且其对照组仅区分为模糊的常规课程。而在理科领域，Minner et al. (2010) 综述 138 项研究（含 42 项受控实验），55% 证实高探究饱和度显著优于低探究，仅 1 项（2%）低探究占优；Alfieri et al. (2011) 对 164 项实证研究的元分析进一步解构了[[Discovery Learning\|发现学习]]（Discovery Learning），证实无指导纯发现成效低下（$d = -0.38$），而增强型引导式发现显著超越直接教学（$d = +0.30$）。（pp. 3–4） |
 > | **教师指导的功能定位** | 引用 Lazonder & Harmsen (2016)，声称[[Learning Gain\|学习增益]]完全来自实验程序中追加的直接讲解。 | 原文明确指出：六种指导类型（过程约束、状态提示、启发线索、概念模板、直接解释、反思提示）在促进学习成效上完全等价（无显著调节效应），指导使探究成效平均提升半个标准差（$d = 0.50$）；同时，研究设计类型（[[Randomised Controlled Trials\|随机对照试验]] vs 准实验）对效应量大小没有统计学显著影响；直接解释仅占六分之一，声称增益全归功于直接讲授纯属断章取义。（p. 4） |
@@ -375,7 +373,7 @@ Pedaste et al. (2015) 总结的[[Inquiry Cycle|探究循环]]涵盖定向、概�
 ## 关键引用
 
 > [!citation-card] 关于[[Inquiry-Based Learning\|指导式探究]]与[[Direct Instruction\|直接教学]]成效的实证结论
-> 全面审视[[Document\|文献]]表明，对于获取概念知识而言，探究式教学的整体成效显著优于直接教学。受控实验、相关性调查与课程级项目研究一致支持该结论。探究式教学在辅以因人而异的指导（甚至包含局部直接教学）时成效最为显著。教育政策制定者在课程标准中倡导探究式教学完全基于扎实的实证基础。（p. 1）
+> 全面审视文献表明，对于获取概念知识而言，探究式教学的整体成效显著优于直接教学。受控实验、相关性调查与课程级项目研究一致支持该结论。探究式教学在辅以因人而异的指导（甚至包含局部直接教学）时成效最为显著。教育政策制定者在课程标准中倡导探究式教学完全基于扎实的实证基础。（p. 1）
 >
 > *We review the evidence and argue that a more complete and correct interpretation of the literature demonstrates that inquiry-based instruction produces better overall results for acquiring conceptual knowledge than does direct instruction. We show that this conclusion holds for controlled, correlational, and program-based studies... We conclude that policy makers rightfully advocate inquiry-based instruction, particularly when students' investigations are supplemented with direct instruction at appropriate junctures.*
 

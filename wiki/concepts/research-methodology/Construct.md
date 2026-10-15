@@ -9,7 +9,7 @@ alias_reviewed:
 summary: "变量在理论层面的更抽象、更一般的意义表达，代表不可直接观察的理论实体，需通过操作化转化为可测量的变量才能在实证研究中被检验"
 type: concept
 domain: "research-methodology"
-related_count: 18
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Abstract]]"
   - "[[Discourse]]"
-  - "[[Hypothesis]]"
   - "[[Self-Efficacy]]"
   - "[[Construct Validity]]"
   - "[[Evaluation Research]]"
@@ -43,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Construct
@@ -89,7 +88,7 @@ updated: 2026-10-07
 ## 理论基础
 
 > [!tip]-
-> 构念在[[Quantitative Research\|量化研究]]中的位置与理论的演绎检验逻辑紧密相关。Kerlinger (1979) 的经典理论定义将理论描述为一组相互关联的构念（[[Variable\|变量]]）、定义和命题（引自 Creswell & Creswell, 2022, p.53）。在这一框架中，构念是理论的基本建筑材料，理论通过[[Hypothesis\|假设]]将构念组织为预测性关系，研究通过变量测量来检验这些预测。
+> 构念在[[Quantitative Research\|量化研究]]中的位置与理论的演绎检验逻辑紧密相关。Kerlinger (1979) 的经典理论定义将理论描述为一组相互关联的构念（[[Variable\|变量]]）、定义和命题（引自 Creswell & Creswell, 2022, p.53）。在这一框架中，构念是理论的基本建筑材料，理论通过假设将构念组织为预测性关系，研究通过变量测量来检验这些预测。
 >
 > 典型的理论到构念到变量链条示例：
 > - [[Attribution Theory\|归因理论]] → 归因风格构念 → 归因风格[[Questionnaire\|问卷]]（ASQ）得分（变量）

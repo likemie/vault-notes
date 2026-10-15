@@ -8,10 +8,10 @@ summary: "战国时期儒家思想家，孔子学说的直接继承者，以性�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 24
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_count: 23
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: c. 372 BCE
 died: 289 BCE
 lifespan: c. 372 BCE – 289 BCE
@@ -34,7 +34,6 @@ related_concepts:
   - "[[Humility]]"
   - "[[Ritual Propriety]]"
   - "[[Discourse]]"
-  - "[[Bildung]]"
 related_theories:
   - "[[Confucian Learning Tradition]]"
   - "[[Neo-Confucianism]]"
@@ -55,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Mencius
@@ -151,10 +150,10 @@ updated: 2026-10-07
 > [!debates] 学术争议
 >
 > > [!axis] 人性善 vs 人性恶
-> > 围绕人性究竟是先天向善（内生发展）还是先天有恶（依赖外部[[Bildung\|教化]]）展开的古今大辩论。
+> > 围绕人性究竟是先天向善（内生发展）还是先天有恶（依赖外部教化）展开的古今大辩论。
 > >
 > > - **孟子（战国）** — 主张“性善论”，认为道德是人类天生的“[[Four Sprouts\|四端]]”萌芽，只需[[Self-Cultivation\|修身]]自得即可实现[[Argument_Li_2012_Cambridge\|(Li, 2012, p. 42)]]。
-> > - **[[Xunzi\|荀子]]（战国）** — 主张“性恶论”，认为人性充满趋利欲望，道德必须通过外部[[Bildung\|教化]]与礼法约束强行矫正。
+> > - **[[Xunzi\|荀子]]（战国）** — 主张“性恶论”，认为人性充满趋利欲望，道德必须通过外部教化与礼法约束强行矫正。
 
 > [!critique]- 批评索引
 > - [[Argument_Yu_2024_CE\|Yu & Zhao (2024)]] — 边缘学生批判指出，教材中宣传的孟子式“修身齐家治国平天下”构成了男权精英政治[[Discourse|话语]]，漠视女性角色，且将汉族精英的政治抱负包装为普遍的国族规范。

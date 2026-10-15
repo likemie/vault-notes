@@ -9,7 +9,7 @@ aliases:
 summary: "测验结果对受试者、教师或学校产生重大后果的评估情境，风险程度与不伦理行为发生率正相关，表现为从回冲效应到直接泄题的准备方式连续体；在读写教育中诱发套路化公式写作并驱逐主观阐释，与生成式人工智能合谋加剧成长性认识不正义。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 25
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -22,14 +22,12 @@ tags:
 related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Epistemic Malformation]]"
-  - "[[Teaching Assistant]]"
   - "[[Evaluation Research]]"
   - "[[Formative Assessment]]"
   - "[[Paradigm]]"
   - "[[Placement, Formative, Diagnostic, and Summative Testing]]"
   - "[[Authentic Assessment]]"
   - "[[Reflexivity]]"
-  - "[[Document]]"
   - "[[Feedback]]"
   - "[[Reliability]]"
   - "[[Areas of Knowledge]]"
@@ -51,7 +49,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-07-25
-updated: 2026-09-24
+updated: 2026-10-15
 ---
 
 # High-Stakes Testing
@@ -66,7 +64,7 @@ updated: 2026-09-24
 
 > [!concept-lens] 概念透镜
 > - **含义** 高利害并非测验工具本身的内在统计属性，而是测验结果在社会治理与制度问责网络中的**使用方式与后果严重性**决定的——同一套试卷用于课堂诊断是低利害的，用于升学选拔或学校排名就异化为高利害测验。
-> - **用途** 帮[[Teaching Assistant|助教]]育政策与[[Evaluation Research|评价研究]]者解析为何标准化评估会诱发应试教学、课程窄化、公式化套路写作以及将低表现学生排除在测验之外等系统性行为扭曲，并评估这些扭曲对测量效度的毁灭性破坏。
+> - **用途** 帮助教育政策与[[Evaluation Research|评价研究]]者解析为何标准化评估会诱发应试教学、课程窄化、公式化套路写作以及将低表现学生排除在测验之外等系统性行为扭曲，并评估这些扭曲对测量效度的毁灭性破坏。
 > - **边界** 高利害不等于高难度，其核心是外部后果的不可承受性而非认知任务本身的复杂性；与注重过程改进且不施加惩罚性后果的课堂[[Formative Assessment|形成性评估]]（Formative Assessment）存在本质分界。
 
 ---
@@ -80,7 +78,7 @@ updated: 2026-09-24
 > | **制度后果** | **重大且具决定性**（升学、绩效、经费惩戒） | **无重大惩罚性后果**（保护性试错空间） | 中度至低度后果（注重作品集与同伴评审） |
 > | **对教学的逆向塑造** | 诱发课程窄化、套路化公式写作与刷题 | 促进适应性教学、因材施教与师生对话 | 激发跨学科探究、主观阐释与[[Reflexivity\|反思性]]迭代 |
 > | **技术代劳与作弊风险** | **极高（面临严厉问责时极易寻求 AI 代写）** | 低（聚焦课堂实时互动与过程表现） | 低（注重现场答辩、思维外显与个人阐释） |
-> | **代表学者与[[Document\|文献]]** | Harlen (1994); Haladyna et al. (1991); [[Argument_Smith_2026_SPE\|Smith (2026)]] | Black & Wiliam (1998); Gipps (1994) | Wiggins (1990); Darling-Hammond (1995) |
+> | **代表学者与文献** | Harlen (1994); Haladyna et al. (1991); [[Argument_Smith_2026_SPE\|Smith (2026)]] | Black & Wiliam (1998); Gipps (1994) | Wiggins (1990); Darling-Hammond (1995) |
 
 ---
 
@@ -158,7 +156,7 @@ updated: 2026-09-24
 ### 命题总览
 
 > [!contrast-table] 高利害测验核心命题与机制总览
-> | 命题维度 | 核心论断 | 作用机制与病理后果 | 代表学者与[[Document\|文献]] |
+> | 命题维度 | 核心论断 | 作用机制与病理后果 | 代表学者与文献 |
 > |---|---|---|---|
 > | **伦理滑坡命题** | 测验准备方式构成九级伦理连续谱，分数虚增且推论失真即属不伦理。 | 追求短期分数上升破坏测验对真实能力的推断有效性。 | Mehrens & Kaminski (1989); Gipps (1994) |
 > | **回冲与排斥命题** | 刚性问责迫使教学收缩至考纲，诱发边缘群体与低表现学生制度性排除。 | 惩罚性后果破坏教育公平与测量生态，导致测验信度崩塌。 | Haladyna et al. (1991); Harlen (1994) |

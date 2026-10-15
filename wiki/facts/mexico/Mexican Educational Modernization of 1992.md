@@ -12,7 +12,7 @@ subtype: event
 region: "mexico"
 fact_region: "mexico"
 fact_kind: "event"
-fact_related_count: 10
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -32,8 +32,7 @@ related_theories:
   - "[[State Corporatism]]"
 related_methods: []
 related_instruments: []
-related_persons:
-  - "[[Carlos Alberto Torres]]"
+related_persons: []
 related_facts:
   - "[[SNTE]]"
   - "[[World Bank]]"
@@ -85,7 +84,7 @@ updated: 2026-10-15
 
 ## 学术定性
 
-> [!citation-card] [[Carlos Alberto Torres|托雷斯]]论墨西哥[[State Corporatism|国家法团主义]]在教育现代化中的自我巩固
+> [!citation-card] 托雷斯论墨西哥[[State Corporatism|国家法团主义]]在教育现代化中的自我巩固
 > 在墨西哥等实行国家[[Neocorporatism|法团主义]]体制的国家，政府通过自上而下控制全国教师工会，将教育系统打造成维护政权稳定的减震器。1992 年的改革清晰表明，所谓分权化并未削弱官僚统治，而是作为一项综合性的[[Compensatory Legitimation|补偿性合法化]]工程，用局部经济让步与职位恩庇换取了工会建制派对国家政治秩序的坚定服从。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
 >
 > *Drawing from the tradition of political corporatism, the notion of state corporatism from the political sociology of education has been employed to study the peculiar characteristics of political regimes in the region, in particular educational policy formation in Mexico... as part of a comprehensive project of compensatory legitimation.*

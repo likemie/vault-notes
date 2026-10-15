@@ -7,7 +7,7 @@ aliases:
 summary: "以学生在正式教育情境中如何处理具体任务为研究对象的研究传统，连接现象图式学、建构主义与教学设计。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 14
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -21,10 +21,8 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Theoretical Perspective]]"
   - "[[Surface and Deep Learning]]"
-  - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Direct Instruction]]"
-  - "[[Teaching Assistant]]"
   - "[[Constructive Alignment]]"
 related_theories:
   - "[[Phenomenography]]"
@@ -37,7 +35,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-08-01
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Student Learning Research
@@ -100,7 +98,7 @@ updated: 2026-09-17
 > 这一命题关注学习差异应被定位为个人特征，还是学生在特定任务和评估要求下采用的活动方式。
 
 > [!claim] [[John Biggs\|Biggs, J.]]
-> **同一学生可以改变学习方式** Marton & Säljö (1976) 的阅读研究发现，一组学生为预期问题记忆细节，只留下零散事实；另一组努力把握作者主旨，并理解事实如何共同构成论点。表层与深层描述的是两组学生当时处理任务的方式。Robert 当前依赖记笔记和背诵，也不意味着他具有固定的表层人格；当任务要求提出[[Hypothesis\|假设]]和解决问题时，他可能开展更高阶的活动。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 57–60)]]
+> **同一学生可以改变学习方式** Marton & Säljö (1976) 的阅读研究发现，一组学生为预期问题记忆细节，只留下零散事实；另一组努力把握作者主旨，并理解事实如何共同构成论点。表层与深层描述的是两组学生当时处理任务的方式。Robert 当前依赖记笔记和背诵，也不意味着他具有固定的表层人格；当任务要求提出假设和解决问题时，他可能开展更高阶的活动。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 57–60)]]
 
 ---
 
@@ -117,7 +115,7 @@ updated: 2026-09-17
 ### 命题三　面向教学改进的学习理论必须能够支持教师反思并转化为课程设计
 
 > [!concept-lens] 理论的实践可转化性
-> 这一命题关注学习理论除了描述学习之外，还需要具备哪些条件才能帮[[Teaching Assistant\|助教]]师改进课程。
+> 这一命题关注学习理论除了描述学习之外，还需要具备哪些条件才能帮助教师改进课程。
 
 > [!claim] Biggs, J.
 > **理论需要兼具解释力与可操作性** 帮助教师改进教学的理论需要有广泛基础和经验支持，也要容易理解、能够帮助教师反思正在做什么，并能转化为教学行动。Biggs 因而选择建构主义作为主要工作框架，同时保留现象图式学关于任务体验和学习取向的洞见，再把共同命题落实为目标、活动和评估的系统设计。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 60–64)]]

@@ -10,7 +10,7 @@ summary: "法国七月王朝公共教育部部长、首相与自由派历史学�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 22
+person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -25,7 +25,6 @@ tags:
   - nineteenth-century
 related_concepts:
   - "[[Normal School]]"
-  - "[[Bildung]]"
   - "[[State Educational Sovereignty]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Dual School System]]"
@@ -34,16 +33,13 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Going Native]]"
   - "[[Educational Meliorism]]"
-  - "[[Document]]"
 related_theories: []
 related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Victor Cousin]]"
-  - "[[Isaiah Berlin]]"
   - "[[Johann Wilhelm Süvern]]"
-  - "[[Peter A. Hall]]"
   - "[[Horace Mann]]"
   - "[[Henry Barnard]]"
 related_facts:
@@ -55,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-11
+updated: 2026-10-15
 ---
 
 # François Guizot
@@ -82,7 +78,7 @@ updated: 2026-10-11
 > - **1787** 出生于法国尼姆（Nîmes）的新教资产阶级家庭；父亲在法国大革命雅各宾恐怖统治时期被送上断头台，基佐随母亲流亡日内瓦，接受严格的古典与加尔文主义哲学教育。
 > - **1812–1830** 返回巴黎任索邦大学现代史教授，成为立宪“空想派（Doctrinaires）”自由主义理论领袖；主张中间道路，既反对波旁复辟时期的极端保皇反动，亦反对激进平民共和暴动。
 > - **1830–1832** 七月革命推翻波旁王朝建立奥尔良七月王朝；基佐步入权力中枢，委托同道哲学家[[Victor Cousin\|维克多·库森]]前往德国考察普鲁士公共教育体系。
-> - **1832–1837** 出任公共教育部部长；基于库森从[[Isaiah Berlin|柏林]]带回的普鲁士考察成果，主导起草并在 1833 年 6 月 28 日正式通过《[[Guizot Law of 1833\|基佐法案]]》；向全国每位小学教师亲笔致信，全面重塑法国初等教育与[[Normal School\|师范学院]]网络。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 27–29)]]
+> - **1832–1837** 出任公共教育部部长；基于库森从柏林带回的普鲁士考察成果，主导起草并在 1833 年 6 月 28 日正式通过《[[Guizot Law of 1833\|基佐法案]]》；向全国每位小学教师亲笔致信，全面重塑法国初等教育与[[Normal School\|师范学院]]网络。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 27–29)]]
 > - **1840–1848** 先后出任外交大臣与内阁首相，成为七月王朝实质掌权领袖；1848 年二月革命爆发后内阁倒台，流亡英国。
 > - **1849–1874** 退出政坛专心著述，当选法兰西学术院院士，完成多卷本《我当代历史的回忆录》；1874 年逝世于诺曼底。
 
@@ -91,7 +87,7 @@ updated: 2026-10-11
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1820s — 欧洲文明史学与立宪自由主义建构** 创立现代文明史观，系统论述欧洲文明的演进取决于个人自由与社会秩序的平衡，主张有[[Bildung\|教养]]的中产阶级（中庸理性阶层）是维系立宪宪政与抵御社会混乱的中流砥柱。
+> - **1820s — 欧洲文明史学与立宪自由主义建构** 创立现代文明史观，系统论述欧洲文明的演进取决于个人自由与社会秩序的平衡，主张有教养的中产阶级（中庸理性阶层）是维系立宪宪政与抵御社会混乱的中流砥柱。
 >   - **代表著作** *Histoire générale de la civilisation en Europe*（《欧洲文明史》, 1828）。
 >   - **关键概念** 文明进步、立宪君主制、中间道路理性。
 > - **1830s — [[State Educational Sovereignty\|国家教育权]]与初等公学法典化奠基** 将文明论与折衷自由主义哲学应用于国家公共教育建制，通过自上而下的行政动员推动国家对平民基础教育全面负起财政与[[Disciplina and Doctrina\|规训]]责任。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 27–30)]]
@@ -127,7 +123,7 @@ updated: 2026-10-11
 
 ## 历史评价
 
-> [!citation-card] [[Peter A. Hall|霍尔]]斯论 1833 年[[Guizot Law of 1833\|基佐法案]]奠定法国现代国民教育体制
+> [!citation-card] 霍尔斯论 1833 年[[Guizot Law of 1833\|基佐法案]]奠定法国现代国民教育体制
 > 基佐法案彻底结束了法国初等教育无序与教区垄断的旧时代，将国家最高主权视导与市镇义务结合，标志着现代法国国民教育体系的正式确立。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, p. 28)]]；引自 Halls (1965:20)
 >
 > *The Guizot Law of 1833 laid the real foundations of French primary education, effectively creating a national state system through the synthesis of central supervision and local municipal responsibility.*
@@ -181,6 +177,6 @@ updated: 2026-10-11
 > | [[Normal School]] | 概念 | 法定强制全法各省必须设立公立师范学校，开启国家师资专业化时代。 |
 > | [[Educational Meliorism]] | 概念 | 以改良主义与国民教育最高福祉为立法动因，将外国经验用作行政改良杠杆。 |
 > | [[Guizot Law of 1833]] | 政策事实 | 基佐亲手缔造并颁布的国民教育奠基法案。 |
-> | [[Report on the State of Public Instruction in Prussia]] | 历史[[Document\|文献]] | 委派[[Victor Cousin\|库森]]赴德完成的考察报告，构成基佐法案的直接知识来源。 |
+> | [[Report on the State of Public Instruction in Prussia]] | 历史文献 | 委派[[Victor Cousin\|库森]]赴德完成的考察报告，构成基佐法案的直接知识来源。 |
 > | [[Victor Cousin]] | 人物 | 基佐的核心智囊，受托起草法案条文并提炼公共资源法哲学。 |
 > | [[Johann Wilhelm Süvern]] | 人物 | 普鲁士 1819 年草案起草者，为基佐立法提供核心原型。 |

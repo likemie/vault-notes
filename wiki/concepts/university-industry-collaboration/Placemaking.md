@@ -8,7 +8,7 @@ aliases:
 summary: "TUFF 创新中心框架的六项优先领域之一，通过非正式激活活动、意向性空间设计和社区文化建设，在建筑内部空间创造人际互动价值，以信任和人际密度推动商业活力"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 8
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,8 +20,7 @@ tags:
 related_concepts:
   - "[[Innovation Hub]]"
   - "[[University-Industry Collaboration]]"
-related_theories:
-  - "[[Theory of Mind]]"
+related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
@@ -35,7 +34,7 @@ related_instruments: []
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-09-10
+updated: 2026-10-15
 ---
 
 # Placemaking
@@ -73,7 +72,7 @@ TUFF 将其与传统的建筑资产管理区分开来——后者关注建筑本
 ## 相关案例
 
 > [!example]
-> - **[[Tech Square at Georgia Tech\|Tech Square]]**（佐治亚理工学院）：[[TUFF]] 的 [[Theory of Mind\|ToM]] Hall 在此创新了"非传统激活"概念。Tech Square 经历了两次全国严重衰退和全球疫情，仍保持活力。TUFF 认为其韧性来自成功的文化建设、长期投资和真正响应性的场所营造（pp.136–137, 139）
+> - **[[Tech Square at Georgia Tech\|Tech Square]]**（佐治亚理工学院）：[[TUFF]] 的 ToM Hall 在此创新了"非传统激活"概念。Tech Square 经历了两次全国严重衰退和全球疫情，仍保持活力。TUFF 认为其韧性来自成功的文化建设、长期投资和真正响应性的场所营造（pp.136–137, 139）
 > - **[[Research Triangle Park]]**（RTP）：如今已发展为一个拥有多种混合用途场馆的充满活力的社区，有进一步开发混合用途建筑和基础设施的计划，以鼓励创业者、学者和产业伙伴之间有意义的互动。RTP 总裁兼 CEO Scott Levitan 强调，基于现有基础设施和人才设计项目与场所营造至关重要（pp.130–131）
 > - **[[Purdue Discovery Park\|Purdue Discovery District]]** 其官网在突出研发成功的同时也强调对潜在居民的综合价值——展示区域的可步行性、顶级公立学校和快速扩张的混合用途房地产（p.132）
 

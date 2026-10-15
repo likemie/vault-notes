@@ -7,7 +7,7 @@ aliases:
 summary: "起源于美国《个体残疾人教育法》（IDEA 2004）的三层教学支持与特殊教育筛查模型，通过核心通用教学（Tier 1）、小组针对性辅导（Tier 2）和高强度个别辅导（Tier 3）提供梯度干预，后经斯莱文发展为以强证据项目系统填充各层的循证干预反应（RTPI）改革方案"
 type: concept
 domain: "educational-policy-reform"
-related_count: 39
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -22,7 +22,6 @@ related_concepts:
   - "[[Response to Proven Instruction]]"
   - "[[Evidence Standards]]"
   - "[[Teaching Assistant]]"
-  - "[[Hypothesis]]"
   - "[[Implementation Fidelity]]"
   - "[[Comprehensive Education]]"
   - "[[Heterogeneity]]"
@@ -64,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-17
-updated: 2026-10-11
+updated: 2026-10-15
 ---
 
 # Response to Intervention
@@ -82,7 +81,7 @@ updated: 2026-10-11
 > - **边界** 传统的 RTI 仅是通用组织架构原则；若各层级缺乏经过实验验证的具体项目与规程支撑，极易退化为形式主义的行政打勾，无法实质改善后进生成绩。
 
 > [!citation-card] [[Response to Proven Instruction\|循证干预反应]]方案
-> 传统干预反应模型之所以在大规模评估中未能显现预期成效，根源在于学校仅依凭抽象原则而未在各个层级部署经过严格实验检验的具体方案。若以达到《[[Every Student Succeeds Act\|每一个学生成功法]]》（Every Student Succeeds Act, ESSA）强[[Evidence Standards\|证据标准]]的项目分别充实 Tier 1（全校优质教学）、Tier 2（[[Teaching Assistant\|助教]]/教师小组辅导）与 Tier 3（一对一个别辅导），学生将几乎必然获得学业成功。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 27)]]
+> 传统干预反应模型之所以在大规模评估中未能显现预期成效，根源在于学校仅依凭抽象原则而未在各个层级部署经过严格实验检验的具体方案。若以达到《[[Every Student Succeeds Act\|每一个学生成功法]]》（Every Student Succeeds Act, ESSA）强[[Evidence Standards\|证据标准]]的项目分别充实 Tier 1（全校优质教学）、Tier 2（助教/教师小组辅导）与 Tier 3（一对一个别辅导），学生将几乎必然获得学业成功。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 27)]]
 >
 > *Traditional RTI failed to produce effects because its principles are rarely fully implemented. Outfitting each tier with proven strategies according to ESSA Evidence Standards could virtually assure student success.*
 
@@ -98,7 +97,7 @@ updated: 2026-10-11
 > [!contrast-table] 学业支持与特教筛查模式辨析
 > | 比较维度 | 传统智商差异诊断模型（IQ-Discrepancy） | 传统干预反应模型（Generic RTI） | [[Response to Proven Instruction\|循证干预反应]]方案（RTPI） |
 > |---|---|---|---|
-> | **核心[[Hypothesis\|假设]]** | 学业失败源于学生内部神经或认知缺陷 | 学业失败可能源于教学不当，需提供多层支持 | 学业失败可通过各层级部署经严格验证的循证项目完全预防 |
+> | **核心假设** | 学业失败源于学生内部神经或认知缺陷 | 学业失败可能源于教学不当，需提供多层支持 | 学业失败可通过各层级部署经严格验证的循证项目完全预防 |
 > | **干预时机** | 等待学业落后达到与智商显著不匹配时（等待失败） | 在发现学业早期困难时即刻启动通用辅导 | 贯穿学前至高年级，以强证据方案开展全员常态预防 |
 > | **各层内容** | 无结构化梯级干预，直接转介特教班隔离教学 | 依靠教师自行设计的常规补习、抽象原则或软件 | 严格采用达到 [[Every Student Succeeds Act\|ESSA]] 强/中[[Evidence Standards\|证据标准]]的标准化课程与辅导方案 |
 > | **代表学者** | Bateman; Kavale | Fuchs & Fuchs; Gresham | [[Argument_Slavin_2019_EP\|Slavin (2019)]] |
@@ -109,7 +108,7 @@ updated: 2026-10-11
 
 > [!feature] RTI / [[Response to Proven Instruction\|RTPI]] 的三层递进架构
 > - **TIER 1 — 全员核心通用教学（Core Classroom Instruction）** 面向全体学生的日常高质量课堂教学。在 RTPI 中，要求采用达到 [[Every Student Succeeds Act\|ESSA]] 强[[Evidence Standards\|证据标准]]的全校/全班改革方案（如 [[Success for All]]、[[Peer-Assisted Learning Strategies\|同伴辅助学习策略]]（Peer-Assisted Learning Strategies, PALS）），有效预防 80% 以上学生的学业困难。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 27)]]
-> - **Tier 2 — 小组针对性补充辅导（Targeted Small-Group Tutoring）** 面向在 Tier 1 中仍存在轻度落后的约 10%–15% 处境不利学生。采用结构化的小组辅导方案（如 1 对 2 至 1 对 6），由认证教师或经过系统培训的教学[[Teaching Assistant\|助教]]（Teaching Assistant, TA）实施，加权[[Effect Size\|效应量]]达 +0.20 至 +0.64。
+> - **Tier 2 — 小组针对性补充辅导（Targeted Small-Group Tutoring）** 面向在 Tier 1 中仍存在轻度落后的约 10%–15% 处境不利学生。采用结构化的小组辅导方案（如 1 对 2 至 1 对 6），由认证教师或经过系统培训的教学助教（[[Teaching Assistant]], TA）实施，加权[[Effect Size\|效应量]]达 +0.20 至 +0.64。
 > - **Tier 3 — 密集型一对一个别辅导（Intensive One-to-One Tutoring）** 面向经历 Tier 2 后仍有严重阅读或数学障碍的 2%–5% 高危学生。由专业教师或资深助教提供每日高强度 1 对 1 辅导（如 [[Reading Recovery]]、[[Sound Partners]]），加权效应量最高达 +0.86，以此作为替代特教转介的最后强效防线。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
 
 > [!logic-map]- 循证干预反应（RTPI）的梯级分流金字塔
@@ -152,7 +151,7 @@ updated: 2026-10-11
 ### 命题二　以循证个别与小组辅导充实 Tier 2 与 Tier 3 能有效缩小群体学业鸿沟
 
 > [!concept-lens] 辅导干预的因果效能与成本效益
-> 分析不同师资类型（教师、[[Teaching Assistant\|助教]]、有偿志愿者）在一对一与小组辅导中的实证效能矩阵。
+> 分析不同师资类型（教师、助教、有偿志愿者）在一对一与小组辅导中的实证效能矩阵。
 
 > [!claim] [[Argument_Slavin_2019_EP\|Slavin (2019)]]
 > **经过专业培训的助教辅导效能逼近认证教师** 在阅读和数学领域，由经过系统培训并使用高度结构化材料的教学助教开展的小组辅导（TIER 2）和一对一辅导（Tier 3），其[[Effect Size\|效应量]]（+0.22 至 +0.81）与高成本的认证专业教师相当；这使得公立学校在现有财政约束下，完全有能力常态化铺设覆盖全员的高强度个别化辅导网络。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
@@ -195,7 +194,7 @@ updated: 2026-10-11
 
 > [!finding-cards] 核心实证结论
 > 1. **全员全校改革方案（TIER 1）稳固基础** [[Success for All]] 等全校阅读项目在 5 项独立大规模试验中获得加权平均[[Effect Size\|效应量]] +0.41（[[Every Student Succeeds Act\|ESSA]] 强证据评级）。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 27)]]
-> 2. **小组辅导（Tier 2）效能显著** 教师主导的 [[Lindamood Phoneme Sequencing\|LiPS]] 小组辅导效应量达 +0.64；[[Teaching Assistant\|助教]]主导的 [[Lightning Squad]] 效应量达 +0.34（3 项研究合成）。
+> 2. **小组辅导（Tier 2）效能显著** 教师主导的 [[Lindamood Phoneme Sequencing\|LiPS]] 小组辅导效应量达 +0.64；助教主导的 [[Lightning Squad]] 效应量达 +0.34（3 项研究合成）。
 > 3. **一对一密集辅导（Tier 3）产生超额收益** [[Early Steps]]/Next Steps（教师 1:1）效应量达 +0.86；[[Reading Rescue]]（助教 1:1）效应量达 +0.81。
 
 > [!contrast-table] 符合 ESSA 强/中[[Evidence Standards\|证据标准]]的典型阅读干预方案（[[Argument_Slavin_2019_EP\|Slavin, 2019, Table 1]]）

@@ -7,7 +7,7 @@ summary: "在方差分析基础上加入一个或多个协变量以控制其影�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 14
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -20,7 +20,6 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Independent Variable]]"
   - "[[Research Question]]"
-  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Analysis of Variance]]"
@@ -38,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-10-15
 ---
 
 # Analysis of Covariance
@@ -78,7 +77,7 @@ updated: 2026-06-01
 ## 局限性
 
 > [!warning]
-> - ANCOVA [[Hypothesis\|假设]]协[[Variable\|变量]]与[[Dependent Variable\|因变量]]之间存在线性关系，且各组回归斜率相同（homogeneity of regression slopes）。若这一假设不成立，ANCOVA 的结果不可靠。
+> - ANCOVA 假设协[[Variable\|变量]]与[[Dependent Variable\|因变量]]之间存在线性关系，且各组回归斜率相同（homogeneity of regression slopes）。若这一假设不成立，ANCOVA 的结果不可靠。
 > - 协变量应在处理之[[Pre-test and Post-test\|前测]]量——若协变量本身可能受到处理的影响，则使用 ANCOVA 是不适当的（因为控制处理效应的中介变量会人为削弱处理效应）。
 > - 与其他[[Analysis of Variance\|方差分析]]方法一样，对正态分布和方差同质性假设敏感。
 

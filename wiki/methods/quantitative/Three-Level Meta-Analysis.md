@@ -10,9 +10,9 @@ summary: "处理同一原始研究内报告多个相关效应量所致统计依�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 41
-method_related_level: 5
-method_related_stars: "⭐⭐⭐⭐⭐"
+method_related_count: 38
+method_related_level: 4
+method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - meta-analysis
@@ -22,7 +22,6 @@ tags:
   - quantitative-methods
 related_concepts:
   - "[[Sampling Error]]"
-  - "[[Document]]"
   - "[[Dependent Variable]]"
   - "[[Construct]]"
   - "[[Heterogeneity]]"
@@ -30,7 +29,6 @@ related_concepts:
   - "[[Variable]]"
   - "[[Interaction Effect]]"
   - "[[Primary and Secondary Documents]]"
-  - "[[Hypothesis]]"
   - "[[Epistemology]]"
   - "[[Research Question]]"
   - "[[Literature Search]]"
@@ -47,7 +45,6 @@ related_methods:
   - "[[Between-Study Variance]]"
   - "[[Confidence Interval]]"
   - "[[Meta-regression]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Robust Variance Estimation]]"
   - "[[Funnel Plot]]"
   - "[[Systematic Review]]"
@@ -68,7 +65,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-08-20
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Three-Level Meta-Analysis
@@ -81,13 +78,13 @@ updated: 2026-09-17
 > 三层[[Meta-analysis\|元分析]]（Three-Level Meta-Analysis）是将[[Hierarchical Linear Model\|多层线性模型]]（Multilevel Linear Modeling）扩展应用于元分析的量化合成方法，专门用于解决单项原始研究报告多个相关[[Effect Size\|效应量]]时产生的统计依赖性（Statistical Dependence）问题。该方法将观察到的总变异解构为三个层级：第一层为效应量层面的[[Sampling Error\|抽样误差]]方差（Sampling Variance），第二层为同一研究内部不同效应量之间的研究内方差（Within-Study Variance），第三层为不同研究之间的[[Between-Study Variance\|研究间方差]]（Between-Study Variance）。[[Argument_Song_Choi_2026_FPSYG\|(Song & Choi, 2026, pp. 4–5)]]
 
 > [!method-scope] 方法范围
-> - **研究对象** 包含多个非独立效应量的实证研究[[Document\|文献]]集（如同一研究报告多个[[Dependent Variable\|结果变量]]、子样本、[[Construct\|构念]]维度或测量时间点）。
+> - **研究对象** 包含多个非独立效应量的实证研究文献集（如同一研究报告多个[[Dependent Variable\|结果变量]]、子样本、[[Construct\|构念]]维度或测量时间点）。
 > - **问题类型** 适合回答跨研究综合效应估计、真实[[Heterogeneity\|异质性]]分解、研究内与研究间特征对效应量的调节作用检验等问题。
 > - **[[Unit of Analysis\|分析单位]]** 包含三层嵌套结构：第一层为具体效应量（Effect Size），第二层为原始研究（Study），第三层为更高层级的聚类单位或跨研究总体。
 > - **输出形式** 汇总加权效应量估计值、95% [[Confidence Interval\|置信区间]]（Confidence Interval, CI）、各层方差分量（$\tau_{(2)}^2$ 与 $\tau_{(3)}^2$）、异质性比例指标（$I_{(1)}^2$、$I_{(2)}^2$、$I_{(3)}^2$）、多[[Variable\|变量]][[Meta-regression\|元回归]][[Interaction Effect\|调节效应]]检验统计量（$F$ 或 $\chi^2$）。
 
 > [!citation-card]- 关键定义
-> 三层元分析模型通过建立分层随机效应结构，使得研究者能够纳入[[Primary and Secondary Documents\|原始文献]]中报告的所有相关效应量，既避免了人为平均或强制舍弃效应量导致的信息损失与偏倚，又严格遵守了统计独立性[[Hypothesis\|假设]]。[[Argument_Song_Choi_2026_FPSYG\|(Song & Choi, 2026, pp. 4–5)]]
+> 三层元分析模型通过建立分层随机效应结构，使得研究者能够纳入[[Primary and Secondary Documents\|原始文献]]中报告的所有相关效应量，既避免了人为平均或强制舍弃效应量导致的信息损失与偏倚，又严格遵守了统计独立性假设。[[Argument_Song_Choi_2026_FPSYG\|(Song & Choi, 2026, pp. 4–5)]]
 >
 > *Adopting this hierarchical structure enables all relevant effect sizes to be used in the meta-analysis without violating the independence assumption.*
 
@@ -96,8 +93,8 @@ updated: 2026-09-17
 ## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
-> - **知识观** 视实证[[Document\|文献]]中的测量结果为包含多源误差与多层[[Heterogeneity\|异质性]]的抽样观察值，主张通过分层方差分解捕捉真实效应的结构性分布。
-> - **研究者角色** 在[[Effect Size\|效应量]][[Coding in Qualitative Research\|编码]]、[[Construct\|构念]]分类、调节[[Variable\|变量]]识别和协方差结构假定中行使理论与统计判断。
+> - **知识观** 视实证文献中的测量结果为包含多源误差与多层[[Heterogeneity\|异质性]]的抽样观察值，主张通过分层方差分解捕捉真实效应的结构性分布。
+> - **研究者角色** 在[[Effect Size\|效应量]]编码、[[Construct\|构念]]分类、调节[[Variable\|变量]]识别和协方差结构假定中行使理论与统计判断。
 > - **有效性标准** 依靠受限最大似然法（Restricted Maximum Likelihood, REML）估计、对数似然比检验（Log-Likelihood Ratio Test, LRT）对比模型拟合优度、[[Robust Variance Estimation\|稳健方差估计]]（Robust Variance Estimation, RVE）以及[[Funnel Plot\|漏斗图]]与三层 Egger 回归检验。
 > - **不声称回答的问题** 不能仅凭观察性效应量的[[Meta-analysis\|元分析]]关联直接推断因果机制，也不能自动纠正原始研究内在的方法学偏倚。
 
@@ -112,7 +109,7 @@ updated: 2026-09-17
 ## 研究程序
 
 > [!proc] 通用程序
-> 1. 确立[[Research Question\|研究问题]]与纳入排除标准，完成系统[[Literature Search\|文献检索]]与[[Document\|文献]]质量评价。
+> 1. 确立[[Research Question\|研究问题]]与纳入排除标准，完成系统[[Literature Search\|文献检索]]与文献质量评价。
 > 2. 提取所有合格[[Effect Size\|效应量]]及[[Sample Size Determination\|样本量]]，将其统一转换为标准尺度（如 Pearson 相关系数 $r$ 进而转换为 Fisher\'s $z$ 值）。
 > 3. 构建无协[[Variable\|变量]]的三层空模型（Intercept-Only Model），估计总效应量，并通过对数似然比检验（LRT）检验第二层与第三层方差的[[Statistical Significance\|统计显著性]]。
 > 4. 计算各层方差分量与[[Heterogeneity\|异质性]]比例指标（$I_{(1)}^2, I_{(2)}^2, I_{(3)}^2$），评估异质性来源。
@@ -135,7 +132,7 @@ updated: 2026-09-17
 >
 > **符号说明** $y_{ij}$ 为观察到的第 $i$ 个效应量；$\gamma_{00}$ 为所有研究与效应量的总体平均真实效应；$u_{(3)j} \sim \mathcal{N}(0, \tau_{(3)}^2)$ 为第 $j$ 项研究偏离总均值的效应（Level 3 方差）；$u_{(2)ij} \sim \mathcal{N}(0, \tau_{(2)}^2)$ 为第 $j$ 项研究内第 $i$ 个效应量偏离该研究均值的效应（Level 2 方差）；$e_{ij} \sim \mathcal{N}(0, v_{ij})$ 为抽样误差（Level 1 方差，通常根据样本量预先计算固定）。
 >
-> **数学直觉** 传统[[Meta-analysis\|元分析]][[Hypothesis\|假设]]每个研究只提供一个独立效应量，若同一研究提供多个效应量，这些效应量共享相同的受试者和研究环境，具有相关性。三层模型引入两级随机截距，将研究内相关性分离到 Level 2，从而提供无偏的[[Standard Error\|标准误]]估计与[[Confidence Interval\|置信区间]]。
+> **数学直觉** 传统[[Meta-analysis\|元分析]]假设每个研究只提供一个独立效应量，若同一研究提供多个效应量，这些效应量共享相同的受试者和研究环境，具有相关性。三层模型引入两级随机截距，将研究内相关性分离到 Level 2，从而提供无偏的[[Standard Error\|标准误]]估计与[[Confidence Interval\|置信区间]]。
 >
 > **结果怎么读** $\gamma_{00}$ 显著大于 0 表明总体正向关联；$\tau_{(3)}^2$ 显著说明研究间存在真实异质性；$\tau_{(2)}^2$ 显著说明同一研究内部不同测量或子构念间存在实质性变异。
 >

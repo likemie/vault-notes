@@ -24,13 +24,11 @@ related_concepts:
   - "[[Market Fundamentalism]]"
   - "[[National Innovation System]]"
   - "[[Valley of Death]]"
-  - "[[Document]]"
   - "[[Areas of Knowledge]]"
   - "[[Epistemology]]"
   - "[[University-Industry Collaboration]]"
   - "[[Technology Transfer]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Hypothesis]]"
   - "[[Research Universities]]"
   - "[[Innovation Ecosystem]]"
   - "[[Technology Transfer Office]]"
@@ -40,7 +38,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Multi-Project Wafer]]"
   - "[[General Purpose Technology]]"
-  - "[[Assemblage]]"
   - "[[Corporate R&D Labs]]"
   - "[[Research Translation]]"
   - "[[Apprenticeship]]"
@@ -91,7 +88,7 @@ title: "Argument_Block_2008_PS"
 argument_key: "Argument_Block_2008_PS"
 argument_display_title: "Swimming against the current: The rise of a hidden developmental state in the United States"
 argument_kind: "journal-article"
-argument_related_count: 52
+argument_related_count: 49
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -116,7 +113,7 @@ issuing_organization: ""
 > [!concept-lens] 阅读透镜
 > - **对象** 1980 至 2000 年代美国联邦关键科技立法、涵盖[[DARPA|国防高级研究计划局]]（Defense Advanced Research Projects Agency, DARPA）、国立卫生研究院（[[National Institutes of Health]], NIH）、国家科学基金会（[[National Science Foundation]], NSF）、国家标准与技术研究院（National Institute of Standards and Technology, NIST）、能源部（[[Department of Energy]], DOE）及小企业管理局（Small Business Administration, SBA）等跨部门公共研发网络、产学研联合体及[[National Innovation System|国家创新系统]]组织形态演变。
 > - **张力** 自由市场放任教条与客观上空前扩张的联邦技术商业化干预能力之间的认知断裂；国家巨额公帑托底[[Valley of Death|死亡之谷]]与私人资本独吞商业暴利之间的制度冲突；技术创新繁荣与制造业蓝领岗位外流之间的结构矛盾。
-> - **贡献** 开创性提出发展型网络国家（DNS）与隐藏的发展型国家分析架构，打破了传统规制型国家与东亚集权科层发展型国家（Developmental Bureaucratic State, DBS）的二元分类；以详实的政策[[Document|文献]]、早期资金流向数据与 R&D 100 获奖成果纵向演变，实证还原了美国后工业国家干预模式的微观机制与制度限度。
+> - **贡献** 开创性提出发展型网络国家（DNS）与隐藏的发展型国家分析架构，打破了传统规制型国家与东亚集权科层发展型国家（Developmental Bureaucratic State, DBS）的二元分类；以详实的政策文献、早期资金流向数据与 R&D 100 获奖成果纵向演变，实证还原了美国后工业国家干预模式的微观机制与制度限度。
 
 ---
 
@@ -222,7 +219,7 @@ issuing_organization: ""
 
 #### 1. 国际制造业竞争倒逼美国放弃纯基础研究假定，转向主动支持商业化开发
 
-二战后由[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）奠定的美国科学体制预设了一个简单[[Hypothesis|假设]]：只要联邦政府为大学基础研究提供充足资金，私营企业就会自发将新知识转化为市场产品。（pp. 175–176）
+二战后由[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）奠定的美国科学体制预设了一个简单假设：只要联邦政府为大学基础研究提供充足资金，私营企业就会自发将新知识转化为市场产品。（pp. 175–176）
 
 > [!policy-context] 战后线性假定的失效与制度转型契机
 > - **发布主体与立法周期** 美国国会跨党派力量于 1980 至 1988 年间密集审议通过。
@@ -313,7 +310,7 @@ issuing_organization: ""
 > 1. **小企业创新研究计划（[[SBIR and STTR Programs|SBIR]]）提供非稀释种子支持**
 >    由 NSF 官员罗兰·蒂贝茨（Roland Tibbetts）首创的模式强制 11 个联邦机构设立竞争性资助。项目经理不仅提供无须出让股权的研发资金，更利用国防部和航天局的采购合同充当下游首发客户，直接协助赛门铁克、高通等初创企业度过早期生存危机。（pp. 189–191）
 > 2. **先进技术计划（[[Advanced Technology Program|ATP]]）破除整条供应链协调失灵**
->    商务部旗下的 ATP 采用对等匹配资金支持[[General Purpose Technology|通用技术]]突破。最典型的案例是联合底特律三大车企（通用、福特、克莱斯勒）及其主要零部件设备供应商建立汽车车身精密制造联合体，协调整条供应链将冲压钣金件制造公差压缩至 2 毫米以内，成功扭转了对日本汽车[[Assemblage|装配]]质量的劣势。(pp. 188–189)
+>    商务部旗下的 ATP 采用对等匹配资金支持[[General Purpose Technology|通用技术]]突破。最典型的案例是联合底特律三大车企（通用、福特、克莱斯勒）及其主要零部件设备供应商建立汽车车身精密制造联合体，协调整条供应链将冲压钣金件制造公差压缩至 2 毫米以内，成功扭转了对日本汽车装配质量的劣势。(pp. 188–189)
 > 3. **半导体制造联盟（[[Sematech]]）重构制造设备生态**
 >    面对 1980 年代日本存储芯片的剧烈竞争，DARPA 连续数年提供 50% 匹配资金支持 Sematech 联合体，消除了美国芯片制造大厂与上游设备制造小厂之间的信任隔阂，助推美国重夺全球芯片制造装备 50% 以上的市场份额。(pp. 181–182)
 

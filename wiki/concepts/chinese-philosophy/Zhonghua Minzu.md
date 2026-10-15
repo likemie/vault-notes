@@ -7,14 +7,14 @@ aliases:
 summary: "梁启超 1902 年引入的现代国族概念，经费孝通 1988 年以“多元一体”重新阐释后进入中共主流话语，指以当代物理领土或汉文化为边界、包容 56 个民族的单一国族共同体"
 type: concept
 domain: "chinese-philosophy"
-related_count: 27
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
 confidence: high
 status: active
 created: '2026-05-25'
-updated: 2026-10-07
+updated: 2026-10-15
 tags:
   - region/china
   - theme/national-identity
@@ -25,7 +25,6 @@ related_concepts:
   - "[[Official Knowledge]]"
   - "[[Discourse]]"
   - "[[Paradigm]]"
-  - "[[Hypothesis]]"
   - "[[Second-generation Ethnic Policy]]"
   - "[[Sinicisation]]"
   - "[[Symbolic Boundary]]"
@@ -100,7 +99,7 @@ related_arguments:
 > [!feature] 核心要素
 > - **多元与一体的双重辩证（Diversity in Unity）** — 56 个民族在文化上保持多元，但在政治与历史命运上从属于统一的中华民族整体[[Argument_Bulag_2024_CE\|(Bulag, 2024, p. 101)]]。
 > - **“自在”到“自觉”的演进路线** — 远古至近代以前，各族群在贸易与战争中不自觉地形成联系（自在）；鸦片战争后，在共同反抗帝国主义侵略中觉醒为有统一认同的国族（自觉）[[Argument_Bulag_2024_CE\|(Bulag, 2024, p. 105)]]。
-> - **汉文化的同化吸引力** — 论述中蕴含汉文化具有同化吸引力的[[Hypothesis\|假设]]，认为历史上进入中原的内陆亚洲政权最终均自愿或不自觉地融入中华民族[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 67)]]。
+> - **汉文化的同化吸引力** — 论述中蕴含汉文化具有同化吸引力的假设，认为历史上进入中原的内陆亚洲政权最终均自愿或不自觉地融入中华民族[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024, p. 67)]]。
 > - **物理领土的构成性加冕** — 将当代中国物理疆域逆向投影至古代，将疆域内历史上的族际冲突重构为“家门内摩擦”与统一大业[[Argument_Xu_2024_CE\|(Xu, 2024, pp. 576, 582)]]。
 
 > [!logic-map]- 中华民族演进与建构机制

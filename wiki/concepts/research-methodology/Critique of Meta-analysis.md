@@ -5,7 +5,7 @@ aliases:
 summary: "围绕元分析方法论前提、操作程序和政策用途形成的多维度批评体系，涵盖研究可比性、输入质量、发表偏倚、过度简化、统计推断、领域迁移、抽样伦理和平均效应误导等问题"
 type: concept
 domain: "research-methodology"
-related_count: 54
+related_count: 52
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -17,7 +17,6 @@ tags:
   - effect-size
 related_concepts:
   - "[[Causality]]"
-  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Construct]]"
   - "[[Operationalization]]"
@@ -47,10 +46,9 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[Falsification]]"
   - "[[Scientific Method]]"
-  - "[[Document]]"
+  - "[[Hypothesis]]"
 related_methods:
   - "[[Meta-analysis]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quantitative Research]]"
@@ -76,7 +74,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-13
-updated: 2026-09-15
+updated: 2026-10-15
 ---
 
 # Critique of Meta-analysis
@@ -86,10 +84,10 @@ updated: 2026-09-15
 ## 定义
 
 > [!def] 核心定义
-> [[Meta-analysis\|元分析]]批判（Critique of Meta-analysis）指围绕元分析方法论前提、操作程序和政策用途形成的多维度批评体系。自 Eysenck（1978）提出"垃圾进，垃圾出"的早期警告以来，批评者逐渐从方法论前提（研究是否可比）、操作程序（[[Coding in Qualitative Research\|编码]]是否可靠）、统计推断（合并[[Effect Size\|效应量]]是否有意义）和政策用途（排名表是否误导决策）四个层面提出了系统性质疑（pp.156–234）。
+> [[Meta-analysis\|元分析]]批判（Critique of Meta-analysis）指围绕元分析方法论前提、操作程序和政策用途形成的多维度批评体系。自 Eysenck（1978）提出"垃圾进，垃圾出"的早期警告以来，批评者逐渐从方法论前提（研究是否可比）、操作程序（编码是否可靠）、统计推断（合并[[Effect Size\|效应量]]是否有意义）和政策用途（排名表是否误导决策）四个层面提出了系统性质疑（pp.156–234）。
 
 > [!concept-lens] 概念透镜
-> - **含义** 这个概念指向对元分析在研究综合、[[Causality\|因果推断]]和政策指导中有效性的多维度怀疑。它不是对元分析的简单否定，而是追问：在什么条件下合并[[Effect Size\|效应量]]是合理的？哪些前提[[Hypothesis\|假设]]需要被满足？违反这些前提的后果是什么？
+> - **含义** 这个概念指向对元分析在研究综合、[[Causality\|因果推断]]和政策指导中有效性的多维度怀疑。它不是对元分析的简单否定，而是追问：在什么条件下合并[[Effect Size\|效应量]]是合理的？哪些前提假设需要被满足？违反这些前提的后果是什么？
 > - **用途** 它帮助研究者和政策制定者识别元分析结论的脆弱点，避免将"看起来精确的数字"误认为可靠的因果证据。
 > - **边界** 它不涉及对特定元分析结果内容的实质争议（如某一干预到底是否有效），也不替代[[Effect Size\|效应量]]技术计算本身的讨论。
 
@@ -98,8 +96,8 @@ updated: 2026-09-15
 ## 核心要素
 
 > [!feature] 批判的四个层面
-> - **方法论前提层面** 质疑[[Meta-analysis\|元分析]]的核心[[Hypothesis\|假设]]——不同研究是否真的可比（苹果和橙子问题）、纳入研究的质量差异是否可以被容忍（垃圾进垃圾出）。
-> - **操作程序层面** 质疑[[Coding in Qualitative Research\|编码]]的主观性、纳入标准的任意性、未发表研究的获取难度，以及非独立数据对统计推断的破坏。
+> - **方法论前提层面** 质疑[[Meta-analysis\|元分析]]的核心假设——不同研究是否真的可比（苹果和橙子问题）、纳入研究的质量差异是否可以被容忍（垃圾进垃圾出）。
+> - **操作程序层面** 质疑编码的主观性、纳入标准的任意性、未发表研究的获取难度，以及非独立数据对统计推断的破坏。
 > - **统计推断层面** 质疑[[Effect Size\|效应量]]合并的统计基础——Type I/II 错误风险、有偏估计不会相互抵消、统计推断假设几乎从未满足。
 > - **政策用途层面** 质疑平均效应量被转化为排名表和政策建议时的信息损失和误导风险。
 
@@ -115,13 +113,13 @@ updated: 2026-09-15
 > 这一命题质疑[[Meta-analysis\|元分析]]的基本操作——将不同研究的结果合并为单一[[Effect Size\|效应量]]——是否在方法论上成立。批评者认为，当纳入研究在干预定义、测量工具、参与者特征和研究设计上差异过大时，平均效应量只是统计噪音。
 
 > [!claim] Eysenck, H. (1978)
-> **苹果和橙子** Eysenck 在元分析发展早期即提出著名批评：早期元分析混合了苹果和橙子——将不可比的研究混为一谈。Glass et al.（1981, p. 22）和 McGaw（1997, p. 372）也承认，元分析存在试图综合相似性不足以支持合法合并的研究的风险。Smith & Glass（1977）和 Glass et al.（1981, pp. 218–220）的回应是：差异可以被[[Coding in Qualitative Research\|编码]]并在分析中处理，但这并未消除"比较不可比研究"这一根本质疑（pp.208–214）。
+> **苹果和橙子** Eysenck 在元分析发展早期即提出著名批评：早期元分析混合了苹果和橙子——将不可比的研究混为一谈。Glass et al.（1981, p. 22）和 McGaw（1997, p. 372）也承认，元分析存在试图综合相似性不足以支持合法合并的研究的风险。Smith & Glass（1977）和 Glass et al.（1981, pp. 218–220）的回应是：差异可以被编码并在分析中处理，但这并未消除"比较不可比研究"这一根本质疑（pp.208–214）。
 
 > [!claim] Wolf, F. (1986)
 > **不同干预、测量和定义** Wolf（1986, pp. 14–17）将可比性问题列为元分析六项批评之首：使用不同干预手段、不同测量工具、不同[[Variable\|变量]]定义和不同参与者的研究，很难从中得出逻辑一致的结论（pp.157–160）。
 
 > [!claim] Morrison, K. (2001)
-> **公平性问题** Morrison（2001, p. 78）提出了一系列追问：如果各实验的[[Hypothesis\|假设]]不同、假设不是同一[[Construct\|构念]]的[[Operationalization\|操作化]]、[[Randomised Controlled Trials\|RCT]] 的具体执行（时间框架、干预方案、控制条件、小组构成、参与者特征、测量工具）各不相同，如何确定元分析是公平的？（pp.209–212）
+> **公平性问题** Morrison（2001, p. 78）提出了一系列追问：如果各实验的假设不同、假设不是同一[[Construct\|构念]]的[[Operationalization\|操作化]]、[[Randomised Controlled Trials\|RCT]] 的具体执行（时间框架、干预方案、控制条件、小组构成、参与者特征、测量工具）各不相同，如何确定元分析是公平的？（pp.209–212）
 
 > [!claim] [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]
 > **教育变量难以清晰界定** [[Argument_Snook_2009_NZJES\|Snook et al.（2009, p.97）]]指出，与医学中"药物 A vs 药物 B"不同，"以儿童为中心 vs 以教师为中心"等教育变量通常处于连续谱上，主观判断不可或缺。Hattie 本人承认[[Whole Language\|全语言]]的两项元分析因分类差异导致结论矛盾。
@@ -300,7 +298,7 @@ updated: 2026-09-15
 > [[Scientific Method\|科学方法]]要求在检验假设时收集和评估可能推翻假设的替代解释和反驳数据。批评者指出，元分析在这方面面临严重的实践障碍。
 
 > [!claim] 科学方法论要求
-> **替代解释与反驳证据** 如果元分析要遵循自然科学的传统，就必须收集和评估可能推翻研究假设的替代解释和数据。尽管元分析的倡导者（如 Fitz-Gibbon, 1984, 1985）建议同时使用已发表和未发表的研究，但存在严重的实践问题：已发表研究可能只报告"成功"，未发表研究可能难以定位，数据的所有权和发布可能被禁止或限制（pp.230–231）。
+> **替代解释与反驳证据** 如果元分析要遵循自然科学的传统，就必须收集和评估可能推翻[[Hypothesis|研究假设]]的替代解释和数据。尽管元分析的倡导者（如 Fitz-Gibbon, 1984, 1985）建议同时使用已发表和未发表的研究，但存在严重的实践问题：已发表研究可能只报告"成功"，未发表研究可能难以定位，数据的所有权和发布可能被禁止或限制（pp.230–231）。
 
 ---
 
@@ -334,7 +332,7 @@ updated: 2026-09-15
 > **稳定性/变异性双重困境** Terhart 识别了元-元分析的特有问题：信息在聚合层级间系统性损失、稳定性/变异性双重困境、纳入标准不透明、数据库质量异质。详见 [[Meta-meta-analysis]]。
 
 > [!claim] LeLorier et al. (1997)
-> **偏倚在聚合层级间传播** LeLorier et al. 在医学[[Document\|文献]]中已警告偏倚在聚合层级间传播——一级聚合的偏倚在二级聚合中被进一步放大。
+> **偏倚在聚合层级间传播** LeLorier et al. 在医学文献中已警告偏倚在聚合层级间传播——一级聚合的偏倚在二级聚合中被进一步放大。
 
 > [!claim] O'Connor, P. (2020)
 > **全语言案例的方法论审查** [[Argument_OConnor_2020_AJLL\|O'Connor（2020）]]通过 Hattie 对[[Whole Language\|全语言]]效应量（d=0.06）处理的详细案例审查，揭示了元-元分析中分类错误、不对称审查（接受 -0.65 / 修正 +0.65）、选择性修正和不加权平均等具体问题。详见 [[Meta-meta-analysis]]。
@@ -351,11 +349,11 @@ updated: 2026-09-15
 > > [!axis] 低质量研究能否产生高质量结论
 > > Smith & Glass（1977）、Glass et al.（1981, pp. 220–226）和 Evans et al.（2000, p. 221, 226）主张弱研究可以累加强结论，且高/低效度研究间效应差异小。Slavin（1984a, 1984b）、Cook et al.（1992, p. 297）则认为方法论质量差异确实重要，不应不加区分地纳入。Glass & Smith（1978）关于[[Class Size\|班级规模]]的[[Meta-analysis\|元分析]]本身也显示控制好坏产生不同回归线，在一定程度上支持了 Slavin 的立场。
 >
-> > [!axis] 差异可被[[Coding in Qualitative Research\|编码]]还是不可调和
+> > [!axis] 差异可被编码还是不可调和
 > > Glass et al.（1981）和元分析方法论者认为研究间差异可以通过编码类别和分析来处理。Eysenck（1978）和 Morrison（2001）则认为有些差异（如[[Construct\|构念]][[Operationalization\|操作化]]不同、[[Randomised Controlled Trials\|RCT]] 执行条件不同）是不可调和的，编码只是掩盖了根本性的不可比性。
 >
 > > [!axis] 程序改进能否解决前提问题
-> > Wolf（1986, pp. 55–56）的十条程序建议、Gorard（2001b: 72–73）的四步模型、以及 Thomas & Pring（2004, pp. 54–55）关于明确[[Research Question\|研究问题]]和概念框架的呼吁，都试图通过改进程序来回应批评。但这些程序性改进不能解决前提层面的问题——如果根本[[Hypothesis\|假设]]（研究可比、输入质量可容忍、合并有意义）不成立，改进程序只是使错误更加系统化。
+> > Wolf（1986, pp. 55–56）的十条程序建议、Gorard（2001b: 72–73）的四步模型、以及 Thomas & Pring（2004, pp. 54–55）关于明确[[Research Question\|研究问题]]和概念框架的呼吁，都试图通过改进程序来回应批评。但这些程序性改进不能解决前提层面的问题——如果根本假设（研究可比、输入质量可容忍、合并有意义）不成立，改进程序只是使错误更加系统化。
 
 ---
 
@@ -382,11 +380,11 @@ updated: 2026-09-15
 
 ## 相关研究
 
-> [!evidence-grid-a] 核心[[Document\|文献]]索引
+> [!evidence-grid-a] 核心文献索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Cohen, Manion & Morrison (2011, Ch17)]] — 系统整理[[Meta-analysis\|元分析]]批判的主要维度，涵盖 Wolf 的六项批评、可比性问题、抽样与伦理问题及程序改进建议。
 > - [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] — 识别元分析在教育中应用的五项特有方法论问题。
 > - [[Argument_Snook_2010_NZJES\|Snook et al. (2010)]] — 论证元分析从医学到教育的移植存在基础性不匹配。
-> - [[Argument_Berk_2011_ER\|Berk (2011)]] — 基于编辑经验对元分析在因果效应估计中使用的三重批判：不可比研究、有偏估计、统计推断[[Hypothesis\|假设]]。
+> - [[Argument_Berk_2011_ER\|Berk (2011)]] — 基于编辑经验对元分析在因果效应估计中使用的三重批判：不可比研究、有偏估计、统计推断假设。
 > - [[Argument_Simpson_2017_JEP\|Simpson (2017)]] — 论证教育元分析的两项核心假设（可比较性、可合并性）均被系统性违背。
 > - [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker (2019)]] — 通过 [[Education Endowment Foundation\|EEF]] Toolkit 体育参与案例追踪[[Meta-meta-analysis\|元-元分析]]的三级失真过程。
 > - [[Argument_Wiliam_2019_ERE\|Wiliam (2019)]] — 提出 11 点评估清单，以 Kluger & DeNisi 反馈元分析展示平均效应的误导性。

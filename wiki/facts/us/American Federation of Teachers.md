@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 13
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Learning Progression]]"
   - "[[Discourse]]"
   - "[[Gatekeepers]]"
-  - "[[Document]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -156,4 +155,4 @@ updated: 2026-10-15
 > | [[Professional Judgment]] | Concept | AFT 教师评审团依托丰富的实践常识和专业审慎判断，弥补了高年级学术实证供给的不足。 |
 > | [[Learning Progression]] | Concept | AFT 骨干数学教师将条文剪切贴墙推敲的核心对象，检验学习梯度在普通公立课堂的连贯性。 |
 > | [[No Child Left Behind Act 2001]] | Fact (Policy) | AFT 长期批判的上一代联邦强问责法案。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | Argument | 详实记录 AFT 组织教师多轮闭门审读草案并以“纸条贴墙”推敲进阶可行性的核心实证[[Document\|文献]]。 |
+> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford (2013)]] | Argument | 详实记录 AFT 组织教师多轮闭门审读草案并以“纸条贴墙”推敲进阶可行性的核心实证文献。 |

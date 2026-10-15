@@ -12,7 +12,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 26
+fact_related_count: 25
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -40,7 +40,6 @@ related_concepts:
   - "[[Conflict of Interest in Research]]"
   - "[[Institutional Displacement]]"
   - "[[Metascience]]"
-  - "[[Document]]"
   - "[[Post-Normal Science]]"
   - "[[Public Engagement with Science]]"
   - "[[Causality]]"
@@ -61,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-11
+updated: 2026-10-15
 ---
 
 # Scientific Advisory Group for Emergencies
@@ -101,7 +100,7 @@ updated: 2026-10-11
 
 > [!pathways]- 业务运行机制
 > - **30 分钟应急动员与动态组网** 机制核心优势在于高度敏捷。一旦国家进入正式紧急状态，[[Sage]] 能够在 30 分钟内迅速完成动员，依据危机物理或生物学属性自专家库中动态定向召集最匹配的顶尖学者。
-> - **证据综合、情景建模与不确定性界定** 技术子工作组快速检索并整合全球最新实证发现，基于实时疫情或灾害数据建立动态预测模型；在呈交决策层时，强制要求明确标注[[Confidence Interval\|置信区间]]（[[Confidence Interval]]）与推论[[Hypothesis\|假设]]（[[Hypothesis]]），划定科学已知与未知的边界。
+> - **证据综合、情景建模与不确定性界定** 技术子工作组快速检索并整合全球最新实证发现，基于实时疫情或灾害数据建立动态预测模型；在呈交决策层时，强制要求明确标注[[Confidence Interval\|置信区间]]（[[Confidence Interval]]）与推论假设（[[Hypothesis]]），划定科学已知与未知的边界。
 > - **直通内阁简报室（COBR）的参谋报告传导** 形成统一的共识政策简报与纪要，直通内阁危机应对小组与首相办公厅，作为国家宣布紧急状态、封控隔离、边境管控或战略采购的核心科学参考。
 
 ---
@@ -161,7 +160,7 @@ updated: 2026-10-11
 > - **狂牛病（BSE）危机的历史镜鉴（Hinchliffe, 2001）** 1990 年代英国暴发的牛脑海绵状病（BSE）公共卫生危机中，官方科学顾问委员会同样暴露出类似弊病：专家遴选缺乏显性标准、潜在利益冲突（[[Conflict of Interest in Research]]）未予披露，审议过程高度保密，且顾问机构将科学上极不确定的早期推断包装为“食用英国牛肉绝对安全”的虚假政治确定性（Hinchliffe, 2001，引自 Chapter 7 案例）。这一历史重演表明，若缺乏对顾问机构本身的元评估机制，应急咨询极易蜕变为政治危机推诿的护身符。
 > - **科学咨询机构评价真空与[[Institutional Displacement|制度替代]]选择（Gough, 2020; [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022]]）** [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022, pp. 150–151)]]尖锐指出，各国政府在建立高级别特设科学咨询委员会时，普遍缺乏清晰的合理性论证——政府获取科学证据并非仅有组建临时专家小组一途，完全可以通过常设学术学会（Academic Societies）与政府内部专业研究分析师网络（Government Research Analysts）达成同等乃至更具长效性的实证支撑。然而现实中，这些专门委员会不仅缺乏自我有效性评价框架，更是普遍处于元研究（[[Metascience|Research on Research]] Use）的监控盲区（Box 7.6, p. 157）。
 
-> [!citation-card] 代表性批判[[Document\|文献]]
+> [!citation-card] 代表性批判文献
 > [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]]在总结国家核心科学顾问机制时提出了深刻的[[Metascience|元科学]]警示：
 > 
 > 政府专家科学咨询委员会同样适用这一原则……人们目前尚不清楚建立此类专门结构的充分理由，因为政府完全可以通过学术学会或政府研究分析师等其他途径获取研究证据。……更关键的是，目前似乎完全缺乏清晰的方法来对这类高级别咨询委员会本身的实际运作与最终成效开展严肃评估。（[[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022, pp. 150, 157]]）
@@ -180,12 +179,12 @@ updated: 2026-10-11
 > | [[Parliamentary Office of Science and Technology]] | Fact (Organization) | 英国议会下设的常设科学中介机构，与面向行政内阁的 [[Semi-Automatic Ground Environment\|SAGE]] 共同构成英联邦科学咨询双轨格局。 |
 > | [[Post-Normal Science]] | Concept | SAGE 运作面临典型的后常规科学情境（利益攸关重大、事实充满争议、[[Scientific Uncertainty\|科学不确定性]]高且决策紧迫）。 |
 > | [[Public Engagement with Science]] | Concept | Independent SAGE 的制度创新证明了将公众直接纳入科学实证[[Dialogue in Education\|对话]]是维护危机信任的核心路径。 |
-> | [[Scientific Uncertainty]] | Concept | SAGE 在建模推演中必须明确界定[[Confidence Interval\|置信区间]]与未经验证[[Hypothesis\|假设]]，防范科学不确定性被政治滥用。 |
+> | [[Scientific Uncertainty]] | Concept | SAGE 在建模推演中必须明确界定[[Confidence Interval\|置信区间]]与未经验证假设，防范科学不确定性被政治滥用。 |
 > | [[Dialogue in Education]] | Concept | 危机沟通中从单向信息发布走向双向平权公众对话的关键理念依托。 |
 > | [[Research Utilization]] | Concept | 揭示了决策者在重大危机中如何在工具性利用与象征性、政治性推诿之间进行取舍。 |
 > | [[Conflict of Interest in Research]] | Concept | 科学顾问机构必须制度化披露学者潜在商业与政治利益冲突以维护咨询公信力。 |
 > | [[Moral Sidestep]] | Concept | 政客借“遵循科学”修辞回避政治价值权衡与失误问责构成了典型的建构型道德侧步。 |
 > | [[Causality]] | Concept | SAGE 面临的核心元评估难题：顾问建议被采纳与最终疫情受控之间因果推论证据的缺失。 |
 > | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|The Royal Society (2026)]] | Argument | 总结 SAGE 30 分钟应急机制设计与 Independent SAGE 公共对话创新的官方权威报告。 |
-> | [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] | Argument | 质询 SAGE 机制合理性、学科失衡、政治推诿及自我评价真空的核心循证政策[[Document\|文献]]。 |
+> | [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] | Argument | 质询 SAGE 机制合理性、学科失衡、政治推诿及自我评价真空的核心循证政策文献。 |
 

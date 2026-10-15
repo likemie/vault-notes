@@ -28,6 +28,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Business as Usual]]"
   - "[[Recontextualization]]"
+  - "[[Habitus]]"
   - "[[Metacognition]]"
   - "[[Transfer Science]]"
   - "[[Rote Learning]]"
@@ -35,7 +36,6 @@ related_concepts:
   - "[[Self-Efficacy]]"
   - "[[Professional Judgment]]"
   - "[[Absorptive Capacity]]"
-  - "[[Hypothesis]]"
   - "[[Scientific Paradigm]]"
   - "[[Emergence]]"
 related_theories:
@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-27
-updated: 2026-09-27
+updated: 2026-10-15
 ---
 
 # SINUS
@@ -82,7 +82,7 @@ updated: 2026-09-27
 ## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
-> 教学质量的根本改进无法通过自上而下的行政命令或理论宣讲达成，而必须依靠结构化的“教学发展模块”为教师提供反思支架，并将单体学校嵌入跨校专业教研网络（Netzwerke），使一线教师在平等的同侪共研与[[Recontextualization|本土重构]]中重塑专业信念与教学惯习。[[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, p. 11; Stadler et al., 2007)]]
+> 教学质量的根本改进无法通过自上而下的行政命令或理论宣讲达成，而必须依靠结构化的“教学发展模块”为教师提供反思支架，并将单体学校嵌入跨校专业教研网络（Netzwerke），使一线教师在平等的同侪共研与[[Recontextualization|本土重构]]中重塑专业信念与教学[[Habitus|惯习]]。[[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, p. 11; Stadler et al., 2007)]]
 
 > [!policy-design]- 方案设计
 > - **十一大教学发展模块（Elf Module）** 项目提炼出 11 个具有明确认知心理学与教学论支撑的主题模块，包括：题目文化的重塑（Aufgabenkultur）、以错误为契机的反馈文化（Fehlerkultur）、自主探究与[[Metacognition|元认知]]学习（Selbstbestimmtes Lernen）、跨学科实践与实验探究（Forschendes Lernen）、认知激活与差异化分层教学（Differenzierung）等。各校可根据自身校情灵活选取 2–3 个模块作为阶段攻坚焦点。
@@ -132,7 +132,7 @@ updated: 2026-09-27
 > > [!axis] 模型试验的局部成功 vs 全系统推广的[[Absorptive Capacity|吸收能力]]瓶颈
 > > 争论焦点在于：SINUS 创造的优质教学范例为何难以在整个教育系统中自然扩散？
 > > 
-> > - **转移科学批判（Nickolaus & Gräsel, 2006; [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt, 2019, pp. 9, 11]]）** 大型模型试验虽然积累了丰富的局部创新成果，但德语区长期缺乏对底层转移模型与因果作用[[Hypothesis|假设]]的深层理论化。单纯依靠提供教材方案和示范网络，无法自动提升未参与学校的组织[[Absorptive Capacity|吸收能力]]；外部研究成果进入异质单体学校时，必然面临特定[[Organizational Culture|组织文化]]的防御和折射，必须经历[[Recontextualization|本土重构]]（[[Recontextualization|Re-Kontextualisierung]]）。
+> > - **转移科学批判（Nickolaus & Gräsel, 2006; [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt, 2019, pp. 9, 11]]）** 大型模型试验虽然积累了丰富的局部创新成果，但德语区长期缺乏对底层转移模型与因果作用假设的深层理论化。单纯依靠提供教材方案和示范网络，无法自动提升未参与学校的组织[[Absorptive Capacity|吸收能力]]；外部研究成果进入异质单体学校时，必然面临特定[[Organizational Culture|组织文化]]的防御和折射，必须经历[[Recontextualization|本土重构]]（[[Recontextualization|Re-Kontextualisierung]]）。
 > > - **自适应网络辩护（Krebs & Prenzel, 2008）** SINUS 的成功恰恰在于放弃了一刀切的线性指令传输，通过跨校网络搭建了自组织适应平台；转移不应追求百分之百的原样机械复制，而应激活实践者持续反思与再创造的能力。
 
 ---

@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 22
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -28,8 +28,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Big Science]]"
   - "[[Research Universities]]"
-  - "[[Hypothesis]]"
-  - "[[Document]]"
   - "[[Process Knowledge]]"
   - "[[Data Infrastructure]]"
   - "[[Gold Standard Science]]"
@@ -55,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Genesis Mission
@@ -85,7 +83,7 @@ updated: 2026-10-08
 > 1. **战略问题甄选（Problem Selection）** 遴选至少 20 项兼具巨大国家战略价值与 AI 适用性的攻关挑战（覆盖先进制造、生物技术、关键材料、核裂变与聚变、量子信息科学及先进制程半导体）。入选挑战必须满足三大条件：超大组合搜索空间（Combinatorial Search Space）、丰富的高质量结构化数据底座，以及类似[[Critical Assessment of Structure Prediction|蛋白质结构预测关键评估]]（CASP）的客观衡量基准。
 > 2. **跨界联合体与机构能力重构（Institutional Architecture）** 突破传统联邦发包限制，通过 2025 年 12 月成立的“转型人工智能模型联合体”，组织 24 家顶级科技企业与国家实验室深度结盟，基于能源部专有物理与材料数据联合预训练科学基础大模型。
 > 3. **公共数据解封与科学云建设（Data Accessibility & American Science Cloud）** 破解海量科研数据被锁在专有期刊付费墙后或因缺乏长期存储经费而被废弃的困境；系统整理实验失败与阴性结果记录，转化为机器可读的标准化训练资产。
-> 4. **闭环自主实验基础设施（Closed-loop Autonomous Experimentation）** 将 AI [[Hypothesis|假设]]生成与物理世界实体实验自动化连接。传统先进材料从实验室到商业部署需耗时约 20 年，通过自适应机器人实验室将合成与表征周期压缩一个数量级。
+> 4. **闭环自主实验基础设施（Closed-loop Autonomous Experimentation）** 将 AI 假设生成与物理世界实体实验自动化连接。传统先进材料从实验室到商业部署需耗时约 20 年，通过自适应机器人实验室将合成与表征周期压缩一个数量级。
 
 ---
 
@@ -104,9 +102,9 @@ updated: 2026-10-08
 ## 体系成效与生成-核验双重平衡
 
 > [!finding-cards] 理论定位与治理启示
-> - **生成能力必须与核验能力同等规模扩大** 创世纪计划被定位为一台具有空前发现产能的“科学生成器”；但[[Michael Kratsios|克拉齐奥斯]]报告强调，若上游[[Document|文献]]充斥不可复现的错误结论，AI 模型将产生灾难性的虚假共识。因此，该计划必须与《[[Restoring Gold Standard Science Executive Order|恢复黄金标准科学行政令]]》严格配对，通过机器可读的代码复现包与自动化协议同步构筑“核验基础设施”。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 64–65)]]
+> - **生成能力必须与核验能力同等规模扩大** 创世纪计划被定位为一台具有空前发现产能的“科学生成器”；但[[Michael Kratsios|克拉齐奥斯]]报告强调，若上游文献充斥不可复现的错误结论，AI 模型将产生灾难性的虚假共识。因此，该计划必须与《[[Restoring Gold Standard Science Executive Order|恢复黄金标准科学行政令]]》严格配对，通过机器可读的代码复现包与自动化协议同步构筑“核验基础设施”。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 64–65)]]
 > - **以采购规模倒逼仪器接口开放与标准化** 长期以来科学仪器行业的封闭生态导致数据格式碎片化，阻碍了自动化实验流水线搭建；创世纪计划依托国家实验室庞大的仪器采购规模，强制推行通用数据交换标准与开放 API 接口。
-> - **[[Process Knowledge|过程知识]]与实体制造的最终约束** 即使算法与[[Hypothesis|假设]]生成完全智能化，材料与器件的最终定型仍深植于熟练工匠的排障手感与实体产线工程能力之中，凸显了[[Process Knowledge|过程知识]]在智能时代的不可替代性。
+> - **[[Process Knowledge|过程知识]]与实体制造的最终约束** 即使算法与假设生成完全智能化，材料与器件的最终定型仍深植于熟练工匠的排障手感与实体产线工程能力之中，凸显了[[Process Knowledge|过程知识]]在智能时代的不可替代性。
 
 ---
 

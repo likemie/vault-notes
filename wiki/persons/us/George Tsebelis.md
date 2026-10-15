@@ -8,7 +8,7 @@ summary: "美籍希腊裔政治学家，密歇根大学政治学讲席教授，�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 21
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -28,7 +28,6 @@ related_concepts:
   - "[[Enforcement Discretion]]"
   - "[[Institutional Layering]]"
   - "[[Institutional Drift]]"
-  - "[[Hypothesis]]"
   - "[[Rule Ambiguity]]"
 related_theories:
   - "[[Theory of Gradual Institutional Change]]"
@@ -51,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # George Tsebelis
@@ -148,7 +147,7 @@ updated: 2026-10-12
 > > - **James Mahoney & Kathleen Thelen（2009）** 茨贝利斯混淆了“正式法律文本维持不变”与“制度实质功能未发生改变”；在强否决阻力封杀正式修法时，行动者并不会坐以待毙，而是会利用[[Enforcement Discretion|执行裁量权]]转向[[Institutional Layering|制度层叠]]或放任[[Institutional Drift|制度漂移]]，以隐蔽渐进方式摧毁旧制度的实质功能。（p. 19）
 
 > [!warning] 未解问题与边界
-> 茨贝利斯经典模型假定行动者的偏好是外生给定的固定空间点，且假定制度规则一旦确立即能被完美且无摩擦地执行；该[[Hypothesis|假设]]忽视了[[Rule Ambiguity|规则内生模糊性]]与执行层面的自由裁量空间，因而无法直接推导缺乏正式修法情形下的深层制度侵蚀。
+> 茨贝利斯经典模型假定行动者的偏好是外生给定的固定空间点，且假定制度规则一旦确立即能被完美且无摩擦地执行；该假设忽视了[[Rule Ambiguity|规则内生模糊性]]与执行层面的自由裁量空间，因而无法直接推导缺乏正式修法情形下的深层制度侵蚀。
 
 ---
 

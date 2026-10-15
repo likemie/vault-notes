@@ -9,7 +9,7 @@ aliases:
 summary: "William Perry提出的认识论认知开创性阶段发展理论，描述大学生在知识本质、真理与权威认知上从二元论、多元论、相对主义到相对主义内承诺的演进轨迹。"
 type: theory
 theory_field: "educational-psychology"
-theory_related_count: 37
+theory_related_count: 35
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Subjectivism]]"
   - "[[Open-Mindedness]]"
   - "[[Domain Specificity]]"
-  - "[[Hypothesis]]"
   - "[[Theoretical Perspective]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
@@ -54,14 +53,13 @@ related_arguments:
   - "[[Argument_Sandoval_2016_RRE]]"
 related_methods:
   - "[[Qualitative Research]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Correlational Research]]"
 related_persons: []
 status: active
 created: 2026-08-13
-updated: 2026-10-03
+updated: 2026-10-15
 ---
 
 # Perry's Scheme of Intellectual and Ethical Development
@@ -136,7 +134,7 @@ updated: 2026-10-03
 > - **前提二** 不同的学科文化对知识确证规则的要求存在显著差异。
 > - **推导** 学生在大学阶段的认识论演进兼具“普遍涵化”与“[[Domain Specificity\|学科特异性]]”特征：
 >   > [!evidence-grid]- 实证检验
->   > - **[[Argument_Trautwein_2007_CEP\|Trautwein & Lüdtke (2007)]] 纵向检验** 对大学阶段的认识论追踪证实了佩里的“大学涵化[[Hypothesis\|假设]]”：人文学科与社会科学的专业学习显著加速了学生向相对主义的转变（确定性信念大幅下降）；然而研究也发现，进入大学前学生已存在显著的先验自我选择效应（Self-selection），且工科商科学生的确定性信念反而可能上升。[[Argument_Trautwein_2007_CEP\|(Trautwein & Lüdtke, 2007, p. 358)]]
+>   > - **[[Argument_Trautwein_2007_CEP\|Trautwein & Lüdtke (2007)]] 纵向检验** 对大学阶段的认识论追踪证实了佩里的“大学涵化假设”：人文学科与社会科学的专业学习显著加速了学生向相对主义的转变（确定性信念大幅下降）；然而研究也发现，进入大学前学生已存在显著的先验自我选择效应（Self-selection），且工科商科学生的确定性信念反而可能上升。[[Argument_Trautwein_2007_CEP\|(Trautwein & Lüdtke, 2007, p. 358)]]
 
 ---
 
@@ -177,7 +175,7 @@ updated: 2026-10-03
 
 > [!theory-use] 如何用于研究
 > - **作为课程评估框架** 用于检验高等教育[[General Education\|通识教育]]或探究性教学能否有效促成学生超越绝对主义。
-> - **作为访谈[[Coding in Qualitative Research\|编码]]工具** 提取学生关于“教师角色”、“证据概念”、“知识确定性”的论述，对照 9 个位置进行发展层级定性编码。
+> - **作为访谈编码工具** 提取学生关于“教师角色”、“证据概念”、“知识确定性”的论述，对照 9 个位置进行发展层级定性编码。
 > - **作为批判视角** 警惕传统大学教学中单向灌输式的“二元论教学陷阱”，强调设计[[Wicked Problem|劣构问题]]（Ill-structured problems）以激发认知失衡。
 
 ---
@@ -197,7 +195,7 @@ updated: 2026-10-03
 > [!dev-timeline] 发展脉络
 > - **1970 — 经典奠基** William Perry 出版 *Forms of Intellectual and Ethical Development in the College Years: A Scheme*，开创了[[Epistemology\|认识论]]发展的阶段[[Paradigm\|研究范式]]。
 > - **1986 — 性别批判与[[Women's Ways of Knowing\|女性认知方式]]** Belenky et al. 指出佩里样本的男性精英偏差，提出女性[[Ways of Knowing\|认知方式]]（Women's Ways of Knowing），将[[Constructed Knowledge\|建构知识]]置于顶阶。
-> - **1990 — 多维信念系统转向** Schommer 提出认识论是由多维独立信念构成的系统，打破了单向单维的发展阶段[[Hypothesis\|假设]]。
+> - **1990 — 多维信念系统转向** Schommer 提出认识论是由多维独立信念构成的系统，打破了单向单维的发展阶段假设。
 > - **1997 — 理论系统整合** Hofer & Pintrich 在综述中系统对齐了佩里、Belenky、King & Kitchener、Kuhn 等各大发展模型，奠定了该领域的综合理论框架。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997)]]
 > - **2007 — 纵向追踪检验** Trautwein & Lüdtke 运用纵向大样本检验佩里的大学涵化假设，证实[[Disciplinary Socialization\|学科社会化]]与先验自我选择效应并存。[[Argument_Trautwein_2007_CEP\|(Trautwein & Lüdtke, 2007)]]
 > - **2018 — [[Meta-analysis\|元分析]]实证反思** Greene et al. 大规模元分析揭示中小学生认识论[[Effect Size\|效应量]]高于大学生（学段倒挂），反驳了佩里传统发展模型对低龄儿童缺乏高级[[Epistemic Cognition\|认识论认知]]的悲观假定。[[Argument_Greene_2018_JEP\|(Greene et al., 2018)]]
@@ -224,7 +222,7 @@ updated: 2026-10-03
 > >
 > > - **Elby & Hammer（2001）与 [[Argument_Sandoval_2016_RRE\|Sandoval et al. (2016)]]** 批评发展阶段论将认识论假定为脱域的整体结构，主张个体在不同任务、学科文本面前会瞬间调动不同的微观[[Epistemic Resources\|认识论资源]]。
 >
-> > [!axis] 大学专属[[Hypothesis\|假设]]与低龄化“学段倒挂”
+> > [!axis] 大学专属假设与低龄化“学段倒挂”
 > > 佩里模型将高级认识论思维视为大学及成年的专属产物，低龄儿童是否具备高级认识论能力？
 > >
 > > - **[[Argument_Greene_2018_JEP\|Greene et al. (2018)]]** [[Meta-analysis\|元分析]]数据显示，初中生（$r = .246$）和小学生（$r = .212$）的认识论与[[Academic Achievement\|学业成就]]关联显著高于大学生（$r = .131$），彻底颠覆了佩里传统发展模型对低龄学习者的低估，证明只要情境得当，中小学生同样能展现评价主义等高阶认识论认知。
@@ -239,5 +237,5 @@ updated: 2026-10-03
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] — 详尽梳理佩里图式的 9 个位置与 4 大阶段，将其置于[[Epistemology\|认识论]]发展模型的谱系源头予以评述。
-> - [[Argument_Trautwein_2007_CEP\|Trautwein & Lüdtke (2007)]] — 针对佩里提出的大学教育环境塑造认识论思维[[Hypothesis\|假设]]进行大规模纵向追踪检验，证实[[Disciplinary Socialization\|学科社会化]]效应。
+> - [[Argument_Trautwein_2007_CEP\|Trautwein & Lüdtke (2007)]] — 针对佩里提出的大学教育环境塑造认识论思维假设进行大规模纵向追踪检验，证实[[Disciplinary Socialization\|学科社会化]]效应。
 > - [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] — 在[[Meta-analysis\|元分析]]中将佩里开创的发展论模型作为调节[[Variable\|变量]]进行检验，并基于实证数据反思了阶段论对低年级学生的传统假设。

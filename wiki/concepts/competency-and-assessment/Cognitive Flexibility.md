@@ -9,7 +9,7 @@ aliases:
 summary: "个体根据不断变化的环境情境、目标约束与反馈信息，在不同心智图式、思维范畴或解题策略之间灵活转换与重组的高阶执行功能与创造性思维底层机制。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 41
+related_count: 40
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -38,7 +38,6 @@ related_concepts:
   - "[[Cognitive Shifting]]"
   - "[[Automation Bias]]"
   - "[[Assemblage]]"
-  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Surface and Deep Learning]]"
   - "[[Domain Specificity]]"
@@ -68,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Cognitive Flexibility
@@ -167,7 +166,7 @@ updated: 2026-09-22
 > 认知灵活性并非不可更改的固定特质，而是可以通过系统化的认知练习获得显著提升。
 
 > [!claim] Guo et al.; Rute-Pérez et al.
-> **思维训练促通灵活性命题** 多层[[Meta-analysis\|元分析]]证实，以提升认知灵活性、发散思维与[[Problem Solving\|问题解决能力]]为核心目标的“思维训练（Thinking training）”对大学生创造力表现具有强效促进作用（$g = 0.762, N = 31$），效果仅次于言语训练，显著高于情绪训练。通过密集演练[[Lateral Thinking\|侧向思维]]谜题（Lateral Thinking Puzzles）、[[Brainstorming\|头脑风暴]]与[[Mind Mapping\|思维导图]]，学生学会了主动质疑思维定势、在不同[[Hypothesis\|假设]]间灵活跳跃，其任务转换速度与发散范畴广度显著改善，直接确立了认知灵活性作为[[Creativity Training\|创造力教学]]干预核心靶点的实证地位。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 8–10)]]; Rute-Pérez et al. (2024)
+> **思维训练促通灵活性命题** 多层[[Meta-analysis\|元分析]]证实，以提升认知灵活性、发散思维与[[Problem Solving\|问题解决能力]]为核心目标的“思维训练（Thinking training）”对大学生创造力表现具有强效促进作用（$g = 0.762, N = 31$），效果仅次于言语训练，显著高于情绪训练。通过密集演练[[Lateral Thinking\|侧向思维]]谜题（Lateral Thinking Puzzles）、[[Brainstorming\|头脑风暴]]与[[Mind Mapping\|思维导图]]，学生学会了主动质疑思维定势、在不同假设间灵活跳跃，其任务转换速度与发散范畴广度显著改善，直接确立了认知灵活性作为[[Creativity Training\|创造力教学]]干预核心靶点的实证地位。[[Argument_Guo_2025_TSC\|(Guo et al., 2025, pp. 8–10)]]; Rute-Pérez et al. (2024)
 
 ---
 
@@ -255,7 +254,7 @@ updated: 2026-09-22
 ## 教育应用与教学实践
 
 > [!implication]- 培养认知灵活性的四大教学支柱
-> 1. **开展“反转[[Hypothesis\|假设]]”与[[Lateral Thinking\|侧向思维]]谜题训练** 教学中定期引入具有误导性常规表象的难题，引导学生先列出所有“显然如此”的直觉假设，再强制将每一条假设反转，迫使思维脱离陈规；
+> 1. **开展“反转假设”与[[Lateral Thinking\|侧向思维]]谜题训练** 教学中定期引入具有误导性常规表象的难题，引导学生先列出所有“显然如此”的直觉假设，再强制将每一条假设反转，迫使思维脱离陈规；
 > 2. **推行跨学科多重視角重访（Cognitive Flexibility Theory）** 避免对复杂案例进行单向度分析，要求学生依次站在科学家、哲学家、设计师和终端用户的立场重新阐述问题并评估解决方案；
 > 3. **结合[[Mind Mapping\|思维导图]]实施多分支范畴强制拓展** 在发散探究中，不仅要求观念数量，更规定学生必须在思维导图上建立至少 4–5 个完全异质的主干分支，强制其在不同知识门类间切换；
 > 4. **创设容许甚至奖励“策略转换”的评价环境** 打破“一条路走到黑”的唯结果评价模式，在表现性量规中对能够主动识别死胡同、迅速放弃低效方案并果断重构路径的学生给予专门加分。

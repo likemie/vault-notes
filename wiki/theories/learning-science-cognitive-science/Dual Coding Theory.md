@@ -7,7 +7,7 @@ aliases:
 summary: "人类认知由独立的非言语视觉表象与言语符号双通道构成，图文协同表征能显著降低工作记忆负荷并强化长时记忆整合的认知学习理论"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 17
+theory_related_count: 16
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -21,16 +21,15 @@ related_concepts:
   - "[[Working Memory]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Problem Solving]]"
+  - "[[Scaffolding]]"
   - "[[Mind Mapping]]"
   - "[[Concept Mapping]]"
   - "[[Argument Mapping]]"
   - "[[Divergent Thinking]]"
   - "[[Convergent Thinking]]"
-  - "[[Hypothesis]]"
 related_theories:
   - "[[Creative Problem Solving]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Meta-analysis]]"
   - "[[Correlational Research]]"
 related_instruments: []
@@ -43,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Dual Coding Theory
@@ -62,7 +61,7 @@ updated: 2026-10-07
 > 人类认知系统由两个在结构和功能上既相互独立又高度关联的信息加工子系统构成：负责加工非言语视觉信息的表象系统（Image System / Imagens）和负责加工言语听觉信息的语言系统（Verbal System / Logogens）；当学习材料同时以结构化视觉图示（如[[Graphic Organizer\|图形组织器]]）与文字语言呈现时，双通道同时激活并建立跨模态指称联结（Referential Connections），不仅有效扩大了[[Working Memory\|工作记忆]]的瞬时处理通量，而且极大强化了长时记忆的深层概念网络整合。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 2–3)]]
 
 > [!citation-card]- 关键表述
-> 双重[[Coding in Qualitative Research\|编码]]理论指出，视觉空间通道与语言通道的协同运作使大脑能够利用海马体至大脑皮层的神经通路，将空间排布的拓扑语义从短时记忆转化为长时记忆，从而强效支撑复杂的[[Higher-Order Thinking Skills\|高阶思维]]与[[Problem Solving\|问题解决]]。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 2–3, 11)]]
+> 双重编码理论指出，视觉空间通道与语言通道的协同运作使大脑能够利用海马体至大脑皮层的神经通路，将空间排布的拓扑语义从短时记忆转化为长时记忆，从而强效支撑复杂的[[Higher-Order Thinking Skills\|高阶思维]]与[[Problem Solving\|问题解决]]。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 2–3, 11)]]
 >
 > *According to dual coding theory and spatial metaphor theory, visual tools [[Activate Fellowship|Activate]] both visual and verbal channels, creating integrated cognitive structures that support higher-order thinking...*
 
@@ -78,7 +77,7 @@ updated: 2026-10-07
 > | **言语表征（Logogens）** | 概念 | 负责存储和处理词汇、语法、命题陈述与抽象语义的语言认知表征单元。 |
 > | **联想联结（Associative Connections）** | 机制 | 处于同一子系统内部（言语—言语，或视觉—视觉）的单模态观念联结。 |
 > | **指称联结（Referential Connections）** | 机制 | 跨越视觉系统与言语系统之间的双向映射桥梁（如看到导图分支立即激活相关概念词汇）。 |
-> | **[[Graphic Organizer]]** | 工具 | 将言语概念结构化转化为空间视觉拓扑、主动触发双重[[Coding in Qualitative Research\|编码]]的典型教学脚手架。 |
+> | **[[Graphic Organizer]]** | 工具 | 将言语概念结构化转化为空间视觉拓扑、主动触发双重编码的典型[[Scaffolding\|教学脚手架]]。 |
 
 ---
 
@@ -94,7 +93,7 @@ updated: 2026-10-07
 > - **推导** 当教学采用包含空间拓扑分支的[[Graphic Organizer\|图形组织器]]（如[[Mind Mapping\|思维导图]]、[[Concept Mapping\|概念图]]、[[Argument Mapping\|论证图]]）呈现抽象知识时：
 >   1. 空间视觉通道负责保持概念间的层级与包含关系（表象系统）；
 >   2. 言语通道专注于深层语义分析与批判性推导（语言系统）；
->   3. 两个系统通过指称联结形成双重[[Coding in Qualitative Research\|编码]]网络，显著降低了言语工作记忆维持负荷，使更多心智资源得以释放并投入[[Higher-Order Thinking Skills\|高阶思维]]加工（$g = 0.778$）。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 2–3)]]
+>   3. 两个系统通过指称联结形成双重编码网络，显著降低了言语工作记忆维持负荷，使更多心智资源得以释放并投入[[Higher-Order Thinking Skills\|高阶思维]]加工（$g = 0.778$）。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 2–3)]]
 
 ---
 
@@ -112,9 +111,9 @@ updated: 2026-10-07
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]理论验证数据
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 检验[[Hypothesis\|假设]] | 汇总效应与 95% CI | 理论验证结论 |
+> | 一阶元分析 | 检验假设 | 汇总效应与 95% CI | 理论验证结论 |
 > |---|---|---|---|
-> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 图形组织器对高阶思维的总体促进效应（$k = 72, N = 4{,}824$） | $g = 0.778$, $[0.642, 0.915]$ | 实证支持双重[[Coding in Qualitative Research\|编码]]与空间隐喻理论的负荷卸载假设 |
+> | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 图形组织器对高阶思维的总体促进效应（$k = 72, N = 4{,}824$） | $g = 0.778$, $[0.642, 0.915]$ | 实证支持双重编码与空间隐喻理论的负荷卸载假设 |
 > | ^ | [[Divergent Thinking\|发散思维]] vs [[Convergent Thinking\|聚合思维]]干预敏感度比较 | $g = 1.167$ vs $0.680$ ($Q_b = 7.07, p < .01$) | 实证支持空间分支双重编码对生成性发散联想的更强赋能 |
 
 ---
@@ -122,4 +121,4 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 将双重[[Coding in Qualitative Research\|编码]]理论作为解释空间图示工具促进学生[[Higher-Order Thinking Skills\|高阶思维]]的底层认知理论支柱。
+> - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 将双重编码理论作为解释空间图示工具促进学生[[Higher-Order Thinking Skills\|高阶思维]]的底层认知理论支柱。

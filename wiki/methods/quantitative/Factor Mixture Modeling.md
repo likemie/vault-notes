@@ -7,15 +7,14 @@ summary: "一种结合了验证性因子分析（Confirmatory Factor Analysis, C
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 16
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 15
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 tags: []
 related_concepts:
   - "[[Heterogeneity]]"
   - "[[Variable]]"
-  - "[[Hypothesis]]"
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Research Question]]"
@@ -38,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-15
-updated: 2026-09-18
+updated: 2026-10-15
 ---
 
 # Factor Mixture Modeling
@@ -51,7 +50,7 @@ updated: 2026-09-18
 > 因子混合模型（Factor Mixture Modeling, FMM）结合了因子分析降维测量的优势与潜在类别/剖面分析探究[[Heterogeneity\|异质性]]的功能。它利用个体在多个连续的潜在因子（潜[[Variable\|变量]]）上的表现特征，将其划分至具备不同特征轮廓（profile）的未知类群中。[[Argument_Greene_2010_JEP\|(Greene et al., 2010, p. 239)]]
 
 > [!method-scope] 方法范围
-> - **研究对象** 具备多维测量结构并[[Hypothesis\|假设]]存在群体异质性分类的数据。
+> - **研究对象** 具备多维测量结构并假设存在群体异质性分类的数据。
 > - **问题类型** 探索或验证异质样本中的亚群结构（如划分认知发展阶段类型）。
 > - **[[Unit of Analysis\|分析单位]]** 个体。
 > - **输出形式** 潜在类别分配、类别的因子均值轮廓图。
@@ -129,7 +128,7 @@ updated: 2026-09-18
 > [!formula-step] 公式步骤　似然比检验（LRT, LMR / bLRT）
 > $$ LR = -2 \log \left( \frac{L_{K-1}}{L_K} \right) = -2 (\log L_{K-1} - \log L_K) $$
 >
-> **这个公式在做什么** 通过[[Hypothesis\|假设]]检验的方式，直接比较 $K-1$ 个类别的模型（[[Null Hypothesis\|零假设]]）与 $K$ 个类别的模型（[[Alternative Hypothesis\|备择假设]]），判断增加一个类别是否能带来统计学上显著的拟合提升。
+> **这个公式在做什么** 通过假设检验的方式，直接比较 $K-1$ 个类别的模型（[[Null Hypothesis\|零假设]]）与 $K$ 个类别的模型（[[Alternative Hypothesis\|备择假设]]），判断增加一个类别是否能带来统计学上显著的拟合提升。
 >
 > **符号说明** $L_K$ 是 $K$ 类模型的最大似然函数值；$L_{K-1}$ 是少一类的模型的似然函数值。
 >

@@ -7,10 +7,10 @@ title: "Argument_Gough_2022_EvidenceOnEIPP"
 argument_key: "Argument_Gough_2022_EvidenceOnEIPP"
 argument_display_title: "Evidence on evidence-informed policy and practice"
 argument_kind: "book-chapter"
-argument_related_count: 76
-argument_related_level: 5
-argument_related_stars: "⭐⭐⭐⭐⭐"
-argument_related_color: "#fecdd3"
+argument_related_count: 72
+argument_related_level: 4
+argument_related_stars: "⭐⭐⭐⭐"
+argument_related_color: "#fef3c7"
 authors:
   - "[[David Gough|Gough, D.]]"
   - "[[Jonathan Sharples|Sharples, J.]]"
@@ -43,7 +43,6 @@ related_theories:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Documentary Analysis]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Systematic Review]]"
   - "[[Cost-Benefit Analysis]]"
@@ -59,13 +58,11 @@ related_methods:
   - "[[Statistical Significance]]"
 related_concepts:
   - "[[Educational Brokerage Agency]]"
-  - "[[Hypothesis]]"
   - "[[Evidence Ecosystem]]"
   - "[[Evidence Standards]]"
   - "[[Knowledge Mediation]]"
   - "[[Epistemology]]"
   - "[[Research Utilization]]"
-  - "[[Document]]"
   - "[[School Leadership]]"
   - "[[Variable]]"
   - "[[Heterogeneity]]"
@@ -74,7 +71,6 @@ related_concepts:
   - "[[Implementation Fidelity]]"
   - "[[Metacognition]]"
   - "[[Reflexivity]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Teaching Assistant]]"
   - "[[Recommendations for Practice]]"
@@ -133,7 +129,7 @@ sources:
 > 为什么旨在向政策制定者与教育实践者推广循证理念的[[Educational Brokerage Agency\|知识中介机构]]（Knowledge Brokerage Intermediaries, KBIs），自身在制定工作目标、选择干预方法、确立证据评价准则以及评估服务成效时，却频繁陷入缺乏实证依据支持的循证赤字？中介机构应如何建立自省性的元研究[[Analytic Framework\|分析框架]]，使自身的设计、运作与制度协同真正建立在研究应用之科学（The Science of Using Science）的基础之上？（pp. 146–147, 157–158）
 
 > [!claim] 核心主张
-> 知识中介机构的公信力与有效性取决于其自身是否践行所倡导的循证原则。中介机构必须超越单向信息推介与朴素常识[[Hypothesis\|假设]]，将其实践系统构筑在五大循证支柱之上：对既有[[Evidence Ecosystem\|证据生态系统]]的严密需求分析、与外层社会政治及问责制度的深度对齐、扎根于行为改变科学的显性[[Theory of Change\|变革理论]]、透明且高度分化的[[Evidence Standards\|证据标准]]以支撑合法的功效主张，以及对最终受益者成效的因果评估与元知识库积累。（pp. 147–148, 158–159）
+> 知识中介机构的公信力与有效性取决于其自身是否践行所倡导的循证原则。中介机构必须超越单向信息推介与朴素常识假设，将其实践系统构筑在五大循证支柱之上：对既有[[Evidence Ecosystem\|证据生态系统]]的严密需求分析、与外层社会政治及问责制度的深度对齐、扎根于行为改变科学的显性[[Theory of Change\|变革理论]]、透明且高度分化的[[Evidence Standards\|证据标准]]以支撑合法的功效主张，以及对最终受益者成效的因果评估与元知识库积累。（pp. 147–148, 158–159）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 英国及跨国知识中介机构（KBIs），重点聚焦有效性中心（[[What Works Network\|What Works Centres]], WWCs）、网络化证据门户（Evidence Portals）以及政府科学顾问委员会。
@@ -154,7 +150,7 @@ sources:
 > | **[[Educational Brokerage Agency\|知识中介机构分类框架]]**<br>[[Educational Brokerage Agency]] | 将中介主体细分为网络门户、专门中介机构（如 [[What Works Network\|WWCs]]）、大学科研传播办公室及政府科学顾问系统四类形态。（p. 147） |
 
 > [!warrant]- 理论如何支撑论证
-> 证据[[Ecological Systems Theory\|生态系统理论]]与行为改变科学、项目评价学的结合，揭示了中介机构常年成效受限的理论根源：传统实践将中介预设为单向线性输出管道。双层嵌套生态[[Analytic Framework\|分析框架]]打破了这一[[Hypothesis\|假设]]，要求在审视中介使命时，不仅向上考察研究供给与决策拉力的实质匹配，更向外审视高利害问责等外层体制对实践者施加的行为约束，从而使中介干预的因果推论获得严密的实证检验。（pp. 148–153）
+> 证据[[Ecological Systems Theory\|生态系统理论]]与行为改变科学、项目评价学的结合，揭示了中介机构常年成效受限的理论根源：传统实践将中介预设为单向线性输出管道。双层嵌套生态[[Analytic Framework\|分析框架]]打破了这一假设，要求在审视中介使命时，不仅向上考察研究供给与决策拉力的实质匹配，更向外审视高利害问责等外层体制对实践者施加的行为约束，从而使中介干预的因果推论获得严密的实证检验。（pp. 148–153）
 
 ---
 
@@ -163,8 +159,8 @@ sources:
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **多案例质性考察与文献分析**<br>[[Documentary Analysis]] | 依托 Gough et al. (2018) 对英国全部有效性中心（WWCs）的深度调研，系统提取各中心自述使命、工作方法、受众界定与治理情境[[Document\|文献]]，归纳中介机构的核心目标与演变轨迹。（pp. 149–151） |
-> | **国际网络证据门户跨案例调查**<br>Cross-case Portal Survey | 依托 Gough & White (2018) 对 15 个国家与国际知名网络证据门户（Evidence Web Portals）的跨案例调查，系统提取并[[Coding in Qualitative Research\|编码]]各门户在评估干预有效性时所依据的方法学标准与评价规程。（pp. 154–155） |
+> | **多案例质性考察与文献分析**<br>[[Documentary Analysis]] | 依托 Gough et al. (2018) 对英国全部有效性中心（[[What Works Network\|WWCs]]）的深度调研，系统提取各中心自述使命、工作方法、受众界定与治理情境文献，归纳中介机构的核心目标与演变轨迹。（pp. 149–151） |
+> | **国际网络证据门户跨案例调查**<br>Cross-case Portal Survey | 依托 Gough & White (2018) 对 15 个国家与国际知名网络证据门户（Evidence Web Portals）的跨案例调查，系统提取并编码各门户在评估干预有效性时所依据的方法学标准与评价规程。（pp. 154–155） |
 > | **元研究批判性综合**<br>Critical Synthesis & Meta-research | 系统整合关于研究应用的研究（Research on [[Research Utilization\|Research Use]]）领域的前沿成果（如 Langer et al., 2016; Lord et al., 2017），提炼循证中介机构运作的规范性反思原则。（pp. 147, 152, 157） |
 
 > [!row-contrast] 考察样本一：英国主要有效性中心与中介组织调研样本表（Gough et al., 2018）
@@ -270,7 +266,7 @@ sources:
 > [!dimension] 知识中介机构自我循证的五大核心支柱（pp. 147–148）
 > - **既有生态需求摸排** 系统评估目标领域既有研究生产、使用与供求关系，明智确定介入的薄弱环节与切入点。（p. 147）
 > - **外层宏观体制整合** 深入研判政治问责与拨款等外部支配体系，寻求机制咬合与接纳性环境建设。
-> - **扎根行为科学的[[Theory of Change\|变革理论]]** 彻底摒弃单纯信息推送[[Hypothesis\|假设]]，扎根于行为科学与 [[COM-B Model\|COM-B]] 机制厘清知识转化的因果链条。
+> - **扎根行为科学的[[Theory of Change\|变革理论]]** 彻底摒弃单纯信息推送假设，扎根于行为科学与 [[COM-B Model\|COM-B]] 机制厘清知识转化的因果链条。
 > - **透明严谨的[[Evidence Standards\|证据标准]]** 建立涵盖方法学准则与成熟度评定的标准体系，审慎提出经得起检验的功效主张。（p. 148）
 > - **针对终极受益人的因果评估** 摆脱简单的过程记录，开展针对最终受益人学业与福祉的独立因果评估并反哺元研究。
 
@@ -290,7 +286,7 @@ sources:
 > |---|---|---|
 > | **构图与心理隐喻** | 研究在左侧源头，实践在右侧末梢，强化自左向右单向流动 | 决策与实施置于左侧，研究置于右侧，强化实践需求拉力 |
 > | **知识流动假设** | 信息赤字假定：只要把研究发现单向推送给实践者即可促成应用 | 生态系统假定：证据应用深嵌于复杂环境，平均有效不等于处处有效 |
-> | **中介角色定位** | 学术成果宣传队，致力于单向扩大科研成果的社会可见度 | 供需双向[[Transfer Translation Transformation\|转译]]枢纽，立足决策者真实困境逆向匹配研究生产 |
+> | **中介角色定位** | 学术成果宣传队，致力于单向扩大科研成果的社会可见度 | 供需双向转译枢纽，立足决策者真实困境逆向匹配研究生产 |
 
 为彻底破除自左向右推挤知识的单向心理惯性，证据生态模型通过构图反转确立了需求牵引的分析拓扑：（p. 148）
 
@@ -328,12 +324,12 @@ sources:
 > - **[[Education Endowment Foundation\|EEF]] [[Research Schools Network\|研究学校网络]]（Research Schools Network, RSN；Gu et al., 2020）**
 >   - **背景与痛点** 英国教育捐赠基金会（EEF）尽管通过《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》（Teaching and Learning Toolkit）在中小学管理层建立了极高知名度，但纸面证据无法跨越中央发布与课堂实践之间的鸿沟，偏远与薄弱学校难以自主消化抽象的实证结论。
 >   - **干预机制** EEF 联合“有效性教育研究所”（[[Institute for Effective Education]], IEE）在全英格兰分批遴选数十所高绩效学校设立区域研究学校网络。网络并非由外部科研人员直接干预，而是由经受严格循证培训的本地一线骨干教师兼任“实证大使（Evidence Champions）”；通过建立校际合作共同体，面向周边数百所薄弱校提供基于证据的阶梯式专业发展（CPD）、同侪进校诊断与长效实施陪伴，打通了循证方案从中央平台向地方学校渗透的实施链路。
-> - **EEF [[Teaching Assistant\|助教]]（Teaching Assistants, TAs）循证配置指南的区域规模化推广（Maxwell et al., 2019; Sibieta & Sianesi, 2019）**
+> - **EEF 助教（[[Teaching Assistant|Teaching Assistants]], TAs）循证配置指南的区域规模化推广（Maxwell et al., 2019; Sibieta & Sianesi, 2019）**
 >   - **背景与痛点** 英格兰中小学每年投入巨额公共经费雇佣逾 38 万名助教，但实证研究证实常规配置下助教往往被消极用作学困生的“低成本隔离看护者”，导致接受助教辅导越多的学生学业进步反而越慢。
 >   - **干预机制** EEF 提炼出 7 项核心[[Recommendations for Practice\|实践建议]]，不再局限于被动发布指南报告，而是在南约克郡、西约克郡等地区启动大规模区域动员活动。中介团队联合地方教育局与示范学校，深入重塑学校排课机制、保障主辅教师课前协同备课时间、推行阶梯支架式提问教学（[[Scaffolding]]）及经过验证的结构化小班干预方案，并配套开展跨区域因果评估，推动助教资源实现结构性优化。
 > - **[[Early Intervention Foundation\|早期干预基金会]]（Early Intervention Foundation, EIF）行为科学[[Knowledge Mobilisation\|知识动员]]项目（Waddell & Sharples, 2020; Wadell, 2021）**
 >   - **背景与痛点** 地方当局在儿童发展与家庭服务决策中长期依赖人际熟络与商业供应商宣传，极少审查干预方案的因果实证依据。
->   - **干预机制** EIF 设立专项行为动员项目，打破传统[[Document\|文献]]汇总模式，深入地方政府开展实地调研。通过系统诊断公职人员面临的信息超载、财政预算周期约束与行政问责风险等心理特征，量身设计决策架构（Choice Architecture）与互动式干预工具，以微观行为心理疏导保障宏观循证决策落地。
+>   - **干预机制** EIF 设立专项行为动员项目，打破传统文献汇总模式，深入地方政府开展实地调研。通过系统诊断公职人员面临的信息超载、财政预算周期约束与行政问责风险等心理特征，量身设计决策架构（Choice Architecture）与互动式干预工具，以微观行为心理疏导保障宏观循证决策落地。
 
 > [!tension-table] 目标确立与需求分析的自省评估框架（Box 7.2, p. 150）
 > | 核心维度 | 关键追问 | 现实偏误与治理隐患 |
@@ -625,7 +621,7 @@ sources:
 >
 > *Evidence activities do not work in isolation. They [[Schulen im Team|SiT]] within complex systems outside of research, with multiple actors and influences, each with their own priorities, processes, timescales and motivations e.g. policy, improvement, funding, accountability systems. In this type of "systems" model, KBIs are effective when they integrate well with external organisations and the systems in which they operate. Put another way, you could, in theory, create an elegant evidence ecosystem with excellent, well-connected processes yet have little impact if those activities fail to [[Achieve]] traction in the wider systems.*
 
-> [!citation-card] 单纯信息传播[[Hypothesis\|假设]]的实证破产
+> [!citation-card] 单纯信息传播假设的实证破产
 > 传播研究发现往往被视作支持用户参与和决策的默认捷径。然而，来自关于研究应用的研究的大量实证表明，单纯传播研究发现本身，与这些研究发现被实际利用之间没有任何必然联系。英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）针对向教师传播识字研究成果所开展的多臂[[Randomised Controlled Trials\|随机对照试验]]证明了这一点：没有任何证据表明单一传播策略在孤立状态下能够产生任何显著效果。传递证据绝不等于保证它会被付诸使用。（p. 152）
 >
 > *This is well illustrated by the communication of research findings, a default approach to supporting user engagement and decision making. But evidence from "research on [[Research Utilization\|Research Use]]" shows that the communication of research findings on its own is not associated with increased use of those findings. EEF has shown this through its multi-armed randomised controlled trial of different ways to communicate research on literacy to teachers, where no evidence was found that any of these strategies were effective on their own. Communicating evidence does not guarantee it will be used.*

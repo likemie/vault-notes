@@ -10,10 +10,10 @@ aliases:
 summary: "整合 Humphries et al. (2014) 跨领域综述与 Best & Holmes (2010) 三代模型构建的教育研究利用影响因素分析框架，将促成机制与阻碍障壁划分为信息、互动、个体特征、结构与组织、文化五大维度，并揭示供需倒挂与系统性协调机制"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 40
-theory_related_level: 5
-theory_related_stars: "⭐⭐⭐⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_count: 37
+theory_related_level: 4
+theory_related_stars: "⭐⭐⭐⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theory/research-use
   - theme/knowledge-mobilisation
@@ -23,7 +23,6 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Evidence-Based Education]]"
   - "[[Knowledge Mobilisation]]"
-  - "[[Document]]"
   - "[[Operationalization]]"
   - "[[Research Utilization]]"
   - "[[Dependent Variable]]"
@@ -31,7 +30,6 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Research Literacy]]"
   - "[[Categorical Funding]]"
-  - "[[Teaching Assistant]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
@@ -50,7 +48,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Questionnaire]]"
   - "[[Comparative Policy Analysis]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Network Analysis]]"
   - "[[Systematic Review]]"
 related_instruments: []
@@ -69,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Typology of Factors Influencing Research Use
@@ -82,7 +79,7 @@ updated: 2026-10-09
 > - **解释对象** 解释教育研究证据在政策制定和学校教学实践中为何被利用或被搁置，识别推动研究采纳的促成机制与阻碍[[Research Translation\|研究转化]]的结构性障壁。
 > - **理论问题** 回应[[Evidence-Based Education\|循证教育]]与[[Knowledge Mobilisation\|知识动员]]领域长期存在的要素孤立化与机制碎片化困境，厘清因素（Factors）、机制（Mechanisms）、障壁（Barriers）、干预（Interventions）与战略（Strategies）之间的逻辑层级与交互模式。
 > - **理论类型** 跨领域中层机制分类学与多维度系统[[Analytic Framework\|分析框架]]。
-> - **知识位置** 渊源于卫生政策、公共管理与司法等跨行业证据利用[[Document\|文献]]（Humphries et al., 2014; Oliver et al., 2014; Nutley et al., 2009），由[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织）研究员 [[José Manuel Torres]] 在教育知识动员研究中拓展并系统[[Operationalization\|操作化]]为涵盖政策制定与学校实践的双情境类型学。
+> - **知识位置** 渊源于卫生政策、公共管理与司法等跨行业证据利用文献（Humphries et al., 2014; Oliver et al., 2014; Nutley et al., 2009），由[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织）研究员 [[José Manuel Torres]] 在教育知识动员研究中拓展并系统[[Operationalization\|操作化]]为涵盖政策制定与学校实践的双情境类型学。
 
 > [!claim] 核心主张
 > 教育[[Research Utilization\|研究利用]]并非由单一的研究供给质量或个体态度单向决定，而是深嵌于由信息、互动、个体特征、结构与组织、文化五大维度交织构成的复杂生态之中；孤立、单向的线性干预（如单纯增加研究成果摘要分发）无法自主驱动实质性采纳，必须依托结构性制度保障、持续能力建设与高位系统协调战略，将微观促成机制与宏观科研生产协同对齐，方能有效化解现实阻碍。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 105–108, 118–120)]]
@@ -143,7 +140,7 @@ updated: 2026-10-09
 
 > [!proposition-chain] 核心命题四｜科研资助机制与真实需求映射之间存在结构性倒挂，加剧证据供需错配
 > - **前提一（推动导向优先于拉动诊断）** 多数教育系统倾向于优先资助或[[Categorical Funding\|委托研究]]生产，却严重忽视对决策者与一线教师真实研究需求的系统性摸查与映射机制。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, pp. 114–117)]]
-> - **前提二（倒挂幅度的实证验证）** 经合组织 37 个系统数据显示：在政策端，62% 的系统设有资助政策[[Correlational Research\|相关研究]]的机制，但仅有 51% 设有识别决策者研究需求的机制（存在 11% 倒挂）；在实践端，49% 的系统资[[Teaching Assistant\|助教]]学实践相关研究，但仅有 32% 设有摸底教师教学研究需求的机制（存在 17% 倒挂）。
+> - **前提二（倒挂幅度的实证验证）** 经合组织 37 个系统数据显示：在政策端，62% 的系统设有资助政策[[Correlational Research\|相关研究]]的机制，但仅有 51% 设有识别决策者研究需求的机制（存在 11% 倒挂）；在实践端，49% 的系统资助教学实践相关研究，但仅有 32% 设有摸底教师教学研究需求的机制（存在 17% 倒挂）。
 > - **推导** 需求映射机制的滞后导致供给侧研究与需求侧真实痛点持续脱节，形成了“有供给无需求、有需求无证据”的系统性错配。
 
 > [!mechanism-map]- 影响因素五维架构与机制运行系统拓扑图
@@ -192,7 +189,7 @@ updated: 2026-10-09
 > [!theory-use] 如何用于研究
 > - **作为系统诊断框架** 用于教育行政部门和智库系统排查本地证据生态在五大维度的资源短板与结构梗阻，精准识别供需错配卡点。
 > - **作为干预方案设计蓝图** 指导[[Knowledge Mobilisation\|知识动员]]机构超越单向成果推送，设计涵盖“信息提炼 + 伙伴互动 + 组织工时支持 + 教师培训 + 文化引导”的复合行动方案。
-> - **作为比较教育分析工具** 为不同国家或地区的[[Evidence-Based Education\|循证教育]]体制提供多维度的机制[[Coding in Qualitative Research\|编码]]与制度比较基准。
+> - **作为比较教育分析工具** 为不同国家或地区的[[Evidence-Based Education\|循证教育]]体制提供多维度的机制编码与制度比较基准。
 
 > [!logic-map]- 系统诊断与干预优化分析流程
 > ```mermaid
@@ -220,7 +217,7 @@ updated: 2026-10-09
 > [!dev-timeline] 发展脉络
 > - **2000s — 循证医学与公共政策跨领域综述** Nutley et al. (2003, 2009) 梳理跨行业证据利用干预，提出个体、组织与系统三层作用机制，并指出单向传递的局限。
 > - **2010 — 三代模型透镜确立** Best & Holmes (2010) 归纳[[Knowledge Mobilisation\|知识动员]]的线性、关系与系统三大理论[[Paradigm\|范式]]，奠定机制分类的方法论基础。
-> - **2014 — 跨行业[[Systematic Review\|系统综述]]与类型学雏形** Humphries et al. (2014) 与 Oliver et al. (2014) 通过对公共卫生及公共管理领域海量[[Document\|文献]]的系统综述，提炼出阻碍与促成[[Research Utilization\|证据使用]]的核心维度，成为教育领域直接移植的母本。
+> - **2014 — 跨行业[[Systematic Review\|系统综述]]与类型学雏形** Humphries et al. (2014) 与 Oliver et al. (2014) 通过对公共卫生及公共管理领域海量文献的系统综述，提炼出阻碍与促成[[Research Utilization\|证据使用]]的核心维度，成为教育领域直接移植的母本。
 > - **2022 — [[OECD\|经合组织]][[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]跨国实证拓展** [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] 将类型学全面拓展至教育系统，划定五维框架，并利用经合组织 29 国 37 个教育系统调查数据进行跨国检验，揭示机制数量与障壁感知的非线性错配以及供需倒挂机制。
 
 ---

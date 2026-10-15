@@ -16,7 +16,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 42
+fact_related_count: 41
 fact_related_level: 5
 fact_related_stars: "⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -40,7 +40,6 @@ related_concepts:
   - "[[Causality]]"
   - "[[Policymaking Chronosystem]]"
   - "[[Evidence-Based Education]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Implementation Fidelity]]"
   - "[[Grade Retention]]"
   - "[[Paradigm]]"
@@ -81,7 +80,7 @@ related_instruments: []
 confidence: high
 status: stable
 created: 2026-09-16
-updated: 2026-09-26
+updated: 2026-10-15
 ---
 # Every Student Succeeds Act
 
@@ -160,7 +159,7 @@ updated: 2026-09-26
 
 > [!pathways]- 实施路径与机制传导
 > - **自上而下的财政杠杆驱动** 联邦通过 Title I 改进基金（Section 1003）与 Title II 教师专业发展竞争性加分，建立强有力的财政激励杠杆。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 25)]]
-> - **独立第三方[[Transfer Translation Transformation\|转译]]平台降低搜索成本** 依托 [[Evidence for ESSA]] 与 [[What Works Clearinghouse\|WWC]] 平台，提供瓷砖卡片式直观证据展示，打通学区决策者与学术证据之间的转译壁垒。
+> - **独立第三方转译平台降低搜索成本** 依托 [[Evidence for ESSA]] 与 [[What Works Clearinghouse\|WWC]] 平台，提供瓷砖卡片式直观证据展示，打通学区决策者与学术证据之间的转译壁垒。
 > - **地方高保真落地与教师自主赋权** 通过教师民主投票准入机制（如 [[Success for All\|SFA]] 需 80% 教师赞成票）与常态化在岗教练指导，确保方案在薄弱学校落地时的[[Implementation Fidelity\|实施保真度]]。
 > - **基层微观合规中的单项研究依赖与采购惯性** 大型学区的实证审计表明，在政策执行中，学区倾向于采取文牍主义合规策略，仅凭单项合格研究为既有人事编制与商业供应商合同背书，使超过 95% 的资金在不重组既有支出的前提下轻松跨过法定红线。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, pp. 174–177)]]
 

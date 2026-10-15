@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 30
+fact_related_count: 28
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -34,8 +34,6 @@ related_concepts:
   - "[[Big Science]]"
   - "[[Research Question]]"
   - "[[Output-Oriented Governance]]"
-  - "[[APA Style]]"
-  - "[[Teaching Assistant]]"
   - "[[Theory of Knowledge]]"
   - "[[Value Neutrality]]"
   - "[[Educational Brokerage Agency]]"
@@ -63,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-03
+updated: 2026-10-15
 ---
 
 # American Educational Research Association
@@ -115,7 +113,7 @@ updated: 2026-10-03
 > - **全球旗舰学术出版群** 出版教育学界最高影响因子的期刊群，包括《美国教育研究杂志》（AERJ）、《教育研究者》（Educational Researcher）、《教育研究评论》（Review of Educational Research, RER）以及开放获取期刊《AERA Open》。
 > - **年度国际学术盛会（AERA Annual Meeting）** 全球规模最大的教育研究学术会议，每年吸引全球超过 1.5 万名研究者、决策者与实践者就上万篇前沿论文开展研讨交流。
 > - **AERA [[AERA Congressional Fellowship Program\|国会政策研究员计划]]** 选拔处于职业生涯中前期的优秀教育学者，全额资助其入驻美国参众两院议员或专门委员会办公室担任为期一年的全职立法幕僚，培育兼通高深学问与政策逻辑的领军人才。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 46–47)]]
-> - **行业黄金标准指南** 与美国心理学会（[[APA Style\|APA]]）、全美教育测量学会（NCME）联合研制并定期修订出版《教育与心理测试标准》（Standards for Educational and Psychological Testing），成为全美教育评价、法庭裁判与行政问责的法定技术基石。
+> - **行业黄金标准指南** 与美国心理学会（APA）、全美教育测量学会（NCME）联合研制并定期修订出版《教育与心理测试标准》（Standards for Educational and Psychological Testing），成为全美教育评价、法庭裁判与行政问责的法定技术基石。
 > - **国会山立法参访与政策宣讲（Capitol Hill Days）** 每年组织学者代表团开展数十场与国会两院议员及幕僚的面对面简报会，就联邦科研预算（[[Institute of Education Sciences\|IES]] 与 [[National Science Foundation\|NSF]]）、平权法案与心理健康等紧迫议题输送非党派实证研究支撑。
 
 > [!citation-card] 学会核心使命宣言
@@ -129,7 +127,7 @@ updated: 2026-10-03
 
 > [!finding-cards] 关键成效与辐射影响
 > - **奠定现代教育科学的研究规范与方法伦理** AERA 制定的同行评议准则、测试标准及科研伦理指南，深刻规范了近一个世纪以来的全球教育研究，成为世界各国教育研究协会参照的核心模板。
-> - **打通象牙塔与国会山的制度化沟通闭环** 通过国会政策研究员机制与常设政府关系管道，AERA 成功帮[[Teaching Assistant\|助教]]育学界打破了“自我循环、自说自话”的狭隘天地，使研究证据有效嵌入了联邦 [[Elementary and Secondary Education Act of 1965\|ESEA]] 历次重新授权、IDEA 残障学生立法及[[Higher Education Act of 1965\|高等教育法]]案（HEA）的修正案起草中。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 46–47)]]
+> - **打通象牙塔与国会山的制度化沟通闭环** 通过国会政策研究员机制与常设政府关系管道，AERA 成功帮助教育学界打破了“自我循环、自说自话”的狭隘天地，使研究证据有效嵌入了联邦 [[Elementary and Secondary Education Act of 1965\|ESEA]] 历次重新授权、IDEA 残障学生立法及[[Higher Education Act of 1965\|高等教育法]]案（HEA）的修正案起草中。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 46–47)]]
 > - **捍卫教育科学研究的联邦预算底线** 在历次联邦财政紧缩与意识形态冲击期间，AERA 联合全美高等教育联盟，持续游说国会捍卫对 [[Institute of Education Sciences\|IES]] 与 [[National Science Foundation\|NSF]] 科学教育研究的拨款规模，确保了全美大规模实证教育科研的财政命脉。
 
 ---

@@ -10,7 +10,7 @@ aliases:
 summary: "基于争议性、复杂性与不确定性解构社会问题与创新方案，划分二维象限并阐释三条收敛治理路径的政策分析框架"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 28
+theory_related_count: 27
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -22,7 +22,6 @@ tags:
   - science-policy
 related_concepts:
   - "[[Mission-Oriented Innovation Policy]]"
-  - "[[Document]]"
   - "[[Wicked Problem]]"
   - "[[Grand Challenges]]"
   - "[[Transformative System Failures]]"
@@ -56,7 +55,7 @@ related_theories:
 confidence: medium
 status: draft
 created: 2026-10-03
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Problem-Solution Space for Mission-Oriented Innovation Policy
@@ -67,7 +66,7 @@ updated: 2026-10-09
 
 > [!theory-position] 理论定位
 > - **解释对象** [[Mission-Oriented Innovation Policy|使命导向创新政策]]（Mission-Oriented Innovation Policy, MIP）在应对复杂社会挑战时，如何识别社会问题与创新解决方案两端的特征错位，并通过差异化的政策路径推动两者走向合法化收敛。
-> - **理论问题** 回应既有使命政策[[Document|文献]]过度预设问题共识明确且技术方案可行（即阿波罗登月式的工程确定性思维）、忽视重大社会系统转型中价值撕裂、部门管辖冲突与认知未知的理论盲区。
+> - **理论问题** 回应既有使命政策文献过度预设问题共识明确且技术方案可行（即阿波罗登月式的工程确定性思维）、忽视重大社会系统转型中价值撕裂、部门管辖冲突与认知未知的理论盲区。
 > - **理论类型** 属于中观制度[[Analytic Framework|分析框架]]与政策过程理论（Policy Process Theory）。
 > - **知识位置** 深度融合了规划学与公共管理中的[[Wicked Problem|棘手问题]]理论（Rittel & Webber, 1973）、科技政策中的变革性系统转型框架（Weber & Rohracher, 2012; Schot & Steinmueller, 2018）以及多层级社会–技术转型视角（Geels, 2004）。
 
@@ -296,4 +295,4 @@ updated: 2026-10-09
 ## 理论演进与应用研究
 
 > [!evidence-grid-a] 应用研究索引
-> - [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] — 原始提出[[Document|文献]]，运用公共场所禁烟、闭路电视监控与荷兰陆上风电三大经典案例系统论证了二维空间框架与三条收敛路径的解释力。
+> - [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]] — 原始提出文献，运用公共场所禁烟、闭路电视监控与荷兰陆上风电三大经典案例系统论证了二维空间框架与三条收敛路径的解释力。

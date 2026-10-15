@@ -14,7 +14,7 @@ aliases:
 summary: "教师、同伴或技术工具在学习者最近发展区内提供的临时性认知与教学支持结构，通过任务拆解、启发提示与系统性渐隐，协助学习者跨越能力边界并将外部支持内化为自主心智能力。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 69
+related_count: 67
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Working Memory]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Automation Bias]]"
-  - "[[Teaching Assistant]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Learning Gain]]"
   - "[[Direct Instruction]]"
@@ -52,7 +51,6 @@ related_concepts:
   - "[[Alternative Hypothesis]]"
   - "[[Wicked Problem]]"
   - "[[Structured Teaching]]"
-  - "[[Document]]"
   - "[[Justificatory Standards]]"
   - "[[Trust Calibration]]"
   - "[[Epistemic Friction]]"
@@ -101,7 +99,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-05
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Scaffolding
@@ -115,7 +113,7 @@ updated: 2026-10-08
 
 > [!concept-lens] 概念透镜
 > - **含义** 支撑学习者在超出当前独立能力但处于潜在能力范围的区间内展开探究的动态辅助体系。
-> - **用途** 帮[[Teaching Assistant\|助教]]学研究者审视外部介入如何降低无关认知负荷并诱发深度心智建构。
+> - **用途** 帮助教学研究者审视外部介入如何降低无关认知负荷并诱发深度心智建构。
 > - **边界** 脚手架必须具备动态可变性与“可撤除性”（渐隐原则）；缺乏撤除机制的永久性外部拐杖不属于脚手架，而属于替代性代劳工具。
 
 > [!citation-card] 支架适度窗口与[[Inquiry-Based Learning\|指导式探究]]的[[Meta-analysis\|元分析]]确证
@@ -226,7 +224,7 @@ updated: 2026-10-08
 > 探讨生成式技术环境下脚手架如何超越单纯的步骤简化，转向协同重塑认识信念，确立技术提示与教学法双轨干预对发展高阶评价性心智的充要性。
 
 > [!claim] Wu, J.-Y., Lee, Y.-H., Chai, C. S., & [[Chin-Chung Tsai\|Tsai, C.-C.]]
-> **双轨干预支架对[[Evaluativist\|评价主义认识立场]]的培育机制** 在人机协同探究中，学习者若缺乏外在支架引导，极易滞留在绝对主义（盲从 AI 答案与算法幻觉）或相对主义（随意拼贴主观观点）阶段。唯有建立双轨干预支架矩阵，才能催化其向评价主义认识立场演进：① **技术提示支架** 运用[[Role-playing\|角色扮演]]指令赋予 AI 特定专家视角，结合[[Chain-of-Thought Prompting\|思维链]]（CoT）分步提示解构推理链条，并通过检索增强生成提供可溯源依据；② **教学法支架** 设计跨[[Document\|文献]]交叉核验、同伴盲评辩难、反思日志追踪与教师启发式追问规程。双轨支架共同构筑了人机共生学习的安全防线，确保认知负荷在合理卸载的同时，[[Epistemic Agency\|认识主体性]]与证据[[Justificatory Standards\|确证标准]]由人类牢固掌控。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–365)]]
+> **双轨干预支架对[[Evaluativist\|评价主义认识立场]]的培育机制** 在人机协同探究中，学习者若缺乏外在支架引导，极易滞留在绝对主义（盲从 AI 答案与算法幻觉）或相对主义（随意拼贴主观观点）阶段。唯有建立双轨干预支架矩阵，才能催化其向评价主义认识立场演进：① **技术提示支架** 运用[[Role-playing\|角色扮演]]指令赋予 AI 特定专家视角，结合[[Chain-of-Thought Prompting\|思维链]]（CoT）分步提示解构推理链条，并通过检索增强生成提供可溯源依据；② **教学法支架** 设计跨文献交叉核验、同伴盲评辩难、反思日志追踪与教师启发式追问规程。双轨支架共同构筑了人机共生学习的安全防线，确保认知负荷在合理卸载的同时，[[Epistemic Agency\|认识主体性]]与证据[[Justificatory Standards\|确证标准]]由人类牢固掌控。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–365)]]
 
 ---
 
@@ -325,7 +323,7 @@ updated: 2026-10-08
 ## 应用案例
 
 > [!example] 典型教学与干预案例
-> - **中学科学探究中的双轨提示与同行盲评支架** 在中学气候变化探究教学中，教师为学生提供[[Chain-of-Thought Prompting\|思维链]]（CoT）与[[Role-playing\|角色扮演]]提示模板（技术提示支架），引导 AI 分步呈现温室效应机理；随后教师组织小组开展多源[[Document\|文献]]比对，并进行组间匿名盲评与辩论（教学法支架），成功将学生的盲从心理引导至对模型输出的严密批判与证据检验。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 362–364)]]
+> - **中学科学探究中的双轨提示与同行盲评支架** 在中学气候变化探究教学中，教师为学生提供[[Chain-of-Thought Prompting\|思维链]]（CoT）与[[Role-playing\|角色扮演]]提示模板（技术提示支架），引导 AI 分步呈现温室效应机理；随后教师组织小组开展多源文献比对，并进行组间匿名盲评与辩论（教学法支架），成功将学生的盲从心理引导至对模型输出的严密批判与证据检验。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 362–364)]]
 > - **高校跨学科研究中的多角色视角与反思日志支架** 在高校可持续发展课程中，学生要求 AI 分别扮演环保学者、经济学家与政策制定者生成相互冲突的论点（技术提示支架）；教师要求学生撰写论证反思日志并阐明自身立场的证据权衡依据（教学法支架），有效促成评价主义[[Epistemic Stances\|认识立场]]的成熟。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 364–365)]]
 > - **Q-Tutor 双模态架构：以[[Skill of Questioning|提问技能]]训练抵御[[Cognitive Deskilling|认知去技能化]]** [[Argument_Naeem_2026_Episteme|Naeem (2026)]] 设想了小学理科课堂中 Q-Tutor 的运作场景：在 AI 主导探究阶段，系统围绕"人体器官功能"从事实层级（"消化系统包含哪些器官？"）逐步引向因果机制层级（"该器官的内部结构与其功能之间有何关系？"），学生始终无法从 AI 获得直接答案；在学生主导练习阶段，双方角色互换，学生主动提问，AI 仅提供反馈与聚焦提示。这种双模态架构实质上是将渐隐原则嵌入交互设计本身——从 AI 示范追问到学生自主构问，完成了从外部支架向内化自我追问能力的过渡。[[Argument_Naeem_2026_Episteme\|(Naeem, 2026, pp. 275–278)]]
 

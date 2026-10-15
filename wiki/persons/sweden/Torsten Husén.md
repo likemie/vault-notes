@@ -8,7 +8,7 @@ summary: "瑞典教育学家与心理测量学家，斯德哥尔摩大学国际�
 type: person
 nationality: sweden
 person_region: "sweden"
-person_related_count: 31
+person_related_count: 30
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Growth]]"
   - "[[Rightness]]"
-  - "[[Document]]"
   - "[[Lifelong Learning]]"
   - "[[Postpositivism]]"
   - "[[Scientism]]"
@@ -61,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-08
-updated: 2026-10-02
+updated: 2026-10-15
 ---
 
 # Torsten Husén
@@ -98,7 +97,7 @@ updated: 2026-10-02
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **1967 — *International Study of Achievement in Mathematics: A Comparison of Twelve Countries***（跨国数学成就研究） [[IEA]] 奠基性两卷本[[Document\|文献]]，开创以世界各国为“教育自然实验室”的跨国大样本标准化成就测量体系。
+> - **1967 — *International Study of Achievement in Mathematics: A Comparison of Twelve Countries***（跨国数学成就研究） [[IEA]] 奠基性两卷本文献，开创以世界各国为“教育自然实验室”的跨国大样本标准化成就测量体系。
 > - **1972 — *Social Background and Educational Career***（社会背景与教育生涯） 追踪实证数据探讨教育机会均等与社会分层，揭示家庭背景对[[Academic Achievement\|学业成就]]的持续制约。
 > - **1974 — *The Learning Society***（学习社会） 呼应[[Lifelong Learning\|终身教育]]理念，探索突破传统正规学校围墙的宽泛学习社会建构。
 > - **1979/1982 — *The School in Question: A Comparative Study of the School and Its Future in Western Societies***（面临质疑的学校：西方社会学校及其未来的比较研究） 系统诊断西方学校教育的制度合法性危机与战后科学规划承诺的破灭。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 68–69)]]

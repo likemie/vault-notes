@@ -7,7 +7,7 @@ aliases:
 summary: "Stokes (1997) 提出的研究分类概念，指既追求基础理解又受应用考虑驱动的科研模式，以巴斯德为典范，区别于纯基础研究（玻尔象限）和纯应用研究（爱迪生象限），是理解 1980年代后大学研究取向变迁的关键概念"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 39
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -25,9 +25,7 @@ related_concepts:
   - "[[Valley of Death]]"
   - "[[Technology Transfer]]"
   - "[[Application Engineering]]"
-  - "[[Habitus]]"
   - "[[Empiricism]]"
-  - "[[Hypothesis]]"
   - "[[Corporate R&D Labs]]"
   - "[[Grand Challenges]]"
   - "[[University-Industry Collaboration]]"
@@ -64,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-27
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Use-Inspired Basic Research
@@ -99,7 +97,7 @@ updated: 2026-10-09
 > | **[[Curiosity-Driven Research\|纯基础研究]]（玻尔象限）** | **是**（极高） | **否**（极低） | 尼尔斯·玻尔（量子物理、原子结构理论） | 大学理论院系、自由探索型国家科学基金 |
 > | **应用启发的基础研究（[[Pasteur's Quadrant\|巴斯德象限]]）** | **是**（极高） | **是**（极高） | 路易·巴斯德（微生物发酵、疾病细菌理论） | [[Research Universities\|研究型大学]]产学工程中心、[[National Science Foundation\|NSF TIP]]、前沿国家实验室 |
 > | **纯应用研究（爱迪生象限）** | **否**（极低） | **是**（极高） | 托马斯·爱迪生（白炽灯丝、留声机商用改良） | 企业[[Application Engineering\|应用工程]]部门、商业化技术孵化器 |
-> | **纯技能归纳（第四象限）** | **否**（极低） | **否**（极低） | 鸟类生活[[Habitus\|习性]]记录、分类图谱绘制 | 早期业余观察者、经验数据收集团队 |
+> | **纯技能归纳（第四象限）** | **否**（极低） | **否**（极低） | 鸟类生活习性记录、分类图谱绘制 | 早期业余观察者、经验数据收集团队 |
 
 ---
 
@@ -107,7 +105,7 @@ updated: 2026-10-09
 
 > [!feature] 应用启发的基础研究四大构成支柱
 > - **机理深度与规律探究** 必须具备学术严谨性，致力于揭示深层物理、化学、生物或计算机制，区别于[[Empiricism|经验主义]]试错。
-> - **源头问题牵引与应用约束** 科研[[Hypothesis|假设]]直接源于国家重大战略瓶颈、产业工程痛点或公共社会需求（如碳减排、先进制程芯片封装）。
+> - **源头问题牵引与应用约束** 科研假设直接源于国家重大战略瓶颈、产业工程痛点或公共社会需求（如碳减排、先进制程芯片封装）。
 > - **跨学科与产学界面共生** 依托跨学科工程中心或公私合作机制，促进高校科学家与产业工程师在同一问题域中协同攻关。
 > - **制度化转化与敏捷反馈** 建立双向反馈通道，使实验室前沿突破迅速进入产业验证，产业工程瓶颈反向刺激新的科学探索。
 

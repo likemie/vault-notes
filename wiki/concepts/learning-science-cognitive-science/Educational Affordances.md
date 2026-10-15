@@ -10,10 +10,10 @@ aliases:
 summary: "源自生态心理学与教育技术学的核心构念，指技术工具在特定教学情境中与学习者及任务环境交互时所展现出的、可被感知并支持特定认知与教学行动的客观使能属性。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 40
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 39
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - field/educational-technology
   - field/learning-sciences
@@ -43,7 +43,6 @@ related_concepts:
   - "[[Evaluative Judgement]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[Ontology]]"
-  - "[[Document]]"
   - "[[Variable]]"
   - "[[AI Agent in Education]]"
   - "[[Problem Solving]]"
@@ -222,7 +221,7 @@ updated: 2026-10-15
 > > - **社会建构论** 强调行动者的素养、文化背景与社会实践塑造了可供性的实际样态。
 >
 > > [!axis] 泛化滥用倾向与概念边界模糊
-> > 批评教育技术[[Document\|文献]]中常将“可供性”作为普通“优点/功能（Benefits/Features）”的华丽代名词，丧失了其独特的关系性理论解释力。
+> > 批评教育技术文献中常将“可供性”作为普通“优点/功能（Benefits/Features）”的华丽代名词，丧失了其独特的关系性理论解释力。
 
 ---
 

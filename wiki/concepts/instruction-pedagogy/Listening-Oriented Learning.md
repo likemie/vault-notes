@@ -8,7 +8,7 @@ aliases:
 summary: "东亚课堂中以倾听为核心的学习方式，强调通过专注倾听、内化和反思参与学习，沉默不等于被动"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 12
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,7 +19,6 @@ tags:
   - field/comparative-education
   - field/instruction-pedagogy
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Homework]]"
   - "[[Revoicing]]"
   - "[[Action Better Than Words]]"
@@ -58,7 +57,7 @@ updated: 2026-10-15
 
 **1. 沉默不等于被动**
 
-最根本的纠正：将东亚学生的沉默等同于被动和缺乏投入，是一个"基于西方[[Hypothesis|假设]]的错误"。一位中国小学生的自述："我可能在听，但我不是被动。我在脑子里学习。我从老师那里学，我也从我的朋友做了什么中学。如果他们犯了错误，我也从中学到"（Cortazzi & Jin, 引用于 Li, 2012, p.117）。
+最根本的纠正：将东亚学生的沉默等同于被动和缺乏投入，是一个"基于西方假设的错误"。一位中国小学生的自述："我可能在听，但我不是被动。我在脑子里学习。我从老师那里学，我也从我的朋友做了什么中学。如果他们犯了错误，我也从中学到"（Cortazzi & Jin, 引用于 Li, 2012, p.117）。
 
 **2. 沉默参与（Silent Participation）**
 

@@ -98,7 +98,7 @@ updated: 2026-10-08
 > [!proc] 核心扣锁指标与风险排查规程
 > 1. **设计类型初评** 只有实施质量合格的 [[Randomised Controlled Trials\|RCT]] 设计有资格获得最高 5 把锁起点；[[Quasi-Experimental Designs\|准实验设计]]（QED）无论样本规模多大，其初始最高评级通常不得超过 3 把锁。
 > 2. **[[Sample Size Determination\|样本量]]与统计功效核查** 审查试验的最小可测[[Effect Size\|效应量]]（MDES）。若样本量不足导致统计功效低于 80% 或 MDES 过大，直接扣减 1 把锁。
-> 3. **总体[[Attrition\|流失]]与差异流失判定** 审查[[Pre-test and Post-test\|后测]]学生脱落比例。总体流失率若超过 30%，评级直接下调；若处理组与对照组之间出现统计学显著的差异流失，扣减 1–2 把锁。
+> 3. **总体流失与[[Attrition|差异流失]]判定** 审查[[Pre-test and Post-test\|后测]]学生脱落比例。总体流失率若超过 30%，评级直接下调；若处理组与对照组之间出现统计学显著的差异流失，扣减 1–2 把锁。
 > 4. **基线失衡核查** 检验实验组与对照组在前测统考成绩或核心人口统计学[[Variable\|变量]]上的标准化均值差。若基线差异较大且未能在主分析模型中充分校正，扣减 1 把锁。
 > 5. **测量工具效度风险** 若主要结局指标未采用具有广泛[[External Validity\|外部效度]]的全国标准化考试（如英格兰[[National Pupil Database\|国家学生数据库]]（National Pupil Database，NPD）成绩），而是采用了开发者自行定制、过度贴合干预内容的非标准化测验，扣减 1 把锁。
 > 6. **保真度与污染核查** 若[[Implementation and Process Evaluation\|实施与过程评估]]（Implementation and Process Evaluation，IPE）表明对照组大面积接触了类似干预或存在实施严重妥协，视偏倚威胁严重程度扣锁。
@@ -114,7 +114,7 @@ updated: 2026-10-08
 > | **目标受众** | 面向中小学校长、高级管理团队与基层教师 | 面向学区管理者、政策研究人员与联邦采购官员 |
 > | **呈现载体** | 直接嵌入《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》与独立评估报告封面 | 录入 WWC 官方数据库干预报告表格中 |
 > | **独立性约束** | 仅评估由独立评估团队完成的研究 | 允许项目开发者自评研究进入最高评级 |
-> | **[[Attrition\|流失]]率门槛** | 3 锁门槛要求总流失率低于 30% | 结合总体流失与差异流失的复合边界曲线（允许总流失达 50% 以上） |
+> | **流失率门槛** | 3 锁门槛要求总流失率低于 30% | 结合总体流失与[[Attrition\|差异流失]]的复合边界曲线（允许总流失达 50% 以上） |
 
 > [!warning] 方法学争议与单指标局限
 > - **多维偏倚的单维压缩争议** 学术界批评挂锁评级试图用单一数值总结研究质量，可能掩盖不同类型方法学威胁的[[Heterogeneity\|异质性]]。例如，两项同为 3 把锁的研究，一项可能是因为[[Sample Size Determination\|样本量]]偏小，另一项则可能是因为测量工具效度较弱，其证据性质截然不同（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]）。
@@ -125,5 +125,5 @@ updated: 2026-10-08
 ## 使用该工具的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 详细阐述了 [[Education Endowment Foundation\|EEF]] 挂锁安全评级的创设动因与标准演进，指出截至 2019 年 EEF 已发表的 95 项影响评估报告中，89% 采用 [[Randomised Controlled Trials\|RCT]] 设计，85% 获得了 3 把锁及以上的安全评级（总体[[Attrition\|流失]]率严格控制在 30% 以下），并系统反思了单一度量标尺在沟通不确定性与方法学严谨性之间的权衡。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill (2021)]] — 详细阐述了 [[Education Endowment Foundation\|EEF]] 挂锁安全评级的创设动因与标准演进，指出截至 2019 年 EEF 已发表的 95 项影响评估报告中，89% 采用 [[Randomised Controlled Trials\|RCT]] 设计，85% 获得了 3 把锁及以上的安全评级（总体流失率严格控制在 30% 以下），并系统反思了单一度量标尺在沟通不确定性与方法学严谨性之间的权衡。
 > - [[Argument_Gorard_2020_ROE\|Gorard et al. (2020)]] — 指出其早期研发的研究可[[Reliability\|信度]]筛子构成了 EEF 挂锁安全评级的思想雏形与技术前身，反思了挂锁系统在向更技术化、少主观判断方向演进时，如何通过设立明确扣锁规则来规范大规模因果证据的确定性传达。

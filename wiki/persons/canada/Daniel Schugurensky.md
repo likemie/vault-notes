@@ -63,7 +63,7 @@ updated: 2026-10-15
 > - **核心角色** 高等教育政治经济学与参与式公民权研究先驱；率先提出了[[World Bank|世界银行]]与美国[[Business Roundtable|商业圆桌会]]在教育重塑中的“[[Selective Affinity|选择性亲和]]”（Elective Affinity）命题；深入剖析了新自由主义跨国金融机构如何通过[[Policy Conditionalities|贷款附加条件]]重构全球南方公立高等教育生态。
 > - **代表贡献** 揭示世界银行与商业圆桌会在推行教育市场化改革中的意识形态共振（1994）；对阿根廷布宜诺斯艾利斯大学（UBA）重组开展具有深远影响的深度制度[[Case Study|案例研究]]；出版《参与式预算中的公民身份与地方治理》（2011）。
 
-> [!citation-card]- [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]论舒古伦斯基的世行与商业圆桌会选择性亲和分析
+> [!citation-card]- [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论舒古伦斯基的世行与商业圆桌会选择性亲和分析
 > 在研究世界银行对全球高等教育的影响时，丹尼尔·舒古伦斯基指出，世界银行在国际层面扮演的角色，与美国商业圆桌会凭借其教育改革议程在美国本土所扮演的角色极为相似。简而言之，世界银行所推行的政策与商业圆桌会层出不穷的新自由主义和新保守主义提案之间，存在着深刻的选择性亲和。[[Argument_Olmos_Torres_2009_StateTheories|(Schugurensky, 1994; Olmos & Torres, 2009, p. 81)]]
 >
 > *Daniel Schugurensky has argued that the World Bank plays a role at an international level similar to the one played by the Business Roundtable in the United States with its agenda for educational reform. In short, there is an elective affinity between the policies promoted by the World Bank and the many neoliberal and neoconservative proposals emanating from the Business Roundtable (Schugurensky, 1994).*

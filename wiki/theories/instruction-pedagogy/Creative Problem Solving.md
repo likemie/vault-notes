@@ -8,7 +8,7 @@ aliases:
 summary: "由奥斯本与帕内斯创立的经典结构化认知干预模型，通过理解挑战、生成观念与准备行动三大阶段六大循环，交替实施发散与收敛思维以系统解决不良结构问题。"
 type: theory
 theory_field: "instruction-pedagogy"
-theory_related_count: 29
+theory_related_count: 28
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -35,7 +35,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Construct]]"
   - "[[Critical Thinking]]"
-  - "[[Hypothesis]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
@@ -55,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-09-23
+updated: 2026-10-15
 ---
 
 # Creative Problem Solving
@@ -195,4 +194,4 @@ updated: 2026-09-23
 > - Scott et al. (2004) — 对[[Creativity Training\|创造力训练]]开展里程碑式[[Meta-analysis\|元分析]]，证实 CPS 产生 $d = 0.74$ 的综合提升效应。
 > - Ma (2006) — 系统元分析证实复合认知训练程序对创造力发展的显著促进（$d = 0.77$）。
 > - [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] — 针对高校干预开展[[Three-Level Meta-Analysis\|多层元分析]]，量化检验了 CPS 等技术型训练（$g = 0.552$）及[[Problem Solving\|问题解决]][[Construct\|构念]]（$g = 0.539$）的提升幅度，证实中短期干预（$< 2$ 个月 $g = 0.844$）与个体发散练习（$g = 0.682$）的显著优势。
-> - [[Argument_Park_2026_TSC\|Park et al. (2026)]] — 在[[Meta-analysis\|元分析]]中将 CPS（Isaksen & Treffinger, 2004）引为把批判性评价纳入创造力必要阶段的整合模型，支持[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]边界比传统[[Hypothesis\|假设]]更可渗透。
+> - [[Argument_Park_2026_TSC\|Park et al. (2026)]] — 在[[Meta-analysis\|元分析]]中将 CPS（Isaksen & Treffinger, 2004）引为把批判性评价纳入创造力必要阶段的整合模型，支持[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]边界比传统假设更可渗透。

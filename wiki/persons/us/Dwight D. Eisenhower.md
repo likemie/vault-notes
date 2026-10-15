@@ -9,7 +9,7 @@ summary: "美国第34任总统、陆军五星上将，在二战中担任盟军�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 10
+person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -24,7 +24,6 @@ tags:
   - theme/democracy
 related_concepts:
   - "[[Grandes Ecoles]]"
-  - "[[Document]]"
   - "[[Technological Agnosticism]]"
   - "[[Technological Republic]]"
   - "[[Hard Power]]"
@@ -42,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Dwight D. Eisenhower
@@ -79,7 +78,7 @@ updated: 2026-10-08
 
 ## 主要演讲与战略文献
 
-> [!work-line] 关键历史[[Document|文献]]
+> [!work-line] 关键历史文献
 > - **1953 — *Atoms for Peace (UN Speech)*** 提出原子能用于和平用途的国际治理构想。
 > - **1958 — *National Defense Education Act ([[National Defense Education Act of 1958|NDEA]])*** 将联邦教育资助与国家安全及科学技术人才培养紧密绑定。
 > - **1961 — *Farewell Address to the Nation*** 警示军工复合体的无序膨胀与公共政策被科技精英俘获的宪政危机。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 71)]]

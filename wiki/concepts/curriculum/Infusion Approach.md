@@ -7,7 +7,7 @@ aliases:
 summary: "在常规学科教学中深入探究学科内容的同时，将通用的批判性思维原则与评价标准显性示范与教授给学生的课程实施模式"
 type: concept
 domain: "curriculum"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -17,7 +17,6 @@ tags:
   - theme/pedagogy
 related_concepts:
   - "[[Critical Thinking]]"
-  - "[[Hypothesis]]"
   - "[[Reliability]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Immersion Approach]]"
@@ -40,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-03
+updated: 2026-10-15
 ---
 
 # Infusion Approach
@@ -50,7 +49,7 @@ updated: 2026-10-03
 ## 定义
 
 > [!def] 核心定义
-> 学科融入模式（Infusion Approach，亦称[[Critical Thinking\|批判性思维]]融入法）是由 Robert Ennis (1989) 提出的批判性思维课程四分法中的核心支柱。它指在深入学习常规学科知识（如历史、生物、化学、文学）的过程中，**教师有意识地将通用的批判性思维原则、逻辑规则与评价标准（如[[Hypothesis\|假设]]识别、证据可[[Reliability\|信度]]评估、因果推论原则）直接向学生显性化讲授并示范**，引导学生在学科探究情境中深度应用这些思维规则。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, p. 281)]]
+> 学科融入模式（Infusion Approach，亦称[[Critical Thinking\|批判性思维]]融入法）是由 Robert Ennis (1989) 提出的批判性思维课程四分法中的核心支柱。它指在深入学习常规学科知识（如历史、生物、化学、文学）的过程中，**教师有意识地将通用的批判性思维原则、逻辑规则与评价标准（如假设识别、证据可[[Reliability\|信度]]评估、因果推论原则）直接向学生显性化讲授并示范**，引导学生在学科探究情境中深度应用这些思维规则。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, p. 281)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 兼具“学科知识学习”与“显性思维规则训练”的双重教学目标。

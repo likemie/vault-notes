@@ -9,7 +9,7 @@ aliases:
 summary: "由 2001 年美国《不让一个孩子掉队法》（NCLB）与 2002 年《教育科学改革法》（ESRA）确立的联邦法定证据准入标准，强调运用严谨、系统与客观的实证程序（优先青睐实验与准实验设计）获取教育有效知识，后因缺乏操作化分级及对原则与评估的混淆，在 2015 年 ESSA 中被四级循证标准替代"
 type: concept
 domain: "educational-policy-reform"
-related_count: 62
+related_count: 60
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Evidence Standards]]"
   - "[[Reflective Thinking]]"
   - "[[Evidence-Based Reform]]"
-  - "[[Hypothesis]]"
   - "[[Research Question]]"
   - "[[Performance Pay]]"
   - "[[Discourse]]"
@@ -40,7 +39,6 @@ related_concepts:
   - "[[Analytical Stance]]"
   - "[[Scientific Method]]"
   - "[[Heterogeneity]]"
-  - "[[Attrition]]"
   - "[[Implementation Fidelity]]"
 related_theories: []
 related_methods:
@@ -133,7 +131,7 @@ updated: 2026-10-15
 
 > [!tension]- 法定科学本位研究的双重制度功能分野
 > 联邦政策文本中的“科学本位研究”并非均质铁板一块，而是存在着根本性的制度功能区隔：
-> - **服务经费支出证明（Service-Provider Expenditure Justification）** 涵盖 1998 年 REA、2001 年 NCLB、残疾人教育法案（IDEA）与[[Higher Education Act of 1965|高等教育法]]案（HEA）相关条款。其制度意图在于规约学区与项目受资助者如何使用联邦专项资金购买教学服务，因而偏好设定狭隘的[[Hypothesis|假设]]检验与实验因果门槛以证明资金效益。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–33)]]
+> - **服务经费支出证明（Service-Provider Expenditure Justification）** 涵盖 1998 年 REA、2001 年 NCLB、残疾人教育法案（IDEA）与[[Higher Education Act of 1965|高等教育法]]案（HEA）相关条款。其制度意图在于规约学区与项目受资助者如何使用联邦专项资金购买教学服务，因而偏好设定狭隘的假设检验与实验因果门槛以证明资金效益。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–33)]]
 > - **科研资助范围划定（Research Funding Parameters）** 涵盖 2000 年卡斯尔草案（H.R. 4875）与 2002 年 ESRA。其制度意图在于界定联邦[[Institute of Education Sciences|教育科学研究院]]（IES）资助何种教育科研，最终立法摒弃了预设的方法学清单，确立了“研究设计与方法契合所提出[[Research Question|研究问题]]”的宽泛科学标准。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 33–34)]]
 
 ---
@@ -233,7 +231,7 @@ updated: 2026-10-15
 
 > [!claim] [[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne (2003)]]
 > **制度功能二重性与公共质证的杠杆效应** 玛格丽特·艾森哈特（Margaret Eisenhart）与丽莎·汤恩（Lisa Towne, 2003）反驳了将华盛顿政策源流混同为单一实证霸权的倾向，指出科学本位研究在成文法中具有清晰的双重功能分野：
-> 1. **服务提供法案（如 NCLB）** 旨在规约联邦公帑购买教学方案的支出合规，设定了偏向实验因果[[Hypothesis|假设]]检验的准入门槛；
+> 1. **服务提供法案（如 NCLB）** 旨在规约联邦公帑购买教学方案的支出合规，设定了偏向实验因果假设检验的准入门槛；
 > 2. **科研资助法案（如 [[Education Sciences Reform Act 2002|ESRA]]）** 旨在界定整体科学探究的边界。
 > 
 > 更为重要的是，法定标准并非不可撼动的实证霸权，而是留有公共审议的民主博弈空间：
@@ -288,7 +286,7 @@ updated: 2026-10-15
 > [!boundary] 适用边界与制度条件
 > - **规制型法制土壤依赖** 该概念作为硬性法律准入门槛，仅适用于联邦及州政府拥有明确财政专项拨款转移支付与集中问责权力的治理情境；在高度地方分权、依靠专业行会自律的教育体制中无法直接推行。
 > - **[[Causality|因果推断]]研究储备约束** 当全美或区域内合格的高质量实验干预方案存量过低时，强制推行 SBR 会导致制度空转，迫使学校在“违规无方案可用”与“借用理论包装形式主义过关”之间艰难妥协。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 22–24)]]
-> - **微观教学本土情境张力** 即使方案完全满足 SBR 的统计学因果标准，当其移植到生源[[Heterogeneity|异质性]]极高、师资[[Attrition|流失]]严重或资源匮乏的弱势学校时，若缺乏情境适配性调试，极易遭遇[[Implementation Fidelity|实施保真度]]崩溃。
+> - **微观教学本土情境张力** 即使方案完全满足 SBR 的统计学因果标准，当其移植到生源[[Heterogeneity|异质性]]极高、师资流失严重或资源匮乏的弱势学校时，若缺乏情境适配性调试，极易遭遇[[Implementation Fidelity|实施保真度]]崩溃。
 
 ---
 

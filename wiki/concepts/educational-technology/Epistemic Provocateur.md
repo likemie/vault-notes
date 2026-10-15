@@ -6,10 +6,10 @@ aliases:
 summary: "在人机协同探究中，生成式人工智能通过生成具有不完备性、拟人化修辞、逻辑跳跃或需辨析的暂定内容，主动激发学习者的认识论警觉与批判性核验本能，促使其从被动认知卸载转向深度审问与多源求证的教学中介角色。"
 type: concept
 domain: "educational-technology"
-related_count: 30
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - theme/artificial-intelligence
   - theme/epistemic-cognition
@@ -21,7 +21,6 @@ related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Epistemological Vigilance]]"
   - "[[Scaffolding]]"
-  - "[[Teaching Assistant]]"
   - "[[Epistemic Agency]]"
   - "[[Epistemic Scaffolding]]"
   - "[[Cognitive Offloading]]"
@@ -55,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Epistemic Provocateur
@@ -69,7 +68,7 @@ updated: 2026-10-07
 
 > [!concept-lens] 概念透镜
 > - **含义** 重新界定算法在教学中的认知功能：人工智能偶尔出现的错误、片面罗列与表征失真并非教学事故，而在显性[[Scaffolding|教学支架]]引导下被转化为打破思维惰性、激活批判性质询的“认知催化剂”。
-> - **用途** 帮[[Teaching Assistant|助教]]育研究者与教师摆脱“AI 即标准答案生成器”的传统工具主义偏见，设计以人为主导、算法为挑衅媒介的高阶探究活动，牢固维系学生的[[Epistemic Agency|认识主体性]]。
+> - **用途** 帮助教育研究者与教师摆脱“AI 即标准答案生成器”的传统工具主义偏见，设计以人为主导、算法为挑衅媒介的高阶探究活动，牢固维系学生的[[Epistemic Agency|认识主体性]]。
 > - **边界** 认识论挑衅者必须依托显性学科标准与反思提示支架才能发挥正向作用；若缺乏[[Epistemic Scaffolding|认识论支架]]与反思规范，算法输出的表面流畅性极易蜕化为诱发被动盲从与严重[[Cognitive Offloading|认知卸载]]的认知陷阱。
 
 > [!citation-card] 生成式人工智能的认识论挑衅者定位

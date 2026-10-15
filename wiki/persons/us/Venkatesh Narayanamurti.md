@@ -8,10 +8,10 @@ summary: "美籍印裔应用物理学家与科技政策学者，哈佛大学工�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 32
-person_related_level: 4
-person_related_stars: "⭐⭐⭐⭐"
-person_related_color: "#fce7f3"
+person_related_count: 29
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "1939"
 died: ""
 lifespan: "1939–至今"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Linear Model of Innovation]]"
   - "[[Epistemology]]"
   - "[[Research Translation]]"
-  - "[[Hypothesis]]"
   - "[[Long-Term Public Utility]]"
   - "[[Big Science]]"
   - "[[University-Industry Collaboration]]"
@@ -42,8 +41,6 @@ related_methods:
   - "[[Case Study]]"
 related_instruments: []
 related_persons:
-  - "[[Peter A. Hall]]"
-  - "[[Alfred Nobel]]"
   - "[[Vannevar Bush]]"
   - "[[Donald Stokes]]"
 related_facts:
@@ -62,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Venkatesh Narayanamurti
@@ -98,14 +95,14 @@ updated: 2026-10-12
 ## 主要著作与思想发展
 
 > [!thought-timeline] 思想发展
-> - **1970s–1980s — [[Bell Labs|贝尔实验室]]微观物理与工程工艺实践期** 亲历半导体激光器、分子束外延晶体生长与分数量子[[Peter A. Hall|霍尔]]效应的交叉研发，积累了对科学探索与工程制造相互促进的第一手组织经验。
+> - **1970s–1980s — [[Bell Labs|贝尔实验室]]微观物理与工程工艺实践期** 亲历半导体激光器、分子束外延晶体生长与分数量子霍尔效应的交叉研发，积累了对科学探索与工程制造相互促进的第一手组织经验。
 >   - **代表工作** 声子传输机制与半导体界面物理[[Experimental Research|实验研究]]。
 >   - **阶段经验** 认识到没有顶尖工程制造工艺与高纯硬件装备，微观理论物理学的新现象发现便无从谈起。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 33–35)]]
 > - **1990s–2000s — 大学工学院治理与能源技术创新反思期** 将跨学科组织管理经验引入高校与国家实验室，针对清洁能源[[Research Translation|技术转化]]瓶颈反思联邦科研资助政策。
 >   - **代表著作** *Transforming Energy Innovation* (Issues in Science & Technology, 2009)。
 >   - **关键概念／方法** 任务导向型科研机构、长期考评时间尺度、消除学科藩篱。
 >   - **阶段转向** 从具体的微电子与物理研究转向对战后美国科技治理制度病灶的系统反思。
-> - **2010s–至今 — [[Discovery-Invention Cycle|发现-发明循环]]理论体系化与二分法终结期** 针对[[Science, The Endless Frontier 1945|布什报告]]以来的线性创新[[Hypothesis|假设]]发起全面[[Epistemology|认识论]]批判，提出以[[Long-Term Public Utility|长期公共效用]]替代动机分类的国家科技资助新[[Paradigm|范式]]。
+> - **2010s–至今 — [[Discovery-Invention Cycle|发现-发明循环]]理论体系化与二分法终结期** 针对[[Science, The Endless Frontier 1945|布什报告]]以来的线性创新假设发起全面[[Epistemology|认识论]]批判，提出以[[Long-Term Public Utility|长期公共效用]]替代动机分类的国家科技资助新[[Paradigm|范式]]。
 >   - **代表著作** *RIP: The Basic/Applied Research Dichotomy* (2013); *Cycles of Invention and Discovery* (Harvard UP, 2016)。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–36)]]
 >   - **关键概念／方法** [[Discovery-Invention Cycle|发现-发明循环]]、发明与发现孪生通道、长期公共效用（Long-Term Public Utility）、系统研究瓶颈诊断。
 >   - **阶段转向** 全面重构战后科学政策理论，倡导建立融合型跨学科[[Organizational Culture|组织文化]]与全额托底关键工艺的公共资助机制。
@@ -137,7 +134,7 @@ updated: 2026-10-12
 > - **高等教育组织变革** 在哈佛大学主导推动工学院自文理学院独立设院，构建打破物理学、计算机科学与工程学传统院系藩篱的矩阵式跨学科科研与教学体系。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]] — 系统梳理纳拉亚纳穆尔提等人在 2013 年提出的批判基础/应用二分法、阐述六项[[Alfred Nobel|诺贝尔]]物理学奖双向演化谱系并确立[[Long-Term Public Utility|长期公共效用]]资助准绳的核心论据。
+> - [[Argument_Narayanamurti_2013_IST|Narayanamurti et al., 2013]] — 系统梳理纳拉亚纳穆尔提等人在 2013 年提出的批判基础/应用二分法、阐述六项诺贝尔物理学奖双向演化谱系并确立[[Long-Term Public Utility|长期公共效用]]资助准绳的核心论据。
 > - [[Argument_Logar_2014_Minerva|Logar et al., 2014]] — 纳拉亚纳穆尔提与合作者通过对[[Semiconductor Research Corporation|半导体研究公司]]（SRC）的深度[[Case Study|案例研究]]，提炼[[University-Industry Collaboration|产学合作]]与公私研发联合体在连接基础探索与应用需求中的三项组织有效性机制，并探讨向国家能源创新机构迁移的适用边界。
 
 ---

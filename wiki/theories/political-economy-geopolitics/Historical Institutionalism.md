@@ -85,7 +85,7 @@ updated: 2026-10-15
 ## 理论来源与形成
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 20 世纪 80 年代由赛达·[[Theda Skocpol|斯考切波]]（Theda Skocpol）、[[Peter A. Hall|彼得·A·霍尔]]（Peter A. Hall）（1986《治理经济》）等学者在“找回国家”运动中奠基；[[Peter A. Hall|霍尔]]与罗斯玛丽·泰勒（Rosemary C. R. Taylor）于 1996 年发表《政治学与新制度主义三大学派》（*Political Science and the Three New Institutionalisms*），正式在学术界确立其作为独立理论流派的核心坐标。
+> - **提出者与原始文本** 20 世纪 80 年代由赛达·[[Theda Skocpol|斯考切波]]（Theda Skocpol）、[[Peter A. Hall|彼得·A·霍尔]]（Peter A. Hall）（1986《治理经济》）等学者在“找回国家”运动中奠基；霍尔与罗斯玛丽·泰勒（Rosemary C. R. Taylor）于 1996 年发表《政治学与新制度主义三大学派》（*Political Science and the Three New Institutionalisms*），正式在学术界确立其作为独立理论流派的核心坐标。
 > - **原初问题** 为何具备相似经济发展水平的工业化民主国家（如英、法、德、美），在面对相似的外部经济冲击（如大萧条、两次世界大战、石油危机）时，会选择截然不同的经济干预与福利政策轨道。
 > - **理论资源与材料** 吸收[[Max Weber|马克斯·韦伯]]的国家官僚与支配组织理论、卡尔·波兰尼的嵌入性思想以及欧洲比较历史社会学传统；经验材料以欧美发达工业化国家长时段国家建设、福利资本主义与宏观经济治理档案为主。
 > - **形成路径** 将中观制度（国家机关、法律规约、政党体制、劳资工会）设定为连接宏观历史结构与微观政治行动的因果中介，确立“制度结构塑造权力分配与行动者偏好”的核心因果假定。
@@ -119,7 +119,7 @@ updated: 2026-10-15
 ## 核心命题
 
 > [!theory-proposition] 命题一｜制度是承载权力偏向的分配工具，稳定性依赖持续动员
-> **解释** 历史制度主义坚决拒绝将制度视为技术中立的协调均衡或自发共享认知；制度在建立之初就是政治权力冲突妥协的产物，制度性地赋予特定群体资源特权而剥夺另一群体的权益；制度获益者必须在日常政治中持续动员支持并压制异议，制度稳定本质上是处于动态紧张中的平衡。该命题由[[Peter A. Hall|霍尔]]（Hall, 1986）与[[Theda Skocpol|斯考切波]]奠定，并被[[Wolfgang Streeck|施特雷克]]、希伦与[[James Mahoney|马奥尼]]继承为内生变迁动力学的基石。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 9–11)]]; [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 7–10)]]
+> **解释** 历史制度主义坚决拒绝将制度视为技术中立的协调均衡或自发共享认知；制度在建立之初就是政治权力冲突妥协的产物，制度性地赋予特定群体资源特权而剥夺另一群体的权益；制度获益者必须在日常政治中持续动员支持并压制异议，制度稳定本质上是处于动态紧张中的平衡。该命题由霍尔（Hall, 1986）与[[Theda Skocpol|斯考切波]]奠定，并被[[Wolfgang Streeck|施特雷克]]、希伦与[[James Mahoney|马奥尼]]继承为内生变迁动力学的基石。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 9–11)]]; [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 7–10)]]
 >
 > **应用实例** 印度尼西亚苏哈托威权统治的维系依赖于对军队与官僚网络的持续利益输送与动态平衡；当 1997 年金融危机削弱其收买动员能力时，被剥夺独立治理能力的制度体系迅速发生内生崩塌。（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 9–10]]）
 

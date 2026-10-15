@@ -7,7 +7,7 @@ aliases:
 summary: "以企业管理与市场竞争逻辑重塑公共部门的治理范式，强调绩效指标、产出控制、性价比核算、供给竞争与服务外包；经合组织等借“良治”话语将教育治理从目的辩论置换为投入产出效率与比较绩效远处掌舵，在带来微观成本控制的同时导致公共部门去技能化与创新治理的青蛙视角。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 67
+related_count: 66
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -44,7 +44,6 @@ related_concepts:
   - "[[Externalization]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Knowledge-Based Economization]]"
-  - "[[Hypothesis]]"
   - "[[Policy-Based Evidence-Making]]"
   - "[[Rationalized Myth]]"
   - "[[Research Universities]]"
@@ -94,7 +93,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-02
-updated: 2026-10-13
+updated: 2026-10-15
 ---
 
 # New Public Management
@@ -204,7 +203,7 @@ updated: 2026-10-13
 > **绩效拨款的制度化马太效应** 大学[[Research Excellence Framework|研究卓越框架]]（REF）等绩效评估机制与经费拨款紧密挂钩，指标体系系统性偏向已有优势的顶尖精英机构，导致高等教育体系内部的资源配置极化与制度化分层。[[Argument_Schulze-Cleven_2017_HighEduc|(Schulze-Cleven et al., 2017, pp. 801–802)]]
 
 > [!claim] [[Argument_Amos_2022_Springer|Amos (2022)]]
-> **[[Knowledge-Based Economization|知识经济化]]与公私伙伴关系** [[Human Capital Theory|人力资本理论]]与公共选择学派将知识定义为纯粹的经济生产要素，确立了[[Knowledge-Based Economization|知识经济化]][[Hypothesis|假设]]，并通过[[Public-Private Partnership in Research|公私合作伙伴关系]]（PPP）将商业智库与私营资本深嵌于教育服务体系中。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]
+> **[[Knowledge-Based Economization|知识经济化]]与公私伙伴关系** [[Human Capital Theory|人力资本理论]]与公共选择学派将知识定义为纯粹的经济生产要素，确立了[[Knowledge-Based Economization|知识经济化]]假设，并通过[[Public-Private Partnership in Research|公私合作伙伴关系]]（PPP）将商业智库与私营资本深嵌于教育服务体系中。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]
 
 ---
 
@@ -271,7 +270,7 @@ updated: 2026-10-13
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1950s–1970s — 理论萌芽期** [[Human Capital Theory\|人力资本理论]]与公共选择学派将知识定义为经济生产要素，确立了[[Knowledge-Based Economization\|知识经济化]]与行政自利性[[Hypothesis\|假设]]。[[Argument_Amos_2022_Springer\|(Amos, 2022, p. 56)]]
+> - **1950s–1970s — 理论萌芽期** [[Human Capital Theory\|人力资本理论]]与公共选择学派将知识定义为经济生产要素，确立了[[Knowledge-Based Economization\|知识经济化]]与行政自利性假设。[[Argument_Amos_2022_Springer\|(Amos, 2022, p. 56)]]
 > - **1980s–1990s — 全球扩散、英美 [[Early Steps|Next Steps]] 与欧陆间接操纵的分野** 英美等国率先开启去管制化与外包改革；英国 1988 年启动“下一步行动”（Next Steps）将中央部门职能剥离为数十个执行代理机构；英格兰 1984 年成立[[Committee for the Accreditation of Teacher Education|教师教育认证委员会]]（CATE），开创依据督导证据进行资质核准的显性[[Output-Oriented Governance|循证治理]]先河。与此同时，欧洲大陆（如荷兰 1985 年 HOAK 白皮书）探索依托法团网络协商与一揽子总额拨款的“间接[[Steering at a Distance|远距离操纵]]”，与英美激进的官僚抨击与准市场化形成制度对照。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, p. 90)]]; [[Argument_Kickert_1995_Governance|(Kickert, 1995, pp. 154–155)]]
 > - **1995 — [[OECD|经合组织]]《转型中的治理》确立“良治”与比较绩效远处掌舵** 经合组织发布《转型中的治理：经合组织国家的公共管理改革》（OECD, 1995），正式将新公共管理机制包装为普遍适用的“良治”框架，确立以跨国比较绩效测量替代传统投入管控的远处掌舵模式。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 > - **2000s–2010s — 审计文化与[[Governing by Numbers\|数字治理]]高潮** 大规模测验（如 [[PISA]]）与大学[[Research Excellence Framework\|研究卓越框架]]（REF）确立，绩效评估与经费拨款紧密挂钩，形成制度化马太效应。[[Argument_Schulze-Cleven_2017_HighEduc\|(Schulze-Cleven et al., 2017, pp. 801–802)]]

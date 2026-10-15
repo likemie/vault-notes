@@ -8,7 +8,7 @@ aliases:
 summary: "Osmany Porto de Oliveira 与 Cecilia Osorio Gonnet (2023) 提出的分析空间概念，指全球与国家/地方尺度交互缠绕的关系性竞技场，用于解构国家内部不同功能部门对外部政策证据的差异化接收、翻译、抗拒与投射机制。"
 type: concept
 domain: "comparative-education"
-related_count: 27
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -29,12 +29,10 @@ related_concepts:
   - "[[Variable]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Attrition]]"
-  - "[[Document]]"
   - "[[Externalization]]"
   - "[[Policy Borrowing]]"
   - "[[State Educational Sovereignty]]"
   - "[[Global Education Governing Complex]]"
-  - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[Dependency Theory]]"
   - "[[Convergence Theory in Comparative Education]]"
@@ -54,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Transfer Space
@@ -99,7 +97,7 @@ updated: 2026-10-07
 > [!feature] 核心要素
 > - **主权国家的机构功能层析（Disaggregation of State Functions）** 国家并非铁板一块，转移空间精准区分了负责证据搜集与合法性包装的咨询系统（如政府任命的专家委员会）与手握法定裁量权的行政中枢（如教育部与内阁），揭示出两者在面对外部证据时的根本立场分野。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 540, 547)]]
 > - **尺度交织的关系性网络（Relational Interdependence across Scales）** 全球性指标与国内政策辩论并非“外部推力”与“内部阻力”的对抗，而是相互卷入的共生关系；本土官员将国际测评建构为“外部客观力量”，恰恰是为了在国内政策博弈中获取合法性杠杆。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 540)]]
-> - **政策周期的多阶段断裂机制（Procedural [[Attrition]] along the Policy Cycle）** 证据在转移空间中呈现阶段性过滤：在议程设置阶段，外部指标被广泛借用以营造改革危机感；在行政法规颁布阶段，绝大部分外部[[Document\|文献]]遭遇断崖式剔除，仅保留符合政治意志的核心条目。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
+> - **政策周期的多阶段断裂机制（Procedural [[Attrition]] along the Policy Cycle）** 证据在转移空间中呈现阶段性过滤：在议程设置阶段，外部指标被广泛借用以营造改革危机感；在行政法规颁布阶段，绝大部分外部文献遭遇断崖式剔除，仅保留符合政治意志的核心条目。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
 > - **拟似外部参考系的工具性投射（Instrumental Projection of Quasi-External References）** 处于改革僵局中的政治派别，根据自身意图将特定外部国家（如芬兰）或国际组织（如[[OECD\|经合组织]]）投射为绝对权威，作为压制国内异见、达成政治妥协的修辞工具。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 546)]]
 
 > [!logic-map]- 要素关系
@@ -125,7 +123,7 @@ updated: 2026-10-07
 > 探讨主权国家在将外部政策知识转化为本土正式法令的过程中，其官僚机器内部功能分工如何造成研究证据的大规模损耗与筛选。
 
 > [!claim] [[Gita Steiner-Khamsi\|Steiner-Khamsi, G.]] et al.
-> **政策周期中的引文断崖机制** 在政策转移空间内，国家咨询机构与行政决策机构遵循完全不同的运作逻辑。以挪威能力导向课程改革为例，5 个专家委员会在咨询报告中列出 464 篇参考[[Document\|文献]]，呈现出对国际研究的广泛吸纳；然而教育部最终颁布的法定行政法令仅引用了 22 篇，且其中 20 篇集中于[[OECD\|经合组织]]的[[Definition and Selection of Competencies\|能力界定与选择项目]]。这证明外部证据在转移空间中遭遇了超过 95% 的政治过滤，国家行政官僚系统在终极规制环节行使着绝对的自主决断权。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
+> **政策周期中的引文断崖机制** 在政策转移空间内，国家咨询机构与行政决策机构遵循完全不同的运作逻辑。以挪威能力导向课程改革为例，5 个专家委员会在咨询报告中列出 464 篇参考文献，呈现出对国际研究的广泛吸纳；然而教育部最终颁布的法定行政法令仅引用了 22 篇，且其中 20 篇集中于[[OECD\|经合组织]]的[[Definition and Selection of Competencies\|能力界定与选择项目]]。这证明外部证据在转移空间中遭遇了超过 95% 的政治过滤，国家行政官僚系统在终极规制环节行使着绝对的自主决断权。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
 
 ---
 
@@ -170,7 +168,7 @@ updated: 2026-10-07
 > > - **转移空间论学者** 认为国家并非毫无防卫能力的受体，转移空间内的微观实证表明国家官僚始终手握最终立法权，国际证据只是被本土精英按需剪裁的工具。
 
 > [!critique] 外部批评
-> - **微观实操阻力与[[Discourse|话语]]再造风险** 批评者指出，转移空间概念倾向于关注精英话语与政策[[Document\|文献]]流动的[[Transfer Translation Transformation\|转译]]，若缺乏对地方一线学校和教师日常实践的田野追踪，容易高估国家官僚与国际组织在转移空间内的操控能力。
+> - **微观实操阻力与[[Discourse|话语]]再造风险** 批评者指出，转移空间概念倾向于关注精英话语与政策文献流动的转译，若缺乏对地方一线学校和教师日常实践的田野追踪，容易高估国家官僚与国际组织在转移空间内的操控能力。
 
 > [!warning] 适用局限
 > 转移空间分析高度依赖对一国内部精细政策档案、专家报告与正式法令的文本追踪比对；在缺乏透明政策咨询机制或威权集权体制下，咨询与行政的断裂过程可能难以获得公开的实证文献支持。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
@@ -184,7 +182,7 @@ updated: 2026-10-07
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | 挪威国家能力导向课程改革：5 个政府专家咨询委员会 vs 最终教育部白皮书法令 | 政策咨询与立法[[Document\|文献]]引文网络追踪与阶段损耗分析 | 专家阶段与法定阶段引文数量及 [[OECD]] 机构占比 | 专家委员会阶段共列入 464 篇文献，最终法令阶段断崖式缩减为 22 篇（损耗率 95.3%），其中 20 篇被 OECD [[Definition and Selection of Competencies\|DeSeCo]] 项目文献垄断 | — | 提供了转移空间内多阶段程序过滤与主权国家在法案出台阶段行使排他性自主裁量权的直接微观量化证据 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | 挪威国家能力导向课程改革：5 个政府专家咨询委员会 vs 最终教育部白皮书法令 | 政策咨询与立法文献引文网络追踪与阶段损耗分析 | 专家阶段与法定阶段引文数量及 [[OECD]] 机构占比 | 专家委员会阶段共列入 464 篇文献，最终法令阶段断崖式缩减为 22 篇（损耗率 95.3%），其中 20 篇被 OECD [[Definition and Selection of Competencies\|DeSeCo]] 项目文献垄断 | — | 提供了转移空间内多阶段程序过滤与主权国家在法案出台阶段行使排他性自主裁量权的直接微观量化证据 |
 
 ---
 

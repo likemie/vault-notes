@@ -5,7 +5,7 @@ aliases:
 summary: "国家战略力量、公共福利与民主合法性同前沿科技与软件工程深度绑定的政治经济体制形态。强调国家战略与技术共同体结盟，以软件硬实力与人工智能威慑替代原子时代工业化防御；破除胜者谬误、大构想饥荒与创新荒漠，依托审美品味、创始人长期主义、全员所有权社会与实质伦理美德，在微观工程思维与宏观国家使命中重构自由民主政体的地缘优势与社会治理效能。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 118
+related_count: 117
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -73,7 +73,6 @@ related_concepts:
   - "[[Predictive Policing]]"
   - "[[Cultural Relativism]]"
   - "[[Effective Altruism]]"
-  - "[[Document]]"
   - "[[Big Science]]"
   - "[[Consumer Internet]]"
   - "[[Return on Investment]]"
@@ -432,7 +431,7 @@ updated: 2026-10-15
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
-> | 命题类型 | 核心指向 | 关键机制 | 代表学者与[[Document\|文献]] |
+> | 命题类型 | 核心指向 | 关键机制 | 代表学者与文献 |
 > |:---|:---|:---|:---|
 > | **地缘与战略基石** | 科技共同体主动承担国家防卫义务是维系地缘优势的前提 | 政产学研深度互信与战略结盟；批判去国家化消费主义 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025) |
 > | **政治与合法性机制** | 民主政体公信力取决于将前沿技术红利转化为普惠治理效能 | 哈贝马斯合法化危机；技术赋与公共安全、医疗与教育实际效能 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025) |

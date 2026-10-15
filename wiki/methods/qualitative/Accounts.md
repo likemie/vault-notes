@@ -5,9 +5,9 @@ summary: "一种以情境中的语言为焦点的质性资料收集方法，通�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 24
-method_related_level: 3
-method_related_stars: "⭐⭐⭐"
+method_related_count: 23
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
 tags: [method/qualitative, data-collection, paradigm/interpretive, theme/language]
 related_concepts:
@@ -16,7 +16,6 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Reflexivity]]"
   - "[[Interpretive Paradigm]]"
-  - "[[Hypothesis]]"
   - "[[Dialogue in Education]]"
   - "[[Falsification]]"
   - "[[Causality]]"
@@ -41,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-22
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 # Accounts
 
@@ -76,7 +75,7 @@ updated: 2026-09-17
 > [!method-stack] 方法层级
 > - **研究设计** [[Ethogenic Approach\|人因研究]]、[[Ethnography\|民族志研究]]、[[Interpretive Paradigm\|自然主义探究]]
 > - **数据收集** 访谈（录音）、自由评论法、[[Experience Sampling Method\|经验取样法]]、[[Account Gathering\|陈述收集]]框架（Brown & Sime）
-> - **分析方法** 内容分类、主题追踪、遗漏分析、生活世界重建、[[Hypothesis\|假设]]检验、[[Network Analysis\|网络分析]]、[[Discourse Analysis\|话语分析]]
+> - **分析方法** 内容分类、主题追踪、遗漏分析、生活世界重建、假设检验、[[Network Analysis\|网络分析]]、[[Discourse Analysis\|话语分析]]
 > - **辅助技术** [[Transcription in Qualitative Research\|转录]]、[[Cross-checking\|交叉检查]]、成员核验、协商验证
 
 ---

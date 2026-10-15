@@ -8,10 +8,10 @@ aliases:
 summary: "指组织内部根本性的核心假设、价值信念、行为规范与权力运作范式的系统性转变过程；在组织社会学中强调从表层人工制品向底层基本假设的深层重构，而在卡普与扎米斯卡（2025）的论证中，组织文化变革被确立为技术共和国能否重获国家竞争优势与硬实力的决定性前提，主张彻底打破传统防卫型官僚合规文化，转向以实战结果导向、边缘自治与去中心化群智能为核心的工程思维文化。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 19
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/organizational-governance
   - theme/organizational-culture
@@ -20,7 +20,6 @@ tags:
   - theme/public-governance
 related_concepts:
   - "[[Paradigm]]"
-  - "[[Hypothesis]]"
   - "[[Artefact]]"
   - "[[Hard Power]]"
   - "[[Technological Republic]]"
@@ -48,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Organizational Culture Change
@@ -58,7 +57,7 @@ updated: 2026-10-08
 ## 定义
 
 > [!def] 核心定义
-> **[[Organizational Culture|组织文化]]变革（Organizational Culture Change）** 是指组织为了应对外部环境剧变、技术[[Paradigm|范式]]转移或生存性战略危机，对其底层共享的基本[[Hypothesis|假设]]、核心价值观念、制度规范与日常行为模式所展开的系统性重构过程。在埃德加·沙因（Edgar Schein）等经典组织社会学家的理论中，组织文化变革涉及从表层[[Artefact|人工制品]]向潜意识基本信念的深层攻坚；而在亚历山大·C·卡普（[[Alexander Karp]]）与尼古拉斯·W·扎米斯卡（[[Nicholas Zamiska]]）的战略论述中，组织文化变革被提升为重构西方民主政体[[Hard Power|硬实力]]与[[Technological Republic|技术共和国]]的决定性引擎：仅仅依靠研发算法或采购硬件无法从根本上克服国家的创新困境，必须在公共部门、国防机构与大型研发体系中发起一场深刻的组织文化变革——彻底摒弃追求免责自保的[[Bureaucracy|科层官僚制]]合规文化，全面转向以实战结果为唯一裁判、赋予一线[[Edge Autonomy|边缘自治]]权与拥抱[[Swarm Intelligence|群智能]]协同的[[Engineering Mindset|工程思维]]文化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 121)]]
+> **[[Organizational Culture|组织文化]]变革（Organizational Culture Change）** 是指组织为了应对外部环境剧变、技术[[Paradigm|范式]]转移或生存性战略危机，对其底层共享的基本假设、核心价值观念、制度规范与日常行为模式所展开的系统性重构过程。在埃德加·沙因（Edgar Schein）等经典组织社会学家的理论中，组织文化变革涉及从表层[[Artefact|人工制品]]向潜意识基本信念的深层攻坚；而在亚历山大·C·卡普（[[Alexander Karp]]）与尼古拉斯·W·扎米斯卡（[[Nicholas Zamiska]]）的战略论述中，组织文化变革被提升为重构西方民主政体[[Hard Power|硬实力]]与[[Technological Republic|技术共和国]]的决定性引擎：仅仅依靠研发算法或采购硬件无法从根本上克服国家的创新困境，必须在公共部门、国防机构与大型研发体系中发起一场深刻的组织文化变革——彻底摒弃追求免责自保的[[Bureaucracy|科层官僚制]]合规文化，全面转向以实战结果为唯一裁判、赋予一线[[Edge Autonomy|边缘自治]]权与拥抱[[Swarm Intelligence|群智能]]协同的[[Engineering Mindset|工程思维]]文化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 121)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向对组织成员集体心智、评价体系与权力配置逻辑的根本性重塑，而非局限于局部人事变动或文件流程修改。
@@ -120,7 +119,7 @@ updated: 2026-10-08
 > 探讨组织变革如何突破表层阻力、实现组织心智模式的根本性转变。
 
 > [!claim] Schein, E. H.
-> **三层次[[Organizational Culture|组织文化]]深层重塑断言** 埃德加·沙因论证指出，组织文化包含[[Artefact|人工制品]]、所倡导的价值观以及深层基本[[Hypothesis|假设]]三个层次；单纯改变表层的规章、标语或制度结构无法带来真正的变革，唯有改变组织成员对环境关系、真理本质与人性假定的深层潜意识信念，组织文化变革才能真正实现。
+> **三层次[[Organizational Culture|组织文化]]深层重塑断言** 埃德加·沙因论证指出，组织文化包含[[Artefact|人工制品]]、所倡导的价值观以及深层基本假设三个层次；单纯改变表层的规章、标语或制度结构无法带来真正的变革，唯有改变组织成员对环境关系、真理本质与人性假定的深层潜意识信念，组织文化变革才能真正实现。
 
 ---
 
@@ -147,7 +146,7 @@ updated: 2026-10-08
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1980s — 沙因[[Organizational Culture|组织文化]]三层次理论** 确立了从[[Artefact|人工制品]]向底层基本[[Hypothesis|假设]]推进的现代组织文化[[Theory of Change|变革理论]]框架。
+> - **1980s — 沙因[[Organizational Culture|组织文化]]三层次理论** 确立了从[[Artefact|人工制品]]向底层基本假设推进的现代组织文化[[Theory of Change|变革理论]]框架。
 > - **1990s 末 — 硅谷软件工程文化的实战催生** [[Dot-Com Bubble|互联网泡沫]]破裂淘汰了商业投机模型，但沉淀出以快速迭代与一线自治为特征的工程文化。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch09|(Karp & Zamiska, 2025, p. 111)]]
 > - **2025 — 提升为[[Technological Republic|技术共和国]]国家治理基石** 卡普与扎米斯卡将组织文化变革确立为破除公共部门[[Innovation Desert|创新荒漠]]、赢得未来大国科技竞争的根本制度保障。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 121)]]
 

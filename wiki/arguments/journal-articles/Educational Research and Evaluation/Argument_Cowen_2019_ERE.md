@@ -9,7 +9,7 @@ title: "Argument_Cowen_2019_ERE"
 argument_key: "Argument_Cowen_2019_ERE"
 argument_display_title: "For whom does 'what works' work? The political economy of evidence-based education"
 argument_kind: "journal-article"
-argument_related_count: 27
+argument_related_count: 25
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -32,11 +32,9 @@ related_concepts:
   - "[[Bureaucracy]]"
   - "[[Knowledge Questions]]"
   - "[[External Validity]]"
-  - "[[Document]]"
   - "[[Study Population and Sample]]"
   - "[[Variable]]"
   - "[[Champ]]"
-  - "[[Hypothesis]]"
   - "[[Research Utilization]]"
   - "[[Policy Borrowing]]"
 related_theories:
@@ -92,7 +90,7 @@ citation_aliases:
 > [!info] 研究方法
 > - **方法** 理论综合 + 制度分析
 > - **论证结构**
->   1. 从 Cartwright/Deaton et al.哲学[[Document\|文献]]中澄清 [[Randomised Controlled Trials\|RCT]]/[[Systematic Review\|系统综述]]的[[Epistemology\|认识论]]限度
+>   1. 从 Cartwright/Deaton et al.哲学文献中澄清 [[Randomised Controlled Trials\|RCT]]/[[Systematic Review\|系统综述]]的[[Epistemology\|认识论]]限度
 >   2. 引入 Tullock [[Bureaucracy|官僚制]]模型作为[[Analytic Framework\|分析框架]]
 >   3. 将 [[Evidence-Based Education\|EBE]]（尤其 UK 的 [[Education Endowment Foundation\|EEF]] 和 US 的 What Works Clearing House）定位为满足官僚委托需求的工具
 >   4. 讨论认识论限度与官僚需求的张力
@@ -123,7 +121,7 @@ citation_aliases:
 > 2. **评估专家的研究证据** — 如何判断哪条证据可信、适用
 >
 > [[Evidence-Based Education\|EBE]] 的 RCT/系统综述机制提供了**一个统一的解决方案**
-> - 研究方法要求事先声明[[Hypothesis\|假设]]、结果指标、检索协议 → 对主权者**透明**
+> - 研究方法要求事先声明假设、结果指标、检索协议 → 对主权者**透明**
 > - 主权者无需深入理解教育研究或做出实质判断 → 只需要求 "what works"
 > - 研究结果以简化的[[Effect Size\|效应量]]呈现 → 可直接转化为问责反馈
 >
@@ -184,13 +182,13 @@ citation_aliases:
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> ### 行为主体的动机[[Hypothesis\|假设]]未充分展开
+> ### 行为主体的动机假设未充分展开
 >
 > **批评内容** Cowen 明确搁置了自利/机会主义问题（区别于 Niskanen 的预算最大化模型），聚焦于纯粹认知挑战——"即使所有官僚真诚追求共同善，[[Knowledge Questions\|知识问题]]依然存在"。但批评者指出，真实官僚系统中认知约束与激励冲突并存且交互——官僚的信息过滤行为不仅出于认知限制，更出于职业晋升考量（选择性呈现有利数据）。
 >
 > **影响** 此简化使得 Cowen 的分析可以分离出"知识问题"的独立解释力（分析优势），但同时也可能高估了 [[Evidence-Based Education\|EBE]] 的"认知解决方案"角色——如果官僚选择 [[Randomised Controlled Trials\|RCT]]/[[Systematic Review\|系统综述]]也有自利动机（规避决策风险、转移问责），那么仅切断问责捆绑可能不足以改变行为。
 >
-> **目前状态** Cowen 承认这一简化，并将其定位为对 Niskanen 自利模型的补充而非替代。在公共选择[[Document\|文献]]中，认知约束与激励冲突的整合分析仍是一个开放问题。
+> **目前状态** Cowen 承认这一简化，并将其定位为对 Niskanen 自利模型的补充而非替代。在公共选择文献中，认知约束与激励冲突的整合分析仍是一个开放问题。
 >
 > ### "改革方向"的政治可行性有限
 >

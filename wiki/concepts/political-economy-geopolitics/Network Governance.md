@@ -8,7 +8,7 @@ aliases:
 summary: "以多元行动者横向协作、关系协调与异层结构替代垂直科层或纯粹市场的公共治理方式；在批判教育政策与演化科技政策中揭示国家并未空心化退场，而是表现为积极特许赋权、资助中介并缔造市场的异层担保人，以及通过去中心化探索网络引领使命导向创新的催化者。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 80
+related_count: 79
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Policy Brokerage]]"
   - "[[Venture Philanthropy]]"
   - "[[Bureaucracy]]"
-  - "[[Document]]"
   - "[[Policy Network]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Co-affiliation]]"
@@ -130,7 +129,7 @@ updated: 2026-10-15
 > - **边界** 不等于国家彻底失控或消亡的“无政府状态”；网络治理中的行动者始终高度依赖国家所垄断的法定特许资质（如免税牌照）、公共资金补助以及立法赋权背书。
 
 > [!citation-card] 网络治理的理论界定与异层国家实践
-> 传统的“经典市场”和“[[Bureaucracy|科层制]]”公立学校治理正在被较新的专业网络和慈善网络与部族（如毛利 iwi）所取代。在教育政策[[Document|文献]]中，体现这一处置倾向与实践形态的模式通常被称为“网络治理”。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. vi)]]
+> 传统的“经典市场”和“[[Bureaucracy|科层制]]”公立学校治理正在被较新的专业网络和慈善网络与部族（如毛利 iwi）所取代。在教育政策文献中，体现这一处置倾向与实践形态的模式通常被称为“网络治理”。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. vi)]]
 >
 > [[Policy Network|政策网络]]并未取代国家，国家在网络中充当了资助者、经纪人与市场缔造者。澳大利亚的实证经验否定了单纯的国家空心化假说：国家并未退场，而是与科层制及市场机制相叠加，演化为鲍尔（Stephen J. Ball）所界定的异层治理（Heterarchy）。通过向咨询公司支付巨额公共外包款项、特许立法修正案以及定向财政匹配，国家主动运用法律垄断权与公共税收，为风险慈善中介网络的扩张提供了制度通道。[[Argument_Rowe_2023_ECNUROE|(Rowe, 2023, pp. 522–523)]]
 >
@@ -164,7 +163,7 @@ updated: 2026-10-15
 > - **国家演进为异层市场缔造者与经纪人（The State as Heterarchical Market-Maker & Broker）** 国家并未退场或被空心化，而是转型为“市场缔造者”（Market-maker）与“元治理者”（Meta-governor）；国家主动运用立法修正案与公共财政定向注资，积极孵化并扶持私营中介组织承接公共职能。[[Argument_Rowe_2023_ECNUROE|Rowe, 2023, pp. 522–523]]
 > - **去中心化探索网络与[[Public Dynamic Capabilities|公共动态能力]]（Decentralized Exploratory Networks & Dynamic Capabilities）** 在科技创新与产业攻坚领域，网络治理展现为类似 [[DARPA]] 的去中心化探索网络，通过赋予项目经理高度[[Strategic Autonomy|战略自主]]权与组合容错空间，引领公私主体共同攻关。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 807–808)]]
 > - **治理[[Discourse|话语]]转型：从国家直接供给到国家补贴与[[Social Impact Investing|社会投资]]（Discursive Shift: State Provision to Social Investment）** 政策话语发生根本性重构，从战后普遍性的“国家资助与提供”转向强调“纳税人可负担能力限制”下的“国家补贴”、“战略投资”与“社会投资”，为私营资本在公立体系中索取决策权和财产权提供了伦理合法性。[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 7–8]]
-> - **耐用客体、契约外包与公私伙伴关系[[Assemblage|装配]]（Contractual Outsourcing & [[Public-Private Partnership in Research|PPP]] Assemblage）** 治理协调高度依托实体化的“耐用客体”——包括公私合作伙伴关系（PPP）特许经营合同、非营利担保有限公司注册底座，以及法定免税资格（如澳大利亚 [[Deductible Gift Recipient|DGR1]] 资质），使商业资本得以在免受公法直接问责的缝隙中运作。[[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. vi]]; [[Argument_Rowe_2023_ECNUROE|Rowe, 2023, p. 523]]
+> - **耐用客体、契约外包与公私伙伴关系装配（Contractual Outsourcing & [[Public-Private Partnership in Research|PPP]] [[Assemblage]]）** 治理协调高度依托实体化的“耐用客体”——包括公私合作伙伴关系（PPP）特许经营合同、非营利担保有限公司注册底座，以及法定免税资格（如澳大利亚 [[Deductible Gift Recipient|DGR1]] 资质），使商业资本得以在免受公法直接问责的缝隙中运作。[[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. vi]]; [[Argument_Rowe_2023_ECNUROE|Rowe, 2023, p. 523]]
 > - **量规统摄与“通过指标的治理”（Governance by Indicators & Performance Metrics）** 网络治理摒弃了[[Red Tape|繁文缛节]]的行政微观干预，转而依靠量化[[Performance Indicators|绩效指标]]、实证证据工具箱与质量基准进行远程控制（[[Governing at a Distance]]），将公私多元主体的注意力锁定在可审计的技术成果之上。[[Argument_Rambla_2022_Springer|Rambla, 2022, pp. 174–175]]; [[Argument_Rowe_2023_ECNUROE|Rowe, 2023, p. 531]]
 
 > [!logic-map]- 网络治理运作拓扑与异层循环图

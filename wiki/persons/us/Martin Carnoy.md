@@ -47,10 +47,10 @@ related_methods:
 related_persons:
   - "[[Joel Samoff]]"
   - "[[Liliana Esther Olmos]]"
-  - "[[Carlos Alberto Torres]]"
   - "[[Andreas Kazamias]]"
   - "[[Michael W. Apple]]"
   - "[[Stephen Ball]]"
+  - "[[Carlos Alberto Torres]]"
 related_facts:
   - "[[World Bank]]"
 related_arguments:
@@ -73,7 +73,7 @@ updated: 2026-10-09
 > - **核心角色** 开创了教育研究中的[[Dependency Theory|依附理论]]与文化帝国主义批判[[Paradigm|范式]]；系统建立了国家理论与教育改革辩证冲突的宏观[[Analytic Framework|分析框架]]；与[[Joel Samoff|乔尔·萨莫夫]]共同开创了亚非拉转型国家教育政治经济学的跨国历史比较研究。
 > - **代表贡献** 出版奠基性著作《教育作为文化帝国主义》（1974）；提出“任何教育问题诊断与政策处方都必然暗含特定国家理论”的核心命题（1992）；系统剖析第三世界社会主义与民族解放转型社会的教育变革（1990）。
 
-> [!citation-card]- [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]论卡诺伊的国家理论命题
+> [!citation-card]- [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论卡诺伊的国家理论命题
 > 界定教育的“真实”问题以及最适宜（如最具成本效益、伦理上可接受且具有合法性）的解决方案，在很大程度上取决于支撑、证成并指引教育诊断与提议方案的国家理论。然而，正如马丁·卡诺伊（Martin Carnoy, 1992）所指出的，大多数教育问题分析都暗含着一种国家理论，但在教育研究与实践中，这种理论的根本前提却极少被识别或阐明。对我们自身的理论假定保持自我审思，是开展扎实学术研究的前提条件。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 73)]]
 >
 > *Defining the "real" problems of education and the most appropriate (e.g., cost-effective, ethically acceptable, and legitimate) solutions depends greatly on the theories of the state that underpin, justify, and guide the educational diagnosis and proponed solutions. There is, however, a permanent challenge here. As Martin Carnoy (1992) has argued, most analyses of educational problems have implicit in them a theory of the state but seldom are the fundamentals of that theory recognized or spelled out in educational research and practice.*
@@ -136,7 +136,7 @@ updated: 2026-10-09
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 开创了教育政治经济学分析[[Paradigm|范式]]，将新马克思主义[[Dependency Theory|依附论]]、调节学派与国家相对自主性理论融汇于教育研究，直接启迪了[[Carlos Alberto Torres|托雷斯]]、[[Michael W. Apple|迈克尔·阿普尔]]（Michael W. Apple）与[[Stephen Ball|斯蒂芬·鲍尔]]等几代[[Critical Pedagogy|批判教育学]]者。
+> - **理论路径** 开创了教育政治经济学分析[[Paradigm|范式]]，将新马克思主义[[Dependency Theory|依附论]]、调节学派与国家相对自主性理论融汇于教育研究，直接启迪了托雷斯、[[Michael W. Apple|迈克尔·阿普尔]]（Michael W. Apple）与[[Stephen Ball|斯蒂芬·鲍尔]]等几代[[Critical Pedagogy|批判教育学]]者。
 > - **方法路径** 倡导将宏观政治经济学制度溯源与严格的定量计量模型相结合，展示了[[Analytical Stance|批判立场]]如何与扎实数据并存，破除了批判教育学“只思辨不实证”的学科偏见。
 > - **政策路径** 持续抗辩[[World Bank|世界银行]]等跨国金融机构推行的去监管化、教育券与学校私有化政策，成为全球南方国家学者抵御新自由主义教育紧缩处方的重要思想旗帜。
 

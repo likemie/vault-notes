@@ -6,7 +6,7 @@ aliases:
 summary: "曼纽尔·卡斯特开创的宏观社会学理论，将现代社会组织形态界定为由流动网络而非垂直科层等级主导的结构，阐明流动空间与场所空间、网络化知识生产及全球教育治理的跨国重构机制"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 58
+theory_related_count: 56
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -32,13 +32,13 @@ related_concepts:
   - "[[Champ]]"
   - "[[Geopolitics of Higher Education]]"
   - "[[Open-Mindedness]]"
+  - "[[Habitus]]"
   - "[[Heterogeneity]]"
   - "[[Paradigm]]"
   - "[[Cultural Disembedding]]"
   - "[[Technological Agnosticism]]"
   - "[[Performativity]]"
   - "[[Research Question]]"
-  - "[[Document]]"
   - "[[Determinism]]"
   - "[[Hard Power]]"
   - "[[Variable]]"
@@ -52,11 +52,9 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[International Education]]"
   - "[[Unit of Analysis]]"
-  - "[[Transfer Translation Transformation]]"
 related_theories:
   - "[[Informationalism]]"
 related_methods:
-  - "[[Exploratory Factor Analysis]]"
   - "[[Classroom Observation]]"
   - "[[Discourse Analysis]]"
   - "[[Semi-structured Interview]]"
@@ -84,7 +82,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-11
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Network Society
@@ -121,7 +119,7 @@ updated: 2026-10-15
 > |:-----|:-----|:--------------|
 > | **网络（Networks）** | 核心结构形式 | 由互联节点构成的[[Open-Mindedness\|开放性]]结构，具备自动扩张、二元纳入/排除与动态重组能力。 |
 > | [[Space of Flows\|流动空间（Space of Flows）]] | 空间社会学范畴 | 允许在非地理毗连条件下通过电子网络实现同步互动的社会实践物质组织形式。 |
-> | [[Space of Places\|场所空间（Space of Places）]] | 空间社会学范畴 | 物理边界分明、依赖肉身共在与深厚历史文化惯习的地理空间组织形式。 |
+> | [[Space of Places\|场所空间（Space of Places）]] | 空间社会学范畴 | 物理边界分明、依赖肉身共在与深厚历史文化[[Habitus\|惯习]]的地理空间组织形式。 |
 > | **[[Network Governance\|网络化治理]]（Network Governance）** | 治理分析范畴 | 超越国家等级制管辖，通过国际多边机构、企业、智库与行会构成的跨国多层次协商网络。 |
 > | **[[Cosmopolitanism\|世界主义]]精英与本土大众** | 阶层撕裂范畴 | 掌握全球流动资本与大都市文化的流动精英，与扎根本土、承担转型外部性成本的公众之间的分化。 |
 > | [[Floating Signifier\|漂浮能指（Floating Signifiers）]] | [[Discourse\|话语]]生产机制 | 为适应[[Heterogeneity\|异质性]]网络传播而高度抽象化、抽空具体历史情境的通用政策口号。 |
@@ -148,7 +146,7 @@ updated: 2026-10-15
 > [!theory-proposition] 命题四｜[[Global Policy Space|全球政策空间]]中的[[Network Governance|网络化治理]]遵循[[Performativity|操演性]]与临时互通性逻辑
 > **解释** 在网络社会的[[Global Policy Space|全球政策空间]]中，多边机构（如[[World Bank|世界银行]]、[[OECD]]、[[UNESCO]]）、跨国教育企业、基金会与非政府组织构成了复杂的竞合网络。节点的决策并非依据僵化的意识形态教条，而是遵循卡斯特指出的操演性（Performativity）与临时互通性（Interoperability）原则——只要能提升在网络中的影响力和项目生存力，不同立场的组织便可迅速结盟；为了跨越[[Heterogeneity|异质性]]系统传播，政策方案被高度抽象为[[Floating Signifier|漂浮能指]]。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 351–353)]]
 >
-> **应用实例** 具有强烈反新自由主义立场的[[Education International|国际教育协会]]（Education International, EI）与推行市场化借贷的世界银行和[[International Monetary Fund|国际货币基金组织]]（IMF），能够在“[[Education for All|全民教育]]”（[[Exploratory Factor Analysis|EFA]]）或消除儿童失学的临时项目平台上结成战略伙伴，展现了网络治理中多重理性的去意识形态化整合。
+> **应用实例** 具有强烈反新自由主义立场的[[Education International|国际教育协会]]（Education International, EI）与推行市场化借贷的世界银行和[[International Monetary Fund|国际货币基金组织]]（IMF），能够在“[[Education for All|全民教育]]”（EFA）或消除儿童失学的临时项目平台上结成战略伙伴，展现了网络治理中多重理性的去意识形态化整合。
 
 > [!theory-proposition] 命题五｜网络化流动的抽象[[Discourse|话语]]在场所空间引发结构性解耦与实践异化
 > **解释** 网络生产的话语由于追求最大的跨国适用性，必然剥离地方历史特殊性。当这些去情境化的政策处方降落到微观学校等扎根于场所空间的机构时，无法与学校日常教学所需的微观一致性相兼容。基层实践者因缺乏支持而产生规避与异化反应，导致实际教学效果与网络政策文本的宣称初衷发生剧烈的结构性脱节。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 353–355)]]
@@ -162,7 +160,7 @@ updated: 2026-10-15
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 适合分析高等教育国际合作的权力机制变迁；国际组织教育政策如何在跨国网络中扩散；跨国科研合作中多元利益的融合与张力；全球教育改革口号与地方学校微观实践的断裂。
 > - **分析对象与单位** 跨国研究团队、国际多边政策倡议联盟、高校科研流动网络、微观课堂与政策文本的接口。
-> - **需要的材料** ① 跨国科研项目合作协议与人员流动轨迹；② 国际组织政策报告与跨国评估指标文本；③ 政策制定者、学者及一线教师的访谈实录；④ 合作网络成员的[[Document|文献]]合著与引文网络数据。
+> - **需要的材料** ① 跨国科研项目合作协议与人员流动轨迹；② 国际组织政策报告与跨国评估指标文本；③ 政策制定者、学者及一线教师的访谈实录；④ 合作网络成员的文献合著与引文网络数据。
 > - **解释目标** 揭示从等级制向网络化转变过程中的权力再分配，判读网络流动是否造成对本土场所空间的剥离与异化。
 
 > [!theory-framework] 命题转化为分析维度
@@ -213,7 +211,7 @@ updated: 2026-10-15
 > [!info] [[Epistemic Stances|认识论立场]]
 > - **[[Ontology|本体论]]** 社会现实的基本组织形态从孤立实体（国家、机构、阶级）转向**流动的关系网络**——“存在”（Being）被“连接”（Connecting）所重新定义。
 > - **分析焦点** 从“谁拥有什么静态资源”转向“谁连接了谁”以及“连接节点的[[Commensuration|通约]]规则与资本流动如何规定了行动者的可能性边界”。
-> - **对比较与[[International Education|国际教育]]研究的启示** 彻底打破以单个国家为天然[[Unit of Analysis|分析单位]]的[[Methodological Nationalism|方法论民族主义]]，追踪知识、政策概念、人才、资金与象征资本在跨国[[Space of Flows|流动空间]]中的生成、[[Transfer Translation Transformation|转译]]与落地变异。
+> - **对比较与[[International Education|国际教育]]研究的启示** 彻底打破以单个国家为天然[[Unit of Analysis|分析单位]]的[[Methodological Nationalism|方法论民族主义]]，追踪知识、政策概念、人才、资金与象征资本在跨国[[Space of Flows|流动空间]]中的生成、转译与落地变异。
 
 ---
 
@@ -221,6 +219,6 @@ updated: 2026-10-15
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Rizvi_2022_Springer|Rizvi (2022)]] — 将网络社会理论应用于[[Geopolitics of Higher Education|高等教育地缘政治]]，分析跨国科研合作从封闭等级联盟向灵活项目网络的历史演变，以及学术、经济与外交多重理性的网络化交织。
-> - [[Argument_Beech_2009_CE|Beech (2009a)]] — 运用卡斯特[[Space of Flows|流动空间]]与网络国家概念，分析[[Global Policy Space|全球政策空间]]中能力[[Discourse|话语]]的[[Floating Signifier|漂浮能指]]化及在阿根廷、巴西两国的层级[[Transfer Translation Transformation|转译]]。
+> - [[Argument_Beech_2009_CE|Beech (2009a)]] — 运用卡斯特[[Space of Flows|流动空间]]与网络国家概念，分析[[Global Policy Space|全球政策空间]]中能力[[Discourse|话语]]的[[Floating Signifier|漂浮能指]]化及在阿根廷、巴西两国的层级转译。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 结合流动空间与[[Basil Bernstein|伯恩斯坦]][[Champ|场域]]理论，构建全球教育场域五位置网络模型，实证揭示国际组织过度简化与微观落地异化。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|Karp & Zamiska (2025)]] — 剖析网络社会中[[Cosmopolitanism|世界主义]]科技精英与本土公众的空间割裂，批判硅谷技术阶层的政治脱嵌。

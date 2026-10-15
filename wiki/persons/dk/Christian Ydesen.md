@@ -7,7 +7,7 @@ summary: "丹麦奥尔堡大学教育社会学与全球治理教授、牛津大�
 type: person
 nationality: "dk"
 person_region: "dk"
-person_related_count: 42
+person_related_count: 41
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -39,7 +39,6 @@ related_concepts:
   - "[[Network Governance]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Creativity]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Strategic Compliance]]"
   - "[[Soft Power]]"
 related_theories:
@@ -73,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Christian Ydesen
@@ -173,7 +172,7 @@ updated: 2026-10-12
 > > - **Ydesen & Grek（2019）** 依托详实解密档案证实，冷战对抗与财政自保需求始终是 [[OECD]] 领导层主动制定战略转型议程的根本驱动力。
 >
 > > [!axis] 全球南方的主体能动性：完全[[Disciplina and Doctrina\|规训]] vs [[Creativity\|创造性]]抵制
-> > 争论全球治理复合体是否低估了广大发展中国家对西方指标体系的本土[[Transfer Translation Transformation\|转译]]与抵抗能力。
+> > 争论全球治理复合体是否低估了广大发展中国家对西方指标体系的本土转译与抵抗能力。
 > >
 > > - **后殖民批判学者** 指出许多受援国官员在实践中对[[World Bank\|世行]]与 OECD 指标采取了象征性合规（Mock [[Strategic Compliance|compliance]]）策略。
 > > - **Elfert & Ydesen（2023）** 承认本土抵抗的存在，但强调债务结构调整与援助解付挂钩使得制度性依附在结构上难以撼动。

@@ -8,7 +8,7 @@ aliases:
 summary: "由约瑟夫·熊彼特（Joseph Schumpeter）提出的演化经济学与创新经济学核心概念，指创新从经济系统内部不断打破既有经济结构、摧毁陈旧产业与组织范式并建立全新产业范式与增长前沿的内生动态突变过程；克里斯·弗里曼（Chris Freeman）与卡洛塔·佩雷斯（Carlota Perez）将其置于技术-经济范式变革的中心，论证激进技术革命必然带来深层的创造性破坏，迫使国家调整教育技能、工种架构与制度体系以克服“制度滞后”。"
 type: concept
 domain: "economics"
-related_count: 18
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -18,7 +18,6 @@ tags:
   - theme/innovation-studies
 related_concepts:
   - "[[Creativity]]"
-  - "[[Hypothesis]]"
   - "[[General Purpose Technology]]"
   - "[[Paradigm]]"
   - "[[Apprenticeship]]"
@@ -42,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Creative Destruction
@@ -55,7 +54,7 @@ updated: 2026-10-09
 > [[Creativity|创造性]]破坏（Creative Destruction）是[[Evolutionary Economics|演化经济学]]与[[Joseph Schumpeter|熊彼特]]创新理论的核心概念，指企业与企业家通过引入根本性创新（激进产品、新工艺、新原材料、新组织方式与新市场），从资本主义系统内部不断摧毁陈旧的经济结构与既有[[Technological Trajectories|技术轨道]]，并持续创造全新生产函数与产业生态的内生产业突变过程；它不仅导致陈旧产业与生产线实物资产的迅速贬值，更引发既有劳动技能、职业分工乃至宏观社会规制结构的系统性震荡。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 18)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 经济演化并非新古典经济学所[[Hypothesis|假设]]的平滑边际增量优化或均质资源均衡分配，而是一个由非连续激进突变所驱动的“破坏—重构”内在动态。
+> - **含义** 经济演化并非新古典经济学所假设的平滑边际增量优化或均质资源均衡分配，而是一个由非连续激进突变所驱动的“破坏—重构”内在动态。
 > - **用途** 用于解释为什么重大技术革命（如以微电子为代表的[[General Purpose Technology|通用技术]][[Paradigm|范式]]转型）必然引发剧烈的产业洗牌、结构性失业以及大规模技能重组，帮助研究者看见技术进步背后残酷的社会制度重塑成本。
 > - **边界** 创造性破坏指向重大技术与组织架构重塑，区别于日常生产运行中的常规边际改良（渐进式创新）与静态价格市场竞争。
 

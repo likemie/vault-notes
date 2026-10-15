@@ -7,10 +7,10 @@ summary: "保加利亚社会学家和高等教育研究者，高教多维使命�
 type: person
 nationality: bulgaria
 person_region: "bulgaria"
-person_related_count: 8
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 born: "1954"
 died: ""
 lifespan: "1954–至今"
@@ -21,7 +21,6 @@ tags:
 - region/bulgaria
 - capability-approach
 related_concepts:
-  - "[[APA Style]]"
   - "[[Global Universities Rankings]]"
   - "[[Operationalization]]"
   - "[[Employability]]"
@@ -37,7 +36,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: 2026-10-02
+updated: 2026-10-15
 ---
 # Pepka Boyadjieva
 
@@ -63,7 +62,7 @@ updated: 2026-10-02
 
 ### 2016 — *Rethinking Missions and Values of Higher Education*
 
-- [[APA Style|APA]]：Boyadjieva, P., & Ilieva-Trichkova, P. (2016). Rethinking missions and values of higher education: Insights from the [[Capability Approach]] and the institutional perspective. In R. Pritchard & J. Williams (Eds.), *Positioning higher education institutions: From here to there* (pp. 41–62). Sense Publishers.
+- APA：Boyadjieva, P., & Ilieva-Trichkova, P. (2016). Rethinking missions and values of higher education: Insights from the [[Capability Approach]] and the institutional perspective. In R. Pritchard & J. Williams (Eds.), *Positioning higher education institutions: From here to there* (pp. 41–62). Sense Publishers.
 - 核心内容：基于 Drèze & Sen 的可行能力路径和制度理论，发展了一个规范性的高等教育使命/角色多维模型([[Argument_Boyadjieva_2022_Springer|Boyadjieva, 2022, pp.128–129]])。
 - 思想位置：理论形成期——奠定了后续排名批判工作的概念基础。
 - 相关概念／理论：[[Capability Approach]]、[[Global Universities Rankings]]

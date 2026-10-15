@@ -9,7 +9,7 @@ aliases:
 summary: "由约翰·金登（John Kingdon）创立并由尼古拉斯·扎哈利亚迪斯（Nikolaos Zahariadis）深化的公共政策分析框架；将政策制定过程解构为相对独立的问题流、政策流与政治流，阐明在决策歧义性与信息过载情境下，政策企业家如何抓住政策之窗实现三流耦合以促成改革议程设定。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 27
+theory_related_count: 24
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -30,19 +30,16 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Scaffolding]]"
   - "[[Determinism]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[School Autonomy]]"
   - "[[Competitiveness]]"
   - "[[Epistemic Stances]]"
   - "[[Ontology]]"
   - "[[Epistemology]]"
-  - "[[Hypothesis]]"
   - "[[Construct]]"
 related_theories: []
 related_methods:
   - "[[Process Tracing]]"
   - "[[Discourse Analysis]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -56,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Multiple Streams Framework
@@ -112,7 +109,7 @@ updated: 2026-10-07
 
 > [!proposition-chain]- 延伸命题
 > - **推论一（源自核心命题二 · 国际政策中介化）** 在全球教育治理中，跨国组织（如 [[OECD]]、[[World Bank\|世界银行]]）通过三年一度的 [[PISA]] 放榜或政策基准评估，人为制造跨国排名的“命名与羞辱”焦点事件，从而主动为成员国开启政策之窗，兜售自身在政策流中预先打包的最佳实践方案组合。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 544–547)]]
-> - **推论二（源自核心命题二 · 数字[[Scaffolding\|脚手架]]功能）** 决策者之所以热衷于量化指标，是因为数字既提供了不可辩驳的科学理性外观，又具有极高的话语弹性，便于各政治派别依凭自身意识形态将数字[[Transfer Translation Transformation\|转译]]为契合自身议程的故事。
+> - **推论二（源自核心命题二 · 数字[[Scaffolding\|脚手架]]功能）** 决策者之所以热衷于量化指标，是因为数字既提供了不可辩驳的科学理性外观，又具有极高的话语弹性，便于各政治派别依凭自身意识形态将数字转译为契合自身议程的故事。
 
 > [!mechanism-map]- 机制图
 > ```mermaid
@@ -148,7 +145,7 @@ updated: 2026-10-07
 
 > [!theory-use] 如何用于研究
 > - **作为理论框架** 用于解构重大教育法案或课程改革出台的历史契机，剖析为何某些呼吁数十年的改革会在特定时刻突然爆发出台。
-> - **作为分析工具** 将复杂的政策文本与访谈材料[[Coding in Qualitative Research\|编码]]为“[[Problem Finding\|问题界定]]”、“备选方案库”、“政治气候”三大维度，识别推动耦合的关键[[Policy Entrepreneur\|政策企业家]]。
+> - **作为分析工具** 将复杂的政策文本与访谈材料编码为“[[Problem Finding\|问题界定]]”、“备选方案库”、“政治气候”三大维度，识别推动耦合的关键[[Policy Entrepreneur\|政策企业家]]。
 > - **作为批判视角** 揭示国际组织与商业咨询公司如何借助危机修辞与数字游戏“人为制造[[Policy Window|政策之窗]]”，将缺乏本土适应性的外来方案强加给受援国。
 
 > [!logic-map]- 分析流程图
@@ -167,7 +164,7 @@ updated: 2026-10-07
 
 > [!theory-boundary] 适用边界
 > - **适合解释** 具有高度争议性、涉及多方利益博弈、深受外部国际组织干预或突发危机驱动的宏观教育政策议程设定。
-> - **谨慎使用** 在高度集权、政治控制严密且官僚体系呈绝对自上而下封闭运行的体制中，政治流对其他源流具有压倒性支配力，三流独立性[[Hypothesis\|假设]]会受到削弱。
+> - **谨慎使用** 在高度集权、政治控制严密且官僚体系呈绝对自上而下封闭运行的体制中，政治流对其他源流具有压倒性支配力，三流独立性假设会受到削弱。
 > - **不适合解释** 学校微观课堂教学行为的日常改善、师生人际互动或高度常规化的渐进性技术微调。
 > - **常见误用** 误将多源流模型视为放之四海而皆准的万能因果解释，忽略了对各源流内部具体制度规则与行动者权力差异的严密考证。
 

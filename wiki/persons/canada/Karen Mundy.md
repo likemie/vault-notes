@@ -7,7 +7,7 @@ summary: "加拿大著名比较教育学者，多伦多大学安大略教育研�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 22
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -33,7 +33,6 @@ related_theories:
   - "[[Dependency Theory]]"
   - "[[World-Systems Theory]]"
 related_methods:
-  - "[[Exploratory Factor Analysis]]"
   - "[[Cohort Study]]"
   - "[[Analytic Framework]]"
 related_instruments: []
@@ -52,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-05
+updated: 2026-10-15
 ---
 
 # Karen Mundy
@@ -64,7 +63,7 @@ updated: 2026-10-05
 > [!person-profile] 人物档案
 > - **身份位置** 加拿大著名比较与[[International Education|国际教育]]学者，多伦多大学安大略教育研究院（OISE）国际与比较教育讲席教授，[[Global Partnership for Education|全球教育伙伴关系]]（Global Partnership for Education, GPE）前首席技术官（2014–2018）。
 > - **核心角色** 全球教育多边治理与跨国公民社会研究的开拓者；曾任[[Comparative and International Education Society|比较与国际教育学会]]（CIES）主席（2014–2015）；兼具顶尖国际组织治理高管与批判政治经济学理论家的双重角色。
-> - **代表贡献** 提出奠基性的[[Educational Multilateralism|国际教育多边主义]]三阶段历史演化理论（Mundy, 1998）；系统考证了[[UNESCO|联合国教科文组织]]（[[UNESCO]]）被[[World Bank|世界银行]]夺取全球教育政策领导权的历史轨迹（Mundy, 1999）；系统评估了国际跨国倡导网络与非政府组织在[[Education for All|全民教育]]（[[Exploratory Factor Analysis|EFA]]）运动中的制度困境（Mundy & Murphy, 2001）。
+> - **代表贡献** 提出奠基性的[[Educational Multilateralism|国际教育多边主义]]三阶段历史演化理论（Mundy, 1998）；系统考证了[[UNESCO|联合国教科文组织]]（[[UNESCO]]）被[[World Bank|世界银行]]夺取全球教育政策领导权的历史轨迹（Mundy, 1999）；系统评估了国际跨国倡导网络与非政府组织在[[Education for All|全民教育]]（EFA）运动中的制度困境（Mundy & Murphy, 2001）。
 
 > [!citation-card]- [[Robert Arnove|阿诺夫]]论曼迪对主要跨国援助机构运作的考察
 > 主要国际技术援助与金融机构的日常运作与机构间权力关系，构成了曼迪（Mundy, 1999, 2002）等学者日益丰富的[[Research Topic|研究主题]]。曼迪（1999）详尽追踪了秉持人道主义与[[Lifelong Learning|终身学习]]导向的联合国教科文组织，如何逐步将全球教育政策制定的领军地位拱手让给更具经济理性的世界银行。曼迪（1998）更系统记录了教育多边主义意识形态的三阶段变迁。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]

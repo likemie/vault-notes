@@ -9,7 +9,7 @@ aliases:
 summary: "研究参与者的回应受其身份、文化、动机或对研究情境的反应而系统性偏离真实值的现象，涵盖调查无回应偏差、跨文化回应模式差异、访谈 acquiescence 以及测验情境效应等多种形式"
 type: concept
 domain: "research-methodology"
-related_count: 13
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,7 +20,6 @@ tags:
 related_concepts:
   - "[[Construct]]"
   - "[[Variable]]"
-  - "[[Hypothesis]]"
   - "[[Language Skills]]"
   - "[[Leading Questions]]"
   - "[[Interviewer Effects]]"
@@ -35,7 +34,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
 status: draft
 created: 2026-05-31
-updated: 2026-06-23
+updated: 2026-10-15
 ---
 # Response Bias
 
@@ -78,7 +77,7 @@ updated: 2026-06-23
 ### 调查无回应偏差
 
 > [!feature] 调查无回应偏差的检测方法
-> - **波次分析（Wave Analysis）** 在调查回收期内逐周检查选定条目的回应变化。如果回应在最后几周开始发生系统性变化，则存在回应偏差的潜在可能。依据[[Hypothesis\|假设]]：在回收期最末几周返回调查的人近似于非回应者——如果他们（近似非回应者）的回应模式与早期回应者不同，说明非回应者的回应确实可能改变整体结果（Leslie, 1972）。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch8)]]
+> - **波次分析（Wave Analysis）** 在调查回收期内逐周检查选定条目的回应变化。如果回应在最后几周开始发生系统性变化，则存在回应偏差的潜在可能。依据假设：在回收期最末几周返回调查的人近似于非回应者——如果他们（近似非回应者）的回应模式与早期回应者不同，说明非回应者的回应确实可能改变整体结果（Leslie, 1972）。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch8)]]
 > - **回应者/非回应者对比** 电话联系少数非回应者，询问几个关键问题，比较他们的回应与已回应者是否存在实质性差异。这是一种对回应偏差的直接检查。
 
 > [!tip]- Hudson & Miller (1997) 降低[[Questionnaire\|问卷]]无回应偏差的十二项策略
@@ -146,7 +145,7 @@ updated: 2026-06-23
 ## 争议与批评
 
 > [!warning] 检测方法的局限
-> - 波次分析的有效性依赖于"最后回应者 ≈ 非回应者"的[[Hypothesis\|假设]]，这一假设在某些调查情境中可能不成立。
+> - 波次分析的有效性依赖于"最后回应者 ≈ 非回应者"的假设，这一假设在某些调查情境中可能不成立。
 > - 回应率低不一定意味着回应偏差高——关键在于非回应者与回应者是否在关键[[Variable\|变量]]上存在系统性差异，而非回应的绝对数量（Fowler, 2014）。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch8)]]
 
 > [!tension] 跨文化回应偏差的方法论张力

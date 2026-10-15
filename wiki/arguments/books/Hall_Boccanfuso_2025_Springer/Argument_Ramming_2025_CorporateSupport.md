@@ -7,7 +7,7 @@ title: "Argument_Ramming_2025_CorporateSupport"
 argument_key: "Argument_Ramming_2025_CorporateSupport"
 argument_display_title: "Gaining Support Within Companies for Collaboration"
 argument_kind: "book"
-argument_related_count: 43
+argument_related_count: 41
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Incommensurability]]"
   - "[[Polymath]]"
   - "[[Academic Engagement Team]]"
-  - "[[Document]]"
   - "[[Technology Transfer Office]]"
   - "[[Research Translation]]"
   - "[[Joint Faculty Appointments]]"
@@ -45,7 +44,6 @@ related_concepts:
   - "[[Academic Entrepreneurship]]"
   - "[[Paradigm]]"
   - "[[Innovation Ecosystem]]"
-  - "[[Hypothesis]]"
   - "[[Engineering Education]]"
   - "[[Precompetitive Research]]"
   - "[[Consumer Internet]]"
@@ -103,7 +101,7 @@ publisher: "Springer"
 > [!concept-lens] 阅读透镜
 > - **对象** 聚焦跨国高科技企业内部负责大学合作的[[Academic Engagement Team|学术参与团队]]（AET）、中层业务部门（BU）管理层、企业首席技术官（CTO）及研发骨干等企业侧核心行动者。
 > - **张力** 企业按季度追求经营利润的节奏与大学按多年开展学术研究的周期冲突；中层管理者单一维度的考核压力与产学合作多维收益无法简单折算之间的度量矛盾；分散业务团队的局部利益与跨部门长期前沿布局之间的协调阻力。
-> - **贡献** 改变了以往[[Document|文献]]主要从大学管理部门或[[Technology Transfer Office|技术转移办公室]]（TTO）出发的单一视角，系统总结了企业内部推动产学合作的九维实践框架，并揭示了成熟企业在行业底层技术遭遇瓶颈时依托大学合作推动行业转型的机制。
+> - **贡献** 改变了以往文献主要从大学管理部门或[[Technology Transfer Office|技术转移办公室]]（TTO）出发的单一视角，系统总结了企业内部推动产学合作的九维实践框架，并揭示了成熟企业在行业底层技术遭遇瓶颈时依托大学合作推动行业转型的机制。
 
 ---
 
@@ -350,7 +348,7 @@ publisher: "Springer"
 
 > [!tension] 摩尔定律延续 vs 登纳德缩放失效引发的技术断层
 > **← 芯片晶体管集成度持续提升（摩尔定律）**　·　**单核主频物理功耗无法维持（登纳德缩放失效） →**
-> - **单核频率提升黄金时代** 晶体管尺寸不断缩小，芯片上集成的晶体管数量翻倍，且在电场强度恒定[[Hypothesis|假设]]下单位面积功耗保持基本不变。这意味着微处理器的主频可以持续大幅拉升，老旧软件无需任何重写即可在新型电脑上显著变快，全行业享受了长达三十年的无缝升级红利。
+> - **单核频率提升黄金时代** 晶体管尺寸不断缩小，芯片上集成的晶体管数量翻倍，且在电场强度恒定假设下单位面积功耗保持基本不变。这意味着微处理器的主频可以持续大幅拉升，老旧软件无需任何重写即可在新型电脑上显著变快，全行业享受了长达三十年的无缝升级红利。
 > - **功耗极限与多核转型** 2000 年代中后期，晶体管尺度逼近原子极限，漏电流呈指数级增加，单核频率撞上物理功耗墙。频率无法继续提升，芯片厂商只能被动转向多核架构，即通过在单个芯片上并列放置多个计算核心来延续晶体管增长。（pp. 234–235）
 
 硬件底层范式的突变，迅速在软件产业与[[Engineering Education|工程教育]]界引发了全局性震荡（pp. 234–235）：

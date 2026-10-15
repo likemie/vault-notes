@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22"
 argument_display_title: "Research Methods in Education · Ch22"
 argument_kind: "book-chapter"
-argument_related_count: 51
+argument_related_count: 47
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -42,11 +42,8 @@ related_concepts:
   - "[[Tacit Knowledge]]"
   - "[[Falsification]]"
   - "[[Growth]]"
-  - "[[Hypothesis]]"
-  - "[[Document]]"
   - "[[Emergence]]"
   - "[[Reliability]]"
-  - "[[Habitus]]"
   - "[[Discourse]]"
   - "[[Ideal Speech Situation]]"
   - "[[Definition of Terms]]"
@@ -66,7 +63,6 @@ related_methods:
   - "[[Account Gathering]]"
   - "[[Internal Consistency]]"
   - "[[Transcription in Qualitative Research]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Data Reduction]]"
   - "[[Content Analysis]]"
   - "[[Experience Sampling Method]]"
@@ -194,7 +190,7 @@ updated: 2026-09-18
 > | 确立访谈者和受访者角色 | 引导程度 |
 > | 陈述后验证 | 交叉佐证 |
 > | **3 陈述转化** | |
-> | 提供工作文件 | [[Transcription in Qualitative Research\|转录]]信度；[[Coding in Qualitative Research\|编码]]者信度 |
+> | 提供工作文件 | [[Transcription in Qualitative Research\|转录]]信度；编码者信度 |
 > | [[Data Reduction\|数据缩减]]技术 | 统计分析和[[Content Analysis\|内容分析]]的适当性 |
 > | **4 研究者陈述** | |
 > | 对陈述的再陈述：摘要、概览、解释 | 研究操作的描述 |
@@ -244,7 +240,7 @@ Kitwood（1977）提出了处理录音陈述的**八种分析方法**。方法 1
 > | **方法 5：追踪主题** | 质性 | 跨边界搜索 → 主题网络 | 超越项目的人为边界，尽可能多地收集与特定主题相关的数据，不论它在访谈材料的何处出现。要求对内容极为详细的了解，可能需要多次听录音。 |
 > | **方法 6：研究遗漏** | 质性 | 预期与实际落差 → 显著发现 | 当研究者预期会出现的议题缺席时，这一缺席事实本身可能非常显著，应探究其正确解释。**沉默可以像言语一样有揭示性**。 |
 > | **方法 7：重建社会—生活世界** | 质性 | 碎片拼合 → 共享世界 | 应用于生活有交集的一群人的陈述（如朋友群），重建参与者共享的世界，即主导的面向现实的方式、目的概念和感知的边界。 |
-> | **方法 8：生成和检验[[Hypothesis\|假设]]** | 质性/假设—演绎 | 提出 → 推导 → 检验 | 松散应用假设—演绎方法：明确提出假设 → 推导可验证推论 → 对照陈述数据检验 → 数据不足时考虑后续访谈收集更多证据。 |
+> | **方法 8：生成和检验假设** | 质性/假设—演绎 | 提出 → 推导 → 检验 | 松散应用假设—演绎方法：明确提出假设 → 推导可验证推论 → 对照陈述数据检验 → 数据不足时考虑后续访谈收集更多证据。 |
 ---
 
 #### 安全措施：交叉检查与成员核验
@@ -253,7 +249,7 @@ Kitwood（1977）提出了处理录音陈述的**八种分析方法**。方法 1
 
 > [!tip] 两道安全措施
 > - **[[Cross-checking\|交叉检查]]** 研究者之间互相检验，预防访谈中持续但未被识别的偏见。最有效的形式是两位以上研究者独立提出类别系统后协商最终系统。
-> - **[[Member Tests\|成员核验]]** 将[[Hypothesis\|假设]]和未解决的问题带回参与者本人或处于相似情境的人，征求评论。应尽可能向参与者传达：研究者想知道的是他们眼中的真相，被证明错误和证明正确同样受欢迎。
+> - **[[Member Tests\|成员核验]]** 将假设和未解决的问题带回参与者本人或处于相似情境的人，征求评论。应尽可能向参与者传达：研究者想知道的是他们眼中的真相，被证明错误和证明正确同样受欢迎。
 
 > [!case] Blease & Cohen（1990）：安全措施的操作实例
 > 一项关于小学计算机使用的研究同时运用了交叉检查和成员核验：
@@ -296,7 +292,7 @@ Kitwood（1977）提出了处理录音陈述的**八种分析方法**。方法 1
 > - **Maria** 是幽灵，不做选择也不被选择
 
 > [!info] 社会计量学的后续影响
-> Milgram 的"小世界"实验和"六度分隔"发现（Travers & Milgram, 1969）正是这种思路的延伸。此后 Barabási（2002）、Buchanan（2003）和 Watts（2003）进一步揭示了人类在不同社会语境中的本质连接性。互联网搜索引擎使用枢纽作为主要组织原则；教育领域师生通过社交网站进行学术讨论和专业发展。写作时搜 [ERIC 数据库](https://www.eric.ed.gov/) 可获得超过 1,000 篇关于社交网络的参考[[Document\|文献]]（p.451）。
+> Milgram 的"小世界"实验和"六度分隔"发现（Travers & Milgram, 1969）正是这种思路的延伸。此后 Barabási（2002）、Buchanan（2003）和 Watts（2003）进一步揭示了人类在不同社会语境中的本质连接性。互联网搜索引擎使用枢纽作为主要组织原则；教育领域师生通过社交网站进行学术讨论和专业发展。写作时搜 [ERIC 数据库](https://www.eric.ed.gov/) 可获得超过 1,000 篇关于社交网络的参考文献（p.451）。
 
 ---
 
@@ -347,7 +343,7 @@ Bliss 等人（1983）识别了评判网络充分性的若干标准（p.453）�
 > [!feature] 网络分析的评判标准（Bliss et al., 1983）
 > - **效度与[[Reliability\|信度]]** 效度：描述系统在种类上适当且足够完整和忠实。信度：人们在使用网络系统时存在可接受的同意水平
 > - **网络效用** 细节的充分性：清晰性、完整性和自洽性
-> - **可学[[Habitus\|习性]]** 网络是否易于教授给他人，这对传达分析术语至关重要
+> - **可学习性** 网络是否易于教授给他人，这对传达分析术语至关重要
 > - **可检验性** 两种形式：
 >     - 将网络作为理论对照数据检验
 >     - 通过网络将数据对照理论或预期来检验
@@ -563,7 +559,7 @@ Heath（1982）的经典研究是陈述法在教育研究中应用的最完整�
 > *Most behaviour can be assigned meanings and more than one of these may very well be valid simultaneously. It is fallacious therefore, he argues, to insist upon determining "the" meaning of an act.*
 
 > [!citation-card]- Bliss 等人论[[Network Analysis\|网络分析]]的边界
-> [[Coding in Qualitative Research\|编码]]的风格再富有表达力或括号再好看，编码所说的并不比网络所区分的更多。（第22章, p.453）
+> 编码的风格再富有表达力或括号再好看，编码所说的并不比网络所区分的更多。（第22章, p.453）
 >
 > *Helpful as the choice of an expressive coding mood or neat use of indentation or brackets may be, the code actually says no more than the network distinguishes.*
 

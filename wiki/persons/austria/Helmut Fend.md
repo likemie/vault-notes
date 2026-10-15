@@ -26,10 +26,10 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Academic Achievement]]"
   - "[[School Autonomy]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Normal School]]"
   - "[[Paradigm]]"
   - "[[Recontextualization]]"
+  - "[[Transfer Translation Transformation]]"
   - "[[Evidence-Based School Development]]"
   - "[[Gatekeepers]]"
 related_theories:
@@ -66,7 +66,7 @@ updated: 2026-10-08
 >   3. **单校自主发展理念（Einzelschulentwicklung）** 倡导单所学校是相对独立的教育行动单元，为欧洲[[School Autonomy\|学校自主权]]改革奠定理论基石；
 >   4. **LifE 终身[[Cohort Study\|追踪研究]]** 主持长达三十余年、覆盖 12 岁至 45 岁以上人群的跨代生命历程纵向追踪研究。
 
-> [!citation-card] 学校多层级再情境化与行动者[[Transfer Translation Transformation\|转译]]
+> [!citation-card] 学校多层级再情境化与行动者转译
 > 宏观体制所提供的新型调控手段，在本质上仅是制度结构供给；唯有通过学校现场的再情境化过程，经由学校领导与教师的理解、诠释与工作结构重置，政策意图才能转化为一线日常实践。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, p. 21)]]; Fend (2006)
 >
 > *Schulleitungen sollen Prozesse der „Rekontextualisierung“ am Schulstandort stimulieren, organisieren und koordinieren, durch die die Strukturangebote der neuen Steuerungsansätze in Arbeitspraktiken und -strukturen, die den Reformintentionen entsprechen, übersetzt werden...*
@@ -91,7 +91,7 @@ updated: 2026-10-08
 > [!thought-timeline] 思想发展阶段
 > - **第一阶段：综合中学实证研究与社会化理论（1970 年代）** 运用严密的社会学量化调查，探讨不同中等学校类型对学生社会化、学业自我概念与平等机会的影响。代表作：《学校与社会化》（*Schule und Sozialisation*, 1974）。
 > - **第二阶段：制度系统理论与四大功能[[Paradigm\|范式]]（1980–1990 年代）** 结合[[Talcott Parsons|塔尔科特·帕森斯]][[Structural Functionalism|结构功能主义]]与批判社会学，系统构建学校系统理论，提炼四大社会功能与中观单校自主发展机制。代表作：《学校理论》（*Theorie der Schule*, 1980, 两卷本）。
-> - **第三阶段：新治理、多层因果链与再情境化（2000 年代至今）** 吸收新制度主义与治理理论，将学校定位为宏观制度供给与微观教学互动的中介枢纽，深刻剖析政策在多层级链条中的远端解耦与本土[[Transfer Translation Transformation\|转译]]。代表作：《学校新理论》（*Neue Theorie der Schule*, 2006）；《生命历程的形成》（*Vom Kind zum Erwachsenen*, 2009）。
+> - **第三阶段：新治理、多层因果链与再情境化（2000 年代至今）** 吸收新制度主义与治理理论，将学校定位为宏观制度供给与微观教学互动的中介枢纽，深刻剖析政策在多层级链条中的远端解耦与本土转译。代表作：《学校新理论》（*Neue Theorie der Schule*, 2006）；《生命历程的形成》（*Vom Kind zum Erwachsenen*, 2009）。
 
 ---
 
@@ -102,7 +102,7 @@ updated: 2026-10-08
 > | 贡献构件 | 理论内涵与机制 | 关联条目 |
 > |:---|:---|:---|
 > | **学校四大社会功能** | 文化传承与价值整合（Enkulturation）、专业资质赋予（Qualifikation）、社会地位分配与流动（Allokation）、政治系统与社会秩序合法化（Legitimation）。 | [[School Effectiveness]] |
-> | **教育再情境化理论** | 宏观政策仅提供制度结构，必须经由学校组织行动者的认知过滤与日常实践[[Transfer Translation Transformation\|转译]]方能落地。 | [[Recontextualization]], [[Transfer Translation Transformation]] |
+> | **教育再情境化理论** | 宏观政策仅提供制度结构，必须经由学校组织行动者的认知过滤与日常实践转译方能落地。 | [[Recontextualization]], [[Transfer Translation Transformation]] |
 > | **五级多层因果链条** | 治理工具 $\rightarrow$ 校长领导 $\rightarrow$ 课堂教学 $\rightarrow$ 学习过程 $\rightarrow$ 学业成就；各层级高度松散耦合，解释了宏观改革难以直接撬动终端学业增益的远端衰减机制。 | [[Academic Achievement]], [[Educational Governance Framework]] |
 > | **单校自主发展[[Paradigm\|范式]]** | 提出单校是具有自身[[Organizational Culture\|组织文化]]和变革能力的相对自治单元，催生 1990 年代欧洲[[School Autonomy\|学校自主权]]改革。 | [[School Autonomy]], [[Evidence-Based School Development]] |
 
@@ -111,4 +111,4 @@ updated: 2026-10-08
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] — 依据芬德的多层级治理因果链与再情境化理论，推导校长作为制度[[Gatekeepers\|把关人]]对循证改革的微观[[Transfer Translation Transformation\|转译]]机制。
+> - [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] — 依据芬德的多层级治理因果链与再情境化理论，推导校长作为制度[[Gatekeepers\|把关人]]对循证改革的微观转译机制。

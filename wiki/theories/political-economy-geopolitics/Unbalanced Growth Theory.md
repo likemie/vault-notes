@@ -2,7 +2,7 @@
 summary: "由阿伯特·赫希曼于1958年提出的发展经济学与政治经济学经典理论；论证在资本与组织能力匮乏的情境下，国家不应盲目推行各产业齐头并进的均衡投资，而应在战略性主导产业制造非均衡瓶颈，通过前后向产业联系倒逼跨部门学习、诱发私人投资并激活潜在资源；构成了使命导向创新政策打破协调僵局的经济学先驱。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 14
+theory_related_count: 13
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -13,7 +13,6 @@ tags:
   - innovation-policy
   - economic-development
 related_concepts:
-  - "[[Hypothesis]]"
   - "[[Growth]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Grand Challenges]]"
@@ -33,7 +32,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-15
 title: Unbalanced Growth Theory
 aliases:
   - 非均衡增长理论
@@ -51,7 +50,7 @@ aliases:
 
 > [!theory-position] 理论定位
 > - **解释对象** 阐释后发国家或面临转型困境的经济体在资本、技术与行政决策能力严重受限的约束下，如何通过战略性重点突破启动持续的经济转型与技术积累。
-> - **理论问题** 驳斥早期发展经济学[[Hypothesis|假设]]国家拥有充沛储蓄与全能规划能力以推行所有部门齐头并进的“均衡增长”（Balanced [[Growth]]）幻想，揭示资源受限环境下通过“制造失衡”诱发经济活力的真实动力学。
+> - **理论问题** 驳斥早期发展经济学假设国家拥有充沛储蓄与全能规划能力以推行所有部门齐头并进的“均衡增长”（Balanced [[Growth]]）幻想，揭示资源受限环境下通过“制造失衡”诱发经济活力的真实动力学。
 > - **理论类型** 经济发展动力学与战略性产业政策理论。
 > - **知识位置** 植根于演化制度主义、发展经济学与结构主义政治经济学。
 
@@ -76,7 +75,7 @@ aliases:
 >
 > | 比较维度 | 纳克斯均衡增长论（Balanced [[Growth]]） | 赫希曼非均衡增长论（Unbalanced Growth） |
 > |:---|:---|:---|
-> | **核心[[Hypothesis\|假设]]** | 假设国家具备充足规划与管理全部部门的行政能力。 | 假定发展中国家最稀缺的是战略决策与组织协调能力。 |
+> | **核心假设** | 假设国家具备充足规划与管理全部部门的行政能力。 | 假定发展中国家最稀缺的是战略决策与组织协调能力。 |
 > | **投资策略** | 多产业按比例同时推进，实现供求内部相互消化。 | 选择具有强大产业关联度的少数战略节点重点突破。 |
 > | **动力机制** | 静态规模经济与多部门互为市场。 | 动态非均衡张力、倒逼机制与前后向诱发效应。 |
 > | **政府角色** | 全能的中央规划分配者。 | 战略性瓶颈制造者、[[Market Shaping and Creating\|市场塑造]]者与催化引领者。 |

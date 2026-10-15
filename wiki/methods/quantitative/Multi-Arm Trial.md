@@ -11,9 +11,9 @@ summary: "包含三个或更多平行实验组（实验臂）的随机对照试�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 40
-method_related_level: 5
-method_related_stars: "⭐⭐⭐⭐⭐"
+method_related_count: 39
+method_related_level: 4
+method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/quantitative
@@ -26,7 +26,6 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Epistemology]]"
   - "[[Type I and Type II Errors]]"
-  - "[[Hypothesis]]"
   - "[[Variable]]"
   - "[[Dependent Variable]]"
   - "[[Attrition]]"
@@ -70,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Multi-Arm Trial
@@ -99,7 +98,7 @@ updated: 2026-10-12
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **效率与生态可比性** 相比于分别开展多个独立的双臂试验（Two-Arm Trials），多臂试验通过共享对照组（Shared Control），显著减少了所需的总体[[Sample Size Determination\|样本量]]；更重要的是，所有处理臂在完全相同的时间窗口、宏观政策背景与测验标尺下接受评估，彻底排除了跨试验历史时间偏误。
-> - **统计核心挑战** **多重比较（Multiple Comparisons）与[[Type I and Type II Errors\|第一类错误]]膨胀**。当同时对多个处理臂进行[[Hypothesis\|假设]]检验时，全试验至少犯一次 I 型错误的族系误差率（Family-Wise Error Rate, FWER）显著上升，必须引入适宜的多重推断校正策略。
+> - **统计核心挑战** **多重比较（Multiple Comparisons）与[[Type I and Type II Errors\|第一类错误]]膨胀**。当同时对多个处理臂进行假设检验时，全试验至少犯一次 I 型错误的族系误差率（Family-Wise Error Rate, FWER）显著上升，必须引入适宜的多重推断校正策略。
 
 > [!contrast-table] 核心概念辨析：多臂试验 vs [[Factorial Design\|析因设计]] vs 传统双臂 [[Randomised Controlled Trials\|RCT]]
 > | 比较维度 | 传统双臂试验（Two-Arm RCT） | 多臂试验（Multi-Arm Trial） | 析因设计（Factorial Design） |
@@ -122,7 +121,7 @@ updated: 2026-10-12
 ## 研究程序
 
 > [!proc] 通用程序
-> 1. **定义干预臂与理论机制[[Hypothesis\|假设]]** 界定清晰的对照臂（通常为常态对照）以及各个处理臂的具体内容，确保各臂之间在操作定义上清晰分离。
+> 1. **定义干预臂与理论机制假设** 界定清晰的对照臂（通常为常态对照）以及各个处理臂的具体内容，确保各臂之间在操作定义上清晰分离。
 > 2. **优化[[Sample Size Determination\|样本量]]与组间分配比例** 依据最优配比准则（如 Dunnett 根号原则），适当增加共享对照组的分配比例以提升整体统计功效。
 > 3. **执行[[Random Assignment\|随机化]]分组** 采用区组分层随机化或整群随机化将受试者（或学校）分配至各个实验臂。
 > 4. **主效应与成对均值估计** 拟合[[Covariate Adjustment\|协变量调整]]回归方程，提取各个干预臂相对于对照组的点估计与未调整[[Standard Error\|标准误]]。

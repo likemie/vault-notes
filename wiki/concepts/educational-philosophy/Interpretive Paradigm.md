@@ -11,7 +11,7 @@ aliases:
 summary: "与实证主义相对的研究范式，强调从行动者内部视角理解主观意义、生活世界与情境独特性，以归纳、扎根与自然主义方式整体把握人类意向行动。"
 type: concept
 domain: "educational-philosophy"
-related_count: 61
+related_count: 59
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -36,7 +36,6 @@ related_concepts:
   - "[[Objectivism]]"
   - "[[Subjectivism]]"
   - "[[Nominalism]]"
-  - "[[Hypothesis]]"
   - "[[Determinism]]"
   - "[[Voluntarism]]"
   - "[[Creativity]]"
@@ -65,7 +64,6 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Case Study]]"
   - "[[Participant Observation]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Grounded Theory]]"
   - "[[Analytic Framework]]"
   - "[[Questionnaire]]"
@@ -91,7 +89,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Interpretive Paradigm
@@ -114,7 +112,7 @@ updated: 2026-10-14
 >
 > *The purpose of social science is to understand the way in which individuals create, modify and interpret the world in which they find themselves... The researcher must share the frame of reference of the participant and see the world from the inside rather than the outside.*
 
-> [!citation-card] Walker & Adelman 论课堂互动分析的[[Indexicality\|索引性]]情境与机械[[Coding in Qualitative Research\|编码]]破产
+> [!citation-card] Walker & Adelman 论课堂互动分析的[[Indexicality\|索引性]]情境与机械编码破产
 > 无论行为编码系统在[[Reliability\|信度]]与效度上多么严密，单纯串联的编码序列完全无法解释为什么课堂打断会引人哄笑。社会科学家唯有将[[Student-Teacher Relationship\|师生关系]]视为随时间演进的意义共同体，方能理解那句看似随意的历史戏谑已成为全班共享的象征密码。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 19; Walker & Adelman, 1975]]
 >
 > *Such a string of codings, however reliable and valid, would not help anyone to understand why such an interruption was funny. Human curiosity makes us want to know why everyone laughs... Here a casual comment made in the past has become an integral part of the shared meaning system of the class. It can only be comprehended by seeing the relationship as developing over time.*
@@ -135,7 +133,7 @@ updated: 2026-10-14
 > |:---------|:----------------------------------|:----------------------------------|
 > | **哲学基石** | **唯实论（Realism）** 世界客观独立存在并可被原样认知；组织是具有自身生命的实体 | **[[Nominalism\|唯名论]] / 唯心论（Idealism）** 社会实在是由不同行动者主动建构的发明物；组织是行动者赋予意义的网络 |
 > | **[[Epistemology\|认识论立场]]** | **[[Positivism\|实证主义]]** 知识基于经验证实与因果普适法则，追求解释与控制 | **反实证主义** 知识植根于主体间性生活世界，真理在于领会（Verstehen）独特性与情境意义 |
-> | **人性[[Hypothesis\|假设]]** | **机械[[Determinism\|决定论]]（Determinism）** 人类是被动响应环境刺激的傀儡 | **意志能动论（[[Voluntarism]]）** 人类是具有自由意志、[[Creativity\|创造性]]与反思能力的行动创造者 |
+> | **人性假设** | **机械[[Determinism\|决定论]]（Determinism）** 人类是被动响应环境刺激的傀儡 | **意志能动论（[[Voluntarism]]）** 人类是具有自由意志、[[Creativity\|创造性]]与反思能力的行动创造者 |
 > | **方法论取向** | **[[Nomothetic\|法则式]]（Nomothetic）** 标准化度量、[[Questionnaire\|问卷调查]]、受控实验与普遍统计概括 | **表意式（[[Idiographic]]）** 深入个案内部、[[Participant Observation\|参与观察]]、生活史、[[Ethnography\|民族志]]与深度[[Rich and Thick Description\|厚描述]] |
 > | **行动[[Unit of Analysis\|分析单元]]** | **行为（Behaviour）** 对外部刺激的被动反应，原因深埋于过去（Douglas, 1973） | **行动（Action）** 注入主观意义的意向实践，意图面向未来并在情境中协商（Douglas, 1973） |
 > | **理论形态** | 普遍因果模型、确定性定律、宏大抽象[[Construct\|构念]]与静态分类表 | [[Grounded Theory\|扎根理论]]、情境工作假说、流动的隐喻体系与微观生活深描 |
@@ -167,7 +165,7 @@ updated: 2026-10-14
 
 > [!feature] 教室草莓事件的学理启示（Box 1.5）
 > - **事件情境[[Rich and Thick Description\|深描]]** 实习教师在课堂上发下幻灯片，其中一张是重型卡车，一名平时爱捣乱的学生突然大喊“草莓！”，全班学生与教师顿时爆发出极富默契的哄堂大笑。
-> - **定量[[Coding in Qualitative Research\|编码]]的彻底瘫痪** 若使用当时风靡的[[Flanders Interaction Analysis Categories\|弗兰德斯互动分析]]分类系统（FIAC，标准化 10 范畴编码），这一事件只能被机械记录为“范畴 9（学生主动发言）”接着“范畴 10（无法分类的混乱与杂音）”。编码在统计[[Reliability\|信度]]上高度精准，却把整个事件的真实教育意义屠戮殆尽——它完全无法解释大家为什么哄堂大笑。
+> - **定量编码的彻底瘫痪** 若使用当时风靡的[[Flanders Interaction Analysis Categories\|弗兰德斯互动分析]]分类系统（FIAC，标准化 10 范畴编码），这一事件只能被机械记录为“范畴 9（学生主动发言）”接着“范畴 10（无法分类的混乱与杂音）”。编码在统计[[Reliability\|信度]]上高度精准，却把整个事件的真实教育意义屠戮殆尽——它完全无法解释大家为什么哄堂大笑。
 > - **情境[[Indexicality\|索引性]]与历时性意义共同体** 沃尔克与阿德尔曼（Walker & Adelman, 1975）深入调查发现：前一天该班进行投影阅读教学时，曾放映过巨大的“草莓”图片；学生借用前一天的图像指代今天的卡车，是在巧妙幽默地考验实习教师的情境反应。这一[[Discourse|话语]]意义深深嵌入在班级历时性发展的组织脉络中。任何抽离历时性情境的量化切片，都必然陷入严重的方法学盲区。
 
 ### 命题三　自然主义探究公理重构方法论规范：从普遍法则走向扎根理论与厚描述
@@ -183,7 +181,7 @@ updated: 2026-10-14
 
 ### 命题四　超越质性与量化的二元教条对立
 
-针对 1970 年代[[Paradigm Wars|范式之争]]中形成的“量化=[[Hypothesis|假设]]检验、质性=假设生成”的僵化断裂，当代教育方法论界展开了深层修正（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 11, pp. 405–407）：
+针对 1970 年代[[Paradigm Wars|范式之争]]中形成的“量化=假设检验、质性=假设生成”的僵化断裂，当代教育方法论界展开了深层修正（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 11, pp. 405–407）：
 
 > [!tension] 范式间的方法论辩证整合
 > - **[[Peter Woods\|伍兹]]的反思（Woods, 1992, p. 381）** 强调质性技术与量化技术的[[Epistemology\|认识论]]壁垒常被过度夸大；质性民族志同样能够且应当承担检验理论假说的重任，二者在探究功能上具有连续性。
@@ -202,7 +200,7 @@ updated: 2026-10-14
 > [!proc] 自然主义质性探究的标准五阶段规程
 > 1. **场域准入与信任建构** 选定自然主义研究情境，与关键报道人建立平等坦诚的合作契约。
 > 2. **浸润式深度观察与主位访谈** 结合[[Participant Observation\|参与观察]]、无结构/半结构访谈与实物人造物收集，记录详尽的田野手记。
-> 3. **归纳[[Coding in Qualitative Research\|编码]]与持续比较** 依据[[Grounded Theory\|扎根理论]]规程，开展[[Open Coding\|开放编码]]、[[Axial Coding\|轴心编码]]与选择编码，提炼[[Going Native\|本土化]]概念。
+> 3. **归纳编码与持续比较** 依据[[Grounded Theory\|扎根理论]]规程，开展[[Open Coding\|开放编码]]、[[Axial Coding\|轴心编码]]与选择编码，提炼[[Going Native\|本土化]]概念。
 > 4. **成员校验与同行评议** 将形成的初步理论解释返还参与者核实校验，确保解释不偏离主观体验。
 > 5. **情境化[[Rich and Thick Description\|厚描述]]撰写** 编织包含直接引语、情感肌理与组织历史脉络的深度叙事报告。
 

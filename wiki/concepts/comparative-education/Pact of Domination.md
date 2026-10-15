@@ -8,7 +8,7 @@ aliases:
 summary: "批判政治社会学与拉美依附国家理论核心概念，指外围资本主义国家中国内后封建寡头、新兴买办资产阶级与跨国垄断资本跨越利益分歧结成的排他性阶级同盟，解释了国家何以沦为代用国家并在面对底层抗争时推行教育双轨与补偿性合法化"
 type: concept
 domain: "comparative-education"
-related_count: 9
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -31,14 +31,13 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Liliana Esther Olmos]]"
-  - "[[Carlos Alberto Torres]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-09-28
+updated: 2026-10-15
 ---
 
 # Pact of Domination
@@ -55,7 +54,7 @@ updated: 2026-09-28
 > - **用途** 解释为什么第三世界国家的教育扩张总是伴随着顽固的阶级双轨制与大众失学，瓦解“国家中立”假象。
 > - **边界** 不等于单一的独裁者个人意志或特定政党，而是一种深层结构性的阶级阶层利益共同体。
 
-> [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与[[Carlos Alberto Torres|托雷斯]]论支配同盟对国家公共职能的实质异化
+> [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论支配同盟对国家公共职能的实质异化
 > 拉丁美洲的“[[Conditioned State Theory|受限国家]]”无法妥善履行其公共职能：一方面，脆弱的本土经济使本土支配阶层极度不愿向大众开放实质平等的政治参与；另一方面，在历史上，国家底层民众始终将国家更多地识别为统治阶级结成的支配同盟（Pact of Domination）或一个“代用国家”，而非致力于造福全体国民的独立主权实体。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 83)]]
 >
 > *since the state historically has been identified by the popular sectors more as a pact of domination by the dominant classes, or a surrogate state, it has not been seen as an independent state working on behalf of the citizenry.*

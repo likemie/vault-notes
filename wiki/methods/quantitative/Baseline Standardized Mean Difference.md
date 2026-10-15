@@ -10,9 +10,9 @@ summary: "用于量化实验与准实验研究干预前处理组与对照组初�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 40
-method_related_level: 5
-method_related_stars: "⭐⭐⭐⭐⭐"
+method_related_count: 38
+method_related_level: 4
+method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/quantitative
@@ -29,7 +29,6 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Heterogeneity]]"
   - "[[Epistemology]]"
-  - "[[Document]]"
   - "[[Internal Validity]]"
   - "[[Interaction Effect]]"
   - "[[Implementation Fidelity]]"
@@ -37,7 +36,6 @@ related_concepts:
   - "[[Literature Search]]"
   - "[[Effective Sample Size]]"
   - "[[Scale of Measurement]]"
-  - "[[Hypothesis]]"
   - "[[Floor and Ceiling Effects]]"
   - "[[Reliability]]"
 related_theories:
@@ -71,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Baseline Standardized Mean Difference
@@ -102,7 +100,7 @@ updated: 2026-09-17
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 循证评价坚持“[[Causality\|因果推断]]的可比性依赖于[[Counterfactual\|反事实]]构造的无偏性”。在非[[Random Assignment\|随机分配]]的准实验情境下，若未严格证明组间起点等价，[[Pre-test and Post-test\|后测]]观察到的组间差异必然混杂了不可观测的初始能力和环境禀赋差异。
-> - **研究者角色** 研究者必须执行标准化的前端硬性门槛筛选，避免将研究者对初级研究的个人偏好引入[[Document\|文献]]池。
+> - **研究者角色** 研究者必须执行标准化的前端硬性门槛筛选，避免将研究者对初级研究的个人偏好引入文献池。
 > - **有效性标准** 核心保障研究的[[Internal Validity\|内部效度]]（Internal Validity）与统计结论效度，为[[Campbellian Validity Framework\|坎贝尔效度体系]]中抵御“选择-成熟[[Interaction Effect\|交互作用]]”（Selection-Maturation Interaction）提供量化屏障。
 > - **不声称回答的问题** 基线等效仅证明两组在所测量的观测[[Variable\|变量]]上起点相当，不能完全排除未测量的深层心理特质差异，亦不能替代对实验[[Implementation Fidelity\|实施保真度]]（Implementation Fidelity）与磨蚀偏倚（[[Attrition\|attrition bias]]）的审查。
 
@@ -168,7 +166,7 @@ updated: 2026-09-17
 > |---|---|---|---|---|
 > | **$\lvert d\rvert \le 0.05$** | **基线高度等价**<br>（High Equivalence） | 组间差异微弱，属于完全[[Random Sampling\|随机抽样]]误差范围；[[Pre-test and Post-test\|后测]]分析无需加入协[[Variable\|变量]]。 | **无条件采纳** | 组间无系统性选择偏倚，[[Internal Validity\|内部效度]]达到准随机对照水平。 |
 > | **$0.05 < \lvert d\rvert \le 0.25$** | **基线有条件等价**<br>（Conditional Equivalence） | 初级研究必须在统计分析中将前测成绩作为[[Covariate Adjustment\|协变量控制]]（如 [[Analysis of Covariance\|ANCOVA]] 或回归）。 | **有条件采纳**（报告校正结果者纳入，未校正则排除） | 组间存在轻中度初始偏差，但在线性假定范围内可通过协方差统计模型消除混杂。 |
-> | **$\lvert d\rvert > 0.25$** | **基线严重不等价**<br>（Baseline Non-equivalent） | 统计模型无法纠偏；[[What Works Clearinghouse\|WWC]] 判定为“未达标（Does Not Meet Standards）”。 | **坚决予以剔除** | **ANCOVA 纠偏失效** 两组潜在能力分布存在质性[[Heterogeneity\|异质性]]、天花板/地板效应，违背平行回归[[Hypothesis\|假设]]。 |
+> | **$\lvert d\rvert > 0.25$** | **基线严重不等价**<br>（Baseline Non-equivalent） | 统计模型无法纠偏；[[What Works Clearinghouse\|WWC]] 判定为“未达标（Does Not Meet Standards）”。 | **坚决予以剔除** | **ANCOVA 纠偏失效** 两组潜在能力分布存在质性[[Heterogeneity\|异质性]]、天花板/地板效应，违背平行回归假设。 |
 
 > [!warning] 为什么 $|d_{\text{baseline}}| > 0.25$ 时 ANCOVA 统计校正会失效？
 > 1. **潜在分布质性异质性** 当组间基线差异超过 $0.25$ 个标准差时，两组学生通常来自质性不同的群体（如重点班 vs 普通班）。此时测验工具可能在高端出现“[[Floor and Ceiling Effects\|天花板效应]]”或在低端出现“地板效应”，严重扭曲分数的等距性。
@@ -181,7 +179,7 @@ updated: 2026-09-17
 
 > [!method-fit] 适用判断
 > - **适合使用**
->   - [[Systematic Review\|系统综述]]与[[Meta-analysis\|元分析]]的[[Document\|文献]]筛选阶段，对实验与准实验初级研究实施前端质量准入审查。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, p. 8)]]
+>   - [[Systematic Review\|系统综述]]与[[Meta-analysis\|元分析]]的文献筛选阶段，对实验与准实验初级研究实施前端质量准入审查。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, p. 8)]]
 >   - 准实验教育[[Intervention Research\|干预研究]]在数据收集后的[[Internal Validity\|内部效度]]诊断，决定后续统计分析是否需要引入[[Covariate Adjustment\|协变量控制]]。
 >   - [[Randomised Controlled Trials\|随机对照试验]]中发生严重[[Attrition\|样本流失]]（Differential Attrition）后的补救性等价检验。
 > - **谨慎使用**
@@ -197,7 +195,7 @@ updated: 2026-09-17
 > [!method-limits] 方法局限
 > - **无法侦测未测量的潜在混杂** $d_{\text{baseline}}$ 只能衡量已纳入[[Pre-test and Post-test\|前测]]测验的[[Variable\|变量]]；两组如果在未测量的性格特质、家庭期望或教师教学风格上存在偏差，该指标无法识别。
 > - **高度依赖前测工具的心理测量学质量** 若前测测验[[Reliability\|信度]]较低（如 $\alpha < 0.70$）或存在严重的题目难度偏向，计算出的 $d_{\text{baseline}}$ 将受测量误差严重衰减。
-> - **实践中的“报告缺失”门槛** 基础教育初级研究中大量[[Document\|文献]]未能规范报告前测标准差或两组独立均值，严格执行该门槛可能导致大量研究被排除，面临合成[[Sample Size Determination\|样本量]]缩减的张力。
+> - **实践中的“报告缺失”门槛** 基础教育初级研究中大量文献未能规范报告前测标准差或两组独立均值，严格执行该门槛可能导致大量研究被排除，面临合成[[Sample Size Determination\|样本量]]缩减的张力。
 
 ---
 

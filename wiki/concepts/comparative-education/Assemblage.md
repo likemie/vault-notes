@@ -10,7 +10,7 @@ aliases:
 summary: "行动者网络理论与后结构主义哲学的核心概念，指异质性的人类与非人类行动者（符号、文本、技术、法律与耐用客体）在动态关联中临时聚合形成的社会-物质网络。它打破结构先验论与本质主义，强调关系物质性、耐用材料的秩序化策略、转译过程与黑箱化，并在断裂与重构中展现权力的生成性。"
 type: concept
 domain: "comparative-education"
-related_count: 49
+related_count: 45
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -21,7 +21,6 @@ tags:
   - policy-sociology
 related_concepts:
   - "[[Heterogeneity]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Relational Space]]"
   - "[[Ontology]]"
   - "[[Policy Borrowing]]"
@@ -29,7 +28,6 @@ related_concepts:
   - "[[Policy Network]]"
   - "[[Doxa]]"
   - "[[Value Neutrality]]"
-  - "[[Habitus]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Venture Philanthropy]]"
   - "[[Knowledge Production]]"
@@ -50,7 +48,6 @@ related_theories:
   - "[[Path Dependence]]"
   - "[[Governing at a Distance]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Item Response Theory]]"
   - "[[Correlational Research]]"
@@ -58,7 +55,6 @@ related_persons:
   - "[[Bruno Latour]]"
   - "[[Jason Beech]]"
   - "[[Sigrid Hartong]]"
-  - "[[Isaiah Berlin]]"
 related_facts:
   - "[[Australian Education Research Organisation]]"
   - "[[Social Ventures Australia]]"
@@ -77,7 +73,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-06-07
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Assemblage
@@ -87,7 +83,7 @@ updated: 2026-10-09
 ## 定义
 
 > [!def] 核心定义
-> 组装（Assemblage，法文 agencement）是由[[Heterogeneity\|异质性]]（人类与非人类、物质与符号）要素在持续关联中协同运作而生成的社会-物质构型。它既非僵死的固定结构，亦非孤立个体的集合，而是通过[[Transfer Translation Transformation\|转译]]、[[Coding in Qualitative Research\|编码]]与耐用材料具身化过程而临时维系其边界的动态网络效果；具有一定的稳定性但始终存在内在缝隙，并在特定行动者发生位移或断裂时暴露出建构本质（Fenwick & Edwards, 2010, 引自 [[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015, p. 8]]；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 1–2]]）。
+> 组装（Assemblage，法文 agencement）是由[[Heterogeneity\|异质性]]（人类与非人类、物质与符号）要素在持续关联中协同运作而生成的社会-物质构型。它既非僵死的固定结构，亦非孤立个体的集合，而是通过转译、编码与耐用材料具身化过程而临时维系其边界的动态网络效果；具有一定的稳定性但始终存在内在缝隙，并在特定行动者发生位移或断裂时暴露出建构本质（Fenwick & Edwards, 2010, 引自 [[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015, p. 8]]；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 1–2]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 社会秩序、制度实体与政策权威并非先验存在，而是由法规条文、技术工具、资金流向与人类行动者在[[Relational Space\|关系空间]]中共同编织并践行的异质网络。
@@ -101,7 +97,7 @@ updated: 2026-10-09
 
 > [!boundary]- 概念边界
 > - 不等于 [[Actor-Network Theory\|行动者网络理论]]（Actor-Network Theory, ANT）— ANT 是整体的方法论哲学体系，组装是 ANT 及相关后人类理论描述异质实体聚合构型的核心[[Ontology\|本体论]]概念。
-> - 不等于 [[Transfer Translation Transformation\|转译]]（Translation）— 转译是行动者被招募、协商并联结入网的动态过程与机制，组装则是转译沉淀与践行下的关系性构型与效果。
+> - 不等于 转译（Translation）— 转译是行动者被招募、协商并联结入网的动态过程与机制，组装则是转译沉淀与践行下的关系性构型与效果。
 > - 不等于 静态系统结构（System Structure）— 传统结构预设构件的先验内在从属与固定等级，组装强调构件的外在性关系（relations of exteriority），各要素可脱离特定装配进入新语境运作。
 
 ---
@@ -111,7 +107,7 @@ updated: 2026-10-09
 > [!contrast-table] 概念辨析
 > | 维度 | 本概念（Assemblage） | [[Actor-Network Theory\|行动者网络理论（ANT）]] | [[Policy Borrowing\|政策借用]]与转移（Policy Transfer） | 静态制度结构（Institutional Structure） |
 > |---|---|---|---|---|
-> | **分析本体** | 异质构件（人、物、符号、文本）临时生成的社会-物质复合体 | 包含广义对称性、[[Transfer Translation Transformation\|转译]]与行动元等原则的理论与方法学体系 | 国家或地区间单向或双向采纳的政策文本、实践或理念 | 具有先验功能等级、法律边界与稳定职能的科层实体 |
+> | **分析本体** | 异质构件（人、物、符号、文本）临时生成的社会-物质复合体 | 包含广义对称性、转译与行动元等原则的理论与方法学体系 | 国家或地区间单向或双向采纳的政策文本、实践或理念 | 具有先验功能等级、法律边界与稳定职能的科层实体 |
 > | **物质性角色** | 物质作为耐用客体具身化社会关系，直接参与秩序建构 | 将非人类行动者提升至与人类同等对称的能动地位 | 通常将硬件、技术或文件视为中立载体或背景[[Variable\|变量]] | 将制度硬件视为服从人类科层指令的被动执行工具 |
 > | **空间与边界观** | 突破欧几里得地理空间，在拓扑功能与[[Relational Space\|关系空间]]中维系形态 | 空间是网络生成的效果，没有固定的内外部界线 | 以民族国家为基本领土单元，关注跨国界物理转移 | 空间局限于法定辖区、行政边界或物理组织壁垒 |
 > | **权力机制** | 权力是网络精心装配、黑箱化与耐用材料固化的产物 | 权力非中心控制力，而是在异质节点转译链条中的流动效果 | 权力体现为主权政府、跨国组织或决策精英的主观选择 | 权力是科层体制自上而下赋予的法定权威与支配能力 |
@@ -125,7 +121,7 @@ updated: 2026-10-09
 > - **异质构件的对称共生（Heterogeneous Actants）** 组装打破社会与自然、人类与技术的二元划界，将人类行动者（教师、学者、官员、金融家）与非人类行动者（教科书、计算机、网线、章程法案、评估量规）置于同等能动的分析网络中。（Fenwick & Edwards, 2010; [[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015]]）
 > - **耐用材料与关系物质性（Relational Materiality）** 口头言语与思想短暂易逝，社会关系必须具身于立法文本、组织章程、硬件技术或审计规程等耐用材料中，网络才能获得跨越时空的持久稳定形态。（Law, 1992; [[Argument_Rowe_2022_IJER\|Rowe, 2022]]）
 > - **外在性关系（Relations of Exteriority）** 组装各构件具备自主性与相对独立性，同一构件（如某项因果证据量规或某项法案条款）可从特定装配中剥离并嵌入全新的[[Policy Network\|政策网络]]中运转。（DeLanda, 2006）
-> - **[[Transfer Translation Transformation\|转译]]与黑箱化机制（Translation & Black-boxing）** 异质行动者通过问题化、利益化与动员被吸纳进装配；装配一旦稳固运转，其内部冲突与妥协便被隐藏，呈现为[[Doxa\|不言自明]]的客观事实或[[Value Neutrality\|价值中立]]实体。（Callon, 1986; Law, 1992）
+> - **转译与黑箱化机制（Translation & Black-boxing）** 异质行动者通过问题化、利益化与动员被吸纳进装配；装配一旦稳固运转，其内部冲突与妥协便被隐藏，呈现为[[Doxa\|不言自明]]的客观事实或[[Value Neutrality\|价值中立]]实体。（Callon, 1986; Law, 1992）
 > - **脆断性与再装配潜力（Deterritorialisation & Fragility）** 组装并非一劳永逸的坚固城堡，任何关键节点的失灵（如服务器宕机、断电、审计漏洞被揭穿或关键人事更迭）都可能导致装配网络瞬间脆断并引发重组。
 
 > [!logic-map]- 组装运作与权力生成拓扑
@@ -151,7 +147,7 @@ updated: 2026-10-09
 > 检视组织实体如何跨越欧几里得地理疆界，依托文本、法规与物质客体构筑跨越时空的持久权威。
 
 > [!claim] Law, J.; Rowe, E.
-> **耐用客体的秩序化策略** 思想瞬时且口头言语短暂，单纯的人际交往无法维系超过数分钟的复杂社会结构。唯有将社会关系具身于耐用材料（durable materials，如法律文本、建筑设施、技术仪器与数据表格）之中，异质网络才能维系形态并产生持续的秩序。埃玛·罗威（Emma Rowe）引入澳大利亚纵贯 5600 公里的防野狗围栏（dingo fence）作为政策装配隐喻：围栏表面上是由铁丝与木桩构成的物理阻隔，但它同时装配了管理委员会、《野狗围栏法》、巡逻承包合同、卫星电话与毒饵，在物理空间与[[Relational Space\|关系空间]]中共同改变了大陆物种[[Habitus\|习性]]与风沙地貌；国家[[Educational Brokerage Agency\|证据中介机构]][[Australian Education Research Organisation\|澳大利亚教育研究组织]]（AERO）同样如此，其外表展现为超党派中立实体，但维系其长程运作的正是《公司法》注册底座、预算法案修订规则与标准化因果证据量规等耐用材料的战略装配。[[Argument_Rowe_2022_IJER\|(Rowe, 2022, pp. 1–3)]]; Law (1992, p. 387)
+> **耐用客体的秩序化策略** 思想瞬时且口头言语短暂，单纯的人际交往无法维系超过数分钟的复杂社会结构。唯有将社会关系具身于耐用材料（durable materials，如法律文本、建筑设施、技术仪器与数据表格）之中，异质网络才能维系形态并产生持续的秩序。埃玛·罗威（Emma Rowe）引入澳大利亚纵贯 5600 公里的防野狗围栏（dingo fence）作为政策装配隐喻：围栏表面上是由铁丝与木桩构成的物理阻隔，但它同时装配了管理委员会、《野狗围栏法》、巡逻承包合同、卫星电话与毒饵，在物理空间与[[Relational Space\|关系空间]]中共同改变了大陆物种习性与风沙地貌；国家[[Educational Brokerage Agency\|证据中介机构]][[Australian Education Research Organisation\|澳大利亚教育研究组织]]（AERO）同样如此，其外表展现为超党派中立实体，但维系其长程运作的正是《公司法》注册底座、预算法案修订规则与标准化因果证据量规等耐用材料的战略装配。[[Argument_Rowe_2022_IJER\|(Rowe, 2022, pp. 1–3)]]; Law (1992, p. 387)
 
 ---
 
@@ -171,7 +167,7 @@ updated: 2026-10-09
 > 探讨维系社会-物质装配的脆弱平衡，以及非人类构件受损时对整体权力和知识网络的反噬。
 
 > [!claim] Callon, M.; Fenwick, T.
-> **非人类节点失灵与装配解组** 组装的稳固性完全依赖于[[Transfer Translation Transformation\|转译]]链条中各异质节点持续不断的作用力平衡。在课堂情境中，一本教科书或一块交互式白板连接着出版商、课程专家、采购部门、电源与软件开发商；当白板断电、网络崩溃或教科书被替换时，原本高度自动化的教学秩序瞬间崩溃，迫使行动者正视非人类客体的存在（Fenwick & Edwards, 2010）。在政策生态中，当新成立实体的企业注册底座、董事交叉任职或免税避税数据被调查性研究与信息公开申请所穿透时，由中立修辞构筑的“客观证据中介”黑箱随即被打破，重新转化为各方政治与学术博弈的争议前沿。[[Argument_Beech_2015_GSE\|(Beech & Artopoulos, 2015, p. 8)]]; [[Argument_Rowe_2022_IJER\|(Rowe, 2022, pp. 4, 11)]]
+> **非人类节点失灵与装配解组** 组装的稳固性完全依赖于转译链条中各异质节点持续不断的作用力平衡。在课堂情境中，一本教科书或一块交互式白板连接着出版商、课程专家、采购部门、电源与软件开发商；当白板断电、网络崩溃或教科书被替换时，原本高度自动化的教学秩序瞬间崩溃，迫使行动者正视非人类客体的存在（Fenwick & Edwards, 2010）。在政策生态中，当新成立实体的企业注册底座、董事交叉任职或免税避税数据被调查性研究与信息公开申请所穿透时，由中立修辞构筑的“客观证据中介”黑箱随即被打破，重新转化为各方政治与学术博弈的争议前沿。[[Argument_Beech_2015_GSE\|(Beech & Artopoulos, 2015, p. 8)]]; [[Argument_Rowe_2022_IJER\|(Rowe, 2022, pp. 4, 11)]]
 
 ---
 
@@ -181,7 +177,7 @@ updated: 2026-10-09
 > 检视技术标准、统一题库与数字[[Center of Calculation\|计算中心]]如何突破欧几里得地理空间与行政管辖边界，在微观教学与宏观治理之间建立直接的拓扑连接。
 
 > [!claim] [[Sigrid Hartong\|Hartong, S.]]
-> **拓扑折叠与[[Governing at a Distance\|远处治理]]重组** 政策装配不仅是要素的静态聚合，更是一种拓扑空间化策略。在德国联邦体制中，宪法明确规定各州享有文化主权（Kulturhoheit），禁止联邦设立全国统一学校公开排名榜或直接干预学校教学。然而，通过在[[Isaiah Berlin|柏林]]联合设立[[Institute for Educational Quality Improvement\|柏林教育质量发展研究所]]（IQB）作为国家[[Center of Calculation\|计算中心]]，并装配经[[Item Response Theory\|项目反应理论]]（IRT）校准的国家统一题库、校际比较诊断（[[Vergleichsarbeiten\|VERA]]）与数字化自适应练习平台，[[Policy Network\|政策网络]]将原本距离遥远且层级分隔的国家与国际质量标准直接“折叠”（folding）进地方学校与班级的微观教学实践中。这种拓扑[[Data Infrastructure\|数据基础设施]]的装配，无需对宪法进行刚性修改，便实现了跨尺度的教育政策重组与[[Governing at a Distance\|远处治理]]。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 134–146)]]
+> **拓扑折叠与[[Governing at a Distance\|远处治理]]重组** 政策装配不仅是要素的静态聚合，更是一种拓扑空间化策略。在德国联邦体制中，宪法明确规定各州享有文化主权（Kulturhoheit），禁止联邦设立全国统一学校公开排名榜或直接干预学校教学。然而，通过在柏林联合设立[[Institute for Educational Quality Improvement\|柏林教育质量发展研究所]]（IQB）作为国家[[Center of Calculation\|计算中心]]，并装配经[[Item Response Theory\|项目反应理论]]（IRT）校准的国家统一题库、校际比较诊断（[[Vergleichsarbeiten\|VERA]]）与数字化自适应练习平台，[[Policy Network\|政策网络]]将原本距离遥远且层级分隔的国家与国际质量标准直接“折叠”（folding）进地方学校与班级的微观教学实践中。这种拓扑[[Data Infrastructure\|数据基础设施]]的装配，无需对宪法进行刚性修改，便实现了跨尺度的教育政策重组与[[Governing at a Distance\|远处治理]]。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 134–146)]]
 
 ---
 

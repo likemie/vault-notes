@@ -6,7 +6,7 @@ aliases:
 summary: "跨研究或同一群体内部超出抽样误差的系统性变异；在量化元分析中表征效应量分布发散并指导调节变量分析，在复杂系统与混合方法中揭示均值遮蔽的质性动因多样性，并在教学实验中解构干预构念子维度与学习者认知背景的异质效应。"
 type: concept
 domain: "research-methodology"
-related_count: 68
+related_count: 65
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -23,8 +23,6 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Ontology]]"
   - "[[Rich and Thick Description]]"
-  - "[[Hypothesis]]"
-  - "[[Document]]"
   - "[[Determinism]]"
   - "[[Grand Theory]]"
   - "[[Epistemic Governance]]"
@@ -72,7 +70,6 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Meta-meta-analysis]]"
 related_persons:
-  - "[[Paul Pierson]]"
   - "[[Karl Pearson]]"
   - "[[Gene Glass]]"
   - "[[John Hattie]]"
@@ -93,7 +90,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-06-08
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Heterogeneity
@@ -133,8 +130,8 @@ updated: 2026-10-12
 > |---|---|---|---|
 > | **表现形式** | 各实证研究效应量之间的数学发散（Q 检验、$I^2$ 统计量） | 针对同一表层结果（如赞同“学校像监狱”），行动者主观归因与价值理由的深层分化 | 单一研究中样本统计量围绕总体真实参数的偶然随机偏离 |
 > | **处理原则** | 选用[[Fixed-Effect and Random-Effects Models\|随机效应模型]]并执行[[Moderator Analysis\|调节变量分析]] | 运用质性访谈与[[Rich and Thick Description\|深描]]透视微观机制，实施混合方法三角验证 | 增加[[Sample Size Determination\|样本容量]]以稀释并抵消随机涨落 |
-> | **方法论价值** | 警示合成研究是否面临“苹果与橙子”粗暴合并的风险 | 破解单一统计指标造成的均质化幻觉，揭示行动意图与机制多样性 | 充能量化[[Hypothesis\|假设]]检验与计算[[Standard Error\|标准误]]的数理基底 |
-> | **代表[[Document\|文献]]** | [[Argument_Higgins_2016_ROE\|Higgins (2016)]]; Glass (1976) | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 23)]]; Feilzer (2010) | Robinson (1950); Coe (2002) |
+> | **方法论价值** | 警示合成研究是否面临“苹果与橙子”粗暴合并的风险 | 破解单一统计指标造成的均质化幻觉，揭示行动意图与机制多样性 | 充能量化假设检验与计算[[Standard Error\|标准误]]的数理基底 |
+> | **代表文献** | [[Argument_Higgins_2016_ROE\|Higgins (2016)]]; Glass (1976) | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 23)]]; Feilzer (2010) | Robinson (1950); Coe (2002) |
 
 ---
 
@@ -208,7 +205,7 @@ updated: 2026-10-12
 ### 命题总览
 
 > [!contrast-table] 围绕异质性形成的理论命题总览
-> | 命题类型 | 核心主张 | 方法论机制 | 代表[[Document\|文献]] |
+> | 命题类型 | 核心主张 | 方法论机制 | 代表文献 |
 > |---|---|---|---|
 > | **因果机制信号命题** | 异质性非噪声，而是通向教育因果边界与干预机制的关键信号 | [[Moderator Analysis\|调节变量分析]]、CMO 配置探寻 | [[Argument_Higgins_2016_ROE\|Higgins (2016)]]; [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] |
 > | **去情境化批判命题** | 多级统计合成强行抹除异质性，导致统计炼金术与政策失真 | 逐级清洗批判、测量偏误解构 | Feinstein (1995); [[Argument_Simpson_2017_JEP\|Simpson (2017)]] |
@@ -221,7 +218,7 @@ updated: 2026-10-12
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1904 — 起源阶段** [[Paul Pierson|皮尔逊]]（[[Karl Pearson]]）在跨研究数据合并中首次提出：不仅要检验数据合并的平均结论，更须关注不同研究间效果变异（异质性）的动因。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, p. 33)]]
+> - **1904 — 起源阶段** 皮尔逊（[[Karl Pearson]]）在跨研究数据合并中首次提出：不仅要检验数据合并的平均结论，更须关注不同研究间效果变异（异质性）的动因。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, p. 33)]]
 > - **1970s–1980s — [[Meta-analysis\|元分析]]确立与初衷警示** 格拉斯（[[Gene Glass]]）开创元分析方法，但明确警告其最终呈现“绝不应只是一个冰冷的平均数，而应是一张展示效果异质性与变异模式的分布图”。[[Argument_Wrigley_2018_BERJ\|(Wrigley, 2018, p. 9)]]
 > - **1990s — [[Grand Theory\|宏大理论]]批判与医学统计反思** 莱德（Layder, 1994）与默顿（Merton）等批判宏大叙事无视世界的流动与异质性；流行病学家 Feinstein（1995）指斥脱离临床异质性的元分析为“21 世纪统计炼金术”。
 > - **2000s — 测量学批评与[[Realist Evaluation\|实在论综合]]** Coe（2002）指出将不同测量工具的[[Effect Size\|效应量]]强行平均在数学上缺乏意义；Pawson（2006）确立“背景-机制-结果”的[[Realist Evaluation\|实在论评估]][[Paradigm\|范式]]，主张将异质性作为理论生成源泉。
@@ -258,7 +255,7 @@ updated: 2026-10-12
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — [[Systematic Review\|系统综述]]基于 [[PISA]] 2015 及[[Cognitive Load Theory\|认知负荷理论]]的实证[[Document\|文献]]，论证了探究教学中[[Construct\|构念]]子维度异质性（实验设计 vs 课堂争论）与学习者认知群体异质性（先前知识逆转、[[Executive Function\|执行功能]][[Inhibitory Control\|抑制控制]]）对教学干预效能边界的决定性作用。
+> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — [[Systematic Review\|系统综述]]基于 [[PISA]] 2015 及[[Cognitive Load Theory\|认知负荷理论]]的实证文献，论证了探究教学中[[Construct\|构念]]子维度异质性（实验设计 vs 课堂争论）与学习者认知群体异质性（先前知识逆转、[[Executive Function\|执行功能]][[Inhibitory Control\|抑制控制]]）对教学干预效能边界的决定性作用。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 11, 23, 32)]] — 提出“学校像监狱”100 人质性归因案例，论证单一统计指标对解释异质性的遮蔽，并阐明[[Complexity Theory\|复杂性理论]]中异质性作为多重视角与多元[[Paradigm\|范式]]倡导的核心公理。
 > - [[Argument_Higgins_2016_ROE\|Higgins (2016)]] — 系统阐述[[Meta-analysis\|元分析]]中异质性检验的统计学机制（Q、I²、固定/[[Fixed-Effect and Random-Effects Models\|随机效应模型]]）及[[Moderator Analysis\|调节变量分析]]的理论价值。
 > - [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] — 对比分析英国 [[Education Endowment Foundation\|EEF]] 工具包中的反馈与[[Teaching Assistant\|教学助理]]项目，解构多级统计聚合抹杀教学情境异质性带来的政策风险。

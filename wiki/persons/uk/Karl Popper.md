@@ -10,7 +10,7 @@ summary: "奥地利裔英国科学哲学家与社会哲学家，提出可证伪�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 27
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -40,7 +40,6 @@ related_concepts:
   - "[[Educational Meliorism]]"
   - "[[Paradigm]]"
   - "[[Scientific Paradigm]]"
-  - "[[Hypothesis]]"
   - "[[Operationalization]]"
 related_theories: []
 related_methods:
@@ -61,7 +60,7 @@ related_instruments: []
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Karl Popper
@@ -181,7 +180,7 @@ updated: 2026-10-12
 > > 争论焦点在于单个经验证据是否真的能够在逻辑上断然证伪一个理论。
 > >
 > > - **Karl Popper（1934, 1959）** 强调全称命题与单称命题之间的逻辑非对称性：一千只白天鹅不能证实所有天鹅皆白，但一只黑天鹅即可在逻辑上证伪该全称判断。
-> > - **Pierre Duhem & [[W. V. O. Quine]]** 提出迪昂-奎因论题反驳指出，理论总是作为整体网络共同面对经验法庭；当推导出的预测失败时，研究者完全可以通过修改辅助[[Hypothesis\|假设]]来挽救核心理论，孤立的断然证伪在实际研究中极少发生。
+> > - **Pierre Duhem & [[W. V. O. Quine]]** 提出迪昂-奎因论题反驳指出，理论总是作为整体网络共同面对经验法庭；当推导出的预测失败时，研究者完全可以通过修改辅助假设来挽救核心理论，孤立的断然证伪在实际研究中极少发生。
 >
 > > [!axis] 持续革命的规范理想 vs 常规科学的历史实态（库恩之辩）
 > > 争论焦点在于科学家的真实实践究竟是持续追求自我反驳，还是维护既定权威[[Paradigm\|范式]]。

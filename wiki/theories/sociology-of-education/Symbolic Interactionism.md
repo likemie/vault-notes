@@ -7,7 +7,7 @@ aliases:
 summary: "源自微观社会学与社会心理学的核心理论范式，主张行动者基于事物对自身的主观意义采取行动，意义在符号互动与角色扮演中持续涌现、协商与修正，互动本身构成探究的基本分析单位。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 41
+theory_related_count: 40
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -41,7 +41,6 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Ethnography]]"
   - "[[Quantitative Research]]"
-  - "[[Coding in Qualitative Research]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Participant Observation]]"
   - "[[Field Notes]]"
@@ -153,7 +152,7 @@ updated: 2026-10-15
 > [!theory-proposition] 命题二｜符号意义并非固化静态实体，而是在面对面交往中持续[[Emergence|涌现]]与协商的生成过程
 > **解释** 社会现实与社会秩序不是先验设立的固定容器，行动亦非预存心理人格的简单投射。在真实的交往场景中，意义始终处于动态流动与不断生成（Emergent [[Flow]]）之中。行动者在面对面相遇时持续进行着情境测试、试探修改、策略拼凑与利益妥协；任何规则与共识都是暂时的、依赖情境的，并在后续互动中面临重新协商。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, pp. 25–26)]]
 >
-> **应用实例** 在[[Peter Woods|彼得·伍兹]]（Woods, 1979）经典的课堂教育[[Ethnography|民族志]]中，传统[[Quantitative Research|量化研究]]（如 [[Flanders Interaction Analysis Categories|FIAC]] [[Coding in Qualitative Research|编码]]）将学生的“无聊”、“胡闹（mucking around）”或“哄笑（having a laugh）”机械标记为“违规偏离”。伍兹深入现场[[Rich and Thick Description|深描]]后揭示：学生通过精心设计的“胡闹”与“哄笑”，实质上是在微观互动中向教师测试底线、协商教学进度并维护同伴声望。教学秩序正是师生通过持续的微观试探与妥协所共同达成的动态平衡。
+> **应用实例** 在[[Peter Woods|彼得·伍兹]]（Woods, 1979）经典的课堂教育[[Ethnography|民族志]]中，传统[[Quantitative Research|量化研究]]（如 [[Flanders Interaction Analysis Categories|FIAC]] 编码）将学生的“无聊”、“胡闹（mucking around）”或“哄笑（having a laugh）”机械标记为“违规偏离”。伍兹深入现场[[Rich and Thick Description|深描]]后揭示：学生通过精心设计的“胡闹”与“哄笑”，实质上是在微观互动中向教师测试底线、协商教学进度并维护同伴声望。教学秩序正是师生通过持续的微观试探与妥协所共同达成的动态平衡。
 
 > [!theory-proposition] 命题三｜社会行动的有效协调依托行动者扮演他人角色与主客我内部对话的反思能力
 > **解释** 米德（1934）阐明，自我是社会过程的产物。自我的结构由自发冲动的“主我”（I）与代表社会期望的“客我”（Me）组成。个体在采取行动前，能够向自我做出指示并开展内部虚拟演练。通过“扮演他人角色”（Taking the Role of the Other），行动者预判交往对方的潜在反应，站在他人乃至整个群体（概化他人）的立场审视自我，进而调整外显姿态，达成多方行动的有序对齐。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, pp. 25–26)]]
@@ -216,5 +215,5 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 25–27)]] — 系统提炼符号互动论的三大公设、互动研究单位、课堂胡闹案例[[Rich and Thick Description|深描]]以及结构学派对其展开的四重方法论批评。 [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 全书多处贯穿符号互动论在[[Qualitative Interview|质性访谈]]设计、角色定位管理与观察[[Coding in Qualitative Research|编码]]中的方法论映射。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 25–27)]] — 系统提炼符号互动论的三大公设、互动研究单位、课堂胡闹案例[[Rich and Thick Description|深描]]以及结构学派对其展开的四重方法论批评。 [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 全书多处贯穿符号互动论在[[Qualitative Interview|质性访谈]]设计、角色定位管理与观察编码中的方法论映射。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 131–132, 136)]] — 考据比较教育学理论演进史，将符号互动论确立为 1970 年代起打破[[Structural Functionalism|结构功能主义]]单一霸权垄断的 26 种核心[[Theoretical Standpoint|理论立场]]之一。

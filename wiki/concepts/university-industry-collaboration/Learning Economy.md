@@ -10,7 +10,7 @@ aliases:
 summary: "涵盖微观制造经验积累与宏观创新系统演进的双重经济分析范式。微观上指累计产量翻番带来单位生产成本下降20%–30%的动态学习效应；宏观上指在全球化与技术快速变迁中，竞争力取决于动态学习与知识吸收能力而非静态要素存量；在新增长理论与经合组织政策框架中，更指财富创造取决于沟通性互动学习与全生命周期技能更新，驱动经济体向终身学习形态转型。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 35
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -30,7 +30,6 @@ related_concepts:
   - "[[Absorptive Capacity]]"
   - "[[Lifelong Learning]]"
   - "[[Variable]]"
-  - "[[Document]]"
   - "[[Creativity]]"
   - "[[Experiential Learning]]"
   - "[[Linear Model of Innovation]]"
@@ -47,7 +46,6 @@ related_theories:
   - "[[Technological Trajectories]]"
   - "[[Path Dependence]]"
 related_methods:
-  - "[[Coding in Qualitative Research]]"
   - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Schnee_1978_RP]]"
@@ -65,7 +63,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-06-09
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 # Learning Economy
 
@@ -111,7 +109,7 @@ updated: 2026-10-14
 > | **核心机制** | 历史累计产出增加带来的工艺熟练与良率爬坡 | 单期生产规模扩大带来的固定成本摊薄 | 跨组织多通道互动、知识吸收与快速迭代 | 科学专利与无形智力资产的资本化存量 |
 > | **关键[[Variable\|变量]]** | 历史累计总产量（Cumulative Output） | 当期瞬时产出率（Current Output Rate） | 组织学习速度与新旧知识重组效率 | 研发经费投入强度与受教育劳动力比例 |
 > | **成本/收益曲线** | 累计经验翻番带动单位成本下降 20%–30% | 达到最小有效规模（MES）后边际成本递增 | 形成敏捷适应与持续创新的动态竞争优势 | 知识溢出与高附加值产品专利垄断租金 |
-> | **典型代表[[Document\|文献]]** | [[Argument_Schnee_1978_RP\|Schnee (1978)]]; Arrow (1962) | 新古典微观企业理论 | [[Argument_Caraca_2009_TFSC\|Caraça et al. (2009)]]; Lundvall (1994) | OECD (1996); Romer (1990) |
+> | **典型代表文献** | [[Argument_Schnee_1978_RP\|Schnee (1978)]]; Arrow (1962) | 新古典微观企业理论 | [[Argument_Caraca_2009_TFSC\|Caraça et al. (2009)]]; Lundvall (1994) | OECD (1996); Romer (1990) |
 
 ---
 
@@ -189,7 +187,7 @@ updated: 2026-10-14
 ### 命题总览
 
 > [!contrast-table] 学习经济相关命题归纳
-> | 命题类型 | 核心指向 | 适用情境 | 代表学者与[[Document\|文献]] |
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
 > | **微观制造学习曲线** | 累计经验积累使单位产品成本每翻一番下降 20%–30%，公共采购托底是跨越早期高成本门槛的关键 | 资本与技术密集型新兴制造工业（如半导体、光伏、电池） | [[Argument_Schnee_1978_RP\|Schnee (1978)]]; Arrow (1962) |
 > | **宏观动态学习能力** | 竞争优势源于知识获取、吸收与遗忘的敏捷学习流速而非静态存量 | 全球化竞争与技术快速变迁的现代[[Knowledge-Based Economy\|知识经济]]体 | [[Argument_Caraca_2009_TFSC\|Caraça et al. (2009, pp. 864–866)]]; Lundvall & Johnson (1994) |
@@ -219,7 +217,7 @@ updated: 2026-10-14
 > > - **经验效率学派（[[Argument_Schnee_1978_RP|Schnee, 1978]]; BCG, 1968）** 强调在既定技术轨道上通过规模制造迅速压低成本是构筑产业竞争壁垒和实现商业普及的最有效手段。
 > > - **技术锁定与能力陷阱批评（Arthur, 1989; Levinthal & March, 1993）** 指出过分专注于既有工艺的学习曲线优化会产生“利用性惯性”，使企业对新一代革命性技术架构（如从分立器件到集成电路、从双极型到 MOS 器件）产生认知盲区，沦为“能力陷阱”。
 >
-> > [!axis] [[Coding in Qualitative Research|编码]]技术获取 vs 沟通性互动学习与全域适应力
+> > [!axis] 编码技术获取 vs 沟通性互动学习与全域适应力
 > > 学习型经济的核心机制是将新工具作为检索既有信息的手段，还是重塑人际沟通与组织[[Innovation Ecosystem|创新生态]]？
 > >
 > > - **技术工具论** 将学习窄化为劳动力熟练操作信息通信技术的技能培训，侧重编码知识的被动输入。

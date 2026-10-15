@@ -12,7 +12,7 @@ alias_reviewed:
 summary: "利用人工智能算法对学习者认知状态、知识掌握与解题步骤（以及科学探究过程）进行细致建模并提供自适应个性化教学指导的计算机系统，涵盖良构问题解题分步支架与探究式智能导师系统（Inq-ITS），由领域模型、学生模型、教学模型与交互界面四大经典构件组成。"
 type: concept
 domain: "educational-technology"
-related_count: 60
+related_count: 57
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -33,7 +33,6 @@ related_concepts:
   - "[[Zone of Proximal Development]]"
   - "[[Academic Achievement]]"
   - "[[STEM Education]]"
-  - "[[Teaching Assistant]]"
   - "[[Evaluative Judgement]]"
   - "[[Generative AI Agent in Education]]"
   - "[[Dialogue in Education]]"
@@ -44,7 +43,6 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Task Structure]]"
   - "[[Variable]]"
-  - "[[Hypothesis]]"
   - "[[Control of Variables Strategy]]"
   - "[[AI Agent in Education]]"
   - "[[Informationalization]]"
@@ -60,7 +58,6 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Epistemic Stances]]"
   - "[[Epistemic Agency]]"
-  - "[[Transfer Translation Transformation]]"
   - "[[Computer Simulation]]"
 related_theories:
   - "[[Cognitive Load Theory]]"
@@ -90,7 +87,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Intelligent Tutoring Systems
@@ -119,7 +116,7 @@ updated: 2026-10-08
 > *Tutorials and Intelligent Tutoring systems convey new concepts and skills in a structured manner with adaptive diagnosis and step-by-step hints, demonstrating substantially higher learning benefits than drill-and-practice or hypermedia systems in secondary [[STEM Education]].*
 
 > [!boundary]- 概念边界
-> - **不等于 计算机辅[[Teaching Assistant\|助教]]学（Computer-Assisted Instruction, CAI）** 传统 CAI 采用预设的分支跳转逻辑，无法根据学习者解题过程中的认知概率模型进行动态推断与分步干预。
+> - **不等于 计算机辅助教学（Computer-Assisted Instruction, CAI）** 传统 CAI 采用预设的分支跳转逻辑，无法根据学习者解题过程中的认知概率模型进行动态推断与分步干预。
 > - **不等于 操练与练习程序（Drill-and-Practice Programs）** 操练程序侧重于对既有记忆与自动化反应的机械强化，仅提供正误判定与答案反馈，无法自主引导全新概念与高级程序性技能的系统建构。
 > - **不等于 通用大语言模型（LLM）与开放式生成系统** 传统 ITS 拥有确定性、预设且透明的学科领域规则模型与教学策略模型，提供的是具有可追溯性与因果可恢复性的过程性步骤脚手架（Procedural Scaffolding with Predetermined Standards）；而生成式大模型在劣构领域提供概率性综合，极易跨越边界直接输出承载判断型协助，置换学习者的[[Evaluative Judgement\|评价性判断]]。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 3–5)]]
 
@@ -146,7 +143,7 @@ updated: 2026-10-08
 > - **学生模型（Student / Learner Model）** 动态表征与追踪学习者当前的知识掌握概率、技能熟练度与常见错误认知偏差，经典方法包括贝叶斯知识追踪（Bayesian Knowledge Tracing, BKT）与深度知识追踪（Deep Knowledge Tracing, DKT）。
 > - **教学模型（Pedagogical / Tutor Model）** 依据学生模型与领域模型的差异，动态决定教学干预的时机、反馈类型以及提示层级（从微线索、定向提示到概念解释与答案呈现），并实施[[Scaffolding\|脚手架]]的渐进撤除。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, p. 7)]]
 > - **用户界面（User Interface）** 提供学生输入推导步骤、书写代码或进行多模态交互的操作空间，并即时呈现图式表征与自适应[[Feedback\|教学反馈]]。
-> - **探究式智能导师架构（Inquiry ITS & Teacher Dashboard）** 将传统步骤诊断拓展至开放科学探究，利用教育数据挖掘解析实验操作日志，内置虚拟智能代理（如 Rex）提供实时微观支架，并借[[Teaching Assistant\|助教]]师实时看板（如 [[Inq-Blotter]]）将学生探究卡点转化为教师现场介入建议，实现[[Man-Computer Symbiosis|人机协同]]双轨支架协同联动（Gobert et al., 2013, 2023; Dickler et al., 2021; [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 9–10]]）。
+> - **探究式智能导师架构（Inquiry ITS & Teacher Dashboard）** 将传统步骤诊断拓展至开放科学探究，利用教育数据挖掘解析实验操作日志，内置虚拟智能代理（如 Rex）提供实时微观支架，并借助教师实时看板（如 [[Inq-Blotter]]）将学生探究卡点转化为教师现场介入建议，实现[[Man-Computer Symbiosis|人机协同]]双轨支架协同联动（Gobert et al., 2013, 2023; Dickler et al., 2021; [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 9–10]]）。
 
 > [!taxonomy] 数字化教学工具的功能谱系与认知定位（Hillmayr et al., 2020）
 > - **辅导与智能辅导系统（Tutorials & ITS）** 结构化引导全新概念与技能建构，具备自适应诊断与分步支持，学业提升效应最为突出。
@@ -233,7 +230,7 @@ updated: 2026-10-08
 > 突破传统 ITS 局限于良构解题的范式瓶颈，探讨数据挖掘与教师决策看板如何协同支持学生在高阶探究中的假说检验与变量控制。
 
 > [!claim] [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]
-> **过程日志挖掘与人机双轨探究支架支持** 现代探究式智能导师系统（Inquiry-based Intelligent Tutoring Systems, [[Inq-ITS]]）打破了传统 ITS 局限于良构符号计算的范围瓶颈，通过教育数据挖掘技术实时解析学生在虚拟科学实验室中的动态操作（如[[Hypothesis\|假设]]提出、[[Control of Variables Strategy\|变量控制策略]] CVS 与数据解读）。系统内置的虚拟对话[[AI Agent in Education\|智能体]]（Rex）在算法检测到探究阻碍时自动推送分层微观[[Scaffolding\|脚手架]]，纵向追踪实验证实此种干预不仅促进即时探究技能，更实现了跨学期的远距离知识迁移（Gobert et al., 2013, 2023）；更为关键的是，系统结合实时决策看板（[[Inq-Blotter]]）将算法诊断的学生探究卡点实时推送给任课教师，指导教师精准进行现场面对面干预，获得教师针对性提示的学生在后续任务中技能获得显著额外提升（Dickler et al., 2021），确立了“算法实时微观代偿+教师现场宏观引导”的人机协同双轨探究教学模式。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 9–10)]]
+> **过程日志挖掘与人机双轨探究支架支持** 现代探究式智能导师系统（Inquiry-based Intelligent Tutoring Systems, [[Inq-ITS]]）打破了传统 ITS 局限于良构符号计算的范围瓶颈，通过教育数据挖掘技术实时解析学生在虚拟科学实验室中的动态操作（如假设提出、[[Control of Variables Strategy\|变量控制策略]] CVS 与数据解读）。系统内置的虚拟对话[[AI Agent in Education\|智能体]]（Rex）在算法检测到探究阻碍时自动推送分层微观[[Scaffolding\|脚手架]]，纵向追踪实验证实此种干预不仅促进即时探究技能，更实现了跨学期的远距离知识迁移（Gobert et al., 2013, 2023）；更为关键的是，系统结合实时决策看板（[[Inq-Blotter]]）将算法诊断的学生探究卡点实时推送给任课教师，指导教师精准进行现场面对面干预，获得教师针对性提示的学生在后续任务中技能获得显著额外提升（Dickler et al., 2021），确立了“算法实时微观代偿+教师现场宏观引导”的人机协同双轨探究教学模式。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 9–10)]]
 
 ---
 
@@ -328,7 +325,7 @@ updated: 2026-10-08
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 探讨从传统确定性智能辅导系统向[[Generative Artificial Intelligence\|生成式人工智能]]共生学习演进中的[[Epistemic Stances\|认识立场]]分化，提出结合[[Chain-of-Thought Prompting\|思维链提示]]与教学评议的双轨支架体系以捍卫人类[[Epistemic Agency\|认识主体性]]。
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统阐明探究式智能导师系统（[[Inq-ITS]]）利用教育数据挖掘追踪复杂科学探究技能、通过智能代理（Rex）提供自适应微观支架，并借助实时教师看板（[[Inq-Blotter]]）实现人机双轨协同教学与跨学期远迁移的前沿机制。
 > - [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] — 在教育[[AI Agent in Education\|人工智能智能体]]促学[[Meta-analysis\|元分析]]中将智能导师系统作为核心分析类型，证实其对基础教育学段认知表现具有显著的正向促进效应（$g = 0.540$），通过步骤级自适应线索精准支持学习者的[[Procedural Skill\|程序性技能]]习得。
-> - [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]] — 依托德语区清算服务中心[[Transfer Translation Transformation\|转译]]实践，详细评述 Hillmayr et al. (2020) 针对中学理科数字化工具的元分析（$k = 92$），确立了智能辅导系统（$g = 0.65$）相较于传统操练程序与超媒体系统的效能优势，并明确论证了教师专业教学法培训作为关键调节支点的不可替代性。
+> - [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]] — 依托德语区清算服务中心转译实践，详细评述 Hillmayr et al. (2020) 针对中学理科数字化工具的元分析（$k = 92$），确立了智能辅导系统（$g = 0.65$）相较于传统操练程序与超媒体系统的效能优势，并明确论证了教师专业教学法培训作为关键调节支点的不可替代性。
 > - [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] — 在关于[[Epistemic Dependence\|认识依赖]]的[[Critical Review\|批判性综述]]中，将传统智能导师系统的步骤级透明规则协助作为对照基准，深入辨析其与生成式大语言模型在知识确证分工、协助形态分层（过程性协助 vs 承载判断型协助）及认知可恢复性维护上的本质分野。
 > - [[Argument_Naeem_2026_Episteme\|Naeem (2026)]] — 从[[Virtue Epistemology|美德认识论]]出发对传统 ITS 的直接答案导向设计逻辑提出根本性批判，提出提问型导师（Q-Tutor）作为颠覆性替代架构：以直接答案拦截规则与封闭→开放问题递进序列，将智能导师从答案传递者重构为认知挣扎的催化者，从而防范[[Cognitive Deskilling\|认知去技能化]]并培育[[Epistemic Virtues and Vices|理智美德]]。
 

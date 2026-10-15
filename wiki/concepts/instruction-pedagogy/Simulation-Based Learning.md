@@ -8,7 +8,7 @@ aliases:
 summary: "在高度仿真的物理、虚拟或社会环境中进行动态操作、决策试错与即时复盘的高阶教学模式，广泛用于医学、工程与复杂问题解决"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 16
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -24,7 +24,6 @@ related_concepts:
   - "[[Theoretical Knowledge]]"
   - "[[Phronesis]]"
   - "[[Critical Thinking]]"
-  - "[[Hypothesis]]"
   - "[[Feedback]]"
   - "[[Externalization]]"
   - "[[Metacognition]]"
@@ -43,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Simulation-Based Learning
@@ -57,7 +56,7 @@ updated: 2026-09-17
 
 > [!concept-lens] 概念透镜
 > - **含义** 在零现实风险的安全受控环境中，复刻真实世界系统的内在因果规则与动态不确定性。
-> - **用途** 用于培养高风险专业领域中的快速情境意识、[[Hypothesis\|假设]]验证、危机决策与批判性诊断能力。
+> - **用途** 用于培养高风险专业领域中的快速情境意识、假设验证、危机决策与批判性诊断能力。
 > - **边界** 必须包含结构化的复盘反思环节；单纯的软件操作或缺乏反思的反复试错无法促进深层思维迁移。
 
 > [!boundary]- 概念边界
@@ -74,7 +73,7 @@ updated: 2026-09-17
 > | **安全与容错** | 极高（零真实风险，允许极限试错） | 低（直接面对真实患者/生产系统安全风险） | 高（按照既定步骤操作预设仪器） |
 > | **情境保真度** | 高度仿真真实系统的动态不确定性 | 绝对真实（但接触罕见病例具有随机性） | 理想化抽象模型（缺乏真实复杂干扰） |
 > | **[[Feedback\|教学反馈]]** | 自动化即时反馈 + 专家录像复盘 | 依赖带教教师的偶发性指导 | 依据固定实验报告标准打分 |
-> | **认知过程** | [[Hypothesis\|假设]]检验、动态监控与系统性纠偏 | 观察模仿与程序性执行 | 验证既有理论公式 |
+> | **认知过程** | 假设检验、动态监控与系统性纠偏 | 观察模仿与程序性执行 | 验证既有理论公式 |
 
 ---
 
@@ -96,7 +95,7 @@ updated: 2026-09-17
 > 探讨模拟环境如何促进深层反思。
 
 > [!claim] Abrami, P. C., et al.
-> **[[Meta-analysis\|元分析]]实证支持** [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 的元分析表明，情境模拟（Simulations）作为独立子策略干预具有稳健的正向促进效应（$k = 23, g+ = 0.26, 95\%\text{ CI} = [0.09, 0.43]$）。模拟环境允许学生直观观察到自身错误[[Hypothesis\|假设]]导致的即时系统后果，这种强烈的因果反馈结合事后复盘，强力驱动了[[Metacognition\|元认知]]监控与批判性自我纠正。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 287, 294)]]
+> **[[Meta-analysis\|元分析]]实证支持** [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 的元分析表明，情境模拟（Simulations）作为独立子策略干预具有稳健的正向促进效应（$k = 23, g+ = 0.26, 95\%\text{ CI} = [0.09, 0.43]$）。模拟环境允许学生直观观察到自身错误假设导致的即时系统后果，这种强烈的因果反馈结合事后复盘，强力驱动了[[Metacognition\|元认知]]监控与批判性自我纠正。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 287, 294)]]
 
 ---
 

@@ -8,9 +8,9 @@ aliases:
 summary: "托兰斯创造性思维测验的成人标准化精简版本，包含1项言语活动与2项图形活动，用于在高等教育与组织情境中快速测定成人的发散思维潜能与多维创造力表现指标。"
 type: instrument
 instrument_type: test
-instrument_related_count: 10
-instrument_related_level: 2
-instrument_related_stars: "⭐⭐"
+instrument_related_count: 9
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#dbeafe"
 part_of: "[[Torrance Tests of Creative Thinking]]"
 developers:
@@ -31,7 +31,6 @@ related_concepts:
   - "[[Divergent Thinking]]"
   - "[[Creativity]]"
   - "[[Criterion-Referenced Test]]"
-  - "[[Hypothesis]]"
   - "[[Construct Validity]]"
   - "[[Cultural Validity]]"
   - "[[Creativity Assessment]]"
@@ -46,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-03
-updated: 2026-09-03
+updated: 2026-10-15
 ---
 
 # Abbreviated Torrance Test for Adults
@@ -81,7 +80,7 @@ updated: 2026-09-03
 ## 题项与作答方式
 
 > [!instrument-items] 作答规则
-> - **题项形式** 1 项言语问题[[Hypothesis\|假设]]活动与 2 项不完整图形线索发散补全活动。
+> - **题项形式** 1 项言语问题假设活动与 2 项不完整图形线索发散补全活动。
 > - **作答格式** 纸笔手写文本列举与画笔构图。
 > - **反向题与跳题** 无反向题与跳题；每项活动严格计时 3 分钟，要求在限定时间内尽可能产生多且独特的想法。
 
