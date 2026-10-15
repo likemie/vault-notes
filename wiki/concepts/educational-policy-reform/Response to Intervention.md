@@ -7,10 +7,10 @@ aliases:
 summary: "起源于美国《个体残疾人教育法》（IDEA 2004）的三层教学支持与特殊教育筛查模型，通过核心通用教学（Tier 1）、小组针对性辅导（Tier 2）和高强度个别辅导（Tier 3）提供梯度干预，后经斯莱文发展为以强证据项目系统填充各层的循证干预反应（RTPI）改革方案"
 type: concept
 domain: "educational-policy-reform"
-related_count: 38
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - special-education
   - intervention-research
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Determinism]]"
   - "[[Evidence-Based Reform]]"
+  - "[[PICO Framework]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Cohort Study]]"
@@ -60,6 +61,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Slavin_2019_EP]]"
   - "[[Argument_Biesta_2010_SPE]]"
+  - "[[Argument_Kalmendal_2025_PsyArXiv]]"
 confidence: high
 status: draft
 created: 2026-09-17
@@ -187,6 +189,12 @@ updated: 2026-10-16
 > >
 > > - **循证规范派（Slavin）** 强调必须严格遵循原实验验证的教学规程与时长剂量，任何非标准化裁剪都会大幅削弱干预效能。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 27)]]
 > > - **情境生态派（Bryk）** 认为标准化方案忽略了学校组织内部的微观[[Heterogeneity\|异质性]]，应当通过网络化改进社区（Networked Improvement Communities, NICs）发展本地化自适应方案。
+>
+> > [!axis] 二阶证据综合中的结局指标与设计混淆（基于 Kalmendal et al., 2025）
+> > 关于宏观证据库如何转录与综合 RTI 效能。RTI 本质上是面向中小学困难儿童的学业补救与特教防线，但在二阶元分析数据库中遭遇了严重的指标掺杂。
+> >
+> > - **非学业测量污染学业效应** 《可见的学习》在 RTI 影响因素中直接收录了 Tran et al. (2011) 的元分析，混杂了行为表现与智商测试指标；并收录了 Burns and Symington (2002) 针对大学生的组内设计观察行为，直接违背了针对中小学基础学业的 [[PICO Framework|PICO 准入红线]]。
+> > - **导致干预效能被假性低估** 将组内非学业观察行为与严格组间学业实验未加权直接合并，严重稀释了结构化教学补救（如一对一辅导）在真实学业提升上的因果效应量。[[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, p. 15)]]
 
 ---
 
@@ -231,4 +239,5 @@ updated: 2026-10-16
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 桑代克终身成就奖演说论著，系统诊断传统 RTI 的执行困境并提出 [[Response to Proven Instruction\|RTPI]] 循证干预反应方案及阅读与数学实证效果矩阵。
 > - [[Argument_Biesta_2010_SPE\|Biesta (2010)]] — 对将教育简化为分层技术干预的工具理性与[[Determinism\|因果决定论]]提供批判视角。
+> - [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] — 针对宏观证据库中 RTI 影响因素开展预注册元科学审计，揭示一阶元分析收录非学业测量（智商与行为）及大学生样本直接违背 PICO 准入标准的问题。
 > - [[Evidence-Based Reform]] — 循证改革主条目，包含政府资助、证据审查与政策激励的三条件模型。

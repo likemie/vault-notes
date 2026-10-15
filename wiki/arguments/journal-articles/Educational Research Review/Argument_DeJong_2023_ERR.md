@@ -170,7 +170,7 @@ updated: 2026-10-16
 > [!method-panel] 研究设计
 > | 模块 | 材料与处理方式 |
 > |---|---|
-> | **[[Critical Review\|批判性文献综述]]** | 系统检视 Zhang et al. (2022) 所依据的三类实证支柱（受控实验、[[Correlational Research\|相关性研究]]、基于项目的课程研究），深度辨析其论证推导中的选择性引证、逻辑跳跃、断章取义与对照组混淆问题。（pp. 3–6） |
+> | **[[Critical Review\|批判性文献综述]]** | 系统检视 [[Argument_Zhang_2022_SE\|Zhang et al. (2022)]] 所依据的三类实证支柱（受控实验、[[Correlational Research\|相关性研究]]、基于项目的课程研究），深度辨析其论证推导中的选择性引证、逻辑跳跃、断章取义与对照组混淆问题。（pp. 3–6） |
 > | **多项[[Meta-analysis\|元分析]]二次综合与检验** | 汇总并交叉对比科学教育领域 8 项具有里程碑意义的权威元分析与[[Systematic Review\|系统综述]]（涵盖 Minner et al., 2010; Alfieri et al., 2011; Furtak et al., 2012; Lazonder & Harmsen, 2016; Schwichow et al., 2016 等），核验[[Effect Size\|效应量]]分布与调节[[Variable\|变量]]。 |
 > | **跨国大规模调查[[Correlational Research\|非线性建模]]审视** | 深入剖析 [[PISA]] 2015 与[[TIMSS\|国际数学与科学趋势研究]]（Trends in International Mathematics and Science Study, TIMSS）跨国数据库中关于课堂探究活动频次、教师指导与科学成就的多层线性与非线性模型。（pp. 5–6） |
 

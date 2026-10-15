@@ -699,7 +699,7 @@ Nielsen & Klitmøller 的独特贡献在于：不同于 Wecker 等人（2016）�
 
 ### [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 预注册全库元科学审计：PICO 失范与可复现性崩溃
 
-如果说 Wecker et al. (2016)、Bergeron and Rivard (2017) 以及 Nielsen & Klitmøller (2021) 是对早期 *Visible Learning*（800+ 元分析）关键主题或个案的抽样剖析，那么 [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] 则构成了学界迄今为止对该体系（扩张至 322 个影响因素、2,400+ 元分析）进行的**首次全量、穷尽性且预注册的元科学（Metascientific）系统审计**。
+如果说 [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]]、[[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] 以及 Nielsen & Klitmøller (2021) 是对早期 *Visible Learning*（800+ 元分析）关键主题或个案的抽样剖析，那么 [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] 则构成了学界迄今为止对该体系（扩张至 322 个影响因素、2,400+ 元分析）进行的**首次全量、穷尽性且预注册的元科学（Metascientific）系统审计**。
 
 该研究团队历时近四年，检索并精读了 1,369 篇一阶元分析全文，从受试者-干预-对照-结局（[[PICO Framework]]）规范、研究设计混合、年代时效性与数据提取可复现性四个维度展开核验（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025, pp. 10–14]]）：
 
@@ -864,7 +864,7 @@ Hattie 声称其经验分析被置于"理论语境"中——一种[[Didaktik|教
 > [!tension] "研究笼子"：高[[Reliability\|信度]] vs 高效度（[[Argument_Rømer_2018_EPT\|Rømer, 2018, p. 6]]）
 > Rømer 将此诊断为"研究笼子"（research cage）：系统具有高信度与高[[Internal Consistency\|内部一致性]]，但因[[Variable\|变量]]和[[Independent Variable\|自变量]]相互循环定义，与研究对象本身没有任何接触。代价是**高效度牺牲换取了高信度**。
 
-丹麦 Hattie 倡导者 Qvortrup (2015) 也提出了类似批评，认为 Hattie 的数据过于侧重"表层学习"，并试图基于 Bateson（而非 Popper）重建[[Dependent Variable|因变量]]([[Argument_Rømer_2018_EPT|Rømer, 2018, pp. 5–6]])。
+丹麦 Hattie 倡导者 [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] 也提出了类似批评，认为 Hattie 的数据过于侧重"表层学习"，并试图基于 Bateson（而非 Popper）重建[[Dependent Variable|因变量]]([[Argument_Rømer_2018_EPT|Rømer, 2018, pp. 5–6]])。
 
 #### 批评三：激进建构主义消解教学概念——双重瓦解
 
@@ -1096,7 +1096,7 @@ Nielsen & Klitmøller（2021）的独特贡献在于：不加入"VL 错了"的�
 > | [[Argument_McKnight_2020_Discourse\|McKnight and Whitburn (2020)]] | VL 的文化政治含义是什么？ | 新自由主义监控、性别歧视、能力主义——VL 的论述与这些不平等结构结盟 |
 > | **Nielsen & Klitmøller (2021)** | **为什么有严重问题的 VL 仍然主导政策？** | **合法化危机——VL 的技术理性内核恰好满足了教育系统亟需的合法化功能** |
 
-此分析与 Cowen (2019) 的 Tullock [[Bureaucracy|官僚制]]解释形成平行关系：Cowen 从 公共选择理论出发，论证 [[Randomised Controlled Trials|RCT]]/[[Systematic Review|系统综述]]提供"对主权者透明的过滤机制"；Nielsen & Klitmøller 从 Habermas 的 [[Critical Theory|批判理论]]出发，论证 VL 提供合法化承诺——两者共同构成 [[Evidence-Based Education|EBE]]/VL 批评的 **"制度功能"解释维度**，补充了此前以方法论（Wrigley, Simpson）、认识论（Biesta, Wiliam）和文化政治（McKnight & Whitburn）为主的批评。
+此分析与 [[Argument_Cowen_2019_ERE|Cowen (2019)]] 的 Tullock [[Bureaucracy|官僚制]]解释形成平行关系：Cowen 从 公共选择理论出发，论证 [[Randomised Controlled Trials|RCT]]/[[Systematic Review|系统综述]]提供"对主权者透明的过滤机制"；Nielsen & Klitmøller 从 Habermas 的 [[Critical Theory|批判理论]]出发，论证 VL 提供合法化承诺——两者共同构成 [[Evidence-Based Education|EBE]]/VL 批评的 **"制度功能"解释维度**，补充了此前以方法论（Wrigley, Simpson）、认识论（Biesta, Wiliam）和文化政治（McKnight & Whitburn）为主的批评。
 
 
 ### Hattie 的先验立场（[[Argument_OConnor_2020_AJLL|O'Connor, 2020]]）
@@ -1123,7 +1123,7 @@ Nielsen & Klitmøller（2021）的独特贡献在于：不加入"VL 错了"的�
 > [!citation-card]- Terhart, 2011, p. 434
 > “他将广泛的关于成功教与学的经验证据的解释引向一种现代化和精致的权威性、教师中心的教学概念。教师处于支配地位——但他必须以学生中心的方式驯化或隐藏其支配。传统的、公开的治理和支配形式已转变为一种精致的、不可见的、现代的形式。如果我们把它放在 Foucault 思想的语境中，这是显而易见的。”
 
-Hattie 本人也非常清楚地表明了这一点——他将互看、互见、互相被观察置于教与学理论的中心。Terhart 指出："这个理论的象征是眼睛"（p. 434, Figure 2）。这一 Foucault 式的解读比 McKnight and Whitburn（2020）的全景监狱批评早了近十年。
+Hattie 本人也非常清楚地表明了这一点——他将互看、互见、互相被观察置于教与学理论的中心。Terhart 指出："这个理论的象征是眼睛"（p. 434, Figure 2）。这一 Foucault 式的解读比 [[Argument_McKnight_2020_Discourse|McKnight and Whitburn（2020）]]的全景监狱批评早了近十年。
 
 ### [[Argument_McKnight_2020_Discourse|McKnight and Whitburn (2020)]] — 文化政治七点批评
 
@@ -1199,7 +1199,7 @@ VL 证据在政策过程中被多次误用。[[Argument_ONeill_2012_NZJES|O'Neil
 > - **澳大利亚 [[Victorian HITS and Literacy Toolkit\|HITS]] 的实施后果** 在基于 VL 的 HITS 实施地区，教师被强迫执行 简单化的表演性技术操作（如在课前将课题写在白板上），教师自主性、职业乐趣和同行专业发展均下降（Lilley, 2022; Wescott, 2022）（pp. 29–30）
 
 > [!critique] 角度三：新自由主义商业化——经济利益追踪
-> Johnson & Janzen 通过 Bates（2017）和 O'Neill et al.（2016）追踪了 VL 商业化的详细轨迹。其核心贡献在于识别了利益冲突、[[Class Size\|班级规模]]作为 [[Global Education Reform Movement\|GERM]] 紧缩工具、以及*"饥饿-危机-私有化"*循环。详见 [[Visible Learning Branding and Global Influences]]。
+> Johnson & Janzen 通过 [[Argument_Bates_2017_CognitionEducationTrust|Bates（2017）]]和 O'Neill et al.（2016）追踪了 VL 商业化的详细轨迹。其核心贡献在于识别了利益冲突、[[Class Size\|班级规模]]作为 [[Global Education Reform Movement\|GERM]] 紧缩工具、以及*"饥饿-危机-私有化"*循环。详见 [[Visible Learning Branding and Global Influences]]。
 
 > [!critique] 角度四：[[Cargo Cult Science]]——科学的误用
 > Johnson & Janzen 将 Feynman（1974）的 [[Cargo Cult Science]] 概念应用于 VL：
@@ -1215,7 +1215,7 @@ VL 证据在政策过程中被多次误用。[[Argument_ONeill_2012_NZJES|O'Neil
 
 ## 非学校因素的排除：[[Argument_Grace_2010_NZJES|Grace (2010)]] 的批评
 
-[[Gerald Grace]]——*"「[[Critic and Conscience of Society]]」"*概念的原作者——在回应 Hattie (2010) 时指出，VL 刻意将非学校因素排除在分析范围之外，这与其声称的 *"critic and conscience of society"* 角色存在根本矛盾（[[Argument_Grace_2010_NZJES|Grace, 2010, p. 90]]）。
+[[Gerald Grace]]——*"「[[Critic and Conscience of Society]]」"*概念的原作者——在回应 [[Argument_Hattie_2010_NZJES|Hattie (2010)]] 时指出，VL 刻意将非学校因素排除在分析范围之外，这与其声称的 *"critic and conscience of society"* 角色存在根本矛盾（[[Argument_Grace_2010_NZJES|Grace, 2010, p. 90]]）。
 
 > [!citation-card]- Hattie, 2009, pp.viii–xi（引自 Grace, 2010, p. 90–91）
 > *“许多社会学家会不高兴非学校因素没有被放在所有主张的最前面，但我注意到这‘不是因为他们不重要，实际上它们可能比书中讨论的许多问题更重要。只是我没有把这些主题纳入我的轨道。’”*

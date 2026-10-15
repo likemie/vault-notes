@@ -11,7 +11,7 @@ summary: "在无法实现随机分配的真实教育情境中通过非等对控�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 77
+method_related_count: 79
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -57,6 +57,7 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[External Validity]]"
   - "[[Construct Validity]]"
+  - "[[Incommensurability]]"
 related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
@@ -105,6 +106,7 @@ related_arguments:
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Eisenhart_Towne_2003_ER]]"
   - "[[Argument_Hitchcock_2015_JBE]]"
+  - "[[Argument_Kalmendal_2025_PsyArXiv]]"
 confidence: high
 status: active
 created: 2026-05-23
@@ -272,6 +274,7 @@ updated: 2026-10-16
 > - **选择-成熟交互威胁（Selection-Maturation Interaction）** 即使基线[[Pre-test and Post-test\|前测]]分数完全平衡，来自优势社区学校的对照组学生其自然认知成长斜率可能显著快于薄弱校干预组，导致因果估计产生系统性正向或负向偏倚（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, pp. 318–320]]）。
 > - **不可测混杂与遗漏[[Variable\|变量]]偏倚（Omitted Variable Bias）** [[Propensity Score Matching\|倾向得分匹配]]（PSM）与回归控制仅能平衡已观测到的协变量，无法控制教师教学热情、学生求知动机与家庭教养风格等不可测潜变量。
 > - **均值回归假象（Regression to the Mean）** 当依据前测极端低分筛选补救干预对象时，后测成绩的提高往往部分源于极端测验误差的统计回归，而非干预方案的纯因果实效。
+> - **设计参数不可通约性与跨设计混杂（Design Parameter Incommensurability）** 比较独立两组的组间准实验与追踪同一受试群体的组内前后测设计估计的是完全不同的总体参数（Morris & DeShon, 2002）。二阶元科学审计证实，《可见的学习》等宏观证据库存在严重的方法学违规——全库多达 17% 的因素直接混合组间与组内前后测，21% 混合组间实验与相关研究，彻底摧毁了效应量的可通约性与因果解释力（[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025, pp. 15–16]]）。
 > - **法定单项合规掩盖全量证据赤字** 在证据治理中，单项 QED 易被异化为合规工具，掩盖同一实践在全量证据库中高达 42%–51% 的无支持或负效应现实（[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024, p. 177]]）。
 > - **实践维度的信息遮蔽** QED 同 [[Randomised Controlled Trials\|RCT]] 一样，若仅报告平均[[Effect Size\|效应量]]，会系统性遗漏学校采纳最急需的微观实施成本、师生满意度与本地适配指南（[[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp. 120–122]]）。
 
@@ -295,6 +298,8 @@ updated: 2026-10-16
 > | [[Time Series Design]] | 准实验变体 | 跨越干预前后多时间点连续观测以建立动态[[Counterfactual\|反事实]]趋势线的无对照或有对照序列设计。 |
 > | [[Baseline Standardized Mean Difference]] | 质控指标 | 测度干预组与对照组基线失衡程度的标准量，作为 WWC 裁定 QED 是否达标的核心门槛。 |
 > | [[Tracking]] | 核心应用 | 因学校抵制随机分配导致 RCT 招募失败的典型学校内生组织政策，转由 QED 实施因果评估。 |
+> | [[Incommensurability]] | 方法学挑战 | 组间准实验与组内前后测设计在总体参数上的不可通约性。 |
+> | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 论证 | 审计证据 | 审计揭示二阶证据库中组间准实验、组内前后测与相关研究违规混用（17% 混杂组间与组内）导致的效度崩溃。 |
 
 ---
 
@@ -308,3 +313,4 @@ updated: 2026-10-16
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 总结英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）在学校拒绝[[Random Assignment\|随机分配]]宏观政策背景下，设立“[[Researching School Choices\|研究学校选择]]”资助序列、利用系统自然变异推进准实验因果评估的方法学制度演进（pp. 55–56）。
 > - [[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]] — 审计大型城市学区 2.88 亿美元支出流水，实证揭示单项 QED 法定中等证据门槛下超过 95% 的名义合规假象、学段科研供给断层及微观复合实践归因局限（pp. 162–165, 174–178）。
 > - [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart and Towne (2003)]] — 考证联邦立法从 NCLB 优先青睐随机分配实验向 ESRA（2002）法定承认准实验在排除竞争性解释时具备[[Causality|因果推断]]合法性的制度转折，记录 WWC 在公众评议下将准实验从实验模板中独立拆分的规程变革（pp. 34–36）。
+> - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 针对教育宏观二阶证据库开展系统性质量审计，揭示组间准实验、组内前后测与相关性观察研究被随意机械混杂（全库仅 30% 纯粹基于组间实验，51 项混杂组间与组内设计），实证证明跨设计总体参数不可通约性违背对因果解释力造成的毁灭性冲击。

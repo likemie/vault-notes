@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Meta-meta-analysis",
+      "path": "wiki/methods/quantitative/Meta-meta-analysis.md"
+    },
+    {
       "basename": "Argument_Kalmendal_2025_PsyArXiv",
       "path": "wiki/arguments/journal-articles/PsyArXiv/Argument_Kalmendal_2025_PsyArXiv.md"
+    },
+    {
+      "basename": "Randomised Controlled Trials",
+      "path": "wiki/methods/quantitative/Randomised Controlled Trials.md"
     },
     {
       "basename": "Recontextualization",
@@ -191,14 +199,6 @@
     {
       "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31",
       "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31.md"
-    },
-    {
-      "basename": "1986 U.S.-Japan Semiconductor Trade Agreement",
-      "path": "wiki/facts/us/1986 U.S.-Japan Semiconductor Trade Agreement.md"
-    },
-    {
-      "basename": "Sematech",
-      "path": "wiki/facts/us/Sematech.md"
     }
   ],
   "omittedPaths": [],

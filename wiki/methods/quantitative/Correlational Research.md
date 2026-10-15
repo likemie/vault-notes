@@ -10,7 +10,7 @@ summary: "不操纵自变量而以量化资料分析变量共变、预测模式�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 59
+method_related_count: 60
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -80,6 +80,7 @@ related_arguments:
   - "[[Argument_Brady_2023_EPR]]"
   - "[[Argument_Ginsberg_2024_EP]]"
   - "[[Argument_Lekhal_2015_Paideia]]"
+  - "[[Argument_Kalmendal_2025_PsyArXiv]]"
 related_facts:
   - "[[Every Student Succeeds Act]]"
   - "[[What Works Clearinghouse]]"
@@ -241,6 +242,10 @@ updated: 2026-10-16
 > - **因果挤压（Causal Squeeze）** 在教育心理学及相关实证研究中，研究者频繁使用“预测因子（predictors）”、“中介因子（mediators）”和“结局（outcomes）”等带有强烈因果色彩的模型语言，从而在无操纵数据的表述中“挤压”出貌似确凿的因果幻象。[[Argument_Brady_2023_EPR\|(Brady et al., 2023, p. 9)]]
 > - **实践建议急剧膨胀（RFP Inflation）** 纵向内容编码揭示，顶级教育心理学期刊中包含明确实践建议（Recommendations for Practice, RFP）的观察与相关研究论文比例，从 2000 年的 **41%** 激增至 2010 年的 **46%**，并于 2020 年进一步飙升至 **66%**。这种建议膨胀使得严重缺乏[[Internal Validity\|内部效度]]保障的相关发现被过度包装为一线教学处方，极大地超越了方法学原本的证据边界。[[Argument_Brady_2023_EPR\|(Brady et al., 2023, pp. 6–7)]]
 
+> [!critique] 二阶综合中的跨设计混淆与因果效度幻象（基于 Kalmendal et al., 2025）
+> - **观察相关与实验因果的违规平权** 在宏观二阶元分析与证据排行榜中，观察性相关研究常被研究者无差别地与受控实验设计（RCT / QED）直接算术平均。[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] 对《可见的学习》全库 322 个影响因素开展审计发现，多达 **27%（$n = 82$）** 的因素违背统计学原理，将观察性相关研究与严格组间实验混杂求和；另有 **10%** 同时混杂组间、组内与相关研究。
+> - **误导教学改进优先级** 相关性研究仅能描述常态伴随特征（如家庭社会经济地位、学生自我概念或欺凌发生率），无法分离反向因果与第三变量混杂。将其直接与拼读教学、课堂反馈等因果干预并列排榜，导致教师误以为改变某些表面伴随现象（如通过口头夸奖拔高自我概念）就能自动提升学业成绩，制造了严重的循证政策误导。[[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, pp. 15–16)]]
+
 > [!critique] 单项相关研究门槛下的合规漏洞与虚假繁荣（基于 Ginsberg et al., 2024）
 > - **单一研究支持下的采购盲区** [[Every Student Succeeds Act\|ESSA]] 法定将 Tier III 设为合格门槛且仅需“至少一项”研究支持。[[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]] 穿透式财务审计发现，大量耗费数千万美元公共教育资金的商业采购项目，全库仅能检索到单一项控制不全的相关性研究（例如针对实地考察 [[Champ\|field]] trips 的单一相关性研究，或 Stoeger 等人关于[[Self-Regulated Learning\|自我调节学习]]的单篇报告）。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, pp. 174, 180)]]
 > - **全量证据矛盾下的合规假象** 学区依托单一相关性报告合法合规地进行大规模采购，掩盖了该方案在因果识别下可能毫无提分实效、甚至在其他独立评估中呈现零效应或负效应的事实。过度放宽对相关性研究的政策依赖，导致公共教育财政巨额资金被锁定在缺乏稳健学业成效支持的常规项目之中。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, pp. 176–178)]]
@@ -259,6 +264,7 @@ updated: 2026-10-16
 > | [[Multiple Regression]] | 分析技术 | 多[[Meta-regression\|元回归]]是相关性研究控制选择偏误、从单纯相关迈向 ESSA Tier III 的核心统计工具。 |
 > | [[Quasi-Experimental Designs]] | 进阶方法 | 准实验设计通过设置处理组/对照组及外生因果识别策略，突破了相关性研究无法推断因果的局限。 |
 > | [[Randomised Controlled Trials]] | 黄金标准 | RCT 依托[[Random Assignment\|随机分配]]彻底消除可观测与不可观测混杂，与相关性研究形成因果阶梯的两极。 |
+> | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 审计证据 | 揭示二阶宏观综合中 27% 违规混杂观察相关与实验因果对教学改进造成的误导。 |
 
 ---
 
@@ -268,3 +274,4 @@ updated: 2026-10-16
 > - [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] — 对 2000–2020 年五本顶级教育心理学期刊进行系统[[Content Analysis\|内容分析]]，量化揭示了相关性研究中[[Recommendations for Practice\|实践建议]]（RFP）从 41% 激增至 66% 的方法学异化现象。
 > - [[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]] — 跨源检索四大公共证据库，揭示了依赖单项相关性研究达到 [[Every Student Succeeds Act\|ESSA]] Tier III 门槛给学区带来的公共教育资金配置合规漏洞。
 > - [[Argument_Lekhal_2015_Paideia\|Lekhal et al. (2015)]] — 运用大规模双信息源调查数据与分层[[Multiple Regression\|多元回归]]分析，检验学校人际关系与行为[[Variable\|变量]]对[[Gender Differences in Academic Achievement\|学业成就性别差异]]的解释路径。
+> - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 针对教育宏观二阶证据库开展系统性质量审计，揭示相关性研究被普遍与实验研究直接算术平均（27% 混杂实验与相关，10% 混杂三类设计），剖析了非操纵相关性对课堂因果干预建议造成的虚假确定性污染。
