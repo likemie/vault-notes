@@ -1407,6 +1407,10 @@ def get_global_alias_and_title_maps(by_title: Dict[str, Dict[str, Any]]) -> Tupl
     return cached
 
 
+_HOMONYM_INDEX_CACHE: Dict[int, Tuple[Dict[str, Set[Tuple[str, str]]], Dict[str, Set[Tuple[str, str]]]]] = {}
+_PAREN_ABBR_RE = re.compile(r"[(（]\s*([^()（）]+?)\s*[)）]")
+
+
 def _is_declared_abbreviation(inner: str, before: str) -> bool:
     """True when '(XYZ)' abbreviates the words right before it.
 

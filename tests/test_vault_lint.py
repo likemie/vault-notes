@@ -259,5 +259,21 @@ class AxisCalloutTests(unittest.TestCase):
         self.assertEqual([], issues)
         self.assertIn(">\n> > [!axis] 第二项", fixed)
 
+class AliasHomonymTests(unittest.TestCase):
+    def test_parenthetical_abbreviation_and_person_surname(self):
+        import vault_lint as vl
+        by_title = {
+            "Education for All": {"title": "Education for All", "type": "fact", "aliases": ["Education for All (EFA)", "全民教育"]},
+            "Exploratory Factor Analysis": {"title": "Exploratory Factor Analysis", "type": "method", "aliases": ["EFA"]},
+            "Karl Pearson": {"title": "Karl Pearson", "type": "person", "aliases": ["卡尔·皮尔逊"]},
+            "Paul Pierson": {"title": "Paul Pierson", "type": "person", "aliases": ["皮尔逊"]},
+            "Innovation Union": {"title": "Innovation Union", "type": "fact", "aliases": ["创新联盟（欧盟）"]},
+            "European Union": {"title": "European Union", "type": "fact", "aliases": ["欧盟"]},
+        }
+        self.assertTrue(vl.alias_homonym_hits("EFA", "Exploratory Factor Analysis", by_title))
+        self.assertTrue(vl.alias_homonym_hits("皮尔逊", "Paul Pierson", by_title))
+        self.assertEqual([], vl.alias_homonym_hits("欧盟", "European Union", by_title))
+
+
 if __name__ == "__main__":
     unittest.main()
