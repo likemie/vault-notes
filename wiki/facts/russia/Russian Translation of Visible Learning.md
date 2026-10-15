@@ -2,7 +2,7 @@
 title: Russian Translation of Visible Learning
 aliases:
   - Russian Translation of Visible Learning 2017
-  - 俄文版可见的学习（Visible Learning，VL）
+  - 俄文版可见的学习
 summary: "Hattie Visible Learning 的俄文译本出版事件，引发俄语教育学界围绕VL方法论和本土适用性的讨论"
 type: fact
 subtype: event

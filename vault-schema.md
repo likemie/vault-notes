@@ -211,7 +211,7 @@ OECD_2018_GlobalCompetence
 - Concept / Theory / Method / Instrument / Fact 的 `aliases` 写中文译名、常见英文变体和缩写。
 - Person 的 `aliases` 按 `template-person.md` 执行。
 - 页面中某个人名第一次出现时尽可能使用全名，中文正文采用中文（英文）格式；后续再次出现可自由使用英文原文（如英文姓氏或全名）或中文名/姓氏，无需机械重复添加双语括号。APA 引用中的人名保留英文原样。
-- 单个 alias 不要中英混合；中文译名、英文变体和缩写分成不同 alias。
+- 中文译名、英文变体和缩写分成不同 alias；不要把“中文（English）”这类双语括注整体写进一个 alias。人名或缩写与中文术语组合的常用写法（如“Pearson相关”“PISA素养”“IB文凭项目”）可以作为 alias。
 - 英文 alias 默认不区分大小写；不要同时写只差大小写的重复 alias。
 - 不要写过短、过宽或 tag 风格 slug alias，如“资本”“文化”“教育”“政策”“课程”“能力”“国家”“公平”。
 - alias 不得与其他条目同名。`vault_lint.py` 以 ERROR 拦截三种情况：两个条目使用完全相同的 alias 或 alias 等于另一条目标题（`ALIAS_DUPLICATE_CROSS_ENTRY`）；alias 是另一条目以括号声明的缩写，如“Education for All (EFA)”之于 EFA（`ALIAS_HOMONYM`）；Person 的中文姓氏 alias 与另一 Person 中文全名的姓氏相同，如“卡尔·皮尔逊”之于“皮尔逊”（`ALIAS_HOMONYM`）。出现以上任一同名必须修正：删除该 alias 或改为更长、更具体的写法。

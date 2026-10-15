@@ -1,7 +1,7 @@
 ---
 title: Critiques of Visible Learning
 aliases:
-  - 可见的学习（Visible Learning，VL）批评
+  - 可见的学习批评
   - Visible Learning critiques
   - Criticism of Visible Learning
 summary: "围绕 John Hattie Visible Learning 展开的批评谱系，集中讨论效应量排名、元-元分析、教学理论、教育哲学、可见性政治和商业化政策扩张等争议。"

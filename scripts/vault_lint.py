@@ -1569,10 +1569,12 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
                 if other_owners:
                     issues.append(Issue("ERROR", rel(path), f"alias {alias!r} is already used by another entry: {', '.join(other_owners)}", line=alias_line, code="ALIAS_DUPLICATE_CROSS_ENTRY"))
 
+                # Names/acronyms inside Chinese terms are normal usage
+                # ("Pearson相关", "PISA素养", "IB文凭项目"). Flag only a bilingual
+                # gloss copied into the alias, e.g. "可见的学习（Visible Learning，VL）批评".
                 alias_has_cjk = any("㐀" <= ch <= "鿿" for ch in a)
-                has_latin_word = re.search(r"[A-Za-z]{2,}", a) is not None
-                if alias_has_cjk and has_latin_word:
-                    issues.append(Issue("WARN", rel(path), f"alias mixes Chinese and English; split into separate aliases: {alias!r}", line=alias_line, code="ALIAS_QUALITY"))
+                if alias_has_cjk and re.search(r"[（(][^（）()]*[A-Za-z]{2,}[^（）()]*[）)]", a):
+                    issues.append(Issue("WARN", rel(path), f"alias embeds a bilingual gloss; keep the Chinese and English names as separate aliases: {alias!r}", line=alias_line, code="ALIAS_QUALITY"))
                 homonyms = alias_homonym_hits(a, title, by_title)
                 if homonyms:
                     issues.append(Issue(
