@@ -2309,11 +2309,17 @@ def check_markdown_misc(path: Path, text: str, issues: List[Issue]) -> None:
     if is_wiki_entry_path(path) and "/arguments/" not in f"/{rel(path)}":
         source_subject_re = re.compile(
             r"(?:^|[。！？\n>|])\s*(?:[-*]\s*)?(?:\*\*[^*\n]+\*\*\s*)?"
-            r"(论文|本文|本章|作者|研究者|本研究|本论证|第[一二三四五六七八九十百0-9]+章|全章)"
+            # "研究者" is left out: in method/concept entries the researcher is the
+            # actor of the method ("研究者通过统计证据来判断"), not a source being narrated.
+            r"(论文|本文|本章|作者|本研究|本论证|第[一二三四五六七八九十百0-9]+章|全章)"
             r"\s*(认为|指出|发现|报告|显示|表明|提出|讨论|介绍|说明|分析|检验|考察|引用|援引|使用|采用|通过|将|把|未|没有|旨在|聚焦|关注|强调|主张)"
         )
         for m in source_subject_re.finditer(scan):
             subject = m.group(1)
+            line_start = scan.rfind("\n", 0, m.start(1)) + 1
+            line_end = scan.find("\n", m.start(1))
+            if "____" in scan[line_start: line_end if line_end != -1 else len(scan)]:
+                continue  # fill-in writing templates ("本研究将解决____")
             issues.append(
                 Issue(
                     "WARN",

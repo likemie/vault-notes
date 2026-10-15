@@ -41,6 +41,8 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Variable]]"
   - "[[Scientific Method]]"
+  - "[[Critique of Meta-analysis]]"
+  - "[[Visible Learning]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
@@ -52,6 +54,9 @@ related_methods:
   - "[[Joint Display]]"
   - "[[Content Analysis]]"
   - "[[Correlational Research]]"
+  - "[[Meta-analysis]]"
+  - "[[Meta-meta-analysis]]"
+  - "[[Pre-test and Post-test]]"
 related_instruments: []
 related_persons:
   - "[[Thomas Kuhn]]"
@@ -61,6 +66,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Brady_2023_EPR]]"
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_Kalmendal_2025_PsyArXiv]]"
 confidence: high
 status: draft
 created: 2026-06-13
@@ -179,15 +185,26 @@ updated: 2026-10-16
 
 ---
 
+### 命题五　实证统计建模中跨实验设计估计不同总体参数具有内在的不可通约性
+
+> [!concept-lens] 统计总体参数的不可通约性（Morris & DeShon 参数断层）
+> 探讨不可通约性如何从定性认识论范式延伸至量化统计建模的核心底座：不同实验设计的效应量并非度量同一潜在实在的尺度转换，而是估计数学上不可直接通约的异质参数。
+
+> [!claim] Morris, S. B. & DeShon, R. P. (2002) / [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]]
+> **组间实验与组内前后测效应量的总体参数不可通约性** 莫里斯与德尚（Morris & DeShon, 2002）在元分析方法论研究中证明，独立样本组间实验设计（Between-subject）与追踪单组前后测的组内设计（Within-subject），其标准化的均值差（SMD）估计的是截然不同的总体参数。组间设计的标准化分母是独立个体间的离散度（$\sigma_{between}$），而组内设计的效应量分母直接受制于前后测配对相关系数（$\rho$）与个体变化分数的变异度（$\sigma_{diff}$）。未经协方差矩阵精确校正而直接对两类数值求算术平均，在数理逻辑上构成了典型的“总体参数不可通约性”谬误。卡尔门达尔等（Kalmendal et al., 2025）审计揭示，在《[[Visible Learning|可见的学习]]》等二阶综合中，高达 27% 的影响因素肆意将组间实验、组内前后测甚至纯描述性相关系数（$r$）直接混合池化，正是由于无视统计参数的不可通约性，导致其合成的平均效应量沦为无因果意义的数学伪像。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 7–8, 15–16)]]
+
+---
+
 ### 命题总览
 
-> [!contrast-table] 围绕不可通约性展开的四大核心命题归纳
+> [!contrast-table] 围绕不可通约性展开的五大核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **范式尺度缺失命题** | [[Scientific Paradigm\|科学范式]]缺乏中立评价标准，范式更替属于世界观非线性断裂 | 科学史、科学哲学范式革命分析 | Kuhn |
 > | **哲学根基绝缘命题** | 不可通约性深嵌于本体论、认识论、人性观与方法论的主客观四维绝缘 | 社会科学元理论分析、范式分类学 | Burrell & Morgan |
 > | **范式战争引爆命题** | 范式忠诚与不可通约性激化教育研究阵营对立与制度化分裂 | 教育研究史、方法论论辩 | Gage; Denzin |
 > | **实用主义消解命题** | 混合方法研究以问题为中心、效用为准绳，实现对不可通约性教条的务实超越 | 混合方法研究、跨范式联合设计 | Johnson & Onwuegbuzie; Gorard & Smith; Denscombe |
+> | **统计参数断层命题** | 跨实验设计估计不同总体参数，无校正直接池化违背数理统计通约性 | 二阶元分析、研究综合、统计建模质量控制 | Morris & DeShon; [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] |
 
 ---
 
@@ -198,7 +215,8 @@ updated: 2026-10-16
 > - **1970–1980 年代 — 社会学元理论移植** 伯勒尔与摩根（Burrell & Morgan, 1979）将[[Paradigm\|范式]]不可通约性引入社会理论，构建主客观四维象限模型，论证各象限之间的哲学不可调和性。
 > - **1980–1990 年代 — 教育研究[[Paradigm Wars\|范式战争]]白热化** 格奇（Gage, 1989）将不可通约性提炼为教育研究量化实证与质性诠释阵营激战的[[Epistemology\|认识论]]根源，双方各自坚守范式忠诚。
 > - **2000 年代初 — [[Mixed Methods Research\|混合方法]]运动与[[Pragmatic Paradigm\|实用主义]]转向** 塔沙克里（Tashakkori）、特德利（Teddlie）与克雷斯威尔（Creswell）等学者确立混合方法研究为“第三种研究范式”，以实用主义工具理性打破不可通约性铁律。
-> - **2010 年代至今 — 批判性反思与辩证张力维持** 范式和平主义遭遇批判（如 Giddings 警示隐性实证主义霸权）；学界日益倾向于将不可通约性视为保持质性批判锐度、防范方法论技术官僚化庸俗调和的良性张力机制。
+> - **2002 年 — 统计方法论的参数不可通约性确立** 莫里斯与德尚（Morris & DeShon, 2002）在心理学方法期刊上严格证明组间与组内实验设计估计异质总体参数，确立了实证参数不可直接通约的数理边界。
+> - **2025 年 — 元科学对跨设计违规通约的系统审计** 卡尔门达尔等（Kalmendal et al., 2025）审计揭示全球流行二阶综合（如《[[Visible Learning|可见的学习]]》）中 27% 混杂实验与相关研究，将统计参数不可通约性确立为防范伪因果综合的核心质量准绳。
 
 ---
 
@@ -211,7 +229,7 @@ updated: 2026-10-16
 > >
 > > - **[[Paradigm\|范式]]纯粹主义立场（Smith & Heshusius, 1986）** 坚称量化实证的客观唯实论与质性诠释的建构论在逻辑上水火不容，任何试图调和二者的尝试都是浅薄的认识论自相矛盾。
 > > - **方法论[[Pragmatic Paradigm\|实用主义]]立场（Onwuegbuzie & Leech, 2005a）** 认为探究的核心是解决实际问题，量化与质性只是对不同证据维度的操作区分，过分夸大不可通约性属于“方法论清教徒主义”。
->
+> >
 > > [!axis] [[Mixed Methods Research\|混合方法]]是成功消弭了不可通约性，还是掩盖了隐性[[Positivism\|实证主义]]霸权
 > > 争论焦点在于：混合方法是否真正跨越了范式鸿沟？
 > >
@@ -219,7 +237,7 @@ updated: 2026-10-16
 > > - **批判性反思者（Giddings, 2006）** 尖锐警示不可通约性并未消失，强行融合如同“油水混合”，混合方法在实操中极易沦为量化实证主义收编质性成果的修辞特洛伊木马。
 
 > [!warning] 适用局限
-> 不可通约性概念极易被滥用为学者拒斥跨学科对话、拒绝接受外在同行批评的学术避难所；若将其教条化，会导致研究共同体封闭自守，丧失在复杂现实问题面前协同解决危机的实践能力。
+> 不可通约性概念极易被滥用为学者拒斥跨学科对话、拒绝接受外在同行批评的学术避难所；若将其教条化，会导致研究共同体封闭自守，丧失在复杂现实问题面前协同解决危机的实践能力。而在统计综合层面，盲目将不可通约的参数混同相加，则会导致科学证据沦为伪精确的数字噪音。
 
 ---
 
@@ -231,6 +249,7 @@ updated: 2026-10-16
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] | 2010 与 2020 年五本顶级教育心理学期刊发表的所有实证论文 | 历时性方法学[[Content Analysis\|内容分析]]与编码 | 量化干预、非干预与[[Qualitative Research\|质性研究]]的方法学构成比例 | 质性研究占比从 2010 年的 9% 显著攀升至 2020 年的 22%，[[Mixed Methods Research\|混合方法]]论文亦保持增长 | $p < .05$ | 实证表明主流阵地打破了单一量化垄断，不可[[Commensuration\|通约]]的质性取向获得了稳定的学科合法性空间 |
+> | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 《[[Visible Learning|可见的学习]]》全库 322 项影响因素 | 预注册全量元科学审计 | 跨设计效应量混杂比例 | 27% 混淆组间实验与相关研究，10% 混入组间、组内与相关全部三类设计 | 全量核验样本 ($N=301$) | 证实宏观二阶综合中存在广泛无视统计总体参数不可通约性的违规合并现象 |
 
 ---
 
@@ -246,6 +265,7 @@ updated: 2026-10-16
 > | [[Pragmatic Paradigm]] | 理论 | 旨在超越不可通约性教条的哲学武器，以实践效用为检验真理的唯一标准。 |
 > | [[Paradigm Wars]] | 概念 | 不可通约性在 20 世纪下半叶教育研究界激发的制度化对抗历史事件。 |
 > | [[Mixed Methods Research]] | 方法 | 建立在对不可通约性批判反思之上的第三种研究范式，追求量质有机整合。 |
+> | [[Critique of Meta-analysis]] | 概念 | 统计建模层面的参数不可通约性批判，揭示跨设计混杂池化的数理硬伤。 |
 
 ---
 
@@ -255,3 +275,4 @@ updated: 2026-10-16
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011)]] — 详尽解构库恩[[Paradigm\|范式]]理论中的不可[[Commensuration\|通约]]性机制，剖析其如何引爆[[Paradigm Wars\|范式战争]]并触发[[Mixed Methods Research\|混合方法]]运动。
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 在量化、质性与混合方法的三元框架中阐释哲学世界观的不可通约性与[[Pragmatic Paradigm\|实用主义]]调和策略。
 > - [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] — 通过历时文献计量揭示教育研究在走出绝对实证垄断后质性与多范式并存的发展态势。
+> - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 针对教育二阶综合全库审计，实证揭示忽视组间实验、组内前后测与相关研究参数不可通约性（27% 混杂）所导致的因果解释力塌陷。

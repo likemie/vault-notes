@@ -5,7 +5,7 @@ aliases:
 summary: "围绕元分析方法论前提、操作程序和政策用途形成的多维度批评体系，涵盖研究可比性、输入质量、发表偏倚、过度简化、统计推断、领域迁移、抽样伦理和平均效应误导等问题"
 type: concept
 domain: "research-methodology"
-related_count: 52
+related_count: 56
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Scientific Method]]"
   - "[[Hypothesis]]"
+  - "[[Incommensurability]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
@@ -57,6 +58,8 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Meta-meta-analysis]]"
   - "[[Funnel Plot]]"
+  - "[[Correlational Research]]"
+  - "[[Pre-test and Post-test]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
 related_arguments:
@@ -71,6 +74,7 @@ related_arguments:
   - "[[Argument_ONeill_2012_NZJES]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
+  - "[[Argument_Kalmendal_2025_PsyArXiv]]"
 confidence: medium
 status: draft
 created: 2026-07-13
@@ -342,6 +346,22 @@ updated: 2026-10-16
 
 ---
 
+### 命题十一　二阶元综合混淆组间实验、前后测与相关研究违背统计通约性，且双重计数固化陈旧结论
+
+> [!concept-lens] 统计总体参数的不可通约性与历史加权偏倚
+> 探讨二阶元分析与伞状综述中由于跨设计参数混淆与历史文献递归纳入所引发的致命统计假象。
+
+> [!claim] Morris, S. B. & DeShon, R. P. (2002) / [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]]
+> **不同研究设计估计截然不同的总体参数而不可直接池化** 莫里斯与德尚（Morris & DeShon, 2002）指出，独立样本组间实验设计（Between-subject）与追踪同一群体的组内前[[Pre-test and Post-test|后测设计]]（Within-subject）估计的是截然不同的总体参数——组间效应量基于独立个体间的变异进行标准化，而组内设计则取决于前后测相关系数与变化分数的标准差。若未经严密的协方差矩阵参数转换而直接算术平均，在数学统计上根本无法成立。卡尔门达尔等（Kalmendal et al., 2025）对《[[Visible Learning|可见的学习]]》全量审计证实：全库仅有 30% 的影响因素纯粹基于组间实验，高达 27%（82 项）将组间实验与纯粹描述性[[Correlational Research|相关研究]]混为一谈，另有 10% 混入全部三类设计；这种违背总体参数[[Incommensurability|不可通约性]]的违规合并，彻底摧毁了二阶效应量的因果解释效度。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 7–8, 15–16)]]
+
+> [!claim] [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]]
+> **重复计数（Double-Counting Bias）导致早期陈旧研究权重畸高并固化历史偏倚** 在二阶综合中，若不加甄别地汇总跨越数十年的元分析，后期的元分析通常会重新纳入早期元分析收录过的经典实验。卡尔门达尔等（Kalmendal et al., 2025）揭示：当二阶综合简单将各元分析平均相加时，1980 年代的早期实验被重复计算了数次甚至数十次，在无形中赋予了陈旧实验以不成比例的巨大数学权重。即使近年来涌现出更具因果效力的大规模严谨实验，其结论也难以撼动被历史陈旧文献层层堆叠固化的平均效应量，阻碍了证据体系的动态自纠与更新。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 16–18, 21)]]
+
+> [!claim] [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]]
+> **底层数据提取的灾难性不可复现性** 元分析的因果结论建立在原始数据录入准确的前提下。卡尔门达尔等（Kalmendal et al., 2025）对 301 个可检索影响因素实施严格的“遇错即止”数据复现检验发现：全库仅有 2 项（0.66%）能够成功复现数据提取；44%（133 次）报告的效应量在原始元分析文献中根本不存在，33%（99 次）提取自主题无关的错误子组；且伴随的样本量错误率高达 72%、研究篇数错误率达 43%。这一元科学审计证实，海量元分析综合极易沦为掩盖大量转录与计算错误的“伪精度黑箱”。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 18–19)]]
+
+---
+
 ## 争议与批评
 
 > [!debates] 支持者与批评者的核心争议
@@ -392,4 +412,5 @@ updated: 2026-10-16
 > - [[Argument_Higgins_2016_ROE\|Higgins (2016)]] — 从支持者立场提供元分析的方法论回顾，包含可比性案例和嵌套数据问题。
 > - [[Argument_OConnor_2020_AJLL\|O'Connor (2020)]] — 通过[[Whole Language\|全语言]]案例审查揭示元-元分析中的分类错误和选择性修正。
 > - [[Argument_ONeill_2012_NZJES\|O'Neill (2012)]] — 识别元-元分析中跨教育阶段混合综合导致的排名扭曲。
+> - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 对 322 个影响因素开展全量元科学审计，揭示组间与组内设计总体参数不可通约性混淆（27% 混杂相关研究）、双重计数固化陈旧文献偏倚，以及仅 0.66% 数据提取可复现的深层统计崩溃。
 > - [[Meta-analysis]] — 方法定义、操作步骤和适用场景，其局限性章节已整合至本条目。

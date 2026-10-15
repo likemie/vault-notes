@@ -10,7 +10,7 @@ aliases:
 summary: "波普尔提出的科学划界与检验标准，主张科学理论的标志在于其承担被经验反驳的风险；在比较教育学中驱动了从古典历史向假说检验与问题解决法（L + I = P）的转型，并引发关于历史工作假设检验性的深刻反思。"
 type: concept
 domain: "educational-philosophy"
-related_count: 51
+related_count: 57
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -45,6 +45,8 @@ related_concepts:
   - "[[Construct]]"
   - "[[Postpositivism]]"
   - "[[Metacognition]]"
+  - "[[Preregistration]]"
+  - "[[Visible Learning]]"
 related_theories:
   - "[[Duhem-Quine Thesis]]"
   - "[[Critical Theory]]"
@@ -54,10 +56,13 @@ related_methods:
   - "[[Content Analysis]]"
   - "[[Historical-Comparative Method]]"
   - "[[Correlational Research]]"
+  - "[[Meta-analysis]]"
+  - "[[Systematic Review]]"
 related_instruments: []
 related_persons:
   - "[[Karl Popper]]"
   - "[[Crane Brinton]]"
+  - "[[John Hattie]]"
   - "[[Louis Cohen]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
@@ -77,6 +82,7 @@ related_arguments:
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
   - "[[Argument_Zemplen_2007_SciEduc]]"
+  - "[[Argument_Kalmendal_2025_PsyArXiv]]"
 confidence: high
 status: active
 created: 2026-06-13
@@ -219,6 +225,16 @@ updated: 2026-10-16
 
 ---
 
+### 命题五　宏观循证知识库的经验论断必须经受严苛的二阶元科学反驳与基础复核检验
+
+> [!concept-lens] [[Metascience|元科学]]严苛检验与宏观证据库证伪
+> 探讨波普尔严苛检验（Severe Testing）原则在二阶综合与循证政策知识库中的前沿应用，揭示宏观政策断言若缺乏基础复核将陷入不可证伪的教条神话。
+
+> [!claim] [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]]
+> **二阶综合宏观论断的元科学证伪与复现塌陷** 卡尔门达尔等（Kalmendal et al., 2025）针对约翰·哈蒂（John Hattie）全球畅销且深刻影响多国政策的《[[Visible Learning|可见的学习]]》（涵盖 2,111 项[[Meta-analysis|元分析]]）展开了教育学史上首次完全公开、预注册且针对全量底层文献的穷尽复核与严苛证伪检验。研究发现：哈蒂所宣称的“奠基于全球实证、客观呈现何种教学有效”的宏观实证论断，在经受严格检验时全面崩溃——其底层效应量仅有 0.66%（14/2,111）在未引入计算或转录错误的前提下完全可重复，高达 44%（928 项）的所谓元分析在原始文献中根本不存在效应量或统计数据，且存在 63 项虚构出版物；更为严重的是，其综合过程完全放弃了系统综述与[[PRISMA]]检索的[[PICO Framework|PICO 准则]]（仅 19% 满足干预针对性），将大量与课堂教学无关的非干预相关性研究（如抽烟、体重指数、自杀倾向等）混杂池化。这项研究表明，波普尔的证伪精神不仅适用于微观理论假说检验，更是元科学时代清算“假借海量数据证实表象、实则免疫于经验纠错”的宏观伪证据体系的不可或缺的方法学武器。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 2–3, 8–12)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -228,6 +244,7 @@ updated: 2026-10-16
 > | **学科转型实证检验命题** | 比较教育分化为归纳协变检验与演绎问题法，确立 $L + I = P$ 条件预测准则与可证伪假说 | 战后经验比较教育学转型、跨国因果假说检验与[[Problem Solving\|问题解决]]分析 | Noah & Eckstein; Holmes; [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, p. 150)]] |
 > | **方法论整体论反思命题** | 揭示证伪主义在教学中的教条化倾向，确立比较史学探索性工作假设的可检验性与合法性 | 批判性思维教学反思、科学社会学与历史比较因果解释 | Zemplén; Brinton; [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, p. 151)]] |
 > | **元科学制度证伪命题** | 强制证伪要求、专职复现激励与自动化机器核验是克服可重复性危机的制度基石 | 元科学政策、[[Gold Standard Science\|黄金标准科学]]、AI 自动化形式化验证 | [[Michael Kratsios\|Kratsios, M.]] |
+> | **宏观证据二阶反驳命题** | 宏观循证综合必须经受全量底层复核与严苛反驳，否则海量数据归纳将沦为不可证伪的伪科学教条 | [[Metascience\|元科学]]质量审计、二阶系统综述反思、循证政策知识库评估 | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] |
 
 ---
 
@@ -241,6 +258,7 @@ updated: 2026-10-16
 > - **1970 — 拉卡托斯提出科学研究纲领方法论** 拉卡托斯（Imre Lakatos）反思朴素证伪主义，指出面对反常科学家会设立辅助假设保护理论硬核，提出精致证伪主义与纲领进步/退化判定准则。
 > - **2007 — 曾普伦反思[[Critical Thinking|批判性思维]]教育中的证伪教条** 曾普伦发表针对 [[Theory of Knowledge|TOK]] 教科书的[[Content Analysis|内容分析]]，系统揭示证伪主义在中学与大学批判性思维课程中被简化为机械教条的结构性教学困境。[[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]]
 > - **2009 — 卡扎米亚斯重建比较史学工作假设的可检验性** 卡扎米亚斯援引[[Crane Brinton|布林顿]]史学方法，阐明历史比较能够通过探索性工作假设（Working [[Hypothesis|hypotheses]]）实现中程抽象与经验反驳，打破了实证主义对检验科学概念的狭隘垄断。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 151–152)]]; [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b, p. 56)]]
+> - **2025 — 二阶元科学对宏观循证知识库的严苛证伪** 卡尔门达尔等（Kalmendal et al., 2025）预注册穷尽核验《[[Visible Learning|可见的学习]]》底层 2,111 项元分析，发现仅 0.66% 纯净可重复且 44% 查无实据，将严苛证伪与反常识别推进至对宏观教育证据神话的系统解构。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025)]]
 > - **2025–2026 — [[Gold Standard Science|黄金标准科学]]与自动化机器证伪基础设施** 面对全球[[Reproducibility Crisis|可重复性危机]]，美国发布《[[Restoring Gold Standard Science Executive Order|恢复黄金标准科学行政令]]》与白宫科技政策办公室报告，将证伪从学者个人自律拓展为国家强制推行数据开源、设立专职复现与证伪奖金、以及构建 AI 形式化机器自动化验证沙盒的制度基石。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 65–67)]]
 
 ---
@@ -281,6 +299,9 @@ updated: 2026-10-16
 > [!evidence-card] 曾普伦对科学教育中证伪主义教条化的教科书分析
 > 曾普伦（[[Argument_Zemplen_2007_SciEduc|Zemplén, 2007]]）对两本[[International Baccalaureate|国际文凭]]（IB）[[Theory of Knowledge|知识论]]（TOK）教科书展开了系统的定性[[Content Analysis|内容分析]]。研究揭示，尽管教材在理论阐释部分承认了归纳困境以及科学史中理论保护带的存在，但在全部 12 道章后核心评估练习题中，有 8 题依然将“可检验性与可证伪性”作为区分科学与非科学的唯一机械判据。这表明在基础科学教育与[[Critical Thinking|批判性思维]]培养中，证伪主义容易被退化为便于标准化考核的教条化标签。[[Argument_Zemplen_2007_SciEduc|Zemplén (2007, pp. 175–178)]]
 
+> [!evidence-card] 卡尔门达尔等对《可见的学习》实证基础的穷尽核验与伪证实解构
+> 卡尔门达尔等（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）对《[[Visible Learning|可见的学习]]》数据库展开预注册穷尽核验，对哈蒂宣称“基于巨量实证已完全证实何种教学有效”的宏观论断实施严苛检验。审计发现其 2,111 项元分析中仅 14 项完全可重复，44%（928 项）在原文献中根本缺乏数据支持，并存在 63 项虚构出版物与高达 81% 的干预针对性缺陷。这一案例生动展示了：海量归纳证实如果不具备透明、可追溯且接受严苛证伪核验的底层机制，极易演变为掩盖系统性方法学缺陷的庞大科学神话。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 8–12)]]
+
 > [!case] 素数定理形式化验证：从十八个月人工推演到三周机器证伪与核验
 > 针对传统数学证明与科学文献依赖同行肉眼评审导致的严重疏漏与[[Replication in Education Research|复现危机]]，2024 年素数定理形式化验证项目曾耗费全球二十余名顶尖数学家 18 个月未获完全突破；而 2025 年 9 月一家 AI 初创企业依托大模型在三周内完成了包含 1100 个定理与定义的形式化验证与机器反驳检验，生动展现了现代自动化机器沙盒作为可证伪性与核验基础设施的巨大效能。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 66–67)]]
 
@@ -295,10 +316,11 @@ updated: 2026-10-16
 > | **核心方法要素** | 假设；[[Operationalization\|操作化]] | 驱动科学假说的精确操作化与异质情境严格检验设计 |
 > | **学科转型碰撞** | [[Historical-Comparative Method\|历史比较法]] | 1960 年代实证学派以可证伪性为武器批评历史学派，促使历史比较引入非普适探索性工作假设 |
 > | **推导公式与[[Problem Approach\|问题法]]** | [[Problem Approach\|问题法]] | 霍姆斯将证伪原则操作化为 $L + I = P$ 推导公式，以受约束的预测检验假设 |
-> | **[[Metascience\|元科学]]与科学政策** | [[Reproducibility Crisis]]；[[Restoring Gold Standard Science Executive Order]] | 推动国家科研实施强制证伪要求与专项复现奖金，构建自动化机器核验沙盒 |
+> | **[[Metascience\|元科学]]与科学政策** | [[Reproducibility Crisis]]；[[Restoring Gold Standard Science Executive Order]]；[[Preregistration]] | 推动国家科研实施强制证伪要求与专项复现奖金，构建自动化机器核验沙盒与预注册复核机制 |
+> | **宏观证据库审计** | [[Visible Learning]]；[[Meta-analysis]]；[[Systematic Review]] | 以严苛证伪与底层数据复核瓦解宏观证据库的归纳证实神话 |
 > | **教学与[[Metacognition\|元认知]]应用** | [[Critical Thinking\|批判性思维]]；[[Theory of Knowledge\|知识论]] | 构成 TOK 课程中关于科学划界与知识真伪审议的核心讨论主题 |
 > | **[[Critical Theory\|批判理论]]支撑** | [[Duhem-Quine Thesis\|迪昂-蒯因论题]] | 迪昂-蒯因不完全决定性构成了反思朴素证伪主义的核心认识论反论 |
-> | **代表学者与论证** | [[Karl Popper]]；[[Brian Holmes]]；[[Michael Kratsios]] | 奠定[[Scientific Method\|科学方法]]论基础，阐明比较假说演绎演化，确立现代国家黄金标准强制证伪网络 |
+> | **代表学者与论证** | [[Karl Popper]]；[[Brian Holmes]]；[[Michael Kratsios]]；[[John Hattie]] | 奠定科学方法论基础，阐明比较假说演绎演化，确立国家强制证伪网络，提供证据库证伪受试范例 |
 
 ---
 
@@ -311,3 +333,4 @@ updated: 2026-10-16
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 思想史考古揭示 1960 年代霍姆斯、诺亚与埃克斯坦如何利用波普尔可证伪性准绳围剿历史比较学派，并借由布林顿比较史学归纳法重构非普适[[Working Hypothesis|探索性假说]]的合法性。
 > - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] — 以 IB [[Theory of Knowledge|知识论]]（TOK）教科书为经验案例，剖析证伪主义在[[Critical Thinking|批判性思维]]教学中被教条化和简化的结构性困境。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室战略报告，提出在[[Metascience|元科学]]时代强制实施[[Gold Standard Science|黄金标准科学]]、设立专职复现与证伪奖金、以及构建 AI 自动化形式化验证基础设施。
+> - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 针对《[[Visible Learning|可见的学习]]》开展预注册全样本复核审计，通过严苛经验证伪揭示宏观循证知识库底层仅 0.66% 纯净可重复且 44% 查无实据，展示二阶元科学证伪对教育决策的纠偏力量。

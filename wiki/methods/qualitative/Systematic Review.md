@@ -7,7 +7,7 @@ summary: "通过明确的纳入标准和系统搜索策略识别、筛选与评�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 90
+method_related_count: 96
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -50,6 +50,8 @@ related_concepts:
   - "[[Profession-Sensitive Conceptualisations of Research Use]]"
   - "[[Creativity]]"
   - "[[Counterfactual]]"
+  - "[[PICO Framework]]"
+  - "[[Visible Learning]]"
 related_theories:
   - "[[Realist Evaluation]]"
   - "[[Critical Realism]]"
@@ -58,6 +60,8 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Quantitative Research]]"
+  - "[[Randomised Controlled Trials]]"
+  - "[[Meta-meta-analysis]]"
   - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
   - "[[Forest Plot]]"
@@ -96,6 +100,7 @@ related_arguments:
   - "[[Argument_Rickinson_2022_ER]]"
   - "[[Argument_Gorard_2020_ROE]]"
   - "[[Argument_Ginsberg_2024_EP]]"
+  - "[[Argument_Kalmendal_2025_PsyArXiv]]"
 related_facts:
   - "[[Best Evidence Synthesis]]"
   - "[[EPPI-Centre]]"
@@ -110,6 +115,7 @@ related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Evidence for ESSA]]"
   - "[[Title I of the Elementary and Secondary Education Act]]"
+  - "[[Campbell Collaboration]]"
 related_instruments:
   - "[[PRISMA]]"
   - "[[Mixed Methods Appraisal Tool]]"
@@ -260,7 +266,11 @@ updated: 2026-10-16
 >   [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022, pp. 154–155)]]与 Gough and White (2018) 对全球 15 个代表性网络证据门户的方法学调查揭示了惊人的实证事实：**仅有 40.0%（6 个）证据门户严格遵循系统综述标准**！其余 60% 均不同程度地退化为单兵研究评定：
 >   - **打包方案类门户的全面塌陷（0% 综述率）** 面向具体商业干预方案（Packaged Programmes）的 5 个门户（如 [[Social Programs That Work]]）**完全未要求系统综述（0%）**，而是 100% 仅凭 1–2 项单兵试验（如 1–2 项高质量 [[Randomised Controlled Trials\|RCT]]）就直接定性方案“有效”并授予顶级证据等级。这种做法存在极高的挑选性偏倚风险，完全掩盖了同一干预在其他情境中可能存在的零效应或负效应；
 >   - **通用策略类门户的严谨坚守（100% 综述率）** 聚焦通用策略（Broad Approaches）的 6 个门户（包括英国 [[EEF Teaching and Learning Toolkit\|EEF Toolkit]]、[[Early Intervention Foundation\|EIF]] Guidebook、College of Policing、CHI、福祉中心以及 Cochrane 图书馆）**100% 严格依托系统综述**与元分析，系统规避了商业机构操纵单兵研究垄断公办采购的弊端。
-> - **临床医学标准（Cochrane / GRADE）的跨学科移植张力** 系统综述发轫于封闭可控的循证医学领域；然而当其偏倚评估与 GRADE 分级体系被机械移植至教育与复杂社会政策领域时，往往导致过度推崇封闭环境下的人工干[[Pilot Testing\|预实验]]，而系统性惩罚和贬低具备高度生态效度的复杂[[Qualitative Research\|质性研究]]与[[Implementation and Process Evaluation\|过程评估]]，诱发严重的方法学削足适履（[[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022, p. 154]]）。
+> - **二阶综合中的 PICO 门禁失效与伪系统综述风险（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）**
+  系统综述与[[PRISMA]]规程的生命线在于严格执行以 [[PICO Framework|PICO]]（人群、干预、对照、结果）为核心的入选标准与研究协议预注册。然而，卡尔门达尔等（Kalmendal et al., 2025）对覆盖 2,111 项元分析的《[[Visible Learning|可见的学习]]》展开系统审计时发现，当宏观综合背离这一方法学底线时，系统综述极易退化为制造“虚假有效性”的伪科学工具：
+  - **PICO 严重违规与无关变量混入** 经独立编码核验，《可见的学习》中仅有 19.3% 的所谓元分析满足基本的干预针对性要求；高达 80.7% 的纳入文献违背 PICO 原则，将大量与学校教学干预完全无关的描述性相关（如吸烟、抑郁、体重指数、自杀倾向）甚至虚构发表物（63 项）硬性池化，完全摧毁了因果推断的基础；
+  - **规避预注册与国际规范的质量塌陷** 该巨型二阶综合完全未遵循[[Campbell Collaboration|坎贝尔协作网]]（Campbell Collaboration）针对干预综述制定的方法学规范（Methodological Expectations of Campbell Collaboration Intervention Reviews, MECCIR）与系统综述预注册规程，既未公开完整的检索式、筛选流图与排除清单，亦未执行双人双盲质量评价，导致底层文献中高达 44%（928 项）根本不包含可提取效应量或统计数据。这表明，缺乏协议锁定的伪系统综述不仅无法消除偏倚，反而会借由海量引文的表象赋予严重方法学硬伤以“权威科学”的合法性包装。
+- **临床医学标准（Cochrane / GRADE）的跨学科移植张力** 系统综述发轫于封闭可控的循证医学领域；然而当其偏倚评估与 GRADE 分级体系被机械移植至教育与复杂社会政策领域时，往往导致过度推崇封闭环境下的人工干[[Pilot Testing\|预实验]]，而系统性惩罚和贬低具备高度生态效度的复杂[[Qualitative Research\|质性研究]]与[[Implementation and Process Evaluation\|过程评估]]，诱发严重的方法学削足适履（[[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022, p. 154]]）。
 
 ---
 
@@ -283,6 +293,8 @@ updated: 2026-10-16
 > | [[Educational Brokerage Agency]] | Concept | [[Knowledge Mediation\|知识中介]]机构的核心职能即为委托、生产与转译高质量教育系统综述成果。 |
 > | [[EEF Teaching and Learning Toolkit]] | Fact (Policy) | 国际公认严格依托系统综述与二阶综述构建通用策略证据分级矩阵的典范门户。 |
 > | [[What Works Network]] | Fact (Organization) | 英国国家有效性网络，旗下绝大多数中心将系统综述确立为指导公共支出的知识基底。 |
+> | [[Campbell Collaboration]] | Fact (Organization) | 国际社会科学系统综述旗舰组织，制定 MECCIR 规范与干预综述质量基准。 |
+> | [[PICO Framework]] | Concept | 系统综述界定研究问题、检索范围与入选排除标准的强制门禁工具。 |
 
 ---
 
@@ -300,3 +312,4 @@ updated: 2026-10-16
 > - **[[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]]** 遵循系统综述规范跨 [[Education Resources Information Center\|ERIC]]、Scopus、Web of Science 与 ProQuest 四大数据库系统检索，结合双人初筛与同行专家盲审纳入跨卫生、社会关照、教育与政策四大领域的 112 篇核心文献，运用[[Narrative Synthesis\|叙事综合]]法提炼证据使用质量的共性特征并建构 [[Quality Use of Research Evidence Framework\|QURE]] 理论框架。
 > - **[[Argument_Gorard_2020_ROE\|Gorard et al. (2020)]]** 针对教育与公共政策领域“如何使研究证据有效投入使用”这一因果机制，对逾 335 万条数据库记录开展大规模跨学科系统综述，运用[[Gorard's Trustworthiness Sieve\|戈拉德研究可信度筛子]]严格质评初筛出的 323 篇文献，最终识别出 33 项具备[[Counterfactual\|反事实]]对照设计的因果[[Evaluation Research\|评估研究]]并提炼两维度转化模型。
 > - **[[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]]** 遵循系统综述规范对 129 项教育实践检索词在四大证据库（[[What Works Clearinghouse\|WWC]], [[Evidence for ESSA]], [[Education Endowment Foundation\|EEF]], [[Education Resources Information Center\|ERIC]]）中开展全量[[Literature Search\|文献检索]]与七级证据评定，并将其与大型城市学区三年间 2.88 亿美元的 [[Title I of the Elementary and Secondary Education Act\|Title I]] 财务细项逐一关联，实证测算联邦教育资金投向循证实践的真实比例。
+> - **[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]]** 对《[[Visible Learning|可见的学习]]》底层 2,111 项元分析开展预注册系统性元科学审计，对照 PRISMA 与 Campbell Collaboration MECCIR 规范揭示 PICO 严重偏离（仅 19.3% 满足要求）与数据缺失危机，为系统综述的程序纯洁性提供关键反思标靶。
