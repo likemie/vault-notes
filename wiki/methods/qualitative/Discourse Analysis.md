@@ -5,7 +5,7 @@ summary: "以日常谈话和文本中的语言使用为研究对象的方法，�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 51
+method_related_count: 56
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -53,7 +53,6 @@ related_methods:
   - "[[Accounts]]"
   - "[[Ethogenic Approach]]"
   - "[[Correlational Research]]"
-  - "[[Structured Observation]]"
   - "[[Multimodal Discourse Analysis]]"
 related_persons:
   - "[[Fazal Rizvi]]"

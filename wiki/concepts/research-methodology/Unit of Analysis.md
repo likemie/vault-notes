@@ -10,10 +10,10 @@ aliases:
   - 记录单位
   - 语境单位
   - 抽样单位
-summary: "研究设计、质性编码与内容分析中确定数据切片与分类基本边界的核心概念，涵盖抽样单位、记录单位与语境单位三层体系，以及宏观比较研究中从19世纪以校为中心的孤立办学考察向萨德勒民族国家整体教育体系、世界体系整体、多标度空间与超国家度量网络的历史演进"
+summary: "研究设计、质性编码与内容分析中确定数据切片与分类基本边界的核心概念，涵盖抽样单位、记录单位与语境单位三层体系，以及宏观比较研究中从19世纪以校为中心的孤立办学考察向萨德勒民族国家整体教育体系、世界体系整体、超国家度量网络与流动空间多标度结构位置的历史演进"
 type: concept
 domain: "research-methodology"
-related_count: 77
+related_count: 85
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -52,6 +52,10 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Central Phenomenon]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Space of Flows]]"
+  - "[[Space of Places]]"
+  - "[[Recontextualization]]"
+  - "[[Gatekeepers]]"
 related_theories:
   - "[[Pluri-Scalar Governance]]"
   - "[[Complexity Theory]]"
@@ -59,6 +63,8 @@ related_theories:
   - "[[World-Systems Theory]]"
   - "[[Situative Perspective]]"
   - "[[Dialectic of the Global and the Local]]"
+  - "[[Beech's Model of Discourse Circulation]]"
+  - "[[Network Society]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Content Analysis]]"
@@ -91,6 +97,9 @@ related_persons:
   - "[[Keith Morrison]]"
   - "[[Isaac Kandel]]"
   - "[[Nicholas Hans]]"
+  - "[[Jason Beech]]"
+  - "[[Basil Bernstein]]"
+  - "[[Manuel Castells]]"
 related_facts:
   - "[[IEA]]"
   - "[[OECD]]"
@@ -106,10 +115,11 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11]]"
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_Beech_2009_GlobalGarden]]"
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Unit of Analysis
