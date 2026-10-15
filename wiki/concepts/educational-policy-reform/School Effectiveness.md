@@ -3,86 +3,299 @@ title: School Effectiveness
 aliases:
   - 学校效能
   - school effectiveness research
-summary: "以学校差异解释学生成绩差异的研究取向，在政策中把学校转译为可测量、可比较、可干预的组织对象。"
+  - 学校有效性
+  - SER
+summary: "以学校内部组织与教学差异解释学业成就的研究取向，在政策治理中将学校重塑为可量化干预的技术对象，并在全球教育转移中被学术重商主义包装为跨国咨询商品。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 47
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - theme/sociology-of-education
   - theme/school-improvement
   - theme/accountability
+  - theme/educational-transfer
   - region/uk
+  - region/global
   - method/quantitative
 related_concepts:
+  - "[[Academic Achievement]]"
+  - "[[Variable]]"
+  - "[[School Leadership]]"
+  - "[[Knowledge-Based Economy]]"
+  - "[[Paradigm]]"
   - "[[Discourse]]"
+  - "[[Cultural Capital]]"
   - "[[Professional Judgment]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Global Universities Rankings]]"
+  - "[[Champ]]"
+  - "[[Policy Network]]"
+  - "[[Technical Rationality]]"
+  - "[[Effective Teaching]]"
+  - "[[Abstract]]"
   - "[[Document]]"
-  - "[[School Leadership]]"
+  - "[[Disciplina and Doctrina]]"
+  - "[[Global Educational Discourse]]"
+  - "[[New Public Management]]"
+  - "[[Determinism]]"
+  - "[[General Purpose Technology]]"
+  - "[[Competitiveness]]"
+  - "[[Performance Pay]]"
+  - "[[Shape-Shifting]]"
+  - "[[Performativity]]"
+  - "[[Epistemology]]"
+  - "[[Policy Borrowing]]"
+  - "[[Knowledge Bank]]"
+  - "[[Research Translation]]"
 related_theories:
   - "[[Governmentality]]"
-related_methods: []
+  - "[[Academic Capitalism]]"
+related_methods:
+  - "[[Effect Size]]"
+  - "[[Discourse Analysis]]"
+  - "[[Correlational Research]]"
 related_persons:
+  - "[[Stephen Ball]]"
+  - "[[Jason Beech]]"
+  - "[[Jean-François Lyotard]]"
+  - "[[Robert Cowen]]"
   - "[[Michael Barber]]"
 related_facts:
   - "[[Ofsted]]"
+  - "[[CREATES Project]]"
+  - "[[UNESCO]]"
+  - "[[World Bank]]"
+  - "[[OECD]]"
 related_arguments:
   - "[[Argument_Ball_2008_SR]]"
-confidence: medium
+  - "[[Argument_Beech_2009_GlobalGarden]]"
+confidence: high
 status: draft
 created: 2026-05-23
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # School Effectiveness
 
-## 定义
+---
 
-> [!info] 定义
-> School Effectiveness（学校效能）是一种把学校之间的组织、风气、教学质量和领导差异作为解释学生成绩差异关键因素的研究取向。在英国 1980 年代以来的政策语境中，学校效能研究形成了一种新的目光：学校被看成能被测量、检查、比较和改进的组织对象([[Argument_Ball_2008_SR\|Ball, 2008, pp.662-665]])。
+## 理论定义
 
-## 核心问题
+> [!def] 概念界定
+> **学校效能（School Effectiveness，或称学校效能研究，School Effectiveness Research, SER）** 是一种将学校内部的组织架构、管理风气、教学质量与领导力差异作为解释学生[[Academic Achievement|学业成就]]差异核心[[Variable|变量]]的实证与政策研究取向。在微观教育学维度，它致力于探究在控制学生家庭背景等输入变量后“学校造成的实际差异”；在宏观政治社会学与比较教育学维度，它构成了现代国家治理与跨国咨询资本将微观学校组织对象化、常模化并在全球市场中作为商品输出的通用社会技术。[[Argument_Ball_2008_SR|(Ball, 2008, pp. 662–665)]]；[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–344)]]
 
-> [!abstract] 问题意识
-> 学校效能的关键问题是：在学生来源相近的情况下，为什么不同学校会产生不同成绩？这一问题把解释重心从阶级、族裔、家庭和社会经济语境转移到学校内部的组织、风气、教学质量和领导上，使“学校造成的差异”成为政策关注中心([[Argument_Ball_2008_SR\|Ball, 2008, pp.663-664]])。
+> [!concept-lens] 概念透镜
+> - **关注焦点** 学校内部可调控管理变量（如[[School Leadership|学校领导]]、教学常规、期望管理、评估反馈）与标准化测验产出之间的函数关联。
+> - **制度功能** 从战后教育社会学的阶级与宏观不平等批判，转向为政府提供可操作、可审查、可排名的技术官僚问责规程。
+> - **跨国流动** 在高等教育财政紧缩与晚期现代[[Knowledge-Based Economy|知识经济]]中，效能研究成果被大学国际咨询部与跨国教育资本打包为标准化的政策商品向全球兜售。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–344)]]
 
-## 核心要素
+> [!boundary] 适用边界
+> 学校效能框架预设学校内部管理因素与外部社会结构在方法论上具有可分性，其解释力高度依赖于统一可测量的学业评估指标体系。在高度极化、资源匮乏或拒绝标准化绩效排名的社会情境中，其将宏观阶级与种族不平等缩约至校内管理缺陷的倾向面临严重的解释失效。[[Argument_Ball_2008_SR|(Ball, 2008, p. 664)]]
 
-> [!abstract] 核心要素
-> - 学校中心解释：把低成就解释为学校组织、风气、教学质量和领导差异，而不是首先归因于阶级、族裔、家庭或学生特征([[Argument_Ball_2008_SR\|Ball, 2008, pp.663-664]])。
-> - 可测量结果：重视学生成绩和学校表现的可测量指标，并与教育市场化、绩效评价、教师问责和学校排名相互衔接([[Argument_Ball_2008_SR\|Ball, 2008, p.663]])。
-> - 改进[[Discourse|话语]]：把学校区分为有效与无效、健康与有病、胜任与卓越，从而为审查、发展规划、自我评价和评估提供理由([[Argument_Ball_2008_SR\|Ball, 2008, pp.664-665]])。
-> - 技术化教师：教师和校长被呈现为技能和能力的集合，其[[Professional Judgment\|专业判断]]不再足以保证秩序与生产力，而可能被视为需要管理的风险([[Argument_Ball_2008_SR\|Ball, 2008, p.665]])。
+---
 
-## 理论基础
+## 概念谱系
 
-> [!tip]- 理论基础
-> 学校效能可以从 [[Governmentality]] 角度理解：它并不只是描述学校差异，而是在政策中构造出可检查、可比较、可矫正的学校对象。它通过中性指标、检查和改进[[Discourse|话语]]，把学校转化为可治理的组织([[Argument_Ball_2008_SR\|Ball, 2008, pp.663-665]])。
+> [!taxonomy] 学校效能的[[Paradigm|研究范式]]与政策治理谱系
+> ```
+> ┌────────────────────────────────────────────────────────┐
+> │           学校效能谱系（School Effectiveness）           │
+> ├───────────────────────────┬────────────────────────────┤
+> │     实证经验测量范式      │      政策技术治理范式      │
+> │  （Empirical-Analytical） │  （Governmentality/Policy）│
+> ├───────────────────────────┼────────────────────────────┤
+> │ • 输入-过程-产出多层线性  │ • 常模化检查（Ofsted）     │
+> │ • 控制社会背景提取学校净效应│ • 失败学校公开命名与羞辱   │
+> │ • 提炼卓越学校关键效能特征│ • 排行榜与绩效工资本土绑定 │
+> ├───────────────────────────┴────────────────────────────┤
+> │                  全球知识商品化范式                    │
+> │           （Academic Mercantilism/Consultancy）        │
+> ├────────────────────────────────────────────────────────┤
+> │ • 高等院校国际发展部效能咨询打包（Beech/Cowen）        │
+> │ • 营利性跨国教育管理公司海外扩张（Nord Anglia, GEMS）  │
+> │ • 多边机构全球教育话语五大支柱（有效教学与校本自治）   │
+> └────────────────────────────────────────────────────────┘
+> ```
 
-## 治理机制
+> [!contrast-table] 学校效能与批判社会学视角对比
+> | 比较维度 | 正统学校效能研究（SER） | 批判教育社会学（Ball / Angus） | 跨国知识流通视角（Beech / Cowen） |
+> |---|---|---|---|
+> | **根本问题** | 为什么相同生源学校产生不同成绩？ | 学校效能[[Discourse\|话语]]如何制造可治理的客体？ | 效能知识如何在跨国网络中被商品化输出？ |
+> | **解释重心** | 学校内部领导、组织、风气与教学方法 | 宏观阶级结构、[[Cultural Capital\|文化资本]]与再生产机制 | 大学国际发展部、跨国教育资本与多边机构 |
+> | **教师定位** | 绩效技能执行者与效能指标操作员 | [[Professional Judgment\|专业判断]]被剥夺的被动风险管理对象 | 跨国抽象普遍方案的本土被动接受端 |
+> | **政策效应** | 推动持续改进、设立标准与优化管理 | 归咎学校与教师、去政治化社会不平等 | 双重收拢受援国政策空间、引发实践脱节 |
 
-> [!warning] 正常化与去语境化
-> 学校效能在政策中作为一种正常化技术运作：它建构有效学校的规范模型，同时把无效学校异常化为需要治疗的学校。社会背景和人口结构被剥离后，学校被孤立地接受检查、评价和比较；领导、愿景、管理和风气取代阶级、族裔和社会经济趋势，成为解释失败学校的中心语言([[Argument_Ball_2008_SR\|Ball, 2008, pp.664-665]])。
+---
 
-> [!example] 政策技术
-> [[Ofsted]] 检查、失败学校命名、测试体系和排行榜是学校效能研究被政策[[Transfer Translation Transformation\|转译]]后的治理技术。它们把学校构造成“一个知识分支的对象”，使学校能够被持续监控、引导和改造([[Argument_Ball_2008_SR\|Ball, 2008, p.663]])。
+## 围绕概念形成的命题
+
+### 命题一：学校中心与微观去语境化归因命题
+
+> [!concept-lens] 解释重心的内卷化位移
+> 学校效能研究通过方法论上的[[Variable|变量]]控制，将学业成败的根本原因从宏观阶级结构内卷化至学校内部管理。
+
+> [!claim]
+> **结构性矛盾校内缩约** [[Stephen Ball|斯蒂芬·鲍尔]]（Stephen Ball）指出，学校效能研究的关键问题意识（在学生来源相近的情况下，为何不同学校会产生不同成绩）形成了一种独特的政策目光：它将学业失败的解释重心从阶级、族裔、家庭与宏观社会经济语境，系统性地转移到学校内部的组织、风气、教学质量与领导力之上。这种方法论设定使得“学校造成的差异”成为政策干预的绝对核心，本质上将深层结构性不平等管理在学校围墙之内。[[Argument_Ball_2008_SR|(Ball, 2008, pp. 663–664)]]
+
+> [!citation-card] Ball论学校效能研究对社会阶级语境的抽离与归因位移
+> 学校效能的关键问题是：在学生来源相近的情况下，为什么不同学校会产生不同成绩？这一问题把解释重心从阶级、族裔、家庭和社会经济语境转移到学校内部的组织、风气、教学质量和领导上，使“学校造成的差异”成为政策关注中心。[[Argument_Ball_2008_SR|(Ball, 2008, pp. 663–664)]]
+>
+> *The crucial question of school effectiveness research... shifted the explanatory focus away from class, ethnicity, family, and socio-economic context onto internal school organization, ethos, teaching quality, and leadership, making 'school-level difference' the epicentre of policy concern.*
+
+---
+
+### 命题二：治理术与常模化政策规训命题
+
+> [!concept-lens] 治理对象化与常模监控
+> 学校效能语言不仅是描述性工具，更是现代新自由主义国家将学校塑造为可检查、可比较、可干预之常模化治理对象的[[Governmentality|治理术]]。
+
+> [!claim]
+> **常模化技术与羞辱机制** 从福柯治理术（[[Governmentality]]）视角审视，学校效能将学校区分为“有效/无效”、“健康/病态”、“平庸/卓越”，构造出标准化的常模模型。通过英国教育标准局（[[Ofsted]]）视导检查、公立学校排行榜与“失败学校”公开命名羞辱机制，教师与校长的[[Professional Judgment|专业判断]]被剥夺，退化为必须接受常态化风险防控的技术操作员。[[Argument_Ball_2008_SR|(Ball, 2008, pp. 663–665)]]
+
+> [!citation-card] Ball论学校效能政策技术对学校客体的常模化塑造
+> [[Ofsted]] 检查、失败学校命名、测试体系和排行榜是学校效能研究被政策[[Transfer Translation Transformation|转译]]后的治理技术。它们把学校构造成“一个知识分支的对象”，使学校能够被持续监控、引导和改造。在政策中作为一种正常化技术运作：它建构有效学校的规范模型，同时把无效学校异常化为需要治疗的学校。[[Argument_Ball_2008_SR|(Ball, 2008, pp. 663–665)]]
+>
+> *Inspection regimes, naming and shaming, testing systems, and [[Global Universities Rankings|league tables]] are governance technologies retranslated from school effectiveness research... constructing the school as an object of a branch of knowledge subject to perpetual monitoring and transformation.*
+
+---
+
+### 命题三：知识商品化与学术重商主义输出命题
+
+> [!concept-lens] 效能知识的跨国市场化变现
+> 在全球教育[[Champ|场域]]中，学校效能知识已脱离公共学术探究范畴，退化为高校与跨国资本为了在市场中变现而生产的咨询商品。
+
+> [!claim]
+> **学术重商主义的海外殖民** 杰森·比奇（[[Jason Beech]]）结合[[Jean-François Lyotard|让-弗朗索瓦·利奥塔]]（[[Jean-François Lyotard]]）的知识商品化命题与[[Robert Cowen|罗伯特·考恩]]（[[Robert Cowen]]）的学术重商主义论断指出，当代大学在公共财政紧缩下产生了强烈的创收激励。恰如 16 世纪驱动欧洲帝国主义开辟新市场的重商主义，英国等国高校设立专职国际发展咨询部，将学校效能、领导力与质量监测成套打包为商业咨询方案，在第三世界发展中国家强力开辟咨询市场并实现知识变现。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–344)]]
+
+> [!citation-card] Beech论高校国际咨询部门对学校效能方案的商品化输出
+> 伴随利奥塔所论述的知识商品化趋势，在我们的时代，知识的生产是为了在市场中售卖。正如考恩（1996）所指出的，英国等国高校在财政压力下产生了强烈的创收激励；恰如十六世纪驱动欧洲帝国主义开辟新市场的重商主义，大学设立专门的国际发展部，奔赴欠发达国家开辟咨询市场，将学校效能与提高绩效的专门知识成套打包为咨询商品出售。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–344)]]
+>
+> *Universities have been involved in the business of consultancy for some time. But, like mercantilism that fuelled European imperialism in the search for new markets since the sixteenth century, the current situation in the financing of universities in places such as the UK [[CREATES Project|CREATES]] compelling incentives for the 'colonisation' of new markets in which to sell consultancy, especially in the less 'developed' countries... packaging knowledge on how to make schools 'efficient and effective' to sell in the market.*
+
+---
+
+### 命题四：去情境化社会技术与全球政策垄断命题
+
+> [!concept-lens] 抽象普遍方案与地方现实断裂
+> 学校效能被多边国际组织塑造成中立客观的普适社会技术，在[[Policy Network|全球政策网络]]中确立普遍霸权并闭合受援国的改革空间。
+
+> [!claim]
+> **[[Technical Rationality|技术理性]]与双重收拢** [[UNESCO|联合国教科文组织]]（[[UNESCO]]）、[[World Bank|世界银行]]（[[World Bank]]）与[[OECD|经合组织]]（[[OECD]]）等国际组织通过技术理性（[[Technical Rationality]]），将源自美英的学校效能与[[Effective Teaching|有效教学]]提炼为去情境化的普遍社会技术。国际机构将自身标榜为中立客观的“科学专家”，垄断了从问题诊断到解方设计的双重环节；然而当这种高度抽象的效能方案降落到拉美等后发国家具体的微观学校时，必然因剥离深层文化脉络而遭遇严重抵抗与实践脱节。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 344–346, 353–355)]]
+
+> [!citation-card] Beech论国际组织技术理性对普遍效能方案的霸权建构
+> 国际机构倡导一系列抽象普遍的社会技术（如学校效能与教育规划），在这些机构的逻辑中，它们能被用于改善绝大多数情境下的教育。这种技术理性促进了国际分工：国际组织将自身定位为能够设计普遍教育解方的“科学专家”，其建议被包装为“中立客观”，却在降落到微观学校现实时引发剧烈的实践脱节。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 345–346, 353–354)]]
+>
+> *International agencies were advocating a number of [[Abstract]] universal social technologies... positioned themselves as the 'scientific experts' that can design universal educational solutions... presented as being 'neutral and objective', yet producing deep disconnections with actual educational practices in schools.*
+
+---
+
+### 命题总览
+
+> [!contrast-table] 学校效能核心理论命题总览
+> | 命题维度 | 核心判定 | 理论与方法论机制 | 代表学者与[[Document\|文献]]出处 |
+> |---|---|---|---|
+> | **微观归因命题** | 将学业差距归因于校内组织风气与领导，抽离社会阶级结构 | 变量控制隔离输入背景、学校净效应内卷化 | [[Stephen Ball\|Ball (2008, pp. 663–664)]]; Angus (1993) |
+> | **治理[[Disciplina and Doctrina\|规训]]命题** | 作为现代常模化治理术，将学校重塑为可量化监控干预对象 | [[Governmentality\|治理术]]、Ofsted 视导、命名羞辱、指标排名 | [[Stephen Ball\|Ball (2008, pp. 664–665)]]; Reynolds et al. (1996) |
+> | **商品输出命题** | 效能知识在高等教育财政紧缩下演变为学术重商主义咨询商品 | 知识商品化、[[Academic Capitalism\|学术资本主义]]、海外市场开拓 | [[Jean-François Lyotard\|Lyotard (1984)]]; [[Robert Cowen\|Cowen (1996)]]; [[Jason Beech\|Beech (2009b, pp. 342–344)]] |
+> | **技术霸权命题** | 被国际机构包装为去情境化普适社会技术，造成微观实践脱节 | [[Technical Rationality\|技术理性]]、双重收拢、[[Global Educational Discourse\|全球教育话语]] | [[Jason Beech\|Beech (2009b, pp. 344–346, 353–355)]] |
+
+---
 
 ## 概念演变
 
-> [!note]- 发展脉络
-> - 1980 年代，教育社会学中的阶级分析被种族、性别、残障和性取向等分析视角分化；部分研究者转向课程、政策、组织和管理研究，学校效能研究也在这一背景中出现([[Argument_Ball_2008_SR\|Ball, 2008, p.662]])。
-> - 在英国，学校效能研究源自 David Reynolds 及其合作者的经验研究，并逐渐与政策内部形成关系([[Argument_Ball_2008_SR\|Ball, 2008, pp.662-663]])。
-> - 1997-2002 年，[[Michael Barber]] 领导 DfEE Standards and Effectiveness Unit，标志着学校效能语言进入国家政策机器([[Argument_Ball_2008_SR\|Ball, 2008, p.663]])。
-> - 1990 年代以后，学校效能参与形成新的教育改革时代精神：学校被从社会背景中剥离出来，按照它们制造的差异被检查、评价和比较([[Argument_Ball_2008_SR\|Ball, 2008, p.665]])。
+> [!timeline] 学校效能演进历史脉络
+> - **1980 年代 — 实证取向奠基与社会学学科分化** 面对传统教育社会学阶级再生产理论的悲观论调，戴维·雷诺兹（David Reynolds）等学者转向实证组织研究，通过多[[Variable|变量]]回归试图证明“好学校”能克服生源不利条件，奠定学校效能实证量化[[Paradigm|范式]]。[[Argument_Ball_2008_SR|(Ball, 2008, pp. 662–663)]]
+> - **1990 年代 — 英国[[New Public Management|新公共管理]]与 [[Ofsted]] [[Disciplina and Doctrina|规训]]建制** 随着新公共管理（NPM）渗透，英国保守党与工党政府系统吸纳学校效能语言，建立英国教育标准局（[[Ofsted]]）定期督导制与学校公立排行榜，使效能指标转化为国家行政监控工具。[[Argument_Ball_2008_SR|(Ball, 2008, pp. 663–664)]]
+> - **1996–1997 年 — 学术重商主义转型与国家标准效能司设立** 考恩（Cowen, 1996）揭示英国高校因公共财政缩水而出现“学术重商主义”，将效能知识商品化；1997 年[[Michael Barber|迈克尔·巴伯]]（[[Michael Barber]]）受命执掌英国教育与就业部“标准与效能司”（Standards and Effectiveness Unit, SEU），标志着学校效能研究全面进驻国家政策中枢。[[Argument_Ball_2008_SR|(Ball, 2008, p. 663)]]；[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–343)]]
+> - **2000 年代 — 跨国教育集团与全球教育治理市场化扩张** 诺德安达（Nord Anglia）与环球教育（GEMS）等营利性跨国教育服务巨头兴起，与高校国际发展部联手将效能咨询向中东、拉美输出；[[World Bank|世界银行]]与[[OECD|经合组织]]将其编织进[[Global Educational Discourse|全球教育话语]]，确立为全球教育转移的主导范式。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 343–348)]]
+> - **2010 年代至今 — 全球绩效量化反思与实践脱节批判** 国际比较教育界深入揭示学校效能模式在后发国家的异化，批判去语境化的效能模板消解地方教育文化生态，催生对教育本质与受教育者身份的伦理回归。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 353–355)]]
+
+---
 
 ## 争议与批评
 
-> [!warning] 去语境化
-> 学校效能容易陷入一种常识逻辑：教育问题似乎可以在学校和课堂内部通过正确程序被技术性修复。Angus 对学校效能[[Document\|文献]]的批评指出，这种取向缺乏与社会学理论的充分接合，并可能服务于将不平等管理在学校墙内的政治项目(Angus, 1993, p.343; [[Argument_Ball_2008_SR\|Ball, 2008, p.664]])。
+> [!debates] 学术争议
+>
+> > [!axis] 学校内部效能[[Variable|变量]] vs 社会阶级与宏观结构[[Determinism|决定论]]
+> > 争论焦点在于教育改革究竟应聚焦于校内可调控的管理与教学变量，还是直面深层阶级不平等与资源再分配。
+> >
+> > - **学校效能研究者（Reynolds, 1982; Barber, 1997）** 坚持“没有不可教的孩子”，认为科学严谨的学校管理、高期望值与标准化课堂教学能有效弥合社会背景带来的鸿沟。
+> > - **批判教育社会学立场（Angus, 1993）** 批评学校效能研究是去政治化的常识逻辑，人为剥离了阶级、族裔与资本再生产结构，把深层社会危机简化为学校内部的技术修复，沦为免除国家反贫困责任的新自由主义意识形态工具。[[Argument_Ball_2008_SR|(Ball, 2008, p. 664)]]
+>
+> > [!axis] 公共教育启蒙改良 vs 商业咨询商品化打包与学术重商主义
+> > 探讨学校效能究竟是服务于本土教育质量提升的专业知识，还是高等教育产业化背景下的牟利商品。
+> >
+> > - **技术官僚与跨国咨询集团（Nord Anglia, GEMS）** 宣称其运营方案与效能指标是基于全球最佳实践的[[General Purpose Technology|通用技术]]，能高效赋能任何社区的学校提升[[Competitiveness|竞争力]]。
+> > - **跨国流动与学术重商主义批判视角（Cowen, 1996; Lyotard, 1984）** 揭示效能知识在后工业时代退化为售卖的商品，大学与跨国资本借助学术重商主义在第三世界开辟市场，将未经验证的异质方案强行输入受援国，造成政策买卖的虚假繁荣。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–344)]]
+>
+> > [!axis] 教师[[Professional Judgment|专业判断]]自主 vs 绩效量化[[Disciplina and Doctrina|规训]]与“归咎学校”政治
+> > 争论评价体制应当信赖教师基于实践情境的专业判断，还是依赖量化指标实施外部刚性问责。
+> >
+> > - **政策绩效管理主义派** 主张唯有通过外部基准、[[Performance Pay|绩效工资]]与 [[Ofsted]] 视导，方能破除教师职业怠惰，保障纳税人资金的产出效率。
+> > - **专业自主捍卫立场** 论证指出效能[[Discourse|话语]]将教师异化为单纯的技能工具包，滋生“归咎学校”（Blaming the School）的政治文化，诱发为了应试指标篡改数据与窄化课程等败德行为。[[Argument_Ball_2008_SR|(Ball, 2008, pp. 664–665)]]
 
-> [!warning] 归咎政治
-> 学校效能为“归咎学校”提供看似科学的基础。它弱化社会经济语境，把失败解释为[[School Leadership\|学校领导]]、管理、愿景和风气的问题，由此使学校更容易被命名、羞辱和干预([[Argument_Ball_2008_SR\|Ball, 2008, pp.663-665]])。
+> [!critique] 批判反思
+> - **方法论虚妄与过度推广** Angus (1993) 与 [[Argument_Ball_2008_SR\|Ball (2008)]] 批判学校效能研究缺乏深厚的社会学理论根基，将复杂的多维人类成长矮化为单向度的测试输入输出函数。
+> - **实践水土不服与意义[[Shape-Shifting|形变]]** [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] 实证指出，当基于欧美白人中产经验的效能与管理方案输入拉美时，在资源匮乏与制度割裂的微观学校中必然遭遇激烈抵抗与虚应故事，引发广泛的制度脱节。
 
+> [!warning] 适用局限与警示
+> - **低保障环境的有效性耗尽** 在极度贫困、社会动荡或基础设施彻底缺位的恶劣情境中，任何校内效能技术都无法替代基本生存与营养物质保障的支撑。
+> - **教育目标的严重窄化风险** 效能研究过度绑定标准化可测量科目，天然倾向于边缘化艺术、人文与公民民主道德等难以即时量化的立德树人核心向度。
+
+---
+
+## 实证数据
+
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始实证发现（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Ball_2008_SR\|Ball (2008)]] | 英国 1980 年代至今教育社会学史料、政策[[Document\|文献]]及视导档案 | 历史社会学与福柯谱系考证 | 学校效能[[Discourse\|话语]][[Transfer Translation Transformation\|转译]]、[[Ofsted]] 视导机制、绩效政策技术 | 揭示效能研究从边缘实证演变为国家常模[[Governmentality\|治理术]]；证实社会阶级归因被校内管理问责全面取代 | — | 聚焦英国政策制度史演进考据，未报告统计效应量 |
+> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 1985–2002 年 [[UNESCO]]、[[World Bank\|世界银行]]与 [[OECD]] 核心政策文件；阿根廷与巴西课程改革卷宗及师生访谈 | 跨国比较[[Discourse Analysis\|话语分析]]与深度质性追踪 | 效能咨询市场化输出模式、国际普遍方案与微观学校脱节度 | 揭示英国高校学术重商主义将效能打包为跨国商品；证实阿根廷与巴西微观实践与效能方案剧烈脱节 | — | 跨国宏观话语分析与拉美案例，未报告定量效应量 |
+
+---
+
+## 相关概念
+
+> [!ref-table] 核心关联概念对比表
+> | 概念 | 关联维度 | 理论互动与机制分野 |
+> |---|---|---|
+> | [[Effective Teaching\|有效教学]] | 微观教学对齐 | 学校效能理念在微观课堂维度的投射，强调可观察、可标准化的教学技能操作规程。 |
+> | [[School Leadership\|学校领导]] | 组织管理杠杆 | 效能研究将校长从行政协调者重塑为驱动全校绩效产出的企业家式愿景领导。 |
+> | [[Ofsted\|英国教育标准局]] | 政策治理[[Disciplina and Doctrina\|规训]] | 英国政府承接效能研究[[Discourse\|话语]]设立的常模化检查机构，执行视导与公开羞辱职能。 |
+> | [[Performativity\|绩效性]] | 评价[[Epistemology\|认识论]]哲学 | [[Jean-François Lyotard\|利奥塔]]揭示的“以输入输出比优化为核心”的后现代合法化逻辑，是效能指标的底层动力。 |
+> | [[Policy Borrowing\|政策借用]] | 跨国转移形态 | 效能方案作为全球教育市场中最易流通的标准件，成为各国政客证明改革科学性的借调样板。 |
+> | [[Technical Rationality\|技术理性]] | 认识论合法化 | 多边机构与咨询资本将效能技术标榜为超越意识形态与文化脉络的中立科学工具。 |
+
+---
+
+## 相关研究
+
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Ball_2008_SR\|Ball (2008)]] — 运用[[Governmentality|治理术]]视角解构英国教育社会学史，揭示学校效能[[Discourse|话语]]如何抽离阶级语境，将学校重构为接受 [[Ofsted]] 视导与排名的常模治理客体。
+> - [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] — 结合知识商品化与学术重商主义，剖析英美高校国际发展部与跨国资本如何将学校效能打包为咨询商品向全球受援国兜售并导致实践脱节。
+
+---
+
+## 条目关联
+
+> [!entry-map]
+>
+> | 条目 | 类型 | 贡献 |
+> |:-----|:-----|:-----|
+> | [[Governmentality\|治理术]] | 理论 | 福柯治理术为解构学校效能作为常模化、客体化[[Disciplina and Doctrina\|规训]]技术提供了根本哲学工具。 |
+> | [[Academic Capitalism\|学术资本主义]] | 理论 | 解释大学在财政危机中成立国际发展部门、将学校效能技术商业化输出的制度机制。 |
+> | [[Stephen Ball\|斯蒂芬·鲍尔]] | 人物 | 深刻剖析英国学校效能[[Discourse\|话语]]将阶级不平等去政治化、制造“归咎学校”政治的代表社会学家。 |
+> | [[Jason Beech\|杰森·比奇]] | 人物 | 揭示学校效能如何作为抽象普遍社会技术被跨国资本商品化输出并引发本土实践断裂。 |
+> | [[Robert Cowen\|罗伯特·考恩]] | 人物 | 提出“学术重商主义”概念，剖析英国高校设立海外发展部门兜售效能方案的制度动因。 |
+> | [[Jean-François Lyotard\|让-弗朗索瓦·利奥塔]] | 人物 | 提出后现代知识“为了在市场中售卖而生产”的断言，奠定效能知识商品化的批判底座。 |
+> | [[Michael Barber\|迈克尔·巴伯]] | 人物 | 掌舵英国教育与就业部标准与效能司，推动学校效能研究成果全盘进驻国家行政体制。 |
+> | [[Ofsted\|英国教育标准局]] | 机构 | 依据学校效能常模设立的国家督导检查机构，将效能指标转化为视导与奖惩实践。 |
+> | [[World Bank\|世界银行]] | 机构 | 充当[[Knowledge Bank\|知识银行]]，通过政策建议将去情境化的学校效能与[[Effective Teaching\|有效教学]]方案输入发展中国家。 |
+> | [[Global Educational Discourse\|全球教育话语]] | 概念 | 学校效能与校本管理构成了多边国际组织倡导的全球教育话语五大核心支柱之一。 |
+> | [[Argument_Ball_2008_SR\|Ball (2008)]] | 论证 | 提供英国学校效能[[Research Translation\|研究转译]]为国家治理技术与去语境化归因的系统历史社会学文本证据。 |
+> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 论证 | 提供高校学术重商主义与国际组织将学校效能包装为跨国商品输出的理论与经验证据。 |

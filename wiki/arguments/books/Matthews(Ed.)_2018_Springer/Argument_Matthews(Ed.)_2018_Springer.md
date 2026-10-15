@@ -7,7 +7,7 @@ title: "Argument_Matthews(Ed.)_2018_Springer"
 argument_key: "Argument_Matthews(Ed.)_2018_Springer"
 argument_display_title: "History, Philosophy and Science Teaching: New Perspectives"
 argument_kind: "edited-volume"
-argument_related_count: 31
+argument_related_count: 32
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#e5e7eb"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Scientifically Based Research]]"
   - "[[Nature of Science]]"
   - "[[Reflexivity]]"
+  - "[[School Effectiveness]]"
   - "[[Construct]]"
   - "[[Discourse]]"
   - "[[Scientific Paradigm]]"
@@ -120,7 +121,7 @@ updated: 2026-10-08
 > [!volume-structure] 全书结构
 > - **Part I / Ch. 1–4 — 科学、文化与教育（Science, Culture and Education）** 回应科学教育在多元文化语境中的世界观定位问题。第 1 章以风水为例探讨科学与伪科学的界分及科学教育的文化责任；第 2 章从概念哲学角度澄清启蒙作为个体属性而非抽象名词的[[Epistemology\|认识论]]内涵；第 3 章提供晚期奥斯曼帝国与土耳其共和国科学教育与启蒙传统的国别实证考察；第 4 章深入剖析文化科学教育研究（CSSE）的后现代[[Constructivist Paradigm\|建构主义]]起源及其认识论危机。（pp. xi–xvii）
 > - **Part II / Ch. 5–7 — 科学教学与学习（Teaching and Learning Science）** 探讨科学认识论与学习心理学机制的深度融合。第 5 章[[Scientifically Based Research\|基于科学研究]]（science studies）实证考察科学课堂中的[[Epistemic Practices\|认识论实践]]与共同体意义协商；第 6 章运用[[Self-Regulated Learning\|自我调节学习]]（SRL）理论系统桥接[[Nature of Science\|科学本质]]（NOS）教学的显性与[[Reflexivity\|反思性]]路径；第 7 章呈现恩斯特·马赫 1890 年论自然科学教学中心理与逻辑要素的开创性德文论文首个英文全译本。（pp. xvii–xix）
-> - **Part III / Ch. 8–10 — 课程开发与正当性辩护（Curriculum Development and Justification）** 聚焦科学课程的内在逻辑建构与课程论证。第 8 章提出将科学知识视为一种文化系统并以文化内容知识（CCK）重塑物理学教学[[Paradigm\|范式]]；第 9 章整合科学史、科学哲学、科学本身与科学教育研究（SER）四大支柱，展示以色列初中能量课程的实证设计方案；第 10 章批判演化论教学中流于功利的技术说辞，提出更具说服力且以学生为中心的演化素养论证集合。（pp. xix–xxi）
+> - **Part III / Ch. 8–10 — 课程开发与正当性辩护（Curriculum Development and Justification）** 聚焦科学课程的内在逻辑建构与课程论证。第 8 章提出将科学知识视为一种文化系统并以文化内容知识（CCK）重塑物理学教学[[Paradigm\|范式]]；第 9 章整合科学史、科学哲学、科学本身与科学教育研究（[[School Effectiveness|SER]]）四大支柱，展示以色列初中能量课程的实证设计方案；第 10 章批判演化论教学中流于功利的技术说辞，提出更具说服力且以学生为中心的演化素养论证集合。（pp. xix–xxi）
 > - **Part IV / Ch. 11–12 — 灌输与科学教育（Indoctrination and Science Education）** 引入教育哲学经典概念重审科学教学规范性。第 11 章分析科学课堂[[Hidden Curriculum|隐性课程]]中所传递的歪曲科学形象与潜在的教条灌输机制；第 12 章在分析哲学层面上探讨科学入门学习中作为基准阈值的正当性灌输及其向独立反思怀疑的转化机制。（pp. xxi–xxii）
 
 全书的四大板块与核心论证逻辑可通过如下结构流程直观呈现：

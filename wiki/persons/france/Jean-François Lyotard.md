@@ -8,10 +8,10 @@ summary: "法国后结构主义哲学家，后现代状况作者与知识合法�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 36
-person_related_level: 4
-person_related_stars: "⭐⭐⭐⭐"
-person_related_color: "#fce7f3"
+person_related_count: 41
+person_related_level: 5
+person_related_stars: "⭐⭐⭐⭐⭐"
+person_related_color: "#ffedd5"
 born: "1924"
 died: "1998"
 lifespan: "1924–1998"
@@ -30,13 +30,16 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Incommensurability]]"
   - "[[Discourse]]"
+  - "[[Knowledge Production]]"
   - "[[Growth]]"
   - "[[Critical Pedagogy]]"
   - "[[Geopolitics of Knowledge]]"
+  - "[[School Effectiveness]]"
   - "[[Competitiveness]]"
   - "[[International Spinozian Curriculum]]"
   - "[[Policy Network]]"
   - "[[Floating Signifier]]"
+  - "[[Policy Borrowing]]"
   - "[[Feeder Mechanism]]"
   - "[[Governance by Spin]]"
   - "[[Performance Indicators]]"
@@ -49,8 +52,6 @@ related_theories:
   - "[[Postmodernism]]"
   - "[[Academic Capitalism]]"
   - "[[Critical Theory]]"
-  - "[[School Effectiveness]]"
-  - "[[Knowledge Production]]"
 related_methods:
   - "[[Correlational Research]]"
 related_persons:
@@ -144,12 +145,12 @@ updated: 2026-10-15
 ## 核心思想
 
 > [!claim] 核心主张
-> 后现代时期的标志是 **对宏大[[Grand Theory\|元叙事]]（如人类解放、科学进步大叙事）的怀疑**。知识的合法化基础已从“是否真实/是否正义”彻底转向以“优化输入产出比”为核心目标的 **[[Performativity\|绩效性]]（[[Performativity]]）**。在绩效性逻辑的主导下，社会关系和机构运营被强加了绩效“恐怖”（要么可操作，要么消失）。同时，知识生产不再服从于普遍真理启蒙，而是 **为了进入市场售卖而生产**，导致学术成果全面退化为商业咨询与效能商品。在不同[[Discourse|话语]]系统（语言游戏）之间存在着 **不可[[Commensuration\|通约]]的分歧（The Differend）**，当强势话语强行以自身的规则裁判弱势话语时，将制造出受害者无法诉说和申辩的根本不义。
+> 后现代时期的标志是 **对宏大[[Grand Theory\|元叙事]]（如人类解放、科学进步大叙事）的怀疑**。知识的合法化基础已从“是否真实/是否正义”彻底转向以“优化输入产出比”为核心目标的 **[[Performativity\|绩效性]]（[[Performativity]]）**。在绩效性逻辑的主导下，社会关系和机构运营被强加了绩效“恐怖”（要么可操作，要么消失）。同时，[[Knowledge Production|知识生产]]不再服从于普遍真理启蒙，而是 **为了进入市场售卖而生产**，导致学术成果全面退化为商业咨询与效能商品。在不同[[Discourse|话语]]系统（语言游戏）之间存在着 **不可[[Commensuration\|通约]]的分歧（The Differend）**，当强势话语强行以自身的规则裁判弱势话语时，将制造出受害者无法诉说和申辩的根本不义。
 
 > [!citation-card] 后现代状况：对宏大元叙事的怀疑
 > 极其简化地看，我将后现代定义为对元叙事的怀疑。[[Argument_Beech_2009_CE|(Beech, 2009a, p. 354)]]；引自 Lyotard (1979/1984, p. xxiv)
 >
-> *Simplifying to the extreme, I define postmodern as incredulity toward metanarratives.*
+> *Simplifying to the extreme, I define [[Postmodernism|postmodern]] as incredulity toward metanarratives.*
 
 > [!citation-card] 绩效性恐怖：要么可操作要么消失
 > 绩效性原则施加于社会关系时会产生某种恐怖：“要么可操作（即可通约），要么消失”。[[Argument_Beech_2009_CE|(Beech, 2009a, p. 352)]]；引自 Lyotard (1984, p. xxiv)
@@ -159,7 +160,7 @@ updated: 2026-10-15
 > [!citation-card] 权力的绩效合法化与数据存储
 > 权力不仅是良好的表演性，也是有效的验证和良好的裁决。它基于效率使科学和法律合法化……因此，权力的增长及其自我合法化，现在正走上数据存储和可获取性以及信息可操作性的路线。[[Argument_Beech_2009_CE|(Beech, 2009a, p. 352)]]；引自 Lyotard (1979/1984, p. 47)
 >
-> *Power is not only good performativity, but also effective verification and good verdicts. It legitimates science and the law on the basis of their efficiency, (…) thus the Growth of power, and its self-legitimation, are now taking the route of data storage and accessibility, and the operativity of information.*
+> *Power is not only good performativity, but also effective verification and good verdicts. It legitimates science and the law on the basis of their efficiency, (…) thus the [[Growth]] of power, and its self-legitimation, are now taking the route of data storage and accessibility, and the operativity of information.*
 
 > [!citation-card] 分歧：不可通约语言游戏中的受害者不义
 > 我愿意把“分歧”定义为这样一种情况：原告被剥夺了进行论证的手段，因而成为了受害者。两方之间的分歧发生在一个冲突的解决是以其中一方的语言进行的，而另一方所遭受的损害在那种语言中得不到表达。[[Argument_Beech_2009_CE|(Beech, 2009a, p. 352)]]；引自 Lyotard (1983/1988, p. 9)
@@ -192,7 +193,7 @@ updated: 2026-10-15
 ## 历史评价
 
 > [!citation-card] Beech论利奥塔知识商品化命题对大学咨询市场扩张的解释力
-> 利奥塔在《后现代状况》中揭示的“知识生产为了售卖”命题，在当代全球教育转移与大学转型中得到了深刻印证：在政府公共财政紧缩压力下，大学教育学院将研发的学校效能与治理方案打包为高价咨询商品，向海外发展中国家开辟市场以补充政府拨款，推动了跨国政策借用主体从主权国家官员向学术咨询资本的深刻质变。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–343)]]
+> 利奥塔在《后现代状况》中揭示的“[[Knowledge Production|知识生产]]为了售卖”命题，在当代全球教育转移与大学转型中得到了深刻印证：在政府公共财政紧缩压力下，大学教育学院将研发的[[School Effectiveness|学校效能]]与治理方案打包为高价咨询商品，向海外发展中国家开辟市场以补充政府拨款，推动了跨国[[Policy Borrowing|政策借用]]主体从主权国家官员向学术咨询资本的深刻质变。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–343)]]
 >
 > *As Lyotard (1984) noted some time ago, in our times knowledge is produced in order to be sold. So, if the Department of Education of a given University develops certain knowledge about how to make schools (or districts or national systems) more 'efficient and effective' they should sell this knowledge in the market in order to contribute to the performance of the organisation.*
 
@@ -203,7 +204,7 @@ updated: 2026-10-15
 > [!person-network] 关系网络
 > - **师承／合作者** Gilles Deleuze — 索邦大学同窗，后于1970年代起共同在万森纳实验大学（巴黎第八大学）哲学系任教；Jacques Derrida — 1982–1983年共同创办国际哲学学院，并于加州大学欧文分校共事。
 > - **批评者／论敌** [[Jürgen Habermas]] — 现代性与启启蒙立场的坚定辩护者，视利奥塔的[[Postmodernism\|后现代主义]]为保守的反现代思潮，两人就“现代性的命运”展开长期学术论争。
-> - **现代跨国教育流通与知识商品化研究者** 杰森·比奇（[[Jason Beech]]） 援引利奥塔知识商品化论断，揭示全球教育转移中大学与咨询机构将学校效能技术打包为商品开辟海外市场的学术重商主义机制。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–343)]]
+> - **现代跨国教育流通与知识商品化研究者** 杰森·比奇（[[Jason Beech]]） 援引利奥塔知识商品化论断，揭示全球教育转移中大学与咨询机构将[[School Effectiveness|学校效能]]技术打包为商品开辟海外市场的学术重商主义机制。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–343)]]
 > - **机构／运动／项目** 
 >   - “社会主义或野蛮”（Socialisme ou Barbarie）极左翼政治组织 — 1954–1964年间为其核心成员，秘密支持阿尔及利亚独立运动。
 >   - 国际哲学学院（Collège International de Philosophie） — 1983年由德里达、利奥塔等人联合创办，利奥塔曾任第二任院长。

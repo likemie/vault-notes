@@ -9,7 +9,7 @@ summary: "德国当代哲学家与社会理论家，法兰克福学派第二代�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 49
+person_related_count: 48
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -84,7 +84,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-13
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Jürgen Habermas

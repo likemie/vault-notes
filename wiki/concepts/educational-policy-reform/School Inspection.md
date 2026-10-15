@@ -68,6 +68,7 @@ related_persons:
   - "[[Andreas Schleicher]]"
   - "[[Paul Morris]]"
   - "[[Nick Cowen]]"
+  - "[[Jason Beech]]"
 related_facts:
   - "[[Schulqualität Allgemeinbildung]]"
   - "[[Ofsted]]"
@@ -85,6 +86,7 @@ related_arguments:
   - "[[Argument_Bainbridge_2022_ROE]]"
   - "[[Argument_Cowen_2015_CHESS]]"
   - "[[Argument_Manitius_vanHolt_2019_BzS]]"
+  - "[[Argument_Beech_2009_GlobalGarden]]"
 confidence: high
 status: draft
 created: 2026-09-11
@@ -106,7 +108,7 @@ updated: 2026-10-15
 > - **边界** 学校督导是“自上而下、由外而内”的法定行政监控，不同于学校以内部自我诊断为目的的“校本自我评估（School Self-Evaluation, SSE）”，亦不同于完全依赖纯量化测验分数的“基于测试的问责（[[Test-Based Accountability]]）”。
 
 > [!citation-card] 惩罚性督导与专业共同体的制度对立
-> Grey & Morris 揭示了英格兰执政精英强推惩罚性督导与超国家组织倡导的专业共同体之间的尖锐断裂：
+> Grey and Morris 揭示了英格兰执政精英强推惩罚性督导与超国家组织倡导的专业共同体之间的尖锐断裂：
 > 
 > [[Michael Gove\|迈克尔·戈夫]]宣称没有问责的系统往往表现不佳，并以此解释为何官方‘磨利了教育标准办公室（[[Ofsted]]）的督导之剑，招募更多在职优秀教师参与督导，并要求后进学校以更快速度改进’。然而，[[OECD]] 报告中完全没有提及学校督导，经合组织倾向于教师群体间的自我规制，而非来自外部机构的惩罚性问责。像‘勒令’、‘磨利’和‘后进’这样的词汇，与[[Andreas Schleicher\|施莱歇尔]]将基于当局的问责定性为‘旧官僚系统’的判断截然相反。（[[Argument_Grey_2018_CE\|Grey & Morris, 2018, p. 119]]）
 > 
@@ -119,6 +121,8 @@ updated: 2026-10-15
 >   - 前者（以英国教育标准办公室（Office for Standards in Education, Children's Services and Skills, [[Ofsted]]）为代表）将督导等第与撤换校长、强制转制挂钩，制造恐慌与表演性合规；后者（以德国学校视导／督导 Schulinspektion / Schulvisitation 为代表）侧重对全州所有学校开展办学条件与教学过程的普查式诊断，指导行政部门定点帮扶，利害性较低而治理指导性更强。
 > - **Punitive Inspection（惩罚性督导）vs Dialogical Target-Agreement Inspection（目标协定对话型督导）**
 >   - 前者依托突击检查、单一定级与行政制裁；后者（如奥地利 SQA 模式）依托督学与校长的双向平等对话与周期性目标责任书，将督导嵌入单校自主规划与发展循环，强调协商共识而非外部高压惩戒。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, pp. 19–20)]]
+> - **Public Statutory Inspection（公共法定督导）vs Commercial Outsourced Inspection（商业外包督导）**
+>   - 传统督导由国家直接设立的法定监察机关行使行政权力；在公私伙伴关系（Public-Private Partnerships, PPP）框架下，英国等国将法定学校督导业务成套招标外包给私营教育服务公司（如诺德安达 Nord Anglia Education PLC），使学校督导从纯粹的公共规制行为演变为具备市场交换价值的商业服务资本，进而被跨国企业打包输出至海外教育市场（Cardini, 2006；[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, pp. 343–344]]）。
 > - **School Inspection（学校督导）vs Large-Scale Assessment（大规模学业测评，如 [[PISA]] / [[Vergleichsarbeiten\|VERA]]）**
 >   - 大规模测评主要通过抽样纸笔测验抓取特定年级学生的认知产出（[[Academic Achievement\|学业成绩]]），缺乏对组织过程的直接观察；学校督导则深入学校现场，整合输入、过程与产出多维指标，能够穿透组织生态并解释学业不良的深层原因（[[Argument_Dedering_2009_EERJ\|Dedering, 2009, p. 494]]）。
 > - **External Inspection（外部督导）vs School Self-Evaluation（校本自我评估）**
@@ -223,17 +227,33 @@ updated: 2026-10-15
 
 ---
 
+### 命题七　公私伙伴关系重塑督导供给格局并将国家行政监察转化为跨国输出的商业资本
+
+> [!concept-lens] 督导职能外包与跨国商业化扩张机制
+> 探讨公私伙伴关系如何突破国家行政垄断，将学校督导转变为私营教育财团积累管理资质并向海外输出的商业化商品。
+
+> [!claim] Beech & Cardini
+> **督导业务的公私合伙外包与跨国资本化** 弗洛伦西亚·卡迪尼（Florencia Cardini, 2006）与杰森·比奇（[[Jason Beech|Jason Beech, 2009b, pp. 343–344]]）指出，伴随公私伙伴关系（Public-Private Partnerships, PPP）在英国等国的深入推进，原本属于国家垄断的公共教育核心职能——包括校舍建设、地方教育局（LEAs）日常运营、教师在职培训乃至学校督导的实际执行——被系统性外包给私营营利性部门。中标承接大量政府督导合同的私营教育服务公司（如诺德安达教育集团 Nord Anglia Education PLC）借助公共财政合同大幅扩张运营实力与管理团队，进而将本国督导经验封装为标准化的专业服务产品，跨国拓展至中东、亚洲等多国教育市场，成为集学校督导、管理顾问与政策咨询于一体的跨国教育巨头。这一机制表明，学校督导在新公共管理浪潮中已超越纯粹的民族国家主权治理工具，异化为在全球教育市场中流转与寻租的商业资本。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 343–344)]]
+
+> [!citation-card] 论英国督导业务外包与跨国教育服务扩张
+> 公私伙伴关系（PPP）在英国等地的引入，导致私营部门赢得了学校建设项目、地方教育局运营、教师在职培训、学校供餐以及学校督导供给等诸多公共合同。随着这些公司在这些领域积累了经验和能力，它们已发展成为在多国提供服务的跨国公司。例如，在英国赢得诸多此类合同的诺德安达教育集团首席执行官曾指出：‘诺德安达是一家依托员工的服务型企业。当前英国教育改革的力度正为有能力化变革为优势的企业创造巨大的商业机遇……在过去几年里，我们大幅提升了全集团的运营能力与管理质量……我们已经准备好迎接这一挑战，拓展国际业务，其所带来的机遇前所未有。’[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 343–344)]]
+>
+> *The introduction of public-private partnerships (PPP) (Cardini, 2006) in places like the UK has resulted in the private sector winning contracts for school building projects, for running Local Educational Authorities (LEAs), for in-service teacher training, for school meals and for the provision of school inspections. As these companies gained experience and capacity in these areas, they have become multinational firms that offer their services in various countries. For example, Nord Anglia Education PLC, a firm that has won many of these contracts in the UK, has been described by its Chief Executive: 'Nord Anglia is a service business that depends on its people. The current level of educational change in the UK is creating significant commercial opportunities... Over the last few years we have substantially improved our operational capacity and the quality of management throughout the Group... We are ready to respond to this challenge and develop an international business for which the opportunities have never been greater.'*
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **威慑异化命题** | 外部惩罚性督导以行政高压取代专业自律，属于退步的旧官僚控制[[Paradigm\|范式]] | 国家教育督导体制重构、中央问责集权与工会抵制 | Grey & Morris |
+> | **威慑异化命题** | 外部惩罚性督导以行政高压取代专业自律，属于退步的旧官僚控制[[Paradigm\|范式]] | 国家教育督导体制重构、中央问责集权与工会抵制 | Grey and Morris |
 > | **道德伪证命题** | 督导行政等第被混同为科学证据并经道德化滑移转化为免检政治挡箭牌 | 国会政策辩论、选择性分流争议与民粹教育修辞 | Bainbridge et al. |
 > | **循证阻碍命题** | 督导高压问责诱发短期防御性投机，挤出教师审慎使用实证证据的空间 | 薄弱学校督导整改、循证教学实践落地与教师专业发展 | Cowen et al. |
 > | **微观治理优势命题** | 全域过程性学校督导因全样本覆盖与多维指标在具体指导干预上优于宏观测试 | 地方教育行政决策、薄弱学校精准扶持与循证监测体系构建 | [[Argument_Dedering_2009_EERJ\|Dedering (2009, pp. 494–495)]] |
 > | **认同分化命题** | 目标协定型督导的治理效能取决于校长的循证取向，面临深层的微观认同断裂与认知把关 | 产出导向现代督导改革、督导对话推进与校长专业认同分异 | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019, pp. 27–29)]] |
 > | **调控转移受挫命题** | 学校督导在基层学校面临成效缺失，外部诊断无法线性推导校内改进，且督导中介机制缺乏实证研究 | 德语区学校督导成效评估、新治理反思与教育转移机制分析 | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, pp. 9, 11–12)]] |
+> | **商业资本化命题** | 公私伙伴关系将国家法定督导外包给私营企业，使其转化为跨国流动的商业咨询资本 | 公共服务外包、PPP 改革、教育跨国市场化与全球政策流动 | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b, pp. 343–344)]]；Cardini (2006) |
 
 ---
 
@@ -242,7 +262,8 @@ updated: 2026-10-15
 > [!dev-timeline] 概念演变与[[Paradigm|范式]]转移
 > - **19 世纪中叶 — 专业视导与国家顾问起源** 英国 1839 年设立女王督学（HMI），督学扮演国家与地方学校之间的温和顾问（Critical Friend），主要职责在于调查学校状况、提供专业建言并促进良好实践传播。
 > - **1980–1990 年代 — [[New Public Management|新公共管理]]与集中规制转向** 伴随撒切尔主义与新公共管理兴起，英国 1992 年设立独立于教育部的 [[Ofsted]]，欧洲各国相继成立中央督查署；督导职能从“同行指导”剧变为“量化审查、公开排列表与四级等级裁定”。
-> - **2000 年代 — 欧陆经验转向与过程督导确立** 伴随 [[PISA]] 冲击（[[PISA Shock|PISA-Schock]]），德国各联邦州在[[Standing Conference of the Ministers of Education and Cultural Affairs|常设各州教育与文化部长会议]]（KMK）国家教育监测框架下，全面引入独立的外部学校督导（Schulinspektion / Schulvisitation）体系，通过对全域学校开展定期现场综合视导，作为沟通宏观国家标准与微观课堂教学改进的制度支柱。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, p. 485)]]
+> - **2000 年代初 — 公私伙伴关系与督导业务的商业化外包** 伴随新公共管理与公私伙伴关系（PPP）深化，英国等国将学校督导业务成套外包给私营教育服务公司（如诺德安达教育集团 Nord Anglia Education PLC）；私营公司借由承接政府法定督导合同积累运营经验与资质，进而将学校督导与政策咨询打包转化为跨国输出的商业资本，彻底重构了督导作为纯国家公权力机关的传统属性（Cardini, 2006；[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, pp. 343–344]]）。
+> - **2000 年代中叶 — 欧陆经验转向与过程督导确立** 伴随 [[PISA]] 冲击（[[PISA Shock|PISA-Schock]]），德国各联邦州在[[Standing Conference of the Ministers of Education and Cultural Affairs|常设各州教育与文化部长会议]]（KMK）国家教育监测框架下，全面引入独立的外部学校督导（Schulinspektion / Schulvisitation）体系，通过对全域学校开展定期现场综合视导，作为沟通宏观国家标准与微观课堂教学改进的制度支柱。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, p. 485)]]
 > - **2010 年代初 — 严苛惩罚化与市场兼并工具化** 联合政府时期教育大臣[[Michael Gove|迈克尔·戈夫]]高调宣称“磨利督导之剑”，将督导结果与强行转制赞助型学院学校挂钩，使督导成为拆解公立维持体制、推行私有化重组的行政执行令。[[Argument_Grey_2018_CE|(Grey & Morris, 2018, p. 119)]]
 > - **2010 年代中叶 — 目标协定与协商对话型督导兴起** 伴随[[Output-Oriented Governance|产出导向治理]]与单校自主深入推进，奥地利推行普通学校质量保障体系（[[Schulqualität Allgemeinbildung|SQA]]），推动学校督导从单向规则核查转向督学与校长间的“成效与目标协定对话（Bilanz- und Zielvereinbarungsgespräche）”；然而实证研究揭示，协商型督导的实际采纳面临一线校长微观价值取向的显著极化与认知把关。[[Argument_Altrichter_2019_ZfB|(Altrichter et al., 2019, pp. 27–29)]]
 > - **2019 年至今 — 新治理工具成效缺失反思与[[Epistemology|认识论]]解构** 德语区学者系统揭示学校督导在单体学校层面陷入“成效缺失”（mangelnde Effekte）的治理现实，指出督导外部诊断向校内行动转化的非线性特质与“理论-实践问题”的历史重现，呼吁打破中层督导机构的研究空白并吸纳国际政策执行[[Complexity Theory|复杂性理论]]（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, pp. 9, 11–12]]）；同时，英国学者深入解构督导评级被异化为道德侧步的修辞机制（[[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022]]），推动各国反思单一等级制并呼吁重归诊断性与合作式同行支持。
@@ -276,6 +297,12 @@ updated: 2026-10-15
 > >
 > > - **赋能协商论** 认为平等的成效对话有助于打破传统督导的对立防卫情绪，使学校将外部宏观标准与本校微观规划有机融合。
 > > - **隐性控制批判论** 指出由于校际资源与行政权力的非对称性，目标协定极易退化为下级对上级单向指标的被动认领，在微观层面引发不同价值取向校长的认知抵触与态度断裂。[[Argument_Altrichter_2019_ZfB\|(Altrichter et al., 2019, pp. 27–29)]]
+>
+> > [!axis] 国家法定公信力 vs 私营营利性外包与监管俘获
+> > 探讨将代表国家法定主权的学校督导外包给营利性跨国企业，是否会引发利益冲突、公信力塌陷以及将公共问责异化为商业营销工具。
+> >
+> > - **外包效率倡导论** 认为私营承包商能打破传统教育督查官僚机构的僵化迟钝，引入现代企业治理与灵活的人员激励机制，大幅压低政府财政支出成本。
+> > - **公共问责异化论** 尖锐指出营利性企业承接督导必然面临商业利益与公共裁判标准的深层冲突；督导资质成为企业谋取海外咨询合同与创收的背书工具，危及教育治理的公正底线（Cardini, 2006；[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, pp. 343–344]]）。
 
 ---
 
@@ -320,8 +347,11 @@ updated: 2026-10-15
 > | [[OECD]] | Fact (Organization) | 明确批评自上而下的当局督导为旧官僚体制、倡导扁平同行自我规制的超国家智库。 |
 > | [[Paul Morris]] | Person | 深入揭示[[Michael Gove\|迈克尔·戈夫]]如何借 PISA 危机推销“磨利督导之剑”等争议政策的核心比较教育学者。 |
 > | [[Nick Cowen]] | Person | 实证论证高压督导问责机制如何阻碍教师审慎使用循证研究证据的学者。 |
+> | [[Jason Beech]] | Person | 比较教育学者，揭示英国通过公私伙伴关系将学校督导外包并转化为跨国输出商业资本的机制。 |
 > | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] | Argument | 实证检验[[Schulqualität Allgemeinbildung\|奥地利普通学校质量保障体系]]（SQA）中目标协定型督导的治理功能与校长群体的认同断裂。 |
 > | [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] | Argument | 实证揭示德国教育行政官员对全样本学校督导实用治理价值的高度评价及其科层整合瓶颈的期刊[[Document\|文献]]。 |
-> | [[Argument_Grey_2018_CE\|Grey & Morris (2018)]] | Argument | 剖析外部高压惩罚性督导与 OECD 专业共同体自律理念之间尖锐冲突的期刊[[Document\|文献]]。 |
+> | [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] | Argument | 剖析外部高压惩罚性督导与 OECD 专业共同体自律理念之间尖锐冲突的期刊[[Document\|文献]]。 |
 > | [[Argument_Bainbridge_2022_ROE\|Bainbridge et al. (2022)]] | Argument | 揭示督导评级被道德化滑移为研究证据以掩护文法学校扩张的实证[[Discourse Analysis\|话语分析]]文献。 |
 > | [[Argument_Cowen_2015_CHESS\|Cowen et al. (2015)]] | Argument | 深入探讨督导等外部高压制度问责阻碍学校内生循证实践深化的实证研究报告。 |
+> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | Argument | 剖析公私伙伴关系下学校督导的外包、商业资本化与跨国服务输出。 |
+

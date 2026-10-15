@@ -8,7 +8,7 @@ summary: "德国比较教育学者与系统理论家，柏林洪堡大学比较�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 32
+person_related_count: 33
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-06
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Jurgen Schriewer

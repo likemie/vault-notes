@@ -7,7 +7,7 @@ aliases:
 summary: "源自微观社会学与社会心理学的核心理论范式，主张行动者基于事物对自身的主观意义采取行动，意义在符号互动与角色扮演中持续涌现、协商与修正，互动本身构成探究的基本分析单位。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 42
+theory_related_count: 41
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"

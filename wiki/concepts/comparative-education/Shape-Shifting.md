@@ -7,7 +7,7 @@ aliases:
 summary: "教育制度、思想或实践在跨越空间、场域或制度边界流动过程中发生的深层结构重组与形态变异，由 Cowen (2009b) 提出‘移动即变形’命题，并由 Beech (2009a, 2009b) 深化为涵盖话语截断、政策杂糅与微观反常替代的多层级形态分析。"
 type: concept
 domain: "comparative-education"
-related_count: 49
+related_count: 48
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"

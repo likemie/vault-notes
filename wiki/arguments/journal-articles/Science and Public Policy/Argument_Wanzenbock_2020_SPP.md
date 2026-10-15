@@ -34,6 +34,7 @@ related_concepts:
   - "[[Problem of Many Hands]]"
   - "[[Chain of Evidence]]"
   - "[[Public Value]]"
+  - "[[School Effectiveness]]"
   - "[[Institutionalising Social Learning]]"
   - "[[Regulatory Sandbox]]"
   - "[[Reflexivity]]"
@@ -63,7 +64,7 @@ title: "Argument_Wanzenbock_2020_SPP"
 argument_key: "Argument_Wanzenbock_2020_SPP"
 argument_display_title: "A framework for mission-oriented innovation policy: Alternative pathways through the problem–solution space"
 argument_kind: "journal-article"
-argument_related_count: 23
+argument_related_count: 24
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -296,7 +297,7 @@ issuing_organization: ""
 >
 > - **国家能源协议与规模效益实现协同突破**
 >
->   通过促成政府、电力企业、非政府组织（Non-Governmental Organization, NGO）与社区代表在荷兰社会经济理事会（Social and Economic Council, SER）签署国家能源协议（Energieakkoord 2013），各方在风电场选址、收益共享与竞价机制上达成妥协，叠加技术规模效应带来的成本大幅下降，最终促成了零补贴海上风电的大规模平价开发。（p.485）
+>   通过促成政府、电力企业、非政府组织（Non-Governmental Organization, NGO）与社区代表在荷兰社会经济理事会（Social and Economic Council, [[School Effectiveness|SER]]）签署国家能源协议（Energieakkoord 2013），各方在风电场选址、收益共享与竞价机制上达成妥协，叠加技术规模效应带来的成本大幅下降，最终促成了零补贴海上风电的大规模平价开发。（p.485）
 
 #### 2. 使命政策的成败取决于能否在动态调整中协调多方利益并实现双重收敛
 
