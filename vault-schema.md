@@ -326,8 +326,13 @@ cd /Users/shaoyangwu/Documents/MyNotes
 Git pre-commit hook（跑基础索引 + 增量 lint，lint 错误阻止提交）位于 `scripts/hooks/pre-commit`，安装：
 
 ```bash
-cp scripts/hooks/pre-commit .git/hooks/pre-commit && chmod +x .git/hooks/pre-commit
+git config --local core.hooksPath scripts/hooks
+chmod +x scripts/hooks/pre-commit
 ```
+
+钩子直接使用版本管理中的脚本，无需复制到 `.git/hooks/`。基础索引完成后，`scripts/check_vault.py` 统一执行回归测试、只读 wiki 索引检查、完整引用检查和增量 lint。手动检查使用 `.venv/bin/python3 scripts/check_vault.py`。依赖在 `requirements.txt` 中固定。
+
+GitHub Actions 在 pull request 和 main 分支 push 时执行同一检查入口，通过 `--base <SHA>` 检查相对于 PR 基线或 push 前提交新增、修改和重命名后的 Markdown 文件，避免干净检出时增量 lint 为空。仅 main 的 push 且检查全部通过后，才触发 Quartz 发布。此日常门禁不替代重要发布前的全量严格检查。
 
 移动 wiki 条目时：
 

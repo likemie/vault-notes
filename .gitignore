@@ -8,6 +8,13 @@ scripts/.backup/
 scratch/
 tmp/
 
+# Local text extraction and drafting intermediates.
+.pdf_text_dump.txt
+.system_generated_full_paper.txt
+cleaned_paper.txt
+extracted_paper.txt
+scratch_*.txt
+
 # Keep local PDF reading copies out of git; PDFs are served from NAS.
 sources/**/*.pdf
 sources/**/*.PDF

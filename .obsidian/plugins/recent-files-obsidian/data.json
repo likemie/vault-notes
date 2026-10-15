@@ -5,6 +5,10 @@
       "path": "wiki/methods/qualitative/Classroom Observation.md"
     },
     {
+      "basename": "Plato",
+      "path": "wiki/persons/greece/Plato.md"
+    },
+    {
       "basename": "Argument_WorldBank_2019_Teach",
       "path": "wiki/arguments/reports-policy-documents/Argument_WorldBank_2019_Teach.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "World Bank",
       "path": "wiki/facts/global/World Bank.md"
-    },
-    {
-      "basename": "Plato",
-      "path": "wiki/persons/greece/Plato.md"
     },
     {
       "basename": "UNESCO",
