@@ -41,12 +41,25 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 
 ## 历史沿革与组织演变
 
-%% 阶段性节点少时用 [!timeline]；历史复杂、阶段职能变化明显时使用 [!dev-timeline]- 分阶段呈现。 %%
+%% 阶段性节点少时用 [!timeline]；一般历史过程用 [!dev-timeline]；国际组织、政府机构等同时包含“组织阶段 + 阶段内里程碑”时使用 [!org-evolution]。 %%
 
-> [!dev-timeline] 组织发展历程
-> - **YYYY–YYYY — 创设与奠基期** 说明创设契机、首任领导层、初期法定授权与早期代表性活动。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - **YYYY–YYYY — 职能扩张与制度化** 说明关键业务拓展、跨区域/跨国网络建立、评估标准确立或重要改革转折。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
-> - **YYYY–至今 — 当代格局与战略转型** 说明当前组织规模、数字化/全球化战略方向及最新治理机制。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+> [!org-evolution] 组织发展历程
+> - **YYYY–YYYY** **创设与奠基期**
+>
+>   概括这一阶段的组织定位、法定授权与角色变化。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+>
+>   - **YYYY** 具体创设、改组、制度或项目节点。
+>   - **YYYY** 阶段内另一关键里程碑。
+>
+> - **YYYY–YYYY** **职能扩张与制度化**
+>
+>   说明关键业务拓展、跨区域网络、评估标准或治理机制的变化。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
+>
+>   - **YYYY** 具体里程碑。
+>
+> - **YYYY–至今** **当代格局与战略转型**
+>
+>   说明当前组织规模、数字化或全球化战略及最新治理机制。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 ---
 

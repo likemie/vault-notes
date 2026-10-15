@@ -27,6 +27,254 @@
   --fs-display: 1.55em;
 }
 
+/* ================================================================
+   ORG EVOLUTION · organization history with a nested milestone rail
+   Level 1 = institutional eras; level 2 = changes inside each era.
+   ================================================================ */
+.callout[data-callout="org-evolution"] {
+  --callout-color: 47, 112, 108;
+  --callout-icon: lucide-landmark;
+  --org-evolution-rgb: 47, 112, 108;
+  position: relative;
+  overflow: hidden;
+  border: 1px solid rgba(var(--org-evolution-rgb), 0.24);
+  border-top: 5px solid rgb(var(--org-evolution-rgb));
+  border-radius: 14px;
+  background:
+    linear-gradient(145deg, rgba(var(--org-evolution-rgb), 0.09), transparent 38%),
+    var(--background-primary);
+  box-shadow: 0 10px 28px rgba(var(--org-evolution-rgb), 0.08);
+}
+
+.callout[data-callout="org-evolution"] > .callout-title {
+  padding: 0.86rem 1rem;
+  border-bottom: 1px solid rgba(var(--org-evolution-rgb), 0.16);
+  background: rgba(var(--org-evolution-rgb), 0.07);
+  color: rgb(var(--org-evolution-rgb));
+  font-weight: 760;
+}
+
+.callout[data-callout="org-evolution"] > .callout-title .callout-title-inner::before {
+  content: "EVOLUTION";
+  display: inline-block;
+  margin-right: 0.62rem;
+  padding: 0.12em 0.58em;
+  border: 1px solid rgba(var(--org-evolution-rgb), 0.30);
+  border-radius: 999px;
+  background: rgba(var(--org-evolution-rgb), 0.12);
+  color: rgb(var(--org-evolution-rgb));
+  font-size: var(--fs-caption, 0.72em);
+  font-weight: 820;
+  letter-spacing: 0.11em;
+  vertical-align: 0.08em;
+}
+
+.callout[data-callout="org-evolution"] > .callout-content {
+  padding: 0.9rem 1rem 1rem;
+}
+
+.callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol) {
+  counter-reset: org-era;
+  position: relative;
+  margin: 0;
+  padding: 0.15rem 0 0.05rem 3rem;
+  list-style: none !important;
+}
+
+.callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol)::before {
+  content: "";
+  position: absolute;
+  left: 1.04rem;
+  top: 0.9rem;
+  bottom: 1.2rem;
+  width: 2px;
+  border-radius: 999px;
+  background: linear-gradient(to bottom, rgba(var(--org-evolution-rgb), 0.82), rgba(var(--org-evolution-rgb), 0.16));
+}
+
+.callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol) > li {
+  counter-increment: org-era;
+  position: relative;
+  margin: 0 0 1rem;
+  padding: 0.88rem 1rem 0.92rem;
+  list-style: none !important;
+  border: 1px solid rgba(var(--org-evolution-rgb), 0.18);
+  border-left: 4px solid rgba(var(--org-evolution-rgb), 0.62);
+  border-radius: 11px;
+  background: color-mix(in srgb, var(--background-primary) 96%, rgb(var(--org-evolution-rgb)) 4%);
+  box-shadow: 0 5px 15px rgba(var(--org-evolution-rgb), 0.055);
+}
+
+.callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol) > li:last-child {
+  margin-bottom: 0;
+}
+
+.callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol) > li::before {
+  content: counter(org-era, decimal-leading-zero);
+  position: absolute;
+  left: -2.58rem;
+  top: 0.9rem;
+  width: 1.65rem;
+  height: 1.65rem;
+  border: 3px solid var(--background-primary);
+  border-radius: 50%;
+  background: rgb(var(--org-evolution-rgb));
+  color: #fff;
+  font-size: 0.66em;
+  font-weight: 820;
+  line-height: 1.65rem;
+  text-align: center;
+  box-shadow: 0 0 0 2px rgba(var(--org-evolution-rgb), 0.32);
+  z-index: 1;
+}
+
+.callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol) > li::after {
+  content: "";
+  position: absolute;
+  left: -1.24rem;
+  top: 1.7rem;
+  width: 1.2rem;
+  height: 1.5px;
+  background: rgba(var(--org-evolution-rgb), 0.38);
+}
+
+.callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol) > li > .list-bullet,
+.callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol) > li::marker {
+  display: none !important;
+}
+
+.callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol) > li > p:first-of-type {
+  display: grid;
+  grid-template-columns: max-content minmax(0, 1fr);
+  align-items: center;
+  gap: 0.52rem;
+  margin: 0 0 0.62rem;
+  padding-bottom: 0.55rem;
+  border-bottom: 1px solid rgba(var(--org-evolution-rgb), 0.15);
+  color: var(--text-normal);
+  line-height: 1.45;
+}
+
+.callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol) > li > p:first-of-type > strong:first-of-type,
+.callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol) > li > strong:first-of-type {
+  padding: 0.18em 0.62em;
+  border: 1px solid rgba(var(--org-evolution-rgb), 0.34);
+  border-radius: 6px;
+  background: rgba(var(--org-evolution-rgb), 0.13);
+  color: rgb(var(--org-evolution-rgb));
+  font-size: var(--fs-table, 0.9em);
+  font-weight: 800;
+  white-space: nowrap;
+}
+
+.callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol) > li > p:first-of-type > strong:nth-of-type(2) {
+  color: var(--text-normal);
+  font-size: var(--fs-lead, 1.04em);
+  font-weight: 760;
+}
+
+.callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol) > li > p:not(:first-of-type) {
+  margin: 0.42rem 0;
+  color: var(--text-muted);
+  font-size: var(--fs-body);
+  line-height: 1.72;
+}
+
+/* Secondary milestone rail inside an institutional era. */
+.callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol) > li > ul {
+  position: relative;
+  margin: 0.7rem 0 0.1rem;
+  padding: 0.2rem 0 0.05rem 2rem;
+  list-style: none !important;
+}
+
+.callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol) > li > ul::before {
+  content: "";
+  position: absolute;
+  left: 0.54rem;
+  top: 0.7rem;
+  bottom: 0.65rem;
+  width: 1.5px;
+  background: rgba(var(--org-evolution-rgb), 0.26);
+}
+
+.callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol) > li > ul > li {
+  position: relative;
+  margin: 0 0 0.46rem;
+  padding: 0.32rem 0.5rem 0.34rem 0.62rem;
+  list-style: none !important;
+  border-radius: 7px;
+  background: rgba(var(--org-evolution-rgb), 0.045);
+  color: var(--text-muted);
+  font-size: var(--fs-table, 0.9em);
+  line-height: 1.58;
+}
+
+.callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol) > li > ul > li::before {
+  content: "";
+  position: absolute;
+  left: -1.63rem;
+  top: 0.78rem;
+  width: 0.58rem;
+  height: 0.58rem;
+  border: 2px solid var(--background-primary);
+  border-radius: 50%;
+  background: rgb(var(--org-evolution-rgb));
+  box-shadow: 0 0 0 1.5px rgba(var(--org-evolution-rgb), 0.30);
+}
+
+.callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol) > li > ul > li > strong:first-of-type,
+.callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol) > li > ul > li > p:first-child > strong:first-of-type {
+  display: inline-block;
+  min-width: 3.6em;
+  margin-right: 0.34rem;
+  color: rgb(var(--org-evolution-rgb));
+  font-size: 0.92em;
+  font-weight: 800;
+}
+
+.theme-dark .callout[data-callout="org-evolution"] {
+  --callout-color: 100, 194, 185;
+  --org-evolution-rgb: 100, 194, 185;
+  background:
+    linear-gradient(145deg, rgba(var(--org-evolution-rgb), 0.12), transparent 42%),
+    var(--background-primary);
+  border-color: rgba(var(--org-evolution-rgb), 0.24);
+}
+
+.theme-dark .callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol) > li {
+  background: rgba(var(--org-evolution-rgb), 0.075);
+  border-color: rgba(var(--org-evolution-rgb), 0.20);
+}
+
+@media (max-width: 640px) {
+  .callout[data-callout="org-evolution"] > .callout-content {
+    padding-inline: 0.65rem;
+  }
+
+  .callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol) {
+    padding-left: 2.3rem;
+  }
+
+  .callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol)::before {
+    left: 0.68rem;
+  }
+
+  .callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol) > li::before {
+    left: -2.2rem;
+  }
+
+  .callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol) > li::after {
+    left: -0.9rem;
+    width: 0.86rem;
+  }
+
+  .callout[data-callout="org-evolution"] > .callout-content > :is(ul, ol) > li > p:first-of-type {
+    grid-template-columns: 1fr;
+    gap: 0.34rem;
+  }
+}
+
 /* ─── 全局 ─────────────────────────────────────────────── */
 .callout {
   border-radius: 10px;
