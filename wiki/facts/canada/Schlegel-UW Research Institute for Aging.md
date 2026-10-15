@@ -5,6 +5,8 @@ aliases:
   - Schlegel-UW老龄化研究所
   - Research Institute for Aging
   - 滑铁卢大学老龄化研究所
+alias_reviewed:
+  - RIA
 summary: "2005 年由滑铁卢大学与 Schlegel Villages 合作建立的大型跨学科产学合作研究机构，以共同选址、知识动员和临床即时反馈为核心运作模式，聚焦老龄化研究与技术创新"
 type: fact
 subtype: organization

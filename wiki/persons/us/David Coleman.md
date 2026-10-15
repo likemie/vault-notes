@@ -3,7 +3,6 @@ title: David Coleman
 aliases:
   - 戴维·科尔曼
   - 大卫·科尔曼
-  - 科尔曼
 summary: "美国当代教育政策设计者与企业家，学生成就伙伴组织（Student Achievement Partners）联合创始人，美国大学理事会（College Board）第九任总裁；被誉为‘共同核心州立标准总设计师’，主持起草了 CCSS 英语语言艺术（ELA）与读写能力标准，确立了文本复杂度、循证阅读与非虚构知识建构三大教学范式转向，并主导了 2016 年全美 SAT 考试的历史性全面重构。"
 type: person
 nationality: us

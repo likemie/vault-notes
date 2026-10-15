@@ -1,8 +1,6 @@
 ---
 title: Bildung
 aliases:
-  - 教养
-  - 教化
   - 精神教化
   - Character Formation
   - Edification of Character

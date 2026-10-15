@@ -7,6 +7,9 @@ aliases:
   - 后测
   - pretest
   - posttest
+alias_reviewed:
+  - 前测
+  - 后测
 summary: "实验中在干预前后分别进行的测量，前测建立基线等价性，后测测量干预效应，两者的时机安排直接影响因果推断的有效性"
 type: method
 method_type: quantitative

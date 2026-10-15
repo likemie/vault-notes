@@ -6,6 +6,8 @@ aliases:
   - 柏林教育质量发展研究所
   - IQB
   - Institut zur Qualitätsentwicklung im Bildungswesen
+alias_reviewed:
+  - IQB
 summary: "德国16个联邦州联合创设于柏林洪堡大学的国家级教育监测与质量研究中枢，受各州教育与文化部长常设会议（KMK）委托主导研发国家教育标准题库、组织实施联邦州学业水平趋势比较（IQB-Bildungstrend）、统筹协调全德校际比较测试（VERA）并运营全国教育研究数据中心（FDZ），构成德国教育循证治理的核心国家计算中心"
 type: fact
 subtype: organization

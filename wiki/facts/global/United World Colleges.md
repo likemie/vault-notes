@@ -3,6 +3,8 @@ title: United World Colleges
 aliases:
   - 联合世界书院
   - UWC
+alias_reviewed:
+  - UWC
 summary: "由大西洋学院扩展形成的国际书院网络，通过共同方针、自治校董会、国家委员会、奖学金与国际文凭连接多种学校形态。"
 type: fact
 subtype: organization

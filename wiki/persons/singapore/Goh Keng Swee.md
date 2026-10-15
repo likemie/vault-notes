@@ -2,7 +2,9 @@
 title: Goh Keng Swee
 aliases:
   - 吴庆瑞
-  - Goh, K. S.
+  - "Goh, K. S."
+alias_reviewed:
+  - 吴庆瑞
 summary: "新加坡开国元勋、前副总理；新加坡经济腾飞与现代国防、教育体制的主要总设计师；主导撰写了1979年《吴庆瑞报告》，奠定了新加坡双语教育与国家文化认同建构的制度蓝图。"
 type: person
 nationality: singapore

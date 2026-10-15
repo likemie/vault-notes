@@ -1,11 +1,10 @@
 ---
 title: Marc-Antoine Jullien
 aliases:
-  - Jullien, M.
+  - "Jullien, M."
   - Marc-Antoine Jullien de Paris
   - Jullien de Paris
   - 马克-安托万·朱利安
-  - 朱利安
 summary: "法国启蒙自由主义教育家与国际主义者，1817年发表比较教育奠基之作提出准实证科学设想与比较观察表，构想由特别教育委员会与通报网络组成的跨国教育共同体与世界和平治理蓝图，被公认为比较教育学之父与国际教育先驱"
 type: person
 nationality: france

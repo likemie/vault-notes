@@ -2,7 +2,6 @@
 title: Assemblage
 aliases:
   - 组装
-  - 装配
   - 组合装配
   - 政策装配
   - Policy Assemblage

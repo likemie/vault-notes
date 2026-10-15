@@ -43,11 +43,13 @@ created: 2026-10-03
 updated: 2026-10-05
 title: Joseph Schumpeter
 aliases:
-  - Schumpeter, J.
+  - "Schumpeter, J."
   - 熊彼特
   - 约瑟夫·熊彼特
   - 约瑟夫·阿洛伊斯·熊彼特
   - Joseph Alois Schumpeter
+alias_reviewed:
+  - 熊彼特
 ---
 
 # Joseph Schumpeter

@@ -6,7 +6,9 @@ aliases:
   - 技术、创新与伙伴关系理事会
   - TIP
   - Directorate for TIP
-  - Technology, Innovation and Partnerships Directorate
+  - "Technology, Innovation and Partnerships Directorate"
+alias_reviewed:
+  - TIP
 summary: "美国国家科学基金会（NSF）依据《2022 年芯片与科学法案》授权设立的业务理事会，系 NSF 时隔 30 余年设立的首个全新理事会。专门致力于破除基础研究向产业应用的转化鸿沟，以公私合作伙伴关系（PPP）、区域创新引擎（NSF Engines）、X 实验室（FRO 联邦转化实体）、金券破格资助及元科学资助实验为支柱，将国家科研投入直接转化为经济繁荣与战略技术自主。"
 type: fact
 subtype: organization

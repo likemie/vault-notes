@@ -1,7 +1,6 @@
 ---
 title: Attrition
 aliases:
-  - 流失
   - 实验流失
   - 样本流失
   - experimental mortality

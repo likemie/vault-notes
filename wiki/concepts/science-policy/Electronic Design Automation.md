@@ -2,7 +2,6 @@
 title: Electronic Design Automation
 aliases:
   - 电子设计自动化
-  - EDA
   - Electronic Design Automation Tools
   - EDA Tools
   - 高级综合

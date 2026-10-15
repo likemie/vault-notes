@@ -3,6 +3,8 @@ title: Education Endowment Foundation
 aliases:
   - EEF
   - 教育捐赠基金会
+alias_reviewed:
+  - EEF
 summary: "英国2011年由萨顿信托联合创立的准独立慈善证据中介旗舰，依托1.25亿英镑政府种子基金，通过《教学与学习工具包》、大规模RCT资助及研究学校网络，开创了循证教育生态系统模型。"
 type: fact
 subtype: organization

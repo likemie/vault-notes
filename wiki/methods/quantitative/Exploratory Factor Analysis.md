@@ -2,7 +2,6 @@
 title: Exploratory Factor Analysis
 aliases:
   - 探索性因子分析
-  - EFA
   - 主轴因子分析
   - Principal Axis Factoring
 summary: "一种无监督或半监督的多变量统计降维技术，用于在未预设确定性测度关系的前提下，从一组观测变量的相关矩阵中提取出少数潜在公共因子，以揭示潜在构念并实现数据降维。"

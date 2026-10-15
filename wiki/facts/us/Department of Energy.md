@@ -5,6 +5,8 @@ aliases:
   - DOE
   - United States Department of Energy
   - U.S. Department of Energy
+alias_reviewed:
+  - DOE
 summary: "美国联邦政府主管国家能源安全、核安全监管、重大科技基础设施及前沿物理与计算科学研发的内阁级行政部门，管理包括橡树岭、劳伦斯伯克利、阿贡及桑迪亚等17所国家实验室；既是冷战大科学工程与极紫外光刻（EUV LLC）的制度发源地，也是国家微电子战略中微电子领导小组（SML）联合主席单位与纳米科学基础设施（NSRCs）统筹者，并领航创世纪计划AI科学超级平台。"
 type: fact
 subtype: organization

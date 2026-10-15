@@ -4,6 +4,8 @@ aliases:
   - 高考
   - 普通高等学校招生全国统一考试
   - National College Entrance Examination
+alias_reviewed:
+  - 高考
 summary: "中国全国统一的普通高等学校招生考试制度，替代古代科举制度成为现代社会流动与择优选拔的关键阶梯，构成东亚高利害考试问责文化的核心支柱"
 type: fact
 subtype: policy

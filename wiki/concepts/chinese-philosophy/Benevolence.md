@@ -1,7 +1,6 @@
 ---
 title: Benevolence
 aliases:
-  - 仁
   - human goodness
   - humanheartedness
   - authoritative conduct

@@ -6,6 +6,8 @@ aliases:
   - CTT
   - classical measurement theory
   - true score theory
+alias_reviewed:
+  - CTT
 summary: "将测验分数分解为真实分数与误差之和的测量理论，假设真实分数是无限次独立施测的期望值，是题目分析和信度计算的基础框架"
 type: theory
 theory_field: "research-methodology"

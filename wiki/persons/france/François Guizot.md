@@ -4,6 +4,8 @@ aliases:
   - 弗朗索瓦·基佐
   - 基佐
   - Francois Guizot
+alias_reviewed:
+  - 基佐
 summary: "法国七月王朝公共教育部部长、首相与自由派历史学家，主持颁布1833年基佐法案，以折衷自由主义奠定法国现代国民公共初等教育体系，确立市镇设校义务、省立师范网络与教学自由原则"
 type: person
 nationality: france

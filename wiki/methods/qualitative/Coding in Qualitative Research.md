@@ -1,7 +1,6 @@
 ---
 title: Coding in Qualitative Research
 aliases:
-  - 编码
   - 质性编码
   - 质性研究编码
   - 贴标签

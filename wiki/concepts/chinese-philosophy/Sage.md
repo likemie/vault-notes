@@ -1,8 +1,6 @@
 ---
 title: Sage
 aliases:
-  - 圣
-  - 聖
   - 圣人
   - 聖人
   - 圣贤

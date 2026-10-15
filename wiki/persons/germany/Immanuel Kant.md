@@ -1,9 +1,11 @@
 ---
 title: Immanuel Kant
 aliases:
-  - Kant, I.
+  - "Kant, I."
   - 康德
   - 伊曼努尔·康德
+alias_reviewed:
+  - 康德
 summary: "德国古典哲学奠基人，以三大批判重塑认识论、伦理学与美学，提出哥白尼式革命调和先天论与经验论，其启蒙自主性与世界主义[[Perpetual Peace|永久和平]]思想深刻启迪了现代教育哲学与比较教育学发端"
 type: person
 nationality: germany

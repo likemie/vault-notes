@@ -3,6 +3,8 @@ title: Single-Case Design
 aliases:
   - 单一个案设计
   - SCD
+alias_reviewed:
+  - SCD
 summary: "多义词：量化实验中个体作为自身控制的重复测量设计（ABAB、多基线等），或个案研究中只选取一个案例的研究设计类型（Yin, 2009）"
 type: method
 method_type: quantitative

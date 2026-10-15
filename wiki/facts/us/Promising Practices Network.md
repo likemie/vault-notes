@@ -2,7 +2,6 @@
 title: Promising Practices Network
 aliases:
   - 前景广阔的实践网络
-  - PPN
 summary: "兰德公司（RAND Corporation）运营的多领域非营利证据清算中心，设立了基于效应量（ES≥0.25 SD）与样本量门槛的评级体系；2014年结项后归档为免费电子书TL145。"
 type: fact
 subtype: event

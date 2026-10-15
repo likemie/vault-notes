@@ -1,7 +1,6 @@
 ---
 title: Teaching Assistant
 aliases:
-  - 助教
   - Teaching Assistants
   - 教学助理
   - 课堂助教

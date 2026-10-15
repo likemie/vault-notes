@@ -1,6 +1,7 @@
 ---
 title: Trofim Lysenko
 aliases: ["特罗菲姆·李森科", "李森科", "Lysenko, T.", "Lysenko, T. D."]
+alias_reviewed: ["李森科"]
 summary: "苏联农学家，李森科主义（Lysenkoism）的创立者，在斯大林支持下以意识形态正统名义否定孟德尔遗传学，主导苏联生物学和农业科学长达数十年，是科学意识形态化的标志性人物"
 type: person
 nationality: russia

@@ -1,8 +1,10 @@
 ---
 title: Niklas Luhmann
 aliases:
-  - Luhmann, N.
+  - "Luhmann, N."
   - 尼克拉斯·卢曼
+  - 卢曼
+alias_reviewed:
   - 卢曼
 summary: "德国社会学家，社会系统理论创始人；提出自创生系统、双重偶然性、观察盲点与结构耦合，其教育技术赤字论与外化命题为教育系统自指性再生产与跨国政策借用提供了底层解释力。"
 type: person

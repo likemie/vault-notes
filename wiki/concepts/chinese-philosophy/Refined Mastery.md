@@ -1,7 +1,6 @@
 ---
 title: Refined Mastery
 aliases:
-  - 精
   - 精通
   - perfected mastery
   - thorough understanding

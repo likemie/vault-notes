@@ -5,6 +5,8 @@ aliases:
   - 话语实践
   - Discursive Practice
   - Discursive Recontextualisation
+alias_reviewed:
+  - 话语
 summary: "通过情境化文本、谈话与制度实践建构知识、主体性与权力关系的意义体系；在微观层面指向文本性七标准与课堂互动中微观秩序与权力的协商，在宏观层面指向跨国流动空间中去情境化的普遍主义政策话语、过度简化转译与外围本土的再语境化形变。"
 type: concept
 domain: "research-methodology"

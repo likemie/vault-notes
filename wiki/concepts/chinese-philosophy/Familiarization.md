@@ -1,7 +1,6 @@
 ---
 title: Familiarization
 aliases:
-  - 熟
   - 熟悉化
   - familiarizing oneself
   - familiarity

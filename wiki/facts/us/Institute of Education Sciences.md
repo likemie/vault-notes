@@ -5,6 +5,8 @@ aliases:
   - 美国教育部教育科学研究院
   - 教育科学研究院
   - IES
+alias_reviewed:
+  - IES
 summary: "美国教育部下设的独立科研与数据统计机构，依据2002年教育科学改革法案设立，统摄四大常设国家研究中心与有效干预清算中心，主导推行教育因果实证研究、SEER卓越标准及法定分级财政资助杠杆。"
 type: fact
 subtype: organization

@@ -6,6 +6,8 @@ aliases:
   - 州文化部长会议
   - Kultusministerkonferenz
   - KMK
+alias_reviewed:
+  - KMK
 summary: "德国16个联邦州负责教育、高校与文化事务主管部长的宪制性常设协调机构，主导制定国家教育监测总体战略与跨州统一教育标准，并通过元治理协调IQB等国家计算中心与全德数据基础设施"
 type: fact
 subtype: organization

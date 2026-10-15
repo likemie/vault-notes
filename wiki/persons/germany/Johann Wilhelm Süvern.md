@@ -5,6 +5,8 @@ aliases:
   - 聚芬
   - Johann Wilhelm Suevern
   - Johann Wilhelm Suvern
+alias_reviewed:
+  - 聚芬
 summary: "普鲁士枢密顾问官与教育改革家，主持起草1819年综合学校法草案，确立国家最高监督主权、大众初小与市民学校双轨制及公立师范学校体系，为欧陆近代公共教育法制化与跨国借鉴提供核心范本"
 type: person
 nationality: germany

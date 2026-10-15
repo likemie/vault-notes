@@ -3,7 +3,6 @@ title: Consensual Assessment Technique
 aliases:
   - 同感评估技术
   - 共识评估技术
-  - CAT
 summary: "由阿马比尔提出的创造性产品评估黄金标准，要求多位领域专家基于各自内隐经验独立对真实创造产物的新颖性与适切性进行相对评定"
 type: instrument
 instrument_type: rubric

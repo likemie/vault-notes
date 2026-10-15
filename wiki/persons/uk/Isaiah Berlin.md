@@ -2,8 +2,7 @@
 title: Isaiah Berlin
 aliases:
   - 以赛亚·柏林
-  - 柏林
-  - Berlin, I.
+  - "Berlin, I."
 summary: "英国哲学家与思想史家，牛津大学教授、沃尔夫森学院创院院长；提出价值多元主义与两种自由概念，借助古希腊诗句确立了刺猬与狐狸的经典认知类型划分，其反思宏大理论、推崇多元经验适应的思想深刻启迪了现代工程认识论与科技决策哲学。"
 type: person
 nationality: uk

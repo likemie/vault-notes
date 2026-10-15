@@ -6,6 +6,8 @@ aliases:
   - Initial Teacher Education
   - ITT
   - ITE
+alias_reviewed:
+  - ITT
 summary: "指个体在正式获得合格教师资格（QTS）并独立执教前所接受的系统性专业职前准备阶段，涵盖大学本位培养、校本学徒制及混合临床实践模式"
 type: concept
 domain: "educational-policy-reform"

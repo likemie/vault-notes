@@ -3,7 +3,9 @@ title: René Girard
 aliases:
   - 勒内·吉拉尔
   - 吉拉尔
-  - Girard, R.
+  - "Girard, R."
+alias_reviewed:
+  - 吉拉尔
 summary: "法国哲学家、人类学家与文化理论家，法兰西学术院院士、斯坦福大学教授；开创模仿欲望理论（Mimetic Theory）与替罪羊机制，系统阐明人类欲望的三角模仿结构及其对科技创新同质化、从众内耗的致命毒性。"
 type: person
 nationality: france

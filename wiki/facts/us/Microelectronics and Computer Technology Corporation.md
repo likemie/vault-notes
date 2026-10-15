@@ -2,7 +2,6 @@
 title: Microelectronics and Computer Technology Corporation
 aliases:
   - 微电子与计算机技术公司
-  - MCC
   - 微电子与计算机技术联合体
   - Microelectronics and Computer Technology Consortium
 summary: "1982 年由美国控制数据公司（CDC）牵头十余家主要半导体与计算机巨头在得州奥斯汀创立的首个私营高技术研发联盟，旨在应对日本第五代计算机计划（ICOT）；展示了纯私营资助模式下派驻人员质量、知识产权排他期与向副会员演进的微观治理轨迹。"

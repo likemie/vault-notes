@@ -16,7 +16,6 @@
     "type": "concept",
     "path": "wiki/concepts/academic-writing/APA Style.md",
     "aliases": [
-      "APA",
       "APA style manual",
       "Publication Manual of the APA",
       "APA 7th edition",
@@ -188,7 +187,6 @@
     "type": "concept",
     "path": "wiki/concepts/chinese-philosophy/Benevolence.md",
     "aliases": [
-      "仁",
       "human goodness",
       "humanheartedness",
       "authoritative conduct"
@@ -231,7 +229,6 @@
     "type": "concept",
     "path": "wiki/concepts/chinese-philosophy/Familiarization.md",
     "aliases": [
-      "熟",
       "熟悉化",
       "familiarizing oneself",
       "familiarity"
@@ -337,7 +334,6 @@
     "type": "concept",
     "path": "wiki/concepts/chinese-philosophy/Refined Mastery.md",
     "aliases": [
-      "精",
       "精通",
       "perfected mastery",
       "thorough understanding"
@@ -359,8 +355,6 @@
     "type": "concept",
     "path": "wiki/concepts/chinese-philosophy/Ritual Propriety.md",
     "aliases": [
-      "禮",
-      "礼",
       "propriety"
     ]
   },
@@ -369,8 +363,6 @@
     "type": "concept",
     "path": "wiki/concepts/chinese-philosophy/Sage.md",
     "aliases": [
-      "圣",
-      "聖",
       "圣人",
       "聖人",
       "圣贤",
@@ -479,7 +471,6 @@
     "path": "wiki/concepts/comparative-education/Assemblage.md",
     "aliases": [
       "组装",
-      "装配",
       "组合装配",
       "政策装配",
       "Policy Assemblage",
@@ -1725,7 +1716,6 @@
     "aliases": [
       "3T 框架",
       "3T framework",
-      "转译",
       "政策迁移",
       "转移-转译-转化"
     ]
@@ -3207,7 +3197,6 @@
     "type": "concept",
     "path": "wiki/concepts/educational-leadership-administration/Teaching Assistant.md",
     "aliases": [
-      "助教",
       "Teaching Assistants",
       "教学助理",
       "课堂助教"
@@ -3305,8 +3294,6 @@
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Bildung.md",
     "aliases": [
-      "教养",
-      "教化",
       "精神教化",
       "Character Formation",
       "Edification of Character"
@@ -10472,7 +10459,6 @@
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Attrition.md",
     "aliases": [
-      "流失",
       "实验流失",
       "样本流失",
       "experimental mortality",
@@ -10907,7 +10893,6 @@
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Document.md",
     "aliases": [
-      "文献",
       "documentary source"
     ]
   },
@@ -11143,7 +11128,6 @@
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Hypothesis.md",
     "aliases": [
-      "假设",
       "研究假设",
       "hypotheses",
       "research hypothesis"
@@ -12421,7 +12405,6 @@
     "path": "wiki/concepts/science-policy/Electronic Design Automation.md",
     "aliases": [
       "电子设计自动化",
-      "EDA",
       "Electronic Design Automation Tools",
       "EDA Tools",
       "高级综合",
@@ -13336,7 +13319,7 @@
     "type": "concept",
     "path": "wiki/concepts/sociology-of-education/Habitus.md",
     "aliases": [
-      "习性"
+      "惯习"
     ]
   },
   {
@@ -16386,8 +16369,7 @@
     "type": "theory",
     "path": "wiki/theories/educational-psychology/Theory of Mind.md",
     "aliases": [
-      "心智理论",
-      "ToM"
+      "心智理论"
     ]
   },
   {
@@ -18126,7 +18108,6 @@
     "type": "method",
     "path": "wiki/methods/qualitative/Coding in Qualitative Research.md",
     "aliases": [
-      "编码",
       "质性编码",
       "质性研究编码",
       "贴标签"
@@ -19929,7 +19910,6 @@
     "path": "wiki/methods/quantitative/Exploratory Factor Analysis.md",
     "aliases": [
       "探索性因子分析",
-      "EFA",
       "主轴因子分析",
       "Principal Axis Factoring"
     ]
@@ -21648,8 +21628,7 @@
     "path": "wiki/instruments/rubrics/Consensual Assessment Technique.md",
     "aliases": [
       "同感评估技术",
-      "共识评估技术",
-      "CAT"
+      "共识评估技术"
     ]
   },
   {
@@ -23057,8 +23036,7 @@
       "Jullien, M.",
       "Marc-Antoine Jullien de Paris",
       "Jullien de Paris",
-      "马克-安托万·朱利安",
-      "朱利安"
+      "马克-安托万·朱利安"
     ]
   },
   {
@@ -23881,8 +23859,7 @@
       "Alfred Bernhard Nobel",
       "Nobel",
       "阿尔弗雷德·诺贝尔",
-      "阿尔弗雷德·伯恩哈德·诺贝尔",
-      "诺贝尔"
+      "阿尔弗雷德·伯恩哈德·诺贝尔"
     ]
   },
   {
@@ -24263,7 +24240,6 @@
     "path": "wiki/persons/uk/Isaiah Berlin.md",
     "aliases": [
       "以赛亚·柏林",
-      "柏林",
       "Berlin, I."
     ]
   },
@@ -25168,7 +25144,6 @@
     "path": "wiki/persons/us/Bernard Barber.md",
     "aliases": [
       "伯纳德·巴伯",
-      "巴伯",
       "Bernard R. Barber"
     ]
   },
@@ -25224,7 +25199,6 @@
     "path": "wiki/persons/us/Carlos Alberto Torres.md",
     "aliases": [
       "卡洛斯·阿尔贝托·托雷斯",
-      "托雷斯",
       "Torres, C. A."
     ]
   },
@@ -25338,8 +25312,7 @@
     "path": "wiki/persons/us/David Coleman.md",
     "aliases": [
       "戴维·科尔曼",
-      "大卫·科尔曼",
-      "科尔曼"
+      "大卫·科尔曼"
     ]
   },
   {
@@ -26485,7 +26458,6 @@
     "path": "wiki/persons/us/Paul Pierson.md",
     "aliases": [
       "保罗·皮尔逊",
-      "皮尔逊",
       "Pierson, P.",
       "Paul E. Pierson"
     ]
@@ -26540,7 +26512,6 @@
     "aliases": [
       "彼得·A·霍尔",
       "彼得·霍尔",
-      "霍尔",
       "Hall, P. A.",
       "Peter Hall"
     ]
@@ -32894,8 +32865,7 @@
     "type": "fact",
     "path": "wiki/facts/us/Promising Practices Network.md",
     "aliases": [
-      "前景广阔的实践网络",
-      "PPN"
+      "前景广阔的实践网络"
     ]
   },
   {
@@ -33575,7 +33545,6 @@
     "path": "wiki/facts/us/Microelectronics and Computer Technology Corporation.md",
     "aliases": [
       "微电子与计算机技术公司",
-      "MCC",
       "微电子与计算机技术联合体",
       "Microelectronics and Computer Technology Consortium"
     ]

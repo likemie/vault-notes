@@ -5,6 +5,8 @@ aliases:
   - dependability
   - 可依赖性
   - 可靠性
+alias_reviewed:
+  - 信度
 summary: "研究工具、数据和发现在跨时间、跨工具和跨受访者群体上的一致性、可依赖性和可复制性，是效度的必要非充分条件，在量化研究中分为稳定性、等值性和内部一致性三种形式，在质性研究中转化为可依赖性、可信赖性和可确认性"
 type: concept
 domain: "research-methodology"

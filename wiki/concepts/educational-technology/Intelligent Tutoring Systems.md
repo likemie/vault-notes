@@ -7,6 +7,8 @@ aliases:
   - 智能教学系统
   - Intelligent Tutoring System
   - Intelligent Tutoring Systems (ITS)
+alias_reviewed:
+  - ITS
 summary: "利用人工智能算法对学习者认知状态、知识掌握与解题步骤（以及科学探究过程）进行细致建模并提供自适应个性化教学指导的计算机系统，涵盖良构问题解题分步支架与探究式智能导师系统（Inq-ITS），由领域模型、学生模型、教学模型与交互界面四大经典构件组成。"
 type: concept
 domain: "educational-technology"

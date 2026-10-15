@@ -11,6 +11,8 @@ aliases:
   - RORE
   - rate of return to education
   - social return on investment
+alias_reviewed:
+  - ROI
 summary: "衡量教育、研发、社会创新或组织协同投入与所产生综合收益之间比率的核心经济学与治理构念。在宏观层面被建构为跨国放贷与远处治理的自指性指标帝国；在中观风险慈善层面演化为以商业纪律与因果量规重塑公共教育再分配的意识形态杠杆；在微观产学合作层面则通过各方对回报定义的结构性分歧驱动复合创新。"
 type: concept
 domain: "university-industry-collaboration"

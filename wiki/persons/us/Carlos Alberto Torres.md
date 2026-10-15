@@ -2,8 +2,7 @@
 title: Carlos Alberto Torres
 aliases:
   - 卡洛斯·阿尔贝托·托雷斯
-  - 托雷斯
-  - Torres, C. A.
+  - "Torres, C. A."
 summary: "阿根廷裔批判教育社会学者，加州大学洛杉矶分校杰出教授，将弗莱雷批判传统、国家理论与政治经济学结合，系统阐述受限国家、国家法团主义补偿性合法化与批判实践哲学"
 type: person
 nationality: us

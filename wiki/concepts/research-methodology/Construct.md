@@ -4,6 +4,8 @@ aliases:
   - 构念
   - constructs
   - 理论构念
+alias_reviewed:
+  - 构念
 summary: "变量在理论层面的更抽象、更一般的意义表达，代表不可直接观察的理论实体，需通过操作化转化为可测量的变量才能在实证研究中被检验"
 type: concept
 domain: "research-methodology"

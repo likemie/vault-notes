@@ -6,6 +6,8 @@ aliases:
   - repeating a year
   - nonpromotion
   - redoublement
+alias_reviewed:
+  - 留级
 summary: "让学生重复同一年级以处理学习困难的教育制度实践，证据本位教育中常被用来说明研究证据与既有学校惯例之间的张力。"
 type: concept
 domain: "educational-policy-reform"

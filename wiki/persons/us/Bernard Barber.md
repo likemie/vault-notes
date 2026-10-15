@@ -2,7 +2,6 @@
 title: Bernard Barber
 aliases:
   - 伯纳德·巴伯
-  - 巴伯
   - Bernard R. Barber
 summary: "哥伦比亚大学社会学教授、美国文理科学院院士，科学社会学奠基人之一，默顿学派核心学者。1972年发表经典论文系统批判社会科学中的“唯方法论主义”（Methodologism），深刻揭露将科学退化为单一量化技术、割裂人文价值与不可测维度的认识论弊端。"
 type: person

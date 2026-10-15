@@ -1,8 +1,6 @@
 ---
 title: Ritual Propriety
 aliases:
-  - 禮
-  - 礼
   - propriety
 summary: "儒学四超越德目之一，是一种社会语法，涵盖从最高祭祀仪式到日常人际互动的全套规范，使人们能够彼此承认、连接、尊重和关怀。"
 type: concept

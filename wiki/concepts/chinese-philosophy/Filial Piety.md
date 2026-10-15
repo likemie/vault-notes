@@ -5,6 +5,8 @@ aliases:
   - xiào
   - filial conduct
   - filial devotion
+alias_reviewed:
+  - 孝
 summary: "儒学的起始道德，指子女对父母的真诚敬爱和道德义务，被认为是人类一切道德的起点（百善孝为先）。"
 type: concept
 domain: "chinese-philosophy"

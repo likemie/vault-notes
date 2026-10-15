@@ -3,6 +3,8 @@ title: Science Foundation Ireland
 aliases:
   - 爱尔兰科学基金会
   - SFI
+alias_reviewed:
+  - SFI
 summary: "2000年由爱尔兰政府设立的国家旗舰科研资助机构，旨在通过战略性资助生物技术、信息通信等战略前沿将爱尔兰转型为知识经济体；曾聘任前NSF高级官员引进工程研究中心模式设立科学工程与技术中心（CSETs）。"
 type: fact
 subtype: organization

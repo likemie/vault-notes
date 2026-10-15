@@ -1,6 +1,6 @@
 ---
 title: APA Style
-aliases: ["APA", "APA style manual", "Publication Manual of the APA", "APA 7th edition", "美国心理学会出版手册"]
+aliases: ["APA style manual", "Publication Manual of the APA", "APA 7th edition", "美国心理学会出版手册"]
 summary: "美国心理学会出版手册规定的学术写作与文献著录规范，是社会科学、行为科学与教育学研究中应用最广泛的学术格式，涵盖文中引用、参考文献表、标题层级、图表呈现、章节时态及包容性无偏见语言等核心规则。"
 type: concept
 domain: "academic-writing"
