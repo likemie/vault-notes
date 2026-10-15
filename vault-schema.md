@@ -15,7 +15,8 @@
 - 不使用来源以外的知识；
 
 - 普通论文 / 报告 source record 使用最终 `<论文命名>` 创建；完整 citation 在 Argument 页完成后由 `source_record.py finalize` 回填。若文献包含需要保留占位的 figure，`finalize` 时使用 `--with-figures` 生成 `sources/<论文命名>/figures/`。
-- 新建、移动、删除、重命名条目后，只自动运行基础索引：`vault_index.py`（内部维护书籍 overview 章节表格、研究地图统计，并依次运行 `wiki_index.py` 与 `citation_index.py`）；是否继续运行 citation 补链、普通 wiki 补链、关系同步、Concept 派生字段同步与 lint，由用户确认。
+- 新建、移动、删除、重命名条目后，自动运行基础索引：`vault_index.py`（内部维护书籍 overview 章节表格、研究地图统计，并依次运行 `wiki_index.py` 与 `citation_index.py`）。是否继续运行 citation 补链、普通 wiki 补链、关系同步与 Concept 派生字段同步，由用户确认。
+- 任何修改了 vault 文件的任务，结束前必须依次运行 `vault_index.py` 与 `vault_lint.py`（增量），并解决全部 ERROR；lint 报告 0 error 才算完成。本地不设 pre-commit 钩子，lint 是唯一的本地门禁。
 - 非必要不要运行 `--full`。优先使用 git 增量或路径限定；只有批量重命名/移动/删除、批量 title/alias/citation 字段变更、增量结果异常、发布/备份/重要提交前，才使用 full sync 或 full lint。
 
 ---
@@ -84,7 +85,7 @@ AI 不主动判断书籍材料属于专著、论文集还是教材；按用户�
 
 ### Sync Decision
 
-脚本流程统一见第 5 节。普通任务完成后只运行基础索引，是否继续补链、同步关系和 lint 由用户确认。
+脚本流程统一见第 5 节。普通任务完成后运行基础索引与增量 lint 并清零 ERROR；是否继续补链、同步关系由用户确认。
 
 ---
 
@@ -327,14 +328,12 @@ Frontmatter 中同一 YAML 映射内不得重复声明键，包括嵌套映射�
 .venv/bin/python3 scripts/citation_linker.py --fix-display --full
 ```
 
-Git pre-commit hook（跑基础索引 + 增量 lint，lint 错误阻止提交）位于 `scripts/hooks/pre-commit`，安装：
+本地不使用 git pre-commit 钩子：Obsidian Git 每 10 分钟自动提交备份，钩子会让含未完成内容的备份静默失败。门禁分两层：
 
-```bash
-git config --local core.hooksPath scripts/hooks
-chmod +x scripts/hooks/pre-commit
-```
+1. 本地：`vault_lint.py` 即提交门禁。除内容检查外，它并行检查 wiki 索引是否最新（`INDEX_STALE`）、引用索引是否一致（`CITATION_INDEX_STALE`），`scripts/` 或 `tests/` 有改动时运行回归测试（`TESTS_FAILED`），文件选择范围与 `scripts/check_vault.py` 一致。结束任务前先运行 `vault_index.py` 再运行 lint，任何 ERROR 都必须解决。`--no-gate` 只用于调试，`--tests` 强制运行测试。
+2. 发布：GitHub Actions 运行 `scripts/check_vault.py`（回归测试、只读 wiki 索引检查、完整引用检查和增量 lint），未通过则不发布。
 
-钩子直接使用版本管理中的脚本，无需复制到 `.git/hooks/`。基础索引完成后，`scripts/check_vault.py` 统一执行回归测试、只读 wiki 索引检查、完整引用检查和增量 lint。`vault_lint.py` 本身也包含同一套提交门禁：并行检查 wiki 索引是否最新（`INDEX_STALE`）、引用索引是否一致（`CITATION_INDEX_STALE`），`scripts/` 或 `tests/` 有改动时运行回归测试（`TESTS_FAILED`），文件选择范围与 `check_vault.py` 一致。因此 lint 报告 0 error 即可提交；任何 ERROR 都必须在结束任务前解决，不得用 `--no-verify` 绕过。`--no-gate` 只用于调试，`--tests` 强制运行测试。手动检查使用 `.venv/bin/python3 scripts/check_vault.py`。依赖在 `requirements.txt` 中固定。
+手动执行与 CI 相同的检查使用 `.venv/bin/python3 scripts/check_vault.py`。依赖在 `requirements.txt` 中固定，CI 据此安装，不得删除。`scripts/hooks/pre-commit` 保留备用；如需临时恢复钩子：`git config --local core.hooksPath scripts/hooks`。
 
 GitHub Actions 在 pull request 和 main 分支 push 时执行同一检查入口，通过 `--base <SHA>` 检查相对于 PR 基线或 push 前提交新增、修改和重命名后的 Markdown 文件，避免干净检出时增量 lint 为空。仅 main 的 push 且检查全部通过后，才触发 Quartz 发布。此日常门禁不替代重要发布前的全量严格检查。
 
