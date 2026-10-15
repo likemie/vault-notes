@@ -32,7 +32,6 @@ related_concepts:
   - "[[Falsification]]"
   - "[[Interaction Effect]]"
   - "[[Counterfactual]]"
-  - "[[Causal Over-determination]]"
 related_methods:
   - "[[Random Assignment]]"
   - "[[Quasi-Experimental Designs]]"
@@ -186,4 +185,4 @@ Lord（1973, p. 6）提出了事后回溯研究的八个阶段（pp. 315–316�
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15]] — 本章以事后回溯研究本身为对象，系统论述其定义、设计类型、特征、适用时机、优势和局限，并以 Morrison（2009）的[[Effective Teaching\|有效教学]]因果-比较研究为示例。 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]] — 第4章系统阐述了事后回溯研究所依赖的概率性[[Causality\|因果关系]]、[[Counterfactual\|反事实推理]]和[[Causal Over-determination\|因果过度决定]]等概念基础。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15]] — 论述事后回溯研究的定义、类型、适用时机与优劣，并以 Morrison（2009）的[[Effective Teaching\|有效教学]]研究为例；其概率性[[Causality\|因果]]与[[Counterfactual\|反事实]]基础见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Ch. 4]]。

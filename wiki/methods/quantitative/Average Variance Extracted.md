@@ -26,7 +26,6 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Epistemology]]"
   - "[[Reliability]]"
-  - "[[Research Utilization]]"
   - "[[Construct Validity]]"
 related_theories: []
 related_methods:
@@ -164,7 +163,7 @@ updated: 2026-10-16
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 在《[[Research Literacy Scale for Teachers\|教师研究素养量表]]》[[Confirmatory Factor Analysis\|CFA]] 验证中，计算 4 个维度的 AVE 分别为：研究意识（$.56$）、研究态度（$.50$）、研究技能（$.54$）、[[Research Utilization\|研究使用]]（$.56$），全部达到 $\ge .50$ 标准，且均高于各因子间的决定系数（$r^2$ 为 $.31\sim.59$），确立了优良的收敛与[[Convergent and Discriminant Validity\|区分效度]]。
+> - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — [[Confirmatory Factor Analysis\|CFA]] 显示四个维度 AVE 为 .50–.56，均达标且高于因子间决定系数，[[Convergent and Discriminant Validity\|收敛与区分效度]]良好。
 
 ---
 

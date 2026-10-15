@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Pairwise Wald Tests
@@ -186,4 +186,4 @@ updated: 2026-10-15
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 运用成对 Wald 检验系统验证了[[Graphic Organizer\|图形组织器]]形态（[[Mind Mapping\|思维导图]] $g = 1.041$ > [[Argument Mapping\|论证图]] $g = 0.798$ > [[Concept Mapping\|概念图]] $g = 0.548$）、学段（中学 $g = 1.113$ > 小学 $g = 0.877$ > 大学 $g = 0.659$）以及[[Higher-Order Thinking Skills\|高阶思维]][[Construct\|构念]]层级（倾向与过程显著强于技能结果）的两两级差显著性。
+> - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 以成对 Wald 检验比较[[Graphic Organizer\|图形组织器]]类型、学段与[[Higher-Order Thinking Skills\|高阶思维]]构念层级的效应差异，[[Mind Mapping\|思维导图]]效应最大（g = 1.041）。
