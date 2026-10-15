@@ -3,11 +3,11 @@ title: Martin Carnoy
 aliases:
   - 马丁·卡诺伊
   - Carnoy, M.
-summary: "美国比较教育学与教育政治经济学奠基泰斗，斯坦福大学荣休讲席教授，开创教育依附理论与文化帝国主义批判，揭示教育政策分析必然暗含前置国家理论，并系统剖析第三世界转型社会中的教育国家关系"
+summary: "美国比较教育学与教育政治经济学奠基泰斗，斯坦福大学荣休讲席教授，开创教育依附理论与文化帝国主义批判，揭示教育政策分析必然暗含前置国家理论，批判结构调整话语中将教师薪酬定性为效率阻碍并将教师打上‘恶棍’标签的紧缩逻辑，系统剖析转型社会的教育国家关系"
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 29
+person_related_count: 28
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -36,11 +36,9 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Champ]]"
   - "[[Import Substitution Industrialisation]]"
-  - "[[Theoretical Perspective]]"
 related_theories:
   - "[[Dependency Theory]]"
   - "[[Human Capital Theory]]"
-  - "[[Conditioned State Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Correlational Research]]"
@@ -55,11 +53,12 @@ related_facts:
   - "[[World Bank]]"
 related_arguments:
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
+  - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
 confidence: high
 status: completed
 created: 2026-09-28
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 
 # Martin Carnoy
@@ -104,10 +103,10 @@ updated: 2026-10-09
 >   - **代表著作** *The State and Political Theory* (1984); *Schooling and Work in the Democratic State* (1985, with H. M. Levin)。
 >   - **关键概念／理论** 国家理论、资本积累与民主合法性冲突、相对自主性。
 >   - **阶段转向** 吸收葛兰西统识理论与普兰查斯国家理论，论证资本主义民主国家处于“为资本积累再生产服从劳动力”与“回应公民大众民主平权诉求”的双重矛盾之中；学校不是死寂的再生产工具，而是大众争取社会平等的抗争竞技场。
-> - **1990s–至今 — 第三世界社会转型、[[Post-Fordism|后福特制]]与跨国实证比较** 此阶段直面新自由主义全球化与信息经济对民族[[State Educational Sovereignty|国家教育主权]]的蚕食。
->   - **代表著作** *Education and Social Transition in the Third World* (1990, with J. Samoff); *Education and the state: From Adam Smith to perestroika* (1992); *Sustaining the New Economy* (2000)。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 73–75)]]
->   - **关键概念／理论** [[Post-Fordism|后福特主义]]、[[Financial-Intellectual Complex|金融-智识复合体]]、转型国家的教育国家契约。
->   - **阶段转向** 一方面剖析后冷战时期转型国家在脱离殖民与计划经济时的制度阵痛；另一方面运用严格的大规模跨国实证数据，持续反思跨国金融机构推行的紧缩私有化对公立教育系统的侵蚀。
+> - **1990s–至今 — 第三世界社会转型、[[Post-Fordism|后福特制]]与全球化结构调整批判** 此阶段直面新自由主义全球化与信息经济对民族[[State Educational Sovereignty|国家教育主权]]的蚕食。
+>   - **代表著作** *Education and Social Transition in the Third World* (1990, with J. Samoff); *Education and the state: From Adam Smith to perestroika* (1992); *Globalization and Educational Reform: What Planners Need to Know* (1999, UNESCO/IIEP); *Sustaining the New Economy* (2000)。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 73–75)]]
+>   - **关键概念／理论** [[Post-Fordism|后福特主义]]、[[Financial-Intellectual Complex|金融-智识复合体]]、转型国家的教育国家契约、结构调整中的教师污名化（Teachers as Villains）。
+>   - **阶段转向** 一方面剖析后冷战时期转型国家在脱离殖民与计划经济时的制度阵痛；另一方面出版《全球化与教育改革》（1999），深刻揭露新自由主义结构调整政策如何将削减教师薪酬作为主要节支目标，在话语上将教师与工会系统性打上效率低下“恶棍”（villains）标签以推销廉价标准化教辅；同时运用严格的大规模跨国实证数据，持续反思跨国金融机构推行的紧缩私有化对公立教育系统的侵蚀。
 
 ---
 
@@ -120,6 +119,11 @@ updated: 2026-10-09
 > 界定教育的“真实”问题以及最适宜（如最具成本效益、伦理上可接受且具有合法性）的解决方案，在很大程度上取决于支撑、证成并指引教育诊断与提议方案的国家理论。然而，正如马丁·卡诺伊（Martin Carnoy, 1992）所指出的，大多数教育问题分析都暗含着一种国家理论，但在教育研究与实践中，这种理论的根本前提却极少被识别或阐明。对我们自身的理论假定保持自我审思，是开展扎实学术研究的前提条件。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 73)]]
 >
 > *Defining the "real" problems of education and the most appropriate (e.g., cost-effective, ethically acceptable, and legitimate) solutions depends greatly on the theories of the state that underpin, justify, and guide the educational diagnosis and proponed solutions. There is, however, a permanent challenge here. As Martin Carnoy (1992) has argued, most analyses of educational problems have implicit in them a theory of the state but seldom are the fundamentals of that theory recognized or spelled out in educational research and practice.*
+
+> [!citation-card] 卡诺伊论新自由主义全球改革将教师建构为体制“恶棍”
+> 在新自由主义结构调整与全球化教育改革的话语中，削减公共教育开支的核心阻碍往往被归咎于教师薪酬与工会抵抗。世界银行等机构的经济紧缩逻辑将教师系统性塑造为阻碍效率与现代化的‘恶棍’（villains），以此为由削减教师待遇、瓦解教师集体谈判权，并将粉笔、黑板与统编教材等物质投入包装为最具成本效益的改革替代方案。[[Argument_Beech_2009_GlobalGarden|(Carnoy, 1999, cited in Beech, 2009b, p. 347)]]
+>
+> *Carnoy (1999) argues that in the discourse of globalization and educational reform, teachers are often depicted as the villains of the system, standing in the way of efficiency and modern management, which justifies policies aimed at reducing their salaries and benefits.*
 
 > [!citation-card] 转型社会教育改革作为国家建设与阶级斗争的矛盾中介
 > 经历剧烈社会转型的社会（如中国、古巴、坦桑尼亚、莫桑比克和尼加拉瓜）的教育改革，展现了国家如何试图将教育作为重建经济结构与重塑意识形态统识的工具，但改革过程始终受制于国内阶级矛盾与全球不平等分工体系的制约。[[Argument_Olmos_Torres_2009_StateTheories|(Carnoy & Samoff, 1990; Olmos & Torres, 2009, p. 75)]]
@@ -142,7 +146,8 @@ updated: 2026-10-09
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯系统评析卡诺伊由芝加哥学派经济学家转向修正主义新马克思主义教育政治经济学家的心智历程，确立其国家中心观与学校矛盾博弈论在第四代比较教育范式中的奠基地位。
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯评述卡诺伊关于任何教育政策分析必然暗含特定国家理论的前提性支配命题。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯评述卡诺伊关于任何教育政策分析必然暗含特定国家理论的前提性支配命题。
+> - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 援引卡诺伊《全球化与教育改革》，揭示世界银行新自由主义话语如何将教师建构为阻碍效率的恶棍以证成预算削减。
 
 ---
 
@@ -167,6 +172,12 @@ updated: 2026-10-09
 > >
 > > - **早期批判教育学同行（1970s）** 指责其将殖民地与外围国家教育体系完全描述为帝国主义单向输出的同化装置，忽视了原住民与底层民众利用学校制度开展反殖民反抗的历史复杂性。
 > > - **Carnoy（1984, 1985）** 在后续《国家与政治理论》中系统反思并修正了早期立场，强调民主国家的学校是资本再生产与大众抗争博弈的未闭合[[Champ|场域]]。
+>
+> > [!axis] 教师薪酬作为削减成本的主要阻碍 vs 教师专业作为教育质量的核心基石
+> > 争论在公共教育紧缩中，应当将教师薪酬视为需要削减的成本负担，还是保障教育质量不可动摇的底线投资。
+> >
+> > - **新古典经济学与世行紧缩话语** 将教师薪酬视为公共教育预算中最庞大且僵化的支出，主张通过削减福利、引入绩效工资与推销廉价标准化教辅来压低单位成本。
+> > - **卡诺伊与批判政治经济学者（Carnoy, 1999; [[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）** 揭露将教师污名化为体制恶棍的意识形态虚伪性，指出剥夺教师尊严与合理报酬必然瓦解公立教育根基。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 347)]]
 
 > [!warning] 适用局限
 > 卡诺伊关于资本积累与国家理论的分析主要建基于西方资本主义民主政体与第三世界后殖民转型政体，对于高度集权且国家深度掌控资本积累过程的非西方威权或发展型国家，其关于“国家合法性危机必定导致大众平权让步”的推导边界仍需结合具体历史制度具体分析。
@@ -183,9 +194,4 @@ updated: 2026-10-09
 > | [[Post-Fordism]] | 概念 | 分析后福特制灵活积累对全球劳动力技能、教育分轨与工作形态的宏观重塑。 |
 > | [[Import Substitution Industrialisation]] | 概念 | 阐释依附性资本积累与早期工业化背景下拉美教育扩张的结构性动力与断裂悖论。 |
 > | [[Financial-Intellectual Complex]] | 概念 | 揭露[[World Bank\|世界银行]]等跨国金融机构通过资助与实证垄断[[Disciplina and Doctrina\|规训]]第三世界教育政策的话语机器。 |
-> | [[Dependency Theory]] | 理论 | 将中心-外围依附框架引入教育制度分析，奠定战后教育依附批判传统。 |
-> | [[Conditioned State Theory]] | 理论 | 提供宏观国家[[Theoretical Perspective\|理论视角]]，断言任何教育问题诊断与方案都必然暗含前置国家理论假定。 |
-> | [[Andreas Kazamias]] | 人物 | 学术史家，将卡诺伊列为第四代批判政治经济学与国家理论代表人物。 |
-> | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009)]] | 论证 | 评析卡诺伊国家理论在教育政策诊断中的前置支配功能。 |
-> | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 征引卡诺伊关于学校作为资本再生产与民主化矛盾竞技场，以及国家政治在转型社会主导变革的论断。 |
-
+> | [[Dependency Theory]] | 理论 | 将

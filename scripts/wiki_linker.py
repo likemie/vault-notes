@@ -224,18 +224,26 @@ class TermMatcher:
 
     @staticmethod
     def _matches_from(root: dict[str, dict], text: str, start: int, *, folded: bool) -> list[Term]:
+        # Walk by index: slicing text[start:] copied the rest of the chunk on
+        # every call, making each chunk quadratic in its length.
         matches: list[Term] = []
         node = root
-        for char in text[start:]:
-            key = char.casefold() if folded else char
-            child = node.get(key)
+        terminals = TermMatcher._TERMINALS
+        for idx in range(start, len(text)):
+            char = text[idx]
+            child = node.get(char.casefold() if folded else char)
             if child is None:
                 break
             node = child
-            matches.extend(node.get(TermMatcher._TERMINALS, ()))
+            found = node.get(terminals)
+            if found:
+                matches.extend(found)
         return matches
 
     def matches_at(self, text: str, start: int) -> list[Term]:
+        first = text[start]
+        if first not in self._exact and first.casefold() not in self._folded:
+            return []
         matches = self._matches_from(self._exact, text, start, folded=False)
         matches.extend(self._matches_from(self._folded, text, start, folded=True))
         matches = [term for term in matches if match_term_at(text, start, term.text)]
