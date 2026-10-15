@@ -10,7 +10,7 @@ aliases:
 summary: "衡量学生在特定学习阶段、特定学科或特定学术任务中知识、技能与高阶思维掌握程度的多维结果指标。在教育心理学中通常通过课程加权总评成绩（Official Academic Achievement, OAA）、预估总评成绩（Estimated Overall Academic Achievement, EOAA）、标准化测试及良构与劣构任务表现进行操作化测度。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 148
+related_count: 150
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Floor and Ceiling Effects]]"
   - "[[Achievement and Aptitude Tests]]"
   - "[[External Validity]]"
+  - "[[PICO Framework]]"
   - "[[Learning Progression]]"
   - "[[Grade Retention]]"
   - "[[Rote Learning]]"
@@ -154,6 +155,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Greene_2018_JEP]]"
   - "[[Argument_Lodewyk_2007_EP]]"
+  - "[[Argument_Kalmendal_2025_PsyArXiv]]"
   - "[[Argument_Hattie_2005_ACER]]"
   - "[[Argument_Garcia_Garrido_2009_SpainEU]]"
   - "[[Argument_Greene_2010_JEP]]"
@@ -223,10 +225,11 @@ updated: 2026-10-16
 >    - **总体学业成就预估值（Estimated Overall Academic Achievement, EOAA）** 学生基于长期学业反馈自报的各科平时平均百分比。
 >    - **国家行政数据库学业档案（administrative pupil database records）** 如英格兰[[National Pupil Database\|国家学生数据库]]（National Pupil Database, NPD）记录的关键阶段（Key Stages）全国统一统考成绩，提供全样本、低损耗的官方学业成就基准。
 > 
-> 4. **因果评估中的测量工具紧密性层级（[[Measurement Alignment]] and Test Lineage）**
+> 4. **因果评估中的测量工具紧密性层级与结果界定关卡（[[Measurement Alignment]] and Outcome Specification）**
 >    - **研究者或[[Developer-Made Measures\|开发者自编测验]]（developer-developed tests）** 紧密贴合特定干预内容，但易引发[[Effect Size\|效应量]]虚假膨胀（Cheung & Slavin, 2016; [[What Works Clearinghouse\|有效干预清算中心]]（What Works [[Educational Evidence Clearinghouses\|Clearinghouse]], WWC）, 2017）。
 >    - **商业化独立学科测验（standardised commercial tests）** 具备通用性与客观性，但在特定学段易出现[[Reliability\|信度]]不足或地板与[[Floor and Ceiling Effects\|天花板效应]]（Allen et al., 2018; Hodgen et al., 2019）。
 >    - **国家高利害统一[[Achievement and Aptitude Tests\|成就测验]]（national high-stakes examinations）** 与大规模课程标准高度对齐、具备强[[External Validity\|外部效度]]与政策利害性的权威终结性学业指标。
+>    - **[[PICO Framework|PICO 纳排关卡]]与学业结果界定合规（PICO-Compliant Outcome Definition）** 在二阶证据综合中，学业成就结果必须被严格界定为干预后的学生学业指标（如学科成绩、考试分）。卡尔门达尔（Kalmendal et al., 2025）审计揭示，在《可见的学习》等宏观证据库中，多达 81% 的影响因素因混合了非学业变量（如态度、满意度、教师感知）、非对比设计或缺乏干预对照，导致“学业成就”标签发生严重概念错位与泛化污染。[[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, p. 14)]]
 > 
 > 5. **课程标准等级与[[Learning Progression\|学业进阶]]层级（[[Learning Progression]] and Curriculum Levels）**
 >    - **国家课程等级锚定（national curriculum levels）** 将学业成就分解为连续跨等级的发展阶段（如 [[Assessment Tools for Teaching and Learning\|asTTle]] 等级 2 至 6），超越孤立原始分数的单一横截面排名，呈现具体认知能力与进阶目标（[[Argument_Hattie_2005_ACER\|Hattie, 2005]]）。
@@ -369,6 +372,9 @@ updated: 2026-10-16
 > 5. **同伴群体效应（5–10%）**；
 > 6. **校长领导力** 主要通过营造支持教师反思的组织气候发挥间接中介作用。
 > 这一分解推翻了过度聚焦于学校建筑、[[School Choice\|择校]]制度或班级规模缩减的传统政策取向，确立了教师课堂教学质量才是撬动学业成就的核心关键。
+
+> [!claim] [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]]
+> **二阶综合中成就效应量的虚假膨胀与可复现性崩溃** 卡尔门达尔（Kalmendal）等学者对支持上述方差排序的《可见的学习》全库 322 个影响因素开展预注册元科学质量审计发现：宏观二阶元分析中所报告的各项教学法对学业成就的巨大提升效应（如常规宣称的 $d > 0.40$），在底层数据核查下发生系统性崩溃。审计表明：仅 19% 满足研究问题纳入基准，27% 混杂了不可通约的组内与组间设计；检验的 301 个影响因素中仅 2 项可完全复现数据提取，且 44% 报告的成就效应量在被引原文中完全不存在。这表明宏观二阶元分析若缺乏严格的元科学质控，其所呈现的“学业成就提升清单”会充斥着由提取失真与设计混杂所人为制造的虚假积极效应。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 1, 14–19)]]
 
 ---
 
@@ -583,3 +589,4 @@ updated: 2026-10-16
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 107, 113)]] — 从世界体系与批判政治经济学视角剖析标准化测验问责制，阐明自上而下的新自由主义改革如何将学业成就标准异化为国家审计与绩效规约工具，并将多维教育价值窄化为资本积累的劳动力指标。
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 结合西班牙国家评估与 PISA 数据展开[[Secondary Analysis|二手分析]]，实证揭示十年制均质综合中等学制对学业成就分布的双向破坏（16 岁 33% 学业失败率与不足 4% 卓越率），确立了宏观学制设计导致学业成就系统性平庸化的经典案例。
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 结合发展中国家小学大样本计量回归，实证检验微观课堂教学实践对学生学业成就（标准化测试成绩）具有显著[[Predictive Validity|预测效度]]（0.08–0.12 个标准差），破除静态资质解释力迷思。
+> - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 开展二阶元分析全库元科学审计，实证揭示在《可见的学习》等宏观证据库中，多达 81% 的影响因素因混合非学业指标导致“学业成就”标签发生严重概念错位，且底层提取失真与跨设计混杂导致学业成就效应量发生严重虚假膨胀。

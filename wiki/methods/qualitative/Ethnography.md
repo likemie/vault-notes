@@ -89,7 +89,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-30
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Ethnography
@@ -102,7 +102,7 @@ updated: 2026-10-15
 > 民族志（Ethnography）是一种源自人类学与社会学的[[Qualitative Research|质性研究]]设计。研究者在自然情境中长时间观察一个完整的文化群体（cultural group），系统考察其共享的行为模式、语言体系、价值信念与日常行动（Wolcott, 1994; Fetterman, 2010）。玛格丽特·勒孔特与朱迪思·普赖斯尔（Margaret D. LeCompte & Judith Preissle, 1993, p. 235）进一步将民族志界定为兼具**探究方法、探究结果与探究记录**的过程，旨在尽可能生动地重构所研究群体的文化全貌与生活世界（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al., 2011, pp. 405–406]]）。
 
 > [!method-scope] 适用范围与产出形态
-> - **适用问题** 深入探究特定群体如何建构共享意义；揭示教育政策或外来干预在微观课堂落地中的“[[Recontextualization|再语境化]]”过程；捕捉制度背后的隐性权力关系与行动者的微观能动性（Monkman & Baird, 2002; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 108–110]]）。
+> - **适用问题** 深入探究特定群体如何建构共享意义；揭示教育政策或外来干预在微观课堂落地中的“[[Recontextualization|再情境化]]”过程；捕捉制度背后的隐性权力关系与行动者的微观能动性（Monkman & Baird, 2002; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 108–110]]）。
 > - **核心产出** 饱含主位视角的[[Rich and Thick Description|厚描述]]（Thick Description）、文化共享模型、社会互动网络图谱、微观博弈故事与[[Grounded Theory|扎根理论]][[Construct|构念]]。
 > - **[[Unit of Analysis|分析单位]]** 文化共享群体、社区、学校、特定班级或职业[[Communities of Practice|实践共同体]]。
 

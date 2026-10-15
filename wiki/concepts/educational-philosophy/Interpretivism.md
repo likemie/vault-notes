@@ -81,7 +81,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-30
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Interpretivism
@@ -95,7 +95,7 @@ updated: 2026-10-15
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向人类行动的意向性、主观经验的不可替代性、生活世界的主体间性本质以及知识与研究者之间的[[Reflexivity|反身性]]纽带。
-> - **用途** 帮助研究者透视教育政策落地中的微观博弈与本土[[Recontextualization|再语境化]]，为[[Qualitative Research|质性研究]]、[[Ethnography|民族志]]与生活史叙事提供坚实的方法论合法性；破除将复杂人类育人实践简化为孤立量化指标的[[Positivism|实证主义]]还原冲动。
+> - **用途** 帮助研究者透视教育政策落地中的微观博弈与本土[[Recontextualization|再情境化]]，为[[Qualitative Research|质性研究]]、[[Ethnography|民族志]]与生活史叙事提供坚实的方法论合法性；破除将复杂人类育人实践简化为孤立量化指标的[[Positivism|实证主义]]还原冲动。
 > - **边界** 解释主义拒绝宏观无时空的因果铁律与统计推论垄断，但并不意味着放弃经验严谨性；其有效性建立在情境可翻译性、[[Internal Validity|内部效度]]与[[Rich and Thick Description|深描]]之上，而非[[Randomised Controlled Trials|随机对照实验]]的[[Statistical Significance|统计显著性]]。
 
 > [!citation-card] Dilthey 论自然科学与[[Geisteswissenschaften|精神科学]]的根本分野
@@ -168,14 +168,14 @@ updated: 2026-10-15
 > [!theory-proposition] 命题三｜解释主义传统是抵御技术官僚量化垄断与维持学科生态多元的核心支柱
 > **解释** 拉斯特等学者（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）梳理比较教育学术史表明，学科在发轫期高度依赖立足历史文化脉络的解释主义专论（interpretive essays）。战后现代化理论与实证主义曾试图将学科改造成服务于国家[[Human Capital Theory|人力资本]]投资与冷战竞赛的社会工程学。1970年代起，正是解释主义与批判知识共同体的联袂反抗，证明了教育现象与跨国借用绝非脱离政治文化情境的纯机械流水线，使学科从单一僵化的霸权走向百花齐放的理论繁荣。[[Argument_Rust_2009_Reflections|Rust et al., 2009, pp. 128, 131–132]]
 >
-> **应用实例** 当代跨国教育评估（如 [[PISA]] 排行榜）极易诱使政策制定者产生“最佳实践即刻移植”的机械工程幻想；解释主义学者通过对[[Policy Borrowing|政策借用]]过程的本土人类学追踪，揭示出外来干预在地方语境中必然遭遇“[[Recontextualization|再语境化]]”与微观抗拒，捍卫了教育探索的本土独特性与文化主权。
+> **应用实例** 当代跨国教育评估（如 [[PISA]] 排行榜）极易诱使政策制定者产生“最佳实践即刻移植”的机械工程幻想；解释主义学者通过对[[Policy Borrowing|政策借用]]过程的本土人类学追踪，揭示出外来干预在地方语境中必然遭遇“[[Recontextualization|再情境化]]”与微观抗拒，捍卫了教育探索的本土独特性与文化主权。
 
 ---
 
 ## 适用边界与学术争议
 
 > [!theory-boundary] 局限性与适用边界
-> - **适合分析** 微观课堂生活、师生主观认同建构、教育政策在学校层面的[[Recontextualization|再语境化]]博弈、[[Intercultural Education|跨文化教育]]交流中的意义误读与文化冲突。
+> - **适合分析** 微观课堂生活、师生主观认同建构、教育政策在学校层面的[[Recontextualization|再情境化]]博弈、[[Intercultural Education|跨文化教育]]交流中的意义误读与文化冲突。
 > - **成立条件** 研究者需要获得现场的持续准入，投入充足时间进行深度田野沉浸，具备极高的[[Reflexivity|反身性]]自省能力与文化共情力。
 > - **解释不足** 解释主义偏向微观主观意义协商，对宏观政治经济结构（如全球资本流动、阶级再生产、国家财政拨款机制）的刚性制约力解释不足（Bernstein, 1974）。
 > - **转化困难** 研究结论深深嵌于特定时空与个案情境，无法直接进行统计性外推；极易被崇尚量化绩效的技术官僚指责为“缺乏[[External Validity|可推广性]]”或“无法作为决策依据”。

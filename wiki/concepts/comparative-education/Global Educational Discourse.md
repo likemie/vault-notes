@@ -95,7 +95,7 @@ updated: 2026-10-16
 > *By defining the ‘problems’ in a given educational context, international agencies set the agenda for discussions about how to ‘improve’ education. Then, once the ‘problems’ have been identified, there are only a limited number of themes that can be discussed, and a limited number of policy options that can ‘solve’ these ‘problems’. These possible solutions are also offered in the model. Consequently, it is by defining the problems of an educational context and simultaneously offering the solutions to these problems that the model promoted by international agencies narrows the discursive space of possibilities in educational contexts to which it moves.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Globally Structured Agenda for Education]] — [[Roger Dale|罗杰·戴尔]]（Roger Dale）的全球结构化教育议程更强调全球资本主义积累逻辑对民族国家教育系统的结构性强制；全球教育话语更侧重话语在[[Champ|场域]]位置间流动时的过度简化、符号建构、[[Gatekeepers|守门人]]垄断与[[Recontextualization|再语境化]]脱节。
+> - 不等于 [[Globally Structured Agenda for Education]] — [[Roger Dale|罗杰·戴尔]]（Roger Dale）的全球结构化教育议程更强调全球资本主义积累逻辑对民族国家教育系统的结构性强制；全球教育话语更侧重话语在[[Champ|场域]]位置间流动时的过度简化、符号建构、[[Gatekeepers|守门人]]垄断与[[Recontextualization|再情境化]]脱节。
 > - 不等于 孤立的[[Policy Borrowing|政策借用]]（Policy Borrowing） — 经典政策借用预设主权国家之间的横向经验摄取；全球教育话语是由超国家组织在去领土化的流动空间中生产、并向全球空间普遍推销的无源头抽象知识包裹。
 
 ---
@@ -165,7 +165,7 @@ updated: 2026-10-16
 > 探讨去语境化的宏观政策话语在降落到充满历史积淀与微观生存压力的基层学校时，如何发生系统性的功能错位与逆向[[Shape-Shifting|形变]]。
 
 > [!claim] [[Jason Beech|Beech, J.]]
-> **[[Recontextualization|再语境化]]过程中的结构性脱节与意外异化** 无论全球教育话语在官方文件中被表述得多么完备和谐，其在微观教育机构中的实践后果绝不可能直接从政策文本中推演得出。在阿根廷的课程改革中，官方引入强调教师专业自主与因地制宜编排内容的全球理念，试图打破集权大纲的束缚；然而在缺乏专业支持与教学资源的基层，完全不具备课程开发训练的教师由于无法承受突如其来的不确定性，转而集体求助于商业出版社针对学生编写的教科书目录来规划课程，使教学规范权从国家教育部沦丧至商业出版机构。在阿根廷与巴西的教师教育改革中，推广“以学校为基础的实习实训”这一同质化国际信条，在早已普及大量课堂实践的巴西被教育者视为难以行政运转的“狂妄幻想”，而在原先缺乏实习的阿根廷则受到普遍欢迎。实证表明，全球抽象方案与本土具体情境之间存在不可弥合的断裂，普遍话语落地必然遭遇抵制、重构并产生未曾预料的反常效应。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 353–354)]]
+> **[[Recontextualization|再情境化]]过程中的结构性脱节与意外异化** 无论全球教育话语在官方文件中被表述得多么完备和谐，其在微观教育机构中的实践后果绝不可能直接从政策文本中推演得出。在阿根廷的课程改革中，官方引入强调教师专业自主与因地制宜编排内容的全球理念，试图打破集权大纲的束缚；然而在缺乏专业支持与教学资源的基层，完全不具备课程开发训练的教师由于无法承受突如其来的不确定性，转而集体求助于商业出版社针对学生编写的教科书目录来规划课程，使教学规范权从国家教育部沦丧至商业出版机构。在阿根廷与巴西的教师教育改革中，推广“以学校为基础的实习实训”这一同质化国际信条，在早已普及大量课堂实践的巴西被教育者视为难以行政运转的“狂妄幻想”，而在原先缺乏实习的阿根廷则受到普遍欢迎。实证表明，全球抽象方案与本土具体情境之间存在不可弥合的断裂，普遍话语落地必然遭遇抵制、重构并产生未曾预料的反常效应。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 353–354)]]
 
 ---
 

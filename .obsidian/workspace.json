@@ -83,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -151,8 +151,7 @@
               "title": "Recent files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -289,8 +288,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "9fa9dc0454e1193e",
+  "active": "1938c14344215b35",
   "lastOpenFiles": [
+    "wiki/concepts/comparative-education/Recontextualization.md",
     "wiki/methods/qualitative/Analytic Framework.md",
     "wiki/concepts/political-economy-geopolitics/Vertical Disintegration.md",
     "wiki/arguments/journal-articles/PsyArXiv/Argument_Kalmendal_2025_PsyArXiv.md",
@@ -322,7 +322,6 @@
     "wiki/concepts/comparative-education/Sadler's Garden Metaphor.md",
     "wiki/concepts/comparative-education/Open Method of Coordination.md",
     "wiki/concepts/comparative-education/Subsidiarity Principle.md",
-    "wiki/concepts/comparative-education/Recontextualization.md",
     "wiki/persons/uk/Michael Sadler.md",
     "wiki/concepts/research-methodology/Discourse.md",
     "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Garcia_Garrido_2009_SpainEU.md",

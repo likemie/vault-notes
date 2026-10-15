@@ -6,7 +6,7 @@ summary: "比较不同干预或变量影响强度的标准化统计指标，被�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 81
+method_related_count: 82
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -95,6 +95,7 @@ related_arguments:
   - "[[Argument_Simpson_2019_ERE]]"
   - "[[Argument_Wiliam_2019_ERE]]"
   - "[[Argument_Kraft_2023_ER]]"
+  - "[[Argument_Kalmendal_2025_PsyArXiv]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
   - "[[Argument_OConnor_2020_AJLL]]"
   - "[[Argument_Wadhwa_2024_RER]]"
@@ -153,6 +154,7 @@ updated: 2026-10-16
 > - **2017 至 2018** — Simpson 发表系统批判，论证效应量测量的是试验灵敏度而非干预有效性（[[Argument_Simpson_2017_JEP\|Simpson, 2017]], 2018）。
 > - **2019** — Simpson 用"教一个匈牙利单词"思想实验展示同一干预可因测试设计产生 0 到无穷大的效应量；Wrigley & McCusker 通过 [[Education Endowment Foundation\|EEF]] Toolkit 体育参与案例展示[[Meta-meta-analysis\|元-元分析]]层面的三级失真；Wiliam 提出 11 点元分析评估清单([[Argument_Simpson_2019_ERE\|Simpson, 2019]]; [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019]]; [[Argument_Wiliam_2019_ERE\|Wiliam, 2019]])。
 > - **2020 至 2023** — Kraft 以教育[[Randomised Controlled Trials\|随机对照试验]]中标准化[[Academic Achievement\|学业成绩]]结果的经验分布替代 Cohen 基准，并强调 36% 的效应量小于 0.05 这一"失败频率"应成为解释政策相关性的核心参照([[Argument_Kraft_2023_ER\|Kraft, 2023, pp.183–184]])。
+> - **2025** — Kalmendal 等人发表全库元科学质量审计，基于 Morris and DeShon（2002）的方法学原理实证剖析了效应量跨设计聚合的根本风险：指出组间与组内设计估计的是完全不同的总体参数，且与常规教学比较 vs 与积极干预比较的效应量存在翻倍差异；简单混合聚合严重摧毁了通用效应量指标的数学可比性（[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025, p. 16]]）。
 
 ---
 
@@ -378,6 +380,9 @@ updated: 2026-10-16
 > [!claim] 研究设计对效应量的影响
 > Cheung and Slavin（2016）在 645 项研究的综合元分析中发现非实验设计平均效应量 +0.23 vs 实验设计 +0.16；Wilson, Gottfredson and Najaka（2001）发现非[[Experimental Research\|实验研究]]效应量高 0.17 个标准差。但 Cook（2002）、de Boer et al.（2014）、Gersten et al.（2009）、Wilson and Lipsey（2001）均未发现实验与非实验设计间效应量的显著差异（[[Argument_Wolf_2020_JREE\|Wolf et al., 2020, pp. 431–432]]）。
 
+> [!claim] Morris and DeShon (2002); Kalmendal et al. (2025)
+> **跨研究设计效应量的不可通约性与总体参数异质** 莫里斯与德肖恩（Morris & DeShon, 2002）在统计学上严格论证：独立组间设计（Between-Subjects）与重复测量组内设计（Within-Subjects，如前后测）计算出的标准差涵义根本不同，两者估计的是不同的总体参数。如果未通过被试内相关系数（$\rho$）转换而直接合并，会造成系统性失真。卡尔门达尔（Kalmendal）等学者在全量元科学审计中进一步揭示，在《可见的学习》等宏观证据综合中，多达 27% 的影响因素直接违规混杂了独立组、重复测量与相关设计（甚至多达 77% 的研究混淆或未报告设计类型）；且未区分积极对照组（Active Control，效应量通常较低）与空白对照组（No-Treatment Control，效应量通常翻倍），导致聚合出的通用效应量丧失了实质统计学解释力。[[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, p. 16)]]
+
 ---
 
 ### 命题四　效应量随项目类型与交付层面而变化：近端干预产生更大效应
@@ -441,3 +446,4 @@ updated: 2026-10-16
 > - [[Argument_Wrigley_2019_ERE\|Wrigley and McCusker (2019)]] — 追踪 [[Education Endowment Foundation\|EEF]] 工具包中效应量转化为月数时的逐级失真案例。
 > - [[Argument_Ross_Morrison_2021_ECNUROE\|Ross and Morrison (2021)]] — 论证效应量与[[Statistical Significance\|统计显著性]]必须与成本、[[Implementation Fidelity\|实施保真度]]及地方语境综合解释。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 论述在大规模因果评估中确立标准化测验首要地位与排查[[Floor and Ceiling Effects\|天花板效应]]的规程。
+> - [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] — 审查二阶元分析中效应量跨设计聚合的统计有效性，实证揭示混杂独立组与重复测量设计以及混并积极对照与空白对照对合并效应量的系统性扭曲。

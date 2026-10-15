@@ -8,7 +8,7 @@ summary: "新西兰教育统计学家，Visible Learning作者与元分析综合
 type: person
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 123
+person_related_count: 125
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
@@ -63,6 +63,7 @@ related_concepts:
   - "[[Research Scope]]"
   - "[[Critic and Conscience of Society]]"
   - "[[Whole Language]]"
+  - "[[PICO Framework]]"
   - "[[Positivism]]"
   - "[[Bildung]]"
   - "[[Screening Off]]"
@@ -110,6 +111,7 @@ related_arguments:
   - "[[Argument_Grace_2010_NZJES]]"
   - "[[Argument_Fredens_2015_Paideia]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
+  - "[[Argument_Kalmendal_2025_PsyArXiv]]"
   - "[[Argument_Jansen_2026_EPR]]"
   - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Blass_2020_JESP]]"
@@ -190,7 +192,7 @@ updated: 2026-10-16
 > - **2013–2014** 出任 1600 万澳元澳大利亚科学学习研究中心副主任；获任命为澳大利亚教学与[[School Leadership\|学校领导力]]研究院（[[Australian Institute for Teaching and School Leadership\|AITSL]]）董事会主席，其工作全面嵌入国家教师与校长专业标准。[[Argument_ONeill_2016_Report\|(O'Neill et al., 2016, p. 50)]]
 > - **2015** 推出 Visible Classroom 应用，由英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation，EEF）资助 36 万英镑试点；培生集团发布其思想领导力文章，连接学术与商业跨国网络；丹麦公立学校改革引发《可见的学习》[[Going Native\|本土化]]激烈争辩。[[Argument_Fredens_2015_Paideia\|(Fredens, 2015)]]
 > - **2016–2023** 英国教育部 Coldwell et al. 报告将其列为官方认可证据来源；出任澳大利亚[[Educational Brokerage Agency\|证据中介机构]][[Evidence for Learning]]（E4L）学校专家咨询委员会（Schools Expert Reference Council）主席，为澳大利亚版《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》及指导指南的本土化研发提供核心专家指导；澳大利亚广播公司（Australian Broadcasting Corporation，ABC）纪录片《革命学校》将其描绘为公共教育拯救者；在学术界遭遇伪科学与[[Neo-Taylorism\|新泰勒主义]]系统批判的同时，转向三阶段学习模型并反思“结果的暴政”；北欧政策咨询网络实证揭示其研究在法定行政法令起草中遭遇断崖式引文清洗。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
-> - **2024 至今** 持续滚动扩充其维护的全球最大教育元分析数据库 [[Visible Learning Meta-X]]（收录 2,100+ 项元分析）；2026 年与 Jansen 等学者合作在《教育心理学评论》（*Educational Psychology Review*）发表权威实证评测（[[Argument_Jansen_2026_EPR\|Jansen et al., 2026]]），以其数据库为基准检验前沿大语言模型数据提取准确性，揭示人机混合质控[[Paradigm\|范式]]。
+> - **2024 至今** 持续滚动扩充其维护的全球最大教育元分析数据库 [[Visible Learning Meta-X]]（收录 2,100+ 项元分析）；2025 年瑞典学者卡尔门达尔（Kalmendal）团队发表里程碑式的预注册全量元科学审计（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]），对《可见的学习》全库 322 项影响因素展开详尽检验，证实其仅 19% 满足研究问题纳入基准且数据提取复现率仅 0.66%，直接撼动了该体系作为循证政策基石的合法性；2026 年与 Jansen 等学者合作在《教育心理学评论》（*Educational Psychology Review*）发表实证评测（[[Argument_Jansen_2026_EPR|Jansen et al., 2026]]），以其数据库为基准检验大语言模型数据提取准确性并揭示人机混合质控[[Paradigm|范式]]。
 
 ---
 
@@ -307,6 +309,7 @@ updated: 2026-10-16
 > > - **Wecker 等人** 构建三层[[Analytic Framework\|分析框架]]揭示六步骤均存方法缺陷（Fisher's z 省略、[[Standard Error\|标准误]]与标准差混淆、无[[Confidence Interval\|置信区间]]检验、[[Fixed-Effect and Random-Effects Models\|固定效应模型]]不适），判定愿景有远见但科学上不可行。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016)]]
 > > - **Bergeron 与 Rivard** 从统计学家视角定性为伪科学：常用[[Effect Size\|效应量]]（Common Language Effect Size，CLE）计算错误出现负概率、不同效应量公式产生矛盾排名、聚合任意性。[[Argument_Bergeron_2017_MJE\|(Bergeron & Rivard, 2017)]]
 > > - **Allerup 与 O'Connor** 指出排名缺乏显著性检验且[[Societies of Control\|控制社会]]背景后边际效应大跌；[[Whole Language\|全语言]]案例审查揭示分类错误与先验偏见驱动的单向修正。[[Argument_Allerup_2015_Paideia\|(Allerup, 2015)]]; [[Argument_OConnor_2020_AJLL\|(O'Connor, 2020)]]
+> > - **Kalmendal 等人** 开展学界首个针对《可见的学习》（1.2 版）全量 322 个影响因素的预注册元科学审计，发现该体系在证据生成各环节存在系统性崩溃：仅 19% 满足 [[PICO Framework\|PICO]] 纳入基准，27% 混杂了不可通约的组间、组内及相关设计；在检验的 301 个影响因素中，仅 2 项（0.66%）可完全复现数据提取，44% 报告的效应量在引证原文中完全不存在，实证终结了其通用连续体与聚合效应量的科学可信度。[[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, pp. 1, 14–19)]]
 >
 > > [!axis] 文化政治批判：[[Cult of the Guru\|大师崇拜]]、[[Neo-Taylorism\|新泰勒主义]]与[[Policy Brokerage\|政策中介]]制度落差
 > > 批判其对教师专业主体的贬低、商业化利益冲突以及在国家硬性规制中的制度穿透力不足。
@@ -337,6 +340,7 @@ updated: 2026-10-16
 > - [[Argument_Nielsen_2021_NordPsych\|Nielsen & Klitmøller, 2021a]] — 行为主义理论谱系审查：反馈效应核心元分析概念偷换。
 > - [[Argument_Johnson_2023_CE\|Johnson & Janzen, 2023]] — [[Cargo Cult Science\|货物崇拜科学]]批判：方法不透明与新自由主义私有化循环。
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024]] — 跨国政策中介分析：法定行政法令起草阶段对个体学术明星引文的断崖式过滤。
+> - [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025]] — 首个针对全库 322 个影响因素的预注册元科学审计：实证证实仅 19% 满足 PICO 标准且数据提取复现率仅 0.66%，系统性瓦解了其证据基础。
 > - [[Argument_Jansen_2026_EPR\|Jansen et al., 2026]] — 大模型[[Automated Data Extraction\|自动化数据提取]]准确性评测：揭示 Hattie 既有数据库历史人工录入存在 57 处独有偏离（[[Intraclass Correlation Coefficient\|ICC]] = 0.81）。
 
 > [!warning] 未解问题与边界

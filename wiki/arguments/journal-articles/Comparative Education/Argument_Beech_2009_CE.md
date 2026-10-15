@@ -76,7 +76,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-08
-updated: 2026-10-15
+updated: 2026-10-16
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Beech_2009_CE"
@@ -112,7 +112,7 @@ issuing_organization: ""
 > [!concept-lens] 阅读透镜
 > - **对象** [[Global Educational Discourse|全球教育话语]]（以“能力发展”和“尊重多样性”为典型追踪线索）从超国家网络（OECD、世界银行、UNESCO等）经由国家政策文件设计，最终流向学校课堂与教师日常实践（聚焦拉美的巴西、阿根廷及玻利维亚等经验场景）的完整路径(pp.348–353)。
 > - **张力** 传统比较教育学中的“[[Methodological Nationalism\|方法论民族主义]]”将空间等同于国家地理边界的横向对比，与跨国[[Network Society\|网络社会]]中“[[Space of Flows\|流动空间]]”与“[[Space of Places|地方空间]]”的纵向不对称权力博弈之间的张力；以及国家在政策文本层面对矛盾声明的“功能性包容（[[Governance by Spin\|舆论操控]]）”与学校在行动层面对“教学一致性”的要求之间的张力(pp.349, 356, 359)。
-> - **贡献** 引入 [[Manuel Castells]] 的空间/网络社会理论和 [[Jean-François Lyotard]] 的[[Performativity\|操演性]]概念，建立了一个解释跨空间层级的话语[[Recontextualization|再语境化]]（recontextualisation）[[Analytic Framework\|分析框架]]，揭示了全球教育话语在流动中“空虚性”的功能意义以及在微观实践中转译为“尊重贫困”等意外后果的形成机制(p.361)。
+> - **贡献** 引入 [[Manuel Castells]] 的空间/网络社会理论和 [[Jean-François Lyotard]] 的[[Performativity\|操演性]]概念，建立了一个解释跨空间层级的话语[[Recontextualization|再情境化]]（recontextualisation）[[Analytic Framework\|分析框架]]，揭示了全球教育话语在流动中“空虚性”的功能意义以及在微观实践中转译为“尊重贫困”等意外后果的形成机制(p.361)。
 
 > [!boundary] 分析范围的边界
 > 本文不假设全球→国家→实践机构是唯一的流通路径。现实中存在绕过国家层面的全球学校网络直接进行交互，也存在对全球影响几乎不渗透的国家。本文的命题是探索性的，只勾勒一条特定的、但在当代最具典型性的话语流通路径，而不是关于这些语境互动的完备理论(p.348)。

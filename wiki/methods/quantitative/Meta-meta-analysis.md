@@ -16,7 +16,7 @@ summary: "在更高层级汇总多个已发表元分析结果的统计综合方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 87
+method_related_count: 88
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -118,6 +118,7 @@ related_arguments:
   - "[[Argument_OConnor_2020_AJLL]]"
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Wiliam_2019_ERE]]"
+  - "[[Argument_Kalmendal_2025_PsyArXiv]]"
 confidence: high
 status: draft
 created: 2026-05-03
@@ -164,16 +165,16 @@ updated: 2026-10-16
 > 2. **实[[Thematic Synthesis\|质性主题综合]]** 试图将不同元分析合并为关于更广泛教育或心理主题的单一信息结论（如 Hattie, 1992; Marzano, 1998; [[Argument_Runco_2026_CRJ\|Runco et al., 2026]]）。后者必须解决深刻的[[Construct\|构念]]可比性与[[Heterogeneity\|异质性]]挑战。
 
 > [!contrast-table] 二阶元分析三代方法谱系多维对比
-> | 比较维度 | 第一代：粗放元综合<br>（Naive Meta-Synthesis） | 第二代：标准伞状二阶元分析<br>（Standard Umbrella / SOMA） | 第三代：现代多水平稳健二阶元分析<br>（Modern Multilevel & Robust SOMA） |
+> | 比较维度 | 第一代：粗放元综合<br>（Naive Meta-Synthesis） | 第二代：标准伞状二阶元分析<br>（Standard Umbrella / SOMA） | 第三代：现代多水平稳健二阶元分析与元科学审计<br>（Multilevel SOMA & Metascientific Audit） |
 > |---|---|---|---|
-> | **代表学者与文献** | Fraser, Walberg and Hattie (1987); Hattie (1992, 2008, 2009); Marzano (1998) | Cooper and Koenka (2012); Cafri et al. (2010); [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]; [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | Schmidt and Oh (2013); Cheung (2014); Pustejovsky and Tipton (2022); [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] |
-> | **分析单位** | 一阶元分析报告的算术平均值 $d$ | 一阶元分析提取的汇总效应量（$k$ 个独立观测项） | 一阶元分析[[Effect Size\|效应量]]及其多水平依赖集群（Clusters） |
-> | **[[Literature Search\|文献检索]]与质控** | 粗放纳入、无统一质量准入门槛 | 遵循 PRISMA 指南、采用 [[AMSTAR]] / R-AMSTAR 进行严格方法学质量评级 | 遵循 [[PRISMA]] 2020、严格 AMSTAR-2 质控并建立初级研究全量引用矩阵 |
-> | **效应量尺度处理** | 混用 $d, g, r, \Delta$ 等不同测度而不转换 | 将 OR、$r$、Hedges' $g$ 规范转换为统一 Cohen's $d$ 或 Fisher's $z$ | 统一进行效应量标准化、Fisher's $z$ 变换并保留完整协方差结构 |
+> | **代表学者与文献** | Fraser, Walberg and Hattie (1987); Hattie (1992, 2008, 2009); Marzano (1998) | Cooper and Koenka (2012); Cafri et al. (2010); [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]; [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | Schmidt and Oh (2013); Cheung (2014); Pustejovsky and Tipton (2022); [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]]; [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] |
+> | **分析单位** | 一阶元分析报告的算术平均值 $d$ | 一阶元分析提取的汇总效应量（$k$ 个独立观测项） | 一阶元分析[[Effect Size\|效应量]]及其多水平依赖集群（Clusters）与二阶审计单元 |
+> | **[[Literature Search\|文献检索]]与质控** | 粗放纳入、无统一质量准入门槛 | 遵循 PRISMA 指南、采用 [[AMSTAR]] / R-AMSTAR 进行严格方法学质量评级 | 遵循 [[PRISMA]] 2020、严格 AMSTAR-2 质控，结合 [[PICO Framework|PICO]] 构念对齐与初级研究全量引用矩阵 |
+> | **效应量尺度处理** | 混用 $d, g, r, \Delta$ 等不同测度而不转换 | 将 OR、$r$、Hedges' $g$ 规范转换为统一 Cohen's $d$ 或 Fisher's $z$ | 统一进行效应量标准化与 Fisher's $z$ 变换，严格区分组内与组间设计（Morris & DeShon），保留协方差结构 |
 > | **初级研究重叠处理** | 完全忽略（容忍 90%+ 的初级研究重叠） | 宏观经验门槛控制（Cooper & Koenka $\le 25\%$ 重叠率门槛，或计算校正覆盖面积 CCA） | 微观[[Primary and Secondary Documents\|初级文献]]完全矩阵去重，或构建跨元分析重叠协方差矩阵进行统计校正 |
 > | **加权与统计模型** | 简单未加权算术平均、违规套用单级[[Fixed-Effect and Random-Effects Models\|固定效应模型]] | 单水平经典[[Inverse-Variance Weighting\|逆方差加权法]]（$w_i^* = \frac{1}{v_i + \tau^2}$）与[[Fixed-Effect and Random-Effects Models\|随机效应模型]]（Borenstein et al., 2021） | 三水平[[Correlated and Hierarchical Effects Model\|相关与层级效应模型]]（CHE）+ [[Robust Variance Estimation\|稳健方差估计]]（RVE / 三明治估计量） |
 > | **发表偏倚检验** | 无偏倚检验与校正 | 经典漏斗图、Egger 回归截距检验与[[Trim and Fill Method\|剪补法]]（DTTF） | 多水平改进艾格检验（[[Multilevel Egger's Test]]）截距校正与二阶元回归 |
-> | **核心目的与产出** | 建立宏观全景排行榜（League Table）与气压计 | 评估特定领域宏观平均效应、检验亚组调节[[Variable\|变量]]并评估发表偏倚 | 估计无偏宏观效应基准、精确分解全领域多层级异质性、检验理论调节模型 |
+> | **核心目的与产出** | 建立宏观全景排行榜（League Table）与气压计 | 评估特定领域宏观平均效应、检验亚组调节[[Variable\|变量]]并评估发表偏倚 | 估计无偏宏观效应基准、精确分解多层级异质性，并以预注册全库审计检验证据链可溯源性与可复现性 |
 
 ---
 
@@ -189,9 +190,9 @@ updated: 2026-10-16
 >
 >   针对第一代的统计乱象，Cooper and Koenka（2012）在《Research Synthesis Methods》系统提出了综述之综述（Overview of Reviews / [[Umbrella Review]]）的方法学标准；Cafri et al.（2010）在《JEBS》奠定了二阶元分析的基础统计框架；Sipe & Curlette（1996, 1997）与 Pieper et al.（2014）规范了重叠控制标准；[[Argument_Wecker_2016_ZfE\|Wecker, Vogel & Hetmanek (2016)]] 从数学基础推导出六项方法论规范；[[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] 则将该[[Paradigm\|范式]]应用于[[Cooperative Learning\|合作学习]]领域。第二代二阶元分析建立了 [[PRISMA]] 与 [[AMSTAR]] 质量筛选流程，严格执行效应量测度转换，普遍采用**经典逆方差加权法（$w_i^* = \frac{1}{v_i + \tau^2}$）**与**随机效应模型**（Borenstein et al., 2021），并采用 Cooper & Koenka $\le 25\%$ 重叠率或[[Corrected Covered Area\|校正覆盖面积]]（CCA）控制文献重叠，全面报告置信区间与[[Publication Bias\|发表偏倚]]检验。
 >
-> - **第三代：现代多水平与集群稳健二阶元分析（2013–至今）**
+> - **第三代：现代多水平、集群稳健二阶元分析与元科学质量审计（2013–至今）**
 >
->   Schmidt and Oh（2013）在《HRMR》奠定了二阶[[Sampling Error\|抽样误差]]与全领域推广理论；Cheung（2014）与 Pustejovsky and Tipton（2022）建立了多水平元分析与集群[[Robust Variance Estimation\|稳健方差估计]]（RVE）体系；[[Argument_Runco_2026_CRJ\|Runco et al. (2026)]]在[[Creativity\|创造力]]全领域综合中确立了第三代范式标杆。第三代方法彻底放弃单水平假设，对初级研究进行微观完全去重，采用 **[[Correlated and Hierarchical Effects Model\|相关与层级效应模型]]（CHE）** 进行三水平方差分解（Level 1 抽样误差、Level 2 一阶元分析内依赖、Level 3 跨元分析变异），结合 **[[Robust Variance Estimation\|稳健方差估计]]（RVE / 三明治估计量）** 提供渐近无偏的[[Standard Error\|标准误]]与小样本 $T^2 / F$ 校正，并运用多水平改进[[Egger Regression Test\|艾格检验]]（[[Multilevel Egger's Test]]）和[[Second-Order Meta-Regression\|二阶元回归]]，在无需严苛独立性假定下实现了高度稳健的宏观证据推断。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 2–6)]]
+>   Schmidt and Oh（2013）在《HRMR》奠定了二阶[[Sampling Error\|抽样误差]]与全领域推广理论；Cheung（2014）与 Pustejovsky and Tipton（2022）建立了多水平元分析与集群[[Robust Variance Estimation\|稳健方差估计]]（RVE）体系；[[Argument_Runco_2026_CRJ\|Runco et al. (2026)]]在[[Creativity\|创造力]]全领域综合中确立了第三代统计建模范式标杆。第三代方法彻底放弃单水平假设，对初级研究进行微观完全去重，采用 **[[Correlated and Hierarchical Effects Model\|相关与层级效应模型]]（CHE）** 进行三水平方差分解（Level 1 抽样误差、Level 2 一阶元分析内依赖、Level 3 跨元分析变异），结合 **[[Robust Variance Estimation\|稳健方差估计]]（RVE / 三明治估计量）** 提供渐近无偏的[[Standard Error\|标准误]]与小样本 $T^2 / F$ 校正。与此同时，面对第一代海量二阶证据库的泛滥，[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] 建立了**全库预注册二阶元科学审计范式** 通过对《可见的学习》322 个影响因素开展独立重抽样与证据链追溯，证实缺乏严格 [[PICO Framework|PICO]] 构念对齐的一阶汇总在面临复现检验时会遭遇体系性崩溃（可复现率不足 1%，44% 报告效应量原文缺失），确立了“微观统计建模”与“宏观元科学证据审计”并重的新一代研究标准。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 2–6)]]; [[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, pp. 1–28)]]
 
 ---
 
@@ -253,9 +254,9 @@ updated: 2026-10-16
 ## 现代二阶元分析研究程序与步骤
 
 > [!proc] 现代二阶[[Meta-analysis\|元分析]]六步标准操作规程
-> 1. **多数据库系统检索与灰色文献扩展** 检索主流学术数据库与博硕士论文库，遵循 [[PRISMA]] 声明进行四阶段筛选，严格排除缺乏定量合并矩阵的质性综述与无关系[[Effect Size\|效应量]]的坐标元分析。
+> 1. **前置 PICO 构念对齐与多数据库检索** 检索主流学术数据库与灰色文献，依据 [[PICO Framework|PICO]] 框架严格界定研究人群、干预措施、对照组属性（活跃对照 vs 照常对照）与学业成果构念，严格排除缺乏定量合并矩阵或构念严重错位的元分析；遵循 [[PRISMA]] 声明透明报告筛选流程。
 > 2. **[[AMSTAR]] 12 项方法学质量评估** 采用改编的 AMSTAR 准则进行双人独立编码（一致率 $\ge 95\%$），设定得分阈值（如 $\ge 0.75$）作为高质量指示[[Variable\|变量]]。
-> 3. **效应量标准化转换与正态化** 将不同一阶指标统一转换为[[Pearson Product-Moment Correlation\|皮尔逊相关]]系数 $r$ 或标准化均值差 $g$，运用 Fisher's $z$ 变换实现方差稳定化。
+> 3. **效应量标准化转换与可比性核查** 将不同一阶指标统一转换为[[Pearson Product-Moment Correlation\|皮尔逊相关]]系数 $r$ 或标准化均值差 $g$，严格审查实验设计类型，杜绝将组内（Within-Subject）与组间（Between-Subject）设计效应量混为一谈（Morris & DeShon, 2002），并运用 Fisher's $z$ 变换实现方差稳定化。
 > 4. **多水平 [[Correlated and Hierarchical Effects Model\|CHE]] 与 [[Robust Variance Estimation\|RVE]] 稳健方差建模** 设定集[[Intraclass Correlation Coefficient\|群内相关系数]]（$\rho = 0.8$），运用经验残差构造三明治估计量，计算稳健[[Standard Error\|标准误]]与小样本 $F$ 检验。
 > 5. **多水平改进艾格回归偏倚检验与校正** 检验[[Small Study Effects\|小研究效应]]并根据回归模型截距输出偏倚校正后的二阶效应量点估计值与[[Confidence Interval\|置信区间]]。
 > 6. **二阶[[Meta-regression\|元回归]]与亚组调节变量检验** 纳入[[Construct\|理论构念]]类型、[[Independent Variable\|自变量]]/[[Dependent Variable\|结果变量]]角色、研究设计等调节变量，全面分解效应[[Heterogeneity\|异质性]]来源。
@@ -433,3 +434,4 @@ updated: 2026-10-16
 > | [[AMSTAR]] | 工具 | 质量控制 | 用于二阶元分析中对一阶元分析规范度进行量化评级的方法学工具。 |
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 论证 | 典范应用 | [[Creativity\|创造力]]领域二阶元分析代表作，确立了现代六步建模与偏倚校正规程。 |
 > | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 诊断先驱 | 严格证明二级固定效应等价性与文献重叠时经典方差失效的机制。 |
+> | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 论证 | 全库审计 | 依据 PICO 与伞状综述规范开展首个预注册全库审计，揭示一阶元分析数据提取脆弱性与复现危机。 |

@@ -6,7 +6,7 @@ summary: "通过汇总多项独立初级研究的效应量来综合定量证据�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 104
+method_related_count: 106
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -57,6 +57,7 @@ related_concepts:
   - "[[Authentic Instruction]]"
   - "[[Mentorship]]"
   - "[[Epistemic Cognition]]"
+  - "[[PICO Framework]]"
 related_theories:
   - "[[Critical Realism]]"
   - "[[Third Generation Activity Theory]]"
@@ -123,6 +124,7 @@ related_arguments:
   - "[[Argument_Knogler_2025_BB]]"
   - "[[Argument_Zhao_2025_JIntell]]"
   - "[[Argument_Cartiff_2021_JEP]]"
+  - "[[Argument_Kalmendal_2025_PsyArXiv]]"
 related_instruments:
   - "[[PRISMA]]"
   - "[[EEF Padlock Security Rating]]"
@@ -222,8 +224,10 @@ updated: 2026-10-16
 > ```
 
 > [!proc] 统计建模五步规范
-> 1. **初级[[Access and Acceptance in Research\|研究准入]]门槛、基线等效性审查与[[Effect Size\|效应量]]标准化**
+> 1. **初级[[Access and Acceptance in Research\|研究准入]]门槛、PICO 构念对齐与[[Effect Size\|效应量]]标准化**
+>    - **PICO 构念对齐与准入红线** 必须依据 [[PICO Framework|PICO]] 框架（研究对象 Population、干预措施 Intervention、对照条件 Comparison、结局指标 Outcome）严格定义纳入与排除标准。严禁跨越因果机制混淆干预定义，尤其须严格区分活跃对照组（Active Control，如另一种有效教学法）与常规对照组（Business as Usual，无干预或常规教学），防范因对照基线异质性造成效应量人为稀释或虚高；
 >    - **基线等效性前置筛查** 对纳入的准实验（[[Quasi-Experimental Designs\|QED]]）与高流失[[Randomised Controlled Trials\|随机对照试验]]，必须提取[[Pre-test and Post-test\|前测]]数据并计算[[Baseline Standardized Mean Difference\|基线等效性标准化均数差]] $d_{\text{baseline}}$。严格执行 WWC 2022 与 Slavin and Smith (2009) 门槛：$|d| > 0.25$ 者即刻剔除（两组潜在能力分布质性相异，[[Analysis of Covariance\|ANCOVA]] 统计校正失效），介于 $0.05$ 至 $0.25$ 之间者必须在模型中控制前测协[[Variable\|变量]]；无前测研究必须证明实施了严格的[[Random Assignment\|随机分配]]；
+>    - **实验设计与测度不可通约性审查** 严格区分组间设计（Between-Subject）与组内/重复测量设计（Within-Subject）。组内设计标准差由于扣除了被试间方差且依赖测量间相关系数 $r$，其标准化效应量与组间设计不具备直接可通约性（Morris & DeShon, 2002），严禁在未经协方差矩阵调整的情况下直接简单合并；
 >    - **测量工具信效度审查** 排除测量工具与实验干预过度重叠的自利性自编测验，防范虚假效应量膨胀；
 >    - **编码质控与量纲统一** 多名研究者独立进行特征与效应量编码，采用 Holsti（1969）[[Reliability\|信度]]公式（$R = \frac{nM}{\sum N_i}$）检验[[Intercoder Agreement\|编码者间一致性]]信度（通常要求 $R > 0.90$）；将不同[[Scale of Measurement\|测量尺度]]的初级研究结果转换为标准化的效应量（如 Hedges' $g$、Pearson $r$）并计算对应的抽样方差 $v_i$；小样本时采用 Hedges 校正因子消除正向偏倚。
 > 2. **加权合成与模型抉择** 依据精度倒数进行[[Inverse-Variance Weighting\|逆方差加权]]。若假定存在单一恒定真实效应，采用固定效应模型（$w_i = 1/v_i$）；若假定真实效应随人群和情境变化，采用随机效应模型（$w_i^* = 1/(v_i + \tau^2)$）以实现权重再平衡。详见 [[Fixed-Effect and Random-Effects Models]]。
@@ -307,11 +311,12 @@ updated: 2026-10-16
 
 > [!warning] 核心批判维度导览
 > 1. **研究可比性危机（“苹果与橙子”问题）** 将不同干预定义、测量工具与实施情境的研究强行平均，产生无意义的统计噪音（Eysenck, 1978; [[Argument_Higgins_2016_ROE\|Higgins, 2016]]）。
+>    - *PICO 准入红线与构念混淆* [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] 针对二阶综合的元科学审计表明，若缺乏对初级元分析 [[PICO Framework|PICO]] 四要素（尤其是干预措施与对照组性质）的严格准入筛选，会导致严重异质的干预（如探究教学 vs 传统讲授、翻转课堂 vs 课后阅读）被机械混装，使合成结果沦为假性精确的宏观数字游戏。
 > 2. **输入质量[[Determinism\|决定论]]（“垃圾进，垃圾出”）** 低质量、高偏倚的初级研究合并后不仅不能相互抵消，反而会产生虚假的“高精度错误估计”（Slavin, 1984; [[Argument_Berk_2011_ER\|Berk, 2011]]）。
 >    - *现代破局防线* 当代循证元分析（如 [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung, 2025]]）通过确立严格的前端实验设计准入门槛（[[Sample Size Determination\|样本量]]每组 $\ge 15$、设立对照组、[[Baseline Standardized Mean Difference\|基线等效性]] $d_{\text{baseline}} < 0.25$），构建了抵御低质偏倚的方法学防火墙；实证研究证实该门槛能有效消除准实验与 RCT 之间的系统性效应差异（$Q_B$ 组间异质性检验不显著），实现证据池的源头净化。
 > 3. **统计独立性假设违背** 同一研究提供多重结局测量造成数据嵌套依赖，人为虚窄[[Standard Error\|标准误]]（Wolf, 1986; Cheung, 2014）。
 > 4. **平均效应掩盖[[Heterogeneity\|异质性]]与因果机制** 平均[[Effect Size\|效应量]]无法回答“干预对谁有效、在何种情境下有效”，可能掩盖高达 38% 的负向效应子群（Kluger & DeNisi, 1996; [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019]]）。
-> 5. **政策工具排名的伪精确性** 将效应量简化为《[[Visible Learning\|可见的学习]]》气压计或排行榜，误导教育资源配置（[[Argument_Wiliam_2019_ERE\|Wiliam, 2019]]; [[Argument_Simpson_2017_JEP\|Simpson, 2017]]）。
+> 5. **政策工具排名的伪精确性与二阶复现危机** 将效应量简化为《[[Visible Learning\|可见的学习]]》气压计或排行榜，误导教育资源配置（[[Argument_Wiliam_2019_ERE\|Wiliam, 2019]]; [[Argument_Simpson_2017_JEP\|Simpson, 2017]]）；全库数据审计证实粗放二阶元综合的数据提取可复现率不足 1%，且存在严重的选择性报告（[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025]]）。
 > 6. **微弱效应量与常态对照基线（Micro-effects & High-Quality Control Baseline）** Lortie-Forgues and Inglis (2019) 重新分析 141 项英美大型教育 [[Randomised Controlled Trials\|RCT]]（涵盖逾 120 万名学生），指出平均合并效应量仅为 $d = 0.06$（[[Confidence Interval\|置信区间]]平均宽度达 $0.30$ SD），据此质疑试验“缺乏信息量”。然而，超大样本量极大提升了统计推断精度，微弱效应量实质映射出学校现存[[Business as Usual\|常态教学]]（business as usual）的高水准专业基线；元分析在合成证据时不仅要识别正向效应，更必须重视“证明何者无效”对破除商业噱头与保护紧缺公共资金的去魅价值（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 56–57]]）。
 >
 > 🔗 **完整命题论证、学者辩论与 11 项质量审查清单参见独立深度条目：[[Critique of Meta-analysis]]**。
@@ -372,3 +377,4 @@ updated: 2026-10-16
 > - [[Argument_Hattie_2015_Paideia\|Hattie (2015a)]] 探讨元分析作为探索[[Heterogeneity\|异质性]]与调节变量的证据地图定位。
 > - [[Argument_Wrigley_2019_ERE\|Wrigley and McCusker (2019)]] 运用[[Realist Evaluation\|实在论综合]]与[[Critical Realism\|批判实在论]]反思元分析的局限性。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] 探讨[[Meta-meta-analysis\|二阶元分析]]与证据合成在英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）实践中的制度化应用；系统回应 Lortie-Forgues and Inglis (2019) 对 141 项大型教育 [[Randomised Controlled Trials\|RCT]] 平均微弱效应量（$d = 0.06$）的批评，阐明大样本精度、[[Business as Usual\|常态教学]]高基线以及实时动态数据库对消解元分析证据异质性（Heterogeneity）的治理机制。
+> - [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] 依据 [[PICO Framework|PICO]] 框架对教育元分析证据库开展首个预注册质量审计，剖析了对照组性质混淆（活跃对照 vs 照常对照）、组内与组间设计直接混用（Morris & DeShon 难题）对效应量可比性的破坏，确立了元分析研究准入与效应量提取透明度的元科学标准。

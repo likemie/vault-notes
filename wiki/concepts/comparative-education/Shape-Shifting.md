@@ -71,7 +71,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Shape-Shifting
@@ -86,7 +86,7 @@ updated: 2026-10-15
 > [!concept-lens] 概念透镜
 > - **含义** 指向教育构件在跨国流动、跨场域中介与微观落地过程中，因遭遇异质历史传统、科层惯性与行动者生存策略而催生的形态异化、功能重组及反常替代。
 > - **用途** 帮助研究者破除将“[[Policy Borrowing|教育借用]]”简单化为线性复制或成败二元的规范主义迷思，精准透视全球教育模型在制度落地中的非线性变形与微观生态重塑。
-> - **边界** 形变是一个总括性（umbrella）待解问题意识与[[Phenomenology|现象学]]定性，本身不提供具体的微观因果动力学；须配合 [[Transfer Translation Transformation|3T 框架]]、[[Recontextualization|再语境化]] 理论及场域流通模型进行[[Operationalization|操作化]]解释。
+> - **边界** 形变是一个总括性（umbrella）待解问题意识与[[Phenomenology|现象学]]定性，本身不提供具体的微观因果动力学；须配合 [[Transfer Translation Transformation|3T 框架]]、[[Recontextualization|再情境化]] 理论及场域流通模型进行[[Operationalization|操作化]]解释。
 
 > [!citation-card] 考恩论移动即变形的核心法则
 > 任何关于教育转移的严肃研究都必须正视这一基本事实：当制度或思想发生移动时，它们就会变形。比较教育的核心任务正是描述和理论化这些形态变化。[[Argument_Cowen_2009_CE|(Cowen, 2009b, p. 315)]]
@@ -101,7 +101,7 @@ updated: 2026-10-15
 > [!boundary]- 概念边界
 > - 不等于 [[Policy Borrowing|政策借用]]（Policy Borrowing）— 政策借用通常聚焦于国家政策决策层的主观意图与是否采纳，形变则关注流动全周期中教育构件客观形态、功能定位与微观实践的深层结构变异。
 > - 不等于 [[Cross-National Attraction|跨国吸引]]（Cross-National Attraction）— 跨国吸引主要解释转移发生前外来模型的政治象征资本与引入推力，形变则追踪输入后落地生根中的变形机制与意外后果。
-> - 不等于单纯的“政策实施偏差”（Implementation Failure）— 实施偏差预设了存在一个原初正确的标准答案，形变理论则确认变异是社会流动的必然内生规律，变形本身即是本土再语境化生成的客观实在。
+> - 不等于单纯的“政策实施偏差”（Implementation Failure）— 实施偏差预设了存在一个原初正确的标准答案，形变理论则确认变异是社会流动的必然内生规律，变形本身即是本土再情境化生成的客观实在。
 
 ---
 
@@ -155,13 +155,13 @@ updated: 2026-10-15
 
 ---
 
-### 命题一　跨国教育流动必然伴随深层结构与实践形态的再语境化变形
+### 命题一　跨国教育流动必然伴随深层结构与实践形态的再情境化变形
 
 > [!concept-lens] 空间转移与结构变形的必然性
-> 探讨教育构件跨越国界或制度边界时形态变异的必然性机制，确认变异非偶然实施瑕疵而是社会学[[Recontextualization|再语境化]]的根本法则。
+> 探讨教育构件跨越国界或制度边界时形态变异的必然性机制，确认变异非偶然实施瑕疵而是社会学[[Recontextualization|再情境化]]的根本法则。
 
 > [!claim] [[Argument_Cowen_2009_CE|Cowen (2009b)]]
-> **移动即变形的[[Ontology|本体论]]断言** [[Robert Cowen|罗伯特·考恩]]（Robert Cowen）判定，教育的跨国转移绝非技术构件在真空中的机械平移，而是深嵌于异质权力结构中的社会学[[Recontextualization|再语境化]]过程；任何教育模式在脱离其原初历史母体跨越国界时，因遭遇接受国独特的国家权力拓扑、意识形态诉求与教育学传统，其外部行政治理、内部师生权力关系与知识谱系必然发生核心形态重组，移动本身即构成了形态重塑的动力。[[Argument_Cowen_2009_CE|(Cowen, 2009b, pp. 315, 322–324)]]
+> **移动即变形的[[Ontology|本体论]]断言** [[Robert Cowen|罗伯特·考恩]]（Robert Cowen）判定，教育的跨国转移绝非技术构件在真空中的机械平移，而是深嵌于异质权力结构中的社会学[[Recontextualization|再情境化]]过程；任何教育模式在脱离其原初历史母体跨越国界时，因遭遇接受国独特的国家权力拓扑、意识形态诉求与教育学传统，其外部行政治理、内部师生权力关系与知识谱系必然发生核心形态重组，移动本身即构成了形态重塑的动力。[[Argument_Cowen_2009_CE|(Cowen, 2009b, pp. 315, 322–324)]]
 
 > [!claim] [[Argument_Beech_2009_CE|Beech (2009a)]]
 > **多标度空间流动中的形态分化** [[Jason Beech|杰森·比奇]]（[[Jason Beech]]）判定，教育理念在跨越全球、国家与地方等多重标度时，每一层级都会依凭自身特有的制度逻辑对其进行修剪与改装；全球通用的教育修辞在逐级下沉过程中不可避免地分化为多重异质的制度变体，展现出形态上的多标度[[Heterogeneity|异质性]]。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 355–358)]]
@@ -209,7 +209,7 @@ updated: 2026-10-15
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **空间与结构形变命题** | 跨国转移伴随再语境化形态重塑与多标度分化 | 制度与思想跨越国家地理疆界或[[Pluri-Scalar Governance\|多标度治理]]流动 | [[Argument_Cowen_2009_CE\|Cowen (2009b, p. 315)]]; [[Argument_Beech_2009_CE\|Beech (2009a, pp. 355–358)]] |
+> | **空间与结构形变命题** | 跨国转移伴随再情境化形态重塑与多标度分化 | 制度与思想跨越国家地理疆界或[[Pluri-Scalar Governance\|多标度治理]]流动 | [[Argument_Cowen_2009_CE\|Cowen (2009b, p. 315)]]; [[Argument_Beech_2009_CE\|Beech (2009a, pp. 355–358)]] |
 > | **场域转化与简化命题** | 紧迫实用主义驱动学术理论被截断为去情境化通用模型 | 知识从纯学术空间向多边国际组织及官方政策转化 | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b, pp. 349–353)]] |
 > | **微观实践异化命题** | 抽象模型落地遭遇专业断裂并激发出反常实践替代 | 宏观政策法案向微观中小学与师资培训机构下沉实施 | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b, pp. 353–355)]]; Shibata (2005) |
 > | **生态土壤突变命题** | 枯死残枝所携外来机制永久改变本土教育微观生态 | 外来模式移植失败或遭遇抵制后的长时段生态变迁 | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b, pp. 355–356)]]; [[Argument_Zhou_2024_CE\|Zhou and Westberg (2024, p. 614)]] |

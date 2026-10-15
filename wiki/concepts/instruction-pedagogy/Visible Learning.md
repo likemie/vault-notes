@@ -5,7 +5,7 @@ aliases:
 summary: "John Hattie 发起的教育证据综合与学校改进框架，主张通过汇总海量元分析建立 d=0.40 关节点相对有效性判准，将教师确立为成就变异的核心因果枢纽（30%），依托学业进阶、显性成功标准与形成性反馈重塑教学评价性判断。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 71
+related_count: 74
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -42,11 +42,13 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Heterogeneity]]"
   - "[[Effective Teaching]]"
+  - "[[Reproducibility Crisis]]"
   - "[[Critiques of Visible Learning]]"
   - "[[Critical Thinking]]"
   - "[[Variable]]"
   - "[[Growth]]"
   - "[[Criterion-Referenced Test]]"
+  - "[[PICO Framework]]"
   - "[[Interactional Expertise]]"
   - "[[School Leadership]]"
   - "[[Research Utilization]]"
@@ -82,6 +84,7 @@ related_arguments:
   - "[[Argument_Hattie_2015_SOTLP]]"
   - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_Golovchin_2019_ESC]]"
+  - "[[Argument_Kalmendal_2025_PsyArXiv]]"
   - "[[Argument_Knudsen_2017_NordSTEP]]"
   - "[[Argument_Fredens_2015_Paideia]]"
   - "[[Argument_Nordahl_2015_Paideia]]"
@@ -173,6 +176,9 @@ updated: 2026-10-16
 > [!claim] Golovchin, M. A.
 > **四区影响气压计** 戈洛夫钦（Golovchin）等学者基于 Hattie 的元分析数据库，系统整理了四区影响气压计（Barometer of Influence）：将干预划分为负面效应区（$d < 0$，如转学、看电视）、发展效应区（$d = 0–0.15$，如单纯教师学历）、低中效应区（$d = 0.15–0.40$，如班级规模）与期望效应区（$d > 0.40$，如[[Formative Assessment\|形成性评价]] $d=0.90$、微格教学 $d=0.88$、教学清晰度 $d=0.75$、[[Student-Teacher Relationship\|师生关系]] $d=0.72$），为教育决策提供了直观的相对效能参照。[[Argument_Golovchin_2019_ESC\|(Golovchin, 2019, pp. 232–233)]]
 
+> [!claim] Kalmendal et al.
+> **通用连续体与关节点判准的统计破产** 卡尔门达尔（Kalmendal）等学者对 VL 全库 322 个影响因素开展独立审计发现，$d=0.40$ 通用连续体存在根本性统计破产：Hattie 将不同对照条件（对照组为空白控制、常规教学还是积极替代干预）进行无加权简单平均。根据常规规律，相比于空白对照，与积极干预比较产生的效应量通常减半；当混合两类对照时，平均效应量纯粹取决于两类研究的样本比例，丧失了实质解释力。加之 27% 的影响因素混杂了组内与组间设计（估计完全不同的总体参数），所谓跨情境统一的 $0.40$ 关节点基准并不具备科学效力。[[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, pp. 1, 16)]]
+
 ---
 
 ### 命题二　教师教学效能是学校系统内部可控的最大因果枢纽，测验数据本质是检验教师自身教学的镜子
@@ -222,7 +228,7 @@ updated: 2026-10-16
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **相对有效性判准** | 确立 $d=0.40$ 关节点，以超越常规教学均值为标准衡量干预价值 | 教育政策循证筛选与教学干预效果评估 | [[Argument_Hattie_2005_ACER\|Hattie (2005)]]; [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] |
+> | **相对有效性判准** | 确立 $d=0.40$ 关节点，以超越常规教学均值为标准衡量干预价值；但全库元科学审计揭示其对照组混并与跨设计缺陷瓦解了该连续体 | 教育政策循证筛选与教学干预效果评估（及元科学审计） | [[Argument_Hattie_2005_ACER\|Hattie (2005)]]; [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]]; [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] |
 > | **教师因果枢纽与归因** | 教师占 30% 方差，评价数据是检验自身教学策略的反光镜 | 教师专业发展、评价观念重塑与责任界定 | [[Argument_Hattie_2015_SOTLP\|Hattie (2015b)]] |
 > | **显性进阶与双向可见** | 共享成功标准与形成性三提问，破除课堂认知盲区实现自主演进 | 课堂教学设计、形成性评价实施与师生互动 | Clarke, Timperley, & Hattie; [[Argument_Knudsen_2017_NordSTEP\|Knudsen (2017)]] |
 > | **评价性判断与文化重塑** | 倡导 DIE 诊断循环与校本反馈文化，警惕机械清单与新泰勒主义 | 学校改进机制建构与循证教学文化培育 | [[Argument_Fredens_2015_Paideia\|Fredens (2015)]]; [[Argument_Nordahl_2015_Paideia\|Nordahl (2015)]]; [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]]; [[Argument_Eacott_2019_IJLE\|Eacott (2019)]] |
@@ -239,6 +245,7 @@ updated: 2026-10-16
 > - **2015–2020 — 教学论深化与批评反思潮** Hattie 进一步提炼八项教师思维框架、DIE 模型与高等教育六大高影响条件；同时斯堪的纳维亚学者提出“反馈文化”再诠释，批判学者发起关于[[Neo-Taylorism\|新泰勒主义]]与知识形态窄化的深层学理争鸣。[[Argument_Hattie_2015_SOTLP\|(Hattie, 2015b)]]; [[Argument_Fredens_2015_Paideia\|(Fredens, 2015)]]; [[Argument_Eacott_2019_IJLE\|(Eacott, 2019)]]
 > - **2021–至今 — 欧洲跨国治理实证与[[Practitioner Enquiry\|实践者探究]]校准** 欧洲实证研究（[[Argument_Kelly_2025_ROE\|Kelly et al., 2025]]）揭示一线实践者在不同治理体制下对 VL 的差异化吸收：苏格兰依托“实践者探究”对其开展去魅与本土校准，德国作为校本教研参考，打破单一商业化崇拜迷思。
 > - **2024–至今 — 二阶元分析基础设施化与大模型准确性评测** 底层数据库拓展为收录 2,100 余项一阶元分析的 [[Visible Learning Meta-X]] 平台。该数据库被实证研究（[[Argument_Jansen_2026_EPR\|Jansen et al., 2026]]）作为评估大语言模型[[Automated Data Extraction\|自动化数据提取]]的基准库；该评测同时揭示了早期单人人工录入的历史局限与 57 处单方偏离（[[Intraclass Correlation Coefficient\|ICC]] = 0.81），确立了人机混合验证的质控新标准。
+> - **2025–至今 — 全量元科学审计与证据链可信度崩溃** 瑞典卡尔门达尔（Kalmendal）等学者开展首个预注册全库元科学质量评估（[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025]]），对 322 个影响因素（1,369 篇一阶元分析）进行审查。结果揭示仅 19% 满足研究问题纳入基准，27% 混杂了不可通约的组间、组内及相关设计，全库数据提取复现率仅 0.66%（301 项中仅 2 项完全复现），44% 报告的效应量在原文中完全不存在，实证宣告了 VL 通用连续体与排行榜证据基础的崩溃。
 
 ---
 
@@ -251,13 +258,18 @@ updated: 2026-10-16
 > [!tension] 核心张力二：通用效应量跨情境概括 vs 学科与知识层次[[Heterogeneity\|异质性]]
 > - **通用效应量汇总立场（蓝方）** 主张通过大样本[[Meta-analysis\|元分析]]提炼跨学科、跨学段的通用[[Effective Teaching\|有效教学]]规律，为资源配置与教研重点提供概率性指引。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, p. 16)]]
 > - **知识形态异质性批判立场（红方）** 批评者指出元分析混淆了表层事实记忆与深层概念建构，掩盖了不同学科独特的认知规律与情境异质性。[[Argument_Qvortrup_2015_Paideia\|(Qvortrup, 2015, pp. 29–33)]]
+>
+> [!tension] 核心张力三：宏观合成证据权威 vs 元科学审计下的可复现性危机（[[Reproducibility Crisis\|可复现性危机]]）
+> - **合成证据权威立场（蓝方）** 主张即使底层元分析存在个别瑕疵或历史人工录入偏差，数亿样本与上千项元分析的整体模式仍能稳定揭示“教师激活优于被动促进”等核心教育规律。[[Argument_Hattie_2010_NZJES\|(Hattie, 2010, pp. 88–92)]]
+> - **元科学审计解构立场（红方）** 卡尔门达尔团队实证审计表明，VL 的问题不是局部误差，而是系统性方法学崩溃：缺乏基本的问题纳入关卡（仅 19% 满足 PICO 标准）、将不可通约的统计设计强行平均化（27% 混杂设计）、严重数据提取失真（44% 效应量无引证支持且复现率低于 1%），以及技术类目存在长达 20 年的文献时效断层，因而无法作为任何可靠的教学或政策决策基准。[[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, pp. 1, 14–19)]]
 
 > [!critique] 外部学术批评导览
 > - **批评系统入口** 完整的方法论、教学论、教育哲学与政策商业化批评详见专用条目 [[Critiques of Visible Learning]]。
+> - **元科学审计与可复现性** 瑞典团队对全库开展独立复现，实证证实其底层数据链全面瓦解。[[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, pp. 18–19)]]
 > - **数据与文化局限** 原始元分析主要基于英语国家历史文献，直接跨语境迁移到非英语国家或不同社会文化体制中存在显著适应性障碍。[[Argument_Golovchin_2019_ESC\|(Golovchin, 2019, p. 232)]]
 
 > [!warning] 适用局限
-> 元分析所汇总的标准化测验多偏向于测量表层知识与常规技能，对深层[[Critical Thinking\|批判性思维]]、概念建构与非认知福祉的测量覆盖度存在天然局限。[[Argument_Qvortrup_2015_Paideia\|(Qvortrup, 2015, p. 29)]]
+> 元分析所汇总的标准化测验多偏向于测量表层知识与常规技能，对深层[[Critical Thinking\|批判性思维]]、概念建构与非认知福祉的测量覆盖度存在天然局限；同时全库 27% 存在组间、组内与相关设计的违规混并，加权缺失进一步放大了极端偏倚。[[Argument_Qvortrup_2015_Paideia\|(Qvortrup, 2015, p. 29)]]; [[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, p. 16)]]
 
 ---
 
@@ -305,6 +317,7 @@ updated: 2026-10-16
 > | [[Argument_Hattie_2015_SOTLP\|Hattie, 2015b]] | Argument | 提炼八项教师思维框架与 DIE 教学动态循环的代表性文献。 |
 > | [[Argument_Kelly_2025_ROE\|Kelly et al., 2025]] | Argument | 跨国实证揭示苏格兰[[School Leadership\|学校领导]]者如何依托实践者探究对 VL 开展批判性校准的文献。 |
 > | [[Argument_Jansen_2026_EPR\|Jansen et al., 2026]] | Argument | 评测大模型在 VL Meta-X 数据提取准确性的最新文献，揭示原数据库录入质量与混合质控[[Paradigm\|范式]]。 |
+> | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025]] | Argument | 开展首个全库预注册元科学质量审计，实证揭示 VL 仅 19% 满足 PICO 标准且数据复现率仅 0.66% 的文献。 |
 
 ---
 

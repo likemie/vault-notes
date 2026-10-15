@@ -150,7 +150,7 @@ updated: 2026-10-16
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1990 — [[Basil Bernstein|伯恩斯坦]]语篇[[Champ|场域]]奠基** 巴西尔·伯恩斯坦（Basil Bernstein）提出教育语篇的生产、[[Recontextualization|再语境化]]与再生产场域理论，为分析[[Discourse|话语]]流动与控制提供理论工具。
+> - **1990 — [[Basil Bernstein|伯恩斯坦]]语篇[[Champ|场域]]奠基** 巴西尔·伯恩斯坦（Basil Bernstein）提出教育语篇的生产、[[Recontextualization|再情境化]]与再生产场域理论，为分析[[Discourse|话语]]流动与控制提供理论工具。
 > - **1990 年代 — [[Washington Consensus|华盛顿共识]]普遍模型形成** 国际机构在全球南方大规模推行结构调整计划与教育五支柱模型，排他性话语开始垄断政策舞台。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 347–349)]]
 > - **2005–2009 — 比奇系统概念化** 比奇在博士论文与手册章节中正式提炼“话语空间闭合”概念，深度剖析拉美[[Gatekeepers|把关人]]网络扼杀本土思想探索的微观机制。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 354–355)]]
 
@@ -164,7 +164,7 @@ updated: 2026-10-16
 > > 批判宏观学者强调国际机构与[[Gatekeepers|把关人]]成功实施了全面的[[Discourse|话语]]闭合；但微观人类学学者指出，政策文本的话语闭合并不等于学校日常实践的同质化。一线教师和地方基层往往通过被动抵制、[[Creativity|创造性]]误读（Misreading）或借用本土旧传统将外来政策“空心化”，展现出基层生态对闭合话语的顽强逃逸。
 > >
 > > - **宏观批判话语学者** 强调方案垄断对国家政策想象力的毁灭性压制。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 349)]]
-> > - **本土[[Situative Perspective|情境主义]]学者** 指出微观[[Recontextualization|再语境化]]过程总是充满未被预料的本土杂糅与颠覆。[[Argument_Rappleye_2006_RCIE|(Rappleye, 2006, p. 224)]]
+> > - **本土[[Situative Perspective|情境主义]]学者** 指出微观[[Recontextualization|再情境化]]过程总是充满未被预料的本土杂糅与颠覆。[[Argument_Rappleye_2006_RCIE|(Rappleye, 2006, p. 224)]]
 
 ---
 

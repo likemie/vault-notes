@@ -127,7 +127,7 @@ updated: 2026-10-16
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **治理术与空间制作** | 揭示量化指标与同侪学习如何实现隐秘[[Disciplina and Doctrina\|规训]]与超国家空间虚构 | 欧洲教育治理与主权规训分析 | António Nóvoa; Martin Lawn |
-> | **多标度均质化** | 阐明最佳实践修辞如何削弱民族国家的替代性政策想象力 | 跨国[[Policy Mobility\|政策流动]]与[[Recontextualization\|再语境化]]批判 | Jason Beech |
+> | **多标度均质化** | 阐明最佳实践修辞如何削弱民族国家的替代性政策想象力 | 跨国[[Policy Mobility\|政策流动]]与[[Recontextualization\|再情境化]]批判 | Jason Beech |
 
 ---
 

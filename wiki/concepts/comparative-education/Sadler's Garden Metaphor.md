@@ -107,7 +107,7 @@ updated: 2026-10-16
 > - **漫步者主体的多元化与跨国化** 19 世纪的漫步者主要是受政府指派建立国家学制的政治精英（如萨米恩托、霍拉斯·曼、明治考察团）；21 世纪的漫步者扩散为携带商业方案的咨询专家、大学创收机构、跨国教育集团与超国家联盟。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–344)]]
 > - **土壤与情境的不可剥离性** 教育实践深植于特定社会的阶级结构、文化传统与政治经济现实，绝非可在实验室中随意[[Assemblage|组装]]的标准化技术拼盘。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 341)]]
 > - **残枝与外来微生物的不可逆扩散** 外来改革在宏观层面的政策流产（枯萎），往往伴随着量化考核指标、商业教材外包与问责修辞等“微生物”在微观层面的持续寄生与本土繁殖。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 356)]]
-> - **[[Recontextualization|再语境化]]过程中的微观现实断裂** 抽象方案在下沉至地方学校和课堂时，往往引发本土教师对虚假自主的恐慌、课程失序与意料之外的次生灾害。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 353–355)]]
+> - **[[Recontextualization|再情境化]]过程中的微观现实断裂** 抽象方案在下沉至地方学校和课堂时，往往引发本土教师对虚假自主的恐慌、课程失序与意料之外的次生灾害。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 353–355)]]
 
 ---
 
@@ -140,7 +140,7 @@ updated: 2026-10-16
 > [!contrast-table] 命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **微观生态突变** | 揭示外来方案虽枯死但其附带技术深刻改变本土教育微观生态 | [[Policy Borrowing\|政策借用]]后果评估与[[Recontextualization\|再语境化]]实证 | Jason Beech |
+> | **微观生态突变** | 揭示外来方案虽枯死但其附带技术深刻改变本土教育微观生态 | [[Policy Borrowing\|政策借用]]后果评估与[[Recontextualization\|再情境化]]实证 | Jason Beech |
 > | **行动者网络重组** | 论证跨国资本与非国家实体取代主权国家成为全球花园核心漫步者 | 多标度教育治理与跨国资本分析 | Jason Beech; [[Robert Cowen]] |
 
 ---
@@ -176,7 +176,7 @@ updated: 2026-10-16
 > | [[Michael Sadler]] | 人物 | 隐喻创立者，1900 年提出世界教育花园采撷的古典警训。 |
 > | [[Jason Beech]] | 人物 | 现代重构者，赋予萨德勒隐喻微观生态学与[[Pluri-Scalar Governance\|多标度治理]]的新内涵。 |
 > | [[Policy Borrowing]] | 概念 | 理论母体，花园隐喻是政策借用与制度转移理论的核心[[Epistemology\|认识论]]源头。 |
-> | [[Recontextualization]] | 概念 | 机制深化，微生物重构本土生态是再语境化微观后果的形象表述。 |
+> | [[Recontextualization]] | 概念 | 机制深化，微生物重构本土生态是再情境化微观后果的形象表述。 |
 > | [[Global Educational Discourse]] | 概念 | 采撷客体，当代漫步者所推销的五支柱模型构成了普遍主义残枝。 |
 > | [[Methodological Nationalism]] | 概念 | 批判靶标，比奇重构旨在打破萨德勒隐喻中隐含的民族国家容器预设。 |
 
