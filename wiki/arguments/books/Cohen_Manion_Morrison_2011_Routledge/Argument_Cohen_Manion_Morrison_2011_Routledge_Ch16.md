@@ -982,7 +982,7 @@ Shavelson et al. (2003, p. 26) 将设计研究的关键特征概括为七项：
 > - **效用导向（Utility Oriented）** 最终产品必须在真实世界中可操作、可使用，只为理论而设计的产品不是设计研究的目标。
 > - **理论驱动（Theory Driven）** 干预基于理论主张（如关于教与学的主张），并通过研究同时生成和检验理论。
 
-Cobb et al. (2003, p. 9) 强调：理论生成是设计实验的核心，它们是**理论的熔炉（crucibles for the generation and testing of theory）**。设计研究的目的就是生成教与学理论（p. 10），这涉及发展、干预和反思的循环。由于具有实用主义根基（p. 10），设计实验与[[Mixed Methods Research|混合方法研究]]有天然的亲和性（Gorard et al., 2004, pp. 579, 593）。
+Cobb et al. (2003, p. 9) 强调：理论生成是设计实验的核心，它们是**理论的熔炉（crucibles for the generation and testing of theory）**。设计研究的目的就是生成教与学理论（p. 10），这涉及发展、干预和反思的循环。由于具有实用主义根基，设计实验与[[Mixed Methods Research|混合方法研究]]有天然的亲和性（Gorard et al., 2004, pp. 579, 593）。
 
 ---
 

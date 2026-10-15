@@ -54,7 +54,7 @@ related_instruments: []
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Harold Garfinkel
@@ -128,7 +128,7 @@ updated: 2026-10-15
 >   将观察视野投向更广阔的社会活动范围，探究人们如何协商自身所处的具体社会环境，以及如何在动态情境中使环境变得有序可理解；在实证方法上常运用破坏性实验揭露潜在运作机制。
 
 > [!citation-card] 日常生活的惊人索引性与方法优先取向
-> 常人方法学的实质内容，在很大程度上由一套用于研究加芬克尔所称的日常生活“惊人索引性”的具体技术与方法构成。它完全面向经验研究，其实践者对所遭遇情境独特性的强调，展现了其本质上的[[Multiplist\|相对主义立场]]。对方法论与实地田野发展的投入，占据了其追随者最核心的学术旨趣，以至于相关的[[Ontology\|本体论]]、认识论以及人性本质问题，所受到的关注可能少于它们本应获得的程度。（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch. 1；[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]）
+> 常人方法学的实质内容，在很大程度上由一套用于研究加芬克尔所称的日常生活“惊人索引性”的具体技术与方法构成。它完全面向经验研究，其实践者对所遭遇情境独特性的强调，展现了其本质上的[[Multiplist\|相对主义立场]]。对方法论与实地田野发展的投入，占据了其追随者最核心的学术旨趣，以至于相关的[[Ontology\|本体论]]、认识论以及人性本质问题，所受到的关注可能少于它们本应获得的程度。（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1]]）
 >
 > *The substance of ethnomethodology thus largely comprises a set of specific techniques and approaches to be used in studying what Garfinkel has described as the ‘awesome indexicality’ of everyday life. It is geared to empirical study, and the stress which its practitioners place upon the uniqueness of the situation encountered, projects its essentially relativist standpoint. A commitment to the development of methodology and [[Fieldwork]] has occupied first place in the interests of its adherents, so that related issues of ontology, epistemology and the nature of human beings have received less attention than perhaps they deserve.*
 

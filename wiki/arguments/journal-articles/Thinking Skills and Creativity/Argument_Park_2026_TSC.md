@@ -97,7 +97,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-08-25
-updated: '2026-08-27'
+updated: 2026-10-16
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Park_2026_TSC"
@@ -369,7 +369,7 @@ issuing_organization: ""
 > - **编码与调节变量** 测量按主观（自陈/自评）与客观（观念/产品产出或任务表现）编码，并提取年龄、学段、年份、地理区域四个调节变量。（pp. 4–5）
 
 > [!case] 嵌套效应量的来源：同一研究为何贡献多个相关
-> 29 项研究中的 51 个估计的嵌套来源分两类（p. 4）：一类是**同一参与者施测不同测量**，如 Gilbert (1961) 以沃森-格拉泽[[Critical Thinking Assessment\|批判性思维评价]]（[[Watson-Glaser Critical Thinking Appraisal\|WGCTA]]）分别匹配[[Alternate Uses Test\|非常规用途测验]]、吉尔福德联想流畅性与观念流畅性测验，贡献多个相关；另一类是**同一测量用于不同参与者**，如 Silva et al. (2023) 以同一[[Critical Thinking Disposition\|批判性思维倾向]]量表匹配批判与创造思维测验的流畅性、灵活性与独创性三个指标。这些估计共享参与者或测量，统计上并不独立，这解释了三水平模型为何必要。（p. 4）
+> 29 项研究中的 51 个估计的嵌套来源分两类（p. 4）：一类是**同一参与者施测不同测量**，如 Gilbert (1961) 以沃森-格拉泽[[Critical Thinking Assessment\|批判性思维评价]]（[[Watson-Glaser Critical Thinking Appraisal\|WGCTA]]）分别匹配[[Alternate Uses Test\|非常规用途测验]]、吉尔福德联想流畅性与观念流畅性测验，贡献多个相关；另一类是**同一测量用于不同参与者**，如 Silva et al. (2023) 以同一[[Critical Thinking Disposition\|批判性思维倾向]]量表匹配批判与创造思维测验的流畅性、灵活性与独创性三个指标。这些估计共享参与者或测量，统计上并不独立，这解释了三水平模型为何必要。
 
 > [!warrant]- 推理桥梁
 > 三水平模型在统计上正确处理嵌套依赖（模型细节见上文效应量与统计模型一节），RVE 进一步保证标准误对依赖结构稳健，元回归与偏倚检验则分别回应哪些条件改变相关与结论是否被选择性发表扭曲两个问题，四项技术合起来系统回应了 Park et al. (2023) 的五点缺口。（pp. 4–5）

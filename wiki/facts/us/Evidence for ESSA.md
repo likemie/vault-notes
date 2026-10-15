@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Evidence for ESSA
@@ -128,7 +128,7 @@ updated: 2026-10-15
 > | **中等证据（Tier 2: Moderate Evidence）** | 至少 1 项高质量[[Quasi-Experimental Designs\|准实验设计]]（QED），具有良好基线等值性与统计控制，取得显著正向增益 | 匹配良好的准实验或高流失等值 RCT |
 > | **有前景证据（Tier 3: Promising Evidence）** | 具有合理理论假说并在控制选择偏差后展现正向统计关联的相关性或观察性研究 | 控制关键协[[Variable\|变量]]的大规模纵向回归研究 |
 
-> [!finding-cards] 多库审计视角下的 Evidence for ESSA 年级与[[Domain Specificity\|学科特异性]]问题（[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024]]）
+> [!finding-cards] 多库审计视角下的 Evidence for ESSA 年级与[[Domain Specificity\|学科特异性]]问题
 > [[Mark Ginsburg|金斯伯格]]等（[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024]]）对美国南方联合学区（SUD）2.88 亿美元《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）[[Title I of the Elementary and Secondary Education Act\|Title I]] 经费的跨库审计，将 Evidence for ESSA 列为 4 个核心公共证据库之一，与[[What Works Clearinghouse\|有效干预清算中心]]（WWC）、英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）及[[Education Resources Information Center\|教育资源信息中心]]（Education Resources Information Center，ERIC）并列，系统评估 129 项采购实践所对应的证据状态。审计结果揭示了该平台在实际运用中的两项结构性局限：
 >
 > - **年级与学科特异性的跨级降维推断** 部分学区援引 Evidence for ESSA 已评级的中学阶段研究，为小学阶段同类实践的采购提供证据支撑。然而 Evidence for ESSA 的评级结论与所依据研究的目标学段高度绑定，跨学段借用本质上构成对证据适用范围的扩张引用，在平台并未明确限制此类做法的情况下，仍可能导致证据与实践情境的系统性错配（[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024, pp. 170–171]]）。

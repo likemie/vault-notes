@@ -2641,7 +2641,17 @@ def citation_units(text: str) -> List[Tuple[str, int, str]]:
             i += 1
             while i < len(lines) and quote_line_re.match(lines[i]):
                 i += 1
-            units.append(("".join(lines[start:i]), offsets[start], "callout"))
+            # Inside a callout, each list item / table row / quoted paragraph is
+            # its own unit, matching how lists outside callouts are split.
+            sub_start = start
+            for j in range(start + 1, i):
+                inner = re.sub(r"^\s*(?:>\s?)+", "", lines[j])
+                if not inner.strip() or standalone_block_re.match(inner) or inner.startswith("**"):
+                    if sub_start < j:
+                        units.append(("".join(lines[sub_start:j]), offsets[sub_start], "callout"))
+                    sub_start = j
+            if sub_start < i:
+                units.append(("".join(lines[sub_start:i]), offsets[sub_start], "callout"))
             continue
 
         i += 1
@@ -2712,6 +2722,8 @@ def check_duplicate_citations(
 
         if data and data.get("type") == "argument":
             for match in PAGE_ONLY_REF_RE.finditer(without_links):
+                if on_table_row(match.start()):
+                    continue
                 display = match.group(1).strip()
                 locator = re.sub(r"\s+", "", display.lower())
                 locator = locator.strip("()（）").replace("，", ",").replace("–", "-")
