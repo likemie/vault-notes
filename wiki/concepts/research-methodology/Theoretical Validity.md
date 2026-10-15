@@ -59,7 +59,7 @@ updated: 2026-10-16
 ## 概念辨析
 
 > [!contrast-table] 理论效度 vs [[Construct Validity\|构念效度]]
-> | 维度 | 理论效度（Maxwell, 质性） | [[Construct Validity in Quantitative Measurement\|构念效度]]（Campbell & Fiske, 量化） |
+> | 维度 | 理论效度（Maxwell, 质性） | [[Construct Validity\|构念效度]]（Campbell & Fiske, 量化） |
 > |---|---|---|
 > | **[[Construct\|构念]]来源** | 研究者和被研究者**双方**的构念 | 研究者**预先定义**的构念，通过理论和文献确定 |
 > | **验证方式** | 理论在多大程度上解释了现象——通过参与者验证、[[Triangulation\|三角验证]]和[[Peer Debriefing\|同行汇报]]来增强 | 通过收敛和区分技术、因子分析等统计方法来检验 |

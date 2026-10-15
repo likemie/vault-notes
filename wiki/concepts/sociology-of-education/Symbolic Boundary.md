@@ -152,7 +152,7 @@ related_arguments:
 > |:---|:---|:---|:---|
 > | **微观习性与道德区隔** | 微观个体 / 大学[[Champ\|场域]] | 阶层习性转化为“淳朴 vs. 功利”的道德拒斥与自我标识[[Argument_Zheng_2023_ShanghaiSanlian\|(郑雅君, 2023)]] | [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] |
 > | **宏观课程与符号霸权** | 宏观制度 / 教科书场域 | 国家通过[[Official Knowledge\|官方知识]]自然化“中国文化=汉儒文化”边界[[Argument_Yu_2024_CE\|(Yu & Zhao, 2024)]] | [[Argument_Yu_2024_CE\|Yu and Zhao (2024)]] |
-> | **边界硬化与结构再生产** | 中观—宏观跨层 | 主观道德拒斥阻断文化资本传递，硬化为客观[[Social Boundary\|社会边界]] | Lamont & Molnár (2002) |
+> | **边界硬化与结构再生产** | 中观—宏观跨层 | 主观道德拒斥阻断文化资本传递，硬化为客观社会边界 | Lamont & Molnár (2002) |
 
 ---
 

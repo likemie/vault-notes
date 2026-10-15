@@ -51,7 +51,7 @@ updated: 2026-10-16
 ## 概念辨析
 
 > [!contrast-table] 内容效度 vs [[Construct Validity\|构念效度]] vs [[Face Validity\|表面效度]]
-> | 维度 | 内容效度 | [[Construct Validity in Quantitative Measurement\|构念效度]] | 表面效度 |
+> | 维度 | 内容效度 | [[Construct Validity\|构念效度]] | 表面效度 |
 > |---|---|---|---|
 > | **判断对象** | 项目是否充分覆盖内容领域 | 项目是否测量了正确的抽象[[Construct\|构念]] | 项目是否**看起来**测量了它声称测量的东西 |
 > | **判断方式** | [[Professional Judgment\|专业判断]]（内容专家审查） | 理论推演 + 经验数据（因子分析、收敛/[[Convergent and Discriminant Validity\|区分效度]]） | 非专家的表面直觉 |

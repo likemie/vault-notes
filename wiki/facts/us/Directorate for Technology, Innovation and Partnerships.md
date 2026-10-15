@@ -183,7 +183,7 @@ updated: 2026-10-16
 > | [[National Semiconductor Technology Center]] | Fact (Organization) | 依据《芯片法案》设立的微电子中试转化平台，与 TIP 形成国家创新链协同。 |
 > | [[Focused Research Organization]] | Concept | TIP X 实验室在联邦层面直接借鉴并资助的中等规模工程攻坚组织形态。 |
 > | [[Pull Mechanisms for Innovation]] | Concept | TIP 与[[Metascience\|元科学]]学者合作试验的非共识资助、金券机制与[[Grand Challenges\|重大挑战]]赛工具。 |
-> | [[Public-Private Partnership in Research]] | Concept | TIP 理事会开展战略技术攻坚与资金杠杆放大的核心机制工具。 |
+> | [[Public-Private Partnership\|Public-Private Partnership in Research]] | Concept | TIP 理事会开展战略技术攻坚与资金杠杆放大的核心机制工具。 |
 > | [[Research Translation]] | Concept | TIP 理事会设立的法定核心宗旨与终极业务指向。 |
 > | [[Innovation Ecosystem]] | Concept | TIP [[NSF Regional Innovation Engines\|区域创新引擎]]计划旨在培育与重构的全美区域创新生态载体。 |
 > | [[Academic Engagement Team]] | Concept | 工业界 AET 实践者借力政府资金放大合作规模的核心政策对接界面。 |

@@ -138,7 +138,7 @@ updated: 2026-10-16
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Public-Private Partnership in Research]] | Concept | FFRDC 作为战后 GOCO 机制的原型，与当代半导体新型 PPP（如 Natcast/[[National Science and Technology Council\|NSTC]]）形成代际演进对照。 |
+> | [[Public-Private Partnership\|Public-Private Partnership in Research]] | Concept | FFRDC 作为战后 GOCO 机制的原型，与当代半导体新型 PPP（如 Natcast/[[National Science and Technology Council\|NSTC]]）形成代际演进对照。 |
 > | [[Office of Scientific Research and Development]] | Fact (Organization) | 二战期间首创委托大学管理战时秘密研发合同的原型机构。 |
 > | [[President's Science Advisory Committee]] | Fact (Organization) | 深度参与冷战国家实验室战略布局与[[Big Science\|大科学]]设施投资评估的最高咨询委员会。 |
 > | [[National Semiconductor Technology Center]] | Fact (Organization) | 《[[CHIPS and Science Act\|芯片与科学法案]]》下设立的国家半导体研发中枢；在治理模式论证中借鉴并超越了传统 FFRDC 机制。 |

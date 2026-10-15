@@ -97,7 +97,7 @@ updated: 2026-10-16
 > | 维度 | 内生私有化（Endogenous Privatisation） | 外生私有化（Exogenous Privatisation） |
 > |---|---|---|
 > | **核心指向** | 在公立学校内部“像企业一样运营”（in public education） | 将私营资本引入公立学校提供服务（of public education） |
-> | **操作工具** | [[New Public Management\|NPM]] 技术、绩效考评、以考代评、使用者自费（User Fees） | 合同承包、特许学校（Charter Schools）、公私伙伴关系（[[Public-Private Partnership in Research\|PPP]]）、测试版权出售 |
+> | **操作工具** | [[New Public Management\|NPM]] 技术、绩效考评、以考代评、使用者自费（User Fees） | 合同承包、特许学校（Charter Schools）、公私伙伴关系（[[Public-Private Partnership\|PPP]]）、测试版权出售 |
 > | **责任主体** | 公立学校行政管理人员与受薪教师承担企业化自负盈亏责任 | 私营服务商、跨国出版集团、慈善信托或外包公司通过商业契约履约 |
 > | **财政机制** | 缩减公共拨款，推动生均拨付竞争与服务自费化 | 国家财政向私营承包商支付项目采购款或特许办学补贴 |
 > | **深层影响** | [[Disciplina and Doctrina\|规训]]教师劳动、重塑教育为私人[[Human Capital Theory\|人力资本]]投资品 | 侵蚀教育主权、模糊公共政策制定与商业利益之间的监管边界 |
@@ -212,7 +212,7 @@ updated: 2026-10-16
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016, p. 8)]] | 新西兰基础教育系统，2008–2016 年政策演化期 | 政策文本与政商网络[[Cohort Study\|追踪研究]] | 典型外生私有化与公私伙伴项目覆盖范围 | 记录 9 项重大私有化实例（含特许学校、[[Public-Private Partnership in Research\|PPP]] 学校基础设施合同、[[Assessment Tools for Teaching and Learning\|asTTle]] 评价商业化及 PLD 认证外包） | — | 实证展示外生私有化如何从周边非核心服务迅速渗透至核心课程评估与校舍产权 |
+> | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016, p. 8)]] | 新西兰基础教育系统，2008–2016 年政策演化期 | 政策文本与政商网络[[Cohort Study\|追踪研究]] | 典型外生私有化与公私伙伴项目覆盖范围 | 记录 9 项重大私有化实例（含特许学校、[[Public-Private Partnership\|PPP]] 学校基础设施合同、[[Assessment Tools for Teaching and Learning\|asTTle]] 评价商业化及 PLD 认证外包） | — | 实证展示外生私有化如何从周边非核心服务迅速渗透至核心课程评估与校舍产权 |
 > | [[Argument_Rizvi_2022_Springer\|Rizvi (2022, p. 97)]] | 澳大利亚高等教育系统，1990–2020 年代国际化扩张期 | 宏观政治经济案例分析 | 国际留学生学费收入占大学整体运营预算比重 | 国际学生学费收入跃升为诸多顶尖公立大学的最大单项收入来源，替代经常性公共财政拨款 | — | 解释外部生源市场依赖如何直接倒逼内部行政架构全面转向[[New Public Management\|新公共管理]]企业化运营 |
 > | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009, pp. 83–84)]] | 拉丁美洲发展中国家，1980–2000 年代新自由主义[[Structural Adjustment Programs\|结构调整]]期 | 区域宏观历史政策分析 | 公共教育预算缩减与使用者自费（User Fees）推广程度 | 普遍推行教育服务成本向家庭转嫁的使用者收费政策，大幅核减公立学校经常性投资并推行行政分权 | — | 证明外围国家在新自由主义[[Disciplina and Doctrina\|规训]]下将教育私有化作为转嫁国家合法性危机与财政债务的核心手段 |
 
@@ -225,7 +225,7 @@ updated: 2026-10-16
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[New Public Management]] | 概念 | 内生私有化的核心管理学工具，通过产出控制与量化[[Performance Indicators\|绩效指标]]重塑公立学校内部运作。 |
-> | [[Public-Private Partnership in Research]] | 概念 | 外生私有化的典型制度形态，通过商业特许、合同外包与公私共建转移公共服务供给。 |
+> | [[Public-Private Partnership\|Public-Private Partnership in Research]] | 概念 | 外生私有化的典型制度形态，通过商业特许、合同外包与公私共建转移公共服务供给。 |
 > | [[Policy Entrepreneur]] | 概念 | 在跨国[[Policy Network\|政策网络]]中游说并兜售教育私有化、绩效化方案的商业与慈善代理人。 |
 > | [[Network Governance]] | 概念 | 刻画伴随私有化进程而兴起的跨越公私边界、规避民主审议的多中心治理形态。 |
 > | [[Conditioned State Theory]] | 理论 | 阐明第三世界受限国家如何在外债与国际金融组织压力下，将教育私有化作为削减公共赤字的核心工具。 |

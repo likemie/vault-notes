@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Best Evidence Encyclopedia
@@ -199,6 +199,6 @@ updated: 2026-10-15
 > | [[Educational Evidence Clearinghouses]] | 核心概念 | BEE 是大学学术研究团队主导的教育专精清算中心典型代表。 |
 > | [[Robert Slavin]] | 关键人物 | BEE 的创立者与学术灵魂，[[Best Evidence Synthesis\|最佳证据综合]]法（BES）提出者。 |
 > | [[Evidence-Based Education]] | 政策[[Paradigm\|范式]] | BEE 将[[Meta-analysis\|元分析]]量化综合深度融入循证教育评价体系。 |
-> | [[ESSA 2015 Evidence Standards]] | 政策依托 | BEE 准则直接孵化了新一代 [[Evidence for ESSA]] 决策支持平台。 |
+> | [[Every Student Succeeds Act\|ESSA 2015 Evidence Standards]] | 政策依托 | BEE 准则直接孵化了新一代 [[Evidence for ESSA]] 决策支持平台。 |
 > | [[Success for All]] | 干预项目 | BEE 创立团队研发的旗舰全校综合改革方案。 |
 > | [[What Works Clearinghouse]] | 机构事实 | 联邦官方清算机构，与 BEE 构成学术互补与标准印证关系。 |

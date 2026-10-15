@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Industrial District
@@ -121,7 +121,7 @@ updated: 2026-10-15
 > [!contrast-table] 产业区核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **微观外溢机制论** | [[Tacit Knowledge\|隐性知识]]与信任资本依托地理邻近性形成不可替代的集聚经济 | 地方专业化制造集聚、高技术孵化生态 | [[Alfred Marshall\|Marshall, A.]]; Piore, M. & Sabel, C. |
+> | **微观外溢机制论** | [[Tacit Knowledge\|隐性知识]]与信任资本依托地理邻近性形成不可替代的集聚经济 | 地方专业化制造集聚、高技术孵化生态 | Marshall, A.; Piore, M. & Sabel, C. |
 > | **国家多层共生论** | 下层区域集聚与宏观国家创新系统互为表里，不可偏废 | 全球化与区域化重构分析、[[National Competitive Advantage\|国家竞争优势]]论 | [[Chris Freeman\|Freeman, C.]]; [[Michael Porter\|Porter, M.]] |
 
 ---

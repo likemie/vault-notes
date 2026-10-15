@@ -73,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-10
+updated: 2026-10-16
 ---
 
 # National Strategy on Microelectronics Research
@@ -154,7 +154,7 @@ updated: 2026-10-10
 > | **商务部（DOC / NSTC / NAPMP）** | [[CHIPS and Science Act\|芯片法案]]重大专项预算 / 300mm中试线 | 构建国家级共性中试线与先进封装体系，支撑商业量产 | 坚定支持 | 设立中试技术中心、推广开放式 ADK/[[Process Design Kit\|PDK]] |
 > | **国防部（DOD / [[DARPA]]）** | 国防采购预算 / 敏捷试验枢纽 | 确保国防特种芯片快速流片与全生命周期硬件可信安全 | 坚定支持 | 运营 8 大共用体枢纽、实施 T&AM 计划 |
 > | **[[Research Universities\|研究型大学]]与初创企业** | 原始前沿创新 / 敏捷原型构想 | 降低掩膜流片与洁净室准入门槛，保留知识产权 | 积极参与 | 接入 [[National Nanotechnology Coordinated Infrastructure\|NNCI]] 网络、申请 MPW 补贴、联合创业 |
-> | **商业晶圆代工厂（Foundry / OSAT）** | 商业制造产能 / 工业工艺基线 | 规避非成熟原型对商业产线的干扰，获取成熟技术与人才 | 战略合作 | 参与公私合作（[[Public-Private Partnership in Research\|PPP]]）、承接 [[Technology Readiness Level\|TRL]] 8–9 量产转化 |
+> | **商业晶圆代工厂（Foundry / OSAT）** | 商业制造产能 / 工业工艺基线 | 规避非成熟原型对商业产线的干扰，获取成熟技术与人才 | 战略合作 | 参与公私合作（[[Public-Private Partnership\|PPP]]）、承接 [[Technology Readiness Level\|TRL]] 8–9 量产转化 |
 
 ---
 

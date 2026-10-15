@@ -197,7 +197,7 @@ updated: 2026-10-16
 > | [[Semiconductor Research Corporation]] | Fact (Organization) | 第二代行业前竞争联盟标杆，与作为第三代法定中心的 NSTC 形成分层互补协作。 |
 > | [[Universal Parallel Computing Research Centers]] | Fact (Organization) | 第一代企业战略倡议典范，开创了后续国家级半导体产学协同的先河。 |
 > | [[Modern Industrial Policy]] | Concept | NSTC 作为 21 世纪美国现代产业战略在科技研发与创新治理中的旗舰制度载体。 |
-> | [[Public-Private Partnership in Research]] | Concept | NSTC 作为美国历史上规模最大的研究型公私合作平台所体现的核心[[Construct\|构念]]。 |
+> | [[Public-Private Partnership\|Public-Private Partnership in Research]] | Concept | NSTC 作为美国历史上规模最大的研究型公私合作平台所体现的核心[[Construct\|构念]]。 |
 > | [[National Science Foundation]] | Fact (Organization) | 与商务部、国防部共同指导 NSTC，并设立 [[Directorate for Technology, Innovation and Partnerships\|TIP]] 理事会协同转化的联邦机构。 |
 > | [[Taiwan Semiconductor Manufacturing Corporation]] | Fact (Organization) | 加入 NSTC 产业生态合作并获得《芯片法案》补贴在美设厂的全球代工巨头。 |
 > | [[Academic Engagement Team]] | Concept | NSTC 作为产业界 AET 实践者重新审视与布局大学合作的“强制函数”。 |

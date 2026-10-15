@@ -19,6 +19,7 @@ if VENV_PYTHON.exists() and Path(sys.executable).resolve() != VENV_PYTHON.resolv
 import argparse
 import json
 import re
+import unicodedata
 from typing import Any
 
 ROOT = VAULT_ROOT
@@ -301,10 +302,13 @@ def collect_entries() -> list[dict[str, Any]]:
 
         text = path.read_text(encoding="utf-8", errors="ignore")
         fm = extract_frontmatter(text)
+        # APFS hands back NFD names (e.g. "Håkansson"), while titles typed in
+        # links are NFC. Index NFC forms so titles, paths and folder groups match.
+        path = Path(unicodedata.normalize("NFC", str(path)))
 
         typ = str(fm.get("type") or infer_type_from_path(path)).strip()
         entry = {
-            "title": str(fm.get("title") or path.stem).strip(),
+            "title": unicodedata.normalize("NFC", str(fm.get("title") or path.stem).strip()),
             "type": typ,
             "subtype": str(fm.get("subtype") or "").strip(),
             "second_level": second_level_from_path(path, typ),

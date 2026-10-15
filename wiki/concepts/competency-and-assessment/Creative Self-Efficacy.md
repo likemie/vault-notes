@@ -113,7 +113,7 @@ updated: 2026-10-16
 ## 概念辨析
 
 > [!contrast-table] [[Creativity\|创造性]]自我信念四维[[Construct\|构念]]谱系辨析
-> | 维度 | [[Creativity\|创造性]][[Self-Efficacy\|自我效能感]]（CSE） | 一般自我效能感（General Self-Efficacy） | 创造性自我概念（Creative Self-Concept） | 创造性思维倾向（Creative [[Entity vs Incremental Intelligence\|growth mindset]]） |
+> | 维度 | [[Creativity\|创造性]][[Self-Efficacy\|自我效能感]]（CSE） | 一般自我效能感（General Self-Efficacy） | 创造性自我概念（Creative Self-Concept） | 创造性思维倾向（Creative [[Growth Mindset\|growth mindset]]） |
 > |---|---|---|---|---|
 > | **[[Construct\|构念]]范畴** | [[Domain Specificity\|领域特异性]]行动能力信念（Task-Specific Belief） | 泛化特质性应对信念（Generalized Trait） | 综合自我身份认同（Self-Identity） | 创造力本体可塑性内隐理论（Implicit Theory） |
 > | **核心指向** | “我是否有能力在当前任务中产出新颖且适切的创新方案” | “我是否有能力应对一般的学业与生活挑战” | “我在多大程度上将自己定义为一个有创造力的人” | “人类的创造能力是固定不变的还是可以通过后天培养的” |

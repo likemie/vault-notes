@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Accelerating Medicines Partnership
@@ -102,7 +102,7 @@ updated: 2026-10-07
 > |:-----|:-----|:-----------|
 > | [[National Institutes of Health]] | Fact (Organization) | 发起并深度参与 AMP 计划的联邦生物医学旗舰资助中枢。 |
 > | [[Office of Science and Technology Policy]] | Fact (Organization) | 白宫科技决策机构，在 2026 战略报告中将 AMP 树立为公私伙伴合作典范。 |
-> | [[Public-Private Partnership in Research]] | Concept | AMP 所隶属的研究型[[Public-Private Partnership\|公私伙伴关系]]（PPP）理论与制度构型。 |
+> | [[Public-Private Partnership\|Public-Private Partnership in Research]] | Concept | AMP 所隶属的研究型[[Public-Private Partnership\|公私伙伴关系]]（PPP）理论与制度构型。 |
 > | [[Clinical Trial]] | Concept | AMP 前竞争靶点验证所对接与赋能的下游人体临床试验开发阶段。 |
 > | [[Translational Research]] | Concept | AMP 致力于加速的从实验室基础发现向临床治疗方案跨越的转化[[Paradigm\|研究范式]]。 |
 > | [[Michael Kratsios]] | Person | 白宫科技政策办公室主任，系统总结 AMP 制度经验并推动在全美推广。 |

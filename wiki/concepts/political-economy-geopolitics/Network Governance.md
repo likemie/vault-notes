@@ -153,7 +153,7 @@ updated: 2026-10-16
 > | **现代国家角色** | 市场缔造者、元治理催化者、制度担保人与跨界经纪人 | 独家公共服务提供者、中心化资助者与直接监管者 | 维护产权与交易秩序的“守夜人”，最小化国家 |
 > | **合法性诉求基础** | 跨部门协商共识、技术量规有效性与社会影响力产出 | 代议制民主普选授权、程序合规性与非人格性 | 消费者自由选择主权与资源配置的帕累托最优 |
 > | **典型失灵形态** | 民主问责赤字、利益合谋、封闭精英俘获与去能力化外包 | 官僚主义僵化、供给效率低下、反应迟缓与部门割裂 | [[Market Failure\|市场失灵]]、教育商品化排斥、劣汰不公与极化分化 |
-> | **核心制度载体** | 公私合作协议（[[Public-Private Partnership in Research\|PPP]]）、担保有限公司章程、特许免税资质 | 议会行政法规、教育部部长令、公立编制与行政督导 | 竞争性代金券（Vouchers）、私立营利学校契约、学费发票 |
+> | **核心制度载体** | 公私合作协议（[[Public-Private Partnership\|PPP]]）、担保有限公司章程、特许免税资质 | 议会行政法规、教育部部长令、公立编制与行政督导 | 竞争性代金券（Vouchers）、私立营利学校契约、学费发票 |
 
 ---
 
@@ -297,7 +297,7 @@ updated: 2026-10-16
 > | **咨询联合体竞标** | **Te Toi Tupu 领导力网络 (2009)** | 政府将高校整笔资助改为竞争性合同，由 [[Cognition Education]]、NZCER 等联合中标 | 促成跨国商业咨询公司与大学联合注册 PLD 行业协会，确立商业服务标准 |
 > | **跨国特许教师计划** | **[[Teach First New Zealand]] (TFNZ 2011)** | 纽约 [[Teach Classroom Observation Tool\|Teach]] for All、奥克兰大学、教育部与美资 Robertson 对冲基金会三方合作 | 将英美基于就业的两年制短期师资培养模式植入本土，对接特许学校需求 |
 > | **公费私立[[Partnership Schools Kura Hourua\|伙伴学校]]** | **[[Partnership Schools Kura Hourua]] (PSKH)** | 政府设立授权委员会，批准营利或非营利私营实体运营公费私立特许学校 | 设立慈善支持实体 E Tipu E Rea 承接政府资助，使私营办学获得公法特许 |
-> | **基建融资外包** | **[[Public-Private Partnership in Research\|PPP]] 学校建设合同** | 联邦将学校基建授予 Learning Infrastructure Partners 及 Future School Partners 财团 | 引入私营财团承担全生命周期维护，政府以长期租赁租金锁定财政承诺 |
+> | **基建融资外包** | **[[Public-Private Partnership\|PPP]] 学校建设合同** | 联邦将学校基建授予 Learning Infrastructure Partners 及 Future School Partners 财团 | 引入私营财团承担全生命周期维护，政府以长期租赁租金锁定财政承诺 |
 > | **企业社会责任扩容** | **KickStart Breakfast 校园早餐** | 整合 Sanitarium（食品）与 Fonterra（恒天然乳业）的企业社会责任网络 | 政府与商业财团各半配资并引入慈善组织 Kidscan，以网络慈善替代法定公共福利 |
 > | **社会部族网络张力** | **部族与网络关系机制** | Māori iwi、rūnanga 当局与 Pasifika 宗教领袖以“部族”（Clan）形态深度参与治理 | 弱势群体通过更具企业家精神的自发网络打破僵化科层，但面临系统性资源分化 |
 
@@ -360,7 +360,7 @@ updated: 2026-10-16
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无[[Effect Size\|效应量]]） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Rambla_2022_Springer\|Rambla (2022)]] | 欧盟 16 个地区 168 名[[Lifelong Learning\|终身学习]]政策制定者与专家 | 跨国质性比较研究、[[Semi-structured Interview\|半结构化访谈]]与[[Documentary Analysis\|文献分析]] | 治理形态分类（官僚/网络/市场）；指标采纳模式 | 证实 16 个地区均呈现官僚与网络混合构型；纯自由市场治理占比接近 0%；EUROSTAT 区域[[Performance Indicators\|绩效指标]]被所有地区作为核心参考基准 | — | 证明欧洲网络治理并不等于完全私有化，而是受制于历史制度[[Path Dependence\|路径依赖]]的多层杂合体 |
-> | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] | 新西兰基础教育系统（2001–2016 年 9 项关键公私改革实践与法律文本） | 政策文本[[Discourse Analysis\|话语分析]]与历时制度追踪 | 私营部门参与度；政策核心词频演变；[[Public-Private Partnership in Research\|PPP]] 合同规模 | 记录 9 项核心公私合作实例；国家政策文本全面剔除“国家资助与提供”，全面转为“国家补贴”与“[[Social Impact Investing\|社会投资]]”；涉及数亿美元的 PPP 与采购合同转包 | — | 系统论证网络治理如何通过修辞重构与制度突破，将私营资本财产权植入公共教育 |
+> | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] | 新西兰基础教育系统（2001–2016 年 9 项关键公私改革实践与法律文本） | 政策文本[[Discourse Analysis\|话语分析]]与历时制度追踪 | 私营部门参与度；政策核心词频演变；[[Public-Private Partnership\|PPP]] 合同规模 | 记录 9 项核心公私合作实例；国家政策文本全面剔除“国家资助与提供”，全面转为“国家补贴”与“[[Social Impact Investing\|社会投资]]”；涉及数亿美元的 PPP 与采购合同转包 | — | 系统论证网络治理如何通过修辞重构与制度突破，将私营资本财产权植入公共教育 |
 > | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | 澳大利亚公立教育[[Policy Network\|政策网络]]与[[Venture Philanthropy\|风险慈善]]中介（SVA 辐射 20 年网络，2002–2021） | 监管档案调档、税法修正案追踪与 Gephi 拓扑分析 | 咨询外包公共支出；组织四层控股架构；法定特许审批 | 联邦管理咨询公共支出居全球首位（人均）；揭示 4 层控股网络；通过《1997年所得税评估法》修正特许 [[Deductible Gift Recipient\|DGR1]] 免税资质；撬动 5000 万澳元政府联合注资 | — | 确证国家在网络治理中演进为异层市场缔造者与制度担保人，推翻国家单纯空心化假说 |
 > | [[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987)]] | [[United World Colleges\|联合世界书院]]（UWC）跨国分层治理体系（1962–1987 历史档案） | 历史制度主义[[Case Study\|案例研究]]与长程[[Process Tracing\|过程追踪]] | 治理节点协同度；跨国奖学金与资金分担比重 | 跨国网络涵盖数十个国家选拔委员会与多所独立自治书院，通过分层协议实现无中心科层的跨国持续协调 | — | 展现网络治理在跨国教育自治共同体中兼顾文化多样性与核心使命统一性的制度有效性 |
 > | [[Argument_Fuchs_2010_RP\|Fuchs (2010)]] | [[DARPA]] 微系统技术办公室 1992–2008 年资助的 4 项半导体关键材料技术（50 场深度访谈、专利履历比对与田野观察） | 纵向[[Grounded Theory\|扎根理论]]案例研究与[[Triangulation\|三角互证]]法 | 资助模式；主承包商结构；项目经理 5 项微观治理机制 | 证实 2001 年后采办主承包商由大学转向老牌企业，引入硬性里程碑；但 PM 识别方向、播撒主题、工作坊强制知识流动、第三方背书与断乳等 5 项治理机制跨越两任领导期稳定延续 | — | 揭示[[Embedded Network Governance\|嵌入型网络治理]]在应对纵向碎片化高科技产业中的制度连续性与网络重塑功能 |

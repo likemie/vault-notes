@@ -152,7 +152,7 @@ updated: 2026-10-16
 
 真实验（true experiment）、准实验（quasi-experiment）、[[ABAB Design|单一案研究]]、[[Design-Based Research|设计研究]]和[[Internet-Based Experiments|网络实验]]五类方法的逻辑、设计类型和效度考量，在第15章[[Ex Post Facto Research|事后回溯研究]]之后展开。核心主题是[[Causality|因果推断]]，每种设计都在不同程度上回应如何排除替代解释以建立因果关系这一问题（pp. 311–342）。
 
-作为研究设计选型的参考手册：先明确[[Random Assignment|随机化]]的可行性，再根据是否有对照组、是否有[[Pre-test and Post-test|前测]]、是否操纵多个自[[Variable|变量]]等条件选择对应的设计类型。同时可结合因果关系（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|第4章]]）、效度（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|第10章]]）、事后回溯研究（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15|第15章]]）、[[Effect Size|效应量]]与[[Statistical Significance|统计显著性]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|第17章]]）、[[t-test|t检验]]与[[Analysis of Variance|方差分析]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch36|第36章]]）。
+作为研究设计选型的参考手册：先明确[[Random Assignment|随机化]]的可行性，再根据是否有对照组、是否有[[Pre-test and Post-test|前测]]、是否操纵多个自[[Variable|变量]]等条件选择对应的设计类型。同时可结合因果关系（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04|第4章]]）、效度（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|第10章]]）、事后回溯研究（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15|第15章]]）、[[Effect Size|效应量]]与[[Statistical Significance|统计显著性]]（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|第17章]]）、[[t-test|t检验]]与[[Analysis of Variance|方差分析]]（第36章）。
 
 ---
 
@@ -252,7 +252,7 @@ Holland (1986, p. 947) 建议通过**随机化和平均效应的测量**来统�
 > 将参与者[[Random Assignment\|随机分配]]至控制组或实验组，通过随机化使两组在所有已知和未知变量上等价。
 
 > [!def] 含义二：变量隔离与控制意义上的控制
-> 分两个阶段运作：(1) **实验设计与实施阶段**，保持自变量恒定（两组接受相同量的自变量），使实验组的任何变化只能归因于干预；(2) **事后回溯研究中的数据分析阶段**，通过统计手段（如偏相关和交叉表）控制变量的相对效应（详见[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|第4章]]和[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch35\|第35章]]）。
+> 分两个阶段运作：(1) **实验设计与实施阶段**，保持自变量恒定（两组接受相同量的自变量），使实验组的任何变化只能归因于干预；(2) **事后回溯研究中的数据分析阶段**，通过统计手段（如偏相关和交叉表）控制变量的相对效应（详见[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|第4章]]和第35章）。
 
 在事后回溯实验（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15|第15章]]）中，无法在实验前或实验中控制变量，因为数据在实验开始前就已存在，控制只能施加在数据分析阶段（p. 315）。
 

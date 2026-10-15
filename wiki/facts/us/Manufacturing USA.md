@@ -165,7 +165,7 @@ updated: 2026-10-16
 > |:-----|:-----|:-----|
 > | [[Research and Technology Organisation]] | Concept | Manufacturing USA 是国际科技政策界认定的美国版 RTO 典型代表。 |
 > | [[Fraunhofer Society Model]] | Fact (Organization) | 德国应用技术中试转化的世界级范本，Manufacturing USA 在政策设计上的直接国际参照。 |
-> | [[Public-Private Partnership in Research]] | Concept | 支撑 Manufacturing USA 运作的核心制度架构，通过 1:1 匹配共担中试研发风险。 |
+> | [[Public-Private Partnership\|Public-Private Partnership in Research]] | Concept | 支撑 Manufacturing USA 运作的核心制度架构，通过 1:1 匹配共担中试研发风险。 |
 > | [[National Semiconductor Technology Center]] | Fact (Organization) | 《[[CHIPS and Science Act\|芯片与科学法案]]》下设立的国家研发枢纽，与 Manufacturing USA 新设半导体研究所深度协同。 |
 > | [[National Advanced Packaging Manufacturing Program]] | Fact (Program) | 先进封装制造计划，与 Manufacturing USA 芯片数字孪生研究所共同构成制造中试支柱。 |
 > | [[Semiconductor Research Corporation]] | Fact (Organization) | 联合开展前竞争微电子共性技术研发，与 Manufacturing USA 形成从大学探索到中试制造的分工协作。 |

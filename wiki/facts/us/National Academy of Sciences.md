@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # National Academy of Sciences
@@ -129,7 +129,7 @@ updated: 2026-10-15
 > |:-----|:-----|:-----|
 > | [[National Research Council]] | Fact (Organization) | NAS 设立的专职操作与政策咨询研究执行实体。 |
 > | [[University Industry Demonstration Partnership]] | Fact (Organization) | 依托 NAS 旗下的政府-大学-行业研究圆桌会议（GUIRR）孕育孵化并最终独立运作的全国性产学协同枢纽。 |
-> | [[Public-Private Partnership in Research]] | Concept | NAS 积极倡导并在《国家科学现状演讲》中重点推广的应对大国科技竞争核心制度机制。 |
+> | [[Public-Private Partnership\|Public-Private Partnership in Research]] | Concept | NAS 积极倡导并在《国家科学现状演讲》中重点推广的应对大国科技竞争核心制度机制。 |
 > | [[DARPA]] | Fact (Organization) | 美国国防高级研究计划局；NAS/NRC 长期对其资助战略与技术路线进行独立权威评估。 |
 > | [[National Science Foundation]] | Fact (Organization) | 由布什等 NAS 领袖推动设立的联邦基础科学资助旗舰机构。 |
 > | [[CHIPS and Science Act]] | Fact (Policy) | 呼应 NAS 倡议，通过[[National Semiconductor Technology Center\|国家半导体技术中心]]等新型法定机构推进产学研协同的国家立法。 |

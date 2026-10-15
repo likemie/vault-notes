@@ -111,7 +111,7 @@ publisher: "U.S. Department of Commerce"
 > |---|---|
 > | **中试验证平台<br>[[Pilot Scale Platform]]** | 阐释介于大学实验室原理突破（[[Technology Readiness Level\|技术就绪度]]，Technology Readiness Level, TRL 1–3）与工业规模化量产（TRL 8–9）之间的共享中试试验线如何消除工艺放大风险并跨越[[Valley of Death\|死亡之谷]]。（pp. 6–10） |
 > | **现代产业政策<br>[[Modern Industrial Policy]]** | 解释国家如何通过战略性公共资本注入、共性研发平台搭建与[[Policy Conditionalities\|制度化附加条件]]，引导私营部门与大学开展前竞争协同。（pp. 2–5, 8–11） |
-> | **研发公私伙伴关系<br>[[Public-Private Partnership in Research]]** | 剖析联邦部委监管、独立非营利运营商（[[Natcast]]）与多层级产业会员在风险共担与知识产权共享中的治理机制。（pp. 21–23） |
+> | **研发公私伙伴关系<br>[[Public-Private Partnership\|Public-Private Partnership in Research]]** | 剖析联邦部委监管、独立非营利运营商（[[Natcast]]）与多层级产业会员在风险共担与知识产权共享中的治理机制。（pp. 21–23） |
 > | **劳动力发展体系<br>[[Workforce Development]]** | 解析从 K-12 阶段[[STEM Education\|科学、技术、工程与数学]]（Science, Technology, Engineering, and Mathematics, STEM）启蒙、社区学院技术员证书、大学洁净室实战到博士生奖学金的全谱系技能开发模型。（pp. 18–19） |
 
 > [!warrant]- 理论如何支撑论证

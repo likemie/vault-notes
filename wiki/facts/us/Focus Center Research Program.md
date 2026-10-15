@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Focus Center Research Program
@@ -182,7 +182,7 @@ updated: 2026-10-15
 > | [[Sematech]] | Fact (Organization) | FCRP 的产业发起方与主要出资联盟之一。 |
 > | [[DARPA]] | Fact (Organization) | FCRP 的联邦政府核心发起与配比资助机构。 |
 > | [[Precompetitive Research]] | Concept | FCRP 划定[[University-Industry Collaboration\|产学合作]]边界与保障成果公开共享的核心制度概念。 |
-> | [[Public-Private Partnership in Research]] | Concept | FCRP 作为政府、行业联盟与大学三螺旋合作所依托的制度[[Paradigm\|范式]]。 |
+> | [[Public-Private Partnership\|Public-Private Partnership in Research]] | Concept | FCRP 作为政府、行业联盟与大学三螺旋合作所依托的制度[[Paradigm\|范式]]。 |
 > | [[Research Universities]] | Concept | FCRP 计划的具体承接载体与前沿科研创新策源地。 |
 > | [[CHIPS and Science Act]] | Fact (Policy) | 2022 年在国家层面全面吸收并扩展 FCRP 产学协同模式的重大法案。 |
 > | [[David C. Mowery]] | Person | 系统评估 FCRP 与半导体长周期基础科研脆弱性的科技政策学者。 |

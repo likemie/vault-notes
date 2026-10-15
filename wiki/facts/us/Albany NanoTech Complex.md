@@ -137,7 +137,7 @@ updated: 2026-10-16
 > | [[Technology Readiness Level]] | Concept | Albany NanoTech 衡量技术由实验室原型向工程放大跃升的度量标准。 |
 > | [[Valley of Death]] | Concept | Albany NanoTech 设立所致力消解的从大学科学发现到工业量产间的断裂地带。 |
 > | [[Research Universities]] | Concept | Albany NanoTech 依托 SUNY Poly 与全美研究型大学构建的知识策源底座。 |
-> | [[Public-Private Partnership in Research]] | Concept | Albany NanoTech 汇聚纽约州政府、联邦基金与跨国芯片企业联合出资的制度[[Paradigm\|范式]]。 |
+> | [[Public-Private Partnership\|Public-Private Partnership in Research]] | Concept | Albany NanoTech 汇聚纽约州政府、联邦基金与跨国芯片企业联合出资的制度[[Paradigm\|范式]]。 |
 > | [[CHIPS and Science Act]] | Fact (Policy) | 为 Albany NanoTech 注入国家级战略使命与扩建资助的联邦顶层立法。 |
 > | [[National Semiconductor Technology Center]] | Fact (Organization) | 联邦《芯片法案》下设立的国家半导体技术中心，Albany NanoTech 为其关键依托平台。 |
 > | [[Argument_Zhuo_2026_ICE\|卓泽林 (2026)]] | Argument | 将 Albany NanoTech 作为大学中试平台打通制造转化断层标杆案例的实证文献。 |

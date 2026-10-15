@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-03
-updated: 2026-10-10
+updated: 2026-10-16
 ---
 
 # Universal Parallel Computing Research Centers
@@ -169,7 +169,7 @@ updated: 2026-10-10
 > | [[University-Industry Collaboration]] | Concept | UPCRC 展现的企业联合前竞争性产学合作最高演进形态。 |
 > | [[Academic Engagement Team]] | Concept | 深度记录了推动 UPCRC 立项的英特尔 AET 内部科研治理变革与预算重组。 |
 > | [[Research Translation]] | Concept | UPCRC 实践了从基础研究突破到全球教育大纲普及与开源基础设施沉淀的生态系统转化路径。 |
-> | [[Public-Private Partnership in Research]] | Concept | UPCRC 成为半导体产业由企业战略倡议向行业前竞争联盟及法定[[Innovation Hub\|创新中心]]演进的第一代典型代表。 |
+> | [[Public-Private Partnership\|Public-Private Partnership in Research]] | Concept | UPCRC 成为半导体产业由企业战略倡议向行业前竞争联盟及法定[[Innovation Hub\|创新中心]]演进的第一代典型代表。 |
 > | [[Paradigm]] | Concept | 摩尔定律与 Dennard 缩放定律终结所驱动的计算机体系结构范式转换。 |
 > | [[National Science Foundation]] | Fact (Organization) | 启动 XPS 专项接力并规模化放大 UPCRC 探索成果的联邦科研资助中枢。 |
 > | [[CHIPS and Science Act]] | Fact (Policy) | 2022 年法案推动设立的[[National Semiconductor Technology Center\|国家半导体技术中心]]延续并制度化了 UPCRC 所开拓的公私协同路线。 |

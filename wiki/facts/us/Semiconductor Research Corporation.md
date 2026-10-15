@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-04
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Semiconductor Research Corporation
@@ -204,7 +204,7 @@ updated: 2026-10-15
 > | [[Membership-based Research Consortium]] | Concept | SRC 作为行业级全域多轨道矩阵研发联合体的典型组织载体概念。 |
 > | [[Microelectronics and Computer Technology Corporation]] | Fact (Organization) | 同期成立的私营高技术研发联盟，作为纯企业间联合体与 SRC 的产学资助模式形成鲜明对照。 |
 > | [[Precompetitive Research]] | Concept | SRC 划定跨企业合作边界与规避反垄断制裁的核心制度概念。 |
-> | [[Public-Private Partnership in Research]] | Concept | SRC 作为行业自律与公私协同典范所代表的产学研合作[[Paradigm\|范式]]。 |
+> | [[Public-Private Partnership\|Public-Private Partnership in Research]] | Concept | SRC 作为行业自律与公私协同典范所代表的产学研合作[[Paradigm\|范式]]。 |
 > | [[CHIPS and Science Act]] | Fact (Policy) | 推动设立 NSTC、在国家层面上扩展 SRC [[University-Industry Collaboration\|产学合作]]与人才培养模式的现代核心法案。 |
 > | [[National Semiconductor Technology Center]] | Fact (Organization) | 2022 年《芯片法案》设立的国家半导体研发中枢，吸纳 SRC 的产学协同机制并提供中试试验线支撑。 |
 > | [[Joint University Microelectronics Program 2.0]] | Fact (Program) | SRC 联合 [[DARPA]] 发起、资助 14 校协同联盟攻坚微电子异构集成的国家级产学协同重大计划。 |

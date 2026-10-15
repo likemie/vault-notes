@@ -169,4 +169,4 @@ updated: 2026-10-16
 
 ## 9. 来源
 
-- [[Creswell_2022_SAGE]]
+- [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]]

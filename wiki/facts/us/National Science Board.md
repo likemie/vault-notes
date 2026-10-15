@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # National Science Board
@@ -155,5 +155,5 @@ updated: 2026-10-15
 > | [[Vannevar Bush]] | Person | 构想并推动建立 NSF 与 NSB 治理架构的美国国家科技政策奠基人。 |
 > | [[CHIPS and Science Act]] | Fact (Policy) | 依据 NSB 历年宏观实证指标数据推动制定的美国当代重大科技复兴法案。 |
 > | [[Directorate for Technology, Innovation and Partnerships]] | Fact (Organization) | 依据法案在 NSF 内部创设、由 NSB 监督设立的[[Research Translation\|技术转化]]业务理事会。 |
-> | [[Public-Private Partnership in Research]] | Concept | NSB 倡导在全美范围内广泛推广以加速研究转化的核心机制工具。 |
+> | [[Public-Private Partnership\|Public-Private Partnership in Research]] | Concept | NSB 倡导在全美范围内广泛推广以加速研究转化的核心机制工具。 |
 > | [[STEM Education]] | Concept | NSB 持续监测评估并呼吁全面重构的国家后备工程人才培养体系。 |

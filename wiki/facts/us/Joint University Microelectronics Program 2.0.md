@@ -77,7 +77,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Joint University Microelectronics Program 2.0
@@ -193,7 +193,7 @@ updated: 2026-10-15
 > | [[DARPA]] | Fact (Organization) | JUMP 2.0 联合发起与资助方，提供国家防务战略需求与 50% 联邦匹配研发经费。 |
 > | [[Semiconductor Research Corporation]] | Fact (Organization) | JUMP 2.0 联合管理与工业界出资枢纽，统筹全行业会员企业需求与 7 大跨校中心运营。 |
 > | [[Research Universities]] | Concept | JUMP 2.0 计划的核心实施载体与多中心网络化协同攻坚节点。 |
-> | [[Public-Private Partnership in Research]] | Concept | JUMP 2.0 所代表的联邦战略机构与私营芯片巨头联合出资资助大学的前竞争公私合作[[Paradigm\|范式]]。 |
+> | [[Public-Private Partnership\|Public-Private Partnership in Research]] | Concept | JUMP 2.0 所代表的联邦战略机构与私营芯片巨头联合出资资助大学的前竞争公私合作[[Paradigm\|范式]]。 |
 > | [[Focus Center Research Program]] | Fact (Program) | JUMP 2.0 在 SRC 跨校产学研联合中心谱系中的早期前身计划（FCRP/STARnet）。 |
 > | [[Heterogeneous Integration]] | Concept | JUMP 2.0 旗下 CHIMES 等中心攻坚的核心关键使能技术领域。 |
 > | [[Co-Design]] | Concept | JUMP 2.0 贯穿全技术栈的“应用—算法—芯片—封装—材料”全栈软硬件协同设计方法。 |
