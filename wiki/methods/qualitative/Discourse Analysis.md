@@ -179,13 +179,15 @@ updated: 2026-10-15
 
 ## 使用此方法的研究
 
+- [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] 运用跨国比较话语分析解构三大国际组织政策文本中的深层预设同质性，揭示信息时代通用模型对拉美国家政策话语空间的封闭机制。
 - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|Cohen et al. (2011, Ch. 31)]] 通过课堂会话、Goffman 的机构生活叙事和虚构教师自传示范完整文本的多层解释，区分可核对细节与竞争性读法。
 
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 运用跨国比较话语分析解构三大国际组织政策文本中的深层预设同质性，揭示信息时代通用模型对拉美国家政策话语空间的封闭机制。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22|Cohen et al. (2011, Ch. 22–23)]] — 系统介绍[[Discourse|话语]]分析定义、与[[Critical Theory|批判理论]]的关联、课堂问答序列与[[Structured Observation|结构化观察]]数据分析方法。
-> - [[Argument_Duncan_2025_CI|Duncan & Chinn (2025)]] — 运用话语分析解析七年级科学课堂围绕生物种群观察证据的论辩对话，揭示学生如何反思观察[[Reliability|可靠性]]条件。
-> - [[Argument_Grey_2018_CE|Grey & Morris (2018)]] — 运用话语分析与[[Narrative Analysis|叙事分析]]对比 [[OECD]] 文本、议会声明与媒体报道，揭示政客如何利用危机修辞扭曲评估事实以服务本土议程。
-> - [[Argument_Han_Gutierez_2026_IJSE|Han & Gutierez (2026)]] — 运用[[Multimodal Discourse Analysis|多模态话语分析]]剖析初中生利用生成式AI协同建构[[Scientific Explanation|科学解释]]时的言语对话与提示词迭代，揭示三维[[Epistemological Vigilance|认识论警觉]]机制。
-> - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly & Licona (2018)]] — 结合社会语言学与科学实践研究，运用话语分析考察理科课堂互动言语行为，解析知识主张合法化的[[Epistemic Practices|认识论实践]]机制。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi & Lingard (2009)]] — 运用批判政策话语分析解构[[OECD]]自1990年代中期以来的核心政策文本，揭示其如何通过描述性与规范性话语的滑移建构“[[Knowledge-Based Economy\|知识经济]]的[[Social Imaginary\|社会想象]]”，并将性别平权与社会凝聚力重构为经济效率工具。
+> - [[Argument_Duncan_2025_CI|Duncan and Chinn (2025)]] — 运用话语分析解析七年级科学课堂围绕生物种群观察证据的论辩对话，揭示学生如何反思观察[[Reliability|可靠性]]条件。
+> - [[Argument_Grey_2018_CE|Grey and Morris (2018)]] — 运用话语分析与[[Narrative Analysis|叙事分析]]对比 [[OECD]] 文本、议会声明与媒体报道，揭示政客如何利用危机修辞扭曲评估事实以服务本土议程。
+> - [[Argument_Han_Gutierez_2026_IJSE|Han and Gutierez (2026)]] — 运用[[Multimodal Discourse Analysis|多模态话语分析]]剖析初中生利用生成式AI协同建构[[Scientific Explanation|科学解释]]时的言语对话与提示词迭代，揭示三维[[Epistemological Vigilance|认识论警觉]]机制。
+> - [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly and Licona (2018)]] — 结合社会语言学与科学实践研究，运用话语分析考察理科课堂互动言语行为，解析知识主张合法化的[[Epistemic Practices|认识论实践]]机制。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 运用批判政策话语分析解构[[OECD]]自1990年代中期以来的核心政策文本，揭示其如何通过描述性与规范性话语的滑移建构“[[Knowledge-Based Economy|知识经济]]的[[Social Imaginary|社会想象]]”，并将性别平权与社会凝聚力重构为经济效率工具。

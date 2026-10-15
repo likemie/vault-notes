@@ -68,7 +68,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Recontextualization
@@ -116,7 +116,7 @@ updated: 2026-10-07
 > - **官方再脉络化[[Champ\|场域]]（ORF）** 制度化力量（如教育部门或[[OECD]]）主导[[Discourse|话语]]转换，工具主义与政治相关性往往主导了课程与政策的过滤原则。[[Argument_McPhail_2023_JCS\|(McPhail et al., 2023, p. 33)]]
 > - **双重驱动力** [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] 识别出想象的亲和性（发现外来思想与本土传统的契合）与感知的不可兼容性（将其判定为威胁本土核心价值），两者可赋予同一元素相反评价。[[Argument_Schulte_2009_EncuentrosEducacion\|(Schulte, 2009, p. 70)]]
 > - **三层空间变形** [[Argument_Beech_2009_CE\|Beech (2009)]] 揭示话语在全球层被掏空为[[Floating Signifier\|漂浮能指]]，在国家层与本土话语矛盾并置，在实践层受地缘物质条件制约发生功能突变。[[Argument_Beech_2009_CE\|(Beech, 2009, pp. 353–361)]]
-> - **[[Pragmatic Paradigm\|实用主义]]与结构硬边界** [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] 发现 [[Learner-Centred Education\|LCE]] 被实用主义[[Transfer Translation Transformation\|转译]]为提分与效率工具，与儒家对话传统亲和，但受限于[[Gaokao\|高考]]大纲而保留权力共享硬边界。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 601–603)]]
+> - **[[Pragmatic Paradigm\|实用主义]]与结构硬边界** [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] 发现 [[Learner-Centred Education\|LCE]] 被实用主义[[Transfer Translation Transformation\|转译]]为提分与效率工具，与儒家对话传统亲和，但受限于[[Gaokao\|高考]]大纲而保留权力共享硬边界。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 601–603)]]
 > - **单体学校组织吸纳与本土重构** 在德语区学校发展与[[Transfer Science\|转移科学]]视域下，再脉络化（德语：Re-Kontextualisierung）被界定为单体学校面对外部科研成果、诊断测评工具或行政改革要求时，必须经历的内部组织同化与转化过程（Koch, 2011; Jäger, 2004; [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt, 2019, pp. 9, 11]]）。外部实证证据绝不能“开箱即用”地直接指导微观课堂，它必须穿透学校特定的[[Organizational Culture\|组织文化]]与[[Absorptive Capacity\|组织吸收能力]]，在教师专业共同体的对话协商中，与本土教学经验和校本情境规则重新嵌合。
 
 > [!logic-map]- 全球—国家—实践三层再脉络化与本土制度重构机制
@@ -139,7 +139,7 @@ updated: 2026-10-07
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **跨系统转移中的意义再造机制** | 教育思想与[[Discourse\|话语]]在跨国或跨系统转移中必然经历接受者的选择性挪用、重构与意义再造 | 跨国思想传播、教育[[Policy Borrowing\|政策借用]]与历史接受史 | [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]]; [[Argument_Beech_2009_CE\|Beech (2009)]]; [[Argument_McPhail_2023_JCS\|McPhail et al. (2023, p. 33)]] |
-> | **本土制度约束与权力共享硬边界** | 外来教育模式的再脉络化受制于本土制度架构与文化传统的[[Selective Affinity\|选择性亲和]]，并形成不可跨越的权力共享硬边界 | 东亚高利害考试文化、课程改革与教学法[[Going Native\|本土化]] | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]]; [[Argument_McPhail_2023_JCS\|McPhail et al. (2023, pp. 33–40)]] |
+> | **本土制度约束与权力共享硬边界** | 外来教育模式的再脉络化受制于本土制度架构与文化传统的[[Selective Affinity\|选择性亲和]]，并形成不可跨越的权力共享硬边界 | 东亚高利害考试文化、课程改革与教学法[[Going Native\|本土化]] | [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]]; [[Argument_McPhail_2023_JCS\|McPhail et al. (2023, pp. 33–40)]] |
 > | **学校组织吸收与本土重构机制** | 外部创新成果在进入单体学校时必须经历基于[[Absorptive Capacity\|组织吸收能力]]与文化土壤的本土重构，否则必然遭遇成效缺失与象征性依从 | 学校发展研究、数据驱动问责与教学转移 | Koch (2011); Jäger (2004); [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, pp. 9, 11)]] |
 
 ---
@@ -165,7 +165,7 @@ updated: 2026-10-07
 > [!concept-lens] 本土约束与再脉络化边界
 > 围绕本土硬性制度（如[[Gaokao\|高考]]问责）与文化传统如何设定外来教育模式再脉络化的轨道与天花板展开。
 
-> [!claim] [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]]
+> [!claim] [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]]
 > **儒家对话传统亲和与应试问责下的权力共享硬边界** 外来教学模式（如西方进步主义[[Learner-Centred Education\|LCE]]）在本土落地时，必然经历认知与功能的重塑。在中国案例学校中，LCE 从西方理想型的“民主公民培养与学生决定课程”被[[Pragmatic Paradigm\|实用主义]]地再脉络化为“攻克高阶考题的[[Critical Thinking\|批判性思维]]”与“提升农村课堂 45 分钟吸收率的工具”。这一过程在理念上与[[Confucius\|孔子]]启发式[[Dialogue in Education|对话教学]]产生选择性亲和（Selective Affinity）；但受制于统一课程标准与刚性高考大纲，学生无法参与决定“学什么”或“怎么考”，权力共享维度展现出不可跨越的结构性硬边界。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 601–603)]]
 
 ---
@@ -209,7 +209,7 @@ updated: 2026-10-07
 > > [!axis] [[Pragmatic Paradigm\|实用主义]]本土赋能 vs 理想型教育价值的妥协消解
 > > 将外来教学法实用主义地再脉络化为提分工具能够使其在严酷的考试环境中扎根并赋能学生；但部分学者警惕这种重构可能消解外来理念中关于民主公民、个体解放与人性发展的核心追求。
 > >
-> > - **[[Argument_Wang_2025_CE\|Wang & McLaughlin (2025, pp. 601–603)]]** 证实了实用主义再脉络化的生存价值，但也指出了权力共享被排除的硬边界。
+> > - **[[Argument_Wang_2025_CE\|Wang and McLaughlin (2025, pp. 601–603)]]** 证实了实用主义再脉络化的生存价值，但也指出了权力共享被排除的硬边界。
 
 ---
 
@@ -222,16 +222,18 @@ updated: 2026-10-07
 > |---|---|---|---|---|---|---|
 > | [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] | 中国 1919–2009 年近百年间关于[[John Dewey\|杜威]]教育思想的[[Document\|文献]]与论述 | 历史再脉络化追踪与[[Documentary Analysis\|文献分析]] | 意识形态议程、个人网络、外来思想元素的拾取/忽略/扭曲 | 杜威思想经历了民国反迷信武器、毛泽东时代批判魔鬼、1980s 现代化旗帜到当代[[Quality Education\|素质教育]]代言人的四次质变再脉络化 | [[Historical Document Analysis of Curriculum\|历史文献分析]] — | 聚焦特定思想家在中国的接受史 |
 > | [[Argument_Beech_2009_CE\|Beech (2009)]] | 阿根廷与巴西 1990 年代国家课程改革文件及教师教育者访谈 | 跨国比较分析与多层[[Discourse\|话语]]追踪 | 全球[[Floating Signifier\|漂浮能指]]、国家政策话语并置、教师地缘实践解读 | 全球层将能力抽象化，国家层将能力与学科并置，学校层根据贫困等地缘条件做出完全不同的现实解读 | 跨国质性比较 — | 揭示了全球—国家—[[Praxis\|实践]]三层再脉络化断裂 |
+> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009)]] | 1985–2002 年间三大国际组织政策文本与阿根廷、巴西两国国家课程大纲及师生访谈 | 跨国比较话语分析结合半结构化深度访谈 | 全球教育话语、五大支柱模型、守门人网络、课程自主异化、实习制度拥堵 | 国际机构过度简化学术话语生产普遍模型；拉美多重精英重叠垄断封闭政策空间；落地学校引发阿根廷转抄商业教辅与巴西实习瘫痪等严重实践脱节 | 跨国比较质性追踪 — | 揭示了全球教育场域五位置模型与再语境化断裂机制 |
 > | [[Argument_McPhail_2023_JCS\|McPhail et al. (2023)]] | 新西兰 2021–2026 课程改革官方文件与学术评论 | 课程再脉络化原则批判分析 | 双文化主义、地方化、道德原则与知识结构 | 课程文件通过三重原则重构话语秩序，但隐伏着[[Mātauranga Māori\|毛利知识体系]]与课程知识增长之间的[[Ontology\|本体论]]张力 | 文本批判分析 — | 属于国家官方再脉络化[[Champ\|场域]]的政策分析 |
-> | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] | 华北某区域 4 所案例学校（2 城市、2 农村），4 校长 9 骨干教师 | 质性多[[Case Study\|案例研究]]（Case Study），结合第三代活动理论 | [[Test-Based Accountability\|考试问责]]、[[Learner-Centred Education\|LCE]] 改革系统、共享目标解码与权力共享边界 | 谋求突破的学校成功将 LCE [[Pragmatic Paradigm\|实用主义]]地再脉络化为攻克高阶考题或提升 45 分钟效率的工具，但受限于高考大纲而排除了学生共决课程的权力维度 | 质性转录与[[Qualitative Observation\|田野观察]] — | 展现了高利害考试环境下外来教学法本土再脉络化的机制与硬边界 |
+> | [[Argument_Wang_2025_CE\|Wang and McLaughlin (2025)]] | 华北某区域 4 所案例学校（2 城市、2 农村），4 校长 9 骨干教师 | 质性多[[Case Study\|案例研究]]（Case Study），结合第三代活动理论 | [[Test-Based Accountability\|考试问责]]、[[Learner-Centred Education\|LCE]] 改革系统、共享目标解码与权力共享边界 | 谋求突破的学校成功将 LCE [[Pragmatic Paradigm\|实用主义]]地再脉络化为攻克高阶考题或提升 45 分钟效率的工具，但受限于高考大纲而排除了学生共决课程的权力维度 | 质性转录与[[Qualitative Observation\|田野观察]] — | 展现了高利害考试环境下外来教学法本土再脉络化的机制与硬边界 |
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] — 以[[John Dewey\|杜威]]在中国 100 年的四次再脉络化为例，阐述跨国教育转移中接受者基于意识形态与本土痛点展开的选择性挪用与重写机制。
-> - [[Argument_Beech_2009_CE\|Beech (2009)]] — 提出全球—国家—实践三层再脉络化模型，分析教育[[Discourse|话语]]如何被抽象化为[[Floating Signifier\|漂浮能指]]并在不同层级发生功能性变形。
-> - [[Argument_McPhail_2023_JCS\|McPhail et al. (2023)]] — 分析[[NZ Curriculum Refresh 2021-2026\|新西兰课程改革]]中官方再脉络化[[Champ\|场域]]运用双文化主义、地方化与道德原则重构话语秩序的实践与张力。
-> - [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] — 揭示中国高利害考试文化下以学生为中心教育（[[Learner-Centred Education\|LCE]]）被[[Pragmatic Paradigm\|实用主义]]再脉络化为提分与效率工具、与儒家对话传统亲和但保留权力共享硬边界的机制。
-> - [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, pp. 9, 11)]] — 引入学校发展与[[Absorptive Capacity|组织吸收能力]]视角，论证外部实证研究与治理工具在单体学校发生真实转化的前提是经历本土重构（Re-Kontextualisierung）。
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 以[[John Dewey|杜威]]在中国 100 年的四次再脉络化为例，阐述跨国教育转移中接受者基于意识形态与本土痛点展开的选择性挪用与重写机制。
+> - [[Argument_Beech_2009_CE|Beech (2009a)]] — 提出全球—国家—实践三层再脉络化模型，分析教育[[Discourse|话语]]如何被抽象化为[[Floating Signifier|漂浮能指]]并在不同层级发生功能性变形。
+> - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 提出全球教育场域五位置模型，揭示国际机构过度简化学术话语并在降落微观学校机构时引发严重的再语境化脱节。
+> - [[Argument_McPhail_2023_JCS|McPhail et al. (2023)]] — 分析[[NZ Curriculum Refresh 2021-2026|新西兰课程改革]]中官方再脉络化[[Champ|场域]]运用双文化主义、地方化与道德原则重构话语秩序的实践与张力。
+> - [[Argument_Wang_2025_CE|Wang and McLaughlin (2025)]] — 揭示中国高利害考试文化下以学生为中心教育（[[Learner-Centred Education|LCE]]）被[[Pragmatic Paradigm|实用主义]]再脉络化为提分与效率工具、与儒家对话传统亲和但保留权力共享硬边界的机制。
+> - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019, pp. 9, 11)]] — 引入学校发展与[[Absorptive Capacity|组织吸收能力]]视角，论证外部实证研究与治理工具在单体学校发生真实转化的前提是经历本土重构（Re-Kontextualisierung）。

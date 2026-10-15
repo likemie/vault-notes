@@ -88,6 +88,35 @@ except Exception:
     yaml = None
 
 
+if yaml is not None:
+    class DuplicateFrontmatterKey(yaml.constructor.ConstructorError):
+        """An explicit mapping key was declared twice in the same mapping."""
+
+
+    class UniqueKeySafeLoader(yaml.SafeLoader):
+        def flatten_mapping(self, node):
+            # Check the original pairs before SafeLoader expands merge keys.
+            # Inherited defaults may be overridden by an explicit local key.
+            checked = getattr(self, "_checked_mapping_nodes", set())
+            self._checked_mapping_nodes = checked
+            if id(node) not in checked:
+                checked.add(id(node))
+                seen = {}
+                for key_node, _ in node.value:
+                    key = "<<" if key_node.tag == "tag:yaml.org,2002:merge" else self.construct_object(key_node)
+                    try:
+                        if key in seen:
+                            raise DuplicateFrontmatterKey(
+                                f"first declaration of key {key!r}", seen[key],
+                                f"duplicate mapping key {key!r}", key_node.start_mark,
+                            )
+                        seen[key] = key_node.start_mark
+                    except TypeError:
+                        # Let SafeLoader report invalid, unhashable mapping keys.
+                        pass
+            return super().flatten_mapping(node)
+
+
 # -----------------------------
 # Configuration
 # -----------------------------
@@ -700,11 +729,19 @@ def parse_yaml_fm(fm: str, path: Path, issues: List[Issue]) -> Dict[str, Any]:
         issues.append(Issue("ERROR", rel(path), "PyYAML is not installed. Install with: pip install pyyaml", code="YAML_LIB"))
         return {}
     try:
-        data = yaml.safe_load(fm) or {}
+        data = yaml.load(fm, Loader=UniqueKeySafeLoader) or {}
         if not isinstance(data, dict):
             issues.append(Issue("ERROR", rel(path), "frontmatter is not a YAML mapping", code="FM_TYPE"))
             return {}
         return data
+    except DuplicateFrontmatterKey as e:
+        issues.append(Issue(
+            "ERROR", rel(path),
+            f"frontmatter YAML {e.problem}; first declared on line {e.context_mark.line + 2}",
+            line=e.problem_mark.line + 2,
+            code="YAML_DUPLICATE_KEY",
+        ))
+        return {}
     except Exception as e:
         issues.append(Issue("ERROR", rel(path), f"frontmatter YAML parse error: {e}", code="YAML_PARSE"))
         return {}

@@ -7,8 +7,8 @@ citation: Beech, J. (2009). Policy spaces, mobile discourses, and the definition
 year: 2009
 doi: 10.1080/03050060903184932
 citation_aliases:
-  - "Beech, 2009"
-  - "Beech (2009)"
+  - "Beech, 2009a"
+  - "Beech (2009a)"
 tags:
   - theme/comparative-education
   - theme/educational-transfer
@@ -77,7 +77,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-08
-updated: 2026-09-28
+updated: 2026-10-15
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Beech_2009_CE"
@@ -350,7 +350,7 @@ Castells 据此区分了两种空间逻辑：
 全球话语在国家层面被部分锚定于领土特定的历史经验。这导致同一全球话语在不同接收国呈现出截然相反的具体化特征：
 
 > [!case] 社会包容与排斥：同一个概念，截然不同的具体化
-> Lindblad & Popkewitz(2004)发现，社会包容与排斥这个全球话语在瑞典和芬兰被具体化为“学业失败”的问题，排除的主体指向无法顺利完成学业的学生，并与低教育程度或移民家庭绑定。
+> Lindblad and Popkewitz(2004)发现，社会包容与排斥这个全球话语在瑞典和芬兰被具体化为“学业失败”的问题，排除的主体指向无法顺利完成学业的学生，并与低教育程度或移民家庭绑定。
 > 
 > 而在南非，同一个话语在后种族隔离时代的背景下被完全锚定于种族政治，Muller（2004, p.144）指出，它被[[Transfer Translation Transformation\|转译]]为“从种族隔离的死亡之手中获得救赎”。全球口号为两个完全不同的国家社会危机提供了相同的合法化修辞。
 

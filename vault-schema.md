@@ -306,6 +306,8 @@ cd /Users/shaoyangwu/Documents/MyNotes
 
 严格检查只在发布、备份或重要提交前运行：
 
+Frontmatter 中同一 YAML 映射内不得重复声明键，包括嵌套映射和行内映射。`vault_lint.py` 以 `YAML_DUPLICATE_KEY` 错误报告重复位置及首次声明行号，阻止提交和发布；不同映射中的同名字段不视为重复。不要通过保留最后一个值自动修复，须先判断应保留或合并的内容。
+
 ```bash
 .venv/bin/python3 scripts/vault_lint.py --full --strict
 ```

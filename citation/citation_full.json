@@ -445,10 +445,10 @@
       "title": "Argument_Beech_2015_GSE",
       "year": "2015"
     },
-    "Beech (2009)": {
+    "Beech (2009a)": {
       "aliases": [
-        "Beech, 2009",
-        "Beech (2009)"
+        "Beech, 2009a",
+        "Beech (2009a)"
       ],
       "argument": "Argument_Beech_2009_CE",
       "authors": [
@@ -462,10 +462,27 @@
       "title": "Argument_Beech_2009_CE",
       "year": "2009"
     },
-    "Beech, 2009": {
+    "Beech (2009b)": {
       "aliases": [
-        "Beech, 2009",
-        "Beech (2009)"
+        "Beech, 2009b",
+        "Beech (2009b)"
+      ],
+      "argument": "Argument_Beech_2009_GlobalGarden",
+      "authors": [
+        "[[Jason Beech|Beech, J.]]"
+      ],
+      "citation": "Beech, J. (2009). Who is Strolling Through The Global Garden? International Agencies and Educational Transfer. In R. Cowen & A. M. Kazamias (Eds.), International Handbook of Comparative Education (pp. 341–357). Dordrecht: Springer.",
+      "doi": "",
+      "isbn": "",
+      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Beech_2009_GlobalGarden.md",
+      "source_language": "en",
+      "title": "Argument_Beech_2009_GlobalGarden",
+      "year": "2009"
+    },
+    "Beech, 2009a": {
+      "aliases": [
+        "Beech, 2009a",
+        "Beech (2009a)"
       ],
       "argument": "Argument_Beech_2009_CE",
       "authors": [
@@ -477,6 +494,23 @@
       "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Beech_2009_CE.md",
       "source_language": "en",
       "title": "Argument_Beech_2009_CE",
+      "year": "2009"
+    },
+    "Beech, 2009b": {
+      "aliases": [
+        "Beech, 2009b",
+        "Beech (2009b)"
+      ],
+      "argument": "Argument_Beech_2009_GlobalGarden",
+      "authors": [
+        "[[Jason Beech|Beech, J.]]"
+      ],
+      "citation": "Beech, J. (2009). Who is Strolling Through The Global Garden? International Agencies and Educational Transfer. In R. Cowen & A. M. Kazamias (Eds.), International Handbook of Comparative Education (pp. 341–357). Dordrecht: Springer.",
+      "doi": "",
+      "isbn": "",
+      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Beech_2009_GlobalGarden.md",
+      "source_language": "en",
+      "title": "Argument_Beech_2009_GlobalGarden",
       "year": "2009"
     },
     "Bergeron & Rivard (2017)": {

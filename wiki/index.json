@@ -880,6 +880,16 @@
     ]
   },
   {
+    "title": "Global Educational Discourse",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Global Educational Discourse.md",
+    "aliases": [
+      "全球教育话语",
+      "global educational discourse",
+      "全球教育话语体系"
+    ]
+  },
+  {
     "title": "Global Policy Space",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Global Policy Space.md",
@@ -15260,6 +15270,17 @@
       "ANT",
       "转译社会学",
       "多行动者分析"
+    ]
+  },
+  {
+    "title": "Beech's Model of Discourse Circulation",
+    "type": "theory",
+    "path": "wiki/theories/comparative-education/Beech's Model of Discourse Circulation.md",
+    "aliases": [
+      "比奇话语流通模型",
+      "全球教育场域话语流通模型",
+      "比奇五位置模型",
+      "Five Positions in the Global Educational Field"
     ]
   },
   {
@@ -35747,6 +35768,11 @@
     "title": "Argument_Arnove_2009_WorldSystems",
     "type": "argument",
     "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Arnove_2009_WorldSystems.md"
+  },
+  {
+    "title": "Argument_Beech_2009_GlobalGarden",
+    "type": "argument",
+    "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Beech_2009_GlobalGarden.md"
   },
   {
     "title": "Argument_Castro_2009_MultilateralBanks",

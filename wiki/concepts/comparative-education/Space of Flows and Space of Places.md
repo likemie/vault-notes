@@ -49,7 +49,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Space of Flows and Space of Places
@@ -204,6 +204,7 @@ updated: 2026-10-07
 
 ## 相关研究
 
-> [!evidence-grid] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Beech_2009_CE\|Beech (2009)]] — 经典应用，通过追踪拉美（阿根廷、巴西和玻利维亚）的课程改革，展示了“能力”和“多样性”如何从流动空间的去历史能指，转化为学校实践中的“概念混乱”与“尊重贫困”。
-> - [[Educated Identity\|受教育身份]] (Educated Identity) — 关联条目，探讨在全球流动空间中被重新定义的“信息时代受教育身份”，如何在地方空间中被本土经验中介和改变。
+> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> - [[Argument_Beech_2009_CE|Beech (2009a)]] — 经典应用，通过追踪拉美（阿根廷、巴西和玻利维亚）的课程改革，展示了“能力”和“多样性”如何从流动空间的去历史能指，转化为学校实践中的“概念混乱”与“尊重贫困”。
+> - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 结合流动空间理论构建全球教育场域五位置模型，揭示国际机构在非领土化网络中生产抽象话语并引发地方实践脱节。
+> - [[Educated Identity|受教育身份]] (Educated Identity) — 关联条目，探讨在全球流动空间中被重新定义的“信息时代受教育身份”，如何在地方空间中被本土经验中介和改变。
