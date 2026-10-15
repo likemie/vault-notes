@@ -2551,7 +2551,23 @@ def citation_author_year_key(text: str) -> str:
     return f"{author}|{year_match.group(0).lower()}" if author else ""
 
 
+_CITATION_SEGMENT_SPLIT_RE = re.compile(r";|[,，]?\s*(?:cited in|quoted in|as cited in|引自|转引自|引用自)\s*", re.IGNORECASE)
+
+
 def citation_display_matches_aliases(display: str, aliases: List[str]) -> bool:
+    """True if the display, or any citation segment inside it, matches the target.
+
+    Composite displays such as '(Moisio, 2018, cited in Parreira do Amaral, 2022)'
+    or '(Grundy, 1987; Darwish, 2009)' match when one segment names the target."""
+    if _citation_display_matches_aliases_single(display, aliases):
+        return True
+    segments = [s.strip(" ()（）") for s in _CITATION_SEGMENT_SPLIT_RE.split(display)]
+    if len(segments) > 1:
+        return any(seg and _citation_display_matches_aliases_single(seg, aliases) for seg in segments)
+    return False
+
+
+def _citation_display_matches_aliases_single(display: str, aliases: List[str]) -> bool:
     display = display.strip()
     normalized_display = normalize_citation_alias_text(display)
 
@@ -2991,6 +3007,143 @@ def fix_axis_callouts(text: str) -> Tuple[str, int]:
     return new_text, nesting_fixes + len(edits)
 
 
+_YEAR_SUFFIX_RE = re.compile(r"((?:19|20)\d{2})([a-z]?)")
+
+
+def _with_year_suffix(display: str, aliases: List[str]) -> Optional[str]:
+    """Insert the target's a/b/c suffix when the display only lacks it."""
+    suffixed = None
+    for alias in aliases:
+        m = _YEAR_SUFFIX_RE.search(str(alias))
+        if m and m.group(2):
+            suffixed = m
+            break
+    if not suffixed:
+        return None
+    year, suffix = suffixed.group(1), suffixed.group(2)
+    hits = [m for m in _YEAR_SUFFIX_RE.finditer(display) if m.group(1) == year and not m.group(2)]
+    if len(hits) != 1:
+        return None
+    pos = hits[0].end(1)
+    candidate = display[:pos] + suffix + display[pos:]
+    return candidate if citation_display_matches_aliases(candidate, aliases) else None
+
+
+def _narrative_display(aliases: List[str]) -> Optional[str]:
+    for alias in aliases:
+        alias = str(alias).strip()
+        if alias.endswith(")") and "(" in alias:
+            return fix_english_author_and(alias)
+    return None
+
+
+_SOURCE_SECTION_RE = re.compile(r"^##\s+(?:来源|Sources?)\s*$", re.M)
+_FENCE_RE = re.compile(r"(?ms)^\s*(?:>\s*)*```.*?^\s*(?:>\s*)*```[^\n]*$")
+
+
+def fix_citation_link_displays(text: str, argument_citations: Dict[str, Dict[str, Any]]) -> Tuple[str, int]:
+    """Mechanical citation-link fixes.
+
+    1. Add a missing a/b/c year suffix taken from the link target
+       (fixes CITATION_LINK_TARGET_MISMATCH when only the suffix is missing).
+    2. In non-Argument entries, give bare [[Argument_X]] links the target's
+       narrative author-year display (fixes ARGUMENT_LINK_AUTHOR_YEAR_MISSING).
+    Source sections, code blocks and table rows are left untouched."""
+    fm, body, _ = split_frontmatter(text)
+    if fm is None:
+        return text, 0
+    type_m = re.search(r"^type:\s*[\"']?([A-Za-z]+)", fm, re.M)
+    entry_type = type_m.group(1).lower() if type_m else ""
+    non_argument = entry_type in {"concept", "theory", "method", "instrument", "person", "fact"}
+
+    src = _SOURCE_SECTION_RE.search(body)
+    head, tail = (body[:src.start()], body[src.start():]) if src else (body, "")
+    protected = [(m.start(), m.end()) for m in _FENCE_RE.finditer(head)]
+
+    def in_protected(pos: int) -> bool:
+        return any(a <= pos < b for a, b in protected)
+
+    count = 0
+
+    def repl(m: re.Match[str]) -> str:
+        nonlocal count
+        if in_protected(m.start()):
+            return m.group(0)
+        line_start = head.rfind("\n", 0, m.start()) + 1
+        line_end = head.find("\n", m.end())
+        line = head[line_start: line_end if line_end != -1 else len(head)]
+        if line.lstrip().startswith("|"):
+            return m.group(0)
+        raw = m.group(1)
+        target = extract_wikilink_target(raw)
+        info = argument_citations.get(target)
+        if not info:
+            return m.group(0)
+        aliases = info.get("aliases") or []
+        sep_m = re.search(r"\\?\|", raw)
+        if sep_m:
+            display = raw[sep_m.end():]
+            if display.strip() and citation_display_text(display.strip()) and not citation_display_matches_aliases(display.strip(), aliases):
+                fixed = _with_year_suffix(display, aliases)
+                if fixed:
+                    count += 1
+                    return "[[" + raw[:sep_m.end()] + fixed + "]]"
+            return m.group(0)
+        if non_argument and "#" not in raw:
+            narrative = _narrative_display(aliases)
+            if narrative:
+                count += 1
+                return f"[[{raw}|{narrative}]]"
+        return m.group(0)
+
+    new_head = WIKILINK_RE.sub(repl, head)
+    if not count:
+        return text, 0
+    return text[: len(text) - len(body)] + new_head + tail, count
+
+
+def fix_alias_title_duplicates(text: str) -> Tuple[str, int]:
+    """Drop aliases identical to the entry title (case/width-insensitive)."""
+    fm, _, _ = split_frontmatter(text)
+    if fm is None:
+        return text, 0
+    title_m = re.search(r"^title:\s*(.+)$", fm, re.M)
+    if not title_m:
+        return text, 0
+    title_key = unicodedata.normalize("NFKC", title_m.group(1).strip().strip("\"'")).casefold()
+    lines = fm.split("\n")
+    out: List[str] = []
+    removed = 0
+    in_aliases = False
+    for line in lines:
+        if re.match(r"^aliases:\s*$", line):
+            in_aliases = True
+            out.append(line)
+            continue
+        if in_aliases:
+            item = re.match(r"^\s+-\s+(.*)$", line)
+            if item:
+                value = item.group(1).strip().strip("\"'")
+                if unicodedata.normalize("NFKC", value).casefold() == title_key:
+                    removed += 1
+                    continue
+                out.append(line)
+                continue
+            in_aliases = False
+        inline = re.match(r"^(aliases:\s*\[)(.*)(\]\s*)$", line)
+        if inline:
+            items = [s.strip() for s in inline.group(2).split(",") if s.strip()]
+            kept = [s for s in items if unicodedata.normalize("NFKC", s.strip("\"'")).casefold() != title_key]
+            if len(kept) != len(items):
+                removed += len(items) - len(kept)
+                line = inline.group(1) + ", ".join(kept) + inline.group(3)
+        out.append(line)
+    if not removed:
+        return text, 0
+    new_fm = "\n".join(out)
+    return text.replace(fm, new_fm, 1), removed
+
+
 def apply_fixes(files: List[Path], argument_citations: Dict[str, Dict[str, Any]]) -> Tuple[int, int]:
     changed_files = 0
     total = 0
@@ -3010,11 +3163,16 @@ def apply_fixes(files: List[Path], argument_citations: Dict[str, Dict[str, Any]]
         new_text, n2 = fix_summary_quotes(new_text)
         new_text, n3 = fix_axis_callouts(new_text)
         new_text, n4 = fix_bold_boundaries(new_text)
+        n5 = n6 = 0
+        if is_wiki_entry_path(path):
+            new_text, n5 = fix_citation_link_displays(new_text, argument_citations)
+            new_text, n6 = fix_alias_title_duplicates(new_text)
         if new_text != text:
             path.write_text(new_text, encoding="utf-8")
             changed_files += 1
-            total += n1 + n2 + n3 + n4
-            print(f"fixed {n1 + n2 + n3 + n4:3d}  {rel(path)}")
+            n = n1 + n2 + n3 + n4 + n5 + n6
+            total += n
+            print(f"fixed {n:3d}  {rel(path)}")
     return changed_files, total
 
 

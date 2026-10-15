@@ -77,7 +77,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Critique of Meta-meta-analysis
@@ -111,21 +111,22 @@ updated: 2026-10-15
 > >
 > > - **[[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]** 推导二阶元分析必须满足的 6 项数学要求，证明《[[Visible Learning\|可见的学习]]》在效应量测度混合、SE/SD 混淆（如 Eisenstaedt 1990 中 SE=2.74 被当 SD 导致 $d$ 从 $-0.80 \to -8.29$）、未加权平均（正确加权后 $d$ 从 $0.59 \to 0.23$，排名从 #26 骤跌至 #98）等所有步骤均存在严重违背。（pp. 24–33）
 > > - **[[Argument_Allerup_2015_Paideia\|Allerup (2015)]]** 批评二阶排名未报告[[Confidence Interval\|置信区间]]与[[Standard Error\|标准误]]（$d=0.71$ 与 $0.72$ 的相邻排名差异可能只是误差），忽略正态分布前提（Cauchy 型厚尾分布使均值崩溃），且单一边际效应量易将未控制的社会经济背景第三[[Variable\|变量]]误读为干预效果（TIMSS 2011 丹麦数学教师资质未调整效应量 0.15，控制背景后降至 0.08 且不显著）。（pp. 45–51）
-> > - **[[Argument_Bergeron_2017_MJE\|Bergeron & Rivard (2017)]]** 证明组间比较、前后比较与相关转换三种公式对同一数据产生不可调和的矛盾排名，二阶未加校正的混合使用破坏了横向可比性。（pp. 241–245）
+> > - **[[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]]** 证明组间比较、前后比较与相关转换三种公式对同一数据产生不可调和的矛盾排名，二阶未加校正的混合使用破坏了横向可比性。（pp. 241–245）
 > > - **LeLorier et al. (1997)** 指出一级元分析中的偏倚不仅在聚合层级间传播，二阶纳入与分类决策更会催生新的系统性偏见。[[Argument_OConnor_2020_AJLL\|(O'Connor, 2020, p. 147)]]
 >
 > > [!axis] 维度三：透明度缺失、数据重构困难与草包族科学倾向
 > > 审查二阶综合在数据提取、附录公开及证据筛选上的不透明性与证实偏差。
 > >
-> > - **[[Argument_Johnson_2023_CE\|Johnson & Janzen (2023)]]** 逐步重构[[Homework\|家庭作业]]（附录中 5 个隐藏值 0.36, 0.21, 0.39, 0.21, 0.28 算术平均为 0.29，声称的 161 项研究与 10 万学生并不构成计算基础）与[[Class Size\|班级规模]]效应量（Glass & Smith 1979 提取的 $d=0.09$ 并非原始报告值），指出方法论不透明阻碍了一线教育者验证，呈现伪科学特征。（pp. 25–26, 32–33）
+> > - **[[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]]** 逐步重构[[Homework\|家庭作业]]（附录中 5 个隐藏值 0.36, 0.21, 0.39, 0.21, 0.28 算术平均为 0.29，声称的 161 项研究与 10 万学生并不构成计算基础）与[[Class Size\|班级规模]]效应量（Glass & Smith 1979 提取的 $d=0.09$ 并非原始报告值），指出方法论不透明阻碍了一线教育者验证，呈现伪科学特征。（pp. 25–26, 32–33）
 > > - **[[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]** 强调质量就是一切，指出 Evidence Informed [[Policy Network]] 明确要求研究综合必须具备质量标准；声称不关心纳入研究质量的做法违背了综合的基本定义，对政策具有破坏性。（p. 94）
+> > - **[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]]** 对《可见的学习》全库 322 个影响因素开展独立复现检验，发现仅 19% 满足 [[PICO Framework|PICO]] 纳入标准，301 项可查证因素中仅 2 项能够成功复现数据提取（<1% 复现率），44% 的效应量在原文中完全无法找到，以全量元科学实证揭示了底层数据链条的彻底崩溃。（pp. 14, 18–19）
 >
 > > [!axis] 维度四：[[Epistemology\|认识论]]困境与政策角色否定
 > > 从[[Theory of Knowledge\|知识论]]与循证政策哲学层面反思二阶聚合的合法性边界。
 > >
 > > - **[[Argument_Terhart_2011_JCS\|Terhart (2011)]]** 提出信息损失与失真假说，指出反复累积导致情境细节与调节信息系统性消失；提出稳定性（进一步研究只逼近已知结论）与变异性（旧结论随时代过时）双重困境，表明数据库时效性（多来自 1980s–1990s）存在严重滞后。（pp. 428–436）
 > > - **[[Argument_Wiliam_2019_ERE\|Wiliam (2019)]]** 基于局部与临时知识理论（Goldman 知识判别理论）做出彻底否定，断言将多个元分析进行效应量合并在教育政策制定中绝对没有任何角色，并提出 11 点评估清单。（pp. 10–11）
-> > - **[[Argument_Wrigley_2019_ERE\|Wrigley & McCusker (2019)]]** 以 [[Education Endowment Foundation\|EEF]] 体育参与案例（[[Playing for Success]] 复合方案 $d = 0.80$ 与普通体育不可比）揭示元-元分析的三级统计失真，批判其远离了实在层面的因果机制。（pp. 116–123）
+> > - **[[Argument_Wrigley_2019_ERE\|Wrigley and McCusker (2019)]]** 以 [[Education Endowment Foundation\|EEF]] 体育参与案例（[[Playing for Success]] 复合方案 $d = 0.80$ 与普通体育不可比）揭示元-元分析的三级统计失真，批判其远离了实在层面的因果机制。（pp. 116–123）
 
 ---
 

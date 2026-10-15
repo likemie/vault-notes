@@ -54,7 +54,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-18
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Visible Learning Meta-X
@@ -108,6 +108,7 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] 典型学术应用
 > - **[[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]]** 从数据库随机抽取 156 项[[Academic Achievement\|学业成就]]相关元分析，系统评估三种前沿大语言模型（Gemini 2.5 Pro、[[General Purpose Technology|GPT]]-4.1、GPT-o3）在[[Automated Data Extraction\|自动化数据提取]]中的准确性，建立人机混合验证[[Paradigm\|范式]]。
+> - **[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]]** 对数据库 1.2 版的全部 322 项影响因素（1,369 篇一阶元分析）开展穷尽式元科学质量评估与独立复现检验，系统诊断数据库在 PICO 准入、模型设计混淆与数据提取上的系统性偏差。
 > - **二阶元分析研究** 研究者基于数据库开展主题聚焦的二阶综合（如特定学科教学效果、弱势群体干预效能），汇聚跨元分析的[[Effect Size\|效应量]]变异，检验调节[[Variable\|变量]]与[[Publication Bias\|发表偏倚]]。
 
 ---
@@ -119,8 +120,8 @@ updated: 2026-10-15
 > > [!axis] 数据质量与原始录入[[Reliability\|可靠性]]
 > > 数据库规模庞大，早期录入依赖单人人工抄录，各[[Meta-analysis\|元分析]]的[[Effect Size\|效应量]]提取口径不一，累积性录入失误已被实证揭示。
 > >
-> > - **实证依据** [[Argument_Jansen_2026_EPR\|Jansen et al. (2026, pp. 16–18)]] 发现，既有数据库原始录入与仲裁金标准相比，$\text{[[Intraclass Correlation Coefficient\|ICC]]} = 0.81$（一致率 80%），存在 57 处独有偏离，单方偏离规模显著高于人类独立专家（$\text{ICC} = 0.95$）与三大前沿大语言模型（$\text{ICC} = 0.96–0.97$）。
-> > - **含义** 早期人工录入的历史局限使数据库并非无误差的金标准，后续[[Meta-meta-analysis\|二阶元分析]]研究应优先建立独立核查机制。
+> > - **实证依据** [[Argument_Jansen_2026_EPR\|Jansen et al. (2026, pp. 16–18)]] 发现，既有数据库原始录入与仲裁金标准相比，$\text{[[Intraclass Correlation Coefficient\|ICC]]} = 0.81$（一致率 80%），存在 57 处独有偏离，单方偏离规模显著高于人类独立专家（$\text{ICC} = 0.95$）与三大前沿大语言模型（$\text{ICC} = 0.96–0.97$）。进一步地，[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025, pp. 14, 18–19)]] 对数据库全部 322 项影响因素（涵盖 1,369 篇一阶元分析）开展穷尽式元科学审计，实证揭示仅 19% 符合 [[PICO Framework|PICO]] 纳入标准，301 项可核查因素中仅 2 项成功复现数据提取（<1% 复现率），且 44% 的报告效应量在原始文献中根本无法查实。
+> > - **含义** 早期人工录入的历史局限使数据库并非无误差的金标准，全量审计更证实其存在深层数据链断裂，后续[[Meta-meta-analysis\|二阶元分析]]研究应优先建立独立核查机制。
 >
 > > [!axis] 商业化运营与学术中立性
 > > 数据库由商业培训平台 [[Visible Learning]] Plus（Corwin 授权）共同维护，研究者对其在商业激励下的筛选偏向、更新透明度及独立复现性存有质疑。参见品牌化与全球影响条目。
@@ -139,3 +140,4 @@ updated: 2026-10-15
 > - [[Visible Learning Branding and Global Influences]] — 数据库依托的商业生态与跨国政策影响历程。
 > - [[Meta-meta-analysis]] — 以 Meta-X 数据库为数据来源的二阶[[Meta-analysis\|元分析]]方法。
 > - [[Automated Data Extraction]] — 以 Meta-X 数据库[[Random Sampling\|随机样本]]为评测平台的自动化数据提取方法学研究。
+> - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 对 Meta-X 数据库开展全库 322 个影响因素元科学质量评估与独立复现检验的代表作。

@@ -95,7 +95,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Visible Learning
@@ -280,6 +280,7 @@ updated: 2026-10-15
 > | [[Argument_Hattie_2005_ACER\|Hattie (2005, pp. 15–16)]] | 新西兰 [[Assessment Tools for Teaching and Learning\|asTTle]] 常模标定样本（25,000 名 5–12 年级学生，1,500 余道试题） | 大样本横断面与纵向常模测评 | 数运算策略 vs. 几何知识跨学段[[Growth\|成长]]曲线 | 数运算策略从 5 至 12 年级呈现陡峭线性递增；几何知识在 5–7 年级出现明显停滞甚至倒退 | — | 实证揭示现行小学几何课程脱离学生实际认知进阶，为循证课改提供依据 |
 > | [[Argument_Hattie_2005_ACER\|Hattie (2005, p. 12)]]（Hattie & Peddie, 2003） | 新西兰 156 所中小学真实出具给家长的期末学业报告卡 | 文本[[Content Analysis\|内容分析]]与编码统计 | 报告提及国家课程等级比例、[[Criterion-Referenced Test\|标准参照]]率与评语倾向 | 仅 12 所（<8%）提及官方课程等级；>50% 无客观标准；98% 为纯正面赞许评语 | — | 揭示学校报告缺乏客观进阶信息，导致家长产生虚假乐观并倒逼外部统考 |
 > | [[Argument_Jansen_2026_EPR\|Jansen et al. (2026, pp. 16–18)]] | 从 [[Visible Learning Meta-X]] 随机抽取 156 项一阶元分析（468 个统计数据点） | 专家双轮仲裁金标准比对评测 | 原数据库录入 vs. 金标准[[Intraclass Correlation Coefficient\|组内相关系数]]与一致率 | 原数据库录入 $\text{ICC} = 0.81$，一致率 80%；存在 57 处单方偏离与 31 例信息遗漏 | 单方偏离度显著高于人类独立作者（$\text{ICC} = 0.95$）与大语言模型（$\text{ICC} = 0.96–0.97$） | 实证揭示早期大规模人工录入的历史局限性，论证了引入多模型与专家仲裁混合质控的必要性 |
+| [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025, pp. 14, 18–19)]] | 《[[Visible Learning\|可见的学习]]》（1.2 版）中 301 个影响因素（检索精读 1,369 篇一阶元分析） | 预注册全库质量评估与独立复现检验 | PICO 合规率；数据复现成功率；效应量缺失率 | 仅 **19%** 符合 [[PICO Framework|PICO]] 纳入标准；仅 **2 项**（<1%）成功复现数据提取；**44%** 报告效应量在原文中完全不存在 | — | 全量实证揭示 VL 体系存在系统性概念错位、提取失真与数据链崩溃，不可作为政策与教学决策依据 |
 
 ---
 
@@ -317,4 +318,5 @@ updated: 2026-10-15
 > - [[Argument_Eacott_2019_IJLE\|Eacott (2019)]] — 批判 VL 在行政与商业推广中异化为[[Neo-Taylorism\|新泰勒主义]]控制与[[Cult of the Guru\|大师崇拜]]的制度风险。
 > - [[Argument_Qvortrup_2015_Paideia\|Qvortrup (2015)]] — 批判 VL 测量工具对表层技能的偏向，倡导建立区分知识层次的动态学习模型。
 > - [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] — 比较英格兰、苏格兰与德国[[School Leadership\|学校领导]]者的[[Research Utilization\|证据使用]]经验，实证指出苏格兰校长面对 VL 等流行概念时，依托“[[Practitioner Enquiry\|实践者探究]]”（Practitioner Enquiry）与[[Contributory Expertise\|贡献型专长]]进行批判性审视与情境化校准。（pp. 20–21）
+> - [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] — 开展预注册全库元科学审计，实证揭示 VL 体系仅 19% 满足 PICO 标准且仅 2 项可复现数据提取，为学界彻底终结该体系的政策依赖提供了实证定论。
 

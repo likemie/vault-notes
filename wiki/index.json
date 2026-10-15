@@ -11523,6 +11523,17 @@
     ]
   },
   {
+    "title": "PICO Framework",
+    "type": "concept",
+    "path": "wiki/concepts/research-methodology/PICO Framework.md",
+    "aliases": [
+      "PICO",
+      "PICOS",
+      "受试者-干预-对照-结局",
+      "对象-干预-对照-结局"
+    ]
+  },
+  {
     "title": "Pre-test Sensitisation",
     "type": "concept",
     "path": "wiki/concepts/research-methodology/Pre-test Sensitisation.md",
@@ -37161,6 +37172,11 @@
     "title": "Argument_Block_2008_PS",
     "type": "argument",
     "path": "wiki/arguments/journal-articles/Politics & Society/Argument_Block_2008_PS.md"
+  },
+  {
+    "title": "Argument_Kalmendal_2025_PsyArXiv",
+    "type": "argument",
+    "path": "wiki/arguments/journal-articles/PsyArXiv/Argument_Kalmendal_2025_PsyArXiv.md"
   },
   {
     "title": "Argument_Fan_Song_Zhai_2024_RSEE",

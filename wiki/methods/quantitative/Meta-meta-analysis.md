@@ -121,7 +121,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-03
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Meta-meta-analysis
@@ -154,9 +154,9 @@ updated: 2026-10-15
 > | **Meta-[[Meta-analysis]]** | Kazrin et al. (1979) | 强调对元分析进行再分析与统计聚合。 |
 > | **Mega-analysis** | Smith (1982) | 强调在样本与文献规模上的超级扩展。 |
 > | **Super-analysis** | Dillon (1982) | 强调统计抽象层级上的超越。 |
-> | **Super-synthesis** | Sipe & Curlette (1996) | 强调跨元分析的系统综合过程。 |
-> | **Meta-synthesis** | Sipe & Curlette (1997); [[Argument_Higgins_2016_ROE\|Higgins (2016)]] | 质性与量化综合的通用统称。 |
-> | **Second-Order Meta-Analysis (SOMA)** | Schmidt & Oh (2013); [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 强调估计一阶[[Sampling Error\|抽样误差]]并采用多水平稳健方差模型进行精确校正的现代统计学标准术语。 |
+> | **Super-synthesis** | Sipe and Curlette (1996) | 强调跨元分析的系统综合过程。 |
+> | **Meta-synthesis** | Sipe and Curlette (1997); [[Argument_Higgins_2016_ROE\|Higgins (2016)]] | 质性与量化综合的通用统称。 |
+> | **Second-Order Meta-Analysis (SOMA)** | Schmidt and Oh (2013); [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 强调估计一阶[[Sampling Error\|抽样误差]]并采用多水平稳健方差模型进行精确校正的现代统计学标准术语。 |
 
 > [!concept-lens] [[Argument_Higgins_2016_ROE\|Higgins (2016)]] 的两种用法区分
 > [[Argument_Higgins_2016_ROE\|Higgins (2016, p. 41)]] 区分了二阶综合的两种截然不同的[[Research Purpose\|研究目的]]：
@@ -166,7 +166,7 @@ updated: 2026-10-15
 > [!contrast-table] 二阶元分析三代方法谱系多维对比
 > | 比较维度 | 第一代：粗放元综合<br>（Naive Meta-Synthesis） | 第二代：标准伞状二阶元分析<br>（Standard Umbrella / SOMA） | 第三代：现代多水平稳健二阶元分析<br>（Modern Multilevel & Robust SOMA） |
 > |---|---|---|---|
-> | **代表学者与文献** | Fraser, Walberg & Hattie (1987); Hattie (1992, 2008, 2009); Marzano (1998) | Cooper & Koenka (2012); Cafri et al. (2010); [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]; [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | Schmidt & Oh (2013); Cheung (2014); Pustejovsky & Tipton (2022); [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] |
+> | **代表学者与文献** | Fraser, Walberg and Hattie (1987); Hattie (1992, 2008, 2009); Marzano (1998) | Cooper and Koenka (2012); Cafri et al. (2010); [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]; [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | Schmidt and Oh (2013); Cheung (2014); Pustejovsky and Tipton (2022); [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] |
 > | **分析单位** | 一阶元分析报告的算术平均值 $d$ | 一阶元分析提取的汇总效应量（$k$ 个独立观测项） | 一阶元分析[[Effect Size\|效应量]]及其多水平依赖集群（Clusters） |
 > | **[[Literature Search\|文献检索]]与质控** | 粗放纳入、无统一质量准入门槛 | 遵循 PRISMA 指南、采用 [[AMSTAR]] / R-AMSTAR 进行严格方法学质量评级 | 遵循 [[PRISMA]] 2020、严格 AMSTAR-2 质控并建立初级研究全量引用矩阵 |
 > | **效应量尺度处理** | 混用 $d, g, r, \Delta$ 等不同测度而不转换 | 将 OR、$r$、Hedges' $g$ 规范转换为统一 Cohen's $d$ 或 Fisher's $z$ | 统一进行效应量标准化、Fisher's $z$ 变换并保留完整协方差结构 |
@@ -183,15 +183,15 @@ updated: 2026-10-15
 >
 > - **第一代：早期探索与粗放元综合（1980s–2000s）**
 >
->   Glass 提出元分析 10 年后，Fraser, Walberg & Hattie（1987）首次综合 226 项元分析以检验 Walberg 的[[Walberg's Educational Productivity Model\|教育生产力模型]]。Hattie（1992, 2008, 2009）在《[[Visible Learning\|可见的学习]]》中将其扩展至 800 多项元分析（涵盖 52,649 项研究、8300 万学生），建立 $d = 0.40$ 的影响气压计。然而第一代综合在统计上存在严重缺陷：采用简单算术平均而非[[Inverse-Variance Weighting\|逆方差加权]]、混用不同[[Effect Size\|效应量]]测度、强行套用[[Fixed-Effect and Random-Effects Models\|固定效应模型]]、完全忽略初级研究高达 90% 以上的重叠率，且不报告[[Confidence Interval\|置信区间]]与显著性检验。[[Argument_Terhart_2011_JCS\|(Terhart, 2011)]]; [[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016)]]
+>   Glass 提出元分析 10 年后，Fraser, Walberg and Hattie（1987）首次综合 226 项元分析以检验 Walberg 的[[Walberg's Educational Productivity Model\|教育生产力模型]]。Hattie（1992, 2008, 2009）在《[[Visible Learning\|可见的学习]]》中将其扩展至 800 多项元分析（涵盖 52,649 项研究、8300 万学生），建立 $d = 0.40$ 的影响气压计。然而第一代综合在统计上存在严重缺陷：采用简单算术平均而非[[Inverse-Variance Weighting\|逆方差加权]]、混用不同[[Effect Size\|效应量]]测度、强行套用[[Fixed-Effect and Random-Effects Models\|固定效应模型]]、完全忽略初级研究高达 90% 以上的重叠率，且不报告[[Confidence Interval\|置信区间]]与显著性检验。[[Argument_Terhart_2011_JCS\|(Terhart, 2011)]]; [[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016)]]
 >
 > - **第二代：标准伞状综述与经典规范二阶元分析（2010s）**
 >
->   针对第一代的统计乱象，Cooper & Koenka（2012）在《Research Synthesis Methods》系统提出了综述之综述（Overview of Reviews / [[Umbrella Review]]）的方法学标准；Cafri et al.（2010）在《JEBS》奠定了二阶元分析的基础统计框架；Sipe & Curlette（1996, 1997）与 Pieper et al.（2014）规范了重叠控制标准；[[Argument_Wecker_2016_ZfE\|Wecker, Vogel & Hetmanek (2016)]] 从数学基础推导出六项方法论规范；[[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] 则将该[[Paradigm\|范式]]应用于[[Cooperative Learning\|合作学习]]领域。第二代二阶元分析建立了 [[PRISMA]] 与 [[AMSTAR]] 质量筛选流程，严格执行效应量测度转换，普遍采用**经典逆方差加权法（$w_i^* = \frac{1}{v_i + \tau^2}$）**与**随机效应模型**（Borenstein et al., 2021），并采用 Cooper & Koenka $\le 25\%$ 重叠率或[[Corrected Covered Area\|校正覆盖面积]]（CCA）控制文献重叠，全面报告置信区间与[[Publication Bias\|发表偏倚]]检验。
+>   针对第一代的统计乱象，Cooper and Koenka（2012）在《Research Synthesis Methods》系统提出了综述之综述（Overview of Reviews / [[Umbrella Review]]）的方法学标准；Cafri et al.（2010）在《JEBS》奠定了二阶元分析的基础统计框架；Sipe & Curlette（1996, 1997）与 Pieper et al.（2014）规范了重叠控制标准；[[Argument_Wecker_2016_ZfE\|Wecker, Vogel & Hetmanek (2016)]] 从数学基础推导出六项方法论规范；[[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] 则将该[[Paradigm\|范式]]应用于[[Cooperative Learning\|合作学习]]领域。第二代二阶元分析建立了 [[PRISMA]] 与 [[AMSTAR]] 质量筛选流程，严格执行效应量测度转换，普遍采用**经典逆方差加权法（$w_i^* = \frac{1}{v_i + \tau^2}$）**与**随机效应模型**（Borenstein et al., 2021），并采用 Cooper & Koenka $\le 25\%$ 重叠率或[[Corrected Covered Area\|校正覆盖面积]]（CCA）控制文献重叠，全面报告置信区间与[[Publication Bias\|发表偏倚]]检验。
 >
 > - **第三代：现代多水平与集群稳健二阶元分析（2013–至今）**
 >
->   Schmidt & Oh（2013）在《HRMR》奠定了二阶[[Sampling Error\|抽样误差]]与全领域推广理论；Cheung（2014）与 Pustejovsky & Tipton（2022）建立了多水平元分析与集群[[Robust Variance Estimation\|稳健方差估计]]（RVE）体系；[[Argument_Runco_2026_CRJ\|Runco et al. (2026)]]在[[Creativity\|创造力]]全领域综合中确立了第三代范式标杆。第三代方法彻底放弃单水平假设，对初级研究进行微观完全去重，采用 **[[Correlated and Hierarchical Effects Model\|相关与层级效应模型]]（CHE）** 进行三水平方差分解（Level 1 抽样误差、Level 2 一阶元分析内依赖、Level 3 跨元分析变异），结合 **[[Robust Variance Estimation\|稳健方差估计]]（RVE / 三明治估计量）** 提供渐近无偏的[[Standard Error\|标准误]]与小样本 $T^2 / F$ 校正，并运用多水平改进[[Egger Regression Test\|艾格检验]]（[[Multilevel Egger's Test]]）和[[Second-Order Meta-Regression\|二阶元回归]]，在无需严苛独立性假定下实现了高度稳健的宏观证据推断。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 2–6)]]
+>   Schmidt and Oh（2013）在《HRMR》奠定了二阶[[Sampling Error\|抽样误差]]与全领域推广理论；Cheung（2014）与 Pustejovsky and Tipton（2022）建立了多水平元分析与集群[[Robust Variance Estimation\|稳健方差估计]]（RVE）体系；[[Argument_Runco_2026_CRJ\|Runco et al. (2026)]]在[[Creativity\|创造力]]全领域综合中确立了第三代范式标杆。第三代方法彻底放弃单水平假设，对初级研究进行微观完全去重，采用 **[[Correlated and Hierarchical Effects Model\|相关与层级效应模型]]（CHE）** 进行三水平方差分解（Level 1 抽样误差、Level 2 一阶元分析内依赖、Level 3 跨元分析变异），结合 **[[Robust Variance Estimation\|稳健方差估计]]（RVE / 三明治估计量）** 提供渐近无偏的[[Standard Error\|标准误]]与小样本 $T^2 / F$ 校正，并运用多水平改进[[Egger Regression Test\|艾格检验]]（[[Multilevel Egger's Test]]）和[[Second-Order Meta-Regression\|二阶元回归]]，在无需严苛独立性假定下实现了高度稳健的宏观证据推断。[[Argument_Runco_2026_CRJ\|(Runco et al., 2026, pp. 2–6)]]
 
 ---
 
@@ -400,6 +400,7 @@ updated: 2026-10-15
 > - **AI 教育应用全领域二阶元分析** [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] 综合 19 项一阶元分析（58,702 名参与者），采用 [[GROOVE]] 宏的[[Corrected Covered Area\|校正覆盖面积]]（CCA）热力图排除 6 项重叠元分析，在[[Fixed-Effect and Random-Effects Models\|随机效应模型]]下以经典[[Inverse-Variance Weighting\|逆方差加权法]]合并效应量，报告 AI 教育应用对学生[[Academic Achievement\|学业成就]]与[[Higher-Order Thinking Skills\|高阶思维技能]]的综合效应（$ES = 0.67$，95% CI = [.55, .78]），并识别教育阶段（K12 vs 混合）与学科领域（计算机科学 vs 数学）为显著调节来源。
 > - **大语言模型二阶元分析[[Automated Data Extraction\|自动化数据提取]]** [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] 基于《[[Visible Learning\|可见的学习]]》证据库中的 156 项一阶教育元分析，通过专家仲裁校准确立金标准，系统评估了三大前沿大语言模型（Gemini 2.5 Pro、[[General Purpose Technology|GPT]]-4.1、GPT-o3）自动提取效应量、研究数与[[Sample Size Determination\|样本量]]的准确性（$\text{[[Intraclass Correlation Coefficient\|ICC]]} = 0.96–0.97$），确立大模型提取达到人类专家水准并为人机混合验证提供[[Paradigm\|范式]]。
 > - **固定效应等价性与方法论批判** [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] 从固定效应数学模型推导 6 项要求并系统审查《可见的学习》。
+> - **二阶元分析全库元科学质量与复现性审计** [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] 依据 [[PICO Framework|PICO]] 与伞状综述规范，对《可见的学习》全库 322 个影响因素开展独立复现检验，发现仅 19% 满足 PICO 纳入标准，301 项中仅 2 项可复现数据提取（<1% 复现率），44% 报告效应量在原文中缺失，为二阶元分析方法学规范与质量控制提供了里程碑式全量审计实证。
 
 ---
 
