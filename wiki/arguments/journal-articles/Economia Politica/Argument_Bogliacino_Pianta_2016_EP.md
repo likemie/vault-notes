@@ -7,7 +7,7 @@ title: "Argument_Bogliacino_Pianta_2016_EP"
 argument_key: "Argument_Bogliacino_Pianta_2016_EP"
 argument_display_title: "The Pavitt Taxonomy, revisited: patterns of innovation in manufacturing and services"
 argument_kind: "journal-article"
-argument_related_count: 20
+argument_related_count: 21
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -48,6 +48,7 @@ related_methods:
   - "[[Analytic Framework]]"
 related_persons: []
 related_facts:
+  - "[[EU]]"
   - "[[Community Innovation Survey]]"
   - "[[Sectoral Innovation Database]]"
   - "[[Centre for Independent Studies]]"
@@ -66,7 +67,7 @@ updated: 2026-09-24
 ## 研究问题
 
 > [!question]
-> 企业和产业在创新行为和经济表现上的[[Heterogeneity\|异质性]]极高且持久——同一三位数行业内企业的生产率差异可达 2-9 倍。主流经济学的"代表性企业"方法无法处理这种异质性。[[Argument_Pavitt_1984_RP\|Pavitt (1984)]]提出的分类法是整合多样性和识别共性的关键工具，但它仅覆盖制造业且基于 1980 年代的英国数据。随着服务业在经济中占比持续上升、ICT 技术深刻改变创新方式以及欧盟行业分类从 NACE Rev. 1 转向 Rev. 2，[[Pavitt Taxonomy\|Pavitt 分类法]]是否仍然有效？能否扩展至服务业？需要怎样的修订？
+> 企业和产业在创新行为和经济表现上的[[Heterogeneity\|异质性]]极高且持久——同一三位数行业内企业的生产率差异可达 2-9 倍。主流经济学的"代表性企业"方法无法处理这种异质性。[[Argument_Pavitt_1984_RP\|Pavitt (1984)]]提出的分类法是整合多样性和识别共性的关键工具，但它仅覆盖制造业且基于 1980 年代的英国数据。随着服务业在经济中占比持续上升、ICT 技术深刻改变创新方式以及[[EU|欧盟]]行业分类从 NACE Rev. 1 转向 Rev. 2，[[Pavitt Taxonomy\|Pavitt 分类法]]是否仍然有效？能否扩展至服务业？需要怎样的修订？
 
 > [!feature]+ 一页读懂
 > - **对象** 三轮社区创新调查（[[Community Innovation Survey]]，CIS 2、3、4），覆盖 7 个欧洲国家和挪威，22 个制造业和 17 个服务业两位数 NACE 行业
@@ -166,7 +167,7 @@ updated: 2026-09-24
 > 自 Pavitt（1984）以来，三个结构性变化要求对分类法进行根本性的重新审视：
 > 1. **服务业占比持续上升** 服务业在发达经济体 GDP 和就业中的占比已远超制造业，但原分类法仅覆盖制造业。Marsili & Verspagen（2002）、Castellacci（2008）等已尝试将 Pavitt 分类法扩展至服务业
 > 2. **ICT 改变创新方式** 信息技术和通信技术不仅创造了新行业，也深刻改变了传统制造业和服务业的创新模式——例如金融业大规模采用 ICT 基础设施使其具备了"规模与信息密集"的特征
-> 3. **行业分类标准更新** 欧盟在 2008 年将行业分类从 NACE Rev. 1 转换为 NACE Rev. 2，原有的行业映射不再适用，需要为新的行业分类提供对应的 Pavitt 分类（pp.160-163）
+> 3. **行业分类标准更新** [[EU|欧盟]]在 2008 年将行业分类从 NACE Rev. 1 转换为 NACE Rev. 2，原有的行业映射不再适用，需要为新的行业分类提供对应的 Pavitt 分类（pp.160-163）
 
 ---
 

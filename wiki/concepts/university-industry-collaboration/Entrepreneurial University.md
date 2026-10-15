@@ -8,7 +8,7 @@ aliases:
 summary: "大学主动重构内部文化、组织架构与激励机制以融入经济社会发展的学术转型范式；经历从早期技术转移与专利创收（第二代）向应对重大社会挑战的使命型活体实验室（第三代）的演进；在欧洲大陆高教治理中，极端自由市场企业化方案因侵蚀公共品属性而遭到否决，转而探索法团网络间接操纵路径。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 43
+related_count: 44
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -58,6 +58,7 @@ related_persons:
   - "[[Walter J. M. Kickert]]"
 related_facts:
   - "[[UN Sustainable Development Goals]]"
+  - "[[EU]]"
   - "[[Horizon Europe Missions]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[Education Innovation and Research]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-27
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Entrepreneurial University
@@ -178,7 +179,7 @@ updated: 2026-10-15
 > 探讨创业型大学如何超越狭隘的专利许可金诉求，转型为与政府、产业和公众协同攻坚[[Grand Challenges|重大挑战]]的系统实验平台。
 
 > [!claim] [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]]
-> **第三代活体实验室与跨学科公共价值创造** 面对气候危机、公共卫生与数字化转型挑战，创业型大学正摆脱单纯追逐专利转让费的狭隘商业化模式。在欧盟[[Horizon Europe Missions|地平线欧洲战略使命]]等第三代创新政策牵引下，大学被重新塑造为协同企业、地方政府与公众共同开展系统实验的活体实验室，通过开展跨学科[[Knowledge Co-production|知识共创]]直接服务于宏观[[UN Sustainable Development Goals|联合国可持续发展目标]]。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 810–812)]]
+> **第三代活体实验室与跨学科公共价值创造** 面对气候危机、公共卫生与数字化转型挑战，创业型大学正摆脱单纯追逐专利转让费的狭隘商业化模式。在[[EU|欧盟]][[Horizon Europe Missions|地平线欧洲战略使命]]等第三代创新政策牵引下，大学被重新塑造为协同企业、地方政府与公众共同开展系统实验的活体实验室，通过开展跨学科[[Knowledge Co-production|知识共创]]直接服务于宏观[[UN Sustainable Development Goals|联合国可持续发展目标]]。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 810–812)]]
 
 ---
 

@@ -21,7 +21,7 @@ tags:
   - higher-ed
   - governance
 related_concepts:
-  - "[[Public-Private Partnership in Research]]"
+  - "[[Public-Private Partnership]]"
   - "[[Disciplina and Doctrina]]"
   - "[[New Public Management]]"
   - "[[Performance Indicators]]"
@@ -73,7 +73,7 @@ updated: 2026-10-11
 ## 定义
 
 > [!def] 核心定义
-> 内生与外生私有化（Endogenous and Exogenous Privatisation）是由[[Stephen Ball|斯蒂芬·鲍尔]]（Stephen J. Ball）与德博拉·尤德尔（Deborah Youdell）提出的双维[[Analytic Framework|分析框架]]。**内生私有化**指公立教育系统内部运作的企业化转型，即将私营部门的管理技术、绩效问责、使用者付费和市场竞争逻辑植入学校体系；**外生私有化**指将原本由公共部门承担的教育设计、基建与教学服务通过合同外包、公私伙伴关系（[[Public-Private Partnership in Research|PPP]]）及特许学校等形式向营利或非营利私营实体开放。批判政治经济学进一步指出，这种双轨重组本质上是新自由主义国家以市场逻辑瓦解教育公共性的阶级策略。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 4)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 83)]]
+> 内生与外生私有化（Endogenous and Exogenous Privatisation）是由[[Stephen Ball|斯蒂芬·鲍尔]]（Stephen J. Ball）与德博拉·尤德尔（Deborah Youdell）提出的双维[[Analytic Framework|分析框架]]。**内生私有化**指公立教育系统内部运作的企业化转型，即将私营部门的管理技术、绩效问责、使用者付费和市场竞争逻辑植入学校体系；**外生私有化**指将原本由公共部门承担的教育设计、基建与教学服务通过合同外包、[[Public-Private Partnership|公私伙伴关系]]（PPP）及特许学校等形式向营利或非营利私营实体开放。批判政治经济学进一步指出，这种双轨重组本质上是新自由主义国家以市场逻辑瓦解教育公共性的阶级策略。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 4)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 83)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 剖析教育私有化作为内部企业化[[Disciplina and Doctrina|规训]]与外部供给外包构成的互嵌结构。

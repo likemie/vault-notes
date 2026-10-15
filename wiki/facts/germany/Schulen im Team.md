@@ -12,7 +12,7 @@ subtype: program
 region: germany
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Knowledge Transfer]]"
   - "[[Absorptive Capacity]]"
   - "[[Homework]]"
+  - "[[Public-Private Partnership]]"
   - "[[Transfer Science]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Recontextualization]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-27
-updated: 2026-10-05
+updated: 2026-10-16
 ---
 
 # Schulen im Team
@@ -107,7 +108,7 @@ updated: 2026-10-05
 ## 实施架构与角色分工
 
 > [!actor-grid] 实施协同矩阵
-> - **发起与战略资助** 墨卡托基金会（Stiftung Mercator）承担核心资金保障与公私伙伴关系统筹。
+> - **发起与战略资助** 墨卡托基金会（Stiftung Mercator）承担核心资金保障与[[Public-Private Partnership|公私伙伴关系]]统筹。
 > - **教育行政统筹与政策支持** 北威州学校与[[Further Education|继续教育]]部（MSW NRW）下发政策指引，协调地方督导部门，为参研教师核拨专项进修课时与差旅补贴。
 > - **学术主持与伴随研究** 多特蒙德工业大学 IFS 研究所负责全域干预方案设计、主持人系统化培训以及实施过程与成效的经验研究（Bos et al., 2012; van Holt, 2014; Manitius & Groot-Wilken, 2017）。
 > - **基层实践承载** 参与学校的教师教研团队与校领导团队，负责微观教学单元的校本试验、常态化听课评课与经验总结。

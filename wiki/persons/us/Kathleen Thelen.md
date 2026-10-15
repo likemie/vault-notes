@@ -10,7 +10,7 @@ summary: "麻省理工学院政治学讲席教授、美国文理科学院院士�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 37
+person_related_count: 38
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -61,6 +61,7 @@ related_persons:
 related_facts:
   - "[[Chinese Academy of Sciences]]"
   - "[[Education Resources Information Center]]"
+  - "[[EU]]"
 related_arguments:
   - "[[Argument_VanDerHeijden_2011_Politics]]"
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Kathleen Thelen
@@ -177,7 +178,7 @@ updated: 2026-10-15
 > > [!axis] 制度变迁与制度再生产的边界界定争议
 > > 经验研究在套用希伦的分层概念时，常将巩固既有制度核心、维持原轨道的保护性机制误判为分层变迁。
 > >
-> > - **概念漂移检视视角** [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] 指出，希伦原本强调分层必须改变原有规则对行为的规约方式；而当代研究（如欧盟预算与互联网标准模型）中出现的层叠实质是加固既有核心的制度再生产与[[Path Dependence|路径依赖]]强化，若不严格划定边界，分层概念将丧失解释转型的分析比较优势。
+> > - **概念漂移检视视角** [[Argument_VanDerHeijden_2011_Politics|Van der Heijden (2011)]] 指出，希伦原本强调分层必须改变原有规则对行为的规约方式；而当代研究（如[[EU|欧盟]]预算与互联网标准模型）中出现的层叠实质是加固既有核心的制度再生产与[[Path Dependence|路径依赖]]强化，若不严格划定边界，分层概念将丧失解释转型的分析比较优势。
 > > - **希伦理论辩护视角** 希伦强调分层本身就是妥协下的杂合体，外围新规则即使短期内未发生颠覆，随着历史时间推移与代际更替，新规则的牵引效应终将侵蚀旧核心并诱发质变。（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009]]）
 >
 > > [!axis] 行动者微观能动性 vs 宏观结构性否决约束

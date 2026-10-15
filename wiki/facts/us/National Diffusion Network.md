@@ -9,7 +9,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -22,6 +22,7 @@ tags:
   - innovation-diffusion
   - region/us
 related_concepts:
+  - "[[School Autonomy]]"
   - "[[Paradigm]]"
   - "[[Tiered Evidence Grants]]"
   - "[[Knowledge Mediation]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 
 # National Diffusion Network
@@ -87,7 +88,7 @@ updated: 2026-09-17
 > [!dev-timeline] NDN 历史演进历程
 > - **1974–1979 — 制度创立与标准探索期** 联邦国会确立 NDN 资助授权，建立联合传播审查小组（JDRP），开始小范围探索如何对全美散落的校本创新项目进行有效性审核与跨区资助。
 > - **1980–1990 — 全美黄金扩散与网络全覆盖期** 全美 50 州全面建立“州促进员”服务机制；网络收录的合规方案突破 500 项，先后覆盖全美“成千上万所学校”（tens of thousands of schools），成为美国联邦历史上覆盖面最广的教育技术扩散网络。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 6–7)]]
-> - **1995–至今 — 制度遗产转化与证据管线演化** 随着 1995 年联邦财政预算调整，NDN 专项资助正式终止，但其“外部模型审查 + 中介网络促成 + 学校自主采纳”的组织[[Paradigm\|范式]]被后续的 1997 年全面学校改革计划（CSR）、2009 年i3 计划及 2017 年[[Education Innovation and Research\|EIR]] 计划直接继承并升级为现代强证据[[Tiered Evidence Grants\|分层资助管线]]。
+> - **1995–至今 — 制度遗产转化与证据管线演化** 随着 1995 年联邦财政预算调整，NDN 专项资助正式终止，但其“外部模型审查 + 中介网络促成 + [[School Autonomy|学校自主]]采纳”的组织[[Paradigm\|范式]]被后续的 1997 年全面学校改革计划（CSR）、2009 年i3 计划及 2017 年[[Education Innovation and Research\|EIR]] 计划直接继承并升级为现代强证据[[Tiered Evidence Grants\|分层资助管线]]。
 
 ---
 

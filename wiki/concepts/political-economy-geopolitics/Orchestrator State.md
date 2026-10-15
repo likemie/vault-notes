@@ -8,10 +8,10 @@ aliases:
 summary: "比较政治经济学界对缺乏中央直接财政出资权的多层级政体（尤指欧洲联盟）产业干预形态的理论定性。指超国家机构不直接充当集中出资人与投资裁决人，而是退化或转型为产业政策的“协调者与撮合者（Orchestrator）”，通过松绑成员国国家援助审查、背书跨国共同利益重要项目（IPCEI）和推动多国生产网络搭线撮合来推进战略目标，但由于出资责任被甩给各成员国国库，极易加剧成员国贫富不均并撕裂单一市场公平竞争。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - concept/political-economy
   - multi-level-governance
@@ -27,6 +27,7 @@ related_concepts:
 related_methods:
   - "[[Correlational Research]]"
 related_facts:
+  - "[[EU]]"
   - "[[Important Projects of Common European Interest]]"
   - "[[European Chips Act]]"
 related_arguments:
@@ -34,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-06
+updated: 2026-10-16
 ---
 
 # Orchestrator State
@@ -48,7 +49,7 @@ updated: 2026-10-06
 
 > [!concept-lens] 概念透镜
 > - **含义** 刻画了超国家执行机构在“雄心勃勃的战略目标”与“空虚的中央金库”之间的结构性脱节。
-> - **用途** 帮助政治经济学研究者解释为何欧盟产业政策往往“声势浩大但落地分散”，揭示去中心化补贴对统一大市场的反向扭曲。
+> - **用途** 帮助政治经济学研究者解释为何[[EU|欧盟]]产业政策往往“声势浩大但落地分散”，揭示去中心化补贴对统一大市场的反向扭曲。
 > - **边界** 不等于联邦集权制下的发展型国家（如具备直接拨款权威的美国或东亚国家）；它本质上是一种治理能力受限下的替代性间接协调[[Paradigm|范式]]。
 
 > [!citation-card] 欧委会作为产业政策协调者的制度定性
@@ -103,14 +104,14 @@ updated: 2026-10-06
 > [!contrast-table] 协调型国家概念的核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **治理结构与市场扭曲** | 缺乏中央财力的协调者模式将把产业补贴转化为成员国竞次博弈，加剧核心-外围分化 | 欧盟多层级产业政策 | Di Carlo & Schmitz (2023) |
+> | **治理结构与市场扭曲** | 缺乏中央财力的协调者模式将把产业补贴转化为成员国竞次博弈，加剧核心-外围分化 | [[EU\|欧盟]]多层级产业政策 | Di Carlo & Schmitz (2023) |
 
 ---
 
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **2023 年 — 欧洲单一市场协调理论提出** 迪卡洛与施密茨（Di Carlo & Schmitz, 2023）在《欧洲公共政策学刊》提出欧盟作为单一市场“协调者”理论，阐释欧委会如何通过 [[Important Projects of Common European Interest|IPCEI]] 等工具在保护单一市场与推动产业干预之间维系微妙平衡。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 14)]]
+> - **2023 年 — 欧洲单一市场协调理论提出** 迪卡洛与施密茨（Di Carlo & Schmitz, 2023）在《欧洲公共政策学刊》提出[[EU|欧盟]]作为单一市场“协调者”理论，阐释欧委会如何通过 [[Important Projects of Common European Interest|IPCEI]] 等工具在保护单一市场与推动产业干预之间维系微妙平衡。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 14)]]
 > - **2024 年 — 半导体地缘政治下的治理困境实证** 布尔福内等人将“协调型国家”与美国联邦集权模式进行面对面对比，指出协调模式是导致《[[European Chips Act|欧洲芯片法案]]》产生“财政幻觉”与政策执行力疲软的深层制度根源。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14)]]
 
 ---
@@ -122,7 +123,7 @@ updated: 2026-10-06
 > > [!axis] 协调撮合灵活性 vs 超国家规制权威虚化
 > > 争论协调型模式是适应欧洲多元联盟国情的现实最优解，还是掩盖制度无能的退让。
 > >
-> > - **欧委会制度辩护者** 认为通过 [[Important Projects of Common European Interest|IPCEI]] 撮合 14 国 56 家企业协同研发，能够在不修改欧盟条约的前提下迅速动员数百亿欧元跨国投资。
+> > - **欧委会制度辩护者** 认为通过 [[Important Projects of Common European Interest|IPCEI]] 撮合 14 国 56 家企业协同研发，能够在不修改[[EU|欧盟]]条约的前提下迅速动员数百亿欧元跨国投资。
 > > - **比较政治经济学批判派（[[Argument_Bulfone_2024_IAI|Bulfone et al., 2024]]）** 指出协调者缺乏真正的约束抓手，面对巨额补贴，企业往往牵着成员国鼻子走，欧洲若不建立真正具有独立发债与直投功能的超国家财政，[[Strategic Autonomy|战略自主]]只能是一纸空文。（pp. 14, 17）
 
 ---

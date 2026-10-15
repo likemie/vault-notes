@@ -7,7 +7,7 @@ aliases:
 summary: "教育改革选择性参照外部政策经验并在本地重新解释、合法化和变形的过程，是比较教育分析跨国改革流动的核心概念"
 type: concept
 domain: "comparative-education"
-related_count: 108
+related_count: 112
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -52,6 +52,7 @@ related_concepts:
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Rich and Thick Description]]"
   - "[[School Effectiveness]]"
+  - "[[Public-Private Partnership]]"
   - "[[Knowledge Bank]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Lifelong Learning]]"
@@ -111,6 +112,9 @@ related_facts:
   - "[[TIMSS]]"
   - "[[Office of Special Inquiries and Reports]]"
   - "[[Bologna Process]]"
+  - "[[EU]]"
+  - "[[Nord Anglia Education]]"
+  - "[[GEMS Education]]"
   - "[[World Bank]]"
   - "[[UNESCO]]"
   - "[[Prussian Draft Education Law of 1819]]"
@@ -135,7 +139,7 @@ related_arguments:
 confidence: high
 status: stable
 created: '2026-05-01'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Policy Borrowing
@@ -438,7 +442,7 @@ updated: 2026-10-15
 > 本命题探讨全球化与[[Network Society|网络社会]]下，漫步于世界教育花园的政策借用主体如何超越主权国家官方垄断，以及国际组织如何通过议程垄断封闭本土改革话语。
 
 > [!claim] [[Jason Beech|Beech, J.]]
-> **新型跨国借用行动者与国际机构的双重收拢机制** 杰森·比奇（Jason Beech）指出，19 世纪由主权国家特派官员（如库森、曼、萨米恩托）垄断的花园采撷式借用，在当代已被四类跨国新型行动者所打破：携带商业方案周游列国的穿梭咨询专家、开辟海外咨询市场兜售[[School Effectiveness|学校效能]]知识的高校国际发展部门、推行[[Bologna Process|博洛尼亚进程]]与跨国认证的超国家区域联盟（如欧盟），以及通过公私伙伴关系接管学校运营与督导的跨国营利性教育服务集团（如 Nord Anglia、GEMS）。更为根本的是，以[[World Bank|世界银行]]、[[OECD|经合组织]]与[[UNESCO|联合国教科文组织]]为代表的多边机构充当“[[Knowledge Bank|知识银行]]”，基于紧迫[[Pragmatic Paradigm|实用主义]]将复杂学术话语简化为包含五大支柱（[[Lifelong Learning|终身学习]]、[[Constructivist Instruction|建构主义教学]]、能力本位、机构自主与评估问责、新教师角色）的统一[[Global Educational Discourse|全球教育话语]]普遍方案。国际机构通过“界定危机”与“提供通用解方”的双重收拢机制（Dual Closure），与受援国学术与官僚精英合一的[[Gatekeepers|守门人]]网络形成闭环，严重收窄了受援国的政策话语空间与本土改革想象力。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–344, 348–353)]]
+> **新型跨国借用行动者与国际机构的双重收拢机制** 杰森·比奇（Jason Beech）指出，19 世纪由主权国家特派官员（如库森、曼、萨米恩托）垄断的花园采撷式借用，在当代已被四类跨国新型行动者所打破：携带商业方案周游列国的穿梭咨询专家、开辟海外咨询市场兜售[[School Effectiveness|学校效能]]知识的高校国际发展部门、推行[[Bologna Process|博洛尼亚进程]]与跨国认证的超国家区域联盟（如[[EU|欧盟]]），以及通过[[Public-Private Partnership|公私伙伴关系]]接管学校运营与督导的跨国营利性教育服务集团（如 [[Nord Anglia Education|Nord Anglia]]、[[GEMS Education|GEMS]]）。更为根本的是，以[[World Bank|世界银行]]、[[OECD|经合组织]]与[[UNESCO|联合国教科文组织]]为代表的多边机构充当“[[Knowledge Bank|知识银行]]”，基于紧迫[[Pragmatic Paradigm|实用主义]]将复杂学术话语简化为包含五大支柱（[[Lifelong Learning|终身学习]]、[[Constructivist Instruction|建构主义教学]]、能力本位、机构自主与评估问责、新教师角色）的统一[[Global Educational Discourse|全球教育话语]]普遍方案。国际机构通过“界定危机”与“提供通用解方”的双重收拢机制（Dual Closure），与受援国学术与官僚精英合一的[[Gatekeepers|守门人]]网络形成闭环，严重收窄了受援国的政策话语空间与本土改革想象力。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–344, 348–353)]]
 
 > [!citation-card] Beech论知识银行的双重收拢与受援国政策空间闭合
 > 国际机构在教育领域的强大影响，不仅在于其能够提供巨额财政贷款与技术援助，更在于它们充当了‘知识银行’的角色。通过同时垄断关于‘教育危机是什么’的诊断权与‘何种改革有效’的解答权，国际机构实施了一种话语上的双重收拢。这种普遍模型的推销使得发展中国家在面对全球化挑战时，除了接受包含自主权、评估问责与以学生为中心教学的整套包裹式方案外，几乎无法构想任何替代性的政策路径。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349, 354)]]
@@ -479,7 +483,7 @@ updated: 2026-10-15
 > - **2009 — 德英双轨传统消解与浅层借用[[Epistemology|认识论]]警示** [[Wolfgang Mitter|沃尔夫冈·米特]]（Wolfgang Mitter, 2009）系统对比了欧洲比较教育的德英双轨建制模式：英国面向专业实践、政策借用与实务咨询，德国依托[[Allgemeine Pädagogik|普通教育学]]（Allgemeine Pädagogik）与教化哲学（[[Bildung]]）坚守形而上学价值反思；并在当代大规模国际测评热潮下警示：比较学者必须坚守“[[Navigation Metaphor in Comparative Education|航海隐喻]]”的中立警示职责，抵御去情境化的浅层政策借用对学科批判认识论身份的消解。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 89, 95–99)]]
 > - **2009 — 全球化四重响应模型与早期借用认识论平反** [[Val D. Rust|瓦尔·拉斯特]]、约翰斯通与阿拉夫（Rust, Johnstone & Allaf, 2009）批判传统借用理论的自愿互惠假设，确立涵盖“接受、抵制、恢复、强制再生产”的四维批判分析框架；同时系统考证挪威改革委员会与美国[[Common School Movement|公学运动]]，平反早期借用考察，确立“恶政良教自然可分”原则为政策借用的学术认识论基石。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 124–126, 133–134)]]
 > - **2009 — 第一代学校中心主义借用与启蒙改良合法化史学定性** [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias, 2009a）系统定性 19 世纪第一代美欧先驱的借用行为：阐明其“学校中心主义”（[[Scholiocentric Approach|scholiocentric]]）与劝诱性特征，揭示将外国经验作为国内政治与道德改良合法化依据的启蒙现代性底色，并阐述[[Michael Sadler|萨德勒]]历史文化转向对素朴借用移植的认识论批判。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, pp. 141–142)]]
-> - **2009 — 跨国网络借用主体扩散与[[Knowledge Bank|知识银行]]双重收拢机制** 杰森·比奇（Jason Beech, 2009b）批判主权国家官方官员垄断花园采撷的传统假设，揭示高校咨询、跨国教育集团、区域联盟与国际组织构成的新型跨国借用网络；论证多边机构充当“知识银行”，通过垄断危机定义权与改革解方捆绑对受援国实施双重收拢，并依托拉美等后发国家官僚/学术精英[[Gatekeepers|守门人]]网络闭合本土政策话语空间。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–344, 348–353)]]
+> - **2009 — 跨国网络借用主体扩散与[[Knowledge Bank|知识银行]]双重收拢机制** [[Jason Beech|杰森·比奇]]（Jason Beech, 2009b）批判主权国家官方官员垄断花园采撷的传统假设，揭示高校咨询、跨国教育集团、区域联盟与国际组织构成的新型跨国借用网络；论证多边机构充当“知识银行”，通过垄断危机定义权与改革解方捆绑对受援国实施双重收拢，并依托拉美等后发国家官僚/学术精英[[Gatekeepers|守门人]]网络闭合本土政策话语空间。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–344, 348–353)]]
 > - **2012 — 政治借用与实质学习的系统区隔** 施泰纳-哈姆西系统界定“政治借用”（选择性、仪式性）与“实质学习”（开放、交流性）的分野。
 > - **2018 — 媒介化全球治理与罗生门借用模型** 格雷与莫里斯（[[Argument_Grey_2018_CE\|Grey & Morris, 2018]]）揭示以 [[PISA]] 为代表的大规模跨国测评时代政策借用的新特征：政策借用从传统的官方行政调研升级为高度依赖大众媒介公关的“媒介化借用”；决策者通过“遗漏话语”剪裁外部卓越样板（如上海），而新闻媒体的[[Policy Avoidance\|政策规避]]使得未经检验的合法化借用得以逃避民主问责，使政策借用与[[Rashomon Effect\|罗生门效应]]深度咬合。
 > - **2018 — 拓扑[[Assemblage\|政策装配]]与[[Data Infrastructure\|数据基础设施]]转向** [[Sigrid Hartong\|西格丽德·哈通]]（Sigrid Hartong, 2018）批判正统政策借用对技术物质性与拓扑尺度的忽视，指出跨尺度数据基础设施（如题库、[[Center of Calculation\|计算中心]]与平台）将国际基准直接折叠进微观教学实践，重构了跨国借用与国内治理的边界。（[[Argument_Hartong_2018_GSE\|Hartong, 2018]]）

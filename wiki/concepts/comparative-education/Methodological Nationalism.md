@@ -5,7 +5,7 @@ aliases:
 summary: "把民族国家视为现代社会自然单位与唯一分析容器的认识论立场，容易遮蔽跨国网络、非国家主体漫步全球花园对国家边界的横切，以及跨尺度流动空间与地方空间交互关系的复杂性"
 type: concept
 domain: "comparative-education"
-related_count: 43
+related_count: 47
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Classical Geopolitics]]"
   - "[[Unit of Analysis]]"
   - "[[International Education]]"
+  - "[[Open Method of Coordination]]"
   - "[[Methodological Statism]]"
   - "[[Methodological Educationism]]"
   - "[[Recontextualization]]"
@@ -54,6 +55,9 @@ related_persons:
   - "[[Alejandro Artopoulos]]"
   - "[[Roger Dale]]"
 related_facts:
+  - "[[EU]]"
+  - "[[Nord Anglia Education]]"
+  - "[[GEMS Education]]"
   - "[[Bologna Process]]"
   - "[[OECD]]"
   - "[[Definition and Selection of Competencies]]"
@@ -67,7 +71,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-12
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Methodological Nationalism
@@ -113,7 +117,7 @@ updated: 2026-10-15
 > - **国家作为唯一[[Unit of Analysis|分析单位]]** 将教育系统理解为只能在各自国家范畴内被理解，跨境活动被视为边缘性或衍生性的。[[Argument_Marginson_2025_ECNUROE|Marginson, 2025, p. 8]]; [[Argument_Beech_2009_CE|Beech, 2009a, p. 348]]
 > - **遮蔽全球性现象** 系统性阻挡了对科学（就其[[Epistemology|认识论]]自主性而言）、生态和跨国网络等无法还原为国家属性的全球性现象的观察。
 > - **语言概念的潜在偏见** 比较教育常用的“跨国”（transnational，跨越国家）与“国际”（international，国家之间）均预设了国家作为活动基础；即使是“超国家”（supranational，国家之上）也仍是以民族国家为基准定位该空间。[[Argument_Beech_2009_CE|Beech, 2009a, pp. 348–349]]
-> - **非国家主体漫步全球花园横切国家区隔** 全球化时代的国际影响不再局限于国家间外在关系，而是以“无界限空间”的形态直接横切（Crosscut）国家内部区隔（Giddens, 1990; [[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）。魅力型教育咨询顾问、面临财政削减而推行新重商主义咨询出口的英国大学（Cowen, 1996; Lyotard, 1984）、确立区域基准与开放协调法的欧洲联盟（Nóvoa, 2002），以及运营跨国连锁学校并直接向多国政府提供政策建议的跨国教育公司（如 Nord Anglia、GEMS），这些新兴非国家主体漫步于“全球花园”，彻底瓦解了传统的国家孤立容器假设。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–345)]]
+> - **非国家主体漫步全球花园横切国家区隔** 全球化时代的国际影响不再局限于国家间外在关系，而是以“无界限空间”的形态直接横切（Crosscut）国家内部区隔（Giddens, 1990; [[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）。魅力型教育咨询顾问、面临财政削减而推行新重商主义咨询出口的英国大学（Cowen, 1996; Lyotard, 1984）、确立区域基准与[[Open Method of Coordination|开放协调法]]的[[EU|欧洲联盟]]（Nóvoa, 2002），以及运营跨国连锁学校并直接向多国政府提供政策建议的跨国教育公司（如 [[Nord Anglia Education|Nord Anglia]]、[[GEMS Education|GEMS]]），这些新兴非国家主体漫步于“全球花园”，彻底瓦解了传统的国家孤立容器假设。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–345)]]
 > - **三主义的叠加效应** 在全球化世界中仅关注国家教育系统不仅是方法论民族主义，还会与[[Methodological Statism|方法论国家中心主义]]（methodological statism，将国家视为唯一行动者）和[[Methodological Educationism|方法论教育主义]]（methodological educationism，将教育等同于学校教育）叠加。[[Argument_Klerides_2023_CE|Klerides, 2023, p. 423]]
 > - **与规范性民族主义共谋** 认为“国家是唯一分析单位”的预设会强化“本国优先”的价值立场，Massey（2005）称之为“对连贯国族性的浪漫幻想”和净化国家空间的徒劳尝试。
 > - **高等教育中的具体表现** 表现为大学排名将“国家表现”作为关键指标；研究将大学的国际合作与流动视为国家政策的附属物。[[Argument_Marginson_2025_ECNUROE|Marginson, 2025, pp. 8–9]]
@@ -183,7 +187,7 @@ updated: 2026-10-15
 > 阐明全球化下教育转移如何超越传统的国家间双边借用模式，由跨国流动空间中的多元非国家主体横切国家分界，构建多位置环流网络。
 
 > [!claim] [[Jason Beech|Beech, J.]]
-> **非国家主体横切与五位置流通假说** 比奇（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）指出，传统比较教育将“教育转移”狭隘理解为主权国家之间的双边互动，本质上深陷方法论民族主义泥潭。在全球化语境下，国际影响呈现为吉登斯所谓的跨切国家分界（Crosscut State Divisions）的无界限空间实践。四类新型行动者漫步于“全球花园”：四处兜售灵丹妙药的“魅力型顾问”、为弥补财政缺口向发展中国家出口咨询的新重商主义大学、通过指标基准与[[Bologna Process|博洛尼亚进程]]引导成员国政策的欧盟等区域集团，以及直接向多国政府建言的跨国私营教育企业（如 GEMS）。这些主体脱离单一地理领土，依托由全球学术空间、国际组织、国家、本土学术空间与学校机构构成的五位置网络，直接穿透并重塑主权国家的政策与实践，彻底终结了将民族国家视为封闭自足[[Unit of Analysis|分析单位]]的正当性。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–345, 349–351)]]
+> **非国家主体横切与五位置流通假说** 比奇（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）指出，传统比较教育将“教育转移”狭隘理解为主权国家之间的双边互动，本质上深陷方法论民族主义泥潭。在全球化语境下，国际影响呈现为吉登斯所谓的跨切国家分界（Crosscut State Divisions）的无界限空间实践。四类新型行动者漫步于“全球花园”：四处兜售灵丹妙药的“魅力型顾问”、为弥补财政缺口向发展中国家出口咨询的新重商主义大学、通过指标基准与[[Bologna Process|博洛尼亚进程]]引导成员国政策的[[EU|欧盟]]等区域集团，以及直接向多国政府建言的跨国私营教育企业（如 [[GEMS Education|GEMS]]）。这些主体脱离单一地理领土，依托由全球学术空间、国际组织、国家、本土学术空间与学校机构构成的五位置网络，直接穿透并重塑主权国家的政策与实践，彻底终结了将民族国家视为封闭自足[[Unit of Analysis|分析单位]]的正当性。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–345, 349–351)]]
 
 ---
 

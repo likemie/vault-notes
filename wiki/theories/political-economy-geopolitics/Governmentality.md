@@ -9,7 +9,7 @@ aliases:
 summary: "米歇尔·福柯提出的权力分析核心理论，指一种以人口为对象、以安全配置为技术、通过塑造主体的自我理解来引导个体行为的治理理性；该理论指出自由与主体化是现代治理的运作条件而非对立面，并通过远距治理与空间化规训将学校和制度环境建构为可计算、可干预的治理单元。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 43
+theory_related_count: 44
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -60,6 +60,7 @@ related_persons:
   - "[[Nikolas Rose]]"
   - "[[Stephen Ball]]"
 related_facts:
+  - "[[EU]]"
   - "[[Erasmus Programme]]"
   - "[[Hukou System]]"
   - "[[No Child Left Behind Act 2001]]"
@@ -73,7 +74,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-20
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Governmentality
@@ -160,7 +161,7 @@ graph TD
 > [!theory-proposition] 命题二｜自由是现代治理的必要技术条件而非对立面
 > **解释** 新自由主义治理理性最深沉的悖论在于：越是鼓吹“自由选择”与“去中心化”，治理权力的毛细血管渗透就越彻底。当政府赋予学校[[School Choice|择校]]权或赋予学生[[Learner Autonomy|自主学习]]权时，实际上是将宏观的结构性风险（失业、贫困、教育不公）个体化、道德化为个人选择的后果，从而免除了国家作为最终责任人的负担。[[Argument_Thompson_2022_Promising_Student|(Thompson et al., 2022, pp. 222–223)]]
 >
-> **应用实例** 欧洲联盟通过[[Erasmus Programme|伊拉斯谟计划]]（ERASMUS）赋予大学生跨国求学的充分自由，并将其赞美为自由探索未来的美德；然而学者指出，这实质上是要求青年个体自发承担打造跨文化“就业[[Competitiveness|竞争力]]”的责任，把应对全球劳动力市场波动的压力内化为个人的道德修行。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 363)]]
+> **应用实例** [[EU|欧洲联盟]]通过[[Erasmus Programme|伊拉斯谟计划]]（ERASMUS）赋予大学生跨国求学的充分自由，并将其赞美为自由探索未来的美德；然而学者指出，这实质上是要求青年个体自发承担打造跨文化“就业[[Competitiveness|竞争力]]”的责任，把应对全球劳动力市场波动的压力内化为个人的道德修行。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 363)]]
 
 > [!theory-proposition] 命题三｜现代治理本质上依赖对空间的建构、计算与封闭
 > **解释** 治理决不仅是时间上的历史演进或身体上的行为操练，而是在根本上依赖于空间的构想、划界与操控。如 Rose（1999）与 Sobe & Fischer（2009）所示，现代权力通过人为制造“学区”、“教室”、“家庭”等离散单元（领地化），并通过统计图表将分散人群变为可见对象（空间凝视），从而使学校成为把人口圈禁在固定网格中的“封闭容器”（Enclosure），以及根据文化标准决定谁有资格跨入更广阔社会空间的“筛选关卡”（Qualification）。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 360–361)]]

@@ -10,7 +10,7 @@ title: "Argument_Wang_2025_CE"
 argument_key: "Argument_Wang_2025_CE"
 argument_display_title: "Promoting learner-centred education amid the culture of test-based accountability: insights from a cross-cultural teacher education programme"
 argument_kind: "journal-article"
-argument_related_count: 36
+argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Policy Borrowing]]"
   - "[[Selective Affinity]]"
+  - "[[Recontextualization]]"
   - "[[Constructivist Paradigm]]"
   - "[[Dialogue in Education]]"
   - "[[Document]]"
@@ -98,7 +99,7 @@ citation_aliases:
 > [!concept-lens] 阅读透镜
 > - **对象与情境** 华北某区域（济南高新区资助）参与中英跨国教师专业发展项目的 4 所典型案例学校（2 所城市学校、2 所农村学校），重点研究 4 位校长与 9 位骨干教师在项目实施第一年内（经历 4 轮研讨会与校本教研）的理念调适、行动决策与制度重构(pp. 591–593)。
 > - **张力** 高度咬合闭环的[[Test-Based Accountability\|考试问责]]系统（外部行政考核、高考道德正当性、家长升学焦虑、教师主导讲授惯性）与要素严重失调的 [[Learner-Centred Education\|LCE]] 改革系统（孤立引入的英国教学经验工具，缺乏配套评价规则、领导风险担保与共同体支持）之间的系统性矛盾与重构(pp. 593–598)。
-> - **理论贡献** 运用[[Third Generation Activity Theory\|第三代活动理论]]（3GAT）打破考试问责与教学改革的绝对二分法，揭示了“共享目标驱动的全系统扩展性改造机制”，指明了跨国[[Policy Borrowing\|政策借用]]在中国文化语境下与儒家启发式对话传统产生[[Selective Affinity\|选择性亲和]]（Selective Affinity）、被降维再情境化为应试赋能工具的动态转译路径(pp. 600–603)。
+> - **理论贡献** 运用[[Third Generation Activity Theory\|第三代活动理论]]（3GAT）打破考试问责与教学改革的绝对二分法，揭示了“共享目标驱动的全系统扩展性改造机制”，指明了跨国[[Policy Borrowing\|政策借用]]在中国文化语境下与儒家启发式对话传统产生[[Selective Affinity\|选择性亲和]]（Selective Affinity）、被降维[[Recontextualization|再情境化]]为应试赋能工具的动态转译路径(pp. 600–603)。
 
 ---
 
@@ -272,7 +273,7 @@ citation_aliases:
 > - **权力共享维度的结构硬边界** 城市二校教师坦言：*“学生不可能参与决定他们想学什么或考什么。在中国，课程标准和考试大纲是统一且刚性的，教师的任务是在这个框架内引导学生达成优秀。”*(p. 599) 统一大纲与高考决定了“学什么、怎么考”由国家和教师掌控，LCE 被严格限定在“怎么学、怎么思”的认知与效率层面。
 
 > [!warrant]- 理论推理桥梁
-> [[Policy Borrowing\|政策借用]]与再情境化理论表明，外来理念在本土落地的过程必然经历选择性亲和与重构。中国教师接受以学生为中心教育，是因为它能契合高考改革对批判性思维的要求以及儒家启发式教学传统；然而，由于升学考试制度的刚性约束，学生无法参与决定学什么或怎么考，这构成了教学改革在中国语境下的硬边界。这有力地解释了为什么跨国政策借用在不同国家会呈现完全不同的转译形态(pp. 601–603)。
+> [[Policy Borrowing\|政策借用]]与[[Recontextualization|再情境化]]理论表明，外来理念在本土落地的过程必然经历选择性亲和与重构。中国教师接受以学生为中心教育，是因为它能契合高考改革对批判性思维的要求以及儒家启发式教学传统；然而，由于升学考试制度的刚性约束，学生无法参与决定学什么或怎么考，这构成了教学改革在中国语境下的硬边界。这有力地解释了为什么跨国政策借用在不同国家会呈现完全不同的转译形态(pp. 601–603)。
 
 ---
 

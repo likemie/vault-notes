@@ -36,7 +36,7 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Champ]]"
   - "[[Megascience Installations]]"
-  - "[[Public-Private Partnership in Research]]"
+  - "[[Public-Private Partnership]]"
   - "[[Technology Readiness Level]]"
   - "[[Valley of Death]]"
   - "[[Co-Design]]"

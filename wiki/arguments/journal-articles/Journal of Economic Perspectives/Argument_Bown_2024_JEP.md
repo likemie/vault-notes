@@ -58,6 +58,7 @@ related_facts:
   - "[[China Integrated Circuit Industry Investment Fund]]"
   - "[[Sino-American Trade War]]"
   - "[[October 2022 US Semiconductor Export Controls]]"
+  - "[[EU]]"
 related_arguments: []
 sources:
   - "[[sources/Bown_2024_JEP/Bown_2024_JEP|Bown_2024_JEP]]"
@@ -71,7 +72,7 @@ title: "Argument_Bown_2024_JEP"
 argument_key: "Argument_Bown_2024_JEP"
 argument_display_title: "Semiconductors and modern industrial policy"
 argument_kind: "journal-article"
-argument_related_count: 31
+argument_related_count: 32
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -305,7 +306,7 @@ issuing_organization: ""
 美国的战略转向迅速在全球范围内引发了产业补贴竞赛与地缘经济博弈。（pp. 100–101）
 
 > [!feature] 各主要经济体的协同与博弈反应
-> - **欧盟出台《[[European Chips Act|欧洲芯片法案]]》** 2023 年欧洲联盟（European Union, EU）通过 [[European Chips Act|欧洲芯片法案]]，动员 430 亿欧元资金，豁免国家援助限制以资助意法半导体与格芯在法国建厂（补贴 29 亿欧元），并支持台积电在德国德累斯顿合资建设欧洲半导体制造公司（European Semiconductor Manufacturing Company, ESMC）晶圆厂，力图在 2030 年实现 20% 的全球制造份额。（p. 100）
+> - **[[EU|欧盟]]出台《[[European Chips Act|欧洲芯片法案]]》** 2023 年欧洲联盟（European Union, EU）通过 [[European Chips Act|欧洲芯片法案]]，动员 430 亿欧元资金，豁免国家援助限制以资助意法半导体与格芯在法国建厂（补贴 29 亿欧元），并支持台积电在德国德累斯顿合资建设欧洲半导体制造公司（European Semiconductor Manufacturing Company, ESMC）晶圆厂，力图在 2030 年实现 20% 的全球制造份额。（p. 100）
 > - **日本重振半导体制造战略** 日本政府出资超 30 亿美元资助台积电设立日本先进半导体制造公司（Japan Advanced Semiconductor Manufacturing, JASM）熊本工厂，并联合 IBM 资助本土 Rapidus 财团攻关 2nm 先进逻辑制程。（p. 100）
 > - **韩国与台湾出台税收激励** 韩国出台 K-Chips 法案提供高达 25%–35% 的建厂税收抵免；台湾通过台湾芯片法案将前沿研发税收减免提升至 25% 以巩固本土代工研发优势。（p. 100）
 > - **中国的精准反制与成熟制程转向** 中国对美光科技实施网络安全审查禁令（2023年5月），禁止关键信息基础设施采购其产品；对全球半导体关键矿产镓（中国占全球产量的 98%）和锗（占美进口 54%）实施出口管制（2023年7月）；利用反垄断审查阻击英特尔以 54 亿美元收购以色列高塔半导体（Tower Semiconductor）；同时引导超过 1400 亿美元的国内资金全面转向不受管制的 28nm 及以上成熟制程晶圆厂建设。（p. 101）
@@ -360,7 +361,7 @@ issuing_organization: ""
 > - **44% ➔ 9%** 1990 年至 2020 年欧洲在全球半导体晶圆制造产能中所占份额的萎缩幅度。（p. 91）
 > - **34%** 2020 年中国大陆占全球终端电子产品芯片需求账单的采购份额。（p. 90）
 > - **$390亿** 美国《[[CHIPS and Science Act|芯片与科学法案]]》中直接用于支持本土晶圆制造厂建设的财政补贴总额。（p. 97）
-> - **€430亿** 欧盟《[[European Chips Act|欧洲芯片法案]]》计划动员的公共与私人投资总规模。（p. 100）
+> - **€430亿** [[EU|欧盟]]《[[European Chips Act|欧洲芯片法案]]》计划动员的公共与私人投资总规模。（p. 100）
 > - **98%** 2022 年中国在全球关键半导体矿产镓（Gallium）总产量中的垄断份额。（p. 101）
 
 ---

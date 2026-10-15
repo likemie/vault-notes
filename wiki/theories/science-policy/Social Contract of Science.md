@@ -8,10 +8,10 @@ aliases:
 summary: "社会整体与科学共同体之间围绕知识生产的公共价值形成的权利与责任结构性配置框架，核心涵盖合法性基础、制度与资源支持、自治空间、功能期待与责任结构五个分析维度"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 31
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_count: 32
+theory_related_level: 4
+theory_related_stars: "⭐⭐⭐⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theme/science-policy
   - theme/research-governance
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Big Science]]"
   - "[[Competitiveness]]"
   - "[[Use-Inspired Basic Research]]"
+  - "[[Public-Private Partnership]]"
   - "[[Grand Challenges]]"
   - "[[Technology-Oriented Social Contract]]"
   - "[[Curiosity-Driven Research]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Social Contract of Science
@@ -89,7 +90,7 @@ updated: 2026-10-15
 
 > [!dev-timeline] 科学社会契约的历史演变
 > - **1945—1989 年 — 契约稳定期** 以国家安全与美苏体制竞争为根本合法性基础，建立起多元资助网络与[[Big Science|大科学]]体系；科学家通过美国[[President's Science Advisory Committee|总统科学顾问委员会]]（President's Science Advisory Committee, PSAC）制度性深度嵌入国家最高决策，享有高度专业自治与信任型经费托底。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1058–1059)]]
-> - **1990—2009 年 — 契约再协商与再定义期** 冷战终结削弱了安全正当性的统摄地位，合法性转向经济[[Competitiveness|竞争力]]、社会相关性与治理问责；通过引入[[Use-Inspired Basic Research|应用启发的基础研究]]理念（[[Pasteur's Quadrant|巴斯德象限]]）、公私伙伴关系与绩效评估，形成多种契约逻辑交叠并存的过渡结构。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
+> - **1990—2009 年 — 契约再协商与再定义期** 冷战终结削弱了安全正当性的统摄地位，合法性转向经济[[Competitiveness|竞争力]]、社会相关性与治理问责；通过引入[[Use-Inspired Basic Research|应用启发的基础研究]]理念（[[Pasteur's Quadrant|巴斯德象限]]）、[[Public-Private Partnership|公私伙伴关系]]与绩效评估，形成多种契约逻辑交叠并存的过渡结构。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1059–1060)]]
 > - **2010—2024 年 — 契约危机与重构期** 绩效问责强化、[[Grand Challenges|重大挑战]]导向与[[Research Security|科研安全]]审查刚性化，叠加政治极化与大国技术竞争；科学失去默认信任地位，正当性全面条件化，契约承载的多重功能负载显著上升。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1060–1061)]]
 > - **2025 年起 — 转向技术型替代契约** 美国启动对二战后传统科学社会契约的制度性退出，转向以国家竞争、任务牵引与技术能力获取为中心的[[Technology-Oriented Social Contract|技术型社会契约]]，科学由国家认知中心弱化为能力体系中的组成要素。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1062–1063)]]
 

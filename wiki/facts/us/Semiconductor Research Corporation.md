@@ -25,7 +25,7 @@ tags:
   - theme/corporate-innovation
   - theme/semiconductor
 related_concepts:
-  - "[[Public-Private Partnership in Research]]"
+  - "[[Public-Private Partnership]]"
   - "[[Research Universities]]"
   - "[[Total War]]"
   - "[[Precompetitive Research]]"
@@ -89,7 +89,7 @@ updated: 2026-10-15
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> **半导体研究公司（Semiconductor Research Corporation, SRC）** 是美国半导体产业界于 1982 年联合发起创立的非营利性公私研发合作伙伴关系（[[Public-Private Partnership in Research|PPP]]）与大学科研资助枢纽。SRC 汇聚全美数十家芯片设计、制造与装备巨头（包括市场上直接竞争的企业）的共同资金，专注于资助高校开展长周期、前竞争阶段（Pre-competitive）的基础科学与微电子工艺研究，同时为国家集成电路产业持续输送高水平博士与工程技术领军人才。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 235)]]; [[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 730, 754)]]
+> **半导体研究公司（Semiconductor Research Corporation, SRC）** 是美国半导体产业界于 1982 年联合发起创立的非营利性公私研发合作伙伴关系（[[Public-Private Partnership|PPP]]）与大学科研资助枢纽。SRC 汇聚全美数十家芯片设计、制造与装备巨头（包括市场上直接竞争的企业）的共同资金，专注于资助高校开展长周期、前竞争阶段（Pre-competitive）的基础科学与微电子工艺研究，同时为国家集成电路产业持续输送高水平博士与工程技术领军人才。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 235)]]; [[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 730, 754)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1982 年由美国半导体行业协会（Semiconductor Industry Association, SIA）核心领袖（罗伯特·诺伊斯、[[Erich Bloch|埃里希·布洛赫]]等）发起设立，旨在应对全球半导体市场竞争加剧迫使企业削减基础研究、导致全美微电子基础学科与高层次博士人才严重萎缩的系统性断层危机。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 238–241)]]
@@ -105,7 +105,7 @@ updated: 2026-10-15
 > - **1982–1987 — 破冰创建与前竞争产学资助体系奠基** 建立首个全行业共享的大学微电子研究资助基金，确立“行业提需求、高校出方案、同行评议立项、知识产权非独占共享”的治理准则；早期曾构想广泛吸纳外资企业，但在 1983 年修改章程限制仅允许美国本土公司参与，以化解冷战技术流失顾虑并深度撬动联邦国防对等资助。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 241–242)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 235)]]
 > - **1988–1996 — 协同 [[Sematech]] 统筹[[Sematech Centers of Excellence|大学卓越中心]]网络（SCOE）** 承担 [[Sematech]] 每年 **1000 万至 1500 万美元** 的大学科研经费转拨与统筹管理职能，在加州大学伯克利分校、斯坦福大学、麻省理工学院等高校建立 Sematech 大学卓越技术中心网络，专注于前沿光刻物理、等离子体刻蚀与材料建模基础研究。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 730, 735, 754)]]
 > - **1997–2017 — [[Focus Center Research Program|焦点研究中心计划]]（FCRP）、NRI 扩张与分层全球开放** 1998 年联合 SIA、[[DARPA]] 与 [[Sematech]] 设立微电子先进研究联盟（MARCO），正式启动焦点研究中心计划（Focus Center Research Program, FCRP），随后设立纳米电子学研究倡议（NRI）；同时在 1999 年起重新对全球跨国半导体企业开放 GRC 等子计划的会员准入，形成“底层计划全球开放、联邦对等资助计划本土限制”的分层开放格局。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 242, 248–249)]]; [[Argument_Macher_1998_CMR|(Macher et al., 1998, p. 121, note 48)]]
-> - **2018–至今 — [[Joint University Microelectronics Program 2.0|JUMP 2.0]] 与对接《[[CHIPS and Science Act|芯片法案]]》国家战略体系** 启动微电子联合大学微电子计划（JUMP 2.0），并与 2022 年《芯片与科学法案》设立的[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）深度协同，从行业联盟型 [[Public-Private Partnership in Research|PPP]] 跃升为国家战略级产学研核心支撑平台。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11)]]
+> - **2018–至今 — [[Joint University Microelectronics Program 2.0|JUMP 2.0]] 与对接《[[CHIPS and Science Act|芯片法案]]》国家战略体系** 启动微电子联合大学微电子计划（JUMP 2.0），并与 2022 年《芯片与科学法案》设立的[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）深度协同，从行业联盟型 [[Public-Private Partnership|PPP]] 跃升为国家战略级产学研核心支撑平台。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11)]]
 > - **2024 年 — 白宫《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》下的公私协同与本科生留存专项** 白宫国家科学技术委员会在国家战略中将 SRC JUMP 2.0 跨校中心列为 Goal 4.1 公私伙伴关系的核心支柱，与 NSTC、[[National Advanced Packaging Manufacturing Program|NAPMP]]、[[Microelectronics Commons|微电子共用体]]和 [[Manufacturing USA]] 紧密联动；同时针对拔尖人才流失危机，SRC 联合 [[National Science Foundation|NSF]] 设立本科生科研体验（REU）微电子专项，资助低年级本科生直接参与前沿芯片设计与实验，构筑从本科到硕博的微电子人才蓄水池。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 37, 39–43)]]
 
 ---
@@ -154,7 +154,7 @@ updated: 2026-10-15
 > - **公共财政资金强杠杆** 依托企业会费吸纳国防部、自然科学基金等机构对等匹配注资，使外部联邦公共资金占 SRC 高校资助总预算的比例由 1997 年的约 8% 攀升至 2010 年的 **70% 以上**。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, p. 252)]]
 
 > [!finding-cards] 关键成效与辐射影响
-> - **第二代半导体产学前竞争联合体的典范标杆** 在半导体跨界协同的三代制度演进中，SRC 作为第二代“行业前竞争联盟”的标志性组织，汇聚数十家竞争企业筹资并配合国际半导体技术路线图（ITRS）攻坚工艺微缩与新材料物理极限，成功探索出让竞争对手在底层科学层面共享资金、分摊风险并共同培育高素质后备工程师的制度模板，成为全球公私研发合作（[[Public-Private Partnership in Research|PPP]]）的教科书[[Paradigm|范式]]。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 235)]]
+> - **第二代半导体产学前竞争联合体的典范标杆** 在半导体跨界协同的三代制度演进中，SRC 作为第二代“行业前竞争联盟”的标志性组织，汇聚数十家竞争企业筹资并配合国际半导体技术路线图（ITRS）攻坚工艺微缩与新材料物理极限，成功探索出让竞争对手在底层科学层面共享资金、分摊风险并共同培育高素质后备工程师的制度模板，成为全球公私研发合作（[[Public-Private Partnership|PPP]]）的教科书[[Paradigm|范式]]。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 235)]]
 > - **支撑 [[Sematech]] 等[[Industry Affiliate Program|产业联盟]]的基础研究短板** 弥补了工业制造联盟聚焦中短期工程开发的局限，为全产业链提供了深厚的上游学科地基。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 730, 754)]]
 > - **依托大学中心充当校园内部技术经纪人** 莫迪（[[Argument_Mody_2017_MOH|Mody, 2017]]）指出，SRC 在对接学术界时克服了院系官僚迟缓与个别学者知识老化的双重困境，通过与康奈尔 [[National Research and Resource Facility for Submicron Structures|NRRFSS]]（设立微科学卓越中心，主任爱德华·沃尔夫进入 SRC 大学顾问委员会）与斯坦福 CIS 等大学多学科中心深度嵌合，将高校跨系所教员直接编织进国家行业路线图。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 292–293)]]
 > - **催化北卡罗来纳州微电子产业走廊崛起** 1980 年代初北卡罗来纳州长吉姆·亨特联合 5 所重点大学出资设立北卡微电子中心（MCNC），并成功将 SRC 总部争夺吸纳至三角研究园（[[Research Triangle Park|RTP]]），成为美国各州利用大学中心开展高技术制度竞标的早期经典战役。[[Argument_Mody_2017_MOH|(Mody, 2017, pp. 293–294)]]
@@ -178,7 +178,7 @@ updated: 2026-10-15
 > > - **批评视角（反方）** [[Argument_Logar_2014_Minerva|Logar et al. (2014, pp. 251–252)]] 揭示会费与成员企业销售额直接挂钩导致其抗周期能力薄弱，在 2009–2010 年微电子产业萧条期研发预算骤降 30%，表明纯私营产学联合体无法替代公共财政逆周期托底长远基础科研的职能。
 > > - **政策制度反思** 表明国家战略科技治理不能过度依赖产业界会费，必须在产业低谷期由联邦公共预算提供逆周期逆风托底。
 >
-> > [!axis] 行业联盟型 [[Public-Private Partnership in Research|PPP]] vs 国家战略型 PPP 的制度定位张力
+> > [!axis] 行业联盟型 [[Public-Private Partnership|PPP]] vs 国家战略型 PPP 的制度定位张力
 > > 随着《[[CHIPS and Science Act|芯片法案]]》[[National Science and Technology Council|NSTC]] 等政府重资产平台的设立，传统由企业主导的 SRC 模式面临重新定位。
 > >
 > > - **战略转型视角** [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] 指出 NSTC 的出现对企业构成了“强制函数”，迫使[[University-Industry Collaboration|产学合作]]实践者重新厘清 SRC（服务于可预测的持续性路线图）与 NSTC（国家地缘科技安全与战略转折突破）的分工边界。

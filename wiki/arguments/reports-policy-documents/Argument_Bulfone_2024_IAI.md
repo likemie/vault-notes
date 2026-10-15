@@ -23,7 +23,7 @@ title: "Argument_Bulfone_2024_IAI"
 argument_key: "Argument_Bulfone_2024_IAI"
 argument_display_title: "Adjusting to new geopolitical realities: Semiconductors industrial policy in the US and EU (IAI Papers 24 | 13)"
 argument_kind: "report"
-argument_related_count: 26
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dcfce7"
@@ -51,6 +51,7 @@ related_methods:
 related_persons:
   - "[[Mariana Mazzucato]]"
 related_facts:
+  - "[[EU]]"
   - "[[CHIPS and Science Act]]"
   - "[[European Chips Act]]"
   - "[[Important Projects of Common European Interest]]"
@@ -78,7 +79,7 @@ tags:
 ## 研究问题
 
 > [!question]
-> 在大国地缘对抗加剧、全球供应链屡遭断链危机与大西洋两岸重拾国家干预主义的背景下，美国与欧洲联盟在数字半导体价值链各环节究竟面临怎样的结构性依赖与比较优势；两套标志性的现代产业战略——美国《[[CHIPS and Science Act|芯片与科学法案]]》与欧盟《[[European Chips Act|欧洲芯片法案]]》——在治理架构、政策目标、财政体量、工具组合与附加条件设计上存在何种制度分殊，这些制度差异如何决定各自重塑[[Strategic Autonomy|战略自主]]的实际效能。
+> 在大国地缘对抗加剧、全球供应链屡遭断链危机与大西洋两岸重拾国家干预主义的背景下，美国与[[EU|欧洲联盟]]在数字半导体价值链各环节究竟面临怎样的结构性依赖与比较优势；两套标志性的现代产业战略——美国《[[CHIPS and Science Act|芯片与科学法案]]》与欧盟《[[European Chips Act|欧洲芯片法案]]》——在治理架构、政策目标、财政体量、工具组合与附加条件设计上存在何种制度分殊，这些制度差异如何决定各自重塑[[Strategic Autonomy|战略自主]]的实际效能。
 
 > [!claim] 核心主张
 > 美欧虽然均将半导体产业政策高度聚焦于中间制造产能回流以谋求[[Strategic Autonomy|战略自主]]，但二者展现出根本分歧的治理逻辑：美国依托中央财政的雄厚财力推行联邦高度集权化的直接资助与税收抵免，并施加涵盖国家安全护栏、劳工薪酬与利润分享的全流程刚性[[Policy Conditionalities|制度化附加条件]]；欧盟则因超国家财政税收主权的缺位，不得不采取去中心化的多层级治理模式，由欧洲联盟委员会充当[[Orchestrator State|产业政策协调者]]，依赖各成员国财政在[[Important Projects of Common European Interest|欧洲共同利益重要项目]]（Important Projects of Common European Interest, IPCEI）等框架下提供国家援助豁免与弱危机附加条件，此种模式面临加剧成员国内部财政与技术鸿沟并破坏单一市场完整性的严重系统性风险。（pp.1–3, 13–17）
@@ -100,7 +101,7 @@ tags:
 > | **[[Policy Conditionalities\|制度化附加条件]]**<br>[[Policy Conditionalities]] | 借鉴爱丽丝·阿姆斯登（Alice Amsden）与[[Mariana Mazzucato\|玛丽安娜·马祖卡托]]（Mariana Mazzucato）及丹尼·罗德里克（Dani Rodrik）的分析进路，评估公共资本向私营部门转移时所绑定的双向契约与[[Public Value\|公共价值]]约束。（pp.14–15） |
 
 > [!warrant]- 理论如何支撑论证
-> 论文将现代产业政策的政治经济学视角与价值链依赖测度深度结合。首先，运用价值链分阶段依赖分析作为经验起点，精准揭示各经济体的非对称结构性软肋；其次，以制度化附加条件理论为检验准绳，剖析国家在向跨国半导体寡头让渡巨额财政补贴时能否维持规制权威；最后，借助比较政治经济学对国家治理形态与财政能力的剖析，论证多层级政体（如欧盟）在缺乏中央财政支撑时推行现代产业政策所面临的内生协调阻碍。（pp.3, 13–17）
+> 论文将现代产业政策的政治经济学视角与价值链依赖测度深度结合。首先，运用价值链分阶段依赖分析作为经验起点，精准揭示各经济体的非对称结构性软肋；其次，以制度化附加条件理论为检验准绳，剖析国家在向跨国半导体寡头让渡巨额财政补贴时能否维持规制权威；最后，借助比较政治经济学对国家治理形态与财政能力的剖析，论证多层级政体（如[[EU|欧盟]]）在缺乏中央财政支撑时推行现代产业政策所面临的内生协调阻碍。（pp.3, 13–17）
 
 ---
 
@@ -116,7 +117,7 @@ tags:
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |---|---|
-> | **贸易数据样本** | 2011 年与 2021 年欧盟 27 国（含克罗地亚，不含英国）、美国、中国及法德意等国涵盖铜矿、钴矿、镓、稀土、硅、光纤、微芯片制造设备、晶圆、微芯片、计算机及通信设备的双边贸易流。（pp.3–4） |
+> | **贸易数据样本** | 2011 年与 2021 年[[EU\|欧盟]] 27 国（含克罗地亚，不含英国）、美国、中国及法德意等国涵盖铜矿、钴矿、镓、稀土、硅、光纤、微芯片制造设备、晶圆、微芯片、计算机及通信设备的双边贸易流。（pp.3–4） |
 > | **政策文本样本** | 美国公法第 117-167 号《[[CHIPS and Science Act\|芯片与科学法案]]》、白宫事实清单、美国国家标准与技术研究院（National Institute of Standards and Technology, NIST）制造设施资助公告；欧盟 2023/1781 号《[[European Chips Act\|欧洲芯片法案]]》规例、[[Important Projects of Common European Interest\|IPCEI ME/CT]] 批准决议文件。（pp.8–14, 18–19） |
 > | **实证追踪样本** | 2022 年 8 月至 2024 年 2 月 Jack Conness 数据库记录的 28 项美国芯片法案制造业投资公告，覆盖[[Taiwan Semiconductor Manufacturing Corporation\|台积电]]、美光、英特尔、IBM 等跨国企业在各州的投资规模与拟创就业。（pp.9–11） |
 
@@ -160,7 +161,7 @@ tags:
 > [!row-contrast] 欧美及主要国家关键数字价值链依赖环节全景对比
 > | 经济体 | 采矿阶段（Mining） | 提纯阶段（Refining） | 中间产品（Intermediate products） | 最终产品（Final products） |
 > |---|---|---|---|---|
-> | **欧盟（EU）** | 铜矿、镓、稀土 | 铜、钴 | 光纤、微芯片 | 计算机、通信设备 |
+> | **[[EU\|欧盟]]（EU）** | 铜矿、镓、稀土 | 铜、钴 | 光纤、微芯片 | 计算机、通信设备 |
 > | **美国（USA）** | 钴矿、镓、稀土 | 铜、钴 | 晶圆（Wafers） | 计算机、通信设备 |
 > | **德国（Germany）** | 铜矿、钴矿、镓、稀土 | 钴 | — | 计算机、通信设备 |
 > | **意大利（Italy）** | 钴矿、镓、稀土 | 铜、钴、硅 | 芯片制造设备、光纤、晶圆、微芯片 | 计算机、通信设备 |
@@ -289,7 +290,7 @@ tags:
 
 > [!finding-cards] 核心发现
 > 1. **全链条深层依赖与设备单一优势** 欧洲在数字价值链采矿、提纯、中间元器件与最终制成品全阶段均呈显著净进口依赖，十年 CRM 战略未改脆弱本质，仅在微芯片制造设备上具备领先优势。（pp.4–5）
-> 2. **集中直投与去中心协调的模式分水岭** 美国实行联邦中央集权式强力直接补贴（527 亿美元），而欧盟受制于财政主权缺位仅出资 33 亿欧元直接预算，本质上由欧委会作为协调者依托成员国国家援助与 [[Important Projects of Common European Interest|IPCEI]] 框架分散推进。（pp.9, 12–14）
+> 2. **集中直投与去中心协调的模式分水岭** 美国实行联邦中央集权式强力直接补贴（527 亿美元），而[[EU|欧盟]]受制于财政主权缺位仅出资 33 亿欧元直接预算，本质上由欧委会作为协调者依托成员国国家援助与 [[Important Projects of Common European Interest|IPCEI]] 框架分散推进。（pp.9, 12–14）
 > 3. **美欧附加条件约束效力严重不对称** 美国构建了涵盖国家安全十年排他护栏、劳工现行工资、托儿福利、回购禁令与超额利润分享的严苛硬约束，而欧盟仅具备 IPCEI 利润回缴及危机期订单优先供应等弱约束。（pp.14–15）
 > 4. **成员国财政分化威胁欧洲单一市场稳定** 依赖成员国国库资助导致半导体资本过度流向德法等财政大国，加剧内部不平等并侵蚀欧洲单一市场公平竞争底线，亟需深化超国家财政与资本市场联盟。（pp.13–14, 17）
 
@@ -311,7 +312,7 @@ tags:
 >
 > *The US CHIPS Act stands out as one of the few bills that gathered bipartisan support, including a 60 per cent majority in the Senate, amid great polarisation between the Democratic and the Republican Party. This rare agreement shows how industrial policy is one of the few common denominators between the developmentalist platform promoted by the Democratic Party under Biden and the protectionist policy championed by 'Make America Great Again' Republicans. The [[Emergence]] of China as a new global rival, and the ensuing geopolitical tensions, have played a decisive role as a coalitional magnet.*（p.8）
 
-> [!citation-card] 欧盟委员会在产业政策中的协调者异化
+> [!citation-card] [[EU|欧盟]]委员会在产业政策中的协调者异化
 > 尽管美国联邦政府在半导体产业中的角色日益趋向于通过集中式治理直接向单个企业投放定向资金，欧盟委员会却越来越多地扮演[[Orchestrator State|产业政策协调者]]的角色。它通过便利成员国提供国家援助，并激励单一市场内部形成跨国界与跨部门的生产网络来推进战略目标。
 >
 > *Thus, while the industrial policy role of the US government is increasingly to shape the semiconductor sector through centralised governance and targeted funding directly available to single firms, the EU Commission increasingly operates as an 'orchestrator' of industrial policy by facilitating the provision of national state aid by member states and by incentivising the emergence of cross-country and cross-sectoral production networks in the single market.*（p.14）
@@ -328,7 +329,7 @@ tags:
 > [!warning]
 > 1. **贸易依赖测度的时间截点滞后** 研究所依据的 BACI-CEPII 贸易数据库统计时间仅截止至 2021 年，无法完全反映 2022 年俄乌冲突爆发、大国出口管制升级及欧美[[CHIPS and Science Act|芯片法案]]生效后全球半导体与关键原材料贸易流动的最新动态调整。（pp.3–4）
 > 2. **比较分析的初步性与描述性定位** 研究自述对美欧半导体产业政策的对比属于初步且主要是描述性的比较分析，并未展开深层微观因果机制的量化计量识别。（pp.2–3）
-> 3. **受益主体跨国可比性受限** 鉴于欧盟芯片政策复杂的资金多层级结构与治理分散性，缺乏直接等价的跨国可比口径，因此对欧盟具体受益企业与区域的经验数据呈现仅能局限于 [[Important Projects of Common European Interest|IPCEI]] 框架，难以直接与美国按州及企业的完整明细展开完全对称的量化比对。（pp.3, 13）
+> 3. **受益主体跨国可比性受限** 鉴于[[EU|欧盟]]芯片政策复杂的资金多层级结构与治理分散性，缺乏直接等价的跨国可比口径，因此对欧盟具体受益企业与区域的经验数据呈现仅能局限于 [[Important Projects of Common European Interest|IPCEI]] 框架，难以直接与美国按州及企业的完整明细展开完全对称的量化比对。（pp.3, 13）
 
 ---
 

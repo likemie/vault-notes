@@ -6,7 +6,7 @@ aliases:
 summary: "一种将研究证据定位为多元决策资源之一的实践取向，主张以专业判断为核心枢纽，情境化整合研究证据、系统数据与课堂数据，并依托榜样领导、专有排程与全系统知识动员推进高质量证据使用与教育改进"
 type: concept
 domain: "educational-policy-reform"
-related_count: 93
+related_count: 95
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[Data Literacy]]"
   - "[[Research Literacy]]"
+  - "[[Recontextualization]]"
   - "[[Research Utilization]]"
   - "[[Professional Learning Community]]"
   - "[[Reflexivity]]"
@@ -100,6 +101,7 @@ related_facts:
   - "[[Chartered College of Teaching]]"
   - "[[Data Team Intervention]]"
   - "[[Research Learning Communities]]"
+  - "[[EU]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Students and Teachers Accessing Tomorrow]]"
   - "[[OECD]]"
@@ -120,7 +122,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-05-01"
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Evidence-Informed Practice
@@ -194,7 +196,7 @@ updated: 2026-10-15
 > - **双素养协同培育（Dual Literacy Development）** 协同培育教师的[[Data Literacy\|数据素养]]（采集与质检校本数据）与[[Research Literacy\|研究素养]]（检索与转译外部实证），打破专业能力壁垒。[[Argument_Brown_2017_ER\|(Brown et al., 2017, p. 167)]]
 
 > [!factors] EIP 在学校层面落地的四类关键因素
-> - **能力** 参与研究并运用研究证据与数据的能力，包括解读校本数据以定位问题、判断研究方法的优势与局限、理解再情境化，以及掌握[[Inquiry Cycle\|探究循环]]与影响测量的方法。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 122–123)]]
+> - **能力** 参与研究并运用研究证据与数据的能力，包括解读校本数据以定位问题、判断研究方法的优势与局限、理解[[Recontextualization|再情境化]]，以及掌握[[Inquiry Cycle\|探究循环]]与影响测量的方法。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 122–123)]]
 > - **文化规范** 让[[Research Utilization\|研究使用]]成为学校的文化常规，需要[[School Leadership\|学校领导]]层的全力投入以及非正式推动者的支持;领导者在其中既承担确立愿景的变革型职能，也承担建构学习条件的职能。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 123–124)]]
 > - **学习环境** 把研究使用嵌入有效的学习环境，其最佳载体是[[Professional Learning Community\|专业学习共同体]]（PLC），核心特征是[[Reflexivity\|反思性]]专业探究，包括反思性对话与围绕严肃教育议题的交谈。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 124–125)]]
 > - **结构、系统与资源** 领导者须提供并协调时间、空间与预算，建立与 PLC 学习相容的正式机制，并理解校内非正式社会网络如何促成有效实践的分配与采纳。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p. 125)]]
@@ -352,7 +354,7 @@ updated: 2026-10-15
 > - **2017 — 定义、应用与测量的三轴整合** [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] 编辑特刊，将 EIP 系统化组织为定义（四源整合）、应用（[[Knowledge Mobilisation\|知识动员]]四策略与肥沃土壤）与测量（双重缺口与成果分层）三大主题。
 > - **2017 — [[Operationalization\|操作化]]整合模型（[[School Enquiry Cycle\|ESTI]]）与两界融通** [[Argument_Brown_2017_ER\|Brown et al. (2017)]] 针对 EIP 在实践中分裂为 [[Data-Based Decision Making\|DBDM]] 与 [[Research-Informed Teaching Practice\|RITP]] 的双轨割裂现状，提出整合内部[[Data Team Intervention\|数据团队]]与外部[[Research Learning Communities\|研究学习共同体]]的 ESTI 八步[[Inquiry Cycle\|探究循环]]，为 EIP 奠定了微观操作化理论基石。
 > - **2018 — 组织单位上移与四类关键因素** [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]] 把[[Unit of Analysis\|分析单位]]由个体决策上移至学校组织，提出参与研究的能力、研究使用的文化常规、有效学习环境与支持性结构系统资源四类关键因素，并在英格兰 79 所小学测量其准备状态;研究同时指出 EIP 的稳定推进依赖外部问责与督导框架的明确支持。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 122–126, 133)]]
-> - **2021 — 欧洲政策语言与非处方化协调** 在欧盟语境中，EIP 被重新概念化为适应成员国教育主权、培育评价文化与[[Knowledge Mediation\|知识中介]]的非处方化政策语言。[[Argument_Pellegrini_2021_ECNUROE\|(Pellegrini & Vivanet, 2021, pp. 28–31)]]
+> - **2021 — 欧洲政策语言与非处方化协调** 在[[EU|欧盟]]语境中，EIP 被重新概念化为适应成员国教育主权、培育评价文化与[[Knowledge Mediation\|知识中介]]的非处方化政策语言。[[Argument_Pellegrini_2021_ECNUROE\|(Pellegrini & Vivanet, 2021, pp. 28–31)]]
 > - **2021 — [[Local Knowledge in Evidence-Based Policy\|地方知识]]与多维决策信息的显影** [[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison (2021)]] 结合 [[Every Student Succeeds Act\|ESSA]] [[Evidence Standards\|证据标准]]与巴尔的摩 [[Students and Teachers Accessing Tomorrow\|STAT]] 项目，论证实施语境、成本与地方知识对证据使用的塑造作用。
 > - **2022 — 系统论转向与政策调查国际映射** [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] 依托[[OECD\|经合组织]]（OECD）项目将 EIP 拓展至 29 个国家的 37 个教育系统，从复杂系统论和行动者生态视角，揭示政策制定者与实践者在证据知情过程中面临的结构性壁垒与共创瓶颈。
 > - **2022 — 实践倾斜反思、商业异化与循证医学镜鉴** [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] 考证 EIP 重心由政策端向实践端的历史转移（如 [[Education Endowment Foundation\|EEF]] 与 [[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] 的兴起），警告过度偏向课堂易诱发政策层自我脱责；揭示证据知情标签存在被商业资本与自利操纵者绑架的异化风险，并援引循证医学危机阐明僵化指南对专业判断的潜在侵蚀。
@@ -431,6 +433,6 @@ updated: 2026-10-15
 > - [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] — 梳理 EIP [[Epistemology\|认识论]]变迁与 20 年知识管理脉络，将实践知情与政策决策统合进复杂[[Evidence Ecosystem\|证据生态系统]]，并对 29 国跨国政策调查框架展开系统奠基。
 > - [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] — 系统构建 EIP 的三维理论框架，阐述四源整合机制、[[Knowledge Mobilisation\|知识动员]]策略与成果测量类型学。
 > - [[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison (2021)]] — 通过马里兰州 [[Students and Teachers Accessing Tomorrow\|STAT]] 技术改革项目，检验 [[Every Student Succeeds Act\|ESSA]] [[Evidence Standards\|证据标准]]在学区采购与复杂改革中的局限性，论证[[Local Knowledge in Evidence-Based Policy\|地方知识]]与实施成本对[[Evidence-Informed Decision-Making\|证据知情决策]]的塑造作用。
-> - [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet (2021)]] — 梳理欧盟证据知情教育政策与中介机构网络，提出适应成员国教育主权、非处方式推进评价文化与证据支持的跨国治理路径。
+> - [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet (2021)]] — 梳理[[EU|欧盟]]证据知情教育政策与中介机构网络，提出适应成员国教育主权、非处方式推进评价文化与证据支持的跨国治理路径。
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] — 基于跨国 109 项研究的[[Systematic Review\|系统综述]]，提出学校[[Research Utilization\|研究使用]]应从自上而下的线性实施转向以[[Teacher Professional Agency\|教师能动性]]为核心的多维整合[[Paradigm\|范式]]。
 > - [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]] — 把 EIP 的[[Unit of Analysis\|分析单位]]上移至学校组织，从文献中提炼能力、文化规范、有效学习环境与结构系统资源四类关键因素，并以英格兰 79 所小学 696 名实践者的基线调查显示学校在评价环节、反思教学假设与正式研讨论坛上准备最薄弱，据此主张督导框架须明确支持证据知情改进。

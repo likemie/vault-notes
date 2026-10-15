@@ -8,7 +8,7 @@ aliases:
 summary: "指超越单一学科、产业与国家疆界，涉及广泛社会、技术、生态与行为维度的系统性复杂难题；构成了现代使命导向科技创新治理的根本战略锚点；在 AI 与前沿科学时代，重大挑战演化为通过高杠杆问题表述与客观盲测基准（如 CASP、创世纪计划 20 项国家挑战）将庞大组合搜索空间转化为可验证技术阶梯的核心政策工具。"
 type: concept
 domain: "science-policy"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -48,6 +48,7 @@ related_persons:
 related_facts:
   - "[[UN Sustainable Development Goals]]"
   - "[[Lund Declaration 2009]]"
+  - "[[EU]]"
   - "[[Critical Assessment of Structure Prediction]]"
   - "[[Human Genome Project]]"
   - "[[DARPA]]"
@@ -62,7 +63,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Grand Challenges
@@ -80,7 +81,7 @@ updated: 2026-10-07
 > - **边界** 抽象宏观的重大挑战（如[[UN Sustainable Development Goals|联合国可持续发展目标]] SDGs）不能直接作为具体研发项目的验收标准，必须经过科学解构转化为边界清晰、可客观验证的具体政策使命（Missions）或基准任务（Benchmarks）。
 
 > [!citation-card] 从[[Big Science|大科学工程]]到应对重大社会挑战的范式跃迁
-> 面对 21 世纪的重大挑战，无论是应对气候危机还是解决现代照护体系崩溃，都需要公共与私人部门的深度协同投资。公共部门的根本职责不仅是分担风险与维持市场秩序，更是主动向既定公共目标[[Tilting the Playing Field|倾斜竞争场地]]，通过创造与塑造新兴市场来激发商业投资信心。从 2009 年[[Lund Declaration 2009|《隆德宣言》]]到欧盟科研框架，全球创新政策正逐步完成从修正[[Market Failure|市场失灵]]向直面重大挑战的系统重组。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–789)]]
+> 面对 21 世纪的重大挑战，无论是应对气候危机还是解决现代照护体系崩溃，都需要公共与私人部门的深度协同投资。公共部门的根本职责不仅是分担风险与维持市场秩序，更是主动向既定公共目标[[Tilting the Playing Field|倾斜竞争场地]]，通过创造与塑造新兴市场来激发商业投资信心。从 2009 年[[Lund Declaration 2009|《隆德宣言》]]到[[EU|欧盟]]科研框架，全球创新政策正逐步完成从修正[[Market Failure|市场失灵]]向直面重大挑战的系统重组。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–789)]]
 >
 > *Addressing grand challenges—whether traveling to the moon, battling climate change, or tackling modern care problems—requires investments by both private and public actors. The role of the public sector here is not just about de-risking, and leveling the playing [[Champ|field]], but tilting the playing field in the direction of the desired goals... Missions have emerged as perhaps the primary approach to tackle grand challenges through innovations.*
 
@@ -169,7 +170,7 @@ updated: 2026-10-07
 > - **[[Human Genome Project|人类基因组计划]]（HGP）** 跨越 13 年的跨国[[Big Science|大科学]]挑战；设定了“完整测序人类 30 亿碱基对”的严格定量目标，成功将基因测序从耗时耗力的高门槛实验室手艺转变为标准化、低成本的通用商业能力，开启了现代精准医疗产业。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 26, 43–44)]]
 > - **[[DARPA]] 自动驾驶大挑战赛（2004/2005）** 目标明确（穿越莫哈韦沙漠 150 英里）、路径完全不限的拉动式竞赛；以 200 万美元奖金撬动了全美高校与初创企业的算法软硬件突击，孵化出激光雷达、实时路径规划与现代无人驾驶整个新兴产业生态。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 29)]]
 > - **[[Genesis Mission|创世纪计划]] 20 项国家关键科技挑战（2025–2026）** 依据总统备忘录由能源部联合各机构锁定先进制造、生物技术、关键材料、核聚变/裂变、量子信息与半导体等领域的 20 个重大攻坚课题，依托“美国科学与安全平台”（ASSP）汇聚国家实验室算力、私有数据与闭环机器人实验室全面突破。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 62)]]
-> - **欧盟“地平线 2020”与[[Lund Declaration 2009|《隆德宣言》]]社会重大挑战** 欧洲科研政策向气候中和城市、海洋保护、土壤健康等重大社会愿景转型的制度化实践。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–789)]]
+> - **[[EU|欧盟]]“地平线 2020”与[[Lund Declaration 2009|《隆德宣言》]]社会重大挑战** 欧洲科研政策向气候中和城市、海洋保护、土壤健康等重大社会愿景转型的制度化实践。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 788–789)]]
 
 ---
 

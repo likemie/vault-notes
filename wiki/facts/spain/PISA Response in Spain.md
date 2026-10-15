@@ -11,7 +11,7 @@ subtype: event
 region: spain
 fact_region: "spain"
 fact_kind: "event"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -39,6 +39,7 @@ related_persons: []
 related_facts:
   - "[[PISA]]"
   - "[[Organic Law on the General Organization of the Education System 1990]]"
+  - "[[EU]]"
   - "[[OECD]]"
   - "[[Organic Law on Education 2006]]"
   - "[[Centros Concertados]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-12
+updated: 2026-10-16
 ---
 
 # PISA Response in Spain
@@ -64,7 +65,7 @@ updated: 2026-10-12
 > - **时间跨度 / 空间地理** 2001 年底首届 PISA 2000 结果公布至 2006 年新教育法颁布，核心辐射西班牙全国 17 个自治区。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 324–325)]]
 > - **核心当事主体** 西班牙中央教育部、17 个自治区教育行政部门、中左翼工人社会党（PSOE）、中右翼人民党（PP）以及教师工会。
 > - **深层制度与社会背景** 1990 年《教育体制总组织法》（[[Organic Law on the General Organization of the Education System 1990|LOGSE]]）确立了 12 至 16 岁单一不分流的义务中等教育（ESO），但均质化课程导致大量学生学业受挫；同时国家从极度集权急剧滑向“狂热分权”，中央政府缺乏统一的毕业统考或质量调控工具。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 325–327)]]
-> - **直接导火索 / 触发事件** PISA 2000 与 PISA 2003 连续两轮评估显示西班牙阅读、数学与[[Scientific Literacy|科学素养]]常年垫底于欧盟主要成员国，暴露出惊人的高学业失败率与极低卓越率。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 331–332)]]
+> - **直接导火索 / 触发事件** PISA 2000 与 PISA 2003 连续两轮评估显示西班牙阅读、数学与[[Scientific Literacy|科学素养]]常年垫底于[[EU|欧盟]]主要成员国，暴露出惊人的高学业失败率与极低卓越率。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 331–332)]]
 
 ---
 

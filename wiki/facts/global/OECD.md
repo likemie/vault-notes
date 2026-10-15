@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 126
+fact_related_count: 129
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Performance Indicators]]"
   - "[[School Autonomy]]"
+  - "[[Encyclopaedic Definition of Knowledge]]"
   - "[[Innovation Policy Paradigms]]"
   - "[[Epistemic Governance]]"
   - "[[Governing by Numbers]]"
@@ -134,12 +135,14 @@ related_facts:
   - "[[A Nation at Risk 1983]]"
   - "[[International Indicators of Education Systems]]"
   - "[[Education at a Glance]]"
+  - "[[Delors Report]]"
   - "[[World Bank]]"
   - "[[World Education Indicators]]"
   - "[[Teaching and Learning International Survey]]"
   - "[[Programme for the International Assessment of Adult Competencies]]"
   - "[[PISA for Development]]"
   - "[[Strengthening the Impact of Education Research Project]]"
+  - "[[EU]]"
   - "[[Whole Earth Catalog]]"
   - "[[Education GPS]]"
   - "[[Achieve]]"
@@ -161,7 +164,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # OECD
@@ -215,8 +218,8 @@ updated: 2026-10-15
 >   - **1994** 日本与东亚后发追赶的成功暴露了单纯依赖弗拉斯卡蒂研发投入指标的局限，OECD 科技政策委员会（Committee for Scientific and Technological Policy，CSTP）在弗里曼、本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（Bengt-Åke Lundvall）等[[Evolutionary Economics|演化经济学]]家影响下，启动国家[[Systems of Innovation|创新系统]]大型国际研究项目。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 10–11, 19–20)]]
 >   - **1994** 帕帕多普洛斯指出经合组织形成了一种混合型新自由主义视角：经济增长居于主导地位，但必须受到社会维度与人类福祉的适度调和。[[Argument_Beech_2009_GlobalGarden|(Papadopoulos, 1994, cited in Beech, 2009b, p. 347)]]
 >   - **1995** 发布《转型中的治理》（*Governance in Transition*）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 440–446)]]
->   - **1996** 发布《以知识为基础的经济》（*The Knowledge Based Economy*），结合[[New Growth Theory|内生新增长理论]]建构起全球共享的知识经济社会想象。经合组织在北方发达国家的强势扩张侵蚀了教科文组织的传统权威，诱发其领导权危机并促成《德洛尔报告》的反击。[[Argument_Beech_2009_GlobalGarden|(Jones & Coleman, 2005, cited in Beech, 2009b, pp. 347–348)]]
->   - **1996 起** 协同[[World Bank|世行]]与教科文组织共同预设单一平面的信息时代，成套推销由分权化、[[School Autonomy|学校自主权]]、教师专业化、能力本位课程与中央质量评估构成的五大支柱模型，将阿根廷、巴西等受援国注重系统记忆的百科全书式知识传统贬斥为落后低效。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349)]]
+>   - **1996** 发布《以知识为基础的经济》（*The Knowledge Based Economy*），结合[[New Growth Theory|内生新增长理论]]建构起全球共享的知识经济社会想象。经合组织在北方发达国家的强势扩张侵蚀了教科文组织的传统权威，诱发其领导权危机并促成《[[Delors Report|德洛尔报告]]》的反击。[[Argument_Beech_2009_GlobalGarden|(Jones & Coleman, 2005, cited in Beech, 2009b, pp. 347–348)]]
+>   - **1996 起** 协同[[World Bank|世行]]与教科文组织共同预设单一平面的信息时代，成套推销由分权化、[[School Autonomy|学校自主权]]、教师专业化、能力本位课程与中央质量评估构成的五大支柱模型，将阿根廷、巴西等受援国注重系统记忆的[[Encyclopaedic Definition of Knowledge|百科全书式知识传统]]贬斥为落后低效。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349)]]
 >   - **1997** 发布纲领性报告《[[National Innovation System|国家创新系统]]》（*National Innovation Systems*），官方科技政策范式从布什单向线性模型跨越至多主体互动学习的[[Innovation Policy Paradigms|创新系统范式]]。
 >
 > - **2000–至今** **独立教育司设立、大数据[[Governing at a Distance|远处治理]]、非成员经济体外展与[[Epistemic Governance|知识治理]]体系深化**
@@ -239,7 +242,7 @@ updated: 2026-10-15
 经合组织形成了由成员国常驻代表决议、专业司局日常执行、外部顶尖学术网络技术支撑的多层次治理体制。
 
 > [!actor-grid] 组织治理架构
-> - **最高决策中枢（理事会 Council）** 由全体成员国常驻大使代表及欧盟代表组成的高级别权力机构，负责审议工作规划、战略重点与财政预算，采取全体协商一致（Consensus）决策原则。
+> - **最高决策中枢（理事会 Council）** 由全体成员国常驻大使代表及[[EU|欧盟]]代表组成的高级别权力机构，负责审议工作规划、战略重点与财政预算，采取全体协商一致（Consensus）决策原则。
 > - **专业领导机构（教育政策委员会，EDPC 与 [[Centre for Educational Research and Innovation|CERI]] 理事会）** 由各成员国教育部高级官员与政策代表组成的常设专门委员会，统筹制定教育领域的跨国战略优先项与大型项目启动决议；早期教育委员会（1970 年设立）与[[Centre for Educational Research and Innovation|教育研究与创新中心]]（CERI，1968 年由福特基金会与壳牌资助创立）长期分工并立，包容成员国不同政策取向。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 441–442)]]
 > - **常设执行部门（教育与技能司，Directorate for Education and Skills）** 位于巴黎总部的常设专业研究与行政管理团队。2002 年前从属于教育、就业、劳工与社会事务司（DEELSA），2002 年正式分立为独立教育司，确立了秘书处强大的自主议程设置权与跨国统筹能力。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 442–444)]]
 > - **全球外联中枢（非成员经济体合作处，Unit for Cooperation with Non-member Economies, NME）** 设立专门的全球外联机构，依托“全球关系项目”（Global Relations Programme）将非成员国（如中国、印度、巴西、俄罗斯）纳入 OECD 指标网络与跨国政策对话，并与[[UNESCO|联合国教科文组织]]、[[World Bank|世界银行]]联合推行“世界[[Performance Indicators|教育指标]]”（[[World Education Indicators|WEI]]）项目，使 OECD 跨越成员国地理边界成为全球性政策行动者。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 442–443)]]
@@ -361,7 +364,7 @@ updated: 2026-10-15
 > > [!axis] 技术规划先行介入与北方霸权扩张：从 1964 拉美规划到对联合国多边体系的挤压
 > > 批判比较教育学者解构经合组织技术官僚规划的外向渗透，及其对联合国[[Educational Multilateralism|多边教育治理]]体系的挤压。
 > >
-> > - **[[Technical Rationality|技术理性]]输出与地缘扩张批判（比奇、南威尔、琼斯与科尔曼）** 历史档案证实，经合组织的技术官僚规划远在 PISA 之前便已跨越欧美边界：1964 年 OECD 便与阿根廷国家发展委员会（CONADE）联合发布人力资源规划报告，凭借去情境化的社会技术确立其凌驾于受援国内部之上的客观科学专家地位（Southwell, 1997; [[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）。进入 1990 年代后，菲利普·琼斯与[[David Coleman|戴维·科尔曼]]（Jones & Coleman, 2005）指出，经合组织在北方发达国家的强势扩张构成了对联合国教科文组织传统权威的全面侵蚀与挤压，直接诱发了后者的领导权危机并逼出《德洛尔报告》反击；与此同时，OECD 协同世行深度参与“信息时代”五大支柱话语建构，其能力本位与质量评估框架在全球扩散中系统否定了后发国家的博雅知识传统。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 345–349)]]
+> > - **[[Technical Rationality|技术理性]]输出与地缘扩张批判（比奇、南威尔、琼斯与科尔曼）** 历史档案证实，经合组织的技术官僚规划远在 PISA 之前便已跨越欧美边界：1964 年 OECD 便与阿根廷国家发展委员会（CONADE）联合发布人力资源规划报告，凭借去情境化的社会技术确立其凌驾于受援国内部之上的客观科学专家地位（Southwell, 1997; [[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）。进入 1990 年代后，菲利普·琼斯与[[David Coleman|戴维·科尔曼]]（Jones & Coleman, 2005）指出，经合组织在北方发达国家的强势扩张构成了对联合国教科文组织传统权威的全面侵蚀与挤压，直接诱发了后者的领导权危机并逼出《[[Delors Report|德洛尔报告]]》反击；与此同时，OECD 协同世行深度参与“信息时代”五大支柱话语建构，其能力本位与质量评估框架在全球扩散中系统否定了后发国家的博雅知识传统。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 345–349)]]
 > > - **经合组织官方治理立场** 强调经合组织确立的是以同行评议、指标监测与趋势破译为核心的软性治理，致力于在经济效率与人类福祉之间维系适度平衡（Papadopoulos, 1994），旨在通过客观量化证据协助各主权国应对全球化与知识经济转型的挑战，而非推行指令性强制干预。
 >
 > > [!citation-card] 琼斯与科尔曼论经合组织在北方扩张对教科文组织的挤压

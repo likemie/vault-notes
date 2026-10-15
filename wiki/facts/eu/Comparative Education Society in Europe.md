@@ -10,7 +10,7 @@ subtype: organization
 region: eu
 fact_region: "eu"
 fact_kind: "organization"
-fact_related_count: 32
+fact_related_count: 33
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -50,6 +50,7 @@ related_facts:
   - "[[UNESCO]]"
   - "[[British Association for International and Comparative Education]]"
   - "[[Mediterranean Society of Comparative Education]]"
+  - "[[EU]]"
   - "[[European Qualifications Framework]]"
   - "[[OECD]]"
   - "[[Bologna Process]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-08
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Comparative Education Society in Europe
@@ -86,7 +87,7 @@ updated: 2026-10-15
 > - **1961 — 伦敦大会创立与组织模式确立** 约瑟夫·劳威斯（[[Joseph Lauwerys]]，首任主席）与时任 [[UNESCO]] 教育研究所所长[[Saul B. Robinsohn|索尔·罗宾逊]]（Saul Robinsohn）密切合作，联络西欧学者在伦敦大学教育研究院正式成立 CESE；大会明确否决了以民族国家为单元的联邦代表制，确立了跨国个人会员资格与学术自主原则。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 91)]]
 > - **1961–1972 — 劳威斯与罗宾逊任期及多边智囊网络深化** 劳威斯将国际理解、民主理想与科学人道主义植入学会信条，深度对接 UNESCO 战后重建使命；索尔·罗宾逊接任主席后，学会通过两年一度的双年会为欧洲综合中学改革（Comprehensive School Reform）提供系统的跨国比较论证，推动了学科在大学层面的教席独立。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 424)]]
 > - **1970s–1980s — 欧洲学会生态分化与多元竞合格局** CESE 早期尝试设立的英德等国别分支迅速独立，演变为独立的国家学会（如英国 [[British Association for International and Comparative Education|BAICE]]、希腊学会、波兰学会、西班牙学会等）或本国母体教育学会下设分会（如德国教育学会 DGfE 比较分会）；同时地缘板块学会（北欧学会、地中海学会 [[Mediterranean Society of Comparative Education|MESCE]]）与语言圈学会（法语学会 AFEC、荷兰语学会）相继建立，形成了以 CESE 为枢纽的多层次竞合网络。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 92)]]
-> - **1990s–2000s — 冷战后中东欧重构与重返欧洲维度转向** 苏联解体与两德统一后，中东欧学者迅速实现学科重建并深度融入 CESE；从第 16 届哥本哈根双年会（1994）至第 22 届格拉纳达双年会（2006），学会见证了欧洲比较教育从早期的宏大形而上学哲学玄思，转向对欧盟教育政策文本、[[European Qualifications Framework|欧洲资格框架]]（EQF）与跨国实证数据的严肃再分析。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 98)]]
+> - **1990s–2000s — 冷战后中东欧重构与重返欧洲维度转向** 苏联解体与两德统一后，中东欧学者迅速实现学科重建并深度融入 CESE；从第 16 届哥本哈根双年会（1994）至第 22 届格拉纳达双年会（2006），学会见证了欧洲比较教育从早期的宏大形而上学哲学玄思，转向对[[EU|欧盟]]教育政策文本、[[European Qualifications Framework|欧洲资格框架]]（EQF）与跨国实证数据的严肃再分析。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 98)]]
 
 ---
 
@@ -131,7 +132,7 @@ CESE 的演进催生并伴随了欧洲比较教育学术学会的多中心分化
 > - **学科专业身份确立与大学建制化** CESE 的成立标志着欧洲比较教育彻底告别 19 世纪个人业余考察状态，走向建制化与组织化；使学者拥有了跨越铁幕与国界的学术身份认同，奠定了战后欧洲比较教育[[Knowledge Production|知识生产]]共同体。
 > - **欧洲战后中等教育民主化催化剂** 学会搭建的跨国交流平台，系统引导了战后欧洲中等教育从阶级分立的双轨制向综合中学（Comprehensive School）改制，推动了教育机会均等与民主化进程。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 424)]]
 > - **多边理性主义科学治理范本** 展现了学术团体与跨国组织（[[UNESCO]]、[[OECD]]）协同治理的知识循环机制：国际组织提供活动平台，学者合作推进[[Disciplinary Institutionalization|学科建制]]，建制化学科反哺政策论证。
-> - **冷战后中东欧学科重建与欧洲维度深化** 在东欧剧变与两德统一后，学会积极吸纳中东欧学者实现学术重构，并在 1990 年代后引领欧洲学界深化对欧盟一体化、[[Bologna Process|博洛尼亚进程]]与[[European Qualifications Framework|欧洲资格框架]]的理性制度反思。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 98)]]
+> - **冷战后中东欧学科重建与欧洲维度深化** 在东欧剧变与两德统一后，学会积极吸纳中东欧学者实现学术重构，并在 1990 年代后引领欧洲学界深化对[[EU|欧盟]]一体化、[[Bologna Process|博洛尼亚进程]]与[[European Qualifications Framework|欧洲资格框架]]的理性制度反思。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 98)]]
 
 ---
 
@@ -165,7 +166,7 @@ CESE 的演进催生并伴随了欧洲比较教育学术学会的多中心分化
 > | [[Development Turn in Comparative Education]] | 概念 | 战后比较教育从单国描述转向多边技术援助与发展中国家研究的[[Paradigm\|范式]]演变。 |
 > | [[State Educational Sovereignty]] | 概念 | CESE 在超越民族国家教育主权孤立壁垒、沟通欧洲共同文化精神中发挥关键纽带作用。 |
 > | [[Navigation Metaphor in Comparative Education]] | 概念 | 首任主席劳威斯确立的学会审慎咨询伦理，主张学者仅做信息领航员而非执政操舵者。 |
-> | [[European Qualifications Framework]] | 事实 | CESE 世纪之交从哲学玄思转向政策实证所重点剖析的欧盟一体化学制标准。 |
+> | [[European Qualifications Framework]] | 事实 | CESE 世纪之交从哲学玄思转向政策实证所重点剖析的[[EU\|欧盟]]一体化学制标准。 |
 > | [[Joseph Lauwerys]] | 人物 | CESE 创设奠基人与首任主席（1961–1967），确立学会多边主义与学术中立信条。 |
 > | [[Wolfgang Mitter]] | 人物 | CESE 资深骨干与前主席，系统梳理学会组织演进与欧洲多中心学术网络。 |
 > | [[Brian Holmes]] | 人物 | CESE 早期核心领袖之一，力推[[Positivism\|实证主义]][[Problem Approach\|问题法]]范式并参与推动 WCCES 设立。 |

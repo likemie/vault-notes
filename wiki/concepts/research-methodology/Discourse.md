@@ -59,9 +59,9 @@ related_persons:
   - "[[Lawrence Manion]]"
   - "[[Keith Morrison]]"
   - "[[Louis Cohen]]"
+  - "[[Jason Beech]]"
   - "[[Basil Bernstein]]"
   - "[[Manuel Castells]]"
-  - "[[Jason Beech]]"
 related_facts:
   - "[[World Bank]]"
   - "[[OECD]]"
@@ -142,7 +142,7 @@ updated: 2026-10-15
 
 ### 2. 宏观政策话语的四维空间机制
 
-结合杰森·比奇（Jason Beech, 2009a, 2009b）、[[Basil Bernstein|巴兹尔·伯恩斯坦]]（Basil Bernstein）与[[Manuel Castells|曼纽尔·卡斯特]]（Manuel Castells）的理论推进，跨国教育政策话语展现出独特的四维空间机制：
+结合[[Jason Beech|杰森·比奇]]（Jason Beech, 2009a, 2009b）、[[Basil Bernstein|巴兹尔·伯恩斯坦]]（Basil Bernstein）与[[Manuel Castells|曼纽尔·卡斯特]]（Manuel Castells）的理论推进，跨国教育政策话语展现出独特的四维空间机制：
 
 > [!feature] 宏观政策话语的四维空间机制
 > - **[[Floating Signifier|漂浮能指]]性（Floating Signifier）** 政策话语（如“能力本位”、“[[School Autonomy|学校自主权]]”、“尊重多样性”）被故意剥离具体的历史脉络与实体定义，演化为语义空虚的高包容性符号容器，使立场迥异的利益主体能够达成表面共识。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 353–355)]]

@@ -10,7 +10,7 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 11
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -34,13 +34,14 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[EU]]"
   - "[[Erasmus Programme]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-10
+updated: 2026-10-16
 ---
 
 # CREATES Project
@@ -51,7 +52,7 @@ updated: 2026-10-10
 
 > [!event-context] 事件背景
 > - **时间 / 地点** 2017–2020 年，覆盖荷兰、德国、英国等 6 所欧洲文理学院（Liberal Arts and Sciences Colleges）。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 8)]]
-> - **关键主体** 欧盟委员会 [[Erasmus Programme|Erasmus+]] 战略合作伙伴项目资助，由荷兰马斯特里赫特大学（Maastricht University）、德国弗莱堡大学等联合主持。
+> - **关键主体** [[EU|欧盟]]委员会 [[Erasmus Programme|Erasmus+]] 战略合作伙伴项目资助，由荷兰马斯特里赫特大学（Maastricht University）、德国弗莱堡大学等联合主持。
 > - **制度背景** 高等教育迫切需要将以学生为中心的主动[[Inquiry-Based Learning\|探究学习]]转化为可操作的课程与评价工具包。
 > - **触发条件** 研发一套能够全面激发学生[[Self-Directed Learning\|自我导向学习]]（Self-Directed Learning）、批判性反思与[[Creative Problem Solving\|创造性问题解决]]的开源工具集。
 
@@ -78,6 +79,6 @@ updated: 2026-10-10
 ## 影响与后果
 
 > [!finding-cards] 影响与后果
-> - **政策影响** 成为欧盟委员会推广本科阶段[[Liberal Education\|博雅教育]]与[[Active Learning\|主动学习]]创新的前沿示范项目。
+> - **政策影响** 成为[[EU|欧盟]]委员会推广本科阶段[[Liberal Education\|博雅教育]]与[[Active Learning\|主动学习]]创新的前沿示范项目。
 > - **实践影响** 为欧洲高校提供了开箱即用的共创量规、自我反思日志与形成性同伴评价指南。
 > - **知识影响** 深刻深化了以学生为中心的[[Formative Assessment\|形成性评价]]在培养[[Higher-Order Thinking Skills\|高阶思维]]中的机制研究。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 8)]]

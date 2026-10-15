@@ -12,7 +12,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -41,12 +41,13 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[EU]]"
 related_arguments: []
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 ## 背景
 
@@ -80,7 +81,7 @@ updated: 2026-10-07
 
 AMRC 设置了两个会员层级，以适应不同规模企业的参与能力（pp.114–115）。一级会员承诺每年 £200,000 的持续研究投资，二级会员每年 £30,000。设备和服务等实物贡献可代替现金捐赠。
 
-这种多年产业承诺有两个关键功能。第一，它稳定了联合体的核心财务，使 AMRC 能够规划长期研究议程而不是按年度项目周期运作。第二，产业承诺资金充当了"产业匹配资金"——AMRC 可以用这笔资金来匹配申请更多的英国和欧盟研究拨款，从而将产业投入放大为数倍的政府资助。
+这种多年产业承诺有两个关键功能。第一，它稳定了联合体的核心财务，使 AMRC 能够规划长期研究议程而不是按年度项目周期运作。第二，产业承诺资金充当了"产业匹配资金"——AMRC 可以用这笔资金来匹配申请更多的英国和[[EU|欧盟]]研究拨款，从而将产业投入放大为数倍的政府资助。
 
 ### 双委员会治理
 

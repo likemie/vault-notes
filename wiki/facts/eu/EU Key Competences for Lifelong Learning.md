@@ -11,9 +11,9 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 7
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: Council of the European Union
 tags:
@@ -32,13 +32,14 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[EU]]"
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
 related_arguments:
   - "[[Argument_Pellegrini_2021_ECNUROE]]"
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-09-22
+updated: 2026-10-16
 ---
 
 # EU Key Competences for Lifelong Learning
@@ -46,7 +47,7 @@ updated: 2026-09-22
 ## 背景
 
 > [!info]
-> 欧洲学校系统自 2000 年代初逐步转向能力本位模式。2006 年欧盟已发布[[Lifelong Learning\|终身学习]][[21st Century Skills and Competencies Discourse\|关键能力]]建议，2018 年 5 月 22 日通过修订版 “Council Recommendation on Key Competences for Lifelong Learning”，为政策制定者和学校专业人员提供能力本位教学模式的共同框架([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.39]])。
+> 欧洲学校系统自 2000 年代初逐步转向能力本位模式。2006 年[[EU|欧盟]]已发布[[Lifelong Learning\|终身学习]][[21st Century Skills and Competencies Discourse\|关键能力]]建议，2018 年 5 月 22 日通过修订版 “Council Recommendation on Key Competences for Lifelong Learning”，为政策制定者和学校专业人员提供能力本位教学模式的共同框架([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.39]])。
 
 ## 政策文本摘要
 
@@ -58,7 +59,7 @@ updated: 2026-09-22
 ## 时间线
 
 > [!note]-
-> - 2006 — 欧盟发布关于[[Lifelong Learning\|终身学习]][[21st Century Skills and Competencies Discourse\|关键能力]]的初始建议([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.39]])。
+> - 2006 — [[EU|欧盟]]发布关于[[Lifelong Learning\|终身学习]][[21st Century Skills and Competencies Discourse\|关键能力]]的初始建议([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.39]])。
 > - 2018 — 欧盟理事会通过修订版终身学习关键能力建议。
 
 ## 实施情况
@@ -85,5 +86,5 @@ updated: 2026-09-22
 
 > [!tip]-
 > - [[Argument_Pellegrini_2021_ECNUROE]] — 该政策是欧洲[[Evidence-Based Reform\|证据本位改革]]面临评估复杂性的核心案例。
-> - [[EU Evidence-Informed Education Policy Initiatives]] — 该框架与欧盟证据知情政策共同构成欧洲教育治理背景。
+> - [[EU Evidence-Informed Education Policy Initiatives]] — 该框架与[[EU|欧盟]]证据知情政策共同构成欧洲教育治理背景。
 

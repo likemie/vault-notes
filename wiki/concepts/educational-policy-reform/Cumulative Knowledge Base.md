@@ -7,7 +7,7 @@ aliases:
 summary: "教育知识治理的核心终极命题，指通过跨机构协作、多元方法证据综合与元中介机制，建构一套被全球教育系统准普遍公认为基础坚实、可跨情境调适并经得起时间检验的共享性知识体系。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -50,6 +50,7 @@ related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Education Endowment Foundation]]"
   - "[[Canadian Council on Learning]]"
+  - "[[EU]]"
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
   - "[[EPPI-Centre]]"
   - "[[Best Evidence Synthesis]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Cumulative Knowledge Base
@@ -158,7 +159,7 @@ updated: 2026-10-15
 > 探讨如何超越单个机构在资源、国别与受众上的局限性，建构跨系统元中介机制。
 
 > [!claim] [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]]; Gough et al. (2011)
-> **元中介协作对克服机构孤岛与推进二阶综合的决定性作用** 单一中介组织无论资源多么丰富，都不可避免地受制于本国政策议程、特定目标受众（如仅偏向政策或仅偏向课堂）以及特定方法学偏好（如纯粹 [[Randomised Controlled Trials\|RCT]] 派或多元派）的局限。欧盟资助的 [[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] 网络长达十年的自主维系经验表明，唯有通过建立跨国跨系统的“中介的中介”（Brokering the Brokers），依托“公开网络大会（扩展参与广度）与闭门伙伴会议（深化方法攻坚）”的双轨协同治理机制，才能共同攻克[[Heterogeneity\|异质性]]数据综合与质量评估的公认标准，使研究综合从单篇个案迈向二阶[[Systematic Review\|系统综述]]，最终建立起跨越国别界限、经受全球同行检验的累积性知识基石。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 66–68]])
+> **元中介协作对克服机构孤岛与推进二阶综合的决定性作用** 单一中介组织无论资源多么丰富，都不可避免地受制于本国政策议程、特定目标受众（如仅偏向政策或仅偏向课堂）以及特定方法学偏好（如纯粹 [[Randomised Controlled Trials\|RCT]] 派或多元派）的局限。[[EU|欧盟]]资助的 [[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] 网络长达十年的自主维系经验表明，唯有通过建立跨国跨系统的“中介的中介”（Brokering the Brokers），依托“公开网络大会（扩展参与广度）与闭门伙伴会议（深化方法攻坚）”的双轨协同治理机制，才能共同攻克[[Heterogeneity\|异质性]]数据综合与质量评估的公认标准，使研究综合从单篇个案迈向二阶[[Systematic Review\|系统综述]]，最终建立起跨越国别界限、经受全球同行检验的累积性知识基石。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 66–68]])
 
 ---
 
@@ -187,7 +188,7 @@ updated: 2026-10-15
 
 > [!dev-timeline]- 概念历史演化脉络
 > - **2000 年代初 — 单一研究综合与清算中心孤岛（First-Order Syntheses）** 随着美国设立 [[What Works Clearinghouse\|WWC]]、英国设立 [[EPPI-Centre]]，循证运动主要聚焦于运用初阶[[Systematic Review\|系统综述]]或[[Meta-analysis\|元分析]]对特定教学干预进行[[Effect Size\|效应量]]加总；此时机构间各自为政，标准严重割裂。
-> - **2010–2015 年 — 跨国元中介网络探索与实践重心下沉（[[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] & [[Education Endowment Foundation\|EEF]]）** 欧盟资助建立 EIPPEE 跨国中介协作网络，开启了关于跨国元中介治理的早期探索；同时英国设立 [[Education Endowment Foundation\|EEF]]，推动证据从宏观政策向一线实践与工具包深度下沉。
+> - **2010–2015 年 — 跨国元中介网络探索与实践重心下沉（[[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] & [[Education Endowment Foundation\|EEF]]）** [[EU|欧盟]]资助建立 EIPPEE 跨国中介协作网络，开启了关于跨国元中介治理的早期探索；同时英国设立 [[Education Endowment Foundation\|EEF]]，推动证据从宏观政策向一线实践与工具包深度下沉。
 > - **2016–至今 — 二阶系统综述与累积性知识大厦构想（Meta-Brokerage Era）** [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022)]] 正式提出建构“准普遍公认的累积性知识库”命题；反思单体中介的高夭折率生存悖论，呼吁在跨国与跨学科层面协同推进“中介的中介”，将自然科学、医学反思透镜、算法治理与教师专业主体性融为一体。
 
 ---

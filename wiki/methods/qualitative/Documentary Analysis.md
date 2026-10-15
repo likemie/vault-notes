@@ -10,7 +10,7 @@ summary: "一种通过系统评估文献的真实性、可靠性、意义和语�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 55
+method_related_count: 56
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -80,11 +80,12 @@ related_theories:
   - "[[Beech's Model of Discourse Circulation]]"
   - "[[Developmental Network State]]"
 related_persons:
+  - "[[Jason Beech]]"
   - "[[Fred Block]]"
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Documentary Analysis
@@ -159,7 +160,7 @@ updated: 2026-10-15
 
 ### 质性方法模块二：教育政策与课程制度文献分析
 
-杰森·比奇（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）示范了比较教育政策与制度文献分析的操作进路，旨在穿透国家官方政策法令的崇高修辞，揭示课程文本中的话语杂糅与教材衍生实践脱节。
+[[Jason Beech|杰森·比奇]]（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）示范了比较教育政策与制度文献分析的操作进路，旨在穿透国家官方政策法令的崇高修辞，揭示课程文本中的话语杂糅与教材衍生实践脱节。
 
 > [!sample-panel] 政策与制度文献取样快照
 > | 维度 | 信息 |

@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 26
+fact_related_count: 27
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -53,6 +53,7 @@ related_facts:
   - "[[OECD]]"
   - "[[Centre for Educational Research and Innovation]]"
   - "[[PISA]]"
+  - "[[EU]]"
   - "[[Max Planck Institute for Human Development]]"
   - "[[World Bank]]"
 related_arguments:
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Definition and Selection of Competencies
@@ -104,7 +105,7 @@ updated: 2026-10-15
 > - **1997–1999 — 理论立项与跨学科概念奠基期** [[OECD\|经合组织]]教育委员会委托瑞士联邦统计局设立项目秘书处；1999 年在日内瓦召开首届 DeSeCo 国际研讨会，邀请人类学家、社会学家（如 Franz Weinert）与经济学家对[[21st Century Skills and Competencies Discourse\|核心素养]]展开[[Ontology\|本体论]]与[[Epistemology\|认识论]]论证。
 > - **2000–2001 — 国家政策审议与国别咨询扩展期** 伴随第一轮 [[PISA]] 测验的实施，DeSeCo 面向经合组织各成员国展开大规模国别政策咨询，出版首部里程碑专著《定义和选择关键能力》（*Defining and Selecting Key Competencies*, 2001），系统总结各学派对素养概念的争论。
 > - **2002–2003 — 框架统合、终期成果发布与机制化交割** 2003 年出版终期综合报告《为了成功人生与健全社会的核心素养》（*Key Competencies for a Successful Life and a Well-Functioning Society*），正式确立三大能力范畴；随后项目秘书处宣告解散，其研发成果机制化交割给经合组织教育与技能司，全面融入 PISA 测评与各成员国课程改革。
-> - **2004–至今 — 全球扩散与北欧政策渗透** 欧盟委员会依据 DeSeCo 蓝图于 2006 年颁布《欧洲[[Lifelong Learning\|终身学习]]核心素养建议》，全球数十个国家启动“能力导向课程改革”；在北欧教育改革周期中，DeSeCo 成为各国政府合法化外部借力的绝对权威文献。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
+> - **2004–至今 — 全球扩散与北欧政策渗透** [[EU|欧盟]]委员会依据 DeSeCo 蓝图于 2006 年颁布《欧洲[[Lifelong Learning\|终身学习]]核心素养建议》，全球数十个国家启动“能力导向课程改革”；在北欧教育改革周期中，DeSeCo 成为各国政府合法化外部借力的绝对权威文献。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
 
 ---
 
@@ -137,7 +138,7 @@ updated: 2026-10-15
 
 > [!stat-cards]- 关键实证数据
 > - **3 大能力范畴与 9 项具体素养** 构成全球核心素养分类体系的核心标准。
-> - **30+ 个国家与跨国组织采纳** 成为欧盟、[[World Bank\|世界银行]]及 30 余个成员国推进能力本位改革（Competency-Based Education）的基准蓝本。
+> - **30+ 个国家与跨国组织采纳** 成为[[EU|欧盟]]、[[World Bank\|世界银行]]及 30 余个成员国推进能力本位改革（Competency-Based Education）的基准蓝本。
 > - **90.9% 的法令引文垄断率** 在挪威教育部能力课程改革实证中，官方行政法令最终引用的 22 篇参考文献中，高达 **20 篇**全部来自专门审议 OECD DeSeCo 项目的委员会，引文垄断率超过九成，其影响力远超一切国内外大学学者与学术明星。（[[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024, p. 548]]）
 
 ---

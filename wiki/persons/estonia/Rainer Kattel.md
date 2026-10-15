@@ -8,7 +8,7 @@ summary: "爱沙尼亚裔公共治理与创新政策学者，伦敦大学学院�
 type: person
 nationality: "estonia"
 person_region: "estonia"
-person_related_count: 26
+person_related_count: 27
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -51,13 +51,14 @@ related_persons:
   - "[[Mariana Mazzucato]]"
   - "[[Joseph Schumpeter]]"
 related_facts:
+  - "[[EU]]"
   - "[[Horizon Europe]]"
 related_arguments:
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # Rainer Kattel
@@ -112,7 +113,7 @@ updated: 2026-10-08
 
 > [!influence-path] 影响路径
 > - **理论路径** 沟通了[[Evolutionary Economics|演化经济学]]创新研究与公共行政学国家能力理论，为全球创新政策研究注入组织能力维度。
-> - **政策路径** 直接参与欧盟[[Horizon Europe|地平线欧洲]]（Horizon Europe）重大科技使命设计，为多国政府重塑数字化服务与绿色转型机构提供理论指南。
+> - **政策路径** 直接参与[[EU|欧盟]][[Horizon Europe|地平线欧洲]]（Horizon Europe）重大科技使命设计，为多国政府重塑数字化服务与绿色转型机构提供理论指南。
 > - **组织治理实践** 推动各国公共部门评估机制从静态[[Cost-Benefit Analysis|成本收益分析]]向[[Reflexivity|反思性]]、实验性评估框架转型。
 
 ---

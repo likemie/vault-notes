@@ -5,7 +5,7 @@ summary: "以日常谈话和文本中的语言使用为研究对象的方法，�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 55
+method_related_count: 57
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[School Autonomy]]"
   - "[[Champ]]"
   - "[[Pragmatic Paradigm]]"
+  - "[[Discursive Closure]]"
   - "[[Causality]]"
   - "[[Double Hermeneutic]]"
   - "[[Reliability]]"
@@ -71,6 +72,7 @@ related_facts:
   - "[[OECD]]"
   - "[[UNESCO]]"
   - "[[World Bank]]"
+  - "[[Delors Report]]"
 confidence: medium
 status: draft
 created: 2026-07-22
@@ -103,7 +105,7 @@ updated: 2026-10-16
 > *We analyse the changing nature of the OECD’s education policy work since the mid-1990s through examining its core policy documents... The conceptual architecture underpinning this shift has been framed within the broader set of discourses surrounding the idea of the ‘knowledge economy’... that has forged a particular global social imaginary.*
 
 > [!citation-card] 比奇论国际组织话语对政策空间的双重闭合
-> 杰森·比奇（[[Jason Beech]]）指出，跨国政策比较话语分析能够揭示国际组织如何通过界定特定教育语境中的“问题”为改进讨论设定议程；随后通过唯独提供其标准化模型作为“解决方案”，从而在[[Epistemology|认识论]]源头上窄化并闭合了受援国构想本土替代道路的政策话语空间。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 349)]]
+> [[Jason Beech|杰森·比奇]]（[[Jason Beech]]）指出，跨国政策比较话语分析能够揭示国际组织如何通过界定特定教育语境中的“问题”为改进讨论设定议程；随后通过唯独提供其标准化模型作为“解决方案”，从而在[[Epistemology|认识论]]源头上窄化并闭合了受援国构想本土替代道路的政策话语空间。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 349)]]
 >
 > *...it is by defining the problems of an educational context and simultaneously offering the solutions to these problems that the model promoted by international agencies narrows the discursive space of possibilities in educational contexts to which it moves.*
 
@@ -171,10 +173,10 @@ updated: 2026-10-16
 
 ### 跨国多边政策话语比较分析进路
 
-针对跨国空间中多边国际组织（[[UNESCO]]、[[World Bank|世界银行]]、OECD）的政策博弈，杰森·比奇（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）示范了跨国多边政策话语比较分析（Transnational Comparative Policy Discourse Analysis）操作流程，重点揭示表层多边竞争与哲学分歧之下的深层预设同构，以及去情境化通用模型对受援国政策空间的双重闭合机制。
+针对跨国空间中多边国际组织（[[UNESCO]]、[[World Bank|世界银行]]、OECD）的政策博弈，[[Jason Beech|杰森·比奇]]（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）示范了跨国多边政策话语比较分析（Transnational Comparative Policy Discourse Analysis）操作流程，重点揭示表层多边竞争与哲学分歧之下的深层预设同构，以及去情境化通用模型对受援国政策空间的双重闭合机制。
 
 > [!proc] 跨国多边政策话语比较分析步骤
-> 1. **跨机构核心文本长时段谱系搜集** 系统搜集特定历史时期（如 1980–2000 年代全球化重组期）主要多边组织（[[UNESCO]]、[[World Bank|世界银行]]、[[OECD]]）的核心教育战略白皮书、特别委员会报告与政策审查文件（如德洛尔报告《学习：内在的财富》、世界银行《教育的优先次序与战略》）。
+> 1. **跨机构核心文本长时段谱系搜集** 系统搜集特定历史时期（如 1980–2000 年代全球化重组期）主要多边组织（[[UNESCO]]、[[World Bank|世界银行]]、[[OECD]]）的核心教育战略白皮书、特别委员会报告与政策审查文件（如[[Delors Report|德洛尔报告]]《学习：内在的财富》、世界银行《教育的优先次序与战略》）。
 > 2. **表层价值对峙与官方修辞解构** 提取各组织宣称的核心[[Epistemic Stances|认识论立场]]、发展哲学与政策工具，辨析其显性价值主张（如联合国教科文组织人本主义反击、世界银行绝对人力资本[[Return on Investment|投资回报率]]核算、经合组织混合型指标治理），还原多边组织在地缘政治与资金竞争中的话语交锋。
 > 3. **底层未来预设与时代定性解构** 穿透表层修辞对立，比对各机构在文本深层对未来社会形态的[[Ontology|本体论]]预设，识别其如何跨越意识形态分歧、众口一词地将人类未来统一定性为单一平面的“信息时代”，并将所有现存传统教育体系裁定为必然陷入危机的落后形态。
 > 4. **普遍模型解剖与双重闭合机制追踪** 剖析文本如何成套捆绑推销标准化改革处方（如分权化、[[School Autonomy|学校自主]]、教师专业化、能力本位、国家质量评估五大支柱），揭示国际组织如何通过“垄断定义问题”与“排他提供解方”的双重机制，在[[Epistemology|认识论]]源头上窄化和闭合受援国的政策话语空间。
@@ -185,7 +187,7 @@ updated: 2026-10-16
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 研究课堂互动中的语言使用和权力关系；分析宏观政策文本和超国家教育[[Discourse|话语]]的建构方式（如解构[[OECD|经合组织]]报告中的话语滑移与社会想象；Rizvi & Lingard, 2009）；比较不同国际组织、跨国智库与国家政策文本中的深层预设同构与话语空间闭合机制（如解构 UNESCO、世界银行与 OECD 的全球教育话语普遍模型；Beech, 2009b）；理解儿童如何通过语言参与[[Knowledge Building Theory|知识建构]]（Edwards & Mercer, 1987）；揭示话语中系统性扭曲沟通的压制性力量（Habermas）。
+> - **适合使用** 研究课堂互动中的语言使用和权力关系；分析宏观政策文本和超国家教育[[Discourse|话语]]的建构方式（如解构[[OECD|经合组织]]报告中的话语滑移与社会想象；Rizvi & Lingard, 2009）；比较不同国际组织、跨国智库与国家政策文本中的深层预设同构与[[Discursive Closure|话语空间闭合]]机制（如解构 UNESCO、世界银行与 OECD 的全球教育话语普遍模型；Beech, 2009b）；理解儿童如何通过语言参与[[Knowledge Building Theory|知识建构]]（Edwards & Mercer, 1987）；揭示话语中系统性扭曲沟通的压制性力量（Habermas）。
 > - **谨慎使用** 当需要大样本统计概括时；当[[Research Question|研究问题]]更适合通过实验或调查回答时；当研究者的话语立场可能过度影响解释时。
 > - **不适合使用** 需要标准化测量和[[Causality|因果推断]]的研究；将语言仅视为信息传递工具的研究。
 

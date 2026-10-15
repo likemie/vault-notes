@@ -9,7 +9,7 @@ aliases:
 summary: "企业为雇员组织和提供的教育培训形式，范围涵盖初始职业教育到高层管理培养，并常与企业文化塑造和战略协调相连"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,13 +30,14 @@ related_methods:
   - "[[Analytic Framework]]"
 related_persons: []
 related_facts:
+  - "[[EU]]"
   - "[[German Dual Education System]]"
 related_arguments:
   - "[[Argument_Hartmann_2022_CorporateEducation]]"
 confidence: medium
 status: draft
 created: 2026-05-18
-updated: 2026-10-05
+updated: 2026-10-16
 ---
 
 # Corporate Education
@@ -46,7 +47,7 @@ updated: 2026-10-05
 ## 定义
 
 > [!info]
-> 企业教育（corporate education）是由企业为其雇员提供或资助的教育和培训活动。欧盟将企业教育定义为"以获取新能力或发展和提升现有能力为首要目标、且至少部分由企业为其雇员提供资金支持的培训措施或活动"（EU, cited in Hartmann, 2022, p.180）。
+> 企业教育（corporate education）是由企业为其雇员提供或资助的教育和培训活动。[[EU|欧盟]]将企业教育定义为"以获取新能力或发展和提升现有能力为首要目标、且至少部分由企业为其雇员提供资金支持的培训措施或活动"（EU, cited in Hartmann, 2022, p.180）。
 
 > [!quote]
 > "企业教育是公司软权力的关键组成部分，确保员工了解公司利益并据此行动"（Hanlon, 2016, cited in [[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p.180]]）

@@ -60,7 +60,7 @@ updated: 2026-09-22
 > [!citation-card]- 关键表述
 > 产物模式将课程视为制造特定行为结果的生产流水线，教师是技术员，学生是被加工的客体。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 64)]]
 >
-> *Curriculum as product treats learning as a technical exercise designed to produce predefined behavioral results. (Grundy, 1987; Darwish, 2009, p. 64)*
+> *Curriculum as product treats learning as a technical exercise designed to produce predefined behavioral results. (Grundy, 1987; [[Argument_Darwish_2009_Queens|Darwish, 2009, p. 64]])*
 
 > [!boundary]- 概念边界
 > - 不等于 [[Curriculum as Process\|作为过程的课程]] — 后者关注探究过程与[[Phronesis\|实践明智]]（Phronesis），不预设固定行为指标。

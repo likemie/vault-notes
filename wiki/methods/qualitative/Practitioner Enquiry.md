@@ -9,7 +9,7 @@ summary: "一线教师与教育领导者在自身真实教育情境中开展的�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 29
+method_related_count: 30
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Contributory Expertise]]"
   - "[[Epistemology]]"
   - "[[Praxis]]"
+  - "[[Recontextualization]]"
   - "[[Variable]]"
   - "[[Homework]]"
   - "[[Reflexivity]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Practitioner Enquiry
@@ -84,7 +85,7 @@ updated: 2026-10-15
 ## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
-> - **知识观** 认为教育知识是高度情境化、具身化且动态生成的实践性知识（[[Praxis]] / Craft Knowledge），外部通用有效性证据（What Works）必须经过微观现场的再情境化检验与校准方能转化为实际生产力。
+> - **知识观** 认为教育知识是高度情境化、具身化且动态生成的实践性知识（[[Praxis]] / Craft Knowledge），外部通用有效性证据（What Works）必须经过微观现场的[[Recontextualization|再情境化]]检验与校准方能转化为实际生产力。
 > - **研究者角色** 教师兼具“实践者”与“研究者”的双重内部人身份（Insider Researcher），其个人教学反思、受训判断力（Trained Judgement）与情感投入构成探究的核心资源而非干扰[[Variable\|变量]]。
 > - **有效性标准** 强调情境真实性、实践效能（催生实际教学改进）、反思深度（催生认知图式转变）与同侪验证（可迁移性与互信支持）。
 > - **不声称回答的问题** 不追求建立跨区域放之四海而皆准的普适统计因果定律，不以大样本代表性或双盲实验控制为合法性依据。

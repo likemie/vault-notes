@@ -11,7 +11,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 34
+fact_related_count: 35
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -56,6 +56,7 @@ related_facts:
   - "[[OECD]]"
   - "[[Education in Europe]]"
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
+  - "[[EU]]"
   - "[[What Works Clearinghouse]]"
   - "[[Campbell Collaboration]]"
   - "[[Education Endowment Foundation]]"
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # EPPI-Centre
@@ -94,7 +95,7 @@ updated: 2026-10-15
 > [!dev-timeline]- 组织发展历程
 > - **1995 — 创设与方法奠基期** 在 UCL IOE 正式成立，以医学循证综合为[[Paradigm\|范式]]参照，开创适应教育与社会科学特性的[[Systematic Review\|系统综述]]规程，开发质性证据综合（Qualitative Evidence Synthesis）与主题综合方法([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 33]])。
 > - **1999–2000 — 纳入国家循证政策基础设施** 英国工党政府大力推进“循证公共决策”（Evidence-Based Policy），出资设立国家证据中心网络，EPPI-Centre 正式确立为国家级[[Evidence-Based Education\|循证教育]]与社会关怀核心支撑平台([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 31]])。
-> - **2007–2010s — 探索关系型中介与发起 [[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] 跨国网络** 面对单纯文献线性推送在推动实践变革上的局限，中心由[[David Gough\|戴维·高夫]]（David Gough）等人牵头，发起联合欧盟多国的 EIPPEE 计划，主动由单向文献分发转向多方参与式综述（Participatory Reviews）、决策者能力建设及“中介的中介”元协调生态([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 64, 67–68]]; [[Argument_Revai_2022_ChangingLandscape\|Révai, 2022, pp. 20–21]])。
+> - **2007–2010s — 探索关系型中介与发起 [[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] 跨国网络** 面对单纯文献线性推送在推动实践变革上的局限，中心由[[David Gough\|戴维·高夫]]（David Gough）等人牵头，发起联合[[EU|欧盟]]多国的 EIPPEE 计划，主动由单向文献分发转向多方参与式综述（Participatory Reviews）、决策者能力建设及“中介的中介”元协调生态([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 64, 67–68]]; [[Argument_Revai_2022_ChangingLandscape\|Révai, 2022, pp. 20–21]])。
 > - **2020s — 数字化基础设施与纵向存续标杆** 持续升级 EPPI-Reviewer 智能系统综述协作软件；在[[OECD\|经合组织]]回顾 2007 年确立的 6 家国际标杆中介机构时，EPPI-Centre 与美国 [[What Works Clearinghouse\|WWC]] 成为仅有的两家保持持续完全活跃的机构([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 64]])。
 
 ---

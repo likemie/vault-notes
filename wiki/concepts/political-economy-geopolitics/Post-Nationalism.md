@@ -9,7 +9,7 @@ aliases:
 summary: "主张解构传统民族国家主权边界、国家正典与共享爱国认同，转向跨国制度治理、宪政爱国主义或普遍世界主义的政治思潮。当代战略现实主义批评指出，后国家主义过早消解国家文化不仅未能带来理性博爱，反而制造了公共道德真空，让位给消费主义分层与部落化撕裂，并严重瓦解了民主政体的防卫硬实力意志。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -39,13 +39,14 @@ related_persons:
   - "[[Jürgen Habermas]]"
 related_facts:
   - "[[Walser-Bubis Debate]]"
+  - "[[EU]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
 confidence: high
 status: draft
 created: 2026-10-09
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 
 # Post-Nationalism
@@ -145,7 +146,7 @@ updated: 2026-10-09
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1990 年代初 — 冷战终结与欧盟一体化高潮** [[Jürgen Habermas|哈贝马斯]]（Jürgen Habermas）提出“后民族星座”（The Postnational Constellation）与宪政爱国主义，主张以超国家法权超越传统主权国家。
+> - **1990 年代初 — 冷战终结与[[EU|欧盟]]一体化高潮** [[Jürgen Habermas|哈贝马斯]]（Jürgen Habermas）提出“后民族星座”（The Postnational Constellation）与宪政爱国主义，主张以超国家法权超越传统主权国家。
 > - **1994 — 桑内特与努斯鲍姆提出后国家公民构想** 桑内特主张告别民族认同之恶，努斯鲍姆倡导[[Cosmopolitanism|世界主义]]公民忠诚。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Sennett, 1994; Nussbaum, 1994; Karp & Zamiska, 2025, p. 198)]]
 > - **1998 — 瓦尔泽保罗教堂演说打破后国家道德禁忌** [[Martin Walser|马丁·瓦尔泽]]抗议大屠杀记忆被异化为压制德国国家认同的道德大棒，遭布比斯痛批，引发欧洲关于历史自谴与正常国家认同的大论战。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Walser, 1998; Karp & Zamiska, 2025, pp. 201–204)]]
 > - **2017 — 马克龙否定法国文化引发法兰西共和大讨论** 马克龙宣称不存在单一法国文化，遭耶戈市长与知识界批评为背弃共和国根基。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Jégo, 2017; Karp & Zamiska, 2025, pp. 191–192)]]

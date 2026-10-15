@@ -7,7 +7,7 @@ aliases:
 summary: "指贯穿个体全生命周期的持续性、适应性与累积性学习过程。在人本主义视阈下涵盖支撑健康、理性协商与社会文化基础设施的全人发展生态；在经合组织等主导的知识经济与学习型经济中，则被重塑为应对知识快速折旧、以掌握实践诀窍（knowing how）为核心的生产力生存命令与可测倾向。"
 type: concept
 domain: "educational-philosophy"
-related_count: 65
+related_count: 67
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -73,7 +73,9 @@ related_facts:
   - "[[PISA]]"
   - "[[Centre for Educational Research and Innovation]]"
   - "[[UNESCO]]"
+  - "[[Delors Report]]"
   - "[[World Bank]]"
+  - "[[EU]]"
   - "[[EU Key Competences for Lifelong Learning]]"
   - "[[Erasmus Programme]]"
   - "[[Association for Science and Discovery Centres]]"
@@ -92,7 +94,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-07
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Lifelong Learning
@@ -125,11 +127,11 @@ updated: 2026-10-15
 > [!dev-timeline] 50 年概念演变脉络
 > - **1970–1980 年代 [[OECD|经合组织]] [[Centre for Educational Research and Innovation|CERI]] 支持“循环教育与终身学习”** 经合组织教育研究与[[Innovation Hub|创新中心]]（Centre for Educational Research and Innovation, CERI）赞助多项循环教育（recurrent education）与终身学习项目，彼时主要支持成员国社会民主主义福利国家议程，强调教育资源向弱势群体的二次再分配。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 441)]]; Papadopoulos (1994)
 > - **1972 年 [[UNESCO|联合国教科文组织]]《学会生存》报告奠基** 联合国教科文组织（UNESCO）发布《学会生存》（Learning to Be: The World of Education Today and Tomorrow，Faure 报告），首次在国际层面系统确立终身教育理念，强调教育的人本主义属性与个体自由全面发展。
-> - **1996 年 德洛尔报告确立四大支柱与应对全球化挑战** 联合国教科文组织发布《教育：财富蕴藏其中》（Learning: The Treasure Within，Delors 报告），将终身学习凝练为四大支柱：学会认知（Learning to know）、学会做事（Learning to do）、学会共处（Learning to live together）以及学会生存（Learning to be），并警惕经济全球化与纯粹功利主义可能侵蚀社会连带；但国际多边治理主导权已开始向国际金融机构倾斜。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
+> - **1996 年 [[Delors Report|德洛尔报告]]确立四大支柱与应对全球化挑战** 联合国教科文组织发布《教育：财富蕴藏其中》（Learning: The Treasure Within，Delors 报告），将终身学习凝练为四大支柱：学会认知（Learning to know）、学会做事（Learning to do）、学会共处（Learning to live together）以及学会生存（Learning to be），并警惕经济全球化与纯粹功利主义可能侵蚀社会连带；但国际多边治理主导权已开始向国际金融机构倾斜。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
 > - **1996 年 [[OECD|经合组织]]推动学习型经济与终身学习[[Paradigm|范式]]重塑** 经合组织出版[[Dominique Foray|多米尼克·福雷]]与本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]编著的《[[Knowledge-Based Economy|知识经济]]中的教育与增长》，确立“向学习型经济转型”论断；终身学习被重新定义为知识快速折旧下维持国家与个体财富创造能力的必要前提，学习重心从[[Knowledge-that and Know-how-to|知其然]]（knowing that）转向掌握实践操作诀窍（[[Procedural Knowledge|knowing how]]）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
 > - **1990 年代末至 2000 年代初 [[Knowledge-Based Economy|知识经济]]主导与[[Policy Borrowing|政策借用]]转向** 伴随全球化进程，终身学习被[[World Bank|世界银行]]（[[World Bank]]）与 [[OECD]] 深度重塑为服务[[Knowledge-Based Economy|知识经济]]与劳动力市场[[Employability|就业能力]]的工具；各国政府亦频繁借用终身学习[[Discourse|话语]]作为[[Externalization|外部化]]国内矛盾的政策工具。[[Argument_Yan_2025_JCS|(Yan & Morris, 2025, p. 487)]]
 > - **2000 年代 [[OECD]] 依托 [[PISA]] 量化测查终身学习倾向** 经合组织启动国际学生评估项目（PISA），宣称其不测验课程既定知识记忆，而是评估义务教育结束阶段学生在应对真实生活挑战时的“终身学习倾向”（dispositions for lifelong learning），将终身学习理念融入跨国度量空间与排位竞争。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 447)]]
-> - **2006 年与 2018 年 欧盟[[21st Century Skills and Competencies Discourse|关键能力]]框架** 欧洲联盟（European Union, EU）发布并更新《终身学习核心素养建议书》（[[EU Key Competences for Lifelong Learning]]），确立了包括科学、数学、数字素养、公民素养及[[Learner Autonomy|自主学习]]在内的八大终身学习关键能力。
+> - **2006 年与 2018 年 [[EU|欧盟]][[21st Century Skills and Competencies Discourse|关键能力]]框架** 欧洲联盟（European Union, EU）发布并更新《终身学习核心素养建议书》（[[EU Key Competences for Lifelong Learning]]），确立了包括科学、数学、数字素养、公民素养及[[Learner Autonomy|自主学习]]在内的八大终身学习关键能力。
 > - **2007 年 欧盟“终身学习计划”（Lifelong Learning Programme, LLP）确立跨国流动支柱** 欧盟正式启动 2007–2013 统摄性“终身学习计划”（LLP），将[[Erasmus Programme|伊拉斯谟计划]]（ERASMUS）、夸美纽斯计划（COMENIUS）、达芬奇计划（LEONARDO DA VINCI）及格伦特维计划（GRUNDTVIG）全面整合；将学生跨国流动（[[Student Mobility|学生流动性]]）确立为获取终身学习素养与提升个体就业胜任力的核心制度载体。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
 > - **2020 年代中 数字化、绿色化转型与社会文化基础设施演进** 面对[[Generative Artificial Intelligence|生成式人工智能]]（Artificial Intelligence, AI）颠覆与气候变化危机，英国皇家学会（Royal Society, 2026）重塑终身学习[[Construct|构念]]，提出涵盖[[Data Literacy|数据素养]]、批判性 AI 素养与可持续发展素养的交叉素养框架，并将科技馆、探索中心及[[Citizen Science|公民科学]]确立为保障全民终身学习的社会与文化基础设施。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, pp. 31–32)]]; [[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 48)]]
 
@@ -171,7 +173,7 @@ updated: 2026-10-15
 > **人本主义终身教育的工具主义异化** 揭示终身学习在过去几十年中经历了从 1970 年代 [[UNESCO]] 全人发展哲学向新自由主义经济竞争工具的退化；政策文本频繁将学习责任单向推向个体，掩盖了教育机会不均等与劳动力市场不公等深层制度问题。
 
 > [!claim] [[Robert Arnove|Arnove, R.]]
-> **国际多边格局重构与终身学习的人本主义式微** 阿诺夫（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）引用蒙迪（Mundy, 1999）指出，在战后以联合国教育、科学及文化组织（[[UNESCO]]）为主导的“有限再分配性多边主义”时期，终身学习被置于人道主义与社会福利的核心地位，作为实现普遍受教育权的长远愿景；然而随着 1980 年代[[World Bank|世界银行]]（[[World Bank]]）等以经济增长为导向的国际金融机构崛起，终身学习理念被深度重塑与窄化。尽管 1996 年联合国教科文组织德洛尔报告（Delors Report）试图通过“学会认知、做事、共处与生存”四大支柱挽回全人发展的社会向度，并对经济全球化侵蚀社会连带发出预警，但全球教育政策议程的实际主导权已不可逆转地被世界银行的[[Human Capital Theory|人力资本]]与成本效益模型所接管，使终身学习在实践中日益蜕变为劳动者单向度应对市场淘汰的[[Employability|就业能力]]（[[Employability]]）[[Disciplina and Doctrina|规训]]。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
+> **国际多边格局重构与终身学习的人本主义式微** 阿诺夫（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）引用蒙迪（Mundy, 1999）指出，在战后以联合国教育、科学及文化组织（[[UNESCO]]）为主导的“有限再分配性多边主义”时期，终身学习被置于人道主义与社会福利的核心地位，作为实现普遍受教育权的长远愿景；然而随着 1980 年代[[World Bank|世界银行]]（[[World Bank]]）等以经济增长为导向的国际金融机构崛起，终身学习理念被深度重塑与窄化。尽管 1996 年联合国教科文组织[[Delors Report|德洛尔报告]]（Delors Report）试图通过“学会认知、做事、共处与生存”四大支柱挽回全人发展的社会向度，并对经济全球化侵蚀社会连带发出预警，但全球教育政策议程的实际主导权已不可逆转地被世界银行的[[Human Capital Theory|人力资本]]与成本效益模型所接管，使终身学习在实践中日益蜕变为劳动者单向度应对市场淘汰的[[Employability|就业能力]]（[[Employability]]）[[Disciplina and Doctrina|规训]]。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 110)]]
 
 ---
 
@@ -194,7 +196,7 @@ updated: 2026-10-15
 > 超国家教育治理（如[[European Education Space|欧洲教育空间]]）将终身学习构型与[[Student Mobility|学生流动性]]深度嵌套，使跨国流动从早期的文化交融与欧洲公民认同培育，转变为个体终身维持人力资本与就业[[Competitiveness|竞争力]]的战略工具。
 
 > [!claim] [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] & Papatsiba (2005)
-> **终身学习对流动性的工具化吸纳与新自由主义就业规训** 索贝与菲舍尔（Noah W. Sobe & Trevor Fischer, 2009, pp. 362–363）援引瓦西莉基·帕帕齐巴（Vassiliki Papatsiba, 2005）的批判考证指出，欧盟通过“终身学习计划 2007–2013”（LLP）将伊拉斯谟（[[Erasmus Programme|ERASMUS]]）等跨国流动项目全面整合进终身学习政策伞下，标志着流动性质的根本转型。流动不再仅仅关乎文化探索或政治一体化，而是被重新编码为个体必须具备的终身学习核心技能与就业胜任力（Employability）。在这种超国家空间[[Governmentality|治理术]]下，宏观经济与劳动力市场的结构性动荡风险被系统性地个体化：个体被要求通过终身跨国流动展现持续的适应性与灵活性，流动的缺席则被归咎为个人的技能缺陷与自我投资不足。
+> **终身学习对流动性的工具化吸纳与新自由主义就业规训** 索贝与菲舍尔（Noah W. Sobe & Trevor Fischer, 2009, pp. 362–363）援引瓦西莉基·帕帕齐巴（Vassiliki Papatsiba, 2005）的批判考证指出，[[EU|欧盟]]通过“终身学习计划 2007–2013”（LLP）将伊拉斯谟（[[Erasmus Programme|ERASMUS]]）等跨国流动项目全面整合进终身学习政策伞下，标志着流动性质的根本转型。流动不再仅仅关乎文化探索或政治一体化，而是被重新编码为个体必须具备的终身学习核心技能与就业胜任力（Employability）。在这种超国家空间[[Governmentality|治理术]]下，宏观经济与劳动力市场的结构性动荡风险被系统性地个体化：个体被要求通过终身跨国流动展现持续的适应性与灵活性，流动的缺席则被归咎为个人的技能缺陷与自我投资不足。
 
 ---
 

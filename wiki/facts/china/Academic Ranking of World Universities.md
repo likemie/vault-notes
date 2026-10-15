@@ -11,7 +11,7 @@ subtype: event
 region: china
 fact_region: "china"
 fact_kind: "event"
-fact_related_count: 33
+fact_related_count: 34
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#fef3c7"
@@ -56,6 +56,7 @@ related_facts:
   - "[[CNRS]]"
   - "[[OECD]]"
   - "[[OECD AHELO Project]]"
+  - "[[EU]]"
   - "[[Erasmus Programme]]"
 related_arguments:
   - "[[Argument_Boyadjieva_2022_Springer]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-11
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Academic Ranking of World Universities
@@ -169,7 +170,7 @@ updated: 2026-10-15
 > > [!axis] 科研声誉排序与跨境流动的动机脱节
 > > 跨国流动实践与排名位次之间的结构性背离。
 > >
-> > - **国际流动背离学术声誉指标** [[José Luis García Garrido|加西亚·加里多]]（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 332–333]]）揭示了南欧高教体系中的“西班牙悖论”：西班牙大学在 ARWU 与泰晤士高等教育等权威榜单中无一跻身前列，却凭借气候宜人、语言吸引力与低生活成本成为欧盟[[Erasmus Programme|伊拉斯谟计划]]最主要的留学生输入国。这种学生跨境流动与学术排名的脱节表明，全球排名指标无法衡量高等教育在区域一体化与文化交往中的多元吸引力，同时也警示各国大学不可将文化与地理红利误读为学术卓越。（pp. 332–333）
+> > - **国际流动背离学术声誉指标** [[José Luis García Garrido|加西亚·加里多]]（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 332–333]]）揭示了南欧高教体系中的“西班牙悖论”：西班牙大学在 ARWU 与泰晤士高等教育等权威榜单中无一跻身前列，却凭借气候宜人、语言吸引力与低生活成本成为[[EU|欧盟]][[Erasmus Programme|伊拉斯谟计划]]最主要的留学生输入国。这种学生跨境流动与学术排名的脱节表明，全球排名指标无法衡量高等教育在区域一体化与文化交往中的多元吸引力，同时也警示各国大学不可将文化与地理红利误读为学术卓越。（pp. 332–333）
 
 > [!citation-card] [[Global Universities Rankings|全球大学排名]]的共识缺失困境
 > 没有任何两个全球排名系统是相似的，甚至在各个系统之间根本找不到哪怕一个完全重合的测量指标。这种高度分歧证明排名并非对客观教育现实的忠实映射，而是一种人为的量化建构。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, p. 135)]]

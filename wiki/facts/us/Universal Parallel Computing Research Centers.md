@@ -35,7 +35,7 @@ related_concepts:
   - "[[Technology Transfer]]"
   - "[[Return on Investment]]"
   - "[[Open-Mindedness]]"
-  - "[[Public-Private Partnership in Research]]"
+  - "[[Public-Private Partnership]]"
   - "[[Innovation Hub]]"
 related_theories: []
 related_methods: []

@@ -10,7 +10,7 @@ aliases:
 summary: "指由地理邻近的企业、大学、科研机构与地方政府在特定次国家区域内构成的互动学习网络，依赖面对面交流、隐性知识扩散与地方制度厚度培育差异化区域竞争优势。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -46,6 +46,7 @@ related_persons:
 related_facts:
   - "[[Chinese Academy of Sciences]]"
   - "[[Local Innovation Systems Project]]"
+  - "[[EU]]"
 related_arguments:
   - "[[Argument_Freeman_1995_CJE]]"
   - "[[Argument_Lester_2005_MIT]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-14
+updated: 2026-10-16
 ---
 
 # Regional Innovation System
@@ -160,7 +161,7 @@ updated: 2026-10-14
 > - **1980s — 灵活专业化与第三意大利现象** 贝卡蒂尼（Becattini）等意大利学者揭示中北部地区中小企业网络凭借深厚地方社会网络与工匠文化，在国际市场上展现出极强的柔性生产与创新活力。
 > - **1992/1995 — 区域[[Systems of Innovation|创新系统]]概念成型** 菲利普·库克（Philip Cooke, 1992）正式提出“区域创新系统”概念；[[Chris Freeman|克里斯·弗里曼]]（[[Argument_Freeman_1995_CJE|Freeman, 1995]]）在《剑桥经济学杂志》中将次国家下层区域（nether regions）作为国家系统的重要支柱进行系统阐发。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 20–21)]]
 > - **2004/2005 — 理论系统化与 LIS 实证模型** 阿斯海姆与格特勒（Asheim & Gertler, 2004）将区域创新系统提炼为演化经济地理学的核心框架；理查德·莱斯特（[[Argument_Lester_2005_MIT|Lester, 2005]]）主持 MIT [[Local Innovation Systems Project|本地创新系统项目]]（LIS），确立大学适配四类产业转型的经验模型。[[Argument_Lester_2005_MIT|(Lester, 2005, pp. 11–24)]]
-> - **2010s 至今 — 智能专业化战略与政策制度化** 欧盟在“地平线 2020”及凝聚政策中强制推行“智能专业化研究与创新战略”（Smart Specialisation Strategies, S3），要求各成员国区域依据自身比较优势与区域创新系统特征构建差异化技术升级路线。
+> - **2010s 至今 — 智能专业化战略与政策制度化** [[EU|欧盟]]在“地平线 2020”及凝聚政策中强制推行“智能专业化研究与创新战略”（Smart Specialisation Strategies, S3），要求各成员国区域依据自身比较优势与区域创新系统特征构建差异化技术升级路线。
 
 ---
 

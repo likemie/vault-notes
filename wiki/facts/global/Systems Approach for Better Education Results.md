@@ -11,7 +11,7 @@ subtype: program
 region: "global"
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -25,6 +25,7 @@ tags:
   - theme/benchmarking
 related_concepts:
   - "[[Policy Brokerage]]"
+  - "[[School Autonomy]]"
   - "[[Heterogeneity]]"
   - "[[Knowledge Production]]"
   - "[[Cognitive Decoupling]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-10
+updated: 2026-10-16
 ---
 
 # Systems Approach for Better Education Results
@@ -77,7 +78,7 @@ updated: 2026-10-10
 > [!policy-design]- 方案设计
 > - **项目目标** 建立全球标准化教育政策知识库，消除教育政策领域的“技术赤字”，向成员国打包推介经过世界银行实证检验的最佳政策处方。
 > - **覆盖对象** 参与借贷与政策咨询的成员国教育部、教师管理机构、考试测评院及地方教育行政部门。
-> - **干预措施** 设立 13 个独立政策评估领域（如教师管理、学校自主与问责、学生测评系统、学前发展、教育管理信息系统 EMIS、私营部门参与等），基于详尽的政策[[Questionnaire\|问卷]]与规章分析打分。
+> - **干预措施** 设立 13 个独立政策评估领域（如教师管理、[[School Autonomy|学校自主]]与问责、学生测评系统、学前发展、教育管理信息系统 EMIS、私营部门参与等），基于详尽的政策[[Questionnaire\|问卷]]与规章分析打分。
 > - **实施控制** 确立四级政策成熟度评价量规（潜伏级 Latent、起步级 Emerging、确立级 Established、领先级 Advanced），由华盛顿总部指派的高级顾问进行统一复核质控。
 
 > [!citation-card] 世界银行自指性经验汲取与 SABER 方案库

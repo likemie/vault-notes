@@ -10,7 +10,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 19
+fact_related_count: 20
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -39,6 +39,7 @@ related_methods:
   - "[[Expert Interview]]"
 related_persons: []
 related_facts:
+  - "[[EU]]"
   - "[[Europe 2020 Strategy]]"
   - "[[Innovation Union]]"
   - "[[Youth Guarantee Scheme]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-13'
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # EU Skills Agenda
@@ -57,7 +58,7 @@ updated: 2026-10-08
 ## 背景
 
 > [!info]
-> EU Skills Agenda（欧盟技能议程）全称"欧洲新技能议程"（A New Skills Agenda for Europe），由欧盟委员会于 2016 年发布，是 [[Europe 2020 Strategy]]（2010–2020）的两大旗舰倡议之一。该议程融合了积极劳动力市场政策（Active Labour Market Policies, ALMPs）与欧盟教育培训战略（EU Education and Training Strategy），旨在同时提高就业率和生产率水平(European Commission, 2016; [[Argument_Rambla_2022_Springer\|Rambla, 2022, p.168]])。
+> [[EU]] Skills Agenda（欧盟技能议程）全称"欧洲新技能议程"（A New Skills Agenda for Europe），由欧盟委员会于 2016 年发布，是 [[Europe 2020 Strategy]]（2010–2020）的两大旗舰倡议之一。该议程融合了积极劳动力市场政策（Active Labour Market Policies, ALMPs）与欧盟教育培训战略（EU Education and Training Strategy），旨在同时提高就业率和生产率水平(European Commission, 2016; [[Argument_Rambla_2022_Springer\|Rambla, 2022, p.168]])。
 >
 > Skills Agenda 的提出回应了三重挑战：技能短缺与技能错配（skills mismatches）、数字转型对劳动力技能的冲击、以及早期辍学（early school leaving）对社会凝聚力的威胁。议程的核心理念是：技能形成既需要教育培训体系的支撑，也需要积极劳动力市场政策的介入——这两者不再被视为独立的政策领域([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.168–169, 170]])。
 
@@ -68,7 +69,7 @@ updated: 2026-10-08
 >
 > **提升低技能成年人技能水平** 要求成员国通过"技能保障"（Skills Guarantee）路径为低技能成年人提供提升技能（upskilling）的机会，涵盖在职和失业人群。目标是改善其识字、计算和数字技能，并在可能的情况下获得更高一级的学历资格（European Commission, 2016，引用于 Rambla, 2022, p.171）。
 >
-> **技能情报与可见性** 提出"技能情报"（skills intelligence）概念，使其成为学校、培训提供者和雇主的工具。国家和区域政府、基层组织和欧盟层面的行动者共同提高对技能短缺和错配的认识，确保"没有人被落下"（European Commission, 2016, 2018; [[Argument_Rambla_2022_Springer\|Rambla, 2022, p.171]]）。
+> **技能情报与可见性** 提出"技能情报"（skills intelligence）概念，使其成为学校、培训提供者和雇主的工具。国家和区域政府、基层组织和[[EU|欧盟]]层面的行动者共同提高对技能短缺和错配的认识，确保"没有人被落下"（European Commission, 2016, 2018; [[Argument_Rambla_2022_Springer\|Rambla, 2022, p.171]]）。
 >
 > **跨越传统政策边界** 鼓励就业、学校教育和职业教育与培训（VET）不再作为独立运作的部门，而是共同构成一个"教育培训体系"。技能形成需要教育培训和积极劳动力市场政策的双重支撑([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.170]])。
 
@@ -82,7 +83,7 @@ Skills Agenda 与 [[Innovation Union]] 共享一个核心[[Theory of Change|变�
 ## 时间线
 
 > [!note]-
-> - 2011 年：欧盟理事会发布关于减少早期辍学的建议书（European Council, 2011a）和关于成人教育更新的决议（European Council, 2011b），为 Skills Agenda 奠定政策基础
+> - 2011 年：[[EU|欧盟]]理事会发布关于减少早期辍学的建议书（European Council, 2011a）和关于成人教育更新的决议（European Council, 2011b），为 Skills Agenda 奠定政策基础
 > - 2013 年：[[Youth Guarantee Scheme]] 建立，将就业与教育培训衔接制度化
 > - 2016 年：欧盟委员会发布《欧洲新技能议程》通讯文件（European Commission, 2016）
 > - 2018 年：欧盟委员会发布数字技能与就业联盟行动计划（European Commission, 2018）
@@ -90,7 +91,7 @@ Skills Agenda 与 [[Innovation Union]] 共享一个核心[[Theory of Change|变�
 ## 实施情况
 
 > [!example]
-> Skills Agenda 的实施依赖多层次治理网络（详见 [[Network Governance]] 中欧盟部分）([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.172–173]])：
+> Skills Agenda 的实施依赖多层次治理网络（详见 [[Network Governance]] 中[[EU|欧盟]]部分）([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.172–173]])：
 >
 > - **财政支持** 欧盟社会基金（European Social Fund, [[English Schools Foundation Hong Kong\|ESF]]）对社会伙伴开放，支持培训和积极劳动力市场政策
 > - **政策扩散** EUROSTAT 的区域[[Performance Indicators\|教育指标]]追踪各 NUTS2 区域的"教育培训体系"绩效，包括全年龄段人口参与率和按"完成最高教育水平后年数"计算的就业率
@@ -112,7 +113,7 @@ Skills Agenda 与 [[Innovation Union]] 共享一个核心[[Theory of Change|变�
 ## 效果与评价
 
 > [!success]
-> - Skills Agenda 成功将"教育培训体系"建构为欧盟政策[[Discourse|话语]]中的核心概念，使其与"[[Innovation Ecosystem\|创新生态]]体系"并列成为 [[Europe 2020 Strategy]] 的两大支柱([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.170–171]])
+> - Skills Agenda 成功将"教育培训体系"建构为[[EU|欧盟]]政策[[Discourse|话语]]中的核心概念，使其与"[[Innovation Ecosystem\|创新生态]]体系"并列成为 [[Europe 2020 Strategy]] 的两大支柱([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.170–171]])
 > - 在制度传统较强的国家（奥地利、德国、芬兰），地方专业人员将欧盟的官方[[Theory of Change\|变革理论]]内化并翻译为本地可操作的版本，表明欧盟的政策话语确实在地方层面产生了认知影响（p.172–173）
 
 > [!info]- 核心数据
@@ -122,7 +123,7 @@ Skills Agenda 与 [[Innovation Union]] 共享一个核心[[Theory of Change|变�
 ## 争议与评论
 
 > [!warning]
-> - **就业优先偏向** 除芬兰外，大多数欧盟成员国的[[Lifelong Learning\|终身学习]]专业人员将 Skills Agenda 的核心目标理解为就业优先——即短期内帮助青年获得工作。政策的个人发展和公民参与维度在实践中被显著边缘化。这一偏向并非决策者有意的偏见，而是 [[Selectivity]] 的结构性效应——[[Performance Indicators\|绩效指标]]体系使就业安置在操作上比个人发展更容易被衡量和奖励([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.174]])
+> - **就业优先偏向** 除芬兰外，大多数[[EU|欧盟]]成员国的[[Lifelong Learning\|终身学习]]专业人员将 Skills Agenda 的核心目标理解为就业优先——即短期内帮助青年获得工作。政策的个人发展和公民参与维度在实践中被显著边缘化。这一偏向并非决策者有意的偏见，而是 [[Selectivity]] 的结构性效应——[[Performance Indicators\|绩效指标]]体系使就业安置在操作上比个人发展更容易被衡量和奖励([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.174]])
 > - **绩效指标的窄化效应** EUROSTAT 的教育培训指标只能捕捉各年龄段人群的"在学状态"，无法反映非正式学习、公民教育和整个生命历程中学习的丰富性。指标在定义"教育培训体系"的同时也窄化了终身学习的内涵([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.170, 174–175]])。详见 [[Performance Indicators]]
 > - **治理协调挑战** Skills Agenda 与 [[Innovation Union]] 通过模糊此前分离的政策领域边界，为代表布鲁塞尔、国家和次国家政府的行动者带来了大量协调问题——这些在政策设计层面可能未被充分预见([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.169]])
 

@@ -9,7 +9,7 @@ summary: "在多个时间点对同一或不同受访者收集数据的调查研�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 26
+method_related_count: 27
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -47,11 +47,12 @@ related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06]]"
 related_facts:
+  - "[[EU]]"
   - "[[UK Science Education Tracker]]"
 confidence: medium
 status: draft
 created: 2026-07-09
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Longitudinal Study
@@ -164,7 +165,7 @@ updated: 2026-10-15
 > - **识别典型发展模式** 能揭示其他研究设计无法捕捉的因素，区分"真实"变化和偶然事件。
 
 > [!weakness] 局限
-> - **[[Attrition\|样本流失]]（attrition）** 参与者随时间推移退出研究，是[[Cohort Study\|面板研究]]的特有问题。Gorard (2001b)报告一项职业与身份研究首轮回应率 60–70%，到第三轮可能降至 25%，且每轮变得更中产阶级化；英国青年队列研究（Youth Cohort Study）仅 45% 受访者参加全部三轮。Ruspini (2002, p. 72)指出 1997 年英国欧洲共同体家庭面板调查（European Community Household Panel，ECHP）三轮中流失率达 78%（p.270）。
+> - **[[Attrition\|样本流失]]（attrition）** 参与者随时间推移退出研究，是[[Cohort Study\|面板研究]]的特有问题。Gorard (2001b)报告一项职业与身份研究首轮回应率 60–70%，到第三轮可能降至 25%，且每轮变得更中产阶级化；英国青年队列研究（Youth Cohort Study）仅 45% 受访者参加全部三轮。Ruspini (2002, p. 72)指出 1997 年英国[[EU|欧洲共同体]]家庭面板调查（European Community Household Panel，ECHP）三轮中流失率达 78%（p.270）。
 > - **测量误差的累积放大** 小误差随时间推移会累积放大，如收入误差在某个时间点发生，可能导致关于贫困和失业的"虚假转变"（false transitions）（Ruspini, 2002, p. 72）。
 > - **[[Pre-test Sensitisation\|预试敏感化]]（pre-test sensitisation）** 也称面板条件化（panel conditioning）或样本内时间偏倚（time-in-sample bias）：第一次访谈可能引发在第二次访谈中被记录的变化——例如健康调查可能提高参与者对吸烟危害的意识，使其在第二轮数据收集前减少或戒烟（Dooley, 2001, p. 120; Ruspini, 2002, p. 73）。
 > - **研究团队变化** 不同研究者在时间上的变化可能导致受访者回答的差异，即使使用相同工具，不同研究者可能以不同方式使用它们（Dooley, 2001）。

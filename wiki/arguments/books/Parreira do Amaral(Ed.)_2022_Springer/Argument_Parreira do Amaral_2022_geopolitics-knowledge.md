@@ -9,7 +9,7 @@ title: "Argument_Parreira do Amaral_2022_geopolitics-knowledge"
 argument_key: "Argument_Parreira do Amaral_2022_geopolitics-knowledge"
 argument_display_title: "Imagining and transforming higher education. Knowledge production in the new geopolitics of knowledge"
 argument_kind: "book"
-argument_related_count: 30
+argument_related_count: 31
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -59,7 +59,8 @@ related_methods:
   - "[[Analytic Framework]]"
 related_persons:
   - "[[Walter Mignolo]]"
-related_facts: []
+related_facts:
+  - "[[EU]]"
 related_arguments: []
 sources:
   - "[[books/Parreira do Amaral(Ed.)_2022_Springer/Ch3_Parreira do Amaral_2022|Ch3_Parreira do Amaral_2022]]"
@@ -107,7 +108,7 @@ Dussel (1993) 批评后现代性对现代性的批判"必要但不充分"，指�
 本章论证两种概念视角并非互斥而是互为补充，共同构成有力分析框架：
 
 - 批判地缘政治学提供了关系性和话语-符号维度，关注构成全球知识密集型资本主义网络的具体物质过程和空间配置——例如 IEHs 如何将特定领土转变为全球教育流动的"枢纽"(pp.43–45)
-- 后殖民/去殖民批判则将注意力引向认识论本身的政治性——它追问的不只是"谁在想象和建构世界空间"，而是"谁的知识被认定为知识，什么认识论被排除在外"。这揭示了一个被"创新"话语掩盖的深层后果：当前的[[Knowledge-Based Economization|知识经济化]]并非认识论中立——它在制度层面系统性地稳定和固化了特定的（[[Positivism|实证主义]]、[[Empiricism|经验主义]]）认识论范式，并通过"创新"话语使其成为唯一合理的选择。例：在 EU Horizon 2020 框架下，SSH 研究被取消独立资助渠道，要求"直接为政策证据基础做贡献"(p.42)——这意味着 SSH 研究只有在其能够为技术创新和经济[[Competitiveness|竞争力]]提供工具性贡献时才被视为有价值，而纯理论、批判性或非工具性的研究被制度性地边缘化。从去殖民视角看，这正是西方认识论等级秩序——自然科学为"真正的知识"，人文学科为"辅助性知识"——在当代研究治理中的再生产
+- 后殖民/去殖民批判则将注意力引向认识论本身的政治性——它追问的不只是"谁在想象和建构世界空间"，而是"谁的知识被认定为知识，什么认识论被排除在外"。这揭示了一个被"创新"话语掩盖的深层后果：当前的[[Knowledge-Based Economization|知识经济化]]并非认识论中立——它在制度层面系统性地稳定和固化了特定的（[[Positivism|实证主义]]、[[Empiricism|经验主义]]）认识论范式，并通过"创新"话语使其成为唯一合理的选择。例：在 [[EU]] Horizon 2020 框架下，SSH 研究被取消独立资助渠道，要求"直接为政策证据基础做贡献"(p.42)——这意味着 SSH 研究只有在其能够为技术创新和经济[[Competitiveness|竞争力]]提供工具性贡献时才被视为有价值，而纯理论、批判性或非工具性的研究被制度性地边缘化。从去殖民视角看，这正是西方认识论等级秩序——自然科学为"真正的知识"，人文学科为"辅助性知识"——在当代研究治理中的再生产
 
 综合起来，本章强调当前形势中两个维度的共构性：
 1. 古典的领土权力博弈并未消失——大国的势力范围竞争以技术竞争和区域贸易协定（如 RCEP）的新形式持续运作(pp.37–38)
@@ -124,7 +125,7 @@ Dussel (1993) 批评后现代性对现代性的批判"必要但不充分"，指�
 
 **第三步（§3.3 转型高等教育：救赎与生存）：两个转型语境。** 讨论驱动当前高等教育转型的两大语境：
 
-- [[Global Regionalisms|全球区域主义]]：高等教育被嵌入区域政治经济想象——以欧盟为例，过去 20 年间大多数科学和教育政策在"成为全球最具[[Competitiveness|竞争力]]知识经济体"的目标下制定。Robertson et al. (2016) 的研究将关注点从"国际组织对教育的影响"转向"教育项目在想象和建构世界区域本身中的角色"，揭示了高等教育在话语层面构成区域地缘政治想象的核心支柱。其他区域包括 MERCOSUR、ALBA、NAFTA、APEC 等的比较研究进一步显示了不同区域中政治、文化和历史动态对制度形态和社会关系的中介作用(pp.40–42)
+- [[Global Regionalisms|全球区域主义]]：高等教育被嵌入区域政治经济想象——以[[EU|欧盟]]为例，过去 20 年间大多数科学和教育政策在"成为全球最具[[Competitiveness|竞争力]]知识经济体"的目标下制定。Robertson et al. (2016) 的研究将关注点从"国际组织对教育的影响"转向"教育项目在想象和建构世界区域本身中的角色"，揭示了高等教育在话语层面构成区域地缘政治想象的核心支柱。其他区域包括 MERCOSUR、ALBA、NAFTA、APEC 等的比较研究进一步显示了不同区域中政治、文化和历史动态对制度形态和社会关系的中介作用(pp.40–42)
 
 - [[Global Education Industry|全球教育产业]]：教育本身已成为一项经济事业——"无数行动者在此基础上生产、交换和消费教育商品和服务，通常以营利为目的"(Verger et al., 2016, p.4, p.42)。GEI 被描述为由"自身的过程集合、规则系统和社会力量"构成的独立运作领域，其核心特征在于建立在经济基础上的概念已渗透到全球教育改革和重组之中(pp.42–43)
 

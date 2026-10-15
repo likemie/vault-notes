@@ -12,9 +12,9 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch20"
 argument_display_title: "Research Methods in Education · Ch20"
 argument_kind: "book-chapter"
-argument_related_count: 44
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 45
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
 book_title: "Research Methods in Education"
 publication_place: "London"
@@ -79,6 +79,7 @@ related_methods:
   - "[[Random Sampling]]"
 related_facts:
   - "[[National Institute for Health and Care Excellence]]"
+  - "[[GEMS Education]]"
 status: draft
 created: 2026-07-20
 updated: '2026-08-27'
@@ -600,7 +601,7 @@ Selltiz et al.（1976）提供了一份详尽的问卷构建指南，按四类�
 #### 开放题
 
 > [!strength] 开放题的优势
-> - 可能包含问卷中否则无法捕捉的珍宝信息（gems of information）
+> - 可能包含问卷中否则无法捕捉的珍宝信息（[[GEMS Education|GEMS]] of information）
 > - 将数据责任和所有权更牢固地交到受访者手中
 > - 能捕捉**真实性、丰富性、回应深度、诚实和坦率**——这些是质性数据的标志
 > - 适用于小规模研究或问卷中邀请受访者在勾选数字和方框之外发表诚实个人评论的部分（pp. 147–149）

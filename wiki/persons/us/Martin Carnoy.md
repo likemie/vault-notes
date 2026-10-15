@@ -7,7 +7,7 @@ summary: "美国比较教育学与教育政治经济学奠基泰斗，斯坦福�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 28
+person_related_count: 31
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -27,6 +27,8 @@ related_concepts:
   - "[[Post-Fordism]]"
   - "[[State Educational Sovereignty]]"
   - "[[Financial-Intellectual Complex]]"
+  - "[[Structural Adjustment Programs]]"
+  - "[[Discourse]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Protean Episteme]]"
   - "[[Positivism]]"
@@ -35,6 +37,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Determinism]]"
   - "[[Champ]]"
+  - "[[Performance Pay]]"
   - "[[Import Substitution Industrialisation]]"
 related_theories:
   - "[[Dependency Theory]]"
@@ -106,7 +109,7 @@ updated: 2026-10-16
 > - **1990s–至今 — 第三世界社会转型、[[Post-Fordism|后福特制]]与全球化结构调整批判** 此阶段直面新自由主义全球化与信息经济对民族[[State Educational Sovereignty|国家教育主权]]的蚕食。
 >   - **代表著作** *Education and Social Transition in the Third World* (1990, with J. Samoff); *Education and the state: From Adam Smith to perestroika* (1992); *Globalization and Educational Reform: What Planners Need to Know* (1999, UNESCO/IIEP); *Sustaining the New Economy* (2000)。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 73–75)]]
 >   - **关键概念／理论** [[Post-Fordism|后福特主义]]、[[Financial-Intellectual Complex|金融-智识复合体]]、转型国家的教育国家契约、结构调整中的教师污名化（Teachers as Villains）。
->   - **阶段转向** 一方面剖析后冷战时期转型国家在脱离殖民与计划经济时的制度阵痛；另一方面出版《全球化与教育改革》（1999），深刻揭露新自由主义结构调整政策如何将削减教师薪酬作为主要节支目标，在话语上将教师与工会系统性打上效率低下“恶棍”（villains）标签以推销廉价标准化教辅；同时运用严格的大规模跨国实证数据，持续反思跨国金融机构推行的紧缩私有化对公立教育系统的侵蚀。
+>   - **阶段转向** 一方面剖析后冷战时期转型国家在脱离殖民与计划经济时的制度阵痛；另一方面出版《全球化与教育改革》（1999），深刻揭露新自由主义[[Structural Adjustment Programs|结构调整政策]]如何将削减教师薪酬作为主要节支目标，在[[Discourse|话语]]上将教师与工会系统性打上效率低下“恶棍”（villains）标签以推销廉价标准化教辅；同时运用严格的大规模跨国实证数据，持续反思跨国金融机构推行的紧缩私有化对公立教育系统的侵蚀。
 
 ---
 
@@ -121,7 +124,7 @@ updated: 2026-10-16
 > *Defining the "real" problems of education and the most appropriate (e.g., cost-effective, ethically acceptable, and legitimate) solutions depends greatly on the theories of the state that underpin, justify, and guide the educational diagnosis and proponed solutions. There is, however, a permanent challenge here. As Martin Carnoy (1992) has argued, most analyses of educational problems have implicit in them a theory of the state but seldom are the fundamentals of that theory recognized or spelled out in educational research and practice.*
 
 > [!citation-card] 卡诺伊论新自由主义全球改革将教师建构为体制“恶棍”
-> 在新自由主义结构调整与全球化教育改革的话语中，削减公共教育开支的核心阻碍往往被归咎于教师薪酬与工会抵抗。世界银行等机构的经济紧缩逻辑将教师系统性塑造为阻碍效率与现代化的‘恶棍’（villains），以此为由削减教师待遇、瓦解教师集体谈判权，并将粉笔、黑板与统编教材等物质投入包装为最具成本效益的改革替代方案。[[Argument_Beech_2009_GlobalGarden|(Carnoy, 1999, cited in Beech, 2009b, p. 347)]]
+> 在新自由主义结构调整与全球化教育改革的[[Discourse|话语]]中，削减公共教育开支的核心阻碍往往被归咎于教师薪酬与工会抵抗。[[World Bank|世界银行]]等机构的经济紧缩逻辑将教师系统性塑造为阻碍效率与现代化的‘恶棍’（villains），以此为由削减教师待遇、瓦解教师集体谈判权，并将粉笔、黑板与统编教材等物质投入包装为最具成本效益的改革替代方案。[[Argument_Beech_2009_GlobalGarden|(Carnoy, 1999, cited in Beech, 2009b, p. 347)]]
 >
 > *Carnoy (1999) argues that in the discourse of globalization and educational reform, teachers are often depicted as the villains of the system, standing in the way of efficiency and modern management, which justifies policies aimed at reducing their salaries and benefits.*
 
@@ -147,7 +150,7 @@ updated: 2026-10-16
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯系统评析卡诺伊由芝加哥学派经济学家转向修正主义新马克思主义教育政治经济学家的心智历程，确立其国家中心观与学校矛盾博弈论在第四代比较教育范式中的奠基地位。
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯评述卡诺伊关于任何教育政策分析必然暗含特定国家理论的前提性支配命题。
-> - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 援引卡诺伊《全球化与教育改革》，揭示世界银行新自由主义话语如何将教师建构为阻碍效率的恶棍以证成预算削减。
+> - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 援引卡诺伊《全球化与教育改革》，揭示世界银行新自由主义[[Discourse|话语]]如何将教师建构为阻碍效率的恶棍以证成预算削减。
 
 ---
 
@@ -176,7 +179,7 @@ updated: 2026-10-16
 > > [!axis] 教师薪酬作为削减成本的主要阻碍 vs 教师专业作为教育质量的核心基石
 > > 争论在公共教育紧缩中，应当将教师薪酬视为需要削减的成本负担，还是保障教育质量不可动摇的底线投资。
 > >
-> > - **新古典经济学与世行紧缩话语** 将教师薪酬视为公共教育预算中最庞大且僵化的支出，主张通过削减福利、引入绩效工资与推销廉价标准化教辅来压低单位成本。
+> > - **新古典经济学与[[World Bank|世行]]紧缩[[Discourse|话语]]** 将教师薪酬视为公共教育预算中最庞大且僵化的支出，主张通过削减福利、引入[[Performance Pay|绩效工资]]与推销廉价标准化教辅来压低单位成本。
 > > - **卡诺伊与批判政治经济学者（Carnoy, 1999; [[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）** 揭露将教师污名化为体制恶棍的意识形态虚伪性，指出剥夺教师尊严与合理报酬必然瓦解公立教育根基。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 347)]]
 
 > [!warning] 适用局限

@@ -7,7 +7,7 @@ aliases:
 summary: "知识的创造、建构与合法化过程；在宏观场域揭示资本偏向、跨国组织自指性指标帝国与高校基础科研体制变迁，在微观教育场域指向学习者在本土协商共同体中依托证据协调与认识论实践自主生成新知并内化说服优于强制的民主审议价值。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 132
+related_count: 133
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Pragmatic Paradigm]]"
   - "[[Theoretical Knowledge]]"
   - "[[School Autonomy]]"
+  - "[[Encyclopaedic Definition of Knowledge]]"
   - "[[Humboldtian Model of Higher Education]]"
   - "[[Intellectual Capital]]"
   - "[[Narrative Knowledge]]"
@@ -161,7 +162,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-10
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Knowledge Production
@@ -216,7 +217,7 @@ updated: 2026-10-15
 > - **从认知中枢向技术能力组件的降维与三轨分化** 在技术导向型契约确立与大国地缘博弈加剧背景下，知识生产从国家科技战略的好奇心驱动认知中枢降维为技术能力要素；外部行政规约绕开传统同行评审，导致宏观生态分化为联邦国家任务、安全规约大学与私营算力垄断三大异质轨道。[[Argument_Fan_2026_BCAS|(樊春良, 2026, pp. 1061–1064)]]
 > - **智能时代学术交流与生成-核验生态重塑** 深刻批判源自 17 世纪的学术期刊同行评议体系（人为制造稀缺、指标异化、排斥失败与负面数据）；主张以包含数据、代码与运行环境的“[[Dynamic Research Notebook|动态研究笔记本]]”取代孤立静态论文，部署专职 AI 复现审计代理与云端自主实验室，并依托国家级平台（[[Genesis Mission|创世纪计划]]与美国科学云）打破数据壁垒，实现细粒度贡献追踪与负面数据共享。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 62–70)]]
 > - **教育即标准与中试共置的战略产业嵌入** 在国家关键战略产业（如半导体与微电子）中，大学突破单向专利许可模式，将开源技术架构（如加利福尼亚大学伯克利分校 RISC-V）直接嵌入研究生课程与实验训练，依托人才流动与网络外部性（David, 1985）驱动全球技术事实标准的内生锁定；同时依托 300 毫米晶圆中试线（SUNY Poly）与跨学科共享平台（MIT.nano）实现产学共置攻关，弥合实验室原型向制造产线导入的工程断层。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 20–22)]]
-> - **跨国知识流通的过度简化与外围本土知识生产的[[Gatekeepers|守门人]]阻绝** 国际机构（如世界银行、经合组织、[[UNESCO|教科文组织]]）受紧迫[[Pragmatic Paradigm|实用主义]]驱动，将全球学术空间的多元复杂[[Theoretical Knowledge|理论知识]]，过度简化（Oversimplification）为标准化的五大支柱政策模板（分权、[[School Autonomy|学校自主]]、教师专业化、能力本位、中央评估）；同时，外围发展中国家（如阿根廷、巴西）内部由兼具本土学者、政府技术官僚与跨国顾问多重身份的精英构成“[[Gatekeepers|守门人]]”网络，在全盘借入外部制度愿景的同时，系统性边缘化了本国大学与科研机构的自主知识生产空间，致使其深厚的百科全书式知识传统被贬抑为落后低效。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–353)]]
+> - **跨国知识流通的过度简化与外围本土知识生产的[[Gatekeepers|守门人]]阻绝** 国际机构（如世界银行、经合组织、[[UNESCO|教科文组织]]）受紧迫[[Pragmatic Paradigm|实用主义]]驱动，将全球学术空间的多元复杂[[Theoretical Knowledge|理论知识]]，过度简化（Oversimplification）为标准化的五大支柱政策模板（分权、[[School Autonomy|学校自主]]、教师专业化、能力本位、中央评估）；同时，外围发展中国家（如阿根廷、巴西）内部由兼具本土学者、政府技术官僚与跨国顾问多重身份的精英构成“[[Gatekeepers|守门人]]”网络，在全盘借入外部制度愿景的同时，系统性边缘化了本国大学与科研机构的自主知识生产空间，致使其深厚的[[Encyclopaedic Definition of Knowledge|百科全书式知识传统]]被贬抑为落后低效。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–353)]]
 
 ---
 

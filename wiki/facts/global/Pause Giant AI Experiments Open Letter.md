@@ -11,7 +11,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -37,13 +37,14 @@ related_persons:
   - "[[Eliezer Yudkowsky]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
-related_facts: []
+related_facts:
+  - "[[EU]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02]]"
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Pause Giant AI Experiments Open Letter
@@ -68,7 +69,7 @@ updated: 2026-10-15
 > [!dev-timeline] 事件推进历程
 > - **2023-03 — 倡议发布与全球呼吁** 未来生命研究所于 2023 年 3 月 22 日公开发布公开信，明确呼吁全球所有人工智能实验室立即暂停训练比 [[General Purpose Technology|GPT]]-4 更强大的人工智能系统至少 6 个月。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|(Karp & Zamiska, 2025, p. 25)]]
 > - **2023-03–2023-04 — 舆论白热化与思想阵营剧烈分化** 公开信签署人数迅速突破 3.3 万；以[[Eliezer Yudkowsky|埃利泽·尤德考夫斯基]]为代表的极端对齐派在《时代》周刊发文认为 6 个月暂停远远不够、主张全面无限期关停；而以卡普与扎米斯卡为代表的科技战略派则撰文猛烈批判公开信是虚伪自私的逃避主义，指出单边暂停将严重损害西方民主国家的地缘战略均势。
-> - **2023-05–至今 — 倡议未遂与向国家安全立法演进** 尽管全球头部实验室并未实际中断大模型研发，但公开信强力倒逼了各国政府将前沿 AI 纳入国家最高安全议程，催生了美国关于人工智能安全标准的行政命令（Executive Order 14110）与欧盟《人工智能法案》（EU AI Act）。
+> - **2023-05–至今 — 倡议未遂与向国家安全立法演进** 尽管全球头部实验室并未实际中断大模型研发，但公开信强力倒逼了各国政府将前沿 AI 纳入国家最高安全议程，催生了美国关于人工智能安全标准的行政命令（Executive Order 14110）与[[EU|欧盟]]《人工智能法案》（EU AI Act）。
 
 ---
 

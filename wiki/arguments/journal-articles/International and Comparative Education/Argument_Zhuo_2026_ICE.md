@@ -28,6 +28,7 @@ related_concepts:
   - "[[National Innovation System]]"
   - "[[Mission-Oriented Innovation Policy]]"
   - "[[Directionality of Innovation]]"
+  - "[[Public-Private Partnership]]"
   - "[[Workforce Development]]"
   - "[[Electronic Design Automation]]"
   - "[[Engineering Education]]"
@@ -82,7 +83,7 @@ title: "Argument_Zhuo_2026_ICE"
 argument_key: "Argument_Zhuo_2026_ICE"
 argument_display_title: "美国研究型大学在国家半导体体系中的角色重构"
 argument_kind: "journal-article"
-argument_related_count: 45
+argument_related_count: 46
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -123,7 +124,7 @@ issuing_organization: ""
 > | **[[Mission-Oriented Innovation Policy\|使命导向创新政策（Mission-Oriented Innovation Policy）]]**<br>[[Mission-Oriented Innovation Policy]] | 借鉴 [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] 与 Borrás and Edquist (2013) 的政策工具理论，解释国家公共部门如何通过定向资助与风险分担塑造战略产业的技术演进方向（[[Directionality of Innovation\|directionality]]）。（pp. 20–21） |
 
 > [!warrant]- 理论如何支撑论证
-> 制度经济学与国家创新体系理论为分析大学如何从孤立的知识生产起点走向产业链中下游提供了结构分析工具；三重螺旋模型（Etzkowitz, 2003）解释了大学在政府主导的公私伙伴关系中充当关系组织者与网络编织者的协同机制；路径依赖理论揭示了大学课程教学如何转化为行业事实标准；技术安全化理论则深化了对宏观政治权力重塑大学组织行为的批判性反思，揭示了后新自由主义科技政策对学术自主生态的深层侵蚀。
+> 制度经济学与国家创新体系理论为分析大学如何从孤立的知识生产起点走向产业链中下游提供了结构分析工具；三重螺旋模型（Etzkowitz, 2003）解释了大学在政府主导的[[Public-Private Partnership|公私伙伴关系]]中充当关系组织者与网络编织者的协同机制；路径依赖理论揭示了大学课程教学如何转化为行业事实标准；技术安全化理论则深化了对宏观政治权力重塑大学组织行为的批判性反思，揭示了后新自由主义科技政策对学术自主生态的深层侵蚀。
 
 ---
 

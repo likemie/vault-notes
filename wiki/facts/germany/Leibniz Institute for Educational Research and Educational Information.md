@@ -15,7 +15,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 32
+fact_related_count: 33
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -60,6 +60,7 @@ related_facts:
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
   - "[[Federal Ministry of Education and Research]]"
   - "[[Zentrum für internationale Bildungsvergleichsstudien]]"
+  - "[[EU]]"
   - "[[PISA]]"
   - "[[Gesamtstrategie zum Bildungsmonitoring]]"
   - "[[Programme for the International Assessment of Adult Competencies]]"
@@ -73,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Leibniz Institute for Educational Research and Educational Information
@@ -87,7 +88,7 @@ updated: 2026-10-15
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1951 年创设于美占区法兰克福（初名国际教育研究高等学校 Hochschule für Internationale Pädagogische Forschung），旨在战后引入现代[[Experiential Learning\|经验教育]]科学与跨国比较方法重建德国教育学术；1964 年转制为跨州联合资助的德国国际教育研究所（DIPF）；2018 年正式更名为莱布尼茨教育研究与教育信息研究所，强化其数字时代教育信息学与基础设施职能。
-> - **总部地点与业务辐射** 设法兰克福（主园区，聚焦实证教育研究与信息学）与柏林（教育史研究图书馆 BBF 园区，聚焦历史与文献档案）；业务辐射全德 16 个联邦州，并承担多项欧盟与国际跨国测评技术支撑。
+> - **总部地点与业务辐射** 设法兰克福（主园区，聚焦实证教育研究与信息学）与柏林（教育史研究图书馆 BBF 园区，聚焦历史与文献档案）；业务辐射全德 16 个联邦州，并承担多项[[EU|欧盟]]与国际跨国测评技术支撑。
 > - **法人属性与经费基础** 属于公法资助的独立学术机构，依托联邦与各州政府联合科学委员会（GWK）机制由 BMBF 与 16 州各按 50% 比例实行长期稳定联合财政拨款。
 > - **核心宗旨与法定职责** 致力于将严谨的实证教育科学研究与前沿的数字信息基础设施深度融合，为教育决策层、学术界与公众提供全生命周期的国家教育系统监测知识、科学数据托管与开放教育资源服务。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 140, 145)]]
 

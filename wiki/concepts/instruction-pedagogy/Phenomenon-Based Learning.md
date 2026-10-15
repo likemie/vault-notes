@@ -6,7 +6,7 @@ aliases:
 summary: "芬兰课程语境中的现象本位学习，以复杂现象组织跨学科探究，强调学科深度、生活世界、协作和共同责任。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -47,12 +47,13 @@ related_persons:
   - "[[Wolfgang Klafki]]"
 related_facts:
   - "[[OECD]]"
+  - "[[EU]]"
 related_arguments:
   - "[[Argument_Schaffar_2024_CogentEdu]]"
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Phenomenon-Based Learning
@@ -183,7 +184,7 @@ updated: 2026-10-15
 > > 国际媒体和部分教育改革讨论常把 PhBL 宣传为芬兰学校彻底取消了传统学校科目的颠覆性改革。而事实上，芬兰国家核心课程仍依靠传统学科来组织知识，PhBL 仅是作为一种跨学科融合的推荐教学取向被增补进来，而非替代传统学科。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, p. 2]]
 > 
 > > [!axis] 整体教化价值与横向能力测量的工具化张力
-> > PhBL 扎根于[[Phenomenology\|现象学]]和欧陆教化（[[Bildung]]）传统，旨在培养面对未知开放未来的主体自治性。但其在课程化过程中遭遇了新自由主义绩效管理（[[Performativity]]）的侵蚀。以 [[OECD]] 和欧盟为代表的[[21st Century Skills and Competencies Discourse\|21世纪技能]]政策[[Discourse|话语]]倾向于将[[Atomisation of Knowledge and Skills\|知识与技能原子化]]为可量化的[[Performance Indicators\|绩效指标]]，这使得 PhBL 的整体教学理想面临被碎片化和工具化的风险。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 9–10]]
+> > PhBL 扎根于[[Phenomenology\|现象学]]和欧陆教化（[[Bildung]]）传统，旨在培养面对未知开放未来的主体自治性。但其在课程化过程中遭遇了新自由主义绩效管理（[[Performativity]]）的侵蚀。以 [[OECD]] 和[[EU|欧盟]]为代表的[[21st Century Skills and Competencies Discourse\|21世纪技能]]政策[[Discourse|话语]]倾向于将[[Atomisation of Knowledge and Skills\|知识与技能原子化]]为可量化的[[Performance Indicators\|绩效指标]]，这使得 PhBL 的整体教学理想面临被碎片化和工具化的风险。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 9–10]]
 
 > [!warning] 适用局限
 > - **概念定义的模糊性与实施的高[[Heterogeneity\|异质性]]** 芬兰国家核心课程文本中并未给 PhBL 提供统一、清晰的[[Definition of Terms\|操作性定义]]。这导致各地区学校和教师在实践转译中呈现极高的实施异质性。[[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff, 2024, pp. 2, 10–11]]

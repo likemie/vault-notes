@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 117
+fact_related_count: 118
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -114,6 +114,7 @@ related_facts:
   - "[[HarmoS]]"
   - "[[National Assessment of Education Quality China 2007]]"
   - "[[Loi Fillon 2005]]"
+  - "[[EU]]"
   - "[[Lisbon Strategy]]"
   - "[[Estonian STEM Education Model]]"
   - "[[PISA Shock in Germany]]"
@@ -147,7 +148,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-05-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # PISA
@@ -244,7 +245,7 @@ updated: 2026-10-15
 > - **结果公平** 超越单纯分数均等，以[[21st Century Skills and Competencies Discourse|核心素养]]达成度重新界定学业质量（日本新大纲以基础知能、思维判断表达与[[Active Learning|主动学习]]态度三要素重构学力观）。
 
 > [!factors] 三层政策转化机制
-> - **超国家层级（Supranational）** [[OECD]] 依托模范国家塑造、国际[[Epistemic Community|认知共同体]]与政策指标绑定（如与欧盟[[Lisbon Strategy|里斯本战略]]协同），施加柔性跨国趋同压力。
+> - **超国家层级（Supranational）** [[OECD]] 依托模范国家塑造、国际[[Epistemic Community|认知共同体]]与政策指标绑定（如与[[EU|欧盟]][[Lisbon Strategy|里斯本战略]]协同），施加柔性跨国趋同压力。
 > - **国家层级（National）** 当“PISA 评估权重高”与“国内存在显著认知落差”两大条件同时满足时，触发国家级政策震荡；本国文化传统与制度构成转译过滤器。
 > - **内部行动者网络（Domestic Actors）** 政策制定者、政党、教师工会与大众媒体借助 PISA 数据展开政治博弈，将国际排名作为推进国内既定改革议程的合法性工具。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
 

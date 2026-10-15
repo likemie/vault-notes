@@ -12,7 +12,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -44,6 +44,7 @@ related_theories: []
 related_persons:
   - "[[Mariana Mazzucato]]"
 related_facts:
+  - "[[EU]]"
   - "[[Horizon Europe]]"
   - "[[UN Sustainable Development Goals]]"
   - "[[Engineering Research Centers]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-07
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Horizon Europe Missions
@@ -64,7 +65,7 @@ updated: 2026-10-15
 ## 背景
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 欧盟委员会（European Commission）于 2018 年委托玛丽安娜·[[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）起草政策蓝图《欧盟使命导向研究与创新》（*[[Mission-Oriented Research]] & Innovation in the European Union*），并于 2021 年作为“[[Horizon Europe|地平线欧洲]]”（Horizon Europe, 2021–2027，总预算 955 亿欧元）框架计划的核心创新支柱正式立法颁布实施。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–805)]]
+> - **发布时间 / 发布主体** [[EU|欧盟]]委员会（European Commission）于 2018 年委托玛丽安娜·[[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）起草政策蓝图《欧盟使命导向研究与创新》（*[[Mission-Oriented Research]] & Innovation in the European Union*），并于 2021 年作为“[[Horizon Europe|地平线欧洲]]”（Horizon Europe, 2021–2027，总预算 955 亿欧元）框架计划的核心创新支柱正式立法颁布实施。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–805)]]
 > - **适用地区 / 对象** 覆盖欧盟 27 个成员国及准入联系国的高等院校、科研机构、跨国企业、中小微企业、地方政府与非营利组织。
 > - **问题背景** 欧洲长期面临创新投入转化率低（“欧洲悖论”）、气候变化与老龄化等复杂社会挑战日益紧迫，以及传统分散资助模式缺乏战略聚焦与公众感知度的体制困境。
 > - **制度位置** 继 Horizon 2020 之后欧盟第九代研究与创新框架计划的旗舰机制，标志着欧洲科技创新政策从被动修补[[Market Failure|市场失灵]]（Frame 1/2）全面跃迁为主动引领社会技术转型的[[Mission-Oriented Innovation Policy|使命导向型创新政策]]（Frame 3）。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 804–806)]]；[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|(Parreira do Amaral, 2022, pp. 48–49)]]
@@ -94,7 +95,7 @@ updated: 2026-10-15
 > | **5. 欧洲土壤协议**<br>A Soil Deal for Europe | 建立 100 个“活体实验室与灯塔基地”（Living Labs），推动 70% 欧洲土壤恢复健康状态。 | 农业生态学、土壤碳汇测量传感器、生物有机肥料与农田规制创新。 |
 
 > [!citation-card] 使命型项目的系统性承诺
-> 欧盟使命是解决我们世界面临的最大挑战的庄严承诺：抗击癌症、适应气候变化、保护海洋、居住在更绿色的城市、确保土壤健康和食物。它们将研究与创新置于解决欧洲社会最紧迫关切的核心位置。（European Commission, 2021）[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|(Parreira do Amaral, 2022, pp. 48–49)]]
+> [[EU|欧盟]]使命是解决我们世界面临的最大挑战的庄严承诺：抗击癌症、适应气候变化、保护海洋、居住在更绿色的城市、确保土壤健康和食物。它们将研究与创新置于解决欧洲社会最紧迫关切的核心位置。（European Commission, 2021）[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|(Parreira do Amaral, 2022, pp. 48–49)]]
 >
 > *EU missions are a commitment to solve the biggest challenges facing our world: fighting cancer, adapting to climate change, protecting our oceans, living in greener cities and ensuring healthy soil and food.*
 
@@ -104,7 +105,7 @@ updated: 2026-10-15
 
 > [!timeline] [[Horizon Europe|地平线欧洲]]使命政策演进
 >
-> - **2018 年** 欧盟委员会正式发布[[Mariana Mazzucato|马祖卡托]]起草的《欧盟使命导向研究与创新》战略咨询报告，确立使命五大遴选标准与治理[[Paradigm|范式]]。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–815)]]
+> - **2018 年** [[EU|欧盟]]委员会正式发布[[Mariana Mazzucato|马祖卡托]]起草的《欧盟使命导向研究与创新》战略咨询报告，确立使命五大遴选标准与治理[[Paradigm|范式]]。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–815)]]
 > - **2019 年** 欧盟委员会设立五大专门使命委员会（Mission Boards），由前政要、顶尖科学家、产业界领袖与公民社会代表共同组建。
 > - **2021 年** 欧洲议会与欧盟理事会正式通过《地平线欧洲法规》（Horizon Europe Regulation），正式启动五大战略使命的首批联合工作方案与资助调用。
 > - **2023 年** 欧盟完成使命实施中期评估，深化与“地平线欧洲”集群计划及区域发展基金的协同联动。
@@ -115,7 +116,7 @@ updated: 2026-10-15
 
 > [!actor-grid] 实施角色分工与组织架构
 > - **使命委员会（Mission Boards）** 由外部顶尖跨界专家组成，负责设定具体使命指标、进行公众协商与战略建议。
-> - **使命经理（Mission Managers）** 欧盟委员会内部专职高级官员，跨部门协调各总司（DG RTD, DG CLIMA, DG MOVE 等）的政策与立法资源。
+> - **使命经理（Mission Managers）** [[EU|欧盟]]委员会内部专职高级官员，跨部门协调各总司（DG RTD, DG CLIMA, DG MOVE 等）的政策与立法资源。
 > - **执行主体（Consortia & Living Labs）** 由大学、企业与地方政府构成的跨国攻关联合体及在地活体实验室。
 > - **社会监督（Citizens & Civil Society）** 依托公民大会与[[Citizen Science|公民科学]]网络参与使命监督与成效反馈。
 
@@ -139,7 +140,7 @@ updated: 2026-10-15
 > > [!axis] [[Geopolitics of Knowledge|知识地缘政治]]与工具化风险
 > > 批判学者质疑使命导向政策过分强调地缘经济竞争，导致学术研究被深度工具化。
 > >
-> > - **批判视角** 强调 [[Horizon Europe]] Missions 实质是将欧盟的地缘政治野心（在全球[[Knowledge-Based Economy|知识经济]]中维系竞争优势）包装为社会挑战承诺，导致社会科学与人文学科（SSH）被边缘化为工程技术的从属包装工具，侵蚀了基础研究的[[Epistemology|认识论]]自主性。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|(Parreira do Amaral, 2022, pp. 48–49)]]
+> > - **批判视角** 强调 [[Horizon Europe]] Missions 实质是将[[EU|欧盟]]的地缘政治野心（在全球[[Knowledge-Based Economy|知识经济]]中维系竞争优势）包装为社会挑战承诺，导致社会科学与人文学科（SSH）被边缘化为工程技术的从属包装工具，侵蚀了基础研究的[[Epistemology|认识论]]自主性。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge|(Parreira do Amaral, 2022, pp. 48–49)]]
 > > - **使命倡导视角** 强调面对气候与公共卫生危机，科学必须打破象牙塔偏安状态，将[[Knowledge Production|知识生产]]与[[Public Value|公共价值]]创造直接挂钩，实现科学对人类生存危机的实质响应。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 804–807)]]
 >
 > > [!axis] 行政协调摩擦与自下而上探索不足
@@ -157,7 +158,7 @@ updated: 2026-10-15
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
 > | [[Mission-Oriented Innovation Policy]] | Concept | 地平线欧洲战略使命所属的宏观政策治理[[Paradigm\|范式]]。 |
-> | [[Market Shaping and Creating]] | Concept | 欧盟使命政策打破被动市场修复、主动开辟绿色技术市场的核心理论逻辑。 |
+> | [[Market Shaping and Creating]] | Concept | [[EU\|欧盟]]使命政策打破被动市场修复、主动开辟绿色技术市场的核心理论逻辑。 |
 > | [[Public Value]] | Concept | 使命政策超越传统商业利润、以全社会福祉与系统转型为导向的根本价值锚点。 |
 > | [[Picking the Willing]] | Concept | 欧盟使命在全经济范围内激励传统产业转型升级的核心遴选机制。 |
 > | [[Citizen Science]] | Concept | 推动公众从被动受众转变为[[Horizon Europe\|地平线欧洲]]使命共创与监督者的社会参与载体。 |

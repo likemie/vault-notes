@@ -23,7 +23,7 @@ tags:
   - deep-tech-manufacturing
 related_concepts:
   - "[[Clinical Trial]]"
-  - "[[Public-Private Partnership in Research]]"
+  - "[[Public-Private Partnership]]"
   - "[[Translational Research]]"
   - "[[Paradigm]]"
 related_theories: []
@@ -86,7 +86,7 @@ updated: 2026-10-07
 > [!citation-card] 白宫 [[Office of Science and Technology Policy|OSTP]] 论 AMP 与独立基金会模式的战略价值
 > 随着私人研发支出规模大幅超越联邦政府预算，国家必须创新公私伙伴组织架构。依托国立卫生研究院基金会（FNIH）等法定独立机构，能够按商业规则混合公共预算与私人资本。[[National Institutes of Health|NIH]] 与产业界联合发起的加速药物伙伴关系（AMP）设立了 12 个疾病攻坚方向，在阿尔茨海默病领域成功验证了 20 个候选靶点，极大压缩了挽救生命疗法的研发周期。联邦各科学机构必须借鉴 FNIH 模式，建立直属的独立基金会，拓宽公私协同攻关的技术赛道。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 42)]]
 >
-> *As private R&D dwarfs federal funding, novel public-private partnership models are critical. Independent statutory foundations, such as the FNIH, can blend public and private capital under commercial terms. The Accelerating Medicines Partnership (AMP) validated 20 targets for Alzheimer's disease across 12 disease-focused partnerships, drastically compressing timelines. Federal agencies must replicate this institutional foundation model.*
+> *As private R&D dwarfs federal funding, novel [[Public-Private Partnership]] models are critical. Independent statutory foundations, such as the FNIH, can blend public and private capital under commercial terms. The Accelerating Medicines Partnership (AMP) validated 20 targets for Alzheimer's disease across 12 disease-focused partnerships, drastically compressing timelines. Federal agencies must replicate this institutional foundation model.*
 
 > [!lessons]- 制度经验与政策边界
 > - **敏捷协同优势** 机构侧基金会的核心价值在于快速订约、成本分摊与前竞争风险共担，有效补齐了传统同行评议资助体系响应缓慢的短板。
@@ -102,7 +102,7 @@ updated: 2026-10-07
 > |:-----|:-----|:-----------|
 > | [[National Institutes of Health]] | Fact (Organization) | 发起并深度参与 AMP 计划的联邦生物医学旗舰资助中枢。 |
 > | [[Office of Science and Technology Policy]] | Fact (Organization) | 白宫科技决策机构，在 2026 战略报告中将 AMP 树立为公私伙伴合作典范。 |
-> | [[Public-Private Partnership in Research]] | Concept | AMP 所隶属的研究型公私伙伴关系（PPP）理论与制度构型。 |
+> | [[Public-Private Partnership in Research]] | Concept | AMP 所隶属的研究型[[Public-Private Partnership\|公私伙伴关系]]（PPP）理论与制度构型。 |
 > | [[Clinical Trial]] | Concept | AMP 前竞争靶点验证所对接与赋能的下游人体临床试验开发阶段。 |
 > | [[Translational Research]] | Concept | AMP 致力于加速的从实验室基础发现向临床治疗方案跨越的转化[[Paradigm\|研究范式]]。 |
 > | [[Michael Kratsios]] | Person | 白宫科技政策办公室主任，系统总结 AMP 制度经验并推动在全美推广。 |

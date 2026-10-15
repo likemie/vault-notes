@@ -6,11 +6,13 @@ aliases:
   - 人力规划法
   - Manpower Planning
   - MRA
+alias_reviewed:
+  - MRA
 summary: "一种在宏观教育与经济规划中运用的定量预测方法。该方法将未来国民经济增长目标、产业结构变迁与技术系数解构为各职业门类对受过特定教育程度劳动力的刚性需求，进而反推国家各级各类教育系统的招生规模与扩张指标。"
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 17
+method_related_count: 21
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -29,6 +31,8 @@ related_concepts:
   - "[[Variable]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Performance Indicators]]"
+  - "[[Gatekeepers]]"
+  - "[[Discourse]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Structural Functionalism]]"
@@ -41,12 +45,14 @@ related_persons:
 related_facts:
   - "[[OECD]]"
   - "[[Mediterranean Regional Project]]"
+  - "[[Alliance for Progress]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
+  - "[[Argument_Beech_2009_GlobalGarden]]"
 confidence: high
 status: active
 created: '2026-09-12'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Manpower Requirements Approach
@@ -56,12 +62,12 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 方法定义
-> **人力需求预测法（Manpower Requirements Approach，MRA / 人力规划）**是教育经济学与公共政策规划领域的一种宏观定量预测模型。该方法立足于[[Technical Rationality\|技术官僚理性]]，假定国家或区域在未来特定时期的经济总产出目标与产业技术结构之间存在刚性的固定投入产出系数；通过将国民经济增长目标层层解构为行业产值、职业工种构成及对应的合格学历门槛，自上而下地计算出劳动力市场的技能缺口，并以此作为刚性约束指标反推国家各级各类教育系统（初等、中等、中职、高职与高等教育）的招生配额、专业结构与基建投资规模。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
+> **人力需求预测法（Manpower Requirements Approach，MRA / 人力规划）** 是教育经济学与公共政策规划领域的一种宏观定量预测模型。该方法立足于[[Technical Rationality|技术官僚理性]]，假定国家或区域在未来特定时期的经济总产出目标与产业技术结构之间存在刚性的固定投入产出系数；通过将国民经济增长目标层层解构为行业产值、职业工种构成及对应的合格学历门槛，自上而下地计算出劳动力市场的技能缺口，并以此作为刚性约束指标反推国家各级各类教育系统（初等、中等、中职、高职与高等教育）的招生配额、专业结构与基建投资规模。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 宏观国民经济产业结构、行业劳动力总量、职业技术系数矩阵以及各级各类教育系统的学额供给链。
 > - **问题类型** 宏观预测与规范性配额规划问题（“为实现 GDP 年均增长 X%，教育系统在未来十年必须培养多少特定专业毕业生？”）。
-> - **[[Unit of Analysis\|分析单位]]** 国家、跨国区域联盟（如 [[OECD]] [[Mediterranean Regional Project\|地中海区域项目]] MRP）或省级宏观行政区划。
+> - **[[Unit of Analysis|分析单位]]** 国家、跨国区域联盟（如 [[OECD]] [[Mediterranean Regional Project|地中海区域项目]] MRP、[[Alliance for Progress|争取进步同盟]]框架下 OECD 输出阿根廷项目）或省级宏观行政区划。
 > - **输出形式** 多年期教育扩张指标表、专业招生计划指导目录、师资培养配额及教育财政资本性支出预算方案。
 
 > [!citation-card] 经合组织早期人力规划的技术官僚属性与五年计划模仿
@@ -134,9 +140,9 @@ ightarrow$ 学历资质构成。假定在各环节比例保持技术外生稳定
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 处于战后重建或工业化起飞初期的发展中国家；重化工业占主导、职业分工清晰、劳动力市场高度计划化或准入规制严格的宏观环境；跨国多边组织制定重大基础设施及教育扩张规划。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
+> - **适合使用** 处于战后重建或工业化起飞初期的发展中国家；重化工业占主导、职业分工清晰、劳动力市场高度计划化或准入规制严格的宏观环境；跨国多边组织制定重大基础设施及教育扩张规划（如 1964 年 OECD 联合阿根廷国家发展委员会 CONADE 编制《教育规划中的方法论问题》）。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]; [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 345)]]
 > - **谨慎使用** 市场经济成熟、工资价格机制灵敏、技术创新迭代极快的后工业化社会。
-> - **不适合使用** [[Knowledge-Based Economy\|知识经济]]、数字经济与第三产业占主导的现代高度不确定性社会，此时职业界限模糊，技能需求呈现非线性演化。
+> - **不适合使用** [[Knowledge-Based Economy|知识经济]]、数字经济与第三产业占主导的现代高度不确定性社会，此时职业界限模糊，技能需求呈现非线性演化。
 
 ---
 
@@ -159,10 +165,13 @@ ightarrow$ 学历资质构成。假定在各环节比例保持技术外生稳定
 > | [[Return on Investment]] | 替代方法 | [[George Psacharopoulos\|乔治·萨卡罗普洛斯]]开创的教育投资回报率法，强调市场价格信号与收益成本权衡，与人力规划构成战后教育经济学两大论敌。 |
 > | [[Performance Indicators]] | 延伸方法 | [[OECD\|经合组织]]在 1970 年代人力规划破产后，演化出的基于指标与基准测试的现代化治理工具箱。 |
 > | [[OECD]] | 事实 | 1960 年代在[[Mediterranean Regional Project\|地中海区域项目]]（MRP）中系统推行并完善人力需求预测法的核心多边机构。 |
+> | [[Alliance for Progress]] | 事实 | 地缘载体，1960 年代拉美多边同盟为 OECD 向阿根廷等国输出人力预测法提供了关键政策平台。 |
+> | [[Gatekeepers]] | 概念 | 阶层后果，人力规划模型的输出在第三世界培养了熟稔国际统计[[Discourse\|话语]]、垄断决策的本土技术官僚。 |
 
 ---
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 梳理[[OECD\|经合组织]]治理史，揭示其在 1960–1970 年代模仿苏联五年计划推行技术官僚化人力需求预测法，并最终催生指标帝国的演进脉络。
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 梳理[[OECD|经合组织]]治理史，揭示其在 1960–1970 年代模仿苏联五年计划推行技术官僚化人力需求预测法，并最终催生指标帝国的演进脉络。
+> - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 考察 OECD 联合阿根廷 CONADE 推广人力规划法的实证过程，揭示技术官僚模型如何被包装为中立客观方案重塑受援国治理。

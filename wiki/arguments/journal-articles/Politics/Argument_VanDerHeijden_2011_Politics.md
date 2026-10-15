@@ -53,7 +53,8 @@ related_persons:
   - "[[Ray Pawson]]"
   - "[[Wolfgang Streeck]]"
   - "[[James Mahoney]]"
-related_facts: []
+related_facts:
+  - "[[EU]]"
 related_arguments:
   - "[[Argument_Streeck_Thelen_2005_OUP]]"
 sources:
@@ -68,7 +69,7 @@ title: "Argument_VanDerHeijden_2011_Politics"
 argument_key: "Argument_VanDerHeijden_2011_Politics"
 argument_display_title: "Institutional layering: A review of the use of the concept"
 argument_kind: "journal-article"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -98,7 +99,7 @@ issuing_organization: ""
 > 制度层叠概念本身并不属于某一学者的固化专利，而是经历六十年演化、由行动者增厚、[[Regulatory Ratchet|规制棘轮]]向双重叠加推进的思想传统；当代文献将层叠误用于描述制度核心巩固与制度再生产的做法削弱了其分析效力，但只要将层叠聚焦于被叠加的行动者与规制工具这两类具体解释[[Variable|变量]]，它便具备弥合[[Punctuated Equilibrium Theory|间断均衡理论]]（Punctuated Equilibrium Theory）与渐进变迁视角理论鸿沟的根本分析潜能。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 跨越经济学、法学、社会学、政治学与公共行政学等学科，考察 60 年间（1944–2010）涉及层叠概念的 166 篇期刊文献、理论专著以及涵盖荷兰建筑规制、欧洲联盟（European Union, EU）预算与规制空间、互联网协议标准的代表性实证案例。
+> - **对象** 跨越经济学、法学、社会学、政治学与公共行政学等学科，考察 60 年间（1944–2010）涉及层叠概念的 166 篇期刊文献、理论专著以及涵盖荷兰建筑规制、[[EU|欧洲联盟]]（European Union, EU）预算与规制空间、互联网协议标准的代表性实证案例。
 > - **张力** 间断均衡强调外生冲击与重大断裂，渐进主义强调微观累积与日常妥协；二者在何为重大变迁以及判定基准为何上陷入互证循环；同时当代[[Case Study|案例研究]]以层叠之名行制度再生产与制度加固分析之实。
 > - **贡献** 解构[[Kathleen Thelen|凯瑟琳·希伦]]（[[Kathleen Thelen]]）层叠概念的思想前史，归纳层叠概念的三大历史传统，划定制度变迁与制度再生产的分析边界，确立分层作为跨时空尺度因果[[Analytic Framework|分析框架]]的理论地位。
 
@@ -268,7 +269,7 @@ issuing_organization: ""
 制度层叠在当代经验研究中被广泛采纳，但多项代表性研究在套用该概念时出现逻辑偏差，将外围防震机制误读为制度变迁。（pp. 12–13）
 
 > [!critique-logic] 当代经验研究对层叠概念的逻辑偏离与概念漂移（p. 13）
-> - **欧盟预算体系的时空层叠改造（Ackrill & Kay, 2006）** 将层叠拆分为空间维度（中东欧新成员国加入）与时间维度（预算基本法规延续）；但外围新成员的加入非但没有改变既有利益格局，反倒让原有的共同农业政策和结构基金支出轨道更加固化。
+> - **[[EU|欧盟]]预算体系的时空层叠改造（Ackrill & Kay, 2006）** 将层叠拆分为空间维度（中东欧新成员国加入）与时间维度（预算基本法规延续）；但外围新成员的加入非但没有改变既有利益格局，反倒让原有的共同农业政策和结构基金支出轨道更加固化。
 > - **欧盟规制空间的制度核心强化（Thatcher & Coen, 2008）** 提出制度核心假说，指出欧盟设立的跨国独立监管网络充当了一道防震缓冲带，把外部市场冲击挡在门外，让核心制度的演进轨迹完全不受干扰。
 > - **互联网[[Composite-Standard Model|复合标准模型]]（Boas, 2007）** 类比互联网技术演进，将底层传输控制协议/网际协议（Transmission Control Protocol/Internet Protocol, TCP/IP）视作核心，将上层简单邮件传输协议（Simple Mail Transfer Protocol, SMTP）、超文本传输协议（Hypertext Transfer Protocol, HTTP）与对等网络（Peer-to-Peer, P2P）视作外围。博阿斯提出厚度商概念：外围协议越繁荣，底层 TCP/IP 的网络正反馈效益越大，转换成本高到不可承受，从而将核心协议彻底锁死。
 
@@ -318,7 +319,7 @@ issuing_organization: ""
 
 > [!finding-cards] 核心发现
 > 1. **层叠概念兼具可塑性与深厚思想渊源** 层叠概念经历六十年演变，绝非希伦一人的孤立创造，而是由行动者增厚、[[Regulatory Ratchet|规制棘轮]]向双重叠加不断推进的深厚学术传统。（pp. 11, 14–15）
-> 2. **当代经验应用存在严重的制度再生产误判** 当代学者常以层叠之名分析欧洲联盟一体化或互联网治理，但其实质揭示的是外围层叠对核心结构的加固与制度再生产，混淆了变迁与强化的理论界限。（pp. 13–14）
+> 2. **当代经验应用存在严重的制度再生产误判** 当代学者常以层叠之名分析[[EU|欧洲联盟]]一体化或互联网治理，但其实质揭示的是外围层叠对核心结构的加固与制度再生产，混淆了变迁与强化的理论界限。（pp. 13–14）
 > 3. **行动者与工具[[Variable|变量]]具备超越抽象理论对立的桥梁价值** 层叠将因果机制具象化为新行动者与新规制工具的附加过程，能够有效桥接[[Punctuated Equilibrium Theory|间断均衡理论]]与渐进制度演化理论的二元鸿沟。（p. 16）
 
 > [!stat-cards]- 核心数据

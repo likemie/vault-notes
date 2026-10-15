@@ -10,7 +10,7 @@ aliases:
 summary: "行动者网络理论与后结构主义哲学的核心概念，指异质性的人类与非人类行动者（符号、文本、技术、法律与耐用客体）在动态关联中临时聚合形成的社会-物质网络。它打破结构先验论与本质主义，强调关系物质性、耐用材料的秩序化策略、转译过程与黑箱化，并在断裂与重构中展现权力的生成性。"
 type: concept
 domain: "comparative-education"
-related_count: 45
+related_count: 46
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Policy Borrowing]]"
   - "[[Variable]]"
+  - "[[Recontextualization]]"
   - "[[Policy Network]]"
   - "[[Doxa]]"
   - "[[Value Neutrality]]"
@@ -36,7 +37,7 @@ related_concepts:
   - "[[Center of Calculation]]"
   - "[[Data Infrastructure]]"
   - "[[Deductible Gift Recipient]]"
-  - "[[Public-Private Partnership in Research]]"
+  - "[[Public-Private Partnership]]"
   - "[[Philanthrocapitalism]]"
   - "[[Paradigm]]"
   - "[[Analytical Stance]]"
@@ -73,7 +74,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-06-07
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Assemblage
@@ -111,7 +112,7 @@ updated: 2026-10-15
 > | **物质性角色** | 物质作为耐用客体具身化社会关系，直接参与秩序建构 | 将非人类行动者提升至与人类同等对称的能动地位 | 通常将硬件、技术或文件视为中立载体或背景[[Variable\|变量]] | 将制度硬件视为服从人类科层指令的被动执行工具 |
 > | **空间与边界观** | 突破欧几里得地理空间，在拓扑功能与[[Relational Space\|关系空间]]中维系形态 | 空间是网络生成的效果，没有固定的内外部界线 | 以民族国家为基本领土单元，关注跨国界物理转移 | 空间局限于法定辖区、行政边界或物理组织壁垒 |
 > | **权力机制** | 权力是网络精心装配、黑箱化与耐用材料固化的产物 | 权力非中心控制力，而是在异质节点转译链条中的流动效果 | 权力体现为主权政府、跨国组织或决策精英的主观选择 | 权力是科层体制自上而下赋予的法定权威与支配能力 |
-> | **变迁逻辑** | 构件随时可能发生松动、外移、脆断与再装配 | 依赖于各节点盟约的持续维系，节点故障引发整体变异 | 强调本土制度阻力、文化适应或再情境化吸纳 | 依赖于外生冲击、历史制度锁定[[Path Dependence\|路径依赖]]或行政改革 |
+> | **变迁逻辑** | 构件随时可能发生松动、外移、脆断与再装配 | 依赖于各节点盟约的持续维系，节点故障引发整体变异 | 强调本土制度阻力、文化适应或[[Recontextualization\|再情境化]]吸纳 | 依赖于外生冲击、历史制度锁定[[Path Dependence\|路径依赖]]或行政改革 |
 
 ---
 
@@ -187,7 +188,7 @@ updated: 2026-10-15
 > 探讨权力如何摆脱传统单一主权实体的宏观压制模型，作为异质行动者网络持续调配与制度特许的隐蔽效果而生成。
 
 > [!claim] Rowe, E.
-> **权力作为装配效应与异质制度拼装** 埃玛·罗威（Emma Rowe）深化装配理论对国家与资本关系的考察，提出权力不是预先存在并集中于国家顶层的实体，而是异质行动者网络经过长程动员、转译与法律修补后显现的“隐蔽装配效应”（concealed effect of assemblage）。新自由主义国家并非被动受害者或纯粹让渡主权，而是作为核心构件主动参与装配：国家通过量身定制税法豁免（如为 [[Australian Schools Plus\|澳大利亚学校加计划]] 专门修订 [[Deductible Gift Recipient\|DGR1]] 税法条款）、修改公共治理与问责规则、创设受《公司法》保护而非传统行政法约束的担保有限公司（如 [[Australian Education Research Organisation\|AERO]]），以及开展定向保密招标（如将 1500 万澳元公立学校领导力培训专向委托给 [[Social Ventures Australia\|SVA]]），在政策生态中主动为风险慈善和营利性咨询机构开辟合法空间。这种装配使商业逻辑与资本截留无缝融入公共教育肌理，并在表面上以“[[Public-Private Partnership in Research\|公私合作伙伴关系]]”与中立循证的修辞黑箱化，彻底规避了议会监督与公民社会的民主审议。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 162–165)]]
+> **权力作为装配效应与异质制度拼装** 埃玛·罗威（Emma Rowe）深化装配理论对国家与资本关系的考察，提出权力不是预先存在并集中于国家顶层的实体，而是异质行动者网络经过长程动员、转译与法律修补后显现的“隐蔽装配效应”（concealed effect of assemblage）。新自由主义国家并非被动受害者或纯粹让渡主权，而是作为核心构件主动参与装配：国家通过量身定制税法豁免（如为 [[Australian Schools Plus\|澳大利亚学校加计划]] 专门修订 [[Deductible Gift Recipient\|DGR1]] 税法条款）、修改公共治理与问责规则、创设受《公司法》保护而非传统行政法约束的担保有限公司（如 [[Australian Education Research Organisation\|AERO]]），以及开展定向保密招标（如将 1500 万澳元公立学校领导力培训专向委托给 [[Social Ventures Australia\|SVA]]），在政策生态中主动为风险慈善和营利性咨询机构开辟合法空间。这种装配使商业逻辑与资本截留无缝融入公共教育肌理，并在表面上以“[[Public-Private Partnership|公私合作伙伴关系]]”与中立循证的修辞黑箱化，彻底规避了议会监督与公民社会的民主审议。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, pp. 162–165)]]
 
 ---
 
@@ -209,7 +210,7 @@ updated: 2026-10-15
 > [!dev-timeline] 概念演变
 > - **1980 年代 — 哲学起点与去中心化构型** 吉尔·德勒兹（Gilles Deleuze）与费利克斯·加塔利（Félix Guattari）在《千高原》（Deleuze & Guattari, 1987）中提出 agencement（后英译为 assemblage），用以指涉异质要素的去中心化共生连接，打破传统西方形而上学的封闭实体与总体性假定。
 > - **1990–2000 年代 — 科学技术学唯物主义重构与装配理论化** 约翰·劳（John Law, 1992）提出关系物质性，强调耐用材料对社会秩序的固化功能；[[Bruno Latour\|布鲁诺·拉图尔]]（Bruno Latour, 2005）提出“重新组装社会”（Reassembling the Social）；曼努埃尔·德兰达（Manuel DeLanda, 2006）出版《装配理论与社会复杂性》，系统论证构件的“外在性关系”哲学。
-> - **2010 年代 — 教育微观空间与数字化物质性转向** 塔拉·芬威克（Tara Fenwick）等将装配引入教育实践（Fenwick & Edwards, 2010）；杰森·比奇（[[Jason Beech]]）与阿托普洛斯（[[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015]]）利用装配概念分析阿根廷笔记本电脑配送项目，确立课堂作为社会-物质装配体的分析[[Paradigm\|范式]]。
+> - **2010 年代 — 教育微观空间与数字化物质性转向** 塔拉·芬威克（Tara Fenwick）等将装配引入教育实践（Fenwick & Edwards, 2010）；[[Jason Beech|杰森·比奇]]（[[Jason Beech]]）与阿托普洛斯（[[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015]]）利用装配概念分析阿根廷笔记本电脑配送项目，确立课堂作为社会-物质装配体的分析[[Paradigm\|范式]]。
 > - **2018 年 — 联邦多级治理与政策[[Topological Spatialisation\|拓扑学重组]]** [[Sigrid Hartong\|西格丽德·哈通]]（[[Argument_Hartong_2018_GSE\|Hartong, 2018]]）将装配理论与[[Topological Spatialisation\|拓扑空间化]]结合，深入考察德国在 [[PISA]] 震荡后建立的绩效[[Data Infrastructure\|数据基础设施]]与[[Institute for Educational Quality Improvement\|IQB]][[Center of Calculation\|计算中心]]，揭示法律条文、统计模型与在线题库构成的社会-物质复合体如何实现跨尺度的政策重组。
 > - **2020 年代至今 — 批判政策社会学与国家-慈善资本共生装配** 政策社会学者将装配拓展至全球教育治理与国家中介研究。拉德希卡·戈鲁尔（Radhika Gorur, 2016）解构 [[PISA]] 测评装配；埃玛·罗威（Emma Rowe, 2022, 2023）提出“无生命客体的装配”（assemblage of inanimate objects）与“国家-慈善资本共生装配”，借助防野狗围栏隐喻与中介实体映射，揭示税法、公司法、闭门竞标与专家委员会如何装配成掩盖跨国[[Venture Philanthropy\|风险慈善]]掠夺公共资源与重构[[Knowledge Production\|知识生产]]的隐蔽权力机器。
 

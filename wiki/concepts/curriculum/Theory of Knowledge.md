@@ -10,7 +10,7 @@ alias_reviewed:
 summary: "IB 文凭项目的跨学科核心必修课程，通过比较知识形成方式、证据标准与认识边界，连接学科学习、个人经验和批判性反思。"
 type: concept
 domain: "curriculum"
-related_count: 77
+related_count: 78
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Problem Solving]]"
   - "[[Construct]]"
   - "[[General Education]]"
+  - "[[Encyclopaedic Definition of Knowledge]]"
   - "[[Geisteswissenschaften]]"
   - "[[Metacognition]]"
   - "[[Reflexivity]]"
@@ -106,7 +107,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-30
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Theory of Knowledge
@@ -151,7 +152,7 @@ updated: 2026-10-15
 > - **1965–1967 年　法英合作形成初始课程** Gerard Renaud 先把制度折中转化为课程框架，法国哲学督学迪娜·德雷福斯（Dina Dreyfus）随后成为主要合作者，并在课程表现进入评价的范围内担任首任评估者。牛津的跨学科统整问题、法国哲学传统和 IB 六学科结构在这一阶段汇合。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, Ch. 3, pp. 46–48)]]
 
 > [!event-context] TOK 源于两种[[General Education\|通识教育]]模式同时失效
-> 欧陆百科全书式课程把通识教育理解为接触尽可能多的学科。学生可能每周学习十余门课程，却主要记忆彼此分离的信息和预先组织好的解释。英国高中最后阶段则把学生提前分入文科或理科，集中准备少数高级程度考试；不考试的通识学习很难得到学校和学生的稳定投入。前者牺牲理解深度，后者牺牲思维方式的广度。IB 改革者因此把通识教育重新界定为发展历史性、科学性、数学性、道德性和审美性思考，并使这些思考能够用于新的问题。TOK 承担的是把这种共同目标显化和连接起来的任务。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, Ch. 3, pp. 38–43)]]
+> 欧陆[[Encyclopaedic Definition of Knowledge|百科全书式课程]]把通识教育理解为接触尽可能多的学科。学生可能每周学习十余门课程，却主要记忆彼此分离的信息和预先组织好的解释。英国高中最后阶段则把学生提前分入文科或理科，集中准备少数高级程度考试；不考试的通识学习很难得到学校和学生的稳定投入。前者牺牲理解深度，后者牺牲思维方式的广度。IB 改革者因此把通识教育重新界定为发展历史性、科学性、数学性、道德性和审美性思考，并使这些思考能够用于新的问题。TOK 承担的是把这种共同目标显化和连接起来的任务。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, Ch. 3, pp. 38–43)]]
 
 > [!challenges] TOK 最初针对的两项课程缺陷
 > - **学科经验彼此封闭** 学生可能分别学习物理与历史，却不理解两者如何处理证据和解释；文学与心理学、历史与文学等相近领域之间也可能缺少联系。课时分割和考试要求使教师很少有机会帮助学生跨越这些隔间。只有约 5% 接受长期学术教育的人会成为专业学者，其余学习者更需要综合不同专业视角处理现实问题。

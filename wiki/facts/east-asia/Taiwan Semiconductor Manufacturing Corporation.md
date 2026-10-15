@@ -11,7 +11,7 @@ subtype: organization
 region: east-asia
 fact_region: "east-asia"
 fact_kind: "organization"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -52,6 +52,7 @@ related_facts:
   - "[[National Semiconductor Technology Center]]"
   - "[[National Science and Technology Council]]"
   - "[[Important Projects of Common European Interest]]"
+  - "[[EU]]"
   - "[[October 2022 US Semiconductor Export Controls]]"
 related_arguments:
   - "[[Argument_Bown_2024_JEP]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Taiwan Semiconductor Manufacturing Corporation
@@ -178,7 +179,7 @@ updated: 2026-10-15
 > | [[CHIPS and Science Act]] | Fact (Policy) | 美国通过 66 亿美元直接补贴、50 亿美元贷款与投资税收抵免，支持台积电在亚利桑那扩建 3 座先进晶圆厂。 |
 > | [[National Semiconductor Technology Center]] | Fact (Organization) | 《芯片法案》下设立的国家研发枢纽；其共享中试生产线与[[Process Design Kit\|工艺设计套件]]（PDK）与台积电等工业代工巨头工艺基准相衔接，打通从大学原型验证到商业量产转化的创新链条。 |
 > | [[European Chips Act]] | Fact (Policy) | 欧洲通过联合出资吸引台积电在德国德累斯顿设立欧洲先进半导体制造工厂（ESMC）。 |
-> | [[Important Projects of Common European Interest]] | Fact (Program) | 欧盟与成员国扶植半导体前沿中试与制造的制度载体，与台积电德累斯顿晶圆厂共同构成欧洲芯片复兴支柱。 |
+> | [[Important Projects of Common European Interest]] | Fact (Program) | [[EU\|欧盟]]与成员国扶植半导体前沿中试与制造的制度载体，与台积电德累斯顿晶圆厂共同构成欧洲芯片复兴支柱。 |
 > | [[October 2022 US Semiconductor Export Controls]] | Fact (Policy) | 美国出口管制通过长臂管辖禁止台积电为特定受限实体代工先进制程芯片。 |
 > | [[Learning by Doing]] | Concept | 晶圆制造良率提升的组织化学习曲线是台积电拉大与追赶者制程成本代差的核心动力。 |
 > | [[Strategic Autonomy]] | Concept | 美欧引进台积电设厂的深层战略动因，在于摆脱对单一地缘热点的先进制程制造依赖以实现供应链自主。 |

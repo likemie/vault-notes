@@ -12,7 +12,7 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -52,6 +52,7 @@ related_persons:
   - "[[Socrates]]"
   - "[[José Luis García Garrido]]"
 related_facts:
+  - "[[EU]]"
   - "[[Bologna Process]]"
   - "[[TEMPUS]]"
   - "[[No Child Left Behind Act 2001]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-10
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Erasmus Programme
@@ -71,7 +72,7 @@ updated: 2026-10-15
 ## 背景
 
 > [!program-context] 政策与历史背景
-> - **发起主体与出台时间** 欧洲共同体（European Community，欧盟前身）部长理事会于 1987 年 6 月正式通过决议设立，全称为“欧洲共同体大[[Student Mobility|学生流动]]行动方案”（European Community Action Scheme for the Mobility of University Students，缩写为 ERASMUS），项目名称同时致敬欧洲文艺复兴时期著名人文主义学者德西德里乌斯·伊拉斯谟（Desiderius Erasmus）。
+> - **发起主体与出台时间** [[EU|欧洲共同体]]（European Community，欧盟前身）部长理事会于 1987 年 6 月正式通过决议设立，全称为“欧洲共同体大[[Student Mobility|学生流动]]行动方案”（European Community Action Scheme for the Mobility of University Students，缩写为 ERASMUS），项目名称同时致敬欧洲文艺复兴时期著名人文主义学者德西德里乌斯·伊拉斯谟（Desiderius Erasmus）。
 > - **一体化面临的文化瓶颈** 1980 年代中后期，欧洲一体化虽然在共同市场与经贸关税同盟层面取得显著突破，但在深层文化认同与超国家公民归属感（Europeanness）培育上遭遇严重停滞。各国高等教育体系彼此割裂封闭、文凭互不认可，严重制约了劳动力与高层次专业人才的自由流动。
 > - **制度位置与功能定位** 伊拉斯谟计划是欧洲联盟历史上规模最大、持续时间最长且政治象征意义最为深远的高等教育跨国流动旗舰工程；它构成了后续[[Bologna Process|博洛尼亚进程]]（Bologna Process）的先行制度试验田，也是构建[[European Education Space|欧洲教育空间]]（European Education Space, EES）的核心制度基石。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
 
@@ -83,7 +84,7 @@ updated: 2026-10-15
 > 伊拉斯谟计划旨在通过为欧洲大学生提供为期 3 至 12 个月的跨国研修奖学金，并依托欧洲学分转换与累加系统（European Credit Transfer and Accumulation System, ECTS）实现校际学分无缝互认，打破主权民族国家的教育边界，将跨国流动性（[[Student Mobility|学生流动性]]）塑造为培育欧洲公民认同与适应去规制化劳动力市场的弹性就业胜任力（[[Employability]]-related Competencies）。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
 
 > [!program-design]- 项目设计要素
-> - **资助对象** 欧盟成员国（后扩展至欧洲自由贸易联盟及候选国）高等教育机构的正式在读本科生、硕士研究生，以及高校专任教师与学术骨干（[[Teacher Mobility|教师流动]]）。
+> - **资助对象** [[EU|欧盟]]成员国（后扩展至欧洲自由贸易联盟及候选国）高等教育机构的正式在读本科生、硕士研究生，以及高校专任教师与学术骨干（[[Teacher Mobility|教师流动]]）。
 > - **核心政策工具**
 >   1. **个人流动奖学金（Mobility Grants）** 由欧盟财政专项预算出资，补贴学生因跨国求学产生的交通与异地生活成本差异，免除留学生在接收高校的额外学费；
 >   2. **欧洲学分转换与累加系统（ECTS）** 统一设定每学年 60 ECTS 学分标准与学习成果量度，强制派出学校全面认可学生在国外高校取得的课程学分与成绩记录；
@@ -99,7 +100,7 @@ updated: 2026-10-15
 ## 时间线
 
 > [!dev-timeline]- 项目演进历程
-> - **1987 年 创立与首期启动** 欧洲共同体通过建立 ERASMUS 的决议，首年即吸引 3244 名来自 11 个成员国的大学生跨国研修。
+> - **1987 年 创立与首期启动** [[EU|欧洲共同体]]通过建立 ERASMUS 的决议，首年即吸引 3244 名来自 11 个成员国的大学生跨国研修。
 > - **1989 年 ECTS 试点推行** 欧盟委员会正式推出欧洲学分转换系统（ECTS）试点，为消除学生跨国流动中的学籍阻碍确立透明度工具。
 > - **1995 年 纳入 [[Socrates]] 框架** 设立苏格拉底计划，将伊拉斯谟计划升格为欧盟促进[[Internationalization of Higher Education|高等教育国际化]]与欧洲维度塑造的核心支柱。
 > - **1999 年 催生[[Bologna Process|博洛尼亚进程]]** 伊拉斯谟计划的多年实践直接催生了 29 国教育部长签署《博洛尼亚宣言》，开启全欧学制三级架构（学士、硕士、博士）一体化改革。
@@ -111,7 +112,7 @@ updated: 2026-10-15
 ## 实施情况
 
 > [!actor-grid] 实施治理结构
-> - **主导决策方** 欧洲联盟委员会教育、青年、体育与文化总司（DG EAC），负责制定战略指标、分配年度财政预算并发布项目实施指南。
+> - **主导决策方** [[EU|欧洲联盟]]委员会教育、青年、体育与文化总司（DG EAC），负责制定战略指标、分配年度财政预算并发布项目实施指南。
 > - **国家执行机构** 各成员国设立的“Erasmus 国家办事处”（National Agencies），负责向本国高校下拨流动专项基金、审核派出与接收资质并监督合规性。
 > - **基层高校组织** 欧洲各大学国际合作处与院系协调员，负责与海外院校签署对口协议、开展学生外语及文化遴选、执行 ECTS 学分转换审核。
 > - **参与主体** 欧洲青年大学生、中青年大学骨干教师，以及辐射至欧盟周边地区的进修学者。
@@ -166,7 +167,7 @@ updated: 2026-10-15
 > > - **批判学者解构** [[José Luis García Garrido|何塞·路易斯·加西亚·加里多]]（[[José Luis García Garrido|José Luis García Garrido]]）尖锐指出，这种流动性繁荣在西班牙等南欧国家制造了虚假的质量安慰剂。吸引欧洲学生的是宜人气候、低廉物价和休闲生活，而非严谨学术；与此同时，大学内部充斥着高达 95% 的[[Academic Inbreeding|学术近亲繁殖]]与地方保护主义。将伊拉斯谟生源吸引力混同于学术声誉，掩盖了高校深层的制度性质量赤字。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 333)]]
 
 > [!citation-card] 论伊拉斯谟流动性话语的政治与个人理性异化
-> 索贝与菲舍尔援引帕帕齐巴的批判分析指出，欧盟伊拉斯谟计划所倡导的流动性话语，深刻反映了新自由主义[[Spatial Governmentality|空间治理术]]将宏观失业风险转嫁为个人适应责任的演变逻辑。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 363)]]
+> 索贝与菲舍尔援引帕帕齐巴的批判分析指出，[[EU|欧盟]]伊拉斯谟计划所倡导的流动性话语，深刻反映了新自由主义[[Spatial Governmentality|空间治理术]]将宏观失业风险转嫁为个人适应责任的演变逻辑。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 363)]]
 >
 > *"Papatsiba (2005) looks at the historical and current rationales for [[Student Mobility]] in the ERASMUS program, arguing that there has been an important shift... into an orientation focused on the development of individual employability-related competencies... in which individuals are held responsible for their own adaptability in an unpredictable globalized labor market."*
 
@@ -186,7 +187,7 @@ updated: 2026-10-15
 > | [[European Education Space]] | Concept | **上位治理空间** 伊拉斯谟计划是欧盟委员会构建欧洲教育空间与[[Social Imaginary\|社会想象]]的核心支柱。 |
 > | [[Student Mobility]] | Concept | **核心治理客体** 该计划构成了全球高等教育阶段制度化学生流动最经典、规模最大的实践[[Paradigm\|范式]]。 |
 > | [[Employability]] | Concept | **功能[[Discourse\|话语]]靶向** 跨国流动性被官方话语包装为提升青年就业胜任力与个人弹性的终身资本。 |
-> | [[TEMPUS]] | Fact (Program) | **外围辐射衍生** 欧盟将伊拉斯谟的校际合作与学分互认经验推广至非成员国及东欧邻国的平行项目。 |
+> | [[TEMPUS]] | Fact (Program) | **外围辐射衍生** [[EU\|欧盟]]将伊拉斯谟的校际合作与学分互认经验推广至非成员国及东欧邻国的平行项目。 |
 > | [[Bologna Process]] | Fact (Policy) | **体制对齐框架** 博洛尼亚进程的三级学位与欧洲学分互认改革，直接奠定并扩展了伊拉斯谟计划的制度土壤。 |
 > | [[Spatial Governmentality]] | Theory | **解释理论工具** 透视超国家机构如何通过空间流动调控与网络化连接对青年劳动力实施[[Governing at a Distance\|远距治理]]。 |
 > | [[Argument_Sobe_Fischer_2009_MobilityMigration\|Sobe & Fischer (2009)]] | 论证 | 深入解构伊拉斯谟流动性政策话语如何将劳动力市场风险个体化的学术文献。 |

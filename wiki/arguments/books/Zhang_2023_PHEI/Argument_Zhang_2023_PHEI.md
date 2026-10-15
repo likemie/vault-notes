@@ -13,7 +13,7 @@ title: "Argument_Zhang_2023_PHEI"
 argument_key: "Argument_Zhang_2023_PHEI"
 argument_display_title: "科技创新\"双循环\"生态系统：基于粤港澳大湾区的实践与探索"
 argument_kind: "book"
-argument_related_count: 35
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -70,6 +70,7 @@ related_facts:
   - "[[300,000 Foreign Students Plan]]"
   - "[[Act on the Promotion of Technology Transfer from Universities to Private Business Operators]]"
   - "[[Tsukuba Science City]]"
+  - "[[EU]]"
   - "[[Chinese Academy of Sciences]]"
   - "[[Open Competition Mechanism]]"
 related_methods:
@@ -366,7 +367,7 @@ updated: 2026-10-08
 > | **大湾区定位** | 科教资源中心，基础研究重镇，广深港和广珠澳走廊交汇枢纽 |
 
 > [!case] 澳门：精准领域的深度突破
-> 服务业占GDP 91.3%，科技资源集中在4所高校。与葡语系国家和欧盟的密切联系构成独特优势。澳门大学拥有包括英国皇家工程院院士、美国IEEE会士在内的高素质教师队伍。
+> 服务业占GDP 91.3%，科技资源集中在4所高校。与葡语系国家和[[EU|欧盟]]的密切联系构成独特优势。澳门大学拥有包括英国皇家工程院院士、美国IEEE会士在内的高素质教师队伍。
 >
 > | 维度 | 内容 |
 > |------|------|

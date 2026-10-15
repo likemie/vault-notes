@@ -117,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Leading the Blind",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -151,7 +151,8 @@
               "title": "Recent files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -288,8 +289,9 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "234d452edd1bdd48",
+  "active": "d00f681a3c9d908b",
   "lastOpenFiles": [
+    "raw/Visible flaws - A comprehensive quality assessment of Visible Learning (1).pdf",
     "wiki/facts/global/Nord Anglia Education.md",
     "wiki/facts/global/GEMS Education.md",
     "wiki/facts/eu/EU.md",
@@ -325,7 +327,6 @@
     "scripts/__pycache__/check_vault.cpython-310.pyc",
     "wiki/arguments/reports-policy-documents/Argument_WorldBank_2019_Teach.md",
     "wiki/methods/qualitative/Observation Protocol.md",
-    "wiki/methods/qualitative/Classroom Observation.md",
     "sources/WorldBank_2019_Teach/figures/WorldBank_2019_Teach_Fig1_Teach_Framework.jpg",
     "page19_img.jpg",
     "teach_framework.jpg",

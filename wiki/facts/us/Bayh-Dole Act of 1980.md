@@ -32,7 +32,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Technology Transfer Office]]"
   - "[[University-Industry Collaboration]]"
-  - "[[Public-Private Partnership in Research]]"
+  - "[[Public-Private Partnership]]"
   - "[[Industry Affiliate Program]]"
   - "[[Institutional Review Board]]"
   - "[[Clinical Trial]]"
@@ -118,7 +118,7 @@ updated: 2026-10-15
 > - **1984** 美国国会通过《商标澄清法案》（Trademark Clarification Act），进一步废除了对大学许可专利权规模的限制，使法案赋权范围彻底普惠至所有研发实体。
 > - **1986** 国会通过《联邦[[Technology Transfer|技术转移]]法》（FTTA），将拜杜法案的精神扩展至联邦政府自身运营的国家实验室，正式授权国家实验室与私营部门签订[[Cooperative Research and Development Agreement|合作研发协议]]（[[Cooperative Research and Development Agreement|CRADA]]），开创了政府研究人员直接从商业化许可费中获得个人分成的先例。[[Argument_Block_2008_PS|(Block, 2008, p. 177)]]
 > - **1988–2003** 全美研究型[[Technology Transfer|大学技术转移]]机构蓬勃发展，大学教师年度专利授权总数从 1988 年的 800 项大幅飙升至 2003 年的 3200 项，增长达四倍之巨。
-> - **2000 年代至今** 随着《[[CHIPS and Science Act|芯片与科学法案]]》等新战略立法推进，美国[[University-Industry Collaboration|产学合作]]步入创新区与大型[[Public-Private Partnership in Research|公私合作伙伴关系]]（PPP）时代，拜杜法案建立的产权框架依然稳固充当其底层法律基石。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 43–44)]]
+> - **2000 年代至今** 随着《[[CHIPS and Science Act|芯片与科学法案]]》等新战略立法推进，美国[[University-Industry Collaboration|产学合作]]步入创新区与大型[[Public-Private Partnership|公私合作伙伴关系]]（PPP）时代，拜杜法案建立的产权框架依然稳固充当其底层法律基石。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 43–44)]]
 
 ---
 

@@ -10,7 +10,7 @@ aliases:
 summary: "比较教育学古典历史-哲学母题与实证科学化的基石性认识论假定，将主权清晰、制度与文化边界同质的民族国家及其国民教育体系视为首要比较分析基准，在战后历经批判国家理论、多层分析立方体与反思方法论民族主义的范式重构。"
 type: concept
 domain: "comparative-education"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -59,13 +59,14 @@ related_persons:
 related_facts:
   - "[[OECD]]"
   - "[[World Bank]]"
+  - "[[EU]]"
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # The Nation-State as the Unit of Comparison
@@ -80,7 +81,7 @@ updated: 2026-10-15
 > [!concept-lens] 概念透镜
 > - **含义** 指向比较教育研究在空间维度上的边界设定与认识论锚点，将世界结构化为离散、主权独立且内部具有[[Institutional Isomorphism\|制度同构]]性的民族国家集合体。
 > - **用途** 帮助研究者透视国家机器如何通过法定学校制度整合国民认同、调和阶级与宗教矛盾，以及在国际地缘政治格局中维持国家工业与文化[[Competitiveness|竞争力]]。
-> - **边界** 难以解释前现代封建教派教育网络与后冷战时期超国家治理机构（如 [[OECD]]、[[World Bank\|世界银行]]、欧盟）对国家主权的穿透，亦无法有效捕捉次国家级地方社群与跨国移民流动中的杂糅文化空间。
+> - **边界** 难以解释前现代封建教派教育网络与后冷战时期超国家治理机构（如 [[OECD]]、[[World Bank\|世界银行]]、[[EU|欧盟]]）对国家主权的穿透，亦无法有效捕捉次国家级地方社群与跨国移民流动中的杂糅文化空间。
 
 > [!citation-card] 卡扎米亚斯论民族国家作为历史比较母题的首要认识论基准
 > 比较教育研究与分析的认识论单位是民族国家及其国民教育体系——如英格兰、德国、法国、美国和俄国。在对国民教育体系的诠释与解释中，核心目的在于解释和理解这些国家教育系统何以发展至当前形态，以及为何呈现出独特的特质与个性。在历史解释中，民族主义、国家政治意识形态与国民性格被赋予决定性的解释地位。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, p. 40)]]

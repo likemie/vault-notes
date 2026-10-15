@@ -10,7 +10,7 @@ summary: "运用历史因果考证与跨国情境对照解释教育制度、国�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 90
+method_related_count: 91
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -103,6 +103,7 @@ related_facts:
   - "[[UNESCO]]"
   - "[[DARPA]]"
   - "[[Government Digital Service]]"
+  - "[[EU]]"
 related_arguments:
   - "[[Argument_Kazamias_2009_ForgottenThemes]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
@@ -120,7 +121,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Historical-Comparative Method
@@ -282,7 +283,7 @@ updated: 2026-10-15
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 运用历史比较考证英、德、美、日、苏及新兴工业体在教育体制、研发建制与[[Absorptive Capacity|吸收能力]]协同上的[[Heterogeneity|异质性]]路径，论证[[Systems of Innovation|创新系统]]的有效性。
-> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 运用历史比较与制度演化分析考察三代使命导向政策轨迹，对比美、英、法、德、日与欧盟制度差异，提炼[[Public Dynamic Capabilities|公共动态能力]]矩阵。
+> - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel & Mazzucato (2018)]] — 运用历史比较与制度演化分析考察三代使命导向政策轨迹，对比美、英、法、德、日与[[EU|欧盟]]制度差异，提炼[[Public Dynamic Capabilities|公共动态能力]]矩阵。
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 卡扎米亚斯运用历史比较法梳理比较教育史中历史-哲学母题的起源、演变、[[Paradigm|范式]]分支与[[Positivism|实证主义]]危机，系统重构该方法论的现代合法性。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 运用比较历史考证[[Marc-Antoine Jullien|马克-安托万·朱利安]]（Marc-Antoine Jullien）与欧美行政官员在 19 世纪的文献档案，揭示现代主义发端的双重母题。
 > - [[Argument_Cowen_2009_HistoryCreation|Cowen (2009a)]] — 运用比较史学方法剖析比较教育学科史编纂面临的档案隐蔽与材料匮乏困境，提出“[[Comparative History of Comparative Education|比较教育学的比较史]]”。

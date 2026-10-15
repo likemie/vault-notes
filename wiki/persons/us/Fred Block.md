@@ -9,7 +9,7 @@ summary: "美国加利福尼亚大学戴维斯分校经济社会学研究教授�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 30
+person_related_count: 31
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Network Governance]]"
   - "[[Market Fundamentalism]]"
+  - "[[Public-Private Partnership]]"
   - "[[Institutional Displacement]]"
   - "[[Embedded Network Governance]]"
   - "[[Epistemology]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-12
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Fred Block
@@ -105,7 +106,7 @@ updated: 2026-10-15
 >   - **代表著作** *Towards a New Understanding of Economic Modernity* (2002); *Swimming Against the Current: The [[Research in Schools Evaluation|RISE]] of a [[Developmental Network State|Hidden Developmental State]] in the United States* (2008)。[[Argument_Block_2008_PS|(Block, 2008, pp. 169–206)]]
 >   - **关键概念／方法** [[Developmental Network State|发展型网络国家]]、[[Market Fundamentalism|市场原教旨主义]]、虚构商品、[[Pasteur's Quadrant|巴斯德象限]]。
 >   - **阶段转向** 全面转向对美国科技创新体制的政治经济学实证考察，揭示国家隐形介入与意识形态神话的断裂。
-> - **2010s–至今 — 市场原教旨主义批判与进步主义产业治理** 剖析自由放任思想如何以“自然法则”伪装固化社会不平等；主张重构公私伙伴关系，将发展型国家工具导向应对气候危机与消除不平等的民主议程。
+> - **2010s–至今 — 市场原教旨主义批判与进步主义产业治理** 剖析自由放任思想如何以“自然法则”伪装固化社会不平等；主张重构[[Public-Private Partnership|公私伙伴关系]]，将发展型国家工具导向应对气候危机与消除不平等的民主议程。
 >   - **代表著作** *The Power of Market Fundamentalism: Karl Polanyi's Critique* (with Margaret Somers, 2014); *Democratizing Finance* (with Robert Hockett, 2022)。
 >   - **关键概念／方法** 市场自然主义、民主金融、社会伙伴模型。
 >   - **阶段转向** 从体制诊断走向具体的[[Institutional Displacement|制度替代]]方案与进步主义政策设计。

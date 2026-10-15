@@ -7,9 +7,9 @@ title: "Argument_Fan_Song_Zhai_2024_RSEE"
 argument_key: "Argument_Fan_Song_Zhai_2024_RSEE"
 argument_display_title: "Education, science and technology, and talent integrated development: Evidence from China"
 argument_kind: "journal-article"
-argument_related_count: 14
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_count: 15
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: "Regional Science and Environmental Economics"
 authors:
@@ -46,7 +46,8 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Difference-in-Differences]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[EU]]"
 related_arguments: []
 sources:
   - "[[sources/Fan_Song_Zhai_2024_RSEE/Fan_Song_Zhai_2024_RSEE|Fan_Song_Zhai_2024_RSEE]]"
@@ -236,7 +237,7 @@ updated: 2026-09-16
 >
 > 东部教育 $127\%$ 的增长与中国高等教育扩张政策的时间线高度吻合（1999 年扩招启动、2000 年代加速）。但东部科技仅增 $62\%$——创新投入的增长并未等比转化为创新产出，这是一个需要警惕的"投入-产出效率"问题。中西部的人才和科技追赶效应表明后发地区的增长弹性更大，但其波动性也提示发展基础尚不稳固——政策扶持一旦减弱，增长可能失速。
 >
-> **从数据到结论的逻辑** 三区域共同上升→EST 发展是中国整体性趋势。增幅结构差异揭示了区域发展路径的分化：东部以教育为引擎，中部以人才为突破口，西部以科技为驱动力——每个区域的最快增长子系统各不相同。中西部波动性大于东部→区域发展韧性的差异本身就是一种空间不平等。论文引用欧盟 2020 年 VET 建议书来佐证教育对科技创新和人才培养的支撑作用不仅适用于中国，也适用于欧洲。
+> **从数据到结论的逻辑** 三区域共同上升→EST 发展是中国整体性趋势。增幅结构差异揭示了区域发展路径的分化：东部以教育为引擎，中部以人才为突破口，西部以科技为驱动力——每个区域的最快增长子系统各不相同。中西部波动性大于东部→区域发展韧性的差异本身就是一种空间不平等。论文引用[[EU|欧盟]] 2020 年 VET 建议书来佐证教育对科技创新和人才培养的支撑作用不仅适用于中国，也适用于欧洲。
 
 > [!example]- 图4：2001-2022年教育、科技与人才发展趋势
 > ![](https://img.mylikemie.icu/sources/Fan_Song_Zhai_2024_RSEE/figures/Fan_Song_Zhai_2024_RSEE_Fig4_Change_Trend_EST.jpg)

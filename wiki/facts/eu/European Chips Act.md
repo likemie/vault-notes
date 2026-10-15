@@ -11,9 +11,9 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "European Union"
 tags:
@@ -35,6 +35,7 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[EU]]"
   - "[[Fraunhofer Society Model]]"
   - "[[CHIPS and Science Act]]"
   - "[[Inflation Reduction Act]]"
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # European Chips Act
@@ -58,7 +59,7 @@ updated: 2026-10-15
 ## 背景
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2023 年 9 月 21 日正式生效（2023/1781 号规例），由欧洲议会与欧盟理事会联合通过。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 11–12)]]
+> - **发布时间 / 发布主体** 2023 年 9 月 21 日正式生效（2023/1781 号规例），由欧洲议会与[[EU|欧盟]]理事会联合通过。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 11–12)]]
 > - **适用地区 / 对象** 覆盖欧盟 27 个成员国境内的半导体研发机构（如比利时微电子研究中心 IMEC、法国 CEA-Leti、德国[[Fraunhofer Society Model|弗劳恩霍夫学会]]）、设备制造商（如荷兰 ASML）及跨国与本土晶圆制造企业。
 > - **问题背景** 
 >   1. **全链条结构性依赖与制造份额萎缩** 欧洲在数字价值链采矿、提纯、中间元器件与最终终端产品各环节均呈现长期净进口依赖，仅在微芯片制造设备上具备局部优势；全球芯片制造产能份额从 1990 年的 44% 跌落至不足 10%，前十大芯片制造商无一设在欧盟；[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 4–5)]]; [[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 91–92, 95)]]
@@ -71,7 +72,7 @@ updated: 2026-10-15
 ## 政策文本摘要
 
 > [!claim] 政策核心
-> 《欧洲[[CHIPS and Science Act|芯片法案]]》（EU Chips Act）号称动员超过 430 亿欧元的公共与私人投资，通过组织跨国研发试验线、在第二支柱下放宽成员国对欧洲首创晶圆厂的国家援助审查限制，并建立危机期应急优先供应机制，力争在 2030 年前将欧洲在全球半导体制造中的市场份额翻一番提升至 20%，但其实质模式受制于超国家财政预算匮乏，欧委会退守为协调者并高度依赖成员国各自掏钱。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 98, 100)]]; [[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 11–14)]]
+> 《欧洲[[CHIPS and Science Act|芯片法案]]》（[[EU]] Chips Act）号称动员超过 430 亿欧元的公共与私人投资，通过组织跨国研发试验线、在第二支柱下放宽成员国对欧洲首创晶圆厂的国家援助审查限制，并建立危机期应急优先供应机制，力争在 2030 年前将欧洲在全球半导体制造中的市场份额翻一番提升至 20%，但其实质模式受制于超国家财政预算匮乏，欧委会退守为协调者并高度依赖成员国各自掏钱。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 98, 100)]]; [[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 11–14)]]
 
 > [!policy-design]- 政策设计
 > - **政策目标** 增强欧洲在全品类芯片设计制造中的[[Competitiveness|竞争力]]与供应韧性、化解关键元器件战略依赖，力争在 2030 年将欧洲全球芯片制造份额由不足 10% 提升至 20%（因全球市场同步扩张，实际意味着必须在 2030 年前将本土产能扩充至目前的 4 倍）。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 11–12)]]
@@ -95,7 +96,7 @@ updated: 2026-10-15
 ## 时间线
 
 > [!timeline] 政策演进时间线
-> - **2022-02-08** 欧盟委员会正式公布《欧洲[[CHIPS and Science Act|芯片法案]]》立法提案。
+> - **2022-02-08** [[EU|欧盟]]委员会正式公布《欧洲[[CHIPS and Science Act|芯片法案]]》立法提案。
 > - **2023-04-18** 欧洲议会与欧盟理事会就法案核心条款达成最终政治妥协。
 > - **2023-06-05** 欧盟委员会依据新规则批准法国政府向意法半导体与格芯在克罗尔（Crolles）的新建晶圆厂提供 29 亿欧元直接国家援助。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 100)]]
 > - **2023-06-08** 欧盟委员会根据国家援助规则正式批准[[Important Projects of Common European Interest|微电子与通信技术欧洲共同利益重要项目]]（IPCEI ME/CT），涵盖 14 个成员国提供 81 亿欧元公共资助。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 13)]]
@@ -107,7 +108,7 @@ updated: 2026-10-15
 ## 实施情况
 
 > [!actor-grid] 实施角色分工
-> - **发布主体** 欧盟理事会与欧洲议会。
+> - **发布主体** [[EU|欧盟]]理事会与欧洲议会。
 > - **执行主体** 欧盟委员会竞争总司（国家援助豁免审查）、通信网络总司（CNECT）及各出资成员国经济与财政部门。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 12–14)]]
 > - **适用对象** [[Taiwan Semiconductor Manufacturing Corporation|台积电]]、意法半导体、格芯、英飞凌、恩智浦、博世及比利时 IMEC、法国 CEA-Leti 等研究机构。
 > - **政策工具** 成员国国家援助豁免审批、成员国国库直接建厂资助、欧盟联合研发试验线预算及 [[Important Projects of Common European Interest|IPCEI]] 利润回缴框架。
@@ -122,7 +123,7 @@ updated: 2026-10-15
 ## 行动者与利益相关者
 
 > [!actor-grid] 权力—利益矩阵
-> - **高权力 · 高利益 — 关键主导者** 德国经济部、法国工业部、欧盟委员会、意法半导体与[[Taiwan Semiconductor Manufacturing Corporation|台积电]] — 主导数十亿欧元直接资助方案落地与合资建厂选址。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 10, 13)]]
+> - **高权力 · 高利益 — 关键主导者** 德国经济部、法国工业部、[[EU|欧盟]]委员会、意法半导体与[[Taiwan Semiconductor Manufacturing Corporation|台积电]] — 主导数十亿欧元直接资助方案落地与合资建厂选址。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 10, 13)]]
 > - **高权力 · 低利益 — 潜在反对与制约力量** 财政空间狭小且负债高企的中东欧与南欧成员国 — 担忧德法巨额补贴掏空欧洲单一市场的公平竞争底线。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14)]]
 > - **低权力 · 高利益 — 核心受益群体** 欧洲汽车工业联盟（大众、宝马、Stellantis）与 IMEC 研发科学家 — 获得近场芯片保供与研发资金支持。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 100)]]
 > - **低权力 · 低利益 — 边缘行动者** 消费级消费电子芯片中小设计商 — 由于欧洲本土缺乏高端消费电子品牌与系统级芯片设计生态而受益有限。
@@ -151,7 +152,7 @@ updated: 2026-10-15
 ## 效果与评价
 
 > [!indicators]- 评价指标
-> - **投入指标** 430 亿欧元公共与私人总动员预测资金、欧盟共同预算直接支持 33 亿欧元、14 国 [[Important Projects of Common European Interest|IPCEI ME/CT]] 承诺 81 亿欧元公共补贴。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 12–14)]]
+> - **投入指标** 430 亿欧元公共与私人总动员预测资金、[[EU|欧盟]]共同预算直接支持 33 亿欧元、14 国 [[Important Projects of Common European Interest|IPCEI ME/CT]] 承诺 81 亿欧元公共补贴。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 12–14)]]
 > - **过程指标** 首创晶圆厂国家援助批准时效、德累斯顿与克罗尔晶圆厂施工进度、跨国协同网络运转效率。
 > - **结果指标** 欧洲全球晶圆制造产能份额（目标 2030 年达 20%）、汽车与工业关键芯片本土供给自给率。
 
@@ -188,7 +189,7 @@ updated: 2026-10-15
 > > - **产业经济学者研判** 警示全球各主要经济体均在出台巨资补贴扩产，欧洲欲将份额由不到 10% 提升至 20% 需面临极端激烈的全球产能竞争与高昂成本门槛，在缺乏强力中央财政支撑下恐难以企及。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 12)]]; [[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 100)]]
 
 > [!critique] 外部批评
-> - **超国家财政缺位引发单一市场割裂** 缺乏欧盟中央直接产业预算，导致超过 90% 的制造补贴依赖德法等财政大国的国库资金。高负债与财政拮据成员国无力跟进，极易加剧欧洲核心与外围区域的经济与技术鸿沟，侵蚀统一大市场的公平竞争基石。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14, 17)]]
+> - **超国家财政缺位引发单一市场割裂** 缺乏[[EU|欧盟]]中央直接产业预算，导致超过 90% 的制造补贴依赖德法等财政大国的国库资金。高负债与财政拮据成员国无力跟进，极易加剧欧洲核心与外围区域的经济与技术鸿沟，侵蚀统一大市场的公平竞争基石。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–14, 17)]]
 > - **附加条件弱化与跨国规制筹码不足** 相比美国设置的十年地缘安全排他禁令、托儿服务、现行工资与利润分享等全流程刚性条件，欧委会由于不掏钱，仅能设置 [[Important Projects of Common European Interest|IPCEI]] 利润回缴及危机期订单优先供应等弱约束，难以有效规制跨国资本行为。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 14–16)]]
 > - **高企的能源与运营成本** 俄乌冲突引发的欧洲高电价与高工业气体成本，使欧洲晶圆厂的日常运营成本显著高于东亚甚至美国。
 

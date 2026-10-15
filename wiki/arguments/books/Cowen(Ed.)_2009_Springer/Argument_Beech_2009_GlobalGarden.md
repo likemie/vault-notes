@@ -82,13 +82,15 @@ related_facts:
   - "[[UNESCO]]"
   - "[[World Bank]]"
   - "[[OECD]]"
+  - "[[Delors Report]]"
   - "[[EU]]"
   - "[[Meiji Educational Reform]]"
   - "[[Open Classroom Movement]]"
   - "[[Bologna Process]]"
+  - "[[Nord Anglia Education]]"
+  - "[[GEMS Education]]"
   - "[[Organisation for European Economic Co-operation]]"
   - "[[Alliance for Progress]]"
-  - "[[Delors Report]]"
 related_arguments: []
 sources:
   - "[[books/Cowen(Ed.)_2009_Springer/Ch22_Beech_2009|Ch22_Beech_2009]]"
@@ -102,7 +104,7 @@ title: "Argument_Beech_2009_GlobalGarden"
 argument_key: "Argument_Beech_2009_GlobalGarden"
 argument_display_title: "Who is Strolling Through The Global Garden? International Agencies and Educational Transfer"
 argument_kind: "book-chapter"
-argument_related_count: 64
+argument_related_count: 66
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -157,7 +159,7 @@ issuing_organization: ""
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
 > |----------|------|
-> | **机构文本样本** | 世界银行《教育的优先次序与战略》（1995）、德洛尔报告《学习：内在的财富》（UNESCO, 1996）、OECD 历年教育政策概览（1994, 2001）及美洲国家组织（OAS）系列会议文件。（pp. 345–347） |
+> | **机构文本样本** | 世界银行《教育的优先次序与战略》（1995）、[[Delors Report\|德洛尔报告]]《学习：内在的财富》（UNESCO, 1996）、OECD 历年教育政策概览（1994, 2001）及美洲国家组织（OAS）系列会议文件。（pp. 345–347） |
 > | **国别政策与经验** | 阿根廷与巴西两国中等教育课程改革大纲、教师培训法案及课程指南。（pp. 348, 353–354） |
 > | **访谈与调研情境** | 涵盖两国教育部前沿决策官员、两地师范学院资深教研人员与多所典型公立学校任课教师，语料聚焦课程自主权实施与实习制度调整。（pp. 349, 353–354） |
 
@@ -205,12 +207,12 @@ issuing_organization: ""
 在比较教育学科史上，跨国经验借鉴往往在国家遭遇内部重大发展危机时被推向高潮。尽管[[Michael Sadler|萨德勒]]早在 1900 年便提出著名的花园漫步警告，但历代改革者仍频繁借助外来方案寻求危机突破（Sadler, 1979: 49；pp. 341–342）。从朱利安、库赞、曼、托尔斯泰到萨米恩托，先驱者们始终致力于考察普鲁士与法国等典范制度以克服本土危机，这一传统在近代日本与战后美国的危机应对中表现得尤为典型（Cowen, 2006；pp. 341–342）。
 
 > [!row-contrast] 危机驱动型国家教育借用的历史案例对比
-> | 历史维度与比较指标 | [[Meiji Educational Reform|日本明治维新黑船来航借用案例（1850s–1870s）]] | [[Open Classroom Movement|美国发射人造卫星危机借用案例（1957–1970s）]] |
+> | 历史维度与比较指标 | [[Meiji Educational Reform\|日本明治维新黑船来航借用案例（1850s–1870s）]] | [[Open Classroom Movement\|美国发射人造卫星危机借用案例（1957–1970s）]] |
 > |---|---|---|
 > | **危机触发情境** | 1853 年美国佩里舰队黑船叩关，暴露出日本在西方工业技术面前的极度落后与生存危机（Passin, 1965；p. 341） | 1957 年苏联成功发射人类首颗人造卫星，引发美国经历两次发射失败后的全民心理重创（Ravitch, 1983） |
 > | **国家危机认知定性** | 将现代教育制度视为西方强盛不衰的核心秘诀，确立唯有借用西方教育方能与之抗衡的共识（Passin, 1965） | 将科技落后危机直接定性为国家教育体制的彻底失败，全社会猛烈抨击公立学校的压抑与僵化（mindlessness）（Ravitch, 1983；pp. 341–342） |
 > | **考察与借用主体** | 聘用欧洲教育家直接管理在日教育机构；派遣政治精英与知识分子代表团赴欧洲与北美开展系统实地考察（Tanaka, 2005） | 以约瑟夫·费瑟斯通（Joseph Featherstone）和莉莲·韦伯（Lillian Weber）为代表的学者先锋；全美 20 个主要城市的联合教育考察团（Ravitch, 1983；p. 342） |
-> | **借用源头与制度样板** | 拼盘式多国借用：行政集权模式借鉴法国；作为基础单元的男女同校普通学校、师范学校与职业农业教育借用美国；帝国大学创建蓝本借用德国（Passin, 1965; Tanaka, 2005） | 单向聚焦英国初等教育模式：韦伯在英国小学深度考察长达 18 个月；全美掀起对英国幼儿学校与[[Open Classroom Movement|开放式课堂]]的模仿狂潮（Ravitch, 1983） |
+> | **借用源头与制度样板** | 拼盘式多国借用：行政集权模式借鉴法国；作为基础单元的男女同校普通学校、师范学校与职业农业教育借用美国；帝国大学创建蓝本借用德国（Passin, 1965; Tanaka, 2005） | 单向聚焦英国初等教育模式：韦伯在英国小学深度考察长达 18 个月；全美掀起对英国幼儿学校与[[Open Classroom Movement\|开放式课堂]]的模仿狂潮（Ravitch, 1983） |
 > | **文献与实践扩散规模** | 自上而下由明治政府强行颁布《学制》，在全国范围内废藩置县并成套移植现代学校体系（Passin, 1965） | 至 1971 年全美发表逾 300 篇推介英国初等教育改革专文；自由学校在 1960 年代末至 1970 年代初爆发式扩张，1972 年已达约 500 所（Ravitch, 1983） |
 
 上述历史案例表明，传统的经验借鉴始终局限于主权国家政府特派官员垄断的线性移植，其分析单位未曾超越民族国家的地理边界（p. 342）。
@@ -224,8 +226,8 @@ issuing_organization: ""
 > - **高等院校与国际发展咨询单位** 伴随[[Jean-François Lyotard|让-弗朗索瓦·利奥塔]]（Jean-François Lyotard, 1984）所论述的知识商品化趋势，大学生产知识旨在进入市场售卖。[[Robert Cowen|罗伯特·考恩]]（Robert Cowen, 1996）指出，英国等国高校在公共财政急剧紧缩的压力下，产生强烈的创收激励；恰如 16 世纪驱动欧洲帝国主义开辟新市场的重商主义，英国大学设立专职国际发展部，在发展中国家强力开辟咨询市场，将[[School Effectiveness|学校效能]]与绩效知识成套打包倾销。
 > - **超国家政治经济联盟（以欧洲联盟为例）** [[EU|欧洲联盟]]（European Union, EU，简称欧盟）虽受制于《马斯特里赫特条约》（Treaty of Maastricht）规定的教育[[Subsidiarity Principle|辅助性原则]]（subsidiarity），但依然通过[[Open Method of Coordination|开放协调法]]（Open Method of Coordination, OMC）的三大关键机制重塑成员国政策：① 倡导最佳实践经验交流与政策对话（例如《欧洲学校教育质量报告》）；② 建立量化指标体系与基准指标（benchmarks）；③ 推进[[Bologna Process|博洛尼亚进程]]（[[Bologna Process]]）构建欧洲高等教育区（European Higher Education Area, EHEA），推行课程架构、欧洲学分互认体系（European Credit Transfer and Accumulation System, ECTS）、可比学位与质量控制体系的跨国标准化。（p. 343）
 > - **跨国营利性教育服务集团** 借由[[Public-Private Partnership|公私伙伴关系]]（Public-Private Partnerships, PPP, Cardini, 2006）在英国外包校舍兴建、地方教育局（Local Educational Authorities, LEAs）运营、[[School Inspection|学校督导]]、教师在职培训乃至配餐服务；大型跨国企业顺势扩展：
->   - 诺德安达（Nord Anglia Education [[Professional Learning Community|PLC]]）：其首席执行官公开宣称正将英国本土人力与服务优势转化为海外扩张机遇，持续提升跨国管理运营能力；
->   - 环球教育管理系统（Global Education Management Systems, GEMS）：横跨阿联酋、英国、印度、卡塔尔、德国、利比亚与约旦 7 个国家运营 65 所[[International Schools|国际学校]]，自诩为教育变革的催化剂，直接向多国政府机构提供政策咨询；
+>   - [[Nord Anglia Education|诺德安达]]（Nord Anglia Education [[Professional Learning Community|PLC]]）：其首席执行官公开宣称正将英国本土人力与服务优势转化为海外扩张机遇，持续提升跨国管理运营能力；
+>   - [[GEMS Education|环球教育管理系统]]（Global Education Management Systems, GEMS）：横跨阿联酋、英国、印度、卡塔尔、德国、利比亚与约旦 7 个国家运营 65 所[[International Schools|国际学校]]，自诩为教育变革的催化剂，直接向多国政府机构提供政策咨询；
 >   - 跨国精英学校网络加速了休·劳德（Hugh Lauder, 2007）所言的全球精英再生产，彻底异于以往巴西模仿[[Grandes Ecoles|法国大学校]]（Grandes Écoles, Cowen & Figueiredo, 1992）或中国大学引入美国学分制（Steiner-Khamsi, 2000）等主权国家主导模式。（p. 344）
 
 这些跨界实体的崛起表明，现代教育转移已由双边国家关系转变为复杂的[[Pluri-Scalar Governance|多标度治理]]网络，亟须建立新的分析透镜来剖析其深层机制（p. 344）。
@@ -261,7 +263,7 @@ issuing_organization: ""
 > | 国际机构 | 核心认识论立场 | 发展哲学与关键工具 | 典型政策修辞与地缘政治博弈焦点 |
 > |---|---|---|---|
 > | **[[World Bank\|世界银行]]（WB）** | 绝对[[Human Capital Theory\|人力资本理论]]（Human Capital Theory, HCT）主导，自称在广度与严谨性上无可匹敌（1995: 21；p. 347） | 将教育全面工具化为经济增长引擎；以经受三十余年检验的[[Return on Investment\|社会投资回报]]率与成本效益核算为最高评判准绳 | 将教材、黑板与粉笔定为最[[Effective Teaching\|有效教学]]物资；将教师薪酬视为削减成本之主要障碍（Carnoy, 1999）；实证宣称若 1960 年韩国入学率同巴基斯坦一样低，其 1985 年人均国内生产总值（Gross Domestic Product, GDP）将萎缩 40%（pp. 346–347） |
-> | **[[UNESCO\|联合国教科文组织]]（UNESCO）** | 崇高的人本主义立场（Mayor et al., 1997；p. 347） | 坚决反对将人降格为人力资本与生产工具，强调人是发展的终极目的而非经济手段；旨在促进人的全面发展、尊严、和平、宽容与人权 | 菲利普·琼斯（Phillip Jones）与戴维·科尔曼（David Coleman, 2005）揭露 1996 年[[Delors Report|德洛尔报告]]《学习：内在的财富》（*Learning: The Treasure Within*）实质是 UNESCO 在北面遭受 OECD 侵蚀、南面遭受世行挤压的领导地位危机中，为重塑政治合法性展开的公开舆论反击（pp. 347–348） |
+> | **[[UNESCO\|联合国教科文组织]]（UNESCO）** | 崇高的人本主义立场（Mayor et al., 1997；p. 347） | 坚决反对将人降格为人力资本与生产工具，强调人是发展的终极目的而非经济手段；旨在促进人的全面发展、尊严、和平、宽容与人权 | 菲利普·琼斯（Phillip Jones）与戴维·科尔曼（David Coleman, 2005）揭露 1996 年[[Delors Report\|德洛尔报告]]《学习：内在的财富》（*Learning: The Treasure Within*）实质是 UNESCO 在北面遭受 OECD 侵蚀、南面遭受世行挤压的领导地位危机中，为重塑政治合法性展开的公开舆论反击（pp. 347–348） |
 > | **[[OECD\|经济合作与发展组织]]（OECD）** | 混合型新自由主义经济视角（Papadopoulos, 1994；p. 347） | 虽以经济增长为重心，但主张该主导地位必须受到社会维度与人类福祉的适度平衡与规约 | 放弃指令性强制，通过破译新兴趋势、开展同行评议与制定指标体系确立国际游戏规则，软性引导成员国采纳有效政策 |
 
 比奇对核心政策文本的系统比对证实，上述关于人本主义与经济主义的哲学分歧，实质上统摄在同一个深层思想系统之下，共同服务于跨国政策方案的标准化建构（p. 348）。
@@ -363,8 +365,8 @@ issuing_organization: ""
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **新型跨国多元行动者重塑全球教育[[Champ|场域]]** [[Michael Sadler|萨德勒]] 1900 年关于主权国家垄断世界教育花园采撷的设想已被历史彻底超越；跨国营利性教育服务集团（如 GEMS、诺德安达借由[[Public-Private Partnership|公私伙伴关系]]运作）、大学国际发展咨询部、超国家联盟（如[[EU|欧盟]]）以及多边国际组织共同构成了全球教育转移的核心网络。（pp. 341–344）
-> 2. **[[Global Educational Discourse|全球教育话语]]对政策空间的双重[[Discursive Closure|闭合机制]]** [[UNESCO]]、[[World Bank|世界银行]]与 [[OECD]] 在 1985–1996 年间实质共享了一套以信息时代为前景、捆绑五大支柱（分权、[[School Autonomy|学校自主]]、教师专业化、能力本位、统一质检）的单一普遍模型；该模型通过统一定义危机并垄断提供解方，造成了深刻的[[Discursive Closure|话语闭合]]，从[[Epistemology|认识论]]源头上闭合了受援国构想替代性政策的可能性。（pp. 347–349）
+> 1. **新型跨国多元行动者重塑全球教育[[Champ|场域]]** [[Michael Sadler|萨德勒]] 1900 年关于主权国家垄断世界教育花园采撷的设想已被历史彻底超越；跨国营利性教育服务集团（如 [[GEMS Education|GEMS]]、[[Nord Anglia Education|诺德安达]]借由[[Public-Private Partnership|公私伙伴关系]]运作）、大学国际发展咨询部、超国家联盟（如[[EU|欧盟]]）以及多边国际组织共同构成了全球教育转移的核心网络。（pp. 341–344）
+> 2. **[[Global Educational Discourse|全球教育话语]]对政策空间的双重闭合机制** [[UNESCO]]、[[World Bank|世界银行]]与 [[OECD]] 在 1985–1996 年间实质共享了一套以信息时代为前景、捆绑五大支柱（分权、[[School Autonomy|学校自主]]、教师专业化、能力本位、统一质检）的单一普遍模型；该模型通过统一定义危机并垄断提供解方，造成了深刻的[[Discursive Closure|话语闭合]]，从[[Epistemology|认识论]]源头上闭合了受援国构想替代性政策的可能性。（pp. 347–349）
 > 3. **五位置流通模型与拉美[[Gatekeepers|守门人]]垄断** 比奇首创涵盖全球学术、国际组织、国家、本土学术与学校机构的五位置模型；揭示在阿根廷与巴西，本土学术精英、国家决策高官与国际贷款顾问身份高度重合，形成严密的守门人群体，掌控研究资助并阻绝了独立批判性本土学术[[Discourse|话语]]的生产。（pp. 349–353）
 > 4. **普遍模型落地必然诱发微观实践异化** 去情境化模型在微观机构必然发生[[Recontextualization|再语境化]]脱节；阿根廷教师在课程自主权改革中因专业培训缺失被迫直接翻抄商业教辅目录备课，巴阿两国对教师实训政策引发的截然相反反应，确证了全球抽象战略无法解决地方具体问题。（pp. 353–355）
 
@@ -390,14 +392,14 @@ issuing_organization: ""
 > [!citation-card] 花园采撷物即便枯萎亦会改变本土生态
 > 我们需要理解各机构如何将其他行动者的抽象建议转化为互动且可持续的实践。正是由于在学校、教师进修学院、大学及其他以实践为基础的机构层面，全球教育[[Champ|场域]]中话语流通的实际效果才得以彰显。正如萨德勒所指出的，采撷来的枝叶在植入新土壤时或许无法转化为‘鲜活的植物’，但这绝不意味着毫无影响。即使是一株枯死的植物，也携带着能够改变生态系统的微生物；作为比较教育学者，我们必须理解漫步在全球花园中的新孩子们正在如何影响我们的花园。（p. 356）
 >
-> *We need to understand how institutions transform the [[Abstract]] recommendations of other actors into interactive and sustainable practices... Probably, as Sadler noted, the gathered cuttings will not transform into a ‘living plant’ when they are implanted in a new soil, but that doesn’t mean that there are no effects. Even a dead plant carries micro organisms that can alter an ecosystem, and as comparativists we need to understand how the new kids strolling through the global garden are affecting ours.*
+> *We need to understand how institutions transform the [[Abstract]] recommendations of other actors into interactive and sustainable practices... Probably, as Sadler noted, the gathered cuttings will not transform into a ‘living plant’ when they are implanted in a new soil, but that doesn’t mean that there are no effects. Even a dead plant carries micro organisms that can alter an ecosystem, and as comparativists we need to understand how the new kids [[Sadler's Garden Metaphor|Strolling Through The Global Garden]] are affecting ours.*
 
 ---
 
 ## 自述局限
 
 > [!warning]
-> 本研究存在两重明确的理论边界与实证检验范围：① 本文所提理论模型的经验验证主要基于 20 世纪 90 年代阿根廷与巴西的教师教育与课程改革，关于国际组织、国家与本土学术空间界限消融、[[Gatekeepers|守门人]]闭合空间的推论，必须在拉美其他国家以及更广泛的非西方社会重新开展实证检验；② 跨国商业公司、咨询实体与欧盟等新型行动者尚未完全整合进该五位置模型的具体机制分析中，将模型拓展至其他主体或欧洲空间时，必须根据各主体独特的内部组织逻辑（如企业的营利逻辑或欧盟的特有制度安排）重新推导其[[Discourse|话语]]生产与[[Recontextualization|再语境化]]法则。（pp. 354–356）
+> 本研究存在两重明确的理论边界与实证检验范围：① 本文所提理论模型的经验验证主要基于 20 世纪 90 年代阿根廷与巴西的教师教育与课程改革，关于国际组织、国家与本土学术空间界限消融、[[Gatekeepers|守门人]]闭合空间的推论，必须在拉美其他国家以及更广泛的非西方社会重新开展实证检验；② 跨国商业公司、咨询实体与[[EU|欧盟]]等新型行动者尚未完全整合进该五位置模型的具体机制分析中，将模型拓展至其他主体或欧洲空间时，必须根据各主体独特的内部组织逻辑（如企业的营利逻辑或欧盟的特有制度安排）重新推导其[[Discourse|话语]]生产与[[Recontextualization|再语境化]]法则。（pp. 354–356）
 
 ---
 

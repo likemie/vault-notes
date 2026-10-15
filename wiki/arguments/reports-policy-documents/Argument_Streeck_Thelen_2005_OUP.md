@@ -54,6 +54,7 @@ related_persons:
   - "[[Kathleen Thelen]]"
 related_facts:
   - "[[German Dual Education System]]"
+  - "[[EU]]"
   - "[[International Reading Association]]"
 related_arguments: []
 sources:
@@ -68,7 +69,7 @@ title: "Argument_Streeck_Thelen_2005_OUP"
 argument_key: "Argument_Streeck_Thelen_2005_OUP"
 argument_display_title: "Introduction: Institutional change in advanced political economies"
 argument_kind: "book-chapter"
-argument_related_count: 31
+argument_related_count: 32
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -245,7 +246,7 @@ issuing_organization: ""
 > [!evidence-grid] 制度置换的跨国经验案例
 > - **匈牙利杰尔（Győr）地方治理网络的活化** 科林·克劳奇（Colin Crouch）与马腾·科伊内（Maarten Keune）考察匈牙利重工业城市杰尔转型指出，当地行动者在应对经济衰退时并未照抄西方现成方案，而是重新激活了前社会主义时期的家族工匠传统与本地商会网络，以边缘生长的协作机制填补了国家体制撤退后的治理真空。（pp. 20–21）
 > - **德国金融体系从关系贷款向资本市场逻辑的转移** 理查德·迪格（Richard Deeg）指出，德意志银行等大型商业银行主动从英美市场引进重视短期回报与股东价值的退出逻辑，与德国传统的全能银行长期持股监督的呼吁逻辑并存；随着跨国投资扩张，证券市场逻辑逐步挤占了传统银行信贷的主导地位。（pp. 21–22）
-> - **德国与欧洲竞争法中秩序自由主义的战略激活** 西格丽德·夸克（Sigrid Quack）与玛丽-洛尔·杰利奇（Marie-Laure Djelic）指出，二战前在德国高度边缘化的秩序自由主义（Ordoliberalism）学派，战后借助美军反托拉斯立法的外部压力进入立法核心；数十年后，欧洲法院与欧盟决策者又重新激活了《欧洲条约》中沉睡已久的自由竞争条款，以此打破成员国的公用事业垄断保护。（pp. 21–22, 27）
+> - **德国与欧洲竞争法中秩序自由主义的战略激活** 西格丽德·夸克（Sigrid Quack）与玛丽-洛尔·杰利奇（Marie-Laure Djelic）指出，二战前在德国高度边缘化的秩序自由主义（Ordoliberalism）学派，战后借助美军反托拉斯立法的外部压力进入立法核心；数十年后，欧洲法院与[[EU|欧盟]]决策者又重新激活了《欧洲条约》中沉睡已久的自由竞争条款，以此打破成员国的公用事业垄断保护。（pp. 21–22, 27）
 
 #### 3. 制度分层通过在旧体制边缘增设新规则，分流核心资源并实现体制重组
 

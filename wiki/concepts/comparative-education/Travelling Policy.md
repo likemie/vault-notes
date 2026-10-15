@@ -8,10 +8,10 @@ aliases:
 summary: "在比较教育与政策分析中，指代全球化背景下教育改革模型脱离原有社会脉络，通过国际组织和政策网络在跨国空间中多维循环，并在不同本土情境中被不断转译、重新合法化和变形的非线性流变过程。"
 type: concept
 domain: "comparative-education"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 theory_related_count: 4
 theory_related_level: 1
 theory_related_stars: "⭐"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Recontextualization]]"
   - "[[Policy Entrepreneur]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Open Method of Coordination]]"
 related_theories:
   - "[[Actor-Network Theory]]"
 related_methods:
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-11
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Travelling Policy
@@ -89,7 +90,7 @@ updated: 2026-10-15
 > [!feature] 核心要素
 > - **去脉络化与[[Recontextualization\|再脉络化]]（Decontextualization & Recontextualization）** 政策模型从其源起国的制度性“土壤”剥离，被提炼为可复制的“最佳实践”[[Discourse|话语]]（去脉络），进入他国后又被注入当地的社会政治博弈中重新阐释（再脉络）。(引自 [[Argument_Beech_2009_CE\|Beech, 2009]])
 > - **[[Policy Entrepreneur\|政策企业家]]与超国家网络的代理机制（Policy Entrepreneurs & Transnational Networks）** 政策不再单纯由国家官僚运作，而是由多边机构、NGO、政策企业家和跨国咨询公司等行动者组成的网络节点共同推销与扩散。
-> - **协调与标准化的结构性对齐（Harmonisation & Standardisation）** 在全球或区域空间（如欧洲高等教育区）通过柔性[[Disciplina and Doctrina\|规训]]（OMC），迫使主权国家自愿使其国内指标与流动的全球标准对齐。(引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 425]])
+> - **协调与标准化的结构性对齐（Harmonisation & Standardisation）** 在全球或区域空间（如欧洲高等教育区）通过柔性[[Disciplina and Doctrina\|规训]]（[[Open Method of Coordination|OMC]]），迫使主权国家自愿使其国内指标与流动的全球标准对齐。(引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 425]])
 
 > [!logic-map]- 要素关系
 > ```mermaid

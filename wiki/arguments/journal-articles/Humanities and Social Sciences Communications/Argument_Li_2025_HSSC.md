@@ -74,6 +74,7 @@ related_persons: []
 related_facts:
   - "[[PISA]]"
   - "[[OECD]]"
+  - "[[EU]]"
   - "[[PISA Shock in Germany]]"
   - "[[PISA Shock in Japan]]"
   - "[[HarmoS]]"
@@ -97,7 +98,7 @@ title: "Argument_Li_2025_HSSC"
 argument_key: "Argument_Li_2025_HSSC"
 argument_display_title: "The effects of PISA on global basic education reform: A systematic literature review"
 argument_kind: "journal-article"
-argument_related_count: 55
+argument_related_count: 56
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -202,7 +203,7 @@ issuing_organization: ""
 ### 论证步骤一：研究区域分布与特征
 
 > [!claim]
-> [[PISA]] 对国际基础教育政策影响的研究呈现显著的**区域集中**特征：欧洲国家是研究焦点，欧盟/欧洲经济区成员国文献占 62.4%（区域分布数据见研究方法 > 样本快照 > 地区分布）。尽管全球已有 90 多个国家和经济体参与 PISA，截至 2023 年 9 月仅有 17 个国家有相关实证研究文献可用。
+> [[PISA]] 对国际基础教育政策影响的研究呈现显著的**区域集中**特征：欧洲国家是研究焦点，[[EU|欧盟]]/欧洲经济区成员国文献占 62.4%（区域分布数据见研究方法 > 样本快照 > 地区分布）。尽管全球已有 90 多个国家和经济体参与 PISA，截至 2023 年 9 月仅有 17 个国家有相关实证研究文献可用。
 
 > [!warrant]- 推理桥梁
 > 区域集中性与三个因素有关：
@@ -412,7 +413,7 @@ issuing_organization: ""
 > [!citation-card]- 触发政策回应的两个条件
 > Martens & Niemann（2013）："the relation between the self-perception and the actual results needs to be taken into [[Accounts\|account]], and the issue — in our case, education policy — needs to be framed as problematic within the national context."
 
-> [!citation-card]- 欧洲 PISA 与欧盟政策的交织
+> [!citation-card]- 欧洲 PISA 与[[EU|欧盟]]政策的交织
 > "In Europe, it is particularly difficult to isolate the influence of PISA from the impact of the initiatives of the European Commission ... the initiatives and recommendations of the OECD and the EU Council and Commission have become more and more intricate in recent years because of the reciprocal influence and closer cooperation of these two international institutions."（Michel, 2017, p.207）
 
 ---
@@ -426,7 +427,7 @@ issuing_organization: ""
 > 各国在选择[[Reference Society\|参考社会]]和外部政策参考过程中存在文化偏见。上海的高 PISA 分数引发了西方国家关注亚洲教育实践，但这些国家可能仍受文化偏见影响，倾向于在非东方文化背景中寻找参考对象。研究 PISA 效应和全球教育改革时，需要认真考虑区域差异和文化因素的影响。
 
 > [!warning] PISA 影响的难以孤立性
-> 在欧洲尤其难以将 PISA 的影响从欧盟委员会日益频繁和重要的倡议中分离出来。[[OECD]] 与欧盟理事会和委员会的倡议和建议因相互影响和密切合作而日益交织（Michel, 2017, p.207）。
+> 在欧洲尤其难以将 PISA 的影响从[[EU|欧盟]]委员会日益频繁和重要的倡议中分离出来。[[OECD]] 与欧盟理事会和委员会的倡议和建议因相互影响和密切合作而日益交织（Michel, 2017, p.207）。
 
 > [!warning] 跨国组织和机构的分析不足
 > 超越国别研究来看，既有研究对超国家组织或机构的关注不足，未充分分析它们可调用的资本类型及其影响国家政策的能力。这一过程值得在当前全球化时代进一步探索。

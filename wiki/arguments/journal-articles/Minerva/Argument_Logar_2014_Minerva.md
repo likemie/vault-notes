@@ -7,7 +7,7 @@ title: "Argument_Logar_2014_Minerva"
 argument_key: "Argument_Logar_2014_Minerva"
 argument_display_title: "Semiconductor Research Corporation: A case study in cooperative innovation partnerships"
 argument_kind: "journal-article"
-argument_related_count: 27
+argument_related_count: 28
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -56,6 +56,7 @@ related_facts:
   - "[[Sematech]]"
   - "[[DARPA]]"
   - "[[National Science Foundation]]"
+  - "[[EU]]"
 status: draft
 created: 2026-10-05
 updated: 2026-10-05
@@ -215,7 +216,7 @@ tags:
 > SRC 资助的高校科研团队在诸多半导体底层工艺演进中发挥了关键推动作用，成功将多项学术界原型转化为全行业量产标准。（pp. 244–245）
 
 > [!case] 关键技术突破案例一：无铅倒装芯片封装工艺（Lead-free Flip Chip Packaging）
-> - **研发背景与资助介入** 20 世纪 90 年代，随着微处理器引脚密度激增以及欧盟等国际环保法规对传统铅焊料的严厉限制，半导体封装面临前所未有的材料与工艺瓶颈。SRC 提前十年布局资助大学开展无铅焊料冶金物理与倒装芯片互连研究。（p. 244）
+> - **研发背景与资助介入** 20 世纪 90 年代，随着微处理器引脚密度激增以及[[EU|欧盟]]等国际环保法规对传统铅焊料的严厉限制，半导体封装面临前所未有的材料与工艺瓶颈。SRC 提前十年布局资助大学开展无铅焊料冶金物理与倒装芯片互连研究。（p. 244）
 > - **科研产出与行业采纳** 2002 年产出该领域最具里程碑意义的高被引论文（被引 578 次，其中超过 20% 来自工业界）；SRC 累计资助产出 10 篇百引以上的系列论文。至 2000 年代中期，该工艺在英特尔、IBM 等成员企业全面实现商业化量产，帮助全行业顺利跨越了环保合规与高密度互连门槛。
 
 > [!case] 关键技术突破案例二：三面金属栅鳍式场效应晶体管（Fin [[Champ|field]]-Effect Transistor, FinFET）

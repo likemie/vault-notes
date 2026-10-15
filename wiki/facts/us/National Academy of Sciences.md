@@ -27,7 +27,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Innovation Ecosystem]]"
   - "[[Discourse]]"
-  - "[[Public-Private Partnership in Research]]"
+  - "[[Public-Private Partnership]]"
   - "[[Network Governance]]"
   - "[[University-Industry Collaboration]]"
 related_theories: []

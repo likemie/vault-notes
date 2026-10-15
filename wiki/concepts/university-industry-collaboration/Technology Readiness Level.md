@@ -10,7 +10,7 @@ aliases:
 summary: "由美国国家航空航天局（NASA）于 1970 年代创设并在全球科技与产业政策中广泛应用的 9 级技术成熟度标准化评估架构（从 TRL 1 基础原理观察到 TRL 9 真实环境运行验证）。在国家微电子战略中，TRL 4–7 构成大学实验室与规模化量产之间的核心中试断层；通过全要素中试平台、共享设计赋能网关（DEG）与洁净室跨界共置，能够有效桥接早期科学突破向工业级成熟度的演进并实现双向闭环反馈。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -50,6 +50,7 @@ related_persons: []
 related_facts:
   - "[[National Aeronautics and Space Administration]]"
   - "[[DARPA]]"
+  - "[[EU]]"
   - "[[CREATES Project]]"
   - "[[National Science Foundation]]"
   - "[[SBIR and STTR Programs]]"
@@ -73,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-29
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Technology Readiness Level
@@ -92,7 +93,7 @@ updated: 2026-10-15
 
 > [!concept-lens] 概念透镜
 > - **核心功能** 提供跨学科、跨行业与跨机构的统一技术成熟度语言，消除基础研发学者、工程制造团队、产业界与投资人之间的技术评估信息不对称。
-> - **制度用途** 充当重大科研计划（如 NASA、[[DARPA]]、欧盟地平线计划）里程碑考核与财政拨款拨付的准入基准，以及[[University Spin-Out|大学衍生企业]]跨越早期融资门槛的量化依据。
+> - **制度用途** 充当重大科研计划（如 NASA、[[DARPA]]、[[EU|欧盟]]地平线计划）里程碑考核与财政拨款拨付的准入基准，以及[[University Spin-Out|大学衍生企业]]跨越早期融资门槛的量化依据。
 > - **边界限制** 传统 TRL 假定从 1 到 9 的单向线性递进，容易忽视现代软件与复杂微电子系统中的高频双向反馈、逆向反哺与非线性迭代特征。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–5)]]
 
 > [!citation-card] 大学衍生企业面临的 TRL 错配与融资困境
@@ -188,7 +189,7 @@ updated: 2026-10-15
 > - **1974–1989 — [[National Aeronautics and Space Administration|NASA]] 创设 7 级初始框架** 斯坦·萨丁（Stan Sadin）于 1974 年提出概念，1989 年 NASA 正式确立 7 级 TRL 规范，用于航天工程项目的技术风险管理。
 > - **1995 — 扩容确立 9 级通用标准** 约翰·曼金斯（John Mankins）发表白皮书，将 TRL 细化为 9 个等级，确立了当代沿用至今的完整评估标准。
 > - **2000s — 美国国防部与全球各行业普及** 美国国防部（DoD）将 TRL 正式纳入重大防务采办程序；欧洲空间局（[[Educational Services Australia|ESA]]）、能源部（[[Department of Energy|DOE]]）相继采纳为标准立项评估工具。
-> - **2010s — 欧盟地平线计划与创新治理基础设施化** 欧盟在“地平线 2020”（Horizon 2020）中全面引入 TRL，将其作为申请欧盟研发资助项目的准入与验收硬性指标。
+> - **2010s — [[EU|欧盟]]地平线计划与创新治理基础设施化** 欧盟在“地平线 2020”（Horizon 2020）中全面引入 TRL，将其作为申请欧盟研发资助项目的准入与验收硬性指标。
 > - **2020s — [[CHIPS and Science Act|芯片法案]]与深科技全链条角色重构** 《[[CHIPS and Science Act|芯片与科学法案]]》设立[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]），整合分布式 300mm 先进中试线、云端 DEG 网关与大学开放洁净室，推动[[Research Universities|研究型大学]]与深科技企业依托共置与测试样片直接参与 TRL 4–7 中试验证，并开创 Fab-to-Lab 双向闭环，弥合硬科技转化断层。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 20–24)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–5, 8–11)]]
 
 ---

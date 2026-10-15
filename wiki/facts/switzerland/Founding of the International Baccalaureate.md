@@ -9,7 +9,7 @@ subtype: event
 region: switzerland
 fact_region: "switzerland"
 fact_kind: "event"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -42,6 +42,7 @@ related_facts:
   - "[[International Schools Examination Syndicate]]"
   - "[[International School of Geneva]]"
   - "[[UNESCO]]"
+  - "[[EU]]"
   - "[[Founding of Atlantic College]]"
   - "[[1967 Sevres International Conference on the IB]]"
 related_arguments:
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-10
+updated: 2026-10-16
 ---
 
 # Founding of the International Baccalaureate
@@ -100,7 +101,7 @@ updated: 2026-10-10
 > [!dev-timeline]- [[International Baccalaureate\|国际文凭]]的起源与早期制度形成
 > - **1924–1925 — 日内瓦[[International Schools\|国际学校]]提出最早设想** [[International School of Geneva\|日内瓦国际学校]]于 1924 年为国际联盟雇员子女创办。1925 年，校长保罗·迈霍弗（Paul Meyhoffer）依治理委员会要求，向 17 位欧洲教育改革者发出[[Questionnaire\|问卷]]，试探建立“国际毕业会考”（maturité internationale）的可能性。现存材料没有记录回复；当时国际学校和[[Student Mobility|跨国学生流动]]都很少，设想未进入实施，但[[General Education\|通识教育]]与专门化教育的关系已经成为核心问题。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, p. 15)]]
 >
-> - **1948–1955 — 战后需求使旧设想重新出现** 1948 年，国际意识学校会议要求日内瓦国际学校恢复倡议；1951 年成立的[[International Schools Association\|国际学校协会]]（International Schools Association，ISA）为不断增加的国际学校协调共同问题；1955 年，欧洲共同体学校创办者范·豪特再次向 ISA 呼吁建立国际文凭。大学入学竞争加剧，使学生必须精确准备某一国家的课程与考试，国际共同资格由理想议题转为现实需要。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 15–17)]]
+> - **1948–1955 — 战后需求使旧设想重新出现** 1948 年，国际意识学校会议要求日内瓦国际学校恢复倡议；1951 年成立的[[International Schools Association\|国际学校协会]]（International Schools Association，ISA）为不断增加的国际学校协调共同问题；1955 年，[[EU|欧洲共同体]]学校创办者范·豪特再次向 ISA 呼吁建立国际文凭。大学入学竞争加剧，使学生必须精确准备某一国家的课程与考试，国际共同资格由理想议题转为现实需要。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 15–17)]]
 >
 > - **1961–1962 — 日内瓦教师把倡议转为课程项目** 德斯蒙德·科尔-贝克（Desmond Cole-Baker）于 1961 年出任日内瓦国际学校英语部主任后，组织教师和日内瓦国际机构成员推进项目。1962 年，[[Bob Leach\|鲍勃·利奇]]（Bob Leach）领导社会研究教师召开小型会议，正式使用“International Baccalaureate”名称，并以[[UNESCO\|联合国教科文组织]] 2,500 美元资助讨论适合国际文凭的社会研究课程。联合国教科文组织后来四笔小额资助合计 10,000 美元，只足以维持教师会议，无法支持办公室和持续开发。[[Argument_Peterson_1987_OpenCourt\|Peterson (1987, Ch. 2, pp. 17–18)]]
 >

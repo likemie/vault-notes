@@ -9,7 +9,7 @@ aliases:
 summary: "科技人才与高等教育资助中直接赋权早期青年学者的流动性支持机制；将高额科研经费与生活津贴直接授予研究生或博士后学者本人（而非挂靠在资深课题负责人 PI 的特定基金项目下），并允许其自由携带经费跨校、跨院系及跨课题组流动，以打破资历垄断、对冲学术避险并重构平等的导师指导关系。"
 type: concept
 domain: "science-policy"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -41,12 +41,13 @@ related_persons:
 related_facts:
   - "[[National Institutes of Health]]"
   - "[[National Science Foundation]]"
+  - "[[EU]]"
 related_arguments:
   - "[[Argument_Kratsios_2026_OSTP]]"
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Portable Fellowship
@@ -147,7 +148,7 @@ updated: 2026-10-15
 > [!dev-timeline] 可携带式资助理论与制度演变脉络
 > - **1952 — [[National Science Foundation|美国国家科学基金会]]设立研究生研究奖学金计划（NSF GRFP）** 首创全美首个全国性竞争选拔、资助直接跟随学生个人的可携带资助机制。
 > - **1980s–1990s — 生物医学大课题组雇佣制扩张** 随着 [[National Institutes of Health|NIH]] 预算翻倍，高校广泛采用 PI 雇佣博士后（Postdoc Army）模式，造成资历壁垒不断抬升。
-> - **2010s — 欧洲居里夫人奖学金（MSCA）与跨国流动** 欧盟将可携带性与跨国跨界流动确立为欧洲科研人才一体化的核心制度。
+> - **2010s — 欧洲居里夫人奖学金（MSCA）与跨国流动** [[EU|欧盟]]将可携带性与跨国跨界流动确立为欧洲科研人才一体化的核心制度。
 > - **2025–2026 — 白宫科技战略倡导将可携带资助确立为国家战略支柱** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）报告第二章系统批判[[Seniority Barrier in Academia|资历垄断]]，呼吁联邦大幅扩大可携带奖学金比例，作为重组国家科研资助组合、打破学术避险的核心改革举措。
 
 ---

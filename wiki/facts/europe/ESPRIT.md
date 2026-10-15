@@ -12,7 +12,7 @@ subtype: program
 region: europe
 fact_region: "europe"
 fact_kind: "program"
-fact_related_count: 9
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -37,6 +37,7 @@ related_instruments: []
 related_persons:
   - "[[David C. Mowery]]"
 related_facts:
+  - "[[EU]]"
   - "[[Sematech]]"
   - "[[VLSI Project]]"
 related_arguments:
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # ESPRIT
@@ -54,7 +55,7 @@ updated: 2026-10-07
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> 欧洲信息技术研究与发展战略计划（European Strategic Program for Research and Development in Information Technologies, ESPRIT）是 1984 年由欧洲共同体委员会（European Commission）发起设立的跨国高技术[[Precompetitive Research|前竞争研发]]框架计划，旨在通过泛欧产业界与学术界的多边协同，扭转欧洲在微电子、半导体与软件产业上对美日等国的严重依附格局。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 726–728)]]
+> 欧洲信息技术研究与发展战略计划（European Strategic Program for Research and Development in Information Technologies, ESPRIT）是 1984 年由[[EU|欧洲共同体]]委员会（European Commission）发起设立的跨国高技术[[Precompetitive Research|前竞争研发]]框架计划，旨在通过泛欧产业界与学术界的多边协同，扭转欧洲在微电子、半导体与软件产业上对美日等国的严重依附格局。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 726–728)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1984 年正式启动第一期（ESPRIT I, 1984–1989），随后推进第二期（ESPRIT II, 1988–1993）。
@@ -89,7 +90,7 @@ updated: 2026-10-07
 >   - 资助了 226 项多边合作课题，成功建立了欧洲历史上首个横跨多国的高科技产业与学术研发网络，初步缓解了欧洲企业间长期互不往来的孤岛状态。
 > - **1988–1993 — ESPRIT II 扩张与近市场化转向**
 >   - 预算规模翻倍至 38 亿美元，受成员企业要求可衡量直接[[Return on Investment|投资回报]]的压力，研发议题逐步由长期前竞争基础研究向更贴近市场的专有应用与短期交付成果收缩。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 726, 754)]]
-> - **1990 年代中叶 — 融入欧盟框架计划（Framework Programmes）**
+> - **1990 年代中叶 — 融入[[EU|欧盟]]框架计划（Framework Programmes）**
 >   - ESPRIT 机制最终沉淀为欧盟科研框架计划（FP4/FP5 等）中信息与通信技术板块的核心运作模式。
 
 ---

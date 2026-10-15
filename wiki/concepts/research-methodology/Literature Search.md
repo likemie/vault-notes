@@ -4,7 +4,7 @@ aliases: ["文献检索", "文献搜索", "literature retrieval", "searching for
 summary: "研究过程中系统检索、筛选和评估文献的操作性步骤，包括检索策略、网络操作符、数据库选择、信息类型识别、文献优先级排序与质量评估及网站评估。"
 type: concept
 domain: "research-methodology"
-related_count: 56
+related_count: 57
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -61,6 +61,7 @@ related_facts:
   - "[[PISA]]"
   - "[[Education at a Glance]]"
   - "[[National Assessment of Educational Progress]]"
+  - "[[EU]]"
   - "[[Institute of Education Sciences]]"
   - "[[Comparative and International Education Society]]"
   - "[[British Association for International and Comparative Education]]"
@@ -75,7 +76,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-21
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Literature Search
 
@@ -237,7 +238,7 @@ Creswell 提出了一套系统的文献检索流程（[[Argument_Creswell_2022_S
 > | [OECD Education](https://www.oecd.org/education) | PISA、TALIS、[[Education at a Glance]] 等国际比较数据 |
 > | [NCES](https://nces.ed.gov) | 美国教育统计，含 [[National Assessment of Educational Progress\|NAEP]]、Digest of Education Statistics |
 > | [World Bank](https://www.worldbank.org) | 全球发展数据，含教育支出、入学率等跨国指标 |
-> | [EU Gateway](https://european-union.europa.eu) | 欧盟政策、统计（Eurostat）与法律文件 |
+> | [EU Gateway](https://european-union.europa.eu) | [[EU\|欧盟]]政策、统计（Eurostat）与法律文件 |
 > | [CESSDA](https://www.cessda.org) | 欧洲社会科学数据档案联盟，跨国数据检索 |
 > | [Council of Europe](https://www.coe.int) | 欧洲人权、教育、文化政策 |
 > | [HESA](https://www.hesa.ac.uk) | 英国高等教育统计局，学生、教职工、财务数据 |

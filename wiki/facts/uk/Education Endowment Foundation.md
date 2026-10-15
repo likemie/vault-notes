@@ -11,7 +11,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 115
+fact_related_count: 116
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -71,6 +71,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Performativity]]"
   - "[[Evidence-Based Education]]"
+  - "[[Public-Private Partnership]]"
   - "[[Venture Philanthropy]]"
 related_theories:
   - "[[Cognitive Load Theory]]"
@@ -149,7 +150,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Education Endowment Foundation
@@ -422,7 +423,7 @@ updated: 2026-10-15
 > | [[EPPI-Centre]] | Fact (Organization) | 英国本土早期的[[Systematic Review\|系统综述]]先驱，为 EEF 的建立提供了学术方法论滋养。 |
 > | [[SPECTRUM]] | Fact (Program) | EEF 委托研发的权威非认知与社会情感测量工具库与准入标准体系。 |
 > | [[Literacy Octopus]] | Fact (Program) | EEF 资助开展的大规模[[Multi-Arm Trial\|多臂试验]]标志性案例，证实单向信息推介对提升学业无效。 |
-> | [[Network Governance]] | Concept | EEF 模式通过公私伙伴关系、跨国慈善资本资助及政商专家旋转门在英澳两国所展现的网络化治理样态。 |
+> | [[Network Governance]] | Concept | EEF 模式通过[[Public-Private Partnership\|公私伙伴关系]]、跨国慈善资本资助及政商专家旋转门在英澳两国所展现的网络化治理样态。 |
 > | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | 关键论证 | 揭示 EEF 如何联合联邦银行资助 SVA/E4L 搭建试验原型，并由 Collins 跨国任职 AERO 实现因果证据量规向国家科研体制的捕获与转译。 |
 > | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | 关键论证 | 揭示 EEF 的 1.25 亿英镑启动资金源自削减免费学生校餐预算，并剖析其背后的跨国投行与[[Venture Philanthropy\|风险慈善]]网络。 |
 > | [[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]] | 关键论证 | 美国联邦级财务审计将 EEF 列为 4 个全球核心证据库之一，实证验证其在北美循证教育决策中的国际权威地位。 |

@@ -8,10 +8,10 @@ summary: "美国比较教育学者，政策借用与借出政治分析代表人�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 37
-person_related_level: 4
-person_related_stars: "⭐⭐⭐⭐"
-person_related_color: "#fce7f3"
+person_related_count: 42
+person_related_level: 5
+person_related_stars: "⭐⭐⭐⭐⭐"
+person_related_color: "#ffedd5"
 born: "1956"
 died: ""
 lifespan: "1956–至今"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Governing by Numbers]]"
   - "[[Policy Brokerage]]"
+  - "[[Institutional Displacement]]"
   - "[[Going Native]]"
   - "[[Structural Holes]]"
   - "[[Comparative History of Comparative Education]]"
@@ -40,7 +41,11 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Relational Space]]"
   - "[[Methodological Nationalism]]"
+  - "[[Champ]]"
+  - "[[Soft Power]]"
+  - "[[Disciplina and Doctrina]]"
 related_theories:
+  - "[[Pluri-Scalar Governance]]"
   - "[[World Society Theory]]"
   - "[[Luhmann's Systems Theory]]"
   - "[[Autopoiesis]]"
@@ -104,7 +109,7 @@ updated: 2026-10-16
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **2000 — *Transferring education, displacing reforms*（收录于 Jürgen Schriewer 编 *Discourse Formation in Comparative Education*）** 系统论证教育转移并非中立技术复制，而是国内行动者用以解决本土政治合法性危机、以借用外来改革置换国内意识形态僵局的“改革置换（Reform Displacement）”策略（如以中国大学引入美国大学学分制为例证），提出必须聚焦抵制、颠倒或[[Going Native|本土化]]教育进口的微观能动者与政治意图。[[Argument_Rappleye_2006_RCIE|(Rappleye, 2006, p. 227)]]; [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 344)]]
+> - **2000 — *Transferring education, displacing reforms*（收录于 [[Jurgen Schriewer|Jürgen Schriewer]] 编 *[[Discourse]] Formation in Comparative Education*）** 系统论证教育转移并非中立技术复制，而是国内行动者用以解决本土政治合法性危机、以借用外来改革置换国内意识形态僵局的“改革置换（Reform [[Institutional Displacement|displacement]]）”策略（如以中国大学引入美国大学学分制为例证），提出必须聚焦抵制、颠倒或[[Going Native|本土化]]教育进口的微观能动者与政治意图。[[Argument_Rappleye_2006_RCIE|(Rappleye, 2006, p. 227)]]; [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 344)]]
 > - **2004a — *The Global Politics of [[Policy Borrowing|Educational Borrowing]] and Lending*** 确立跨国教育政策转移政治分析的理论纲领，系统探讨[[World Bank|世界银行]]等国际组织与受援国之间的非对称权力博弈。
 > - **2004b — *[[Network Analysis|social network analysis]] and Diffusion of Innovation Revisited: The Maris O'Rourke Effect in [[International Education]]*** 引入社会网络分析方法，揭示关键政策能动者在跨国政策扩散网络中的[[Structural Holes|结构洞]]与杠杆作用。
 > - **2009 — *Comparison and Conceptualisation in Comparative Education*** 系统概念化比较教育学科的发展脉络，为构建全景式的[[Comparative History of Comparative Education|比较教育学比较史]]提供分析[[Paradigm|范式]]。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, p. 8)]]
@@ -124,7 +129,7 @@ updated: 2026-10-16
 > *If researchers focus on the content of transfer, there is no doubt that they will find a common denominator ... however, if we choose to bring the local context to the fore, direct our attention to agencies of lending and borrowing, and ask why some idea or discourse has been transferred, we gain a completely different understanding of transfer (Steiner-Khamsi, 2000, p. 158).*
 
 > [!citation-card] 改革置换机制与主权国家主导的历史借用
-> 在传统由民族国家主导的双边教育转移模式中（如中国大学对美国学分制的引入），外来制度的借用往往被国内政策制定者用作克服国内意识形态阻力与结构僵局的“置换工具（Reform Displacement）”，通过引入外来话语的客观权威来规避本土冲突。这种国家主导模式与当代跨国企业集团驱动的离岸扩张形成了鲜明对照。[[Argument_Beech_2009_GlobalGarden|(Steiner-Khamsi, 2000, cited in Beech, 2009b, p. 344)]]
+> 在传统由民族国家主导的双边教育转移模式中（如中国大学对美国学分制的引入），外来制度的借用往往被国内政策制定者用作克服国内意识形态阻力与结构僵局的“置换工具（Reform [[Institutional Displacement|displacement]]）”，通过引入外来话语的客观权威来规避本土冲突。这种国家主导模式与当代跨国企业集团驱动的离岸扩张形成了鲜明对照。[[Argument_Beech_2009_GlobalGarden|(Steiner-Khamsi, 2000, cited in Beech, 2009b, p. 344)]]
 >
 > *[[Argument_Beech_2009_GlobalGarden|Beech (2009b, p. 344)]] highlights Steiner-Khamsi's (2000) analysis of the transfer of the American credit-hour system to Chinese universities as an exemplar of state-controlled, bilateral historical borrowing where external models are borrowed to displace domestic deadlocks.*
 
@@ -158,7 +163,7 @@ updated: 2026-10-16
 > - **合作主编** Florian Waldow 共同主编《世界教育年鉴 2012》，推进比较政策借用分析工具标准化。
 > - **跨国治理合作者** [[Kerstin Martens]] 与 [[Christian Ydesen]] 共同开拓[[Governing by Numbers|数字治理]] 2.0 与[[Global Education Governing Complex|全球教育治理复合体]]研究。
 > - **史学对话者** [[Robert Cowen]] 高度评价其口述史开创性工作与学科演进概念化，呼吁欧洲学会全面跟进口述史方法。[[Argument_Cowen_2009_HistoryCreation|(Cowen, 2009a, pp. 7–8)]]
-> - **多标度治理对话者** [[Jason Beech]] 借用其关于中国大学引入美国学分制与改革置换的历史分析，对比当代跨国公司网络对教育空间的商业化重构。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 344)]]
+> - **[[Pluri-Scalar Governance|多标度治理]]对话者** [[Jason Beech]] 借用其关于中国大学引入美国学分制与改革置换的历史分析，对比当代跨国公司网络对教育空间的商业化重构。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 344)]]
 > - **学术机构** 哥伦比亚大学教师学院、日内瓦高等国际关系与发展研究院、[[Comparative Education Society in Europe]]（CESE）。
 
 ---
@@ -184,14 +189,14 @@ updated: 2026-10-16
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Policy Borrowing]] | 概念 | 系统化政策借用与借出的全球政治[[Analytic Framework|分析框架]]，确立能动者与利益焦点。 |
-> | [[Policy Brokerage]] | 概念 | 提出[[Governing by Numbers|数字治理]] 2.0 框架，阐明信息过量时代国际组织以硬事实施展软权力的中介机制。 |
+> | [[Policy Borrowing]] | 概念 | 系统化政策借用与借出的全球政治[[Analytic Framework\|分析框架]]，确立能动者与利益焦点。 |
+> | [[Policy Brokerage]] | 概念 | 提出[[Governing by Numbers\|数字治理]] 2.0 框架，阐明信息过量时代国际组织以硬事实施展软权力的中介机制。 |
 > | [[Global Education Governing Complex]] | 概念 | 深化五大国际组织与资本网络将量化知识武器化以问责主权国家的复合治理图景。 |
-> | [[Methodological Transnationalism]] | 概念 | 倡导[[Relational Space|关系性空间]]与全球/国家联结视角，超越[[Methodological Nationalism|方法论民族主义]]与线性霸权模型。 |
+> | [[Methodological Transnationalism]] | 概念 | 倡导[[Relational Space\|关系性空间]]与全球/国家联结视角，超越[[Methodological Nationalism\|方法论民族主义]]与线性霸权模型。 |
 > | [[Governing by Numbers]] | 概念 | 推进数字治理从 1.0 的测验排名向 2.0 的政策中介与政策周期博弈演进。 |
 > | [[Pre-Transfer Agency]] | 概念 | 为政策转移发生前的本土合法性需求与动机提供核心解释要素。 |
 > | [[Comparative History of Comparative Education]] | 概念 | 倡导口述史方法并提出学科发展概念化，为抢救未见历史提供关键路径。 |
-> | [[Luhmann's Systems Theory]] | 理论 | 将社会系统论中的[[Autopoiesis|自创生]]与外在化反思融入跨国政策借用分析。 |
+> | [[Luhmann's Systems Theory]] | 理论 | 将社会系统论中的[[Autopoiesis\|自创生]]与外在化反思融入跨国政策借用分析。 |
 > | [[Network Analysis]] | 方法 | 运用社会网络分析揭示政策经纪人与创新扩散网络中的结构效应。 |
 
 ---
@@ -202,8 +207,8 @@ updated: 2026-10-16
 >
 > | 研究 | 视角 / 核心发现 |
 > |:---|:---|
-> | [[Argument_Rappleye_2006_RCIE\|Rappleye (2006)]] | 在比较教育概念地图中将其本土情境焦点与能动者转向作为前转移能动性的核心基石，强调关注借用发生前国内政治行动者的冲突移位动机。 |
+> | [[Argument_Rappleye_2006_RCIE\|Rappleye (2006)]] | 在比较教育[[Concept Mapping\|概念地图]]中将其本土情境焦点与能动者转向作为[[Pre-Transfer Agency\|前转移能动性]]的核心基石，强调关注借用发生前国内政治行动者的冲突移位动机。 |
 > | [[Argument_Cowen_2009_HistoryCreation\|Cowen (2009a)]] | 在学科史演进中高度赞誉其在口述史方法上的先锋探索，主张将口述史与概念化研究相结合以抢救学会和学者的隐性历史记忆。 |
-> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 在多标度教育治理研究中引用其中国大学引入美国学分制案例，将其作为主权国家主导的双边借用典范，反衬当代跨国营利网络对治理场域的重塑。 |
-> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | 提出数字治理 2.0 框架，论证在信息过剩时代国际组织如何凭借政策中介与硬事实数据施展软权力，推动全球量化规训。 |
+> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 在[[Pluri-Scalar Governance\|多标度教育治理]]研究中引用其中国大学引入美国学分制案例，将其作为主权国家主导的双边借用典范，反衬当代跨国营利网络对治理[[Champ\|场域]]的重塑。 |
+> | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | 提出[[Governing by Numbers\|数字治理]] 2.0 框架，论证在信息过剩时代国际组织如何凭借[[Policy Brokerage\|政策中介]]与硬事实数据施展[[Soft Power\|软权力]]，推动全球量化[[Disciplina and Doctrina\|规训]]。 |
 

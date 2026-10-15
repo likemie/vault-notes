@@ -29,7 +29,7 @@ tags:
   - theme/semiconductor
   - theme/industrial-policy
 related_concepts:
-  - "[[Public-Private Partnership in Research]]"
+  - "[[Public-Private Partnership]]"
   - "[[Research and Technology Organisation]]"
   - "[[Technology Readiness Level]]"
   - "[[Valley of Death]]"
@@ -81,7 +81,7 @@ updated: 2026-10-15
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> **制造美国网络（Manufacturing USA，原国家制造创新网络 NNMI）**是美国联邦政府通过公私伙伴关系（[[Public-Private Partnership in Research|PPP]]）设立的国家级先进制造业研发与技术扩散基础设施网络。作为美国版的[[Research and Technology Organisation|研究与技术组织]]（RTO），Manufacturing USA 旨在对标德国[[Fraunhofer Society Model|弗劳恩霍夫学会]]与英国弹射器网络（Catapult Centres），通过在特定关键使能技术领域设立跨部门制造创新研究所（Manufacturing Innovation Institutes, MIIs），将大学前沿基础研究与私营工业界的规模化生产无缝连接，系统跨越技术准备度（[[Technology Readiness Level|TRL]]）4–7 阶段的“[[Valley of Death|死亡之谷]]”，重建美国的[[Industrial Commons|制造业公地]]与供应链韧性。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 6–7, 33)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11)]]
+> **制造美国网络（Manufacturing USA，原国家制造创新网络 NNMI）**是美国联邦政府通过[[Public-Private Partnership|公私伙伴关系]]（PPP）设立的国家级先进制造业研发与技术扩散基础设施网络。作为美国版的[[Research and Technology Organisation|研究与技术组织]]（RTO），Manufacturing USA 旨在对标德国[[Fraunhofer Society Model|弗劳恩霍夫学会]]与英国弹射器网络（Catapult Centres），通过在特定关键使能技术领域设立跨部门制造创新研究所（Manufacturing Innovation Institutes, MIIs），将大学前沿基础研究与私营工业界的规模化生产无缝连接，系统跨越技术准备度（[[Technology Readiness Level|TRL]]）4–7 阶段的“[[Valley of Death|死亡之谷]]”，重建美国的[[Industrial Commons|制造业公地]]与供应链韧性。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 6–7, 33)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8–11)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 2012 年由奥巴马总统提议试点（首个研究所 America Makes 聚焦 3D 打印），2014 年美国国会正式通过《振兴美国制造业与创新法案》（RAMI Act），将其制度化为国家级法定网络。

@@ -11,7 +11,7 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -47,6 +47,7 @@ related_instruments: []
 related_persons:
   - "[[António Nóvoa]]"
 related_facts:
+  - "[[EU]]"
   - "[[Erasmus Programme]]"
   - "[[Bologna Process]]"
   - "[[European Standards and Guidelines]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # TEMPUS
@@ -66,7 +67,7 @@ updated: 2026-10-15
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **泛欧大学机动性合作计划（Trans-European Mobility Programme for University Studies，TEMPUS / 天普计划）** 是欧洲联盟（European Union，EU）于 1990 年在冷战终结与东欧剧变的历史节点上设立的高等教育跨国合作与学术流动旗舰项目。该计划作为欧盟内部[[Erasmus Programme|伊拉斯谟计划]]（ERASMUS）向非成员国外围邻国的制度延伸，专门面向中东欧、西巴尔干、东欧邻国、南高加索、中亚以及南部地中海周边伙伴国，旨在通过大学跨国结对、课程革新与体制对接，推进伙伴国高等教育体制的现代化、民主化与市场经济转型。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
+> **泛欧大学机动性合作计划（Trans-European Mobility Programme for University Studies，TEMPUS / 天普计划）** 是[[EU|欧洲联盟]]（European Union，EU）于 1990 年在冷战终结与东欧剧变的历史节点上设立的高等教育跨国合作与学术流动旗舰项目。该计划作为欧盟内部[[Erasmus Programme|伊拉斯谟计划]]（ERASMUS）向非成员国外围邻国的制度延伸，专门面向中东欧、西巴尔干、东欧邻国、南高加索、中亚以及南部地中海周边伙伴国，旨在通过大学跨国结对、课程革新与体制对接，推进伙伴国高等教育体制的现代化、民主化与市场经济转型。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1990 年正式设立，先后历经四期工程（TEMPUS I 至 TEMPUS IV），持续推进至 2013 年底；2014 年整体整合并入新一代欧盟“伊拉斯谟+”（Erasmus+）全球教育、培训与青年行动框架。
@@ -79,7 +80,7 @@ updated: 2026-10-15
 ## 方案设计与运行机制
 
 > [!claim] 核心干预／机制假说
-> 天普计划基于多边伙伴关系与学术流动的制度假说：通过将欧盟成员国高校的“导师型经验”与伙伴国高校结成多边联盟，以跨国学术流动（师生研修）为催化剂，驱动伙伴国高校自下而上重构课程大纲、引入欧洲学分互认与现代治理结构，从而将伙伴国高等教育无缝嵌入欧洲共同知识空间。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
+> 天普计划基于多边伙伴关系与学术流动的制度假说：通过将[[EU|欧盟]]成员国高校的“导师型经验”与伙伴国高校结成多边联盟，以跨国学术流动（师生研修）为催化剂，驱动伙伴国高校自下而上重构课程大纲、引入欧洲学分互认与现代治理结构，从而将伙伴国高等教育无缝嵌入欧洲共同知识空间。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
 
 ```mermaid
 graph TD
@@ -118,7 +119,7 @@ graph TD
 
 ## 比较教育学定性与学术反思
 
-在比较教育学与空间转向（Spatial Turn）理论视域下，天普计划不仅仅是一项技术性的高等教育国际援助工程，更是欧盟在全球展开[[Spatial Governmentality|空间化治理]]与地缘文化塑造的关键制度装置：
+在比较教育学与空间转向（Spatial Turn）理论视域下，天普计划不仅仅是一项技术性的高等教育国际援助工程，更是[[EU|欧盟]]在全球展开[[Spatial Governmentality|空间化治理]]与地缘文化塑造的关键制度装置：
 
 > [!claim] 比较教育学核心反思判断
 > 天普计划是欧盟通过教育流动向外围空间行使[[Governing at a Distance|远距治理]]（Governing at a Distance）的典型范例：它一方面通过学术资助与机制互认极大地促进了跨国人员交流与[[Knowledge Transfer|知识转移]]，另一方面也确立了西欧大学规范作为“唯一正统现代大学”的中心地位，在输出“欧洲[[Social Imaginary|社会想象]]”的同时，生产出新型的地缘[[Cultural Hierarchy|文化等级]]与外围排斥。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
@@ -147,7 +148,7 @@ graph TD
 > | [[Spatial Governmentality]] | Theory | **解释理论工具** 透视 TEMPUS 如何通过空间划界、流动调控与外围排斥对人口实施[[Governing at a Distance\|远距治理]]。 |
 > | [[Two Problematics of Educational Inclusion and Exclusion]] | Theory | **批判反思视角** 揭示 TEMPUS 在推进制度包容与代表性的同时，在知识分类系统层面生产出新型外围排斥。 |
 > | [[Bologna Process]] | Fact (Policy) | **体制对齐基准** 项目实施后期全面对齐博洛尼亚进程学制与学分转换标准。 |
-> | [[Tuning Project]] | Fact (Program) | **协同支撑项目** 博洛尼亚进程中具体研制各学科核心能力参考框架的欧盟同行协作方案。 |
+> | [[Tuning Project]] | Fact (Program) | **协同支撑项目** 博洛尼亚进程中具体研制各学科核心能力参考框架的[[EU\|欧盟]]同行协作方案。 |
 > | [[António Nóvoa\|安东尼奥·诺沃亚]]（António Nóvoa） | 学者 | **关键理论家** 深入解构欧洲流动性[[Discourse\|话语]]如何生产超国家公民认同与欧洲社会想象。 |
 
 ---

@@ -6,7 +6,7 @@ aliases:
 summary: "以国家地缘竞争、产业全面复兴与绝对安全优势为导向，强调快速获取、工程部署与行政审计关键技术能力的新型科技治理形态，标志着国家与科学共同体关系由认知中心向能力中心的结构性转移。"
 type: concept
 domain: "science-policy"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -17,6 +17,7 @@ tags:
   - theme/geopolitics
 related_concepts:
   - "[[Knowledge Production]]"
+  - "[[Public-Private Partnership]]"
   - "[[Big Science]]"
   - "[[Paradigm]]"
   - "[[Mission-Oriented Innovation Policy]]"
@@ -48,7 +49,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Technology-Oriented Social Contract
@@ -62,7 +63,7 @@ updated: 2026-10-07
 
 > [!concept-lens] 概念透镜
 > - **含义** 表征 2025 年以来大国科技治理中成型的一种替代性制度逻辑，科学活动由战后被奉为核心的国家认知中心，降级为服务于特定技术能力获取的从属组件。
-> - **用途** 用于解释为何战后由《科学——无止境的边疆》确立的基础研究自明价值与学术免检资助遭遇全面退潮，以及行政当局为何倾向于绕开大学同行评议，直接依托跨部门总统行动与公私伙伴关系组织科研。
+> - **用途** 用于解释为何战后由《科学——无止境的边疆》确立的基础研究自明价值与学术免检资助遭遇全面退潮，以及行政当局为何倾向于绕开大学同行评议，直接依托跨部门总统行动与[[Public-Private Partnership|公私伙伴关系]]组织科研。
 > - **边界** 不等于彻底取消科学探索活动，而是系统重塑了科学的合法性尺度与资源配置权柄；不同于二战时期的战时[[Big Science|大科学]]任务动员，后者高度尊重科学家的专业方案设计权，而技术型社会契约则强化行政目标与外部政治结果的可控性。
 
 > [!citation-card] 契约[[Paradigm|范式]]转移论断

@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch04"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch04"
 argument_display_title: "Chapter four: Industry and business sector"
 argument_kind: "book-chapter"
-argument_related_count: 41
+argument_related_count: 42
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -72,6 +72,7 @@ related_facts:
   - "[[EngineeringUK]]"
   - "[[The Big Bang Fair]]"
   - "[[The Social Value Model]]"
+  - "[[EU]]"
   - "[[Association for Science and Discovery Centres]]"
   - "[[Sciencewise]]"
   - "[[Advanced Manufacturing Research Centre]]"
@@ -202,7 +203,7 @@ updated: 2026-09-13
 >   1. *单向灌输与[[Deficit Model of Science Communication\|赤字模型]]傲慢* 企业完全将公众对食品安全性、杂草超级抗药性及跨国种业垄断的担忧归咎于“[[Citizen Science\|大众科学]]无知”，采取居高临下的单向公关宣传，彻底激怒了公众；
 >   2. *剥夺公众选择权与知情权* 试图在未经严格标识的情况下将转基因大豆混入普通粮油食品流通，引发消费者对人权与知情权的强烈危机感；
 >   3. *完全缺乏利益共赢感* 早期推广的第一代转基因作物主要为大型农场和种子公司降低成本，消费者未感受到任何直接降价或品质改善效益，形成了“企业坐收暴利，公众承担不可测风险”的社会心理对立。
-> - **灾难性后果与行业启示** 引发全欧洲范围的罢买抵制运动，超级市场全面剔除转基因原料，欧盟出台严苛的事实性禁令，导致现代农业生物技术在欧洲商业化遭受长达数十年的停滞。
+> - **灾难性后果与行业启示** 引发全欧洲范围的罢买抵制运动，超级市场全面剔除转基因原料，[[EU|欧盟]]出台严苛的事实性禁令，导致现代农业生物技术在欧洲商业化遭受长达数十年的停滞。
 > - **科技治理核心经验** 科技越颠覆，越不能依赖商业定型后的公关说教；必须在早期研发阶段坦诚披露不确定性与风险，捍卫公众知情选择权，以双向平权协商构建长效社会许可。
 
 #### 主题二：全英产业研发信任度与公众认知的四重核心数据（PAS 2025; CaSE, 2025）

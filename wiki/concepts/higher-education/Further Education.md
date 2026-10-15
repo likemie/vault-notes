@@ -8,7 +8,7 @@ aliases:
 summary: "位于义务教育和高等教育之外的中学后继续教育形式，常与成人学习、职业培训、非学位证书和终身学习体系相连"
 type: concept
 domain: "higher-education"
-related_count: 5
+related_count: 6
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -24,13 +24,14 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[EU]]"
 related_arguments:
   - "[[Argument_Hartmann_2022_CorporateEducation]]"
 confidence: medium
 status: draft
 created: '2026-05-18'
-updated: 2026-10-05
+updated: 2026-10-16
 ---
 
 # Further Education
@@ -50,7 +51,7 @@ updated: 2026-10-05
 
 > [!example]
 > - **vs Higher Education（高等教育）** 高等教育是正规的、授予学位的中学后教育（大学、学院），继续教育则发生在结构化教育系统之外，以非学位证书为主。两者共同构成后福特经济中[[Lifelong Learning\|终身学习]]的两大支柱([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p.179]])
-> - **vs [[Corporate Education]]** 继续教育是更广泛的上位范畴，涵盖雇主提供、外部购买、专业协会提供等多种形式；企业教育是继续教育的一个子集——由企业为其雇员提供或资助的部分。2016 年欧盟约三分之一由雇主直接提供，其余由外部机构提供([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, pp.180, 190]])
+> - **vs [[Corporate Education]]** 继续教育是更广泛的上位范畴，涵盖雇主提供、外部购买、专业协会提供等多种形式；企业教育是继续教育的一个子集——由企业为其雇员提供或资助的部分。2016 年[[EU|欧盟]]约三分之一由雇主直接提供，其余由外部机构提供([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, pp.180, 190]])
 > - **vs Lifelong Learning（终身学习）** 终身学习是最宽泛的概念，涵盖从早期教育到退休后的一切学习活动；继续教育特指成年人在完成初始教育后参与的非正规、有组织培训
 
 ---
@@ -59,7 +60,7 @@ updated: 2026-10-05
 
 > [!note]-
 > - **后福特经济转型（1990s–）** 制造业向知识密集型服务经济转型，知识生命周期缩短，继续教育从边缘走向中心。Morris-Suzuki（1997）称之为"永久创新经济"中劳动力持续再技能化的必然要求([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p.179]])
-> - **参与率持续攀升（2000s–）** 2016 年欧盟 25–64 岁人口中超过 40% 在过去一年参与过教育培训，且此后在所有高收入国家持续增长
+> - **参与率持续攀升（2000s–）** 2016 年[[EU|欧盟]] 25–64 岁人口中超过 40% 在过去一年参与过教育培训，且此后在所有高收入国家持续增长
 > - **微证书兴起（近年）** 继续教育的非学位属性催生了微证书（micro credentials）的繁荣，Kato et al.（2020）记录了替代性证书的快速增长
 
 ---
@@ -68,7 +69,7 @@ updated: 2026-10-05
 
 > [!abstract]
 > - **非正规性** 继续教育主要在结构化教育系统之外进行，不授予传统学位，而是与非学位证书挂钩([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p.179]])
-> - **多元供给主体** 供给方包括雇主（欧盟约三分之一，部分国家高达三分之二）、营利性教育提供商、专业协会和咨询公司。小型雇主尤其依赖外部提供商，但大雇主在绝对金额上是主要购买者([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, pp.180, 190]])
+> - **多元供给主体** 供给方包括雇主（[[EU|欧盟]]约三分之一，部分国家高达三分之二）、营利性教育提供商、专业协会和咨询公司。小型雇主尤其依赖外部提供商，但大雇主在绝对金额上是主要购买者([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, pp.180, 190]])
 > - **管理培训国际化程度最高** 超过 50% 的 MNCs 提供全球高潜力人才培训项目，多数拥有全球继任计划。培训层级越高、目标人群职位越高，国际化程度越高([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p.185]])
 > - **市场集中化趋势** 营利性教育提供商通过规模/网络效应和知识产权排他性形成寡头市场。全球最大提供商 Skillsoft 覆盖 160 国、29 种语言（详见 [[Corporate Education]] 中的四种权威策略分析）([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, pp.190–193]])
 
@@ -77,7 +78,7 @@ updated: 2026-10-05
 ## 实证发现
 
 > [!success]
-> - 2016 年欧盟 25–64 岁人口中超过 40% 在过去一年中参与过教育和培训活动，且此后在所有高收入国家（包括美国）持续增长([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p.179]])
+> - 2016 年[[EU|欧盟]] 25–64 岁人口中超过 40% 在过去一年中参与过教育和培训活动，且此后在所有高收入国家（包括美国）持续增长([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p.179]])
 > - 欧盟企业培训中约三分之一至三分之二由外部教育提供商提供。小型雇主尤其依赖外部提供商，但大雇主在绝对金额上是教育服务的主要购买者([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p.190]])
 > - 继续教育在 MNCs 中存在明显的"滴漏策略"（trickle-down strategy）：员工原有正式资格越高、职位越高，获得培训的可能性和培训投入越大（Brandon Hall Group, 2016, cited in [[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p.185]]）
 
@@ -100,7 +101,7 @@ updated: 2026-10-05
 ## 相关案例／政策
 
 > [!example]
-> - 欧盟继续职业教育培训调查（CVTS）——系统收集成员国企业培训的提供者类型、参与率和[[Externalization\|外化]]程度数据([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p.180]])
+> - [[EU|欧盟]]继续职业教育培训调查（CVTS）——系统收集成员国企业培训的提供者类型、参与率和[[Externalization\|外化]]程度数据([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, p.180]])
 > - 德国双元[[Apprenticeship|学徒制]]——初始职业教育（IVET）的典型案例，高度依赖国家层面的非市场制度安排，德国 MNCs 在海外分支复制时遇到系统性困难。详见 [[Corporate Education]]([[Argument_Hartmann_2022_CorporateEducation\|Hartmann, 2022, pp.184–185]])
 
 ---

@@ -10,7 +10,7 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 5
+fact_related_count: 6
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#ede9fe"
@@ -28,13 +28,14 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[EU]]"
   - "[[Erasmus Programme]]"
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # CRITHINKEDU Project
@@ -45,7 +46,7 @@ updated: 2026-10-15
 
 > [!event-context] 事件背景
 > - **时间 / 地点** 2016–2019 年，覆盖葡萄牙、爱尔兰、西班牙、罗马尼亚、比利时、希腊、立陶宛、捷克、意大利 9 国。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 8)]]
-> - **关键主体** 欧盟委员会（[[Erasmus Programme|Erasmus+]] 战略合作伙伴关系资助），由葡萄牙特拉斯-奥斯-蒙特斯和上杜罗大学（UTAD）牵头协调 11 所欧洲大学。
+> - **关键主体** [[EU|欧盟]]委员会（[[Erasmus Programme|Erasmus+]] 战略合作伙伴关系资助），由葡萄牙特拉斯-奥斯-蒙特斯和上杜罗大学（UTAD）牵头协调 11 所欧洲大学。
 > - **制度背景** 尽管欧洲高教区高度重视[[Critical Thinking\|批判性思维]]，但大学教师普遍缺乏系统的课程教学法指南与评价培训体系。
 > - **触发条件** 跨国协同开发一套贯通欧洲高等教育课程设计、教学实践与学业评价的批判性思维实施蓝图。
 
@@ -72,6 +73,6 @@ updated: 2026-10-15
 ## 影响与后果
 
 > [!finding-cards] 影响与后果
-> - **政策影响** 成为欧盟委员会推动高等教育创新教学法与教师专业发展的标杆性示范工程。
+> - **政策影响** 成为[[EU|欧盟]]委员会推动高等教育创新教学法与教师专业发展的标杆性示范工程。
 > - **实践影响** 为欧洲高校教师提供了成套开源的[[Critical Thinking\|批判性思维]]课程设计模板、教学活动案例与评分规程。
 > - **知识影响** 推动了欧洲高教界对批判性思维“技能与倾向共生”以及“课程嵌入式评价”的理论共识。

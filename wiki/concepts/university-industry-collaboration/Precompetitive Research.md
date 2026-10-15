@@ -34,7 +34,7 @@ related_concepts:
   - "[[Blue Skies Research]]"
   - "[[Zero-Sum Competition]]"
   - "[[Academic Freedom]]"
-  - "[[Public-Private Partnership in Research]]"
+  - "[[Public-Private Partnership]]"
   - "[[Return on Investment]]"
   - "[[Cost of Ownership]]"
   - "[[Research Scope]]"
@@ -147,7 +147,7 @@ updated: 2026-10-15
 > **双层知识产权轨道模型** 英国[[Advanced Manufacturing Research Centre|先进制造研究中心]]（AMRC）等现代研发联合体通过建立双层知识产权制度，成功化解了直接竞争对手间的合作困境：在前竞争轨道，研发成果归学术机构所有并对全体会员免版税开放，建立共有技术底座；在[[Product-Specific Research|产品专项]]轨道，企业单独出资开展专有工程攻关并独占知识产权，使各成员能够将公共知识池高效转化为个体专有竞争优势。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025, pp. 114–118)]]
 
 > [!claim] [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]]
-> **公私伙伴关系（[[Public-Private Partnership in Research|PPP]]）的范围界定准则** 在[[Semiconductor Research Corporation|半导体研究公司]]（SRC）等多边联盟中，将合作范围严格限定在前竞争阶段是防范零和博弈的关键；各方将资金汇聚于共性基础科学挑战与行业互操作标准，从而在降低个体研发成本的同时，维护了各企业在终端产品架构上的独立差异化竞争。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 233–236)]]
+> **[[Public-Private Partnership|公私伙伴关系]]（PPP）的范围界定准则** 在[[Semiconductor Research Corporation|半导体研究公司]]（SRC）等多边联盟中，将合作范围严格限定在前竞争阶段是防范零和博弈的关键；各方将资金汇聚于共性基础科学挑战与行业互操作标准，从而在降低个体研发成本的同时，维护了各企业在终端产品架构上的独立差异化竞争。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 233–236)]]
 
 > [!claim] [[Argument_Logar_2014_Minerva|Logar et al. (2014)]]
 > **前竞争分层计划矩阵与时域解耦机制** SRC 的实践证明，前竞争研究并非单一维度的模糊概念，而是可以通过构建跨越近中远期的多轨道计划矩阵实现工程化落地：将近中期计划（GRC）定位于收窄技术选项并对齐国际技术路线图（ITRS），将中远期计划（[[Focus Center Research Program|FCRP]]、NRI）定位于创造技术选项与探索极限物理；各成员企业既能在底层物理与通用工艺上共享科研成果与博士人才库，又能在具体的芯片架构与终端产品上保持激烈的市场竞争，从根本上消除了反垄断合规障碍与商业泄密顾虑。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 241, 246–251)]]
@@ -181,7 +181,7 @@ updated: 2026-10-15
 > [!dev-timeline] 概念演变历程
 > - **1980s — 反垄断豁免与半导体联盟兴起** 美国通过 1984 年《国家合作研究法》（NCRA），首次从法律层面界定前竞争研发（Pre-competitive R&D）并免除反垄断三倍赔偿风险；直接催生了 [[Sematech]]、MCC 等高技术研发联合体，以及欧洲 [[ESPRIT]] 计划。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 724–728)]]
 > - **1990s — 战略转向与纵向通用基础设施确立** [[Sematech]] 的实践证明横向工艺配方共享难以维系，前竞争研究的内涵拓展为国家半导体技术路线图（NTRS）、[[Cost of Ownership|所有权成本模型]]（COO）及共有中试线认证等通用基础设施。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 731–736)]]
-> - **2000s–至今 — 产学两层知识产权与公私伙伴关系（[[Public-Private Partnership in Research|PPP]]）制度化** 前竞争原则广泛融入[[University-Industry Collaboration|产学合作]]管理与国家战略科技政策（如英国 [[Advanced Manufacturing Research Centre|AMRC]] 两层知识产权模型、美国《[[CHIPS and Science Act|芯片与科学法案]]》[[National Semiconductor Technology Center|国家半导体技术中心]] [[National Science and Technology Council|NSTC]]），演化为调节公私协同与市场竞争平衡的核心制度工具。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025)]]; [[Argument_Narayan_Spohrer_2025_Metrics|(Narayan & Spohrer, 2025)]]
+> - **2000s–至今 — 产学两层知识产权与[[Public-Private Partnership|公私伙伴关系]]（PPP）制度化** 前竞争原则广泛融入[[University-Industry Collaboration|产学合作]]管理与国家战略科技政策（如英国 [[Advanced Manufacturing Research Centre|AMRC]] 两层知识产权模型、美国《[[CHIPS and Science Act|芯片与科学法案]]》[[National Semiconductor Technology Center|国家半导体技术中心]] [[National Science and Technology Council|NSTC]]），演化为调节公私协同与市场竞争平衡的核心制度工具。[[Argument_Hoffman_2025_UI_Alliances_Consortia|(Hoffman et al., 2025)]]; [[Argument_Narayan_Spohrer_2025_Metrics|(Narayan & Spohrer, 2025)]]
 
 ---
 

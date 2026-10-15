@@ -23,7 +23,7 @@ related_concepts:
   - "[[Innovation Ecosystem]]"
   - "[[Multi-Project Wafer]]"
   - "[[Modern Industrial Policy]]"
-  - "[[Public-Private Partnership in Research]]"
+  - "[[Public-Private Partnership]]"
   - "[[Pilot Scale Platform]]"
   - "[[Technology Readiness Level]]"
   - "[[Valley of Death]]"
@@ -100,7 +100,7 @@ publisher: "U.S. Department of Commerce"
 > [!concept-lens] 阅读透镜
 > - **经验对象** 美国国家半导体技术中心（NSTC）、[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（National Advanced Packaging Manufacturing Program, NAPMP）、国防部[[Microelectronics Commons|微电子共用体]]（Microelectronics Commons）、商务部国家标准与技术研究院（National Institute of Standards and Technology, NIST）计量研究项目及全美产学研微电子创新网络。（pp. 2–3, 8–11）
 > - **制度张力** 尖端制程高昂重资产资本门槛与中小创客及大学实验室资本短缺的矛盾；国家安全审查与技术开放创新的张力；短期五年财政催化拨款与数十年长期技术演进的资金可持续性矛盾。（pp. 6, 20–25）
-> - **理论贡献** 确立了 21 世纪美国[[Modern Industrial Policy|现代产业政策]]与战略科技攻关的第三代国家法定[[Public-Private Partnership in Research|公私合作伙伴关系]]（Public-Private Partnership, PPP）模式，系统展示了硬件共享、软件支持、人才蓄水池与非营利受托治理的一体化制度设计。（pp. 8–25）
+> - **理论贡献** 确立了 21 世纪美国[[Modern Industrial Policy|现代产业政策]]与战略科技攻关的第三代国家法定[[Public-Private Partnership|公私合作伙伴关系]]（Public-Private Partnership, PPP）模式，系统展示了硬件共享、软件支持、人才蓄水池与非营利受托治理的一体化制度设计。（pp. 8–25）
 
 ---
 

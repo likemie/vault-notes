@@ -7,7 +7,7 @@ summary: "澳大利亚与英国著名教育政策社会学家，澳大利亚社�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 52
+person_related_count: 53
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
@@ -72,6 +72,7 @@ related_facts:
   - "[[Chinese Academy of Sciences]]"
   - "[[OECD]]"
   - "[[PISA]]"
+  - "[[EU]]"
   - "[[CREATES Project]]"
   - "[[Centre for Educational Research and Innovation]]"
 related_arguments:
@@ -81,7 +82,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-07
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Bob Lingard
@@ -108,7 +109,7 @@ updated: 2026-10-15
 > - **1949** 出生于澳大利亚，青年时期投身教育学与社会学研究，在昆士兰大学获得教育学博士学位。
 > - **1980s–1990s** 长期任教于昆士兰大学，关注澳大利亚联邦教育政策、社会公平改革、性别平等与新工党教育治理转向；与 Miriam Henry、Sandra Taylor 以及 [[Fazal Rizvi]] 结成紧密的研究团队。
 > - **2001** 与团队出版里程碑著作《[[OECD|经合组织]]、全球化与教育政策》（*The OECD, Globalisation and Education Policy*），开创将国际组织作为独立政策行动者进行社会学[[Rich and Thick Description|深描]]的[[Paradigm|范式]]。
-> - **2006–2008** 赴英国爱丁堡大学莫雷教育学院（Moray House School of Education）担任教育政策讲席教授，深入追踪英国及欧洲联盟的教育问责机制与 [[PISA]] 效应。
+> - **2006–2008** 赴英国爱丁堡大学莫雷教育学院（Moray House School of Education）担任教育政策讲席教授，深入追踪英国及[[EU|欧洲联盟]]的教育问责机制与 [[PISA]] 效应。
 > - **2008–2017** 重返澳大利亚昆士兰大学担任教授，入选澳大利亚社会[[Chinese Academy of Sciences|科学院]]院士；2009 年与 Rizvi 为《比较教育国际手册》撰写经典章节《经合组织与全球教育政策转向》；2010 年出版代表作《全球化教育政策》（*Globalizing Education Policy*）。
 > - **2017–至今** 荣休后继续担任昆士兰大学及挪威科技大学特聘教授，持续推进教育大数据治理、教师专业劳动重构以及商业资本渗透公共教育的批判性追踪。
 

@@ -8,7 +8,7 @@ summary: "美籍希腊裔政治学家，密歇根大学政治学讲席教授，�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -45,12 +45,13 @@ related_persons:
 related_facts:
   - "[[Chinese Academy of Sciences]]"
   - "[[American Association for the Advancement of Science]]"
+  - "[[EU]]"
 related_arguments:
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # George Tsebelis
@@ -96,7 +97,7 @@ updated: 2026-10-15
 >   - **代表著作** *Bicameralism* (1997, with J. Money); *Veto Players: How Political Institutions Work* (2002)。
 >   - **关键概念／方法** 否决玩家（Veto Players）、制度性否决者、党派性否决者、无差别曲线、胜集（Winset）。
 >   - **阶段转向** 摆脱了传统比较政治学沉溺于“总统制 vs 议会制”宏观二元对立的分类泥潭，提炼出具有连续[[Variable|变量]]特征的“否决玩家数量”与“意识形态距离”，实现体制分析维度的形式化统一。
-> - **2000年代末至今 — 跨[[Paradigm|范式]]对话与欧盟宪政改革博弈** 回应[[Historical Institutionalism|历史制度主义]]与实证宪政学批评，深化对规则变更难度与司法裁量博弈的形式化建模。
+> - **2000年代末至今 — 跨[[Paradigm|范式]]对话与[[EU|欧盟]]宪政改革博弈** 回应[[Historical Institutionalism|历史制度主义]]与实证宪政学批评，深化对规则变更难度与司法裁量博弈的形式化建模。
 >   - **代表著作** 参与历史制度主义前沿对话，研究欧盟立法程序中的议程设置权与欧洲法院的司法裁量权。
 >   - **关键概念／方法** 议程设置者优势、修宪门槛、司法否决。
 >   - **阶段转向** 从静态政策核心区模型扩展到包含时间维度与议程掌控的动态博弈，为分析规则内生修改难度与司法解释提供理论工具。
@@ -120,7 +121,7 @@ updated: 2026-10-15
 > [!influence-path] 影响路径
 > - **理论路径** 否决玩家理论重构了现代比较政治学与实证政治经济学的制度分析[[Paradigm|范式]]；被[[James Mahoney|马奥尼]]与希伦（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009]]）改造为[[Historical Institutionalism|历史制度主义]]中解释四类渐进变迁形态的宏观政治语境[[Independent Variable|自变量]]。
 > - **方法路径** 推动了空间投票模型与无差别曲线分析法在小样本比较政治与比较宪法学中的普及，使制度刚性测量走向形式化与量化。
-> - **政策路径** 广泛应用于跨国公共政策改革难易度评估、福利国家紧缩政策评估以及欧盟机构条约改革谈判的战略预测。
+> - **政策路径** 广泛应用于跨国公共政策改革难易度评估、福利国家紧缩政策评估以及[[EU|欧盟]]机构条约改革谈判的战略预测。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 直接援引茨贝利斯否决者理论界定[[Theory of Gradual Institutional Change|渐进制度变迁理论]]中的“[[Veto Possibilities|否决可能性]]”维度（p. 19）。

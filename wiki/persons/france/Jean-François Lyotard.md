@@ -204,7 +204,7 @@ updated: 2026-10-15
 > [!person-network] 关系网络
 > - **师承／合作者** Gilles Deleuze — 索邦大学同窗，后于1970年代起共同在万森纳实验大学（巴黎第八大学）哲学系任教；Jacques Derrida — 1982–1983年共同创办国际哲学学院，并于加州大学欧文分校共事。
 > - **批评者／论敌** [[Jürgen Habermas]] — 现代性与启启蒙立场的坚定辩护者，视利奥塔的[[Postmodernism\|后现代主义]]为保守的反现代思潮，两人就“现代性的命运”展开长期学术论争。
-> - **现代跨国教育流通与知识商品化研究者** 杰森·比奇（[[Jason Beech]]） 援引利奥塔知识商品化论断，揭示全球教育转移中大学与咨询机构将[[School Effectiveness|学校效能]]技术打包为商品开辟海外市场的学术重商主义机制。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–343)]]
+> - **现代跨国教育流通与知识商品化研究者** [[Jason Beech|杰森·比奇]]（[[Jason Beech]]） 援引利奥塔知识商品化论断，揭示全球教育转移中大学与咨询机构将[[School Effectiveness|学校效能]]技术打包为商品开辟海外市场的学术重商主义机制。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–343)]]
 > - **机构／运动／项目** 
 >   - “社会主义或野蛮”（Socialisme ou Barbarie）极左翼政治组织 — 1954–1964年间为其核心成员，秘密支持阿尔及利亚独立运动。
 >   - 国际哲学学院（Collège International de Philosophie） — 1983年由德里达、利奥塔等人联合创办，利奥塔曾任第二任院长。

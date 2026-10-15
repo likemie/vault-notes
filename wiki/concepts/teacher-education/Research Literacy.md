@@ -6,7 +6,7 @@ aliases:
 summary: "指专业从业者（教师与公职决策者）以维护专业实践完整性与批判思维的方式理解、审视与整合多元方法论研究的能力与德性；不仅是在有效性与适切性之间进行专业判断的中介素养，更是抵御后真相算法操纵、捍卫作为基本民主权利的科学素养的制度基石"
 type: concept
 domain: "teacher-education"
-related_count: 60
+related_count: 61
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Humility]]"
   - "[[Epistemology]]"
   - "[[School Leadership]]"
+  - "[[Recontextualization]]"
   - "[[Creativity]]"
   - "[[Normal School]]"
   - "[[Scaffolding]]"
@@ -85,7 +86,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Research Literacy
@@ -187,7 +188,7 @@ updated: 2026-10-15
 ### 命题一　研究素养让专业实践摆脱艺术与科学的二元对立，把研究使用转化为再情境化过程
 
 > [!concept-lens] 教学作为专业技艺模型
-> 主张把教学理解为充满智慧的专业技艺，[[Research Utilization\|研究使用]]不是照搬论文处方，而是带有专业反思的再情境化创造。
+> 主张把教学理解为充满智慧的专业技艺，[[Research Utilization\|研究使用]]不是照搬论文处方，而是带有专业反思的[[Recontextualization|再情境化]]创造。
 
 > [!claim] Eriksen (2022); Mausethagen & Hermansen (2023)
 > **技艺模型与再情境化裁决** 反对把教学简单划分为纯个人经验手艺或标准化科学处方，主张通过专业技艺模型看待教学：研究素养作为一种德性，在有效性与适切性之间发挥着关键的调和把关作用。实证案例表明，优秀的教师和管理者在面对外部研究时，其选择、改编与整合过程始终兼具探索性与[[Creativity\|创造性]]。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, p. 4)]]
@@ -266,7 +267,7 @@ updated: 2026-10-15
 > - **2022 — 双轨培训拓展与后真相批判免疫** [[OECD\|经合组织]]（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022]]）将研究素养从教师单轨拓展至“教师教育与公职人员培训”双轨，强调对多元方法论的批判性审议，确立其作为抵御商业营销操纵与后真相偏见的核心防线。
 > - **2022 — [[Quality Use of Research Evidence Framework\|QURE]] 框架确立研究素养为深思熟虑参与的个体使能构件** [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]] 基于跨卫生、教育、社会关照与公共政策领域的 [[PRISMA]] [[Systematic Review\|系统综述]]，将研究素养确立为驱动“深思熟虑参与”（Thoughtful Engagement）的核心个体使能构件（技能网络与态度价值观），打破单纯技能[[Deficit Framing\|赤字框架]]，强调[[Knowledge Integration\|知识整合]]与情境化批判审议。
 > - **2023 — 四维操作化与行为模型构建** [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] 基于[[Theory of Planned Behavior\|计划行为理论]]与[[Research Utilization\|研究利用]]模型，提出涵盖意识、态度、技能与使用的四维度量表，实证确立二阶因子结构与科研经验的促进机制。
-> - **2023 — 案例应用与再情境化** Mausethagen & Hermansen (2023) 在挪威学校案例中展示研究素养在实践中的再情境化过程。
+> - **2023 — 案例应用与[[Recontextualization|再情境化]]** Mausethagen & Hermansen (2023) 在挪威学校案例中展示研究素养在实践中的再情境化过程。
 > - **2025 — 赤字批判与专业敏感重构** [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] 批判既有文献将研究素养矮化为个体技能赤字的偏见，确立第四代专业敏感型多源知识整合[[Paradigm\|范式]]。
 > - **2025 — 治理负荷与批判素养缺失下的二手依赖** [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] 揭示市场化中介轰炸下校长批判性研究素养的缺失现状（多数校长不了解研究方法与局限而重度依赖二手摘要），论证制度化[[Practitioner Enquiry\|实践者探究]]（Practitioner Enquiry）对培育真实批判素养的必要性。
 > - **2026 — 纳入跨层治理机制** Hagevold 等人（2026）把研究素养与技能发展机制联系起来，主张技能发展是超出个体层面的系统责任。

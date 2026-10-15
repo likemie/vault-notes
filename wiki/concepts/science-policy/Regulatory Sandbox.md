@@ -8,7 +8,7 @@ aliases:
 summary: "国家科技与产业政策中为新兴颠覆性技术创设的受控豁免试验机制；在划定安全边界与限制时空范围内，免除特定前置行政审批与繁文缛节，允许创新主体在真实运行中快速测试原型并积累一手实证数据，实现从防范假设性风险向循证动态治理的转变。"
 type: concept
 domain: "science-policy"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -40,6 +40,7 @@ related_persons:
   - "[[Michael Kratsios]]"
 related_facts:
   - "[[Department of Energy]]"
+  - "[[EU]]"
   - "[[Nuclear Regulatory Reform Executive Orders 2025]]"
   - "[[Science A New Golden Age 2026]]"
   - "[[Office of Science and Technology Policy]]"
@@ -49,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Regulatory Sandbox
@@ -154,7 +155,7 @@ updated: 2026-10-15
 
 > [!dev-timeline] 监管沙盒概念与制度的演变脉络
 > - **2015 — 英国金融行为监管局（FCA）首创金融科技监管沙盒** 针对移动支付与算法借贷对传统银行牌照的冲击，英国 FCA 首创沙盒机制，开启全球监管沙盒实践。
-> - **2018–2021 — 从金融科技向数字健康与自动驾驶领域扩散** 欧盟、新加坡与美国部分州开始将沙盒机制引入无人驾驶、无人机低空物流与数字医疗穿戴设备监管。
+> - **2018–2021 — 从金融科技向数字健康与自动驾驶领域扩散** [[EU|欧盟]]、新加坡与美国部分州开始将沙盒机制引入无人驾驶、无人机低空物流与数字医疗穿戴设备监管。
 > - **2021 — 犹他州确立全美首部综合性跨行业监管沙盒法案** 打破金融行业专属性，将沙盒机制普遍化为支持全社会技术创新的通用规制工具。
 > - **2025–2026 — 白宫国家科技战略将监管沙盒确立为实体制造转化的国家支柱** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）报告全面推行先进核能、前沿生物医药与先进制造领域的国家级监管沙盒，将其作为落实“[[Permissionless Innovation|无许可创新]]”与重振国家实体技术统治力的核心制度基石。
 

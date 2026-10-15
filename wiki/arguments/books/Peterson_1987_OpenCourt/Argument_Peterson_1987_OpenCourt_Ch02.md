@@ -10,7 +10,7 @@ title: "Argument_Peterson_1987_OpenCourt_Ch02"
 argument_key: "Argument_Peterson_1987_OpenCourt_Ch02"
 argument_display_title: "Schools Across Frontiers: The Story of the International Baccalaureate and the United World Colleges · Ch02"
 argument_kind: "book-chapter"
-argument_related_count: 36
+argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -67,6 +67,7 @@ related_facts:
   - "[[International School of Geneva]]"
   - "[[International Schools Association]]"
   - "[[UNESCO]]"
+  - "[[EU]]"
   - "[[Oxford Council of Europe Studies in Curriculum and Examinations]]"
   - "[[OECD]]"
 related_arguments:
@@ -175,7 +176,7 @@ updated: 2026-09-29
 > [!timeline] 从恢复倡议到第一次课程会议
 > - **1948：国际意识学校会议要求 Ecolint 重启倡议** 这一松散会议与 1925 年问卷收件人网络相似，能够表达共同愿望，却没有形成持续开发课程和考试的执行机构。
 > - **1951：国际学校协会成立** Ecolint 再次发挥组织作用，参与建立国际学校协会，以帮助世界各地不断增加的国际学校处理共同问题。随着这些学校从小学和初中延伸到高中最后阶段，大学准备逐渐成为最紧迫的问题之一。
-> - **1955：范·豪特再次提出国际毕业会考** 欧洲共同体学校创办者范·豪特（Van Houtte）向当时设在 Ecolint 的 ISA 发出新的呼吁。倡议引起学校教师和董事会更多关注，仍未形成可以把理念落实为课程的行动安排。
+> - **1955：范·豪特再次提出国际毕业会考** [[EU|欧洲共同体]]学校创办者范·豪特（Van Houtte）向当时设在 Ecolint 的 ISA 发出新的呼吁。倡议引起学校教师和董事会更多关注，仍未形成可以把理念落实为课程的行动安排。
 > - **1961：Desmond Cole-Baker 把关注转为校内组织** Desmond Cole-Baker 出任 Ecolint 英语部主任后，开始组织教师推进方案，并从日内瓦各国际组织成员中建立支持者委员会。支持者扩大了项目的联系面，日常推动工作仍由教师承担。
 > - **1962：社会研究会议首次明确使用 [[International Baccalaureate]] 名称** Bob Leach 领导 Ecolint 社会研究教师召开小型会议，把国际学校的具体课程问题写进以国际毕业会考为目标的工作议程。理念由此进入有主题、经费、工作论文和外部观察者的课程开发阶段（pp. 17–18）。
 

@@ -10,7 +10,7 @@ aliases:
 summary: "指涉政策观念、治理技术与制度模型在跨国、跨区域及公私异质网络中被解构、转译、变异和再语境化的动态过程；强调政策并非在真空或纯粹地理空间中的静态线性转移，而是伴随社会-技术中介、权力拓扑与资本纽带的流动性装配。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 55
+related_count: 56
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Educational Brokerage Agency]]"
   - "[[Evidence Standards]]"
   - "[[Return on Investment]]"
+  - "[[Public-Private Partnership]]"
   - "[[Infrastructures of Immobility]]"
   - "[[School Autonomy]]"
   - "[[Methodological Nationalism]]"
@@ -83,7 +84,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Policy Mobility
@@ -229,7 +230,7 @@ updated: 2026-10-15
 > |---|---|---|---|
 > | **变异生成命题** | 政策在跨界流动中必然遭遇地方摩擦与[[Recontextualization\|再语境化]]，呈现突变而非机械复制 | 跨国教育改革方案向本土制度转译的动态追踪 | Peck and Theodore (2015); Ball (2016) |
 > | **物质装配命题** | 政策流动必须通过公司法注册、立法特许与因果量规等耐用材料实现长程控制 | 循证中介机构、准市场化实体与数字化平台的创生解析 | Law and Singleton (2005); [[Argument_Rowe_2022_IJER\|Rowe (2022, p. 2)]] |
-> | **资本纽带命题** | 跨国金融与风险慈善资本是驱动快速政策穿梭流动与公私网络聚合的深层引擎 | 跨国基金会注资、公私伙伴关系及教育财政外包研究 | Ball et al. (2017); [[Argument_Rowe_2022_IJER\|Rowe (2022, p. 6)]]; [[Argument_Rowe_2023_ECNUROE\|Rowe (2023, p. 522)]] |
+> | **资本纽带命题** | 跨国金融与风险慈善资本是驱动快速政策穿梭流动与公私网络聚合的深层引擎 | 跨国基金会注资、[[Public-Private Partnership\|公私伙伴关系]]及教育财政外包研究 | Ball et al. (2017); [[Argument_Rowe_2022_IJER\|Rowe (2022, p. 6)]]; [[Argument_Rowe_2023_ECNUROE\|Rowe (2023, p. 522)]] |
 
 ---
 

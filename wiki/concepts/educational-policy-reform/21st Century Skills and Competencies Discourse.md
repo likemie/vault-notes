@@ -12,7 +12,7 @@ aliases:
 summary: "由全球教育治理中的多边组织、国家政府和跨国智库共同推动的政策修辞与规范框架，旨在界定未来劳动力市场所需关键能力并塑造教育政策与自我企业家主体性；实证研究揭示其存在技能空心化、实践转译断裂以及高教宏观倡导与微观评价滞后的制度脱节，二阶元分析证实合作学习对21世纪综合高阶技能具有显著赋能效应（ES = 0.76/0.84）。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 70
+related_count: 71
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -88,6 +88,7 @@ related_persons:
 related_facts:
   - "[[OECD]]"
   - "[[UNESCO]]"
+  - "[[EU]]"
   - "[[European Qualifications Framework]]"
   - "[[Melbourne Declaration]]"
   - "[[PISA]]"
@@ -105,7 +106,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-20
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # 21st Century Skills and Competencies Discourse
@@ -115,7 +116,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> 21 世纪技能与素养[[Discourse|话语]]（21st Century Skills and Competencies Discourse，[[Single-Case Design|SCD]]）是一套在全球教育治理中广泛运作的政策修辞与规范框架。该话语由[[OECD|经合组织]]（OECD）、世界经济论坛（WEF）、[[UNESCO|联合国教科文组织]]（UNESCO）、欧盟委员会及跨国商业智库共同塑造，旨在应对工业 4.0、数字化转型与[[Knowledge-Based Economy|知识经济]]的不确定性，界定未来劳动力参与劳动市场与社会生活所必须具备的关键通用能力（Key Competencies），进而通过国际评估、资格框架和课程重组规约各国的教育改革方向与个体的自我发展责任。在人工智能与先进制造深度重塑劳动形态的新时期，该话语进一步分化为“认知抽象论”与“实体排障手艺论”的深刻反思。[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, p. 254)]]; [[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 4–5)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 51–53, 58)]]
+> 21 世纪技能与素养[[Discourse|话语]]（21st Century Skills and Competencies Discourse，[[Single-Case Design|SCD]]）是一套在全球教育治理中广泛运作的政策修辞与规范框架。该话语由[[OECD|经合组织]]（OECD）、世界经济论坛（WEF）、[[UNESCO|联合国教科文组织]]（UNESCO）、[[EU|欧盟]]委员会及跨国商业智库共同塑造，旨在应对工业 4.0、数字化转型与[[Knowledge-Based Economy|知识经济]]的不确定性，界定未来劳动力参与劳动市场与社会生活所必须具备的关键通用能力（Key Competencies），进而通过国际评估、资格框架和课程重组规约各国的教育改革方向与个体的自我发展责任。在人工智能与先进制造深度重塑劳动形态的新时期，该话语进一步分化为“认知抽象论”与“实体排障手艺论”的深刻反思。[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, p. 254)]]; [[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, pp. 4–5)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 51–53, 58)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 话语将关注焦点从宏观社会结构的再分配改革，转向个体技能与素养的终身积累，将青年与劳动者塑造为必须对自身[[Employability|就业能力]]负全责的“[[Self-Entrepreneur|自我企业家]]”。
@@ -155,7 +156,7 @@ updated: 2026-10-15
 > | **P21 框架 (2009)** | 美国 21 世纪技能伙伴组织 | 基础学科核心、4C 学习创新技能、信息媒体技术、生活职业技能 | 奠定 4C 技能作为全球通用最小公分母的基础 |
 > | **WEF 技能框架 (2016)** | 世界经济论坛 | 基础素养（读写/数理/ICT/财商）、能力（4C）、性格品质（好奇心/韧性） | 劳动力市场直接需求导向，强调适应性与灵活性 |
 > | **OECD Learning Compass 2030 (2019)** | [[OECD\|经合组织]] | 变革性胜任力（创造新价值、调和张力、承担责任）、核心基础素养 | 强调学生能动性（Student Agency）与复合素养 |
-> | **[[European Qualifications Framework\|欧洲资格框架]] (EQF, 2008/2017)** | 欧洲议会与欧盟理事会 | 知识、技能、自主与责任（6–8 级聚焦批判分析与前沿创新） | 具法律效力的区域文凭元框架，驱动成果本位课程改革 |
+> | **[[European Qualifications Framework\|欧洲资格框架]] (EQF, 2008/2017)** | 欧洲议会与[[EU\|欧盟]]理事会 | 知识、技能、自主与责任（6–8 级聚焦批判分析与前沿创新） | 具法律效力的区域文凭元框架，驱动成果本位课程改革 |
 > | **皇家学会交叉素养蓝图 (2026)** | 英国皇家学会 | [[Scientific Literacy\|科学素养]]（证据评估）、[[Data Literacy\|数据素养]]（风险概率）、[[AI Literacy\|AI 素养]]、气候生态素养 | 纠正技能空心化，扎根于学科[[Big Ideas\|大概念]]与面向 18 岁宽口径大纲（p. 31） |
 > | **白宫 OSTP 制造公地与手艺素养 (2026)** | 白宫科技政策办公室 | 现场排障（Troubleshooting）、默会[[Process Knowledge\|过程知识]]、车间动手手艺（Craftsmanship）、人机协同验证 | 批判脱离实体制造的抽象技能空心化，重塑智能时代手艺与排障底座（pp. 51–53, 58） |
 
@@ -248,7 +249,7 @@ updated: 2026-10-15
 > - **阶段零（历史-物质起源） — [[Post-Fordism|后福特主义]]生产组织转型** 能力（Competence）概念源于企业管理由泰勒制向丰田制的转型，后福特主义劳动组织要求新型工人具备流程改善与团队协作能力；进入[[Global Policy Space\|全球政策空间]]后，其具体的资本主义车间历史起源被抽象化为普世教育命题。[[Argument_Beech_2009_CE\|(Beech, 2009a, pp. 353–355)]]
 > - **第一阶段（2000 年代初） — 美国国家框架主导** enGauge（2003）与美国 P21（2009）框架确立 4C 技能（[[Critical Thinking\|批判性思维]]、[[Creativity\|创造力]]、协作、沟通）雏形，强调数字时代素养。
 > - **第二阶段（2010 年代） — 跨国协调与多边私营共建** ATCS 跨国评估项目、美国 NRC 报告（2012）与世界经济论坛（WEF, 2016）加入，私营部门直接介入技能标准设定，确立标准化测量意图。
-> - **第三阶段（2010 年代末至 2020 年代初） — 全球指标趋同与产品下沉** [[OECD]]《学习罗盘 2030》（2019）与欧盟八大关键素养高度同质化；[[PISA]] 通过创新领域（协作[[Problem Solving\|问题解决]]、创造性思维）实现跨国测量落地。（OECD, 2019; [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka, 2022, p. 254]]）
+> - **第三阶段（2010 年代末至 2020 年代初） — 全球指标趋同与产品下沉** [[OECD]]《学习罗盘 2030》（2019）与[[EU|欧盟]]八大关键素养高度同质化；[[PISA]] 通过创新领域（协作[[Problem Solving\|问题解决]]、创造性思维）实现跨国测量落地。（OECD, 2019; [[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka, 2022, p. 254]]）
 > - **第四阶段（2020 年代中） — 智能时代交叉素养与学科[[Epistemology\|认识论]]重构** 面对大模型与生成式 AI 冲击，以英国皇家学会（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]]）为代表的科学界反思抽象技能空心化，提出将 21 世纪核心素养扎根于四大交叉支柱：[[Scientific Literacy\|科学素养]] + [[Data Literacy\|数据素养]] + AI 素养 + 气候生态素养。
 > - **第五阶段（2020 年代后期） — 高等教育真实[[Authentic Assessment\|表现性评价]]与政策杠杆重构** OECD 报告（[[Argument_Bouckaert_2023_OECD\|Bouckaert, 2023]]）引领从“口头倡导”转向“评价生态重构”，通过 [[TESTA Project\|TESTA]] 全课程整合评价、VALUE 量规校准与高利害统考增设大口试答辩，实质性破除 21 世纪素养落地的评价瓶颈。
 > - **第六阶段（2026 年） — 实体制造公地、排障手艺与自动化机器核验** 白宫科技政策办公室（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）战略报告将技能话语从纯认知与软件抽象拉回物理现实，强调在[[Man-Computer Symbiosis|人机共生]]时代，车间动手实训、仪器建造技艺、现场排障直觉与黄金标准机器自动化核验构成不可替代的高阶素养新支柱。

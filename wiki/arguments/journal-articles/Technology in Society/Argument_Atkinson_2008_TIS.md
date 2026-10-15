@@ -58,6 +58,7 @@ related_facts:
   - "[[Bayh-Dole Act of 1980]]"
   - "[[Academic Ranking of World Universities]]"
   - "[[National Science Foundation]]"
+  - "[[EU]]"
   - "[[Chinese Academy of Sciences]]"
   - "[[American Association for the Advancement of Science]]"
   - "[[Morrill Land-Grant Act of 1862]]"
@@ -95,7 +96,7 @@ title: "Argument_Atkinson_2008_TIS"
 argument_key: "Argument_Atkinson_2008_TIS"
 argument_display_title: "Research universities: Core of the US science and technology system"
 argument_kind: "journal-article"
-argument_related_count: 58
+argument_related_count: 59
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -153,7 +154,7 @@ issuing_organization: ""
 > |---|---|
 > | **文本样本** | 《科学：[[Science, The Endless Frontier 1945\|无尽的前沿]]》原始报告、1976 年《国家科学技术政策、组织和优先事项法案》、1980 年《[[Bayh-Dole Act of 1980\|拜杜法案]]》文本、国家科学基金会（[[National Science Foundation\|NSF]]）历年预算申请报告与政策审议档案。 |
 > | **统计样本** | 全美 4,387 所高等教育机构（2006 年卡内基分类）、199 所高水平[[Research Universities\|研究型大学]]（96 所极高研究活动研究型大学 [Research Universities/Very High research activity, RU/VH] 与 103 所高研究活动研究型大学 [Research Universities/High research activity, RU/H]）、全美科研支出排名前 100 位大学纵向数据。 |
-> | **材料情境** | 宏观政策史料覆盖 1940 至 2006 年；国际比较覆盖欧洲联盟诸国、日本科技基本计划实施进展及中国面向高水平大学的建设态势。 |
+> | **材料情境** | 宏观政策史料覆盖 1940 至 2006 年；国际比较覆盖[[EU\|欧洲联盟]]诸国、日本科技基本计划实施进展及中国面向高水平大学的建设态势。 |
 
 ---
 
@@ -305,7 +306,7 @@ issuing_organization: ""
 > - **中国：苏联式科学院模式重构与研究生体制改革**
 >   1949 年后采纳苏联模式，[[Chinese Academy of Sciences|中国科学院]]（CAS）承担三分之二以上学术科研，大学专司教育部统编教学；1978 年后虽恢复研究生院并设立[[National Natural Science Foundation of China|国家自然科学基金委员会]]（National Natural Science Foundation of China, NSFC），高水平大学推进研究生培养改革，但部属集权与科学院分立格局仍待实质性融通。（pp.42–43）
 
-> [!contrast-table] 欧洲联盟科研一体化努力与其创新转化瓶颈
+> [!contrast-table] [[EU|欧洲联盟]]科研一体化努力与其创新转化瓶颈
 > | 比较维度 | 欧洲联盟一体化政策与产出 | 美国对应现状与制度参照 | 制度瓶颈分析 |
 > |---|---|---|---|
 > | **论文产出总量** | 2001 年占全球科学论文的 33% | 2001 年占全球科学论文的 29% | 欧盟通过[[European Research Area\|欧洲研究区]]（ERA）与流动项目使学术论文量超越美国（p.43） |

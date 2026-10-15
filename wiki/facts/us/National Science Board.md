@@ -32,7 +32,7 @@ related_concepts:
   - "[[Research Translation]]"
   - "[[University-Industry Collaboration]]"
   - "[[Going Native]]"
-  - "[[Public-Private Partnership in Research]]"
+  - "[[Public-Private Partnership]]"
 related_theories: []
 related_methods: []
 related_instruments: []

@@ -12,7 +12,7 @@ subtype: event
 region: "chile"
 fact_region: "chile"
 fact_kind: "event"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -24,6 +24,7 @@ tags:
   - neoliberalism
   - region/chile
 related_concepts:
+  - "[[Subsidiarity Principle]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Dual School System]]"
 related_theories:
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-09-28
+updated: 2026-10-16
 ---
 
 # Chilean Educational Reform of 1981
@@ -57,7 +58,7 @@ updated: 2026-09-28
 > - **时间跨度 / 空间地理** 1980–1981 年颁布启动并持续主导智利教育体制数十年；覆盖智利全国初等、中等及高等教育体系。
 > - **核心当事主体** 智利皮诺切特（Augusto Pinochet）军事独裁政权、“芝加哥男孩”（Chicago Boys）技术官僚团队、私立营利性学校集团。
 > - **深层制度与社会背景** 1973 年政变后，军政府全面清洗左翼教师与学者，采纳弗里德曼与新自由主义经济学的极端处方，将教育视作私人[[Human Capital Theory|人力资本]]投资而非公民权利。
-> - **直接导火索** 1980 年军政府强行通过新宪法，确立了削减国家公共职能的从属性原则（Principle of Subsidiarity）。
+> - **直接导火索** 1980 年军政府强行通过新宪法，确立了削减国家公共职能的从属性原则（[[Subsidiarity Principle|Principle of Subsidiarity]]）。
 
 ---
 

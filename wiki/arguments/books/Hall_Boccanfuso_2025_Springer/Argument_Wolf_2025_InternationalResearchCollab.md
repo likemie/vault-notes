@@ -40,6 +40,7 @@ related_facts:
   - "[[University Industry Demonstration Partnership]]"
   - "[[African Orphan Crops Consortium]]"
   - "[[Innovation Institute for Food and Health]]"
+  - "[[EU]]"
   - "[[National Science Foundation]]"
   - "[[National Institutes of Health]]"
   - "[[Department of Energy]]"
@@ -58,7 +59,7 @@ title: "Argument_Wolf_2025_InternationalResearchCollab"
 argument_key: "Argument_Wolf_2025_InternationalResearchCollab"
 argument_display_title: "International research collaborations between universities and industry"
 argument_kind: "book"
-argument_related_count: 28
+argument_related_count: 29
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -127,7 +128,7 @@ citation_aliases:
 > [!warning] 第二层：合作经验与渠道（Know-how）
 > 即使双方目标对齐，许多机构仍缺乏启动国际合作的实务经验(p.312)。具体表现为：不知道如何找到合适的技术专家、不了解对方的预算和决策日历、不清楚国际项目的合同[[Paradigm\|范式]]和合规要求。
 >
-> 可用的辅助工具包括 Halo（AI 驱动的产学研对接平台）、Elsevier SciVal（覆盖 24000 所研究机构的合作分析工具）、EU Funding and Tenders Portal（欧盟资助项目与研究者检索），以及美国 [[National Science Foundation\|NSF]]、[[National Institutes of Health|NIH]]、[[Department of Energy|DOE]] 的资助数据库(pp.312–313)。这些工具解决的是"找谁合作"的问题，前提是双方已有初步合作意向。"为什么要合作"需要回到第一层的目标对齐。
+> 可用的辅助工具包括 Halo（AI 驱动的产学研对接平台）、Elsevier SciVal（覆盖 24000 所研究机构的合作分析工具）、[[EU]] Funding and Tenders Portal（欧盟资助项目与研究者检索），以及美国 [[National Science Foundation\|NSF]]、[[National Institutes of Health|NIH]]、[[Department of Energy|DOE]] 的资助数据库(pp.312–313)。这些工具解决的是"找谁合作"的问题，前提是双方已有初步合作意向。"为什么要合作"需要回到第一层的目标对齐。
 
 ---
 

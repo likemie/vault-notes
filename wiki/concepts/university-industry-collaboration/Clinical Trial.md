@@ -28,7 +28,7 @@ related_concepts:
   - "[[Regulatory Sandbox]]"
   - "[[Internal Validity]]"
   - "[[Contract Research Organization]]"
-  - "[[Public-Private Partnership in Research]]"
+  - "[[Public-Private Partnership]]"
   - "[[Advance Market Commitments]]"
   - "[[Valley of Death]]"
   - "[[Cooperative Research and Development Agreement]]"
@@ -118,7 +118,7 @@ updated: 2026-10-15
 > - **双盲随机对照设计（[[Blinding|double-blind]] [[Randomised Controlled Trials|RCT]] Protocol）** 通过受试者与研究者双向[[Blinding|盲法]]及[[Random Assignment|随机分组]]，彻底隔绝安慰剂效应与分配偏误，构筑最高等级[[Internal Validity|内部效度]]。
 > - **[[Academic Medical Center|学术医学中心]]与[[Contract Research Organization|合同研究组织]]协同（AMC & CRO Synergy）** 产业方依托[[Contract Research Organization|合同研究组织]]（CRO）处理数据监查与行政合规，同时依托顶尖学术医学中心处理复杂病例救治与前沿机理研究。
 > - **真实世界数据与自适应试验设计（RWE & Adaptive Designs）** 借助电子病历、随访数据库与自适应终点调整，打破传统僵化试验协议，实现动态[[Sample Size Determination|样本量]]修正。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 38)]]
-> - **独立公私伙伴加速平台（Independent [[Public-Private Partnership in Research|PPP]] Platforms）** 依托独立法定基金会（如 FNIH）搭建[[Accelerating Medicines Partnership|加速药物伙伴关系]]（AMP），跨药企共享临床前靶点数据与早期试验资源。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 42)]]
+> - **独立公私伙伴加速平台（Independent [[Public-Private Partnership|PPP]] Platforms）** 依托独立法定基金会（如 FNIH）搭建[[Accelerating Medicines Partnership|加速药物伙伴关系]]（AMP），跨药企共享临床前靶点数据与早期试验资源。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 42)]]
 
 ---
 
@@ -248,4 +248,4 @@ updated: 2026-10-15
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Block_2008_PS|Block (2008)]] — 从隐蔽[[Developmental Network State|发展型网络国家]]的理论视阈，以抗癌药紫杉醇（Taxol）等经典个案剖析联邦公共部门（[[National Institutes of Health|NIH]]/NCI）在临床试验早期承担的关键试错风险，深刻批判《[[Bayh-Dole Act of 1980|拜杜法案]]》与排他性商业许可导致的“风险社会化、利润私人化”制度弊端，论证建立公共收益回流信托的必要性。
-> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室国家战略报告，系统剖析临床试验审批迟滞导致的创新外流与成本攀升，提出 FDA 接受真实世界证据、推行单项高功效确证试验、设立[[Regulatory Sandbox|监管沙盒]]与推进 [[Accelerating Medicines Partnership|AMP]] 公私伙伴关系的改革蓝图。
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室国家战略报告，系统剖析临床试验审批迟滞导致的创新外流与成本攀升，提出 FDA 接受真实世界证据、推行单项高功效确证试验、设立[[Regulatory Sandbox|监管沙盒]]与推进 [[Accelerating Medicines Partnership|AMP]] [[Public-Private Partnership|公私伙伴关系]]的改革蓝图。

@@ -9,7 +9,7 @@ aliases:
 summary: "西方教育思想史上关于知识组织和传授的一对经典二元范式：disciplina 侧重既有知识的灌训与规训，doctrina 侧重知识的动态生产与开放更新。在当代超国家治理中，跨国测评与绩效排位赛作为强有力的远处规训机制（disciplina），将主权国家课程收拢至标准化常模，压制了本土关于教育目的的民主审议（Rizvi & Lingard, 2009）。"
 type: concept
 domain: "educational-philosophy"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -50,6 +50,7 @@ related_persons:
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
+  - "[[EU]]"
 related_arguments:
   - "[[Argument_Schaffar_2024_CogentEdu]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-22
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Disciplina and Doctrina
@@ -139,7 +140,7 @@ updated: 2026-10-15
 > 本命题将规训与知识更新的张力拓展至宏观学术体制，剖析外部政策资助与技术官僚治理如何规训学者的知识生产活动。
 
 > [!claim] [[Argument_Mitter_2009_Europe|Mitter (2009)]]
-> **科研资助与政策问责对知识生产的规训化** 米特指出，后冷战与全球化时代超国家治理机构（如 [[OECD]]、欧盟）及国家科研资助体系对学术研究施加了前所未有的“规训压力”（disciplining pressure）。学术探究原本具有的开放创新与批判性知识生产面向（doctrina）受到严密约束，被迫屈从于以经济[[Competitiveness|竞争力]]、[[Human Capital Theory|人力资本]]测度与短期政策效用为导向的技术官僚规训框架（disciplina）。这种规训压力使学者从独立的制度批判者退化为政策合规的论证者。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 96)]]
+> **科研资助与政策问责对知识生产的规训化** 米特指出，后冷战与全球化时代超国家治理机构（如 [[OECD]]、[[EU|欧盟]]）及国家科研资助体系对学术研究施加了前所未有的“规训压力”（disciplining pressure）。学术探究原本具有的开放创新与批判性知识生产面向（doctrina）受到严密约束，被迫屈从于以经济[[Competitiveness|竞争力]]、[[Human Capital Theory|人力资本]]测度与短期政策效用为导向的技术官僚规训框架（disciplina）。这种规训压力使学者从独立的制度批判者退化为政策合规的论证者。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 96)]]
 
 ---
 

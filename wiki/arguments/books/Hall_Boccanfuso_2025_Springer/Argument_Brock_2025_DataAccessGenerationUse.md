@@ -26,6 +26,7 @@ related_persons:
   - "[[James Madison]]"
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
+  - "[[EU]]"
   - "[[National Institutes of Health]]"
   - "[[World Bank]]"
   - "[[National Science Foundation]]"
@@ -44,9 +45,9 @@ title: "Argument_Brock_2025_DataAccessGenerationUse"
 argument_key: "Argument_Brock_2025_DataAccessGenerationUse"
 argument_display_title: "Data: Access, generation, use"
 argument_kind: "book"
-argument_related_count: 14
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_count: 15
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
 book_title: "University-Industry Collaboration: Innovation at the Interface"
 year: 2025
@@ -80,7 +81,7 @@ citation_aliases:
 ## 研究方法
 
 > [!info]
-> 这是一篇法律与政策综述（legal and policy review），不是实证研究。作者基于自身在大学赞助项目办公室和产学合同领域的执业经验，广泛引用联邦法规（HIPAA、FERPA、Privacy Act）、联邦标准（NIST SP 800-53）、欧盟法规（GDPR、Data Governance Act）、学术文献 (Tedersoo et al., 2021; Wilkinson et al., 2016; Klein & Verhulst, 2017)和大学政策（UW-Madison、UW、U-M、UVA、Yale），构建了[[University-Industry Collaboration\|产学合作]]中数据治理的全景参考框架。
+> 这是一篇法律与政策综述（legal and policy review），不是实证研究。作者基于自身在大学赞助项目办公室和产学合同领域的执业经验，广泛引用联邦法规（HIPAA、FERPA、Privacy Act）、联邦标准（NIST SP 800-53）、[[EU|欧盟]]法规（GDPR、Data Governance Act）、学术文献 (Tedersoo et al., 2021; Wilkinson et al., 2016; Klein & Verhulst, 2017)和大学政策（UW-Madison、UW、U-M、UVA、Yale），构建了[[University-Industry Collaboration\|产学合作]]中数据治理的全景参考框架。
 
 ---
 
@@ -95,7 +96,7 @@ citation_aliases:
 在[[University-Industry Collaboration|产学合作]]的实践中，[[University Industry Demonstration Partnership|UIDP]] Contract Accord 14(2020)提供了更适用的定义："数据指由一方在定义条件下提供给另一方使用的一组记录信息"(p.290)。
 
 > [!warning]
-> 定义的碎片化制造了一个结构性问题：在同一份产学协议中，不同来源的数据可能受不同的法律框架约束。一个融合多种数据源的研究项目——其数据库可能同时包含受《健康保险可携性和责任法案》（Health Insurance Portability and Accountability Act, HIPAA）保护的健康信息、受 FERPA 保护的学生记录、以及受《通用数据保护条例》（General Data Protection Regulation, GDPR）保护的欧盟数据——如果协议未能精确界定每种数据的定义和各自适用的规则，不同法律框架之间的缝隙就可能成为合规漏洞。
+> 定义的碎片化制造了一个结构性问题：在同一份产学协议中，不同来源的数据可能受不同的法律框架约束。一个融合多种数据源的研究项目——其数据库可能同时包含受《健康保险可携性和责任法案》（Health Insurance Portability and Accountability Act, HIPAA）保护的健康信息、受 FERPA 保护的学生记录、以及受《通用数据保护条例》（General Data Protection Regulation, GDPR）保护的[[EU|欧盟]]数据——如果协议未能精确界定每种数据的定义和各自适用的规则，不同法律框架之间的缝隙就可能成为合规漏洞。
 
 > [!example]
 > 一个具体情境可以说明这种碎片化的后果。一所大学的教育学院与一家教育科技公司合作开展研究，项目涉及三个数据来源：学生课堂行为视频（触发 FERPA）、学生在 App 中填写的心理健康自评[[Questionnaire\|问卷]]（触发 HIPAA）、以及来自公司在德国分部的用户日志（触发 GDPR）。这三类数据在"数据"定义、披露限制和跨境传输规则上各自受不同的法规约束。如果协议只笼统地写"所有项目数据归公司所有"，而没有区分三类数据的不同法律地位，一旦家长根据 FERPA 要求查阅其子女的数据、或德国用户依据 GDPR 行使数据删除权，协议将无法提供清晰的操作指引。
@@ -253,7 +254,7 @@ citation_aliases:
 > 学术界的"数据共享理想"与行为现实之间存在系统性的落差。不足 40% 的顶尖期刊论文作者在收到请求后实际提供数据。企业端的共享障碍更为深层：竞争优势顾虑、法律保密义务、基础设施成本和跨国合规风险叠加，使数据共享从技术问题变为组织战略问题。Klein & Verhulst(2017)提出的六种动机框架（互惠、研究、声誉、收入、法规遵从、责任与慈善）为诊断企业共享意愿提供了分析工具(pp.295–296)。
 
 > [!success]
-> 隐私和安全法规环境在 20 个州层面和欧盟层面的快速变化，构成了产学数据协议的动态合规风险。大学数据分类政策（以 UW-Madison 的四级分类和 UW 的研究数据政策为代表）为协议条款提供了制度基线。DFARS 网络安全要求从联邦国防合同向大学研究分包的"溢出"是当前最尖锐的合规摩擦点(pp.294–300)。
+> 隐私和安全法规环境在 20 个州层面和[[EU|欧盟]]层面的快速变化，构成了产学数据协议的动态合规风险。大学数据分类政策（以 UW-Madison 的四级分类和 UW 的研究数据政策为代表）为协议条款提供了制度基线。DFARS 网络安全要求从联邦国防合同向大学研究分包的"溢出"是当前最尖锐的合规摩擦点(pp.294–300)。
 
 > [!success]
 > UIDP Contract Accord 14(2020)的 13 条数据条款特征，从定义、授权、时间、处置、衍生管理、安全到发表审查，构成了产学数据协议的完整操作清单。其核心逻辑可归结为一条原则：数据应独立于知识产权、发明和保密信息的传统范畴，作为独立的协议议题被定义、授权和限制(p.304)。

@@ -10,7 +10,7 @@ aliases:
 summary: "人工智能伦理学、人机协同与规范技术哲学核心构念，指在自动化与智能系统辅助决策全流程中，人类保持对系统因果链的主动追踪与价值响应能力，主导分歧仲裁与道德裁决权，防止人在回路退化为形式化橡皮图章。"
 type: concept
 domain: "educational-technology"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -54,7 +54,8 @@ related_instruments: []
 related_persons:
   - "[[Immanuel Kant]]"
   - "[[Socrates]]"
-related_facts: []
+related_facts:
+  - "[[EU]]"
 related_arguments:
   - "[[Argument_Jansen_2026_EPR]]"
   - "[[Argument_Jovchevski_2026_PT]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Meaningful Human Control
@@ -219,7 +220,7 @@ updated: 2026-10-15
 > [!dev-timeline] 有意义人类控制的概念演变脉络
 > - **2014–2015 年 — 国际人道法与自主武器治理发轫** 面对致命自主武器系统（LAWS）的伦理争议，“第36条（Article 36）”组织与学者正式提出“有意义的人类控制（MHC）”，主张不能将致命武力使用权完全托付给自动化算法（Horowitz & Scharre, 2015）。
 > - **2018 年 — 规范哲学与系统工程理论奠基** 菲利波·桑托尼·德西奥（Filippo Santoni de Sio）与耶罗恩·范登霍芬（Jeroen van den Hoven）系统提出追踪条件与响应条件，将 MHC 从单纯的军事政治口号转化为严格的哲学与工程设计理论。
-> - **2021–2024 年 — 欧盟 AI 法案与人机监管制度化** 欧盟《人工智能法案》（EU AI Act）与人工智能高级别专家组（HLEG AI）将人类监督（Human Oversight）与人在回路确立为高风险 AI 系统的强制性法定合规要求。
+> - **2021–2024 年 — [[EU|欧盟]] AI 法案与人机监管制度化** 欧盟《人工智能法案》（EU AI Act）与人工智能高级别专家组（HLEG AI）将人类监督（Human Oversight）与人在回路确立为高风险 AI 系统的强制性法定合规要求。
 > - **2026 年 — [[Scientific Method|科学方法]]学[[Operationalization|操作化]]与证据综合[[Paradigm|范式]]构建** [[Argument_Jansen_2026_EPR|Jansen et al. (2026)]] 结合 RAISE 准则，首次将 MHC 严格操作化于[[Meta-meta-analysis|二阶元分析]]证据综合，确立了多模型背对背提取与专家分歧仲裁的帕累托最优架构。
 > - **2026 年 — [[Automation Bias|强自动化偏差]]哲学批判与[[Epistemic Friction|认识论摩擦]]重构** [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] 深刻批判人在回路的“橡皮图章化”病理，阐明强自动化偏差对道德能动性的侵蚀，并提出基于反思机器与[[Defeater|击败者]]注入认识论摩擦的全新设计方案。
 

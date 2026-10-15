@@ -46,6 +46,7 @@ related_persons:
   - "[[Vannevar Bush]]"
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
+  - "[[EU]]"
   - "[[Lisbon Strategy]]"
 related_arguments:
   - "[[Argument_Pavitt_1984_RP]]"
@@ -61,7 +62,7 @@ title: "Argument_Caraca_2009_TFSC"
 argument_key: "Argument_Caraca_2009_TFSC"
 argument_display_title: "The changing role of science in the innovation process: From Queen to Cinderella? Technological Forecasting and Social Change, 76(6), 861–867"
 argument_kind: "journal-article"
-argument_related_count: 26
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -183,7 +184,7 @@ issuing_organization: ""
 
 **政策后果(p.862)**
 
-- 欧盟[[Lisbon Strategy|里斯本议程]]推出巴塞罗那目标：私人 R&D 占 GDP 2%、公共 R&D 占 GDP 1%。底层逻辑仍是线性模型。
+- [[EU|欧盟]][[Lisbon Strategy|里斯本议程]]推出巴塞罗那目标：私人 R&D 占 GDP 2%、公共 R&D 占 GDP 1%。底层逻辑仍是线性模型。
 - 创新产出未反映科学投入时，落差被标记为欧洲悖论。
 - 政策反应不是反思线性模型的前提假设，而是推动科学商业化。
 - 大学被推向专利生产者角色，其为产业和社会培养具有[[Critical Thinking|批判性思维]]的毕业生的根本功能被系统忽视。
@@ -294,7 +295,7 @@ Kline & Rosenberg（1986）的[[Chain-linked Model|链式模型]]是对线性模
 
 > [!stat-cards]- 关键数据
 > - **≈ 0.2% → 2.0%** Bernal（1939）测量英国 R&D 占 GNP 并主张的提高目标 (p.862)。
-> - **2% + 1%** 欧盟巴塞罗那目标，私人 R&D 占 GDP 2%、公共 R&D 占 GDP 1%。
+> - **2% + 1%** [[EU|欧盟]]巴塞罗那目标，私人 R&D 占 GDP 2%、公共 R&D 占 GDP 1%。
 
 ---
 

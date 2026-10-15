@@ -9,7 +9,7 @@ title: "Argument_Rømer_2018_EPT"
 argument_key: "Argument_Rømer_2018_EPT"
 argument_display_title: "A critique of John Hattie's theory of Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 23
+argument_related_count: 24
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -49,7 +49,8 @@ related_persons:
   - "[[John Hattie]]"
   - "[[Ernst von Glasersfeld]]"
   - "[[Socrates]]"
-related_facts: []
+related_facts:
+  - "[[EU]]"
 related_arguments: []
 sources:
   - "[[sources/Romer_2018_EPT|Romer_2018_EPT]]"
@@ -113,7 +114,7 @@ citation_aliases:
 > 2. 反馈包含演绎（将学生行为导入操作性目标结构）和归纳两个方面
 > 3. 关键的归纳方面：反馈最有力的是"从学生到教师"——使学习对教师可见，让教师成为"自身效果的学徒"
 > 4. 这与 Peters 的"教育即启蒙"（education as initiation）完全相反——反馈不是让文化、艺术、科学对学生可见
-> 5. 逐级上收集权化效应：学生→教师→年级团队→校长→市政府→国家/欧盟——每一层都收集下层的 d>0.4 信息并以此控制下层
+> 5. 逐级上收集权化效应：学生→教师→年级团队→校长→市政府→国家/[[EU|欧盟]]——每一层都收集下层的 d>0.4 信息并以此控制下层
 > 6. 最终形成一个全国性的、分级的数据驱动有机体，连儿童和家庭的私生活都纳入其中(p.9)
 >
 > ### 论证五：Hattie 误读 Popper 三个世界理论

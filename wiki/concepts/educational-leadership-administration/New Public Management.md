@@ -26,7 +26,7 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Discourse]]"
   - "[[Doxa]]"
-  - "[[Public-Private Partnership in Research]]"
+  - "[[Public-Private Partnership]]"
   - "[[Champ]]"
   - "[[Public Dynamic Capabilities]]"
   - "[[Steering at a Distance]]"
@@ -111,7 +111,7 @@ updated: 2026-10-15
 > - **边界** 不等于公共服务的彻底私有化与完全放弃国家责任，而是国家通过远程[[Governing by Numbers|数字治理]]、[[Performance Indicators|绩效指标]]与合约外包在准市场环境中实施间接控制。
 
 > [!citation-card] 治理[[Discourse|话语]]的[[Doxa|不言自明]]化
-> 新公共管理的话语已经深刻嵌入教育结构之中：效率、效能、绩效、质量保证、[[Public-Private Partnership in Research|公私合作伙伴关系]]等术语全面覆盖基础教育与高等教育各层级，演进为[[Champ|场域]]内不言自明的前提假定。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]
+> 新公共管理的话语已经深刻嵌入教育结构之中：效率、效能、绩效、质量保证、[[Public-Private Partnership|公私合作伙伴关系]]等术语全面覆盖基础教育与高等教育各层级，演进为[[Champ|场域]]内不言自明的前提假定。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]
 >
 > *NPM discourses have become deeply embedded in educational structures, with efficiency, performance, and accountability naturalized as self-evident axioms.*
 
@@ -159,7 +159,7 @@ updated: 2026-10-15
 > - **产出控制与性价比核算** 以可量化的产出指标评价机构，将投入产出比（Value for Money, VfM）作为资源配置的核心前提。[[Argument_Helgetun_2022_JEP|(Helgetun & Menter, 2022, p. 90)]]
 > - **准市场竞争与供给多元化** 推动学校、大学与研究机构为生源与科研经费展开竞争，引入多元民营与社会供给主体。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 96–97)]]
 > - **管理主义问责替代专业自主** 要求机构领导者对运行效率承担直接责任，使专业人员身份演变为国家改革政令的执行交付者。[[Argument_Eacott_2011_JEAH|(Eacott, 2011, p. 52)]]
-> - **[[Public-Private Partnership in Research|公私合作伙伴关系]]与广泛外包** 促进公共机构与私营资本、商业中介及外部咨询公司的深度整合，形成庞大的服务外包生态。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]
+> - **[[Public-Private Partnership|公私合作伙伴关系]]与广泛外包** 促进公共机构与私营资本、商业中介及外部咨询公司的深度整合，形成庞大的服务外包生态。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]
 > - **组织[[Cognitive Deskilling|去技能化]]与“青蛙视角”** 长期将核心战略与评估职能[[Externalization|外部化]]，剥离了公共部门内生解决问题的实践机会，导致公共管理者陷入只看眼前微观指标的认知局限。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 791–792)]]
 
 > [!logic-map]- 要素关系
@@ -203,7 +203,7 @@ updated: 2026-10-15
 > **绩效拨款的制度化马太效应** 大学[[Research Excellence Framework|研究卓越框架]]（REF）等绩效评估机制与经费拨款紧密挂钩，指标体系系统性偏向已有优势的顶尖精英机构，导致高等教育体系内部的资源配置极化与制度化分层。[[Argument_Schulze-Cleven_2017_HighEduc|(Schulze-Cleven et al., 2017, pp. 801–802)]]
 
 > [!claim] [[Argument_Amos_2022_Springer|Amos (2022)]]
-> **[[Knowledge-Based Economization|知识经济化]]与公私伙伴关系** [[Human Capital Theory|人力资本理论]]与公共选择学派将知识定义为纯粹的经济生产要素，确立了[[Knowledge-Based Economization|知识经济化]]假设，并通过[[Public-Private Partnership in Research|公私合作伙伴关系]]（PPP）将商业智库与私营资本深嵌于教育服务体系中。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]
+> **[[Knowledge-Based Economization|知识经济化]]与[[Public-Private Partnership|公私伙伴关系]]** [[Human Capital Theory|人力资本理论]]与公共选择学派将知识定义为纯粹的经济生产要素，确立了[[Knowledge-Based Economization|知识经济化]]假设，并通过公私合作伙伴关系（PPP）将商业智库与私营资本深嵌于教育服务体系中。[[Argument_Amos_2022_Springer|(Amos, 2022, p. 56)]]
 
 ---
 

@@ -7,7 +7,7 @@ title: "Argument_Sobe_Fischer_2009_MobilityMigration"
 argument_key: "Argument_Sobe_Fischer_2009_MobilityMigration"
 argument_display_title: "Mobility, Migration and Minorities in Education"
 argument_kind: "book-chapter"
-argument_related_count: 49
+argument_related_count: 50
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -78,6 +78,7 @@ related_persons:
   - "[[Nikolas Rose]]"
   - "[[António Nóvoa]]"
 related_facts:
+  - "[[EU]]"
   - "[[TEMPUS]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Hukou System]]"
@@ -107,7 +108,7 @@ updated: 2026-10-10
 > 现代学校不仅坐落在特定的地理位置上，其日常运作本身就是一套管理人口的空间技术。在欧美政策话语中，[[Student Mobility|学生流动性]]被赋予了截然相反的价值评价：欧洲一体化将精英大学生自主的跨国求学赞许为培育欧洲认同与就业[[Competitiveness|竞争力]]的时代美德，而美国基础教育绩效问责制则将底层家庭因生计困境而中途转学贬斥为破坏学校成绩的病态缺陷。中国、美国、西班牙、英国与印度的案例表明，学校既是把学生圈禁在固定场所内的行政容器，又是评判学生是否具备向上流动资格的筛选关卡；要透视[[Migrant Children|流动儿童]]面临的制度排斥，必须打破只关注资源分配的传统思路，将空间物质管理与文化分类标准结合起来进行考察。（pp. 359–361, 367–368）
 
 > [!concept-lens] 阅读透镜
-> - **考察对象** 欧洲联盟（European Union，EU）与美国教育政策关于学生流动的官方[[Discourse|话语]]，以及中国、美国、西班牙、英国与印度的移民、少数族裔与流动儿童就学案例。
+> - **考察对象** [[EU|欧洲联盟]]（European Union，EU）与美国教育政策关于学生流动的官方[[Discourse|话语]]，以及中国、美国、西班牙、英国与印度的移民、少数族裔与流动儿童就学案例。
 > - **核心张力** 精英自主跨国求学所获得的赞美，与底层被动转学所遭遇的污名化之间的阶层反差；国家推行[[Sedentarism|定居主义]][[Disciplina and Doctrina|规训]]与边缘群体维护生存自主权之间的持续博弈。
 > - **理论洞见** 打破将空间视为中立地理容器的传统假定，提出结合空间[[Governmentality|治理术]]与[[Two Problematics of Educational Inclusion and Exclusion|双重问题式]]的分析路径。
 
@@ -140,7 +141,7 @@ updated: 2026-10-10
 > [!sample-panel]- 案例与经验材料全景快照
 > | 案例地区 | 考察人群与核心材料 | 空间与制度冲突焦点 |
 > |---|---|---|
-> | **欧洲联盟** | 高等教育阶段本科生与研究生；伊拉斯谟计划（European Community Action Scheme for the Mobility of University Students，ERASMUS）、天普计划（Trans-European Mobility Programme for University Studies，[[TEMPUS]]）。 | 跨国公民认同塑造、欧洲性（Europeanness）公民资产建构与[[Employability\|就业能力]]个体化包装。（pp. 362–363） |
+> | **[[EU\|欧洲联盟]]** | 高等教育阶段本科生与研究生；伊拉斯谟计划（European Community Action Scheme for the Mobility of University Students，ERASMUS）、天普计划（Trans-European Mobility Programme for University Studies，[[TEMPUS]]）。 | 跨国公民认同塑造、欧洲性（Europeanness）公民资产建构与[[Employability\|就业能力]]个体化包装。（pp. 362–363） |
 > | **美国基础教育** | 基础教育阶段中小学（Kindergarten through Twelfth Grade，K–12）学生；2001 年《[[No Child Left Behind Act 2001\|不让一个孩子掉队法案]]》（No Child Left Behind Act，NCLB）推行的学校报告卡。 | 学年中途频繁转校被定性为[[Transiency\|流动漂泊]]（Transiency），作为贫困缺陷与解释绩效未达标的减分指标。（pp. 363–364） |
 > | **中国城乡随迁** | 约 2000 万农村进城务工随迁学龄儿童；[[Hukou System\|户籍制度]]（户口登记条例）、打工子弟学校政策。 | 城乡二元户口壁垒将流动儿童排斥在城市公立学校之外；民间自办[[Schools for Migrant Children\|打工子弟学校]]在 2006 年北京遭遇集中强制关停。（p. 365） |
 > | **美国流动农工** | 跨国与跨州季节性农业流动农工学童（Children of the Road）；1982 年《[[Plyler v. Doe 1982\|普莱勒诉多伊案]]》裁决。 | 宪法第十四修正案确立无证学童受教育平权；联邦设立流动教育办公室，但面临语言隔绝与师资缺乏培训困境。（pp. 365–366） |
@@ -210,7 +211,7 @@ updated: 2026-10-10
 ### 步骤二　欧美政策话语对学生流动施加了两极对立的阶层道德评价
 
 > [!claim] 核心判断：政策话语对待流动的态度取决于主体的社会阶层，跨国精英与底层弱势群体遭受截然不同的价值评判
-> 欧洲联盟将大学生的跨境求学颂扬为培育共同欧洲认同与现代职场[[Competitiveness|竞争力]]的制度资产，而美国基础教育问责制则将中小学中途转校贬斥为表征家庭贫困、学校失职与学业落后的病态漂泊。（pp. 361–364）
+> [[EU|欧洲联盟]]将大学生的跨境求学颂扬为培育共同欧洲认同与现代职场[[Competitiveness|竞争力]]的制度资产，而美国基础教育问责制则将中小学中途转校贬斥为表征家庭贫困、学校失职与学业落后的病态漂泊。（pp. 361–364）
 
 #### 1. 欧洲一体化将跨国高校学生流动建构为高尚的公民美德与灵活就业资本
 
@@ -349,7 +350,7 @@ updated: 2026-10-10
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **欧美教育政策对[[Student Mobility|学生流动]]存在阶层化的道德双标** 欧洲联盟通过[[Erasmus Programme|伊拉斯谟计划]]将高等教育跨境求学塑造为培育共同欧洲公民与职场[[Competitiveness|竞争力]]的制度资产，而美国基础教育问责制（[[No Child Left Behind Act 2001|NCLB]]）则将中小学中途转校贬斥为表征贫困缺陷与拖累学校业绩的[[Transiency|流动漂泊]]，反映出主体的社会阶层深刻决定了流动的道德评价。（pp. 361–364）
+> 1. **欧美教育政策对[[Student Mobility|学生流动]]存在阶层化的道德双标** [[EU|欧洲联盟]]通过[[Erasmus Programme|伊拉斯谟计划]]将高等教育跨境求学塑造为培育共同欧洲公民与职场[[Competitiveness|竞争力]]的制度资产，而美国基础教育问责制（[[No Child Left Behind Act 2001|NCLB]]）则将中小学中途转校贬斥为表征贫困缺陷与拖累学校业绩的[[Transiency|流动漂泊]]，反映出主体的社会阶层深刻决定了流动的道德评价。（pp. 361–364）
 > 2. **学校制度兼具物理领地圈禁与社会资格筛选的双重属性** 现代学校依据领地划界、统计制图与空间规则三维技术运作，既是通过围墙大门和作息规定将学龄人口固定在受控场所的物理容器，又是通过考核评定个体是否有资格进入更高阶社会阶层的筛选关卡。（pp. 360–361）
 > 3. **[[Migrant Children|流动儿童]]求学反映了国家定居管控与边缘群体生存博弈的动态张力** 无论是中美在户籍行政壁垒与宪法平权诉讼上的法律分野，还是西英印在多语言教学、校园空间不适与游牧家庭通过识字避险上的实践，流动群体都在国家定居化管理中展现出自主应对的能动性。（pp. 365–367）
 
@@ -369,7 +370,7 @@ updated: 2026-10-10
 > *In recent years space and spatiality have increasingly become seen as important research topics in comparative and international education. By taking an interest in space as a domain of cultural practice, the researcher can also bring into resolution the restrictions on movement, inward inducements to movement, and the related boundaries, flows, and enclosures that have profound impact on the ways that educational policy and schooling practices are implemented, reformed, and contested.*
 
 > [!citation-card] [[Student Mobility|学生流动]]概念的两极分化
-> 审视有关学生流动的教育研究暴露了深层矛盾：在某些情境下，流动是备受推崇的目标；而在另一些情境下，它却是亟需遏制的灾难性难题。在对流动的颂扬与斥责之间，极少存在中间立场。一种是以欧盟[[Erasmus Programme|伊拉斯谟计划]]为代表的高等教育流动，另一种则是美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》学校报告卡中所定义的流动——学生在学年中途转入或转出学校，被视作学校人口异化与学业问责的严重障碍。（pp. 361–362）
+> 审视有关学生流动的教育研究暴露了深层矛盾：在某些情境下，流动是备受推崇的目标；而在另一些情境下，它却是亟需遏制的灾难性难题。在对流动的颂扬与斥责之间，极少存在中间立场。一种是以[[EU|欧盟]][[Erasmus Programme|伊拉斯谟计划]]为代表的高等教育流动，另一种则是美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》学校报告卡中所定义的流动——学生在学年中途转入或转出学校，被视作学校人口异化与学业问责的严重障碍。（pp. 361–362）
 >
 > *Looking globally and comparatively across education research on 'student mobility' exposes a deep contradiction: in some settings this is a cherished objective and key desideratum of educational policy; in others it is woeful problem to be stemmed and urgently managed. In fact, it is quite rare to find any middle ground between the valorizing and excoriating perspectives.*
 

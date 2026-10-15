@@ -8,7 +8,7 @@ aliases:
 summary: "指以自觉的战略性与发展性取向，在全校教职工中系统培育证据知情实践与文化的组织形态；其判定标准不仅在于具体决策是否参考研究，更在于学校在组织层面是否具备使用证据的意图、意愿与能力，并建立起支撑反思性探究的制度化生态。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Knowledge Production]]"
   - "[[Data Literacy]]"
+  - "[[Recontextualization]]"
   - "[[Activity Traps]]"
   - "[[Boundary Spanner]]"
   - "[[Paradigm]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Research-Engaged School
@@ -118,7 +119,7 @@ updated: 2026-10-15
 > [!feature] 研究参与学校的四大判定特征
 > - **自觉的战略性与发展性规划** 学校并非偶然或被动应对外部检查，而是将研究参与明确写入学校战略发展规划，作为持续改进的内在引擎。
 > - **面向全体教职工的包容性参与** 证据知情文化要求覆盖“全体教职工”，坚决避免将[[Professional Learning Community\|专业学习共同体]]降格为少数骨干教师组成的封闭突击队（Roberts, 2015）。
-> - **意图、意愿与能力三位一体** 组织不仅拥有战略愿景（意图）与文化认同（意愿），更必须系统具备[[Data Literacy\|数据素养]]、方法甄别与再情境化能力（能力）。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 117–118)]]
+> - **意图、意愿与能力三位一体** 组织不仅拥有战略愿景（意图）与文化认同（意愿），更必须系统具备[[Data Literacy\|数据素养]]、方法甄别与[[Recontextualization|再情境化]]能力（能力）。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 117–118)]]
 > - **容许情境例外但坚持探究常态** 承认教学的不确定性，不强求每个决策都依赖研究，但要求在面对重大教学难题时建立常态化探究机制。
 
 > [!factors] 支撑研究参与学校运转的四类关键条件

@@ -8,7 +8,7 @@ aliases:
 summary: "指使命导向创新政策中摒弃针对个别企业直接补贴的挑选赢家旧模式，转为以重大社会挑战为导向、依托公共动态能力在全经济范围内遴选激励具备转型意愿与协同攻关承诺跨界主体的引领与学习治理机制"
 type: concept
 domain: "science-policy"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -39,6 +39,7 @@ related_persons:
   - "[[Mariana Mazzucato]]"
 related_facts:
   - "[[CREATES Project]]"
+  - "[[EU]]"
   - "[[Horizon Europe Missions]]"
   - "[[KfW]]"
 related_arguments:
@@ -50,7 +51,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Picking the Willing
@@ -182,7 +183,7 @@ updated: 2026-10-15
 > [!dev-timeline] 产业政策遴选机制的历史演进
 > - **第一阶段（1960 年代至 1980 年代）：挑选赢家与国家冠军（Picking Winners）** 战后西欧与东亚发展型国家广泛对煤炭、钢铁、造船等战略部门推行指令性干预和排他性补贴，在创造工业化奇迹的同时也积累了产能过剩与寻租弊端。
 > - **第二阶段（1990 年代至 2000 年代）：新自由主义反弹与横向中性政策** 面对寻租批判，主流政策全面转向普适性、横向非干预手段（如一般性研发税收减免、“专利盒”减税），但导致国家丧失对创新方向的战略引导力，未能遏制气候危机与脱实向虚。
-> - **第三阶段（2018 年至今）：使命导向与挑选意愿者（Picking the Willing）** [[Mariana Mazzucato|马祖卡托]]系统提出挑选意愿者新[[Paradigm|范式]]，成为欧盟[[Horizon Europe Missions|地平线欧洲战略使命]]与各国现代绿色工业战略的核心实施工具，实现了国家战略引领与市场多元竞争的高水平协同。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805–807)]]
+> - **第三阶段（2018 年至今）：使命导向与挑选意愿者（Picking the Willing）** [[Mariana Mazzucato|马祖卡托]]系统提出挑选意愿者新[[Paradigm|范式]]，成为[[EU|欧盟]][[Horizon Europe Missions|地平线欧洲战略使命]]与各国现代绿色工业战略的核心实施工具，实现了国家战略引领与市场多元竞争的高水平协同。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805–807)]]
 > - **第三阶段深化（2018 年至今）：[[Public Dynamic Capabilities|公共动态能力]]与引领学习范式融合** 莱纳·[[Rainer Kattel|卡特尔]]与[[Mariana Mazzucato|马祖卡托]]将意愿者协同置于国家、政策与行政三层[[Public Dynamic Capabilities|公共动态能力]]架构之中，确立从被动合规监管向共创学习的范式演进。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–801)]]
 
 ---
@@ -225,7 +226,7 @@ updated: 2026-10-15
 > | [[Public Dynamic Capabilities]] | Concept | 支撑公共部门识别、激励并协同意愿者组织的三层动态能力。 |
 > | [[Lead-and-Learn Paradigm]] | Concept | 规约公共机构与意愿者展开共创实验与反思学习的治理新[[Paradigm\|范式]]。 |
 > | [[Three Generations of Mission-Oriented Policy]] | Theory | 解释产业政策遴选机制从追赶期指令干预向使命导向意愿者协同演变的理论框架。 |
-> | [[Horizon Europe Missions]] | Fact (Policy) | 挑选意愿者机制在欧盟地平线欧洲战略使命中的全面落地应用。 |
+> | [[Horizon Europe Missions]] | Fact (Policy) | 挑选意愿者机制在[[EU\|欧盟]]地平线欧洲战略使命中的全面落地应用。 |
 > | [[KfW]] | Fact (Org) | 德国复兴信贷银行通过对意愿进行绿色改造的企业提供定向贴息信贷实践该机制。 |
 
 ---

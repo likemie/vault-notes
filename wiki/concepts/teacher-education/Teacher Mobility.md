@@ -8,7 +8,7 @@ aliases:
 summary: "教师流动是指教师在不同学校、学区、地域或跨国教育系统之间的专业岗位转移与空间位移；该概念折射出跨大西洋政策话语的深刻反差，在欧洲一体化语境中被建构为促进专业发展与打破边境壁垒的崇高政策诉求，而在美国基础教育中则被问题化为高资质教师逃离城市贫困与少数族裔薄弱学校的队伍流失与教育不公平危机。"
 type: concept
 domain: "teacher-education"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -36,6 +36,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[EU]]"
   - "[[Bologna Process]]"
   - "[[No Child Left Behind Act 2001]]"
 related_arguments:
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Teacher Mobility
@@ -116,7 +117,7 @@ updated: 2026-10-15
 > 剖析欧洲如何将流动视为专业一体化理想，而美国基础教育问责制如何将其问题化为师资危机。
 
 > [!claim] Sayer, J.
-> **欧洲专业流动愿景** 在欧洲联盟教育一体化进程中，推动包括教师在内的专业人员跨境流动被确立为增强欧洲认同、拓宽教育视野与实现资格透明的核心政策理想，流动被视为提升教育系统[[Open-Mindedness|开放性]]与教师职业地位的积极力量。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sayer, 2006; Sobe & Fischer, 2009, p. 364)]]
+> **欧洲专业流动愿景** 在[[EU|欧洲联盟]]教育一体化进程中，推动包括教师在内的专业人员跨境流动被确立为增强欧洲认同、拓宽教育视野与实现资格透明的核心政策理想，流动被视为提升教育系统[[Open-Mindedness|开放性]]与教师职业地位的积极力量。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sayer, 2006; Sobe & Fischer, 2009, p. 364)]]
 
 > [!claim] Elfers, A. M. et al.
 > **美国薄弱学校骨干教师外流困境** 在美国基础教育实证考察中，教师流动多被置于工作队伍流失与教育公平的透镜下进行检验；研究表明，高资质优秀教师频繁从少数族裔集中、低收入家庭居多的城市中心薄弱学校流向优势学区，加剧了处境不利学童师资配置的劣势。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Elfers et al., 2006; Sobe & Fischer, 2009, p. 364)]]
@@ -150,7 +151,7 @@ updated: 2026-10-15
 
 > [!dev-timeline] 概念演变
 > - **20世纪后期 — 资格地方垄断与低流动阶段** 各国学区与地方教育当局各自为政，养老金接续与资格认证门槛严格限制了教师跨区流动。
-> - **1990年代至2000年代初 — 欧洲一体化与资质互认探索** 欧盟推行[[Bologna Process|博洛尼亚进程]]与[[Lifelong Learning|终身学习]]框架，尝试消除跨境教师流动壁垒以打造[[European Education Space|欧洲教育空间]]（Sayer, 2006）。
+> - **1990年代至2000年代初 — 欧洲一体化与资质互认探索** [[EU|欧盟]]推行[[Bologna Process|博洛尼亚进程]]与[[Lifelong Learning|终身学习]]框架，尝试消除跨境教师流动壁垒以打造[[European Education Space|欧洲教育空间]]（Sayer, 2006）。
 > - **2000年代至今 — 绩效问责与公平危机审视** 伴随《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》等问责政策，美英等国实证学者系统揭示优秀教师从薄弱校单向外流加剧教育鸿沟的危机，促使多国出台偏远与薄弱校轮岗或津贴干预政策。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 364)]]
 
 ---

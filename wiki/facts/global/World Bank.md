@@ -13,7 +13,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 93
+fact_related_count: 94
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -66,6 +66,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Epistemology]]"
   - "[[Champ]]"
+  - "[[Encyclopaedic Definition of Knowledge]]"
   - "[[Social Imaginary]]"
   - "[[Soft Power by Hard Facts]]"
   - "[[Endogenous and Exogenous Privatisation]]"
@@ -132,7 +133,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # World Bank
@@ -331,7 +332,7 @@ updated: 2026-10-15
 > > [!axis] 0.5% 资金杠杆的超额治理与制度愿景借贷悖论：边际资金 vs 全盘制度输出
 > > 批判政治经济学解构世界银行极小比例的资金援助如何演变为对借贷国宏观体制与[[Epistemology|认识论]]空间的系统性主导。
 > >
-> > - **批判政治经济学与语篇[[Champ|场域]]视角（比奇与卡诺伊）** 比奇指出，截至 1995 年世行虽是南方国家最大单一外部教育资金源，其实际资金供给仅占发展中国家教育总开支的 0.5%；然而世行却通过 1996 年“[[Knowledge Bank|知识银行]]”转型，实现了“借入边际资金等于借入整套西方教育制度愿景”的超额治理效应。[[Martin Carnoy|马丁·卡诺伊]]（Carnoy, 1999）进一步批评世行纯粹的成本效益模型：将黑板、粉笔与教材判定为最划算的投入，而将教师薪酬定性为削减办学成本的核心障碍，不仅压抑了教师队伍建设，更通过五大支柱模型（分权、自主、能力本位、评估等）全面贬低受援国本土的百科全书式知识传统。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 345–349)]]
+> > - **批判政治经济学与语篇[[Champ|场域]]视角（比奇与卡诺伊）** 比奇指出，截至 1995 年世行虽是南方国家最大单一外部教育资金源，其实际资金供给仅占发展中国家教育总开支的 0.5%；然而世行却通过 1996 年“[[Knowledge Bank|知识银行]]”转型，实现了“借入边际资金等于借入整套西方教育制度愿景”的超额治理效应。[[Martin Carnoy|马丁·卡诺伊]]（Carnoy, 1999）进一步批评世行纯粹的成本效益模型：将黑板、粉笔与教材判定为最划算的投入，而将教师薪酬定性为削减办学成本的核心障碍，不仅压抑了教师队伍建设，更通过五大支柱模型（分权、自主、能力本位、评估等）全面贬低受援国本土的[[Encyclopaedic Definition of Knowledge|百科全书式知识传统]]。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 345–349)]]
 > > - **世界银行政策立场** 辩称 0.5% 的公共资金并非要替代主权国家的教育预算，而是发挥战略性“催化剂”（catalytic）效能；知识银行旨在将经受全球实证检验的最佳实践组合与循证量规输送给缺乏独立研发能力的借贷国，以防宝贵的公共教育资源在低效体制中被持续浪费。
 >
 > > [!citation-card] 卡诺伊与比奇论世行成本效益模型与知识银行的制度愿景借贷

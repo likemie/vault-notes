@@ -10,7 +10,7 @@ aliases:
 summary: "以学生为学习主体、强调学生自主性与对话探究的教学理念，在不同文化和高利害考试语境下被重构为具备不同功能与权力边界的教学实践"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -18,6 +18,7 @@ related_concepts:
   - "[[Dialogue in Education]]"
   - "[[Critical Thinking]]"
   - "[[Going Native]]"
+  - "[[Recontextualization]]"
   - "[[Paradigm]]"
   - "[[Policy Borrowing]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -54,7 +55,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Learner-Centred Education
@@ -64,7 +65,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> 以学生为中心的教育（learner-centred education，LCE）是一种以学生为学习主体、强调学生自主性、[[Dialogue in Education|对话教学]]和[[Critical Thinking\|批判性思维]]的教学理念。与此相对的是以教师为中心的教学法，后者由教师作为知识权威主导课堂。近几十年来 LCE 在全球范围内被广泛推广，并在不同社会文化与考试体制中经历着深刻的[[Going Native\|本土化]]再情境化。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 588)]]
+> 以学生为中心的教育（learner-centred education，LCE）是一种以学生为学习主体、强调学生自主性、[[Dialogue in Education|对话教学]]和[[Critical Thinking\|批判性思维]]的教学理念。与此相对的是以教师为中心的教学法，后者由教师作为知识权威主导课堂。近几十年来 LCE 在全球范围内被广泛推广，并在不同社会文化与考试体制中经历着深刻的[[Going Native\|本土化]][[Recontextualization|再情境化]]。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 588)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 该概念指向打破教师单向灌输、强调以学生的学习体验、认知参与、自主探究与对话互动为重心的教学[[Paradigm\|范式]]。
@@ -139,7 +140,7 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **[[Test-Based Accountability\|考试问责]]与 LCE 协同机制** | LCE 可通过共享客体重构为提升高阶考分与课堂效率的工具，实现与应试的并行协同 | 高利害考试问责环境下谋求突破性提分的学校 | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025, pp. 598–602)]]; Schweisfurth (2015) |
-> | **跨文化再情境化与权力边界** | 东亚语境下的 LCE 发生认知/效率转向并与传统启发式[[Dialogue in Education\|对话]]共振，但受限于刚性大纲而保留权力共享硬边界 | 跨国[[Policy Borrowing\|政策借用]]、东亚考试文化与中高考改革背景 | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025, pp. 601–603)]]; You (2019) |
+> | **跨文化[[Recontextualization\|再情境化]]与权力边界** | 东亚语境下的 LCE 发生认知/效率转向并与传统启发式[[Dialogue in Education\|对话]]共振，但受限于刚性大纲而保留权力共享硬边界 | 跨国[[Policy Borrowing\|政策借用]]、东亚考试文化与中高考改革背景 | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025, pp. 601–603)]]; You (2019) |
 
 ---
 

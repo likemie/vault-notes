@@ -9,7 +9,7 @@ title: "Argument_Marginson_2025_ECNUROE"
 argument_key: "Argument_Marginson_2025_ECNUROE"
 argument_display_title: "Space, power, and globalization: On the geopolitics of higher education"
 argument_kind: "journal-article"
-argument_related_count: 36
+argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -61,6 +61,7 @@ related_persons:
 related_facts:
   - "[[Singapore Education Hub Policy]]"
   - "[[Academic Ranking of World Universities]]"
+  - "[[EU]]"
 related_arguments: []
 sources:
   - "[[sources/Marginson_2025_ECNUROE|Marginson_2025_ECNUROE]]"
@@ -172,7 +173,7 @@ citation_aliases:
 
 **论证链：**
 
-**2a. 定义"尺度"** — 尺度（scale）是"一种被生产出来的社会度量，用于区分空间"(Marston & Smith, 2001, p. 615)。高等教育的活跃尺度包括：世界尺度（含自然）、全球尺度（人类社会世界层面）、泛国家区域尺度（如 EU）、国家尺度、次国家区域尺度（城市）、地方尺度（院校、研究中心）和个体尺度(pp. 7–8)。
+**2a. 定义"尺度"** — 尺度（scale）是"一种被生产出来的社会度量，用于区分空间"(Marston & Smith, 2001, p. 615)。高等教育的活跃尺度包括：世界尺度（含自然）、全球尺度（人类社会世界层面）、泛国家区域尺度（如 [[EU]]）、国家尺度、次国家区域尺度（城市）、地方尺度（院校、研究中心）和个体尺度(pp. 7–8)。
 
 **2b. 论证尺度不可化约（irreducible）** — 这是最关键的一步。尺度之间的关系不是俄罗斯套娃（大的套小的，大的决定小的）。不同尺度是**不同的**——有不同的规范、关系和运作逻辑。Marginson 用"国家科学 vs 全球科学"的对比来证明：国家科学的规范中心是国家（法律、政策、拨款），而全球科学没有规范中心——它由期刊和文献计量中的知识、传播网络、制度实践和合作关系构成。科学家同时活跃在两个尺度中，其规范、关系和行为部分不同(pp. 8–9)。
 
@@ -256,7 +257,7 @@ citation_aliases:
 
 - **[[Multiplicity|多重性]]在高等教育中具有强大的解释力** 从 Clark Kerr(1963)"[[Multi-University|多元大学]]"的内部分化，到全球化中各国大学系统的外部多样化，再到全球政治经济中从英美单极到多极化的结构性转变——Massey 的多重性概念在高等教育的三个层次上都被反复证实(pp. 6–7)
 - **地缘政治包含合作维度，而不仅是[[Zero-Sum Competition|零和竞争]]** 高等教育中的地缘政治关系（尤其在科学领域）比国家间的政治、经济和军事关系更具合作性——尽管高等教育在地缘政治上可能更等级化和不平等(p. 11)
-- **不存在全球政治主体** 除欧盟部分政策领域外，国家主权之上没有具有约束力的全球政治主体。国家不承担承认全球互赖性或为全球整体负责的必要义务——世界只是被当作"共同资源"来利用和争夺(pp. 10–11)
+- **不存在全球政治主体** 除[[EU|欧盟]]部分政策领域外，国家主权之上没有具有约束力的全球政治主体。国家不承担承认全球互赖性或为全球整体负责的必要义务——世界只是被当作"共同资源"来利用和争夺(pp. 10–11)
 - **Wallerstein [[World-Systems Theory|世界体系理论]]的经验失败** 过去三十年多国（中国、新加坡、韩国、印度、伊朗、巴西等）在高等教育和科学领域的同时进步，直接[[Falsification|证伪]]了该理论的零和剩余假设和刚性空间性(pp. 12–13)
 
 ### 历史分析发现

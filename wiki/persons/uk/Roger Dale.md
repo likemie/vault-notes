@@ -7,10 +7,10 @@ summary: "英国批判教育社会学家与比较教育学者，布里斯托尔�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 23
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 24
+person_related_level: 3
+person_related_stars: "⭐⭐⭐"
+person_related_color: "#ede9fe"
 born: "c. 1942"
 died: ""
 lifespan: "c. 1942–至今"
@@ -45,6 +45,7 @@ related_persons:
   - "[[Robert Arnove]]"
   - "[[John W. Meyer]]"
 related_facts:
+  - "[[EU]]"
   - "[[GATS and Trade in Education Services]]"
   - "[[World Trade Organization]]"
   - "[[Bologna Process]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-01
+updated: 2026-10-16
 ---
 
 # Roger Dale
@@ -65,7 +66,7 @@ updated: 2026-10-01
 > [!person-profile] 人物档案
 > - **身份位置** 英国著名批判教育社会学家、比较教育理论家，布里斯托尔大学教育研究生院荣休教授，新西兰奥克兰大学荣誉教授。
 > - **核心角色** 批判教育全球化研究与[[European Education Space|欧洲教育空间]]治理理论的奠基人之一；开创了与[[Stanford School|斯坦福学派]]“[[World Society Theory|世界文化理论]]”针锋相对的“[[Globally Structured Agenda for Education|全球结构化教育议程]]”（Globally Structured Agenda for Education, GSAE）分析[[Paradigm|范式]]。
-> - **代表贡献** 与[[Susan L. Robertson|苏珊·罗伯逊]]（Susan L. Robertson）及哈维尔·博纳尔（Xavier Bonal）共同提出“教育[[Pluri-Scalar Governance|多标度治理]]”[[Analytic Framework|分析框架]]；提出全球化影响国家教育政策的八大外部机制（Dale, 1999）；系统剖析欧洲联盟教育一体化与《[[GATS and Trade in Education Services|服务贸易总协定]]》（GATS）对民族[[State Educational Sovereignty|国家教育主权]]的重塑。
+> - **代表贡献** 与[[Susan L. Robertson|苏珊·罗伯逊]]（Susan L. Robertson）及哈维尔·博纳尔（Xavier Bonal）共同提出“教育[[Pluri-Scalar Governance|多标度治理]]”[[Analytic Framework|分析框架]]；提出全球化影响国家教育政策的八大外部机制（Dale, 1999）；系统剖析[[EU|欧洲联盟]]教育一体化与《[[GATS and Trade in Education Services|服务贸易总协定]]》（GATS）对民族[[State Educational Sovereignty|国家教育主权]]的重塑。
 
 > [!citation-card]- [[Robert Arnove|阿诺夫]]论戴尔对全球化分析机制的突破
 > 新兴的全球治理结构在经济与教育层面涵盖了欧洲联盟、北美自由贸易协定等区域组织以及[[World Trade Organization|世界贸易组织]]。这些组织塑造教育系统的机制与过程，已由戴尔（Dale）与罗伯逊（Robertson）等人作出深刻剖析。戴尔（1999）明确提出了八种影响国家政策外部效应性质的非传统机制及其关联组织特征，有力推进了对全球化这一黑箱的经验拆解。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
@@ -80,7 +81,7 @@ updated: 2026-10-01
 > - **1970s–1980s** 任教于英国开放大学（Open University），作为英国批判教育社会学运动的核心成员，参与奠定教育政治社会学与国家理论基础，出版代表作《国家与教育政策》（*The State and Education Policy*, 1989）。
 > - **1990s** 转任新西兰奥克兰大学教育学院教授，深入考察新自由主义准市场改革在澳新的激进化试验，开启全球化对[[State Educational Sovereignty|国家教育权]]力重组的理论探索。
 > - **1999** 发表经典论文《借助全球化界定比较教育》，正式提出“[[Globally Structured Agenda for Education|全球结构化教育议程]]”（GSAE）以及外部政策影响的八大机制，与[[John W. Meyer|约翰·迈耶]]（John W. Meyer）的新制度主义展开国际论战。
-> - **2000s–至今** 返回英国任教于布里斯托尔大学，与[[Susan L. Robertson|苏珊·罗伯逊]]共同创立全球化全球治理中心，联合创办顶尖期刊《全球化、社会与教育》（*Globalisation, Societies and Education*），主持欧盟 FP6/FP7 框架下的[[European Education Space|欧洲教育空间]]重大课题。
+> - **2000s–至今** 返回英国任教于布里斯托尔大学，与[[Susan L. Robertson|苏珊·罗伯逊]]共同创立全球化全球治理中心，联合创办顶尖期刊《全球化、社会与教育》（*Globalisation, Societies and Education*），主持[[EU|欧盟]] FP6/FP7 框架下的[[European Education Space|欧洲教育空间]]重大课题。
 
 ---
 
@@ -115,7 +116,7 @@ updated: 2026-10-01
 > [!influence-path] 影响路径
 > - **理论路径** 确立了批判比较教育学的政治经济学研究纲领，与[[Stanford School|斯坦福学派]]的[[World Society Theory|世界社会理论]]构成全球化教育研究最重要的理论对质轴线。
 > - **方法路径** 倡导多标度空间分析法（Multi-scalar Analysis），打破了[[Methodological Nationalism|方法论民族主义]]（Methodological Nationalism）将国家作为唯一[[Unit of Analysis|分析单元]]的偏见。
-> - **政策路径** 深度介入欧洲联盟教育政策（如[[Bologna Process|博洛尼亚进程]]、[[Lifelong Learning|终身学习]]战略）的学术评估与政策建言。
+> - **政策路径** 深度介入[[EU|欧洲联盟]]教育政策（如[[Bologna Process|博洛尼亚进程]]、[[Lifelong Learning|终身学习]]战略）的学术评估与政策建言。
 
 ---
 

@@ -8,7 +8,7 @@ aliases:
 summary: "英格兰基础教育治理转型中的核心政策取向，主张学校与教师承担自我改进的第一责任，依托多学院信托与教学学校联盟实现校际互助与证据扩散，将中央干预降至最低；其实践成效高度依赖学校的研究使用能力，并与延续的高压绩效问责体制存在深层结构性张力。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Research Utilization]]"
   - "[[Necessary and Sufficient Conditions]]"
+  - "[[Recontextualization]]"
   - "[[Activity Traps]]"
   - "[[Grandes Ecoles]]"
   - "[[Performativity]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Self-Improving School System
@@ -159,7 +160,7 @@ updated: 2026-10-15
 > 探讨自我改进系统从行政放权走向实际效能的[[Necessary and Sufficient Conditions\|必要条件]]，论证单纯的组织自治无法自发促成改进，必须以学校层面的[[Research Utilization\|证据使用]]能力和结构为底层支撑。
 
 > [!claim] Brown, C. & [[Toby Greany\|Greany, T.]]
-> **研究使用构成系统自我改进的必要支撑条件** 自我改进系统的第三条支柱明确要求学校“从研究中学习”。在缺乏中央行政指令供给方案的背景下，学校必须具备自主定位教学问题、甄别证据稳健性、进行再情境化调适及科学评价干预成效的多维能力，并建立受保护的工时排程与正式研讨论坛；若学校在能力素养与结构资源上存在断裂，系统的自我改进便会沦为空谈。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 120, 122–126, 133)]]
+> **研究使用构成系统自我改进的必要支撑条件** 自我改进系统的第三条支柱明确要求学校“从研究中学习”。在缺乏中央行政指令供给方案的背景下，学校必须具备自主定位教学问题、甄别证据稳健性、进行[[Recontextualization|再情境化]]调适及科学评价干预成效的多维能力，并建立受保护的工时排程与正式研讨论坛；若学校在能力素养与结构资源上存在断裂，系统的自我改进便会沦为空谈。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 120, 122–126, 133)]]
 
 > [!claim] Gu, Q. 等
 > **[[Teaching Schools\|教学学校联盟]]的研发承载能力面临严峻瓶颈** 教学学校虽被法律赋予统筹区域研究与发展（R&D）的核心职责，但在实践中普遍受制于不可持续的工作量和专项经费匮乏；不同联盟之间实施质量悬殊，表明自下而上的自我改进系统若缺乏持续的能力建设投资，其网络扩散效能将迅速衰减。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 121–122)]]

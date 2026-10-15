@@ -10,7 +10,7 @@ title: "Argument_Parreira do Amaral_2022_Springer"
 argument_key: "Argument_Parreira do Amaral_2022_Springer"
 argument_display_title: "Geopolitical Transformations in Higher Education: Imagining, Fabricating and Contesting Innovation"
 argument_kind: "book"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -60,6 +60,7 @@ related_persons:
 related_facts:
   - "[[Minerva University]]"
   - "[[University Industry Innovation Network]]"
+  - "[[EU]]"
 related_arguments:
   - "[[Argument_Moisio_2022_Springer]]"
   - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
@@ -100,7 +101,7 @@ citation_aliases:
 探讨驱动地缘政治想象的不同想象、空间和张力，审视科学和教育的角色与价值化如何被框定和整合进政治经济创新项目。涵盖[[Knowledge-Based Economization|知识经济化]]的空间维度、高等教育的想象与转型、晚期现代性的教育愿景、[[Geopolitics of Knowledge|知识地缘政治]]的双面性、亚洲崛起的地缘政治影响，以及感知的[[Creativity|创造性]]张力与整体知识实践路径。
 
 **Part II — Places, Institutions, Interactions, Connectivities（Ch 8–12）**
-聚焦高等教育在具体场所和制度层面的转变：[[Global Universities Rankings|全球大学排名]]与使命的冲突、大学与可持续发展全球治理、欧盟教育创新想象、[[Further Education|继续教育]]的国际化、以及新加坡和阿联酋的教育枢纽项目。
+聚焦高等教育在具体场所和制度层面的转变：[[Global Universities Rankings|全球大学排名]]与使命的冲突、大学与可持续发展全球治理、[[EU|欧盟]]教育创新想象、[[Further Education|继续教育]]的国际化、以及新加坡和阿联酋的教育枢纽项目。
 
 **Part III — Subjectivities and Subject-Formations（Ch 13–15）**
 关注被期望生产的主体原型——创新性、创业性、连接性——以及部署的治理技术。涵盖竞争性大学中的学生成功数字化管理、算法技术中被遗忘的 [[Bildung]] 维度、以及 21 世纪技能框架对知识和生产性自我的重新定义。
@@ -111,7 +112,7 @@ citation_aliases:
 > [!tip]-
 > - [[Geopolitics of Knowledge]] — 全书核心分析透镜：从[[Classical Geopolitics\|古典地缘政治]]（领土扩张、民族国家中心）转向[[New Geopolitics\|新地缘政治]]（[[Relational Space\|关系性空间]]构型、政治想象与全球连接性），整合后殖民／去殖民视角(Mignolo, 2002, 2009)
 - [[Knowledge-Based Economization]] — Moisio (2018) 的概念框架，关注知识密集型资本主义的物质过程及其通过想象和客观化社会实践的[[Discourse|话语]]建构
-- [[Global Regionalisms]] — Robertson et al. (2016) 的框架，分析高等教育如何被整合进世界各地区的区域整合项目（EU、ASEAN 等）
+- [[Global Regionalisms]] — Robertson et al. (2016) 的框架，分析高等教育如何被整合进世界各地区的区域整合项目（[[EU]]、ASEAN 等）
 - [[Regulatory Regionalism]] — Jayasuriya (2010) 与 Robertson (2010) 的概念，揭示超国家组织在高等教育区域化中的监管角色
 - [[Global Education Industry]] — Verger et al. (2016) 与 Parreira do Amaral et al. (2019) 的框架，涵盖经济化、商品化、私有化、数字化、市场化、标准化等全球教育变革维度
 

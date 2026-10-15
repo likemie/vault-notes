@@ -6,7 +6,7 @@ aliases:
 summary: "围绕数字平台、软件服务、数据基础设施和政策叙事形成的 EdTech 产业生态系统，通过利润、平等和专业发展等多重动机推动教育数字化、市场化和商业化。"
 type: concept
 domain: "educational-technology"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -32,13 +32,14 @@ related_facts:
   - "[[UNESCO]]"
   - "[[Regional University Alliances]]"
   - "[[League of European Research Universities]]"
+  - "[[EU]]"
   - "[[Bologna Process]]"
 related_arguments:
   - "[[Argument_Amos_2022_Springer]]"
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-09-29
+updated: 2026-10-16
 ---
 
 ## 定义
@@ -82,7 +83,7 @@ updated: 2026-09-29
 > [!success] 对教育地缘政治的影响
 > 数字化正在重新绘制教育的制度地图([[Argument_Amos_2022_Springer\|Amos, 2022, pp.57–58]])：
 >
-> - **[[Regional University Alliances\|区域大学联盟]]** [[League of European Research Universities\|欧洲研究型大学联盟]]（LERU）、The GUILD、欧盟委员会框架下的欧洲大学联盟——在科研合作、师生流动、联合学位项目中跨越国界甚至大洲边界
+> - **[[Regional University Alliances\|区域大学联盟]]** [[League of European Research Universities\|欧洲研究型大学联盟]]（LERU）、The GUILD、[[EU|欧盟]]委员会框架下的欧洲大学联盟——在科研合作、师生流动、联合学位项目中跨越国界甚至大洲边界
 > - **标准化与自主性的张力** 区域一体化推动标准化趋势（如 [[Bologna Process]]），但大学有强大的制度惯性维持自身运作方式。Bologna Process 在欧洲高等教育区内的多样化实施证明了这种张力
 > - **多层级地缘政治空间** 教育治理不再单属于国家权力。EdTech 平台（Google Classroom、Coursera）、超国家机构（European Commission）、大学联盟、私人基金会都在同一空间中运作
 >

@@ -8,7 +8,7 @@ summary: "荷兰著名公共管理与规制治理学者，新西兰惠灵顿维�
 type: person
 nationality: netherlands
 person_region: "netherlands"
-person_related_count: 22
+person_related_count: 23
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -46,13 +46,14 @@ related_persons:
   - "[[Ray Pawson]]"
   - "[[James Mahoney]]"
   - "[[Kathleen Thelen]]"
-related_facts: []
+related_facts:
+  - "[[EU]]"
 related_arguments:
   - "[[Argument_VanDerHeijden_2011_Politics]]"
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Jeroen van der Heijden
@@ -91,7 +92,7 @@ updated: 2026-10-15
 > [!claim] 核心理论贡献
 > 1. **[[Institutional Layering|制度层叠]]因果解释[[Variable|变量]]论** 针对突变论与渐变论在宏观层面陷入循环论证的学术死结，范德海登论证指出：只要将分析焦点集中在被附加的行动者（Actors Added）与政策工具（Instruments Added）这两个具象因果解释变量上，制度层叠[[Analytic Framework|分析框架]]便能打通宏观外生危机与微观日常妥协，成为弥合[[Punctuated Equilibrium Theory|间断均衡理论]]与渐进演进理论鸿沟的中观理论枢纽。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 16)]]
 > 2. **制度变迁性质的主体位置与时间尺度制约假说** 借鉴波森与蒂利（1997）的[[Realist Evaluation|实在论评估]]提问，提出“对谁而言、在何种情境下构成了何种变迁”。在荷兰住房法案例中，2003 年微观承包商感知为激进剧烈颠覆，1983 年以来的住房部谈判者定性为渐进政策妥协，1901 年以来的百年宏观法理演进则定性为边际延续。客观统一的变迁标尺并不存在，任何定性评估均受制于观察者的行政坐标与时间视重视角。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 10–11)]]
-> 3. **变迁与再生产边界红线界定** 坚决批判当代经验文献随意借用层叠概念的学术乱象；论证指出阿克里尔等人的欧盟预算模型与博阿斯的互联网[[Composite-Standard Model|复合标准模型]]实质上是外围图层保护既有核心，属于高厚度商驱动的[[Path Dependence|路径依赖]]、制度再生产与制度加固，绝非推动行为质变的制度层叠，捍卫了概念的严密性与理论比较优势。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 13–14)]]
+> 3. **变迁与再生产边界红线界定** 坚决批判当代经验文献随意借用层叠概念的学术乱象；论证指出阿克里尔等人的[[EU|欧盟]]预算模型与博阿斯的互联网[[Composite-Standard Model|复合标准模型]]实质上是外围图层保护既有核心，属于高厚度商驱动的[[Path Dependence|路径依赖]]、制度再生产与制度加固，绝非推动行为质变的制度层叠，捍卫了概念的严密性与理论比较优势。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 13–14)]]
 
 > [!citation-card] 实在论提问在制度变迁领域的引申
 > 借鉴[[Ray Pawson|雷·波森]]与尼克·蒂利（Pawson & Tilley, 1997）关于“何种方案在何种情境中对谁有效”的经典论断，范德海登等人（2007）提出制度变迁的核心追问应被调整为“何为变迁、对谁而言、在何种情境下发生”。通过这种方式，我们明确承认变迁取决于观察者的视角：对规制体制内的微观行动者（如建筑承包商）而言看似剧烈的断裂，在宏观政策制定者（如住房部长）眼中可能仅为渐进调适，在长期历史学家眼中则属于微小的历史延续。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 10)]]

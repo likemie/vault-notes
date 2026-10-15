@@ -107,7 +107,7 @@ updated: 2026-10-16
 > *Epistemic stances encompass beliefs about whether one believes a claim, with what degree of confidence, and with what attitude—such as holding a claim as a tentative working [[Hypothesis]], accepting it provisionally, or rejecting it as unsubstantiated.*
 
 > [!citation-card] 比奇论国际组织认识论立场的表层分歧与深层统摄
-> 杰森·比奇（[[Jason Beech]]）指出，尽管世界银行、联合国教科文组织与经合组织在表面上秉持着截然不同甚至存在竞争的认识论立场——世界银行坚守正统人力资本认识论，将教育视作获取私人与社会回报率的生产性投资；教科文组织坚守人文主义认识论，将教育视作促进人格完整、和平与尊严的终极目的；经合组织则倡导兼顾经济[[Competitiveness|竞争力]]与社会凝聚力的混合新自由主义立场——但这种认识论立场的表层分歧并未妨碍它们达成更深层的意识形态与话语共识：共同宣称不可抗拒的“信息时代”来临，并将去情境化的五大支柱治理处方作为唯一合理的救治方案推向全球。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 346–348)]]
+> [[Jason Beech|杰森·比奇]]（[[Jason Beech]]）指出，尽管世界银行、联合国教科文组织与经合组织在表面上秉持着截然不同甚至存在竞争的认识论立场——世界银行坚守正统人力资本认识论，将教育视作获取私人与社会回报率的生产性投资；教科文组织坚守人文主义认识论，将教育视作促进人格完整、和平与尊严的终极目的；经合组织则倡导兼顾经济[[Competitiveness|竞争力]]与社会凝聚力的混合新自由主义立场——但这种认识论立场的表层分歧并未妨碍它们达成更深层的意识形态与话语共识：共同宣称不可抗拒的“信息时代”来临，并将去情境化的五大支柱治理处方作为唯一合理的救治方案推向全球。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 346–348)]]
 >
 > *While the World Bank has adhered strictly to human capital theory... UNESCO has promoted a humanist stance in which human beings are seen as an end in themselves... In spite of these differences, these agencies share an underlying consensus regarding the inevitability of the 'Information Age' and the necessary educational reforms.*
 

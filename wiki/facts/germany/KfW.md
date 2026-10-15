@@ -11,7 +11,7 @@ subtype: organization
 region: germany
 fact_region: "germany"
 fact_kind: "organization"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -37,12 +37,13 @@ related_persons:
 related_facts:
   - "[[Protein Data Bank]]"
   - "[[Horizon Europe Missions]]"
+  - "[[EU]]"
 related_arguments:
   - "[[Argument_Mazzucato_2018_ICC]]"
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # KfW
@@ -125,6 +126,6 @@ updated: 2026-10-15
 > | [[Mission-Oriented Innovation Policy]] | Concept | KfW 是德国践行使命导向创新政策、牵引能源转型（Energiewende）的核心金融平台。 |
 > | [[Market Shaping and Creating]] | Concept | KfW 通过能效标准制定与早期战略注资主动构筑并创造了德国绿色建筑与新能源市场。 |
 > | [[Picking the Willing]] | Concept | KfW 对所有愿意开展低碳技术改造的企业提供定向优惠贷款，生动践行了意愿者机制。 |
-> | [[Horizon Europe Missions]] | Fact (Policy) | KfW 深度参与欧洲投资银行网络协同对接欧盟地平线战略使命资助。 |
+> | [[Horizon Europe Missions]] | Fact (Policy) | KfW 深度参与欧洲投资银行网络协同对接[[EU\|欧盟]]地平线战略使命资助。 |
 > | [[Mariana Mazzucato]] | Person | 将 KfW 作为企业型国家与耐心开发银行代表案例进行深度理论剖析的核心学者。 |
 > | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | Argument | 系统论述 KfW 等公共开发银行在使命导向政策与耐心资本供给中核心地位的代表文献。 |

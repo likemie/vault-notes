@@ -9,7 +9,7 @@ summary: "西班牙社会学家，网络社会与信息时代发展模式奠基�
 type: person
 nationality: spain
 person_region: "spain"
-person_related_count: 33
+person_related_count: 34
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Technological Agnosticism]]"
   - "[[Cult of Optionality]]"
+  - "[[Habitus]]"
   - "[[Discourse]]"
   - "[[Methodological Nationalism]]"
   - "[[Scale in Higher Education]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-12
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Manuel Castells
@@ -122,7 +123,7 @@ updated: 2026-10-15
 > |---|---|---|
 > | **主导行动者** | 全球跨国资本、国际机构官员与跨国学术精英（Cosmopolitan Elites） | 扎根于本土社区、依附于实体学校与传统制度的广大师生与公众（Local People） |
 > | **空间组织形式** | 跨越地缘疆界、即时交换的电子节点网络、国际期刊专著与跨国会议航线 | 地理定位明确、具有历史积淀与肉身共在物理毗连性的具体[[Champ\|场域]] |
-> | **文化与政治取向** | 世界主义脱嵌、通晓大都市全球学术文化的“双语”能力、[[Technological Agnosticism\|技术不可知论]]与[[Cult of Optionality\|选择权崇拜]] | 民族国家认同、本土安全依赖与实在生活关切、深层历史教育惯习 |
+> | **文化与政治取向** | 世界主义脱嵌、通晓大都市全球学术文化的“双语”能力、[[Technological Agnosticism\|技术不可知论]]与[[Cult of Optionality\|选择权崇拜]] | 民族国家认同、本土安全依赖与实在生活关切、深层历史教育[[Habitus\|惯习]] |
 > | **权力博弈地位** | 占据全球资本、政策议程与信息分配的主导权，免于地方责任约束 | 承受全球化与技术转型的外部性成本，缺乏跨国流动退出通道 |
 
 > [!citation-card] 网络国家的协商决策机制
@@ -141,7 +142,7 @@ updated: 2026-10-15
 
 > [!influence-path] 理论影响与实证应用
 > - **理论路径** 其空间二分法（[[Space of Flows|流动空间]] vs 场所空间）打破了社会科学中的[[Methodological Nationalism|方法论民族主义]]，为批判地理学、国际政治经济学与比较教育学提供了跨[[Scale in Higher Education|尺度分析]]工具。
-> - **比较教育与[[Discourse|话语]]流通研究** 杰森·比奇（[[Jason Beech]]）深度吸纳卡斯特的空间理论，将“全球学术空间”定性为依托国际学术期刊、专著、国际会议、学者流动与科研项目等物质支撑建构的流动空间，揭示进入该空间的行动者必须兼具本土文化与大都市“全球学术文化”的双语能力；同时论证了流动空间中过度简化的去情境化方案（[[Global Educational Discourse|全球教育话语]]）降落到扎根于场所空间的学校时产生的剧烈实践异化与[[Gatekeepers|守门人]]群体垄断。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 349–355)]]
+> - **比较教育与[[Discourse|话语]]流通研究** [[Jason Beech|杰森·比奇]]（[[Jason Beech]]）深度吸纳卡斯特的空间理论，将“全球学术空间”定性为依托国际学术期刊、专著、国际会议、学者流动与科研项目等物质支撑建构的流动空间，揭示进入该空间的行动者必须兼具本土文化与大都市“全球学术文化”的双语能力；同时论证了流动空间中过度简化的去情境化方案（[[Global Educational Discourse|全球教育话语]]）降落到扎根于场所空间的学校时产生的剧烈实践异化与[[Gatekeepers|守门人]]群体垄断。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 349–355)]]
 > - **政策与教育研究** 揭示了当代国家为何热衷于采纳抽象、可塑的全球政策[[Discourse|话语]]（如“[[21st Century Skills and Competencies Discourse|核心素养]]”、“能力导向课程”），即利用媒体友好型话语开展[[Governance by Spin|舆论操控]]以调和多元利益冲突；同时解释了跨国教育治理机构（如 [[OECD]]、[[World Bank|世界银行]]）在流动空间中的话语扩散机制。
 > - **国家主义与创新机制研究** 其关于[[Soviet Statism|苏联国家主义]]因意识形态禁锢（如[[Lysenkoism|李森科主义]]）和[[Military-Industrial Black Hole|军工黑洞]]而阻碍民用[[Informationalization|信息化]]创新的论断，成为理解极权体制与技术创新关系的经典命题。
 > - **科技精英与政治哲学批判** 其关于“[[Cosmopolitanism|世界主义]]精英与本土大众”的洞见，被用于剖析当代硅谷科技巨头在享受国家研发红利的同时陷入[[Technological Agnosticism|技术不可知论]]与[[Cult of Optionality|选择权崇拜]]的深层精神脱嵌。
@@ -162,7 +163,7 @@ updated: 2026-10-15
 > | 类型 | 条目 | 贡献 |
 > |:-----|:-----|:-----|
 > | 概念 | [[Space of Flows]] | 界定在非领土毗连下通过电子通信网络与跨国流动节点实现同步互动的社会物质组织形式。 |
-> | 概念 | [[Space of Places]] | 界定扎根于特定物理疆界、历史惯习与身体共在的现实地理空间形态，揭示教育微观落地难点。 |
+> | 概念 | [[Space of Places]] | 界定扎根于特定物理疆界、历史[[Habitus\|惯习]]与身体共在的现实地理空间形态，揭示教育微观落地难点。 |
 > | 理论 | [[Beech's Model of Discourse Circulation]] | 比奇将卡斯特流动空间理论运用于全球教育[[Champ\|场域]]五位置模型，揭示学术精英流动、国际组织过度简化与微观实践脱节机制。 |
 > | 概念 | [[Technological Agnosticism]] | 其“精英是[[Cosmopolitanism\|世界主义]]的，大众是本土的”论断被用于剖析当代硅谷科技精英割裂工程与国家使命的深层文化根源。 |
 > | 概念 | [[Cult of Optionality]] | 揭示跨国技术阶层依托全球流动资本追求选择权最大化、回避排他性承诺的防御性心态。 |

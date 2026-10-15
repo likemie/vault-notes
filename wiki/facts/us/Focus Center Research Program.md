@@ -28,7 +28,7 @@ tags:
   - theme/engineering-education
 related_concepts:
   - "[[Industry Affiliate Program]]"
-  - "[[Public-Private Partnership in Research]]"
+  - "[[Public-Private Partnership]]"
   - "[[Research Universities]]"
   - "[[Corporate R&D Labs]]"
   - "[[Open-Mindedness]]"
@@ -76,7 +76,7 @@ updated: 2026-10-15
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1997 年完成方案论证，1998 年正式立项启动，持续运行至 2013 年（随后升级演进为 STARnet 与 JUMP / [[Joint University Microelectronics Program 2.0|JUMP 2.0]] 计划）。
-> - **发起方与资助机制** 由 SIA [[Industry Affiliate Program|产业联盟]]企业、SEMATECH 联盟与联邦政府（[[DARPA]]）共同出资，建立 50/50 公私配比资助模式（[[Public-Private Partnership in Research|PPP]]）；年度资助规模在数千万美元量级。[[Argument_Macher_1998_CMR|(Macher et al., 1998, p. 121, note 48)]]
+> - **发起方与资助机制** 由 SIA [[Industry Affiliate Program|产业联盟]]企业、SEMATECH 联盟与联邦政府（[[DARPA]]）共同出资，建立 50/50 公私配比资助模式（[[Public-Private Partnership|PPP]]）；年度资助规模在数千万美元量级。[[Argument_Macher_1998_CMR|(Macher et al., 1998, p. 121, note 48)]]
 > - **覆盖范围与对象** 依托加州大学伯克利分校、麻省理工学院（MIT）、斯坦福大学、佐治亚理工学院、卡内基梅隆大学等数十所顶尖[[Research Universities|研究型大学]]，设立跨校多学科协同研究中心。
 > - **核心问题导向** 回应 1990 年代后期因冷战结束国防部微电子基础研发经费骤降，以及[[Corporate R&D Labs|企业中央实验室]]（如[[Bell Labs|贝尔实验室]]、IBM、GE）大幅收缩长周期基础科学研究引发的“国家半导体科学基石塌陷危机”，着力解决国家半导体技术路线图（NTRS/ITRS）10 至 15 年后的物理极限制约。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 122–123, 130)]]
 
@@ -145,7 +145,7 @@ updated: 2026-10-15
 > [!finding-cards] 核心实证结论与产业影响
 > - **维系摩尔定律持续演进的技术突破** FCRP 在[[Heterogeneous Integration|三维异构集成]]、FinFET 晶体管物理、极紫外（EUV）光刻材料及 EDA 自动化合成算法上做出了决定性基础贡献。
 > - **构建全美微电子高阶人才供给主干道** FCRP 累计培养了数千名微电子与计算机工程领域的顶尖博士，成为美国半导体跨国企业与顶尖高校微电子教职的核心人才来源。
-> - **树立产学官公私研发合作（[[Public-Private Partnership in Research|PPP]]）制度标杆** 成功验证了在竞争性高技术领域，政府（[[DARPA]]）、[[Industry Affiliate Program|产业联盟]]（SIA/[[Sematech]]）与大学科研深度融合的长效治理模式。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 235)]]
+> - **树立产学官公私研发合作（[[Public-Private Partnership|PPP]]）制度标杆** 成功验证了在竞争性高技术领域，政府（[[DARPA]]）、[[Industry Affiliate Program|产业联盟]]（SIA/[[Sematech]]）与大学科研深度融合的长效治理模式。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 235)]]
 
 > [!stat-cards]- 关键实证数据
 > - **8–12 年** FCRP 在 [[Semiconductor Research Corporation|SRC]] 计划矩阵中负责的中远期技术时间视野（GRC 负责 3–8 年，NRI 负责 10–15 年）。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 246–249)]]

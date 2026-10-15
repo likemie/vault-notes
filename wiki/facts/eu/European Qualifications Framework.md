@@ -12,7 +12,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_instruments: []
 related_persons:
   - "[[Wolfgang Mitter]]"
 related_facts:
+  - "[[EU]]"
   - "[[Comparative Education Society in Europe]]"
   - "[[Bologna Process]]"
 related_arguments:
@@ -43,7 +44,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-03
+updated: 2026-10-16
 ---
 
 # European Qualifications Framework
@@ -53,7 +54,7 @@ updated: 2026-10-03
 ## 背景
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2008 年由欧洲议会和欧盟理事会联合推荐通过，2017 年全面修订更新。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 12)]]
+> - **发布时间 / 发布主体** 2008 年由欧洲议会和[[EU|欧盟]]理事会联合推荐通过，2017 年全面修订更新。[[Argument_Bouckaert_2023_OECD|(Bouckaert, 2023, p. 12)]]
 > - **适用地区 / 对象** 欧洲高等教育区及欧盟 38 个参与国的所有教育与培训阶段（涵盖基础教育、职业教育与高等教育）。
 > - **问题背景** 欧洲各国传统的资格证书与学位体系差异巨大，阻碍了劳动力与学生在欧洲单一市场内的自由流动。
 > - **制度位置** 整个欧洲各国家资格框架（National Qualifications Frameworks, NQFs）对标与互认的最高“元框架（Translation Device）”。

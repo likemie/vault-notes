@@ -8,7 +8,7 @@ aliases:
 summary: "美国联邦采办条例（FAR 35.016）确立并由DARPA广泛应用的颠覆性前沿科技竞争发包机制。区别于详述技术规格指标的传统征求建议书（RFP），BAA仅界定宏观科学挑战与战略使命愿景，允许申请人自由提出异质性突破方案；Fuchs（2010）指出BAA是公共代理人向产学研生态释放前沿信号、播撒创新主题而不钦定单一赢家的核心制度工具。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -40,12 +40,13 @@ related_facts:
   - "[[DARPA]]"
   - "[[National Science Foundation]]"
   - "[[Open Competition Mechanism]]"
+  - "[[EU]]"
 related_arguments:
   - "[[Argument_Fuchs_2010_RP]]"
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 
 # Broad Agency Announcement
@@ -130,7 +131,7 @@ updated: 2026-10-09
 > [!dev-timeline] 演进脉络
 > - **1984 — 联邦采办制度化（FAR 35.016）** 美国在《联邦采办条例》中正式确立 BAA 作为针对基础与应用科学研发的法定竞争发包工具。
 > - **1990s — [[DARPA]] 模式的核心载体** 在微系统、计算机与隐身技术中，BAA 成为 DARPA 项目经理调控研发网络的核心抓手。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, p. 1137)]]
-> - **2010s至今 — 全球国家重大科技攻关借鉴** 中国“[[Open Competition Mechanism|揭榜挂帅]]”机制、欧盟 EIC Challenge 及英国 ARIA 招标机制均深度吸收了 BAA 的设计内核。
+> - **2010s至今 — 全球国家重大科技攻关借鉴** 中国“[[Open Competition Mechanism|揭榜挂帅]]”机制、[[EU|欧盟]] EIC Challenge 及英国 ARIA 招标机制均深度吸收了 BAA 的设计内核。
 
 ---
 

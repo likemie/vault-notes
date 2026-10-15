@@ -26,7 +26,7 @@ title: "Argument_Brown_Greany_2018_LPS"
 argument_key: "Argument_Brown_Greany_2018_LPS"
 argument_display_title: "The evidence-informed school system in England: Where should school leaders be focusing their efforts? Leadership and Policy in Schools, 17(1), 115–137"
 argument_kind: "journal-article"
-argument_related_count: 55
+argument_related_count: 56
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Operationalization]]"
   - "[[Variable]]"
+  - "[[Recontextualization]]"
   - "[[Reflexivity]]"
   - "[[Joint Practice Development]]"
   - "[[Lesson Study]]"
@@ -140,7 +141,7 @@ updated: 2026-09-21
 > | 变量维度与分类 | 理论构念与操作化定义 | 典型测量工具与作答结构 |
 > |---|---|---|
 > | **学校研究使用的准备状态**<br>（Outcome Construct） | 学校在四类关键因素上的具备程度，以全校教师与[[School Leadership\|学校领导]]者对学校实践现状的自陈同意度为可观察指标。（pp.126–127） | [[Research Learning Communities Baseline Survey Questionnaire\|研究学习共同体基线调查问卷]]共 14 题，采用 5 级李克特量表，逐题测算各级应答百分比分布。（pp.127–129） |
-> | **维度一：研究参与能力**<br>（Capacity to Engage in and with Research） | 教师理解、评估并运用研究证据与校本数据的专业素养，包含问题定位、证据稳健性辨识及本地化再情境化能力。（pp.122–123） | 覆盖 3 题：<br>• (1) 研究信息对教学实践有重要指导作用；<br>• (2) 研究信息在课堂应用新教学方法时有用；<br>• (3) 学校设有评价项目或实践成效的正式流程。 |
+> | **维度一：研究参与能力**<br>（Capacity to Engage in and with Research） | 教师理解、评估并运用研究证据与校本数据的专业素养，包含问题定位、证据稳健性辨识及本地化[[Recontextualization\|再情境化]]能力。（pp.122–123） | 覆盖 3 题：<br>• (1) 研究信息对教学实践有重要指导作用；<br>• (2) 研究信息在课堂应用新教学方法时有用；<br>• (3) 学校设有评价项目或实践成效的正式流程。 |
 > | **维度二：证据导向文化**<br>（School Cultures Attuned to Evidence Use） | 使研究使用成为全校共享文化常规的组织氛围，依托领导层的变革型承诺与学习中心型支持，形成安全分享与试错规范。（pp.123–124） | 覆盖 4 题：<br>• (4) 不支持在缺乏研究支撑的情况下推行全校性变革（反向态度题）；<br>• (5) 学校鼓励教师利用研究发现改进实践；<br>• (6) 学校用研究与证据向教职工提示潜在改进策略；<br>• (7) 校内人员乐于分享有效与无效的做法。 |
 > | **维度三：有效学习环境**<br>（Effective Learning Environments） | 将研究使用嵌入日常专业学习共同体的探究环境，强调[[Reflexivity\|反思性]]对话、对底层教学假设的质询及对新观念的开放接纳。（pp.124–125） | 覆盖 4 题：<br>• (8) 学校经常讨论可能影响关键决策的底层假设；<br>• (9) 教职工使用研究与证据激发围绕特定议题的深入对话；<br>• (10) 校内人员高度重视新想法；<br>• (11) 学校积极尝试新的工作方式。 |
 > | **维度四：结构系统与资源**<br>（Structures, Systems and Resources） | 保障研究使用与知识流动的制度性与物质性条件，包含时间、空间、经费保障及[[Joint Practice Development\|联合实践发展]]与[[Lesson Study\|课例研究]]等正式研讨机制。（p.125） | 覆盖 3 题：<br>• (12) 过去一年曾与同事讨论过相关研究发现；<br>• (13) 学校设有供教职工分享信息的正式论坛；<br>• (14) 学校为教职工的教育培训活动留出充足时间。（p.127） |
@@ -278,7 +279,7 @@ updated: 2026-09-21
 > [!feature] 参与研究并运用证据的三层核心能力素养
 > - **日常校本数据深度解读与问题诊断能力** 熟练解读学生[[Placement, Formative, Diagnostic, and Summative Testing\|形成性测验]]、出勤与课堂表现数据，从中精准定位真实的教学症结，而非停留于表面分数统计（Datnow et al., 2013; Schildkamp & Ehren, 2012）。
 > - **研究证据稳健性与方法质量评估能力** 理解基本的学术研究方法与局限，能够独立评估抽样偏差、测量效度、[[Reliability\|信度]]与因果推论的可靠性（Bennett, 2015; Goldacre, 2013）。
-> - **证据本地化再情境化与行动理论构建能力** 依托[[Nancy Cartwright\|南希·卡特赖特]]（Nancy Cartwright, 2013）与阿吉里斯与舍恩（Argyris & Schön, 1978）的理论，准确识别外部干预在原初情境中奏效的因果支撑条件，判断其能否在本地课堂成功再情境化。（pp.122–123）
+> - **证据本地化[[Recontextualization|再情境化]]与行动理论构建能力** 依托[[Nancy Cartwright\|南希·卡特赖特]]（Nancy Cartwright, 2013）与阿吉里斯与舍恩（Argyris & Schön, 1978）的理论，准确识别外部干预在原初情境中奏效的因果支撑条件，判断其能否在本地课堂成功再情境化。（pp.122–123）
 
 仅有专业素养尚不足以促成行动，必须有坚实的结构机制与资源配置为能力施展提供制度空间。
 

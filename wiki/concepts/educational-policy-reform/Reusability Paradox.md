@@ -5,7 +5,7 @@ aliases:
 summary: "Wiley提出的学习对象可重用性悖论，被Pellegrini与Vivanet用于说明教育项目越贴合特定情境就越难跨情境复用，越通用则越可能难以满足具体教育需求。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -24,13 +24,14 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[EU]]"
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
 related_arguments:
   - "[[Argument_Pellegrini_2021_ECNUROE]]"
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-09-02
+updated: 2026-10-16
 ---
 
 # Reusability Paradox
@@ -58,7 +59,7 @@ Pellegrini & Vivanet 将这一悖论移用到 [[Evidence-Based Education|证据�
 ## 实证发现
 
 > [!success]
-> 在欧洲语境中，可重用性悖论被 43 个教育系统、不同组织模式、不同课程大纲和 24 种欧盟官方语言放大。许多经验证项目来自英语国家，不能直接在非英语国家复用，必须重新开发本地语言材料并投入教育与研究方法专业能力([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.36]])。
+> 在欧洲语境中，可重用性悖论被 43 个教育系统、不同组织模式、不同课程大纲和 24 种[[EU|欧盟]]官方语言放大。许多经验证项目来自英语国家，不能直接在非英语国家复用，必须重新开发本地语言材料并投入教育与研究方法专业能力([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p.36]])。
 
 ## 争议与批评
 

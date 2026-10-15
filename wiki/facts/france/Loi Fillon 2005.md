@@ -12,7 +12,7 @@ subtype: policy
 region: france
 fact_region: "france"
 fact_kind: "policy"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -40,6 +40,7 @@ related_persons: []
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
+  - "[[EU]]"
   - "[[Lisbon Strategy]]"
   - "[[VSNU]]"
 related_arguments:
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-12
+updated: 2026-10-16
 ---
 
 # Loi Fillon 2005
@@ -59,7 +60,7 @@ updated: 2026-10-12
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2005 年 4 月 23 日由法国国民议会正式通过并颁布，由让-皮埃尔·拉法兰政府国民教育部长弗朗索瓦·菲永（François Fillon）主导推进。
 > - **适用地区 / 对象** 法国全境初等教育学校与初中（Collège）、普通及技术高中（Lycée）。
-> - **问题背景** 2000 年代初法国面临[[OECD|经济合作与发展组织]]（OECD）[[PISA|国际学生评估项目]]（PISA）与欧盟[[Lisbon Strategy|里斯本战略]]的跨国政策期望。尽管法国中央教育科层最初对 PISA 结果表现出相对冷淡，但随后的评估揭示出法国学生在基础阅读技能上的社会经济阶层分化日益严重，且中等教育普及未能有效打破弱势群体流动瓶颈。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
+> - **问题背景** 2000 年代初法国面临[[OECD|经济合作与发展组织]]（OECD）[[PISA|国际学生评估项目]]（PISA）与[[EU|欧盟]][[Lisbon Strategy|里斯本战略]]的跨国政策期望。尽管法国中央教育科层最初对 PISA 结果表现出相对冷淡，但随后的评估揭示出法国学生在基础阅读技能上的社会经济阶层分化日益严重，且中等教育普及未能有效打破弱势群体流动瓶颈。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
 > - **制度位置** 承接 1989 年《若斯潘教育指导法》，为法国新世纪“知识、技能与文化共同基底”（Socle commun de connaissances et de compétences）奠定首要法定基石。
 
 ---
@@ -110,7 +111,7 @@ updated: 2026-10-12
 ## 行动者与利益相关者
 
 > [!actor-grid] 权力—利益矩阵
-> - **高权力 · 高利益 — 关键行动者** 国民教育部与执政党保守派政府 — 试图借素养基底与平权对标[[Knowledge-Based Economy|知识经济]]与欧盟标准。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
+> - **高权力 · 高利益 — 关键行动者** 国民教育部与执政党保守派政府 — 试图借素养基底与平权对标[[Knowledge-Based Economy|知识经济]]与[[EU|欧盟]]标准。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]
 > - **高权力 · 低利益 — 潜在制衡者** 传统大学精英学院（[[Grandes Ecoles|Grandes Écoles]]）与学科教授协会 — 担忧“共同基底”导致学科精英培养标准降低。
 > - **低权力 · 高利益 — 受影响群体** 教师工会与初高中学生 — 强烈抵制编制削减与量化考核，爆发街头游行与罢课。
 > - **低权力 · 低利益 — 边缘行动者** 地方市镇政府 — 承担学校部分后勤保障职责，对国家教学大纲改革持中立态度。
@@ -157,7 +158,7 @@ updated: 2026-10-12
 > > - **传统精英学术论** 指责该法案迎合国际组织的新自由主义技能[[Discourse|话语]]，削弱了法国传统的学科深厚学术底蕴。
 
 > [!citation-card] 代表性学者评论：米歇尔论菲永法案的[[Paradigm|范式]]转向
-> 2005 年菲永法案在法国教育史上具有关键的分水岭意义。它标志着法国终于决定顺应[[OECD|经合组织]]与欧洲共同体的能力话语，告别单纯以教授知识为主的陈旧模式；但法案同时暴露了法国中央行政精英在面对教师工会抵制和阶层固化现实时的深层博弈困境。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]；Michel (2017)
+> 2005 年菲永法案在法国教育史上具有关键的分水岭意义。它标志着法国终于决定顺应[[OECD|经合组织]]与[[EU|欧洲共同体]]的能力话语，告别单纯以教授知识为主的陈旧模式；但法案同时暴露了法国中央行政精英在面对教师工会抵制和阶层固化现实时的深层博弈困境。[[Argument_Li_2025_HSSC|(Li et al., 2025)]]；Michel (2017)
 >
 > *The 2005 Fillon Law represented a historic turning point in French education, embedding the common core of competences into legislation in alignment with OECD frameworks, yet facing profound resistance from traditional republican structures.*
 
@@ -170,6 +171,6 @@ updated: 2026-10-12
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[PISA]] | Fact (Global) | 揭示法国学生社会阶层学业鸿沟、倒逼法国立足底线公平改革的跨国测评。 |
-> | [[Lisbon Strategy]] | Fact (EU) | 菲永法案制定弱势生与科技女性平权量化指标的重要欧盟宏观政策背景。 |
+> | [[Lisbon Strategy]] | Fact ([[EU]]) | 菲永法案制定弱势生与科技女性平权量化指标的重要欧盟宏观政策背景。 |
 > | [[21st Century Skills and Competencies Discourse]] | Concept | 支撑法国从传统学科教学转向“共同素养基底”的核心国际能力[[Discourse\|话语]]。 |
 > | [[OECD]] | Fact (Global) | 倡导[[Knowledge-Based Economy\|知识经济]]与[[Human Capital Theory\|人力资本]]监控、推动法国反思教育排斥的国际组织。 |

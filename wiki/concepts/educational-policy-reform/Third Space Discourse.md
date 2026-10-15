@@ -8,7 +8,7 @@ aliases:
 summary: "在教育研究-实践伙伴关系（RPP）与证据治理中，指大学研究者与学校一线实践者在跨界交往中形成的一种超越传统象牙塔学术话语与日常教学经验话语二元对立的杂合型公共沟通体系；该机制明确承认并包容两类群体的专业异质性与价值差异，拒绝单向强行同化，通过平等研讨场域实现协同问题界定、概念情境化重构与循证教学改进。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Institutional Drift]]"
   - "[[Scientific Literacy]]"
+  - "[[School Autonomy]]"
   - "[[Cumulative Knowledge Base]]"
   - "[[External Validity]]"
   - "[[Analytic Generalization]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-11
+updated: 2026-10-16
 ---
 
 # Third Space Discourse
@@ -193,7 +194,7 @@ updated: 2026-10-11
 > > 批判学者指出，第三空间[[Discourse|话语]]带有[[Jürgen Habermas\|哈贝马斯]]式的交往理性乌托邦色彩；在现实中，大学拥有文凭授予权、经费控制权与论文出版垄断权，中小学一线教师极难在无外力介入下实现真正平等的话语博弈。
 > >
 > > - **批判视角** 若无强制性资金分配改革（如基金会直接向学校拨付经费），第三空间话语易沦为学者单向采掘数据的精巧修辞。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 221–222)]]
-> > - **普勒茨辩护** 瑞典 ULF 经验证明，正是通过国家立法赋予学校自主发起课题权并设立常态微型研讨，制度化的第三空间可以有效重塑微观权力关系。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 216–218)]]
+> > - **普勒茨辩护** 瑞典 ULF 经验证明，正是通过国家立法赋予[[School Autonomy|学校自主]]发起课题权并设立常态微型研讨，制度化的第三空间可以有效重塑微观权力关系。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 216–218)]]
 >
 > > [!axis] 个案深度情境性 vs 全系统[[Cumulative Knowledge Base\|累积性知识库]]建构
 > > 在第三空间中孕育的知识高度嵌于特定学校的[[Organizational Culture\|组织文化]]与人际网络中，容易引发传统实验学派关于[[External Validity\|外部效度]]不足的责难。

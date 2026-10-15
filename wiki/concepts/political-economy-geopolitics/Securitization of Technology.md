@@ -8,7 +8,7 @@ aliases:
 summary: "指主权国家在地缘政治博弈加剧背景下，将半导体、人工智能等战略性关键技术、基础科研与产业链控制力上升为关乎国家生存与主权安全的核心议程；通过出口管制、投资审查、定向产业立法与有组织科研动员，将大学等创新主体深度嵌入国家安全体系。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 50
+related_count: 51
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -67,6 +67,7 @@ related_facts:
   - "[[Semiconductor Research Corporation]]"
   - "[[National Semiconductor Technology Center]]"
   - "[[Genesis Mission]]"
+  - "[[EU]]"
 related_arguments:
   - "[[Argument_Zhuo_2026_ICE]]"
   - "[[Argument_Fan_2026_BCAS]]"
@@ -77,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Securitization of Technology
@@ -301,4 +302,4 @@ updated: 2026-10-15
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 系统分析《[[CHIPS and Science Act|芯片与科学法案]]》背景下美国[[Research Universities|研究型大学]]在国家半导体体系中的角色重构，阐明基础研究引领、人才多级培养、多圈层网络编织与技术安全化协同治理的深层张力。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从长时段[[Social Contract of Science|科学社会契约]]演化视角，系统阐释 2025 年起美国科技政策转向以技术能力掌控为核心的替代契约，剖析国家实验室与企业崛起对研究型大学轴心地位的替代效应及三轨分化生态。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 诊断单向线性模型失灵，提出确立[[Pasteur's Quadrant|巴斯德象限]]导向、引入[[Focused Research Organization|聚焦研究组织]]（FRO）与前竞争联合体、依托[[Genesis Mission|创世纪计划]]整合国家算力网络并将[[Process Knowledge|默会过程知识]]锚定在实体制造之中。
-> - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 揭示地缘半导体竞赛下欧盟通过 [[Important Projects of Common European Interest|IPCEI ME/CT]] 整合 30 余所大学开展 180 项跨国产学协同攻关，展现超国家多边战略产学网络的新形态。
+> - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 揭示地缘半导体竞赛下[[EU|欧盟]]通过 [[Important Projects of Common European Interest|IPCEI ME/CT]] 整合 30 余所大学开展 180 项跨国产学协同攻关，展现超国家多边战略产学网络的新形态。

@@ -60,6 +60,7 @@ related_facts:
   - "[[World Bank]]"
   - "[[UNESCO]]"
   - "[[Gewerbe-Institut]]"
+  - "[[EU]]"
   - "[[Frascati Manual]]"
   - "[[Chinese Academy of Sciences]]"
   - "[[Education for All]]"
@@ -76,7 +77,7 @@ title: "Argument_Freeman_1995_CJE"
 argument_key: "Argument_Freeman_1995_CJE"
 argument_display_title: "The 'National System of Innovation' in historical perspective"
 argument_kind: "journal-article"
-argument_related_count: 40
+argument_related_count: 41
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -215,7 +216,7 @@ issuing_organization: ""
 > | 国家／地区 | 1934 年 | 1967 年 | 1983 年（全量研发） | 1983 年（扣除军工后的民用研发） |
 > |---|---|---|---|---|
 > | **美国** | 0.6% | 3.1% | 2.7% | 2.0% |
-> | **欧洲共同体（European Community, EC*）** | 0.2% | 1.2% | 2.1% | 1.8% |
+> | **[[EU\|欧洲共同体]]（European Community, EC*）** | 0.2% | 1.2% | 2.1% | 1.8% |
 > | **日本** | 0.1% | 1.0% | 2.7% | 2.7% |
 > | **前苏联（USSR）** | 0.3% | 3.2% | 3.6% | 1.0% |
 >

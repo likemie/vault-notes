@@ -60,7 +60,7 @@ updated: 2026-09-17
 > [!citation-card]- 关键表述
 > 实践范式的课程不仅关注理解，更对解放作出明确承诺。在这一范式中，行动不仅受思想指导，更是有政治承诺的变革实践。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 68)]]
 >
-> *The praxis model of curriculum makes an explicit commitment to emancipation... Action is not simply informed, it is also committed. It is praxis. (Grundy, 1987; Darwish, 2009, p. 68)*
+> *The praxis model of curriculum makes an explicit commitment to emancipation... Action is not simply informed, it is also committed. It is praxis. (Grundy, 1987; [[Argument_Darwish_2009_Queens|Darwish, 2009, p. 68]])*
 
 > [!boundary]- 概念边界
 > - 不等于 [[Curriculum as Process\|作为过程的课程]] — 过程范式关注课堂内的审议与理解，但缺乏显性的社会变革政治承诺。

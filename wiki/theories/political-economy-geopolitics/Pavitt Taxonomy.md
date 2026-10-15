@@ -8,7 +8,7 @@ aliases:
 summary: "Keith Pavitt 于 1984 年提出的产业创新模式分类框架，将制造业分为科学基础型、专业供应商型、规模密集型、供应商主导型四类，2016 年由 Bogliacino and Pianta 修订扩展至服务业和信息通信技术行业"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 12
+theory_related_count: 13
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -31,13 +31,14 @@ related_persons: []
 related_facts:
   - "[[Community Innovation Survey]]"
   - "[[Sectoral Innovation Database]]"
+  - "[[EU]]"
 related_arguments:
   - "[[Argument_Pavitt_1984_RP]]"
   - "[[Argument_Bogliacino_Pianta_2016_EP]]"
 confidence: medium
 status: draft
 created: 2026-06-10
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Pavitt Taxonomy
@@ -77,7 +78,7 @@ updated: 2026-10-15
 > - **保留原始四类的核心结构** 实证检验确认 Pavitt 的四个类别在不同国家和时间段仍然稳健，能够解释产业间创新模式的主要差异
 > - **扩展至服务业** 将服务行业按创新特征分配到各类别。通信、研发和计算机服务被归入科学基础型；房地产、设备租赁和其他商业活动归入专业供应商型；金融和保险服务因其大规模采用 ICT 设备被归入一个新的类别——**规模与信息密集型（Scale and Information Intensive, SII，替代原规模密集型）**；批发零售贸易和运输服务归入供应商主导型
 > - **整合 ICT 活动** ICT 相关行业因其对信息和数据处理的双重依赖，在修订版中被归入规模和信息技术密集型类别
-> - **提供 NACE Rev. 2 映射** 由于欧盟行业分类在 2008 年从 NACE Rev. 1 转换为 NACE Rev. 2，修订版提供了新旧分类的行业对应关系（pp.160-165）
+> - **提供 NACE Rev. 2 映射** 由于[[EU|欧盟]]行业分类在 2008 年从 NACE Rev. 1 转换为 NACE Rev. 2，修订版提供了新旧分类的行业对应关系（pp.160-165）
 
 ### 修订版四个类别
 

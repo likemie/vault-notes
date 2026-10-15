@@ -6,7 +6,7 @@ aliases:
 summary: "以严格实验研究有效性证据作为选择教育项目和产品核心标准的政策治理框架，强调已验证项目存量、独立证据审查与政府财政激励三者的联动循环"
 type: concept
 domain: "educational-policy-reform"
-related_count: 82
+related_count: 83
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -80,6 +80,7 @@ related_facts:
   - "[[Investing in Innovation Program]]"
   - "[[Education Innovation and Research]]"
   - "[[Education Endowment Foundation]]"
+  - "[[EU]]"
   - "[[Pact for Educational Excellence]]"
   - "[[National Diffusion Network]]"
   - "[[No Child Left Behind Act 2001]]"
@@ -109,7 +110,7 @@ related_arguments:
   - "[[Argument_Altrichter_2019_ZfB]]"
 status: draft
 created: '2026-05-01'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Evidence-Based Reform
@@ -207,7 +208,7 @@ updated: 2026-10-15
 > 探讨欧洲大陆、中国及法语区在引入证据本位改革时所面临的证据库薄弱、语言壁垒与哲学传统差异。
 
 > [!claim] Pellegrini, M., & Vivanet, G.
-> **欧洲分权体系下的柔性证据知情协调路径** 在欧洲大陆多语言与去中心化治理环境下，刚性实验证据门槛面临严峻的语言壁垒与机构协调困难，欧盟倾向于采取包容性更强的“证据知情”（[[Evidence-Informed Practice\|EIP]]）软法治理路径，通过网络搭建与能力建设促进证据利用。[[Argument_Pellegrini_2021_ECNUROE\|(Pellegrini & Vivanet, 2021, pp. 26–36)]]
+> **欧洲分权体系下的柔性证据知情协调路径** 在欧洲大陆多语言与去中心化治理环境下，刚性实验证据门槛面临严峻的语言壁垒与机构协调困难，[[EU|欧盟]]倾向于采取包容性更强的“证据知情”（[[Evidence-Informed Practice\|EIP]]）软法治理路径，通过网络搭建与能力建设促进证据利用。[[Argument_Pellegrini_2021_ECNUROE\|(Pellegrini & Vivanet, 2021, pp. 26–36)]]
 
 > [!claim] Slavin, R. E., [[Alan C. K. Cheung\|Cheung, A. C. K.]], & [[Tengteng Zhuang\|Zhuang, T.]]
 > **中国教育实证研究的制度化发展与方法论反思** 中国教育实证研究经历了制度化快速增长（华东师范大学国际论坛与《华东师范大学宣言》），但在吸收循证改革时也展开了关于“统计主义”、价值不可量化与质性实证合法性的深层学术对话。[[Argument_Slavin_2021_ECNUROE\|(Slavin et al., 2021, pp. 11–17)]]

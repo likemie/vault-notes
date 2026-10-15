@@ -10,7 +10,7 @@ subtype: program
 region: "germany"
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 10
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -23,6 +23,7 @@ tags:
   - theme/educational-governance
   - theme/municipal-monitoring
 related_concepts:
+  - "[[Public-Private Partnership]]"
   - "[[Lifelong Learning]]"
   - "[[Data Infrastructure]]"
   - "[[Rescaling]]"
@@ -35,13 +36,14 @@ related_persons:
 related_facts:
   - "[[Federal Ministry of Education and Research]]"
   - "[[English Schools Foundation Hong Kong]]"
+  - "[[EU]]"
   - "[[Leibniz Institute for Educational Research and Educational Information]]"
 related_arguments:
   - "[[Argument_Hartong_2018_GSE]]"
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Lernen vor Ort
@@ -55,7 +57,7 @@ updated: 2026-10-15
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2009 年启动，历经两期资助（2009–2012，2012–2014），于 2014 年底正式结项。
-> - **发起方与资助机制** BMBF 与 ESF 提供总额约 1.2 亿欧元的国库与欧盟配比资金，同时联合全德近 180 家私人基金会形成公私伙伴关系（Public-Private Partnerships, PPPs）。
+> - **发起方与资助机制** BMBF 与 ESF 提供总额约 1.2 亿欧元的国库与[[EU|欧盟]]配比资金，同时联合全德近 180 家私人基金会形成[[Public-Private Partnership|公私伙伴关系]]（Public-Private Partnerships, PPPs）。
 > - **覆盖范围与对象** 在全德 16 个联邦州资助了 35 个示范性市镇与县区（覆盖柏林、汉堡、莱比锡、科隆、纽伦堡等主要城市与农村地区）。
 > - **核心问题导向** 打破传统德国地方教育碎片化、各职能部门（学校局、青年局、社会救助局、劳工局）数据孤立分割的局面，强化地方政府对全域教育生态的自主统筹与循证调控能力（[[Argument_Hartong_2018_GSE\|Hartong, 2018, pp. 142–143]]）。
 

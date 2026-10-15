@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13"
 argument_display_title: "Research Methods in Education · Ch13"
 argument_kind: "book-chapter"
-argument_related_count: 55
+argument_related_count: 56
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -83,6 +83,7 @@ related_methods:
   - "[[Internal Consistency]]"
   - "[[Cross-checking]]"
 related_facts:
+  - "[[EU]]"
   - "[[PISA]]"
   - "[[TIMSS]]"
   - "[[National Assessment of Educational Progress]]"
@@ -486,7 +487,7 @@ Borg & Gall (1979, p. 291)对队列研究和面板研究做出了关键区分。
 > - **结合数值和质性数据** 不限于单一数据类型
 
 > [!weakness] 纵向研究的七项局限
-> - **样本流失（attrition）** Gorard (2001b)：一项职业与身份研究首轮回应率 60–70%，第三轮降至 25%，且每轮更中产阶级化；英国青年队列研究（Youth Cohort Study）仅 **45%** 受访者参加全部三轮。Ruspini (2002, p. 72)：1997 年欧洲共同体家庭面板调查（European Community Household Panel，ECHP）三轮中流失率 **78%**（p.270）。
+> - **样本流失（attrition）** Gorard (2001b)：一项职业与身份研究首轮回应率 60–70%，第三轮降至 25%，且每轮更中产阶级化；英国青年队列研究（Youth Cohort Study）仅 **45%** 受访者参加全部三轮。Ruspini (2002, p. 72)：1997 年[[EU|欧洲共同体]]家庭面板调查（European Community Household Panel，ECHP）三轮中流失率 **78%**（p.270）。
 > - **测量误差的累积放大** 小误差随时间推移会累积放大，如收入误差在某个时间点发生，可能导致关于贫困和失业的"虚假转变"（false transitions）。
 > - **预试敏感化** Dooley (2001, p. 120)举例：健康调查首轮提高吸烟危害意识 → 第二轮前减少或戒烟 → 记录的变化是调查本身造成的。
 > - **研究团队变化** 不同研究者在时间上的变化可能导致受访者回答的差异，即使使用相同工具。

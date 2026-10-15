@@ -36,6 +36,7 @@ related_persons:
   - "[[Steven Brint]]"
 related_facts:
   - "[[CHIPS and Science Act]]"
+  - "[[EU]]"
   - "[[National Science Foundation]]"
   - "[[America COMPETES Act]]"
   - "[[Horizon Europe]]"
@@ -55,7 +56,7 @@ title: "Argument_Brint_2023_IHE"
 argument_key: "Argument_Brint_2023_IHE"
 argument_display_title: "The US “CHIPS and Science” Act launches industrial policy as counter to China"
 argument_kind: "journal-article"
-argument_related_count: 16
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -91,7 +92,7 @@ issuing_organization: ""
 > |---|---|
 > | **[[Modern Industrial Policy\|现代产业政策]]** | 解释政府为何不再单纯依赖市场调节，而是打破传统理念，直接圈定重点技术清单并出资扶持特定优势产业。（p. 9） |
 > | **[[Critical Geopolitics\|批判地缘政治学]]** | 阐释大国如何将科技发展与国家安全挂钩，把半导体芯片与前沿科研定义为决定大国兴衰的关键战略资产。（p. 10） |
-> | **[[Three Generations of Mission-Oriented Policy\|三代使命导向政策理论]]** | 提供横向对比框架：展现美中两国聚焦关键产业与安全防御的科技攻关，与欧盟聚焦气候与社会可持续发展的不同模式。 |
+> | **[[Three Generations of Mission-Oriented Policy\|三代使命导向政策理论]]** | 提供横向对比框架：展现美中两国聚焦关键产业与安全防御的科技攻关，与[[EU\|欧盟]]聚焦气候与社会可持续发展的不同模式。 |
 > | **[[Use-Inspired Basic Research\|应用启发的基础研究]]** | 解释[[National Science Foundation\|美国国家科学基金会]]（National Science Foundation, NSF）设立新部门的定位：促使大学的基础科研更加贴近现实工业需求，加速科研成果转化。 |
 
 > [!warrant]- 理论如何支撑论证
@@ -106,7 +107,7 @@ issuing_organization: ""
 > |---|---|
 > | **立法文本与制度分析** | 细致研读千页规模的《[[CHIPS and Science Act\|芯片与科学法案]]》法条，对比众议院方案与参议院方案在政府干预程度上的争论与最终妥协结果。（pp. 9–10） |
 > | **历史经验与官方审计核查** | 追踪 2007 年与 2010 年《[[America COMPETES Act\|美国竞争法]]》的历史执行数据，引用美国政府问责局（Government Accountability Office, GAO）的审计结论检验拨款落实率。 |
-> | **国际科技战略比较分析** | 系统梳理美国、中国与欧盟在科研经费投入、体制动员特点、潜在治理难题及战略侧重点上的异同。（p. 10） |
+> | **国际科技战略比较分析** | 系统梳理美国、中国与[[EU\|欧盟]]在科研经费投入、体制动员特点、潜在治理难题及战略侧重点上的异同。（p. 10） |
 
 > [!sample-panel]- 样本与材料快照
 > | 样本层面 | 构成 |
@@ -285,7 +286,7 @@ issuing_organization: ""
 > |---|---|---|---|
 > | **美国** | 2022 年《[[CHIPS and Science Act\|芯片与科学法案]]》 | 授权 2800 亿美元（含 520 亿芯片制造专项） | **产业安全与大国竞争** 以抗衡中国崛起为主轴，打破市场不干预原则，扶持本土芯片制造并由政府圈定关键前沿技术。 |
 > | **中国** | 《[[Made in China 2025\|中国制造2025]]》及国家科技中长期规划 | 研发投资二十年增四倍，总额逼近美国 | **综合追赶与自主创新** 依托体制动员与四倍工科毕业生规模，攻克关键材料与高精尖装备，同时注重吸纳市场竞争机制。 |
-> | **欧盟** | 2021–2027 年“[[Horizon Europe\|地平线欧洲]]”规划 | 投入近 1000 亿欧元 | **社会福祉与绿色可持续** 将过半经费专门投向应对气候变化、海洋健康、智慧城市、战胜癌症与土壤健康五大社会使命。 |
+> | **[[EU\|欧盟]]** | 2021–2027 年“[[Horizon Europe\|地平线欧洲]]”规划 | 投入近 1000 亿欧元 | **社会福祉与绿色可持续** 将过半经费专门投向应对气候变化、海洋健康、智慧城市、战胜癌症与土壤健康五大社会使命。 |
 
 ---
 
@@ -296,7 +297,7 @@ issuing_organization: ""
 > 2. **大学在科研课题与人才培养上迎来重要发展机会** 法案圈定二十项前沿技术，大幅授权扩充两[[Big Science|大科学]]机构的预算，增设成果转化新部门，并将国家理工科博士生奖学金名额扩大 50%。
 > 3. **法案面临账面授权与实际到账经费脱节的重大风险** 美国法律中授权的金额往往难以全额拨付，历史审计表明过去同类法案中仅有二十八分之一的新项目最终拿到了全部预算。
 > 4. **中美政策出现经验互换且中国在人才规模上占优** 中国在规划中注重引入市场机制，美国却反向采纳国家集中投资干预；中国在高校理工科毕业生年产量上拥有对美国的四倍规模优势。
-> 5. **欧洲在科技发展上独辟蹊径强调生态与社会使命** 与美中聚焦产业竞争与地缘防御不同，欧盟将过半预算倾斜于气候适应、海洋健康、城市治理与癌症防治等社会可持续领域。
+> 5. **欧洲在科技发展上独辟蹊径强调生态与社会使命** 与美中聚焦产业竞争与地缘防御不同，[[EU|欧盟]]将过半预算倾斜于气候适应、海洋健康、城市治理与癌症防治等社会可持续领域。
 
 > [!stat-cards]- 核心数据（pp. 9–10）
 > - **2800 亿美元** 《芯片与科学法案》授权的新增科技支出总额。

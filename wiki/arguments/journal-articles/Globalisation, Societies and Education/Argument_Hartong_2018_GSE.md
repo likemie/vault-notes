@@ -7,7 +7,7 @@ title: "Argument_Hartong_2018_GSE"
 argument_key: "Argument_Hartong_2018_GSE"
 argument_display_title: "Towards a topological re-assemblage of education policy? Observing the implementation of performance data infrastructures and ‘centers of calculation’ in Germany"
 argument_kind: "journal-article"
-argument_related_count: 42
+argument_related_count: 43
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Policy Mobility]]"
   - "[[Total War]]"
+  - "[[Public-Private Partnership]]"
   - "[[Champ]]"
 related_theories:
   - "[[Actor-Network Theory]]"
@@ -218,7 +219,7 @@ updated: 2026-09-18
 
 > [!policy-context] 联邦教研部（BMBF）对实证基建与地方监测的赋能重组
 > - **全生命周期追踪基建：[[National Educational Panel Study\|NEPS]]** BMBF 于 2009 年资助建立全德 20 余所科研机构联合的教育发展追踪网络，跟踪 6 大起始队列逾 6 万名受试者，并在 2013 年正式确立为联邦与各州共建的永久性国家科研基建。
-> - **地方监测与公私伙伴计划：[[Lernen vor Ort]]** BMBF 联合慈善基金会于 2009–2014 年资助 35 个示范市镇建立地方教育管理与监测报告，以公私伙伴关系穿透州级壁垒直接赋能基层学区。（pp. 142–143）
+> - **地方监测与公私伙伴计划：[[Lernen vor Ort]]** BMBF 联合慈善基金会于 2009–2014 年资助 35 个示范市镇建立地方教育管理与监测报告，以[[Public-Private Partnership|公私伙伴关系]]穿透州级壁垒直接赋能基层学区。（pp. 142–143）
 
 > [!example]- 图1：德国标准化绩效评价体系
 > ![](https://img.mylikemie.icu/sources/Hartong_2018_GSE/figures/Hartong_2018_GSE_Fig1_Standardised_Performance_Assessments_Germany.jpg)

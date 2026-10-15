@@ -7,7 +7,7 @@ summary: "意大利裔经济学家，伦敦大学学院创新与公共目的研�
 type: person
 nationality: italy
 person_region: "italy"
-person_related_count: 29
+person_related_count: 30
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -48,6 +48,7 @@ related_methods:
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[EU]]"
   - "[[DARPA]]"
   - "[[Horizon Europe]]"
   - "[[CHIPS and Science Act]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # Mariana Mazzucato
@@ -92,7 +93,7 @@ updated: 2026-10-08
 > - **1999** 获得新社会研究学院（The New School for Social Research）经济学博士学位。
 > - **2013** 出版代表作《企业型国家》（*The Entrepreneurial State*），系统论证了国家在苹果智能手机、生物制药、互联网等关键颠覆性创新中承担早期高风险投资的引领者角色。
 > - **2017** 创立伦敦大学学院创新与公共目的研究所（IIPP），并担任创始所长。
-> - **2018** 受欧盟委员会委托发布政策报告《欧盟使命导向研究与创新》（*[[Mission-Oriented Research]] & Innovation in the European Union*），同年在《工业与企业变迁》（*Industrial and Corporate Change*）发表关于[[Mission-Oriented Innovation Policy|使命导向创新政策]]挑战与机遇的奠基性理论论文。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–815)]]
+> - **2018** 受[[EU|欧盟]]委员会委托发布政策报告《欧盟使命导向研究与创新》（*[[Mission-Oriented Research]] & Innovation in the European Union*），同年在《工业与企业变迁》（*Industrial and Corporate Change*）发表关于[[Mission-Oriented Innovation Policy|使命导向创新政策]]挑战与机遇的奠基性理论论文。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–815)]]
 > - **2021 至今** 担任世界卫生组织全民健康经济学委员会（WHO Council on the Economics of Health for All）主席。
 
 ---
@@ -131,7 +132,7 @@ updated: 2026-10-08
 
 > [!influence-path] 影响路径
 > - **理论路径** 拓展了[[Evolutionary Economics|演化经济学]]与国家[[Systems of Innovation|创新系统]]（[[National Innovation System|National Systems of Innovation]]）理论，推动创新研究从“[[Market Failure|市场失灵]]修补”转向“[[Market Shaping and Creating|市场共创]]与[[Public Value|公共价值创造]]”，提出了完备的 ROAR [[Analytic Framework|分析框架]]。
-> - **政策与立法路径** 直接塑造了欧盟“[[Horizon Europe|地平线欧洲]]”（Horizon Europe）框架计划的架构，为美欧半导体法案（[[CHIPS and Science Act|CHIPS Act]]）与绿色转型产业政策提供了附加条件契约[[Paradigm|范式]]。
+> - **政策与立法路径** 直接塑造了[[EU|欧盟]]“[[Horizon Europe|地平线欧洲]]”（Horizon Europe）框架计划的架构，为美欧半导体法案（[[CHIPS and Science Act|CHIPS Act]]）与绿色转型产业政策提供了附加条件契约[[Paradigm|范式]]。
 > - **技术政治经济学批判** 其关于公共研发奠基作用的论证，被 [[Technological Republic|技术共和国]] 框架用作打破科技巨头“自发创新神话”、批判硅谷[[Historical Amnesia|历史健忘症]]与重建政产协同契约的基石理论。
 
 ---
@@ -147,7 +148,7 @@ updated: 2026-10-08
 > > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] 主张以社会挑战而非特定行业为靶向，通过“[[Picking the Willing|挑选意愿者]]”而非“挑选赢家”来规避传统寻租弊端。
 >
 > > [!axis] 超国家“协调者”理想与主权财政赤字现实
-> > 比较政治经济学者检验马祖卡托倡导的国家塑造者与协调者模式在缺乏统一财政的超国家实体（欧盟）中的落地成效，指出其低估了制度结构约束。
+> > 比较政治经济学者检验马祖卡托倡导的国家塑造者与协调者模式在缺乏统一财政的超国家实体（[[EU|欧盟]]）中的落地成效，指出其低估了制度结构约束。
 > >
 > > - **[[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]]** 批评指出，欧委会试图扮演马祖卡托式的“[[Orchestrator State|产业政策协调者]]”，但因缺乏中央独立财政资源与直投能力，政策实质蜕化为放宽成员国国家援助，导致富国垄断补贴而小国被边缘化的单一市场分裂风险。
 > > - **理论辩护** 强调这并非使命导向或[[Public Value|公共价值]]理论本身的缺陷，而是多层级宪政体制中超国家财政工具供给不足的制度滞后。

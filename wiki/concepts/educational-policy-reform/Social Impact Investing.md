@@ -10,7 +10,7 @@ aliases:
 summary: "指将金融市场的风险投资与私募股权纪律同明确可测量的社会或教育改善目标相结合的投资范式；强调在追求财务回报（或资金保值）的同时实现经由量规审计的社会效益回报（ROI），以社会影响力债券和成果导向合同重塑公共教育供给。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Public Value]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Professional Judgment]]"
+  - "[[Public-Private Partnership]]"
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-20
-updated: 2026-10-03
+updated: 2026-10-16
 ---
 
 # Social Impact Investing
@@ -129,7 +130,7 @@ updated: 2026-10-03
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **教育金融化命题** | 影响力投资将公共教育转化为金融衍生品，国家退化为成果买单兜底者 | 影响力债券发行、公私伙伴关系合同设计 | Saltman (2010); [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] |
+> | **教育金融化命题** | 影响力投资将公共教育转化为金融衍生品，国家退化为成果买单兜底者 | 影响力债券发行、[[Public-Private Partnership\|公私伙伴关系]]合同设计 | Saltman (2010); [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] |
 > | **量规异化命题** | 按成效付费导致教学过度追求量化指标，侵蚀教师判断并诱发歧视 | 学校考评量规设计、弱势项目成效审查 | Nicholls et al. (2015) |
 
 ---

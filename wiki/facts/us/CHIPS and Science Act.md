@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 69
+fact_related_count: 70
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -84,6 +84,7 @@ related_facts:
   - "[[National Strategy on Microelectronics Research]]"
   - "[[Albany NanoTech Complex]]"
   - "[[America COMPETES Act]]"
+  - "[[EU]]"
   - "[[October 2022 US Semiconductor Export Controls]]"
   - "[[European Chips Act]]"
 related_arguments:
@@ -103,7 +104,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-05-28
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # CHIPS and Science Act
@@ -272,7 +273,7 @@ updated: 2026-10-15
 
 > [!critique] 外部批评
 > - **授权经费与实际拨款落地脱节（拨款落空风险）** 法案虽然授权了总计高达 2800 亿美元的科技研发与产业支出，但美国立法体制中“授权”（Authorization）并不等同于最终由拨款委员会落实的“实际拨款”（Appropriation）。除了半导体直接制造补贴相对确定外，基础科研机构（如 [[National Science Foundation|NSF]]、[[Department of Energy|DOE]] 科学办公室）的巨额增量经费极易在后续两党拨款博弈中大幅缩水；正如美国政府问责局（GAO）针对 2007 年《[[America COMPETES Act|美国竞争法]]》及其 2010 年再授权法案的审计显示，28 项新设政策项目中仅有 1 项最终获得了完全资助与落实。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 10)]]
-> - **诱发全球补贴内耗与保护主义螺旋** 美国的巨额补贴迫使欧盟、日本、韩国纷纷跟进出台同等力度的补贴政策，引发盟友间的资本争夺与世贸规则失效。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 7)]]
+> - **诱发全球补贴内耗与保护主义螺旋** 美国的巨额补贴迫使[[EU|欧盟]]、日本、韩国纷纷跟进出台同等力度的补贴政策，引发盟友间的资本争夺与世贸规则失效。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 7)]]
 > - **技术工人与工程师供给断层** 美国本土缺乏足够的半导体工艺工程师与熟练技师（至 2030 年面临 6.7 万名专业岗位缺口），导致亚利桑那[[Taiwan Semiconductor Manufacturing Corporation|台积电]]晶圆厂等关键项目发生投产延期。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 20)]]
 > - **高校内部跨学科协同壁垒与模式约束** 大学在承接芯片法案科研任务时，面临教师日常科研与教学任务冲突导致的研讨时间严重不足（调查中 63%–75% 学者反馈讨论时间受限），且混合会议模式削弱了线上参会者的[[Presence|沉浸感]]与人际互信，制约了跨系所科研团队的深层孵化。[[Argument_Murphy_2026_JTS|(Murphy Jr. et al., 2026, pp. 5–7)]]
 
@@ -309,7 +310,7 @@ updated: 2026-10-15
 > | [[National Strategy on Microelectronics Research]] | Fact (Policy) | 依据法案与 NDAA 授权编制的顶层国家微电子科研战略纲领。 |
 > | [[Innovation Hub]] | Concept | 法案设立的 [[Regional Technology and Innovation Hubs\|Tech Hubs]] 计划为全美区域创新中心提供长期制度与资金支持。 |
 > | [[October 2022 US Semiconductor Export Controls]] | Fact | 与本法案补贴形成“胡萝卜与大棒”攻守协同组合拳。 |
-> | [[European Chips Act]] | Fact | 欧盟针对美国芯片法案出台的对标与协同立法。 |
+> | [[European Chips Act]] | Fact | [[EU\|欧盟]]针对美国芯片法案出台的对标与协同立法。 |
 > | [[Inflation Reduction Act]] | Fact | 拜登政府现代产业战略的三大支柱之一，聚焦清洁能源与绿色低碳转型。 |
 > | [[Infrastructure Investment and Jobs Act]] | Fact | 拜登政府现代产业战略的三大支柱之一，为先进制造落地提供基础网络支撑。 |
 

@@ -27,7 +27,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Competitiveness]]"
   - "[[Data Infrastructure]]"
-  - "[[Public-Private Partnership in Research]]"
+  - "[[Public-Private Partnership]]"
   - "[[Variable]]"
   - "[[Market Failure]]"
   - "[[Precompetitive Research]]"
@@ -66,7 +66,7 @@ updated: 2026-10-15
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2025 年末伴随《[[Science A New Golden Age 2026|科学：新的黄金时代]]》战略与创世纪计划行政令正式启动，设定十年攻关周期（2025–2035）。
-> - **发起方与资助机制** 由白宫科技政策办公室统筹，能源部科学办公室牵头执行，采用“联邦算力与[[Data Infrastructure|数据基础设施]]入股 + 私营企业工程研发与算力配比”的公私伙伴（[[Public-Private Partnership in Research|PPP]]）联合投资模式。
+> - **发起方与资助机制** 由白宫科技政策办公室统筹，能源部科学办公室牵头执行，采用“联邦算力与[[Data Infrastructure|数据基础设施]]入股 + 私营企业工程研发与算力配比”的公私伙伴（[[Public-Private Partnership|PPP]]）联合投资模式。
 > - **覆盖范围与对象** 深度连接能源部国家实验室、顶尖科技巨头实验室（算力与基础模型研发团队）、半导体制造企业及国家安全研究机构。
 > - **核心问题导向** 解决前沿硬科学大模型训练面临的数据稀缺、物理多[[Variable|变量]]约束复杂、算力成本极其高昂以及民间纯商业资本不愿涉足基础物理底层模型的[[Market Failure|市场失灵]]。
 

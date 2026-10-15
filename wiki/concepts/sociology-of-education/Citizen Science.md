@@ -10,7 +10,7 @@ aliases:
 summary: "公众自愿、直接参与科学研究全生命周期（从数据采集、模式分类到议程共创与政策转化）的协作科研范式，兼具突破科研时空瓶颈、赋权公众科学资本与民主化重大使命创新方向的多维价值。"
 type: concept
 domain: "sociology-of-education"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -43,6 +43,7 @@ related_facts:
   - "[[The Perception Census]]"
   - "[[Public Attitudes to Science]]"
   - "[[UN Sustainable Development Goals]]"
+  - "[[EU]]"
   - "[[Horizon Europe]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02]]"
@@ -57,7 +58,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-08-23
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Citizen Science
@@ -129,7 +130,7 @@ updated: 2026-10-15
 > [!concept-proposition] 命题四｜公民科学是民主化创新方向与落实重大使命政策的社会探针
 > **解释** 在[[Mission-Oriented Innovation Policy|使命导向创新政策]]框架下，重大科技战略不能仅依赖技术精英的自上而下闭门决策，而必须与[[UN Sustainable Development Goals|联合国可持续发展目标]]及广泛社会关切深度锚定。公民科学作为自下而上激发社会参与的结构性机制，能够广泛汇集民间智慧与分布式实验方案，使应对气候变化、海洋塑料治理与健康老龄化等[[Wicked Problem|棘手问题]]的国家使命具备坚实的公众合法性与落地黏性。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805, 807, 810)]]
 >
-> **应用实例** 欧盟“[[Horizon Europe|地平线欧洲]]”（Horizon Europe）与英国环境、食品和农村事务部（Department for Environment, Food and Rural Affairs, Defra）将公民科学采集的水体微塑料数据与土壤健康网络直接嵌入环境使命实施标准，形成国家政策与公众行动的双向闭环。
+> **应用实例** [[EU|欧盟]]“[[Horizon Europe|地平线欧洲]]”（Horizon Europe）与英国环境、食品和农村事务部（Department for Environment, Food and Rural Affairs, Defra）将公民科学采集的水体微塑料数据与土壤健康网络直接嵌入环境使命实施标准，形成国家政策与公众行动的双向闭环。
 
 ---
 
@@ -140,7 +141,7 @@ updated: 2026-10-15
 > - **第一阶段（19 世纪至 20 世纪初）：业余博物学与天文学观测** 以业余观鸟、昆虫标本搜集及气象记录为主，主要由少数具备闲暇与经济基础的知识精英主导。
 > - **第二阶段（2000 年代）：数字化众包与分布式计算** 依托互联网与个人电脑，以 Zooniverse、Galaxy Zoo、SETI@home 为代表，动员全球数百万网民远程协同完成海量图像分类与天文信号模式识别。
 > - **第三阶段（2010 年代）：分布式生态监测与国家治理对接** 结合智能手机定位与高清图像识别，以[[Big Butterfly Count|大蝴蝶计数]]、iNaturalist 为代表，将公众采集的极高时空分辨率数据直接接入国家法定生物多样性监测与生态红线规划。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, p. 43)]]
-> - **第四阶段（2020 年代至今）：使命导向共创、认知普查与社区主导科研** 将前沿神经认知科学、社区自主基金与[[Mission-Oriented Innovation Policy|使命导向创新政策]]深度融合（如造梦机器、[[The Perception Census|感知普查]]、The Ideas Fund 与欧盟绿色转型公民议程），开创了以公众[[Epistemology|认识论]]重塑与国家重大使命社会共创为导向的第四代公民科学。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, pp. 43–44)]]；[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805–807)]]
+> - **第四阶段（2020 年代至今）：使命导向共创、认知普查与社区主导科研** 将前沿神经认知科学、社区自主基金与[[Mission-Oriented Innovation Policy|使命导向创新政策]]深度融合（如造梦机器、[[The Perception Census|感知普查]]、The Ideas Fund 与[[EU|欧盟]]绿色转型公民议程），开创了以公众[[Epistemology|认识论]]重塑与国家重大使命社会共创为导向的第四代公民科学。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch02|(The Royal Society, 2026, pp. 43–44)]]；[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 805–807)]]
 
 ---
 

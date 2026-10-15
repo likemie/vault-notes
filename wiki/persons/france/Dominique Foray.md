@@ -9,7 +9,7 @@ summary: "法国著名经济学家、创新与知识经济学权威，瑞士洛�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 32
+person_related_count: 33
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -59,13 +59,14 @@ related_facts:
   - "[[CNRS]]"
   - "[[OECD]]"
   - "[[Centre for Educational Research and Innovation]]"
+  - "[[EU]]"
 related_arguments:
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Ulrichsen_2025_UIR_Evolution]]"
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Dominique Foray
@@ -77,7 +78,7 @@ updated: 2026-10-15
 > [!person-profile] 人物档案
 > - **身份位置** 法国当代著名经济学家、创新学学者，瑞士洛桑联邦理工学院（EPFL）创新与[[Knowledge-Based Economy|知识经济]]管理荣休教授，曾任[[CNRS|法国国家科学研究中心]]（[[CNRS]]）研究主任、巴黎第九大学教授，以及[[OECD|经济合作与发展组织]]（[[OECD]]）科技与工业司资深分析师及[[Centre for Educational Research and Innovation|教育研究与创新中心]]（[[Centre for Educational Research and Innovation|CERI]]）核心学术顾问。
 > - **核心角色** 知识经济学（Economics of Knowledge）与“学习型经济”（[[Learning Economy]]）的理论开创者之一。在教育政策社会学中，其关于编码知识贬值与默会技能稀缺性的论断，被经合组织采纳为重构全球[[Lifelong Learning|终身学习]]议程与职业技能转向的核心经济学支柱。
-> - **代表贡献** 与[[Bengt-Åke Lundvall|本格特-奥克·伦德瓦尔]]（[[Bengt-Åke Lundvall]]）共同提出“学习型经济”框架，系统阐明[[Tacit Knowledge|默会知识]]在数字经济中的战略价值，奠定 OECD 报告《[[Knowledge-Based Economy|知识经济]]》（1996）的理论根基；开创欧盟“智能专门化”（Smart Specialisation）区域创新战略。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
+> - **代表贡献** 与[[Bengt-Åke Lundvall|本格特-奥克·伦德瓦尔]]（[[Bengt-Åke Lundvall]]）共同提出“学习型经济”框架，系统阐明[[Tacit Knowledge|默会知识]]在数字经济中的战略价值，奠定 OECD 报告《[[Knowledge-Based Economy|知识经济]]》（1996）的理论根基；开创[[EU|欧盟]]“智能专门化”（Smart Specialisation）区域创新战略。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
 
 > [!citation-card]- 人物定位的关键来源
 > [[Fazal Rizvi|法扎尔·里兹维]]与[[Bob Lingard|鲍勃·林加德]]指出，多米尼克·福雷与伦德瓦尔（Foray & Lundvall, 1996）等新增长理论学者提出，一个国家利用知识经济红利的能力，关键取决于其转变为“学习型经济”的速度。学习不仅包含利用新技术获取信息的能力，更核心的是培育终身创造新知识的默会技能；经合组织正是以此为依据，推动教育全面倒向面向劳动力市场的实用操作能力。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
@@ -93,7 +94,7 @@ updated: 2026-10-15
 > - **1985–1993 年** 担任[[CNRS|法国国家科学研究中心]]（[[CNRS]]）研究员及里昂第二大学技术经济与生产组织研究所（LEST）研究主任，深入考察专利制度、知识产权与企业技术溢出。
 > - **1993–2000 年** 担任巴黎第九大学经济学教授并兼任 [[OECD]] 科学、技术与产业司资深顾问；1996 年与[[Bengt-Åke Lundvall|本格特-奥克·伦德瓦尔]]（[[Bengt-Åke Lundvall]]）深度合作，主编 OECD 里程碑报告《[[Knowledge-Based Economy|知识经济]]中的就业与增长》，系统奠定“学习型经济”政策[[Discourse|话语]]。
 > - **2000–2004 年** 出任[[Centre for Educational Research and Innovation|经合组织教育研究与创新中心]]（[[Centre for Educational Research and Innovation|CERI]]）高级顾问，推动发布《学习型社会的知识管理》（*Knowledge Management in the Learning Society*, 2000）；2004 年出版经典理论著作《知识经济学》（*The Economics of Knowledge*）。
-> - **2004–2021 年** 获聘瑞士洛桑联邦理工学院（EPFL）创新与知识经济学讲席教授；出任欧盟委员会“知识促进增长”（Knowledge for [[Growth]]）专家组副主席，创立并推广“智能专门化”（Smart Specialisation）政策[[Paradigm|范式]]，深刻重塑欧洲区域发展与科技基金配置。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
+> - **2004–2021 年** 获聘瑞士洛桑联邦理工学院（EPFL）创新与知识经济学讲席教授；出任[[EU|欧盟]]委员会“知识促进增长”（Knowledge for [[Growth]]）专家组副主席，创立并推广“智能专门化”（Smart Specialisation）政策[[Paradigm|范式]]，深刻重塑欧洲区域发展与科技基金配置。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 445)]]
 
 ---
 
@@ -108,7 +109,7 @@ updated: 2026-10-15
 >   - **代表著作** 《知识经济学》（*The Economics of Knowledge*, MIT Press, 2004）；《学习型社会的知识管理》（OECD/CERI, 2000）。
 >   - **关键概念／方法** [[Knowledge Mediation|知识中介]]、知识池（Knowledge Pools）、[[Evidence-Based Education|循证教育]]实践。
 >   - **阶段转向** 深入教育学内部，推动学校教育向研发密集型专业实践看齐。
-> - **2010 年代至今 — 智能专门化与区域创新突破期** 回应欧盟区域创新政策分散低效的困境，提出“智能专门化”（Smart Specialisation）理论，强调地区不应盲目模仿硅谷，而应基于自身独特的比较优势与[[Tacit Knowledge|默会知识]]储备开展“企业家式发现”。
+> - **2010 年代至今 — 智能专门化与区域创新突破期** 回应[[EU|欧盟]]区域创新政策分散低效的困境，提出“智能专门化”（Smart Specialisation）理论，强调地区不应盲目模仿硅谷，而应基于自身独特的比较优势与[[Tacit Knowledge|默会知识]]储备开展“企业家式发现”。
 >   - **代表著作** 《智能专门化：区域创新政策的机遇与挑战》（*Smart Specialisation*, 2014）。
 >   - **关键概念／方法** 智能专门化（S3）、企业家式发现过程（EDP）。
 >   - **阶段转向** 将知识经济微观机制直接转化为影响万亿欧元公共基金的超国家产业创新政策实践。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 26–27)]]
@@ -132,7 +133,7 @@ updated: 2026-10-15
 > [!influence-path] 影响路径
 > - **理论路径** 与[[Bengt-Åke Lundvall|本格特-奥克·伦德瓦尔]]（[[Bengt-Åke Lundvall]]）、内森·罗森伯格（Nathan Rosenberg）共同奠定了现代[[Knowledge-Based Economy|知识经济]]学与[[National Innovation System|国家创新系统]]分析的欧洲[[Paradigm|范式]]。
 > - **方法路径** 开创了知识编码度与默会性维度的测量分类法，为评估国家与地区无形知识资产提供了分析工具。
-> - **政策路径** 直接塑造了[[OECD|经合组织]]（[[OECD]]）自 1990 年代中期的教育与技能政策基调，促使国际组织全面转向“[[Lifelong Learning|终身学习]]”与“操作技能”；其倡导的智能专门化（Smart Specialisation）被欧盟委员会确立为欧洲结构与投资基金（ESIF）的法定前置评估标准。
+> - **政策路径** 直接塑造了[[OECD|经合组织]]（[[OECD]]）自 1990 年代中期的教育与技能政策基调，促使国际组织全面转向“[[Lifelong Learning|终身学习]]”与“操作技能”；其倡导的智能专门化（Smart Specialisation）被[[EU|欧盟]]委员会确立为欧洲结构与投资基金（ESIF）的法定前置评估标准。
 > - **跨国／跨领域传播** 思想跨越产业经济学、高等教育研究与区域地理学，成为连接经济增长理论与教育改革政策的跨学科桥梁。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
@@ -147,7 +148,7 @@ updated: 2026-10-15
 > - **合作者／思想盟友** [[Bengt-Åke Lundvall]] — 丹麦阿尔堡学派领军人物，共同主编 [[OECD]] 1996 年奠基报告并提出“学习型经济”理论。
 > - **学术合作者** 内森·罗森伯格（Nathan Rosenberg）、保罗·戴维（Paul A. David） — 斯坦福大学著名经济史学家与创新学者，长期共同探讨技术扩散与科学政策。
 > - **批判分析者** [[Fazal Rizvi]]、[[Bob Lingard]] — 揭示其学习型经济理论虽具有深刻洞察，但在被国际组织采纳后沦为压制人本主义[[Democratic Education|民主教育]]、推行新自由主义技能[[Pragmatic Paradigm|实用主义]]的理论工具。
-> - **机构平台** [[OECD]]、[[Centre for Educational Research and Innovation|CERI]]、欧盟委员会、洛桑联邦理工学院（EPFL） — 长期参与国际决策咨询与前沿创新研究的枢纽平台。
+> - **机构平台** [[OECD]]、[[Centre for Educational Research and Innovation|CERI]]、[[EU|欧盟]]委员会、洛桑联邦理工学院（EPFL） — 长期参与国际决策咨询与前沿创新研究的枢纽平台。
 
 ---
 
@@ -168,7 +169,7 @@ updated: 2026-10-15
 > > - **福雷与技能政策倡导者** 坚称在一个技能迅速折旧的动荡世界中，赋予劳动者适应新环境的默会学习能力正是抵御长期失业、维持社会包容的现实基础。
 
 > [!warning] 未解问题与边界
-> 福雷的智能专门化理论主要是在欧盟各成员国与大区具有较强行政协调与公共财政保障的环境中设计并检验的；在法治制度薄弱、企业家寻租严重或地方高校缺乏基础研发能力的欠发达转型经济体中，依靠“企业家式发现”往往容易演变为地方政府虚假立项与财政套利的空转游戏。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 26–27)]]
+> 福雷的智能专门化理论主要是在[[EU|欧盟]]各成员国与大区具有较强行政协调与公共财政保障的环境中设计并检验的；在法治制度薄弱、企业家寻租严重或地方高校缺乏基础研发能力的欠发达转型经济体中，依靠“企业家式发现”往往容易演变为地方政府虚假立项与财政套利的空转游戏。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 26–27)]]
 
 ---
 

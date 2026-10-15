@@ -7,7 +7,7 @@ aliases:
 summary: "以学术研究成果为依据组织课堂教学决策的专业取向，强调外部实证文献对教学与领导力的启发与应对能力提升，是证据知情实践（EIP）的关键拼图之一；在现实中常与基于数据的决策（DBDM）割裂，亟需依托教师研究素养与学校探究循环实现双轮整合。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 53
+related_count: 54
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Evidence-Based Education]]"
   - "[[Positivism]]"
+  - "[[Recontextualization]]"
   - "[[Habitus]]"
   - "[[Discourse]]"
   - "[[Variable]]"
@@ -79,7 +80,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Research-Informed Teaching Practice
@@ -232,7 +233,7 @@ updated: 2026-10-15
 > > 强循证研究强调经过 [[Randomised Controlled Trials\|RCT]] 或[[Meta-analysis\|元分析]]验证的普适[[Effective Teaching\|有效教学]]策略（What Works）；而批判学者指出，没有两所学校或两个班级的学情完全相同，脱离校情生搬硬套外部方案极易引发千校一面的教条主义。
 > >
 > > - **[[Positivism\|实证主义]]普适取向** 假定最佳证据具有跨情境的可移植性。
-> > - **[[Situative Perspective\|情境主义]]建构取向** 强调实践者必须根据校本微观条件对外部方案展开再情境化改造。[[Argument_Brown_2017_ER\|(Brown et al., 2017, p. 165)]]
+> > - **[[Situative Perspective\|情境主义]]建构取向** 强调实践者必须根据校本微观条件对外部方案展开[[Recontextualization|再情境化]]改造。[[Argument_Brown_2017_ER\|(Brown et al., 2017, p. 165)]]
 >
 > > [!axis] 学术文献单向推送还是专业共同体转译
 > > 传统[[Knowledge Mobilisation\|知识动员]]侧重自上而下向学校推送简报与数据库；当代学者强调，原始论文语言晦涩，单向推送无法跨越实践门槛，唯有依托[[Professional Learning Community\|专业学习共同体]]与结构化研习协议展开协作意义建构才能落地。

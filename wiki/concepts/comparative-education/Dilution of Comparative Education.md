@@ -10,7 +10,7 @@ aliases:
 summary: "沃尔夫冈·米特等学者对当代比较教育学学科边界模糊与专业品质下降提出的警示性概念。指随着全球化与跨国数据热潮，出现“人人都在比较并自称比较学者”的实务蔓延现象，大量研究缺乏对比较哲学、历史脉络与方法论的系统学术训练，放弃了对学科认识论身份的持续界定，致使比较教育学面临丧失鲜明学科轮廓与批判深度、沦为浅层政策对照与技术工具的危机。"
 type: concept
 domain: "comparative-education"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -40,13 +40,14 @@ related_persons:
 related_facts:
   - "[[PISA]]"
   - "[[IEA]]"
+  - "[[EU]]"
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Mitter_2009_Europe]]"
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Dilution of Comparative Education
@@ -115,7 +116,7 @@ updated: 2026-10-15
 > [!dev-timeline]- 学科边界与泛化危机的历史演进
 > - **19 世纪至 20 世纪初 — 学科奠基时期的轮廓确立** 朱利安、[[Michael Sadler|萨德勒]]、汉斯等先驱确立了以历史学、哲学与社会学为底色的规范传统，将比较教育建制为高门槛的学术志业。
 > - **1960s–1980s — [[Paradigm|范式]]论战中的专业性坚守** 霍姆斯（Holmes）、安维勒（Anweiler）与施里维尔（Schriewer）等学者就[[Positivism|实证主义]]、[[Problem Approach|问题法]]与系统论展开严肃学统辩论，巩固了学科独特的理论轮廓。
-> - **1990s 至今 — 全球化测评与泛化稀释危机** 随着冷战终结与欧盟超国家治理深化，[[OECD|经合组织]]（[[OECD]]）等国际组织主导的大规模测评成为全球显学，“人人称比较学者”的实务浪潮席卷全球。米特（2009）在世纪之交发出警世危言，呼吁重振历史哲学考证与文化脉络[[Rich and Thick Description|深描]]，捍卫学科核心灵魂。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 98–99)]]
+> - **1990s 至今 — 全球化测评与泛化稀释危机** 随着冷战终结与[[EU|欧盟]]超国家治理深化，[[OECD|经合组织]]（[[OECD]]）等国际组织主导的大规模测评成为全球显学，“人人称比较学者”的实务浪潮席卷全球。米特（2009）在世纪之交发出警世危言，呼吁重振历史哲学考证与文化脉络[[Rich and Thick Description|深描]]，捍卫学科核心灵魂。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 98–99)]]
 
 ---
 

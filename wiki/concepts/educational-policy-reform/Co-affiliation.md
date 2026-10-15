@@ -10,10 +10,10 @@ aliases:
 summary: "指涉政策网络中的精英行动者跨越政府公权力机构、跨国投资银行、营利性咨询公司、慈善信托基金与智库，同时或先后兼任多重董事会席位、高级顾问或审查专员的拓扑结构；揭示其如何通过多重兼职打破科层界限，促成跨界政策理念与商业资本的隐蔽流通，构筑起去中心化但认识论高度同质的异质治理层级。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 41
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - theme/policy-network
   - theme/governance
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Grandes Ecoles]]"
   - "[[Doxa]]"
   - "[[Tacit Knowledge]]"
+  - "[[Subsidiarity Principle]]"
   - "[[Policy Mobility]]"
   - "[[Deductible Gift Recipient]]"
   - "[[Philanthrocapitalism]]"
@@ -36,6 +37,7 @@ related_concepts:
   - "[[Knowledge Transfer]]"
   - "[[Paradigm]]"
   - "[[New Public Management]]"
+  - "[[School Autonomy]]"
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
@@ -67,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-14
+updated: 2026-10-16
 ---
 
 # Co-affiliation
@@ -115,7 +117,7 @@ updated: 2026-10-14
 > - **超流动性与权力的关系性生成（Hypermobility & Relational Power）** 异层治理网络呈现出一种持续重塑自我的“超流动性”；权力不再沿正式的韦伯式行政科层线条自上而下逐级下达，而是作为行动者跨界兼职与关系性共同从属的生成性效果而流动展现。[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 527]]
 > - **[[Epistemology\|认识论]]同质性（Epistemic Homophily）** 频繁重叠兼职的精英群体因共享麦肯锡咨询、跨国投行与私募股权职业背景，形成了高度一致的语言语系（如将教育科研称为“证据经纪”、将政策推进称为“买入”），视商业效率与量化审计为[[Doxa\|不言自明]]的公理。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3–5]]
 > - **[[Tacit Knowledge|隐性知识]]与信息套利通道（Tacit Conduits for Capital and Ideas）** 共同从属为理念、立法动向与资金流向提供了制度化的非正式传导通道，使特定利益集团能够在法案起草或国家机构设立前夕精准布局。[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 8]]
-> - **避税与商业分包网络嵌套（Subsidiarity and Tax Sheltering）** 母公司、全资子公司与中介实体通过重叠董事架构深度嵌套，使政府公共财政补助流向免税慈善平台，再借由技术咨询名义合法分包回私营咨询机构。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 5–7]]
+> - **避税与商业分包网络嵌套（[[Subsidiarity Principle|Subsidiarity]] and Tax Sheltering）** 母公司、全资子公司与中介实体通过重叠董事架构深度嵌套，使政府公共财政补助流向免税慈善平台，再借由技术咨询名义合法分包回私营咨询机构。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 5–7]]
 
 > [!logic-map]- 共同从属网络拓扑与治理运作图
 > ```mermaid
@@ -262,4 +264,4 @@ updated: 2026-10-14
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 运用机构共同从属分析（co-affiliation analysis），深度绘制澳大利亚国家级证据中介 [[Australian Education Research Organisation\|AERO]] 与 [[Social Ventures Australia\|SVA]]、跨国投行及英国 [[Education Endowment Foundation\|EEF]] 的多重董事兼职网络。
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 运用开源网络可视化分析（Gephi）与监管文件追踪，系统映射澳大利亚[[Venture Philanthropy\|风险慈善]]中介组织（SVA、APS、[[Australian Schools Plus\|Schools Plus]]、[[Evidence for Learning\|E4L]]、AERO）长达二十年的共同从属拓扑与四层控股嵌套结构。
-> - [[Argument_Keddie_2020_IJLE\|Keddie et al. (2020b)]] — 展现政策行动者在需求本位拨款与学校自主化改革之间的网络博弈与身份重合。
+> - [[Argument_Keddie_2020_IJLE\|Keddie et al. (2020b)]] — 展现政策行动者在需求本位拨款与[[School Autonomy|学校自主]]化改革之间的网络博弈与身份重合。

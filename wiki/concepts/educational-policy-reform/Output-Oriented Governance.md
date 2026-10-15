@@ -12,7 +12,7 @@ aliases:
 summary: "指以最终实质成效与产出为核心裁判尺度的现代治理范式。在教育领域，表现为以国家质量标准、系统成效监测与数据反馈为核心，强调路径自主而非目标自主的调控模式；在国家战略与公共治理领域，表现为以物理世界实质成果（如建造战略重器、攻克疾病、消除犯罪）为最高衡量基准，反对以程序合规和道德表演替代实质战功的防卫型官僚主义。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 41
+related_count: 42
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Founder Culture]]"
   - "[[Feedback]]"
   - "[[Bureaucracy]]"
+  - "[[Recontextualization]]"
   - "[[Heterogeneity]]"
   - "[[Evidence-Based School Development]]"
   - "[[School Inspection]]"
@@ -74,7 +75,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Output-Oriented Governance
@@ -177,7 +178,7 @@ updated: 2026-10-15
 
 ### 命题二　基层行动者对产出导向治理的认同存在显著经验分群，并深刻塑造其实际领导行为
 
-> [!concept-lens] 微观再情境化与实践分异
+> [!concept-lens] 微观[[Recontextualization|再情境化]]与实践分异
 > 揭示宏观政策意图在下沉至学校现场时并非均质受纳，行动者的价值偏好呈现出系统性的亚群[[Heterogeneity|异质性]]，并决定了改革能否真实转化为微观管理工时与行动重组。
 
 > [!claim] Altrichter et al.

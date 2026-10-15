@@ -27,7 +27,7 @@ tags:
   - theme/pilot-platform
 related_concepts:
   - "[[Pilot Scale Platform]]"
-  - "[[Public-Private Partnership in Research]]"
+  - "[[Public-Private Partnership]]"
   - "[[Industry Affiliate Program]]"
   - "[[Research Translation]]"
   - "[[Valley of Death]]"
@@ -65,7 +65,7 @@ updated: 2026-10-15
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 始建于 2001 年，由纽约州政府、纽约州立大学（SUNY）与 IBM 等产业巨头共同出资创立，旨在应对半导体芯片制程微缩导致的巨额资本壁垒，防止美国先进制造研发能力外流。
 > - **总部地点 / 业务辐射** 总部位于美国纽约州奥尔巴尼市（Albany, New York），辐射覆盖全美大学实验室、全球领先半导体制造与设备厂商（包括 IBM、应用材料、东京电子、ASML 等）。
-> - **法人属性与经费基础** 公私伙伴关系（[[Public-Private Partnership in Research|PPP]]）运营实体（依托非营利机构 NY CREATES 运营）；资金来自纽约州重大战略专项拨款、联邦《[[CHIPS and Science Act|芯片与科学法案]]》资助以及数十家全球[[Industry Affiliate Program|产业联盟]]会员的配套投资（累计投资逾 150 亿美元）。
+> - **法人属性与经费基础** [[Public-Private Partnership|公私伙伴关系]]（PPP）运营实体（依托非营利机构 NY CREATES 运营）；资金来自纽约州重大战略专项拨款、联邦《[[CHIPS and Science Act|芯片与科学法案]]》资助以及数十家全球[[Industry Affiliate Program|产业联盟]]会员的配套投资（累计投资逾 150 亿美元）。
 > - **核心宗旨与法定职责** 破除半导体[[Research Translation|技术转化]]中的“[[Valley of Death|死亡之谷]]”，为高校前沿物理材料创新提供工业级洁净室验证环境，推动先进晶圆制程、极紫外（EUV）光刻及异构封装技术的快速产业化落地。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 22)]]
 
 ---

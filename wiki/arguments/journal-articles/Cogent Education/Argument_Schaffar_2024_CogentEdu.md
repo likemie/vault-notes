@@ -10,7 +10,7 @@ title: "Argument_Schaffar_2024_CogentEdu"
 argument_key: "Argument_Schaffar_2024_CogentEdu"
 argument_display_title: "Phenomenon-based learning in Finland: A critical overview of its historical and philosophical roots"
 argument_kind: "journal-article"
-argument_related_count: 34
+argument_related_count: 35
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -65,6 +65,7 @@ related_persons:
 related_facts:
   - "[[OECD]]"
   - "[[SveaSus Project]]"
+  - "[[EU]]"
   - "[[PISA]]"
 related_arguments: []
 sources:
@@ -203,7 +204,7 @@ updated: 2026-06-22
 ### 论证步骤五：全球教育治理对芬兰现象本位学习的政策吸纳
 
 > [!claim] 步骤五主张
-> 在21世纪前后的全球化语境中，PhBL 被正式写入芬兰国家课程标准，这一过程深受 [[OECD]]、欧盟等国际组织软治理（Soft governance）的影响，旨在提高芬兰在国际经济中的竞争优势。(pp.8–9)
+> 在21世纪前后的全球化语境中，PhBL 被正式写入芬兰国家课程标准，这一过程深受 [[OECD]]、[[EU|欧盟]]等国际组织软治理（Soft governance）的影响，旨在提高芬兰在国际经济中的竞争优势。(pp.8–9)
 
 > [!chain-link] 政策吸纳逻辑链
 > - **1990年代经济危机与[[Nordic Model of Education\|北欧模式]]的冲击** 苏联解体后芬兰遭遇严重经济衰退，政策制定者急于将国家转型为信息社会（Information society）。面对传统[[Nordic Model of Education\|北欧教育模式]]的危机，他们积极响应 OECD 以市场劳动力需求为导向的政策[[Discourse|话语]]。(p.8)
@@ -244,7 +245,7 @@ updated: 2026-06-22
 > 1. **[[Disciplinary Institutionalization|学科建制]]依然稳固** 芬兰基础教育改革并未用 [[Phenomenon-Based Learning\|PhBL]] 全面取代传统学科，国际上关于芬兰学校取消学科分类的报道属媒体误读。(p.2)
 > 2. **课程文本的概念隐匿** 在芬兰语核心课程文本原版中并不存在现象本位学习（PhBL）这一专属复合术语，而是通过高频使用现象（ilmiö）概念及其与其他词汇的动态组合来渗透其教学精神。
 > 3. **[[Pragmatic Constructivism\|实用主义建构主义]]的奠基** Rauste-von Wright 在1990年代将 Dewey 的反思理念与 Mead 的社会互动理论结合，界定 PhBL 为课程自我修正模型，构成了芬兰 PhBL 政策的心理学基石。(pp.7–8)
-> 4. **新自由主义治理悖论** PhBL 的课程化过程深度卷入了 [[OECD]] 及欧盟的全球教育治理框架，导致其整体性体验理想与绩效问责下的技能原子化倾向产生持续张力。(pp.8–10)
+> 4. **新自由主义治理悖论** PhBL 的课程化过程深度卷入了 [[OECD]] 及[[EU|欧盟]]的全球教育治理框架，导致其整体性体验理想与绩效问责下的技能原子化倾向产生持续张力。(pp.8–10)
 
 ---
 

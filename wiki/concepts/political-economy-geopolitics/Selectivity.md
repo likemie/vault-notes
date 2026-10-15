@@ -8,7 +8,7 @@ aliases:
 summary: "治理中的结构性偏向机制，使某些政策选项、行动者和利益更容易获得支持，而其他替代方案被系统性边缘化"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -32,6 +32,7 @@ related_methods:
   - "[[Expert Interview]]"
 related_persons: []
 related_facts:
+  - "[[EU]]"
   - "[[YOUNG_ADULLLT]]"
   - "[[Innovation Union]]"
   - "[[EU Skills Agenda]]"
@@ -42,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-13'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Selectivity
@@ -52,7 +53,7 @@ updated: 2026-10-15
 > [!info]
 > 在治理和政策分析中，选择性（selectivity）指政策工具和制度安排系统性地优先某些政策替代方案、同时使其他方案被边缘化的过程。此概念源自 Jessop（2007）的策略关系国家理论（strategic-relational approach）：政策工具并非中立的筛选器，而是嵌入特定的权力关系，使某些政策选择比其他选择在操作上更可行、在[[Discourse|话语]]上更"自然"([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.166, 174]])。
 >
-> Jessop 的关键洞见在于：选择性不是决策者有意的偏见或偏袒，而是政策工具本身的结构性特征。在自由主义经济秩序的框架下——即 Jessop 所描述的"欧盟就业和经济政策的深层预设"——政策工具"不可避免地使决策者聚焦于某些议题而忽略其他"(Jessop, 2007; [[Argument_Rambla_2022_Springer\|Rambla, 2022, p.166]])。
+> Jessop 的关键洞见在于：选择性不是决策者有意的偏见或偏袒，而是政策工具本身的结构性特征。在自由主义经济秩序的框架下——即 Jessop 所描述的"[[EU|欧盟]]就业和经济政策的深层预设"——政策工具"不可避免地使决策者聚焦于某些议题而忽略其他"(Jessop, 2007; [[Argument_Rambla_2022_Springer\|Rambla, 2022, p.166]])。
 
 > [!quote]
 > "policy instruments 'select' relevant policy issues in the arena of public debate and simultaneously induce actors to sideline other issues."（Jessop, 2007，引用于 Rambla, 2022, p.166）
@@ -69,12 +70,12 @@ updated: 2026-10-15
 > [!note]-
 > - **Jessop（2007）** 在 State Power: A Strategic-Relational Approach 中提出选择性概念，论证国家权力通过"策略选择性"（strategic selectivity）使某些策略比其他策略更有可能成功
 > - **Le Galès（2016）** 将选择性概念纳入政策工具理论，论证政策工具的技术成分和权力成分相互关联，选择性正是通过技术—权力双重性得以运作([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.165–166]])
-> - **[[Argument_Rambla_2022_Springer\|Rambla (2022)]]** 将选择性概念应用于欧盟[[Performance Indicators\|绩效指标]]体系分析，识别其在创新政策和[[Lifelong Learning\|终身学习]]政策中的三种具体表现（p.174–175）
+> - **[[Argument_Rambla_2022_Springer\|Rambla (2022)]]** 将选择性概念应用于[[EU|欧盟]][[Performance Indicators\|绩效指标]]体系分析，识别其在创新政策和[[Lifelong Learning\|终身学习]]政策中的三种具体表现（p.174–175）
 
 ## 核心要素
 
 > [!abstract]
-> 基于 [[Argument_Rambla_2022_Springer\|Rambla (2022, pp. 174–175)]] 对欧盟创新与教育培训政策的分析，选择性通过以下三种机制运作（参见 [[Argument_Rambla_2022_Springer\|Rambla (2022)]] 第 6 步的详细拆解）：
+> 基于 [[Argument_Rambla_2022_Springer\|Rambla (2022, pp. 174–175)]] 对[[EU|欧盟]]创新与教育培训政策的分析，选择性通过以下三种机制运作（参见 [[Argument_Rambla_2022_Springer\|Rambla (2022)]] 第 6 步的详细拆解）：
 
 ### 筛选议题优先次序
 
@@ -116,7 +117,7 @@ updated: 2026-10-15
 意大利和西班牙的第二机会学校案例表明，地方层面可以通过自主发展替代变革理论来突破绩效指标的选择性框架。但这些突破高度依赖地方创新能力——而这恰恰是许多被标记为"落后"的区域最缺乏的资源([[Argument_Rambla_2022_Springer|Rambla, 2022, p.173]])。
 
 > [!info]- 核心数据
-> - [[YOUNG_ADULLLT]] 项目覆盖 16 个欧盟地区，168 名[[Expert Interview\|专家访谈]]（p.172）
+> - [[YOUNG_ADULLLT]] 项目覆盖 16 个[[EU|欧盟]]地区，168 名[[Expert Interview\|专家访谈]]（p.172）
 > - 除芬兰外，所有受访国家的[[Lifelong Learning\|终身学习]]专业人员将政策首要目标理解为就业安置（p.174）
 
 ## 争议与批评

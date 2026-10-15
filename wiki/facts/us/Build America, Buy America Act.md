@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -42,12 +42,13 @@ related_facts:
   - "[[Infrastructure Investment and Jobs Act]]"
   - "[[Department of Energy]]"
   - "[[World Trade Organization]]"
+  - "[[EU]]"
 related_arguments:
   - "[[Argument_Reynolds_2024_JICT]]"
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Build America, Buy America Act
@@ -134,7 +135,7 @@ updated: 2026-10-07
 > > - **现代产业战略辩护** 强调[[Modern Industrial Policy|现代产业政策]]的核心要义本就在于“在本土培育供给能力”；短期若继续采购廉价进口品虽能加快进度，却将永久丧失本土工业能力。通过行政分阶段豁免可以有效熨平短期供需缺口。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 12–14)]]
 >
 > > [!axis] 国际贸易伙伴摩擦 vs. 供应链国家安全主权
-> > 探讨 BABA 条款是否违反 [[World Trade Organization|WTO]] 政府采购协定（[[Academic Achievement|GPA]]）并引发与欧盟、日本等盟友的贸易争端。
+> > 探讨 BABA 条款是否违反 [[World Trade Organization|WTO]] 政府采购协定（[[Academic Achievement|GPA]]）并引发与[[EU|欧盟]]、日本等盟友的贸易争端。
 > >
 > > - **自由贸易与国际盟友批评** 欧盟等盟友认为 BABA 构成了歧视性的本地含量要求（Local Content Requirements），破坏了跨大西洋自由贸易规则。
 > > - **经济安全立场** 美国政府强调基建材料与能源设施关涉国家安全生命线，本土采购是防范极端地缘断链风险的必要主权行动。

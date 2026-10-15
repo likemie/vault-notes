@@ -9,7 +9,7 @@ aliases:
 summary: "现代产业政策区别于20世纪以纠正市场失灵与追求经济效率为单一导向的传统产业政策；它深度交织了国家安全、地缘政治对抗、供应链韧性与去风险目标，综合运用巨额直接补贴、前置研发资助、投资审查、单边及多边出口管制、友岸外包、制度化附加条件与战略矿产反制等全方位政策工具包。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 56
+related_count: 57
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -53,6 +53,7 @@ related_facts:
   - "[[CHIPS and Science Act]]"
   - "[[European Chips Act]]"
   - "[[World Trade Organization]]"
+  - "[[EU]]"
   - "[[National Semiconductor Technology Center]]"
   - "[[National Science and Technology Council]]"
   - "[[National Advanced Packaging Manufacturing Program]]"
@@ -85,7 +86,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Modern Industrial Policy
@@ -130,7 +131,7 @@ updated: 2026-10-15
 ## 核心要素
 
 > [!feature] 现代产业政策的核心构成维度
-> - **巨额制造资本与研发补贴** 针对先进制程晶圆厂（Fab）单厂建设成本高达 200 亿美元的现实，通过数百亿美元规模的直接财政补助与税收抵免弥补跨国建厂成本劣势（如美国 390 亿美元制造补贴、欧盟 430 亿欧元计划）。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 81, 97, 100)]]
+> - **巨额制造资本与研发补贴** 针对先进制程晶圆厂（Fab）单厂建设成本高达 200 亿美元的现实，通过数百亿美元规模的直接财政补助与税收抵免弥补跨国建厂成本劣势（如美国 390 亿美元制造补贴、[[EU|欧盟]] 430 亿欧元计划）。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 81, 97, 100)]]
 > - **先进制程技术与设备多边出口管制** 运用域外管辖与关键技术垄断（如极紫外光刻机、[[Electronic Design Automation|电子设计自动化]]软件），对竞争对手实施先进制程设备与算力芯片禁运，形成跨国管制联盟。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 98–100)]]
 > - **护栏条款与地缘排他性限制** 规定受补贴企业在获得资金后十年内不得在特定竞争对手国家大幅扩建先进半导体制造产能，强制跨国供应链与战略对手脱钩。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 97)]]
 > - **制度化过程治理准则（Process Criteria）** 政策成败高度取决于如何实施（How），包括维持部门内竞争性、以公共激励撬动私人投资（Crowding in）、避免扶植单一全国冠军的投资组合进路（Portfolio approach）、基于[[Learning by Doing|干中学]]（Learning by doing）的动态调整弹性、全程透明度、分里程碑监测评估（M&E）以及未履约资金追回（Clawbacks）。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 4–5)]]
@@ -228,7 +229,7 @@ updated: 2026-10-15
 > 探讨不同政体的中央财政自主权与行政统领能力如何决定现代产业政策采取集中直接投资模式还是去中心化协调者模式，进而深刻影响跨国资本动员与内部区域均衡。
 
 > [!claim] [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]]
-> **财政集权与治理形态的分水岭** 现代产业政策绝非整齐划一的干预模式，其治理架构深受国家体制与财政集权程度的制度制约。在具备高度财政自主权的单一或联邦政体（如美国），国家采取“集中直接投资模式”，由联邦中央自上而下掌控巨额直接预算，直接面向单个跨国与本土领军企业投放巨资，能迅速以全流程刚性附加条件撬动万亿级资本再投资；而在超国家多层级政体（如欧盟），受制于超国家财政主权缺位，中央行政机关无法直接发债与直投，被迫异化为“[[Orchestrator State|产业政策协调者]]”（Orchestrator），主要依靠放宽国家援助审查与搭建跨国协同框架（如 [[Important Projects of Common European Interest|IPCEI]]）动员成员国财政。这种协调者形态导致政策高度依附于成员国国库厚薄，必然引发核心国家与外围国家的补贴不平等，甚至诱发跨国巨头在区域内进行制度套利，进而加剧单一市场的离心与分裂风险。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 3, 13–14, 16–17)]]
+> **财政集权与治理形态的分水岭** 现代产业政策绝非整齐划一的干预模式，其治理架构深受国家体制与财政集权程度的制度制约。在具备高度财政自主权的单一或联邦政体（如美国），国家采取“集中直接投资模式”，由联邦中央自上而下掌控巨额直接预算，直接面向单个跨国与本土领军企业投放巨资，能迅速以全流程刚性附加条件撬动万亿级资本再投资；而在超国家多层级政体（如[[EU|欧盟]]），受制于超国家财政主权缺位，中央行政机关无法直接发债与直投，被迫异化为“[[Orchestrator State|产业政策协调者]]”（Orchestrator），主要依靠放宽国家援助审查与搭建跨国协同框架（如 [[Important Projects of Common European Interest|IPCEI]]）动员成员国财政。这种协调者形态导致政策高度依附于成员国国库厚薄，必然引发核心国家与外围国家的补贴不平等，甚至诱发跨国巨头在区域内进行制度套利，进而加剧单一市场的离心与分裂风险。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 3, 13–14, 16–17)]]
 
 ---
 
@@ -266,7 +267,7 @@ updated: 2026-10-15
 > - **1970–1980年代 — 传统赶超与管理贸易** 日本[[Ministry of International Trade and Industry|通产省]]主导 [[VLSI Project|VLSI]] 项目 推动 DRAM 赶超；美日爆发激烈贸易摩擦，美国通过 [[1986 U.S.-Japan Semiconductor Trade Agreement|美日半导体贸易协定]] 实行配额管制，并组建 [[Sematech]] 研发联盟。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 83–86)]]
 > - **1990–2000年代 — [[Liberalization|自由化]]与产业政策退潮** [[Washington Consensus|华盛顿共识]]与[[World Trade Organization|世贸组织]]（WTO）规则盛行，产业政策被主流经济学界边缘化；半导体产业全面向全球 [[Vertical Disintegration|纵向离散]] 与东亚制造集聚演进。(pp. 86–92)
 > - **2014–2018年代 — 国家战略资本赶超与贸易争端升级** 中国成立 [[China Integrated Circuit Industry Investment Fund|国家集成电路产业投资基金]]（大基金）并发布《[[Made in China 2025|中国制造2025]]》；特朗普政府发起 [[Sino-American Trade War|中美贸易战]] 并将华为列入实体清单，暴露关税工具在中间品长链条中的局限性。(pp. 93–95)
-> - **2020年代 — 现代产业政策[[Paradigm|范式]]全面成型** 拜登政府出台 [[CHIPS and Science Act|芯片与科学法案]] 与 2022年10月出口管制新规；欧盟通过 [[European Chips Act|欧洲芯片法案]]；日本大幅补贴熊本晶圆厂与 Rapidus，标志着以巨额资本补贴、技术管辖与多边同盟为特征的现代产业政策全面主导全球高科技格局。(pp. 97–101)
+> - **2020年代 — 现代产业政策[[Paradigm|范式]]全面成型** 拜登政府出台 [[CHIPS and Science Act|芯片与科学法案]] 与 2022年10月出口管制新规；[[EU|欧盟]]通过 [[European Chips Act|欧洲芯片法案]]；日本大幅补贴熊本晶圆厂与 Rapidus，标志着以巨额资本补贴、技术管辖与多边同盟为特征的现代产业政策全面主导全球高科技格局。(pp. 97–101)
 > - **2024 — 国家战略研发统筹与自维持生态构建** [[National Science and Technology Council|白宫国家科学技术委员会]]（NSTC）发布《微电子研究国家战略》，将现代产业政策深化为涵盖底层物理探索、跨部门中试漏斗（NSTC/[[National Advanced Packaging Manufacturing Program|NAPMP]]/Commons/[[National Nanotechnology Coordinated Infrastructure|NNCI]]）、早期风险资本引导与劳动力培育的跨部门全链条体系。[[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 1–4, 21–29)]]
 
 ---
@@ -307,7 +308,7 @@ updated: 2026-10-15
 > | 美国 | [[CHIPS and Science Act\|芯片与科学法案]] (2022) | 527 亿美元直接拨款（390 亿制造补贴 + 110 亿研发）+ 25% 投资税收抵免 | 吸引先进制程回流本土、护栏条款限制对华扩产、[[October 2022 US Semiconductor Export Controls\|全面出口管制]] | [[Argument_Bown_2024_JEP\|(Bown & Wang, 2024, pp. 97–99)]] |
 > | 美国 | [[CHIPS and Science Act\|CHIPS]] 研发中试网络 (2023) | 110 亿美元研发预算（设立 [[National Semiconductor Technology Center\|NSTC]]、[[National Advanced Packaging Manufacturing Program\|NAPMP]] 与云端 DEG 网关） | 建立独立非营利运营实体（[[Natcast]]），投资多处 300mm 研发中试线与先进封装基线，构建跨机构创新漏斗降低原型试制门槛 | [[Argument_NIST_2023_NSTC\|(NIST, 2023, pp. 2–11)]] |
 > | 美国 | 《微电子研究国家战略》 (2024) | 统筹 20+ 联邦机构研发预算；[[DARPA]] EEI 与 AFVentures [[SBIR and STTR Programs\|SBIR]] 匹配基金；30 亿美元 NAPMP 与 16 个 [[National Nanotechnology Coordinated Infrastructure\|NNCI]] 节点开放 | 建立 [[Subcommittee on Microelectronics Leadership\|SML]] 顶层跨部门路线图、打通 [[Translational Research\|lab-to-fab]] 中试通道、私营风投转化率提升近 3 倍（10% 至 29%）、构建自维持[[Innovation Ecosystem\|创新生态]] | [[Argument_NSTC_2024_MicroelectronicsResearch\|(NSTC, 2024, pp. 1–4, 21–29)]] |
-> | 欧盟 | [[European Chips Act\|欧洲芯片法案]] (2023) | 430 亿欧元公共与私人投资动员 | 吸引[[Taiwan Semiconductor Manufacturing Corporation\|台积电]]、格芯与意法半导体在德法建厂，力争 2030 年实现 20% 制造份额 | [[Argument_Bown_2024_JEP\|(Bown & Wang, 2024, p. 100)]] |
+> | [[EU\|欧盟]] | [[European Chips Act\|欧洲芯片法案]] (2023) | 430 亿欧元公共与私人投资动员 | 吸引[[Taiwan Semiconductor Manufacturing Corporation\|台积电]]、格芯与意法半导体在德法建厂，力争 2030 年实现 20% 制造份额 | [[Argument_Bown_2024_JEP\|(Bown & Wang, 2024, p. 100)]] |
 > | 美欧对比 | [[CHIPS and Science Act\|US CHIPS]] 对比 [[European Chips Act\|EU Chips]] (2022–2024) | 美方 527 亿美元直接拨款与 25% 税收抵免；欧方 33 亿欧元直接预算（预测动员 430 亿总投资，含 [[Important Projects of Common European Interest\|IPCEI]] 81 亿成员国援助与 137 亿私人投资） | 揭示美国联邦集中直接资助与欧盟去中心化多层级协调者两种治理模式，指出欧盟依赖成员国财政补贴加剧单一市场不平等与碎片化风险 | [[Argument_Bulfone_2024_IAI\|(Bulfone et al., 2024, pp. 9–17)]] |
 > | 中国 | [[China Integrated Circuit Industry Investment Fund\|国家大基金]] (一期/二期) | 数千亿元人民币股权投资基金 + 地方配套与税收优惠 | 突破卡脖子先进制程装备与材料、重点投资成熟制程产能替代 | [[Argument_Bown_2024_JEP\|(Bown & Wang, 2024, pp. 93–94)]] |
 > | 日本 | 经济安保半导体专项预算 (2022–) | 超 30 亿美元补贴台积电熊本厂 + 资助 Rapidus 2nm 研发项目 | 稳固汽车与工业成熟芯片供应、联合 IBM 攻关下一代 2nm 尖端制程 | 经产省半导体与数字产业战略 |
@@ -339,7 +340,7 @@ updated: 2026-10-15
 > - [[Argument_Bown_2024_JEP|Bown & Wang (2024)]] — 系统构建了现代产业政策的[[Analytic Framework|分析框架]]，剖析了半导体全球供应链[[Vertical Disintegration|纵向离散]]背景下大国博弈的政策工具组合、经济代价与非预期后果。
 > - [[Argument_Brint_2023_IHE|Brint (2023)]] — 阐释美国通过《[[CHIPS and Science Act|芯片与科学法案]]》实现科技产业政策[[Paradigm|范式]]转向的制度动因，分析国家定向资助与前沿技术竞争对[[Research Universities|研究型大学]]科研与 [[STEM Education|STEM]] 教育的深远影响。
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 从政策实施与治理机制视角剖析拜登政府现代产业战略，系统提炼保障产业战略有效落地的七项过程治理准则，并基于三大联邦法案阐明护栏条款与[[Market Shaping and Creating|市场塑造]]附加条件的设计逻辑与现实边界。
-> - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 构建涵盖行动主体、政策目标、资金规模、政策工具与[[Policy Conditionalities|制度化附加条件]]的五维比较分析框架，深入对比美欧半导体现代产业政策，揭示美国集中式补贴模式与欧盟去中心化协调者模式的制度差异、治理约束与实施效能分化。
+> - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 构建涵盖行动主体、政策目标、资金规模、政策工具与[[Policy Conditionalities|制度化附加条件]]的五维比较分析框架，深入对比美欧半导体现代产业政策，揭示美国集中式补贴模式与[[EU|欧盟]]去中心化协调者模式的制度差异、治理约束与实施效能分化。
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 阐明现代半导体产业政策中 110 亿美元研发资金的战略布局，确立以 [[National Science and Technology Council|NSTC]] 为核心的全要素[[Pilot Scale Platform|中试平台]]、跨机构研发漏斗与自主非营利运营架构。
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 白宫微电子研究国家战略，系统呈现现代产业政策在科技研发与转化层面的顶层设计，提出跨部门研发统筹、中试平台共享与公私风险分担的自维持[[Innovation Ecosystem|创新生态]]四支柱。
 

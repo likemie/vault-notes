@@ -7,7 +7,7 @@ aliases:
 summary: "新古典福利经济学核心概念，指由于公共品、外部性、信息不对称与不完全竞争导致自由市场价格机制无法实现帕累托最优资源配置；在科技政策中构成了传统研发资助与产业政策（集聚外部性、干中学效应）的基准依据，但在演化经济学与当代地缘政治产业政策实践中，该框架因无法指引演化方向并被国家安全与供应链保险动机所超越，成为理论反思与扩展的核心对象。"
 type: concept
 domain: "science-policy"
-related_count: 52
+related_count: 53
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -67,6 +67,7 @@ related_facts:
   - "[[National Advanced Packaging Manufacturing Program]]"
   - "[[National Nanotechnology Coordinated Infrastructure]]"
   - "[[Subcommittee on Microelectronics Leadership]]"
+  - "[[EU]]"
 related_arguments:
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
   - "[[Argument_Bown_2024_JEP]]"
@@ -80,7 +81,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Market Failure
@@ -310,7 +311,7 @@ updated: 2026-10-15
 > | [[Evolutionary Economics]] | 理论 | 彻底解构新古典市场失灵静态均衡假定、提供动态能力与[[Path Dependence\|路径依赖]]分析的底层理论。 |
 > | [[CHIPS and Science Act]] | 事实 | 兼具纠正半导体干中学失灵与达成国家地缘安全保险双重目标的现代产业政策立法。 |
 > | [[National Semiconductor Technology Center]] | 事实 | 通过提供共享中试线与设计网关等产业公共品、系统矫正微电子中试市场失灵的国家级法定机构。 |
-> | [[Important Projects of Common European Interest]] | 事实 | 欧盟以放宽国家援助审查为杠杆弥补前沿微电子研发与初次工业部署高额市场资金缺口的关键政策工具。 |
+> | [[Important Projects of Common European Interest]] | 事实 | [[EU\|欧盟]]以放宽国家援助审查为杠杆弥补前沿微电子研发与初次工业部署高额市场资金缺口的关键政策工具。 |
 
 ---
 

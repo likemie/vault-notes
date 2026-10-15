@@ -11,7 +11,7 @@ aliases:
 summary: "驱动国家科技战略、大学治理变革与劳动力技能重塑的核心逻辑与地缘政治装置。在新自由主义社会想象下，国家经济竞争力被假定为直接取决于由国际标准衡量的教育质量；在宏观上体现为长程战略计算、先进制造、跨国多边监测与地缘威慑；在中观上体现为产学中心破除学科壁垒与排名审计重塑大学；在微观上体现为产线组织学习与学习分析；创始人长期主义与全员股权模式构成了抵御短期金融化的深层底座。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 81
+related_count: 82
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -90,6 +90,7 @@ related_facts:
   - "[[Goh Report]]"
   - "[[World Bank]]"
   - "[[National Science Foundation]]"
+  - "[[EU]]"
   - "[[Erasmus Programme]]"
   - "[[TEMPUS]]"
   - "[[Education at a Glance]]"
@@ -115,7 +116,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-19
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Competitiveness
@@ -324,7 +325,7 @@ updated: 2026-10-15
 
 > [!claim] Papatsiba (2005, 2006); Nóvoa (2002); [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]]
 > **跨国流动性与就业竞争力风险的个体化承担** 诺亚·索比与梅丽莎·菲舍尔援引帕帕齐巴（Papatsiba, 2005, 2006）关于欧洲一体化与高等教育[[Student Mobility|学生流动性]]的研究指出，超国家教育治理通过将“流动性”（Mobility）编码为 enfranchised 公民的黄金资产，实质上构筑了一种巧妙的新自由主义[[Governmentality|治理术]]：
-> 1. **胜任力话语对就业风险的转嫁** 欧洲联盟在[[Erasmus Programme|伊拉斯谟计划]]（ERASMUS）与[[TEMPUS|天普计划]]框架下，将跨国学业流动打造成以[[Employability|就业能力]]为核心的个体化教育实践；
+> 1. **胜任力话语对就业风险的转嫁** [[EU|欧洲联盟]]在[[Erasmus Programme|伊拉斯谟计划]]（ERASMUS）与[[TEMPUS|天普计划]]框架下，将跨国学业流动打造成以[[Employability|就业能力]]为核心的个体化教育实践；
 > 2. **公民修辞与竞争理性的双重编码** 尽管政策修辞高调颂扬文化多样性、欧洲认同与公民游学理想，其实质是将应对全球化劳动力市场弹性需求、跨文化适应与职业竞争的责任，全面转嫁给青年个体，要求其通过自费或自发流动累积“国际竞争力”，从而在宏观上免除了国家兜底充分就业的福利责任。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]
 
 ---
@@ -363,7 +364,7 @@ updated: 2026-10-15
 > - **1945–1970s — 战后边疆契约与后发国家突围奠基** 范内瓦·布什确立线性科学模型；[[Lee Kuan Yew|李光耀]]在新加坡独立初期确立“面向千年期”的长程国家规划，通过重塑语言与[[Human Capital Theory|人力资本]]奠定突围基础。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 194–197)]]
 > - **1980s — 制造危机震荡与产学协同中心制度化** 日本先进制造崛起引发美国产业竞争力恐慌；1980 年《[[Bayh-Dole Act of 1980|拜杜法案]]》与 1984 年 [[Engineering Research Centers|NSF ERC]] 计划相继出台，国家竞争力被法定确立为大学工程科研与产学协同的核心支柱。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 365, 367)]]
 > - **1990s — 产线组织学习与全员股权所有权创新** [[Competitive Semiconductor Manufacturing Program|CSM]] 项目实证确立一线组织学习对工程竞争力的核心作用（[[Argument_Macher_1998_CMR|Macher et al., 1998]]）；硅谷开创向全员授予股权的现代所有权模式；[[Sematech]] 与 [[EUV LLC]] 联合体探索前竞争共担机制。
-> - **1990s–2000s — [[Global Universities Rankings|全球大学排名]]基础设施化、跨国教育对标与欧洲流动性竞争** 英国开展 [[Research Excellence Framework|RAE]]/REF，德国推行卓越计划；欧洲联盟启动[[Lisbon Strategy|里斯本战略]]，将提升欧洲整体竞争力与大学生的跨国流动能力绑定（Papatsiba, 2005; [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009]]）；[[OECD|经合组织]]启动[[PISA]]，确立国家经济竞争力直接系于教育绩效跨国对标的新自由主义政策[[Paradigm|范式]]（Brown et al., 1997; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）。
+> - **1990s–2000s — [[Global Universities Rankings|全球大学排名]]基础设施化、跨国教育对标与欧洲流动性竞争** 英国开展 [[Research Excellence Framework|RAE]]/REF，德国推行卓越计划；[[EU|欧洲联盟]]启动[[Lisbon Strategy|里斯本战略]]，将提升欧洲整体竞争力与大学生的跨国流动能力绑定（Papatsiba, 2005; [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009]]）；[[OECD|经合组织]]启动[[PISA]]，确立国家经济竞争力直接系于教育绩效跨国对标的新自由主义政策[[Paradigm|范式]]（Brown et al., 1997; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）。
 > - **2020s — 国家长程战略、开源标准与深科技竞争力重塑** 《[[CHIPS and Science Act|芯片与科学法案]]》推动建立前竞争中试枢纽（[[Albany NanoTech Complex|Albany NanoTech]] / MIT.nano）与“教育即标准”开源生态锁定机制；卡普与扎米斯卡在《[[Technological Republic|技术共和国]]》中系统总结国家千年期战略意志、创始人溢价与所有权公社对抵御短期金融化的决定性意义；白宫 [[Office of Science and Technology Policy|OSTP]] 发布战略报告重塑硬科技试验场与本土制造竞争力。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 17–26)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, Ch. 17)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch18|(Ch. 18)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026)]]
 
 ---

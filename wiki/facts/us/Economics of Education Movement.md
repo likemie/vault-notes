@@ -9,7 +9,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -36,13 +36,14 @@ related_facts:
   - "[[International Institute for Educational Planning]]"
   - "[[OECD]]"
   - "[[Organisation for European Economic Co-operation]]"
+  - "[[Alliance for Progress]]"
   - "[[Mediterranean Regional Project]]"
 related_arguments:
   - "[[Argument_Klerides_2023_CE]]"
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Economics of Education Movement
@@ -63,7 +64,7 @@ updated: 2026-10-07
 > [!note]-
 > - **1958 年** [[C. Arnold Anderson]] 在芝加哥大学创立比较教育中心（[[Comparative Education Center at Chicago 1958\|Comparative Education Center]]），该中心在融合比较教育与教育经济学方面发挥了关键作用（Brehm, 2023, cited in [[Argument_Klerides_2023_CE\|Klerides, 2023, p.423]]）。
 > - **1960 年代** 教育经济学运动的技术官僚和经济化的教育观——将教育视为投资——成为国际组织教育规划工作的理论基础。[[UNESCO]] [[International Education\|国际教育]]规划研究所（[[International Institute for Educational Planning\|IIEP]]）于 1963 年成立，[[OECD]] 于 1961 年从 [[Organisation for European Economic Co-operation\|OEEC]] 演变而来，均以教育规划促进经济增长为核心使命([[Argument_Klerides_2023_CE\|Klerides, 2023, p.422]])。
-> - **扩散路径** 芝加哥大学比较教育中心与美国发起并资助的国际项目（西欧的马歇尔计划、拉丁美洲的进步联盟、[[Mediterranean Regional Project\|地中海区域项目]]）以及美国支配的国际组织一起，帮助[[Human Capital Theory\|人力资本理论]]在全球扩散。冷战时期，技术官僚教育观从美国扩散到西欧，然后到南欧和拉丁美洲（Elfert, 2019, cited in [[Argument_Klerides_2023_CE\|Klerides, 2023, pp.422–423]]）。
+> - **扩散路径** 芝加哥大学比较教育中心与美国发起并资助的国际项目（西欧的马歇尔计划、拉丁美洲的[[Alliance for Progress|进步联盟]]、[[Mediterranean Regional Project\|地中海区域项目]]）以及美国支配的国际组织一起，帮助[[Human Capital Theory\|人力资本理论]]在全球扩散。冷战时期，技术官僚教育观从美国扩散到西欧，然后到南欧和拉丁美洲（Elfert, 2019, cited in [[Argument_Klerides_2023_CE\|Klerides, 2023, pp.422–423]]）。
 
 ---
 

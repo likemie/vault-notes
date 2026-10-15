@@ -9,7 +9,7 @@ aliases:
 summary: "主张教育实践与政策决策应建立在严格的因果识别研究证据之上的政策与实践运动，核心争议在于实验因果识别、知识可迁移性、专业判断与地方语境之间如何平衡"
 type: concept
 domain: "educational-policy-reform"
-related_count: 141
+related_count: 142
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -116,6 +116,7 @@ related_facts:
   - "[[Comprehensive School Reform Program]]"
   - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[Office of Educational Research and Improvement]]"
+  - "[[EU]]"
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
   - "[[Pupil Premium]]"
   - "[[ResearchED]]"
@@ -171,7 +172,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Evidence-Based Education
@@ -390,7 +391,7 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 ### 英国与国际组织的制度化推动（2007–2016）
 
 > [!phase] 2007–2016 · 国际扩散期
-> OECD 和欧盟强化"什么有效"议程；EEF 成立；What Works Network 建立；批判性文献开始反扑。
+> OECD 和[[EU|欧盟]]强化"什么有效"议程；EEF 成立；What Works Network 建立；批判性文献开始反扑。
 
 > [!timeline] 关键事件
 > - **2007** — OECD 发布 *Evidence in Education: Linking Research and Policy*（Burns & Schuller, 2007），强化了"什么有效"议程；报告主张识别"什么有效"对教育政策制定至关重要，最佳方法是 RCT（Cook & Gorard, 2007）([[Argument_Møller_2017_EERJ\|Møller, 2017, p.377–378]])

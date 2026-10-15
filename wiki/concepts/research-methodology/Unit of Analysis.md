@@ -13,7 +13,7 @@ aliases:
 summary: "研究设计、质性编码与内容分析中确定数据切片与分类基本边界的核心概念，涵盖抽样单位、记录单位与语境单位三层体系，以及宏观比较研究中从19世纪以校为中心的孤立办学考察向萨德勒民族国家整体教育体系、世界体系整体、超国家度量网络与流动空间多标度结构位置的历史演进"
 type: concept
 domain: "research-methodology"
-related_count: 86
+related_count: 87
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -105,6 +105,7 @@ related_facts:
   - "[[PISA]]"
   - "[[National Education]]"
   - "[[World Trade Organization]]"
+  - "[[EU]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
@@ -118,7 +119,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-08
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Unit of Analysis
@@ -274,7 +275,7 @@ updated: 2026-10-15
 > **资本主义世界体系作为不可分割的基准分析单位** [[Immanuel Wallerstein|沃勒斯坦]]（Wallerstein, 1974）与[[Robert Arnove|阿诺夫]]（Arnove, 1980, 2009）深刻批判了比较教育传统将各个民族国家视作孤立、平行演进实体的“方法论民族主义”。他们论证，现代世界中唯一真正的社会系统是资本主义世界经济体本身；国家内部的教育变迁（如文凭贬值、[[Dual School System|双轨学制]]或辍学率）无法脱离全球资本积累、不等价交换与国际依附关系得到解释。比较分析的基准单位必须从单一国家提升至世界体系整体及其中心-边缘结构。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 101, 104)]]
 
 > [!claim] Robertson, Bonal & Dale
-> **多标度立体治理矩阵对单一国家层级的超越** 戴尔（Dale, 1999, 2005）与罗伯逊等人（Robertson, Bonal, & Dale, 2002）指出，全球化削弱了民族国家作为单一分析容器的垄断地位，教育治理的分析单位应当被建构为一个贯通超国家（如 [[World Trade Organization|WTO]]、欧盟）、国家（教育部）、次国家（地方学区）乃至社区家庭的“多标度空间矩阵（pluri-scalar matrix）”。分析教育变革不再是孤立测量单一政府行为，而是追踪权力、资源与规约规则在多个标度之间的非对称流动与博弈。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
+> **多标度立体治理矩阵对单一国家层级的超越** 戴尔（Dale, 1999, 2005）与罗伯逊等人（Robertson, Bonal, & Dale, 2002）指出，全球化削弱了民族国家作为单一分析容器的垄断地位，教育治理的分析单位应当被建构为一个贯通超国家（如 [[World Trade Organization|WTO]]、[[EU|欧盟]]）、国家（教育部）、次国家（地方学区）乃至社区家庭的“多标度空间矩阵（pluri-scalar matrix）”。分析教育变革不再是孤立测量单一政府行为，而是追踪权力、资源与规约规则在多个标度之间的非对称流动与博弈。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 
 > [!citation-card] 沃勒斯坦论资本主义世界经济体作为唯一真实分析单位
 > 从历史社会学角度来看，主权国家不是一个自给自足的发展实体；现代世界体系中唯一的社会现实和基本分析单位是资本主义世界经济体本身。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 104)]]

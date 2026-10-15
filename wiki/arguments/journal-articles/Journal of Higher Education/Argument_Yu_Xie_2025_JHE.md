@@ -81,6 +81,7 @@ related_facts:
   - "[[Bologna Process]]"
   - "[[Southeast Asian Higher Education Common Space]]"
   - "[[Fulbright Program]]"
+  - "[[EU]]"
   - "[[Academic Ranking of World Universities]]"
 related_arguments: []
 sources:
@@ -95,7 +96,7 @@ title: "Argument_Yu_Xie_2025_JHE"
 argument_key: "Argument_Yu_Xie_2025_JHE"
 argument_display_title: "空间、权力与高等教育：地缘政治视角下的高等教育研究"
 argument_kind: "journal-article"
-argument_related_count: 61
+argument_related_count: 62
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -233,7 +234,7 @@ journal: "高等教育研究"
 >   - 跨国流动的安全化
 >   - 全球治理机制的碎片化
 >
->   中美战略博弈与技术脱钩、俄乌冲突、印太地区紧张态势以及欧盟内部的战略张力等现实变动，使科技竞争、人才流动与知识安全逐渐被纳入国家议程，高等教育由此成为地缘政治的重要前沿[[Champ\|场域]]（pp.5–6）。
+>   中美战略博弈与技术脱钩、俄乌冲突、印太地区紧张态势以及[[EU|欧盟]]内部的战略张力等现实变动，使科技竞争、人才流动与知识安全逐渐被纳入国家议程，高等教育由此成为地缘政治的重要前沿[[Champ\|场域]]（pp.5–6）。
 >
 >   在这一背景下，高等教育领域开始积极主动和自觉地在地缘政治的经典研究中寻找理论资源，将高等教育视为相对独立的地缘政治行动者。但初期研究仍是新瓶旧酒，只标签式地提及地缘政治，在具体分析时仍习惯性地沿用中心和边缘等旧的[[Analytic Framework\|分析框架]]。
 >

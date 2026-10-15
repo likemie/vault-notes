@@ -9,7 +9,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 9
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -30,6 +30,7 @@ related_persons:
 related_facts:
   - "[[International School of Geneva]]"
   - "[[UNESCO]]"
+  - "[[EU]]"
   - "[[International Schools Examination Syndicate]]"
   - "[[Founding of the International Baccalaureate]]"
 related_arguments:
@@ -37,7 +38,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-09-22
+updated: 2026-10-16
 ---
 
 # International Schools Association
@@ -60,7 +61,7 @@ updated: 2026-09-22
 
 > [!dev-timeline]- ISA 在[[International Baccalaureate\|国际文凭]]倡议中的角色变化
 > - **1951 年　建立[[International Schools\|国际学校]]合作组织** [[International School of Geneva\|Ecolint]] 在战后再次发挥发起作用，参与建立 ISA，以帮助不断增加的国际学校处理共同问题。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 15–16)]]
-> - **1955 年　接收国际毕业会考呼吁** 欧洲共同体学校创办者范·豪特（Van Houtte）向当时设在 Ecolint 的 ISA 呼吁建立国际毕业会考。倡议获得更多教师与学校董事关注，仍缺少执行结构。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, p. 17)]]
+> - **1955 年　接收国际毕业会考呼吁** [[EU|欧洲共同体]]学校创办者范·豪特（Van Houtte）向当时设在 Ecolint 的 ISA 呼吁建立国际毕业会考。倡议获得更多教师与学校董事关注，仍缺少执行结构。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, p. 17)]]
 > - **1962 年　社会研究项目形成跨校合作入口** 借调至 ISA 的[[Bob Leach\|鲍勃·利奇]]（Bob Leach）以国际历史与社会研究课程为切入点，从联合国教育、科学及文化组织取得 2,500 美元资助。小型会议由 Ecolint 教师准备工作论文，[[UNESCO\|联合国教科文组织]]和欧洲学校派观察者参加。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 17–18)]]
 > - **1962–1964 年　小额合同扩展课程讨论** 联合国教科文组织继续与 ISA 签订研究其他课程领域的小额合同，四笔资助合计 10,000 美元。更多教师得以短期会面，项目仍无法维持办公室、秘书、正式会议文件和持续跟进。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, pp. 18–19)]]
 > - **1964 年　会员重点错位推动项目分离** ISA 多数会员更关注小学和初中，对高中毕业资格兴趣有限。协会年会决定另设组织继续 IB 项目，随后形成[[International Schools Examination Syndicate\|国际学校考试辛迪加]]（International Schools Examination Syndicate，ISES）。[[Argument_Peterson_1987_OpenCourt_Ch02\|Peterson (1987, Ch. 2, p. 19)]]

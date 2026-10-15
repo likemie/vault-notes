@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Internationalization of Higher Education]]"
   - "[[Innovation Ecosystem]]"
   - "[[Total Quality Management]]"
+  - "[[School Autonomy]]"
   - "[[Innovation Hub]]"
   - "[[Paradigm]]"
   - "[[Discourse]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-14
+updated: 2026-10-16
 ---
 
 # Institutional Management in Higher Education
@@ -116,7 +117,7 @@ updated: 2026-10-14
 
 > [!pathways]- 实施路径与管理
 > - **自愿参与与网络共治模式** 彻底打破冷战时期自上而下的行政命令形态，以自愿入会的全球高等教育网络为纽带，构建多边平等的专业对话平台。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 439, 442)]]
-> - **理论建构与管理工具箱研发结合** 既关注大学理念的当代哲理探讨，又提供诸如“[[Total Quality Management|全面质量管理]]”（TQM）、“平衡计分卡”等高度可操作的校本管理工具包。
+> - **理论建构与管理工具箱研发结合** 既关注大学理念的当代哲理探讨，又提供诸如“[[Total Quality Management|全面质量管理]]”（TQM）、“平衡计分卡”等高度可操作的[[School Autonomy|校本管理]]工具包。
 > - **跨国同行互评与声誉激励机制** 依托跨国专家组的专业诊断与国际期刊成果发布，促成参与院校在国际同侪网络中形成良性竞合动力。
 
 ---

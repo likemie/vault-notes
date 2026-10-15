@@ -8,7 +8,7 @@ aliases:
 summary: "产业政策与发展型国家理论的核心治理机制，最早由阿姆斯登（Alice Amsden）提出。指国家在向私营企业提供巨额公共资源转让（如专项补贴、税收减免或垄断特许）时，必须以企业履行明确且可问责的公共目标（如本土产能建设、劳工福利、技术溢出、超额利润返还及地缘安全合规）为法定契约前提，构建权利与义务对等的双向约束机制，以防止产业资本纯粹寻租。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 15
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,6 +33,7 @@ related_persons:
 related_facts:
   - "[[CHIPS and Science Act]]"
   - "[[European Chips Act]]"
+  - "[[EU]]"
   - "[[Research in Schools Evaluation]]"
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[Important Projects of Common European Interest]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-06
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Reciprocal Control Mechanism
@@ -107,7 +108,7 @@ updated: 2026-10-07
 > 探讨治理结构如何决定国家对跨国巨头施加附加条件的议价底气。
 
 > [!claim] 多层级去中心化导致对等控制弱化
-> 当出资主体不是统一中央政府而是分散的成员国时（如欧盟模式），各国为了争夺项目落地会陷入补贴竞次（Race to the bottom），跨国芯片巨头反客为主成为规则制定者；欧盟委员会因自身不出资，只能在极度受限的突发断链危机下设定脆弱的优先排产要求，其对等规制强度远逊于由联邦财政集权直接实施的美国对等控制体系。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 15–17)]]
+> 当出资主体不是统一中央政府而是分散的成员国时（如[[EU|欧盟]]模式），各国为了争夺项目落地会陷入补贴竞次（Race to the bottom），跨国芯片巨头反客为主成为规则制定者；欧盟委员会因自身不出资，只能在极度受限的突发断链危机下设定脆弱的优先排产要求，其对等规制强度远逊于由联邦财政集权直接实施的美国对等控制体系。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 15–17)]]
 
 ---
 
@@ -149,7 +150,7 @@ updated: 2026-10-07
 > | 比较对象 | 核心机制设计 | 约束刚性与触发条件 | 利润追回机制（Claw-back） | 制度成效与外溢 |
 > |---|---|---|---|---|
 > | 美国《[[CHIPS and Science Act\|芯片法案]]》 | 联邦集中直接投资（527 亿美元） | 法定刚性全流程约束（十年安全护栏、保障工人体面工资、禁止回购） | 设定超额利润分享门槛，违规即刻停拨或追回 | 迅速吸纳[[Taiwan Semiconductor Manufacturing Corporation\|台积电]]、美光等巨头落地，投资超两千亿美元 |
-> | 欧盟《芯片法案》 | 欧委会协调 + 成员国国家援助出资 | 危机触发式弱约束（突发断链时优先保供欧洲订单） | [[Important Projects of Common European Interest\|IPCEI]] 项目内规定超额净收益部分返还本国国库 | 成员国各自为战，加剧德意制造业鸿沟与统一市场扭曲 |
+> | [[EU\|欧盟]]《芯片法案》 | 欧委会协调 + 成员国国家援助出资 | 危机触发式弱约束（突发断链时优先保供欧洲订单） | [[Important Projects of Common European Interest\|IPCEI]] 项目内规定超额净收益部分返还本国国库 | 成员国各自为战，加剧德意制造业鸿沟与统一市场扭曲 |
 
 ---
 

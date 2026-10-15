@@ -8,9 +8,9 @@ subtype: event
 region: europe
 fact_region: "europe"
 fact_kind: "event"
-fact_related_count: 7
-fact_related_level: 0
-fact_related_stars: ""
+fact_related_count: 8
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
 tags:
   - region/europe
@@ -27,13 +27,14 @@ related_methods:
   - "[[Stratified Sampling]]"
 related_persons: []
 related_facts:
+  - "[[EU]]"
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Bogliacino_Pianta_2016_EP]]"
 confidence: medium
 status: draft
 created: 2026-06-10
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Community Innovation Survey
@@ -42,7 +43,7 @@ updated: 2026-10-15
 ## 背景
 
 > [!info]
-> 社区创新调查（Community Innovation Survey，CIS）是由 Eurostat 与欧盟成员国国家统计机构合作开展的企业创新调查，基于[[OECD\|经合组织]]（Organisation for Economic Co-operation and Development，OECD）的 Oslo Manual 方法论。CIS 是欧洲创新研究最核心的企业层面数据来源，覆盖产品创新、流程创新、研发支出、创新合作、创新目标以及创新障碍等多个维度[[Argument_Bogliacino_Pianta_2016_EP\|(Bogliacino & Pianta, 2016)]]。
+> 社区创新调查（Community Innovation Survey，CIS）是由 Eurostat 与[[EU|欧盟]]成员国国家统计机构合作开展的企业创新调查，基于[[OECD\|经合组织]]（Organisation for Economic Co-operation and Development，OECD）的 Oslo Manual 方法论。CIS 是欧洲创新研究最核心的企业层面数据来源，覆盖产品创新、流程创新、研发支出、创新合作、创新目标以及创新障碍等多个维度[[Argument_Bogliacino_Pianta_2016_EP\|(Bogliacino & Pianta, 2016)]]。
 
 ---
 ## 设计与方法

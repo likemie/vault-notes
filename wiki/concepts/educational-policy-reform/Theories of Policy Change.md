@@ -6,7 +6,7 @@ aliases:
 summary: "把政策理解为承载特定因果机制叙事的分析概念，用于追问政策为何在不同情境中产生不同变化路径"
 type: concept
 domain: "educational-policy-reform"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -33,6 +33,7 @@ related_methods:
   - "[[Expert Interview]]"
 related_persons: []
 related_facts:
+  - "[[EU]]"
   - "[[World Bank]]"
   - "[[OECD]]"
   - "[[UN Sustainable Development Goals]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-13
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Theories of Policy Change
@@ -56,7 +57,7 @@ updated: 2026-10-15
 > [!info]
 > 在公共政策语境中，政策[[Theory of Change\|变革理论]]（theory of policy change）指政策所承载的关于因果机制的叙事——即关于特定政策干预在何种情境中激活何种机制、从而产生何种效果的信念体系。此概念源自 Pawson（2006）的[[Realist Evaluation\|实在论评估]]（realist evaluation）框架，强调政策评估应揭示"什么在什么情境中对谁有效"（what works for whom in what circumstances）的因果机制，而非仅关注"是否有效"([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.165]])。
 >
-> 在政策实践中，变革理论常以简化的因果叙事形式出现，成为政策制定者论证政策合法性的知识工具。欧盟委员会和欧盟理事会自 2000 年代以来通过传播此类因果叙事在教育、创新、就业等多个政策领域获得了影响力(Dale & Robertson, 2009; [[Argument_Rambla_2022_Springer\|Rambla, 2022, p.165–166]])。
+> 在政策实践中，变革理论常以简化的因果叙事形式出现，成为政策制定者论证政策合法性的知识工具。[[EU|欧盟]]委员会和欧盟理事会自 2000 年代以来通过传播此类因果叙事在教育、创新、就业等多个政策领域获得了影响力(Dale & Robertson, 2009; [[Argument_Rambla_2022_Springer\|Rambla, 2022, p.165–166]])。
 
 > [!quote]
 > "[[Performance Indicators]] convey 'theories of change' that highlight how policies activate certain mechanisms in a given context."（Pawson, 2006，引用于 Rambla, 2022, p.165）
@@ -71,13 +72,13 @@ updated: 2026-10-15
 
 > [!note]-
 > - **Pawson（2006）** 在 Evidence-Based Policy: A Realist Perspective 中提出[[Theory of Change\|变革理论]]概念，作为[[Realist Evaluation\|实在论评估]]的核心工具——强调政策评估应打开因果机制的"黑箱"
-> - **Radaelli et al.（2013）** 分析欧盟委员会和理事会如何通过传播"因果叙事"（causal narratives）在多个政策领域获得影响力([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.165]])
+> - **Radaelli et al.（2013）** 分析[[EU|欧盟]]委员会和理事会如何通过传播"因果叙事"（causal narratives）在多个政策领域获得影响力([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.165]])
 > - **[[Argument_Rambla_2022_Springer\|Rambla (2022)]]** 将变革理论概念与 Le Galès 的政策工具框架整合，论证其是[[Performance Indicators\|绩效指标]]的四个构成维度之一（p.165–166, 170–172）
 
 ## 核心要素
 
 > [!abstract]
-> 基于 Rambla（2022, p.165–172）对欧盟政策的分析，[[Theory of Change\|变革理论]]在政策运作中呈现三个层面：
+> 基于 Rambla（2022, p.165–172）对[[EU|欧盟]]政策的分析，[[Theory of Change\|变革理论]]在政策运作中呈现三个层面：
 
 ### 因果叙事的建构
 
@@ -114,7 +115,7 @@ updated: 2026-10-15
 
 ### 官方变革理论的地方内化
 
-在制度传统较强的国家（奥地利、德国、芬兰），地方专业人员不仅了解欧盟的官方[[Theory of Change|变革理论]]，还将其翻译为本地可操作的版本。受访者系统性地提及对应变革理论的核心命题，表明欧盟的政策[[Discourse|话语]]确实在地方层面产生了认知影响([[Argument_Rambla_2022_Springer|Rambla, 2022, p.172–173]])。
+在制度传统较强的国家（奥地利、德国、芬兰），地方专业人员不仅了解[[EU|欧盟]]的官方[[Theory of Change|变革理论]]，还将其翻译为本地可操作的版本。受访者系统性地提及对应变革理论的核心命题，表明欧盟的政策[[Discourse|话语]]确实在地方层面产生了认知影响([[Argument_Rambla_2022_Springer|Rambla, 2022, p.172–173]])。
 
 ### 官方变革理论的简化与窄化
 

@@ -8,7 +8,7 @@ aliases:
 summary: "Osmany Porto de Oliveira 与 Cecilia Osorio Gonnet (2023) 提出的分析空间概念，指全球与国家/地方尺度交互缠绕的关系性竞技场，用于解构国家内部不同功能部门对外部政策证据的差异化接收、翻译、抗拒与投射机制。"
 type: concept
 domain: "comparative-education"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Attrition]]"
   - "[[Externalization]]"
   - "[[Policy Borrowing]]"
+  - "[[Recontextualization]]"
   - "[[State Educational Sovereignty]]"
   - "[[Global Education Governing Complex]]"
 related_theories:
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Transfer Space
@@ -150,7 +151,7 @@ updated: 2026-10-15
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **2000–2010年代 — [[Policy Borrowing\|政策借用]]与借用语境研究** 比较教育学者关注全球政策在跨国流动中的再情境化（Recontextualisation）与本土适应，奠定非线性空间研究基础。
+> - **2000–2010年代 — [[Policy Borrowing\|政策借用]]与借用语境研究** 比较教育学者关注全球政策在跨国流动中的[[Recontextualization|再情境化]]（Recontextualisation）与本土适应，奠定非线性空间研究基础。
 > - **2012 — 政策借用中的政治与经济机制** 吉塔·施泰纳-哈姆西与弗洛里安·瓦尔多系统阐述国家在政策借用中的外在化机制与准外部参考点投射。
 > - **2023 — 政策转移空间的正式提出** 奥斯瓦尔多·波尔图·德奥利维拉与塞西莉亚·奥索里奥·贡内特在比较政策[[Analytic Framework\|分析框架]]下正式确立“转移空间”（Transfer Space）概念，呼吁超越[[Methodological Nationalism\|方法论民族主义]]。
 > - **2024 — 政策周期多阶段流动实证** [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi, Martens, & Ydesen (2024)]] 将转移空间与北欧五国政策咨询实证相结合，程序化揭示从专家草案到官方行政法令的证据流动与过滤规律。

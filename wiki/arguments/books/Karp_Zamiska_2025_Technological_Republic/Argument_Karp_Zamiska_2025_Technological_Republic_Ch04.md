@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch04"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch04"
 argument_display_title: "End of the atomic age"
 argument_kind: "book-chapter"
-argument_related_count: 40
+argument_related_count: 41
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -72,6 +72,7 @@ related_persons:
 related_facts:
   - "[[Article 9 of the Japanese Constitution]]"
   - "[[Manhattan Project]]"
+  - "[[EU]]"
   - "[[Autonomous Drone Swarms]]"
   - "[[Apollo Program]]"
 related_arguments:
@@ -132,7 +133,7 @@ updated: 2026-10-08
 > [!stat-cards] 关键量化数据与战略指标
 > - **2 万亿美元** 洛克希德·马丁 F-35 隐形战机全生命周期总研发与采购成本，设计服役期长达 63 年至 2088 年。（p. 44）
 > - **0.2%** 2024 财年美国国防部在 8860 亿美元总预算中仅为人工智能（[[Generative Artificial Intelligence|Artificial Intelligence]], AI）申请 18 亿美元（五分之一个百分点）。（p. 45）
-> - **3%–5% vs 1.5%** 美国每年约 9000 亿美元国防支出占国内生产总值（Gross Domestic Product, GDP）比例（3%–5%）与欧盟各国平均防务支出占 GDP 比例（约 1.5%）的长期巨大落差。（p. 41）
+> - **3%–5% vs 1.5%** 美国每年约 9000 亿美元国防支出占国内生产总值（Gross Domestic Product, GDP）比例（3%–5%）与[[EU|欧盟]]各国平均防务支出占 GDP 比例（约 1.5%）的长期巨大落差。（p. 41）
 > - **0.5% vs 2.0%** 1970 年后美国[[Total Factor Productivity|全要素生产率]]（Total Factor Productivity, TFP）年均复合增速与 1920–1970 黄金期年均增速对比。（p. 49）
 > - **17.6 亿美元** 2022 年 YouTube（9.59 亿美元）与 Instagram（8.01 亿美元）通过定向投放算法仅从 12 岁以下儿童身上榨取的广告收入总额。（p. 50）
 
@@ -203,7 +204,7 @@ updated: 2026-10-08
 > ![](https://img.mylikemie.icu/books/Karp_Zamiska_2025_Technological_Republic/figures/Figure_4-2_Defense_Spending_GDP.jpg)
 
 > [!factors] 盟国常规防御能力空洞化的关键体制诱因
-> - **欧洲安全搭便车与[[Bonsai Army|盆景军队]]形态** 欧盟外交代表[[Josep Borrell|何塞普·博雷利]]（[[Josep Borrell]]）指出冷战后欧洲军队被削减为常规战力微缩的[[Bonsai Army|盆景军队]]（bonsai armies），近三十国各自为政的采办机器严重撕裂本土军工市场，滋养出高成本、小批量的盆景产业（pp. 42–43）。
+> - **欧洲安全搭便车与[[Bonsai Army|盆景军队]]形态** [[EU|欧盟]]外交代表[[Josep Borrell|何塞普·博雷利]]（[[Josep Borrell]]）指出冷战后欧洲军队被削减为常规战力微缩的[[Bonsai Army|盆景军队]]（bonsai armies），近三十国各自为政的采办机器严重撕裂本土军工市场，滋养出高成本、小批量的盆景产业（pp. 42–43）。
 > - **[[Dwight D. Eisenhower|艾森豪威尔]]的同盟自主防务预警** 德怀特·D. 艾森豪威尔（Dwight D. Eisenhower）早在 1951 年便预警美国不能成为守卫远方边疆的现代罗马军团，激励欧洲自主生产武装力量是保卫欧洲的唯一长远手段。
 > - **德国过度道德自省的地缘安全真空** 战后德国对军事力量的长期道德排斥导致联邦国防军战备严重空洞化，这种实力真空直接促成了俄罗斯在 2022 年发动全面侵乌战争的战略误判（p. 43）。
 > - **日本宪法第九条的绝对和平限制** 1947 年颁布的[[Article 9 of the Japanese Constitution|日本国宪法第九条]]放弃交战权与军队建设，使亚洲最富裕民主政体在面临现实入侵威胁时完全依附于外部援助，加剧了印太地区力量平衡的脆弱性（pp. 43–44）。

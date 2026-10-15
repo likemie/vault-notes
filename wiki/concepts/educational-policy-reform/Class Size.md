@@ -8,7 +8,7 @@ alias_reviewed:
 summary: "班级学生人数这一关键教育组织变量，其对教学互动与学业成果的影响不仅取决于人数变化本身，更取决于教师质量、物质资源、教学方式调整以及跨情境测量精度的系统约束。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 54
+related_count: 55
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -62,6 +62,7 @@ related_persons:
 related_facts:
   - "[[World Bank]]"
   - "[[French Class Size Reduction]]"
+  - "[[EU]]"
   - "[[Treasury Briefing on Student-Teacher Ratios]]"
   - "[[OECD]]"
   - "[[UNESCO]]"
@@ -82,7 +83,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-03'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Class Size
@@ -220,7 +221,7 @@ updated: 2026-10-15
 > 探讨班额缩小后教师若未转变教学法，抑或课程体制本身存在深层失范时，物理缩班为何遭遇效果塌陷。
 
 > [!claim] Murnane & Levy (1996); Hattie (2015); [[Argument_Snook_2009_NZJES|Snook et al. (2009)]]; [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]]
-> **教学行为调适是激活小班红利的[[Necessary and Sufficient Conditions|必要条件]]** 德克萨斯州 15 所小学[[Cohort Study|追踪研究]]证实：13 所仅单纯缩减人数而未变动教学法的学校五年后学业无变化，唯独 2 所同步革新探究教学、引入健康支持与家长参与的学校达成了显著学业跃升。[[John Hattie|哈蒂]]指出，教师在小班中往往继续采用大班灌输讲授，是导致平均效应量偏小的核心症结。[[José Luis García Garrido|加西亚·加里多]]在西班牙的宏观分析进一步表明，即便公立学校班级规模和生师比全面优于欧盟均值，但在均质不分流课程导致学生大面积厌学与纪律溃退的情境下，优渥的班额指标依然无法对冲体制平庸与 33% 的学业失败率。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 101–102)]]; [[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 331–332)]]
+> **教学行为调适是激活小班红利的[[Necessary and Sufficient Conditions|必要条件]]** 德克萨斯州 15 所小学[[Cohort Study|追踪研究]]证实：13 所仅单纯缩减人数而未变动教学法的学校五年后学业无变化，唯独 2 所同步革新探究教学、引入健康支持与家长参与的学校达成了显著学业跃升。[[John Hattie|哈蒂]]指出，教师在小班中往往继续采用大班灌输讲授，是导致平均效应量偏小的核心症结。[[José Luis García Garrido|加西亚·加里多]]在西班牙的宏观分析进一步表明，即便公立学校班级规模和生师比全面优于[[EU|欧盟]]均值，但在均质不分流课程导致学生大面积厌学与纪律溃退的情境下，优渥的班额指标依然无法对冲体制平庸与 33% 的学业失败率。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 101–102)]]; [[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 331–332)]]
 
 ---
 
@@ -308,7 +309,7 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] 新西兰与西班牙制度反思案例
 > - **新西兰 PACE 项目与财政部简报风波（[[Treasury Briefing on Student-Teacher Ratios]]）** PACE 项目证实小班唯有与教师专业发展深度捆绑方能激活教学变革；然而财政部借[[John Hattie|哈蒂]]之名提议扩大班额以削减教育赤字，引发学界对证据断章取义与政策修辞谬误的激烈声讨。[[Argument_ONeill_2012_NZJES|(O'Neill, 2012, pp. 153–159)]]
-> - **西班牙公立教育高投入与高失败率的反差** [[José Luis García Garrido|加西亚·加里多]]基于翔实跨国统计揭示，西班牙公立学校的班级规模与生师比全面占优于欧盟平均线，但在均一不分流课程体系压迫下，学生厌学成风与纪律解体导致学业失败率高达 33%，证明班额投入指标无法挽救深层课程治理危机。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 331–332)]]
+> - **西班牙公立教育高投入与高失败率的反差** [[José Luis García Garrido|加西亚·加里多]]基于翔实跨国统计揭示，西班牙公立学校的班级规模与生师比全面占优于[[EU|欧盟]]平均线，但在均一不分流课程体系压迫下，学生厌学成风与纪律解体导致学业失败率高达 33%，证明班额投入指标无法挽救深层课程治理危机。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 331–332)]]
 
 ### 全球南方与世界银行 Teach 实证
 

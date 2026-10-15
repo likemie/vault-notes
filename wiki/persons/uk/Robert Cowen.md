@@ -203,7 +203,7 @@ updated: 2026-10-15
 
 > [!person-network] 关系网络
 > - **学术继承与合作者** [[Paul Morris]] — 共同致力于新自由主义全球测试（[[PISA]]）与[[Policy Science in Comparative Education\|政策科学]]的意识形态解构。
-> - **学术继承者与思想拓展者** 杰森·比奇（[[Jason Beech]]） — UCL IOE 门生、合作者与《手册》撰稿人，将考恩的 [[Transfer Translation Transformation|3T 框架]]、学术重商主义与转移批判深化为全球教育[[Champ|场域]]五位置[[Discourse|话语]]流通模型。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–345)]]
+> - **学术继承者与思想拓展者** [[Jason Beech|杰森·比奇]]（[[Jason Beech]]） — UCL IOE 门生、合作者与《手册》撰稿人，将考恩的 [[Transfer Translation Transformation|3T 框架]]、学术重商主义与转移批判深化为全球教育[[Champ|场域]]五位置[[Discourse|话语]]流通模型。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–345)]]
 > - **学术前人 / 纪念对象** [[Andreas Kazamias]] — 继承了其人文主义比较教育与历史社会学关切，但在 2023 年批评了学界将 Kazamias “哲学先知化”以逃避现实政治与方法论创新的倾向。[[Argument_Cowen_2023_CE\|(Cowen, 2023, p. 327)]]
 > - **史学评价者与学会同行** [[Wolfgang Mitter]] — 系统界定考恩在欧洲比较教育文化主义主干中的当代代表地位，并共同主编与撰写《比较教育学国际手册》（2009）。
 > - **关联制度 / 学会** [[Comparative Education Society in Europe]] — 曾担任该学会会长，并在其 2018 塞浦路斯会议特别讲座中指出学科合法化的历史包袱。

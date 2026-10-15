@@ -8,10 +8,10 @@ summary: "荷兰特温特大学讲席教授、欧洲科学院院士、国际著�
 type: person
 nationality: "netherlands"
 person_region: "netherlands"
-person_related_count: 15
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 16
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1956"
 died: ""
 lifespan: "1956–至今"
@@ -39,13 +39,14 @@ related_arguments:
   - "[[Argument_DeJong_2023_ERR]]"
 related_facts:
   - "[[Chinese Academy of Sciences]]"
+  - "[[EU]]"
 related_methods: []
 related_persons:
   - "[[Richard E. Mayer]]"
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Ton de Jong
@@ -72,7 +73,7 @@ updated: 2026-10-15
 > - **1980 年代** 在荷兰阿姆斯特丹大学获得教育学硕士学位，并在埃因霍温理工大学获得博士学位，聚焦[[Problem Solving\|问题解决]]与知识结构表征。
 > - **1990 年代** 投身计算机辅助教学与模拟环境设计，1998 年在《Review of Educational Research》发表关于[[Computer Simulation\|计算机模拟]]科学[[Discovery Learning\|发现学习]]的标杆性综述，奠定其国际学术声誉。
 > - **2000 年代初** 获聘特温特大学教学技术学讲席教授，历任行为科学学院院长、教学技术系主任，致力于数字技术赋能理科教学的理论建构。
-> - **2012–2020** 作为协调人与首席科学家，领衔欧盟第七框架（FP7）与“地平线 2020”（Horizon 2020）重大专项，创建欧洲跨国数字实验室平台 Go-Lab，覆盖欧洲数十国数万名师生。
+> - **2012–2020** 作为协调人与首席科学家，领衔[[EU|欧盟]]第七框架（FP7）与“地平线 2020”（Horizon 2020）重大专项，创建欧洲跨国数字实验室平台 Go-Lab，覆盖欧洲数十国数万名师生。
 > - **2014 & 2021** 在[[Richard E. Mayer\|理查德·梅耶]]主编的《剑桥多媒体学习手册》（The Cambridge Handbook of Multimedia Learning）中两度系统阐发“引导式探究与引导式发现原则”。
 > - **2023** 联合中美欧 13 位顶尖学者在《教育研究评论》（Educational Research Review）发表长篇权威综述，系统解构[[Direct Instruction\|直接教学]]绝对优越论，确立现代时序协同框架。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023)]]
 
@@ -108,7 +109,7 @@ updated: 2026-10-15
 
 > [!influence-path] 影响路径
 > - **理论建树** 规范确立了多媒体学习科学中的“引导式探究原则”，将指导连续谱概念系统引入数字学习环境设计。
-> - **技术与平台创新** 主导构建了欧盟 Go-Lab 平台，将全球数百个远程物理与虚拟模拟实验室打包为标准化探究应用程序，成为欧洲科学教育技术的主要基石。
+> - **技术与平台创新** 主导构建了[[EU|欧盟]] Go-Lab 平台，将全球数百个远程物理与虚拟模拟实验室打包为标准化探究应用程序，成为欧洲科学教育技术的主要基石。
 > - **国际学术领导力** 长期担任国际顶级期刊编委与欧洲学习科学关键领导人，在 2020 年代国际教学论战中成为凝聚全球学习科学家共同发声的核心枢纽。
 
 ---

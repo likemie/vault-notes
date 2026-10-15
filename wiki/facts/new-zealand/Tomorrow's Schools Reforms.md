@@ -20,9 +20,9 @@ tags:
 - level/k12
 related_concepts:
   - "[[Educational Decentralization]]"
+  - "[[School Autonomy]]"
   - "[[Educational Management Organisation]]"
   - "[[Network Governance]]"
-  - "[[School Autonomy]]"
 related_theories: []
 related_methods: []
 related_persons: []
@@ -76,7 +76,7 @@ updated: 2026-10-11
 > - [[Cognition Education\|Multi Serve Education Trust]]（后演变为 Cognition Education Group）是直接因改革而生的组织([[Argument_ONeill_2016_Report\|O'Neill et al., 2016, p.66, p.x–xi]])
 > - 此后约 20 年间，学校支持服务逐渐商业化，最终在 2011 年被教育部转为竞争性招标（见 [[Contestable School Support Services]]）
 > - 改革并未形成稳定的自由市场，而是形成一种由政府持续设定采购规则的准市场。ESCs 虽承担了关键过渡职能，却没有获得长期制度保护；以 Multi Serve 为例，其 Auckland 学校工资合同在 1991 年的竞争性招标中失手，法院随后也明确否认其对续约拥有合理期待，显示竞争性采购而非历史承接关系成为新规则([[Argument_Bates_2017_CognitionEducationTrust\|Bates, 2017, p.13-15]])
-> - 由于学校普遍具有强烈价格敏感性，而许多新服务又必须从原先“免费公共服务”改成收费项目，改革初期的学校支持市场并不稳定。以 Multi Serve 为例，学校对财务管理等收费服务的购买远低于预期，这说明学校自主化并没有自动带来成熟、可持续的服务需求([[Argument_Bates_2017_CognitionEducationTrust\|Bates, 2017, p.13, p.16]])
+> - 由于学校普遍具有强烈价格敏感性，而许多新服务又必须从原先“免费公共服务”改成收费项目，改革初期的学校支持市场并不稳定。以 Multi Serve 为例，学校对财务管理等收费服务的购买远低于预期，这说明[[School Autonomy|学校自主]]化并没有自动带来成熟、可持续的服务需求([[Argument_Bates_2017_CognitionEducationTrust\|Bates, 2017, p.13, p.16]])
 > - 围绕学校工资究竟应由中央还是学校管理的长期政策摇摆，使改革后的治理结构同时包含放权与重新集中两种方向。结果不是简单撤出国家，而是让 Ministry 在合同、平台更新与采购节奏上持续塑造学校支持服务市场([[Argument_Bates_2017_CognitionEducationTrust\|Bates, 2017, p.15]])
 >
 > ### 从 ESCs 到 Cognition Education 的转化链([[Argument_Johnson_2023_CE\|Johnson & Janzen, 2023]])

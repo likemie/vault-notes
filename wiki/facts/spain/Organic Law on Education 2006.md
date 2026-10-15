@@ -12,7 +12,7 @@ subtype: policy
 region: spain
 fact_region: "spain"
 fact_kind: "policy"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -36,6 +36,7 @@ related_concepts:
 related_facts:
   - "[[Organic Law on the General Organization of the Education System 1990]]"
   - "[[Centros Concertados]]"
+  - "[[EU]]"
   - "[[Lisbon Strategy]]"
 related_arguments:
   - "[[Argument_Garcia_Garrido_2009_SpainEU]]"
@@ -44,7 +45,7 @@ related_persons:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Organic Law on Education 2006
@@ -101,7 +102,7 @@ updated: 2026-10-15
 > [!pathways]- 实施路径
 > - **综合主义的固化与平庸延续** 坚持保留 12–16 岁统一步调的[[Comprehensive Education|综合教育]]大纲，但未能有效化解初中高年级学业抗拒者的大量出现，学业失败率继续维持在三分之一左右的高位。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 330–331)]]
 > - **行政重叠与体系解耦加深** 强化了自治区对本地大学与中小学的主导控制，加剧了中央与自治区之间的协调缺失以及行政机构的严重冗员。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 328–330)]]
-> - **亲欧修辞掩盖改革迟滞** 立法前言频繁征引欧盟教育空间与[[Lisbon Strategy|里斯本战略]][[Discourse|话语]]，但实质制度举措主要聚焦于政党利益分配与主权让渡，避开了最亟须的学术[[Competitiveness|竞争力]]改革。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 324–325)]]
+> - **亲欧修辞掩盖改革迟滞** 立法前言频繁征引[[EU|欧盟]]教育空间与[[Lisbon Strategy|里斯本战略]][[Discourse|话语]]，但实质制度举措主要聚焦于政党利益分配与主权让渡，避开了最亟须的学术[[Competitiveness|竞争力]]改革。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 324–325)]]
 
 ---
 

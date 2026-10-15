@@ -49,6 +49,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Childhood Obesity Governance]]"
+  - "[[EU]]"
 related_arguments:
   - "[[Argument_Mazzucato_2018_ICC]]"
 sources:
@@ -63,7 +64,7 @@ title: "Argument_Wanzenbock_2020_SPP"
 argument_key: "Argument_Wanzenbock_2020_SPP"
 argument_display_title: "A framework for mission-oriented innovation policy: Alternative pathways through the problem–solution space"
 argument_kind: "journal-article"
-argument_related_count: 23
+argument_related_count: 24
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -292,7 +293,7 @@ issuing_organization: ""
 >
 > - **法定减排约束倒逼海上风电高成本对冲探索**
 >
->   在欧盟法定可再生能源配额的刚性要求下，政府转向海上风电，但高昂的初期发电成本引发了财政补贴负担与电价上涨争议，政策长期在摸索中艰难权衡。（pp.484–485）
+>   在[[EU|欧盟]]法定可再生能源配额的刚性要求下，政府转向海上风电，但高昂的初期发电成本引发了财政补贴负担与电价上涨争议，政策长期在摸索中艰难权衡。（pp.484–485）
 >
 > - **国家能源协议与规模效益实现协同突破**
 >
@@ -331,7 +332,7 @@ issuing_organization: ""
 > [!stat-cards]- 论文涉及的关键经验指标
 > - **600 万** 每年因吸烟导致的全球死亡人数（人）。（p.481）
 > - **1000 兆瓦** 荷兰 1985 年设立的 2000 年陆上风电规划装机目标。（p.484）
-> - **14%** 欧盟指令规定的荷兰 2020 年可再生能源占终端能源消费的法定比例。（p.484）
+> - **14%** [[EU|欧盟]]指令规定的荷兰 2020 年可再生能源占终端能源消费的法定比例。（p.484）
 
 ---
 

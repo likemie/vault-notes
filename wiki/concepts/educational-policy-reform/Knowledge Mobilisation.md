@@ -12,7 +12,7 @@ aliases:
 summary: "教育研究利用领域的全系统构念，指研究知识通过沟通传播、能力建设、伙伴关系与系统化方法进入政策与实践的社会交互与多方共创过程，旨在克服证据供需脱节与双向能力赤字。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 63
+related_count: 64
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -80,6 +80,7 @@ related_facts:
   - "[[Knowledge Network for Applied Education Research]]"
   - "[[Schlegel-UW Research Institute for Aging]]"
   - "[[Teaching and Learning Research Programme]]"
+  - "[[EU]]"
   - "[[OECD]]"
   - "[[Centre for the Use of Research and Evidence in Education]]"
 related_arguments:
@@ -95,7 +96,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-05-21"
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Knowledge Mobilisation
@@ -383,7 +384,7 @@ updated: 2026-10-15
 > - **2015 — 北欧学校改进中的知识动员实践** [[Argument_Nordahl_2015_Paideia\|Nordahl (2015)]] 将 KMb 引入斯堪的纳维亚 [[Visible Learning]] 改革，阐明证据进入课堂必须依赖教师协作与反思重组。
 > - **2017 — 知识动员四类核心策略系统化** [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]] 在特刊中提炼出沟通传播、能力建设、伙伴关系与系统化方法四类策略及三位一体法则。
 > - **2018 — 学校内部知识动员通道与信任同伴网络机制** [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018)]] 基于英格兰 79 所小学基线调查，揭示校内知识动员对非正式同伴网络的高度依附（82% 教师常态化向同伴交流），指出领导者必须建立包容性正式分享结构以防止[[Professional Learning Community\|专业学习共同体]]退化为孤立小组。
-> - **2021 — 欧洲非处方化[[Knowledge Mediation\|知识中介]]网络** [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet (2021)]] 总结欧盟教育政策，展示跨国中介机构如何以非强制性方式促进知识共享与评价文化建设。
+> - **2021 — 欧洲非处方化[[Knowledge Mediation\|知识中介]]网络** [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet (2021)]] 总结[[EU|欧盟]]教育政策，展示跨国中介机构如何以非强制性方式促进知识共享与评价文化建设。
 > - **2022 — 跨国政策调查与[[Evidence Ecosystem\|证据生态系统]]治理** [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] 基于 [[OECD]] 覆盖 29 国 37 个教育系统的政策调查，构建涵盖结构、关系、质量、文化与能力的五维动员框架，揭示学术考核体制与[[Knowledge Co-production\|知识共创]]的深层制度断裂。
 > - **2022 — 跨领域动员模型类型学与下一代生态路径** [[Argument_Torres_2022_KMModels\|Torres (2022b)]] 系统比照卫生、公共治理与教育领域主流知识动员模型（Lavis, Graham, Levin, Gough），提炼出构件交互由孤立管道向双层嵌套生态演进、行动者由一维标签向多维功能复合体演进的双重轨迹；批评既有模型普遍缺失终极目标的缺陷，确立了以学生和教师专业学习为崇高目标基准的下一代生态建构路径。
 > - **2025 — 产学研协同动员的多重机制** [[Argument_Dean_2025_UICollaborationSupport\|Dean et al. (2025)]] 基于滑铁卢大学 [[Schlegel-UW Research Institute for Aging\|RIA]] 案例，证明共同选址、[[Counterpart Funds|配套资金]]与联合研发是实现实验室知识向社会快速动员的自增强系统。
@@ -439,6 +440,6 @@ updated: 2026-10-15
 > - **[[Argument_Torres_2022_KMModels\|Torres, P. (2022)]]** 跨领域系统横向比较四类经典知识动员模型与四类前沿微观补充模型，提炼出构件双层嵌套与行动者多维复合演进规律，并提出确立终极目标等四大未来建构路径。
 > - **[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]]** 综合 109 项实证研究，批判线性实施取向，提出以信任、技能、组织结构与关系为核心的跨层整合治理框架。
 > - **[[Argument_Dean_2025_UICollaborationSupport\|Dean et al. (2025)]]** 结合加拿大滑铁卢大学 [[Schlegel-UW Research Institute for Aging\|RIA]] 案例，论证共同选址与终端嵌入在推动健康研究成果向临床照护快速动员中的机制。
-> - **[[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet (2021)]]** 梳理欧盟证据中介组织与[[Educational Brokerage Agency\|知识经纪]]网络，展示非处方化协调与跨国同伴学习的知识流动路径。
+> - **[[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet (2021)]]** 梳理[[EU|欧盟]]证据中介组织与[[Educational Brokerage Agency\|知识经纪]]网络，展示非处方化协调与跨国同伴学习的知识流动路径。
 > - **Best & Holmes (2010)** 奠定知识动员三代演化模型（线性推送、关系网络、复杂系统）及四维系统构件，奠定教育研发系统思维基础。
 

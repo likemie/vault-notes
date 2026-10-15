@@ -9,7 +9,7 @@ summary: "丹麦著名演化经济学家、创新系统理论奠基人之一，�
 type: person
 nationality: denmark
 person_region: "denmark"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -49,13 +49,14 @@ related_persons:
   - "[[Friedrich List]]"
 related_facts:
   - "[[OECD]]"
+  - "[[EU]]"
 related_arguments:
   - "[[Argument_Freeman_1995_CJE]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Bengt-Åke Lundvall
@@ -129,7 +130,7 @@ updated: 2026-10-15
 
 > [!influence-path] 影响路径
 > - **理论路径** 与 [[Chris Freeman]]、[[Richard Nelson]] 共同构成了现代[[National Innovation System|国家创新系统]]研究的三大支柱；将分析焦点深度下沉至微观“学习与互动”维度。
-> - **政策路径** 将[[Systems of Innovation|创新系统理论]]直接注入 [[OECD]] 技术与经济计划（TEP, 1992）及欧盟区域创新战略政策，推动政策从单纯补贴 R&D 经费转向优化产学研合作网络与终身职业培训。
+> - **政策路径** 将[[Systems of Innovation|创新系统理论]]直接注入 [[OECD]] 技术与经济计划（TEP, 1992）及[[EU|欧盟]]区域创新战略政策，推动政策从单纯补贴 R&D 经费转向优化产学研合作网络与终身职业培训。
 > - **教育研究启示** 强调教育体系不仅是[[Knowledge Production|知识生产]]机构，更是全社会“学习能力”（[[Learning Economy]]）的制度孵化器；1996 年 OECD 报告深刻推动了经合组织将[[Lifelong Learning|终身学习]]、反思能力与跨主体互动沟通确立为国家[[Human Capital Theory|人力资本]]战略与[[International Education|国际教育]]对标的核心维度。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引

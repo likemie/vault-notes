@@ -11,7 +11,7 @@ related_color: "#e5e7eb"
 tags: ["theme/university-industry-collaboration", "theme/metrics-and-incentives", "source/industry-perspective"]
 related_concepts:
   - "[[University-Industry Collaboration]]"
-  - "[[Public-Private Partnership in Research]]"
+  - "[[Public-Private Partnership]]"
   - "[[Partnership Continuum]]"
 related_theories: []
 related_methods: []

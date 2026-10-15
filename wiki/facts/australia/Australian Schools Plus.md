@@ -10,7 +10,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Philanthrocapitalism]]"
   - "[[Paradigm]]"
   - "[[Network Governance]]"
+  - "[[Public-Private Partnership]]"
   - "[[Relational Space]]"
 related_theories: []
 related_methods:
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-03
+updated: 2026-10-16
 ---
 
 # Australian Schools Plus
@@ -161,7 +162,7 @@ updated: 2026-10-03
 > | [[Gonski Reforms]] | Fact (Policy) | 催生学校加计划成立的国家级学校资助审查改革背景。 |
 > | [[David Gonski]] | Person | 审查报告主笔人，兼任学校加计划慈善先驱者委员会主席。 |
 > | [[Australian Education Research Organisation]] | Fact (Organization) | 处于同一[[Policy Network\|政策网络]]内部、共享董事与资助节点的国家级证据中介实体。 |
-| [[Network Governance]] | Concept | 学校加计划所体现的以公私伙伴关系、税法特许与项目竞标替代国家统一供给的治理形态。 |
+| [[Network Governance]] | Concept | 学校加计划所体现的以[[Public-Private Partnership\|公私伙伴关系]]、税法特许与项目竞标替代国家统一供给的治理形态。 |
 | [[Relational Space]] | Concept | 学校加计划与 SVA、[[Evidence for Learning\|E4L]]、AERO 共同装配构筑的排他性防野狗围栏式关系拓扑。 |
 
 ---

@@ -44,7 +44,7 @@ related_concepts:
   - "[[Multi-Project Wafer]]"
   - "[[Apprenticeship]]"
   - "[[Informal Science Learning]]"
-  - "[[Public-Private Partnership in Research]]"
+  - "[[Public-Private Partnership]]"
   - "[[Grand Challenges]]"
   - "[[Patient Capital]]"
   - "[[General Purpose Technology]]"
@@ -314,7 +314,7 @@ publisher: "Executive Office of the President of the United States"
 ### 论证步骤五　公私合作联合体、共性路线图与创业扶持形成技术向产业转化的持续循环
 
 > [!claim] 步骤五核心主张
-> 战略第四目标（Goal 4）强调通过[[Public-Private Partnership in Research|公私合作伙伴关系]]（PPP）、产业共性技术路线图指引、产学研人员双向交流以及全周期创业扶持，加速科研成果向实体产业转化，形成技术演进与再投入的良性循环。（pp. 37–47）
+> 战略第四目标（Goal 4）强调通过[[Public-Private Partnership|公私合作伙伴关系]]（PPP）、产业共性技术路线图指引、产学研人员双向交流以及全周期创业扶持，加速科研成果向实体产业转化，形成技术演进与再投入的良性循环。（pp. 37–47）
 
 #### 1. 产学研联合体与产业技术路线图引导研发资金紧密对接实际需求
 

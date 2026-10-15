@@ -8,7 +8,7 @@ aliases:
 summary: "以学校内部组织与教学差异解释学业成就的研究取向，在政策治理中将学校重塑为可量化干预的技术对象，并在全球教育转移中被学术重商主义包装为跨国咨询商品。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 45
+related_count: 47
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -68,13 +68,15 @@ related_facts:
   - "[[UNESCO]]"
   - "[[World Bank]]"
   - "[[OECD]]"
+  - "[[Nord Anglia Education]]"
+  - "[[GEMS Education]]"
 related_arguments:
   - "[[Argument_Ball_2008_SR]]"
   - "[[Argument_Beech_2009_GlobalGarden]]"
 confidence: high
 status: draft
 created: 2026-05-23
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # School Effectiveness
@@ -167,7 +169,7 @@ updated: 2026-10-15
 > 在全球教育[[Champ|场域]]中，学校效能知识已脱离公共学术探究范畴，退化为高校与跨国资本为了在市场中变现而生产的咨询商品。
 
 > [!claim]
-> **学术重商主义的海外殖民** 杰森·比奇（[[Jason Beech]]）结合[[Jean-François Lyotard|让-弗朗索瓦·利奥塔]]（[[Jean-François Lyotard]]）的知识商品化命题与[[Robert Cowen|罗伯特·考恩]]（[[Robert Cowen]]）的学术重商主义论断指出，当代大学在公共财政紧缩下产生了强烈的创收激励。恰如 16 世纪驱动欧洲帝国主义开辟新市场的重商主义，英国等国高校设立专职国际发展咨询部，将学校效能、领导力与质量监测成套打包为商业咨询方案，在第三世界发展中国家强力开辟咨询市场并实现知识变现。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–344)]]
+> **学术重商主义的海外殖民** [[Jason Beech|杰森·比奇]]（[[Jason Beech]]）结合[[Jean-François Lyotard|让-弗朗索瓦·利奥塔]]（[[Jean-François Lyotard]]）的知识商品化命题与[[Robert Cowen|罗伯特·考恩]]（[[Robert Cowen]]）的学术重商主义论断指出，当代大学在公共财政紧缩下产生了强烈的创收激励。恰如 16 世纪驱动欧洲帝国主义开辟新市场的重商主义，英国等国高校设立专职国际发展咨询部，将学校效能、领导力与质量监测成套打包为商业咨询方案，在第三世界发展中国家强力开辟咨询市场并实现知识变现。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–344)]]
 
 > [!citation-card] Beech论高校国际咨询部门对学校效能方案的商品化输出
 > 伴随利奥塔所论述的知识商品化趋势，在我们的时代，知识的生产是为了在市场中售卖。正如考恩（1996）所指出的，英国等国高校在财政压力下产生了强烈的创收激励；恰如十六世纪驱动欧洲帝国主义开辟新市场的重商主义，大学设立专门的国际发展部，奔赴欠发达国家开辟咨询市场，将学校效能与提高绩效的专门知识成套打包为咨询商品出售。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–344)]]
@@ -209,7 +211,7 @@ updated: 2026-10-15
 > - **1980 年代 — 实证取向奠基与社会学学科分化** 面对传统教育社会学阶级再生产理论的悲观论调，戴维·雷诺兹（David Reynolds）等学者转向实证组织研究，通过多[[Variable|变量]]回归试图证明“好学校”能克服生源不利条件，奠定学校效能实证量化[[Paradigm|范式]]。[[Argument_Ball_2008_SR|(Ball, 2008, pp. 662–663)]]
 > - **1990 年代 — 英国[[New Public Management|新公共管理]]与 [[Ofsted]] [[Disciplina and Doctrina|规训]]建制** 随着新公共管理（NPM）渗透，英国保守党与工党政府系统吸纳学校效能语言，建立英国教育标准局（[[Ofsted]]）定期督导制与学校公立排行榜，使效能指标转化为国家行政监控工具。[[Argument_Ball_2008_SR|(Ball, 2008, pp. 663–664)]]
 > - **1996–1997 年 — 学术重商主义转型与国家标准效能司设立** 考恩（Cowen, 1996）揭示英国高校因公共财政缩水而出现“学术重商主义”，将效能知识商品化；1997 年[[Michael Barber|迈克尔·巴伯]]（[[Michael Barber]]）受命执掌英国教育与就业部“标准与效能司”（Standards and Effectiveness Unit, SEU），标志着学校效能研究全面进驻国家政策中枢。[[Argument_Ball_2008_SR|(Ball, 2008, p. 663)]]；[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–343)]]
-> - **2000 年代 — 跨国教育集团与全球教育治理市场化扩张** 诺德安达（Nord Anglia）与环球教育（GEMS）等营利性跨国教育服务巨头兴起，与高校国际发展部联手将效能咨询向中东、拉美输出；[[World Bank|世界银行]]与[[OECD|经合组织]]将其编织进[[Global Educational Discourse|全球教育话语]]，确立为全球教育转移的主导范式。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 343–348)]]
+> - **2000 年代 — 跨国教育集团与全球教育治理市场化扩张** [[Nord Anglia Education|诺德安达]]（Nord Anglia）与环球教育（[[GEMS Education|GEMS]]）等营利性跨国教育服务巨头兴起，与高校国际发展部联手将效能咨询向中东、拉美输出；[[World Bank|世界银行]]与[[OECD|经合组织]]将其编织进[[Global Educational Discourse|全球教育话语]]，确立为全球教育转移的主导范式。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 343–348)]]
 > - **2010 年代至今 — 全球绩效量化反思与实践脱节批判** 国际比较教育界深入揭示学校效能模式在后发国家的异化，批判去语境化的效能模板消解地方教育文化生态，催生对教育本质与受教育者身份的伦理回归。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 353–355)]]
 
 ---
@@ -227,7 +229,7 @@ updated: 2026-10-15
 > > [!axis] 公共教育启蒙改良 vs 商业咨询商品化打包与学术重商主义
 > > 探讨学校效能究竟是服务于本土教育质量提升的专业知识，还是高等教育产业化背景下的牟利商品。
 > >
-> > - **技术官僚与跨国咨询集团（Nord Anglia, GEMS）** 宣称其运营方案与效能指标是基于全球最佳实践的[[General Purpose Technology|通用技术]]，能高效赋能任何社区的学校提升[[Competitiveness|竞争力]]。
+> > - **技术官僚与跨国咨询集团（[[Nord Anglia Education|Nord Anglia]], [[GEMS Education|GEMS]]）** 宣称其运营方案与效能指标是基于全球最佳实践的[[General Purpose Technology|通用技术]]，能高效赋能任何社区的学校提升[[Competitiveness|竞争力]]。
 > > - **跨国流动与学术重商主义批判视角（Cowen, 1996; Lyotard, 1984）** 揭示效能知识在后工业时代退化为售卖的商品，大学与跨国资本借助学术重商主义在第三世界开辟市场，将未经验证的异质方案强行输入受援国，造成政策买卖的虚假繁荣。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–344)]]
 >
 > > [!axis] 教师[[Professional Judgment|专业判断]]自主 vs 绩效量化[[Disciplina and Doctrina|规训]]与“归咎学校”政治

@@ -8,7 +8,7 @@ aliases:
   - 本土重构
   - 语境重构
   - 再情境化
-summary: 知识与教育话语脱离原始生产场所并在跨场域流转中被接受者选择性挪用、重新定位、改造并嵌入本土制度与文化秩序的再情景化过程
+summary: "知识与教育话语脱离原始生产场所并在跨场域流转中被接受者选择性挪用、重新定位、改造并嵌入本土制度与文化秩序的再情景化过程"
 type: concept
 domain: "comparative-education"
 related_count: 61
@@ -130,7 +130,7 @@ updated: 2026-10-16
 
 > [!feature] 核心要素
 > - **生产、再情景化与再生产场所的[[Champ|场域]]分立** [[Basil Bernstein|巴兹尔·伯恩斯坦]]（Basil Bernstein）指出，[[Knowledge Production|知识生产]]语境（主要由学术界掌控）负责划定“不可思”（Unthinkable）的[[Epistemology|认识论]]界限；官方再情景化场域（Official Recontextualising Field, ORF，如教育部）依据政治合法性重组[[Discourse|话语]]；教学再情景化场域（Pedagogic Recontextualising Field, PRF，如大学教育院系、专业出版物）提供批判与调试；再生产语境则发生在基层学校日常实践中。
-> - **跨国五位置循环流动与层级变形** 杰森·比奇（[[Jason Beech]]）将再情景化拓展为全球教育场域五大结构位置模型：全球学术[[Space Production|空间生产]]专业知识；国际组织出于紧迫[[Pragmatic Paradigm|实用主义]]将其过度简化为去情境化的普遍处方（[[Global Educational Discourse|全球教育话语]]）；国家层面将其与既有规范折衷并置为政策大纲；本土学术界因[[Gatekeepers|守门人]]群体垄断而陷入依附与失声；基层教育机构在落地时则遭遇剧烈实践异化。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 349–355)]]
+> - **跨国五位置循环流动与层级变形** [[Jason Beech|杰森·比奇]]（[[Jason Beech]]）将再情景化拓展为全球教育场域五大结构位置模型：全球学术[[Space Production|空间生产]]专业知识；国际组织出于紧迫[[Pragmatic Paradigm|实用主义]]将其过度简化为去情境化的普遍处方（[[Global Educational Discourse|全球教育话语]]）；国家层面将其与既有规范折衷并置为政策大纲；本土学术界因[[Gatekeepers|守门人]]群体垄断而陷入依附与失声；基层教育机构在落地时则遭遇剧烈实践异化。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 349–355)]]
 > - **选择性挪用与重构** 行动者绝非被动接收，而是从外来思想中选择性拾取符合自身诉求的元素，同时忽略或扭曲不契合的部分。[[Argument_Schulte_2009_EncuentrosEducacion|(Schulte, 2009, pp. 68–69)]]
 > - **双重驱动力：想象的亲和性与感知的不可兼容性** [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] 识别出本土行动者在再情景化过程中的深层动机——既可能主动发现外来思想与本土传统的表面共鸣（如将[[John Dewey|杜威]]思想与经世致用或[[Quality Education|素质教育]]勾连），也可能因感知到对本土核心价值的威胁而将其排斥为异端。[[Argument_Schulte_2009_EncuentrosEducacion|(Schulte, 2009, p. 70)]]
 > - **三层空间变形与[[Floating Signifier|漂浮能指]]** [[Argument_Beech_2009_CE|Beech (2009a)]] 揭示话语在全球[[Space of Flows|流动空间]]被掏空为漂浮能指，在国家层与本土保守话语矛盾并置，在微观场所空间受地缘物质条件制约发生功能突变。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 353–361)]]

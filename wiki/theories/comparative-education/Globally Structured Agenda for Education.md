@@ -8,7 +8,7 @@ aliases:
 summary: "罗杰·戴尔提出的批判比较教育学核心理论，主张全球教育趋同并非自愿的普世启蒙文化扩散，而是由全球资本主义体系的内在结构性矛盾（资本积累、国家合法性与社会凝聚力）通过跨国经贸组织自上而下结构化塑造的。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 27
+theory_related_count: 28
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -49,13 +49,14 @@ related_facts:
   - "[[World Bank]]"
   - "[[International Monetary Fund]]"
   - "[[Latin American Debt Crisis of 1982]]"
+  - "[[EU]]"
   - "[[Bologna Process]]"
 related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Globally Structured Agenda for Education
@@ -115,7 +116,7 @@ updated: 2026-10-07
 > [!theory-proposition] 命题二｜全球化通过分异化的机制组合穿透并重组民族国家的教育治理权力
 > **解释** 全球化对各国的冲击绝非千篇一律的机械复制。戴尔提出，外部力量进入民族国家取决于不同的权力关系与机制路径：对于核心发达国家，往往体现为自愿的“[[Policy Borrowing|政策借用]]与学习”；对于半边缘国家，多体现为区域协定的“规则调和与标准化”；而对于边缘贫困国家，则主要通过国际金融机构的“结构强加与苛刻贷款条件”实施硬性支配。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 >
-> **应用实例** 欧盟内部各成员国通过“[[Bologna Process|博洛尼亚进程]]”自愿开展资格互认与政策调和，而撒哈拉以南非洲国家则在世界银行贷款附带条件约束下被迫冻结教师工资总额。
+> **应用实例** [[EU|欧盟]]内部各成员国通过“[[Bologna Process|博洛尼亚进程]]”自愿开展资格互认与政策调和，而撒哈拉以南非洲国家则在世界银行贷款附带条件约束下被迫冻结教师工资总额。
 
 ---
 

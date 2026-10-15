@@ -43,7 +43,7 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Market Failure]]"
   - "[[Modern Industrial Policy]]"
-  - "[[Public-Private Partnership in Research]]"
+  - "[[Public-Private Partnership]]"
   - "[[Construct]]"
   - "[[Innovation Hub]]"
   - "[[Academic Engagement]]"
@@ -181,7 +181,7 @@ updated: 2026-10-15
 > [!citation-card] [[Modern Industrial Policy|现代产业政策]]视角的机制反思
 > 《[[CHIPS and Science Act|芯片与科学法案]]》的研发战略要求建立新型公私协同机制，克服传统分散研发模式的碎片化缺陷。NSTC 的制度成败取决于其能否在维护国家技术安全的同时，维持开放、透明且包容中小企业的敏捷创新环境。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 8, 14–15)]]
 >
-> *The success of the CHIPS R&D initiatives depends on establishing an agile, inclusive public-private partnership model that bridges the gap between laboratory innovation and commercial-scale manufacturing without being captured by narrow incumbent interests.*
+> *The success of the CHIPS R&D initiatives depends on establishing an agile, inclusive [[Public-Private Partnership]] model that bridges the gap between laboratory innovation and commercial-scale manufacturing without being captured by narrow incumbent interests.*
 
 ---
 

@@ -12,7 +12,7 @@ alias_reviewed:
 summary: "以应对重大社会挑战和变革性系统转型为核心导向，通过主动塑造与共创市场、战略方向引导、挑选意愿者、三层公共动态能力构建与引领和学习范式推动创新的公共政策体系"
 type: concept
 domain: "science-policy"
-related_count: 60
+related_count: 61
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -82,6 +82,7 @@ related_facts:
   - "[[Ministry of International Trade and Industry]]"
   - "[[Apollo Program]]"
   - "[[DARPA]]"
+  - "[[EU]]"
   - "[[Horizon Europe]]"
 related_arguments:
   - "[[Argument_Wanzenbock_2020_SPP]]"
@@ -92,7 +93,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Mission-Oriented Innovation Policy
@@ -271,7 +272,7 @@ updated: 2026-10-15
 > - **1940s–1960s — 第二代冷战[[Big Science|大科学]]使命（狮子形态）** 美国[[Manhattan Project|曼哈顿工程]]、[[Apollo Program|阿波罗计划]]与 [[DARPA]] 模式，依靠垂直集权国家实验室进行硬科技攻坚，产生巨大民用外溢。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 793–795)]]
 > - **1993 — 新旧使命对比理论化** 索特与阿伦德尔（Soete & Arundel, 1993）首次系统对比了传统国防航天使命与以环境社会挑战为中心的新型使命政策。
 > - **2012 — [[Transformative System Failures|变革性系统失灵]]框架提出** Weber & Rohracher（2012）提出涵盖方向性、需求表达、[[Reflexivity|反思性]]与跨层级协调的四类系统失灵，为新一代使命政策奠定理论基石。
-> - **2018 — 欧盟[[Horizon Europe|地平线欧洲]]战略确立与 ROAR 框架** [[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）提出[[Market Shaping and Creating|市场塑造]]、[[Picking the Willing|挑选意愿者]]机制与 ROAR [[Analytic Framework|分析框架]]，推动使命导向框架进入欧盟科研创新顶层设计。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–815)]]
+> - **2018 — [[EU|欧盟]][[Horizon Europe|地平线欧洲]]战略确立与 ROAR 框架** [[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）提出[[Market Shaping and Creating|市场塑造]]、[[Picking the Willing|挑选意愿者]]机制与 ROAR [[Analytic Framework|分析框架]]，推动使命导向框架进入欧盟科研创新顶层设计。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–815)]]
 > - **2018 — 三代演化理论与[[Public Dynamic Capabilities|公共部门动态能力]]构建** [[Rainer Kattel|卡特尔]]与[[Mariana Mazzucato|马祖卡托]]提出三代使命政策理论，打破 [[New Public Management|NPM]] 束缚，确立国家、政策与行政三层[[Public Dynamic Capabilities|公共动态能力]]及[[Lead-and-Learn Paradigm|引领与学习范式]]。[[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–801)]]
 > - **2020 — 过程导向与问题–解决方案空间建构** [[Argument_Wanzenbock_2020_SPP|Wanzenböck et al. (2020)]]系统解构社会挑战的双重棘手性，提出基于问题–解决方案空间的过程导向收敛路径框架。
 > - **2022–2026 — 战略性关键技术主权与半导体使命重构** 美国《[[CHIPS and Science Act|芯片与科学法案]]》规划向科研与创新体系注入约 2000 亿美元公共投资，推动科技政策由新自由主义市场中立转向战略驱动的使命导向创新政策（[[Argument_Mazzucato_2018_ICC|Mazzucato, 2018]]）；通过 [[National Science Foundation|NSF]] 与能源部为 EDA 工具与新型器件注入强方向性，引导大学开展跨界有组织科研与共置中试攻关。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 20–21)]]

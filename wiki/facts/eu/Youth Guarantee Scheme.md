@@ -9,9 +9,9 @@ subtype: program
 region: eu
 fact_region: "eu"
 fact_kind: "program"
-fact_related_count: 15
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 16
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 issuing_organization: ''
 tags:
@@ -36,6 +36,7 @@ related_theories:
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[EU]]"
   - "[[Europe 2020 Strategy]]"
   - "[[EU Skills Agenda]]"
   - "[[Innovation Union]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-13'
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # Youth Guarantee Scheme
@@ -53,7 +54,7 @@ updated: 2026-10-08
 ## 背景
 
 > [!info]
-> Youth Guarantee Scheme（青年保障计划）由欧盟理事会于 2013 年 4 月 22 日通过理事会建议书（Council Recommendation）设立，是 [[Europe 2020 Strategy]]（2010–2020）框架下应对青年失业问题的关键政策工具。该计划将就业、青年工作和教育培训领域联结起来，旨在解决完成义务教育后进入失业状态的青年群体面临的过渡困境(European Council, 2013; [[Argument_Rambla_2022_Springer\|Rambla, 2022, p.169]])。
+> Youth Guarantee Scheme（青年保障计划）由[[EU|欧盟]]理事会于 2013 年 4 月 22 日通过理事会建议书（Council Recommendation）设立，是 [[Europe 2020 Strategy]]（2010–2020）框架下应对青年失业问题的关键政策工具。该计划将就业、青年工作和教育培训领域联结起来，旨在解决完成义务教育后进入失业状态的青年群体面临的过渡困境(European Council, 2013; [[Argument_Rambla_2022_Springer\|Rambla, 2022, p.169]])。
 >
 > Youth Guarantee 的设立标志着欧盟政策[[Discourse|话语]]中的一个重要转变：义务教育的结束不再意味着国家责任的终止，而是进入一个由就业、教育、培训和[[Apprenticeship|学徒制]]共同构成的保障新阶段。这体现了欧盟对"教育培训体系"一体化理解的具体制度化——即教育不应是孤立于就业之外的服务，而应与就业政策无缝衔接([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.168–169]])。
 
@@ -74,7 +75,7 @@ updated: 2026-10-08
 
 ### 治理安排
 
-欧盟理事会建议成员国"发展合作伙伴关系"，汇集来自各级政府、社会伙伴、企业、非政府组织和公民社会组织的多样行动者来实施该计划（European Council, 2013, C120/4; [[Argument_Rambla_2022_Springer|Rambla, 2022, p.172]]）。这一安排体现了 [[Network Governance]] 在欧盟青年政策中的运作——政策实施不再依赖单一的[[Bureaucracy|科层制]]渠道，而是通过多元利益相关方网络进行协调。
+[[EU|欧盟]]理事会建议成员国"发展合作伙伴关系"，汇集来自各级政府、社会伙伴、企业、非政府组织和公民社会组织的多样行动者来实施该计划（European Council, 2013, C120/4; [[Argument_Rambla_2022_Springer|Rambla, 2022, p.172]]）。这一安排体现了 [[Network Governance]] 在欧盟青年政策中的运作——政策实施不再依赖单一的[[Bureaucracy|科层制]]渠道，而是通过多元利益相关方网络进行协调。
 
 ### 与旗舰倡议的关系
 
@@ -83,7 +84,7 @@ Youth Guarantee 与 [[EU Skills Agenda]] 和 [[Innovation Union]] 共同构成 [
 ## 时间线
 
 > [!note]-
-> - 2013 年 4 月 22 日：欧盟理事会通过关于设立 Youth Guarantee 的建议书（European Council, 2013）
+> - 2013 年 4 月 22 日：[[EU|欧盟]]理事会通过关于设立 Youth Guarantee 的建议书（European Council, 2013）
 > - 该计划与 [[Europe 2020 Strategy]] 同步运作至 2020 年
 > - 与 [[EU Skills Agenda]]（2016）形成政策互补，共同服务于 Europe 2020 的就业和教育目标
 
@@ -92,7 +93,7 @@ Youth Guarantee 与 [[EU Skills Agenda]] 和 [[Innovation Union]] 共同构成 [
 > [!example]
 > Youth Guarantee 的实施通过多层次治理架构运作([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.169–173]])：
 >
-> - **顶层设计** 欧盟理事会以建议书形式设定制度框架，不具约束性立法效力，但通过 [[Performance Indicators]] 的排名和基准管理机制施加规范压力
+> - **顶层设计** [[EU|欧盟]]理事会以建议书形式设定制度框架，不具约束性立法效力，但通过 [[Performance Indicators]] 的排名和基准管理机制施加规范压力
 > - **财政杠杆** 欧盟社会基金（European Social Fund, [[English Schools Foundation Hong Kong\|ESF]]）为成员国的青年就业和培训计划提供资金支持
 > - **地方网络** 政策鼓励成员国和区域政府建立来自政府、企业、非营利和公民社会的多元利益相关方合作网络（详见 [[Network Governance]] 中欧盟部分）
 > - **多层协调** Youth Guarantee 的实施深度嵌入 [[EU Skills Agenda]] 和 [[Innovation Union]] 的治理网络，三者共同构成一套相互强化的政策工具体系
@@ -107,7 +108,7 @@ Youth Guarantee 与 [[EU Skills Agenda]] 和 [[Innovation Union]] 共同构成 [
 
 > [!warning]
 > - **4 个月时限与教育质量的张力** Youth Guarantee 的"4 个月"时限承载了一种隐含的[[Theory of Change\|变革理论]]（[[Theories of Policy Change]]）——即快速衔接教育到就业的过渡本身是好的，而过渡的"空窗期"是需要被最小化的问题。然而，这一预设可能与[[Lifelong Learning\|终身学习]]的人文发展目标存在张力：一个花 1 年时间参与社区环保项目并获得组织技能的青年，在[[Performance Indicators\|绩效指标]]的逻辑下被视为"失业 12 个月"的失败案例，而一个在 3 个月内找到超市收银工作的青年则被视为"成功就业"([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.174]])
-> - **就业优先预设** 在多数欧盟成员国中，Youth Guarantee 在实践中被操作为就业优先工具——就业安置的紧迫性往往压倒了对教育质量和个体赋权的关注。这与 [[Selectivity]] 的诊断一致：绩效指标体系系统性地奖励短期就业结果，使更长远的人力发展路径在政策视野中变得不可见([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.174–175]])
+> - **就业优先预设** 在多数[[EU|欧盟]]成员国中，Youth Guarantee 在实践中被操作为就业优先工具——就业安置的紧迫性往往压倒了对教育质量和个体赋权的关注。这与 [[Selectivity]] 的诊断一致：绩效指标体系系统性地奖励短期就业结果，使更长远的人力发展路径在政策视野中变得不可见([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.174–175]])
 
 ## 相关概念／理论
 

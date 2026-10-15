@@ -55,7 +55,7 @@ updated: 2026-09-22
 > [!citation-card]- 关键表述
 > 过程模式将课程视为在课堂中交流知识本质原则的尝试，而非预先指定行为结果的说明书。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 66)]]
 >
-> *Curriculum as process is an attempt to communicate the essential principles and features of an educational proposal... not in terms of pre-specified behavioral outcomes. (Stenhouse, 1975; Darwish, 2009, p. 66)*
+> *Curriculum as process is an attempt to communicate the essential principles and features of an educational proposal... not in terms of pre-specified behavioral outcomes. (Stenhouse, 1975; [[Argument_Darwish_2009_Queens|Darwish, 2009, p. 66]])*
 
 > [!boundary]- 概念边界
 > - 不等于 [[Curriculum as Product\|作为产物的课程]] — 产物模式强调预设行为目标与标准化测量。

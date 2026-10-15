@@ -260,7 +260,7 @@ updated: 2026-10-15
 > - **学科代际谱系学者** [[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]] 将曼定性为比较教育“第一重论述代际”的美洲代表，阐发其“[[Scholiocentric Approach|以校为中心]]”考察与政治合法化借用功能。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, pp. 140–141)]]
 > - **现代权威研究者** 劳伦斯·克雷明与罗伯特·唐斯（Robert B. Downs） 著名历史学家与传记作家，系统阐明曼的自由共和教育哲学与传记历史地位。（Cremin, 1957; Downs, 1974）
 > - **比较学术史重构者** [[Val D. Rust|瓦尔·D·拉斯特]]（Val D. Rust） 阐明曼 1844 年欧洲考察在两百年跨文化制度考证传统中的基石坐标，驳斥[[Positivism|实证主义]]将其贬低为“业余游记”的偏见。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 124–126)]]
-> - **现代跨国网络与[[Discourse|话语]]流通研究者** 杰森·比奇（[[Jason Beech]]） 将曼 1843 年赴欧考察与第七次报告定性为 19 世纪国家官方官员垄断危机借用的经典历史基准，反衬当代跨国多元网络行动者对教育治理的重构。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–342)]]
+> - **现代跨国网络与[[Discourse|话语]]流通研究者** [[Jason Beech|杰森·比奇]]（[[Jason Beech]]） 将曼 1843 年赴欧考察与第七次报告定性为 19 世纪国家官方官员垄断危机借用的经典历史基准，反衬当代跨国多元网络行动者对教育治理的重构。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–342)]]
 
 ---
 

@@ -8,7 +8,7 @@ aliases:
 summary: "国家或区域性政治联盟在国际地缘对抗与全球价值链断链风险下，通过强化本土关键制造产能、多元化供应链供应来源、管控核心技术流失以及减少对外部单一主导力量的非对称依赖，确保自主制定政策与防范外部经济胁迫的战略能力。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Policy Conditionalities]]"
 related_facts:
   - "[[Research in Schools Evaluation]]"
+  - "[[EU]]"
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[European Chips Act]]"
   - "[[Important Projects of Common European Interest]]"
@@ -34,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-06
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Strategic Autonomy
@@ -54,7 +55,7 @@ updated: 2026-10-07
 > [!citation-card] 地缘政治现实下的战略自主转向
 > 中国作为全球政治与经济超级大国的崛起，以及欧美之间特别是在唐纳德·特朗普（Donald Trump）执政期间不断加剧的紧张关系，已将战略自主问题推向大西洋两岸政策制定者的议程首位。虽然推动这一国家干预新行动主义的动因十分广泛，但半导体产业作为数字产业政策与绿色转型的核心支柱，已成为决策者最关键的战略关切。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 2–3)]]
 >
-> *The [[Research in Schools Evaluation|RISE]] of China as a global political and economic superpower and growing tensions between the United States and the EU, especially during the Donald Trump Administration, have put the issue of strategic autonomy high on the agenda of policymakers on both sides of the Atlantic.*
+> *The [[Research in Schools Evaluation|RISE]] of China as a global political and economic superpower and growing tensions between the United States and the [[EU]], especially during the Donald Trump Administration, have put the issue of strategic autonomy high on the agenda of policymakers on both sides of the Atlantic.*
 
 > [!boundary]- 概念边界
 > - **不等于 闭关自守与完全自给自足（Autarky）** 自给自足试图割断国际分工以实现全部产品内部生产，通常付出极高经济代价且在半导体等高固定成本产业中不可持续；战略自主致力于在开放分工体系中识别并化解单向卡脖子风险。
@@ -119,14 +120,14 @@ updated: 2026-10-07
 > 探讨多层级政治联盟在推行战略自主时所面临的治理困境，分析缺乏中央集权财政预算如何扭曲政策工具并引发内部失衡。
 
 > [!claim] [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]]
-> **超国家财政缺位削弱自主战略效能** 现代产业战略的实施效能内生受制于政体的财政权力架构。在集权制国家（如美国），中央政府依托 527 亿美元直接拨款能够高效裁决投资优先级并施加全流程刚性附加条件；但在多层级联盟（如欧盟），欧洲联盟委员会缺乏独立税收与发债权能，在《[[European Chips Act|欧洲芯片法案]]》中仅能出资 33 亿欧元自有资金并退守为协调者角色。这种去中心化模式迫使战略自主过度依赖成员国国库资助与 [[Important Projects of Common European Interest|IPCEI]] 规则豁免，由于各成员国财力悬殊，绝大多数补贴流向德法等核心富裕国家，不仅破坏了欧洲单一市场的公平竞争环境，也难以调动足以同中美抗衡的统一产业合力。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–17)]]
+> **超国家财政缺位削弱自主战略效能** 现代产业战略的实施效能内生受制于政体的财政权力架构。在集权制国家（如美国），中央政府依托 527 亿美元直接拨款能够高效裁决投资优先级并施加全流程刚性附加条件；但在多层级联盟（如[[EU|欧盟]]），欧洲联盟委员会缺乏独立税收与发债权能，在《[[European Chips Act|欧洲芯片法案]]》中仅能出资 33 亿欧元自有资金并退守为协调者角色。这种去中心化模式迫使战略自主过度依赖成员国国库资助与 [[Important Projects of Common European Interest|IPCEI]] 规则豁免，由于各成员国财力悬殊，绝大多数补贴流向德法等核心富裕国家，不仅破坏了欧洲单一市场的公平竞争环境，也难以调动足以同中美抗衡的统一产业合力。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 13–17)]]
 
 ---
 
 ## 实践争议与挑战
 
 > [!tension-table] 美欧半导体战略自主实现路径的多维对照（pp.8–17）
-> | 比较维度 | 美国集权主导型战略自主（US Model） | 欧洲多层级协调型战略自主（EU Model） |
+> | 比较维度 | 美国集权主导型战略自主（US Model） | 欧洲多层级协调型战略自主（[[EU]] Model） |
 > |---|---|---|
 > | **出资主体与治理** | 联邦中央直接出资（527 亿美元），高度集权决策 | 欧委会充当协调者，依赖成员国国家援助与 [[Important Projects of Common European Interest\|IPCEI]] 机制 |
 > | **约束条件强度** | 附带 10 年地缘安全排他护栏、现行工资与超额利润分享等法定硬约束 | 仅具备微电子 IPCEI 利润回缴及危机期订单优先交付等弱约束 |
@@ -155,5 +156,5 @@ updated: 2026-10-07
 > | [[Modern Industrial Policy\|现代产业政策]] | 概念 | 战略自正是当代推动现代产业政策复兴的核心驱动力。 |
 > | [[Policy Conditionalities\|制度化附加条件]] | 概念 | 实现战略自主过程中规范跨国资本行为与保障公共利益的契约工具。 |
 > | [[CHIPS and Science Act\|芯片与科学法案]] | 事实 | 美国重塑半导体战略自主的集权式中央产业政策实践。 |
-> | [[European Chips Act\|欧洲芯片法案]] | 事实 | 欧盟在多层级治理下追求半导体战略自主的标志性立法。 |
+> | [[European Chips Act\|欧洲芯片法案]] | 事实 | [[EU\|欧盟]]在多层级治理下追求半导体战略自主的标志性立法。 |
 > | [[Important Projects of Common European Interest\|欧洲共同利益重要项目]] | 事实 | 欧洲在超国家预算匮乏下推进跨境战略自主协同的关键制度载体。 |

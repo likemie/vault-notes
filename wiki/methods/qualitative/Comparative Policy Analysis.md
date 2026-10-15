@@ -8,7 +8,7 @@ summary: "公共政策与比较政治经济学中系统比较不同国家、地�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 40
+method_related_count: 41
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -53,6 +53,7 @@ related_methods:
   - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_facts:
+  - "[[EU]]"
   - "[[Erasmus Programme]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[OECD]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-06
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Comparative Policy Analysis
@@ -80,7 +81,7 @@ updated: 2026-10-15
 > [!method-scope] 方法范围
 > - **研究对象** 法律法规文本、中长期战略规划、直接与间接财政预算、监管审查准则、国家评估指标手册、学制结构设计与公私契约条款。
 > - **问题类型** 比较不同管辖区政策目标的优先序排列、治理结构的集中或分散程度、政策工具的选择逻辑、跨国话语建构的[[Paradigm|范式]]差异，以及公共资源配置的附加约束机制。
-> - **[[Unit of Analysis|分析单位]]** 国家政府、超国家机构（如欧洲联盟委员会）、次国家行政区（如联邦州、大区或自治区）、政策项目与跨国企业主体。
+> - **[[Unit of Analysis|分析单位]]** 国家政府、超国家机构（如[[EU|欧洲联盟]]委员会）、次国家行政区（如联邦州、大区或自治区）、政策项目与跨国企业主体。
 > - **输出形式** 结构化跨国政策对比矩阵、政策工具类型学归纳、话语建构解构叙事、因果机制推演与政策有效性评估。
 
 > [!citation-card]
@@ -134,7 +135,7 @@ updated: 2026-10-15
 > | 维度 | 信息 |
 > |---|---|
 > | 材料来源 | 官方立法法案、行政命令、政策白皮书、跨国条约协议、议会辩论记录与学校评估指标手册。 |
-> | 抽样或选案 | 最大相异系统设计（Most Different Systems Design，MDSD）或最相似系统设计（Most Similar Systems Design，MSSD）；涵盖超国家实体（欧盟）、联邦制国家（美、德）与单一制/复合自治制国家（法、意、英、西）。 |
+> | 抽样或选案 | 最大相异系统设计（Most Different Systems Design，MDSD）或最相似系统设计（Most Similar Systems Design，MSSD）；涵盖超国家实体（[[EU\|欧盟]]）、联邦制国家（美、德）与单一制/复合自治制国家（法、意、英、西）。 |
 > | 研究者位置 | 批判性政策[[Discourse\|话语]]解构者与制度病理诊断者；审视政策文本表面中立性背后的权力运作、空间[[Disciplina and Doctrina\|规训]]、政党意识形态偏好与修辞借用。 |
 > | 资料边界 | 政策制定与重新授权周期、法规执行细则、官方问责指标系统及其在特定历史时空下的实践反馈。 |
 
@@ -151,7 +152,7 @@ updated: 2026-10-15
 > [!method-fit] 适用判断
 > - **适合使用**
 >   - 评估多国在科技前沿领域推行[[Modern Industrial Policy|现代产业政策]]、环境规制或教育福利改革时的制度异同与政策扩散（[[Argument_Bulfone_2024_IAI|Bulfone et al., 2024]]）。
->   - 透视具有多层级治理特征的复合政体（如欧盟）与单一联邦国家（如美国）之间的治理机制分殊与主权张力。
+>   - 透视具有多层级治理特征的复合政体（如[[EU|欧盟]]）与单一联邦国家（如美国）之间的治理机制分殊与主权张力。
 >   - 解析不同政治文化对弱势群体流动性、公民权资格与空间排斥的政策[[Discourse|话语]]构建机制（[[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer, 2009]]）。
 >   - 诊断后发国家在学制改革与[[Educational Decentralization|教育分权]]中出现的激进化偏差与制度脱节病理（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009]]）。
 > - **谨慎使用**
@@ -189,7 +190,7 @@ updated: 2026-10-15
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 针对美欧半导体产业政策构建涵盖治理主体、政策目标、资金规模、政策工具与[[Policy Conditionalities|制度化附加条件]]的五维比较[[Analytic Framework|分析框架]]，揭示美国集中式补贴模式与欧盟去中心化协调者模式的制度差异与效能分化。
+> - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 针对美欧半导体产业政策构建涵盖治理主体、政策目标、资金规模、政策工具与[[Policy Conditionalities|制度化附加条件]]的五维比较[[Analytic Framework|分析框架]]，揭示美国集中式补贴模式与[[EU|欧盟]]去中心化协调者模式的制度差异与效能分化。
 > - [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] — 采用跨大西洋与跨国比较政策分析，对比欧盟[[Erasmus Programme|伊拉斯谟计划]]将[[Student Mobility|学生流动性]]建构为世界公民积极资本与美国《[[No Child Left Behind Act 2001|不让一个孩子掉队法案]]》将学生流动性编码为病态化漂泊问责借口的[[Discourse|话语]]机制，并系统比较中、美、西、英、印等国对流动学童的空间教育治理政策。
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 采用跨国比较政策分析视角，将西班牙教育置于欧盟多国治理坐标系下，系统对比英、美、德、法、意与北欧的分权模式演变，解构西班牙教育激进分权导致的行政膨胀与中等学制平庸化困境。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 运用历史与跨国比较政策分析方法，对比[[OECD]]在1960–1990年社会民主主义妥协期与1990年代中期后新自由主义期的治理架构、工作模式及[[PISA]]指标体系，揭示国际组织从政府间论坛向独立跨国政策行动者的制度转型。

@@ -9,7 +9,7 @@ summary: "英国著名演化经济学家、创新经济学开拓者，萨塞克�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 34
+person_related_count: 35
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -60,12 +60,13 @@ related_facts:
   - "[[Frascati Manual]]"
   - "[[National Education]]"
   - "[[Ministry of International Trade and Industry]]"
+  - "[[EU]]"
 related_arguments:
   - "[[Argument_Freeman_1995_CJE]]"
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Chris Freeman
@@ -142,7 +143,7 @@ updated: 2026-10-15
 > [!influence-path] 影响路径
 > - **理论路径** 奠定国家[[Systems of Innovation|创新系统学派]]（[[National Innovation System|NIS]]），深刻启发了本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（Bengt-Åke Lundvall）、[[Richard Nelson|理查德·纳尔逊]]（Richard R. Nelson）与查尔斯·埃德奎斯特（Charles Edquist）的研究，促成创新研究从新古典生产函数转向制度演化框架。
 > - **方法路径** 倡导历史制度比较与质性机制追踪相结合的方法论，纠正片面依赖研发支出排行榜（GERD/GNP）的技术官僚倾向。
-> - **政策路径** 直接塑造了[[OECD|经合组织]]（OECD）、欧盟委员会及多国工业与科技政策，推动政策界从被动弥补“[[Market Failure|市场失灵]]”转向设计系统性国家创新战略与教育配套。
+> - **政策路径** 直接塑造了[[OECD|经合组织]]（OECD）、[[EU|欧盟]]委员会及多国工业与科技政策，推动政策界从被动弥补“[[Market Failure|市场失灵]]”转向设计系统性国家创新战略与教育配套。
 > - **跨国传播** 在东亚（日本、韩国）与拉美发展经济学界引发深远反响，成为解释东亚工业跃迁与拉美中等收入陷阱制度分化的核心理论工具。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引

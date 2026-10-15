@@ -8,7 +8,7 @@ aliases:
 summary: "对经合组织国际学生评估项目（PISA）的系统性学术反思与理论批判，涵盖未来技能构念拟制、统计等值空间建构对本体效度的消解、“数字即政策”的去政治化规训、比较教育学科认识论侵蚀、高分低趣悖论及教育向位置性商品蜕化。"
 type: concept
 domain: "comparative-education"
-related_count: 70
+related_count: 71
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -89,6 +89,7 @@ related_facts:
   - "[[PISA]]"
   - "[[OECD]]"
   - "[[TIMSS]]"
+  - "[[EU]]"
   - "[[2014 Open Letter on PISA]]"
 related_arguments:
   - "[[Argument_Mitter_2009_Europe]]"
@@ -100,7 +101,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-14
+updated: 2026-10-16
 ---
 
 # Critique of PISA
@@ -260,7 +261,7 @@ updated: 2026-10-14
 
 > [!evidence-grid-a] 国际批判案例
 > - **英国英格兰** 政治家利用 [[PISA]] 数据虚构教育滑坡危机，将跨国评估转化为合法化自由学校、文法中学筛选与[[Performance Pay|绩效工资]]改革的政治工具，导致动手实验课时大幅压缩。[[Argument_Grey_2018_CE|(Grey & Morris, 2018)]]
-> - **西班牙** 连续两轮处于欧盟末尾的 PISA 结果成为中央教育部与 17 个自治区互相推诿责任的挡箭牌，暴露出十年制均质不分流综合初中的平庸化危机，以及激进分权下的治理失调。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 327, 331–332)]]
+> - **西班牙** 连续两轮处于[[EU|欧盟]]末尾的 PISA 结果成为中央教育部与 17 个自治区互相推诿责任的挡箭牌，暴露出十年制均质不分流综合初中的平庸化危机，以及激进分权下的治理失调。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 327, 331–332)]]
 > - **德国** 施罗德政府将 2000 年 PISA 冲击直接归咎于各联邦州教育部长，展现出联邦制下跨国数据在各级政客间演变为推卸败绩与党派攻讦的典型案例。
 > - **跨国[[OECD|经合组织]]网络** 经合组织通过 PISA 联赛排名建立全球[[Space of Equivalence|等值空间]]，以统计[[Reliability|信度]]压倒[[Construct Validity|构念效度]]，推行没有法律强制力的远处掌舵，重塑各国内部教育政策[[Champ|场域]]。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
 > - **东亚体系** 长期包揽榜首的高分体系学生普遍表现出更低的科学内在兴趣、自信心与心理幸福感，形成“高成就与低幸福感”的国际实证悖论。

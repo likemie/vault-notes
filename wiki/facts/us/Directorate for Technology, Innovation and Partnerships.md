@@ -32,7 +32,7 @@ tags:
   - theme/metascience
 related_concepts:
   - "[[Valley of Death]]"
-  - "[[Public-Private Partnership in Research]]"
+  - "[[Public-Private Partnership]]"
   - "[[Use-Inspired Basic Research]]"
   - "[[Research Translation]]"
   - "[[Curiosity-Driven Research]]"
@@ -88,7 +88,7 @@ updated: 2026-10-07
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> **技术、创新与伙伴关系理事会（Directorate for Technology, Innovation and Partnerships, TIP）** 是[[National Science Foundation|美国国家科学基金会]]（NSF）于 2022 年依据《[[CHIPS and Science Act|芯片与科学法案]]》正式创设的全新跨界业务理事会，也是 NSF 成立 30 余年来设立的首个新理事会。作为 NSF 加速科学成果产业落地的“国家级创新引擎”，TIP 专门致力于打破从前沿基础研究到现实应用的“[[Valley of Death|死亡之谷]]”，通过构建[[Public-Private Partnership in Research|公私合作伙伴关系]]（Public-Private Partnerships, PPP）、布局[[NSF Regional Innovation Engines|区域创新引擎]]（NSF Regional Innovation Engines）、设立 X 实验室（直接赋权新型独立研究实体）以及开展“金券（Golden Tickets）”非共识资助试验，将联邦基础科学投入直接转化为国家经济繁荣、产业技术自主与国家安全优势。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 233, 237)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 21, 26, 28)]]
+> **技术、创新与伙伴关系理事会（Directorate for Technology, Innovation and Partnerships, TIP）** 是[[National Science Foundation|美国国家科学基金会]]（NSF）于 2022 年依据《[[CHIPS and Science Act|芯片与科学法案]]》正式创设的全新跨界业务理事会，也是 NSF 成立 30 余年来设立的首个新理事会。作为 NSF 加速科学成果产业落地的“国家级创新引擎”，TIP 专门致力于打破从前沿基础研究到现实应用的“[[Valley of Death|死亡之谷]]”，通过构建[[Public-Private Partnership|公私合作伙伴关系]]（Public-Private Partnerships, PPP）、布局[[NSF Regional Innovation Engines|区域创新引擎]]（NSF Regional Innovation Engines）、设立 X 实验室（直接赋权新型独立研究实体）以及开展“金券（Golden Tickets）”非共识资助试验，将联邦基础科学投入直接转化为国家经济繁荣、产业技术自主与国家安全优势。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 233, 237)]]; [[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 21, 26, 28)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 2022 年 3 月启动设立，随后在 2022 年 8 月通过的《芯片与科学法案》中获得全面法定赋权与巨额预算授权；旨在应对全球科技霸权博弈、关键核心技术产业外流以及美国科研成果转化率低下的体制痛点。
@@ -103,7 +103,7 @@ updated: 2026-10-07
 > [!dev-timeline] 组织发展历程
 > - **2021 — 《无尽前沿法案》立法博弈与战略设计** 国会两党议员提出《无尽前沿法案》（Endless Frontier Act），主张在 [[National Science Foundation|NSF]] 内部重构应用[[Research Translation|技术转化]]职能，引发了科学界关于“保持[[Curiosity-Driven Research|纯基础研究]]”与“强化国家关键技术转化”的历史性大辩论。
 > - **2022 — TIP 理事会正式创设与《[[CHIPS and Science Act|芯片法案]]》立法锁定** 2022 年 3 月 NSF 主任正式宣布成立 TIP 理事会；同年 8 月总统签署《芯片与科学法案》，正式确立 TIP 的法定地位，并授权其在未来数年内动用数百亿美元推进国家技术转化生态建设。
-> - **2023–2025 — 启动[[NSF Regional Innovation Engines|区域创新引擎]]与政产学研联合体网络** 遴选并资助首批“NSF 区域创新引擎”，在全美落子数十个十亿美元级区域产学研联合体，确立以公私伙伴关系为核心载体的现代国家转化[[Paradigm|范式]]。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 233, 237)]]
+> - **2023–2025 — 启动[[NSF Regional Innovation Engines|区域创新引擎]]与政产学研联合体网络** 遴选并资助首批“NSF 区域创新引擎”，在全美落子数十个十亿美元级区域产学研联合体，确立以[[Public-Private Partnership|公私伙伴关系]]为核心载体的现代国家转化[[Paradigm|范式]]。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 233, 237)]]
 > - **2026 — 组织形态创新与[[Metascience|元科学]]资助试验（Kratsios / [[Office of Science and Technology Policy|OSTP]]）** 白宫科技政策办公室（OSTP）《科学：新黄金时代》报告重点推介 TIP 的前沿制度探索：设立 X 实验室直接资助传统高校外的独立科研机构（借鉴[[Focused Research Organization|聚焦研究组织]] FRO 模式）；试点单一评委破格资助的“金券（Golden Tickets）”机制；并与[[Metascience|元科学]]研究者合作开展资助体制的对照实验，成为联邦科研管理创新的先锋试验田。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 21, 26, 28)]]
 
 ---

@@ -30,6 +30,7 @@ related_facts:
   - "[[National Science Foundation]]"
   - "[[OMB Uniform Guidance for Federal Awards]]"
   - "[[Bayh-Dole Act of 1980]]"
+  - "[[EU]]"
   - "[[Nelson Memo of 2022]]"
   - "[[Common Rule 2018]]"
   - "[[Pajaro Dunes Statement of 1982]]"
@@ -46,7 +47,7 @@ title: "Argument_Hall_2025_EthicalLegalFrameworks"
 argument_key: "Argument_Hall_2025_EthicalLegalFrameworks"
 argument_display_title: "Ethical relationships, legal frameworks, and agreements"
 argument_kind: "book"
-argument_related_count: 18
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -178,7 +179,7 @@ citation_aliases:
 > [[Bayh-Dole Act of 1980]] 有一个常被忽视但至关重要的条款：大学等非营利机构必须将一部分许可费分配给发明人。这造成了大学研究者与企业研究者的制度性差异——企业研究者通常不直接从许可费中分享收益，其发明属于职务发明，权利归雇主。这一差异的实践后果是：大学的任何产学协议都必须承认并尊重发明人的法定权利，企业不能假设可以像对待自己雇员那样对待大学研究者创造的知识产权(p.264)。
 
 > [!warning] 隐私规则
-> 健康信息受健康保险可携性和责任法案（Health Insurance Portability and Accountability Act, HIPAA）保护、学生信息受家庭教育权利和隐私法案（Family Educational Rights and Privacy Act, FERPA）保护、欧盟数据受通用数据保护条例（General Data Protection Regulation, GDPR）保护（包括数据删除权）、联邦政府持有的个人数据受 Privacy Act of 1974 保护。这些法规的叠加意味着：如果一家社交媒体公司希望与大学合作分析用户数据用于社会行为研究，双方必须仔细审视哪些数据在哪些法规的保护下可以被共享，而答案可能极大地限制研究的范围和方法(p.264)。
+> 健康信息受健康保险可携性和责任法案（Health Insurance Portability and Accountability Act, HIPAA）保护、学生信息受家庭教育权利和隐私法案（Family Educational Rights and Privacy Act, FERPA）保护、[[EU|欧盟]]数据受通用数据保护条例（General Data Protection Regulation, GDPR）保护（包括数据删除权）、联邦政府持有的个人数据受 Privacy Act of 1974 保护。这些法规的叠加意味着：如果一家社交媒体公司希望与大学合作分析用户数据用于社会行为研究，双方必须仔细审视哪些数据在哪些法规的保护下可以被共享，而答案可能极大地限制研究的范围和方法(p.264)。
 
 > [!warning] 开放获取与透明性
 > 2022 年 [[Nelson Memo of 2022]] 要求所有联邦研发资助机构建立出版物和科学数据的公共获取政策。虽然不直接约束纯私人赞助的研究，但如果项目同时获得联邦和企业资金（联合资助），开放获取要求即适用。此外，联邦资助的研究可能触发《信息自由法》（Freedom of Information Act, FOIA）的披露义务；公立大学还可能受州公共信息法案约束。这意味着企业不能假设其为合作项目投入的资金能买到完全的保密，联邦透明性要求可能穿透协议的保密条款(pp.264–265)。

@@ -7,7 +7,7 @@ summary: "英国伦敦大学学院教育学院（UCL Institute of Education, UCL
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 32
+person_related_count: 33
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -46,6 +46,7 @@ related_methods:
   - "[[Framework Synthesis]]"
 related_facts:
   - "[[EPPI-Centre]]"
+  - "[[EU]]"
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
   - "[[Education in Europe]]"
   - "[[What Works Network]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # David Gough
@@ -72,7 +73,7 @@ updated: 2026-10-07
 > [!person-profile] 人物档案
 > - **身份位置** 英国资深社会科学家、循证政策与方法学专家，伦敦大学学院教育学院（UCL Institute of Education）社会科学研究部（Social Science Research Unit, SSRU）实证政策与实践荣休教授，证据知情政策与实践信息与协调中心（[[EPPI-Centre\|Evidence for Policy and Practice Information and Co-ordinating Centre]], [[EPPI-Centre]]）前主任。
 > - **核心角色** 国际证据知情政策与实践（Evidence-Informed Policy and Practice, EIPP）运动与社会科学[[Systematic Review\|系统综述]]方法论的领军人物，开创性构建了多维[[Evidence Ecosystem\|证据生态系统]]框架、证据权重评价体系（[[Weight of Evidence Framework\|Weight of Evidence]]）以及[[Educational Brokerage Agency\|知识中介机构]]的自我循证评价标准。
-> - **代表贡献** 领衔主持欧盟跨国教育循证项目（[[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]]），系统构建摆脱单纯线性推送的[[Evidence Ecosystem\|证据生态系统]][[Analytic Framework\|分析框架]]，系统提出研究应用之科学（The Science of Using Science）元研究议程。
+> - **代表贡献** 领衔主持[[EU|欧盟]]跨国教育循证项目（[[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]]），系统构建摆脱单纯线性推送的[[Evidence Ecosystem\|证据生态系统]][[Analytic Framework\|分析框架]]，系统提出研究应用之科学（The Science of Using Science）元研究议程。
 
 > [!citation-card]- [[Knowledge Mediation\|知识中介]]自我循证的核心关切
 > 知识中介机构旨在促进决策者对研究证据的利用；如果在自身运作中不采取循证进路，它们不仅可能削弱实际成效，更会因未能遵循自己倡导的循证原则而丧失公信力与信任。必须将明确的循证视角贯穿于需求分析、系统情境整合、[[Theory of Change\|变革理论]]、[[Evidence Standards\|证据标准]]与自我评估五大核心领域。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, p. 147)]]
@@ -86,7 +87,7 @@ updated: 2026-10-07
 > [!timeline] 生平与职涯
 > - **1990s** 加入伦敦大学教育学院（现 UCL IOE）社会科学研究部，长期领导社会科学与教育领域的[[Systematic Review\|系统综述]]方法学创新，出任 [[EPPI-Centre]] 主任。
 > - **2007** 提出奠基性的证据权重（[[Weight of Evidence Framework\|Weight of Evidence]]）多维评价框架，打破单纯依赖单一研究设计等级的狭隘[[Positivism\|实证主义]]评价模式。
-> - **2010–2013** 领衔主持欧盟委员会资助的欧洲教育证据知情政策与实践网络（Evidence Informed Policy and Practice in [[Education in Europe]], [[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]]），系统调研欧洲各国教育证据利用生态与体制障壁。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, pp. 67–68)]]
+> - **2010–2013** 领衔主持[[EU|欧盟]]委员会资助的欧洲教育证据知情政策与实践网络（Evidence Informed Policy and Practice in [[Education in Europe]], [[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]]），系统调研欧洲各国教育证据利用生态与体制障壁。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, pp. 67–68)]]
 > - **2016** 与 Laurenz Langer 及 Janice Tripney 合作出版里程碑式专著《[[Research Utilization\|研究使用]]之科学》（The Science of Using Science），系统梳理促进决策者运用证据的因果机制。
 > - **2018–2022** 深入考察英国有效性中心（[[What Works Network\|What Works Centres]], WWCs）与国际网络证据门户，系统阐发[[Educational Brokerage Agency\|知识中介机构]]的[[Evidence Standards\|证据标准]]、[[Theory of Change\|变革理论]]与生态系统整合路径。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 147–150)]]
 

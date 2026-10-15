@@ -11,9 +11,9 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 23
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 24
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2011–至今"
 initiator_organization: "[[OECD]]"
@@ -51,12 +51,13 @@ related_facts:
   - "[[Educational Testing Service]]"
   - "[[Teaching and Learning International Survey]]"
   - "[[Reach]]"
+  - "[[EU]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-14
+updated: 2026-10-16
 ---
 
 # Programme for the International Assessment of Adult Competencies
@@ -153,7 +154,7 @@ updated: 2026-10-14
 
 > [!lessons] 经验教训与启示
 > - **实施教训** 仅仅发布国别技能排名难以自然转化为有效的终身教育改革；若无企业界、行业协会与财政补贴的结构性联动，单纯测量技能只会加剧劳动力市场的文凭文理通胀与学历歧视。
-> - **对未来改革的启示** 促使联合国与欧盟认识到正规教育与非正规职业技能认证（RPL）互通的重要性，推动各国建立国家资格框架（NQF）与微型认证终身转换通道。
+> - **对未来改革的启示** 促使联合国与[[EU|欧盟]]认识到正规教育与非正规职业技能认证（RPL）互通的重要性，推动各国建立国家资格框架（NQF）与微型认证终身转换通道。
 
 ---
 

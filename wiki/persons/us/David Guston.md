@@ -7,7 +7,7 @@ summary: "美国当代著名科学技术政策与STS学者，亚利桑那州立�
 type: person
 nationality: "us"
 person_region: "us"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -32,6 +32,7 @@ related_facts:
   - "[[American Association for the Advancement of Science]]"
   - "[[National Science Foundation]]"
   - "[[National Institutes of Health]]"
+  - "[[EU]]"
   - "[[Science, The Endless Frontier 1945]]"
   - "[[Office of Science and Technology Policy]]"
 related_arguments:
@@ -44,7 +45,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-06
+updated: 2026-10-16
 ---
 
 # David Guston
@@ -103,7 +104,7 @@ updated: 2026-10-06
 > - **理论路径** 推进了科学技术社会学（[[Science and Technology Studies|STS]]）与公共管理学的交叉融合，将边界组织、负责任研究与创新（RRI）确立为全球科技治理的主流概念工具。
 > - **方法路径** 开创了运用委托—代理模型和制度主义工具解构科学资助体制的经验实证分析[[Paradigm|范式]]。
 > - **政策路径** 其关于科研诚信与产出率两难困境的[[Analytic Framework|分析框架]]，被广泛应用于[[National Science Foundation|美国国家科学基金会]]（NSF）、国立卫生研究院（[[National Institutes of Health|NIH]]）等机构的伦理治理与项目绩效评估制度设计中。
-> - **跨国／跨领域传播** [[Responsible Innovation|负责任创新]]思想被欧盟“地平线2020”（Horizon 2020）框架全面采纳并向全球辐射。
+> - **跨国／跨领域传播** [[Responsible Innovation|负责任创新]]思想被[[EU|欧盟]]“地平线2020”（Horizon 2020）框架全面采纳并向全球辐射。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 溯源[[Social Contract of Science|科学社会契约]]的理论源流，将古斯顿（1994, 2000, 2011）作为界定国家与科学共同体制度化权利义务关系的核心代表学者予以系统引用。

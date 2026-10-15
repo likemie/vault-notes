@@ -25,6 +25,7 @@ related_concepts:
   - "[[School Leadership]]"
   - "[[Academic Achievement]]"
   - "[[Heterogeneity]]"
+  - "[[Recontextualization]]"
   - "[[Variable]]"
   - "[[Operationalization]]"
   - "[[Construct]]"
@@ -74,7 +75,7 @@ title: "Argument_Altrichter_2019_ZfB"
 argument_key: "Argument_Altrichter_2019_ZfB"
 argument_display_title: "Schulleitungen und evidenzbasierte Bildungsreform im Schulwesen"
 argument_kind: "journal-article"
-argument_related_count: 36
+argument_related_count: 37
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -114,7 +115,7 @@ issuing_organization: ""
 > | **行动者数据利用类型学（Typologies of Data Use）**<br>Stamm (2003); Wurster & Gärtner (2013); Higham & Earley (2013) | 归纳一线学校应对评估与督导数据的[[Heterogeneity\|异质性]]模式（如抵触阻断、象征借口、被动应付、积极创新），为实证识别校长分群提供经验形态参照。（pp. 21–22） |
 
 > [!warrant]- 理论如何支撑论证
-> 教育治理框架确立了从传统的信任与良好意愿逻辑（Logic of Confidence and Good Faith）转向数据反馈与理性决策逻辑的宏观背景；再情境化理论阐明了外部政策供给必须经由学校行动者的认知过滤与实践转译，因而测量校长的态度倾向成为理解政策落地的关键环节；学校领导力理论与数据利用类型学则进一步将宏观治理态度与微观管理工时、教学改进活动联系起来，构建了完整的实证推导链条。
+> 教育治理框架确立了从传统的信任与良好意愿逻辑（Logic of Confidence and Good Faith）转向数据反馈与理性决策逻辑的宏观背景；[[Recontextualization|再情境化]]理论阐明了外部政策供给必须经由学校行动者的认知过滤与实践转译，因而测量校长的态度倾向成为理解政策落地的关键环节；学校领导力理论与数据利用类型学则进一步将宏观治理态度与微观管理工时、教学改进活动联系起来，构建了完整的实证推导链条。
 
 ### 核心变量与操作化编码表（仅量化研究填写）
 
@@ -309,7 +310,7 @@ issuing_organization: ""
 > 1. **校长治理态度分化为三类经验形态** 运用 $k$ 均值聚类提炼出[[Evidence-Based School Development\|循证学校发展]]型（27.5%）、资源驱动发展型（37.5%）与弱发展取向型（35.0%）三类群体，证实一线校长对新治理工具并非均质接受。（pp. 27–28）
 > 2. **循证态度切实驱动学校教学改进与同侪协同** 循证型校长报告了显著更多的教学改进活动（$d = 0.48$）与教师协同发展能力建设（$d = 0.62$），证实了治理价值取向对学校微观行动的直接塑造效应。（pp. 29–30）
 > 3. **领导工时发生由直接授课向教学管理的结构性置换** 循证型校长将课堂直接授课工时压缩至 19.87%（对照组为 29%–34%），显著增加课堂听课观摩（$d = 0.47$）与教学对话时间，转型为教育企业管理者。（pp. 30–31）
-> 4. **新治理政策面临严峻的一线文化惯性与制度阻抗** 超过七成的中小学校长依然固守外部资源依赖诉求、或对外部评价监控持冷漠怀疑态度，凸显出循证改革在专业文化层面的再情境化瓶颈。（pp. 31–33）
+> 4. **新治理政策面临严峻的一线文化惯性与制度阻抗** 超过七成的中小学校长依然固守外部资源依赖诉求、或对外部评价监控持冷漠怀疑态度，凸显出循证改革在专业文化层面的[[Recontextualization|再情境化]]瓶颈。（pp. 31–33）
 
 > [!stat-cards]- 核心数据
 > - **27.5%** 样本中真正高度认同产出导向与[[Output-Oriented Governance\|循证治理]]工具的校长占比。（p. 28）

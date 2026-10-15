@@ -115,6 +115,7 @@ related_facts:
   - "[[Positivist Dispute in German Sociology]]"
   - "[[World Council of Comparative Education Societies]]"
   - "[[Post-Compulsory Education Project]]"
+  - "[[EU]]"
   - "[[European Qualifications Framework]]"
 related_arguments: []
 sources:
@@ -129,7 +130,7 @@ title: "Argument_Mitter_2009_Europe"
 argument_key: "Argument_Mitter_2009_Europe"
 argument_display_title: "Comparative Education in Europe"
 argument_kind: "book-chapter"
-argument_related_count: 94
+argument_related_count: 95
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -373,7 +374,7 @@ publisher: "Springer"
 >
 > - **务实政策与实证分析阶段（1990s 至今）**
 >
->   伴随 CESE 从哥本哈根（1994）至格拉纳达（2006）历届双年会，学者转向对欧盟教育政策文本、[[European Qualifications Framework|欧洲资格框架]]与跨国实证数据的严肃再分析。（p.98）
+>   伴随 CESE 从哥本哈根（1994）至格拉纳达（2006）历届双年会，学者转向对[[EU|欧盟]]教育政策文本、[[European Qualifications Framework|欧洲资格框架]]与跨国实证数据的严肃再分析。（p.98）
 
 面对日益普遍的跨国比较热潮，米特在全篇收束处对学科的未来提出了深刻的认识论警示：（pp.98–99）
 
@@ -388,7 +389,7 @@ publisher: "Springer"
 > - **统一性与多样性的结构性主轴** 欧洲比较教育学的百年脉络本质上由民族[[State Educational Sovereignty|国家教育主权]]的多样性与欧洲共享精神文化遗产的统一性二分法所驱动，并在当代重构为普遍主义与文化[[Pluralism|多元主义]]的张力。（pp.87–88）
 > - **文化主义与历史传统的顽强主流地位** 欧洲比较教育始终未如北美一般全盘转向行为主义与量化统计，以汉斯、[[Friedrich Schneider|弗里德里希·施奈德]]、考恩、卡扎米亚斯与施里维尔为代表的文化-历史传统始终占据[[Discipline-Based Theory|学科理论]]高地，而大规模测评（[[IEA]]/[[PISA]]）长期游离于[[Disciplinary Institutionalization|学科建制]]之外。（pp.93–94）
 > - **政策咨询从审慎航海转向技术官僚[[Disciplina and Doctrina|规训]]** 欧洲学界传统上以劳威斯的[[Navigation Metaphor in Comparative Education|航海隐喻]]抵御政治工具化，但在[[OECD|经合组织]]与大规模测评支配下，经济导向的证据治理迫使比较研究直接受制于行政目标与[[Performance Indicators|绩效指标]]。（pp.95–96）
-> - **跨文化融合与欧洲维度的务实转向** 比较教育正成功吸纳微观多民族整合的[[Intercultural Education|跨文化教育]]议程，并在欧盟超国家治理背景下，从抽象欧洲统一哲学走向对欧洲教育政策与跨国实证数据的务实制度分析。（pp.97–98）
+> - **跨文化融合与欧洲维度的务实转向** 比较教育正成功吸纳微观多民族整合的[[Intercultural Education|跨文化教育]]议程，并在[[EU|欧盟]]超国家治理背景下，从抽象欧洲统一哲学走向对欧洲教育政策与跨国实证数据的务实制度分析。（pp.97–98）
 
 ---
 

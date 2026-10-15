@@ -7,7 +7,7 @@ aliases:
 summary: "以知识、创新、高等教育、研发与高阶思维技能作为价值创造与全球竞争核心要素的经济形态；在技术自动化与AI浪潮下，其战略重心从静态专业知识转向高阶认知能力，但面临宏观政策宣示与微观学业评价滞后的深层制度悖论。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 78
+related_count: 79
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -91,6 +91,7 @@ related_facts:
   - "[[European Qualifications Framework]]"
   - "[[Melbourne Declaration]]"
   - "[[UNESCO]]"
+  - "[[EU]]"
   - "[[UAE Education Hub Projects]]"
   - "[[PISA]]"
 related_arguments:
@@ -106,7 +107,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-07
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Knowledge-Based Economy
@@ -227,7 +228,7 @@ updated: 2026-10-15
 > 探讨跨国组织如何依托[[New Growth Theory|内生新增长理论]]将知识经济塑造为排他性的全球政策常识，并在“经济基要主义”逻辑下收编传统的社会民主主义目标。
 
 > [!claim] [[Fazal Rizvi|Rizvi, F.]], & [[Bob Lingard|Lingard, B.]]
-> **从“[[Knowledge-that and Know-how-to|知其然]]”向“知其所以操作”转型及社会议题的工具化** 法扎尔·里兹维（Fazal Rizvi）与鲍勃·林加德（Bob Lingard）指出，[[OECD]] 于 1996 年发布的《知识经济》（*The Knowledge Based Economy*）报告整合保罗·罗默（Paul Romer, 1986）与彼得·豪伊特（Peter Howitt, 2000）的内生新增长理论，将知识与技术进步界定为经济活动的内生核心，确立了一套席卷[[World Bank|世界银行]]、[[UNESCO|联合国教科文组织]]与欧盟的全球[[Social Imaginary|社会想象]]。这一想象要求学习重心从正规、编码化的“知其然”（knowing that）转向网络化、商业化的“知其所以操作”（[[Procedural Knowledge|knowing how]]），推动民族国家转型为以持续[[Lifelong Learning|终身学习]]为特征的“学习型经济”（Foray & Lundvall, 1996），同时压抑并排斥了“替代性经济的幽灵”（Kenway et al., 2006）。在乔治·索罗斯（George Soros, 1998）所称的“经济基要主义”支配下，知识经济社会想象并未在字面上抛弃机会均等、女性平权与社会资本，而是将女性受教育简化为减贫与提高生产率的工具（忽视全球服务业弹性用工对女性的结构性压迫，Scholte, 2000），并将社会凝聚力缩减为修复市场排斥、维持知识经济运转的剩余性手段（Thomson, 1999）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–446, 448–452)]]
+> **从“[[Knowledge-that and Know-how-to|知其然]]”向“知其所以操作”转型及社会议题的工具化** 法扎尔·里兹维（Fazal Rizvi）与鲍勃·林加德（Bob Lingard）指出，[[OECD]] 于 1996 年发布的《知识经济》（*The Knowledge Based Economy*）报告整合保罗·罗默（Paul Romer, 1986）与彼得·豪伊特（Peter Howitt, 2000）的内生新增长理论，将知识与技术进步界定为经济活动的内生核心，确立了一套席卷[[World Bank|世界银行]]、[[UNESCO|联合国教科文组织]]与[[EU|欧盟]]的全球[[Social Imaginary|社会想象]]。这一想象要求学习重心从正规、编码化的“知其然”（knowing that）转向网络化、商业化的“知其所以操作”（[[Procedural Knowledge|knowing how]]），推动民族国家转型为以持续[[Lifelong Learning|终身学习]]为特征的“学习型经济”（Foray & Lundvall, 1996），同时压抑并排斥了“替代性经济的幽灵”（Kenway et al., 2006）。在乔治·索罗斯（George Soros, 1998）所称的“经济基要主义”支配下，知识经济社会想象并未在字面上抛弃机会均等、女性平权与社会资本，而是将女性受教育简化为减贫与提高生产率的工具（忽视全球服务业弹性用工对女性的结构性压迫，Scholte, 2000），并将社会凝聚力缩减为修复市场排斥、维持知识经济运转的剩余性手段（Thomson, 1999）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 444–446, 448–452)]]
 
 ---
 
@@ -286,7 +287,7 @@ updated: 2026-10-15
 > - **大奖创新主体从单一企业向跨组织协同转型** [[Fred Block|弗雷德·布洛克]]对美国《R&D 100》大奖追踪实证显示：1970 年代大企业独立研发包揽了全美大多数突破性创新；而到 2006 年全美 88 项本土获奖创新中，仅 11 项由私营企业独立完成，多达 77 项（87.5%）均由联邦机构全额资助或涉及大学与政府的跨组织协同，证实知识经济前沿创新已彻底转型为跨机构网络化结构。[[Argument_Block_2008_PS|(Block, 2008, pp. 175–177)]]
 > - **无形财富资产拐点** 1980 年代后期起，发达市场经济体中知识、技术与信息等无形资产对 GDP 的贡献率全面超越自然资源与实体厂房设备。（Dunning, 2000; [[Argument_Moisio_2022_Springer\|Moisio, 2022, p. 23]]）
 > - **大学生[[Higher-Order Thinking Skills\|高阶思维]]增益微弱** 全美 [[Collegiate Learning Assessment\|CLA]] 增值[[Cohort Study\|追踪研究]]（Arum & Roksa, 2011）与全球四国高教[[Longitudinal Study\|纵向研究]]（Loyalka et al., 2021）实证显示，超过 45% 的本科生在大学前两年[[Critical Thinking\|批判性思维]]与高阶推理无显著增长，暴露出 KBE 政策愿景与大学教学评价实践之间的巨大落差。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 4–5, 17)]]
-> - **[[Further Education\|继续教育]]参与率激增** 2016 年欧盟 25–64 岁劳动人口中逾 40% 每年参与正式或非正式继续教育，KBE 永久创新压力成为[[Lifelong Learning\|终身学习]]参与率持续攀升的直接动因。[[Argument_Hartmann_2022_CorporateEducation\|(Hartmann, 2022, p. 185)]]
+> - **[[Further Education\|继续教育]]参与率激增** 2016 年[[EU|欧盟]] 25–64 岁劳动人口中逾 40% 每年参与正式或非正式继续教育，KBE 永久创新压力成为[[Lifelong Learning\|终身学习]]参与率持续攀升的直接动因。[[Argument_Hartmann_2022_CorporateEducation\|(Hartmann, 2022, p. 185)]]
 > - **国家资格框架全覆盖** 截至 2018 年，欧洲高等教育区 49 国中已有 44 国（近 90%）正式颁布国家资格框架（NQF），将知识经济所需的高阶能力写入法律条文。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 13)]]
 
 ---

@@ -26,7 +26,7 @@ title: "Argument_Hartong_Forschler_2019_BDS"
 argument_key: "Argument_Hartong_Forschler_2019_BDS"
 argument_display_title: "Opening the black box of data-based school monitoring: Data infrastructures, flows and practices in state education agencies"
 argument_kind: "journal-article"
-argument_related_count: 35
+argument_related_count: 36
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -73,6 +73,7 @@ related_facts:
   - "[[PISA]]"
   - "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
   - "[[Early Warning Indicator System]]"
+  - "[[EU]]"
 status: stable
 created: 2026-09-18
 updated: 2026-09-18
@@ -293,7 +294,7 @@ updated: 2026-09-18
 > |---|---|---|
 > | **行政文化信念** | 坚信全口径发布数据赋予公众监督权利，公开本身即是最强有力的问责驱动机制。（p.8） | 传统警惕国家集中监控与公开排名，严禁将学校置于公众问责排行榜的审判席。（pp.8–9） |
 > | **现实社会恐慌** | 弱势学生成绩波动极易引发社区过度反应；即便仅 1% 的统计读数波动，也会引发家长恐慌并冲击地方房市。 | 基层学校对集中式数据运用怀有高度戒备，任何可能引发评比联想的举措均遭遇联合抗议。 |
-> | **制度妥协策略** | 虽拥有海量数据，但坚决拒绝上线全州统一的家长门户系统，依托严密角色权限隔离数据。 | 严格遵守欧盟《通用数据保护条例》（General Data Protection Regulation, GDPR）与州法，对跨库关联数据实施严苛假名化（Pseudonymisation）。 |
+> | **制度妥协策略** | 虽拥有海量数据，但坚决拒绝上线全州统一的家长门户系统，依托严密角色权限隔离数据。 | 严格遵守[[EU\|欧盟]]《通用数据保护条例》（General Data Protection Regulation, GDPR）与州法，对跨库关联数据实施严苛假名化（Pseudonymisation）。 |
 
 > [!voice] 数据透明度引发的社会恐慌与防卫控制
 > - **马萨诸塞州官员谈公开排名的破坏性** 哪怕学校的测验成绩仅仅微跌 1%，第二天就会登上地方报纸头条，社区房价应声下跌，公众彻底陷入恐慌（people freak out），迫使州局坚决拒绝上线可能加剧学校竞争的统一家长门户。（p.8）

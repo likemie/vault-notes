@@ -246,7 +246,7 @@ updated: 2026-10-15
 > - **现代学术发掘者** 斯图尔特·弗雷泽（Stewart Fraser） 1964 年出版权威英译与导论评注本文献集，确立其作为学科奠基性文献的历史地位。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 24)]]
 > - **现代思想史重构者** 罗伯特·帕尔默（R. R. Palmer） 1993 年出版思想传记《从雅各宾到自由派》，系统阐明其从激进革命工具论到宪政自由主义教育预防论的演进轨迹。（Palmer, 1993）
 > - **现代学术发掘与史学评述** [[Val D. Rust|瓦尔·D·拉斯特]]（Val D. Rust） 阐明朱利安方案在两百年比较学术史连续统中的基石地位，批判将朱利安与十九世纪后继学术传统割裂对立的实证主义断裂叙事。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 122–124)]]
-> - **现代跨国网络与[[Discourse|话语]]流通研究者** 杰森·比奇（[[Jason Beech]]） 将朱利安考察定性为 19 世纪国家特派官员垄断危机借用的经典历史基准，以此对照当代多元跨国行动者与[[Knowledge Bank|知识银行]]对教育转移的重构。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–342)]]
+> - **现代跨国网络与[[Discourse|话语]]流通研究者** [[Jason Beech|杰森·比奇]]（[[Jason Beech]]） 将朱利安考察定性为 19 世纪国家特派官员垄断危机借用的经典历史基准，以此对照当代多元跨国行动者与[[Knowledge Bank|知识银行]]对教育转移的重构。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–342)]]
 
 ---
 

@@ -7,7 +7,7 @@ title: "Argument_Bouckaert_2023_OECD"
 argument_key: "Argument_Bouckaert_2023_OECD"
 argument_display_title: "The assessment of students' creative and critical thinking skills in higher education across OECD countries: A review of policies and related practices (OECD Education Working Papers No"
 argument_kind: "report"
-argument_related_count: 110
+argument_related_count: 111
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -145,6 +145,7 @@ related_facts:
   - "[[TESTA Project]]"
   - "[[Measuring Quality Inventory]]"
   - "[[Tuning Project]]"
+  - "[[EU]]"
 related_arguments: []
 sources:
   - "[[sources/Bouckaert_2023_OECD/Bouckaert_2023_OECD|Bouckaert_2023_OECD]]"
@@ -436,7 +437,7 @@ updated: 2026-09-18
 > - **全美质量测量工具清单调查（[[Measuring Quality Inventory]]）**
 >   - **创造力测评生态短板** 高等教育质量测量工具清单（Measuring Quality Inventory, MQI）（Borden & Kernel, 2012）收录全美 250 余种高教测评工具，实证盘点揭示除 AAC&U VALUE 创造性思维量规外，全美几乎没有任何现成工具直接测查大学生的创造力，凸显了校本真实性量规研发的极端紧迫性（p. 29）。
 > - **欧洲 CALOHEE 项目（2016–2018）：跨国学科化[[CALOHEE Assessment Reference Frameworks\|评价参照框架]]**
->   - **承袭 [[Tuning Project\|Tuning]] 进程** 欧洲高等教育学习成果测度与比较项目（CALOHEE）由欧盟委员会资助，联合全欧数十所大学、学科专家、行业雇主与校友代表共同研发。
+>   - **承袭 [[Tuning Project\|Tuning]] 进程** 欧洲高等教育学习成果测度与比较项目（CALOHEE）由[[EU|欧盟]]委员会资助，联合全欧数十所大学、学科专家、行业雇主与校友代表共同研发。
 >   - **五大专业学科突破** 在土木工程、教师教育、历史、护理和物理五大专业领域，开创性研制出超越抽象[[Dublin Descriptors\|都柏林描述符]]的“评价参照框架”（Assessment Reference Frameworks）。
 >   - **高阶思维学科操作化** 将批判性思维（覆盖全部 5 个专业）与创造力（覆盖教师教育、历史与物理）转化为可测量的课程预期学习成果、劣构表现任务设计范例与评分标准，构建起跨国可比且深植具体学科的真实性评价模型。（pp. 27–28）
 > - **全美 AAC&U VALUE 量规套件（2009–至今）：校本真实性评价标准共享**

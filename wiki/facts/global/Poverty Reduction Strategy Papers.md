@@ -25,7 +25,7 @@ related_concepts:
   - "[[Washington Consensus]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Learning Crisis]]"
-  - "[[Public-Private Partnership in Research]]"
+  - "[[Public-Private Partnership]]"
   - "[[Development Education]]"
   - "[[Performance Indicators]]"
   - "[[Policy Conditionalities]]"
@@ -74,7 +74,7 @@ updated: 2026-10-15
 > [!policy-design]- 政策设计
 > - **政策目标** 承诺在保障宏观经济稳定与财政可持续性的前提下，实现世界银行倡导的基础教育投资优先化，降低[[Learning Crisis|学习贫困]]率。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 > - **适用对象** 受援国教育部、财政部、基层公立中小学师生及地方教育行政官僚。
-> - **政策工具** 债务减免基金（HIPC Initiative）、中期支出框架（MTEF）、部门联合审查（JSR）与公私伙伴（[[Public-Private Partnership in Research\|PPP]]）招标机制。
+> - **政策工具** 债务减免基金（HIPC Initiative）、中期支出框架（MTEF）、部门联合审查（JSR）与公私伙伴（[[Public-Private Partnership|PPP]]）招标机制。
 > - **约束机制** 必须通过世行与 IMF 联合参谋部咨询评估（Joint Staff Advisory Note，JSAN）的严格审计，否则直接中止后续放贷周期。
 
 > [!citation-card] 世界银行通过放贷周期与减贫战略文件实施教育规制

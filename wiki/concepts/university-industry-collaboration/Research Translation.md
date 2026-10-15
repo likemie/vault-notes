@@ -82,7 +82,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Intellectual Capital]]"
   - "[[Translational Research]]"
-  - "[[Public-Private Partnership in Research]]"
+  - "[[Public-Private Partnership]]"
   - "[[Technical Rationality]]"
   - "[[Implementation Fidelity]]"
   - "[[Evidence Ecosystem]]"
@@ -427,7 +427,7 @@ updated: 2026-10-15
 > - **2010s — 产学漏斗、三轨协同与微观协同探究并进** 企业界确立覆盖学术原型至产品路线图的六阶段漏斗模型与“内部吸收-初创并购-开源生态”三轨转化框架（[[Argument_Ramming_2025_CorporateSupport|Ramming, 2025]]）；教育界兴起英国 [[Education Endowment Foundation|EEF]] 实践中介，并依托[[Research Learning Communities|研究学习共同体]]探索基于因果行动理论的情境[[Recontextualization|再脉络化]]（[[Argument_Brown_Greany_2018_LPS|Brown & Greany, 2018]]）。
 > - **2020 — 宏观立法转化导航与学会敏捷机制确立** [[Argument_Serpell_2020_EP|Serpell (2020)]] 系统提出研究者导航宏观立法的实操框架，确立了[[Legislative Policy Brief|立法政策简报]]法条化、象征性法案证据储备、极简定调传播及专业学会快速响应机制（[[Rapid Assessment and Response Strategy|RARS]]），补齐了研究转化的宏观政治拼图。
 > - **2022 — 跨国证据生态中的转化中介实证审视** [[OECD]] [[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]首次在 29 国 37 个教育系统测度转化主体分布，实证确立了学术生产过剩与实践转化贫瘠、生产依附偏误等结构性规律。[[Argument_Hill_2022_FacilitatingActors|(Hill, 2022)]]
-> - **2024–2025 — 公私伙伴关系、中试共置与国家转化战略深化** 面对全球科技与地缘竞争，《[[CHIPS and Science Act|芯片与科学法案]]》授权设立[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）与[[National Science Foundation|美国国家科学基金会]]技术、创新与伙伴关系（[[Directorate for Technology, Innovation and Partnerships|TIP]]）署；[[Albany NanoTech Complex|Albany NanoTech]] 与 MIT.nano 推动大学与企业中试洁净室共置，以大规模[[Public-Private Partnership in Research|公私合作伙伴关系]]（PPP）与[[Pilot Scale Platform|中试平台]]加速基础科研向战略产业转化。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 20–24)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–238)]]
+> - **2024–2025 — [[Public-Private Partnership|公私伙伴关系]]、中试共置与国家转化战略深化** 面对全球科技与地缘竞争，《[[CHIPS and Science Act|芯片与科学法案]]》授权设立[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）与[[National Science Foundation|美国国家科学基金会]]技术、创新与伙伴关系（[[Directorate for Technology, Innovation and Partnerships|TIP]]）署；[[Albany NanoTech Complex|Albany NanoTech]] 与 MIT.nano 推动大学与企业中试洁净室共置，以大规模公私合作伙伴关系（PPP）与[[Pilot Scale Platform|中试平台]]加速基础科研向战略产业转化。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 20–24)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–238)]]
 > - **2025 — 技术共和国与国家使命防务转化重塑** 亚历克斯·卡普与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]系统反思冷战以降科技转化机制的脱节，剖析威权对手超敏捷转化与西方硅谷工程师道德撤退的鲜明对比，提出破除公共部门防卫型采购障碍，重塑国家首要买家拉动与政产研常态结盟，将商业前沿 AI 软件迅速转化为国防与公共治理核心[[Hard Power|硬实力]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 7–13)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 29–36)]]
 > - **2026 — 白宫国家深科技与实体制造转化体系重构** 白宫 [[Office of Science and Technology Policy|OSTP]] 发布《[[Science A New Golden Age 2026|科学：新的黄金时代]]》（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]），正式确立“打破规制阻滞、恢复[[Permissionless Innovation|无许可创新]]、开放共享试验场与国家实验室设施、组建前竞争技术联合体并将科研突破锚定于本土先进制造”的国家级研究转化体系。
 

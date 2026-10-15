@@ -22,7 +22,7 @@ related_concepts:
   - "[[Data Infrastructure]]"
   - "[[Variable]]"
   - "[[Assemblage]]"
-  - "[[Public-Private Partnership in Research]]"
+  - "[[Public-Private Partnership]]"
 related_theories:
   - "[[Pavitt Taxonomy]]"
 related_methods: []
@@ -68,7 +68,7 @@ updated: 2026-09-18
 > - CIS 2 和 CIS 3 的数据通过与各国数据提供方（国家统计机构或经授权的研究团队）的双边合作协议获取
 > - CIS 4 的数据主要从 Eurostat 获取（英国除外）
 > - 数据库的[[Assemblage\|组装]]使用通用协议，沿用国家统计办公室的标准化程序
-> - 货币[[Variable\|变量]]使用 GDP 平减指数（基准年 2002）和购买力平价（Purchasing Power Parity，[[Public-Private Partnership in Research\|PPP]]）转换进行通胀调整和跨国可比化
+> - 货币[[Variable\|变量]]使用 GDP 平减指数（基准年 2002）和购买力平价（Purchasing Power Parity，[[Public-Private Partnership|PPP]]）转换进行通胀调整和跨国可比化
 > - 最新的 CIS 调查已采用 NACE Rev. 2 分类，通过 Perani & Cirillo（2015）开发的转换方法纳入数据库
 
 ---

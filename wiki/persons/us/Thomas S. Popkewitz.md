@@ -9,7 +9,7 @@ summary: "美国著名比较教育学、课程史学与社会认识论泰斗，�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 30
+person_related_count: 31
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -56,6 +56,7 @@ related_persons:
   - "[[Carlos Alberto Torres]]"
 related_facts:
   - "[[OECD]]"
+  - "[[EU]]"
   - "[[American Educational Research Association]]"
 related_arguments:
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Thomas S. Popkewitz
@@ -78,7 +79,7 @@ updated: 2026-10-15
 > - **代表贡献** 提出教育改革中的“救赎叙事与排斥系统”（Inclusion and Exclusion System）[[Analytic Framework|分析框架]]；主持并出版 8 国教师教育改革跨国比较研究（1993）；出版代表作《争夺灵魂：学校教育政治学与教师的建构》（1998）与《[[Cosmopolitanism|世界主义]]与学校改革时代》（2008）。
 
 > [!citation-card]- [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论波普科维茨的国际组织教师教育规训研究
-> 在一项针对八个国家教师教育改革实践的研究中，波普科维茨与佩雷拉（Popkewitz & Pereyra, 1993）指出，诸如经济合作与发展组织（OECD）和欧洲共同体等国际跨国组织，正在推进规训教师教育的法规政策演变中扮演着至关重要的枢纽角色。[[Argument_Olmos_Torres_2009_StateTheories|(Popkewitz & Pereyra, 1993; Olmos & Torres, 2009, p. 80)]]
+> 在一项针对八个国家教师教育改革实践的研究中，波普科维茨与佩雷拉（Popkewitz & Pereyra, 1993）指出，诸如经济合作与发展组织（OECD）和[[EU|欧洲共同体]]等国际跨国组织，正在推进规训教师教育的法规政策演变中扮演着至关重要的枢纽角色。[[Argument_Olmos_Torres_2009_StateTheories|(Popkewitz & Pereyra, 1993; Olmos & Torres, 2009, p. 80)]]
 >
 > *In an eight-country study of reforms of teacher education, Popkewitz & Pereyra (1993) argued that international organizations, such as the Organization for Economic Cooperation and Development (OECD); and the European community are playing crucial roles in promoting changes in regulations governing teacher education.*
 
@@ -106,7 +107,7 @@ updated: 2026-10-15
 > - **1990s — 教师教育跨国[[Disciplina and Doctrina|规训]]与后结构[[Governmentality|治理术]]** 此阶段深入剖析全球治理与跨国组织对民族国家教师专业化的规训。
 >   - **代表著作** *A Political Sociology of Educational Reform* (1991); *Changing Patterns of Power: Social Regulation and Teacher Education Reform* (1993, with M. A. Pereyra)。[[Argument_Olmos_Torres_2009_StateTheories|(Popkewitz & Pereyra, 1993; Olmos & Torres, 2009, p. 80)]]
 >   - **关键概念／理论** 社会规训（Social Regulation）、跨国教师教育治理、专业化话语。
->   - **阶段转向** 突破传统国家中心论视角，实证证明[[OECD|经合组织]]（[[OECD]]）与欧盟等跨国多边组织正通过推行统一的教师胜任力模型与专业标准，自上而下重塑民族国家教师的职业认同与社会调控机制。
+>   - **阶段转向** 突破传统国家中心论视角，实证证明[[OECD|经合组织]]（[[OECD]]）与[[EU|欧盟]]等跨国多边组织正通过推行统一的教师胜任力模型与专业标准，自上而下重塑民族国家教师的职业认同与社会调控机制。
 > - **2000s–至今 — 社会[[Epistemology|认识论]]与[[Cosmopolitanism|世界主义]]排斥逻辑** 此阶段建构起深邃的历史认识论与世界主义批判。
 >   - **代表著作** *[[Educational Governance Framework|Educational Governance]] and Social Inclusion and Exclusion* (2000, with S. Lindblad); *Cosmopolitanism and the Age of School Reform* (2008)。
 >   - **关键概念／理论** 社会认识论、理性系统（Systems of Reason）、双重姿态（Double Gesture of Inclusion/Exclusion）、教育治理[[Two Problematics of Educational Inclusion and Exclusion|双重问题式]]（[[Knowledge Questions|知识问题]]式与公平-参与问题式）。
@@ -120,7 +121,7 @@ updated: 2026-10-15
 > 波普科维茨的核心思想在于**开创了教育研究的“社会[[Epistemology|认识论]]”，揭示现代教育改革所标榜的科学进步与全纳理念，实质上是一套制造[[Disciplina and Doctrina|规训]]与分类排斥的权力理性系统**。他指出，权力不仅体现为国家法律的硬性强制，更体现为关于“什么是合格教师”、“什么是[[Lifelong Learning|终身学习]]者”的[[Discourse|话语]]分类标准。像[[OECD|经合组织]]这样的跨国机构，正是通过制定去情境化的教师能力指标与评价框架，行使着无形的跨国[[Governmentality|治理术]]；这种所谓的改革话语看似旨在包容所有人，却在分类体系底层系统性地把弱势群体打上“不合格”烙印。
 
 > [!citation-card] 跨国组织在教师教育法规中的社会规训角色
-> 教师教育改革绝非单纯的师资培训技术改良，而是一种深刻的社会规训实践。经合组织（OECD）与欧洲共同体等国际跨国组织，正在通过倡导能力本位与专业胜任力标准，强力重构民族国家关于教师选拔、认证与履职的法规网络，使跨国[[Technical Rationality|技术官僚理性]]格局深度嵌入民族国家教育肌理。[[Argument_Olmos_Torres_2009_StateTheories|(Popkewitz & Pereyra, 1993; Olmos & Torres, 2009, p. 80)]]
+> 教师教育改革绝非单纯的师资培训技术改良，而是一种深刻的社会规训实践。经合组织（OECD）与[[EU|欧洲共同体]]等国际跨国组织，正在通过倡导能力本位与专业胜任力标准，强力重构民族国家关于教师选拔、认证与履职的法规网络，使跨国[[Technical Rationality|技术官僚理性]]格局深度嵌入民族国家教育肌理。[[Argument_Olmos_Torres_2009_StateTheories|(Popkewitz & Pereyra, 1993; Olmos & Torres, 2009, p. 80)]]
 >
 > *In an eight-country study of reforms of teacher education, Popkewitz & Pereyra (1993) argued that international organizations, such as the Organization for Economic Cooperation and Development (OECD); and the European community are playing crucial roles in promoting changes in regulations governing teacher education.*
 

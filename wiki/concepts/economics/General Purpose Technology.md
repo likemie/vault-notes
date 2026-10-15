@@ -9,7 +9,7 @@ aliases:
 summary: "一种具有跨部门广泛渗透性、内在持续技术动态性以及能诱发下游互补性创新与系统性生产率提升的基础技术范式。"
 type: concept
 domain: "economics"
-related_count: 53
+related_count: 54
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -42,6 +42,7 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Variable]]"
   - "[[University-Industry Collaboration]]"
+  - "[[Public-Private Partnership]]"
 related_theories:
   - "[[Techno-economic Paradigm]]"
   - "[[Technological Trajectories]]"
@@ -81,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # General Purpose Technology
@@ -309,7 +310,7 @@ updated: 2026-10-15
 > | [[Semiconductor Research Corporation]] | Fact (Org) | 半导体前竞争研发联合体典范，依托 GPT 特征实现跨行业、跨企业的共性基础研究联合出资。 |
 > | [[National Science and Technology Council]] | Fact (Org) | 负责统筹全美 16 个联邦机构制定微电子等核心 GPT 研发战略的最高跨部门科技协调机构。 |
 > | [[CHIPS and Science Act]] | Fact (Program) | 美国当代重振微电子通用目的技术本土制造与全链条研发创新的旗舰立法。 |
-> | [[National Semiconductor Technology Center]] | Fact (Org) | 依据《芯片法案》设立的公私伙伴关系枢纽，统筹全美微电子 GPT 前沿研发与中试验证。 |
+> | [[National Semiconductor Technology Center]] | Fact (Org) | 依据《芯片法案》设立的[[Public-Private Partnership\|公私伙伴关系]]枢纽，统筹全美微电子 GPT 前沿研发与中试验证。 |
 > | [[Developmental Network State]] | Theory | 解释国家如何通过共性技术资助与时序协调破解 GPT 跨部门扩散中协调失灵的核心理论。 |
 > | [[Advanced Technology Program]] | Fact (Program) | 商务部资助具有跨行业溢出效应的通用目的技术与共性工艺突破（如 2mm 工程）的旗舰计划。 |
 > | [[Fred Block]] | Person | 论证通用目的技术在自由市场中面临系统性协调失灵、需由网络国家主动破局的经济社会学家。 |

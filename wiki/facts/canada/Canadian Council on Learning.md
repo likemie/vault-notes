@@ -10,9 +10,9 @@ subtype: organization
 region: canada
 fact_region: "canada"
 fact_kind: "organization"
-fact_related_count: 23
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 24
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "独立非营利全国性中介机构"
 headquarters: "加拿大渥太华"
@@ -48,6 +48,7 @@ related_facts:
   - "[[OECD]]"
   - "[[Centre for Educational Research and Innovation]]"
   - "[[UNESCO]]"
+  - "[[Delors Report]]"
   - "[[Swiss Coordination Centre for Research in Education]]"
   - "[[What Works Clearinghouse]]"
   - "[[No Child Left Behind Act 2001]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Canadian Council on Learning
@@ -101,7 +102,7 @@ updated: 2026-10-07
 
 > [!pathways]- 业务运行机制与指标监测
 > - **分布式协同研究机制** 依托五大中心联合全加上百家高校与研究团队，采用平行工作组开展二阶[[Systematic Review\|系统综述]]，提炼跨省实践指南。
-> - **复合学习指数年度测评** 运用[[UNESCO\|联合国教科文组织]]（UNESCO）德洛尔报告[[Lifelong Learning\|终身学习]]四支柱框架，从家庭、工作场所与社区三重视野采集数十项宏观微观数据，生成各行政区与城市的学习指数图谱。
+> - **复合学习指数年度测评** 运用[[UNESCO\|联合国教科文组织]]（UNESCO）[[Delors Report|德洛尔报告]][[Lifelong Learning\|终身学习]]四支柱框架，从家庭、工作场所与社区三重视野采集数十项宏观微观数据，生成各行政区与城市的学习指数图谱。
 > - **双语公开知识平台** 所有研究报告、数据仪表盘与政策简报均提供英法双语完全开放获取，不设付费门槛。
 
 ---

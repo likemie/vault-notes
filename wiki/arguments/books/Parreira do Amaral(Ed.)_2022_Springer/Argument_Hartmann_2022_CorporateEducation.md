@@ -9,7 +9,7 @@ title: "Argument_Hartmann_2022_CorporateEducation"
 argument_key: "Argument_Hartmann_2022_CorporateEducation"
 argument_display_title: "The Internationalisation of Further Education: Between Geoeconomics and Geopolitics"
 argument_kind: "book"
-argument_related_count: 13
+argument_related_count: 14
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_methods:
   - "[[Semi-structured Interview]]"
 related_persons: []
 related_facts:
+  - "[[EU]]"
   - "[[OECD]]"
 related_arguments: []
 sources:
@@ -122,7 +123,7 @@ Hartmann 的论证分为六个递进步骤，从确立研究价值开始，到�
 
 Hartmann 首先论证，[[Further Education|继续教育]]（尤其是[[Corporate Education|企业教育]]）已经是全球教育版图中不可忽视的一块，但教育研究几乎完全忽略了它。
 
-1. **量级不可忽视** 2016 年欧盟 25–64 岁人口中超过 40% 在过去一年参与过教育培训，且在所有高收入国家持续增长。这不是一个小众领域(p.179)。
+1. **量级不可忽视** 2016 年[[EU|欧盟]] 25–64 岁人口中超过 40% 在过去一年参与过教育培训，且在所有高收入国家持续增长。这不是一个小众领域(p.179)。
 
 2. **性质被低估**企业教育不只是技能培训。参考 James Scott(1998)的经典研究"像国家一样看"（Seeing Like a State），Hartmann 提出企业教育的深层功能是让员工学会"像公司一样看世界"（seeing like a company）**——它是公司[[Soft Power|软权力]]的核心组成部分，是塑造员工世界观、确保员工利益与公司利益一致的机制(p.180)。
 
@@ -240,7 +241,7 @@ Hartmann 在结论中坦承，我们无法确定当前的格局到底意味着�
 > [!success]
 
 **关于[[Corporate Education|企业教育]]的规模和重要性：**
-- 2016 年欧盟 25–64 岁人口中超过 40% 在过去一年参与教育培训，且此后在所有高收入国家持续增长。企业教育是[[Further Education|继续教育]]中规模最大、但被研究最少的组成部分(p.179)
+- 2016 年[[EU|欧盟]] 25–64 岁人口中超过 40% 在过去一年参与教育培训，且此后在所有高收入国家持续增长。企业教育是[[Further Education|继续教育]]中规模最大、但被研究最少的组成部分(p.179)
 - 继续教育以非学位证书和微证书为主，与高等教育一起构成了后福特经济中"[[Lifelong Learning|终身学习]]"的两大支柱(p.179)
 
 **关于企业教育的国际化能力：**

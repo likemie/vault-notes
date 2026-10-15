@@ -97,7 +97,7 @@ updated: 2026-10-15
 > 真正的洞察力源于对物理与客体现实的深长注视和对先入为主观念的[[Epoché|悬置]]；在观察世界时抵制将主观偏见或抽象理论强加于现实之上的冲动，才能触及事物最本真的物理与精神现实。
 
 > [!citation-card] 悬置主观评判的深度观察
-> [[Sigmund Freud|弗洛伊德]]指出，观察者的力量不在于强加主观评价，而在于保持极致的耐心与客观，通过不带评判的凝视穿透表象认知。这种创作准则展示了如何通过放下先入之见与理论教条，重新建立与客观客体之间的真实连接。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 166–167)]]
+> 弗洛伊德指出，观察者的力量不在于强加主观评价，而在于保持极致的耐心与客观，通过不带评判的凝视穿透表象认知。这种创作准则展示了如何通过放下先入之见与理论教条，重新建立与客观客体之间的真实连接。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 166–167)]]
 >
 > *Looking very carefully without judgment enables profound learning about the subject and oneself, anchoring understanding in actual reality rather than preconceived categories.*
 
@@ -110,13 +110,13 @@ updated: 2026-10-15
 > - **工程认知与[[Epistemology|认识论]]启示** [[Alexander Karp|亚历山大·卡普]]（Alexander Karp）与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（Nicholas Zamiska）将其“如实观察而不做评判”的凝视态度引入[[Engineering Mindset|工程思维]]的[[Epistemology|认识论]]讨论中，强调高水平工程师与治理者必须具备直面未加修饰之运行代码与物理现实的专注力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 166–167)]]
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska (2025)]] — 引入[[Sigmund Freud|弗洛伊德]]具象凝视论证工程思维以客观观察和[[Epoché|悬置]]评判直面动态物理现实的认识论原则。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska (2025)]] — 引入弗洛伊德具象凝视论证工程思维以客观观察和[[Epoché|悬置]]评判直面动态物理现实的认识论原则。
 
 ---
 
 ## 历史评价
 
-> [!citation-card] 盖福德论[[Sigmund Freud|弗洛伊德]]的耐心凝视
+> [!citation-card] 盖福德论弗洛伊德的耐心凝视
 > 艺术评论家马丁·盖福德（Martin Gayford）指出，弗洛伊德通过长期耐心、细致的目光延续了西方深厚的具象艺术传统，使观者能够在不加粉饰的画布前直面生命的脆弱与真实。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, p. 166)]]
 >
 > *Martin Gayford noted that Lucian Freud, through patient and careful looking, carried forward the figurative tradition to capture what was actually there.*
@@ -137,7 +137,7 @@ updated: 2026-10-15
 > [!debates] 学术争议
 >
 > > [!axis] 具象解剖的冷酷真实 vs. 传统肖像的人性美化
-> > 围绕[[Sigmund Freud|弗洛伊德]]毫无妥协、直接呈现人体衰老、赘肉与疲惫的冷酷笔触是否构成了对被画者的物化展开争议。
+> > 围绕弗洛伊德毫无妥协、直接呈现人体衰老、赘肉与疲惫的冷酷笔触是否构成了对被画者的物化展开争议。
 > >
 > > - **具象艺术支持者** 认为其作品彻底剥离了资产阶级的社交面具与虚荣美化，达到了前所未有的心理与肉体真实。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, p. 166)]]
 > > - **传统美学批评者** 批评其画风过于冰冷残酷，将生动的人格简化为画室光线下的粗糙肉质。

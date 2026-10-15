@@ -12,9 +12,9 @@ subtype: policy
 region: germany
 fact_region: "germany"
 fact_kind: "policy"
-fact_related_count: 4
+fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_stars: ""
 fact_related_color: "#dbeafe"
 issuing_organization: "Bundesministerium für Bildung und Forschung (BMBF)"
 tags:
@@ -29,12 +29,13 @@ related_theories: []
 related_methods: []
 related_persons: []
 related_facts:
+  - "[[EU]]"
   - "[[German Dual Education System]]"
 related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-05
-updated: 2026-10-02
+updated: 2026-10-16
 ---
 
 # German Innovation Policy System
@@ -93,7 +94,7 @@ updated: 2026-10-02
 > - **史太白[[Technology Transfer\|技术转移]]中心** 全球最成功的科技成果转化机构之一，在世界各地设立技术转移中心，依托完备的专家网络提供快速灵活的专业服务（p.47）
 > - **工业研究协会联合会**等中介机构有效促进产学研项目的资源整合与协同发展（p.47）
 > - **中小企业创新核心计划（ZIM）** 提供最高50%资金支持，涵盖技术创新全过程
-> - **欧盟"地平线计划"** 德国作为核心参与国，与欧盟成员国在气候变化、癌症治疗等领域取得显著合作成果
+> - **[[EU|欧盟]]"地平线计划"** 德国作为核心参与国，与欧盟成员国在气候变化、癌症治疗等领域取得显著合作成果
 
 ---
 

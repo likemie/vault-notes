@@ -55,7 +55,7 @@ updated: 2026-09-28
 > [!citation-card]- 关键表述
 > 对于压迫者而言，“人类”仅指他们自己；其他人则全都是“东西”。打破这一非人性化不公是解放教育的最高使命。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 61 注脚72)]]
 >
-> *For the oppressor, 'human beings' refers only to themselves; other people are 'things'. (Freire, 2000, p. 57; Darwish, 2009, p. 61)*
+> *For the oppressor, 'human beings' refers only to themselves; other people are 'things'. (Freire, 2000, p. 57; [[Argument_Darwish_2009_Queens|Darwish, 2009, p. 61]])*
 
 > [!boundary]- 概念边界
 > - 不等于 人性化 — 后者是人类追求成为“更完整的人”（to be more fully human）的存在论天职。

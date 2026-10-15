@@ -10,7 +10,7 @@ aliases:
 summary: "衡量学生在特定学习阶段、特定学科或特定学术任务中知识、技能与高阶思维掌握程度的多维结果指标。在教育心理学中通常通过课程加权总评成绩（Official Academic Achievement, OAA）、预估总评成绩（Estimated Overall Academic Achievement, EOAA）、标准化测试及良构与劣构任务表现进行操作化测度。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 147
+related_count: 148
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -150,6 +150,7 @@ related_facts:
   - "[[Organic Law on the General Organization of the Education System 1990]]"
   - "[[Organic Law on Education 2006]]"
   - "[[World Bank]]"
+  - "[[EU]]"
 related_arguments:
   - "[[Argument_Greene_2018_JEP]]"
   - "[[Argument_Lodewyk_2007_EP]]"
@@ -175,7 +176,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-15
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Academic Achievement
@@ -547,7 +548,7 @@ updated: 2026-10-15
 > | Kainz (2019)（引自 Ginsberg et al., 2024, p. 165） | 低收入非裔与西裔学生高集聚度班级样本 | 细粒度班级层面因果评估 | Title I 资金分配路径（[[Class Size\|班级规模]]缩减 vs 教师专业发展）对阅读与数学成绩的影响 | 资金用于缩减班级规模时，弱势学童阅读成绩增益显著更大；资金用于教师专业发展时，数学成绩增益显著更大 | 统计学显著 | 证实特定资源配置路径与特定学科（阅读 vs 数学）学业成就之间存在精准靶向因果对应 |
 > | Cook et al. (2015)（引自 Ginsberg et al., 2024, p. 165） | 九至十年级处境不利学业困境高危学生 | 高强度密集个性化辅导干预 | 标准化数学学业成就 | 实施高强度、密集个体化一对一或小组辅导后，高危学困生的数学学业成绩获得显著且实质性提升 | 统计学显著正向效应 | 证实高强度个性化辅导能够有效扭转中学阶段后进生的学业失败轨迹 |
 > | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] | 德语区基础教育多州学校监测与改革实践 | 学术史梳理、政策文本批判与话语观察 | 外部学校督导与跨校学业统考（[[Vergleichsarbeiten\|VERA]]）数据回传 vs 学生终端学业成就与教学改进 | 实证文献确证外部督导报告与统考数据回传在单体学校层面普遍遭遇成效缺失（mangelnde Effekte auf Einzelschulebene），未能转化为学生学业成绩的稳步提升 | 实证成效普遍缺失 | 确立测评数据回传与微观教学和终端学业成就之间的非线性阻隔，印证宏观监控无法机械撬动微观学业产出 |
-> | [[Argument_Garcia_Garrido_2009_SpainEU\|García Garrido (2009)]] | 西班牙 14 岁与 16 岁义务教育阶段学生（[[Organic Law on the General Organization of the Education System 1990\|LOGSE]] 与 [[Organic Law on Education 2006\|LOE]] 实施期，INCE 与 [[PISA]] 跨国评估数据） | 二手宏观评估数据分析与学制[[Comparative Policy Analysis\|比较政策分析]] | 义务教育学业失败率、卓越生（excellent）达标率、PISA 跨国对标位次 | 14 岁学生显性或隐性学业失败率达 25%（1/4）；16 岁义务教育结业阶段学业失败率攀升至 33%（1/3）；卓越生比例不足 4%；PISA 2000 与 2003 年评估位居欧盟末位梯队 | 官方全国与国际多期评估重复验证 | 证实缺乏差异化路径的十年制均质综合学制不仅未能消除学业失败，反而造成严重平庸化 |
+> | [[Argument_Garcia_Garrido_2009_SpainEU\|García Garrido (2009)]] | 西班牙 14 岁与 16 岁义务教育阶段学生（[[Organic Law on the General Organization of the Education System 1990\|LOGSE]] 与 [[Organic Law on Education 2006\|LOE]] 实施期，INCE 与 [[PISA]] 跨国评估数据） | 二手宏观评估数据分析与学制[[Comparative Policy Analysis\|比较政策分析]] | 义务教育学业失败率、卓越生（excellent）达标率、PISA 跨国对标位次 | 14 岁学生显性或隐性学业失败率达 25%（1/4）；16 岁义务教育结业阶段学业失败率攀升至 33%（1/3）；卓越生比例不足 4%；PISA 2000 与 2003 年评估位居[[EU\|欧盟]]末位梯队 | 官方全国与国际多期评估重复验证 | 证实缺乏差异化路径的十年制均质综合学制不仅未能消除学业失败，反而造成严重平庸化 |
 
 ---
 

@@ -6,10 +6,10 @@ aliases:
 summary: "一种预设从基础科学到技术开发再到经济增长单向因果链的概念模型；战后主导科技政策资源配置，后因忽视反馈机制、轻视工程发明的前提使能地位以及导致本土制造脱节而遭受系统性批判。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - theme/innovation-studies
   - theme/science-policy
@@ -55,6 +55,7 @@ related_persons:
 related_facts:
   - "[[Science, The Endless Frontier 1945]]"
   - "[[Science A New Golden Age 2026]]"
+  - "[[EU]]"
   - "[[Lisbon Strategy]]"
 related_arguments:
   - "[[Argument_Caraca_2009_TFSC]]"
@@ -63,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-09
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Linear Model of Innovation
@@ -175,7 +176,7 @@ updated: 2026-10-15
 > - **1950s末 — 经济学理论论证** 理查德·尼尔森（[[Richard Nelson]]）与肯尼斯·阿罗（Kenneth Arrow）运用公共品理论论证了基础科学知识的非排他性与非竞争性，为政府主导基础研究资助提供了经济学正当性，但也无意中强化了基础（公共）与应用（市场）的割裂。
 > - **1986 — [[Chain-linked Model|链式模型]]反驳** 斯蒂芬·克莱因（Stephen Kline）与内森·罗森伯格（Nathan Rosenberg）提出链式创新模型，系统论证创新始于市场与设计试错，基础研究并非线性起点。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 863)]]
 > - **1997 — [[Pasteur's Quadrant|巴斯德象限]]二维修正** [[Donald Stokes|唐纳德·斯托克斯]]（Donald Stokes）提出二维动机矩阵，打破单一维度，确立用启发性基础研究的正统地位。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, p. 32)]]
-> - **2000s — 政策惯性与反思** 欧盟[[Lisbon Strategy|里斯本议程]]设立研发占比 3% 的巴塞罗那目标；然而欧洲悖论的蔓延促使若昂·卡拉萨等人（2009）提出[[Multi-channel Interactive Learning Model|多通道互动学习模型]]，警惕大学专利化扭曲。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 861–865)]]
+> - **2000s — 政策惯性与反思** [[EU|欧盟]][[Lisbon Strategy|里斯本议程]]设立研发占比 3% 的巴塞罗那目标；然而欧洲悖论的蔓延促使若昂·卡拉萨等人（2009）提出[[Multi-channel Interactive Learning Model|多通道互动学习模型]]，警惕大学专利化扭曲。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, pp. 861–865)]]
 > - **2013 — 宣告二分法与线性论终结** 纳拉亚纳穆尔提等人以半个世纪 ICT 领域的物理学诺奖谱系为证，证明关键发明直接作为科学发现的实验物理载体，提出[[Discovery-Invention Cycle|发现-发明循环]]理论以彻底更替线性创新模型。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–36)]]
 > - **2026 — 联邦政策文本宣布管道彻底失真** 《[[Science A New Golden Age 2026|科学：新的黄金时代]]》保留布什报告关于公共资助不可替代性的核心论点，但判定基础研究到开发的单向分工已无法解释当代发现机制；主张以[[Pasteur's Quadrant|巴斯德象限]]重组资助架构，并将科学发现重新锚定于本土先进制造、试验基础设施与工程手艺。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 5–7, 34–46)]]
 

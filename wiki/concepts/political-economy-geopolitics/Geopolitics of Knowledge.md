@@ -6,7 +6,7 @@ aliases:
 summary: "围绕知识生产、流动、控制和利用展开的地缘政治竞争形态，用于分析高等教育、科研和技术如何成为国际权力关系的一部分。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 86
+related_count: 87
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -99,6 +99,7 @@ related_facts:
   - "[[Minerva University]]"
   - "[[University Industry Innovation Network]]"
   - "[[Horizon Europe Missions]]"
+  - "[[EU]]"
 related_arguments:
   - "[[Argument_Partaken_2022_Springer]]"
   - "[[Argument_Parreira do Amaral_2022_geopolitics-knowledge]]"
@@ -111,7 +112,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Geopolitics of Knowledge
@@ -443,5 +444,5 @@ updated: 2026-10-15
 > - [[University Industry Innovation Network\|UIIN]] Thoughtbook 系列 — "想象"被赋予证据地位以塑造政策：未来大学愿景以诊断性事实呈现，展示[[Discourse|话语]]如何物质化为制度驱动力（Thompson & Parreira do Amaral, 2022, pp.3–4）
 > - 大学图书馆空间重构 — 从知识储存和智识闲暇场所（Muße）转变为"makerspaces"和创新创业中心，是 GPK 逻辑改造高等教育物理空间的物质性表现（Thompson & Parreira do Amaral, 2022, pp.4–6）
 > - 澳大利亚亚洲世纪白皮书（2012）— 将亚洲崛起定位为"机遇"；配套 AISRF and ACSRF 将研究合作与贸易外交目标深度绑定（[[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.99–100]]）
-> - [[Horizon Europe Missions]] — 将研究整合为针对五大社会挑战的使命承诺，反映欧盟以研究驱动全球[[Competitiveness|竞争力]]和规范性影响力的地缘政治策略
+> - [[Horizon Europe Missions]] — 将研究整合为针对五大社会挑战的使命承诺，反映[[EU|欧盟]]以研究驱动全球[[Competitiveness|竞争力]]和规范性影响力的地缘政治策略
 

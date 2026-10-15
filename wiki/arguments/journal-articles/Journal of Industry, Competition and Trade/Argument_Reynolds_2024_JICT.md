@@ -51,6 +51,7 @@ related_facts:
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[Loan Programs Office]]"
   - "[[Build America, Buy America Act]]"
+  - "[[EU]]"
 related_arguments: []
 sources:
   - "[[sources/Reynolds_2024_JICT|Reynolds_2024_JICT]]"
@@ -63,7 +64,7 @@ title: "Argument_Reynolds_2024_JICT"
 argument_key: "Argument_Reynolds_2024_JICT"
 argument_display_title: "U.S"
 argument_kind: "journal-article"
-argument_related_count: 28
+argument_related_count: 29
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -244,7 +245,7 @@ journal: "Journal of Industry, Competition and Trade"
 > | **技术劳动力与技能缺口** | 缺乏足够的建筑工人、电工、管道工及半导体工艺工程师，制约工程进度并推高用工成本。（pp. 13–14） | 依托[[NSF Regional Innovation Engines\|国家科学基金会区域创新引擎]]等项目强化产教协同、全面推行前置[[Workforce Development\|劳动力发展计划]]与注册学徒制、落实托儿服务以动员潜在劳动力。（pp. 6, 8–11） |
 > | **行政许可与土地监管迟滞** | 《国家环境政策法》（National Environmental Policy Act, NEPA）跨部门环境影响评估繁琐，州与地方土地规划审批缓慢，阻碍电网与厂房建设。（pp. 5, 14） | 推进联邦与州级监管改革，如联邦能源监管委员会（FERC）2023 年电网互联新规。（p. 14） |
 > | **国家行政与专业能力赤字** | 商务部、能源部等联邦机构需在短期内审核海量申请并维持常态化沟通，面临人员与专业技术储备不足。 | 扩建专门项目办公室（如芯片计划办公室与能源部[[Loan Programs Office\|贷款项目办公室]]），提升科层技术与跨部门协调能力。（pp. 6–7） |
-> | **国际盟友摩擦与贸易争端** | 本土制造与采购限制引发欧盟、日韩等盟友担忧，加剧跨国补贴内耗与保护主义风险。 | 强化与盟友的战略协调，推动友岸外包与关键矿产多边合作协议。 |
+> | **国际盟友摩擦与贸易争端** | 本土制造与采购限制引发[[EU\|欧盟]]、日韩等盟友担忧，加剧跨国补贴内耗与保护主义风险。 | 强化与盟友的战略协调，推动友岸外包与关键矿产多边合作协议。 |
 
 > [!logic-map]- 产教协同与劳动力技能生态治理机制
 > ```mermaid

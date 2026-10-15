@@ -8,7 +8,7 @@ aliases:
 summary: "空间治理术是尼古拉斯·罗斯对福柯治理术理论的空间化拓展，指出治理不仅是对身体与时间的规训，更本质地依赖于空间的构想、划界与操控；该理论通过领地化划界、空间化统治之眸与空间质地建模三大轴线，揭示了现代学校如何作为封闭性空间容器与资格筛选装置，规制不同人口群体的物理与社会流动。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 24
+theory_related_count: 25
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -43,6 +43,7 @@ related_persons:
   - "[[Thomas S. Popkewitz]]"
 related_facts:
   - "[[No Child Left Behind Act 2001]]"
+  - "[[EU]]"
   - "[[Erasmus Programme]]"
   - "[[TEMPUS]]"
   - "[[Hukou System]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-10
-updated: 2026-10-14
+updated: 2026-10-16
 ---
 
 # Spatial Governmentality
@@ -143,7 +144,7 @@ graph TD
 > [!theory-proposition] 命题四｜空间实践是统合教育制度准入与深层文化分类的核心纽带
 > **解释** 传统教育研究长久割裂了关注宏观资源分配与法律代表性的“公平-参与问题式”（Equity-Participation Problematic）和关注微观思维理性与身份评判的“[[Knowledge Questions|知识问题]]式”（Problematic of Knowledge）。空间治理术表明，学校的日常运作本质上是一系列具体的“空间实践”（Spatial Practices）：通过对物理边界的构筑、对人口流动的催化或阻滞（Flows and Stoppages），学校既在物质层面硬性决定谁能进入校园空间，又在文化层面根据[[Sedentarism|定居主义]]规范裁定何种流动是合法的时代美德、何种流动是需要矫正的病态偏常。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 367–368)]]
 >
-> **应用实例** 在对待[[Student Mobility|学生流动性]]时，欧盟将精英大学生通过[[Erasmus Programme|伊拉斯谟计划]]或[[TEMPUS|天普计划]]的跨国求学赞许为培育欧洲认同的文明资产（平滑流动），而美国学校报告卡与中国[[Hukou System|户籍制度]]则将底层家庭因生计搬迁造成的中途转校界定为破坏教学秩序的异类并设置行政阻隔（空间阻断）。
+> **应用实例** 在对待[[Student Mobility|学生流动性]]时，[[EU|欧盟]]将精英大学生通过[[Erasmus Programme|伊拉斯谟计划]]或[[TEMPUS|天普计划]]的跨国求学赞许为培育欧洲认同的文明资产（平滑流动），而美国学校报告卡与中国[[Hukou System|户籍制度]]则将底层家庭因生计搬迁造成的中途转校界定为破坏教学秩序的异类并设置行政阻隔（空间阻断）。
 
 ---
 

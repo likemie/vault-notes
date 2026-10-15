@@ -25,9 +25,9 @@ tags:
 related_concepts:
   - "[[Self-Improving School System]]"
   - "[[Strategic Compliance]]"
+  - "[[School Autonomy]]"
   - "[[Research Utilization]]"
   - "[[Evidence-Informed Practice]]"
-  - "[[School Autonomy]]"
   - "[[Test-Based Accountability]]"
 related_theories: []
 related_methods: []
@@ -96,7 +96,7 @@ updated: 2026-10-12
 
 > [!pathways]- 实施路径
 > - **中央设计** 教育部以自主换责任的方式推动学校转制，并允许学院组成链式治理结构。
-> - **系统执行** 学校自主决定是否转为学院;已转制的学校通过加入学院链获得规模化的支持与经验流动。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p.120)]]
+> - **系统执行** [[School Autonomy|学校自主]]决定是否转为学院;已转制的学校通过加入学院链获得规模化的支持与经验流动。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, p.120)]]
 > - **反馈与调整** 约四分之三的学校未转制，参与不均使体系存在形成两级的风险，构成对该政策的主要批评之一。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 120–121)]]
 
 ---

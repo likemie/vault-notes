@@ -9,7 +9,7 @@ aliases:
 summary: "指创新活动不仅具有研发投入与扩散速率等数量维度，更具有明确的规范性社会目标与价值取向；公共政策的核心使命在于通过战略引导、规制重构、需求侧牵引与市场塑造，主动克服方向性失灵并引领技术轨道朝向绿色、包容、安全与可持续转型。"
 type: concept
 domain: "science-policy"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -61,6 +61,7 @@ related_facts:
   - "[[Joint University Microelectronics Program 2.0]]"
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
   - "[[Important Projects of Common European Interest]]"
+  - "[[EU]]"
 related_arguments:
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
   - "[[Argument_Zhuo_2026_ICE]]"
@@ -70,7 +71,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Directionality of Innovation
@@ -262,4 +263,4 @@ updated: 2026-10-15
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 系统分析美国国家半导体体系中[[Research Universities|研究型大学]]的角色重构，阐明国家[[Securitization of Technology|技术安全化]]如何作为最高方向性使命重塑大学基础研究、人才培养与产学中试共置网络。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 论证美国科技政策从自由探索科学契约向技术导向型契约的转变，揭示国家战略方向性动员下科研体系向国家实验室、公私联合体与大学自由探索三轨分化的深层机制。
 > - [[Argument_OxfordUIDP_2019_UIPartnerships|Oxford & UIDP (2019)]] — 结合[[Netherlands Top-sector Policy|荷兰顶级行业政策]]实证，阐述政府如何通过设立国家级重点方向与公私合作杠杆，在适度研发强度下实现全球[[Competitiveness|竞争力]]的跃升。
-> - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 分析欧盟通过 [[Important Projects of Common European Interest|IPCEI ME/CT]] 重大项目确立微电子与绿色转型方向，依托超国家补贴与多边产学协同网络提升技术主权。
+> - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 分析[[EU|欧盟]]通过 [[Important Projects of Common European Interest|IPCEI ME/CT]] 重大项目确立微电子与绿色转型方向，依托超国家补贴与多边产学协同网络提升技术主权。

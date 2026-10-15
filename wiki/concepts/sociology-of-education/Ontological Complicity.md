@@ -46,7 +46,7 @@ updated: 2026-06-10
 ## 定义
 
 > [!info] 核心定义
-> **[[Ontology\|本体论]]共谋（Ontological Complicity）**是法国社会学家[[Pierre Bourdieu\|皮埃尔·布迪厄]]关系社会学中的一个核心概念，指行动者的惯习（[[Habitus]]）与他们所处的社会[[Champ\|场域]]（field）之间一种深层的、具身性（embodied）和前[[Reflexivity\|反思性]]（pre-reflexive）的双向调整与相互契合关系。在这种共谋状态下，行动者在潜意识中将场域的既有规则和权力关系视为理所当然，从而在无意识中参与了社会场域现状与支配结构的再生产，增加了打破现状的阻力。([[Argument_Eacott_2017_SLM\|Eacott, 2017, p. 414]])
+> **[[Ontology\|本体论]]共谋（Ontological Complicity）**是法国社会学家[[Pierre Bourdieu\|皮埃尔·布迪厄]]关系社会学中的一个核心概念，指行动者的[[Habitus|惯习]]（[[Habitus]]）与他们所处的社会[[Champ\|场域]]（field）之间一种深层的、具身性（embodied）和前[[Reflexivity\|反思性]]（pre-reflexive）的双向调整与相互契合关系。在这种共谋状态下，行动者在潜意识中将场域的既有规则和权力关系视为理所当然，从而在无意识中参与了社会场域现状与支配结构的再生产，增加了打破现状的阻力。([[Argument_Eacott_2017_SLM\|Eacott, 2017, p. 414]])
 
 > [!quote]
 > 在布迪厄的社会学中，本体论共谋是指客观结构与主观认知图式之间的前反思性吻合。这种深植于惯习中的共谋，使得行动者几乎不可能自发与他们所习以为常的世界割裂。
@@ -85,7 +85,7 @@ updated: 2026-06-10
 >     Guru -->|进一步强化| Field
 > ```
 
-> [!line-a] 命题一：场域与惯习的前反思共振（Pre-reflexive Harmony）
+> [!line-a] 命题一：场域与[[Habitus|惯习]]的前反思共振（Pre-reflexive Harmony）
 > 本体论共谋不是行动者对规则的机械遵从，而是由于惯习与场域客观结构的同构，行动者天然地认为现有规则是“常识”（common sense）并无意识地维护这一秩序。([[Argument_Eacott_2017_SLM\|Eacott, 2017, p. 414]])
 
 > [!line-b] 命题二：制度现状的破除阻力（Resistance to Rupture）
@@ -104,4 +104,4 @@ updated: 2026-06-10
 ## 应用案例
 
 > [!evidence-grid-a] [[School Leadership\|学校领导力]]与[[Cult of the Guru\|大师崇拜]]
-> - **澳大利亚VL品牌深锁** — 澳大利亚学校领导力社群（如 ACEL）与 Hattie 品牌的共谋并非纯粹的商业强迫，而是行政人员追求确定性的惯习与[[John Hattie\|哈蒂]]提供的数据账本契合的结果。这种前反思的契合使“Hattie 崇拜”内嵌于 [[Australian Institute for Teaching and School Leadership\|AITSL]] 的国家校长和教师专业标准中，形成极难撼动的霸权深锁。([[Argument_Eacott_2017_SLM\|Eacott, 2017, pp. 414–415]])
+> - **澳大利亚VL品牌深锁** — 澳大利亚学校领导力社群（如 ACEL）与 Hattie 品牌的共谋并非纯粹的商业强迫，而是行政人员追求确定性的[[Habitus|惯习]]与[[John Hattie\|哈蒂]]提供的数据账本契合的结果。这种前反思的契合使“Hattie 崇拜”内嵌于 [[Australian Institute for Teaching and School Leadership\|AITSL]] 的国家校长和教师专业标准中，形成极难撼动的霸权深锁。([[Argument_Eacott_2017_SLM\|Eacott, 2017, pp. 414–415]])

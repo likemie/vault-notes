@@ -8,10 +8,10 @@ aliases:
 summary: "历史制度主义与政策变迁分析中的渐进制度变迁核心机制；指在不废除或替换既有制度结构的前提下，通过向既有制度框架中附加新规则、新行动者、新政策工具或新管理程序，随时间推移逐步改变原有制度地位、行为结构与治理后果的演进过程。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 concept_field: political-economy-geopolitics
 tags:
   - theme/institutional-change
@@ -49,7 +49,8 @@ related_persons:
   - "[[James Mahoney]]"
   - "[[Jeroen van der Heijden]]"
   - "[[Ray Pawson]]"
-related_facts: []
+related_facts:
+  - "[[EU]]"
 related_arguments:
   - "[[Argument_VanDerHeijden_2011_Politics]]"
   - "[[Argument_Streeck_Thelen_2005_OUP]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Institutional Layering
@@ -159,7 +160,7 @@ updated: 2026-10-15
 > 审视当代经验文献对层叠概念的宽泛化应用，界定外围层叠究竟是推动了制度转型，还是充当护城河强化了既有制度核心。
 
 > [!claim] [[Jeroen van der Heijden|Van der Heijden, J.]]
-> **变迁与再生产的理论边界** 层叠必须随时间推移导致原有规则地位、结构或规约行为方式的质性改变；若在外围叠加新机构或新标准仅仅充当了吸收外部震荡的防震缓冲带，反倒强化了既有制度核心并推高了转换成本（如互联网 TCP/IP 协议的高厚度商与欧盟预算锁定），该现象实质属于制度再生产与制度加固，绝不能泛化贴上层叠变迁的标签。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 12–14)]]
+> **变迁与再生产的理论边界** 层叠必须随时间推移导致原有规则地位、结构或规约行为方式的质性改变；若在外围叠加新机构或新标准仅仅充当了吸收外部震荡的防震缓冲带，反倒强化了既有制度核心并推高了转换成本（如互联网 TCP/IP 协议的高厚度商与[[EU|欧盟]]预算锁定），该现象实质属于制度再生产与制度加固，绝不能泛化贴上层叠变迁的标签。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 12–14)]]
 
 ---
 
@@ -208,7 +209,7 @@ updated: 2026-10-15
 
 > [!critique]- 反面概念辨析案例：被当代学者误读为“制度层叠”的制度再生产与[[Path Dependence|技术锁定]]
 > - **互联网[[Composite-Standard Model|复合标准模型]]（Boas, 2007 概念错置案例）** 泰勒·博阿斯虽借用 Thelen 的层叠概念描述在 TCP/IP 核心之上累加 SMTP、HTTP、P2P 等应用层标准，但[[Jeroen van der Heijden|范德海登]]（[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011, pp. 13–14]]）明确指出这属于典型的概念泛化与错置——外围应用协议的繁荣（高“厚度商”，Thickness Quotient）不仅没有改变或侵蚀底层核心，反而通过网络外部性极大地推高了转换成本、死锁了技术核心。这一机制本质属于**[[Path Dependence|路径依赖]]、制度再生产与制度加固（Institutional Reproduction & Reinforcement）**，绝非带来规则质变的制度层叠。
-> - **欧洲联盟预算与规制核心模型（Ackrill & Kay, 2006; Thatcher & Coen, 2008 概念错置案例）** 罗伯特·阿克里尔和阿德里安·凯在欧盟预算研究中、马克·撒切尔和大卫·科恩在规制核心研究中同样借用层叠概念，但新成员国加入或设立外围监管网络并未动摇欧盟既有核心规制轨道，外围图层反倒充当防震垫保护并巩固了旧核心，同样属于制度再生产而非制度层叠。（Ackrill & Kay, 2006; Thatcher & Coen, 2008）
+> - **[[EU|欧洲联盟]]预算与规制核心模型（Ackrill & Kay, 2006; Thatcher & Coen, 2008 概念错置案例）** 罗伯特·阿克里尔和阿德里安·凯在欧盟预算研究中、马克·撒切尔和大卫·科恩在规制核心研究中同样借用层叠概念，但新成员国加入或设立外围监管网络并未动摇欧盟既有核心规制轨道，外围图层反倒充当防震垫保护并巩固了旧核心，同样属于制度再生产而非制度层叠。（Ackrill & Kay, 2006; Thatcher & Coen, 2008）
 
 ---
 
@@ -219,7 +220,7 @@ updated: 2026-10-15
 > > [!axis] 制度变迁还是制度再生产的边界划分争议
 > > 争论聚焦于外围图层的增加究竟是推动了制度转型，还是仅仅巩固了既有制度核心。
 > > 
-> > - **制度再生产与强化视角** 罗伯特·阿克里尔和阿德里安·凯（Ackrill & Kay, 2006）在欧洲联盟（European Union, EU）预算研究中、泰勒·博阿斯（Boas, 2007）在互联网标准复合模型研究中认为，叠加新成员或协议标准并未改变核心轨道，反而强化了制度核心并提升了转换壁垒。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 13)]]
+> > - **制度再生产与强化视角** 罗伯特·阿克里尔和阿德里安·凯（Ackrill & Kay, 2006）在[[EU|欧洲联盟]]（European Union, EU）预算研究中、泰勒·博阿斯（Boas, 2007）在互联网标准复合模型研究中认为，叠加新成员或协议标准并未改变核心轨道，反而强化了制度核心并提升了转换壁垒。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, p. 13)]]
 > > - **制度渐进变迁视角** [[Kathleen Thelen|凯瑟琳·希伦]]（Thelen, 2004）与[[Jeroen van der Heijden|范德海登]]（[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011]]）坚持层叠必须导致原有规则地位、结构或行为规约方式的质性改变，将加固核心的现象统称为层叠会丧失概念的分析效力。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 13–14)]]
 > 
 > > [!axis] 观察者位置与时间尺度导致的定性认知偏差

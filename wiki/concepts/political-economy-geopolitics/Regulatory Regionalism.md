@@ -6,10 +6,10 @@ aliases:
 summary: "指超国家组织通过指标、排名和协调机制对区域内高等教育进行间接治理的区域监管形式。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
 - regulatory-regionalism
 - higher-education-governance
@@ -31,6 +31,7 @@ related_methods:
   - "[[Expert Interview]]"
 related_persons: []
 related_facts:
+  - "[[EU]]"
   - "[[OECD]]"
   - "[[UNESCO]]"
   - "[[Bologna Process]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-02
+updated: 2026-10-16
 ---
 
 # Regulatory Regionalism
@@ -54,20 +55,20 @@ updated: 2026-10-02
 > [!info]
 > 监管型区域主义（Regulatory Regionalism）指超国家或国际组织通过监管机制（指标、标准、排名、评估框架）对区域内高等教育进行间接治理的模式。不同于传统的政府间主义（intergovernmentalism）——后者强调成员国对政策的主导控制——监管区域主义强调超国家机构通过规范性权力（normative power）而非直接指令来塑造成员国的教育政策和实践（Jayasuriya, 2010; Robertson, 2010; Thompson & Parreira do Amaral, 2022, p.11）。
 >
-> [[Argument_Rambla_2022_Springer\|Rambla (2022)]]对欧盟创新与教育政策的分析为监管区域主义提供了具体的操作机制说明：[[Performance Indicators]] 是监管区域主义的核心操作工具——超国家组织通过指标和排名将复杂的政策现实转化为可比较、可排名的量化数据，从而在不具备直接立法权的情况下对成员国的政策选择施加规范压力([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.165–166, 174–175]])。
+> [[Argument_Rambla_2022_Springer\|Rambla (2022)]]对[[EU|欧盟]]创新与教育政策的分析为监管区域主义提供了具体的操作机制说明：[[Performance Indicators]] 是监管区域主义的核心操作工具——超国家组织通过指标和排名将复杂的政策现实转化为可比较、可排名的量化数据，从而在不具备直接立法权的情况下对成员国的政策选择施加规范压力([[Argument_Rambla_2022_Springer\|Rambla, 2022, p.165–166, 174–175]])。
 
 ## 概念辨析
 
 > [!example]
 > - vs **政府间主义（Intergovernmentalism）** 政府间主义强调成员国对政策的主导控制，决策通过国家间谈判达成；监管区域主义则强调超国家机构通过监管框架获得相对自主的影响力——这种影响力不依赖于正式的立法权力，而是通过指标、排名和基准的规范性压力运作（Thompson & Parreira do Amaral, 2022, p.11）
-> - vs **全球教育治理（Global Education Governance）** 全球教育治理涵盖更广的全球层面（如 [[OECD]]、[[UNESCO]] 的治理活动）；监管区域主义聚焦于区域层面（EU、ASEAN 等）的制度性监管机制，强调"区域"作为治理的空间单元
+> - vs **全球教育治理（Global Education Governance）** 全球教育治理涵盖更广的全球层面（如 [[OECD]]、[[UNESCO]] 的治理活动）；监管区域主义聚焦于区域层面（[[EU]]、ASEAN 等）的制度性监管机制，强调"区域"作为治理的空间单元
 > - vs **[[Performance Indicators]]** 监管区域主义是宏观治理模式，绩效指标是这一模式中具体政策工具的运作机制。两者是分析层级的关系：监管区域主义描述"超国家组织如何治理"的模式，绩效指标分析则说明"具体通过什么工具和机制来治理"
 
 ## 概念演变
 
 > [!note]-
 > - **Jayasuriya（2010）** 提出监管区域主义概念框架，分析超国家组织如何通过监管机制而非传统政府间谈判来行使治理权力
-> - **Robertson（2010）** 在欧盟语境中发展了"监管型国家区域主义"（regulatory state regionalism）概念，揭示欧盟如何通过[[Bologna Process\|博洛尼亚进程]]等机制构建新的高等教育治理模式
+> - **Robertson（2010）** 在[[EU|欧盟]]语境中发展了"监管型国家区域主义"（regulatory state regionalism）概念，揭示欧盟如何通过[[Bologna Process\|博洛尼亚进程]]等机制构建新的高等教育治理模式
 > - **Robertson et al.（2016）** 在 [[Global Regionalisms]] 中进一步将高等教育定位为区域地缘政治想象的核心支柱，监管区域主义成为理解区域高等教育整合的关键分析工具（Thompson & Parreira do Amaral, 2022, p.11）
 > - **[[Argument_Rambla_2022_Springer\|Rambla (2022)]]** 通过对 [[Innovation Union]] 和 [[EU Skills Agenda]] 的分析，为监管区域主义提供了具体的经验案例——EUROSTAT 的区域创新记分牌和 NUTS2 [[Performance Indicators\|教育指标]]如何通过"治理的间接性"塑造成员国和地方层面的政策选择与认知框架（p.165–175）
 
@@ -78,7 +79,7 @@ updated: 2026-10-02
 
 ### 间接监管
 
-监管区域主义的核心特征是以"软性"工具——[[Performance Indicators]]、基准、排名和质量保障框架——替代直接立法来影响国家教育政策。这些工具不具法律约束力，但通过命名与排名（naming and ranking）的规范性压力发挥作用。在 EU，EUROSTAT 的区域创新记分牌即属此类典型工具(Thompson & Parreira do Amaral, 2022, p.11; [[Argument_Rambla_2022_Springer|Rambla, 2022, p.165]])。
+监管区域主义的核心特征是以"软性"工具——[[Performance Indicators]]、基准、排名和质量保障框架——替代直接立法来影响国家教育政策。这些工具不具法律约束力，但通过命名与排名（naming and ranking）的规范性压力发挥作用。在 [[EU]]，EUROSTAT 的区域创新记分牌即属此类典型工具(Thompson & Parreira do Amaral, 2022, p.11; [[Argument_Rambla_2022_Springer|Rambla, 2022, p.165]])。
 
 ### 超国家制度基础
 
@@ -106,7 +107,7 @@ updated: 2026-10-02
 
 ### 欧盟的绩效指标治理体系
 
-[[Argument_Rambla_2022_Springer|Rambla (2022)]]对 [[Europe 2020 Strategy]] 及其旗舰倡议的分析为监管区域主义提供了系统的经验证据。EUROSTAT 的区域创新记分牌根据各 NUTS2 区域的创新能力将其分为"创新领导者""强创新者""一般创新者""温和创新者"四个类别——任何公民都可以在地图上一眼识别自身区域的排名位置。[[Performance Indicators|绩效指标]]将"区域"建构为创新和教育政策的基本监测单元，使原本不具备教育立法权限的欧盟机构通过规范性压力间接治理成员国的教育和创新政策([[Argument_Rambla_2022_Springer|Rambla, 2022, p.169–170, 174–175]])。
+[[Argument_Rambla_2022_Springer|Rambla (2022)]]对 [[Europe 2020 Strategy]] 及其旗舰倡议的分析为监管区域主义提供了系统的经验证据。EUROSTAT 的区域创新记分牌根据各 NUTS2 区域的创新能力将其分为"创新领导者""强创新者""一般创新者""温和创新者"四个类别——任何公民都可以在地图上一眼识别自身区域的排名位置。[[Performance Indicators|绩效指标]]将"区域"建构为创新和教育政策的基本监测单元，使原本不具备教育立法权限的[[EU|欧盟]]机构通过规范性压力间接治理成员国的教育和创新政策([[Argument_Rambla_2022_Springer|Rambla, 2022, p.169–170, 174–175]])。
 
 ### Horizon 2020 的 SSH 整合
 
@@ -127,7 +128,7 @@ updated: 2026-10-02
 
 > [!example]
 > - [[Europe 2020 Strategy]] — 以[[Performance Indicators\|绩效指标]]驱动的基准管理为监管区域主义的十年实践案例
-> - [[Innovation Union]] — 以区域创新记分牌为核心监管工具的 EU 旗舰政策
+> - [[Innovation Union]] — 以区域创新记分牌为核心监管工具的 [[EU]] 旗舰政策
 > - [[EU Skills Agenda]] — 以 NUTS2 教育指标为监管机制的 EU 技能政策
 > - [[Horizon 2020 SSH Integration]] — 以研究资助为间接监管杠杆的 EU 科研框架
 

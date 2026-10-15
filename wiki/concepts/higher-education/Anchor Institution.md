@@ -27,7 +27,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Innovation Hub]]"
   - "[[Corporate R&D Labs]]"
-  - "[[Public-Private Partnership in Research]]"
+  - "[[Public-Private Partnership]]"
   - "[[Application Engineering]]"
   - "[[Third Mission]]"
   - "[[University-Industry Collaboration]]"
@@ -96,7 +96,7 @@ updated: 2026-10-15
 > - **空间根植性与不可移动性（Spatial Immobility & Place-based Assets）** 拥有庞大的校园地产、大型微纳洁净室与先进实验装备，形成不可轻易迁离的实体空间投资，构筑区域经济的“定海神针”。[[Argument_Zhuo_2026_ICE|(Spirou, 2021; 卓泽林, 2026, p. 23)]]
 > - **多层次工程人才供给管道（Multi-tiered Talent Pipeline）** 贯通拔尖研发博士、中层应用技术工程师与基层操作微证书人才，为战略性产业在本地的规模化落地提供充足的劳动力蓄水池。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 20–21)]]
 > - **产业链网络引力效应（Gravitational Cluster Effect）** 依托高水平科研声誉与前沿技术接口，吸引行业领航企业（Anchor Firms）设立生产基地，进而带动上下游数十家供应链企业在周边形成产业共生网络。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 23)]]
-> - **政产学跨界治理黏合剂（Cross-Sector Governance Nexus）** 作为公私伙伴关系（[[Public-Private Partnership in Research|PPP]]）与[[NSF Regional Innovation Engines|区域创新引擎]]的核心节点，深度参与地方产业路线图制定与国家科技政策承接。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 21–23)]]
+> - **政产学跨界治理黏合剂（Cross-Sector Governance Nexus）** 作为[[Public-Private Partnership|公私伙伴关系]]（PPP）与[[NSF Regional Innovation Engines|区域创新引擎]]的核心节点，深度参与地方产业路线图制定与国家科技政策承接。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 21–23)]]
 
 > [!logic-map]- 锚定机构驱动[[Innovation Ecosystem|区域创新生态]]跃升的拓扑机制
 > ```mermaid

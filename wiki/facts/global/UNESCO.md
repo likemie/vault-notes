@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 78
+fact_related_count: 80
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Educational Multilateralism]]"
   - "[[Discourse]]"
   - "[[School Autonomy]]"
+  - "[[Encyclopaedic Definition of Knowledge]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Performance Indicators]]"
   - "[[Learning Crisis]]"
@@ -87,6 +88,7 @@ related_facts:
   - "[[International Labour Organization]]"
   - "[[International Institute for Educational Planning]]"
   - "[[World Bank]]"
+  - "[[Delors Report]]"
   - "[[OECD]]"
   - "[[World Education Indicators]]"
   - "[[International Indicators of Education Systems]]"
@@ -111,7 +113,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # UNESCO
@@ -158,8 +160,8 @@ updated: 2026-10-15
 >
 >   - **1984–1985** 美英等国因不满新世界信息秩序相继退约并冻结经常性会费，教科文组织陷入[[Discourse|话语]]与财政的双重边缘化。
 >   - **1990** 在泰国宗迪恩联合发起世界全民教育大会。圈内实务分析表明，大会实质由资本实力雄厚的世界银行主导，教科文组织别无选择只能参与，却在会议理念与组织中缺乏有力发言权，标志着战后由它引领全球教育新理念的时代终结。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 466)]]
->   - **1996** 发布里程碑式《德洛尔报告》（*Learning: The Treasure Within*），确立教育四大支柱，并指出技术变革与经济全球化正在侵蚀既有社会政策、工作结构与全球公平。菲利普·琼斯（Phillip Jones）与[[David Coleman|戴维·科尔曼]]（David Coleman, 2005）的研究揭示，该报告实质是教科文组织在北遭[[OECD|经合组织]]侵蚀、南受世界银行挤压的领导地位危机中，为重塑政治合法性展开的公开舆论反击。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 347–348)]]
->   - **1996** 报告表层诉诸人本主义哲学以对抗世行的经济主义，深层却与世行及经合组织共同把未来全球社会判定为不可逆的信息时代，合力推销由行政分权、[[School Autonomy|学校自主权]]、教师专业化、能力本位课程与中央质量评估构成的五大支柱模型，将阿根廷与巴西等受援国注重博雅积淀的百科全书式知识传统贬斥为落后低效，收紧了借款国探索替代性道路的政策空间。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349)]]
+>   - **1996** 发布里程碑式《[[Delors Report|德洛尔报告]]》（*Learning: The Treasure Within*），确立教育四大支柱，并指出技术变革与经济全球化正在侵蚀既有社会政策、工作结构与全球公平。菲利普·琼斯（Phillip Jones）与[[David Coleman|戴维·科尔曼]]（David Coleman, 2005）的研究揭示，该报告实质是教科文组织在北遭[[OECD|经合组织]]侵蚀、南受世界银行挤压的领导地位危机中，为重塑政治合法性展开的公开舆论反击。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 347–348)]]
+>   - **1996** 报告表层诉诸人本主义哲学以对抗世行的经济主义，深层却与世行及经合组织共同把未来全球社会判定为不可逆的信息时代，合力推销由行政分权、[[School Autonomy|学校自主权]]、教师专业化、能力本位课程与中央质量评估构成的五大支柱模型，将阿根廷与巴西等受援国注重博雅积淀的[[Encyclopaedic Definition of Knowledge|百科全书式知识传统]]贬斥为落后低效，收紧了借款国探索替代性道路的政策空间。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349)]]
 >   - **1996 起** 在 OECD 发布《以知识为基础的经济》后，相继采纳并重申[[Knowledge-Based Economy|知识经济]]政策话语。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–445)]]
 >   - **1997** 联合经合组织与世界银行发起世界[[Performance Indicators|教育指标]]（[[World Education Indicators]]，WEI）项目，将[[International Indicators of Education Systems|INES]]指标方法学推广至转型期非成员国。
 >   - **1999** 在蒙特利尔成立[[UNESCO Institute for Statistics|联合国教科文组织统计研究所]]（UNESCO Institute for Statistics，UIS），奠定联合国统一教育统计基石。
@@ -204,7 +206,7 @@ updated: 2026-10-15
 > - **指南、规程与标准体系** 《[[International Education|国际教育]]标准分类》（ISCED）；《全球高等教育学历学位互认公约》；《人工智能伦理建议书》（2021）；《[[Generative Artificial Intelligence|生成式人工智能]]在教育与研究中的应用指南》（2023）；《学生及教师人工智能能力框架》（2024）。[[Argument_Wu_2025_ER|(Wu et al., 2025, pp. 358–360)]]
 > - **数据库、证据库与监测平台** [[UNESCO Institute for Statistics|联合国教科文组织统计研究所]]数据库（UIS Databank，全球官方教育数据核心权威源）；[[UN Sustainable Development Goals|SDG 4]] 进展指标基准库（Global Education Observatory）。
 > - **旗舰项目、调查与测评** 发展中国家国家教育战略规划技术援助（由 [[International Institute for Educational Planning|IIEP]] 执行）；第三世界区域教育技术规划大会（1956 年利马教育部长会议、1958 年华盛顿泛美大会；[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, p. 345]]）；区域教育与发展长期追踪调查（如 UNESCO/CEPAL/PNUD 宏观教育普查项目）；扫盲先锋奖；世界遗产与[[Sustainability Education|可持续发展教育]]网络；与 [[OECD|经合组织]]、[[World Bank|世界银行]] 联合发起的“世界[[Performance Indicators|教育指标]]”（[[World Education Indicators]], WEI）项目；与[[World Bank|世行]]、[[UNICEF]] 联合发起的[[Learning Data Compact|学习数据契约]]；资助[[International Schools|国际学校]]校本实验课程跨校交流（如[[International Baccalaureate Nutritional Science Course|国际文凭营养科学课程]]推广论证；Peterson, 1987, pp. 204–205）。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 545)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444)]]
-> - **旗舰出版物与咨询成果** 1996 年里程碑式《德洛尔报告》（*Learning: The Treasure Within*，提出四大支柱）；《[[Global Education Monitoring Report|全球教育监测报告]]》（GEMR，年度独立报告，包括 2013/2014 年首次界定全球学习危机的里程碑报告《教学与学习：实现全员质量》）；《教育的未来：一种新的社会契约》（2021）；《全球水资源开发报告》与教育科学政策丛书。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 347–348)]]
+> - **旗舰出版物与咨询成果** 1996 年里程碑式《[[Delors Report|德洛尔报告]]》（*Learning: The Treasure Within*，提出四大支柱）；《[[Global Education Monitoring Report|全球教育监测报告]]》（GEMR，年度独立报告，包括 2013/2014 年首次界定全球学习危机的里程碑报告《教学与学习：实现全员质量》）；《教育的未来：一种新的社会契约》（2021）；《全球水资源开发报告》与教育科学政策丛书。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 347–348)]]
 
 > [!citation-card] 教科文组织与世界银行的制度[[Paradigm|范式]]分野
 > 在早期岁月，世界银行的教育项目组合与教科文组织几乎无异；然而，与世界银行形成鲜明对照的是，教科文组织始终秉持一种人道主义与人权驱动的教育理念。两家机构虽然在 1964 年签署了合作协定，但随着世界银行在教科文组织的帮助下打开了通往全球南方国家的大门，它便开始与教科文组织拉开距离。事实证明，这两家机构既没有共同的政策愿景与战略重点，也没有共同的治理运作模式。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
@@ -265,7 +267,7 @@ updated: 2026-10-15
 > > - **多边功能主义立场** 坚持认为教科文组织的全球监测机制与共同框架为所有国家提供了对齐的普遍基准，跨国[[Performance Indicators|教育指标]]的汇聚能够对成员国施加软性[[Peer Pressure|同侪压力]]，驱动国内政策向人权承诺倾斜。
 >
 > > [!axis] 人文主义规范传统 vs [[Knowledge-Based Economy|知识经济]]话语与技术指标同盟的妥协
-> > 争论教科文组织在当代全球治理中是坚守了《德洛尔报告》的人文主义底线，还是向[[OECD|经合组织]]与世行的知识经济话语妥协。
+> > 争论教科文组织在当代全球治理中是坚守了《[[Delors Report|德洛尔报告]]》的人文主义底线，还是向[[OECD|经合组织]]与世行的知识经济话语妥协。
 > >
 > > - **批判政策社会学派（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）** 指出，在经合组织 1996 年提出《以知识为基础的经济》之后，教科文组织与世界银行均紧随其后采纳并重申了知识经济话语，将教育绑定于经济生产力；同时在 1997 年加入由经合组织主导的“[[World Education Indicators|世界教育指标]]”（WEI）同盟，将深植于新自由主义预设的比较指标技术推广至转型国家，暴露出其规范理念在跨国经济竞争话语冲击下的妥协与同化（pp. 443–445）。
 > > - **教科文组织捍卫者** 辩称采纳知识经济等术语属于顺应全球现实的策略性对话，机构在《德洛尔报告》及后续文件中始终将四大支柱、人格尊严与社会公平置于经济工具性之上。
@@ -317,7 +319,7 @@ updated: 2026-10-15
 > | [[1960 Bellagio Conference]] | 事实 (峰会) | 催生 IIEP 成立与西方多边教育援助共识的标志性峰会。 |
 > | [[Development Turn in Comparative Education]] | 概念 | 刻画战后 UNESCO 与世行向全球南方推动现代教育扩张的历史转向。 |
 > | [[Global Education Governing Complex]] | 概念 | 教科文组织作为五巨头之一参与其中的全球[[Educational Multilateralism\|多边教育治理]]网络。 |
-> | [[Lifelong Learning]] | 概念 | 教科文组织通过朗格朗报告与德洛尔报告推向全球的标志性教育哲学理念。 |
+> | [[Lifelong Learning]] | 概念 | 教科文组织通过朗格朗报告与[[Delors Report\|德洛尔报告]]推向全球的标志性教育哲学理念。 |
 > | [[Dual School System]] | 概念 | 教科文组织 1974 年统计实证证明了第三世界中高等精英通道与初等大众文盲并存的客观外围双轨现实。 |
 > | [[Conditioned State Theory]] | 理论 | [[Critical Pedagogy\|批判教育学]]者结合教科文组织历史统计，建构外围受限国家教育扩张与合法化矛盾的宏观理论。 |
 > | [[Pluri-Scalar Governance]] | 理论 | 教科文组织在超国家标度上扮演规范制定与政策倡导中枢。 |
@@ -351,4 +353,4 @@ updated: 2026-10-15
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 援引教科文组织 2006 年《[[Global Education Monitoring Report|全民教育全球监测报告]]》数据，实证检验全球化结构调整对受援国基础[[Performance Indicators|教育指标]]达标的消极影响，并以古巴自主国家动员为对照阐明主权自决对实现[[Education for All|全民教育]]的关键意义（p. 134）。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 考察教科文组织与[[OECD|经合组织]]、世界银行合作开展“[[World Education Indicators|世界教育指标]]”（WEI）项目的历史，揭示其在经合组织示范下跟进采纳[[Knowledge-Based Economy|知识经济]][[Discourse|话语]]的制度妥协（pp. 443–445）。
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 援引联合国教科文组织 2013/2014 年全球监测报告关于[[Learning Crisis|全球学习危机]]的经典界定，将基础教育普及但基本技能缺失的宏观矛盾确立为 Teach [[Classroom Observation|课堂观察]]手册研发的核心动因。（p. 2）
-> - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 结合拉美实证经验解构[[International Education|国际教育]]多边治理，揭示《德洛尔报告》的人文主义修辞背后教科文组织与世行、经合组织共同建构“信息时代”五大支柱全球话语的深层共谋，以及面对两强夹击时的地缘政治合法性反击（pp. 344–349）。
+> - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 结合拉美实证经验解构[[International Education|国际教育]]多边治理，揭示《[[Delors Report|德洛尔报告]]》的人文主义修辞背后教科文组织与世行、经合组织共同建构“信息时代”五大支柱全球话语的深层共谋，以及面对两强夹击时的地缘政治合法性反击（pp. 344–349）。

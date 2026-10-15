@@ -2,7 +2,7 @@
 summary: "由莱纳·卡特尔与玛丽安娜·马祖卡托提出的创新政策演进理论，借鉴尼采精神三变隐喻，系统梳理使命政策从后发追赶的社会经济奠基（骆驼）、冷战大科学的技术攻关（狮子）到应对重大社会挑战的敏捷实验型社会-技术转型（儿童）三个历史代际的演进规律与组织能力要求。"
 type: theory
 theory_field: "science-policy"
-theory_related_count: 36
+theory_related_count: 37
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -50,6 +50,7 @@ related_facts:
   - "[[Ministry of International Trade and Industry]]"
   - "[[French Modernisation Commissions]]"
   - "[[CERN]]"
+  - "[[EU]]"
   - "[[Horizon Europe]]"
 related_arguments:
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-07
+updated: 2026-10-16
 title: Three Generations of Mission-Oriented Policy
 aliases:
   - 三代使命导向政策理论
@@ -132,7 +133,7 @@ aliases:
 >
 > **典型案例** 
 > - **[[Government Digital Service|英国政府数字服务局]]（GDS）** 打破传统寡头 IT 采购外包壁垒，由内部跨职能敏捷团队通过用户体验设计与快速迭代开发统一的 `gov.uk` 平台，节省逾 40 亿英镑。
-> - **欧盟“[[Horizon Europe|地平线欧洲]]”（Horizon Europe）战略使命** 围绕癌症攻坚、气候适应、海洋健康、智慧城市与土壤健康五大重大社会挑战组织跨学科研发网络；[[Argument_Brint_2023_IHE|Brint (2023, p. 10)]]指出，与美中两国聚焦关键产业与地缘竞争的科技规划相比，欧盟将 2021–2027 年近千亿欧元预算中过半资金倾斜于社会适应与环境可持续性（五大任务领域），展现了鲜明的第三代社会响应型使命特征。
+> - **[[EU|欧盟]]“[[Horizon Europe|地平线欧洲]]”（Horizon Europe）战略使命** 围绕癌症攻坚、气候适应、海洋健康、智慧城市与土壤健康五大重大社会挑战组织跨学科研发网络；[[Argument_Brint_2023_IHE|Brint (2023, p. 10)]]指出，与美中两国聚焦关键产业与地缘竞争的科技规划相比，欧盟将 2021–2027 年近千亿欧元预算中过半资金倾斜于社会适应与环境可持续性（五大任务领域），展现了鲜明的第三代社会响应型使命特征。
 > - **德国能源转型（Energiewende）** 结合固定上网电价补贴、公民分布式能源合作社与电网智能改造，实现能源系统的结构性转型。
 
 ---

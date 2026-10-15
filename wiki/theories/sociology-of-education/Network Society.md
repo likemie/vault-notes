@@ -95,7 +95,7 @@ updated: 2026-10-16
 > - **解释对象** 信息时代以分布式网络为基本架构的社会结构变迁，以及信息、资本、权力与知识如何在跨边界流动中重新组织。
 > - **理论问题** 破解工业社会中以民族国家为封闭容器的垂直科层等级制与[[Methodological Nationalism|方法论民族主义]]，解释跨国网络如何取代传统领土制度成为现代经济活动、[[Knowledge Production|知识生产]]与政策治理的核心载体。
 > - **理论类型** 宏观技术社会学、空间社会学与全球知识生产理论。
-> - **知识位置** 由西班牙社会学家[[Manuel Castells|曼纽尔·卡斯特]]（[[Manuel Castells]]）奠基，经尤查·本克勒（Yochai Benkler）拓展至[[Knowledge-Based Economy|知识经济]]与协作生产，并由杰森·比奇（[[Jason Beech]]）和[[Fazal Rizvi|法扎尔·里兹维]]（[[Fazal Rizvi]]）引入比较教育学与高等教育研究，用于解释[[Global Policy Space|全球政策空间]]的[[Discourse|话语]]流通与跨国科研合作的重组机制。
+> - **知识位置** 由西班牙社会学家[[Manuel Castells|曼纽尔·卡斯特]]（[[Manuel Castells]]）奠基，经尤查·本克勒（Yochai Benkler）拓展至[[Knowledge-Based Economy|知识经济]]与协作生产，并由[[Jason Beech|杰森·比奇]]（[[Jason Beech]]）和[[Fazal Rizvi|法扎尔·里兹维]]（[[Fazal Rizvi]]）引入比较教育学与高等教育研究，用于解释[[Global Policy Space|全球政策空间]]的[[Discourse|话语]]流通与跨国科研合作的重组机制。
 
 > [!claim] 核心判断
 > 现代社会的主导组织形态正在从垂直的领土科层等级制转向弹性的水平网络；战略性权力和价值创造高度集中于跨越地理疆界的[[Space of Flows|流动空间]]，催生出掌握技术与资本的[[Cosmopolitanism|世界主义]]精英与受困于场所空间的本土大众之间的深刻撕裂；在全球教育治理与学术生产中，传统的国家间借贷关系被多边行动者交织的[[Network Governance|网络化治理]]所取代，高度抽象的通用政策方案作为[[Floating Signifier|漂浮能指]]跨界扩散，并在落入[[Space of Places|地方空间]]时遭遇严重的制度脱节与实践异化。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 349–355)]]; [[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 98–99)]]
@@ -108,7 +108,7 @@ updated: 2026-10-16
 > - **提出者与原始文本** 由[[Manuel Castells|曼纽尔·卡斯特]]（[[Manuel Castells]]）在 1996–1998 年出版的里程碑巨著《信息时代：经济、社会与文化》三部曲（尤其是第一卷《网络社会的崛起》*The [[Research in Schools Evaluation|RISE]] of the Network Society*）中系统阐述，并于 2000 年在《英国社会学杂志》发表论文进一步完善其形式化逻辑。
 > - **原初问题** 20 世纪 70 年代以来微电子信息技术革命与全球资本主义重构交织，传统的福特主义大规模流水线制造与主权国家[[Bureaucracy|科层官僚制]]陷入迟滞，急需一种全新的宏观社会理论来把握去中心化、跨国即时互动的新社会形态。
 > - **理论延伸：[[Knowledge-Based Economy|知识经济]]与网络财富** 尤查·本克勒（Yochai Benkler, 2006）出版《网络财富》（*The Wealth of Networks*），将网络社会理论延伸至[[Knowledge Production|知识生产]]领域，论证基于公地的同行协作（Commons-based Peer Production）如何打破工业时代知识生产的专利垄断与企业科层，确立跨国网络作为知识与经济生产力新源泉的地位。
-> - **教育学视域的批判性转化** 杰森·比奇（[[Argument_Beech_2009_CE|Beech (2009a)]], [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]]）将卡斯特的[[Space of Flows|流动空间]]与网络逻辑应用于比较教育中的[[Discourse|话语]]流通分析，构建全球教育[[Champ|场域]]五位置模型；[[Fazal Rizvi|法扎尔·里兹维]]（[[Argument_Rizvi_2022_Springer|Rizvi, 2022]]）则将网络社会理论整合入[[Geopolitics of Higher Education|高等教育地缘政治]]框架，揭示跨国科研合作由封闭大学联盟向灵活项目网络的历史演进。
+> - **教育学视域的批判性转化** [[Jason Beech|杰森·比奇]]（[[Argument_Beech_2009_CE|Beech (2009a)]], [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]]）将卡斯特的[[Space of Flows|流动空间]]与网络逻辑应用于比较教育中的[[Discourse|话语]]流通分析，构建全球教育[[Champ|场域]]五位置模型；[[Fazal Rizvi|法扎尔·里兹维]]（[[Argument_Rizvi_2022_Springer|Rizvi, 2022]]）则将网络社会理论整合入[[Geopolitics of Higher Education|高等教育地缘政治]]框架，揭示跨国科研合作由封闭大学联盟向灵活项目网络的历史演进。
 
 ---
 

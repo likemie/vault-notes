@@ -9,7 +9,7 @@ aliases:
 summary: "Freeman 与 Lundvall 等人发展的理论框架，将创新理解为多行动者在特定制度环境下通过网络与市场互动进行的集体学习活动；主张创新绩效取决于行动者能力、网络连接密度与制度规则适配性，推动公共政策从弥补市场失灵转向修复系统失灵。"
 type: theory
 theory_field: "university-industry-collaboration"
-theory_related_count: 84
+theory_related_count: 85
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -94,6 +94,7 @@ related_facts:
   - "[[Gewerbe-Institut]]"
   - "[[Local Innovation Systems Project]]"
   - "[[DARPA]]"
+  - "[[EU]]"
   - "[[German Dual Education System]]"
   - "[[Bayh-Dole Act of 1980]]"
   - "[[Bell Labs]]"
@@ -112,7 +113,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-27
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Systems of Innovation
@@ -212,7 +213,7 @@ updated: 2026-10-15
 > [!theory-proposition] 命题七｜跨国空间网络并未消解民族国家，创新系统呈现上下双层嵌套的多标量空间架构
 > **解释** 全球化与区域一体化并未导致民族国家作为核心[[Unit of Analysis|分析单位]]过时。创新系统在空间上呈现纵向多标量（Multi-scalar）嵌套架构：上层跨国区域（Upper Regions，如欧共体、北美自由贸易协定）提供统一大市场与高层级技术规则协调；下层次国家区域（Nether Regions，即[[Regional Innovation System|区域创新系统]]，如硅谷、第三意大利）依托地理邻近、熟练劳动力流动与人际面对面信任构筑微观产业底座；而处在核心枢纽位置的依然是[[National Innovation System|国家创新系统]]，因为跨国公司的核心战略研发（海外研发占比美 <10%，日 <2%）依然牢牢锚固于母国制度母体，且国际竞争优势深刻取决于母国公共教育、科研建制与产业政策的独特性。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 15–21)]]
 >
-> **应用实例** 在欧洲一体化进程中，尽管欧盟层面推行统一大市场并实施框架研发计划（上层区域），且[[Emergence|涌现]]出剑桥生物信息或巴伐利亚汽车等区域创新系统（下层区域），但英国、德国、法国等国的产业竞争优势依然深刻依赖其各自独特的国家创新体系（如德国[[German Dual Education System|双元制]]技术工人和弗劳恩霍夫应用院所网络）。
+> **应用实例** 在欧洲一体化进程中，尽管[[EU|欧盟]]层面推行统一大市场并实施框架研发计划（上层区域），且[[Emergence|涌现]]出剑桥生物信息或巴伐利亚汽车等区域创新系统（下层区域），但英国、德国、法国等国的产业竞争优势依然深刻依赖其各自独特的国家创新体系（如德国[[German Dual Education System|双元制]]技术工人和弗劳恩霍夫应用院所网络）。
 
 ---
 

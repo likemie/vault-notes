@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -24,6 +24,7 @@ tags:
   - theme/public-private-partnership
   - theme/pilot-plant
 related_concepts:
+  - "[[Public-Private Partnership]]"
   - "[[Research Universities]]"
   - "[[Innovation Hub]]"
   - "[[Translational Research]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-10
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Natcast
@@ -56,7 +57,7 @@ updated: 2026-10-15
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> **国家半导体技术推进中心（National Center for the Advancement of Semiconductor Technology, Natcast）**是经美国商务部依据《[[CHIPS and Science Act|芯片与科学法案]]》选定并创建的独立中立非营利 501(c)(3) 机构，作为[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）的法定专属运营商，承担统筹全国微电子前竞争共性研发、建设共享中试产线与维系多方公私伙伴关系的受托运营职责。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 21–25)]]
+> **国家半导体技术推进中心（National Center for the Advancement of Semiconductor Technology, Natcast）**是经美国商务部依据《[[CHIPS and Science Act|芯片与科学法案]]》选定并创建的独立中立非营利 501(c)(3) 机构，作为[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）的法定专属运营商，承担统筹全国微电子前竞争共性研发、建设共享中试产线与维系多方[[Public-Private Partnership|公私伙伴关系]]的受托运营职责。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 21–25)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 2023 年由美国商务部在《国家半导体技术中心战略愿景报告》中提出，并依据《芯片与科学法案》完成非营利法人注册，以中立第三方身份承接 110 亿美元研发资金的核心中枢。

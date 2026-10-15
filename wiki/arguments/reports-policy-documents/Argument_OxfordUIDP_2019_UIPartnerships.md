@@ -7,7 +7,7 @@ title: "Argument_OxfordUIDP_2019_UIPartnerships"
 argument_key: "Argument_OxfordUIDP_2019_UIPartnerships"
 argument_display_title: "Developing University-Industry Partnerships Fit for the Future: Report of the Inaugural Oxford UIDP Summit 2019"
 argument_kind: "report"
-argument_related_count: 51
+argument_related_count: 52
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dcfce7"
@@ -72,6 +72,7 @@ related_persons: []
 related_facts:
   - "[[University Industry Demonstration Partnership]]"
   - "[[Oxford UIDP Summit 2019]]"
+  - "[[EU]]"
   - "[[Research Excellence Framework]]"
   - "[[Industrial Strategy Challenge Fund]]"
   - "[[Strength in Places Fund]]"
@@ -186,7 +187,7 @@ updated: 2026-10-08
 ### 论证步骤二：政策环境正在转向"有影响的知识"
 
 > [!abstract] 政策重心转向"有影响的知识"
-> 美国、英国和欧盟的科学与创新政策已从 20 世纪中期对基础科学资助的核心关注，转向强调投资组合——涵盖基础研究、应用与[[Translational Research\|转化研究]]以及使命和挑战驱动的研究。政策越来越强调"有影响的知识"（knowledge with impact）以及培育从知识到[[Research Impact\|社会经济影响]]的路径。
+> 美国、英国和[[EU|欧盟]]的科学与创新政策已从 20 世纪中期对基础科学资助的核心关注，转向强调投资组合——涵盖基础研究、应用与[[Translational Research\|转化研究]]以及使命和挑战驱动的研究。政策越来越强调"有影响的知识"（knowledge with impact）以及培育从知识到[[Research Impact\|社会经济影响]]的路径。
 >
 > 在英国，[[Research Excellence Framework\|研究卓越框架]]（[[Research Excellence Framework]], REF）现在同时评估学术产出的学术标准和研究组合的影响，学者在资助申请中被要求阐明影响路径。英国科学预算在 2021/22 前的四年期间追加 47 亿英镑，其中大量资金通过产业战略挑战基金（[[Industrial Strategy Challenge Fund\|Industrial Strategy Challenge Fund]], ISCF）投入产业主导、产业参与的研究和创新优先领域。这些政策发展反映出资助者越来越认识到需要向纳税人证明：投资不仅产生了发现，而且正在转化为积极的社会成果（pp.5–6）。
 
@@ -484,7 +485,7 @@ RTO 的经验表明，其工作通常与相对邻近的伙伴进行，因此在�
 
 > [!finding-cards] 核心发现
 > 1. **[[University-Industry Collaboration\|产学合作]]格局正经历根本性转型** 全球社会挑战、技术融合（[[STEM Education\|STEM]] and SSH）、商业模式颠覆（如[[Servitisation of Manufacturing\|制造业服务化]]）和创新组织方式向开放分布式模式的转变，共同重塑了产学合作的环境（pp.4–5）。
-> 2. **政策重心从"资助科学"转向"催化影响"** 美英和欧盟的科学政策日益强调"有影响的知识"和知识转化的路径，基于地点的资助（如英国 [[Strength in Places Fund]]）和长期战略规划正在兴起（pp.5–7）。
+> 2. **政策重心从"资助科学"转向"催化影响"** 美英和[[EU|欧盟]]的科学政策日益强调"有影响的知识"和知识转化的路径，基于地点的资助（如英国 [[Strength in Places Fund]]）和长期战略规划正在兴起（pp.5–7）。
 > 3. **合作模式需要创新，但面临系统性实施障碍** 六项关键趋势包括战略性发展本地[[Innovation Ecosystem\|创新生态系统]]、新组织载体、大学作为创新连接器、更有效的联合体、企业开放资源和 SSH 整合。实验新模式需要克服既有利益相关者阻力、伙伴匹配困难和风险规避文化（pp.8–17）。
 > 4. **度量指标需要指标体系而非单一指标、关注结果而非投入、结合定量与定性** 缺乏"万能钥匙"指标；[[University Industry Demonstration Partnership\|UIDP]] Collaboration Metrics and Kellogg [[Logic Model]] 提供实用框架；国家层面系统数据虽有价值但缺乏对特定伙伴关系绩效的洞察（pp.20–27）。
 

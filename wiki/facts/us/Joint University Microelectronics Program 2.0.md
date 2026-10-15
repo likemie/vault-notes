@@ -29,7 +29,7 @@ tags:
 related_concepts:
   - "[[Research Universities]]"
   - "[[Heterogeneous Integration]]"
-  - "[[Public-Private Partnership in Research]]"
+  - "[[Public-Private Partnership]]"
   - "[[Research Scope]]"
   - "[[Technology Readiness Level]]"
   - "[[Paradigm]]"
@@ -91,7 +91,7 @@ updated: 2026-10-15
 
 > [!program-context] 项目背景
 > - **立项周期与实施跨度** 2023 年 1 月正式启动推进（为期五年，预计延续至 2028 年及更长周期），作为美国面向 2030 年代微电子战略科技竞争的核心支撑工程。
-> - **发起主体与出资结构** 采用国家战略级[[Public-Private Partnership in Research|公私合作伙伴关系]]（[[Public-Private Partnership in Research|PPP]]）模式，由 DARPA 提供约 50% 联邦国防对等匹配资金，联合 SRC 旗下数十家产业巨头企业（包括 Intel、[[Taiwan Semiconductor Manufacturing Corporation|TSMC]]、IBM、TI、Qualcomm 等）缴纳的会员研发经费共同注资（五年总资助规模超 **2.5 亿美元**）。
+> - **发起主体与出资结构** 采用国家战略级[[Public-Private Partnership|公私合作伙伴关系]]（PPP）模式，由 DARPA 提供约 50% 联邦国防对等匹配资金，联合 SRC 旗下数十家产业巨头企业（包括 Intel、[[Taiwan Semiconductor Manufacturing Corporation|TSMC]]、IBM、TI、Qualcomm 等）缴纳的会员研发经费共同注资（五年总资助规模超 **2.5 亿美元**）。
 > - **[[Research Scope|研究范围]]与[[Technology Readiness Level|技术就绪度]]** 聚焦[[Technology Readiness Level|技术就绪度]]（TRL）3–6 阶段，覆盖从概念验证、实验室关键原型到先导系统级封装集成的全流程攻坚。
 > - **核心问题导向** 应对摩尔定律物理微缩极限放缓、算力能耗墙与国际地缘供应链断裂风险，打破传统单一高校“单兵作战”与论文导向局限，加速高能效、高可靠微电子共性技术的军民双重应用转化。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 23)]]; [[Argument_NSTC_2024_MicroelectronicsResearch|(NSTC, 2024, pp. 39–43)]]
 

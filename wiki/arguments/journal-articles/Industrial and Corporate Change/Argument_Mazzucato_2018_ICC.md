@@ -56,6 +56,7 @@ related_persons:
   - "[[Mariana Mazzucato]]"
   - "[[Richard Nelson]]"
 related_facts:
+  - "[[EU]]"
   - "[[Horizon Europe Missions]]"
   - "[[UN Sustainable Development Goals]]"
   - "[[DARPA]]"
@@ -78,7 +79,7 @@ title: "Argument_Mazzucato_2018_ICC"
 argument_key: "Argument_Mazzucato_2018_ICC"
 argument_display_title: "Mission-oriented innovation policies: challenges and opportunities"
 argument_kind: "journal-article"
-argument_related_count: 42
+argument_related_count: 43
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -96,7 +97,7 @@ argument_related_color: "#dbeafe"
 > 马里亚纳·[[Mariana Mazzucato|马祖卡托]]（Mariana Mazzucato）指出，经济创新不仅关乎增长的速率，更关乎发展的方向；应对21世纪复杂的重大社会挑战，要求公共政策彻底从被动的市场修复者转变为主动的[[Market Shaping and Creating|市场塑造]]与共创者。公共机构应以重大社会挑战为导向[[Picking the Willing|挑选意愿者]]（Picking the willing），拉动全经济范围内的跨部门协同投资，依托涵盖战略路径、组织能力、动态评估与风险收益共享（Routes, Organizations, Assessment, Risks and rewards, ROAR）的 ROAR [[Analytic Framework|分析框架]]重构政策工具箱，并严格依据五大实施标准将宏大社会挑战转化为自下而上的多元探索项目组合。（pp. 803–812）
 
 > [!concept-lens] 阅读透镜
-> - **对象** 现代国家[[Innovation Policy Paradigms|创新政策范式]]、公共研发与产业资助机构的治理机制、公私合作契约设计，以及重大社会技术系统转型（如德国能源转型规划、欧盟[[Horizon Europe Missions|地平线欧洲战略使命]]）。
+> - **对象** 现代国家[[Innovation Policy Paradigms|创新政策范式]]、公共研发与产业资助机构的治理机制、公私合作契约设计，以及重大社会技术系统转型（如德国能源转型规划、[[EU|欧盟]][[Horizon Europe Missions|地平线欧洲战略使命]]）。
 > - **张力** 新古典经济学静态市场失灵修补与防范挤出假设，同[[Evolutionary Economics|演化经济学]]动态市场共创与预期挤入机制之间的范式冲突；公共部门承担早期颠覆性研发高风险与私人资本独占商业化垄断暴利之间的制度失衡。
 > - **贡献** 奠定了当代使命导向型创新政策（Mission-Oriented Innovation Policy, MIP）的理论基础，建立了超越市场失灵的新型政策工具箱（ROAR 框架），并为全球[[Grand Challenges|重大挑战]]的使命化落地提供了可操作的遴选标准与组合治理模型。
 
@@ -308,7 +309,7 @@ argument_related_color: "#dbeafe"
 > ![](https://img.mylikemie.icu/sources/Mazzucato_2018_ICC/figures/Mazzucato_2018_ICC_Fig2_Plastic_Free_Ocean_Mission.jpg)
 
 > [!proc] “无塑海洋”使命的结构化拆解与组合实施
-> 1. **愿景确立与社会关切** 欧洲每年产生 2500 万吨塑料垃圾，回收率不足 30%，塑料占海滩垃圾的 85%；使命紧密结合欧盟塑料战略，保护公民健康、海洋生物与生态环境。（p. 812）
+> 1. **愿景确立与社会关切** 欧洲每年产生 2500 万吨塑料垃圾，回收率不足 30%，塑料占海滩垃圾的 85%；使命紧密结合[[EU|欧盟]]塑料战略，保护公民健康、海洋生物与生态环境。（p. 812）
 > 2. **量化目标与时限设定** 明确设定在 5–10 年内：阻止至少 720 万吨塑料流入海洋（减少 90% 塑料入海量），并从海洋与沿海区域年均清理至少 200 万吨存量塑料（清除 50% 以上存量）。（pp. 811–812）
 > 3. **全链条研发与规制协同** 打通从基础化学材料研究（塑料降解特性分析）、应用生物技术设计（食品包装生物塑料替代）到工程转化（海上自主塑料收集基站）的全链条协同。（p. 812）
 > 4. **跨行业多主体深度融合** 协调化学工程、海洋生物学、市场营销、纺织制造、食品包装设计、人工智能、传统渔民与普通公民跨界协同。（p. 812）

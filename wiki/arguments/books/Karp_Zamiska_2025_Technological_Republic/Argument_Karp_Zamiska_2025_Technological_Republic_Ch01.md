@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch01"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch01"
 argument_display_title: "Lost valley"
 argument_kind: "book-chapter"
-argument_related_count: 38
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Refined Mastery]]"
   - "[[Polymath]]"
+  - "[[Public-Private Partnership]]"
   - "[[Star Scientists]]"
   - "[[Intellectual Capital]]"
   - "[[Techno-Utopianism]]"
@@ -191,7 +192,7 @@ updated: 2026-10-08
 ### 二战与冷战时期的国家防务需求直接催生了早期硅谷
 
 > [!claim] 战时科研动员开创了国家与科学界的战略合作范式
-> 二战全面爆发促成了科学界与国家权力的深度结合。1944 年 11 月，在盟军逼近德国本土之际，富兰克林·[[Franklin D. Roosevelt|罗斯福总统]]致信美国科学研究与开发署主任[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush），将战时动员科学力量服务于军事目标的举措定性为一项独特的实验，并明确指示在战后和平时期必须延续这一公私伙伴关系，将国家机器的威权、财力与战略意志倾注于科学探索，以促进公共健康、经济发展与国家安全，直接促成了战后国家科研体制纲领（《科学——[[Science, The Endless Frontier 1945|无尽的前沿]]》）的诞生（pp. 4–5）。
+> 二战全面爆发促成了科学界与国家权力的深度结合。1944 年 11 月，在盟军逼近德国本土之际，富兰克林·[[Franklin D. Roosevelt|罗斯福总统]]致信美国科学研究与开发署主任[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush），将战时动员科学力量服务于军事目标的举措定性为一项独特的实验，并明确指示在战后和平时期必须延续这一[[Public-Private Partnership|公私伙伴关系]]，将国家机器的威权、财力与战略意志倾注于科学探索，以促进公共健康、经济发展与国家安全，直接促成了战后国家科研体制纲领（《科学——[[Science, The Endless Frontier 1945|无尽的前沿]]》）的诞生（pp. 4–5）。
 
 > [!stat-cards] 冷战防务科技动员的关键历史指标
 > - **2/3** 1960 年代联邦政府在全美所有研发（R&D）总支出中所占的历史峰值份额。

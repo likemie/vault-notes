@@ -6,7 +6,7 @@ aliases:
 summary: "劳动力市场中获取与维持就业的可雇用性构念；涵盖求职者的绝对专业能力与大众化文凭通胀下的相对排序竞争，并在超国家空间治理与技能话语中被重构为融合跨国流动弹性与自我企业家精神的个体化规训机制。"
 type: concept
 domain: "higher-education"
-related_count: 46
+related_count: 47
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -59,6 +59,7 @@ related_methods:
 related_persons:
   - "[[Yajun Zheng]]"
 related_facts:
+  - "[[EU]]"
   - "[[Erasmus Programme]]"
   - "[[TEMPUS]]"
   - "[[Bologna Process]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-08'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Employability
@@ -101,7 +102,7 @@ updated: 2026-10-15
 > [!dev-timeline] 概念演变历程
 > - **2003 年 相对就业力假说提出** 菲利普·布朗与彼得·赫斯基思（Phillip Brown & Peter Hesketh）在专著《人才的误管》（*The Mismanagement of Talent*）中指出，大众化高等教育彻底颠覆了[[Human Capital Theory|人力资本理论]]假定，就业力在本质上蜕变为求职队列中的相对排位游戏。
 > - **2004 年 [[Soft Power|软实力]]与印象管理转向** Brown & Hesketh 进一步论证雇主甄别逻辑从学历证书等“硬通货”全面扩展至个人品位、交往谈吐、实习经历等“软实力”，开启了求职者将自我作为商品进行品牌化管理的学术探讨。
-> - **2005–2009 年 超国家空间治理与流动性就业能力捆绑** 欧洲联盟（European Union, EU）通过[[Erasmus Programme|伊拉斯谟计划]]（ERASMUS）与[[TEMPUS|天普计划]]（[[TEMPUS]]），在[[Bologna Process|博洛尼亚进程]]（Bologna Process）中将[[Student Mobility|跨国学生流动]]（[[Student Mobility|学生流动性]]）法定编码为获取现代就业能力的关键支柱；批判学者揭示这实质上是将结构性劳动力市场风险转化为个体空间适应责任的治理技术。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]; Papatsiba (2005)
+> - **2005–2009 年 超国家空间治理与流动性就业能力捆绑** [[EU|欧洲联盟]]（European Union, EU）通过[[Erasmus Programme|伊拉斯谟计划]]（ERASMUS）与[[TEMPUS|天普计划]]（[[TEMPUS]]），在[[Bologna Process|博洛尼亚进程]]（Bologna Process）中将[[Student Mobility|跨国学生流动]]（[[Student Mobility|学生流动性]]）法定编码为获取现代就业能力的关键支柱；批判学者揭示这实质上是将结构性劳动力市场风险转化为个体空间适应责任的治理技术。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, pp. 362–363)]]; Papatsiba (2005)
 > - **2010–2013 年 概念维度[[Operationalization|操作化]]与因果证据反思** Brown (2013) 形式化界定绝对就业力与相对就业力；与此同时，计量经济学与认知科学学者指出，政策[[Discourse|话语]]宣称的通用就业力素养与实际成人收入结果之间存在显著的[[Causality|因果推断]]证据缺口，企业岗位设计不匹配将导致通用技能[[Return on Investment|投资回报]]归零。Finegold & Notabartolo (2010); Pellegrino & Hilton (2012)
 > - **2022 年 技能话语建构与福柯主义[[Governing at a Distance|远距治理]]批判** 泽林卡（Milos Zelinka, 2022）从 21 世纪技能与素养框架（[[21st Century Skills and Competencies Discourse]]）切入，解构就业能力作为[[Governing at a Distance|远距治理]]技术的运作机制，揭示外部期望如何将求职者[[Disciplina and Doctrina|规训]]为无止境追求市场认可的自律主体。[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, pp. 258–265)]]
 > - **2023 年 中国精英大学[[Champ|场域]]应用与履历分层揭示** [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]将 Brown 的相对就业力与[[Economy of Experience|履历经济学]]框架引入中国研究，揭示名校文凭贬值下大学生如何通过[[Social Engagement|社会性投入]]争取排位优势，并证实家庭阶层资本在这一软性竞争中的再生产效应。
@@ -116,7 +117,7 @@ updated: 2026-10-15
 > - **2. 相对排位维度（Relative Employability）**
 >   求职者在劳动力市场供求动态中的相对优越度。在文凭普遍通胀的背景下，取决于求职者在软技能、实习经历层次、面试印象管理及行业圈层人脉上的差异化区隔。
 > - **3. 空间流动与网络适应维度（Spatial & Networked Mobility）**
->   跨越地理边界、文化壁垒与制度阻隔的弹性能动性。超国家政策（如欧盟框架）将跨国学习经历、跨文化语言沟通及灵活迁徙能力确立为应对去规制化劳动力市场的关键就业资本。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 363)]]
+>   跨越地理边界、文化壁垒与制度阻隔的弹性能动性。超国家政策（如[[EU|欧盟]]框架）将跨国学习经历、跨文化语言沟通及灵活迁徙能力确立为应对去规制化劳动力市场的关键就业资本。[[Argument_Sobe_Fischer_2009_MobilityMigration|(Sobe & Fischer, 2009, p. 363)]]
 > - **4. 主体性治理与自我企业化维度（Subjective Self-Enterprise）**
 >   个体将自我作为独立企业进行终身经营、技能迭代与风险自负的治理理性。将外部市场评价标准内化为自我认同，使劳动者自发保持在持续待命与自我优化的竞技状态中。[[Argument_Zelinka_2022_SCD_subjectivity|(Zelinka, 2022, pp. 259–261)]]
 
@@ -150,7 +151,7 @@ updated: 2026-10-15
 > 超国家治理机构借助空间流动政策，将青年肉体的地理跨越包装为现代劳动者的至高美德，隐秘地转移了去工业化与经济紧缩的治理危机。
 
 > [!claim] [[Argument_Sobe_Fischer_2009_MobilityMigration|Sobe & Fischer (2009)]] & Papatsiba (2005)
-> **流动胜任力[[Discourse|话语]]对结构性风险的个人化转嫁** 索贝与菲舍尔（Noah W. Sobe & Trevor Fischer, 2009, pp. 362–363）援引瓦西莉基·帕帕齐巴（Vassiliki Papatsiba, 2005）的批判考证指出，欧盟官方政策话语通过 [[Erasmus Programme|ERASMUS]] 与统摄性[[Lifelong Learning|终身学习]]计划，将[[Student Mobility|跨国学生流动]]（[[Student Mobility|学生流动性]]）重塑为获取“就业能力（Employability）”的法定途径。然而，这种将流动性道德化为个人竞争优势的[[Governmentality|治理术]]，实质上是将宏观经济去规制化、就业不安全感与全球化结构性动荡的制度成本，系统性地个体化（individualized）为青年劳动者个人的责任。官方话语宣称青年必须随时保持灵活流动以适应资本流动；一旦遭遇结构性失业，过错不再归于宏观经济治理失败，而在于劳动者自身缺乏跨国流动意愿与地理适应能力。
+> **流动胜任力[[Discourse|话语]]对结构性风险的个人化转嫁** 索贝与菲舍尔（Noah W. Sobe & Trevor Fischer, 2009, pp. 362–363）援引瓦西莉基·帕帕齐巴（Vassiliki Papatsiba, 2005）的批判考证指出，[[EU|欧盟]]官方政策话语通过 [[Erasmus Programme|ERASMUS]] 与统摄性[[Lifelong Learning|终身学习]]计划，将[[Student Mobility|跨国学生流动]]（[[Student Mobility|学生流动性]]）重塑为获取“就业能力（Employability）”的法定途径。然而，这种将流动性道德化为个人竞争优势的[[Governmentality|治理术]]，实质上是将宏观经济去规制化、就业不安全感与全球化结构性动荡的制度成本，系统性地个体化（individualized）为青年劳动者个人的责任。官方话语宣称青年必须随时保持灵活流动以适应资本流动；一旦遭遇结构性失业，过错不再归于宏观经济治理失败，而在于劳动者自身缺乏跨国流动意愿与地理适应能力。
 
 ---
 

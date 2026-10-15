@@ -7,7 +7,7 @@ title: "Argument_BrunoJofre_Schriewer_2012_Routledge"
 argument_key: "Argument_BrunoJofre_Schriewer_2012_Routledge"
 argument_display_title: "The global reception of John Dewey's thought: Multiple refractions through time and space"
 argument_kind: "edited-volume"
-argument_related_count: 4
+argument_related_count: 5
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#e5e7eb"
@@ -25,6 +25,7 @@ isbn: "9780203333624"
 citation: "Bruno-Jofré, R., & Schriewer, J. (Eds.). (2012). The global reception of John Dewey's thought: Multiple refractions through time and space. New York and London: Routledge."
 tags: ["theme/comparative-education", "theme/history-of-education", "theme/book-reading"]
 related_concepts:
+  - "[[Recontextualization]]"
   - "[[Discourse]]"
 related_persons:
   - "[[John Dewey]]"
@@ -51,7 +52,7 @@ updated: "2026-10-10"
 ## 全书结构与章节路线
 
 > [!volume-structure] 目录结构
-> - **导论，第 1 章** 教育知识跨大陆传播与文化特定的再情境化。
+> - **导论，第 1 章** 教育知识跨大陆传播与文化特定的[[Recontextualization|再情境化]]。
 > - **第一部分，第 2–4 章** 西班牙语美洲世界对[[John Dewey|杜威]]思想的阅读，目录主题为现代化的正当化。
 > - **第二部分，第 5–6 章** 东亚对杜威思想的接受与挪用。
 > - **第三部分，第 7 章** 葡萄牙、非洲与巴西的葡语空间。

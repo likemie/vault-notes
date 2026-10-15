@@ -154,7 +154,7 @@ updated: 2026-10-15
 > - **师承／合作者** 史蒂夫·伍尔加（Steve Woolgar）— 合著《实验室生活》，开创微观科学实验室[[Ethnography\|人类学研究]]。
 > - **思想对话者** 吉尔·德勒兹（Gilles Deleuze）— 汲取其块茎与装配思想，构建去中心化的异质网络[[Ontology\|本体论]]。
 > - **后世应用学者** [[Sigrid Hartong\|西格丽德·哈通]]（Sigrid Hartong）— 将拉图尔[[Center of Calculation\|计算中心]]理论应用于教育政策拓扑学与[[Data Infrastructure\|数据基础设施]]研究。
-> - **后世应用学者** 杰森·比奇（[[Jason Beech]]）与埃玛·罗威（Emma Rowe）— 将拉图尔 ANT 与互客体性理论应用于比较教育与批判[[Policy Network\|政策网络]]分析。
+> - **后世应用学者** [[Jason Beech|杰森·比奇]]（[[Jason Beech]]）与埃玛·罗威（Emma Rowe）— 将拉图尔 ANT 与互客体性理论应用于比较教育与批判[[Policy Network\|政策网络]]分析。
 
 ---
 
