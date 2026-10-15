@@ -8,7 +8,7 @@ aliases:
 summary: "Jason Beech 结合伯恩斯坦话语再情景化理论与卡斯特流动空间建构的全球教育场域五位置模型，揭示话语在跨国流动中的过度简化、守门人垄断与实践脱节机制"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 44
+theory_related_count: 47
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"

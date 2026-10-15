@@ -6,7 +6,7 @@ aliases:
 summary: "国际组织基于紧迫实用主义与技术理性对全球学术话语过度简化所生成的通用教育改革范式，宣称以信息时代为前景并窄化本土政策空间"
 type: concept
 domain: "comparative-education"
-related_count: 44
+related_count: 45
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
