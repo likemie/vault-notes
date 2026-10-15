@@ -1543,7 +1543,94 @@ def maintain_argument_base_fields(dry_run: bool = False, check: bool = False) ->
     return 0
 
 
+# Frontmatter lines that tools maintain; a diff touching only these is not a
+# body edit and must not bump `updated` (same rule vault_lint used for its
+# former UPDATED_STALE warning).
+AUTO_MAINTAINED_FM_RE = re.compile(
+    r"^[+-]\s*(?:---\s*$|(?:related_[a-z_]+|sources|extracted_to|updated|created|domain|aliases|"
+    r"citation_aliases|citation|tags|confidence|status|title|summary|type|subtype|journal|year|doi|isbn|"
+    r"authors|editors|source_language|argument_display_title|publication_place|publisher|part_of|processed_date)\s*:"
+    r"|\s+-\s|\s+\")"
+)
+GENERATED_WIKI_NAMES = {"index.md", "index.json"}
+GENERATED_WIKI_PATHS = {"wiki/research-map.md"}
+UPDATED_RE = re.compile(r"^updated\s*:\s*[\"']?(\d{4}-\d{2}-\d{2})", re.M)
+
+
+def git_text(args: list[str]) -> str:
+    try:
+        return subprocess.run(["git", "-c", "core.quotePath=false", *args], cwd=ROOT, text=True,
+                              stdout=subprocess.PIPE, stderr=subprocess.DEVNULL, check=False).stdout
+    except Exception:
+        return ""
+
+
+def sync_updated_dates(dry_run: bool = False, check: bool = False) -> int:
+    """Set `updated` to today on wiki entries whose body changed since HEAD."""
+    status = git_text(["status", "--porcelain=v1", "-z", "--", "wiki"]).split("\0")
+    candidates: list[str] = []
+    i = 0
+    while i < len(status):
+        entry = status[i]
+        i += 1
+        if len(entry) < 4:
+            continue
+        code, rel = entry[:2], entry[3:]
+        if code[0] in "RC":
+            i += 1  # porcelain -z puts the rename source in the next field
+        if code == "??" or "D" in code or not rel.endswith(".md"):
+            continue
+        path = ROOT / rel
+        if (rel.startswith("wiki/templates/") or path.name in GENERATED_WIKI_NAMES
+                or rel in GENERATED_WIKI_PATHS or not path.is_file()):
+            continue
+        candidates.append(rel)
+    if not candidates:
+        return 0
+
+    diff = git_text(["diff", "-U0", "--no-color", "HEAD", "--", *candidates])
+    body_changed: set[str] = set()
+    current: str | None = None
+    for line in diff.splitlines():
+        if line.startswith("+++ b/"):
+            current = line[6:].split("\t", 1)[0]
+            continue
+        if line.startswith("+++ "):
+            current = None
+            continue
+        if current is None or not line or line[0] not in "+-" or line.startswith(("+++", "---")):
+            continue
+        if not AUTO_MAINTAINED_FM_RE.match(line):
+            body_changed.add(current)
+
+    today = datetime.date.today().isoformat()
+    changed = 0
+    for rel in sorted(body_changed):
+        path = ROOT / rel
+        if not path.is_file():
+            continue
+        text = read_md(path)
+        split = split_frontmatter(text)
+        if not split:
+            continue
+        raw_frontmatter, body = split
+        m = UPDATED_RE.search(raw_frontmatter)
+        if not m or m.group(1) == today:
+            continue
+        changed += 1
+        prefix = "would update" if dry_run or check else "updated"
+        print(f"{prefix} updated date: {rel} ({m.group(1)} -> {today})")
+        if not dry_run and not check:
+            next_frontmatter = set_frontmatter_value(raw_frontmatter + "\n", "updated", today)
+            write_md(path, f"---\n{next_frontmatter}---\n{body}")
+    return 1 if check and changed else 0
+
+
 def run_base_index(book_check: bool = False, book_dry_run: bool = False, citation_args: list[str] | None = None) -> int:
+    # Body edits bump `updated` automatically (replaces lint's UPDATED_STALE).
+    code = sync_updated_dates()
+    if code:
+        return code
     code = maintain_book_overviews(dry_run=book_dry_run, check=book_check)
     if code:
         return code

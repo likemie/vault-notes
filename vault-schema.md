@@ -525,7 +525,7 @@ Argument 引用规则：
 - 新旧内容之间加过渡句，保持段落自然。
 - 插入位置优先级：同主题已有段落或列表 → 对应章节末尾 → 新增 `###` 子主题 → 新增模板允许的章节。
 - 每条新增信息附来源页码。
-- 更新 frontmatter 的 `updated`，需要时更新 `confidence`。
+- `updated` 由 `vault_index.py` 自动维护：正文相对上次提交有改动的条目会被设为当天日期，不需要手动修改；需要时更新 `confidence`。
 - 不手动更新 `related_*`、Argument `sources`、source record `extracted_to`，交由脚本同步。
 - 在正文中自然使用 wikilink，脚本会自动维护 frontmatter 关系。
 - 只有 Argument 页更新正文 `## 来源` 章节；非 Argument 条目用 Argument 短引用承载来源关系。

@@ -3015,82 +3015,6 @@ def apply_fixes(files: List[Path], argument_citations: Dict[str, Dict[str, Any]]
     return changed_files, total
 
 
-AUTO_MAINTAINED_FM_RE = re.compile(
-    r"^[+-]\s*(?:---\s*$|(?:related_[a-z_]+|sources|extracted_to|updated|created|domain|aliases|"
-    r"citation_aliases|citation|tags|confidence|status|title|summary|type|subtype|journal|year|doi|isbn|"
-    r"authors|editors|source_language|argument_display_title|publication_place|publisher|part_of|processed_date)\s*:"
-    r"|\s+-\s|\s+\")"
-)
-
-
-def check_updated_freshness(files: List[Path], issues: List[Issue]) -> None:
-    """WARN when a git-modified wiki entry has body changes but a stale `updated` field."""
-    candidates = [
-        path
-        for path in files
-        if is_wiki_entry_path(path)
-        and not is_generated_content_page(path)
-        and TEMPLATES_DIR not in path.parents
-    ]
-    if not candidates:
-        return
-    # Only git-modified files can have a stale `updated`; skip the costly
-    # `git diff HEAD` for everything else (most files in --path / --full runs).
-    changed = {p.resolve() for p in git_changed_md_files()}
-    candidates = [path for path in candidates if path.resolve() in changed]
-    if not candidates:
-        return
-
-    try:
-        diff = subprocess.run(
-            ["git", "-c", "core.quotePath=false", "diff", "-U0", "--no-color", "HEAD", "--", *map(str, candidates)],
-            cwd=ROOT,
-            text=True,
-            stdout=subprocess.PIPE,
-            stderr=subprocess.DEVNULL,
-            check=False,
-        )
-    except Exception:
-        return
-    if diff.returncode != 0:
-        return
-
-    body_changed: set[Path] = set()
-    current_path: Path | None = None
-    for line in diff.stdout.splitlines():
-        if line.startswith("+++ b/"):
-            current_path = (ROOT / line[6:].split("\t", 1)[0]).resolve()
-            continue
-        if line.startswith("+++ "):
-            current_path = None
-            continue
-        if current_path is None or not line or line[0] not in "+-" or line.startswith(("+++", "---")):
-            continue
-        if not AUTO_MAINTAINED_FM_RE.match(line):
-            body_changed.add(current_path)
-
-    import datetime
-    today = datetime.date.today().isoformat()
-    for path in candidates:
-        if path.resolve() not in body_changed:
-            continue
-        try:
-            text = read_text(path)
-        except Exception:
-            continue
-        fm, _, _ = split_frontmatter(text)
-        if not fm:
-            continue
-        m = re.search(r"^updated\s*:\s*[\"']?(\d{4}-\d{2}-\d{2})", fm, flags=re.MULTILINE)
-        if not m or m.group(1) == today:
-            continue
-        issues.append(Issue(
-            "WARN", rel(path),
-            f"entry body changed but frontmatter updated is stale ({m.group(1)}); set updated: {today}",
-            code="UPDATED_STALE",
-        ))
-
-
 # -----------------------------
 # Commit gate (same checks as scripts/check_vault.py / pre-commit)
 # -----------------------------
@@ -3197,7 +3121,6 @@ def lint_vault(paths: List[Path], strict: bool = False, full: bool = False, fix:
         argument_check_files.extend(git_changed_md_files())
     check_new_entries_mentioned_in_arguments(argument_check_files, issues)
     check_citation_json_consistency(argument_citations, issues)
-    check_updated_freshness(unique_files, issues)
     finish_gate_checks(gate_checks, issues)
 
     return issues
