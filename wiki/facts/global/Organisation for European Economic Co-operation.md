@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 18
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -25,12 +25,17 @@ tags:
   - theme/oecd
   - theme/educational-policy
 related_concepts:
+  - "[[Development Turn in Comparative Education]]"
   - "[[Education-for-Mandates]]"
   - "[[Discourse]]"
   - "[[Competitiveness]]"
   - "[[Paradigm]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Positivism]]"
+  - "[[Policy Borrowing]]"
   - "[[Variable]]"
+  - "[[Technical Rationality]]"
+  - "[[Epistemology]]"
 related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
@@ -40,19 +45,24 @@ related_instruments: []
 related_persons:
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
+  - "[[Jason Beech]]"
+  - "[[Robert Cowen]]"
 related_facts:
   - "[[OECD]]"
   - "[[Sputnik Shock 1957]]"
   - "[[1960 Bellagio Conference]]"
   - "[[Mediterranean Regional Project]]"
   - "[[Centre for Educational Research and Innovation]]"
+  - "[[UNESCO]]"
+  - "[[World Bank]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
+  - "[[Argument_Beech_2009_GlobalGarden]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-13
+updated: 2026-10-15
 ---
 
 # Organisation for European Economic Co-operation
@@ -76,7 +86,7 @@ updated: 2026-10-13
 
 > [!dev-timeline] 组织发展历程
 > - **1948–1956 — 战后物资协调与“经济版 NATO”奠基期** 在美国国务卿马歇尔倡导下成立，核心任务聚焦于跨国宏观收支协调、关税削减与生产力提升。德国学者莱姆格鲁伯（Leimgruber）与施梅尔策尔（Schmelzer）将其定性为“经济版 NATO”——以多边经济合作替代直接的意识形态同盟，夯实资本主义西欧的物质防线。在此阶段，组织内完全没有涉足正规学校教育与文化事务。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]
-> - **1957–1960 — [[Sputnik Shock 1957|斯普特尼克冲击]]、科技人力办公室与教育职能萌发** 1957 年苏联成功发射首颗人造卫星（[[Sputnik Shock 1957|Sputnik]] 冲击），西方世界陷入深重的技术落后焦虑。OEEC 迅速将测度欧洲与北美之间的科学技术差距确立为核心议题，设立科技人力办公室（Office for Scientific and Technical Personnel）；教育因而被推论性地定义为扩充科技人力储备、强化学校数理教学的工具性支柱；1960 年主持召开[[1960 Bellagio Conference|贝拉吉奥会议]]，启动[[Mediterranean Regional Project|地中海区域项目]]，确立以[[Manpower Requirements Approach|人力需求法]]为核心的教育规划实验。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–541)]]
+> - **1957–1960 — [[Sputnik Shock 1957|斯普特尼克冲击]]、科技人力办公室与全球[[Development Turn in Comparative Education|发展转向]]** 1957 年苏联成功发射首颗人造卫星（[[Sputnik Shock 1957|Sputnik]] 冲击），西方世界陷入深重的技术落后焦虑。OEEC 设立科技人力办公室（Office for Scientific and Technical Personnel），将测度欧美科技差距确立为核心议题；随着欧洲本土重建任务基本达成，机构职能开始由欧洲重建向第三世界“发展援助”与教育规划扩散（Beech, 2006b；[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, pp. 344–345]]）；1960 年主持召开[[1960 Bellagio Conference|贝拉吉奥会议]]，启动[[Mediterranean Regional Project|地中海区域项目]]，确立以[[Manpower Requirements Approach|人力需求法]]为核心的教育规划实验。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–541)]]
 > - **1961 — 跨大西洋改组与 [[OECD]] 的诞生** 随着欧洲经济重建完成，1960 年 12 月签署《经济合作与发展组织公约》，美加两国作为完全成员加入，OEEC 于 1961 年 9 月 30 日正式终结并改组为跨大西洋的 [[OECD]]。原 OEEC 的科技人力与教育事务被整编入 OECD 早期架构，为后续设立教育委员会及 [[Centre for Educational Research and Innovation|教育研究与创新中心]]（CERI）奠定了组织基座。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438–439)]]
 
 ---
@@ -109,6 +119,11 @@ updated: 2026-10-13
 >
 > *In the OECD’s original charter there was no independent structural location for education, though there was always an ‘inferred role’, derived from early human capital formulations of links between economic productivity and educational investment, then conceived somewhat narrowly in terms of boosting scientific and technological personnel capacity and, by extension, of improved and expanded science and mathematics education in schools. Hence, education-related activities were initially carried out under the rubric of the Office for Scientific and Technical Personnel, which in turn grew out of the former OEEC’s pivotal work in mapping the technological gap between Europe and North America, against the backdrop of the geopolitical issues relating to the Cold War.*
 
+> [!citation-card] 论战后国际机构的职能转向与善意贷款方神话
+> 杰森·比奇（[[Jason Beech]]）指出，欧洲经合组织（OEEC）、[[UNESCO|联合国教科文组织]]与[[World Bank|世界银行]]等战后多边机构最初均因欧洲战后重建而创立；当重建职能随着欧洲复兴而在 20 世纪 50 至 60 年代逐渐退出历史舞台后，这些机构的业务转向了全球“发展援助”。这一转向恰好与比较教育学科史上理论极度贫困、方法论[[Discourse|话语]]独尊的阶段重叠。比奇援引[[Robert Cowen|罗伯特·考恩]]（Robert Cowen, 1994）的论断指出，当时的比较研究充斥着一种“智识与政治上的盲目自信，深信成为贷款方是一种纯粹的善举，而借款方只要获得资金和优良的咨询建议就不会遭遇太大危险”。诺亚与埃克斯坦（Noah & Eckstein, 1969）进一步将国际组织的专业化介入赞美为从早期慈善业余主义走向科学专业主义的顶峰，彻底将深层文化与政治冲突从跨国教育治理中去政治化过滤。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 344–345)]]
+>
+> *Organisations such as UNESCO, OECD and the World Bank were created for the reconstruction of Europe after the Second World War (Beech, 2006b). As this function became redundant, in the 1950s and 1960s, the work of these agencies has been aimed at the ‘development’ of the world... dominated by an ‘intellectual and political confidence that being a lender was a benign act, and that being a borrower was not too dangerous if money and good consultancy advice was available’ (Cowen, 1994: 102)... ‘The work of these organizations is in the hands of specialists. Thus, what began as philanthropy has ended with professionalism’ (Noah & Eckstein, 1969: 82).*
+
 ---
 
 ## 影响与体系成效
@@ -139,6 +154,12 @@ updated: 2026-10-13
 > >
 > > - **世界体系学者（[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al., 2024]]）** 强调 OEEC 作为“经济版 NATO”，其援助附加条件迫使西欧向美国跨国资本敞开市场，固化了跨大西洋等级支配秩序。
 > > - **主流经济史学家** 认为 OEEC 成功培育了欧洲内部的多边协作习惯，直接催生了欧洲煤钢共同体与后续欧洲一体化进程。
+>
+> > [!axis] 善意专业援助 vs 发展主义支配与文化去政治化
+> > 围绕 OEEC 及其改组后的[[OECD|经合组织]]早期对非核心区与第三世界国家的“发展援助”究竟是无害的科学专业赋能，还是剥离本土政治语境的发展主义宰制展开交锋。
+> >
+> > - **学科史[[Positivism|实证主义]]辩护（Noah & Eckstein, 1969）** 坚信国际多边机构向战后欧洲及发展中国家输送资金与规划技术，标志着跨国[[Policy Borrowing|教育借用]]告别了 19 世纪业余慈善家的道德激情，进入由技术官僚与专业统计专家掌舵的“专业主义”理性时代。
+> > - **批判比较教育学者（Cowen, 1994; [[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）** 揭露这种“善意贷款方”迷思掩盖了西方多边体系对受援国主权文化的去政治化规训。在强方法论与规划技术的包装下，文化被降格为科学统计模型中的外生[[Variable|变量]]，使借贷成为西方制度模型单向度输出的掩体（pp. 344–345）。
 
 ---
 
@@ -154,8 +175,11 @@ updated: 2026-10-13
 > | [[1960 Bellagio Conference]] | 事实 (峰会) | OEEC 时代最重要的教育经济学峰会，确立了[[Human Capital Theory\|人力资本]]投资的多边共识。 |
 > | [[Mediterranean Regional Project]] | 事实 (项目) | OEEC/OECD 早期运用[[Manpower Requirements Approach\|人力需求法]]指导国家教育扩张的标志性试验项目。 |
 > | [[Education-for-Mandates]] | 概念 | OEEC 将教育完全绑定于经济复兴与冷战军备的典型[[Education-for-Mandates\|使命性教育嵌入]]机制。 |
+> | [[Technical Rationality]] | 概念 | OEEC 科技人力办公室及其后续教育规划所倚重的客观专家化与社会技术拜物教[[Epistemology\|认识论]]根基。 |
 > | [[Fazal Rizvi]] | 人物 | 批判政策社会学家；实证追溯 OEEC 科技人力办公室向经合组织教育治理转型的代表学者。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|(Rizvi & Lingard, 2009, pp. 438–439)]] |
 > | [[Bob Lingard]] | 人物 | 与里兹维合作系统考察 OEEC 地缘博弈遗产与超国家教育政策变迁的代表学者。 |
+> | [[Robert Cowen]] | 人物 | 批判揭示战后国际机构“善意贷款方”迷思与理论贫困现象的代表学者。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, p. 344)]] |
+> | [[Jason Beech]] | 人物 | 追溯 OEEC 向经合组织演进中欧洲重建向第三世界发展转向的历史社会学学者。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, p. 345)]] |
 
 ---
 
@@ -163,4 +187,5 @@ updated: 2026-10-13
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 梳理从 OEEC 到 [[OECD]] 的多边制度史演变，揭示[[Sputnik Shock 1957|斯普特尼克冲击]]与“经济版 NATO”定位如何促成教育量化治理的早期转向（pp. 540–541）。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 历史解构 OEEC 科技人力办公室在绘制欧美技术差距中的附庸职能，阐明早期经合组织如何将教育作为冷战工具性[[Variable|变量]]引入组织（pp. 438–439）。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 历史解构 OEEC 科技人力办公室在绘制欧美技术差距中的附庸职能，阐明早期经合组织如何将教育作为冷战工具性[[Variable|变量]]引入组织（pp. 438–439）。
+> - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 阐释 OEEC 及经合组织职能由二战后欧洲重建转向第三世界发展规划的历史跨越，揭示“善意贷款方”与专业技术援助背后的去政治化神话（pp. 344–345）。

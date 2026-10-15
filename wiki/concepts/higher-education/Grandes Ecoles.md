@@ -9,10 +9,10 @@ aliases:
 summary: "法国高等教育特有的精英专业学院系统；以预科班严苛选拔与职业定向著称，与大众化综合大学及专职科研的 CNRS 形成著名的三元分立格局；在比较教育史中作为主权国家间双边制度移植的经典历史原型（如巴西对大学校模式的模仿），并在当代成为反思精英阶层再生产与跨国政策转移演进的核心参照。"
 type: concept
 domain: "higher-education"
-related_count: 20
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 34
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - level/higher-education
   - region/france

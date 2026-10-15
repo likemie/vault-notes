@@ -1448,9 +1448,10 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
                     issues.append(Issue(
                         "WARN", rel(path),
                         f"short alias {alias!r} ({short_kind}) needs a homonym-risk review before auto-linking{coll_text}. "
-                        "AI check: (1) does this string refer only to this entry across the vault's fields? "
-                        "(2) can it occur inside unrelated words or longer phrases (e.g. '后测' inside '随后测评', 'EFA' for both Education for All and Exploratory Factor Analysis)? "
-                        "If risky, delete it or replace it with a longer specific form; if safe, add it to `alias_reviewed` to silence this warning.",
+                        "AI check, mainly for homonyms: does this string also name a different concept, person, organisation or abbreviation in the vault's fields "
+                        "(e.g. 'EFA' = Education for All vs Exploratory Factor Analysis; '科尔曼' = David Coleman vs James Coleman)? If yes, delete it or replace it with a longer specific form. "
+                        "Occasional false hits from the string being embedded in other words are tolerable for common field terms (e.g. '后测'); remove only if they are frequent. "
+                        "If safe, add it to `alias_reviewed` to silence this warning.",
                         line=alias_line, code="ALIAS_SHORT_RISK",
                     ))
             alias_keys_all = {unicodedata.normalize("NFC", str(x).strip()).lower() for x in aliases_val if isinstance(x, str)}

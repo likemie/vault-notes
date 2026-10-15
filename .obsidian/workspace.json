@@ -290,6 +290,7 @@
   },
   "active": "234d452edd1bdd48",
   "lastOpenFiles": [
+    "scripts/__pycache__/vault_lint.cpython-310.pyc",
     "scripts/_lint_old_tmp.py",
     "wiki/arguments/reports-policy-documents/Argument_WorldBank_2019_Teach.md",
     "wiki/methods/qualitative/Classroom Observation.md",
@@ -326,7 +327,6 @@
     "wiki/instruments/observation-tools/UTeach Observation Protocol.md",
     "wiki/instruments/observation-tools/Mathematical Quality of Instruction.md",
     "sources/WorldBank_2019_Teach/figures/WorldBank_2019_Teach_Fig1_Teach_Framework.jpg",
-    "sources/WorldBank_2019_Teach/figures",
     "page19_img.jpg",
     "teach_framework.jpg",
     "sources/Kickert_1995_Governance/figures/Kickert_1995_Governance_Fig1_Development_of_Steering.jpg",

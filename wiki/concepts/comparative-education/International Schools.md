@@ -6,10 +6,10 @@ aliases:
 summary: "跨越单一国家教育体系、服务跨国流动家庭或本地国际课程需求的学校类型，其历史从侨民国家通道逐步发展出共同课程、跨国资格协调与市场化运营。"
 type: concept
 domain: "comparative-education"
-related_count: 26
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
 - region/global
 - level/k12
@@ -225,7 +225,7 @@ updated: 2026-10-15
 > 香港英基学校协会（English Schools Foundation，[[English Schools Foundation Hong Kong|ESF]]）等国际学校扩张并吸纳本地优秀学生，使本地英文中学和中文中学在出生率下降之外进一步[[Attrition|流失]]生源。这会削弱公立学校，并可能引发对国际教育部门的不满。[[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010, p. 5)]]
 
 > [!critique] 全球精英再生产与社会阶层极化
-> 休·劳德（Lauder, 2007）与杰森·比奇（Beech, 2009b, p. 344）指出，跨国商业资本运营的国际学校网络收取高昂学费，将优质教育资源定向供给跨国精英与本土新富阶层，加剧了全球范围内的社会分层；这些跨国教育公司同时充当政府政策智囊，将私立市场的治理逻辑反向输入国家公共教育决策，进一步挤压了公共教育的公平空间。
+> 休·劳德（Lauder, 2007）与杰森·比奇（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, p. 344]]）指出，跨国商业资本运营的国际学校网络收取高昂学费，将优质教育资源定向供给跨国精英与本土新富阶层，加剧了全球范围内的社会分层；这些跨国教育公司同时充当政府政策智囊，将私立市场的治理逻辑反向输入国家公共教育决策，进一步挤压了公共教育的公平空间。
 
 ---
 
