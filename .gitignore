@@ -26,3 +26,6 @@ books/**/*.EPUB
 # Office / Word lock & temporary files
 ~$*
 *.tmp
+
+# Local Claude Code settings (machine-specific)
+.claude/settings.local.json
