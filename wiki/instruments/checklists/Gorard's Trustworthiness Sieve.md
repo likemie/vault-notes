@@ -10,7 +10,7 @@ aliases:
 summary: "英国杜伦大学学者斯蒂芬·戈拉德研发的因果研究质评核查表与可信度分级规程，依据研究设计、样本规模、数据缺失与测量质量四个维度进行非补偿性逐级筛查并划定0至4级评级"
 type: instrument
 instrument_type: checklist
-instrument_related_count: 17
+instrument_related_count: 16
 instrument_related_level: 3
 instrument_related_stars: "⭐⭐⭐"
 instrument_related_color: "#e5e7eb"

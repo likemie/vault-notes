@@ -10,7 +10,7 @@ aliases:
 summary: "符号互动论与微观教育社会学的奠基性定理，指出行动者对情境的主观定义决定其行动取向并产生真实客观后果，揭示了微观意义协商、制度性权力强制与自证预言的辩证张力。"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 25
+theory_related_count: 24
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"

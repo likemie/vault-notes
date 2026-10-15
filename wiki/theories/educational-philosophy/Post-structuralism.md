@@ -4,10 +4,10 @@ aliases: [后结构主义, post-structuralist, poststructuralism]
 summary: "对结构功能主义决定论的反驳，强调个体能动性与内在矛盾主体，将数据与人工制品视为表演性话语与文本，主张通过解构揭示多重意义层次与意义特权化机制。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 32
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_count: 30
+theory_related_level: 3
+theory_related_stars: "⭐⭐⭐"
+theory_related_color: "#ede9fe"
 domain: "research-methodology"
 related_count: 29
 related_level: 2

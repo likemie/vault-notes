@@ -7,7 +7,7 @@ summary: "系统分析开放文本与传播材料的推论性研究方法，通�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 58
+method_related_count: 56
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"

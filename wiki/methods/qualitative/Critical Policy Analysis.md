@@ -166,3 +166,5 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] — 运用批判性政策分析系统剖析美国《[[Reading Excellence Act|卓越阅读法案]]》的立法演进，揭示[[Pluralism|多元主义]]、[[Neocorporatism|法团主义]]、次政府与[[Elite Theory|精英理论]]对[[Evidence Standards|证据标准]]的塑造。
+> - [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]] — 运用批判性政策分析与意识形态批判，解构新西兰教育权力下放后 Visible Learning 品牌的政商旋转门资本化、新泰勒主义教师监控及全球教育改革运动（GERM）紧缩议程。
+

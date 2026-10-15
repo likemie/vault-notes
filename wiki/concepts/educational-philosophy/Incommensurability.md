@@ -8,10 +8,10 @@ aliases:
 summary: "库恩范式理论的核心认识论构念，指不同科学范式之间缺乏中立公认的共同原则、标准或衡量尺度，因而无法在同一逻辑评价体系下直接比较优劣"
 type: concept
 domain: "educational-philosophy"
-related_count: 38
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 41
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - theme/philosophy-of-science
   - theme/epistemology
@@ -38,11 +38,11 @@ related_concepts:
   - "[[Voluntarism]]"
   - "[[Research Question]]"
   - "[[Knowledge Production]]"
+  - "[[Visible Learning]]"
   - "[[Discourse]]"
   - "[[Variable]]"
   - "[[Scientific Method]]"
   - "[[Critique of Meta-analysis]]"
-  - "[[Visible Learning]]"
 related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
@@ -54,9 +54,6 @@ related_methods:
   - "[[Joint Display]]"
   - "[[Content Analysis]]"
   - "[[Correlational Research]]"
-  - "[[Meta-analysis]]"
-  - "[[Meta-meta-analysis]]"
-  - "[[Pre-test and Post-test]]"
 related_instruments: []
 related_persons:
   - "[[Thomas Kuhn]]"
@@ -64,9 +61,9 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
+  - "[[Argument_Kalmendal_2025_PsyArXiv]]"
   - "[[Argument_Brady_2023_EPR]]"
   - "[[Argument_Creswell_2022_SAGE]]"
-  - "[[Argument_Kalmendal_2025_PsyArXiv]]"
 confidence: high
 status: draft
 created: 2026-06-13
@@ -229,7 +226,7 @@ updated: 2026-10-16
 > >
 > > - **[[Paradigm\|范式]]纯粹主义立场（Smith & Heshusius, 1986）** 坚称量化实证的客观唯实论与质性诠释的建构论在逻辑上水火不容，任何试图调和二者的尝试都是浅薄的认识论自相矛盾。
 > > - **方法论[[Pragmatic Paradigm\|实用主义]]立场（Onwuegbuzie & Leech, 2005a）** 认为探究的核心是解决实际问题，量化与质性只是对不同证据维度的操作区分，过分夸大不可通约性属于“方法论清教徒主义”。
-> >
+>
 > > [!axis] [[Mixed Methods Research\|混合方法]]是成功消弭了不可通约性，还是掩盖了隐性[[Positivism\|实证主义]]霸权
 > > 争论焦点在于：混合方法是否真正跨越了范式鸿沟？
 > >

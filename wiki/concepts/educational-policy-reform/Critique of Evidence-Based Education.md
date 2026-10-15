@@ -6,7 +6,7 @@ aliases:
 summary: "围绕证据本位教育（EBE）的认识论前提、方法论基础、实施效果和政治后果形成的多维度批评体系，涵盖民主缺陷、三重缺陷框架、方法论批评、制度政治批评及综合批判框架"
 type: concept
 domain: "educational-policy-reform"
-related_count: 86
+related_count: 88
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Bureaucracy]]"
   - "[[Material Fallacies]]"
   - "[[Policy Borrowing]]"
+  - "[[Visible Learning]]"
   - "[[Realism in International Relations]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Construct Validity]]"
@@ -105,6 +106,7 @@ related_arguments:
   - "[[Argument_Blass_2020_JESP]]"
   - "[[Argument_Pampaka_2016_IJRME]]"
   - "[[Argument_Wadhwa_2024_RER]]"
+  - "[[Argument_Kalmendal_2025_PsyArXiv]]"
   - "[[Argument_Zapp_2022_Springer]]"
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
 confidence: medium
@@ -386,5 +388,6 @@ updated: 2026-10-16
 > - [[Argument_Peterson_2016_IJRME\|Peterson (2016)]] — 提出以[[Mechanism Experiments\|机制实验]]与专业改进网络为核心的“什么有效 2.0”改良方案。
 > - [[Argument_Zapp_2022_Springer\|Zapp (2022)]] — 将 EBE 置于全球[[Epistemic Governance\|知识治理]]兴起与[[Policy Science in Comparative Education\|政策科学]]化的宏观脉络中进行定位。
 > - [[Argument_Qvortrup_2019_NordSTEP\|Qvortrup (2019)]] — 提出元分析作为观察透镜的认识论反思。
+> - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 开展教育学史上首个对《[[Visible Learning|可见的学习]]》全库元科学审计，揭示宏观循证知识库底层仅 0.66% 数据可复现、44% 查无实据，为解构 EBE 的经验基础提供了最具毁灭性的实证定性。
 > - [[Evidence-Based Education]] — 循证教育主条目，记录 EBE 核心定义、[[Paradigm\|范式]]特征与支持性论证。
 

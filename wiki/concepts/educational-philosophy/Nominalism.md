@@ -9,7 +9,7 @@ aliases:
 summary: "伯勒尔与摩根社会科学性质分析框架中本体论维度的核心一极，主张外部实在不存在独立于认知者的客观实体，社会实在与组织概念本质上是人类心智发明的语言标签与符号建构物。"
 type: concept
 domain: "educational-philosophy"
-related_count: 23
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

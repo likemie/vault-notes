@@ -160,7 +160,7 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska (2025, Ch01)]] — 以[[Jürgen Habermas|哈贝马斯]]合法化危机理论剖析硅谷退缩与[[Innovation Desert|创新荒漠]]，论证重建[[Technological Republic|技术共和国]]的紧迫性；全书结构见 [[Argument_Karp_Zamiska_2025_Technological_Republic|总览]]。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska (2025, Ch01)]] — 以[[Jürgen Habermas|哈贝马斯]]合法化危机理论剖析硅谷退缩与[[Innovation Desert|创新荒漠]]，论证重建[[Technological Republic|技术共和国]]的紧迫性；全书结构见 [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] 总览页。
 
 ---
 

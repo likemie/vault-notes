@@ -5,7 +5,7 @@ aliases:
 summary: "教师系统组织课堂学习环境的综合机制，涵盖时间在任务利用、积极行为预期、规则常规、非惩罚性重定向与支持性学习文化。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 32
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Time on Task]]"
   - "[[Academic Achievement]]"
   - "[[Scaffolding]]"
+  - "[[Visible Learning]]"
   - "[[Discourse]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Class Size]]"
@@ -53,6 +54,7 @@ related_arguments:
   - "[[Argument_Håkansson_2015_TT]]"
   - "[[Argument_WorldBank_2019_Teach]]"
   - "[[Argument_Laursen_2015_Paideia]]"
+  - "[[Argument_Kalmendal_2025_PsyArXiv]]"
 confidence: high
 status: active
 created: 2026-05-22
@@ -161,6 +163,16 @@ updated: 2026-10-16
 
 ---
 
+### 命题四　课堂管理构成了学校可自主干预且具备极高现实相关度的核心教学实践杠杆
+
+> [!concept-lens] 实践可干预性与专家德尔菲效度判定
+> 探讨在宏观证据库被外围不可控变量（如生理特征、早期养育）严重充斥的背景下，为何课堂管理始终被国际教育专家确立为一线学校改进的核心基石。
+
+> [!claim] [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]]
+> **专家德尔菲评审确立课堂管理为最高相关度教学杠杆之一** 卡尔门达尔等（Kalmendal et al., 2025）召集 5 位国际资深量化与教学论学者（ICC = 0.60）对《[[Visible Learning|可见的学习]]》全库 322 项影响因素的现实相关度进行 1–5 分独立评估。结果显示：课堂管理（Classroom Management）与[[Feedback|教学反馈]]并列荣登核心教学实践最高评级之列（$M = 4.75, SD = 0.50$），远超大量不可控的外围生理变量（如母乳喂养 $M=1.00$、低出生体重 $M=1.25$）以及神经神话（如学习风格匹配 $M=1.25$）。这一元科学评审表明：学校改进不能迷信涵盖海量外围因素的“大一统全要素排行榜”，而应坚定将专业发展与循证资源聚焦于教师在课堂现场完全可以主动作为、可直接观测并持续精进的组织管理基石之上。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 19–20, 22)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -169,6 +181,7 @@ updated: 2026-10-16
 > | **结构化托底** | 课堂管理通过时间统筹与活动衔接保障学习聚焦，而非单纯的人身控制。 | K–12 课堂教学组织、教师专业发展标准编制 | Håkansson; Laursen |
 > | **正向重定向** | 确立积极预期、表扬合规与温和重定向优于惩戒威慑，绝对禁止体罚与侮辱。 | 班级行为管理、课堂观察评价规程制定 | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] |
 > | **阶层补偿性** | 弱势与准备不足学生极度依赖清晰常规，缺乏管理的松散教学易加剧学业差距。 | 补偿教育政策、薄弱学校课堂改造 | Håkansson |
+> | **实践可干预性** | 专家评审获评最高相关评级（$M=4.75$），是抵御外围不可控因素干扰的核心改进抓手。 | 学校循证改进决策、循证资源配置优先级判定 | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] |
 
 ---
 
@@ -225,3 +238,4 @@ updated: 2026-10-16
 > - [[Argument_Håkansson_2015_TT|Håkansson (2015a)]] — 基于[[Comparative Meta-synthesis|比较性元综合]]系统阐释宽课堂管理内涵，揭示其对弱势群体的补偿性功能及防范消极纪律惩戒[[Discourse|话语]]。
 > - [[Argument_WorldBank_2019_Teach|[[Argument_WorldBank_2019_Teach|World Bank Group (2019)]]]] — 确立大规模[[Classroom Observation|课堂观察]]中在任务时间快照与积极行为预期的行为锚定评定规程，严禁体罚与语言羞辱。
 > - [[Argument_Laursen_2015_Paideia|Laursen (2015)]] — 结合丹麦国家社会科学研究所（[[Science Foundation Ireland|SFI]]）大规模实证调查，证实清晰一致的课堂管理是提升[[Academic Achievement|学业成绩]]的关键支撑。
+> - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 专家德尔菲评审确立课堂管理为现实相关度最高的前 3 项核心教学实践之一（$M=4.75$），为破除超级证据库外围不可控因素干扰、聚焦微观课堂干预提供实证判据。

@@ -7,9 +7,9 @@ summary: "元分析中识别和检验研究间效果变异来源的统计方法�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 17
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 15
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 tags:
 - moderator-analysis

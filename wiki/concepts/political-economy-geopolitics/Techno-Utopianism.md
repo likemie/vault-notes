@@ -161,7 +161,7 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska (2025, Ch01)]] — 剖析硅谷技术乌托邦主义如何使[[Intellectual Capital|智力资本]]错配到消费软件、造成公共[[Innovation Desert|创新荒漠]]；全书走向[[Technological Republic|技术共和国]]的架构见[[Argument_Karp_Zamiska_2025_Technological_Republic|总览]]。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska (2025, Ch01)]] — 剖析硅谷技术乌托邦主义如何使[[Intellectual Capital|智力资本]]错配到消费软件、造成公共[[Innovation Desert|创新荒漠]]；全书走向[[Technological Republic|技术共和国]]的架构见 [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] 总览页。
 
 ---
 

@@ -9,9 +9,9 @@ summary: "将规则主导的系统性程序与质性诠释深度融合的文本�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 53
-method_related_level: 6
-method_related_stars: "⭐⭐⭐⭐⭐⭐"
+method_related_count: 49
+method_related_level: 5
+method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative

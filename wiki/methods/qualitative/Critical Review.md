@@ -8,7 +8,7 @@ summary: "超越描述性文献汇总的定性研究综述方法，通过批判�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 28
+method_related_count: 27
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
