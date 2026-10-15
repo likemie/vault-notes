@@ -5,7 +5,6 @@ aliases:
   - 大学科研基础设施
   - 高校科研基础设施
   - University research infrastructure
-  - University-based research infrastructure
 summary: "在研究型大学内部依托公共研发资金建立的大型实验仪器平台、跨学科实验室、科研数据中心与学术网络体系；它是战后美国国家创新系统中前沿科学发现、高层次创新人才供给与民用颠覆性技术衍生的最核心策源底座。"
 type: concept
 domain: "higher-education"

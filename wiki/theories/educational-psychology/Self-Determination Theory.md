@@ -207,7 +207,7 @@ updated: 2026-10-16
 > > - **功能强化派（Eisenberger et al.）** 认为与绩效水平挂钩的奖励能传达高胜任感信息，从而增强动机。
 
 > [!critique]- 批评索引
-> - [[Argument_Chen_Cheung_2025_ERR]] — 实证指出，生成式 AI 虽然大幅满足了[[Affective Outcomes\|情感动机]]与自主感，但若缺乏显性思维阻力，高动机并不足以自发转化为高阶[[Metacognition\|元认知]]调控。
+> - [[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025)]] — 实证指出，生成式 AI 虽然大幅满足了[[Affective Outcomes\|情感动机]]与自主感，但若缺乏显性思维阻力，高动机并不足以自发转化为高阶[[Metacognition\|元认知]]调控。
 
 ---
 

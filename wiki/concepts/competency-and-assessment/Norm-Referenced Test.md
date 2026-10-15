@@ -3,7 +3,6 @@ title: Norm-Referenced Test
 aliases:
   - 常模参照测验
   - 常模参照评估
-  - norm-referenced test
   - norm-referenced assessment
   - Norm-Referenced
   - NRT

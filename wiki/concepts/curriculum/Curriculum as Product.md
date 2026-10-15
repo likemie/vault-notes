@@ -84,7 +84,7 @@ updated: 2026-10-16
 > [!feature] 核心要素
 > - **预设目标控制（Behavioral Objectives）** 以可测量的行为改变作为课程设计的绝对起点与终点。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 64)]]
 > - **教师技术员化（Teacher as Technician）** 教师被剥夺课程重构权力，沦为自上而下指令的执行者。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 65)]]
-> - **结果标准化（Standardized Measurement）** 依靠统一测试检验知识存货的再现准确度。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 65)]]
+> - **结果标准化（Standardized Measurement）** 依靠统一测试检验知识存货的再现准确度。
 
 > [!logic-map]- 要素关系
 > ```mermaid

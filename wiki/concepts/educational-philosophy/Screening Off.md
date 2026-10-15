@@ -3,7 +3,6 @@ title: Screening Off
 aliases:
   - 筛选隔离
   - 屏蔽
-  - screening off
 summary: "Reichenbach (1956) 提出的因果分析概念，指两个看似相关的变量因被第三个共同原因隔开而彼此不存在因果关系"
 type: concept
 domain: "educational-philosophy"

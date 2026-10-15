@@ -93,7 +93,7 @@ updated: 2026-10-16
 > | [[Structural Coupling\|结构耦合]]（Structural Coupling） | 机制 | 解释操作封闭系统之间如何实现非[[Causality\|因果性]]的结构关联；外部事件只能作为环境扰动被系统依据自身代码翻译吸收。 |
 > | 盲点（Blinder Fleck）与二阶观察 | 概念/方法 | 确立观察的[[Epistemology\|认识论]]界限：任何观察都必须建立某种二元区分，而观察者在此刻必然看不见自己用来区分的基准盲区。 |
 > | 心理系统 vs. 社会系统 | 分类 | 将意识运作（思考、内在心理）与社会运作（符号沟通）严格隔离，否定心理对社会或社会对心理的直接因果决定。 |
-> | [[Evidence Ecosystem\|复杂自适应系统]]（CAS） | 框架 | 在现代知识治理与政策网络中，将教育与科学研究视作多层级嵌套、非线性涌现与自组织演化的生态网络（Burns & Köster, 2016; [[Argument_Torres_2022_KMModels\|Torres, 2022]]）。 |
+> | [[Evidence Ecosystem\|复杂自适应系统]]（CAS） | 框架 | 在现代知识治理与政策网络中，将教育与科学研究视作多层级嵌套、非线性涌现与自组织演化的生态网络（Burns & Köster, 2016; [[Argument_Torres_2022_KMModels\|Torres, 2022b]]）。 |
 
 ---
 
@@ -115,7 +115,7 @@ updated: 2026-10-16
 > - **推导** ① 当[[Positivism\|实证主义]]教育研究（如可见学习）以量化[[Effect Size\|效应量]]观察课堂时，便设立了“可测量效果 vs. 不可测量过程”的二元区分；② 该研究体系在其框架内部绝不可能看到这项区分遗漏了什么（对不可知的无知）；③ 任何宣称穷尽课堂透明度、完全消除不确定性的宏大实证断言，在[[Epistemology\|认识论]]上都是陷入盲点自负的幻觉。
 
 > [!proposition-chain] 核心命题四｜教育治理与[[Knowledge Mobilisation\|知识动员]]是复杂自适应网络的自组织演化而非自上而下的行政操纵
-> - **前提一（子系统的功能分化）** 科学系统依据“真 / 假”代码运转，政治系统依据“权力 / 执政”代码运转，教育系统依据“可教 / 不可教（传递能力）”代码运转；各系统之间无从直接指挥对方。[[Argument_Torres_2022_KMModels\|(Torres, 2022, pp. 35–37)]]
+> - **前提一（子系统的功能分化）** 科学系统依据“真 / 假”代码运转，政治系统依据“权力 / 执政”代码运转，教育系统依据“可教 / 不可教（传递能力）”代码运转；各系统之间无从直接指挥对方。[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 35–37)]]
 > - **前提二（自组织[[Emergence\|涌现]]）** 教育系统具有多层级嵌套的生态属性，整体系统的行为与适应能力源于各行动者在反馈回路中的自发涌现，无法通过简单的中心指令机械规划（Burns & Köster, 2016）。
 > - **推导** ① 外部科研界生产的实证证据（科学代码）不能直接成为学校日常课堂行动的行动纲领；② 政策指令若想在学校落地，必须经历教育系统内部沟通的二次转译与自组织接纳；③ 知识动员模型必须超越流水线交付，转向理解多系统间的结构耦合与自适应生态网络。
 
@@ -153,7 +153,7 @@ updated: 2026-10-16
 > [!theory-use] 如何用于研究
 > - **作为批判性解构工具** 用于揭示主流[[Positivism\|实证主义]]或循证狂热（如 [[Visible Learning]]、算法治理）中的“全视之眼”神话，揭示其由于将复杂生命还原为可度量数字而产生的制度盲点（[[Argument_Larsen_2019_EducSci\|Larsen, 2019]]）。
 > - **作为[[Professional Judgment\|专业判断]]的辩护基石** 解释为何教学处方无法直接替代教师的现场审议：正因为心理系统对外部不可预测，教师的[[Professional Judgment\|专业判断]]才是连接社会教学要求与个体情境扰动不可或缺的“缺失环节”（[[Argument_Qvortrup_2019_NordSTEP\|Qvortrup, 2019]]）。
-> - **作为全系统治理[[Analytic Framework\|分析框架]]** 在宏观政策与[[Knowledge Mobilisation\|知识动员]]研究中，用于建构多层级嵌套的[[Evidence Ecosystem\|证据生态系统]]，阐明跨系统证据流转如何经历翻译、过滤与自适应演化（[[Argument_Torres_2022_KMModels\|Torres, 2022]]）。
+> - **作为全系统治理[[Analytic Framework\|分析框架]]** 在宏观政策与[[Knowledge Mobilisation\|知识动员]]研究中，用于建构多层级嵌套的[[Evidence Ecosystem\|证据生态系统]]，阐明跨系统证据流转如何经历翻译、过滤与自适应演化（[[Argument_Torres_2022_KMModels\|Torres, 2022b]]）。
 
 ---
 
@@ -174,7 +174,7 @@ updated: 2026-10-16
 > - **1984 — 《社会系统》（Soziale Systeme）出版** 标志着以沟通替代行动、以操作封闭与自创生为核心的社会系统理论完全成型。
 > - **1997 — 《社会的社会》（Die Gesellschaft der Gesellschaft）出版** 晚期集大成巨著，系统阐发功能分化社会的运行全景与二阶观察方法。
 > - **2002 — 《社会的教育系统》（Das Erziehungssystem der Gesellschaft）遗作出版** 详细将系统理论聚焦于教育子系统，剖析教育的“无法完结性”与不可操控悖论。
-> - **2016–2022 — 复杂系统与[[Epistemic Governance\|知识治理]]转向** Burns & Köster (2016) 与 [[Argument_Torres_2022_KMModels\|Torres (2022)]] 将系统理论与复杂自适应系统（[[Chinese Academy of Sciences|CAS]]）理论融汇，成为国际组织解析证据生态自组织演化的元理论基石。
+> - **2016–2022 — 复杂系统与[[Epistemic Governance\|知识治理]]转向** Burns & Köster (2016) 与 [[Argument_Torres_2022_KMModels\|Torres (2022b)]] 将系统理论与复杂自适应系统（[[Chinese Academy of Sciences|CAS]]）理论融汇，成为国际组织解析证据生态自组织演化的元理论基石。
 
 ---
 
@@ -201,4 +201,4 @@ updated: 2026-10-16
 > [!evidence-grid] [[Correlational Research\|相关研究]]索引
 > - **[[Argument_Larsen_2019_EducSci\|Larsen (2019)]]** 运用盲点（Blinder Fleck）与社会-心理系统[[Incommensurability\|不可通约性]]，对 [[Visible Learning]] [[Paradigm\|范式]]进行深刻的[[Epistemology\|认识论]]哲学批判。
 > - **[[Argument_Qvortrup_2019_NordSTEP\|Qvortrup (2019)]]** 运用[[Structural Coupling\|结构耦合]]与解释社群概念为[[Evidence-Based Education\|循证教育]]辩护，论证外部实证数据如何通过教师[[Professional Judgment\|专业判断]]转化为实践扰动。
-> - **[[Argument_Torres_2022_KMModels\|Torres (2022)]]** 将系统论与复杂自适应系统（[[Chinese Academy of Sciences|CAS]]）并置，作为第三代自组织[[Evidence Ecosystem\|证据生态系统]]的元理论分析支柱。
+> - **[[Argument_Torres_2022_KMModels\|Torres (2022b)]]** 将系统论与复杂自适应系统（[[Chinese Academy of Sciences|CAS]]）并置，作为第三代自组织[[Evidence Ecosystem\|证据生态系统]]的元理论分析支柱。

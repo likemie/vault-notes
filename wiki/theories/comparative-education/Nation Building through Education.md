@@ -131,12 +131,12 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!example] [[Correlational Research\|相关研究]]
-> - [[Argument_Yan_2025_JCS]] — 将香港 LS→[[Citizenship and Social Development\|CSD]] 案例纳入边疆国族建构框架
+> - [[Argument_Yan_2025_JCS|Yan and Morris (2025)]] — 将香港 LS→[[Citizenship and Social Development\|CSD]] 案例纳入边疆国族建构框架
 > - Vickers and Morris (2022) — 国安法与香港教育的"大陆化"
 > - Leibold and Dorjee (2024) — 西藏
 > - Tobin (2024) — 新疆
 > - [[Argument_Bulag_2024_CE\|Bulag (2024)]] — 内蒙古
-> - [[Argument_Yu_2024_CE]] — 课程文化与儒家复兴视角下的国族建构
+> - [[Argument_Yu_2024_CE|Yu and Zhao (2024)]] — 课程文化与儒家复兴视角下的国族建构
 
 ## 应用领域
 

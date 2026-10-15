@@ -42,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 
 # Inclusive Evidence Validation Typology
@@ -87,5 +87,5 @@ updated: 2026-09-17
 
 > [!example]
 > - [[Pact for Educational Excellence]] — 该类型学是在公约工作组筛选和验证 425 个候选教学工具/项目时建立的([[Argument_Dachet_2021_ECNUROE\|Dachet & Baye, 2021, pp.175-176]])。
-> - [[Argument_Dachet_2021_ECNUROE]] — 该论证页展示此类型学如何成为法语比利时[[Evidence-Based Reform\|证据本位改革]]的过渡机制。
+> - [[Argument_Dachet_2021_ECNUROE|Dachet and Baye (2021)]] — 该论证页展示此类型学如何成为法语比利时[[Evidence-Based Reform\|证据本位改革]]的过渡机制。
 

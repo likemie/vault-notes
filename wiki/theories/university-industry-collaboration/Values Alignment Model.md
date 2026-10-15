@@ -2,7 +2,6 @@
 title: Values Alignment Model
 aliases:
   - 价值对齐模型
-  - values alignment model
 summary: "Swick and Jones（2025）提出的产学合作框架，以学术健康系统为促进者，通过以患者为中心重新对齐大学、产业和医院之间的优先级差异和共同目标，平衡各方的利益驱动力与反向拉力"
 type: theory
 theory_field: "university-industry-collaboration"

@@ -2,7 +2,6 @@
 title: Compound Causes
 aliases:
   - 复合原因
-  - compound causes
 summary: "多个原因只有共同作用时才施加因果力的因果结构类型，与单一充分原因和交互效应区分明确"
 type: concept
 domain: "educational-philosophy"

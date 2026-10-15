@@ -2,7 +2,6 @@
 title: Multilevel Mixed Methods Sampling
 aliases:
   - 多层次混合方法抽样
-  - multilevel mixed methods sampling
 summary: "不同分析单位层次使用不同类型样本的混合方法抽样设计，各层次根据自身研究问题和数据可得性独立选择最合适的抽样策略"
 type: method
 method_type: mixed

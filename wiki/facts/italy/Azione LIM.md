@@ -81,5 +81,5 @@ updated: 2026-05-23
 
 > [!tip]-
 > - [[Technology Infusion]] — Azione LIM 是欧洲语境中的教育技术投入案例。
-> - [[Argument_Pellegrini_2021_ECNUROE]] — 该案例用于说明证据本位政策选择为何能避免高成本低效果投入。
+> - [[Argument_Pellegrini_2021_ECNUROE|Pellegrini and Vivanet (2021)]] — 该案例用于说明证据本位政策选择为何能避免高成本低效果投入。
 

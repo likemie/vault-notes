@@ -2,7 +2,6 @@
 title: Settler Colonialism
 aliases:
   - 定居殖民主义
-  - settler colonialism
   - 定居者殖民主义
 summary: "沃尔夫提出的殖民主义形式理论，核心是消除的逻辑而非剥削的逻辑，近年被西方学者用于分析新疆的汉人移民与维吾尔人关系"
 type: theory

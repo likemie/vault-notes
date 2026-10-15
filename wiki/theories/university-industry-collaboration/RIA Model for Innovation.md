@@ -27,7 +27,7 @@ related_arguments:
 confidence: low
 status: draft
 created: 2026-06-03
-updated: 2026-10-02
+updated: 2026-10-16
 ---
 
 # RIA Model for Innovation
@@ -67,5 +67,5 @@ updated: 2026-10-02
 
 > [!example]
 > - [[Schlegel-UW Research Institute for Aging]] — 模型的来源组织和首要应用场景
-> - [[Argument_Dean_2025_UICollaborationSupport]] — 全章以 RIA 为核心案例，RIA 创新模型被用于说明[[University-Industry Collaboration\|产学合作]]中多重机制的协同运作
+> - [[Argument_Dean_2025_UICollaborationSupport|Dean et al. (2025)]] — 全章以 RIA 为核心案例，RIA 创新模型被用于说明[[University-Industry Collaboration\|产学合作]]中多重机制的协同运作
 

@@ -2,7 +2,6 @@
 title: Mixed Methods Participatory-Social Justice Design
 aliases:
   - 混合方法参与式社会正义设计
-  - mixed methods participatory-social justice design
   - mixed methods social justice design
   - mixed methods participatory action research
   - 混合方法参与式行动研究

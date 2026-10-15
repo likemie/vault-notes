@@ -2,7 +2,6 @@
 title: Circular Transfer
 aliases:
   - 循环转移
-  - circular transfer
 summary: "Steiner-Khamsi 提出的概念，指教育思想或实践在出借者和借用者之间来回移动的过程，如殖民地在独立前被用作教育改革的实验室"
 type: concept
 domain: "comparative-education"

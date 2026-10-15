@@ -103,7 +103,7 @@ updated: 2026-10-16
 >
 > 核心发现：**5 项最重元分析中 4 项未研究 Hattie 所定义的反馈**（即代理人提供关于表现或理解的信息）。Hattie 反馈效应量的证据基础因此受到严重质疑。
 >
-> 详见 [[Feedback]]、[[Argument_Nielsen_2021_NordPsych]]。
+> 详见 [[Feedback]]、[[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]]。
 
 
 > [!info] VL 对学生意向性的系统性边缘化（2021, IRTP）
@@ -116,7 +116,7 @@ updated: 2026-10-16
 > - [[Visible Learning]] — 提供 Habermas 框架下的[[Legitimation Crisis|合法化危机]]解释，补充方法论（Wrigley/Simpson）、制度（Cowen）、分析[[Epistemology\|认识论]]（Wiliam）和文化政治（McKnight & Whitburn）批评
 > - [[Feedback]] — 对 Hattie 反馈[[Effect Size\|效应量]]（d=0.73）的 5 项最重[[Meta-analysis\|元分析]]进行逐项细读审查，发现 4/5 未研究同一现象
 > - Argument_Nielsen_2021_IRTP — 以 Habermas 合法化危机理论解释 Hattie VL 全球流行的理论分析
-> - [[Argument_Nielsen_2021_NordPsych]] — 以技术理性为框架论证 Hattie 是教育理论家，对反馈元分析的系统性细读审查
+> - [[Argument_Nielsen_2021_NordPsych|Nielsen and Klitmøller (2021a)]] — 以技术理性为框架论证 Hattie 是教育理论家，对反馈元分析的系统性细读审查
 
 ## 思想发展与影响
 

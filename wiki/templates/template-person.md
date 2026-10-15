@@ -103,7 +103,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > - **跨国／跨领域传播** 思想如何被翻译、再脉络化、商业化或争议化。
 
 > [!evidence-grid-a]- 相关研究索引
-> - [[Argument_Author_Year_Journal]] — 一句话说明该研究如何使用、延伸或批评此人的思想。
+> - [[Argument_Author_Year_Journal|Author (Year)]] — 一句话说明该研究如何使用、延伸或批评此人的思想。
 
 ---
 
@@ -151,7 +151,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > > - **<学者名>（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 > [!critique]- 批评索引
-> - [[Argument_Author_Year_Journal]] — 一句话说明该研究如何批评此人的思想、方法或影响。
+> - [[Argument_Author_Year_Journal|Author (Year)]] — 一句话说明该研究如何批评此人的思想、方法或影响。
 
 > [!warning] 未解问题与边界
 > 若有回应，说明回应立场；若无，说明学界目前仍存的争议或空白。

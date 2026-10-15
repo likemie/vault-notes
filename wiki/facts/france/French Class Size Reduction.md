@@ -78,5 +78,5 @@ updated: 2026-05-23
 
 > [!tip]-
 > - [[Class Size]] — 该政策是欧洲班额政策的证据知情案例。
-> - [[Argument_Pellegrini_2021_ECNUROE]] — 该案例用于说明证据能够帮助政策制定者比较成本和效果。
+> - [[Argument_Pellegrini_2021_ECNUROE|Pellegrini and Vivanet (2021)]] — 该案例用于说明证据能够帮助政策制定者比较成本和效果。
 

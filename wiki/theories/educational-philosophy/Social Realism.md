@@ -2,7 +2,6 @@
 title: Social Realism
 aliases:
   - 社会实在论
-  - social realism
 summary: "教育研究中的认识论框架，强调学科知识的重要性，认为知识独立于知者存在且是社会建构的，同时承认知识会变化"
 type: theory
 theory_field: "educational-philosophy"

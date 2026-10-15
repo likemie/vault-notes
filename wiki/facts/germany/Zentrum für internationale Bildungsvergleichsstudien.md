@@ -165,5 +165,5 @@ updated: 2026-10-15
 > | [[PISA]] | Fact (Program) | ZIB 在德国全权承担研发、抽样与国家评估报告编制的旗舰项目。 |
 > | [[Educational Evidence Clearinghouses]] | Concept | ZIB 与清算中心的结合代表着国家宏观监测向清算微观转化的先进形态。 |
 > | [[Tina Seidel]] | Person | TUM 讲席教授，主政 CHU 并深度参与两机构在教师教育领域的转化协同。 |
-> | [[Argument_Knogler_2025_BB]] | Argument | 剖析 ZIB 与 CHU 在德国证据中介双轨协同架构中的实践论述。 |
-> | [[Argument_Hartong_2018_GSE]] | Argument | 剖析 ZIB 作为国际测评接口在德国跨尺度[[Data Infrastructure\|数据基础设施]]中的定位。 |
+> | [[Argument_Knogler_2025_BB|Knogler et al. (2025)]] | Argument | 剖析 ZIB 与 CHU 在德国证据中介双轨协同架构中的实践论述。 |
+> | [[Argument_Hartong_2018_GSE|Hartong (2018)]] | Argument | 剖析 ZIB 作为国际测评接口在德国跨尺度[[Data Infrastructure\|数据基础设施]]中的定位。 |

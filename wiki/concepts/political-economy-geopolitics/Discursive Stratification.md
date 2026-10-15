@@ -2,7 +2,6 @@
 title: Discursive Stratification
 aliases:
   - 话语分层
-  - discursive stratification
 summary: "高等教育新政治经济学的两大分析路径之一，主张排名、评估和指标等话语实践积极参与建构社会不平等和等级秩序，而非仅仅反映既有的权力结构"
 type: concept
 domain: "political-economy-geopolitics"

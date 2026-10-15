@@ -90,7 +90,7 @@ updated: 2026-10-16
 
 > [!feature] 变革性系统失灵的四大核心维度
 > - **方向性失灵（[[Directionality of Innovation|directionality]] Failure）** 系统缺乏共享的集体转型愿景与明确的优先发展目标，研发投资与创新活动在多种竞争性技术路线中缺乏战略聚焦与[[Public Value|公共价值]]牵引。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 475)]]
-> - **需求表达失灵（Demand Articulation Failure）** 公众、用户与下游采购者的前瞻性社会需求无法有效聚合，难以形成能够拉动新兴绿色与健康技术的市场信号与公共采购机制。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 475)]]
+> - **需求表达失灵（Demand Articulation Failure）** 公众、用户与下游采购者的前瞻性社会需求无法有效聚合，难以形成能够拉动新兴绿色与健康技术的市场信号与公共采购机制。
 > - **政策协调失灵（Policy Coordination Failure）** 科技、环保、产业与财政等不同部委之间以及中央与地方政府之间政策目标脱节，陷入[[Problem of Many Hands|多手难题]]与管辖权冲突。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 475–477)]]
 > - **[[Reflexivity|反思性]]失灵（Reflexivity Failure）** [[Systems of Innovation|创新系统]]缺乏常态化的监测评估、社会学习与纠偏通道，容易忽视外部环境变化并过早陷入次优技术的路径锁定。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 475, 485)]]
 

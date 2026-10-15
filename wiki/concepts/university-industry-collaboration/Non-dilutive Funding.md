@@ -3,7 +3,6 @@ title: Non-dilutive Funding
 aliases:
   - "非稀释性资助"
   - "非稀释性资金"
-  - "non-dilutive funding"
   - "non-dilutive grant"
   - "非稀释性拨款"
 summary: "不需要创始团队出让股权的资助形式，包括大学内部产品验证拨款和政府研发资助，是大学衍生企业在获得风险投资前填补早期资金缺口、验证技术可行性的关键资金来源"

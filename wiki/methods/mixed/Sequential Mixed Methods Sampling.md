@@ -2,7 +2,6 @@
 title: Sequential Mixed Methods Sampling
 aliases:
   - 顺序混合方法抽样
-  - sequential mixed methods sampling
 summary: "一种样本先于另一种并影响后续样本的混合方法抽样设计，定量数据可为深度访谈设置场景，或定性数据可为量化调查识别议题"
 type: method
 method_type: mixed

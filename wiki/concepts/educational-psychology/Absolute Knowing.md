@@ -2,7 +2,6 @@
 title: Absolute Knowing
 aliases:
   - 绝对认知
-  - absolute knowing
 summary: "认识论反思模型（ERM）的基础阶段，认为知识是绝对确定并由权威掌握的。"
 type: concept
 domain: "educational-psychology"

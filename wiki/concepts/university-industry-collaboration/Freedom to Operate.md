@@ -3,7 +3,6 @@ title: Freedom to Operate
 aliases:
   - FTO
   - 自由实施权
-  - freedom to operate
   - freedom-to-operate
 summary: "知识产权战略中的核心概念，指企业在商业化一项技术时不受第三方既有知识产权阻碍的能力，是产学合作中产业方评估背景 IP 需求的核心关切"
 type: concept

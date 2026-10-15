@@ -2,7 +2,6 @@
 title: PISA Score Negative Correlation
 aliases:
   - PISA 分数负相关
-  - PISA score negative correlation
   - PISA 高分低能
 summary: "PISA 高分国家的学生表现出更低的学科兴趣、更低的幸福感、更低的创业信心，以及更威权的教育取向"
 type: concept

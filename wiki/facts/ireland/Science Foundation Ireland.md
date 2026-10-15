@@ -67,7 +67,7 @@ updated: 2026-10-15
 
 > [!dev-timeline] 组织发展历程
 > - **2000–2003 — 机构创设与海外制度借鉴** 爱尔兰政府为承接“凯尔特之虎”（Celtic Tiger）经济腾飞并向高附加值研发转型，设立 SFI；为迅速建立世界级科研评审标准，SFI 直接聘任[[National Science Foundation|美国国家科学基金会]]（[[National Science Foundation|NSF]]）前科学与数学学部主任威廉·哈里斯（Dr. William Harris）出任首任总干事。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 369–370)]]
-> - **2003–2012 — 移植 [[Engineering Research Centers|ERC]] 模式创设 CSET 中心群** 在哈里斯主导下，SFI 深度移植美国 NSF [[Engineering Research Centers|工程研究中心]]（ERC）的治理模式与评估机制，在全爱尔兰高校设立科学、工程与技术中心（Centers for Science, Engineering, and Technology, CSETs），推动跨国企业（如英特尔、辉瑞、IBM）与爱尔兰高校建立长效实体研发中心。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 369–370)]]
+> - **2003–2012 — 移植 [[Engineering Research Centers|ERC]] 模式创设 CSET 中心群** 在哈里斯主导下，SFI 深度移植美国 NSF [[Engineering Research Centers|工程研究中心]]（ERC）的治理模式与评估机制，在全爱尔兰高校设立科学、工程与技术中心（Centers for Science, Engineering, and Technology, CSETs），推动跨国企业（如英特尔、辉瑞、IBM）与爱尔兰高校建立长效实体研发中心。
 > - **2012 年至今 — SFI 研究中心旗舰网络与机构重组** CSET 计划升级拓展为 16 所大规模 SFI 研究中心（SFI Research Centres，如微电子 Tyndall、生物医药 APC Microbiome 等）；2024 年爱尔兰推进科研资助体制深化改革，将 SFI 与爱尔兰研究理事会（IRC）合并重组为统一的爱尔兰国家研究与创新署（Taighde Éireann / Research Ireland）。
 
 ---

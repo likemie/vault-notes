@@ -3,7 +3,6 @@ title: Innovation Institute for Food and Health
 aliases:
   - "食品与健康创新研究所"
   - "IIFH"
-  - "Innovation Institute for Food and Health"
 summary: "2015 年 Mars and UC Davis 共同建立的产学合作创新平台，以催化食品、农业和健康领域的学术-产业创新为目标，已吸引 21 个额外伙伴，代表性成果包括天然青色色素发现和周期性食物表倡议"
 type: fact
 subtype: organization

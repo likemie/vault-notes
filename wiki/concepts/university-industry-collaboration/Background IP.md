@@ -4,7 +4,6 @@ aliases:
   - BIP
   - 背景知识产权
   - background intellectual property
-  - background IP
 summary: "产学合作协议中定义的合作前各方独立开发的知识产权，产业方需要获得足够访问权以确保对前景 IP 的自由实施"
 type: concept
 domain: "university-industry-collaboration"

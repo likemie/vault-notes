@@ -52,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Confucian Learning Tradition
@@ -145,7 +145,7 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!example]
-> - [[Argument_Li_2012_Cambridge]] — Li 全书以儒家学习传统与西方学习传统的系统比较为核心论证框架
+> - [[Argument_Li_2012_Cambridge|Li (2012)]] — Li 全书以儒家学习传统与西方学习传统的系统比较为核心论证框架
 > - [[Chinese Learner]] — 该概念直接来源于对儒家学习传统的研究
 
 ---

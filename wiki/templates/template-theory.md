@@ -180,11 +180,11 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > > - **<学者名>（Year）** 一句话立场。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 > [!critique]- 批评索引
-> - [[Argument_Author_Year_Journal]] — 一句话说明该研究如何批评、修正或限制该理论。
+> - [[Argument_Author_Year_Journal|Author (Year)]] — 一句话说明该研究如何批评、修正或限制该理论。
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Author_Year_Journal]] — 一句话说明该研究如何使用、检验、修正或批评该理论。
+> - [[Argument_Author_Year_Journal|Author (Year)]] — 一句话说明该研究如何使用、检验、修正或批评该理论。

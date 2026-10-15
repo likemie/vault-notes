@@ -87,9 +87,9 @@ updated: 2026-10-15
 ## 主要贡献
 
 > [!success] 主要贡献
-> - [[Argument_Qvortrup_2015_Paideia]] — VL 支持者立场讨论论文，提出[[Dynamic Knowledge and Learning Model\|动态知识与学习模型]]以回应学习结果概念问题
+> - [[Argument_Qvortrup_2015_Paideia|Qvortrup (2015)]] — VL 支持者立场讨论论文，提出[[Dynamic Knowledge and Learning Model\|动态知识与学习模型]]以回应学习结果概念问题
 > - [[Dynamic Knowledge and Learning Model]] — Qvortrup 为修正 VL 的学习结果概念而提出的四阶知识模型
-> - [[Argument_Qvortrup_2019_NordSTEP]] — VL 支持者立场讨论论文
+> - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] — VL 支持者立场讨论论文
 > - [[Professional Judgment]] — Qvortrup 提出专业判断作为 VL 中教学干预与学习成果之间的"缺失环节"
 > - [[Visible Learning]] — 为 VL 批评文献提供了一篇系统的支持方回应
 

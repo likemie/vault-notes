@@ -209,4 +209,4 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 践行方法论跨国主义框架，将全球五大组织与国家政策周期置于统一的[[Relational Space\|关系性空间]]中加以考察。
-> - [[Argument_Beech_2009_CE\|Beech (2009)]] — 批判比较教育学中的国家术语偏见，倡导[[Space of Flows\|流动空间]]与[[Space of Places\|地方空间]]的多尺度转译分析。
+> - [[Argument_Beech_2009_CE\|Beech (2009a)]] — 批判比较教育学中的国家术语偏见，倡导[[Space of Flows\|流动空间]]与[[Space of Places\|地方空间]]的多尺度转译分析。

@@ -2,7 +2,6 @@
 title: Pre-Transfer Agency
 aliases:
   - 前转移能动性
-  - pre-transfer agency
 summary: "外国范例进入国内教育话语之初的引入者及其动机与策略，区别于政策实施后的后转移能动性，由 Rappleye (2006) 在响应 Steiner-Khamsi 时明确提出"
 type: concept
 domain: "comparative-education"

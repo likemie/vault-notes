@@ -75,5 +75,5 @@ updated: 2026-05-23
 
 > [!tip]-
 > - [[Educational Evidence Clearinghouses]] — Campbell 是欧洲相关证据基础设施中的[[Systematic Review\|系统综述]]型组织。
-> - [[Argument_Pellegrini_2021_ECNUROE]] — 集中说明 Campbell 等组织在欧洲证据政策论证中的位置。
+> - [[Argument_Pellegrini_2021_ECNUROE|Pellegrini and Vivanet (2021)]] — 集中说明 Campbell 等组织在欧洲证据政策论证中的位置。
 

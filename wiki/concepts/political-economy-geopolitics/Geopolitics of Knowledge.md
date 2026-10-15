@@ -346,7 +346,7 @@ updated: 2026-10-16
 > 2. **[[Online Self-Assessment\|OSA]] 作为 GPK 治理工具** 将 GPK 的竞争逻辑[[Operationalization\|操作化]]为个体化的自我评估实践——潜在学生被引导将自身与"完美匹配"的理想形象对齐，[[Digital Self\|数字自我]]与[[Digital Optimum\|数字最优]]之间的差距驱动着永不停息的自我优化（[[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, pp.224–226]]）
 > 3. **[[Promising Student\|有前景的学生]]：[[Geopolitical Subject\|地缘政治主体]]的教学变体** GPK 在教学治理层面产出的主体形态——通过自我技术被"呼唤"出来的、主动自我评估和优化的学术主体（[[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022, pp.221–222]]）
 
-详见 [[Argument_Thompson_2022_Promising_Student]]。
+详见 [[Argument_Thompson_2022_Promising_Student|Thompson et al. (2022)]]。
 
 ---
 
@@ -368,7 +368,7 @@ updated: 2026-10-16
 > 3. **[[Self-Entrepreneur\|自我企业家]]：GPK 的全球主体形态** SCD 所生产的自我企业家——以[[Employability\|就业力]]和市场为导向、以意愿和激情为生产要素的主体性——正在全球范围内成为"心灵景观"（Moisio & Kangas, 2016, p.275, cit. by Zelinka, 2022, p.260）
 > 4. **[[Governing at a Distance\|远距治理]]的微观运作** SCD 框架通过界定"未来所需的关键技能"进行远距治理——不依赖直接命令，而是通过创造可欲的自我引导形式使各国和个体"自愿"采纳。详见 [[Governmentality#远距治理]]（[[Argument_Zelinka_2022_SCD_subjectivity\|Zelinka, 2022, pp.264-265]]）
 
-详见 [[Argument_Zelinka_2022_SCD_subjectivity]]。
+详见 [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022)]]。
 
 ---
 

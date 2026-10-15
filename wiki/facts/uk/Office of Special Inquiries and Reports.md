@@ -67,7 +67,7 @@ updated: 2026-10-15
 > 英国枢密院教育委员会（后为教育署）于 1895 年设立的官方跨国教育情报与政策调查中枢，由[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler）出任首任局长。该机构以德国为核心参照系开创了系统的比较研究，开辟了比较教育由 19 世纪督学行政视察走向国家常设智库与 20 世纪大学建制化转型的历史枢纽。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88, 89–90)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 1895 年创立于英国伦敦。19 世纪末，维多利亚英国面临德国与美国在第二次工业革命中的激烈竞争，朝野迫切需要系统收集大陆国家（尤其是普鲁士与法国）及美国的公立教育经验，以推动本国迟缓的中等与技术教育体系改革。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 43–45)]]
+> - **成立时间 / 创设背景** 1895 年创立于英国伦敦。19 世纪末，维多利亚英国面临德国与美国在第二次工业革命中的激烈竞争，朝野迫切需要系统收集大陆国家（尤其是普鲁士与法国）及美国的公立教育经验，以推动本国迟缓的中等与技术教育体系改革。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 43–45)]]
 > - **推动主体与领军人物** 由议会副议长阿瑟·阿克兰（Arthur Acland）倡导设立，首任局长为著名比较教育学家迈克尔·萨德勒（任期 1895–1903），核心研究员包括后来出任常务次官的罗伯特·莫兰特（Robert Morant）。
 > - **法人属性与隶属机制** 英国中央政府教育部门内设的专业情报与调查分支，直接由官方财政全额资助，享有相对独立的学术调查权限。
 > - **核心宗旨与法定职责** 收集、提炼并出版国内外各类教育体系的实践经验，评估英国在国际效能竞争中的相对位置，为国家立法改良凝聚全民族共识。[[Argument_Kazamias_2009_ForgottenThemes|(Higginson, 1961: 289; Kazamias, 2009, p. 45)]]
@@ -77,10 +77,10 @@ updated: 2026-10-15
 ## 历史沿革与组织演变
 
 > [!timeline] 机构演进时间线
-> - **1894–1895 年** 英国中等教育皇家委员会（布赖斯委员会 Bryce Commission）完成调查后，[[Michael Sadler|萨德勒]]力陈必须建立常设的教育情报调查机构；英国政府正式设立特别调查与报告办公室（OSIR），任命萨德勒为首任主任。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, pp. 44–45)]]
+> - **1894–1895 年** 英国中等教育皇家委员会（布赖斯委员会 Bryce Commission）完成调查后，[[Michael Sadler|萨德勒]]力陈必须建立常设的教育情报调查机构；英国政府正式设立特别调查与报告办公室（OSIR），任命萨德勒为首任主任。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, pp. 44–45)]]
 > - **1897 年** 出版首卷《教育专题报告》（*Special Reports on Educational Subjects*），开创将外国学制置于深层社会历史脉络中审视的方法典范。
 > - **1898 年** 萨德勒发表《普鲁士男子中等教育问题》专论，以德国为核心参照系系统剖析工业崛起与教育学制间的深层动力机制。(Sadler, 1898; [[Argument_Mitter_2009_Europe|Mitter, 2009, p. 88]])
-> - **1900 年** 萨德勒在任内发表著名的吉尔福德演说，首倡“[[Intangible Spiritual Forces|校外无形精神力量]]”与教育有机体不可机械移植假说，奠定历史主义比较教育学的理论根基。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009, p. 44)]]
+> - **1900 年** 萨德勒在任内发表著名的吉尔福德演说，首倡“[[Intangible Spiritual Forces|校外无形精神力量]]”与教育有机体不可机械移植假说，奠定历史主义比较教育学的理论根基。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, p. 44)]]
 > - **1902–1903 年** 英国颁布《1902 年巴尔福教育法》，OSIR 成果全面转化为地方中等教育体系构建的理论支撑；1903 年因抗拒常任次官罗伯特·莫兰特对研究独立性的官僚干预，萨德勒愤然辞职。
 > - **1903 年之后** 萨德勒转任曼彻斯特大学教席，其在 OSIR 开创的研究进路直接催生了现代大学比较教育在英国的率先扎根，并最终由伦敦大学教育研究院（IOE）全面发扬光大。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88, 89–90)]]
 
@@ -144,10 +144,10 @@ updated: 2026-10-15
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Michael Sadler\|迈克尔·萨德勒]] | 人物 | 推动创设并出任首任主任，确立教育情报局三大职能并主持编纂 11 卷专题报告。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 44–45)]] |
+> | [[Michael Sadler\|迈克尔·萨德勒]] | 人物 | 推动创设并出任首任主任，确立教育情报局三大职能并主持编纂 11 卷专题报告。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 44–45)]] |
 > | [[State Educational Sovereignty\|国家教育主权]] | 概念 | 机构的设立源于主权国家在工业竞争中对国民教育效能的全面掌控与系统自保。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 87–88)]] |
 > | [[Policy Borrowing\|政策借用]] | 概念 | 告别业余走马观花式的机械移植，奠定基于社会文化[[Rich and Thick Description\|深描]]的科学政策借鉴规范。 |
 > | [[Isaac Kandel\|艾萨克·坎德尔]] | 人物 | 继承萨德勒在 OSIR 的研究遗产，将历史文化[[Analytic Framework\|分析框架]]在跨大西洋学术界发扬光大。 |
 > | [[Wolfgang Mitter\|沃尔夫冈·米特]] | 人物 | 阐明 OSIR 以德国为核心参照系、作为 19 世纪督学视察与 20 世纪大学教席建制化枢纽的学科史地位。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 88, 89–90)]] |
 > | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 梳理萨德勒创设 OSIR 并推动比较教育率先在英国大学扎根生长的历史贡献。 |
-> | [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009)]] | 论证 | 思想史考察 OSIR 的智库职能设计与萨德勒在维多利亚晚期的学术独立性抗争。 |
+> | [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] | 论证 | 思想史考察 OSIR 的智库职能设计与萨德勒在维多利亚晚期的学术独立性抗争。 |

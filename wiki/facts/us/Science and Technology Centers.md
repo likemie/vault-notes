@@ -63,7 +63,7 @@ updated: 2026-10-07
 > - **立项时间 / 周期** 1987 年在 NSF 主任[[Erich Bloch|埃里希·布洛赫]]（Erich Bloch）与[[National Academy of Sciences|美国国家科学院]]院长弗兰克·普雷斯（Frank Press）推动下正式立项，1989 年首批中心落地，作为常态化重大计划持续运行至今。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 369)]]
 > - **发起方与资助机制** 由 NSF 统筹发起与资助，采用长周期合作研究协议（Cooperative Research Agreements）机制；引入联邦[[Seed Funding|种子资助]]杠杆，联合主办高校、州政府、私营产业界及国家实验室提供多元配套。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 366, 369)]]
 > - **覆盖范围与对象** 覆盖全美顶尖[[Research Universities|研究型大学]]理学院与跨学科前沿实验室，涵盖材料科学、纳米技术、量子信息、集成生物学、气候与海洋科学等重大基础科学领域。
-> - **核心问题导向** 应对基础科学前沿日益复杂的跨学科[[Big Science|大科学]]挑战，克服传统单一学科院系与单一首席研究员（PI）自由探索模式在攻关重大复杂科学前沿时的组织碎片化壁垒。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 366, 369)]]
+> - **核心问题导向** 应对基础科学前沿日益复杂的跨学科[[Big Science|大科学]]挑战，克服传统单一学科院系与单一首席研究员（PI）自由探索模式在攻关重大复杂科学前沿时的组织碎片化壁垒。
 
 ---
 
@@ -75,7 +75,7 @@ updated: 2026-10-07
 > [!policy-design]- 方案设计
 > - **项目目标** 推动基础科学领域的跨学科重大突破，促进科学知识向工程[[Research Translation|技术转化]]，培养具备多学科系统思维的拔尖青年学者。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 369)]]
 > - **覆盖对象** 全美高水平大学跨学科理科科研团队、国家实验室研发人员、博士生与博士后。
-> - **干预措施** [[National Science Foundation|NSF]] 提供为期 5 年并可竞争性延长至 10 年的高强度资助（2003 财年工程学学部子支出即达约 796 万美元，全基金会总资助达数千万美元）；要求中心设立教育与公众参与网络，整合共享前沿实验设施。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, p. 369)]]
+> - **干预措施** [[National Science Foundation|NSF]] 提供为期 5 年并可竞争性延长至 10 年的高强度资助（2003 财年工程学学部子支出即达约 796 万美元，全基金会总资助达数千万美元）；要求中心设立教育与公众参与网络，整合共享前沿实验设施。
 > - **实施控制** 实行严格的期中实地考察与同行专家评估；贯彻[[Sunset Provisions|日落条款]]，要求中心在 10 年资助期满前自建多元外部造血机制。[[Argument_Bozeman_2004_JTT|(Bozeman & Boardman, 2004, pp. 369, 374)]]
 
 > [!citation-card] 1987 年布洛赫致信国家[[Chinese Academy of Sciences|科学院]]论 STC 的机制继承

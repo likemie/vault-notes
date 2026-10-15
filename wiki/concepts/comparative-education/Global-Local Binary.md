@@ -3,7 +3,6 @@ title: Global-Local Binary
 aliases:
   - 全球/地方二元对立
   - global/local binary
-  - global-local binary
 summary: "将全球与地方视为对立两极的分析框架，被批评为过度简化、掩盖复杂性，是比较教育需要超越的概念局限"
 type: concept
 domain: "comparative-education"

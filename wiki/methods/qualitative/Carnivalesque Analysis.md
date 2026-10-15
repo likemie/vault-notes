@@ -33,7 +33,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 ## 定义
@@ -91,6 +91,6 @@ updated: 2026-10-15
 ## 使用此方法的研究
 
 > [!example] 使用此方法的研究
-> - [[Argument_Bainbridge_2022_ROE]] — 以嘉年华式分析揭露英国[[Grammar School\|文法学校]]政策论证中"好学校"[[Discourse|话语]]的荒谬性
+> - [[Argument_Bainbridge_2022_ROE|Bainbridge et al. (2022)]] — 以嘉年华式分析揭露英国[[Grammar School\|文法学校]]政策论证中"好学校"[[Discourse|话语]]的荒谬性
 >
 

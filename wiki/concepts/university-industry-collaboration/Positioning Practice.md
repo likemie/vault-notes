@@ -2,7 +2,6 @@
 title: Positioning Practice
 aliases:
   - 定位实践
-  - positioning practice
   - academic positioning
 summary: "Angermuller 的话语理论概念，将学术交流分析为行动者通过职称、机构隶属和发表记录等地位范畴持续主张自身位置和界定他人归属的日常话语实践，构成学术等级的微观再生产"
 type: concept

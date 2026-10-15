@@ -204,4 +204,4 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 系统引入马丁·怀特的三大传统，界定了比较教育学术形态下注意力议程的在场与缺席机制。
-> - [[Argument_Cowen_2009_CE\|Cowen (2009)]] — 奠定了“[[Readings of the Global\|阅读全球]]”[[Discourse|话语]]变迁与教育转移形态变形的理论脉络。
+> - [[Argument_Cowen_2009_CE\|Cowen (2009b)]] — 奠定了“[[Readings of the Global\|阅读全球]]”[[Discourse|话语]]变迁与教育转移形态变形的理论脉络。

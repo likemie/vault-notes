@@ -85,6 +85,6 @@ updated: 2026-10-16
 ## 相关概念／理论
 
 > [!tip]-
-> - [[Argument_Pellegrini_2021_ECNUROE]] — 该政策是欧洲[[Evidence-Based Reform\|证据本位改革]]面临评估复杂性的核心案例。
+> - [[Argument_Pellegrini_2021_ECNUROE|Pellegrini and Vivanet (2021)]] — 该政策是欧洲[[Evidence-Based Reform\|证据本位改革]]面临评估复杂性的核心案例。
 > - [[EU Evidence-Informed Education Policy Initiatives]] — 该框架与[[EU|欧盟]]证据知情政策共同构成欧洲教育治理背景。
 

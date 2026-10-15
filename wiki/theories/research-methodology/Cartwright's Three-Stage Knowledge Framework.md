@@ -102,7 +102,7 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!example] [[Correlational Research\|相关研究]]
-> - [[Argument_Cowen_2015_CHESS]] — 以三阶段框架为核心理论框架，通过教师访谈验证外推问题的实践表现
+> - [[Argument_Cowen_2015_CHESS|Cowen et al. (2015)]] — 以三阶段框架为核心理论框架，通过教师访谈验证外推问题的实践表现
 
 ## 应用领域
 

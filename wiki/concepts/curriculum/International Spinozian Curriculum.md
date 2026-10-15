@@ -2,7 +2,6 @@
 title: International Spinozian Curriculum
 aliases:
   - 国际斯宾诺莎主义课程
-  - international Spinozian curriculum
 summary: "由 Cole (2005) 提出的一种以想象力和情感政治为核心的课程设计主张，主张在内在性平面上通过组合学生身体的相遇与欲力以引导智识创新。"
 type: concept
 domain: "curriculum"

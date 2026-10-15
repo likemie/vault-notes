@@ -104,7 +104,7 @@ updated: 2026-10-15
 > - **1986–1994 — 乌拉圭回合确立服务贸易规则** GATT 成员国发起全面谈判，以美国为主导的发达国家力排众议，首次将金融、知识产权与服务业（含教育）列入多边谈判议程。
 > - **1995 — GATS 正式生效** 随着 [[World Trade Organization|WTO]] 成立，GATS 正式生效，全球近 40 个成员国在教育服务部门提交了初步市场准入减让承诺。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 > - **2000 年代初 — 多哈回合谈判与商业化激化** WTO 推动新一轮多边服务谈判，促使各成员进一步扩大高等教育和成人教育的市场开放；欧美主要出口国将[[International Education|国际教育]]作为核心服务贸易出口支柱。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 97–98)]]
-> - **2002 — 多标度空间治理理论破题** 罗伯逊、博纳尔与戴尔（Robertson, Bonal, & Dale, 2002）发表权威研究，揭示 GATS 在教育服务产业中构建的多标度空间治理网络与全球再领土化逻辑。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
+> - **2002 — 多标度空间治理理论破题** 罗伯逊、博纳尔与戴尔（Robertson, Bonal, & Dale, 2002）发表权威研究，揭示 GATS 在教育服务产业中构建的多标度空间治理网络与全球再领土化逻辑。
 > - **2007 — 新帝国主义学术批评高涨** 柯林斯（Collins, 2007）等学者系统批判 GATS 为西方大国维持在第三世界的智识统治与市场掠夺开辟了合法性通道。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, p. 97)]]
 > - **2009 — [[Robert Arnove|阿诺夫]]揭示主权不对称分化** 阿诺夫（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）指出 GATS 导致发展中大国与脆弱小国陷入极不平等的自主权鸿沟，小国在世贸规程面前宏观调控主权严重丧失。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 111)]]
 
@@ -130,7 +130,7 @@ updated: 2026-10-15
 > [!actor-grid] 权力—利益矩阵
 > - **高权力 · 高利益 — 核心推动联盟** 欧美主要教育出口国（美、英、澳、新）政府与跨国高等教育企业。通过 GATS 确立全球教育市场通道，将留学生教育作为赚取巨额外汇和科研资金的核心战略产业。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 97–98)]]
 > - **高权力 · 低利益 / [[Strategic Autonomy|战略自主]]方 — 发展中战略大国** 如中国、印度等。虽面临教育主权开放压力，但依托庞大国内市场和较强国家能力，主动对接规则以吸引外资办学并倒逼国内高教现代化改革，保持了较强的战略主动性。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 111)]]
-> - **低权力 · 高利益（受损方） — 脆弱边缘小国与公共教育联盟** 牙买加、尼加拉瓜等加勒比和拉美边缘国家，在外部金融压力与 [[World Trade Organization|WTO]] 规约下丧失教育宏观调控权；同时，全球教师工会联合会（[[Education International]]）与第三世界公立学校师生，面临公共经费萎缩与[[Endogenous and Exogenous Privatisation|教育私有化]]冲击。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, p. 111)]]
+> - **低权力 · 高利益（受损方） — 脆弱边缘小国与公共教育联盟** 牙买加、尼加拉瓜等加勒比和拉美边缘国家，在外部金融压力与 [[World Trade Organization|WTO]] 规约下丧失教育宏观调控权；同时，全球教师工会联合会（[[Education International]]）与第三世界公立学校师生，面临公共经费萎缩与[[Endogenous and Exogenous Privatisation|教育私有化]]冲击。
 > - **低权力 · 低利益 — 偏远弱势群体** 边缘地区农村贫困家庭，既无力消费昂贵的跨国教育服务，又因国家财政向重点院校与商业机制倾斜而遭受进一步边缘化。
 
 > [!tension]- 联盟结构与冲突
@@ -155,7 +155,7 @@ updated: 2026-10-15
 
 > [!finding-cards] 效果与评价
 > - **[[Discourse|话语]]效应远超直接强制力** 里兹维（[[Argument_Rizvi_2022_Springer|Rizvi, 2022]]）强调，由于 GATS 允许成员国自愿选择开放部门，其直接司法制裁案例极为罕见；然而其最大的制度后果在于话语层面——它使“教育是一种可交易的商品”成为全球无可争议的前提，为西方大学将国际学生作为收入来源提供了完全合法的意识形态庇护。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 97–98)]]
-> - **推动[[Internationalization of Higher Education|高等教育国际化]]理性根本转向** 促使高等教育国际化从二战后的“援助与文化交流理性”彻底转向追求经济利润与学术资本积累的“商业市场理性”。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 97–98)]]
+> - **推动[[Internationalization of Higher Education|高等教育国际化]]理性根本转向** 促使高等教育国际化从二战后的“援助与文化交流理性”彻底转向追求经济利润与学术资本积累的“商业市场理性”。
 > - **重构教育权力在多标度空间的再领土化** 罗伯逊、博纳尔与戴尔（2002）指出，GATS 促成了全球教育系统超越传统民族国家领土边界的重组，在超国家（[[World Trade Organization|WTO]]/经贸同盟）、国家与次国家层次之间建立了复杂的空间制约网络。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–111)]]
 
 > [!stat-cards]- 核心数据

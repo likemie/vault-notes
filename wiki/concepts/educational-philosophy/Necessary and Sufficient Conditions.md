@@ -6,7 +6,6 @@ aliases:
   - 充分条件
   - necessary condition
   - sufficient condition
-  - necessary and sufficient conditions
 summary: "因果分析中区分因果条件类型的逻辑工具：必要条件是不可缺少的前提，充分条件是单独足以产生效果的条件"
 type: concept
 domain: "educational-philosophy"

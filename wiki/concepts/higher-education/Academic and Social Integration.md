@@ -136,7 +136,7 @@ Tinto 的核心关切是大[[Academic Attrition|学生辍学]]问题：为何许
 ## 相关案例／政策
 
 > [!example]
-> - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]将 Tinto 的融入理论作为"大学过程"[[Analytic Framework\|分析框架]]的核心基础，在 [[Academic Engagement\|学业投入]] 和 [[Social Engagement\|社会性投入]] 两个维度上展开对 [[Goal-Controlled Mode\|目标掌控模式]] 和 [[Intuition-Dependent Mode\|直觉依赖模式]] 的分析。详见 [[Argument_Zheng_2023_ShanghaiSanlian]]
+> - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]将 Tinto 的融入理论作为"大学过程"[[Analytic Framework\|分析框架]]的核心基础，在 [[Academic Engagement\|学业投入]] 和 [[Social Engagement\|社会性投入]] 两个维度上展开对 [[Goal-Controlled Mode\|目标掌控模式]] 和 [[Intuition-Dependent Mode\|直觉依赖模式]] 的分析。详见 [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]
 > - 转变案例：直觉依赖模式相关案例 中的梓桐、高程、初晓——三者的转变均以社会性融入为触发引擎
 
 ---

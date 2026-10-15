@@ -3,7 +3,6 @@ title: PISA Literacy
 aliases:
   - PISA素养
   - PISA型読解力
-  - PISA literacy
 summary: "日本在 2004 年 PISA 2003 结果公布后纳入国家教育政策目标的学术能力概念，聚焦问题解决、知识应用等高阶能力，区别于传统知识记忆型学力"
 type: concept
 domain: "comparative-education"

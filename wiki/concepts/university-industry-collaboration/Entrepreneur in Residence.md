@@ -2,7 +2,6 @@
 title: Entrepreneur in Residence
 aliases:
   - 驻校企业家
-  - entrepreneur in residence
   - 驻校创业者
 summary: "大学聘请具有成功创业和退出经验的产业高管支持多个衍生企业的制度安排，分为全职和兼职团队两种模式，是帮助衍生企业跨越从实验室到市场鸿沟的有效人才投资策略"
 type: concept

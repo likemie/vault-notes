@@ -40,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Appraisal Theory
@@ -156,7 +156,7 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Li_2012_Cambridge]] — 通过对母子对话进行[[Discourse Analysis\|话语分析]]，使用该理论论证中西文化在儿童[[Parental Cognitive and Affective Socialization\|情感社会化]]中如何全面塑造情绪生成的各阶段。
+> - [[Argument_Li_2012_Cambridge|Li (2012)]] — 通过对母子对话进行[[Discourse Analysis\|话语分析]]，使用该理论论证中西文化在儿童[[Parental Cognitive and Affective Socialization\|情感社会化]]中如何全面塑造情绪生成的各阶段。
 
 ---
 

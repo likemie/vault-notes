@@ -47,9 +47,9 @@ updated: 2026-10-08
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 1952 年 9 月 23 日；美国加利福尼亚州好莱坞埃尔卡皮坦剧院（El Capitan Theatre）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, p. 62)]]
-> - **核心当事主体** 共和党副总统候选人理查德·尼克松、总统候选人[[Dwight D. Eisenhower|德怀特·艾森豪威尔]]（Dwight D. Eisenhower）及全美 6000 万电视与广播受众。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, p. 62)]]
+> - **核心当事主体** 共和党副总统候选人理查德·尼克松、总统候选人[[Dwight D. Eisenhower|德怀特·艾森豪威尔]]（Dwight D. Eisenhower）及全美 6000 万电视与广播受众。
 > - **深层制度与社会背景** 1950 年代初美国家庭电视机快速普及，大众媒介对政治公职人员的形象塑造与道德监督开始取代传统政党机器的幕后协商。
-> - **直接导火索 / 触发事件** 媒体曝光尼克松涉嫌拥有一项由加州富商支持者设立的秘密报销基金用于个人政治开销，党内高层一度施压其退出副总统竞选。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, p. 62)]]
+> - **直接导火索 / 触发事件** 媒体曝光尼克松涉嫌拥有一项由加州富商支持者设立的秘密报销基金用于个人政治开销，党内高层一度施压其退出副总统竞选。
 
 ---
 

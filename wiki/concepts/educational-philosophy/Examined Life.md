@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Examined Life
@@ -119,7 +119,7 @@ updated: 2026-10-15
 > - **古希腊时期（[[Socrates\|苏格拉底]]与[[Plato\|柏拉图]]）**
 >   苏格拉底既是“叮咬雅典城邦这匹肥硕惰马的牛虻”，也是执行严密智识审视的[[Sage\|圣人]]与[[Avatar\|化身]] [[Argument_Li_2012_Cambridge\|(Li, 2012, p. 33)]]；柏拉图则将省察体系化为辩证法（Dialectic）。
 > - **漫长的中世纪（信仰抑制与[[Faust\|浮士德]]式反抗）**
->   教条权威盛行使公开省察一度沉寂，但[[Faust\|浮士德]]式的勇于探究未知精神仍在文学与文化隐喻中得以延续 [[Argument_Li_2012_Cambridge\|(Li, 2012, p. 33)]]。
+>   教条权威盛行使公开省察一度沉寂，但[[Faust\|浮士德]]式的勇于探究未知精神仍在文学与文化隐喻中得以延续。
 > - **启蒙时代（[[Jean-Jacques Rousseau\|卢梭]]的批判与独立学习者）**
 >   [[Jean-Jacques Rousseau\|卢梭]]在《爱弥儿》中对传统教育发起猛烈抨击，指责文明社会破坏了人类的自然倾向，提出[[Ideal Learner\|理想学习者]]爱弥儿应保持自然好奇与独立思考，为现代儿童中心论奠基 [[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 33–34)]]。
 > - **现代与当代（[[Active Learning\|主动学习]]与[[University Motto\|大学校训]]）**

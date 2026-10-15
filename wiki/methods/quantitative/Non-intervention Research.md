@@ -40,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-05'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 ## 定义
@@ -90,5 +90,5 @@ updated: 2026-10-15
 ## 使用此方法的研究
 
 > [!example] 使用此方法的研究
-> - [[Argument_Brady_2023_EPR]] — 将非[[Intervention Research\|干预研究]]作为论文标题和核心分析对象，发现其在 2020 年仍约占[[Experiential Learning\|经验教育]]心理学研究的四分之三([[Argument_Brady_2023_EPR\|Brady et al., 2023, pp.1, 7]])。
+> - [[Argument_Brady_2023_EPR|Brady et al. (2023)]] — 将非[[Intervention Research\|干预研究]]作为论文标题和核心分析对象，发现其在 2020 年仍约占[[Experiential Learning\|经验教育]]心理学研究的四分之三([[Argument_Brady_2023_EPR\|Brady et al., 2023, pp.1, 7]])。
 

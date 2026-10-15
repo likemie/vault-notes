@@ -199,4 +199,4 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Author_Year_Journal]] — 该研究如何使用此方法，只写一句话，不展开文献摘要。
+> - [[Argument_Author_Year_Journal|Author (Year)]] — 该研究如何使用此方法，只写一句话，不展开文献摘要。

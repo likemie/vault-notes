@@ -3,7 +3,6 @@ title: Educative Conceptual Change
 aliases:
   - 教育性概念改变
   - 教育性概念转变
-  - educative conceptual change
 summary: "学习者通过重新组织信息并借助信息思考而改变对现象的理解及行动方式，是超越信息积累的教育性学习结果。"
 type: concept
 domain: "learning-science-cognitive-science"

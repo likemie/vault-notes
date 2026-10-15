@@ -71,7 +71,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **人本[[Epistemology\|认识论]]（Humanistic Episteme）**，亦称**以人为中心的比较教育学（Anthropocentric Comparative Education）**，是指[[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]]在重估比较教育学术思想史时系统提炼的核心元认识论范畴。该范畴主张比较教育学绝非单纯测量学校组织效能、劳动力产出或政策工具移植的应用社会科学，而是一门以古希腊“全人教化”（*[[Paideia]]*）与德意志“精神教养”（教化）为本体基石的广义[[Geisteswissenschaften|人文科学]]（*Wissenschaft* / *Episteme*）。其核心使命是把“人（*Anthropos*）”及其精神自由、文化尊严与道德完善置于跨国研究的绝对中心，直面人类在现代文明演进中所遭遇的重大政治、社会与伦理危机。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 56–57)]]
+> **人本[[Epistemology\|认识论]]（Humanistic Episteme）**，亦称**以人为中心的比较教育学（Anthropocentric Comparative Education）**，是指[[Andreas Kazamias\|安德烈亚斯·卡扎米亚斯]]在重估比较教育学术思想史时系统提炼的核心元认识论范畴。该范畴主张比较教育学绝非单纯测量学校组织效能、劳动力产出或政策工具移植的应用社会科学，而是一门以古希腊“全人教化”（*[[Paideia]]*）与德意志“精神教养”（教化）为本体基石的广义[[Geisteswissenschaften|人文科学]]（*Wissenschaft* / *Episteme*）。其核心使命是把“人（*Anthropos*）”及其精神自由、文化尊严与道德完善置于跨国研究的绝对中心，直面人类在现代文明演进中所遭遇的重大政治、社会与伦理危机。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 56–57)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向比较教育学在认知对象与终极目的上的最高哲学定位：研究的焦点不是冷冰冰的体制条文与量化指标，而是制度背后作为主体的人之生成与生存境况。
@@ -79,7 +79,7 @@ updated: 2026-10-15
 > - **边界** 不等于脱离制度现实的主观抒情或无根文学叙述；它要求研究者将历史制度考掘、社会结构分析与深层哲学反思有机融为一体。
 
 > [!citation-card] 卡扎米亚斯论以人为中心的人本认识论与全人文化关怀
-> [[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、汉斯与[[Robert Ulich\|乌利希]]这四位历史学派最杰出的代表人物，对教育的考察从来不局限于狭隘的“学校[[Disciplina and Doctrina\|规训]]”（schooling），而是从广义的教化与文化（paideia/culture）出发；他们将比较教育构想为一种以“人”（anthropos）为主要关切的“人本认识论”（humanistic episteme）。正因如此，这一传统具有鲜明的以人为中心（anthropocentric）取向；它浸润着人文主义哲学精神，并深切关怀人类所面临的政治、社会以及根本的伦理问题。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 56–57)]]
+> [[Michael Sadler\|萨德勒]]、[[Isaac Kandel\|坎德尔]]、汉斯与[[Robert Ulich\|乌利希]]这四位历史学派最杰出的代表人物，对教育的考察从来不局限于狭隘的“学校[[Disciplina and Doctrina\|规训]]”（schooling），而是从广义的教化与文化（paideia/culture）出发；他们将比较教育构想为一种以“人”（anthropos）为主要关切的“人本认识论”（humanistic episteme）。正因如此，这一传统具有鲜明的以人为中心（anthropocentric）取向；它浸润着人文主义哲学精神，并深切关怀人类所面临的政治、社会以及根本的伦理问题。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 56–57)]]
 >
 > *Sadler, Kandel, Hans, and Ulich, four of its most noted exponents, approached education not just from the narrow sense of 'schooling' but from the broader sense of paideia/culture, and comparative education as a 'humanistic episteme' whose major concern should be with the 'human being', the anthropos ('man'). As such, it should therefore be anthropocentric ('man-centred'); it should be pervaded by a 'humanistic' philosophy, and it should be concerned with the great problems—political, social but also ethical—which 'mankind' faces.*
 
@@ -106,7 +106,7 @@ updated: 2026-10-15
 ## 核心要素
 
 > [!feature] 核心要素
-> - **全人文化教化（[[Paideia]] / [[Bildung]]）本体** 超越职业培训与技能传授的狭隘功利算计，将教育理解为涵养伦理自觉、理性判断与文化认同的精神培育过程。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 56–57)]]
+> - **全人文化教化（[[Paideia]] / [[Bildung]]）本体** 超越职业培训与技能传授的狭隘功利算计，将教育理解为涵养伦理自觉、理性判断与文化认同的精神培育过程。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 56–57)]]
 > - **以人（Anthropos）为中心的价值取向（Anthropocentrism）** 坚决抵制将人异化为国家官僚机器或经济增长引擎的工具化倾向，坚守教育服务于人的全面自由发展的至高地位。[[Argument_Kazamias_2009_ForgottenThemes\|(Nash, 1977; Kazamias, 2009: 52)]]
 > - **跨越学科边界的广义科学观（Wissenschaft）** 视比较教育学为跨越人文学科与[[Scientific Method\|经验科学]]边界的综合智慧系统，与哲学、历史学和宗教学深度贯通。[[Argument_Kazamias_2009_ForgottenThemes\|(Hans, 1959: 299; Kazamias, 2009: 39)]]
 > - **伦理政治关怀与公民防线（Ethical-Political Concerns）** 将跨国教育比较与民主价值捍卫、极权主义防范及国际主义理解紧密结合，构筑文明抵御野蛮化的思想堤坝。[[Argument_Kazamias_2009_ForgottenThemes\|(Kandel, 1933; Kazamias, 2009: 47–49)]]
@@ -146,7 +146,7 @@ updated: 2026-10-15
 > 针对战[[Postmodernism\|后现代主义]]实证派对历史学派“非科学、主观臆断”的攻讦，人本认识论确立了广义科学的崇高合法性。
 
 > [!claim] [[Andreas Kazamias\|Kazamias, A.]]
-> **广义科学观（Wissenschaft）为人文历史比较确立严谨合法性** 卡扎米亚斯论证指出，将科学等同于自然科学式的统计度量、实验控制与机械预测，是英语语境下实证主义的狭隘偏见。在欧陆思想史上，德语 *Wissenschaft* 与古希腊语 *Episteme* 均指代对人类文化、社会与精神现象的严谨系统性知识探究；萨德勒、[[Isaac Kandel\|坎德尔]]、汉斯与乌利希的历史人文比较研究完全具备科学合法性，为人文主义学术传统在现代量化浪潮中捍卫了崇高的尊严。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 56–57)]]
+> **广义科学观（Wissenschaft）为人文历史比较确立严谨合法性** 卡扎米亚斯论证指出，将科学等同于自然科学式的统计度量、实验控制与机械预测，是英语语境下实证主义的狭隘偏见。在欧陆思想史上，德语 *Wissenschaft* 与古希腊语 *Episteme* 均指代对人类文化、社会与精神现象的严谨系统性知识探究；萨德勒、[[Isaac Kandel\|坎德尔]]、汉斯与乌利希的历史人文比较研究完全具备科学合法性，为人文主义学术传统在现代量化浪潮中捍卫了崇高的尊严。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 56–57)]]
 
 ---
 
@@ -176,7 +176,7 @@ updated: 2026-10-15
 >
 > > [!axis] 实证可操作性 vs 质性阐释理解
 > > - **实证科学派（Noah, Eckstein, Foster）** 质疑人本[[Epistemology\|认识论]]的概念过于宽泛宏大（如 [[Paideia]]、精神力量、[[National Character\|国民性格]]），无法被分解为可[[Falsification\|证伪]]的[[Operationalization\|操作化]][[Variable\|变量]]，研究结论高度依赖学者的个人灵感与主观偏好，难以实现跨团队可重复检验。[[Argument_Kazamias_2009_ForgottenThemes\|(Noah & Eckstein, 1969; Foster, 1960)]]
-> > - **人本学派（Kazamias, Ulich）** 反驳指出，强行将复杂的人类文化实在切割为离散变量，无异于买椟还珠；[[Positivism\|实证主义]]的虚假精确性以牺牲对教育本质与伦理关怀的深刻理解为代价。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 56–57)]]
+> > - **人本学派（Kazamias, Ulich）** 反驳指出，强行将复杂的人类文化实在切割为离散变量，无异于买椟还珠；[[Positivism\|实证主义]]的虚假精确性以牺牲对教育本质与伦理关怀的深刻理解为代价。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 56–57)]]
 >
 > > [!axis] 政策工具效能 vs 批判性公民反思
 > > - **决策功利主义视角** 批评人本认识论是“象牙塔里的学术清谈”，无法为急于解决财政效率、辍学率与劳动力匹配的政策制定者提供立竿见影的干预方案。

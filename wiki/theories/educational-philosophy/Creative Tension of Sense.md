@@ -45,7 +45,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: 2026-09-11
+updated: 2026-10-16
 ---
 
 # Creative Tension of Sense
@@ -98,7 +98,7 @@ updated: 2026-09-11
 ## 相关研究
 
 > [!example]
-> - [[Argument_Delambre_2022_Springer]] — 该理论的系统阐述和首次公开发表
+> - [[Argument_Delambre_2022_Springer|Delambre (2022)]] — 该理论的系统阐述和首次公开发表
 
 ## 应用领域
 

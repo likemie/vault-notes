@@ -3,7 +3,6 @@ title: Rational-Control Rhetoric
 aliases:
   - "理性/控制修辞"
   - "Rational/Control Rhetoric"
-  - "Rational-Control Rhetoric"
 summary: "管理修辞分类学中的核心概念，指在组织面临慢性、缓慢绩效下滑时，系统自发采用的强调标准化、逻辑化和确定性控制的技术性改进话语。"
 type: concept
 domain: "educational-leadership-administration"

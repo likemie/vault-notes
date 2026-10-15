@@ -2,7 +2,6 @@
 title: Mixed Methods Evaluation Design
 aliases:
   - 混合方法评价设计
-  - mixed methods evaluation design
   - embedded evaluation mixed methods
   - 混合方法评估设计
 summary: "将量化和质性数据及核心混合方法设计嵌入评价框架的复杂混合方法设计，常用于项目评价，在需求评估、工具开发、实施检验和跟进完善等不同阶段中使用多种核心设计"

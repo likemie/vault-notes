@@ -3,7 +3,6 @@ title: TUFF
 aliases:
   - "大学融资基金会"
   - "The University Financing Foundation"
-  - "TUFF"
 summary: "1982 年由 Georgia Tech 校友在亚特兰大创立的 501(c)(3) 运营基金会，以私营部门交付模式为大学建设研究设施，四十余年来为产学合作创新中心提供开发、融资和场所营造服务"
 type: fact
 subtype: event

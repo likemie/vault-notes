@@ -2,7 +2,6 @@
 title: Powerful Knowledge
 aliases:
   - 有力知识
-  - powerful knowledge
 summary: "Young & Muller 提出的概念，指来自学科的、独立于知者的、具有独特禀赋的知识，能够使学生超越直接经验进行概括和理解"
 type: concept
 domain: "curriculum"

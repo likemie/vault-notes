@@ -2,7 +2,6 @@
 title: PISA Made-up Claim
 aliases:
   - PISA 捏造的主张
-  - PISA made-up claim
 summary: "PISA 声称测量未来生活所需的基本技能，但这一主张没有任何实证依据，且 PISA 测量的构念与其他国际评估高度相关"
 type: concept
 domain: "educational-policy-reform"

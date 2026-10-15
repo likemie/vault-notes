@@ -2,7 +2,6 @@
 title: Field Images
 aliases:
   - 场域图像
-  - field images
 summary: "Bloch & Mitterle 提出的概念，将分层从静态的位置分布重新理解为由排名视觉秩序驱动的持续过程，排名通过教导行动者看见层级来制造自我实现的预言"
 type: concept
 domain: "university-industry-collaboration"

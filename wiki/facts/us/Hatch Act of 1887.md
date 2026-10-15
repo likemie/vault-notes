@@ -3,7 +3,6 @@ title: Hatch Act of 1887
 aliases:
   - "Hatch Act"
   - "哈奇法案"
-  - "Hatch Act of 1887"
 summary: "1887 年美国联邦立法，在赠地大学建立农业实验站，直接将大学研究与农场和食品加工者的实际需求连接，是赠地大学体系从教学向研究与应用服务延伸的关键制度节点"
 type: fact
 subtype: event

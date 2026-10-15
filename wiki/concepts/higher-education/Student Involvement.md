@@ -111,7 +111,7 @@ updated: 2026-10-15
 ## 相关案例／政策
 
 > [!example]
-> - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]将 Astin 涉入理论纳入"大学过程"[[Analytic Framework\|分析框架]]的"投入过程"层，用于分析 [[Goal-Controlled Mode\|目标掌控模式]] 和 [[Intuition-Dependent Mode\|直觉依赖模式]] 在学业和社会性两个维度上的投入差异。详见 [[Academic Engagement]]、[[Social Engagement]] 和 [[Argument_Zheng_2023_ShanghaiSanlian]]
+> - [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]将 Astin 涉入理论纳入"大学过程"[[Analytic Framework\|分析框架]]的"投入过程"层，用于分析 [[Goal-Controlled Mode\|目标掌控模式]] 和 [[Intuition-Dependent Mode\|直觉依赖模式]] 在学业和社会性两个维度上的投入差异。详见 [[Academic Engagement]]、[[Social Engagement]] 和 [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]
 
 ---
 

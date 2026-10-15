@@ -2672,11 +2672,17 @@ def check_duplicate_citations(
         occurrences: Dict[str, List[Tuple[int, str]]] = {}
         masked_unit = list(unit)
 
+        def on_table_row(pos: int) -> bool:
+            line_start = unit.rfind("\n", 0, pos) + 1
+            return bool(_TABLE_ROW_RE.match(unit[line_start:pos + 1]))
+
         for match in WIKILINK_RE.finditer(unit):
             raw = match.group(1)
             target = extract_wikilink_target(raw)
             display = raw.split("|", 1)[1].strip() if "|" in raw else ""
-            if target.startswith("Argument_") and citation_display_has_author_year(display):
+            display = display.lstrip("\\").strip()
+            if (target.startswith("Argument_") and citation_display_has_author_year(display)
+                    and not on_table_row(match.start()) and not is_narrative_citation(display)):
                 key = citation_identity(display, target)
                 if key:
                     occurrences.setdefault(key, []).append((match.start(), display))
@@ -2690,6 +2696,8 @@ def check_duplicate_citations(
             if not citation_display_text(display):
                 continue
             if raw_citation_is_reference_fragment(display):
+                continue
+            if on_table_row(match.start()) or is_narrative_citation(display):
                 continue
             key = citation_identity(display)
             if key:
@@ -3102,6 +3110,62 @@ def fix_citation_link_displays(text: str, argument_citations: Dict[str, Dict[str
     return text[: len(text) - len(body)] + new_head + tail, count
 
 
+# A Markdown table row, also inside callouts ("> | a | b |").
+_TABLE_ROW_RE = re.compile(r"^\s*(?:>\s*)*\|")
+_NARRATIVE_CITATION_RE = re.compile(r"^[^()（）]*\S\s*[(（]\s*(?:19|20)\d{2}")
+
+
+def is_narrative_citation(display: str) -> bool:
+    """'Smith (2020, p. 3)' is a sentence constituent, not a parenthetical
+    reference; repeating it in one paragraph is normal prose."""
+    d = display.strip()
+    return not d.startswith(("(", "（")) and bool(_NARRATIVE_CITATION_RE.match(d))
+
+
+def fix_duplicate_parenthetical_links(text: str) -> Tuple[str, int]:
+    """Within one paragraph/callout unit keep the first of identical
+    parenthetical citation links such as [[Argument_X|(Smith, 2020, p. 3)]]
+    and delete later repeats (CITATION_DUPLICATE_IN_UNIT). Table rows,
+    narrative citations and links embedded in prose are left alone."""
+    fm, body, _ = split_frontmatter(text)
+    if fm is None:
+        return text, 0
+    src = _SOURCE_SECTION_RE.search(body)
+    head, tail = (body[:src.start()], body[src.start():]) if src else (body, "")
+    cuts: List[Tuple[int, int]] = []
+    for unit, offset, _kind in citation_units(head):
+        seen: Set[str] = set()
+        for m in WIKILINK_RE.finditer(unit):
+            raw = m.group(1)
+            target = extract_wikilink_target(raw)
+            if not target.startswith("Argument_"):
+                continue
+            sep = re.search(r"\\?\|", raw)
+            if not sep:
+                continue
+            display = raw[sep.end():].strip()
+            if not (display.startswith(("(", "（")) and display.endswith((")", "）"))):
+                continue
+            line_start = unit.rfind("\n", 0, m.start()) + 1
+            if _TABLE_ROW_RE.match(unit[line_start:m.start() + 1]):
+                continue
+            key = citation_identity(display, target)
+            if not key:
+                continue
+            if key not in seen:
+                seen.add(key)
+                continue
+            start, end = offset + m.start(), offset + m.end()
+            while start > 0 and head[start - 1] in " \t":
+                start -= 1
+            cuts.append((start, end))
+    if not cuts:
+        return text, 0
+    for start, end in sorted(cuts, reverse=True):
+        head = head[:start] + head[end:]
+    return text[: len(text) - len(body)] + head + tail, len(cuts)
+
+
 def fix_alias_title_duplicates(text: str) -> Tuple[str, int]:
     """Drop aliases identical to the entry title (case/width-insensitive)."""
     fm, _, _ = split_frontmatter(text)
@@ -3167,6 +3231,8 @@ def apply_fixes(files: List[Path], argument_citations: Dict[str, Dict[str, Any]]
         if is_wiki_entry_path(path):
             new_text, n5 = fix_citation_link_displays(new_text, argument_citations)
             new_text, n6 = fix_alias_title_duplicates(new_text)
+            new_text, n7 = fix_duplicate_parenthetical_links(new_text)
+            n6 += n7
         if new_text != text:
             path.write_text(new_text, encoding="utf-8")
             changed_files += 1

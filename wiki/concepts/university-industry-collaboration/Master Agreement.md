@@ -3,7 +3,6 @@ title: Master Agreement
 aliases:
   - "产学合作主协议"
   - "主协议"
-  - "master agreement"
   - "umbrella agreement"
   - "master research agreement"
   - "总协议"

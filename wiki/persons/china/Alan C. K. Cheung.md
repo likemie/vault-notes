@@ -147,9 +147,9 @@ updated: 2026-10-15
 > - **跨国／跨领域传播** 创办并维护 [[Best Evidence in Brief\|BEiB]] 中文版，长期将欧美最新教育 [[Randomised Controlled Trials\|RCT]] 研究翻译引介给海外华人学者与一线教育者，架设东西方循证教育学术桥梁。
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
-> - [[Argument_Slavin_2021_ECNUROE]] — 梳理并正面回应中国学者对证据本位教育在[[Epistemology\|认识论]]、方法论和实践伦理维度的质疑，阐述科学实证研究对教育进步的不可替代性。
-> - [[Argument_Cheung_2021_ECNUROE]] — 以 COVID-19 疫苗试验类比教育 RCT，阐述全球视野下循证改革的四项核心活动框架。
-> - [[Argument_Chen_Cheung_2025_ERR]] — 运用活动理论 AT-MCSCL 框架与严谨基线控制，主持实施 57 项[[Experimental Research\|实验研究]]的高等教育生成式 AI [[Meta-analysis\|元分析]]，证实促学效应并提出防范[[Metacognitive Laziness\|元认知惰性]]的[[Output-Oriented Governance\|循证治理]]路径。
+> - [[Argument_Slavin_2021_ECNUROE|Slavin et al. (2021)]] — 梳理并正面回应中国学者对证据本位教育在[[Epistemology\|认识论]]、方法论和实践伦理维度的质疑，阐述科学实证研究对教育进步的不可替代性。
+> - [[Argument_Cheung_2021_ECNUROE|Cheung and Xie (2021)]] — 以 COVID-19 疫苗试验类比教育 RCT，阐述全球视野下循证改革的四项核心活动框架。
+> - [[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025)]] — 运用活动理论 AT-MCSCL 框架与严谨基线控制，主持实施 57 项[[Experimental Research\|实验研究]]的高等教育生成式 AI [[Meta-analysis\|元分析]]，证实促学效应并提出防范[[Metacognitive Laziness\|元认知惰性]]的[[Output-Oriented Governance\|循证治理]]路径。
 
 ---
 
@@ -197,4 +197,4 @@ updated: 2026-10-15
 > | [[Third Generation Activity Theory]] | 理论 | 将第三代活动理论扩展应用于移动计算机支持协作学习（AT-MCSCL 框架）。 |
 > | [[Baseline Standardized Mean Difference]] | 方法 | 严格践行并确立为 AI 元分析准入的基线等效控制门槛（$d < 0.25$）。 |
 > | [[Best Evidence in Brief]] | 事实 | 领导建设面向海外华人的中文[[Evidence-Based Education\|循证教育]]传播网络。 |
-> | [[Argument_Chen_Cheung_2025_ERR]] | 论证 | 主导完成的高等教育生成式 AI [[Experimental Research\|实验研究]]元分析旗舰论文。 |
+> | [[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025)]] | 论证 | 主导完成的高等教育生成式 AI [[Experimental Research\|实验研究]]元分析旗舰论文。 |

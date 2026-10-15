@@ -2,7 +2,6 @@
 title: Non-monetary Competition
 aliases:
   - 非货币竞争
-  - non-monetary competition
   - symbolic competition
 summary: "学术场域中以声望、认可和区隔等 Bourdieu 意义上的符号商品为核心通货的竞争形式，区别于以价格和利润驱动的常规市场，用于解释排名和评估为何能驱动大学行为"
 type: concept

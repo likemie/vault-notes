@@ -2,7 +2,6 @@
 title: Backyard Research
 aliases:
   - 后院研究
-  - backyard research
 summary: "质性研究中研究者研究自身组织、朋友或直接工作环境的情境，常导致信息披露妥协和权力不平衡问题"
 type: concept
 domain: "research-methodology"

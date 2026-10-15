@@ -28,7 +28,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Combined Weighting AHP-EWM
@@ -96,4 +96,4 @@ updated: 2026-10-15
 ## 使用此方法的研究
 
 > [!example]
-> - [[Argument_Fan_Song_Zhai_2024_RSEE]] — 使用AHP-EWM-LSD组合赋权确定15项EST评价指标的权重，为[[Coupling Coordination Model\|耦合协调模型]]提供综合权重输入
+> - [[Argument_Fan_Song_Zhai_2024_RSEE|Fan et al. (2024)]] — 使用AHP-EWM-LSD组合赋权确定15项EST评价指标的权重，为[[Coupling Coordination Model\|耦合协调模型]]提供综合权重输入

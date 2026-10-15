@@ -2,7 +2,6 @@
 title: Qualitative Reliability
 aliases:
   - 质性信度
-  - qualitative reliability
   - 质性研究信度
 summary: "质性研究中指示研究者方法在不同研究者和不同项目之间一致性的标准，与量化信度的含义不同"
 type: concept

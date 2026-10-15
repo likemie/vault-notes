@@ -9,7 +9,6 @@ related_stars: "⭐"
 related_color: "#bfdbfe"
 aliases:
   - "认识论理论"
-  - "epistemological theories"
 tags:
   - "theme/epistemological-beliefs"
 related_concepts:
@@ -69,9 +68,9 @@ updated: 2026-10-16
 > - **【知识的本质】[[Simplicity of Knowledge\|知识的简单性]]（simplicity of knowledge）**
 >   对知识是孤立离散的事实片段，还是高度互联的复杂概念网络的看法。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 120)]]
 > - **【认知的本质】[[Source of Knowledge\|知识的来源]]（source of knowledge）**
->   知识是来源于全知全能的外部权威，还是认知者作为积极建构者从内部生成的。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 120)]]
+>   知识是来源于全知全能的外部权威，还是认知者作为积极建构者从内部生成的。
 > - **【认知的本质】[[Justification for Knowing\|认知的辩护]]（justification for knowing）**
->   个体如何评估知识主张、运用证据，以及评价专家权威，从而为自身的信念进行概率性的辩护。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 120)]]
+>   个体如何评估知识主张、运用证据，以及评价专家权威，从而为自身的信念进行概率性的辩护。
 
 ---
 

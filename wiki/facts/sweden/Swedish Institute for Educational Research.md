@@ -69,7 +69,7 @@ updated: 2026-09-22
 ## 争议与评论
 
 > [!warning]
-> 国家级机构有助于本国语境中的证据转化，但欧洲层面仍存在协调不足和跨国复用困难。相关推理链见 [[Argument_Pellegrini_2021_ECNUROE]]([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, pp.30, 35-36]])。
+> 国家级机构有助于本国语境中的证据转化，但欧洲层面仍存在协调不足和跨国复用困难。相关推理链见 [[Argument_Pellegrini_2021_ECNUROE|Pellegrini and Vivanet (2021)]]([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, pp.30, 35-36]])。
 
 ## 相关概念／理论
 

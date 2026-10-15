@@ -6,7 +6,6 @@ aliases:
   - 变革主义世界观
   - 转化主义
   - transformative worldview
-  - transformative paradigm
 summary: "一种将研究探究与政治变革议程紧密交织的研究哲学立场，以对抗社会压迫和赋权边缘群体为核心，要求研究者与参与者合作推动社会改革"
 type: concept
 domain: "educational-philosophy"

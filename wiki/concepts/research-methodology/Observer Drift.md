@@ -2,7 +2,6 @@
 title: Observer Drift
 aliases:
   - 观察者漂移
-  - observer drift
 summary: "观察者在长时间观察过程中逐渐改变评分标准和判断尺度的倾向，评分者间信度和观察者培训是主要的防范手段"
 type: concept
 domain: "research-methodology"

@@ -2,7 +2,6 @@
 title: Received Knowledge
 aliases:
   - 接收知识
-  - received knowledge
 summary: "女性认知方式模型中的认识论阶段，个体将知识视为绝对的确切事实，只能从外部权威处被动接收。"
 type: concept
 domain: "educational-psychology"

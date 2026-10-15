@@ -83,7 +83,7 @@ citation_aliases:
 > [!concept-lens] 分析视角与核心张力
 > - **对象** 1910–1920年代民国教育改革史料，包括[[John Dewey\|杜威]]在华演讲集、民国教育法规法令、《新教育》与《新教育评论》等核心期刊及报刊争论（p.612）。
 > - **张力** 美国的民主-渐进统一原典体系 vs. 民国无民主语境下的激进-温和对立，以及美式教育理论在跨国转移中的本土折射与偏离（pp.610–611）。
-> - **贡献** 引入 [[Argument_Cowen_2009_CE\|Cowen (2009)]] 的 [[Transfer Translation Transformation\|3T 框架]]，超越了以往忠实度/误读的二元评价视角，揭示了接收国政治语境对外来学术思想进行结构性解构与重组的动力机制（pp.611, 622）。
+> - **贡献** 引入 [[Argument_Cowen_2009_CE\|Cowen (2009b)]] 的 [[Transfer Translation Transformation\|3T 框架]]，超越了以往忠实度/误读的二元评价视角，揭示了接收国政治语境对外来学术思想进行结构性解构与重组的动力机制（pp.611, 622）。
 
 > [!exegesis]- 核心概念辨析：什么是杜威思想的碎片化？
 > 本研究中的碎片化既非指接受者的理解能力不足，也非指对原典的有意歪曲或滥用（faithfulness or abuse）。在原始语境中，杜威的哲学是一个高度有机相融的整体：民主政治目标、儿童中心立场、实验主义方法与[[Scientific Attitude\|科学态度]]相互支撑（p.610）。
@@ -97,12 +97,12 @@ citation_aliases:
 > [!framework-table] 核心理论工具
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **[[Transfer Translation Transformation\|3T 框架]]（[[Argument_Cowen_2009_CE\|Cowen, 2009]]）**<br>Cowen's 3T Framework | 作为核心结构分析工具，将[[John Dewey\|杜威]]思想在华演进划分为三个阶段：**转移（Transfer）** 关注1919年前后杜威演讲与思想跨太平洋移动的接收语境；**转译（Translation）** 关注1922–1923年改革中中国改革者如何用本土制度语言与法规重新编码杜威；**转化（Transformation）** 关注1923–1928年间政治环境恶化导致杜威思想在本土脉络中发生二次变质与[[Paradigm\|范式]]重组（pp.611–612）。 |
+> | **[[Transfer Translation Transformation\|3T 框架]]（[[Argument_Cowen_2009_CE\|Cowen, 2009b]]）**<br>Cowen's 3T Framework | 作为核心结构分析工具，将[[John Dewey\|杜威]]思想在华演进划分为三个阶段：**转移（Transfer）** 关注1919年前后杜威演讲与思想跨太平洋移动的接收语境；**转译（Translation）** 关注1922–1923年改革中中国改革者如何用本土制度语言与法规重新编码杜威；**转化（Transformation）** 关注1923–1928年间政治环境恶化导致杜威思想在本土脉络中发生二次变质与[[Paradigm\|范式]]重组（pp.611–612）。 |
 > | **[[Geometries of Insertion\|接入几何学]]**<br>Geometries of Insertion | 分析接收国社会政治[[Champ\|场域]]在知识引入前已存在的结构性裂隙。民国教育界在杜威到来前已形成的温和渐进派 vs. 激进系统重建派的二元对立，构成了杜威思想传入中国时的初始思想土壤（pp.612–613）。 |
 > | **目标-方法双重维度（Means-Ends Pair）**<br>Dewey's Means-Ends Nexus | 将杜威哲学[[Operationalization\|操作化]]为民主教育理想（目标）与渐进[[Pragmatism in China\|实验主义]]（方法）的对偶关系，以此检验二者在民国不同历史时期的结合、分离与对立过程（pp.610–611）。 |
 
 > [!warrant]- 3T 框架的解释效力
-> [[Argument_Cowen_2009_CE\|Cowen (2009)]] 的 3T 理论提示：空间移动（Transfer）必然引发语言与制度重组（Translation），而接收国社会政治力量的卷入则会引发深层变质（Transformation）。在传统比较教育研究中，学者往往困惑于为什么中国教育者一方面尊杜威为宗师，另一方面又推行脱离国情的激进改革。
+> [[Argument_Cowen_2009_CE\|Cowen (2009b)]] 的 3T 理论提示：空间移动（Transfer）必然引发语言与制度重组（Translation），而接收国社会政治力量的卷入则会引发深层变质（Transformation）。在传统比较教育研究中，学者往往困惑于为什么中国教育者一方面尊杜威为宗师，另一方面又推行脱离国情的激进改革。
 > 
 > 引入 3T 框架后可以清晰看到：中国改革者在**转译（Translation）** 阶段将民主简化为平民/普及，在**转化（Transformation）** 阶段将实验方法重构为国家建设工具，这一演变链条完美展现了外来学术思想在跨国[[Knowledge Transfer\|知识转移]]中受制于接收国政治环境的客观规律（pp.622–623）。
 

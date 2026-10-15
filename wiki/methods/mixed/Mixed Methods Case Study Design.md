@@ -2,7 +2,6 @@
 title: Mixed Methods Case Study Design
 aliases:
   - 混合方法案例研究设计
-  - mixed methods case study design
   - embedded case study mixed methods
 summary: "将核心混合方法设计嵌入案例研究开发和比较过程中的复杂混合方法设计，有两种基本变体，即演绎法（事先确定案例再记录差异）和归纳法（从数据中形成案例再比较）"
 type: method

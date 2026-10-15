@@ -6,7 +6,6 @@ aliases:
   - 科学孤立主义
   - 学术自给自足
   - 科学自主
-  - scientific autarky
   - autarky in science
 summary: "指国家在科研与技术发展中追求自主自足、减少对外部人力资本、资金与合作的依赖，并在技术主权与孤立化成本之间寻求平衡的政策与战略导向。"
 type: concept

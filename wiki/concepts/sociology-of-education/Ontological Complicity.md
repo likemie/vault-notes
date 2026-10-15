@@ -2,7 +2,6 @@
 title: Ontological Complicity
 aliases:
   - "本体论共谋"
-  - "Ontological Complicity"
 summary: "基于布迪厄关系社会学的核心概念，指行动者惯习与社会场域之间前反思性的具身共谋，解释教育场域中行动者如何潜意识地维护现有体制与权力现状。"
 type: concept
 domain: "sociology-of-education"

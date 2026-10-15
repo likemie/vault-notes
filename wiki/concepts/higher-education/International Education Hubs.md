@@ -145,7 +145,7 @@ Knight and Lee (2014) 提出的递进模型（Knight & Lee, 2014, pp.31–34, ci
 
 ### Erfurth 的双重运作维度
 
-由 [[Argument_Erfurth_2022_education-hubs|Erfurth (2022, pp.205–211)]] 基于新加坡和阿联酋案例提出（详见 [[Argument_Erfurth_2022_education-hubs]]）：
+由 [[Argument_Erfurth_2022_education-hubs|Erfurth (2022, pp.205–211)]] 基于新加坡和阿联酋案例提出（详见 [[Argument_Erfurth_2022_education-hubs|Erfurth (2022)]]）：
 
 - **[[Cultural Diplomacy|文化外交]]（cultural-diplomatic）维度** 通过高等教育提升国际形象和[[Soft Power|软实力]]
 - **政治经济（politico-economic）维度** 通过高等教育产业直接推动经济增长和多元化

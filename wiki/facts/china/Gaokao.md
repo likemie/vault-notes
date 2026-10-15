@@ -73,7 +73,7 @@ updated: 2026-10-16
 > [!actor-grid] 实施角色分工
 > - **发布与管理主体** 教育部及地方教育考试院。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 589)]]
 > - **执行主体** 各级中学、校长与任课教师，负责依据考纲开展高密度教学与复习。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, pp. 594–595)]]
-> - **适用对象** 数以千万计的高中学生及其家庭。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 589)]]
+> - **适用对象** 数以千万计的高中学生及其家庭。
 > - **评价杠杆** 高考卷面分数与各校录取率、优生率（前 20%）。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 592, 595)]]
 
 ---

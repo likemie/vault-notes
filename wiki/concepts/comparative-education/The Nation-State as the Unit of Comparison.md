@@ -76,7 +76,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **民族国家作为比较单位（The Nation-State as the Unit of Comparison）** 是指跨国比较教育研究中将拥有法定主权管辖权、明确地缘政治疆域及相对同质文化传统的民族国家（Nation-State），及其自上而下统辖的国民教育体系（National System of Education），设定为最具自足性与合法性的首要[[Epistemology\|认识论]]分析基准（Epistemic Unit of Comparative Study）。该概念假定各国的学校形态与教育政策是该民族国家主权意志、集体历史斗争与[[National Character\|国民性格]]的外在体现；跨国比较研究的核心任务，即在于以民族国家为“认知集装箱”，系统解释不同国家教育体系何以演化出各自的独特相貌，并横向比较各国应对共同现代性危机的制度方案。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 40, 47–48)]]
+> **民族国家作为比较单位（The Nation-State as the Unit of Comparison）** 是指跨国比较教育研究中将拥有法定主权管辖权、明确地缘政治疆域及相对同质文化传统的民族国家（Nation-State），及其自上而下统辖的国民教育体系（National System of Education），设定为最具自足性与合法性的首要[[Epistemology\|认识论]]分析基准（Epistemic Unit of Comparative Study）。该概念假定各国的学校形态与教育政策是该民族国家主权意志、集体历史斗争与[[National Character\|国民性格]]的外在体现；跨国比较研究的核心任务，即在于以民族国家为“认知集装箱”，系统解释不同国家教育体系何以演化出各自的独特相貌，并横向比较各国应对共同现代性危机的制度方案。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 40, 47–48)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向比较教育研究在空间维度上的边界设定与认识论锚点，将世界结构化为离散、主权独立且内部具有[[Institutional Isomorphism\|制度同构]]性的民族国家集合体。
@@ -84,7 +84,7 @@ updated: 2026-10-16
 > - **边界** 难以解释前现代封建教派教育网络与后冷战时期超国家治理机构（如 [[OECD]]、[[World Bank\|世界银行]]、[[EU|欧盟]]）对国家主权的穿透，亦无法有效捕捉次国家级地方社群与跨国移民流动中的杂糅文化空间。
 
 > [!citation-card] 卡扎米亚斯论民族国家作为历史比较母题的首要认识论基准
-> 比较教育研究与分析的认识论单位是民族国家及其国民教育体系——如英格兰、德国、法国、美国和俄国。在对国民教育体系的诠释与解释中，核心目的在于解释和理解这些国家教育系统何以发展至当前形态，以及为何呈现出独特的特质与个性。在历史解释中，民族主义、国家政治意识形态与国民性格被赋予决定性的解释地位。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, p. 40)]]
+> 比较教育研究与分析的认识论单位是民族国家及其国民教育体系——如英格兰、德国、法国、美国和俄国。在对国民教育体系的诠释与解释中，核心目的在于解释和理解这些国家教育系统何以发展至当前形态，以及为何呈现出独特的特质与个性。在历史解释中，民族主义、国家政治意识形态与国民性格被赋予决定性的解释地位。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 40)]]
 >
 > *The epistemic units of comparative study and analysis are nation states and national systems of education: English, German, French, American, Russian. In their interpretation and explanation of national systems of education the main aim is explaining and 'understanding' how national systems of education developed the way they did, and why they exhibit the characteristics and peculiarities that they do. In their historical explanations and interpretations of variations in national educational patterns and practices, these historically oriented comparativists considered 'nationalism', national traditions, national political ideologies and 'national character' to be 'determining' factors.*
 
@@ -110,7 +110,7 @@ updated: 2026-10-16
 ## 核心要素
 
 > [!feature] 核心要素
-> - **主权管辖与制度闭合性（Sovereign Territorial Closure）** 假定现代国家对其领土范围内的所有各级各类教育机构享有排他性的最高治理权，学校法案、督导体制与财政拨款构成高度制度化的统一体系。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, p. 40)]]
+> - **主权管辖与制度闭合性（Sovereign Territorial Closure）** 假定现代国家对其领土范围内的所有各级各类教育机构享有排他性的最高治理权，学校法案、督导体制与财政拨款构成高度制度化的统一体系。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 40)]]
 > - **国家意志与学校形态同构律（State-School Isomorphism）** 假定“有什么样的国家，就有什么样的学校”，教育的指导思想、课程大纲与人才选拔标准直接折射国家政权的统治形态（民主政体或极权政体）。[[Argument_Kazamias_2009_ForgottenThemes\|(Kandel, 1933: 274–275; Kazamias, 2009: 47–48)]]
 > - **[[Externalization\|外化]]表征与民族有机体假定（Organic Representation of National Life）** 将国民教育体系视同国家宪法或民族文学，是由历史斗争沉淀而成的活体有机体，生动表达着该民族的集体生命与文化特质。[[Argument_Kazamias_2009_ForgottenThemes\|(Sadler, 1900; Hans, 1949: 9–11; Kazamias, 2009: 40, 50)]]
 
@@ -156,10 +156,10 @@ updated: 2026-10-16
 > 战后去殖民化运动带来大量非西方新兴国家，加上全球化时代跨国资本、国际组织软治理与人口流动加剧，迫使学界对传统将民族国家假定为均质封闭容器的[[Epistemology\|认识论]]展开全面批判与重构。
 
 > [!claim] [[Andreas Kazamias\|Kazamias, A.]]
-> **均质民族国家假定的破产与战后新兴国家冲击** 卡扎米亚斯在评估 1960 年代学科认同危机时指出，二战后亚非拉大批“新兴国家（New States）”在缺乏均质民族与语言认同的殖民地旧边界上仓促建国，旧大陆英、法、德、俄等均质欧洲民族国家的分析模型陷入严重的解释困境。此外，坎德尔将国家粗暴划分为“民主”与“极权”两极理想类型的做法，掩盖了先进资本主义民主国家内部严重的阶级剥削、种族冲突与教育机会不平等，暴露出将国家抽象均质化的理论缺陷。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 48, 52–53)]]
+> **均质民族国家假定的破产与战后新兴国家冲击** 卡扎米亚斯在评估 1960 年代学科认同危机时指出，二战后亚非拉大批“新兴国家（New States）”在缺乏均质民族与语言认同的殖民地旧边界上仓促建国，旧大陆英、法、德、俄等均质欧洲民族国家的分析模型陷入严重的解释困境。此外，坎德尔将国家粗暴划分为“民主”与“极权”两极理想类型的做法，掩盖了先进资本主义民主国家内部严重的阶级剥削、种族冲突与教育机会不平等，暴露出将国家抽象均质化的理论缺陷。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 48, 52–53)]]
 
 > [!claim] [[Robert Cowen\|Cowen, R.]]
-> **超越容器式国家分析走向空间转译与形态突变** 考恩指出，在晚期现代性与全球化浪潮下，将民族国家作为静态自足比较单位的传统框架已被彻底动摇。教育制度与政策的思想跨国移动呈现为“转移、转译与突变（Transfer, Translation, Transformation）”的动态空间化过程；比较教育必须警惕“[[Methodological Nationalism\|方法论民族主义]]（Methodological Nationalism）”的盲区，重新在地方历史惯性、国家中介过滤与全球新自由主义意识形态三者的张力场中界定多维分析空间。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 47–48)]]
+> **超越容器式国家分析走向空间转译与形态突变** 考恩指出，在晚期现代性与全球化浪潮下，将民族国家作为静态自足比较单位的传统框架已被彻底动摇。教育制度与政策的思想跨国移动呈现为“转移、转译与突变（Transfer, Translation, Transformation）”的动态空间化过程；比较教育必须警惕“[[Methodological Nationalism\|方法论民族主义]]（Methodological Nationalism）”的盲区，重新在地方历史惯性、国家中介过滤与全球新自由主义意识形态三者的张力场中界定多维分析空间。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 47–48)]]
 
 ---
 
@@ -176,9 +176,9 @@ updated: 2026-10-16
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **19 世纪中后期 — 现代民族国家公立教育创建与官方考察奠基** 维多利亚时代皇家学校督学[[Matthew Arnold\|马修·阿诺德]]（Arnold, 1864）与法国哲学家[[Victor Cousin\|库森]]将考察单位锚定于中央集权制的法国与普鲁士国家体系，论证唯有国家公共权威与主权干预才能奠定普遍国民教化。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, p. 38)]]
-> - **1900–1950 年代 — 历史-哲学母题与民族国家[[Epistemology\|认识论]][[Paradigm\|范式]]确立** [[Michael Sadler\|萨德勒]]（1900）、[[Isaac Kandel\|坎德尔]]（1933）与汉斯（1949）将民族国家及其“国民教育体系”确立为跨国比较的公认首要认识论单位，以民族主义与[[National Character\|民族性格]]作为核心因果机制。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 40, 47–50)]]
-> - **1960–1970 年代 — 战后新兴国家冲击与批判性国家理论重塑** 亚非拉大批脱离殖民统治的新兴国家崛起；[[Martin Carnoy|马丁·卡诺伊]]（Martin Carnoy）、[[Joel Samoff|萨莫夫]]与戴尔引入新马克思主义批判国家理论，将国家重构为调和资本积累、阶级利益与合法性危机的冲突竞技场。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, pp. 48, 52–53)]]
+> - **19 世纪中后期 — 现代民族国家公立教育创建与官方考察奠基** 维多利亚时代皇家学校督学[[Matthew Arnold\|马修·阿诺德]]（Arnold, 1864）与法国哲学家[[Victor Cousin\|库森]]将考察单位锚定于中央集权制的法国与普鲁士国家体系，论证唯有国家公共权威与主权干预才能奠定普遍国民教化。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 38)]]
+> - **1900–1950 年代 — 历史-哲学母题与民族国家[[Epistemology\|认识论]][[Paradigm\|范式]]确立** [[Michael Sadler\|萨德勒]]（1900）、[[Isaac Kandel\|坎德尔]]（1933）与汉斯（1949）将民族国家及其“国民教育体系”确立为跨国比较的公认首要认识论单位，以民族主义与[[National Character\|民族性格]]作为核心因果机制。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 40, 47–50)]]
+> - **1960–1970 年代 — 战后新兴国家冲击与批判性国家理论重塑** 亚非拉大批脱离殖民统治的新兴国家崛起；[[Martin Carnoy|马丁·卡诺伊]]（Martin Carnoy）、[[Joel Samoff|萨莫夫]]与戴尔引入新马克思主义批判国家理论，将国家重构为调和资本积累、阶级利益与合法性危机的冲突竞技场。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 48, 52–53)]]
 > - **1990 年代至今 — 布雷-托马斯多层分析立方体与反思[[Methodological Nationalism\|方法论民族主义]]** 马克·布雷与 R. 默里·托马斯（Bray & Thomas, 1995）提出打破单一国家容器的多层级比较分析立方体；[[Roger Dale|罗杰·戴尔]]、考恩与诺沃亚等学者系统反思方法论民族主义，推动比较教育走向全球治理与超国家空间分析。
 
 ---
@@ -191,7 +191,7 @@ updated: 2026-10-16
 > > 争论焦点在于以民族国家为单一单位是否会将整个国家的教育现实掩盖在虚假的抽象同质性之下。
 > >
 > > - **Kandel, I.（1933）** 坚持每个民族国家具有相对统一的主权意志与民族精神，国民教育体系反映了该民族的总体共同期望。[[Argument_Kazamias_2009_ForgottenThemes\|(Kandel, 1933: xxiv; Kazamias, 2009: 40)]]
-> > - **Kazamias, A.（2009）** 尖锐批评这种宏观概括遮蔽了高级资本主义工业民主国家内部剧烈的阶级分化、种族不平等与地方教育权冲突。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, p. 48)]]
+> > - **Kazamias, A.（2009）** 尖锐批评这种宏观概括遮蔽了高级资本主义工业民主国家内部剧烈的阶级分化、种族不平等与地方教育权冲突。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 48)]]
 >
 > > [!axis] 封闭国家领土容器 vs 全球跨国[[Policy Network\|政策网络]]与软治理
 > > 争论焦点在于民族国家是否依然是定义教育政策走向的终极决定力量。
@@ -211,4 +211,4 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009)]] — 系统考掘民族国家作为历史-哲学母题核心[[Epistemology\|认识论]]单位的确立、[[Isaac Kandel\|坎德尔]]对国家解释[[Variable\|变量]]的开创性贡献，以及战后该[[Paradigm\|范式]]遭遇的历史局限与反思。
+> - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] — 系统考掘民族国家作为历史-哲学母题核心[[Epistemology\|认识论]]单位的确立、[[Isaac Kandel\|坎德尔]]对国家解释[[Variable\|变量]]的开创性贡献，以及战后该[[Paradigm\|范式]]遭遇的历史局限与反思。

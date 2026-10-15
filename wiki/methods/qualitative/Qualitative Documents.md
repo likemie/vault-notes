@@ -2,7 +2,6 @@
 title: Qualitative Documents
 aliases:
   - 质性文件
-  - qualitative documents
   - 文件数据
 summary: "质性研究中收集和分析公共文件与私人文件作为数据来源的方法，是访谈和观察之外的第三种主要质性数据形式"
 type: method

@@ -31,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-06-12T18:30:00
+updated: 2026-10-16
 ---
 
 # LISA Time Path
@@ -203,4 +203,4 @@ updated: 2026-06-12T18:30:00
 ## 使用此方法的研究
 
 > [!example]
-> - [[Argument_Fan_Song_Zhai_2024_RSEE]] — 使用LISA时空路径追踪中国30个省份EST耦合协调度的22年空间关联演化，计算RL和D揭示东部"高质量稳态"与西部"低质量扰动"的稳定性分化
+> - [[Argument_Fan_Song_Zhai_2024_RSEE|Fan et al. (2024)]] — 使用LISA时空路径追踪中国30个省份EST耦合协调度的22年空间关联演化，计算RL和D揭示东部"高质量稳态"与西部"低质量扰动"的稳定性分化

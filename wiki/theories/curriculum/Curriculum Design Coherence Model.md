@@ -3,7 +3,6 @@ title: Curriculum Design Coherence Model
 aliases:
   - 课程设计连贯性模型
   - CDCM
-  - Curriculum Design Coherence Model
 summary: "McPhail 提出的课程设计模型，基于社会实在论，将概念、内容和技能区分为不同类型的知识并要求在设计阶段明确其连接，以实现深层学习"
 type: theory
 theory_field: "curriculum"

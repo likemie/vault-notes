@@ -3,7 +3,6 @@ title: Domain-Referenced Test
 aliases:
   - 领域参照测验
   - 领域参照评估
-  - domain-referenced test
   - domain-referenced assessment
   - DRT
 summary: "以明确界定的内容全域为参照，通过代表性题目样本推断个体对整个领域的掌握程度。"

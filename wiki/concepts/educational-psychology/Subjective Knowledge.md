@@ -2,7 +2,6 @@
 title: Subjective Knowledge
 aliases:
   - 主观知识
-  - subjective knowledge
 summary: "女性认知方式模型中的认识论阶段，个体认识到知识的不确定性，并转向内在的、直觉的真理。"
 type: concept
 domain: "educational-psychology"

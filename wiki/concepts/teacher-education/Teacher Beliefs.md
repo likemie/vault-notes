@@ -1,6 +1,6 @@
 ---
 title: Teacher Beliefs
-aliases: [教师信念, teacher beliefs]
+aliases: [教师信念]
 summary: "教师在教育实践中所持有的关于教学、学习、学生和知识本质的认知和观念，它们对教师的教学行为、决策及课程实施具有强烈的指导作用。"
 type: concept
 domain: "teacher-education"

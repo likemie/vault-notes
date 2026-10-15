@@ -112,7 +112,7 @@ updated: 2026-10-16
 >
 > 尽管联邦政府大力推崇日本教育，美国联邦—州—地方的分权结构构成了 Rappleye 框架中的"法律/组织结构刚性"——教育权在各州和地方学区，联邦无法强制推行任何实质性制度借用。这解释了该案例最核心的特征：**高吸引力、低借用**。日本教育在美国引发的关注主要集中在[[Discourse|话语]]层面（政策辩论和媒体讨论），而非制度实践层面的移植([[Argument_Rappleye_2006_RCIE\|Rappleye, 2006, p. 231]])。
 >
-> 详细的概念[[Analytic Framework\|分析框架]]见 [[Cross-National Attraction]] 与 [[Argument_Rappleye_2006_RCIE]]。
+> 详细的概念[[Analytic Framework\|分析框架]]见 [[Cross-National Attraction]] 与 [[Argument_Rappleye_2006_RCIE|Rappleye (2006)]]。
 
 ---
 

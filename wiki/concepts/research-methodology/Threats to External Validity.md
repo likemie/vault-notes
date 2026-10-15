@@ -2,7 +2,6 @@
 title: Threats to External Validity
 aliases:
   - 外部效度威胁
-  - threats to external validity
   - external validity threats
 summary: "在量化研究中限制研究发现从样本推广到更广泛总体、情境和时间的系统性偏差来源，Campbell and Stanley 经典框架列出九种量化威胁，Lincoln and Guba 将其扩展至自然主义研究中的四种威胁"
 type: concept

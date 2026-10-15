@@ -2,7 +2,6 @@
 title: Independent Knowing
 aliases:
   - 独立认知
-  - independent knowing
 summary: "认识论反思模型（ERM）的第三阶段，认为知识是不确定的，每个人都有权保留自己的观点。"
 type: concept
 domain: "educational-psychology"

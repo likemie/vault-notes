@@ -72,7 +72,7 @@ updated: 2026-10-16
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Simpson, A. (2017). The misdirection of public policy: Comparing and combining standardised effect sizes. *Journal of Education Policy*, 32(4), 450–466. — 通过农场肥料思想实验和真实研究案例，系统论证[[Effect Size\|效应量]]三大系统性偏差（比较组不对等、范围限制、测量设计）使[[Meta-analysis\|元分析]]联盟表成为"研究设计操纵开放程度的等级"而非教育有效性排名。详见 [[Argument_Simpson_2017_JEP]]。
+> - Simpson, A. (2017). The misdirection of public policy: Comparing and combining standardised effect sizes. *Journal of Education Policy*, 32(4), 450–466. — 通过农场肥料思想实验和真实研究案例，系统论证[[Effect Size\|效应量]]三大系统性偏差（比较组不对等、范围限制、测量设计）使[[Meta-analysis\|元分析]]联盟表成为"研究设计操纵开放程度的等级"而非教育有效性排名。详见 [[Argument_Simpson_2017_JEP|Simpson (2017)]]。
 > - Simpson, A. (2018). Princesses are bigger than elephants: Effect size as a category error in [[Evidence-Based Education]]. *British Educational Research Journal*, 44(5), 897–913. — 论证将效应量视为干预有效性的测量是一个**类别错误**——类似于将图片中公主比大象大的尺寸差异误认为所指对象实际大小的差异([[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, p.126]])。
 > - Simpson, A. (2019). Separating arguments from conclusions: The mistaken role of effect size in educational policy research. *Educational Research and Evaluation*, 25(1-2), 99–109. — 以"教一个匈牙利单词"思想实验系统证明效应量是**试验清晰度（experimental clarity）** 而非教育有效性的测量；以 Corncrake 寓言开篇说明论证有效性与结论正确性必须被区分；运用 Freedman (2009) 框架分析 EBE 支持者对批评的六种防御策略。详见 Argument_Simpson_2019_ERE。
 
@@ -99,7 +99,7 @@ updated: 2026-10-16
 >
 > **效应量应更名为"效应清晰度"([[Argument_Simpson_2017_JEP\|Simpson, 2017, p.14]])** 效应量"名字起得不好"——应称为 effect clarity。大 d 表示差异"非常清晰"，但并不意味着差异大、重要或具有教育显著性。研究者通过减少干预以外来源的方差来放大效应量——正如 Lipsey and Hurley (2009) 推荐的最小化组内变异——但这与干预的教育价值无关。
 >
-> 详见 [[Effect Size#Simpson (2017) 的三大系统性偏差：原始论证]]、[[Argument_Simpson_2017_JEP]]。
+> 详见 [[Effect Size#Simpson (2017) 的三大系统性偏差：原始论证]]、[[Argument_Simpson_2017_JEP|Simpson (2017)]]。
 
 
 > [!info] 效应量作为类别错误（2018）
@@ -146,9 +146,9 @@ updated: 2026-10-16
 >
 > **对[[Critique of Effect Size\|效应量批判]]文献的影响** Simpson 的论证被后续 EBE 批判广泛引用，构成方法论批判的技术支柱：
 >
-> - [[Argument_Wrigley_2019_ERE\|Wrigley and McCusker (2019, p.118)]]将 Simpson 的三大系统性偏差总结为效应量批判的核心构件，并整合进其三级失真框架——详见 [[Argument_Wrigley_2019_ERE]]
+> - [[Argument_Wrigley_2019_ERE\|Wrigley and McCusker (2019, p.118)]]将 Simpson 的三大系统性偏差总结为效应量批判的核心构件，并整合进其三级失真框架——详见 [[Argument_Wrigley_2019_ERE|Wrigley and McCusker (2019)]]
 > - [[Argument_Wiliam_2019_ERE\|Wiliam (2019, p.11)]]明确引用 Simpson 的论证作为其"[[Meta-meta-analysis\|元-元分析]]在教育政策中绝对没有任何角色"断言的方法论基础，同时肯定 Simpson 并非"把婴儿和洗澡水一起倒掉"——"Simpson is careful not to throw the baby out with the bathwater"——详见 Argument_Wiliam_2019_ERE
-> - [[Argument_OConnor_2020_AJLL\|O'Connor (2020)]]在[[Whole Language\|全语言]]案例的细读审查中运用 Simpson 效应量不可比性的论证，揭示 VL 中分类错误和选择性排除的模式——详见 [[Argument_OConnor_2020_AJLL]]
+> - [[Argument_OConnor_2020_AJLL\|O'Connor (2020)]]在[[Whole Language\|全语言]]案例的细读审查中运用 Simpson 效应量不可比性的论证，揭示 VL 中分类错误和选择性排除的模式——详见 [[Argument_OConnor_2020_AJLL|O'Connor (2020)]]
 >
 > **对政策工具的直接影响** Simpson 的批判直接适用于 [[EEF Teaching and Learning Toolkit]] 和 [[Visible Learning]]——两者都以效应量为基本[[Unit of Analysis\|分析单位]]，而效应量本身已被论证为不可靠的测量指标。他的论证从技术层面支持了 Wrigley 的方法论批判和 Biesta 的哲学批判，使 EBE 批判形成了哲学-方法论-制度的完整框架。
 

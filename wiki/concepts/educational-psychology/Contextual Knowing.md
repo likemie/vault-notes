@@ -2,7 +2,6 @@
 title: Contextual Knowing
 aliases:
   - 语境认知
-  - contextual knowing
 summary: "认识论反思模型（ERM）的最高阶段，能基于语境和证据对不确定的知识进行概率性评估。"
 type: concept
 domain: "educational-psychology"

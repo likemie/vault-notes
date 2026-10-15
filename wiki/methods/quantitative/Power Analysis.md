@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-05-31
+updated: 2026-10-16
 ---
 
 # Power Analysis
@@ -88,5 +88,5 @@ updated: 2026-05-31
 ## 使用此方法的研究
 
 > [!example]
-> - [[Argument_Creswell_2022_SAGE]] — 以调查和实验方法计划为例，说明如何在研究规划和正式招募前使用 G*Power 等工具进行[[Sample Size Determination\|样本量]]功效分析。（Ch8）
+> - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 以调查和实验方法计划为例，说明如何在研究规划和正式招募前使用 G*Power 等工具进行[[Sample Size Determination\|样本量]]功效分析。（Ch8）
 

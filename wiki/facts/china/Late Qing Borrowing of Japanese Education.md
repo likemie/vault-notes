@@ -91,7 +91,7 @@ updated: 2026-10-07
 >
 > 在一个双方几乎无法在任何其他议题上达成共识的时代——改革派要废除科举、保守派要守护祖制——"日本教育是中国的好模型"成了罕见的重叠点。这种动态——同一符号允许不同群体"在实际上持有不同理解和追求不同议程的同时达成一致"（Goodman, 2003, p. 15）——使吸引力在极短时间内转化为大规模制度借用([[Argument_Rappleye_2006_RCIE\|Rappleye, 2006, p. 234]])。
 >
-> 详细的概念分析见 [[Cross-National Attraction]] 与 [[Argument_Rappleye_2006_RCIE]]。关于行动者动机分类见 [[Pre-Transfer Agency]]。
+> 详细的概念分析见 [[Cross-National Attraction]] 与 [[Argument_Rappleye_2006_RCIE|Rappleye (2006)]]。关于行动者动机分类见 [[Pre-Transfer Agency]]。
 
 ---
 

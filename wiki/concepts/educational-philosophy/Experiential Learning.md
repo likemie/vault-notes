@@ -3,7 +3,6 @@ title: Experiential Learning
 aliases:
   - 经验学习
   - 经验教育
-  - experiential learning
   - experiential education
 summary: "以经验及其重组促进学习与成长的教育概念，借连续性与个体—环境交互判定经验价值，并分析学术学习、社会服务与地方实践如何相互联系。"
 type: concept

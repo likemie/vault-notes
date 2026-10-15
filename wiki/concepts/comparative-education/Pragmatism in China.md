@@ -153,7 +153,7 @@ updated: 2026-10-16
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **语义压印与方法极端化** | 探讨“经世致用”传统与译名对 Pragmatism 的工具化压缩 | 思想史与译介学 | [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009, pp.71–72)]]; [[Hu Shi\|胡适]] |
-> | **3T 拆解与范式转向** | 揭示民国时期民主目标与渐进方法的分离及向科学态度的转向 | 比较教育与跨国[[Knowledge Transfer\|知识转移]] | [[Argument_Zhou_2024_CE\|Zhou and Westberg (2024)]]; [[Argument_Cowen_2009_CE\|Cowen (2009)]] |
+> | **3T 拆解与范式转向** | 揭示民国时期民主目标与渐进方法的分离及向科学态度的转向 | 比较教育与跨国[[Knowledge Transfer\|知识转移]] | [[Argument_Zhou_2024_CE\|Zhou and Westberg (2024)]]; [[Argument_Cowen_2009_CE\|Cowen (2009b)]] |
 > | **建国后三重政治变形** | 追踪建国后实用主义从批判靶点向素质教育盟友的演变 | 政治话语与教育政策 | [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009, pp.79–93)]] |
 
 ---
@@ -172,7 +172,7 @@ updated: 2026-10-16
 > [!debates] 学术争议
 >
 > > [!axis] [[Knowledge Transfer\|知识转移]]中的“误读论”与“结构必然论”
-> > 传统学者认为民国知识分子没有准确理解[[John Dewey\|杜威]]的完整哲学；[[Argument_Cowen_2009_CE\|Cowen (2009)]], [[Argument_Zhou_2024_CE\|Zhou and Westberg (2024)]] 与 [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] 证明这不是个人理解力不足或翻译错误，而是外来理论落入非西方危机社会时的结构性必然。
+> > 传统学者认为民国知识分子没有准确理解[[John Dewey\|杜威]]的完整哲学；[[Argument_Cowen_2009_CE\|Cowen (2009b)]], [[Argument_Zhou_2024_CE\|Zhou and Westberg (2024)]] 与 [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] 证明这不是个人理解力不足或翻译错误，而是外来理论落入非西方危机社会时的结构性必然。
 
 > [!warning] 适用局限
 > 概念专用于分析中国近代及当代教育思想史、政策[[Discourse|话语]]与跨国知识转移；不应用于解释无政治危机语境下的纯学术哲学传播。
@@ -184,4 +184,4 @@ updated: 2026-10-16
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] — 追踪[[Pragmatic Paradigm\|实用主义]]在中国从晚清经世致用到当代[[Quality Education\|素质教育]]的三重变形。
 > - [[Argument_Zhou_2024_CE\|Zhou and Westberg (2024)]] — 运用 Cowen [[Transfer Translation Transformation\|3T 框架]]拆解[[John Dewey\|杜威]]实用主义在民国中国（1919–1928）的转移、转译与转化机制。
-> - [[Argument_Cowen_2009_CE\|Cowen (2009)]] — 提供 3T 理论框架分析外来教育思想跨国移动中的变形规律。
+> - [[Argument_Cowen_2009_CE\|Cowen (2009b)]] — 提供 3T 理论框架分析外来教育思想跨国移动中的变形规律。

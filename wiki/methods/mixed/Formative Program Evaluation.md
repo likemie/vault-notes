@@ -37,7 +37,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-23'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 ## 定义
@@ -90,5 +90,5 @@ updated: 2026-10-15
 
 > [!example]
 > - [[Students and Teachers Accessing Tomorrow]] — 使用多源[[Formative Assessment\|形成性评价]]追踪[[Technology Infusion\|技术整合]]改革的实施、课堂变化、学生参与和成就结果([[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp.115-118, 121-124]])。
-> - [[Argument_Ross_Morrison_2021_ECNUROE]] — 以 STAT 为例说明形成性评价如何帮助复杂改革提高实施质量和可持续性，同时也显示证据解释会受利益相关者价值排序影响。
+> - [[Argument_Ross_Morrison_2021_ECNUROE|Ross and Morrison (2021)]] — 以 STAT 为例说明形成性评价如何帮助复杂改革提高实施质量和可持续性，同时也显示证据解释会受利益相关者价值排序影响。
 

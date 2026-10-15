@@ -92,5 +92,5 @@ Gruschka 借用 Adorno (1997) 的**星座(constellation)** 概念来强调三要
 ## 相关研究
 
 > [!example]
-> - [[Argument_Jornitz_2022_Bildung_algorithmic]] — Jornitz & Klinge 以 Gruschka [[Didaktik\|教学理论]]为框架，分析学习软件的即时反馈、奖励系统和仪表盘如何从三维度排除 [[Bildung]]
+> - [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz and Klinge (2022)]] — Jornitz & Klinge 以 Gruschka [[Didaktik\|教学理论]]为框架，分析学习软件的即时反馈、奖励系统和仪表盘如何从三维度排除 [[Bildung]]
 

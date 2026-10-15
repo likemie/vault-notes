@@ -2,7 +2,6 @@
 title: Democratic Education
 aliases:
   - 民主教育
-  - democratic education
 summary: "约翰·杜威进步主义教育哲学的核心理想，将民主界定为一种联合生活方式与共享沟通经验，主张学校必须成为培育合作探究、平等对话与公民素养的民主社区。"
 type: concept
 domain: "educational-philosophy"

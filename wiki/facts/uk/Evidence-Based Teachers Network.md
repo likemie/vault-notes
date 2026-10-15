@@ -67,7 +67,7 @@ updated: 2026-10-15
 ## 争议与评论
 
 > [!warning]
-> 教师网络有助于传播证据，但其质量取决于网络中证据筛选、解释和培训机制。[[Argument_Pellegrini_2021_ECNUROE]] 提醒，欧洲需要更清晰的发展路线图和支持材料，而不是只依靠分散倡议([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, pp.41-42]])。
+> 教师网络有助于传播证据，但其质量取决于网络中证据筛选、解释和培训机制。[[Argument_Pellegrini_2021_ECNUROE|Pellegrini and Vivanet (2021)]] 提醒，欧洲需要更清晰的发展路线图和支持材料，而不是只依靠分散倡议([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, pp.41-42]])。
 
 ## 相关概念／理论
 

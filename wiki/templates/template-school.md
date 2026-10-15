@@ -92,7 +92,7 @@ updated: <% tp.date.now("YYYY-MM-DD") %>
 > > - **<学派回应学者>（Year）** 学派代表人物的回应或辩护论据。[[Argument_Author_Year_Journal|(Author, Year, p. X)]]
 
 > [!critique]- 批评索引
-> - [[Argument_Author_Year_Journal]] — 一句话说明该研究从何种视角（如现实主义、依附论、微观互动论等）批评该学派。
+> - [[Argument_Author_Year_Journal|Author (Year)]] — 一句话说明该研究从何种视角（如现实主义、依附论、微观互动论等）批评该学派。
 
 > [!warning] 解释局限与未解问题
 > 阐明该学派公认的解释边界、盲区或当前面临的理论危机。

@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-06-12
+updated: 2026-10-16
 ---
 
 # Coupling Coordination Theory
@@ -100,4 +100,4 @@ updated: 2026-06-12
 ## 相关研究
 
 > [!example]
-> - [[Argument_Fan_Song_Zhai_2024_RSEE]] — 以耦合协调理论为框架，构建教育-科技-人才（EST）三系统评价指标体系，结合[[Coupling Coordination Model\|耦合协调模型]]和时空分析方法研究中国[[EST Integrated Development\|EST一体化]]发展的时空分异规律
+> - [[Argument_Fan_Song_Zhai_2024_RSEE|Fan et al. (2024)]] — 以耦合协调理论为框架，构建教育-科技-人才（EST）三系统评价指标体系，结合[[Coupling Coordination Model\|耦合协调模型]]和时空分析方法研究中国[[EST Integrated Development\|EST一体化]]发展的时空分异规律

@@ -103,7 +103,7 @@ updated: 2026-10-16
 > - **空间隐喻表征（Spatial Metaphors）** 利用空间邻近性、包含关系与层级走向编码语义关联，借助大脑海马体与大脑皮层的空间感知通道实现长时记忆联结。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 2–3)]]
 > - **核心信息筛选与提炼（Key Information Selection）** 剥离非关键细节与表层语言冗余，凸显核心概念节点与关键证据要素。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 1–2)]]
 > - **结构拓扑与层级组织（Structural Topology & Hierarchy）** 通过中心辐射、逻辑推论链或概念交叉网络，清晰呈现概念间的从属、因果、对立与协同关系。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 3–4)]]
-> - **认知加工外显化（[[Externalization]] of Thought）** 将隐性思维过程、假设检验与推论跳跃转化为可见的可视化实体，便于自我监控与同伴协作修正。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 2–3)]]
+> - **认知加工外显化（[[Externalization]] of Thought）** 将隐性思维过程、假设检验与推论跳跃转化为可见的可视化实体，便于自我监控与同伴协作修正。
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -177,13 +177,13 @@ updated: 2026-10-16
 > > 关于图形组织器应由学生独立绘制生成还是由教师或教材直接呈现，学界存在生成性学习与认知过载的路径争论。
 > >
 > > - **Lei, Ding and Chiu（2026）** 实证纳入的绝大多数研究均采用教师指导基本规范、学生自主绘制生成、教师反馈修改的生成性程序，强调学生在主动空间表征建构中深化高阶认知加工。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 5, 13)]]
-> > - **Su（2018）** 探讨教师预先制作动态[[Concept Mapping\|概念图]]对学生电化学推理的辅助作用，认为高质量的专家预制图示可减少学生的初始建构迷茫。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 5, 13)]]
+> > - **Su（2018）** 探讨教师预先制作动态[[Concept Mapping\|概念图]]对学生电化学推理的辅助作用，认为高质量的专家预制图示可减少学生的初始建构迷茫。
 >
 > > [!axis] 视觉线索丰富度与[[Seductive Details Effect\|诱人细节效应]]的张力
 > > 图像、色彩、图标等视觉增强手段能否促进思维，抑或产生认知干扰。
 > >
 > > - **Rowland-Bryant et al.（2009）** 指出低龄学生极易被图示中不重要的修饰性图像（Seductive Details）分散注意力，阻碍核心概念逻辑的提取。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, p. 4)]]
-> > - **Buzan and Edwards and Cooper（2010）** 主张[[Mind Mapping\|思维导图]]中的多色分支与生动图标能够激活左右脑协同并增强联想记忆与[[Creativity\|创造力]]。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, p. 4)]]
+> > - **Buzan and Edwards and Cooper（2010）** 主张[[Mind Mapping\|思维导图]]中的多色分支与生动图标能够激活左右脑协同并增强联想记忆与[[Creativity\|创造力]]。
 
 > [!warning] 适用局限
 > 图形组织器的促学成效高度依赖学习者的[[Meta-Representational Competence\|元表征能力]]与反思训练；若仅将其作为机械填空或[[Rote Learning\|死记硬背]]的板书替代品，则无法有效激活[[Higher-Order Thinking Skills\|高阶思维]]。此外，在缺乏长期追踪的情况下，其向远迁移问题情境的可持续保留效应仍有待检验。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 12–13)]]

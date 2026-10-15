@@ -31,7 +31,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-05-21
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Critical Companion
@@ -76,5 +76,5 @@ updated: 2026-10-07
 ## 使用此方法的研究
 
 > [!example]
-> - [[Argument_Zelinka_2022_SCD_subjectivity]] — 对七个国际 21 世纪技能框架进行批判性伴随分析，揭示 [[Single-Case Design\|SCD]] 如何通过三组张力生产以[[Self-Entrepreneur\|自我企业家]]为核心的新主体性
+> - [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022)]] — 对七个国际 21 世纪技能框架进行批判性伴随分析，揭示 [[Single-Case Design\|SCD]] 如何通过三组张力生产以[[Self-Entrepreneur\|自我企业家]]为核心的新主体性
 

@@ -30,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-01
+updated: 2026-10-16
 ---
 
 # Archival Correspondence Analysis
@@ -99,7 +99,7 @@ updated: 2026-10-01
 ## 使用此方法的研究
 
 > [!example]
-> - [[Argument_Ryabyy_2024_Maneto]] — 利用 Dewey 的私人通信、纽约时报报道和美国国务院外交函件三类档案资料交叉验证，重建 Dewey 1928 年访苏的行程、互动与多向影响。（pp.102–109）
+> - [[Argument_Ryabyy_2024_Maneto|Ryabyy (2024)]] — 利用 Dewey 的私人通信、纽约时报报道和美国国务院外交函件三类档案资料交叉验证，重建 Dewey 1928 年访苏的行程、互动与多向影响。（pp.102–109）
 
 ---
 

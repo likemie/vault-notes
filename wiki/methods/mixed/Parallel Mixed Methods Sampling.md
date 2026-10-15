@@ -2,7 +2,6 @@
 title: Parallel Mixed Methods Sampling
 aliases:
   - 平行混合方法抽样
-  - parallel mixed methods sampling
 summary: "概率和非概率样本同时并排运行、彼此独立的混合方法抽样设计，两种样本的数据互不影响，可在样本同一层次内进行跨子组比较"
 type: method
 method_type: mixed

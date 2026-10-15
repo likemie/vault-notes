@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-07-13
+updated: 2026-10-16
 ---
 
 # Between-Subjects and Within-Subjects Designs
@@ -81,5 +81,5 @@ updated: 2026-07-13
 ## 使用此方法的研究
 
 > [!example]
-> - [[Argument_Creswell_2022_SAGE]] — 以 2 × 4 混合设计为例，价值肯定条件为受试者间[[Variable\|变量]]（价值肯定 vs 控制），时间（基线、压力后 20、30、45 分钟）为受试者内变量。（Ch8, Example 8.5）
+> - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 以 2 × 4 混合设计为例，价值肯定条件为受试者间[[Variable\|变量]]（价值肯定 vs 控制），时间（基线、压力后 20、30、45 分钟）为受试者内变量。（Ch8, Example 8.5）
 

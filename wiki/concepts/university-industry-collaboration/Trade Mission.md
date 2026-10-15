@@ -3,7 +3,6 @@ title: Trade Mission
 aliases:
   - "贸易代表团"
   - "政府贸易代表团"
-  - "trade mission"
   - "government trade mission"
 summary: "大学参与政府组织的国际商务出访活动，借此直接接触海外企业决策者、展示研究能力并催化国际产学合作的连接机制"
 type: concept

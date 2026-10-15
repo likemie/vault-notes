@@ -66,21 +66,21 @@ updated: 2026-10-07
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> [[International Education\|国际教育]]协会（Education International, EI）是全球最大的教师与教育工作者行业工会联合会，总部设于比利时布鲁塞尔，代表全球逾 3200 万名中小学教师与教育支持专业人员，以捍卫优质免费公共教育、维护教师专业权益与促进社会正义为法定核心使命，在[[Global Policy Space\|全球政策空间]]中构成连接草根教师群体、多边国际组织与各国政府的关键非政府治理枢纽。[[Argument_Beech_2009_CE\|(Beech, 2009, pp. 351–353)]]；[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 209–213)]]
+> [[International Education\|国际教育]]协会（Education International, EI）是全球最大的教师与教育工作者行业工会联合会，总部设于比利时布鲁塞尔，代表全球逾 3200 万名中小学教师与教育支持专业人员，以捍卫优质免费公共教育、维护教师专业权益与促进社会正义为法定核心使命，在[[Global Policy Space\|全球政策空间]]中构成连接草根教师群体、多边国际组织与各国政府的关键非政府治理枢纽。[[Argument_Beech_2009_CE\|(Beech, 2009a, pp. 351–353)]]；[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 209–213)]]
 
 > [!org-context] 机构背景
-> - **成立时间与创设背景** 1993 年由世界教师组织专业联合会（WCOTP）与国际自由教师工会秘书处（IFFTU）合并创立，旨在克服冷战时期意识形态割裂，建立代表全人类教师共同利益的统一全球性专业劳工网络。[[Argument_Beech_2009_CE\|(Beech, 2009, p. 352)]]
+> - **成立时间与创设背景** 1993 年由世界教师组织专业联合会（WCOTP）与国际自由教师工会秘书处（IFFTU）合并创立，旨在克服冷战时期意识形态割裂，建立代表全人类教师共同利益的统一全球性专业劳工网络。[[Argument_Beech_2009_CE\|(Beech, 2009a, p. 352)]]
 > - **总部地点与辐射范围** 总部设于比利时布鲁塞尔，在全球设立亚太、非洲、拉美、北美与欧洲区域办事处，会员网络横跨 172 个国家和地区的 401 个全国性成员工会组织。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 213)]]
 > - **法人属性与经费基础** 属于独立的国际非政府劳工与专业联合组织，经费独立来源于各成员工会的年度缴纳会费，确保其在政治、意识形态和政府干预面前的组织自主性。
-> - **核心宗旨与法定职责** 坚决捍卫公共免费教育（public free education）与教育机会均等；抵制教育市场化、商业化与私有化浪潮；维护教师身心福祉与劳动尊严；依托扎实实证研究介入跨国教育决策。[[Argument_Beech_2009_CE\|(Beech, 2009, pp. 352–353)]]；[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 210)]]
+> - **核心宗旨与法定职责** 坚决捍卫公共免费教育（public free education）与教育机会均等；抵制教育市场化、商业化与私有化浪潮；维护教师身心福祉与劳动尊严；依托扎实实证研究介入跨国教育决策。[[Argument_Beech_2009_CE\|(Beech, 2009a, pp. 352–353)]]；[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 210)]]
 
 ---
 
 ## 历史沿革与组织演变
 
 > [!dev-timeline]- 组织发展历程
-> - **1993–2000 — 全球统一与反新自由主义旗帜确立** 冷战结束后正式合并建立，确立对[[World Trade Organization|世界贸易组织]]（WTO）《[[GATS and Trade in Education Services\|服务贸易总协定]]》（GATS）及新自由主义[[Endogenous and Exogenous Privatisation\|教育私有化]]浪潮的坚决抵制立场，将教育界定为不可买卖的基本人权与公共品。[[Argument_Beech_2009_CE\|(Beech, 2009, pp. 352–353)]]
-> - **2000–2010 — [[Performativity\|操演性]]生存与悖论性金融多边结盟** 面对新自由主义多边机构对全球教育治理的主导，EI 采取基于[[Performativity\|操演性]]逻辑的[[Pragmatic Paradigm\|实用主义]]结盟策略，主动与[[International Monetary Fund|国际货币基金组织]]（IMF）及[[World Bank\|世界银行]]展开项目级战术协作，借由与金融巨头的接触扩大其在[[Policy Network\|政策网络]]中的[[Discourse|话语]]权与能见度。[[Argument_Beech_2009_CE\|(Beech, 2009, pp. 351–353)]]
+> - **1993–2000 — 全球统一与反新自由主义旗帜确立** 冷战结束后正式合并建立，确立对[[World Trade Organization|世界贸易组织]]（WTO）《[[GATS and Trade in Education Services\|服务贸易总协定]]》（GATS）及新自由主义[[Endogenous and Exogenous Privatisation\|教育私有化]]浪潮的坚决抵制立场，将教育界定为不可买卖的基本人权与公共品。[[Argument_Beech_2009_CE\|(Beech, 2009a, pp. 352–353)]]
+> - **2000–2010 — [[Performativity\|操演性]]生存与悖论性金融多边结盟** 面对新自由主义多边机构对全球教育治理的主导，EI 采取基于[[Performativity\|操演性]]逻辑的[[Pragmatic Paradigm\|实用主义]]结盟策略，主动与[[International Monetary Fund|国际货币基金组织]]（IMF）及[[World Bank\|世界银行]]展开项目级战术协作，借由与金融巨头的接触扩大其在[[Policy Network\|政策网络]]中的[[Discourse|话语]]权与能见度。[[Argument_Beech_2009_CE\|(Beech, 2009a, pp. 351–353)]]
 > - **2010–至今 — 科研自主建制与跨国循证共治突破** EI 深度推进研究证据与教师政策的融合，设立独立运作的[[International Education\|国际教育]]协会研究院（EI Research Institute）；成功争取在[[OECD\|经合组织]]核心理事会的常设观察员席位；2011 年联合发起[[International Summits on the Teaching Profession\|国际教师职业峰会]]（International Summits on the Teaching Profession, ISTP），实现由抗争型工会向基于客观证据的高层战略协商伙伴转型。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–213, 216)]]
 
 ---
@@ -123,7 +123,7 @@ updated: 2026-10-07
 > - **政策与制度渗透** 在 [[OECD]]/[[Centre for Educational Research and Innovation\|CERI]]、[[PISA]] 与 [[Teaching and Learning International Survey\|TALIS]] 理事会获得常设观察员席位；通过 [[International Summits on the Teaching Profession\|ISTP]] 闭门协商机制实质影响数十个成员国的教师福利、考评与专业协作立法。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–212)]]
 
 > [!finding-cards] 关键成效与辐射影响
-> - **消解两极化意识形态对立** 通过参与[[Policy Network\|政策网络]]与[[Pragmatic Paradigm\|实用主义]]项目联盟，证明全球教育治理并非冷战式的纯粹对抗，而是基于具体议题和行动力的动态协商网络。[[Argument_Beech_2009_CE\|(Beech, 2009, pp. 352–353)]]
+> - **消解两极化意识形态对立** 通过参与[[Policy Network\|政策网络]]与[[Pragmatic Paradigm\|实用主义]]项目联盟，证明全球教育治理并非冷战式的纯粹对抗，而是基于具体议题和行动力的动态协商网络。[[Argument_Beech_2009_CE\|(Beech, 2009a, pp. 352–353)]]
 > - **确立教师数据所有权原则** 打破了跨国调查数据仅由政府官僚独占的传统垄断，确立了调查数据与政策发现属于广大教师及其专业组织的合法共有人地位。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210–211)]]
 > - **重构全球教师政策决策[[Paradigm\|范式]]** 通过创设 ISTP 机制，将劳资对抗性博弈转型为基于研究证据的理性协商，促成分布式领导与缓解教师身心压力成为各国官方政策共识。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210, 216)]]
 
@@ -141,8 +141,8 @@ updated: 2026-10-07
 > > [!axis] 意识形态反新自由主义修辞 vs 务实[[Performativity\|操演性]]金融多边结盟
 > > 批评该组织在核心价值立场与实际联盟策略之间的深层悖论。
 > >
-> > - **批评视角（反方）** [[Argument_Beech_2009_CE\|Beech (2009)]] 等批判学者指出，EI 在官方宣言中高举反新自由主义、反对教育商品化的鲜明旗帜，但在实践中却与[[International Monetary Fund|国际货币基金组织]]（IMF）和[[World Bank\|世界银行]]建立紧密合作；这种结盟并非基于教育价值观契合，而是为了在[[Global Policy Space\|全球政策空间]]中追求[[Performativity\|操演性]]的可见度与影响力广度，导致其批判锋芒被新自由主义[[Governmentality\|治理术]]吸纳与杂合。[[Argument_Beech_2009_CE\|(Beech, 2009, pp. 351–353)]]
-> > - **机构立场（正方）** EI 辩护认为，面对多边金融机构对[[Development Education|发展中国家教育]]财政的绝对主导权，唯有通过制度化介入与战术性合作，才能将免费公共教育与保障教师权益的红线内嵌于援助贷款协议中；空洞的外部抗议无法阻止结构调整对教育的破坏。[[Argument_Beech_2009_CE\|(Beech, 2009, pp. 352–353)]]
+> > - **批评视角（反方）** [[Argument_Beech_2009_CE\|Beech (2009a)]] 等批判学者指出，EI 在官方宣言中高举反新自由主义、反对教育商品化的鲜明旗帜，但在实践中却与[[International Monetary Fund|国际货币基金组织]]（IMF）和[[World Bank\|世界银行]]建立紧密合作；这种结盟并非基于教育价值观契合，而是为了在[[Global Policy Space\|全球政策空间]]中追求[[Performativity\|操演性]]的可见度与影响力广度，导致其批判锋芒被新自由主义[[Governmentality\|治理术]]吸纳与杂合。[[Argument_Beech_2009_CE\|(Beech, 2009a, pp. 351–353)]]
+> > - **机构立场（正方）** EI 辩护认为，面对多边金融机构对[[Development Education|发展中国家教育]]财政的绝对主导权，唯有通过制度化介入与战术性合作，才能将免费公共教育与保障教师权益的红线内嵌于援助贷款协议中；空洞的外部抗议无法阻止结构调整对教育的破坏。[[Argument_Beech_2009_CE\|(Beech, 2009a, pp. 352–353)]]
 >
 > > [!axis] 跨国建制精英化协商 vs 基层工会成员日常生计诉求
 > > 批评该组织过多投入于[[OECD\|经合组织]]与闭门国际峰会的高层循证协商，是否会导致其脱离基层教师的迫切诉求。

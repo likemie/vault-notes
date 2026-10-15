@@ -84,5 +84,5 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!example] [[Correlational Research\|相关研究]]
-> - [[Argument_Bolton_2017_ArchPsych]] — 论证新[[Jean Piaget\|皮亚杰]]阶段过渡可被 [[Prefrontal Cortex\|PFC]] 发育和 EF 发展解释
+> - [[Argument_Bolton_2017_ArchPsych|Bolton and Hattie (2017)]] — 论证新[[Jean Piaget\|皮亚杰]]阶段过渡可被 [[Prefrontal Cortex\|PFC]] 发育和 EF 发展解释
 

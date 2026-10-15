@@ -120,7 +120,7 @@ updated: 2026-10-08
 > [!finding-cards] 效果与评价
 > - **经济腾飞保障** 战后数十年间将防卫支出控制在 GDP 1% 左右，使日本得以将财政资源全力集中于工业制造与技术研发，实现战后经济奇迹。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, p. 43)]]
 > - **外部安全依赖固化** 造成日本对美国军事指挥与核保护伞的长期单向依附，自身缺乏独立应对高烈度大国[[Strategic Bargaining Theory|冲突的战略]]自主性。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 43–44)]]
-> - **印太战略失衡风险** 卡普与扎米斯卡指出，面对具备强大[[Hard Power|硬实力]]与 AI 武器库的对手，亚洲最富裕民主国家的单方面去武力化正向潜在侵略者传递软弱信号，削弱了区域威慑体系的整体韧性。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Karp & Zamiska, 2025, pp. 43–44)]]
+> - **印太战略失衡风险** 卡普与扎米斯卡指出，面对具备强大[[Hard Power|硬实力]]与 AI 武器库的对手，亚洲最富裕民主国家的单方面去武力化正向潜在侵略者传递软弱信号，削弱了区域威慑体系的整体韧性。
 
 ---
 

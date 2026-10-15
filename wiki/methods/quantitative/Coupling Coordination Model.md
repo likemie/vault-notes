@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Coupling Coordination Model
@@ -259,4 +259,4 @@ updated: 2026-10-15
 ## 使用此方法的研究
 
 > [!evidence-grid-a] 研究索引
-> - [[Argument_Fan_Song_Zhai_2024_RSEE]] — 使用耦合协调模型测度中国 30 个省份教育-科技-人才一体化发展水平，并结合[[LISA Time Path\|LISA时空路径]]和LISA[[LISA Spatiotemporal Transition|时空转移]]分析时空格局演变。
+> - [[Argument_Fan_Song_Zhai_2024_RSEE|Fan et al. (2024)]] — 使用耦合协调模型测度中国 30 个省份教育-科技-人才一体化发展水平，并结合[[LISA Time Path\|LISA时空路径]]和LISA[[LISA Spatiotemporal Transition|时空转移]]分析时空格局演变。

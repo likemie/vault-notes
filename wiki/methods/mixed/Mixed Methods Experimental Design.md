@@ -4,7 +4,6 @@ aliases:
   - 混合方法实验设计
   - 混合方法干预设计
   - mixed methods intervention design
-  - mixed methods experimental design
   - embedded experimental mixed methods
 summary: "将质性数据收集嵌入实验或干预过程多个时间点的复杂混合方法设计，质性数据可以在实验前、实验中或实验后加入以补充参与者的个人经验视角"
 type: method

@@ -2,7 +2,6 @@
 title: Causal Processes
 aliases:
   - 因果过程
-  - causal processes
 summary: "区别于因果事件和因果输入-输出模型的动态因果观，将因果性视为随时间展开的过程，涉及动机、语境和因素之间的动态互动"
 type: concept
 domain: "educational-philosophy"

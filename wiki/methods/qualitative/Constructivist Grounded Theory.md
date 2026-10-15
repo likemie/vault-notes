@@ -38,7 +38,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-08'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 ## 定义
@@ -89,6 +89,6 @@ updated: 2026-10-15
 ## 使用此方法的研究
 
 > [!example] 使用此方法的研究
-> - [[Argument_Zheng_2023_ShanghaiSanlian]] — [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]以[[Constructivist Paradigm\|建构主义]][[Grounded Theory\|扎根理论]]为资料分析方法，从 62 名中国两所精英大学毕业生跟踪[[In-depth Interview\|深度访谈]]中，反复迭代后产出[[Goal-Controlled Mode\|目标掌控模式]]／[[Intuition-Dependent Mode\|直觉依赖模式]]的核心[[Typification\|类型化]]发现
+> - [[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]] — [[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]]以[[Constructivist Paradigm\|建构主义]][[Grounded Theory\|扎根理论]]为资料分析方法，从 62 名中国两所精英大学毕业生跟踪[[In-depth Interview\|深度访谈]]中，反复迭代后产出[[Goal-Controlled Mode\|目标掌控模式]]／[[Intuition-Dependent Mode\|直觉依赖模式]]的核心[[Typification\|类型化]]发现
 >
 

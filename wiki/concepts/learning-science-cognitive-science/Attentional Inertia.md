@@ -2,7 +2,6 @@
 title: Attentional Inertia
 aliases:
   - 注意力惯性
-  - attentional inertia
 summary: "在认知转换任务中因过度关注先前规则或刺激特征，导致难以切换到新规则的认知控制阻滞现象。"
 type: concept
 domain: "learning-science-cognitive-science"

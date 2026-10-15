@@ -4,7 +4,6 @@ aliases:
   - FIP
   - 前景知识产权
   - foreground intellectual property
-  - foreground IP
 summary: "产学合作协议中定义的在合作期间、为履行工作范围而产生的知识产权，通常根据发明人归属原则确定所有权"
 type: concept
 domain: "university-industry-collaboration"

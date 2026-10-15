@@ -2,7 +2,6 @@
 title: Interventionist Strategy
 aliases:
   - 干预主义策略
-  - interventionist strategy
 summary: "研究原因之效果的核心策略，通过施加干预并观察效果来建立因果推断，与回溯效果之原因的事后策略形成对照"
 type: concept
 domain: "research-methodology"

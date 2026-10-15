@@ -2,7 +2,6 @@
 title: Knowledge Rents
 aliases:
   - 知识租金
-  - knowledge rents
   - information feudalism
 summary: "Drahos & Braithwaite (2002) 提出的概念，描述精英大学通过控制知识产权的法律框架和学术评估的价值标准，从公共生产的知识中持续提取超额经济回报的租金机制"
 type: concept

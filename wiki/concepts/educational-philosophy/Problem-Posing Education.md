@@ -3,7 +3,6 @@ title: Problem-Posing Education
 aliases:
   - 提问式教育
   - 问题解决式教育
-  - problem-posing education
   - problem posing
 summary: "保罗·弗莱雷与批判教育学提出的核心教学范式，作为储蓄式教育的替代方案，主张教育者提出与学生现实处境相关的问题，使师生成为批判性共同探究者。"
 type: concept

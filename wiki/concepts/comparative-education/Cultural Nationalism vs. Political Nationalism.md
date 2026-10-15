@@ -91,7 +91,7 @@ updated: 2026-10-16
 ## 核心要素
 
 > [!feature] 核心要素
-> - **文化传统传承与健全人格陶冶（Cultural Heritage & [[Bildung]]）** 文化民族主义以民族文学、艺术、语言与哲学传统为精神养分，旨在促进个体的全面自由发展与道德完善。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009, p. 49)]]
+> - **文化传统传承与健全人格陶冶（Cultural Heritage & [[Bildung]]）** 文化民族主义以民族文学、艺术、语言与哲学传统为精神养分，旨在促进个体的全面自由发展与道德完善。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 49)]]
 > - **意识形态垄断与极权政治动员（Ideological [[Hegemony]] & Mobilisation）** 政治民族主义确立“观念的专政或个人权力的专政”，将学校沦为推行政权教条、排斥异己言论与[[Academic Freedom\|学术自由]]的单向传声筒。[[Argument_Kazamias_2009_ForgottenThemes\|(Kandel, 1933: xxv; Kazamias, 2009: 49)]]
 > - **国际理解的有机文化基石（Organic Substratum for Internationalism）** 真正的跨国理解并非空中楼阁，唯有深入体认本民族精神传统的深层意涵，方能以平视和鉴赏的眼光理解他国教育理想的合理性。(Kandel, 1933: xxv)
 
@@ -183,4 +183,4 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009)]] — 梳理[[Isaac Kandel\|坎德尔]]在 1930 年代对抗法西斯极权动员时提出文化民族主义与政治民族主义二元区分的思想脉络及其历史[[Educational Meliorism\|改良主义]]追求。
+> - [[Argument_Kazamias_2009_ForgottenThemes\|Kazamias (2009b)]] — 梳理[[Isaac Kandel\|坎德尔]]在 1930 年代对抗法西斯极权动员时提出文化民族主义与政治民族主义二元区分的思想脉络及其历史[[Educational Meliorism\|改良主义]]追求。

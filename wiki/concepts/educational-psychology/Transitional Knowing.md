@@ -2,7 +2,6 @@
 title: Transitional Knowing
 aliases:
   - 过渡认知
-  - transitional knowing
 summary: "认识论反思模型（ERM）中的过渡阶段，开始接受部分知识的不确定性。"
 type: concept
 domain: "educational-psychology"

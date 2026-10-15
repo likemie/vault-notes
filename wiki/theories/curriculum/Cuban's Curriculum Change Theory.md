@@ -136,7 +136,7 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!example] [[Correlational Research\|相关研究]]
-> - [[Argument_Yan_2025_JCS]] — 将 Cuban 框架应用于 LS 案例，揭示框架的条件性和因素权重的动态变化
+> - [[Argument_Yan_2025_JCS|Yan and Morris (2025)]] — 将 Cuban 框架应用于 LS 案例，揭示框架的条件性和因素权重的动态变化
 > - Kan, Vickers and Morris (2007) — 使用 Cuban 框架分析香港中国历史科的课程政治
 
 ## 应用领域

@@ -98,5 +98,5 @@ Thompson 等人（2022, p.222）引入 Bächle（2016, p.164）的解读，将 D
 ## 相关研究
 
 > [!example]
-> - [[Argument_Thompson_2022_Promising_Student]] — 以控制社会理论作为分析 [[Online Self-Assessment\|OSA]] 和竞争性大学治理的核心框架
+> - [[Argument_Thompson_2022_Promising_Student|Thompson et al. (2022)]] — 以控制社会理论作为分析 [[Online Self-Assessment\|OSA]] 和竞争性大学治理的核心框架
 

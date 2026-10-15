@@ -106,7 +106,7 @@ updated: 2026-10-15
 > - **组织路径** 推动了大学研发中心从单一 PI 模式向多资源、多学科（MMURC）产学联合实体的制度化扩散。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Bozeman_2004_JTT]] — 详细记录了凯沃思在 1983 年 COSEPUP 研讨会后力挺 ERC 以及与布洛赫结盟推进科技资助改革的口述史料与制度背景。
+> - [[Argument_Bozeman_2004_JTT|Bozeman and Boardman (2004)]] — 详细记录了凯沃思在 1983 年 COSEPUP 研讨会后力挺 ERC 以及与布洛赫结盟推进科技资助改革的口述史料与制度背景。
 
 ---
 

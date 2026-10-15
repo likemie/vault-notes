@@ -2,7 +2,6 @@
 title: Four Sins of Comparative Education
 aliases:
   - 比较教育的四种罪过
-  - four sins of comparative education
   - 比较教育的四罪
 summary: "Cowen（2023）对比较教育学术史中不断重演的四类理论与方法论偏差的批判性诊断，包括进步假设、地方主义、借用成瘾与科学混乱"
 type: concept

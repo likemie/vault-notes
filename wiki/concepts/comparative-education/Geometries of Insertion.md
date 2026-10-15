@@ -51,7 +51,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> 嵌入几何学（Geometries of Insertion）是由 [[Robert Cowen]] (2009) 提出的理论关切。它是指当情境被重新概念化并纳入转移、转译、转化及[[Shape-Shifting\|形变]]的理论体系中而被驯服之后，所形成的一套系统分析工具与设计理论，用于指导和刻画如何将一处所创造的教育思想与实践精确植入另一处。([[Argument_Cowen_2009_CE\|Cowen, 2009, p. 324]])
+> 嵌入几何学（Geometries of Insertion）是由 [[Robert Cowen]] (2009) 提出的理论关切。它是指当情境被重新概念化并纳入转移、转译、转化及[[Shape-Shifting\|形变]]的理论体系中而被驯服之后，所形成的一套系统分析工具与设计理论，用于指导和刻画如何将一处所创造的教育思想与实践精确植入另一处。([[Argument_Cowen_2009_CE\|Cowen, 2009b, p. 324]])
 
 > [!concept-lens] 概念透镜
 > - **关注焦点** 探讨将情境转化为可分析[[Variable\|变量]]的技术可行性，并追问实施[[Social Cloning\|社会克隆]]的深层伦理边界。
@@ -59,7 +59,7 @@ updated: 2026-10-16
 > - **伦理风险** 该概念带有强烈的反思批判色彩，旨在警示研究者警惕那些追求完美移植的社会克隆技术，因其可能剥夺接受国的本土文化防卫和免疫机制。
 
 > [!citation-card]- 嵌入几何学的经典 quote 与原文
-> 如果将情境在转移、转译、转化和形变的理论中重新概念化并加以驯服，我们就能获得一种嵌入几何学，用于分析那些在一处创造却可以被嵌入另一处的思想和实践。然而，它的政治、伦理和后果究竟是什么？([[Argument_Cowen_2009_CE\|Cowen, 2009, p. 324]])
+> 如果将情境在转移、转译、转化和形变的理论中重新概念化并加以驯服，我们就能获得一种嵌入几何学，用于分析那些在一处创造却可以被嵌入另一处的思想和实践。然而，它的政治、伦理和后果究竟是什么？([[Argument_Cowen_2009_CE\|Cowen, 2009b, p. 324]])
 > 
 > *“With 'context' rethought and subdued within a theory of transfer, translation, transformation and shape-shifting, we would have a 'geometry of insertion' for ideas and practices which – although they were created in one place – could be inserted in another. What are the politics, ethics, and consequences of that?”*
 
@@ -67,7 +67,7 @@ updated: 2026-10-16
 
 ## 概念辨析
 
-> [!contrast-table] 概念辨析：嵌入几何学与相关概念的对比 (基于 [[Argument_Cowen_2009_CE\|Cowen, 2009, p. 324]])
+> [!contrast-table] 概念辨析：嵌入几何学与相关概念的对比 (基于 [[Argument_Cowen_2009_CE\|Cowen, 2009b, p. 324]])
 > | 维度 | 嵌入几何学 (Geometries of Insertion) | [[Policy Borrowing\|政策借用]] (Policy Borrowing) | 经典情境描述 (Context-Description) |
 > | :--- | :--- | :--- | :--- |
 > | **性质定位** | 属于科学研究层面的**分析理论与伦理拷问**。 | 属于国家政策制定层面的 **[[Praxis\|实践]]决策**。 | 属于学科历史沿革层面的**描述惯例**。 |
@@ -113,6 +113,6 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid] 嵌入几何学的理论研究与实证拓展
-> - **[[Argument_Cowen_2009_CE\|Cowen (2009)]]** 提出嵌入几何学作为比较教育的伦理命题，拷问情境被降服为[[Variable\|变量]]后的[[Social Cloning\|社会克隆]]代价，奠定了[[Shape-Shifting\|形变]]与 3T 分析的批判性基调。
+> - **[[Argument_Cowen_2009_CE\|Cowen (2009b)]]** 提出嵌入几何学作为比较教育的伦理命题，拷问情境被降服为[[Variable\|变量]]后的[[Social Cloning\|社会克隆]]代价，奠定了[[Shape-Shifting\|形变]]与 3T 分析的批判性基调。
 > - **[[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]]** 通过[[John Dewey\|杜威]]思想在中国九十年的四次[[Recontextualization\|再脉络化]]，揭示了接受国如何通过本土[[Educational Immunology\|免疫反应]]与过滤机制，在不同历史时期对强行嵌入的教育几何实施抗性改写与意识形态形变。
 > - **[[Argument_Zhou_2024_CE\|Zhou and Westberg (2024)]]** 以民国新学制改革为案例，展示了外来民主几何如何在转译中折中，并在宏观政局动荡与战争等硬性物质力量的压缩下，走向局部妥协直至最终灭绝的历史进程。

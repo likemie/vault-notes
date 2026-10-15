@@ -118,7 +118,7 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!example]
-> - [[Argument_Schulze-Cleven_2017_HighEduc]] — 将新封建主义引入高等教育研究
+> - [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017)]] — 将新封建主义引入高等教育研究
 > - Meyer & Zhou— 分析美国精英大学永久捐赠基金如何维持"赢者通吃"动力和上层阶级再生产
 > - Wieczorek, Beyer & Münch— 提出封地封建主义与俸禄封建主义的类型学
 > - Reitz— 论证学术评估和等级对资本主义[[Knowledge-Based Economy\|知识经济]]的功能必要性

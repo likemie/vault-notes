@@ -5,7 +5,6 @@ aliases:
   - 学科制度化
   - 学科建制
   - 知识学科化
-  - Disciplinary institutionalization
 summary: "新兴知识领域通过确立学术研究范式、建立大学独立系所学位项目、获得外部公共经费持续支持并形成专业共同体的社会历史过程；二战后美国联邦国防研发资助直接催化了计算机科学等新兴技术领域从工程辅助工具走向正规大学学科建制。"
 type: concept
 domain: "higher-education"
@@ -76,7 +75,7 @@ updated: 2026-10-16
 > [!feature] 核心要素
 > - **院系建制与学位序列（Departmental & Degree Structure）** 在大学内部建立独立的计算机系或交叉实验室，设立学士、硕士与博士学位培养方案，摆脱对传统数学系或电气工程系的依附。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 38)]]
 > - **外部公共科研资助网络（External Public Funding Network）** 联邦科技部门（如国防部高级研究计划局与国家科学基金会）设立专项基金，为大学基础与应用探索提供稳定经费，克服短期商业收益视角的狭隘性。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 29, 38)]]
-> - **跨部门知识杂交与人才枢纽（Cross-Fertilization & Talent Pipeline）** 高校在新兴学科建制化中充当连接政府、产业界与学界的[[Knowledge Mediation|知识中介]]，持续为工业界供给具备跨界视野的先驱科学家与工程骨干。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 38)]]
+> - **跨部门知识杂交与人才枢纽（Cross-Fertilization & Talent Pipeline）** 高校在新兴学科建制化中充当连接政府、产业界与学界的[[Knowledge Mediation|知识中介]]，持续为工业界供给具备跨界视野的先驱科学家与工程骨干。
 
 > [!logic-map]- 学科建制化演进路径
 > ```mermaid

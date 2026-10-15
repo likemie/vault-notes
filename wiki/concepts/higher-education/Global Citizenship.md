@@ -215,4 +215,4 @@ updated: 2026-10-15
 > - [[Argument_SpronkenSmith_2024_AEHE\|Spronken-Smith et al. (2024)]] — 在博士教育层面的七域[[Graduate Attributes\|毕业生特质]]分类中重铸了该域，细化了由环境素养、文化理解和全球视野构成的实证评估赤字。
 > - [[Argument_Wong_2022_HERD\|Wong et al. (2022)]] — 检视了英国高校本科毕业生特质[[Discourse|话语]]，指出了全球公民话语的极高纸面覆盖度与其极低的环境、外语应用度之间的张力。
 > - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 从 Wight 的三个传统理论深度剖析了该概念，指出了其在理性主义中的国际社会强化逻辑与在[[Revolutionism\|革命主义]]中的地缘政治[[Re-Westernisation\|再西方化]]实质。
-> - [[Argument_Beech_2009_CE\|Beech (2009)]] — 提到了多边组织将跨国非政府组织（NGO）视为新兴“全球公民社会”的代表以谋求合法性的宏观政策逻辑。
+> - [[Argument_Beech_2009_CE\|Beech (2009a)]] — 提到了多边组织将跨国非政府组织（NGO）视为新兴“全球公民社会”的代表以谋求合法性的宏观政策逻辑。

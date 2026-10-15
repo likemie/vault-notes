@@ -139,7 +139,7 @@ updated: 2026-10-16
 
 > [!example] 使用此方法的研究
 > - [[Argument_Håkansson_2015_TT]] — 使用 16 项国际研究综述和 27 项瑞典研究综述，分析[[Structured Teaching\|结构化教学]]、[[Classroom Management\|课堂管理]]与瑞典学校成绩下降讨论之间的关系
-> - [[Argument_Higgins_2016_ROE]] — 追溯[[Meta-analysis\|元分析]]从 1904 年到[[Meta-meta-analysis\|元综合]]的发展脉络，论证跨元分析比较虽面临苹果和橙子困境，但仍是当前回答教育干预比较效果的最佳可用工具
+> - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 追溯[[Meta-analysis\|元分析]]从 1904 年到[[Meta-meta-analysis\|元综合]]的发展脉络，论证跨元分析比较虽面临苹果和橙子困境，但仍是当前回答教育干预比较效果的最佳可用工具
 
 ---
 

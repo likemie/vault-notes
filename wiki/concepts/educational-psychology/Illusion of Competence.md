@@ -6,7 +6,6 @@ aliases:
   - 语义流畅性启发式
   - Fluency Heuristic
   - Illusion of Knowing
-  - illusion of competence
   - fluency illusion
 summary: "认知心理学与学习科学概念，指个体因信息获取的容易性、文本表层语义流畅性或即时提取的顺畅感，产生的一种误将‘容易理解与阅读顺畅’等同于‘已真正掌握与内化知识’的元认知监控偏差。"
 type: concept

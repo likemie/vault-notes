@@ -3,7 +3,6 @@ title: Outcomes-based Education
 aliases:
   - 结果导向教育
   - 结果导向课程
-  - outcomes-based education
   - OBE
 summary: "以学习结果为中心的课程设计范式，强调可测量的学习成果而非知识内容，在新西兰 2007 年课程和全球教育改革中广泛采用，近年受到社会实在论批评"
 type: concept

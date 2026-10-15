@@ -5,7 +5,6 @@ aliases:
   - "大学企业关系专员"
   - "产学合作专员"
   - "UCEP"
-  - "University Corporate Engagement Professional"
   - "corporate engagement professional"
 summary: "在大学与产业界面中充当中介和关系管理者的专业角色，负责连接双方利益相关者、识别一致利益并构建战略伙伴关系"
 type: concept

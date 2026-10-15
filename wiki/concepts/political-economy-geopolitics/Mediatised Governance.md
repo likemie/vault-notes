@@ -212,4 +212,4 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]与实证案例
 > - [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] — 以英格兰应对 2012 年 [[PISA]] 结果为案例，系统论证了教育大臣 [[Michael Gove]] 如何动员个人与制度媒介资本，在媒体[[Falling Standards Template\|水平下降模板]]与[[Policy Avoidance\|政策规避]]的协同下，将平稳的评估数据转化为推动学院学校、严苛督导与[[Performance Pay\|绩效工资]]改革的媒介化治理过程。
-> - [[Argument_Beech_2009_CE\|Beech (2009)]] — 在阿根廷与巴西课程改革研究中揭示国家[[Discourse|话语]]如何利用电视与大众媒体语言的口号化特征，将不相容的改革政策并置为看似现代的公众形象。
+> - [[Argument_Beech_2009_CE\|Beech (2009a)]] — 在阿根廷与巴西课程改革研究中揭示国家[[Discourse|话语]]如何利用电视与大众媒体语言的口号化特征，将不相容的改革政策并置为看似现代的公众形象。

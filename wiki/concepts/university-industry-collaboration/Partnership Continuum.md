@@ -51,7 +51,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!info]
-> 伙伴关系连续体（Partnership Continuum）是 [[University Industry Demonstration Partnership\|UIDP]] 于 2012 年发布的[[University-Industry Collaboration\|产学合作]]分类框架（详见 [[Argument_UIDP_2012_PartnershipContinuum]]）。它将大学与产业之间的合作形式沿两条轴线组织：一条是**五个合作领域**（学生导向参与、研究者互动、资源获取、专业中心与学院参与、经济发展），另一条是每个领域内的**三个参与层级**（交易、协作、联盟）([[Argument_UIDP_2012_PartnershipContinuum\|Southerton et al., 2012, pp.5–7]])。
+> 伙伴关系连续体（Partnership Continuum）是 [[University Industry Demonstration Partnership\|UIDP]] 于 2012 年发布的[[University-Industry Collaboration\|产学合作]]分类框架（详见 [[Argument_UIDP_2012_PartnershipContinuum|Southerton et al. (2012)]]）。它将大学与产业之间的合作形式沿两条轴线组织：一条是**五个合作领域**（学生导向参与、研究者互动、资源获取、专业中心与学院参与、经济发展），另一条是每个领域内的**三个参与层级**（交易、协作、联盟）([[Argument_UIDP_2012_PartnershipContinuum\|Southerton et al., 2012, pp.5–7]])。
 
 该框架的核心主张是：大学和企业对合作形式的认知通常高度碎片化——各部门只看到与自己职能匹配的那一段光谱，因此容易偏好某种熟悉的合作形式而忽略其他可能更有价值的路径。Partnership Continuum 的价值在于提供了一份"合作全景地图"，使组织能够系统性地诊断现有合作组合中的空白和机会（p.5）。
 

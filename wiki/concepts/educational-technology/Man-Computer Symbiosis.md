@@ -2,7 +2,6 @@
 title: Man-Computer Symbiosis
 aliases:
   - 人机共生
-  - man-computer symbiosis
   - human-computer symbiosis
   - 人机协同
   - 人机紧密耦合

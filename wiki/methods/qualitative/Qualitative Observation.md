@@ -2,7 +2,6 @@
 title: Qualitative Observation
 aliases:
   - 质性观察
-  - qualitative observation
   - 田野观察
   - field observation
 summary: "质性研究中研究者在研究现场对个体行为和活动进行田野笔记记录的数据收集方法，观察者角色从完全参与者到完全观察者构成连续谱"

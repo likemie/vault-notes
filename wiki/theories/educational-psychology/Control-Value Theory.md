@@ -202,7 +202,7 @@ updated: 2026-10-16
 > > - **生产性摩擦派（D'Mello et al.）** 认为适度的认知困惑（Confusion）是引发高阶概念转变和深层探究的必要心智阻力。
 
 > [!critique]- 批评索引
-> - [[Argument_Chen_Cheung_2025_ERR]] — 实证提示，技术虽然通过赋予高控制感消除了学习阻力与挫败情绪，但也可能因过于平滑而让学习者跳过深层自我监控，诱发“[[Metacognitive Laziness\|元认知惰性]]”。
+> - [[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025)]] — 实证提示，技术虽然通过赋予高控制感消除了学习阻力与挫败情绪，但也可能因过于平滑而让学习者跳过深层自我监控，诱发“[[Metacognitive Laziness\|元认知惰性]]”。
 
 ---
 

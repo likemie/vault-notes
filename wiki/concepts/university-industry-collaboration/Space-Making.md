@@ -2,7 +2,6 @@
 title: Space-Making
 aliases:
   - 高等教育空间制造
-  - space-making
 summary: "用于分析高等教育社会空间如何由物质结构、空间想象和社会实践共同制造的框架。"
 type: concept
 domain: "university-industry-collaboration"

@@ -96,5 +96,5 @@ updated: 2026-10-16
 ## 使用此方法的研究
 
 > [!example] 使用此方法的研究
-> - [[Argument_Yan_2025_JCS]] — 将 Cuban 框架应用于香港 LS 的历史分析，是此方法的示范性应用
+> - [[Argument_Yan_2025_JCS|Yan and Morris (2025)]] — 将 Cuban 框架应用于香港 LS 的历史分析，是此方法的示范性应用
 

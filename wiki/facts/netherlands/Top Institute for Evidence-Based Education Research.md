@@ -68,7 +68,7 @@ updated: 2026-09-17
 ## 争议与评论
 
 > [!warning]
-> TIER 的跨大学结构能增强研究能力，但欧洲整体的项目复用仍受教育系统差异、语言和课程标准影响。详见 [[Argument_Pellegrini_2021_ECNUROE]] 对欧洲可迁移性挑战的论证([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, pp.35-36]])。
+> TIER 的跨大学结构能增强研究能力，但欧洲整体的项目复用仍受教育系统差异、语言和课程标准影响。详见 [[Argument_Pellegrini_2021_ECNUROE|Pellegrini and Vivanet (2021)]] 对欧洲可迁移性挑战的论证([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, pp.35-36]])。
 
 ## 相关概念／理论
 

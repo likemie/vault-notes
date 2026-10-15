@@ -2,7 +2,6 @@
 title: PISA Glorifying Authoritarian Education
 aliases:
   - PISA 美化威权教育
-  - PISA glorifying authoritarian education
   - PISA 威权教育美化
 summary: "PISA 将威权教育系统中的自我谴责特质美化为教育卓越的秘密，实际上这是威权社会压制异见、否认社会责任的结果"
 type: concept

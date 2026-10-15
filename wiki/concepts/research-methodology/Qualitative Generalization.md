@@ -3,7 +3,6 @@ title: Qualitative Generalization
 aliases:
   - 质性推广
   - 质性概化
-  - qualitative generalization
   - qualitative generalizability
 summary: "质性研究中以有限方式使用的概念，指将案例研究发现推广到更广泛理论的能力，强调特定性而非统计推广"
 type: concept

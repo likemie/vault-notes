@@ -2,7 +2,6 @@
 title: Grammar of Schooling
 aliases:
   - 学校的语法
-  - grammar of schooling
 summary: "Tyack & Cuban 提出的概念，指学校划分时空、将学生分班分级、将知识分为学科等共同制度模式，是比较教育中解释教育制度趋同与变异的核心概念"
 type: concept
 domain: "comparative-education"

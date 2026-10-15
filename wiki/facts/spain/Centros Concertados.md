@@ -7,7 +7,6 @@ aliases:
   - 公共资助民办学校
   - 协约中心
   - Escuelas concertadas
-  - Centros concertados
 summary: "西班牙基础教育中由社会团体或天主教会创办、接受国家公共财政生均资助并遵守公立招生规范的非公立学校体系。该体系吸纳了西班牙全国逾30%的中小学生，是平衡办学自由与公共受教育权的关键制度安排，也是历次教育立法中公私阵营争议的焦点。"
 type: fact
 subtype: policy
@@ -58,9 +57,9 @@ updated: 2026-10-12
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 制度渊源于 1970 年《[[General Act of Education of 1970|普通教育法]]》，并在 1985 年社会党政府颁布的《教育权组织法》（Ley Orgánica reguladora del Derecho a la Educación, LODE）中正式制度化确立为“协约协议”（régimen de conciertos）。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 330)]]
-> - **适用地区 / 对象** 西班牙 17 个自治区全境，涵盖接受政府资助的非公立幼儿园、初等小学、义务中等教育（ESO）及特殊教育中心。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 330)]]
+> - **适用地区 / 对象** 西班牙 17 个自治区全境，涵盖接受政府资助的非公立幼儿园、初等小学、义务中等教育（ESO）及特殊教育中心。
 > - **问题背景** 1970 年代以来西班牙面临普及义务教育的巨大需求，但国家公共财政与校舍建设严重滞后；与此同时，天主教会与民间社会力量拥有庞大的学校资产与传统网络。
-> - **制度位置** 西班牙基础教育双轨公共供给体系的法定基石之一，依据 1978 年宪法第 27 条所保障的“教育权”（derecho a la educación）与“办学自由”（libertad de enseñanza）双重原则建立。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, p. 330)]]
+> - **制度位置** 西班牙基础教育双轨公共供给体系的法定基石之一，依据 1978 年宪法第 27 条所保障的“教育权”（derecho a la educación）与“办学自由”（libertad de enseñanza）双重原则建立。
 
 ---
 

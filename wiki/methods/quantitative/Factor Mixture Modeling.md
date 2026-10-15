@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-15
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Factor Mixture Modeling
@@ -164,4 +164,4 @@ updated: 2026-10-15
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Greene_2010_JEP]] — 该研究通过因子混合模型，将大样本学生在[[Epistemology\|认识论]]维度上的测量得分有效聚类为了理论预设的四个阶段组。
+> - [[Argument_Greene_2010_JEP|Greene et al. (2010)]] — 该研究通过因子混合模型，将大样本学生在[[Epistemology\|认识论]]维度上的测量得分有效聚类为了理论预设的四个阶段组。

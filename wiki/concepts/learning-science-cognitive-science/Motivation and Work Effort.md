@@ -80,5 +80,5 @@ updated: 2026-08-20
 ## 相关案例／政策
 
 > [!example] 相关案例／政策
-> - [[Argument_Lekhal_2015_Paideia]]
+> - [[Argument_Lekhal_2015_Paideia|Lekhal et al. (2015)]]
 

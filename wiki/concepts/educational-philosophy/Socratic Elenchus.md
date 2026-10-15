@@ -4,7 +4,6 @@ aliases:
   - 苏格拉底驳诘法
   - 苏格拉底反诘法
   - Elenchus
-  - Socratic elenchus
   - exetasis
   - Socratic questioning
   - Socratic method
