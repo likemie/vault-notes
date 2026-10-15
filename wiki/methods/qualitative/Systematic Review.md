@@ -41,6 +41,8 @@ related_concepts:
   - "[[Primary and Secondary Documents]]"
   - "[[Chain of Evidence]]"
   - "[[Ecological Validity]]"
+  - "[[PICO Framework]]"
+  - "[[Visible Learning]]"
   - "[[Evidence Standards]]"
   - "[[Evidence Ecosystem]]"
   - "[[Knowledge Production]]"
@@ -50,8 +52,6 @@ related_concepts:
   - "[[Profession-Sensitive Conceptualisations of Research Use]]"
   - "[[Creativity]]"
   - "[[Counterfactual]]"
-  - "[[PICO Framework]]"
-  - "[[Visible Learning]]"
 related_theories:
   - "[[Realist Evaluation]]"
   - "[[Critical Realism]]"
@@ -60,8 +60,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Quantitative Research]]"
-  - "[[Randomised Controlled Trials]]"
-  - "[[Meta-meta-analysis]]"
   - "[[Qualitative Research]]"
   - "[[Mixed Methods Research]]"
   - "[[Forest Plot]]"
@@ -92,6 +90,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
   - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_Gough_2022_EvidenceOnEIPP]]"
+  - "[[Argument_Kalmendal_2025_PsyArXiv]]"
   - "[[Argument_Rickinson_2022_UsingResearchWell]]"
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
@@ -100,7 +99,6 @@ related_arguments:
   - "[[Argument_Rickinson_2022_ER]]"
   - "[[Argument_Gorard_2020_ROE]]"
   - "[[Argument_Ginsberg_2024_EP]]"
-  - "[[Argument_Kalmendal_2025_PsyArXiv]]"
 related_facts:
   - "[[Best Evidence Synthesis]]"
   - "[[EPPI-Centre]]"
@@ -109,13 +107,12 @@ related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Social Programs That Work]]"
   - "[[Early Intervention Foundation]]"
+  - "[[Campbell Collaboration]]"
   - "[[What Works Network]]"
   - "[[OECD]]"
   - "[[PISA]]"
   - "[[What Works Clearinghouse]]"
-  - "[[Evidence for ESSA]]"
   - "[[Title I of the Elementary and Secondary Education Act]]"
-  - "[[Campbell Collaboration]]"
 related_instruments:
   - "[[PRISMA]]"
   - "[[Mixed Methods Appraisal Tool]]"
@@ -309,7 +306,7 @@ updated: 2026-10-16
 > - **[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]]** 遵循 PRISMA 报告，三库系统检索并双盲两阶段筛选 109 项学校[[Research Utilization\|研究使用]]实证研究，运用 [[Mixed Methods Appraisal Tool\|MMAT]] 工具评估质量并采用[[Framework Synthesis\|框架综合]]法进行证据整合。
 > - **[[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]** 结合系统综述的检索与筛选规程及[[Critical Review\|批判性综述]]方法，解构 34 篇文献并提出第四代[[Profession-Sensitive Conceptualisations of Research Use\|专业敏感型研究使用]]理论。
 > - **[[Argument_Li_2026_CEAI\|Li et al. (2026)]]** 遵循 PRISMA 指南对 67 篇实证文献开展系统综述，结合双人双盲 MMAT 质量评价与三阶段[[Thematic Synthesis\|主题综合法]]，系统解构 ChatGPT 在高等教育中对批判性与[[Creativity\|创造性思维]]的促进机制与风险模式。
-> - **[[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]]** 遵循系统综述规范跨 [[Education Resources Information Center\|ERIC]]、Scopus、Web of Science 与 ProQuest 四大数据库系统检索，结合双人初筛与同行专家盲审纳入跨卫生、社会关照、教育与政策四大领域的 112 篇核心文献，运用[[Narrative Synthesis\|叙事综合]]法提炼证据使用质量的共性特征并建构 [[Quality Use of Research Evidence Framework\|QURE]] 理论框架。
+> - **[[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]]** 在四大数据库检索并纳入跨领域 112 篇文献，以[[Narrative Synthesis\|叙事综合]]提炼证据使用质量特征，建构 [[Quality Use of Research Evidence Framework\|QURE]] 框架。
 > - **[[Argument_Gorard_2020_ROE\|Gorard et al. (2020)]]** 针对教育与公共政策领域“如何使研究证据有效投入使用”这一因果机制，对逾 335 万条数据库记录开展大规模跨学科系统综述，运用[[Gorard's Trustworthiness Sieve\|戈拉德研究可信度筛子]]严格质评初筛出的 323 篇文献，最终识别出 33 项具备[[Counterfactual\|反事实]]对照设计的因果[[Evaluation Research\|评估研究]]并提炼两维度转化模型。
-> - **[[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]]** 遵循系统综述规范对 129 项教育实践检索词在四大证据库（[[What Works Clearinghouse\|WWC]], [[Evidence for ESSA]], [[Education Endowment Foundation\|EEF]], [[Education Resources Information Center\|ERIC]]）中开展全量[[Literature Search\|文献检索]]与七级证据评定，并将其与大型城市学区三年间 2.88 亿美元的 [[Title I of the Elementary and Secondary Education Act\|Title I]] 财务细项逐一关联，实证测算联邦教育资金投向循证实践的真实比例。
-> - **[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]]** 对《[[Visible Learning|可见的学习]]》底层 2,111 项元分析开展预注册系统性元科学审计，对照 PRISMA 与 Campbell Collaboration MECCIR 规范揭示 PICO 严重偏离（仅 19.3% 满足要求）与数据缺失危机，为系统综述的程序纯洁性提供关键反思标靶。
+> - **[[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]]** 在 [[What Works Clearinghouse\|WWC]] 等四大证据库检索 129 项实践并评定证据等级，再与学区 2.88 亿美元 [[Title I of the Elementary and Secondary Education Act\|Title I]] 支出对照，测算资金投向循证实践的比例。
+> - **[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]]** 对《[[Visible Learning|可见的学习]]》2,111 项元分析开展预注册审计，对照 PRISMA 与 MECCIR 规范发现仅 19.3% 满足 PICO 要求，并存在严重数据缺失。

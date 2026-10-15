@@ -36,7 +36,6 @@ related_concepts:
   - "[[Policy-Based Evidence-Making]]"
   - "[[Champ]]"
   - "[[Evidence Era]]"
-  - "[[Problem Finding]]"
 related_theories:
   - "[[Critical Realism]]"
 related_methods:
@@ -175,5 +174,5 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]] — 对 20 位具备英格兰教育政策内部准入资格的高级官员、政府顾问与学者展开精英访谈，揭示了[[Evidence Era\|证据时代]]教师教育治理中政府守门与[[Policy-Based Evidence-Making\|逆向证据生产]]机制。
-> - [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013)]] — 对全美及加利福尼亚、印第安纳、马萨诸塞与田纳西四个州的 111 位国家与州级政策制定者、标准起草专家、教师工会领袖及批评者开展结构化精英访谈，结合 1,500 余份政策档案实施[[Process Tracing|过程追踪]]，系统阐明了[[Common Core State Standards|共同核心州立标准]]在[[Problem Finding|问题界定]]、方案设计与政策采纳三阶段中实证研究与专业经验、政治价值的动态整合机制。
+> - [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013)]] — 结构化访谈全美及四州 111 位政策制定者、标准起草者、工会领袖与批评者，结合档案做[[Process Tracing|过程追踪]]，阐明[[Common Core State Standards|共同核心]]各阶段对研究证据与政治价值的整合。
 

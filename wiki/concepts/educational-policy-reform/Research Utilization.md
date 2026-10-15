@@ -106,7 +106,6 @@ related_methods:
   - "[[Documentary Analysis]]"
   - "[[Practitioner Enquiry]]"
   - "[[Correlational Research]]"
-  - "[[Narrative Synthesis]]"
 related_instruments:
   - "[[Research Literacy Scale for Teachers]]"
 related_persons:
@@ -476,7 +475,7 @@ updated: 2026-10-16
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — 综合 109 项学校研究使用实证研究，识别出文献的个体偏向，并提出信任、技能发展、可持续结构与关系四类跨层治理机制。
 > - [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] — 批判性解构 34 篇文献，揭示 30 年来[[Deficit Framing|赤字框架]]对研究使用文献的统治，正式确立以教师多源[[Knowledge Integration|知识整合]]与专业规范为支柱的第四代专业敏感型理论。
 > - [[Argument_Nelson_2017_ER|Nelson and Campbell (2017)]] — 系统梳理[[Evidence-Informed Practice|证据知情实践]]（EIP）思想史，将 Weiss (1979) 的研究利用谱系确立为知证教育理论的基石。
-> - [[Argument_Rickinson_2022_ER|Rickinson et al. (2022a)]] — 针对[[International Education|国际教育]]界长期侧重证据质量而忽视使用质量的理论盲区，基于四大领域 112 篇核心文献的跨领域[[Systematic Review|系统综述]]与[[Narrative Synthesis|叙事综合]]，提出教育中研究证据质量使用框架（QURE），确立适切研究证据与审慎参与实施双核心构件，以及个体、组织与系统三层协同使能结构，开辟了从二元采纳走向使用质量的新[[Paradigm|范式]]。
+> - [[Argument_Rickinson_2022_ER|Rickinson et al. (2022a)]] — 基于跨领域 112 篇文献的[[Systematic Review|系统综述]]提出 QURE 框架，以适切证据与审慎实施为核心构件、个体-组织-系统三层使能，推动从是否采纳转向使用质量。
 > - [[Argument_Kelly_2025_ROE|Kelly et al. (2025)]] — 比较英格兰、苏格兰与德国基础教育体系，首次从专长社会学与治理体制视角剖析[[School Leadership|学校领导]]者的研究使用经验，揭示高利害市场问责导致证据被表演性利用以维持合法性，而低利害环境为[[Contributory Expertise|贡献型专长]]与合作校本探究保留了关键空间。
 
 ---

@@ -36,7 +36,6 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Null Hypothesis]]"
   - "[[Hypothesis]]"
-  - "[[Literature Review]]"
 related_methods:
   - "[[Systematic Review]]"
   - "[[Randomised Controlled Trials]]"
@@ -55,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Gorard's Trustworthiness Sieve
@@ -109,4 +108,4 @@ updated: 2026-10-15
 ## 使用该工具的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Gorard_2020_ROE\|Gorard et al. (2020)]] — 在关于教育证据转化应用的系统[[Literature Review\|文献综述]]中，全面运用戈拉德可[[Reliability\|信度]]筛子对初筛纳入的 323 项文献进行严格甄别，发现其中仅有 33 项研究（评估了 48 种转化进路）达到最低因果设计标准（评级 1–4 级），而达到 3–4 级高可信度的教育领域研究寥寥无几，揭示出证据利用领域严峻的因果证据赤字。
+> - [[Argument_Gorard_2020_ROE\|Gorard et al. (2020)]] — 以戈拉德可信度筛子甄别 323 项文献，仅 33 项达到最低因果设计标准，高可信度研究寥寥无几，揭示证据利用领域的因果证据赤字。
