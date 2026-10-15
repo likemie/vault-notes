@@ -5,6 +5,18 @@
       "path": "wiki/arguments/reports-policy-documents/Argument_WorldBank_2019_Teach.md"
     },
     {
+      "basename": "Teach Classroom Observation Tool",
+      "path": "wiki/instruments/observation-tools/Teach Classroom Observation Tool.md"
+    },
+    {
+      "basename": "UNESCO",
+      "path": "wiki/facts/global/UNESCO.md"
+    },
+    {
+      "basename": "International Baccalaureate Nutritional Science Course",
+      "path": "wiki/facts/multi/International Baccalaureate Nutritional Science Course.md"
+    },
+    {
       "basename": "Argument_Castro_2009_MultilateralBanks",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Castro_2009_MultilateralBanks.md"
     },
@@ -35,10 +47,6 @@
     {
       "basename": "Multilateral Development Bank",
       "path": "wiki/concepts/comparative-education/Multilateral Development Bank.md"
-    },
-    {
-      "basename": "UNESCO",
-      "path": "wiki/facts/global/UNESCO.md"
     },
     {
       "basename": "Argument_Rizvi_Lingard_2009_OECDEducationPolicy",
@@ -191,14 +199,6 @@
     {
       "basename": "Free Semester System",
       "path": "wiki/facts/south-korea/Free Semester System.md"
-    },
-    {
-      "basename": "Canadian Education Indicators Program",
-      "path": "wiki/facts/canada/Canadian Education Indicators Program.md"
-    },
-    {
-      "basename": "PISA Shock",
-      "path": "wiki/concepts/comparative-education/PISA Shock.md"
     }
   ],
   "omittedPaths": [],
