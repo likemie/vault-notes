@@ -36,7 +36,8 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments: []
-sources: []
+sources:
+  - "[[sources/Håkansson_2015_Paideia|Håkansson_2015_Paideia]]"
 part_of: ''
 status: draft
 created: '2026-05-20'
@@ -123,4 +124,4 @@ citation_aliases:
 
 ## 来源
 
-- [[sources/Håkansson_2015_Paideia|Håkansson_2015_Paideia]]
+- [[sources/Håkansson_2015_Paideia|Håkansson_2015_Paideia]]

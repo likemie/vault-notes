@@ -155,7 +155,7 @@ def load_lookup() -> dict[str, dict[str, Any]]:
 
 def normalize_citation_alias(alias: str) -> str:
     alias = re.sub(r"\s+", " ", alias).strip()
-    return re.sub(r"(?<=[A-Za-zÀ-ÖØ-öø-ÿ])\s*(?:&|and|和)\s*(?=[A-ZÀ-ÖØ-Þ])", " & ", alias)
+    return re.sub(r"(?<=[A-Za-zÀ-ÖØ-öø-ÿ])(?:\s+and\s+|\s*&\s*|\s*和\s*)(?=[A-ZÀ-ÖØ-Þ])", " & ", alias)
 
 
 def normalize_author(author: str) -> str:
@@ -165,7 +165,7 @@ def normalize_author(author: str) -> str:
 def normalize_display_author(author: str, narrative: bool = False) -> str:
     author = re.sub(r"\s+", " ", author).strip()
     conjunction = " and " if narrative else " & "
-    return re.sub(r"(?<=[A-Za-zÀ-ÖØ-öø-ÿ])\s*(?:&|and|和)\s*(?=[A-ZÀ-ÖØ-Þ])", conjunction, author)
+    return re.sub(r"(?<=[A-Za-zÀ-ÖØ-öø-ÿ])(?:\s+and\s+|\s*&\s*|\s*和\s*)(?=[A-ZÀ-ÖØ-Þ])", conjunction, author)
 
 
 def normalize_locator(locator: str) -> str:

@@ -29,22 +29,22 @@ class CitationIntegrityTests(unittest.TestCase):
     def test_missing_null_and_blank_full_citations_fail_lint(self):
         for field in ('', 'citation:\n', 'citation: ""\n', 'citation: "   "\n'):
             with self.subTest(field=field):
-                found = [i for i in self.metadata_issues(field) if i.code == "CITATION_FULL_MISSING"]
+                found = [i for i in self.metadata_issues(field) if i.code == "ARGUMENT_FULL_CITATION_MISSING"]
                 self.assertEqual(["ERROR"], [i.severity for i in found])
 
     def test_complete_citation_passes(self):
-        self.assertNotIn("CITATION_FULL_MISSING", [i.code for i in self.metadata_issues('citation: "Author (2025). Title."\n')])
+        self.assertNotIn("ARGUMENT_FULL_CITATION_MISSING", [i.code for i in self.metadata_issues('citation: "Author (2025). Title."\n')])
 
     def test_inherited_chapter_and_overview_allow_empty_citation(self):
         for extra in ('subtype: monograph\npublication_type: book-chapter\npart_of: "[[Argument_Book]]"\n',
                       'subtype: textbook\npublication_type: book-chapter\npart_of: "[[Argument_Book]]"\n',
                       'subtype: edited-volume-overview\n'):
             with self.subTest(extra=extra):
-                self.assertNotIn("CITATION_FULL_MISSING", [i.code for i in self.metadata_issues('citation: ""\n', extra)])
+                self.assertNotIn("ARGUMENT_FULL_CITATION_MISSING", [i.code for i in self.metadata_issues('citation: ""\n', extra)])
 
     def test_independent_edited_volume_chapter_requires_citation(self):
         issues = self.metadata_issues('citation: ""\n', 'subtype: edited-volume\npublication_type: book-chapter\npart_of: "[[Argument_Book]]"\n')
-        self.assertIn("CITATION_FULL_MISSING", [i.code for i in issues])
+        self.assertIn("ARGUMENT_FULL_CITATION_MISSING", [i.code for i in issues])
 
     def test_index_check_rejects_empty_citation(self):
         item = index.ArgumentCitation(self.path, "Argument_Test", ["Author, A."], "2025", "", "", "", "en", ["Author, 2025"], ["Author, 2025"])
@@ -95,6 +95,13 @@ class TwoAuthorCitationTests(unittest.TestCase):
     def test_parenthetical_linker_uses_ampersand(self):
         actual = linker.link_parenthetical_group("Hofer and Pintrich, 1997", self.lookup, {"linked_parenthetical": 0}, [], "(", ")")
         self.assertIn("[[Argument_Test|Hofer & Pintrich, 1997]]", actual)
+
+    def test_conjunction_does_not_split_names_ending_in_and(self):
+        for author in ("Brand Smith", "Bertrand Russell"):
+            display = f"{author} (1997)"
+            self.assertEqual(display, lint.fix_english_author_and(display))
+            self.assertEqual(author, linker.normalize_display_author(author, narrative=True))
+            self.assertEqual(display, linker.normalize_citation_alias(display))
 
     def test_chinese_and_code_examples_unchanged(self):
         for body in ("林德布拉德和波普凯维茨 (2004)", "`Hofer & Pintrich (1997)`", "```\nHofer & Pintrich (1997)\n```", "## 来源\n\nHofer & Pintrich (1997)\n"):

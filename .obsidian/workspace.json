@@ -290,6 +290,7 @@
   },
   "active": "234d452edd1bdd48",
   "lastOpenFiles": [
+    "tests/__pycache__/test_citation_integrity.cpython-313.pyc",
     "tests/test_citation_integrity.py",
     "raw/Teach-Observer-Manual-First-Edition.pdf",
     "wiki/arguments/reports-policy-documents/Argument_WorldBank_2019_Teach.md",
@@ -328,7 +329,6 @@
     "wiki/concepts/educational-finance",
     "books/Cowen(Ed.)_2009_Springer/Ch29_Castro_2009.pdf",
     "books/Cowen(Ed.)_2009_Springer/Ch28_Rizvi_Lingard_2009.pdf",
-    "output/~$2025年.docx",
     "sources/Kickert_1995_Governance/figures/Kickert_1995_Governance_Fig1_Development_of_Steering.jpg",
     "tmp/render_check/s513-113.png",
     "tmp/render_check/s513-040.png",

@@ -1,18 +1,21 @@
 ---
 type: argument
-authors:
-  - "Darwish, B."
-source_language: en
-year: 2009
-citation: "Darwish, B. (2009). Education as a Political Act: Dewey, Freire and the (International Baccalaureate) Theory of Knowledge Curriculum (Master's thesis). Faculty of Education, Queen's University."
 title: "Argument_Darwish_2009_Queens"
 argument_key: "Argument_Darwish_2009_Queens"
-argument_display_title: "Argument_Darwish_2009_Queens"
+argument_display_title: "Education as a Political Act: Dewey, Freire and the (International Baccalaureate) Theory of Knowledge Curriculum (Master's thesis)"
 argument_kind: "books"
 argument_related_count: 66
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#e5e7eb"
+authors:
+  - "Darwish, B."
+source_language: en
+year: 2009
+citation: "Darwish, B. (2009). Education as a Political Act: Dewey, Freire and the (International Baccalaureate) Theory of Knowledge Curriculum (Master's thesis). Faculty of Education, Queen's University."
+citation_aliases:
+  - "Darwish, 2009"
+  - "Darwish (2009)"
 summary: "通过行动研究探讨主动学习教学法在国际文凭大学预科项目（IBDP）中的实施机制、认识论基础与学生批判性思维发展。"
 related_facts: []
 related_methods:
@@ -41,7 +44,8 @@ tags:
   - constructivism
 created: 2026-07-28
 updated: 2026-10-15
-sources: []
+sources:
+  - "[[books/Darwish_2009_Queens/Darwish_2009_Queens|Darwish_2009_Queens]]"
 related_concepts:
   - "[[Active Learning]]"
   - "[[Epistemology]]"
@@ -111,7 +115,6 @@ related_persons:
   - "[[Henry Giroux]]"
   - "[[Carlos Alberto Torres]]"
 ---
-
 # Argument_Darwish_2009_Queens
 
 ## 总览

@@ -1,6 +1,7 @@
 ---
 citation: "Håkansson, J. (2015). Vad hände efter Hattierevolutionen? Undervisningsrenässansen i det svenska skolutvecklingsarbetet. Paideia, 9, 52–60."
-extracted_to: []
+extracted_to:
+  - "[[Argument_Håkansson_2015_Paideia]]"
 processed_date: 2026-05-20
 ---
 

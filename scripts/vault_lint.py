@@ -260,7 +260,7 @@ PAGE_ONLY_REF_RE = re.compile(
     r"(?:\s*[,，]\s*\d+(?:\s*[–-]\s*\d+)?)*\s*[）)])",
     re.IGNORECASE,
 )
-ENGLISH_AUTHOR_AND_RE = re.compile(r"(?<=[A-Za-zÀ-ÖØ-öø-ÿ])\s*(?:and|和)\s*(?=[A-ZÀ-ÖØ-Þ])")
+ENGLISH_AUTHOR_AND_RE = re.compile(r"(?<=[A-Za-zÀ-ÖØ-öø-ÿ])(?:\s+and\s+|\s*和\s*)(?=[A-ZÀ-ÖØ-Þ])")
 APA_INVERTED_PERSON_RE = re.compile(
     r"^[A-Za-zÀ-ÖØ-öø-ÿĀ-ſ'’.-]+(?:[ -][A-Za-zÀ-ÖØ-öø-ÿĀ-ſ'’.-]+)*,\s*"
     r"(?:[A-ZÀ-ÖØ-ÞĀ-ſ]\.(?:-[A-ZÀ-ÖØ-ÞĀ-ſ]\.)?\s*)+$"
@@ -1423,7 +1423,7 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
     if is_citation_eligible_argument(data):
         citation = data.get("citation")
         if not isinstance(citation, str) or not citation.strip():
-            issues.append(Issue("ERROR", rel(path), "citation-eligible Argument must include a non-empty full citation", line=frontmatter_line_number(fm, "citation"), code="CITATION_FULL_MISSING"))
+            issues.append(Issue("ERROR", rel(path), "citation-eligible Argument must include a non-empty full citation", line=frontmatter_line_number(fm, "citation"), code="ARGUMENT_FULL_CITATION_MISSING"))
         for field in ["year", "citation_aliases"]:
             if field not in data or data.get(field) in (None, "", []):
                 issues.append(Issue("WARN", rel(path), f"citation-eligible Argument missing {field}", line=frontmatter_line_number(fm, field), code=f"CITATION_{field.upper()}_MISSING"))
@@ -2219,7 +2219,7 @@ def normalize_citation_alias_text(text: str) -> str:
     return ENGLISH_AUTHOR_AND_RE.sub(" & ", text)
 
 
-def has_english_author_and(text: str) -> bool:
+def has_invalid_english_author_conjunction(text: str) -> bool:
     return fix_english_author_and(text) != text
 
 
@@ -2235,7 +2235,7 @@ def fix_english_author_and(text: str) -> str:
     prefix = text[:year.start()]
     narrative = not text.lstrip().startswith(("(", "（")) and prefix.rstrip().endswith(("(", "（"))
     conjunction = " and " if narrative else " & "
-    prefix = re.sub(r"(?<=[A-Za-zÀ-ÖØ-öø-ÿ])\s*(?:&|and|和)\s*(?=[A-ZÀ-ÖØ-Þ])", conjunction, prefix)
+    prefix = re.sub(r"(?<=[A-Za-zÀ-ÖØ-öø-ÿ])(?:\s+and\s+|\s*&\s*|\s*和\s*)(?=[A-ZÀ-ÖØ-Þ])", conjunction, prefix)
     return prefix + text[year.start():]
 
 
@@ -2506,7 +2506,7 @@ def check_citation_links(path: Path, text: str, data: Optional[Dict[str, Any]], 
             expected = aliases[0] if aliases else f"{target.replace('Argument_', '')}, YEAR"
             issues.append(Issue("WARN", rel(path), f"non-Argument entries should cite Argument links with author-year display, not page-only display: {display!r}; expected like {expected!r}", line=line_of_pos(body_no_sources, m.start(), body_start_line), code="ARGUMENT_LINK_AUTHOR_YEAR_MISSING"))
         if display and citation_display_text(display):
-            if has_english_author_and(display):
+            if has_invalid_english_author_conjunction(display):
                 issues.append(Issue("WARN", rel(path), f"English two-author citation conjunction does not match narrative/parenthetical style: {display!r} -> {fix_english_author_and(display)!r}", line=line_of_pos(body_no_sources, m.start(), body_start_line), code="CITATION_ENGLISH_AND"))
             if not citation_display_matches_aliases(display, aliases):
                 issues.append(Issue("WARN", rel(path), f"citation link display {display!r} does not match target citation_aliases {aliases!r}", line=line_of_pos(body_no_sources, m.start(), body_start_line), code="CITATION_LINK_TARGET_MISMATCH"))
@@ -2520,7 +2520,7 @@ def check_citation_links(path: Path, text: str, data: Optional[Dict[str, Any]], 
             continue
         if raw_citation_is_reference_fragment(txt):
             continue
-        if has_english_author_and(txt):
+        if has_invalid_english_author_conjunction(txt):
             issues.append(Issue("WARN", rel(path), f"English two-author citation conjunction does not match narrative/parenthetical style: {txt!r} -> {fix_english_author_and(txt)!r}", line=line_of_pos(body_no_sources, m.start(), body_start_line), code="CITATION_ENGLISH_AND"))
         self_targets = {path.stem} if is_argument_entry(data) else set()
         if is_argument_entry(data) and data:
@@ -2629,7 +2629,7 @@ def fix_body_spans(text: str, argument_citations: Dict[str, Dict[str, Any]]) -> 
         if "|" not in raw or target not in argument_citations:
             continue
         display = raw.split("|", 1)[1].strip()
-        if citation_display_text(display) and has_english_author_and(display):
+        if citation_display_text(display) and has_invalid_english_author_conjunction(display):
             fixed = fix_english_author_and(display)
             inner_start = m.start(1) + raw.index("|") + 1
             edits.append((inner_start, m.end(1), fixed))
@@ -2638,7 +2638,7 @@ def fix_body_spans(text: str, argument_citations: Dict[str, Dict[str, Any]]) -> 
         txt = m.group(1).strip()
         if not citation_display_text(txt) or raw_citation_is_reference_fragment(txt):
             continue
-        if has_english_author_and(txt):
+        if has_invalid_english_author_conjunction(txt):
             edits.append((m.start(1), m.end(1), fix_english_author_and(body[m.start(1):m.end(1)])))
 
     if not edits:
