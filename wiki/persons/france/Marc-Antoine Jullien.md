@@ -10,7 +10,7 @@ summary: "法国启蒙自由主义教育家与国际主义者，1817年发表比
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 50
+person_related_count: 55
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
@@ -50,11 +50,13 @@ related_concepts:
   - "[[Faculty Psychology]]"
   - "[[Scientific Method]]"
   - "[[Hypothesis]]"
+  - "[[Discourse]]"
+  - "[[Knowledge Bank]]"
   - "[[Value Neutrality]]"
   - "[[Enlightenment]]"
-  - "[[Discourse]]"
   - "[[Comparative History of Comparative Education]]"
-related_theories: []
+related_theories:
+  - "[[Network Society]]"
 related_methods:
   - "[[Questionnaire]]"
   - "[[Correlational Research]]"
@@ -71,6 +73,7 @@ related_persons:
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
   - "[[Val D. Rust]]"
+  - "[[Jason Beech]]"
   - "[[Wolfgang Mitter]]"
 related_facts:
   - "[[Esquisse d'un ouvrage sur l'éducation comparée]]"
@@ -81,10 +84,11 @@ related_arguments:
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
   - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
+  - "[[Argument_Beech_2009_GlobalGarden]]"
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Marc-Antoine Jullien
@@ -188,9 +192,10 @@ updated: 2026-10-09
 > - **跨国改良与国家建制** 构想了以瑞士 22 个州为试点的教育经验互鉴机制，主张借用外部优良制度以培育国家意识与政治统合，开启了[[Empiricism\|经验主义]][[Policy Borrowing\|教育借用]]传统。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 14)]]
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias (2009)]] — 深入解构朱利安的准[[Proto-Scientific Motif|科学人道主义母题]]，澄清其欧陆二级精神科学属性，有力反驳 20 世纪行为实证派指责其问卷带有主观偏见的时代倒错。
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009)]] — 深入解构朱利安的准[[Proto-Scientific Motif|科学人道主义母题]]，澄清其欧陆二级精神科学属性，有力反驳 20 世纪行为实证派指责其问卷带有主观偏见的时代倒错。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 将朱利安 1816–1817 年方案置于两百年比较学术史连续统中，驳斥实证主义者将其孤立化为“史前孤立天才”的断裂叙事，确立其作为跨文化制度考证传统的思想源流。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 卡扎米亚斯反思比较教育学的现代主义与启蒙源流，系统阐述朱利安通过比较解剖学类比与分析事实图表消除统治者主观专断、开创准实证科学与道德改良双重使命的奠基性坐标。
+> - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 将朱利安等先驱的危机借用考察界定为主权国家专员垄断教育转移的古典基准，以此对照当代多元跨国网络行动者的兴起（pp. 341–344）。
 
 ---
 
@@ -205,17 +210,17 @@ updated: 2026-10-09
 > *Jullien drew an explicit analogy with comparative anatomy to [[Construct]] education as 'nearly a positive science'... His advocacy of collecting facts in analytical charts was designed to substitute reliable, objective knowledge for the caprice and arbitrary rule of public officials, thereby fostering moral and social improvement.*
 
 > [!citation-card] 帕尔默与卡洛扬纳基论“文明使徒”与“和平使徒”
-> 朱利安不仅配得上帕尔默对其“文明使徒”的定性，同样完全当得起“和平使徒”的称号。面对宗教道德纽带解体与动荡战争创伤，朱利安致力于通过国内与[[International Education\|国际教育]]的革新，实现全人类文明进步与和平共处。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, p. 23)]]；引自 Palmer (1993)
+> 朱利安不仅配得上帕尔默对其“文明使徒”的定性，同样完全当得起“和平使徒”的称号。面对宗教道德纽带解体与动荡战争创伤，朱利安致力于通过国内与[[International Education\|国际教育]]的革新，实现全人类文明进步与和平共处。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 23)]]；引自 Palmer (1993)
 >
 > *Jullien, the internationalist and the cosmopolitis (world citizen), does not only merit Palmer’s characterisation of 'apostle of civilisation', he could also, quite justifiably, be called 'apostle of peace'.*
 
 > [!citation-card] 弗雷泽论《计划》的科学[[Document\|文献]]价值与历史局限
-> 尽管在 19 世纪朱利安未必算得上比较教育学的首要发起者或核心阐释者，且技术与事实上他从未发展出一套彻底的比较教育学方法论，生前也未能见到国际教育机构建立；但他被广泛公认为最早将这些极具价值的构想熔铸为一部具备如此巨大潜在体量初稿的先驱之一，以至于今天的比较科学绝无法忽视他；他的《计划》是这门科学中最重要的文献文物之一。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, p. 24)]]；引自 Fraser (1964:117)
+> 尽管在 19 世纪朱利安未必算得上比较教育学的首要发起者或核心阐释者，且技术与事实上他从未发展出一套彻底的比较教育学方法论，生前也未能见到国际教育机构建立；但他被广泛公认为最早将这些极具价值的构想熔铸为一部具备如此巨大潜在体量初稿的先驱之一，以至于今天的比较科学绝无法忽视他；他的《计划》是这门科学中最重要的文献文物之一。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 24)]]；引自 Fraser (1964:117)
 >
 > *While Jullien may not necessarily qualify as the principal instigator or exponent of [[Comparative Pedagogy]] in the nineteenth century his Plan remains one of the most important [[Artefact\|artifacts]] in the science. Technically, and in fact, Jullien never developed a thoroughgoing comparative methodology in education, nor did he live to see his ideas for institutes of international education become established, but he has been widely identified as one of the first to consolidate these useful ideas into a preliminary draft of such potential magnitude that he cannot be ignored today.*
 
 > [!citation-card] 卡洛扬纳基与卡扎米亚斯论朱利安生前效力局限与学科追认
-> 尚无证据表明朱利安在《计划》中提出的比较方法或国际教育设想在生前被采纳或对学科后续发展产生实质影响。卡洛扬纳基与卡扎米亚斯赞同[[Franz Hilker|希尔克]]（Franz Hilker）、[[Immanuel Kant\|康德]]尔（[[Isaac Kandel]]）与汉斯（[[Nicholas Hans]]）等 20 世纪先驱的史学判断，指出朱利安生前未能实质性影响比较教育的发展，其奠基地位是 20 世纪手稿被重构后的追认。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, p. 24)]]
+> 尚无证据表明朱利安在《计划》中提出的比较方法或国际教育设想在生前被采纳或对学科后续发展产生实质影响。卡洛扬纳基与卡扎米亚斯赞同[[Franz Hilker|希尔克]]（Franz Hilker）、[[Immanuel Kant\|康德]]尔（[[Isaac Kandel]]）与汉斯（[[Nicholas Hans]]）等 20 世纪先驱的史学判断，指出朱利安生前未能实质性影响比较教育的发展，其奠基地位是 20 世纪手稿被重构后的追认。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 24)]]
 >
 > *We have no evidence that Jullien’s comparative methodology or his ideas and proposals about comparative and international education as presented in his Plan and preliminary views for a work in comparative education were adopted or had any significant influence in the subsequent development of the two related epistemic domains. As historians of comparative education, we concur with what Stewart Fraser in his authoritative edition and evaluation of Jullien’s Plan wrote back in 1964. Agreeing with the historical judgement of Franz Hilker, Isaac Kandel and Nicholas Hans... that Jullien 'was unable to influence the development of comparative education to any great extent'...*
 
@@ -223,6 +228,11 @@ updated: 2026-10-09
 > 欧洲比较教育学的学科开端普遍归功于朱利安 1817 年的《计划》。朱利安首次阐明了贯穿学科演进的双重目的——搜集与系统化事实的科学目的与为政策改革提供借鉴的实践目的。然而在整个 19 世纪，欧洲大学教席并未采纳朱利安的学术蓝图；相反，比较教育是在大学之外，通过为新兴民族[[State Educational Sovereignty|国家教育主权]]建设服务的行政视察员与旅行家调查（如库赞、阿诺德、[[Michael Sadler|萨德勒]]、曼恩）而经验性自发发展的。朱利安的学术方案被遗忘了近一个世纪，直至 20 世纪才在国际教育局与学术史编纂中被重新发掘并追认为学科始祖。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 88–89)]]
 >
 > *The birth of this discipline is widely attributed to Marc-Antoine Jullien de Paris whose 'Esquisse d’un ouvrage sur l’éducation comparée' appeared in 1817... He laid down the 'two-fold purpose' of comparative education which has remained valid up to the present day: the scientific purpose... and the practical purpose...*
+
+> [!citation-card] Beech论朱利安时代主权国家专员对危机驱动型[[Policy Borrowing|教育借用]]的垄断
+> 危机驱动的教育借用自 19 世纪以来屡见不鲜：朱利安、库赞、曼、托尔斯泰与萨米恩托等人，无不为了克服国内危机而远赴他国采撷经验。然而在这一古典时期，漫步于世界教育花园的主体严格局限于主权国家的特派官员或学者。教育转移被牢牢锁定在民族国家的封闭容器之内；这一传统直到当代全球化与[[Network Society|网络社会]]的兴起才被彻底打破。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–344)]]
+>
+> *Educational borrowing driven by domestic crisis has a long pedigree... Jullien, Cousin, Mann, Tolstoy, and Sarmiento all engaged in foreign tours to overcome crises. Yet in this classical era, those strolling through the educational garden were exclusively official commissioners representing sovereign states.*
 
 ---
 
@@ -240,6 +250,7 @@ updated: 2026-10-09
 > - **现代学术发掘者** 斯图尔特·弗雷泽（Stewart Fraser） 1964 年出版权威英译与导论评注本[[Document\|文献]]集，确立其作为学科奠基性文献的历史地位。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 24)]]
 > - **现代思想史重构者** 罗伯特·帕尔默（R. R. Palmer） 1993 年出版思想传记《从雅各宾到自由派》，系统阐明其从激进革命工具论到宪政自由主义教育预防论的演进轨迹。（Palmer, 1993）
 > - **现代学术发掘与史学评述** [[Val D. Rust|瓦尔·D·拉斯特]]（Val D. Rust） 阐明朱利安方案在两百年比较学术史连续统中的基石地位，批判将朱利安与十九世纪后继学术传统割裂对立的实证主义断裂叙事。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 122–124)]]
+> - **现代跨国网络与[[Discourse|话语]]流通研究者** 杰森·比奇（[[Jason Beech]]） 将朱利安考察定性为 19 世纪国家特派官员垄断危机借用的经典历史基准，以此对照当代多元跨国行动者与[[Knowledge Bank|知识银行]]对教育转移的重构。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 341–342)]]
 
 ---
 
@@ -250,15 +261,15 @@ updated: 2026-10-09
 > > [!axis] 现代[[Value Neutrality\|价值中立]]实证论 vs 启蒙欧陆[[Geisteswissenschaften|人文科学]][[Paradigm\|范式]]
 > > 20 世纪下半叶科学[[Positivism\|实证主义]]学者批评朱利安的[[Questionnaire\|问卷]]过度冗长、复杂，且充斥着强烈的主观道德预设和诱导性提问，未能实现真正的价值中立与客观经验测量。围绕这一批评，学界形成了两种根本对立的[[Epistemology\|认识论]]评价视角：[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 16–18)]]
 > >
-> > - **Harold Noah & Max Eckstein (1969)** 认为朱利安对教育正当目标的预先[[Hypothesis\|假设]]严重影响了其提问方式，在宗教和道德题项中进行价值诱导，带有浓厚的理念宣传动机而非纯粹客观归纳。（pp. 16–17）
-> > - **Pella Kaloyannaki & Andreas Kazamias (2009) / R. R. Palmer (1993)** 指出实证派批判陷入了辉格史的时代倒错；朱利安将科学界定为人类心灵的一切理性活动，并将其置于关涉心灵与道德的二级精神科学位置，经验事实分类本就全面服从于服务全人道德[[Bildung\|教化]]与预防流血暴乱的启蒙伦理规范。（pp. 17–18）
+> > - **Harold Noah and Max Eckstein (1969)** 认为朱利安对教育正当目标的预先[[Hypothesis\|假设]]严重影响了其提问方式，在宗教和道德题项中进行价值诱导，带有浓厚的理念宣传动机而非纯粹客观归纳。（pp. 16–17）
+> > - **Pella Kaloyannaki and Andreas Kazamias (2009) / R. R. Palmer (1993)** 指出实证派批判陷入了辉格史的时代倒错；朱利安将科学界定为人类心灵的一切理性活动，并将其置于关涉心灵与道德的二级精神科学位置，经验事实分类本就全面服从于服务全人道德[[Bildung\|教化]]与预防流血暴乱的启蒙伦理规范。（pp. 17–18）
 > [!citation-card] 诺亚与埃克斯坦论朱利安调查的[[Policy Borrowing\|政策借用]]动机与先验道德偏见
-> 朱利安的《计划》是比较教育发轫期“受从国外吸取有用教训之渴望所驱动”的选优借用典型，其调查深受先验道德预设主导，而非客观中立的实证社会科学探究。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, p. 23)]]；引自 Noah & Eckstein (1969:15, 21)
+> 朱利安的《计划》是比较教育发轫期“受从国外吸取有用教训之渴望所驱动”的选优借用典型，其调查深受先验道德预设主导，而非客观中立的实证社会科学探究。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, p. 23)]]；引自 Noah & Eckstein (1969:15, 21)
 >
 > *Jullien’s Plan is a prime example of work in comparative education motivated by a desire to gain useful lessons from abroad.*
 
 > [!critique]- 批评索引
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 详细记录了 20 世纪行为实证学派对朱利安问卷先验偏见、价值诱导设问与[[Faculty Psychology\|官能心理学]]教条垄断的学术批判。
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 详细记录了 20 世纪行为实证学派对朱利安问卷先验偏见、价值诱导设问与[[Faculty Psychology\|官能心理学]]教条垄断的学术批判。
 
 > [!warning] 未解问题与边界
 > - **语境特异性忽视** 朱利安关于通过问卷收集各民族教育事实以推导出普遍法则的构想，在一定程度上忽视了教育制度深嵌于特定民族国家历史文化传统之中的情境复杂性。
@@ -280,8 +291,9 @@ updated: 2026-10-09
 > | [[Faculty Psychology\|官能心理学]] | 概念 | 在 1817 年《计划》[[Questionnaire\|问卷]]中以拉罗米吉埃官能学说为准绳设计跨国智育调查题项。 |
 > | [[Policy Borrowing\|政策借用]] | 概念 | 开启基于跨国经验事实比较进行选择性制度借用与改良的现代[[Discourse\|话语]]传统。 |
 > | [[Comparative History of Comparative Education\|比较教育学的比较史]] | 概念 | 作为学科起源神话与[[Positivism\|实证主义]][[Paradigm\|范式]]建构的关键历史分析对象。 |
-> | [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] | 论证 | 提供朱利安思想史、方法论指标体系、政治信念演变与[[Epistemology\|认识论]]争鸣的系统文本证据。 |
+> | [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] | 论证 | 提供朱利安思想史、方法论指标体系、政治信念演变与[[Epistemology\|认识论]]争鸣的系统文本证据。 |
 > | [[State Educational Sovereignty\|国家教育权]] | 概念 | 19 世纪欧洲国家教育主权的兴起绕过了朱利安的学术蓝图，以行政视察员的国家借用推动比较教育实践演进。 |
 > | [[Wolfgang Mitter\|沃尔夫冈·米特]] | 人物 | 在学科制度史中系统考证朱利安“双重目的”的开创性及其在 19 世纪欧洲大学中被遗忘的历史机制。 |
 > | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] | 论证 | 考证朱利安作为欧洲比较教育学科起点的定位、双重任务界定及其与 19 世纪行政借用时期的历史断裂。 |
 > | [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] | 论证 | 梳理第一代启蒙准科学与行政改良代际，剖析朱利安准科学设想消除专断与道德改良的双重面向。 |
+> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 论证 | 将朱利安等先驱的危机借用确立为 19 世纪国家专员垄断教育转移的历史基准，反衬当代跨国网络行动者崛起。 |

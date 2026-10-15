@@ -42,8 +42,8 @@ related_persons:
   - "[[Immanuel Kant]]"
   - "[[Isaiah Berlin]]"
   - "[[François Guizot]]"
-  - "[[Horace Mann]]"
   - "[[Calvin Stowe]]"
+  - "[[Horace Mann]]"
   - "[[Henry Barnard]]"
 related_facts:
   - "[[Guizot Law of 1833]]"
@@ -116,7 +116,7 @@ updated: 2026-10-15
 > [!influence-path] 影响路径
 > - **德意志本土法制路径** 虽然 1819 年法案草案在国家层面未获国王正式签字成法，但其各项具体制度细则（如市镇公学经费分摊、省立师训规程、视导体制）直接成为普鲁士教育部各省行政规程的指导大纲，事实上完成了普鲁士全境初等国民教育与师资制度的规范化统一。
 > - **法国立法跨国转置路径** 1831 年法国哲学家[[Victor Cousin\|维克多·库森]]深入研究聚芬草案文本，以其为蓝本撰写《普鲁士公共教育现状报告》；该报告随后被七月王朝公共教育部部长[[François Guizot\|弗朗索瓦·基佐]]全盘吸收，使聚芬草案的四大支柱（国家最高监督、市镇强制设校、省立师范垄断、初等双轨层级）在法国《1833 年[[Guizot Law of 1833\|基佐法案]]》中实现实定法重构。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 27–29)]]
-> - **跨大西洋[[Common School Movement\|公学运动]]动员** 聚芬所设计的国家世俗监督与专业化[[Normal School\|师范学校]]规程，通过[[Report on the State of Public Instruction in Prussia\|库森报告]]的英译本以及斯托（Stowe, 1837）、[[Horace Mann\|曼]]（Mann, 1844）与巴纳德（Barnard, 1854, 1872）的欧洲考察[[Document\|文献]]传播至北美，成为美利坚公共学校运动反驳宗派割据、推动州立教育委员会立法与公立师范设立的核心域外实证依据。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(pp. 31–34)]]
+> - **跨大西洋[[Common School Movement\|公学运动]]动员** 聚芬所设计的国家世俗监督与专业化[[Normal School\|师范学校]]规程，通过[[Report on the State of Public Instruction in Prussia\|库森报告]]的英译本以及斯托（Stowe, 1837）、曼（Mann, 1844）与巴纳德（Barnard, 1854, 1872）的欧洲考察[[Document\|文献]]传播至北美，成为美利坚公共学校运动反驳宗派割据、推动州立教育委员会立法与公立师范设立的核心域外实证依据。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(pp. 31–34)]]
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009)]] — 详细考证聚芬草案作为 19 世纪欧陆国家现代化建制的核心枢纽地位，以及其如何通过库森报告驱动法国实定法移植并影响北美公学运动。

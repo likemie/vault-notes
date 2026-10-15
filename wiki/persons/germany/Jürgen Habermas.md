@@ -68,7 +68,6 @@ related_persons:
   - "[[Max Planck]]"
   - "[[Marc-Antoine Jullien]]"
   - "[[Victor Cousin]]"
-  - "[[Horace Mann]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
   - "[[Klaus Nielsen]]"
@@ -177,7 +176,7 @@ updated: 2026-10-08
 
 > [!influence-path] 影响路径
 > - **现代性工程与公共教育的制度起源（比较教育史学路径）**
->   卡洛扬纳基与卡扎米亚斯（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009]]）在分析 19 世纪比较教育发轫（[[Marc-Antoine Jullien|朱利安]]、[[Victor Cousin|库森]]、[[Horace Mann|曼]]、斯托、巴纳德）时，运用哈贝马斯的“现代性工程”作为总括性历史哲学框架：国民公共教育体系的建立，是启蒙现代性重构“理性公共领域”与形塑自主爱国公民的必要制度条件。
+>   卡洛扬纳基与卡扎米亚斯（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009]]）在分析 19 世纪比较教育发轫（[[Marc-Antoine Jullien|朱利安]]、[[Victor Cousin|库森]]、曼、斯托、巴纳德）时，运用哈贝马斯的“现代性工程”作为总括性历史哲学框架：国民公共教育体系的建立，是启蒙现代性重构“理性公共领域”与形塑自主爱国公民的必要制度条件。
 > - **国家能力、公共技术供给与政治[[Legitimation Crisis|合法化危机]]（政治经济学与技术政策路径）**
 >   [[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska, 2025]]）在构建[[Technological Republic|技术共和国]]理论时，运用哈贝马斯的“合法化危机”分析现代民主政体的治理公信力：民主国家的合法性并非仅凭抽象选举程序维系，而是根本上取决于能否为公民提供安全、医疗与经济繁荣；当关键公共部门因体制排斥沦为[[Innovation Desert|创新荒漠]]、前沿技术红利无法转化为公共治理效能时，政权将面临深层的合法化危机。
 > - **合法化危机与现代教育评价的技术主义批判（政策社会学路径）**

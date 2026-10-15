@@ -62,7 +62,6 @@ related_persons:
   - "[[Jason Beech]]"
   - "[[John Dewey]]"
   - "[[Marc-Antoine Jullien]]"
-  - "[[Horace Mann]]"
   - "[[Basil Bernstein]]"
 related_facts:
   - "[[New Culture Movement]]"
@@ -222,7 +221,7 @@ updated: 2026-10-15
 ## 概念演变
 
 > [!dev-timeline] 形变概念与理论问题意识演变
-> - **2006 — 历史危机借用反思** Cowen (2006) 追溯比较教育先驱者（如[[Marc-Antoine Jullien|朱利安]]、[[Horace Mann|曼]]、萨米恩托）以及日本与美国在危机驱动下借用外来制度的历史，指出借用从未产生完全同构的孪生体。
+> - **2006 — 历史危机借用反思** Cowen (2006) 追溯比较教育先驱者（如[[Marc-Antoine Jullien|朱利安]]、曼、萨米恩托）以及日本与美国在危机驱动下借用外来制度的历史，指出借用从未产生完全同构的孪生体。
 > - **2009 — 理论倡议：移动即变形** Robert [[Argument_Cowen_2009_CE|Cowen (2009b)]] 正式提出形变（Shape-shifting）概念，确立“移动即变形”的理论问题意识，批评比较教育学长期受制于[[Methodological Nationalism|方法论民族主义]]，缺乏对制度形态在流动中精细变异的描述维度。
 > - **2009 — [[Network Society|网络社会]]与多层级[[Transfer Translation Transformation|转译]]模型** [[Argument_Beech_2009_CE|Beech (2009a)]] 与 [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] 将形变理论拓展至[[Network Society|网络社会]]情境，融合[[Basil Bernstein|伯恩斯坦]]语篇位置与卡斯特[[Space of Flows|流动空间]]，系统剖析了全球学术、国际组织、国家、本土学术与学校机构五大位置中的[[Discourse|话语]]截断、政策杂糅与微观反常替代。
 > - **2024 — 长时段思想形变实证深化** [[Argument_Zhou_2024_CE|Zhou and Westberg (2024)]] 进一步将形变分析应用于民国时期[[John Dewey|杜威]]教育思想的百年引介史，展示外来哲学在异质政治土壤与战时危机中的动态形态蜕变。

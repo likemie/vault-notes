@@ -81,7 +81,6 @@ related_persons:
   - "[[Marc-Antoine Jullien]]"
   - "[[Bernard Barber]]"
   - "[[Andreas Kazamias]]"
-  - "[[Horace Mann]]"
   - "[[Michael Sadler]]"
   - "[[Isaac Kandel]]"
   - "[[C. Arnold Anderson]]"
@@ -203,7 +202,7 @@ updated: 2026-10-11
 > - **事实与价值严格二分（Fact-Value Dichotomy）** 在逻辑上严格区分“实然”（What is，客观描述世界规律）与“应然”（What ought to be，道德与伦理评判），主张[[Scientific Method|经验科学]]探究仅对前者负责。
 > - **程序控制与研究者超然（Procedural Rigour & Detachment）** 依靠标准化[[Questionnaire|问卷]]、双盲实验、[[Random Assignment|随机分配]]、统计协方差控制以及同行评议机制，将研究者主观偏见对数据结论的渗入降至最低。
 > - **技术官僚免责与去政治化合法性外衣（Technocratic Alibi & Depoliticized Legitimation）** 价值中立往往被政府机构、跨国组织（[[World Bank|世界银行]]、[[OECD|经合组织]]）与技术官僚借用为推行预定政策的客观性屏障；通过宣称研究结果“价值无涉”，决策者将充满阶级利益矛盾的政治决断包装为中立自然规律，以此规避公众道德审议与行政问责。[[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a, pp. 147–148, 153–154)]]
-> - **古典人文与改良传统的价值关切[[Incommensurability|不可通约性]]（Incommensurability with Humanist-Meliorist Values）** 价值中立在[[Epistemology|认识论]]上与启蒙及历史哲学传统存在根本断裂：启蒙初期的比较教育（[[Marc-Antoine Jullien|朱利安]]、[[Horace Mann|曼]]）天然承载着道德改良（[[Educational Meliorism]]）与人道解放使命，而历史-哲学学派（[[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、汉斯）则视民主价值防卫为核心志业，两代学者皆明确拒斥将教育研究矮化为冰冷、去价值的[[Variable|变量]]运算。[[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a, pp. 140–144)]]
+> - **古典人文与改良传统的价值关切[[Incommensurability|不可通约性]]（Incommensurability with Humanist-Meliorist Values）** 价值中立在[[Epistemology|认识论]]上与启蒙及历史哲学传统存在根本断裂：启蒙初期的比较教育（[[Marc-Antoine Jullien|朱利安]]、曼）天然承载着道德改良（[[Educational Meliorism]]）与人道解放使命，而历史-哲学学派（[[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、汉斯）则视民主价值防卫为核心志业，两代学者皆明确拒斥将教育研究矮化为冰冷、去价值的[[Variable|变量]]运算。[[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a, pp. 140–144)]]
 > - **去政治化客观修辞（Depoliticized Scientific [[Discourse]]）** 在学术文本中采用去人称化表达、数据图表与概率陈述，构建无党派立场、中立客观的科学权威形象。
 > - **量化效度的[[Positivism|实证主义]]前提（Positivist Validity Premise）** 该传统将价值中立列为实证主义[[Quantitative Research|量化研究]]效度的九大基石之一——与可控性、可复制性、去情境化、随机化和可观测性并列，构成研究者对“价值无涉”的方法论承诺。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 10, pp. 158–159)]]
 > - **手段-目的工程学分离（Means-Ends Separation）** 将研究职责严格限定为评估“手段的技术有效性”，而将“目标的价值正当性”剥离并推给政治家与公众决定，奠定了现代技术官僚治理模式的理论基础。

@@ -172,7 +172,7 @@ updated: 2026-10-07
 > **实证科学派对前科学编年史的严苛批判** 诺亚与埃克斯坦指出，19 世纪绝大多数所谓比较学者的著述在严格意义上并非科学比较研究。以巴纳德、曼等人为代表的调查充斥着对第一手材料不加鉴别的盲目搜集、叙述与再版，其文本缺乏科学[[Hypothesis\|假设]]检验、概念控制与[[Variable\|变量]]关联推导，本质上属于现代实证科学成型之前的“前科学编年史记录（pre-scientific chronicling）”。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 32–33; Noah & Eckstein, 1969, pp. 25–26)]]
 
 > [!claim] Kaloyannaki, P. & [[Andreas Kazamias\|Kazamias, A.]] M.
-> **解构辉格史神话并确立外国教育学的编年叙事定位** 卡洛扬纳基与卡扎米亚斯深入论证指出，除[[Marc-Antoine Jullien\|朱利安]]带有准实证科学构想外，19 世纪活跃于英法美官方决策层的[[Discourse|话语]]（[[Victor Cousin\|库森]]、[[Horace Mann\|曼]]、斯托与巴纳德）在很大程度上只触及了比较教育学的边缘；它们在认识论形态上本质是德语区所谓的“外国教育学（Auslandspädagogik）”。这些文献展现出显著的描述性、报道性、非历史化与非分析性特征，缺乏现代历史科学所要求的深层情境归因与解释学诠释；学者们实质上充当了卓越的教育编年史官与[[Ethnography\|民族志]]记录者。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 32–33)]]
+> **解构辉格史神话并确立外国教育学的编年叙事定位** 卡洛扬纳基与卡扎米亚斯深入论证指出，除[[Marc-Antoine Jullien\|朱利安]]带有准实证科学构想外，19 世纪活跃于英法美官方决策层的[[Discourse|话语]]（[[Victor Cousin\|库森]]、曼、斯托与巴纳德）在很大程度上只触及了比较教育学的边缘；它们在认识论形态上本质是德语区所谓的“外国教育学（Auslandspädagogik）”。这些文献展现出显著的描述性、报道性、非历史化与非分析性特征，缺乏现代历史科学所要求的深层情境归因与解释学诠释；学者们实质上充当了卓越的教育编年史官与[[Ethnography\|民族志]]记录者。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 32–33)]]
 
 ---
 
@@ -182,7 +182,7 @@ updated: 2026-10-07
 > 该命题探讨外国教育学事实汇纂在不同国家权力结构中的政治转化机制，揭示经验事实如何作为话语资本介入国内博弈。
 
 > [!claim] Downs, R. B.
-> **引路明灯与示警烽火的辩证借用准则** 霍勒斯·曼在考察欧洲外国教育学实践时，确立了“寻找引路明灯亦寻找示警烽火”的经典准则。面对国内保守学监与教会势力的猛烈阻抗，曼并未盲目复制普鲁士君主专制的政治规程，而是辩证分离专制外壳与先进教学法，战略性抽取其公学成效与人道纪律作为反击本土势力的事实武器。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 31; Downs, 1974, p. 88)]]
+> **引路明灯与示警烽火的辩证借用准则** [[Horace Mann|霍勒斯·曼]]在考察欧洲外国教育学实践时，确立了“寻找引路明灯亦寻找示警烽火”的经典准则。面对国内保守学监与教会势力的猛烈阻抗，曼并未盲目复制普鲁士君主专制的政治规程，而是辩证分离专制外壳与先进教学法，战略性抽取其公学成效与人道纪律作为反击本土势力的事实武器。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 31; Downs, 1974, p. 88)]]
 
 > [!claim] Kaloyannaki, P. & Kazamias, A. M.
 > **外国经验[[Transfer Translation Transformation\|转译]]为国内争议改革的合法化依据** 卡洛扬纳基与卡扎米亚斯揭示指出，与欧陆库森将普鲁士经验直接写入国家实定法不同，美洲先驱缺乏中央集权命令强制力，被迫在联邦分权与民主协商语境下展开说服；他们远赴海外搜集外国教育学事实，核心动机是将海外公学的卓越成效转译为击溃国内反对派、为州立公共学校体制确立政治正当性的雄辩合法化依据（legitimating rationales），实现了外国教育学向政治合法化话语资本的根本功能转型。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 33–34)]]

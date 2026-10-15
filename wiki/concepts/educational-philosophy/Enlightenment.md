@@ -56,12 +56,12 @@ related_concepts:
 related_persons:
   - "[[Marc-Antoine Jullien]]"
   - "[[Victor Cousin]]"
-  - "[[Horace Mann]]"
   - "[[Immanuel Kant]]"
   - "[[Jean-Jacques Rousseau]]"
   - "[[Jürgen Habermas]]"
   - "[[Jean-François Lyotard]]"
   - "[[Johann Heinrich Pestalozzi]]"
+  - "[[Horace Mann]]"
   - "[[Andreas Kazamias]]"
   - "[[John Rawls]]"
   - "[[Lee Kuan Yew]]"
@@ -110,7 +110,7 @@ updated: 2026-10-10
 
 > [!concept-lens] 概念透镜
 > - **含义** 指称西方现代文明以“理性（Raison）、自由（Liberté）、进步（Progrès）与科学（Science）”为轴心的世界观重组，及其将公共教育系统视作社会大厦基础工程的制度化过程。
-> - **用途** 揭示现代比较教育学始祖[[Marc-Antoine Jullien\|马克-安托万·朱利安]]为何将实证归纳事实与崇高人道主义熔铸为一体，以及 19 世纪欧陆与北美行政改革派（[[Victor Cousin\|库森]]、[[Horace Mann\|曼]]）为何将公共教育权提升为国家最高公共资源与共和防卫基石。
+> - **用途** 揭示现代比较教育学始祖[[Marc-Antoine Jullien\|马克-安托万·朱利安]]为何将实证归纳事实与崇高人道主义熔铸为一体，以及 19 世纪欧陆与北美行政改革派（[[Victor Cousin\|库森]]、曼）为何将公共教育权提升为国家最高公共资源与共和防卫基石。
 > - **边界** 严格区别于 20 世纪冷酷的[[Technical Rationality\|技术官僚理性]]或去伦理化的狭隘[[Positivism\|实证主义]]；早期启蒙运动的现代性工程坚守事实经验求真与道德规范[[Bildung\|教化]]的不可分割性，追求的是全人体智德教化与人类解放。
 
 > [!citation-card] [[Immanuel Kant\|康德]]论启蒙的本质与理性的公共运用

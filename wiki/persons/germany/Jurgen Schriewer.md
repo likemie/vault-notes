@@ -29,6 +29,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Epistemology]]"
   - "[[European Education Space]]"
+  - "[[Global Educational Discourse]]"
   - "[[Reflexivity]]"
   - "[[Policy Borrowing]]"
   - "[[Cross-National Attraction]]"
@@ -89,7 +90,7 @@ updated: 2026-10-08
 > - **1990** **发表[[Externalization|外化]]理论奠基性论文** 在与[[Brian Holmes|布莱恩·霍姆斯]]（[[Brian Holmes]]）合作编纂的论文集中发表《比较作为方法与外化的需求》（*The method of comparison and the need for externalization*），首次确立外化概念为比较教育学破解因果确定论迷思的核心[[Epistemology|认识论]]工具。
 > - **1992–2007** **执掌[[Isaiah Berlin|柏林]]洪堡大学引领东德学科重建** 两德统一后应邀执掌柏林洪堡大学比较教育讲座，创立洪堡大学比较教育研究所，延揽于尔根·亨策（Jürgen Henze）等学者，将洪堡大学打造为后冷战欧洲跨国网络研究与博士生培养的旗帜性中心。[[Argument_Mitter_2009_Europe|(Mitter, 2009, p. 90)]]
 > - **1996–2000** **当选[[Comparative Education Society in Europe|欧洲比较教育学会]]主席推动学术开放** 出任 CESE 主席，积极推动冷战后中东欧学者融入欧洲比较学术共同体，并在 2000 年组织编写关于[[European Education Space|欧洲教育空间]]重构的重磅成果。
-> - **2003** **出版《比较教育中的[[Discourse|话语]]形成》固化全球学派地位** 出版主编著作《比较教育中的话语形成》（*Discourse Formation in Comparative Education*），将外化分析正式升级为全球教育话语形成与跨国互涉（inter-referencing）的系统理论。
+> - **2003** **出版《比较教育中的[[Discourse|话语]]形成》固化全球学派地位** 出版主编著作《比较教育中的话语形成》（*Discourse Formation in Comparative Education*），将外化分析正式升级为[[Global Educational Discourse|全球教育话语]]形成与跨国互涉（inter-referencing）的系统理论。
 > - **2007–至今** **洪堡大学荣休与持续理论阐发** 从洪堡大学荣休后，持续致力于复杂性与因果律的科学哲学探讨，被国际学术界公认为现代欧洲比较教育理论的一代宗师。
 
 ---
@@ -102,7 +103,7 @@ updated: 2026-10-08
 >   - **关键概念** 自创生系统、意义外化、自我指涉（self-referentiality）。
 > - **1990年代中后期 — 世界体系与[[Discourse|话语]]形成理论综合** 结合瓦勒斯坦[[World-Systems Theory|世界体系理论]]，剖析全球普遍主义话语如何与本土教育系统[[Reflexivity|反思性]]语义深度交织。
 >   - **代表著作** *Vergleich und Erklärung zwischen Kausalität und Komplexität* (1999); *Discourse Formation in Comparative Education* (2003).
->   - **关键概念** 语义建构、进化过程、全球教育话语网络。
+>   - **关键概念** 语义建构、进化过程、[[Global Educational Discourse|全球教育话语]]网络。
 > - **2000年代至今 — [[Policy Borrowing|政策借用]]解构与历史复杂性阐发** 与施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）等学者合作，解构后冷战全球教育治理中的[[Cross-National Attraction|跨国吸引力]]与修辞合法化机制。
 >   - **代表著作** *Constructions of internationality in education* (Schriewer & Martinez, 2004).
 >   - **关键概念** 进化过程 vs. 语义建构、向传统的双向外化、文化脉络[[Rich and Thick Description|深描]]。

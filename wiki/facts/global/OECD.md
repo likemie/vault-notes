@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 128
+fact_related_count: 127
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -35,13 +35,13 @@ related_concepts:
   - "[[New Managerialism]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Social Imaginary]]"
-  - "[[Performance Indicators]]"
-  - "[[Innovation Policy Paradigms]]"
-  - "[[School Autonomy]]"
   - "[[New Public Management]]"
+  - "[[Performance Indicators]]"
+  - "[[School Autonomy]]"
+  - "[[Innovation Policy Paradigms]]"
   - "[[Epistemic Governance]]"
-  - "[[Peer Pressure]]"
   - "[[Governing by Numbers]]"
+  - "[[Peer Pressure]]"
   - "[[Evidence Ecosystem]]"
   - "[[Space of Equivalence]]"
   - "[[Commensuration]]"
@@ -103,13 +103,12 @@ related_theories:
   - "[[Beech's Model of Discourse Circulation]]"
 related_methods:
   - "[[Peer Debriefing]]"
-  - "[[Pre-test and Post-test]]"
   - "[[Item Response Theory]]"
   - "[[Questionnaire]]"
   - "[[Analytic Framework]]"
 related_persons:
-  - "[[Chris Freeman]]"
   - "[[George Papadopoulos]]"
+  - "[[Chris Freeman]]"
   - "[[Jarl Bengtsson]]"
   - "[[Bengt-Åke Lundvall]]"
   - "[[Alain Desrosières]]"
@@ -154,10 +153,10 @@ related_arguments:
   - "[[Argument_Klerides_2023_CE]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Freeman_1995_CJE]]"
-  - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
-  - "[[Argument_Revai_2022_ChangingLandscape]]"
+  - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Mitter_2009_Europe]]"
+  - "[[Argument_Revai_2022_ChangingLandscape]]"
   - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_Li_2025_HSSC]]"
 confidence: medium
@@ -188,33 +187,52 @@ updated: 2026-10-15
 经合组织的全球治理职能并非自创设起就天然具备，而是在冷战地缘博弈、科技研发标准化竞赛、比较教育学科[[Paradigm|范式]]转换与新自由主义全球治理技术的演进中逐步确立并分化的。它在科技创新政策与教育人力治理两大领域分别开创了具有全球垄断性的量化基准。
 
 > [!org-evolution]- 组织发展历程
-> - **1948–1960** **[[Organisation for European Economic Co-operation\|欧洲经济合作组织]]（OEEC）的奠基**
+> - **1948–1960** **[[Organisation for European Economic Co-operation|欧洲经济合作组织]]（OEEC）的奠基**
 >
->   美国政府为管理二战后欧洲复兴的马歇尔计划而主导创立 OEEC。该援助框架从一开始就将科技人力供给与西欧工业复兴紧密绑定，为后来的教育规划与科技统计奠定了技术官僚雏形。[[Argument_Klerides_2023_CE\|(Klerides, 2023, p. 422)]]
+>   美国政府为管理二战后欧洲复兴的马歇尔计划而主导创立 OEEC。该援助框架从一开始就将科技人力供给与西欧工业复兴紧密绑定，为后来的教育规划与科技统计奠定了技术官僚雏形。[[Argument_Klerides_2023_CE|(Klerides, 2023, p. 422)]]
 >
->   - **1957** 苏联人造卫星（[[Sputnik Shock 1957\|Sputnik]]）升空引发西方世界的科技危机与教育动员浪潮。
->   - **1958** [[Comparative Education Center at Chicago 1958\|芝加哥大学比较教育中心]]建立，推动教育经济学与比较教育深度融合。
-> - **1961–1970s** **OECD 改组、科技统计奠基与冷战“[[Development Turn in Comparative Education\|发展转向]]”**
+>   - **1948** 欧洲经济合作组织成立，负责管理马歇尔计划援助。
+>   - **1957** 苏联人造卫星（[[Sputnik Shock 1957|Sputnik]]）升空，引发西方世界的科技危机与教育动员浪潮。
+>   - **1958** [[Comparative Education Center at Chicago 1958|芝加哥大学比较教育中心]]建立，推动教育经济学与比较教育深度融合。
 >
->   1961 年 OECD 正式取代 OEEC，美欧国家共同将其打造成抗衡苏联意识形态与综合国力竞争的制度堡垒。
+> - **1961–1970s** **OECD 改组、科技统计奠基与冷战[[Development Turn in Comparative Education|发展转向]]**
 >
->   - **1962** 启动著名的地中海地区项目（[[Mediterranean Regional Project]]，MRP），将[[Human Capital Theory\|人力资本理论]]系统转化为南欧各国的国家教育发展规划。在[[Economics of Education Movement\|教育经济学运动]]影响下，OECD 系统确立将教育视为经济增长“生产性投资”的新范式，与[[International Institute for Educational Planning\|联合国教科文组织国际教育规划研究所]]（International Institute for Educational Planning，IIEP）形成双翼，推动了比较教育的[[Development Turn in Comparative Education\|发展转向]]。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 420–423)]]
->   - **1963** 在意大利弗拉斯卡蒂召开国家专家会议，正式制定并发布《[[Frascati Manual|弗拉斯卡蒂手册]]》（*Frascati Manual*），首次在全球层面统一了研发（R&D）的统计定义与核算口径（基础研究、应用研究与试验发展），开启了以研发支出占国民生产总值比重（GERD/GNP）为核心的跨国科技排名。[[Chris Freeman|克里斯·弗里曼]]（Chris Freeman）与艾莉森·扬（Alison Young）于 1965 年受 OECD 委托撰写里程碑报告《北美与西欧研发投入努力之比较》，直接奠定了经合组织作为战后国际科技政策与研发测量中枢的威权。[[Argument_Freeman_1995_CJE\|(Freeman, 1995, pp. 8–9)]]
->   - **1964** 与阿根廷国家发展委员会（National Council for Development, CONADE，成立于 1961 年）联合发布了人力资源规划报告（Southwell, 1997；[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, p. 345]]）。这一关键实证表明，经合组织的技术官僚规划早在 1960 年代便已跨越欧美地理边界进入拉丁美洲等全球南方国家，与[[UNESCO|联合国教科文组织]]等共同确立了凌驾于各国内部政治之上的客观科学专家地位。
->   - **1968–1970s** 早期 OECD 内部并未为教育设立独立司局，教育职能僅从属于科学和工程技术人员办公室（Office for Scientific and Technical Personnel）以应对美欧冷战技术差距；1968 年[[Centre for Educational Research and Innovation\|教育研究与创新中心]]（Centre for Educational Research and Innovation, CERI）成立后，OECD 形成了教育委员会、CERI 理事会、教育建筑项目（[[Programme on Educational Building]], PEB）与高等教育机构管理项目（[[Institutional Management in Higher Education]], IMHE）四大板块。在副司长[[George Papadopoulos|乔治·帕帕多普洛斯]]（George Papadopoulos）所总结的 1960–1990 年阶段，欧洲成员国的社会民主主义议程缓冲了美国的自由市场取向，形成恩斯特·哈斯（Ernst Haas）所谓的“美国与欧洲成员国之间不连贯的妥协”（Haas, 1990, p. 159），教育被视为培育批判性民主公民与维护社会凝聚力的公共物品，工作模式以自愿性的国别审查（*sui generis*）与宽容的“广泛意识形态教会”为特征。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|(Rizvi & Lingard, 2009, pp. 437–439, 442, 451)]]
-> - **1980s–1990s** **指标体系建构、[[New Managerialism|管理主义转向]]、[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]与[[National Innovation System|国家创新系统]]（NIS）范式演进**
+>   美欧国家将 OECD 打造为抗衡苏联意识形态与综合国力竞争的制度堡垒，在[[Economics of Education Movement|教育经济学运动]]影响下确立教育是经济增长生产性投资的新范式。副司长[[George Papadopoulos|乔治·帕帕多普洛斯]]（George Papadopoulos）所总结的 1960–1990 年阶段中，欧洲成员国的社会民主主义议程缓冲了美国的自由市场取向，形成恩斯特·哈斯（Ernst Haas）所谓美国与欧洲成员国之间不连贯的妥协（Haas, 1990, p. 159）：教育被视为培育批判性民主公民与维护社会凝聚力的公共物品，工作模式以自愿性的国别审查（*sui generis*）与宽容的广泛意识形态教会为特征。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 420–423)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 437–439, 442, 451)]]
 >
->   - **1983 年**美国《国家处在危险之中》（*[[A Nation at Risk 1983\|A Nation at Risk]]*）报告发布后引发教育危机恐慌，时任美国教育部助理部长切斯特·芬恩（Chester Finn Jr.）转向经合组织下设的[[Centre for Educational Research and Innovation\|教育研究与创新中心]]（CERI），委托并资助 CERI 主管 [[Jarl Bengtsson]] 团队研发跨国[[Performance Indicators\|教育指标]]体系。这一关键转向促成了 1988 年[[International Indicators of Education Systems\|国际教育系统指标]]（International Indicators of Education Systems，INES）项目网络的正式启动，随后于 1992 年推出旗舰年度报告《[[Education at a Glance\|教育概览]]》（Education at a Glance，EAG），标志着 OECD 彻底从传统的投入端与粗放人力核算转向关注教育系统的产出效能与质量问责。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 540–542)]]
->   - **1990 年代初**，伴随日本与东亚后发追赶的成功，单纯依赖弗拉斯卡蒂研发投入指标的局限性暴露，OECD 科技政策委员会（CSTP）在克里斯·弗里曼、本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（Bengt-Åke Lundvall）等[[Evolutionary Economics|演化经济学]]家影响下，于 1994 年启动国家[[Systems of Innovation|创新系统]]大型国际研究项目，并于 1997 年正式发布纲领性报告《[[National Innovation System|国家创新系统]]》（*National Innovation Systems*），标志着 OECD 官方科技政策范式彻底从布什单向线性模型跨越至多主体互动学习的[[Innovation Policy Paradigms|创新系统范式]]。[[Argument_Freeman_1995_CJE\|(Freeman, 1995, pp. 10–11, 19–20)]]
->   - **1990 年代中期起**，伴随苏联解体与冷战终结，OECD 内部经济效率与社会目的之间的张力消退，先后发布《转型中的治理》（*Governance in Transition*, 1995）与《[[Knowledge-Based Economy|知识经济]]》（*The Knowledge Based Economy*, 1996），结合[[New Growth Theory|内生新增长理论]]建构起全球共享的“知识经济社会想象”。副司长乔治·帕帕多普洛斯（Papadopoulos, 1994；[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, p. 347]]）指出，经合组织形成了一种混合型新自由主义视角——尽管经济增长居于主导地位，但主张该主导地位必须受到社会维度与人类福祉的适度调和与平衡；OECD 放弃了指令性强制，转而通过破译新兴趋势、开展同行评议与制定指标体系来确立跨国游戏规则，软性引导成员国采纳有效政策。然而，经合组织在北方发达国家的强势扩张对联合国教科文组织的传统权威构成严重侵蚀，诱发了教科文组织的领导权危机并促成其发布《德洛尔报告》反击（Jones & Coleman, 2005；[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, pp. 347–348]]）。比奇进一步揭示，经合组织协同[[World Bank|世行]]与教科文组织共同预设了单一平面的“信息时代”，成套推销由分权化、[[School Autonomy|学校自主权]]、教师专业化、能力本位课程与中央质量评估构成的五大支柱模型，将受援国本土（如阿根廷、巴西）注重系统记忆的百科全书式知识传统贬斥为落后低效（pp. 348–349）。与此同时，OECD 推动国家治理向[[New Public Management|新公共管理]]、分权问责与市场竞争转型，并从成员国协商的开放论坛演变为“自身独立的政策行动者”（policy actor in its own right），将教育公平、性别平权与社会凝聚力全面工具化为经济政策的附庸。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|(Rizvi & Lingard, 2009, pp. 438, 440–446, 448–452)]]
-> - **2000–至今** **独立教育司设立、大数据[[Governing at a Distance\|远处治理]]、非成员经济体外展与[[Epistemic Governance\|知识治理]]体系深化**
+>   - **1961** OECD 正式取代 OEEC。
+>   - **1962** 启动地中海地区项目（[[Mediterranean Regional Project]]，MRP），将[[Human Capital Theory|人力资本理论]]系统转化为南欧各国的国家教育发展规划，与[[International Institute for Educational Planning|联合国教科文组织国际教育规划研究所]]（International Institute for Educational Planning，IIEP）形成双翼，推动比较教育的发展转向。
+>   - **1963** 在意大利弗拉斯卡蒂召开国家专家会议，发布《[[Frascati Manual|弗拉斯卡蒂手册]]》（*Frascati Manual*），首次在全球层面统一研究与试验发展（Research and Development，R&D）的统计定义与核算口径（基础研究、应用研究与试验发展），开启以研发支出占国民生产总值比重（GERD/GNP）为核心的跨国科技排名。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 8–9)]]
+>   - **1964** 与阿根廷国家发展委员会（National Council for Development，CONADE，成立于 1961 年）联合发布人力资源规划报告，表明经合组织的技术官僚规划早在 1960 年代便已进入拉丁美洲等全球南方国家，与[[UNESCO|联合国教科文组织]]等共同确立凌驾于各国内部政治之上的客观科学专家地位。[[Argument_Beech_2009_GlobalGarden|(Southwell, 1997, cited in Beech, 2009b, p. 345)]]
+>   - **1965** [[Chris Freeman|克里斯·弗里曼]]（Chris Freeman）与艾莉森·扬（Alison Young）受 OECD 委托撰写《北美与西欧研发投入努力之比较》，奠定经合组织作为战后国际科技政策与研发测量中枢的权威。
+>   - **1968** 此前 OECD 未设独立教育司局，教育职能仅从属于科学和工程技术人员办公室（Office for Scientific and Technical Personnel），以应对美欧冷战技术差距。[[Centre for Educational Research and Innovation|教育研究与创新中心]]（Centre for Educational Research and Innovation，CERI）成立后，形成教育委员会、CERI 理事会、教育建筑项目（[[Programme on Educational Building]]，PEB）与高等教育机构管理项目（[[Institutional Management in Higher Education]]，IMHE）四大板块。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 437–439)]]
 >
->   2000 年推出首轮 [[PISA]] 测评，2002 年正式设立独立的教育司（Directorate for Education），以秘书处主导的优先项设定、跨国比较绩效指标与强制性[[Peer Pressure|同侪压力]]（peer pressure）取代了早期的哲理辩论；同时通过非成员经济体合作处（Unit for Cooperation with Non-member Economies, NME）与“全球关系项目”（Global Relations Programme）将影响力扩展至中国、印度等转型与发展中大国，并联合[[World Bank|世界银行]]与[[UNESCO|联合国教科文组织]]推出“[[World Education Indicators|世界教育指标]]”（World Education Indicators, WEI）项目。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|(Rizvi & Lingard, 2009, pp. 441–444, 446–448)]] 随[[Pre-test and Post-test|后测]]评版图进一步扩展至[[Teaching and Learning International Survey\|教师教学国际调查]]（Teaching and Learning International Survey，TALIS）、[[Programme for the International Assessment of Adult Competencies\|国际成人能力评估项目]]（Programme for the International Assessment of Adult Competencies，PIAAC）及面向全球南方的发展型 PISA（[[PISA for Development]]，PISA-D）。经合组织不仅开创了跨国量化排名的[[Governing by Numbers\|数字治理]]（Governing by Numbers）模式，更通过深度工具打包与外向型国别横向借鉴演进为全球教育政策规范制定者。与此同时，OECD 下属[[Centre for Educational Research and Innovation\|教育研究与创新中心]]（CERI）自 2000 年起开启了长达二十余年的教育知识管理与知识治理体系探索（2000/2003 部门知识治理调查、2007 年《Evidence in Education》旗舰专著、2010 年《The Nature of Learning》学习科学工程、教师知识调查 TKS 及 2021 年启动的[[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]），推动成员国从被动接受指标排名转向主动建构国家级[[Evidence Ecosystem\|证据生态系统]]。这一由 OECD 驱动的经济导向教育政策与大规模量化测试，深刻改变了比较教育的政策咨询生态，瓦解了战后劳威斯倡导的超然航海咨询模式，使比较研究深度卷入主权国家人力资本问责与技术官僚治理之中。[[Argument_Klerides_2023_CE\|(Klerides, 2023, pp. 424–425)]]; [[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 543–545)]]; [[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 16–27)]]; [[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 95–96)]]
+> - **1980s–1990s** **指标体系建构、[[New Managerialism|管理主义转向]]、[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]与[[National Innovation System|国家创新系统]]范式演进**
 >
->   - **2000** 推出首轮 [[PISA]] 测评。
->   - **2002** 正式设立独立教育司。
->   - **2000–2021** CERI 从知识治理调查逐步扩展至国家级[[Evidence Ecosystem|证据生态系统]]建设。
+>   冷战终结后，OECD 内部经济效率与社会目的之间的张力消退，组织从成员国协商的开放论坛演变为自身独立的政策行动者（policy actor in its own right）：放弃指令性强制，转而通过破译新兴趋势、同行评议与指标体系确立跨国游戏规则，推动国家治理向[[New Public Management|新公共管理]]、分权问责与市场竞争转型，并把教育公平、性别平权与社会凝聚力工具化为经济政策的附庸。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438, 440–446, 448–452)]]
 >
+>   - **1983** 美国《国家处在危险之中》（*[[A Nation at Risk 1983|A Nation at Risk]]*）报告引发教育危机恐慌，时任美国教育部助理部长切斯特·芬恩（Chester Finn Jr.）转向 CERI，委托并资助 CERI 主管 [[Jarl Bengtsson]] 团队研发跨国[[Performance Indicators|教育指标]]体系。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 540–542)]]
+>   - **1988** [[International Indicators of Education Systems|国际教育系统指标]]（International Indicators of Education Systems，INES）项目网络正式启动。
+>   - **1992** 推出旗舰年度报告《[[Education at a Glance|教育概览]]》（Education at a Glance，EAG），标志 OECD 从投入端与粗放人力核算转向关注教育系统的产出效能与质量问责。
+>   - **1994** 日本与东亚后发追赶的成功暴露了单纯依赖弗拉斯卡蒂研发投入指标的局限，OECD 科技政策委员会（Committee for Scientific and Technological Policy，CSTP）在弗里曼、本特-奥克·[[Bengt-Åke Lundvall|伦德瓦尔]]（Bengt-Åke Lundvall）等[[Evolutionary Economics|演化经济学]]家影响下，启动国家[[Systems of Innovation|创新系统]]大型国际研究项目。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 10–11, 19–20)]]
+>   - **1994** 帕帕多普洛斯指出经合组织形成了一种混合型新自由主义视角：经济增长居于主导地位，但必须受到社会维度与人类福祉的适度调和。[[Argument_Beech_2009_GlobalGarden|(Papadopoulos, 1994, cited in Beech, 2009b, p. 347)]]
+>   - **1995** 发布《转型中的治理》（*Governance in Transition*）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 440–446)]]
+>   - **1996** 发布《以知识为基础的经济》（*The Knowledge Based Economy*），结合[[New Growth Theory|内生新增长理论]]建构起全球共享的知识经济社会想象。经合组织在北方发达国家的强势扩张侵蚀了教科文组织的传统权威，诱发其领导权危机并促成《德洛尔报告》的反击。[[Argument_Beech_2009_GlobalGarden|(Jones & Coleman, 2005, cited in Beech, 2009b, pp. 347–348)]]
+>   - **1996 起** 协同[[World Bank|世行]]与教科文组织共同预设单一平面的信息时代，成套推销由分权化、[[School Autonomy|学校自主权]]、教师专业化、能力本位课程与中央质量评估构成的五大支柱模型，将阿根廷、巴西等受援国注重系统记忆的百科全书式知识传统贬斥为落后低效。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349)]]
+>   - **1997** 发布纲领性报告《[[National Innovation System|国家创新系统]]》（*National Innovation Systems*），官方科技政策范式从布什单向线性模型跨越至多主体互动学习的[[Innovation Policy Paradigms|创新系统范式]]。
+>
+> - **2000–至今** **独立教育司设立、大数据[[Governing at a Distance|远处治理]]、非成员经济体外展与[[Epistemic Governance|知识治理]]体系深化**
+>
+>   经合组织开创跨国量化排名的[[Governing by Numbers|数字治理]]（Governing by Numbers）模式，并通过工具打包与外向型国别借鉴演进为全球教育政策规范制定者。这一经济导向的政策与大规模量化测试瓦解了战后劳威斯倡导的超然咨询模式，使比较研究深度卷入主权国家人力资本问责与技术官僚治理。[[Argument_Klerides_2023_CE|(Klerides, 2023, pp. 424–425)]]; [[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 543–545)]]; [[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 95–96)]]
+>
+>   - **2000** 推出首轮 [[PISA]] 测评。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 441–444)]]
+>   - **2000 / 2003** CERI 开展部门知识治理调查，开启长达二十余年的教育知识管理与知识治理探索。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 16–27)]]
+>   - **2002** 正式设立独立的教育司（Directorate for Education），以秘书处主导的优先项设定、跨国比较绩效指标与强制性[[Peer Pressure|同侪压力]]（peer pressure）取代早期的哲理辩论。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 441–444, 446–448)]]
+>   - **2000s** 通过非成员经济体合作处（Unit for Cooperation with Non-member Economies，NME）与全球关系项目（Global Relations Programme）将影响力扩展至中国、印度等转型与发展中大国，并依托与世界银行、教科文组织合作的[[World Education Indicators|世界教育指标]]（WEI）项目。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
+>   - **2000s–2010s** 测评版图扩展至[[Teaching and Learning International Survey|教师教学国际调查]]（Teaching and Learning International Survey，TALIS）、[[Programme for the International Assessment of Adult Competencies|国际成人能力评估项目]]（Programme for the International Assessment of Adult Competencies，PIAAC）及面向全球南方的发展型 PISA（[[PISA for Development]]，PISA-D）。
+>   - **2007** CERI 出版旗舰专著《Evidence in Education》。
+>   - **2010** 推出《The Nature of Learning》学习科学工程，其后开展教师知识调查（Teacher Knowledge Survey，TKS）。
+>   - **2021** 启动[[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]，推动成员国从被动接受指标排名转向主动建构国家级[[Evidence Ecosystem|证据生态系统]]。
+
 ---
 
 ## 治理架构与运行机制

@@ -49,23 +49,27 @@ related_theories:
   - "[[Postmodernism]]"
   - "[[Academic Capitalism]]"
   - "[[Critical Theory]]"
+  - "[[School Effectiveness]]"
+  - "[[Knowledge Production]]"
 related_methods:
   - "[[Correlational Research]]"
 related_persons:
   - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Immanuel Kant]]"
   - "[[Jürgen Habermas]]"
+  - "[[Jason Beech]]"
 related_facts:
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Partaken_2022_Springer]]"
   - "[[Argument_Beech_2009_CE]]"
+  - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Cole_2005_JRIE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 confidence: medium
 status: draft
 created: 2026-05-10
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Jean-François Lyotard
@@ -133,33 +137,39 @@ updated: 2026-10-07
 >   - **关键概念／方法** 非人（The Inhuman）、童年思想（infantia）、时间现象学。
 >   - **阶段转向** 思想从语言政治转向对科技加速主义的宏观批评。在《非人》中，他探讨太阳在45亿年后爆炸的科幻思想实验，批判人类的“发展”沦为无目的的效率自我增殖；在《童年阅读》中，他重提“童年”作为未被成人语言/理性系统同化的本原冲动；并在绝笔《奥古斯丁的忏悔》中回归早期的时间现象学原点。
 
-著作与思想脉络来源见 [[Argument_Partaken_2022_Springer|Partaken, 2022]] / [[Argument_Beech_2009_CE|Beech, 2009a, pp. 352–353]]
+著作与思想脉络来源见 [[Argument_Partaken_2022_Springer|Partaken, 2022]] / [[Argument_Beech_2009_CE|Beech, 2009a, pp. 352–353]] / [[Argument_Beech_2009_GlobalGarden|Beech, 2009b, pp. 342–343]]
 
 ---
 
 ## 核心思想
 
 > [!claim] 核心主张
-> 后现代时期的标志是**对宏大[[Grand Theory\|元叙事]]（如人类解放、科学进步大叙事）的怀疑**。知识的合法化基础已从“是否真实/是否正义”彻底转向以“优化输入产出比”为核心目标的**[[Performativity\|绩效性]]（[[Performativity]]）**。在绩效性逻辑的主导下，社会关系和机构运营被强加了绩效“恐怖”（要么可操作，要么消失）。同时，不同的[[Discourse|话语]]系统（语言游戏）之间存在着**不可[[Commensuration\|通约]]的分歧（The Differend）**，当强势话语强行以自身的规则裁判弱势话语时，将制造出受害者无法诉说和申辩的根本不义。
+> 后现代时期的标志是 **对宏大[[Grand Theory\|元叙事]]（如人类解放、科学进步大叙事）的怀疑**。知识的合法化基础已从“是否真实/是否正义”彻底转向以“优化输入产出比”为核心目标的 **[[Performativity\|绩效性]]（[[Performativity]]）**。在绩效性逻辑的主导下，社会关系和机构运营被强加了绩效“恐怖”（要么可操作，要么消失）。同时，知识生产不再服从于普遍真理启蒙，而是 **为了进入市场售卖而生产**，导致学术成果全面退化为商业咨询与效能商品。在不同[[Discourse|话语]]系统（语言游戏）之间存在着 **不可[[Commensuration\|通约]]的分歧（The Differend）**，当强势话语强行以自身的规则裁判弱势话语时，将制造出受害者无法诉说和申辩的根本不义。
 
-> [!citation-card]- 关键表述
-> 1. **后现代的定义**
->    “极其简化地看，我将后现代定义为对元叙事的怀疑。”
->    *“Simplifying to the extreme, I define [[Postmodernism\|postmodern]] as incredulity toward metanarratives.”* (Lyotard, 1979/1984, p. xxiv)
-> 
-> 2. **绩效性恐怖**
->    “绩效性原则施加于社会关系时会产生某种恐怖：‘要么可操作（即可通约），要么消失’。”
->    *“be operational (that is, commensurable) or disappear”* (Lyotard, 1984, p. xxiv). (p. 352)
-> 
-> 3. **权力的绩效合法化**
->    “权力不仅是良好的表演性，也是有效的验证和良好的裁决。它基于效率使科学和法律合法化……因此，权力的增长及其自我合法化，现在正走上数据存储和可获取性以及信息可操作性的路线。”
->    *“Power is not only good performativity, but also effective verification and good verdicts. It legitimates science and the law on the basis of their efficiency, (…) thus the [[Growth]] of power, and its self-legitimation, are now taking the route of data storage and accessibility, and the operativity of information.”* (Lyotard, 1979/1984, p. 47).
-> 
-> 4. **分歧与不义的界定**
->    “我愿意把‘分歧’定义为这样一种情况：原告被剥夺了进行论证的手段，因而成为了受害者。如果发信者、收信者以及见证的意义被中和了，一切就像没有发生损害一样。两方之间的分歧发生在一个冲突的解决是以其中一方的语言进行的，而另一方所遭受的损害在那种语言中得不到表达。”
->    *“I would like to call a differend the case where the plaintiff is divested of the means to argue and becomes for that reason a victim. (...) A case of differend between two parties takes place when the regulation of the conflict that opposes them is done in the idiom of one of the parties while the wrong suffered by the other is not signified in that idiom.”* (Lyotard, 1983/1988, p. 9)
+> [!citation-card] 后现代状况：对宏大元叙事的怀疑
+> 极其简化地看，我将后现代定义为对元叙事的怀疑。[[Argument_Beech_2009_CE|(Beech, 2009a, p. 354)]]；引自 Lyotard (1979/1984, p. xxiv)
+>
+> *Simplifying to the extreme, I define postmodern as incredulity toward metanarratives.*
 
-引语出处引自 [[Argument_Beech_2009_CE|Beech, 2009a, p. 352]]
+> [!citation-card] 绩效性恐怖：要么可操作要么消失
+> 绩效性原则施加于社会关系时会产生某种恐怖：“要么可操作（即可通约），要么消失”。[[Argument_Beech_2009_CE|(Beech, 2009a, p. 352)]]；引自 Lyotard (1984, p. xxiv)
+>
+> *be operational (that is, commensurable) or disappear.*
+
+> [!citation-card] 权力的绩效合法化与数据存储
+> 权力不仅是良好的表演性，也是有效的验证和良好的裁决。它基于效率使科学和法律合法化……因此，权力的增长及其自我合法化，现在正走上数据存储和可获取性以及信息可操作性的路线。[[Argument_Beech_2009_CE|(Beech, 2009a, p. 352)]]；引自 Lyotard (1979/1984, p. 47)
+>
+> *Power is not only good performativity, but also effective verification and good verdicts. It legitimates science and the law on the basis of their efficiency, (…) thus the Growth of power, and its self-legitimation, are now taking the route of data storage and accessibility, and the operativity of information.*
+
+> [!citation-card] 分歧：不可通约语言游戏中的受害者不义
+> 我愿意把“分歧”定义为这样一种情况：原告被剥夺了进行论证的手段，因而成为了受害者。两方之间的分歧发生在一个冲突的解决是以其中一方的语言进行的，而另一方所遭受的损害在那种语言中得不到表达。[[Argument_Beech_2009_CE|(Beech, 2009a, p. 352)]]；引自 Lyotard (1983/1988, p. 9)
+>
+> *I would like to call a differend the case where the plaintiff is divested of the means to argue and becomes for that reason a victim. (...) A case of differend between two parties takes place when the regulation of the conflict that opposes them is done in the idiom of one of the parties while the wrong suffered by the other is not signified in that idiom.*
+
+> [!citation-card] 知识商品化：后现代知识旨在进入市场售卖
+> 正如利奥塔早在二十世纪八十年代所指出的那样，在我们这个时代，知识的生产是为了进入市场售卖。当大学的教育学院开发出关于如何使学校、学区或国家体系“更为高效与有效”的专门知识时，它们便将其作为商品投入咨询市场出售，以提升组织的创收绩效。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–343)]]；引自 Lyotard (1984)
+>
+> *As Lyotard (1984) noted some time ago, in our times knowledge is produced in order to be sold. So, if the Department of Education of a given University develops certain knowledge about how to make schools (or districts or national systems) more 'efficient and effective' they should sell this knowledge in the market in order to contribute to the performance of the organisation.*
 
 ---
 
@@ -168,12 +178,23 @@ updated: 2026-10-07
 > [!influence-path] 影响路径
 > - **理论路径** 其[[Narrative Knowledge\|叙事知识]]与科学知识的划分成为[[Critical Pedagogy\|批判教育学]]和[[Geopolitics of Knowledge\|知识地缘政治]]分析的关键视角；对[[Grand Theory\|元叙事]]解体的论证解释了传统国家同质化课程体系的瓦解和全球多元化[[Discourse|话语]]的兴起。
 > - **政策与制度评估** [[Performativity\|绩效性]]概念被广泛引入教育社会学和高等教育研究，用于分析国家和全球教育监测项目（如 [[PISA]] 排名、大学绩效问责与[[Academic Capitalism\|学术资本主义]]）。
+> - **知识商品化与学术重商主义** 知识为了售卖而生产的论断被比较教育学者用于剖析大学学术重商主义与跨国咨询输出，揭示高等院校如何将[[School Effectiveness|学校效能]]与绩效方案包装为咨询商品输出至发展中国家。
 > - **跨国／跨领域传播** 其思想被比较教育学者借用，剖析超国家评估机构如何在绩效追求下迫使地方学校改造自身以迎合可测量指标。
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cole_2005_JRIE\|Cole (2005)]] — 借用 Lyotard 对后现代“完美信息博弈”的诊断与绩效性批判，论证了在当代教育中，核心[[Competitiveness|竞争力]]不再是信息的获取，而是能够改变规则的“想象力”，这为[[International Spinozian Curriculum\|国际斯宾诺莎主义课程]]提供了时代合理性。
-> - [[Argument_Beech_2009_CE\|Beech, 2009]] — 引入 Lyotard 的绩效性原则与“要么可操作、要么消失”的预警，揭示超国家机构在[[Policy Network\|全球政策网络]]中生产去历史、去语境之“[[Floating Signifier\|漂浮能指]]”的生存博弈机制。
+> - [[Argument_Beech_2009_CE\|Beech (2009a)]] — 引入 Lyotard 的绩效性原则与“要么可操作、要么消失”的预警，揭示超国家机构在[[Policy Network\|全球政策网络]]中生产去历史、去语境之“[[Floating Signifier\|漂浮能指]]”的生存博弈机制。
 > - [[Argument_Partaken_2022_Springer\|Partaken, 2022]] — 运用 Lyotard 的叙事知识与科学知识二分法，分析全球知识地缘政治中地方性叙事知识的急剧衰落与西方商业化效用知识的霸权。
+> - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 援引利奥塔知识商品化论断，揭示全球教育转移中大学将[[School Effectiveness|学校效能]]技术包装为咨询商品开辟海外市场的学术重商主义机制（pp. 342–343）。
+
+---
+
+## 历史评价
+
+> [!citation-card] Beech论利奥塔知识商品化命题对大学咨询市场扩张的解释力
+> 利奥塔在《后现代状况》中揭示的“知识生产为了售卖”命题，在当代全球教育转移与大学转型中得到了深刻印证：在政府公共财政紧缩压力下，大学教育学院将研发的学校效能与治理方案打包为高价咨询商品，向海外发展中国家开辟市场以补充政府拨款，推动了跨国政策借用主体从主权国家官员向学术咨询资本的深刻质变。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–343)]]
+>
+> *As Lyotard (1984) noted some time ago, in our times knowledge is produced in order to be sold. So, if the Department of Education of a given University develops certain knowledge about how to make schools (or districts or national systems) more 'efficient and effective' they should sell this knowledge in the market in order to contribute to the performance of the organisation.*
 
 ---
 
@@ -182,6 +203,7 @@ updated: 2026-10-07
 > [!person-network] 关系网络
 > - **师承／合作者** Gilles Deleuze — 索邦大学同窗，后于1970年代起共同在万森纳实验大学（巴黎第八大学）哲学系任教；Jacques Derrida — 1982–1983年共同创办国际哲学学院，并于加州大学欧文分校共事。
 > - **批评者／论敌** [[Jürgen Habermas]] — 现代性与启启蒙立场的坚定辩护者，视利奥塔的[[Postmodernism\|后现代主义]]为保守的反现代思潮，两人就“现代性的命运”展开长期学术论争。
+> - **现代跨国教育流通与知识商品化研究者** 杰森·比奇（[[Jason Beech]]） 援引利奥塔知识商品化论断，揭示全球教育转移中大学与咨询机构将学校效能技术打包为商品开辟海外市场的学术重商主义机制。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–343)]]
 > - **机构／运动／项目** 
 >   - “社会主义或野蛮”（Socialisme ou Barbarie）极左翼政治组织 — 1954–1964年间为其核心成员，秘密支持阿尔及利亚独立运动。
 >   - 国际哲学学院（Collège International de Philosophie） — 1983年由德里达、利奥塔等人联合创办，利奥塔曾任第二任院长。
@@ -192,7 +214,7 @@ updated: 2026-10-07
 ## 争议与批评
 
 > [!critique]- 批评索引
-> - [[Argument_Beech_2009_CE\|Beech (2009, p. 352)]] — 警示[[Performativity\|绩效性]]逻辑的全面渗透会抹杀教育的多元价值，使教育机构退化为只关注指标量化影响力的操演机器。
+> - [[Argument_Beech_2009_CE\|Beech (2009a, p. 352)]] — 警示[[Performativity\|绩效性]]逻辑的全面渗透会抹杀教育的多元价值，使教育机构退化为只关注指标量化影响力的操演机器。
 
 ---
 
@@ -202,13 +224,15 @@ updated: 2026-10-07
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Feeder Mechanism]] | 概念 | 其对“完美信息博弈”与“想象力”附加绩效的论断，被用于构建后现代跨学科课程的滋养机制理论。[[Argument_Cole_2005_JRIE\|(Cole, 2005, p. 220)]] |
-> | [[Performativity]] | 概念 | 引入绩效性/表演性概念分析知识在后工业社会中以效率为核心 of 合法化逻辑，揭示评估体系的“恐怖”机制。[[Argument_Beech_2009_CE\|(Beech, 2009, pp. 352–353)]] |
+> | [[Performativity]] | 概念 | 引入绩效性/表演性概念分析知识在后工业社会中以效率为核心 of 合法化逻辑，揭示评估体系的“恐怖”机制。[[Argument_Beech_2009_CE\|(Beech, 2009a, pp. 352–353)]] |
+> | [[School Effectiveness\|学校效能]] | 概念 | 利奥塔关于知识为了售卖而生产的论断，被用于批判大学将学校效能与绩效方案包装为咨询商品输出的机制。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 342–343)]] |
 > | [[Narrative Knowledge]] | 概念 | 区分传统社会的叙事知识与依靠外部验证的科学知识，阐释科学知识本身对元叙事合法化的依赖。[[Argument_Partaken_2022_Springer\|(Partaken, 2022, pp. 71, 74)]] |
-> | [[Postmodernism]] | 概念 | 定义后现代为对启蒙、人类解放等宏大元叙事的怀疑，解释了国家同质化文化叙事在当代的式微。[[Argument_Beech_2009_CE\|(Beech, 2009, p. 354)]] / [[Argument_Partaken_2022_Springer\|(Partaken, 2022, p. 74)]] |
-> | [[Governance by Spin]] | 概念 | 绩效性竞争逻辑解释了超国家机构为何需要生产兼具稳定性与可塑性的[[Floating Signifier\|漂浮能指]]话语，进而催生了国家的舆论操控治理。[[Argument_Beech_2009_CE\|(Beech, 2009, pp. 352–353, 361)]] |
-> | [[Incommensurability]] | 概念 | 指出不同语言游戏规则之间无法用同一种元语言进行评判，任何强行通约都会制造压制受害者的“分歧”不义。[[Argument_Beech_2009_CE\|(Beech, 2009, p. 352)]] |
+> | [[Postmodernism]] | 概念 | 定义后现代为对启蒙、人类解放等宏大元叙事的怀疑，解释了国家同质化文化叙事在当代的式微。[[Argument_Beech_2009_CE\|(Beech, 2009a, p. 354)]] / [[Argument_Partaken_2022_Springer\|(Partaken, 2022, p. 74)]] |
+> | [[Governance by Spin]] | 概念 | 绩效性竞争逻辑解释了超国家机构为何需要生产兼具稳定性与可塑性的[[Floating Signifier\|漂浮能指]]话语，进而催生了国家的舆论操控治理。[[Argument_Beech_2009_CE\|(Beech, 2009a, pp. 352–353, 361)]] |
+> | [[Incommensurability]] | 概念 | 指出不同语言游戏规则之间无法用同一种元语言进行评判，任何强行通约都会制造压制受害者的“分歧”不义。[[Argument_Beech_2009_CE\|(Beech, 2009a, p. 352)]] |
 > | [[Post-structuralism]] | 概念 | 以欲望释放的力比多经济学与话语碎片解构传统的宏大结构，影响了教育[[Critical Theory\|批判理论]]中对主导叙事的反抗。[[Argument_Cohen_Manion_Morrison_2011_Routledge\|(Cohen et al., 2011, Ch. 1)]] |
 > | [[Geopolitics of Knowledge]] | 概念 | 其叙事知识的式微与科学知识的主导性博弈，被用于揭示全球化背景下软实力与可测量[[Performance Indicators\|绩效指标]]的跨国博弈。[[Argument_Partaken_2022_Springer\|(Partaken, 2022, pp. 74–75)]] |
 > | [[Academic Capitalism]] | 概念 | 绩效性竞争逻辑在高等教育制度层面的具体化，迫使学术机构将学术[[Research Translation\|研究转化]]为以效率与可见度为目标的商业性输出。[[Argument_Partaken_2022_Springer\|(Partaken, 2022, p. 71)]] |
 > | [[Phenomenology]] | 理论 | 现象学为其早期现象学导论著作与晚期奥古斯丁时间现象学阐释提供了核心哲学框架。（根据维基百科关于生平与著作的记载） |
 > | [[PISA]] | 政策 | 其评估与排名机制在学校[[Praxis\|实践]]中强加了操演性监控，体现了 Lyotard 所揭示的“要么可操作、要么消失”的系统恐怖。 |
+> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 论证 | 援引利奥塔知识商品化理论，剖析大学国际发展部将学校效能打包为跨国咨询商品的运作逻辑。 |

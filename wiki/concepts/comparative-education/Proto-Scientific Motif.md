@@ -188,7 +188,7 @@ updated: 2026-10-09
 
 > [!dev-timeline] 概念演变
 > - **1817 — [[Marc-Antoine Jullien\|朱利安]]确立准科学母题** 发表《比较教育工作计划》，首次将比较解剖学类比与标准化比较观察图表引入教育探究，确立准科学与世界和平双重视角。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 12–14)]]
-> - **19世纪中叶 — 准科学母题的历史湮没与行政借用分流** 朱利安的超国家设想因时代局限被各国遗忘，19 世纪中叶比较教育转向以[[Victor Cousin\|库森]]、[[Horace Mann\|曼]]、巴纳德为代表的以主权国家立法合法化为重心的“行政[[Educational Meliorism\|改良主义]]母题”。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 24–25, 33–34)]]
+> - **19世纪中叶 — 准科学母题的历史湮没与行政借用分流** 朱利安的超国家设想因时代局限被各国遗忘，19 世纪中叶比较教育转向以[[Victor Cousin\|库森]]、曼、巴纳德为代表的以主权国家立法合法化为重心的“行政[[Educational Meliorism\|改良主义]]母题”。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 24–25, 33–34)]]
 > - **1940s–1960s — 文本再发现与[[Positivism\|实证主义]]重新解读** 罗塞洛（Pedro Rosselló）与弗雷泽（Stewart Fraser）重新发掘朱利安手稿，推尊其为“比较教育之父”；诺亚与埃克斯坦等学者从逻辑实证主义视角重新评估其[[Questionnaire\|问卷]]与[[Scientific Method\|科学方法]]论。
 > - **21世纪至今 — 历史学史重估与批判人文主义复兴** 卡扎米亚斯、卡洛扬纳基与克勒里德斯等学者重新肯定准科学母题中被实证派所剥离的[[Cosmopolitanism|世界主义]]、[[Perpetual Peace\|永久和平]]与全人[[Bildung\|教化]]伦理，将其确立为抵御新自由主义[[Performance Indicators\|绩效指标]]主义的宝贵思想源泉。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias (2009, pp. 17–18)]]
 
