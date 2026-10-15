@@ -30,10 +30,10 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Erich Ludendorff]]"
-  - "[[Alfred Nobel]]"
   - "[[John Lewis Gaddis]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
+  - "[[Alfred Nobel]]"
 related_facts:
   - "[[Manhattan Project]]"
   - "[[Article 9 of the Japanese Constitution]]"
@@ -123,7 +123,7 @@ updated: 2026-10-16
 > [!concept-lens] 恐怖平衡与[[Long Peace|长和平]]机制
 > 该命题探讨总体战杀伤力演进至核武器阶段后，如何反向催生出大国不敢轻易发动全面战争的威慑机制。
 
-> [!claim] [[Alfred Nobel|Nobel]], A.
+> [!claim] Nobel, A.
 > **终极恐怖作为最可靠的和平守护者** 诺贝尔在见证硝化甘油炸药在普法战争中被迅速改装为残酷武器后指出，唯一能够阻止国家发动战争的不是道德自律，而是不可承受的恐怖毁灭；更强大的武器而非更弱的武器才是和平最可靠的守护者。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Nobel, 1891; cited in Karp & Zamiska, 2025, p. 38)]]
 
 > [!claim] [[John Lewis Gaddis|Gaddis, J. L.]]
@@ -147,7 +147,7 @@ updated: 2026-10-16
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **平民合法打击命题** | 总体战必然抹平平民与战斗员界限，使国家整体产能沦为打击目标 | 工业化全面战争、战略地毯式轰炸 | [[Erich Ludendorff\|Ludendorff]] (1935); Frank (2020) |
-> | **恐怖威慑止战命题** | 总体战武器演化至终极恐怖阶段后反向压制全面冲突，维持大国均势 | 核时代大国关系、长和平机制 | [[Alfred Nobel\|Nobel]] (1891); [[John Lewis Gaddis\|Gaddis]] (1987) |
+> | **恐怖威慑止战命题** | 总体战武器演化至终极恐怖阶段后反向压制全面冲突，维持大国均势 | 核时代大国关系、长和平机制 | Nobel (1891); [[John Lewis Gaddis\|Gaddis]] (1987) |
 > | **[[AI Deterrence\|算法威慑]]替代命题** | 软件中枢与精准自主算法终结传统粗放动能消耗[[Paradigm\|范式]]，重塑硬实力威慑 | 软件世纪、人工智能战争、非对称威慑 | [[Alexander Karp\|Karp]] & [[Nicholas Zamiska\|Zamiska]] (2025) |
 
 ---

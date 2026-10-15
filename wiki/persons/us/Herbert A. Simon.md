@@ -9,7 +9,7 @@ summary: "美国政治学家、经济学家与认知科学家，诺贝尔经济�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 21
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -42,7 +42,6 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
-  - "[[Alfred Nobel]]"
   - "[[Douglas Hofstadter]]"
   - "[[Noam Chomsky]]"
 related_facts:
@@ -84,7 +83,7 @@ updated: 2026-10-16
 > - **1957–1960** 提出著名的高置[[Reliability|信度]]技术预测：断言数字计算机将在 10 年内击败人类国际象棋世界冠军，并在 20 年内胜任人类能做的一切脑力工作（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025, pp. 25–26]]）。
 > - **1969** 出版《人工科学》（*The Sciences of the Artificial*），将符号计算、认知心理学与系统设计融为一体。
 > - **1975** 与纽厄尔共同荣获计算机学会图灵奖（ACM A.M. Turing Award）。
-> - **1978** 荣获诺贝尔经济学奖（[[Alfred Nobel|Nobel]] Memorial Prize in Economic Sciences），以表彰其对经济组织内决策过程的开创性研究。
+> - **1978** 荣获诺贝尔经济学奖（Nobel Memorial Prize in Economic Sciences），以表彰其对经济组织内决策过程的开创性研究。
 > - **2001** 逝世于美国宾夕法尼亚州匹兹堡。
 
 ---

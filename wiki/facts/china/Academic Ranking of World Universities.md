@@ -11,7 +11,7 @@ subtype: event
 region: china
 fact_region: "china"
 fact_kind: "event"
-fact_related_count: 34
+fact_related_count: 33
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#fef3c7"
@@ -42,7 +42,6 @@ related_methods:
   - "[[Questionnaire]]"
 related_instruments: []
 related_persons:
-  - "[[Alfred Nobel]]"
   - "[[Richard C. Atkinson]]"
   - "[[Pepka Boyadjieva]]"
   - "[[José Luis García Garrido]]"
@@ -104,7 +103,7 @@ updated: 2026-10-16
 > [!citation-card] ARWU 纳入门槛与评选标准声明
 > 排名系统考虑每一所拥有诺贝尔奖得主、菲尔兹奖得主和高被引研究人员的大学，以及在《自然》（*Nature*）或《科学》（*Science*）上发表过学术论文的大学。此外，拥有大量被科学引文索引扩展版（SCIE）与社会科学引文索引（SSCI）收录论文的高校也被一并纳入考量池。[[Argument_Boyadjieva_2022_Springer|(Boyadjieva, 2022, p. 131)]]
 >
-> *The ranking considers every university that has any [[Alfred Nobel|Nobel]] Laureates, Fields Medalists, Highly Cited Researchers, or papers published in Nature or Science. In addition, universities with a significant amount of papers indexed by Science Citation Index-Expanded (SCIE) and Social Science Citation Index (SSCI) are also included.*
+> *The ranking considers every university that has any Nobel Laureates, Fields Medalists, Highly Cited Researchers, or papers published in Nature or Science. In addition, universities with a significant amount of papers indexed by Science Citation Index-Expanded (SCIE) and Social Science Citation Index (SSCI) are also included.*
 
 ---
 

@@ -12,7 +12,7 @@ citation_aliases:
   - "Bergeron & Rogers, 2019"
   - "Bergeron & Rogers (2019)"
 isbn: ""
-tags: [curriculum, IBDP, mixed-methods, teacher-beliefs]
+tags: [curriculum, ibdp, mixed-methods, teacher-beliefs]
 related_concepts:
   - "[[IB Diploma Programme]]"
   - "[[Theory of Knowledge]]"

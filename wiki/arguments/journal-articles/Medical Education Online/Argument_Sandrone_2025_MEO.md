@@ -9,7 +9,7 @@ title: "Argument_Sandrone_2025_MEO"
 argument_key: "Argument_Sandrone_2025_MEO"
 argument_display_title: "Analysis of more than 200 Nobel Lectures in Physiology or Medicine across a century reveals a surprising lack of mentor recognition by awardees"
 argument_kind: "journal-article"
-argument_related_count: 11
+argument_related_count: 10
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -31,8 +31,7 @@ related_methods:
   - "[[Content Analysis]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Network Analysis]]"
-related_persons:
-  - "[[Alfred Nobel]]"
+related_persons: []
 related_facts:
   - "[[Nobel Prize in Physiology or Medicine]]"
   - "[[National Institutes of Health]]"
@@ -42,7 +41,7 @@ sources:
 part_of: ''
 status: draft
 created: 2026-06-07
-updated: '2026-09-21'
+updated: 2026-10-16
 year: 2025
 doi: ""
 citation_aliases:
@@ -139,7 +138,7 @@ citation_aliases:
 >
 > **1989 年 J. Michael Bishop**。「I began my second novitiate by entering the Research Associates Program at the [[National Institutes of Health]] in Bethesda, Maryland, where my mentor was Leon Levintow」（我开始了我的第二个见习期，进入马里兰州贝塞斯达国立卫生研究院的研究 associates 项目，在那里我的导师是 Leon Levintow）
 >
-> **1998 年 Louis Ignarro**。「My father encouraged a love of science by example, and it was carefully nurtured by my doctoral and postdoctoral mentors – Theodore W. Rall, who perhaps should have won a [[Alfred Nobel|Nobel]] Prize, and Marshall W. Nirenberg, who did not」（我父亲以身作则鼓励我对科学的热爱，这种热爱被我的博士和博士后导师悉心培育——Theodore W. Rall，他 perhaps 应该获得诺贝尔奖，以及 Marshall W. Nirenberg，他确实获得了）
+> **1998 年 Louis Ignarro**。「My father encouraged a love of science by example, and it was carefully nurtured by my doctoral and postdoctoral mentors – Theodore W. Rall, who perhaps should have won a Nobel Prize, and Marshall W. Nirenberg, who did not」（我父亲以身作则鼓励我对科学的热爱，这种热爱被我的博士和博士后导师悉心培育——Theodore W. Rall，他 perhaps 应该获得诺贝尔奖，以及 Marshall W. Nirenberg，他确实获得了）
 >
 > **2002 年 H. Robert Horvitz**。「Foremost, I want to thank my two mentors, Van R. Potter and George E. Palade」（首先，我要感谢我的两位导师 Van R. Potter and George E. Palade）
 >

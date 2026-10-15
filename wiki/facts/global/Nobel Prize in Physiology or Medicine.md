@@ -31,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-07
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Nobel Prize in Physiology or Medicine
@@ -41,7 +41,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!info]
-> 诺贝尔生理学或医学奖由诺贝尔大会在卡罗林斯卡学院（Karolinska Institute）在斯德哥尔摩颁发。每年最多可授予三人。获奖者受邀到斯德哥尔摩发表诺贝尔演讲（[[Alfred Nobel|Nobel]] Lecture），通常包括对其发现的历史和科学概述，常常穿插个人和职业生活中的轶事([[Argument_Sandrone_2025_MEO\|Sandrone, 2025]])。
+> 诺贝尔生理学或医学奖由诺贝尔大会在卡罗林斯卡学院（Karolinska Institute）在斯德哥尔摩颁发。每年最多可授予三人。获奖者受邀到斯德哥尔摩发表诺贝尔演讲（Nobel Lecture），通常包括对其发现的历史和科学概述，常常穿插个人和职业生活中的轶事([[Argument_Sandrone_2025_MEO\|Sandrone, 2025]])。
 
 ---
 

@@ -3,7 +3,6 @@ title: Stanislav Shatskii
 aliases:
   - Shatskii, S.
   - 斯坦尼斯拉夫·沙茨基
-  - Shatsky
   - Stanislav Shatsky
 summary: "苏俄进步主义教育改革家，十月革命前后在俄国农村建立大规模进步教育实验学校体系，深受 John Dewey 思想影响，在 Dewey 1928 年访苏时与之会面"
 type: person

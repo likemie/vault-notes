@@ -7,7 +7,7 @@ aliases:
 summary: "冷战史学家约翰·刘易斯·加迪斯（John Lewis Gaddis）提出的国际关系核心概念，指第二次世界大战结束以来大国之间长达近一个世纪未发生直接全面战争的相对稳定时期；主要由核战略威慑、两极均势与美国军事优势所维系，但其诱发的和平自满在软件世纪正面临技术形态转型与威慑重构的严峻考验。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 19
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -34,7 +34,6 @@ related_instruments: []
 related_persons:
   - "[[John Lewis Gaddis]]"
   - "[[Steven Pinker]]"
-  - "[[Alfred Nobel]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
 related_facts:
@@ -129,7 +128,7 @@ updated: 2026-10-16
 > [!concept-lens] 威慑恐怖与大国博弈成本函数
 > 探讨大国避免直接战争的根本动因，剖析终极毁灭性武器如何重塑大国博弈的理性选择。
 
-> [!claim] [[John Lewis Gaddis|Gaddis, J. L.]]; [[Alfred Nobel|Nobel]], A.
+> [!claim] [[John Lewis Gaddis|Gaddis, J. L.]]; Nobel, A.
 > **终极毁灭恐怖作为和平守护者** 西方社会对和平常态的理解长期建立在对战略威慑本质的误读之上。正如阿尔弗雷德·诺贝尔在 1891 年的断言：“唯一能够阻止国家发动战争的只有恐怖；更强大的武器才是和平最可靠的守护者”。1945 年核武器的诞生将[[Total War|总体战]]的破坏推向极限，正是这种不可承受的恐怖毁灭均势，铸就了战后八十年大国无大战的长和平奇迹。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Gaddis, 1987; Nobel, 1891; cited in Karp & Zamiska, 2025, pp. 37–41)]]
 
 ---
