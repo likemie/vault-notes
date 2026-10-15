@@ -598,7 +598,8 @@ def git_path_exists_at_head(path: Path) -> bool:
     return rel(path) in git_head_paths()
 
 
-GIT_STATUS_PATHSPECS = ["wiki", "books", "sources", "vault-schema.md", "CLAUDE.md"]
+# Same selection as scripts/check_vault.py (the pre-commit / CI gate).
+GIT_STATUS_PATHSPECS = ["wiki", "books", "sources", "schema", "vault-schema.md", "vault-use.md", "AGENTS.md", "CLAUDE.md", "GEMINI.md"]
 
 
 @lru_cache(maxsize=1)
@@ -1382,6 +1383,35 @@ _HOMONYM_INDEX_CACHE: Dict[int, Tuple[Dict[str, Set[Tuple[str, str]]], Dict[str,
 _PAREN_ABBR_RE = re.compile(r"[(（]\s*([^()（）]+?)\s*[)）]")
 
 
+def _is_declared_abbreviation(inner: str, before: str) -> bool:
+    """True when '(XYZ)' abbreviates the words right before it.
+
+    'Education for All (EFA)' qualifies; a qualifier such as
+    '创新联盟（欧盟）' or 'Youth Guarantee (EU)' does not."""
+    letters = re.sub(r"[^A-Za-z]", "", inner).lower()
+    if len(letters) < 2 or re.search(r"[^A-Za-z0-9&\-./ ]", inner):
+        return False
+    words = re.findall(r"[A-Za-z][A-Za-z'’-]*", before)
+    initials = "".join(w[0].lower() for w in words)
+    if not initials:
+        return False
+    # Abbreviation letters must appear in order among the initials of the
+    # preceding words, starting at one of the last few words' initials.
+    for start in range(max(0, len(initials) - len(letters) - 3), len(initials)):
+        if initials[start] != letters[0]:
+            continue
+        pos = start
+        ok = True
+        for ch in letters[1:]:
+            pos = initials.find(ch, pos + 1)
+            if pos < 0:
+                ok = False
+                break
+        if ok:
+            return True
+    return False
+
+
 def _homonym_index(by_title: Dict[str, Dict[str, Any]]):
     """Build once: parenthetical abbreviations and Chinese person surnames -> owners."""
     cached = _HOMONYM_INDEX_CACHE.get(id(by_title))
@@ -1398,7 +1428,7 @@ def _homonym_index(by_title: Dict[str, Dict[str, Any]]):
             term = unicodedata.normalize("NFC", term)
             for m in _PAREN_ABBR_RE.finditer(term):
                 inner = m.group(1).strip()
-                if inner:
+                if inner and _is_declared_abbreviation(inner, term[:m.start()]):
                     paren.setdefault(inner, set()).add((title, term))
                     if not inner.isupper():
                         paren.setdefault(inner.lower(), set()).add((title, term))
@@ -3061,7 +3091,61 @@ def check_updated_freshness(files: List[Path], issues: List[Issue]) -> None:
         ))
 
 
-def lint_vault(paths: List[Path], strict: bool = False, full: bool = False, fix: bool = False) -> List[Issue]:
+# -----------------------------
+# Commit gate (same checks as scripts/check_vault.py / pre-commit)
+# -----------------------------
+
+GATE_SKIP_ENV = "VAULT_LINT_SKIP_GATE"
+GATE_CODE_PATHSPECS = ["scripts", "tests"]
+
+
+def code_changed_in_git() -> bool:
+    out = run_git(["-c", "core.quotePath=false", "status", "--porcelain", "--untracked-files=all", "--", *GATE_CODE_PATHSPECS])
+    return any(line[3:].strip().endswith(".py") for line in out.splitlines() if len(line) > 3)
+
+
+def start_gate_checks(run_tests: Optional[bool] = None) -> List[Tuple[str, str, str, "subprocess.Popen[str]"]]:
+    """Start index / citation / test checks in parallel with the lint pass.
+
+    Returns (code, issue_path, fix_hint, process) tuples; collect with finish_gate_checks()."""
+    if os.environ.get(GATE_SKIP_ENV):
+        return []
+    checks = [
+        ("INDEX_STALE", "wiki/index.json", "run: python3 scripts/vault_index.py", ["scripts/wiki_index.py", "--check"]),
+        ("CITATION_INDEX_STALE", "citation/citation_full.json", "run: python3 scripts/vault_index.py", ["scripts/citation_index.py", "--check"]),
+    ]
+    if run_tests is None:
+        run_tests = code_changed_in_git()
+    if run_tests:
+        checks.append(("TESTS_FAILED", "tests", "fix the failing tests in tests/ (run: python3 -m unittest discover -s tests)", ["-m", "unittest", "discover", "-s", "tests", "-q"]))
+    env = dict(os.environ, **{GATE_SKIP_ENV: "1"})
+    started = []
+    for code, issue_path, hint, cmd in checks:
+        if cmd[0].startswith("scripts/") and not (ROOT / cmd[0]).exists():
+            continue
+        try:
+            proc = subprocess.Popen([sys.executable, "-B", *cmd], cwd=ROOT, env=env, text=True,
+                                    stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
+        except Exception as exc:  # pragma: no cover - environment failure
+            started.append((code, issue_path, f"could not start check: {exc}", None))
+            continue
+        started.append((code, issue_path, hint, proc))
+    return started
+
+
+def finish_gate_checks(started, issues: List[Issue]) -> None:
+    for code, issue_path, hint, proc in started:
+        if proc is None:
+            issues.append(Issue("ERROR", issue_path, hint, code=code))
+            continue
+        out, _ = proc.communicate()
+        if proc.returncode == 0:
+            continue
+        tail = " | ".join(line.strip() for line in (out or "").strip().splitlines()[-4:] if line.strip())
+        issues.append(Issue("ERROR", issue_path, f"commit gate check failed ({hint}); output: {tail}", code=code))
+
+
+def lint_vault(paths: List[Path], strict: bool = False, full: bool = False, fix: bool = False, gate: bool = True, run_tests: Optional[bool] = None) -> List[Issue]:
     issues: List[Issue] = []
     check_required_files(issues)
     by_title, path_to_title = load_index(issues)
@@ -3099,6 +3183,8 @@ def lint_vault(paths: List[Path], strict: bool = False, full: bool = False, fix:
             entry_metadata.cache_clear()
         print(f"--fix: {total_fixes} issue(s) fixed in {changed_files} file(s)\n")
 
+    gate_checks = start_gate_checks(run_tests) if gate else []
+
     for p in unique_files:
         lint_file(p, by_title, path_to_title, argument_citations, issues)
 
@@ -3112,6 +3198,7 @@ def lint_vault(paths: List[Path], strict: bool = False, full: bool = False, fix:
     check_new_entries_mentioned_in_arguments(argument_check_files, issues)
     check_citation_json_consistency(argument_citations, issues)
     check_updated_freshness(unique_files, issues)
+    finish_gate_checks(gate_checks, issues)
 
     return issues
 
@@ -3128,11 +3215,14 @@ def main() -> int:
     parser.add_argument("--full", action="store_true", help="lint the full vault instead of only git-changed Markdown files")
     parser.add_argument("--quiet", action="store_true", help="only print errors and summary")
     parser.add_argument("--show-info", action="store_true", help="include INFO items in text output")
+    parser.add_argument("--no-gate", action="store_true", help="skip the commit-gate checks (index freshness, citation index, unit tests)")
+    parser.add_argument("--tests", action="store_true", help="always run unit tests as part of the gate (default: only when scripts/ or tests/ changed)")
     parser.add_argument("--fix", action="store_true", help="auto-fix mechanical issues (including malformed sibling [!axis] separators) before linting")
     args = parser.parse_args()
 
     paths = [(ROOT / p).resolve() if not Path(p).is_absolute() else Path(p).resolve() for p in args.path]
-    issues = lint_vault(paths, strict=args.strict, full=args.full, fix=args.fix)
+    issues = lint_vault(paths, strict=args.strict, full=args.full, fix=args.fix,
+                        gate=not args.no_gate, run_tests=True if args.tests else None)
 
     errors = [i for i in issues if i.severity == "ERROR"]
     warns = [i for i in issues if i.severity == "WARN"]

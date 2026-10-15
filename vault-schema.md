@@ -334,7 +334,7 @@ git config --local core.hooksPath scripts/hooks
 chmod +x scripts/hooks/pre-commit
 ```
 
-钩子直接使用版本管理中的脚本，无需复制到 `.git/hooks/`。基础索引完成后，`scripts/check_vault.py` 统一执行回归测试、只读 wiki 索引检查、完整引用检查和增量 lint。手动检查使用 `.venv/bin/python3 scripts/check_vault.py`。依赖在 `requirements.txt` 中固定。
+钩子直接使用版本管理中的脚本，无需复制到 `.git/hooks/`。基础索引完成后，`scripts/check_vault.py` 统一执行回归测试、只读 wiki 索引检查、完整引用检查和增量 lint。`vault_lint.py` 本身也包含同一套提交门禁：并行检查 wiki 索引是否最新（`INDEX_STALE`）、引用索引是否一致（`CITATION_INDEX_STALE`），`scripts/` 或 `tests/` 有改动时运行回归测试（`TESTS_FAILED`），文件选择范围与 `check_vault.py` 一致。因此 lint 报告 0 error 即可提交；任何 ERROR 都必须在结束任务前解决，不得用 `--no-verify` 绕过。`--no-gate` 只用于调试，`--tests` 强制运行测试。手动检查使用 `.venv/bin/python3 scripts/check_vault.py`。依赖在 `requirements.txt` 中固定。
 
 GitHub Actions 在 pull request 和 main 分支 push 时执行同一检查入口，通过 `--base <SHA>` 检查相对于 PR 基线或 push 前提交新增、修改和重命名后的 Markdown 文件，避免干净检出时增量 lint 为空。仅 main 的 push 且检查全部通过后，才触发 Quartz 发布。此日常门禁不替代重要发布前的全量严格检查。
 

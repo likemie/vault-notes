@@ -3,11 +3,13 @@
 from __future__ import annotations
 
 import argparse
+import os
 import subprocess
 import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
+GATE_ENV = dict(os.environ, VAULT_LINT_SKIP_GATE="1")
 
 
 def git_paths(*args: str) -> list[str]:
@@ -48,7 +50,9 @@ def run_checks(base: str | None = None) -> int:
     print(f"[check] Markdown files selected: {len(paths)}", flush=True)
     for command in commands:
         print(f"[check] {' '.join(command[:5])}", flush=True)
-        result = subprocess.run([sys.executable, "-B", *command], cwd=ROOT)
+        # vault_lint.py also runs these gate checks; skip them there since
+        # this script has already run tests and both index checks above.
+        result = subprocess.run([sys.executable, "-B", *command], cwd=ROOT, env=GATE_ENV)
         if result.returncode:
             return result.returncode
     return 0
