@@ -192,5 +192,5 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统阐述元科学（Metascience）在国家科技体制改革中的核心战略定位；深入剖析低资助率下传统同行评议沦为“责任盾牌”的激励扭曲，论证在联邦科研机构内法定设立直属局长的元科学单元、赋予机制对照实验权（金券、对人资助、快速资助、[[Pull Mechanisms for Innovation|拉动机制]]），并将其确立为 2028 财年预算指导核心优先序的制度蓝图。
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 阐述元科学在科技体制改革中的定位，剖析低资助率下同行评议的激励扭曲，主张在联邦机构设立元科学单元、开展资助机制对照实验（含[[Pull Mechanisms for Innovation|拉动机制]]）。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 开展教育学首个针对《可见的学习》全库 322 个影响因素的预注册元科学质量审计，构建三阶审查规程并实证证实仅 19% 满足 PICO 标准且数据提取复现率仅 0.66%，为元科学审查宏观合成证据确立了实证范式。

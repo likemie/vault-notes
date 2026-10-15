@@ -283,4 +283,4 @@ updated: 2026-10-16
 ## 使用此概念的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统评析探究与[[Direct Instruction\|直接教学]]实证文献，援引 Kapur (2016)、Schwartz and Bransford (1998) 与 Schmidt and Bjork (1992)，将生产性失败与未来学习准备确立为微观时序协同的核心[[Paradigm\|范式]]，并结合延迟测试实证确立其深层概念理解与长效保持优势。
+> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 援引 Kapur（2016）、Schwartz and Bransford（1998）等研究，将生产性失败与未来学习准备视为探究与[[Direct Instruction\|直接教学]]的时序协同，并以延迟测试说明其长效优势。

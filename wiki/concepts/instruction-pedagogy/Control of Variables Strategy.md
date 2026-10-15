@@ -48,6 +48,7 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_DeJong_2023_ERR]]"
+  - "[[Argument_Zhang_2022_SE]]"
 confidence: high
 status: active
 created: 2026-09-20
@@ -176,4 +177,4 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - **[[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]** 系统梳理受控实验与[[Meta-analysis\|元分析]]证据，引用 Schwichow et al. (2016) 的 72 项干预研究元分析反驳 [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 的断言，指出在[[Variable\|变量]]控制策略的习得中，显性规则讲授（$g = 0.58$）与[[Inquiry-Based Learning\|探究式教学]]（$g = 0.65$）效果相当，强调探究中结合动态支架在长效保持上的关键价值。
+> - **[[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]** 引用 Schwichow 等（2016）的元分析反驳 [[Argument_Zhang_2022_SE|Zhang et al. (2022)]]：[[Variable\|变量]]控制策略的习得中，显性讲授（g = 0.58）与[[Inquiry-Based Learning\|探究式教学]]（g = 0.65）效果相当。

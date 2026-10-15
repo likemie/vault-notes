@@ -283,4 +283,4 @@ POGIL 历经了从局部高校化学教学改革，扩散为横跨 [[STEM Educat
 ## 使用此概念的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统评述[[Inquiry-Based Learning\|指导式探究]]体系，引用 Moog and Spencer (2008)、Joshi and Lau (2023) 与 Walker and Warfa (2017) [[Meta-analysis\|元分析]]，将 POGIL 确立为科学教育中高度结构化、显著降低课程挂科率的标杆指导式探究[[Paradigm\|范式]]。
+> - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 评述[[Inquiry-Based Learning\|指导式探究]]，引用 Moog and Spencer（2008）等[[Meta-analysis\|元分析]]，将 POGIL 视为科学教育中高度结构化、能显著降低挂科率的指导式探究典范。
