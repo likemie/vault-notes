@@ -8,7 +8,7 @@ aliases:
 summary: "先完整论述古典哲学层面（杜威等的经验、探究与行动后果），再阐述延伸出的研究方法论层次（混合方法研究的问题驱动与方法自由），并剖析跨国治理中将教育窄化为绩效精算的实用主义范式与紧迫实用主义认知盲区。"
 type: concept
 domain: "educational-philosophy"
-related_count: 55
+related_count: 59
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -44,13 +44,13 @@ related_concepts:
   - "[[Quality Education]]"
   - "[[Grand Theory]]"
   - "[[Engineering Mindset]]"
+  - "[[Global Educational Discourse]]"
+  - "[[Educational Meliorism]]"
   - "[[Document]]"
   - "[[Commensuration]]"
   - "[[Research Ethics]]"
   - "[[Technological Republic]]"
   - "[[Economic Fundamentalism]]"
-  - "[[Global Educational Discourse]]"
-  - "[[Gatekeepers]]"
 related_theories:
   - "[[Pluralism]]"
   - "[[Structural Functionalism]]"
@@ -67,11 +67,13 @@ related_persons:
   - "[[George Bereday]]"
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
+  - "[[Jason Beech]]"
   - "[[Herbert Hoover]]"
   - "[[Alexander Karp]]"
-  - "[[Jason Beech]]"
 related_facts:
   - "[[OECD]]"
+  - "[[World Bank]]"
+  - "[[UNESCO]]"
   - "[[Operation Paperclip]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
@@ -81,8 +83,8 @@ related_arguments:
   - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
-  - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
   - "[[Argument_Beech_2009_GlobalGarden]]"
+  - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
 confidence: high
 status: active
 created: 2026-06-14
@@ -201,7 +203,7 @@ updated: 2026-10-15
 > [!concept-lens] 方法论层次：[[Research Question|研究问题]]驱动与方法选择自由
 > [[Mixed Methods Research|混合方法研究]]学者随后将古典实用主义哲学[[Operationalization|操作化]]为方法论[[Paradigm|范式]]：放弃无休止的[[Paradigm Wars|范式战争]]，以研究问题为最高准则，推行适应目的的方法[[Pluralism|多元主义]]。
 
-> [!claim] [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, Ch.1)]]
+> [!claim] [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022, Ch. 1)]]
 > **方法选择的选择自由** 实用主义范式打破了单一形而上学体系的限制，研究者有自由选择最能满足研究问题需求的方法与技术。
 
 > [!claim] [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011, Ch.1)]]
@@ -214,7 +216,7 @@ updated: 2026-10-15
 > [!concept-lens] 实践应用层：现实政治危机中实用主义理论构件的拆解与重构
 > 比较教育学者进一步指出：当实用主义哲学传播到缺乏民主或处于危机的社会时，其哲学层面的“民主理想（目标）”与方法论层次的“渐进实验（手段）”常常发生分道扬镳。
 
-> [!claim] [[Argument_Zhou_2024_CE|Zhou & Westberg (2024)]]
+> [!claim] [[Argument_Zhou_2024_CE|Zhou and Westberg (2024)]]
 > **民主目标与渐进方法的悖论分离** 证明在民国中国，实用主义被拆解为民主、渐进实验、[[Scientific Attitude|科学态度]]等碎片；急于救国的改革者拥抱民主目标却抛弃渐进方法，展示了实用主义在跨国[[Knowledge Transfer|知识转移]]中的结构性拆解。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024, pp. 610–611, 622]]）
 
 > [!claim] [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]]
@@ -241,17 +243,25 @@ updated: 2026-10-15
 > 探讨古典实用主义气质如何超越传统教育学界限，成为现代工程师以物理实测为准绳、直面复杂系统动态现实的认识论底座。
 
 > [!claim] Dewey (1922) & [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska (2025)]]
-> **投身具体事物激流与抗拒教条概括** [[John Dewey|杜威]]在《实用主义美国》（*Pragmatic America*, 1922）中阐明，实用主义气质愿意走下高傲超然的教条神坛，投身具体事物的泥泞激流之中；在给予完全赞同前查明系统如何运作，坚决抵制过于宽泛轻率的[[Grand Theory|宏大理论]]概括。卡普与扎米斯卡（2025）指出，硅谷之所以能够推动计算机与现代软件工程的爆发，其精神源头正是这种放下宏大意识形态束缚、一切以代码和物理运行结果为尺度的实用主义[[Engineering Mindset|工程思维]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 160–161)]]
+> **投身具体事物激流与抗拒教条概括** [[John Dewey|杜威]]在《实用主义美国》（*Pragmatic America*, 1922）中阐明，实用主义气质愿意走下高傲超然的教条神坛，投身具体事物的泥泞激流之中；在给予完全赞同前查明系统如何运作，坚决抵制过于宽泛轻率的[[Grand Theory|宏大理论]]概括。卡普与扎米斯卡（2025）指出，硅谷之所以能够推动计算机与现代软件工程的爆发，其精神源头正是这种放下宏大意识形态束缚、一切以代码和物理运行结果为尺度的实用主义[[Engineering Mindset|工程思维]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp and Zamiska, 2025, pp. 160–161)]]
 
 ---
 
-### 命题六（全球治理与去政治化层）　超国家组织借助实用主义范式将教育目的伦理辩论降格为劳动力精算与技术官僚规约
+### 命题六（全球治理与去政治化层）　超国家组织借助实用主义范式将教育目的伦理辩论降格为劳动力精算并因紧迫实用主义诱发认知盲区
 
 > [!concept-lens] 全球政策治理与去政治化话语维度
-> 探讨实用主义在当代跨国治理实践中被工具化挪用为“解题理性（Problem-Solving Rationality）”的机制：将新自由主义意识形态伪装为中立务实的实效工具，以技术官僚管理取代教育本质价值的民主协商。
+> 探讨实用主义在当代跨国治理实践中被工具化挪用为“解题理性（Problem-Solving Rationality）”的机制：将新自由主义意识形态伪装为中立务实的实效工具，以技术官僚管理取代教育本质价值的民主协商，以及国际机构因“紧迫实用主义”陷入认知盲区。
 
 > [!claim] [[Fazal Rizvi|Rizvi, F.]] & [[Bob Lingard|Lingard, B.]]
 > **实用主义转向与宏观治理去政治化** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD，简称经合组织）在冷战后发生根本性政策转向，放弃了关于教育本质目的、社会学条件与民主伦理的广泛哲学辩论，将全部治理能量聚焦于劳动力技能精算与绩效管理的“实用主义范式（Pragmatic Paradigm）”。这种以解决问题为幌子的实用主义操作，不仅没有消除意识形态，反而将新自由主义对经济效率与[[Human Capital Theory|人力资本]]增值的偏好包装为不可置疑的技术常识，实现了全球教育治理深层的去政治化。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 451–452)]]
+
+> [!claim] [[Jason Beech|Beech, J.]]
+> **紧迫实用主义驱动的过度简化与话语盲区** 杰森·比奇（Jason Beech）深入剖析跨国多边机构在生成[[Global Educational Discourse|全球教育话语]]时的认知机制，指出以[[World Bank|世界银行]]、经合组织与[[UNESCO|联合国教科文组织]]为代表的国际组织，其政策干预受制于强烈的“紧迫实用主义（urgent pragmatism）”与[[Educational Meliorism|改良主义]]行动逻辑。面对在短周期内交付“见效且具实操性”政策处方的行政压力，国际机构将原本复杂的全球学术理论深度删剪与过度简化为标准化的五大支柱模型。更为关键的是，这种对紧迫实用主义的执着使国际机构陷入集体认知盲区，使其无法审视自身实践所依托的潜意识假设、熟悉概念与未经反思的思维方式，最终在自限话语空间的同时，将全球教育改革锁死在排他性的技术官僚脚本之内。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 350–352)]]
+
+> [!citation-card] 比奇论国际组织的紧迫实用主义与话语自限
+> 国际机构对紧迫实用主义问题的关注，使其无法看清自身的实践究竟建立在何种假设、熟悉观念以及确立已久且未经检视的思维方式之上。通过这种方式，国际机构限制了自身的话语空间。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 350)]]
+>
+> *Their concern for questions of urgent pragmatism blinds them from seeing on what kind of assumptions, familiar notions, of established and unexamined ways of thinking their practices are based. In this way, international agencies limit their own discursive space.*
 
 ---
 
@@ -261,11 +271,11 @@ updated: 2026-10-15
 > | 命题类型 | 所属层次 | 核心指向 | 适用情境 | 代表学者与[[Document\|文献]] |
 > |:---|:---|:---|:---|:---|
 > | **行动后果与真理工具论** | 层次一：哲学层面 | 将真理定义为情境行动中经受检验的有效后果 | 认识论与探究哲学 | Dewey (1916); Cherryholmes (1992) |
-> | **问题驱动与方法自由** | 层次二：方法论层次 | 强调方法服务于研究问题，主张适合目的与技术自由 | [[Mixed Methods Research\|混合方法研究]]设计 | [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] |
-> | **跨国解耦与功能性拆解** | 层次三：实践与跨国层 | 探讨危机语境下哲学理想与方法手段的解耦 | 比较教育与跨国知识转移 | [[Argument_Zhou_2024_CE\|Zhou & Westberg (2024)]]; [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] |
+> | **问题驱动与方法自由** | 层次二：方法论层次 | 强调方法服务于研究问题，主张适合目的与技术自由 | [[Mixed Methods Research\|混合方法研究]]设计 | [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] |
+> | **跨国解耦与功能性拆解** | 层次三：实践与跨国层 | 探讨危机语境下哲学理想与方法手段的解耦 | 比较教育与跨国知识转移 | [[Argument_Zhou_2024_CE\|Zhou and Westberg (2024)]]; [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] |
 > | **假设-演绎与实用互动论** | 层次四：比较教育学层 | 依托杜威问题法构建假设-演绎比较范式，突破功能主义垄断 | 比较教育方法论与范式争鸣 | [[Brian Holmes\|Holmes (1965)]]; [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] |
-> | **工程求真与反教条认识论** | 层次五：工程治理层 | 走下神坛投身具体系统运作，以物理代码实测检验理论 | 现代软件工程哲学与国家技术治理 | Dewey (1922); [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14\|Karp & Zamiska (2025, Ch. 14)]] |
-> | **劳动力精算与治理去政治化** | 层次六：全球治理层 | 借助实用主义解题理性将教育伦理辩论降格为绩效精算 | 超国家治理与全球教育政策转型 | [[Fazal Rizvi\|Rizvi]] & [[Bob Lingard\|Lingard]] (2009) |
+> | **工程求真与反教条认识论** | 层次五：工程治理层 | 走下神坛投身具体系统运作，以物理代码实测检验理论 | 现代软件工程哲学与国家技术治理 | Dewey (1922); [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14\|Karp and Zamiska (2025, Ch. 14)]] |
+> | **劳动力精算与治理去政治化** | 层次六：全球治理层 | 借助实用主义解题理性将教育伦理辩论降格为绩效精算，并因紧迫实用主义陷入话语自限 | 超国家治理与全球教育政策转型 | [[Fazal Rizvi\|Rizvi]] and [[Bob Lingard\|Lingard]] (2009); [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] |
 
 ---
 
@@ -274,9 +284,9 @@ updated: 2026-10-15
 > [!dev-timeline] 概念演变
 > - **19世纪末–20世纪初 — 哲学起源（哲学层面）** Peirce, James, Mead 与 [[John Dewey|杜威]] 建立实用主义哲学体系，重构经验、探究、民主与行动后果；1922年杜威发表《实用主义美国》，阐发深入具体事物运作机理的实验精神。
 > - **1960s–1970s — 比较教育方法论论争与实用互动论（比较教育学层）** [[Brian Holmes|布莱恩·霍姆斯]]（Holmes, 1965）借鉴[[John Dewey|杜威]]问题求解逻辑提出“[[Hypothesis|假设]]-演绎[[Problem Approach|问题法]]”，掀起与归纳法的[[Paradigm|范式]]论争；“实用互动论”被确认为 1970 年代打破[[Structural Functionalism|结构功能主义]]实证霸权的核心批判范式之一。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 128–129, 136)]]
-> - **1990s–2000s — 方法论[[Paradigm|范式]]奠基（方法论层次）** Cherryholmes (1992), Patton (1990), Tashakkori & Teddlie (2010), Johnson & Onwuegbuzie (2004), Denscombe (2008), Morgan (2007) 将实用主义确立为[[Mixed Methods Research|混合方法研究]]的官方哲学基础。
-> - **2000 年代 — 超国家治理的技术主义规约与实用主义去政治化** 里兹维与林加德揭示[[OECD|经合组织]]如何放弃教育本质目的与民主伦理的广泛辩论，将治理能量聚焦于劳动力技能精算与绩效管理的“实用主义范式”，将新自由主义意识形态包装为中立务实的解题工具。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 451–452)]]
-> - **2010s至今 — 教育研究应用、跨国解构与现代工程[[Epistemology|认识论]]复兴** 深入[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]]与[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]]教材体系；在比较教育中被用来分析实用主义哲学在非西方社会的跨国转移与结构性拆解（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024]]）；并在现代科技哲学中被卡普与扎米斯卡（2025）升华为[[Engineering Mindset|工程思维]]与反官僚推诿的核心认识论。
+> - **1990s–2000s — 方法论[[Paradigm|范式]]奠基（方法论层次）** Cherryholmes (1992), Patton (1990), Tashakkori and Teddlie (2010), Johnson and Onwuegbuzie (2004), Denscombe (2008), Morgan (2007) 将实用主义确立为[[Mixed Methods Research|混合方法研究]]的官方哲学基础。
+> - **2000 年代 — 超国家治理的技术主义规约与紧迫实用主义盲区** 里兹维与林加德（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）揭示[[OECD|经合组织]]如何将教育治理窄化为劳动力技能精算；比奇（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）进一步提炼国际机构的“紧迫实用主义（urgent pragmatism）”机制，揭示其实用主义解题冲动如何导致学术理论过度简化与政策空间闭合。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 451–452)]]; [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 350–352)]]
+> - **2010s至今 — 教育研究应用、跨国解构与现代工程[[Epistemology|认识论]]复兴** 深入[[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]]与[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]]教材体系；在比较教育中被用来分析实用主义哲学在非西方社会的跨国转移与结构性拆解（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024]]）；并在现代科技哲学中被卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）升华为[[Engineering Mindset|工程思维]]与反官僚推诿的核心认识论。
 
 ---
 
@@ -287,7 +297,7 @@ updated: 2026-10-15
 > > [!axis] [[Incommensurability|范式不可通约性]]与方法论折中主义（方法论层次）
 > > 传统[[Positivism|实证主义]]与[[Constructivist Paradigm|建构主义]]学者质疑[[Mixed Methods Research|混合方法]]是否打破了库恩[[Paradigm|范式]]的不可[[Commensuration|通约]]性（Incommensurability），担心将不同[[Ontology|本体论假设]]混用会导致逻辑不自洽。
 > >
-> > - **Guba & Lincoln (1994)** 认为范式具有不可调和的[[Epistemology|认识论]]根基。
+> > - **Guba and Lincoln (1994)** 认为范式具有不可调和的[[Epistemology|认识论]]根基。
 > > - **Denscombe (2008)** 主张将混合方法理解为[[Communities of Practice|实践共同体]]，以效用与[[Fitness for Purpose|适合目的]]超越教条对立。
 >
 > > [!axis] 效用优先与价值批评的张力（哲学与方法论双层）
@@ -308,14 +318,15 @@ updated: 2026-10-15
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 详述实用主义作为[[Mixed Methods Research|混合方法研究]]取向的哲学前提与[[Fitness for Purpose|适合目的]]原则。
-> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] — 阐释实用主义世界观（Pragmatic Worldview）在研究设计与方法选择中的具体应用。
+> - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 阐释实用主义世界观（Pragmatic Worldview）在研究设计与方法选择中的具体应用。
 > - [[Argument_Rust_2009_Reflections|Rust, Johnstone & Allaf (2009)]] — 梳理比较教育学术史中的[[Paradigm|范式]]演化，阐述霍姆斯基于[[John Dewey|杜威]]实用主义建立的[[Hypothesis|假设]]-演绎[[Problem Approach|问题法]]，并确认实用互动论在挑战功能主义单一霸权中的范式地位。
-> - [[Argument_Zhou_2024_CE|Zhou & Westberg (2024)]] — 揭示实用主义[[Paradigm|范式]]（民主目标与渐进方法）在民国中国跨国转移中的拆解与[[Recontextualization|本土重构]]。
+> - [[Argument_Zhou_2024_CE|Zhou and Westberg (2024)]] — 揭示实用主义[[Paradigm|范式]]（民主目标与渐进方法）在民国中国跨国转移中的拆解与[[Recontextualization|本土重构]]。
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 追踪实用主义范式在建国后中国教育政治[[Discourse|话语]]中的三重变形。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009, pp. 451–452)]] — 揭示[[OECD|经合组织]]如何将教育治理窄化为劳动力技能核算的实用主义范式，遮蔽教育的民主与伦理目的。
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska (2025)]] — 探讨实用主义哲学（杜威《实用主义美国》）对现代[[Engineering Mindset|工程思维]]与反教条经验[[Epistemology|认识论]]的奠基（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14]]）。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 451–452)]] — 揭示[[OECD|经合组织]]如何将教育治理窄化为劳动力技能核算的实用主义范式，遮蔽教育的民主与伦理目的。
+> - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 剖析国际多边机构在生成[[Global Educational Discourse|全球教育话语]]时的“紧迫实用主义（urgent pragmatism）”与行动改良逻辑，揭示其过度简化机制与[[Epistemology|认识论]]盲区（pp. 350–352）。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 探讨实用主义哲学（杜威《实用主义美国》）对现代[[Engineering Mindset|工程思维]]与反教条经验[[Epistemology|认识论]]的奠基（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14]]）。
 
 ---
 
@@ -336,4 +347,6 @@ updated: 2026-10-15
 > | [[OECD]] | 事实 | 治理机构：将实用主义范式作为跨国教育政策去政治化与技能绩效管理的技术装置。 |
 > | [[Fazal Rizvi]] | 人物 | 政策学者：与林加德共同揭示经合组织教育政策从民主论坛向实用主义技能精算的范式转型。 |
 > | [[Bob Lingard]] | 人物 | 政策学者：分析超国家组织如何借助实用主义解题理性掩蔽新自由主义[[Economic Fundamentalism\|经济基要主义]]。 |
+> | [[Jason Beech]] | 人物 | 比较教育学者：揭示国际组织受制于“紧迫实用主义”而过度简化知识并自限政策空间。 |
+> | [[Global Educational Discourse]] | 概念 | [[Discourse\|话语]]载体：国际机构基于紧迫实用主义加工生成的去情境化普遍主义教育模型。 |
 

@@ -9,7 +9,9 @@ aliases:
   - 政策把关人
   - 循证学校把关人
   - 制度把关人
-summary: "涵盖微观质性研究准入审查者、中观学校组织变革过滤者（如校长）与宏观政策生命周期中决定方案去留的制度把关人（政治领袖、同行专家与法定表决机构）；其通过权力裁量、价值选择与认知过滤，决定了田野调查能否开展、校本变革如何落地以及政策证据形态的阶段演化。"
+  - 跨国知识把关人
+  - 依附性把关人
+summary: "涵盖微观质性研究准入审查者、中观学校组织变革过滤者（如校长）、宏观政策生命周期中决定方案去留的制度把关人（政治领袖、同行专家与法定表决机构），以及跨国治理与知识生产中由国际组织、国家行政与学术精英多重身份重叠构成的依附性把关人群体（如拉美把关人网络）；其通过权力裁量、价值过滤与制度闭合，深刻决定了田野准入、校本变革转化、政策证据演变以及国家可思与不可思知识边界的划定。"
 type: concept
 domain: "research-methodology"
 related_count: 71
@@ -24,6 +26,8 @@ tags:
   - theme/school-leadership
   - theme/educational-reform
   - theme/evidence-based-education
+  - theme/comparative-education
+  - theme/global-governance
 related_concepts:
   - "[[Research Ethics]]"
   - "[[Institutional Review Board]]"
