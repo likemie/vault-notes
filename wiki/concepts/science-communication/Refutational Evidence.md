@@ -9,7 +9,7 @@ aliases:
 summary: "教育科学与认知心理学构念，指旨在否定、推翻或证伪教师既有经验直觉与伪科学迷思的实证研究成果，若缺乏建设性替代方案易触发教师心理防御与专业疏离"
 type: concept
 domain: "science-communication"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Refutational Evidence

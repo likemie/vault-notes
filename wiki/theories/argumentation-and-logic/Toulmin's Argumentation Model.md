@@ -9,7 +9,7 @@ aliases:
 summary: "Toulmin 提出的领域依赖论证结构模型，将论证拆解为主张、数据、保证、支撑、限定词与反驳六个部件；当代科学教育批判其纯句法结构无法甄别披着规范外衣的伪科学论证。"
 type: theory
 theory_field: "argumentation-and-logic"
-theory_related_count: 18
+theory_related_count: 19
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -44,7 +44,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-07-05
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Toulmin's Argumentation Model

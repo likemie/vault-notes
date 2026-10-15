@@ -9,7 +9,7 @@ summary: "结合量化与质性数据并通过特定设计进行系统整合的�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 77
+method_related_count: 78
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -105,7 +105,7 @@ related_instruments: []
 confidence: high
 status: stable
 created: 2026-06-14
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Mixed Methods Research

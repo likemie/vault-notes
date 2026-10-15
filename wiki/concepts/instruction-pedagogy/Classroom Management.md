@@ -5,7 +5,7 @@ aliases:
 summary: "教师系统组织课堂学习环境的综合机制，涵盖时间在任务利用、积极行为预期、规则常规、非惩罚性重定向与支持性学习文化。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 30
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"

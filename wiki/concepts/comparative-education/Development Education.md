@@ -9,7 +9,7 @@ aliases:
 summary: "聚焦全球南方国家教育现代化、体制重塑与国际援助合作的专门学术研究与政策实务领域。二战后因去殖民化与冷战地缘博弈而兴起，长期与侧重理论建构的主流比较教育学保持建制分流；后伴随多边开发银行的主权借贷与结构调整，从学术系所分立转向以项目评估、信贷杠杆与政策咨询为主轴的实务运作，但面临设计端理念前沿与执行端官僚失能、资金拨付考核与实质学习成效严重脱节的深层制度张力。"
 type: concept
 domain: "comparative-education"
-related_count: 57
+related_count: 58
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"

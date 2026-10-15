@@ -10,7 +10,7 @@ aliases:
 summary: "受访者在自我报告或问卷自陈时，因社会期望、自我美化、记忆衰减或问题理解歧义而导致回答系统性偏离客观真实的测量偏差；在教育循证治理调查中常表现为部委对循证理念的高估与对一线学校实践阻力的掩盖。"
 type: concept
 domain: "research-methodology"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -62,7 +62,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-07-11
-updated: 2026-10-02
+updated: 2026-10-15
 ---
 
 # Self-report Bias

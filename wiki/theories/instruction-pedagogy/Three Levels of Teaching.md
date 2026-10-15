@@ -7,7 +7,7 @@ aliases:
 summary: "一种教学理论框架，依据教师把学习结果归因于学生特征、教师行为还是完整教学系统，区分三个递进的教学观层次。"
 type: theory
 theory_field: "instruction-pedagogy"
-theory_related_count: 14
+theory_related_count: 15
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-01
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Three Levels of Teaching

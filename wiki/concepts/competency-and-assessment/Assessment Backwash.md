@@ -8,7 +8,7 @@ aliases:
 summary: "评估任务、评分规则、成绩权重及其利害关系提前进入教学与学习决策，进而改变实际课程的机制；方向取决于获分活动与课程目标是否一致，强度取决于后果、权重、任务组合和制度环境。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -42,7 +42,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-08-01
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Assessment Backwash

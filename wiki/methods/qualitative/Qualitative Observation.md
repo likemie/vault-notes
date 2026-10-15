@@ -9,7 +9,7 @@ summary: "质性研究中研究者在研究现场对个体行为和活动进行�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 26
+method_related_count: 27
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -52,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-06-01'
-updated: '2026-06-19'
+updated: 2026-10-15
 ---
 
 # Qualitative Observation

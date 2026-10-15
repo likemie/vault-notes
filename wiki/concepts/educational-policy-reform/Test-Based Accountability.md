@@ -8,7 +8,7 @@ aliases:
 summary: "以学生标准化考试成绩评估、监督和规制学校与教师教学实践的制度安排，核心在于将评价结果制度化地与奖惩考核挂钩，是全球教育治理中的显著特征之一"
 type: concept
 domain: "educational-policy-reform"
-related_count: 51
+related_count: 53
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -80,7 +80,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-09-18
+updated: 2026-10-15
 ---
 
 # Test-Based Accountability

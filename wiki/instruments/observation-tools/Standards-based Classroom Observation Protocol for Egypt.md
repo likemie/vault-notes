@@ -9,9 +9,9 @@ aliases:
 summary: "由世界银行、埃及教育部及国际开发署联合研发的面向中东北非基础教育情境的标准化课堂观察工具，围绕主动学习、支持性课堂环境、促进学习的评估以及有效课堂管理四大领域构建，采用4级表现量规评估教师在国家专业教学标准下的实际课堂表现，为区域教师绩效评估与在职教研提供结构化数据支持。"
 type: instrument
 instrument_type: observation-tool
-instrument_related_count: 4
-instrument_related_level: 0
-instrument_related_stars: "☆"
+instrument_related_count: 12
+instrument_related_level: 2
+instrument_related_stars: "⭐⭐"
 instrument_related_color: "#cffafe"
 part_of: ""
 developers:

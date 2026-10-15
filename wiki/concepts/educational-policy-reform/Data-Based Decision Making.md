@@ -7,7 +7,7 @@ aliases:
 summary: "教育管理与教学中以系统层面和课堂层面的多元数据为依据作出决策的取向，经历目标设定、数据收集、质检分析、改进落实与循环评估的探究过程；虽能精准诊断校本学情病因，但自身不包含现成教学解决方案，亟需与外部研究知情教学实践（RITP）在学校探究循环中深度整合。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -64,7 +64,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-09-21
+updated: 2026-10-15
 ---
 
 # Data-Based Decision Making

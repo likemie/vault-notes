@@ -9,7 +9,7 @@ aliases:
 summary: "科学教育与探究式学习的元阶段理论模型，由 Margus Pedaste 领衔通过系统综述整合数十种探究框架确立，由定向、概念化（质疑与假设生成）、调查（规划、探索、实验与数据解释）、结论与贯穿始终的反思讨论五大核心阶段构成"
 type: theory
 theory_field: "instruction-pedagogy"
-theory_related_count: 32
+theory_related_count: 33
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Inquiry Cycle

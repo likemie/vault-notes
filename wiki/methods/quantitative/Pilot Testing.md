@@ -13,9 +13,9 @@ summary: "在正式数据收集或评估工具发布前，通过小规模试运�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 13
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 45
+method_related_level: 5
+method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/procedural

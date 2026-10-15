@@ -8,9 +8,9 @@ aliases:
 summary: "由纽约大学全球儿童TIES中心爱德华·塞德曼等人研发的面向低资源、脆弱及危机冲突环境的标准化高推论课堂观察系统，围绕促进深度学习、情感支持与积极氛围以及课堂组织管理三大领域构建，通过行为发生强度与频率的精细量规评定，为弱势教育情境下的教学质量诊断与循证干预提供情境敏感的测量标尺。"
 type: instrument
 instrument_type: observation-tool
-instrument_related_count: 4
-instrument_related_level: 0
-instrument_related_stars: "☆"
+instrument_related_count: 10
+instrument_related_level: 2
+instrument_related_stars: "⭐⭐"
 instrument_related_color: "#cffafe"
 part_of: ""
 developers:

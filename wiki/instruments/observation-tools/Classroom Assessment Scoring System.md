@@ -9,9 +9,9 @@ aliases:
 summary: "由罗伯特·皮安塔等人开发的高推论课堂外部观察评价系统，通过聚焦师生动态互动过程，涵盖情感支持、班级组织与教学支持三大核心领域及十个具体维度，采用7点行为锚定量规系统量化K-12全学段课堂教学质量，广泛应用于学前与基础教育研究、教师专业发展及有效教学效度检验。"
 type: instrument
 instrument_type: observation-tool
-instrument_related_count: 4
-instrument_related_level: 0
-instrument_related_stars: "☆"
+instrument_related_count: 12
+instrument_related_level: 2
+instrument_related_stars: "⭐⭐"
 instrument_related_color: "#cffafe"
 part_of: ""
 developers:

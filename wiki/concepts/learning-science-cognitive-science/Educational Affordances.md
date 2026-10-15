@@ -10,10 +10,10 @@ aliases:
 summary: "源自生态心理学与教育技术学的核心构念，指技术工具在特定教学情境中与学习者及任务环境交互时所展现出的、可被感知并支持特定认知与教学行动的客观使能属性。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - field/educational-technology
   - field/learning-sciences
@@ -68,7 +68,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-09-02
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Educational Affordances

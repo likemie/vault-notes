@@ -9,7 +9,7 @@ summary: "质性研究、内容分析与元分析编码中，两名或多名独�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 43
+method_related_count: 44
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-09-22
+updated: 2026-10-15
 ---
 
 # Intercoder Agreement

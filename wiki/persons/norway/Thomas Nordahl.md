@@ -8,7 +8,7 @@ summary: "挪威教育学者与学校改进论者，Visible Learning 北欧支�
 type: person
 nationality: norway
 person_region: "norway"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -46,7 +46,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-21'
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 ## 简介
 

@@ -10,9 +10,9 @@ summary: "质性与高推论实证观察中用于系统记录田野信息、微�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 14
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 37
+method_related_level: 4
+method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative

@@ -9,7 +9,7 @@ aliases:
 summary: "为促使学生开展目标认知行为而安排的教学与学习活动，可由教师、同伴或学生组织，是连接课程目标与学习结果的实施环节。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -40,7 +40,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-08-01
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Teaching and Learning Activities

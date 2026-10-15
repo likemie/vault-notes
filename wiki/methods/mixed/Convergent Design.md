@@ -9,7 +9,7 @@ summary: "同时收集量化和质性数据、分别分析后将结果合并比�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 36
+method_related_count: 37
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#fef3c7"
@@ -62,7 +62,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-06-30
+updated: 2026-10-15
 ---
 
 # Convergent Design

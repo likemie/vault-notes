@@ -12,7 +12,7 @@ aliases:
 summary: "连接科学研究发现与实际应用的跨界转化过程，在产学合作中体现为技术成果商业化漏斗，在学校教育中体现为基于因果行动理论的情境再脉络化与微观课例探究，在宏观治理中体现为立足政策时间生态与立法政策简报的法律实质采纳，在前沿科技创新中体现为公共代理人依托嵌入型网络治理引导颠覆性技术轨道，在国家硬科技战略中体现为打破规制阻滞、依托共享试验场、中试平台与前竞争联合体将前沿科学锚定于本土实体制造，在国家安全与公共治理中体现为突破防务采购壁垒与官僚创新荒漠、将前沿软件与智能技术转化为国家战略交付能力。"
 type: concept
 domain: "university-industry-collaboration"
-related_count: 119
+related_count: 120
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -156,7 +156,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-03
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Research Translation

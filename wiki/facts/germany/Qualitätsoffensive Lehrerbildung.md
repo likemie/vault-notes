@@ -10,9 +10,9 @@ subtype: program
 region: germany
 fact_region: "germany"
 fact_kind: "program"
-fact_related_count: 23
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 24
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2015–2023"
 initiator_organization: "[[Federal Ministry of Education and Research|德国联邦教育与研究部（BMBF）]]"
@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-09-27
+updated: 2026-10-15
 ---
 
 # Qualitätsoffensive Lehrerbildung

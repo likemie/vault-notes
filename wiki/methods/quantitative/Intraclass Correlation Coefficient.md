@@ -11,7 +11,7 @@ summary: "用于度量多层嵌套或集群数据中同组观测值之间相似�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 47
+method_related_count: 48
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-15
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Intraclass Correlation Coefficient

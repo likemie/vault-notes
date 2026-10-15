@@ -7,7 +7,7 @@ aliases:
 summary: "由赫伯特·西蒙（Herbert A. Simon）开创的认知与决策理论，指出行为主体在信息、时间与计算能力受限条件下无法实现全局最优，只能依靠满意原则与持续反馈进行决策；在教育中解释了教师面对高复杂度课堂时依赖反馈修正开展专业判断的必然性；在国家创新系统理论中作为微观行为基石，论证了有限理性与不确定性导致主体高度依赖地理与制度邻近性开展本地化互动学习，从而奠定国家制度多样性与发展路径差异。"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 41
+theory_related_count: 42
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-03
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Bounded Rationality

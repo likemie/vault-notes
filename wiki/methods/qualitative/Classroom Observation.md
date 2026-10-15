@@ -10,9 +10,9 @@ summary: "研究者或评价者深入真实或录制的课堂教学现场，依�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 20
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 54
+method_related_level: 6
+method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/data-collection

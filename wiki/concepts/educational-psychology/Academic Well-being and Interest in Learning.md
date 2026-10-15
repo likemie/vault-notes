@@ -5,7 +5,7 @@ aliases:
 summary: "学生对上学、学习活动和学校生活的积极情感体验与兴趣水平，用于描述学习投入、归属感和日常学习体验的主观维度。"
 type: concept
 domain: "educational-psychology"
-related_count: 3
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -28,7 +28,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: '2026-05-18'
+updated: 2026-10-15
 ---
 
 ## 定义

@@ -9,7 +9,7 @@ aliases:
 summary: "加芬克尔常人方法学的核心概念，指言语陈述与社会行动的意义深嵌于产生它们的情境脉络与互动历史中，依赖参与者共享的默会理解而无法脱离语境独立存在。"
 type: concept
 domain: "sociology-of-education"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-13
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Indexicality

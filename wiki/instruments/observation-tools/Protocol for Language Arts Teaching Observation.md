@@ -8,9 +8,9 @@ aliases:
 summary: "由帕姆·格罗斯曼等人研发的面向中学英语语言艺术学科的标准化高推论课堂观察工具，围绕教学支架、学科要求、内容表征与课堂环境四大领域构建12个具体观察维度，采用4点量规评定教师在文本细读、写作策略、智力挑战与课堂对话中的学科特异性教学质量。"
 type: instrument
 instrument_type: observation-tool
-instrument_related_count: 4
-instrument_related_level: 0
-instrument_related_stars: "☆"
+instrument_related_count: 17
+instrument_related_level: 3
+instrument_related_stars: "⭐⭐⭐"
 instrument_related_color: "#cffafe"
 part_of: ""
 developers:

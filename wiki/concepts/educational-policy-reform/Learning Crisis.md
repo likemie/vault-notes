@@ -10,10 +10,10 @@ aliases:
 summary: "指中低收入国家在实现基础教育入学率历史性普及后，大量儿童在完成小学学业时仍无法掌握基本读写与简单算术技能的全球性教育治理困境（“有学校无学习”）。由联合国教科文组织与世界银行等国际组织正式界定，该概念将国际教育政策的核心议程从“硬件与入学机会普及”根本转向“教学质量与实际学习成果”，并深刻揭示学习危机的本质是教学质量危机，推动全球教育治理穿透宏观文凭与资历表象，转向微观课堂师生互动的实证监测与循证改进。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 2
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 32
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - concept/educational-policy
   - theme/learning-crisis

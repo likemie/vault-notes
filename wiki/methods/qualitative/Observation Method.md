@@ -10,7 +10,7 @@ summary: "教育研究中基础的资料收集方法，通过系统地看和记�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 43
+method_related_count: 44
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -70,7 +70,7 @@ related_instruments:
   - "[[Flanders Interaction Analysis Categories]]"
 status: draft
 created: 2026-06-25
-updated: 2026-10-11
+updated: 2026-10-15
 ---
 
 # Observation Method

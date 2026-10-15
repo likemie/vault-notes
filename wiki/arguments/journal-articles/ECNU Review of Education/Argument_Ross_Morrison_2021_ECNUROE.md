@@ -10,7 +10,7 @@ title: "Argument_Ross_Morrison_2021_ECNUROE"
 argument_key: "Argument_Ross_Morrison_2021_ECNUROE"
 argument_display_title: "Achieving better educational practices through research evidence: A critical analysis and case illustration of benefits and challenges"
 argument_kind: "journal-article"
-argument_related_count: 32
+argument_related_count: 33
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
