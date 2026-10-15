@@ -5,7 +5,7 @@ aliases:
   - 实用主义范式
   - pragmatic worldview
   - 实用主义研究范式
-summary: "先完整论述古典哲学层面（杜威等的经验、探究与行动后果），再阐述延伸出的研究方法论层次（混合方法研究的问题驱动、适合目的与方法自由）。"
+summary: "先完整论述古典哲学层面（杜威等的经验、探究与行动后果），再阐述延伸出的研究方法论层次（混合方法研究的问题驱动与方法自由），并剖析跨国治理中将教育窄化为绩效精算的实用主义范式与紧迫实用主义认知盲区。"
 type: concept
 domain: "educational-philosophy"
 related_count: 55
@@ -49,6 +49,8 @@ related_concepts:
   - "[[Research Ethics]]"
   - "[[Technological Republic]]"
   - "[[Economic Fundamentalism]]"
+  - "[[Global Educational Discourse]]"
+  - "[[Gatekeepers]]"
 related_theories:
   - "[[Pluralism]]"
   - "[[Structural Functionalism]]"
@@ -67,6 +69,7 @@ related_persons:
   - "[[Bob Lingard]]"
   - "[[Herbert Hoover]]"
   - "[[Alexander Karp]]"
+  - "[[Jason Beech]]"
 related_facts:
   - "[[OECD]]"
   - "[[Operation Paperclip]]"
@@ -79,10 +82,11 @@ related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
+  - "[[Argument_Beech_2009_GlobalGarden]]"
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Pragmatic Paradigm
@@ -94,7 +98,7 @@ updated: 2026-10-14
 > [!def] 核心定义（从哲学层面到方法论层次的演进）
 > 实用主义[[Paradigm|范式]]（Pragmatic Paradigm）包含逻辑与历史递进的两个层次：
 > 1. **哲学层面（古典哲学传统）** 首先起源于 Peirce、James、Mead 与 [[John Dewey|杜威]]，是一门关于经验连续性、[[Reflexivity|反思性]]探究、行动后果与民主重组的古典哲学体系，拒绝绝对形而上学与脱离情境的确定性真理。
-> 2. **方法论层次（研究方法论范式）** 随后由 Cherryholmes (1992)、Morgan (2007)、Denscombe (2008)、[[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022)]] 与 [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] 等学者拓展，专指[[Mixed Methods Research|混合方法研究]]的哲学基础，主张以[[Research Question|研究问题]]为中心、以[[Fitness for Purpose|适合目的]]与实践效用为取向，超越纯量化与纯质性的范式对立。
+> 2. **方法论层次（研究方法论范式）** 随后由 Cherryholmes (1992)、Morgan (2007)、Denscombe (2008)、[[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] 与 [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] 等学者拓展，专指[[Mixed Methods Research|混合方法研究]]的哲学基础，主张以[[Research Question|研究问题]]为中心、以[[Fitness for Purpose|适合目的]]与实践效用为取向，超越纯量化与纯质性的范式对立。
 
 > [!concept-lens] 概念透镜（双层演进脉络）
 > - **第一部分：哲学层面（杜威等）** 先完整回答[[Epistemology|认识论]]与探究论问题，将真理定义为情境行动中经受检验的有效后果与“担保性断言”，强调渐进实验与试错。
@@ -118,7 +122,7 @@ updated: 2026-10-14
 > [!contrast-table] 从哲学层面到方法论层次的比较
 > | 比较维度 | 哲学层面：古典哲学传统（Philosophical Pragmatism） | 方法论层次：研究方法论[[Paradigm\|范式]]（Methodological Pragmatism） |
 > |:---|:---|:---|
-> | **代表人物** | C. S. Peirce, William James, [[John Dewey\|杜威]] | Cherryholmes, Morgan, Denscombe, [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] |
+> | **代表人物** | C. S. Peirce, William James, [[John Dewey\|杜威]] | Cherryholmes, Morgan, Denscombe, [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] |
 > | **核心关切** | 经验的连续性、[[Reflexivity\|反思性]]探究、民主与社会更新 | [[Research Question\|研究问题]]解答、研究设计、方法选择自由 |
 > | **真理观** | 情境行动中经受检验的“担保性断言” | 能否有效回答研究问题与交付有用后果 |
 > | **范式态度** | 批判绝对形而上学与二元对立 | 超越[[Positivism\|实证]]与[[Constructivist Paradigm\|建构主义]]的教条对立，主张[[Fitness for Purpose\|适合目的]] |

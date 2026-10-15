@@ -1,24 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "World Bank",
+      "path": "wiki/facts/global/World Bank.md"
+    },
+    {
+      "basename": "Learning Crisis",
+      "path": "wiki/concepts/educational-policy-reform/Learning Crisis.md"
+    },
+    {
+      "basename": "Argument_WorldBank_2019_Teach",
+      "path": "wiki/arguments/reports-policy-documents/Argument_WorldBank_2019_Teach.md"
+    },
+    {
+      "basename": "Teach Classroom Observation Tool",
+      "path": "wiki/instruments/observation-tools/Teach Classroom Observation Tool.md"
+    },
+    {
       "basename": "Argument_Beech_2009_GlobalGarden",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Beech_2009_GlobalGarden.md"
     },
     {
-      "basename": "Jason Beech",
-      "path": "wiki/persons/argentina/Jason Beech.md"
+      "basename": "UNESCO",
+      "path": "wiki/facts/global/UNESCO.md"
     },
     {
       "basename": "Classroom Observation",
       "path": "wiki/methods/qualitative/Classroom Observation.md"
     },
     {
-      "basename": "Plato",
-      "path": "wiki/persons/greece/Plato.md"
+      "basename": "Jason Beech",
+      "path": "wiki/persons/argentina/Jason Beech.md"
     },
     {
-      "basename": "Argument_WorldBank_2019_Teach",
-      "path": "wiki/arguments/reports-policy-documents/Argument_WorldBank_2019_Teach.md"
+      "basename": "Plato",
+      "path": "wiki/persons/greece/Plato.md"
     },
     {
       "basename": "Inter-Rater Reliability",
@@ -37,20 +53,8 @@
       "path": "wiki/methods/qualitative/Structured Observation.md"
     },
     {
-      "basename": "Teach Classroom Observation Tool",
-      "path": "wiki/instruments/observation-tools/Teach Classroom Observation Tool.md"
-    },
-    {
       "basename": "Effective Teaching",
       "path": "wiki/concepts/instruction-pedagogy/Effective Teaching.md"
-    },
-    {
-      "basename": "World Bank",
-      "path": "wiki/facts/global/World Bank.md"
-    },
-    {
-      "basename": "UNESCO",
-      "path": "wiki/facts/global/UNESCO.md"
     },
     {
       "basename": "International Baccalaureate Nutritional Science Course",
@@ -195,10 +199,6 @@
     {
       "basename": "Market Fundamentalism",
       "path": "wiki/concepts/political-economy-geopolitics/Market Fundamentalism.md"
-    },
-    {
-      "basename": "Red Tape",
-      "path": "wiki/concepts/political-economy-geopolitics/Red Tape.md"
     }
   ],
   "omittedPaths": [],

@@ -8,10 +8,10 @@ aliases:
 summary: "Jason Beech 结合伯恩斯坦话语重构理论与卡斯特流动空间建构的全球教育场域五位置模型，揭示话语在跨国流动中的过度简化、守门人垄断与实践脱节机制"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 0
-theory_related_level: 0
-theory_related_stars: "☆"
-theory_related_color: "#e5e7eb"
+theory_related_count: 40
+theory_related_level: 5
+theory_related_stars: "⭐⭐⭐⭐⭐"
+theory_related_color: "#ffedd5"
 tags:
   - theme/comparative-education
   - theme/educational-transfer
@@ -103,12 +103,12 @@ updated: 2026-10-15
 > [!entry-map] 理论构件地图
 > | 构件 | 类型 | 在理论中的功能 |
 > |:-----|:-----|:--------------|
-> | **全球教育[[Champ|场域]]（Global Educational Field）** | 宏观空间范畴 | 界定所有参与教育知识生产、转译、传播与实施的组织与主体构成的跨国社会互动空间。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 349)]] |
-> | **五大结构位置（Five Structural Positions）** | 核心[[Analytic Framework|分析框架]] | 区分全球学术空间、国际组织、国家、本土学术空间与教育机构五种不同性质的功能节点。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 349–351)]] |
-> | [[Global Educational Discourse|全球教育话语（Global Educational Discourse）]] | 核心概念构件 | 国际机构通过过度简化所提炼的去情境化普遍主义教育改革方案（五大支柱）。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 348)]] |
-> | **过度简化机制（Oversimplification）** | [[Discourse|话语]][[Transfer Translation Transformation|转译]]机制 | 国际组织为了使知识便于跨国销售与政策套用，将复杂争鸣的学术话语删剪为操作性教条的过程。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 351)]] |
-> | **[[Gatekeepers|守门人]]群体（Gatekeepers）** | 行动者互动机制 | 在后发国家同时跨界占据本土学术、国家官僚与国际组织顾问多重身份的精英网络，其闭合效应排斥替代性知识。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 353)]] |
-> | [[Recontextualization|再语境化（Recontextualisation）]]脱节 | 实践遭遇机制 | 抽象通用话语降落到微观教育机构时，因无法兼容本土历史惯习与物质约束而催生的非预期异化后果。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 353–354)]] |
+> | **全球教育[[Champ\|场域]]（Global Educational Field）** | 宏观空间范畴 | 界定所有参与教育知识生产、转译、传播与实施的组织与主体构成的跨国社会互动空间。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, p. 349)]] |
+> | **五大结构位置（Five Structural Positions）** | 核心[[Analytic Framework\|分析框架]] | 区分全球学术空间、国际组织、国家、本土学术空间与教育机构五种不同性质的功能节点。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 349–351)]] |
+> | [[Global Educational Discourse\|全球教育话语（Global Educational Discourse）]] | 核心概念构件 | 国际机构通过过度简化所提炼的去情境化普遍主义教育改革方案（五大支柱）。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, p. 348)]] |
+> | **过度简化机制（Oversimplification）** | [[Discourse\|话语]][[Transfer Translation Transformation\|转译]]机制 | 国际组织为了使知识便于跨国销售与政策套用，将复杂争鸣的学术话语删剪为操作性教条的过程。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, p. 351)]] |
+> | **[[Gatekeepers\|守门人]]群体（Gatekeepers）** | 行动者互动机制 | 在后发国家同时跨界占据本土学术、国家官僚与国际组织顾问多重身份的精英网络，其闭合效应排斥替代性知识。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, p. 353)]] |
+> | [[Recontextualization\|再语境化（Recontextualisation）]]脱节 | 实践遭遇机制 | 抽象通用话语降落到微观教育机构时，因无法兼容本土历史惯习与物质约束而催生的非预期异化后果。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 353–354)]] |
 
 ---
 

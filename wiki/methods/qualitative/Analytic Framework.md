@@ -9,7 +9,7 @@ summary: "质性研究与比较教育研究中超越参与者日常语言、运�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 40
+method_related_count: 48
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -22,6 +22,9 @@ related_concepts:
   - "[[Document]]"
   - "[[Unit of Analysis]]"
   - "[[Champ]]"
+  - "[[Discourse]]"
+  - "[[Space of Flows and Space of Places]]"
+  - "[[Gatekeepers]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
   - "[[Reflexivity]]"
@@ -30,12 +33,14 @@ related_concepts:
   - "[[Literature Search]]"
   - "[[Central Question]]"
   - "[[Causality]]"
+  - "[[Global Educational Discourse]]"
   - "[[Policy Conditionalities]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Organizational Culture]]"
   - "[[State Corporatism]]"
   - "[[Conditioned State Theory]]"
+  - "[[Beech's Model of Discourse Circulation]]"
   - "[[Dependency Theory]]"
   - "[[Social Contract of Science]]"
 related_methods:
@@ -58,17 +63,20 @@ related_methods:
   - "[[Negative Case Analysis]]"
   - "[[Correlational Research]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Basil Bernstein]]"
+  - "[[Jason Beech]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
+  - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Fan_2026_BCAS]]"
   - "[[Argument_Bulfone_2024_IAI]]"
 confidence: high
 status: draft
 created: 2026-06-01
-updated: 2026-10-06
+updated: 2026-10-15
 ---
 
 # Analytic Framework
@@ -84,12 +92,17 @@ updated: 2026-10-06
 > - **研究对象** 访谈实录、观察笔记、历史文献、跨国教育政策文本、制度演化档案与统计指标序列。
 > - **问题类型** 适合回答“为什么会产生某种制度形态”、“行动者的互动如何受制于结构”、“跨情境案例呈现何种结构性机制”等深层机制解释与比较评估问题。
 > - **[[Unit of Analysis|分析单位]]** 个体叙事、组织事件、学校[[Champ|场域]]、国家宏观教育体系或跨国多边治理制度。
-> - **输出形式** 概念维度矩阵、编码分类层级表、因果机制流程图与跨案例比较框架。
+> - **输出形式** 概念维度矩阵、编码分类层级表、因果机制流程图、跨国场域多位置空间矩阵与微观再语境化演进链。
 
-> [!citation-card]- 关键定义
+> [!citation-card] 克雷斯威尔论分析框架的理论超越性
 > 分析框架意味着超越参与者的日常语言，使用特定的‘分析传统’进行解释。它叠加在[[Descriptive Methods|描述性方法]]这一基础方法之上，为质性编码和主题生成提供特定的解释结构。[[Argument_Creswell_2022_SAGE|(Creswell & Creswell, 2022, Ch. 9, p. 196)]]
 >
 > *An analytic framework uses an 'analytic tradition' to guide the analysis... moving beyond the mundane language of participants toward theory-driven interpretations.*
+
+> [!citation-card] 比奇论构建跨国教育[[Discourse|话语]]流通的五位置分析框架
+> 我们需要构建一个跨国空间分析框架，将[[Basil Bernstein|伯恩斯坦]]关于教育话语重构的理论与卡斯特关于[[Space of Flows and Space of Places|流动空间]]的洞见融为一体。该框架区分出全球学术空间、国际组织、国家、本土学术空间与教育机构五大结构位置，用以系统追踪去情境化的普遍话语在跨国流动中的过度简化、[[Gatekeepers|守门人]]垄断与微观再语境化脱节。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 349–351)]]
+>
+> *We propose an analytic framework to conceptualise how educational discourse circulates across different structural positions in the global educational field... linking Bernstein’s insights on recontextualisation with Castells' notion of the space of flows to track how oversimplified global models interact with local institutional realities.*
 
 ---
 
@@ -141,11 +154,12 @@ updated: 2026-10-06
 > [!contrast-table] 质性微观传统与宏观比较分析框架对照（综合自 [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, Ch. 9)]] 及比较教育文献）
 > | 框架类型 | 核心分析操作 | 适用[[Research Question\|研究问题]] | 代表学者与经典来源 |
 > |---|---|---|---|
-> | **[[Narrative Research\|叙事研究]]框架** | 借助情节、场景、转折与高潮等时间结构重述行动者生命史 | 个体职业认同、教育经历的生命史意义建构 | Clandinin & Connelly (2000) |
+> | **[[Narrative Research\|叙事研究]]框架** | 借助情节、场景、转折与高潮等时间结构重述行动者生命史 | 个体职业认同、教育经历的生命史意义建构 | Clandinin and Connelly (2000) |
 > | **[[Phenomenology\|现象学]]框架** | 提取本质意义陈述，组合为意义单元，生成现象本质结构 | 某种教育体验的直观共性、生活世界主观意义 | Moustakas (1994) |
-> | **[[Grounded Theory\|扎根理论]]框架** | [[Open Coding\|开放编码]]生成范畴 ➔ [[Axial Coding\|轴心编码]]建立条件-因果条件矩阵 ➔ [[Selective Coding\|选择性编码]]导出核心范畴 | 缺乏先验理论时的微观机制发现与草根理论生成 | Strauss & Corbin (1998) |
+> | **[[Grounded Theory\|扎根理论]]框架** | [[Open Coding\|开放编码]]生成范畴 ➔ [[Axial Coding\|轴心编码]]建立条件-因果条件矩阵 ➔ [[Selective Coding\|选择性编码]]导出核心范畴 | 缺乏先验理论时的微观机制发现与草根理论生成 | Strauss and Corbin (1998) |
 > | **[[Case Study\|案例研究]]与[[Ethnography\|民族志]]** | 深度情境化[[Rich and Thick Description\|深描]]、场所活动解析与文化主题分类 | 特定[[Organizational Culture\|组织文化]]、特定社群内部的日常生活实践 | Stake (1995); Wolcott (1994) |
-> | **宏观比较政治经济学框架** | 运用资本积累、国家合法性危机、[[State Corporatism\|国家法团主义]]与[[Conditioned State Theory\|受限国家]]四重维度解构教育制度 | 解释发展中国家跨期教育扩张的动力矛盾与依附结构 | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos & Torres (2009, pp. 74–76)]] |
+> | **宏观比较政治经济学框架** | 运用资本积累、国家合法性危机、[[State Corporatism\|国家法团主义]]与[[Conditioned State Theory\|受限国家]]四重维度解构教育制度 | 解释发展中国家跨期教育扩张的动力矛盾与依附结构 | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009, pp. 74–76)]] |
+> | **跨国教育[[Champ\|场域]]与[[Discourse\|话语]]流通框架** | 融合[[Basil Bernstein\|伯恩斯坦]]再语境化场域与卡斯特[[Space of Flows and Space of Places\|流动空间]]，区分全球学术、国际组织、国家、本土学术与学校五大结构位置，追踪话语过度简化、[[Gatekeepers\|守门人]]垄断与实践脱节 | 跨国教育治理标准在全球流动中的意义异化、权力不对称与本土实践遭遇 | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b, pp. 349–355)]] |
 
 ---
 
@@ -177,15 +191,19 @@ updated: 2026-10-06
 > | [[Coding in Qualitative Research]] | 操作技术 | 分析框架通过先验定向编码落实到具体文本分析中。 |
 > | [[Conditioned State Theory]] | 理论 | 为比较教育政治社会学分析框架提供外围依附的核心分析维度。 |
 > | [[State Corporatism]] | 理论 | 为国家控制教育利益集团的制度分析提供框架构件。 |
+> | [[Beech's Model of Discourse Circulation]] | 理论 | 结合[[Basil Bernstein\|伯恩斯坦]]与卡斯特理论构建的五位置分析框架典型理论原型。 |
+> | [[Global Educational Discourse]] | 概念 | 分析框架所追踪与解构的跨国标准化政策[[Discourse\|话语]]对象。 |
+> | [[Jason Beech]] | 人物 | 构建跨国教育[[Champ\|场域]]话语流通分析框架并实证考察拉美制度遭遇的比较教育学者。 |
 
 ---
 
 ## 使用此方法的研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]] — 系统梳理[[Qualitative Research|质性研究]]中五大经典分析框架（叙事、[[Phenomenology|现象学]]、[[Grounded Theory|扎根理论]]、[[Ethnography|民族志]]、[[Case Study|案例研究]]）的特征与操作规范。
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]] — 综合[[Dependency Theory|依附理论]]、历史唯物主义与[[Conditioned State Theory|受限国家理论]]，建构了用于剖析拉美教育扩张与国家政权演变的宏观政治经济学分析框架。
+> [!evidence-grid] [[Correlational Research|相关研究]]索引
+> - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 系统梳理[[Qualitative Research|质性研究]]中五大经典分析框架（叙事、[[Phenomenology|现象学]]、[[Grounded Theory|扎根理论]]、[[Ethnography|民族志]]、[[Case Study|案例研究]]）的特征与操作规范。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 综合[[Dependency Theory|依附理论]]、历史唯物主义与[[Conditioned State Theory|受限国家理论]]，建构了用于剖析拉美教育扩张与国家政权演变的宏观政治经济学分析框架。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 构建涵盖合法性基础、制度与资源支持、自治空间、功能期待与责任结构的五维分析框架，系统考察二战后至 2025 年美国[[Social Contract of Science|科学的社会契约]]在稳定期、再协商期、危机重构期与技术型契约转型期的制度演进。
-> - [[Argument_Bulfone_2024_IAI|Bulfone et al., 2024]] — 提炼产业政策[[Document|文献]]中行动主体、政策目标、资金规模、政策工具与[[Policy Conditionalities|制度化附加条件]]五大核心维度构建分析框架，系统对比美欧半导体产业干预战略。
+> - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 提炼产业政策[[Document|文献]]中行动主体、政策目标、资金规模、政策工具与[[Policy Conditionalities|制度化附加条件]]五大核心维度构建分析框架，系统对比美欧半导体产业干预战略。
+> - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 融合[[Basil Bernstein|伯恩斯坦]]与卡斯特理论构建五位置分析框架，实证剖析国际组织推销普遍模型时引发的拉美[[Gatekeepers|守门人]]垄断与阿根廷课程自主异化（pp. 349–355）。
 
 ---

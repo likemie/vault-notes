@@ -547,6 +547,8 @@ Argument 引用规则：
 
 写入 Markdown 时注意：
 
+- 加粗标记须遵守 CommonMark 边界规则。加粗内容以括号、引号等标点结尾且后接正文时，在结束 `**` 后加空格，如 `**等值性（reliability as equivalence）** 的核心形式`；以标点开头且前接正文时，在开始 `**` 前加空格。`vault_lint.py` 以 `BOLD_DELIMITER_BOUNDARY` 提醒简单加粗片段的边界风险，`--fix` 仅在必要的外侧边界补空格，保留文字与加粗范围。
+
 - HTML 颜色不要写 `#ccc`，改用 `rgb(204,204,204)`。
 - DOI / URL 若含特殊字符，优先放 frontmatter，或用反引号包裹。
 - 不在正文写内联 JS；脚本逻辑放外部文件。

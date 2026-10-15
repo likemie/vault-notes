@@ -2036,6 +2036,42 @@ def check_new_entries_mentioned_in_arguments(paths: List[Path], issues: List[Iss
         )
 
 
+def bold_boundary_insertions(body: str) -> list[int]:
+    """Find simple ** spans whose punctuation boundary prevents CommonMark bold.
+
+    Keep triple/nested emphasis and escaped delimiters out of automatic fixes.
+    Code and comments are masked while preserving source offsets.
+    """
+    scan = mask_markdown_code(body)
+    insertions: set[int] = set()
+    scan = re.sub(r"<!--.*?-->|%%.*?%%", lambda m: re.sub(r"[^\n]", " ", m.group(0)), scan, flags=re.DOTALL)
+
+    def punctuation(char: str) -> bool:
+        return bool(char) and unicodedata.category(char)[0] in "PS"
+
+    def word_side(char: str) -> bool:
+        return bool(char) and not char.isspace() and not punctuation(char)
+
+    for match in re.finditer(r"(?<![\\*])\*\*(?!\*)([^*\n]+?)(?<![\\*])\*\*(?!\*)", scan):
+        content = match.group(1)
+        before = scan[match.start() - 1] if match.start() else ""
+        after = scan[match.end()] if match.end() < len(scan) else ""
+        if punctuation(content[0]) and word_side(before):
+            insertions.add(match.start())
+        if punctuation(content[-1]) and word_side(after):
+            insertions.add(match.end())
+    return sorted(insertions)
+
+
+def fix_bold_boundaries(text: str) -> Tuple[str, int]:
+    _, body, _ = split_frontmatter(text)
+    head = text[:len(text) - len(body)]
+    positions = bold_boundary_insertions(body)
+    for position in reversed(positions):
+        body = body[:position] + " " + body[position:]
+    return head + body, len(positions)
+
+
 def check_markdown_misc(path: Path, text: str, issues: List[Issue]) -> None:
     # Unclosed code fence.
     if text.count("```") % 2 != 0:
@@ -2062,6 +2098,15 @@ def check_markdown_misc(path: Path, text: str, issues: List[Issue]) -> None:
 
     _, body, body_start_line = split_frontmatter(text)
     scan = mask_markdown_code(body)
+
+    for position in bold_boundary_insertions(body):
+        issues.append(Issue(
+            "WARN", rel(path),
+            "bold delimiter touches punctuation inside and prose outside; "
+            "Quartz may display literal **; insert a space outside the delimiter",
+            line=line_of_pos(body, position, body_start_line),
+            code="BOLD_DELIMITER_BOUNDARY",
+        ))
 
     if is_wiki_entry_path(path) and "/arguments/" not in f"/{rel(path)}":
         source_subject_re = re.compile(
@@ -2768,11 +2813,12 @@ def apply_fixes(files: List[Path], argument_citations: Dict[str, Dict[str, Any]]
                 break
         new_text, n2 = fix_summary_quotes(new_text)
         new_text, n3 = fix_axis_callouts(new_text)
+        new_text, n4 = fix_bold_boundaries(new_text)
         if new_text != text:
             path.write_text(new_text, encoding="utf-8")
             changed_files += 1
-            total += n1 + n2 + n3
-            print(f"fixed {n1 + n2 + n3:3d}  {rel(path)}")
+            total += n1 + n2 + n3 + n4
+            print(f"fixed {n1 + n2 + n3 + n4:3d}  {rel(path)}")
     return changed_files, total
 
 

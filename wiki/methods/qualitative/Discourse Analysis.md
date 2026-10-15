@@ -5,7 +5,7 @@ summary: "以日常谈话和文本中的语言使用为研究对象的方法，�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 44
+method_related_count: 45
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -54,6 +54,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31]]"
+  - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Duncan_2025_CI]]"
   - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_Han_Gutierez_2026_IJSE]]"
@@ -179,7 +180,7 @@ updated: 2026-10-15
 
 ## 使用此方法的研究
 
-- [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] 运用跨国比较话语分析解构三大国际组织政策文本中的深层预设同质性，揭示信息时代通用模型对拉美国家政策话语空间的封闭机制。
+- [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] 运用跨国比较[[Discourse|话语]]分析解构三大国际组织政策文本中的深层预设同质性，揭示信息时代通用模型对拉美国家政策话语空间的封闭机制。
 - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|Cohen et al. (2011, Ch. 31)]] 通过课堂会话、Goffman 的机构生活叙事和虚构教师自传示范完整文本的多层解释，区分可核对细节与竞争性读法。
 
 

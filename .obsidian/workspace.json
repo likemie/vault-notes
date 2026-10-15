@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Beech_2009_GlobalGarden.md",
+                "file": "wiki/facts/global/World Bank.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument_Beech_2009_GlobalGarden"
+              "title": "World Bank"
             }
           }
         ],
@@ -290,9 +290,15 @@
   },
   "active": "234d452edd1bdd48",
   "lastOpenFiles": [
-    "wiki/persons/argentina/Jason Beech.md",
+    "wiki/concepts/educational-policy-reform/Learning Crisis.md",
+    "wiki/facts/global/World Bank.md",
+    "wiki/arguments/reports-policy-documents/Argument_WorldBank_2019_Teach.md",
+    "wiki/instruments/observation-tools/Teach Classroom Observation Tool.md",
+    "tests/test_bold_boundaries.py",
     "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Beech_2009_GlobalGarden.md",
+    "wiki/facts/global/UNESCO.md",
     "wiki/methods/qualitative/Classroom Observation.md",
+    "wiki/persons/argentina/Jason Beech.md",
     "wiki/theories/comparative-education/Beech's Model of Discourse Circulation.md",
     "wiki/concepts/comparative-education/Global Educational Discourse.md",
     "books/Cowen(Ed.)_2009_Springer/Ch22_Beech_2009.md",
@@ -305,7 +311,6 @@
     "tests/__pycache__/test_citation_integrity.cpython-313.pyc",
     "tests/test_citation_integrity.py",
     "raw/Teach-Observer-Manual-First-Edition.pdf",
-    "wiki/arguments/reports-policy-documents/Argument_WorldBank_2019_Teach.md",
     "wiki/methods/quantitative/Inter-Rater Reliability.md",
     "wiki/methods/qualitative/Observation Protocol.md",
     "wiki/methods/mixed/Action Research.md",
@@ -319,14 +324,9 @@
     "wiki/instruments/observation-tools/Protocol for Language Arts Teaching Observation.md",
     "wiki/instruments/observation-tools/Framework for Teaching.md",
     "wiki/instruments/observation-tools/Classroom Assessment Scoring System.md",
-    "wiki/concepts/educational-policy-reform/Learning Crisis.md",
     "wiki/methods/qualitative/Time Sampling.md",
-    "wiki/concepts/instruction-pedagogy/Time on Task.md",
-    "wiki/methods/qualitative/Structured Observation.md",
-    "wiki/instruments/observation-tools/Teach Classroom Observation Tool.md",
     "sources/WorldBank_2019_Teach/figures/WorldBank_2019_Teach_Fig1_Teach_Framework.jpg",
     "sources/WorldBank_2019_Teach/figures",
-    "sources/WorldBank_2019_Teach/WorldBank_2019_Teach.pdf",
     "page19_img.jpg",
     "teach_framework.jpg",
     "sources/Kickert_1995_Governance/figures/Kickert_1995_Governance_Fig1_Development_of_Steering.jpg",

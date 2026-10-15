@@ -85,7 +85,7 @@ title: "Argument_Beech_2009_CE"
 argument_key: "Argument_Beech_2009_CE"
 argument_display_title: "Policy spaces, mobile discourses, and the definition of educated identities"
 argument_kind: "journal-article"
-argument_related_count: 49
+argument_related_count: 50
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -432,7 +432,7 @@ Castells 据此区分了两种空间逻辑：
 > 
 > 在这种极端贫困和排斥的现实语境下，中产阶级教师在学校日常面对的“多样性”压倒性地表现为学生及其家庭在社会、经济和文化层面的悲惨境遇，而非种族或文化多样性(Dussel & Southwell, 2004)。
 > 
-> 因此，“尊重多样性”的全球口号在学校日常实践中被实际转译为了**“尊重贫困”**。这使得教师倾向于消极接受和同情学生的贫困处境，放弃了在学术标准上挑战他们，甚至默许了这种结构性不平等的再生产。这在实践中产生了解构改革意图的有害负面效果(pp.360–361)。
+> 因此，“尊重多样性”的全球口号在学校日常实践中被实际转译为了 **“尊重贫困”**。这使得教师倾向于消极接受和同情学生的贫困处境，放弃了在学术标准上挑战他们，甚至默许了这种结构性不平等的再生产。这在实践中产生了解构改革意图的有害负面效果(pp.360–361)。
 
 ---
 
