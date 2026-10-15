@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Recontextualization",
+      "path": "wiki/concepts/comparative-education/Recontextualization.md"
+    },
+    {
+      "basename": "Analytic Framework",
+      "path": "wiki/methods/qualitative/Analytic Framework.md"
+    },
+    {
+      "basename": "Vertical Disintegration",
+      "path": "wiki/concepts/political-economy-geopolitics/Vertical Disintegration.md"
+    },
+    {
       "basename": "Argument_Kalmendal_2025_PsyArXiv",
       "path": "wiki/arguments/journal-articles/PsyArXiv/Argument_Kalmendal_2025_PsyArXiv.md"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "EU",
       "path": "wiki/facts/eu/EU.md"
-    },
-    {
-      "basename": "Recontextualization",
-      "path": "wiki/concepts/comparative-education/Recontextualization.md"
     },
     {
       "basename": "Michael Sadler",
@@ -185,20 +193,12 @@
       "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31.md"
     },
     {
-      "basename": "Vertical Disintegration",
-      "path": "wiki/concepts/political-economy-geopolitics/Vertical Disintegration.md"
-    },
-    {
       "basename": "1986 U.S.-Japan Semiconductor Trade Agreement",
       "path": "wiki/facts/us/1986 U.S.-Japan Semiconductor Trade Agreement.md"
     },
     {
       "basename": "Sematech",
       "path": "wiki/facts/us/Sematech.md"
-    },
-    {
-      "basename": "Alvey Programme",
-      "path": "wiki/facts/uk/Alvey Programme.md"
     }
   ],
   "omittedPaths": [],

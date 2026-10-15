@@ -1,6 +1,7 @@
 ---
 citation: "Kalmendal, A., Dietrichson, J., Håkansson, J., Edyburn, D., Nordström, T., & Carlsson, R. (2025). Visible flaws: A comprehensive quality assessment of Visible Learning. PsyArXiv. https://doi.org/10.31234/osf.io/7g8p6_v1"
-extracted_to: []
+extracted_to:
+  - "[[Argument_Kalmendal_2025_PsyArXiv]]"
 processed_date: 2026-10-16
 ---
 
