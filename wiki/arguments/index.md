@@ -261,7 +261,7 @@ Total entries: **355**
 > - [[Argument_Runco_2026_CRJ]] — 运用二阶元分析与稳健方差估计综合52项一阶元分析，发现创造力作为预测变量时的效应量显著高于作为结果变量，教育干预具备中等关联。
 
 > [!index-list]- Critical Education (1)
-> - [[Argument_Johnson_2023_CE]] — 从方法论不透明、新泰勒主义教师监控、新自由主义商业化、Cargo Cult Science 四角度对 VL 的系统批判
+> - [[Argument_Johnson_2023_CE]] — 从方法论不透明与简单算术平均、新泰勒制全景监控与教师去专业化、新自由主义商业利益旋转门与班级规模紧缩政策、以及缺乏可错论诚意的货物崇拜科学四个维度，对 John Hattie 及其 Visible Learning 商业帝国展开系统解构与意识形态批判。
 
 > [!index-list]- Current Psychology (1)
 > - [[Argument_Gungor_2026_CP]] — 基于15项一阶元分析与403项原始研究开展二阶元分析，证实合作学习对学业成就、高阶思维与情感行为具有稳健中等促进效应，并揭示教学技术、学科领域与实验设计的显著调节作用

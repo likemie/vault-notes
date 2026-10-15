@@ -8,7 +8,7 @@ summary: "英国当代社会学家与社会理论家，系统提出结构化理�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 42
+person_related_count: 41
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"

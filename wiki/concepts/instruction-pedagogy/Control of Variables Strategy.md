@@ -8,7 +8,7 @@ aliases:
 summary: "科学探究与实验设计中的核心过程技能，指在检验因果假设时仅系统改变一个焦点自变量并保持其他所有潜在混杂变量恒定，以确立无混淆因果推论。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -177,4 +177,4 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - **[[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]** 引用 Schwichow 等（2016）的元分析反驳 [[Argument_Zhang_2022_SE|Zhang et al. (2022)]]：[[Variable\|变量]]控制策略的习得中，显性讲授（g = 0.58）与[[Inquiry-Based Learning\|探究式教学]]（g = 0.65）效果相当。
+> - **[[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]** 引用 Schwichow 等（2016）的[[Meta-analysis|元分析]]反驳 [[Argument_Zhang_2022_SE|Zhang et al. (2022)]]：[[Variable\|变量]]控制策略的习得中，显性讲授（g = 0.58）与[[Inquiry-Based Learning\|探究式教学]]（g = 0.65）效果相当。
