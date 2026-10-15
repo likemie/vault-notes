@@ -47,6 +47,7 @@ related_concepts:
   - "[[Development Education]]"
   - "[[Epistemic Stances]]"
   - "[[Return on Investment]]"
+  - "[[Effective Teaching]]"
   - "[[Disciplina and Doctrina]]"
   - "[[School Autonomy]]"
   - "[[Epistemology]]"
@@ -70,7 +71,6 @@ related_persons:
   - "[[Manuel Castells]]"
   - "[[Michael Sadler]]"
   - "[[Marc-Antoine Jullien]]"
-  - "[[Horace Mann]]"
   - "[[Jean-François Lyotard]]"
   - "[[Robert Cowen]]"
   - "[[Stephen Ball]]"
@@ -193,7 +193,7 @@ issuing_organization: ""
 
 #### 1. 危机驱动的国家教育借用由来已久，但传统借用始终由主权国家特派官员垄断
 
-在比较教育学科史上，跨国经验借鉴往往在国家遭遇内部重大发展危机时被推向高潮。尽管[[Michael Sadler|萨德勒]]早在 1900 年便提出著名的花园漫步警告，但历代改革者仍频繁借助外来方案寻求危机突破（Sadler, 1979: 49；pp. 341–342）。从[[Marc-Antoine Jullien|朱利安]]、库赞、[[Horace Mann|曼]]、托尔斯泰到萨米恩托，先驱者们始终致力于考察普鲁士与法国等典范制度以克服本土危机，这一传统在近代日本与战后美国的危机应对中表现得尤为典型（Cowen, 2006；pp. 341–342）。
+在比较教育学科史上，跨国经验借鉴往往在国家遭遇内部重大发展危机时被推向高潮。尽管[[Michael Sadler|萨德勒]]早在 1900 年便提出著名的花园漫步警告，但历代改革者仍频繁借助外来方案寻求危机突破（Sadler, 1979: 49；pp. 341–342）。从[[Marc-Antoine Jullien|朱利安]]、库赞、曼、托尔斯泰到萨米恩托，先驱者们始终致力于考察普鲁士与法国等典范制度以克服本土危机，这一传统在近代日本与战后美国的危机应对中表现得尤为典型（Cowen, 2006；pp. 341–342）。
 
 > [!row-contrast] 危机驱动型国家教育借用的历史案例对比
 > | 历史维度与比较指标 | 日本明治维新黑船来航借用案例（1850s–1870s） | 美国发射人造卫星危机借用案例（1957–1970s） |
@@ -251,7 +251,7 @@ issuing_organization: ""
 > [!tension-table] 三大国际组织的教育使命、[[Epistemic Stances|认识论立场]]与政治博弈
 > | 国际机构 | 核心认识论立场 | 发展哲学与关键工具 | 典型政策修辞与地缘政治博弈焦点 |
 > |---|---|---|---|
-> | **[[World Bank\|世界银行]]（WB）** | 绝对[[Human Capital Theory\|人力资本理论]]（Human Capital Theory, HCT）主导，自称在广度与严谨性上无可匹敌（1995: 21；p. 347） | 将教育全面工具化为经济增长引擎；以经受三十余年检验的[[Return on Investment\|社会投资回报]]率与成本效益核算为最高评判准绳 | 将教材、黑板与粉笔定为最有效教学物资；将教师薪酬视为削减成本之主要障碍（Carnoy, 1999）；实证宣称若 1960 年韩国入学率同巴基斯坦一样低，其 1985 年人均国内生产总值（Gross Domestic Product, GDP）将萎缩 40%（pp. 346–347） |
+> | **[[World Bank\|世界银行]]（WB）** | 绝对[[Human Capital Theory\|人力资本理论]]（Human Capital Theory, HCT）主导，自称在广度与严谨性上无可匹敌（1995: 21；p. 347） | 将教育全面工具化为经济增长引擎；以经受三十余年检验的[[Return on Investment\|社会投资回报]]率与成本效益核算为最高评判准绳 | 将教材、黑板与粉笔定为最[[Effective Teaching\|有效教学]]物资；将教师薪酬视为削减成本之主要障碍（Carnoy, 1999）；实证宣称若 1960 年韩国入学率同巴基斯坦一样低，其 1985 年人均国内生产总值（Gross Domestic Product, GDP）将萎缩 40%（pp. 346–347） |
 > | **[[UNESCO\|联合国教科文组织]]（UNESCO）** | 崇高的人本主义立场（Mayor et al., 1997；p. 347） | 坚决反对将人降格为人力资本与生产工具，强调人是发展的终极目的而非经济手段；旨在促进人的全面发展、尊严、和平、宽容与人权 | 菲利普·琼斯（Phillip Jones）与戴维·科尔曼（David Coleman, 2005）揭露 1996 年德洛尔报告《学习：内在的财富》实质是 UNESCO 在北面遭受 OECD 侵蚀、南面遭受世行挤压的领导地位危机中，为重塑政治合法性展开的公开舆论反击（pp. 347–348） |
 > | **[[OECD\|经济合作与发展组织]]（OECD）** | 混合型新自由主义经济视角（Papadopoulos, 1994；p. 347） | 虽以经济增长为重心，但主张该主导地位必须受到社会维度与人类福祉的适度平衡与规约 | 放弃指令性强制，通过破译新兴趋势、开展同行评议与制定指标体系确立国际游戏规则，软性引导成员国采纳有效政策 |
 

@@ -42,6 +42,7 @@ related_concepts:
   - "[[Educational Decentralization]]"
   - "[[Policy Conditionalities]]"
   - "[[Engineering Education]]"
+  - "[[Development Education]]"
   - "[[Performance Indicators]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Knowledge Bank]]"
@@ -52,7 +53,6 @@ related_concepts:
   - "[[Going Native]]"
   - "[[Refined Mastery]]"
   - "[[Document]]"
-  - "[[Development Education]]"
   - "[[Causality]]"
   - "[[Paradigm]]"
   - "[[Structural Adjustment Programs]]"
@@ -62,9 +62,14 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Constructivist Paradigm]]"
   - "[[Critical Thinking]]"
+  - "[[Epistemology]]"
+  - "[[Champ]]"
+  - "[[School Autonomy]]"
   - "[[Social Imaginary]]"
   - "[[Soft Power by Hard Facts]]"
   - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Global Educational Discourse]]"
+  - "[[Gatekeepers]]"
   - "[[State Educational Sovereignty]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -73,13 +78,13 @@ related_theories:
   - "[[Conditioned State Theory]]"
   - "[[World-Systems Theory]]"
   - "[[Systems of Innovation]]"
+  - "[[Beech's Model of Discourse Circulation]]"
 related_methods:
   - "[[Cost-Benefit Analysis]]"
   - "[[Classroom Observation]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Difference-in-Differences]]"
   - "[[Comparative Case Study]]"
-  - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
   - "[[Discourse Analysis]]"
 related_instruments:
@@ -88,11 +93,13 @@ related_persons:
   - "[[George Psacharopoulos]]"
   - "[[Robert Arnove]]"
   - "[[Chris Freeman]]"
+  - "[[Martin Carnoy]]"
   - "[[Claudio de Moura Castro]]"
   - "[[Stephen P. Heyneman]]"
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
   - "[[Rainer Kattel]]"
+  - "[[Jason Beech]]"
 related_facts:
   - "[[UNESCO]]"
   - "[[OECD]]"
@@ -117,6 +124,7 @@ related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
   - "[[Argument_Castro_2009_MultilateralBanks]]"
+  - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Freeman_1995_CJE]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_WorldBank_2019_Teach]]"
@@ -148,8 +156,8 @@ updated: 2026-10-15
 > [!dev-timeline] 组织发展历程
 > - **1944–1968 — 砖瓦基建与[[UNESCO|教科文组织]]早期依附期** 初期旨在资助二战战后欧洲物理基建重建，不涉足教育社会事业；转入全球南方后初期严守“砖瓦与设备”（Brick and Mortar）模式，将教育视作消费性开支排除在主权借贷之外；直至 1962 年向突尼斯发放首笔中等技术教育贷款，并于 1964 年与教科文组织（UNESCO）签署《合作协定》（Co-operative Agreement），依靠 UNESCO 的专业团队物色与评估借贷国教育项目，初步敲开全球南方的教育大门，业务严格限定于校舍建造与实验室器材采购，极少干预借款国内部行政体制。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]; [[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 464)]]
 > - **1968–1981 — 麦克纳马拉改革与教育研究帝国奠基期** 罗伯特·麦克纳马拉（Robert McNamara）执掌世行，将教育确立为反贫困的核心生产性支柱；聘请著名教育经济学家[[George Psacharopoulos|乔治·萨卡罗普洛斯]]（George Psacharopoulos）等组建中央研究团队，开创覆盖全球的[[Return on Investment|教育投资回报率]]（RORE）实证计量传统；1980 年 4 月正式发表里程碑式《教育部门政策文件》，单方面终结对教科文组织的依赖，确立完全独立的教育政策研究与借贷体系。[[Argument_Steiner-Khamsi_2024_CE|(Psacharopoulos, 1981; Steiner-Khamsi et al., 2024, pp. 541–542)]]
-> - **1981–1999 — 结构调整贷款、[[Disciplina and Doctrina|规训]]性多边主义与[[National Innovation System|国家创新系统]]滞后** [[International Education|国际教育]]多边主义经历重大转向，战后教科文组织倡导的“有限再分配多边主义”衰落，世界银行主导的“防卫性与规训性多边主义”确立（Mundy, 1998; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, p. 110]]）。世行将[[Washington Consensus|华盛顿共识]][[Operationalization|操作化]]为以循证检验、成本核算、极致量化、效率优先、能力择优、市场竞争、物质激励、取消补贴与私有化为轴心的九大放贷审查准则（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, p. 460]]）；推行结构调整计划，将削减公共开支、用户付费与基础[[Educational Decentralization|教育分权]]作为[[Policy Conditionalities|贷款附加条件]]。然而在 1980 年代激进强推附加条件的过程中，世行遭遇借款国强烈的本土政治抵制与官僚消极应对，导致多达三分之一的教育借贷项目陷入停摆与低效危机（“赶猫式”失败），迫使世行深刻认识到外部银行无法以蛮力强推深层体制重组（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, pp. 465–466]]）。同时，世行政策议程呈现剧烈的“教育时尚周期”律动：自 1960 年代积极资助高等教育后，骤然推行长达十余年的高等教育借贷禁令，将资金完全单一倾斜于基础教育，给发展中国家高阶人才培养造成结构性断层（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, pp. 473–474]]）。[[Robert Arnove|阿诺夫]]（Arnove, 1980, 2009）深刻指出，世行推行的教育革新实质上固化了既有的中心-边缘与国内阶层分层体系（pp. 105–106）。[[Chris Freeman|克里斯·弗里曼]]（Chris Freeman, 1995）进一步从[[Evolutionary Economics|演化经济学]]考察指出，1980 年代世界银行与[[International Monetary Fund|国际货币基金组织]]强推的紧缩与外债偿付方案重创了拉美（如巴西）的[[National Innovation System|国家创新系统]]，迫使政府削减高校科研与[[Engineering Education|工程教育]]投资，导致其与东亚新兴工业化经济体（如韩国）依靠自主研发与教育扩张的高速赶超拉开了致命差距。至 1995 年，世行已成为南方国家最大的单一外部教育资助来源；然而比奇（Beech, 2009, pp. 345–347）指出其背后的深刻悖论：世行贷款实际上仅占发展中国家教育总开支的 0.5%；资金占比极小却伴随着全方位的体制干预，促使其在 1995 年《教育优先与战略》报告中自称其研究在“广度与严谨性上无可匹敌”（World Bank, 1995: 21），将三十余年的教育投资回报率与成本效益核算确立为最高评判准绳。马丁·卡诺伊（Martin Carnoy, 1999）揭示，世行成本效益模型将教材、黑板与粉笔定为最划算教学物资，而将教师薪酬视作削减成本的核心障碍；并以“若 1960 年韩国入学率同巴基斯坦一样低，其 1985 年人均国内生产总值将萎缩 40%”等极具震撼力的宏观计量推论作为修辞武器（Beech, 2009, pp. 346–347）。1997 年联合 [[OECD|经合组织]]与 [[UNESCO|联合国教科文组织]] 发起“世界[[Performance Indicators|教育指标]]”（[[World Education Indicators]], WEI）项目，将量化指标方法学推广至非成员转型经济体；在 OECD 1996 年发布《以知识为基础的经济》后迅速跟进拥抱[[Knowledge-Based Economy|知识经济]]概念并发布系列专题报告。1999 年世行联合引入《[[Poverty Reduction Strategy Papers|减贫战略文件]]》（PRSPs），将[[Performance Indicators|教育指标]]纳为国家宏观多边信用评级的刚性杠杆。[[Argument_Steiner-Khamsi_2024_CE|(Elfert & Ydesen, 2023; Steiner-Khamsi et al., 2024, p. 542)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–107, 110)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 13–15)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–445)]]
-> - **1999–2018 — [[Knowledge Bank|知识银行]]转型、[[Shadow State|影子国家]]外包与买方市场危机** 沃尔芬森（James Wolfensohn）主导世行转型为“知识银行”（Knowledge Bank，1996 年正式宣布）。正如比奇（Beech, 2009, pp. 345–346）所剖析的，转型为知识银行意味着借款国在获得有限资金的同时，实质上被迫成套借入了由西方技术官僚量身打造的整套教育制度愿景（涵盖分权、学校自主、教师专业化、能力本位与中央测评五大支柱）；然而圈内实务证明该设想若试图脱离贷款而独立运转则严重脱离现实：借贷国之所以重视世行政策建议，根本原因在于其背后捆绑的巨额主权贷款杠杆，若缺乏资金诱惑，纯政策咨询便会重蹈教科文组织的无效覆辙（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, pp. 472–473]]）。虽于 1999 年创设[[Global Development Network|全球发展网络]]（GDN）探索本土去中心化[[Knowledge Production|知识生产]]，但迅速被华盛顿总部集权的工具所取代；2011 年推出[[Systems Approach for Better Education Results|改善教育成果系统分析法]]（SABER），联合英美双边援助机构组建[[Building Evidence in Education|构建教育证据联盟]]（BE2），确立自指性政策仓库。在公共服务提供上，世行日益绕过受援国政府直接委托非政府组织提供教育，架空了国家公共权威，使 NGO 蜕变为去政治化的“[[Shadow State|影子国家]]”（Sutton & Arnove, 2004; Kamat, 2004; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 111–112]]）。进入 21 世纪，随着拉美与亚洲中等收入国家主权信用等级提升并可直接在国际私人资本市场低成本融资，世行面临从“卖方市场”向“买方市场”的深刻业务缩水危机，迫使其重构金融工具，推出基于成果的框架贷款（PforR）与分步递进式信贷以降低借贷国官僚合规交易成本（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, pp. 475–476]]）。[[Argument_Steiner-Khamsi_2024_CE|(Stone, 2000; Steiner-Khamsi et al., 2024, pp. 543, 545, 548)]]
+> - **1981–1999 — 结构调整贷款、[[Disciplina and Doctrina|规训]]性多边主义与[[National Innovation System|国家创新系统]]滞后** [[International Education|国际教育]]多边主义经历重大转向，战后教科文组织倡导的“有限再分配多边主义”衰落，世界银行主导的“防卫性与规训性多边主义”确立（Mundy, 1998; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, p. 110]]）。世行将[[Washington Consensus|华盛顿共识]][[Operationalization|操作化]]为以循证检验、成本核算、极致量化、效率优先、能力择优、市场竞争、物质激励、取消补贴与私有化为轴心的九大放贷审查准则（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, p. 460]]）；推行结构调整计划，将削减公共开支、用户付费与基础[[Educational Decentralization|教育分权]]作为[[Policy Conditionalities|贷款附加条件]]。然而在 1980 年代激进强推附加条件的过程中，世行遭遇借款国强烈的本土政治抵制与官僚消极应对，导致多达三分之一的教育借贷项目陷入停摆与低效危机（“赶猫式”失败），迫使世行深刻认识到外部银行无法以蛮力强推深层体制重组（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, pp. 465–466]]）。同时，世行政策议程呈现剧烈的“教育时尚周期”律动：自 1960 年代积极资助高等教育后，骤然推行长达十余年的高等教育借贷禁令，将资金完全单一倾斜于基础教育，给发展中国家高阶人才培养造成结构性断层（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, pp. 473–474]]）。[[Robert Arnove|阿诺夫]]（Arnove, 1980, 2009）深刻指出，世行推行的教育革新实质上固化了既有的中心-边缘与国内阶层分层体系（pp. 105–106）。[[Chris Freeman|克里斯·弗里曼]]（Chris Freeman, 1995）进一步从[[Evolutionary Economics|演化经济学]]考察指出，1980 年代世界银行与[[International Monetary Fund|国际货币基金组织]]强推的紧缩与外债偿付方案重创了拉美（如巴西）的[[National Innovation System|国家创新系统]]，迫使政府削减高校科研与[[Engineering Education|工程教育]]投资，导致其与东亚新兴工业化经济体（如韩国）依靠自主研发与教育扩张的高速赶超拉开了致命差距。至 1995 年，世行已成为南方国家最大的单一外部教育资助来源；然而比奇（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, pp. 345–347]]）指出其背后的深刻悖论：世行贷款实际上仅占[[Development Education|发展中国家教育]]总开支的 0.5%；资金占比极小却伴随着全方位的体制干预，促使其在 1995 年《教育优先与战略》报告中自称其研究在“广度与严谨性上无可匹敌”（World Bank, 1995: 21），将三十余年的教育投资回报率与成本效益核算确立为最高评判准绳。[[Martin Carnoy|马丁·卡诺伊]]（Martin Carnoy, 1999）揭示，世行成本效益模型将教材、黑板与粉笔定为最划算教学物资，而将教师薪酬视作削减成本的核心障碍；并以“若 1960 年韩国入学率同巴基斯坦一样低，其 1985 年人均国内生产总值将萎缩 40%”等极具震撼力的宏观计量推论作为修辞武器（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, pp. 346–347]]）。1997 年联合 [[OECD|经合组织]]与 [[UNESCO|联合国教科文组织]] 发起“世界[[Performance Indicators|教育指标]]”（[[World Education Indicators]], WEI）项目，将量化指标方法学推广至非成员转型经济体；在 OECD 1996 年发布《以知识为基础的经济》后迅速跟进拥抱[[Knowledge-Based Economy|知识经济]]概念并发布系列专题报告。1999 年世行联合引入《[[Poverty Reduction Strategy Papers|减贫战略文件]]》（PRSPs），将[[Performance Indicators|教育指标]]纳为国家宏观多边信用评级的刚性杠杆。[[Argument_Steiner-Khamsi_2024_CE|(Elfert & Ydesen, 2023; Steiner-Khamsi et al., 2024, p. 542)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–107, 110)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 13–15)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–445)]]
+> - **1999–2018 — [[Knowledge Bank|知识银行]]转型、[[Shadow State|影子国家]]外包与买方市场危机** 沃尔芬森（James Wolfensohn）主导世行转型为“知识银行”（Knowledge Bank，1996 年正式宣布）。正如比奇（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, pp. 345–346]]）所剖析的，转型为知识银行意味着借款国在获得有限资金的同时，实质上被迫成套借入了由西方技术官僚量身打造的整套教育制度愿景（涵盖分权、学校自主、教师专业化、能力本位与中央测评五大支柱）；然而圈内实务证明该设想若试图脱离贷款而独立运转则严重脱离现实：借贷国之所以重视世行政策建议，根本原因在于其背后捆绑的巨额主权贷款杠杆，若缺乏资金诱惑，纯政策咨询便会重蹈教科文组织的无效覆辙（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, pp. 472–473]]）。虽于 1999 年创设[[Global Development Network|全球发展网络]]（GDN）探索本土去中心化[[Knowledge Production|知识生产]]，但迅速被华盛顿总部集权的工具所取代；2011 年推出[[Systems Approach for Better Education Results|改善教育成果系统分析法]]（SABER），联合英美双边援助机构组建[[Building Evidence in Education|构建教育证据联盟]]（BE2），确立自指性政策仓库。在公共服务提供上，世行日益绕过受援国政府直接委托非政府组织提供教育，架空了国家公共权威，使 NGO 蜕变为去政治化的“[[Shadow State|影子国家]]”（Sutton & Arnove, 2004; Kamat, 2004; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 111–112]]）。进入 21 世纪，随着拉美与亚洲中等收入国家主权信用等级提升并可直接在国际私人资本市场低成本融资，世行面临从“卖方市场”向“买方市场”的深刻业务缩水危机，迫使其重构金融工具，推出基于成果的框架贷款（PforR）与分步递进式信贷以降低借贷国官僚合规交易成本（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, pp. 475–476]]）。[[Argument_Steiner-Khamsi_2024_CE|(Stone, 2000; Steiner-Khamsi et al., 2024, pp. 543, 545, 548)]]
 > - **2018–至今 — [[Learning Crisis|学习危机]]诊断、微观课堂实践转向与开源公共品体系** 2018 年世界银行发布首部完全聚焦教育的《世界发展报告：学习以实现教育的承诺》（WDR 2018），正式确立“全球学习危机”（Global Learning Crisis）政策议程，指出发展中国家数以亿计儿童在校却缺乏基本读写算技能，并联合[[UNESCO Institute for Statistics|联合国教科文组织统计研究所]]（UIS）提出“学习贫困”（Learning Poverty）指标。面对宏观制度改革与微观课堂教学脱节的长期痼疾，世行教育业务经历向微观教学实践的关键转向；2019 年正式推出面向发展中国家小学课堂的标准化微观观察工具《Teach [[Classroom Observation|课堂观察]]工具》（Teach Observer Manual），并配套开发在职教师针对性辅导规程 Coach，将全球教育治理的介入触角直接延伸至教室内部，构建起衡量课堂时间利用、教学质量与社会情感技能培养的开源公共品体系。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 2–6)]]
 
 ---
@@ -281,13 +289,13 @@ updated: 2026-10-15
 > > - **批判比较教育与本土实践研究视角** 质疑源自认知心理学与[[Constructivist Paradigm|建构主义]]的师生互动量规（如自主权、[[Critical Thinking|批判性思维]]与肯定性反馈）直接套用于每班 60–100 人的极度拥挤课堂和权威型传统文化生态时可能产生适应不良，若被地方教育行政异化为高利害绩效问责工具，可能加剧一线教师的形式主义合规负担。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 4–5)]]
 >
 > > [!axis] 0.5% 资金杠杆的超额治理与制度愿景借贷悖论：边际资金 vs 全盘制度输出
-> > 批判政治经济学解构世界银行极小比例的资金援助如何演变为对借贷国宏观体制与认识论空间的系统性主导。
+> > 批判政治经济学解构世界银行极小比例的资金援助如何演变为对借贷国宏观体制与[[Epistemology|认识论]]空间的系统性主导。
 > >
-> > - **批判政治经济学与语篇场域视角（[[Jason Beech|比奇]]与卡诺伊）** 比奇指出，截至 1995 年世行虽是南方国家最大单一外部教育资金源，其实际资金供给仅占发展中国家教育总开支的 0.5%；然而世行却通过 1996 年“知识银行”转型，实现了“借入边际资金等于借入整套西方教育制度愿景”的超额治理效应。马丁·卡诺伊（Carnoy, 1999）进一步批评世行纯粹的成本效益模型：将黑板、粉笔与教材判定为最划算的投入，而将教师薪酬定性为削减办学成本的核心障碍，不仅压抑了教师队伍建设，更通过[[Global Educational Discourse|五大支柱模型]]（分权、自主、能力本位、评估等）全面贬低受援国本土的百科全书式知识传统。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009, pp. 345–349)]]
+> > - **批判政治经济学与语篇[[Champ|场域]]视角（比奇与卡诺伊）** 比奇指出，截至 1995 年世行虽是南方国家最大单一外部教育资金源，其实际资金供给仅占发展中国家教育总开支的 0.5%；然而世行却通过 1996 年“[[Knowledge Bank|知识银行]]”转型，实现了“借入边际资金等于借入整套西方教育制度愿景”的超额治理效应。[[Martin Carnoy|马丁·卡诺伊]]（Carnoy, 1999）进一步批评世行纯粹的成本效益模型：将黑板、粉笔与教材判定为最划算的投入，而将教师薪酬定性为削减办学成本的核心障碍，不仅压抑了教师队伍建设，更通过五大支柱模型（分权、自主、能力本位、评估等）全面贬低受援国本土的百科全书式知识传统。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 345–349)]]
 > > - **世界银行政策立场** 辩称 0.5% 的公共资金并非要替代主权国家的教育预算，而是发挥战略性“催化剂”（catalytic）效能；知识银行旨在将经受全球实证检验的最佳实践组合与循证量规输送给缺乏独立研发能力的借贷国，以防宝贵的公共教育资源在低效体制中被持续浪费。
 >
 > > [!citation-card] 卡诺伊与比奇论世行成本效益模型与知识银行的制度愿景借贷
-> > 比奇（Beech, 2009）与卡诺伊（Carnoy, 1999）指出，世界银行在 1995 年宣称其教育研究在广度与严谨性上无可匹敌，确立了成本效益分析与投资回报率的最高统治地位。然而其贷款资金仅占南方国家教育总支出的 0.5%，转型为“知识银行”实质上迫使借款国在获得微量贷款的同时，必须成套借入西方设计的分权化、学校自主权与能力本位等制度愿景；卡诺伊进一步揭示，在该模型下，教材与黑板被定为最划算教学物资，而教师薪酬却被视作削减成本的主要障碍。[[Argument_Beech_2009_GlobalGarden|(World Bank, 1995; Carnoy, 1999, cited in Beech, 2009, pp. 345–347)]]
+> > 比奇（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）与卡诺伊（Carnoy, 1999）指出，世界银行在 1995 年宣称其教育研究在广度与严谨性上无可匹敌，确立了成本效益分析与[[Return on Investment|投资回报率]]的最高统治地位。然而其贷款资金仅占南方国家教育总支出的 0.5%，转型为“知识银行”实质上迫使借款国在获得微量贷款的同时，必须成套借入西方设计的分权化、[[School Autonomy|学校自主权]]与能力本位等制度愿景；卡诺伊进一步揭示，在该模型下，教材与黑板被定为最划算教学物资，而教师薪酬却被视作削减成本的主要障碍。[[Argument_Beech_2009_GlobalGarden|(World Bank, 1995; Carnoy, 1999, cited in Beech, 2009b, pp. 345–347)]]
 > >
 > > *The Bank's education loans represented only 0.5% of total educational spending in developing countries. Its 1996 reinvention as a Knowledge Bank meant borrower countries were de facto borrowing an entire institutional vision of education. Carnoy (1999) noted that the Bank's cost-effectiveness logic viewed textbooks and blackboards as optimal inputs while framing teacher salaries as the chief obstacle to cost reduction.*
 
@@ -340,16 +348,20 @@ updated: 2026-10-15
 > | [[National Innovation System]] | 概念 | 世行结构调整与紧缩政策所严重侵蚀的发展中国家科技与工程自主能力母体。 |
 > | [[Chris Freeman]] | 人物 | [[Evolutionary Economics\|演化经济学]]家；实证对比世行受援国（如巴西）与东亚国家[[Systems of Innovation\|创新系统]]演进分化的代表学者。 |
 > | [[Teach Classroom Observation Tool\|Teach 课堂观察工具]] | 工具 | 世界银行 2019 年研制发布的面向发展中国家小学课堂的标准化微观观察工具。[[Argument_WorldBank_2019_Teach\|(World Bank Group, 2019, pp. 2–6)]] |
+> | [[Global Educational Discourse]] | 概念 | 世界银行与经合组织、教科文组织深度参与建构并捆绑推销的“信息时代”五大支柱全球标准化模型。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 348–349)]] |
+> | [[Beech's Model of Discourse Circulation]] | 理论 | 比奇构建的五位置流通模型，揭示世界银行受紧迫实用主义驱动过度简化知识并依托拉美守门人垄断话语。[[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 350–353)]] |
+> | [[Jason Beech]] | 人物 | 比较教育学者；实证剖析世行“知识银行”制度愿景借贷、成本效益修辞与拉美[[Gatekeepers\|守门人]]网络的代表学者。 |
 
 ---
 
 ## 相关研究
 
-> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> [!evidence-grid] [[Document|文献]]与论证索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 运用[[World-Systems Theory|世界体系分析]]透视世界银行等机构的教育援助政策，揭示其防卫性[[Disciplina and Doctrina|规训]]、固化国际分层以及扶植去政治化“[[Shadow State|影子国家]]”的政治经济学后果（pp. 105–107, 110–112）。
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres (2009)]] — 建立[[Conditioned State Theory|受限国家理论]][[Analytic Framework|分析框架]]，解构世界银行[[Financial-Intellectual Complex|金融-智识复合体]]通过结构调整与指标杠杆对第三世界[[State Educational Sovereignty|国家教育主权]]的深度规训（pp. 80–85）。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 建立[[Conditioned State Theory|受限国家理论]][[Analytic Framework|分析框架]]，解构世界银行[[Financial-Intellectual Complex|金融-智识复合体]]通过结构调整与指标杠杆对第三世界[[State Educational Sovereignty|国家教育主权]]的深度规训（pp. 80–85）。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 运用[[World Education Reform Database|世界教育改革数据库]]实证检验世界银行的自指性[[Policy Brokerage|政策中介]]机制，详述其从 [[UNESCO]] 依附期到回报率帝国与[[Knowledge Bank|知识银行]]演变的全过程（pp. 540–550）。
 > - [[Argument_Freeman_1995_CJE|Freeman (1995)]] — 运用历史比较与统计分析，揭示 1980 年代受世界银行与外债危机约束的拉美经济体（如巴西）在教育投入与产业研发上的体制停滞，对照东亚自主型[[National Innovation System|国家创新系统]]的高速赶超，从[[Evolutionary Economics|演化经济学]]维度实证反思[[Structural Adjustment Programs|结构调整方案]]的负面制度锁定（pp. 13–15）。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 运用批判政策[[Discourse Analysis|话语分析]]透视世界银行与[[OECD|经合组织]]、教科文组织的“世界[[Performance Indicators|教育指标]]”（[[World Education Indicators|WEI]]）合作，揭示其如何以技术化指标包装新自由主义经济预设，并跟进[[Knowledge-Based Economy|知识经济]]政策[[Discourse|话语]]（pp. 443–445）。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 运用批判政策[[Discourse Analysis|话语分析]]透视世界银行与[[OECD|经合组织]]、教科文组织的“世界[[Performance Indicators|教育指标]]”（[[World Education Indicators|WEI]]）合作，揭示其如何以技术化指标包装新自由主义经济预设，并跟进[[Knowledge-Based Economy|知识经济]]政策[[Discourse|话语]]（pp. 443–445）。
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 从圈内高阶官员视角，系统剖析世界银行教育贷款机制，指出其核心缺陷在于繁杂审计、执行拖延与评估重投入轻产出，而非外界夸大的意识形态阴谋（pp. 455–477）。
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 研制并发布针对发展中国家小学课堂的开源标准化观察工具 Teach，奠定微观课堂实践转向（pp. 2–6）。
+> - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 结合拉美实证经验解构世界银行教育治理，揭示其 0.5% 边际资金背后的全盘西方制度愿景借贷悖论、[[Cost-Benefit Analysis|成本效益分析]]对教师薪酬的压制，以及紧迫[[Pragmatic Paradigm|实用主义]]驱动的知识过度简化与本土[[Gatekeepers|守门人]]垄断（pp. 345–353）。

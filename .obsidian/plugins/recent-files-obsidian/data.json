@@ -5,6 +5,10 @@
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Beech_2009_GlobalGarden.md"
     },
     {
+      "basename": "Jason Beech",
+      "path": "wiki/persons/argentina/Jason Beech.md"
+    },
+    {
       "basename": "Classroom Observation",
       "path": "wiki/methods/qualitative/Classroom Observation.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Red Tape",
       "path": "wiki/concepts/political-economy-geopolitics/Red Tape.md"
-    },
-    {
-      "basename": "A Nation at Risk 1983",
-      "path": "wiki/facts/us/A Nation at Risk 1983.md"
     }
   ],
   "omittedPaths": [],

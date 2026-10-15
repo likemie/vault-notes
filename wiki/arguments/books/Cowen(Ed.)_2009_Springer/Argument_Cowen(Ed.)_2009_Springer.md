@@ -54,6 +54,9 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Going Native]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Space of Flows and Space of Places]]"
+  - "[[Pragmatic Paradigm]]"
+  - "[[Gatekeepers]]"
   - "[[Peer Pressure]]"
   - "[[Enlightenment]]"
   - "[[Migrant Children]]"
@@ -83,6 +86,7 @@ related_concepts:
   - "[[Academic Inbreeding]]"
   - "[[Plaintive Comparison]]"
   - "[[Competitiveness]]"
+  - "[[Global Educational Discourse]]"
   - "[[Knowledge-that and Know-how-to]]"
   - "[[Reliability]]"
   - "[[Construct Validity]]"
@@ -103,6 +107,7 @@ related_theories:
   - "[[Governmentality]]"
   - "[[World Society Theory]]"
   - "[[State Corporatism]]"
+  - "[[Beech's Model of Discourse Circulation]]"
   - "[[New Growth Theory]]"
   - "[[Globalization from Below]]"
   - "[[Postmodernism]]"
@@ -125,6 +130,7 @@ related_persons:
   - "[[Immanuel Wallerstein]]"
   - "[[Bernard Barber]]"
   - "[[José Luis García Garrido]]"
+  - "[[Basil Bernstein]]"
 related_facts:
   - "[[OECD]]"
   - "[[World Bank]]"
@@ -135,6 +141,7 @@ related_facts:
   - "[[GATS and Trade in Education Services]]"
   - "[[General Act of Education of 1970]]"
   - "[[Organic Law on the General Organization of the Education System 1990]]"
+  - "[[UNESCO]]"
   - "[[Hukou System]]"
   - "[[Schools for Migrant Children]]"
   - "[[Plyler v. Doe 1982]]"
@@ -150,6 +157,7 @@ related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Castro_2009_MultilateralBanks]]"
+  - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Sobe_Fischer_2009_MobilityMigration]]"
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Garcia_Garrido_2009_SpainEU]]"
@@ -231,7 +239,7 @@ updated: 2026-10-15
 >   - **阅读价值** 呈现比较教育学如何从抽象的普世现代主义叙事，走向对民族国家机器复杂性、全球资本积累阶段性、[[Conditioned State Theory\|受限国家]]双轨分选、世界体系中心-边缘依附、[[Pluri-Scalar Governance|多标度治理]]以及[[World Bank|世界银行]][[Financial-Intellectual Complex\|金融-智识复合体]]与[[OECD|经合组织]]“[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]”[[Disciplina and Doctrina|规训]]机制的批判政治经济学解构，并开辟基层社会运动的自下而上反抗视野；Ch. 09 确立涵盖“强制再生产”的[[Typology of Educational Responses to Globalization|全球化教育响应类型学]]，Ch. 28 进一步剖析[[OECD]]如何通过[[PISA]]制造全球可[[Commensuration|通约]]的“[[Space of Equivalence|等值空间]]”并将性别平权与社会资本工具化为经济效率的附庸；Ch. 29 则从圈内人高阶视角解构[[Multilateral Development Bank|多边开发银行]]（世行与泛美行）作为主权信用合作社的金融运作本质，揭示[[Washington Consensus|华盛顿共识]]在教育放贷中衍生的九大技术信条，并直指官僚报销审计与重投入轻产出的执行评估失能。
 > - **教育转移与跨国制度流动**
 >   - **相关章节** Ch. 03 [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]；Ch. 09 [[Argument_Rust_2009_Reflections]]；Ch. 22 [[Argument_Beech_2009_GlobalGarden]]；Ch. 28 [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]；Ch. 67（Phillips）；Ch. 71（Steiner-Khamsi）。
->   - **阅读价值** 呈现[[Policy Borrowing\|教育借用]]从经典移植论向全球治理与去[[Going Native\|本土化]]分析的[[Paradigm\|范式]]演进；Ch. 09 示范了美德跨大西洋互动与挪威多边借用中“恶政与良教自然可分”的理性[[Transfer Translation Transformation|转译]]逻辑；Ch. 22 引入语篇位置与流动空间视角，构建全球教育场域五位置模型，揭示多边国际组织基于实用主义对学术话语的过度简化、拉美精英“守门人网络”对国家政策空间的闭合，以及通用模型落地学校机构引发的不可预测实践脱节；Ch. 28 则揭示[[OECD]]如何从成员国自愿国别审查的开放论坛转型为依托数字即政策与刚性[[Peer Pressure|同侪压力]]实施跨国远处掌舵的独立政策行动者。
+>   - **阅读价值** 呈现[[Policy Borrowing\|教育借用]]从经典移植论向全球治理与去[[Going Native\|本土化]]分析的[[Paradigm\|范式]]演进；Ch. 09 示范了美德跨大西洋互动与挪威多边借用中“恶政与良教自然可分”的理性[[Transfer Translation Transformation|转译]]逻辑；Ch. 22 引入语篇位置与[[Space of Flows and Space of Places|流动空间]]视角，构建全球教育[[Champ|场域]]五位置模型，揭示多边国际组织基于[[Pragmatic Paradigm|实用主义]]对学术[[Discourse|话语]]的过度简化、拉美精英“[[Gatekeepers|守门人]]网络”对国家政策空间的闭合，以及通用模型落地学校机构引发的不可预测实践脱节；Ch. 28 则揭示[[OECD]]如何从成员国自愿国别审查的开放论坛转型为依托数字即政策与刚性[[Peer Pressure|同侪压力]]实施跨国远处掌舵的独立政策行动者。
 > - **空间转向、流动性与人口治理**
 >   - **相关章节** Ch. 23 [[Argument_Sobe_Fischer_2009_MobilityMigration]]；Ch. 61（空间认知地图）；Ch. 67（Phillips 转移地理学）；Ch. 71（Steiner-Khamsi）。
 >   - **阅读价值** 呈现比较教育学如何从[[Enlightenment|启蒙运动]]将空间从属于时间的线性进化史观，转向批判性空间实践与[[Governmentality|治理术]]微观解剖；解构现代学校作为封闭容器对跨国与国内流动人口（移民、游牧民、[[Migrant Children|随迁儿童]]）的规训机制，揭示欧美政策[[Discourse|话语]]对[[Student Mobility|学生流动性]]（欧洲一体化公民资本 vs 美国 [[No Child Left Behind Act 2001|NCLB]] 漂泊失范）的阶层化道德双标，并统合知识理性系统与结构性参与公平。
@@ -252,7 +260,7 @@ updated: 2026-10-15
 >   - Ch. 09 [[Argument_Rust_2009_Reflections]]。Rust、Johnstone 与 Allaf 系统梳理学科发端的多重历史锚点，借鉴比较文学平反十九世纪[[Influences Across Cultures|跨文化影响]]实证考察遗产，揭示美德跨大西洋互动中“恶政与良教自然可分”的借用公理；运用 UCLA 大规模期刊[[Document|文献]]计量与作者调查证实 26 种理论并存的“健康[[Pluralism|多元主义]]”；并在批判主流将教育等同于资本主义现代性的基础上，建构涵盖接受、抵制、恢复与强制再生产的[[Typology of Educational Responses to Globalization|全球化教育响应类型学]]，呼吁学科回归人道主义与解放实践。
 >   - Ch. 10 [[Argument_Kazamias_2009_HistoricalReflections]]。Kazamias 系统确立比较教育学作为“[[Protean Episteme|普罗透斯式认识体系]]”的学科本质，梳理从启蒙准科学与行政改良、历史-哲学自由人文主义、战后经验实证主义到批判冲突理论的四重论述代际；借助[[Bernard Barber|巴伯]]（Barber）科学社会学深刻解构将科学狭隘化为单一量化操作的“方法论主义”，并援引拉森（Larsen）等人的旗舰期刊计量数据（历史论文降至不足 5%）实证确证学科面临的“[[Historical Amnesia|历史健忘症]]”危机，最终重申历史学与社会科学理性综合的现代合法性。
 >   - Ch. 20 [[Argument_Garcia_Garrido_2009_SpainEU]]。[[José Luis García Garrido|García Garrido]] 将西班牙教育置于欧盟多国比较框架，系统梳理从[[Enlightenment|启蒙运动]]、1970 年《[[General Act of Education of 1970|普通教育法]]》到 1990 年《教育体制总组织法》（[[Organic Law on the General Organization of the Education System 1990|LOGSE]]）的亲欧主义与孤立主义历史张力；对比英、美、德、法、意与北欧的权力配置路径，深刻剖析西班牙在短时间内由极度集权滑向狂热分权所导致的“行政肥胖症”与国家教育空间“解体/脱节”（disjoining）危机；并直面初中统一步调[[Comprehensive Education|综合中学制]]滞后延展催生的“学业抗拒者”现象、高中学制过短、[[Academic Inbreeding|学术近亲繁殖]]以及在博洛尼亚对标下的质量平庸，反思[[Plaintive Comparison|诉苦式比较]]与政党频繁废立政策对[[Competitiveness|国家竞争力]]的损耗。
->   - Ch. 22 [[Argument_Beech_2009_GlobalGarden]]。[[Jason Beech|Beech]] 运用伯恩斯坦语篇位置理论与卡斯特流动空间理论，解构全球化下超越民族国家的新型跨国行动者；系统剖析 UNESCO、世行与 OECD 如何将学术知识过度简化为包含分权化、学校自主、教师专业化、能力本位与质量评估的单一[[Global Educational Discourse|全球教育话语]]普遍模型；构建涵盖全球学术、国际组织、国家、本土学术与学校机构的五位置流通模型（[[Beech's Model of Discourse Circulation]]），揭示拉美“守门人群体”身份重叠对国家政策空间的闭合效应，并通过阿根廷课程自主权异化（转抄商业教辅）与巴阿两国教师实习制度冲突，实证确证抽象普遍处方落地微观机构必然遭遇结构性实践脱节。
+>   - Ch. 22 [[Argument_Beech_2009_GlobalGarden]]。Beech 运用[[Basil Bernstein|伯恩斯坦]]语篇位置理论与卡斯特[[Space of Flows and Space of Places|流动空间]]理论，解构全球化下超越民族国家的新型跨国行动者；系统剖析 [[UNESCO]]、世行与 [[OECD]] 如何将学术知识过度简化为包含分权化、学校自主、教师专业化、能力本位与质量评估的单一[[Global Educational Discourse|全球教育话语]]普遍模型；构建涵盖全球学术、国际组织、国家、本土学术与学校机构的五位置流通模型（[[Beech's Model of Discourse Circulation]]），揭示拉美“[[Gatekeepers|守门人]]群体”身份重叠对国家政策空间的闭合效应，并通过阿根廷课程自主权异化（转抄商业教辅）与巴阿两国教师实习制度冲突，实证确证抽象普遍处方落地微观机构必然遭遇结构性实践脱节。
 >   - Ch. 23 [[Argument_Sobe_Fischer_2009_MobilityMigration]]。Sobe 与 Fischer 运用空间转向与[[Governmentality|治理术]]理论，解构欧美政策[[Discourse|话语]]对[[Student Mobility|学生流动性]]的阶层化双重[[Coding in Qualitative Research|编码]]（欧洲一体化跨国公民胜任力 vs 美国 [[No Child Left Behind Act 2001|NCLB]] 绩效问责下的病态漂泊与失范指标），剖析学校作为兼具物理封闭与社会资格筛选功能的空间治理容器；通过中（[[Hukou System|户籍制度]]排斥与[[Schools for Migrant Children|打工子弟学校]]整顿）、美（《[[Plyler v. Doe 1982|普莱勒诉多伊案]]》宪法平权与无证农工子女）、西（跨文化教育调适）、英（大篷车游民的空间文化失调）与印（游牧部族以教育避险的能动性）五国经验，揭示国家强制定居规训与边缘少数群体微观能动性的动态博弈，最终将知识理性系统与公平参与结构统合于空间实践[[Analytic Framework|分析框架]]。
 >   - Ch. 28 [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]。Rizvi 与 Lingard 系统对比[[OECD]]在 1960–1990 年帕帕多普洛斯社会民主主义妥协期与 1990 年代中期后新自由主义期的深刻断裂，阐明[[OECD]]如何依托[[New Growth Theory|内生新增长理论]]建构“[[Knowledge-Based Economy|知识经济]]的[[Social Imaginary|社会想象]]”，推动学习从“[[Knowledge-that and Know-how-to|知其然]]”向“知其所以操作”与“学习型经济”转型；通过[[PISA]]制造全球可[[Commensuration|通约]]的“[[Space of Equivalence|等值空间]]”与“数字即政策”（以跨国[[Reliability|信度]]压倒[[Construct Validity|构念效度]]）；并在“[[Economic Fundamentalism|经济基要主义]]”逻辑下将教育公平、性别平权与社会资本全面工具化为经济效率的附庸，使自身从政府间开放论坛蜕变为独立的跨国政策行动者。
 >   - Ch. 29 [[Argument_Castro_2009_MultilateralBanks]]。Castro 运用机构政治经济学与长期内部决策视角，解构以[[World Bank|世界银行]]与美洲开发银行为代表的[[Multilateral Development Bank|多边开发银行]]在教育领域的双重性：既是提供廉价硬通货贷款的“资金银行”（Bank of Funds），又是试图通过结构调整附带条件与知识垄断重塑借款国政策的“理念银行”（Bank of Ideas）；系统剖析多边银行在专业官僚傲慢、忽视执行能力、偏好多重目标复杂项目及追逐教育时尚等方面的内在病理，并通过巴西、中非共和国及中东欧转轨国家的实证经验，证明外部贷款能否成功的决定性因素在于借款国的本土意愿与政治治理成熟度，而非外源性政策强制。
@@ -277,7 +285,7 @@ updated: 2026-10-15
 > - **Ch. 09 — Reflections on the Development of Comparative Education** [[Argument_Rust_2009_Reflections]] — 平反十九世纪[[Influences Across Cultures|跨文化影响]]考证遗产，揭示实证[[Pluralism|多元主义]]的健康本质，建构涵盖强制再生产的全球化四重批判响应模型。
 > - **Ch. 10 — Comparative Education: Historical Reflections** [[Argument_Kazamias_2009_HistoricalReflections]] — 确立学科作为“[[Protean Episteme|普罗透斯式认识体系]]”的四重论述代际演化，批判[[Positivism|实证主义]]对单一全能方法的迷信，以期刊[[Document|文献]]计量数据诊断历史维度的[[Attrition|流失]]与“[[Historical Amnesia|历史健忘症]]”危机，为学科再造奠定历史哲学与人文关怀锚点。
 > - **Ch. 20 — The European Union and Education in Spain** [[Argument_Garcia_Garrido_2009_SpainEU]] — 将西班牙教育置于欧盟多国比较框架，剖析亲欧主义与孤立主义的历史张力，批判激进[[Educational Decentralization|教育分权]]导致的行政臃肿、国家教育空间解体危机与中等[[Comprehensive Education|综合中学制]]平庸化。
-> - **Ch. 22 — Who is Strolling Through The Global Garden? International Agencies and Educational Transfer** [[Argument_Beech_2009_GlobalGarden]] — 构建全球教育场域五位置流通模型，解构国际组织过度简化生成的[[Global Educational Discourse|全球教育话语]]与问题方案双重垄断，揭示拉美学术/官方精英“守门人网络”对政策空间的闭合，以及通用模型在基层学校机构落地时的实践异化与脱节。
+> - **Ch. 22 — Who is Strolling Through The Global Garden? International Agencies and Educational Transfer** [[Argument_Beech_2009_GlobalGarden]] — 构建全球教育[[Champ|场域]]五位置流通模型，解构国际组织过度简化生成的[[Global Educational Discourse|全球教育话语]]与问题方案双重垄断，揭示拉美学术/官方精英“[[Gatekeepers|守门人]]网络”对政策空间的闭合，以及通用模型在基层学校机构落地时的实践异化与脱节。
 > - **Ch. 23 — Mobility, Migration and Minorities in Education** [[Argument_Sobe_Fischer_2009_MobilityMigration]] — 运用空间转向与[[Governmentality|治理术]]视角，解构欧美对[[Student Mobility|学生流动]]的阶层化双重政策[[Coding in Qualitative Research|编码]]，并通过中、美、西、英、印五国案例剖析学校作为封闭容器对流动少数群体的空间规训与能动博弈。
 > - **Ch. 28 — The [[OECD]] and Global Shifts in Education Policy** [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]] — 剖析[[OECD]]自 1990 年代中期后如何建构“[[Knowledge-Based Economy|知识经济]]的[[Social Imaginary|社会想象]]”并依托[[PISA]]制造全球可[[Commensuration|通约]]“[[Space of Equivalence|等值空间]]”，将教育公平、性别平权与社会资本全面工具化为经济效率的附庸，使自身从政府间论坛转型为独立的跨国政策行动者。
 > - **Ch. 29 — Can Multilateral Banks Educate the World?** [[Argument_Castro_2009_MultilateralBanks]] — 解构以[[World Bank|世行]]与美洲开发银行为代表的[[Multilateral Development Bank|多边开发银行]]在教育援助中“资金银行”与“理念银行”的双重角色，剖析多边机构的官僚病理、技术规训与政策套用盲区，实证阐明外部借贷成败取决于借款国本土政治意愿与制度能力。

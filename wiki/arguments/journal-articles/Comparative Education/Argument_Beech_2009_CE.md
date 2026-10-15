@@ -27,6 +27,7 @@ related_concepts:
   - "[[Going Native]]"
   - "[[Shape-Shifting]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Global Educational Discourse]]"
   - "[[Methodological Nationalism]]"
   - "[[Space of Flows and Space of Places]]"
   - "[[Governance by Spin]]"
@@ -111,7 +112,7 @@ issuing_organization: ""
 > 当定义信息时代“受教育身份”的教育话语从[[Global Policy Space\|全球政策空间]]移动到国家层面、再到以地方为基础的学校实践时，由于不同空间层面独特的结构属性与政治逻辑，话语不可避免地经历了从去语境化的“[[Floating Signifier\|漂浮能指]]”到“革新与保守并置”的混合政策，再到受物质条件及既有[[Knowledge Framework\|知识框架]]中介的“微观[[Going Native\|本土化]][[Shape-Shifting\|形变]]”的三阶段[[Transfer Translation Transformation\|转译]]，最终其实践效果与原有全球意图发生了根本性偏离。
 
 > [!concept-lens] 阅读透镜
-> - **对象** 全球教育话语（以“能力发展”和“尊重多样性”为典型追踪线索）从超国家网络（OECD、世界银行、UNESCO等）经由国家政策文件设计，最终流向学校课堂与教师日常实践（聚焦拉美的巴西、阿根廷及玻利维亚等经验场景）的完整路径(pp.348–353)。
+> - **对象** [[Global Educational Discourse|全球教育话语]]（以“能力发展”和“尊重多样性”为典型追踪线索）从超国家网络（OECD、世界银行、UNESCO等）经由国家政策文件设计，最终流向学校课堂与教师日常实践（聚焦拉美的巴西、阿根廷及玻利维亚等经验场景）的完整路径(pp.348–353)。
 > - **张力** 传统比较教育学中的“[[Methodological Nationalism\|方法论民族主义]]”将空间等同于国家地理边界的横向对比，与跨国[[Network Society\|网络社会]]中“[[Space of Flows and Space of Places\|流动空间]]”与“地方空间”的纵向不对称权力博弈之间的张力；以及国家在政策文本层面对矛盾声明的“功能性包容（[[Governance by Spin\|舆论操控]]）”与学校在行动层面对“教学一致性”的要求之间的张力(pp.349, 356, 359)。
 > - **贡献** 引入 [[Manuel Castells]] 的空间/网络社会理论和 [[Jean-François Lyotard]] 的[[Performativity\|操演性]]概念，建立了一个解释跨空间层级的话语再语境化（recontextualisation）[[Analytic Framework\|分析框架]]，揭示了全球教育话语在流动中“空虚性”的功能意义以及在微观实践中转译为“尊重贫困”等意外后果的形成机制(p.361)。
 
@@ -180,7 +181,7 @@ Castells 据此区分了两种空间逻辑：
 
 ### Castells 的网络社会理论
 
-如果流动空间是全球教育话语的"高速公路"，那么在这个空间中运行的社会组织是什么样的？Castells 的回答是：**网络**。
+如果流动空间是[[Global Educational Discourse|全球教育话语]]的"高速公路"，那么在这个空间中运行的社会组织是什么样的？Castells 的回答是：**网络**。
 
 > [!theory-components] 网络作为社会组织形式的四项运作逻辑 (Castells, 2000c)
 > - **自动机运作 (Automaton Logic)**
@@ -231,7 +232,7 @@ Castells 据此区分了两种空间逻辑：
 > [!line-b] 追踪线索二：尊重多样性（Respect for Diversity）
 > 被[[World Bank\|世界银行]]、[[OECD]]、[[UNESCO]]、[[UNICEF\|联合国儿童基金会]]（United Nations Children's Fund，UNICEF）和[[Education International\|国际教育协会]]（Education International，[[Education International]]）等意识形态立场各异的机构共同倡导。许多历史上以文化同质性为核心目标的教育系统，也在官方修辞层面接受了该口号(Gvirtz & Beech, 2008, 引自 p.354)。
 
-选择这两个线索的理由很清晰：它们都起源于特定的历史语境和社会需求，但在全球教育话语中已被高度抽象化，因此是观察意义在空间移动中如何变化的理想样本。
+选择这两个线索的理由很清晰：它们都起源于特定的历史语境和社会需求，但在[[Global Educational Discourse|全球教育话语]]中已被高度抽象化，因此是观察意义在空间移动中如何变化的理想样本。
 
 ---
 
@@ -300,7 +301,7 @@ Castells 据此区分了两种空间逻辑：
 全球政策空间的上述结构属性，即网络逻辑和操演性政治运作，直接影响在其中被生产的话语类型。
 
 > [!claim] 可塑性与稳定性的双重需求
-> 全球网络旨在影响尽可能多的地方教育系统，因此其话语必须足够**可塑**，能够被不同文化、意识形态、社会经济和政治语境接受和适用。但同时，话语需要保持一定的**形象稳定性**来获取和维系权威光环(Harvey, 1989, 引自 p.353)。就像一个品牌需要同时做到在全球保持一致的品牌形象和在不同市场做本地化调整，全球教育话语面临同样的张力(pp.352–353)。
+> 全球网络旨在影响尽可能多的地方教育系统，因此其话语必须足够**可塑**，能够被不同文化、意识形态、社会经济和政治语境接受和适用。但同时，话语需要保持一定的**形象稳定性**来获取和维系权威光环(Harvey, 1989, 引自 p.353)。就像一个品牌需要同时做到在全球保持一致的品牌形象和在不同市场做本地化调整，[[Global Educational Discourse|全球教育话语]]面临同样的张力(pp.352–353)。
 
 > [!def] 漂浮能指 (Floating Signifier)
 > 指被剥离了具体历史、时间和空间脉络，失去特定固定含义的符号或话语。其传播与协作力量恰恰来自其在语义上的“可塑性”（malleability），这使其能够被不同意识形态的行动者在迥异的语境中进行任意重组与重新解释(pp.353–355)。
