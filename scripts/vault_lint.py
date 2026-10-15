@@ -597,6 +597,16 @@ def git_head_paths() -> frozenset[str]:
     return frozenset(line for line in output.splitlines() if line)
 
 
+@lru_cache(maxsize=1)
+def git_nfd_index_paths() -> frozenset[str]:
+    out = run_git(["-c", "core.quotePath=false", "ls-files", "-z"])
+    return frozenset(p for p in out.split("\0") if p and unicodedata.normalize("NFC", p) != p)
+
+
+def git_tracks_nfd_path(path: Path) -> bool:
+    return rel(path) in git_nfd_index_paths()
+
+
 def git_path_exists_at_head(path: Path) -> bool:
     return rel(path) in git_head_paths()
 
@@ -1590,7 +1600,10 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
         for field in ["family_name", "given_names", "initials", "citation_name"]:
             if field in data:
                 issues.append(Issue("WARN", rel(path), f"person entry should not include legacy citation helper field {field}", line=frontmatter_line_number(fm, field), code=f"PERSON_{field.upper()}_LEGACY"))
-        if isinstance(title, str) and "<%" not in title and path.stem != title:
+        # "William F. Buckley Jr." is stored as "William F. Buckley Jr.md": the
+        # title's final period merges with the extension separator.
+        if (isinstance(title, str) and "<%" not in title
+                and unicodedata.normalize("NFC", path.stem) not in {unicodedata.normalize("NFC", title), unicodedata.normalize("NFC", title.rstrip("."))}):
             issues.append(Issue("WARN", rel(path), "person filename stem should match title exactly", line=frontmatter_line_number(fm, "title"), code="PERSON_TITLE_FILENAME_MISMATCH"))
         aliases = data.get("aliases")
         if isinstance(aliases, list):
@@ -2845,10 +2858,13 @@ def lint_file(path: Path, by_title: Dict[str, Dict[str, Any]], path_to_title: Di
     if is_generated_content_page(path):
         return
 
-    if unicodedata.normalize("NFC", path.name) != path.name:
+    # What breaks Linux CI / Quartz is an NFD path recorded in git, not the
+    # on-disk name: APFS stores names as NFD but treats both forms as equal,
+    # and macOS git (core.precomposeUnicode) records NFC.
+    if unicodedata.normalize("NFC", path.name) != path.name and git_tracks_nfd_path(path):
         issues.append(Issue(
             "WARN", rel(path),
-            "filename is not NFC-normalized Unicode (macOS NFD); links may break on Linux/CI or Quartz builds — prefer ASCII names for new files",
+            "git tracks this file under a non-NFC (NFD) path; Linux CI / Quartz may see broken or duplicate paths — re-register it in the index under its NFC name",
             code="FILENAME_NFD",
         ))
 
