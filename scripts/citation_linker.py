@@ -87,16 +87,20 @@ TAIL_CITATION_RE = re.compile(
 
 
 def run_git_changed() -> list[Path] | None:
-    changed = subprocess.run(
-        ["git", "-c", "core.quotePath=false", "diff", "--name-only", "--diff-filter=ACMRTUXB", "HEAD", "--", "wiki"],
+    # Run `git status` first: it refreshes and persists the index stat cache,
+    # which a bare `git diff HEAD` re-verifies on every run without saving.
+    # Its untracked entries replace a separate `ls-files --others` call.
+    untracked = subprocess.run(
+        ["git", "-c", "core.quotePath=false", "status", "--porcelain=v1", "-z", "--untracked-files=all", "--", "wiki"],
         cwd=ROOT,
         text=True,
         stdout=subprocess.PIPE,
         stderr=subprocess.DEVNULL,
         check=False,
     )
-    untracked = subprocess.run(
-        ["git", "-c", "core.quotePath=false", "ls-files", "--others", "--exclude-standard", "--", "wiki"],
+    untracked_paths = [entry[3:] for entry in untracked.stdout.split("\0") if entry.startswith("?? ")]
+    changed = subprocess.run(
+        ["git", "-c", "core.quotePath=false", "diff", "--name-only", "--diff-filter=ACMRTUXB", "HEAD", "--", "wiki"],
         cwd=ROOT,
         text=True,
         stdout=subprocess.PIPE,
@@ -106,7 +110,7 @@ def run_git_changed() -> list[Path] | None:
     if changed.returncode != 0 or untracked.returncode != 0:
         return None
     paths: list[Path] = []
-    for line in [*changed.stdout.splitlines(), *untracked.stdout.splitlines()]:
+    for line in [*changed.stdout.splitlines(), *untracked_paths]:
         path = ROOT / line.strip()
         if path.suffix.lower() == ".md" and WIKI_DIR in path.parents and path.exists():
             paths.append(path)

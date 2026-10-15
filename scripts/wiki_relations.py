@@ -489,7 +489,9 @@ def iter_source_record_files(target: str | None = None) -> list[Path]:
 def git_changed_markdown_files() -> list[Path]:
     try:
         out = subprocess.check_output(
-            ["git", "-C", str(ROOT), "status", "--porcelain", "-z"],
+            # Only wiki files are used (see git_changed_wiki_files); scoping the
+            # pathspec avoids scanning books/, sources/ and raw/ (~9 s -> <1 s).
+            ["git", "-C", str(ROOT), "status", "--porcelain", "-z", "--", "wiki"],
             text=False,
             stderr=subprocess.DEVNULL,
         )

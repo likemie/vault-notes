@@ -176,6 +176,24 @@ class BookOverview:
         return self.path.relative_to(ROOT).as_posix()
 
 
+# One run reads every Markdown file once: research-map counts and each
+# *_base_fields pass previously re-read and re-parsed the same files.
+_TEXT_CACHE: dict[Path, str] = {}
+
+
+def read_md(path: Path) -> str:
+    text = _TEXT_CACHE.get(path)
+    if text is None:
+        text = path.read_text(encoding="utf-8", errors="replace")
+        _TEXT_CACHE[path] = text
+    return text
+
+
+def write_md(path: Path, text: str) -> None:
+    path.write_text(text, encoding="utf-8")
+    _TEXT_CACHE[path] = text
+
+
 def run_script(script_name: str, extra_args: list[str] | None = None) -> int:
     cmd = [sys.executable, str(SCRIPTS_DIR / script_name)]
     if extra_args:
@@ -184,6 +202,24 @@ def run_script(script_name: str, extra_args: list[str] | None = None) -> int:
     print(f"$ {Path(sys.executable).name} scripts/{script_name}" + (f" {' '.join(extra_args)}" if extra_args else ""), flush=True)
     completed = subprocess.run(cmd, cwd=ROOT)
     return completed.returncode
+
+
+def run_scripts_parallel(jobs: list[tuple[str, list[str]]]) -> int:
+    """Run independent scripts concurrently; print their output in job order."""
+    procs = []
+    for script_name, extra_args in jobs:
+        cmd = [sys.executable, str(SCRIPTS_DIR / script_name), *extra_args]
+        label = f"$ {Path(sys.executable).name} scripts/{script_name}" + (f" {' '.join(extra_args)}" if extra_args else "")
+        procs.append((label, subprocess.Popen(cmd, cwd=ROOT, stdout=subprocess.PIPE, stderr=subprocess.STDOUT, text=True)))
+    first_failure = 0
+    for label, proc in procs:
+        out, _ = proc.communicate()
+        print(label, flush=True)
+        if out:
+            print(out, end="" if out.endswith("\n") else "\n", flush=True)
+        if proc.returncode and not first_failure:
+            first_failure = proc.returncode
+    return first_failure
 
 
 def parse_scalar(value: str) -> str:
@@ -217,7 +253,18 @@ def parse_inline_list(value: str) -> list[str]:
     return [item for item in items if item]
 
 
+_FM_CACHE: dict[str, dict[str, Any]] = {}
+
+
 def parse_frontmatter(text: str) -> dict[str, Any]:
+    cached = _FM_CACHE.get(text)
+    if cached is None:
+        cached = _parse_frontmatter_uncached(text)
+        _FM_CACHE[text] = cached
+    return dict(cached)
+
+
+def _parse_frontmatter_uncached(text: str) -> dict[str, Any]:
     m = FRONTMATTER_RE.match(text)
     if not m:
         return {}
@@ -404,7 +451,7 @@ def discover_book_overviews() -> list[BookOverview]:
     if not BOOKS_DIR.exists():
         return overviews
     for path in sorted(BOOKS_DIR.rglob("Argument_*.md")):
-        text = path.read_text(encoding="utf-8", errors="replace")
+        text = read_md(path)
         meta = parse_frontmatter(text)
         if meta.get("type") != "argument":
             continue
@@ -424,7 +471,7 @@ def discover_book_overviews() -> list[BookOverview]:
 
 
 def update_book_overview(overview: BookOverview, dry_run: bool, check: bool) -> tuple[bool, list[str]]:
-    text = overview.path.read_text(encoding="utf-8", errors="replace")
+    text = read_md(overview.path)
     lines = text.splitlines()
     block_range = find_overview_block(lines)
     issues: list[str] = []
@@ -439,7 +486,7 @@ def update_book_overview(overview: BookOverview, dry_run: bool, check: bool) -> 
     new_text = "\n".join(new_lines).rstrip() + "\n"
     changed = new_text != text
     if changed and not dry_run and not check:
-        overview.path.write_text(new_text, encoding="utf-8")
+        write_md(overview.path, new_text)
     return changed, issues
 
 
@@ -470,7 +517,7 @@ def count_typed_entries(directory: Path, entry_type: str) -> int:
     for path in directory.rglob("*.md"):
         if not path.is_file():
             continue
-        text = path.read_text(encoding="utf-8", errors="replace")
+        text = read_md(path)
         if parse_frontmatter(text).get("type") == entry_type:
             count += 1
     return count
@@ -481,7 +528,7 @@ def update_research_map_stats(dry_run: bool = False, check: bool = False) -> int
         print(f"❌ research map not found: {RESEARCH_MAP_PATH.relative_to(ROOT)}")
         return 1
 
-    text = RESEARCH_MAP_PATH.read_text(encoding="utf-8", errors="replace")
+    text = read_md(RESEARCH_MAP_PATH)
     next_text = text
     counts: list[tuple[str, int]] = []
 
@@ -499,7 +546,7 @@ def update_research_map_stats(dry_run: bool = False, check: bool = False) -> int
 
     changed = next_text != text
     if changed and not dry_run and not check:
-        RESEARCH_MAP_PATH.write_text(next_text, encoding="utf-8")
+        write_md(RESEARCH_MAP_PATH, next_text)
 
     prefix = "would update" if dry_run or check else "updated"
     state = prefix if changed else "already current"
@@ -643,7 +690,7 @@ def iter_concept_files() -> list[Path]:
 
 
 def update_concept_base_fields(path: Path, dry_run: bool, check: bool) -> tuple[bool, tuple[int, str] | None]:
-    text = path.read_text(encoding="utf-8", errors="replace")
+    text = read_md(path)
     split = split_frontmatter(text)
     if not split:
         return False, None
@@ -670,7 +717,7 @@ def update_concept_base_fields(path: Path, dry_run: bool, check: bool) -> tuple[
         today_str = datetime.date.today().isoformat()
         next_frontmatter = set_frontmatter_value(next_frontmatter, "updated", today_str, [r"^created:\s*"])
         next_text = f"---\n{next_frontmatter}---\n{body}"
-        path.write_text(next_text, encoding="utf-8")
+        write_md(path, next_text)
     return changed, (related_count, related_stars)
 
 
@@ -752,7 +799,7 @@ def iter_instrument_files() -> list[Path]:
 
 
 def update_instrument_base_fields(path: Path, dry_run: bool, check: bool) -> tuple[bool, tuple[int, str] | None]:
-    text = path.read_text(encoding="utf-8", errors="replace")
+    text = read_md(path)
     split = split_frontmatter(text)
     if not split:
         return False, None
@@ -784,7 +831,7 @@ def update_instrument_base_fields(path: Path, dry_run: bool, check: bool) -> tup
         today_str = datetime.date.today().isoformat()
         next_frontmatter = set_frontmatter_value(next_frontmatter, "updated", today_str, [r"^created:\s*"])
         next_text = f"---\n{next_frontmatter}---\n{body}"
-        path.write_text(next_text, encoding="utf-8")
+        write_md(path, next_text)
     return changed, (related_count, related_stars)
 
 
@@ -871,7 +918,7 @@ def iter_method_files() -> list[Path]:
 
 
 def update_method_base_fields(path: Path, dry_run: bool, check: bool) -> tuple[bool, tuple[int, str] | None]:
-    text = path.read_text(encoding="utf-8", errors="replace")
+    text = read_md(path)
     split = split_frontmatter(text)
     if not split:
         return False, None
@@ -903,7 +950,7 @@ def update_method_base_fields(path: Path, dry_run: bool, check: bool) -> tuple[b
         today_str = datetime.date.today().isoformat()
         next_frontmatter = set_frontmatter_value(next_frontmatter, "updated", today_str, [r"^created:\s*"])
         next_text = f"---\n{next_frontmatter}---\n{body}"
-        path.write_text(next_text, encoding="utf-8")
+        write_md(path, next_text)
     return changed, (related_count, related_stars)
 
 
@@ -985,7 +1032,7 @@ def iter_theory_files() -> list[Path]:
 
 
 def update_theory_base_fields(path: Path, dry_run: bool, check: bool) -> tuple[bool, tuple[int, str] | None]:
-    text = path.read_text(encoding="utf-8", errors="replace")
+    text = read_md(path)
     split = split_frontmatter(text)
     if not split:
         return False, None
@@ -1009,7 +1056,7 @@ def update_theory_base_fields(path: Path, dry_run: bool, check: bool) -> tuple[b
         today_str = datetime.date.today().isoformat()
         next_frontmatter = set_frontmatter_value(next_frontmatter, "updated", today_str, [r"^created:\s*"])
         next_text = f"---\n{next_frontmatter}---\n{body}"
-        path.write_text(next_text, encoding="utf-8")
+        write_md(path, next_text)
     return changed, (related_count, related_stars)
 
 
@@ -1109,7 +1156,7 @@ def iter_fact_files() -> list[Path]:
 
 
 def update_fact_base_fields(path: Path, dry_run: bool, check: bool) -> tuple[bool, tuple[int, str] | None]:
-    text = path.read_text(encoding="utf-8", errors="replace")
+    text = read_md(path)
     split = split_frontmatter(text)
     if not split:
         return False, None
@@ -1153,7 +1200,7 @@ def update_fact_base_fields(path: Path, dry_run: bool, check: bool) -> tuple[boo
         today_str = datetime.date.today().isoformat()
         next_frontmatter = set_frontmatter_value(next_frontmatter, "updated", today_str, [r"^created:\s*"])
         next_text = f"---\n{next_frontmatter}---\n{body}"
-        path.write_text(next_text, encoding="utf-8")
+        write_md(path, next_text)
     return changed, (related_count, related_stars)
 
 
@@ -1246,7 +1293,7 @@ def iter_person_files() -> list[Path]:
 
 
 def update_person_base_fields(path: Path, dry_run: bool, check: bool) -> tuple[bool, tuple[int, str] | None]:
-    text = path.read_text(encoding="utf-8", errors="replace")
+    text = read_md(path)
     split = split_frontmatter(text)
     if not split:
         return False, None
@@ -1303,7 +1350,7 @@ def update_person_base_fields(path: Path, dry_run: bool, check: bool) -> tuple[b
         today_str = datetime.date.today().isoformat()
         next_frontmatter = set_frontmatter_value(next_frontmatter, "updated", today_str, [r"^created:\s*"])
         next_text = f"---\n{next_frontmatter}---\n{body}"
-        path.write_text(next_text, encoding="utf-8")
+        write_md(path, next_text)
     return changed, (related_count, related_stars)
 
 
@@ -1446,7 +1493,7 @@ def iter_argument_files() -> list[Path]:
 
 
 def update_argument_base_fields(path: Path, dry_run: bool, check: bool) -> tuple[bool, tuple[int, str] | None]:
-    text = path.read_text(encoding="utf-8", errors="replace")
+    text = read_md(path)
     split = split_frontmatter(text)
     if not split:
         return False, None
@@ -1469,7 +1516,7 @@ def update_argument_base_fields(path: Path, dry_run: bool, check: bool) -> tuple
     next_text = f"---\n{next_frontmatter}---\n{body}"
     changed = next_text != text
     if changed and not dry_run and not check:
-        path.write_text(next_text, encoding="utf-8")
+        write_md(path, next_text)
     return changed, (related_count, related_stars)
 
 
@@ -1524,10 +1571,7 @@ def run_base_index(book_check: bool = False, book_dry_run: bool = False, citatio
     code = maintain_argument_base_fields()
     if code:
         return code
-    code = run_script("wiki_index.py")
-    if code:
-        return code
-    return run_script("citation_index.py", citation_args or [])
+    return run_scripts_parallel([("wiki_index.py", []), ("citation_index.py", citation_args or [])])
 
 
 def run_standard_workflow(full: bool = False) -> int:
@@ -1589,6 +1633,17 @@ def main(argv: list[str] | None = None) -> int:
     parser.add_argument("--citation-dry-run", action="store_true", help="Pass --dry-run to scripts/citation_index.py.")
     parser.add_argument("--full", action="store_true", help="Pass --full to scripts/citation_index.py for workflow symmetry.")
     args = parser.parse_args(argv)
+
+    # A check / dry-run flag implies its --*-only mode. Previously, e.g.
+    # "--concept-fields-check" alone fell through to the full (writing) base index.
+    for prefix in ("research_map", "concept_fields", "method_fields", "theory_fields",
+                   "instrument_fields", "fact_fields", "person_fields", "argument_fields"):
+        if getattr(args, f"{prefix}_check", False) or getattr(args, f"{prefix}_dry_run", False):
+            setattr(args, f"{prefix}_only", True)
+    if args.book_check or args.book_dry_run:
+        args.book_only = True
+    if (args.citation_check or args.citation_dry_run) and not args.wiki_only:
+        args.citation_only = True
 
     workflow_flags = [args.standard_workflow, args.full_workflow]
     if sum(1 for flag in workflow_flags if flag) > 1:
