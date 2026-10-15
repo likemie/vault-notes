@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import argparse
+import bisect
 import io
 import json
 import re
@@ -212,11 +213,23 @@ class TermMatcher:
         self._exact: dict[str, dict] = {}
         self._folded: dict[str, dict] = {}
         self._rank = {term: rank for rank, term in enumerate(terms)}
+        # Cheap prefilter used by link_plain_text: a position can only match if
+        # its first char (1-char terms) or first two chars (longer terms) begin
+        # some term, compared the same way the tries compare (exact / casefold).
+        self.exact1: set[str] = set()
+        self.exact2: set[str] = set()
+        self.folded1: set[str] = set()
+        self.folded2: set[str] = set()
         for term in terms:
             has_ascii_alpha = any(ch.isascii() and ch.isalpha() for ch in term.text)
             exact_only = not has_ascii_alpha or (len(term.text) <= 3 and term.text.isupper())
             root = self._exact if exact_only else self._folded
             keys = list(term.text) if exact_only else [ch.casefold() for ch in term.text]
+            if keys:
+                if len(keys) == 1:
+                    (self.exact1 if exact_only else self.folded1).add(keys[0])
+                else:
+                    (self.exact2 if exact_only else self.folded2).add(keys[0] + keys[1])
             node = root
             for key in keys:
                 node = node.setdefault(key, {})
@@ -399,8 +412,22 @@ def build_person_prefix_registry(terms: list[Term]) -> PersonPrefixRegistry:
     conflicts: list[PersonPrefixConflict] = []
     seen: set[tuple[str, str, str, str]] = set()
 
-    for shorter in person_terms:
-        for longer in person_terms:
+    # Candidates for "longer starts with shorter" are contiguous after the
+    # shorter text in casefold order, so look only there instead of comparing
+    # every pair. Candidates keep their original order so dedupe below picks
+    # the same Term objects as the previous all-pairs loop.
+    folded = [term.text.casefold() for term in person_terms]
+    order = sorted(range(len(person_terms)), key=folded.__getitem__)
+    sorted_keys = [folded[i] for i in order]
+
+    for shorter_idx, shorter in enumerate(person_terms):
+        prefix = folded[shorter_idx]
+        pos = bisect.bisect_left(sorted_keys, prefix)
+        candidates = []
+        while pos < len(sorted_keys) and sorted_keys[pos].startswith(prefix):
+            candidates.append(order[pos])
+            pos += 1
+        for longer in (person_terms[i] for i in sorted(candidates)):
             if not is_person_prefix(shorter, longer):
                 continue
             key = (shorter.text.casefold(), shorter.target, longer.text.casefold(), longer.target)
@@ -536,15 +563,16 @@ def parse_name_status_z(output: str) -> set[str]:
 
 
 def git_changed_paths() -> set[str]:
+    # `git status` refreshes and persists the index stat cache; a bare
+    # `git diff HEAD` re-verifies stale entries every run without saving
+    # (~8 s on this vault vs ~0.1 s after a refresh). Its output also gives
+    # the untracked files, replacing a separate `ls-files --others` call.
+    status = git_output(["status", "--porcelain=v1", "-z", "--untracked-files=all", "--", "wiki", "sources"])
+    untracked = {entry[3:] for entry in status.split("\0") if entry.startswith("?? ")}
     changed = parse_name_status_z(
         git_output(
             ["diff", "--name-status", "-z", "--find-renames", "--diff-filter=ACDMRTUXB", "HEAD", "--", "wiki", "sources"]
         )
-    )
-    untracked = set(
-        line.strip()
-        for line in git_output(["ls-files", "--others", "--exclude-standard", "--", "wiki", "sources"]).splitlines()
-        if line.strip()
     )
     return changed | untracked
 
@@ -1134,8 +1162,27 @@ def link_plain_text(
     term_matcher = term_matcher or TermMatcher(terms)
     additions = 0
     i = 0
+    n = len(chunk)
     new_chunk: list[str] = []
-    while i < len(chunk):
+    exact1, exact2 = term_matcher.exact1, term_matcher.exact2
+    folded1, folded2 = term_matcher.folded1, term_matcher.folded2
+    while i < n:
+        # Skip, in one slice, every position where no term can start; this is
+        # equivalent to the per-character "no candidates" branch below.
+        j = i
+        while j < n:
+            c = chunk[j]
+            if c in exact1 or chunk[j:j + 2] in exact2:
+                break
+            cf = c.casefold()
+            if cf in folded1 or (j + 1 < n and (cf + chunk[j + 1].casefold()) in folded2):
+                break
+            j += 1
+        if j > i:
+            new_chunk.append(chunk[i:j])
+            i = j
+            if i >= n:
+                break
         candidates = term_matcher.matches_at(chunk, i)
 
         # Reserve the longest known person span before applying the

@@ -692,6 +692,16 @@
     ]
   },
   {
+    "title": "Discursive Closure",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Discursive Closure.md",
+    "aliases": [
+      "话语闭合",
+      "话语空间闭合",
+      "Closure of Discursive Space"
+    ]
+  },
+  {
     "title": "Dual School System",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Dual School System.md",
@@ -1219,6 +1229,16 @@
     ]
   },
   {
+    "title": "Open Method of Coordination",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Open Method of Coordination.md",
+    "aliases": [
+      "开放协调法",
+      "开放式协调机制",
+      "OMC"
+    ]
+  },
+  {
     "title": "Pact of Domination",
     "type": "concept",
     "path": "wiki/concepts/comparative-education/Pact of Domination.md",
@@ -1457,7 +1477,8 @@
       "再语境化",
       "Re-Kontextualisierung",
       "本土重构",
-      "语境重构"
+      "语境重构",
+      "再情境化"
     ]
   },
   {
@@ -1490,6 +1511,19 @@
       "revolutionist tradition",
       "Kantian tradition",
       "康德传统"
+    ]
+  },
+  {
+    "title": "Sadler's Garden Metaphor",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Sadler's Garden Metaphor.md",
+    "aliases": [
+      "萨德勒花园隐喻",
+      "花园漫步隐喻",
+      "萨德勒植物采撷隐喻",
+      "植物采撷隐喻",
+      "Sadler's Metaphor",
+      "Strolling Through The Global Garden"
     ]
   },
   {
@@ -1624,6 +1658,17 @@
       "学生流动",
       "跨国学生流动",
       "pupil mobility"
+    ]
+  },
+  {
+    "title": "Subsidiarity Principle",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Subsidiarity Principle.md",
+    "aliases": [
+      "辅助性原则",
+      "辅助原则",
+      "Subsidiarity",
+      "Principle of Subsidiarity"
     ]
   },
   {

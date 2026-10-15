@@ -7,7 +7,8 @@ aliases:
   - Re-Kontextualisierung
   - 本土重构
   - 语境重构
-summary: "知识与教育话语脱离原始生产场所并在跨场域流转中被接受者选择性挪用、重新定位、改造并嵌入本土制度与文化秩序的再情景化过程"
+  - 再情境化
+summary: 知识与教育话语脱离原始生产场所并在跨场域流转中被接受者选择性挪用、重新定位、改造并嵌入本土制度与文化秩序的再情景化过程
 type: concept
 domain: "comparative-education"
 related_count: 61
@@ -84,7 +85,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Recontextualization

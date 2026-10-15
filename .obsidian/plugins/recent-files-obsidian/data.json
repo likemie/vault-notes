@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "EU",
+      "path": "wiki/facts/eu/EU.md"
+    },
+    {
       "basename": "Argument_Beech_2009_GlobalGarden",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Beech_2009_GlobalGarden.md"
+    },
+    {
+      "basename": "Recontextualization",
+      "path": "wiki/concepts/comparative-education/Recontextualization.md"
     },
     {
       "basename": "Michael Sadler",
@@ -11,10 +19,6 @@
     {
       "basename": "Discourse",
       "path": "wiki/concepts/research-methodology/Discourse.md"
-    },
-    {
-      "basename": "EU",
-      "path": "wiki/facts/eu/EU.md"
     },
     {
       "basename": "Argument_Garcia_Garrido_2009_SpainEU",
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Grindley_1994_JPAM",
       "path": "wiki/arguments/journal-articles/Journal of Policy Analysis and Management/Argument_Grindley_1994_JPAM.md"
-    },
-    {
-      "basename": "Argument_Karp_Zamiska_2025_Technological_Republic",
-      "path": "wiki/arguments/books/Karp_Zamiska_2025_Technological_Republic/Argument_Karp_Zamiska_2025_Technological_Republic.md"
     }
   ],
   "omittedPaths": [],
