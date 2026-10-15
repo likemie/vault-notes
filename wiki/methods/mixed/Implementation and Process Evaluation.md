@@ -103,7 +103,7 @@ updated: 2026-10-16
 > - **输出形式** [[Implementation Fidelity\|实施保真度]]量化指标、依从性依从度估计、因果路径模型、机制叙事解释、实施障碍与促进因素矩阵。
 
 > [!citation-card] 英国医学研究理事会论复杂干预的过程评估
-> 复杂干预评估必须对干预如何引发改变具备扎实的理论理解；干预未呈现出预期成效，往往可能反映的是现场实施失败（或磨合期阵痛），而非干预策略本身的根本无效。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Craig et al., 2008, 引用见 Edovald & Nevill, 2021, p. 53)]]
+> 复杂干预评估必须对干预如何引发改变具备扎实的理论理解；干预未呈现出预期成效，往往可能反映的是现场实施失败（或磨合期阵痛），而非干预策略本身的根本无效。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Craig et al., 2008, 引用见 Edovald & Nevill, 2021, p. 53, 引自 Edovald & Nevill, 2021)]]
 >
 > *A good theoretical understanding is needed of how the intervention causes change... lack of effect may reflect implementation failure (or teething problems) rather than genuine ineffectiveness.*
 

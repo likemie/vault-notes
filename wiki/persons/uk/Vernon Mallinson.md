@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-07
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Vernon Mallinson
@@ -56,7 +56,7 @@ updated: 2026-10-15
 > - **代表贡献** 著有传世教科书《比较教育学导论》（*An Introduction to the Study of Comparative Education*, 1957），为“国民性格”（[[National Character]]）提供了流传最广的经典定义，并深入开展了比利时等西欧国家的教育制度与政治权力演进研究。
 
 > [!citation-card] 马林森论国民性格与教育的函数关系
-> 教育是国民性格的函数。所谓国民性格，是指特定民族特有且广泛存在的思想、情感和行为倾向的总体，在世世代代中展现出相对的连续性。每一个民族国家教育体系的制度轮廓与精神气质，归根到底取决于该民族独特的文化沉淀与性格特质。[[Argument_Kazamias_2009_ForgottenThemes\|(Mallinson, 1957: 14; Kazamias, 2009: 40)]]
+> 教育是国民性格的函数。所谓国民性格，是指特定民族特有且广泛存在的思想、情感和行为倾向的总体，在世世代代中展现出相对的连续性。每一个民族国家教育体系的制度轮廓与精神气质，归根到底取决于该民族独特的文化沉淀与性格特质。[[Argument_Kazamias_2009_ForgottenThemes\|(Mallinson, 1957: 14; Kazamias, 2009: 40, 引自 Kazamias, 2009b)]]
 >
 > *Education 'is a function of national character', which he defined as 'the totality of dispositions to thought, feeling and behavior peculiar to and widespread in a certain people, and manifested with greater or less continuity in a succession of generations'.*
 
@@ -93,7 +93,7 @@ updated: 2026-10-15
 > 马林森将[[Michael Sadler\|萨德勒]]的校外精神力量与汉斯的世俗因素进行了高度提炼。
 
 > [!claim] Mallinson, V.
-> **[[National Character\|国民性格]]作为教育系统最深层的解释[[Variable\|变量]]** 马林森主张，任何教育制度都绝非技术官员凭空设计的行政图纸，而是民族世代相传的精神倾向总和的外在投射。学校制度的改革如果违背了本国国民性格的内在诉求，就必然陷入低效、动荡乃至失败；因此，跨国教育比较的第一要务，是透过制度表象洞悉该民族独特的心理气质与精神传统。[[Argument_Kazamias_2009_ForgottenThemes\|(Mallinson, 1957; Kazamias, 2009: 40)]]
+> **[[National Character\|国民性格]]作为教育系统最深层的解释[[Variable\|变量]]** 马林森主张，任何教育制度都绝非技术官员凭空设计的行政图纸，而是民族世代相传的精神倾向总和的外在投射。学校制度的改革如果违背了本国国民性格的内在诉求，就必然陷入低效、动荡乃至失败；因此，跨国教育比较的第一要务，是透过制度表象洞悉该民族独特的心理气质与精神传统。[[Argument_Kazamias_2009_ForgottenThemes\|(Mallinson, 1957; Kazamias, 2009: 40, 引自 Kazamias, 2009b)]]
 
 ---
 
@@ -102,7 +102,7 @@ updated: 2026-10-15
 > [!debates] 学术争议
 >
 > > [!axis] 文化深层解释 vs 循环论证与本质主义偏误
-> > - **实证学派与批判学者（Lauwerys, Kazamias, Noah & Eckstein）** 直指马林森的“[[National Character\|国民性格]]函数论”深陷循环论证：研究者往往先观察到英格兰教育缺乏中央集权集约体系，便归因于“英国人天生厌恶抽象理论与计划”；而在解释法国高度集权时，又归因于“法国人热爱秩序与理性演绎”。劳威斯指出，这种[[Construct\|构念]]到最后“能被用来解释任何事情，因而什么也解释不了”；它掩盖了国家内部的阶级冲突、族群分歧与历史偶发性。[[Argument_Kazamias_2009_ForgottenThemes\|(Lauwerys, 1959; Kazamias, 1961; Kazamias, 2009: 55)]]
+> > - **实证学派与批判学者（Lauwerys, Kazamias, Noah & Eckstein）** 直指马林森的“[[National Character\|国民性格]]函数论”深陷循环论证：研究者往往先观察到英格兰教育缺乏中央集权集约体系，便归因于“英国人天生厌恶抽象理论与计划”；而在解释法国高度集权时，又归因于“法国人热爱秩序与理性演绎”。劳威斯指出，这种[[Construct\|构念]]到最后“能被用来解释任何事情，因而什么也解释不了”；它掩盖了国家内部的阶级冲突、族群分歧与历史偶发性。[[Argument_Kazamias_2009_ForgottenThemes\|(Lauwerys, 1959; Kazamias, 1961; Kazamias, 2009: 55, 引自 Kazamias, 2009b)]]
 > > - **历史-文化传统辩护者** 则认为，国民性格概念捕捉到了跨代际文化积淀与非正式制度惯性（即当代的“[[Cultural Capital\|文化资本]]与隐性规范”），对抵御冷战时期盲目跨国技术移植具有不可磨灭的历史警戒价值。
 
 ---

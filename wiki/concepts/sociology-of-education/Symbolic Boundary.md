@@ -63,7 +63,7 @@ related_arguments:
 > - **边界** 不同于客观的社会边界（Social Boundary）；前者属于观念与道德分类的范畴，后者则属于资源分配、法律身份与阶级区隔等硬性社会事实（Lamont & Molnár, 2002）。
 
 > [!citation-card]- 关键表述
-> 象征边界是行动者用来对对象、人、实践乃至时空进行分类的脑海中的区隔线……当象征边界被广泛认同并转化为社会配给与资源控制时，它们就硬化成了社会边界。[[Argument_Zheng_2023_ShanghaiSanlian\|(转引自 Lamont & Molnár, 2002, p. 168)]]
+> 象征边界是行动者用来对对象、人、实践乃至时空进行分类的脑海中的区隔线……当象征边界被广泛认同并转化为社会配给与资源控制时，它们就硬化成了社会边界。[[Argument_Zheng_2023_ShanghaiSanlian\|(Lamont & Molnár, 2002, p. 168, 转引自 郑雅君, 2023)]]
 >
 > *“Symbolic boundaries are conceptual distinctions made by social actors to categorize objects, people, practices, and even time and space. ... Only when symbolic boundaries are widely agreed upon can they take on a constraining character and become social boundaries.”*
 

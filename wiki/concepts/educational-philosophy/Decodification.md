@@ -110,15 +110,15 @@ updated: 2026-10-16
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **解码飞跃命题** | 探讨解码如何促成“我们思考”与[[Praxis\|实践]] | [[Problem-Posing Education\|提问式教育]]与文化圈[[Dialogue in Education\|对话]] | [[Paulo Freire\|Freire, P.]]; [[Argument_Darwish_2009_Queens\|Darwish, B.]] |
+> | **解码飞跃命题** | 探讨解码如何促成“我们思考”与[[Praxis\|实践]] | [[Problem-Posing Education\|提问式教育]]与文化圈[[Dialogue in Education\|对话]] | [[Paulo Freire\|Freire, P.]]; [[Argument_Darwish_2009_Queens\|Darwish (2009)]] |
 
 ---
 
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1970 — 理论体系构建** [[Paulo Freire\|弗莱雷]]在《被压迫者教育学》中将解码明确为[[Epistemology\|认识论]]觉醒的关键环节。[[Argument_Darwish_2009_Queens\|(Freire, 2000, p. 105)]]
-> - **1973 — 认识论飞跃论述** 在《批判意识教育》中提出解码实现了“我们思考”（We think）的横向飞跃。[[Argument_Darwish_2009_Queens\|(Freire, 1973, p. 135)]]
+> - **1970 — 理论体系构建** [[Paulo Freire\|弗莱雷]]在《被压迫者教育学》中将解码明确为[[Epistemology\|认识论]]觉醒的关键环节。[[Argument_Darwish_2009_Queens\|(Freire, 2000, p. 105, 引自 Darwish, 2009)]]
+> - **1973 — 认识论飞跃论述** 在《批判意识教育》中提出解码实现了“我们思考”（We think）的横向飞跃。[[Argument_Darwish_2009_Queens\|(Freire, 1973, p. 135, 引自 Darwish, 2009)]]
 > - **2009 — 课程对比应用** 达维什在学位论文第 4 章中将解码作为评估[[Active Learning\|主动学习]]深度的重要标准。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 61)]]
 
 ---

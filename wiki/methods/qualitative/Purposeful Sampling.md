@@ -147,5 +147,5 @@ Teddlie and Yu（2007）和 Teddlie and Tashakkori（2009, p. 174）系统梳理
 ## 使用此方法的研究
 
 > [!example]- 研究案例索引
-> - [[Argument_Cai_Gao_Liu_2025_HE\|Cai 等 (2025)]]：分析教师档案、机构网站和媒体报道，识别 [[Guangdong-Hong Kong-Macau Greater Bay Area\|GBA]] 四城 39 名教师中 30 名跨部门关键节点。
+> - [[Argument_Cai_Gao_Liu_2025_HE\|Cai et al. (2025)]]：分析教师档案、机构网站和媒体报道，识别 [[Guangdong-Hong Kong-Macau Greater Bay Area\|GBA]] 四城 39 名教师中 30 名跨部门关键节点。
 

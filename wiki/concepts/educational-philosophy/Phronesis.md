@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-03
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Phronesis（实践明智 / 实践智慧）
@@ -175,7 +175,7 @@ updated: 2026-10-15
 
 > [!dev-timeline] 概念演变
 > - **BC 350 — 哲学奠基** [[Aristotle|亚里士多德]]在《尼各马可伦理学》卷六中系统区分[[Theoretical Knowledge|理论知识]]（Episteme）、制作技术（Techne）与实践明智（Phronesis），将后者确立为指导伦理政治行动的核心德性。
-> - **1969/1987 — 课程与教育哲学复兴** 施瓦布发表《实践：课程的语言》，葛兰蒂出版《课程：产品、过程与实践》，将 *Phronesis* 引入教育学，批判[[Tyler Rationale|泰勒原理]]式的技术控制主义。[[Argument_Darwish_2009_Queens|(Grundy, 1987, p. 61)]]
+> - **1969/1987 — 课程与教育哲学复兴** 施瓦布发表《实践：课程的语言》，葛兰蒂出版《课程：产品、过程与实践》，将 *Phronesis* 引入教育学，批判[[Tyler Rationale|泰勒原理]]式的技术控制主义。[[Argument_Darwish_2009_Queens|(Grundy, 1987, p. 61, 引自 Darwish, 2009)]]
 > - **2000s — 教师专业临床判断与实践探究** [[Stephen Kemmis|凯米斯]]（Stephen Kemmis）等倡导[[Practitioner Enquiry|实践者探究]]（Practitioner Enquiry），强调教师作为具备实践明智的专业实践者而非教条执行者。
 > - **2020s 至今 — 智能时代手艺传承与反纯算力迷思** 面对大语言模型与自动化系统的普及，科学哲学与科技政策学者重新发现 *Phronesis* 在实体工程排障、复杂实验仪器研制与人机共创中的独特价值，强调机器算法无法替代具身实践智慧。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 51, 56)]]
 
@@ -186,7 +186,7 @@ updated: 2026-10-15
 > [!debates] 核心争议
 >
 > > [!axis] 情境实践智慧 vs 批判解放理性的张力
-> > 法兰克福学派[[Critical Theory|批判理论]]学者指出，过分强调在既定社会与制度传统内的“适切审议”，容易诱导实践者顺从既有权力结构，缺乏打破体制压迫的解放反思力量。[[Argument_Darwish_2009_Queens|(Grundy, 1987, p. 64)]]
+> > 法兰克福学派[[Critical Theory|批判理论]]学者指出，过分强调在既定社会与制度传统内的“适切审议”，容易诱导实践者顺从既有权力结构，缺乏打破体制压迫的解放反思力量。[[Argument_Darwish_2009_Queens|(Grundy, 1987, p. 64, 引自 Darwish, 2009)]]
 >
 > > [!axis] 默会直觉的不可编码性 vs 现代科学标准化管理的冲突
 > > 强调实践智慧的不可编码性常被标准化管理主义者批评为“主观黑箱”，容易沦为缺乏客观度量指标与问责凭据的借口；而实践论者则反驳过度量化与算法控制必然扼杀真正的专业[[Creativity|创造力]]。

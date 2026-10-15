@@ -111,14 +111,14 @@ updated: 2026-10-16
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **编码中介命题** | 探讨编码如何拉开反思距离促成[[Dialogue in Education\|对话]] | 识字文化圈与批判课堂 | [[Paulo Freire\|Freire, P.]]; Heaney (2005); [[Argument_Darwish_2009_Queens\|Darwish, B.]] |
+> | **编码中介命题** | 探讨编码如何拉开反思距离促成[[Dialogue in Education\|对话]] | 识字文化圈与批判课堂 | [[Paulo Freire\|Freire, P.]]; Heaney (2005); [[Argument_Darwish_2009_Queens\|Darwish (2009)]] |
 
 ---
 
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1970 — 概念确立** [[Paulo Freire\|弗莱雷]]在《被压迫者教育学》中将编码作为[[Problem-Posing Education\|提问式教育]]的具象探究中介。[[Argument_Darwish_2009_Queens\|(Freire, 2000, p. 105)]]
+> - **1970 — 概念确立** [[Paulo Freire\|弗莱雷]]在《被压迫者教育学》中将编码作为[[Problem-Posing Education\|提问式教育]]的具象探究中介。[[Argument_Darwish_2009_Queens\|(Freire, 2000, p. 105, 引自 Darwish, 2009)]]
 > - **2005 — 批判识字推广** 希尼（ToM Heaney）总结编码在跨文化成人批判识字项目中的应用经验。[[Argument_Darwish_2009_Queens\|(Heaney, 2005; Darwish, 2009, p. 53)]]
 
 ---

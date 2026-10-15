@@ -114,7 +114,7 @@ updated: 2026-10-16
 > [!influence-path] 影响路径
 > - **法国本土制度路径** [[Guizot Law of 1833\|基佐法案]]在全法掀起了史无前例的建校浪潮：数年内法国公立初等小学由两万余所激增至三万余所，公立[[Normal School\|师范学校]]覆盖绝大多数省份，首创全境专职皇家督学网（Inspecteurs primaires），彻底确立了法国国家初等教育的制度化根基。
 > - **欧陆比较[[Policy Borrowing\|政策借用]]典范** 基佐借用[[Victor Cousin\|库森]]的研究网络，将普鲁士枢密顾问官[[Johann Wilhelm Süvern\|聚芬]]的《1819 年普鲁士[[Comprehensive Education|综合教育]]法草案》技术条款巧妙嫁接至法国七月王朝立宪政制之中，开创了 19 世纪欧陆自上而下将域外先进经验转置为本土实定法的制度移植经典[[Paradigm\|范式]]。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 27–29)]]
-> - **跨大西洋公学合法化示范** 基佐通过国家实定法建立初等公学与公立师范的巨大实绩，被英国《外国季刊评论》（*Foreign Quarterly Review*）与美国教育史学家评价为“无可辩驳的成功证明：普及国民初等教育绝非空想家的大脑幻象，而是如同维持陆军与海军一般必须由国家建立并维持的制度常态”，有力支撑了北美[[Common School Movement\|公学运动]]的立法游说。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(pp. 27–28)]]；引自 Knight (1930:116–119)
+> - **跨大西洋公学合法化示范** 基佐通过国家实定法建立初等公学与公立师范的巨大实绩，被英国《外国季刊评论》（*Foreign Quarterly Review*）与美国教育史学家评价为“无可辩驳的成功证明：普及国民初等教育绝非空想家的大脑幻象，而是如同维持陆军与海军一般必须由国家建立并维持的制度常态”，有力支撑了北美[[Common School Movement\|公学运动]]的立法游说。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 27–28)]]；引自 Knight (1930:116–119)
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 系统剖析基佐如何依托库森的普鲁士报告，将德国君主制法案条款[[Going Native\|本土化]]重构为法国七月王朝大资产阶级立宪秩序的法典基石。
@@ -159,7 +159,7 @@ updated: 2026-10-16
 > > - **立宪自由派（Guizot; Cousin）** 辩护称法案明确在公立小学课程中保留宗教道德教育，并法定承认办学自由，达成了保护信仰自由与确立国家主权的最佳平衡。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009, pp. 27–29)]]
 >
 > > [!axis] 折衷自由主义的中道改良 vs 大资产阶级秩序防卫与阶级再生产
-> > - **激进共和派与社会主义学者** 严厉批判基佐奉行的“致富吧（*Enrichissez-vous*）”阶级政治与折衷主义教育路线，指出其创设的初小与高级小学双轨制，实质上是将工商业中产与平民劳工在体制内永久固化，服务于奥尔良大资产阶级寡头政治对底层流血暴动的防范与统治维护。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(pp. 28, 30)]]
+> > - **激进共和派与社会主义学者** 严厉批判基佐奉行的“致富吧（*Enrichissez-vous*）”阶级政治与折衷主义教育路线，指出其创设的初小与高级小学双轨制，实质上是将工商业中产与平民劳工在体制内永久固化，服务于奥尔良大资产阶级寡头政治对底层流血暴动的防范与统治维护。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 28, 30)]]
 
 > [!warning] 适用边界
 > 基佐的国民教育法制思想以有限财产普选制（立宪资产阶级寡头统治）为社会预设，排斥平民彻底民主普选与完全免收学费的激进共和平等诉求（仅对经查明确认的赤贫儿童免费）；因而在第三共和国建立后，被费里（Jules Ferry）推行的世俗、免费与完全义务教育法案所进一步激进替代。

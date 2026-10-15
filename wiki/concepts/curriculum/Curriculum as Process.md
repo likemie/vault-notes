@@ -111,15 +111,15 @@ updated: 2026-10-16
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **探究自由命题** | 过程模式通过[[Phronesis\|实践明智]]保障自由探究 | 人文科学、[[Theory of Knowledge\|TOK]] 课程与反思课堂 | Stenhouse (1975); [[Argument_Darwish_2009_Queens\|Darwish, B.]] |
+> | **探究自由命题** | 过程模式通过[[Phronesis\|实践明智]]保障自由探究 | 人文科学、[[Theory of Knowledge\|TOK]] 课程与反思课堂 | Stenhouse (1975); [[Argument_Darwish_2009_Queens\|Darwish (2009)]] |
 
 ---
 
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1975 — 过程模式提出** 斯滕豪斯在《课程研究与开发引论》中创立过程模式。[[Argument_Darwish_2009_Queens\|(Stenhouse, 1975)]]
-> - **1987 — 理论归类** 格伦迪将过程模式归结为基于[[Aristotle\|亚里士多德]] *[[Phronesis]]* 的实践利益[[Paradigm\|范式]]。[[Argument_Darwish_2009_Queens\|(Grundy, 1987)]]
+> - **1975 — 过程模式提出** 斯滕豪斯在《课程研究与开发引论》中创立过程模式。[[Argument_Darwish_2009_Queens\|(Stenhouse, 1975, 引自 Darwish, 2009)]]
+> - **1987 — 理论归类** 格伦迪将过程模式归结为基于[[Aristotle\|亚里士多德]] *[[Phronesis]]* 的实践利益[[Paradigm\|范式]]。[[Argument_Darwish_2009_Queens\|(Grundy, 1987, 引自 Darwish, 2009)]]
 > - **2009 — [[Theory of Knowledge\|TOK]] 定位评价** 达维什将 IB TOK 课程成功定位为卓越的“作为过程的课程”。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 72–78)]]
 
 ---

@@ -75,7 +75,7 @@ APA 格式采用“著者-出版年”制，主要分为**括号引用（Parenth
 > | 作者类型 | 首次正文括号引用 | 首次正文叙述性引用 | 后续括号引用 | 后续叙述性引用 |
 > |---|---|---|---|---|
 > | **1 位作者** | `(Smith, 2020)` | `Smith (2020)` | `(Smith, 2020)` | `Smith (2020)` |
-> | **2 位作者** | `(Smith & Jones, 2020)` | `Smith & Jones (2020)` | `(Smith & Jones, 2020)` | `Smith & Jones (2020)` |
+> | **2 位作者** | `(Smith & Jones, 2020)` | `Smith and Jones (2020)` | `(Smith & Jones, 2020)` | `Smith and Jones (2020)` |
 > | **3 位及以上作者** | `(Smith et al., 2020)` | `Smith et al. (2020)` | `(Smith et al., 2020)` | `Smith et al. (2020)` |
 > | **有缩写的机构作者** | `(National Institute of Mental Health [NIMH], 2020)` | `National Institute of Mental Health (NIMH, 2020)` | `(NIMH, 2020)` | `NIMH (2020)` |
 > | **无缩写的机构作者** | `(Stanford University, 2021)` | `Stanford University (2021)` | `(Stanford University, 2021)` | `Stanford University (2021)` |

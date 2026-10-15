@@ -115,7 +115,7 @@ updated: 2026-10-16
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **认识论危害命题** | 机械灌输与身体压抑导致学习敏感度丧失 | 传统[[Examination-Oriented Education\|应试教育]]与储蓄式课堂批判 | [[John Dewey\|Dewey, J.]]; [[Argument_Darwish_2009_Queens\|Darwish, B.]] |
+> | **认识论危害命题** | 机械灌输与身体压抑导致学习敏感度丧失 | 传统[[Examination-Oriented Education\|应试教育]]与储蓄式课堂批判 | [[John Dewey\|Dewey, J.]]; [[Argument_Darwish_2009_Queens\|Darwish (2009)]] |
 
 ---
 

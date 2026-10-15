@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-02
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 
 # Generative Themes（生成性主题）
@@ -111,7 +111,7 @@ updated: 2026-09-17
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **生成性主题命题** | 探讨切身主题如何促成[[Conscientization\|批判意识觉醒]] | [[Problem-Posing Education\|提问式教育]]与批判课程设计 | [[Paulo Freire\|Freire, P.]]; [[Argument_Darwish_2009_Queens\|Darwish, B.]] |
+> | **生成性主题命题** | 探讨切身主题如何促成[[Conscientization\|批判意识觉醒]] | [[Problem-Posing Education\|提问式教育]]与批判课程设计 | [[Paulo Freire\|Freire, P.]]; [[Argument_Darwish_2009_Queens\|Darwish (2009)]] |
 
 ---
 
@@ -119,7 +119,7 @@ updated: 2026-09-17
 
 > [!dev-timeline] 概念演变
 > - **1963 — 昂吉科斯识字实验** [[Paulo Freire\|弗莱雷]]在巴西东北部识字运动中提取 17 个生成性词汇（如 Tijolo/泥砖, Salário/工资）。[[Argument_Darwish_2009_Queens\|(Freire, 1973; Darwish, 2009, p. 48)]]
-> - **1970 — 理论体系化** 在《被压迫者教育学》中将生成性主题升华为[[Critical Pedagogy\|批判教育学]]的核心课程理论。[[Argument_Darwish_2009_Queens\|(Freire, 2000, p. 96)]]
+> - **1970 — 理论体系化** 在《被压迫者教育学》中将生成性主题升华为[[Critical Pedagogy\|批判教育学]]的核心课程理论。[[Argument_Darwish_2009_Queens\|(Freire, 2000, p. 96, 引自 Darwish, 2009)]]
 > - **2009 — 课程批判应用** 达维什在学位论文中将其作为评估 IB 课程[[Active Learning\|主动学习]]真实性的分析工具。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 47)]]
 
 ---

@@ -111,14 +111,14 @@ updated: 2026-10-16
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **恢复人性命题** | 探讨教育如何消解物化恢复人性 | 批判教育哲学与社会变革 | [[Paulo Freire\|Freire, P.]]; [[Argument_Darwish_2009_Queens\|Darwish, B.]] |
+> | **恢复人性命题** | 探讨教育如何消解物化恢复人性 | 批判教育哲学与社会变革 | [[Paulo Freire\|Freire, P.]]; [[Argument_Darwish_2009_Queens\|Darwish (2009)]] |
 
 ---
 
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1970 — 存在论奠基** [[Paulo Freire\|弗莱雷]]在《被压迫者教育学》第 1 章奠定非人性化作为[[Critical Pedagogy\|批判教育学]]的存在论起点。[[Argument_Darwish_2009_Queens\|(Freire, 2000, p. 43)]]
+> - **1970 — 存在论奠基** [[Paulo Freire\|弗莱雷]]在《被压迫者教育学》第 1 章奠定非人性化作为[[Critical Pedagogy\|批判教育学]]的存在论起点。[[Argument_Darwish_2009_Queens\|(Freire, 2000, p. 43, 引自 Darwish, 2009)]]
 > - **2004 — 民主国家伦理扩展** 弗莱雷在《行知力》中强调有为干预型国家有责任消除非人性化不公。[[Argument_Darwish_2009_Queens\|(Freire, 2004b, p. 35; Darwish, 2009, p. 61)]]
 
 ---

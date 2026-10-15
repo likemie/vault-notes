@@ -112,14 +112,14 @@ updated: 2026-10-16
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **驯化本质命题** | 叙事病切断语言与现实联系，维护压迫 | 传统灌输课堂与标准化应试 | [[Paulo Freire\|Freire, P.]]; [[Argument_Darwish_2009_Queens\|Darwish, B.]] |
+> | **驯化本质命题** | 叙事病切断语言与现实联系，维护压迫 | 传统灌输课堂与标准化应试 | [[Paulo Freire\|Freire, P.]]; [[Argument_Darwish_2009_Queens\|Darwish (2009)]] |
 
 ---
 
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1970 — 概念确立** [[Paulo Freire\|弗莱雷]]在《被压迫者教育学》中提出“叙事病”，诊断拉美传统教育的统治工具属性。[[Argument_Darwish_2009_Queens\|(Freire, 2000, p. 71)]]
+> - **1970 — 概念确立** [[Paulo Freire\|弗莱雷]]在《被压迫者教育学》中提出“叙事病”，诊断拉美传统教育的统治工具属性。[[Argument_Darwish_2009_Queens\|(Freire, 2000, p. 71, 引自 Darwish, 2009)]]
 > - **2009 — 课程批判应用** Darwish 引用叙事病解构传统学校教育对学生好奇心与批判思维的压制。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 45)]]
 
 ---

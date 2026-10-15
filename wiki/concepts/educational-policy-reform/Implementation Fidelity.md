@@ -99,7 +99,7 @@ updated: 2026-10-16
 > - **现实边界** 实施保真度不等于盲目的教条化复制；在复杂的学校组织生态中，合理的校本调适往往是干预持续运行的前提，严防将正常的良性调试误判为执行偏离。
 
 > [!citation-card] 复杂干预评估中的实施失败与机制识别
-> 复杂干预评估必须对干预如何引发改变具备扎实的理论理解；干预未呈现出预期成效，往往可能反映的是现场实施失败（或磨合期阵痛），而非干预策略本身的根本无效。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Craig et al., 2008, 引用见 Edovald & Nevill, 2021, p. 53)]]
+> 复杂干预评估必须对干预如何引发改变具备扎实的理论理解；干预未呈现出预期成效，往往可能反映的是现场实施失败（或磨合期阵痛），而非干预策略本身的根本无效。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Craig et al., 2008, 引用见 Edovald & Nevill, 2021, p. 53, 引自 Edovald & Nevill, 2021)]]
 >
 > *"Evaluation of complex interventions requires a good theoretical understanding of how the intervention causes change... A weak effect in an evaluation may reflect implementation failure (or teething problems) rather than genuine failure of the intervention."*
 
@@ -172,7 +172,7 @@ updated: 2026-10-16
 > 围绕因果试验中主[[Effect Size\|效应量]]未达显著时的归因困境，学者论证缺乏过程监控的黑箱评估极易将一线执行妥协与师资磨合问题误判为干预原理的破产。
 
 > [!claim] Craig, P. et al.
-> **实施失败与理论失败的本质区分** 复杂社会与教育干预由多个相互关联的组件构成，对情境高度敏感。在英国医学研究理事会（Medical Research Council，[[Meta-Representational Competence\|MRC]]）复杂干预评估框架中，学者指出干预在终结性评估中呈现出的弱效应或零结果，往往是现场实施失败（implementation failure）或磨合期阵痛（teething problems）的直接体现，绝不能简单等同于干预理论逻辑的根本失效。如果评估缺乏对实施过程的深入剖析，决策者将不可避免地过早抛弃极具潜力的有效理论。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Craig et al., 2008, 引用见 Edovald & Nevill, 2021, p. 53)]]
+> **实施失败与理论失败的本质区分** 复杂社会与教育干预由多个相互关联的组件构成，对情境高度敏感。在英国医学研究理事会（Medical Research Council，[[Meta-Representational Competence\|MRC]]）复杂干预评估框架中，学者指出干预在终结性评估中呈现出的弱效应或零结果，往往是现场实施失败（implementation failure）或磨合期阵痛（teething problems）的直接体现，绝不能简单等同于干预理论逻辑的根本失效。如果评估缺乏对实施过程的深入剖析，决策者将不可避免地过早抛弃极具潜力的有效理论。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Craig et al., 2008, 引用见 Edovald & Nevill, 2021, p. 53, 引自 Edovald & Nevill, 2021)]]
 
 > [!claim] Edovald, T. & Nevill, C.
 > **早期[[Black Box RCTs\|黑箱试验]]的证据困境与 [[Implementation and Process Evaluation\|IPE]] 制度化** 英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation，EEF）在早期资助试验中发现，由于缺乏实施保真度测量，大量试验得出零结果后陷入了既道不明执行细节、又无法解释因果机制的黑箱尴尬（Morris et al., 2016）。为此，EEF 强制要求所有后续试验必须将量化 [[Randomised Controlled Trials\|RCT]] 与实施与过程评估（Implementation and Process Evaluation，IPE）深度嵌合，通过[[Classroom Observation|课堂观察]]编码、培训出勤追踪与 [[TIDieR]] 规程，确保[[Chain of Evidence\|证据链]]能够准确回答项目究竟是未被做好还是本身无效。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 53–54)]]
@@ -188,10 +188,10 @@ updated: 2026-10-16
 > 围绕干预从小规模实验走向全系统推广时的[[Fade-out Effect\|效应衰减]]现象，研究者揭示了盲目扩大[[Sample Size Determination\|样本量]]与维持高保真度之间不可避免的组织冲突。
 
 > [!claim] Kitmitto, E. et al.
-> **儿童哲学效果试验中的多层培训稀释危机** 在针对小学高年级儿童哲学（Philosophy for Children，P4C）的干预中，第一阶段小规模[[Efficacy Trial\|效力试验]]中（Hanley et al., 2015），由资助方与开发团队密切监督实施，学生阅读与数学成绩显著提升了约 2 个月的学习进展；然而，当该项目进入第二阶段并在数百所学校开展大规模效果检验时（Kitmitto et al., 2018），为了满足统计功效所需的大样本，项目方不得不仓促招募大量新培训师。多层级的培训稀释导致关键的思辨教学规程在班级层面严重走样变形，最终主效应量归零，生动展示了规模化导致保真度崩溃的现实风险。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Kitmitto et al., 2018, 引用见 Edovald & Nevill, 2021, p. 57)]]
+> **儿童哲学效果试验中的多层培训稀释危机** 在针对小学高年级儿童哲学（Philosophy for Children，P4C）的干预中，第一阶段小规模[[Efficacy Trial\|效力试验]]中（Hanley et al., 2015），由资助方与开发团队密切监督实施，学生阅读与数学成绩显著提升了约 2 个月的学习进展；然而，当该项目进入第二阶段并在数百所学校开展大规模效果检验时（Kitmitto et al., 2018），为了满足统计功效所需的大样本，项目方不得不仓促招募大量新培训师。多层级的培训稀释导致关键的思辨教学规程在班级层面严重走样变形，最终主效应量归零，生动展示了规模化导致保真度崩溃的现实风险。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Kitmitto et al., 2018, 引用见 Edovald & Nevill, 2021, p. 57, 引自 Edovald & Nevill, 2021)]]
 
 > [!claim] World Health Organization & ExpandNet
-> **规模化是脆弱的系统重构过程** 世界卫生组织与 Exp and Net (2009) 强调，干预不能简单依靠机械增加学校数量来完成规模化推广。随着试验网络层级增加，最初由专家团队直接传递的操作标准会迅速遭受衰减；如果没有成体系的保真度支持网络，任何规模化都会蜕变为对干预活性成分的形式化稀释。[[Argument_Edovald_Nevill_2021_ECNUROE\|(WHO & ExpandNet, 2009, 引用见 Edovald & Nevill, 2021, p. 57)]]
+> **规模化是脆弱的系统重构过程** 世界卫生组织与 Exp and Net (2009) 强调，干预不能简单依靠机械增加学校数量来完成规模化推广。随着试验网络层级增加，最初由专家团队直接传递的操作标准会迅速遭受衰减；如果没有成体系的保真度支持网络，任何规模化都会蜕变为对干预活性成分的形式化稀释。[[Argument_Edovald_Nevill_2021_ECNUROE\|(WHO & ExpandNet, 2009, 引用见 Edovald & Nevill, 2021, p. 57, 引自 Edovald & Nevill, 2021)]]
 
 ---
 
@@ -217,7 +217,7 @@ updated: 2026-10-16
 > **情境多重过滤器下的适应性实施法则** 教育创新在进入真实学校时，必须穿过现行课程体系、学区问责压力、既有基础设施、校长领导风格以及社区文化等多重组织过滤器。过于教条地将保真度定义为对每一个技术细节的一字不差照搬，不仅会剥夺教师的专业自主能动性，更会引发一线抵触；合理的地方适应性调整（local adaptations）往往是项目克服组织阻力、实现长效持续运行的必要保障，绝非执行失败的表征。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 111–113)]]
 
 > [!claim] Humphrey, N. et al.
-> **刚性边界与弹性调试的共存规范** 曼彻斯特大学评估团队在为 EEF 制定实施与过程评估指南时提出，评估不应盲目追求百分之百的机械保真，而应依托 TIDieR 框架精确区分项目的刚性非谈判要素（Non-negotiable core components）与校本弹性调试区（Adaptable perimeter）。只要教师恪守了核心活性成分，其针对特定生源与课表进行的灵活调整有助于提升干预黏性与实效。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Humphrey et al., 2016, 引用见 Edovald & Nevill, 2021, p. 54)]]
+> **刚性边界与弹性调试的共存规范** 曼彻斯特大学评估团队在为 EEF 制定实施与过程评估指南时提出，评估不应盲目追求百分之百的机械保真，而应依托 TIDieR 框架精确区分项目的刚性非谈判要素（Non-negotiable core components）与校本弹性调试区（Adaptable perimeter）。只要教师恪守了核心活性成分，其针对特定生源与课表进行的灵活调整有助于提升干预黏性与实效。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Humphrey et al., 2016, 引用见 Edovald & Nevill, 2021, p. 54, 引自 Edovald & Nevill, 2021)]]
 
 ---
 

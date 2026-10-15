@@ -100,8 +100,8 @@ updated: 2026-10-16
 ## 概念演变
 
 > [!dev-timeline] 科学自给自足概念的发展
-> - **1976 — 发展中国家技术自立倡议** F. R. Sagasti (1976) 在拉美与非洲背景下提出发展中国家需要通过平衡自主发展与国际协作来构建“技术自足”（technological self-reliance）[[Argument_Dezhina_2022_ECO\|(Sagasti, 1976)]]。
-> - **2010–2020 — 全球化逆转与脱钩研究** 因金融危机和贸易战影响，学术界对全球化危机背景下的“学术孤立主义”和技术保护主义开展系统研究 [[Argument_Dezhina_2022_ECO\|(Tang, 2020; Pencea, 2021)]]。
+> - **1976 — 发展中国家技术自立倡议** F. R. Sagasti (1976) 在拉美与非洲背景下提出发展中国家需要通过平衡自主发展与国际协作来构建“技术自足”（technological self-reliance）[[Argument_Dezhina_2022_ECO\|(Sagasti, 1976, 引自 Dezhina & Egerev, 2022)]]。
+> - **2010–2020 — 全球化逆转与脱钩研究** 因金融危机和贸易战影响，学术界对全球化危机背景下的“学术孤立主义”和技术保护主义开展系统研究 [[Argument_Dezhina_2022_ECO\|(Tang, 2020; Pencea, 2021, 引自 Dezhina & Egerev, 2022)]]。
 > - **2022 — 俄罗斯学术自闭模式研究** Dezhina & Egerev 结合乌克兰危机以来的多案例数据，论证了科学政策中的“自足政策”如何偏离正常国际协作路径 [[Argument_Dezhina_2022_ECO\|(Dezhina & Egerev, 2022)]]。
 
 ---

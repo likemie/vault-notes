@@ -217,6 +217,6 @@ Kvale（1996, p. 88）提出访谈调查的七个阶段（[[Argument_Cohen_Manio
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 系统介绍[[Interview Protocol\|访谈协议]]、追问策略和质性访谈实施要点。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch21\|Cohen et al. (2011, Ch. 21)]] — 全面覆盖访谈类型、规划、实施、分析及伦理。
-> - [[Argument_ODwyer_Filieri_OMalley_2023_JTT\|ODwyer et al. (2023)]] — [[University-Industry Collaboration\|产学合作]]网络演化，10 次[[Semi-structured Interview\|半结构化访谈]]，10 家跨国企业 + 8 所学术机构。
+> - [[Argument_ODwyer_Filieri_OMalley_2023_JTT\|O'Dwyer et al. (2023)]] — [[University-Industry Collaboration\|产学合作]]网络演化，10 次[[Semi-structured Interview\|半结构化访谈]]，10 家跨国企业 + 8 所学术机构。
 >
 > [[In-depth Interview\|深度访谈]]的详细案例和核心特征详见 [[In-depth Interview]]。

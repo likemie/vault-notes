@@ -119,7 +119,7 @@ updated: 2026-10-16
 > - **1923** **参与创立哥大国际研究所并开创研究生培养** 在保罗·门罗倡议下参与创立哥伦比亚大学师范学院国际研究所（International Institute），受聘为比较教育学教授，开创全球现代跨国比较教育研究生专业培养体系。
 > - **1924–1944** **主持编纂 21 卷《教育年鉴》百科全书式记录** 独立创办并主持编纂国际研究所《教育年鉴》（*Educational Yearbook*，共 21 卷），系统记录两次世界大战之间全球数十个主要国家的制度变迁、法案改革与课程演进，成为 20 世纪前半叶记录全球教育演进最重要的权威文献库。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 7–8)]]
 > - **1933** **划时代巨著《比较教育》确立国家解释[[Variable\|变量]]** 出版划时代代表作《比较教育》（*Comparative Education*），系统奠定历史-[[Philosophical Analysis in Education\|哲学分析]][[Paradigm\|范式]]，在学科史上首次将国家（The State）确立为统领全局的核心情境解释变量，并提出规范的因果探究三阶段流程。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 45–48)]]
-> - **1934–1941** **直面极权主义扩张并构筑[[Democratic Education\|民主教育]]防线** 相继出版《纳粹的塑造》（*The Making of Nazis*, 1934）、《相互冲突的教育理论》（*Conflicting Theories of Education*, 1938）与《一个时代的终结》（*The End of an Era*, 1941），率先揭露法西斯极权政权利用学校进行政治灌输与动员的危害，主张以尊重多元文化的[[Cultural Nationalism vs. Political Nationalism\|文化民族主义]]抵御侵略性政治民族主义。[[Argument_Kazamias_2009_ForgottenThemes\|(Herzog, 1960; Kazamias, 1963: 385; 2009b: 48–49)]]
+> - **1934–1941** **直面极权主义扩张并构筑[[Democratic Education\|民主教育]]防线** 相继出版《纳粹的塑造》（*The Making of Nazis*, 1934）、《相互冲突的教育理论》（*Conflicting Theories of Education*, 1938）与《一个时代的终结》（*The End of an Era*, 1941），率先揭露法西斯极权政权利用学校进行政治灌输与动员的危害，主张以尊重多元文化的[[Cultural Nationalism vs. Political Nationalism\|文化民族主义]]抵御侵略性政治民族主义。[[Argument_Kazamias_2009_ForgottenThemes\|(Herzog, 1960; Kazamias, 1963: 385; 2009b: 48–49, 引自 Kazamias, 2009b)]]
 > - **1937** **大洋洲巡回讲学与跨国民主教育咨询** 受[[Australian Council for Educational Research\|澳大利亚教育研究委员会]]（Australian Council for Educational Research, ACER）与新西兰政府邀请赴大洋洲展开学术巡讲与教育考察，在墨尔本大学等地发表演讲，系统指导英联邦国家反思过度中央集权体制，探索兼顾地方自主与教育机会均等的现代公共教育方案。
 > - **1946** **哥大荣休与重返曼彻斯特大学创设美国研究** 从哥伦比亚大学荣休；1947 至 1950 年重返英国曼彻斯特大学出任首任美国研究教授，并长期受聘为[[UNESCO\|联合国教科文组织]]核心咨询专家，积极投身战后国际理解与教育重建。
 > - **1946–1953** **执掌《学校与社会》主编捍卫博雅[[Academic Freedom\|学术自由]]** 出任全美声誉卓著的教育权威周刊《学校与社会》（*School and Society*）主编。在战后麦卡锡主义政治阴影与极端[[Technical Rationality\|技术理性]]泛滥的社会思潮中，坎德尔发表大量针砭时弊的社论，坚决捍卫[[Liberal Education\|博雅教育]]、大学学术自由与教师专业伦理，警示防止学校沦为意识形态动员或功利技术的附庸。
@@ -176,7 +176,7 @@ updated: 2026-10-16
 在政治改良诉求上，坎德尔推崇国家对社会政策的有限介入，倡导依托学校培育国际理解，以此构筑[[Cultural Nationalism vs. Political Nationalism|文化民族主义]]抵抗侵略性政治民族主义的价值防线。
 
 > [!tension] 坎德尔论民族主义的二元价值分野
-> - **文化民族主义（Cultural Nationalism）** 倡导多元文化传承、精神自主与思想包容，坚信依托学校教育培育公民批判理智与国际理解（International understanding），筑牢和平共处的人道主义底线。[[Argument_Kazamias_2009_ForgottenThemes\|(Kandel, 1933; Kazamias, 1963: 385; 2009b: 47–49)]]
+> - **文化民族主义（Cultural Nationalism）** 倡导多元文化传承、精神自主与思想包容，坚信依托学校教育培育公民批判理智与国际理解（International understanding），筑牢和平共处的人道主义底线。[[Argument_Kazamias_2009_ForgottenThemes\|(Kandel, 1933; Kazamias, 1963: 385; 2009b: 47–49, 引自 Kazamias, 2009b)]]
 > - **政治民族主义（Political Nationalism）** 沦为军国主义扩张与极权国家崇拜的政治工具，推行同质化灌输与狂热盲从，将教育系统彻底异化为排他性霸权扩张与对外征服的动员机器。[[Argument_Kazamias_2009_ForgottenThemes\|(Herzog, 1960; Kazamias, 2009b: 48–49)]]
 
 上述政治哲学建构与历史因果探究，凝练为坎德尔对学校与国家深层关系的代表性论述。

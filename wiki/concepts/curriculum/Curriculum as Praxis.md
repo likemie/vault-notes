@@ -116,14 +116,14 @@ updated: 2026-10-16
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **解放承诺命题** | 课程必须包含改变不公的实践行动 | [[Critical Pedagogy\|批判教育学]]与变革型课程设计 | Grundy (1987); [[Paulo Freire\|Freire, P.]]; [[Argument_Darwish_2009_Queens\|Darwish, B.]] |
+> | **解放承诺命题** | 课程必须包含改变不公的实践行动 | [[Critical Pedagogy\|批判教育学]]与变革型课程设计 | Grundy (1987); [[Paulo Freire\|Freire, P.]]; [[Argument_Darwish_2009_Queens\|Darwish (2009)]] |
 
 ---
 
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1987 — 理论构建** 雪莉·葛兰蒂出版《课程：产品、过程与实践》，确立实践[[Paradigm\|范式]]。[[Argument_Darwish_2009_Queens\|(Grundy, 1987)]]
+> - **1987 — 理论构建** 雪莉·葛兰蒂出版《课程：产品、过程与实践》，确立实践[[Paradigm\|范式]]。[[Argument_Darwish_2009_Queens\|(Grundy, 1987, 引自 Darwish, 2009)]]
 > - **2009 — [[Theory of Knowledge\|TOK]] 缺陷批判** 达维什在学位论文第 5 章中使用实践范式指出了 IB TOK 课程“有过程无实践”的致命缺陷。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 78–81)]]
 
 ---

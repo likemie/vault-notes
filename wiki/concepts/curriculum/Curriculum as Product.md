@@ -116,15 +116,15 @@ updated: 2026-10-16
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **技术控制命题** | 产物模式切断探究过程，压制主体能动性 | 标准化考试与技术官僚课程 | Grundy (1987); [[Argument_Darwish_2009_Queens\|Darwish, B.]] |
+> | **技术控制命题** | 产物模式切断探究过程，压制主体能动性 | 标准化考试与技术官僚课程 | Grundy (1987); [[Argument_Darwish_2009_Queens\|Darwish (2009)]] |
 
 ---
 
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1949 — [[Tyler Rationale\|泰勒原理]]奠基** 泰勒在《课程与教学的基本原理》中确立行为目标产物模式。[[Argument_Darwish_2009_Queens\|(Tyler, 1949)]]
-> - **1987 — 批判解构** 葛兰蒂（Shirley Grundy）在《课程：产品、过程与实践》中将其归类为技术利益[[Paradigm\|范式]]。[[Argument_Darwish_2009_Queens\|(Grundy, 1987)]]
+> - **1949 — [[Tyler Rationale\|泰勒原理]]奠基** 泰勒在《课程与教学的基本原理》中确立行为目标产物模式。[[Argument_Darwish_2009_Queens\|(Tyler, 1949, 引自 Darwish, 2009)]]
+> - **1987 — 批判解构** 葛兰蒂（Shirley Grundy）在《课程：产品、过程与实践》中将其归类为技术利益[[Paradigm\|范式]]。[[Argument_Darwish_2009_Queens\|(Grundy, 1987, 引自 Darwish, 2009)]]
 > - **2009 — [[Theory of Knowledge\|TOK]] 对比评估** 达维什在学位论文第 5 章中将产物范式作为评价传统教育与 TOK 课程的基础标尺。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 64)]]
 
 ---

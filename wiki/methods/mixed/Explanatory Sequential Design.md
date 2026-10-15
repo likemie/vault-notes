@@ -154,7 +154,7 @@ updated: 2026-10-16
 ## 7. 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Bergeron_2015_TeachingTOK\|Bergeron (2015)]] — 采用解释性序列设计，第一阶段用大规模量化调查（N=960）检验全球[[Theory of Knowledge\|知识论]]教师的信念与态度，第二阶段通过多地[[Focus Group\|焦点小组]]访谈深入解释量化发现中的实操困境与溢出效应。
+> - [[Argument_Bergeron_2015_TeachingTOK\|Bergeron and Rogers (2015)]] — 采用解释性序列设计，第一阶段用大规模量化调查（N=960）检验全球[[Theory of Knowledge\|知识论]]教师的信念与态度，第二阶段通过多地[[Focus Group\|焦点小组]]访谈深入解释量化发现中的实操困境与溢出效应。
 > - [[Argument_Bergeron_2019_JRIE\|Bergeron and Rogers (2019)]] — 使用[[Questionnaire\|问卷]]获得了对 [[Theory of Knowledge\|TOK]] 课程实施态度的广泛定量数据，随后利用多地[[Focus Group\|焦点小组]]访谈深入了解教师面临的“时间”和“评价”等困难的具体表现。
 
 > [!example] 案例 1：Ivankova and Stick (2007)

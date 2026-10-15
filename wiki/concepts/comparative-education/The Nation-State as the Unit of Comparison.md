@@ -111,8 +111,8 @@ updated: 2026-10-16
 
 > [!feature] 核心要素
 > - **主权管辖与制度闭合性（Sovereign Territorial Closure）** 假定现代国家对其领土范围内的所有各级各类教育机构享有排他性的最高治理权，学校法案、督导体制与财政拨款构成高度制度化的统一体系。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 40)]]
-> - **国家意志与学校形态同构律（State-School Isomorphism）** 假定“有什么样的国家，就有什么样的学校”，教育的指导思想、课程大纲与人才选拔标准直接折射国家政权的统治形态（民主政体或极权政体）。[[Argument_Kazamias_2009_ForgottenThemes\|(Kandel, 1933: 274–275; Kazamias, 2009: 47–48)]]
-> - **[[Externalization\|外化]]表征与民族有机体假定（Organic Representation of National Life）** 将国民教育体系视同国家宪法或民族文学，是由历史斗争沉淀而成的活体有机体，生动表达着该民族的集体生命与文化特质。[[Argument_Kazamias_2009_ForgottenThemes\|(Sadler, 1900; Hans, 1949: 9–11; Kazamias, 2009: 40, 50)]]
+> - **国家意志与学校形态同构律（State-School Isomorphism）** 假定“有什么样的国家，就有什么样的学校”，教育的指导思想、课程大纲与人才选拔标准直接折射国家政权的统治形态（民主政体或极权政体）。[[Argument_Kazamias_2009_ForgottenThemes\|(Kandel, 1933: 274–275; Kazamias, 2009: 47–48, 引自 Kazamias, 2009b)]]
+> - **[[Externalization\|外化]]表征与民族有机体假定（Organic Representation of National Life）** 将国民教育体系视同国家宪法或民族文学，是由历史斗争沉淀而成的活体有机体，生动表达着该民族的集体生命与文化特质。[[Argument_Kazamias_2009_ForgottenThemes\|(Sadler, 1900; Hans, 1949: 9–11; Kazamias, 2009: 40, 50, 引自 Kazamias, 2009b)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -140,13 +140,13 @@ updated: 2026-10-16
 > 古典历史学派学者一致认定，比较教育绝非对脱离政治母体的分散学校事实的统计白描，而是必须将教育提升至国家政治哲学的高度。教育系统的深层结构由国家主权意志与民族历史斗争所铸就，国家是跨国比较最根本的解释[[Variable\|变量]]。
 
 > [!claim] Kandel, I.
-> **国家作为统领性情境解释变量** [[Isaac Kandel\|坎德尔]]在 1933 年代表作《比较教育》中首次将“国家（The State）”确立为跨国教育研究的核心情境解释变量。他继承[[Plato\|柏拉图]]与[[Aristotle\|亚里士多德]]的政治哲学传统，提出“每个国家都拥有其自身所意愿的教育类型”以及“有什么样的国家，便有什么样的学校”（As is the state, so is the school）。坎德尔强调，比较教育专家若不[[Refined Mastery\|精通]]关于国家与个人关系的政治理论，便无法参透制度差异背后的深层动因。[[Argument_Kazamias_2009_ForgottenThemes\|(Kandel, 1933: 274–275; Kazamias, 2009: 47–48)]]
+> **国家作为统领性情境解释变量** [[Isaac Kandel\|坎德尔]]在 1933 年代表作《比较教育》中首次将“国家（The State）”确立为跨国教育研究的核心情境解释变量。他继承[[Plato\|柏拉图]]与[[Aristotle\|亚里士多德]]的政治哲学传统，提出“每个国家都拥有其自身所意愿的教育类型”以及“有什么样的国家，便有什么样的学校”（As is the state, so is the school）。坎德尔强调，比较教育专家若不[[Refined Mastery\|精通]]关于国家与个人关系的政治理论，便无法参透制度差异背后的深层动因。[[Argument_Kazamias_2009_ForgottenThemes\|(Kandel, 1933: 274–275; Kazamias, 2009: 47–48, 引自 Kazamias, 2009b)]]
 
 > [!claim] [[Michael Sadler\|Sadler, M.]]
-> **国民教育体系作为历史生命的活体有机体** 萨德勒在 1900 年吉尔福德演讲中指出，国民教育体系是一个活生生的有机体，是漫长历史长河中被遗忘的艰难斗争的结晶；它蕴藏着民族生活的某些秘密运作机制，既反映着[[National Character\|国民性格]]的缺陷，又试图通过制度训练予以补救。因此，以民族国家为单位的研究绝不能仅看校内课业，而必须把握校外深层的国家精神生命。[[Argument_Kazamias_2009_ForgottenThemes\|(Sadler, 1900/1964: 309–310; Kazamias, 2009: 40, 44)]]
+> **国民教育体系作为历史生命的活体有机体** 萨德勒在 1900 年吉尔福德演讲中指出，国民教育体系是一个活生生的有机体，是漫长历史长河中被遗忘的艰难斗争的结晶；它蕴藏着民族生活的某些秘密运作机制，既反映着[[National Character\|国民性格]]的缺陷，又试图通过制度训练予以补救。因此，以民族国家为单位的研究绝不能仅看校内课业，而必须把握校外深层的国家精神生命。[[Argument_Kazamias_2009_ForgottenThemes\|(Sadler, 1900/1964: 309–310; Kazamias, 2009: 40, 44, 引自 Kazamias, 2009b)]]
 
 > [!claim] [[Nicholas Hans\|Hans, N.]]
-> **国民教育与国家宪法的同源[[Externalization\|外化]]律** 汉斯断言，国民教育体系与国家宪法、民族文学完全相同，都是特定民族性格的外在表达，是区分不同民族国家的根本标志。分离并剖析历史上积极参与塑造不同民族的恒久因素（自然、宗教与世俗因素），是揭示民族国家教育体系根本原则的唯一科学途径。[[Argument_Kazamias_2009_ForgottenThemes\|(Hans, 1949: 9–11; Kazamias, 2009: 40, 50)]]
+> **国民教育与国家宪法的同源[[Externalization\|外化]]律** 汉斯断言，国民教育体系与国家宪法、民族文学完全相同，都是特定民族性格的外在表达，是区分不同民族国家的根本标志。分离并剖析历史上积极参与塑造不同民族的恒久因素（自然、宗教与世俗因素），是揭示民族国家教育体系根本原则的唯一科学途径。[[Argument_Kazamias_2009_ForgottenThemes\|(Hans, 1949: 9–11; Kazamias, 2009: 40, 50, 引自 Kazamias, 2009b)]]
 
 ---
 
@@ -190,7 +190,7 @@ updated: 2026-10-16
 > > [!axis] 国家内部制度均质性假定 vs 阶级、族群与地方[[Heterogeneity\|异质性]]
 > > 争论焦点在于以民族国家为单一单位是否会将整个国家的教育现实掩盖在虚假的抽象同质性之下。
 > >
-> > - **Kandel, I.（1933）** 坚持每个民族国家具有相对统一的主权意志与民族精神，国民教育体系反映了该民族的总体共同期望。[[Argument_Kazamias_2009_ForgottenThemes\|(Kandel, 1933: xxiv; Kazamias, 2009: 40)]]
+> > - **Kandel, I.（1933）** 坚持每个民族国家具有相对统一的主权意志与民族精神，国民教育体系反映了该民族的总体共同期望。[[Argument_Kazamias_2009_ForgottenThemes\|(Kandel, 1933: xxiv; Kazamias, 2009: 40, 引自 Kazamias, 2009b)]]
 > > - **Kazamias, A.（2009）** 尖锐批评这种宏观概括遮蔽了高级资本主义工业民主国家内部剧烈的阶级分化、种族不平等与地方教育权冲突。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 48)]]
 >
 > > [!axis] 封闭国家领土容器 vs 全球跨国[[Policy Network\|政策网络]]与软治理

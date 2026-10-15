@@ -92,7 +92,7 @@ updated: 2026-10-16
 ## 理论来源与形成
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 杰里米·布雷彻（Jeremy Brecher）、蒂姆·科斯特洛（Tim Costello）与布伦丹·史密斯（Brendan Smith）在其经典著作 *Globalization from Below: The Power of Solidarity*（2000）中系统确立了草根跨国抗争理论；[[Robert Arnove|罗伯特·阿诺夫]]（Robert F. Arnove, 2005, 2009）将其系统引入比较教育研究，建构了教育改革发起方位与目标取向的双轴四象限[[Analytic Framework|分析框架]]。[[Argument_Arnove_2009_WorldSystems|(Brecher et al., 2000; Arnove, 2005, 2009, pp. 113–114)]]
+> - **提出者与原始文本** 杰里米·布雷彻（Jeremy Brecher）、蒂姆·科斯特洛（Tim Costello）与布伦丹·史密斯（Brendan Smith）在其经典著作 *Globalization from Below: The Power of Solidarity*（2000）中系统确立了草根跨国抗争理论；[[Robert Arnove|罗伯特·阿诺夫]]（Robert F. Arnove, 2005, 2009）将其系统引入比较教育研究，建构了教育改革发起方位与目标取向的双轴四象限[[Analytic Framework|分析框架]]。[[Argument_Arnove_2009_WorldSystems|(Brecher et al., 2000; Arnove, 2005, 2009, pp. 113–114, 引自 Arnove, 2009)]]
 > - **原初问题** 20 世纪 90 年代以来，[[World Trade Organization|世界贸易组织]]（World Trade Organization, WTO）、[[World Bank|世界银行]]（World Bank, WB）与跨国资本推动教育全面商品化与外包，各国外围劳工、乡村青年与原住民群体面临空前的阶层分化与公共教育权利剥夺，亟需解释分散的反全球化浪潮与教育抗争的理论[[Paradigm|范式]]。
 > - **理论资源与材料** 汲取[[Immanuel Wallerstein|沃勒斯坦]]（Wallerstein, 1997）关于资本主义历史体系终极危机的宏观政治经济学诊断；吸收戴维·哈维（David Harvey, 1989）的[[Time-Space Compression|时空压缩]]概念与爱德华兹与厄舍（Edwards & Usher, 2000）的流散空间概念；整合鲍尔斯顿与勒鲁瓦（Paulston & Leroy, 1980）的教育改革平衡与冲突四象限拓扑模型；借鉴[[Stanford School|斯坦福学派]][[John W. Meyer|约翰·迈耶]]（Meyer et al., 1997）关于普世人权作为世界文化[[Discourse|话语]]资源的论断。
 > - **形成路径** 从 1999 年西雅图抗议与跨国劳工维权等经验现象出发，阿诺夫等学者打破了将教育改革局限于“主权国家官方政策转移”的传统视野，将民间跨国网络提炼为与官方资本[[Disciplina and Doctrina|规训]]抗衡的替代极，构筑了自下而上全球化教育分析模型。
@@ -166,7 +166,7 @@ updated: 2026-10-16
 
 > [!theory-hierarchy] 教育改革发起与目标分层判读指标体系
 > - **D1｜改革发起方位与权力轴（Locus of Reform Axis）**
->   判别教育改革的动力源头、主导权归属与组织形态。[[Argument_Arnove_2009_WorldSystems|(Paulston & Leroy, 1980; Arnove, 2005, 2009, pp. 112–114)]]
+>   判别教育改革的动力源头、主导权归属与组织形态。[[Argument_Arnove_2009_WorldSystems|(Paulston & Leroy, 1980; Arnove, 2005, 2009, pp. 112–114, 引自 Arnove, 2009)]]
 >   - **D1.1｜自上而下的超国家与国家主导模式（Top-Down Hegemonic Model）**
 >     由国际金融多边机构、中央政府部委与跨国资本同盟单向推行的规训模式。
 >     - **D1.1.1｜外生性政策强加与条件绑定指标**

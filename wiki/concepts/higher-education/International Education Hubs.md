@@ -113,7 +113,7 @@ Rizvi 进一步揭示了 IEHs 兴起背后的**话语理性转移** 其正当性
 - **[[Cultural Diplomacy|文化外交]]维度** 国家利用高等教育投射进步、现代的国际形象，通过引入知名外国大学和高端文化机构提升[[Soft Power|软实力]]
 - **政治经济维度** 国家将高等教育视为可直接产生经济回报的产业，通过市场[[Liberalization|自由化]]创造高等教育产业环境
 
-这两个维度的区分揭示了一个深层逻辑：高等教育被同时用作**经济工具**和**外交资源**——但两者的操作逻辑和治理需求可能产生摩擦。具体案例机制分析详见 [[Argument_Erfurth_2022_education-hubs#论证结构]]([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.205–211]])。
+这两个维度的区分揭示了一个深层逻辑：高等教育被同时用作**经济工具**和**外交资源**——但两者的操作逻辑和治理需求可能产生摩擦。具体案例机制分析详见 [[Argument_Erfurth_2022_education-hubs#论证结构|Erfurth (2022)]]([[Argument_Erfurth_2022_education-hubs|Erfurth, 2022, pp.205–211]])。
 
 ### 教育枢纽的地缘政治重组
 

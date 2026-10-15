@@ -185,7 +185,7 @@ updated: 2026-10-16
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **民主公民培育** | 认识论责任保障真实的批判性民主探究，超越形式化主动学习 | 解放教育、社会批判与民主公民素养 | [[Paulo Freire\|Freire, P.]]; [[Argument_Darwish_2009_Queens\|Darwish, B.]] |
+> | **民主公民培育** | 认识论责任保障真实的批判性民主探究，超越形式化主动学习 | 解放教育、社会批判与民主公民素养 | [[Paulo Freire\|Freire, P.]]; [[Argument_Darwish_2009_Queens\|Darwish (2009)]] |
 > | **人机伦理守持** | 认识论责任是抵御消极认知卸载、捍卫人类认识主体性的关键底线 | 人机协同学习、统计推论与算法辅助研究 | [[Argument_Wu_2025_ER\|Wu et al. (2025)]] |
 > | **集体认知推进** | 集体认知责任驱动跨界流动、观点提升与全班分布式认知网络高密互联 | 长期协作知识建构、基于原则的科学探究共同体 | [[Argument_Zhang_2022_SE\|Zhang et al. (2022)]]; Scardamalia and Bereiter (2014) |
 
@@ -194,7 +194,7 @@ updated: 2026-10-16
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1998 — [[Liberal Education|自由教育]]学提炼** [[Paulo Freire|弗莱雷]]在《自由教育学》中阐明教育者与学习者的[[Epistemology|认识论]]态度、审慎质疑与伦理[[Open-Mindedness|开放性]]。[[Argument_Darwish_2009_Queens|(Freire, 1998a, p. 49)]]
+> - **1998 — [[Liberal Education|自由教育]]学提炼** [[Paulo Freire|弗莱雷]]在《自由教育学》中阐明教育者与学习者的[[Epistemology|认识论]]态度、审慎质疑与伦理[[Open-Mindedness|开放性]]。[[Argument_Darwish_2009_Queens|(Freire, 1998a, p. 49, 引自 Darwish, 2009)]]
 > - **2002–2006 — [[Knowledge Building Theory|知识建构理论]]中的集体认知责任确立** [[Marlene Scardamalia]] 与 [[Carl Bereiter]] 提炼集体认知责任作为 12 条经典知识建构设计原则的核心，强调对公共观点制品的共同照料与推进。
 > - **2009 — [[Conscientization|批判意识觉醒]]的认识论维度确立** 达维什明确将认识论责任作为解构批判意识觉醒的核心支柱，指出其与道德责任相辅相成。[[Argument_Darwish_2009_Queens|(Darwish, 2009, p. 54)]]
 > - **2022 — [[Reflective Structuration|反思性结构化]]中的集体责任实证** [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 证实五年级学生在人体系统长周期探究中，能主动跨越小组边界行使集体认知责任，驱动全班分布式网络互联。

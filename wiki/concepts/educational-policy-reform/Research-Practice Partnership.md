@@ -112,7 +112,7 @@ updated: 2026-10-16
 > *"Where, how and by whom knowledge is produced determines the distance between theory and practice. Collaborative forms of enquiry in which researchers and practitioners work together on a complex problem (called 'engaged scholarship' by the authors) reduce this distance in a natural way."*
 
 > [!citation-card] 全系统 RPP 能力建设的三位一体法则
-> “[[Knowledge Network for Applied Education Research\|安大略应用教育研究知识网络]]（KNAER）的实践表明，单靠知识供给无法驱动系统变革；唯有将优质知识产出（quality products）、长期协作伙伴关系（collaborative relationships）以及全系统能力建设与难题破解承诺（system-wide capacity building）深度融合，才能实现真正的[[Evidence-Informed Practice\|证据知情实践]]。”[[Argument_Nelson_2017_ER\|(Campbell et al., 2017，引于 Nelson & Campbell, 2017, p. 131)]]
+> “[[Knowledge Network for Applied Education Research\|安大略应用教育研究知识网络]]（KNAER）的实践表明，单靠知识供给无法驱动系统变革；唯有将优质知识产出（quality products）、长期协作伙伴关系（collaborative relationships）以及全系统能力建设与难题破解承诺（system-wide capacity building）深度融合，才能实现真正的[[Evidence-Informed Practice\|证据知情实践]]。”[[Argument_Nelson_2017_ER\|(Campbell et al., 2017，引于 Nelson & Campbell, 2017, p. 131, 引自 Nelson & Campbell, 2017)]]
 
 > [!boundary]- 概念边界
 > - 区别于 [[Research-Practice Gap\|研究-实践鸿沟]]：鸿沟是被诊断的结构性阻碍与现象；RPP 则是旨在弥合鸿沟、重塑关系的组织机制。
@@ -270,7 +270,7 @@ updated: 2026-10-16
 
 > [!warning] 适用局限
 > - **对制度性时间与资金的高敏感性** RPP 具有极高的沉没成本与维护门槛；一旦外部专项拨款中止或学区领导层换届，脆弱的合作协议往往面临迅速瓦解的风险。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 131)]]
-> - **缺乏长周期系统评估** 尽管 RPP 在美、英、澳等国被大范围推广，但目前针对伙伴关系自身的深层次长期影响与因果效益评估依然十分罕见，其有效性多建立在参与者主观感知[[Questionnaire\|问卷]]的基础之上。[[Argument_Revai_2022_ChangingLandscape\|(Coburn & Penuel, 2016；Révai, 2022, p. 21)]]
+> - **缺乏长周期系统评估** 尽管 RPP 在美、英、澳等国被大范围推广，但目前针对伙伴关系自身的深层次长期影响与因果效益评估依然十分罕见，其有效性多建立在参与者主观感知[[Questionnaire\|问卷]]的基础之上。[[Argument_Revai_2022_ChangingLandscape\|(Coburn & Penuel, 2016；Révai, 2022, p. 21, 引自 Révai, 2022)]]
 
 ---
 

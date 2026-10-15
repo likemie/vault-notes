@@ -119,7 +119,7 @@ updated: 2026-10-16
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **生长判定命题** | 经验的教育价值取决于其对未来生长的连带促进 | 课程设计与教学效果评估 | [[John Dewey\|Dewey, J.]]; [[Argument_Darwish_2009_Queens\|Darwish, B.]] |
+> | **生长判定命题** | 经验的教育价值取决于其对未来生长的连带促进 | 课程设计与教学效果评估 | [[John Dewey\|Dewey, J.]]; [[Argument_Darwish_2009_Queens\|Darwish (2009)]] |
 
 ---
 
