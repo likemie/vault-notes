@@ -46,7 +46,7 @@ updated: 2026-10-16
 > [!info] 背景
 > Playing for Success 是英国一项在著名足球俱乐部场地设立**学习支持中心（study support centres）** 的教育项目。该项目针对成绩不佳（underachieving）的中小学生，利用足球俱乐部的声望和设施来激发学生的学习动机。项目由 Sharp et al. (2003) 代表英国教育与技能部（Department for Education and Skills）进行了系统评估([[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, pp. 120–121]])。
 >
-> 该项目在 [[Education Endowment Foundation\|EEF]] Toolkit 的"体育参与"（Sports Participation）条目中被作为源研究之一——其异常高的[[Effect Size\|效应量]]（数学 0.80）被并入一个整体平均效应量 0.17（约 +2 个月额外进步），由此成为 Wrigley and McCusker (2019) 揭示[[Meta-meta-analysis\|元-元分析]]程序缺陷的关键案例（pp. 120–123）。
+> 该项目在 [[Education Endowment Foundation\|EEF]] Toolkit 的"体育参与"（Sports Participation）条目中被作为源研究之一——其异常高的[[Effect Size\|效应量]]（数学 0.80）被并入一个整体平均效应量 0.17（约 +2 个月额外进步），由此成为 [[Argument_Wrigley_2019_ERE|Wrigley and McCusker (2019)]] 揭示[[Meta-meta-analysis\|元-元分析]]程序缺陷的关键案例（pp. 120–123）。
 
 ## 项目设计
 

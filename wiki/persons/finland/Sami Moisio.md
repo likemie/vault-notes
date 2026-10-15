@@ -132,7 +132,7 @@ Moisio 的核心理论主张是：当代知识密集型资本主义并非纯粹�
 - 将 Harvey（1985）的资本主义地缘政治理论应用于知识经济分析([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.27–28]])
 - 将 Porter（1990）的[[National Competitive Advantage|国家竞争优势]]理论重新定位为地缘政治想象的分析对象([[Argument_Moisio_2022_Springer|Moisio, 2022, pp.26–27]])
 - 将 Crouch & Le Galès（2012）的 [[Economic Patriotism]] 概念和 Fraser（2019）的 [[Progressive Neoliberalism]] 概念引入[[Knowledge-Based Economization|知识经济化]]的空间分析
-- 在高等教育研究中：其概念被 Parreira do Amaral and Thompson（2022）引入教育治理分析。[[Argument_Zapp_2022_Springer|Zapp (2022)]] 援引 Moisio (2018) 关于教育枢纽、知识村和智慧城市的论述，以及 Moisio and Kangas (2016) 关于"全球性知识空间掩盖领土主张"的批评，用以论证大学同时是"全球知识行动者"和"地缘政治棋子"的双重角色——大学知识越是全球化，大学空间越是被国家重新领土化为竞争的场所([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.155–156]])
+- 在高等教育研究中：其概念被 [[Argument_Parreira do Amaral_2022_Springer|Parreira do Amaral and Thompson（2022）]]引入教育治理分析。[[Argument_Zapp_2022_Springer|Zapp (2022)]] 援引 Moisio (2018) 关于教育枢纽、知识村和智慧城市的论述，以及 Moisio and Kangas (2016) 关于"全球性知识空间掩盖领土主张"的批评，用以论证大学同时是"全球知识行动者"和"地缘政治棋子"的双重角色——大学知识越是全球化，大学空间越是被国家重新领土化为竞争的场所([[Argument_Zapp_2022_Springer|Zapp, 2022, pp.155–156]])
 - 在[[Further Education|继续教育]]／[[Corporate Education|企业教育]]研究中：[[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] 借用 Moisio 对地缘经济与地缘政治边界正在融合的诊断，分析[[Global Education Industry|全球教育产业]]中[[Corporate Education|企业教育]]跨国空间的建构。Moisio 的 [[Geopolitical Subject|地缘政治主体]] 概念被延伸至企业情境——企业教育不仅传授技能，更塑造员工的"空间心态"（"seeing like a company"），使员工将全球市场视为理所当然的行动空间([[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022, pp.180–182]])。详见 [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]]
 
 ---

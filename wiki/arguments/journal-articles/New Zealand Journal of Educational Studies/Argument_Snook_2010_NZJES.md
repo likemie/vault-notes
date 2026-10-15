@@ -54,7 +54,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-06
-updated: 2026-06-08
+updated: 2026-10-16
 year: 2010
 doi: ""
 citation_aliases:
@@ -64,7 +64,7 @@ citation_aliases:
 ## 研究问题
 
 > [!info] [[Research Question\|研究问题]]
-> 对 Hattie (2010) 在 NZJES 发表的"On Being a '[[Critic and Conscience of Society]]'"进行逐点再回应。核心问题：Hattie 对 [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] 批评的回应是否充分解决了实质性的方法论关切？
+> 对 [[Argument_Hattie_2010_NZJES|Hattie (2010)]] 在 NZJES 发表的"On Being a '[[Critic and Conscience of Society]]'"进行逐点再回应。核心问题：Hattie 对 [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] 批评的回应是否充分解决了实质性的方法论关切？
 
 ## 理论框架
 
@@ -81,7 +81,7 @@ citation_aliases:
 ## 核心论证
 
 > [!example] 核心论证
-> Snook et al. 逐一回应 Hattie (2010) 的辩护，论证其未能充分解决 2009 年提出的方法论关切：
+> Snook et al. 逐一回应 [[Argument_Hattie_2010_NZJES|Hattie (2010)]] 的辩护，论证其未能充分解决 2009 年提出的方法论关切：
 >
 > 1. **非学校因素** Hattie 承认自己选择性地搁置了这些因素——"不是不重要，只是不在我的轨道内"(Hattie, 2009, pp.x-xi)——但这正是问题所在：政策制定者很容易忘记这一重要限定(p.94)。Hattie 自己的研究也证实家庭背景是影响[[Academic Achievement\|学业成就]]的最重要[[Variable\|变量]]
 >
@@ -128,7 +128,7 @@ citation_aliases:
 ## 局限性与批评
 
 > [!warning] 局限性与批评
-> - 论文为 [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] 和 Hattie (2010) 之间的第三轮辩论，不引入新实证数据，侧重澄清立场和回应误读
+> - 论文为 [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] 和 [[Argument_Hattie_2010_NZJES|Hattie (2010)]] 之间的第三轮辩论，不引入新实证数据，侧重澄清立场和回应误读
 > - 未对 Hattie 提出的"学者作为社会批评者与良知"角色讨论做出系统性回应，将其视为"另一场合的辩论"(p.94)
 > - 对户外教育 d=0.17 效应的误解（在 2009 原文中指出的错误）得到了承认和撤回(p.96)
 > - 两位作者（Anne-Marie O'Neill and John O'Neill）在回应自己的批评时作为共同作者，存在立场重叠

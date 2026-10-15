@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-06'
-updated: 2026-09-11
+updated: 2026-10-16
 ---
 ## 简介
 
@@ -84,5 +84,5 @@ updated: 2026-09-11
 ## 思想发展与影响
 
 > [!note-] 思想发展与影响
-> - Phillips & Ochs 的模型启发了 Rappleye (2006) 进一步发展[[Cross-National Attraction\|跨国吸引]]力情境[[Concept Mapping\|概念地图]]，后者明确指出其工作建立在 Phillips & Ochs 框架的基础之上
+> - Phillips & Ochs 的模型启发了 [[Argument_Rappleye_2006_RCIE|Rappleye (2006)]] 进一步发展[[Cross-National Attraction\|跨国吸引]]力情境[[Concept Mapping\|概念地图]]，后者明确指出其工作建立在 Phillips & Ochs 框架的基础之上
 > - 影响了 Steiner-Khamsi 等学者对[[Policy Borrowing\|政策借用]]政治维度的深入研究

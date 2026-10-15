@@ -30,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-11'
-updated: '2026-05-18'
+updated: 2026-10-16
 ---
 
 # University of Kentucky Top-20 Plan
@@ -55,7 +55,7 @@ updated: '2026-05-18'
 ## 影响与后果
 
 > [!success]
-> 肯塔基大学面临根本性两难：要么放弃达到 USNWR Top-20 地位的排名目标，要么放弃其赠地大学使命——"为弱势群体增加教育机会，同时坚定致力于区域和州经济发展"（DeYoung & Baas, 2012, p.82, cited in [[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022, p.126]]）。这一案例被 Boyadjieva（2022）用作整章的核心例证，生动展示了排名逻辑与高等教育使命之间的不可调和冲突。
+> 肯塔基大学面临根本性两难：要么放弃达到 USNWR Top-20 地位的排名目标，要么放弃其赠地大学使命——"为弱势群体增加教育机会，同时坚定致力于区域和州经济发展"（DeYoung & Baas, 2012, p.82, cited in [[Argument_Boyadjieva_2022_Springer\|Boyadjieva, 2022, p.126]]）。这一案例被 [[Argument_Boyadjieva_2022_Springer|Boyadjieva（2022）]]用作整章的核心例证，生动展示了排名逻辑与高等教育使命之间的不可调和冲突。
 
 ---
 

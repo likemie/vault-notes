@@ -31,7 +31,7 @@ related_arguments: []
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-09-22
+updated: 2026-10-16
 ---
 
 # Hilda Taba
@@ -50,7 +50,7 @@ updated: 2026-09-22
 ## 主要思想与贡献
 
 > [!claim] 核心主张：课程发展的四个知识层次
-> Taba (1962) 提出课程设计中的四大知识层次（4 Levels of Knowledge），强调课程不可停留在具体事实的[[Rote Learning\|机械记忆]]，而必须通过结构化设计将具体事实上升为抽象主旨与思维技能。这一理论被 Darwish (2009, p. 21) 引述为 [[Theory of Knowledge\|TOK]] 课程筛选标准中“事实与主旨有效链接”的理论依据。
+> Taba (1962) 提出课程设计中的四大知识层次（4 Levels of Knowledge），强调课程不可停留在具体事实的[[Rote Learning\|机械记忆]]，而必须通过结构化设计将具体事实上升为抽象主旨与思维技能。这一理论被 [[Argument_Darwish_2009_Queens|Darwish (2009, p. 21)]] 引述为 [[Theory of Knowledge\|TOK]] 课程筛选标准中“事实与主旨有效链接”的理论依据。
 
 ---
 

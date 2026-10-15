@@ -32,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-09-22
+updated: 2026-10-16
 ---
 
 # Cultural Defense Strategies
@@ -42,7 +42,7 @@ updated: 2026-09-22
 ## 定义
 
 > [!info]
-> 文化防御策略（cultural defense strategies）是 Li（2012）在分析文化学习模型为何能在全球化中持久时提出的一个[[Analytic Framework\|分析框架]]。当一种文化长期面临外来文化价值的冲击时，该文化会形成一套"有效的篱笆和策略"，使其能够"在接受不构成威胁的外来价值的同时，保留自身的核心价值"([[Argument_Li_2012_Cambridge\|Li, 2012, pp.336-337]])。
+> 文化防御策略（cultural defense strategies）是 [[Argument_Li_2012_Cambridge|Li（2012）]]在分析文化学习模型为何能在全球化中持久时提出的一个[[Analytic Framework\|分析框架]]。当一种文化长期面临外来文化价值的冲击时，该文化会形成一套"有效的篱笆和策略"，使其能够"在接受不构成威胁的外来价值的同时，保留自身的核心价值"([[Argument_Li_2012_Cambridge\|Li, 2012, pp.336-337]])。
 
 > [!abstract]
 > Li 识别出文化处理外来思想的三种基本策略，按外来思想与既有[[Cultural Models\|文化模型]]的关系排列：

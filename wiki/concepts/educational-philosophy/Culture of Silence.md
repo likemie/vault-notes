@@ -99,7 +99,7 @@ updated: 2026-10-16
 > [!debates] 学术争议
 >
 > > [!axis] 古典教育哲学对“沉默”的合法化与现代批判
-> > 在《政治学》中，[[Aristotle\|亚里士多德]]曾赞同索福克勒斯的名言“沉默是女性的光彩”（*Politics* 1260a30），将女性与奴隶排除在批判思考之外 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 5)]]。弗莱雷与 Darwish (2009) 则指出，这种将特定阶层强加于“沉默”的传统正是[[Democratic Education\|民主教育]]与全员生长所必须克服的封建藩篱。
+> > 在《政治学》中，[[Aristotle\|亚里士多德]]曾赞同索福克勒斯的名言“沉默是女性的光彩”（*Politics* 1260a30），将女性与奴隶排除在批判思考之外 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 5)]]。弗莱雷与 [[Argument_Darwish_2009_Queens|Darwish (2009)]] 则指出，这种将特定阶层强加于“沉默”的传统正是[[Democratic Education\|民主教育]]与全员生长所必须克服的封建藩篱。
 
 ---
 

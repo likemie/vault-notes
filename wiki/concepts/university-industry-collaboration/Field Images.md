@@ -30,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # Field Images
@@ -38,7 +38,7 @@ updated: 2026-10-08
 ## 定义
 
 > [!info]
-> [[Champ\|场域]]图像（Field Images）是 Bloch & Mitterle 在 Schulze-Cleven et al.（2017）的一期 Higher Education 中提出的概念，用于重新理解高等教育中的分层（stratification）。其核心主张是：分层不应被理解为一种静态的结构（哪些大学在顶层、哪些在底层），而应被理解为一个由"场域图像"驱动的持续**过程**——排名和评估不只是报告既有的质量分布，更在**教导**学生、雇主、政府和管理者"看见"一种垂直的秩序([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, pp.806–807]])。
+> [[Champ\|场域]]图像（Field Images）是 Bloch & Mitterle 在 [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al.（2017）]]的一期 Higher Education 中提出的概念，用于重新理解高等教育中的分层（stratification）。其核心主张是：分层不应被理解为一种静态的结构（哪些大学在顶层、哪些在底层），而应被理解为一个由"场域图像"驱动的持续**过程**——排名和评估不只是报告既有的质量分布，更在**教导**学生、雇主、政府和管理者"看见"一种垂直的秩序([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, pp.806–807]])。
 
 这一概念借用了 Bourdieu 的场域理论中对"感知范畴"的强调——行动者如何认知和分类社会世界，是社会秩序再生产的关键环节。场域图像正是这种感知范畴在高等教育领域的具体运作形式：排名表、卓越标签、层级分类——这些视觉和[[Discourse|话语]]形式构成了一个关于"谁在上、谁在下"的共享认知地图。
 

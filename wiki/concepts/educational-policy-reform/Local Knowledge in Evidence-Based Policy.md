@@ -62,7 +62,7 @@ updated: 2026-10-16
 >
 > [[Argument_Wiliam_2019_ERE\|Wiliam (2019, pp.12–13)]] 为本地知识的重要性提供了政治经济学基础，引用 Hayek (1945) 的经典论证："只有拥有'特定时间和地点环境的知识'的人才能决定哪些创新可能有效，哪些虽然在其他地方有效但在特定情境中可能无效甚至适得其反。"
 >
-> > "The knowledge of the particular circumstances of time and place." — Friedrich Hayek (1945, p. 521), 引自 Wiliam (2019, p.13)
+> > "The knowledge of the particular circumstances of time and place." — Friedrich Hayek (1945, p. 521), 引自 [[Argument_Wiliam_2019_ERE|Wiliam (2019, p.13)]]
 
 ## 历史沿革
 

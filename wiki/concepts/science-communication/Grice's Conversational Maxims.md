@@ -28,7 +28,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Grice's Conversational Maxims
@@ -36,7 +36,7 @@ updated: 2026-10-07
 ## 定义
 
 > [!info]
-> Grice（1975）提出四条"合作原则"（cooperative principles）来描述人们在日常对话中如何协作以达成有效沟通。这些准则最初被认为描述了人类会话的普遍模式，但 Li（2012）在第 8 章中指出——"这些会话规则，或说[[Discourse|话语]]法，最初被认为是普遍的人类会话模式，但可能毕竟不那么普遍"。它们更常用于描述西方人的说话风格，而非所有文化的说话模式([[Argument_Li_2012_Cambridge\|Li, 2012, p.87]])。
+> Grice（1975）提出四条"合作原则"（cooperative principles）来描述人们在日常对话中如何协作以达成有效沟通。这些准则最初被认为描述了人类会话的普遍模式，但 [[Argument_Li_2012_Cambridge|Li（2012）]]在第 8 章中指出——"这些会话规则，或说[[Discourse|话语]]法，最初被认为是普遍的人类会话模式，但可能毕竟不那么普遍"。它们更常用于描述西方人的说话风格，而非所有文化的说话模式([[Argument_Li_2012_Cambridge\|Li, 2012, p.87]])。
 
 ---
 
@@ -87,7 +87,7 @@ updated: 2026-10-07
 | Clarity: 直接说清楚 | Listenership: 先听后说 | 听者的工作比说者更重——需要揣摩言外之意 |
 
 > [!tip]-
-> 详见 Li (2012) 全书论证第 8 章第三步：两套会话准则的系统对比——四条 Grice 准则与四条东亚替代准则逐条对照，每一条都根植于各自文化的世界观。
+> 详见 [[Argument_Li_2012_Cambridge|Li (2012)]] 全书论证第 8 章第三步：两套会话准则的系统对比——四条 Grice 准则与四条东亚替代准则逐条对照，每一条都根植于各自文化的世界观。
 
 ---
 

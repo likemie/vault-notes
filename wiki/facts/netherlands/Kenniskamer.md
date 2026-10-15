@@ -88,7 +88,7 @@ updated: 2026-10-16
 > [!tension] 部委嵌入型中介的制度优势与致命弱点
 > - **制度优势：政策对齐度极高** 与决策核心的物理与行政紧密度，使 Kenniskamer 的研究综合能够直接进入部长的决策流程，避免了知识传播链条中常见的信息衰减与优先级失配问题。相比独立第三方机构，其在特定政治窗口内的政策影响效率极高。
 > - **致命弱点：政治人物依附与制度沉淀缺失** Kenniskamer 的根本性制度脆弱性在于：其存续完全依托特定部长的个人政治意愿与行政主持，而非法定授权、跨党派立法或独立财政协议。一旦权力格局发生更迭，机构立即面临失去存在依据的生存危机，既无法通过学术同行认可维系公信力，也无法通过用户社群的持续需求自证价值。
-> - **与 [[Kennisrotonde]] 的制度对比** 同为荷兰语境下的教育[[Knowledge Mediation\|知识中介]]，[[Kennisrotonde]]依托 [[Netherlands Initiative for Education Research\|NRO]] 稳定的公共经费与一线教师的真实需求驱动，其制度生命力远超 Kenniskamer；后者则以夭折轨迹印证了 Burns and Schuller（2022）的核心命题：缺乏跨党派法定制度保障的孤立中介机构，必然成为政治预算短周期的牺牲品。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 62, 64]])
+> - **与 [[Kennisrotonde]] 的制度对比** 同为荷兰语境下的教育[[Knowledge Mediation\|知识中介]]，[[Kennisrotonde]]依托 [[Netherlands Initiative for Education Research\|NRO]] 稳定的公共经费与一线教师的真实需求驱动，其制度生命力远超 Kenniskamer；后者则以夭折轨迹印证了 [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns and Schuller（2022）]]的核心命题：缺乏跨党派法定制度保障的孤立中介机构，必然成为政治预算短周期的牺牲品。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 62, 64]])
 
 > [!citation-card] Burns & Schuller 论荷兰 Kenniskamer 的部委嵌入定位
 > 荷兰知识室（Kenniskamer）同样设于教育部内部，旨在响应教育部的目标与优先事项。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 62)]]

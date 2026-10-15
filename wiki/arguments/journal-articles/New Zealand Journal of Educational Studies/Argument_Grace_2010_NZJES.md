@@ -37,7 +37,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-07'
-updated: '2026-06-08'
+updated: 2026-10-16
 year: 2010
 doi: ""
 citation_aliases:
@@ -47,7 +47,7 @@ citation_aliases:
 ## 研究问题
 
 > [!info] [[Research Question\|研究问题]]
-> 本文是 Grace 对 Hattie (2010) 在 *NZJES* 45(1) 发表的"On being a '[[Critic and Conscience of Society]]'"一文的直接回应。核心问题：Hattie 是否正确理解了学术人作为"critic and conscience of society"的角色？
+> 本文是 Grace 对 [[Argument_Hattie_2010_NZJES|Hattie (2010)]] 在 *NZJES* 45(1) 发表的"On being a '[[Critic and Conscience of Society]]'"一文的直接回应。核心问题：Hattie 是否正确理解了学术人作为"critic and conscience of society"的角色？
 
 ## 理论框架
 

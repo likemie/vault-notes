@@ -43,7 +43,7 @@ updated: 2026-10-16
 > [!info] 定义
 > 前转移能动性（Pre-Transfer Agency）指在[[Cross-National Attraction\|跨国吸引力]]（[[Cross-National Attraction]]）阶段、尚未作出任何实际借用决策之前，外国教育范例进入国内教育[[Discourse|话语]]时即开始运作的能动性——谁在引入外国范例？出于什么目的？以什么修辞策略包装？([[Argument_Rappleye_2006_RCIE\|Rappleye, 2006, p. 227]])
 >
-> 这一概念在 Rappleye (2006) 对 Phillips & Ochs [[Policy Borrowing\|政策借用]]框架的批判性扩展中被明确提出。Phillips & Ochs 的四阶段模型为政策实施后的抵制和[[Going Native\|本土化]]（后转移能动性，POST-transfer agency）留出了空间，但忽略了外国范例刚进入国内话语那一刻的能动性——即在"借用还是不借用"的辩论正式展开之前，就已经有人在选择性地引入、翻译和包装外国范例了。
+> 这一概念在 [[Argument_Rappleye_2006_RCIE|Rappleye (2006)]] 对 Phillips & Ochs [[Policy Borrowing\|政策借用]]框架的批判性扩展中被明确提出。Phillips & Ochs 的四阶段模型为政策实施后的抵制和[[Going Native\|本土化]]（后转移能动性，POST-transfer agency）留出了空间，但忽略了外国范例刚进入国内话语那一刻的能动性——即在"借用还是不借用"的辩论正式展开之前，就已经有人在选择性地引入、翻译和包装外国范例了。
 >
 > > "Education reform is not science, but a highly normative endeavour – perhaps the premier arena for social discourse on values." ([[Argument_Rappleye_2006_RCIE\|Rappleye, 2006, p. 228]])
 
@@ -70,7 +70,7 @@ updated: 2026-10-16
 ## 核心要素
 
 > [!abstract] 核心要素
-> 前转移能动性在 Rappleye (2006) 的情境[[Concept Mapping\|概念地图]]中具体化为以下分析组件：
+> 前转移能动性在 [[Argument_Rappleye_2006_RCIE|Rappleye (2006)]] 的情境[[Concept Mapping\|概念地图]]中具体化为以下分析组件：
 
 ### 引入者——改革行动者与抵制行动者
 

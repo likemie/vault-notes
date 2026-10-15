@@ -160,7 +160,7 @@ Moisio 指出，这一主体形塑过程——"how this crafting of political su
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - 该概念目前仅在 Moisio（2022）章节中提出，其经验适用性和[[Operationalization\|操作化]]路径尚待后续研究验证
+> - 该概念目前仅在 [[Argument_Moisio_2022_Springer|Moisio（2022）]]章节中提出，其经验适用性和[[Operationalization\|操作化]]路径尚待后续研究验证
 > - 高等教育空间中对地缘政治主体的具体形塑过程究竟是*如何运作的*——"how this crafting of political subjectivity actually re-works the capacities and orientations of these new geopolitical subjects"——仍然是研究不足的领域([[Argument_Moisio_2022_Springer\|Moisio, 2022, p.29]])
 > - 该概念的分析存在不对称性：国家如何"装备"主体被描述得很强，但主体是否以及如何*抵抗*这种装备、如何在被塑造的过程中发展出非预期的主体性，讨论尚不充分
 >

@@ -44,7 +44,7 @@ updated: 2026-10-16
 > [!def] 数据转换（Data Transformation / Data [[Institutional Conversion|conversion]]）
 > [[Mixed Methods Research\|混合方法研究]]中将一种类型的数据转换为另一种类型的策略。Teddlie and Tashakkori (2009, p. 27) 将其称为"数据转换"（data conversion / transformation）：质性数据被"量化"（quantitized）——转换为数字（通常为名义或序数尺度）；量化数据被"质化"（qualitized）——转换为叙事，然后用质性数据分析程序处理（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch. 1）。
 
-在 Creswell and Creswell (2022) 的框架中，数据转换是[[Convergent Design|聚敛式设计]]（Convergent Design）中三种整合分析方式之一。具体操作是将质性主题或编码进行计数（并可能分组），形成量化测量指标。这一方法在量化训练背景的研究者中较受欢迎（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.238]]）。
+在 [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] 的框架中，数据转换是[[Convergent Design|聚敛式设计]]（Convergent Design）中三种整合分析方式之一。具体操作是将质性主题或编码进行计数（并可能分组），形成量化测量指标。这一方法在量化训练背景的研究者中较受欢迎（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022, p.238]]）。
 
 ---
 
@@ -68,7 +68,7 @@ updated: 2026-10-16
 > - **极端案例分析（extreme case analysis）** 在一种数据中发现的极端值使用不同数据和方法探索
 > - **数据合并（data consolidation/merging）** 通过合并数据创建新[[Variable\|变量]]
 
-在 Creswell and Creswell (2022) 的[[Convergent Design|聚敛式设计]]中，数据转换是三种整合分析方式之一：
+在 [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] 的[[Convergent Design|聚敛式设计]]中，数据转换是三种整合分析方式之一：
 
 > [!abstract] 聚敛式设计的三种整合方式
 > 1. **并排比较（side-by-side comparison）** 在讨论部分先报告量化结果再讨论质性发现，不做形式化转换

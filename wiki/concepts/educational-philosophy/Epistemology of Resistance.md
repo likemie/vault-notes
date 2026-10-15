@@ -45,7 +45,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Epistemology of Resistance
@@ -99,7 +99,7 @@ updated: 2026-10-07
 ## 争议与批评
 
 > [!warning]
-> - "抵抗[[Epistemology\|认识论]]"作为一个概念在 Delambre (2022) 中被简要提及但未系统阐述——其定义边界、核心主张和方法论特征主要依赖单一案例（Rocinha 剧场），概念的理论化程度有限
+> - "抵抗[[Epistemology\|认识论]]"作为一个概念在 [[Argument_Delambre_2022_Springer|Delambre (2022)]] 中被简要提及但未系统阐述——其定义边界、核心主张和方法论特征主要依赖单一案例（Rocinha 剧场），概念的理论化程度有限
 > - 抵抗认识论的有效性标准是一个未解决的问题：如果一种知识形式以"抵抗"为合法性基础，如何区分有效的抵抗知识与被抵抗对象同化的表达？换言之，抵抗认识论如何避免成为另一种形式的本质主义（"本真的被压迫者声音"）？
 
 ## 相关案例／政策

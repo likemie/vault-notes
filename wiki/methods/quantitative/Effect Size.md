@@ -380,7 +380,7 @@ updated: 2026-10-16
 > [!claim] 研究设计对效应量的影响
 > Cheung and Slavin（2016）在 645 项研究的综合元分析中发现非实验设计平均效应量 +0.23 vs 实验设计 +0.16；Wilson, Gottfredson and Najaka（2001）发现非[[Experimental Research\|实验研究]]效应量高 0.17 个标准差。但 Cook（2002）、de Boer et al.（2014）、Gersten et al.（2009）、Wilson and Lipsey（2001）均未发现实验与非实验设计间效应量的显著差异（[[Argument_Wolf_2020_JREE\|Wolf et al., 2020, pp. 431–432]]）。
 
-> [!claim] Morris and DeShon (2002); Kalmendal et al. (2025)
+> [!claim] Morris and DeShon (2002); [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]]
 > **跨研究设计效应量的不可通约性与总体参数异质** 莫里斯与德肖恩（Morris & DeShon, 2002）在统计学上严格论证：独立组间设计（Between-Subjects）与重复测量组内设计（Within-Subjects，如前后测）计算出的标准差涵义根本不同，两者估计的是不同的总体参数。如果未通过被试内相关系数（$\rho$）转换而直接合并，会造成系统性失真。卡尔门达尔（Kalmendal）等学者在全量元科学审计中进一步揭示，在《可见的学习》等宏观证据综合中，多达 27% 的影响因素直接违规混杂了独立组、重复测量与相关设计（甚至多达 77% 的研究混淆或未报告设计类型）；且未区分积极对照组（Active Control，效应量通常较低）与空白对照组（No-Treatment Control，效应量通常翻倍），导致聚合出的通用效应量丧失了实质统计学解释力。[[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, p. 16)]]
 
 ---

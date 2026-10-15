@@ -47,7 +47,7 @@ updated: 2026-10-16
 > [!info]
 > 评估与赋值社会学（Sociology of Valuation and Evaluation）是由 Lamont（2012）在 Annual Review of Sociology 中概括的一个比较研究领域。它关注评估（evaluation）、量化绩效测量（quantitative performance measures）和序数排名（ordinal rankings）如何塑造个体和机构的社会地位——以及这些评价工具本身的建构、使用和社会效应([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, p.798]])。
 
-在 Schulze-Cleven et al.（2017）对高等教育新政治经济学的分析中，这一研究领域被定位为揭示[[Discourse|话语]]竞争过程的"第二条探究线索"——与微观社会学实践理论（Latour, Foucault）互补。它帮助研究者理解：排名和评估不仅"反映"学术质量，更在"制造"它们所测量的现象（pp.798–799）。
+在 [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al.（2017）]]对高等教育新政治经济学的分析中，这一研究领域被定位为揭示[[Discourse|话语]]竞争过程的"第二条探究线索"——与微观社会学实践理论（Latour, Foucault）互补。它帮助研究者理解：排名和评估不仅"反映"学术质量，更在"制造"它们所测量的现象（pp.798–799）。
 
 ## 概念辨析
 

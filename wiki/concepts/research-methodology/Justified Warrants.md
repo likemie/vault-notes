@@ -81,6 +81,6 @@ updated: 2026-10-16
 ## 相关案例／政策
 
 > [!example] 相关案例／政策
-> - [[Selective Schools Expansion Fund]] — 该政策被 Bainbridge et al.（2022）用作缺乏 justified warrants 的典型案例
+> - [[Selective Schools Expansion Fund]] — 该政策被 [[Argument_Bainbridge_2022_ROE|Bainbridge et al.（2022）]]用作缺乏 justified warrants 的典型案例
 >
 

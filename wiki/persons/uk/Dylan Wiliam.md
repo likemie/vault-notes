@@ -90,5 +90,5 @@ updated: 2026-10-16
 ## 争议与批评
 
 > [!warning] 争议与批评
-> - Wiliam 对 [[Evidence-Based Education\|EBE]] 的批判虽然系统，但未充分回应 Cowen (2019) 关于 EBE 官僚功能的论证——即使 EBE 的[[Epistemology\|认识论]]基础有问题，其在制度层面可能仍然是官僚委托-代理问题的最优可行解
+> - Wiliam 对 [[Evidence-Based Education\|EBE]] 的批判虽然系统，但未充分回应 [[Argument_Cowen_2019_ERE|Cowen (2019)]] 关于 EBE 官僚功能的论证——即使 EBE 的[[Epistemology\|认识论]]基础有问题，其在制度层面可能仍然是官僚委托-代理问题的最优可行解
 > - 四个决策问题框架虽提供实用启发，但未解决信息不完整和不确定性下的操作性决策困境

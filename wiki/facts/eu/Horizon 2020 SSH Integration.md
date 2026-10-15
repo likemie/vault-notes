@@ -83,7 +83,7 @@ updated: 2026-10-16
 ## 知识地缘政治分析
 
 > [!warning] [[Geopolitics of Knowledge\|知识地缘政治]]分析
-> Horizon 2020 的 SSH 整合被 Parreira do Amaral（2022）用作论证"新知识地缘政治"的关键实证案例，因为它集中体现了当代[[Epistemic Governance\|知识治理]]中两条脉络的共同运作：
+> Horizon 2020 的 SSH 整合被 [[Argument_Parreira do Amaral_2022_geopolitics-knowledge|Parreira do Amaral（2022）]]用作论证"新知识地缘政治"的关键实证案例，因为它集中体现了当代[[Epistemic Governance\|知识治理]]中两条脉络的共同运作：
 >
 > **从[[Critical Geopolitics\|批判地缘政治学]]视角看**，该政策是[[Geopolitics of Knowledge\|知识地缘政治]]在超国家治理层面的典型运作：[[EU|欧盟]]通过研究资助框架——一种空间化的治理技术——将研究按照其对经济[[Competitiveness|竞争力]]和创新的潜在贡献进行排序和配置。这反映了[[Knowledge-Based Economization\|知识经济化]]逻辑对学术[[Knowledge Production\|知识生产]]的深刻渗透：知识只有在能够转化为经济价值时才被赋予优先权。该政策也是[[Global Regionalisms\|全球区域主义]]的具体制度表现——通过区域研究框架重塑高等教育和研究的知识生产秩序([[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral, 2022, pp.40–42]])。
 >

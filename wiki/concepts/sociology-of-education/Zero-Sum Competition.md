@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Zero-Sum Competition
@@ -131,7 +131,7 @@ Watkins 及其学生采用 Fülöp 的方法研究香港高中生（含高能力
 
 四条根相互加强：固定自我使人敏感于比较 → 零和竞争将比较建构为敌对 → 天赋假设让"不努力的成功者"获得豁免、"努力的成功者"加倍可疑 → 知性-社交二分为所有骚扰提供合理化。
 
-完整的论证链见 Li (2012) 第 6 章第 3 步。
+完整的论证链见 [[Argument_Li_2012_Cambridge|Li (2012)]] 第 6 章第 3 步。
 
 ---
 

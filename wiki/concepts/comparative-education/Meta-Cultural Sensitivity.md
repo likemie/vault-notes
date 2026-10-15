@@ -29,7 +29,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-17'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Meta-Cultural Sensitivity
@@ -91,6 +91,6 @@ updated: 2026-10-15
 ## 相关案例／政策
 
 > [!example]
-> - [[Chinese Learner]] — 元文化敏感度被 Ryan（2010）作为打破中国学习者刻板印象的核心实践路径
+> - [[Chinese Learner]] — 元文化敏感度被 [[Argument_Ryan_2010_ChineseLearner|Ryan（2010）]]作为打破中国学习者刻板印象的核心实践路径
 > - [[Argument_Ryan_2010_ChineseLearner|Ryan (2010)]] — 该论证以元文化敏感度作为整条推理链的规范性终点
 

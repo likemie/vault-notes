@@ -78,7 +78,7 @@ updated: 2026-10-16
 ## 核心要素
 
 > [!abstract]
-> 基于 Rambla（2022, p.165–172）对[[EU|欧盟]]政策的分析，[[Theory of Change\|变革理论]]在政策运作中呈现三个层面：
+> 基于 [[Argument_Rambla_2022_Springer|Rambla（2022, p.165–172）]]对[[EU|欧盟]]政策的分析，[[Theory of Change\|变革理论]]在政策运作中呈现三个层面：
 
 ### 因果叙事的建构
 
@@ -111,7 +111,7 @@ updated: 2026-10-16
 ## 实证发现
 
 > [!success]
-> 以下发现全部来自 Rambla（2022）基于 [[YOUNG_ADULLLT\|YOUNG_ADULLLT 项目]]的定性分析：
+> 以下发现全部来自 [[Argument_Rambla_2022_Springer|Rambla（2022）]]基于 [[YOUNG_ADULLLT\|YOUNG_ADULLLT 项目]]的定性分析：
 
 ### 官方变革理论的地方内化
 

@@ -38,7 +38,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Richard Castelo Branco
 
@@ -80,5 +80,5 @@ updated: 2026-10-15
 ## 影响
 
 > [!success]
-> - EspectAtor 方法被 Delambre (2022) 定位为 [[Ganz-Methode]] 在文化实践领域的核心案例，将抽象的去殖民[[Epistemology\|认识论]]转化为具体的剧场操作方法([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.109–110]])
+> - EspectAtor 方法被 [[Argument_Delambre_2022_Springer|Delambre (2022)]] 定位为 [[Ganz-Methode]] 在文化实践领域的核心案例，将抽象的去殖民[[Epistemology\|认识论]]转化为具体的剧场操作方法([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.109–110]])
 > - 通过"Bora Bora em Bando"项目，其工作获得了 [[Camilla de Hollanda Amado]]（巴西著名女演员和剧场导演）的支持和推广——Amado 的梦想是"看到贫民窟知识被用于国家发展"([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.110]])

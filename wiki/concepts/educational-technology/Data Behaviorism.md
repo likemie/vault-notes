@@ -69,5 +69,5 @@ updated: 2026-10-16
 > [!warning]
 > - **知识概念的窄化** 数据行为主义将"知识"简化为可从行为数据中挖掘的统计模式，排除了知识中的反思、批判、责任和伦理维度——这些正是教育之所以为教育的核心([[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022, p.235]])
 > - **主体性的消解** 当算法系统替代了人类的意义建构过程，被替代的不只是"劳动"——更是做出判断、承担责任的**主体性**。Rouvroy 的问题意识正在于此：如果行为的预测和调节不再需要洞察，"理性的时代最终走向终结"（Schrape, 2014, p.43, cited in [[Argument_Jornitz_2022_Bildung_algorithmic\|Jornitz & Klinge, 2022, p.236]]）
-> - **信息量有限**目前仅 Jornitz and Klinge（2022）一章对 Rouvroy 的引用作为直接来源，Rouvroy 原著的完整论证有待进一步阅读后补充
+> - **信息量有限**目前仅 [[Argument_Jornitz_2022_Bildung_algorithmic|Jornitz and Klinge（2022）]]一章对 Rouvroy 的引用作为直接来源，Rouvroy 原著的完整论证有待进一步阅读后补充
 

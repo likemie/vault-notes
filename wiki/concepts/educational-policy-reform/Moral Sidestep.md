@@ -27,7 +27,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 ## 定义
@@ -77,7 +77,7 @@ Stevens 借鉴 Archer（2000）的 corporate agency 与 primary agency 区分来
 
 ## 概念演变
 
-该概念由 Stevens（2019）在毒品政策研究中首次提出（详见[[#回避型道德侧步 Evasive Moral Sidestep]]），后由 Bainbridge et al.（2022）引入教育政策研究并发展为建构型变体（详见[[#建构型道德侧步 Constructive Moral Sidestep]]），以英国SSEF政策为案例检验了其在选择性教育政策辩论中的运作([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.3, 19]])。
+该概念由 Stevens（2019）在毒品政策研究中首次提出（详见[[#回避型道德侧步 Evasive Moral Sidestep]]），后由 [[Argument_Bainbridge_2022_ROE|Bainbridge et al.（2022）]]引入教育政策研究并发展为建构型变体（详见[[#建构型道德侧步 Constructive Moral Sidestep]]），以英国SSEF政策为案例检验了其在选择性教育政策辩论中的运作([[Argument_Bainbridge_2022_ROE|Bainbridge et al., 2022, p.3, 19]])。
 
 ---
 

@@ -260,7 +260,7 @@ updated: 2026-10-16
 > - [[Self-Cultivation]] — 修身是中国学习者模型的核心枢纽，连接认知准备（格物→正心）与社会实践（齐家→平天下）
 > - [[Learning Virtues]] — 七种学习美德的完整文本传统、实证发现和文化认知差异
 > - [[Heart and Mind for Wanting to Learn]] — 好學心是中国学习[[Concept Mapping\|概念地图]]中最大的集群（占可取方式的 46%），是中国学习者模型的核心动力概念
-> - [[Western Learner]] — 对称对比条目，共同构成 Li (2012) 全书的二[[Meta-analysis\|元分析]]框架
+> - [[Western Learner]] — 对称对比条目，共同构成 [[Argument_Li_2012_Cambridge|Li (2012)]] 全书的二[[Meta-analysis\|元分析]]框架
 
 ---
 

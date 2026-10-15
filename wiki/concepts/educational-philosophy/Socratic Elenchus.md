@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-25
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Socratic Elenchus
@@ -118,7 +118,7 @@ updated: 2026-10-15
 > - **现代进步主义时期（[[John Dewey\|杜威]]与[[Inquiry-Based Learning\|探究式教学]]）**
 >   [[John Dewey\|杜威]]将驳诘法改造为基于“做”（doing）与[[Problem Solving\|问题解决]]（problem-posing）的[[Active Learning\|主动学习]]环节，强调摆脱被动听讲 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 8–9)]]。
 > - **当代[[Critical Pedagogy\|批判教育学]]时期（全员民主与解放实践）**
->   [[Paulo Freire\|弗莱雷]]与 Darwish (2009) 进一步去除了驳诘法的精英色彩，要求赋予每一个学习者[[Freedom of the Learner\|学习者的自由]]，通过[[Problem-Posing Education\|提问式教育]]与对话走向意识觉醒与实践。
+>   [[Paulo Freire\|弗莱雷]]与 [[Argument_Darwish_2009_Queens|Darwish (2009)]] 进一步去除了驳诘法的精英色彩，要求赋予每一个学习者[[Freedom of the Learner\|学习者的自由]]，通过[[Problem-Posing Education\|提问式教育]]与对话走向意识觉醒与实践。
 
 ---
 
@@ -147,7 +147,7 @@ updated: 2026-10-15
 > [!debates] 学术争议
 >
 > > [!axis] 古典驳诘法的阶层封锁与[[John Dewey\|杜威]]/[[Paulo Freire\|弗莱雷]]的批判
-> > 杜威与 Darwish (2009) 指出，[[Plato\|柏拉图]]与[[Aristotle\|亚里士多德]]虽然建立了严密的驳诘法与理性辩证法，但其封建阶层观将女性、奴隶与劳动阶层排除在批判思维之外 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 2–5)]]。现代教育必须去除这一精英主义藩篱，实现民主全员的学习者自由。
+> > 杜威与 [[Argument_Darwish_2009_Queens|Darwish (2009)]] 指出，[[Plato\|柏拉图]]与[[Aristotle\|亚里士多德]]虽然建立了严密的驳诘法与理性辩证法，但其封建阶层观将女性、奴隶与劳动阶层排除在批判思维之外 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 2–5)]]。现代教育必须去除这一精英主义藩篱，实现民主全员的学习者自由。
 >
 > > [!axis] 无情反诘的跨文化适用性与人际摩擦
 > > [[Argument_Li_2012_Cambridge\|Li (2012)]] 指出，在《优绪弗洛》中，[[Socrates\|苏格拉底]]“完全不关心优绪弗洛被逼到墙角的感受”的逼问风格，在看重尊严、社会和谐与尊师重道的东亚儒家文化中可能被视为具有攻击性或破坏和谐，而非理想教学 [[Argument_Li_2012_Cambridge\|(Li, 2012, p. 32)]]。

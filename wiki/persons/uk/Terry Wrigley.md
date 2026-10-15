@@ -108,7 +108,7 @@ updated: 2026-10-16
 > - [[Effect Size]] — 与 Simpson 的技术批判配合，通过 [[Education Endowment Foundation\|EEF]] Toolkit 体育参与案例展示效应量从原始研究到[[Meta-meta-analysis\|元-元分析]]的三级聚合失真
 > - **Pawson 的[[Realist Evaluation\|实在论综合]]（Realist Synthesis）** — 推广 Pawson (2006) 的替代方案：研究综述应基于因果理论而非统计平均
 > - **文化-历史[[Third Generation Activity Theory\|活动理论]]（CHAT）** — 将 Engeström 的活动理论与[[Critical Realism\|批判实在论]]结合，为教育研究提供更丰富的[[Ontology\|本体论]]框架
-> - [[Moral Sidestep]] — 其对 EEF Toolkit 的方法论批判被 Bainbridge et al.（2022, p.3）引用，作为讨论英国议会选择性教育政策辩论中证据"被回避"问题的理论基础
+> - [[Moral Sidestep]] — 其对 EEF Toolkit 的方法论批判被 [[Argument_Bainbridge_2022_ROE|Bainbridge et al.（2022, p.3）]]引用，作为讨论英国议会选择性教育政策辩论中证据"被回避"问题的理论基础
 
 ## 思想发展与影响
 
@@ -124,8 +124,8 @@ updated: 2026-10-16
 
 
 > [!note-] 对后续研究的影响
-> - [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]]对 EEF Toolkit 的方法论批判被 Bainbridge et al.（2022, p.3）引用，作为讨论英国议会选择性教育政策辩论中[[Research Utilization\|证据使用]]问题的理论基础——标志着 Wrigley 的批判从方法论研究进入政策分析领域
-> - [[Argument_Wrigley_2019_ERE\|Wrigley and McCusker (2019, p. 123)]] 援引 Biesta（2010, p. 496）的开放/递归/符号系统理论作为批判 EBT 方法论的核心依据——"将开放系统视为封闭系统来对待是不科学的"——形成了批判实在论与[[Pragmatic Paradigm\|实用主义]]教育哲学在方法论批判中的交汇
+> - [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]]对 EEF Toolkit 的方法论批判被 [[Argument_Bainbridge_2022_ROE|Bainbridge et al.（2022, p.3）]]引用，作为讨论英国议会选择性教育政策辩论中[[Research Utilization\|证据使用]]问题的理论基础——标志着 Wrigley 的批判从方法论研究进入政策分析领域
+> - [[Argument_Wrigley_2019_ERE\|Wrigley and McCusker (2019, p. 123)]] 援引 [[Argument_Biesta_2010_SPE|Biesta（2010, p. 496）]]的开放/递归/符号系统理论作为批判 EBT 方法论的核心依据——"将开放系统视为封闭系统来对待是不科学的"——形成了批判实在论与[[Pragmatic Paradigm\|实用主义]]教育哲学在方法论批判中的交汇
 > - 其"简单科学观"概念为后续 EBE 批判者提供了区别于"反科学"立场的[[Discourse|话语]]资源
 
 ## 争议与批评

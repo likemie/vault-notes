@@ -2146,13 +2146,16 @@ def check_path_and_index_consistency(path: Path, data: Optional[Dict[str, Any]],
         return
 
     r = rel(path)
+    key = unicodedata.normalize("NFC", r)  # wiki_index stores NFC paths; APFS names are NFD
     title = data.get("title")
+    if isinstance(title, str):
+        title = unicodedata.normalize("NFC", title)
     if path.name in GENERATED_INDEX_FILES:
         return
-    if r not in path_to_title:
+    if key not in path_to_title:
         issues.append(Issue("WARN", r, "wiki entry is not present in wiki/index.json; run vault_index.py --wiki-only or check exclusions", code="ENTRY_NOT_INDEXED"))
-    elif title and path_to_title.get(r) != title:
-        issues.append(Issue("WARN", r, f"index title differs from frontmatter title: index={path_to_title.get(r)!r}, fm={title!r}", code="INDEX_TITLE_MISMATCH"))
+    elif title and path_to_title.get(key) != title:
+        issues.append(Issue("WARN", r, f"index title differs from frontmatter title: index={path_to_title.get(key)!r}, fm={title!r}", code="INDEX_TITLE_MISMATCH"))
 
 
 @lru_cache(maxsize=None)

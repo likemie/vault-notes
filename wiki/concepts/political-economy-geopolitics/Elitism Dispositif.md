@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-01
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Elitism Dispositif
@@ -42,7 +42,7 @@ updated: 2026-10-07
 ## 定义
 
 > [!info]
-> 精英部署（Elitism Dispositif）是 Maesse 在 Schulze-Cleven et al.（2017）的一期 Higher Education 中提出的批判[[Constructivist Paradigm\|建构主义]]概念，借用了 Foucault 的 dispositif（部署/装置）概念来分析经济学作为社会科学学科中学术精英的生产和再生产机制。它描述了一套制度配置——统一的科研产出评估、物质与人力资源的机构集中、院系规模与合作水平——共同运作以明确界定谁被承认为学科的精英、谁被推至学术可见度的边缘([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, p.806]])。
+> 精英部署（Elitism Dispositif）是 Maesse 在 [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al.（2017）]]的一期 Higher Education 中提出的批判[[Constructivist Paradigm\|建构主义]]概念，借用了 Foucault 的 dispositif（部署/装置）概念来分析经济学作为社会科学学科中学术精英的生产和再生产机制。它描述了一套制度配置——统一的科研产出评估、物质与人力资源的机构集中、院系规模与合作水平——共同运作以明确界定谁被承认为学科的精英、谁被推至学术可见度的边缘([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, p.806]])。
 
 Foucault 的 dispositif 指异质元素（制度、法律、[[Discourse|话语]]、建筑、科学陈述等）之间形成的策略性网络，它回应某种紧迫需求并产生特定的权力效应。Maesse 将这一概念用于学术[[Champ|场域]]分析：精英部署不只是"精英存在"的事实，而是一套**生产**精英的制度机器——它通过评估标准的统一化、资源的集中化和院系组织的规模化，系统性地制造学科内部的中心-边缘分化。
 

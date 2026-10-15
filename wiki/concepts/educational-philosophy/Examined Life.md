@@ -149,7 +149,7 @@ updated: 2026-10-16
 > [!debates] 学术争议
 >
 > > [!axis] 古典省察的精英主义局限（[[Plato\|柏拉图]]护卫者 vs 全员[[Active Learning\|主动学习]]）
-> > 杜威与 Darwish (2009) 指出，柏拉图与[[Aristotle\|亚里士多德]]虽然开创了省察生活，但将其严格限定于“护卫者”精英阶层，并将奴隶与女性排除在外 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 2–5)]]。现代[[Active Learning\|主动学习]]必须超越这种精英主义局限，将[[Freedom of the Learner\|学习者的自由]]与省察权利还给每一个学习者。
+> > 杜威与 [[Argument_Darwish_2009_Queens|Darwish (2009)]] 指出，柏拉图与[[Aristotle\|亚里士多德]]虽然开创了省察生活，但将其严格限定于“护卫者”精英阶层，并将奴隶与女性排除在外 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 2–5)]]。现代[[Active Learning\|主动学习]]必须超越这种精英主义局限，将[[Freedom of the Learner\|学习者的自由]]与省察权利还给每一个学习者。
 >
 > > [!axis] [[Socrates\|苏格拉底]]无情反诘的跨文化适用性
 > > 在《优绪弗洛》中，苏格拉底“完全不关心对方被逼到墙角的感受”的无情追问风格，在儒家或关系导向文化中可能被视为破坏尊师重道与社会和谐的行为，而非[[Effective Teaching\|有效教学]] [[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 51–53)]]。
