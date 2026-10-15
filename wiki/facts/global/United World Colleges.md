@@ -24,7 +24,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[International Baccalaureate]]"
   - "[[Experiential Learning]]"
-  - "[[Space of Flows and Space of Places]]"
+  - "[[Space of Places]]"
   - "[[Theory of Knowledge]]"
   - "[[Boarding Schools]]"
 related_persons:
@@ -47,7 +47,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # United World Colleges
@@ -63,7 +63,7 @@ updated: 2026-10-12
 > - **形成时间与背景** 由大西洋学院向多国扩展的倡议发展而来；1968 年后形成新名称、国际理事会、联合世界书院国际有限公司、国际董事会和国际办公室。
 > - **国际联络与地方网络** 国际办公室支持扩展，国家委员会承担学生选拔、奖学金与地方支持，书院分布于不同国家。这里的业务节点不等于所有学校归同一总部直接管理。
 > - **法人及经费基础** 国际有限公司与国际董事会承接共同组织工作，国际办公室依靠捐助、筹款及后来推动的书院分摊；各校对本校财政和行政负责。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, pp. 104–109)]]
-> - **核心宗旨与组织原则** 不同国家和社会背景的青年共同学习、生活与服务；国际运动提供共同方针与支援，每所书院保留自己的董事会及地方政策责任。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, pp. 104–109)]]
+> - **核心宗旨与组织原则** 不同国家和社会背景的青年共同学习、生活与服务；国际运动提供共同方针与支援，每所书院保留自己的董事会及地方政策责任。
 
 > [!warrant] 地方适应推动网络组织形成
 > UWC 的形成不是把一所学校完整复制到其他国家。早期加拿大、德国和新加坡方案反复因土地、资本、资格承认、生源和奖学金受阻，推动运动从场地复制转向[[Network Governance|网络治理]]与地方适应。[[Argument_Peterson_1987_OpenCourt_Ch05|Peterson (1987, Ch. 5, pp. 99–117)]]
@@ -173,7 +173,7 @@ updated: 2026-10-12
 > [!row-contrast] 经典书院、关联学校与课程外围
 > | 层次 | 共同特征 | 主要差异 | 核心风险 |
 > |---|---|---|---|
-> | **经典 UWC** | 跨国学生、寄宿共同体、奖学金、[[International Baccalaureate\|国际文凭]]、服务与探险 | 政府支持程度和[[Space of Flows and Space of Places\|地方空间]]不同 | 成本高，扩展速度慢 |
+> | **经典 UWC** | 跨国学生、寄宿共同体、奖学金、[[International Baccalaureate\|国际文凭]]、服务与探险 | 政府支持程度和[[Space of Places\|地方空间]]不同 | 成本高，扩展速度慢 |
 > | **关联或[[Transitology\|转型学]]校** | 接受 UWC 教育目标并与正式书院、国际办公室合作 | 可能是全龄学校、缴费生为主或原用其他课程 | 成员标准稀释，共同办公室成本上升 |
 > | **IB 学校外围** | 国际课程与[[Theory of Knowledge\|知识论]]、社会服务组件可传播部分理念 | 不具备 UWC 的选拔、奖学金、寄宿和服务强度 | 把课程采用误认作组织成员身份[[Argument_Peterson_1987_OpenCourt_Ch05\|Peterson (1987, Ch. 5, pp. 116–117, 123–125)]] |
 

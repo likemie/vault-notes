@@ -9,7 +9,7 @@ summary: "西班牙社会学家，网络社会与信息时代发展模式奠基�
 type: person
 nationality: spain
 person_region: "spain"
-person_related_count: 28
+person_related_count: 29
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -25,7 +25,8 @@ tags:
 related_concepts:
   - "[[Cosmopolitanism]]"
   - "[[Policy Mobility]]"
-  - "[[Space of Flows and Space of Places]]"
+  - "[[Space of Flows]]"
+  - "[[Space of Places]]"
   - "[[Informationalization]]"
   - "[[Governance by Spin]]"
   - "[[Champ]]"
@@ -59,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-12
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # Manuel Castells
@@ -71,7 +72,7 @@ updated: 2026-10-09
 > [!person-profile] 人物档案
 > - **身份位置** 西班牙著名社会学家，南加州大学传播学与社会学讲座教授（Wallis Annenberg Chair in Communication Technology and Society），曾任加州大学伯克利分校城市与区域规划及社会学教授、西班牙大学部部长（2020–2021）。
 > - **核心角色** [[Network Society|网络社会]]与[[Informationalism|信息主义]]理论的奠基人，当代最具影响力的全球传播与技术社会学者之一。其空间二分法、网络国家及精英[[Cosmopolitanism|世界主义]]分析，被广泛用于解释全球化时代的权力重组、跨国[[Policy Mobility|政策流动]]及科技精英的政治脱嵌。
-> - **代表贡献** 著有《信息时代：经济、社会与文化》三部曲与《传播权力》，提出 [[Network Society|网络社会]]、[[Space of Flows and Space of Places|流动空间与地方空间]]、网络国家（Network State）与“世界主义精英 vs 本土大众”的社会分层命题。
+> - **代表贡献** 著有《信息时代：经济、社会与文化》三部曲与《传播权力》，提出 [[Network Society|网络社会]]、[[Space of Flows|流动空间]]与[[Space of Places|地方空间]]、网络国家（Network State）与“世界主义精英 vs 本土大众”的社会分层命题。
 
 > [!citation-card] 世界主义精英与本土大众的空间割裂
 > 精英是世界主义的，大众是本土的。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 70)]]
@@ -98,14 +99,14 @@ updated: 2026-10-09
 > [!thought-timeline] 思想发展阶段与代表著作
 > - **1970s — 城市马克思主义与集体消费** 关注资本主义城市化中的社会运动与空间冲突。代表作《城市问题：马克思主义的方法》（*The Urban Question*, 1972）。
 > - **1980s–1990s — 信息技术革命与[[Network Society|网络社会]]崛起** 跨入宏观技术社会学，考察[[Informationalization|信息化]]生产方式与全球网络结构。代表作《信息时代》三部曲：第 1 卷《网络社会的崛起》（*The Rise of the Network Society*, 1996）、第 2 卷《认同的力量》（*The Power of Identity*, 1997）、第 3 卷《千年终结》（*End of Millennium*, 1998）。[[Argument_Chan_2015_Intersect|(Chan, 2015)]] / [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch06|(Karp & Zamiska, 2025, p. 70)]]
-> - **2000s 至今 — 传播权力与大众自传播** 聚焦数字网络时代的媒介权力、政治营销与社会抗争。代表作《网络星系》（*The Internet Galaxy*, 2001）、《传播权力》（*Communication Power*, 2009）、《愤怒与希望的网络》（*Networks of Outrage and Hope*, 2012）。[[Argument_Beech_2009_CE|(Beech, 2009, p. 357)]]
+> - **2000s 至今 — 传播权力与大众自传播** 聚焦数字网络时代的媒介权力、政治营销与社会抗争。代表作《网络星系》（*The Internet Galaxy*, 2001）、《传播权力》（*Communication Power*, 2009）、《愤怒与希望的网络》（*Networks of Outrage and Hope*, 2012）。[[Argument_Beech_2009_CE|(Beech, 2009a, p. 357)]]
 
 ---
 
 ## 核心思想
 
 > [!claim] 核心理论主张
-> 信息技术革命奠定了以节点和网络为基本组织的社会结构（[[Network Society|网络社会]]）。社会的生产力模式从工业主义转向[[Informationalism|信息主义]]，社会财富与权力的控制权集中于跨国流通的“[[Space of Flows and Space of Places|流动空间]]”。与此相伴随的是深刻的空间与阶层撕裂：掌握资本、代码与战略决策的精英阶层具有高度的“[[Cosmopolitanism|世界主义]]”脱嵌特征，而普通公众则受困于具体的“地方空间”；传统国家机器演变为需在多边网络中妥协协商的“网络国家”，高度依赖以简化口号和媒体包装为特征的“[[Governance by Spin|舆论操控]]”。
+> 信息技术革命奠定了以节点和网络为基本组织的社会结构（[[Network Society|网络社会]]）。社会的生产力模式从工业主义转向[[Informationalism|信息主义]]，社会财富与权力的控制权集中于跨国流通的“[[Space of Flows|流动空间]]”。与此相伴随的是深刻的空间与阶层撕裂：掌握资本、代码与战略决策的精英阶层具有高度的“[[Cosmopolitanism|世界主义]]”脱嵌特征，而普通公众则受困于具体的“[[Space of Places|地方空间]]”；传统国家机器演变为需在多边网络中妥协协商的“网络国家”，高度依赖以简化口号和媒体包装为特征的“[[Governance by Spin|舆论操控]]”。
 
 > [!contrast-table] 流动空间（精英）与地方空间（大众）的结构性张力
 > | 分析维度 | 流动空间（Space of Flows） | 地方空间（Space of Places） |
@@ -116,12 +117,12 @@ updated: 2026-10-09
 > | **权力博弈地位** | 占据全球资本与信息分配的主导权，免于地方责任约束 | 承受全球化与技术转型的外部性成本，缺乏跨国流动退出通道 |
 
 > [!citation-card] 网络国家的协商决策机制
-> 网络国家是一个复杂的、在国际、多国、国家、区域、地方和非政府政治机构之间进行权力共享与协商决策的网络。[[Argument_Beech_2009_CE|(Beech, 2009, p. 357)]]
+> 网络国家是一个复杂的、在国际、多国、国家、区域、地方和非政府政治机构之间进行权力共享与协商决策的网络。[[Argument_Beech_2009_CE|(Beech, 2009a, p. 357)]]
 >
 > *A complex web of power-sharing, and negotiated decision-making between international, multinational, national, regional, local, and non-governmental, political institutions.*
 
 > [!citation-card] 媒体政治与政治[[Discourse|话语]]的口号化
-> 一个政治信息必然是一个媒体信息。只要政治相关的消息通过媒体传播，就必须以媒体的特定语言来表达。[[Argument_Beech_2009_CE|(Beech, 2009, p. 357)]]
+> 一个政治信息必然是一个媒体信息。只要政治相关的消息通过媒体传播，就必须以媒体的特定语言来表达。[[Argument_Beech_2009_CE|(Beech, 2009a, p. 357)]]
 >
 > *A political message is necessarily a media message. And whenever a politically related message is conveyed through the media, it must be couched in the specific language of the media.*
 
@@ -130,7 +131,7 @@ updated: 2026-10-09
 ## 影响路径
 
 > [!influence-path] 理论影响与实证应用
-> - **理论路径** 其空间二分法（[[Space of Flows and Space of Places|流动空间]] vs 地方空间）打破了社会科学中的[[Methodological Nationalism|方法论民族主义]]，为批判地理学、国际政治经济学与比较教育学提供了跨[[Scale in Higher Education|尺度分析]]工具。
+> - **理论路径** 其空间二分法（[[Space of Flows|流动空间]] vs [[Space of Places|地方空间]]）打破了社会科学中的[[Methodological Nationalism|方法论民族主义]]，为批判地理学、国际政治经济学与比较教育学提供了跨[[Scale in Higher Education|尺度分析]]工具。
 > - **政策与教育研究** 揭示了当代国家为何热衷于采纳抽象、可塑的全球政策[[Discourse|话语]]（如“[[21st Century Skills and Competencies Discourse|核心素养]]”、“能力导向课程”），即利用媒体友好型话语开展[[Governance by Spin|舆论操控]]以调和多元利益冲突；同时解释了跨国教育治理机构（如 [[OECD]]、[[World Bank|世界银行]]）在流动空间中的话语扩散机制。
 > - **国家主义与创新机制研究** 其关于[[Soviet Statism|苏联国家主义]]因意识形态禁锢（如[[Lysenkoism|李森科主义]]）和[[Military-Industrial Black Hole|军工黑洞]]而阻碍民用[[Informationalization|信息化]]创新的论断，成为理解极权体制与技术创新关系的经典命题。
 > - **科技精英与政治哲学批判** 其关于“[[Cosmopolitanism|世界主义]]精英与本土大众”的洞见，被用于剖析当代硅谷科技巨头在享受国家研发红利的同时陷入[[Technological Agnosticism|技术不可知论]]与[[Cult of Optionality|选择权崇拜]]的深层精神脱嵌。
@@ -140,7 +141,7 @@ updated: 2026-10-09
 ## 争议与局限
 
 > [!critique] 学术争议与理论局限
-> - **[[Space of Flows and Space of Places|地方空间]]的物质能动性被低估** [[Argument_Beech_2009_CE|Beech (2009, p. 349)]] 指出，Castells 强调了流动空间对地方空间的支配地位，但教育等深层社会实践必须在具体的地方空间中展开。忽视地方制度与历史[[Discourse|话语]]的中介作用，无法充分解释全球政策落地时发生的深层[[Shape-Shifting|形变]]。
+> - **[[Space of Places|地方空间]]的物质能动性被低估** [[Argument_Beech_2009_CE|Beech (2009a, p. 349)]] 指出，Castells 强调了[[Space of Flows|流动空间]]对地方空间的支配地位，但教育等深层社会实践必须在具体的地方空间中展开。忽视地方制度与历史[[Discourse|话语]]的中介作用，无法充分解释全球政策落地时发生的深层[[Shape-Shifting|形变]]。
 > - **技术[[Determinism|决定论]]倾向与国家韧性** 部分批判学者指出，其早期著作对网络逻辑和信息技术革命的颠覆性力量赋予了过高权重，低估了传统民族国家在规制数字平台、重构地缘战略利益及动员实体[[Hard Power|硬实力]]方面的持续韧性与控制力。
 
 ---
@@ -150,7 +151,7 @@ updated: 2026-10-09
 > [!entry-map]
 > | 类型 | 条目 | 贡献 |
 > |:-----|:-----|:-----|
-> | 概念 | [[Space of Flows and Space of Places]] | 区分地理定位的物理环境与允许在非领土毗连下同时发生的流动空间，解释社会[[Praxis\|实践]]的脱嵌。 |
+> | 概念 | [[Space of Flows]] 与 [[Space of Places]] | 区分地理定位的物理环境与允许在非领土毗连下同时发生的流动空间，解释社会[[Praxis\|实践]]的脱嵌。 |
 > | 概念 | [[Technological Agnosticism]] | 其“精英是[[Cosmopolitanism\|世界主义]]的，大众是本土的”论断被用于剖析当代硅谷科技精英割裂工程与国家使命的深层文化根源。 |
 > | 概念 | [[Cult of Optionality]] | 揭示跨国技术阶层依托全球流动资本追求选择权最大化、回避排他性承诺的防御性心态。 |
 > | 概念 | [[Governance by Spin]] | 其媒体政治与电视语言特性，被用于解释国家如何借助印象管理将复杂政策[[Discourse\|话语]]塑造成简化口号。 |

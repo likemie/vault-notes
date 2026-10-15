@@ -133,7 +133,7 @@ updated: 2026-10-07
 >   - **关键概念／方法** 非人（The Inhuman）、童年思想（infantia）、时间现象学。
 >   - **阶段转向** 思想从语言政治转向对科技加速主义的宏观批评。在《非人》中，他探讨太阳在45亿年后爆炸的科幻思想实验，批判人类的“发展”沦为无目的的效率自我增殖；在《童年阅读》中，他重提“童年”作为未被成人语言/理性系统同化的本原冲动；并在绝笔《奥古斯丁的忏悔》中回归早期的时间现象学原点。
 
-著作与思想脉络来源见 [[Argument_Partaken_2022_Springer|Partaken, 2022]] / [[Argument_Beech_2009_CE|Beech, 2009, pp. 352–353]]
+著作与思想脉络来源见 [[Argument_Partaken_2022_Springer|Partaken, 2022]] / [[Argument_Beech_2009_CE|Beech, 2009a, pp. 352–353]]
 
 ---
 
@@ -159,7 +159,7 @@ updated: 2026-10-07
 >    “我愿意把‘分歧’定义为这样一种情况：原告被剥夺了进行论证的手段，因而成为了受害者。如果发信者、收信者以及见证的意义被中和了，一切就像没有发生损害一样。两方之间的分歧发生在一个冲突的解决是以其中一方的语言进行的，而另一方所遭受的损害在那种语言中得不到表达。”
 >    *“I would like to call a differend the case where the plaintiff is divested of the means to argue and becomes for that reason a victim. (...) A case of differend between two parties takes place when the regulation of the conflict that opposes them is done in the idiom of one of the parties while the wrong suffered by the other is not signified in that idiom.”* (Lyotard, 1983/1988, p. 9)
 
-引语出处引自 [[Argument_Beech_2009_CE|Beech, 2009, p. 352]]
+引语出处引自 [[Argument_Beech_2009_CE|Beech, 2009a, p. 352]]
 
 ---
 

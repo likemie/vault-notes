@@ -5,10 +5,10 @@ aliases:
 summary: "把现代社会理解为由流动网络而非稳定等级结构主导的理论，用于解释信息、资本与知识如何在跨边界连接中重新组织"
 type: theory
 theory_field: "sociology-of-education"
-theory_related_count: 23
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 25
+theory_related_level: 3
+theory_related_stars: "⭐⭐⭐"
+theory_related_color: "#ede9fe"
 tags:
 - network-society
 - castells
@@ -19,13 +19,15 @@ tags:
 related_concepts:
   - "[[Knowledge Production]]"
   - "[[Hub and Flow Imaginaries]]"
-  - "[[Space of Flows and Space of Places]]"
+  - "[[Space of Flows]]"
+  - "[[Space of Places]]"
   - "[[Discourse]]"
   - "[[Global Policy Space]]"
   - "[[Geopolitics of Higher Education]]"
   - "[[Transnational Research Collaboration]]"
   - "[[Network Governance]]"
   - "[[Champ]]"
+  - "[[Global Educational Discourse]]"
   - "[[Performativity]]"
   - "[[Floating Signifier]]"
   - "[[Epistemology]]"
@@ -48,7 +50,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 ## 核心主张
@@ -74,7 +76,7 @@ updated: 2026-10-07
 > - **1996** — [[Manuel Castells]] 出版 *The [[Research in Schools Evaluation\|RISE]] of the Network Society*（信息时代三部曲第一卷），系统阐述网络社会概念，将信息技术革命、经济全球化和网络化组织形式的兴起整合为一个统一的理论框架
 > - **2000** — Castells 在 *British Journal of Sociology* 发表网络社会探索性理论，进一步阐述网络的二元纳入／排除逻辑和权力动态（Castells, 2000c）
 > - **2006** — Yochai Benkler 出版 *The Wealth of Networks*，将网络社会理论延伸至[[Knowledge Production\|知识生产]]领域，论证网络化的知识生产（如开源软件、维基百科式的协作）正在挑战传统的、等级化的知识生产模式
-> - **2009** — Beech 将 Castells 的[[Space of Flows and Space of Places\|流动空间与地方空间]]区分和网络逻辑应用于比较教育中的[[Discourse|话语]]流通分析，提出[[Global Policy Space\|全球政策空间]]概念([[Argument_Beech_2009_CE\|Beech, 2009]])
+> - **2009** — Beech 将 Castells 的[[Space of Flows\|流动空间]]与[[Space of Places\|地方空间]]区分和网络逻辑应用于比较教育中的[[Discourse|话语]]流通分析，提出[[Global Policy Space\|全球政策空间]]概念([[Argument_Beech_2009_CE\|Beech, 2009]])
 > - **2022** — Rizvi 将网络社会理论整合进其[[Geopolitics of Higher Education\|高等教育地缘政治]]分析，用于解释[[Transnational Research Collaboration\|跨国研究合作]]的网络化转型([[Argument_Rizvi_2022_Springer\|Rizvi, 2022, pp.98–99]])
 >
 
@@ -101,10 +103,10 @@ updated: 2026-10-07
 ## 在比较教育研究中的应用
 
 > [!success] [[Global Policy Space\|全球政策空间]]与教育[[Discourse|话语]]流通
-> [[Argument_Beech_2009_CE\|Beech (2009)]]将 Castells 的[[Space of Flows and Space of Places\|流动空间]]概念和网络逻辑应用于分析比较教育中教育话语的跨空间流通与转化。他的分析揭示了网络社会理论在理解教育政策话语方面的三个应用层面：
+> [[Argument_Beech_2009_CE\|Beech (2009)]]将 Castells 的[[Space of Flows\|流动空间]]概念和网络逻辑应用于分析比较教育中教育话语的跨空间流通与转化。他的分析揭示了网络社会理论在理解教育政策话语方面的三个应用层面：
 
 > [!success] 流动空间中的议程设置
-> 在全球教育[[Champ\|场域]]中，大部分议程设定发生在流动空间中——国际机构、企业、咨询公司、大学和 NGO 通过跨国网络互动，生产并再生产全球教育话语。这些网络的运作遵循 Castells 所描述的网络逻辑：纳入／排除的二元运作、节点的信息处理能力决定权力、主导地位是临时的([[Argument_Beech_2009_CE\|Beech, 2009, pp.350–351]])。
+> 在全球教育[[Champ\|场域]]中，大部分议程设定发生在流动空间中——国际机构、企业、咨询公司、大学和 NGO 通过跨国网络互动，生产并再生产[[Global Educational Discourse|全球教育话语]]。这些网络的运作遵循 Castells 所描述的网络逻辑：纳入／排除的二元运作、节点的信息处理能力决定权力、主导地位是临时的([[Argument_Beech_2009_CE\|Beech, 2009, pp.350–351]])。
 
 > [!success] [[Network Governance\|网络化治理]]中的竞争与协作
 > 全球政策空间中的行动者构成了复杂的协作与竞争网络。同一个项目中的盟友可能在下一个项目中成为对手。这种看似意识形态矛盾的协作（如反新自由主义的 [[Education International]] 与 [[International Monetary Fund|IMF]] 和[[World Bank\|世界银行]]的全球合作伙伴关系）可以通过网络的[[Performativity\|操演性]]逻辑来理解：参与者的决策更多地取决于网络能否帮助其提升表现／影响力，而非意识形态的一致性([[Argument_Beech_2009_CE\|Beech, 2009, pp.351–353]])。
@@ -117,7 +119,7 @@ updated: 2026-10-07
 
 - Castells (1996, 2000a, 2000c) — 信息时代三部曲及网络社会探索性理论
 - Benkler (2006) — 网络财富概念，将网络社会理论延伸至[[Knowledge Production|知识生产]]的经济学分析
-- [[Argument_Beech_2009_CE|Beech (2009)]] — 将网络社会理论的空间分析应用于比较教育中的全球政策[[Discourse|话语]]流通
+- [[Argument_Beech_2009_CE|Beech (2009a)]] — 将网络社会理论的空间分析应用于比较教育中的全球政策[[Discourse|话语]]流通
 
 ---
 

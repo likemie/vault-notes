@@ -16,7 +16,7 @@ tags:
   - theme/knowledge-transfer
 related_concepts:
   - "[[Policy Network]]"
-  - "[[Space of Flows and Space of Places]]"
+  - "[[Space of Flows]]"
   - "[[Discourse]]"
   - "[[Shape-Shifting]]"
   - "[[Recontextualization]]"
@@ -47,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Educated Identity
@@ -72,7 +72,7 @@ updated: 2026-10-07
 
 > [!boundary]- 概念边界
 > - 不等于 课程目标 (Curriculum Objectives) — 课程目标是局部的学科知识与技能期望，受教育身份是系统层面对社会文化人格的整体构建。
-> - 不等于 [[Space of Flows and Space of Places\|流动空间]] — 流动空间是塑造现代受教育身份的[[Policy Network\|全球政策网络]]承载体，而受教育身份是其塑造的[[Discourse|话语]]产物。
+> - 不等于 [[Space of Flows\|流动空间]] — 流动空间是塑造现代受教育身份的[[Policy Network\|全球政策网络]]承载体，而受教育身份是其塑造的[[Discourse|话语]]产物。
 
 ---
 

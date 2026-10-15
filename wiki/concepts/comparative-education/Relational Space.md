@@ -26,7 +26,7 @@ related_concepts:
   - "[[Determinism]]"
   - "[[Unit of Analysis]]"
   - "[[Operationalization]]"
-  - "[[Space of Flows and Space of Places]]"
+  - "[[Space of Flows]]"
   - "[[Discourse]]"
   - "[[Hypothesis]]"
   - "[[Transfer Translation Transformation]]"
@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-06-07
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 
 # Relational Space
@@ -108,7 +108,7 @@ updated: 2026-10-10
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | 关系性空间（Relational Space） | 领土性空间（Territorial Space） | [[Space of Flows and Space of Places\|流动空间]]（Space of Flows） |
+> | 维度 | 关系性空间（Relational Space） | 领土性空间（Territorial Space） | [[Space of Flows\|流动空间]]（Space of Flows） |
 > |------|-----------------------------|------------------------------|--------------------------|
 > | **空间本质** | 社会关系、制度网络与[[Discourse\|话语]]实践生成的动态拓扑 | 边界固定的地理领土与行政管辖物理容器 | 电子脉冲、全球资本与信息技术构建的技术拓扑 |
 > | **全球/国家关系** | 相互依存、多维渗透与共生的重叠空间 | 外部环境与内部主权的二元对立与排他割裂 | 超越并架空民族国家的无缝技术网络与速度支配 |
@@ -149,7 +149,7 @@ updated: 2026-10-10
 > [!concept-lens] 网络生产空间
 > 探讨社会学空间转向如何打破地理容器[[Hypothesis\|假设]]，确立以网络拓扑为基准的空间本体。
 
-> [!claim] [[Argument_Beech_2015_GSE\|Beech & Artopoulos (2015)]]
+> [!claim] [[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015)]]
 > **网络配置对实践空间的动态生成** 空间并非等待事物填入的被动空盒，而是由行动者网络持续交织生成的社会效果。在教育知识传播中，不存在脱离沟通网络的绝对空间；知识也不是在固定地点生产后再向外扩散，而是在跨越不同节点的沟通交互网络中被共同建构。教育空间分析的核心任务从测绘领土地图转向解析行动者网络的配置与[[Assemblage\|组装]]过程。[[Argument_Beech_2015_GSE\|(Beech & Artopoulos, 2015, pp. 182–184)]]
 
 ---
@@ -200,8 +200,8 @@ updated: 2026-10-10
 
 > [!dev-timeline] 概念演变
 > - **2005–2006 — 人文地理学与社会学空间转向** Massey 提出将空间视作多元共存之维；Murdoch 阐述网络对[[Lefebvre's Spatial Triad|空间的生产]]机制，为超越绝对空间奠定理论基石。
-> - **2014–2015 — 比较教育学科的空间论引入** Larsen & Beech 以及 [[Argument_Beech_2015_GSE\|Beech & Artopoulos (2015)]] 正式将关系性空间概念引入比较教育，主张超越[[Methodological Nationalism\|方法论民族主义]]，从网络生成与知识沟通过程理解教育转移。
-> - **2020–2023 — 跨国[[Policy Network\|政策网络]]与[[Transfer Space\|转移空间]]概念化** Diane Stone 提倡跨国政策研究的[[Methodological Transnationalism\|方法论跨国主义]]；Porto de Oliveira & Osorio Gonnet (2023) 提出“转移空间”（Transfer Space），使关系性空间在政策分析中具备可操作的中介载体。
+> - **2014–2015 — 比较教育学科的空间论引入** Larsen & Beech 以及 [[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015)]] 正式将关系性空间概念引入比较教育，主张超越[[Methodological Nationalism\|方法论民族主义]]，从网络生成与知识沟通过程理解教育转移。
+> - **2020–2023 — 跨国[[Policy Network\|政策网络]]与[[Transfer Space\|转移空间]]概念化** Diane Stone 提倡跨国政策研究的[[Methodological Transnationalism\|方法论跨国主义]]；Porto de Oliveira and Osorio Gonnet (2023) 提出“转移空间”（Transfer Space），使关系性空间在政策分析中具备可操作的中介载体。
 > - **2022–2023 — 批判政策网络与社会-物质[[Assemblage\|装配]]实证应用** 埃玛·罗威（Emma Rowe）结合社会-物质理论（Law, 1992; Murdoch, 2006），将关系性空间拓展至[[Philanthrocapitalism\|慈善资本主义]]与国家科研机构治理分析，揭示立法修正案、法人实体与证据阶梯等耐用客体如何在关系性网络拓扑中形塑“防野狗围栏”式的排他秩序与超流动异层权力。[[Argument_Rowe_2022_IJER\|Rowe (2022)]]; [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]]
 > - **2024 — [[Governing by Numbers\|数字治理]] 2.0 时代的关系性空间理论升华** [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] 进一步发展关系性空间论，确立国家与全球为相互依存空间，系统解析国际组织[[Policy Brokerage\|政策中介]]与国家政府多阶段过滤在转移空间中的动态博弈。
 
@@ -243,7 +243,7 @@ updated: 2026-10-10
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Beech_2015_GSE\|Beech & Artopoulos (2015)]] — 比较教育学中系统运用关系性空间[[Paradigm\|范式]]的奠基之作，论述空间如何由社会行动者网络[[Assemblage\|组装]]和沟通过程所构建。
+> - [[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015)]] — 比较教育学中系统运用关系性空间[[Paradigm\|范式]]的奠基之作，论述空间如何由社会行动者网络[[Assemblage\|组装]]和沟通过程所构建。
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 提出[[Governing by Numbers\|数字治理]] 2.0 框架，将国家与全球置于相互依存的关系性空间中，实证解构[[Transfer Space\|转移空间]]中的[[Policy Brokerage\|政策中介]]与行政两阶段过滤。
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 结合社会-物质理论与关系空间视角，揭示澳大利亚国家教育科研组织如何借由耐用客体与公私董事网络构筑排他性证据空间。
 > - [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] — 运用关系性空间与政策装配视角，剖析由 [[Social Ventures Australia\|SVA]] 辐射的澳大利亚[[Venture Philanthropy\|风险慈善]]网络如何跨越行政边界并重塑国家实践。

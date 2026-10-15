@@ -32,7 +32,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Topological Spatialisation]]"
   - "[[Going Native]]"
-  - "[[Space of Flows and Space of Places]]"
+  - "[[Space of Flows]]"
   - "[[Co-affiliation]]"
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Network Governance]]"
@@ -84,7 +84,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Policy Mobility
@@ -94,7 +94,7 @@ updated: 2026-10-12
 ## 定义
 
 > [!def] 核心定义
-> **政策流动（Policy Mobility / Policy Mobilities）**是指政策观念、模型、工具与治理技术如何在跨国、跨区域及公私混合网络中穿梭、解构、变异并在本地重新[[Assemblage\|装配]]的动态过程。与经典政策转移或[[Policy Borrowing\|政策借用]]理论将政策视作可在真空物理空间中完整平移的既定“包裹”不同，政策流动强调政策在位移过程中不可避免地发生形态变异（mutation）与权力[[Transfer Translation Transformation\|转译]]；其背后通常由跨国管理咨询公司、[[Venture Philanthropy\|风险慈善]]（Venture Philanthropy）组织与金融资本组成的[[Policy Network\|政策网络]]所驱动，依托“快速政策”（fast policy）机制穿透传统民族国家边界，并通过耐用物质材料与法律装置在目标[[Champ\|场域]]完成再语境化（Peck & Theodore, 2015；Ball et al., 2017；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 1–3, 5–6]]；[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 522–525]]）。
+> **政策流动（Policy Mobility / Policy Mobilities）** 是指政策观念、模型、工具与治理技术如何在跨国、跨区域及公私混合网络中穿梭、解构、变异并在本地重新[[Assemblage\|装配]]的动态过程。与经典政策转移或[[Policy Borrowing\|政策借用]]理论将政策视作可在真空物理空间中完整平移的既定“包裹”不同，政策流动强调政策在位移过程中不可避免地发生形态变异（mutation）与权力[[Transfer Translation Transformation\|转译]]；其背后通常由跨国管理咨询公司、[[Venture Philanthropy\|风险慈善]]（Venture Philanthropy）组织与金融资本组成的[[Policy Network\|政策网络]]所驱动，依托“快速政策”（fast policy）机制穿透传统民族国家边界，并通过耐用物质材料与法律装置在目标[[Champ\|场域]]完成再语境化（Peck & Theodore, 2015；Ball et al., 2017；[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 1–3, 5–6]]；[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 522–525]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向政策方案在跨国与异质组织网络中流通时的解构、变异、重组与物质化装配过程。
@@ -135,7 +135,7 @@ updated: 2026-10-12
 
 > [!feature] 核心要素
 > - **突变与[[Transfer Translation Transformation\|转译]]（Mutation and Translation）** 政策在跨界穿梭中从不是原封不动的复制品，而是在不断遭遇地方摩擦、政治阻力与利益再分配时发生形式突变与功能再[[Coding in Qualitative Research\|编码]]；进入新[[Champ\|场域]]的政策已经成为杂糅了跨国模板与地方权宜考量的衍生[[Assemblage\|装配]]体。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 2, 5]]
-> - **关系拓扑与跨尺度流动（Relational Topologies and Trans-scalar Mobility）** [[Space of Flows and Space of Places\|流动空间]]由行动者之间的制度联结、重叠董事任职（[[Co-affiliation\|Co-affiliations]]）与资助网络界定，而非传统的物理距离；远隔重洋的跨国私市股权基金、华尔街投行与地方公立学校，在[[Topological Spatialisation\|拓扑空间]]中通过紧密的中介枢纽直接相连。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 6, 8]]
+> - **关系拓扑与跨尺度流动（Relational Topologies and Trans-scalar Mobility）** [[Space of Flows\|流动空间]]由行动者之间的制度联结、重叠董事任职（[[Co-affiliation\|Co-affiliations]]）与资助网络界定，而非传统的物理距离；远隔重洋的跨国私市股权基金、华尔街投行与地方公立学校，在[[Topological Spatialisation\|拓扑空间]]中通过紧密的中介枢纽直接相连。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 6, 8]]
 > - **快速政策与中介经纪（Fast Policy and Intermediary Brokerage）** 政策由麦肯锡（McKinsey & Company）等跨国咨询巨头、[[Venture Philanthropy\|风险慈善]]基金会与智库打包为去情境化、即插即用的因果证据与商业评估量规，以超常规的行政速度在跨国体系间高速流通，剥夺公众民主审议时间。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3–4]]
 > - **物质耐用性与无生命装配（Inanimate Assemblage and Durable Materials）** 观念层面的政策流动必须具身化（embodied）并固定在公司法注册资格、法案修改条款、标准化随机试验量规等耐用材料中，方能在异地获得长期的合法性与制度刚性。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 2, 5, 10]]
 > - **金融资本的黏合与通道作用（Financial Capital as Relational Glue）** 政策流动不仅是观念或技术的传播，其根本动力完全由穿透边境的资本纽带所驱动；大型商业银行、主权基金与资源寡头的资金流向慈善信托与中介智库，直接催生出顺应资本增殖逻辑的[[Endogenous and Exogenous Privatisation\|教育私有化]]改革方案。[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 6]]
@@ -228,8 +228,8 @@ updated: 2026-10-12
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **变异生成命题** | 政策在跨界流动中必然遭遇地方摩擦与再语境化，呈现突变而非机械复制 | 跨国教育改革方案向本土制度转译的动态追踪 | Peck & Theodore (2015); Ball (2016) |
-> | **物质装配命题** | 政策流动必须通过公司法注册、立法特许与因果量规等耐用材料实现长程控制 | 循证中介机构、准市场化实体与数字化平台的创生解析 | Law & Singleton (2005); [[Argument_Rowe_2022_IJER\|Rowe (2022, p. 2)]] |
+> | **变异生成命题** | 政策在跨界流动中必然遭遇地方摩擦与再语境化，呈现突变而非机械复制 | 跨国教育改革方案向本土制度转译的动态追踪 | Peck and Theodore (2015); Ball (2016) |
+> | **物质装配命题** | 政策流动必须通过公司法注册、立法特许与因果量规等耐用材料实现长程控制 | 循证中介机构、准市场化实体与数字化平台的创生解析 | Law and Singleton (2005); [[Argument_Rowe_2022_IJER\|Rowe (2022, p. 2)]] |
 > | **资本纽带命题** | 跨国金融与风险慈善资本是驱动快速政策穿梭流动与公私网络聚合的深层引擎 | 跨国基金会注资、公私伙伴关系及教育财政外包研究 | Ball et al. (2017); [[Argument_Rowe_2022_IJER\|Rowe (2022, p. 6)]]; [[Argument_Rowe_2023_ECNUROE\|Rowe (2023, p. 522)]] |
 
 ---
@@ -280,7 +280,7 @@ updated: 2026-10-12
 > | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | 循证教育经纪模型：英国（EEF） $\to$ 澳大利亚（AERO） | 英国教育部（削减免费校餐资金 1.25 亿英镑）、美洲银行、高盛、[[BHP Foundation\|必和必拓基金会]]、澳大利亚联邦与州政府 5000 万澳元配套拨款 | [[Education Endowment Foundation\|EEF]]、[[Social Ventures Australia\|SVA]]、[[Evidence for Learning\|E4L]]、[[David Gonski\|戴维·冈斯基]] | 《2001年公司法》担保有限公司注册、PGPA 法案 2020 年规则修正案第 5 条、因果证据工具包 | 从英国独立慈善信托突变为澳洲国家级部长控股公司，表面维持科学中立，实质特许向私营咨询分包 |
 > | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | 风险慈善与国家催化网络：美国/英国 $\to$ 澳大利亚 | 跨国投行（美洲银行、高盛）、管理咨询寡头（麦肯锡、贝恩）、国家税收减免与政府保密招标资助（1500 万澳元） | [[Social Ventures Australia\|SVA]]、[[Australian Schools Plus\|Schools Plus]]、[[Australian Education Research Organisation\|AERO]]、[[David Gonski\|戴维·冈斯基]] | [[Deductible Gift Recipient\|DGR1]] 减税资格凭证、四层控股法人架构、企业 KPI 绩效量规、定向咨询合同 | 将英美商业风投和[[Social Impact Investing\|影响力投资]]转化为国家特许异层治理网络；公共财政倒流补贴咨询业务，学校沦为商业附庸 |
 > | Ball et al. (2017) | 低成本私立学校（Low-fee Private Schools）：印度/非洲 $\to$ 跨国扩散 | 培生集团（Pearson）、[[World Bank\|世界银行]]国际金融公司（IFC）、国际开发署（DFID）投资基金 | Bridge International Academies、阿育王基金会（Ashoka）、跨国教育科技咨询公司 | 标准化平板电脑脚本化教案、移动支付结算网关、特许加盟办学合同 | 将公共基础教育矮化为流水线商业特许经营，剥夺教师专业裁量权，以微利算法榨取贫困家庭储蓄 |
-> | Peck & Theodore (2015) | 条件现金转移支付（CCT）与商业化福利改革：拉美（Oportunidades） $\to$ 纽约（Opportunity NYC） | 世界银行、彭博慈善基金会（Bloomberg Philanthropies）、洛克菲勒基金会 | 纽约市[[Innovation Hub\|创新中心]]（Center for Economic Opportunity）、MDRC 评估咨询机构 | [[Randomised Controlled Trials\|随机对照试验]]评估量规、家庭生物识别打卡终端、现金给付绩效审计合同 | 将拉美用于缓解极端贫困的社会保护项目，转变为以新自由主义行为矫正和惩罚性问责为特征的城市治理技术 |
+> | Peck and Theodore (2015) | 条件现金转移支付（CCT）与商业化福利改革：拉美（Oportunidades） $\to$ 纽约（Opportunity NYC） | 世界银行、彭博慈善基金会（Bloomberg Philanthropies）、洛克菲勒基金会 | 纽约市[[Innovation Hub\|创新中心]]（Center for Economic Opportunity）、MDRC 评估咨询机构 | [[Randomised Controlled Trials\|随机对照试验]]评估量规、家庭生物识别打卡终端、现金给付绩效审计合同 | 将拉美用于缓解极端贫困的社会保护项目，转变为以新自由主义行为矫正和惩罚性问责为特征的城市治理技术 |
 
 ---
 

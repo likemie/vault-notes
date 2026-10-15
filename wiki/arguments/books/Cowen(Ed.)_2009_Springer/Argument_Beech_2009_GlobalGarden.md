@@ -29,8 +29,9 @@ related_concepts:
   - "[[Global Educational Discourse]]"
   - "[[Gatekeepers]]"
   - "[[Methodological Nationalism]]"
-  - "[[Space of Flows and Space of Places]]"
+  - "[[Space of Flows]]"
   - "[[Recontextualization]]"
+  - "[[Space of Places]]"
   - "[[Creativity]]"
   - "[[Shape-Shifting]]"
   - "[[Normal School]]"
@@ -94,7 +95,7 @@ title: "Argument_Beech_2009_GlobalGarden"
 argument_key: "Argument_Beech_2009_GlobalGarden"
 argument_display_title: "Who is Strolling Through The Global Garden? International Agencies and Educational Transfer"
 argument_kind: "book-chapter"
-argument_related_count: 55
+argument_related_count: 57
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -119,7 +120,7 @@ issuing_organization: ""
 > [!concept-lens] 阅读透镜
 > - **对象** 全球教育场域中的跨国组织网络，重点聚焦 1985–2002 年间 UNESCO、世界银行与 OECD 的教育政策文本，以及阿根廷与巴西在此期间国家课程改革大纲、教师教育立法与师生实证访谈。（pp. 341–342, 347–348）
 > - **张力** 国际组织倡导之去情境化普遍理性方案与民族国家微观教育机构之具身历史传统及现实物质约束之间的剧烈断裂；多边机构表层政策主张的分歧竞争与其深层底色共识的惊人同构。（pp. 346–348, 353–354）
-> - **贡献** 彻底突破比较教育学长期受制于民族国家容器的[[Methodological Nationalism|方法论民族主义]]传统，批判性重构[[Basil Bernstein|伯恩斯坦]]语篇结构理论并结合卡斯特[[Space of Flows and Space of Places|流动空间]]，首创全球教育场域五位置话语流通模型（[[Beech's Model of Discourse Circulation]]），系统揭示学术生产、实用简化、守门人垄断与机构脱节的权力运作机制。（pp. 349–355）
+> - **贡献** 彻底突破比较教育学长期受制于民族国家容器的[[Methodological Nationalism|方法论民族主义]]传统，批判性重构[[Basil Bernstein|伯恩斯坦]]语篇结构理论并结合卡斯特[[Space of Flows|流动空间]]，首创全球教育场域五位置话语流通模型（[[Beech's Model of Discourse Circulation]]），系统揭示学术生产、实用简化、守门人垄断与机构脱节的权力运作机制。（pp. 349–355）
 
 ---
 
@@ -129,7 +130,7 @@ issuing_organization: ""
 > | 理论工具 | 解释功能 |
 > |----------|----------|
 > | **[[Basil Bernstein\|伯恩斯坦]]语篇结构与再语境化理论**<br>[[Recontextualization]] | 借用[[Discourse\|话语]]生产语境、再语境化（recontextualisation）语境与再生产语境的阶层权力划分，将其改造为[[Champ\|场域]]中的结构位置，用于剖析教育话语跨层级移动中的意义选择、删剪与重组。（pp. 349–350） |
-> | **[[Manuel Castells\|卡斯特]]流动空间理论**<br>[[Space of Flows and Space of Places]] | 引入[[Network Society\|网络社会]]中由电子通信与精英互动构成的流动空间（space of flows）概念，刻画跨国学术网络与国际组织如何脱离地理毗连性生产主导社会意识的全球抽象话语。（p. 350） |
+> | **[[Manuel Castells\|卡斯特]]流动空间理论**<br>[[Space of Flows]] 与 [[Space of Places]] | 引入[[Network Society\|网络社会]]中由电子通信与精英互动构成的流动空间（space of flows）概念，刻画跨国学术网络与国际组织如何脱离地理毗连性生产主导社会意识的全球抽象话语。（p. 350） |
 > | **萨德勒花园漫步隐喻解构**<br>[[Michael Sadler]] | 解构 1900 年萨德勒关于漫步世界教育花园采集枝叶无法植活的经典警示，指出当代参与花园漫步的已非单纯的主权国家官员，而是携带特定组织逻辑与资本诉求的跨国新型群体。（pp. 341, 356） |
 
 > [!warrant]- 理论如何支撑论证
@@ -282,7 +283,7 @@ issuing_organization: ""
 
 #### 1. 全球教育场域由五个不同功能的位置构成，各位置掌控教育可思与不可思的权力并不平等
 
-为系统解释全球教育话语的生成、中介与落地机制，比奇将伯恩斯坦的语篇控制权理论与卡斯特的[[Space of Flows and Space of Places|流动空间]]概念相结合，构建了跨国教育场域的五位置结构模型（Bernstein, 1990; Castells, 2000；pp. 349–351）。
+为系统解释全球教育话语的生成、中介与落地机制，比奇将伯恩斯坦的语篇控制权理论与卡斯特的[[Space of Flows|流动空间]]概念相结合，构建了跨国教育场域的五位置结构模型（Bernstein, 1990; Castells, 2000；pp. 349–351）。
 
 > [!quad-grid] 全球教育场域五大结构位置与职能分工表
 > - **全球学术空间（Global Academic Space）** 话语生产的最高层级。依托国际专业期刊、学术专著、国际研讨会及学者与学生的跨国流动网络运转，属于纯粹的流动空间；掌控关于教育可思与不可思（thinkable/unthinkable）的终极认识论边界；西欧与北美学术传统占据压倒性霸权。（pp. 350–351）

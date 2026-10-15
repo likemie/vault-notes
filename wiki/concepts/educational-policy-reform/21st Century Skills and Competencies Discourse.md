@@ -312,7 +312,7 @@ updated: 2026-10-07
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Bouckaert_2023_OECD|Bouckaert (2023)]] — [[OECD]] 国际报告，系统论证 21 世纪高阶素养在高等教育落地中面临的评价瓶颈，提出重构学业评价的五大政策杠杆与全课程改革方案。
 > - [[Argument_Zelinka_2022_SCD_subjectivity|Zelinka (2022)]] — 批判[[Discourse Analysis|话语分析]]，系统剖析 21 世纪技能[[Discourse|话语]]的全球演变、新自由主义主体性[[Disciplina and Doctrina|规训]]与被边缘化的全人素养。
-> - [[Argument_Beech_2009_CE|Beech (2009)]] — 考察能力话语在[[Global Policy Space|全球政策空间]]中的[[Floating Signifier|漂浮能指]]运作，揭示拉美教师教育中的[[Transfer Translation Transformation|转译]]断裂与概念混乱。
+> - [[Argument_Beech_2009_CE|Beech (2009a)]] — 考察能力话语在[[Global Policy Space|全球政策空间]]中的[[Floating Signifier|漂浮能指]]运作，揭示拉美教师教育中的[[Transfer Translation Transformation|转译]]断裂与概念混乱。
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|The Royal Society (2026)]] — 提出智能时代四大交叉素养蓝图，主张核心素养必须扎根于学科[[Big Ideas|大概念]]与实证探究，批判技能空心化。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 白宫科技政策办公室战略报告，批判脱离实体制造的抽象技能空心化，提出将车间实训、排障手艺与自动化机器核验确立为智能时代高阶能力新支柱。
 > - [[Argument_SpronkenSmith_2024_AEHE|Spronken-Smith et al. (2024)]] — 实证调查高等教育最高阶段的通用特质培养感知，揭示协作能力与环境素养的严重欠缺。

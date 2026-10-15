@@ -2,7 +2,6 @@
 title: Totally Pedagogised Society
 aliases:
   - 全盘教育化社会
-  - totally pedagogised society
   - TPS
   - 完全教育化社会
 summary: "Bernstein（2001）提出的概念，指教育关系从学校扩展到整个社会的社会形态，Cowen 视其为分析 21 世纪教育变迁的关键理论资源"
@@ -24,7 +23,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Scientism]]"
-  - "[[Space of Flows and Space of Places]]"
+  - "[[Space of Places]]"
   - "[[Educated Identity]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -40,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Totally Pedagogised Society
@@ -102,7 +101,7 @@ updated: 2026-10-07
 
 > [!dimension] 应对全盘教育化社会挑战的二元伦理支点
 > - **转移问题（Transfer）**
->   拒绝将全球政策方案视为固定不变的工具，深刻剖析政策、理念与技术在向[[Space of Flows and Space of Places\|地方空间]]和学校教室降落时，在国家、经济、文化的交汇处发生的“移动即变形”（as it moves, it morphs）的形态变化（morphing）。([[Argument_Cowen_2023_CE\|Cowen, 2023, p. 335]])
+>   拒绝将全球政策方案视为固定不变的工具，深刻剖析政策、理念与技术在向[[Space of Places\|地方空间]]和学校教室降落时，在国家、经济、文化的交汇处发生的“移动即变形”（as it moves, it morphs）的形态变化（morphing）。([[Argument_Cowen_2023_CE\|Cowen, 2023, p. 335]])
 > - **[[Educated Identity\|受教育身份]]问题（Educated Identity）**
 >   将研究拉回对生命状态的底线关切，保持强烈的道德同理心与清晰性，去严肃地见证并在学术上记录：在“教育”与“算法训练”的旗帜下，我们究竟对全世界的孩子们实施了怎样的系统性人道后果。(p. 336)
 

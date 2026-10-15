@@ -29,7 +29,7 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Paradigm]]"
   - "[[Network Governance]]"
-  - "[[Space of Flows and Space of Places]]"
+  - "[[Space of Flows]]"
   - "[[Attrition]]"
   - "[[Geopolitics of Knowledge]]"
   - "[[Soft Power]]"
@@ -53,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Performativity
@@ -63,7 +63,7 @@ updated: 2026-10-07
 ## 定义
 
 > [!def] 核心定义
-> **操演性/绩效性（Performativity）**最初是由[[Jean-François Lyotard\|让-弗朗索瓦·利奥塔]]（[[Jean-François Lyotard]]，1984）提出的一种以“输入/输出逻辑”为核心的社会运作与知识合法化原则，其终极目标是优化系统表现。在教育政策治理研究中，操演性是指机构或行动者为了在[[Network Society\|网络社会]]中获取并维持主导地位，必须使其绩效表现**高度可见**，并以**影响力广度**（如政策采纳率、数据引用率）作为评估成效的核心机制，这导致了[[Pragmatic Paradigm\|实用主义]]联盟压倒意识形态的政治逻辑。([[Argument_Beech_2009_CE\|Beech, 2009, pp. 352–353]])
+> **操演性/绩效性（Performativity）** 最初是由[[Jean-François Lyotard\|让-弗朗索瓦·利奥塔]]（[[Jean-François Lyotard]]，1984）提出的一种以“输入/输出逻辑”为核心的社会运作与知识合法化原则，其终极目标是优化系统表现。在教育政策治理研究中，操演性是指机构或行动者为了在[[Network Society\|网络社会]]中获取并维持主导地位，必须使其绩效表现**高度可见**，并以**影响力广度**（如政策采纳率、数据引用率）作为评估成效的核心机制，这导致了[[Pragmatic Paradigm\|实用主义]]联盟压倒意识形态的政治逻辑。([[Argument_Beech_2009_CE\|Beech, 2009, pp. 352–353]])
 
 > [!concept-lens] 概念透镜
 > - **指向机制** 操演性指向评估逻辑对社会关系的渗透。它强制要求系统成员不断生产出可[[Commensuration\|通约]]的绩效证明，并将“可见的绩效”等同于“实际的价值”。
@@ -159,7 +159,7 @@ updated: 2026-10-07
 > [!dev-timeline] 概念演变
 > - **1979/1984 — 知识合法性[[Paradigm\|范式]]确立** [[Jean-François Lyotard\|让-弗朗索瓦·利奥塔]]在《后现代状况》中正式提出“操演性”概念。他诊断后工业社会中，知识的合法化基础不再是真理或解放，而是其提升系统表现的效率，实现了从“真理导向”向“效率导向”的重大转变。(Lyotard, 1984, 引自 [[Argument_Beech_2009_CE\|Beech, 2009, p. 352]])
 > - **2003 — 教育审计文化批判** [[Stephen Ball\|斯蒂芬·鲍尔]]（Stephen Ball）发表《专业灵魂的资产负债表》（*The Teacher's Soul and the Terrors of Performativity*），将绩效性引入教育社会学微观透视。他揭示了学校如何成为绩效审计文化下的“捏造机器”，以及教师专业伦理在数字指标监控下面临的结构性摧残。
-> - **2009 — 全球教育政策空间治理分析** 杰森·毕奇（[[Jason Beech]]）在《比较教育》中将操演性引入宏观[[Network Governance\|网络治理]]分析。他结合 Castells 的空间/网络理论，阐明在[[Space of Flows and Space of Places\|流动空间]]主导的[[Policy Network\|全球政策网络]]中，操演性如何作为网络自我重组和[[Discourse|话语]]（如“能力”、“多样性”）抽象流通的驱动力。([[Argument_Beech_2009_CE\|Beech, 2009]])
+> - **2009 — 全球教育政策空间治理分析** 杰森·毕奇（[[Jason Beech]]）在《比较教育》中将操演性引入宏观[[Network Governance\|网络治理]]分析。他结合 Castells 的空间/网络理论，阐明在[[Space of Flows\|流动空间]]主导的[[Policy Network\|全球政策网络]]中，操演性如何作为网络自我重组和[[Discourse|话语]]（如“能力”、“多样性”）抽象流通的驱动力。([[Argument_Beech_2009_CE\|Beech, 2009]])
 
 ---
 

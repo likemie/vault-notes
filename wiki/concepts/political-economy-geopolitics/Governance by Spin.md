@@ -17,7 +17,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Performativity]]"
   - "[[Transfer Translation Transformation]]"
-  - "[[Space of Flows and Space of Places]]"
+  - "[[Space of Places]]"
   - "[[Shape-Shifting]]"
   - "[[Floating Signifier]]"
   - "[[Epistemology]]"
@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Governance by Spin
@@ -90,7 +90,7 @@ updated: 2026-10-07
 
 > [!claim] 杰森·比奇
 > - **网络国家合法性与[[Discourse|话语]]结构命题** 为应对网络国家中多元主体和国际评估（如 [[PISA]]）的[[Performativity\|操演性]]压力，国家在[[Transfer Translation Transformation\|转译]]全球话语时，策略性地并置革新与保守声明（舆论操控），以维持其在全球和国家网络中的合法性。(pp. 357–358)
-> - **政策矛盾向实践障碍的转化命题** 政策中的“模糊性”和“不一致”在国家层面的政治谈判中是灵活性资源；但当其进入[[Space of Flows and Space of Places\|地方空间]]的具体学校实践时，由于教学行动要求“一致性”，这些矛盾转化为教师无法调和的实际行动障碍。(pp. 358–359)
+> - **政策矛盾向实践障碍的转化命题** 政策中的“模糊性”和“不一致”在国家层面的政治谈判中是灵活性资源；但当其进入[[Space of Places\|地方空间]]的具体学校实践时，由于教学行动要求“一致性”，这些矛盾转化为教师无法调和的实际行动障碍。(pp. 358–359)
 > - **实践层面的话语变异与保守化命题** 由于缺乏具体的教学法支持以及受制于地方特定物质环境（如极端贫困），教师在试图消除政策矛盾时，倾向于将新话语同化进已有的认知框架，或对其进行去激进化、保守化的再解释（如将“尊重多样性”转译为默许结构性不平等的“尊重贫困”）。(pp. 359–361)
 >
 > 核心命题详见：[[Argument_Beech_2009_CE\|Beech, 2009, pp. 357–361]]

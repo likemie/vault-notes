@@ -23,7 +23,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Champ]]"
   - "[[Discourse]]"
-  - "[[Space of Flows and Space of Places]]"
+  - "[[Space of Flows]]"
   - "[[Gatekeepers]]"
   - "[[Epistemology]]"
   - "[[Paradigm]]"
@@ -100,7 +100,7 @@ updated: 2026-10-15
 > *An analytic framework uses an 'analytic tradition' to guide the analysis... moving beyond the mundane language of participants toward theory-driven interpretations.*
 
 > [!citation-card] 比奇论构建跨国教育[[Discourse|话语]]流通的五位置分析框架
-> 我们需要构建一个跨国空间分析框架，将[[Basil Bernstein|伯恩斯坦]]关于教育话语重构的理论与卡斯特关于[[Space of Flows and Space of Places|流动空间]]的洞见融为一体。该框架区分出全球学术空间、国际组织、国家、本土学术空间与教育机构五大结构位置，用以系统追踪去情境化的普遍话语在跨国流动中的过度简化、[[Gatekeepers|守门人]]垄断与微观再语境化脱节。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 349–351)]]
+> 我们需要构建一个跨国空间分析框架，将[[Basil Bernstein|伯恩斯坦]]关于教育话语重构的理论与卡斯特关于[[Space of Flows|流动空间]]的洞见融为一体。该框架区分出全球学术空间、国际组织、国家、本土学术空间与教育机构五大结构位置，用以系统追踪去情境化的普遍话语在跨国流动中的过度简化、[[Gatekeepers|守门人]]垄断与微观再语境化脱节。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 349–351)]]
 >
 > *We propose an analytic framework to conceptualise how educational discourse circulates across different structural positions in the global educational field... linking Bernstein’s insights on recontextualisation with Castells' notion of the space of flows to track how oversimplified global models interact with local institutional realities.*
 
@@ -159,7 +159,7 @@ updated: 2026-10-15
 > | **[[Grounded Theory\|扎根理论]]框架** | [[Open Coding\|开放编码]]生成范畴 ➔ [[Axial Coding\|轴心编码]]建立条件-因果条件矩阵 ➔ [[Selective Coding\|选择性编码]]导出核心范畴 | 缺乏先验理论时的微观机制发现与草根理论生成 | Strauss and Corbin (1998) |
 > | **[[Case Study\|案例研究]]与[[Ethnography\|民族志]]** | 深度情境化[[Rich and Thick Description\|深描]]、场所活动解析与文化主题分类 | 特定[[Organizational Culture\|组织文化]]、特定社群内部的日常生活实践 | Stake (1995); Wolcott (1994) |
 > | **宏观比较政治经济学框架** | 运用资本积累、国家合法性危机、[[State Corporatism\|国家法团主义]]与[[Conditioned State Theory\|受限国家]]四重维度解构教育制度 | 解释发展中国家跨期教育扩张的动力矛盾与依附结构 | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009, pp. 74–76)]] |
-> | **跨国教育[[Champ\|场域]]与[[Discourse\|话语]]流通框架** | 融合[[Basil Bernstein\|伯恩斯坦]]再语境化场域与卡斯特[[Space of Flows and Space of Places\|流动空间]]，区分全球学术、国际组织、国家、本土学术与学校五大结构位置，追踪话语过度简化、[[Gatekeepers\|守门人]]垄断与实践脱节 | 跨国教育治理标准在全球流动中的意义异化、权力不对称与本土实践遭遇 | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b, pp. 349–355)]] |
+> | **跨国教育[[Champ\|场域]]与[[Discourse\|话语]]流通框架** | 融合[[Basil Bernstein\|伯恩斯坦]]再语境化场域与卡斯特[[Space of Flows\|流动空间]]，区分全球学术、国际组织、国家、本土学术与学校五大结构位置，追踪话语过度简化、[[Gatekeepers\|守门人]]垄断与实践脱节 | 跨国教育治理标准在全球流动中的意义异化、权力不对称与本土实践遭遇 | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b, pp. 349–355)]] |
 
 ---
 

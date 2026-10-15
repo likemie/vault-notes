@@ -1583,14 +1583,18 @@
     ]
   },
   {
-    "title": "Space of Flows and Space of Places",
+    "title": "Space of Flows",
     "type": "concept",
-    "path": "wiki/concepts/comparative-education/Space of Flows and Space of Places.md",
+    "path": "wiki/concepts/comparative-education/Space of Flows.md",
     "aliases": [
-      "流动空间与地方空间",
-      "space of flows",
-      "space of places",
-      "流动空间",
+      "流动空间"
+    ]
+  },
+  {
+    "title": "Space of Places",
+    "type": "concept",
+    "path": "wiki/concepts/comparative-education/Space of Places.md",
+    "aliases": [
       "地方空间"
     ]
   },
@@ -13736,7 +13740,6 @@
     "path": "wiki/concepts/sociology-of-education/Totally Pedagogised Society.md",
     "aliases": [
       "全盘教育化社会",
-      "totally pedagogised society",
       "TPS",
       "完全教育化社会"
     ]

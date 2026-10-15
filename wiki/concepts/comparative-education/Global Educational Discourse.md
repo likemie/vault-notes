@@ -6,10 +6,10 @@ aliases:
 summary: "国际组织基于紧迫实用主义与技术理性对全球学术话语过度简化所生成的通用教育改革范式，宣称以信息时代为前景并窄化本土政策空间"
 type: concept
 domain: "comparative-education"
-related_count: 25
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 44
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - theme/comparative-education
   - theme/educational-transfer
@@ -19,7 +19,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Educational Meliorism]]"
-  - "[[Space of Flows and Space of Places]]"
+  - "[[Space of Flows]]"
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Champ]]"
@@ -37,6 +37,7 @@ related_concepts:
   - "[[Social Imaginary]]"
   - "[[Floating Signifier]]"
   - "[[Transfer Translation Transformation]]"
+  - "[[Space of Places]]"
   - "[[Global Policy Space]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Space of Equivalence]]"
@@ -81,7 +82,7 @@ updated: 2026-10-15
 > 全球教育[[Discourse|话语]]（Global Educational Discourse）由杰森·比奇（Jason Beech, 2009b）提出，特指以[[UNESCO|联合国教科文组织]]（United Nations Educational, Scientific and Cultural Organization, UNESCO）、[[World Bank|世界银行]]（World Bank, WB）与[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD，简称经合组织）为代表的国际组织，在 20 世纪 80 年代与 90 年代起，基于紧迫[[Pragmatic Paradigm|实用主义]]（urgent pragmatism）与[[Educational Meliorism|改良主义]]行动诉求，通过对复杂专深的全球学术话语进行过度简化（oversimplification）所生产并跨国推广的一整套抽象、通用的教育改革话语体系。该话语将未来统一步调地界定为“信息时代”（information age），推销一套以分权化、学校自主、教师专业化、胜任力课程（competencies-based curriculum）与中央评估系统为核心支柱的普遍主义模型，并自诩为能够解决任何本土教育问题的灵丹妙药，实质上严重窄化并闭合了借款国与受援国的政策探索空间，并在微观学校机构遭遇显著的实践脱节。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–353)]]
 
 > [!concept-lens] 概念透镜
-> - **含义** 指向国际组织在[[Space of Flows and Space of Places|流动空间]]中对学术知识进行技术官僚化加工后形成的去情境化通用政策[[Paradigm|范式]]。
+> - **含义** 指向国际组织在[[Space of Flows|流动空间]]中对学术知识进行技术官僚化加工后形成的去情境化通用政策[[Paradigm|范式]]。
 > - **用途** 帮助研究者透视国际援助与跨国政策建议背后的[[Epistemology|认识论]]霸权，解释不同国际组织表面冲突之下的深层共识，以及外来通用改革在后发国家引发的政策空间收缩与实践异化。
 > - **边界** 不等于具体的某项国际公约或单一组织倡议；它是一种跨组织的底层思想体系（general system of thought），并非指所有国家都无条件接受其实质内容。
 
@@ -216,7 +217,7 @@ updated: 2026-10-15
 > | [[Gatekeepers]] | Concept | 在后发国家跨界垄断全球教育话语解释权、依附国际贷款并排斥本土独立[[Knowledge Production\|知识生产]]的精英行动者网络。 |
 > | [[Transfer Translation Transformation]] | Concept | 追踪全球教育话语从空间转移、官方政策转译到基层学校权力压缩转化的完整生命周期框架。 |
 > | [[Pragmatic Paradigm]] | Concept | 剖析国际组织因“紧迫实用主义”将学术知识过度简化为五大支柱模型并陷入话语盲区的哲学认识论根源。 |
-> | [[Space of Flows and Space of Places]] | Concept | 卡斯特[[Network Society\|网络社会]]学区分全球教育话语生产的去领土化流动空间与基层学校实践的地方空间约束。 |
+> | [[Space of Flows]] 与 [[Space of Places]] | Concept | 卡斯特[[Network Society\|网络社会]]学区分全球教育话语生产的去领土化流动空间与基层学校实践的地方空间约束。 |
 > | [[Policy Borrowing]] | Concept | 解释外围国家官僚系统如何将全球教育话语作为展示现代性与合法化外部贷款的政治面具。 |
 > | [[Globally Structured Agenda for Education]] | Theory | 戴尔提出的全球结构化教育议程，与全球教育话语形成资本结构强制与[[Champ\|场域]]话语中介的互补对照。 |
 > | [[Jason Beech]] | Person | 首次系统界定全球教育话语概念、五位置模型及其在拉美实践脱节机制的阿根廷比较教育学者。 |
@@ -230,6 +231,6 @@ updated: 2026-10-15
 
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 提出全球教育[[Discourse|话语]]概念与[[Champ|场域]]五位置模型，实证剖析国际组织在拉美推进五大支柱模型时的空间闭合与实践脱节。
-> - [[Argument_Beech_2009_CE|Beech (2009a)]] — 将[[Space of Flows and Space of Places|流动空间与地方空间]]二分法引入比较教育学，追踪[[Global Policy Space|全球政策空间]]生产的能力话语向拉美国家与学校逐层变形的机制。
+> - [[Argument_Beech_2009_CE|Beech (2009a)]] — 将[[Space of Flows|流动空间]]与[[Space of Places|地方空间]]二分法引入比较教育学，追踪[[Global Policy Space|全球政策空间]]生产的能力话语向拉美国家与学校逐层变形的机制。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009)]] — 解构[[OECD|经合组织]]如何通过[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]与 [[PISA]] [[Space of Equivalence|等值空间]]重构全球教育政策话语。
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 从[[Multilateral Development Bank|多边开发银行]]内部决策机制剖析“理念银行”在教育政策输出中的技术官僚病理。

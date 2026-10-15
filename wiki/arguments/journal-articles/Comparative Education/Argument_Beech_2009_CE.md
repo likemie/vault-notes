@@ -9,6 +9,8 @@ doi: 10.1080/03050060903184932
 citation_aliases:
   - "Beech, 2009a"
   - "Beech (2009a)"
+  - "Beech, 2009"
+  - "Beech (2009)"
 tags:
   - theme/comparative-education
   - theme/educational-transfer
@@ -29,7 +31,8 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
   - "[[Global Educational Discourse]]"
   - "[[Methodological Nationalism]]"
-  - "[[Space of Flows and Space of Places]]"
+  - "[[Space of Flows]]"
+  - "[[Space of Places]]"
   - "[[Governance by Spin]]"
   - "[[Performativity]]"
   - "[[Hypothesis]]"
@@ -85,7 +88,7 @@ title: "Argument_Beech_2009_CE"
 argument_key: "Argument_Beech_2009_CE"
 argument_display_title: "Policy spaces, mobile discourses, and the definition of educated identities"
 argument_kind: "journal-article"
-argument_related_count: 50
+argument_related_count: 51
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -113,7 +116,7 @@ issuing_organization: ""
 
 > [!concept-lens] 阅读透镜
 > - **对象** [[Global Educational Discourse|全球教育话语]]（以“能力发展”和“尊重多样性”为典型追踪线索）从超国家网络（OECD、世界银行、UNESCO等）经由国家政策文件设计，最终流向学校课堂与教师日常实践（聚焦拉美的巴西、阿根廷及玻利维亚等经验场景）的完整路径(pp.348–353)。
-> - **张力** 传统比较教育学中的“[[Methodological Nationalism\|方法论民族主义]]”将空间等同于国家地理边界的横向对比，与跨国[[Network Society\|网络社会]]中“[[Space of Flows and Space of Places\|流动空间]]”与“地方空间”的纵向不对称权力博弈之间的张力；以及国家在政策文本层面对矛盾声明的“功能性包容（[[Governance by Spin\|舆论操控]]）”与学校在行动层面对“教学一致性”的要求之间的张力(pp.349, 356, 359)。
+> - **张力** 传统比较教育学中的“[[Methodological Nationalism\|方法论民族主义]]”将空间等同于国家地理边界的横向对比，与跨国[[Network Society\|网络社会]]中“[[Space of Flows\|流动空间]]”与“[[Space of Places|地方空间]]”的纵向不对称权力博弈之间的张力；以及国家在政策文本层面对矛盾声明的“功能性包容（[[Governance by Spin\|舆论操控]]）”与学校在行动层面对“教学一致性”的要求之间的张力(pp.349, 356, 359)。
 > - **贡献** 引入 [[Manuel Castells]] 的空间/网络社会理论和 [[Jean-François Lyotard]] 的[[Performativity\|操演性]]概念，建立了一个解释跨空间层级的话语再语境化（recontextualisation）[[Analytic Framework\|分析框架]]，揭示了全球教育话语在流动中“空虚性”的功能意义以及在微观实践中转译为“尊重贫困”等意外后果的形成机制(p.361)。
 
 > [!boundary] 分析范围的边界
@@ -128,7 +131,7 @@ issuing_organization: ""
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |----------|----------|
-> | **流动空间与地方空间 (Space of Flows and Space of Places)**<br>[[Space of Flows and Space of Places]] | 用于区分地理定位的物理环境（地方空间，如具体的学校教室）与允许社会[[Praxis\|实践]]在非领土毗连下同时发生的物质安排（流动空间，如超国家信息网络），解释空间如何从地方中脱嵌(p.349)。 |
+> | **流动空间与地方空间 (Space of Flows and Space of Places)**<br>[[Space of Flows]] 与 [[Space of Places]] | 用于区分地理定位的物理环境（地方空间，如具体的学校教室）与允许社会[[Praxis\|实践]]在非领土毗连下同时发生的物质安排（流动空间，如超国家信息网络），解释空间如何从地方中脱嵌(p.349)。 |
 > | **网络社会理论 (Network Society)**<br>[[Network Society]] | 用于分析流动空间中运行的社会组织（网络）的自动机运作、纳入/排除的二元逻辑、无中心但有主导节点的权力结构以及跨网络互通的逻辑(pp.350–351)。 |
 > | **操演性概念 (Performativity)**<br>[[Performativity]] | Lyotard (1984) 的概念。用于解释[[Global Policy Space\|全球政策空间]]中机构的评估逻辑（优化输入产出比与追求最大影响力的操演性竞争），说明 [[Pragmatism in China\|pragmatism]]（[[Pragmatic Paradigm\|实用主义]]）如何压倒意识形态(pp.352–353)。 |
 
@@ -265,7 +268,7 @@ Castells 据此区分了两种空间逻辑：
 ### 第一步：全球政策空间——网络逻辑与话语生产
 
 > [!claim] 步骤一主张
-> 在[[Space of Flows and Space of Places\|流动空间]]构成的[[Policy Network\|全球政策网络]]中，多元行动者在操演性逻辑和[[Pragmatic Paradigm\|实用主义]]驱动下进行项目结盟，强制生产出脱离历史经验、兼具稳定性与可塑性的“漂浮能指”话语，以期获取最大程度的跨语境可接受性。
+> 在[[Space of Flows\|流动空间]]构成的[[Policy Network\|全球政策网络]]中，多元行动者在操演性逻辑和[[Pragmatic Paradigm\|实用主义]]驱动下进行项目结盟，强制生产出脱离历史经验、兼具稳定性与可塑性的“漂浮能指”话语，以期获取最大程度的跨语境可接受性。
 
 #### 1.1 谁在参与：多元行动者与流动的网络
 
@@ -376,7 +379,7 @@ Castells 据此区分了两种空间逻辑：
 > 国家层面在空间上扮演着“流动”向“地方”着陆的中介。作为网络国家，政府必须调和国际操演性评估压力与本国庞大行政/教学群体的保守阻力。由于它无法在现实中一次性完全推翻已累积数百年的领土历史传统，国家政策在逻辑上只能采用并置不兼容声明的折衷方式，利用话语的“多义性（multi-vocality）”向不同方向进行舆论操控（Spin），以维持其执政合法性。
 
 > [!conclusion] 第二步的结论
-> 国家层面处于流动空间逻辑与地方空间逻辑的交接位置。全球漂浮能指在国家层面经历了选择性具体化。既被部分锚定于领土特定的历史经验和既有话语，又通过不兼容声明的组合保留了全球话语的可塑性。其产物是一个同时包含革新与保守（且可以在不同场合选择性调用其中一方）的混合话语。虽然国家话语比全球话语更具体，但它仍然保持了一定程度的抽象性(p.358)。
+> 国家层面处于流动空间逻辑与[[Space of Places|地方空间]]逻辑的交接位置。全球漂浮能指在国家层面经历了选择性具体化。既被部分锚定于领土特定的历史经验和既有话语，又通过不兼容声明的组合保留了全球话语的可塑性。其产物是一个同时包含革新与保守（且可以在不同场合选择性调用其中一方）的混合话语。虽然国家话语比全球话语更具体，但它仍然保持了一定程度的抽象性(p.358)。
 
 ---
 
@@ -451,7 +454,7 @@ Castells 据此区分了两种空间逻辑：
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **[[Space of Flows and Space of Places\|流动空间]]塑造[[Discourse|话语]]机制** 全球教育网络受网络逻辑与[[Performativity\|操演性]]驱动，为了获取最大的接受度，强制生产出脱离历史经验的、可塑且相对稳定的“[[Floating Signifier\|漂浮能指]]”话语。(pp.350–353)
+> 1. **[[Space of Flows\|流动空间]]塑造[[Discourse|话语]]机制** 全球教育网络受网络逻辑与[[Performativity\|操演性]]驱动，为了获取最大的接受度，强制生产出脱离历史经验的、可塑且相对稳定的“[[Floating Signifier\|漂浮能指]]”话语。(pp.350–353)
 > 2. **国家层面具体化并置** 国家在翻译全球话语时，因网络国家特征和[[Governance by Spin\|舆论操控]]需要，在政策文件中并置“革新”与“保守”的矛盾声明（如巴西课程中的跨学科与14门独立学科共存）。(pp.355–358)
 > 3. **实践中不一致化为障碍** 在具体学校实践中，政策文本层面的矛盾转变为实际行动障碍，实践者面临教学行动的“一致性要求”，被迫为模糊字眼分配明确的定义。(pp.358–359)
 > 4. **微观[[Transfer Translation Transformation\|转译]]的物质约束** 全球话语的[[Going Native\|本土化]][[Shape-Shifting\|形变]]受制于既有认知框架（如用行为目标[[Absorptive Capacity\|吸收能力]]）以及所处领土的物质现实（如布宜诺斯艾利斯郊区的“尊重多样性”转译为对贫困的默许）。(pp.358–361)
@@ -480,7 +483,7 @@ Castells 据此区分了两种空间逻辑：
 >
 > *“In the process of transformation of policy discourse into practice, incoherence is an obstacle and not an opportunity for political negotiation.”*
 
-> [!citation-card]- [[Space of Flows and Space of Places\|流动空间]]中的符号特征
+> [!citation-card]- [[Space of Flows\|流动空间]]中的符号特征
 > 任何被赋予的意义都会瞬间过时，被无数不同的观点和替代代码重新处理。(Castells, 2000c, p.22, 引自 p.353)
 >
 > *“Any assigned meaning becomes instantly obsolete, reprocessed by a myriad of different views and alternative codes.”*

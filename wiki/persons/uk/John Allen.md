@@ -29,7 +29,7 @@ related_concepts:
   - "[[Governing by Numbers]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Champ]]"
-  - "[[Space of Flows and Space of Places]]"
+  - "[[Space of Places]]"
   - "[[Rescaling]]"
 related_theories:
   - "[[Actor-Network Theory]]"
@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # John Allen
@@ -105,7 +105,7 @@ updated: 2026-10-08
 > [!citation-card] 拓扑临近性与空间的折叠
 > 拓扑学视角重塑了对距离与权力的理解：
 >
-> 物理领土距离不再是衡量远与近、地方与空间的唯一尺度；通过关系性与连通性所表达的拓扑‘临近感’，使得全球标准得以直接‘折叠’进微观[[Space of Flows and Space of Places\|地方空间]]之中。（Allen, 2011; Lewis & Lingard, 2015; [[Argument_Hartong_2018_GSE\|Hartong, 2018, p. 137]]）
+> 物理领土距离不再是衡量远与近、地方与空间的唯一尺度；通过关系性与连通性所表达的拓扑‘临近感’，使得全球标准得以直接‘折叠’进微观[[Space of Places\|地方空间]]之中。（Allen, 2011; Lewis & Lingard, 2015; [[Argument_Hartong_2018_GSE\|Hartong, 2018, p. 137]]）
 >
 > *Territorial distance – as measured in kilometres or miles – becomes less reflective of near and far, of place and space, than does the topological notion of ‘closeness’ as expressed through relationality and connectedness.*
 

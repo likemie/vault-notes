@@ -32,7 +32,7 @@ related_concepts:
   - "[[National Innovation System]]"
   - "[[Regional Innovation System]]"
   - "[[Document]]"
-  - "[[Space of Flows and Space of Places]]"
+  - "[[Space of Flows]]"
   - "[[Flow]]"
   - "[[Discourse]]"
   - "[[Agglomeration Externalities]]"
@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-07
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Michael Porter
@@ -79,7 +79,7 @@ updated: 2026-10-07
 
 > [!person-profile] 人物档案
 > - **身份位置** 迈克尔·E·波特（Michael E. Porter），美国当代著名经济学与战略管理学者，哈佛商学院主教威廉·劳伦斯大学教授（Bishop William Lawrence University Professor）。[[Argument_Moisio_2022_Springer|(Moisio, 2022, p. 27)]]
-> - **核心角色** 当代竞争战略与产业集群理论的开创者。在产业经济学与管理学界奠定了五力模型与价值链理论；在创新经济学中，其 1990 年《[[National Competitive Advantage|国家竞争优势]]》提出的“钻石模型”（Diamond Model）成为[[National Innovation System|国家创新系统]]与[[Regional Innovation System|区域创新系统]][[Document|文献]]的重要参照；在[[Critical Geopolitics|批判地缘政治学]]中，其理论被定性为塑造全球枢纽与[[Space of Flows and Space of Places|流动空间]]想象（Hub-and-[[Flow]] Imaginaries）的关键[[Discourse|话语]]来源。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 20–21)]]; [[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 26–27)]]
+> - **核心角色** 当代竞争战略与产业集群理论的开创者。在产业经济学与管理学界奠定了五力模型与价值链理论；在创新经济学中，其 1990 年《[[National Competitive Advantage|国家竞争优势]]》提出的“钻石模型”（Diamond Model）成为[[National Innovation System|国家创新系统]]与[[Regional Innovation System|区域创新系统]][[Document|文献]]的重要参照；在[[Critical Geopolitics|批判地缘政治学]]中，其理论被定性为塑造全球枢纽与[[Space of Flows|流动空间]]想象（Hub-and-[[Flow]] Imaginaries）的关键[[Discourse|话语]]来源。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 20–21)]]; [[Argument_Moisio_2022_Springer|(Moisio, 2022, pp. 26–27)]]
 > - **代表贡献** 国家竞争优势理论与钻石模型；产业集群（Industrial Clusters）与[[Agglomeration Externalities|空间集聚外部性]]分析；企业竞争战略与五力[[Analytic Framework|分析框架]]。
 
 > [!citation-card] 莫伊西奥论波特理论的地缘政治构成性角色

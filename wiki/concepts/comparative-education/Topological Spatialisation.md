@@ -28,7 +28,7 @@ related_concepts:
   - "[[Center of Calculation]]"
   - "[[Commensuration]]"
   - "[[Rescaling]]"
-  - "[[Space of Flows and Space of Places]]"
+  - "[[Space of Flows]]"
   - "[[Champ]]"
   - "[[Assemblage]]"
   - "[[PISA Shock]]"
@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Topological Spatialisation
@@ -101,7 +101,7 @@ updated: 2026-10-12
 ## 概念辨析
 
 > [!contrast-table] 拓扑空间与传统空间形态辨析
-> | 维度 | 本概念：拓扑空间（Topological Space） | 领土等级空间（Scalar / Territorial Space） | 均质[[Space of Flows and Space of Places\|流动空间]]（Global Space of Flows） |
+> | 维度 | 本概念：拓扑空间（Topological Space） | 领土等级空间（Scalar / Territorial Space） | 均质[[Space of Flows\|流动空间]]（Global Space of Flows） |
 > |---|---|---|---|
 > | **空间本体** | 关系性、可折叠与动态生成的社会-物质网络 | 固定的物理容器、主权领土边界与行政辖区 | 去中心化、无国界的均质信息与资本流动[[Champ\|场域]] |
 > | **尺度关系** | 跨越传统尺度，远距节点可形成直接拓扑邻近 | 自下而上嵌套（本地 $\subset$ 州 $\subset$ 国家 $\subset$ 全球） | 抹杀尺度差异，呈现均质化全球扁平化 |

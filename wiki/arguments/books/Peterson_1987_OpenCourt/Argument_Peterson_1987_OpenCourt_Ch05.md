@@ -44,7 +44,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Creativity, Action, Service]]"
-  - "[[Space of Flows and Space of Places]]"
+  - "[[Space of Places]]"
   - "[[Research Utilization]]"
   - "[[Grandes Ecoles]]"
   - "[[Attrition]]"
@@ -71,7 +71,7 @@ related_methods:
   - "[[Fieldwork]]"
 status: draft
 created: 2026-08-24
-updated: 2026-10-10
+updated: 2026-10-15
 ---
 # Argument_Peterson_1987_OpenCourt_Ch05
 
@@ -700,7 +700,7 @@ updated: 2026-10-10
 > | **UWC 国际网络** | 国际办公室、国际董事会、托尼·贝塞、戴维·萨克利夫（David Sutcliffe） | IB 课程框架、校长经验、国际谈判与成员资格 | 无法替代意大利的土地、法人和公共预算 |
 > | **国家与外交网络** | 意大利国家委员会、米戈内、博内蒂、中央政府 | 外交联络、发展中国家奖学金与国家层面支持 | 中央承诺仍需地方立法、建筑和执行组织承接 |
 > | **地区政治与财政** | 弗留利-威尼斯朱利亚政府、帕恰律师（Avvocato Pacia）、科拉多·贝尔奇（Corrado Belci）、的里雅斯特基金（Fondo Trieste） | 恢复法案、资本预算、地方学生奖学金和临时校舍 | 地震与预算年度会中断或撤回承诺 |
-> | **[[Space of Flows and Space of Places\|地方空间]]网络** | 托雷·塔索亲王、杜伊诺村、邻村运动中心、的里雅斯特大学 | 城堡建筑、旧海关、村小学、体育与图书馆资源 | 分散设施需要长期协议、修缮和协调 |
+> | **[[Space of Places\|地方空间]]网络** | 托雷·塔索亲王、杜伊诺村、邻村运动中心、的里雅斯特大学 | 城堡建筑、旧海关、村小学、体育与图书馆资源 | 分散设施需要长期协议、修缮和协调 |
 > | **书院治理** | 创办联盟、杜伊诺指导委员会、未来校董会 | 汇总法律手续、任命校长、确定开学日期并接管运行 | 必须在资金可能失效前把多方承诺转化为学校（pp. 117–129） |
 
 #### 地方联盟：先形成教育方案，再寻找可持续校址

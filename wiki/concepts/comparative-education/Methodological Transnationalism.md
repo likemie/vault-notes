@@ -5,7 +5,7 @@ aliases:
 summary: "Diane Stone (2020) 与 Steiner-Khamsi 等倡导的方法论立场，主张超越方法论民族主义与线性层级霸权观，将国家与全球视作相互依存的关系性空间，聚焦全球/国家联结。"
 type: concept
 domain: "comparative-education"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -31,7 +31,8 @@ related_concepts:
   - "[[Policy Mobility]]"
   - "[[Policy Brokerage]]"
   - "[[Going Native]]"
-  - "[[Space of Flows and Space of Places]]"
+  - "[[Space of Flows]]"
+  - "[[Space of Places]]"
   - "[[Policy Network]]"
   - "[[Governing by Numbers]]"
   - "[[Hard Power]]"
@@ -55,7 +56,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Methodological Transnationalism
@@ -166,7 +167,7 @@ updated: 2026-10-07
 
 > [!dev-timeline] 概念演变
 > - **2002–2003 — 社会学[[Methodological Nationalism\|方法论民族主义]]批判** Wimmer & Glick Schiller 发起对社会科学将国家视作天然容器的[[Epistemology\|认识论]]批判。
-> - **2009–2015 — 比较教育空间转向** Beech 引入[[Space of Flows and Space of Places\|流动空间与地方空间]]；Massey 的[[Relational Space\|关系性空间]]概念启发了对教育转移去领土化解释的探索。
+> - **2009–2015 — 比较教育空间转向** Beech 引入[[Space of Flows\|流动空间]]与[[Space of Places\|地方空间]]；Massey 的[[Relational Space\|关系性空间]]概念启发了对教育转移去领土化解释的探索。
 > - **2020 — 全球公共政策中的[[Paradigm\|范式]]确立** Diane Stone 在《制造全球政策》（*Making Global Policy*）中正式提出“方法论跨国主义”，倡导跨国[[Policy Network\|政策网络]]分析。
 > - **2024 — [[Governing by Numbers\|数字治理]]与比较教育政策深化** [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] 将方法论跨国主义明确确立为比较教育政策研究的基石方法论，用以阐明[[Policy Brokerage\|政策中介]]与国家政府之间的复杂互动。
 
@@ -211,4 +212,4 @@ updated: 2026-10-07
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 践行方法论跨国主义框架，将全球五大组织与国家政策周期置于统一的[[Relational Space\|关系性空间]]中加以考察。
-> - [[Argument_Beech_2009_CE\|Beech (2009)]] — 批判比较教育学中的国家术语偏见，倡导[[Space of Flows and Space of Places\|流动空间与地方空间]]的多尺度[[Transfer Translation Transformation\|转译]]分析。
+> - [[Argument_Beech_2009_CE\|Beech (2009)]] — 批判比较教育学中的国家术语偏见，倡导[[Space of Flows\|流动空间]]与[[Space of Places\|地方空间]]的多尺度[[Transfer Translation Transformation\|转译]]分析。

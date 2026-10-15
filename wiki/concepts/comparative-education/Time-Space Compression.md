@@ -30,7 +30,7 @@ related_concepts:
   - "[[Post-Fordism]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Endogenous and Exogenous Privatisation]]"
-  - "[[Space of Flows and Space of Places]]"
+  - "[[Space of Places]]"
 related_theories:
   - "[[Critical Theory]]"
   - "[[World-Systems Theory]]"
@@ -51,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-29
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Time-Space Compression
@@ -164,7 +164,7 @@ updated: 2026-10-07
 
 > [!tension] 核心张力
 > - **全球无界论（激进全球主义）** 认为时空压缩彻底宣告了“地理的终结”与“民族国家的消亡”，全球化将迅速抹平所有地域界限，形成同质化的无边界世界。
-> - **地理不平衡发展论（批判历史唯物主义）** 坚持时空压缩是高度不平等的阶级过程；物理距离的缩短非但没有消弭不平等，反倒赋予了跨国流动资本更强的剥削与逃逸自由，而广大边缘劳工与贫困学生仍被牢牢禁锢在特定[[Space of Flows and Space of Places|地方空间]]之中。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 106–107, 113–114)]]
+> - **地理不平衡发展论（批判历史唯物主义）** 坚持时空压缩是高度不平等的阶级过程；物理距离的缩短非但没有消弭不平等，反倒赋予了跨国流动资本更强的剥削与逃逸自由，而广大边缘劳工与贫困学生仍被牢牢禁锢在特定[[Space of Places|地方空间]]之中。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 106–107, 113–114)]]
 
 > [!warning] 适用局限
 > 在分析具体教育现象时，研究者不可将时空压缩的技术机制（信息流通的加速）与流通内容（新自由主义意识形态）相混淆；技术本身并不自动决定政策后果，地方行动者对外部冲击的过滤与转化仍具有关键的中介作用。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 107, 109–110)]]

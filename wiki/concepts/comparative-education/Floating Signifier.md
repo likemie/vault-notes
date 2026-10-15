@@ -15,7 +15,7 @@ tags:
   - theme/discourse-analysis
 related_concepts:
   - "[[Discourse]]"
-  - "[[Space of Flows and Space of Places]]"
+  - "[[Space of Flows]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Heterogeneity]]"
   - "[[Post-Fordism]]"
@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 
 # Floating Signifier
@@ -48,7 +48,7 @@ updated: 2026-10-08
 > 漂浮能指（Floating Signifier）是指被剥离了具体历史时间和空间起源的符号或概念[[Discourse|话语]]。它失去了固定的具体所指对象，其沟通与传播效力恰恰来自其“空洞性”——即能在不同接收语境中被不同行动者进行差异化解读与重新[[Coding in Qualitative Research\|编码]]的巨大弹性。([[Argument_Beech_2009_CE\|Beech, 2009, pp. 353–355]])
 
 > [!concept-lens] 概念透镜
-> - **指向机制** 指向在[[Space of Flows and Space of Places\|流动空间]]中流转的去历史化、高度高度形式化的话语符号，其所指随接收方的意图而变。
+> - **指向机制** 指向在[[Space of Flows\|流动空间]]中流转的去历史化、高度高度形式化的话语符号，其所指随接收方的意图而变。
 > - **学术用途** 用于解释为什么抽象的、自相矛盾的全球政策（如能力、多样性）能同时获得全球不同政治、文化背景之政府的广泛采纳。
 > - **适用边界** 并非指所有含义模糊的概念，而是指那些有意识或无意识在网络中被抽象化以求获得最大可接受性、且含义可供任意填充的系统性话语。
 
@@ -69,7 +69,7 @@ updated: 2026-10-08
 > | 维度 | 漂浮能指 (Floating Signifier) | 固定能指 (Fixed Signifier) |
 > | :--- | :--- | :--- |
 > | **语义关系** | 符号与具体所指脱钩，含义可被任意填充。([[Argument_Beech_2009_CE\|Beech, 2009, p. 353]]) | 符号与具体所指紧密绑定，含义由历史和地方语境锚定。 |
-> | **时空特征** | 脱嵌于具体地理和历史脉络，在[[Space of Flows and Space of Places\|流动空间]]中再生产。 | 深嵌于特定的地方历史经验和领土脉络。 |
+> | **时空特征** | 脱嵌于具体地理和历史脉络，在[[Space of Flows\|流动空间]]中再生产。 | 深嵌于特定的地方历史经验和领土脉络。 |
 > | **传播机制** | 依靠高可塑性在[[Heterogeneity\|异质性]]网络中获得广泛采纳。 | 依靠严格的共识和标准化的定义在特定社群内流通。 |
 
 ---
@@ -97,7 +97,7 @@ updated: 2026-10-08
 > - **符号学与精神分析起源**
 >   漂浮能指最初由 [[Claude Lévi-Strauss]] 在分析马塞尔·莫斯礼物理论时提出，后被 Jacques Lacan 引入精神分析领域，用于指代没有固定所指、可在能指链上滑动的符号。
 > - **Castells 的网络空间理论**
->   Castells (2000c) 指出，在[[Network Society\|网络社会]]的[[Space of Flows and Space of Places\|流动空间]]中，符号共存而不参照任何地方的经验，失去具体含义，唯一的共享价值在于成为网络中的通信节点。
+>   Castells (2000c) 指出，在[[Network Society\|网络社会]]的[[Space of Flows\|流动空间]]中，符号共存而不参照任何地方的经验，失去具体含义，唯一的共享价值在于成为网络中的通信节点。
 > - **Beech 的教育政策空间引入**
 >   [[Argument_Beech_2009_CE\|Beech (2009)]] 首次将该概念引入比较教育分析，指出全球政策[[Discourse|话语]]（如“能力发展”和“尊重多样性”）正是通过在流动空间中转化为“漂浮能指”，才得以在全球范围内广泛流动 and 推广。([[Argument_Beech_2009_CE\|Beech, 2009, pp. 353–355]])
 

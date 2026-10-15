@@ -19,7 +19,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[International Baccalaureate]]"
   - "[[Network Governance]]"
-  - "[[Space of Flows and Space of Places]]"
+  - "[[Space of Places]]"
 related_theories: []
 related_methods: []
 related_instruments: []
@@ -33,7 +33,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-01
-updated: 2026-09-16
+updated: 2026-10-15
 ---
 
 # Founding of United World College of the Adriatic
@@ -129,4 +129,4 @@ updated: 2026-09-16
 > | [[United World Colleges]] | 组织 | 亚得里亚海书院把国际课程和成员身份嵌入意大利地方治理与公共财政。 |
 > | [[Network Governance]] | 概念 | 中央政府、地区政府、私人产权人、村庄、大学和国际组织分担资源与责任。 |
 > | [[International Baccalaureate]] | 概念 | IB 为多国学生提供共同学术基础，并与地方语言和区域研究结合。 |
-> | [[Founding of Lester B. Pearson College]] | 事件 | 两所书院都以公共奖学金体现国家支持，但杜伊诺采用更分散的[[Space of Flows and Space of Places\|地方空间]]结构。 |
+> | [[Founding of Lester B. Pearson College]] | 事件 | 两所书院都以公共奖学金体现国家支持，但杜伊诺采用更分散的[[Space of Places\|地方空间]]结构。 |
