@@ -12,7 +12,7 @@ subtype: policy
 region: europe
 fact_region: "europe"
 fact_kind: "policy"
-fact_related_count: 20
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -36,10 +36,12 @@ related_concepts:
   - "[[Student Mobility]]"
   - "[[Geopolitics of Higher Education]]"
   - "[[Global Universities Rankings]]"
+  - "[[Policy Borrowing]]"
 related_theories: []
 related_methods: []
 related_persons:
   - "[[Isaiah Berlin]]"
+  - "[[António Nóvoa]]"
   - "[[José Luis García Garrido]]"
   - "[[Jason Beech]]"
 related_facts:
@@ -47,9 +49,9 @@ related_facts:
   - "[[Erasmus Programme]]"
   - "[[Academic Ranking of World Universities]]"
 related_arguments:
+  - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Yu_Xie_2025_JHE]]"
   - "[[Argument_Garcia_Garrido_2009_SpainEU]]"
-  - "[[Argument_Beech_2009_GlobalGarden]]"
 related_instruments:
   - "[[Epistemological Understanding Assessment]]"
 confidence: high
@@ -108,7 +110,7 @@ updated: 2026-10-15
 > - **质量保障与学生网络** 欧洲高等教育质量保障协会（ENQA）与欧洲学生联盟（ESU），扮演标准监督者与权益维权方。
 
 > [!tension]- 治理维度核心制度冲突
-> - **政府间自愿协商 vs 超国家规制吸纳** 传统上教育事务属于各民族国家严格把守的主权禁区（《罗马条约》与《马斯特里赫特条约》明确排除了超国家统摄性教育立法）；然而安东尼奥·诺瓦（António Nóvoa, 2002）与杰森·比奇（[[Jason Beech|Beech, 2009b, p. 343]]）指出，欧盟受限于辅助性原则无法强行推行统一立法，因而演化出影响成员国教育政策的三重互补治理机制：① 倡导“最佳实践”展示与政策对话（酷似 19 世纪比较教育的借用传统）；② 设立量化指标体系与基准指标（Benchmarks）实施软法施压；③ 依托博洛尼亚进程构建“欧洲高等教育区”，通过学制架构、ECTS 学分与质保认证的标准整合，在形式上尊重国家边界的同时实质推行超国家一体化。随着欧盟委员会将博洛尼亚进程与欧盟研发框架计划及[[Erasmus Programme|伊拉斯谟计划]]深度捆绑，区域治理机构逐步反向吸纳并削弱了成员国对高教系统的自主控制力（Chou & Ravinet, 2017；[[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊, 2025, p. 11]]）。
+> - **政府间自愿协商 vs 超国家规制吸纳** 传统上教育事务属于各民族国家严格把守的主权禁区（《罗马条约》与《马斯特里赫特条约》明确排除了超国家统摄性教育立法）；然而[[António Nóvoa|安东尼奥·诺瓦]]（António Nóvoa, 2002）与杰森·比奇（Beech, 2009b, p. 343）指出，欧盟受限于辅助性原则无法强行推行统一立法，因而演化出影响成员国教育政策的三重互补治理机制：① 倡导“最佳实践”展示与政策对话（酷似 19 世纪比较教育的借用传统）；② 设立量化指标体系与基准指标（Benchmarks）实施软法施压；③ 依托博洛尼亚进程构建“欧洲高等教育区”，通过学制架构、ECTS 学分与质保认证的标准整合，在形式上尊重国家边界的同时实质推行超国家一体化。随着欧盟委员会将博洛尼亚进程与欧盟研发框架计划及[[Erasmus Programme|伊拉斯谟计划]]深度捆绑，区域治理机构逐步反向吸纳并削弱了成员国对高教系统的自主控制力（Chou & Ravinet, 2017；[[Argument_Yu_Xie_2025_JHE|余婧然和谢爱磊, 2025, p. 11]]）。
 > - **形式化指标趋同 vs 内部深层病理固化** 部分成员国在法案上高度标榜对齐博洛尼亚标准（如出台 4+1 或 3+2 学制新规），但大学内部的选聘考核却被激进的地方分权与地方保护主义俘获，出现严重的[[Academic Inbreeding|学术近亲繁殖]]（高达 95%）与跨区域学者排斥，使跨国趋同退化为行政纸面工程。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 332–333)]]
 
 ---
@@ -177,7 +179,7 @@ updated: 2026-10-15
 > | [[Global Universities Rankings]] | Concept | **宏观评估生态** 衡量欧洲高等教育区全球学术[[Competitiveness\|竞争力]]与声誉的跨国量化工具系统。 |
 > | [[Argument_Yu_Xie_2025_JHE\|余婧然和谢爱磊 (2025)]] | 论证 | 从地缘政治视角深入剖析博洛尼亚进程中的治理权转移与高校战略能动性。 |
 > | [[Argument_Garcia_Garrido_2009_SpainEU\|García Garrido (2009)]] | 论证 | 实证批判西班牙高校博洛尼亚对标背后的表面欧洲主义、实质质量落后与[[Academic Inbreeding\|学术近亲繁殖]]。 |
-> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 论证 | 从跨国空间与政策借用视角，剖析欧盟借助博洛尼亚进程等三重机制绕开辅助性原则推行趋同的逻辑。 |
+> | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] | 论证 | 从跨国空间与[[Policy Borrowing\|政策借用]]视角，剖析欧盟借助博洛尼亚进程等三重机制绕开辅助性原则推行趋同的逻辑。 |
 > | [[José Luis García Garrido]] | Person | 比较教育学者，深入剖析博洛尼亚进程在南欧成员国落地中的制度异化与质量困境。 |
 > | [[Jason Beech]] | Person | 比较教育学者，揭示欧盟借助博洛尼亚进程进行超国家政策转移与治理重构的机制。 |
 

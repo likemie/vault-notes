@@ -167,6 +167,7 @@ AUTO_RELATION_FIELDS = RELATED_FIELDS + ["sources"]
 PROTECTED_FIELDS = [
     "title",
     "aliases",
+    "alias_reviewed",
     "summary",
     "type",
     "subtype",
@@ -1300,6 +1301,57 @@ def get_global_alias_and_title_maps(by_title: Dict[str, Dict[str, Any]]) -> Tupl
     return cached
 
 
+SHORT_ALIAS_CJK_MAX = 2      # Chinese aliases of 1-2 characters
+SHORT_ALIAS_LATIN_MAX = 3    # Latin aliases of 1-3 letters/digits (EFA, SEL, RCT)
+SHORT_ALIAS_PERSON_CJK_MAX = 3  # surname-only Chinese person aliases (科尔曼, 库姆斯)
+_SHORT_ALIAS_TERMS_CACHE: Dict[int, List[Tuple[str, str]]] = {}
+
+
+def short_alias_kind(alias: str, typ: str) -> str:
+    """Return a label when an alias is short enough to carry homonym risk."""
+    a = alias.strip()
+    is_cjk = any("㐀" <= ch <= "鿿" for ch in a)
+    if is_cjk:
+        if len(a) <= SHORT_ALIAS_CJK_MAX:
+            return f"{len(a)}-character Chinese"
+        if typ == "person" and "·" not in a and len(a) <= SHORT_ALIAS_PERSON_CJK_MAX:
+            return "Chinese surname-only person alias"
+        return ""
+    compact = re.sub(r"[^A-Za-z0-9]", "", a)
+    if compact and len(compact) <= SHORT_ALIAS_LATIN_MAX and " " not in a:
+        return f"{len(compact)}-letter Latin"
+    return ""
+
+
+def short_alias_collisions(alias: str, owner_title: Any, by_title: Dict[str, Dict[str, Any]]) -> List[str]:
+    """Other entries whose title or aliases contain this short alias.
+
+    Chinese has no word boundaries, so any substring counts; Latin aliases must
+    match as a whole token (case-sensitive for all-caps acronyms)."""
+    if not by_title:
+        return []
+    cache = _SHORT_ALIAS_TERMS_CACHE.get(id(by_title))
+    if cache is None:
+        cache = []
+        for t, item in by_title.items():
+            title = str(item.get("title") or t)
+            if title.startswith("Argument_"):
+                continue
+            for term in [title] + [str(x) for x in (item.get("aliases") or [])]:
+                cache.append((unicodedata.normalize("NFC", term), title))
+        _SHORT_ALIAS_TERMS_CACHE[id(by_title)] = cache
+    a = unicodedata.normalize("NFC", alias.strip())
+    is_cjk = any("㐀" <= ch <= "鿿" for ch in a)
+    if is_cjk:
+        hit = lambda term: a in term and term != a
+    else:
+        flags = 0 if a.isupper() else re.IGNORECASE
+        rx = re.compile(r"(?<![A-Za-z0-9])" + re.escape(a) + r"(?![A-Za-z0-9])", flags)
+        hit = lambda term: term.lower() != a.lower() and rx.search(term) is not None
+    owner = str(owner_title or "")
+    return sorted({t for term, t in cache if t != owner and hit(term)})
+
+
 def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]], issues: List[Issue]) -> Optional[Dict[str, Any]]:
     fm, body, _ = split_frontmatter(text)
     if fm is None:
@@ -1360,6 +1412,8 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
             seen_alias_keys = set()
             title_key = unicodedata.normalize("NFC", str(title)).lower().strip() if isinstance(title, str) else ""
             title_map, alias_map = get_global_alias_and_title_maps(by_title) if by_title else ({}, {})
+            reviewed_val = data.get("alias_reviewed") or []
+            reviewed_keys = {unicodedata.normalize("NFC", str(x).strip()).lower() for x in reviewed_val} if isinstance(reviewed_val, list) else set()
             for alias in aliases_val:
                 if not isinstance(alias, str) or not alias.strip():
                     continue
@@ -1383,10 +1437,25 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
                 has_latin_word = re.search(r"[A-Za-z]{2,}", a) is not None
                 if alias_has_cjk and has_latin_word:
                     issues.append(Issue("WARN", rel(path), f"alias mixes Chinese and English; split into separate aliases: {alias!r}", line=alias_line, code="ALIAS_QUALITY"))
-                if not alias_has_cjk and len(a) <= 2:
-                    issues.append(Issue("WARN", rel(path), f"alias is too short and ambiguous for auto-linking: {alias!r}", line=alias_line, code="ALIAS_QUALITY"))
-                if alias_has_cjk and len(a) == 1:
-                    issues.append(Issue("INFO", rel(path), f"single-character Chinese alias is usually too broad; keep only if it is a strong standalone term: {alias!r}", line=alias_line, code="ALIAS_QUALITY"))
+                short_kind = short_alias_kind(a, typ)
+                if short_kind and key not in reviewed_keys:
+                    collisions = short_alias_collisions(a, title, by_title)
+                    coll_text = ""
+                    if collisions:
+                        shown = ", ".join(collisions[:5])
+                        more = f" (+{len(collisions) - 5})" if len(collisions) > 5 else ""
+                        coll_text = f"; the same string also appears in: {shown}{more}"
+                    issues.append(Issue(
+                        "WARN", rel(path),
+                        f"short alias {alias!r} ({short_kind}) needs a homonym-risk review before auto-linking{coll_text}. "
+                        "AI check: (1) does this string refer only to this entry across the vault's fields? "
+                        "(2) can it occur inside unrelated words or longer phrases (e.g. '后测' inside '随后测评', 'EFA' for both Education for All and Exploratory Factor Analysis)? "
+                        "If risky, delete it or replace it with a longer specific form; if safe, add it to `alias_reviewed` to silence this warning.",
+                        line=alias_line, code="ALIAS_SHORT_RISK",
+                    ))
+            alias_keys_all = {unicodedata.normalize("NFC", str(x).strip()).lower() for x in aliases_val if isinstance(x, str)}
+            for rk in sorted(reviewed_keys - alias_keys_all):
+                issues.append(Issue("WARN", rel(path), f"alias_reviewed lists {rk!r}, which is no longer in aliases; remove it", line=frontmatter_line_number(fm, "alias_reviewed"), code="ALIAS_SHORT_RISK"))
 
     # Only Argument pages maintain source record links.
     if is_wiki_entry_path(path) and typ in {"concept", "theory", "method", "instrument", "person", "fact"} and "sources" in data:

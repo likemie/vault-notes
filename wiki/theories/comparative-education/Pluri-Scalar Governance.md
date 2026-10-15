@@ -34,6 +34,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Attrition]]"
   - "[[Discourse]]"
+  - "[[Policy Borrowing]]"
 related_theories:
   - "[[Educational Governance Framework]]"
   - "[[Globally Structured Agenda for Education]]"
@@ -49,16 +50,18 @@ related_persons:
   - "[[Roger Dale]]"
   - "[[Susan L. Robertson]]"
   - "[[Robert Arnove]]"
+  - "[[Jason Beech]]"
 related_facts:
   - "[[World Trade Organization]]"
   - "[[GATS and Trade in Education Services]]"
   - "[[World Bank]]"
 related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
+  - "[[Argument_Beech_2009_GlobalGarden]]"
 confidence: high
 status: completed
 created: 2026-09-29
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Pluri-Scalar Governance
@@ -68,13 +71,13 @@ updated: 2026-10-07
 ## 理论定位
 
 > [!theory-position] 理论定位
-> - **解释对象** 全球化时代教育公共领域在空间维度、权力主体与制度功能上的跨国重组机制，尤其是跨国服务贸易规则（如[[World Trade Organization|世贸组织]]《[[GATS and Trade in Education Services|服务贸易总协定]]》）对传统民族[[State Educational Sovereignty|国家教育权]]力的渗透与再领土化（Re-territorialization）过程。[[Argument_Arnove_2009_WorldSystems|(Robertson, Bonal, & Dale, 2002, cited in Arnove, 2009, pp. 110–111)]]
-> - **理论问题** 传统比较教育学与公共政策分析长期受制于“[[Methodological Nationalism|方法论民族主义]]”（Methodological Nationalism），将民族国家预设为唯一封闭、自足的教育治理容器；多标度治理框架旨在打破这一国家中心主义假定，解释跨国规约、商业市场与次国家行动者如何打破并重构国家对公共教育的传统垄断。
+> - **解释对象** 全球化时代教育公共领域在空间维度、权力主体与制度功能上的跨国重组机制，尤其是跨国服务贸易规则（如[[World Trade Organization|世贸组织]]《[[GATS and Trade in Education Services|服务贸易总协定]]》）以及跨国营利性教育服务财团对传统民族[[State Educational Sovereignty|国家教育权]]力的渗透与再领土化（Re-territorialization）过程。[[Argument_Arnove_2009_WorldSystems|(Robertson, Bonal, & Dale, 2002, cited in Arnove, 2009, pp. 110–111)]]; [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 343–344)]]
+> - **理论问题** 传统比较教育学长期将分析单位锚定于民族国家容器，预设政策借用（[[Policy Borrowing]]）为主权国家间单向、双边的制度模仿（如 19 世纪巴西对法国大学校的模仿，Cowen & Figueiredo, 1992）；多标度治理框架旨在打破这一“[[Methodological Nationalism|方法论民族主义]]”（Methodological Nationalism）假定，揭示超国家经贸规约、多国私营教育财团（如 GEMS、诺德安达）与次国家行动者如何交织构成纵向穿透疆界的多标度网络，重组公共教育的治理权威（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b, p. 344]]）。
 > - **理论类型** 空间[[Educational Governance Framework|治理分析框架]]（Spatial Governance [[Analytic Framework]]）、批判政治经济学解释理论。
 > - **知识位置** 植根于地理政治经济学的空间转向（Spatial Turn）与批判比较教育学，汲取了[[Bob Jessop|鲍勃·杰索普]]（Bob Jessop）的国家空间再标度化理论（[[Rescaling]] of the State）与[[Roger Dale|罗杰·戴尔]]（Roger Dale）的[[Globally Structured Agenda for Education|全球结构化教育议程]]（Globally Structured Agenda for Education, GSAE）。
 
 > [!claim] 核心判断
-> 教育治理已不再是单一民族国家领土管辖下的封闭科层体系，而是由空间标度（超国家/国家/次国家）、治理实体（国家/市场/社区/家庭）与治理活动（筹资/产权/提供/规约）交织构成的动态多标度网络；以跨国经贸协定为代表的超国家力量在穿透传统国家教育主权的同时，促使民族国家在多标度空间中进行战略性权力重组与再领土化。[[Argument_Arnove_2009_WorldSystems|(Robertson et al., 2002; Arnove, 2009, pp. 110–111)]]
+> 教育治理已不再是单一民族国家领土管辖下的封闭科层体系，而是由空间标度（超国家/国家/次国家）、治理实体（国家/市场/社区/家庭）与治理活动（筹资/产权/提供/规约）交织构成的动态多标度网络；以跨国经贸协定与跨国商业教育财团为代表的力量在穿透传统国家教育主权的同时，促使民族国家在多标度空间中进行战略性权力重组与再领土化。[[Argument_Arnove_2009_WorldSystems|(Robertson et al., 2002; Arnove, 2009, pp. 110–111)]]; [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, p. 344)]]
 
 ---
 

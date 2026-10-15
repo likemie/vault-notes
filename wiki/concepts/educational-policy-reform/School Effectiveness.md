@@ -8,7 +8,7 @@ aliases:
 summary: "以学校内部组织与教学差异解释学业成就的研究取向，在政策治理中将学校重塑为可量化干预的技术对象，并在全球教育转移中被学术重商主义包装为跨国咨询商品。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 47
+related_count: 46
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
