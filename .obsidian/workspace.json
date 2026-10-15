@@ -290,6 +290,8 @@
   },
   "active": "234d452edd1bdd48",
   "lastOpenFiles": [
+    "tmp/push.bundle",
+    "tmp/push.bundle.lock",
     "scripts/_old_lint_cmp.py",
     "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Beech_2009_GlobalGarden.md",
     "tests/__pycache__/test_bold_boundaries.cpython-310.pyc",
@@ -303,7 +305,6 @@
     "tests/__pycache__/test_vault_lint.cpython-310.pyc",
     "wiki/arguments/reports-policy-documents/Argument_WorldBank_2019_Teach.md",
     "wiki/methods/qualitative/Observation Protocol.md",
-    "scripts/__pycache__/vault_lint.cpython-310.pyc",
     "wiki/methods/qualitative/Classroom Observation.md",
     "wiki/persons/us/Horace Mann.md",
     "wiki/facts/global/UNESCO.md",
