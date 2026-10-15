@@ -30392,6 +30392,19 @@
     ]
   },
   {
+    "title": "Meiji Educational Reform",
+    "type": "fact",
+    "path": "wiki/facts/japan/Meiji Educational Reform.md",
+    "aliases": [
+      "明治学制改革",
+      "明治教育改革",
+      "明治维新教育改革",
+      "1872年学制",
+      "Meiji Education Reform",
+      "Gakusei 1872"
+    ]
+  },
+  {
     "title": "PISA Shock in Japan",
     "type": "fact",
     "path": "wiki/facts/japan/PISA Shock in Japan.md",
@@ -30512,6 +30525,17 @@
       "IDB",
       "BID",
       "Banco Interamericano de Desarrollo"
+    ]
+  },
+  {
+    "title": "Alliance for Progress",
+    "type": "fact",
+    "path": "wiki/facts/latin-america/Alliance for Progress.md",
+    "aliases": [
+      "争取进步同盟",
+      "进步同盟",
+      "进步联盟",
+      "Alianza para el Progreso"
     ]
   },
   {
@@ -32929,6 +32953,19 @@
       "Land-Grant Act",
       "Morrill Land-Grant College Act",
       "莫里尔赠地法案"
+    ]
+  },
+  {
+    "title": "Open Classroom Movement",
+    "type": "fact",
+    "path": "wiki/facts/us/Open Classroom Movement.md",
+    "aliases": [
+      "开放式课堂运动",
+      "开放课堂运动",
+      "美国开放式课堂运动",
+      "英国幼儿学校借用",
+      "Open Classroom",
+      "Informal Education Movement"
     ]
   },
   {

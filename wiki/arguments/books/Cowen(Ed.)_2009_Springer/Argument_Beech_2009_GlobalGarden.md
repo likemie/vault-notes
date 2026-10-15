@@ -83,8 +83,11 @@ related_facts:
   - "[[World Bank]]"
   - "[[OECD]]"
   - "[[EU]]"
+  - "[[Meiji Educational Reform]]"
+  - "[[Open Classroom Movement]]"
   - "[[Bologna Process]]"
   - "[[Organisation for European Economic Co-operation]]"
+  - "[[Alliance for Progress]]"
   - "[[Delors Report]]"
 related_arguments: []
 sources:
@@ -99,7 +102,7 @@ title: "Argument_Beech_2009_GlobalGarden"
 argument_key: "Argument_Beech_2009_GlobalGarden"
 argument_display_title: "Who is Strolling Through The Global Garden? International Agencies and Educational Transfer"
 argument_kind: "book-chapter"
-argument_related_count: 61
+argument_related_count: 64
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -202,12 +205,12 @@ issuing_organization: ""
 在比较教育学科史上，跨国经验借鉴往往在国家遭遇内部重大发展危机时被推向高潮。尽管[[Michael Sadler|萨德勒]]早在 1900 年便提出著名的花园漫步警告，但历代改革者仍频繁借助外来方案寻求危机突破（Sadler, 1979: 49；pp. 341–342）。从朱利安、库赞、曼、托尔斯泰到萨米恩托，先驱者们始终致力于考察普鲁士与法国等典范制度以克服本土危机，这一传统在近代日本与战后美国的危机应对中表现得尤为典型（Cowen, 2006；pp. 341–342）。
 
 > [!row-contrast] 危机驱动型国家教育借用的历史案例对比
-> | 历史维度与比较指标 | 日本明治维新黑船来航借用案例（1850s–1870s） | 美国发射人造卫星危机借用案例（1957–1970s） |
+> | 历史维度与比较指标 | [[Meiji Educational Reform|日本明治维新黑船来航借用案例（1850s–1870s）]] | [[Open Classroom Movement|美国发射人造卫星危机借用案例（1957–1970s）]] |
 > |---|---|---|
 > | **危机触发情境** | 1853 年美国佩里舰队黑船叩关，暴露出日本在西方工业技术面前的极度落后与生存危机（Passin, 1965；p. 341） | 1957 年苏联成功发射人类首颗人造卫星，引发美国经历两次发射失败后的全民心理重创（Ravitch, 1983） |
 > | **国家危机认知定性** | 将现代教育制度视为西方强盛不衰的核心秘诀，确立唯有借用西方教育方能与之抗衡的共识（Passin, 1965） | 将科技落后危机直接定性为国家教育体制的彻底失败，全社会猛烈抨击公立学校的压抑与僵化（mindlessness）（Ravitch, 1983；pp. 341–342） |
 > | **考察与借用主体** | 聘用欧洲教育家直接管理在日教育机构；派遣政治精英与知识分子代表团赴欧洲与北美开展系统实地考察（Tanaka, 2005） | 以约瑟夫·费瑟斯通（Joseph Featherstone）和莉莲·韦伯（Lillian Weber）为代表的学者先锋；全美 20 个主要城市的联合教育考察团（Ravitch, 1983；p. 342） |
-> | **借用源头与制度样板** | 拼盘式多国借用：行政集权模式借鉴法国；作为基础单元的男女同校普通学校、师范学校与职业农业教育借用美国；帝国大学创建蓝本借用德国（Passin, 1965; Tanaka, 2005） | 单向聚焦英国初等教育模式：韦伯在英国小学深度考察长达 18 个月；全美掀起对英国幼儿学校与开放式课堂的模仿狂潮（Ravitch, 1983） |
+> | **借用源头与制度样板** | 拼盘式多国借用：行政集权模式借鉴法国；作为基础单元的男女同校普通学校、师范学校与职业农业教育借用美国；帝国大学创建蓝本借用德国（Passin, 1965; Tanaka, 2005） | 单向聚焦英国初等教育模式：韦伯在英国小学深度考察长达 18 个月；全美掀起对英国幼儿学校与[[Open Classroom Movement|开放式课堂]]的模仿狂潮（Ravitch, 1983） |
 > | **文献与实践扩散规模** | 自上而下由明治政府强行颁布《学制》，在全国范围内废藩置县并成套移植现代学校体系（Passin, 1965） | 至 1971 年全美发表逾 300 篇推介英国初等教育改革专文；自由学校在 1960 年代末至 1970 年代初爆发式扩张，1972 年已达约 500 所（Ravitch, 1983） |
 
 上述历史案例表明，传统的经验借鉴始终局限于主权国家政府特派官员垄断的线性移植，其分析单位未曾超越民族国家的地理边界（p. 342）。
@@ -246,7 +249,7 @@ issuing_organization: ""
 >
 > - **[[Technical Rationality|技术理性]]与教育规划进军拉丁美洲（1950s–1960s）**
 >
->   国际组织在拉美掀起规划与发展热潮：1956 年利马教育部长会议、1958 年华盛顿泛美研讨会与 UNESCO 泛美大会相继召开；1964 年 OECD 联合阿根廷国家发展委员会（CONADE，成立于 1961 年）发布人力资源规划报告（Southwell, 1997）。国际机构凭借去情境化的社会技术，确立了凌驾于各国内部之上的客观中立科学专家地位。（p. 345）
+>   国际组织在拉美掀起规划与发展热潮：1956 年利马教育部长会议、1958 年华盛顿泛美研讨会相继召开；1961–1962 年美洲国家组织与 UNESCO 联合成立[[Alliance for Progress|争取进步同盟]]（Alliance for Progress）特别委员会并在圣地亚哥召开泛美大会；1964 年 OECD 联合阿根廷国家发展委员会（CONADE，成立于 1961 年）发布人力资源规划报告（Southwell, 1997）。国际机构凭借去情境化的社会技术，确立了凌驾于各国内部之上的客观中立科学专家地位。（p. 345）
 >
 > - **世界银行转型为全球[[Knowledge Bank|知识银行]]（1963–1996）**
 >
