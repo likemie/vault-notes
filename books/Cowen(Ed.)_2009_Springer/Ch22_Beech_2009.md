@@ -1,6 +1,7 @@
 ---
 citation: "Beech, J. (2009). Who is Strolling Through The Global Garden? International Agencies and Educational Transfer. In R. Cowen & A. M. Kazamias (Eds.), International Handbook of Comparative Education (pp. 341–357). Dordrecht: Springer."
-extracted_to: []
+extracted_to:
+  - "[[Argument_Beech_2009_GlobalGarden]]"
 processed_date: 2026-10-15
 part_of: "[[Cowen(Ed.)_2009_Springer]]"
 ---
