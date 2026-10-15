@@ -960,7 +960,7 @@ Nielsen & Klitmøller（2021）开辟了一个此前 VL 批评文献中未被触
 
 #### 论证步骤二：Hattie 提供的是理论（而非数据），且该理论以技术理性为内核
 
-作者指出 Hattie 自己明确表示**数据不是重点，理论综合才是**。Hattie 承认：*"我是一名测量研究者，我是统计学家，我不是理论家……但我当然有一个非常强大的教学模型"*（原文：*"I am a measurement researcher, I am a statistician, I am not a theoretician... But of course I have a very strong model of teaching"*）([[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, p. 259, cited in Nielsen & Klitmøller, 2021, p. 80]])。但 Hattie 所称的"理论"实际上是一种"无意识理论"（unconscious theory, Costall, 2013）——它虽未被明确阐述，却对 VL 施加了巨大影响。
+Hattie 自己明确表示**数据不是重点，理论综合才是**。Hattie 承认：*"我是一名测量研究者，我是统计学家，我不是理论家……但我当然有一个非常强大的教学模型"*（原文：*"I am a measurement researcher, I am a statistician, I am not a theoretician... But of course I have a very strong model of teaching"*）([[Argument_Knudsen_2017_NordSTEP|Knudsen, 2017, p. 259, cited in Nielsen & Klitmøller, 2021, p. 80]])。但 Hattie 所称的"理论"实际上是一种"无意识理论"（unconscious theory, Costall, 2013）——它虽未被明确阐述，却对 VL 施加了巨大影响。
 
 作者论证这个"无意识理论"的内核是 [[Technical Rationality|技术理性]]（Technical Rationality）（Schön, 1983, 1987）。技术理性是 **[[Positivism|实证主义]]的遗产（Nielsen & Klitmøller, 2021, pp. 81–82）**
 
@@ -1133,7 +1133,7 @@ Hattie 本人也非常清楚地表明了这一点——他将互看、互见、�
 >
 > 1. **VL 承载政治包袱** — *"[[Visible Learning\|可见的学习]]"*在新自由主义语境中并非中性选择：视觉作为主导性和殖民性感官，体现了上帝般的掌控（Berger, 1972; Mulvey, 1975），暗示教师与学生是全能的行动者，却否定了国家强制课程、测试制度、排名表等多重暴力（[[Argument_McKnight_2020_Discourse\|McKnight & Whitburn, 2020, p. 34]]）。它由此构建出多层监控文化——教师监控学生、家长监控教师、国家监控学者——使教师保持在*"[[Ontology\|本体论]]上不安全"*的状态（Ball, 2003），令专业性蜕变为服从的表演（McKnight, 2016）。
 >
-> 2. **VL 模拟色情片逻辑** — VL 由单一男性权威（Hattie）主导，痴迷于*"射精式的结果"*（ejaculatory outcomes）（Connell, 2013）。在以女性为主的职业中，教师被置于异性恋规范与能力主义的建构之下（Apple, 1986/2013）；看与被看历史上是男性领域（Berger, 1972），女性被定位为凝视的对象（Mulvey, 1975）。新自由主义的*"金钱镜头"*（money shots）是国家测试分数与排名表，而非不可量化的关怀行为（[[Argument_McKnight_2020_Discourse\|McKnight & Whitburn, 2020, p. 35]]）。作者将此改编为数据成瘾自查：*"你是否发现自己寻找越来越极端的数据？"*——将数据量与洞察力混淆，成瘾在加剧（p. 36）。
+> 2. **VL 模拟色情片逻辑** — VL 由单一男性权威（Hattie）主导，痴迷于*"射精式的结果"*（ejaculatory outcomes）（Connell, 2013）。在以女性为主的职业中，教师被置于异性恋规范与能力主义的建构之下（Apple, 1986/2013）；看与被看历史上是男性领域（Berger, 1972），女性被定位为凝视的对象（Mulvey, 1975）。新自由主义的*"金钱镜头"*（money shots）是国家测试分数与排名表，而非不可量化的关怀行为（[[Argument_McKnight_2020_Discourse\|McKnight & Whitburn, 2020, p. 35]]）。McKnight 与 Whitburn 将此改编为数据成瘾自查：*"你是否发现自己寻找越来越极端的数据？"*——将数据量与洞察力混淆，成瘾在加剧（p. 36）。
 >
 > 3. **VL 拒绝对话** — VL 崇拜围绕品牌本身而非教师与学生，被商标和专有符号固化，不容辩论（[[Argument_McKnight_2020_Discourse\|McKnight & Whitburn, 2020, p. 37]]）。它将教师知识从原始研究中提取出来，再以*"外部专家建议"*的形式还给教师，使教师成为自身教学法的顺从消费者，自主权被限制在*"研究验证"*数据内、对[[Academic Achievement\|学业成绩]]承担全部责任。经典民主专业主义所强调的专长、自主与利他（Locke, 2015; Sachs, 2003）被彻底颠覆；教师甚至在 VL 培训中被禁止分享自己的课堂故事（Hattie, in Knudsen, 2017, p. 254）。
 >

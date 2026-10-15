@@ -34,7 +34,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: 2026-09-22
+updated: 2026-10-16
 ---
 
 # Whole Sustainability
@@ -86,5 +86,5 @@ updated: 2026-09-22
 > [!warning]
 > - "纳入一切"的整体性要求在操作层面面临挑战——一个可持续性项目如何同时考量"记忆、口述传统、艺术、精神性、人际关系"和"内外部威胁"而仍然保持可管理性？
 > - Whole Sustainability 的概念边界与 [[Life Power]] 高度重叠——两者都被定义为"局部社区代表存在意义的一切"，区分度有限
-> - 论文未提供 Whole Sustainability 在可持续发展政策或实践中的具体应用案例，概念仍停留在原则声明层面([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.109 脚注]])
+> - 目前尚无 Whole Sustainability 在可持续发展政策或实践中的具体应用案例，概念仍停留在原则声明层面([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.109 脚注]])
 

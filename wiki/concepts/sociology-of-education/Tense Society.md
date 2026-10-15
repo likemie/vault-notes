@@ -30,7 +30,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: '2026-05-18'
+updated: 2026-10-16
 ---
 
 # Tense Society
@@ -61,7 +61,7 @@ updated: '2026-05-18'
 ## 实证发现
 
 > [!success]
-> 论文未提供系统的实证数据来支持张力社会的诊断。论证主要基于对当代社会趋势的观察性描述和理论引述([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.110–117]])。
+> 张力社会的诊断尚缺乏系统的实证数据支持，主要基于对当代社会趋势的观察性描述和理论引述([[Argument_Delambre_2022_Springer\|Delambre, 2022, p.110–117]])。
 
 ## 争议与批评
 

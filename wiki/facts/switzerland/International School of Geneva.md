@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-10-10
+updated: 2026-10-16
 ---
 
 # International School of Geneva
@@ -141,7 +141,7 @@ updated: 2026-10-10
 > - **748** 名考生参加常规辅助层级化学。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, p. 204)]]
 
 > [!result-reading] 采用数据的解释
-> 作者把应用化学描述为获得一定采用的课程。这组数据说明课程进入实际考试，不能证明学习成效优于常规化学，也不能推定 Ecolint 本校考生数量。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, p. 204)]]
+> 应用化学是获得一定采用的课程。这组数据说明课程进入实际考试，不能证明学习成效优于常规化学，也不能推定 Ecolint 本校考生数量。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, p. 204)]]
 
 ---
 

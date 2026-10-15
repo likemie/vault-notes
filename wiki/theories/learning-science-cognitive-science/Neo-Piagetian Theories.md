@@ -47,7 +47,7 @@ updated: 2026-10-16
 ## 理论内部结构
 
 > [!abstract] 理论内部结构
-> 论文介绍了三位主要新[[Jean Piaget\|皮亚杰]]理论家的模型：
+> 三位主要新[[Jean Piaget\|皮亚杰]]理论家的模型如下：
 
 
 > [!abstract] Pascual-Leone 的双层模型（1970）

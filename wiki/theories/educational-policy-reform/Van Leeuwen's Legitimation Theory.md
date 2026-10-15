@@ -92,7 +92,7 @@ updated: 2026-10-16
 ## 发展脉络
 
 > [!note-] 发展脉络
-> [[Argument_Bainbridge_2022_ROE\|Bainbridge et al. (2022)]]提供的唯一来源是 Van Leeuwen（2007）的原始框架。论文未追溯该理论的后续发展或修订。该条目的知识范围因此受限于此单一来源。
+> [[Argument_Bainbridge_2022_ROE\|Bainbridge et al. (2022)]]提供的唯一来源是 Van Leeuwen（2007）的原始框架，未涉及该理论的后续发展或修订，本条目的知识范围因此受限于此单一来源。
 >
 > 该理论被 Bainbridge et al. 引入教育政策分析，与 Stevens（2019）的 道德侧步 概念、Malone and Hogan（2020）的 正当理由 框架、以及 Archer（2000）的 corporate agency / primary agency 区分共同构成论文的理论框架([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.9]])。
 >

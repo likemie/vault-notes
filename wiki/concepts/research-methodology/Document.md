@@ -27,7 +27,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-06-24
-updated: 2026-06-24
+updated: 2026-10-16
 ---
 
 # Document
@@ -55,7 +55,7 @@ updated: 2026-06-24
 
 ### 文献的基本类型
 
-本章提出了几条相互交叉但不可混用的类型划分轴线。
+文献可按几条相互交叉但不可混用的轴线分类。
 
 #### 生产主体 私人文献与公共文献
 
