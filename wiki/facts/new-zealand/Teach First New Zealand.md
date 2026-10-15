@@ -10,9 +10,9 @@ subtype: event
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "event"
-fact_related_count: 8
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 7
+fact_related_level: 0
+fact_related_stars: ""
 fact_related_color: "#fef3c7"
 tags:
   - teach-first
@@ -33,8 +33,7 @@ related_facts:
   - "[[Cognition Education]]"
 related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
-related_instruments:
-  - "[[Teach Classroom Observation Tool]]"
+related_instruments: []
 confidence: medium
 status: draft
 created: 2026-05-04
@@ -43,7 +42,7 @@ updated: 2026-10-15
 ## 概述
 
 > [!info] 概述
-> [[Teach Classroom Observation Tool|Teach]] First New Zealand（Ako Mātātupu，TFNZ）是新西兰注册慈善信托，自 2011 年起为高成就毕业生在低 decile 学校提供为期两年的基于就业的领导力发展和初级教师教育项目。TFNZ 定位为"针对顶尖毕业生和职业转变专业人员的领导力发展项目"([[Argument_ONeill_2016_Report\|O'Neill et al., 2016, p.53]])。
+> Teach First New Zealand（Ako Mātātupu，TFNZ）是新西兰注册慈善信托，自 2011 年起为高成就毕业生在低 decile 学校提供为期两年的基于就业的领导力发展和初级教师教育项目。TFNZ 定位为"针对顶尖毕业生和职业转变专业人员的领导力发展项目"([[Argument_ONeill_2016_Report\|O'Neill et al., 2016, p.53]])。
 
 ## 项目特征
 
@@ -59,7 +58,7 @@ updated: 2026-10-15
 > [!abstract] 治理与伙伴关系
 > TFNZ 作为三方合作运营([[Argument_ONeill_2016_Report\|O'Neill et al., 2016, pp.10, 53]])：
 >
-> - **项目伙伴** 奥克兰大学、教育部和 [[Teach Classroom Observation Tool|Teach]] for All（纽约全球总部，覆盖 35 国类似项目）
+> - **项目伙伴** 奥克兰大学、教育部和 Teach for All（纽约全球总部，覆盖 35 国类似项目）
 > - **赞助人（Patrons）** Sir John Graham（Auckland [[Grammar School]] 前校长、奥克兰大学前校长、Woolf Fisher Trust 受托人）和 Dame Lesley Max（Great Potentials Foundation 联合创始人）
 
 ## 资金来源与创始伙伴
@@ -80,10 +79,10 @@ updated: 2026-10-15
 ## 领导团队
 
 > [!abstract] 领导团队
-> 首席执行官为联合创始人 Shaun Sutton（曾在英国接受 [[Teach Classroom Observation Tool|Teach]] First 培训并在 Teach For All 实习）。领导团队包括前 Teach First（英国）副总监 Jay Allnutt、[[Cognition Education\|Cognition Education]] 受托人兼 NEXT Foundation 顾问 Margaret Bendall 等([[Argument_ONeill_2016_Report\|O'Neill et al., 2016, p.54]])。
+> 首席执行官为联合创始人 Shaun Sutton（曾在英国接受 Teach First 培训并在 Teach For All 实习）。领导团队包括前 Teach First（英国）副总监 Jay Allnutt、[[Cognition Education\|Cognition Education]] 受托人兼 NEXT Foundation 顾问 Margaret Bendall 等([[Argument_ONeill_2016_Report\|O'Neill et al., 2016, p.54]])。
 
 ## 分析意义
 
 > [!success] 分析意义
-> TFNZ 体现了[[Policy Entrepreneur\|政策创业者]]如何在公共福利[[Discourse|话语]]（解决教育不平等）、非营利结构（慈善信托）和跨国私营部门连接（Aotearoa Foundation 美国对冲基金资助、[[Teach Classroom Observation Tool|Teach]] for All 全球网络）之间运作。O'Neill 等将其与 NZI（亲市场智库）作为新西兰[[Policy Network\|政策网络]]的两个代表案例进行对比分析([[Argument_ONeill_2016_Report\|O'Neill et al., 2016, p.x]])。
+> TFNZ 体现了[[Policy Entrepreneur\|政策创业者]]如何在公共福利[[Discourse|话语]]（解决教育不平等）、非营利结构（慈善信托）和跨国私营部门连接（Aotearoa Foundation 美国对冲基金资助、Teach for All 全球网络）之间运作。O'Neill 等将其与 NZI（亲市场智库）作为新西兰[[Policy Network\|政策网络]]的两个代表案例进行对比分析([[Argument_ONeill_2016_Report\|O'Neill et al., 2016, p.x]])。
 

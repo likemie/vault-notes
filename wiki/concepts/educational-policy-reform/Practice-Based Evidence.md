@@ -58,6 +58,7 @@ related_methods:
   - "[[Triangulation]]"
   - "[[Qualitative Observation]]"
   - "[[Meta-analysis]]"
+  - "[[Classroom Observation]]"
   - "[[Effect Size]]"
   - "[[Action Research]]"
   - "[[Mechanism Experiments]]"
@@ -150,7 +151,7 @@ updated: 2026-10-12
 
 > [!exegesis]- 实践理解与应用示例
 > 1. **网络化改进共同体（NICs）中的 PDSA 循环** 卡内基教学促进基金会组织多校数学教师建立网络化改进共同体，围绕“社区学院发展性数学高失败率”难题展开持续探究；各校教师运用“计划-执行-研究-行动”（PDSA）微循环收集课堂互动过程数据，在跨校变异中比较不同[[Scaffolding\|教学脚手架]]的真实效能，沉淀出高度可操作的实践本位证据。[[Argument_Peterson_2016_IJRME\|(Peterson, 2016, p. 306)]]
-> 2. **小学教师课堂评估信息的同行网络流动** 安大略省小学教师在解决阅读理解教学卡点时，首先检索并参考同行教师在类似班级情境中生成的教学观察手记与学生作业案例库，将这种实践本位证据作为调整教学节奏的首要依据。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 130)]]
+> 2. **小学教师课堂评估信息的同行网络流动** 安大略省小学教师在解决阅读理解教学卡点时，首先检索并参考同行教师在类似班级情境中生成的[[Classroom Observation|教学观察]]手记与学生作业案例库，将这种实践本位证据作为调整教学节奏的首要依据。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 130)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid

@@ -41,6 +41,7 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Conversation Analysis]]"
   - "[[Transcription in Qualitative Research]]"
+  - "[[Classroom Observation]]"
   - "[[Ethnography]]"
   - "[[Questionnaire]]"
   - "[[Correlational Research]]"
@@ -157,7 +158,7 @@ updated: 2026-10-07
 ### 命题三　实证主义去情境化的行为编码必然导致对索引性意义的系统误读
 
 > [!concept-lens] 研究方法论批判维度
-> 本命题以课堂观察为例，深刻揭示[[Positivism\|实证主义]]量化测量工具在面对微观索引性时的[[Epistemology\|认识论]]破产。
+> 本命题以[[Classroom Observation|课堂观察]]为例，深刻揭示[[Positivism\|实证主义]]量化测量工具在面对微观索引性时的[[Epistemology\|认识论]]破产。
 
 > [!claim] Walker, R. & Adelman, C.
 > **[[Flanders Interaction Analysis Categories\|FIAC]] 分类体系在索引性面前的崩溃** 传统弗兰德斯互动分析（FIAC）追求无偏、客观的标准化记录，将课堂互动拆解为 10 类离散的行为代码；然而在面对带有浓厚情境索引性的“草莓事件”时，FIAC 只能机械输出 '7-4-9-10'，将师生高度默契的亲密互动错误归类为教师斥责与学生对抗，完全无法解释全班哄堂大笑的真实机理；这证明任何脱离[[Rich and Thick Description\|深描]]的量化行为测度都不可避免地陷入认识论盲区。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 20–21)]]

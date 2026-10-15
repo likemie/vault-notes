@@ -2,7 +2,6 @@
 title: Nikolas Rose
 aliases:
   - 尼古拉斯·罗斯
-  - 罗斯
   - Rose, N.
   - Nikolas S. Rose
 summary: "英国著名社会学家、政治理论家，伦敦国王学院荣休教授，英国社会科学院院士。作为高级自由主义治理理论的开创者，其研究深刻剖析“远处治理”、自我技术与量化监控网络；其在《自由的权力》中提出的“数字即政策”命题，揭示统计测度如何将高度争议的价值判断与政治决断黑箱化、客观化，成为全球教育评估与超国家新自由主义调控的权威技术支柱。"
@@ -15,7 +14,7 @@ person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
 born: "1947"
 died: ""
-lifespan: "1947–至今"
+lifespan: 1947–至今
 tags:
   - person/scholar
   - governmentality
@@ -58,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Nikolas Rose

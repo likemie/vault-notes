@@ -20,7 +20,8 @@ related_concepts:
   - "[[Learning-Impeding Behavior]]"
   - "[[Variable]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Classroom Observation]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -56,5 +57,5 @@ updated: '2026-05-18'
 ## 待补充研究
 
 
-- 后续可补充跨学段变化轨迹与自评-课堂观察一致性证据。
+- 后续可补充跨学段变化轨迹与自评-[[Classroom Observation|课堂观察]]一致性证据。
 

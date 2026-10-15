@@ -63,6 +63,8 @@ related_arguments:
   - "[[Argument_Cartiff_2021_JEP]]"
   - "[[Argument_Han_Gutierez_2026_IJSE]]"
 status: active
+related_instruments:
+  - "[[Framework for Teaching]]"
 confidence: high
 created: 2026-09-21
 updated: 2026-10-07
@@ -75,7 +77,7 @@ updated: 2026-10-07
 ## 定义
 
 > [!def] 核心定义
-> 信源评估（Source Evaluation，在阅读研究中常称为 Sourcing 或 Sourcing Heuristic）是指学习者在面对单一或多重文本（特别是存在观点冲突的数字化信息与[[Generative Artificial Intelligence|生成式人工智能]]输出）时，超越表层陈述内容，主动识别、审验并评价信息提供者的专业资质、机构背景、出版动机、潜在利益冲突以及背后证据支撑力度的系统性认知规程与教学框架。在教学实践中，通过[[Direct Instruction\|直接讲授]]信源甄别准则与提供[[Reflexivity|反思性]]提问提示，能够有效帮助学生破解网络虚假信息与算法权威盲从，实现高质量的跨文本整合与论证建构。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 485–486, 492)]]; [[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, p. 5)]]
+> 信源评估（Source Evaluation，在阅读研究中常称为 Sourcing 或 Sourcing Heuristic）是指学习者在面对单一或多重文本（特别是存在观点冲突的数字化信息与[[Generative Artificial Intelligence|生成式人工智能]]输出）时，超越表层陈述内容，主动识别、审验并评价信息提供者的专业资质、机构背景、出版动机、潜在利益冲突以及背后证据支撑力度的系统性认知规程与[[Framework for Teaching|教学框架]]。在教学实践中，通过[[Direct Instruction\|直接讲授]]信源甄别准则与提供[[Reflexivity|反思性]]提问提示，能够有效帮助学生破解网络虚假信息与算法权威盲从，实现高质量的跨文本整合与论证建构。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 485–486, 492)]]; [[Argument_Han_Gutierez_2026_IJSE\|(Han & Gutierez, 2026, p. 5)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向阅读与探究过程中的元文本分析机制，强调不仅关注“说了什么（What）”，更关注“谁在说（Who）、为何说（Why）以及依据何种证据（How）”。
@@ -123,7 +125,7 @@ updated: 2026-10-07
 
 ### 命题一　显性讲授信源评估规则是促进多文本理解与学业成效的高增益教学范式
 
-> [!concept-lens] 教学框架对干预[[Effect Size\|效应量]]的调节机制
+> [!concept-lens] [[Framework for Teaching|教学框架]]对干预[[Effect Size\|效应量]]的调节机制
 > 探讨不同类型的教学组织模式对学生认知与[[Academic Achievement\|学业成绩]]的因果促进效能。
 
 > [!claim] Cartiff, B. M.
@@ -171,7 +173,7 @@ updated: 2026-10-07
 > - **1991 — 历史学科专家阅读思维起源** 萨姆·温伯格（Sam Wineburg）首次通过出声思考法揭示历史学家在阅读冲突性[[Document\|文献]]时的三大核心启发式：信源评估（Sourcing）、情境化（Contextualization）与互证（Corroboration），确立了信源评估在学科素养中的奠基地位。
 > - **2008–2011 — 多文本阅读认知模型拓展** 鲁埃等学者（Rouet & Britt）提出多文本理解的文档模型与 MD-TRACE 架构，将信源节点（Source Node）确立为多文本心理表征的核心支柱。
 > - **2014–2018 — 数字化时代的显性策略干预** 梅森等学者（Mason et al., 2014）与斯坦福史学教育课题组（Wineburg & McGrew, 2018）将信源评估开发为标准化的教学策略（如[[Lateral Reading\|横向阅读法]]），证明短期显性指导即可显著纠正学生的网络盲信。
-> - **2021 — 因果[[Meta-analysis\|元分析]]确立高效应干预地位** [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 通过元分析量化证实，信源评估教学框架在[[Epistemic Cognition\|认识论认知]]干预中录得 $d = 0.800$ 的大[[Effect Size\|效应量]]，确立了其作为高效能教学干预[[Paradigm\|范式]]的实证基准。
+> - **2021 — 因果[[Meta-analysis\|元分析]]确立高效应干预地位** [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 通过元分析量化证实，信源评估[[Framework for Teaching|教学框架]]在[[Epistemic Cognition\|认识论认知]]干预中录得 $d = 0.800$ 的大[[Effect Size\|效应量]]，确立了其作为高效能教学干预[[Paradigm\|范式]]的实证基准。
 > - **2026 — 生成式 AI 时代的二手信源审问与文献溯源** [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] 将信源评估拓展至[[Man-Computer Symbiosis|人机协同]][[Scientific Explanation|科学解释]]领域，实证揭示显性反思提问提示语如何驱动学生对大模型展开二手信源审查、文献溯源与教材权威对照。
 
 ---
@@ -189,7 +191,7 @@ updated: 2026-10-07
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]教学干预框架[[Interaction Effect\|调节效应]]检验
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 教学框架亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
+> | 一阶元分析 | 当前概念角色 | [[Framework for Teaching\|教学框架]]亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 教学干预模式 | [[Inquiry-Based Learning\|指导式探究]]（Guided Inquiry） | 14 / 2,139 | $d = 0.808$ [0.457, 1.159] | — | 提供明确步骤指导与[[Variable\|变量]]控制支架 |
 > | 同上 | 教学干预模式 | 信源评估（Source Evaluation） | 2 / 182 | $d = 0.800$ [0.625, 0.974] | — | 显性讲授信息源资质与可[[Reliability\|信度]]鉴别规则 |
@@ -210,5 +212,5 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — [[Epistemology\|认识论]]干预因果[[Meta-analysis\|元分析]]，在教学框架亚组中证实信源评估教学录得高达 $d = 0.800$ 的大[[Effect Size\|效应量]]，实证确立了显性信源规则教学对促进[[Academic Achievement\|学业成就]]的高因果效益。
+> - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — [[Epistemology\|认识论]]干预因果[[Meta-analysis\|元分析]]，在[[Framework for Teaching|教学框架]]亚组中证实信源评估教学录得高达 $d = 0.800$ 的大[[Effect Size\|效应量]]，实证确立了显性信源规则教学对促进[[Academic Achievement\|学业成就]]的高因果效益。
 > - [[Argument_Han_Gutierez_2026_IJSE\|Han & Gutierez (2026)]] — 实证揭示显性反思提问提示语如何驱动初中生在与生成式 AI 协同建构[[Scientific Explanation|科学解释]]时开展二手信源评估与[[Document|文献]]溯源，维系核心[[Epistemic Agency|认识主体性]]。

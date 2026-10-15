@@ -32,6 +32,7 @@ related_theories: []
 related_methods:
   - "[[Analytic Framework]]"
 related_instruments:
+  - "[[Framework for Teaching]]"
   - "[[Collegiate Learning Assessment]]"
 related_persons: []
 related_facts:
@@ -54,7 +55,7 @@ updated: 2026-09-22
 > - **发布时间 / 发布主体** 2014 年由[[Higher Education Funding Council for England\|英格兰高等教育拨款委员会]]（Higher Education Funding Council for England, HEFCE）正式启动，持续资助至 2018 年。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 17–18)]]
 > - **适用地区 / 对象** 英国英格兰地区高等院校本科生、教学质量管理者与政策研究机构。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 17)]]
 > - **问题背景** 英国高教界急需超越静态生源声誉和单纯文凭等级，探索能够精准表征学生大学就读期间认知与能力纵向“增值”的科学测量体系。
-> - **制度位置** 配合英国卓越教学框架（TEF）探索高教质量评价实证基准的国家专项科研计划。
+> - **制度位置** 配合英国卓越[[Framework for Teaching|教学框架]]（TEF）探索高教质量评价实证基准的国家专项科研计划。
 
 ---
 

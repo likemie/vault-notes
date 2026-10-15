@@ -10,7 +10,7 @@ subtype: organization
 region: "uk"
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 12
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -34,8 +34,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Practitioner Enquiry]]"
-related_instruments:
-  - "[[Teach Classroom Observation Tool]]"
+related_instruments: []
 related_persons: []
 related_facts:
   - "[[Pupil Equity Funding]]"
@@ -80,7 +79,7 @@ updated: 2026-10-15
 > - **总理事会（The Council）** 治理最高权力机构，由 37 名理事组成；其中多数席位（19 席）由全苏格兰注册教师民主直选产生，其余席位涵盖大学教师教育者、地方当局代表、家长组织、雇主与公众代表，确保了以一线专业人员为主体的同行治理（Peer Governance）。
 > - **执行团队与执行长（Chief Executive & Registrar）** 负责机构日常运转、法定注册管理、政策执行与专业支持服务。
 > - **专业发展与标准委员会（Professional Standards Committee）** 负责定期审议、修订与迭代苏格兰《教师专业标准》，监管高等院校初始师训项目的认证与评估。
-> - **纪律与适任委员会（Fitness to [[Teach Classroom Observation Tool|Teach]] Committees）** 依法独立行使司法裁判职能，处理违反专业守则与失职案件，保障公众与学生福祉。
+> - **纪律与适任委员会（Fitness to Teach Committees）** 依法独立行使司法裁判职能，处理违反专业守则与失职案件，保障公众与学生福祉。
 
 > [!pathways]- 业务运行机制
 > - **教师专业更新（Professional Update, PU）机制** 每五年为周期，要求全体在职教师在持续专业学习（PRD）中开展基于反思与证据的探究，经校领导确认后完成资格更新，取代外部惩罚性重新考核。

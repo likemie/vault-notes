@@ -6,7 +6,7 @@ aliases:
 summary: "以经过选择的问题组织目标、学习活动与评估的教学系统，强调先备知识激活、协作探究、知识应用、模型修正和自我监控。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 61
+related_count: 60
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -71,7 +71,6 @@ related_methods:
 related_persons:
   - "[[John Biggs]]"
   - "[[John Hattie]]"
-  - "[[Nikolas Rose]]"
 related_facts:
   - "[[TIMSS]]"
 related_arguments:
@@ -81,11 +80,12 @@ related_arguments:
   - "[[Argument_Erdem_2026_SHE]]"
   - "[[Argument_Blass_2020_JESP]]"
   - "[[Argument_Cartiff_2021_JEP]]"
-related_instruments: []
+related_instruments:
+  - "[[Framework for Teaching]]"
 confidence: medium
 status: active
 created: 2026-05-04
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Problem-Based Learning
@@ -281,7 +281,7 @@ updated: 2026-10-14
 ## 概念演变
 
 > [!dev-timeline] PBL 概念内涵与系统[[Paradigm\|范式]]的演进
-> - **1960 年代中期 — 临床医学导向的[[Apprenticeship|学徒制]]替代模型（麦克马斯特起源）** 霍华德·巴[[Nikolas Rose|罗斯]]（Howard Barrows）等人在加拿大麦克马斯特大学医学院创立 PBL，旨在打破传统分科灌输导致的“理论记忆脱离临床实践”困境。此时 PBL 的核心概念定位为：以真实的临床病患案例为驱动，通过小组讨论模拟医生诊断过程，激发自导式学习（[[Self-Directed Learning]]）并内化临床推理技能，本质是医学专业教育中的情境化学徒制模型。[[Argument_Erdem_2026_SHE\|Erdem et al. (2026, pp. 950–952)]]
+> - **1960 年代中期 — 临床医学导向的[[Apprenticeship|学徒制]]替代模型（麦克马斯特起源）** 霍华德·巴罗斯（Howard Barrows）等人在加拿大麦克马斯特大学医学院创立 PBL，旨在打破传统分科灌输导致的“理论记忆脱离临床实践”困境。此时 PBL 的核心概念定位为：以真实的临床病患案例为驱动，通过小组讨论模拟医生诊断过程，激发自导式学习（[[Self-Directed Learning]]）并内化临床推理技能，本质是医学专业教育中的情境化学徒制模型。[[Argument_Erdem_2026_SHE\|Erdem et al. (2026, pp. 950–952)]]
 > - **1970 年代–1980 年代 — 认知革命与[[Constructivist Instruction\|建构主义教学]]范式化（从[[Clinical Skills\|临床技能]]转向通用认知模型）** 伴随认知心理学与学习科学的兴起，PBL 突破单纯的医学规程，被[[Constructivist Paradigm\|建构主义]]学者提炼为跨学科的通用教学范式。概念核心发生质变：界定为以“[[Wicked Problem|劣构问题]]（Ill-Structured Problems）”为组织载体，依托“先备知识激活、小组协同假说建构、自主检索验证与解释模型修正”的认知循环，并系统扩展至工程、法律与商科等高等教育与职业领域。[[Argument_Erdem_2026_SHE\|Erdem et al. (2026, p. 951)]]
 > - **1990 年代 — 课程层面的系统化与[[Constructive Alignment\|建构性对齐]]（形成全链条教学评估闭环）** [[John Biggs\|约翰·比格斯]]（John Biggs）等学者将 PBL 提升为**[[Constructive Alignment\|建构性对齐]]**的经典范本；Feletti 等人开发“三跳评估（Triple Jump）”。概念内涵实现重要飞跃：PBL 不再仅被视作课堂上的单项探究技巧，而被重构为**统摄“专业能力目标—真实问题驱动—全流程案例评估”三位一体的全课程系统（Curriculum-Wide System）**，彻底克服了教学活动与专业评价脱节的弊病。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 70–72)]]
 > - **2000 年代–2010 年代 — 认知负荷争议下的内涵重塑（从“自由发现”走向“结构化支架”）** 面对认知负荷学派对未指导[[Discovery Learning\|发现学习]]的尖锐批评，学界推动了 PBL 概念的自我修正：明确划清 PBL 与纯无指导自由发现的边界，确立了**“问题结构化设计（Problem Structuring）”与“显性导师支架（Explicit Facilitator [[Scaffolding]]）”**作为 PBL 概念的内生必要维度，强调在先备知识支持与保留适度自主认知搜索之间取得动态平衡。[[Argument_Hattie_2015_SOTLP\|Hattie (2015b, pp. 85–86)]]
@@ -395,6 +395,6 @@ updated: 2026-10-14
 > - [[Argument_Blass_2020_JESP\|Blass (2020)]] 审查 Hattie 的 PBL 来源类型与情境，同时强调教师培训、结果目标和知识深度对效果解释的影响。
 > - [[Argument_Schaffar_2024_CogentEdu\|Schaffar & Wolff (2024)]] 将 PBL 定位为芬兰[[Phenomenon-Based Learning\|现象本位学习]]的近缘[[Constructivist Paradigm\|建构主义]]传统，并划定两者的哲学与课程边界。
 > - [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] 以[[Meta-meta-analysis\|二阶元分析]]综合 20 项一阶元分析，报告 PBL 对高等教育学生结果（[[Theoretical Knowledge\|理论性知识]]、[[Clinical Skills\|临床技能]]、[[Critical Thinking\|批判性思维]]、态度与满意度）的总体高效应，并分解结果类型、地域、抽样方法、质量、报告类型与年份的调节作用。
-> - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 在[[Epistemic Cognition\|认识论认知]]干预因果元分析中量化对比了基于问题的学习（PBL）与其他教学框架的[[Effect Size\|效应量]]，实证揭示了缺乏显性[[Scaffolding\|认知支架]]时 PBL 的成效局限。
+> - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 在[[Epistemic Cognition\|认识论认知]]干预因果元分析中量化对比了基于问题的学习（PBL）与其他[[Framework for Teaching|教学框架]]的[[Effect Size\|效应量]]，实证揭示了缺乏显性[[Scaffolding\|认知支架]]时 PBL 的成效局限。
 
 ---

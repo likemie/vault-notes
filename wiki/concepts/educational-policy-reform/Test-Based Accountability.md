@@ -52,6 +52,7 @@ related_methods:
   - "[[Transcription in Qualitative Research]]"
   - "[[Systematic Review]]"
   - "[[Documentary Analysis]]"
+  - "[[Classroom Observation]]"
   - "[[Likert Scale]]"
   - "[[Correlational Research]]"
   - "[[Semi-structured Interview]]"
@@ -74,6 +75,8 @@ related_arguments:
   - "[[Argument_Brown_Greany_2018_LPS]]"
   - "[[Argument_Hattie_2005_ACER]]"
   - "[[Argument_Li_2025_HSSC]]"
+related_instruments:
+  - "[[Framework for Teaching]]"
 confidence: high
 status: active
 created: 2026-05-26
@@ -217,7 +220,7 @@ updated: 2026-09-18
 > [!debates] 学术争议
 >
 > > [!axis] 对教育质量与教学实践的影响
-> > 焦点在于考试问责是提供了清晰的教学框架支持，还是导致了课程窄化与应试异化。
+> > 焦点在于考试问责是提供了清晰的[[Framework for Teaching|教学框架]]支持，还是导致了课程窄化与应试异化。
 > >
 > > - **Ball（2003）** 认为问责导致表演性文化与课程窄化。
 > > - **Boardman & Woodruff（2004）** 认为测试为特定技能教学提供了有益框架。[[Argument_Wang_2025_CE\|(Wang & McLaughlin, 2025, p. 588)]]
@@ -252,7 +255,7 @@ updated: 2026-09-18
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] | 华北某区 4 所案例学校（2 城市、2 农村），4 位校长，9 位骨干教师，25 份访谈[[Transcription in Qualitative Research\|转录]]稿 | 质性[[Case Study\|案例研究]]与[[Third Generation Activity Theory\|活动理论]]模板分析 | 考试问责与教学改革系统 6 要素（规则、工具、分工等） | 城市一校（前 5%）与农村一校由于未调整考评规则与分工而陷入改革停滞；城市二校（优生率增长 10%）与农村二校（垫底校）通过重构观课规则与绩效加分，将改革绑定为高阶考题与课堂 45 分钟效率工具，实现扩展性改造 | 质性案例研究，无量化显著性检验 | 样本规模较小（4 校），田野窗口为 1 年，仅代表特定东亚考试文化情境 |
-> | [[Argument_Li_2025_HSSC\|Li et al. (2025)]] | 全球多个国家（包括瑞士、挪威、中国、加拿大等）教育政策与监测体系 | 质性[[Systematic Review\|系统综述]]与[[Documentary Analysis\|文献分析]] | [[PISA]] 比较逻辑与国家中观教育监测制度 | PISA 推动各国建立与国际标准对接的全国性监测体系（如瑞士 [[HarmoS]] 标准、中挪质量监测），在中观治理层面深化了 [[Global Education Reform Movement\|GERM]] 逻辑 | 质性综述 | 侧重中观政策分析，未深入微观课堂观察 |
+> | [[Argument_Li_2025_HSSC\|Li et al. (2025)]] | 全球多个国家（包括瑞士、挪威、中国、加拿大等）教育政策与监测体系 | 质性[[Systematic Review\|系统综述]]与[[Documentary Analysis\|文献分析]] | [[PISA]] 比较逻辑与国家中观教育监测制度 | PISA 推动各国建立与国际标准对接的全国性监测体系（如瑞士 [[HarmoS]] 标准、中挪质量监测），在中观治理层面深化了 [[Global Education Reform Movement\|GERM]] 逻辑 | 质性综述 | 侧重中观政策分析，未深入微观[[Classroom Observation\|课堂观察]] |
 > | [[Argument_Brown_Greany_2018_LPS\|Brown & Greany (2018, pp. 121–122, 129–132)]] | 英格兰 79 所小学的 696 名教师与[[School Leadership\|学校领导]]者 | 横断面基线[[Questionnaire\|问卷]]（五级[[Likert Scale\|李克特量表]]） | 问责框架下证据类型的分布与协作探究深度：学校是否用证据提示改进策略、是否经常讨论影响关键决策的潜在[[Hypothesis\|假设]]、是否设有正式分享论坛 | 79% 表示学校用研究与证据向教职工提示改进策略，82% 曾与同事讨论[[Correlational Research\|相关研究]]发现;但仅 55% 表示学校经常讨论影响关键决策的潜在假设（30% 不确定、14% 不同意），仅 61% 确认学校设有正式分享论坛 | — | 横断面自陈数据，只能显示问责环境下[[Research Utilization\|证据使用]]与探究深度的分布特征，不能确立问责压力与探究深度之间的[[Causality\|因果关系]] |
 > | [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler (2019, pp. 11–14)]] | 美国马萨诸塞州（[[Massachusetts Department of Elementary and Secondary Education\|DESE]] 及相关公立学校）与德国汉堡（[[Institute for Educational Monitoring and Quality Improvement\|IfBQ]] 及相关学校），共 39 份[[Semi-structured Interview\|半结构化访谈]]与现场观察 | 比较[[Case Study\|案例研究]]与[[Documentary Analysis\|政策文本分析]] | 考试问责利害性（高利害接管 vs 低利害诊断）、[[Data Infrastructure\|数据基础设施]]流向与微观应对实践 | 高利害问责驱动了全校氛围问卷操纵、“劝退”边缘学生等数据烹饪，且促使行政部门设置防盗铁门以将问责人员隔离在支持工作之外；相比之下，低利害诊断模式虽避免了防御性造假，但导致基层对数据的利用率低，呈现出截然不同的组织动力学 | 质性深度案例研究，无统计推断 | 聚焦美德两个特定典型行政区，反映制度化极端的问责文化对照 |
 

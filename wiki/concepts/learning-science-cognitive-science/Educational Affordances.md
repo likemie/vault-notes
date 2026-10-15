@@ -63,6 +63,8 @@ related_arguments:
   - "[[Argument_Li_2026_CEAI]]"
   - "[[Argument_Du_Yuan_2026_AIS]]"
   - "[[Argument_Liu_2026_CHBR]]"
+related_instruments:
+  - "[[Framework for Teaching]]"
 confidence: high
 status: active
 created: 2026-09-02
@@ -238,7 +240,7 @@ updated: 2026-10-07
 ## 应用案例
 
 > [!example] 典型教学应用案例
-> - **基于 ADDIE 模型的[[Creativity\|创造性]]写作可供性教学框架（Cake, 2025; [[Argument_Li_2026_CEAI\|Li et al., 2026]]）**
+> - **基于 ADDIE 模型的[[Creativity\|创造性]]写作可供性[[Framework for Teaching|教学框架]]（Cake, 2025; [[Argument_Li_2026_CEAI\|Li et al., 2026]]）**
 >   利用 ChatGPT 的“构想发散”与“修辞重组”可供性，教师引导学生在分析（Analyze）与设计（Design）阶段使用 AI 激发远距离联想，在开发（Develop）阶段强制学生进行二次批判解构，使最终作品的原创性获得显著提升。
 > - **复杂跨学科项目中的 AI [[AI Agent in Education\|智能体]]分步微提示系统（[[Argument_Liu_2026_CHBR\|Liu et al., 2026]]）**
 >   将 AI Agent 定位为“[[Scaffolding\|脚手架]]中介”，通过分步提示释放概念分解与程序引导可供性，使学生的高阶推理与[[Problem Solving\|问题解决]]成绩提升达 $g = 0.540$。

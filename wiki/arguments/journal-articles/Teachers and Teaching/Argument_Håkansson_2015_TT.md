@@ -38,6 +38,7 @@ related_theories: []
 related_methods:
   - "[[Comparative Meta-synthesis]]"
   - "[[Effect Size]]"
+  - "[[Classroom Observation]]"
 related_persons: []
 related_facts:
   - "[[PISA]]"
@@ -74,7 +75,7 @@ citation_aliases:
 > [!info] 研究方法
 > - 方法：[[Comparative Meta-synthesis]]。它不是把所有研究压成一个平均[[Effect Size\|效应量]]，而是把不同综述当作案例来对读、比较，再把它们串成一条可以解释问题的推论链(pp.588-589)。
 > - 样本：16 项国际研究综述与 27 项瑞典研究综述，共 43 项，覆盖教师、学生、课堂和学校情境等多个维度(pp.585, 588-589, 598-602)。
-> - 数据来源：国际和瑞典本土的教学与学习研究综述，而不是某一组新课堂观察数据或实验数据。
+> - 数据来源：国际和瑞典本土的教学与学习研究综述，而不是某一组新[[Classroom Observation|课堂观察]]数据或实验数据。
 > - 分析步骤：先定问题和纳入标准，再检索和筛选综述，随后做阅读、扫描、协议记录和主题抽取，最后把这些综述“翻译”到同一张分析地图里，形成对政策口号的解释。
 
 ## 论证结构

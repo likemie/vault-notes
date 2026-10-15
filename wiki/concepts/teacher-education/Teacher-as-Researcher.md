@@ -48,6 +48,7 @@ related_methods:
   - "[[Action Research]]"
   - "[[Emancipatory Action Research]]"
   - "[[Participatory Action Research]]"
+  - "[[Classroom Observation]]"
   - "[[Qualitative Research]]"
   - "[[Correlational Research]]"
 related_persons:
@@ -150,7 +151,7 @@ updated: 2026-10-14
 
 > [!mindset] 教师作为研究者的方法论取向
 > - **以问题为起点** 课题必须生发于真实的教育困境与学生需求，坚决拒绝脱离一线现场的伪问题。
-> - **研究融入日常教学** 探究过程与教学活动高度共生，[[Homework\|作业]]批改、课堂观察、师生谈话与作品集直接转化为[[Qualitative Research\|质性研究]]材料，避免形式主义的额外负担。
+> - **研究融入日常教学** 探究过程与教学活动高度共生，[[Homework\|作业]]批改、[[Classroom Observation|课堂观察]]、师生谈话与作品集直接转化为[[Qualitative Research\|质性研究]]材料，避免形式主义的额外负担。
 > - **拥抱[[Open-Mindedness|开放性]]与迭代演进** 预先设计的行动方案须根据课堂现场的动态反馈敏捷调适，在行动中研究，在研究中调整。
 > - **注重证据多元互证** 综合运用录音录像、观察笔记、学生反思日记与[[Formative Assessment\|形成性评价]]数据，保证行动结论的严密性与透明度。
 

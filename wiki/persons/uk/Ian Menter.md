@@ -7,7 +7,7 @@ summary: "牛津大学教师教育荣休教授，英国教育研究协会与苏�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 28
+person_related_count: 27
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -45,8 +45,7 @@ related_methods:
   - "[[Correlational Research]]"
   - "[[Pre-test and Post-test]]"
 related_instruments: []
-related_persons:
-  - "[[Nikolas Rose]]"
+related_persons: []
 related_facts:
   - "[[British Educational Research Association]]"
   - "[[BERA-RSA Inquiry into the Role of Research in Teacher Education]]"
@@ -56,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Ian Menter
@@ -66,7 +65,7 @@ updated: 2026-10-14
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 英国当代教师教育与教育政策学者，牛津大学教育系教师教育荣休教授（Professor Emeritus of Teacher Education），俄[[Nikolas Rose|罗斯]]喀山联邦大学资深研究员。
+> - **身份位置** 英国当代教师教育与教育政策学者，牛津大学教育系教师教育荣休教授（Professor Emeritus of Teacher Education），俄罗斯喀山联邦大学资深研究员。
 > - **核心角色** 曾任[[British Educational Research Association\|英国教育研究协会]]（British Educational Research Association, BERA，2013–2015）主席与苏格兰教育研究协会（Scottish Educational Research Association, SERA，2005–2007）主席，是英国教师专业发展、教师教育政策批判与[[Output-Oriented Governance\|循证治理]]研究的代表性学术领袖。
 > - **代表贡献** 提出“以研究为导向的临床实践”（Research-Informed Clinical Practice）[[Paradigm\|范式]]；主导 BERA-RSA 教师教育国家调查；系统论证教育政策从测量时代向[[Evidence Era\|证据时代]]的治理范式演进与[[Policy-Based Evidence-Making\|基于政策的证据制造]]机制。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 88–91)]]
 

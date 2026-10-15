@@ -21,6 +21,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Commensuration]]"
   - "[[Policy Borrowing]]"
+  - "[[Learning Crisis]]"
   - "[[Epistemology]]"
   - "[[Informationalization]]"
   - "[[Learning Analytics]]"
@@ -76,7 +77,7 @@ updated: 2026-10-07
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向认知、反思与成长等活态教育经验被全面技术化还原为机器可读、可计算、可存储的数字表征与资产形态。
-> - **用途** 帮助研究者透视 [[PISA]]、[[TIMSS]]、[[UN Sustainable Development Goals\|SDG 4]] 学习贫困率以及学习管理系统（LMS）背后的治理[[Epistemology\|认识论]]，揭示数字技术如何从单纯的测量工具转变为规制甚至重构教育现实的施动性力量。
+> - **用途** 帮助研究者透视 [[PISA]]、[[TIMSS]]、[[UN Sustainable Development Goals\|SDG 4]] [[Learning Crisis|学习贫困]]率以及学习管理系统（LMS）背后的治理[[Epistemology\|认识论]]，揭示数字技术如何从单纯的测量工具转变为规制甚至重构教育现实的施动性力量。
 > - **边界** 区别于一般的教育[[Informationalization\|信息化]]基础设施建设（如宽带、硬件铺设）；它特指关于“何为有效学习”的评价权与定义权向算法化、量化指标的大规模让渡。
 
 > [!citation-card] 学习数据化作为系统论反思与治理规制的核心载体
@@ -183,7 +184,7 @@ updated: 2026-10-07
 > > [!axis] 教育公平争鸣：精准扶智诊断 vs 新型算法歧视
 > > 围绕学习数据化究竟是赋权弱势学生的诊断工具，还是固化阶层区隔的新型技术隔离机制。
 > >
-> > - **多边倡导者与数据专家** 认为细粒度的学习数据能够精准识别“学习贫困”（Learning Poverty）群体，为教育干预提供前所未有的科学靶向。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 546)]]
+> > - **多边倡导者与数据专家** 认为细粒度的学习数据能够精准识别“[[Learning Crisis|学习贫困]]”（Learning Poverty）群体，为教育干预提供前所未有的科学靶向。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 546)]]
 > > - **批判教育社会学家** 指出算法模型往往内嵌主导阶级的[[Cultural Capital\|文化资本]]偏见，学习数据化实质上制造了新型的“数字红线”，将贫困边缘群体打上失败标签并实施自动化排斥。
 >
 > > [!axis] 育人本质争鸣：[[Visible Learning\|可见的学习]]成效 vs 教学艺术的窄化与异化

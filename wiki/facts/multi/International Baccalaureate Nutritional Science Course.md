@@ -7,7 +7,7 @@ subtype: program
 region: multi
 fact_region: "multi"
 fact_kind: "program"
-fact_related_count: 11
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -18,9 +18,11 @@ related_concepts:
   - "[[International Baccalaureate]]"
   - "[[Terminal Courses]]"
   - "[[International Schools]]"
+  - "[[International Education]]"
   - "[[Experiential Learning]]"
 related_methods:
   - "[[Fieldwork]]"
+  - "[[Correlational Research]]"
 related_facts:
   - "[[United World Colleges]]"
   - "[[International Baccalaureate Applied Chemistry Course]]"
@@ -30,9 +32,9 @@ related_arguments:
   - "[[Argument_Peterson_1987_OpenCourt_Ch08]]"
   - "[[Argument_Peterson_1987_OpenCourt]]"
 confidence: medium
-status: draft
+status: active
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # International Baccalaureate Nutritional Science Course
@@ -127,6 +129,14 @@ updated: 2026-10-07
 > [!boundary] 推广受阻与教学效果需要分别记录
 > 已有材料未提供完整课程大纲、评估任务、分数、学生人数或长期追踪，也未解释墨西哥城采用的过程。跨校推广受阻不能推出课程无教育价值，校内持续运行也不能证明社区理解或知识应用目标已经实现；后续历史状态仍需其他来源。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–205)]]
 
+### 国际机构规范倡议、专项资助与实际办学能力的边界
+
+> [!claim] 规范倡议与具体办学能力需要分开判断
+> Peterson 在讨论 IB 与 [[United World Colleges|UWC]] 为谁服务时，把可能的 [[UNESCO]] 决议与两个自愿组织可实际完成的工作区分开来。他并未否定国际规范的意义，而是把课程推广、学生资助与办学扩展放在具体资源条件下讨论。营养科学案例说明，获得国际机构关注和专项资助可以启动交流，但学校是否采用仍受教师、课程位置与培训资源制约。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–207)]]
+
+> [!boundary] 对联合国机构的历史判断不等于 UNESCO 的正式立场
+> 作者在 1980 年代政治环境下判断，私人资金不足以维持开放的[[International Education|国际教育]]，政府尚未准备全面承担，而任何联合国机构也难以直接负责。他倾向扩大政府援助并相应增加政府在自愿组织中的方针影响。这是作者对当时国际教育供给的判断；原文该段泛指联合国机构，不能改写为 UNESCO 正式拒绝办学、存在永久性法律禁令，或否定其专项课程支持。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 215–216)]]
+
 ---
 
 ## 相关条目网络
@@ -134,10 +144,17 @@ updated: 2026-10-07
 > [!entry-map]
 > | 条目 | 类型 | 关系 |
 > |---|---|---|
-> | [[United World Colleges]] | Fact / organization | 东南亚书院提供课程开发场景 |
-> | [[International Baccalaureate]] | Concept | 第六科位置和科目分布要求影响选课机会 |
-> | [[UNESCO]] | Fact / organization | 支持跨校推广的专家交流 |
-> | [[Terminal Courses]] | Concept | 解释不再深造领域的应用学习目的 |
-> | [[Experiential Learning]] | Concept | 本地田野任务使学术学习联系社会经验 |
-> | [[International Baccalaureate Applied Chemistry Course]] | Fact / program | 常规采用是营养科学推广的参照 |
-> | [[Science Technology and Social Change Curriculum Pilot]] | Fact / program | 后续项目将教师培训与课程开发共同筹资 |
+> | [[United World Colleges]] | 事实 (机构) | 东南亚书院提供课程开发场景 |
+> | [[International Baccalaureate]] | 概念 | 第六科位置和科目分布要求影响选课机会 |
+> | [[UNESCO]] | 事实 (机构) | 支持跨校推广的专家交流与小额种子经费提供方 |
+> | [[Terminal Courses]] | 概念 | 解释不再深造领域的应用学习目的 |
+> | [[Experiential Learning]] | 概念 | 本地田野任务使学术学习联系社会经验 |
+> | [[International Baccalaureate Applied Chemistry Course]] | 事实 (项目) | 常规采用是营养科学推广的参照 |
+> | [[Science Technology and Social Change Curriculum Pilot]] | 事实 (项目) | 后续项目将教师培训与课程开发共同筹资 |
+
+---
+
+## 相关研究
+
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–207, 215–216)]] — 记录[[International Baccalaureate|国际文凭]]营养科学课程校本开发、[[UNESCO|联合国教科文组织]]专项资助与跨校推广受阻经验，并辨析国际规范与办学能力边界。

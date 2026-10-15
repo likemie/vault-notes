@@ -7,7 +7,7 @@ aliases:
 summary: "用于分析高等教育活动如何在全球、区域、国家、地方和个体等不同尺度上同时展开并相互作用的关系性概念。"
 type: concept
 domain: "higher-education"
-related_count: 15
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -27,7 +27,6 @@ related_concepts:
 related_theories: []
 related_methods: []
 related_persons:
-  - "[[Nikolas Rose]]"
   - "[[Doreen Massey]]"
 related_facts:
   - "[[National Science Foundation]]"
@@ -39,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-13'
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Scale in Higher Education
@@ -57,7 +56,7 @@ updated: 2026-10-14
 ## 概念辨析
 
 > [!example]
-> - vs 层级嵌套模型（nested hierarchy） — 传统理解将尺度视为俄[[Nikolas Rose|罗斯]]套娃：大的包含小的，大的决定小的。关系性尺度分析认为，不同尺度有**不同的**规范、关系和运作逻辑，不可相互化约。例如，国家科学以国家为规范中心（法律、政策、拨款），全球科学则没有规范中心——由期刊、[[Document\|文献]]计量、传播网络和合作关系构成([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 8–9]])
+> - vs 层级嵌套模型（nested hierarchy） — 传统理解将尺度视为俄罗斯套娃：大的包含小的，大的决定小的。关系性尺度分析认为，不同尺度有**不同的**规范、关系和运作逻辑，不可相互化约。例如，国家科学以国家为规范中心（法律、政策、拨款），全球科学则没有规范中心——由期刊、[[Document\|文献]]计量、传播网络和合作关系构成([[Argument_Marginson_2025_ECNUROE\|Marginson, 2025, pp. 8–9]])
 > - vs [[Methodological Nationalism\|方法论民族主义]] — 方法论民族主义将国家尺度视为唯一或首要的[[Unit of Analysis\|分析单位]]，遮蔽了其他尺度的独立运作逻辑。尺度分析正是超越方法论民族主义的核心工具
 > - vs [[Methodological Globalism\|方法论全球主义]] — 方法论全球主义是另一个方向的还原：认为国家尺度完全由全球尺度决定，否定了国家尺度的相对自主性。尺度分析要求同时容纳多重尺度，不将任何尺度还原为其他尺度
 

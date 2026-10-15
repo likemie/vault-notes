@@ -42,6 +42,7 @@ related_methods:
   - "[[Transcription in Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Questionnaire]]"
+  - "[[Classroom Observation]]"
   - "[[Grounded Theory]]"
   - "[[Memos]]"
   - "[[Audit Trail]]"
@@ -96,7 +97,7 @@ updated: 2026-10-08
 > 内容分析（Content Analysis）是通过严密的规则与程序对书面文本、口头[[Transcription in Qualitative Research\|转录]]、视听符号及各类传播材料进行系统拆解、范畴分类、[[Coding in Qualitative Research\|编码]]统计与意义诠释的研究方法。克劳斯·克里彭多夫（Klaus Krippendorff）将其权威界定为“从文本（或其他有意义的材料）向其使用语境作出可重复且有效推论的研究技术”。菲利普·迈林（Philipp Mayring）进一步强调其本质是对书面材料内容进行严格检验、分析与验证的一套受规则主导的严密程序。内容分析深度融合了质性意义阐释与量化计数分析，核心推论任务涵盖向文本生成的前因、文本内部特征以及文本对受众的效应作出推导。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, pp. 563–564)]]
 
 > [!method-scope] 方法范围
-> - **研究对象** 开放式[[Questionnaire\|问卷]]回答、访谈转录稿、课堂观察记录、政策公文、教科书、历史档案、报纸媒体、网页及社交平台交流等各类具传播意义的物理与数字文本材料。
+> - **研究对象** 开放式[[Questionnaire\|问卷]]回答、访谈转录稿、[[Classroom Observation|课堂观察]]记录、政策公文、教科书、历史档案、报纸媒体、网页及社交平台交流等各类具传播意义的物理与数字文本材料。
 > - **核心特征** 具备非介入性（unobtrusive measure，独立于研究者存在且不因被观察而发生行为扭曲）与公开可验证性（文本恒久留存，支持独立学者重复核验）。
 > - **[[Unit of Analysis\|分析单位]]** 抽样单位（sampling units）、记录或编码单位（recording or coding units，如词、短语、句子、段落、论题）与语境单位（context units，如整段、整篇或事件背景）。
 > - **语言事实四分类** 归因（attributions）、社会关系（social relationships）、公共行为（public behaviours）与制度现实（institutional realities）（Krippendorff, 2004）。

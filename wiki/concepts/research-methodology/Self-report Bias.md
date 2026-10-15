@@ -50,6 +50,7 @@ related_methods:
   - "[[Rating Scale]]"
   - "[[Effect Size]]"
   - "[[Sensitive Questions]]"
+  - "[[Classroom Observation]]"
   - "[[Correlational Research]]"
   - "[[Meta-analysis]]"
 related_persons:
@@ -251,7 +252,7 @@ updated: 2026-10-02
 > - **问题措辞中立化与非评判性表述（Neutral Wording）** 避免使用道德色彩浓厚或暗示“官方正确答案”的导向性语词；在敏感事项中提供合理解释以降低受访者的负罪感（如“许多教师在忙碌时难以查阅[[Document\|文献]]”）。
 > - **行为锚定与具体情境化（Behavioral Anchoring）** 避免抽象模糊的宏观自评（如“你是否经常使用研究”），改为具体、可验证的短期客观行为陈述（如“过去两周内，你是否基于学术期刊调整过教案”）。
 > - **生态瞬时评估与日志法（Ecological Momentary Assessment / Diaries）** 针对回忆衰减，要求受访者在行为发生当天或即时记录日志，替代跨越数月甚至数年的长周期事后回溯。
-> - **多源数据[[Triangulation\|三角互证]]（Data [[Triangulation]]）** 结合自报[[Questionnaire\|问卷]]与客观数据（行政调阅记录、数据库检索日志、第三方课堂观察与学生反馈）展开交叉验证。
+> - **多源数据[[Triangulation\|三角互证]]（Data [[Triangulation]]）** 结合自报[[Questionnaire\|问卷]]与客观数据（行政调阅记录、数据库检索日志、第三方[[Classroom Observation|课堂观察]]与学生反馈）展开交叉验证。
 > - **跨层级双向对照调查（Cross-level Multi-informant Design）** 在教育治理调查中，避免单一依赖教育行政当局自陈，同步纳入地方学区与一线教师问卷，通过多方数据比照对冲制度性自利粉饰。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 77, 80)]]
 
 ---

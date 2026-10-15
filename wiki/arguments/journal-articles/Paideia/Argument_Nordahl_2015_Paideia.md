@@ -37,6 +37,7 @@ related_concepts:
   - "[[Transfer Translation Transformation]]"
 related_theories: []
 related_methods:
+  - "[[Classroom Observation]]"
   - "[[Meta-analysis]]"
   - "[[Quantitative Research]]"
 related_persons:
@@ -134,7 +135,7 @@ citation_aliases:
 > 前面批掉了一条改革路线，这里必须给出另一条能站得住的路线，否则论证就只剩批评。
 >
 > 13. 真正的难点不在“有没有研究”，而在“研究怎么进入课堂”。这意味着学校改进不能停在报告、讲座或政策口号上，而要处理知识转化的问题(pp.66–67)。
-> 14. 被提出的替代机制包括能力建设（capacity building）、[[Knowledge Mobilisation\|知识动员]]（knowledge mobilization）、教师共同学习、课堂观察、辅导、基于数据的校本改进等。
+> 14. 被提出的替代机制包括能力建设（capacity building）、[[Knowledge Mobilisation\|知识动员]]（knowledge mobilization）、教师共同学习、[[Classroom Observation|课堂观察]]、辅导、基于数据的校本改进等。
 > 15. 这些机制之所以重要，是因为教师知识不是简单“接收”就能用，而需要在实践中被翻译、被消化、被重组，最后才能变成具体教学动作。
 >
 > > 一个很直观的例子：学校如果只是组织一次“反馈很重要”的讲座，教师回去以后往往还是照旧上课；但如果一群教师连续几周一起看学生[[Homework\|作业]]、讨论哪种反馈真的让学生知道下一步怎么学，再回课堂试，再回来复盘，那么“反馈”才真正从概念变成了教学动作。
@@ -166,7 +167,7 @@ citation_aliases:
 > 2. [[Visible Learning]] 的关键作用，不是提供一张可以直接照搬的干预排行榜，而是打破“各种教法都差不多”的惯性认知，迫使学校认真比较不同做法的学习效果(pp.61–64)。
 > 3. [[Evidence-Based Education\|循证教育]]被界定为一种“提高成功概率”的知识基础，而不是替教师自动下命令的技术系统；研究证据与 [[Professional Judgment]] 因而被处理成互补关系，而非彼此排斥(pp.63–65)。
 > 4. 改革失败常常不是因为学校缺少压力，而是因为把问题误诊成“动机不足”。[[No Child Left Behind Act 2001]] 被当作反例，用来说明单靠问责、竞争和奖惩并不会自然生成更好的教学(p.65)。
-> 5. 学校改进真正稀缺的，不只是研究知识本身，而是把知识转进课堂的组织机制。能力建设、[[Knowledge Mobilisation\|知识动员]]、教师协作、课堂观察和数据使用因此被放成改革成败的关键中介(pp.66–67)。
+> 5. 学校改进真正稀缺的，不只是研究知识本身，而是把知识转进课堂的组织机制。能力建设、[[Knowledge Mobilisation\|知识动员]]、教师协作、[[Classroom Observation|课堂观察]]和数据使用因此被放成改革成败的关键中介(pp.66–67)。
 > 6. 价值导向不能替代关于教学效果的知识。真正困难的问题不是“教育应不应该追求好价值”，而是“这些价值怎样落实成更可能让学生学会的教学行动”(pp.67–68)。
 
 > [!info]- 核心数据

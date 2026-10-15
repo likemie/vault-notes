@@ -40,6 +40,7 @@ related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Experimental Research]]"
+  - "[[Classroom Observation]]"
 related_instruments: []
 related_persons:
   - "[[Tina Seidel]]"
@@ -117,7 +118,7 @@ updated: 2026-09-27
 > [!finding-cards] 关键成效与辐射影响
 > - **高校师范培养体制的结构性重塑** 推动全德 70 余所综合大学建立实体化或协调性的教师教育专门架构，结束了学科专业（Fachwissenschaften）长期轻视学科教学论的传统孤岛状态。
 > - **催生欧陆本土教育证据清算[[Paradigm\|范式]]** 直接孵化出以慕尼黑工业大学 [[Clearing House Unterricht\|CHU]] 为代表的一批前沿[[Educational Brokerage Agency\|知识中介机构]]，探索出“高校团队研发—严格[[Meta-analysis\|元分析]]筛选—标准化德语 Kurzreviews 转化—以教师教育者为乘数辐射”的循证转移标准。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, pp. 13–16)]]
-> - **实证素养与[[Evidence-Based Education\|循证教育]]理念的早期植根** 评估表明，参与 QLB 改革项目的师范生在基于证据的课堂观察能力（Professional Vision）、教学反思深度以及对科学实证的态度上均呈现出统计上显著的高水平表现。
+> - **实证素养与[[Evidence-Based Education\|循证教育]]理念的早期植根** 评估表明，参与 QLB 改革项目的师范生在基于证据的[[Classroom Observation|课堂观察]]能力（Professional Vision）、教学反思深度以及对科学实证的态度上均呈现出统计上显著的高水平表现。
 
 ---
 

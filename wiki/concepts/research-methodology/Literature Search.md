@@ -4,7 +4,7 @@ aliases: ["文献检索", "文献搜索", "literature retrieval", "searching for
 summary: "研究过程中系统检索、筛选和评估文献的操作性步骤，包括检索策略、网络操作符、数据库选择、信息类型识别、文献优先级排序与质量评估及网站评估。"
 type: concept
 domain: "research-methodology"
-related_count: 58
+related_count: 57
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -72,7 +72,6 @@ related_arguments:
   - "[[Argument_Kratsios_2026_OSTP]]"
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
 related_instruments:
-  - "[[Teach Classroom Observation Tool]]"
   - "[[PRISMA]]"
 confidence: high
 status: active
@@ -145,7 +144,7 @@ Creswell 提出了一套系统的[[Document|文献]]检索流程（[[Argument_Cr
 
 > [!tip]- 四个检索操作符
 > - **引号（"..."）** 将词语保持在一起且顺序不变，减少返回网站数量
-> - **星号（\*）** 在词根后加星号，返回不同结尾的网站（如 [[Teach Classroom Observation Tool|Teach]]\* → teach, teaching, teacher）
+> - **星号（\*）** 在词根后加星号，返回不同结尾的网站（如 Teach\* → teach, teaching, teacher）
 > - **波浪号（\~）** 在词前加波浪号，识别相似词（如 \~English teaching 同时返回 English language 和 English teaching）
 > - **布尔操作符** and, not, or 连接词语或短语
 

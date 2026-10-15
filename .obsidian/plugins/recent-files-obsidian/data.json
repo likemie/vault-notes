@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Inter-Rater Reliability",
+      "path": "wiki/methods/quantitative/Inter-Rater Reliability.md"
+    },
+    {
       "basename": "Argument_WorldBank_2019_Teach",
       "path": "wiki/arguments/reports-policy-documents/Argument_WorldBank_2019_Teach.md"
     },
     {
+      "basename": "Observation Protocol",
+      "path": "wiki/methods/qualitative/Observation Protocol.md"
+    },
+    {
+      "basename": "Action Research",
+      "path": "wiki/methods/mixed/Action Research.md"
+    },
+    {
+      "basename": "Structured Observation",
+      "path": "wiki/methods/qualitative/Structured Observation.md"
+    },
+    {
       "basename": "Teach Classroom Observation Tool",
       "path": "wiki/instruments/observation-tools/Teach Classroom Observation Tool.md"
+    },
+    {
+      "basename": "Effective Teaching",
+      "path": "wiki/concepts/instruction-pedagogy/Effective Teaching.md"
+    },
+    {
+      "basename": "World Bank",
+      "path": "wiki/facts/global/World Bank.md"
+    },
+    {
+      "basename": "Plato",
+      "path": "wiki/persons/greece/Plato.md"
     },
     {
       "basename": "UNESCO",
@@ -19,10 +47,6 @@
     {
       "basename": "Argument_Castro_2009_MultilateralBanks",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Castro_2009_MultilateralBanks.md"
-    },
-    {
-      "basename": "World Bank",
-      "path": "wiki/facts/global/World Bank.md"
     },
     {
       "basename": "World Education Indicators",
@@ -175,30 +199,6 @@
     {
       "basename": "Academic Inbreeding",
       "path": "wiki/concepts/higher-education/Academic Inbreeding.md"
-    },
-    {
-      "basename": "Centros Concertados",
-      "path": "wiki/facts/spain/Centros Concertados.md"
-    },
-    {
-      "basename": "Plaintive Comparison",
-      "path": "wiki/concepts/comparative-education/Plaintive Comparison.md"
-    },
-    {
-      "basename": "PISA Literacy",
-      "path": "wiki/concepts/comparative-education/PISA Literacy.md"
-    },
-    {
-      "basename": "PISA Response in Spain",
-      "path": "wiki/facts/spain/PISA Response in Spain.md"
-    },
-    {
-      "basename": "Argument_Kazamias_2009_HistoricalReflections",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Kazamias_2009_HistoricalReflections.md"
-    },
-    {
-      "basename": "Free Semester System",
-      "path": "wiki/facts/south-korea/Free Semester System.md"
     }
   ],
   "omittedPaths": [],

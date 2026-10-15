@@ -6,7 +6,7 @@ aliases:
 summary: "以理由权衡、有目的的反思判断和自我调节为核心，统合认知技能、思维倾向、领域知识与情境标准；在教育研究中用于设计教学、界定学习结果并检验课程与评估的构念效度。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 116
+related_count: 118
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -34,6 +34,8 @@ related_concepts:
   - "[[Problem Finding]]"
   - "[[Definition of Terms]]"
   - "[[Metacognition]]"
+  - "[[Operationalization]]"
+  - "[[Rote Learning]]"
   - "[[Reflective Thinking]]"
   - "[[Blended Learning]]"
   - "[[Scaffolding]]"
@@ -41,7 +43,6 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Affective Outcomes]]"
   - "[[Heterogeneity]]"
-  - "[[Operationalization]]"
   - "[[Knowledge Questions]]"
   - "[[Construct Validity]]"
   - "[[Constructive Alignment]]"
@@ -85,6 +86,7 @@ related_theories:
   - "[[Human Capital Theory]]"
   - "[[Explicit Critical Thinking Instruction]]"
 related_methods:
+  - "[[Classroom Observation]]"
   - "[[Meta-analysis]]"
   - "[[Role-playing]]"
   - "[[Systematic Review]]"
@@ -101,6 +103,7 @@ related_methods:
   - "[[Multimodal Discourse Analysis]]"
   - "[[Correlational Research]]"
   - "[[Experimental Research]]"
+  - "[[Content Analysis]]"
 related_persons:
   - "[[Steve Higgins]]"
   - "[[Deanna Kuhn]]"
@@ -109,6 +112,7 @@ related_persons:
   - "[[Plato]]"
   - "[[Aristotle]]"
 related_facts:
+  - "[[World Bank]]"
   - "[[OECD]]"
   - "[[CRITHINKEDU Project]]"
   - "[[CALOHEE Project]]"
@@ -116,6 +120,7 @@ related_arguments:
   - "[[Argument_Hughes_2014_JRIE]]"
   - "[[Argument_Kuhn_2000_CD]]"
   - "[[Argument_Abrami_2015_RER]]"
+  - "[[Argument_WorldBank_2019_Teach]]"
   - "[[Argument_Cole_2015_AJE]]"
   - "[[Argument_Bouckaert_2023_OECD]]"
   - "[[Argument_Gungor_2026_CP]]"
@@ -140,7 +145,7 @@ related_instruments:
 confidence: medium
 status: stable
 created: 2026-06-30
-updated: 2026-10-13
+updated: 2026-10-15
 ---
 
 # Critical Thinking
@@ -210,21 +215,33 @@ updated: 2026-10-13
 > | **Ennis 课程架构分类** | 通用独立（General）、学科融入（Infusion）、学科沉浸（[[Presence\|immersion]]）与显性混合（Mixed） | 区分思维技能显性教授程度与学科知识架构关系，混合模式实证效果最优。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 280–281)]] |
 > | **Cambridge Assessment 框架** | 论证分析、信息相关性判断、主张与解释评价、论证建构和有理由的决策 | 适合考试任务设计，明确把阅读理解、问题解决、创造和三段论置于构念边缘或外部。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, p. 33)]] |
 > | **修订版 Bloom 分类法** | 记忆、理解、应用、分析、评价和创造 | 提供命令词层级；后三类可指示批判性或高阶思维，但行动词本身不能证明思维质量。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 33–35)]] |
+> | **[[World Bank\|世界银行]] Teach [[Classroom Observation\|课堂观察]]框架** | 开放式提问（6.1）、实质性思维任务（6.2）与学生主动探究（6.3） | 聚焦发展中国家初等教育微观课堂，打破死记硬背定势；确立死记硬背（低）、浅层匹配（中）与实质分析（高）三阶行为锚点。[[Argument_WorldBank_2019_Teach\|(World Bank Group, 2019, pp. 26–27)]] |
 
-> [!feature] [[Critical Thinking Strategies Scale\|CTSS]] 的 14 项可观察策略（四大认知集群）
-> - **[[Problem Finding\|问题界定]]与澄清** 澄清陌生[[Definition of Terms\|术语定义]]（1）、关联新旧知识经验（2）、多角度重构表述问题（3）、分解复杂子问题（4）。
+> [!feature] [[Critical Thinking Strategies Scale|CTSS]] 的 14 项可观察策略（四大认知集群）
+> - **[[Problem Finding|问题界定]]与澄清** 澄清陌生[[Definition of Terms|术语定义]]（1）、关联新旧知识经验（2）、多角度重构表述问题（3）、分解复杂子问题（4）。
 > - **论证分析与评估** 主动识别他人论证（5）、剖析推理与论据结构（6）、审慎评估主张可靠性（7）、设想替代解决路径（8）。
 > - **证据推理与求证** 依据证据得出审慎结论（9）、将主张严格限制于证据范围内（10）、兼顾搜索对立与支持材料（11）。
-> - **[[Metacognition\|元认知]]反思与沟通** 审视自身假设对视角的塑造（12）、辩护解题与论证策略选择（13）、以他人能理解的方式清晰呈现推理（14）。[[Argument_Cole_2015_AJE\|(Cole et al., 2015, pp. 252–255)]]
+> - **[[Metacognition|元认知]]反思与沟通** 审视自身假设对视角的塑造（12）、辩护解题与论证策略选择（13）、以他人能理解的方式清晰呈现推理（14）。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 252–255)]]
 
-> [!feature] [[California Critical Thinking Disposition Inventory\|CCTDI]] 的七种倾向
+> [!feature] [[California Critical Thinking Disposition Inventory|CCTDI]] 的七种倾向
 > - **求真** 证据挑战原有立场时仍继续追求较可靠的判断。
 > - **开放心态** 容纳不同观点并觉察自身偏见。
 > - **探究性** 对问题保持好奇和持续求知意愿。
 > - **分析性** 觉察潜在问题并重视理由与证据。
 > - **系统性** 有条理地处理复杂问题。
 > - **推理自信** 信任经审查的推理能力。
-> - **判断成熟度** 在不确定情境中考虑多种可能性和限制条件。[[Argument_Cole_2015_AJE\|(Cole et al., 2015, pp. 251–252, 257–258)]]
+> - **判断成熟度** 在不确定情境中考虑多种可能性和限制条件。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 251–252, 257–258)]]
+
+> [!index-table] Teach 课堂观察工具中的批判性思维三阶[[Operationalization|操作化]]规程与学科行为锚点
+> | 观察行为指标 | 低质量表现（Low: 1–2 分） | 中等质量表现（Medium: 3 分） | 高质量表现（High: 4–5 分） |
+> |---|---|---|---|
+> | **6.1 教师提出开放式问题**<br>（Open-Ended Questions） | 教师不提开放式问题，或仅提出 1 个封闭式单解问题（如“故事主角是谁？”、“-2 和 -6 哪个大？”）。 | 教师提出至少 2 个开放式问题，但未在学生回答基础上展开追问或深化。 | 教师提出 3 个及以上开放式问题，且至少 1 次基于学生回答进行追问，要求学生证明推理依据、进一步解释或澄清观点。 |
+> | **6.2 教师提供思维任务**<br>（Thinking Tasks） | **[[Rote Learning\|机械记忆]]与死记硬背（Rote Learning）** 学生单纯倾听、机械抄写板书或重复朗读例句。 | **浅层思维任务（Superficial Tasks）** 匹配成对项目、识别关键信息、对比明显特征，或在相似练习中机械套用教师示范解法。 | **实质性思维任务（Substantial Tasks）** 做出预测、归纳模式、解释思考过程、建立新旧关联、解释信息，并将规则迁移至全新任务。 |
+> | **6.3 学生提出开放式问题或执行思维任务**<br>（Student Epistemic Initiative） | 学生不提开放式问题，也不执行任何思维任务，仅被动接收信息。 | 学生不主动提问，但在指导下执行浅层思维任务。 | 学生主动提出探究性开放问题（如“为什么 6 - 9 会等于负数？”），或自主执行实质性思维任务。 |
+>
+> **跨学科典型学科行为对照（Teach 规程）**
+> - **语言学科（阅读／写作）** 低阶表现为机械认读字母与抄写范句；中阶表现为看图匹配首字母、回答关于主角与背景的事实提取题；高阶表现为探讨替换词首字母对词义与发音的生成规律、依据情节预测后续故事走向并与同伴互评、分析不同句式结构的表达优劣。
+> - **数学学科（数与代数／几何）** 低阶表现为机械背诵 1–100 数字与照抄公式算式；中阶表现为按大小对已知数列升降排序、运用固定公式套算黑板长方形面积；高阶表现为在多组数序列中自主探究公共数论规律、基于商品菜单设定预算进行真实找零情境估算、通过折纸染色探究等价分数模式并推导通则、测量并计算真实教室环境的几何面积。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 26–27)]]
 
 ---
 
@@ -350,6 +367,7 @@ updated: 2026-10-13
 > - **2000 年代　课程[[Operationalization|操作化]]与[[Construct Validity|构念效度]]审查** 修订版 Bloom 分类法、Cambridge Assessment 框架及 ToK 等显性探究课程推动概念进入课程目标、测量工具和评估标准，研究重点转向教学效果、迁移条件与构念效度。[[Argument_Hughes_2014_JRIE|(Hughes, 2014, pp. 33–35)]] [[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 249–250)]]
 > - **2000 年代　[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]下的工具化窄化与反思遮蔽** 批判政策学者揭示，在新自由主义全球治理与知识经济[[Discourse|话语]]下，批判性思维在政策层面被窄化为适应劳动力市场的非政治性技能，其民主公民批判与价值反思功能面临系统性遮蔽。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 446)]]
 > - **2010 年代至今　微观策略协同与高阶实证综合** [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] 通过大规模[[Meta-analysis|元分析]]确立了[[Authentic Instruction|真实性教学]]、对话与[[Mentorship|导师制]]三维协同干预机制；[[Argument_Li_2026_CEAI|Li et al. (2026)]] [[Systematic Review|系统综述]] 67 项高校实证研究，揭示生成式 AI 对批判性思维的双向塑造机制，确立了以反思提示和[[Epistemological Vigilance|认识论警觉]]防范[[Cognitive Offloading|认知卸载]]的教学干预体系。
+> - **2019 年　全球微观[[Classroom Observation|课堂观察]]与[[Rote Learning|死记硬背]]打破** [[World Bank|世界银行]]发布《Teach 观察员手册》（[[Argument_WorldBank_2019_Teach|World Bank Group, 2019]]），将批判性思维下沉为发展中国家初等教育课堂的核心评价要素（要素 6）；打破了将批判性思维视为仅属于高等教育或发达国家的精英偏见，在基础教育语境中将死记硬背（Rote Learning）与实质性[[Higher-Order Thinking Skills|高阶思维]]任务（Substantial Thinking Tasks）作出了严格的学科化行为锚定。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 26–27)]]
 
 ---
 
@@ -391,7 +409,7 @@ updated: 2026-10-13
 > [!warning] 教学与改革边界
 > - 高中生的认知发展水平可能限制证据比较和决策标准阐明，课程目标与评估要求需要考虑发展适切性。[[Argument_Zemplen_2007_SciEduc\|(Zemplén, 2007, pp. 173–174)]]
 > - 课程框架本身无法保证教学效果，教师培训、学校人员配置、课程组织、跨学科协作和课时安排都会影响实施。[[Argument_Cole_2015_AJE\|(Cole et al., 2015, pp. 255–259)]]
-> - 指南文本能够支持书面课程的构念审查，学生真实经历中的思维数量和质量还需课堂观察、表现任务与实施研究。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 31, 35)]]
+> - 指南文本能够支持书面课程的构念审查，学生真实经历中的思维数量和质量还需[[Classroom Observation|课堂观察]]、表现任务与实施研究。[[Argument_Hughes_2014_JRIE\|(Hughes, 2014, pp. 31, 35)]]
 
 ---
 
@@ -487,3 +505,4 @@ updated: 2026-10-13
 > - **[[Epistemic Cognition|认识论认知]]干预与批判性论证元分析** [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] 综合 26 项干预（$N = 4,373$），证实认识论认知干预对高阶论证产生强劲因果促进（$d = 1.047$），并确立基础教育阶段是认识论素养培育的黄金窗口。
 > - **[[Knowledge-Based Economy|知识经济]]规约与民主批判遮蔽** [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009, p. 446)]] 揭示新自由主义知识经济[[Social Imaginary|社会想象]]如何将教育还原为[[Human Capital Theory|人力资本]]投资，将批判性思维降格为市场工具并遮蔽公民民主反思。
 > - **[[Critical Thinking Assessment|批判性思维测评]]与测量方法学** 参见专门概念条目 [[Critical Thinking Assessment|批判性思维测评]]，该条目系统整合了从心理测量学客观测试（[[Watson-Glaser Critical Thinking Appraisal|WGCTA]]/[[California Critical Thinking Skills Test|CCTST]]）、自陈倾向[[Questionnaire|问卷]]（[[California Critical Thinking Disposition Inventory|CCTDI]]/[[Critical Thinking Strategies Scale|CTSS]]）到校本真实性评分量规（VALUE/[[CALOHEE Project|CALOHEE]]）的工具谱系、共同方法变异机制及形成性[[Formative Assessment|促学评价]]生态。
+> - **初等教育微观[[Classroom Observation|课堂观察]]与批判性思维[[Operationalization|操作化]]** [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] 在中低收入国家课堂观察工具 Teach 中将批判性思维操作化为开放式追问、实质性思维任务与学生主动提问三大微观行为，建立了区分[[Rote Learning|死记硬背]]与深层[[Content Analysis|内容分析]]的学科教学锚点。

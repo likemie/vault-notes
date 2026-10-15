@@ -51,6 +51,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Questionnaire]]"
+  - "[[Classroom Observation]]"
 related_instruments: []
 related_persons:
   - "[[Wolfgang Mitter]]"
@@ -126,7 +127,7 @@ updated: 2026-10-11
 > - **国家与联邦州联合教育报告（[[Bildung]] in Deutschland）** DIPF 牵头专家组每两年定期编制出版全德最高权威[[Comprehensive Education|综合教育]]白皮书，全面呈现国家教育体系全貌、财政投入、升学流动、移民融入与弱势群体公平性指标。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 140–141, 145)]]
 > - **计算机化测评技术中心（TBA Centre）** 为 [[PISA]]、[[Programme for the International Assessment of Adult Competencies\|国际成人能力评估项目]]（Programme for the International Assessment of Adult Competencies, PIAAC）等国际大型测评在德国的落地提供技术支撑，开发多语种计算机化测验交互界面与认知反应时（Response Time）分析模型。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]
 > - **国家教育监测信息门户（DIPF-Kompass）** 维护全国教育监测指标库与州立政策追踪系统，为政策制定者与学术界提供多维互动的拓扑数据可视化查询。[[Argument_Hartong_2018_GSE\|(Hartong, 2018, p. 145)]]
-> - **教育研究数据中心（FDZ Bildung）** 专注于质性视频数据、课堂观察量表与中小学标准化[[Questionnaire\|问卷]]的归档与二次利用，与 [[Institute for Educational Quality Improvement\|IQB]] 的大规模量化 FDZ 形成国家层面的功能互补。
+> - **教育研究数据中心（FDZ Bildung）** 专注于质性视频数据、[[Classroom Observation|课堂观察]]量表与中小学标准化[[Questionnaire\|问卷]]的归档与二次利用，与 [[Institute for Educational Quality Improvement\|IQB]] 的大规模量化 FDZ 形成国家层面的功能互补。
 > - **德国教育信息服务门户（Deutscher Bildungsserver）** 由联邦与 16 州委托 DIPF 运营的国家级教育导引门户，整合全域教学资源、课程标准与教育新闻。
 
 > [!citation-card] DIPF 在国家教育监测与[[Data Infrastructure\|数据基础设施]]中的法定枢纽职能

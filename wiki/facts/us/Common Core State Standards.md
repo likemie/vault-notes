@@ -12,7 +12,7 @@ subtype: policy
 region: "us"
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 37
+fact_related_count: 36
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -43,8 +43,7 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Elite Interview]]"
   - "[[Process Tracing]]"
-related_instruments:
-  - "[[Teach Classroom Observation Tool]]"
+related_instruments: []
 related_persons:
   - "[[Stanley Milgram]]"
   - "[[William H. Schmidt]]"
@@ -209,7 +208,7 @@ updated: 2026-10-15
 > [!citation-card] 证据利用在政策周期中的权变规律
 > 即便在最有利于循证决策的客观条件下，将实证研究与其他类型的证据相结合也是不可避免且切实期望的。这不仅是出于政治需要，也是服务于教育与政策本身的内在要求。面对未完成或充满争议的研究基础，明智的政策要求将基础实证研究与一线教育者在不同文化语境中如何教导学生的[[Professional Judgment|专业判断]]知识有机融合。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 19)]]
 >
-> *Even under the most favorable conditions, research will be combined with other types of evidence. Part of the reason will be political, but integrating research and other types of evidence can also serve policy and educational purposes. The research base may be inadequate or incomplete for the policy task, it may be inconsistent or contested, and wise policy may require that [[Blue Skies Research|Basic Research]] be combined with knowledge based on professional judgment about how best to [[Teach Classroom Observation Tool|Teach]] students in different educational and cultural contexts.*
+> *Even under the most favorable conditions, research will be combined with other types of evidence. Part of the reason will be political, but integrating research and other types of evidence can also serve policy and educational purposes. The research base may be inadequate or incomplete for the policy task, it may be inconsistent or contested, and wise policy may require that [[Blue Skies Research|Basic Research]] be combined with knowledge based on professional judgment about how best to Teach students in different educational and cultural contexts.*
 
 ---
 

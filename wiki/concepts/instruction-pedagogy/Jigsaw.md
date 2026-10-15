@@ -9,7 +9,7 @@ aliases:
 summary: "由 Elliot Aronson（1978）开创、Robert Slavin 发展的角色互补型合作学习模式。通过任务信息不对称构建高度积极互赖，经历原属组分工、专家组研讨、原属组轮流传授与个体独立测评，实现学业提升、偏见消除与同伴支持。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 21
+related_count: 20
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -40,8 +40,7 @@ related_methods:
   - "[[Confidence Interval]]"
   - "[[Correlational Research]]"
   - "[[Effect Size]]"
-related_instruments:
-  - "[[Teach Classroom Observation Tool]]"
+related_instruments: []
 related_persons: []
 related_facts: []
 related_arguments:
@@ -89,7 +88,7 @@ updated: 2026-10-15
 > [!feature] 拼图法的四阶段标准教学规程
 > - **阶段一：原属组分工（Home Groups）** 4–5 名不同背景与能力的学生组成原属组，每人领取不同子模块任务（如 A、B、C、D）。
 > - **阶段二：专家组研讨（Expert Groups）** 各原属组中负责相同模块的学生（所有 A、所有 B 等）重组成专家组，共同深读资料、讨论疑难、设计向原属组讲解的教学方法与板书要点。
-> - **阶段三：原属组传授与拼合（Return and [[Teach Classroom Observation Tool|Teach]]）** 专家返回各自原属组，按顺序轮流向其他组员讲授自己负责的模块并回答提问，组员做笔记，拼合全貌。
+> - **阶段三：原属组传授与拼合（Return and Teach）** 专家返回各自原属组，按顺序轮流向其他组员讲授自己负责的模块并回答提问，组员做笔记，拼合全貌。
 > - **阶段四：个体独立测验与评价（Individual Assessment）** 全体学生参加覆盖所有模块的独立测验，禁止同伴协助，检验个人独立掌握程度。
 
 > [!logic-map]- 拼图法角色互换与信息流动拓扑图

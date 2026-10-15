@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 35
+fact_related_count: 34
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -44,7 +44,6 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
-  - "[[Nikolas Rose]]"
   - "[[Franklin D. Roosevelt]]"
   - "[[Vannevar Bush]]"
   - "[[Leo Szilard]]"
@@ -69,7 +68,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-07
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Manhattan Project
@@ -79,7 +78,7 @@ updated: 2026-10-14
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> 曼哈顿工程（Manhattan Project）是二战期间美国政府由富兰克林·D. [[Nikolas Rose|罗斯]]福（[[Franklin D. Roosevelt]]）总统授权、[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）领导的美国[[Office of Scientific Research and Development|科学研究与开发办公室]]（[[Office of Scientific Research and Development|OSRD]]）统筹、陆军工兵部队与顶级科学家联合执行的绝密原子弹研制计划。该工程不仅直接加速了二战的终结，更确立了国家战略意志与顶尖科学共同体深度结盟的[[Technological Republic|技术共和国]]原型，构建了主导后半个世纪国际政治格局的原子威慑体系与[[Hard Power|硬实力]]基石。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4, 7–8)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 35–36)]]
+> 曼哈顿工程（Manhattan Project）是二战期间美国政府由富兰克林·D. 罗斯福（[[Franklin D. Roosevelt]]）总统授权、[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）领导的美国[[Office of Scientific Research and Development|科学研究与开发办公室]]（[[Office of Scientific Research and Development|OSRD]]）统筹、陆军工兵部队与顶级科学家联合执行的绝密原子弹研制计划。该工程不仅直接加速了二战的终结，更确立了国家战略意志与顶尖科学共同体深度结盟的[[Technological Republic|技术共和国]]原型，构建了主导后半个世纪国际政治格局的原子威慑体系与[[Hard Power|硬实力]]基石。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4, 7–8)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 35–36)]]
 
 > [!program-context] 项目背景与动员参数
 > - **立项时间 / 周期** 始于 1939 年 8 月爱因斯坦信函引发的战略预警，1942 年正式列入军工工程，1945 年成功完成三位一体（Trinity）核试验并交付实战部署，1946 年底转交民事原子能委员会（Atomic Energy Commission, AEC）。

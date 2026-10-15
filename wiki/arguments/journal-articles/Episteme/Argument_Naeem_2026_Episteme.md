@@ -62,8 +62,7 @@ related_theories:
   - "[[Virtue Epistemology]]"
   - "[[Extended Mind Theory]]"
 related_methods: []
-related_instruments:
-  - "[[Teach Classroom Observation Tool]]"
+related_instruments: []
 related_persons:
   - "[[Plato]]"
   - "[[Socrates]]"
@@ -84,9 +83,9 @@ title: "Argument_Naeem_2026_Episteme"
 argument_key: "Argument_Naeem_2026_Episteme"
 argument_display_title: "Teaching skills and intellectual virtues with generative AI"
 argument_kind: "journal-article"
-argument_related_count: 45
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_count: 44
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Episteme
 book_title: ""
@@ -449,7 +448,7 @@ issuing_organization: ""
 > [!citation-card] 教育[[Epistemology|认识论]]终极目标与生成式 AI 盲目依赖的规范性冲突
 > 教育的[[Epistemic Aims|认识论目标]]在于增强我们生物机体固有的认知能力，帮助我们习得关键的智力技能，并通过培育[[Open-Mindedness|思想开放]]、[[Creativity|创造力]]等[[Epistemic Virtues and Vices|理智美德]]来塑造具有健全品格的人。然而，尽管教育旨在向学生传授智力技能，对[[Generative Artificial Intelligence|生成式人工智能]]的盲目依赖却正在使他们[[Cognitive Deskilling|去技能化]]。（pp. 269–270）
 >
-> *Epistemic goals of education are to improve our onboard cognitive abilities, help us acquire new skills, and cultivate an intellectually virtuous character by instilling intellectual virtues such as open-mindedness, creativity, and more. While education aims to [[Teach Classroom Observation Tool|Teach]] students intellectual skills, relying on generative AI is deskilling them.*
+> *Epistemic goals of education are to improve our onboard cognitive abilities, help us acquire new skills, and cultivate an intellectually virtuous character by instilling intellectual virtues such as open-mindedness, creativity, and more. While education aims to Teach students intellectual skills, relying on generative AI is deskilling them.*
 
 > [!citation-card] [[Skill of Questioning|善于提问技能]]对把握解释性关联与深层理解的建构功能
 > 善于提问能够开启更深层次的理解。所谓理解，意味着把握解释性关联——即能够看清各个知识片段是如何以一种连贯且具解释力的方式有机拼合在一起的。善于提问宛如一束聚光灯，照亮了学生正在努力领会的概念的多元维度。它推动学生超越浮于表面的事实信息，去深度探寻观念背后的为什么与如何发生。（pp. 277–278）

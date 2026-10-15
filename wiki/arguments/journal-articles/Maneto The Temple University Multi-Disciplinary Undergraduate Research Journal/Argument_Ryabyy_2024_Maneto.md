@@ -9,7 +9,7 @@ title: "Argument_Ryabyy_2024_Maneto"
 argument_key: "Argument_Ryabyy_2024_Maneto"
 argument_display_title: "A horse derby, a missed connection, and hiking through the Alps: John Dewey's 1928 visit to the Soviet Union"
 argument_kind: "journal-article"
-argument_related_count: 20
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -43,7 +43,6 @@ related_persons:
   - "[[John Dewey]]"
   - "[[Stanislav Shatskii]]"
   - "[[Anatoly Lunacharsky]]"
-  - "[[Nikolas Rose]]"
   - "[[Isaiah Berlin]]"
   - "[[Sherwood Eddy]]"
 related_facts:
@@ -99,7 +98,7 @@ citation_aliases:
 >
 > ### 1. 背景：两国没有外交关系，但民间交流没有中断
 >
-> 1917 年 12 月，美国威尔逊政府决定不承认布尔什维克领导的苏俄新政府——原因是苏俄拒绝偿还沙皇时代的债务，还没收了美国在俄资产。此后三位美国总统延续了这一不承认政策，直到 1933 年[[Nikolas Rose|罗斯]]福才正式承认苏联(p.102)。
+> 1917 年 12 月，美国威尔逊政府决定不承认布尔什维克领导的苏俄新政府——原因是苏俄拒绝偿还沙皇时代的债务，还没收了美国在俄资产。此后三位美国总统延续了这一不承认政策，直到 1933 年罗斯福才正式承认苏联(p.102)。
 >
 > 但关键的是：没有外交关系不等于没有交流。在这十六年间，美国人持续前往苏联并写下见闻。1928 年夏天，一个由 25 名美国教育者组成的代表团访问了苏联，其中最具影响力的人物就是哥伦比亚大学哲学教授 [[John Dewey]]。
 >

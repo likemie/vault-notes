@@ -35,7 +35,8 @@ related_concepts:
   - "[[Examined Life]]"
   - "[[Mind and Its Wonders]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Classroom Observation]]"
 related_persons:
   - "[[John Dewey]]"
   - "[[Alfred Nobel]]"
@@ -54,7 +55,7 @@ updated: 2026-10-08
 ## 定义
 
 > [!info]
-> 心智导向学习过程是 Li (2012) 基于欧洲裔美国学习者词汇研究、学习者自述与课堂观察所识别的西方文化学习过程模型。该模型以心智（mind）发展为焦点，包含四个核心支柱：主动参与（active engagement）、探索与探究（exploration and inquiry）、思考与[[Critical Thinking\|批判性思维]]（thinking and critical thinking）、自我表达与沟通（self-expression and communication）([[Argument_Li_2012_Cambridge\|Li, 2012, p.108]])。
+> 心智导向学习过程是 Li (2012) 基于欧洲裔美国学习者词汇研究、学习者自述与[[Classroom Observation|课堂观察]]所识别的西方文化学习过程模型。该模型以心智（mind）发展为焦点，包含四个核心支柱：主动参与（active engagement）、探索与探究（exploration and inquiry）、思考与[[Critical Thinking\|批判性思维]]（thinking and critical thinking）、自我表达与沟通（self-expression and communication）([[Argument_Li_2012_Cambridge\|Li, 2012, p.108]])。
 
 > [!quote]
 > "Taking these elements together, European-American respondents almost unanimously (96 percent) made references to such mind-oriented learning processes. In comparison, only 68 percent of their Chinese peers did so."([[Argument_Li_2012_Cambridge\|Li, 2012, p.122]])

@@ -35,6 +35,7 @@ related_theories:
   - "[[Thomas Theorem]]"
 related_methods:
   - "[[Ethnography]]"
+  - "[[Classroom Observation]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -103,7 +104,7 @@ updated: 2026-10-08
 
 > [!influence-path] 影响路径
 > - **方法论反思路径** 构成了对素朴[[Interpretivism|诠释主义]]、纯粹[[Phenomenology\|现象学]]与相对主义[[Ethnography\|民族志]]的最强有力制衡，确立了“研究者必须超越被研究者自我报告”的批判性原则。
-> - **教育批判社会学** 深刻启迪了教育研究者：在课堂观察中不仅要记录学生的抱怨或教师的表态，更要穿透当事人的主观[[Discourse|话语]]，考察再生产机制、[[Cultural Capital\|文化资本]]分配与意识形态欺骗。
+> - **教育批判社会学** 深刻启迪了教育研究者：在[[Classroom Observation|课堂观察]]中不仅要记录学生的抱怨或教师的表态，更要穿透当事人的主观[[Discourse|话语]]，考察再生产机制、[[Cultural Capital\|文化资本]]分配与意识形态欺骗。
 > - **种族与移民理论** 开拓了英国族群关系社会学，奠定了住房阶级、制度性歧视与后殖民移民研究的理论传统。
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引

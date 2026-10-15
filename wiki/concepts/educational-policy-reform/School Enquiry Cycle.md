@@ -56,6 +56,7 @@ related_theories:
 related_methods:
   - "[[Action Research]]"
   - "[[Triangulation]]"
+  - "[[Classroom Observation]]"
   - "[[Experimental Research]]"
   - "[[Questionnaire]]"
   - "[[Correlational Research]]"
@@ -128,7 +129,7 @@ updated: 2026-09-21
 > [!feature] ESTI 八步[[Inquiry Cycle\|探究循环]]构成
 > - **步骤一：确立改进愿景与目标（Setting Vision and Goals）** 立足学校自身的发展愿景与真实迫切需求，明确以提升学生[[Academic Achievement\|学业成就]]与发展质量为导向的具体目标，防止盲目追逐外部热点。
 > - **步骤二：双源提出成因[[Hypothesis\|假设]]（Hypothesising Causes）** 结合一线教师的默会[[Phronesis\|实践智慧]]与外部学术研究[[Document\|文献]]（已知的可能诱因），就阻碍目标达成的潜在原因系统提出多重视角假设。
-> - **步骤三：多源校本数据收集（Data Collection）** 围绕最可能的成因假设，系统收集校内多元数据（如学生声音、学业表现、课堂观察记录等）。
+> - **步骤三：多源校本数据收集（Data Collection）** 围绕最可能的成因假设，系统收集校内多元数据（如学生声音、学业表现、[[Classroom Observation|课堂观察]]记录等）。
 > - **步骤四：数据质量审验与深度分析（Quality Analysis & Interpretation）** 严格核验收集数据的[[Reliability\|信度]]与效度，并展开深度分析，推动原始数据转化为有用信息。
 > - **步骤五：综合论证并得出成因结论（Drawing Conclusions）** 将分析结果与教师专业理解深度融合，明确引发学情问题的确切根因。
 > - **步骤六：依托实证文献搜寻解决方案（Seeking Solutions）** 针对已证实的根本原因，借助[[Research Learning Communities\|研究学习共同体]]（RLC）等中介协议与工具，检索并筛选经过验证的外部实证干预策略。

@@ -11,7 +11,7 @@ aliases:
 summary: "柏拉图探讨美德可教性与知识本质的经典过渡期对话录，提出了探究悖论（美诺悖论）、灵魂回忆说及童奴几何启发实验，既是西方先天论与启发式教学的奠基文本，也是现代教育技术批判收敛性诱导提问的核心靶标"
 type: concept
 domain: "educational-philosophy"
-related_count: 25
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -46,7 +46,6 @@ related_instruments: []
 related_persons:
   - "[[Plato]]"
   - "[[Socrates]]"
-  - "[[Nikolas Rose]]"
   - "[[René Descartes]]"
   - "[[Noam Chomsky]]"
 related_facts: []
@@ -56,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-24
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Meno
@@ -103,7 +102,7 @@ updated: 2026-10-14
 > - **美诺悖论（探究悖论）** 提出知识探究的逻辑两难：一个人既不能去寻找他已知的事物（因为他已知，无需寻找），也不能去寻找他未知的事物（因为他甚至不知道该寻找什么，且即便找到也无法辨认）。
 > - **灵魂回忆说（Anamnesis）** [[Plato|柏拉图]]破解探究悖论的核心形而上学假说：灵魂不朽并在降生前已获悉一切真理，后天的所谓学习并非从外部摄取新知，而是对灵魂固存真知的唤醒与重新提取。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 27)]]
 > - **童奴几何实验** [[Socrates|苏格拉底]]以连环几何设问引导一位未受教育的家奴男孩，解决“如何将一个面积为 4 的正方形面积加倍”的问题。在经历两倍边长（面积为 16）与 1.5 倍边长（面积为 9）的错误直觉受挫后，最终通过正方形对角线成功构造出面积为 8 的正方形。[[Argument_Li_2012_Cambridge|(Li, 2012, p. 28)]]
-> - **真实信念与知识之辨** 借用代达[[Nikolas Rose|罗斯]]（Daedalus）活动雕像的比喻，论证正确意见（True Belief）虽在实践中与知识同样有效，但若未通过因果推理与理性根据加以绑定（aitias logismos），便如未栓紧的雕像般容易逃逸；只有被理性证明拴住的正确意见才升华为知识。
+> - **真实信念与知识之辨** 借用代达罗斯（Daedalus）活动雕像的比喻，论证正确意见（True Belief）虽在实践中与知识同样有效，但若未通过因果推理与理性根据加以绑定（aitias logismos），便如未栓紧的雕像般容易逃逸；只有被理性证明拴住的正确意见才升华为知识。
 
 > [!logic-map]- 《美诺篇》[[Epistemology|认识论]]与教学推进链
 > ```mermaid

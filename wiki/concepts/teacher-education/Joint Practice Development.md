@@ -48,6 +48,7 @@ related_concepts:
 related_theories:
   - "[[Third Generation Activity Theory]]"
 related_methods:
+  - "[[Classroom Observation]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -78,7 +79,7 @@ updated: 2026-09-22
 
 > [!concept-lens] 概念透镜
 > - **核心功能** 充当连接外部科学研究证据、校本探究数据与微观常态课堂教学的转化与共创中枢。
-> - **理论用途** 解释为何单纯向学校下发研究简报或优秀教案无法促成实质改进，揭示以同伴相互学习与课堂观察为特征的情境化专业学习机理。
+> - **理论用途** 解释为何单纯向学校下发研究简报或优秀教案无法促成实质改进，揭示以同伴相互学习与[[Classroom Observation|课堂观察]]为特征的情境化专业学习机理。
 > - **制度边界** 区别于自上而下的外包式教师在职培训（CPD），也区别于仅停留在会议室口头研讨的非情境化交流。
 
 > [!citation-card] 联合实践发展作为证据在课堂测试与微调的操作平台

@@ -35,8 +35,8 @@ related_methods:
   - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
-  - "[[Nikolas Rose]]"
   - "[[Gita Steiner-Khamsi]]"
+  - "[[Nikolas Rose]]"
 related_facts:
   - "[[OECD]]"
   - "[[World Bank]]"
@@ -60,7 +60,7 @@ updated: 2026-10-14
 > - **代表贡献** 系统区分跨国政策学习的不同路径类型（复制、仿效、启发等），揭示政策移植并非中立技术过程而是充满政治与情境选择的社会行动；其经验汲取概念在比较教育政策、社会政策与公共行政领域均产生了深远影响。
 
 > [!citation-card] 经验汲取：从他处汲取解决本国问题的启示
-> 经验汲取（Lesson-Drawing）指决策者基于对其他时间或地点已运转项目的认识，提出行动方案的过程。[[Nikolas Rose|罗斯]]指出这一过程并非被动移植，而涉及对经验的主动提炼、情境适配与政治诠释；凡引发经验汲取冲动的，首先是国内压力——现行政策的失败、公众批评或议程危机——而非单纯对外部成功范本的仰慕。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
+> 经验汲取（Lesson-Drawing）指决策者基于对其他时间或地点已运转项目的认识，提出行动方案的过程。罗斯指出这一过程并非被动移植，而涉及对经验的主动提炼、情境适配与政治诠释；凡引发经验汲取冲动的，首先是国内压力——现行政策的失败、公众批评或议程危机——而非单纯对外部成功范本的仰慕。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
 >
 > *Lesson-drawing is the process by which policymakers draw on knowledge of programs already in effect at other times or places to produce a proposal for policy action. The process is not passive import but involves active distillation, contextual adaptation, and political interpretation.*
 
@@ -97,7 +97,7 @@ updated: 2026-10-14
 ## 核心思想
 
 > [!claim] 经验汲取的类型学：从复制到启发
-> [[Nikolas Rose|罗斯]]系统区分了政策经验汲取的五种路径，揭示跨国政策移植并非单一同质过程而是存在从刚性到柔性的连续谱系：
+> 罗斯系统区分了政策经验汲取的五种路径，揭示跨国政策移植并非单一同质过程而是存在从刚性到柔性的连续谱系：
 > - **复制（Copying）** 不加修改地照搬他国完整项目，政治与制度风险最高；
 > - **仿效（Emulation）** 以成功范本为目标，在本国情境下加以调适；
 > - **混合（Hybridisation）** 将多国不同经验的要素组合为新方案；
@@ -115,7 +115,7 @@ updated: 2026-10-14
 > [!influence-path] 影响路径
 > - **理论路径** "经验汲取"框架成为比较政治学、公共行政学、社会政策与比较教育学中研究政策转移的[[Criterion-Referenced Test\|标准参照]]理论，是 David Dolowitz & David Marsh（2000）政策转移研究的重要理论前驱。
 > - **方法路径** 奠定了跨国政策比较研究以"政策旅行（policy travel）"与"情境适配（contextual fit）"为[[Unit of Analysis\|分析单元]]的方法传统。
-> - **教育政策影响** 吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）系统将[[Nikolas Rose|罗斯]]的经验汲取理论引入比较教育研究，发展出"[[Externalization\|外化]]"（[[Externalization]]）概念与[[Policy Borrowing\|政策借用]]批判分析；[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024)]] 在分析国际组织如何打包和传递政策经验时，仍直接援引 Rose（1993）的经验汲取类型学。
+> - **教育政策影响** 吉塔·施泰纳-哈姆西（[[Gita Steiner-Khamsi]]）系统将罗斯的经验汲取理论引入比较教育研究，发展出"[[Externalization\|外化]]"（[[Externalization]]）概念与[[Policy Borrowing\|政策借用]]批判分析；[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024)]] 在分析国际组织如何打包和传递政策经验时，仍直接援引 Rose（1993）的经验汲取类型学。
 
 ---
 
@@ -124,7 +124,7 @@ updated: 2026-10-14
 > [!person-network] 关系网络
 > - **理论传承** [[Gita Steiner-Khamsi]] — 将 Rose 的经验汲取理论引入比较教育并发展出"[[Externalization\|外化]]"批判概念的核心学者。
 > - **学术对话** David Dolowitz & David Marsh — 在 Rose 框架基础上发展政策转移研究的后续学者。
-> - **思想背景** Harold Lasswell — [[Policy Science in Comparative Education\|政策科学]]传统的先行者，[[Nikolas Rose|罗斯]]的政策学习研究在这一传统内深根。
+> - **思想背景** Harold Lasswell — [[Policy Science in Comparative Education\|政策科学]]传统的先行者，罗斯的政策学习研究在这一传统内深根。
 
 ---
 

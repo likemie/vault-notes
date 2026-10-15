@@ -30,6 +30,7 @@ related_theories:
   - "[[Confucian Learning Tradition]]"
 related_methods:
   - "[[Experimental Research]]"
+  - "[[Classroom Observation]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -90,7 +91,7 @@ Inagaki、Hatano and Morita 对日本课堂的研究发现，尽管口头表达�
 > - 同样的条件**提高**了欧裔美国学生的表现，并使他们更放松
 > - Li 总结："对欧裔美国人，说话增强思考；对东亚人，说话干扰思考"
 
-**课堂观察([[Argument_Li_2012_Cambridge|Li, 2012, pp.116-117]])**
+**[[Classroom Observation|课堂观察]]([[Argument_Li_2012_Cambridge|Li, 2012, pp.116-117]])**
 > - 日本学生"口头表达很少，但日记和书面[[Homework\|作业]]中充满问题、困惑和争论"
 > - 中国学生被反复观察到"对教师表现出全神贯注的注意，即使从外部视角看教学并不那么引人入胜"
 > - 当被点到时，学生被期望**准备好回答并回答得好**——这种"准备就绪"被视为[[Student Engagement\|学生投入]]和良好[[Student Attitude\|学习态度]]的标志

@@ -11,7 +11,7 @@ aliases:
 summary: "研究知识进入政策与实践过程的多种路径与机制，涵盖研发、问题解决、互动与战术模型；经历从单向推送、协同生产到系统生态的三代演进，并在当代走向权力共享的证据民主化与长效伙伴关系；在宏观政策生命周期中面临政治过滤，在中观上受治理机制制约，在微观上表现为知觉控制驱动的专业教学整合行为。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 121
+related_count: 120
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -111,7 +111,6 @@ related_methods:
   - "[[Correlational Research]]"
   - "[[Narrative Synthesis]]"
 related_instruments:
-  - "[[Teach Classroom Observation Tool]]"
   - "[[Research Literacy Scale for Teachers]]"
 related_persons:
   - "[[Mark Rickinson]]"
@@ -173,7 +172,7 @@ updated: 2026-10-15
 > 
 > “决策者倾向于在政策研制阶段运用研究证据作为防范政治争议的‘去政治化护盾’，将自身价值偏好包裹在科学严谨性的[[Discourse|话语]]之下。然而，由于学术实证在操作细节上往往存在知识盲区，真正促成方案落地的关键在于将有限的研究证据、学科内在结构逻辑与一线实践者的[[Professional Judgment|专业判断]]紧密协同起来。”（[[Argument_McDonnell_2013_AJE|McDonnell & Weatherford, 2013, pp. 13–15, 19]]）
 > 
-> *“Evidence can serve as a shield against political controversies, providing legitimacy for policy designs... yet because empirical evidence rarely answers all operational questions, wise policy requires combining research evidence with disciplinary expert deduction and professional judgment about how best to [[Teach Classroom Observation Tool|Teach]] students.”*
+> *“Evidence can serve as a shield against political controversies, providing legitimacy for policy designs... yet because empirical evidence rarely answers all operational questions, wise policy requires combining research evidence with disciplinary expert deduction and professional judgment about how best to Teach students.”*
 
 > [!citation-card] 教师专业教学整合中的外显行为表现
 > 教师对研究的利用并不等同于孤立的[[Document|文献]]阅读或机械执行外部处方，而是将科研证据有机融入日常教学活动规划、备课设计、教学法知识更新以及专业教研反思之中的外显行为表现。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, p. 6, p. 14)]]

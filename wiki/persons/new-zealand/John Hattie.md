@@ -8,7 +8,7 @@ summary: "新西兰教育统计学家，Visible Learning作者与元分析综合
 type: person
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 126
+person_related_count: 125
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
@@ -97,7 +97,6 @@ related_methods:
   - "[[Intraclass Correlation Coefficient]]"
 related_persons:
   - "[[Gerald Grace]]"
-  - "[[Nikolas Rose]]"
   - "[[Niklas Luhmann]]"
   - "[[John Biggs]]"
   - "[[Thomas Nordahl]]"
@@ -157,7 +156,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 # John Hattie
 
@@ -247,7 +246,7 @@ updated: 2026-10-14
 > - **理论路径** 撼动了 1970–1990 年代以学生为中心的[[Radical Constructivism\|激进建构主义]]教学浪漫主义，重新确立了[[Direct Instruction\|直接教学]]、显性教学与掌握学习在教学论中的正当性；推动将师生认知互动、[[Metacognition\|元认知监控]]与反馈循环整合为统一的课堂[[Effective Teaching\|有效教学]]模型；晚期提出的三阶段学习模型推动了[[Surface and Deep Learning\|表层学习]]到深层概念迁移的[[Epistemology\|认识论]]建构。
 > - **方法路径** 开创并普及了教育领域的大规模[[Meta-meta-analysis\|元综合]]方法论，将跨越数十年、涉及数千万样本的[[Heterogeneity\|异质性]]研究统一置于以标准差为基准的通用连续体（$d$ 指标）上；首创[[Effect Size\|效应量]]“关节点”（$d=0.40$）与影响气压计可视化工具，成为全球循证政策与智库证据工具箱（如英国 [[Education Endowment Foundation\|EEF]] Toolkit）的标准参考框架。
 > - **政策路径** 深度嵌入盎格鲁-撒克逊国家的国家教育标准制定：成为[[New Zealand National Standards\|新西兰国家标准]]和教师评估工具（[[Assessment Tools for Teaching and Learning\|asTTle]]）的基石；直接主导澳大利亚教学与[[School Leadership\|学校领导力]]研究院（[[Australian Institute for Teaching and School Leadership\|AITSL]]）的国家专业标准制定；成为澳大利亚维多利亚州高影响教学策略（[[Victorian HITS and Literacy Toolkit\|HITS]]）的核心蓝本；被英国教育部 Coldwell et al.（2017）列为官方认可证据来源。[[Argument_Bainbridge_2022_ROE\|(Bainbridge et al., 2022, p. 4)]]
-> - **跨国／跨领域传播** 从学术专著演变为覆盖至少 23 个国家的跨国商业与[[Policy Brokerage\|政策中介]]复合体；在斯堪的纳维亚半岛（挪威、丹麦、瑞典）被[[Transfer Translation Transformation\|转译]]为推动学校组织变革与数据协作的支点，重塑[[Professional Judgment\|专业判断]]与[[Knowledge Mobilisation\|知识动员]]。[[Argument_Nordahl_2015_Paideia\|(Nordahl, 2015, pp. 61–69)]]；引发丹麦 2014 学校改革的激烈公共争议；在俄[[Nikolas Rose|罗斯]]引发标准化课程应用论争；在跨国[[Governing by Numbers\|数字治理]]实证中揭示出主权国家在硬性行政法令起草中对个体学术明星的断崖式过滤。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
+> - **跨国／跨领域传播** 从学术专著演变为覆盖至少 23 个国家的跨国商业与[[Policy Brokerage\|政策中介]]复合体；在斯堪的纳维亚半岛（挪威、丹麦、瑞典）被[[Transfer Translation Transformation\|转译]]为推动学校组织变革与数据协作的支点，重塑[[Professional Judgment\|专业判断]]与[[Knowledge Mobilisation\|知识动员]]。[[Argument_Nordahl_2015_Paideia\|(Nordahl, 2015, pp. 61–69)]]；引发丹麦 2014 学校改革的激烈公共争议；在俄罗斯引发标准化课程应用论争；在跨国[[Governing by Numbers\|数字治理]]实证中揭示出主权国家在硬性行政法令起草中对个体学术明星的断崖式过滤。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
 > - [[Argument_Hattie_2005_ACER\|Hattie, 2005]] — 在 [[Australian Council for Educational Research\|ACER]] 大会发表奠基性论文，首次系统提出 $d=0.40$ 关节点、30% 教师方差份额模型与 asTTle 形成性问责理论体系。

@@ -9,7 +9,7 @@ title: "Argument_Boyadjieva_2022_Springer"
 argument_key: "Argument_Boyadjieva_2022_Springer"
 argument_display_title: "(Un)avoidable clash: Higher education at the altar of its missions and rankings"
 argument_kind: "book"
-argument_related_count: 28
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#ede9fe"
@@ -54,7 +54,6 @@ related_persons:
   - "[[Alfred Nobel]]"
   - "[[Pepka Boyadjieva]]"
   - "[[Ellen Hazelkorn]]"
-  - "[[Nikolas Rose]]"
 related_facts:
   - "[[Academic Ranking of World Universities]]"
   - "[[UN Sustainable Development Goals]]"
@@ -306,7 +305,7 @@ Boyadjieva 公平地承认，一些排名系统已经意识到了上述问题并
 > 拥有顶尖排名大学可以提升一个国家的国际声望和软实力。Cantwell（2016, p.316）指出："排名构成了国家权力的标志之一。"排名还可以"提升一个国家的软实力，因为排名将一国的高教系统呈现为'强大'或'卓越'"（ibid, p.317, p.138）。这意味着，排名的压力不仅来自大学内部，更来自国家层面——政府要大学提升排名，因为排名关乎国家颜面。
 >
 > > [!example]
-> > 中国、沙特阿拉伯、俄[[Nikolas Rose|罗斯]]等国近年来投入巨额资金建设"世界一流大学"，很大一部分动力就来自全球排名所定义的国家竞争力叙事。一所大学不参与排名，不仅是自己"低调"，而且会被本国政府视为"缺乏国家荣誉感"。
+> > 中国、沙特阿拉伯、俄罗斯等国近年来投入巨额资金建设"世界一流大学"，很大一部分动力就来自全球排名所定义的国家竞争力叙事。一所大学不参与排名，不仅是自己"低调"，而且会被本国政府视为"缺乏国家荣誉感"。
 
 > **锁链 5：[[Path Dependence|技术锁定]]——你不上榜也不会消失**
 >

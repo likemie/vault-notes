@@ -86,7 +86,7 @@ related_methods:
   - "[[Random Assignment]]"
 related_instruments:
   - "[[PRISMA]]"
-  - "[[Teach Classroom Observation Tool]]"
+  - "[[Framework for Teaching]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -105,7 +105,7 @@ title: "Argument_Cartiff_2021_JEP"
 argument_key: "Argument_Cartiff_2021_JEP"
 argument_display_title: "The effect of epistemic cognition interventions on academic achievement: A meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 67
+argument_related_count: 66
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -271,7 +271,7 @@ journal: "Journal of Educational Psychology"
 
 #### 1. 讲授具体确证策略的指导式教学相比放任型问题解决和辩论更具优势
 
-> [!ref-table]- 表 3：干预教学框架[[Moderator Analysis\|调节变量分析]]（p. 486）
+> [!ref-table]- 表 3：干预[[Framework for Teaching|教学框架]][[Moderator Analysis\|调节变量分析]]（p. 486）
 > | 教学框架 | 被试量（N） | 样本量（k） | 效应量（d） | 95% 置信区间（95% CI） | Z 值 | Q 值 | df |
 > |---|---|---|---|---|---|---|---|
 > | 指导式探究 | 893 | 7 | .808 | [.313, 1.302] | 3.198*** | 101.035*** | 6 |
@@ -531,9 +531,9 @@ journal: "Journal of Educational Psychology"
 > *Our analyses reveal that epistemic cognition interventions, on average, have a positive influence on academic achievement. Further, epistemic cognition interventions based on source evaluation and guided inquiry instruction are particularly promising.*
 
 > [!citation-card] 指导式探究与信源评估的机制优势
-> 我们将每项干预归入六类教学框架之一，发现那些聚焦于显性指导或某种形式指导式探究的干预，优于[[Problem-Based Learning\|基于问题的学习]]和论证干预。研究者曾指出，让学生接触对立冲突的视角对于促进认识论转变至关重要。信源评估干预使学生接触到关于某一主题具有多元相左立场的文本源，并直接向学生讲授如何评估这些信源的策略。（p. 492）
+> 我们将每项干预归入六类[[Framework for Teaching|教学框架]]之一，发现那些聚焦于显性指导或某种形式指导式探究的干预，优于[[Problem-Based Learning\|基于问题的学习]]和论证干预。研究者曾指出，让学生接触对立冲突的视角对于促进认识论转变至关重要。信源评估干预使学生接触到关于某一主题具有多元相左立场的文本源，并直接向学生讲授如何评估这些信源的策略。（p. 492）
 >
-> *We grouped each intervention into one of six types of instructional framework and found that those focused on explicit instruction or some form of guided inquiry outperformed problem-based learning and argumentation interventions. Researchers have suggested that engaging students with contrasting perspectives is critical for facilitating epistemic change. Source evaluation interventions expose students to sources with multiple, diverging perspectives on a topic and directly [[Teach Classroom Observation Tool|Teach]] students strategies on how to evaluate these sources.*
+> *We grouped each intervention into one of six types of instructional framework and found that those focused on explicit instruction or some form of guided inquiry outperformed problem-based learning and argumentation interventions. Researchers have suggested that engaging students with contrasting perspectives is critical for facilitating epistemic change. Source evaluation interventions expose students to sources with multiple, diverging perspectives on a topic and directly Teach students strategies on how to evaluate these sources.*
 
 > [!citation-card] 干预时长悖论与测验错配的理论反思
 > 较长周期的干预（通常持续约一学期）占据了[[Document\|文献]]中相当大的比重，然而我们发现较短周期的干预反而取得了更好的结果。这可能是因为较短干预中所使用的[[Achievement and Aptitude Tests\|成就测验]]与干预目标契合度更高，也可能是因为简短研究中认识论认知教学的浓度更高，还可能是由于长期实施中的[[Fade-out Effect\|效应衰退]]问题。（p. 493）

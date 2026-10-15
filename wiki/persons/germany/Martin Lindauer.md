@@ -7,7 +7,7 @@ summary: "德国动物行为学家与社会生物学家，慕尼黑大学动物�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 10
+person_related_count: 9
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -32,7 +32,6 @@ related_instruments: []
 related_persons:
   - "[[Karl von Frisch]]"
   - "[[Thomas D. Seeley]]"
-  - "[[Nikolas Rose]]"
 related_facts:
   - "[[Nobel Prize in Physiology or Medicine]]"
   - "[[Eck Swarm Experiment]]"
@@ -41,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Martin Lindauer
@@ -66,7 +65,7 @@ updated: 2026-10-14
 
 > [!timeline] 生平与职涯
 > - **1918** 出生于德国巴伐利亚南部的一个拥有 15 个子女的农户家庭，自幼在其父亲的蜂房熏陶下对蜜蜂生态产生浓厚兴趣。
-> - **1939–1942** 二战爆发后在德国陆军服役三年；1942 年在俄[[Nikolas Rose|罗斯]]前线负伤后从军队退役并彻底投身科学研究。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 115)]]
+> - **1939–1942** 二战爆发后在德国陆军服役三年；1942 年在俄罗斯前线负伤后从军队退役并彻底投身科学研究。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, p. 115)]]
 > - **1947–1955** 进入慕尼黑大学动物学研究所，师从[[Karl von Frisch|卡尔·冯·弗里施]]开展博士后与独立研究；1951 年 6 月在慕尼黑植物园对[[Eck Swarm Experiment|埃克蜂群]]展开连续野外观测。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 115–117)]]
 > - **1955** 在《比较生理学杂志》（*Journal of Comparative Physiology*）发表奠基性论文《蜜蜂蜂群的寻巢行为》（*House-Hunting by Honey Bee Swarms*），系统阐明两万至三万只蜜蜂协同迁巢的无中心决策机制。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 116–120)]]
 > - **1963–1987** 先后担任法兰克福大学与维尔茨堡大学动物学教授，创建了享誉国际的感官生理学与社会生物学研究中心。

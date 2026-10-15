@@ -97,12 +97,12 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Donald A. Schön]]"
-  - "[[Nikolas Rose]]"
   - "[[Aristotle]]"
   - "[[John Hattie]]"
   - "[[Peter A. Hall]]"
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
+  - "[[Nikolas Rose]]"
   - "[[Jürgen Habermas]]"
 related_facts:
   - "[[OECD]]"
@@ -162,7 +162,7 @@ updated: 2026-10-14
 > *Evidence does not speak for itself (Coburn et al., 2009)... The focus within much of the literature has been on the production and availability of research rather than its use... High-quality use requires not just appropriate evidence, but thoughtful engagement by professionals who interpret, debate and integrate research within their specific context.*
 
 > [!citation-card] 里兹维与林加德论技术理性对教育哲学辩论的遮蔽与数字霸权
-> [[OECD|经合组织]]在教育统计领域的技术专长赋予了所谓的“数字进路”以政策特权，这种进路[[Epoché|悬置]]了关于教育目的的广泛哲学讨论，转而聚焦于投入产出系统，企图仅就国家教育系统的效率与效能提供政策洞见……通过这种政策研究的技术进路，经合组织成功地使技术优先于政治。正如[[Nikolas Rose|罗斯]]（Rose, 1999）所论证的，数字的力量恰恰在于“使衡量、尺度与数字背后极其复杂的判断与决断变得隐形且不可辩驳”。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
+> [[OECD|经合组织]]在教育统计领域的技术专长赋予了所谓的“数字进路”以政策特权，这种进路[[Epoché|悬置]]了关于教育目的的广泛哲学讨论，转而聚焦于投入产出系统，企图仅就国家教育系统的效率与效能提供政策洞见……通过这种政策研究的技术进路，经合组织成功地使技术优先于政治。正如罗斯（Rose, 1999）所论证的，数字的力量恰恰在于“使衡量、尺度与数字背后极其复杂的判断与决断变得隐形且不可辩驳”。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 >
 > *This expertise however privileges what might be referred to as 'a number approach' to policy work, which sidelines the broader philosophical discussions of educational purpose, focussing instead on an input/output systems; attempting to offer policy insights about the efficiency and effectiveness of national educational systems... In this way, the technical is privileged over the political, and the popular [[Social Imaginary|Social Imaginary of the Knowledge Economy]] is sustained. As Rose (1999) has argued, policy as numbers tends to do this – the power of numbers is such that they 'render invisible and hence incontestable – the complex array of judgements and decisions that go into a measurement, a scale, a number'.*
 

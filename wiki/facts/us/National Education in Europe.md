@@ -14,7 +14,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 30
+fact_related_count: 29
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -50,7 +50,6 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Henry Barnard]]"
-  - "[[Nikolas Rose]]"
   - "[[Brian Holmes]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
@@ -68,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # National Education in Europe
@@ -81,7 +80,7 @@ updated: 2026-10-14
 
 > [!policy-context] 政策与[[Document\|文献]]背景
 > - **出版时间 / 作者背景** 1854 年由美国著名教育改革家、康涅狄格州与罗得岛州公共教育督办、后任美国首任联邦教育专员的[[Henry Barnard\|亨利·巴纳德]]（Henry Barnard, 1811–1900）在哈特福德（Hartford）初版发行；1872 年由纽约 E. Steiger 出版社大幅扩充为两卷本重磅巨著《国民教育：各国公共教育体制、制度与统计》。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 31–32)]]
-> - **适用地区 / 覆盖范围** 涵盖欧洲近二十个主要国家与城邦（以普鲁士及德意志各邦为主，系统囊括法国、瑞士、英国、爱尔兰、奥地利、比利时、荷兰、丹麦、瑞典、挪威、俄[[Nikolas Rose|罗斯]]与希腊等）；面向全美各州议会教育委员会、州与市镇督学、[[Normal School\|师范学院]]师生以及比较教育学者。（pp. 31–33; Barnard, 1872）
+> - **适用地区 / 覆盖范围** 涵盖欧洲近二十个主要国家与城邦（以普鲁士及德意志各邦为主，系统囊括法国、瑞士、英国、爱尔兰、奥地利、比利时、荷兰、丹麦、瑞典、挪威、俄罗斯与希腊等）；面向全美各州议会教育委员会、州与市镇督学、[[Normal School\|师范学院]]师生以及比较教育学者。（pp. 31–33; Barnard, 1872）
 > - **问题背景** 19 世纪中叶北美[[Common School Movement\|公学运动]]已由早期的意识形态破冰转向实质性的制度建制与精细化管理；各州在推行义务入学、重构地方税制、建立公立师范学校与编制课程标准时，急切需要一份超越个别游记见闻、具有权威法典依据与精确统计支持的跨国制度资料全集。（pp. 32–33; Holmes, 1965）
 > - **制度位置与学科史定位** 比较教育史上从政治修辞型“[[Auslandspadagogik\|外国教育学]]”（[[Auslandspadagogik]]）跨越至“百科全书式历史与统计档案汇纂”（[[Encyclopaedism]]）的最高里程碑；为美国公共教育建制化提供了最坚实的技术参照与合法化证据库。（pp. 32–34）
 

@@ -24,6 +24,7 @@ tags:
   - theme/un-sdgs
 related_concepts:
   - "[[Data Infrastructure]]"
+  - "[[Learning Crisis]]"
   - "[[Commensuration]]"
   - "[[Governing by Numbers]]"
   - "[[Policy Brokerage]]"
@@ -64,7 +65,7 @@ updated: 2026-10-15
 > - **立项时间 / 周期** 2021 年启动，与 2030 年联合国可持续发展议程时间跨度相锚定。
 > - **发起方与联合执行部门** 由 UNESCO 统计研究所、UNICEF 评估与研究局、世界银行教育全球实践局（Education Global Practice）三大巨头联合牵头。
 > - **覆盖范围与对象** 重点针对全球南方严重匮乏常态化学业评价数据的低收入与中等收入国家，统筹基础教育阶段的学生学业数据流。
-> - **核心问题导向** 全球超过三分之一的发展中国家完全缺乏可比的学业质量评估数据，导致针对“学习贫困”（Learning Poverty）与 SDG 4.1.1 关键指标的国际监测陷入巨大信息盲区。
+> - **核心问题导向** 全球超过三分之一的发展中国家完全缺乏可比的学业质量评估数据，导致针对“[[Learning Crisis|学习贫困]]”（Learning Poverty）与 SDG 4.1.1 关键指标的国际监测陷入巨大信息盲区。
 
 ---
 

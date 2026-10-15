@@ -40,6 +40,7 @@ related_concepts:
   - "[[Formative Assessment]]"
   - "[[Document]]"
   - "[[Washington Consensus]]"
+  - "[[Learning Crisis]]"
   - "[[Heterogeneity]]"
   - "[[Operationalization]]"
   - "[[School Autonomy]]"
@@ -196,7 +197,7 @@ updated: 2026-10-15
 > - **1950s–1960s — 现代化范式与冷战外援发轫** 二战后伴随殖民体系瓦解，新独立国家迫切需要建立现代学校体系；在冷战遏制与现代化理论驱动下，西方国家与[[UNESCO|联合国教科文组织]]开启大规模对外教育技术援助；奠定以学校基础设施建设、识字率普及与工业技术工人培养为核心的发展教育早期范式。
 > - **1970s–1980s — [[Dependency Theory|依附论]]批判与建制深度隔离** 依附理论学者揭示对外教育援助对全球边缘国家的结构性剥削与文化依附；在大学建制中，伦敦大学教育学院（IOE）设立独立的发展中教育系，与传统比较教育学系长期分立；与此同时，[[World Bank|世界银行]]单方面终止与教科文组织的合作协定，以[[Human Capital Theory|人力资本]]回报率测算全面主导发展教育的实务定义权。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 > - **1990s — [[Washington Consensus|华盛顿共识]]、结构调整与《[[Education for All|全民教育]]》** 1990 年泰国宗迪恩《世界全民教育大会》（[[Exploratory Factor Analysis|EFA]]）确立全球基础教育普及底线，但大会由世界银行强势主导；伴随结构调整计划推行，发展教育实务深度卷入财政紧缩、教育用户自费收费（User Fees）与私有化争议。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, p. 466)]]
-> - **2000s–至今 — 买方市场转型、指标[[Disciplina and Doctrina|规训]]与学习危机反思** 面对拉美等中等收入国转向私人资本市场融资的买方市场挤压，多边银行开始推行基于成果的贷款（PforR）等新型金融工具；同时，国际学界深刻反思发展教育“重资金拨付与校舍投入、轻实质认知学习成果”的痼疾，推动全球议程从单纯入学率向[[UN Sustainable Development Goals|联合国可持续发展目标]]（SDG 4）下的学习危机治理转型。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 470–476)]]
+> - **2000s–至今 — 买方市场转型、指标[[Disciplina and Doctrina|规训]]与[[Learning Crisis|学习危机]]反思** 面对拉美等中等收入国转向私人资本市场融资的买方市场挤压，多边银行开始推行基于成果的贷款（PforR）等新型金融工具；同时，国际学界深刻反思发展教育“重资金拨付与校舍投入、轻实质认知学习成果”的痼疾，推动全球议程从单纯入学率向[[UN Sustainable Development Goals|联合国可持续发展目标]]（SDG 4）下的学习危机治理转型。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 470–476)]]
 
 ---
 
@@ -220,7 +221,7 @@ updated: 2026-10-15
 > > 争论发展教育项目的成败应当以资金执行率与物理指标衡量，还是以学生实质学业获得衡量。
 > >
 > > - **银行官僚程序论** 坚持以资金拨付率与防范贪腐为底线核查指标，强调多边机构的法定职责在于合规转贷与资产交付。
-> > - **实质成效批判派（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009]]）** 尖锐指出这种“只看买了多少课本、建了多少学校，不问学生学到什么”的合规狂热，正是导致全球南方充斥着无用白象工程、深陷学习危机的体制病根。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 470–472)]]
+> > - **实质成效批判派（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009]]）** 尖锐指出这种“只看买了多少课本、建了多少学校，不问学生学到什么”的合规狂热，正是导致全球南方充斥着无用白象工程、深陷[[Learning Crisis|学习危机]]的体制病根。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 470–472)]]
 
 > [!citation-card] [[Claudio de Moura Castro|卡斯特罗]]论发展教育实践中设计与执行的致命断裂
 > 针对多边银行的严重短板，外界的绝大多数批评都用错了靶子。这些机构最触目惊心的短板，在于绝妙的政策构想在微观执行过程中全军覆没。借款国根本无力推行贷款所资助的项目，但银行同样难辞其咎，因为它们严重误判了贷款在本土体制下的可执行性。……在项目设计端，银行极其敏捷且富有学习能力；但在具体实施层面，所使用的管理与控制工具不仅粗糙僵化，而且数十年来毫无长进。过去在管理和监控项目中行不通的老毛病，在下一个项目中如出一辙地再度出现。克劳迪奥·德·莫拉·卡斯特罗（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, pp. 470, 474]]）

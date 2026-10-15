@@ -9,7 +9,7 @@ summary: "质性数据分析中将文本、图像及多模态数据拆解分段�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 67
+method_related_count: 74
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -39,10 +39,12 @@ related_concepts:
   - "[[Chain of Evidence]]"
   - "[[Construct]]"
   - "[[Homework]]"
+  - "[[Rich and Thick Description]]"
+  - "[[Professional Judgment]]"
+  - "[[Ecological Validity]]"
   - "[[Informed Consent]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Operationalization]]"
-  - "[[Rich and Thick Description]]"
   - "[[Positivism]]"
 related_theories:
   - "[[Phenomenology]]"
@@ -72,29 +74,35 @@ related_methods:
   - "[[Snowball Sampling]]"
   - "[[Qualitative Research]]"
   - "[[Data Display]]"
+  - "[[Classroom Observation]]"
+  - "[[Field Notes]]"
   - "[[Analytic Framework]]"
   - "[[Content Analysis]]"
   - "[[Narrative Research]]"
   - "[[Accounts]]"
+  - "[[Inter-Rater Reliability]]"
   - "[[Correlational Research]]"
   - "[[In-depth Interview]]"
   - "[[Template Analysis]]"
-related_instruments: []
+related_instruments:
+  - "[[Teach Classroom Observation Tool]]"
 related_persons:
   - "[[Miranda Fricker]]"
-related_facts: []
+related_facts:
+  - "[[World Bank]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30]]"
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch29]]"
+  - "[[Argument_WorldBank_2019_Teach]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28]]"
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
   - "[[Argument_Wang_2025_CE]]"
 confidence: high
 status: active
 created: 2026-06-01
-updated: 2026-10-12
+updated: 2026-10-15
 ---
 
 # Coding in Qualitative Research
@@ -262,6 +270,18 @@ updated: 2026-10-12
 > 2. **学生顺应度维度的连续谱分布** 简呈现妥协适应性，斯蒂芬保持理性自我导向，而约翰则演变为激进的不顺应与公开对抗。
 > 3. **学科生态冲突焦点的结构性分异** 科学课矛盾集中于动手与书本脱节、作业负担过重；音乐课冲突源于选曲权利被剥夺、合唱团偏向与纪律失控。
 
+> [!proc] 课堂连续观察与行为锚定质性编码规程（以[[World Bank|世界银行]] Teach 为例）
+> 在高度动态且情境交织的课堂教学场景中，质性编码需兼顾微观行为的[[Rich and Thick Description|深描]]还原与宏观指标的收敛标准化。世界银行 Teach [[Classroom Observation|课堂观察]]工具确立了一套以知情[[Professional Judgment|专业判断]]为核心的高推论质性赋码范式（[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019)]]）：
+>
+> > [!step] 阶段一：连续质性叙述实录（Continuous Qualitative [[Field Notes]]）
+> > 观察员在 15 分钟连续教学片段中全神贯注记录师生互动细节，包括教师指导语、追问层次、学生反应形态与非语言肢体符号。在此阶段严格禁止过早翻查量表或预先打分，防止赋码前见破坏对现场完整教学互动的注意力分配。
+>
+> > [!step] 阶段二：行为基准对照与知情专业判断（Informed Professional Judgment）
+> > 15 分钟观察完全结束后，观察员依据手册给出的 28 项行为描述符，将质性笔记与各要素的“低质量（1–2 分）、中等质量（3 分）、高质量（4–5 分）”行为锚定模式进行系统比对。分值判定依据整体行为表现在质量梯次上的全局契合度，严禁机械地对各项子行为进行算术拆分与加权平均。
+>
+> > [!step] 阶段三：认知负荷约束下的质量锚定替代频次计数
+> > 田野研发经验表明，若要求观察员机械统计教师提问次数、表扬次数等微观频次，会引发严重的认知超载，反而导致关键深层互动被漏记；采用“外显行为质量锚点”实施质性模式匹配，能够在控制认知负荷的同时显著提升编码的[[Ecological Validity|生态效度]]与稳定性。
+
 > [!software-impl] 计算机辅助质性分析（[[Qualitative Computer Software\|CAQDAS]]）与多模态扩展
 > - **CAQDAS 编码机制** 计算机辅助质性分析软件（如 NVivo、MAXQDA、ATLAS.ti、Dedoose）将编码定义为描述文本数据的词或短短语，把编码组织为层级树（hierarchical trees）与关键节点（nodes），支持挂载编码备忘录（[[Memos\|analytic memos]]）并开展复杂的布尔逻辑检索。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28\|(Cohen et al., 2011, 28.4)]]
 > - **视觉与多模态数据编码** [[Visual Data\|视觉数据]]（照片、视频、电影、手绘图等）在质性研究中广泛应用。编码视觉数据面临多重挑战：图像更易反映宏观文化定型而非个体主观视角；面部与物理场景导致匿名性难以保证；必须严格落实[[Informed Consent\|知情同意]]与版权许可。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, Ch. 9)]]
@@ -288,6 +308,7 @@ updated: 2026-10-12
 > [!method-limits] 方法局限与[[Reliability\|信度]]风险
 > - **去情境化风险（Decontextualization）** 编码将连续文本切碎并存入离散节点，极易人为割裂时序因果链条、抹平动态情境脉络；同一行为在不同时空情境中意义相异，机械赋予相同代码会导致虚假同质化。研究者需以撰写情境化叙事记录（narrative [[Accounts]]）并结合[[Rich and Thick Description\|深描]]作为对冲互补。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|(Cohen et al., 2011, p. 562)]]
 > - **耗时负担与编码者信度漂移** 手工编码极度耗费认知精力，编码者疲劳或不同编码者间容易产生解释偏向漂移，须依托细致的[[Qualitative Codebook\|编码手册]]与信度一致性检验（Miles & Huberman 建议 ≥80%）。[[Argument_Creswell_2022_SAGE\|(Creswell & Creswell, 2022, p. 206)]]
+> - **观察编码中的六大认知偏误干扰** 在高推论性田野[[Qualitative Observation|质性观察]]与行为编码中，人类编码者极易受个人经验滤镜、附加背景与意图推断、横向比照效应、光环扩散与要素混淆、首因效应过载及趋中避极六大主观认知偏误影响，须依赖行为锚定标准手册与严密培训加以校准防御。
 > - **预设范畴僵化与扼杀[[Emergence\|涌现]]** 过于僵化的演绎预设编码可能限制对意外编码与概念性兴趣编码的发现，丧失扎根经验的鲜活性。
 > - **伪[[Positivism\|实证主义]]量化陷阱** 过度追求代码计数与频次排名，容易滑向肤浅的“伪量化”，忽视质性分析在深层意义阐释与情境还原上的本质价值。
 
@@ -308,6 +329,8 @@ updated: 2026-10-12
 > | | [[Domain Analysis\|领域分析]] | 范畴建构 | 依据类属包含语义关系将离散编码聚拢为上位象征范畴。 |
 > | **质量控制与支撑工具** | [[Qualitative Codebook\|质性编码手册]] | 质量工具 | 规范编码定义、包容准则与正反样例以保障[[Intercoder Agreement\|编码一致性]]。 |
 > | | [[Intercoder Agreement\|编码者间一致性]] | [[Reliability\|信度]]指标 | 评估不同研究者独立赋码的收敛程度（信度通常要求 ≥80%）。 |
+> | | [[Inter-Rater Reliability\|评分者间信度]] | 信度保障 | 多位观察员或编码员独立赋码时的等值性与容差认证体系。 |
+> | | [[Teach Classroom Observation Tool]] | 实证工具 | 课堂连续质性实录与行为锚定高推论赋码的典型工具。 |
 > | | [[Qualitative Computer Software\|质性计算机软件]] | 辅助工具 | 提供编码节点管理、层级构建、反身备忘录与自动化布尔检索。 |
 
 ---
@@ -317,5 +340,6 @@ updated: 2026-10-12
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch30\|Cohen et al. (2011)]] — 系统阐释[[Grounded Theory\|扎根理论]]四类编码谱系、鲍格丹与比克连九类描述性编码家族、初筛粗编码与复合双重赋码决策，以及课堂态度矩阵化比较与去情境化风险防范。
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022)]] — 提出 Tesch 八步编码规程与四类编码类型（预期/意外/概念兴趣/预设），并在校园枪击案反应研究中通过[[Emergence\|涌现]]式编码揭示“再触发”深层主题。
-> - [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015)]] — 结合课堂观察与[[In-depth Interview\|深度访谈]]，示范如何在教育[[Qualitative Research\|质性研究]]中通过多级编码程序自下而上提炼本土概念与建构理论[[Analytic Framework\|分析框架]]。
+> - [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015)]] — 结合[[Classroom Observation|课堂观察]]与[[In-depth Interview\|深度访谈]]，示范如何在教育[[Qualitative Research\|质性研究]]中通过多级编码程序自下而上提炼本土概念与建构理论[[Analytic Framework\|分析框架]]。
 > - [[Argument_Wang_2025_CE\|Wang & McLaughlin (2025)]] — 在 NVivo 11 中结合[[Open Coding\|开放编码]]与基于 3GAT 六构件的[[Template Analysis\|模板分析]]，对 25 份[[Semi-structured Interview\|半结构化访谈]]展开扎根编码与活动系统矛盾解析。
+> - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 确立 15 分钟连续课堂质性实录与行为锚定等级编码规程，证实行为质量模式匹配比机械频次计数更能降低认知负荷并保障高推论编码[[Reliability|信度]]。

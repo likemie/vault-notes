@@ -81,7 +81,8 @@ related_methods:
   - "[[Correlational Research]]"
   - "[[Intervention Research]]"
   - "[[Three-Level Meta-Analysis]]"
-related_instruments: []
+related_instruments:
+  - "[[Framework for Teaching]]"
 related_persons:
   - "[[William A. Sandoval]]"
   - "[[Clark A. Chinn]]"
@@ -236,7 +237,7 @@ updated: 2026-10-09
 > - **1990–1997 — 扩展阶段：多维模型** Schommer (1990) 以及 [[Argument_Hofer_1997_RER\|Hofer & Pintrich (1997)]] 打破了单维发展观，提出知识确定性、来源等多维独立的信念系统。
 > - **2001–2006 — 转向阶段：学科/领域驱动模型** Elby & Hammer (2001) 提出微观的[[Epistemic Resources\|认识论资源]]，Muis et al. (2006) 确立了情境依赖性，摒弃了跨领域稳定特质的[[Hypothesis\|假设]]。
 > - **2011–2018 — 教育研究应用：哲学驱动与整合框架** [[Argument_Chinn_2011_EP\|Chinn et al. (2011)]] 与 [[Argument_Sandoval_2016_RRE\|Sandoval et al. (2016)]] 提出了基于规范哲学与多层系统的整合框架；[[Argument_Greene_2018_JEP\|Greene et al. (2018)]] 的[[Meta-analysis\|元分析]]确立了该领域的实证基准。
-> - **2021 — 因果干预证据：教学框架与干预时长的元分析检验** [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 针对 26 项实验与准[[Experimental Research\|实验研究]]开展首个干预元分析，证实认识论认知教学干预对[[Academic Achievement\|学业成就]]有中等因果促进效应（$d = 0.509$）；揭示[[Inquiry-Based Learning\|指导式探究]]与[[Source Evaluation\|信源评估]]优于非指导式设计，并发现短周期高强度干预显著优于学期长周期干预。
+> - **2021 — 因果干预证据：[[Framework for Teaching|教学框架]]与干预时长的元分析检验** [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 针对 26 项实验与准[[Experimental Research\|实验研究]]开展首个干预元分析，证实认识论认知教学干预对[[Academic Achievement\|学业成就]]有中等因果促进效应（$d = 0.509$）；揭示[[Inquiry-Based Learning\|指导式探究]]与[[Source Evaluation\|信源评估]]优于非指导式设计，并发现短周期高强度干预显著优于学期长周期干预。
 > - **2025 — 实践与论证转向：认识论实质与主体性** [[Argument_Duncan_2025_CI\|Duncan & Chinn (2025)]] 将 [[AIR Model of Epistemic Cognition\|AIR]] 框架[[Operationalization\|操作化]]为科学论证评价的中位规范模板，推动认识论认知从静态信念测量全面走向探究实践中的学科认识论实质与共同体[[Epistemic Agency\|认识主体性]]建构。
 > - **2025 — [[Man-Computer Symbiosis|人机共生]]认识论转向：自适应[[Epistemic Stances\|认识立场]]与双轨干预框架** [[Argument_Wu_2025_ER\|Wu et al. (2025)]] 将认识论认知拓展至[[Generative Artificial Intelligence\|生成式人工智能]]时代，提出人机共生自适应认识立场理论，系统揭示认识立场对[[Cognitive Offloading\|认知卸载]]性质的分化机制，并建立技术提示词与教学法双轨干预矩阵。[[Argument_Wu_2025_ER\|(Wu et al., 2025, pp. 358–368)]]
 
@@ -281,7 +282,7 @@ updated: 2026-10-09
 > | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 教育阶段 | 亚组分析 | 初中（r=.246）和混合阶段（r=.233）较大，大学（r=.131）较小 | — | Q_between = 15.111 (p<.05) | 预设 | — |
 > | 同上 | 成就类型 | 亚组分析 | 概念性知识（r=.190）和论证（r=.154）较高，[[Procedural Skill\|程序性知识]]（r=.077，不显著）较低 | — | Q_between = 1.766 (p>.05) | 预设 | — |
 > | 同上 | [[Epistemology\|认识论]][[Construct\|构念]] | 亚组分析 | 知识发展（r=.274）、一般认识论认知（r=.266）、多种证成（r=.225）较高 | — | Q_between = 57.955 (p<.001) | 预设 | — |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预教学框架 | 亚组分析 | [[Inquiry-Based Learning\|指导式探究]]（d=.808）与[[Source Evaluation\|信源评估]]（d=.800）最高，支架（d=.663）与[[Constructivist Paradigm\|建构主义]]（d=.479）居中，PBL（d=.340）与论证（d=.134）较低 | — | Q_between = 17.491 (p<.01) | 预设 | 显性指导与证据评估策略能防范劣构探究中的认知超载 |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预[[Framework for Teaching\|教学框架]] | 亚组分析 | [[Inquiry-Based Learning\|指导式探究]]（d=.808）与[[Source Evaluation\|信源评估]]（d=.800）最高，支架（d=.663）与[[Constructivist Paradigm\|建构主义]]（d=.479）居中，PBL（d=.340）与论证（d=.134）较低 | — | Q_between = 17.491 (p<.01) | 预设 | 显性指导与证据评估策略能防范劣构探究中的认知超载 |
 > | 同上 | 干预时长 | 亚组分析 | 中期（d=.925）、单次（d=.734）与短期（d=.615）显著优于全学期及以上（d=.234，不显著） | — | Q_between = 8.863 (p<.05) | 预设 | 短期干预教学浓度高且测验更贴合；长周期干预存在效应衰退与常规教学稀释 |
 > | 同上 | 教育阶段 | 亚组分析 | K-12 中小学生（d=.606）显著高于大学本科生（d=.309） | — | Q_between = 9.071 (p<.05) | 预设 | 中小学生处于认识论可塑关键期；大学生已有信念相对固化 |
 > | [[Argument_Song_Choi_2026_FPSYG\|Song & Choi (2026)]] | 学段（School level） | 亚组分析与多元[[Meta-regression\|元回归]] | 小学（r=0.375）显著高于初中（r=0.142）与高中（r=0.157） | — | F(2, 485) = 5.683, p = 0.003 | 预设 | 高学段应试升学与课外补习强化了机械记诵，弱化了高级认识论认知的作用 |

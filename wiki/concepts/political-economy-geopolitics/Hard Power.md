@@ -7,7 +7,7 @@ aliases:
 summary: "国际关系与地缘政治的核心范畴，指行为体通过军事武力、强制威慑与经济制裁迫使他者服从的指挥性权力。在智能化时代，硬实力的底座转向软件算法、自主系统与实体制造；卡普与扎米斯卡进一步论证，硬实力无法脱离实质信念而孤立维系，国家千年期战略决断、克服软信念、共享文化认同与防卫意志构成了可信硬实力威慑的终极支柱。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 49
+related_count: 48
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -51,7 +51,6 @@ related_instruments: []
 related_persons:
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
-  - "[[Nikolas Rose]]"
   - "[[J. Robert Oppenheimer]]"
   - "[[Thomas Schelling]]"
   - "[[Francis Fukuyama]]"
@@ -76,7 +75,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Hard Power
@@ -107,7 +106,7 @@ updated: 2026-10-14
 > *To be coercive, violence has to be anticipated. The power to hurt is bargaining power. To exploit it is diplomacy—vicious diplomacy, but diplomacy... War is always a bargaining process.*
 
 > [!citation-card] 国家认同消解对地缘硬实力威慑的系统性剥夺
-> 对德国认同的极度怀疑、对在战后废墟中允许任何国家感生根发芽的极力遏制，已经付出了巨大的战略代价，并使得欧洲大陆丧失了对俄[[Nikolas Rose|罗斯]]侵略的可靠威慑力。在 1930 和 1940 年代德国陷入狂乱之后，对其国家工程的拆解当然是必要的。但许多人却竭力确保废墟中不再允许升起任何有实质意义的东西。这是一个错误，一个我们乃至其他国家正面临重复风险的错误。放弃对统一与共同体身份的追求，就是放弃了在长远乃至极长远尺度上生存的任何真正机会。（p. 204）
+> 对德国认同的极度怀疑、对在战后废墟中允许任何国家感生根发芽的极力遏制，已经付出了巨大的战略代价，并使得欧洲大陆丧失了对俄罗斯侵略的可靠威慑力。在 1930 和 1940 年代德国陷入狂乱之后，对其国家工程的拆解当然是必要的。但许多人却竭力确保废墟中不再允许升起任何有实质意义的东西。这是一个错误，一个我们乃至其他国家正面临重复风险的错误。放弃对统一与共同体身份的追求，就是放弃了在长远乃至极长远尺度上生存的任何真正机会。（p. 204）
 >
 > *An intense skepticism of German identity, of allowing any sense of the nation to take hold in the wreckage of the war, has had significant costs and deprived the continent of a credible deterrent to Russian aggression. The dismantling of a German national project was, of course, necessary... But many have strained to ensure that nothing quite substantial is permitted to [[Research in Schools Evaluation|RISE]] from the ashes. This is a mistake, and one that we, in America and other countries, are at risk of repeating.*
 

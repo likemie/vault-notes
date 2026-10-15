@@ -39,6 +39,8 @@ related_arguments:
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Correlational Research]]"
+related_instruments:
+  - "[[Framework for Teaching]]"
 confidence: high
 status: draft
 created: 2026-07-05
@@ -133,7 +135,7 @@ updated: 2026-10-07
 
 > [!dev-timeline] 发展脉络
 > - **1958 — 经典模型创立** Stephen Toulmin 出版 *The Uses of Argument*，系统提出突破三段论的六部件法理学论证框架。
-> - **1980s–2000s — 科学教育结构化迁移** 科学教育领域将图尔敏模型[[Operationalization\|操作化]]为课堂论证模式（TAP），并衍生出主张-证据-推理（[[CER Framework\|Claim-Evidence-Reasoning]], CER）教学框架。
+> - **1980s–2000s — 科学教育结构化迁移** 科学教育领域将图尔敏模型[[Operationalization\|操作化]]为课堂论证模式（TAP），并衍生出主张-证据-推理（[[CER Framework\|Claim-Evidence-Reasoning]], CER）[[Framework for Teaching|教学框架]]。
 > - **2007 — [[Pragma-Dialectics\|语用辩证学派]]批判** Zemplén 指出图尔敏模型缺乏质量评价规范标准，无法处理双边对称争议，主张引入语用辩证学。[[Argument_Zemplen_2007_SciEduc\|(Zemplén, 2007)]]
 > - **2025 — 结构主义困境解构与[[Epistemology\|认识论]]实质转向** Duncan & Chinn 揭示全球变暖否定论等典型伪科学文本在图尔敏结构评分中斩获高分的致命缺陷，提出必须由 [[AIR Model of Epistemic Cognition\|AIR]] 认识论模型补充认识论实质。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025)]]
 

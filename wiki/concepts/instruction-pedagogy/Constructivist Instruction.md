@@ -73,6 +73,8 @@ status: active
 related_persons:
   - "[[Jean Piaget]]"
   - "[[Lev Vygotsky]]"
+related_instruments:
+  - "[[Framework for Teaching]]"
 confidence: high
 created: 2026-09-21
 updated: 2026-10-07
@@ -202,7 +204,7 @@ updated: 2026-10-07
 
 ## 实证数据
 
-> [!ma-table]- 一阶[[Meta-analysis\|元分析]][[Constructivist Paradigm\|建构主义]]教学与不同教学框架因果效应对比
+> [!ma-table]- 一阶[[Meta-analysis\|元分析]][[Constructivist Paradigm\|建构主义]]教学与不同[[Framework for Teaching|教学框架]]因果效应对比
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
 > | 一阶元分析 | 干预教学框架分类与角色 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与检验 | 关键解释边界 |

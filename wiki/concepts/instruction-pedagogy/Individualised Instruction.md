@@ -32,6 +32,8 @@ related_facts: []
 related_arguments:
   - "[[Argument_Laursen_2015_Paideia]]"
   - "[[Argument_Higgins_2016_ROE]]"
+related_instruments:
+  - "[[Framework for Teaching]]"
 confidence: low
 status: draft
 created: "2026-05-05"
@@ -101,7 +103,7 @@ updated: "2026-05-22"
 
 > [!example] 相关案例／政策
 > - [[Structured Teaching]] — 瑞典案例说明，好的差异化不应以削弱教师结构为代价。
-> - [[Effective Teaching]] — 个别化教学更适合放回有效教学框架中理解，而不是被当成独立处方。
+> - [[Effective Teaching]] — 个别化教学更适合放回有效[[Framework for Teaching|教学框架]]中理解，而不是被当成独立处方。
 
 ---
 

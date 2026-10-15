@@ -35,6 +35,7 @@ related_theories:
   - "[[Ethnomethodology]]"
 related_methods:
   - "[[Transcription in Qualitative Research]]"
+  - "[[Classroom Observation]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Ideology Critique]]"
   - "[[Conversation Analysis]]"
@@ -97,7 +98,7 @@ updated: 2026-10-13
 
 > [!method-stack] 方法层级
 > - **研究设计** 话语分析
-> - **数据收集** 自然发生的谈话录音、课堂观察、文本收集
+> - **数据收集** 自然发生的谈话录音、[[Classroom Observation|课堂观察]]、文本收集
 > - **分析方法** [[Coding in Qualitative Research\|编码]]（早期阶段）、模式识别、言语行为功能分析、替代解释检验
 > - **辅助技术** [[Transcription in Qualitative Research\|转录]]、反身性记录、[[Ideology Critique\|意识形态批判]]（[[Critical Theory\|批判理论]]传统）
 

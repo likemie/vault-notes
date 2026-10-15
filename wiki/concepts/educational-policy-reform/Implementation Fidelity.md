@@ -63,6 +63,7 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Process Tracing]]"
   - "[[Black Box RCTs]]"
+  - "[[Classroom Observation]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Sample Size Determination]]"
   - "[[Effectiveness Trial]]"
@@ -176,7 +177,7 @@ updated: 2026-10-12
 > **实施失败与理论失败的本质区分** 复杂社会与教育干预由多个相互关联的组件构成，对情境高度敏感。在英国医学研究理事会（Medical Research Council，[[Meta-Representational Competence\|MRC]]）复杂干预评估框架中，学者指出干预在终结性评估中呈现出的弱效应或零结果，往往是现场实施失败（implementation failure）或磨合期阵痛（teething problems）的直接体现，绝不能简单等同于干预理论逻辑的根本失效。如果评估缺乏对实施过程的深入剖析，决策者将不可避免地过早抛弃极具潜力的有效理论。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Craig et al., 2008, 引用见 Edovald & Nevill, 2021, p. 53)]]
 
 > [!claim] Edovald, T. & Nevill, C.
-> **早期[[Black Box RCTs\|黑箱试验]]的证据困境与 [[Implementation and Process Evaluation\|IPE]] 制度化** 英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation，EEF）在早期资助试验中发现，由于缺乏实施保真度测量，大量试验得出零结果后陷入了既道不明执行细节、又无法解释因果机制的黑箱尴尬（Morris et al., 2016）。为此，EEF 强制要求所有后续试验必须将量化 [[Randomised Controlled Trials\|RCT]] 与实施与过程评估（Implementation and Process Evaluation，IPE）深度嵌合，通过课堂观察[[Coding in Qualitative Research\|编码]]、培训出勤追踪与 [[TIDieR]] 规程，确保[[Chain of Evidence\|证据链]]能够准确回答项目究竟是未被做好还是本身无效。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 53–54)]]
+> **早期[[Black Box RCTs\|黑箱试验]]的证据困境与 [[Implementation and Process Evaluation\|IPE]] 制度化** 英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation，EEF）在早期资助试验中发现，由于缺乏实施保真度测量，大量试验得出零结果后陷入了既道不明执行细节、又无法解释因果机制的黑箱尴尬（Morris et al., 2016）。为此，EEF 强制要求所有后续试验必须将量化 [[Randomised Controlled Trials\|RCT]] 与实施与过程评估（Implementation and Process Evaluation，IPE）深度嵌合，通过[[Classroom Observation|课堂观察]][[Coding in Qualitative Research\|编码]]、培训出勤追踪与 [[TIDieR]] 规程，确保[[Chain of Evidence\|证据链]]能够准确回答项目究竟是未被做好还是本身无效。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 53–54)]]
 
 > [!claim] Ross, S. M. & Morrison, G. R.
 > **实施进展作为项目质量的独立积极证据** 在对巴尔的摩县公立学校未来数字学习（[[Students and Teachers Accessing Tomorrow]]，STAT）进行[[Formative Assessment\|形成性评估]]时发现，尽管因多重外部[[Variable\|变量]]干扰未能检测到明确的学生统考成绩提升，但教师准备度、数字[[Technology Infusion\|技术融入]]课堂以及以学生为中心教学的实施保真度指标展现出极其稳固的增长。评估者强调，高保真度的实施进展本身就是项目质量和组织可持续性的关键积极证据，不能单凭不显著的期末测验全盘否定项目价值。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 118–123)]]

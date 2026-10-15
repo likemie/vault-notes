@@ -48,6 +48,7 @@ related_methods:
   - "[[Qualitative Codebook]]"
   - "[[Effect Size]]"
   - "[[Inter-Rater Reliability]]"
+  - "[[Classroom Observation]]"
   - "[[Ethnography]]"
   - "[[Grounded Theory]]"
   - "[[Pearson Product-Moment Correlation]]"
@@ -110,7 +111,7 @@ updated: 2026-09-22
 > | 比较维度 | 编码者间一致性（Intercoder Agreement） | [[Inter-Rater Reliability\|评分者间信度]]（Inter-Rater Reliability） | [[Qualitative Reliability\|质性信度]]（Qualitative Reliability） |
 > |---|---|---|---|
 > | **数据尺度** | 类别/名义尺度（词汇、主题标签、范畴归入） | 等级或连续尺度（[[Homework\|作业]]打分、行为表现评定、量表分） | 意义阐释、[[Reflexivity\|反思性]]日志与语境叙事 |
-> | **典型场景** | [[Coding in Qualitative Research\|质性编码]]、[[Content Analysis\|内容分析]]、元分析特征提取 | 课堂观察打分、论文盲审评分、面试结构化评分 | [[Ethnography\|民族志]]田野[[Rich and Thick Description\|深描]]、[[Grounded Theory\|扎根理论]]实质理论建构 |
+> | **典型场景** | [[Coding in Qualitative Research\|质性编码]]、[[Content Analysis\|内容分析]]、元分析特征提取 | [[Classroom Observation\|课堂观察]]打分、论文盲审评分、面试结构化评分 | [[Ethnography\|民族志]]田野[[Rich and Thick Description\|深描]]、[[Grounded Theory\|扎根理论]]实质理论建构 |
 > | **核心指标** | 一致性百分比、Cohen's κ、Krippendorff's α | 组内相关系数（ICC）、加权 κ、[[Pearson Product-Moment Correlation\|皮尔逊相关]]系数 | [[Audit Trail\|审计追踪]]（Audit Trail）、同行辩难、[[Member Tests\|成员核验]] |
 > | **关注焦点** | 分类归属的一致性与编码规则的客观性 | 评分数值的等值性与评分者漂移控制 | 研究过程的可信度、反身性与真实性 |
 

@@ -7,7 +7,7 @@ title: "Argument_Li_2012_Cambridge"
 argument_key: "Argument_Li_2012_Cambridge"
 argument_display_title: "Cultural Foundations of Learning: East and West"
 argument_kind: "book"
-argument_related_count: 165
+argument_related_count: 164
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -152,6 +152,7 @@ related_methods:
   - "[[Content Analysis]]"
   - "[[Survey Research]]"
   - "[[Questionnaire]]"
+  - "[[Classroom Observation]]"
   - "[[Triangulation]]"
   - "[[Discourse Analysis]]"
   - "[[Data Display]]"
@@ -192,7 +193,6 @@ related_persons:
   - "[[Alfred Nobel]]"
   - "[[Zhuangzi]]"
   - "[[Winston Churchill]]"
-  - "[[Nikolas Rose]]"
 related_arguments: []
 sources:
   - "[[books/Li_2012_Cambridge/Li_2012_Cambridge|Li_2012_Cambridge]]"
@@ -231,7 +231,7 @@ citation_aliases:
 
 - **历史-文本分析（Ch2）** 追溯西方（古希腊 → 启蒙 → 现代心理学）与儒家（[[Confucius|孔子]] → 理学 → 当代民间）两种知识传统的经典文本，以《论语》《[[Mencius|孟子]]》等一手[[Document|文献]]为主
 - **[[Prototype Methods|原型方法]]（Ch3）** 自由联想提取"学习"相关词汇 → [[Cluster Analysis|聚类分析]]生成[[Concept Mapping|概念地图]]（研究一）；书面叙事收集[[Ideal Learner|理想学习者形象]] → [[Content Analysis|内容分析]]提取人格结构（研究二）。两条证据线独立后汇聚（convergence）验证[[Cultural Models|文化模型]]
-- **跨文化[[Survey Research|调查研究]]（Ch3, Ch5, Ch6）** 归因[[Questionnaire|问卷]]、课堂观察、家庭社会化调查、同伴态度测量、学习情感自述——多方法[[Triangulation|三角验证]]同一结论
+- **跨文化[[Survey Research|调查研究]]（Ch3, Ch5, Ch6）** 归因[[Questionnaire|问卷]]、[[Classroom Observation|课堂观察]]、家庭社会化调查、同伴态度测量、学习情感自述——多方法[[Triangulation|三角验证]]同一结论
 - **跨国评测数据（Ch3）** [[TIMSS]] 与 [[PISA]] 排名作为东亚学习成就的宏观佐证
 - **[[Microelectronics and Computer Technology Corporation|MCC]] 方法（Ch7）** 母亲-儿童对话的三层分析——结构分析（排除"量"的差异）→ 序列分析（胜算比追踪话题流向）→ [[Discourse Analysis|话语分析]]（Vygotsky [[Scaffolding|认知支架]] + Frijda/Gottman [[Parental Cognitive and Affective Socialization|情感社会化]]框架）。200 组对话，欧裔美国 vs 台湾
 - **语用学比较（Ch8）** Grice 四准则与四条东亚替代准则逐条对照；Kim 生理实验（说话时的[[Problem Solving|问题解决]]表现与皮质醇变化）
@@ -1167,7 +1167,7 @@ Li 还处理了一个相关的常见批评——"东亚学生的成就以心理�
 
 **第一步：排除"谋生"解释**。西方和亚洲研究者普遍接受的当代理论框架认为：学校学习的压倒性目的是提供谋生技能和增加社会流动机会。如果这是真的，那么经济安全的人就不会那么投入学习了。
 
-但 Li 用自己的教学观察反驳(pp.77-78)：
+但 Li 用自己的[[Classroom Observation|教学观察]]反驳(pp.77-78)：
 - 来自富裕家庭的中国／东亚学生——"他们的家庭可以确保他们过上舒适的生活"——同样刻苦学习
 - 他们的欧裔美国同龄人（无论贫富）表现出不同的学习取向：强调个人好奇心、探究、口头交流和个人洞见与才华
 - 中国／东亚学生"自愿经历刻苦学习的磨砺，或觉得需要通过投入学习来荣耀父母——即使他们不那么心甘情愿"
@@ -3146,7 +3146,7 @@ Li 从古希腊追溯这一传统的起源——雅典娜创设的陪审团审�
 
 **3. 说话作为领导力特质（speaking as leadership）**
 
-Li 列出了一条从古至今的演说家—领导者谱系(pp.81-83)：古希腊十大阿提卡演说家 → Demosthenes → Cicero → 法国大革命的罗伯斯庇尔和丹东 → 二战时的[[Winston Churchill|丘吉尔]]和[[Nikolas Rose|罗斯]]福 → 马丁·路德·金 → 奥巴马。
+Li 列出了一条从古至今的演说家—领导者谱系(pp.81-83)：古希腊十大阿提卡演说家 → Demosthenes → Cicero → 法国大革命的罗伯斯庇尔和丹东 → 二战时的[[Winston Churchill|丘吉尔]]和罗斯福 → 马丁·路德·金 → 奥巴马。
 
 这条谱系传递的信息是：**在西方，政治领导力与演说能力几乎不可分离。立法机构的审议以口头辩论为首要手段；教会的兴衰可能取决于讲道的质量；企业在危机时刻更需要领导者"站出来说话"。
 

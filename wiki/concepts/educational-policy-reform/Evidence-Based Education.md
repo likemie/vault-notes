@@ -90,6 +90,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
   - "[[Meta-analysis]]"
+  - "[[Classroom Observation]]"
   - "[[Single-Case Design]]"
   - "[[Mechanism Experiments]]"
   - "[[Implementation and Process Evaluation]]"
@@ -332,7 +333,7 @@ Fitz-Gibbon 同时指出，Anderson & Biddle（1991）已观察到政策制定�
 > [[Argument_Nordahl_2015_Paideia\|Nordahl (2015, pp. 63–67)]]：
 > 1. **承认不同教学做法并不等效** 一旦承认教学效果有差异，证据本位教育才有进入学校改进的理由。
 > 2. **把证据理解成概率资源而非控制命令** 证据不能保证所有情境都成功，但能帮[[Teaching Assistant\|助教]]师减少完全凭个人习惯决策的空间，更接近[[Professional Judgment\|专业判断]]的输入。
-> 3. **识别真正的瓶颈在"转译"而不在"知道"** 学校常见问题不是没有研究，而是研究没有被翻译成教师日常行动，能力建设、课堂观察和共同反思是关键中介机制。
+> 3. **识别真正的瓶颈在"转译"而不在"知道"** 学校常见问题不是没有研究，而是研究没有被翻译成教师日常行动，能力建设、[[Classroom Observation|课堂观察]]和共同反思是关键中介机制。
 > 4. **把失败改革重新诊断为知识与能力问题** 单纯依赖[[New Public Management\|新公共管理]]式问责和竞争只会将问题误诊为"动力不足"，[[No Child Left Behind Act 2001\|NCLB]] 正是这类误诊的反面案例([[Argument_Nordahl_2015_Paideia\|Nordahl, 2015, p. 65]])。
 
 #### 实践转化的前提条件与评估框架

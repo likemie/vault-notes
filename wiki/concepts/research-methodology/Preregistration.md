@@ -53,6 +53,7 @@ related_methods:
   - "[[Covariate Adjustment]]"
   - "[[Intent-to-Treat Analysis]]"
   - "[[Implementation and Process Evaluation]]"
+  - "[[Classroom Observation]]"
   - "[[Intervention Research]]"
   - "[[Hierarchical Linear Model]]"
   - "[[Generalized Estimating Equations]]"
@@ -134,7 +135,7 @@ updated: 2026-10-08
 > - **主要与次要结果[[Variable\|变量]]界定** 预先声明主要学业产出指标（强制要求具有高[[External Validity\|外部效度]]的独立标准化考试）与次要探索性指标，杜绝在多重测量中后验挑拣显著变量（cherry-picking）。[[Argument_Wolf_2020_JREE\|(Wolf et al., 2020, p. 443)]]; [[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 54)]]
 > - **[[Statistical Analysis Plan\|统计分析计划]]（Statistical Analysis Plan，SAP）** 预先详述最终计量模型、[[Covariate Adjustment\|协变量控制]]准则、班级聚类效应调整（Demack, 2019）、缺失值多重插补或完全用例假定，以及[[Intent-to-Treat Analysis\|意向性分析]]（[[Intent-to-Treat Analysis]]，[[Initial Teacher Training\|ITT]]）规程。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 51–53)]]
 > - **[[Counterfactual\|反事实]]对照条件描述** 详尽阐述对照组的具体活动，明确对照组是纯粹[[Business as Usual\|常态教学]]（business as usual）还是接受替代干预，防止反事实模糊掩盖真实效应。[[Argument_Wolf_2020_JREE\|(Wolf et al., 2020, p. 444)]]
-> - **[[Implementation Fidelity\|实施保真度]]与过程测量计划** 预先设计[[Implementation and Process Evaluation\|实施与过程评估]]（IPE）框架，包括干预核心活性成分界定、干预剂量记录、出勤追踪、课堂观察[[Coding in Qualitative Research\|编码]]及污染排查规程。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 53–54)]]
+> - **[[Implementation Fidelity\|实施保真度]]与过程测量计划** 预先设计[[Implementation and Process Evaluation\|实施与过程评估]]（IPE）框架，包括干预核心活性成分界定、干预剂量记录、出勤追踪、[[Classroom Observation|课堂观察]][[Coding in Qualitative Research\|编码]]及污染排查规程。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 53–54)]]
 
 > [!logic-map]- 预注册全流程治理与证据锁定
 > ```mermaid

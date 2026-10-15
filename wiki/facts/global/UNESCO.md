@@ -10,7 +10,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 74
+fact_related_count: 73
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -31,13 +31,13 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Performance Indicators]]"
   - "[[Knowledge-Based Economy]]"
+  - "[[Learning Crisis]]"
   - "[[Generative Artificial Intelligence]]"
   - "[[Epistemic Agency]]"
   - "[[International Education]]"
   - "[[Sustainability Education]]"
-  - "[[Paradigm]]"
-  - "[[International Baccalaureate]]"
   - "[[International Schools]]"
+  - "[[Paradigm]]"
   - "[[Knowledge Production]]"
   - "[[Document]]"
   - "[[Return on Investment]]"
@@ -65,8 +65,10 @@ related_theories:
   - "[[Pluri-Scalar Governance]]"
 related_methods:
   - "[[Exploratory Factor Analysis]]"
+  - "[[Classroom Observation]]"
   - "[[Ideology Critique]]"
-related_instruments: []
+related_instruments:
+  - "[[Teach Classroom Observation Tool]]"
 related_persons:
   - "[[Philip H. Coombs]]"
   - "[[Robert Arnove]]"
@@ -91,9 +93,7 @@ related_facts:
   - "[[International Monetary Fund]]"
   - "[[UNICEF]]"
   - "[[Learning Data Compact]]"
-  - "[[United World Colleges]]"
   - "[[International Baccalaureate Nutritional Science Course]]"
-  - "[[Science Technology and Social Change Curriculum Pilot]]"
   - "[[1960 Bellagio Conference]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
@@ -102,6 +102,7 @@ related_arguments:
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Rust_2009_Reflections]]"
+  - "[[Argument_WorldBank_2019_Teach]]"
   - "[[Argument_Wu_2025_ER]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch08]]"
 confidence: high
@@ -134,7 +135,7 @@ updated: 2026-10-15
 > - **1945–1965 — 战后人权奠基与有限再分配性多边主义** 作为二战结束时全球仅存的两大涉教育国际组织之一（另一为[[International Labour Organization|国际劳工组织]]（International Labour Organization，ILO）），致力于战后废墟重建与基本扫盲；1948 年推动《世界人权宣言》将第 26 条受教育权写入国际法；卡伦·蒙迪（Mundy, 1998）指出，这一时期确立了以教科文组织为中枢的“有限再分配性多边主义”（Limited Redistributive Multilateralism），强调人道主义价值与社会福利，支持新兴独立国家建设公共教育体系；1963 年在巴黎建立[[International Institute for Educational Planning|国际教育规划研究所]]（International Institute for Educational Planning，IIEP），由[[Philip H. Coombs|菲利普·库姆斯]]掌舵，开启对第三世界新建国家的规划官僚培训业务。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541, 543)]]
 > - **1965–1980 — 争辩性多边主义、[[World Bank|世行]]合作与人文路线分立** 发展中国家掀起不结盟运动并要求建立国际经济新秩序（New International Economic Order，NIEO），主导了“争辩性多边主义”（Contested Multilateralism）阶段，教科文组织成为亚非拉国家争取国家社会福利发展模式与教育去殖民化的主要讲坛；与此同时，1964 年与世界银行签署《合作协定》（Co-operative Agreement），为世行初入教育借贷提供专业技术团队背书；然而双方在理念上发生深刻断裂——教科文组织坚持人文主义与普遍受教育权，断然拒绝世行将学校沦为单一经济产出投入要素的功利算计；1980 年世行正式发表政策文件宣告独立，终结对教科文组织的业务依赖。[[Argument_Steiner-Khamsi_2024_CE|(Elfert & Ydesen, 2023; Steiner-Khamsi et al., 2024, pp. 541–542)]]。在此期间，教科文组织在第三世界开展大规模区域教育普查（如 拉丁美洲经济委员会（Economic Commission for Latin America，原文缩写 CEPAL）、联合国开发计划署（United Nations Development Programme，原文缩写 PNUD）与 UNESCO 的 1981 年拉美项目），其 1974 年区域统计揭示了拉美外围国家中高等教育膨胀与初等扫盲停滞的畸形结构，为批判学者剖析外围[[Conditioned State Theory|受限国家]]的双轨教育与[[Compensatory Legitimation|补偿性合法化]]提供了关键实证基准。[[Argument_Olmos_Torres_2009_StateTheories|(UNESCO, 1974, cited in Olmos & Torres, 2009, pp. 81–82)]]
 > - **1980–2000 — [[Disciplina and Doctrina|规训]]性多边主义冲击、财政边缘化与《[[Education for All|全民教育]]》（Education for All，[[Exploratory Factor Analysis|EFA]]）** 美英等国因不满新世界信息秩序相继于 1984–1985 年退约并冻结经常性会费，全球[[Educational Multilateralism|教育多边主义]]转入新自由主义主导的“防卫性与规训性多边主义”（Defensive and Disciplinary Multilateralism），教科文组织在设定全球教育政策方向上的主导权被信贷资本雄厚的世界银行所取代；面对[[Discourse|话语]]与财政边缘化，教科文组织于 1990 年在泰国宗迪恩联合发起《世界全民教育大会》（EFA），然而圈内实务分析表明，宗迪恩大会实质上由资本实力雄厚的世界银行强力主导，教科文组织别无选择只能参与，却在会议理念与组织中缺乏有力的发言权，标志着战后教科文组织引领全球教育新理念的时代终结，世界银行全面接管了教育政策创新的主导权（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, p. 466]]）；1996 年发布里程碑式《德洛尔报告》（*Learning: The Treasure Within*），确立教育四大支柱，并深刻指出技术变革与经济全球化正在迅速侵蚀既有社会政策、工作结构与全球公平；1997 年联合 [[OECD|经合组织]]与 [[World Bank|世界银行]] 发起“世界[[Performance Indicators|教育指标]]”（[[World Education Indicators]], WEI）项目，将 [[International Indicators of Education Systems|INES]] 指标方法学推广至转型期非成员国；在 OECD 1996 年发布《以知识为基础的经济》后，教科文组织亦相继采纳并重申了[[Knowledge-Based Economy|知识经济]]政策话语；1999 年在蒙特利尔成立[[UNESCO Institute for Statistics|联合国教科文组织统计研究所]]（UNESCO Institute for Statistics，UIS），奠定联合国统一教育统计基石。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 541)]]; [[Argument_Arnove_2009_WorldSystems|(Mundy, 1998, 1999; Heyneman, 2003, cited in Arnove, 2009, p. 110)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–445)]]
-> - **2000–2020 — [[UN Sustainable Development Goals|SDG 4]] 全球协调中枢、学习危机界定与数字时代再平衡** 2000 年达喀尔行动框架确立 EFA 六大目标并建立年度监测机制。然而教科文组织 2006 年《[[Global Education Monitoring Report|全民教育全球监测报告]]》（*EFA Global Monitoring Report 2006*）的经验追踪表明，多数依赖西方外援与[[International Monetary Fund|国际货币基金组织]]／世界银行结构调整贷款的发展中国家均未能如期达成 2005 年性别均等与基础教育普及指标；与此形成鲜明对照的是，在不依赖西方外援、顶住新自由主义私有化浪潮的古巴，凭借强大社会主义国家组织动员与人道主义优先保障，率先实现了优质普及全民基础教育，印证了教科文组织倡导的教育公共属性依赖于主权国家的实质政治承诺。[[Argument_Rust_2009_Reflections|(UNESCO, 2006, cited in Rust et al., 2009, p. 134)]]；在 2013/2014 年《全民教育全球监测报告：教学与学习——实现全员质量》（*EFA Global Monitoring Report 2013/4*）中，教科文组织首次系统界定全球学习危机（Learning Crisis），揭示全球至少 2.5 亿学龄儿童在接受数年基础教育后仍无法读写简单句子或完成基础运算（其中 1.3 亿已完成四年小学学业），造成每年约 1,290 亿美元的教育财政低效浪费；明确指出入学率普及如果不伴随教学质量提升，将使弱势群体面临在校却无所获的隐性失学，倒逼全球教育治理将焦点从外在入学率转向实质性教学质量与教师教学效能，这也成为后续世界银行等机构研制 Teach 等课堂观察工具的宏观问题起点。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, p. 2)]]；2015 年仁川世界教育论坛通过《教育 2030 行动框架》，被联合国大会指定为《2030 年可持续发展议程》中第四项目标（[[UN Sustainable Development Goals|SDG 4]]）的全球牵头与协调机构；2021 年发布《共同重新构想我们的未来：一种新的教育社会契约》，联合世行、[[UNICEF|联合国儿童基金会]]（United Nations Children’s Fund，[[UNICEF]]） 发起[[Learning Data Compact|学习数据契约]]。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541, 545)]]
+> - **2000–2020 — [[UN Sustainable Development Goals|SDG 4]] 全球协调中枢、[[Learning Crisis|学习危机]]界定与数字时代再平衡** 2000 年达喀尔行动框架确立 EFA 六大目标并建立年度监测机制。然而教科文组织 2006 年《[[Global Education Monitoring Report|全民教育全球监测报告]]》（*EFA Global Monitoring Report 2006*）的经验追踪表明，多数依赖西方外援与[[International Monetary Fund|国际货币基金组织]]／世界银行结构调整贷款的发展中国家均未能如期达成 2005 年性别均等与基础教育普及指标；与此形成鲜明对照的是，在不依赖西方外援、顶住新自由主义私有化浪潮的古巴，凭借强大社会主义国家组织动员与人道主义优先保障，率先实现了优质普及全民基础教育，印证了教科文组织倡导的教育公共属性依赖于主权国家的实质政治承诺。[[Argument_Rust_2009_Reflections|(UNESCO, 2006, cited in Rust et al., 2009, p. 134)]]；在 2013/2014 年《全民教育全球监测报告：教学与学习——实现全员质量》（*EFA Global Monitoring Report 2013/4*）中，教科文组织首次系统界定全球学习危机（Learning Crisis），揭示全球至少 2.5 亿学龄儿童在接受数年基础教育后仍无法读写简单句子或完成基础运算（其中 1.3 亿已完成四年小学学业），造成每年约 1,290 亿美元的教育财政低效浪费；明确指出入学率普及如果不伴随教学质量提升，将使弱势群体面临在校却无所获的隐性失学，倒逼全球教育治理将焦点从外在入学率转向实质性教学质量与教师教学效能，这也成为后续世界银行等机构研制 Teach 等[[Classroom Observation|课堂观察]]工具的宏观问题起点。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, p. 2)]]；2015 年仁川世界教育论坛通过《教育 2030 行动框架》，被联合国大会指定为《2030 年可持续发展议程》中第四项目标（[[UN Sustainable Development Goals|SDG 4]]）的全球牵头与协调机构；2021 年发布《共同重新构想我们的未来：一种新的教育社会契约》，联合世行、[[UNICEF|联合国儿童基金会]]（United Nations Children’s Fund，[[UNICEF]]） 发起[[Learning Data Compact|学习数据契约]]。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541, 545)]]
 > - **2023–2025 — 人工智能时代的以人为本教育治理与主体性倡导** 针对[[Generative Artificial Intelligence|生成式人工智能]]引发的教育变革，相继发布《生成式人工智能在教育与研究中的应用指南》（2023）与《学生及教师人工智能能力框架》（2024），强调技术应用必须捍卫人类的[[Epistemic Agency|认识主体性]]与伦理问责，防范技术依赖导致的批判力削弱。[[Argument_Wu_2025_ER|(Wu et al., 2025, pp. 358–360)]]
 
 ---
@@ -159,28 +160,13 @@ updated: 2026-10-15
 > [!finding-cards] 核心产品与业务矩阵
 > - **指南、规程与标准体系** 《[[International Education|国际教育]]标准分类》（ISCED）；《全球高等教育学历学位互认公约》；《人工智能伦理建议书》（2021）；《[[Generative Artificial Intelligence|生成式人工智能]]在教育与研究中的应用指南》（2023）；《学生及教师人工智能能力框架》（2024）。[[Argument_Wu_2025_ER|(Wu et al., 2025, pp. 358–360)]]
 > - **数据库、证据库与监测平台** [[UNESCO Institute for Statistics|联合国教科文组织统计研究所]]数据库（UIS Databank，全球官方教育数据核心权威源）；[[UN Sustainable Development Goals|SDG 4]] 进展指标基准库（Global Education Observatory）。
-> - **旗舰项目、调查与测评** 发展中国家国家教育战略规划技术援助（由 [[International Institute for Educational Planning|IIEP]] 执行）；区域教育与发展长期追踪调查（如 UNESCO/CEPAL/PNUD 宏观教育普查项目）；扫盲先锋奖；世界遗产与[[Sustainability Education|可持续发展教育]]网络；与 [[OECD|经合组织]]、[[World Bank|世界银行]] 联合发起的“世界[[Performance Indicators|教育指标]]”（[[World Education Indicators]], WEI）项目；与[[World Bank|世行]]、[[UNICEF]] 联合发起的[[Learning Data Compact|学习数据契约]]。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 545)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444)]]
+> - **旗舰项目、调查与测评** 发展中国家国家教育战略规划技术援助（由 [[International Institute for Educational Planning|IIEP]] 执行）；区域教育与发展长期追踪调查（如 UNESCO/CEPAL/PNUD 宏观教育普查项目）；扫盲先锋奖；世界遗产与[[Sustainability Education|可持续发展教育]]网络；与 [[OECD|经合组织]]、[[World Bank|世界银行]] 联合发起的“世界[[Performance Indicators|教育指标]]”（[[World Education Indicators]], WEI）项目；与[[World Bank|世行]]、[[UNICEF]] 联合发起的[[Learning Data Compact|学习数据契约]]；资助[[International Schools|国际学校]]校本实验课程跨校交流（如[[International Baccalaureate Nutritional Science Course|国际文凭营养科学课程]]推广论证；Peterson, 1987, pp. 204–205）。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 545)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444)]]
 > - **旗舰出版物与咨询成果** 《[[Global Education Monitoring Report|全球教育监测报告]]》（GEMR，年度独立报告，包括 2013/2014 年首次界定全球学习危机的里程碑报告《教学与学习：实现全员质量》）；《教育的未来：一种新的社会契约》（2021）；《全球水资源开发报告》与教育科学政策丛书。
 
 > [!citation-card] 教科文组织与世界银行的制度[[Paradigm|范式]]分野
 > 在早期岁月，世界银行的教育项目组合与教科文组织几乎无异；然而，与世界银行形成鲜明对照的是，教科文组织始终秉持一种人道主义与人权驱动的教育理念。两家机构虽然在 1964 年签署了合作协定，但随着世界银行在教科文组织的帮助下打开了通往全球南方国家的大门，它便开始与教科文组织拉开距离。事实证明，这两家机构既没有共同的政策愿景与战略重点，也没有共同的治理运作模式。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]
 >
 > *In the early years, the World Bank’s portfolio in education was almost identical to that of UNESCO. In stark contrast to the World Bank, however, UNESCO had a humanistic and human rights-driven approach to education. The connection between the two organisations was sealed through the Co-operative Agreement signed in 1964. After gaining access to countries of the Global South with the help of UNESCO, the World Bank started to distance itself from UNESCO. It became increasingly apparent that the two organisations neither shared outlooks and priorities nor a modus operandi in governance.*
-
----
-
-### 营养科学的跨校推广资助
-
-> [!case] 小额专家交流支持未能转化为常规课程扩散
-> [[United World Colleges|联合世界书院]]（United World Colleges，UWC）的东南亚书院把[[International Baccalaureate Nutritional Science Course|国际文凭营养科学课程]]设为[[International Baccalaureate|国际文凭]]（International Baccalaureate，IB）的内部评价第六科。学生调查当地饮食，并综合不同学科知识处理营养问题。Peterson 认为，它可以让发展中国家的[[International Schools|国际学校]]更直接接触周围村落与贫困城市地区，因而尝试仿照日内瓦应用化学的路径，将其推广为常规课程选项。UNESCO 对课程表示兴趣，并资助专家与其他远东 IB 学校教师讨论采用的可能。马尼拉、雅加达及香港学校虽表示兴趣，最终均未采用；作者记述时，课程仍只在新加坡与墨西哥城作为内部第六科存在。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–205)]]
-
-> [!factors] 交流资助与实施能力之间的缺口
-> - **资助覆盖的工作** 小额经费支持专家讨论课程推广，原文没有报告它足以承担完整教师培训与持续跟进。
-> - **学校教师条件** Peterson 判断其他学校没有具备授课资格的教师，是未采用的主要原因；这属于参与者的解释，原文没有控制比较。
-> - **文凭选课空间** 仅列在第六科的创新课程，也会被大学科学专业要求的第二门科学或语言专业要求的额外语言挤出。课程认可、教师能力和培训资源须同时考虑。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, p. 205)]]
-
-> [!boundary] 后续项目资助不能归给 UNESCO
-> 1982 年提出的[[Science Technology and Social Change Curriculum Pilot|科学、技术与社会变迁]]课程试点改用英国朗特里信托和印度塔塔信托的较充足资助，并安排跨校开发与三周在职培训。原文将这两笔资助与先前 UNESCO 营养科学资助区分开来，没有说 UNESCO 承担后续试点的主要资金。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 205–206)]]
 
 ---
 
@@ -196,9 +182,6 @@ updated: 2026-10-15
 > - **政策塑造** 推动全球形成对弱势群体教育机会均等、难民受教育权保护以及教育公共属性的国际法和政治承诺。
 > - **学校与实践改变** 在发展中国家基层推动扫盲课程、和平教育、母语教学与环境[[Sustainability Education|可持续发展教育]]实验。
 
-> [!stat-cards] 营养科学推广的专项资助
-> - **2,000** 美元为 UNESCO 支持营养科学推广的资助额，作者认为不足以负担所需在职培训与后续会议。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, p. 205)]]
-
 > [!stat-cards]- 原条目保留的规模数据
 > - **194** 个成员国。
 > - **12** 个准会员。
@@ -208,15 +191,6 @@ updated: 2026-10-15
 ---
 
 ## 争议、批评与反思
-
-### 专项支持与直接承担跨国办学责任的区别
-
-> [!claim] 规范倡议与具体办学能力需要分开判断
-> Peterson 在讨论 IB 与 [[United World Colleges|UWC]] 为谁服务时，把可能的 UNESCO 决议与两个自愿组织可实际完成的工作区分开来。他并未否定国际规范的意义，而是把课程推广、学生资助与办学扩展放在具体资源条件下讨论。营养科学案例说明，获得国际机构关注和专项资助可以启动交流，但学校是否采用仍受教师、课程位置与培训资源制约。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–207)]]
-
-> [!boundary] 对联合国机构的历史判断不等于 UNESCO 的正式立场
-> 作者在 1980 年代政治环境下判断，私人资金不足以维持开放的[[International Education|国际教育]]，政府尚未准备全面承担，而任何联合国机构也难以直接负责。他倾向扩大政府援助并相应增加政府在自愿组织中的方针影响。这是作者对当时国际教育供给的判断；原文该段泛指联合国机构，不能改写为 UNESCO 正式拒绝办学、存在永久性法律禁令，或否定其专项课程支持。[[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 215–216)]]
-
 
 > [!debates] 核心争议交锋
 >
@@ -284,7 +258,7 @@ updated: 2026-10-15
 > |:-----|:-----|:-----|
 > | [[International Institute for Educational Planning]] | 事实 (机构) | 教科文组织旗下负责全球宏观教育规划研究与专员培训的一类研究所。 |
 > | [[Learning Data Compact]] | 事实 (项目) | 教科文组织与 [[UNICEF]]、[[World Bank\|世界银行]]联合组建的学习评估数据协调契约。 |
-> | [[Teach Classroom Observation Tool\|Teach 课堂观察工具]] | 工具 | 世界银行回应 UNESCO 2013/2014 报告所揭示的全球学习危机而研制的微观课堂观察标准化规程。 |
+> | [[Teach Classroom Observation Tool\|Teach 课堂观察工具]] | 工具 | 世界银行回应 UNESCO 2013/2014 报告所揭示的[[Learning Crisis\|全球学习危机]]而研制的微观[[Classroom Observation\|课堂观察]]标准化规程。 |
 > | [[UN Sustainable Development Goals]] | 事实 (政策) | 教科文组织被联大指定为全球教育目标（SDG 4）的唯一牵头与协调中枢。 |
 > | [[1960 Bellagio Conference]] | 事实 (峰会) | 催生 IIEP 成立与西方多边教育援助共识的标志性峰会。 |
 > | [[Development Turn in Comparative Education]] | 概念 | 刻画战后 UNESCO 与世行向全球南方推动现代教育扩张的历史转向。 |
@@ -304,13 +278,14 @@ updated: 2026-10-15
 > | [[Fazal Rizvi]] | 人物 | 与林加德合作解构教科文组织参与的多边指标合作与知识经济话语扩散。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|(Rizvi & Lingard, 2009, pp. 443–445)]] |
 > | [[Bob Lingard]] | 人物 | 批判政策社会学家；实证考察全球多边教育治理[[Discourse\|话语]]滑移与新自由主义[[Social Imaginary\|社会想象]]的代表学者。 |
 > | [[Knowledge-Based Economy]] | 概念 | 经合组织倡导并辐射至教科文组织的全球主导话语，将教育重构为经济竞争力杠杆。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|(Rizvi & Lingard, 2009, pp. 444–445)]] |
+> | [[International Baccalaureate Nutritional Science Course\|国际文凭营养科学课程]] | 事实 (项目) | 教科文组织曾提供小额专家交流资助以探讨其在远东国际学校常规扩散可行性的校本实验课程。[[Argument_Peterson_1987_OpenCourt_Ch08\|(Peterson, 1987, pp. 204–205)]] |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid] [[Document|文献]]与论证索引
-> - [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–207, 215–216)]] — 记录营养科学专项资助及推广受阻，并区分国际规范、专项支持与直接承担办学责任。
+> - [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 204–207, 215–216)]] — 记录教科文组织对营养科学课程推广的小额专项资助，并辨析国际规范倡导与具体办学供给责任。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 结合蒙迪（Mundy, 1998, 1999）与[[Stephen P. Heyneman|海尼曼]]（Heyneman, 2003）研究，梳理多边主义从有限再分配向[[Disciplina and Doctrina|规训]]性阶段演进中教科文组织主导权的[[Attrition|流失]]，并辨析其 6-3-3 学制模板与儿童中心教学规范在本土落地时的适切性张力（pp. 106, 108, 110）。
 > - [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]] — 从圈内高阶官员实务视角，剖析宗迪恩大会后教科文组织教育理念领导权的易手，以及缺乏贷款资金杠杆导致的“免费建议廉价性悖论”（pp. 466, 472–473）。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 剖析教科文组织与[[World Bank|世界银行]]从 1964 年合作协定到[[Paradigm|范式]]分道扬镳的组织演进历程，揭示其在当代全球[[Learning Data Compact|学习数据契约]]中的再平衡定位（pp. 541–545）。
@@ -318,4 +293,4 @@ updated: 2026-10-15
 > - [[Argument_Wu_2025_ER|Wu et al. (2025)]] — 评析教科文组织在人工智能时代推出的[[Generative Artificial Intelligence|生成式人工智能]]应用指南与师生能力框架，强调捍卫[[Epistemic Agency|认识主体性]]与伦理底线（pp. 358–360）。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 援引教科文组织 2006 年《[[Global Education Monitoring Report|全民教育全球监测报告]]》数据，实证检验全球化结构调整对受援国基础[[Performance Indicators|教育指标]]达标的消极影响，并以古巴自主国家动员为对照阐明主权自决对实现[[Education for All|全民教育]]的关键意义（p. 134）。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]] — 考察教科文组织与[[OECD|经合组织]]、世界银行合作开展“[[World Education Indicators|世界教育指标]]”（WEI）项目的历史，揭示其在经合组织示范下跟进采纳[[Knowledge-Based Economy|知识经济]][[Discourse|话语]]的制度妥协（pp. 443–445）。
-> - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 援引联合国教科文组织 2013/2014 年全球监测报告关于全球学习危机的经典界定，将基础教育普及但基本技能缺失的宏观矛盾确立为 Teach 课堂观察手册研发的核心动因。（p. 2）
+> - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 援引联合国教科文组织 2013/2014 年全球监测报告关于[[Learning Crisis|全球学习危机]]的经典界定，将基础教育普及但基本技能缺失的宏观矛盾确立为 Teach [[Classroom Observation|课堂观察]]手册研发的核心动因。（p. 2）

@@ -5,7 +5,7 @@ aliases:
 summary: "综合性教学质量概念，关注教师如何通过明确领导、清晰目标、反馈、学习导向气氛和适配学生前提来促进学习。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 51
+related_count: 56
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -31,6 +31,9 @@ related_concepts:
   - "[[Counterfactual]]"
   - "[[Classroom Management]]"
   - "[[Academic Achievement]]"
+  - "[[Operationalization]]"
+  - "[[Time on Task]]"
+  - "[[Critical Thinking]]"
   - "[[Epistemology]]"
   - "[[Variable]]"
   - "[[Inquiry-Based Learning]]"
@@ -43,15 +46,17 @@ related_concepts:
   - "[[Evidence Standards]]"
   - "[[Higher-Order Thinking Skills]]"
   - "[[Working Memory]]"
-  - "[[Critical Thinking]]"
   - "[[Creativity]]"
   - "[[Determinism]]"
   - "[[School Leadership]]"
+  - "[[Reliability]]"
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Classroom Observation]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
+  - "[[Inter-Rater Reliability]]"
   - "[[Correlational Research]]"
 related_persons:
   - "[[John Hattie]]"
@@ -59,21 +64,24 @@ related_persons:
   - "[[Andreas Helmke]]"
   - "[[Robert Slavin]]"
 related_facts:
+  - "[[World Bank]]"
   - "[[Science Foundation Ireland]]"
   - "[[SFI Report]]"
   - "[[Success for All]]"
   - "[[Every Student Succeeds Act]]"
   - "[[Best Evidence Synthesis]]"
+related_instruments: []
 related_arguments:
   - "[[Argument_Laursen_2015_Paideia]]"
   - "[[Argument_Slavin_2019_EP]]"
+  - "[[Argument_WorldBank_2019_Teach]]"
   - "[[Argument_Cartiff_2021_JEP]]"
   - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Abrami_2015_RER]]"
 confidence: high
 status: active
 created: '2026-05-05'
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Effective Teaching
@@ -135,6 +143,19 @@ updated: 2026-10-07
 >     E --> A
 > ```
 
+### 全球南方与发展中国家视野下的四维操作化架构（以世界银行 Teach 为例）
+
+针对低收入与中等收入国家（Low- and Middle-Income Countries, LMICs）复杂的课堂生态，[[World Bank|世界银行]] Teach [[Classroom Observation|课堂观察]]工具将有效教学解构为四维互补的[[Operationalization|操作化]]架构，打破了传统教学评估对单一学科考试成绩的狭隘依赖，将社会情感技能与课堂文化确立为有效教学的核心基柱（[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019)]]）：
+
+> [!framework-table] 世界银行 Teach 有效教学四维架构与外显行为观测要素
+>
+> | 核心维度 | 理论功能与质量关注点 | 核心要素与观测指标 | 行为锚定判定标准 |
+> |---|---|---|---|
+> | **在任务时间（[[Time on Task]]）** | 学习时间的最大化利用与学业专注保障 | 教师教学状态、学生活动参与度（3 次低推论瞬间快照） | 教师提供学习活动且脱离任务学生不超过一完整活动组 |
+> | **课堂文化（Classroom Culture）** | 营造无焦虑心理安全环境与积极行为规范 | 支持性学习环境、积极行为预期 | 教师尊重关怀全员且杜绝体罚羞辱，以正面引导替代惩戒 |
+> | **教学指导（Instruction）** | 促进深层学科理解与高阶认知发展 | 教学解析、理解检查、针对性反馈、[[Critical Thinking\|批判性思维]] | 讲解逻辑清晰，通过追问引导解释思路，提供改进反馈 |
+> | **社会情感技能（Socioemotional Skills）** | 培养学生自主性与健全社会互动能力 | 学生自主性、坚毅品质、社会与协作技能 | 提供任务选择与责任机会，表扬努力过程，引导同伴协作 |
+
 ---
 
 ## 围绕概念形成的命题
@@ -192,6 +213,7 @@ updated: 2026-10-07
 > - **1990–2000 年代 — [[Didaktik\|欧陆教学论]]与质量框架整合（Didaktik & Quality Dimensions）** [[Hilbert Meyer]]（10 项优质教学特征）与 [[Andreas Helmke]]（优质教学综合模型）将教师领导、目标导向与认知激活纳入系统化质量框架。
 > - **2009 年 — 可见学习[[Meta-analysis\|元分析]]综合（[[Visible Learning]]）** [[John Hattie]] 出版《可见学习》，综合 800+ 项元分析，提出教师作为“主动激活者（$d = 0.60$）”远优于“促进者（$d = 0.17$）”的论断。[[Argument_Laursen_2015_Paideia\|(Laursen, 2015, p. 35)]]
 > - **2015 年 — 跨文化检验与社会背景调节深化** Per Fibæk Laursen 结合丹麦 [[Science Foundation Ireland|SFI]] 报告检验国际综合，揭示有效教学质量的跨文化普适性及学生社会背景对开放教学效果的深度调节。[[Argument_Laursen_2015_Paideia\|(Laursen, 2015, pp. 38–40)]]
+> - **2019 年 — 跨国观察规程与社会情感整合（Teach 范式）** [[World Bank|世界银行]]发布 Teach [[Classroom Observation|课堂观察]]框架，针对低收入与中等收入国家确立了有效教学四维测量架构（在任务时间、课堂文化、教学指导、社会情感技能），推动有效教学评估从高收入国家传统工具向全球普适性田野规程拓展。[[Argument_WorldBank_2019_Teach\|(World Bank Group, 2019)]]
 > - **2019 年至今 — 循证改革批判与具体方案转向** [[Robert Slavin]] 系统指出抽象通用原则的实践失效，倡导将有效教学内嵌于达到 [[Every Student Succeeds Act\|ESSA]] 强[[Evidence Standards\|证据标准]]的成套课程与干预产品中。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 22–23)]]
 > - **2021 年 — [[Epistemology\|认识论]]因果干预对有效教学核心要素的量化提炼** [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 开展首个认识论教学元分析，实证确立了有效教学的四大循证支柱：显性[[Inquiry-Based Learning\|指导式探究]]与[[Source Evaluation\|信源评估]]的机制优势、1–4 周高浓度聚焦实施、[[Formative Assessment\|形成性评价]]反馈撬动延时内化反弹，以及评价工具与深层[[Higher-Order Thinking Skills\|高阶思维]]的精准对齐。
 
@@ -243,6 +265,7 @@ updated: 2026-10-07
 > | [[SFI Report\|SFI 报告 (2015)]]，引自 [[Argument_Laursen_2015_Paideia\|Laursen (2015, pp. 37–38)]] | 丹麦全国公立中小学样本 | 大规模量化调查与毕业统考成绩回归分析 | [[Classroom Management\|课堂管理]]、清晰目标、高期望、差异化教学及开放教学 | 明确课堂管理、清晰目标和高学业要求与优异成绩显著正相关；教学差异化未显显著效应；开放教学效果显著受学生家庭 SES 调节 | 证实有效教学基本质量在北欧情境下的普适性与阶层调节特征 |
 > | Mehlbye (2004, 2010)，引自 [[Argument_Laursen_2015_Paideia\|Laursen (2015, pp. 38–39)]] | 丹麦高绩效学校追踪样本 | [[School Effectiveness\|学校效能]]案例对比与纵向质性/量化追踪 | [[School Leadership\|学校领导力]]、学业导向、测试频率与课堂规范 | 高绩效学校普遍具备高学业期待、严格课堂管理与频繁诊断性测试机制 | 确立了学校层面对有效教学实践的组织支撑规律 |
 > | [[Argument_Slavin_2019_EP\|Slavin (2019)]] | 全美中小学阅读与数学实证干预项目库 | 政策综述与[[Best Evidence Synthesis\|最佳证据综合]] | 抽象有效教学原则推广 vs 具体成套方案实施 | 单纯培训抽象有效原则极少在独立 RCT 中产生显著学业增益；而成套结构化方案（如 SFA $ES=+0.41$）产生稳健因果效应 | 确立了从抽象原则向具体实验验证方案转型的政策与实践依据 |
+> | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] | 莫桑比克、巴基斯坦、菲律宾、乌拉圭四国课堂样本 | 大规模视频盲测[[Reliability\|信度]]检验与两段式观察回归分析 | 10 项核心教学要素、[[Inter-Rater Reliability\|评分者间信度]]、两段式测量方差捕捉率 | 评分者认证通过率达 74%–100%；两段式各 15 分钟连续观察可稳定捕捉教学效能方差，同时揭示[[Critical Thinking\|批判性思维]]普遍处于得分最低洼地 | 证实有效教学四维测量架构在跨语境低资源环境下的信度收敛与测量敏感度 |
 
 ---
 
@@ -254,5 +277,6 @@ updated: 2026-10-07
 > - [[Argument_Terhart_2011_JCS\|Terhart (2011)]] — 对比英美实证有效教学[[Paradigm\|范式]]与欧陆经典教学论（[[Didaktik]]）的[[Epistemology\|认识论]]差异。
 > - [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] — 实证检验[[Direct Instruction\|显性直接教学]]与情境探究融合对培养高阶[[Critical Thinking\|批判性思维]]的最优效能。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 开展认识论干预[[Meta-analysis\|元分析]]，实证确立[[Inquiry-Based Learning\|指导式探究]]与[[Source Evaluation\|信源评估]]的机制优势、短周期高浓度教学特征与[[Formative Assessment\|形成性评价]]反馈对[[Academic Achievement\|学业成就]]的因果促进作用，提炼出有效教学的循证关键支柱。
+> - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 确立全球基础教育有效教学四维架构（在任务时间、课堂文化、教学指导、社会情感技能），提供跨国大样本[[Classroom Observation|课堂观察]]测量基准。
 
 

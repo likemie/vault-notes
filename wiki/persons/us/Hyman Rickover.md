@@ -10,10 +10,10 @@ summary: "美国海军四星上将，被誉为核海军之父；领导开发了�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 8
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 7
+person_related_level: 0
+person_related_stars: ""
+person_related_color: "#e5e7eb"
 born: "1900"
 died: "1986"
 lifespan: "1900–1986"
@@ -34,12 +34,11 @@ related_facts:
   - "[[USS Nautilus Submarine Development]]"
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch16]]"
-related_persons:
-  - "[[Nikolas Rose]]"
+related_persons: []
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Hyman Rickover
@@ -63,7 +62,7 @@ updated: 2026-10-14
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1900** 出生于当时隶属于俄[[Nikolas Rose|罗斯]]帝国的波兰马科夫（Maków Mazowiecki）附近小镇，父亲为裁缝。
+> - **1900** 出生于当时隶属于俄罗斯帝国的波兰马科夫（Maków Mazowiecki）附近小镇，父亲为裁缝。
 > - **1906** 随家人移民美国纽约。
 > - **1922** 毕业于美国海军学院，随后在哥伦比亚大学获得电气工程硕士学位。
 > - **1940 年代后期** 出任美国海军反应堆部门负责人，同时兼任美国原子能委员会（Atomic Energy Commission, AEC）海军反应堆主管，开启潜艇核动力推进研发。

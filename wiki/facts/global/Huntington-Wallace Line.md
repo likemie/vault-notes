@@ -9,7 +9,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 6
+fact_related_count: 5
 fact_related_level: 0
 fact_related_stars: ""
 fact_related_color: "#fef3c7"
@@ -27,7 +27,6 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Samuel P. Huntington]]"
-  - "[[Nikolas Rose]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07]]"
@@ -35,7 +34,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Huntington-Wallace Line
@@ -48,7 +47,7 @@ updated: 2026-10-14
 > **[[Samuel P. Huntington|亨廷顿]]-华莱士线（Huntington-Wallace Line）**指牛津大学学者威廉·华莱士（William Wallace）考证划定、并在塞缪尔·P·亨廷顿（Samuel P. Huntington）1993年名篇《文明的冲突？》中被作为核心图示引用的欧洲历史文化分界线。该线标示了截至公元1500年西方基督教（罗马天主教与新教）向东扩展的最远历史疆界，将欧洲清晰划分为西方基督教文明区与东正教及伊斯兰文明区。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 85–86)]]
 
 > [!event-context] 地理分布与历史根基
-> - **空间地理走廊** 北起芬兰与俄[[Nikolas Rose|罗斯]]边界，沿波罗的海东岸南下，穿过白俄罗斯与乌克兰西部、罗马尼亚特兰西瓦尼亚，延伸至巴尔干半岛的斯洛文尼亚与克罗地亚边界。
+> - **空间地理走廊** 北起芬兰与俄罗斯边界，沿波罗的海东岸南下，穿过白俄罗斯与乌克兰西部、罗马尼亚特兰西瓦尼亚，延伸至巴尔干半岛的斯洛文尼亚与克罗地亚边界。
 > - **核心历史当事人** 威廉·华莱士（William Wallace，英国牛津大学圣安东尼学院研究员）、塞缪尔·P·亨廷顿（Samuel P. Huntington，哈佛大学教授）。
 > - **深层文明分野** 该线西侧历史深度浸润于罗马法体系、封建契约、文艺复兴、宗教改革、[[Enlightenment|启蒙运动]]及现代市场经济；东侧则承袭拜占庭东正教传统或奥斯曼帝国统治历史，缺乏深厚的市民自治与宪政法治根基。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 85–86)]]
 

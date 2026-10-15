@@ -41,6 +41,7 @@ related_concepts:
   - "[[Hypothesis]]"
 related_theories: []
 related_methods:
+  - "[[Classroom Observation]]"
   - "[[Factorial Design]]"
   - "[[Random Assignment]]"
   - "[[Sample Size Determination]]"
@@ -85,7 +86,7 @@ updated: 2026-09-16
 > - **覆盖对象** 英格兰公立中学七至九年级数学和科学在职任课教师。
 > - **干预措施** 
 >   1. **大额经济绩效奖金** 依据学生的阶段性学业增值数据，达标教师个人可获得最高达 5,000 英镑的直接税后现金奖励；
->   2. **精准化教学辅导** 配备外部资深学科教练，每月提供面对面的课堂观察与循证[[Feedback\|教学反馈]]；
+>   2. **精准化教学辅导** 配备外部资深学科教练，每月提供面对面的[[Classroom Observation|课堂观察]]与循证[[Feedback\|教学反馈]]；
 >   3. **[[Factorial Design\|析因设计]]对照** 设立纯辅导组、辅导加奖金激励组以及[[Business as Usual\|常态教学]]对照组，以剥离金钱刺激与专业支持的独立贡献。
 > - **实施控制** 采用校内或校际教师层面的[[Random Assignment\|随机分配]]，设定严格的[[Statistical Analysis Plan\|统计分析计划]]（Statistical Analysis Plan, SAP）。
 

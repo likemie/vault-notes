@@ -7,7 +7,7 @@ aliases:
 summary: "将教育与培训视为提升劳动生产率与驱动内生经济增长的核心生产性投资之经济学理论。二战后在冷战地缘博弈中成为经合组织（OECD）推行技术官僚式人力规划与世界银行构建跨国放贷指标帝国的核心理论支柱；在创新经济学中阐明了重大工程实战历练与冷战大学研究生流动构筑高科技产业实体技术转移与人才生态的微观机制。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 73
+theory_related_count: 74
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Policy Conditionalities]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Learning Crisis]]"
   - "[[Total Factor Productivity]]"
   - "[[Comprehensive Education]]"
   - "[[Independent Variable]]"
@@ -59,6 +60,7 @@ related_concepts:
   - "[[Public Value]]"
   - "[[Scientific Paradigm]]"
   - "[[Discourse]]"
+  - "[[Effective Teaching]]"
 related_theories:
   - "[[New Growth Theory]]"
   - "[[Governing at a Distance]]"
@@ -93,6 +95,7 @@ related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Schnee_1978_RP]]"
+  - "[[Argument_WorldBank_2019_Teach]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Fabrizio_Mowery_2005_REI]]"
   - "[[Argument_Bown_2024_JEP]]"
@@ -100,7 +103,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-08
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Human Capital Theory
@@ -141,6 +144,7 @@ updated: 2026-10-14
 > | 控制论人力规划（Cybernetic Manpower Planning） | 方法 | 冷战时期[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD，简称经合组织）为抗衡苏联计划经济竞争，将人力资本理论与控制论相结合的技术官僚规划范式，专注于劳动力市场中长期工程师与技术人员需求的宏观预测。[[Argument_Steiner-Khamsi_2024_CE\|(Popkewitz, 2022; Steiner-Khamsi et al., 2024, p. 541)]] |
 > | 技术官僚绩效[[Disciplina and Doctrina\|规训]]（Technocratic Disciplining Pressure） | 机制 | 经合组织（OECD）等跨国组织将人力资本逻辑转化为直接约束国家研究经费与问责指标的治理手段，迫使比较教育研究从价值反思转向服从于经济竞争力的绩效达标。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, p. 96)]] |
 > | 重大工程专门工程人力资本与多维流动机制（Mission-Oriented Engineering Human Capital & Mobility） | 机制 | 高技术产业中通过重大公共战略工程实战历练形成的高级系统架构与工程管理专门人力资本，通过半导体企业间衍生创业网络与计算机企业内部跨部门调配双重通道平移至国民经济民用领域。[[Argument_Schnee_1978_RP\|(Schnee, 1978, pp. 17–20)]] |
+> | 有学无教与[[Learning Crisis\|学习贫困]]（Schooling without Learning / Learning Poverty） | 机制 | 世界银行（World Bank Group, 2018; [[Argument_WorldBank_2019_Teach\|World Bank Group, 2019]]）揭示发展中国家入学率扩张并未同步转化为实质人力资本积累；若缺乏高质量的课堂微观教学实践，学校教育无法自发生成生产力，倒逼政策重心转向教师教学质量。[[Argument_WorldBank_2019_Teach\|(World Bank Group, 2019, pp. 1–3)]] |
 
 ---
 
@@ -183,34 +187,39 @@ updated: 2026-10-14
 
 > [!mechanism-map]- 人力资本理论的多重运作机制演化图
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >   subgraph 经济学内生生产力逻辑
->     A["教育与培训投资"] --> B["个体认知与技能积累 (人力资本存量)"]
+>     A["教育与培训投资"] --> B["个体认知与技能积累<br/>(人力资本存量)"]
 >     B --> C["劳动边际生产率提高"]
 >     C --> D["个人收入增长与宏观经济繁荣"]
 >   end
+>   subgraph 微观教学质量转化逻辑
+>     T["基础教育入学率普及"] --> U["有学无教与学习贫困<br/>(World Bank, 2018)"]
+>     U --> V["课堂教师有效教学实践<br/>(Teach 观察工具)"]
+>     V -->|突破积累瓶颈| B
+>   end
 >   subgraph 国家政策规划与合法化逻辑
->     E["潜在人才库发掘诉求 (Halsey et al.)"] --> F["人力需求预测模型 (Parnes, OECD MRP)"]
+>     E["潜在人才库发掘诉求<br/>(Halsey et al.)"] --> F["人力需求预测模型<br/>(Parnes, OECD MRP)"]
 >     F --> G["国家五年教育扩张规划与公共预算追加"]
->     G --> H["实证科学作为统治正统借口 (Legitimation Alibi)"]
+>     G --> H["实证科学作为统治正统借口<br/>(Legitimation Alibi)"]
 >   end
 >   subgraph 跨国组织冷战地缘与指标治理逻辑
->     J["冷战斯普特尼克冲击 (1957)"] --> K["经合组织控制论人力规划 (经济北约)"]
+>     J["冷战斯普特尼克冲击 (1957)"] --> K["经合组织控制论人力规划<br/>(经济北约)"]
 >     L["世界银行放贷权力扩张 (1980)"] --> M["Psacharopoulos 1120项收益率数据库"]
 >     K --> N["跨国指标帝国与自指性政策规制"]
 >     M --> N
 >   end
 >   subgraph 高技术工程人力资本与流动网络逻辑
->     O["国家重大战略工程任务 (NASA/DOD)"] --> P["复杂系统实战历练与专门工程人力资本"]
->     P --> Q["企业间衍生网络流动 (半导体离职创业)"]
->     P --> R["企业内跨部门经验平移 (计算机项目管理)"]
->     Q --> S["民用基础设施与高技术产业全球竞争优势"]
+>     O["国家重大战略工程任务<br/>(NASA/DOD)"] --> P["复杂系统实战历练与专门工程人力资本"]
+>     P --> Q["企业间衍生网络流动<br/>(半导体离职创业)"]
+>     P --> R["企业内跨部门经验平移<br/>(计算机项目管理)"]
+>     Q --> S["高技术产业全球竞争优势"]
 >     R --> S
 >   end
 >   A -.-> E
->   D -.1970年代经济滞胀检验.-x I["规划承诺破灭与实证神话危机 (Husén, 1982)"]
+>   D -.1970年代滞胀检验.-x I["规划承诺破灭与实证神话危机<br/>(Husén, 1982)"]
 >   H -.-> N
->   O -.国家战略拉动.-> A
+>   O -.战略拉动.-> A
 > ```
 
 > [!exegesis]- 教育规划与综合中学运动的实证案例
@@ -260,6 +269,7 @@ updated: 2026-10-14
 > - **1978 — 高技术工程人力资本与多维流动机制** 杰罗姆·E·施奈（[[Jerome E. Schnee]]）将人力资本分析拓展至前沿高技术产业，实证揭示了空间与国防重大工程如何充当工程架构与项目管理人才的孵化池，并通过半导体企业间衍生网络与计算机企业内部跨部门迁移双重机制驱动国家高技术产业优势确立。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 17–20)]]
 > - **1980–1990 年代 — [[World Bank|世界银行]]放贷帝国、[[New Growth Theory|内生新增长理论]]与[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]** 1980 年世界银行发布首份《教育部门政策文件》（World Bank, 1980），[[George Psacharopoulos]] 建立起涵盖 139 国、1,120 项估算的回报率数据库，使人力资本收益率成为跨国政策放贷与治理干预的硬性规制指标；罗伯特·卢卡斯（Robert Lucas, 1988）、保罗·罗默（Paul Romer, 1986）与彼得·豪伊特（Peter Howitt, 2000）发展内生新增长理论，将知识与人力资本确立为技术进步和创新商业化的内生核心。[[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，1990 年代中期后[[OECD]]借此建构起“[[Knowledge-Based Economy|知识经济]]的[[Social Imaginary|社会想象]]”，使人力资本内涵从 1960 年代科学和工程技术人员办公室（Office for Scientific and Technical Personnel）关注的狭隘科技专才，扩展为涵盖适应力、组织忠诚度、跨文化高压独立工作、团队沟通与知识商业化等全方位行为特质与“知其所以操作”（[[Procedural Knowledge|knowing how]]）的[[Lifelong Learning|终身学习]]能力，并将教育从社会民主主义时期的公共物品重塑为兼具公共与私人[[Return on Investment|投资回报]]属性的混合商品。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–542)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438–439, 445–446, 451)]]
 > - **2000 年代至今 — 全球指标治理与测评帝国再融合** 进入 21 世纪，人力资本逻辑在经合组织[[International Indicators of Education Systems|国际教育系统指标]]（International Indicators of Education Systems，INES）网络、《[[Education at a Glance|教育概览]]》（Education at a Glance，EAG）与[[PISA|国际学生评估项目]]（Programme for International Student Assessment，PISA）跨国技能测试中被深度重构为“全球[[Knowledge-Based Economy|知识经济]][[Competitiveness|竞争力]]”治理框架，从粗放投入预测转向基于测评数据的产出绩效规制。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 541–543)]]
+> - **2018–2019 — 世界银行反思“有学无教”与人力资本积累微观转向** 世界银行发布《2018年世界发展报告》与《Teach 观察员手册》（[[Argument_WorldBank_2019_Teach|World Bank Group, 2019]]），正式确立“[[Learning Crisis|学习贫困]]”（Learning Poverty）概念，反思发展中国家单纯依靠学校入学率扩张并未自发带来人力资本实质积累的历史困境；实证揭示教师教学质量是驱动学业成果的最关键校内源泉，推动人力资本积累分析从宏观入学年限穿透至微观课堂互动质量测评。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 1–3)]]
 
 ---
 
@@ -308,6 +318,12 @@ updated: 2026-10-14
 > >
 > > - **新自由主义人力资本与经合组织范式（OECD, 1996; Romer, 1990）** 主张在[[Knowledge-Based Economy|知识经济]]全球竞争下，教育的核心使命是人力资本形成与提升[[Return on Investment|投资回报率]]；教育兼具公共产品与私人产品属性：公共性体现为驱动国家 GDP 增长与全球竞争力，私人性体现为赋能个体获得劳动报酬与社会流动机会（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, pp. 449–450]]）；因此政策干预必须聚焦于技能升级、[[Lifelong Learning|终身学习]]与按绩效配置资源。
 > > - **批判教育社会学与公共价值辩护（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）** 批判人力资本理论彻底窄化了教育的本质，将民主社会赖以维系的“民主意义上的公共善”（public good in the democratic sense）——包括社会凝聚力、批判性公民参与、对结构性不平等的反思与社会正义——完全排除或边缘化为经济增长的工具性注脚；受教育者被贬低为单纯的“经济理性人”和自我投资的企业家，剥夺了教育启迪民主生活与社会伦理的深层功能。
+>
+> > [!axis] 正规学校就学年限积累 vs 课堂真实学习成效（Schooling vs. Learning）
+> > 围绕人力资本的积累究竟取决于在校接受正规教育的年限与外在硬件投资，还是取决于微观课堂互动中实质发生的高阶认知与学习成效展开论争。
+> >
+> > - **传统宏观人力资本学派（Schultz, 1961; Psacharopoulos, 1981）** 将[[Educational Level|受教育年限]]和入学率作为核心测算指标，假定学校教育年限的增加可自发转化为劳动技能与边际生产力增长。
+> > - **新实证教育经济学与[[World Bank|世行]][[Learning Crisis|学习危机]]转向（[[Argument_WorldBank_2019_Teach|World Bank Group, 2019]]）** 揭示发展中国家普遍陷入“有学无教”（Schooling without Learning）困境，基础教育普及未能消除学习贫困；实证证据证明教师教学效能的微观差异是决定人力资本积累的最关键校内源泉（优秀教师可带来相当于 1 至 2 年的全日制学业增益），倒逼人力资本积累分析从宏观入学年限穿透至微观课堂互动质量测评。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 1–3)]]
 
 > [!critique] 外部批评
 > - **过度学校化与异化** [[Torsten Husén|托斯滕·胡森]]（Husén, 1982）等学者指出，将教育简化为人力资本积累导致全社会陷入非理性的学校竞赛，加剧青年人的心理异化，并未消解阶级特权。
@@ -326,5 +342,6 @@ updated: 2026-10-14
 > - [[Argument_Schnee_1978_RP|Schnee (1978)]] — 系统剖析美国半导体与计算机产业发展史，揭示重大公共战略工程如何培育高技术专门工程人力资本，并通过企业间衍生创业网络与企业内部跨部门平移双重机制驱动民用产业升级。
 > - [[Argument_Bown_2024_JEP|Bown & Wang (2024)]] — 从[[Modern Industrial Policy|现代产业政策]]与大国半导体竞争视角，阐明高科技先进制程对高密度专门工程劳动力池的刚性依赖、跨国战略人才招募竞争，以及补贴法案中[[Workforce Development|劳动力发展]]（IMEC 产学模式与托儿服务配套）的制度设计。
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery (2005)]] — 实证阐明战后美国国防科研对大学计算机系所的长期资助如何孵化新兴科技人力资本，并通过受训研究生的跨界流动构筑信息技术向产业界转移的核心载体。
+> - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — [[Learning Crisis|全球学习危机]]与教师教学质量观察工具手册，揭示初等教育入学率扩张与实质人力资本积累脱节的“学习贫困”机制，确立微观课堂[[Effective Teaching|有效教学]]行为对打破发展中国家学业鸿沟的核心决定作用。
 
 ---

@@ -140,6 +140,7 @@ related_methods:
   - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_instruments:
+  - "[[Framework for Teaching]]"
   - "[[PRISMA]]"
 related_persons:
   - "[[Socrates]]"
@@ -209,7 +210,7 @@ updated: 2026-10-09
 > *科技政策将赢得 AI 竞赛确立为国家利益核心叙事，通过 AI 行动计划与创世纪计划动员国家实验室与企业，弱化了对传统大学基础探索的依赖。*
 
 > [!citation-card] 高等教育认知塑造视角
-> 这些研究发现表明，ChatGPT 对学生认知的影响并非该工具自身所固有，而是依存于教学框架、任务设计和[[Scaffolding|教学脚手架]]。在缺乏教学支架的情境中，研究者观察到[[Creativity\|创造力]]优于[[Critical Thinking\|批判性思维]]的非对称模式以及双重认知侵蚀，二者往往都由[[Cognitive Offloading|认知卸载]]所引发。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 1, 10)]]
+> 这些研究发现表明，ChatGPT 对学生认知的影响并非该工具自身所固有，而是依存于[[Framework for Teaching|教学框架]]、任务设计和[[Scaffolding|教学脚手架]]。在缺乏教学支架的情境中，研究者观察到[[Creativity\|创造力]]优于[[Critical Thinking\|批判性思维]]的非对称模式以及双重认知侵蚀，二者往往都由[[Cognitive Offloading|认知卸载]]所引发。[[Argument_Li_2026_CEAI\|(Li et al., 2026, pp. 1, 10)]]
 >
 > *These divergent findings suggest that the influence of ChatGPT on student cognition is not intrinsic to the tool itself but contingent upon pedagogical framing, task design, and instructional scaffolding... unstructured implementation frequently led to asymmetrical or diminished cognitive engagement.*
 

@@ -2,8 +2,7 @@
 title: Stuart Kauffman
 aliases:
   - 斯图尔特·考夫曼
-  - 考夫曼
-  - "Kauffman, S. A."
+  - Kauffman, S. A.
   - Stuart A. Kauffman
 summary: "美国理论生物学家、复杂系统科学先驱、圣塔菲研究所核心学者、麦克阿瑟天才奖得主。提出复杂性范式核心法则“秩序是免费的，它取代了控制”，阐明复杂适应系统自组织机制既非先验设计亦非外在控制，为教育系统打破变量操纵与线性管理奠定科学哲学根基。"
 type: person
@@ -15,7 +14,7 @@ person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
 born: "1939"
 died: ""
-lifespan: "1939–至今"
+lifespan: 1939–至今
 tags:
   - person/theorist
   - field/complexity-theory
@@ -47,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-02
+updated: 2026-10-15
 ---
 
 # Stuart Kauffman

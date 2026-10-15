@@ -10,7 +10,7 @@ aliases:
 summary: "由 Andy Clark 与 David Chalmers 于 1998 年创立、后经 Clark（2025）面向生成式 AI 深化的认知哲学理论，提出宇称原则与耦合系统观，主张认知过程可跨越颅骨与身体边界延展至外部环境人造物，为认知卸载与人机协同学习提供了本体论与功能主义合法性基石。"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 35
+theory_related_count: 34
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -53,11 +53,10 @@ related_arguments:
   - "[[Argument_Naeem_2026_Episteme]]"
 related_persons:
   - "[[René Descartes]]"
-  - "[[Nikolas Rose]]"
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Extended Mind Theory
@@ -88,7 +87,7 @@ updated: 2026-10-14
 ### 后续修订与扩展
 
 > [!dev-timeline] 理论版本与贡献
-> - **1998 年 — 理论奠基（第一波延展心智）** Clark & Chalmers 确立宇称原则与功能等价性假说，证明外部表征（如记事本、旋转俄[[Nikolas Rose|罗斯]]方块按键）属于认知系统。
+> - **1998 年 — 理论奠基（第一波延展心智）** Clark & Chalmers 确立宇称原则与功能等价性假说，证明外部表征（如记事本、旋转俄罗斯方块按键）属于认知系统。
 > - **2008 年 — 互补性转向（第二波延展心智）** John Sutton 与 Clark 提出“互补性原则（Complementarity Principle）”，纠正了第一波过分执着于“外部机制与内部神经机制必须同构”的局限，强调外部人造物的独特价值恰恰在于提供与大脑互补的持久性、离线审查与结构化符号运算能力。
 > - **2025 年 — [[Generative Artificial Intelligence\|生成式人工智能]]与深度心智延展** Clark 发表 *Extending minds with generative AI*（Nature Communications），探讨自回归语言模型（LLM）从静态外部存储器向自适应、能动性对话伙伴的深刻演进，分析人机双向预测回路对发散思考与心智重组的深层支撑。
 > - **2026 年 — 教育[[Epistemology\|认识论]]规制、依赖边界确立与机体能力萎缩批判** [[Argument_Du_Yuan_2026_AIS\|Du & Yuan (2026)]] 系统将延展[[Theory of Mind\|心智理论]]引入教育技术学，指出该理论为[[Cognitive Offloading\|认知卸载]]提供了中性的[[Ontology\|本体论]]辩护；同时明确了延展的规范边界：唯有当学习者保有对人机耦合的理解与评价控制时，延展才具有发展正当性，否则将滑向剥离[[Evaluative Judgement\|评价性判断]]的有害[[Epistemic Dependence\|认识依赖]]。同年，[[Argument_Naeem_2026_Episteme\|Naeem (2026)]] 从教育哲学立场出发，提出延展心智理论内含一条尚未被充分阐明的规范性限制：外部工具的合法延展必须保留（而非替代）学习者机体需要完成的认知挣扎。当生成式 AI 以直接给答案的方式接管本该由学生大脑承担的写作、推理与创意过程，延展越过机体能力边界，反过来造成认知萎缩，形成[[Cognitive Deskilling|去技能化]]（Deskilling）而非能力增长。

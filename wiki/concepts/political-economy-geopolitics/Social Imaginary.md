@@ -179,7 +179,7 @@ updated: 2026-10-14
 > 揭示新自由主义社会想象在吸纳社会民主主义核心词汇时的转化逻辑，阐明公平、性别平等与社会资本如何在经济效率框架下被赋予全新的工具性含义。
 
 > [!claim] Rizvi, F. & Lingard, B.
-> **社会议题的工具性收编与残余化** 里兹维与林加德（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）论证，1990 年代中期之后，经合组织所推广的社会想象并未在字面上公然取消 1960–1990 年间社会民主主义传统所重视的机会均等、性别平权与社会凝聚力，而是基于乔治·索[[Nikolas Rose|罗斯]]（George Soros, 1998）所称的“[[Economic Fundamentalism|经济基要主义]]（economic fundamentalism）”将这些社会目标彻底重构（rearticulate）为[[Human Capital Theory|人力资本]]开发与市场[[Competitiveness|竞争力]]的工具。在性别平权议题上，经合组织将女性教育投资简化为消除贫困和提升劳动力供给的经济手段，回避了全球服务业弹性劳工体制对女性的结构性压迫；在社会资本议题上，社会凝聚力被缩减为防范社会排斥干扰经济运转的维稳手段；教育本身也由培育批判性民主公民的纯粹公共物品，降格为追求[[Return on Investment|投资回报率]]的公私混合商品。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438, 448–452)]]
+> **社会议题的工具性收编与残余化** 里兹维与林加德（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）论证，1990 年代中期之后，经合组织所推广的社会想象并未在字面上公然取消 1960–1990 年间社会民主主义传统所重视的机会均等、性别平权与社会凝聚力，而是基于乔治·索罗斯（George Soros, 1998）所称的“[[Economic Fundamentalism|经济基要主义]]（economic fundamentalism）”将这些社会目标彻底重构（rearticulate）为[[Human Capital Theory|人力资本]]开发与市场[[Competitiveness|竞争力]]的工具。在性别平权议题上，经合组织将女性教育投资简化为消除贫困和提升劳动力供给的经济手段，回避了全球服务业弹性劳工体制对女性的结构性压迫；在社会资本议题上，社会凝聚力被缩减为防范社会排斥干扰经济运转的维稳手段；教育本身也由培育批判性民主公民的纯粹公共物品，降格为追求[[Return on Investment|投资回报率]]的公私混合商品。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 438, 448–452)]]
 
 ---
 
@@ -199,7 +199,7 @@ updated: 2026-10-14
 > 探讨社会想象如何超越抽象意识形态修辞，借由大规模量化测评与统计等值技术在各自主权国家内部落地并实施远处调控。
 
 > [!claim] Rizvi, F. & Lingard, B.
-> **数字即政策与跨国[[Space of Equivalence|等值空间]]的展演性制造** 里兹维与林加德（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）结合法国统计学家[[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières, 1998）与社会理论家尼古拉斯·罗斯（Nikolas Rose, 1999）的理论指出，全球社会想象的维系高度依赖一套精密的技术化物质装置。以[[PISA]]为代表的国际大规模测评绝非中立反映客观现实的度量衡，而是通过统计[[Commensuration|通约化]]凭空“制造跨国等值空间”（fabricating spaces of equivalence）。在该空间中，跨国比较的[[Reliability|信度]]（reliability）被置于教育本土[[Construct Validity|构念效度]]（validity）之上。数字的统治力量在于以科学客观性为幌子，将复杂的政治价值判断彻底隐形化，形成“数字即政策”（policy as numbers）；经合组织无须直接颁布行政命令，仅凭公开排行榜引发的国内治理恐慌，便成功实现了对主权国家教育体系的“远处掌舵”。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
+> **数字即政策与跨国[[Space of Equivalence|等值空间]]的展演性制造** 里兹维与林加德（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）结合法国统计学家[[Alain Desrosières|阿兰·德罗西埃]]（Alain Desrosières, 1998）与社会理论家[[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose, 1999）的理论指出，全球社会想象的维系高度依赖一套精密的技术化物质装置。以[[PISA]]为代表的国际大规模测评绝非中立反映客观现实的度量衡，而是通过统计[[Commensuration|通约化]]凭空“制造跨国等值空间”（fabricating spaces of equivalence）。在该空间中，跨国比较的[[Reliability|信度]]（reliability）被置于教育本土[[Construct Validity|构念效度]]（validity）之上。数字的统治力量在于以科学客观性为幌子，将复杂的政治价值判断彻底隐形化，形成“数字即政策”（policy as numbers）；经合组织无须直接颁布行政命令，仅凭公开排行榜引发的国内治理恐慌，便成功实现了对主权国家教育体系的“远处掌舵”。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
 
 ---
 

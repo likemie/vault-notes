@@ -47,6 +47,7 @@ related_theories:
   - "[[Autopoiesis]]"
 related_methods:
   - "[[Analytic Framework]]"
+  - "[[Classroom Observation]]"
   - "[[Qualitative Interview]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Effect Size]]"
@@ -138,7 +139,7 @@ updated: 2026-10-09
 > [!theory-use] 框架入口
 > - **[[Research Question|研究问题]]** 解释微观实践者为何无法机械套用标准化实证方案，或解释为什么宏观跨国[[Technology Transfer|技术转移]]与[[Policy Borrowing|政策借用]]普遍出现水土不服与制度变异。
 > - **分析对象与单位** 课堂教学中的师生互动、组织内部的管理决策、国家/[[Regional Innovation System|区域创新系统]]中的企业与机构协作网络。
-> - **需要的材料** 课堂观察记录、[[Qualitative Interview|质性访谈]]、教师反思日志、政策执行文本、跨国企业研发与技术网络空间分布数据。
+> - **需要的材料** [[Classroom Observation|课堂观察]]记录、[[Qualitative Interview|质性访谈]]、教师反思日志、政策执行文本、跨国企业研发与技术网络空间分布数据。
 > - **解释目标** 揭示复杂决策背后的认知边界与反馈调整逻辑，破除“一刀切”的机械干预神话，确立情境化[[Professional Judgment|专业判断]]与制度多样性的合法性。
 
 > [!theory-framework] 命题如何转化为分析维度

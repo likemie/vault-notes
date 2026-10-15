@@ -9,7 +9,7 @@ summary: "法国著名统计学家、科学史家与量化社会学先驱，长�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 29
+person_related_count: 28
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -50,7 +50,6 @@ related_instruments: []
 related_persons:
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
-  - "[[Stuart Kauffman]]"
   - "[[Sigrid Hartong]]"
 related_facts:
   - "[[CNRS]]"
@@ -63,7 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Alain Desrosières
@@ -128,7 +127,7 @@ updated: 2026-10-14
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 开创了量化社会学（Sociology of Quantification）传统，与特奥多尔·波特（Theodore Porter）、阿兰·[[Stuart Kauffman|考夫曼]]（Alain Cottereau）共同奠定了现代统计政治社会学基石。
+> - **理论路径** 开创了量化社会学（Sociology of Quantification）传统，与特奥多尔·波特（Theodore Porter）、阿兰·考夫曼（Alain Cottereau）共同奠定了现代统计政治社会学基石。
 > - **方法路径** 倡导“公约主义方法论”（Conventionalist Methodology），要求研究者在面对量化图表与模型时，必须回溯其底层分类[[Coding in Qualitative Research|编码]]体系的生成历史与协商过程。
 > - **政策路径** 深刻影响了批判政策社会学与比较教育学；[[Fazal Rizvi|法扎尔·里兹维]]、[[Bob Lingard|鲍勃·林加德]]、[[Sigrid Hartong|西格丽德·哈通]]（Sigrid Hartong）等学者将其概念用于解构[[OECD|经合组织]]与[[PISA]]等全球量化监控网络。
 > - **跨国／跨领域传播** 其法文原著于 1998 年由哈佛大学出版社译介出版，迅速打破了英美量化[[Positivism|实证主义]]与欧洲批判哲学之间的壁垒，成为国际公共行政与科学技术论（[[Science and Technology Studies|STS]]）必读正典。

@@ -58,6 +58,7 @@ related_theories:
   - "[[Inquiry Cycle]]"
   - "[[Organizational Culture]]"
 related_methods:
+  - "[[Classroom Observation]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
@@ -189,7 +190,7 @@ DBDM 定义为系统分析校内现有数据源，并将分析结果应用于革
 
 > [!feature] DBDM 的多维数据类型与演化特征
 > - **输入数据** 包含学生背景特征、家庭社会经济地位（Socioeconomic Status, SES）与过往学业记录等。
-> - **过程数据** 包含课堂教学观察记录、教学进度、[[Classroom Management\|课堂管理]]与师生互动质量。
+> - **过程数据** 包含[[Classroom Observation|课堂教学观察]]记录、教学进度、[[Classroom Management\|课堂管理]]与师生互动质量。
 > - **情境数据** 包含学校[[Organizational Culture\|组织文化]]、社区环境、家长参与度与办学资源条件。
 > - **结果数据** 包含标准化测试成绩、形成性课堂测评、各学科及格率与[[Grade Retention\|留级]]率。
 > - **形成性转向与基于数据定位** DBDM 早期受美国《[[No Child Left Behind Act 2001\|不让一个孩子掉队法案]]》（No Child Left Behind Act, NCLB）驱动，过度聚焦终结性标准化考试用于行政问责；当代文献已转向形成性视角，承认决策不能由数据单一驱动，而应结合教师的专业经验与默会智慧，演化为基于数据或数据知情的决策（Lai and Schildkamp, 2013; Supovitz, 2010）。（pp. 156–157）

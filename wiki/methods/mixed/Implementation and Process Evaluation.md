@@ -63,6 +63,7 @@ related_methods:
   - "[[Quasi-Experimental Designs]]"
   - "[[Mixed Methods Research]]"
   - "[[Joint Display]]"
+  - "[[Classroom Observation]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Questionnaire]]"
   - "[[Qualitative Interview]]"
@@ -138,7 +139,7 @@ updated: 2026-10-08
 >    - 对照[[TIDieR\|干预描述与复制模板]]（Template for Intervention Description and Replication，TIDieR），严格界定干预的核心活性成分（Active Ingredients）、关键操作规程、必须严格遵守的刚性要素以及允许学校自主微调的弹性边界（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 54]]）。
 >    - 在[[Statistical Analysis Plan\|统计分析计划]]（Statistical Analysis Plan，SAP）[[Preregistration\|预注册]]阶段，明确将依从性量化测量口径与过程质性采样子样本抽样方案纳入规程。
 > 2. **阶段二：[[Implementation Fidelity\|实施保真度]]与依从性多源监测（In-Trial Monitoring）**
->    - 运用结构化课堂观察[[Coding in Qualitative Research\|编码]]表、教师培训签到出勤记录、线上平台交互日志及材料使用记录，多维度追踪方案落地。
+>    - 运用结构化[[Classroom Observation|课堂观察]][[Coding in Qualitative Research\|编码]]表、教师培训签到出勤记录、线上平台交互日志及材料使用记录，多维度追踪方案落地。
 >    - 系统核查实施保真度（Fidelity）、递送剂量（Dosage）、目标群体触达度（[[Reach]]）及师生接受度（Acceptability），量化从计划分配到实际接受干预的递送衰减。
 > 3. **阶段三：[[Business as Usual\|常态教学]]对照组追踪与[[Counterfactual\|反事实]]澄清（Counterfactual Investigation）**
 >    - 深入对照组学校开展[[Questionnaire\|问卷调查]]、课程表审查与访谈，详细记录常态教学（business as usual）的具体实践与替代性资源使用情况。
@@ -175,7 +176,7 @@ updated: 2026-10-08
 ## 局限性
 
 > [!method-limits] 方法局限与应对策略
-> - **受试者调研负担沉重** 在收集主学业测验数据之外增加高频度深入访谈、课堂观察与[[Questionnaire\|问卷]]，极易引发基层教师抵触情绪，甚至加剧试验[[Attrition\|样本流失]]。需通过优化工具设计、整合常规行政数据与无感痕迹监测减轻负担。
+> - **受试者调研负担沉重** 在收集主学业测验数据之外增加高频度深入访谈、[[Classroom Observation|课堂观察]]与[[Questionnaire\|问卷]]，极易引发基层教师抵触情绪，甚至加剧试验[[Attrition\|样本流失]]。需通过优化工具设计、整合常规行政数据与无感痕迹监测减轻负担。
 > - **质性与量化整合的时序与伦理冲突** 若过程评估在试验中途发现严重执行偏差，是否中途介入纠偏构成了方法学与伦理悖论（提前纠偏破坏[[Randomised Controlled Trials\|随机对照试验]]的[[Preregistration\|预注册]]一致性与内部[[Causality\|因果推断]]，不纠偏则导致公共资金与师生时间浪费）。
 > - **多中心试验中的情境[[Heterogeneity\|异质性]]与抽样偏差** 在数十乃至数百所学校开展的大规模试验中，[[Qualitative Observation\|质性观察]]难以做到全样本覆盖，若质性个案抽样偏袒合作度高的学校，会系统性削弱过程结论的代表性。
 > - **主观偏倚与[[Hawthorne Effect\|霍桑效应]]** 观察人员的主观诠释偏差以及教师因被观察而产生的表现效应会干扰保真度评分。需通过预先培训校准[[Coding in Qualitative Research\|编码]][[Reliability\|信度]]、[[Evaluator Independence\|独立评估者]]进驻与多源数据[[Triangulation\|三角互证]]予以平抑。

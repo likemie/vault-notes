@@ -42,6 +42,7 @@ related_theories:
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
+  - "[[Classroom Observation]]"
   - "[[Random Assignment]]"
   - "[[Effectiveness Trial]]"
   - "[[Sample Size Determination]]"
@@ -97,7 +98,7 @@ updated: 2026-09-22
 
 > [!method-position] [[Epistemology\|认识论]]与因果识别定位
 > - **知识观** 坚持[[Pragmatism in China\|实验主义]][[Counterfactual\|反事实]][[Causality\|因果推断]]。认为在探索全新教学法时，首要任务是排除现实杂音，在尽可能纯净的微观环境中证明“活性成分（Active Ingredients）”具备真正的因果效力。
-> - **研究者角色** 研发者通常深度介入实施过程（提供直接培训、课堂观察与即时纠偏），但数据收集、[[Random Assignment\|随机分配]]与终点统计必须由独立第三方评估者执行以防止利益偏误。
+> - **研究者角色** 研发者通常深度介入实施过程（提供直接培训、[[Classroom Observation|课堂观察]]与即时纠偏），但数据收集、[[Random Assignment\|随机分配]]与终点统计必须由独立第三方评估者执行以防止利益偏误。
 > - **有效性标准** 极高的[[Internal Validity\|内部效度]]与统计结论效度；对外部推广效度不作过高要求。
 > - **不声称回答的问题** 效力试验不能直接回答“该方案如果交由普通学校没有专家督导的常规教师执行，是否依然有效”（该问题必须由后续的[[Effectiveness Trial\|实效试验]]回答）。
 

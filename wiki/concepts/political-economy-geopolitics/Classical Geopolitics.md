@@ -7,7 +7,7 @@ aliases:
 summary: "以国家为中心、将空间视为可占有客观地理实体的传统地缘政治范式，以社会有机体论为理论基石，关注领土控制、军事力量和硬实力竞争"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 35
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -47,7 +47,6 @@ related_methods:
 related_persons:
   - "[[Francis Bacon]]"
   - "[[Samuel P. Huntington]]"
-  - "[[Nikolas Rose]]"
 related_facts:
   - "[[Fulbright Program]]"
   - "[[Sino-American Trade War]]"
@@ -61,7 +60,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 ## 定义
@@ -144,7 +143,7 @@ updated: 2026-10-14
 > - **1990s–至今 — 当代的持续运作**
 >   尽管关系性地缘政治视角已在学术界发展，古典地缘政治的某些维度并未消失。[[Argument_Moisio_2022_Springer\|Moisio (2022)]]指出，当代强大国家（特别是中美之间）将大型科技公司视为代表国家利益的实体，"试图将世界划分为技术影响的势力范围"（p. 26）。
 >
->   [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral (2022)]]进一步指出，古典地缘政治的领土权力逻辑和关系性地缘政治的网络化空间想象之间并非前后替代关系而是共构关系——例如 RCEP 协议的形成中，全球连接性、开放流动的[[Discourse|话语]]与中国的区域战略计算共同构成了当代地缘政治的实际运作逻辑。同时，英国脱欧和[[Sino-American Trade War\|中美贸易战]]也被视为当代地缘政治权力博弈的例证；俄[[Nikolas Rose|罗斯]]吞并克里米亚被解读为"属于二十世纪的老式地缘政治战略行为"（Moisio, 2018）。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|(Parreira do Amaral, 2022, pp. 37–38)]]
+>   [[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|Parreira do Amaral (2022)]]进一步指出，古典地缘政治的领土权力逻辑和关系性地缘政治的网络化空间想象之间并非前后替代关系而是共构关系——例如 RCEP 协议的形成中，全球连接性、开放流动的[[Discourse|话语]]与中国的区域战略计算共同构成了当代地缘政治的实际运作逻辑。同时，英国脱欧和[[Sino-American Trade War\|中美贸易战]]也被视为当代地缘政治权力博弈的例证；俄罗斯吞并克里米亚被解读为"属于二十世纪的老式地缘政治战略行为"（Moisio, 2018）。[[Argument_Parreira do Amaral_2022_geopolitics-knowledge\|(Parreira do Amaral, 2022, pp. 37–38)]]
 
 ---
 

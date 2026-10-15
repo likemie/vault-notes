@@ -9,7 +9,7 @@ aliases:
 summary: "历史制度主义核心概念，由马奥尼与希伦系统阐发；指正式规约在起草妥协、语言局限、认知边界与组织分离下内生且不可消除的语义与解释缝隙，构成将规则遵从转化为微观策略博弈并撬动渐进制度变迁的核心微观温床。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 17
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -39,14 +39,13 @@ related_instruments: []
 related_persons:
   - "[[James Mahoney]]"
   - "[[Kathleen Thelen]]"
-  - "[[Nikolas Rose]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Rule Ambiguity
@@ -139,7 +138,7 @@ updated: 2026-10-14
 
 > [!case] 经验案例二：美国宪法跨州贸易条款（Commerce Clause）的百年重定向
 > - **原则性抽象文本** 宪法第 1 条第 8 款赋予国会规制“跨州贸易”的简短权力，起草于农耕与早期手工业商业时代。
-> - **两度颠覆性转用** 在大萧条时期被[[Nikolas Rose|罗斯]]福政府重释为对全国工业劳动标准与工会集体谈判权的联邦干预依据；在 1960 年代民权运动中，进一步被最高法院重释为勒令私营旅馆与餐厅废除种族隔离的法律武器（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, p. 21]]）。
+> - **两度颠覆性转用** 在大萧条时期被罗斯福政府重释为对全国工业劳动标准与工会集体谈判权的联邦干预依据；在 1960 年代民权运动中，进一步被最高法院重释为勒令私营旅馆与餐厅废除种族隔离的法律武器（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, p. 21]]）。
 
 ---
 

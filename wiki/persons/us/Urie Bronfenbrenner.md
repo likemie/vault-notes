@@ -7,7 +7,7 @@ summary: "美籍著名发展心理学家，康奈尔大学终身教授，生态�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 12
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -34,8 +34,7 @@ related_theories:
   - "[[Situative Perspective]]"
 related_methods: []
 related_instruments: []
-related_persons:
-  - "[[Nikolas Rose]]"
+related_persons: []
 related_facts:
   - "[[Chinese Academy of Sciences]]"
 related_arguments:
@@ -43,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Urie Bronfenbrenner
@@ -67,7 +66,7 @@ updated: 2026-10-14
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1917** 出生于俄[[Nikolas Rose|罗斯]]莫斯科，6 岁时随父亲（一名神经病理学家）移民美国纽约。在纽约州立智力缺陷收容所的生活见证了制度环境对个体潜能的压抑，奠定其毕生关注社会情境与弱势群体的学术信念。
+> - **1917** 出生于俄罗斯莫斯科，6 岁时随父亲（一名神经病理学家）移民美国纽约。在纽约州立智力缺陷收容所的生活见证了制度环境对个体潜能的压抑，奠定其毕生关注社会情境与弱势群体的学术信念。
 > - **1938–1942** 先后获得康奈尔大学心理学与音乐学双学士学位、哈佛大学教育学硕士学位以及密歇根大学发展心理学博士学位；二战期间在美国陆军担任心理战与军医心理学家。
 > - **1948–2005** 加盟康奈尔大学人类生态学院任教长达半个多世纪，创立人类发展与家族研究系，担任雅各布·古尔德·舒尔曼名誉教授。
 > - **1964–1965** 受美国联邦政府邀请担任贫困儿童早期干预专家委员会委员，联合爱德华·齐格勒（Edward Zigler）等学者共同起草并向林登·约翰逊总统呈递了“开端计划”（Head Start Program）蓝图，成功将生态干预理念转化为联邦法律。

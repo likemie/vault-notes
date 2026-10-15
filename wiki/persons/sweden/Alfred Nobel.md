@@ -10,7 +10,7 @@ summary: "阿尔弗雷德·伯恩哈德·诺贝尔（Alfred Bernhard Nobel, 1833
 type: person
 nationality: sweden
 person_region: "sweden"
-person_related_count: 17
+person_related_count: 16
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -38,7 +38,6 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[J. Robert Oppenheimer]]"
-  - "[[Nikolas Rose]]"
   - "[[Vannevar Bush]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
@@ -52,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Alfred Nobel
@@ -76,7 +75,7 @@ updated: 2026-10-14
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1833** 出生于瑞典斯德哥尔摩工程世家，后随家庭迁往俄[[Nikolas Rose|罗斯]]圣彼得堡接受化学与机械[[Engineering Education|工程教育]]。
+> - **1833** 出生于瑞典斯德哥尔摩工程世家，后随家庭迁往俄罗斯圣彼得堡接受化学与机械[[Engineering Education|工程教育]]。
 > - **1866** 在德国克伦梅尔成功将极不稳定的液体硝化甘油与硅藻土混合，发明了安全可控的固体炸药（Dynamite）并取得专利。
 > - **1870–1871** 见证其发明的炸药在普法战争中被军方大规模用于攻城与炸弹制造，早期理想主义纯洁设想遭遇剧烈冲击。
 > - **1887** 发明无烟火药“巴利斯泰特”（Ballistite，硝化甘油与硝化纤维混合物），奠定现代军用推进剂基础。

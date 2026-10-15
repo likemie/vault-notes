@@ -53,8 +53,8 @@ related_methods:
   - "[[Systematic Review]]"
 related_instruments: []
 related_persons:
-  - "[[Nikolas Rose]]"
   - "[[Alain Desrosières]]"
+  - "[[Nikolas Rose]]"
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
   - "[[Gita Steiner-Khamsi]]"
@@ -96,8 +96,8 @@ updated: 2026-10-14
 >
 > *The authors make the case for a comparative research programme – tentatively labeled 'Governance by Numbers 2.0' – that is informed by a multidisciplinary (history, political science, interdisciplinary policy studies) interpretive framework and that advances a transnational, relational method of inquiry which draws attention to the global/national nexus.*
 
-> [!citation-card] [[Nikolas Rose|罗斯]]与里兹维等论数字即政策与判断的隐形化
-> 伴随经合组织国际学生评估项目（PISA）的崛起，跨国教育治理确立了[[Alain Desrosières|德罗西埃]]（Desrosières, 1998）所谓的跨国“等价空间”（[[Space of Equivalence]]）。PISA 并非汇总各国既有统计，而是通过专家咨询联合体自行生产专属全球数据流，将对[[Reliability|信度]]与可比性的关注置于[[Construct Validity|构念效度]]与[[Ontology|本体论]]之上。尼古拉斯·罗斯（Nikolas Rose, 1999: 208）揭示，数字的力量正在于其“使测量、刻度与数字背后的复杂判断和决策变得不可见，因而也不容置疑”。经合组织由此通过“数字即政策”（policy as numbers），将原本属于政治哲学讨论的教育目的问题，置换为技术层面的投入产出排位赛，使[[Technical Rationality|技术理性]]凌驾于政治协商之上并维系了[[Social Imaginary|知识经济的社会想象]]。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
+> [!citation-card] 罗斯与里兹维等论数字即政策与判断的隐形化
+> 伴随经合组织国际学生评估项目（PISA）的崛起，跨国教育治理确立了[[Alain Desrosières|德罗西埃]]（Desrosières, 1998）所谓的跨国“等价空间”（[[Space of Equivalence]]）。PISA 并非汇总各国既有统计，而是通过专家咨询联合体自行生产专属全球数据流，将对[[Reliability|信度]]与可比性的关注置于[[Construct Validity|构念效度]]与[[Ontology|本体论]]之上。[[Nikolas Rose|尼古拉斯·罗斯]]（Nikolas Rose, 1999: 208）揭示，数字的力量正在于其“使测量、刻度与数字背后的复杂判断和决策变得不可见，因而也不容置疑”。经合组织由此通过“数字即政策”（policy as numbers），将原本属于政治哲学讨论的教育目的问题，置换为技术层面的投入产出排位赛，使[[Technical Rationality|技术理性]]凌驾于政治协商之上并维系了[[Social Imaginary|知识经济的社会想象]]。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
 >
 > *PISA regards as crucially important its claim to comparability and a commensurate space of international comparison – a space of uniform measurement, or what Desrosieres (1998) refers to as a "space of equivalence." ... As Rose (1999) has argued, policy as numbers tends to do this – the power of numbers is such that they "render invisible and hence incontestable – the complex array of judgements and decisions that go into a measurement, a scale, a number" (Rose, 1999: 208). ([[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, pp. 447–448]])*
 
@@ -257,4 +257,4 @@ updated: 2026-10-14
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 提出数字治理 2.0 理论框架，系统探讨[[OECD|经合组织]]与[[World Bank|世界银行]]的[[Policy Brokerage|政策中介]]机制及其在国家政策周期中的多阶段效应。
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — [[Systematic Review|系统综述]]了 [[PISA]] 如何通过数字治理机制影响全球基础教育改革，提出三层机制模型。
-> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009, pp. 446–448)]] — 结合[[Nikolas Rose|罗斯]]“数字即政策”与[[Alain Desrosières|德罗西埃]]“等价空间”，揭示经合组织如何自产跨国数据，以技术排位压制教育目的辩论并维系[[Knowledge-Based Economy|知识经济]]想象。
+> - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009, pp. 446–448)]] — 结合罗斯“数字即政策”与[[Alain Desrosières|德罗西埃]]“等价空间”，揭示经合组织如何自产跨国数据，以技术排位压制教育目的辩论并维系[[Knowledge-Based Economy|知识经济]]想象。

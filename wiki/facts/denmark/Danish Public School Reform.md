@@ -9,7 +9,7 @@ subtype: policy
 region: denmark
 fact_region: "denmark"
 fact_kind: "policy"
-fact_related_count: 17
+fact_related_count: 16
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -41,8 +41,7 @@ related_arguments:
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Laursen_2015_Paideia]]"
-related_instruments:
-  - "[[Teach Classroom Observation Tool]]"
+related_instruments: []
 confidence: medium
 status: draft
 created: '2026-05-03'
@@ -56,7 +55,7 @@ updated: 2026-10-15
 ## 政策文本摘要
 
 > [!abstract] 政策文本摘要
-> > "In 2014, a majority in the Danish Parliament launched an ambitious public school reform. One of the important elements of the reform was to replace subject objectives with learning objectives. The final aim of education should not be what teachers [[Teach Classroom Observation Tool|Teach]], but what students learn."([[Argument_Qvortrup_2019_NordSTEP\|Qvortrup, 2019, p.5]])
+> > "In 2014, a majority in the Danish Parliament launched an ambitious public school reform. One of the important elements of the reform was to replace subject objectives with learning objectives. The final aim of education should not be what teachers Teach, but what students learn."([[Argument_Qvortrup_2019_NordSTEP\|Qvortrup, 2019, p.5]])
 >
 > 在这一转变中，对 Hattie 和 [[Visible Learning]] 有明确的引用。改革将可见的学习成果置于教育目标的核心。
 >

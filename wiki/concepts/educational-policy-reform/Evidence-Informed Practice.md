@@ -79,6 +79,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Triangulation]]"
   - "[[Systematic Review]]"
+  - "[[Classroom Observation]]"
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
   - "[[Practitioner Enquiry]]"
@@ -209,7 +210,7 @@ updated: 2026-10-14
 > - **系统化方法（Systemic Approaches）** 建立全系统层面的基础设施、资源保障与长效激励机制，使证据知情制度化。
 
 > [!exegesis]- 实践理解与应用示例
-> 1. **课堂教学微观决策（四源整合）** 数学教师在决定分数教学策略时，综合参考该领域教学研究、本班上周形成性测试暴露出的理解断层、昨日课堂观察中特定学生的认知卡点，以及自身教学积累，通过审议权衡作出因材施教的调整。
+> 1. **课堂教学微观决策（四源整合）** 数学教师在决定分数教学策略时，综合参考该领域教学研究、本班上周形成性测试暴露出的理解断层、昨日[[Classroom Observation|课堂观察]]中特定学生的认知卡点，以及自身教学积累，通过审议权衡作出因材施教的调整。
 > 2. **特殊教育情境的适切性审问（个体使能）** 专职特教教师 Alex 在检索多源学术研究后，对照学校改进目标严格执行适切性三重审问（是否切合目的、情境契合度如何、团队能否落地），并在教研组中与同事协作开展渐进式教学试验（[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al., 2022, Box 9.2, p. 187]]）。
 > 3. **学校宏观改革采购（超越单一有效性）** 在决定是否全校引进数字化教学平台时，[[Evaluation Research\|评估研究]]提供的[[Effect Size\|效应量]]与[[Statistical Significance\|统计显著性]]仅供参考；决策者结合本校网络承载力、教师培训周期、学生日常使用意愿与长期运维成本展开综合评估，将外部[[Research Translation\|研究转化]]为[[Local Knowledge in Evidence-Based Policy\|地方知识]]与专业判断。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, pp. 120–121)]]
 

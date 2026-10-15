@@ -7,14 +7,14 @@ summary: "美国电机工程师、科技管理者与战后科技政策奠基人�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 71
+person_related_count: 70
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
 born: "1890"
 died: "1974"
 lifespan: "1890–1974"
-updated: 2026-10-14
+updated: 2026-10-15
 tags:
   - person/engineer
   - person/policy-architect
@@ -64,7 +64,6 @@ related_persons:
   - "[[Chris Freeman]]"
   - "[[Fred Block]]"
   - "[[Michael Kratsios]]"
-  - "[[Nikolas Rose]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
   - "[[Steve Jobs]]"
@@ -196,7 +195,7 @@ created: 2026-10-02
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **政治委托人** 富兰克林·[[Nikolas Rose|罗斯]]福（[[Franklin D. Roosevelt]]）、哈里·杜鲁门（Harry S. Truman） — 报告的委托总统与接收总统。
+> - **政治委托人** 富兰克林·罗斯福（[[Franklin D. Roosevelt]]）、哈里·杜鲁门（Harry S. Truman） — 报告的委托总统与接收总统。
 > - **战时科学指挥协同者** [[J. Robert Oppenheimer]] — 布什支持并委任奥本海默领导洛斯阿拉莫斯实验室，二人共同开创了[[Manhattan Project|曼哈顿工程]][[Big Science|大科学]]攻坚[[Paradigm|范式]]。
 > - **当代历史对话者与改革者** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（Michael Kratsios） — 2026 年主持起草《[[Science A New Golden Age 2026|科学：新的黄金时代]]》，在全面对照[[Science, The Endless Frontier 1945|布什报告]]的基础上重构战后科技资助与制造承接体系。
 > - **地缘战略与技术动员反思者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 2025 年在《[[Technological Republic|技术共和国]]》中回顾布什主导 [[Office of Scientific Research and Development|OSRD]] 时期科学界与国家安全机构的高度互信与战略结盟，呼唤在新一代人工智能竞争与破除[[Big Idea Famine|大构想饥荒]]中重振这一动员传统。

@@ -55,6 +55,7 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Qualitative Interview]]"
   - "[[Case Study]]"
+  - "[[Classroom Observation]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -203,7 +204,7 @@ updated: 2026-10-14
 > **从先验悬置走向生活世界的常识质疑** 舒茨将胡塞尔的先验悬置转化为世俗社会学的重要工具：尽管存在现象学不再追求纯粹先验主体，但依然继承了悬置的精神，要求研究者主动悬置自身的专家[[Construct|理论构念]]，严肃质疑日常生活行动者“视为理所当然”的常识知识库与[[Typification|类型化]]秩序。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 18–19)]]
 
 > [!claim] Moustakas, C.
-> **[[Qualitative Research|质性研究]]中的括弧化操作准则** 穆斯塔卡斯将胡塞尔悬置转化为质性研究中著名的“括弧化（bracketing）”技术；在开展深入的教育现象学访谈或课堂观察时，研究者必须通过书写反思备忘录明确自身既往的[[Hypothesis|研究假设]]、个人偏见与理论构念，并有意识地将其“放入括号”，从而为被研究者真诚展现其生命体验留出未经扭曲的阐释空间。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 18–19)]]
+> **[[Qualitative Research|质性研究]]中的括弧化操作准则** 穆斯塔卡斯将胡塞尔悬置转化为质性研究中著名的“括弧化（bracketing）”技术；在开展深入的教育现象学访谈或[[Classroom Observation|课堂观察]]时，研究者必须通过书写反思备忘录明确自身既往的[[Hypothesis|研究假设]]、个人偏见与理论构念，并有意识地将其“放入括号”，从而为被研究者真诚展现其生命体验留出未经扭曲的阐释空间。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, pp. 18–19)]]
 
 ---
 

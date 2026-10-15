@@ -94,6 +94,7 @@ related_theories:
   - "[[Technological Trajectories]]"
   - "[[Situative Perspective]]"
 related_methods:
+  - "[[Classroom Observation]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Correlational Research]]"
 related_instruments: []
@@ -360,7 +361,7 @@ updated: 2026-10-10
 > 将研究转化理解为把现成论文单向转译为简报或工具包的线性推送范式无法驱动深层实践改变；唯有构建研究者、中介者与实践者共同界定问题、共同调试方案的协同探究机制，才能实现高品质的知识转化。[[Argument_Brown_Greany_2018_LPS|(Brown & Greany, 2018, pp. 123, 125)]]; [[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, pp. 18–20)]]
 >
 > > [!warrant]- 理论推导与经验依据
-> > 单向技术转译容易将复杂的教育问题还原为技术修补，剥离了实践者的[[Professional Judgment|专业判断]]。单纯向学校推送证据摘要或工具包极易导致教师在缺乏理论理解的情况下模仿表层动作，诱发“[[Activity Traps|活动陷阱]]”（Activity Traps）。唯有依托[[Research Learning Communities|研究学习共同体]]（RLCs）构建结构化的[[School Enquiry Cycle|学校探究循环]]，并以课例研究作为课堂观察与协同调试的操作平台，促成教师团队的双环学习，外部研究证据才能真正内化为[[Business as Usual|常态教学]]行为。
+> > 单向技术转译容易将复杂的教育问题还原为技术修补，剥离了实践者的[[Professional Judgment|专业判断]]。单纯向学校推送证据摘要或工具包极易导致教师在缺乏理论理解的情况下模仿表层动作，诱发“[[Activity Traps|活动陷阱]]”（Activity Traps）。唯有依托[[Research Learning Communities|研究学习共同体]]（RLCs）构建结构化的[[School Enquiry Cycle|学校探究循环]]，并以课例研究作为[[Classroom Observation|课堂观察]]与协同调试的操作平台，促成教师团队的双环学习，外部研究证据才能真正内化为[[Business as Usual|常态教学]]行为。
 
 ---
 

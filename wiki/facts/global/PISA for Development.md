@@ -29,6 +29,7 @@ related_concepts:
   - "[[Grade Retention]]"
   - "[[Variable]]"
   - "[[Going Native]]"
+  - "[[Learning Crisis]]"
   - "[[Policy Brokerage]]"
   - "[[Development Turn in Comparative Education]]"
   - "[[Global Education Governing Complex]]"
@@ -123,7 +124,7 @@ updated: 2026-09-17
 > - **产出与结果指标** 达到最低素养基准（[[UN Sustainable Development Goals\|SDG 4]].1.1）学生占比、在校与校外青少年认知差距标准差。
 
 > [!finding-cards] 核心实证结论
-> - **全球南方学习危机的惊人深度** 实证揭示试点国超过 70%–85% 的 15 岁学生无法达到 [[PISA]] 最低基准线（2 级），近半数学生处于极其薄弱的 1 级以下，印证了联合国所谓“学习贫困（Learning Poverty）”的残酷真实性。
+> - **全球南方[[Learning Crisis|学习危机]]的惊人深度** 实证揭示试点国超过 70%–85% 的 15 岁学生无法达到 [[PISA]] 最低基准线（2 级），近半数学生处于极其薄弱的 1 级以下，印证了联合国所谓“学习贫困（Learning Poverty）”的残酷真实性。
 > - **校内外鸿沟与系统性教育剥夺** 首次用微观量化数据证实，失学青少年的基本读写算能力比在校同龄人落后 2–3 个完整标准差，家庭贫困与非母语教学是导致认知发育阻滞的头号元凶。
 > - **对[[OECD\|经合组织]]测验工具的结构性反哺** 证明拓展后的低难度题目在测量发展中国家认知分布时展现出极佳的测量效度，直接推动经合组织将常规 PISA 测验的标尺下限永久下移。
 
@@ -149,7 +150,7 @@ updated: 2026-09-17
 > > - **经合组织回应** 正在与[[Global Partnership for Education\|全球教育伙伴关系]]（[[Global Partnership for Education\|GPE]]）建立联合基金，为低收入国家常态化参测提供稳定的赠款支持通道。
 
 > [!lessons] 经验教训与启示
-> - **实施教训** 忽略系统硬件资源与师资素质维度的单纯测量，无助于自动消除学习贫困；必须将大规模测评与一线教师在职培训体系深度捆绑。
+> - **实施教训** 忽略系统硬件资源与师资素质维度的单纯测量，无助于自动消除[[Learning Crisis|学习贫困]]；必须将大规模测评与一线教师在职培训体系深度捆绑。
 > - **对未来改革的启示** 促使多边机构认识到各自为政所造成的重复测评浪费，直接催生了[[UNESCO\|教科文组织]]、[[UNICEF\|儿童基金会]]与[[World Bank\|世界银行]]于 2020 年代联手缔结[[Learning Data Compact\|学习数据契约]]以对抗 OECD 的单极垄断。
 
 ---

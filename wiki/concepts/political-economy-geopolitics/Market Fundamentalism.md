@@ -7,7 +7,7 @@ aliases:
 summary: "指对市场自发调节与资源配置能力抱有极度夸大信念、主张国家全面撤出经济与社会干预的意识形态教条。在科技政策中，该思潮否认国家资助商业化与前沿产业的合法性，迫使公共发展型干预转向隐形运作，并强化了知识产权垄断与公私收益脱节。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 24
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -35,7 +35,6 @@ related_theories:
   - "[[Pasteur's Quadrant]]"
 related_persons:
   - "[[Fred Block]]"
-  - "[[Nikolas Rose]]"
 related_facts:
   - "[[National Science Foundation]]"
   - "[[DARPA]]"
@@ -67,7 +66,7 @@ updated: 2026-10-15
 > - **边界** 不等于对市场竞争效率与价格信号调节功能的正常学术肯定；其特质在于将市场自发性推向教条式的不可置疑状态，彻底否定公共品、网络协调失灵与波兰尼式的社会自我保护正当性。
 
 > [!citation-card] [[Fred Block|布洛克]]论市场原教旨主义对科技政策的排斥
-> 市场原教旨主义是对市场自我调节解决经济与社会问题能力的一种极度夸大的信念……例如在《自由选择》中，米尔顿·弗里德曼与[[Nikolas Rose|罗斯]]·弗里德曼认为政府通过国家科学基金会资助科学研究在经济上毫无正当理由。如果连资助科学研究都不是正当的政府角色，那么公共机构介入新技术的商业化就更没有任何合理性可言。[[Argument_Block_2008_PS|(Block, 2008, pp. 170–171)]]
+> 市场原教旨主义是对市场自我调节解决经济与社会问题能力的一种极度夸大的信念……例如在《自由选择》中，米尔顿·弗里德曼与罗斯·弗里德曼认为政府通过国家科学基金会资助科学研究在经济上毫无正当理由。如果连资助科学研究都不是正当的政府角色，那么公共机构介入新技术的商业化就更没有任何合理性可言。[[Argument_Block_2008_PS|(Block, 2008, pp. 170–171)]]
 >
 > *Market fundamentalism—a vastly exaggerated belief in the capacity of market [[Self-control|self-regulation]] to solve economic and social problems... Milton and Rose Friedman see no economic justification for the government funding scientific research through the [[National Science Foundation]]. If funding scientific research is not a proper governmental role, then certainly there is no justification for public agencies getting involved in the commercialization of new technologies.*
 
@@ -161,7 +160,7 @@ updated: 2026-10-15
 > [!dev-timeline] 概念演变
 > - **1944 — 思想渊源：波兰尼《大转型》** 卡尔·波兰尼系统解构了 19 世纪英国“自调节市场”乌托邦的神话，揭示自由市场是国家集中立法与暴力推行的制度产物，并提出社会自我保护的“双重运动”。
 > - **1980 — 新自由主义执政[[Paradigm|范式]]确立** 里根与撒切尔执政时期，弗里德曼与哈耶克的自由放任学说成为主流执政哲学；弗里德曼在《自由选择》中公然否定政府资助科学研究在经济上的正当性。
-> - **1998 — 索[[Nikolas Rose|罗斯]]与斯蒂格利茨对全球金融危机的批判** 乔治·索罗斯（George Soros, 1998）与约瑟夫·斯蒂格利茨（Joseph Stiglitz）在反思亚洲金融危机时将[[Washington Consensus|华盛顿共识]]的放任教条定性为“市场原教旨主义”。
+> - **1998 — 索罗斯与斯蒂格利茨对全球金融危机的批判** 乔治·索罗斯（George Soros, 1998）与约瑟夫·斯蒂格利茨（Joseph Stiglitz）在反思亚洲金融危机时将[[Washington Consensus|华盛顿共识]]的放任教条定性为“市场原教旨主义”。
 > - **2008 — [[Fred Block|布洛克]]将其引入科技创新政治经济学** 弗雷德·布洛克在《Politics & Society》论文中将该概念运用于剖析美国国家科技创新体制的扭曲与隐形化。[[Argument_Block_2008_PS|(Block, 2008, pp. 169–172)]]
 > - **2014 — 理论系统化集大成** 布洛克与玛格丽特·萨默斯（Margaret Somers）合著《市场原教旨主义的权力》（The Power of Market Fundamentalism），全面阐发这一意识形态如何通过“自然法则”[[Discourse|话语]]伪装掩盖阶级利益并阻断社会制度改革。
 

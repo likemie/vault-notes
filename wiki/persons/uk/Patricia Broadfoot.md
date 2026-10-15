@@ -8,7 +8,7 @@ summary: "英国比较教育与教育评价泰斗，布里斯托大学荣休教�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 20
+person_related_count: 19
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -41,7 +41,6 @@ related_theories: []
 related_methods: []
 related_instruments: []
 related_persons:
-  - "[[Nikolas Rose]]"
   - "[[Robin Alexander]]"
   - "[[Michael Sadler]]"
   - "[[Andreas Kazamias]]"
@@ -52,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Patricia Broadfoot
@@ -62,7 +61,7 @@ updated: 2026-10-14
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 英国比较教育学家、教育评价学者。布里斯托大学教育学荣休教授、前教育学院院长，曾任格[[Nikolas Rose|罗斯]]特大学副校长（Vice-Chancellor, 2006–2010）；历任[[British Association for International and Comparative Education|英国国际与比较教育学会]]（BAICE）会长、《比较教育》（*Comparative Education*）主编；2006 年因在教育领域的卓越贡献获颁大英帝国司令勋章（CBE）。
+> - **身份位置** 英国比较教育学家、教育评价学者。布里斯托大学教育学荣休教授、前教育学院院长，曾任格罗斯特大学副校长（Vice-Chancellor, 2006–2010）；历任[[British Association for International and Comparative Education|英国国际与比较教育学会]]（BAICE）会长、《比较教育》（*Comparative Education*）主编；2006 年因在教育领域的卓越贡献获颁大英帝国司令勋章（CBE）。
 > - **核心角色** [[Intercultural Education|跨文化教育]]评价与微观学习过程研究领军者；在英国比较教育学派第四代际转型中，将质性社会学与微观比较相结合，开创“[[Learnology|学习学]]”（[[Learnology|Learnology]]）研究纲领，有力纠偏了北美[[Positivism|实证主义]]抽离文化土壤的宏观回归[[Paradigm|范式]]。
 > - **代表贡献** 1. 创立微观“学习学”（Learnology）跨国比较框架；2. 主持英法初等教育评价与体验跨国比较项目（PACE 项目）；3. 与[[Robin Alexander|罗宾·亚历山大]]、戴维·菲利普斯合著里程碑著作《从比较中学习》（*Learning from Comparing*, 1999），确立英国比较教育关注课堂、情境与文化的学术传统。
 
@@ -80,7 +79,7 @@ updated: 2026-10-14
 > - **1970s–1980s** 在牛津大学与布里斯托大学深耕教育评价社会学与比较教育研究，主持英法两国初等学校跨国对比，深入考察教师专业认同与评价体制的文化建构。
 > - **1990s** 主持著名的 PACE（Primary Assessment, Curriculum and Experience）大型跟踪项目；1999 年在《Compare》发表里程碑论文《他山之石可以攻玉：走向新比较“[[Learnology|学习学]]”》（*Stones from other hills may serve to polish the jade of this one: towards a neo-comparative 'learnology' of education*）。
 > - **1999** 与[[Robin Alexander|罗宾·亚历山大]]、戴维·菲利普斯联合主编《从比较中学习：比较教育研究的新方向》（*Learning from Comparing*），系统奠定微观课堂与文化教学论纲领。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 155)]]
-> - **2000s** 历任 [[British Association for International and Comparative Education|BAICE]] 会长、《Comparative Education》杂志主编；2006 至 2010 年出任格[[Nikolas Rose|罗斯]]特大学副校长；2006 年荣获英女王颁发 CBE 勋章，表彰其在比较教育与高等教育治理中的终身贡献。
+> - **2000s** 历任 [[British Association for International and Comparative Education|BAICE]] 会长、《Comparative Education》杂志主编；2006 至 2010 年出任格罗斯特大学副校长；2006 年荣获英女王颁发 CBE 勋章，表彰其在比较教育与高等教育治理中的终身贡献。
 
 ---
 

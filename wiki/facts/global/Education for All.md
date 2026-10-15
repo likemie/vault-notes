@@ -31,6 +31,7 @@ related_concepts:
   - "[[Multilateral Development Bank]]"
   - "[[Performance Pay]]"
   - "[[Disbursement-Driven Evaluation]]"
+  - "[[Learning Crisis]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Counterpart Funds]]"
   - "[[Policy Conditionalities]]"
@@ -173,7 +174,7 @@ updated: 2026-10-15
 > > 批评家与多边技术官僚就指标优先级的设定展开持久争论。
 > >
 > > - **多边规划官员** 坚称对于极端贫困人口，跨入校门是实现一切后续发展的前提，必须优先保证入学数量的普遍覆盖。
-> > - **教育学者与实地教师** 批评这种指标狂热诱发了虚假的繁荣，由于师资和教材极端匮乏，“在校无学（Schooling without Learning）”彻底背离了宗滴恩会议“满足基本学习需求”的初心。
+> > - **教育学者与实地教师** 批评这种指标狂热诱发了虚假的繁荣，由于师资和教材极端匮乏，“在校无学（[[Learning Crisis|Schooling Without Learning]]）”彻底背离了宗滴恩会议“满足基本学习需求”的初心。
 >
 > > [!axis] 多边人道受教育权 vs 借贷附加条件的政治支配
 > > 全球南方学者指责全民教育倡议沦为西方主导的治理[[Disciplina and Doctrina|规训]]工具。

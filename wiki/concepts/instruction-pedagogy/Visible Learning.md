@@ -57,6 +57,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Classroom Observation]]"
   - "[[Practitioner Enquiry]]"
   - "[[Intraclass Correlation Coefficient]]"
   - "[[Content Analysis]]"
@@ -198,7 +199,7 @@ updated: 2026-10-07
 > **显性[[Learning Intentions\|学习意图]]与[[Success Criteria\|成功标准]]的共享** 课堂中大量学生因不了解学习意图而陷入将“字迹工整、篇幅长”误当优秀的表象认知。通过在课程初始向学生显性呈现分阶段的成功标准（如毛利历史单元中明确区分事实描述与因果阐释），并在教学中贯通“目标通往何处、当前行进至何处、下一步走向何方”三核心提问，评价标准向学生完全敞开，使学生能够对自身学习展开准确的自我监控与自我调整。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, pp. 15, 17)]]
 
 > [!claim] Knudsen, H.
-> **课堂[[Discourse|话语]]盲点与双向可见性** 课堂观察显示教师普遍无法察觉课堂中 80% 正在发生的事情，且自认讲授仅占 20–30%（实测达 70–80%）。可见的学习通过技术工具与形成性评价打通盲区，促使教师通过学生的眼睛看教学、学生通过教师的眼睛看学习，达成教与学的双向透明。[[Argument_Knudsen_2017_NordSTEP\|(Knudsen, 2017, pp. 257–258)]]
+> **课堂[[Discourse|话语]]盲点与双向可见性** [[Classroom Observation|课堂观察]]显示教师普遍无法察觉课堂中 80% 正在发生的事情，且自认讲授仅占 20–30%（实测达 70–80%）。可见的学习通过技术工具与形成性评价打通盲区，促使教师通过学生的眼睛看教学、学生通过教师的眼睛看学习，达成教与学的双向透明。[[Argument_Knudsen_2017_NordSTEP\|(Knudsen, 2017, pp. 257–258)]]
 
 ---
 

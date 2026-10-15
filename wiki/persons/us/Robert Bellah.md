@@ -8,7 +8,7 @@ summary: "美国著名宗教社会学家、加州大学伯克利分校社会学�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 13
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -34,7 +34,6 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Talcott Parsons]]"
-  - "[[Nikolas Rose]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
 related_facts: []
@@ -44,7 +43,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Robert Bellah
@@ -69,7 +68,7 @@ updated: 2026-10-14
 
 > [!timeline] 生平与职涯
 > - **1927** 出生于美国俄克拉荷马州阿尔塔斯，后在哈佛大学获得博士学位并师从[[Talcott Parsons|塔尔科特·帕森斯]]（Talcott Parsons）。
-> - **1967** 在《代达[[Nikolas Rose|罗斯]]》（*Daedalus*）发表划时代论文《美国的[[Civic Religion|公民宗教]]》（*Civil Religion in America*）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 200–201)]]
+> - **1967** 在《代达罗斯》（*Daedalus*）发表划时代论文《美国的[[Civic Religion|公民宗教]]》（*Civil Religion in America*）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch17|(Karp & Zamiska, 2025, pp. 200–201)]]
 > - **1985** 出版《心灵的[[Habitus|习性]]：个人主义与承诺》（*Habits of the Heart*），深刻反思美国过度个人主义对公共生活的侵蚀。
 > - **2013** 在加利福尼亚州奥克兰逝世，享年 86 岁。
 

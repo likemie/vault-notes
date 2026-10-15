@@ -8,9 +8,9 @@ summary: "行动研究中最激进的一支，以哈贝马斯批判理论为认�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 32
-method_related_level: 4
-method_related_stars: "⭐⭐⭐⭐"
+method_related_count: 31
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/action-research
@@ -52,12 +52,11 @@ related_persons:
   - "[[Jürgen Habermas]]"
   - "[[Stephen Kemmis]]"
   - "[[Keith Morrison]]"
-  - "[[Nikolas Rose]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
 status: draft
 created: 2026-07-19
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 # Emancipatory Action Research
 
@@ -237,7 +236,7 @@ updated: 2026-10-14
 > - **狭隘和特殊主义的解放观** 对什么是解放以及如何进行行动研究采用单一、排他的定义
 
 > [!note] 批评的综合判断
-> 批判性行动研究与其试图攻击的那些控制性议程一样具有控制性（[[Keith Morrison\|莫里森]]（Morrison）, 1995b）。梅尔[[Nikolas Rose|罗斯]]（Melrose, 1996, p. 52）进一步指出：批判性研究因自身价值负载而放弃中立，在审视特定情境中价值观、伦理、道德和政治的幌子下，实际上旨在改变现状。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|(Cohen et al., 2011, p. 278)]]
+> 批判性行动研究与其试图攻击的那些控制性议程一样具有控制性（[[Keith Morrison\|莫里森]]（Morrison）, 1995b）。梅尔罗斯（Melrose, 1996, p. 52）进一步指出：批判性研究因自身价值负载而放弃中立，在审视特定情境中价值观、伦理、道德和政治的幌子下，实际上旨在改变现状。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18\|(Cohen et al., 2011, p. 278)]]
 
 ---
 

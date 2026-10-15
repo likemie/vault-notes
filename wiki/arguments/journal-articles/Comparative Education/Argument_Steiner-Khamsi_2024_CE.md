@@ -55,6 +55,7 @@ related_concepts:
   - "[[Return on Investment]]"
   - "[[Knowledge Bank]]"
   - "[[Policy Conditionalities]]"
+  - "[[Learning Crisis]]"
   - "[[Education-for-Mandates]]"
   - "[[Warehousing of Good Practices]]"
   - "[[Development Education]]"
@@ -323,7 +324,7 @@ issuing_organization: ""
 > - **1980 — 世界银行《教育部门政策文件》与收益率自立门户** 世界银行彻底脱离联合国教科文组织的人文主义路线，依托 1,120 项教育收益率数据库推行初等教育优先放贷，将危机转译为全球南方借贷国结构调整的量化治理门槛。（pp.541–542, 548）
 > - **1983 — 美国《国家处在危险之中》（[[A Nation at Risk 1983\|A Nation at Risk]]）报告** 里根政府将公立教育不振定性为使美国在经济与产业技术上被日、德、苏“单方面解除武装”的严峻国家危机，直接催生了由联邦政府委托经合组织开发跨国可比[[Performance Indicators\|教育指标]]的紧迫政治需求。
 > - **1992–2000 — 跨国指标运动与 [[PISA]] 冲击时代** 经合组织连续发布《教育概览》（1992）并于 2000 年推出 PISA 跨国学生测评，通过跨国大样本排名将“命名与羞辱”机制常规化，危机叙事全面进入标准化测评与远处规制时代。（pp.542–543）
-> - **2015 至今 — [[UN Sustainable Development Goals\|可持续发展目标]]（[[UN Sustainable Development Goals\|SDGs]]）与全球治理复合体角逐** 联合国通过 2030 可持续发展目标（SDG 4），跨国组织竞相将海量国际基准与“学习贫困”（Learning Poverty）危机叙事绑定，五大多边巨头在数据垄断与政策中介中展开排他性同盟与利基竞争。（pp.541, 545）
+> - **2015 至今 — [[UN Sustainable Development Goals\|可持续发展目标]]（[[UN Sustainable Development Goals\|SDGs]]）与全球治理复合体角逐** 联合国通过 2030 可持续发展目标（SDG 4），跨国组织竞相将海量国际基准与“[[Learning Crisis|学习贫困]]”（Learning Poverty）危机叙事绑定，五大多边巨头在数据垄断与政策中介中展开排他性同盟与利基竞争。（pp.541, 545）
 
 ---
 

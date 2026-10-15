@@ -99,7 +99,7 @@ updated: 2026-10-09
 > - **解释对象** 教育生态系统中多元主体的非线性交互、高阶全局模式的自发[[Emergence\|涌现]]、网络连接性、自组织适应以及系统相变与临界转折。
 > - **理论问题** 彻底扬弃机械牛顿力学的线性[[Determinism\|因果决定论]]、受控实验的孤立[[Variable\|变量]]还原论以及实验室封闭系统推广[[Hypothesis\|假设]]，确立开放教育世界中不确定性、生成性与整体关系的[[Epistemology\|认识论]]正当性。
 > - **理论类型** 元理论（Meta-theory）、[[Paradigm\|范式]]级[[Analytic Framework\|分析框架]]、跨学科复杂适应系统理论。
-> - **知识位置** 发轫于 20 世纪下半叶混沌理论（Lorenz, Gleick）与自组织临界性（Bak），经[[Stuart Kauffman\|考夫曼]]（Stuart Kauffman）与圣塔菲研究所（[[Science Foundation Ireland|SFI]]）提炼为复杂适应系统（[[Chinese Academy of Sciences|CAS]]）理论；在教育研究领域由[[Keith Morrison\|莫里森]]（Keith Morrison）、拉德福德（Luis Radford）与萨拉·库恩（Sarah Kuhn）系统引入，成为超越传统[[Positivism\|实证主义]]与微观[[Interpretivism|诠释主义]]的新兴研究[[Paradigm\|范式]]。
+> - **知识位置** 发轫于 20 世纪下半叶混沌理论（Lorenz, Gleick）与自组织临界性（Bak），经考夫曼（[[Stuart Kauffman]]）与圣塔菲研究所（[[Science Foundation Ireland|SFI]]）提炼为复杂适应系统（[[Chinese Academy of Sciences|CAS]]）理论；在教育研究领域由[[Keith Morrison\|莫里森]]（Keith Morrison）、拉德福德（Luis Radford）与萨拉·库恩（Sarah Kuhn）系统引入，成为超越传统[[Positivism\|实证主义]]与微观[[Interpretivism|诠释主义]]的新兴研究[[Paradigm\|范式]]。
 
 > [!claim] 核心主张
 > 学校与教育系统不是由少数可分离[[Variable\|变量]]机械拼接而成的封闭钟表装置，而是由深度纠缠的多元主体构成的开放**复杂适应系统（Complex Adaptive Systems, CAS）**。系统内部充满递归反馈回路与非线性作用机制，微小扰动可诱发全局跃迁，高阶秩序在局部简单规则的微观互动中自组织涌现；试图通过隔离与控制变量来寻求确定性因果定律的做法，在根本上误解了复杂教育实在的动态生成本质。
@@ -128,7 +128,7 @@ updated: 2026-10-09
 > - **[[Emergence\|涌现性]]（Emergence）**
 >   高阶的复杂组织结构与全局行为模式，能够自发地从低阶各组成部分遵循简单局部规则的微观交互中自发产生（Waldrop, 1992），呈现“整体大于部分之和”的质性跃变，且绝无法还原为低阶组成部分的线性叠加（Davis & Sumara, 2005）。
 > - **自组织机制（Self-organization）**
->   系统具备强大的内部自愈、适应与自我更新能力。[[Stuart Kauffman\|考夫曼]]指出：“**秩序是免费的，它取代了控制**”（Order comes for free and replaces control; Kauffman, 1995）。秩序不是由外部科层自上而下行政强加的产物，而是在有机体与其环境的持续互惠互动中自主生成。
+>   系统具备强大的内部自愈、适应与自我更新能力。考夫曼指出：“**秩序是免费的，它取代了控制**”（Order comes for free and replaces control; Kauffman, 1995）。秩序不是由外部科层自上而下行政强加的产物，而是在有机体与其环境的持续互惠互动中自主生成。
 > - **自组织临界性与转折点（Self-organized Criticality & Tipping Points）**
 >   培尔·巴克（Per Bak）指出，复杂系统的动力学演进会自发逼近临界态（Bak, 1996）。在转折点（Tipping Point）上，极其微不足道的单一微扰（压垮骆驼的最后一根稻草）足以引发整个系统的全局相变，彻底粉碎了经典物理学中“微因必有微果、大因方有大果”的线性因果比例假定。
 
@@ -241,7 +241,7 @@ updated: 2026-10-09
 > - **1960s–1980s — 混沌理论与[[Determinism\|决定论]]破产**
 >   气象学家洛伦兹（Edward Lorenz）发现“蝴蝶效应”，确立系统对初始条件的敏感依赖性；格莱克（James Gleick, 1987）推动混沌学说普及，数学家证明极简非线性方程可生成无限复杂的行为图景（Stewart, 1990），彻底打破拉普拉斯机械决定论神话。
 > - **1990s — 复杂适应系统（[[Chinese Academy of Sciences|CAS]]）与秩序[[Emergence\|涌现]]**
->   学术重心从纯粹不可预测性转向自组织与高阶涌现（Waldrop, 1992; Lewin, 1993）。[[Stuart Kauffman\|考夫曼]]（Stuart Kauffman, 1995）提出复杂适应系统与“秩序免费”概念；巴克（Per Bak, 1996）创立自组织临界性学说，奠定现代复杂系统动力学基石。
+>   学术重心从纯粹不可预测性转向自组织与高阶涌现（Waldrop, 1992; Lewin, 1993）。考夫曼（Stuart Kauffman, 1995）提出复杂适应系统与“秩序免费”概念；巴克（Per Bak, 1996）创立自组织临界性学说，奠定现代复杂系统动力学基石。
 > - **2000s — 教育[[Paradigm\|研究范式]]建构与方法论深化**
 >   [[Keith Morrison\|莫里森]]（Keith Morrison, 2002a, 2008）等学者系统将复杂性理论引入教育学，将其建制化为抗衡[[Positivism\|实证主义]]量化霸权的新兴范式。库恩（Sarah Kuhn, 2007）提出复杂性研究五大公理；菲尔普斯与格雷厄姆（Phelps & Graham, 2010）论证其与[[Action Research\|行动研究]]的九重互补，激发教师作为研究者的实践转向。
 > - **2010s 至今 — [[Computer Simulation\|计算机模拟]]、[[Agent-based Modelling\|ABM]]、系统治理与虚拟生态实践**

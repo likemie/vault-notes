@@ -6,7 +6,7 @@ aliases:
 summary: "教师在复杂、非线性的教学情境中整合研究证据、伦理标准、教育学原则与实践经验做出决策的核心专业能力，是 EIP 多源整合的枢纽与抵御技术官僚主义去专业化的关键防线。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 70
+related_count: 71
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Teaching Assistant]]"
   - "[[Formative Assessment]]"
   - "[[Epistemic Ascent]]"
+  - "[[Evaluative Validity]]"
   - "[[Governing by Numbers]]"
   - "[[Discourse]]"
   - "[[Cognitive Deskilling]]"
@@ -53,6 +54,7 @@ related_concepts:
   - "[[International Education]]"
   - "[[Philanthrocapitalism]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
+  - "[[Reliability]]"
   - "[[Visible Learning]]"
 related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
@@ -64,6 +66,8 @@ related_methods:
   - "[[Triangulation]]"
   - "[[Effect Size]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Classroom Observation]]"
+  - "[[Inter-Rater Reliability]]"
   - "[[Quantitative Research]]"
   - "[[Meta-analysis]]"
   - "[[Systematic Review]]"
@@ -87,6 +91,7 @@ related_arguments:
   - "[[Argument_Biesta_2010_SPE]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
+  - "[[Argument_WorldBank_2019_Teach]]"
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
   - "[[Argument_Rowe_2023_ECNUROE]]"
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
@@ -118,7 +123,7 @@ updated: 2026-10-15
 > 
 > “研究基础可能并不充分，无法为政策制定提供明确答案；此时，明智的政策可能要求将基础研究与基于专业判断的知识——关于如何以最优方式教导学生并组织学科内容的知识——紧密结合起来。”（[[Argument_McDonnell_2013_AJE|McDonnell & Weatherford, 2013, p. 19]]）
 > 
-> *“The research base may be inadequate to provide clear-cut answers for policy; in that case, wise policy may require that [[Blue Skies Research|Basic Research]] be combined with knowledge based on professional judgment about how best to [[Teach Classroom Observation Tool|Teach]] students and organize subject matter...”*
+> *“The research base may be inadequate to provide clear-cut answers for policy; in that case, wise policy may require that [[Blue Skies Research|Basic Research]] be combined with knowledge based on professional judgment about how best to Teach students and organize subject matter...”*
 
 > [!citation-card] 严谨证据与严谨判断并存
 > “成为证据知情的过程，既需要严谨的证据，也需要严谨的专业判断过程。”（Campbell, 2016，引于 [[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p. 132]]）
@@ -179,6 +184,7 @@ updated: 2026-10-15
 > 1. **课堂[[Teaching Assistant|教学助理]]（TA）配置决策** 面对外部工具包中教学助理低[[Effect Size|效应量]]的粗糙评级，具有专业判断力的学校管理者深入分析其低效源于缺乏备课沟通与协同规划，进而通过重组 TA 培训与备课时间表，将 TA 转化为提升弱势学生学业与心理支持的关键支柱。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 12)]]
 > 2. **复杂改革评估结果的多样化解读** 在巴尔的摩 [[Students and Teachers Accessing Tomorrow|STAT]] 数字化教学改革中，面对复杂的[[Formative Assessment|形成性评估]]报告，校董、校长与一线教师运用专业判断，从各自关注的战略推进、预算可持续性与课堂教学负担等不同价值维度展开对话，避免了单一量化指标对复杂改革的武断扼杀。[[Argument_Ross_Morrison_2021_ECNUROE|(Ross & Morrison, 2021, pp. 122–123)]]
 > 3. **宏观课程标准研制中的实证补位与可行性审查** 在美国州[[Common Core State Standards|共同核心标准]]（CCSS）研制中，面对高中数学高阶内容与文本复杂度等缺乏因果实证的领域，起草组依托菲尔·达罗（Phil Daro）、威廉·麦卡勒姆（William McCallum）与贾森·津巴（Jason Zimba）等数学家的学科逻辑演绎确定[[Epistemic Ascent|概念进阶]]，并由全美教师联合会（[[American Federation of Teachers]], AFT）一线教师通过为期 2 天的逐条打印、剪贴并上墙比对进行实际教学可行性检验；最终 29 位跨学科验证委员会成员中有 25 位签名认可，其依据并非每项标准均有现成 [[Randomised Controlled Trials|RCT]] 数据，而是对起草过程中系统审慎运用专业判断的同行互信。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 14–16, 19)]]
+> 4. **高推论[[Classroom Observation|课堂观察]]中的全局质性综合与算法规避** 在[[Teach Classroom Observation Tool|世界银行课堂观察工具]] Teach（[[Argument_WorldBank_2019_Teach|World Bank Group, 2019]]）中，手册明确禁止通过离散行为指标的机械算术加权平均来推导 1 至 5 分的要素总分；评分者必须行使知情专业判断（Informed Professional Judgment），对照全局质性描述量规，权衡整个 15 分钟教学片段呈现的实质证据。同时，通过“4 天培训 + 现场试评 + 8/10 视频考核通过线”建立严格的观察员校准规程与偏误防御体系，揭示了在高推论教育测量中，专业判断非但不可被算法自动化替代，反而是保障深层质性[[Evaluative Validity|评价效度]]与跨文化[[Inter-Rater Reliability|评分者间信度]]的核心枢纽。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 17–19)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -357,6 +363,7 @@ updated: 2026-10-15
 > | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller (2022, pp. 65–66)]] | [[International Education\|国际教育]]中介演进与循证医学危机交叉考察 | [[Historical Institutionalism\|历史制度主义]]与理论批判综合 | 商业化证据洗白与技术官僚对专业判断的侵蚀 | 揭示将指南与算法绝对化会导致临床专业判断退化，教学作为知识型专业需抵御[[Cognitive Deskilling\|去技能化]] | — | 提示防范教育证据中介滑向算法技术官僚主义 |
 > | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023, pp. 527–528)]] | 澳大利亚公立学校向风险慈善中介（[[Social Ventures Australia\|SVA]]）申请项目资助生态 | [[Network Ethnography\|网络民族志]]与制度档案分析 | 竞争性商业赠款对基层办学自主权与专业判断的[[Disciplina and Doctrina\|规训]]效应 | 弱势学校为获取微额资助被迫全面屈从企业量规，教育专业判断服从于商业绩效考核 | — | 揭示异层治理与[[Philanthrocapitalism\|慈善资本主义]]对公立教育专业判断的隐蔽侵蚀机制 |
 > | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 涵盖 28 个国家的 109 项学校[[Research Utilization\|研究使用]]实证文献 | [[Systematic Review\|系统综述]]＋[[Framework Synthesis\|框架综合]] | 教师研究使用中的能动性与整合形态 | 象征性与[[Conceptual, Instrumental, and Symbolic Use of Research\|工具性使用]]居多，[[Reflexivity\|反思性]]深度整合相对罕见 | — | 提示需在组织层级为专业判断提供可持续支持结构 |
+> | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019, pp. 17–19)]] | 中低收入国家初等教育课堂高推论行为观察认证体系 | 测量学工具研制与评分者培训规程 | 评分综合逻辑（算法加权平均 vs 全局质性专业判断）与考核标准 | 严格禁止机械算术平均，确立质性知情专业判断；观察员必须通过包含 3 段 15 分钟视频的考核，且需达到至少 80%（8/10 行为及要素一致）的准入通过线以控制感知偏差与主观漂移 | 80% 考核合格门槛与双评[[Reliability\|信度]] | 证实专业判断在高推论课堂评定中具有不可替代性，且能够通过标准化规程实现高质量信度控制 |
 
 ---
 
@@ -372,3 +379,4 @@ updated: 2026-10-15
 > - [[Argument_Rowe_2023_ECNUROE|Rowe (2023)]] — 揭示[[Venture Philanthropy|风险慈善]]异层治理下公立学校办学自主权遭到商业量规[[Disciplina and Doctrina|规训]]的实证图景，批判外部企业考核对教师教育专业判断的侵蚀。
 > - [[Argument_Qvortrup_2019_NordSTEP|Qvortrup (2019)]] — 结合[[Bounded Rationality|有限理性]]理论，论证专业判断是 [[Visible Learning]] 体系中的缺失环节，反馈是支持教师判断的核心工具。
 > - [[Argument_Ross_Morrison_2021_ECNUROE|Ross & Morrison (2021)]] — 通过 [[Students and Teachers Accessing Tomorrow|STAT]] 项目[[Formative Assessment|形成性评估]]案例，展示专业判断在复杂评估报告解读与地方价值权衡中的主导作用。
+> - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 研制 Teach [[Classroom Observation|课堂观察]]工具，确立高推论教学质量评定中“以全局质性专业判断替代机械算术平均”的测量学规程，并构建基于视频考核的观察员认证与偏误防御体系。

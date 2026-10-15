@@ -8,7 +8,7 @@ summary: "奥地利动物行为学家与感官生理学家，1973年诺贝尔生
 type: person
 nationality: austria
 person_region: "austria"
-person_related_count: 9
+person_related_count: 8
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -33,7 +33,6 @@ related_instruments: []
 related_persons:
   - "[[Konrad Lorenz]]"
   - "[[Martin Lindauer]]"
-  - "[[Nikolas Rose]]"
 related_facts:
   - "[[Nobel Prize in Physiology or Medicine]]"
 related_arguments:
@@ -41,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Karl von Frisch
@@ -66,7 +65,7 @@ updated: 2026-10-14
 
 > [!timeline] 生平与职涯
 > - **1886** 出生于奥地利维也纳的学者世家，自幼展现出对自然界观察的非凡敏锐度。
-> - **1910–1925** 获维也纳大学哲学与医学博士学位；先后在维也纳大学、[[Nikolas Rose|罗斯]]托克大学与布雷斯劳大学任教，早期通过彩色纸板实验证实蜜蜂具备真正的色觉与紫外线感知能力。
+> - **1910–1925** 获维也纳大学哲学与医学博士学位；先后在维也纳大学、罗斯托克大学与布雷斯劳大学任教，早期通过彩色纸板实验证实蜜蜂具备真正的色觉与紫外线感知能力。
 > - **1925–1958** 执教于慕尼黑大学并担任动物学研究所所长；在极其艰苦的战后废墟上重建实验室，指导[[Martin Lindauer|马丁·林道尔]]等青年学者展开对[[Dance Language of Bees|蜜蜂舞蹈语言]]与群体定向机制的系统探索。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch10|(Karp & Zamiska, 2025, pp. 115–117)]]
 > - **1967** 出版集大成著作《蜜蜂的舞蹈语言与定向》（*The Dance Language and Orientation of Bees*），全面总结数十年的实验发现。
 > - **1973** 因在个体与社会行为模式的组织与引发方面的开创性发现，被授予[[Nobel Prize in Physiology or Medicine|诺贝尔生理学或医学奖]]。

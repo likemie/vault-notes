@@ -7,7 +7,7 @@ aliases:
 summary: "当代政治学与社会学核心制度分析范式；主张制度是承载权力分配后果的持久组织安排，强调历史时间性、路径依赖与关键节点；早期侧重外生危机冲击下的间断均衡，后经施特雷克、马奥尼与希伦发展，将制度重构为包含第三方强制力与执行缝隙的社会规制，全面转向常态历史时期的内生渐进演变分析。"
 type: theory
 theory_field: "political-economy-geopolitics"
-theory_related_count: 37
+theory_related_count: 36
 theory_related_level: 4
 theory_related_stars: "⭐⭐⭐⭐"
 theory_related_color: "#fce7f3"
@@ -49,7 +49,6 @@ related_instruments: []
 related_persons:
   - "[[Theda Skocpol]]"
   - "[[Peter A. Hall]]"
-  - "[[Nikolas Rose]]"
   - "[[Max Weber]]"
   - "[[Kathleen Thelen]]"
   - "[[Paul Pierson]]"
@@ -63,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-11
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Historical Institutionalism
@@ -86,7 +85,7 @@ updated: 2026-10-14
 ## 理论来源与形成
 
 > [!theory-origin] 提出者如何形成理论
-> - **提出者与原始文本** 20 世纪 80 年代由赛达·[[Theda Skocpol|斯考切波]]（Theda Skocpol）、[[Peter A. Hall|彼得·A·霍尔]]（Peter A. Hall）（1986《治理经济》）等学者在“找回国家”运动中奠基；[[Peter A. Hall|霍尔]]与[[Nikolas Rose|罗斯]]玛丽·泰勒（Rosemary C. R. Taylor）于 1996 年发表《政治学与新制度主义三大学派》（*Political Science and the Three New Institutionalisms*），正式在学术界确立其作为独立理论流派的核心坐标。
+> - **提出者与原始文本** 20 世纪 80 年代由赛达·[[Theda Skocpol|斯考切波]]（Theda Skocpol）、[[Peter A. Hall|彼得·A·霍尔]]（Peter A. Hall）（1986《治理经济》）等学者在“找回国家”运动中奠基；[[Peter A. Hall|霍尔]]与罗斯玛丽·泰勒（Rosemary C. R. Taylor）于 1996 年发表《政治学与新制度主义三大学派》（*Political Science and the Three New Institutionalisms*），正式在学术界确立其作为独立理论流派的核心坐标。
 > - **原初问题** 为何具备相似经济发展水平的工业化民主国家（如英、法、德、美），在面对相似的外部经济冲击（如大萧条、两次世界大战、石油危机）时，会选择截然不同的经济干预与福利政策轨道。
 > - **理论资源与材料** 吸收[[Max Weber|马克斯·韦伯]]的国家官僚与支配组织理论、卡尔·波兰尼的嵌入性思想以及欧洲比较历史社会学传统；经验材料以欧美发达工业化国家长时段国家建设、福利资本主义与宏观经济治理档案为主。
 > - **形成路径** 将中观制度（国家机关、法律规约、政党体制、劳资工会）设定为连接宏观历史结构与微观政治行动的因果中介，确立“制度结构塑造权力分配与行动者偏好”的核心因果假定。

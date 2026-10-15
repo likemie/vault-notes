@@ -54,6 +54,7 @@ related_methods:
   - "[[Test-Retest Reliability]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Cluster Sampling]]"
+  - "[[Classroom Observation]]"
   - "[[Confidence Interval]]"
   - "[[Pre-test and Post-test]]"
   - "[[Coding in Qualitative Research]]"
@@ -121,7 +122,7 @@ updated: 2026-10-08
 
 > [!method-stack] 方法层级
 > - **研究设计** 集群[[Randomised Controlled Trials\|随机对照试验]]（Cluster RCT）、多阶段分层[[Cluster Sampling\|整群抽样]]、纵向生长模型。
-> - **数据收集** 行政考分普查数据（NPD）、大样本心理测验、结构化课堂观察评分。
+> - **数据收集** 行政考分普查数据（NPD）、大样本心理测验、结构化[[Classroom Observation|课堂观察]]评分。
 > - **分析方法** 单因素随机效应[[Analysis of Variance\|方差分析]]（ANOVA Random Effects）、限制性极大似然法（REML）两层空模型。
 > - **辅助技术** 设计效应（Design Effect）公式换算、[[Effective Sample Size\|有效样本量]]折算、小集群小样本[[Confidence Interval\|置信区间]]构建。
 

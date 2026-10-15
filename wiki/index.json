@@ -5187,6 +5187,19 @@
     ]
   },
   {
+    "title": "Learning Crisis",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Learning Crisis.md",
+    "aliases": [
+      "全球学习危机",
+      "学习危机",
+      "Global Learning Crisis",
+      "Schooling Without Learning",
+      "学习贫困",
+      "Learning Poverty"
+    ]
+  },
+  {
     "title": "Legislative Policy Brief",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Legislative Policy Brief.md",
@@ -8377,6 +8390,20 @@
     ]
   },
   {
+    "title": "Time on Task",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Time on Task.md",
+    "aliases": [
+      "任务在轨时间",
+      "在轨时间",
+      "课堂在轨时间",
+      "学业在轨时间",
+      "Time on Learning",
+      "Engaged Time",
+      "Academic Engaged Time"
+    ]
+  },
+  {
     "title": "Visible Learning",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Visible Learning.md",
@@ -11064,7 +11091,10 @@
     "aliases": [
       "光环效应",
       "晕轮效应",
-      "halo error"
+      "halo error",
+      "晕轮偏误",
+      "horns effect",
+      "牛角效应"
     ]
   },
   {
@@ -18047,6 +18077,18 @@
     ]
   },
   {
+    "title": "Classroom Observation",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Classroom Observation.md",
+    "aliases": [
+      "教学观察",
+      "课堂观察",
+      "课堂教学观察",
+      "教学观察法",
+      "Instructional Observation"
+    ]
+  },
+  {
     "title": "Coding in Qualitative Research",
     "type": "method",
     "path": "wiki/methods/qualitative/Coding in Qualitative Research.md",
@@ -18730,7 +18772,9 @@
     "aliases": [
       "观察协议",
       "观察记录表",
-      "observational protocol"
+      "课堂观察规程",
+      "observational protocol",
+      "observation schedule"
     ]
   },
   {
@@ -19110,6 +19154,21 @@
     "aliases": [
       "理论抽样",
       "theoretical sample"
+    ]
+  },
+  {
+    "title": "Time Sampling",
+    "type": "method",
+    "path": "wiki/methods/qualitative/Time Sampling.md",
+    "aliases": [
+      "时间抽样法",
+      "时间抽样",
+      "时间取样法",
+      "瞬时时间抽样",
+      "定格快照法",
+      "Momentary Time Sampling",
+      "Snapshot Method",
+      "Time-Sampling Technique"
     ]
   },
   {
@@ -21286,6 +21345,18 @@
     ]
   },
   {
+    "title": "Classroom Assessment Scoring System",
+    "type": "instrument",
+    "path": "wiki/instruments/observation-tools/Classroom Assessment Scoring System.md",
+    "aliases": [
+      "CLASS Tool",
+      "CLASS Observation Tool",
+      "CLASS System",
+      "课堂评估评分系统",
+      "课堂评估打分系统"
+    ]
+  },
+  {
     "title": "Flanders Interaction Analysis Categories",
     "type": "instrument",
     "path": "wiki/instruments/observation-tools/Flanders Interaction Analysis Categories.md",
@@ -21299,13 +21370,108 @@
     ]
   },
   {
+    "title": "Framework for Teaching",
+    "type": "instrument",
+    "path": "wiki/instruments/observation-tools/Framework for Teaching.md",
+    "aliases": [
+      "FFT Framework",
+      "Danielson Framework",
+      "Danielson Framework for Teaching",
+      "丹尼尔森教学框架",
+      "教学框架"
+    ]
+  },
+  {
+    "title": "Mathematical Quality of Instruction",
+    "type": "instrument",
+    "path": "wiki/instruments/observation-tools/Mathematical Quality of Instruction.md",
+    "aliases": [
+      "MQI Tool",
+      "MQI Observation Tool",
+      "MQI Protocol",
+      "数学教学质量观察工具",
+      "数学教学质量观察规程"
+    ]
+  },
+  {
+    "title": "OPERA Classroom Observation Tool",
+    "type": "instrument",
+    "path": "wiki/instruments/observation-tools/OPERA Classroom Observation Tool.md",
+    "aliases": [
+      "OPERA Tool",
+      "OPERA Observation Tool",
+      "教学实践与学生学习关联观察工具",
+      "教学实践与互动观察工具",
+      "Observation des pratiques enseignantes dans leur rapport avec les apprentissages des élèves"
+    ]
+  },
+  {
+    "title": "Protocol for Language Arts Teaching Observation",
+    "type": "instrument",
+    "path": "wiki/instruments/observation-tools/Protocol for Language Arts Teaching Observation.md",
+    "aliases": [
+      "PLATO Protocol",
+      "PLATO Observation Protocol",
+      "语言艺术教学观察规程",
+      "英语语言艺术教学观察规程"
+    ]
+  },
+  {
+    "title": "Service Delivery Indicators Classroom Observation Module",
+    "type": "instrument",
+    "path": "wiki/instruments/observation-tools/Service Delivery Indicators Classroom Observation Module.md",
+    "aliases": [
+      "SDI Module",
+      "SDI Classroom Observation Module",
+      "Service Delivery Indicators",
+      "服务交付指标课堂观察模块",
+      "服务提供指标课堂观察模块",
+      "服务交付指标"
+    ]
+  },
+  {
+    "title": "Stallings Classroom Observation System",
+    "type": "instrument",
+    "path": "wiki/instruments/observation-tools/Stallings Classroom Observation System.md",
+    "aliases": [
+      "Stallings Observation System",
+      "Stallings System",
+      "斯托林斯课堂观察系统",
+      "斯托林斯课堂观察法",
+      "斯托林斯快照法"
+    ]
+  },
+  {
+    "title": "Standards-based Classroom Observation Protocol for Egypt",
+    "type": "instrument",
+    "path": "wiki/instruments/observation-tools/Standards-based Classroom Observation Protocol for Egypt.md",
+    "aliases": [
+      "SCOPE Protocol",
+      "SCOPE Observation Protocol",
+      "埃及基于标准的课堂观察规程",
+      "埃及标准课堂观察规程",
+      "Standards-based Classroom Observation Protocol"
+    ]
+  },
+  {
     "title": "Teach Classroom Observation Tool",
     "type": "instrument",
     "path": "wiki/instruments/observation-tools/Teach Classroom Observation Tool.md",
     "aliases": [
-      "Teach",
       "World Bank Teach",
-      "世界银行课堂观察工具"
+      "世界银行课堂观察工具",
+      "世行课堂观察工具"
+    ]
+  },
+  {
+    "title": "Teacher Instructional Practices and Processes System",
+    "type": "instrument",
+    "path": "wiki/instruments/observation-tools/Teacher Instructional Practices and Processes System.md",
+    "aliases": [
+      "TIPPS",
+      "TIPPS System",
+      "TIPPS Protocol",
+      "教师教学实践与过程系统"
     ]
   },
   {
@@ -21315,6 +21481,17 @@
     "aliases": [
       "知识论课堂观察协议",
       "ToK lesson observation protocol"
+    ]
+  },
+  {
+    "title": "UTeach Observation Protocol",
+    "type": "instrument",
+    "path": "wiki/instruments/observation-tools/UTeach Observation Protocol.md",
+    "aliases": [
+      "UTOP",
+      "UTOP Protocol",
+      "优教观察规程",
+      "科学与数学教学观察规程"
     ]
   },
   {
@@ -24406,7 +24583,6 @@
     "path": "wiki/persons/uk/Nikolas Rose.md",
     "aliases": [
       "尼古拉斯·罗斯",
-      "罗斯",
       "Rose, N.",
       "Nikolas S. Rose"
     ]
@@ -26749,7 +26925,6 @@
     "path": "wiki/persons/us/Stuart Kauffman.md",
     "aliases": [
       "斯图尔特·考夫曼",
-      "考夫曼",
       "Kauffman, S. A.",
       "Stuart A. Kauffman"
     ]
@@ -32619,7 +32794,6 @@
       "高等教育质量测量工具清单",
       "测量质量清单",
       "高等教育质量评测工具库",
-      "MQI",
       "NILOA Inventory"
     ]
   },

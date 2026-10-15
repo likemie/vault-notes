@@ -9,7 +9,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 13
+fact_related_count: 12
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -37,8 +37,7 @@ related_facts:
   - "[[Centre for Independent Studies]]"
 related_arguments:
   - "[[Argument_Skourdoumbis_2024_AER]]"
-related_instruments:
-  - "[[Teach Classroom Observation Tool]]"
+related_instruments: []
 confidence: high
 status: completed
 created: 2026-06-06
@@ -74,7 +73,7 @@ updated: 2026-10-15
 > [!citation-card]- [[Initial Teacher Training\|ITE]] 强制认证附表要求
 > “澳大利亚教学与[[School Leadership\|学校领导力]]协会将‘核心内容’作为附表添加到认证标准和程序中。该附表应描述初始教师教育项目应教授的内容和应达到的学习成果。”([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 5]])
 > 
-> “The Australian Institute for Teaching and School Leadership to add ‘core content’ as a schedule to the Accreditation Standards and Procedures. The schedule should describe what initial teacher education programs should [[Teach Classroom Observation Tool|Teach]] and the learning outcomes that should be achieved.” (Australian Government, 2023, p. 17)
+> “The Australian Institute for Teaching and School Leadership to add ‘core content’ as a schedule to the Accreditation Standards and Procedures. The schedule should describe what initial teacher education programs should Teach and the learning outcomes that should be achieved.” (Australian Government, 2023, p. 17)
 
 ---
 

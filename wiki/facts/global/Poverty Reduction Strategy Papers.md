@@ -24,6 +24,7 @@ tags:
 related_concepts:
   - "[[Washington Consensus]]"
   - "[[Structural Adjustment Programs]]"
+  - "[[Learning Crisis]]"
   - "[[Public-Private Partnership in Research]]"
   - "[[Development Education]]"
   - "[[Performance Indicators]]"
@@ -72,7 +73,7 @@ updated: 2026-10-15
 > 减贫战略文件（PRSPs）是由借贷国政府名义上主导编制、实质严格遵循[[World Bank\|世界银行]]与 [[International Monetary Fund|IMF]] 规程的全国宏观中长期减贫路线图；它将教育领域的初等教育普及、女孩入学率、教师绩效问责等量化指标与多边资金解付深度挂钩，构成了世界银行凭借信贷资本实施管理主义-科学效率规制的核心载体。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 
 > [!policy-design]- 政策设计
-> - **政策目标** 承诺在保障宏观经济稳定与财政可持续性的前提下，实现世界银行倡导的基础教育投资优先化，降低学习贫困率。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
+> - **政策目标** 承诺在保障宏观经济稳定与财政可持续性的前提下，实现世界银行倡导的基础教育投资优先化，降低[[Learning Crisis|学习贫困]]率。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
 > - **适用对象** 受援国教育部、财政部、基层公立中小学师生及地方教育行政官僚。
 > - **政策工具** 债务减免基金（HIPC Initiative）、中期支出框架（MTEF）、部门联合审查（JSR）与公私伙伴（[[Public-Private Partnership in Research\|PPP]]）招标机制。
 > - **约束机制** 必须通过世行与 IMF 联合参谋部咨询评估（Joint Staff Advisory Note，JSAN）的严格审计，否则直接中止后续放贷周期。
@@ -139,7 +140,7 @@ updated: 2026-10-15
 
 > [!finding-cards] 效果与评价
 > - **基础教育预算刚性化保护** 成功迫使借贷国政府在面临严峻财政危机时，依然维持对初等教育的最低预算投入，支撑了全球南方小学入学率的快速爬升。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 542)]]
-> - **“在校无学”的质量妥协** 过度聚焦于入学率等粗放量化指标，导致学校盲目扩容而忽视师资匮乏与教材短缺，埋下了后来深刻的“学习贫困”危机。
+> - **“在校无学”的质量妥协** 过度聚焦于入学率等粗放量化指标，导致学校盲目扩容而忽视师资匮乏与教材短缺，埋下了后来深刻的“[[Learning Crisis|学习贫困]]”危机。
 > - **国家政策主权的实质让渡** 名义上高唱“国家完全自主”，实质受援国官员为了确保资金到位，主动迎合[[World Bank\|世行]]偏好，抑制了本土教育哲学的创新空间。
 
 > [!stat-cards]- 核心数据

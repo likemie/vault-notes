@@ -47,6 +47,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Design-Based Research]]"
+  - "[[Classroom Observation]]"
   - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_persons: []
@@ -107,7 +108,7 @@ updated: 2026-10-06
 > [!feature] 参与式学术的核心要素构成
 > - **劣构难题的联合界定（Collaborative Problem Formulation）** 探究的逻辑起点是一线教育治理或课堂教学中真实遭遇的劣构困境（ill-structured problems），而非学者依据单纯[[Document\|文献]]空白（gap-spotting）自上而下设定的[[Hypothesis\|假设]]。
 > - **双向多元视角的理论建构（Theory Building with Dual Lenses）** 学者带入严密的学术框架与概念工具，教师和政策官员带入对制度环境、情境制约与本土学情的[[Phronesis\|实践智慧]]（[[Phronesis]]），实现理论与经验的有机融合。
-> - **合作探究与实证研究设计（Collaborative Research Design）** 实践人员深度介入调研方案设计、课堂观察指标研制、阶段性试误与数据收集，保障研究方案具有微观可行性。
+> - **合作探究与实证研究设计（Collaborative Research Design）** 实践人员深度介入调研方案设计、[[Classroom Observation|课堂观察]]指标研制、阶段性试误与数据收集，保障研究方案具有微观可行性。
 > - **行动方案与理论成果的联合[[Transfer Translation Transformation\|转译]]（Joint [[Problem Solving]] & Translation）** 产出兼顾理论贡献与现实收益的双轨成果，既形成经同行评议的学术成果，又转化为指导学校变革的可操作干预工具与政策备忘录。
 
 > [!logic-map]- 范德文参与式学术[[National Competitive Advantage|钻石模型]]（Diamond Model）

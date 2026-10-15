@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 77
+fact_related_count: 84
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -46,6 +46,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Knowledge Bank]]"
   - "[[Knowledge Production]]"
+  - "[[Learning Crisis]]"
   - "[[Multilateral Development Bank]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Going Native]]"
@@ -57,6 +58,10 @@ related_concepts:
   - "[[Structural Adjustment Programs]]"
   - "[[Market Fundamentalism]]"
   - "[[Selective Affinity]]"
+  - "[[Class Size]]"
+  - "[[Reliability]]"
+  - "[[Constructivist Paradigm]]"
+  - "[[Critical Thinking]]"
   - "[[Social Imaginary]]"
   - "[[Soft Power by Hard Facts]]"
   - "[[Endogenous and Exogenous Privatisation]]"
@@ -70,6 +75,7 @@ related_theories:
   - "[[Systems of Innovation]]"
 related_methods:
   - "[[Cost-Benefit Analysis]]"
+  - "[[Classroom Observation]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Difference-in-Differences]]"
   - "[[Comparative Case Study]]"
@@ -97,6 +103,7 @@ related_facts:
   - "[[Global Development Network]]"
   - "[[Systems Approach for Better Education Results]]"
   - "[[Building Evidence in Education]]"
+  - "[[UNESCO Institute for Statistics]]"
   - "[[Inter-American Development Bank]]"
   - "[[English Schools Foundation Hong Kong]]"
   - "[[World Development Indicators]]"
@@ -143,7 +150,7 @@ updated: 2026-10-15
 > - **1968–1981 — 麦克纳马拉改革与教育研究帝国奠基期** 罗伯特·麦克纳马拉（Robert McNamara）执掌世行，将教育确立为反贫困的核心生产性支柱；聘请著名教育经济学家[[George Psacharopoulos|乔治·萨卡罗普洛斯]]（George Psacharopoulos）等组建中央研究团队，开创覆盖全球的[[Return on Investment|教育投资回报率]]（RORE）实证计量传统；1980 年 4 月正式发表里程碑式《教育部门政策文件》，单方面终结对教科文组织的依赖，确立完全独立的教育政策研究与借贷体系。[[Argument_Steiner-Khamsi_2024_CE|(Psacharopoulos, 1981; Steiner-Khamsi et al., 2024, pp. 541–542)]]
 > - **1981–1999 — 结构调整贷款、[[Disciplina and Doctrina|规训]]性多边主义与[[National Innovation System|国家创新系统]]滞后** [[International Education|国际教育]]多边主义经历重大转向，战后教科文组织倡导的“有限再分配多边主义”衰落，世界银行主导的“防卫性与规训性多边主义”确立（Mundy, 1998; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, p. 110]]）。世行将[[Washington Consensus|华盛顿共识]][[Operationalization|操作化]]为以循证检验、成本核算、极致量化、效率优先、能力择优、市场竞争、物质激励、取消补贴与私有化为轴心的九大放贷审查准则（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, p. 460]]）；推行结构调整计划，将削减公共开支、用户付费与基础[[Educational Decentralization|教育分权]]作为[[Policy Conditionalities|贷款附加条件]]。然而在 1980 年代激进强推附加条件的过程中，世行遭遇借款国强烈的本土政治抵制与官僚消极应对，导致多达三分之一的教育借贷项目陷入停摆与低效危机（“赶猫式”失败），迫使世行深刻认识到外部银行无法以蛮力强推深层体制重组（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, pp. 465–466]]）。同时，世行政策议程呈现剧烈的“教育时尚周期”律动：自 1960 年代积极资助高等教育后，骤然推行长达十余年的高等教育借贷禁令，将资金完全单一倾斜于基础教育，给发展中国家高阶人才培养造成结构性断层（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, pp. 473–474]]）。[[Robert Arnove|阿诺夫]]（Arnove, 1980, 2009）深刻指出，世行推行的教育革新实质上固化了既有的中心-边缘与国内阶层分层体系（pp. 105–106）。[[Chris Freeman|克里斯·弗里曼]]（Chris Freeman, 1995）进一步从[[Evolutionary Economics|演化经济学]]考察指出，1980 年代世界银行与[[International Monetary Fund|国际货币基金组织]]强推的紧缩与外债偿付方案重创了拉美（如巴西）的[[National Innovation System|国家创新系统]]，迫使政府削减高校科研与[[Engineering Education|工程教育]]投资，导致其与东亚新兴工业化经济体（如韩国）依靠自主研发与教育扩张的高速赶超拉开了致命差距。1997 年联合 [[OECD|经合组织]]与 [[UNESCO|联合国教科文组织]] 发起“世界[[Performance Indicators|教育指标]]”（[[World Education Indicators]], WEI）项目，将量化指标方法学推广至非成员转型经济体；在 OECD 1996 年发布《以知识为基础的经济》后迅速跟进拥抱[[Knowledge-Based Economy|知识经济]]概念并发布系列专题报告。1999 年世行联合引入《[[Poverty Reduction Strategy Papers|减贫战略文件]]》（PRSPs），将[[Performance Indicators|教育指标]]纳为国家宏观多边信用评级的刚性杠杆。[[Argument_Steiner-Khamsi_2024_CE|(Elfert & Ydesen, 2023; Steiner-Khamsi et al., 2024, p. 542)]]; [[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–107, 110)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 13–15)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–445)]]
 > - **1999–2018 — [[Knowledge Bank|知识银行]]转型、[[Shadow State|影子国家]]外包与买方市场危机** 沃尔芬森（James Wolfensohn）主导世行转型为“知识银行”（Knowledge Bank），试图以纯粹知识咨询收费模式取代传统重型资金贷款；然而圈内实务证明该设想严重脱离现实：借贷国之所以重视世行政策建议，根本原因在于其背后捆绑的巨额主权贷款杠杆，若缺乏资金诱惑，纯政策咨询便会重蹈教科文组织的无效覆辙（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, pp. 472–473]]）。虽于 1999 年创设[[Global Development Network|全球发展网络]]（GDN）探索本土去中心化[[Knowledge Production|知识生产]]，但迅速被华盛顿总部集权的工具所取代；2011 年推出[[Systems Approach for Better Education Results|改善教育成果系统分析法]]（SABER），联合英美双边援助机构组建[[Building Evidence in Education|构建教育证据联盟]]（BE2），确立自指性政策仓库。在公共服务提供上，世行日益绕过受援国政府直接委托非政府组织提供教育，架空了国家公共权威，使 NGO 蜕变为去政治化的“[[Shadow State|影子国家]]”（Sutton & Arnove, 2004; Kamat, 2004; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 111–112]]）。进入 21 世纪，随着拉美与亚洲中等收入国家主权信用等级提升并可直接在国际私人资本市场低成本融资，世行面临从“卖方市场”向“买方市场”的深刻业务缩水危机，迫使其重构金融工具，推出基于成果的框架贷款（PforR）与分步递进式信贷以降低借贷国官僚合规交易成本（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, pp. 475–476]]）。[[Argument_Steiner-Khamsi_2024_CE|(Stone, 2000; Steiner-Khamsi et al., 2024, pp. 543, 545, 548)]]
-> - **2018–至今 — 学习危机诊断、微观课堂实践转向与开源公共品体系** 2018 年世界银行发布首部完全聚焦教育的《世界发展报告：学习以实现教育的承诺》（WDR 2018），正式确立“全球学习危机”（Global Learning Crisis）政策议程，指出发展中国家数以亿计儿童在校却缺乏基本读写算技能，并联合联合国教科文组织统计研究所（UIS）提出“学习贫困”（Learning Poverty）指标。面对宏观制度改革与微观课堂教学脱节的长期痼疾，世行教育业务经历向微观教学实践的关键转向；2019 年正式推出面向发展中国家小学课堂的标准化微观观察工具《[[Teach Classroom Observation Tool|Teach 课堂观察工具]]》（Teach Observer Manual），并配套开发在职教师针对性辅导规程 Coach，将全球教育治理的介入触角直接延伸至教室内部，构建起衡量课堂时间利用、教学质量与社会情感技能培养的开源公共品体系。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 2–6)]]
+> - **2018–至今 — [[Learning Crisis|学习危机]]诊断、微观课堂实践转向与开源公共品体系** 2018 年世界银行发布首部完全聚焦教育的《世界发展报告：学习以实现教育的承诺》（WDR 2018），正式确立“全球学习危机”（Global Learning Crisis）政策议程，指出发展中国家数以亿计儿童在校却缺乏基本读写算技能，并联合[[UNESCO Institute for Statistics|联合国教科文组织统计研究所]]（UIS）提出“学习贫困”（Learning Poverty）指标。面对宏观制度改革与微观课堂教学脱节的长期痼疾，世行教育业务经历向微观教学实践的关键转向；2019 年正式推出面向发展中国家小学课堂的标准化微观观察工具《Teach [[Classroom Observation|课堂观察]]工具》（Teach Observer Manual），并配套开发在职教师针对性辅导规程 Coach，将全球教育治理的介入触角直接延伸至教室内部，构建起衡量课堂时间利用、教学质量与社会情感技能培养的开源公共品体系。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 2–6)]]
 
 ---
 
@@ -166,7 +173,7 @@ updated: 2026-10-15
 > | **改革附加条件力度** | 激进捆绑宏观体制重构条件（人事编制冻结、民营化），易在借款国引发政治僵局与“赶猫”困境。[[Argument_Castro_2009_MultilateralBanks\|(Castro, 2009, pp. 465–466)]] | 长期坚守物理基建与技术培训项目，虽较少触碰深层体制病灶，但履约顺利度与拨付率显著更高。 |
 
 > [!pathways]- 业务运行机制
-> - **议程设置** 依据全球宏观经济动态与自身发展指标库，将战略重点依次锁定于“初等教育普及”、“女童教育”、“学习贫困（Learning Poverty）”与“基础素养”，通过全球旗舰报告引领受援国改革议程。
+> - **议程设置** 依据全球宏观经济动态与自身发展指标库，将战略重点依次锁定于“初等教育普及”、“女童教育”、“[[Learning Crisis|学习贫困]]（Learning Poverty）”与“基础素养”，通过全球旗舰报告引领受援国改革议程。
 > - **研究与开发** 依托内部 DEC 团队开展大规模微观计量与田野 RCT 实验，将各借贷国的试点数据回流华盛顿总部清洗，提炼为具有普适指导意义的最佳政策组合（Best Practice Portfolio）。
 > - **质量控制与透明度** 实行严格的项目周期监管（识别、准备、评估、谈判、执行监督、后评价），所有借贷协议与实证工作论文公开归档，但评估标准具有鲜明的华盛顿经济学主导色彩。
 
@@ -187,8 +194,8 @@ updated: 2026-10-15
 ## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
-> - **指南、规程与标准体系** [[Systems Approach for Better Education Results|改善教育成果系统分析法]]（SABER）涵盖 13 个领域的政策基准量规；面向小学课堂教学微观实践标准化的《[[Teach Classroom Observation Tool|Teach 课堂观察工具]]》（Teach Observer Manual, 2019）及配套在职教师指导规程 Coach；环境与社会保障框架（[[English Schools Foundation Hong Kong|ESF]]）；学校建设与采购标准化技术手册。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 543)]]; [[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 2–6)]]
-> - **数据库、证据库与监测平台** [[World Development Indicators|世界发展指标]]（WDI）数据库（指标规模达 1,600 项）；涵盖 139 国 1,120 项估算的全球[[Return on Investment|教育投资回报率]]数据库；学习贫困测算平台。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 542, 548)]]
+> - **指南、规程与标准体系** [[Systems Approach for Better Education Results|改善教育成果系统分析法]]（SABER）涵盖 13 个领域的政策基准量规；面向小学课堂教学微观实践标准化的《Teach [[Classroom Observation|课堂观察]]工具》（Teach Observer Manual, 2019）及配套在职教师指导规程 Coach；环境与社会保障框架（[[English Schools Foundation Hong Kong|ESF]]）；学校建设与采购标准化技术手册。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 543)]]; [[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 2–6)]]
+> - **数据库、证据库与监测平台** [[World Development Indicators|世界发展指标]]（WDI）数据库（指标规模达 1,600 项）；涵盖 139 国 1,120 项估算的全球[[Return on Investment|教育投资回报率]]数据库；[[Learning Crisis|学习贫困]]测算平台。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 542, 548)]]
 > - **旗舰项目、调查与测评** [[International Development Association|国际开发协会]]基础教育普及援助项目；结果导向型教育贷款（PforR）；全球学习评估支持倡议；与 [[OECD|经合组织]]、[[UNESCO|教科文组织]] 联合发起的“世界[[Performance Indicators|教育指标]]”（[[World Education Indicators]], WEI）项目；与 [[UNESCO]]/[[UNICEF]] 联合发起的[[Learning Data Compact|学习数据契约]]。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 545)]]; [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444)]]
 > - **旗舰出版物与咨询成果** 1980 年《教育部门政策文件》；2018 年《世界发展报告：学习以实现教育的承诺》（WDR 2018）；《Teach 课堂观察员操作手册》（2019 年第一版）；各借贷国公共支出审查报告（PER）与国别教育战略备忘录。[[Argument_Steiner-Khamsi_2024_CE|(World Bank, 1980; Steiner-Khamsi et al., 2024, p. 542)]]; [[Argument_WorldBank_2019_Teach|(World Bank Group, 2019)]]
 
@@ -268,10 +275,10 @@ updated: 2026-10-15
 > > - **圈内制度反思与实证检验（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009]]; Hunter & Browne, 2000）** 指出世行内部由顶尖学者构成，充满学术论战与多元主张，绝非铁板一块的阴谋集团；其真正的致命缺陷不在于意识形态狂热，而在于严重受困于三大官僚痼疾：一是极端繁琐僵化的反腐报销程序导致项目资金拨付严重拖延，甚至阻断对极贫国家的有效援助；二是评估端深陷“只问学校建好与否、电脑买齐没有，不问学生是否真正学到知识”的重投入轻产出异化；三是在政策博弈中，借款国本土政治力量与既得利益往往轻易压倒外部技术官僚约束（如 Hunter 与 Browne 证实世行指令对拉美初等教育支出份额几乎没有实质决定权，改革能否成功最终取决于借贷国内部的政治领导意愿而非外源性强制）。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 462–464, 470–472, 474–475)]]
 >
 > > [!axis] 微观教学行为量规的跨国标准化 vs 本地课堂生态与极度资源约束的张力
-> > 争论世界银行推行全球通用的标准化课堂观察工具（如 Teach）究竟是提升中低收入国家教学质量的普适支持工具，还是忽视本土大班额与权威师生文化生态的技术治理预设。
+> > 争论世界银行推行全球通用的标准化[[Classroom Observation|课堂观察]]工具（如 Teach）究竟是提升中低收入国家教学质量的普适支持工具，还是忽视本土大[[Class Size|班额]]与权威师生文化生态的技术治理预设。
 > >
-> > - **微观实证与工具研发者（World Bank Group, 2019）** 强调发展中国家教师培训长期脱离教学法实质，Teach 融汇 3 维度 9 指标 28 行为行为锚定框架，具备极高的跨国信度与开源适应性，能帮助教育系统精准识别教学短板，将课堂时间与社会情感支持转化为实证证据。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 2–5)]]
-> > - **批判比较教育与本土实践研究视角** 质疑源自认知心理学与建构主义的师生互动量规（如自主权、批判性思维与肯定性反馈）直接套用于每班 60–100 人的极度拥挤课堂和权威型传统文化生态时可能产生适应不良，若被地方教育行政异化为高利害绩效问责工具，可能加剧一线教师的形式主义合规负担。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 4–5)]]
+> > - **微观实证与工具研发者（[[Argument_WorldBank_2019_Teach|World Bank Group, 2019]]）** 强调发展中国家教师培训长期脱离教学法实质，Teach 融汇 3 维度 9 指标 28 行为行为锚定框架，具备极高的跨国[[Reliability|信度]]与开源适应性，能支持各国教育行政部门精准识别教学短板，将课堂时间与社会情感支持转化为实证证据。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 2–5)]]
+> > - **批判比较教育与本土实践研究视角** 质疑源自认知心理学与[[Constructivist Paradigm|建构主义]]的师生互动量规（如自主权、[[Critical Thinking|批判性思维]]与肯定性反馈）直接套用于每班 60–100 人的极度拥挤课堂和权威型传统文化生态时可能产生适应不良，若被地方教育行政异化为高利害绩效问责工具，可能加剧一线教师的形式主义合规负担。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 4–5)]]
 
 > [!citation-card] 阿诺夫论跨国金融机构教育援助固化国际分层
 > 世界银行、[[International Monetary Fund|国际货币基金组织]]以及大型跨国基金会在受援国推广的教育革新，实质上并没有打破既有的依附格局，反而体系化地固化了国际分工与借贷国内部既有的阶层分化结构。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 105–106)]]

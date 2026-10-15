@@ -9,7 +9,7 @@ summary: "美国第32任总统，二战同盟国领袖；推行“新政”重�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 17
+person_related_count: 16
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -35,7 +35,6 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
-  - "[[Nikolas Rose]]"
   - "[[Leo Szilard]]"
   - "[[Vannevar Bush]]"
   - "[[James Mahoney]]"
@@ -49,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Franklin D. Roosevelt
@@ -64,7 +63,7 @@ updated: 2026-10-14
 > - **代表贡献** 推行新政并签署1935年《社会保障法案》（Social Security Act），开创缴费型融资（Contributory Financing）锁定机制；决断响应[[Einstein-Szilard Letter|爱因斯坦-西拉德信函]]建言，推动创设[[Office of Scientific Research and Development|科学研究与开发办公室]]（OSRD）并启动[[Manhattan Project|曼哈顿工程]]；奠定现代[[Technological Republic|技术共和国]]政产研协同[[Paradigm|范式]]。
 
 > [!citation-card] 缴费型融资制度设计的反紧缩历史韧性
-> [[Nikolas Rose|罗斯]]福在建立美国社会保障制度时，最初确立缴费型融资机制是为了抵御当时精英面临的民粹主义扩张呼声，通过将给付严格绑定于工资缴费，防止政客随意无序扩增福利开支。然而数十年后，这一缴费原则衍生出深刻的政治与道德逻辑，成为行动者合法权利的象征，反倒在后世构成了抵御保守派削减福利的最坚固防线，展现了制度设计超越最初意图的长周期演化韧性。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 12–13)]]
+> 罗斯福在建立美国社会保障制度时，最初确立缴费型融资机制是为了抵御当时精英面临的民粹主义扩张呼声，通过将给付严格绑定于工资缴费，防止政客随意无序扩增福利开支。然而数十年后，这一缴费原则衍生出深刻的政治与道德逻辑，成为行动者合法权利的象征，反倒在后世构成了抵御保守派削减福利的最坚固防线，展现了制度设计超越最初意图的长周期演化韧性。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 12–13)]]
 >
 > *FDR initially devised the idea of contributory financing on which the system was based as a way of fending off the challenges that elites at that time faced from populists ... Years later, long after the populist threat had waned, these same provisions provided an unanticipated safeguard against conservative retrenchment.*
 
@@ -106,7 +105,7 @@ updated: 2026-10-14
 ## 核心思想
 
 > [!claim] 核心主张
-> 富兰克林·D. [[Nikolas Rose|罗斯]]福展现了成熟宪政民主国家统帅的战略决断力与制度前瞻性：面对大萧条与世界大战的系统性生存危机，最高执政者必须既能在微观制度设计上通过巧妙的机制嵌套（如以缴费型融资绑定合法性权利）实现政策防卫与抗风浪韧性，又能在宏观地缘战略上以高度互信跨越科层阻隔，将最顶尖的科学理性转化为守护民主自由的战略[[Hard Power|硬实力]]（Karp & Zamiska, 2025；[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 12–13]]）。
+> 富兰克林·D. 罗斯福展现了成熟宪政民主国家统帅的战略决断力与制度前瞻性：面对大萧条与世界大战的系统性生存危机，最高执政者必须既能在微观制度设计上通过巧妙的机制嵌套（如以缴费型融资绑定合法性权利）实现政策防卫与抗风浪韧性，又能在宏观地缘战略上以高度互信跨越科层阻隔，将最顶尖的科学理性转化为守护民主自由的战略[[Hard Power|硬实力]]（Karp & Zamiska, 2025；[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, pp. 12–13]]）。
 
 ---
 
@@ -115,7 +114,7 @@ updated: 2026-10-14
 > [!person-network] 关系网络
 > - **科学建言者** 阿尔伯特·爱因斯坦 — 1939年佩科尼克信函签署者，推动总统关注核裂变军事应用。
 > - **科学建言者** [[Leo Szilard|利奥·西拉德]] — 1939年信函核心起草人与核物理学家。
-> - **科技操盘官** [[Vannevar Bush|万尼瓦尔·布什]] — 执掌 [[Office of Scientific Research and Development|OSRD]]，直接向[[Nikolas Rose|罗斯]]福汇报战时科研大局。
+> - **科技操盘官** [[Vannevar Bush|万尼瓦尔·布什]] — 执掌 [[Office of Scientific Research and Development|OSRD]]，直接向罗斯福汇报战时科研大局。
 > - **制度研究分析** 艾伦·雅各布斯（Alan Jacobs）与[[James Mahoney|马奥尼]]、希伦 — [[Historical Institutionalism|历史制度主义]]学者，系统剖析罗斯福社会保障缴费机制超越设计意图的演化政治逻辑。
 > - **重大工程与制度** [[Manhattan Project|曼哈顿工程]]、美国社会保障制度 — 批准建立的国家安全与社会安全基石工程。
 
@@ -126,7 +125,7 @@ updated: 2026-10-14
 > [!debates] 学术争议与历史审视
 >
 > > [!axis] 缴费型融资的权利刚性 vs 福利覆盖的结构排他性
-> > [[Historical Institutionalism|历史制度主义]]与社会福利史学者就[[Nikolas Rose|罗斯]]福社会保障制度的初始妥协展开持续讨论。
+> > [[Historical Institutionalism|历史制度主义]]与社会福利史学者就罗斯福社会保障制度的初始妥协展开持续讨论。
 > >
 > > - **制度韧性肯定论** 雅各布斯（Jacobs, 2009）与[[James Mahoney|马奥尼]]、希伦（2009）指出，正是因为罗斯福坚持缴费原则，才赋予了普通劳动者牢固的道德与法律权利意识，使社会保障项目在后世数十年历经经济萧条与保守反弹仍毫发无损。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 12–13)]]
 > > - **社会排他性批判论** 批判学者指出，新政妥协为了换取南方保守派议员支持，在初始法案中将农业工人与家政服务人员（绝大多数为黑人与少数族裔）排除在缴费保障之外，埋下了美国福利体制结构性种族与阶级分割的历史遗留问题。
@@ -151,5 +150,5 @@ updated: 2026-10-14
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|Karp & Zamiska (2025, Ch. 3)]] — 考证[[Nikolas Rose|罗斯]]福如何决断响应佩科尼克信函并建立白宫直连科研协作机制，奠定战后[[Technological Republic|技术共和国]]基石。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|Karp & Zamiska (2025, Ch. 3)]] — 考证罗斯福如何决断响应佩科尼克信函并建立白宫直连科研协作机制，奠定战后[[Technological Republic|技术共和国]]基石。
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen (2009)]] — 引用 Jacobs 案例剖析罗斯福社会保障缴费型融资设计如何衍生出超越初衷的反紧缩制度韧性。

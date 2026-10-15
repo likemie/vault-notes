@@ -9,7 +9,7 @@ title: "Argument_Ryan_2010_ChineseLearner"
 argument_key: "Argument_Ryan_2010_ChineseLearner"
 argument_display_title: "The Chinese Learner: Misconceptions and Realities"
 argument_kind: "book"
-argument_related_count: 31
+argument_related_count: 30
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
@@ -54,7 +54,6 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Discourse Analysis]]"
 related_persons:
-  - "[[Nikolas Rose]]"
   - "[[Lee Kuan Yew]]"
   - "[[Confucius]]"
 related_facts:
@@ -121,7 +120,7 @@ citation_aliases:
 
 - **中国内部差异被抹平** 一个父母是上海教授的学生，其"文化包袱"（cultural baggage）与一个父母是湖南农村农民的学生截然不同(Louie, 2005, p.23, 转, p.41)。沿海发达地区学生与内陆欠发达地区学生的学习行为和信念存在显著差异(Hu, 2003; Shi, 2006)。Hu(2005)因此断言，"中国语境"这个概念根本就是一个神话。
 
-> **这一步的逻辑结论：** 如果连"中国学习者"指谁都无法一致，那么说"中国学习者是 X 型学习者"这类陈述，从一开始就建立在流沙之上。Nisbett 的分类尤其致命——它等于说"一个终身生活在纽约的华裔，其思维方式与中国偏远农村的人相同"，这种说法如果用在白人身上（"一个纽约白人和一个俄[[Nikolas Rose|罗斯]]农村白人学习方式相同"），没人会当真。
+> **这一步的逻辑结论：** 如果连"中国学习者"指谁都无法一致，那么说"中国学习者是 X 型学习者"这类陈述，从一开始就建立在流沙之上。Nisbett 的分类尤其致命——它等于说"一个终身生活在纽约的华裔，其思维方式与中国偏远农村的人相同"，这种说法如果用在白人身上（"一个纽约白人和一个俄罗斯农村白人学习方式相同"），没人会当真。
 
 ### 第 2 步：揭示刻板印象的双重形态——负面和正面都在本质化
 

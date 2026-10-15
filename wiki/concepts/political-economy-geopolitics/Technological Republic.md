@@ -5,7 +5,7 @@ aliases:
 summary: "国家战略力量、公共福利与民主合法性同前沿科技与软件工程深度绑定的政治经济体制形态。强调国家战略与技术共同体结盟，以软件硬实力与人工智能威慑替代原子时代工业化防御；破除胜者谬误、大构想饥荒与创新荒漠，依托审美品味、创始人长期主义、全员所有权社会与实质伦理美德，在微观工程思维与宏观国家使命中重构自由民主政体的地缘优势与社会治理效能。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 119
+related_count: 118
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -99,7 +99,6 @@ related_persons:
   - "[[Nicholas Zamiska]]"
   - "[[Vannevar Bush]]"
   - "[[J. Robert Oppenheimer]]"
-  - "[[Nikolas Rose]]"
   - "[[Francis Fukuyama]]"
   - "[[Thomas Schelling]]"
   - "[[John Lewis Gaddis]]"
@@ -147,7 +146,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Technological Republic
@@ -305,7 +304,7 @@ updated: 2026-10-14
 ### 命题五　破除胜者谬误与道德空想：技术共和国的国际博弈筹码必须建立在软件硬实力之上
 
 > [!concept-lens] [[Strategic Bargaining Theory|战略博弈论]]与 1939 年科学家结盟传统
-> 探讨后冷战西方自满情绪的破除路径，重申施加实质伤害的能力是外交谈判的基石，呼吁汲取二战前夕爱因斯坦致信[[Nikolas Rose|罗斯]]福的历史传统。
+> 探讨后冷战西方自满情绪的破除路径，重申施加实质伤害的能力是外交谈判的基石，呼吁汲取二战前夕爱因斯坦致信罗斯福的历史传统。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|Karp & Zamiska (2025, Ch. 3)]]
 > **外交谈判筹码建立在软件[[Hard Power|硬实力]]之上** 卡普与扎米斯卡批判了[[Francis Fukuyama|弗朗西斯·福山]][[End of History Thesis|历史终结论]]所引发的[[Winner's Fallacy|胜者谬误]]，指出民主社会绝不能仅依赖道义号召力，必须拥有以算法与代码为核心的硬实力。依据博弈论学者[[Thomas Schelling|托马斯·谢林]]（Thomas Schelling）的战略现实主义，施加伤害的能力构成了外交谈判的核心筹码。面对地缘对手在人脸识别监控与[[Autonomous Drone Swarms|自主微型无人机蜂群]]上的实战突破，西方科技精英必须走出以抵制防务合作（如[[Project Maven|梅文项目]]抗议）为代表的道德洁癖，复兴 1939 年[[Einstein-Szilard Letter|爱因斯坦-西拉德信函]]促成顶尖科学家与国家行政当局常态化结盟的传统。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 29–36)]]

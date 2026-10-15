@@ -5,7 +5,7 @@ aliases:
 summary: "指将自由市场机制与经济效率上升为解释并裁决人类一切社会生活、制度安排与道德伦理的最高自明法则；在跨国教育政策中，将教育公平窄化为形式上的学校准入，将性别平权简化为盘活女性劳动力的减贫工具，将社会资本残余化为社会维稳手段，抽空了实质社会正义的批判内核。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 28
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -42,7 +42,6 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
-  - "[[Nikolas Rose]]"
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
 related_facts:
@@ -53,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Economic Fundamentalism
@@ -63,7 +62,7 @@ updated: 2026-10-14
 ## 定义
 
 > [!def] 核心定义
-> **经济基要主义（Economic Fundamentalism）**由金融家兼社会思想家乔治·索[[Nikolas Rose|罗斯]]（George Soros, 1998）提出，指一种将未受约束的自由市场机制与经济效率最大化教条上升为裁决人类一切制度安排、公共政策与伦理道德的最高自明法则的意识形态倾向。在跨国教育政策分析中，[[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard, 2009）将其识别为[[OECD|经合组织]]（OECD）[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]的核心[[Epistemology|认识论]]棱镜：该组织虽然仍频繁使用诸如“公平”、“包容”与“社会资本”等伦理词汇，但已彻底将其置于经济基要主义框架下重构——平等被降格为形式上的学校准入，性别平权被简化为盘活女性劳动力的减贫手段，社会资本则被残余化为维护生产秩序的维稳工具，从而彻底剥离了传统社会民主主义所追求的实质正义与民主反思内核。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 448–450)]]
+> **经济基要主义（Economic Fundamentalism）**由金融家兼社会思想家乔治·索罗斯（George Soros, 1998）提出，指一种将未受约束的自由市场机制与经济效率最大化教条上升为裁决人类一切制度安排、公共政策与伦理道德的最高自明法则的意识形态倾向。在跨国教育政策分析中，[[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard, 2009）将其识别为[[OECD|经合组织]]（OECD）[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]的核心[[Epistemology|认识论]]棱镜：该组织虽然仍频繁使用诸如“公平”、“包容”与“社会资本”等伦理词汇，但已彻底将其置于经济基要主义框架下重构——平等被降格为形式上的学校准入，性别平权被简化为盘活女性劳动力的减贫手段，社会资本则被残余化为维护生产秩序的维稳工具，从而彻底剥离了传统社会民主主义所追求的实质正义与民主反思内核。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 448–450)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向将一切社会伦理与[[Public Value|公共价值]]强制折算为市场效率与[[Human Capital Theory|人力资本]][[Return on Investment|投资回报]]的教条化思维。
@@ -123,7 +122,7 @@ updated: 2026-10-14
 > 本类命题揭示经济基要主义如何通过对传统伦理术语进行语义置换，使原本旨在限制市场侵蚀的道德概念蜕变为服务于资本增殖的技术工具。
 
 > [!claim] Soros, G.
-> **市场教条对道德规范的侵蚀** 乔治·索[[Nikolas Rose|罗斯]]（George Soros, 1998）深刻批判全球资本主义体系中的市场基要主义倾向，指出其将价格机制与竞争效率扩展为裁决全部社会生活的主导准则，误以为不受约束的市场能够自发实现社会最优，从而在系统层面侵蚀了民主社会的公共道德根基。
+> **市场教条对道德规范的侵蚀** 乔治·索罗斯（George Soros, 1998）深刻批判全球资本主义体系中的市场基要主义倾向，指出其将价格机制与竞争效率扩展为裁决全部社会生活的主导准则，误以为不受约束的市场能够自发实现社会最优，从而在系统层面侵蚀了民主社会的公共道德根基。
 
 > [!claim] [[Fazal Rizvi|Rizvi, F.]] & [[Bob Lingard|Lingard, B.]]
 > **伦理词汇的功利化[[Recontextualization|再脉络化]]** 法扎尔·里兹维（Fazal Rizvi）与鲍勃·林加德（Bob Lingard, 2009）指出，以[[OECD|经合组织]]为代表的国际组织并未公然抛弃平等、融合等社会理念，而是通过精巧的语义重构，将这些概念纳入[[Knowledge-Based Economy|知识经济]]的自洽逻辑中；平等被改写为“最大化挖掘潜在[[Human Capital Theory|人力资本]]”，社会包容被重新定义为“确保每个人都具备适应市场的弹性技能”，这种技术化包装使激进的社会抗争[[Discourse|话语]]彻底失去了对经济制度本身的批判锋芒。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 448–449)]]
@@ -184,7 +183,7 @@ updated: 2026-10-14
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1998 — 批判性经济学提出** 乔治·索[[Nikolas Rose|罗斯]]在《全球资本主义危机》（*The Crisis of Global Capitalism*）中首次系统阐发“市场基要主义/经济基要主义”，警示金融市场的无约束扩张将毁灭社会自身的道德机理。
+> - **1998 — 批判性经济学提出** 乔治·索罗斯在《全球资本主义危机》（*The Crisis of Global Capitalism*）中首次系统阐发“市场基要主义/经济基要主义”，警示金融市场的无约束扩张将毁灭社会自身的道德机理。
 > - **2000s — 进入比较教育与批判政策研究** 里兹维、林加德等学者将该概念引入跨国教育政策分析，深度剖析[[OECD|经合组织]]如何将平等、性别与社会资本等议题置于该基要主义框架下进行工具化收编。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 448–450)]]
 > - **2010s 至今 — 全球教育治理与社会正义反思** 该概念广泛运用于批判[[World Bank|世界银行]]与经合组织的量化发展[[Paradigm|范式]]，成为论证恢复教育公共物品属性与多元民主使命的关键理论武器。
 

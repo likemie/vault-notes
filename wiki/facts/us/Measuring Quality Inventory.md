@@ -4,7 +4,6 @@ aliases:
   - 高等教育质量测量工具清单
   - 测量质量清单
   - 高等教育质量评测工具库
-  - MQI
   - NILOA Inventory
 summary: "由美国机构研究协会（AIR）、美国教育委员会（ACE）与全美学习成果评估研究所（NILOA）联合编制的高等教育质量评价工具总库，收录250余种测评工具、软件平台与问卷，系统揭示了高教评价工具中创造力测量资源的极端匮乏。"
 type: fact
@@ -16,7 +15,7 @@ fact_related_count: 18
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
-issuing_organization: "AIR, ACE, NILOA"
+issuing_organization: AIR, ACE, NILOA
 tags:
   - theme/assessment-methods
   - theme/quality-assurance
@@ -50,7 +49,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-28
-updated: 2026-09-17
+updated: 2026-10-15
 ---
 
 # Measuring Quality Inventory

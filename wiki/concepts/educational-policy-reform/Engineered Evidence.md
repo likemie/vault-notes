@@ -41,6 +41,7 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Action Research]]"
+  - "[[Classroom Observation]]"
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Investing in Innovation Program]]"
@@ -158,5 +159,5 @@ updated: 2026-09-18
 
 > [!evidence-grid] 证据工程化与[[Knowledge Mobilisation\|知识动员]]代表性研究
 > - **[[Argument_Gorard_2020_ROE\|Gorard et al. (2020)]]** [[Systematic Review\|系统综述]]了 335 万篇[[Document\|文献]]并甄选出 33 项因果实证评估，正式提出证据工程化作为突破被动分发与弱互动失效局限的根本出路。
-> - **Doabler et al. (2014)** 通过 379 次现场课堂教学观察，证实工程化核心数学预制教案可有效消除底层审计负担并显著提升课堂有效实践频次。
+> - **Doabler et al. (2014)** 通过 379 次现场[[Classroom Observation|课堂教学观察]]，证实工程化核心数学预制教案可有效消除底层审计负担并显著提升课堂有效实践频次。
 > - **Kansagra & Farley (2012)** 从公共卫生政策视角对比个体依从治疗与群体级工程化措施，为教育治理层面的法定工程化提供了理论与经验借镜。

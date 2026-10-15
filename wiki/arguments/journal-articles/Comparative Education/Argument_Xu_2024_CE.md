@@ -42,6 +42,7 @@ related_methods:
   - "[[Grounded Theory]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Triangulation]]"
+  - "[[Classroom Observation]]"
 related_persons:
   - "[[Qian Mu]]"
   - "[[Hsu Cho-Yun]]"
@@ -307,7 +308,7 @@ citation_aliases:
 >
 > 1. **学科覆盖限制** 研究仅聚焦于初中中国历史教科书，未涵盖语文、公民教育等其他同样参与国家构建的学科。
 > 2. **数据截面时效性** 分析基于 2010 年代末至 2020 年在使用的教材快照（大陆 2016–2017 版，香港 2014 版），未直接评估 2020 年《国安法》实施后香港最新版教材的全面转变。
-> 3. **意图课程与实施课程的隔阂** 仅分析了官方与出版社文本表达的意图课程（intended curriculum），未深入课堂观察教师与学生在实际教学中如何重新解释或评估这些官方叙事。
+> 3. **意图课程与实施课程的隔阂** 仅分析了官方与出版社文本表达的意图课程（intended curriculum），未深入[[Classroom Observation|课堂观察]]教师与学生在实际教学中如何重新解释或评估这些官方叙事。
 
 ---
 

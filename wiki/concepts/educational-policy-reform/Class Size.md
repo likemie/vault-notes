@@ -3,63 +3,74 @@ title: Class Size
 aliases:
   - 班级规模
   - 班额
-summary: "班级学生人数这一教育组织变量，其影响不仅取决于人数变化本身，还取决于教师质量、课堂资源和教学方式是否随之调整。"
+summary: "班级学生人数这一关键教育组织变量，其对教学互动与学业成果的影响不仅取决于人数变化本身，更取决于教师质量、物质资源、教学方式调整以及跨情境测量精度的系统约束。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 47
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 26
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
-- class-size
-- subject/curriculum
-- level/k12
+  - class-size
+  - subject/curriculum
+  - level/k12
+  - theme/assessment
+  - method/research-methods
 related_concepts:
   - "[[Variable]]"
-  - "[[Critique of Meta-analysis]]"
-  - "[[Lesson Study]]"
+  - "[[Heterogeneity]]"
+  - "[[Return on Investment]]"
+  - "[[Business as Usual]]"
   - "[[Classroom Management]]"
   - "[[Programme Fidelity vs Adaptation]]"
-  - "[[Local Knowledge in Evidence-Based Policy]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Dependent Variable]]"
-  - "[[Interaction Effect]]"
-  - "[[Hypothesis]]"
-  - "[[Emergence]]"
   - "[[Academic Achievement]]"
+  - "[[Interaction Effect]]"
+  - "[[Feedback]]"
+  - "[[Necessary and Sufficient Conditions]]"
   - "[[Research Utilization]]"
   - "[[Unit of Analysis]]"
-  - "[[Heterogeneity]]"
-  - "[[Visible Learning]]"
+  - "[[Innovation Hub]]"
+  - "[[Public Value]]"
   - "[[Material Fallacies]]"
-  - "[[School Leadership]]"
+  - "[[Dependent Variable]]"
+  - "[[Individualised Instruction]]"
+  - "[[Effective Teaching]]"
+  - "[[Going Native]]"
+  - "[[Document]]"
   - "[[Paradigm]]"
-  - "[[Evaluation Research]]"
 related_theories: []
 related_methods:
-  - "[[Effect Size]]"
+  - "[[Classroom Observation]]"
+  - "[[Observation Protocol]]"
+  - "[[Process Tracing]]"
   - "[[Meta-analysis]]"
-  - "[[Randomised Controlled Trials]]"
-  - "[[Pre-test and Post-test]]"
+  - "[[Effect Size]]"
+  - "[[Cohort Study]]"
+  - "[[Statistical Significance]]"
   - "[[Random Assignment]]"
-  - "[[Sample Size Determination]]"
   - "[[Ethnography]]"
-  - "[[Cost-Benefit Analysis]]"
+  - "[[Correlational Research]]"
+  - "[[Randomised Controlled Trials]]"
+related_instruments:
+  - "[[Teach Classroom Observation Tool]]"
 related_persons:
-  - "[[Kathryn Anderson-Levitt]]"
+  - "[[John Hattie]]"
   - "[[José Luis García Garrido]]"
+  - "[[Kathryn Anderson-Levitt]]"
 related_facts:
+  - "[[World Bank]]"
   - "[[French Class Size Reduction]]"
-  - "[[Campbell Collaboration]]"
-  - "[[California Class Size Reduction 1996]]"
   - "[[Treasury Briefing on Student-Teacher Ratios]]"
   - "[[OECD]]"
-  - "[[Tennessee STAR Project 1985-1989]]"
   - "[[UNESCO]]"
+  - "[[Tennessee STAR Project 1985-1989]]"
+  - "[[California Class Size Reduction 1996]]"
 related_arguments:
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_ONeill_2012_NZJES]]"
   - "[[Argument_Wiliam_2019_ERE]]"
+  - "[[Argument_WorldBank_2019_Teach]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
   - "[[Argument_Pellegrini_2021_ECNUROE]]"
@@ -67,231 +78,278 @@ related_arguments:
   - "[[Argument_Hattie_2010_NZJES]]"
   - "[[Argument_Johnson_2023_CE]]"
   - "[[Argument_Cowen_2015_CHESS]]"
-confidence: medium
-status: draft
+confidence: high
+status: completed
 created: '2026-05-03'
-updated: 2026-10-11
+updated: 2026-10-15
+---
+
+# Class Size
+
 ---
 
 ## 定义
 
+班级规模是教育资源配置、微观课堂生态与宏观教育投资政策的核心交叉[[Variable|变量]]。
+
 > [!def] 核心定义
-> 班级规模（Class Size）指一个班级组中的学生人数。它看似是简单的组织[[Variable\|变量]]，实际却同时牵涉教学互动、教师劳动、资源配置、政策成本和证据外推。小班是否"有效"，不能只问人数减少了多少，还要问教师是否改变教学方式、是否有足够合格教师、学生群体是否相似、成果指标是什么（[[Argument_Snook_2009_NZJES\|Snook et al., 2009, pp.100-102]]; [[Argument_ONeill_2012_NZJES\|O'Neill, 2012, pp.155, 157-158]]; [[Argument_Wiliam_2019_ERE\|Wiliam, 2019, pp.6-7]]）。
+> 班级规模（Class Size），又称班额，指单一教学组织单元或班级组内所容纳的学生实际人数。它看似是简单的组织[[Variable|变量]]，实际却同时牵涉教学互动质量、教师劳动负荷、学校资源配置、财政政策成本与实证证据的外推有效性。小班是否“有效”，不仅取决于学生人数缩减的绝对幅度，更取决于教师是否随之实质改变教学方式、合格师资与校舍供给是否充分、学生[[Heterogeneity|异质性]]构成以及所选取的学业与社会情感评价指标。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 100–102)]]; [[Argument_ONeill_2012_NZJES|(O'Neill, 2012, pp. 155, 157–158)]]; [[Argument_Wiliam_2019_ERE|(Wiliam, 2019, pp. 6–7)]]; [[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 12, 16–17)]]
+
+从宏观资源投入与微观教学过程的双重视野审视，班级规模承载着多维功能定位。
 
 > [!concept-lens] 概念透镜
-> - **含义** 班级规模既是组织变量（资源配置决策），也是教学变量（影响师生互动质量）。
-> - **用途** 为教育政策的资源分配决策提供证据基础——是否需要缩小班级、缩小到什么程度、以什么成本。
-> - **边界** "小班"和"大班"的操作定义差异很大（小班可能指 5–20 人，大班可能指 25–80 人），使跨研究比较困难。STAR 项目中 22–25 人被定义为"大班"，但在许多学校系统中这已接近理想班额（[[Argument_Snook_2009_NZJES\|Snook et al., 2009, p.100]]）。
+> - **含义** 班级规模既是宏观资源配置决策的组织参数，也是直接型塑师生言语互动频次与任务在轨率的微观生态变量。
+> - **用途** 为教育财政预算与基础设施规划提供依据，衡量降低班额与提升教师专业效能之间的边际[[Return on Investment|投资回报率]]。
+> - **边界** “小班”与“大班”的操作界定高度依赖特定教育体制。田纳西州 STAR 项目将 22–25 人界定为“大班”，而在全球南方及中低收入国家，常态班额往往高达 50–100 人，发达国家的边际缩减经验在此类极端拥挤环境中面临严峻的外推边界。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 100)]]; [[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, p. 16)]]
+
+在实证测量与政策辩论中，准确厘清班级规模的测量口径与概念边界至关重要。
 
 > [!boundary]- 概念边界
-> - **不等于师生比** 师生比是全校统计，不能反映学生真实坐在多大的班里；平均出勤和实际授课人数更接近日常课堂（[[Argument_Snook_2009_NZJES|Snook et al., 2009, p.100]]）。
-> - **不等于教学方式** 班级人数减少不自动改善教学——如果教师不改变教学方式，效果会被稀释。
-> - **不独立于教师质量与物质资源** 班级规模效应的估计受教师分配、教师质量以及基础教材供给等物质条件的系统性制约。见 [[Effect Size]]、[[Critique of Meta-analysis]]。
+> - **区别于生师比（Student-Teacher Ratio）** 生师比是学校或宏观系统层面的统计均值，受行政人员、教辅人员和资源教室编制稀释，无法反映学生在具体课堂中面对的真实人数。
+> - **区别于自发教学改进** 班级人数减少不会自动引发教学法升级；若教师依然沿袭大班的全班灌输讲授，缩班的潜在红利将被严重稀释。
+> - **依赖教师质量与教学物质基底** 班级规模的实际效应受制于合格师资储备、教材配备及教室空间等刚性条件。在师资匮乏或教材不足的情境下，单纯削减班额往往无法带来预期收益。
 
 ---
 
 ## 概念辨析
 
-> [!contrast-table] 与相关概念的区别
-> - **vs 师生比（Student-Teacher Ratio）** 师生比是全校层面的统计指标，受行政岗位和特殊教师配置影响，不等于学生实际经历的课堂人数。班级规模更接近教学互动条件（[[Argument_Snook_2009_NZJES|Snook et al., 2009, p.100]]）。
-> - **vs 学校规模（School Size）** 学校规模是学校层面的[[Variable|变量]]，影响课程多样性和管理结构；班级规模是课堂层面的变量，直接影响师生互动。
-> - **vs [[Effect Size|效应量]]** 班级规模是[[Variable|变量]]本身，效应量是用于量化其影响大小的标准化指标。班级规模效应的估计受测量方式、研究设计和教学改变等因素的系统性影响。
+通过横向对比生师比、学校规模与微观群组规模，可以明确班级规模在组织层级与互动机制上的特质。
+
+> [!contrast-table] 班级规模与相关概念的多维辨析
+> | 维度 | 班级规模（Class Size） | 生师比（Student-Teacher Ratio） | 学校规模（School Size） | 课堂群组规模（Instructional Group Size） |
+> |---|---|---|---|---|
+> | **组织层级** | 班级与课堂行政编制层级 | 学校或国家宏观统计层级 | 整个学校实体层级 | 课堂内部微观活动层级 |
+> | **核心表征** | 一间物理教室内同时授课的学生总数 | 全校学生总数与全部教职员总数之比 | 全校在读注册学生总人数 | 同一教学任务中协同互动的小组人数 |
+> | **机制关联** | 直接制约师生互动频率与纪律管理负荷 | 衡量系统财政与人力资源配置充裕度 | 影响课程多样化、社团规模与行政科层 | 决定低成就学生的同伴互动与个别化反馈 |
+> | **典型局限** | 受出勤波动与走班流动影响 | 掩盖不同学段与学科间的真实班额失衡 | 与学生课堂参与及注意力无直接对应 | 依赖教师的分组设计与差异化教学素养 |
 
 ---
 
 ## 核心要素
 
-> [!feature] 班级规模争论的三个核心问题
-> - **测量方式** 如何测量人数——师生比、平均出勤还是实际授课人数
-> - **课堂过程** 人数如何改变课堂互动、教师行为和学生学习
-> - **证据外推** 研究证据能否支持大规模政策推广，试验条件与推广条件的差异何在
+班级规模争论涉及测量方式、课堂微观过程与物质基础设施的深层交织。
 
-### 测量方式
+> [!feature] 班级规模争论的三大核心基柱
+> - **测量方式与口径精细度** 评估班级人数是基于宏观注册名册、平均日常出勤，还是[[Classroom Observation|课堂观察]]当天的实际分性别在场人数。
+> - **微观课堂教与学生态** 人数变化如何重塑教师注意力分配、个别化指导、任务在轨率及课堂纪律压力。
+> - **证据外推与物质约束边界** 实验室或局部优质实验（如 STAR 项目）结论在师资紧缺或极端大班额（60–100人）环境中的有效性限度。
 
-班级规模可以用不同指标测量。师生比是全校统计，不能直接反映学生真实坐在多大的班里；平均出勤更接近日常课堂；教学和测试当天的实际授课人数最理想，但研究中较少采用([[Argument_Snook_2009_NZJES|Snook et al., 2009, p.100]])。
+### 测量方式与微观观察记录
 
-> [!exegesis] 测量口径为何会改变结论
-> - 师生比把全校教师和学生相除，可能受行政岗位、特殊支持教师、抽离式教学等因素影响，不等于普通课堂中的实际班额。
-> - 平均出勤比注册人数更接近学生实际经历，但仍不能告诉我们某节课当天真正有多少学生。
-> - 实际授课人数最能反映课堂互动条件，但数据收集成本较高，因此不常出现在大规模研究中（[[Argument_Snook_2009_NZJES|Snook et al., 2009, p.100]]）。
+班级规模可以用不同口径测量。全校生师比受非任课行政编制稀释，无法反映[[Business as Usual|常态教学]]情境；注册人数常因旷课和早退而失真；而微观[[Observation Protocol|课堂观察规程]]则推动了班级规模测量的进一步精细化。
 
-### 课堂过程
+> [!exegesis] 测量口径的偏差机制与 Teach 微观记录规范
+> - **宏观生师比偏差** 生师比将全校教师与学生简单相除，抽离了特殊教育、补救辅导和行政兼职对普通班额的掩盖效应。
+> - **平均出勤与注册名额差距** 发展中国家存在严重的隐性辍学与季节性缺勤，注册名单往往虚高 20%–40%。
+> - **分时段分性别实测记录（Teach 规程）** 在[[Teach Classroom Observation Tool|世界银行课堂观察工具]] Teach（[[Argument_WorldBank_2019_Teach|World Bank Group, 2019, pp. 16–17]]）中，观察员必须在每个 15 分钟片段前现场清点并分性别记录实际在席人数（`CLASS SIZE: girls ___ boys ___`），使班级规模从静态行政指标转化为直接与时间利用快照绑定的动态生态[[Variable|变量]]。
 
-班级规模不是单纯的"工作条件"，而是教与学的条件。Blatchford 及其同事在英国进行的大规模自然主义[[Lesson Study|课堂研究]]显示，班级规模会改变课堂互动结构：大班会产生更多小组和更大的组内人数，增加管理压力，降低学生注意力；小班中教师更可能与个别学生互动，学生更可能主动参与，低成就学生尤其可能受益([[Argument_ONeill_2012_NZJES|O'Neill, 2012, pp.155, 157-158]])。
+### 课堂微观过程与师生互动
 
-> [!finding-cards] Blatchford 研究揭示的课堂过程
-> 1. **对课堂整体互动框架的影响** 大班产生更多小组和更多组内学生人数，对教学、学习和学生注意力产生负面影响（[[Argument_ONeill_2012_NZJES|O'Neill, 2012, p.157]]）。
-> 2. **对教师的影响** 小班中教师更有可能花时间与个别学生相处；大班中教师面临更多[[Classroom Management|课堂管理]]和控制压力，需要补偿性努力，并承受更大压力（[[Argument_ONeill_2012_NZJES|O'Neill, 2012, pp.157–158]]）。
-> 3. **对学生的影响** 小班中学生更可能积极参与学习、较少出现干扰行为；大班中学生更可能被动听教师讲课（[[Argument_ONeill_2012_NZJES|O'Neill, 2012, p.158]]）。
-> 4. **对低成就学生的意义** 小班对所有学生都有教师注意力方面的可证明益处，但在小学低年级和中学低年级尤其重要，对低成就学生尤为关键，因为他们在大班中更可能脱离学习。
+班级规模不仅是一项物质工作条件，更是决定微观课堂互动的生态变量。布拉奇福德（Blatchford）及其团队在英国开展的大规模课堂[[Process Tracing|过程追踪]]表明，班级规模系统性重构了课堂空间与人际互动网络。
 
-### 教学方式与物质约束
+> [!finding-cards] Blatchford 课堂过程研究的核心发现
+> 1. **对课堂群组结构的影响** 大班被迫形成更多小组和更大的组内人数，加剧分组协调成本并分散学生注意力（[[Argument_ONeill_2012_NZJES|O'Neill, 2012, p. 157]]）。
+> 2. **对教师精力分配的影响** 小班中教师花在个别学生身上的辅导时间显著增加；大班中教师面临沉重的[[Classroom Management|课堂管理]]压力，不得不耗费大量认知资源维持纪律（[[Argument_ONeill_2012_NZJES|O'Neill, 2012, pp. 157–158]]）。
+> 3. **对学生参与模式的影响** 小班学生表现出更高密度的自主提问与任务在轨率；大班学生更易沦为被动的听众或边缘观察者（[[Argument_ONeill_2012_NZJES|O'Neill, 2012, p. 158]]）。
+> 4. **对低成就学生的阶梯效应** 小班对所有儿童均有益处，但对小学低年级弱势与学业困难学生最关键，因为其在大班中具有极高的边缘化与隐性脱节风险。
 
-班级规模不是独立起效的[[Variable|变量]]——其效果取决于教师是否因人数变化而调整教学方式。在发达国家，缩减班额的政策效果与 [[Programme Fidelity vs Adaptation]] 和 [[Local Knowledge in Evidence-Based Policy]] 直接相连。而在全球南方与外围国家，班级规模更直接作为刚性的“物质约束基础设施”存在：当教室面临极度庞大的班额与基础教材短缺时，国际机构倡导的以儿童为中心或探究性教学法往往难以直接落地，迫使教师依赖全班齐读与高密度纪律[[Disciplina and Doctrina|规训]]（Anderson-Levitt, 2003, 2004; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 108–109]]）。具体证据详见 [[#命题三　班级规模效应依赖于教学方式的同步改变，仅缩减人数不足以保证效果|命题三]]。
+### 教学方式与物质约束基础设施
+
+班级规模绝非独立起效的孤立变量，其最终教育效果取决于教师是否因班额变化而调适教学策略。
+
+在发达国家，缩减班额的效果与课程保真度（[[Programme Fidelity vs Adaptation]]）及在地智慧紧密相关。而在全球南方与外围国家，班级规模直接作为刚性的“物质约束基础设施”存在：当教室面临 60–100 人的极端大班额且教材极度匮乏时，外部倡导的探究式或儿童中心教学法根本无从落地，迫使教师依赖全班齐读与高密度纪律[[Disciplina and Doctrina|规训]]（Anderson-Levitt, 2003, 2004; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 108–109]]）。
 
 ---
 
 ## 概念演变
 
-> [!dev-timeline] 班级规模研究的演进
-> - **1978 — Glass & Smith 的开拓性[[Meta-analysis|元分析]]** 收集 77 项研究、725 项比较、近 90 万学生数据，首次用回归分析揭示班级规模与成就的负相关；发现控制质量是关键调节[[Variable|变量]]——且控制不充分的研究反而**低估**了班级规模效应，这一发现颠覆了方法粗糙必然夸大效果的直觉（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al., 2011, Ch17, pp.357–360]]）。
-> - **1985–1989 — STAR 随机试验** 田纳西州大型随机试验，小班 13–17 人 与 22–26 人的大班进行比较，为班级规模效应提供了最严格实验证据。
-> - **1996 — 加州全州推广** 试图将 STAR 证据全州推广，因合格教师和教室不足导致效果稀释，成为 [[Randomised Controlled Trials|RCT]] 外推争论的关键反例。
-> - **2003–2004 — 比较教育与全球南方视角** [[Kathryn Anderson-Levitt|凯瑟琳·安德森-莱维特]]（Kathryn M. Anderson-Levitt, 2003, 2004; 引自 [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 108–109]]）跨国比较几内亚、法国与美国课堂，指出几内亚的大班额与教材匮乏构成了吸收全球通用教学规范的物质屏障，确立了班级规模作为宏观制度与微观实践交互约束的“双重视野”（Double Vision）。
-> - **2000s–至今 — 证据分化与政策争议** 班级规模证据呈现年龄、学科、社会经济背景的分化模式，政策讨论从"是否有效"转向"对谁有效、以什么成本、在什么条件下"。
+班级规模的实证研究走过了从单一[[Meta-analysis|元分析]]汇总、大规模随机试验到微观教学实践交互与全球南方反思的演进脉络。
+
+> [!dev-timeline] 班级规模研究的演进历程
+> - **1978 年 — Glass & Smith 开拓性元分析** 汇总 77 项研究、725 项比较及近 90 万学生数据，首次通过回归拟合出班级规模与[[Academic Achievement|学业成就]]的负相关曲线；并首次发现实验控制良好的研究其负向斜率更陡，颠覆了粗糙研究必然高估效应的直觉。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch. 17, pp. 357–360)]]
+> - **1985–1989 年 — 田纳西州 STAR 随机试验** 针对小班（13–17 人）与常规模范大班（22–26 人）进行跨年级追踪，确立了高质量小班在低年级与少数族裔学生中的显著优势（$d \approx 0.60$），奠定小班实验黄金标杆。
+> - **1996 年 — 加利福尼亚州全州推广反思** 加州仓促推行全州缩班，遭遇合格师资严重短缺与教室空间不足，导致代课教师骤增与教学质量稀释，成为政策外推忽视系统支持条件的关键警示案例。
+> - **2003–2004 年 — 全球南方极端班额与物质约束视野** 安德森-莱维特（Anderson-Levitt, 2003, 2004）跨国对比几内亚与欧美课堂，确立大班额与教材匮乏作为吸收外部先进教学法物质屏障的“双重视野”（Double Vision）。
+> - **2018–2019 年 — 教师效能函数中的班额控制与微观测量突破** [[World Bank|世界银行]]发布 Teach 工具（[[Argument_WorldBank_2019_Teach|World Bank Group, 2019]]；Molina et al., 2018），在跨国大样本计量模型中将班级规模作为关键控制协[[Variable|变量]]，证实即便在控制班级规模后，微观教学实践仍显著贡献 0.08–0.12 SD 的学业增益；同时揭示 60–100 人超大班额对低推论快照测量的代表性挑战。
 
 ---
 
-## 实证数据
+## 围绕概念形成的命题
 
-> [!evidence-grid] 证据格局总览
-> 班级规模证据并不是"一边倒无效"或"一边倒有效"。平均效应常被报告为较小，但高质量实验、低年级和弱势学生、伴随教学改变的政策组合可能显示更强效果；大规模推广若缺少合格教师和教室，可能反而削弱效果（[[Argument_Snook_2009_NZJES|Snook et al., 2009, pp.100-102]]; [[Argument_Wiliam_2019_ERE|Wiliam, 2019, pp.6-7]]; [[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet, 2021, pp.27-28]]）。
+### 命题一　班级规模与学业成就存在稳定的负相关，但控制质量是关键调节变量
 
-### 成就效果
+实证研究的严谨程度直接决定了班级规模效应曲线的形态与斜率。
 
-> [!finding-cards] 成就效果概览
-> Hattie 综合[[Meta-analysis|元分析]]得出的班级规模[[Effect Size|效应量]]约为 0.2，并将其归为较小效应。Snook 等人则指出，这个平均值容易遮蔽高质量研究中的较大效果。伦敦班级规模研究覆盖 199 所学校、330 个班级、7,142 名学生，发现 Reception 年在读写和算术上有明显班级规模效应，尤其对低能力儿童更重要，但效果在 Year 1 之后不再明显（[[Argument_Snook_2009_NZJES|Snook et al., 2009, pp.100-101]]）。这说明班级规模可能具有年龄段和学生群体差异。
-
-> [!effect-table]- 班级规模效应的一级研究结果
-> <span class="concept-effect-table-marker" aria-hidden="true"></span>
->
-> | 研究 | 比较或干预 | [[Dependent Variable\|结果变量]] | 分析样本 | 组别统计 | 效应量 | 显著性或不确定性 | 设计与解释边界 |
-> |---|---|---|---|---|---|---|---|
-> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 小班 13–17 人 与 22–25 人的大班进行比较（STAR 项目） | 标准化测试成绩 | — | — | $d = 0.62$–$0.66$ | — | 随机实验设计，两年[[Pre-test and Post-test\|后测]]量；学校代表性、[[Random Assignment\|随机分配]]和教师质量影响外推 |
-> | 同上 | Smith & Glass 班级规模元分析 | 阅读 | — | — | $d = 0.30$ | — | 采用更严格纳入标准后的估计 |
-> | 同上 | Smith & Glass 班级规模元分析 | 数学 | — | — | $d = 0.32$ | — | 同上 |
-> | 同上 | 伦敦班级规模研究 | 读写与算术 | 199 校 / 330 班 / 7,142 生 | Reception 年有明显效果 | — | Year 1 后效果不再明显 | 自然主义设计；效果集中在低年级和低能力儿童 |
-
----
-### 命题一　班级规模与成就之间存在稳定的负相关，但控制质量是关键调节变量
-
-> [!concept-lens] 证据聚合与[[Interaction Effect\|调节效应]]
-> 班级规模效应不是单一数值，而是随研究质量和情境条件系统性地变化。大规模元分析聚合显示负相关稳健存在，但控制质量决定效应估计的大小。
+> [!concept-lens] 证据聚合与[[Interaction Effect|调节效应]]
+> 探讨方法学质量如何系统性重塑[[Variable|变量]]关联，解释为何控制不佳的研究往往低估而非高估班级规模的实质价值。
 
 > [!claim] Glass & Smith (1978)
-> 该研究收集了 **77 项**研究、**725 项**比较、近 **900,000 名**各年龄段和能力的学生数据，覆盖各学科。使用回归分析，725 项比较被整合为一条显示班级规模与成就关系的**单一曲线**，揭示了明确的**负相关**（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Cohen et al., 2011, Ch17, p.357]]）。
->
-> 研究者随后在不同情境下推导类似曲线——年级水平、学科类型、学生能力等。结果发现，**几乎没有任何特殊情境改变了这一基本关系**（p. 358）。
->
-> 只有一个因素显著影响了曲线形态：**原始研究是否进行了充分的实验控制**。控制充分的研究（well-controlled studies）中，班级规模缩小与成就提升的关联曲线**更为陡峭**；控制不充分的研究（poorly controlled studies）中曲线反而**较平坦**。这意味着不充分的控制倾向于**低估**而非高估班级规模效应——与通常[[Hypothesis\|假设]]的"混杂[[Variable\|变量]]会夸大效应"相反，这一发现颠覆了控制不佳的研究必然高估效应的直觉（pp. 358–360）。Glass et al. 据此按控制质量分层呈现效应量，而非报告单一平均值。详见 [[Meta-analysis]]。
+> **控制质量决定曲线斜率** 格拉斯与史密斯整合 77 项研究与 725 项比较，构建了一条揭示班级规模与[[Academic Achievement|学业成就]]负相关的连续回归曲线。分析显示年级、学科与学生能力的亚组差异均未动摇这一基本形态，唯独**实验控制质量**构成了决定性调节变量：在实验控制充分的研究中，曲线呈现显著陡峭的上升趋势；而在控制不充分的研究中，曲线趋向平缓。这意味着缺乏严格控制的研究系统性低估了小班的真实效果，为分层呈现[[Meta-analysis|元分析]]证据提供了经典范例。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch. 17, pp. 357–360)]]
 
-> [!example]- 图17.1：班级规模与学习成就——控制良好与控制不佳研究的回归线
+在经典元分析中，控制质量导致的两条分离曲线提供了关键视觉证据。
+
+> [!example]- 图 17.1：班级规模与学习成就——控制良好与控制不佳研究的回归线
 > ![](https://img.mylikemie.icu/books/Cohen_Manion_Morrison_2011_Routledge/figures/Figure_17-1_Class_Size_and_Learning.jpg)
 >
-> *Regression lines for the regression of achievement (expressed in percentile ranks) onto class size for studies that were well-controlled and poorly controlled in the assignment of pupils to classes.*
+> *Regression lines for the regression of achievement onto class size for studies that were well-controlled and poorly controlled in the assignment of pupils to classes.*
 >
-> 横轴为班级规模，纵轴为成就百分位等级。控制充分的回归线更陡峭，表明小班优势更明显；控制不充分的回归线较平坦。两条曲线分离直接说明：方法论质量确实改变结论，单一平均效应量不足以揭示证据结构（pp. 358–360）。
+> 横轴为班级规模，纵轴为成就百分位等级。控制充分的回归线更为陡峭，表明小班优势随方法严谨度上升而强化；控制不充分的回归线平坦，证实单一平均[[Effect Size|效应量]]容易掩盖内部结构差异（pp. 358–360）。
 >
-> Source: Adapted from Glass & Smith, 1978
-
-> [!finding-cards] Glass & Smith (1978) 案例的三重方法论含义
-> 1. **元分析可以发现单一研究无法揭示的稳健模式** 跨 77 项研究、725 项比较和近 90 万学生的一致性——从各年龄段、各学科和各能力水平中[[Emergence\|涌现]]的负相关——说明当[[Sample Size Determination\|样本量]]和分析系统化程度足够时，元分析可以聚合出传统叙事综述无法发现的规律。
-> 2. **方法论质量确实会改变结论，这支持了 Slavin 的批评立场** 控制好坏产生不同回归线。Glass & Smith 自己的元分析证据表明质量差异不能忽视——这直接参与了"垃圾进垃圾出"之争，Slavin（1984a, 1984b）主张不能不加区分地纳入所有研究，Glass 自己在班级规模案例中的分层分析恰恰印证了这一立场。
-> 3. **单一平均效应量不足以说明问题，这支持了 Glass 本人的警告** Glass 作为元分析创始人，本人警告元分析的结果永远不应该是平均值，而应该是一张图。本案例正是这一原则的示范：分控制质量呈现两条曲线比报告单一 $d$ 值揭示了远更丰富的证据结构（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Cohen et al., 2011, Ch17, pp.357–360]]）。
+> 来源：改编自 Glass & Smith, 1978
 
 ---
-### 命题二　班级规模缩减可能是昂贵且相对低效的政策方案，替代策略可能更具成本效益
 
-> [!concept-lens] 成本效益与替代方案
-> 即使班级规模效应真实存在，大规模缩减班额的政策成本极高。需要在同等预算下比较不同干预方案的相对效果。
+### 命题二　单纯缩减班额面临高昂财政成本，其成本效益往往劣于同等预算下的教学干预
 
-> [!claim] [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet (2021)]]
-> [[French Class Size Reduction]] 中法国教育部将弱势地区一、二年级班额从 24 人降至 12 人，Campbell 协作网（[[Campbell Collaboration]]） 元分析显示阅读效应小而显著，数学效应为负且不显著。Pellegrini and Vivanet 的判断是：减少不平等当然必要，但班额缩减可能是昂贵且相对低效的方案；成人辅导等策略在若干元分析中显示出更强的[[Academic Achievement\|学业成就]]证据（[[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, pp.27-28]]）。
+公共教育预算的稀缺性要求在政策组合中横向评估各项干预的相对产出。
+
+> [!concept-lens] 成本效益与政策替代方案
+> 探讨即便小班具有统计显著正效应，在相同财政约束下是否应优先选择其他更具杠杆作用的教学支持策略。
+
+> [!claim] [[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet (2021)]]
+> **缩班政策的高成本与低边际产出** 法国教育部在弱势地区一、二年级推行班额从 24 人减至 12 人的大规模改革（[[French Class Size Reduction]]），Campbell 协作网元分析显示其阅读效应微弱而数学效应未达统计显著。佩莱格里尼与维瓦内特论断：缩减班额属于财政耗费极高而边际产出相对温和的政策，同等预算若投入高针对性成人个别化辅导或教师循证[[Feedback|教学反馈]]，往往能产生更为强劲的学业补偿效果（pp. 27–28）。
 
 ---
-### 命题三　班级规模效应依赖于教学方式的同步改变，仅缩减人数不足以保证效果
 
-> [!concept-lens] 人数与教学方式的交互
-> 班级规模不是独立起效的变量——其效果取决于教师是否因人数变化而调整教学方式。
+### 命题三　班级规模效应依赖于教学方式的同步改变与宏观课程治理的有效匹配
 
-> [!claim] Murnane & Levy（Texas 15 校研究）
-> 对 15 所德州小学的研究显示，13 所学校只是用额外资金缩小班额，五年后无显著变化；2 所学校同时改变教学法、提供健康服务并增加家长参与，成绩才升至城市平均水平。分析边界的变化会彻底改变结论：只看第一年数据会判断"无效"，合并 15 所学校会得到小型负效应，只看 2 所变革学校则会得到很大正效应（[[Argument_Snook_2009_NZJES\|Snook et al., 2009, pp.101–102]]）。
+班级规模是教学行为的赋能容器，而非独立发挥魔力的神奇开关。
 
-> [!warrant]- 德州 15 校研究的解释价值
-> 这项研究的价值不只是"13 所无效、2 所有效"这个结果，而是说明不同分析边界会生成不同政策结论。班额缩减的效果不能脱离教学法、健康服务和家长参与等支持条件来解释（[[Argument_Snook_2009_NZJES\|Snook et al., 2009, pp.101–102]]）。
+> [!concept-lens] 人数变化与教学方式的交互机制
+> 探讨班额缩小后教师若未转变教学法，抑或课程体制本身存在深层失范时，物理缩班为何遭遇效果塌陷。
 
-> [!claim] Hattie (2015); [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]
-> Hattie 重申班级缩减效应小的主要原因是教师很少因班级规模改变而改变教学方式。新西兰 PACE 项目也支持同一判断：小班需要与教师专业发展结合，才能产生小班中才可能的教学方式（[[Argument_Snook_2009_NZJES\|Snook et al., 2009, p.102]]）。高等教育领域尚无专门的班级规模元分析，讲座具有成本效率，其真正值得追问的问题不是人数本身，而是如何通过辅导、互动工具和课程对齐策略改造教学（Hattie, 2015, pp.83–84）。
+> [!claim] Murnane & Levy (1996); Hattie (2015); [[Argument_Snook_2009_NZJES|Snook et al. (2009)]]; [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]]
+> **教学行为调适是激活小班红利的[[Necessary and Sufficient Conditions|必要条件]]** 德克萨斯州 15 所小学[[Cohort Study|追踪研究]]证实：13 所仅单纯缩减人数而未变动教学法的学校五年后学业无变化，唯独 2 所同步革新探究教学、引入健康支持与家长参与的学校达成了显著学业跃升。[[John Hattie|哈蒂]]指出，教师在小班中往往继续采用大班灌输讲授，是导致平均效应量偏小的核心症结。[[José Luis García Garrido|加西亚·加里多]]在西班牙的宏观分析进一步表明，即便公立学校班级规模和生师比全面优于欧盟均值，但在均质不分流课程导致学生大面积厌学与纪律溃退的情境下，优渥的班额指标依然无法对冲体制平庸与 33% 的学业失败率。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 101–102)]]; [[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 331–332)]]
 
-> [!claim] Anderson-Levitt (2003, 2004; 引自 [[Argument_Arnove_2009_WorldSystems\|Arnove, 2009, pp. 108–109]])
-> 比较教育学者的跨国课堂[[Ethnography|民族志研究]]表明，班级规模效应与教学方式改变的交互作用在发展中国家面临更为极端的物质屏障。在几内亚小学阅读教学中，面对极大的班级规模（大班额）与教材严重匮乏，教师根本无法推行西方倡导的“以儿童为中心”个别化辅导或小组探究，而是被迫采取全班齐读与严厉纪律管理。这表明班额对教学方式的制约并非抽象的边际增量问题，而是受制于国家整体的经济依附与物质资源供给。
-> [!claim] [[José Luis García Garrido|何塞·路易斯·加西亚·加里多]]（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 331–332]]）
-> 宏观政策评估表明，小班额与低生师比等优厚投入指标无法独立挽救教育质量。西班牙公立学校在班级规模（每班学生数）、生师比、工作时间与薪酬方面均优于欧洲联盟平均水平，然而其 16 岁义务教育阶段的学业失败率却高达 33%，卓越等级学生不足 4%，教师群体更深陷空前的心理倦怠与早退潮。这表明，当体制固守均一不分流的综合课程大纲并导致学生大面积厌学与课堂纪律失范时，单纯维持较小的班级规模无法对冲结构性课程缺陷与教学组织机能的失效（pp. 331–332）。
+---
+
+### 命题总览
+
+综合微观互动、宏观计量与国际比较研究，班级规模的理论脉络由三项核心命题构成。
+
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 来源 |
+> |---|---|---|---|
+> | **方法控制调节** | 班级规模与学业成就呈稳定负相关，实验控制越充分则小班优势越陡峭 | 大规模元分析设计、测量模型校准 | Glass & Smith (1978); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Cohen et al. (2011)]] |
+> | **成本效益约束** | 单纯缩班财政成本极其昂贵，边际效益常逊色于成人定向辅导与教师辅导方案 | 教育公共财政决策、干预方案横向比选 | [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet (2021)]] |
+> | **教学与体制交互** | 小班红利严格取决于教学方式的实质转变与课程学制的有机配合 | 教师专业发展、课程体系配套改革 | Murnane & Levy (1996); [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; [[Argument_Garcia_Garrido_2009_SpainEU\|García Garrido (2009)]] |
 
 ---
 
 ## 争议与批评
 
+围绕班级规模的[[Research Utilization|证据使用]]，学术界长期存在平均值遮蔽、[[Unit of Analysis|分析单元]]混淆及政策修辞误用的激烈争辩。
+
 > [!warning] 争议总览
-> 班级规模争议的核心不是"是否人数越少越好"，而是不同[[Research Utilization\|证据使用]]者如何定义有效、成本和适用条件。
+> 班级规模政策争议的核心不在于“人数是否越少越好”，而在于证据解读者如何界定有效性阈值、隐性成本与外推适用边界。
 
-### Hattie 立场与批评方立场
+### 哈蒂平均值立场与斯努克批评方立场的交锋
 
-> [!tension] Hattie 的关节点立场 vs Snook 的批评方立场
-> - **Hattie 的立场：平均值视角** 班级规模平均效应约 $d = 0.20$，虽为正但小于 $d = 0.40$ 参照线，相对于高成本不一定值得。Hattie 澄清他并非说缩小班额完全无效——平均效应为正，只是相对于高昂财政成本未必是最优投资。若平均效应约 0.20 而 STAR 显示大正效应，[[Meta-analysis\|元分析]]中必然存在低效或负效应研究，平均值的作用正是调节极端发现（[[Argument_Hattie_2010_NZJES\|Hattie, 2010, p.90]]）。
-> - **Snook 的立场：小效应也有重要公共意义** $d = 0.20$ 本身不应被轻率视为"不重要"。以医学中的阿司匹林为例，小效应也可能有重要公共意义。STAR、Smith & Glass、Blatchford 等高质量研究显示班级规模效果在特定条件下远大于 Hattie 的平均估计，平均效应可能掩盖研究质量和情境差异（[[Argument_Snook_2009_NZJES\|Snook et al., 2009, pp.99-101]]）。
+关于平均[[Effect Size|效应量]]能否作为政策否决依据，学者间立场分化鲜明。
 
-### 分析单元问题
+> [!tension] Hattie 平均值视角 vs Snook 关键情境视角
+> - **[[John Hattie|哈蒂]]的立场：平均值与成本阈值** 班级规模的[[Meta-analysis|元分析]]平均效应量仅约 $d = 0.20$，远低于其设定的 $d = 0.40$“[[Innovation Hub|创新枢纽]]线”（Hinge Point）。相对于雇佣大量新教师和扩建校舍的巨额财政投入，缩班政策并不划算。平均值的功能正是平抑个别极端研究的过热推论。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, p. 90)]]
+> - **斯努克的立场：小效应的公共卫生意义与情境掩盖** 斯努克等人反驳称，$d = 0.20$ 的平均值若应用于全民基础教育体系，其累计效益犹如医学上的小剂量阿司匹林，具有不容忽视的[[Public Value|公共价值]]；更重要的是，将高质量实验（如 STAR $d \approx 0.60$）与劣质研究机械平均，严重掩盖了小班在低年级与处境不利群体中的决定性益处。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 99–101)]]
 
-> [!critique-method] [[Unit of Analysis\|分析单元]]与混淆因素
-> 班级规模本身不能作为充分分析单元，必须结合学生能力、社会背景、班级[[Heterogeneity\|异质性]]、教师能力和资源来理解。许多学生一天中在不同班级和小组之间流动，学校也可能策略性地把小班用于低龄或学业困难学生，因此"班级规模效应"很容易混合其他政策安排。Hattie 本人也承认大班教学可能需要更熟练的教师和更高度结构化的教学，若这些条件没有进入分析，单一班级规模[[Effect Size\|效应量]]就必须被视为有问题（Nielsen & Klitmøller, 2021, pp.4-5）。
+### 分析单元混淆与政策选择性误用
 
-### 元分析与语境扭曲
+在现实课堂运行中，班级规模与排课安排、教师分配深度缠绕，容易滋生测量混淆与政策修辞。
 
-> [!critique-method] 元分析的选择性与语境扭曲
-> Johnson & Janzen 指出 Hattie 在不同文本中使用的班级规模[[Meta-analysis\|元分析]]数量和效应量并不一致：[[Visible Learning]] 仅使用 3 项元分析得出 $d = 0.21$，而早期综合曾使用 14 项元分析并报告 $d = 0.13$，显示效应量受研究选择影响。Hattie 从 Glass & Smith 元分析中提取 $d = 0.09$，该值并非原作者自己的结论。[[California Class Size Reduction 1996]] 可能被用来支持"缩小班额不值得"的一般结论，但加州案例本身受教师与教室供给不足严重影响。班级规模在 Visible Learning 中出现 95 次，远高于排名第一的 self-reported grades，说明 Hattie 对"班额不重要"的论述投入了异常多的篇幅。即使接受成就效应量计算，仍应考察教师和学生在大小班中的经验差异（[[Argument_Johnson_2023_CE\|Johnson & Janzen, 2023, pp.31-33]]）。
+> [!critique-method] 分析单元混淆与元分析语境抽离
+> 许多学校策略性地将学业落后生编入小班，造成观察数据中“小班成绩反而更差”的反向选择假象；约翰逊与简森指出，哈蒂在不同出版物中引用的班级规模元分析数量从 14 项波动至 3 项，且从格拉斯元分析中提取出非原作者认定的 $d = 0.09$，反映出元分析二次引述中的语境漂移现象。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 31–33)]]
 
-### 政策误用
+政府部门在财政紧缩压力下，往往对实证结论进行片面剪裁。
 
-> [!critique-logic] 证据在财政语境中的选择性使用
-> [[Treasury Briefing on Student-Teacher Ratios]] 显示班级规模证据容易在财政紧缩语境中被选择性使用。O'Neill 指出 Treasury 用"教学质量是最大校内影响因素"的说法支持提高生师比，却忽略 Hattie 原文关于增加班级规模是糟糕政策的警告，也忽略新西兰中小学生师比已高于 [[OECD]] 均值。这涉及三类[[Material Fallacies\|实质谬误]]：术语模糊（"教学质量"无清晰定义）、证据局限被忽视（Hattie 综合跨越早教到高等教育，且多次提醒相关不等于因果）、结论无效（建议提高生师比与 Hattie 原文矛盾）（[[Argument_ONeill_2012_NZJES\|O'Neill, 2012, pp.153-159]]）。
+> [!critique-logic] 新西兰财政部对证据的选择性修辞
+> 新西兰财政部简报（[[Treasury Briefing on Student-Teacher Ratios]]）曾援引哈蒂“教师质量是最大校内影响[[Variable|变量]]”的论断，提议提高生师比以腾挪财政资金。奥尼尔尖锐指出该建议犯下多重[[Material Fallacies|实质谬误]]：故意忽略哈蒂原文关于“增加班级规模是灾难性糟糕政策”的警告，并且掩盖了新西兰生师比本已显著高于[[OECD|经合组织]]（OECD）均值的事实。[[Argument_ONeill_2012_NZJES|(O'Neill, 2012, pp. 153–159)]]
 
-### 跨情境推广与全球南方物质约束
+### 全球南方极端班额与微观观察测量危机
 
-> [!critique-method] 忽视发展中国家极端班额与资源匮乏
-> 现存主流班级规模实证研究与元分析大多基于欧美发达国家（如 STAR 项目将 22–25 人视为大班），但在全球南方及外围国家，班额常达 50–80 人甚至更多，且伴随教材严重短缺（Anderson-Levitt, 2003, 2004; [[Argument_Arnove_2009_WorldSystems\|Arnove, 2009, p. 109]]）。将发达国家的[[Cost-Benefit Analysis|成本效益分析]]（如 $d=0.20$ 边际效应论）简单套用于极端拥挤的大班环境，忽视了班额在发展中国家不仅是微观组织参数，更是攸关学生基础生存与基本识字可能性的刚性物质底线。
-### 投入指标优势对制度性病理的遮蔽
+将欧美 20–25 人常态下的小修小补外推至发展中国家，暴露出严重的方法学盲区。
 
-> [!critique-logic] 数量投入指标难掩学制与权威的系统性危机
-> 政策制定者经常将较小的班级规模与优越的生师比视作教育体系健康的直接凭证。[[José Luis García Garrido|加西亚·加里多]]（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 331–332]]）对西班牙的实证分析颠覆了这一假定：西班牙公立学校在班级规模和生师比指标上显著优于欧洲联盟平均水平，却长期深陷学业失败率偏高与整体平庸的困局。这表明，当学校面临强制均一课程大纲带来的学生厌学情绪、校园纪律失范以及[[School Leadership|学校领导]]层去专业化等体制性危机时，班级规模这一投入[[Variable|变量]]极易沦为掩盖深层学制缺陷与教师心理危机的修辞遮羞布（pp. 331–332）。
+> [!critique-method] 极端大班额（60–100 人）对[[Classroom Observation|课堂观察]]测量的冲击
+> [[UNESCO|联合国教科文组织]]与[[World Bank|世界银行]]在撒哈拉以南非洲及南亚的调研显示，小学班额普遍达到 60–100 人。在世界银行 Teach 工具的现场实测中，研究人员发现超大班额直接危及低推论快照测量的有效性：观察员在 1–10 秒的瞬时扫视中，极难精准捕捉拥挤在后排或窗外张望学生的真实在轨状态，容易导致时间利用率的系统性测量偏误（[[Argument_WorldBank_2019_Teach|World Bank Group, 2019, pp. 4, 16]]）。
+
+---
+
+## 实证数据
+
+大样本随机实验、[[Meta-analysis|元分析]]与跨国计量经济学模型为评估班级规模效应提供了多维经验数据。
+
+> [!effect-table]- 班级规模效应的一级实证研究快照
+> <span class="concept-effect-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 比较或干预设置 | [[Dependent Variable\|结果变量]] | 分析样本规模 | [[Effect Size\|效应量]]指标 | [[Statistical Significance\|统计显著性]]或结论 | 方法设计与解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 田纳西州 STAR 项目：小班 13–17 人 vs 大班 22–25 人 | 标准化读写与数学测验 | 79 所学校，超 6,000 名学生追踪 | $d = 0.62\text{–}0.66$ | 极显著提升学业增益 | 严格[[Random Assignment\|随机分配]]实验；效果在低年级与少数族裔中最强 |
+> | 同上 | 伦敦班级规模[[Cohort Study\|追踪研究]] | 读写与算术表现 | 199 所小学 / 330 班 / 7,142 名学生 | 未标准化效应 | Reception 阶段显著，Year 1 后衰减 | 自然主义追踪；揭示班级规模对低成就儿童的阶梯保护 |
+> | [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet (2021)]] | 法国弱势学校班额减半改革（24 人降至 12 人） | 标准化法语与数学统考成绩 | 优先教育网（REP+）一、二年级群体 | $d \approx 0.08$（阅读） | 阅读微弱显著，数学未达统计显著 | 全国性政策推广；合格师资与校舍制约稀释政策效能 |
+> | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]]; Molina et al. (2018) | 控制班级规模、教师学科测试与学生家庭背景后的微观教学实践模型 | 学生跨期标准化测试成绩增益 | 巴基斯坦旁遮普省超 1,000 间小学课堂 | $\beta = 0.08\text{–}0.12$ SD | 极显著（$p < .01$） | 计量回归控制班级规模后，教师微观实践仍具稳健预测力 |
 
 ---
 
 ## 应用案例
 
-> [!proc] 案例阅读指引
-> 班级规模案例应当按"试验条件、推广条件、政策使用方式"一起读。详细内容写在各事实条目中，本节只汇聚入口，避免重复。
+理解班级规模政策的成败，必须将试验设计、推广条件与配套支持系统置于具体国别语境中综合审视。
 
-### 美国
+### 美国与法国
 
-> [!evidence-grid-a] 美国案例
-> - **[[Tennessee STAR Project 1985-1989]]** 大型随机试验，小班 13–17 人，大班 22–26 人；小班学生到二年级末约领先 3 个月，低收入和少数族裔学生受益更大，但 Wiliam 指出其学校代表性、[[Random Assignment\|随机分配]]和教师质量条件都影响外推（[[Argument_Wiliam_2019_ERE\|Wiliam, 2019, pp.5–7]]）。
-> - **[[California Class Size Reduction 1996]]** 试图把 STAR 证据全州推广，但合格教师和教室不足，导致新增教师质量下降且负担集中在弱势学校；这是 [[Programme Fidelity vs Adaptation]] 和 [[Randomised Controlled Trials\|随机对照试验]]（RCT） 外推争论中的关键反例（[[Argument_Cowen_2015_CHESS\|Cowen et al., 2015, pp.17–18]]; [[Argument_Wiliam_2019_ERE\|Wiliam, 2019, p.7]]; [[Argument_Johnson_2023_CE\|Johnson & Janzen, 2023, p.33]]）。
-> - **德州 15 校研究** 仅缩小班额的 13 所学校五年后无显著变化；同时改变教学法、健康服务和家长参与的 2 所学校成绩改善，说明班额政策与教学和支持系统交互（[[Argument_Snook_2009_NZJES\|Snook et al., 2009, pp.101–102]]）。
+经典实验与全国性推广的对比展示了政策外推中的师资瓶颈。
 
-### 英国
+> [!evidence-grid-a] 欧美代表性政策案例
+> - **田纳西州 STAR 项目（[[Tennessee STAR Project 1985-1989]]）** 严格[[Random Assignment|随机分配]]学生与教师至小班与大班，小班学生到二年级末累计领先约 3 个月学力，证实低年级小班对弱势群体的扶持效应，但威廉指出其实验条件的特殊性制约了向常规师资不足学校的直接外推。[[Argument_Wiliam_2019_ERE|(Wiliam, 2019, pp. 5–7)]]
+> - **加州 1996 年全州缩班工程（[[California Class Size Reduction 1996]]）** 试图将 STAR 模式快速复制至全州，导致全州紧急招募数万名未获充分认证的代课教师，新增师资质量滑坡重创弱势学区，导致整体成效被完全对冲，成为政策保真度与外部生态脱节的反面教材。[[Argument_Cowen_2015_CHESS|(Cowen et al., 2015, pp. 17–18)]]; [[Argument_Wiliam_2019_ERE|(Wiliam, 2019, p. 7)]]
+> - **法国优先教育区缩班改革（[[French Class Size Reduction]]）** 针对重点扶困小学低段推行 12 人超小班，因伴随巨额财政支出且数学增益微弱，成为欧洲循证决策中权衡高昂缩班成本与定向课后辅导替代方案的典型案例。[[Argument_Pellegrini_2021_ECNUROE|(Pellegrini & Vivanet, 2021, pp. 27–28)]]
 
-> [!evidence-grid-a] 英国案例
-> - **伦敦班级规模研究** 199 所学校、330 个班级、7,142 名学生；Reception 年读写和算术有明显班级规模效应，尤其对低能力儿童更重要，但效果在 Year 1 后不再明显（[[Argument_Snook_2009_NZJES\|Snook et al., 2009, p.101]]）。
-> - **Blatchford 系列课堂过程研究** 显示班级规模影响课堂互动、教师压力、学生参与和低成就学生脱离学习风险，提示仅用成就[[Effect Size\|效应量]]不能完整解释班额问题（[[Argument_ONeill_2012_NZJES\|O'Neill, 2012, pp.155, 157–158]]）。
+### 新西兰与西班牙
 
-### 法国
+财政决策修辞与宏观课程失范揭示了班级规模指标的局限性。
 
-> [!evidence-grid-a] 法国案例
-> - **[[French Class Size Reduction]]** 弱势地区一、二年级班额从 24 人降至 12 人，是政策制定者查阅证据后采取行动的案例；但相关效应较小且成本高，Pellegrini and Vivanet 将其作为证据知情政策仍需比较成本与替代方案的例子（[[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, pp.27–28]]）。
+> [!evidence-grid-a] 新西兰与西班牙制度反思案例
+> - **新西兰 PACE 项目与财政部简报风波（[[Treasury Briefing on Student-Teacher Ratios]]）** PACE 项目证实小班唯有与教师专业发展深度捆绑方能激活教学变革；然而财政部借[[John Hattie|哈蒂]]之名提议扩大班额以削减教育赤字，引发学界对证据断章取义与政策修辞谬误的激烈声讨。[[Argument_ONeill_2012_NZJES|(O'Neill, 2012, pp. 153–159)]]
+> - **西班牙公立教育高投入与高失败率的反差** [[José Luis García Garrido|加西亚·加里多]]基于翔实跨国统计揭示，西班牙公立学校的班级规模与生师比全面占优于欧盟平均线，但在均一不分流课程体系压迫下，学生厌学成风与纪律解体导致学业失败率高达 33%，证明班额投入指标无法挽救深层课程治理危机。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 331–332)]]
 
-### 新西兰
+### 全球南方与世界银行 Teach 实证
 
-> [!evidence-grid-a] 新西兰案例
-> - **新西兰 PACE 项目** 小班与教师专业发展结合才产生效果，支持"班额变化需要改变教学方式"的主题判断（[[Argument_Snook_2009_NZJES\|Snook et al., 2009, p.102]]）。
-> - **[[Treasury Briefing on Student-Teacher Ratios]]** Treasury 援引 Hattie 证据建议提高生师比以释放资金，但 O'Neill 指出这与 Hattie 本人"增加班级规模是糟糕政策"的原始结论相矛盾，构成教育证据在政策论述中的误用案例（[[Argument_ONeill_2012_NZJES\|O'Neill, 2012, pp.153–159]]）。
+在极端班额与资源短缺情境下，班级规模构成了微观教学与方法测量的双重瓶颈。
 
-### 几内亚（全球南方与外围国家情境）
+> [!evidence-grid-a] 全球南方与[[World Bank|世界银行]] Teach 案例
+> - **几内亚小学阅读教学的物质约束基础设施** 安德森-莱维特（Anderson-Levitt, 2003, 2004）跨国[[Ethnography|民族志]]证实，几内亚小学面临 60 人以上的巨型班额与严重教材短缺，西方主流的儿童中心与[[Individualised Instruction|个别化教学]]失去物质可行性，教师被迫退守全班齐读与严苛纪律，确立了班级规模作为依附性物质约束的理论视野。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–109)]]
+> - **世界银行 Teach 工具的大班额实证与测量挑战** 在巴基斯坦旁遮普省大样本计量模型中，研究团队将班级规模作为关键控制[[Variable|变量]]，证实无论班额大小，教师在 Teach 上的[[Effective Teaching|有效教学]]行为均能稳定解释学生学业增值（0.08–0.12 SD）；同时在莫桑比克等非洲多国试点中，世界银行团队记录了 60–100 人超大班额对 1–10 秒时间快照（Snapshot）扫描精度的严峻考验，推动了对超大班额微观观察规程的[[Going Native|本土化]]改进。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019, pp. 4, 12, 16–17)]]
 
-> [!evidence-grid-a] 几内亚案例
-> - **几内亚阅读教学跨国比较案例** 安德森-莱维特（Anderson-Levitt, 2003, 2004; 引自 [[Argument_Arnove_2009_WorldSystems\|Arnove, 2009, pp. 108–109]]）对几内亚、法国与美国阅读教学的对比研究显示，几内亚小学面对极大的班额和教材匮乏，使[[UNESCO|联合国教科文组织]]等倡导的现代教学[[Paradigm|范式]]无法直接照搬，教师必须在巨大的班级规模压力下维持严格的全班纪律与机械朗读。这展示了大班额作为外围国家教育体系的结构性物质约束，深刻塑造了微观课堂的实践形态。
+---
 
-### 西班牙
+## 相关研究
 
-> [!evidence-grid-a] 西班牙案例
-> - **投入指标优越与制度性平庸的脱节** [[José Luis García Garrido|加西亚·加里多]]（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009, pp. 331–332]]）基于西班牙国家教育[[Evaluation Research|评估研究]]所与跨国数据指出，西班牙公立学校在班级规模、生师比、教师课时和薪酬指标上均显著优于欧洲联盟平均水平。然而，优渥的微观资源投入并未阻遏 16 岁义务教育阶段高达 33% 的学业失败率与教师群体广泛的心理倦怠与早退危机。这一反差证明，班级规模这一投入[[Variable|变量]]必须依托健全的课程分流与学校专业治理架构；在均质不分流学制引发学生厌学和纪律溃散的情境下，单纯缩小班额无法逆转教育产出的系统性平庸。
+本 vault 中围绕班级规模展开的方法学批判、政策实证与跨国观察[[Document|文献]]索引如下。
+
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 针对[[John Hattie|哈蒂]][[Meta-analysis|元分析]]平均值视角的系统批判，系统梳理 STAR、伦敦研究与德州 15 校案例中班级规模与教学法交互的实证证据。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al. (2011, Ch. 17)]] — 详尽解析 Glass & Smith 开拓性元分析案例，阐释控制质量如何系统性重塑班级规模效应曲线的形态与斜率。
+> - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 全球[[Classroom Observation|课堂观察]]手册 Teach，在发展中国家超 1,000 间小学计量模型中确立控制班级规模后微观实践的增值预测力，并指出 60–100 人超大班额对时间快照测量的挑战。
+> - [[Argument_Pellegrini_2021_ECNUROE|Pellegrini & Vivanet (2021)]] — 综合 Campbell 协作网多项元分析，基于法国缩班政策论证缩减班额的高成本与有限边际收益。
+> - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 比较教育经典专著，以西班牙为例实证揭示优渥的班级规模和生师比指标难掩统一不分流学制的深层平庸与纪律溃退。
+> - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 汇聚安德森-莱维特等跨国[[Ethnography|民族志]]，阐明全球南方极端大班额作为阻滞西方通用教学法落地的物质基础设施约束。
+> - [[Argument_ONeill_2012_NZJES|O'Neill (2012)]] — 剖析新西兰财政部借生师比证据推行紧缩政策的多重[[Material Fallacies|实质谬误]]与对哈蒂原意的断章取义。
+
+---
+
+## 条目关联
+
+班级规模与宏观教育政策、微观教学法、观察工具及测量指标的关系网络图谱如下。
+
+> [!entry-map]
+>
+> | 条目 | 类型 | 关联方向 | 说明 |
+> |:-----|:-----|:---------|:-----|
+> | [[Classroom Management]] | 概念 | 机制链条 | 班级规模直接放大或缓解课堂管理压力，是大班教师耗费认知负荷的主要来源。 |
+> | [[Effective Teaching]] | 概念 | 效能交互 | 班级规模是物理容器，唯有配合有效教学行为（如高质量提问与反馈）方能转化出学业增益。 |
+> | [[Observation Protocol]] | 方法 | 测量载体 | 课堂观察规程将班级规模细化为分时段、分性别的现场在席计数，并受大班额扫描精度制约。 |
+> | [[Teach Classroom Observation Tool]] | 测量工具 | 落地工具 | 在跨国大样本中将班级规模作为核心控制[[Variable\|变量]]，并确立每 15 分钟片段实测班额的标准化记录单。 |
+> | [[Tennessee STAR Project 1985-1989]] | 事实 | 经典实验 | 为小班在低年级与弱势学生中的长期学业优势提供了最具代表性的[[Randomised Controlled Trials\|随机对照试验]]（RCT）证据。 |
+> | [[California Class Size Reduction 1996]] | 事实 | 反面警示 | 仓促全州推广导致未认证师资充斥弱势学区，展示了脱离师资供给生态盲目缩班的政策后果。 |
+> | [[French Class Size Reduction]] | 事实 | 成本案例 | 法国重点扶困区 12 人超小班改革，成为权衡高昂缩班成本与定向个别辅导性价比的代表案例。 |
+> | [[Treasury Briefing on Student-Teacher Ratios]] | 事实 | 政策误用 | 新西兰财政部简报片面曲解实证研究，以生师比证据掩饰削减教育预算的官僚修辞。 |
+> | [[Kathryn Anderson-Levitt]] | 人物 | 理论阐发 | 跨国[[Ethnography\|民族志]]学者，揭示几内亚巨型班额与教材匮乏对西方儿童中心教学[[Paradigm\|范式]]的刚性阻隔。 |
+> | [[José Luis García Garrido]] | 人物 | 制度批判 | 揭露西班牙优越的班级规模与生师比指标与 33% 义务教育失败率脱节的制度性平庸。 |
+> | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] | 论证 | 实证来源 | 提供发展中国家大样本计量模型中控制班额后的教学效能证据及超大班额快照测量反思。 |

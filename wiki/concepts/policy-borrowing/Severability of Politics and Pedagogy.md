@@ -12,7 +12,7 @@ aliases:
 summary: "教育政策借用与跨文化影响理论中的经典认识论与政治哲学命题，由斯托、霍勒斯·曼与巴纳德在借用普鲁士教育经验时提出，主张人类心智认知机能具有跨文化普遍性，基础教学法的高效性在认识论上独立于专制政体意志，借用国能够剥离被动顺从的意识形态灌输，将教学模式本土化重塑为培育民主公民的工具。"
 type: concept
 domain: "policy-borrowing"
-related_count: 23
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -37,8 +37,7 @@ related_theories:
   - "[[Structural Functionalism]]"
 related_methods:
   - "[[Correlational Research]]"
-related_instruments:
-  - "[[Teach Classroom Observation Tool]]"
+related_instruments: []
 related_persons:
   - "[[Calvin Stowe]]"
   - "[[Horace Mann]]"
@@ -74,7 +73,7 @@ updated: 2026-10-15
 > [!citation-card] 霍勒斯·曼论教学法与被动顺从专制思想的可分性
 > 如果普鲁士的学校教师能够用美国所需时间的一半来教会学生阅读、写作、地理与算术，那么我们当然可以效仿他教授这些基础要素的模式，而无需采纳他对政府被动顺从的政治观念。人类的心智机能处处皆同，其成长与发展的最佳途径因而也必然相同；优良的学校完全可以被用来巩固美国的民主与共和精神。[[Argument_Rust_2009_Reflections|Rust et al. (2009, p. 125)]]
 >
-> *"if the Prussian schoolmaster could [[Teach Classroom Observation Tool|Teach]] reading, writing, geography, and arithmetic in half the time that was required in America, then surely they could 'copy his modes of teaching these elements, without adopting his notions of passive obedience to government' (Mann, 1844). He argued that human faculties were the same everywhere. The best means for their [[Growth]] and development would therefore also be the same, and good schools can be used to strengthen the democratic and republican spirit in America."*
+> *"if the Prussian schoolmaster could Teach reading, writing, geography, and arithmetic in half the time that was required in America, then surely they could 'copy his modes of teaching these elements, without adopting his notions of passive obedience to government' (Mann, 1844). He argued that human faculties were the same everywhere. The best means for their [[Growth]] and development would therefore also be the same, and good schools can be used to strengthen the democratic and republican spirit in America."*
 
 > [!boundary] 概念边界
 > - 不等于 [[Policy Borrowing]] — [[Policy Borrowing|政策借用]] 指涉跨国吸纳政策模型的整体过程；而可分性命题则是为该过程在面临“政治体制冲突”时提供合法性论证的核心认识论支柱。

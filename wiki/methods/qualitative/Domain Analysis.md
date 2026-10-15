@@ -43,6 +43,7 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Open Coding]]"
   - "[[Qualitative Observation]]"
+  - "[[Classroom Observation]]"
   - "[[Participant Observation]]"
   - "[[Case Study]]"
   - "[[Qualitative Computer Software]]"
@@ -156,7 +157,7 @@ updated: 2026-10-12
 > [!table] 斯普拉德利九大通用语义关系矩阵
 > | 序号 | 语义关系类型 | 形式化逻辑表达 | 质性经验表述句型 | 教育研究实证应用示例 |
 > |---|---|---|---|---|
-> | 1 | **严格包含（Strict inclusion）** | $X \text{ is a kind of } Y$ | X 是 Y 的一种 | 巡回讲评是教师课堂观察的一种形式 |
+> | 1 | **严格包含（Strict inclusion）** | $X \text{ is a kind of } Y$ | X 是 Y 的一种 | 巡回讲评是教师[[Classroom Observation\|课堂观察]]的一种形式 |
 > | 2 | **空间关系（Spatial）** | $X \text{ is a place in / part of } Y$ | X 是 Y 的一个场所 / X 是 Y 的一部分 | 教研室是校园教师非正式互动的一个空间 |
 > | 3 | **[[Causality\|因果关系]]（Cause-effect）** | $X \text{ is a result of / cause of } Y$ | X 是 Y 的结果 / 原因 | 领导问责失当是产生职业倦怠的重要原因 |
 > | 4 | **理由关系（Rationale）** | $X \text{ is a reason for doing } Y$ | X 是行动者做 Y 的理由 | 维护课堂纪律是实施分组惩戒的解释理由 |

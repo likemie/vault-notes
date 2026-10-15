@@ -75,6 +75,7 @@ related_methods:
   - "[[Quasi-Experimental Designs]]"
   - "[[Survey Research]]"
   - "[[Cohort Study]]"
+  - "[[Classroom Observation]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Analysis of Variance]]"
   - "[[Causal Modeling]]"
@@ -161,7 +162,7 @@ updated: 2026-10-14
 
 > [!method-stack] 方法层级
 > - **研究设计** [[Randomised Controlled Trials\|随机对照试验]]、[[Quasi-Experimental Designs\|准实验设计]]、[[Survey Research\|调查研究]]、纵向[[Cohort Study\|追踪研究]]、相关与比较设计。
-> - **数据收集** 标准化认知测验、心理[[Scale of Measurement\|测量量表]]、封闭式[[Questionnaire\|问卷]]调查、系统性课堂观察[[Coding in Qualitative Research\|编码]]表、国家与区域行政数据库。
+> - **数据收集** 标准化认知测验、心理[[Scale of Measurement\|测量量表]]、封闭式[[Questionnaire\|问卷]]调查、系统性[[Classroom Observation|课堂观察]][[Coding in Qualitative Research\|编码]]表、国家与区域行政数据库。
 > - **分析方法** 参数与非参数检验、[[Analysis of Variance\|方差分析]]（ANOVA）、多元线性回归、逻辑回归、结构方程模型（[[Causal Modeling\|SEM]]）、[[Hierarchical Linear Model\|多层线性模型]]（HLM）、因果推断计量模型（[[Difference-in-Differences\|DID]], [[Regression Discontinuity Design\|RDD]], [[Propensity Score Matching\|PSM]]）。
 > - **辅助技术** [[Random Sampling\|概率抽样]]技术（简单随机抽样、[[Stratified Sampling\|分层抽样]]、[[Cluster Sampling\|整群抽样]]）、先验[[Power Analysis\|统计功效分析]]（G*Power）、缺失数据多重插补、异方差稳健[[Standard Error\|标准误]]校正、多重假设检验校正。
 

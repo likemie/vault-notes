@@ -79,7 +79,6 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Correlational Research]]"
 related_persons:
-  - "[[Nikolas Rose]]"
   - "[[Philip Altbach]]"
   - "[[Jürgen Habermas]]"
 related_facts:
@@ -100,7 +99,7 @@ title: "Argument_Yu_Xie_2025_JHE"
 argument_key: "Argument_Yu_Xie_2025_JHE"
 argument_display_title: "空间、权力与高等教育：地缘政治视角下的高等教育研究"
 argument_kind: "journal-article"
-argument_related_count: 66
+argument_related_count: 65
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -177,7 +176,7 @@ journal: "高等教育研究"
 ### 论证步骤一：高等教育地缘政治研究的兴起有其现实与理论双重动因
 
 > [!claim] 地缘政治的回归推动高等教育研究转向
-> 全球高等教育正经历深刻变局。传统学术合作受阻，俄[[Nikolas Rose|罗斯]]退出[[Bologna Process\|博洛尼亚进程]]，中美合作论文比例显著下降，部分合作办学甚至终止；新的交流方向同时生成，中国学生大规模转向英新德法日韩等国，东盟与东南亚教育部长组织联合签署了《[[Southeast Asian Higher Education Common Space\|东南亚高等教育共同空间]]宣言》。一度隐退在高等教育交流和合作背后的政治主体重新浮现，各个国家和地区在推进高等教育交流合作时都带着明确的政治议程。[[Internationalization of Higher Education\|高等教育国际化]]日益成为由民族国家主导的策略性活动，不再以世纪之初由高校主导时所呈现的偶发性、碎片化和边缘化的面貌示人。地缘政治因素已成为全球高等教育发展与变革的显性逻辑（pp.2–3）。
+> 全球高等教育正经历深刻变局。传统学术合作受阻，俄罗斯退出[[Bologna Process\|博洛尼亚进程]]，中美合作论文比例显著下降，部分合作办学甚至终止；新的交流方向同时生成，中国学生大规模转向英新德法日韩等国，东盟与东南亚教育部长组织联合签署了《[[Southeast Asian Higher Education Common Space\|东南亚高等教育共同空间]]宣言》。一度隐退在高等教育交流和合作背后的政治主体重新浮现，各个国家和地区在推进高等教育交流合作时都带着明确的政治议程。[[Internationalization of Higher Education\|高等教育国际化]]日益成为由民族国家主导的策略性活动，不再以世纪之初由高校主导时所呈现的偶发性、碎片化和边缘化的面貌示人。地缘政治因素已成为全球高等教育发展与变革的显性逻辑（pp.2–3）。
 
 > [!chain-link] 证据到判断：既有理论工具的解释力不足
 > - **起点** 马金森（S. Marginson）指出，高等教育领域的上述骤变并非完全基于自身的逻辑演化而来，它反映了长久以来一直存在的一个现实：地缘政治和高等教育之间存在很强的关联。在不少情况下，与高等教育有关的决策或行动其实有着鲜明的地缘政治逻辑，但很少被用"地缘政治"来描述，结果是它往往在实践中存在，却在语言中消失（p.3; Marginson, 2024）。

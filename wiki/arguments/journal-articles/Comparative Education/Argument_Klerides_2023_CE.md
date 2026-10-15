@@ -9,7 +9,7 @@ title: "Argument_Klerides_2023_CE"
 argument_key: "Argument_Klerides_2023_CE"
 argument_display_title: "Comparative education and international relations"
 argument_kind: "journal-article"
-argument_related_count: 61
+argument_related_count: 60
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -78,7 +78,6 @@ related_persons:
   - "[[Isaac Kandel]]"
   - "[[Marc-Antoine Jullien]]"
   - "[[Philip Altbach]]"
-  - "[[Nikolas Rose]]"
 related_facts:
   - "[[Comparative and International Education Society]]"
   - "[[OECD]]"
@@ -302,7 +301,7 @@ citation_aliases:
 > 比较教育内部的长期矛盾由此获得了深层解释。例如，政策借用与情境理解之间的张力，不是方法论的分歧，而是现实主义预设（国家竞争）与反现实主义预设（文化差异）之间的张力。技术治理与批判解放之间的张力，不是政治立场的差异，而是理性主义预设（合作与规则）与革命主义预设（支配与抗争）之间的张力。这些张力是不可消除的，因为它们根植于对国际社会性质的最深层理解(p. 431)。
 
 > [!case] 案例一：主权领土国家的回归与美俄对抗
-> 美国的全球霸权正受到俄[[Nikolas Rose|罗斯]]军事行为和中国经济实力的挑战。俄罗斯对乌克兰的军事行动使西方重新发现了国家独立和领土完整的价值。正如Papastephanou (2022, p. 82)所指出的，西方政治构型的“我们”走了一个完整的圈，从主权神化到对国家的大规模谴责，再到主权重新流行。
+> 美国的全球霸权正受到俄罗斯军事行为和中国经济实力的挑战。俄罗斯对乌克兰的军事行动使西方重新发现了国家独立和领土完整的价值。正如Papastephanou (2022, p. 82)所指出的，西方政治构型的“我们”走了一个完整的圈，从主权神化到对国家的大规模谴责，再到主权重新流行。
 > 
 > 这一转变带来了新的比较议程：主权领土国家将如何与恐惧政治(Wodak, 2015)结合来面对核威胁的回归？教育系统将被要求如何支持或阻碍美俄之间为支配或生存而进行的竞争？(p. 429)
 

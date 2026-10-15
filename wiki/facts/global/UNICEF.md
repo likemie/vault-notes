@@ -26,6 +26,7 @@ tags:
 related_concepts:
   - "[[Social-Emotional Learning]]"
   - "[[Policy Brokerage]]"
+  - "[[Learning Crisis]]"
   - "[[Knowledge Production]]"
   - "[[Paradigm]]"
   - "[[Global Education Governing Complex]]"
@@ -109,7 +110,7 @@ updated: 2026-09-29
 > - **数据库、证据库与监测平台** [[Multiple Indicator Cluster Surveys|多指标聚类调查]]（MICS）全球微观数据库（涵盖 110 余国逾 300 次大型抽样普查）；儿童教育剥夺与辍学率监测平台。
 > - **旗舰项目、调查与测评** 联合国女童教育倡议（UNGEI）；“受教育不能等待”（Education Cannot Wait）紧急教育基金共建；与 [[UNESCO]]、[[World Bank|世行]]联合签署的[[Learning Data Compact|学习数据契约]]。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 545)]]
 > - **教师专业增能与性别平等项目** 资助并设计面向发展中国家农村小学的在职教师培训计划，支持基层女教师专业能力建设与实践自主性（如印度北方邦女教师在职培训项目；Stacki, 1999; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009, p. 109]]）。
-> - **旗舰出版物与咨询成果** 《世界儿童状况》（The State of the World's Children，年度旗舰报告）；因诺琴蒂研究报告卡（Innocenti Report Card）；全球学习危机与儿童心理福祉评估简报。
+> - **旗舰出版物与咨询成果** 《世界儿童状况》（The State of the World's Children，年度旗舰报告）；因诺琴蒂研究报告卡（Innocenti Report Card）；[[Learning Crisis|全球学习危机]]与儿童心理福祉评估简报。
 
 > [!citation-card] 国际组织政策议程竞争中的先发优势
 > 国际组织之间围绕全球规范制定与政策影响力的争夺，究竟意味着什么？它不仅在于识别那些前沿且尚未被触碰的政策重点议题——例如社会情感学习（Social-Emotional Learning，SEL），该议程最早由联合国儿童基金会倡导开辟，如今也已相继被[[OECD|经合组织]]和联合国教科文组织吸纳推进；更在于通过与公民社会联盟（如基础教育联盟）、教育企业及私人慈善基金会建立战略伙伴关系，扩大其实质政策影响力与财政资源储备。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, p. 544)]]

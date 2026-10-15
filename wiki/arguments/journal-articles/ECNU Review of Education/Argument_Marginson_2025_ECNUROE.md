@@ -9,7 +9,7 @@ title: "Argument_Marginson_2025_ECNUROE"
 argument_key: "Argument_Marginson_2025_ECNUROE"
 argument_display_title: "Space, power, and globalization: On the geopolitics of higher education"
 argument_kind: "journal-article"
-argument_related_count: 40
+argument_related_count: 39
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -61,7 +61,6 @@ related_methods:
   - "[[Case Study]]"
 related_persons:
   - "[[Doreen Massey]]"
-  - "[[Nikolas Rose]]"
 related_facts:
   - "[[Singapore Education Hub Policy]]"
   - "[[Academic Ranking of World Universities]]"
@@ -178,7 +177,7 @@ citation_aliases:
 
 **2a. 定义"尺度"** — 尺度（scale）是"一种被生产出来的社会度量，用于区分空间"(Marston & Smith, 2001, p. 615)。高等教育的活跃尺度包括：世界尺度（含自然）、全球尺度（人类社会世界层面）、泛国家区域尺度（如 EU）、国家尺度、次国家区域尺度（城市）、地方尺度（院校、研究中心）和个体尺度(pp. 7–8)。
 
-**2b. 论证尺度不可化约（irreducible）** — 这是最关键的一步。尺度之间的关系不是俄[[Nikolas Rose|罗斯]]套娃（大的套小的，大的决定小的）。不同尺度是**不同的**——有不同的规范、关系和运作逻辑。Marginson 用"国家科学 vs 全球科学"的对比来证明：国家科学的规范中心是国家（法律、政策、拨款），而全球科学没有规范中心——它由期刊和[[Document|文献]]计量中的知识、传播网络、制度实践和合作关系构成。科学家同时活跃在两个尺度中，其规范、关系和行为部分不同(pp. 8–9)。
+**2b. 论证尺度不可化约（irreducible）** — 这是最关键的一步。尺度之间的关系不是俄罗斯套娃（大的套小的，大的决定小的）。不同尺度是**不同的**——有不同的规范、关系和运作逻辑。Marginson 用"国家科学 vs 全球科学"的对比来证明：国家科学的规范中心是国家（法律、政策、拨款），而全球科学没有规范中心——它由期刊和[[Document|文献]]计量中的知识、传播网络、制度实践和合作关系构成。科学家同时活跃在两个尺度中，其规范、关系和行为部分不同(pp. 8–9)。
 
 > 例：一位清华大学的材料科学家，在"国家尺度"上接受国家自然科学基金的资助，遵守中国的科研管理规定，其研究被评估为是否服务于"国家战略需求"；在"全球尺度"上，她的论文投给 *Nature Materials*，参加国际学术会议，与 MIT 的合作者联合发表——在这套游戏规则中，同行评议的质量和引用的影响力才是硬通货。两套规则同时运作，但不可化约为彼此。
 

@@ -8,7 +8,7 @@ summary: "美籍匈牙利裔物理学家与发明家，核链式反应概念的�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 12
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -32,7 +32,6 @@ related_persons:
   - "[[Isaiah Berlin]]"
   - "[[Max Planck]]"
   - "[[Franklin D. Roosevelt]]"
-  - "[[Nikolas Rose]]"
 related_facts:
   - "[[Einstein-Szilard Letter]]"
   - "[[Manhattan Project]]"
@@ -42,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Leo Szilard
@@ -110,7 +109,7 @@ updated: 2026-10-14
 
 > [!person-network] 关系网络
 > - **合作者** 阿尔伯特·爱因斯坦 — 共同起草1939年佩科尼克致[[Franklin D. Roosevelt|罗斯福总统]]信函，促成国家核计划立项。
-> - **国家首脑** 富兰克林·D. [[Nikolas Rose|罗斯]]福 — 信函接收人，决断开启国家级常态化科学动员与[[Manhattan Project|曼哈顿工程]]。
+> - **国家首脑** 富兰克林·D. 罗斯福 — 信函接收人，决断开启国家级常态化科学动员与[[Manhattan Project|曼哈顿工程]]。
 > - **重大工程** [[Manhattan Project|曼哈顿工程]] — 科学发起人之一，在芝加哥一号堆中实现链式反应工程化突破。
 
 ---

@@ -42,6 +42,7 @@ related_arguments:
   - "[[Argument_Brown_2017_ER]]"
   - "[[Argument_Nelson_2017_ER]]"
 related_methods:
+  - "[[Classroom Observation]]"
   - "[[Systematic Review]]"
   - "[[Meta-analysis]]"
   - "[[Triangulation]]"
@@ -73,7 +74,7 @@ updated: 2026-09-21
 ## 定义
 
 > [!def] 核心定义
-> 基于数据的决策（Data-Based Decision-Making, DBDM，亦常称“数据使用”）指教育者系统分析学校内部现存多元数据，将分析结果应用于革新教学、课程与[[School Effectiveness\|学校效能]]，并在实践中执行（如延续、调整或终止）具体干预措施的动态过程（Schildkamp & Kuiper, 2010; Lai & Schildkamp, 2013）。涵盖的数据类型包括输入数据（人口统计背景）、过程数据（课堂观察、师生互动）、情境数据（[[Organizational Culture\|组织文化]]、家长参与）以及结果数据（标准化测验、日常形成性测评、[[Academic Achievement\|学业成就]]与[[Grade Retention\|留级]]率）。在《Educational Research》特刊中，[[Argument_Brown_2017_ER\|Brown et al. (2017, pp. 154–157)]] 与 [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017, p. 129)]] 指出，DBDM 早期过度受行政问责驱动，当代已转向形成性改进取向，承认决策不能由数据单一主导，而应结合教师的默会经验与[[Professional Judgment\|专业判断]]；但 DBDM 与[[Research-Informed Teaching Practice\|研究知情教学实践]]（RITP）长期平行割裂，亟需在整体性证据知情系统中加以整合。
+> 基于数据的决策（Data-Based Decision-Making, DBDM，亦常称“数据使用”）指教育者系统分析学校内部现存多元数据，将分析结果应用于革新教学、课程与[[School Effectiveness\|学校效能]]，并在实践中执行（如延续、调整或终止）具体干预措施的动态过程（Schildkamp & Kuiper, 2010; Lai & Schildkamp, 2013）。涵盖的数据类型包括输入数据（人口统计背景）、过程数据（[[Classroom Observation|课堂观察]]、师生互动）、情境数据（[[Organizational Culture\|组织文化]]、家长参与）以及结果数据（标准化测验、日常形成性测评、[[Academic Achievement\|学业成就]]与[[Grade Retention\|留级]]率）。在《Educational Research》特刊中，[[Argument_Brown_2017_ER\|Brown et al. (2017, pp. 154–157)]] 与 [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017, p. 129)]] 指出，DBDM 早期过度受行政问责驱动，当代已转向形成性改进取向，承认决策不能由数据单一主导，而应结合教师的默会经验与[[Professional Judgment\|专业判断]]；但 DBDM 与[[Research-Informed Teaching Practice\|研究知情教学实践]]（RITP）长期平行割裂，亟需在整体性证据知情系统中加以整合。
 
 > [!concept-lens] 概念透镜
 > - **含义** 聚焦以学校自身内部信息系统与课堂评估为基础的循证决策形态，区分于依赖外部学术研究[[Document\|文献]]的实践路径。
@@ -97,7 +98,7 @@ updated: 2026-09-21
 > [!contrast-table] 基于数据的决策 vs. [[Research-Informed Teaching Practice\|研究知情教学实践]] vs. [[Evidence-Informed Practice\|证据知情实践]]
 > | 比较维度 | 基于数据的决策（DBDM） | [[Research-Informed Teaching Practice\|研究知情教学实践]]（RITP） | [[Evidence-Informed Practice\|证据知情实践]]（EIP） |
 > |---|---|---|---|
-> | **核心证据源** | 学校与系统内部多源数据：评估成绩、学业档案、课堂观察与行为记录 | 外部学术实证研究：同行评议论文、[[Systematic Review\|系统综述]]、[[Meta-analysis\|元分析]]工具包 | 外部研究 ＋ 内部数据 ＋ 教师[[Professional Judgment\|专业判断]] |
+> | **核心证据源** | 学校与系统内部多源数据：评估成绩、学业档案、[[Classroom Observation\|课堂观察]]与行为记录 | 外部学术实证研究：同行评议论文、[[Systematic Review\|系统综述]]、[[Meta-analysis\|元分析]]工具包 | 外部研究 ＋ 内部数据 ＋ 教师[[Professional Judgment\|专业判断]] |
 > | **核心[[Epistemology\|认识论]]功能** | 靶向诊断：本校/本班存在哪些真实学情痛点与深层成因 | 方案供给：针对具体问题，外部成熟有效干预策略及其作用机制 | 整体融通：以数据精准靶向，以研究提供方案，以专业判断情境[[Transfer Translation Transformation\|转译]] |
 > | **主导实施载体** | [[Data Team Intervention\|数据团队]]（Data Team）、成绩仪表盘、形成性测评分析会 | [[Research Learning Communities\|研究学习共同体]]（RLC）、教研[[Document\|文献]]研读组、院校协作网络 | 整合性[[School Enquiry Cycle\|学校探究循环]]（ESTI）、[[Professional Learning Community\|专业学习共同体]]（PLC） |
 > | **认知素养要求** | [[Data Literacy\|数据素养]]、指标分析与定性定量三角验证 | [[Research Literacy\|研究素养]]、文献评估技能与分析立场 | 双素养协同：同时具备数据分析与[[Research Translation\|研究转译]]整合能力 |
@@ -108,7 +109,7 @@ updated: 2026-09-21
 ## 核心要素
 
 > [!feature] 核心要素
-> - **多维校本数据类型（Multi-Dimensional Data Types）** 涵盖学生背景与家庭社会经济地位等输入数据、课堂观察与师生互动等过程数据、[[Organizational Culture\|组织文化]]与资源条件等情境数据，以及测评成绩、及格率与[[Grade Retention\|留级]]率等结果数据。[[Argument_Brown_2017_ER\|(Brown et al., 2017, pp. 156–157)]]
+> - **多维校本数据类型（Multi-Dimensional Data Types）** 涵盖学生背景与家庭社会经济地位等输入数据、[[Classroom Observation|课堂观察]]与师生互动等过程数据、[[Organizational Culture\|组织文化]]与资源条件等情境数据，以及测评成绩、及格率与[[Grade Retention\|留级]]率等结果数据。[[Argument_Brown_2017_ER\|(Brown et al., 2017, pp. 156–157)]]
 > - **五阶段动态行动循环（Five-Stage Action Cycle）** 遵循设定目标 ➔ 收集数据（围绕成因[[Hypothesis\|假设]]展开） ➔ 分析与质检（数据转化为信息并升华为知识） ➔ 落实改进举措 ➔ 成效评估，包含未达预期时回溯前序步骤的反馈回路。[[Argument_Brown_2017_ER\|(Brown et al., 2017, p. 157)]]
 > - **[[Data Team Intervention\|数据团队]]结构化支架（Data Team Intervention Scaffold）** 由 [[Kim Schildkamp]] 团队研发，每校遴选6至8名骨干教师与领导组建团队，在外部研究教练指导下遵循八步规程攻关真实学情难题，有效提升[[Data Literacy\|数据素养]]与协作技能。[[Argument_Brown_2017_ER\|(Brown et al., 2017, p. 158)]]
 > - **定性与定量[[Triangulation\|三角验证]]（Triangulation of Evidence）** 依托教育者[[Data Literacy\|数据素养]]，交叉比对量化考试成绩与质性课堂观察、师生访谈记录，破除对单一终结性测验的绝对依赖。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 129)]]
@@ -142,7 +143,7 @@ updated: 2026-09-21
 > 探讨实践者对不同形态课堂数据的感知偏倚，揭示终结性测验的绝对支配地位对丰富质性过程证据的挤压机制。
 
 > [!claim] LaPointe-McEwan et al. (2017) / [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017)]]
-> **终结性评估支配与[[Triangulation\|三角验证]]必要性** 在日常教育实践中，课堂数据并非被等量齐观地对待，而是存在显著的层级感知——正式的终结性评估结果在学校与教学决策中占据绝对支配地位。这种认知偏误导致丰富的[[Formative Assessment\|形成性评价]]、师生日常互动及质性课堂观察等细粒度证据被严重边缘化。教育者必须通过发展[[Data Literacy\|数据素养]]，建立对定性与定量数据进行三角验证（triangulate）的分析视角，才能避免片面依赖标准化考试分数造成的决策失真，做出兼顾学业指标与学生情境的平衡决策。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 129)]]
+> **终结性评估支配与[[Triangulation\|三角验证]]必要性** 在日常教育实践中，课堂数据并非被等量齐观地对待，而是存在显著的层级感知——正式的终结性评估结果在学校与教学决策中占据绝对支配地位。这种认知偏误导致丰富的[[Formative Assessment\|形成性评价]]、师生日常互动及质性[[Classroom Observation|课堂观察]]等细粒度证据被严重边缘化。教育者必须通过发展[[Data Literacy\|数据素养]]，建立对定性与定量数据进行三角验证（triangulate）的分析视角，才能避免片面依赖标准化考试分数造成的决策失真，做出兼顾学业指标与学生情境的平衡决策。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 129)]]
 
 ---
 
@@ -210,7 +211,7 @@ updated: 2026-09-21
 > [!warning] 适用局限与潜在偏误
 > - **数据能诊断成因但无法提供干预策略** DBDM 擅长揭示学情差距并辅助归纳可能诱因，但数据本身绝不包含“如何改进”的现成教学处方；实践表明教师在直面数据诊断结果时往往苦于研制不出科学的干预举措。[[Argument_Brown_2017_ER\|(Brown et al., 2017, p. 159)]]
 > - **领域专业知识与[[Data Literacy\|数据素养]]双重门槛** 探究成因高度依赖教师深厚的学科教学知识（PCK）与课程理解，而从原始数据清洗、指标解释到推导结论对教师[[Data Literacy\|数据素养]]提出严苛挑战，缺乏专业培训时易产生无效[[Hypothesis\|假设]]或错误归因。[[Argument_Brown_2017_ER\|(Brown et al., 2017, pp. 159, 164)]]
-> - **数据层级感知扭曲与质性证据边缘化** 正式终结性测试被过度依赖，丰富的形成性反馈、课堂观察与师生日常互动被低估和边缘化。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 129)]]
+> - **数据层级感知扭曲与质性证据边缘化** 正式终结性测试被过度依赖，丰富的形成性反馈、[[Classroom Observation|课堂观察]]与师生日常互动被低估和边缘化。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 129)]]
 > - **技术理性异化与合规审计陷阱** 单独的数据驱动极易蜕变为对应付检查、填报报表的合规审计，削弱教育实践中不可量化的立德树人内涵与价值关怀。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 133)]]
 
 ---
@@ -223,7 +224,7 @@ updated: 2026-09-21
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Brown_2017_ER\|Brown et al. (2017, p. 158)]] 引 Carlson et al. (2011); Van Geel et al. (2016) | 荷兰与瑞典 80 余所中小学骨干教师与校领导 | 多项[[Randomised Controlled Trials\|随机对照试验]]（RCT）与跟踪评估设计 | [[Data Team Intervention\|数据团队]]（Data Team）干预对教师[[Data Literacy\|数据素养]]、协作技能及学生[[Academic Achievement\|学业表现]]的影响 | 数据团队显著提升了教师数据素养与教研协作技能；并在部分参与学校带动了学生数学与阅读成绩的显著增长 | RCT 检验显著提升 | 证实结构化数据探究规程可改善学业；但教师在第七步研制教学干预措施时普遍陷入专业瓶颈 |
-> | [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017, p. 129)]] 引 LaPointe-McEwan et al. (2017) | 协作探究网络中的一线中小学教师群体 | [[Qualitative Observation\|质性观察]]与[[Survey Research\|调查研究]] | 教师对不同形态课堂数据的接触、信任度与决策采纳频率 | 终结性测评数据占据绝对主导；日常形成性测评、课堂观察及师生质性互动证据的使用频率与权重显著偏低 | — | 揭示实践端存在显著的数据层级感知偏差，亟待通过专业培训推行[[Triangulation\|三角验证]] |
+> | [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017, p. 129)]] 引 LaPointe-McEwan et al. (2017) | 协作探究网络中的一线中小学教师群体 | [[Qualitative Observation\|质性观察]]与[[Survey Research\|调查研究]] | 教师对不同形态课堂数据的接触、信任度与决策采纳频率 | 终结性测评数据占据绝对主导；日常形成性测评、[[Classroom Observation\|课堂观察]]及师生质性互动证据的使用频率与权重显著偏低 | — | 揭示实践端存在显著的数据层级感知偏差，亟待通过专业培训推行[[Triangulation\|三角验证]] |
 > | [[Argument_Brown_2017_ER\|Brown et al. (2017, pp. 166–167)]] 引 Schildkamp & Poortman (2015); Schildkamp et al. (2016) | 参与特温特大学数据团队干预项目的多所中小学教师 | 质性纵向追踪与[[Dialogue in Education\|对话]]文本分析 | 数据审验对教师归因心态（外部归咎 vs 内部能动）的转变影响 | 教师在探究初期普遍持有防御性外部归咎（认为学生家庭背景差、基础弱）；通过数据证据检验[[Hypothesis\|假设]]后，推翻了偏见并转向教学法可控因素的反思 | 质性证据验证 | 证明系统性数据审验能够破除个人证实偏见，重塑专业能动文化 |
 
 ---

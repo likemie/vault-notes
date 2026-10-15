@@ -35,6 +35,7 @@ related_persons:
 related_arguments:
   - "[[Argument_Biggs_1999_HERD]]"
 related_methods:
+  - "[[Classroom Observation]]"
   - "[[Correlational Research]]"
 confidence: medium
 status: draft
@@ -152,7 +153,7 @@ updated: 2026-09-17
 > | 命题 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **目标选择** | 按活动最可能引出的认知行为选择形式 | 课程与单元设计 | Biggs, J. |
-> | **控制方式** | 教师、同伴或学生控制不直接等于认知层次 | 活动分类与课堂观察 | Biggs, J. |
+> | **控制方式** | 教师、同伴或学生控制不直接等于认知层次 | 活动分类与[[Classroom Observation\|课堂观察]] | Biggs, J. |
 > | **资源边界** | 大班限制选择，但不取消对齐责任 | 大班教学与有限资源课程 | Biggs, J. |
 
 ---

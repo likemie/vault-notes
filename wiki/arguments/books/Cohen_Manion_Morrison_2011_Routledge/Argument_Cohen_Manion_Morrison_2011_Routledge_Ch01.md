@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01"
 argument_display_title: "Research Methods in Education · Ch01"
 argument_kind: "book-chapter"
-argument_related_count: 130
+argument_related_count: 129
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -149,7 +149,6 @@ related_persons:
   - "[[Karl Popper]]"
   - "[[Peter Medawar]]"
   - "[[Søren Kierkegaard]]"
-  - "[[Nikolas Rose]]"
   - "[[Peter A. Hall]]"
   - "[[Clifford Geertz]]"
   - "[[Jack Douglas]]"
@@ -589,7 +588,7 @@ updated: 2026-10-08
 > [!critique] 对量化崇拜、概念数学化与科学主义的系统清算
 > - **计算崇拜与去个性化危机（Ions, 1977）** 特里·扬斯痛陈社会科学对定量计算与统计学的过度迷信正在造成普遍的去个性化，使社会研究退化为冷漠的数学分支，剥离了对人类生存困境的温情关照。
 > - **概念数学化与科学主义意识形态（Horkheimer, 1972）** 马克斯·霍克海默批判实证主义将质性概念强行还原为数学公式，将实证经验方法神化为唯一合法的理性形态，形成了极具压迫性的科学主义（scientism）意识形态。
-> - **客观意识与自我疏离（Roszak, 1970, 1972）** 西奥多·[[Nikolas Rose|罗斯]]扎克指责实证科学对所谓客观意识的偏执追逐，切断了人与自身直觉、情感及自然深层联结，直接引发了深刻的存在疏离与心理异化。
+> - **客观意识与自我疏离（Roszak, 1970, 1972）** 西奥多·罗斯扎克指责实证科学对所谓客观意识的偏执追逐，切断了人与自身直觉、情感及自然深层联结，直接引发了深刻的存在疏离与心理异化。
 > - **心灵内在世界与伦理价值的破产（Holbrook, 1977）** 大卫·[[Peter A. Hall|霍尔]]布鲁克抨击实证经验主义在面对人类心灵的内在精神世界、意义追求与道德伦理价值时展现出彻底的认识论贫困与精神破产。
 > - **外在行为偏见与零件拼凑整体（Hampden-Turner, 1970）** 查尔斯·汉普登-特纳指出，传统量化社会科学带有保守主义偏见，只关注人身上可重复、机械且容易预测的“可见外在行为”，试图用碎片化零件拼凑出虚假的整体人类形象。
 
@@ -985,7 +984,7 @@ updated: 2026-10-08
 >
 > *A mixed method way of thinking recognizes that there are many legitimate approaches to social research and that, as a contingency, a single approach on its own will only yield a partial understanding of the phenomenon being investigated... anchored in values of tolerance, acceptance, respect.*
 
-> [!citation-card] [[Stuart Kauffman\|考夫曼]]论[[Complexity Theory\|复杂适应系统]]的自组织与自发秩序
+> [!citation-card] 考夫曼论[[Complexity Theory\|复杂适应系统]]的自组织与自发秩序
 > 在复杂适应系统中，秩序是自发生成的，它从根本上取代了外部强加的机械控制。秩序并非由先验的宏大设计或目的论预先决定，而是在有机体与其环境的动态交互中自组织涌现；所涌现的高阶系统具有自身独特性，绝无法还原为构成它的低阶离散部分。（p. 792）
 >
 > *Systems possess the ability for self-organization, which is not according to an a priori grand design – a cosmological argument – nor a teleological argument; complexity is neither. Further, self-organization emerges, it is internally generated; it is the opposite of external control. As Kauffman (1995) suggests, order comes for free and replaces control. Order is not imposed; it emerges; in this way it differs from control.*

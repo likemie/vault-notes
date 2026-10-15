@@ -29,9 +29,11 @@ related_concepts:
 related_methods:
   - "[[Participant Observation]]"
   - "[[Case Study]]"
+  - "[[Classroom Observation]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Structured Observation]]"
   - "[[Observation Method]]"
+  - "[[Time Sampling]]"
   - "[[Field Notes]]"
   - "[[Qualitative Codebook]]"
   - "[[Intercoder Agreement]]"
@@ -50,7 +52,7 @@ updated: 2026-10-14
 ## 定义
 
 > [!def] 方法定义
-> 非[[Participant Observation\|参与观察]]是研究者不参与被观察群体活动、从外部保持距离地系统观察和记录行为的方法。与参与式观察不同，非参与观察者回避群体成员身份，保持研究者与研究对象之间的明确边界。在 Gold（1958）的观察者角色连续体中，非参与观察涵盖完全观察者和观察者即参与者两种角色（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al., 2011, Ch. 23, 23.1 节]]）。这一方法在[[Case Study\|个案研究]]、课堂观察和结构化行为[[Coding in Qualitative Research\|编码]]中广泛应用（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|Cohen et al., 2011, Ch14, pp. 291–292]]）。
+> 非[[Participant Observation\|参与观察]]是研究者不参与被观察群体活动、从外部保持距离地系统观察和记录行为的方法。与参与式观察不同，非参与观察者回避群体成员身份，保持研究者与研究对象之间的明确边界。在 Gold（1958）的观察者角色连续体中，非参与观察涵盖完全观察者和观察者即参与者两种角色（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al., 2011, Ch. 23, 23.1 节]]）。这一方法在[[Case Study\|个案研究]]、[[Classroom Observation|课堂观察]]和结构化行为[[Coding in Qualitative Research\|编码]]中广泛应用（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch14\|Cohen et al., 2011, Ch14, pp. 291–292]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 个体或群体的外显行为、互动模式、语言使用、空间布置和环境特征。
@@ -68,7 +70,7 @@ updated: 2026-10-14
 
 > [!method-stack] 方法层级
 > - **研究设计** [[Case Study\|个案研究]]、结构化[[Observation Method\|观察研究]]、纵向观察追踪、调查补充
-> - **数据收集** [[Structured Observation\|结构化观察]]表、时间抽样（如每三秒编码一次）、事件抽样、[[Field Notes\|田野笔记]]、视频/音频记录
+> - **数据收集** [[Structured Observation\|结构化观察]]表、[[Time Sampling|时间抽样]]（如每三秒编码一次）、事件抽样、[[Field Notes\|田野笔记]]、视频/音频记录
 > - **分析方法** 频数统计、序列分析、行为模式识别、类别比较
 > - **辅助技术** 观察表设计与试测、观察者培训、观察者间信度检验、[[Qualitative Codebook\|编码手册]]
 
@@ -76,7 +78,7 @@ updated: 2026-10-14
 
 > [!proc] 通用程序
 > 1. 确定观察焦点、行为类别和[[Coding in Qualitative Research\|编码]]系统，定义需要记录的具体行为及其[[Operationalization\|操作化]]指标
-> 2. 设计[[Structured Observation\|结构化观察]]表，明确时间抽样或事件抽样的规则
+> 2. 设计[[Structured Observation\|结构化观察]]表，明确[[Time Sampling|时间抽样]]或事件抽样的规则
 > 3. 培训观察者，确保[[Intercoder Agreement\|编码一致性]]和观察者间[[Reliability\|信度]]
 > 4. 在自然或半自然情境中实施观察，保持非参与地位，避免干扰被观察者
 > 5. 系统记录行为，按预定时间间隔或事件触发进行编码

@@ -12,7 +12,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 11
+fact_related_count: 10
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -35,7 +35,6 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Franklin D. Roosevelt]]"
-  - "[[Nikolas Rose]]"
   - "[[John Glenn]]"
 related_facts:
   - "[[Palantir Technologies]]"
@@ -44,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Federal Acquisition Streamlining Act of 1994
@@ -57,7 +56,7 @@ updated: 2026-10-14
 > - **发布时间 / 发布主体** 1994 年 10 月由美国第 103 届国会通过，总统比尔·克林顿（Bill Clinton）签署生效。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch13|(Karp & Zamiska, 2025, pp. 150–152)]]
 > - **适用地区 / 对象** 覆盖全体美国联邦行政机构，重点规范美国国防部（Department of Defense, DoD）及陆海空各军种采办部门。
 > - **深层历史积弊** [[Red Tape|繁文缛节]]与采购异化由来已久：1905 年西奥多·[[Franklin D. Roosevelt|罗斯福总统]]设立的基普委员会（Keep Commission）调查发现政府采购了 278 种笔和 28 种墨水；1980 年代媒体曝光海军采购 435 美元普通锤子与 400 美元驾驶舱塑料旋钮（源于共用管理费均摊核算法）；陆军更曾编制 700 多页的军用饼干技术规范（MIL-C-43205G），形成要求一切物资从零定制的官僚惯性。
-> - **直接立法导火索** 1990 年代初海湾战争期间，美国空军因严苛特殊的成本会计审计规定，无法合法采购市场上单价不足 20 美元的摩托罗拉成熟商用对讲机，最终被迫借道日本政府出资代购 6000 台设备转交美军；参议员威廉·[[Nikolas Rose|罗斯]]（William Roth）批评政府连在沃尔玛与凯马特（Kmart）随时可买到的商品都无法正常采购，推动克林顿政府将采购精简列入国家绩效评估（National Performance Review, NPR）核心议程。
+> - **直接立法导火索** 1990 年代初海湾战争期间，美国空军因严苛特殊的成本会计审计规定，无法合法采购市场上单价不足 20 美元的摩托罗拉成熟商用对讲机，最终被迫借道日本政府出资代购 6000 台设备转交美军；参议员威廉·罗斯（William Roth）批评政府连在沃尔玛与凯马特（Kmart）随时可买到的商品都无法正常采购，推动克林顿政府将采购精简列入国家绩效评估（National Performance Review, NPR）核心议程。
 
 ---
 

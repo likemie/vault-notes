@@ -11,7 +11,7 @@ aliases:
 summary: "资助方或放贷方在提供公共资金、优惠贷款或产业补贴时，依法或依契约向受助方施加的前置准入门槛、合规义务与制度重构约束。在超国家开发治理中，表现为主权借贷捆绑的宏观紧缩与体制改革条款（如世行与IMF的结构调整条件），其实际成效取决于借款国本土政治意愿而非外源性强制（Castro, 2009）；在现代国家产业战略中，表现为主权政府向受补贴私营企业绑定的公共价值护栏（劳工技能、托儿保障、禁止股票回购、超额利润分享与国家安全限制），旨在防范资本寻租并重塑公私社会契约（Reynolds, 2024）。"
 type: concept
 domain: "science-policy"
-related_count: 44
+related_count: 43
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -52,7 +52,6 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Claudio de Moura Castro]]"
-  - "[[Nikolas Rose]]"
   - "[[Mariana Mazzucato]]"
 related_facts:
   - "[[International Monetary Fund]]"
@@ -100,7 +99,7 @@ updated: 2026-10-15
 >
 > *Conditionalities, where government sets requirements on companies that receive public support... allow the public sector to direct support to broader societal goals and ensure public value creation, including [[Workforce Development]], childcare, profit sharing, and security guardrails.*
 
-> [!citation-card] [[Claudio de Moura Castro|卡斯特罗]]论多边开发贷款的附加条件与西奥多·[[Nikolas Rose|罗斯]]福大棒
+> [!citation-card] [[Claudio de Moura Castro|卡斯特罗]]论多边开发贷款的附加条件与西奥多·罗斯福大棒
 > 开发银行常常挥舞着政策附加条件的西奥多·罗斯福大棒。它们试图迫使借款国做那些该国本身并不想做的事情。但这就像是在“赶猫放牧”（Herding Cats）。在三分之一的项目中，附加条件导致了项目的彻底停摆……唯有当借款国部长本身渴望推行改革、并将银行条件作为对抗国内工会或既得利益的外部盾牌时，附加条件才能成为强大的建设性杠杆。克劳迪奥·德·莫拉·卡斯特罗（[[Argument_Castro_2009_MultilateralBanks|Castro, 2009, pp. 465–466]]）
 >
 > *Development banks often brandish the Theodore Roosevelt stick of conditionalities. They try to force countries to do things they don't want to do. But this is like herding cats... In one-third of the cases, conditionalities stall the loans... Only when the ministers themselves want to reform and use the bank's conditionalities as a scapegoat against domestic opposition, do conditionalities become powerful and constructive levers.*
@@ -245,7 +244,7 @@ updated: 2026-10-15
 > 探讨[[Multilateral Development Bank|多边开发银行]]的借贷附加条件为何在缺乏借款国自主改革意愿时极易陷入停摆与执行失败。
 
 > [!claim] [[Argument_Castro_2009_MultilateralBanks|Castro (2009)]]
-> **多边贷款附加条件与本土改革意愿的杠杆悖论** 在超国家主权借贷领域，多边开发银行习惯挥舞“西奥多·[[Nikolas Rose|罗斯]]福大棒”式的政策附加条件，试图迫使借款国推行其不愿主动采纳的结构性改革。但正如多边银行内部所形象描述的，这种单向度指令犹如“赶猫放牧”（Herding Cats），导致高达三分之一的贷款项目因附加条件冲突而彻底陷入瘫痪或严重延宕。历史实证表明，附加条件绝非能够凭空创造本土改革的万能灵药；只有当借款国核心改革派部长本身拥有强烈的本土改革意愿，并主动利用外部多边银行的借贷条件作为对抗国内既得利益工会和政治反对派的“外部护盾”与“挡箭牌”时，附加条件才能转化为推动实质性政策落地的有效杠杆。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 465–466)]]
+> **多边贷款附加条件与本土改革意愿的杠杆悖论** 在超国家主权借贷领域，多边开发银行习惯挥舞“西奥多·罗斯福大棒”式的政策附加条件，试图迫使借款国推行其不愿主动采纳的结构性改革。但正如多边银行内部所形象描述的，这种单向度指令犹如“赶猫放牧”（Herding Cats），导致高达三分之一的贷款项目因附加条件冲突而彻底陷入瘫痪或严重延宕。历史实证表明，附加条件绝非能够凭空创造本土改革的万能灵药；只有当借款国核心改革派部长本身拥有强烈的本土改革意愿，并主动利用外部多边银行的借贷条件作为对抗国内既得利益工会和政治反对派的“外部护盾”与“挡箭牌”时，附加条件才能转化为推动实质性政策落地的有效杠杆。[[Argument_Castro_2009_MultilateralBanks|(Castro, 2009, pp. 465–466)]]
 
 ---
 

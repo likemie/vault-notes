@@ -9,7 +9,7 @@ summary: "加拿大宗教学家、近代比较宗教学的先驱。在 1905 年�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 15
+person_related_count: 14
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -37,7 +37,6 @@ related_persons:
   - "[[William H. Payne]]"
   - "[[Harold Noah]]"
   - "[[Max Eckstein]]"
-  - "[[Nikolas Rose]]"
   - "[[Simon Somerville Laurie]]"
   - "[[Val D. Rust]]"
 related_facts: []
@@ -46,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Louis Henry Jordan
@@ -110,7 +109,7 @@ updated: 2026-10-14
 
 ## 历史评价
 
-> [!citation-card] [[Nikolas Rose|罗斯]]特等论乔丹对比较教育学“入驻大学即为科学”的历史见证
+> [!citation-card] 罗斯特等论乔丹对比较教育学“入驻大学即为科学”的历史见证
 > 乔丹在 1905 年的著作揭示出，比较教育学并非在战后才突然追求实证科学化；早在一进入大学建制之时，它就置身于世纪之交将比较方法视为普适科学法则的宏大知识风潮之中。（pp.126–127）[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 126–127)]]
 >
 > *If the example of Jordan serves us, we see that as comparative education entered the academy, it had already been identified with being a science.*

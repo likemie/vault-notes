@@ -55,6 +55,7 @@ related_methods:
   - "[[Transcription in Qualitative Research]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Triangulation]]"
+  - "[[Classroom Observation]]"
   - "[[Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments: []
@@ -167,7 +168,7 @@ updated: 2026-10-14
 > - **偏误来源** 参与者陈述的事后合理化修饰（post-hoc rationalization）与印象管理；行动本身的多重意义重叠且可能同时成立（Menzel, 1978）；研究者自身理论预设可能对本土陈述造成侵入性重构。
 > - **适用边界** 研究发现深度依赖于具体的微观文化语境与[[Social Episodes\|社会片段]]边界，缺乏跨情境的外推效度；难以直接解释宏观政治经济结构对微观行动的客观制约。
 > - **误用风险** 将参与者的言语陈述天真地视作直通心理真实的透明镜子；执念于挖掘某种唯一“正确”的客观意义（意义本质主义谬误）；忽视陈述生成过程中的权力博弈与意识形态扭曲。
-> - **补救方式** 结合[[Triangulation\|三角互证]]与[[Cross-checking\|交叉检查]]；兼顾行动者内部陈述与外部第三方的观察报告（Menzel, 1978）；将人因陈述与系统性课堂观察技术相辅相成（McIntyre & MacLeod, 1978）。
+> - **补救方式** 结合[[Triangulation\|三角互证]]与[[Cross-checking\|交叉检查]]；兼顾行动者内部陈述与外部第三方的观察报告（Menzel, 1978）；将人因陈述与系统性[[Classroom Observation|课堂观察]]技术相辅相成（McIntyre & MacLeod, 1978）。
 
 ---
 

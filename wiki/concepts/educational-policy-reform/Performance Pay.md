@@ -45,6 +45,7 @@ related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Random Assignment]]"
+  - "[[Classroom Observation]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
@@ -124,7 +125,7 @@ updated: 2026-10-07
 
 > [!feature] 核心要素
 > - **外在经济激励导向（Extrinsic Financial Incentive）** 将奖金或薪级晋升与特定指标挂钩，假定金钱报酬能直接调节教师的工作投入度与行为取向。[[Argument_Snook_2009_NZJES\|(Snook et al., 2009, p. 103)]]
-> - **量化产出绑定（Metric-Linked Output）** 高度依赖学生标准化考试成绩、增值评估模型（VAM）或标准化课堂观察量表作为判定教学优劣的客观凭据。
+> - **量化产出绑定（Metric-Linked Output）** 高度依赖学生标准化考试成绩、增值评估模型（VAM）或标准化[[Classroom Observation|课堂观察]]量表作为判定教学优劣的客观凭据。
 > - **管理层裁量权扩张（Managerial Discretion）** 打破国家或地方统一集资协商的薪酬阶梯，赋予校长与行政管理者依据考评结果自主奖惩的权力。
 > - **内在专业动机与利他认同排斥（[[Intrinsic vs Extrinsic Motivation\|intrinsic motivation]] & Professional Altruism Crowding-Out）** 教师劳动深受内在教学自尊与利他动机驱动，外部生硬的[[Random Assignment\|随机化]]经济刺激产生强烈的动机挤出与道德排异。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 55)]]
 > - **象征性政策挪用（Symbolic [[Policy Borrowing]]）** 决策者常借用外部高声望国际评估（如 [[PISA]]）声称其具有实证支撑，利用“遗漏[[Discourse|话语]]”掩盖不利证据以推行改革。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018, pp. 116–118)]]

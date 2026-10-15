@@ -51,6 +51,7 @@ related_methods:
   - "[[Survey Research]]"
   - "[[Case Study]]"
   - "[[Observation Protocol]]"
+  - "[[Time Sampling]]"
   - "[[Rating Scale]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Qualitative Observation]]"
@@ -332,7 +333,7 @@ Simpson & Tuson（2003, ch. 2）提出观察规划需考虑十四个方面（[[A
 > 于 20 世纪 20 年代后随行为心理学兴起，是以行为为样本的记录类型，较描述观察具有更好的客观性、可控性和有效性（[[Argument_QiMei_2015_EducationalResearchMethods\|齐梅, 2015]], Ch.3）。
 
 > [!feature] 取样观察的三种方法
-> - **时间取样法（Time Sampling）** 以时间为标准，专门观察和记录在特定时间内所发生的行为，主要记录行为呈现与否、呈现频率及持续时间
+> - **[[Time Sampling|时间取样法]]（Time Sampling）** 以时间为标准，专门观察和记录在特定时间内所发生的行为，主要记录行为呈现与否、呈现频率及持续时间
 > - **活动取样法（Activity Sampling）** 以活动作为选择标准，事先将活动分类，记录行为是否出现以及发生次数
 > - **事件取样法（Event Sampling）** 以行为或事件本身为测量单位，对某些特定行为或事件的完整过程进行观察，重点记录事件本身的特征
 

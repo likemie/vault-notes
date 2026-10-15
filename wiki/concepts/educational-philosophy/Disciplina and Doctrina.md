@@ -9,7 +9,7 @@ aliases:
 summary: "西方教育思想史上关于知识组织和传授的一对经典二元范式：disciplina 侧重既有知识的灌训与规训，doctrina 侧重知识的动态生产与开放更新。在当代超国家治理中，跨国测评与绩效排位赛作为强有力的远处规训机制（disciplina），将主权国家课程收拢至标准化常模，压制了本土关于教育目的的民主审议（Rizvi & Lingard, 2009）。"
 type: concept
 domain: "educational-philosophy"
-related_count: 33
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -44,7 +44,6 @@ related_theories:
   - "[[Governing at a Distance]]"
 related_methods: []
 related_persons:
-  - "[[Nikolas Rose]]"
   - "[[Martin Carnoy]]"
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
@@ -59,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-22
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Disciplina and Doctrina
@@ -77,7 +76,7 @@ updated: 2026-10-14
 > - **边界** 它不简单等同于“传统教学 vs. 现代教学”，而是在中世纪大学诞生起便并存的、组织人类 curiosity 的两种互补又对立的态度。
 
 > [!citation-card] 里兹维与林加德论跨国指标排位对[[State Educational Sovereignty|国家教育主权]]的远处规训
-> [[OECD|经合组织]]通过[[PISA|国际学生评估项目]]（PISA）建立起全球均一的测量等价空间，其政策效能不在于促进深层的教育哲学辩论，而在于借助公开绩效排位赛（[[Global Universities Rankings|league tables]]）对主权国家施加远处规训。正如[[Nikolas Rose|罗斯]]（Rose, 1999: 208）所言，“数字政策”的力量恰恰在于使数字背后的复杂判断隐形化并不容置疑，从而诱发国家政策恐慌（如德国“PISA 震荡”），迫使各国课程与教学向标准化技能测试全面对齐。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|(Rizvi & Lingard, 2009, pp. 447–448)]]
+> [[OECD|经合组织]]通过[[PISA|国际学生评估项目]]（PISA）建立起全球均一的测量等价空间，其政策效能不在于促进深层的教育哲学辩论，而在于借助公开绩效排位赛（[[Global Universities Rankings|league tables]]）对主权国家施加远处规训。正如罗斯（Rose, 1999: 208）所言，“数字政策”的力量恰恰在于使数字背后的复杂判断隐形化并不容置疑，从而诱发国家政策恐慌（如德国“PISA 震荡”），迫使各国课程与教学向标准化技能测试全面对齐。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|(Rizvi & Lingard, 2009, pp. 447–448)]]
 >
 > *PISA regards as crucially important its claim to comparability and a commensurate space of international comparison... most of the national and international media and political responses to PISA results are about the league tables of performance and comparative national positioning... policy as numbers tends to do this – the power of numbers is such that they 'render invisible and hence incontestable – the complex array of judgements and decisions that go into a measurement, a scale, a number'.*
 
@@ -160,7 +159,7 @@ updated: 2026-10-14
 > 探讨超国家机构如何通过标准化测评等价空间与“数字政策”机制，将主权国家教育实践收拢于远处规训，压制关于教育公共目的的本土民主协商。
 
 > [!claim] [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard (2009)]]
-> **跨国数字排位赛的远处规训与教育目的审议压制** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）揭示，[[PISA|国际学生评估项目]]（[[PISA]]）建立的全球“等价空间”（Desrosières, 1998）已成为一种新型的跨国远程规训装置（disciplina）。通过发布跨国绩效联赛榜，PISA 将成员国置于激烈的国际竞争中，诱发国内政策恐慌（如德国 2000 年后的“PISA 震荡”），并迫使主权国家教育体系按照经合组织的技能范畴进行课程与教学对齐。援引[[Nikolas Rose|罗斯]]（Rose, 1999: 208）的[[Governing by Numbers|数字治理]]洞见，他们强调“数字政策”通过技术化外观将测评背后高度复杂的价值判断“隐形化并不容置疑”，从而剥夺了公众和专业共同体对教育本质、文化传承与社会正义等[[Open-Mindedness|开放性]]议题进行反思与民主辩论的空间（doctrina），使教育完全屈从于[[Knowledge-Based Economy|知识经济]]的人力资本规训。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
+> **跨国数字排位赛的远处规训与教育目的审议压制** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）揭示，[[PISA|国际学生评估项目]]（[[PISA]]）建立的全球“等价空间”（Desrosières, 1998）已成为一种新型的跨国远程规训装置（disciplina）。通过发布跨国绩效联赛榜，PISA 将成员国置于激烈的国际竞争中，诱发国内政策恐慌（如德国 2000 年后的“PISA 震荡”），并迫使主权国家教育体系按照经合组织的技能范畴进行课程与教学对齐。援引罗斯（Rose, 1999: 208）的[[Governing by Numbers|数字治理]]洞见，他们强调“数字政策”通过技术化外观将测评背后高度复杂的价值判断“隐形化并不容置疑”，从而剥夺了公众和专业共同体对教育本质、文化传承与社会正义等[[Open-Mindedness|开放性]]议题进行反思与民主辩论的空间（doctrina），使教育完全屈从于[[Knowledge-Based Economy|知识经济]]的人力资本规训。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 447–448)]]
 
 ---
 

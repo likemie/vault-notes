@@ -53,6 +53,7 @@ related_theories:
   - "[[Complexity Theory]]"
   - "[[Path Dependence]]"
 related_methods:
+  - "[[Classroom Observation]]"
   - "[[Winnowing]]"
   - "[[Action Research]]"
   - "[[Triangulation]]"
@@ -113,7 +114,7 @@ updated: 2026-10-12
 
 > [!boundary]- 概念边界与质保模式辨析
 > - **School Inspection（学校督导）vs Test-Based Accountability（基于测试的问责）**
->   - 后者纯粹依赖统一标准化测验分数（如考绩排列表、附加值指标），实施算法化远程监控；前者则依托专业督学开展质性实地走访、课堂观察与质询，给出定性等级报告。现代治理常将二者混合，即用测试[[Winnowing\|数据筛选]]重点督查对象。
+>   - 后者纯粹依赖统一标准化测验分数（如考绩排列表、附加值指标），实施算法化远程监控；前者则依托专业督学开展质性实地走访、[[Classroom Observation|课堂观察]]与质询，给出定性等级报告。现代治理常将二者混合，即用测试[[Winnowing\|数据筛选]]重点督查对象。
 > - **Punitive Inspection（惩罚性问责督导）vs Diagnostic-Supportive Inspection（诊断支持型督导）**
 >   - 前者（以英国教育标准办公室（Office for Standards in Education, Children's Services and Skills, [[Ofsted]]）为代表）将督导等第与撤换校长、强制转制挂钩，制造恐慌与表演性合规；后者（以德国学校视导／督导 Schulinspektion / Schulvisitation 为代表）侧重对全州所有学校开展办学条件与教学过程的普查式诊断，指导行政部门定点帮扶，利害性较低而治理指导性更强。
 > - **Punitive Inspection（惩罚性督导）vs Dialogical Target-Agreement Inspection（目标协定对话型督导）**

@@ -99,7 +99,6 @@ related_instruments:
   - "[[Heilmeier Catechism]]"
 related_persons:
   - "[[Michael Kratsios]]"
-  - "[[Nikolas Rose]]"
   - "[[Franklin D. Roosevelt]]"
   - "[[Vannevar Bush]]"
   - "[[Donald Stokes]]"
@@ -148,7 +147,7 @@ title: "Argument_Kratsios_2026_OSTP"
 argument_key: "Argument_Kratsios_2026_OSTP"
 argument_display_title: "Science: A new golden age (Report to the President)"
 argument_kind: "report"
-argument_related_count: 111
+argument_related_count: 110
 argument_related_level: 6
 argument_related_stars: "⭐⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -180,7 +179,7 @@ issuing_organization: "Office of Science and Technology Policy"
 > [!policy-context] 总统科技战略委托背景档案
 > - **委托主体与受命者** 2025 年 3 月 26 日唐纳德·特朗普（Donald J. Trump）总统致信[[Office of Science and Technology Policy|白宫科学技术政策办公室]]（[[Office of Science and Technology Policy]], OSTP）主任[[Michael Kratsios|迈克尔·克拉齐奥斯]]（Michael J. Kratsios）。（pp. viii–ix）
 > - **核心使命诉求** 回答如何保持关键新兴技术领先、如何减轻科研行政羁绊以释放突破潜能、如何确保科技红利惠及全体国民三大关切。（pp. viii–ix）
-> - **历史对照坐标** 全面对照 1945 年富兰克林·[[Nikolas Rose|罗斯]]福（[[Franklin D. Roosevelt]]）总统致[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）的战后科学战略委托。（pp. viii–ix）
+> - **历史对照坐标** 全面对照 1945 年富兰克林·罗斯福（[[Franklin D. Roosevelt]]）总统致[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）的战后科学战略委托。（pp. viii–ix）
 > - **十年衡量基准** 2026 年 7 月报告将[[Success Criteria|成功标准]]确立为：十年后美国学者能够确信，曾经受阻而无法探究的关键科学难题，如今已获充分的探索自由。（p. vi）
 
 ---

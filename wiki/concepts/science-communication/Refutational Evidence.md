@@ -46,7 +46,8 @@ related_methods:
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"
   - "[[Correlational Research]]"
-related_instruments: []
+related_instruments:
+  - "[[Framework for Teaching]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -104,7 +105,7 @@ updated: 2026-09-22
 > - **概念转变沟通框架（Conceptual Change Framework）** 借鉴认知发展心理学规律，反驳性证据必须分步推进：
 >   1. 唤醒对既有假说局限的温和认知冲突；
 >   2. 深入剖析迷思产生的直觉心理机制（如为何学习风格听起来如此合理）；
->   3. 提供逻辑连贯且具可行性的替代教学框架（Vosniadou, 2013）。
+>   3. 提供逻辑连贯且具可行性的替代[[Framework for Teaching|教学框架]]（Vosniadou, 2013）。
 > - **双轨叙事结构（Dual-Track Narrative Strategy）** 成功的科学传播文本必须保持“证伪事实陈述（30%）+ 建设性操作指引（70%）”的黄金结构，避免纯粹居高临下的挑错批判。
 
 > [!logic-map]- 反驳性证据的心理反应路径与概念转变沟通机制

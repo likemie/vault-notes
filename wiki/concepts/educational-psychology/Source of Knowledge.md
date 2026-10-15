@@ -52,7 +52,8 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Correlational Research]]"
-related_instruments: []
+related_instruments:
+  - "[[Framework for Teaching]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -192,7 +193,7 @@ updated: 2026-09-23
 >
 > | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与检验 | 关键解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预措施分类：聚焦于显性信源评估（讲授作者资质、机构背景与可[[Reliability\|信度]]鉴别）教学对[[Academic Achievement\|学业成就]]的影响 | 2 项（2 个[[Effect Size\|效应量]]） / 182 | Cohen's $d$，随机效应模型 | 总体效应 $d = 0.800$ $[0.625, 0.974]$ | 组内异质性 $Q(1) = 0.232, p = .630$；框架间组间差异显著 | 信源评估作为核心教学框架表现出突出的高效应量，实证支持了显性规则教学对突破外部权威依赖的因果价值 |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预措施分类：聚焦于显性信源评估（讲授作者资质、机构背景与可[[Reliability\|信度]]鉴别）教学对[[Academic Achievement\|学业成就]]的影响 | 2 项（2 个[[Effect Size\|效应量]]） / 182 | Cohen's $d$，随机效应模型 | 总体效应 $d = 0.800$ $[0.625, 0.974]$ | 组内异质性 $Q(1) = 0.232, p = .630$；框架间组间差异显著 | 信源评估作为核心[[Framework for Teaching\|教学框架]]表现出突出的高效应量，实证支持了显性规则教学对突破外部权威依赖的因果价值 |
 > | 同上 | [[Epistemic Cognition\|认识论认知]]干预全局：包含知识来源内化与信源评估的多维教学干预总体学业效应 | 28 篇（59 个效应量） / 4,373 | Cohen's $d$，随机效应模型 | 总体效应 $d = 0.509$ $[0.334, 0.684]$ | $Q(58) = 459.739, p < .001$；学段组间 $Q_b = 6.273, p < .05$ | 证实重塑学生对知识来源的理解并配套探究支架，对学业成就具有中等强度的稳健因果促进效应 |
 
 ---

@@ -97,6 +97,7 @@ related_instruments:
   - "[[PRISMA]]"
   - "[[Mixed Methods Appraisal Tool]]"
   - "[[Torrance Tests of Creative Thinking]]"
+  - "[[Framework for Teaching]]"
   - "[[Alternate Uses Test]]"
 related_persons:
   - "[[Socrates]]"
@@ -326,7 +327,7 @@ issuing_organization: ""
 > | **赋能机制** | **结构与表达脚手架（n = 24）** | EFL 英语学术写作、文学创意、跨体裁转写 | 语言支架介入、多轮草稿迭代修改 | Avsheniuk et al. (2024); Kurt & Kurt (2024); Tseng & Lin (2024); Werdiningsih et al. (2024) |
 > | **赋能机制** | **对话互动与视角转换（n = 18）** | 议题辩论模拟、跨学科探究、[[Role-playing\|角色扮演]]设计 | 提示词角色设计、多视角反思交互循环 | Lee et al. (2024); Darmawansah et al. (2025); [[Argument_Li_2025_HSSC\|Li et al. (2025)]]; Cake (2025) |
 > | **赋能机制** | **情感激活与焦虑缓解（n = 16）** | 故事叙述构思、创意剧本策划、开放叙事任务 | 任务表达性构架、探索[[Open-Mindedness\|开放性]]、心理安全感 | George-Reyes et al. (2024); Gervacio (2024); Jayasinghe (2024); Alzubi et al. (2025); Kofahi & Husain (2025) |
-> | **赋能机制** | **[[Structured Teaching\|结构化教学]]介导增益（n = 21）** | 翻转课堂、基于设计的学习、ADDIE 教学模型 | 显性教学框架、反思性提示、创意评估量规 | Li (2023); Abdelmagid et al. (2025) |
+> | **赋能机制** | **[[Structured Teaching\|结构化教学]]介导增益（n = 21）** | 翻转课堂、基于设计的学习、ADDIE 教学模型 | 显性[[Framework for Teaching\|教学框架]]、反思性提示、创意评估量规 | Li (2023); Abdelmagid et al. (2025) |
 > | **风险限制** | **过度依赖与创造被动（n = 20）** | 期末论文写作、常规作业应付、通用学术任务 | 低 AI 素养、缺乏教学指导、直接采纳答案 | Awal (2024); Azmi et al. (2024); Zhang et al. (2024) |
 > | **风险限制** | **个人声音剥落与真实性丧失（n = 15）** | 反思性日记、个性化叙事、情感表达写作 | 身份认同导向任务、缺乏个性化文风保留训练 | Monib et al. (2025); Al-Alami (2024) |
 > | **风险限制** | **迭代探索抑制与早熟收敛（n = 13）** | 剧本修改、方案再设计、深度概念迭代 | 缺乏后续反馈循环、浅尝辄止、首选方案锁定 | Boers et al. (2025) |
@@ -452,7 +453,7 @@ issuing_organization: ""
 ## 关键引用
 
 > [!citation-card]- 教学设计决定认知走向
-> 这些研究发现表明，ChatGPT 对学生认知的影响并非该工具自身所固有，而是依存于教学框架、任务设计和[[Scaffolding\|教学脚手架]]。在缺乏教学支架的情境中，研究者观察到[[Creativity\|创造力]]优于[[Critical Thinking\|批判性思维]]的非对称模式以及双重认知侵蚀，二者往往都由[[Cognitive Offloading\|认知卸载]]所引发。（pp. 1, 10）
+> 这些研究发现表明，ChatGPT 对学生认知的影响并非该工具自身所固有，而是依存于[[Framework for Teaching|教学框架]]、任务设计和[[Scaffolding\|教学脚手架]]。在缺乏教学支架的情境中，研究者观察到[[Creativity\|创造力]]优于[[Critical Thinking\|批判性思维]]的非对称模式以及双重认知侵蚀，二者往往都由[[Cognitive Offloading\|认知卸载]]所引发。（pp. 1, 10）
 >
 > *These divergent findings suggest that the influence of ChatGPT on student cognition is not intrinsic to the tool itself but contingent upon pedagogical framing, task design, and instructional scaffolding... unstructured implementation frequently led to asymmetrical or diminished cognitive engagement.*
 

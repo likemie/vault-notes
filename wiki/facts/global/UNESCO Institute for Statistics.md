@@ -30,6 +30,7 @@ related_concepts:
   - "[[Data Infrastructure]]"
   - "[[International Education]]"
   - "[[Reliability]]"
+  - "[[Learning Crisis]]"
   - "[[Commensuration]]"
   - "[[International Large-Scale Assessments]]"
 related_theories: []
@@ -105,7 +106,7 @@ updated: 2026-09-18
 > [!finding-cards] 核心产品与业务矩阵
 > - **统计标准体系** [[International Education\|国际教育]]标准分类法（ISCED）——全球各国可比教育数据的分类母体基准，自 1976 年首版至 2011 年修订，确保从学前至博士全学段的跨国数据可比性。
 > - **数据库与监测平台** UIS Databank（全球官方教育统计权威数据库）；[[UN Sustainable Development Goals\|SDG 4]] 监测指标时间序列库（覆盖近十项 SDG 4 全球监测指标）；全球教育流数据库（[[OECD]]/UIS 合作）。
-> - **旗舰分析出版物** 与《[[Global Education Monitoring Report\|全球教育监测报告]]》（GEMR）联合编制的全球数据附件；年度《教育数据快讯》（Education Data Digest）；专题研究报告（如学习贫困测算、教育不平等 GPI 系数分析等）。
+> - **旗舰分析出版物** 与《[[Global Education Monitoring Report\|全球教育监测报告]]》（GEMR）联合编制的全球数据附件；年度《教育数据快讯》（Education Data Digest）；专题研究报告（如[[Learning Crisis|学习贫困]]测算、教育不平等 GPI 系数分析等）。
 > - **技术援助** 向撒哈拉以南非洲和小岛屿国家提供数据系统能力建设支持，帮助其完善行政教育统计收集机制。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 543)]]
 
 ---
@@ -139,7 +140,7 @@ updated: 2026-09-18
 > > - **方法论回应** ISCED 2011 修订版新增"早期儿童教育"（ISCED 0）和"短周期高等教育"（ISCED 5）等更细分类别，以更好地捕捉非西方情境的多样性。
 
 > [!warning] 适用局限
-> UIS 数据依赖各国政府主动上报，且各国统计能力差异悬殊；统计数字背后的质量（如学生实际学到什么）远非官方数字所能揭示——这一"学习危机"（Learning Crisis）正是[[Global Education Monitoring Report\|GEMR]]、[[World Bank\|世界银行]]"学习贫困"等独立评估工具试图弥补的根本缺口。
+> UIS 数据依赖各国政府主动上报，且各国统计能力差异悬殊；统计数字背后的质量（如学生实际学到什么）远非官方数字所能揭示——这一"[[Learning Crisis|学习危机]]"（Learning Crisis）正是[[Global Education Monitoring Report\|GEMR]]、[[World Bank\|世界银行]]"学习贫困"等独立评估工具试图弥补的根本缺口。
 
 ---
 

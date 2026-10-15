@@ -127,7 +127,7 @@ updated: 2026-10-10
 > | **社会制图学**<br>[[Social Cartography]] | 吸收[[Rolland Paulston\|罗兰·保尔斯顿]]（Rolland Paulston）的认知制图方法，用平铺的学术地图展示并列共存的多元理论范式，破除线性演进历史观对边缘经验的抹杀。 |
 
 > [!warrant]- 空间理论与教育制度分析的结合路径
-> 这套理论工具将宏观的权力批判落实到具体的学校日常机制中：[[Nikolas Rose|罗斯]]的[[Spatial Governmentality|空间治理术]]视角指明，现代学校并不是简单的教书场所，而是通过围墙、教室、固定作息与学籍管理，把儿童固定在特定区域内的[[Disciplina and Doctrina|规训]]技术；波普科维茨的[[Two Problematics of Educational Inclusion and Exclusion|双重问题式]]则进一步指出，仅仅增加教育经费或降低学费并不能消除不平等，因为学校在制度观念中早已把特定群体的流动预设为不正常或有缺陷，这种文化偏见构成了更难以察觉的深层排斥。（pp. 360–361, 367–368）
+> 这套理论工具将宏观的权力批判落实到具体的学校日常机制中：罗斯的[[Spatial Governmentality|空间治理术]]视角指明，现代学校并不是简单的教书场所，而是通过围墙、教室、固定作息与学籍管理，把儿童固定在特定区域内的[[Disciplina and Doctrina|规训]]技术；波普科维茨的[[Two Problematics of Educational Inclusion and Exclusion|双重问题式]]则进一步指出，仅仅增加教育经费或降低学费并不能消除不平等，因为学校在制度观念中早已把特定群体的流动预设为不正常或有缺陷，这种文化偏见构成了更难以察觉的深层排斥。（pp. 360–361, 367–368）
 
 ---
 

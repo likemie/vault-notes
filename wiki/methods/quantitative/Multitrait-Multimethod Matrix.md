@@ -41,6 +41,7 @@ related_methods:
   - "[[Multimethod Research]]"
   - "[[Confirmatory Factor Analysis]]"
   - "[[Questionnaire]]"
+  - "[[Classroom Observation]]"
   - "[[Pearson Product-Moment Correlation]]"
   - "[[Causal Modeling]]"
   - "[[Chi-Squared Test]]"
@@ -90,7 +91,7 @@ updated: 2026-09-17
 
 > [!method-stack] 方法层级
 > - **研究设计** 多特质多方法交叉测量设计、多评价者重叠审查设计。
-> - **数据收集** [[Questionnaire\|问卷调查]]、标准化测验、课堂观察、档案审查、清算中心数据库元数据爬取。
+> - **数据收集** [[Questionnaire\|问卷调查]]、标准化测验、[[Classroom Observation|课堂观察]]、档案审查、清算中心数据库元数据爬取。
 > - **分析方法** Pearson [[Pearson Product-Moment Correlation\|积差相关]]矩阵分析、[[Confirmatory Factor Analysis\|验证性因子分析]]（CFA-MTMM 模型）、相关系数差异显著性检验。
 > - **辅助技术** 矩阵热力图可视化、[[Causal Modeling\|结构方程建模]]（SEM）、跨平台配对[[Chi-Squared Test\|卡方检验]]。
 

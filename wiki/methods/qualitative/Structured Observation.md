@@ -9,7 +9,7 @@ summary: "一种高度系统化的观察方法，研究者预先设计观察类�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 21
+method_related_count: 20
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -33,15 +33,17 @@ related_concepts:
   - "[[Causality]]"
 related_methods:
   - "[[Coding in Qualitative Research]]"
+  - "[[Observation Protocol]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Rating Scale]]"
+  - "[[Time Sampling]]"
   - "[[Triangulation]]"
   - "[[Correlational Research]]"
+  - "[[Classroom Observation]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
   - "[[Argument_WorldBank_2019_Teach]]"
-related_instruments:
-  - "[[Teach Classroom Observation Tool]]"
+related_instruments: []
 related_facts:
   - "[[World Bank]]"
 status: draft
@@ -56,7 +58,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 方法定义
-> 结构化观察是一种高度系统化的观察方法，研究者预先知道要寻找什么（预设性观察，pre-ordinate），事先制定互斥且全面的观察类别，在固定时间间隔内以标准[[Coding in Qualitative Research\|编码]]方式记录目标行为的发生或不发生。观察者采取被动、非侵入性角色，仅记录所研究因素的发生情况，将观察结果填入观察计划表（observation schedule）。结构化观察生成数值数据，便于跨环境比较以及计算频率、模式和趋势。它是[[Hypothesis\|假设]]验证性的，与非结构化观察的假设生成性形成对照（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al., 2011, Ch. 23, 23.1–23.2 节]]）。
+> 结构化观察是一种高度系统化的观察方法，研究者预先知道要寻找什么（预设性观察，pre-ordinate），事先制定互斥且全面的观察类别，在固定时间间隔内以标准[[Coding in Qualitative Research\|编码]]方式记录目标行为的发生或不发生。观察者采取被动、非侵入性角色，仅记录所研究因素的发生情况，将观察结果填入观察计划表（[[Observation Protocol|observation schedule]]）。结构化观察生成数值数据，便于跨环境比较以及计算频率、模式和趋势。它是[[Hypothesis\|假设]]验证性的，与非结构化观察的假设生成性形成对照（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al., 2011, Ch. 23, 23.1–23.2 节]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 可被[[Operationalization\|操作化]]定义且可直接观察的外显行为、事件和互动。
@@ -128,7 +130,7 @@ Dyer（1995, pp. 181–186）提出了结构化观察设计的完整框架：
 
 > [!feature] 结构化观察的五种数据记录方式
 > - **事件取样（Event Sampling）** 又称符号系统（sign system）。每次观察到目标行为即在对应陈述旁打计数符号。用于了解频率或发生率，便于比较。核心局限是无法确定事件发生的时间顺序：同样的计数符号按不同时间顺序排列，可讲出截然不同的故事。例如同样的教师对孩子喊叫5次、孩子对教师喊叫3次的数据，一种排列显示教师只有在被激怒时才喊叫，另一种排列则显示教师才是喊叫的发起者
-> - **瞬时取样（Instantaneous Sampling）** 又称时间取样（time sampling）。研究者在标准时间间隔的精确瞬间（如每30秒）记录那一刻正在发生什么。关键优势在于保留了事件的时间顺序
+> - **瞬时取样（Instantaneous Sampling）** 又称时间取样（[[Time Sampling]]）。研究者在标准时间间隔的精确瞬间（如每30秒）记录那一刻正在发生什么。关键优势在于保留了事件的时间顺序
 > - **间隔记录（Interval Recording）** 在固定间隔记录前一个间隔内发生的情况。可计算频率、观察简单模式和近似顺序，但间隔内若发生多个事件，具体顺序会丢失。Wilkinson（2000, p. 236）区分了全间隔记录（行为持续整个间隔才记录）和部分间隔记录（行为占据部分间隔即记录）
 > - **[[Rating Scale\|评定量表]]** 研究者对所观察的事件做出判断，填入评定量表（如1–5点）。例如 Wragg（1994）建议将教学行为放在连续体上（热情—冷漠、启发性—沉闷、认真严谨—马虎敷衍）。涉及从低推断到较高程度推断的转变，可能引入[[Halo Effect\|光环效应]]、集中趋势、近因效应等不可靠来源。Simpson & Tuson（2003, pp. 42–44）建议确保：类别充分覆盖目标行为范围，锚定语句充分描述各量表点的可能范围，观察说明足够明确使独立观察者以相同方式完成计划表
 > - **持续时间记录（Duration Recording）** 当行为持续时间很长、会溢出标准间隔或事件类别时使用。观察由事件驱动而非观察频率驱动，记录行为的总持续时间
@@ -189,4 +191,4 @@ Dyer（1995, pp. 181–186）提出了结构化观察设计的完整框架：
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al. (2011, Ch. 23)]] — 教材专章系统介绍结构化观察的设计原则、观察计划表、五种数据记录方式、Dyer（1995）设计清单以及分析方法。（23.2–23.4 节）
-> - [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] — [[World Bank|世界银行]]开发并标准化 [[Teach Classroom Observation Tool|Teach]] 课堂观察工具，结合快照时间抽样（低推论）与 5 点行为评定规程（高推论），在多国实证课堂中系统测量教学时间分配与教学实践质量。
+> - [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] — [[World Bank|世界银行]]开发并标准化 Teach [[Classroom Observation|课堂观察]]工具，结合快照[[Time Sampling|时间抽样]]（低推论）与 5 点行为评定规程（高推论），在多国实证课堂中系统测量教学时间分配与教学实践质量。

@@ -44,6 +44,7 @@ related_methods:
   - "[[Accounts]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Ethogenic Approach]]"
+  - "[[Classroom Observation]]"
   - "[[Qualitative Research]]"
   - "[[Correlational Research]]"
 related_instruments:
@@ -137,7 +138,7 @@ updated: 2026-10-14
 
 ### 命题二　事件分析法与当事人叙事彻底颠覆实验室受控编码的机械假象
 
-拟人化模型不仅停留在哲学批判层面，更催生了具体[[Operationalization|操作化]]的质性方法论——事件分析法（[[Ethogenic Approach|ethogenic method]]）。在传统量化课堂观察中，研究者依托预设的机械系统对师生言语进行高频切片记录（例如[[Flanders Interaction Analysis Categories|弗兰德斯互动分析系统]] [[Flanders Interaction Analysis Categories|FIAC]]）。德拉蒙特（Delamont, 1976）以及沃克与阿德尔曼（Walker & Adelman, 1975）在教材 Box 1.5 所复刻的经典“草莓事件”（strawberries episode）生动揭示了这种机械[[Coding in Qualitative Research|编码]]的认识论破产：当学生面对教师训话突然喊出“草莓！草莓！”并引发全班哄堂大笑时，FIAC 机械编码记录下的“7-4-9-10”序列完全无法解释为何这一打断是幽默的。唯有借助拟人化模型，深入调取师生随时间演进而共享的历史[[Tacit Knowledge|默会知识]]（教师曾调侃学生[[Homework|作业]]“像草莓一样好，但保鲜时间太短”），才能真正洞悉这一社会事件的内生秩序。
+拟人化模型不仅停留在哲学批判层面，更催生了具体[[Operationalization|操作化]]的质性方法论——事件分析法（[[Ethogenic Approach|ethogenic method]]）。在传统量化[[Classroom Observation|课堂观察]]中，研究者依托预设的机械系统对师生言语进行高频切片记录（例如[[Flanders Interaction Analysis Categories|弗兰德斯互动分析系统]] [[Flanders Interaction Analysis Categories|FIAC]]）。德拉蒙特（Delamont, 1976）以及沃克与阿德尔曼（Walker & Adelman, 1975）在教材 Box 1.5 所复刻的经典“草莓事件”（strawberries episode）生动揭示了这种机械[[Coding in Qualitative Research|编码]]的认识论破产：当学生面对教师训话突然喊出“草莓！草莓！”并引发全班哄堂大笑时，FIAC 机械编码记录下的“7-4-9-10”序列完全无法解释为何这一打断是幽默的。唯有借助拟人化模型，深入调取师生随时间演进而共享的历史[[Tacit Knowledge|默会知识]]（教师曾调侃学生[[Homework|作业]]“像草莓一样好，但保鲜时间太短”），才能真正洞悉这一社会事件的内生秩序。
 
 ### 命题三　行动能动性与无意识心理、客观权力结构的现实交锋
 
@@ -162,4 +163,4 @@ updated: 2026-10-14
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 18)]] — 系统介绍拟人化模型、人的科学运动以及对传统实证心理学行为主义模型的批判。 [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen, Manion & Morrison (2011)]] — 贯穿课堂观察与事件分析章节，深入剖析师生微观互动的意义阐释机制。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 18)]] — 系统介绍拟人化模型、人的科学运动以及对传统实证心理学行为主义模型的批判。 [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen, Manion & Morrison (2011)]] — 贯穿[[Classroom Observation|课堂观察]]与事件分析章节，深入剖析师生微观互动的意义阐释机制。

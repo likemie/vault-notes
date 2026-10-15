@@ -122,6 +122,7 @@ related_methods:
   - "[[Documentary Analysis]]"
   - "[[Structured Observation]]"
   - "[[Observation Protocol]]"
+  - "[[Time Sampling]]"
   - "[[Random Assignment]]"
   - "[[Random Sampling]]"
   - "[[Pre-test and Post-test]]"
@@ -487,7 +488,7 @@ updated: 2026-09-18
 > | 示例 | [[Jean Piaget\|皮亚杰]]以自己三个孩子为观察对象，出版《儿童智力的起源》等三本著作 | 三岁幼儿推理：将"洪水"理解为"西瓜里流出来的汤"，展现归纳、演绎和类比推理 | 记录乡村教师一天工作；持续一周记录幼儿入园后半小时的行为和情绪状态 |
 
 > [!contrast-table] 取样观察的三种方法
-> | 维度 | 时间取样法 | 活动取样法 | 事件取样法 |
+> | 维度 | [[Time Sampling\|时间取样法]] | 活动取样法 | 事件取样法 |
 > |---|---|---|---|
 > | 取样标准 | 以时间为标准 | 以活动为标准 | 以行为或事件本身为标准 |
 > | 记录内容 | 行为呈现与否、呈现频率及持续时间 | 行为是否出现以及行为发生的次数 | 事件本身的特征和完整过程 |

@@ -12,7 +12,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 34
+fact_related_count: 33
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -54,7 +54,6 @@ related_methods:
   - "[[Questionnaire]]"
 related_instruments: []
 related_persons:
-  - "[[Nikolas Rose]]"
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
 related_facts:
@@ -70,7 +69,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # World Education Indicators
@@ -85,7 +84,7 @@ updated: 2026-10-14
 > [!program-context] 项目背景
 > - **立项时间与周期** 1997 年正式联合启动，历经多轮跨国统计数据采集与小学专项调查，持续运行至 2000 年代中后期，其指标方法论随后深度融入联合国教科文组织统计研究所的常态化全球统计监测网络，并为非成员国直接参与经合组织的[[PISA|国际学生评估项目]]（PISA）铺平了道路。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444)]]
 > - **发起方与资助机制** 由经合组织、联合国教科文组织统计研究所与世界银行三方共同治理。世界银行提供核心项目启动资金与政策借贷支持，联合国教科文组织统计研究所提供多边协调网络与全球数据平台，经合组织则输出其依托[[International Indicators of Education Systems|国际教育指标体系]]（INES）积累的专业统计技术与[[Analytic Framework|分析框架]]。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 443–444, 447)]]
-> - **覆盖范围与对象** 聚焦处于快速社会经济转型与工业化阶段的非成员经济体（Non-Member Economies, NME），主要涵盖中国、印度、巴西、阿根廷、智利、埃及、印度尼西亚、约旦、马来西亚、巴拉圭、秘鲁、菲律宾、俄[[Nikolas Rose|罗斯]]、斯里兰卡、泰国、突尼斯、乌拉圭和津巴布韦等十余个代表性发展中国家和转型国家，其学龄人口总规模占据全球发展中国家的极大比重。
+> - **覆盖范围与对象** 聚焦处于快速社会经济转型与工业化阶段的非成员经济体（Non-Member Economies, NME），主要涵盖中国、印度、巴西、阿根廷、智利、埃及、印度尼西亚、约旦、马来西亚、巴拉圭、秘鲁、菲律宾、俄罗斯、斯里兰卡、泰国、突尼斯、乌拉圭和津巴布韦等十余个代表性发展中国家和转型国家，其学龄人口总规模占据全球发展中国家的极大比重。
 > - **核心问题导向** 伴随冷战结束与经济全球化加速，经合组织认识到仅在发达成员国内部协调政策已不足以维系整体经济[[Competitiveness|竞争力]]，必须建立对快速崛起的转型大国教育[[Human Capital Theory|人力资本]]储备与系统绩效的跨国量化监控基准；同时，转型国家在面临融入全球市场经济的压力时，亦存在获取国际公认指标技术以开展自身政策审视与吸引外部投资的制度性需求。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 442–443)]]
 
 ---

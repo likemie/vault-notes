@@ -10,9 +10,9 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety_Ch01"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety_Ch01"
 argument_display_title: "Chapter one: Education"
 argument_kind: "book-chapter"
-argument_related_count: 60
-argument_related_level: 4
-argument_related_stars: "⭐⭐⭐⭐"
+argument_related_count: 59
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
 issuing_organization: The Royal Society
 year: 2026
@@ -77,8 +77,7 @@ related_theories: []
 related_methods:
   - "[[Case Study]]"
   - "[[Design-Based Research]]"
-related_instruments:
-  - "[[Teach Classroom Observation Tool]]"
+related_instruments: []
 related_persons: []
 related_facts:
   - "[[Bodmer Report 1985]]"
@@ -288,7 +287,7 @@ updated: 2026-10-11
 > [!case] 案例研究：爱沙尼亚 STEM 教育重构经验（Re-engineering [[STEM Education]] in Estonia）
 > - **案例背景与国际标杆地位** 详见 [[Estonian STEM Education Model\|爱沙尼亚科学教育模式]]：爱沙尼亚在多次经合组织（OECD）[[PISA]] 国际测评的 科学素养 与数学测试中常年位居全欧洲榜首；尤为关键的是，在所有 OECD 成员国中，爱沙尼亚家庭社会经济背景对学生[[Academic Achievement\|学业成就]]的不利影响程度为全欧最低，成功实现了卓越学术质量与高度教育公平的统一。（p. 31）
 > - **宏观宽大纲与去微观规制** 国家层面仅制定宽广的宏观课程框架（Broad Curricular Framework）与核心素养标准，彻底摒弃自上而下的微观教学进度规制与机械考评指标，不规定逐课死板大纲，为学校和教师留出充分的[[Going Native\|本土化]]课程再创造空间。
-> - **教师高度专业赋权（Professional Agency）** 赋予一线教师在教学方法（How they [[Teach Classroom Observation Tool|Teach]]）上的极大自主权与决策弹性。教师可根据学生的认知兴趣与当地社区资源，自主选择教材版本、设计动手探究实验并组织跨学科 STEM 课题，营造出对师生双方均具高度激发性的课堂文化。（p. 36）
+> - **教师高度专业赋权（Professional Agency）** 赋予一线教师在教学方法（How they Teach）上的极大自主权与决策弹性。教师可根据学生的认知兴趣与当地社区资源，自主选择教材版本、设计动手探究实验并组织跨学科 STEM 课题，营造出对师生双方均具高度激发性的课堂文化。（p. 36）
 > - **数字化与技术生态早期深度融合** 依托虎跃计划（Tiigrihüpe）等前瞻战略，早期在全境基础教育中全面普及编程、[[Computational Thinking\|算法思维]]与机器人探究，将数字技术作为科学探究的天然工具，培养了高度适应未来科技变革的数字一代。
 > - **对英国师资队伍建设的核心启示** 实证证明，提升教师的专业自主权、社会地位与制度信任，是破除理化生等紧缺学科师资流失、重塑教师职业吸引力并提升全民科学素养的最具成本效益的战略支点。
 
@@ -349,7 +348,7 @@ updated: 2026-10-11
 > [!citation-card]- [[Teacher Professional Agency\|教师专业自主权]]与系统变革
 > 在宽广的课程框架内，赋予教师在教学方式上更大的自主权和灵活性，能够为教师和学生双方创造一个更具激发性的环境……在经历了数十年的微调之后，现在是为学习者带来他们现在和未来所需大胆变革的时候了。（pp. 36, 37）
 >
-> *Within a broad curricular framework, enabling teachers with greater agency and flexibility, regarding how they [[Teach Classroom Observation Tool|Teach]], can create an environment that is more stimulating for both teachers and students... After decades of minor tweaks, it is time for the bold changes learners need now and in the future.*
+> *Within a broad curricular framework, enabling teachers with greater agency and flexibility, regarding how they Teach, can create an environment that is more stimulating for both teachers and students... After decades of minor tweaks, it is time for the bold changes learners need now and in the future.*
 
 ---
 

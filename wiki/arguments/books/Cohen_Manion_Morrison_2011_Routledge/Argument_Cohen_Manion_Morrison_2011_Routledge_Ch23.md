@@ -80,13 +80,16 @@ related_methods:
   - "[[Ethnography]]"
   - "[[Non-participant Observation]]"
   - "[[Qualitative Observation]]"
+  - "[[Observation Protocol]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Participant Observation]]"
+  - "[[Time Sampling]]"
   - "[[Rating Scale]]"
   - "[[Triangulation]]"
   - "[[Discourse Analysis]]"
   - "[[Critical Incidents]]"
+  - "[[Classroom Observation]]"
   - "[[Documentary Analysis]]"
   - "[[Field Notes]]"
   - "[[Transcription in Qualitative Research]]"
@@ -299,7 +302,7 @@ Gold（1958）提出了观察中研究者角色的经典四层分类，排列在
 ### 23.2 结构化观察
 
 > [!info] 结构化观察的核心特征
-> [[Structured Observation\|结构化观察]]非常系统化，生成**数值数据**，便于跨环境和情境比较以及记录频率、模式和趋势。观察者采取**被动、非侵入性角色**，仅记录所研究因素的发生情况，将观察结果填入观察计划表（observation schedule）（23.2 节）。
+> [[Structured Observation\|结构化观察]]非常系统化，生成**数值数据**，便于跨环境和情境比较以及记录频率、模式和趋势。观察者采取**被动、非侵入性角色**，仅记录所研究因素的发生情况，将观察结果填入观察计划表（[[Observation Protocol|observation schedule]]）（23.2 节）。
 
 ---
 
@@ -404,7 +407,7 @@ Dyer（1995, pp. 181–186）提出结构化观察必须处理九项关键原则
 
 ##### 瞬时取样
 
-如果了解事件的**时间顺序**很重要，就需要使用瞬时取样（有时称时间取样，time sampling）。研究者在标准时间间隔的精确瞬间记录**那一刻**正在发生什么，并填入相应类别。
+如果了解事件的**时间顺序**很重要，就需要使用瞬时取样（有时称时间取样，[[Time Sampling]]）。研究者在标准时间间隔的精确瞬间记录**那一刻**正在发生什么，并填入相应类别。
 
 > [!example] 瞬时取样示例：课堂中的微笑行为（每30秒一次）
 >
@@ -536,7 +539,7 @@ Dyer（1995, pp. 181–186）提出结构化观察必须处理九项关键原则
 > **关键事件法（Critical Incident Technique）**由 Flanagan（1949）提出，**关键事件（Critical Events）**由 Wragg（1994）发展为教育研究中的观察方法。关键事件是"对观察者而言似乎比其他事件更有趣的事件，因此值得比其他事件更详细地记录；它们具有重要的洞察可供提供"（Wragg, 1994, p. 64）。这些事件是**非例行但极具揭示性**的，为研究者提供了例行观察无法获得的洞察。它们通常是**不寻常的事件**。
 
 > [!example] 教育研究中的关键事件案例
-> - **社会容忍度的揭示** 一个孩子在日常课堂中表现正常，但当被要求与另一个特定孩子合作时，**出人意料地表现出高度攻击性**。这一单一事件可能揭示出该孩子在特定条件下社会容忍度的真实边界，这是数小时例行课堂观察可能完全无法捕捉到的。
+> - **社会容忍度的揭示** 一个孩子在日常课堂中表现正常，但当被要求与另一个特定孩子合作时，**出人意料地表现出高度攻击性**。这一单一事件可能揭示出该孩子在特定条件下社会容忍度的真实边界，这是数小时例行[[Classroom Observation|课堂观察]]可能完全无法捕捉到的。
 > - **教师挫折容忍阈值的揭示** 一个教师在学生交出一份次标准[[Homework\|作业]]时**突然过度反应**，即压垮骆驼的最后一根稻草（the straw that breaks the camel's back）。这一爆发可能揭示了该教师的挫折容忍阈值以及超过该阈值后的行为效果，这种信息在正常的、平静的课堂观察中是不可见的。
 > - **[[Classroom Management\|课堂管理]]风格的揭示** 一个教师在面对突发事件（如意外停电、学生间突然冲突或外部干扰）时的**即兴反应**，可能比数小时的例行教学观察更鲜明地展示其课堂管理风格的核心特征。
 

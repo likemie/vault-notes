@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 39
+fact_related_count: 38
 fact_related_level: 4
 fact_related_stars: "⭐⭐⭐⭐"
 fact_related_color: "#dcfce7"
@@ -50,8 +50,7 @@ related_theories: []
 related_methods:
   - "[[Peer Debriefing]]"
   - "[[Correlational Research]]"
-related_persons:
-  - "[[Stuart Kauffman]]"
+related_persons: []
 related_facts:
   - "[[National Academy of Sciences]]"
   - "[[Chinese Academy of Sciences]]"
@@ -71,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-26
-updated: 2026-10-09
+updated: 2026-10-15
 ---
 
 # University Industry Demonstration Partnership
@@ -95,7 +94,7 @@ updated: 2026-10-09
 
 > [!dev-timeline] 组织发展历程
 > - **1980s–2003 — 产学合同困境与 GUIRR 早期探索** [[National Academy of Sciences|美国国家科学院]]成立政府-大学-产业研究圆桌会议（Government-University-Industry Research Roundtable, GUIRR），致力于简化科研合同流程；2003 年 GUIRR 推出首份知识产权示范协议，但实践表明“一刀切”的合同模板无法适应多元产业需求；工业研究学会（IRI）与全美大学研究管理者委员会（NCURA）亦相继成立跨部门工作组，凝聚了建立客观第三方常设平台的行业共识。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, pp. 15–16)]]
-> - **2004–2006 — 倡议确立与创始原则发布** 2004 年筹备委员会正式提议在国家[[Chinese Academy of Sciences|科学院]]框架下设立 UIDP；2006 年发布《大学-产业合作行动指导原则》（*Guiding Principles to University-Industry Endeavors*），获得[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）、[[Stuart Kauffman|考夫曼]]基金会（Kauffman Foundation）以及加利福尼亚大学洛杉矶分校、惠普、辉瑞等机构的联合资助。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, p. 16)]]
+> - **2004–2006 — 倡议确立与创始原则发布** 2004 年筹备委员会正式提议在国家[[Chinese Academy of Sciences|科学院]]框架下设立 UIDP；2006 年发布《大学-产业合作行动指导原则》（*Guiding Principles to University-Industry Endeavors*），获得[[National Science Foundation|美国国家科学基金会]]（National Science Foundation, NSF）、考夫曼基金会（Kauffman Foundation）以及加利福尼亚大学洛杉矶分校、惠普、辉瑞等机构的联合资助。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, p. 16)]]
 > - **2007–2014 — 标志性工具研发与连续体发布** 组织开发早期机器学习合同谈判辅助工具 Turbonegotiator，并逐步沉淀为系统性的《合同共识》（Contract Accords）；2012 年基于惠普高管团队的实践经验正式发布[[Partnership Continuum|伙伴关系连续体]]（Partnership Continuum），系统构建了[[University-Industry Collaboration|产学合作]]五大领域与三级参与梯度的分析标准。[[Argument_UIDP_2012_PartnershipContinuum|(Southerton et al., 2012, pp. 4–5)]]
 > - **2015–2018 — 独立非营利运作与国际化试点** 2015 年 7 月从国家科学院正式毕业独立，成立独立运营实体；2016 年启动国际试点，邀请牛津大学、多伦多大学、东京大学等海外名校加入，海外会员比例逐步攀升至 12% 以上。[[Argument_Boccanfuso_Hall_2025_OrgStrategy|(Boccanfuso & Hall, 2025b, p. 19)]]
 > - **2019–至今 — 跨国峰会拓展与前沿机制引领** 2019 年与牛津大学联合举办首届牛津 UIDP 国际峰会，发布《面向未来的大学-产业伙伴关系》；2024 年发布《产学合作中[[Joint Faculty Appointments|联合教职]]聘用的演进与影响》前沿专题报告；截至 2025 年，累计研制发布逾 60 项面向实践者的操作指南出版物，议题由传统合同法务拓展至战略关系、联合聘用、区域经济生态与前沿技术协同。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 2–3)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, p. 230)]]

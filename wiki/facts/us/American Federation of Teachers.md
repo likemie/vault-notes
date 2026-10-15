@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 14
+fact_related_count: 13
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -34,8 +34,7 @@ related_concepts:
   - "[[Document]]"
 related_theories: []
 related_methods: []
-related_instruments:
-  - "[[Teach Classroom Observation Tool]]"
+related_instruments: []
 related_persons:
   - "[[John Dewey]]"
 related_facts:
@@ -102,7 +101,7 @@ updated: 2026-10-15
 > [!citation-card] AFT 关于[[Professional Judgment|专业判断]]与标准的立会原则
 > 标准必须扎根于课堂现实。不能仅凭抽象理论来制定标准，必须有实际从事日常教学的教师深入参与每一个环节的推敲。唯有如此，国家学术标准才能既具备学术高度，又切实可行于真实的普通学校课堂。
 >
-> *Standards must be anchored in classroom realities. They cannot be built on [[Abstract]] theories alone; practicing educators who [[Teach Classroom Observation Tool|Teach]] students every day must be intimately involved in vetting every progression to ensure standards are both rigorous and workable.*[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 15)]]
+> *Standards must be anchored in classroom realities. They cannot be built on [[Abstract]] theories alone; practicing educators who Teach students every day must be intimately involved in vetting every progression to ensure standards are both rigorous and workable.*[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 15)]]
 
 ---
 

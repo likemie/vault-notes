@@ -55,6 +55,7 @@ related_arguments:
   - "[[Argument_Hartong_Forschler_2019_BDS]]"
 related_methods:
   - "[[Triangulation]]"
+  - "[[Classroom Observation]]"
   - "[[Meta-analysis]]"
   - "[[Qualitative Observation]]"
   - "[[Descriptive Analysis]]"
@@ -100,7 +101,7 @@ updated: 2026-10-07
 
 > [!boundary]- 概念边界
 > - 不等同于单纯的统计计算技能 — 侧重情境化推理、数据源真实性审视与证据整合，而非机械的手工公式验算。
-> - 不等同于单一的应试成绩分析 — 教育者数据素养要求兼顾[[Formative Assessment\|形成性评估]]、日常课堂观察与质性信息，反对将数据素养窄化为考试分数排名管理。
+> - 不等同于单一的应试成绩分析 — 教育者数据素养要求兼顾[[Formative Assessment\|形成性评估]]、日常[[Classroom Observation|课堂观察]]与质性信息，反对将数据素养窄化为考试分数排名管理。
 > - 不等同于教学方案设计能力 — 拥有极高的数据素养能够精准锁定学业症结，但如何开出科学有效的教学改进良方，高度依赖教育者的教学法造诣与外部研究证据（[[Argument_Brown_2017_ER\|Brown et al., 2017, p. 159]]）。
 
 ---
@@ -132,7 +133,7 @@ updated: 2026-10-07
 > [!exegesis]- 实践理解与应用示例
 > 1. **跨学科公民数据批判与概率推理（[[Argument_RoyalSociety_2026_ScienceForSociety\|The Royal Society, 2026]]）** 在 K-12 教学中，数据素养打破传统数学单科教学限制，贯穿于生物学流行病图表辨析、地理学气候模型预测及社会学科抽样调查中，引导学生识别可视化截断、样本偏差与混杂[[Variable\|变量]]，培养理性审辨思维。
 > 2. **荷兰与瑞典数据团队八步规程干预（Schildkamp et al.）** 特温特大学在 80 余所中小学实施数据团队项目，由骨干教师在教练指导下遵循“界定问题—提出假设—收集数据—检查质量—分析数据—得出结论—采取行动—评估成效”规程攻关高[[Grade Retention\|留级]]率等难题。实证表明，该模式显著提升了教师数据素养与协作反思能力，但在无外部研究支持下教师面临干预方案研发瓶颈。[[Argument_Brown_2017_ER\|(Brown et al., 2017, pp. 158–159)]]
-> 3. **课堂数据层级感知破除与三角验证（LaPointe-McEwan et al.）** 实践中教师对课堂数据常存在固化偏见，终结性统考被过度重视，而日常形成性测评与师生质性互动被边缘化。通过发展专业数据素养，教师学会将量化测试与质性课堂观察进行三角验证，实现了更具人本温度与情境敏感性的平衡决策。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 129)]]
+> 3. **课堂数据层级感知破除与三角验证（LaPointe-McEwan et al.）** 实践中教师对课堂数据常存在固化偏见，终结性统考被过度重视，而日常形成性测评与师生质性互动被边缘化。通过发展专业数据素养，教师学会将量化测试与质性[[Classroom Observation|课堂观察]]进行三角验证，实现了更具人本温度与情境敏感性的平衡决策。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 129)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -257,7 +258,7 @@ updated: 2026-10-07
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Brown_2017_ER\|Brown et al. (2017, p. 158)]] 引 Carlson et al. (2011); Faber & Visscher (2014); Van Geel et al. (2016) | 荷兰与瑞典 80 余所中小学骨干教师与校领导 | 多项[[Randomised Controlled Trials\|随机对照试验]]（RCT）与跟踪评估设计 | [[Data Team Intervention\|数据团队]]（Data Team）干预对教师数据素养、协作技能及学生[[Academic Achievement\|学业成绩]]的影响 | 数据团队显著提升了教师的数据素养与协作探究技能；并在部分参与学校带动了学生数学与阅读成绩的显著增长 | RCT 检验显著提升 | 证实结构化数据探究规程可系统培育数据素养；但教师在得出诊断后依然缺乏独立研制教学干预方案的能力 |
-> | [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017, p. 129)]] 引 LaPointe-McEwan et al. (2017) | 协作探究网络中的一线中小学教师群体 | [[Qualitative Observation\|质性观察]]与[[Survey Research\|问卷调查研究]] | 教师对不同形态课堂数据的接触、信任度与决策采纳频率 | 终结性测试数据占据绝对主导；日常形成性测评、课堂观察及师生质性互动证据的使用频率与权重显著偏低 | — | 证实实践端存在显著的数据层级感知偏差，亟待通过专业培训推行[[Triangulation\|三角验证]] |
+> | [[Argument_Nelson_2017_ER\|Nelson & Campbell (2017, p. 129)]] 引 LaPointe-McEwan et al. (2017) | 协作探究网络中的一线中小学教师群体 | [[Qualitative Observation\|质性观察]]与[[Survey Research\|问卷调查研究]] | 教师对不同形态课堂数据的接触、信任度与决策采纳频率 | 终结性测试数据占据绝对主导；日常形成性测评、[[Classroom Observation\|课堂观察]]及师生质性互动证据的使用频率与权重显著偏低 | — | 证实实践端存在显著的数据层级感知偏差，亟待通过专业培训推行[[Triangulation\|三角验证]] |
 > | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026, p. 31)]] | 英国[[STEM Education\|跨学科科学教育]]与劳动力市场需求评估 | 宏观政策[[Document\|文献]]综合与专家咨询评估 | 科学教育大纲中数学与数据素养的融入程度与现实需求 | 现行课程体系中数据素养碎片化严重，学生在真实情境中的概率推理与数据批判能力匮乏；提出将数据素养贯穿面向 18 岁全员的基础大纲 | — | 基于英国中等教育与就业市场预测，凸显数据素养由专业技能走向公民通识素养的政策转向 |
 | [[Argument_Hartong_Forschler_2019_BDS\|Hartong & Förschler (2019, pp. 6, 10–11)]] | 美国马萨诸塞州（[[Massachusetts Department of Elementary and Secondary Education\|DESE]]）与德国汉堡（BSB/[[Institute for Educational Monitoring and Quality Improvement\|IfBQ]]）州级教育行政机构 | 跨国[[Comparative Case Study\|比较案例研究]]与专家访谈 | 传统数据素养在算法系统与监测实践中的失效表征 | 基层辅导员将 [[Early Warning Indicator System\|EWIS]] 算法预测标签直接误读为弱势学生升学劝退依据；官员与校长普遍受制于检索代码与冻结时限 | 质性经验证据 | 证实单纯识读现成数据集的技能无法识别算法偏见，亟需建立对[[Data Infrastructure\|数据基础设施]]全链条展开质询的素养 |
 

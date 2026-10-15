@@ -57,6 +57,8 @@ related_arguments:
 related_methods:
   - "[[Cohort Study]]"
   - "[[Effect Size]]"
+related_instruments:
+  - "[[Framework for Teaching]]"
 confidence: high
 status: active
 created: 2026-09-21
@@ -125,7 +127,7 @@ updated: 2026-10-08
 
 ## 实证证据与规模化效应
 
-知识整合教学框架在过去二十余年中开展了跨越数十所学区的大样本受控实验与[[Cohort Study|追踪研究]]，证实其在打破刻板事实灌输、促进概念深层迁移上的稳健实效：
+知识整合[[Framework for Teaching|教学框架]]在过去二十余年中开展了跨越数十所学区的大样本受控实验与[[Cohort Study|追踪研究]]，证实其在打破刻板事实灌输、促进概念深层迁移上的稳健实效：
 
 > [!effect-table] 知识整合框架实证数据表
 > | 研究[[Document\|文献]] | 比较条件或干预设计 | 样本规模 | 关键因果发现 | [[Effect Size\|效应量]]与统计学表现 | 理论与政策意义 |

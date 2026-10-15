@@ -45,6 +45,7 @@ related_theories:
   - "[[Organizational Culture]]"
 related_methods:
   - "[[Questionnaire]]"
+  - "[[Classroom Observation]]"
   - "[[Action Research]]"
 related_instruments: []
 related_persons: []
@@ -146,7 +147,7 @@ updated: 2026-09-23
 > > - **实践者回应** 赫约凯赖斯图尔小学的长达数十年的追踪数据反驳了这一顾虑，证实高阶认知互动与深度理解恰恰构成了长期标准化统考取得优异成绩的坚实根基。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 214)]]
 >
 > > [!axis] 教学法忠实度与大规模复制中的表面化
-> > CIP 对任课教师的课堂观察敏锐度与多任务设计能力要求极高，许多学校在推广时容易退化为简单的形式化 4 人分组，丧失核心的地位干预实质。
+> > CIP 对任课教师的[[Classroom Observation|课堂观察]]敏锐度与多任务设计能力要求极高，许多学校在推广时容易退化为简单的形式化 4 人分组，丧失核心的地位干预实质。
 > >
 > > - **质量防线** 必须依托长周期的跟岗浸润式师资研修，杜绝将复杂教学法简化为速成处方。
 

@@ -7,7 +7,7 @@ aliases:
 summary: "Cowen 用于分析比较教育在不同时期关注哪个世界的五阶段历史分期框架，从 18 世纪末的世俗化阅读到冷战后的全球化"
 type: concept
 domain: "comparative-education"
-related_count: 24
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -38,7 +38,6 @@ related_persons:
   - "[[Robert Cowen]]"
   - "[[Horace Mann]]"
   - "[[William T. Harris]]"
-  - "[[Nikolas Rose]]"
 related_facts:
   - "[[IEA]]"
   - "[[PISA]]"
@@ -48,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-10-14
+updated: 2026-10-15
 ---
 
 # Readings of the Global
@@ -81,7 +80,7 @@ updated: 2026-10-14
 
 > [!dev-timeline] 全球解读的历史分期演变
 > - **18世纪末至19世纪末 — 世俗化与民族国家建构** 最早的全球解读源于世俗化阅读，紧密连接革命政治、国家形成与新民族主义及其教育含义。这一时期的教育行政者（如美国的 [[Horace Mann]] and [[William T. Harris|William Torrey Harris]]、英国的 James Kay-Shuttleworth、加拿大的 Egerton Ryerson 等）海外考察的目的，是为了发明适合传播初等教育和培训教师的国民制度（如对普鲁士国民教育模式的借用与改版）。([[Argument_Cowen_2023_CE\|Cowen, 2023, p. 331]])
-> - **19世纪末至一战前 — 工业竞争与维持帝国** 注意力转向工业革命的长期后果、国际经济竞争及教育系统的重新定义，以维持帝国主义。对外考察与变得现代（或保持本真的斯拉夫或日本身份，如日本明治维新与俄[[Nikolas Rose|罗斯]]斯拉夫派的理论抵制）紧密相连，外国系统成为现代性焦虑的投射。(p. 331)
+> - **19世纪末至一战前 — 工业竞争与维持帝国** 注意力转向工业革命的长期后果、国际经济竞争及教育系统的重新定义，以维持帝国主义。对外考察与变得现代（或保持本真的斯拉夫或日本身份，如日本明治维新与俄罗斯斯拉夫派的理论抵制）紧密相连，外国系统成为现代性焦虑的投射。(p. 331)
 > - **两次世界大战之间 — 意识形态对立与专业沉默** 这一时期对法西斯主义和共产主义政治的专业比较工作极少，形成了学术上显著的沉默期。(p. 331)
 > - **1945年后至冷战时期 — 重建、平等与冷战测评竞争** 战后[[Document\|文献]]展现出明确的分期模式，随着地缘政治秩序演进包含四个子阶段：
 >   - 重建与平等（1945年后）：尤其在欧洲，努力以重建和改善教育机会平等来理解和行动世界。

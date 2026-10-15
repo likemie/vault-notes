@@ -20,6 +20,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Transcription in Qualitative Research]]"
+  - "[[Classroom Observation]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Analytic Framework]]"
   - "[[Content Analysis]]"
@@ -58,7 +59,7 @@ updated: 2026-09-17
 ## 研究程序
 
 > [!proc] 交叉检查的操作程序
-> 1. 多位研究者分别独立分析相同的质性材料（如访谈[[Transcription in Qualitative Research\|转录]]、课堂观察记录）
+> 1. 多位研究者分别独立分析相同的质性材料（如访谈[[Transcription in Qualitative Research\|转录]]、[[Classroom Observation|课堂观察]]记录）
 > 2. 每位研究者独立提出类别系统、[[Coding in Qualitative Research\|编码]]方案或解释框架
 > 3. 研究者之间交换意见，比较各自分析的异同
 > 4. 协商讨论，识别分歧来源并努力达成共识
@@ -95,4 +96,4 @@ Kitwood（1977）推荐的实践是两位以上研究者独立提出类别系统
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]] — Kitwood（1977）将交叉检查作为陈述分析的两项安全措施之一；Blease & Cohen（1990）展示了交叉检查的具体操作：比较和讨论研究助理与研究者的课堂观察记录以达成确定陈述。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]] — Kitwood（1977）将交叉检查作为陈述分析的两项安全措施之一；Blease & Cohen（1990）展示了交叉检查的具体操作：比较和讨论研究助理与研究者的[[Classroom Observation|课堂观察]]记录以达成确定陈述。

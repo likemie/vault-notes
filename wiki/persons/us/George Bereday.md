@@ -11,7 +11,7 @@ summary: "哥伦比亚大学师范学院比较教育学讲座教授，《比较�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 43
+person_related_count: 42
 person_related_level: 5
 person_related_stars: "⭐⭐⭐⭐⭐"
 person_related_color: "#ffedd5"
@@ -54,8 +54,7 @@ related_methods:
   - "[[Correlational Research]]"
   - "[[Problem Approach]]"
   - "[[Sample Size Determination]]"
-related_instruments:
-  - "[[Teach Classroom Observation Tool]]"
+related_instruments: []
 related_persons:
   - "[[Joseph Lauwerys]]"
   - "[[Robert Ulich]]"
@@ -152,7 +151,7 @@ updated: 2026-10-15
 > [!citation-card] 贝雷迪论方法论探讨的紧迫使命
 > 探讨比较教育的方法，或许是从事比较教育研究与教学的人员必须面对的最紧迫任务。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 65)]]
 >
-> *The discussion of methods of comparative education is perhaps the most urgent task which those who research and [[Teach Classroom Observation Tool|Teach]] comparative education must face. (Bereday, 1957: 13)*
+> *The discussion of methods of comparative education is perhaps the most urgent task which those who research and Teach comparative education must face. (Bereday, 1957: 13)*
 
 ---
 

@@ -92,6 +92,7 @@ related_methods:
   - "[[Documentary Analysis]]"
   - "[[Non-participant Observation]]"
   - "[[Structured Observation]]"
+  - "[[Classroom Observation]]"
   - "[[Field Notes]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Progressive Focussing]]"
@@ -478,7 +479,7 @@ Verschuren（2003, p. 136）为个案研究的推广性提供了更有力的辩�
 > |---|---|---|
 > | 研究者角色 | 参与活动，成为群体一员 | 远离活动，回避群体成员身份 |
 > | 与被观察者关系 | 融入群体，被视作自己人 | 保持距离，明确的外部者身份 |
-> | 典型情境 | 自然情境（课堂、帮派、社区） | 人工/半人工情境、结构化课堂观察 |
+> | 典型情境 | 自然情境（课堂、帮派、社区） | 人工/半人工情境、结构化[[Classroom Observation\|课堂观察]] |
 > | 核心优势 | 获取内部人视角，理解群体文化 | 标准化记录，可精确量化行为频数 |
 > | 数据形式 | [[Field Notes\|田野笔记]]、非正式对话、印象 | 结构化观察表、时间抽样、[[Coding in Qualitative Research\|编码]]记录 |
 > | 经典示例 | Patrick（1973）隐蔽于格拉斯哥帮派四个月；Willis（1977）作为班级成员参与 | King（1979）站立保持距离、避免眼神接触；后排每三秒编码一次 |

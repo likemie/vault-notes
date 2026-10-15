@@ -37,6 +37,7 @@ related_concepts:
   - "[[Development Education]]"
   - "[[Paradigm]]"
   - "[[Positivism]]"
+  - "[[Learning Crisis]]"
   - "[[Emergence]]"
   - "[[Global Education Governing Complex]]"
 related_theories: []
@@ -135,7 +136,7 @@ updated: 2026-10-15
 > > 批判学者指责 BE2 是西方富国出资方与跨国金融寡头组建的排他性俱乐部；官方捍卫者则坚称其只是技术专家提升援助效率的专业协作网络。
 > >
 > > - **批判学者立场** 揭示其在表面开放透明的数字时代组建排他同盟，将全球南方国家及其本土学者彻底排除在知识标准制定之外，实质是新自由主义证据霸权。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
-> > - **捐助机构立场** 强调面对受援国紧迫的学习贫困危机，出资方必须对本国纳税人负责，依靠最高科学标准的实证证据优化稀缺资金配置。
+> > - **捐助机构立场** 强调面对受援国紧迫的[[Learning Crisis|学习贫困]]危机，出资方必须对本国纳税人负责，依靠最高科学标准的实证证据优化稀缺资金配置。
 
 > [!citation-card] 排他性同盟与[[Evidence Standards\|证据标准]]垄断批判
 > 数字化经济时代的信息过量造成了一种看似矛盾的格局：即便国际组织之间在资金与影响力上激烈竞争，它们仍依赖数据共享与网络化平台来维持受众。然而，在普遍开放的表象之下，[[Emergence\|涌现]]出在排斥其他组织的前提下组建同盟与网络的浪潮，例如由[[World Bank\|世界银行]]、英国外交联邦及发展事务部（FCDO）、美国国际开发署（USAID）与一个轮值联合国机构构成的构建教育证据联盟（BE2）。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 545–546)]]
