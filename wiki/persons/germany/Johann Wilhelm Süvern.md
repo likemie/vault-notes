@@ -32,6 +32,7 @@ related_concepts:
   - "[[Document]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Recontextualization]]"
 related_theories: []
 related_methods:
   - "[[Correlational Research]]"
@@ -166,7 +167,7 @@ updated: 2026-10-11
 > > - **批判社会史学者** 指出聚芬草案法定了初等小学（面向平民劳动阶层）与市民学校/文法中学（面向中产与贵族精英）的垂直分割，构成了近代欧陆[[Dual School System\|双轨学制]]的制度原型，实质上以国家法律形式锁定了阶级再生产结构。
 
 > [!warning] 适用边界
-> 聚芬的教育治理哲学深嵌于 19 世纪初普鲁士开明君主专制与强国家行政官僚传统的历史语境中；其强烈的中央行政视导导向与北美地方市镇民主分权传统存在深刻张力，因而在跨大西洋借用中被曼与斯托进行了去君主化的民主共和再语境化改造。
+> 聚芬的教育治理哲学深嵌于 19 世纪初普鲁士开明君主专制与强国家行政官僚传统的历史语境中；其强烈的中央行政视导导向与北美地方市镇民主分权传统存在深刻张力，因而在跨大西洋借用中被曼与斯托进行了去君主化的民主共和[[Recontextualization|再语境化]]改造。
 
 ---
 

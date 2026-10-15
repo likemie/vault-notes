@@ -30,10 +30,10 @@ related_concepts:
   - "[[Shape-Shifting]]"
   - "[[School Autonomy]]"
   - "[[Gatekeepers]]"
+  - "[[Recontextualization]]"
   - "[[Reflexivity]]"
   - "[[Policy Mobility]]"
   - "[[Knowledge Framework]]"
-  - "[[Recontextualization]]"
   - "[[Champ]]"
   - "[[Transfer Translation Transformation]]"
   - "[[Regulative and Instructional Discourse]]"
@@ -147,7 +147,7 @@ updated: 2026-10-15
 > - **[[Floating Signifier|漂浮能指]]性（Floating Signifier）** 政策话语（如“能力本位”、“[[School Autonomy|学校自主权]]”、“尊重多样性”）被故意剥离具体的历史脉络与实体定义，演化为语义空虚的高包容性符号容器，使立场迥异的利益主体能够达成表面共识。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 353–355)]]
 > - **去情境化普遍主义（Decontextualized Universalism）** 国际多边机构将源自欧美特定经济体的组织管理模式包装为不依存于特定时空的全球公理，并以“信息时代的[[Educated Identity|受教育身份]]”为由推向全球南方。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349)]]
 > - **跨位置流通的过度简化（Oversimplification across Positions）** 国际机构受紧迫[[Pragmatic Paradigm|实用主义]]驱动，将原本充满学术争论的复杂理论删剪为便于技术操作与借贷捆绑的五大支柱标准化模型，并在输出外围国家时依托本土跨界[[Gatekeepers|守门人]]实现垄断。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 350–353)]]
-> - **微观实践的再语境化[[Shape-Shifting|形变]]（Recontextualisation Deformation）** 抽象政策话语降落至缺乏物质资源与制度配套的基层学校时，必然遭遇本土历史惯习的抵抗，最终演化为与改革初衷背道而驰的意外后果（如将“尊重多样性”异化为对贫困的被动容忍）。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 359–361)]]
+> - **微观实践的[[Recontextualization|再语境化]][[Shape-Shifting|形变]]（Recontextualisation Deformation）** 抽象政策话语降落至缺乏物质资源与制度配套的基层学校时，必然遭遇本土历史惯习的抵抗，最终演化为与改革初衷背道而驰的意外后果（如将“尊重多样性”异化为对贫困的被动容忍）。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 359–361)]]
 
 ---
 
@@ -181,7 +181,7 @@ updated: 2026-10-15
 > 剖析超国家治理网络如何利用语义空洞的话语符号维系权威并推行远处调控，以及话语在降落本土物质环境时催生的实践异化。
 
 > [!claim] [[Jason Beech|Beech, J.]]
-> **漂浮能指动员与微观再语境化[[Shape-Shifting|形变]]** 杰森·比奇（Jason Beech）深入论证指出，在全球化[[Space of Flows|流动空间]]中运行的跨国教育话语（如“能力发展”、“学校自主”与“质量评估”）具有独特的“[[Floating Signifier|漂浮能指]]”属性。为了在全球范围内影响尽可能多的主权国家，国际多边组织（[[World Bank|世界银行]]、[[OECD|经合组织]]、[[UNESCO|联合国教科文组织]]）必须刻意剥离话语的具体历史语境与物质约束，使其保持极高的语义可塑性与形象稳定性。立场迥异的政客、学者与资助方因而在这一空洞能指下达成看似一致的改革共识；然而，当这套缺乏实体操作规程的抽象话语降落到外围国家（如阿根廷、巴西）的基层学校时，一线教师不得不依据极端匮乏的物质条件与既有的百科全书式[[Knowledge Framework|知识框架]]对其进行强行剪裁与[[Recontextualization|本土重构]]，最终导致政策话语发生根本性形变（例如将尊重多样性异化为降低学术期望以容忍贫困阶层的学业失败）。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 352–361)]]; [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349, 353–355)]]
+> **漂浮能指动员与微观[[Recontextualization|再语境化]][[Shape-Shifting|形变]]** 杰森·比奇（Jason Beech）深入论证指出，在全球化[[Space of Flows|流动空间]]中运行的跨国教育话语（如“能力发展”、“学校自主”与“质量评估”）具有独特的“[[Floating Signifier|漂浮能指]]”属性。为了在全球范围内影响尽可能多的主权国家，国际多边组织（[[World Bank|世界银行]]、[[OECD|经合组织]]、[[UNESCO|联合国教科文组织]]）必须刻意剥离话语的具体历史语境与物质约束，使其保持极高的语义可塑性与形象稳定性。立场迥异的政客、学者与资助方因而在这一空洞能指下达成看似一致的改革共识；然而，当这套缺乏实体操作规程的抽象话语降落到外围国家（如阿根廷、巴西）的基层学校时，一线教师不得不依据极端匮乏的物质条件与既有的百科全书式[[Knowledge Framework|知识框架]]对其进行强行剪裁与[[Recontextualization|本土重构]]，最终导致政策话语发生根本性形变（例如将尊重多样性异化为降低学术期望以容忍贫困阶层的学业失败）。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 352–361)]]; [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–349, 353–355)]]
 
 ---
 
@@ -211,7 +211,7 @@ updated: 2026-10-15
 
 > [!dev-timeline] 概念演变
 > - **1970s–1980s — 语言学与[[Conversation Analysis|会话分析]]奠基** 从纯粹句法分析转向交际功能，确立表层衔接、深层连贯、意向性与互文性等文本性七大标准，聚焦面对面微观言语互动秩序。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §§31.1–31.2)]]
-> - **1990s — 社会学与批判话语转向** [[Basil Bernstein|伯恩斯坦]]提出话语的再语境化[[Champ|场域]]，福柯[[Post-structuralism|后结构主义]]深刻揭示话语作为知识与权力共谋机制如何[[Disciplina and Doctrina|规训]]主体，话语被确立为制度性实践。
+> - **1990s — 社会学与批判话语转向** [[Basil Bernstein|伯恩斯坦]]提出话语的[[Recontextualization|再语境化]][[Champ|场域]]，福柯[[Post-structuralism|后结构主义]]深刻揭示话语作为知识与权力共谋机制如何[[Disciplina and Doctrina|规训]]主体，话语被确立为制度性实践。
 > - **2000s 至今 — 全球化与空间社会学拓殖** 比较教育学引入[[Space of Flows|流动空间]]理论，追踪教育政策话语作为[[Floating Signifier|漂浮能指]]在超国家组织、主权国家与微观学校间的五位置流转、过度简化与本土异化。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 348–353)]]
 
 ---

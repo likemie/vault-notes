@@ -309,7 +309,7 @@ updated: 2026-10-15
 > [!evidence-grid] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Hartong_2018_GSE\|Hartong (2018)]] — 结合 [[Actor-Network Theory\|ANT]] 转译理论与[[Topological Spatialisation\|拓扑空间]]学，揭示绩效[[Data Infrastructure\|数据基础设施]]与 [[Institute for Educational Quality Improvement\|IQB]] [[Center of Calculation\|计算中心]]如何将国家监测标准转译为微观诊断实践并实现跨尺度的[[Governing at a Distance\|远处治理]]重组。
 > - [[Argument_Cowen_2009_CE\|Cowen (2009b)]] — 提出 3T 核心[[Analytic Framework\|分析框架]]，并使用战后德日改革与后殖民教育重组阐释。
-> - [[Argument_Beech_2009_CE\|Beech (2009a)]] — 应用 3T 框架分析拉美课程改革，引入[[Space of Flows|流动空间]]与[[Space of Places|地方空间]]二分法，追踪能力[[Discourse|话语]]在微观实践中的再语境化[[Shape-Shifting|形变]]（pp. 348–361）。
+> - [[Argument_Beech_2009_CE\|Beech (2009a)]] — 应用 3T 框架分析拉美课程改革，引入[[Space of Flows|流动空间]]与[[Space of Places|地方空间]]二分法，追踪能力[[Discourse|话语]]在微观实践中的[[Recontextualization|再语境化]][[Shape-Shifting|形变]]（pp. 348–361）。
 > - [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] — 结合全球教育[[Champ|场域]]五位置模型深化 3T 框架，揭示转移在国际组织[[Pragmatic Paradigm|实用主义]]过度简化、转译在本土[[Gatekeepers|守门人]]跨界垄断、转化在阿根廷学校实践脱节中的形变机制（pp. 348–355）。
 > - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 从[[Wight's Three Traditions of International Theory\|国际关系理论]]视角拓展 3T 分析[[Paradigm\|范式]]。
 > - [[Argument_Zhou_2024_CE\|Zhou and Westberg (2024)]] — 应用 3T 框架拆解民国时期[[John Dewey\|杜威]][[Democratic Education\|民主教育]]思想在中国的引进、转译折中与转化为[[Scientific Attitude\|科学态度]]的过程。

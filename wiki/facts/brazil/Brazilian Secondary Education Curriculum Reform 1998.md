@@ -42,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 
 # Brazilian Secondary Education Curriculum Reform 1998
@@ -52,7 +52,7 @@ updated: 2026-10-07
 ## 背景
 
 > [!info]
-> 1990 年代，阿根廷、巴西和智利的中等教育课程改革在官方修辞上强烈批判传统的[[Encyclopaedism\|百科全书主义]]（强调学生需记忆大量脱离语境的事实知识），转向以能力发展为导向的教育理念。这一转向呼应了[[OECD]]、[[World Bank\|世界银行]]和 [[UNESCO]] 等国际机构在全球层面倡导的能力[[Discourse|话语]]。[[Argument_Beech_2009_CE\|(Beech, 2009, p. 356)]]
+> 1990 年代，阿根廷、巴西和智利的中等教育课程改革在官方修辞上强烈批判传统的[[Encyclopaedism\|百科全书主义]]（强调学生需记忆大量脱离语境的事实知识），转向以能力发展为导向的教育理念。这一转向呼应了[[OECD]]、[[World Bank\|世界银行]]和 [[UNESCO]] 等国际机构在全球层面倡导的能力[[Discourse|话语]]。[[Argument_Beech_2009_CE|(Beech, 2009a, p. 356)]]
 
 巴西先前的教育形式被官方文件描述为去语境化、被切割为隔间、基于信息积累。改革的核心目标是将学校知识从碎片化的学科分类转向以跨学科能力为基础的整合框架。[[Argument_Beech_2009_CE|(Beech, 2009a, p. 356)]]
 
@@ -61,7 +61,7 @@ updated: 2026-10-07
 ## 政策文本
 
 > [!abstract]
-> 1998 年，巴西国家教育委员会通过 Resolução Ceb/Cne N° 03/98，颁布了《国家中等教育课程指南》（Diretrizes Curriculares Nacionais Para O Ensino Médio）。[[Argument_Beech_2009_CE\|(Beech, 2009, p. 356)]]
+> 1998 年，巴西国家教育委员会通过 Resolução Ceb/Cne N° 03/98，颁布了《国家中等教育课程指南》（Diretrizes Curriculares Nacionais Para O Ensino Médio）。[[Argument_Beech_2009_CE|(Beech, 2009a, p. 356)]]
 
 ### 三大领域
 
@@ -89,7 +89,7 @@ updated: 2026-10-07
 ## 理论意义
 
 > [!abstract]
-> [[Argument_Beech_2009_CE\|Beech (2009)]]将巴西课程改革作为国家层面[[Floating Signifier\|漂浮能指]]选择性具体化的核心案例，论证了这一矛盾不是改革的失败或被利益集团绑架，而是国家层面[[Discourse|话语]]转化的结构性产物。
+> [[Argument_Beech_2009_CE|Beech (2009a)]]将巴西课程改革作为国家层面[[Floating Signifier\|漂浮能指]]选择性具体化的核心案例，论证了这一矛盾不是改革的失败或被利益集团绑架，而是国家层面[[Discourse|话语]]转化的结构性产物。
 
 国家同样需要稳定而同时可塑的话语来应对不同的利益相关者。面对国际机构和改革派，政府强调三大领域和跨学科工作；面对教师工会和保守派，政府强调学科知识的保留和延续。不兼容声明的组合是政治上的功能，不是逻辑上的失误。[[Argument_Beech_2009_CE|(Beech, 2009a, pp. 356–357)]]
 

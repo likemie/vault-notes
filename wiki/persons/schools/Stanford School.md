@@ -41,6 +41,7 @@ related_concepts:
   - "[[Red Tape]]"
   - "[[Document]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Recontextualization]]"
 related_theories:
   - "[[Cultural Models]]"
   - "[[World Society Theory]]"
@@ -157,7 +158,7 @@ updated: 2026-10-08
 > > 争论全球化在教育实践中究竟导向了[[Institutional Isomorphism|制度同形]]，还是激发了微观层面的异质化调适与能动抗争。
 > >
 > > - **斯坦福学派宏观论** 认为地方变通只是暂时且次要的技术性去耦合，全球规范的主导地位在长时段内不可动摇。
-> > - **人类学与比较教育学者（Anderson-Levitt, 2003; Steiner-Khamsi, 2004; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）** 指出全球规范在进入本土后必然遭遇深度的再语境化、借用变通甚至公开嘲讽与反抗；研究者必须警惕将形式同构误判为实质趋同。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–110)]]
+> > - **人类学与比较教育学者（Anderson-Levitt, 2003; Steiner-Khamsi, 2004; [[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）** 指出全球规范在进入本土后必然遭遇深度的[[Recontextualization|再语境化]]、借用变通甚至公开嘲讽与反抗；研究者必须警惕将形式同构误判为实质趋同。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–110)]]
 
 > [!critique]- 批评索引
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009)]] — 从世界体系政治现实主义与全球与本土辩证法出发，尖锐批判斯坦福学派的世界文化共识论掩盖了资本积累剥削与帝国依附，呼吁结合微观[[Ethnography|民族志]]揭示地方对全球模板的实质抵制与变通（pp. 104–106, 115）。
