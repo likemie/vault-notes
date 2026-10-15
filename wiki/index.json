@@ -2529,6 +2529,19 @@
     ]
   },
   {
+    "title": "Encyclopaedic Definition of Knowledge",
+    "type": "concept",
+    "path": "wiki/concepts/curriculum/Encyclopaedic Definition of Knowledge.md",
+    "aliases": [
+      "百科全书式知识观",
+      "百科全书式知识定义",
+      "百科全书式知识传统",
+      "Encyclopedic Definition of Knowledge",
+      "Encyclopaedic Curriculum",
+      "百科全书式课程"
+    ]
+  },
+  {
     "title": "Epistemic Ascent",
     "type": "concept",
     "path": "wiki/concepts/curriculum/Epistemic Ascent.md",
@@ -5528,6 +5541,21 @@
     "aliases": [
       "项目忠实性与适应",
       "方案忠实性与适应"
+    ]
+  },
+  {
+    "title": "Public-Private Partnership",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Public-Private Partnership.md",
+    "aliases": [
+      "公私合作伙伴关系",
+      "公私伙伴关系",
+      "PPP",
+      "Public-Private Partnerships",
+      "Public-Private Partnership in Research",
+      "研究型公私合作",
+      "教育公私伙伴关系",
+      "Public-Private Partnerships in Education"
     ]
   },
   {
@@ -14786,17 +14814,6 @@
       "proof of product",
       "PoP programs",
       "概念验证计划"
-    ]
-  },
-  {
-    "title": "Public-Private Partnership in Research",
-    "type": "concept",
-    "path": "wiki/concepts/university-industry-collaboration/Public-Private Partnership in Research.md",
-    "aliases": [
-      "公私合作伙伴关系",
-      "PPP",
-      "研究型公私合作",
-      "research PPP"
     ]
   },
   {
@@ -28194,6 +28211,18 @@
     ]
   },
   {
+    "title": "EU",
+    "type": "fact",
+    "path": "wiki/facts/eu/EU.md",
+    "aliases": [
+      "European Union",
+      "欧洲联盟",
+      "欧盟",
+      "European Community",
+      "欧洲共同体"
+    ]
+  },
+  {
     "title": "Critical Raw Materials Act",
     "type": "fact",
     "path": "wiki/facts/eu/Critical Raw Materials Act.md",
@@ -28329,7 +28358,7 @@
     "type": "fact",
     "path": "wiki/facts/eu/Innovation Union.md",
     "aliases": [
-      "创新联盟（欧盟）",
+      "欧盟创新联盟",
       "EU Innovation Union"
     ]
   },
@@ -28424,7 +28453,7 @@
     "type": "fact",
     "path": "wiki/facts/eu/Youth Guarantee Scheme.md",
     "aliases": [
-      "青年保障计划（欧盟）",
+      "欧盟青年保障计划",
       "EU Youth Guarantee"
     ]
   },
@@ -29654,6 +29683,20 @@
       "旧金山科研评估宣言",
       "San Francisco Declaration on Research Assessment",
       "科研评估宣言"
+    ]
+  },
+  {
+    "title": "Delors Report",
+    "type": "fact",
+    "path": "wiki/facts/global/Delors Report.md",
+    "aliases": [
+      "德洛尔报告",
+      "财富蕴藏其中",
+      "教育：财富蕴藏其中",
+      "学习：财富蕴藏其中",
+      "学习：内在的财富",
+      "Learning: The Treasure Within",
+      "Report to UNESCO of the International Commission on Education for the Twenty-first Century"
     ]
   },
   {

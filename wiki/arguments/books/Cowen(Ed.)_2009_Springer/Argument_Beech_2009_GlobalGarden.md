@@ -37,6 +37,7 @@ related_concepts:
   - "[[Policy Borrowing]]"
   - "[[Unit of Analysis]]"
   - "[[School Effectiveness]]"
+  - "[[Public-Private Partnership]]"
   - "[[School Inspection]]"
   - "[[Professional Learning Community]]"
   - "[[International Schools]]"
@@ -49,6 +50,7 @@ related_concepts:
   - "[[Effective Teaching]]"
   - "[[Disciplina and Doctrina]]"
   - "[[School Autonomy]]"
+  - "[[Encyclopaedic Definition of Knowledge]]"
   - "[[Epistemology]]"
   - "[[Educational Meliorism]]"
   - "[[Falsification]]"
@@ -76,22 +78,24 @@ related_facts:
   - "[[UNESCO]]"
   - "[[World Bank]]"
   - "[[OECD]]"
+  - "[[EU]]"
   - "[[Bologna Process]]"
   - "[[Organisation for European Economic Co-operation]]"
+  - "[[Delors Report]]"
 related_arguments: []
 sources:
   - "[[books/Cowen(Ed.)_2009_Springer/Ch22_Beech_2009|Ch22_Beech_2009]]"
 part_of: "[[books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer|Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-10-15
-updated: 2026-10-15
+updated: 2026-10-16
 subtype: book-chapter
 publication_type: book-chapter
 title: "Argument_Beech_2009_GlobalGarden"
 argument_key: "Argument_Beech_2009_GlobalGarden"
 argument_display_title: "Who is Strolling Through The Global Garden? International Agencies and Educational Transfer"
 argument_kind: "book-chapter"
-argument_related_count: 53
+argument_related_count: 57
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#fef3c7"
@@ -159,7 +163,7 @@ issuing_organization: ""
 > flowchart TD
 >     subgraph Step1["步骤一：场域重构与新型行动者"]
 >         A["历史起点：危机驱动借用<br>(日本黑船 / 美国卫星危机)"] --> B["全球化无边界空间形成<br>(Giddens 流动性拓展)"]
->         B --> C["跨国新行动者崛起<br>(大学咨询 / 欧盟 / 跨国公司 / 国际组织)"]
+>         B --> C["跨国新行动者崛起<br>(大学咨询 / [[EU|欧盟]] / 跨国公司 / 国际组织)"]
 >     end
 > 
 >     subgraph Step2["步骤二：国际组织与全球教育话语"]
@@ -211,8 +215,8 @@ issuing_organization: ""
 > [!feature] 跨国教育场域中四类新型行动者图谱与运作机制
 > - **穿梭各地的咨询专家** 携带标准化的商业改革方案周游列国，不仅直接影响个别学校与地方学区，甚至深度介入国家层面的宏观教育政策设计。（pp. 342–343）
 > - **高等院校与国际发展咨询单位** 伴随[[Jean-François Lyotard|让-弗朗索瓦·利奥塔]]（Jean-François Lyotard, 1984）所论述的知识商品化趋势，大学生产知识旨在进入市场售卖。[[Robert Cowen|罗伯特·考恩]]（Robert Cowen, 1996）指出，英国等国高校在公共财政急剧紧缩的压力下，产生强烈的创收激励；恰如 16 世纪驱动欧洲帝国主义开辟新市场的重商主义，英国大学设立专职国际发展部，在发展中国家强力开辟咨询市场，将[[School Effectiveness|学校效能]]与绩效知识成套打包倾销。
-> - **超国家政治经济联盟（以欧洲联盟为例）** 欧洲联盟（European Union, EU，简称欧盟）虽受制于《马斯特里赫特条约》（Treaty of Maastricht）规定的教育辅助性原则（subsidiarity），但依然通过三大关键机制重塑成员国政策：① 倡导最佳实践经验交流与政策对话（例如《欧洲学校教育质量报告》）；② 建立量化指标体系与基准指标（benchmarks）；③ 推进[[Bologna Process|博洛尼亚进程]]（[[Bologna Process]]）构建欧洲高等教育区（European Higher Education Area, EHEA），推行课程架构、欧洲学分互认体系（European Credit Transfer and Accumulation System, ECTS）、可比学位与质量控制体系的跨国标准化。（p. 343）
-> - **跨国营利性教育服务集团** 借由公共私营合作制（Public-Private Partnerships, PPP, Cardini, 2006）在英国外包校舍兴建、地方教育局（Local Educational Authorities, LEAs）运营、[[School Inspection|学校督导]]、教师在职培训乃至配餐服务；大型跨国企业顺势扩展：
+> - **超国家政治经济联盟（以欧洲联盟为例）** [[EU|欧洲联盟]]（European Union, EU，简称欧盟）虽受制于《马斯特里赫特条约》（Treaty of Maastricht）规定的教育辅助性原则（subsidiarity），但依然通过三大关键机制重塑成员国政策：① 倡导最佳实践经验交流与政策对话（例如《欧洲学校教育质量报告》）；② 建立量化指标体系与基准指标（benchmarks）；③ 推进[[Bologna Process|博洛尼亚进程]]（[[Bologna Process]]）构建欧洲高等教育区（European Higher Education Area, EHEA），推行课程架构、欧洲学分互认体系（European Credit Transfer and Accumulation System, ECTS）、可比学位与质量控制体系的跨国标准化。（p. 343）
+> - **跨国营利性教育服务集团** 借由[[Public-Private Partnership|公私伙伴关系]]（Public-Private Partnerships, PPP, Cardini, 2006）在英国外包校舍兴建、地方教育局（Local Educational Authorities, LEAs）运营、[[School Inspection|学校督导]]、教师在职培训乃至配餐服务；大型跨国企业顺势扩展：
 >   - 诺德安达（Nord Anglia Education [[Professional Learning Community|PLC]]）：其首席执行官公开宣称正将英国本土人力与服务优势转化为海外扩张机遇，持续提升跨国管理运营能力；
 >   - 环球教育管理系统（Global Education Management Systems, GEMS）：横跨阿联酋、英国、印度、卡塔尔、德国、利比亚与约旦 7 个国家运营 65 所[[International Schools|国际学校]]，自诩为教育变革的催化剂，直接向多国政府机构提供政策咨询；
 >   - 跨国精英学校网络加速了休·劳德（Hugh Lauder, 2007）所言的全球精英再生产，彻底异于以往巴西模仿[[Grandes Ecoles|法国大学校]]（Grandes Écoles, Cowen & Figueiredo, 1992）或中国大学引入美国学分制（Steiner-Khamsi, 2000）等主权国家主导模式。（p. 344）
@@ -250,7 +254,7 @@ issuing_organization: ""
 > | 国际机构 | 核心认识论立场 | 发展哲学与关键工具 | 典型政策修辞与地缘政治博弈焦点 |
 > |---|---|---|---|
 > | **[[World Bank\|世界银行]]（WB）** | 绝对[[Human Capital Theory\|人力资本理论]]（Human Capital Theory, HCT）主导，自称在广度与严谨性上无可匹敌（1995: 21；p. 347） | 将教育全面工具化为经济增长引擎；以经受三十余年检验的[[Return on Investment\|社会投资回报]]率与成本效益核算为最高评判准绳 | 将教材、黑板与粉笔定为最[[Effective Teaching\|有效教学]]物资；将教师薪酬视为削减成本之主要障碍（Carnoy, 1999）；实证宣称若 1960 年韩国入学率同巴基斯坦一样低，其 1985 年人均国内生产总值（Gross Domestic Product, GDP）将萎缩 40%（pp. 346–347） |
-> | **[[UNESCO\|联合国教科文组织]]（UNESCO）** | 崇高的人本主义立场（Mayor et al., 1997；p. 347） | 坚决反对将人降格为人力资本与生产工具，强调人是发展的终极目的而非经济手段；旨在促进人的全面发展、尊严、和平、宽容与人权 | 菲利普·琼斯（Phillip Jones）与戴维·科尔曼（David Coleman, 2005）揭露 1996 年德洛尔报告《学习：内在的财富》实质是 UNESCO 在北面遭受 OECD 侵蚀、南面遭受世行挤压的领导地位危机中，为重塑政治合法性展开的公开舆论反击（pp. 347–348） |
+> | **[[UNESCO\|联合国教科文组织]]（UNESCO）** | 崇高的人本主义立场（Mayor et al., 1997；p. 347） | 坚决反对将人降格为人力资本与生产工具，强调人是发展的终极目的而非经济手段；旨在促进人的全面发展、尊严、和平、宽容与人权 | 菲利普·琼斯（Phillip Jones）与戴维·科尔曼（David Coleman, 2005）揭露 1996 年[[Delors Report|德洛尔报告]]《学习：内在的财富》（*Learning: The Treasure Within*）实质是 UNESCO 在北面遭受 OECD 侵蚀、南面遭受世行挤压的领导地位危机中，为重塑政治合法性展开的公开舆论反击（pp. 347–348） |
 > | **[[OECD\|经济合作与发展组织]]（OECD）** | 混合型新自由主义经济视角（Papadopoulos, 1994；p. 347） | 虽以经济增长为重心，但主张该主导地位必须受到社会维度与人类福祉的适度平衡与规约 | 放弃指令性强制，通过破译新兴趋势、开展同行评议与制定指标体系确立国际游戏规则，软性引导成员国采纳有效政策 |
 
 比奇对核心政策文本的系统比对证实，上述关于人本主义与经济主义的哲学分歧，实质上统摄在同一个深层思想系统之下，共同服务于跨国政策方案的标准化建构（p. 348）。
@@ -262,7 +266,7 @@ issuing_organization: ""
 > [!proc] 全球教育话语五大支柱普遍模型生成与[[Disciplina and Doctrina|规训]]流程
 > 1. **统一未来预设** 三大国际机构跨越意识形态壁垒，将全球所有国家的未来统一步调地判定为信息时代，宣称其呈现出超越地缘与文化特殊性的客观确定性。
 > 2. **五大支柱模型捆绑输出** 顺应信息时代逻辑，机构成套推销标准改革方案：包括行政治理上的分权化、[[School Autonomy|学校自主权]]、教师队伍专业化、能力本位课程，以及中央质量评估系统。
-> 3. **全盘否定受援国本土传统** 在阿根廷与巴西，该话语将历史上注重系统事实、知识记忆与博雅学术积淀的百科全书式知识传统（encyclopaedic definition of knowledge）直接判为落后、低效与失败，断言必须展开伤筋动骨的全盘体制推翻。（p. 348）
+> 3. **全盘否定受援国本土传统** 在阿根廷与巴西，该话语将历史上注重系统事实、知识记忆与博雅学术积淀的[[Encyclopaedic Definition of Knowledge|百科全书式知识传统]]（encyclopaedic definition of knowledge）直接判为落后、低效与失败，断言必须展开伤筋动骨的全盘体制推翻。（p. 348）
 > 4. **双重垄断与政策空间闭合** 国际机构首先为借款国界定什么是合法的教育问题，接着唯独提供上述模型作为唯一解决方案，从而在[[Epistemology|认识论]]层面直接封杀了发展中国家探索替代性道路的话语空间。（p. 349）
 
 双重垄断机制通过对复杂教育问题的高度过度简化，使该模型展现出极强的通用可塑性（pp. 349, 351–352）。
@@ -352,7 +356,7 @@ issuing_organization: ""
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **新型跨国多元行动者重塑全球教育[[Champ|场域]]** [[Michael Sadler|萨德勒]] 1900 年关于主权国家垄断世界教育花园采撷的设想已被历史彻底超越；跨国营利性教育服务集团（如 GEMS、诺德安达）、大学国际发展咨询部、超国家联盟（如欧盟）以及多边国际组织共同构成了全球教育转移的核心网络。（pp. 341–344）
+> 1. **新型跨国多元行动者重塑全球教育[[Champ|场域]]** [[Michael Sadler|萨德勒]] 1900 年关于主权国家垄断世界教育花园采撷的设想已被历史彻底超越；跨国营利性教育服务集团（如 GEMS、诺德安达借由[[Public-Private Partnership|公私伙伴关系]]运作）、大学国际发展咨询部、超国家联盟（如[[EU|欧盟]]）以及多边国际组织共同构成了全球教育转移的核心网络。（pp. 341–344）
 > 2. **[[Global Educational Discourse|全球教育话语]]对政策空间的双重闭合机制** [[UNESCO]]、[[World Bank|世界银行]]与 [[OECD]] 在 1985–1996 年间实质共享了一套以信息时代为前景、捆绑五大支柱（分权、[[School Autonomy|学校自主]]、教师专业化、能力本位、统一质检）的单一普遍模型；该模型通过统一定义危机并垄断提供解方，从[[Epistemology|认识论]]源头上闭合了受援国构想替代性政策的可能性。（pp. 347–349）
 > 3. **五位置流通模型与拉美[[Gatekeepers|守门人]]垄断** 比奇首创涵盖全球学术、国际组织、国家、本土学术与学校机构的五位置模型；揭示在阿根廷与巴西，本土学术精英、国家决策高官与国际贷款顾问身份高度重合，形成严密的守门人群体，掌控研究资助并阻绝了独立批判性本土学术[[Discourse|话语]]的生产。（pp. 349–353）
 > 4. **普遍模型落地必然诱发微观实践异化** 去情境化模型在微观机构必然发生[[Recontextualization|再语境化]]脱节；阿根廷教师在课程自主权改革中因专业培训缺失被迫直接翻抄商业教辅目录备课，巴阿两国对教师实训政策引发的截然相反反应，确证了全球抽象战略无法解决地方具体问题。（pp. 353–355）

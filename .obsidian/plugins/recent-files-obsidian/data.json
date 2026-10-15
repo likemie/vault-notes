@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Stephen Ball",
-      "path": "wiki/persons/uk/Stephen Ball.md"
+      "basename": "Argument_Garcia_Garrido_2009_SpainEU",
+      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Garcia_Garrido_2009_SpainEU.md"
     },
     {
       "basename": "Argument_Beech_2009_GlobalGarden",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Beech_2009_GlobalGarden.md"
+    },
+    {
+      "basename": "Jason Beech",
+      "path": "wiki/persons/argentina/Jason Beech.md"
+    },
+    {
+      "basename": "Argument_Beech_2009_CE",
+      "path": "wiki/arguments/journal-articles/Comparative Education/Argument_Beech_2009_CE.md"
+    },
+    {
+      "basename": "Stephen Ball",
+      "path": "wiki/persons/uk/Stephen Ball.md"
     },
     {
       "basename": "Argument_Castro_2009_MultilateralBanks",
@@ -45,10 +57,6 @@
       "path": "wiki/instruments/observation-tools/Teach Classroom Observation Tool.md"
     },
     {
-      "basename": "Jason Beech",
-      "path": "wiki/persons/argentina/Jason Beech.md"
-    },
-    {
       "basename": "Plato",
       "path": "wiki/persons/greece/Plato.md"
     },
@@ -79,10 +87,6 @@
     {
       "basename": "Washington Consensus",
       "path": "wiki/concepts/political-economy-geopolitics/Washington Consensus.md"
-    },
-    {
-      "basename": "Argument_Garcia_Garrido_2009_SpainEU",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Garcia_Garrido_2009_SpainEU.md"
     },
     {
       "basename": "Argument_Arnove_2009_WorldSystems",
@@ -195,10 +199,6 @@
     {
       "basename": "Governing at a Distance",
       "path": "wiki/theories/political-economy-geopolitics/Governing at a Distance.md"
-    },
-    {
-      "basename": "Steering at a Distance",
-      "path": "wiki/concepts/higher-education/Steering at a Distance.md"
     }
   ],
   "omittedPaths": [],
