@@ -1421,6 +1421,9 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
                 check_instrument_developers(path, fm, data.get("developers"), issues)
 
     if is_citation_eligible_argument(data):
+        citation = data.get("citation")
+        if not isinstance(citation, str) or not citation.strip():
+            issues.append(Issue("ERROR", rel(path), "citation-eligible Argument must include a non-empty full citation", line=frontmatter_line_number(fm, "citation"), code="CITATION_FULL_MISSING"))
         for field in ["year", "citation_aliases"]:
             if field not in data or data.get(field) in (None, "", []):
                 issues.append(Issue("WARN", rel(path), f"citation-eligible Argument missing {field}", line=frontmatter_line_number(fm, field), code=f"CITATION_{field.upper()}_MISSING"))
@@ -1730,8 +1733,8 @@ def check_sources_section(path: Path, text: str, data: Optional[Dict[str, Any]],
 
     source_sec = section_text(body, ["来源", "Sources"])
     links = [target for target, _ in extract_wikilinks(source_sec)]
-    if data is not None and data.get("status") != "draft" and not links:
-        issues.append(Issue("WARN", rel(path), "non-draft Argument has empty 来源 section", code="ARGUMENT_SOURCE_SECTION_EMPTY"))
+    if not links:
+        issues.append(Issue("WARN", rel(path), "Argument 来源 section must contain source record wikilinks", code="ARGUMENT_SOURCE_SECTION_EMPTY"))
     for target in links:
         if "/" not in target:
             issues.append(
@@ -2217,11 +2220,23 @@ def normalize_citation_alias_text(text: str) -> str:
 
 
 def has_english_author_and(text: str) -> bool:
-    return bool(ENGLISH_AUTHOR_AND_RE.search(text))
+    return fix_english_author_and(text) != text
 
 
 def fix_english_author_and(text: str) -> str:
-    return ENGLISH_AUTHOR_AND_RE.sub(" & ", text)
+    """Use 'and' in narrative displays and '&' in parenthetical displays.
+
+    Canonical citation aliases still use '&'; display style does not change
+    the author-year lookup key. Chinese author conjunctions are untouched.
+    """
+    year = re.search(r"(?:19|20)\d{2}[a-z]?", text)
+    if not year:
+        return text
+    prefix = text[:year.start()]
+    narrative = not text.lstrip().startswith(("(", "（")) and prefix.rstrip().endswith(("(", "（"))
+    conjunction = " and " if narrative else " & "
+    prefix = re.sub(r"(?<=[A-Za-zÀ-ÖØ-öø-ÿ])\s*(?:&|and|和)\s*(?=[A-ZÀ-ÖØ-Þ])", conjunction, prefix)
+    return prefix + text[year.start():]
 
 
 def citation_display_has_author_year(display: str) -> bool:
@@ -2492,7 +2507,7 @@ def check_citation_links(path: Path, text: str, data: Optional[Dict[str, Any]], 
             issues.append(Issue("WARN", rel(path), f"non-Argument entries should cite Argument links with author-year display, not page-only display: {display!r}; expected like {expected!r}", line=line_of_pos(body_no_sources, m.start(), body_start_line), code="ARGUMENT_LINK_AUTHOR_YEAR_MISSING"))
         if display and citation_display_text(display):
             if has_english_author_and(display):
-                issues.append(Issue("WARN", rel(path), f"English two-author citation should use '&': {display!r} -> {fix_english_author_and(display)!r}", line=line_of_pos(body_no_sources, m.start(), body_start_line), code="CITATION_ENGLISH_AND"))
+                issues.append(Issue("WARN", rel(path), f"English two-author citation conjunction does not match narrative/parenthetical style: {display!r} -> {fix_english_author_and(display)!r}", line=line_of_pos(body_no_sources, m.start(), body_start_line), code="CITATION_ENGLISH_AND"))
             if not citation_display_matches_aliases(display, aliases):
                 issues.append(Issue("WARN", rel(path), f"citation link display {display!r} does not match target citation_aliases {aliases!r}", line=line_of_pos(body_no_sources, m.start(), body_start_line), code="CITATION_LINK_TARGET_MISMATCH"))
 
@@ -2506,7 +2521,7 @@ def check_citation_links(path: Path, text: str, data: Optional[Dict[str, Any]], 
         if raw_citation_is_reference_fragment(txt):
             continue
         if has_english_author_and(txt):
-            issues.append(Issue("WARN", rel(path), f"English two-author citation should use '&': {txt!r} -> {fix_english_author_and(txt)!r}", line=line_of_pos(body_no_sources, m.start(), body_start_line), code="CITATION_ENGLISH_AND"))
+            issues.append(Issue("WARN", rel(path), f"English two-author citation conjunction does not match narrative/parenthetical style: {txt!r} -> {fix_english_author_and(txt)!r}", line=line_of_pos(body_no_sources, m.start(), body_start_line), code="CITATION_ENGLISH_AND"))
         self_targets = {path.stem} if is_argument_entry(data) else set()
         if is_argument_entry(data) and data:
             if data.get("title"):
@@ -2606,7 +2621,7 @@ def fix_body_spans(text: str, argument_citations: Dict[str, Dict[str, Any]]) -> 
         annotation = body[m.start(2):m.end(2)]
         edits.append((m.start(), m.end(), f"**{chinese.strip()}{annotation}**"))
 
-    # English two-author citations: 'X and Y' / 'X 和 Y' -> 'X & Y'.
+    # Format two-author displays by narrative/parenthetical style; keep lookup aliases canonical.
     cite_scan = mask_h2_sections_preserve(scan, ["来源", "Sources", "Source"])
     for m in WIKILINK_RE.finditer(cite_scan):
         raw = m.group(1)

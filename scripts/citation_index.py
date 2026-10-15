@@ -503,6 +503,9 @@ def check(items: list[ArgumentCitation]) -> int:
     errors = 0
     seen: dict[str, list[str]] = {}
     for item in items:
+        if not isinstance(item.citation, str) or not item.citation.strip():
+            print(f"❌ citation-eligible Argument missing full citation: {item.rel_path}")
+            errors += 1
         for alias in item.aliases:
             seen.setdefault(alias, []).append(item.rel_path)
     for alias, paths in seen.items():
@@ -529,7 +532,7 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="Maintain Argument citation aliases and citation JSON indexes.")
     parser.add_argument("--dry-run", action="store_true", help="Preview changes without writing.")
     parser.add_argument("--full", action="store_true", help="Accepted for workflow symmetry; citation indexing is always full.")
-    parser.add_argument("--check", action="store_true", help="Check generated alias uniqueness and exit.")
+    parser.add_argument("--check", action="store_true", help="Check full citations, alias uniqueness, and inherited chapter metadata without writing.")
     args = parser.parse_args()
 
     items, inherited_chapters = load_arguments()

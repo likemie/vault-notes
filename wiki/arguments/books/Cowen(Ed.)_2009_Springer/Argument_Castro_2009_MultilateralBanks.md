@@ -84,7 +84,6 @@ related_facts:
 related_arguments: []
 sources:
   - "[[books/Cowen(Ed.)_2009_Springer/Ch29_Castro_2009|Ch29_Castro_2009]]"
-part_of: "[[books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer|Cowen(Ed.)_2009_Springer]]"
 status: active
 created: 2026-10-14
 updated: 2026-10-15

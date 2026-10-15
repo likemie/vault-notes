@@ -1,5 +1,10 @@
 ---
 type: argument
+authors:
+  - "Darwish, B."
+source_language: en
+year: 2009
+citation: "Darwish, B. (2009). Education as a Political Act: Dewey, Freire and the (International Baccalaureate) Theory of Knowledge Curriculum (Master's thesis). Faculty of Education, Queen's University."
 title: "Argument_Darwish_2009_Queens"
 argument_key: "Argument_Darwish_2009_Queens"
 argument_display_title: "Argument_Darwish_2009_Queens"
@@ -35,7 +40,7 @@ tags:
   - school-reform
   - constructivism
 created: 2026-07-28
-updated: 2026-09-21
+updated: 2026-10-15
 sources: []
 related_concepts:
   - "[[Active Learning]]"
@@ -701,3 +706,7 @@ related_persons:
 > | **对社会不公的态度** | 维护现存社会统治秩序 | 在课堂内部开展理智讨论 | **发起实质社会变革行动** | **仅在课堂内理智讨论** |
 > | **潜藏的病理陷阱** | [[Narration Sickness\|叙事病]]与文化驯化 | [[Verbalism\|言语主义]]与象牙塔空谈 | 缺乏策略的盲动主义（Activism） | **[[Verbalism\|言语主义]]空谈陷阱** |
 > | **课程范式评估结论** | 彻底否决 | **高度肯定并定位归属** | **指明为其缺失的终极目标** | **在过程上成功，在实践上缺失** |
+
+## 来源
+
+- [[books/Darwish_2009_Queens/Darwish_2009_Queens|Darwish_2009_Queens]]

@@ -1744,7 +1744,7 @@
         "[[Lawrence Manion|Manion, L.]]",
         "[[Keith Morrison|Morrison, K.]]"
       ],
-      "citation": "",
+      "citation": "Cohen, L., Manion, L., & Morrison, K. (2011). Research methods in education (7th ed.). London: Routledge.",
       "doi": "",
       "isbn": "978-0-415-58336-7",
       "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge.md",
@@ -1782,7 +1782,7 @@
         "[[Lawrence Manion|Manion, L.]]",
         "[[Keith Morrison|Morrison, K.]]"
       ],
-      "citation": "",
+      "citation": "Cohen, L., Manion, L., & Morrison, K. (2011). Research methods in education (7th ed.). London: Routledge.",
       "doi": "",
       "isbn": "978-0-415-58336-7",
       "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge.md",
@@ -2130,6 +2130,40 @@
       "source_language": "en",
       "title": "Argument_Dachet_2021_ECNUROE",
       "year": "2021"
+    },
+    "Darwish (2009)": {
+      "aliases": [
+        "Darwish, 2009",
+        "Darwish (2009)"
+      ],
+      "argument": "Argument_Darwish_2009_Queens",
+      "authors": [
+        "Darwish, B."
+      ],
+      "citation": "Darwish, B. (2009). Education as a Political Act: Dewey, Freire and the (International Baccalaureate) Theory of Knowledge Curriculum (Master's thesis). Faculty of Education, Queen's University.",
+      "doi": "",
+      "isbn": "",
+      "path": "wiki/arguments/books/Darwish_2009_Queens/Argument_Darwish_2009_Queens.md",
+      "source_language": "en",
+      "title": "Argument_Darwish_2009_Queens",
+      "year": "2009"
+    },
+    "Darwish, 2009": {
+      "aliases": [
+        "Darwish, 2009",
+        "Darwish (2009)"
+      ],
+      "argument": "Argument_Darwish_2009_Queens",
+      "authors": [
+        "Darwish, B."
+      ],
+      "citation": "Darwish, B. (2009). Education as a Political Act: Dewey, Freire and the (International Baccalaureate) Theory of Knowledge Curriculum (Master's thesis). Faculty of Education, Queen's University.",
+      "doi": "",
+      "isbn": "",
+      "path": "wiki/arguments/books/Darwish_2009_Queens/Argument_Darwish_2009_Queens.md",
+      "source_language": "en",
+      "title": "Argument_Darwish_2009_Queens",
+      "year": "2009"
     },
     "De Jong et al. (2023)": {
       "aliases": [

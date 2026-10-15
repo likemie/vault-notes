@@ -40,7 +40,7 @@ sources: []
 part_of: ''
 status: draft
 created: '2026-05-20'
-updated: 2026-07-11
+updated: 2026-10-15
 year: 2015
 doi: ""
 citation_aliases:
@@ -123,4 +123,4 @@ citation_aliases:
 
 ## 来源
 
-- Håkansson_2015_Paideia
+- [[sources/Håkansson_2015_Paideia|Håkansson_2015_Paideia]]

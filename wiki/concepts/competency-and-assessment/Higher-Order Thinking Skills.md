@@ -15,7 +15,6 @@ related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
 confidence: high
-status: draft
 tags:
   - theme/higher-order-thinking
   - cognition/learning-science

@@ -162,9 +162,10 @@ def normalize_author(author: str) -> str:
     return normalize_citation_alias(author)
 
 
-def normalize_display_author(author: str) -> str:
+def normalize_display_author(author: str, narrative: bool = False) -> str:
     author = re.sub(r"\s+", " ", author).strip()
-    return re.sub(r"(?<=[A-Za-zÀ-ÖØ-öø-ÿ])\s*(?:and|和)\s*(?=[A-ZÀ-ÖØ-Þ])", " & ", author)
+    conjunction = " and " if narrative else " & "
+    return re.sub(r"(?<=[A-Za-zÀ-ÖØ-öø-ÿ])\s*(?:&|and|和)\s*(?=[A-ZÀ-ÖØ-Þ])", conjunction, author)
 
 
 def normalize_locator(locator: str) -> str:
@@ -317,7 +318,7 @@ def link_wikilink_parenthetical(text: str, lookup: dict[str, dict[str, Any]], st
 
 def link_narrative(text: str, lookup: dict[str, dict[str, Any]], stats: dict[str, int], missing: list[str]) -> str:
     def repl(m: re.Match[str]) -> str:
-        display_author = normalize_display_author(m.group("author"))
+        display_author = normalize_display_author(m.group("author"), narrative=True)
         author = normalize_author(display_author)
         year = m.group("year").strip()
         locator = normalize_locator(m.group("locator") or "")
@@ -333,7 +334,7 @@ def link_narrative(text: str, lookup: dict[str, dict[str, Any]], stats: dict[str
 
 def link_wikilink_narrative(text: str, lookup: dict[str, dict[str, Any]], stats: dict[str, int], missing: list[str]) -> str:
     def repl(m: re.Match[str]) -> str:
-        display_author = normalize_display_author(wikilink_display(m.group("link")))
+        display_author = normalize_display_author(wikilink_display(m.group("link")), narrative=True)
         author = normalize_author(display_author)
         year = m.group("year").strip()
         locator = normalize_locator(m.group("locator") or "")

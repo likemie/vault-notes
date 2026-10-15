@@ -19,7 +19,7 @@ book_title: "Research Methods in Education"
 publisher: "Routledge"
 year: 2011
 isbn: "978-0-415-58336-7"
-citation: ""
+citation: "Cohen, L., Manion, L., & Morrison, K. (2011). Research methods in education (7th ed.). London: Routledge."
 citation_aliases:
   - "Cohen et al., 2011"
   - "Cohen et al. (2011)"
@@ -92,7 +92,7 @@ sources:
 part_of:
 status: draft
 created: 2026-06-12
-updated: 2026-10-07
+updated: 2026-10-15
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge
 

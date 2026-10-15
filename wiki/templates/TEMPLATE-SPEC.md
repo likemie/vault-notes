@@ -10,7 +10,7 @@ related_persons:
   - "[[Yajun Zheng]]"
 status: active
 created: 2026-06-01
-updated: 2026-10-08
+updated: 2026-10-15
 ---
 # Template Spec
 
@@ -91,7 +91,8 @@ updated: 2026-10-08
 - `citation_aliases` 由 `scripts/citation_index.py` 自动生成，AI 不手动维护。
 - `citation_aliases` 只保留基本作者年份形式：`Author, Year` 与 `Author (Year)`。
 - 不把页码形式写进 `citation_aliases`；页码由 `scripts/citation_linker.py` 在正文补链时动态识别。
-- 英文文献按 APA 生成英文 alias：双作者用 `&`，三位及以上用 `et al.`。
+- 英文文献按 APA 生成英文 alias：双作者用 `&`，三位及以上用 `et al.`。机器索引的 alias 保持此规范；正文及链接显示文本的双作者叙述式使用 `and`，如 `Hofer and Pintrich (1997)`，括号式使用 `&`，如 `(Hofer & Pintrich, 1997)`。检查器和补链器按引用形式处理显示文本。
+- 可引用 Argument 必须填写非空完整 `citation`；`vault_lint.py` 与 `citation_index.py --check` 均检查。专著和教材的章节 Argument 可继承全书引用，论文集 overview 不作为可引用单元。
 - 中文论文或著作若 `citation` 字段含中文作者名，`scripts/citation_index.py` 会额外生成中文 alias，例如 `郑雅君, 2023` 与 `郑雅君 (2023)`；中文双作者用“和”，三位及以上用“等”。
 - 同一作者同一年多篇文献时，`scripts/citation_index.py` 自动追加 `a`、`b`、`c` 后缀。
 - 正文 APA 短引用补链由 `scripts/citation_linker.py` 完成；用户确认标准流程后由 `.venv/bin/python3 scripts/vault_index.py --standard-workflow` 统一触发。
