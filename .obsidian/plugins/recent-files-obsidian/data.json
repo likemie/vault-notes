@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Argument_WorldBank_2019_Teach",
+      "path": "wiki/arguments/reports-policy-documents/Argument_WorldBank_2019_Teach.md"
+    },
+    {
       "basename": "Argument_Castro_2009_MultilateralBanks",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Castro_2009_MultilateralBanks.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "PISA Shock",
       "path": "wiki/concepts/comparative-education/PISA Shock.md"
-    },
-    {
-      "basename": "State Educational Sovereignty",
-      "path": "wiki/concepts/comparative-education/State Educational Sovereignty.md"
     }
   ],
   "omittedPaths": [],
