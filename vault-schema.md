@@ -16,7 +16,7 @@
 
 - 普通论文 / 报告 source record 使用最终 `<论文命名>` 创建；完整 citation 在 Argument 页完成后由 `source_record.py finalize` 回填。若文献包含需要保留占位的 figure，`finalize` 时使用 `--with-figures` 生成 `sources/<论文命名>/figures/`。
 - 新建、移动、删除、重命名条目后，自动运行基础索引：`vault_index.py`（内部维护书籍 overview 章节表格、研究地图统计，并依次运行 `wiki_index.py` 与 `citation_index.py`）。是否继续运行 citation 补链、普通 wiki 补链、关系同步与 Concept 派生字段同步，由用户确认。
-- 任何修改了 vault 文件的任务，结束前必须依次运行 `vault_index.py` 与 `vault_lint.py`（增量），并解决全部 ERROR；lint 报告 0 error 才算完成。本地不设 pre-commit 钩子，lint 是唯一的本地门禁。
+- 任何修改了 vault 文件的任务，结束前必须依次运行 `vault_index.py` 与 `vault_lint.py`（增量）。`vault_index.py` 会先对改动过的文件自动完成机械性修复（见第 5 节），lint 只报告需要判断的问题。必须解决全部 ERROR，以及本次改动新引入的全部 WARN（增量 lint 只列出新引入的警告，HEAD 已有的会隐藏）；确属合理保留的警告须在回复中说明理由。lint 报告 0 error 且无未处理的新警告才算完成。本地不设 pre-commit 钩子，lint 是唯一的本地门禁。
 - 非必要不要运行 `--full`。优先使用 git 增量或路径限定；只有批量重命名/移动/删除、批量 title/alias/citation 字段变更、增量结果异常、发布/备份/重要提交前，才使用 full sync 或 full lint。
 
 ---
@@ -330,7 +330,9 @@ Frontmatter 中同一 YAML 映射内不得重复声明键，包括嵌套映射�
 
 本地不使用 git pre-commit 钩子：Obsidian Git 每 10 分钟自动提交备份，钩子会让含未完成内容的备份静默失败。门禁分两层：
 
-1. 本地：`vault_lint.py` 即提交门禁。除内容检查外，它并行检查 wiki 索引是否最新（`INDEX_STALE`）、引用索引是否一致（`CITATION_INDEX_STALE`），`scripts/` 或 `tests/` 有改动时运行回归测试（`TESTS_FAILED`），文件选择范围与 `scripts/check_vault.py` 一致。结束任务前先运行 `vault_index.py` 再运行 lint，任何 ERROR 都必须解决。`--no-gate` 只用于调试，`--tests` 强制运行测试。
+1. 本地：`vault_lint.py` 即提交门禁。除内容检查外，它并行检查 wiki 索引是否最新（`INDEX_STALE`）、引用索引是否一致（`CITATION_INDEX_STALE`），`scripts/` 或 `tests/` 有改动时运行回归测试（`TESTS_FAILED`），文件选择范围与 `scripts/check_vault.py` 一致。结束任务前先运行 `vault_index.py` 再运行 lint，任何 ERROR 和新引入的 WARN 都必须解决。增量模式与 `--path` 只列出相对 HEAD 新引入的警告（按检查项与提示内容比对，行号变化不影响）；`--all-warnings` 显示全部，`--full` 始终显示全部，用于盘点存量。`--no-gate` 只用于调试，`--tests` 强制运行测试。
+
+`vault_index.py` 在基础索引开头对 git 中有改动的文件自动执行机械性修复，不需要手动处理，也不再出现在 lint 中：英文双作者引用连接词（叙述用 and、括号内用 &）、加粗边界、summary 引号、`[!axis]` 分隔符、引用链接缺失的 a/b/c 年份后缀、非 Argument 条目中裸 `[[Argument_…]]` 链接补作者年份、与标题重复的 alias、同一段落或 callout 内重复的括号式引用链接；随后把正文有改动的条目 `updated` 设为当天。手动执行同样的修复可用 `vault_lint.py --fix`。
 2. 发布：GitHub Actions 运行 `scripts/check_vault.py`（回归测试、只读 wiki 索引检查、完整引用检查和增量 lint），未通过则不发布。
 
 手动执行与 CI 相同的检查使用 `.venv/bin/python3 scripts/check_vault.py`。依赖在 `requirements.txt` 中固定，CI 据此安装，不得删除。`scripts/hooks/pre-commit` 保留备用；如需临时恢复钩子：`git config --local core.hooksPath scripts/hooks`。
