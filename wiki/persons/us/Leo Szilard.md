@@ -4,8 +4,6 @@ aliases:
   - 利奥·西拉德
   - 西拉德
   - Leó Szilárd
-alias_reviewed:
-  - 西拉德
 summary: "美籍匈牙利裔物理学家与发明家，核链式反应概念的提出者与原子能利用先驱；1939年发起并起草爱因斯坦致罗斯福总统信函，促成曼哈顿工程启动与战时国家科研动员体系的建立。"
 type: person
 nationality: us
@@ -42,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Leo Szilard

@@ -3,8 +3,6 @@ title: Confirmatory Factor Analysis
 aliases:
   - 验证性因子分析
   - CFA
-alias_reviewed:
-  - CFA
 summary: "一种用于检验观测变量（如问卷题项）与潜在结构（如潜变量/因子）之间假设关系的多元统计方法。常用于量表开发、结构效度检验和测量模型确证。"
 type: method
 method_type: quantitative
@@ -46,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-15
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Confirmatory Factor Analysis

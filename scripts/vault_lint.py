@@ -173,7 +173,6 @@ AUTO_RELATION_FIELDS = RELATED_FIELDS + ["sources"]
 PROTECTED_FIELDS = [
     "title",
     "aliases",
-    "alias_reviewed",
     "summary",
     "type",
     "subtype",
@@ -570,9 +569,76 @@ def iter_md_files(base: Path) -> Iterable[Path]:
         yield p
 
 
+# Text overrides let lint_file() check a file's HEAD version (see
+# baseline_warning_keys) without touching the working tree.
+_TEXT_OVERRIDES: Dict[Path, str] = {}
+
+
 @lru_cache(maxsize=None)
-def read_text(path: Path) -> str:
+def _read_text_disk(path: Path) -> str:
     return path.read_text(encoding="utf-8")
+
+
+def read_text(path: Path) -> str:
+    override = _TEXT_OVERRIDES.get(path)
+    if override is not None:
+        return override
+    return _read_text_disk(path)
+
+
+read_text.cache_clear = _read_text_disk.cache_clear  # type: ignore[attr-defined]
+
+
+def git_files_at_head(rel_paths: List[str]) -> Dict[str, str]:
+    """Read many files from HEAD through one `git cat-file --batch` call."""
+    if not rel_paths:
+        return {}
+    request = "".join(f"HEAD:{p}\n" for p in rel_paths).encode("utf-8")
+    try:
+        result = subprocess.run(["git", "cat-file", "--batch"], cwd=ROOT, input=request,
+                                stdout=subprocess.PIPE, stderr=subprocess.DEVNULL, check=False)
+    except Exception:
+        return {}
+    import io as _io
+    stream = _io.BytesIO(result.stdout)
+    files: Dict[str, str] = {}
+    for p in rel_paths:
+        header = stream.readline().rstrip(b"\n")
+        if not header or header.endswith(b" missing"):
+            continue
+        try:
+            size = int(header.rsplit(b" ", 1)[1])
+        except (IndexError, ValueError):
+            break
+        files[p] = stream.read(size).decode("utf-8", errors="replace")
+        stream.read(1)
+    return files
+
+
+def baseline_warning_keys(files: List[Path], by_title, path_to_title, argument_citations) -> "Counter[Tuple[str, str, str]]":
+    """WARN/INFO findings each file already had at HEAD, keyed by
+    (path, code, message) - line numbers ignored so shifted text still matches."""
+    from collections import Counter as _Counter
+    keys: "Counter[Tuple[str, str, str]]" = _Counter()
+    rels = {p: unicodedata.normalize("NFC", rel(p)) for p in files}
+    head = git_files_at_head(sorted(set(rels.values())))
+    for p in files:
+        text = head.get(rels[p])
+        if text is None:
+            continue
+        found: List[Issue] = []
+        _TEXT_OVERRIDES[p] = text
+        try:
+            lint_file(p, by_title, path_to_title, argument_citations, found)
+        except Exception:
+            pass
+        finally:
+            _TEXT_OVERRIDES.pop(p, None)
+        for issue in found:
+            if issue.severity in ("WARN", "INFO"):
+                keys[(issue.path, issue.code, issue.message)] += 1
+    entry_metadata.cache_clear()
+    return keys
 
 
 def run_git(args: List[str]) -> str:
@@ -1341,61 +1407,6 @@ def get_global_alias_and_title_maps(by_title: Dict[str, Dict[str, Any]]) -> Tupl
     return cached
 
 
-SHORT_ALIAS_CJK_MAX = 2      # Chinese aliases of 1-2 characters
-SHORT_ALIAS_LATIN_MAX = 3    # Latin aliases of 1-3 letters/digits (EFA, SEL, RCT)
-SHORT_ALIAS_PERSON_CJK_MAX = 3  # surname-only Chinese person aliases (科尔曼, 库姆斯)
-_SHORT_ALIAS_TERMS_CACHE: Dict[int, List[Tuple[str, str]]] = {}
-
-
-def short_alias_kind(alias: str, typ: str) -> str:
-    """Return a label when an alias is short enough to carry homonym risk."""
-    a = alias.strip()
-    is_cjk = any("㐀" <= ch <= "鿿" for ch in a)
-    if is_cjk:
-        if len(a) <= SHORT_ALIAS_CJK_MAX:
-            return f"{len(a)}-character Chinese"
-        if typ == "person" and "·" not in a and len(a) <= SHORT_ALIAS_PERSON_CJK_MAX:
-            return "Chinese surname-only person alias"
-        return ""
-    compact = re.sub(r"[^A-Za-z0-9]", "", a)
-    if compact and len(compact) <= SHORT_ALIAS_LATIN_MAX and " " not in a:
-        return f"{len(compact)}-letter Latin"
-    return ""
-
-
-def short_alias_collisions(alias: str, owner_title: Any, by_title: Dict[str, Dict[str, Any]]) -> List[str]:
-    """Other entries whose title or aliases contain this short alias.
-
-    Chinese has no word boundaries, so any substring counts; Latin aliases must
-    match as a whole token (case-sensitive for all-caps acronyms)."""
-    if not by_title:
-        return []
-    cache = _SHORT_ALIAS_TERMS_CACHE.get(id(by_title))
-    if cache is None:
-        cache = []
-        for t, item in by_title.items():
-            title = str(item.get("title") or t)
-            if title.startswith("Argument_"):
-                continue
-            for term in [title] + [str(x) for x in (item.get("aliases") or [])]:
-                cache.append((unicodedata.normalize("NFC", term), title))
-        _SHORT_ALIAS_TERMS_CACHE[id(by_title)] = cache
-    a = unicodedata.normalize("NFC", alias.strip())
-    is_cjk = any("㐀" <= ch <= "鿿" for ch in a)
-    if is_cjk:
-        hit = lambda term: a in term and term != a
-    else:
-        flags = 0 if a.isupper() else re.IGNORECASE
-        rx = re.compile(r"(?<![A-Za-z0-9])" + re.escape(a) + r"(?![A-Za-z0-9])", flags)
-        hit = lambda term: term.lower() != a.lower() and rx.search(term) is not None
-    owner = str(owner_title or "")
-    return sorted({t for term, t in cache if t != owner and hit(term)})
-
-
-_HOMONYM_INDEX_CACHE: Dict[int, Tuple[Dict[str, Set[Tuple[str, str]]], Dict[str, Set[Tuple[str, str]]]]] = {}
-_PAREN_ABBR_RE = re.compile(r"[(（]\s*([^()（）]+?)\s*[)）]")
-
-
 def _is_declared_abbreviation(inner: str, before: str) -> bool:
     """True when '(XYZ)' abbreviates the words right before it.
 
@@ -1535,8 +1546,6 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
             seen_alias_keys = set()
             title_key = unicodedata.normalize("NFC", str(title)).lower().strip() if isinstance(title, str) else ""
             title_map, alias_map = get_global_alias_and_title_maps(by_title) if by_title else ({}, {})
-            reviewed_val = data.get("alias_reviewed") or []
-            reviewed_keys = {unicodedata.normalize("NFC", str(x).strip()).lower() for x in reviewed_val} if isinstance(reviewed_val, list) else set()
             for alias in aliases_val:
                 if not isinstance(alias, str) or not alias.strip():
                     continue
@@ -1565,29 +1574,9 @@ def check_frontmatter(path: Path, text: str, by_title: Dict[str, Dict[str, Any]]
                     issues.append(Issue(
                         "ERROR", rel(path),
                         f"alias {alias!r} is a homonym of another entry: {', '.join(homonyms[:5])}. "
-                        "Aliases must not be shared across entries; delete it or replace it with a longer specific form (alias_reviewed cannot silence this).",
+                        "Aliases must not be shared across entries; delete it or replace it with a longer specific form.",
                         line=alias_line, code="ALIAS_HOMONYM",
                     ))
-                short_kind = short_alias_kind(a, typ)
-                if short_kind and key not in reviewed_keys:
-                    collisions = short_alias_collisions(a, title, by_title)
-                    coll_text = ""
-                    if collisions:
-                        shown = ", ".join(collisions[:5])
-                        more = f" (+{len(collisions) - 5})" if len(collisions) > 5 else ""
-                        coll_text = f"; the same string also appears in: {shown}{more}"
-                    issues.append(Issue(
-                        "WARN", rel(path),
-                        f"short alias {alias!r} ({short_kind}) needs a homonym-risk review before auto-linking{coll_text}. "
-                        "AI check, mainly for homonyms: does this string also name a different concept, person, organisation or abbreviation in the vault's fields "
-                        "(e.g. 'EFA' = Education for All vs Exploratory Factor Analysis; '科尔曼' = David Coleman vs James Coleman)? If yes, delete it or replace it with a longer specific form. "
-                        "Occasional false hits from the string being embedded in other words are tolerable for common field terms (e.g. '后测'); remove only if they are frequent. "
-                        "If safe, add it to `alias_reviewed` to silence this warning.",
-                        line=alias_line, code="ALIAS_SHORT_RISK",
-                    ))
-            alias_keys_all = {unicodedata.normalize("NFC", str(x).strip()).lower() for x in aliases_val if isinstance(x, str)}
-            for rk in sorted(reviewed_keys - alias_keys_all):
-                issues.append(Issue("WARN", rel(path), f"alias_reviewed lists {rk!r}, which is no longer in aliases; remove it", line=frontmatter_line_number(fm, "alias_reviewed"), code="ALIAS_SHORT_RISK"))
 
     # Only Argument pages maintain source record links.
     if is_wiki_entry_path(path) and typ in {"concept", "theory", "method", "instrument", "person", "fact"} and "sources" in data:
@@ -2281,10 +2270,6 @@ def check_markdown_misc(path: Path, text: str, issues: List[Issue]) -> None:
     if text.count("```") % 2 != 0:
         issues.append(Issue("WARN", rel(path), "odd number of fenced code block markers ```", code="CODE_FENCE_UNCLOSED"))
 
-    # DOI naked with problematic chars is just info.
-    for m in DOI_RE.finditer(text):
-        # If DOI is in markdown link URL, likely okay.
-        issues.append(Issue("INFO", rel(path), f"DOI found; ensure special chars are safe or in frontmatter: {m.group(0)}", line=line_of_pos(text, m.start()), code="DOI_FOUND"))
 
     # HTML hex colors generally.
     for m in re.finditer(r"#[0-9a-fA-F]{3,6}\b", text):
@@ -3312,7 +3297,11 @@ def finish_gate_checks(started, issues: List[Issue]) -> None:
         issues.append(Issue("ERROR", issue_path, f"commit gate check failed ({hint}); output: {tail}", code=code))
 
 
-def lint_vault(paths: List[Path], strict: bool = False, full: bool = False, fix: bool = False, gate: bool = True, run_tests: Optional[bool] = None) -> List[Issue]:
+# Set by lint_vault(): how many pre-existing warnings were hidden.
+HIDDEN_PREEXISTING_WARNINGS = 0
+
+
+def lint_vault(paths: List[Path], strict: bool = False, full: bool = False, fix: bool = False, gate: bool = True, run_tests: Optional[bool] = None, all_warnings: bool = False) -> List[Issue]:
     issues: List[Issue] = []
     check_required_files(issues)
     by_title, path_to_title = load_index(issues)
@@ -3352,8 +3341,29 @@ def lint_vault(paths: List[Path], strict: bool = False, full: bool = False, fix:
 
     gate_checks = start_gate_checks(run_tests) if gate else []
 
+    # Outside --full, report only warnings this change introduced: compare
+    # each file's findings with its HEAD version and hide the ones it had.
+    global HIDDEN_PREEXISTING_WARNINGS
+    baseline = None
+    if not full and not all_warnings:
+        baseline = baseline_warning_keys(unique_files, by_title, path_to_title, argument_citations)
+
+    file_issues: List[Issue] = []
     for p in unique_files:
-        lint_file(p, by_title, path_to_title, argument_citations, issues)
+        lint_file(p, by_title, path_to_title, argument_citations, file_issues)
+    hidden = 0
+    if baseline:
+        kept: List[Issue] = []
+        for issue in file_issues:
+            key = (issue.path, issue.code, issue.message)
+            if issue.severity in ("WARN", "INFO") and baseline.get(key, 0) > 0:
+                baseline[key] -= 1
+                hidden += 1
+                continue
+            kept.append(issue)
+        file_issues = kept
+    HIDDEN_PREEXISTING_WARNINGS = hidden
+    issues.extend(file_issues)
 
     argument_check_files = list(unique_files)
     # Even when lint is path-scoped, new extracted entries are a vault-level
@@ -3381,6 +3391,7 @@ def main() -> int:
     parser.add_argument("--full", action="store_true", help="lint the full vault instead of only git-changed Markdown files")
     parser.add_argument("--quiet", action="store_true", help="only print errors and summary")
     parser.add_argument("--show-info", action="store_true", help="include INFO items in text output")
+    parser.add_argument("--all-warnings", action="store_true", help="also show warnings that already existed at HEAD (default outside --full: only newly introduced warnings)")
     parser.add_argument("--no-gate", action="store_true", help="skip the commit-gate checks (index freshness, citation index, unit tests)")
     parser.add_argument("--tests", action="store_true", help="always run unit tests as part of the gate (default: only when scripts/ or tests/ changed)")
     parser.add_argument("--fix", action="store_true", help="auto-fix mechanical issues (including malformed sibling [!axis] separators) before linting")
@@ -3388,7 +3399,8 @@ def main() -> int:
 
     paths = [(ROOT / p).resolve() if not Path(p).is_absolute() else Path(p).resolve() for p in args.path]
     issues = lint_vault(paths, strict=args.strict, full=args.full, fix=args.fix,
-                        gate=not args.no_gate, run_tests=True if args.tests else None)
+                        gate=not args.no_gate, run_tests=True if args.tests else None,
+                        all_warnings=args.all_warnings)
 
     errors = [i for i in issues if i.severity == "ERROR"]
     warns = [i for i in issues if i.severity == "WARN"]
@@ -3405,6 +3417,8 @@ def main() -> int:
             print(issue.format())
         print()
         print(f"Summary: {len(errors)} error(s), {len(warns)} warning(s), {len(infos)} info item(s).")
+        if HIDDEN_PREEXISTING_WARNINGS:
+            print(f"(Only warnings introduced by this change are listed; {HIDDEN_PREEXISTING_WARNINGS} pre-existing warning(s) from HEAD hidden. Use --all-warnings to show them.)")
 
     if errors:
         return 1

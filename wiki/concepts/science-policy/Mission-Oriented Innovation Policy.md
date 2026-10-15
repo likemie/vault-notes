@@ -7,8 +7,6 @@ aliases:
   - MOIP
   - MIP
   - mission-oriented policy
-alias_reviewed:
-  - MIP
 summary: "以应对重大社会挑战和变革性系统转型为核心导向，通过主动塑造与共创市场、战略方向引导、挑选意愿者、三层公共动态能力构建与引领和学习范式推动创新的公共政策体系"
 type: concept
 domain: "science-policy"

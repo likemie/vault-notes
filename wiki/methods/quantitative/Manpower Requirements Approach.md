@@ -6,8 +6,6 @@ aliases:
   - 人力规划法
   - Manpower Planning
   - MRA
-alias_reviewed:
-  - MRA
 summary: "一种在宏观教育与经济规划中运用的定量预测方法。该方法将未来国民经济增长目标、产业结构变迁与技术系数解构为各职业门类对受过特定教育程度劳动力的刚性需求，进而反推国家各级各类教育系统的招生规模与扩张指标。"
 type: method
 method_type: quantitative

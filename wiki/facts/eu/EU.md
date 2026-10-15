@@ -6,8 +6,6 @@ aliases:
   - 欧盟
   - European Community
   - 欧洲共同体
-alias_reviewed:
-  - 欧盟
 summary: "欧洲 27 个成员国构成的超国家政治与经济一体化组织，1993 年依据《马斯特里赫特条约》建立。在教育领域，受制于‘辅助性原则’（Subsidiarity），欧盟对成员国教育政策仅具补充与协调职能，严禁推行统一立法；然而，欧盟通过‘最佳实践’经验交流、制定量化指标与基准线（Benchmarks）、开放协调法（OMC）以及推行‘博洛尼亚进程’构建欧洲高等教育区，以软法治理与话语建构深刻重构了成员国的教育政策空间与治理网络。"
 type: fact
 subtype: organization

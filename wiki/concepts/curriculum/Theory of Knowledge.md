@@ -5,8 +5,6 @@ aliases:
   - Theory of Knowledge (ToK)
   - IB Theory of Knowledge
   - 知识论
-alias_reviewed:
-  - TOK
 summary: "IB 文凭项目的跨学科核心必修课程，通过比较知识形成方式、证据标准与认识边界，连接学科学习、个人经验和批判性反思。"
 type: concept
 domain: "curriculum"

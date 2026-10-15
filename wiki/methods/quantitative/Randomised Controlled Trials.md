@@ -6,8 +6,6 @@ aliases:
   - RCT
   - RCTs
   - randomized controlled trials
-alias_reviewed:
-  - RCT
 summary: "通过随机分配和变量控制建立因果关系的实验设计，被视为证据本位教育的黄金标准，但复杂性理论、实施困境与证据治理中的认识论断裂对其在教育开放情境中的适用性提出了根本性挑战。"
 type: method
 method_type: quantitative

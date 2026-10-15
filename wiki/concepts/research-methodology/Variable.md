@@ -3,8 +3,6 @@ title: Variable
 aliases:
   - 变量
   - variables
-alias_reviewed:
-  - 变量
 summary: "实证研究与社会科学中可被测量或观察且在不同个体、组织或系统之间发生变异的特征或属性，是构建假说与检验因果关系的基本分析单位；比较教育实证主义代际通过以概念变量替代国别专名，奠定了跨系统经验假说检验的科学基石。"
 type: concept
 domain: "research-methodology"

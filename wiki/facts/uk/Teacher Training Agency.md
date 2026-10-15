@@ -6,8 +6,6 @@ aliases:
   - 学校培训与发展署
   - Training and Development Agency for Schools
   - TDA
-alias_reviewed:
-  - TTA
 summary: "1994至2012年间主导英格兰初始教师培训国家规程、名额拨款与认证资格的英国准政府法定专门机构，后演进为TDA并最终被并入教育部"
 type: fact
 subtype: organization

@@ -4,8 +4,6 @@ aliases:
   - 开放协调法
   - 开放式协调机制
   - OMC
-alias_reviewed:
-  - OMC
 summary: "欧盟创设的超国家软性政策治理范式。在恪守辅助性原则、排除强制性立法的前提下，通过确立共同目标、设定量化基准指标（Benchmarks）、促进最佳实践交流并开展同行评议与定期监测，对各成员国施加声誉同侪压力，驱动国家教育与社会政策向超国家战略优先事项自愿收敛与制度趋同。"
 type: concept
 domain: "comparative-education"

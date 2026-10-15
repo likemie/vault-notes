@@ -6,8 +6,6 @@ aliases:
   - 通约化
   - 价值通约
   - commensuration process
-alias_reviewed:
-  - 通约
 summary: "将不同性质的异质事物转化为基于同一通用尺度或公分母的标准化可比量化指标的社会过程，为跨情境绩效评价与资源配置确立形式公平，但伴随着质性情境剥离、统计公平与地域公平冲突及策略性博弈操纵等治理代价"
 type: concept
 domain: "sociology-of-education"

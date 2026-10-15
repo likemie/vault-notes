@@ -5,8 +5,6 @@ aliases:
   - Samuel Huntington
   - 亨廷顿
   - Samuel Phillips Huntington
-alias_reviewed:
-  - 亨廷顿
 summary: "美国著名政治学家，哈佛大学教授，文明冲突论与现代政治秩序理论的代表学者"
 type: person
 nationality: us
@@ -40,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # Samuel P. Huntington

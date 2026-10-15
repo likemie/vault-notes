@@ -5,8 +5,6 @@ aliases:
   - Edward W. Said
   - 爱德华·W·萨义德
   - 萨义德
-alias_reviewed:
-  - 萨义德
 summary: "美籍巴勒斯坦裔文学理论家与文化批评家，后殖民理论奠基人，揭示西方学术与东方主义叙述背后的权力建构机制"
 type: person
 nationality: us
@@ -41,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # Edward Said

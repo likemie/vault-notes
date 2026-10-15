@@ -4,8 +4,6 @@ aliases:
   - Robert H. Ennis
   - 罗伯特·恩尼斯
   - 恩尼斯
-alias_reviewed:
-  - 恩尼斯
 summary: "美国著名教育哲学家与批判性思维研究先驱，伊利诺伊大学厄巴纳-香槟分校荣休教授，奠定了批判性思维的经典操作化定义，开创了康奈尔批判性思维测验与课程分类四分法理论"
 type: person
 nationality: us
@@ -46,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Robert Ennis

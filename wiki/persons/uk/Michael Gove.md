@@ -4,8 +4,6 @@ aliases:
   - 迈克尔·戈夫
   - Michael Andrew Gove
   - 戈夫
-alias_reviewed:
-  - 戈夫
 summary: "英国保守党核心政治家、前教育大臣（2010–2014），推动了设立教育捐赠基金会（EEF）以扩展大规模因果试验，确立学生津贴（Pupil Premium）与学院化扩张，同时动用媒介资本与遗漏话语推行争议性绩效工资与严苛督导改革"
 type: person
 nationality: "uk"

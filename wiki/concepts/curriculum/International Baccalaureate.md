@@ -6,8 +6,6 @@ aliases:
   - 国际文凭组织
   - International Baccalaureate Organization
   - IBO
-alias_reviewed:
-  - IBO
 summary: "从国际学校共同资格发展而来的跨国课程与质量保障体系，通过课程核心、考试评价、区域支持和公共治理协调共同标准与地方实施。"
 type: concept
 domain: "curriculum"

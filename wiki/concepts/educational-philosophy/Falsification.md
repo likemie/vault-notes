@@ -7,8 +7,6 @@ aliases:
   - 可证伪性
   - falsificationism
   - severe test
-alias_reviewed:
-  - 证伪
 summary: "波普尔提出的科学划界与检验标准，主张科学理论的标志在于其承担被经验反驳的风险；在比较教育学中驱动了从古典历史向假说检验与问题解决法（L + I = P）的转型，并引发关于历史工作假设检验性的深刻反思。"
 type: concept
 domain: "educational-philosophy"
@@ -82,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Falsification

@@ -4,8 +4,6 @@ aliases:
   - 马克斯·普朗克
   - 普朗克
   - "Planck, M."
-alias_reviewed:
-  - 普朗克
 summary: "德国理论物理学家、量子论创立者、诺贝尔物理学奖得主，提出普朗克常数与科学范式代际演进的普朗克原理，深刻影响现代物理学革命与科学认识论发展。"
 type: person
 nationality: germany
@@ -40,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Max Planck

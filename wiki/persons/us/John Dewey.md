@@ -4,8 +4,6 @@ aliases:
   - "Dewey, J."
   - 约翰·杜威
   - 杜威
-alias_reviewed:
-  - 杜威
 summary: "美国哲学家、心理学家与教育改革家，实用主义与进步教育代表人物；提出经验探究、民主联合生活方式与以生长和“做”为核心的主动学习哲学，对全球教育变革与现代工程认知范式产生了深远影响。"
 type: person
 nationality: us

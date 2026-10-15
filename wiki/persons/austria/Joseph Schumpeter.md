@@ -46,8 +46,6 @@ aliases:
   - 约瑟夫·熊彼特
   - 约瑟夫·阿洛伊斯·熊彼特
   - Joseph Alois Schumpeter
-alias_reviewed:
-  - 熊彼特
 ---
 
 # Joseph Schumpeter

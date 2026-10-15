@@ -5,8 +5,6 @@ aliases:
   - 迈克尔·W·阿普尔
   - 阿普尔
   - "Apple, M. W."
-alias_reviewed:
-  - 阿普尔
 summary: "美国当代著名批判教育社会学者与课程理论泰斗，威斯康星大学麦迪逊分校约翰·巴斯科姆荣誉讲席教授，开创官方知识与意识形态课程批判，深刻剖析后福特制劳动去技能化与课程技术控制逻辑，揭示教育中新自由主义、新保守主义与威权民粹主义的统治联盟"
 type: person
 nationality: us
@@ -60,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # Michael W. Apple

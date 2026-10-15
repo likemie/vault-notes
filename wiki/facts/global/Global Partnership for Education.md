@@ -5,8 +5,6 @@ aliases:
   - GPE
   - 全民教育快车道倡议
   - EFA-FTI
-alias_reviewed:
-  - GPE
 summary: "全球教育伙伴关系（GPE）是专注于全球南方低收入国家基础教育的多元利益相关方国际伙伴组织，前身为 2002 年设立的‘全民教育快车道倡议’（EFA-FTI），2011 年重组成型。作为全球教育治理复合体五大巨头之一，GPE 依托多边赠款、联合部门审查与知识和创新交流（KIX）区域枢纽，促进区域同侪经验汲取，但其实质运作深受核心西方捐助国战略偏好的制约。"
 type: fact
 subtype: organization
@@ -55,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Global Partnership for Education

@@ -5,8 +5,6 @@ aliases:
   - Nationaal Regieorgaan Onderwijsonderzoek
   - 荷兰国家教育研究所
   - 荷兰教育研究倡议
-alias_reviewed:
-  - NRO
 summary: "荷兰国家科学研究组织（NWO）下设的全国教育科研统筹机构，承担提高教育科研连贯性、资助高水准科研以及促进证据在学校实践与政策制定中转化的核心职能"
 type: fact
 subtype: organization
@@ -45,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-09-15
+updated: 2026-10-16
 ---
 
 # Netherlands Initiative for Education Research

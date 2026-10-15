@@ -4,8 +4,6 @@ aliases:
   - ETS
   - 美国教育考试服务中心
   - 教育考试服务中心
-alias_reviewed:
-  - ETS
 summary: "全球规模最大的私立非营利性教育测评与心理测量研究机构，1947年成立，研发托福、GRE、Praxis及ETS HEIghten与EPP通识测评，在高教核心素养测度领域具有全球引领地位。"
 type: fact
 subtype: organization
@@ -44,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Educational Testing Service

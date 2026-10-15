@@ -6,8 +6,6 @@ aliases:
   - CHC
   - Confucian-heritage cultures
   - CHC learner
-alias_reviewed:
-  - CHC
 summary: "受儒家学习传统影响的文化区域分类，涵盖中国、香港、台湾、新加坡、日本、韩国、越南等国家和地区"
 type: concept
 domain: "comparative-education"

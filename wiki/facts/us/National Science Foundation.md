@@ -5,8 +5,6 @@ aliases:
   - NSF
   - NSF TIP
   - NSF TIP Directorate
-alias_reviewed:
-  - NSF
 summary: "1950年依据布什报告成立的美国独立联邦科研资助机构，统领全美基础科学与工程研究投资；作为战后多元分布式资助网络的民事基石，开创 ERC 与 TIP 理事会；在《芯片法案》与《国家微电子研究战略》统筹下联合主持微电子领导小组（SML），主导未来半导体（FuSe）计划、全美纳米协同基础设施（NNCI）与先进技术教育（ATE）技术员培养体系；并依托元科学试验与 X 实验室开启深层体制革新。"
 type: fact
 subtype: organization

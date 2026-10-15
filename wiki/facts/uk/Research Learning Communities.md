@@ -4,8 +4,6 @@ aliases:
   - 研究学习共同体
   - RLC
   - Research Learning Community
-alias_reviewed:
-  - RLC
 summary: "由伦敦大学学院教育学院布朗团队研发的中小学跨校专业发展网络干预项目，通过全学年四次结构化工作坊与证据带头人架构推进循证教学；布里斯托大学对119所小学的独立RCT评估表明，其虽提升了教师研究兴趣，但在5462名小学生的客观阅读统考成绩上效应量为零。"
 type: fact
 subtype: program

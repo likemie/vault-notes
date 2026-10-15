@@ -7,8 +7,6 @@ aliases:
   - "Schelling, T."
   - "Schelling, T. C."
   - Thomas C. Schelling
-alias_reviewed:
-  - 谢林
 summary: "美国著名经济学家、博弈论大师、诺贝尔经济学奖得主；开创战略冲突理论与现代威慑理论，深刻揭示伤害能力即谈判筹码、战争是流动的讨价还价过程以及强制性暴力必须具备预期性等经典现实主义博弈命题。"
 type: person
 nationality: us
@@ -40,7 +38,7 @@ related_persons: []
 confidence: high
 status: draft
 created: 2026-10-07
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Thomas Schelling
