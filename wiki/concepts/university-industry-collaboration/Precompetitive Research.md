@@ -57,7 +57,6 @@ related_facts:
   - "[[CHIPS and Science Act]]"
   - "[[National Semiconductor Technology Center]]"
   - "[[National Science and Technology Council]]"
-  - "[[DARPA]]"
   - "[[EUV LLC]]"
 related_arguments:
   - "[[Argument_Narayan_Spohrer_2025_Metrics]]"
@@ -219,7 +218,7 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 把前竞争联合体界定为科学已经明白、工程尚未做完、风险又由全行业共享时的制度。1987 年十四家美国半导体公司与经由 [[DARPA]] 匹配的联邦经费组成半导体制造技术联盟，攻光刻、刻蚀和材料工艺。1997 年的[[EUV LLC|极紫外有限责任公司]]再与三个能源部国家实验室签约开发极紫外光刻，到 2001 年建成第一台原型曝光工具并提交 150 多项专利。报告同时承认，随后的政策把主导市场地位让给了一家欧洲公司。
+> - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 把前竞争联合体界定为全行业共担风险的研发制度，以 1987 年 SEMATECH 和 1997 年 [[EUV LLC]] 为例，并承认后续政策让出了市场主导地位。
 > - [[Argument_Narayan_Spohrer_2025_Metrics|Narayan and Spohrer (2025)]] — 论证探索性[[University-Industry Collaboration|产学合作]]的前竞争性质，提出按成熟度分层设计知识产权条款以避免度量错配。
 > - [[Argument_Hoffman_2025_UI_Alliances_Consortia|Hoffman et al. (2025)]] — 剖析 [[Advanced Manufacturing Research Centre|AMRC]] 的两层知识产权模型，示范前竞争共有轨道与商业专有轨道的互补共生机制。
 > - [[Argument_Ramming_2025_CorporateSupport|Ramming (2025)]] — 阐释[[Semiconductor Research Corporation|半导体研究公司]]（SRC）如何运用前竞争范围界定准则化解竞争对手之间的零和博弈。

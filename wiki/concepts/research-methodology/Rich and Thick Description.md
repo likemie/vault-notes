@@ -270,7 +270,7 @@ updated: 2026-10-16
 ## 论证索引
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 20–21)]] — 援引 Walker and Adelman（1975）的“草莓事件”经典案例，尖锐对比 [[Flanders Interaction Analysis Categories|FIAC]] 机械行为编码的局限与深描在破译课堂[[Indexicality|索引性]]情境密语中的根本价值。 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Cohen et al. (2011, Ch. 11, pp. 403–407, 443–445)]] — 系统论述深描作为自然主义[[Paradigm|范式]]核心公理的[[Epistemology|认识论]]根基、迁移性判断机制与 Swain（2006）关于 1% 数据的选择性写作纪律。 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Cohen et al. (2011, Ch. 23, p. 466)]] — 详尽剖析 Carspecken（1996）提出的言语、非言语与低推断描述等深描六大操作构件。 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|Cohen et al. (2011, Ch. 28, p. 538)]] — 探讨质性数据分析中深描铭写社会[[Discourse|话语]]、提高数据密度与践行[[Double Hermeneutic|双重诠释]]的实践法则。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 20–21)]] — 以草莓事件对比 [[Flanders Interaction Analysis Categories|FIAC]] 编码与深描的价值；其认识论根基见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11|Ch. 11]]，操作构件见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Ch. 23]]，分析法则见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch28|Ch. 28]]。
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, Ch. 9, p. 213)]] — 将深描定位为核心[[Qualitative Validity|质性效度]]策略，论证其在提供现场传达感与支撑概括性判断中的操作要点。
 > - [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] — 在[[Design-Based Research|基于设计的研究]]中运用[[Interactional Ethnography|互动民族志]]深描（[[Transcription in Qualitative Research|转录]]对话、事件地图与典型案例追踪），生动还原小学生自主攻克眼球与大脑连接机制及跨组协作的微观历程。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009, pp. 98–99)]] — 阐述后冷战与全球化时代，文化与历史脉络深描如何作为比较教育学抵制技术官僚化绩效排名与捍卫学科独立性的核心认识论基石。

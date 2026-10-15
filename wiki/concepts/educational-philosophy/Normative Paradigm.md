@@ -34,7 +34,6 @@ related_persons:
   - "[[Talcott Parsons]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
-  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_theories:
   - "[[Structural Functionalism]]"
   - "[[Complexity Theory]]"
@@ -53,7 +52,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Normative Paradigm
@@ -201,7 +200,7 @@ updated: 2026-10-15
 ## 实证数据
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 17–18)]] — 系统界定规范[[Paradigm\|范式]]两大基本假定、行为与行动的[[Ontology\|本体论]]断裂、理论建构的理性大厦取向及其与[[Interpretive Paradigm\|诠释范式]]的横向辨析。 [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen, Manion & Morrison (2011)]] — 在跨章节论述中展示规范范式在量化调查设计、[[Experimental Research\|实验研究]]与标准化测量中的具体操作逻辑。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, pp. 17–18)]] — 界定规范[[Paradigm\|范式]]的两大假定、行为与行动的[[Ontology\|本体论]]分野，并与[[Interpretive Paradigm\|诠释范式]]对照；全书展示其在调查与[[Experimental Research\|实验研究]]中的运用。
 
 ---
 
