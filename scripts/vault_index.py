@@ -1676,6 +1676,9 @@ def sync_updated_dates(dry_run: bool = False, check: bool = False) -> int:
 
 
 def run_base_index(book_check: bool = False, book_dry_run: bool = False, citation_args: list[str] | None = None) -> int:
+    code = run_script("journal_index.py", ["--check"])
+    if code:
+        return code
     # Mechanical lint fixes first, then date bumps for body edits.
     code = run_auto_fixes()
     if code:

@@ -61,7 +61,7 @@ class ValidationFailureTests(unittest.TestCase):
              patch.object(checks.subprocess, "run", return_value=subprocess.CompletedProcess([], 0)) as run, \
              contextlib.redirect_stdout(io.StringIO()):
             self.assertEqual(0, checks.run_checks("base"))
-            self.assertEqual(4, run.call_count)
+            self.assertEqual(5, run.call_count)
             self.assertEqual([sys.executable, "-B", "scripts/vault_lint.py", "--path", paths[0], "--path", paths[1]], run.call_args.args[0])
 
 

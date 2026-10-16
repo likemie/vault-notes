@@ -2893,6 +2893,17 @@ def check_citation_links(path: Path, text: str, data: Optional[Dict[str, Any]], 
         issues.append(Issue("WARN", rel(path), f"APA short citation is not linked to an Argument (run scripts/vault_index.py to auto-link): {display}", line=line_no, code="CITATION_UNLINKED"))
 
 
+def check_journal_naming(path: Path, data: Dict[str, Any], issues: List[Issue]) -> None:
+    from journal_index import article_problem, is_legacy, load_registry
+    try:
+        registry = load_registry()
+    except (OSError, ValueError):
+        return  # Report the registry error once at vault level.
+    problem = article_problem(path, data, registry)
+    if problem and not is_legacy(path, data):
+        issues.append(Issue("ERROR", rel(path), problem, code="JOURNAL_NAMING"))
+
+
 def lint_file(path: Path, by_title: Dict[str, Dict[str, Any]], path_to_title: Dict[str, str], argument_citations: Dict[str, Dict[str, Any]], issues: List[Issue]) -> None:
     if is_generated_content_page(path):
         return
@@ -2920,6 +2931,8 @@ def lint_file(path: Path, by_title: Dict[str, Dict[str, Any]], path_to_title: Di
     check_templater_placeholders(path, text, issues)
 
     data = check_frontmatter(path, text, by_title, issues)
+    if data and data.get("type") == "argument" and "journal-articles" in path.parts:
+        check_journal_naming(path, data, issues)
     check_wikilinks(path, text, by_title, issues, data)
     check_sources_section(path, text, data, issues)
     check_template_consistency(path, text, issues)
@@ -3317,6 +3330,7 @@ def start_gate_checks(run_tests: Optional[bool] = None) -> List[Tuple[str, str, 
     if os.environ.get(GATE_SKIP_ENV):
         return []
     checks = [
+        ("JOURNAL_REGISTRY_INVALID", "citation/journals.json", "register the journal or correct its filename code", ["scripts/journal_index.py", "--check"]),
         ("INDEX_STALE", "wiki/index.json", "run: python3 scripts/vault_index.py", ["scripts/wiki_index.py", "--check"]),
         ("CITATION_INDEX_STALE", "citation/citation_full.json", "run: python3 scripts/vault_index.py", ["scripts/citation_index.py", "--check"]),
     ]
@@ -3358,6 +3372,11 @@ HIDDEN_PREEXISTING_WARNINGS = 0
 def lint_vault(paths: List[Path], strict: bool = False, full: bool = False, fix: bool = False, gate: bool = True, run_tests: Optional[bool] = None, all_warnings: bool = False) -> List[Issue]:
     issues: List[Issue] = []
     check_required_files(issues)
+    from journal_index import load_registry
+    try:
+        load_registry()
+    except (OSError, ValueError) as exc:
+        issues.append(Issue("ERROR", "citation/journals.json", str(exc), code="JOURNAL_REGISTRY_INVALID"))
     by_title, path_to_title = load_index(issues)
     argument_citations, citation_stems = build_argument_citation_maps([], issues)
 

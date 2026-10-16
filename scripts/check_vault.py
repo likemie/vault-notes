@@ -39,6 +39,7 @@ def changed_markdown(base: str | None) -> list[str]:
 def run_checks(base: str | None = None) -> int:
     commands = [
         ["-m", "unittest", "discover", "-s", "tests", "-q"],
+        ["scripts/journal_index.py", "--check"],
         ["scripts/wiki_index.py", "--check"],
         ["scripts/citation_index.py", "--check"],
     ]
@@ -52,7 +53,10 @@ def run_checks(base: str | None = None) -> int:
         print(f"[check] {' '.join(command[:5])}", flush=True)
         # vault_lint.py also runs these gate checks; skip them there since
         # this script has already run tests and both index checks above.
-        result = subprocess.run([sys.executable, "-B", *command], cwd=ROOT, env=GATE_ENV)
+        env = dict(GATE_ENV)
+        if base:
+            env["VAULT_JOURNAL_BASE"] = base
+        result = subprocess.run([sys.executable, "-B", *command], cwd=ROOT, env=env)
         if result.returncode:
             return result.returncode
     return 0

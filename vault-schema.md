@@ -28,7 +28,7 @@
 1. 读取 `vault-schema.md`；若用户明确说明是专著、论文集或教材，转入 `Specialized Schemas`；若用户未说明类型，按普通论文／期刊论文流程处理。
 2. 读取原始文件并提取可读文本。
 3. 扫描文献，同时判断二类事项：需要建立或更新哪些知识对象，是否包含需要占位的 figure。
-4. 在创建 Argument 页之前确定最终 Argument 文件名，并由此确定最终 `<论文命名>`；Argument 页正文 `## 来源` 可先写 `[[<论文命名>]]`。
+4. 在创建 Argument 页之前确定最终 Argument 文件名，并由此确定最终 `<论文命名>`；期刊论文先读取 `citation/journals.json`，按期刊全名取唯一代码，不自行猜缩写。新期刊先用 `journal_index.py --register "<期刊全名>" <代码>` 登记。Argument 页正文 `## 来源` 可先写 `[[<论文命名>]]`。
 5. 为每个候选知识对象记录暂定英文标题、中文术语或别名、类型、目标二级文件夹和独立成条理由。
 6. 读取 `wiki/index.json`，用标题、中文术语、英文变体和缩写检索是否已有。
 7. 将候选分为待更新和待新建。
@@ -109,6 +109,7 @@ scripts/
   vault_lint.py
   source_record.py
 citation/
+  journals.json              AI 命名用期刊全名到唯一代码的最小注册表
   citation_full.json          可引用 Argument 的全量索引
   citation_ambiguous.json     同一作者同一年多篇可引用文献的歧义索引
 wiki/
@@ -157,6 +158,12 @@ wiki/
 - 目标路径为 `wiki/arguments/journal-articles/<journal-name>/Argument_<Author>_<Year>_<JournalAbbrev>.md`。
 - `<journal-name>` 使用条目 frontmatter 的 `journal` 全称；若期刊名称含 `/` 或 `:` 等不适合作为路径的字符，用空格替换并压缩连续空格。
 - 对应 source record 的最终文件名为 `<Author>_<Year>_<JournalAbbrev>.md`，即去掉 Argument 文件名前缀 `Argument_`。
+
+`<JournalAbbrev>` 以 `citation/journals.json` 为唯一命名依据。该文件只存 `{期刊全名: 库内唯一代码}`，无期刊介绍、数量、条目路径、历史缩写或人类可读页面；代码按不区分大小写全库唯一，可使用较长代码消歧。AI 先查表，未登记时用 `.venv/bin/python3 scripts/journal_index.py --register "<期刊全名>" <代码>` 显式登记，脚本不根据新论文文件名自动生成代码，也不覆盖已登记代码。
+
+旧文件名保留，不因新增注册表批量改名。新建或改名的期刊 Argument 必须使用登记代码；已有文件只在 `journal` 全名保持原值时兼容旧名称，修改期刊归属后重新校验。日常以 HEAD 判断旧文件，CI 以 PR 基线或推送前提交判断，防止错误名称随提交后被当作旧名放行。
+
+基础索引先运行 `journal_index.py --check`；lint 报告 `JOURNAL_NAMING` / `JOURNAL_REGISTRY_INVALID`，同一规则已接入 CI。`source_record.py article` 新建期刊来源时传入 `--journal "<期刊全名>"`，在移动 PDF 前校验最终 `--record-name`；`finalize` 也校验对应 Argument。书籍与报告不受期刊代码表约束。
 
 ---
 
@@ -385,7 +392,7 @@ Source 记录与阅读页面优先由 `scripts/source_record.py` 生成。AI 先
 常用命令形态：
 
 ```bash
-.venv/bin/python3 scripts/source_record.py article --file raw/FILENAME.pdf --record-name <论文命名>
+.venv/bin/python3 scripts/source_record.py article --file raw/FILENAME.pdf --record-name <论文命名> --journal "<期刊全名>"
 .venv/bin/python3 scripts/source_record.py report --file raw/FILENAME.pdf --record-name <论文命名>
 .venv/bin/python3 scripts/source_record.py finalize --argument "wiki/arguments/.../Argument_<Author>_<Year>_<JournalAbbrev>.md" --rename
 

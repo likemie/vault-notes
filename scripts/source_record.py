@@ -260,6 +260,14 @@ def create_article_or_report(args: argparse.Namespace, kind: str) -> None:
     validate_file(src, {".pdf"})
 
     record_name = validate_record_name(args.record_name) if args.record_name else safe_stem_from_file(src)
+    if kind == "article" and getattr(args, "journal", None):
+        from journal_index import article_problem, load_registry
+        try:
+            problem = article_problem(Path(f"Argument_{record_name}.md"), {"journal": args.journal}, load_registry())
+        except (OSError, ValueError) as exc:
+            die(f"Journal registry error: {exc}")
+        if problem:
+            die(problem)
     md_path = SOURCES_DIR / f"{record_name}.md"
     pdf_path = SOURCES_DIR / f"{record_name}.pdf"
 
@@ -400,6 +408,15 @@ def finalize_source(args: argparse.Namespace) -> None:
     validate_file(argument_path, {".md"})
     arg_text = read_text(argument_path)
     arg_fm, _raw_arg_fm, arg_body = parse_frontmatter(arg_text)
+
+    if "journal-articles" in argument_path.parts:
+        from journal_index import article_problem, is_legacy, load_registry
+        try:
+            problem = article_problem(argument_path, arg_fm, load_registry())
+        except (OSError, ValueError) as exc:
+            die(f"Journal registry error: {exc}")
+        if problem and not is_legacy(argument_path.resolve(), arg_fm):
+            die(problem)
 
     citation = str(arg_fm.get("citation") or "").strip()
     if not citation:
@@ -689,6 +706,7 @@ def build_parser() -> argparse.ArgumentParser:
 
     p_article = sub.add_parser("article", help="Create an early minimal journal-article source record in sources/.")
     p_article.add_argument("--file", required=True, help="PDF file, usually under raw/.")
+    p_article.add_argument("--journal", help="Full journal name; validate the final record-name code against citation/journals.json before moving the PDF.")
     add_common_create_flags(p_article)
     p_article.set_defaults(func=lambda args: create_article_or_report(args, "article"))
 
