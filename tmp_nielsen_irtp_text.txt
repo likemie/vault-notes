@@ -1,0 +1,703 @@
+
+--- PAGE 1 ---
+ 
+ 
+ 
+ 
+• Vol. 1, No. 1 • 2021 • (pp. 78-92) • 
+www.istp-irtp.com 
+ 
+DOI: http://dx.doi.org/ 
+ 
+ 
+ 
+Measured Lives in Educational Psychology 
+Klaus Nielsen 
+Department of Psychology, University of Aarhus, Denmark 
+Jacob Klitmøller 
+Department of Psychology, University of Aarhus, Denmark 
+Abstract 
+Why is the work of educational researcher John Hattie’s work so popular today? This is the question 
+we will try to answer in this paper. Based on a very large empirical database, Hattie calculates the 
+effects of numerous educational interventions and factors influencing student achievements. Despite 
+documented methodological flaws in his work, Hattie’s work keep attracting the attention of policy 
+makers, teachers and educational researchers all over the world. We propose to understand the 
+popularity of Hattie’s work in relation to the ongoing debate about the legitimation of schooling – 
+using Habermas’ (1976) work Legitimation Crisis as point of departure. Our claim is that Hattie is 
+offering a theoretical synthesis of effective teaching as a way to legitimi ze modern schooling. 
+However, there are a number of problems with this synthesis, most notably that it does not include 
+the pupils’ intentions for participating. 
+ 
+ 
+Keywords: Visible Learning, Legitimation, Technical Rationality, Education, Schooling 
+ 
+Measured Lives in Educational Philosophy 
+In later years, so -called evidence-based research with a focus on learning goals, learning 
+outcomes, tests, and feedback has strongly influenced educational thinking in the Western 
+world. Hattie’s (2009) work on Visible learning has become central for this movement, and 
+our critical considerations in this paper are aimed at his work as a central example of the 
+evidence movement in education. The critical question we will be dealing with is why is 
+--- PAGE 2 ---
+Measured Lives in Educational Psychology   •   79 
+ 
+INTERNATIONAL REVIEW OF THEORETICAL PSYCHOLOGIES • Vol. 1, No. 1 • 2021 
+www.istp-irtp.com 
+there a  strong fascination with Hattie’s work —or put more bro adly—with this kind of 
+evidenced-based quantitative research?  
+In the present paper we initially argue that the fascination cannot be related to the quality of 
+Hattie’s (2009) empirical work.  As we have showed in  several papers, and in line with a 
+number o f other researchers, Hatties research exhibit substantial problems, even when 
+evaluated on its own premises ( Klitmøller & Nielsen, 2017 , 2019; Nielsen & Klitmøller, 
+2017, Snook, O’Neil, O’Neill & Openshaw, 2009). Even so, Hattie’s work has proven higly 
+influential and we argue, that there are several reasons for this— among them, the tools he 
+is offering policy makers and schools in the form of a unifying theory of teaching and 
+learning by which schools may be more readily “steered” as well as their effort legitimized.  
+Next, we delve into the question of the legitimization of ‘school’ and ‘schooling’ – a 
+question that has experienced a resurgence in recent years. Taking departure in Habermas’ 
+(1976) formulation of a ‘legitimacy crisis’ we question what role Hattie’s work might play 
+for the legitimization of school. More specifically, we aim to show that Hattie offers what 
+‘traditional’ evidence-based research has not (and we would add, cannot) supply: a model 
+for (or theory of) good teaching and learning. 
+Lastly, we argue that in order to legitimize modern schooling, key participants – pupils, 
+teachers and parents need to be included.  
+The Presentation of Hattie’s Work 
+Not without fault on his own part, Hattie’s central agenda is sometimes misrepresented (not 
+least by those critical of his work). Most prominent in the reception of Hattie’s work has 
+been his ‘league table’ of educational effects. These are the result of the calculation of 
+effects across a substantial amount of meta-analyses (at the time of writing: 1,200) based on 
+and divided into a number of single effects (at the time of writing : 195) visualized as 
+barometers illustrating the effect of each single intervention. It is this league table of effects 
+that featured prominently when Hattie was touted as presenting an unparalleled resource for 
+educational effects.  
+Although it is the substantial amount of data which has caught the public’s attention, Hattie 
+has always been quite explicit about it is not the em pirical data which is the main point of 
+his research. His main goal is to formulate a synthesis based on the data he has collected. 
+Although it is the substantial amount of data which has caught the public’s attention, Hattie 
+has always been quite explicit about it is not the empirical data which is the main point of 
+his research. His main goal is to formulate a synthesis based on the data he has collected. 
+On the one hand, Hattie’s work is based within a research tradition emphasizing the 
+importance of quantitative data, however, on the other hand, Hattie (2009) identifies serious 
+problems with the idea that large amounts of quantitative data can speak for them selves. 
+Instead, what is needed, according to Hattie, is a unifying story – a theory – of what 
+constitutes good teaching based on quantitative data. What Hattie wants to solve is the lack 
+of coherence in evidence-based research and to create a model that will align teachers with 
+the synthesis he is proposing. This theoretical aim is evident already in  the first book on 
+Visible Learning (Hattie, 2009) and all the way through to the present (Hattie & Nepper 
+Larsen, 2020). Admittedly, what for Hattie counts as theory differs from what we consider 
+a theory. In Hattie’s own words: “ I am a measurement researcher, I am a statistician, I am 
+not a theoretician  […] But of course I have a very strong model of teaching” (Knudsen, 
+--- PAGE 3 ---
+Klaus Nielsen & Jacob Klitmøller   •   80 
+ 
+INTERNATIONAL REVIEW OF THEORETICAL PSYCHOLOGIES • Vol. 1, No. 1 • 2021 
+www.istp-irtp.com 
+2017, p. 259). But just as much of the theory in Hattie’s work is ‘unconscious’, in Costall’s 
+(2013) sense, it excerpts great influence on what Visible Learning is.  
+Through his books on visible learning, Hattie (e.g. 2009, 2013, 2014) has become a 
+significant voice in the contemporary educational debate as well as policy on teaching and 
+learning. In 2008, Mansell called H attie’s (2009) book Visible Learning the Holy Grail of 
+teaching. Hattie’s approach of using  structured quantitative data, thousands of research 
+studies, effect sizes, and, in the end, simple answers to complex problems was exactly what 
+education policy makers and practitioners had been seeking (Zhao, 2018). Hattie’s book 
+about visible learning has spread like wildfire around the globe: Evans (2012) wrote, “He is 
+not the messiah, but for many policy makers he comes close. John Hattie, possibly the 
+world’s most influential education academic, has the ear of governments everywhere”. In a 
+Danish context, educational researchers have talked about “the Hattie -revolution” 
+(Qvortrup, 2015), and others have presented Hattie as the researcher par excellence on 
+whose results the teachers in Danish primary schools can (and should) build their teaching  
+approach. Skeptics were warned: “People who refuse to use Hattie’s and others’ results 
+accept a substantial moral responsibility” (Hansen et al., 2015, p. 7) 
+Hattie’s unified model came at a very opportune moment given the growing concerns from 
+a number of nations all over the world about how their educational systems were falling 
+behind in the educational race. Thus, in a time where international comparisons of 
+educational systems had become the context for national educational reforms, Hattie’s work 
+was sent from heaven.  
+Problems in Hattie’s Empirical Research 
+Even though our argument is not dependent on the fact that Hattie’s research is flawed, the 
+fact remains that ther e is a significant disparity between the reception of Hattie’s work, 
+including the trust in his findings, and the actual quality of his research. Precisely the 
+hitherto largest empirical base in educational research is by commentators and some 
+researchers taken as evidence in and of itself of the validity of Hattie’s claims  (Polanin, 
+Maynard, & Dell, 2016) . In some quarters it leads to the problematic assumption, that 
+because of the vast empirical base, Hattie’s work simply present s undeniable facts. 
+However, in our research ( e.g. Klitmøller & Nielsen, 2017 , 2019; Nielsen & Klitmøller, 
+2017) and in line with other researchers  (e.g. Snook et al., 2009) , we have documented 
+substantial flaws in Hattie’s empirical research. We have listed some of these flaws in Table 
+1. 
+Table 1: Empirical Problems in Hattie’s Work 
+ 
+Main problems Description Comments 
+Reduction of complexity Focus on one causal factor 
+is linked to one particular 
+effect. 
+Homework, class size, and 
+feedback are central 
+examples. 
+Reduction of complexity 2 Elimination of moderating 
+factors like the pupils’ SES 
+Pupils’ SES is an 
+important moderator for 
+their learning. 
+--- PAGE 4 ---
+Measured Lives in Educational Psychology   •   81 
+ 
+INTERNATIONAL REVIEW OF THEORETICAL PSYCHOLOGIES • Vol. 1, No. 1 • 2021 
+www.istp-irtp.com 
+Setting decontextualized 
+standards for what 
+constitutes an effect 
+The cutoff is d = 0.40. This 
+is the cutoff that Hattie 
+used for all his categories. 
+Contra example: Low 
+doses of aspirin to prevent 
+heart problems 
+Making random divisions 
+in the material constituting 
+effect sizes  
+The division of effect sizes 
+hide important 
+differentiations. 
+Homework as an example 
+Comparing (measuring) 
+different phenomena—He 
+compares apples to oranges. 
+By entering a large number 
+of meta-analysis in his 
+synthesis, Hattie included 
+studies that measure 
+different phenomena. 
+Feedback as an example 
+“Garbage in, garbage out” By entering a large number 
+of meta-analysis in his 
+synthesis, Hattie included 
+studies with low empirical 
+quality. 
+Feedback as an example 
+Statistical problems There are a number of 
+statistical problems 
+(see, e.g., Bergeron, 2017; 
+Simpson, 2017; Topphol, 
+2011).  
+Bergeron (2017): “In 
+summary, it is clear that 
+John Hattie and his team 
+have neither the 
+knowledge nor the 
+competencies required to 
+conduct valid statistical 
+analyses” (p. 245). 
+Note. SES = Socioeconomic Status. 
+Given the methodological flaws in Hattie’s methods and the growing international critique 
+of his work, the question is why Hattie’s work remains being so popular? This is the question 
+we will turn to now. 
+The Fascination of Hattie’s Work 
+The deep-rooted problems in Hattie’s empirical design, on one hand, and the popularity of 
+his work, on the other, raise the question of what it is in Hattie’s work that fascinates. In 
+contrast to most other critiques of Hattie’s work, we claim that it is actually his theoretical 
+approach to educational practice that fascinates many that turn to Hattie’s work to solve the 
+current issues of the educational system.  
+A Technical Theory of the Social World 
+His critique of evidence -based research non -withstanding, w e claim that theoretically, 
+Hattie is strongly inspired by what Schön (1983, 1987)  termed technical rationality . 
+Technical rationality is the heritage of Positivism, the powerful philosophical doctrine that 
+grew up in the nineteenth century as an account of the rise of science and technology and as 
+--- PAGE 5 ---
+Klaus Nielsen & Jacob Klitmøller   •   82 
+ 
+INTERNATIONAL REVIEW OF THEORETICAL PSYCHOLOGIES • Vol. 1, No. 1 • 2021 
+www.istp-irtp.com 
+a social movement aimed at  applying the achievements of science and technology to the 
+well-being of mankind. (Schön, 1983, p. 31) 
+The engineer’s design and analysis of materials and artifacts, as well as the physician’s 
+diagnosis and treatment of disease,  has become the model or th eory of a science -based 
+technical practice also in much of education (Hargreaves, 2000; Biesta 2007) . Technical 
+rationality paves the way for means –ends thinking in the social sciences, psychology , and 
+education wherein problems are understood as entities in themselves beyond the context of 
+which they are a part and they can be solved by consulting and applying knowledge from 
+basic science. A central ambition of technical rationality is to identify causes that necessarily 
+lead to particular effects based on observations of the connections between cause and effect 
+and, hence, to generate theories that can solve the practical problems at hand.  
+To understand in a deeper and more comprehensive sense why Hattie’s work fascinates  
+educators, we have to contextualize the problems the educational system is currently facing. 
+After nearly 50 years of a liberal pupil-centered pedagogy dominating educational thinking 
+in the Western world, times have changed. With the growing competition between nations 
+in the educational  arena and a conservative critique of its poor learning outcome s, the 
+educational system in the Western world is facing a serious crisis of legitimation. As the 
+previous Danish prime minister, Anders Fogh Rasmussen, said in 2003, taking the first of 
+many steps to shift the focus of Danish educational policy, the time for roundtable pedagogy 
+is over. This was on the heels of the first effects of Denmark having joined PISA and the 
+shock that the national educational system was a long way from meeting expectations. In 
+the span of a few years the discussion of the quality of the educational system changed from 
+a domestic horizon to one of international comparison – much as the PISA -program had 
+intended (Schleicher, 2010). What the PISA-program did not offer, were the tools by which 
+a nation might use to change their ranking.  The scene has been set for the theory of technical 
+rationality that promised predictable learning outcome s if teachers followed particular 
+methods, and in that respect, Hattie was the right man in the right place at the right time. In 
+what follows, we argue that to understand the popularity of Hattie’s work, we must address 
+his pedagogical thinking as part of the legitim ate crisis tormenting the modern educational 
+system. 
+The Legitimation Problem as a Central Educational Problem 
+To understand the fascination with Hattie’s work and the tradition that this kind of pedagogy 
+represents, which has become so prevalent in the educational system today we propose it is 
+necessary to analyse the ways in which the changes in the management of the educational 
+system has demanded changes in the organi zation of the school system (for instance the 
+introduction of more national testing and an increased focus on preparing for further 
+education). It also challenges existing ideas of what the purposes of modern schooling are..  
+Below, we argue that the growi ng fascination of Hattie’s work are closely related to 
+discussions of the purpose(s) with modern schooling. This is essentially another question 
+than the question of how to make schools more efficient.  And we suggest, that one way to 
+avoid falling into on e of the two prominent camps (of either ‘Bildung’ -informed or 
+evidence-based perspectives) the concept of legitimation as suggested by Habermas may 
+offer alternative ways to formulate the issues, and ultimately to point to new ways of 
+discussing the purpose of schooling. 
+--- PAGE 6 ---
+Measured Lives in Educational Psychology   •   83 
+ 
+INTERNATIONAL REVIEW OF THEORETICAL PSYCHOLOGIES • Vol. 1, No. 1 • 2021 
+www.istp-irtp.com 
+By focusing on the concept of legitimation – which features in the title of Habermas’ (1976) 
+book The Legitimation Crisis – we will suggest, that the fascination with Hattie is not only 
+the promise of more effective teaching, but to foster dialogue concerning the purposes of 
+education.  
+Habermas and the Ligitmation Crisis  
+By turning to the Habermas’ concept of legitimation crisis, we aim to widen the discussion 
+of Hattie’s work and popularity. What Visible Learning accomplishes (all above c aveats 
+notwithstanding) is to supply a theory of teaching (and by extension also of education more 
+broadly) that directly challenges traditional understandings of the role of education. Indeed, 
+this is the main point made by central educational researchers in the Nordic countries, who 
+find Hattie’s work relevant as a frame for future research and practice in schools, even if 
+they do not agree with specific analyses made by Hattie (Nordahl, 2019).     
+The analysis of the crisis of legitimation  is particularly linked to the version of Marxism 
+that Habermas and Honneth (Habermas, 1976; Allen & Mendieta, 2019; Finlayson, 2005 ) 
+have formulated in recent years and their preoccupation with analyzing the societal 
+dynamics that characterize late-modern society (Allen & Mendieta, 2019; Finlayson, 2005; 
+Habermas, 1976). We will elaborate on the concepts of legitimacy and the crisis of 
+legitimacy below, noting here, that what we aim at is to probe the connection between 
+Hattie’s work and the way in which it functions as a counter to the changes in the reasons 
+given for what education is for. Changes that may affect  commitment of citizens (Allen & 
+Mendieta, 2019; Habermas, 1976). Some already argue that significant parts of the 
+educational system is fraught with lack of motivation – which for Habermas is a signifier of 
+a loss of legitimation (for example, see Højmark & Jensen, 2005; Katzenelson, 2008) . As 
+we will argue below, Hattie’s theory of visible learning offers one  of the answers to the 
+challenges pose d. Hattie’s approach justifies a school’s functioning as an effective 
+institution founded on scientifically proven methods and promising pupils, teache rs, 
+parents, and educational planners a successful outcome.  
+Historically, Habermas’ (1976) analysis of the legitimacy crisis in late -modern societies 
+sought to reformulate the concept of human alienation not as a direct consequence of 
+exchange relations in the economic sphere that traditional Marxist thinking prescribed, but 
+as related to cultural and normative contradictions that dominate citizens ’ interaction with 
+modern institutions (Allen & Mendieta, 2019; Finlayson, 2005).  
+Also in Legitimation Crisis Habermas introduces the twin concepts of system and life-world. 
+These concepts were to be reinterpreted in Habermas’ later work A Theory of 
+Communicative Action (Habermas, 1984; Borman, 2011). Very broadly speaking – the 
+concept of system refers to the st eering mechanisms of the societal institutions that 
+Habermas was analyzing while the concept of life-world is about the validity claims that 
+stem from various sources: 
+ 
+“If we comprehend a social system as a lifeworld, then the steering aspect is screened out. If we 
+understand a society as a system, then the fact that social reality consists in the facticity of 
+recognized, often counterfactual, validity claims is not taken into co nsideration” (Habermas, 
+1988, p. 5). 
+ 
+--- PAGE 7 ---
+Klaus Nielsen & Jacob Klitmøller   •   84 
+ 
+INTERNATIONAL REVIEW OF THEORETICAL PSYCHOLOGIES • Vol. 1, No. 1 • 2021 
+www.istp-irtp.com 
+The school is “at the reproductive crossroads” of system and lifeworld Borman (2011, p. 7). 
+It presents a very specific case for understanding the interplay between the societal steering 
+and the participants’ lives more general from which springs the acceptance of its legitimacy. 
+The Emergence of an Administrative Instrumental 
+Rationality 
+A significant consequence of the state’s the postwar expansion and active interventions 
+appears in the growth of a special administrati ve instrumental rationality regulating late 
+modern societies similar to Schön’s  (1983, 1987) technological rationality. This kind of 
+rationality is characterized by being instrumental and value  neutral. Habermas (1976) 
+argued that this kind of rationality dominating late -modern state institutions, like the 
+educational system, to legitimize the institutions’ interventions in relation to the market and 
+to the citizens must be primarily of a technical, instrumental, and value-neutral nature (Allen 
+& Mendieta, 2019; Finlayson, 2005) seeking to identify the most effective means of solving 
+a given problem. As a consequence, modern state institutions seek to solve the complex 
+economic, political, and cultural problems of society by consulting experts (not through 
+citizens’ active participation) and applying technical scientific logic (Habermas, 1976, p. 
+34) as a central means of organizing and regulating institutional life. This instrumental and 
+technical rationality work s as a central steering media replacing a mor e historically 
+tradition- and consensus -bound rationality. In traditional modern society, the tradition-
+bound and consensus-bound rationalities were founded on coherence by linking institutional 
+practice with the tradition- and consensus -bound rationality governing everyday life, 
+thereby legitimizing the educational system (Ziehe, 1989, 2003).  
+In the traditionally modern school system, the curriculum in the school context is linked to 
+the values governing everyday life and the systems of authority prevaili ng in society in 
+general. Consequently, traditional school s were governed by a wide range of consensus -
+based traditions that participants could easily identify with (Ziehe, 1989 , 2003). As late-
+modern societies have developed, the result is an increasing complexity in the ways societal 
+practices are organized and regulated, for example, regarding trade, the legal system, and 
+the educational system. With the development of modern society, a large number of social 
+institutions gradually have moved away from b eing governed by a consensus -bound 
+rationality b ased in traditions, and hence they have moved away from a close link to 
+citizens’ everyday lives being governed by an external system’s logic.  
+The change from state institutions, like the educational system, being governed by a 
+tradition- and consensus-bound rationality in traditional modern society to being governed 
+by an instrumental and value -neutral rationality opens the way for a crisis of l egitimation. 
+The crisis is based on the conflict within state institutions ’ constant need to serve two 
+masters with antagonistic interests —namely the particular interests of the market and the 
+common interests of  the citizens. This legitimacy conflict is a ddressed in the mature 
+Habermas’ (1984) differentiation between the rationality of the lifeworld and the system 
+world (Allen & Mendieta, 2019; Finlayson, 2005). Habermas’ later work inseparably linked 
+the question of legitimacy to the forms of rationality that dominate the lifeworld of everyday 
+life, ensuring maintenance and the reproduction of meaning in citizens’ lives and an ongoing 
+production of motivation, and the system world governed by money and power (Finlayson, 
+2005). Habermas’ concepts of life an d system worlds incorporate a communicative and 
+hermeneutic action perspective, making linguistic interactional activities the basis for a real 
+--- PAGE 8 ---
+Measured Lives in Educational Psychology   •   85 
+ 
+INTERNATIONAL REVIEW OF THEORETICAL PSYCHOLOGIES • Vol. 1, No. 1 • 2021 
+www.istp-irtp.com 
+alternative to systems thinking, but the basic thematic focus on legitimacy remains the same 
+(Habermas, 1984, p.  301). The system world is guided not by the consensus -oriented 
+rationality but by an instrumental and strategic logic. The communicative lifeworld is 
+governed by a struggle for consensus; the system world is governed more anonymously by 
+power and money. Power and money act as control media, and it is through these media that 
+the participants’ actions in late-modern institutions are regulated. The basic function of the 
+power and money subsystems is to regulate society’s material production and to coordinate 
+and integrate actions in the system world so there is system -level integration similar to the 
+role of communication in the lifeworld , serving a function of social integrati on (Allen & 
+Mendieta, 2019; Finlayson, 2005; Habermas, 1984).  
+When modern societies become still more complex as a consequence of industrialization 
+and modernization, and citizens become more mobile, the coordination and human actions 
+and activities of communication become a growing challenge. Under these conditions,  the 
+market economy (money) and state administration (power) act as relief to the 
+communicative lifeworld, and, according to Habermas  (1984), constantly produc e and 
+reproduce social and institutional integration. Contrary to classical Marxist thinking, 
+Habermas did not consider instrumental rationality, the market , and state administration 
+problematic as such. The real crises are built into the relationship between the lifeworld and 
+the system world and the growing coloni zation of the lifeworld. The crisis appears in the 
+tension that arises when  an instrumental rationality aimed at stabilizing the market  by 
+nurturing specific interests enters a collision course with the consensus-oriented rationality 
+of a life based on common interests (Heath, 2010).  
+According to Habermas  (1984), this means that the administrative systems continually 
+extract the values of the lifeworld to justify strategic interventions aimed at the market , 
+leading to a process of constantly undermining the consensus -oriented common values  of 
+the lifeworld. The paradox is that the technical rationality reinforces the effectiveness of 
+institutional systems and at the same time weakens the normative structures that guide the 
+actions of the individuals committed to the same institutions (Ewe rt, 1991). Habermas  
+claimes this legitimacy conflict particularly defines late -modern society, where in the 
+conflict is particularly linked to cultural practices —in the clash over the rationality of the 
+lifeworld, which is the hub of identity and moral deve lopment—and the quest of modern 
+state institutions to optimize the market’s stability precisely by rationalizing the citizens ’ 
+everyday lives (Allen & Mendieta, 2019; Finlayson, 2005). In other words, the emergence 
+of a technical rationality means that a legitimacy deficit arises because the interventions of 
+modern institutions are justified in maintaining, stabilizing, and streamlining the market and 
+will be left with a legitimacy deficit in the citizens’ interests. This legitimacy deficit appears 
+in the lack of commitment to modern state institutions.  
+How Hattie fits in 
+The past 20 years have seen a number of educational reforms all around the globe, with 
+OECD’s PISA initiative as a focal point (Sjøberg, 2018; Sommer & Klitmøller, 2018). The 
+focus has been to make the educational system of participating member states comparable 
+to each other in order to foster change. In a great many places this has meant a slew of 
+reforms – in Denmark culminating in 2014 with a new law on compulsory schooling 
+(Sommer & Klitmøller, 2018). 
+ Returning to Hattie’s (2009) visible learning approach, it can be argued that to understand 
+why Hattie’s ideas of teaching and learning have become so popular, Habermas’ (Allen & 
+--- PAGE 9 ---
+Klaus Nielsen & Jacob Klitmøller   •   86 
+ 
+INTERNATIONAL REVIEW OF THEORETICAL PSYCHOLOGIES • Vol. 1, No. 1 • 2021 
+www.istp-irtp.com 
+Mendieta, 2019; Finlayson, 2005 ) analysis of the issue of legitimacy provides a clue. 
+Despite the significa nt methodological problems Hattie’s works are facing, his approach 
+addresses a significant question concerning legitimation. It not only attempts to be a 
+catalogue of a great many evidence -based answers to the question of how teachers should 
+teach. Hattie’s main aim is to present a unified theory of teaching that can act as an umbrella 
+for the widely diverse studies that he includes. Why do people need schools? And Hattie’s 
+answer is clear: People need schools because they are the most effective institution s for 
+transmitting knowledge from teachers to students, given that the teachers and educational 
+administrators follow Hattie’s suggested guidelines. Hattie’s division of teaching sessions 
+into easy accessible technical , piecemeal input and output intervent ions that can be 
+hierarchized, controlled , and measured was just what was needed for optimizing the 
+educational system’s efficiency. Hattie’s work is a possibility for educational policy makers, 
+school leaders, and teachers to document to the public that it is producing stable learning 
+outcomes and at the same time control the educational apparatus. In other words, it was not 
+the scientific discoveries or the original data produced by Hattie or the evidence -based 
+movement in itself that made a difference bu t the promises embedded in the theory of 
+technical rationality that could legitimize the educational system. As we have tried to show, 
+nobody seems to be concerned about the scientific quality of the data Hattie based his theory 
+on. It is Hattie’s response to the legitimation crisis of the educational system that turned him 
+and his visible learning approach into a cult in the educational system. It promises stable 
+learning outcomes and that the pupils in the Danish educational system will learn as much 
+as possible, to paraphrase the central aims of the considerable reform of the elementary 
+school system implemented in Denmark 5 years ago that was strongly inspired by Hattie’s 
+work.  
+However, as Habermas (1984) outlined, everything comes at a price, and this is also the 
+case with Hattie’s (2009) visible learning approach. As we argue in our final remarks, a 
+huge paradox seems to be involved when education becomes legitimized through the theory 
+of technical rationality. On one hand, Hattie’s work provides the i llusion that evidence -
+oriented methods maximize learning outcome s, given the strong technical nature of 
+educational practice, and on the other hand, the relationship to pupils’ lifeworlds seems to 
+be neglected all together. Overemphasizing the control aspe ct as the root of the crisis that 
+schools today face, Hattie ignore d that the very question of what school is for is not self -
+evident to its participants.  
+Marginalizing Questions of Intentions and Meaning 
+Hence, in line with Habermas’ (Allen & Mendieta, 2019; Finlayson, 2005, Habermas, 1984) 
+analysis of legitimacy problems in late modernity, one of the main problems with the 
+technical worldview in Visible Learning (Hattie, 2009) is that it contains no conce pts of 
+teachers or students’ interests, intentionality, or understanding of school or of the role that 
+school life plays in students’ lives; no concept of the student or teacher as meaning-seeking 
+or interpretive existed in Hattie’s work. The atomization of educational effects (effect sizes) 
+becomes, at the same time, the atomization of the students and teachers into a number of 
+variables. When Hattie talks about students’ experiences, it is only only in relation to the 
+way in which students may be susceptible to the teacher’s influence. Although the students 
+must be active, they are not initially understood as acting intentionally. They only act 
+mechanically as a consequence of feedback. The students’ intentionality and uniqueness are 
+replaced by an understanding of how effective they are at solving problems and acquiring 
+--- PAGE 10 ---
+Measured Lives in Educational Psychology   •   87 
+ 
+INTERNATIONAL REVIEW OF THEORETICAL PSYCHOLOGIES • Vol. 1, No. 1 • 2021 
+www.istp-irtp.com 
+knowledge. Instead of addressing students as agents and student intentionality, Hattie talks 
+about, for example, self -efficacy, self-handicapping, self-motivation, self-goals, and self -
+dependence (Hattie, 2012; Hattie & Yates, 2014). All of these different concepts are Hattie’s 
+replacement of the students’ interpretations of school’s relevance and importance and 
+served Hattie’s ambition of supporting the students in becoming their own teache rs. The 
+starting point is not to understand the teaching situation or the school from the students’ 
+perspective but to find aspects of student activities that may be subject to correction so the 
+image of students as problem solvers can be maintained.  
+Hattie (2009) addresses educational issues from the school’s and the teacher’s points of 
+view (and from a particular understanding of schools and teachers), reflecting the students 
+as objects under the school’s or the teacher’s influence rather than addressing school issues 
+from the perspective of how the school plays a role in the students’ lives. Furthermore, given 
+Hattie’s approach to education, human dialogue seems be replaced by a strong focus on 
+mutual processes of feedback between the teacher and the stu dent, and there is little focus 
+on giving reasons for the students to learn what they should learn.  
+Another argument has been that Hattie’s (2009) overall aim was to have real effects on how 
+teachers teach (and students participate). His hope, so it would seem, is that his list of effect 
+sizes (and barometers), along with the guidelines of the theory of visible learning, would be 
+enough to secure educational progress. Even when some of the problems Hattie  encounter 
+are to be found in his all -inclusive sta nce on research on student achievement, a whole 
+different set of problems are created when Hattie insists, contrary to the original fields (e.g., 
+feedback) that any concept of this kind can be reduced to single -effect sizes (see, e.g., 
+Nielsen & Klitmøller, 2017).  
+Technical Rationality as the Frame for Teaching and 
+Learning 
+With the problematization of student intentionality meaning attending school, we have 
+opened up for further discussion the role technical rationality played in Hattie’s work. What 
+we ha ve argued so far is that Hattie’s (2009) basic theory was legitimized through its 
+adherence to technical rationality and that this placed severe limitations on his field of 
+research. The constrain t of his approach means that only those matters related to a 
+performance increase inspired by technical rationality were included in his theory. This was 
+done at the expense of the empirical material  on which he founded his theory (Nielsen & 
+Klitmøller, 2017) and the fact that teachers —and especially pupils —were not considered 
+persons with their own intentionality. Instead of understanding students as persons existing 
+in their own right, Hattie understood them as objects that must either be influenced in some 
+way by the teachers or by the students themselves to incr ease their performance. And this 
+was despite the fact that Hattie’s theory of learning has not been adequately investigated 
+regarding the empirical material he address ed in relation to questions of deep and surface 
+learning. As Hattie acknowledged, the vast majority of studies on which his theory of visible 
+learning was substantiated only measure d outcome in relation to surface knowledge, not 
+deep or conceptual learning (Hattie, 2009).  
+Another way the students’ intentionality was left out of Hattie’s (2009) work was in the way 
+that learning objectives were not open for discussion. In Hattie’s theory of visible learning, 
+the teachers must, with feedback, feed-up and forward, create an environment in which the 
+students, through the reinforcement that lies in the feedback system , direct the students ’ 
+--- PAGE 11 ---
+Klaus Nielsen & Jacob Klitmøller   •   88 
+ 
+INTERNATIONAL REVIEW OF THEORETICAL PSYCHOLOGIES • Vol. 1, No. 1 • 2021 
+www.istp-irtp.com 
+activities toward already formulated learning objectives. It is a closed system in which the 
+learning objective sanctifies the means of teaching. Hattie suggest ed a technological 
+determinant of education, and therein lies the greatest influence of Hattie’s work on practical 
+pedagogy. Educational issues are understood within the context of a technological goal –
+means rationality, and other types of questions other than means –ends question s are 
+considered to be of n o relevance. The so -called “empirical turn ” in some educational 
+research toward evidence-oriented practice can thus be seen not so much as a scientizing of 
+education but as a metaphor or narrative framing educational practice as industrial 
+production (Biesta, 2015)—part of a far greater movement toward streamlining the use of 
+human resources in educational practice. In many respects, Hattie’s theory of learning thus 
+has “the ideological function of making the technical approach to learning self-evident and 
+dominant” (Kvale, 1976, p. 106—our translation). 
+We believe that the theoretical blind spots in Hattie’s (2009) work – the ‘unconsious’ theory 
+in Visible Learning – make the paradoxes in the modern educational system even greater, 
+not smaller, and  it is ne cessary to address the theoretical assumptions embedded in 
+educational research and in the theory of technical rationality that Hattie is bringing to the 
+educational system. In our view, the study of how teaching can be improved should begin 
+with research on how schools and teaching are conducted in everyday practice, meaning 
+researching how and why  pupils, teachers, and parents participate in educational practice. 
+As in the case of Hattie’s research, one should begin not by asking what methods to use to 
+improve modern schooling but rather by inquiring about the meaning of and the reasons for 
+pupils’ participating in school practice. 
+References 
+Allen, A., & Mendieta, E. (2019). The Cambridge Habermas lexicon. Cambridge 
+University Press. 
+Allerup, P. (2015). Hattie’s brug af effect size som rangordning af pædagogiske indsatser 
+[Hattie's use of effect size as a ranking educational interventions] Paideia: Tidsskrift 
+for Professionel Pædagogisk Praksis, 9, 42–51.  
+Bates, R. J. (1980). New developments in the new sociology of education. British Journal 
+of Sociology of Education, 1(1), pp. 67–79. 
+Bergeron, P. J. (2017). How to engage in pseudoscience with real data: A criticism of John 
+Hattie’s arguments in visible learning from the perspective of a statistician. McGill 
+Journal of Education, 52(1).  
+Biesta, G. (2015). Resisting the seduction of the global education measurement industry: 
+Notes on the social psychology of PISA. Ethics and Education, 10(3), 348–360. 
+http://doi.org/10.1080/17449642.2015.1106030 
+Biesta, G. (2010). Good education in an age of measurement - Ethics, Politics, 
+Democracy. Educational Assessment, Evaluation and Accountability (Vol. 21). 
+Boulder, Colorado: Paradigm Publishers. 
+Biesta, G. (2009). Læring retur - demokratisk dannelse for en menneskelig fremtid. [Turn 
+back learning - democratic bildung for a human future] København: Forlaget UP - 
+Unge Pædagoger. 
+--- PAGE 12 ---
+Measured Lives in Educational Psychology   •   89 
+ 
+INTERNATIONAL REVIEW OF THEORETICAL PSYCHOLOGIES • Vol. 1, No. 1 • 2021 
+www.istp-irtp.com 
+Biesta, G. (2007). Why “what works” won’t work: evidence-based practice and the 
+democratic deficit in educational research. Educational Theory, 57(1), 1–22. 
+https://doi.org/10.1111/j.1741-5446.2006.00241.x 
+Blichfeldt, J. F. (2011). Om gyldig forskning og bruk av forsknings—og testresultater 
+[About Valid research and use of research and test results]. Bedre Skole, 4, 12–17. 
+Borman, D. A. (2011). The Idolatry of the Actual – Habermas, Socialization, and the 
+Possibility of Autonomy. Suny Press. 
+Costall, A. (2013). The Unconscious Theory in Modern Cognitivism. In T. P. Racine & K. 
+L. Slaney (Eds.), A Wittgensteinian Perspective on the Use of Cenceptual Analysis in 
+Psychology (pp. 312–327). Palgrave MacMillan. 
+Evans, D. (2012, September 14). He is not the messiah. Times Education Supplement. 
+Ewert, G. D. (1991). Habermas and education: A comprehensive overview of the 
+influence of Habermas in educational literature. Review of Educational Research, 
+61(3), 345–378. 
+Finlayson, J. G. (2005). Habermas: A very short introduction. Oxford University Press. 
+Habermas, J. (1976). Legitimation crisis (T. McCarthy, Trans.). Heinemann Educational 
+Publishers. 
+Habermas, J. (1984). The theory of communicative action. Polity Press. 
+Hansen, O., Lekhai, R., Nordahl, T., Persson, B., & Qvortrup, L. (2015). Leder—
+temanummer om John Hattie [Editorial - special issue about John Hattie]. Paideia: 
+Tidsskrift for Professionel Pædagogisk Praksis, 9, 4–8. 
+Hargreaves, D. (2000). Teaching as a Research-Based Profession: Possibilities and 
+Propects. In B. Moon, J. Butcher, & E. Bird (Eds.), Leading Professional Development 
+in Education (pp. 200–210). 
+Hattie, J. (1987). Identifying the salient facets of a model of student learning: A synthesis 
+of meta-analyses. International Journal of Educational Research, 11(2), 187–212. 
+Hattie, J. (2009). Visible learning: A synthesis of over 800 meta-analyses relating to 
+achievement. Routledge. 
+Hattie, J. (2010). Commentary on being a “critic and conscience of society”: The role of 
+the education academic in public debates. New Zealand Journal of Educational Studies, 
+45(1), 85–96. 
+Hattie, J. (2012). Visible learning for teachers—Maximizing impact on learning. 
+Routledge. 
+Hattie, J. (2013). Synlig læring—For lærere [Visible learning for teachers] (S. Søgaard, 
+Trans). Dafolo. 
+Hattie, J. & Nepper Larsen, S. (2020). The Purposes of Education – a Conversation 
+between John Hattie and Steen Nepper Larsen. Routledge. 
+--- PAGE 13 ---
+Klaus Nielsen & Jacob Klitmøller   •   90 
+ 
+INTERNATIONAL REVIEW OF THEORETICAL PSYCHOLOGIES • Vol. 1, No. 1 • 2021 
+www.istp-irtp.com 
+Hattie, J., & Yates, J. (2014). Synlig læring og læringens anatomi [Visible Learning and 
+the anatomy of learning] (S. Søgaard, Trans). Dafolo Forlag. 
+Hattie, J. A., & Timperley, H. (Hattie & Timperley, 2007). The power of feedback. 
+Review of Educational Research, 77(1), 81–112.  
+Heath, J. (2010). Legitimation crisis in the later work of Jurgen Habermas. The Journal of 
+Shanghai Administrative Institute, 11, 5. 
+Katzenelson, N. (2008). De måske egnede på erhvervsuddannelserne. Frafald og 
+fastholdelse af udsatte unge (the possible qualified on the VET education. Dropout and 
+retention of at risk students). Erhvervsskolernes forlag.  
+Klitmøller, J., & Nielsen, K. (2017). John Hattie som uddannelsesteoretiker—En kritik af 
+teorien om synlig læring [John Hattie as educational theorist - a  critique of visible 
+learning]. Dansk pædagogisk tidsskrift, (2), 3–15.  
+Klitmøller, J., & Nielsen, K. (2019). Kritikken af kvaliteten af Hattie’s kvantitative 
+forskning [A critique of the qualitative of Hattie's quantitative research]. Paideia: 
+Tidsskrift for Professionel Pædagogisk Praksis, 18(November), 65. 
+Knudsen, H. (2017). John Hattie: I’m a statistician, I’m not a theoretician. NordSTEP, 
+3(3), 253–261. https://doi.org/10.1080/20020317.2017.1415048 
+Kvale, S. (1973). The technological paradigm of psychological research. Journal of 
+Phenomenological Psychology, 3, 143–159. 
+Nordahl, T. (2019). Kritikken av kvantitativ forskning i pedagogikk. [The critique of 
+quatitative research in education]. Paideia: Tidsskrift for Professionel Pædagogisk 
+Praksis, 17, 6–14. 
+Mansell, W. (2008, November 21). Research reveals teaching’s Holy Grail. Times 
+Education Supplement.  
+Nepper Larsen, s. (2016). At ville noget med nogen – filosofiske og samtidskritiske 
+fragmenter om dannelse og pædagogik. [To have intentions with someone - 
+philosophical and contempory diagnosis fragments about bildung and education]. 
+Turbine Akademisk. 
+Nielsen, K., & Klitmøller, J. (2017). Blinde pletter i den synlige læring: Kritiske 
+kommentarer til “Hattierevolutionen” [Blind spots in Visible learning - critical 
+comments to the "Hattie revolution"]. Nordic Studies in Education, 37(1), 3–18. 
+https://doi.org/10.18261/issn.1891-5949-2017-01-02 
+Plant, R. (1982). Jurgen Habermas and the idea of legitimation crisis. European Journal of 
+Political Research, 10, 341–352. 
+Polanin, J. R., Maynard, B. R., & Dell, N. A. (2016). Overviews in education research: A 
+systematic review and analysis. Review of Educational Research, 9, 1–32. 
+http://doi.org/10.3102/0034654316631117 
+Qvortrup, L. (2015). Baggrund for og diskussion af visible learning med særligt henblik 
+på lærings—Og vidensbegrebet. [The background for and the discussion of visible 
+--- PAGE 14 ---
+Measured Lives in Educational Psychology   •   91 
+ 
+INTERNATIONAL REVIEW OF THEORETICAL PSYCHOLOGIES • Vol. 1, No. 1 • 2021 
+www.istp-irtp.com 
+learning with a special focus on the concept of learning and knowledge]. Paideia: 
+Tidsskrift for Professionel Pædagogisk Praksis, 9, 22–33. 
+Rømer, T. A. (2019). A critique of John Hattie’s theory of Visible Learning. Educational 
+Philosophy and Theory, 51(6), 587–598. 
+https://doi.org/10.1080/00131857.2018.1488216 
+Rømer, T. A. (2019). FAQ – om dannelse. Hans Reitzels Forlag. 
+Schön, D. A. (1983). The reflective practitioner: How professionals think in action. Basic 
+Books. 
+Schön, D. A. (1987). Educating the reflective practitioner—Toward a new design for 
+teaching and learning in the professions. Jossey Bass. 
+Simpson, A. (2017). The misdirection of public policy: Comparing and combining 
+standardised effect sizes. Journal of Education Policy, 32(4), 450–466. 
+https://doi.org/10.1080/02680939.2017.1280183 
+Simpson, A. (2018). Princesses are bigger than elephants: Effect size as a category error in 
+evidence-based education. British Educational Research Journal, 44(5), 897–913. 
+https://doi.org/10.1002/berj.3474 
+Schleicher, A. (2010). The New Global Landscape of Educational Achievement. Issues in 
+Science and Technology, (Spring), 81–85. 
+Sjøberg, S. (2018). PISA - oraklet i Paris? Global styring af skole og Uddannelse. I D. 
+Sommer & J. Klitmøller, Fremtidsparat – Hinsides PISA – nordiske perspektiver på 
+uddannelse. Hans Reizels Forlag. S. 73-106. 
+Sommer, D. & Klitmøller, J. (2018). Fremtidsparat – Hinsides PISA – nordiske 
+perspektiver på uddannelse. Hans Reizels Forlag. 
+Snook, I., O’Neil, J., Clark, J., O’Neill, A., & Openshaw, R. (2009). Commentary: 
+Invisible learnings? A commentary on John Hattie’s book Visible Learning: A 
+synthesis of over 800 meta-analyses relating to achievement. New Zealand Journal of 
+Educational Studies, 44(1), 93–106. 
+Terhart, E. (2012). Has John Hattie really found the Holy Grail of research on teaching? 
+An extended review of Visible Learning. Curriculum Studies, 43(3), 425–438. 
+Topphol, A. K. (2011). Kan vi stole på statistikkbruken i utdanningsforskinga 
+[Translation]? Norsk pedagogisk Tidsskrift, 95(6), 460–471. 
+Wrigley, T. (2018). The power of “evidence”: Reliable science or a set of blunt tools? 
+British Educational Research Journal, 44(3), 359–376. 
+Zhao, Y. (2018). What works may hurt—Side effects in education. Teachers College Press. 
+Ziehe, T. (1989). ”Jeg er måske lidt umotiveret i dag ……….” – elevernes og lærernes 
+forestillinger om sig selv i dag. I: Ambivalenser og mangfoldighed (s. 37-54). 
+København, Danmark: Politisk Revy. 
+--- PAGE 15 ---
+Klaus Nielsen & Jacob Klitmøller   •   92 
+ 
+INTERNATIONAL REVIEW OF THEORETICAL PSYCHOLOGIES • Vol. 1, No. 1 • 2021 
+www.istp-irtp.com 
+Ziehe, T. (2003). Skolen i en anerkendelseskrise. I: J. Bjerg (Red.), Pædagogik: En 
+grundbog til et fag (3. rev. udgave, kapitel 3, s. 85-101). København, Danmark: Hans 
+Reitzel. 
+About the authors 
+ 
+Klaus Nielsen is Professor at Department of Psychology, University of Aarhus, 
+Denmark. His research interests are learning in social practice, theoretical psychology 
+and qualitative methods. 
+ 
+ORCID: https://orcid.org/0000-0001-7287-8400 
+ 
+Jacob Klitmøller is Associate Professor at the Department of Psychology, University 
+of Aarhus, Denmark. His research is concerned with educational techniques and 
+students’ experiences of going to school. 
+ 
+Contact:  Correspondence concerning this article should be addressed to Klaus Nielsen, 
+Department of Psychology, Aarhus University. Email: klausn@psy.au.dk 
+ORCID: 0000-0003-1580-2690  
+ 

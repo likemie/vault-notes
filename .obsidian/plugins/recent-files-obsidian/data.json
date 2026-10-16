@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Visible Learning",
-      "path": "wiki/concepts/instruction-pedagogy/Visible Learning.md"
+      "basename": "Argument_Nielsen_2021_IRTP",
+      "path": "wiki/arguments/journal-articles/International Review of Theoretical Psychologies/Argument_Nielsen_2021_IRTP.md"
     },
     {
       "basename": "Critiques of Visible Learning",
       "path": "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md"
+    },
+    {
+      "basename": "Argument_OConnor_2020_AJLL",
+      "path": "wiki/arguments/journal-articles/Australian Journal of Language and Literacy/Argument_OConnor_2020_AJLL.md"
+    },
+    {
+      "basename": "Visible Learning",
+      "path": "wiki/concepts/instruction-pedagogy/Visible Learning.md"
+    },
+    {
+      "basename": "Argument_ONeill_2016_Report",
+      "path": "wiki/arguments/reports-policy-documents/Argument_ONeill_2016_Report.md"
     },
     {
       "basename": "Argument_Snook_2009_NZJES",
@@ -35,10 +47,6 @@
     {
       "basename": "Assessment Tools for Teaching and Learning",
       "path": "wiki/instruments/tests/Assessment Tools for Teaching and Learning.md"
-    },
-    {
-      "basename": "Argument_ONeill_2016_Report",
-      "path": "wiki/arguments/reports-policy-documents/Argument_ONeill_2016_Report.md"
     },
     {
       "basename": "KidsCan",
@@ -191,10 +199,6 @@
     {
       "basename": "Observation Protocol",
       "path": "wiki/methods/qualitative/Observation Protocol.md"
-    },
-    {
-      "basename": "Classroom Observation",
-      "path": "wiki/methods/qualitative/Classroom Observation.md"
     }
   ],
   "omittedPaths": [],
