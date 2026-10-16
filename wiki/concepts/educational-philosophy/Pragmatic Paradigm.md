@@ -8,10 +8,10 @@ aliases:
 summary: "先完整论述古典哲学层面（杜威等的经验、探究与行动后果），再阐述延伸出的研究方法论层次（混合方法研究的问题驱动与方法自由），并剖析跨国治理中将教育窄化为绩效精算的实用主义范式与紧迫实用主义认知盲区。"
 type: concept
 domain: "educational-philosophy"
-related_count: 59
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 60
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - research-philosophy
   - mixed-methods
@@ -25,6 +25,8 @@ related_concepts:
   - "[[Fitness for Purpose]]"
   - "[[Epistemology]]"
   - "[[Incommensurability]]"
+  - "[[Problem Solving]]"
+  - "[[Hypothesis]]"
   - "[[Postpositivism]]"
   - "[[Positivism]]"
   - "[[Falsification]]"
@@ -35,6 +37,8 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Ontology]]"
   - "[[Communities of Practice]]"
+  - "[[Disciplina and Doctrina]]"
+  - "[[Open-Mindedness]]"
   - "[[Operationalization]]"
   - "[[Paradigm Wars]]"
   - "[[Scientific Attitude]]"
@@ -56,10 +60,13 @@ related_theories:
   - "[[Social Justice Theory]]"
 related_methods:
   - "[[Mixed Methods Research]]"
+  - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Problem Approach]]"
   - "[[Correlational Research]]"
 related_persons:
   - "[[John Dewey]]"
+  - "[[John Hattie]]"
   - "[[Brian Holmes]]"
   - "[[Karl Popper]]"
   - "[[George Bereday]]"
@@ -76,6 +83,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Zhou_2024_CE]]"
   - "[[Argument_Schulte_2009_EncuentrosEducacion]]"
   - "[[Argument_Rust_2009_Reflections]]"
@@ -86,7 +94,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Pragmatic Paradigm
@@ -109,6 +117,11 @@ updated: 2026-10-16
 > 实用主义本质上是实践驱动的而非理想化的。它不执着于任何单一哲学或现实体系，而是以研究问题为中心，使用所有可用的方法来理解问题。[[Argument_Cohen_Manion_Morrison_2011_Routledge|(Cohen et al., 2011, Ch. 1)]]
 >
 > *Pragmatism is essentially practice-driven rather than idealized. It does not commit to any one system of philosophy and reality, but focuses on the research question and uses all available approaches to understand the problem.*
+
+> [!citation-card] 杜威论实证证据与行动规则的本质鸿沟（[[Argument_Snook_2009_NZJES|Snook et al., 2009]] 援引 Dewey, 1929）
+> 没有任何科学研究的结论可以直接转化为教育艺术的即刻行动规则。没有任何教育实践能够仅仅根据经验发现来裁定对错。教育中实证发现的核心职能，是为教育者提供用于明智探究与[[Problem Solving|问题解决]]的假设，引导他们审视自身教育实践的情境与目的，而非提供强制性的行动铁律。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 93, 104)]]
+>
+> *“No conclusion of scientific research can be converted into an immediate rule of educational art... Evidence does not supply us with rules for action but only with [[Hypothesis|hypotheses]] for intelligent problem solving, and for making inquiries about our ends in education.”*
 
 > [!boundary]- 概念边界
 > - 不等于 [[Postpositivism]] — 后[[Positivism|实证主义]]属于方法论层面的竞争范式，聚焦于理论[[Falsification|证伪]]与因果识别。
@@ -194,6 +207,9 @@ updated: 2026-10-16
 > [!claim] Cherryholmes (1992) & Morgan (2007)
 > **关注研究动作的预期后果** 强调实用主义哲学将真理置于行动后果之中，研究始终嵌入在社会、历史与政治情境里。（Cherryholmes, 1992; Morgan, 2007）
 
+> [!claim] Dewey (1929); [[Argument_Snook_2009_NZJES|Snook et al. (2009)]]
+> **实证证据是明智探究的假设而非行动规则** 斯努克等人援引[[John Dewey|杜威]]（Dewey, 1929, *The Sources of a Science of Education*）指出，在实用主义[[Epistemology|认识论]]中，“没有任何经验发现可以直接转化为教育行动的规则；证据所能提供的，仅仅是供教育者进行明智问题求解、审视教育目的之假设”。当当代量化实证研究（如[[John Hattie|哈蒂]]的[[Meta-analysis|元分析]][[Effect Size|效应量]]排名与国家标准政策）试图跳过哲学反思、将实证数据直接转化为自上而下的政策铁律与技术治理[[Disciplina and Doctrina|规训]]时，恰恰背叛了古典实用主义对情境性反思与探究[[Open-Mindedness|开放性]]的根本承诺。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 93, 104)]]
+
 ---
 
 ### 命题二（方法论层次）　实用主义研究范式以研究问题为中心并视方法为适合目的的工具
@@ -268,7 +284,7 @@ updated: 2026-10-16
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 所属层次 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |:---|:---|:---|:---|:---|
-> | **行动后果与真理工具论** | 层次一：哲学层面 | 将真理定义为情境行动中经受检验的有效后果 | 认识论与探究哲学 | Dewey (1916); Cherryholmes (1992) |
+> | **行动后果与真理工具论** | 层次一：哲学层面 | 将真理定义为情境行动中经受检验的有效后果，实证证据仅是探究假设而非行动规则 | 认识论与探究哲学 | Dewey (1916, 1929); Cherryholmes (1992); [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] |
 > | **问题驱动与方法自由** | 层次二：方法论层次 | 强调方法服务于研究问题，主张适合目的与技术自由 | [[Mixed Methods Research\|混合方法研究]]设计 | [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] |
 > | **跨国解耦与功能性拆解** | 层次三：实践与跨国层 | 探讨危机语境下哲学理想与方法手段的解耦 | 比较教育与跨国知识转移 | [[Argument_Zhou_2024_CE\|Zhou and Westberg (2024)]]; [[Argument_Schulte_2009_EncuentrosEducacion\|Schulte (2009)]] |
 > | **假设-演绎与实用互动论** | 层次四：比较教育学层 | 依托杜威问题法构建假设-演绎比较范式，突破功能主义垄断 | 比较教育方法论与范式争鸣 | [[Brian Holmes\|Holmes (1965)]]; [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]] |
@@ -284,6 +300,7 @@ updated: 2026-10-16
 > - **1960s–1970s — 比较教育方法论论争与实用互动论（比较教育学层）** [[Brian Holmes|布莱恩·霍姆斯]]（Holmes, 1965）借鉴[[John Dewey|杜威]]问题求解逻辑提出“假设-演绎[[Problem Approach|问题法]]”，掀起与归纳法的[[Paradigm|范式]]论争；“实用互动论”被确认为 1970 年代打破[[Structural Functionalism|结构功能主义]]实证霸权的核心批判范式之一。[[Argument_Rust_2009_Reflections|(Rust et al., 2009, pp. 128–129, 136)]]
 > - **1990s–2000s — 方法论[[Paradigm|范式]]奠基（方法论层次）** Cherryholmes (1992), Patton (1990), Tashakkori and Teddlie (2010), Johnson and Onwuegbuzie (2004), Denscombe (2008), Morgan (2007) 将实用主义确立为[[Mixed Methods Research|混合方法研究]]的官方哲学基础。
 > - **2000 年代 — 超国家治理的技术主义规约与紧迫实用主义盲区** 里兹维与林加德（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]]）揭示[[OECD|经合组织]]如何将教育治理窄化为劳动力技能精算；比奇（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）进一步提炼国际机构的“紧迫实用主义（urgent pragmatism）”机制，揭示其实用主义解题冲动如何导致学术理论过度简化与政策空间闭合。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 451–452)]]; [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 350–352)]]
+> - **2009 年 — 杜威实证探究[[Epistemology|认识论]]对技术统治论排名的批判** 斯努克等人重温[[John Dewey|杜威]]（1929）《教育科学的渊源》，在批判[[John Hattie|哈蒂]]量化排名的论辩中重新激活了实用主义认识论基石：实证证据绝非直接规约行动的技术铁律，而仅是供一线教育者在具体情境中反思目的与明智解题的探究假设（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）。
 > - **2010s至今 — 教育研究应用、跨国解构与现代工程[[Epistemology|认识论]]复兴** 深入[[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]]与[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]]教材体系；在比较教育中被用来分析实用主义哲学在非西方社会的跨国转移与结构性拆解（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024]]）；并在现代科技哲学中被卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic|Karp & Zamiska, 2025]]）升华为[[Engineering Mindset|工程思维]]与反官僚推诿的核心认识论。
 
 ---
@@ -325,6 +342,7 @@ updated: 2026-10-16
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 451–452)]] — 揭示[[OECD|经合组织]]如何将教育治理窄化为劳动力技能核算的实用主义范式，遮蔽教育的民主与伦理目的。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 剖析国际多边机构在生成[[Global Educational Discourse|全球教育话语]]时的“紧迫实用主义（urgent pragmatism）”与行动改良逻辑，揭示其过度简化机制与[[Epistemology|认识论]]盲区（pp. 350–352）。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]] — 探讨实用主义哲学（杜威《实用主义美国》）对现代[[Engineering Mindset|工程思维]]与反教条经验[[Epistemology|认识论]]的奠基（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14]]）。
+> - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 援引杜威论证实证证据仅是明智探究的假设而非行动铁律，批判将量化[[Effect Size|效应量]]排名异化为技术统治处方的做法（pp. 93, 104）。
 
 ---
 
@@ -347,4 +365,5 @@ updated: 2026-10-16
 > | [[Bob Lingard]] | 人物 | 政策学者：分析超国家组织如何借助实用主义解题理性掩蔽新自由主义[[Economic Fundamentalism\|经济基要主义]]。 |
 > | [[Jason Beech]] | 人物 | 比较教育学者：揭示国际组织受制于“紧迫实用主义”而过度简化知识并自限政策空间。 |
 > | [[Global Educational Discourse]] | 概念 | [[Discourse\|话语]]载体：国际机构基于紧迫实用主义加工生成的去情境化普遍主义教育模型。 |
+> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 论证 | 哲学批判：援引杜威阐明实证证据是明智探究的假设而非行动规则，批判技术统治论。 |
 

@@ -25,10 +25,11 @@ related_concepts:
   - "[[Programme Fidelity vs Adaptation]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Academic Achievement]]"
+  - "[[Visible Learning]]"
+  - "[[Performance Pay]]"
   - "[[Interaction Effect]]"
   - "[[Feedback]]"
   - "[[Necessary and Sufficient Conditions]]"
-  - "[[Visible Learning]]"
   - "[[Value Neutrality]]"
   - "[[Global Education Reform Movement]]"
   - "[[Social Science as Legitimation Alibi]]"
@@ -64,6 +65,7 @@ related_persons:
   - "[[José Luis García Garrido]]"
   - "[[Kathryn Anderson-Levitt]]"
 related_facts:
+  - "[[Picking Up the Pace]]"
   - "[[World Bank]]"
   - "[[French Class Size Reduction]]"
   - "[[EU]]"
@@ -88,7 +90,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-05-03'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Class Size
@@ -176,7 +178,9 @@ updated: 2026-10-16
 > - **1978 年 — Glass & Smith 开拓性元分析** 汇总 77 项研究、725 项比较及近 90 万学生数据，首次通过回归拟合出班级规模与[[Academic Achievement|学业成就]]的负相关曲线；并首次发现实验控制良好的研究其负向斜率更陡，颠覆了粗糙研究必然高估效应的直觉。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch. 17, pp. 357–360)]]
 > - **1985–1989 年 — 田纳西州 STAR 随机试验** 针对小班（13–17 人）与常规模范大班（22–26 人）进行跨年级追踪，确立了高质量小班在低年级与少数族裔学生中的显著优势（$d \approx 0.60$），奠定小班实验黄金标杆。
 > - **1996 年 — 加利福尼亚州全州推广反思** 加州仓促推行全州缩班，遭遇合格师资严重短缺与教室空间不足，导致代课教师骤增与教学质量稀释，成为政策外推忽视系统支持条件的关键警示案例。
+> - **2001–2002 年 — 新西兰 [[Picking Up the Pace|PACE 项目]]实证突破** 奥克兰南区处境不利小学将班额自 28 人降至 15 人，赋能教师组建 3 人微型阅读辅导组，录得常规模范两倍以上的学业增益，确立小班与针对性教学法协同的红利（Phillips et al., 2001; [[Argument_Snook_2009_NZJES|Snook et al., 2009]]）。
 > - **2003–2004 年 — 全球南方极端班额与物质约束视野** 安德森-莱维特（Anderson-Levitt, 2003, 2004）跨国对比几内亚与欧美课堂，确立大班额与教材匮乏作为吸收外部先进教学法物质屏障的“双重视野”（Double Vision）。
+> - **2009 年 — 新西兰部长征用[[John Hattie|哈蒂]]数据风波** 新西兰教育部长安妮·托利（Anne Tolley）在广播电视与政策辩论中征用哈蒂《[[Visible Learning|可见的学习]]》数据（$d=0.21$），公开宣称“缩小班额毫无用处”以抗拒设定班额上限并强推教师[[Performance Pay|绩效工资]]，引发学界关于剥离教学机制将量化元分析政治武器化的剧烈反弹（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）。
 > - **2018–2019 年 — 教师效能函数中的班额控制与微观测量突破** [[World Bank|世界银行]]发布 Teach 工具（[[Argument_WorldBank_2019_Teach|World Bank Group, 2019]]；Molina et al., 2018），在跨国大样本计量模型中将班级规模作为关键控制协[[Variable|变量]]，证实即便在控制班级规模后，微观教学实践仍显著贡献 0.08–0.12 SD 的学业增益；同时揭示 60–100 人超大班额对低推论快照测量的代表性挑战。
 
 ---
@@ -240,7 +244,10 @@ updated: 2026-10-16
 
 > [!claim] Glass and Smith (1979); [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]
 > **断章取义剪裁经典文献与忽略配套危机** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]进一步指出，哈蒂宣称从格拉斯与史密斯（1979）的经典元分析中提取出 $d=0.09$ 的极低效应量，但 Glass & Smith 在原文中根本未曾报告过该数值；相反，原著证实控制良好的[[Experimental Research|实验研究]]中，班级从 40 人缩减至 1 人时学业成绩提升超过 30 个百分位点。哈蒂仅截取了曲线最右端平缓局部，并混入 100 人的大学阶梯讲座数据来指导中小学；与此同时，将 1996 年加利福尼亚州州长为了与工会斗争而仓促推行缩班立法（导致临时板房与未经培训生手充斥课堂）的失败归咎为班额本身无效，完全掩盖了缩班需要师资培训与校舍配套的制度教训（pp. 32–33）。
->
+
+> [!claim] [[Argument_Snook_2009_NZJES|Snook et al. (2009)]]
+> **政客片面征用元分析平均值作为抗拒缩班的政策盾牌** 新西兰教育部长安妮·托利（Anne Tolley）在 2009 年的电台访谈与国会宣示中，直接援引哈蒂《[[Visible Learning|可见的学习]]》中班级规模的低效应量（$d=0.21$），公开主张“证据表明缩减班级规模无效”，并以此为由拒绝工会关于缩小班额的诉求、转而兜售教师[[Performance Pay|绩效工资]]。斯努克等人指出，托利的修辞犯下了严重的科学误导：哈蒂自己在书中明确承认“如果教师在小班中改变教学方式，班级规模缩减便能产生实质收益”；部长却刻意抽离教学方式这个决定性条件，将复杂的学术权衡粗暴简化为单向的紧缩工具，将元分析结论异化为免除政府改善办学条件责任的政治护盾（pp. 100–104）。
+
 > [!claim] [[Argument_Golovchin_2019_ESC|Golovchin (2019)]]
 > **民间游说与俄罗斯依凭排名削减资源的治理陷阱** 戈洛夫钦（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）指出，在英美国家，《可见的学习》关于小班优势的论断催生了诸如“班级规模至关重要（Class size matters）”等社会运动组织，在政府与地方各级积极游说严控班额上限；然而，班级规模在哈蒂影响气压计中仅被列为中低效应区（$d=0.21$）。俄罗斯教育决策层若机械依凭这一排名，将其作为学校资源配置与财政拨款的调整判准（如借“班额影响不大”为由推卸办学经费、任由公立学校班额扩张并削减财政投入），将使本已面临经费不足（45% 教师反映）与形式主义官僚填报重负（79% 教师受困）的基层学校陷入雪上加霜的“制度陷阱”，甚至加剧优秀教师群体的大规模流失。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 235–237, 240–241)]]
 
@@ -256,7 +263,7 @@ updated: 2026-10-16
 > | **方法控制调节** | 班级规模与学业成就呈稳定负相关，实验控制越充分则小班优势越陡峭 | 大规模元分析设计、测量模型校准 | Glass and Smith (1978); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Cohen et al. (2011)]] |
 > | **成本效益约束** | 单纯缩班财政成本极其昂贵，边际效益常逊色于成人定向辅导与教师辅导方案 | 教育公共财政决策、干预方案横向比选 | [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] |
 > | **教学与体制交互** | 小班红利严格取决于教学方式的实质转变与课程学制的有机配合 | 教师专业发展、课程体系配套改革 | Murnane and Levy (1996); [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; [[Argument_Garcia_Garrido_2009_SpainEU\|García Garrido (2009)]] |
-> | **财政紧缩护盾** | 班级规模无效论被政治建构为实证护盾，掩盖 16 倍词频偏差并服务于财政紧缩与拒绝增编 | 批判性教育政策分析、新自由主义紧缩批判 | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]; [[Argument_ONeill_2012_NZJES\|O'Neill (2012)]] |
+> | **财政紧缩护盾** | 班级规模无效论被政治建构为实证护盾，掩盖 16 倍词频偏差并服务于财政紧缩与拒绝增编 | 批判性教育政策分析、新自由主义紧缩批判 | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]; [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; [[Argument_ONeill_2012_NZJES\|O'Neill (2012)]] |
 
 ---
 
@@ -307,6 +314,8 @@ updated: 2026-10-16
 > |---|---|---|---|---|---|---|
 > | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 田纳西州 STAR 项目：小班 13–17 人 vs 大班 22–25 人 | 标准化读写与数学测验 | 79 所学校，超 6,000 名学生追踪 | $d = 0.62\text{–}0.66$ | 极显著提升学业增益 | 严格[[Random Assignment\|随机分配]]实验；效果在低年级与少数族裔中最强 |
 > | 同上 | 伦敦班级规模[[Cohort Study\|追踪研究]] | 读写与算术表现 | 199 所小学 / 330 班 / 7,142 名学生 | 未标准化效应 | Reception 阶段显著，Year 1 后衰减 | 自然主义追踪；揭示班级规模对低成就儿童的阶梯保护 |
+> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; Phillips et al. (2001) | 奥克兰 [[Picking Up the Pace\|PACE 项目]]：班额由 28 人降至 15 人 | 低年级阅读与读写能力评测 | 奥克兰处境不利小学低段群体 | 显著高增益 | 达到常规增益两倍以上 | 班额腰斩使教师得以实施 10–15 分钟的 3 人高频阅读小组辅导 |
+> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; Murnane and Levy (1996) | 德州 15 所小学对比：每年追加 30 万美元用于缩班与配套改革 | 德克萨斯州学业评估（TAAS）达标率 | 德克萨斯州 15 所贫困小学 / 5 年追踪 | 2 所显著跃升，13 所无实质改善 | 极具统计与实践差异 | 单纯缩减班额无效；唯有将缩班与教学模式革新、健康与社区支持深度整合方能成功 |
 > | [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] | 法国弱势学校班额减半改革（24 人降至 12 人） | 标准化法语与数学统考成绩 | 优先教育网（REP+）一、二年级群体 | $d \approx 0.08$（阅读） | 阅读微弱显著，数学未达统计显著 | 全国性政策推广；合格师资与校舍制约稀释政策效能 |
 > | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]]; Molina et al. (2018) | 控制班级规模、教师学科测试与学生家庭背景后的微观教学实践模型 | 学生跨期标准化测试成绩增益 | 巴基斯坦旁遮普省超 1,000 间小学课堂 | $\beta = 0.08\text{–}0.12$ SD | 极显著（$p < .01$） | 计量回归控制班级规模后，教师微观实践仍具稳健预测力 |
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 《[[Visible Learning\|可见的学习]]》全书文本词频核查与 Glass and Smith (1979) 曲线复验 | 词频统计与效应量提取核查 | 核心词频对比与 40 人至 1 人真实实验增益 | 班级规模全书提及 95 次（vs 第一名自我报告成绩仅 6 次）；实验证实 40 人至 1 人跨越逾 30 个百分位点 | $d=0.09$ 纯属片面截取 | 揭示了元分析结论被剪裁为新自由主义财政紧缩实证护盾的制度证据 |
@@ -331,7 +340,7 @@ updated: 2026-10-16
 财政决策修辞与宏观课程失范揭示了班级规模指标的局限性。
 
 > [!evidence-grid-a] 新西兰与西班牙制度反思案例
-> - **新西兰 PACE 项目与财政部简报风波（[[Treasury Briefing on Student-Teacher Ratios]]）** PACE 项目证实小班唯有与教师专业发展深度捆绑方能激活教学变革；然而财政部借[[John Hattie|哈蒂]]之名提议扩大班额以削减教育赤字，引发学界对证据断章取义与政策修辞谬误的激烈声讨。[[Argument_ONeill_2012_NZJES|(O'Neill, 2012, pp. 153–159)]]
+> - **新西兰 [[Picking Up the Pace|PACE 项目]]与政策简报风波（[[Treasury Briefing on Student-Teacher Ratios]]）** 奥克兰南区与芒盖雷的 [[Picking Up the Pace|PACE 项目]]（Phillips et al., 2001）实证表明，将班额从 28 人缩减至 15 人并配合针对性专业发展，使教师能针对每组仅 3 名学生展开 10–15 分钟密集阅读指导，取得了两倍于常规班级的读写增益。然而，新西兰教育部长安妮·托利（Anne Tolley）与财政部简报却借[[John Hattie|哈蒂]]平均值之名，宣称班级规模无足轻重，提议扩大班额以削减教育赤字并转推[[Performance Pay|绩效工资]]，引发学界对证据断章取义与政策修辞谬误的激烈声讨。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 100–104)]]; [[Argument_ONeill_2012_NZJES|(O'Neill, 2012, pp. 153–159)]]
 > - **西班牙公立教育高投入与高失败率的反差** [[José Luis García Garrido|加西亚·加里多]]基于翔实跨国统计揭示，西班牙公立学校的班级规模与生师比全面占优于[[EU|欧盟]]平均线，但在均一不分流课程体系压迫下，学生厌学成风与纪律解体导致学业失败率高达 33%，证明班额投入指标无法挽救深层课程治理危机。[[Argument_Garcia_Garrido_2009_SpainEU|(García Garrido, 2009, pp. 331–332)]]
 
 ### 全球南方与世界银行 Teach 实证
@@ -388,6 +397,8 @@ updated: 2026-10-16
 > | [[Treasury Briefing on Student-Teacher Ratios]] | 事实 | 政策误用 | 新西兰财政部简报片面曲解实证研究，以生师比证据掩饰削减教育预算的官僚修辞。 |
 > | [[Kathryn Anderson-Levitt]] | 人物 | 理论阐发 | 跨国[[Ethnography\|民族志]]学者，揭示几内亚巨型班额与教材匮乏对西方儿童中心教学[[Paradigm\|范式]]的刚性阻隔。 |
 > | [[José Luis García Garrido]] | 人物 | 制度批判 | 揭露西班牙优越的班级规模与生师比指标与 33% 义务教育失败率脱节的制度性平庸。 |
+> | [[Picking Up the Pace]] | 事实 | 本土实证 | 奥克兰南区小学缩班至 15 人配合 3 人微组阅读辅导，提供小班与针对性教学协同的典型范例。 |
+> | [[Performance Pay]] | 概念 | 替代政策 | 政策制定者常以班额无效论为借口，将原本拟用于缩班的公共资金转向屡遭失败的绩效工资。 |
 > | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] | 论证 | 实证来源 | 提供发展中国家大样本计量模型中控制班额后的教学效能证据及超大班额快照测量反思。 |
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 论证 | 批判来源 | 提供 95 次高频词频统计与格拉斯曲线复验，揭示班额无效论作为财政护盾的政治经济学证据。 |
 
