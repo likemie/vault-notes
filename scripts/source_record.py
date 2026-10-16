@@ -14,7 +14,8 @@ Design aligned with vault-schema.md:
 
 Typical article workflow:
   1) Create a minimal source record and move/copy the PDF:
-     python3 scripts/source_record.py article --file raw/paper.pdf --record-name temp_name
+     python3 scripts/source_record.py article --file raw/paper.pdf \
+       --record-name Simpson_2019_ERE --journal "Educational Research and Evaluation"
 
   2) After the Argument page is written, finalize citation and optionally rename:
      python3 scripts/source_record.py finalize \
@@ -706,7 +707,7 @@ def build_parser() -> argparse.ArgumentParser:
 
     p_article = sub.add_parser("article", help="Create an early minimal journal-article source record in sources/.")
     p_article.add_argument("--file", required=True, help="PDF file, usually under raw/.")
-    p_article.add_argument("--journal", help="Full journal name; validate the final record-name code against citation/journals.json before moving the PDF.")
+    p_article.add_argument("--journal", required=True, help="Full journal name; validate the final record-name code against citation/journals.json before moving the PDF.")
     add_common_create_flags(p_article)
     p_article.set_defaults(func=lambda args: create_article_or_report(args, "article"))
 

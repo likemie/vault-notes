@@ -62,6 +62,7 @@ class ValidationFailureTests(unittest.TestCase):
              contextlib.redirect_stdout(io.StringIO()):
             self.assertEqual(0, checks.run_checks("base"))
             self.assertEqual(5, run.call_count)
+            self.assertEqual("base", run.call_args.kwargs["env"]["VAULT_JOURNAL_BASE"])
             self.assertEqual([sys.executable, "-B", "scripts/vault_lint.py", "--path", paths[0], "--path", paths[1]], run.call_args.args[0])
 
 

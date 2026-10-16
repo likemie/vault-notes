@@ -5,6 +5,14 @@
       "path": "wiki/arguments/journal-articles/Zeitschrift für Erziehungswissenschaft/Argument_Wecker_2016_ZfE.md"
     },
     {
+      "basename": "Meta-meta-analysis",
+      "path": "wiki/methods/quantitative/Meta-meta-analysis.md"
+    },
+    {
+      "basename": "Argument_Kratsios_2026_OSTP",
+      "path": "wiki/arguments/reports-policy-documents/Argument_Kratsios_2026_OSTP.md"
+    },
+    {
       "basename": "Critiques of Visible Learning",
       "path": "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "PISA",
       "path": "wiki/facts/global/PISA.md"
-    },
-    {
-      "basename": "Meta-meta-analysis",
-      "path": "wiki/methods/quantitative/Meta-meta-analysis.md"
     },
     {
       "basename": "Randomised Controlled Trials",
@@ -195,10 +199,6 @@
     {
       "basename": "Critique of PISA",
       "path": "wiki/concepts/comparative-education/Critique of PISA.md"
-    },
-    {
-      "basename": "Technical Rationality",
-      "path": "wiki/concepts/educational-philosophy/Technical Rationality.md"
     }
   ],
   "omittedPaths": [],

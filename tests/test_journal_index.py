@@ -68,6 +68,13 @@ class JournalRegistryTests(unittest.TestCase):
                 source_record.create_article_or_report(args, 'article')
             self.assertTrue(source.exists())
 
+    def test_article_cli_requires_journal_but_report_cli_does_not(self):
+        parser = source_record.build_parser()
+        with contextlib.redirect_stderr(io.StringIO()), self.assertRaises(SystemExit):
+            parser.parse_args(['article', '--file', 'paper.pdf', '--record-name', 'Author_2026_CE'])
+        args = parser.parse_args(['report', '--file', 'report.pdf', '--record-name', 'Org_2026_Report'])
+        self.assertEqual('report', args.cmd)
+
     def test_base_index_stops_before_writing_for_bad_journal(self):
         with patch.object(vault_index, 'run_script', return_value=1) as run, \
              patch.object(vault_index, 'run_auto_fixes') as fixes:

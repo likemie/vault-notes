@@ -36,7 +36,7 @@
 9. 新建条目：读取 `wiki/templates/TEMPLATE-SPEC.md`、`wiki/templates/CALLOUTS.md` 和对应 `wiki/templates/template-*.md` → 按模板逻辑组织内容，先主题后时间；同时记录该条目应回链到当前 Argument 的哪个论证段落。
 10. 判断研究方法，除非是思辨类或评论文章，更新或新建至少一个 Method 条目，在 `## 使用此方法的研究` 加入一条方法案例，并链接当前 Argument。
 11. 创建或更新 Argument 页，frontmatter 按 `template-argument.md` 写入必要字段，正文 `## 来源` 使用相对于 vault 根目录的完整路径列出 `[[sources/<论文命名>|<论文命名>]]`；书籍来源使用 `[[books/<书籍目录>/<来源记录>|<来源记录>]]`。若有 figure，在对应论证位置写图片占位，图片路径使用第 4 步确定的最终 `<论文命名>`。本任务新建的每个 Concept / Theory / Method / Instrument / Fact / Person 都必须在 Argument 正文的相关论证段落中至少出现一次 wikilink。
-12. 用最终 `<论文命名>` 创建 source record：期刊论文用 `source_record.py article --record-name <论文命名>`；政策、报告、白皮书用 `source_record.py report --record-name <论文命名>`。
+12. 用最终 `<论文命名>` 创建 source record：期刊论文用 `source_record.py article --record-name <论文命名> --journal "<期刊全名>"`；政策、报告、白皮书用 `source_record.py report --record-name <论文命名>`。
 13. 运行 `source_record.py finalize --argument <Argument路径> --rename`，回填 citation；若第 3 步判断有图片占位，则加 `--with-figures`，生成 `sources/<论文命名>/`、`sources/<论文命名>/<论文命名>.md`、`sources/<论文命名>/<论文命名>.pdf` 和 `sources/<论文命名>/figures/`。
 14. 自动运行基础索引：`.venv/bin/python3 scripts/vault_index.py`。
 15. 询问用户是否继续运行标准脚本流程。
