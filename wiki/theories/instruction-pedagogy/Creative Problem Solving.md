@@ -8,7 +8,7 @@ aliases:
 summary: "由奥斯本与帕内斯创立的经典结构化认知干预模型，通过理解挑战、生成观念与准备行动三大阶段六大循环，交替实施发散与收敛思维以系统解决不良结构问题。"
 type: theory
 theory_field: "instruction-pedagogy"
-theory_related_count: 28
+theory_related_count: 29
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Creative Problem Solving

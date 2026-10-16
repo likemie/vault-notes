@@ -10,7 +10,7 @@ aliases:
 summary: "在教育环境中具备自主交互、自适应支架与即时反馈特征的智能计算系统，涵盖智能导师系统、教育机器人、生成式智能体与对话式智能体四种核心形态并对K-12认知技能与知识建构产生中等促进效应"
 type: concept
 domain: "educational-technology"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -47,6 +47,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"
+  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Experimental Research]]"
 related_arguments:
@@ -235,7 +236,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素：AI 智能体对 K-12 学生认知学习成果的总体促进效应 | $k = 73$ / $N = 3{,}042$（34 项独立研究） | Hedges' $g$ / 随机效应模型 | $g = 0.404$ $[0.242, 0.567]$ | $Q(72) = 813.56, p < .001, I^2 = 91.2\%, \tau^2 = 0.448$ | 仅纳入 2020–2025 年实验与准实验研究；67.65% 样本来自亚洲，未作个别研究偏倚风险工具质评 |
 

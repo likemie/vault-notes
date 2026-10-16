@@ -10,7 +10,7 @@ aliases:
 summary: "指个体在面对复杂问题时自发、持续运用批判性思维的内在动力、态度倾向与心智习性，与认知技能构成双元支柱；不仅包括求真、开放与审慎，还要求抵御平庸合群与脆弱性文化，具备直面认知不适的心理韧性与推翻既有理论的实验求实精神。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -44,6 +44,7 @@ related_theories:
 related_methods:
   - "[[Experimental Research]]"
   - "[[Meta-analysis]]"
+  - "[[Confidence Interval]]"
   - "[[True Experimental Design]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Correlational Research]]"
@@ -206,7 +207,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]实证数据（Abrami et al., 2015 · Table 9 批判性思维倾向总体与亚组检验）
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 调节维度 | 亚组分类 | 效应量数 $k$ | 汇总加权 $g+$ | 95% CI 下限 | 95% CI 上限 | 异质性检验 $Q$ 或 $Q_b$ (df, $p$) | 理论与实践意义 |
+> | 调节维度 | 亚组分类 | 效应量数 $k$ | 汇总加权 $g+$ | 95% [[Confidence Interval\|CI]] 下限 | 95% CI 上限 | 异质性检验 $Q$ 或 $Q_b$ (df, $p$) | 理论与实践意义 |
 > |---|---|---|---|---|---|---|---|
 > | **总体合并** | **全样本[[Critical Thinking\|批判性思维]]倾向测量** | **25** | **0.23** | **0.06** | **0.40** | $Q(24) = 82.32, p < .001$ | 确证教学干预能够显著塑造思维倾向。 |
 > | **研究设计** | [[True Experimental Design\|真实验设计]]（True Experiments） | 10 | 0.21 | 0.05 | 0.37 | $Q_b(1) = 0.15, p = .700$ | 真实验与准实验结论高度一致。 |

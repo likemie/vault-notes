@@ -7,7 +7,7 @@ aliases:
 summary: "更有经验者通过示范、辅导、支架与支持促进新手专业、认知与职业发展的过程，在科学精英传承、高阶思维教学干预以及产学协同工程人才培育与技术情境化中发挥核心催化作用。"
 type: concept
 domain: "higher-education"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -42,6 +42,7 @@ related_theories:
   - "[[Human Capital Theory]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Confidence Interval]]"
   - "[[Network Analysis]]"
   - "[[Correlational Research]]"
   - "[[Experimental Research]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-07
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Mentorship
@@ -185,7 +186,7 @@ updated: 2026-10-15
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]互补维度亚组（教学认知干预）
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
+> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% [[Confidence Interval\|CI]] | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素 | 导师制独立维度：实验组强度 > 对照组 vs 两组无差异 | 实验组更高 $k = 28$；无差异 $k = 238$ | 实验组更高 $g+ = 0.39$ $[0.23, 0.55]$；无差异 $g+ = 0.26$ $[0.20, 0.31]$ | $Q_b(1) = 2.58, p = .108$ | 独立作为干预维度时未达组间统计显著 |
 > | 同上（Abrami et al.） | 干预因素 | 策略组合梯度：单独导师制（M）vs [[Dialogue in Education\|对话]]+导师制（D+M）vs 真实性+导师制（A+M）vs 真实性+对话+导师制（A+D+M） | M 单独 $k = 5$；D+M $k = 18$；A+M $k = 7$；A+D+M $k = 19$ | M $g+ = 0.13$；D+M $g+ = 0.38$；A+M $g+ = 0.37$；A+D+M $g+ = 0.57$ $[0.38, 0.77]$ | A+D+M 显著优于 A+D（$z = 1.98, p = .024$） | 证实导师制在复合情境中的催化协同功能 |

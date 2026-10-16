@@ -7,7 +7,7 @@ aliases:
 summary: "学习者在知识建构、标准评估与探究决策中作为认知主体深度参与的能动权能，强调超越机械遵循预设程序，共同协商并塑造共同体的认识论准则，是指导式探究区别于直接讲授的核心标志"
 type: concept
 domain: "educational-psychology"
-related_count: 72
+related_count: 73
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -72,6 +72,7 @@ related_methods:
   - "[[Design-Based Research]]"
   - "[[Meta-analysis]]"
   - "[[Experimental Research]]"
+  - "[[Confidence Interval]]"
   - "[[Effect Size]]"
   - "[[Interactional Ethnography]]"
   - "[[Discourse Analysis]]"
@@ -310,7 +311,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]教学模式调节结果
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 认识能动权行使条件（教学模式） | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | 组间检验 | 关键解释边界 |
+> | 一阶元分析 | 认识能动权行使条件（教学模式） | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | 组间检验 | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | [[Inquiry-Based Learning\|指导式探究]]（有支架行使能动权） vs. 开放论证与无指导 PBL（放任自流） | 28 篇（59 个[[Effect Size\|效应量]]） / 4,373 | Cohen's $d$，随机效应模型 | 指导式探究 $d = 0.808$ $[0.313, 1.302]$；问题驱动学习 $d = 0.340$；开放论证教学 $d = 0.134$（不显著） | $Q_b(5) = 17.491, p < .01$ | 证实缺乏证据规程支架的所谓“自主能动”往往沦为表层盲动；结构化指导是保障认识能动性有效转化的先决条件 |
 

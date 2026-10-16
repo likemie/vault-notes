@@ -10,7 +10,7 @@ aliases:
 summary: "利用人工智能算法对学习者认知状态、知识掌握与解题步骤（以及科学探究过程）进行细致建模并提供自适应个性化教学指导的计算机系统，涵盖良构问题解题分步支架与探究式智能导师系统（Inq-ITS），由领域模型、学生模型、教学模型与交互界面四大经典构件组成。"
 type: concept
 domain: "educational-technology"
-related_count: 57
+related_count: 58
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -67,6 +67,7 @@ related_methods:
   - "[[Chain-of-Thought Prompting]]"
   - "[[Effect Size]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Confidence Interval]]"
   - "[[Correlational Research]]"
   - "[[Critical Review]]"
 related_persons:
@@ -309,7 +310,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
+> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% [[Confidence Interval\|CI]] | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（[[AI Agent in Education\|智能体]]技术类型） | 智能导师系统（ITS） | $k = 10$ / — | $g = 0.540$ $[0.241, 0.839]$ | 智能体类型间检验 $Q_B = 0.069, p = .793$ | 聚焦基础教育理科解题与规则引导场景，在四大技术形态中汇总点估计最高 |
 > | Hillmayr et al. (2020)，引自 [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]] | 干预因素（数字化工具功能类型） | 辅导与智能辅导系统（Tutorials & ITS） | $k = 92$（总体） / — | 学业成就 $g = 0.65$；学科态度 $g = 0.45$ | 工具类型比较及教师培训调节检验显著（$p < .001$） | 中学数学与自然科学实验及准实验证据；ITS 显著优于超媒体（$g = 0.44$）与操练程序 |

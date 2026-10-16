@@ -8,7 +8,7 @@ aliases:
 summary: "Robert Ennis (1989) 提出的批判性思维课程设计四分法理论，依据思维原则的显性程度与学科知识的结合架构划分为独立通用、学科融入、学科沉浸与显性混合四种模式"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 19
+theory_related_count: 20
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -35,6 +35,7 @@ related_theories:
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Confidence Interval]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -138,7 +139,7 @@ updated: 2026-10-16
 ## 实证数据汇总
 
 > [!ma-table]- [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] Ennis 课程模式[[Meta-analysis\|元分析]]检验矩阵
-> | 课程模式 | 核心设计特征 | 纳入效应量 $k$ | 加权效应 $g+$ | 95% CI 下限 | 95% CI 上限 | 组间检验 $Q_b$ (df, $p$) | 理论解释与教学启示 |
+> | 课程模式 | 核心设计特征 | 纳入效应量 $k$ | 加权效应 $g+$ | 95% [[Confidence Interval\|CI]] 下限 | 95% CI 上限 | 组间检验 $Q_b$ (df, $p$) | 理论解释与教学启示 |
 > |---|---|---|---|---|---|---|---|
 > | **显性混合模式（Mixed）** | 独立显性教学 + 学科内深度融入 | 84 | **0.38** | 0.26 | 0.51 | $Q_b(3) = 4.10, p = .25$ | **综合效果最佳**；通用[[Metacognition\|元认知]]脚手架与学科情境演练产生协同放大效应。 |
 > | **[[Infusion Approach\|学科融入模式]]（Infusion）** | 学科教学中显性讲授思维原则 | 152 | **0.29** | 0.23 | 0.36 | | 兼顾学科知识学习与思维训练，成效稳健且易于在常规课堂落地。 |

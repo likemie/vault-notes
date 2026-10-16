@@ -9,7 +9,7 @@ aliases:
 summary: "一种以正反立场分配、举证责任、限时质询与反驳规则为特征的结构化对话教学策略，通过认知冲突与换位思考促进批判性思维与论证技能"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,6 +29,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Confidence Interval]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
@@ -38,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Classroom Debate
@@ -113,7 +114,7 @@ updated: 2026-10-15
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与检验 | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与检验 | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素：课堂辩论对[[Critical Thinking\|批判性思维]]技能的促进效应 | $k = 8$ / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.32$ $[0.03, 0.61]$ | $Q(7) = 21.41, p = .003, I^2 = 67.31\%$ | 纳入实验与准实验；作为[[Dialogue in Education\|对话]]维度细分子策略检验 |
 

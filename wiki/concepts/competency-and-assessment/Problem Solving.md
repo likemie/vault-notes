@@ -10,7 +10,7 @@ aliases:
 summary: "指个体在面对阻碍且无直接算法可用时，通过表征初始状态、搜索算子空间、在多重约束下权衡取舍、应用启发式策略与现场排障调试，以克服障碍并达成目标状态的高级认知与实践过程。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -54,6 +54,7 @@ related_theories:
   - "[[Cognitive Load Theory]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Confidence Interval]]"
   - "[[Correlational Research]]"
 related_instruments:
   - "[[Collegiate Learning Assessment]]"
@@ -224,7 +225,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
+> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% [[Confidence Interval\|CI]] | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | [[Dependent Variable\|结果变量]]（[[Higher-Order Thinking Skills\|高阶思维]]首要产出维度） | [[Generative Artificial Intelligence\|生成式人工智能]]教学干预（问题解决亚组） | 16 / — | $g = 0.745$ [0.521, 0.970] | $Q_b = 4.961, df = 2, p = 0.084$（高阶思维三维度间异质性检验） | 效应量达中到大水平且高度显著（$Z = 6.507, p < 0.001$）；在问题解决（$0.745$）、批判性思维（$0.691$）与创造力（$0.444$）三大维度中位列第一，证实生成式 AI 与程序性逻辑推演具有极高契合度；但初级研究多以编程排错与情境任务评分为主。 |
 

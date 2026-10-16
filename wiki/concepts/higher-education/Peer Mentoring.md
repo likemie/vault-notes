@@ -8,7 +8,7 @@ aliases:
 summary: "由高年级或更有经验的同辈向新手学习者提供学术支持、认知脚手架与社会情感共情的对等指导模式，在高等教育与主动学习中广泛应用"
 type: concept
 domain: "higher-education"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,6 +30,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Confidence Interval]]"
   - "[[Correlational Research]]"
   - "[[Experimental Research]]"
 related_instruments: []
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Peer Mentoring
@@ -106,7 +107,7 @@ updated: 2026-10-15
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% [[Confidence Interval\|CI]] | 正式组间检验 | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素：[[Mentorship\|导师制]]在复合策略中的干预 | 导师指导（含同伴导师与教师导师）作为干预维度 | $k = 28$ | $g+ = 0.39$ $[0.23, 0.55]$ | 复合策略 A+D+M 达到 $g+ = 0.57$（$z = 1.98, p = .024$） | 证实导师作为认知催化剂的核心功能 |
 

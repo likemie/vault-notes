@@ -7,7 +7,7 @@ aliases:
 summary: "人类认知由独立的非言语视觉表象与言语符号双通道构成，图文协同表征能显著降低工作记忆负荷并强化长时记忆整合的认知学习理论"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 16
+theory_related_count: 17
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -31,6 +31,7 @@ related_theories:
   - "[[Creative Problem Solving]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Confidence Interval]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -111,7 +112,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]理论验证数据
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 检验假设 | 汇总效应与 95% CI | 理论验证结论 |
+> | 一阶元分析 | 检验假设 | 汇总效应与 95% [[Confidence Interval\|CI]] | 理论验证结论 |
 > |---|---|---|---|
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | 图形组织器对高阶思维的总体促进效应（$k = 72, N = 4{,}824$） | $g = 0.778$, $[0.642, 0.915]$ | 实证支持双重编码与空间隐喻理论的负荷卸载假设 |
 > | ^ | [[Divergent Thinking\|发散思维]] vs [[Convergent Thinking\|聚合思维]]干预敏感度比较 | $g = 1.167$ vs $0.680$ ($Q_b = 7.07, p < .01$) | 实证支持空间分支双重编码对生成性发散联想的更强赋能 |

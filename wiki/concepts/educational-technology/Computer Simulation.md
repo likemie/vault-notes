@@ -9,7 +9,7 @@ aliases:
 summary: "对真实世界复杂系统的计算机建模与交互式表征，既作为教育研究中基于复杂性理论检验假设与探索涌现规律的建模方法，又作为科学教育中为学习者提供可操纵变量与实时反馈的数字化探究微世界"
 type: concept
 domain: "educational-technology"
-related_count: 44
+related_count: 45
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -59,6 +59,7 @@ related_methods:
   - "[[Agent-based Modelling]]"
   - "[[Systematic Review]]"
   - "[[Effect Size]]"
+  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Correlational Research]]"
 related_instruments: []
@@ -249,7 +250,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | d'Angelo et al. (2014)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 5]]） | 干预因素：基于计算机模拟的探究教学对比非模拟传统教学 | $k = 59$ / 128 个效应量 | 标准化平均差（SMD） | 模拟探究组显著优于非模拟组（$p < .05$） | 涵盖内容知识、推理技能与态度 | 证实模拟探究在科学知识习得与探究技能发展上具有全面跨领域的显著优势 |
 > | Smetana and Bell (2012)（引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 4–5]]） | 干预因素：配备支持结构的计算机模拟探究教学有效性[[Systematic Review\|系统综述]] | $k = 61$ 篇实证研究 | 优势率统计（Vote-counting） | 80% 研究证实模拟探究显著优于传统讲授 | 涵盖物理、化学、生物与地球科学 | 强调模拟必须配备引导问题或[[Scaffolding\|认知支架]]，缺乏支架的开放模拟成效大幅下滑 |

@@ -57,6 +57,7 @@ related_methods:
   - "[[Average Variance Extracted]]"
   - "[[Composite Reliability]]"
   - "[[Model Fit Indices in SEM and CFA]]"
+  - "[[Confidence Interval]]"
   - "[[Cronbach's Alpha]]"
   - "[[McDonald's Omega]]"
   - "[[Split-Half Reliability]]"
@@ -85,7 +86,7 @@ title: "Argument_Kazanci_Tinmaz_Sezgin_2023_SO"
 argument_key: "Argument_Kazanci_Tinmaz_Sezgin_2023_SO"
 argument_display_title: "Development of the Research Literacy Scale for Teachers"
 argument_kind: "journal-article"
-argument_related_count: 51
+argument_related_count: 52
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -257,7 +258,7 @@ journal: "SAGE Open"
 
 > [!ref-table]- 表3：[[Confirmatory Factor Analysis\|验证性因子分析]][[Model Fit Indices in SEM and CFA\|模型拟合指数]]体系对比（N=258）
 >
-> | 模型设定 | $\chi^2(df)$ | $\chi^2/df$ | RMSEA [90% CI] | SRMR | NNFI/TLI | CFI | 模型判定与理论结论 |
+> | 模型设定 | $\chi^2(df)$ | $\chi^2/df$ | RMSEA [90% [[Confidence Interval\|CI]]] | SRMR | NNFI/TLI | CFI | 模型判定与理论结论 |
 > |---|---|---|---|---|---|---|---|
 > | **单因子模型** | 1060.05 (209) | 5.07 | 0.126 [.118, .134] | 0.081 | 0.72 | 0.75 | 拟合恶劣，彻底拒绝单维[[Null Hypothesis\|无差异假设]] |
 > | **一阶四因子（初始）** | 421.67 (164) | 2.57 | 0.078 [.069, .088] | 0.069 | 0.90 | 0.91 | 拟合基本达标 |

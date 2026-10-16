@@ -7,7 +7,7 @@ aliases:
 summary: "学习者主动设定目标、选择策略、监控与评价自身学习过程的学习方式；问题本位学习以识别知识缺口并自导填补为核心机制。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Confidence Interval]]"
   - "[[Effect Size]]"
   - "[[Correlational Research]]"
 related_instruments: []
@@ -35,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Self-Directed Learning
@@ -78,7 +79,7 @@ updated: 2026-10-15
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | k / N | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]] | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | Smith (2003) 博士论文（1977–2002，见 [[Argument_Erdem_2026_SHE\|Erdem et al. (2026, Table 1)]]） | [[Dependent Variable\|结果变量]]：[[Problem-Based Learning\|PBL]] 对自我导向学习的促进效应（高等教育） | k = 19 / N 未报告 | 标准化均差（SMD）；模型未报告 | d = 0.47 [0.39, 0.55] | 未报告 | 单一[[Effect Size\|效应量]]；论文未将 SDL 单列为调节亚组，此数据来自纳入 FOM 的原始结果 |
 

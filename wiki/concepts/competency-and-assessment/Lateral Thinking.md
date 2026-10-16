@@ -8,7 +8,7 @@ aliases:
 summary: "由爱德华·德·博诺开创的非线性思维范式与创造性构想生成体系，直接对标并互补于传统“垂直思维（逻辑推导）”。主张打破大脑自组织神经模式的固有凹槽，通过激发（PO）、随机输入与概念挑战等启发式技术，强迫认知系统横向跳跃至非常规切入点以实现观念重构与顿悟突破。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -36,6 +36,7 @@ related_theories:
 related_methods:
   - "[[Three-Level Meta-Analysis]]"
   - "[[Meta-analysis]]"
+  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Meta-meta-analysis]]"
   - "[[Effect Size]]"
@@ -201,7 +202,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | **【干预[[Variable\|变量]]】** 包含侧向思维谜题与发散练习在内的思维训练对大学生[[Creativity\|创造力]]表现的总体促学效应 | $N = 31$ 个效应量 / $k = 29$ 原生研究 | Hedges' $g$ / 多层随机效应模型 | **$g = 0.762$** $[0.386, 1.138]$ | $SE = 0.191, Z = 3.987 (p < .001)$；组间异质性显著 | 证实聚焦侧向思维与认知灵活性的结构化练习能强效促进综合创造表现 |
 > | Ding et al. (2014) | **【干预变量】** [[Edward de Bono\|德·博诺]] CoRT 思维工具与侧向思维训练课程对学生认知技能发展的元分析综合 | $k = 18$ 项实证干预 / $N \approx 1,850$ | Cohen's $d$ / 随机效应模型 | **$d = 0.58$** $[0.41, 0.75]$ | 异质性中等 | 证实系统讲授德·博诺水平思考策略对批判性与发散性[[Problem Solving\|问题解决]]具有中等偏强促进 |

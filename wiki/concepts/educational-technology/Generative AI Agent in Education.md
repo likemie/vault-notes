@@ -10,7 +10,7 @@ aliases:
 summary: "基于大语言模型与多模态生成架构的自主教学交互系统，具备开放式情境推理、实时支架生成与多轮生成式对话能力，其促学成效高度取决于显性教学脚手架与反思约束。"
 type: concept
 domain: "educational-technology"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -46,6 +46,7 @@ related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Confidence Interval]]"
   - "[[Correlational Research]]"
 related_persons:
   - "[[Socrates]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 
 # Generative AI Agent in Education
@@ -151,7 +152,7 @@ updated: 2026-09-17
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
+> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% [[Confidence Interval\|CI]] | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（智能体技术类型） | 生成式智能体（GenAI Agent） | $k = 17$ / — | $g = 0.421$ $[0.198, 0.645]$ | 智能体类型间检验 $Q_B = 0.069, p = .793$ | 依赖外部[[Scaffolding\|脚手架]]约束与提示词设计；未作支架约束时易导致效应高度分化 |
 

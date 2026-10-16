@@ -9,7 +9,7 @@ aliases:
 summary: "由威廉·戈登创立的系统性创造力隐喻与类比训练理论与方法体系，以“使陌生变得熟悉，使熟悉变得陌生”为核心认知原则。通过直接类比、拟人类比、象征类比与幻想类比四大结构化操作支架，引导学习者在不同知识域与情感体验之间构建深层隐喻桥梁，系统克服功能固着并实现创造性飞跃。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -50,6 +50,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Intervention Research]]"
   - "[[Effect Size]]"
+  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Correlational Research]]"
 related_instruments:
@@ -220,7 +221,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]与经典综合结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 / 经典综合 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | 一阶元分析 / 经典综合 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | Torrance (1972) | **【干预[[Variable\|变量]]】** 提喻法（Synectics）系统教学干预在全域[[Creativity Training\|创造力干预]]综合评估中的成功率 | $k = 142$ 项干预研究综合评估 | 实验成功率百分比（Success Rate） | **成功率 76%**（高度显著有效） | 在各大经典干预中名列前茅（仅次于 [[Creative Problem Solving\|CPS]] 的 90%） | 确立向学习者讲授隐喻类比四大算子能带来极为稳健可靠的[[Creativity\|创造力]]产出提升 |
 > | Mansfield, Busse and Krepelka (1978) | **【干预变量】** 创造力训练分类定性综合中提喻法对[[Higher-Order Thinking Skills\|高阶思维]]与发散技能的促学评估 | 涵盖全美主流代表性创造力课程评估 | 定性与定量混合综合评估 | 确立为六大高成效核心干预流派之一 | 跨学段普遍展现高独创性增益 | 证实具身拟人类比能有效攻克常规教学中难以逾越的功能固着难题 |

@@ -11,7 +11,7 @@ aliases:
 summary: "基于逻辑规则与领域证据，对多重线索与信息进行批判性审视、筛选、演绎推导并收敛至唯一最优解的确定性认知加工过程。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -52,6 +52,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Random-Effects Model]]"
   - "[[Meta-analysis]]"
+  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Systematic Review]]"
   - "[[Correlational Research]]"
@@ -223,7 +224,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | **[[Dependent Variable\|结果变量]]** 检验[[Graphic Organizer\|图形组织器]]教学干预对聚合思维（Convergent Thinking）的促进效应 | $k = 55$ / — | Hedges' $g$；随机效应模型 | $g = 0.680$, $95\%\text{ CI} = [0.535, 0.825]$ | $I^2 = 83.6\%$；$Q_b = 7.07, p < .01$（对比发散思维） | 涵盖 55 项独立效应量，多采用演绎推理、逻辑论据识别与标准选择题测度 |
 

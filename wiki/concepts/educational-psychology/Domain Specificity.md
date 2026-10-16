@@ -9,7 +9,7 @@ aliases:
 summary: "指出个体的认知能力、思维技能与认识论信念并非跨情境通用的，而是深度内嵌于特定学科知识结构与社会情境中；现代研究主张通过通用规则与学科融入相结合的混合双层模型实现认知迁移"
 type: concept
 domain: "educational-psychology"
-related_count: 52
+related_count: 53
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -57,6 +57,7 @@ related_methods:
   - "[[Discourse Analysis]]"
   - "[[Intervention Research]]"
   - "[[Questionnaire]]"
+  - "[[Confidence Interval]]"
   - "[[Effect Size]]"
   - "[[Correlational Research]]"
   - "[[Experimental Research]]"
@@ -237,7 +238,7 @@ updated: 2026-10-16
 > [!ma-table]- [[Meta-analysis\|元分析]]实证数据（Abrami et al., 2015 · 学科领域与课程模式）
 > <span class="concept-ma-table-marker" aria-hidden="true"></span>
 >
-> | 调节维度 | 分类亚组 | 效应量数 $k$ | 加权效应 $g+$ | 95% CI 下限 | 95% CI 上限 | 组间异质性 $Q_b$ (df, $p$) | 理论与实践意义 |
+> | 调节维度 | 分类亚组 | 效应量数 $k$ | 加权效应 $g+$ | 95% [[Confidence Interval\|CI]] 下限 | 95% CI 上限 | 组间异质性 $Q_b$ (df, $p$) | 理论与实践意义 |
 > |---|---|---|---|---|---|---|---|
 > | **学科领域**<br>(Discipline) | [[STEM Education\|STEM]] 理工学科 | 48 | 0.31 | 0.20 | 0.42 | $Q_b(2) = 1.05, p = .59$ | [[Critical Thinking\|批判性思维]]在各学科均产生显著获益，跨学科组间无显著差异，证明通用思维的可训练性。 |
 > | | 非 STEM 文社科与人文学科 | 62 | 0.29 | 0.17 | 0.40 | | |

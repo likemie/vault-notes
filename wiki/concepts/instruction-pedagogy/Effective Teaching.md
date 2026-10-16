@@ -5,7 +5,7 @@ aliases:
 summary: "综合性教学质量概念，关注教师如何通过明确领导、清晰目标、反馈、学习导向气氛和适配学生前提来促进学习；亦在批判视角下聚焦技术清单与管理监视同关系型学习共同体建构之间的深刻张力。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 71
+related_count: 72
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -64,6 +64,7 @@ related_methods:
   - "[[Classroom Observation]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Observation Protocol]]"
+  - "[[Confidence Interval]]"
   - "[[Effect Size]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Correlational Research]]"
@@ -279,7 +280,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]教学模式与干预特征调节结果
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 教学质量维度与干预特征 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | 组间检验 | 关键解释边界 |
+> | 一阶元分析 | 教学质量维度与干预特征 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | 组间检验 | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | **教学组织形式** [[Inquiry-Based Learning\|指导式探究]]与[[Source Evaluation\|信源评估]]（显性激活） vs. 开放论证与 PBL（自主探索） | 28 篇（59 个[[Effect Size\|效应量]]） / 4,373 | Cohen's $d$，随机效应模型 | 指导式探究 $d = 0.808$；信源评估 $d = 0.800$；认知支架 $d = 0.663$；PBL $d = 0.340$；论证 $d = 0.134$ | $Q_b(5) = 17.491, p < .01$ | 教师提供显性证据评估支架是有效教学的核心分水岭，放任式自主探究成效微弱 |
 > | 同上 | **实施时间浓度** 1 至 4 周高强度聚焦教学 vs. 全学期长期泛化实施 | 59 个效应量 / 4,373 | Cohen's $d$，随机效应模型 | 中期（2–4 周） $d = 0.925$；短期（1 周内） $d = 0.615$；长期（全学期） $d = 0.234$（不显著） | $Q_b(3) = 8.863, p < .05$ | 短周期集中教学保证了教学浓度与评价对齐，证实有效教学需防范长周期实施稀释 |

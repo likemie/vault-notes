@@ -9,7 +9,7 @@ aliases:
 summary: "由教育干预方案的开发者或研究者自行编制且未经独立标准化的结局测验工具；因其题目往往过度对齐干预课程内容而导致学业效应量被人为虚夸 50% 至 100%，在现代循证审查标准（如 WWC 与 Evidence for ESSA）中被强制排除作为确证性因果证据。"
 type: concept
 domain: "research-methodology"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -48,6 +48,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Experimental Research]]"
   - "[[Meta-analysis]]"
+  - "[[Confidence Interval]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Correlational Research]]"
 related_instruments: []
@@ -168,7 +169,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]测验工具类型[[Interaction Effect\|调节效应]]
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
+> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% [[Confidence Interval\|CI]] | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 调节[[Variable\|变量]]（[[Academic Achievement\|学业成就]]测量工具类型） | 研究者自编测验 vs 任课教师自编常规期末测验 | 自编测验 $k=20, N=2,429$；教师常规测验 $k=5, N=789$ | 自编测验 $d = 0.651$ $[0.456, 0.846]$；教师常规测验 $d = 0.012$ $[-0.449, 0.473]$ | $Q_b = 6.446, df = 1, p < .05$ | 证实自编测验对深层思维变化敏感，而教师常规考卷无法体现高阶认识论收益；同时单次至中期干预 100% 采用自编测验，存在与时长的混淆（pp. 487–488） |
 

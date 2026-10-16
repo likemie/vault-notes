@@ -7,10 +7,10 @@ aliases:
 summary: "通过分析真实患者情景获得的实践技能，涵盖临床决策、临床能力与操作技能；在健康职业教育中由问题本位学习等教学模式重点培养。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - theme/clinical-skills
   - theme/health-professions-education
@@ -25,6 +25,7 @@ related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Confidence Interval]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
@@ -34,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-24
-updated: 2026-09-22
+updated: 2026-10-16
 ---
 
 # Clinical Skills
@@ -77,7 +78,7 @@ updated: 2026-09-22
 > [!ma-table]- 二阶[[Meta-analysis\|元分析]]互补维度亚组
 > <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>
 >
-> | [[Meta-meta-analysis\|二阶元分析]] | 当前概念角色 | 对应亚组 | 证据数 E | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
+> | [[Meta-meta-analysis\|二阶元分析]] | 当前概念角色 | 对应亚组 | 证据数 E | 亚组汇总效应与 95% [[Confidence Interval\|CI]] | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] | [[Dependent Variable\|结果变量]] | [[Problem-Based Learning\|PBL]] 对临床技能的促进效应 | E = 8 | d = 1.06 [0.75, 1.37] | Q_b(6) = 14.65, p = .02 | 结果[[Variable\|变量]]亚组中效应最高；高等教育健康职业教育情境 |
 

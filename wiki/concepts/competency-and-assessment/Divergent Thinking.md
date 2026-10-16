@@ -262,7 +262,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | 证据规模 $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与检验统计量 | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | 证据规模 $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与检验统计量 | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | **[[Dependent Variable\|结果变量]]** 生成式 AI 对学生创造力与发散思维（Creativity & Divergent Thinking）的干预效应 | $k = 23$ / — | Hedges' $g$；随机效应模型 | $g = 0.444$, $95\%\text{ CI} = [0.259, 0.629]$ | $Z = 4.698, p < .001$；全集 $Q(58) = 255.208, I^2 = 77.273\%$ | 涵盖 TTCT、多模态草图生成与开放方案构思测验；效应在三大高阶思维中位列末位，揭示算法给出的常见套路对打破常规新颖性的制约 |
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | **[[Dependent Variable\|结果变量]]** 检验[[Graphic Organizer\|图形组织器]]教学干预对发散思维（Divergent Thinking）的促进效应 | $k = 14$ / — | Hedges' $g$；随机效应模型 | $g = 1.167$, $95\%\text{ CI} = [0.841, 1.493]$ | $I^2 = 82.2\%$；$Q_b = 7.07, p < .01$（对比聚合思维） | 涵盖 14 项独立效应量，以思维导图为代表的空间分支工具促进效应最为突出 |

@@ -8,7 +8,7 @@ aliases:
 summary: "指学习者在生成式人工智能支持环境中，因过度依赖算法的即时答案生成与认知外包，自发削减内部认知加工与反思监控努力，导致元认知觉知与自我调节能力停滞或钝化的现象"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -47,6 +47,7 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Baseline Standardized Mean Difference]]"
   - "[[Meta-analysis]]"
+  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Correlational Research]]"
 related_instruments: []
@@ -194,7 +195,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | [[Dependent Variable\|结果变量]]（[[Metacognition\|元认知]]能力产出，检验技术是否引发元认知停滞） | $k = 10$ / $N = 918$ | Hedges' $g^+$；随机效应模型 | $g^+ = 0.078$ [-0.490, 0.647] | $Q = 142.116, p < 0.001$ | 仅纳入严格满足基线等效性（$d < 0.25$）的实验与准实验研究；效应量未达统计显著（$p = 0.789$），证实 GenAI 开放使用无法自发提升元认知 |
 

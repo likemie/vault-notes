@@ -7,7 +7,7 @@ aliases:
 summary: "在常规学科教学中深入探究学科内容的同时，将通用的批判性思维原则与评价标准显性示范与教授给学生的课程实施模式"
 type: concept
 domain: "curriculum"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,6 +30,7 @@ related_theories:
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Confidence Interval]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Infusion Approach
@@ -95,7 +96,7 @@ updated: 2026-10-15
 ## 实证表现
 
 > [!effect-table]- [[Meta-analysis\|元分析]]实证数据（[[Argument_Abrami_2015_RER\|Abrami et al., 2015]]）
-> | 测量指标 | 纳入效应量 $k$ | 加权效应 $g+$ | 95% CI 下限 | 95% CI 上限 | 实践启示 |
+> | 测量指标 | 纳入效应量 $k$ | 加权效应 $g+$ | 95% [[Confidence Interval\|CI]] 下限 | 95% CI 上限 | 实践启示 |
 > |---|---|---|---|---|---|
 > | **通用[[Critical Thinking\|批判性思维]]技能** | 152 | **0.29** | 0.23 | 0.36 | 显著优于隐性沉浸模式（$g+ = 0.23$），在常规课时不增加的前提下稳步提升通用思维。 |
 > | **[[Domain Specificity\|学科特异性]]思维技能** | 55 | **0.56** | — | — | 针对学科内复杂问题的分析能力获得强劲提升。 |

@@ -9,7 +9,7 @@ aliases:
 summary: "具备物理具身或外显虚拟实体的人工智能交互系统，通过语音、表情、手势与多模态感知，在语言伴读、程序演练与跨学科探究中提供示范、协作与情感激励。"
 type: concept
 domain: "educational-technology"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -40,6 +40,7 @@ related_methods:
   - "[[Time Series Design]]"
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Confidence Interval]]"
   - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
@@ -121,7 +122,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
+> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% [[Confidence Interval\|CI]] | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（[[AI Agent in Education\|智能体]]技术类型） | 人工智能教育机器人（Robotics） | $k = 16$ / — | $g = 0.474$ $[0.150, 0.799]$ | $p < .001$ | 具身多模态互动，对学前至小学阶段语言听说伴读与[[Gamification\|游戏化学习]]增益尤为显著 |
 

@@ -10,7 +10,7 @@ aliases:
 summary: "衡量学生在特定教学干预或高等教育求学期间，在专业知识储备、概念理解、高阶思维技能及综合素养等方面所实现的净增长幅度与纵向发展距离。"
 type: concept
 domain: "higher-education"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -54,6 +54,7 @@ related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Meta-analysis]]"
   - "[[Hierarchical Linear Model]]"
+  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Effect Size]]"
   - "[[Correlational Research]]"
@@ -218,7 +219,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | Lazonder and Harmsen (2016) (引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 4]]) | [[Dependent Variable\|结果变量]]：指导[[Scaffolding\|脚手架]]对比无指导探究产生的学习增益 | $k = 72$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $d = 0.50$ [0.37, 0.63] | 指导类型调节效应不显著（$p > .05$） | 涵盖六类指导支架（过程约束、提示、线索、脚手架、直接解释等），证实支架稳定带来半个标准差学习增益 |
 

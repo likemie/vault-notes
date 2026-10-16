@@ -10,7 +10,7 @@ aliases:
 summary: "有机结合面对面实体课堂教学与数字化在线学习环境的教学模式，通过整合物理临场交互、异步自主探究与自适应智能支架，重构学习时空并促进深层理解与高阶思维发展。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -49,6 +49,7 @@ related_arguments:
 related_methods:
   - "[[Statistical Significance]]"
   - "[[Meta-analysis]]"
+  - "[[Confidence Interval]]"
   - "[[Correlational Research]]"
 confidence: high
 status: active
@@ -221,7 +222,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
+> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% [[Confidence Interval\|CI]] | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 教学组织模式（干预环境） | [[Generative Artificial Intelligence\|生成式人工智能]]干预下的学生[[Higher-Order Thinking Skills\|高阶思维]]培养（混合式学习亚组） | 22 / — | $g = 0.525$ [0.406, 0.644] | $Q_b = 2.918, df = 2, p = 0.232$（全模型组间检验） | 亚组效应达中等水平且组内检验高度显著（$Z = 8.636, p < 0.001$）；三分类教学模式全模型组间差异虽未达统计显著，但混合式学习效果显著优于传统讲授式教学（$g = 0.396, p > 0.05$ 未达显著），展现出稳健的教学组织优势。 |
 

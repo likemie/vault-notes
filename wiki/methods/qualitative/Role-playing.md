@@ -15,7 +15,7 @@ summary: "一种让参与者在具身虚构情境或人机协同中扮演特定�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 41
+method_related_count: 42
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -58,6 +58,7 @@ related_methods:
   - "[[Triangulation]]"
   - "[[Coding in Qualitative Research]]"
   - "[[Meta-analysis]]"
+  - "[[Confidence Interval]]"
   - "[[Effect Size]]"
   - "[[Correlational Research]]"
 related_instruments: []
@@ -148,7 +149,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis|元分析]]实证结果（教学干预）
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与检验 | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与检验 | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素：角色扮演对[[Critical Thinking\|批判性思维]]技能的促进效应 | $k = 5$ / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.61$ $[0.24, 0.98]$ | $Q(4) = 10.76, p = .030, I^2 = 62.83\%$ | 真实性教学 4 大子策略中效应量最高（$g+=0.61$ vs 应用解题 $0.35$ vs 模拟 $0.26$ vs 两难 $0.11$） |
 

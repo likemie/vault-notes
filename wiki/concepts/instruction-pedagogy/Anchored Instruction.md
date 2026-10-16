@@ -7,7 +7,7 @@ aliases:
 summary: "由范德堡大学 CTGV 开发的经典情境教学范式，通过富含嵌入式数据的情节性宏观情境故事作为认知锚点，引导学生自主识别子问题并进行多步因果探究"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,6 +30,7 @@ related_theories:
   - "[[Situative Perspective]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Confidence Interval]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
@@ -39,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Anchored Instruction
@@ -97,7 +98,7 @@ updated: 2026-10-15
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% [[Confidence Interval\|CI]] | 正式组间检验 | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 范例所属大类：[[Authentic Instruction\|真实性教学]]对[[Critical Thinking\|批判性思维]]的干预效应 | 真实性教学整体干预维度 | $k = 96$ | $g+ = 0.34$ $[0.24, 0.44]$ | $Q_b(1) = 4.07, p = .044$ | 纳入真实验与准实验；证实情境锚定与应用解题对[[Higher-Order Thinking Skills\|高阶思维]]的显著赋能 |
 

@@ -14,7 +14,7 @@ aliases:
 summary: "个体对自己认知过程的意识、评估与主动调节，包括元认知知识与元认知调节两个核心成分。它不仅构成批判性思维与人机协同认识论警觉的防御中介，更是驱动创造性问题解决、策略内化与克服思维定势的核心高阶认知机制。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 83
+related_count: 84
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -89,6 +89,7 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Effect Size]]"
   - "[[Questionnaire]]"
+  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Meta-meta-analysis]]"
   - "[[Pre-test and Post-test]]"
@@ -314,7 +315,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | Dignath & Büttner (2008) | **【干预[[Variable\|变量]]】** 元认知与自我调节策略教学对学生学习成效与认知技能的因果干预效应 | $k = 48$ 项干预研究 / $N = 7,450$ | Cohen's $d$ / 随机效应模型 | **$d = 0.69$** $[0.56, 0.82]$ | 异质性显著，元认知监控策略为关键有效成分 | 证实显性传授元认知规划与监控策略对[[Academic Achievement\|学业表现]]与思维技能具有中到大效应 |
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | **【干预变量】** 探究教学中嵌入显性元认知支架对学生[[Epistemic Cognition\|认识论认知]]与高阶学业表现的促进 | $k = 19$ 项研究 (63 ES) / $N = 4,048$ | 皮尔逊相关 $r$ / 随机效应模型 | **$r = 0.198$** $[0.132, 0.264]$ | 跨学科研究异质性中等 | 证实提供显性元认知反思支架能直接改善学习者的[[Epistemology\|认识论]]监控水平与学业成就 |

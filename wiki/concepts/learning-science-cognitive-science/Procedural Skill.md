@@ -8,10 +8,10 @@ aliases:
 summary: "指个体在具体任务情境中应用规则、执行标准化操作序列与自动化解决良构问题的能力体系，在自适应教学微提示与刻意练习中极易实现图式编译与自动化运作。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - learning-science
   - cognitive-psychology
@@ -37,6 +37,7 @@ related_theories:
 related_methods:
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
+  - "[[Confidence Interval]]"
   - "[[Correlational Research]]"
 related_persons: []
 related_facts: []
@@ -104,7 +105,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
+> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% [[Confidence Interval\|CI]] | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | [[Dependent Variable\|结果变量]]（认知结果分类） | 技能类认知结果（Skill-Based Outcomes） | $k = 42$ / — | $g = 0.391$ $[0.197, 0.584]$ | $Q = 409.56, I^2 = 90.0\%, p < .001$ | 涵盖数学解题、编程调试、外语口语流利度等程序性技能，[[Effect Size\|效应量]]最大且统计检验高度稳定显著 |
 

@@ -10,7 +10,7 @@ aliases:
 summary: "由 Alison King 提出的一种基于高阶提问句干脚手架的同伴教学策略，引导学习者在结对互动中相互质询并进行认知精细加工"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -33,6 +33,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Confidence Interval]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Reciprocal Peer Questioning
@@ -106,7 +107,7 @@ updated: 2026-10-15
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与检验 | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与检验 | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素：学生自主提问对[[Critical Thinking\|批判性思维]]技能的促进效应 | $k = 4$ / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.37$ $[-0.02, 0.77]$ | $Q(3) = 10.99, p = .012, I^2 = 72.70\%$ | 纳入实验与准实验；作为[[Dialogue in Education\|对话]]维度细分子策略检验 |
 

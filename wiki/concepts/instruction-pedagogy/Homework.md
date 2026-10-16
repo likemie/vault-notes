@@ -8,7 +8,7 @@ aliases:
 summary: "教师布置并在校外非教学时段由学生独立或在支持下完成的学习任务，其学业效果受学段认知发展高度调节，并在元分析构念聚合与比较基线不对等上面临方法学争议"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 54
+related_count: 55
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -56,6 +56,7 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Meta-meta-analysis]]"
   - "[[Process Tracing]]"
+  - "[[Confidence Interval]]"
   - "[[Correlational Research]]"
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
@@ -254,7 +255,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶与二阶[[Meta-analysis|元分析]]结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 元分析来源 | 当前概念角色与总体结果 | 证据规模 $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]或亚组表现 | 关键解释边界 |
+> | 元分析来源 | 当前概念角色与总体结果 | 证据规模 $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]或亚组表现 | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Higgins_2016_ROE\|Higgins (2016)]]（引述 Hattie, 2009） | 教学干预：家庭作业对[[Academic Achievement\|学业成绩]]的综合促进效应 | 涵盖 5 项元分析与 161 项原始研究 | Cohen's $d$ / 随机效应模型 | $d = 0.29$ | 处于教师常态效应区（$0.15 \sim 0.40$） | 粗放合并各类活动形态，掩盖了巨大内部方差；35% 原始研究呈中性或负效应 |
 > | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 教学干预：学段对家庭作业学业效应的调节比较 | Hattie 数据集学段亚组 | Cohen's $d$ | 小学 $d = 0.15$；中学 $d = 0.64$ | 组间差异极其显著 | 证实作业效益在不同学段具有质的分野，平均值会掩盖高中作业的高价值与小学作业的低产出 |

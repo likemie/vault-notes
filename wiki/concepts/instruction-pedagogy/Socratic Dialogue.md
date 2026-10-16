@@ -10,7 +10,7 @@ aliases:
 summary: "以连续提问、澄清假设、呈现反例与暴露认知矛盾为核心的启发式教学对话策略，在哲学思辨与理科探究中作为关键言语支架促进概念重构与批判性思维发展。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -50,6 +50,7 @@ related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Experimental Research]]"
   - "[[Correlational Research]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Socratic Dialogue
@@ -234,7 +235,7 @@ updated: 2026-10-15
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素：[[Socrates\|苏格拉底]][[Dialogue in Education\|对话]]作为教学策略对[[Critical Thinking\|批判性思维]]技能的促进 | $k = 8$ / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.27$ $[-0.01, 0.55]$ | $Q(7) = 21.59, p = .003, I^2 = 67.58\%$ | 纳入实验与准[[Experimental Research\|实验研究]]；作为对话干预维度下的具体子策略进行独立检验 |
 

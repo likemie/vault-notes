@@ -8,7 +8,7 @@ aliases:
 summary: "通过空间隐喻与视觉拓扑结构表征概念关系、逻辑论证与层级脉络的教学与认知脚手架，能有效卸载低阶信息检索负荷并释放高阶认知资源"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -44,6 +44,7 @@ related_theories:
   - "[[Knowledge Integration]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Correlational Research]]"
   - "[[Random-Effects Model]]"
@@ -196,7 +197,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | **干预因素** 检验图形组织器教学干预对学生[[Higher-Order Thinking Skills\|高阶思维]]（HOT）的总体促进效应 | $k = 72$ / $N = 4{,}824$（66 项独立研究） | Hedges' $g$；随机效应模型（Random-effects） | $g = 0.778$, $95\%\text{ CI} = [0.649, 0.907]$ | $Q(71) = 485.49, p < .001$；$I^2 = 85.37\%$ | 涵盖 19 国大中小学样本；主要为学生自主绘制干预；未发现发表偏倚（Egger $p = .070$；Fail-Safe $N = 7{,}183$） |
 

@@ -8,7 +8,7 @@ aliases:
 summary: "教育哲学与教学法中的核心中介，通过师生与生生间平等的经验共享、批判性质询与共同探究，克服单向灌输并促进批判性思维与意识觉醒"
 type: concept
 domain: "educational-philosophy"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -39,6 +39,7 @@ related_methods:
   - "[[Mother-Child Conversation]]"
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Correlational Research]]"
@@ -147,7 +148,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素：对话教学对通用[[Critical Thinking\|批判性思维]]技能的促进效应 | $k = 114$（实验组高于对照组） / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.32$ $[0.23, 0.42]$ | $Q_b(1) = 4.53, p = .03$（对比无差异组 $g+=0.19, k=87$） | 严格纳入真实验与[[Quasi-Experimental Designs\|准实验设计]]；通用批判性思维标准化测试结果 |
 

@@ -6,7 +6,7 @@ aliases:
 summary: "对支撑学科的基本概念、原理与理论的理解，是知识获取类学习结果；问题本位学习通过分析真实问题促进对理论概念的深层掌握。"
 type: concept
 domain: "educational-psychology"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Confidence Interval]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
@@ -76,7 +77,7 @@ updated: 2026-10-16
 > [!ma-table]- 二阶[[Meta-analysis\|元分析]]互补维度亚组
 > <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>
 >
-> | [[Meta-meta-analysis\|二阶元分析]] | 当前概念角色 | 对应亚组 | 证据数 E | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
+> | [[Meta-meta-analysis\|二阶元分析]] | 当前概念角色 | 对应亚组 | 证据数 E | 亚组汇总效应与 95% [[Confidence Interval\|CI]] | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] | [[Dependent Variable\|结果变量]] | [[Problem-Based Learning\|PBL]] 对理论性知识的促进效应 | E = 15 | d = 0.59 [0.37, 0.81] | Q_b(6) = 14.65, p = .02 | 结果[[Variable\|变量]]亚组中效应为高水平；高等教育情境 |
 

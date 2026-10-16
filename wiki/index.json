@@ -19616,7 +19616,9 @@
     "aliases": [
       "置信区间",
       "confidence level",
-      "置信水平"
+      "置信水平",
+      "边际误差",
+      "margin of error"
     ]
   },
   {

@@ -10,10 +10,10 @@ aliases:
 summary: "使用外部物理或数字工具执行原本由内部心智承担的认知加工，兼具释放工作记忆以赋能高阶探究与诱发捷径学习、导致思维惰性及元认知外包的深层双刃剑效应。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 49
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - theme/cognitive-load
   - theme/artificial-intelligence
@@ -64,6 +64,7 @@ related_methods:
   - "[[Chain-of-Thought Prompting]]"
   - "[[Role-playing]]"
   - "[[Meta-analysis]]"
+  - "[[Confidence Interval]]"
   - "[[Effect Size]]"
   - "[[Systematic Review]]"
   - "[[Correlational Research]]"
@@ -266,7 +267,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
+> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% [[Confidence Interval\|CI]] | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 关键认知调节[[Variable\|变量]]（干预时长反映依赖演化） | 短期 0–8 周（1）<br>中期 8–16 周（2）<br>长期 >16 周（3） | 15 / —<br>31 / —<br>13 / — | $g = 0.494$ [0.272, 0.717]<br>$g = 0.759$ [0.576, 0.943]<br>$g = 0.372$ [0.196, 0.549] | $Q_b = 9.106, df = 2, p = 0.011$（组间差异显著） | 长期干预（$>16$ 周）促学效应大幅回落，实证证实缺乏消退机制的长期技术使用诱发心理依赖与认知外包惯性；8–16 周为建设性卸载黄金平衡窗口。 |
 > | 同上 | 关键认知调节变量（[[Self-Regulated Learning\|SRL]] 作为抗外包中和器） | 高自我调节学习组（1）<br>低自我调节学习组（2） | 31 / —<br>25 / — | $g = 0.863$ [0.679, 1.048]<br>$g = 0.284$ [0.188, 0.380] | $Q_b = 40.962, df = 1, p < 0.001$（组间差异极显著） | 低自律组由于全盘心智外包与缺乏甄别，增益极其微弱；高自律组依托元认知警觉实现高阶赋能，确立了 SRL 作为中和认知卸载负效应的核心屏障。 |

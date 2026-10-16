@@ -201,7 +201,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]理论模型[[Interaction Effect\|调节效应]]检验
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 理论模型亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
+> | 一阶元分析 | 当前概念角色 | 理论模型亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% [[Confidence Interval\|CI]] | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预指导理论 | Kuhn 与 Barzilai 发展协调模型 | 5 / 396 | $d = 0.633$ [0.293, 0.973] | — | 聚焦多重视角论证与证据协调反思 |
 > | 同上 | 干预指导理论 | Hofer 与 Pintrich 多维信念模型 | 10 / 1,736 | $d = 0.625$ [0.251, 1.000] | — | 聚焦确定性、简单性、来源与辩护四维度 |

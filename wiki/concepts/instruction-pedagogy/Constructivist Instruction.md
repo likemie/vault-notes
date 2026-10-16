@@ -9,10 +9,10 @@ aliases:
 summary: "以学习者主动建构意义为核心的教学系统，主张通过创设真实情境、激活先备经验、嵌入认知支架与促进社会协作达成概念转变与深层理解。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 49
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - subject/instruction
   - theory/learning-theory
@@ -58,6 +58,7 @@ related_theories:
   - "[[Social Realism]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Confidence Interval]]"
   - "[[Effect Size]]"
   - "[[Correlational Research]]"
   - "[[Systematic Review]]"
@@ -205,7 +206,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]][[Constructivist Paradigm\|建构主义]]教学与不同[[Framework for Teaching|教学框架]]因果效应对比
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 干预教学框架分类与角色 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与检验 | 关键解释边界 |
+> | 一阶元分析 | 干预教学框架分类与角色 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与检验 | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 建构主义常规教学（强调学生自主建构个人理解） | 3 篇（2 个[[Effect Size\|效应量]]） / 690 | Cohen's $d$，随机效应模型 | $d = 0.479$ $[0.082, 0.877]$ | $Q(2) = 17.523, p < .001$；$Z = 2.366, p < .05$ | 证实建构主义常规教学对提升学业成就具有显著因果效应 |
 > | 同上 | [[Inquiry-Based Learning\|指导式探究]]（教师提供探究步骤指导与[[Variable\|变量]]控制支架） | 18 篇（26 个效应量） / 1,489 | Cohen's $d$，随机效应模型 | $d = 0.808$ $[0.518, 1.098]$ | $Q(25) = 227.189, p < .001$；$Z = 5.467, p < .001$ | 嵌入显性指导的建构探究录得全框架最高效应量之一 |

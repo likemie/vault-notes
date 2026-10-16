@@ -8,10 +8,10 @@ aliases:
 summary: "主张批判性思维应通过独立的专门课程显性教授而非作为学科学习副产品隐性培养的教学理论，以元分析证据为支撑，强调教师培训和专门课程设计的关键作用。"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 39
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_count: 40
+theory_related_level: 5
+theory_related_stars: "⭐⭐⭐⭐⭐"
+theory_related_color: "#ffedd5"
 tags:
   - theme/critical-thinking
   - theme/curriculum
@@ -49,6 +49,7 @@ related_methods:
   - "[[Case Study]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Random-Effects Model]]"
   - "[[Correlational Research]]"
@@ -192,7 +193,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="theory-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 理论检验角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | 一阶元分析 | 理论检验角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 理论支撑：检验教学干预对通用[[Critical Thinking\|批判性思维]]技能的促进效应 | $k = 341$ / $N = —$ | Hedges' $g+$ / [[Random-Effects Model\|随机效应模型]] | $g+ = 0.30$ $[0.25, 0.34]$ | $Q(340) = 1,225.89, p = .001, I^2 = 72.27\%$ | 严格排除前实验；确立批判性思维教学的跨情境可教性（改善指数 11.79%） |
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 理论支撑：检验教学干预对[[Domain Specificity\|学科特异性]]批判性思维技能的促进效应 | $k = 97$ / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.57$ $[0.47, 0.68]$ | $Q(96) = 544.32, p < .001, I^2 = 82.36\%$ | 排除前实验；包含学科特异性标准化（$g+=0.40$）与非标准化（$g+=0.65$）测验 |

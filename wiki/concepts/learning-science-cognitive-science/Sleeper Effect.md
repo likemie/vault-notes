@@ -7,7 +7,7 @@ aliases:
 summary: "学习或态度干预结束后，认知增益或说服效果不仅未随时间消退，反而随时间推移显著放大或充分显现的心理学现象；在认识论认知干预中，深层评价标准的内化沉淀使延时后测效应量达即时后测的两倍以上。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -46,13 +46,14 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Cohort Study]]"
+  - "[[Confidence Interval]]"
   - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Cartiff_2021_JEP]]"
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Sleeper Effect
@@ -156,7 +157,7 @@ updated: 2026-10-15
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]][[Pre-test and Post-test\|后测]]时间节点[[Interaction Effect\|调节效应]]检验
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 调节[[Variable\|变量]]亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
+> | 一阶元分析 | 当前概念角色 | 调节[[Variable\|变量]]亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% [[Confidence Interval\|CI]] | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | [[Dependent Variable\|结果变量]]时间调节项 | 即时后测（干预刚结束） | 26 / 4,191 | $d = 0.451$ [0.267, 0.635] | — | 即时考察深层认知变化，效应稳健但受制于内化时间窗口 |
 > | 同上 | 结果变量时间调节项 | 延时后测（干预结束后追踪） | 5 / 485 | $d = 0.966$ [0.802, 1.131] | $Q_b = 16.737, df = 1, p < .001$ | 效应达到即时测验两倍以上，且组内异质性极小（$I^2 = 23.979\%$） |

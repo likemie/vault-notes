@@ -10,7 +10,7 @@ aliases:
 summary: "关于知识本质的底层认知假设与哲学追求。在西方思想史中体现为以数学和逻辑为范式追求客观永恒真知的文化传统；在教育心理学中则是衡量个体认识论成熟度（绝对固定 vs 相对演变）的核心维度，实证表明其独立负向预测学业成绩并受学科选择与社会化的双重塑造。"
 type: concept
 domain: "educational-philosophy"
-related_count: 52
+related_count: 53
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -59,6 +59,7 @@ related_methods:
   - "[[Multiple Regression]]"
   - "[[Sample Size Determination]]"
   - "[[Questionnaire]]"
+  - "[[Confidence Interval]]"
   - "[[Effect Size]]"
   - "[[Correlational Research]]"
   - "[[Cohort Study]]"
@@ -279,7 +280,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]因果干预效应
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与检验 | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与检验 | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预靶向：包含解构知识确定性（由绝对固定到动态演进）的多维认知干预对[[Academic Achievement\|学业成就]]的因果效应 | 28 篇（59 个[[Effect Size\|效应量]]） / 4,373 | Cohen's $d$，随机效应模型 | 总体效应 $d = 0.509$ $[0.334, 0.684]$；延时后测 $d = 0.966$ $[0.802, 1.131]$ | $Q(58) = 459.739, p < .001$；延时组间 $Q_b = 16.737, p < .001$ | 证实解构知识绝对确定性信念并建立证据确证准则，能显著因果促进高阶论证与概念理解 |
 

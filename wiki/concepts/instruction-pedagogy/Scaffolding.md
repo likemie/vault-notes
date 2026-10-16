@@ -14,7 +14,7 @@ aliases:
 summary: "教师、同伴或技术工具在学习者最近发展区内提供的临时性认知与教学支持结构，通过任务拆解、启发提示与系统性渐隐，协助学习者跨越能力边界并将外部支持内化为自主心智能力。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 66
+related_count: 67
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -86,6 +86,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Role-playing]]"
   - "[[Chain-of-Thought Prompting]]"
+  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Effect Size]]"
   - "[[Correlational Research]]"
@@ -297,7 +298,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | Lazonder and Harmsen (2016) (引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 4]]) | 干预因素：探究教学中的指导脚手架对比无指导探究 | $k = 72$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $d = 0.50$ [0.37, 0.63] | 指导类型调节效应不显著（$p > .05$） | 涵盖六类指导支架（过程约束、提示、线索、脚手架、直接解释等），证实支架提升半个标准差且不同形态功能等价 |
 > | Gerard et al. (2015) (引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 9]]) | 干预因素：技术增强科学探究中的自动化自适应脚手架 | $k = 41$ ($E = 57$) / $N = —$ | 标准化均值差 $ES$ | $ES = 0.34$ | — | 针对动态虚拟实验室与可视化探究环境，确证自适应智能脚手架相比静态指导的额外增益 |

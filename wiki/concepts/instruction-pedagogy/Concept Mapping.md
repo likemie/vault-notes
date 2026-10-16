@@ -10,10 +10,10 @@ aliases:
 summary: "包含显式概念节点、指示连线、命题连接词与跨分支横向交叉连接，用于结构化表征复杂领域知识与语义命题关系的高阶认知建模与评价工具。在有意义学习与科学教育中，它为深层知识整合提供严密语法，既是促学支架亦是诊断认知结构的评价工具。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - theme/instruction
   - construct/cognitive-process
@@ -47,6 +47,7 @@ related_theories:
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Multiple-Choice Questions]]"
+  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Meta-meta-analysis]]"
   - "[[Effect Size]]"
@@ -220,7 +221,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | **【干预变量】** 概念图作为图形组织器干预对学生[[Higher-Order Thinking Skills\|高阶思维]]的促学效应 | $k = 36$ 项实证研究 / $N = 2,410$ | Hedges' $g$ / 随机效应模型 | **$g = 0.548$** $[0.403, 0.692]$ | 异质性显著，跨学科研究稳健有效 | 证实多中心命题网络对高阶思维具有中等程度的稳健促进，但受外在认知开销制约 |
 > | Nesbit and Adesope (2006) | **【干预[[Variable\|变量]]】** 概念图作为教学与学习策略对知识保持与深层理解迁移的元分析效应 | $k = 55$ 项实证研究 / $N = 5,818$ | Cohen's $d$ / 随机效应模型 | **$d = 0.60$** $[0.49, 0.71]$（保持）；**$d = 0.46$** $[0.33, 0.59]$（迁移） | 跨学科领域稳健有效 | 证实无论是自制还是阅读概念图，均显著优于传统文本阅读与纯讲授教学 |

@@ -10,7 +10,7 @@ aliases:
 summary: "个体在面临未决难题时，暂时停止有意识的直接思考并转向休息或无关活动，随后在无意识或偶发线索触发下产生灵感豁朗与创造性突破的认知心理现象。作为创造力四阶段模型的核心环节，它通过消退思维定势、促进无意识联想扩散与恢复认知资源，解释了创造力训练周期的倒 U 型演进规律。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -42,6 +42,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Three-Level Meta-Analysis]]"
   - "[[Effect Size]]"
+  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Meta-meta-analysis]]"
   - "[[Correlational Research]]"
@@ -204,7 +205,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | Sio and Ormerod (2009) | **【干预[[Variable\|变量]]】** 实验性插入孕育期间隔期对[[Creative Problem Solving\|创造性问题解决]]表现的总体因果促进效应 | $k = 117$ 个实验对比 / $N \approx 4,500$ | Cohen's $d$ / 随机效应模型 | **$d = 0.29 \sim 0.45$** $[0.20, 0.49]$ | 异质性显著，受任务类型与插入活动强烈调节 | 确立暂时离开问题并从事无关活动对后续[[Creativity\|创造性]]突破产生稳健正向促进 |
 > | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | **【干预周期调节】** [[Creativity Training\|创造力干预]]周期维度的倒 U 型调控效应（短中期集训留出充分孕育空间） | $N = 109$ 个效应量 / $k = 29$ 原生研究 | Hedges' $g$ / 多层随机效应模型 | **$< 2$ 个月 $g = 0.844$** $[0.518, 1.171]$ | 解释 13.4% 组间方差（$p < .01$） | 证实高密度中短期干预结合后续生活实践孕育能取得最优成效，过长干预导致倦怠递减 |

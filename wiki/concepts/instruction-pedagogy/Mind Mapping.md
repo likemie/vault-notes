@@ -11,7 +11,7 @@ aliases:
 summary: "围绕单一中心概念向外辐射多级分支，借助色彩、关键词与自由联想规则外显化非线性思维过程的低认知开销空间视觉组织工具。在创造力干预与高阶思维培养中，它以极简拓扑结构最大化降低认知负荷，是激发发散思维与概念远距组合的核心教学支架。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -54,6 +54,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Experimental Research]]"
   - "[[Three-Level Meta-Analysis]]"
+  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
@@ -232,7 +233,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] | **【干预变量】** 思维导图作为图形组织器干预对学生[[Higher-Order Thinking Skills\|高阶思维]]的总体促学效应 | $k = 16$ 项实证研究 / $N = 1,180$ | Hedges' $g$ / 随机效应模型 | **$g = 1.041$** $[0.704, 1.379]$ | 异质性显著；在所有组织器形态中[[Effect Size\|效应量]]高居第一 | 证实低结构开销与极简发散语法对高阶思维具有强效促进作用 |
 > | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | **【干预[[Variable\|变量]]】** 以思维导图、头脑风暴与侧向思维为核心载体的思维训练干预对[[Creativity\|创造力]]的促进 | $N = 31$ 个效应量 / $k = 29$ 原生研究 | Hedges' $g$ / 多层随机效应模型 | **$g = 0.762$** $[0.386, 1.138]$ | 异质性显著；仅次于语言训练，显著优于情绪训练 | 证实思维导图等结构化思维工具能有效改善[[Cognitive Shifting\|认知灵活性]]与发散问题解决表现 |

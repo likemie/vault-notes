@@ -6,9 +6,9 @@ aliases:
 summary: "由卢巴特等开发的前沿多维创造力测验系统，通过言语与图形两大领域的发散探索任务与聚合整合任务，系统测查儿童、青少年与成人的创造潜能结构与领域特异性表现。"
 type: instrument
 instrument_type: test
-instrument_related_count: 9
-instrument_related_level: 1
-instrument_related_stars: "⭐"
+instrument_related_count: 10
+instrument_related_level: 2
+instrument_related_stars: "⭐⭐"
 instrument_related_color: "#dbeafe"
 developers:
   - "Lubart, T."
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Intercultural Education]]"
 related_theories: []
 related_methods:
+  - "[[Confidence Interval]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Measurement Invariance]]"
 related_instruments: []
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-03
-updated: 2026-09-29
+updated: 2026-10-16
 ---
 
 # Evaluation of Potential for Creativity
@@ -69,7 +70,7 @@ updated: 2026-09-29
 > | 维度 | 题项数 | 测量内容 | 计分方式 |
 > |---|---|---|---|
 > | **言语发散-探索（Verbal Divergent-Exploratory, V-DE）** | 任务 1 | 基于特定提示词汇在限定时间内生成尽可能多且新颖的故事构想或结局。 | 流畅性计数与统计独创性赋分 |
-> | **言语聚合-整合（Verbal Convergent-Integrative, V-CI）** | 任务 2 | 给定若干看似无关的具象词汇，要求整合所有词汇创作一篇具有连贯性与原创性的短篇故事。 | 专家评定故事整体新颖性与结构整合度 |
+> | **言语聚合-整合（Verbal Convergent-Integrative, V-[[Confidence Interval\|CI]]）** | 任务 2 | 给定若干看似无关的具象词汇，要求整合所有词汇创作一篇具有连贯性与原创性的短篇故事。 | 专家评定故事整体新颖性与结构整合度 |
 > | **图形发散-探索（Graphic Divergent-Exploratory, G-DE）** | 任务 3 | 基于单个简单的抽象图形线索，在多张画纸上绘制出尽可能丰富多样的不同具象画面。 | 流畅性计数与图形独创性赋分 |
 > | **图形聚合-整合（Graphic Convergent-Integrative, G-CI）** | 任务 4 | 给定一组分散且异质的几何图形刺激，要求将被试所有给定刺激整合为一幅完整且具创意的图画。 | 专家评定构图的有机整合性与视觉独创性 |
 

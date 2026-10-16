@@ -327,7 +327,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶与[[Meta-meta-analysis\|二阶元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | [[Meta-analysis\|元分析]] | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与 95% PI | 关键解释边界 |
+> | [[Meta-analysis\|元分析]] | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与 95% PI | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Hattie_2005_ACER\|Hattie (2005)]] | 全球教育创新与教学干预总体综合效应 | $M > 100$；$E > 500,000$；$k > 50,000$；$N > 20,000,000$ | Cohen's $d$ / 经验正态分布 | 总体均值 $d = 0.40$ | 正态分布 $SD \approx 0.20$；90%–95% 效应量为正 | 宏观二阶元分析概括；确立 $d=0.40$ 关节点，但包含不同研究质量混合 |
 > | [[Argument_Kraft_2023_ER\|Kraft (2023)]] | 美国 K-12 教育干预因果试验经验分布 | $k = 3,426$ 个效应量（来自因果 RCT 研究） | 标准化均差（SMD） | 中位数 $d = 0.10$；30 百分位 0.02；70 百分位 0.21 | 36% 的效应量 $< 0.05$ | 严格限定于因果评估与标准化[[Achievement and Aptitude Tests\|成就测验]]；剔除开发者自编测验偏倚 |

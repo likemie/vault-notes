@@ -9,7 +9,7 @@ aliases:
 summary: "个体对认知的主观维度与客观维度的协调能力，以及对认识论理想与可靠认识过程之规范合理性与边界条件的元认知理解。"
 type: concept
 domain: "educational-psychology"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -44,6 +44,7 @@ related_theories:
 related_methods:
   - "[[Questionnaire]]"
   - "[[Meta-analysis]]"
+  - "[[Confidence Interval]]"
   - "[[Effect Size]]"
   - "[[Correlational Research]]"
 related_instruments:
@@ -201,7 +202,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
+> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% [[Confidence Interval\|CI]] | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 预测/解释[[Variable\|变量]]（[[Independent Variable\|自变量]]） | 测量工具调节：[[Epistemological Understanding\|认识论理解]]量表（EUI） | $k = 5$ / $N = —$ | 共同相关系数尺度：**$r = .242$** $[.104, .371]$ | 问卷工具间效应差异显著（$p < .05$） | 证实聚焦认识论理解构念的测评工具对学业成就具有中等偏强的正向预测效力，显著高于传统泛化信念量表 |
 

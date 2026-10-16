@@ -9,7 +9,7 @@ aliases:
 summary: "基于大语言模型与多模态生成架构的认知中介与通用目的技术；在教育中重构人机知识确证分工，其促学成效取决于教学脚手架、评价性判断的自主维系与生产性认识论摩擦；在国家战略与地缘竞争中涌现出通用人工智能火花并引发软硬件层级逆转，成为决定21世纪大国均势与算法威慑的核心软件中枢。"
 type: concept
 domain: "educational-technology"
-related_count: 145
+related_count: 146
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -132,6 +132,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Fieldwork]]"
   - "[[Trim and Fill Method]]"
+  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Multimodal Discourse Analysis]]"
   - "[[Correlational Research]]"
@@ -539,7 +540,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 干预因素（生成式 AI 在高等教育中的综合学习成效） | $k = 97$ / $N = 5{,}389$（57 项实验研究） | Hedges' $g^+$；随机效应模型 | $g^+ = 0.804$ $[0.636, 0.972]$（剪补校正后 $g^+ = 0.321$） | $Q = 1390.16, p < .001, I^2 = 93.09\%$ | 严格控制基线等效性（前测差异 $d < 0.25$）；语言技能（$g^+ = 2.331$）、学业成绩（$g^+ = 0.633$）、情感动机（$g^+ = 0.617$）和高阶思维（$g^+ = 0.580$）显著，但元认知不显著（$g^+ = 0.078$） |
 > | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 干预因素（生成式 AI 对学生[[Higher-Order Thinking Skills\|高阶思维]]的促学总成效） | $k = 59$ / 29 项实验与准实验研究 | Hedges' $g$；随机效应模型 | $g = 0.609$ $[0.485, 0.732]$ | $Q = 255.208, p < .001, I^2 = 77.273\%$ | 涵盖问题解决（$g = 0.745$）、批判性思维（$g = 0.691$）与创造力（$g = 0.444$）；证实适度周期与高自主调节能力是释放促学潜能的关键 |

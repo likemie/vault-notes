@@ -8,7 +8,7 @@ aliases:
 summary: "个体关于‘如何执行任务、运用技能与操作算法’的行动化知识表征；在认知架构中通过产生式规则实现自动化编译以释放工作记忆；元分析因果证据证实，认识论认知干预能大幅促进论证与概念理解，但对程序性知识操作（d = 0.140，不显著）不产生直接促进，确立了认识论认知的任务效能边界。"
 type: concept
 domain: "educational-psychology"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -39,6 +39,7 @@ related_theories:
   - "[[Women's Ways of Knowing]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Confidence Interval]]"
   - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Hofer_1997_RER]]"
@@ -172,7 +173,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]][[Academic Achievement\|学业成就]]测量类型[[Interaction Effect\|调节效应]]检验
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 学业成就类型亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
+> | 一阶元分析 | 当前概念角色 | 学业成就类型亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% [[Confidence Interval\|CI]] | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | [[Dependent Variable\|结果变量]]分类 | 论证表现（Argumentation） | 5 / 477 | $d = 1.047$ [0.481, 1.614] | — | 证据确证与论点整合产生大幅飞跃 |
 > | 同上 | 结果[[Variable\|变量]]分类 | 概念性知识（Conceptual） | 19 / 2,455 | $d = 0.557$ [0.323, 0.791] | — | 敏锐检验概念转变与深层原理理解 |

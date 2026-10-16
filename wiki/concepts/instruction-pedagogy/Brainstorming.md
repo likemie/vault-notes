@@ -8,10 +8,10 @@ aliases:
 summary: "由亚历克斯·奥斯本提出的经典发散构思与群体创造力技法，以“延迟评判、以量求质、自由畅想、搭便车改进”四大原则为基石。当代群体动力学研究揭示了面对面口头互动中的生产阻塞与评价顾虑，推动了书面脑力激荡与个体-群体混合模式的发展。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - theme/instruction
   - theme/creativity
@@ -51,6 +51,7 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Three-Level Meta-Analysis]]"
   - "[[Effect Size]]"
+  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Meta-meta-analysis]]"
   - "[[Factorial Design]]"
@@ -250,7 +251,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | Mullen, Johnson and Salas (1991) | **【干预[[Variable\|变量]]】** 传统面对面口头头脑风暴群体相对于同等规模无交互名义群体的生产力对比 | $k = 25$ 项受控实验 / $N \approx 2,100$ | Cohen's $d$ / 随机效应模型 | **$d = -0.57$** $[-0.76, -0.38]$ | 异质性显著，群体规模越大损失越严重 | 证实面对面口头头脑风暴存在显著的群体生产力损失，名义群体产出显著胜出 |
 > | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | **【干预组织形式调节】** [[Creativity Training\|创造力干预]]中独立练习形式与小组头脑风暴协作形式的效能对比 | $N = 109$ 个效应量 / $k = 29$ 原生研究 | Hedges' $g$ / 多层随机效应模型 | **独立 $g = 0.682$**；**小组 $g = 0.567$** | 解释 8.9% 组间方差（$p < .05$） | 证实独立深思训练能规避生产阻塞与群体认知内耗，产生显著更高的净促学收益 |

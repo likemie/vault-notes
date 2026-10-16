@@ -8,7 +8,7 @@ aliases:
 summary: "以真实情境、劣构问题、角色扮演、情境模拟与宏观情境锚定为载体，引导学生在有意义的问题解决中建构知识与发展批判性思维的教学模式。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -40,6 +40,7 @@ related_methods:
   - "[[Role-playing]]"
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Correlational Research]]"
   - "[[Experimental Research]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Authentic Instruction
@@ -168,7 +169,7 @@ updated: 2026-10-15
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素：真实性教学对通用[[Critical Thinking\|批判性思维]]技能的促进效应 | $k = 96$（实验组高于对照组） / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.34$ $[0.24, 0.44]$ | $Q_b(1) = 4.07, p = .044$（对比无差异组 $g+=0.22, k=118$） | 纳入真实验与高质准实验，采用标准化批判性思维测试作为结果测量 |
 

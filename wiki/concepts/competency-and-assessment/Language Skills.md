@@ -10,7 +10,7 @@ aliases:
 summary: "在课程与教学论及应用语言学中，指学习者在第一语言（L1）或第二语言/外语（L2/FL）中理解、组织与表达意义的多维可测量能力构念，涵盖听、说、读、写四大技能及语法词汇、体裁结构与交际流利度。在教育技术与生成式人工智能干预实证中，该构念常作为核心产出变量，表现出对自然语言模型的强敏感性与显著促学效应（g+ = 2.331），但易受发表偏倚与小研究效应影响。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -42,6 +42,7 @@ related_methods:
   - "[[Small Study Effects]]"
   - "[[Trim and Fill Method]]"
   - "[[Effect Size]]"
+  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Correlational Research]]"
 related_instruments:
@@ -165,7 +166,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | [[Dependent Variable\|结果变量]]：生成式 AI 对大学生语言技能（Language Skills）的促学效应 | $k = 21$ / $N = —$ | Hedges' $g^+$ / 随机效应模型 | $g^+ = 2.331$ $[1.617, 3.044]$ | $Q(20) = 596.21, p < .001, I^2 = 96.65\%$；剪补法填补 4 项后调整为 $g^+_{\text{adj}} = 1.009$ $[0.177, 0.841]$ | 严格限定前测基线等效（$d < 0.25$）；聚焦二语/外语高等教育情境；存在极显著小研究效应与发表偏倚 |
 

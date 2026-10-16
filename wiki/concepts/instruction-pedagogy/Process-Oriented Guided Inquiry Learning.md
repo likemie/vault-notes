@@ -7,7 +7,7 @@ aliases:
 summary: "源自大学化学教育并广泛扩散至 K-12 阶段的小组合作探究教学法，依托探索、概念形成与应用三阶段学习环，结合结构化团队角色分配与引导式活动材料，元分析证实其能显著降低课程挂科率并大幅提高学业通过优势比"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -47,6 +47,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Statistical Significance]]"
   - "[[Questionnaire]]"
+  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Effect Size]]"
   - "[[Experimental Research]]"
@@ -239,7 +240,7 @@ POGIL 历经了从局部高校化学教学改革，扩散为横跨 [[STEM Educat
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | Walker and Warfa (2017)（课程通过优势比分析；引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 3]]） | 干预因素：POGIL 教学法对比传统常规讲授大班 | 涵盖多项对照实验 | 优势比（Odds Ratio, OR） | $\text{OR} > 1.0$（统计显著提升） | 挂科与退课率（DFW）显著压低（$p < .01$） | 标杆元分析；证实 POGIL 显著提升学生通过关键科学课程的概率，有效保障学业底线 |
 > | Walker and Warfa (2017b)（标准化考试成绩分析；引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 3–4]]） | 干预因素：POGIL 对比传统[[Direct Instruction\|直接讲授]]的期末考试成绩 | 涵盖多所大学与高中理科 | 标准化平均差（SMD） | $g \approx 0.15 \sim 0.20$（微弱至中等正效应） | 异质性中等 | 证实期末分数提升相对温和，其核心制度性收益在于保底及格率与概念深度 |

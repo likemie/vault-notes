@@ -11,7 +11,7 @@ aliases:
 summary: "教育与社会干预在停止实施后即时正向效应随时间推移逐渐萎缩直至消失的普遍经验现象，以及方案从理想效力试验走向大规模实效推广时的效应断崖式归零（电压降），构成了现代循证清算与行政大数据长期追踪的核心审查关卡。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 45
+related_count: 46
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -54,6 +54,7 @@ related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
+  - "[[Confidence Interval]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -219,7 +220,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]延时追踪与干预周期调节结果
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 考察维度与对比条件 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | 组间差异检验 | 关键解释边界 |
+> | 一阶元分析 | 考察维度与对比条件 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | 组间差异检验 | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | **测试时间节点** 延时[[Pre-test and Post-test\|后测]] vs. 即时后测（抗衰退与内化反弹） | 5 项延时（485 人） vs. 54 项即时（3,888 人） | Cohen's $d$，随机效应模型 | 延时后测 $d = 0.966$ $[0.802, 1.131]$；即时后测 $d = 0.451$ $[0.264, 0.638]$ | $Q_b(1) = 16.737, p < .001$ | 认识论认知干预展现出罕见的反向翻倍效应，证实高阶思维习惯随时间具有内化沉淀优势 |
 > | 同上 | **干预实施周期** 短期与中期集中教学 vs. 全学期长期干预 | 59 个[[Effect Size\|效应量]] / 4,373 | Cohen's $d$，随机效应模型 | 中期 $d = 0.925$；短期 $d = 0.615$；单次 $d = 0.734$；长期（全学期） $d = 0.234$（不显著） | $Q_b(3) = 8.863, p < .05$ | 长期干预效应消退源于教学浓度稀释、对照组常态追赶以及选用了不敏感的期末统一考试 |

@@ -9,7 +9,7 @@ aliases:
 summary: "由奥斯本提出雏形并由埃伯尔系统化的创造性思维启发式检核表，通过“替代、合并、调适、修改、移作他用、消除、逆向重组”七大外显思维操作算子，为学习者突破心理固着与展开非线性概念重构提供结构化认知支架。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -44,6 +44,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Experimental Research]]"
   - "[[Three-Level Meta-Analysis]]"
+  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Meta-meta-analysis]]"
   - "[[Effect Size]]"
@@ -210,7 +211,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | Scott, Leritz and Mumford (2004) | **【干预[[Variable\|变量]]】** 包含 SCAMPER 在内的结构化观念生成启发式教学对[[Creativity\|创造力]]表现的总体促学效应 | $k = 70$ 项干预研究 | Cohen's $d$ / 固定与随机效应模型 | **$d = 0.68$** $[0.58, 0.78]$ | 异质性中等，策略指导为最强有效预测因子 | 证实向学习者显性传授观念生成启发式操作算子能显著提升其创造表现 |
 > | [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] | **【干预变量】** 以 SCAMPER、[[TRIZ]] 及形态分析为核心的技术型[[Creativity Training\|创造力训练]]对大学生的促学效应 | $N = 20$ 个效应量 / $k = 29$ 原生研究 | Hedges' $g$ / 多层随机效应模型 | **$g = 0.552$** $[0.314, 0.789]$ | $SE = 0.121, Z = 4.550 (p < .001)$ | 确立外显启发式工具能提供具象认知锚点并产生中等稳健促学增益 |

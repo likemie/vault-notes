@@ -8,7 +8,7 @@ aliases:
 summary: "由 Robert Slavin、Robert Stevens 等人（1987）开发的综合性语言与读写合作学习模式。该技术将教师主导的阅读理解策略精讲与异质性同伴配对朗读、词汇协商、故事语法图解、同伴互评修改及故事续写系统整合，是合作学习中干预效应最为突出的技术模式（ES = 2.04）。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -35,6 +35,7 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Correlational Research]]"
 related_instruments: []
@@ -183,7 +184,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | Fuad et al. (2023)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 干预因素：CIRC 整合读写对语言阅读理解成就的干预效应 | $k = 10$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 2.04$ $[1.35, 2.74]$ | — | 印尼 K-12 阶段语言阅读准实验，[[Effect Size\|效应量]]极其突出显著 |
 

@@ -8,10 +8,10 @@ aliases:
 summary: "指单纯依赖机械重复与表层记忆、缺乏深层因果推论与概念重构的认知加工方式。在现代认知心理学与教育测量中构成程序性知识习得的低阶层级，而在跨文化教育研究中，其与理解的非二元对立关系构成了理解东亚学习者成就悖论的关键。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - theme/memorization
   - theme/deep-learning
@@ -53,6 +53,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Correlational Research]]"
   - "[[Questionnaire]]"
+  - "[[Confidence Interval]]"
 related_persons:
   - "[[John Biggs]]"
   - "[[Jin Li]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-25
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Rote Learning
@@ -234,7 +235,7 @@ updated: 2026-10-15
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]][[Dependent Variable\|结果变量]]与测验类型调节结果
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
-> | 元分析 | 调节[[Variable\|变量]]与成就维度 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | 显著性与组间检验 | 关键解释边界 |
+> | 元分析 | 调节[[Variable\|变量]]与成就维度 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | 显著性与组间检验 | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | **[[Academic Achievement\|学业成就]]类型** 论证表现 vs. 概念性知识 vs. [[Procedural Knowledge\|程序性知识]]（死记硬背算法） vs. 常规知识 | 59 个[[Effect Size\|效应量]] / 4,373 | Cohen's $d$，随机效应模型 | 论证 $d = 1.047$；概念 $d = 0.557$；程序性 $d = 0.140$（不显著）；常规 $d = 0.127$（不显著） | $Q_b(3) = 8.940, p < .05$ | 证实认识论认知干预对需要深层因果权衡的任务有效，对死记硬背和程序计算完全脱节 |
 > | 同上 | **测量工具属性** 未对齐自编概念测验 vs. 教师常规期末统考（重在死记硬背） | 59 个效应量 / 4,373 | Cohen's $d$，随机效应模型 | 未对齐概念测验 $d = 0.808$；教师自编常规统考 $d = 0.012$（不显著） | $Q_b = 7.986, p < .01$ | 常规期末考试聚焦机械记忆与公式套用，导致认识论深层思维转变在传统考卷中出现假阴性 |

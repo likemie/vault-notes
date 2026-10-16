@@ -10,7 +10,7 @@ aliases:
 summary: "以学习者自主生成新知、依托经验证据推论、行使认识能动性并参与共同体批判协商为核心的教学取向，在适切支架与指导协同下对促进概念理解与远迁移显著优于单一直接讲授"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 55
+related_count: 56
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -59,6 +59,7 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Pre-test and Post-test]]"
   - "[[Effect Size]]"
+  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Randomised Controlled Trials]]"
@@ -248,7 +249,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, p. 4)]]<br>（引述 Alfieri et al., 2011） | 干预措施：比较辅助式探究教学（Assisted Inquiry）与直接教学对学习成效的影响 | $k = 164$ / — | Cohen's $d$，随机效应模型 | 辅助探究组显著优于显性教学组；纯发现组显著劣于显性教学组 | — | 明确区分了纯发现与辅助式探究，证实支架介入是探究超越直接讲授的前提 |
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 4–5)]]<br>（引述 Furtak et al., 2012） | 干预措施：比较实验与[[Quasi-Experimental Designs\|准实验设计]]下科学探究教学与传统直接教学的效果 | $k = 37$ / — | Hedges' $g$，随机效应模型 | 探究教学对学习结果具有显著正向总体效应，教师主导指导组效应更大 | — | 涵盖多种理科学科，证实探究饱和度与教师指导共同决定成效 |

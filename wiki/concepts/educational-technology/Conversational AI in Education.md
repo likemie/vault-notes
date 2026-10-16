@@ -11,7 +11,7 @@ aliases:
 summary: "依托自然语言处理与多轮语音文本交互技术，在教学情境中提供拟真会话演练、即时纠错反馈、启发式追问与自适应语料推送的交互中介系统。"
 type: concept
 domain: "educational-technology"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -35,6 +35,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Meta-analysis]]"
+  - "[[Confidence Interval]]"
   - "[[Sample Size Determination]]"
   - "[[Correlational Research]]"
 related_persons:
@@ -93,7 +94,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
+> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% [[Confidence Interval\|CI]] | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 干预因素（[[AI Agent in Education\|智能体]]技术类型） | [[Dialogue in Education\|对话]]式智能体（Conversational AI） | $k = 30$ / — | $g = 0.468$ $[0.008, 0.645]$ | $p < .05$ | 证据库中[[Sample Size Determination\|样本量]]最大（占总体[[Effect Size\|效应量]] 41%），在语言读写与口语互动中优势突出 |
 

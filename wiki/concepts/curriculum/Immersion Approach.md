@@ -8,7 +8,7 @@ aliases:
 summary: "在常规学科教学中引导学生深入探究学科问题，但不显性讲授通用批判性思维规则与元认知准则的隐性渗透式课程模式"
 type: concept
 domain: "curriculum"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,6 +31,7 @@ related_theories:
   - "[[Ennis's Curricular Typology]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Confidence Interval]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
@@ -40,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Immersion Approach
@@ -83,7 +84,7 @@ updated: 2026-10-15
 ## 实证表现（[[Argument_Abrami_2015_RER|Abrami et al., 2015]]）
 
 > [!effect-table]- [[Meta-analysis\|元分析]]实证数据对比
-> | 课程模式分类 | 纳入效应量 $k$ | 加权效应 $g+$ | 95% CI 下限 | 95% CI 上限 | 相对表现 |
+> | 课程模式分类 | 纳入效应量 $k$ | 加权效应 $g+$ | 95% [[Confidence Interval\|CI]] 下限 | 95% CI 上限 | 相对表现 |
 > |---|---|---|---|---|---|
 > | **显性混合模式（Mixed）** | 84 | **0.38** | 0.26 | 0.51 | 极显著优于沉浸模式 |
 > | **[[Infusion Approach\|学科融入模式]]（Infusion）** | 152 | **0.29** | 0.23 | 0.36 | 显著优于沉浸模式 |

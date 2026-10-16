@@ -10,7 +10,7 @@ aliases:
 summary: "认知心理学与教学设计中的自主建构范式，由杰罗姆·布鲁纳奠基，主张让学生在最小干预下通过自主探究概念例证领悟学科基本结构；经 Alfieri 等 164 项元分析解构确立无指导纯发现成效低下而辅以支架的增强型引导式发现显著优于传统直接讲授"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -48,6 +48,7 @@ related_theories:
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Pre-test and Post-test]]"
   - "[[Correlational Research]]"
@@ -227,7 +228,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | Alfieri et al. (2011)（纯发现分析；引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 4]]） | 干预因素：无指导纯发现学习对比显性[[Direct Instruction\|直接讲授]] | $k = 108$ 项对比 | Cohen's $d$ / 随机效应 | $d = -0.38$（$95\%\ \text{CI}\ [-0.51, -0.25]$） | 统计显著负效应（$p < .001$） | 证实未提供任何支架的纯发现模式在知识习得效率上显著劣于显性直接讲授 |
 > | Alfieri et al. (2011b)（引导式发现分析；引自 [[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 4–5]]） | 干预因素：增强型引导式发现学习对比显性讲授与传统教学 | $k = 65$ 项对比 | Cohen's $d$ / 随机效应 | $d = +0.30$（$95\%\ \text{CI}\ [0.17, 0.43]$） | 统计显著正效应（$p < .001$） | 证实配备认知支架与启发提示的引导式发现学习系统显著超越传统显性讲授 |

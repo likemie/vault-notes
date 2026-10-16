@@ -9,10 +9,10 @@ aliases:
 summary: "教育技术与循证干预假说，主张在初始数字化基础设施薄弱（低 ICT）或社会经济背景脆弱（低 SES）的低资源环境中引入技术工具，所产生的相对促学增量和边际附加值显著高于高资源饱和环境"
 type: concept
 domain: "educational-technology"
-related_count: 19
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 20
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/educational-technology
   - education-economics
@@ -36,6 +36,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Baseline Standardized Mean Difference]]"
   - "[[Pre-test and Post-test]]"
+  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Correlational Research]]"
   - "[[Moderator Analysis]]"
@@ -190,7 +191,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 情境调节假说检验（检验 ICT 与 SES 调节下的边际增益规律） | $k = 57$ / $N = 5,389$ | Hedges' $g^+$；随机效应模型 | $g^+ = 0.804$ [0.636, 0.972] | $Q = 1390.157, p < 0.001$ | 控制前测基线等效（$d < 0.25$）；宏观环境变量呈现出极显著调节，验证了假说的存在 |
 

@@ -6,7 +6,7 @@ aliases:
 summary: "以理由权衡、有目的的反思判断和自我调节为核心，统合认知技能、思维倾向、领域知识与情境标准；在教育研究中用于设计教学、界定学习结果并检验课程与评估的构念效度。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 119
+related_count: 120
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -94,6 +94,7 @@ related_methods:
   - "[[Longitudinal Study]]"
   - "[[Triangulation]]"
   - "[[Effect Size]]"
+  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Random-Effects Model]]"
   - "[[Questionnaire]]"
@@ -424,7 +425,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | [[Dependent Variable\|结果变量]]：教学干预对通用批判性思维技能的促进效应 | $k = 341$ / $N = —$ | Hedges' $g+$ / [[Random-Effects Model\|随机效应模型]] | $g+ = 0.30$ $[0.25, 0.34]$ | $Q(340) = 1,225.89, p = .001, I^2 = 72.27\%$ | 严格排除前实验与非标准化测验；通用批判性思维标准化测试结果 |
 > | 同上 | 结果变量：教学干预对[[Domain Specificity\|学科特异性]]批判性思维技能的促进效应 | $k = 97$ / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.57$ $[0.47, 0.68]$ | $Q(96) = 544.32, p < .001, I^2 = 82.36\%$ | 排除前实验；包含学科特异性标准化（$g+=0.40$）与非标准化（$g+=0.65$）测验 |

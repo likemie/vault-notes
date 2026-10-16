@@ -9,7 +9,7 @@ aliases:
 summary: "由维果茨基提出的心智发展与教学核心构念，指个体独立解决问题的实际水平与在他人指导或协作下的潜在水平之间的动态差距。现代教育理论已将其从儿童认知与自适应智能体脚手架，进一步拓展至基于课堂观察诊断的教师专业发展与循证辅导。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 53
+related_count: 54
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -62,6 +62,7 @@ related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Cohort Study]]"
   - "[[Effect Size]]"
+  - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
   - "[[Correlational Research]]"
 related_instruments:
@@ -295,7 +296,7 @@ ZPD [[Construct|构念]]不仅支配儿童认知成长，同样统治着成年�
 > [!ma-table]- 一阶元分析总体结果
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] | 机制[[Construct\|构念]]：自适应 AI [[AI Agent in Education\|智能体]]作为 ZPD 外部[[Scaffolding\|认知脚手架]]对 K-12 认知的总体促进效应 | $k = 73$ / $N = 3{,}042$ | Hedges' $g$ / 随机效应模型 | **$g = 0.404$** $[0.242, 0.567]$ | $Q(72) = 813.56, p < .001, I^2 = 91.2\%$ | 证实自适应微提示在学习者 ZPD 内降低认知负荷并促进技能编译 |
 

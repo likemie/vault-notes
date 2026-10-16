@@ -9,7 +9,7 @@ aliases:
 summary: "由美国哲学学会主持、Peter Facione 领衔 46 位国际学者达成的里程碑式共识报告，系统确立了批判性思维的六大核心认知技能与七大情意倾向双元框架"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 24
+theory_related_count: 25
 theory_related_level: 3
 theory_related_stars: "⭐⭐⭐"
 theory_related_color: "#ede9fe"
@@ -38,6 +38,7 @@ related_methods:
   - "[[Delphi Technique]]"
   - "[[Experimental Research]]"
   - "[[Meta-analysis]]"
+  - "[[Confidence Interval]]"
   - "[[Correlational Research]]"
 related_instruments:
   - "[[California Critical Thinking Disposition Inventory]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # APA Delphi Consensus on Critical Thinking
@@ -144,7 +145,7 @@ updated: 2026-10-15
 ## 实证表现与历史影响
 
 > [!ma-table]- [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 基于德尔菲双元框架的[[Meta-analysis\|元分析]]实证成果
-> | 德尔菲[[Construct\|理论构念]]维度 | 对应测量工具与样本规模 | 汇总效应量 $g+$ | 95% CI | 核心实证结论 |
+> | 德尔菲[[Construct\|理论构念]]维度 | 对应测量工具与样本规模 | 汇总效应量 $g+$ | 95% [[Confidence Interval\|CI]] | 核心实证结论 |
 > |---|---|---|---|---|
 > | **通用认知技能维度** | 标准化测试（$k = 341$） | **$g+ = 0.30$** | [0.25, 0.34] | 证实德尔菲六大技能可通过教学干预实现普遍提升。 |
 > | **学科特异技能维度** | 学科自编与标准测验（$k = 97$） | **$g+ = 0.57$** | [0.47, 0.68] | 技能在具体学科情境中呈现更强的近迁移增益。 |

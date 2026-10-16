@@ -67,6 +67,7 @@ related_methods:
   - "[[Between-Study Variance]]"
   - "[[Funnel Plot]]"
   - "[[Moderator Analysis]]"
+  - "[[Confidence Interval]]"
   - "[[Cochran's Q Test]]"
   - "[[I-squared Statistic]]"
   - "[[True Experimental Design]]"
@@ -88,14 +89,14 @@ sources:
 part_of:
 status: draft
 created: 2026-08-24
-updated: 2026-08-25
+updated: 2026-10-16
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Abrami_2015_RER"
 argument_key: "Argument_Abrami_2015_RER"
 argument_display_title: "Strategies for teaching students to think critically: A meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 55
+argument_related_count: 56
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -216,7 +217,7 @@ issuing_organization: ""
 > 4. **干预时长** 从数天内的短期强化（$g+ = 0.66$）、中期干预（$g+ = 0.33$）到一学期（$g+ = 0.27$）及长程教学（$g+ = 0.23$），干预均产生持续成效。（pp. 292–293）
 
 > [!ma-table]- 表 1A 与表 1B：通用批判性思维效应量在出版类型与研究设计中的分布
-> | 调节[[Variable\|变量]]维度 | 分类亚组 | 效应量数 $k$ | 汇总加权效应 $g+$ | 95% CI 下限 | 95% CI 上限 | 组内异质性 [[Cochran's Q Test\|Cochran's Q]] ($Q_w$) | 组内 [[I-squared Statistic\|I² 统计量]] ($I^2$) | 组间检验 $Q_b$ (df, $p$) |
+> | 调节[[Variable\|变量]]维度 | 分类亚组 | 效应量数 $k$ | 汇总加权效应 $g+$ | 95% [[Confidence Interval\|CI]] 下限 | 95% CI 上限 | 组内异质性 [[Cochran's Q Test\|Cochran's Q]] ($Q_w$) | 组内 [[I-squared Statistic\|I² 统计量]] ($I^2$) | 组间检验 $Q_b$ (df, $p$) |
 > |---|---|---|---|---|---|---|---|---|
 > | **出版类型**<br>(Table 1A) | 期刊论文（Journal Articles） | 188 | 0.28 | 0.22 | 0.35 | 663.26 ($p < .001$) | 71.81% | $Q_b(2) = 1.02$ ($p = .60$) |
 > | | 著作章节/会议论文（Book/Conference） | 36 | 0.30 | 0.17 | 0.44 | 127.81 ($p < .001$) | 72.62% | |

@@ -8,7 +8,7 @@ aliases:
 summary: "以真实驱动性问题为核心、以持续协作探究为路径、以生成并公开展示真实制品为导向的学生中心教学模式，能显著激发创造力与高阶思维，但高度依赖认知脚手架与自我调节能力。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 32
+related_count: 33
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -49,6 +49,7 @@ related_theories:
 related_methods:
   - "[[Design-Based Research]]"
   - "[[Meta-analysis]]"
+  - "[[Confidence Interval]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -59,7 +60,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-05
-updated: 2026-09-23
+updated: 2026-10-16
 ---
 
 # Project-Based Learning
@@ -191,7 +192,7 @@ updated: 2026-09-23
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
+> | 一阶元分析 | 当前概念角色 | 对应亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% [[Confidence Interval\|CI]] | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 教学组织模式（干预环境） | [[Generative Artificial Intelligence\|生成式人工智能]]干预下的学生[[Higher-Order Thinking Skills\|高阶思维]]培养（项目式学习亚组） | 31 / — | $g = 0.717$ [0.507, 0.928] | $Q_b = 2.918, df = 2, p = 0.232$（全模型组间检验） | 亚组效应达中到大水平且高度显著（$Z = 6.674, p < 0.001$）；三分类教学模式整体组间检验未达显著，但项目式学习效应量明显高于传统讲授式教学；实证研究高度向探究设计倾斜。 |
 

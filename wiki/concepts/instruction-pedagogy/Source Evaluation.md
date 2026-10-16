@@ -190,7 +190,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]]教学干预框架[[Interaction Effect\|调节效应]]检验
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色 | [[Framework for Teaching\|教学框架]]亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% CI | 正式组间检验 | 解释边界 |
+> | 一阶元分析 | 当前概念角色 | [[Framework for Teaching\|教学框架]]亚组 | 证据规模 $k$ / $N$ | 亚组汇总效应与 95% [[Confidence Interval\|CI]] | 正式组间检验 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 教学干预模式 | [[Inquiry-Based Learning\|指导式探究]]（Guided Inquiry） | 14 / 2,139 | $d = 0.808$ [0.457, 1.159] | — | 提供明确步骤指导与[[Variable\|变量]]控制支架 |
 > | 同上 | 教学干预模式 | 信源评估（Source Evaluation） | 2 / 182 | $d = 0.800$ [0.625, 0.974] | — | 显性讲授信息源资质与可[[Reliability\|信度]]鉴别规则 |

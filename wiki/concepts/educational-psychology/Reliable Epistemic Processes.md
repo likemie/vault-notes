@@ -8,7 +8,7 @@ aliases:
 summary: "在认识论认知AIR模型中，用于生成可信、有效认识产出的因果性认识过程及其适用与保障条件。"
 type: concept
 domain: "educational-psychology"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -48,6 +48,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Blinding]]"
   - "[[Systematic Review]]"
+  - "[[Confidence Interval]]"
   - "[[Effect Size]]"
   - "[[Discourse Analysis]]"
   - "[[Sample Size Determination]]"
@@ -202,7 +203,7 @@ updated: 2026-10-16
 > [!ma-table]- 一阶[[Meta-analysis\|元分析]][[Framework for Teaching|教学框架]]对可靠[[Epistemology\|认识论]]过程的干预效应
 > <span class="concept-meta-analysis-table-marker" aria-hidden="true"></span>
 >
-> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与检验 | 关键解释边界 |
+> | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与检验 | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预措施分类：显性可靠过程教学（[[Inquiry-Based Learning\|指导式探究]]与[[Source Evaluation\|信源评估]]） vs 开放非结构化探究（PBL 与自由论证） | 28 篇（59 个[[Effect Size\|效应量]]） / 4,373 | Cohen's $d$，随机效应模型 | 指导式探究 $d = 0.808$ $[0.518, 1.098]$；信源评估 $d = 0.800$ $[0.625, 0.974]$；PBL $d = 0.340$ $[-0.007, 0.687]$；开放论证 $d = 0.134$ $[-0.321, 0.589]$ | 框架组间差异 $Q_b = 17.491, p < .01$ | 实证证实显性示范并讲授可靠认知检验规程能产生高效应，而缺乏指导的自主探究效果微弱且未达显著性 |
 
