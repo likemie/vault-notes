@@ -8,7 +8,7 @@ summary: "加拿大裔美国社会学家，微观社会学与拟剧论先驱；�
 type: person
 nationality: global
 person_region: "global"
-person_related_count: 11
+person_related_count: 12
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -37,6 +37,7 @@ related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
 confidence: medium
 status: draft
 created: 2026-10-07
@@ -60,7 +61,7 @@ updated: 2026-10-16
 
 > [!work-line] 主要著作
 > - **1961 — *Asylums*** 列出[[Total Institution|全控机构]]的主要特征，并以精神病院储物叙事呈现私人空间与财物支配受限的生活条件；后续被引申为批判顶尖高校封闭式行政文化的概念工具。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §31.3)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 64–65)]]
-> - **1959 — *The Presentation of Self in Everyday Life*** 奠定拟剧论基础，分析社会互动中的前台、后台与印象管理。
+> - **1959 — *The Presentation of Self in Everyday Life*** 奠定拟剧论基础，分析社会互动中的前台、后台与印象管理。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch01)]]
 
 ---
 
@@ -75,7 +76,7 @@ updated: 2026-10-16
 
 > [!influence-path] 影响路径
 > - **教育研究应用** 通过比较精神病院、[[Boarding Schools|寄宿学校]]与现代精英大学的共同特征，使熟悉的学校生活重新成为分析对象。共同日程、私人空间、物品控制、成员分隔和沟通机会由此成为观察问题。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31|(Cohen et al., 2011, §31.3)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 64–65)]]
-> - **理论传统** 深化了[[Symbolic Interactionism|符号互动论]]，为微观社会学[[Qualitative Observation|田野观察]]与日常互动分析提供了核心工具。
+> - **理论传统** 深化了[[Symbolic Interactionism|符号互动论]]，为微观社会学[[Qualitative Observation|田野观察]]与日常互动分析提供了核心工具。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch01)]]
 
 ---
 

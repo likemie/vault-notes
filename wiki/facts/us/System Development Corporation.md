@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-05
+updated: 2026-10-16
 ---
 
 # System Development Corporation
@@ -113,7 +113,7 @@ updated: 2026-10-05
 > [!finding-cards] 关键成效与辐射影响
 > - **充当美国软件工业的“程序员大学”** SDC 在承担 [[Sage]] 软件开发过程中，扮演了全美最早也最具规模的程序员大学角色，为原本缺乏正规计算机高等教育的美国系统性培育了数百至数千名掌握复杂系统架构的先驱软件人才，构筑了战后全美软件工业的基石。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 37)]]
 > - **奠定现代软件工程方法论** SDC 在应对 [[Sage]] 软件危机过程中探索出的需求分析、版本管理与模块化回归测试流程，成为全球软件工程学科的实践源头。
-> - **军工系统软件技术向早期商业大型系统溢出** SDC、IBM、TRW 及休斯等承包商在 SAGE 等军工合同中淬炼出的超大规模实时系统架构和数据交互技术诀窍，迅速向民用商业系统外溢，直接催生了以美航 Sabre 民航客票联机预订系统为代表的早期民用大型软件工程。
+> - **军工系统软件技术向早期商业大型系统溢出** SDC、IBM、TRW 及休斯等承包商在 SAGE 等军工合同中淬炼出的超大规模实时系统架构和数据交互技术诀窍，迅速向民用商业系统外溢，直接催生了以美航 Sabre 民航客票联机预订系统为代表的早期民用大型软件工程。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 37)]]
 > - **催生美国商业软件产业生态** SDC 训练出的大批软件工程师离职创业或加盟成熟厂商，直接促成了 IBM 等硬件大厂在 1969 年实现软硬件解绑（Unbundling），加速了独立软件提供商（ISV）生态的繁荣。[[Argument_Mowery_2011_NBER|(Mowery, 2011, p. 178)]]
 > - **实证支持任务导向[[Human Capital Theory|人力资本理论]]** SDC 的经验证实：在全新技术[[Paradigm|范式]][[Emergence|涌现]]期，正规大学教育往往滞后；国家重大工程驱动的专业研发机构能够承担起超常规通用技能培训的公共品职能。[[Argument_Schnee_1978_RP|(Schnee, 1978, p. 19)]]
 

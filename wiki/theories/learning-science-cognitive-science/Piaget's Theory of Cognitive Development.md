@@ -203,7 +203,7 @@ updated: 2026-10-16
 
 > [!theory-use] 如何用于研究与实践
 > - **指导发展适宜性教学实践（Developmentally Appropriate Practice, DAP）** 依据学生的认知发展阶段配置教学材料，在低学段强调动手实物操作，在高小学段把握抽象运算转型窗口设计支架。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026)]]
-> - **解释技术中介的促学敏感区间** 在教育技术与[[Meta-analysis\|元分析]]实证研究中，运用阶段论解释为何不同学段对自适应[[AI Agent in Education\|智能体]]的促学反应存在显著组间[[Heterogeneity\|异质性]]（$Q_B = 12.97, p = .005$）。
+> - **解释技术中介的促学敏感区间** 在教育技术与[[Meta-analysis\|元分析]]实证研究中，运用阶段论解释为何不同学段对自适应[[AI Agent in Education\|智能体]]的促学反应存在显著组间[[Heterogeneity\|异质性]]（$Q_B = 12.97, p = .005$）。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026)]]
 > - **作为认知诊断与神经对齐框架** 结合[[Executive Function\|执行功能]]三成分与前额叶发育指标，诊断儿童在[[Attentional Inertia\|注意力惯性]]、[[Working Memory\|工作记忆]]更新与逻辑推理中的发展滞后。[[Argument_Bolton_2017_ArchPsych\|(Bolton & Hattie, 2017)]]
 
 ---

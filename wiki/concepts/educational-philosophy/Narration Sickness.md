@@ -80,7 +80,7 @@ updated: 2026-10-16
 > [!feature] 核心要素
 > - **词汇异化（Verbal Alienation）** 宣讲内容脱离受教者切身生存现实（如强迫贫困农民抄写脱离现实的“伊娃看到了葡萄”）。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 45)]]
 > - **主客二分（Subject-Object Dichotomy）** 教师垄断绝对知识所有权，将学生判定为无知的“空白知者”。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 46)]]
-> - **机械存贮（Mechanical Depositing）** 衡量学习成功的标准被简化为存储容量与再现准确度。
+> - **机械存贮（Mechanical Depositing）** 衡量学习成功的标准被简化为存储容量与再现准确度。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, p. 45)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid

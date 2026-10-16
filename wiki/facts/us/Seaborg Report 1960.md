@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Seaborg Report 1960
@@ -59,7 +59,7 @@ updated: 2026-10-15
 
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1960 年 11 月由美国[[President's Science Advisory Committee|总统科学顾问委员会]]（President's Science Advisory Committee, PSAC）正式发布，报告由诺贝尔化学奖得主、加利福尼亚大学伯克利分校校长格伦·西博格（Glenn T. Seaborg）领衔的主题专家小组起草完成。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 15)]]
-> - **适用地区 / 对象** 美国联邦行政分支、国会拨款委员会、全美主要[[Research Universities|研究型大学]]与医学院管理层。
+> - **适用地区 / 对象** 美国联邦行政分支、国会拨款委员会、全美主要[[Research Universities|研究型大学]]与医学院管理层。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 15)]]
 > - **问题背景** 二战后至 1950 年代末，美国大学在冷战科技军备竞赛与苏联人造卫星（[[Sputnik Shock 1957|Sputnik]]）上天的剧烈震动下，迫切需要升级前沿科学与工程研发能力；然而联邦科研拨款间接成本过低、地方与新兴院校科研能力薄弱、高层次科研人员短缺等结构性瓶颈日益凸显。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 10–11, 15)]]
 > - **制度位置** 承接并重构了 1945 年范内瓦·布什（[[Vannevar Bush]]）的《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》，标志着美国科学政策议程从“二战战时体制善后”全面升级为“国家战略主导的大学科研能力系统性大扩张”。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 15–17)]]
 
@@ -77,7 +77,7 @@ updated: 2026-10-15
 >   1. **间接费率放开** 打破战后 15% 的间接成本上限，建立完全成本补偿通道；
 >   2. **薪资列支合法化** 允许大学将终身教职及新招聘教师的学年薪水直接计入联邦竞争性项目预算；
 >   3. **机构能力建设计划** 创设跨学科前沿科学中心专项基金。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 15–16)]]
-> - **人才培养审慎规约** 明确建言限制导师以科研项目助研岗位绑定研究生，主张扩大独立政府奖学金以维护研究生的[[Academic Freedom|学术自由]]与健全成长。
+> - **人才培养审慎规约** 明确建言限制导师以科研项目助研岗位绑定研究生，主张扩大独立政府奖学金以维护研究生的[[Academic Freedom|学术自由]]与健全成长。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 15)]]
 
 > [!citation-card] 西博格报告论软钱职位对学术共同体的异化警告
 > 如果一所大学仅仅依赖具体的联邦项目资助来设立永久性教授职位，而在联邦资金断绝时拒绝承担任何兜底保障责任，就会制造出一种极其令人不满的“二等公民”教职阶层，我们对此坚决表示反对。[[Argument_Stephan_2013_NBER|(Stephan, 2013, p. 17)]]

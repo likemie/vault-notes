@@ -119,7 +119,7 @@ updated: 2026-10-16
 > - **古希腊时期（[[Socrates\|苏格拉底]]与[[Plato\|柏拉图]]）**
 >   苏格拉底既是“叮咬雅典城邦这匹肥硕惰马的牛虻”，也是执行严密智识审视的[[Sage\|圣人]]与[[Avatar\|化身]] [[Argument_Li_2012_Cambridge\|(Li, 2012, p. 33)]]；柏拉图则将省察体系化为辩证法（Dialectic）。
 > - **漫长的中世纪（信仰抑制与[[Faust\|浮士德]]式反抗）**
->   教条权威盛行使公开省察一度沉寂，但[[Faust\|浮士德]]式的勇于探究未知精神仍在文学与文化隐喻中得以延续。
+>   教条权威盛行使公开省察一度沉寂，但[[Faust\|浮士德]]式的勇于探究未知精神仍在文学与文化隐喻中得以延续 [[Argument_Li_2012_Cambridge\|(Li, 2012, p. 33)]]。
 > - **启蒙时代（[[Jean-Jacques Rousseau\|卢梭]]的批判与独立学习者）**
 >   [[Jean-Jacques Rousseau\|卢梭]]在《爱弥儿》中对传统教育发起猛烈抨击，指责文明社会破坏了人类的自然倾向，提出[[Ideal Learner\|理想学习者]]爱弥儿应保持自然好奇与独立思考，为现代儿童中心论奠基 [[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 33–34)]]。
 > - **现代与当代（[[Active Learning\|主动学习]]与[[University Motto\|大学校训]]）**
@@ -149,7 +149,7 @@ updated: 2026-10-16
 > [!debates] 学术争议
 >
 > > [!axis] 古典省察的精英主义局限（[[Plato\|柏拉图]]护卫者 vs 全员[[Active Learning\|主动学习]]）
-> > 杜威与 [[Argument_Darwish_2009_Queens|Darwish (2009)]] 指出，柏拉图与[[Aristotle\|亚里士多德]]虽然开创了省察生活，但将其严格限定于“护卫者”精英阶层，并将奴隶与女性排除在外 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 2–5)]]。现代[[Active Learning\|主动学习]]必须超越这种精英主义局限，将[[Freedom of the Learner\|学习者的自由]]与省察权利还给每一个学习者。
+> > [[John Dewey|杜威]]与 [[Argument_Darwish_2009_Queens|Darwish (2009)]] 指出，柏拉图与[[Aristotle\|亚里士多德]]虽然开创了省察生活，但将其严格限定于“护卫者”精英阶层，并将奴隶与女性排除在外 [[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 2–5)]]。现代[[Active Learning\|主动学习]]必须超越这种精英主义局限，将[[Freedom of the Learner\|学习者的自由]]与省察权利还给每一个学习者。
 >
 > > [!axis] [[Socrates\|苏格拉底]]无情反诘的跨文化适用性
 > > 在《优绪弗洛》中，苏格拉底“完全不关心对方被逼到墙角的感受”的无情追问风格，在儒家或关系导向文化中可能被视为破坏尊师重道与社会和谐的行为，而非[[Effective Teaching\|有效教学]] [[Argument_Li_2012_Cambridge\|(Li, 2012, pp. 51–53)]]。

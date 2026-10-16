@@ -39,7 +39,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-10-03
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Institutionalising Social Learning
@@ -83,7 +83,7 @@ updated: 2026-10-15
 
 > [!feature] 制度化社会学习的核心支柱
 > - **包容性多方参与平台（Inclusive Stakeholder Engagement）** 将高校科研人员、政策制定者、企业、社区公众及非政府组织纳入平等的对话协商平台，建立跨界合作信任。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 477)]]
-> - **共同愿景塑造（Collective Visioning）** 促使不同主体跳出短期利益纷争，围绕长期社会转型的根本价值与前瞻图景开展协作共创。
+> - **共同愿景塑造（Collective Visioning）** 促使不同主体跳出短期利益纷争，围绕长期社会转型的根本价值与前瞻图景开展协作共创。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 477)]]
 > - **认知框架重构（Framing & Reframing）** 通过科学证据整合与伦理[[Discourse|话语]]更新，将高度争议的公共议题转化为全社会能够达成共识的行动议程（如二手烟危害研究将吸烟由个人自由重构为公共健康保护）。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 481–483, 487)]]
 > - **早期探索性学习路径（Early Learning Approach）** 在研发实施早期资助大量多样化的小型探索性项目，通过广泛的社会与技术试错反馈识别可行方案，及时淘汰失效路径。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 486)]]
 

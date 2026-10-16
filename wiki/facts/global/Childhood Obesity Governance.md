@@ -32,7 +32,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-10-03
-updated: 2026-10-03
+updated: 2026-10-16
 ---
 
 # Childhood Obesity Governance
@@ -61,7 +61,7 @@ updated: 2026-10-03
 >   1. **教育与文化工具** 在学校课程中嵌入食品营养、烹饪技能与身体活动知识（Building Knowledge, Skills and Awareness around Food and Physical Activity）；
 >   2. **规制与标准工具** 制定严格的校园午餐与小卖部食品营养准入标准，限制高糖高脂食品针对儿童的广告营销；
 >   3. **经济财税工具** 开征软饮料行业糖税（Soft Drinks Industry Levy），税收专项用于支持学校体育设施与课后运动俱乐部；
->   4. **城市与交通规划** 建设安全步行与骑行通学道，打造无车化活动社区。
+>   4. **城市与交通规划** 建设安全步行与骑行通学道，打造无车化活动社区。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 480)]]
 > - **约束机制** 法定校园营养标准督导、含糖饮料阶梯式税收杠杆与地方政府公共卫生考核。
 
 > [!citation-card] 跨部门系统治理与学校教育嵌入
@@ -76,7 +76,7 @@ updated: 2026-10-03
 > [!timeline] 政策演进时间线
 > - 2000 世界卫生组织发布标志性报告《肥胖：预防与管理全球流行病》，正式将肥胖界定为全球公共卫生流行病。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 479)]]
 > - 2011 《柳叶刀》（*The Lancet*）发表全球肥胖治理系列研究，确立从个人责任转向系统性环境与教育干预的共识。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 480)]]
-> - 2016 英国政府发布《儿童肥胖行动计划》（*Childhood Obesity: A Plan for Action*），提出开征软饮料糖税并要求学校保障每天至少 30 分钟中高强度身体活动。
+> - 2016 英国政府发布《儿童肥胖行动计划》（*Childhood Obesity: A Plan for Action*），提出开征软饮料糖税并要求学校保障每天至少 30 分钟中高强度身体活动。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, p. 480)]]
 > - 2020 伊里斯·万岑伯克（Iris Wanzenböck）等人在《科学与公共政策》中将儿童肥胖治理作为使命政策“寻找方案的问题”（第二象限）的代表性案例展开深入剖析。[[Argument_Wanzenbock_2020_SPP|(Wanzenböck et al., 2020, pp. 479–480)]]
 
 ---

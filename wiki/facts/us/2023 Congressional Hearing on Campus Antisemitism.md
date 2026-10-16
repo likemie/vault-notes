@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # 2023 Congressional Hearing on Campus Antisemitism
@@ -55,7 +55,7 @@ updated: 2026-10-08
 > - **时间跨度 / 空间地理** 2023 年 12 月 5 日；美国华盛顿特区国会山[[House Committee on Education and the Workforce|众议院教育与劳动力委员会]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 59–60)]]
 > - **核心当事主体** 哈佛[[Grandes Ecoles|大学校]]长克劳丁·盖伊（Claudine Gay）、宾夕法尼亚大学校长伊丽莎白·马吉尔（Elizabeth Magill）、麻省理工学院校长萨莉·科恩布鲁斯（Sally Kornbluth）、众议员埃莉斯·斯特凡尼克（Elise Stefanik）及知名律师事务所 WilmerHale。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 59–60, 64)]]
 > - **深层制度与社会背景** 2023 年 10 月中东冲突升级后，全美高校爆发激烈抗议示威与对峙，校园内针对特定族群的仇恨言论、骚扰与言论自由边界争端达到沸点。
-> - **直接导火索 / 触发事件** 国会委员会针对常春藤名校未能有效保护学生人身与心理安全、涉嫌纵容反犹仇恨言论发起正式质询。
+> - **直接导火索 / 触发事件** 国会委员会针对常春藤名校未能有效保护学生人身与心理安全、涉嫌纵容反犹仇恨言论发起正式质询。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 59–60)]]
 
 ---
 
@@ -64,7 +64,7 @@ updated: 2026-10-08
 > [!dev-timeline] 事件推进历程
 > - **2023-12-05 — 国会质询与法律合规话术交锋** 面对议员关于“呼吁对犹太人进行种族灭绝是否违反大学霸凌与骚扰行为准则”的直接追问，受知名律所 WilmerHale 辅导的三位校长给出高度一致、冰冷且程序化的合规答复，称“这是一个视情境而定的决断”（It is a context-dependent decision）。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 60, 64)]]
 > - **2023-12-06–12-09 — 全美舆论海啸与首位校长辞职** 听证会片段引发跨党派强烈谴责、捐赠人撤资狂潮与媒体声讨；宾夕法尼亚[[Grandes Ecoles|大学校]]长马吉尔在听证会后四天内被迫辞去校长职务。
-> - **2024-01 — 危机蔓延与哈佛校长辞职** 哈佛大学校长盖伊在持续的舆论风暴、抄袭指控与治理危机夹击下宣布辞职；事件演变为全美关于大学治理、种族多元平等（[[Diversity, Equity, and Inclusion|DEI]]）与学术道德的系统性大论战。
+> - **2024-01 — 危机蔓延与哈佛校长辞职** 哈佛大学校长盖伊在持续的舆论风暴、抄袭指控与治理危机夹击下宣布辞职；事件演变为全美关于大学治理、种族多元平等（[[Diversity, Equity, and Inclusion|DEI]]）与学术道德的系统性大论战。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch05|(Karp & Zamiska, 2025, pp. 60, 64)]]
 
 ---
 

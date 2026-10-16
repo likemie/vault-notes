@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Frascati Manual
@@ -53,7 +53,7 @@ updated: 2026-10-15
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 1963 年由[[OECD|经济合作与发展组织]]（OECD）科技政策专家组正式发布首版，弗里德里希等[[Evolutionary Economics|演化经济学]]者深度参与起草。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 9)]]
 > - **适用地区 / 对象** OECD 成员国政府科技统计部门、统计局、国家科研机构及跨国经济分析人员。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 9–10)]]
-> - **问题背景** 二战后各大国公共与企业科研经费急剧膨胀，但各国对“科研投入”统计口径不一，缺乏国际可比的标准化核算框架。
+> - **问题背景** 二战后各大国公共与企业科研经费急剧膨胀，但各国对“科研投入”统计口径不一，缺乏国际可比的标准化核算框架。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 9–10)]]
 > - **制度位置** 奠定了 OECD 科学技术指标体系（NESTI）的母体基石，后续衍生出衡量创新调查的《奥斯陆手册》（Oslo Manual）与专利统计的《专利手册》。
 
 ---
@@ -65,9 +65,9 @@ updated: 2026-10-15
 
 > [!policy-design]- 政策设计
 > - **政策目标** 消除各国在科技投入核算上的歧义，为跨国科学政策审议（Science Policy Reviews）提供统一客观的量化标尺。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 10)]]
-> - **适用对象** 国家统计机构、大学实验室、政府科研院所及工业企业的专业研发部门。
+> - **适用对象** 国家统计机构、大学实验室、政府科研院所及工业企业的专业研发部门。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 10)]]
 > - **统计工具** 明确划分基础研究（[[Blue Skies Research|Basic Research]]）、应用研究（Applied Research）与试验发展（Experimental Development）三大活动范畴，设计专职研发人员（FTE）与全口径研发支出核算表。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 9–10)]]
-> - **应用机制** [[OECD]] 定期汇编出版主权国家科技指标数据库，作为各成员国制定科技发展规划与年度预算拨款的核心依据。
+> - **应用机制** [[OECD]] 定期汇编出版主权国家科技指标数据库，作为各成员国制定科技发展规划与年度预算拨款的核心依据。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 10)]]
 
 ---
 
@@ -86,7 +86,7 @@ updated: 2026-10-15
 > [!actor-grid] 实施主体与角色
 > - **发端与维护机构** [[OECD]] 科学技术与创新局（DSTI）及国家科技指标专家组，负责全球标准的持续修订。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 10)]]
 > - **执行与填报机构** 各国国家统计部门（如英国中央统计局、[[National Science Foundation|美国国家科学基金会]] NSF、日本总务省统计局等）。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 11)]]
-> - **政策应用机构** 各国科技部与财政部，依据指标规划国家战略研发攻关课题。
+> - **政策应用机构** 各国科技部与财政部，依据指标规划国家战略研发攻关课题。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 10)]]
 > - **学术研究群体** 萨塞克斯大学科技政策研究所（SPRU）等创新经济学团队，利用该数据库开展跨国技术差距分析。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 9–10)]]
 
 ---

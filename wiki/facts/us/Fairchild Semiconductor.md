@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-10
+updated: 2026-10-16
 ---
 
 # Fairchild Semiconductor
@@ -78,7 +78,7 @@ updated: 2026-10-10
 
 > [!dev-timeline] 组织发展历程
 > - **1957–1960 — 军工与情报航电崛起与底层技术奠基** 专注于满足美国国防部、北美航空民兵洲际弹道导弹（Minuteman Missile）对极端耐高温与高[[Reliability|可靠性]]硅器件的严苛需求；同时自 1950 年代末起为美国中央情报局（CIA）的日冕（Corona）间谍侦察卫星研发制造机载光学与电子侦察设备。让·赫尔尼发明平面工艺，罗伯特·诺伊斯提出单片集成电路方案，军方采购成为微芯片技术的最早主要市场。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 182–184)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–4)]]
-> - **1960–1967 — 商业市场转向与大规模制造革命** 面对国防单一来源合同取消与价格重审，果断转向民用计算机与大众电子市场。引入大规模生产管理，实施前瞻性剧烈降价，建立[[Application Engineering|应用工程]]部，设立香港离岸[[Assemblage|组装]]厂（开启全球半导体封装向亚洲转移的先河），发明[[Dual In-Line Package|双列直插封装]]（DIP），在 1968 年拿下全美计算机集成电路市场约 80% 的份额，使早期个人计算设备的硬件基础成为可能。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 184–207)]]; [[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 88)]];
+> - **1960–1967 — 商业市场转向与大规模制造革命** 面对国防单一来源合同取消与价格重审，果断转向民用计算机与大众电子市场。引入大规模生产管理，实施前瞻性剧烈降价，建立[[Application Engineering|应用工程]]部，设立香港离岸[[Assemblage|组装]]厂（开启全球半导体封装向亚洲转移的先河），发明[[Dual In-Line Package|双列直插封装]]（DIP），在 1968 年拿下全美计算机集成电路市场约 80% 的份额，使早期个人计算设备的硬件基础成为可能。[[Argument_Lecuyer_1999_HT|(Lécuyer, 1999, pp. 184–207)]]; [[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 88)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 3–4)]]
 > - **1968–1980年代 — 硅谷创业母体与衍生企业繁衍（Fairchildren）** 核心创始人与高管陆续离职自主创业，直接孕育了英特尔（Intel，1968年诺伊斯与摩尔创立）、超微半导体（Advanced Micro Devices, AMD，1969年桑德斯创立）及国家半导体（National Semiconductor）等数十家芯片领军企业，催生了硅谷去中心化创业生态与产业[[Vertical Disintegration|纵向离散]]雏形。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 12–13, 18–19)]]; [[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 83)]]
 > - **1986–1987 — 富士通收购风波与国家安全审查里程碑** 1980 年代日美半导体竞争白热化之际，日本富士通公司（Fujitsu）于 1986 年达成协议拟收购仙童半导体 80% 股权；该交易引发美国国防部与商务部关于关键先进半导体技术外流的强烈恐慌，里根政府最终于 1987 年施压叫停该收购，直接催生了美国外国投资委员会（CFIUS）国家安全审查法制化进程。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 85)]]
 

@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Convergent Thinking
@@ -117,7 +117,7 @@ updated: 2026-10-15
 > - **规则遵循与逻辑演绎（Rule Following & Deduction）** 严格依照形式逻辑、数学公理或领域规范展开自顶向下或自底向上的因果推演。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 3–4)]]
 > - **信息筛选与证据权衡（Evidence Screening & Evaluation）** 辨析相关信息与无关干扰，评估证据真实性、论据支持力度与潜在偏见。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 2–3)]]; [[Argument_Li_2026_CEAI\|(Li et al., 2026, p. 6)]]
 > - **方案比较与排他性收敛（Alternative Comparison & Elimination）** 对多个候选假设进行对照排查，逐步剔除矛盾选项并收敛至唯一最优解。
-> - **[[Metacognition\|元认知监控]]与查错修正（Metacognitive Scrutiny & Error Detection）** 在收敛过程中持续检验推理步骤的前后自洽性，主动识别并修正逻辑断层与AI 事实幻觉。
+> - **[[Metacognition\|元认知监控]]与查错修正（Metacognitive Scrutiny & Error Detection）** 在收敛过程中持续检验推理步骤的前后自洽性，主动识别并修正逻辑断层与AI 事实幻觉。[[Argument_Li_2026_CEAI\|(Li et al., 2026, p. 6)]]
 
 > [!logic-map]- 聚合思维认知收敛机制与 AI 中介路径
 > ```mermaid

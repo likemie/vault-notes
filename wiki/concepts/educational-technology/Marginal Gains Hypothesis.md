@@ -96,7 +96,7 @@ updated: 2026-10-16
 > - **基线资源匮乏性（Baseline Scarcity）** 低 ICT 与低 SES 环境中，学生面临师资配比不足、个性化辅导缺失和数字教辅空白，导致其[[Academic Achievement\|学业表现]]长期受压抑。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, p. 18)]]
 > - **补偿性替代机制（Compensatory [[Scaffolding]]）** 生成式 AI 充当了个性化导师（Tutor）与练习同伴，以极低边际成本提供了以往只有精英阶层才能享有的全天候即时答疑与反馈。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 6, 18)]]
 > - **边际增益高敏感度（High Marginal Sensitivity）** 在近乎空白的数字化支持基础上，技术的单点突破便能迅速扫除初级学习障碍，驱动[[Effect Size\|效应量]]爆发式增长（$g^+ > 1.70$）。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 12–13, 18)]]
-> - **饱和边际[[Fade-out Effect\|效应衰减]]（Diminishing Returns in Saturated Contexts）** 高数字化与高 SES 环境已拥有完善的 LMS 平台、智能题库与充足师资，[[Generative Artificial Intelligence\|GenAI]] 的引入仅是对既有数字生态的局部边际改良，边际增益收敛于中等效应（$g^+ \approx 0.50$）。
+> - **饱和边际[[Fade-out Effect\|效应衰减]]（Diminishing Returns in Saturated Contexts）** 高数字化与高 SES 环境已拥有完善的 LMS 平台、智能题库与充足师资，[[Generative Artificial Intelligence\|GenAI]] 的引入仅是对既有数字生态的局部边际改良，边际增益收敛于中等效应（$g^+ \approx 0.50$）。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, p. 18)]]
 
 > [!logic-map]- 要素关系
 > ```mermaid

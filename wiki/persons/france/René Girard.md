@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # René Girard
@@ -112,7 +112,7 @@ updated: 2026-10-15
 > [!feature] 思想支柱
 > - **三角欲望结构（Triangular Desire）** 揭示欲望的三个支点：主体（Subject）、中介者/榜样（Mediator）与客体（Object）。客体本身通常不具备决定性物理差异，是中介者的选择赋予了其排他性吸引力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, p. 158)]]
 > - **模仿竞争与[[Scapegoat Mechanism|替罪羊机制]]（Mimetic Rivalry & Scapegoating）** 当群体相互模仿并争夺同一指标或赛道时，差异被抹平引发无差别冲突；群体往往通过集体迫害孤立的异端（替罪羊）暂时恢复虚假团结。
-> - **模仿的创造毒性与从无到有的突破** 模仿虽是学习的起点，但若停滞于此便会沦为创新的毒药；真正的重大创造必须克服同侪模仿的引力，在抵抗性共事中实现从无到有的决裂。
+> - **模仿的创造毒性与从无到有的突破** 模仿虽是学习的起点，但若停滞于此便会沦为创新的毒药；真正的重大创造必须克服同侪模仿的引力，在抵抗性共事中实现从无到有的决裂。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, p. 158)]]
 
 ---
 
