@@ -6,7 +6,7 @@ summary: "通过汇总多项独立初级研究的效应量来综合定量证据�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 117
+method_related_count: 118
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -45,12 +45,15 @@ related_concepts:
   - "[[Homework]]"
   - "[[Cargo Cult Science]]"
   - "[[Critique of Meta-analysis]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Data Infrastructure]]"
   - "[[Class Size]]"
   - "[[Academic Achievement]]"
   - "[[External Validity]]"
   - "[[Literature Review]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Scaffolding]]"
+  - "[[Direct Instruction]]"
   - "[[Causality]]"
   - "[[Epistemology]]"
   - "[[Empiricism]]"
@@ -130,6 +133,7 @@ related_arguments:
   - "[[Argument_Liu_2026_CHBR]]"
   - "[[Argument_Park_2026_TSC]]"
   - "[[Argument_Song_Choi_2026_FPSYG]]"
+  - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
   - "[[Argument_Johnson_2023_CE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
@@ -240,8 +244,9 @@ updated: 2026-10-16
 >    - **基线等效性前置筛查** 对纳入的准实验（[[Quasi-Experimental Designs\|QED]]）与高流失[[Randomised Controlled Trials\|随机对照试验]]，必须提取[[Pre-test and Post-test\|前测]]数据并计算[[Baseline Standardized Mean Difference\|基线等效性标准化均数差]] $d_{\text{baseline}}$。严格执行 WWC 2022 与 Slavin and Smith (2009) 门槛：$|d| > 0.25$ 者即刻剔除（两组潜在能力分布质性相异，[[Analysis of Covariance\|ANCOVA]] 统计校正失效），介于 $0.05$ 至 $0.25$ 之间者必须在模型中控制前测协[[Variable\|变量]]；无前测研究必须证明实施了严格的[[Random Assignment\|随机分配]]；
 >    - **实验设计与测度[[Incommensurability|不可通约性]]审查** 严格区分组间设计（Between-Subject）与组内/[[Repeated Measures Design|重复测量设计]]（Within-Subject）。组内设计标准差由于扣除了被试间方差且依赖测量间相关系数 $r$，其标准化效应量与组间设计不具备直接可[[Commensuration|通约]]性（Morris & DeShon, 2002），严禁在未经协方差矩阵调整的情况下直接简单合并；
 >    - **测量工具信效度审查** 排除测量工具与实验干预过度重叠的自利性自编测验，防范虚假效应量膨胀；
->    - **编码质控与量纲统一** 多名研究者独立进行特征与效应量编码，采用 Holsti（1969）[[Reliability\|信度]]公式（$R = \frac{nM}{\sum N_i}$）检验[[Intercoder Agreement\|编码者间一致性]]信度（通常要求 $R > 0.90$）；将不同[[Scale of Measurement\|测量尺度]]的初级研究结果转换为标准化的效应量（如 Hedges' $g$、Pearson $r$）并计算对应的抽样方差 $v_i$；小样本时采用 Hedges 校正因子消除正向偏倚。
-> 2. **加权合成与模型抉择** 依据精度倒数进行[[Inverse-Variance Weighting\|逆方差加权]]。若假定存在单一恒定真实效应，采用固定效应模型（$w_i = 1/v_i$）；若假定真实效应随人群和情境变化，采用随机效应模型（$w_i^* = 1/(v_i + \tau^2)$）以实现权重再平衡。详见 [[Fixed-Effect and Random-Effects Models]]。
+>    - **编码质控与量纲统一** 多名研究者独立进行特征与效应量编码，采用 Holsti（1969）[[Reliability\|信度]]公式（$R = \frac{nM}{\sum N_i}$）检验[[Intercoder Agreement\|编码者间一致性]]信度（通常要求 $R > 0.90$）；将不同[[Scale of Measurement\|测量尺度]]的初级研究结果转换为标准化的效应量（如 Hedges' $g$、Pearson $r$）并计算对应的抽样方差 $v_i$；小样本时采用 Hedges 校正因子消除正向偏倚；
+>    - **[[Standard Error\|标准误]]（SE）与标准差（SD）除数混淆防范与测度统一** 提取主要研究数据时必须严格辨别标准误（$\text{SE}$）与标准差（$\text{SD}$）。若误将 $\text{SE}$ 当作 $\text{SD}$ 作为分母除数，效应量将被虚假放大 $\sqrt{n}$ 倍（如 Eisenstaedt 案例因将 $\text{SE} = 1.65$ 作除数导致效应量自真实 $d \approx -0.80$ 畸变膨胀至 $-8.291$）；同时严格区分 Glass' $\Delta$（仅以对照组 SD 为除数）与 Cohen's $d$ / Hedges' $g$（以合并 SD 为除数），在方差不齐时必须规范换算，严禁直接混装合并。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 26–27)]]
+> 2. **加权合成与模型抉择** 依据精度倒数进行[[Inverse-Variance Weighting\|逆方差加权]]。若假定存在单一恒定真实效应，采用固定效应模型（$w_i = 1/v_i$）；若假定真实效应随人群和情境变化，采用随机效应模型（$w_i^* = 1/(v_i + \tau^2)$）以实现权重再平衡。必须严格遵循逆方差加权规则，严禁对初级研究直接进行简单算术平均（如 Levie & Lentz, 1982），否则将破坏高斯-马尔可夫最佳线性无偏估计（BLUE）性质，导致标准误被系统性低估。详见 [[Fixed-Effect and Random-Effects Models]] 与 [[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 28, 30)]]。
 > 3. **[[Heterogeneity\|异质性]]检验与三联量化** 
 >    - **假设检验** 通过 Cochran's [[Cochran's Q Test\|Q 检验]]（$Q \sim \chi^2_{k-1}$）判定效应量离散是否显著超出抽样随机误差；
 >    - **绝对尺度** 通过研究间方差（$\tau^2$）度量跨研究真实效应的绝对方差；
@@ -325,13 +330,21 @@ updated: 2026-10-16
 >    - *[[PICO Framework|PICO]] 准入红线与[[Construct|构念]]混淆* [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] 针对二阶综合的[[Metascience|元科学]]审计表明，若缺乏对初级元分析 [[PICO Framework|PICO]] 四要素（尤其是干预措施与对照组性质）的严格准入筛选，会导致严重异质的干预（如探究教学 vs 传统讲授、翻转课堂 vs 课后阅读）被机械混装，使合成结果沦为假性精确的宏观数字游戏。
 > 2. **输入质量[[Determinism\|决定论]]（“垃圾进，垃圾出”）** 低质量、高偏倚的初级研究合并后不仅不能相互抵消，反而会产生虚假的“高精度错误估计”（Slavin, 1984; [[Argument_Berk_2011_ER\|Berk, 2011]]）。
 >    - *现代破局防线* 当代循证元分析（如 [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung, 2025]]）通过确立严格的前端实验设计准入门槛（[[Sample Size Determination\|样本量]]每组 $\ge 15$、设立对照组、[[Baseline Standardized Mean Difference\|基线等效性]] $d_{\text{baseline}} < 0.25$），构建了抵御低质偏倚的方法学防火墙；实证研究证实该门槛能有效消除准实验与 RCT 之间的系统性效应差异（$Q_B$ 组间异质性检验不显著），实现证据池的源头净化。
+>    - *商业学术出版体制与数据黑箱* [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, pp. 34–35)]] 实证指出，商业学术期刊体制构成了科学综合的制度性阻碍：强烈的[[Publication Bias|发表偏倚]]与抽屉效应导致大量零效应或负效应被隐藏；版面限制迫使初级研究普遍省略实验组与对照组的精确样本量（$n_E, n_C$）与标准差，形成不可查证的数据黑箱，导致后续元分析在提取端即遭系统性数据污染。
 > 3. **统计独立性假设违背** 同一研究提供多重结局测量造成数据嵌套依赖，人为虚窄[[Standard Error\|标准误]]（Wolf, 1986; Cheung, 2014）。
 > 4. **平均效应掩盖[[Heterogeneity\|异质性]]与因果机制** 平均[[Effect Size\|效应量]]无法回答“干预对谁有效、在何种情境下有效”，可能掩盖高达 38% 的负向效应子群（Kluger & DeNisi, 1996; [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019]]）。
 > 5. **政策工具排名的伪精确性与二阶[[Replication in Education Research|复现危机]]** 将效应量简化为《[[Visible Learning\|可见的学习]]》气压计或排行榜，误导教育资源配置（[[Argument_Wiliam_2019_ERE\|Wiliam, 2019]]; [[Argument_Simpson_2017_JEP\|Simpson, 2017]]）；全库数据审计证实粗放二阶[[Meta-meta-analysis|元综合]]的数据提取可复现率不足 1%，且存在严重的选择性报告（[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025]]）。
 >    - *隐藏公式与无加权简单算术平均陷阱* [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]] 进一步揭示，当元综合脱离严格的[[Inverse-Variance Weighting|逆方差加权]]规范，将样本量悬殊的一级元分析进行无加权简单算术平均并隐去数学公式时（如以 5 项一级文献简单均值得出[[Homework|家庭作业]] $d=0.29$），不仅抹杀了关键学段差异（小学 $d=0.15$ vs. 高中 $d=0.64$），更演变为披着科学外衣的[[Cargo Cult Science|货物崇拜科学]]（Cargo Cult Science），对教育实践构成数字霸凌。
+>    - *两级固定效应代数等价性崩溃与文献重叠陷阱* [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, pp. 25, 29–30)]] 从数学公理证明，元分析合成有效性的充要条件是初级研究互不重叠；当不同元分析高度共享底层文献（如 Olson & Wisher 与 Sitzmann et al. 存在 93.3% 重叠）时，经典方差公式彻底失效，导致联合标准误虚假收缩与排名剧烈波动（网络学习去重加权后 $d$ 自 $0.59$ 暴跌至 $0.23$，排名从第 26 位骤降至第 98 位并跌破 $d = 0.40$ 关节点）。
 > 6. **微弱效应量与常态对照基线（Micro-effects & High-Quality Control Baseline）** Lortie-Forgues and Inglis (2019) 重新分析 141 项英美大型教育 [[Randomised Controlled Trials\|RCT]]（涵盖逾 120 万名学生），指出平均合并效应量仅为 $d = 0.06$（[[Confidence Interval\|置信区间]]平均宽度达 $0.30$ SD），据此质疑试验“缺乏信息量”。然而，超大样本量极大提升了统计推断精度，微弱效应量实质映射出学校现存[[Business as Usual\|常态教学]]（business as usual）的高水准专业基线；元分析在合成证据时不仅要识别正向效应，更必须重视“证明何者无效”对破除商业噱头与保护紧缺公共资金的去魅价值（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 56–57]]）。
 >
 > 🔗 **完整命题论证、学者辩论与 11 项质量审查清单参见独立深度条目：[[Critique of Meta-analysis]]**。
+
+> [!pathways] [[Evidence-Based Education|循证教育]]元分析[[Data Infrastructure|数据基础设施]]的制度性重构：中央标准化证据数据库（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）
+> 1. **脱离商业学术期刊的强制透明归档** 凡接受公共财政资助的教育实证研究，无论结果是否统计显著、是否见刊发表，均须强制上传原始研究数据集。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 35–36)]]
+> 2. **全行业统一定量效应量测度** 全库统一采用无偏标准化的 Hedges' $g$，终结 Cohen's $d$、Glass' $\Delta$ 与相关系数等不同指标在未转换下的混乱拼凑。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 35–36)]]
+> 3. **全面公开主要研究完整数据矩阵** 强制披露各组精确样本量（$n_E, n_C$）、均值、标准差与实施情境[[Variable|变量]]，彻底消除数据黑箱与猜想式推算。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 35–36)]]
+> 4. **从脆弱的二级拼凑转向一级大样本直接元分析** 绕过存在大量提取失误与重叠依赖的一阶元分析中间层，直接基于全量透明的原始主要研究开展大规模直接逆方差加权综合。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 35–36)]]
 
 ---
 
@@ -352,6 +365,11 @@ updated: 2026-10-16
 > - **高[[Reliability\|信度]]因果证据基底** 该项[[Meta-meta-analysis\|二阶元分析]]发表于 *Computers & Education*，综合了 2000 年以来全球 92 项实验与准[[Experimental Research\|实验研究]]（$k = 92, N = 44{,}527$），确立数字化工具对学业成绩（$g = 0.65, p < .001$）与学科态度（$g = 0.45$）的显著中等促进效应，并揭示教师专业培训是关键正向调节变量。
 > - **中介降维与实践指南加工** 德国教学研究清算中心（[[Clearing House Unterricht\|CHU]]）将该篇高度复杂的 20 页英文计量文献解构重塑为面向中小学教师的实践简评（Kurzreview）：将学术标题改写为主张导向的实践问题，首页设计标准化核心参数框（METAANALYSE IM ÜBERBLICK），正文所有统计术语内嵌超链接至在线术语表（Online-Glossar），并依据认知功能将繁杂工具系统归纳为六大类（操练软件、[[Intelligent Tutoring Systems\|智能辅导系统]]、模拟建模工具、超媒体系统、教育游戏、协作互动工具），实现了从严谨统计合成向低认知负荷[[Scaffolding\|教学脚手架]]的高保真转译。（[[Argument_Knogler_2025_BB\|Knogler et al., 2025, pp. 14–15]]）
 
+> [!case] 元分析数据提取污染与伪[[Standard Error|标准误]]审查：[[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] 的计量法医级审计
+> - **混淆标准差与标准误致效应量虚增十倍** Gijbels et al. (2005) 纳入 Eisenstaedt et al. (1990) 研究单科成绩时，对照组均值 $80.21$、标准误 $\text{SE} = 1.65$（$n = 107$），实验组均值 $66.53$、标准误 $\text{SE} = 2.74$。元分析作者误将标准误 $1.65$ 当作标准差放进分母，得出畸变效应量 $d = -8.291$；而依标准差（$\text{SD} = \text{SE} \times \sqrt{n} \approx 17.07$）正确合并后的真实效应量仅为 $d \approx -0.80$。除数混淆使效应量被虚假放大十倍以上并直接污染后续综合。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, p. 27)]]
+> - **硬造伪标准误使核心教学法权重腰斩** Haas (2005) [[Direct Instruction|直接教学]]元分析报告 19 个效应量，离散标准差 $\text{SD} = 0.59$。后续宏观综合在缺失关键原始[[Sample Size Determination|样本量]]时，拿离散标准差除以 $\sqrt{19}$ 硬造伪标准误（$\text{SE} = 0.59/\sqrt{19} \approx 0.135$），致使其权重仅获 $W \approx 54.9$；而依原始样本量推算的真实标准误为 $0.092$（真实权重 $W \approx 118.1$），直接教学在总库中的有效权重被系统性削减了 53.5%。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 29–30)]]
+> - **93.3% 极端文献重叠引发排名虚假繁荣** Olson and Wisher (2002) 网络学习元分析包含的 15 项主要研究中有 14 项（重叠率 93.3%）与另一项元分析完全重复。在忽略重复且未加权平均下综合效应量达 $d = 0.59$（高居全库第 26 位）；而在剔除重复并执行[[Inverse-Variance Weighting|逆方差加权]]后真实效应量骤降至 $d = 0.23$（排位暴跌 72 位至第 98 位并跌破 $0.40$ 关节点），证实原始数据提取与重叠审查是决定元分析推断有效性的生命线。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, p. 30)]]
+
 ---
 
 ## 相关理论与方法
@@ -371,6 +389,7 @@ updated: 2026-10-16
 > | [[Forest Plot]] | 可视化工具 | 展示研究效应量点估计与[[Confidence Interval\|置信区间]]的标准图表 |
 > | [[Funnel Plot]] | 可视化工具 | 诊断[[Publication Bias\|发表偏倚]]与[[Small Study Effects\|小研究效应]]的散点图 |
 > | [[Critical Realism]] | [[Epistemology\|认识论]]基础 | 批判实在论对元分析[[Empiricism\|经验主义]]平均值假设的哲学批判 |
+> | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 方法论审查与公理推导 | 严格推导两级固定效应模型代数等价性定理，基于实证案例揭示一级数据提取污染（SE/SD 混淆）与二级伪[[Standard Error\|标准误]]对元分析合成有效性的颠覆机制，提出中央标准化证据数据库方案。 |
 
 ---
 
@@ -393,3 +412,4 @@ updated: 2026-10-16
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] 探讨[[Meta-meta-analysis\|二阶元分析]]与证据合成在英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）实践中的制度化应用；系统回应 Lortie-Forgues and Inglis (2019) 对 141 项大型教育 [[Randomised Controlled Trials\|RCT]] 平均微弱效应量（$d = 0.06$）的批评，阐明大样本精度、[[Business as Usual\|常态教学]]高基线以及实时动态数据库对消解元分析证据异质性（Heterogeneity）的治理机制。
 > - [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] 依据 [[PICO Framework|PICO]] 框架对教育元分析证据库开展首个[[Preregistration|预注册]]质量审计，剖析了对照组性质混淆（活跃对照 vs 照常对照）、组内与组间设计直接混用（Morris & DeShon 难题）对效应量可比性的破坏，确立了元分析[[Access and Acceptance in Research|研究准入]]与效应量提取透明度的[[Metascience|元科学]]标准。
 > - [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] 从元分析的方法论透明度与计算规范出发，系统解构了《[[Visible Learning|可见的学习]]》所运用的二阶元综合技术，深入揭露其隐藏计算公式、对异质性元分析实施无加权简单算术平均、以及对 Glass and Smith (1979) [[Class Size|班级规模]]经典元分析进行失真提取的[[Cargo Cult Science|货物崇拜科学]]特征。
+> - [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] 从固定效应数学公理推导出两级元分析代数等价性定理（$D = \bar{d}, v_D = v_{\bar{d}}$），系统剖析了一级元分析中[[Standard Error|标准误]]误作标准差导致效应量虚增十倍（Eisenstaedt 案例）、未加权平均以及严重文献重叠（Olson & Wisher 93.3% 重叠）对综合推断的破坏机制，提出建立中央标准化证据数据库并转向基于原始主要研究的一级大样本直接综合。（pp. 24–30, 35–36）

@@ -54,6 +54,8 @@ related_concepts:
   - "[[Zone of Desired Effects]]"
   - "[[Dependent Variable]]"
   - "[[Independent Variable]]"
+  - "[[Inquiry-Based Learning]]"
+  - "[[Incommensurability]]"
   - "[[Predictive Validity]]"
   - "[[Academic Achievement]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -98,6 +100,7 @@ related_methods:
   - "[[Random Sampling]]"
   - "[[Comparative Meta-synthesis]]"
   - "[[Transcription in Qualitative Research]]"
+  - "[[Between-Study Variance]]"
   - "[[Effect Size Conversion]]"
 related_instruments:
   - "[[AMSTAR]]"
@@ -284,25 +287,47 @@ updated: 2026-10-16
 
 ### 步骤一：固定效应二级汇总的经典等价性原理与独立性约束
 
-> [!formula-step] 公式步骤　固定效应二级汇总等价性定理
-> $$d_{\text{second}} = \frac{\sum_{j=1}^{m} w_j d_j}{\sum_{j=1}^{m} w_j} = \frac{\sum_{j=1}^{m} \left(\sum_{i=1}^{k_j} w_{ji}\right) d_j}{\sum_{j=1}^{m} \left(\sum_{i=1}^{k_j} w_{ji}\right)} = \frac{\sum_{\text{all } i} w_i d_i}{\sum_{\text{all } i} w_i}$$
->
-> **这个公式在做什么** 证明当且仅当所有一阶[[Meta-analysis\|元分析]]纳入的主要研究**互不重叠**且严格按精度反比（$w_j = 1/v_{d_j}$）加权时，二级固定效应元分析才在数学上等价于对所有原始研究直接进行的一级元分析。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 24–28)]]
->
-> **关键前提与崩溃条件**
-> 该数学等价性成立的**充要条件是纳入的一阶元分析所包含的原始实证研究互不重叠**（抽样独立性假定）。一旦不同元分析重复纳入了相同的经典文献，该研究的数据就会被重复计算，人为压缩了联合[[Standard Error\|标准误]]，造成[[Confidence Interval\|置信区间]]虚假过窄与假阳性检验结果膨胀。
->
-> 🔗 完整数学证明与理论推导参见：[[Fixed-Effect and Random-Effects Models]] 与 Wecker 等人的论证。
+> [!formula-set]- 双层固定效应二级元分析的代数推导全流程
+> ```mermaid
+> flowchart LR
+>   A["单级基准 (式 1–2)<br/>$k$ 项原始研究加权"] --> B["双层分组展开 (式 3–4)<br/>$m$ 项元分析全池合并"]
+>   B --> C["一级内部加权 (式 5–6)<br/>单个元分析内部加权 $d_j$"]
+>   C --> D["二级跨层加权 (式 7–9)<br/>以 $W_j = 1/v_{d_j}$ 跨层合成 $D$"]
+>   D --> E["代数等价定理<br/>$D = \bar{d}, v_D = v_{\bar{d}}$<br/>(充要条件：原始研究无重叠)"]
+> ```
 
-> [!ref-table] [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] 二阶元分析 6 项方法论要求及其违背后果
-> | 要求编号 | 方法论准则与规范要求 | 违背类型 | 对效应量 $d$ 与标准误 $SE_d$ 的影响后果 |
+> [!formula-step] 公式步骤一　单级直接合成基准与双层全量合并表达（式 1–4）
+> $$d = \frac{\sum_{i=1}^k w_i d_i}{\sum_{i=1}^k w_i}, \quad v_d = \frac{1}{\sum_{i=1}^k w_i} \tag{1–2}$$
+> $$\bar{d} = \frac{\sum_{j=1}^m \sum_{i=1}^{k_j} w_{ji} d_{ji}}{\sum_{j=1}^m \sum_{i=1}^{k_j} w_{ji}}, \quad v_{\bar{d}} = \frac{1}{\sum_{j=1}^m \sum_{i=1}^{k_j} w_{ji}} \tag{3–4}$$
+>
+> **这个公式在做什么** 直接对 $k$ 项独立原始研究合并时，第 $i$ 项研究[[Effect Size|效应量]]为 $d_i$，方差为 $v_{d_i}$，按逆方差赋予权重 $w_i = 1/v_{d_i}$。若将 $m$ 项一级元分析包含的全体原始研究直接汇总至同一数据池，双层展开的效应量为 $\bar{d}$，总方差为 $v_{\bar{d}}$。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 25, 37)]]
+>
+> **结果解读** 公式 (1–4) 确立了宏观证据综合的理想基准：无论研究在组织层面上如何被划分到不同的元分析课题组中，只要原始研究独立，其联合效应量在统计学上均应当收敛于全样本直接[[Inverse-Variance Weighting|逆方差加权]]平均。
+
+> [!formula-step] 公式步骤二　一级元分析加权与二级跨层加权的代数等价性证明（式 5–9）
+> $$d_j = \frac{\sum_{i=1}^{k_j} w_{ji} d_{ji}}{\sum_{i=1}^{k_j} w_{ji}}, \quad v_{d_j} = \frac{1}{\sum_{i=1}^{k_j} w_{ji}} \tag{5–6}$$
+> $$D = \frac{\sum_{j=1}^m W_j d_j}{\sum_{j=1}^m W_j}, \quad W_j = \frac{1}{v_{d_j}} = \sum_{i=1}^{k_j} w_{ji}, \quad v_D = \frac{1}{\sum_{j=1}^m W_j} = \frac{1}{\sum_{j=1}^m \sum_{i=1}^{k_j} w_{ji}} \tag{7–9}$$
+>
+> **这个公式在做什么** 证明当一级元分析按样本精度加权（式 5–6），且二级汇总以一级元分析方差倒数（$W_j = 1/v_{d_j}$）为权重跨层合成时（式 7–9），二级合并估计量在代数上恒等于双层全量合并估计量：$D = \bar{d}$ 且 $v_D = v_{\bar{d}}$。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 25, 37–38)]]
+>
+> **代数展开与等价性推导** 将一级效应量公式 (5) 与二级逆方差权重公式 (8) 代入二级合成公式 (7)：分子项展开为 $\sum_{j=1}^m \left( \sum_{i=1}^{k_j} w_{ji} \right) \cdot \left[ \frac{\sum_{i=1}^{k_j} w_{ji} d_{ji}}{\sum_{i=1}^{k_j} w_{ji}} \right] = \sum_{j=1}^m \sum_{i=1}^{k_j} w_{ji} d_{ji}$；分母项展开为 $\sum_{j=1}^m W_j = \sum_{j=1}^m \sum_{i=1}^{k_j} w_{ji}$。分式分子分母与公式 (3) 完全一致，代数上恒等证明 $D = \bar{d}$ 且 $v_D = v_{\bar{d}}$。
+>
+> **充要条件与注意事项** 该代数等价性成立的唯一充要条件是各一级元分析纳入的原始研究完全独立且互斥（$\forall j_1 \neq j_2, \text{Studies}(j_1) \cap \text{Studies}(j_2) = \emptyset$）。一旦存在重叠，协方差交叉项将导致公式 (9) 严重低估真实方差。
+
+> [!math-principle] 二级[[Fixed-Effect and Random-Effects Models|固定效应模型]]的统计数学公理与协方差失效机理
+> - **等价性公理** 只有当各一级元分析纳入的主要研究完全不重叠时，二级加权合成在数学上才等价于对全体原始研究进行一次性直接合并。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 25, 37–38)]]
+> - **协方差失效公理** 若同一篇文献在多个元分析中重复出现，跨元分析的一级效应量之间会产生未知的正协方差（$\operatorname{Cov}(d_{j_1}, d_{j_2}) > 0$），导致二级方差公式 (9) 失效，计算出的方差远小于实际方差，造成统计检验假阳性率急剧膨胀。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 25, 29–30)]]
+> - **精度反比公理** 二级合成必须严格按照各元分析精度的倒数（$W_j = 1/v_{d_j}$）进行加权，高精度研究占大权重，简单算术平均会彻底破坏统计估计的有效性。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 25, 30)]]
+
+> [!contrast-table] [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] 二阶元分析 6 项方法论要求及其违背后果审计
+> | 要求编号 | 方法论准则与规范要求 | 违背类型 | 对效应量 $d$ 与标准误 $SE_d$ 的影响后果与实证案例 |
 > |---|---|---|---|
-> | **要求 1** | 统一效应量测度（推荐 Hedges' $g$），正确计算合并标准差，严格区分 SE 与 SD，执行 Fisher's $z$ 转换。 | 测度混合 / SE 与 SD 混淆 | 效应量可放大或缩小十倍（如 Eisenstaedt 1990 中 SE=2.74 被当 SD，导致 $d$ 从 $-0.80$ 膨胀至 $-8.29$），极端值严重扭曲总体平均。 |
-> | **要求 2** | 一级元分析必须按精度反比加权（$w_{ji} = 1/v_{ji}$），严禁使用简单算术平均。 | 一级未加权平均 | 估计非最优；$p$ 值与置信区间失真，系统性低估标准误。 |
-> | **要求 3** | 纳入的一阶元分析必须基于**互不重叠的主要研究集**，确保抽样独立性。 | 主要研究重复计数 | 重复数据被赋予不成比例的过大权重，置信区间虚假变窄，显著性检验假阳性膨胀。 |
-> | **要求 4** | 每个一级元分析必须完整报告联合效应量 $d_j$ 及其方差/标准误/置信区间。 | 方差与精度信息缺失 | 无法确定真实权重与精度边界。 |
-> | **要求 5** | 二级汇总必须使用精度反比（$w_j = 1/v_{d_j}$）加权，严禁使用简单算术平均。 | 二级未加权平均 | 估计出现两级复合偏差，排名发生严重对调（如正确加权后 $d = 0.59 \to 0.23$，排名从 #26 骤跌至 #98）。 |
-> | **要求 6** | 正确计算联合标准误（$SE_d = \sqrt{1/\sum w_j}$）与 95% 置信区间，执行严格统计显著性检验。 | 标准误人为武断设定 | 人为设置 0.05 下限导致置信区间不可靠，显著性不可解释。 |
+> | **要求 1** | 统一效应量测度（推荐 Hedges' $g$），正确计算合并标准差，严格区分 SE 与 SD，执行 Fisher's $z$ 转换。 | 测度混合 / SE 与 SD 混淆 | 效应量可放大或缩小十倍（如 Eisenstaedt 案例因误将 $\text{SE} = 1.65$ 作除数导致 $d$ 从 $-0.80$ 膨胀至 $-8.291$），极端值严重扭曲总体平均。 |
+> | **要求 2** | 一级元分析必须按精度反比加权（$w_{ji} = 1/v_{ji}$），严禁使用简单算术平均。 | 一级未加权平均 | 估计非最优；破坏最佳线性无偏估计（BLUE）性质，$p$ 值与置信区间失真，系统性低估标准误。 |
+> | **要求 3** | 纳入的一阶元分析必须基于**互不重叠的主要研究集**，确保抽样独立性。 | 主要研究重复计数 | 重复数据被赋予不成比例的过大权重，[[Confidence Interval\|置信区间]]虚假变窄，显著性检验假阳性膨胀（如 Olson & Wisher 与 Sitzmann 重叠 93.3%）。 |
+> | **要求 4** | 每个一级元分析必须完整报告联合效应量 $d_j$ 及其方差/标准误/置信区间。 | 方差与精度信息缺失 | 无法确定真实权重与精度边界，迫使后续研究武断设定伪[[Standard Error\|标准误]]。 |
+> | **要求 5** | 二级汇总必须使用精度反比（$W_j = 1/v_{d_j}$）加权，严禁使用简单算术平均。 | 二级未加权平均 | 估计出现两级复合偏差，干预排名发生严重对调（如网络学习去重加权后 $d$ 从 $0.59$ 降至 $0.23$，排名从 #26 骤跌至 #98）。 |
+> | **要求 6** | 正确计算联合标准误（$SE_D = \sqrt{1/\sum W_j}$）与 95% 置信区间，执行严格统计显著性检验。 | 标准误人为武断设定 | 武断设定 0.05 下限（Haas 权重被削减 53.5%）或直接对各元分析标准误取算术平均（[[Inquiry-Based Learning\|探究学习]]伪标准误 0.092 比高精度单项大 3 倍），导致置信区间不可靠。 |
 
 ---
 
@@ -365,6 +390,22 @@ updated: 2026-10-16
 > [!boundary] [[Argument_Higgins_2016_ROE\|Higgins (2016)]] 的比较推论层级与苹果橙子类比
 > [[Argument_Higgins_2016_ROE\|Higgins (2016, pp. 40–41)]] 指出，**[[Comparative Meta-synthesis\|比较性元分析]]**（在单一元分析内比较多种干预）回答的是“X 是否比 Y 更有效”；而**比较性元综合**（跨元分析比较）面临更高层级的“苹果与橙子”难题。以 Graham et al. (2012) 写作教学元分析为例，虽然可以识别策略教学、自我调节、文本结构、[[Creativity\|创造力]]与[[Transcription in Qualitative Research\|转录]]等共同有益特征，但这类似于讨论水果的共同繁殖特征（种子），无法推断橙子特有的内部组织结构。
 
+> [!contrast-table] 一级与二级统计建模的双重不可行性困境（Double Infeasibility Dilemma）
+> | 分析层级 | 理论与经验现实 | 统计建模困境 | 导致后果 |
+> |:---|:---|:---|:---|
+> | **一级主要研究层** | 教学主题、教师实施与学校情境高度异质，真实效应量变异极大。 | [[Fixed-Effect and Random-Effects Models\|固定效应模型]]关于单一恒定真实效应的假设完全破产。 | 标准误被严重低估，虚增统计检验显著性。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 31–32)]] |
+> | **二级元分析层** | 继承了一级异质性，数学上必须采用随机效应模型估计 $\tau^2$。 | 每个因素平均仅约 5.8 项元分析，样本量过小无法可靠估计[[Between-Study Variance\|研究间方差]]。 | 随机效应建模崩溃，宏观统计推断失去立足之基。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 32–33)]] |
+
+> [!dimension] 影响因素[[Incommensurability|不可通约性]]的四大本体范畴（德甲联赛隐喻与范畴错误）
+> - **制度框架条件（Systemic and Institutional Conditions）**
+>   宏观外部环境制约，属于既定教育制度背景，不构成微观课堂可直接操纵的教学决策选项。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, p. 34)]]
+> - **个体心理特征（Student Individual Characteristics）**
+>   学生自身身心发展与认知特质[[Variable|变量]]，其实证对照基准为无干预自然常模，而非不同教学法之间的替代。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, p. 34)]]
+> - **综合教学方案（Comprehensive Pedagogical Programs）**
+>   学校层面的宏观教学模式（如[[Direct Instruction|直接教学]]），比较基线为常态传统讲授，测试时间跨度常以学期或学年计。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, p. 34)]]
+> - **微观设计变体（Micro-Level Instructional Variations）**
+>   相同教学法内部的特定参数调节（如分散练习），比较基线为另一种练习时距安排，无法脱离具体教学法单独实施。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, p. 34)]]
+
 ---
 
 ## 软件实现与代码规程
@@ -406,7 +447,7 @@ updated: 2026-10-16
 > - **[[Problem-Based Learning\|问题本位学习]]高等教育二阶元分析** [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] 综合 20 项一阶元分析（469 项原始实证研究、47 个独立[[Effect Size\|效应量]]），在[[Fixed-Effect and Random-Effects Models\|随机效应模型]]下采用经典[[Inverse-Variance Weighting\|逆方差加权法]]，依据 Cooper & Koenka $\le 25\%$ 重叠率准则与 R-[[AMSTAR]] 质量评级控制文献重叠与质量偏倚，报告问题本位学习对学生[[Theoretical Knowledge\|理论性知识]]、[[Clinical Skills\|临床技能]]、[[Critical Thinking\|批判性思维]]、态度与满意度的总体效应（调整后 $ES = 0.60$），并检验结果类型、地域、抽样方法、质量、报告类型与年份的[[Interaction Effect\|调节效应]]。
 > - **AI 教育应用全领域二阶元分析** [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] 综合 19 项一阶元分析（58,702 名参与者），采用 [[GROOVE]] 宏的[[Corrected Covered Area\|校正覆盖面积]]（CCA）热力图排除 6 项重叠元分析，在[[Fixed-Effect and Random-Effects Models\|随机效应模型]]下以经典[[Inverse-Variance Weighting\|逆方差加权法]]合并效应量，报告 AI 教育应用对学生[[Academic Achievement\|学业成就]]与[[Higher-Order Thinking Skills\|高阶思维技能]]的综合效应（$ES = 0.67$，95% CI = [.55, .78]），并识别教育阶段（K12 vs 混合）与学科领域（计算机科学 vs 数学）为显著调节来源。
 > - **大语言模型二阶元分析[[Automated Data Extraction\|自动化数据提取]]** [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] 基于《[[Visible Learning\|可见的学习]]》证据库中的 156 项一阶教育元分析，通过专家仲裁校准确立金标准，系统评估了三大前沿大语言模型（Gemini 2.5 Pro、[[General Purpose Technology|GPT]]-4.1、GPT-o3）自动提取效应量、研究数与[[Sample Size Determination\|样本量]]的准确性（$\text{[[Intraclass Correlation Coefficient\|ICC]]} = 0.96–0.97$），确立大模型提取达到人类专家水准并为人机混合验证提供[[Paradigm\|范式]]。
-> - **固定效应等价性与方法论批判** [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] 从固定效应数学模型推导 6 项要求并系统审查《可见的学习》。
+> - **固定效应等价性推导与二阶元分析方法论批判** [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] 从两级固定效应数学模型严格推导等价性定理（$D = \bar{d}, v_D = v_{\bar{d}}$），确立六项方法论操作规范；通过实证案例（Eisenstaedt [[Standard Error|标准误]]混淆致效应量虚增十倍、Haas 伪造标准误削减权重 53.5%、Olson & Wisher 93.3% 重叠致网络学习排名自第 26 位雪崩至第 98 位）揭示二阶粗放综合在当前发表体制下的不可行性，并提出建设中央标准化证据数据库。
 > - **二阶元分析全库[[Metascience|元科学]]质量与复现性审计** [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] 依据 [[PICO Framework|PICO]] 与伞状综述规范，对《可见的学习》全库 322 个影响因素开展独立复现检验，发现仅 19% 满足 PICO 纳入标准，301 项中仅 2 项可复现数据提取（<1% 复现率），44% 报告效应量在原文中缺失，为二阶元分析方法学规范与质量控制提供了里程碑式全量审计实证。
 
 ---
@@ -420,6 +461,17 @@ updated: 2026-10-16
 > 3. **透明度与数据重构危机** 粗放元综合常存在数据提取不透明与证实偏差（[[Argument_Johnson_2023_CE\|Johnson & Janzen, 2023]]; [[Argument_OConnor_2020_AJLL\|O'Connor, 2020]]）；
 > 4. **因果机制距离与政策角色争议** 宏观抽象聚合远离了实在层面的因果机制，知识的局部性与临时性使其难以直接指导政策决策（[[Argument_Snook_2009_NZJES\|Snook et al., 2009]]; [[Argument_Terhart_2011_JCS\|Terhart, 2011]]; [[Argument_Wiliam_2019_ERE\|Wiliam, 2019]]; [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019]]）。
 >
+> [!bias-audit] 商业学术出版体制对知识综合的三重结构性阻碍（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）
+> - **[[Publication Bias|发表偏倚]]与抽屉效应** 期刊倾向于发表统计上显著的结果，产生严重的发表偏倚（Publication Bias）与抽屉效应（File-drawer Problem），大量零效应或负效应被锁进抽屉，污染综合底册。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 34–35)]]
+> - **原始数据与参数矩阵隐匿** 版面限制导致关键的原始数据、每项研究的[[Sample Size Determination|样本量]]和标准差普遍被隐藏，形成不可查证的数据黑箱。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 34–35)]]
+> - **口径冲突与二阶拼凑脆弱** 各元分析作者在数据提取时口径不一，导致二级汇总变成了建立在流沙之上的粗放拼凑。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 34–35)]]
+
+> [!pathways] 中央标准化证据数据库与一级直接综合转型方案（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）
+> 1. **脱离商业期刊的强制透明归档** 凡接受公共财政资助的研究，无论是否显著、是否见刊，均须强制上传原始数据。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 35–36)]]
+> 2. **统一全行业效应量指标** 全库统一采用无偏标准化的 Hedges' $g$，终结指标混杂。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 35–36)]]
+> 3. **公开主要研究完整数据矩阵** 全面披露样本量（$n_E, n_C$）、均值、标准差与情境[[Variable|变量]]，消除数据黑箱。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 35–36)]]
+> 4. **从二级拼凑转向一级大样本直接综合** 绕过有缺陷的中间元分析，直接基于全量原始数据开展一级直接元分析。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 35–36)]]
+
 > 完整详尽的批判脉络、数学反例、透明度重构与案例剖析详见专门理论条目：
 > 🔗 **[[Critique of Meta-meta-analysis\|元-元分析批判]]（Critique of Meta-meta-analysis）**。
 
