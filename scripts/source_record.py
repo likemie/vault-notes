@@ -262,7 +262,7 @@ def create_article_or_report(args: argparse.Namespace, kind: str) -> None:
 
     record_name = validate_record_name(args.record_name) if args.record_name else safe_stem_from_file(src)
     if kind == "article" and getattr(args, "journal", None):
-        from journal_index import article_problem, load_registry
+        from citation_index import article_problem, load_registry
         try:
             problem = article_problem(Path(f"Argument_{record_name}.md"), {"journal": args.journal}, load_registry())
         except (OSError, ValueError) as exc:
@@ -423,7 +423,7 @@ def finalize_source(args: argparse.Namespace) -> None:
     arg_fm, _raw_arg_fm, arg_body = parse_frontmatter(arg_text)
 
     if "journal-articles" in argument_path.parts:
-        from journal_index import article_problem, is_legacy, load_registry
+        from citation_index import article_problem, is_legacy, load_registry
         try:
             problem = article_problem(argument_path, arg_fm, load_registry())
         except (OSError, ValueError) as exc:

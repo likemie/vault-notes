@@ -15,7 +15,7 @@
 - 不使用来源以外的知识；
 
 - 普通论文 / 报告 source record 使用最终 `<论文命名>` 创建；完整 citation 在 Argument 页完成后由 `source_record.py finalize` 回填。若文献包含需要保留占位的 figure，`finalize` 时使用 `--with-figures` 生成 `sources/<论文命名>/figures/`。
-- 新建、移动、删除、重命名条目后，自动运行基础索引：`vault_index.py`（内部维护书籍 overview 章节表格、研究地图统计，并依次运行 `wiki_index.py` 与 `citation_index.py`）。是否继续运行 citation 补链、普通 wiki 补链、关系同步与 Concept 派生字段同步，由用户确认。
+- 新建、移动、删除、重命名条目后，自动运行基础索引：`vault_index.py`（先刷新引用索引，再修复格式与引用链接、维护书籍 overview 章节表格、更新日期与关联派生字段，最后刷新 wiki 索引）。是否继续运行 citation 补链、普通 wiki 补链、关系同步与 Concept 派生字段同步，由用户确认。
 - 任何修改了 vault 文件的任务，结束前必须依次运行 `vault_index.py` 与 `vault_lint.py`（增量）。`vault_index.py` 会先对改动过的文件自动完成机械性修复（见第 5 节），lint 只报告需要判断的问题。必须解决全部 ERROR，以及本次改动新引入的全部 WARN（增量 lint 只列出新引入的警告，HEAD 已有的会隐藏）；确属合理保留的警告须在回复中说明理由。lint 报告 0 error 且无未处理的新警告才算完成。本地不设 pre-commit 钩子，lint 是唯一的本地门禁。
 - 非必要不要运行 `--full`。优先使用 git 增量或路径限定；只有批量重命名/移动/删除、批量 title/alias/citation 字段变更、增量结果异常、发布/备份/重要提交前，才使用 full sync 或 full lint。
 
@@ -28,7 +28,7 @@
 1. 读取 `vault-schema.md`；若用户明确说明是专著、论文集或教材，转入 `Specialized Schemas`；若用户未说明类型，按普通论文／期刊论文流程处理。
 2. 读取原始文件并提取可读文本。
 3. 扫描文献，同时判断二类事项：需要建立或更新哪些知识对象，是否包含需要占位的 figure。
-4. 在创建 Argument 页之前确定最终 Argument 文件名，并由此确定最终 `<论文命名>`；期刊论文先读取 `citation/journals.json`，按期刊全名取唯一代码，不自行猜缩写。新期刊先用 `journal_index.py --register "<期刊全名>" <代码>` 登记。Argument 页正文 `## 来源` 可先写 `[[<论文命名>]]`。
+4. 在创建 Argument 页之前确定最终 Argument 文件名，并由此确定最终 `<论文命名>`；期刊论文先读取 `citation/journals.json`，按期刊全名取唯一代码，不自行猜缩写。新期刊先用 `citation_index.py --register-journal "<期刊全名>" <代码>` 登记。Argument 页正文 `## 来源` 可先写 `[[<论文命名>]]`。
 5. 为每个候选知识对象记录暂定英文标题、中文术语或别名、类型、目标二级文件夹和独立成条理由。
 6. 读取 `wiki/index.json`，用标题、中文术语、英文变体和缩写检索是否已有。
 7. 将候选分为待更新和待新建。
@@ -159,11 +159,11 @@ wiki/
 - `<journal-name>` 使用条目 frontmatter 的 `journal` 全称；若期刊名称含 `/` 或 `:` 等不适合作为路径的字符，用空格替换并压缩连续空格。
 - 对应 source record 的最终文件名为 `<Author>_<Year>_<JournalAbbrev>.md`，即去掉 Argument 文件名前缀 `Argument_`。
 
-`<JournalAbbrev>` 以 `citation/journals.json` 为唯一命名依据。该文件只存 `{期刊全名: 库内唯一代码}`，无期刊介绍、数量、条目路径、历史缩写或人类可读页面；代码按不区分大小写全库唯一，可使用较长代码消歧。AI 先查表，未登记时用 `.venv/bin/python3 scripts/journal_index.py --register "<期刊全名>" <代码>` 显式登记，脚本不根据新论文文件名自动生成代码，也不覆盖已登记代码。
+`<JournalAbbrev>` 以 `citation/journals.json` 为唯一命名依据。该文件只存 `{期刊全名: 库内唯一代码}`，无期刊介绍、数量、条目路径、历史缩写或人类可读页面；代码按不区分大小写全库唯一，可使用较长代码消歧。AI 先查表，未登记时用 `.venv/bin/python3 scripts/citation_index.py --register-journal "<期刊全名>" <代码>` 显式登记，脚本不根据新论文文件名自动生成代码，也不覆盖已登记代码。
 
 旧文件名默认保留，不因新增注册表自动批量改名；用户要求统一旧名称时，按注册表迁移 Argument、source record、本地 PDF 和配套目录，更新正文引用，再由脚本重建索引与关系。新建或改名的期刊 Argument 必须使用登记代码；已有文件只在 `journal` 全名保持原值时兼容旧名称，修改期刊归属后重新校验。日常以 HEAD 判断旧文件，CI 以 PR 基线或推送前提交判断，防止错误名称随提交后被当作旧名放行。
 
-基础索引先运行 `journal_index.py --check`；lint 报告 `JOURNAL_NAMING` / `JOURNAL_REGISTRY_INVALID`，同一规则已接入 CI。`source_record.py article` 新建期刊来源时传入 `--journal "<期刊全名>"`，在移动 PDF 前校验最终 `--record-name`；`finalize` 也校验对应 Argument。书籍与报告不受期刊代码表约束。
+基础索引先运行 `citation_index.py --journals-check`；lint 报告 `JOURNAL_NAMING` / `JOURNAL_REGISTRY_INVALID`，同一规则已接入 CI。`source_record.py article` 新建期刊来源时传入 `--journal "<期刊全名>"`，在移动 PDF 前校验最终 `--record-name`；`finalize` 也校验对应 Argument。书籍与报告不受期刊代码表约束。
 
 ---
 
@@ -296,6 +296,10 @@ cd /Users/shaoyangwu/Documents/MyNotes
 .venv/bin/python3 scripts/vault_index.py --standard-workflow
 ```
 
+标准流程按依赖顺序执行：刷新引用索引 → 机械修复与书籍 overview 维护 → 刷新 wiki 检索索引 → APA 引用补链与显示修正 → 普通 wiki 补链 → 关系同步 → 更新日期、关联数量和星钻 → 刷新最终 wiki / 引用索引 → lint。关系同步后必须清除旧缓存并重算派生字段，确保一轮运行即得到最新星钻。
+
+基础索引保留现有的增量 APA 自动补链；普通 wiki 补链与关系同步只在显式标准 / 全量流程中运行。
+
 ### Full Sync
 
 非必要不要运行 full。只有在以下情况才全量同步与检查：
@@ -337,14 +341,14 @@ Frontmatter 中同一 YAML 映射内不得重复声明键，包括嵌套映射�
 
 本地不使用 git pre-commit 钩子：Obsidian Git 每 10 分钟自动提交备份，钩子会让含未完成内容的备份静默失败。门禁分两层：
 
-1. 本地：`vault_lint.py` 即提交门禁。除内容检查外，它并行检查 wiki 索引是否最新（`INDEX_STALE`）、引用索引是否一致（`CITATION_INDEX_STALE`），`scripts/` 或 `tests/` 有改动时运行回归测试（`TESTS_FAILED`），文件选择范围与 `scripts/check_vault.py` 一致。结束任务前先运行 `vault_index.py` 再运行 lint，任何 ERROR 和新引入的 WARN 都必须解决。增量模式与 `--path` 只列出相对 HEAD 新引入的警告（按检查项与提示内容比对，行号变化不影响）；`--all-warnings` 显示全部，`--full` 始终显示全部，用于盘点存量。`--no-gate` 只用于调试，`--tests` 强制运行测试。
+1. 本地：`vault_lint.py` 即提交门禁。除内容检查外，它并行检查 wiki 索引是否最新（`INDEX_STALE`）、引用索引是否一致（`CITATION_INDEX_STALE`），本地与 CI 共用这一入口。结束任务前先运行 `vault_index.py` 再运行 lint，任何 ERROR 和新引入的 WARN 都必须解决。增量模式与 `--path` 只列出相对 HEAD 新引入的警告（按检查项与提示内容比对，行号变化不影响）；`--all-warnings` 显示全部，`--full` 始终显示全部，用于盘点存量。`--no-gate` 只用于调试。
 
-`vault_index.py` 在基础索引开头对 git 中有改动的文件自动执行机械性修复，不需要手动处理，也不再出现在 lint 中：英文双作者引用连接词（叙述用 and、括号内用 &）、加粗边界、summary 引号、`[!axis]` 分隔符、引用链接缺失的 a/b/c 年份后缀、非 Argument 条目中裸 `[[Argument_…]]` 链接补作者年份、与标题重复的 alias、同一段落或 callout 内重复的括号式引用链接；随后把正文有改动的条目 `updated` 设为当天。手动执行同样的修复可用 `vault_lint.py --fix`。
-2. 发布：GitHub Actions 运行 `scripts/check_vault.py`（回归测试、只读 wiki 索引检查、完整引用检查和增量 lint），未通过则不发布。
+`vault_index.py` 在刷新引用索引后，对 git 中有改动的文件自动执行机械性修复，不需要手动处理，也不再出现在 lint 中：英文双作者引用连接词（叙述用 and、括号内用 &）、加粗边界、summary 引号、`[!axis]` 分隔符、引用链接缺失的 a/b/c 年份后缀、非 Argument 条目中裸 `[[Argument_…]]` 链接补作者年份、与标题重复的 alias、同一段落或 callout 内重复的括号式引用链接；随后把正文有改动的条目 `updated` 设为当天。手动执行同样的修复可用 `vault_lint.py --fix`。
+2. 发布：GitHub Actions 运行 `scripts/vault_lint.py`（期刊注册表、只读 wiki 索引检查、完整引用检查和增量 lint），未通过则不发布。
 
-手动执行与 CI 相同的检查使用 `.venv/bin/python3 scripts/check_vault.py`。依赖在 `requirements.txt` 中固定，CI 据此安装，不得删除。`scripts/hooks/pre-commit` 保留备用；如需临时恢复钩子：`git config --local core.hooksPath scripts/hooks`。
+手动执行与 CI 相同的检查使用 `.venv/bin/python3 scripts/vault_lint.py`。依赖在 `requirements.txt` 中固定，CI 据此安装，不得删除。`scripts/hooks/pre-commit` 保留备用；如需临时恢复钩子：`git config --local core.hooksPath scripts/hooks`。
 
-GitHub Actions 在 pull request 和 main 分支 push 时执行同一检查入口，通过 `--base <SHA>` 检查相对于 PR 基线或 push 前提交新增、修改和重命名后的 Markdown 文件，避免干净检出时增量 lint 为空。仅 main 的 push 且检查全部通过后，才触发 Quartz 发布。此日常门禁不替代重要发布前的全量严格检查。
+GitHub Actions 在 pull request 和 main 分支 push 时执行同一检查入口，通过只读选项 `--base <SHA>` 检查相对于 PR 基线或 push 前提交新增、修改和重命名后的 Markdown 文件，避免干净检出时增量 lint 为空。仅 main 的 push 且检查全部通过后，才触发 Quartz 发布。此日常门禁不替代重要发布前的全量严格检查。
 
 移动 wiki 条目时：
 

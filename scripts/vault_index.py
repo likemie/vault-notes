@@ -5,11 +5,12 @@ from __future__ import annotations
 """
 vault_index.py
 
-Run the vault's base index maintenance in the required order:
-  1. Maintain textbook/monograph overview chapter tables.
-  2. Refresh the generated counts on wiki/research-map.md.
-  3. scripts/wiki_index.py
-  4. scripts/citation_index.py
+Run the vault's base maintenance in dependency order:
+  1. Refresh citation aliases and indexes before citation fixes / linking.
+  2. Fix changed Markdown and maintain book overview tables.
+  3. In the explicit standard workflow, refresh wiki lookup, link, then sync relations.
+  4. Refresh dates, relation counts and ratings after all content / relation writes.
+  5. Refresh final indexes; the standard workflow finishes with lint.
 
 This file is the daily unified entry point. Larger generated surfaces that
 already have mature boundaries still live in their own scripts.
@@ -1539,7 +1540,7 @@ def git_text(args: list[str]) -> str:
 
 
 
-def run_auto_fixes() -> int:
+def run_auto_fixes(link_citations: bool = True) -> int:
     """Apply vault_lint's mechanical fixes to git-changed Markdown files.
 
     Fixes: English two-author conjunctions, bold delimiter boundaries,
@@ -1556,7 +1557,7 @@ def run_auto_fixes() -> int:
     changed_files, total = lint.apply_fixes(files, argument_citations)
     if changed_files:
         print(f"auto-fix: {total} issue(s) fixed in {changed_files} file(s)")
-    linked_files, linked_total = auto_link_citations(files)
+    linked_files, linked_total = auto_link_citations(files) if link_citations else (0, 0)
     if linked_files:
         print(f"auto-link: {linked_total} APA citation(s) linked in {linked_files} file(s)")
     if changed_files or linked_files:
@@ -1648,73 +1649,80 @@ def sync_updated_dates(dry_run: bool = False, check: bool = False) -> int:
     return 1 if check and changed else 0
 
 
-def run_base_index(book_check: bool = False, book_dry_run: bool = False, citation_args: list[str] | None = None) -> int:
-    code = run_script("journal_index.py", ["--check"])
+def run_base_index(
+    book_check: bool = False,
+    book_dry_run: bool = False,
+    citation_args: list[str] | None = None,
+    *,
+    sync_links: bool = False,
+    full: bool = False,
+) -> int:
+    # Citation maintenance validates journal naming before writing. Its output
+    # must exist before mechanical citation fixes or APA linking read aliases.
+    code = run_script("citation_index.py", citation_args or [])
     if code:
         return code
-    # Mechanical lint fixes first, then date bumps for body edits.
-    code = run_auto_fixes()
-    if code:
-        return code
-    # Body edits bump `updated` automatically (replaces lint's UPDATED_STALE).
-    code = sync_updated_dates()
+    _TEXT_CACHE.clear()
+    _FM_CACHE.clear()
+    code = run_auto_fixes(link_citations=not sync_links)
     if code:
         return code
     code = maintain_book_overviews(dry_run=book_dry_run, check=book_check)
     if code:
         return code
-    code = update_research_map_stats()
-    if code:
-        return code
-    code = maintain_concept_base_fields()
-    if code:
-        return code
-    code = maintain_method_base_fields()
-    if code:
-        return code
-    code = maintain_theory_base_fields()
-    if code:
-        return code
-    code = maintain_instrument_base_fields()
-    if code:
-        return code
-    code = maintain_fact_base_fields()
-    if code:
-        return code
-    code = maintain_person_base_fields()
-    if code:
-        return code
-    code = maintain_argument_base_fields()
-    if code:
-        return code
-    return run_scripts_parallel([("wiki_index.py", []), ("citation_index.py", citation_args or [])])
+
+    if sync_links:
+        # Ordinary linking and relation sync must see newly created / renamed
+        # entries, so build their lookup before changing links.
+        wiki_sync_args = ["sync", "--full"] if full else ["sync"]
+        citation_link_args = ["--fix-display", "--full"] if full else ["--fix-display"]
+        for script_name, extra_args in [
+            ("wiki_index.py", []),
+            ("citation_linker.py", citation_link_args),
+            ("wiki_linker.py", wiki_sync_args),
+            ("wiki_relations.py", wiki_sync_args),
+        ]:
+            code = run_script(script_name, extra_args)
+            if code:
+                return code
+        # The subprocesses wrote Markdown after this process cached it.
+        _TEXT_CACHE.clear()
+        _FM_CACHE.clear()
+
+    # Date bumps include book table maintenance and both linkers. Ratings read
+    # the final relation YAML, never the state from before wiki_relations.
+    for maintain in (
+        sync_updated_dates,
+        update_research_map_stats,
+        maintain_concept_base_fields,
+        maintain_method_base_fields,
+        maintain_theory_base_fields,
+        maintain_instrument_base_fields,
+        maintain_fact_base_fields,
+        maintain_person_base_fields,
+        maintain_argument_base_fields,
+    ):
+        code = maintain()
+        if code:
+            return code
+
+    if sync_links:
+        # wiki_linker can rewrite authors/editors as Person links. Refresh the
+        # citation JSON too, so it reflects the final frontmatter values.
+        return run_scripts_parallel([("wiki_index.py", []), ("citation_index.py", citation_args or [])])
+    return run_script("wiki_index.py")
 
 
 def run_standard_workflow(full: bool = False) -> int:
-    code = run_base_index()
+    code = run_base_index(sync_links=True, full=full)
     if code:
         return code
-
-    linker_args = ["--full"] if full else []
-    wiki_sync_args = ["sync", "--full"] if full else ["sync"]
-    lint_args = ["--full"] if full else []
-
-    for script_name, extra_args in [
-        ("citation_linker.py", linker_args),
-        ("wiki_linker.py", wiki_sync_args),
-        ("wiki_relations.py", wiki_sync_args),
-        ("wiki_index.py", []),
-        ("vault_lint.py", lint_args),
-    ]:
-        code = run_script(script_name, extra_args)
-        if code:
-            return code
-    return 0
+    return run_script("vault_lint.py", ["--full"] if full else [])
 
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description="Run wiki and citation base indexes.")
-    parser.add_argument("--standard-workflow", action="store_true", help="Run base index, linkers, relation sync, wiki index refresh, and lint.")
+    parser.add_argument("--standard-workflow", action="store_true", help="Refresh lookup indexes, fix/link content, sync relations, rebuild ratings and final indexes, then lint.")
     parser.add_argument("--full-workflow", action="store_true", help="Run the full-vault version of --standard-workflow.")
     parser.add_argument("--book-only", action="store_true", help="Run only book overview maintenance.")
     parser.add_argument("--book-check", action="store_true", help="Fail if book overview tables are stale or missing.")

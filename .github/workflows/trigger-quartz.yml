@@ -27,7 +27,7 @@ jobs:
       - name: Validate vault before publishing
         env:
           BASE_SHA: ${{ github.event_name == 'pull_request' && github.event.pull_request.base.sha || github.event.before }}
-        run: python -B scripts/check_vault.py --base "$BASE_SHA"
+        run: python -B scripts/vault_lint.py --base "$BASE_SHA"
 
   trigger:
     needs: validate

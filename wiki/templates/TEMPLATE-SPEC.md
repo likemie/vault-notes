@@ -118,7 +118,7 @@ updated: 2026-10-15
 
 Argument 页写某篇论文、章节、报告、政策文件或书籍的论证结构。`title` 与文件名保持稳定技术命名，不写 APA 短引用；APA 信息写入 `citation` 字段。
 
-期刊论文命名之前读取 `citation/journals.json`，严格使用期刊全名对应的唯一代码；新期刊先通过 `scripts/journal_index.py --register` 登记。该机器注册表只保存全名与代码，不生成人类可读页面。已有文件名保持不变；新建、改名或修改期刊归属时按注册表校验，具体规则见 `vault-schema.md`。
+期刊论文命名之前读取 `citation/journals.json`，严格使用期刊全名对应的唯一代码；新期刊先通过 `scripts/citation_index.py --register-journal` 登记。该机器注册表只保存全名与代码，不生成人类可读页面。已有文件名保持不变；新建、改名或修改期刊归属时按注册表校验，具体规则见 `vault-schema.md`。
 
 推荐结构：
 

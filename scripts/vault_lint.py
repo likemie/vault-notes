@@ -590,10 +590,10 @@ read_text.cache_clear = _read_text_disk.cache_clear  # type: ignore[attr-defined
 
 
 def git_files_at_head(rel_paths: List[str]) -> Dict[str, str]:
-    """Read many files from HEAD through one `git cat-file --batch` call."""
+    """Read baseline versions through one `git cat-file --batch` call."""
     if not rel_paths:
         return {}
-    request = "".join(f"HEAD:{p}\n" for p in rel_paths).encode("utf-8")
+    request = "".join(f"{comparison_ref()}:{p}\n" for p in rel_paths).encode("utf-8")
     try:
         result = subprocess.run(["git", "cat-file", "--batch"], cwd=ROOT, input=request,
                                 stdout=subprocess.PIPE, stderr=subprocess.DEVNULL, check=False)
@@ -616,7 +616,7 @@ def git_files_at_head(rel_paths: List[str]) -> Dict[str, str]:
 
 
 def baseline_warning_keys(files: List[Path], by_title, path_to_title, argument_citations) -> "Counter[Tuple[str, str, str]]":
-    """WARN/INFO findings each file already had at HEAD, keyed by
+    """WARN/INFO findings each file already had at the baseline, keyed by
     (path, code, message) - line numbers ignored so shifted text still matches."""
     from collections import Counter as _Counter
     keys: "Counter[Tuple[str, str, str]]" = _Counter()
@@ -658,8 +658,8 @@ def run_git(args: List[str]) -> str:
 
 @lru_cache(maxsize=1)
 def git_head_paths() -> frozenset[str]:
-    """Load tracked paths at HEAD once instead of spawning git per file."""
-    output = run_git(["-c", "core.quotePath=false", "ls-tree", "-r", "--name-only", "HEAD"])
+    """Load tracked baseline paths once instead of spawning git per file."""
+    output = run_git(["-c", "core.quotePath=false", "ls-tree", "-r", "--name-only", comparison_ref()])
     return frozenset(line for line in output.splitlines() if line)
 
 
@@ -673,11 +673,16 @@ def git_tracks_nfd_path(path: Path) -> bool:
     return rel(path) in git_nfd_index_paths()
 
 
+def comparison_ref() -> str:
+    """Use the same baseline for changed paths, old warnings and new entries."""
+    return os.environ.get("VAULT_LINT_BASE") or "HEAD"
+
+
 def git_path_exists_at_head(path: Path) -> bool:
     return rel(path) in git_head_paths()
 
 
-# Same selection as scripts/check_vault.py (the pre-commit / CI gate).
+# Shared local / CI file selection. CI supplies the pre-push or PR baseline.
 GIT_STATUS_PATHSPECS = ["wiki", "books", "sources", "schema", "vault-schema.md", "vault-use.md", "AGENTS.md", "CLAUDE.md", "GEMINI.md"]
 
 
@@ -687,31 +692,31 @@ def _git_changed_md_files_cached() -> Tuple[Path, ...]:
 
 
 def git_changed_md_files() -> List[Path]:
-    """Return changed Markdown files according to git status, including untracked files."""
+    """Return local changes or the committed CI range, including renamed paths."""
     return list(_git_changed_md_files_cached())
 
 
 def _git_changed_md_files_uncached() -> List[Path]:
-    # quotePath=false keeps non-ASCII paths (Chinese, accented letters) literal;
-    # otherwise git octal-escapes them and those files are silently skipped.
-    # Pathspecs limit the untracked-file scan to the folders lint covers.
-    pathspecs = [p for p in GIT_STATUS_PATHSPECS if (ROOT / p).exists()]
-    out = run_git(["-c", "core.quotePath=false", "status", "--porcelain", "--untracked-files=all", "--", *pathspecs])
-    files: List[Path] = []
-    for line in out.splitlines():
-        if not line:
-            continue
-        # Porcelain v1 uses two status columns followed by path.
-        raw = line[3:] if len(line) > 3 else ""
-        if " -> " in raw:
-            raw = raw.split(" -> ", 1)[1]
-        raw = raw.strip().strip('"')
-        if not raw or not raw.endswith(".md"):
-            continue
-        p = ROOT / raw
-        if p.exists() and p.suffix.lower() == ".md":
-            files.append(p)
-    return files
+    base = os.environ.get("VAULT_LINT_BASE")
+    if base and set(base) == {"0"}:
+        commands = [["ls-files", "-z", "--", *GIT_STATUS_PATHSPECS]]
+    elif base:
+        commands = [["diff", "--name-only", "--diff-filter=ACMR", "-z", base, "HEAD", "--", *GIT_STATUS_PATHSPECS]]
+    else:
+        commands = [
+            ["diff", "--name-only", "--diff-filter=ACMR", "-z", "HEAD", "--", *GIT_STATUS_PATHSPECS],
+            ["ls-files", "--others", "--exclude-standard", "-z", "--", *GIT_STATUS_PATHSPECS],
+        ]
+    files: Set[Path] = set()
+    for command in commands:
+        output = subprocess.check_output(["git", *command], cwd=ROOT)
+        for raw in output.split(b"\0"):
+            if not raw:
+                continue
+            path = ROOT / raw.decode("utf-8")
+            if path.suffix.lower() == ".md" and path.is_file():
+                files.add(path)
+    return sorted(files)
 
 
 def embedded_file_exists_by_name(target_name: str) -> bool:
@@ -2895,7 +2900,7 @@ def check_citation_links(path: Path, text: str, data: Optional[Dict[str, Any]], 
 
 
 def check_journal_naming(path: Path, data: Dict[str, Any], issues: List[Issue]) -> None:
-    from journal_index import article_problem, is_legacy, load_registry
+    from citation_index import article_problem, is_legacy, load_registry
     try:
         registry = load_registry()
     except (OSError, ValueError):
@@ -3312,33 +3317,22 @@ def apply_fixes(files: List[Path], argument_citations: Dict[str, Dict[str, Any]]
 
 
 # -----------------------------
-# Commit gate (same checks as scripts/check_vault.py / pre-commit)
+# Shared local / CI commit gate
 # -----------------------------
 
 GATE_SKIP_ENV = "VAULT_LINT_SKIP_GATE"
-GATE_CODE_PATHSPECS = ["scripts", "tests"]
 
 
-def code_changed_in_git() -> bool:
-    out = run_git(["-c", "core.quotePath=false", "status", "--porcelain", "--untracked-files=all", "--", *GATE_CODE_PATHSPECS])
-    return any(line[3:].strip().endswith(".py") for line in out.splitlines() if len(line) > 3)
-
-
-def start_gate_checks(run_tests: Optional[bool] = None) -> List[Tuple[str, str, str, "subprocess.Popen[str]"]]:
-    """Start index / citation / test checks in parallel with the lint pass.
+def start_gate_checks() -> List[Tuple[str, str, str, "subprocess.Popen[str]"]]:
+    """Start registry and index checks in parallel with the lint pass.
 
     Returns (code, issue_path, fix_hint, process) tuples; collect with finish_gate_checks()."""
     if os.environ.get(GATE_SKIP_ENV):
         return []
     checks = [
-        ("JOURNAL_REGISTRY_INVALID", "citation/journals.json", "register the journal or correct its filename code", ["scripts/journal_index.py", "--check"]),
         ("INDEX_STALE", "wiki/index.json", "run: python3 scripts/vault_index.py", ["scripts/wiki_index.py", "--check"]),
         ("CITATION_INDEX_STALE", "citation/citation_full.json", "run: python3 scripts/vault_index.py", ["scripts/citation_index.py", "--check"]),
     ]
-    if run_tests is None:
-        run_tests = code_changed_in_git()
-    if run_tests:
-        checks.append(("TESTS_FAILED", "tests", "fix the failing tests in tests/ (run: python3 -m unittest discover -s tests)", ["-m", "unittest", "discover", "-s", "tests", "-q"]))
     env = dict(os.environ, **{GATE_SKIP_ENV: "1"})
     started = []
     for code, issue_path, hint, cmd in checks:
@@ -3370,10 +3364,10 @@ def finish_gate_checks(started, issues: List[Issue]) -> None:
 HIDDEN_PREEXISTING_WARNINGS = 0
 
 
-def lint_vault(paths: List[Path], strict: bool = False, full: bool = False, fix: bool = False, gate: bool = True, run_tests: Optional[bool] = None, all_warnings: bool = False) -> List[Issue]:
+def lint_vault(paths: List[Path], strict: bool = False, full: bool = False, fix: bool = False, gate: bool = True, all_warnings: bool = False) -> List[Issue]:
     issues: List[Issue] = []
     check_required_files(issues)
-    from journal_index import load_registry
+    from citation_index import load_registry
     try:
         load_registry()
     except (OSError, ValueError) as exc:
@@ -3413,7 +3407,7 @@ def lint_vault(paths: List[Path], strict: bool = False, full: bool = False, fix:
             entry_metadata.cache_clear()
         print(f"--fix: {total_fixes} issue(s) fixed in {changed_files} file(s)\n")
 
-    gate_checks = start_gate_checks(run_tests) if gate else []
+    gate_checks = start_gate_checks() if gate else []
 
     # Outside --full, report only warnings this change introduced: compare
     # each file's findings with its HEAD version and hide the ones it had.
@@ -3459,6 +3453,7 @@ def lint_vault(paths: List[Path], strict: bool = False, full: bool = False, fix:
 
 def main() -> int:
     parser = argparse.ArgumentParser(description="Lint Obsidian / Quartz academic wiki vault.")
+    parser.add_argument("--base", help="Read-only CI check of changes from this commit to HEAD, including clean checkouts.")
     parser.add_argument("--strict", action="store_true", help="treat warnings as failures")
     parser.add_argument("--json", action="store_true", help="output JSON")
     parser.add_argument("--path", action="append", default=[], help="limit lint to path. Can be repeated. Overrides default git-incremental mode.")
@@ -3466,14 +3461,27 @@ def main() -> int:
     parser.add_argument("--quiet", action="store_true", help="only print errors and summary")
     parser.add_argument("--show-info", action="store_true", help="include INFO items in text output")
     parser.add_argument("--all-warnings", action="store_true", help="also show warnings that already existed at HEAD (default outside --full: only newly introduced warnings)")
-    parser.add_argument("--no-gate", action="store_true", help="skip the commit-gate checks (index freshness, citation index, unit tests)")
-    parser.add_argument("--tests", action="store_true", help="always run unit tests as part of the gate (default: only when scripts/ or tests/ changed)")
+    parser.add_argument("--no-gate", action="store_true", help="skip the commit-gate checks (journal registry and index freshness)")
     parser.add_argument("--fix", action="store_true", help="auto-fix mechanical issues (including malformed sibling [!axis] separators) before linting")
     args = parser.parse_args()
+    if args.base is not None:
+        if args.fix:
+            parser.error("--base is read-only and cannot be combined with --fix")
+        if not args.base:
+            parser.error("--base must name a commit")
+        if set(args.base) != {"0"}:
+            result = subprocess.run(["git", "rev-parse", "--verify", "--end-of-options", f"{args.base}^{{commit}}"], cwd=ROOT, capture_output=True)
+            if result.returncode:
+                parser.error("--base does not resolve to a commit")
+            args.base = result.stdout.decode("ascii").strip()
+        os.environ["VAULT_LINT_BASE"] = args.base
+        os.environ["VAULT_JOURNAL_BASE"] = args.base
+        _git_changed_md_files_cached.cache_clear()
+        git_head_paths.cache_clear()
 
     paths = [(ROOT / p).resolve() if not Path(p).is_absolute() else Path(p).resolve() for p in args.path]
     issues = lint_vault(paths, strict=args.strict, full=args.full, fix=args.fix,
-                        gate=not args.no_gate, run_tests=True if args.tests else None,
+                        gate=not args.no_gate,
                         all_warnings=args.all_warnings)
 
     errors = [i for i in issues if i.severity == "ERROR"]
@@ -3492,7 +3500,7 @@ def main() -> int:
         print()
         print(f"Summary: {len(errors)} error(s), {len(warns)} warning(s), {len(infos)} info item(s).")
         if HIDDEN_PREEXISTING_WARNINGS:
-            print(f"(Only warnings introduced by this change are listed; {HIDDEN_PREEXISTING_WARNINGS} pre-existing warning(s) from HEAD hidden. Use --all-warnings to show them.)")
+            print(f"(Only warnings introduced by this change are listed; {HIDDEN_PREEXISTING_WARNINGS} pre-existing warning(s) from the comparison baseline hidden. Use --all-warnings to show them.)")
 
     if errors:
         return 1

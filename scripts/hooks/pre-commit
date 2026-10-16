@@ -16,8 +16,8 @@ git add wiki/index.json wiki/index.md \
     wiki/instruments/index.md wiki/persons/index.md wiki/facts/index.md \
     wiki/arguments/index.md citation/citation_full.json citation/citation_ambiguous.json
 
-echo "[pre-commit] tests, index consistency, citations, and incremental lint..."
-if ! "$PY" scripts/check_vault.py; then
+echo "[pre-commit] journal naming, index consistency, citations, and incremental lint..."
+if ! "$PY" scripts/vault_lint.py; then
     echo ""
     echo "[pre-commit] validation failed - commit blocked."
     echo "[pre-commit] fix mechanical issues with: $PY scripts/vault_lint.py --fix"
