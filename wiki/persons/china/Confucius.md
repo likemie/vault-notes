@@ -8,7 +8,7 @@ summary: "中国春秋时期思想家、教育家，儒学创始人，以修身�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 39
+person_related_count: 38
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"

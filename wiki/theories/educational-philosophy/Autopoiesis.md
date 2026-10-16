@@ -5,10 +5,10 @@ aliases:
 summary: "把生命系统理解为通过自我生产和自我指涉维持边界与连续性的理论，常用于分析系统如何在与环境互动中保持自身组织。在理性主义比较教育中，该理论解释了教育系统在世界社会同质化压力下的自我参照与本国折射机制；在后人类主义教育学中，它与共同制造（Sympoiesis）相对，作为分析系统自组织涌现、去中心化转型与防范知识殖民的重要理论资源。"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 30
-theory_related_level: 3
-theory_related_stars: "💎"
-theory_related_color: "#ede9fe"
+theory_related_count: 29
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory/autopoiesis
   - theory/systems-theory

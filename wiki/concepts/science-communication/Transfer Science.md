@@ -9,7 +9,7 @@ aliases:
 summary: "指将知识与创新从研究向实践、行政及政策领域流动的机制、条件与转化过程作为独立经验与理论对象的科学形态，强调突破单向线性传输与医学转化类比，致力于阐明转移对象、行动者网络配置与复杂情境中的作用假设。"
 type: concept
 domain: "science-communication"
-related_count: 39
+related_count: 38
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"

@@ -9,7 +9,7 @@ aliases:
 summary: "人才国际循环网络中的不均衡流动状态，表现为高水平科研人才持续流向发达国家，而流入引智则主要依赖学术水平较低的地区，且本土化替代难以弥补流失质量。"
 type: concept
 domain: "comparative-education"
-related_count: 9
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"

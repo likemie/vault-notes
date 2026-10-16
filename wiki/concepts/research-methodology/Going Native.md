@@ -9,10 +9,10 @@ aliases:
 summary: "质性研究与民族志方法论中参与观察者过度认同被研究群体、完全内化其价值规范并丧失客观批判距离的认识论危机。与完全脱离角色的推断危险构成参与观察的两极困境；在跨文化比较教育田野中体现为文化共情融入与横向批判反思之间的双重张力；需通过持续的分析性反思与制度化脱离机制加以防范。"
 type: concept
 domain: "research-methodology"
-related_count: 11
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - method/observation
   - paradigm/qualitative

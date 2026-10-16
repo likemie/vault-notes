@@ -8,7 +8,7 @@ aliases:
 summary: "由德克萨斯大学奥斯汀分校UTeach项目团队研发的针对数学与科学学科探究式教学的标准化课堂观察工具，围绕课堂环境、课时结构、教学实施以及数学/科学学科内容四大板块设立26项具体评定指标，采用1至5点等级量规综合评价中小学STEM课堂中的探究设计、概念严谨性与学生自主建构深度。"
 type: instrument
 instrument_type: observation-tool
-instrument_related_count: 17
+instrument_related_count: 16
 instrument_related_level: 1
 instrument_related_stars: "⭐"
 instrument_related_color: "#cffafe"

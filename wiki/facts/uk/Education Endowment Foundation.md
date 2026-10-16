@@ -9,7 +9,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 116
+fact_related_count: 115
 fact_related_level: 11
 fact_related_stars: "💎💎💎⭐⭐"
 fact_related_color: "#fecdd3"

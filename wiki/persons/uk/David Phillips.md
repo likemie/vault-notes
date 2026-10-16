@@ -7,7 +7,7 @@ summary: "英国比较教育学者，政策借用四阶段模型共同提出者�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 9
+person_related_count: 8
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"

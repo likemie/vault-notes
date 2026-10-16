@@ -9,10 +9,10 @@ summary: "美国哈佛商学院经济学与战略管理学者，当代竞争战�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 30
-person_related_level: 3
-person_related_stars: "💎"
-person_related_color: "#ede9fe"
+person_related_count: 29
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1947"
 died: ""
 lifespan: "1947–至今"

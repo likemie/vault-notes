@@ -10,7 +10,7 @@ summary: "用于辅助质性研究中文本、音频与图像数据组织、编�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 52
+method_related_count: 51
 method_related_level: 5
 method_related_stars: "💎⭐⭐"
 method_related_color: "#dbeafe"

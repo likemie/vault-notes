@@ -12,7 +12,7 @@ aliases:
 summary: "在粒子物理、同步辐射、中子源及微纳制造前沿领域建设的高成本大型综合科研基础设施。传统上依赖多边国际合作，当代科技战略推动其向产业开放共享洁净室与中试线，成为支撑微电子与先进制造竞争力的国家基石。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 26
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

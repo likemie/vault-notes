@@ -9,7 +9,7 @@ aliases:
 summary: "比较教育学在两次世界大战之间形成的政治哲学二元类型学，深刻区分以国家强权、意识形态灌输与政治极权动员为特征的政治民族主义，与以文化传统传承、公民健全心智发展及国际主义理解为导向的文化民族主义。"
 type: concept
 domain: "comparative-education"
-related_count: 17
+related_count: 16
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

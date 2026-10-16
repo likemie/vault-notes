@@ -11,7 +11,7 @@ subtype: program
 region: italy
 fact_region: "italy"
 fact_kind: "program"
-fact_related_count: 9
+fact_related_count: 8
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#ede9fe"

@@ -6,7 +6,7 @@ aliases:
 summary: "日本在 2004 年 PISA 2003 结果公布后纳入国家教育政策目标的学术能力概念，聚焦问题解决、知识应用等高阶能力，区别于传统知识记忆型学力"
 type: concept
 domain: "comparative-education"
-related_count: 11
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-09
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # PISA Literacy

@@ -9,7 +9,7 @@ aliases:
 summary: "指教师在宏观课程框架指引下，对教学法选择、探究实验设计、本土化课程开发与评价方式拥有充分的专业决策权与自主行动空间，并在遭遇新泰勒制规训与政策博弈时具备批判性审议与多阵线民主行动能力"
 type: concept
 domain: "teacher-education"
-related_count: 49
+related_count: 48
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"

@@ -10,7 +10,7 @@ aliases:
 summary: "以学生为学习主体、强调学生自主性与对话探究的教学理念，在不同文化和高利害考试语境下被重构为具备不同功能与权力边界的教学实践"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 32
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"

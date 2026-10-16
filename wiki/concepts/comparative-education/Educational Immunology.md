@@ -8,7 +8,7 @@ aliases:
 summary: "比较教育学分析视角，描述接受国在面对强行嵌入的外来教育学制或政策移植时，为了维护本土文化生态和制度主体性而自发形成的排异、过滤和抵抗改写机制"
 type: concept
 domain: "comparative-education"
-related_count: 8
+related_count: 7
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -33,7 +33,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-03
-updated: 2026-08-20
+updated: 2026-10-16
 ---
 
 # Educational Immunology

@@ -7,7 +7,7 @@ summary: "澳大利亚莫纳什大学教育学教授与莫纳什 Q 项目负责�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 21
+person_related_count: 20
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"

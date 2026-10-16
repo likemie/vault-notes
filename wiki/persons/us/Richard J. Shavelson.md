@@ -10,7 +10,7 @@ summary: "美国当代著名教育心理学家与心理测量学家，斯坦福�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 35
+person_related_count: 34
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"

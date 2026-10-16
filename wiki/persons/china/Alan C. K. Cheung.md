@@ -8,7 +8,7 @@ summary: "香港中文大学教育学院教授、证据本位教育改革与大�
 type: person
 nationality: china
 person_region: "china"
-person_related_count: 41
+person_related_count: 40
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
