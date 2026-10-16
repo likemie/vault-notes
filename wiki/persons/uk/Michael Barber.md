@@ -34,12 +34,13 @@ related_concepts:
   - "[[Educational Brokerage Agency]]"
   - "[[Policy Entrepreneur]]"
   - "[[Network Governance]]"
+  - "[[Social Impact Investing]]"
+  - "[[Discourse]]"
   - "[[Technical Rationality]]"
   - "[[Tracking]]"
-  - "[[Discourse]]"
   - "[[New Public Management]]"
-  - "[[Venture Philanthropy]]"
   - "[[Policy Network]]"
+  - "[[Venture Philanthropy]]"
 related_theories: []
 related_methods:
   - "[[Correlational Research]]"
@@ -53,6 +54,8 @@ related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[The Importance of Teaching]]"
   - "[[Higher Education Act of 1965]]"
+  - "[[PISA]]"
+  - "[[TIMSS]]"
   - "[[World Bank]]"
   - "[[OECD]]"
   - "[[Social Ventures Australia]]"
@@ -111,10 +114,14 @@ updated: 2026-10-16
 >   - **代表著作** *How the World's Best-Performing School Systems Come Out on Top* (McKinsey & Company, 2007)；*How the World's Most Improved School Systems Keep Getting Better* (McKinsey & Company, 2010)。
 >   - **关键概念／方法** [[School Effectiveness]]、[[Evidence-Based Education]]、教师专业质量基准。
 >   - **阶段转向** 从单一主权国家的政府交付机制，扩展至跨国教育[[Policy Borrowing\|政策借用]]与因果实证框架输出，其理念直接形塑了英美澳等国关于教师资质与国家[[Educational Brokerage Agency\|证据中介机构]]（如 [[Education Endowment Foundation\|EEF]]）的政策想象（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 6]]）。
-> - **2011–至今 — 跨国教育商业化与混合型政策创业阶段** 深度介入跨国跨界教育企业与[[Higher Education Act of 1965\|高等教育法]]定监管，将量化问责与成果导向扩展至全球教育服务市场。
+> - **2011–至今 — 跨国教育商业化与混合型政策创业阶段** 深度介入跨国教育商业巨头培生集团与英国[[Higher Education Act of 1965|高等教育法]]定监管，将量化问责与成果导向推向全球教育服务市场与低收入国家办学网络。
 >   - **代表著作** *The Learning Curve* (Pearson / EIU, 2012, 2014)；*How to Run a Government: So that Citizens Benefit and Taxpayers Don't Go Crazy* (2015)。
->   - **关键概念／方法** [[Policy Entrepreneur]]、[[Network Governance]]、[[Educational Brokerage Agency]]。
->   - **阶段转向** 游走于公共机构、跨国商业巨头与第三方智库之间，成为新自由主义教育治理中典型的混合型政策企业家（[[Argument_ONeill_2016_Report\|O'Neill et al., 2016, pp. 47–64]]）。
+>   - **关键概念／方法** [[Policy Entrepreneur]]、[[Network Governance]]、[[Educational Brokerage Agency]]、[[Social Impact Investing]]。
+>   - **战略工程与机制突破**
+>     - **功效体系（Efficacy Framework）** 在培生全球产品线强制推行“功效审计”，要求所有商业教育产品与服务必须接受实证效能考核，将交付学评估哲学制度化为企业产品研发标准。
+>     - **《学习曲线》（The Learning Curve）全球报告** 以“民调的民调”（poll of polls）形式整合[[PISA|国际学生评估项目]]（PISA）与[[TIMSS|国际数学与科学趋势研究]]（TIMSS）等认知测验数据，打造全球教育体系效能综合排行榜，将商业咨询的国际标杆比拼推向极致。
+>     - **培生可负担学习基金（PALF）与全球南方投资** 亲任 PALF 董事会主席，与凯特琳·唐纳利（Katelyn Donnelly）共同设立并追加至 6500 万美元资本，在巴基斯坦、印度、加纳、菲律宾等国大举入股营利性低收费私立学校（如 Omega Schools、Bridge International Academies 等）；运用“[[Social Impact Investing|社会影响力投资]]”的[[Discourse|话语]]修辞将资本扩张包装为援助发展，在第三世界开辟跨国教育资本新领地（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 81–82]]）。
+>   - **阶段转向** 游走于公共机构、跨国商业巨头与第三方智库之间，成为新自由主义教育治理中典型的混合型政策企业家（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 47–64]]）。
 
 ---
 
@@ -140,16 +147,17 @@ updated: 2026-10-16
 > [!influence-path] 影响路径
 > - **理论与[[Discourse|话语]]路径** 将“交付学”确立为跨国公共管理与[[New Public Management\|新公共管理]]（New Public Management, NPM）晚期的显学话语，使“指标追踪”、“例行审议（Stocktakes）”与“交付机构（Delivery Units）”成为数十个主权国家与[[World Bank\|世界银行]]、[[OECD\|经合组织]]等国际组织的通用治理词汇。
 > - **政策与组织路径** 领导英国首相交付组与学校标准与效能组，彻底将目标设定与表格化绩效审计制度化；其麦肯锡报告的政策建议直接被英国教育大臣[[Michael Gove\|戈夫]]采纳并写入 2010 年白皮书[[The Importance of Teaching\|《教学的重要性》]]，奠定了以 1.25 亿英镑政府资金创设英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）的政策法理基石（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 6]]；[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]]）。
-> - **跨国与跨界商业化路径** 从英国白厅内阁流转至麦肯锡战略咨询，再流动至跨国教育出版寡头培生集团，巴伯开创了教育专家跨越政、商、学三界的高级“旋转门”轨迹，深刻推动了跨国商业咨询公司（如麦肯锡、波士顿咨询）对主权国家公共教育改革的深度介入与议程统摄。
+> - **跨国与跨界商业化路径** 从英国白厅内阁流转至麦肯锡战略咨询，再流动至跨国教育出版寡头培生集团，巴伯开创了教育专家跨越政、商、学三界的高级“旋转门”轨迹。在 Gephi 网络拓扑分析中，巴伯处于连接英国国际发展部（Department for International Development, DfID）、英国财政部（HM Treasury）、世界经济论坛（World Economic Forum, WEF）、全球商业战略咨询与跨国教育资本（Pearson）的核心跨界[[Policy Network|政策网络]]枢纽（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 81–82]]），深刻推动了跨国商业咨询网络与教育跨国寡头对主权国家公共教育改革的深度介入与议程统摄。
 
 ---
 
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **政界盟友与委托人** 托尼·布莱尔（Tony Blair，英国前首相）— 亲自设立并授权首相交付组，为其交付学体系提供国家中枢政治后盾；[[Michael Gove\|迈克尔·戈夫]]（Michael Gove，英国前教育大臣）— 深度接受其麦肯锡咨询理念，在白皮书中规划设立 [[Education Endowment Foundation\|EEF]]。
-> - **政策咨询与智库网络** [[Michael Traill\|迈克尔·特雷尔]]（Michael Traill）与[[Social Ventures Australia\|澳大利亚社会创投]]（[[Social Ventures Australia\|SVA]]）网络 — 其全球咨询网络与麦肯锡前高管网络协同，推动英国 EEF 证据中介模式向[[Evidence for Learning\|澳大利亚证据学习中心]]（[[Evidence for Learning\|E4L]]）转译（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]]）。
-> - **批评者与学术论敌** [[Paul Morris\|保罗·莫里斯]]（Paul Morris）与尤恩·奥尔德（Euan Auld）— 深入剖析巴伯思想中救赎主义政治神学修辞与技术官僚霸权（[[Argument_Cowen_2023_CE\|Cowen, 2023, p. 334]]）；[[Stephen Ball\|斯蒂芬·鲍尔]]（Stephen Ball）— 批判其推动[[School Effectiveness\|学校效能]]与绩效度量入侵国家行政机器（[[Argument_Ball_2008_SR\|Ball, 2008, p. 663]]）；埃德温娜·罗威（Edwina Rowe）— 揭示其代表的麦肯锡全球网络对英澳两国[[Evidence-Based Education\|循证教育]]与[[Venture Philanthropy\|风险慈善]]中介的深层装配（[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 6]]；[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 530–531]]）。
+> - **政界盟友与委托人** 托尼·布莱尔（Tony Blair，英国前首相）— 亲自设立并授权首相交付组，为其交付学体系提供国家中枢政治后盾；[[Michael Gove|迈克尔·戈夫]]（Michael Gove，英国前教育大臣）— 深度接受其麦肯锡咨询理念，在白皮书中规划设立 [[Education Endowment Foundation|EEF]]。
+> - **政策咨询与智库网络** [[Michael Traill|迈克尔·特雷尔]]（Michael Traill）与[[Social Ventures Australia|澳大利亚社会创投]]（[[Social Ventures Australia|SVA]]）网络 — 其全球咨询网络与麦肯锡前高管网络协同，推动英国 EEF 证据中介模式向[[Evidence for Learning|澳大利亚证据学习中心]]（[[Evidence for Learning|E4L]]）转译（[[Argument_Rowe_2023_ECNUROE|Rowe, 2023, p. 530]]）。
+> - **政商学跨界与全球南方网络** 培生集团（Pearson plc）与培生可负担学习基金（PALF）— 亲任 PALF 董事会主席，与前麦肯锡同事凯特琳·唐纳利（Katelyn Donnelly）主导数千万美元风投资本流向全球南方低收费私立学校；同时依托世界经济论坛（World Economic Forum, WEF）等跨界平台输出全球教育治理框架（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 81–82]]）。
+> - **批评者与学术论敌** [[Paul Morris|保罗·莫里斯]]（Paul Morris）与尤恩·奥尔德（Euan Auld）— 深入剖析巴伯思想中救赎主义政治神学修辞与技术官僚霸权（[[Argument_Cowen_2023_CE|Cowen, 2023, p. 334]]）；[[Stephen Ball|斯蒂芬·鲍尔]]（Stephen Ball）— 批判其推动[[School Effectiveness|学校效能]]与绩效度量入侵国家行政机器（[[Argument_Ball_2008_SR|Ball, 2008, p. 663]]）；埃德温娜·罗威（Edwina Rowe）— 揭示其代表的麦肯锡全球网络对英澳两国[[Evidence-Based Education|循证教育]]与[[Venture Philanthropy|风险慈善]]中介的深层装配（[[Argument_Rowe_2022_IJER|Rowe, 2022, p. 6]]；[[Argument_Rowe_2023_ECNUROE|Rowe, 2023, pp. 530–531]]）。
 
 ---
 
@@ -160,13 +168,13 @@ updated: 2026-10-16
 > > [!axis] “交付科学” vs 政治神学化与教育伦理剥夺
 > > 探讨围绕巴伯将政府与学校系统改造为指标达标机器的哲学与伦理争议。
 > >
-> > - **批判比较教育学视角** [[Argument_Cowen_2023_CE\|Cowen (2023, p. 334)]] 与 Auld and Morris (2023) 尖锐指出，巴伯所宣扬的“交付科学”并非纯粹客观的行政技术，其实质是一种世俗化的“末日政治神学”。巴伯将自身包装成带来危机救赎的先知，将复杂深沉的教育价值彻底缩减为冰冷的比较指标和效率达标率，使国家行政机器沦为指标管理的附属品，在根本上挤压了教育的公共伦理与人性培育本质。
+> > - **批判比较教育学视角** [[Argument_Cowen_2023_CE|Cowen (2023, p. 334)]] 与 Auld and Morris (2023) 尖锐指出，巴伯所宣扬的“交付科学”并非纯粹客观的行政技术，其实质是一种世俗化的“末日政治神学”。巴伯将自身包装成带来危机救赎的先知，将复杂深沉的教育价值彻底缩减为冰冷的比较指标和效率达标率，使国家行政机器沦为指标管理的附属品，在根本上挤压了教育的公共伦理与人性培育本质。
 > > - **技术官僚与政策辩护视角** 认为传统[[Bureaucracy|科层制]]官僚主义充斥拖延与推诿，在未建立严密交付追踪前，公共财政的巨额投入往往在漫长的行政链条中消解；交付学为政府落实选民承诺提供了清晰的执行纪律与可量化的问责依据。
 >
 > > [!axis] 独立专业建议 vs 商业咨询与教育产业化旋转门
 > > 审视巴伯穿梭于政界、商界与教育智库之间所引发的公共性危机。
 > >
-> > - **批判政策社会学视角** [[Argument_Ball_2008_SR\|Ball (2008)]]、[[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] 及 [[Argument_Rowe_2022_IJER\|Rowe (2022, 2023)]] 指出，巴伯是跨国新自由主义教育改革中最具代表性的“[[Policy Entrepreneur\|政策企业家]]”。他巧妙游走于政府内阁、麦肯锡咨询与跨国教育巨头培生之间，将公立教育包装成可经由商业量规重组的商品，以“循证改进”为由推动国家教育科研向私营中介与商业咨询公司分包，加剧了全球教育政策的私有化与商业捕获风险。
+> > - **批判政策社会学视角** [[Argument_Ball_2008_SR|Ball (2008)]]、[[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] 及 [[Argument_Rowe_2022_IJER|Rowe (2022, 2023)]] 指出，巴伯是跨国新自由主义教育改革中最具代表性的“[[Policy Entrepreneur|政策企业家]]”。他巧妙游走于政府内阁、麦肯锡咨询与跨国教育巨头培生之间，将公立教育包装成可经由商业量规重组的商品；其所主导设立的培生可负担学习基金（PALF）假借“[[Social Impact Investing|社会影响力投资]]”之名，行第三世界营利性低收费私立学校扩张之实，将国家教育科研向私营中介与商业咨询公司分包，加剧了全球教育政策的私有化与商业捕获风险。
 > > - **咨询业界视角** 强调麦肯锡全球教育报告首次系统归纳了国际高绩效学校体系的优秀实践，促进了跨国最佳实践的流通与本土学习，打破了封闭保守的传统教育官僚壁垒。
 
 ---
@@ -187,11 +195,13 @@ updated: 2026-10-16
 > | [[The Importance of Teaching]] | 政策 | 2010 年英国政府白皮书，直接吸纳巴伯关于教师质量与独立证据基金会的建议。 |
 > | [[Social Ventures Australia]] | 组织 | 麦肯锡校友网络与巴伯倡导的跨国证据模式向澳洲转译的关键承接载体。 |
 > | [[Evidence for Learning]] | 组织 | 引入 EEF 工具包并获联合资助的澳洲本土试验平台，深植于巴伯构建的跨国网络。 |
+> | [[Social Impact Investing]] | 概念 | 巴伯在培生时期推动 PALF 基金在发展中国家投资低收费私校的核心道德修辞与运作机制。 |
 > | [[Paul Morris]] | 人物 | 批判比较教育学者，深入剖析巴伯交付学[[Discourse\|话语]]背后的政治神学修辞与绩效霸权。 |
 > | [[Michael Gove]] | 人物 | 英国前教育大臣，依据巴伯的咨询理念在白皮书中规划创设 EEF。 |
 > | [[Argument_Cowen_2023_CE\|Cowen (2023)]] | 关键论证 | 记录并深化对巴伯交付学体系作为政治神学与指标管理附属品的理论批判。 |
 > | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] | 关键论证 | 揭示 EEF 的创设深植于巴伯的麦肯锡全球网络及其对澳洲[[Venture Philanthropy\|风险慈善]]中介的跨国辐射。 |
 > | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | 关键论证 | 揭示戈夫在白皮书中依据巴伯咨询理念设立 EEF 的历史经纬。 |
+> | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] | 关键论证 | 揭示巴伯作为政策企业家在跨国咨询、培生集团及影响力投资网络中的关键枢纽地位。 |
 
 ---
 

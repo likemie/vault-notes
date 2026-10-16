@@ -10,7 +10,7 @@ subtype: event
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "event"
-fact_related_count: 55
+fact_related_count: 56
 fact_related_level: 5
 fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -65,6 +65,7 @@ related_facts:
   - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[Tomorrow's Schools Reforms]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Institute of Education Sciences]]"
   - "[[The New Zealand Curriculum]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
   - "[[Hattie på dansk]]"
@@ -172,7 +173,7 @@ Visible Learning 的跨国扩张没有采取重资产自建模式，而是依托
 Visible Learning 凭借其高度简化的[[Effect Size|效应量]]排名图表，契合了各国政策制定者追求“低成本、课堂级速效修复”的治理诉求，在多国教育体系中实现了深度制度化嵌入。
 
 > [!dev-timeline] 各国政策制度化采纳
-> - **新西兰 — 课程改革与财政误用** 早期深度嵌入教育部《有效教师特征》与《[[The New Zealand Curriculum|新西兰课程]]》（2010），Hattie 出任国家标准技术顾问；新西兰财政部（Treasury）2011 年甚至引用其效应量数据提出“[[Class Size|班级规模]]不重要”，建议削减师资编制以增加生师比，遭到学界强烈反弹。[[Argument_ONeill_2012_NZJES|(O'Neill, 2012, pp. 154–157)]]
+> - **新西兰 — 课程改革、财政误用与“投资教育成功”（[[Institute of Education Sciences|IES]]）** 早期深度嵌入教育部《有效教师特征》与《[[The New Zealand Curriculum|新西兰课程]]》（2010），Hattie 出任国家标准技术顾问；新西兰财政部（The Treasury）2011 年甚至直接引用其效应量数据提出“[[Class Size|班级规模]]不重要”，建议削减师资编制以增加生师比，遭到学界与工会强烈反弹（[[Argument_ONeill_2012_NZJES|O'Neill, 2012, pp. 154–157]]）。2014 年国家党政府投入 **3.59 亿新西兰元** 启动“投资教育成功”（Investing in Educational Success, IES）旗舰计划，设立跨校“学习共同体”（Communities of Learning, CoL / Kāhui Ako）以分享循证教学实践；其核心政策蓝图直接源于 Hattie 的合作专业精神与可见学习理论框架；在 2015 年新西兰教育节（NZ Festival of Education）上，[[Cognition Education|认知教育信托]]出资赞助 Hattie 与 Michael Fullan 登台演讲，形成了公共政策重构、私营商业培训与学术领袖互为背书的闭环同盟。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 13, 21–22, 89)]]
 > - **澳大利亚 — 国家标准嵌入与官方背书** Hattie 出任 [[Australian Institute for Teaching and School Leadership|AITSL]] 董事会主席，将 VL 指标要求全面嵌入国家教师与校长专业标准及持续认证体系；维多利亚州教育部官方背书并将 10 项高影响教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]）以 VL 为首选参考；ABC 纪录片《革命学校》将其描绘为公共教育拯救者。[[Argument_Sarbiewska_2019_JSR|(Sarbiewska, 2019, pp. 126–128)]]
 > - **丹麦 — 公立学校法案采纳与剧烈反弹** 2014 年丹麦议会公立学校改革明确引用 VL 将科目目标改为学习成果；但因改革与削减教师劳动权益的争议法案捆绑，迅速引发教师工会与学界的强烈抗议，出版批判文集《[[Hattie på dansk]]》，促成支持者与反对者的激烈论战。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, pp. 3–5)]]
 > - **瑞典 — “科学基础”下的学校改进重塑** 瑞典依据学校法对“科学基础与实证证据”的要求，将 VL 转译为聚焦课堂近端策略、同伴观察与教师协作的校本改进工作流程（详见 [[Visible Learning in Sweden]]）。
@@ -260,3 +261,6 @@ Visible Learning 凭借其高度简化的[[Effect Size|效应量]]排名图表�
 > | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] | Argument | 详尽调查揭露 Hattie、奥克兰大学与 Cognition 之间商业化利益网络与财务轨迹的权威报告。 |
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | Argument | 从新自由主义[[Global Education Reform Movement\|全球教育改革运动]]（GERM）视角深度批判 VL 商业化与利益冲突的代表性论文。 |
 > | [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] | Argument | 针对 Meta-X 数据库开展实证评测、揭示早期历史人工录入局限并确立人机验证[[Paradigm\|范式]]的最新研究。 |
+
+---
+

@@ -7,9 +7,9 @@ aliases:
 summary: "经过目的性选择和加工的派生统计量，具备“技术理性”与“权力规制”双重属性（Le Galès, 2016）。通过将异质、复杂的教育系统还原为跨国可比的数值与排名，绩效指标在提供决策信息的同时重塑行动者行为与治理关系。在数字治理 2.0 时代，绩效指标成为构筑“理性表象”的政治脚手架（Steiner-Khamsi et al., 2024）；并在经合组织“数字政策进路”与投入产出系统中以等价空间信度悬置教育目的哲学辩论（Rizvi & Lingard, 2009）。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 65
-related_level: 6
-related_stars: "💎💎"
+related_count: 73
+related_level: 7
+related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - concept/educational-policy-reform
@@ -42,6 +42,9 @@ related_concepts:
   - "[[Space of Equivalence]]"
   - "[[Epistemology]]"
   - "[[International Education]]"
+  - "[[Visible Learning]]"
+  - "[[Zone of Desired Effects]]"
+  - "[[Learning Intentions]]"
   - "[[Heterogeneity]]"
   - "[[Discourse]]"
   - "[[Lifelong Learning]]"
@@ -63,13 +66,16 @@ related_theories:
   - "[[Path Dependence]]"
   - "[[Human Capital Theory]]"
 related_methods:
+  - "[[Effect Size]]"
   - "[[Correlational Research]]"
-related_instruments: []
+related_instruments:
+  - "[[Assessment Tools for Teaching and Learning]]"
 related_persons:
   - "[[Norberto Bottani]]"
   - "[[Bob Jessop]]"
   - "[[Fazal Rizvi]]"
   - "[[Bob Lingard]]"
+  - "[[John O'Neill]]"
 related_facts:
   - "[[OECD]]"
   - "[[International Indicators of Education Systems]]"
@@ -82,6 +88,7 @@ related_facts:
   - "[[World Bank]]"
   - "[[UNESCO]]"
   - "[[Systems Approach for Better Education Results]]"
+  - "[[New Zealand National Standards]]"
   - "[[YOUNG_ADULLLT]]"
   - "[[Education for All]]"
 related_arguments:
@@ -257,7 +264,7 @@ updated: 2026-10-16
 
 ### 实证运作中的组织行为学与宏观绩效反思（[[Argument_Gorur_2014_Discourse|Gorur, 2014]]; [[Argument_Rambla_2022_Springer|Rambla, 2022]]; [[Argument_Rust_2009_Reflections|Rust et al., 2009]]; [[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）
 
-- **微观课堂指标工具化与效应量崇拜（新西兰实证）** 约翰·奥尼尔等学者在剖析新西兰国家标准（National Standards）与《[[Visible Learning|可见的学习]]》政策转化时指出，绩效指标在基层遭遇了严重的机械化降格：教育部与学区管理者将学术研究中用于宏观比较的统计指标（如 Hattie 提出的 $d \ge 0.40$ 期望效应区），直接降格为微观考核学校改进和教师胜任力的刚性达标门槛。这迫使一线教师陷入表演性（Performativity），通过机械化的白板“学习意向”（Learning Intentions）打卡和频繁施测 [[Assessment Tools for Teaching and Learning|asTTle]] 测验来制造“产生达标增值”的数字台账，导致教育实践在“客观绩效指标”的名义下异化为狭隘的量化自证。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 47–51)]]
+- **微观课堂指标工具化与[[Effect Size|效应量]]崇拜（新西兰实证）** [[John O'Neill|约翰·奥尼尔]]等学者在剖析[[New Zealand National Standards|新西兰国家标准]]（National Standards）与《[[Visible Learning|可见的学习]]》政策转化时指出，绩效指标在基层遭遇了严重的机械化降格：教育部与学区管理者将学术研究中用于宏观比较的统计指标（如 Hattie 提出的 $d \ge 0.40$ [[Zone of Desired Effects|期望效应区]]），直接降格为微观考核学校改进和教师胜任力的刚性达标门槛。这迫使一线教师陷入[[Performativity|表演性]]（Performativity），通过机械化的白板“学习意向”（[[Learning Intentions]]）打卡和频繁施测 [[Assessment Tools for Teaching and Learning|asTTle]] 测验来制造“产生达标增值”的数字台账，导致教育实践在“客观绩效指标”的名义下异化为狭隘的量化自证。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 47–51)]]
 - **指标反身影响利益博弈** EAG 教师薪资指标发布后，直接成为荷兰等国教师工会发起抗议并成功争取提薪的硬通货（Smith & Baker, 2001; [[Argument_Gorur_2014_Discourse|Gorur, 2014, pp. 3–4]]）。
 - **指标删除的体制黏性** 一旦某项指标被编制发布，即便 OECD 技术团队因方法论瑕疵希望下架，政策制定者与媒体因形成[[Path Dependence|路径依赖]]也会强烈抵制其删除（[[Argument_Gorur_2014_Discourse|Gorur, 2014, p. 17]]）。
 - **指标体系对区域[[Heterogeneity|异质性]]的抹平与固化** 欧盟区域创新记分牌将所有成员国区域划分为“创新领导者”与“温和创新者”，年复一年的排榜不仅未能缩小差距，反而在[[Discourse|话语]]和资本流动层面自我实现了马太效应（[[Argument_Rambla_2022_Springer|Rambla, 2022, p. 174]]）。
@@ -302,7 +309,7 @@ updated: 2026-10-16
 > - [[Argument_Rust_2009_Reflections|Rust, Johnstone & Allaf (2009)]] — 比较[[Education for All|全民教育]]（EFA）核心绩效指标在拉美与非洲的落实情况，以古巴达成全部指标而结构调整受援国指标落后为证据，揭示外来市场化[[Disciplina and Doctrina|规训]]在提升教育绩效上的实质困境。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 运用[[Façade of Rationality|理性表象]]与数字叙事理论，剖析国际组织如何将绩效指标工具化为[[Policy Brokerage|政策中介]]武器以施展[[Soft Power|软权力]]。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, pp. 447–448)]] — 剖析经合组织如何通过绩效指标建立投入产出系统，[[Epoché|悬置]]教育目的哲学辩论并将公平窄化为经济效率。
-> - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 实证揭示新西兰国家标准与可见学习效应量指标如何被教育官僚降格为微观考核硬指标，引发基层学校应试表演与数据自证异化。
+> - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 实证揭示[[New Zealand National Standards|新西兰国家标准]]与可见学习[[Effect Size|效应量]]指标如何被教育官僚降格为微观考核硬指标，引发基层学校应试表演与数据自证异化。
 
 ---
 
@@ -318,13 +325,4 @@ updated: 2026-10-16
 > | [[Performativity of Measurement]] | 概念 | 反身后果，揭示指标反客为主重构教育行为并诱发投机表演的社会学本质。 |
 
 ---
-
-## 来源
-
-- [[Argument_Gorur_2014_Discourse|Gorur, R. (2014). Towards a sociology of measurement in education policy. Discourse: Studies in the Cultural Politics of Education, 35(1), 58–72.]]
-- [[Argument_Rambla_2022_Springer|Rambla, X. (2022). Indicators as Policy Instruments. In Education Policy Analysis. Springer.]]
-- [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi, G., et al. (2024). The politics of indicators: Monitoring, evaluating, and mediating education. Comparative Education, 60(4), 535–552.]]
-- [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi, F., & Lingard, B. (2009). The OECD, globalising education policy and national policy making. In Globalizing Education Policy. Routledge.]]
-- [[Argument_Rust_2009_Reflections|Rust, V. D., Johnstone, C., & Allaf, C. (2009). Reflections on the Dakar EFA goals. In International Handbook of Comparative Education. Springer.]]
-- [[Argument_ONeill_2016_Report|O'Neill, J., with Duffy, C., & Fernando, S. (2016). Charities, philanthropists, policy entrepreneurs, international companies and state schooling in Aotearoa New Zealand. Massey University.]]
 
