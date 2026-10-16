@@ -6,7 +6,7 @@ aliases:
 summary: "新西兰教育部委托奥克兰大学 John Hattie 团队开发的中小学读写与数学标准化形成性测评与报告系统，兼具诊断学情进阶与全网行政监控双重属性"
 type: instrument
 instrument_type: test
-instrument_related_count: 21
+instrument_related_count: 23
 instrument_related_level: 4
 instrument_related_stars: "⭐⭐⭐⭐"
 instrument_related_color: "#dbeafe"
@@ -31,10 +31,12 @@ related_concepts:
   - "[[Learning Gain]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Visible Learning]]"
+  - "[[Barometer of Achievement]]"
   - "[[Learning Progression]]"
   - "[[SOLO Taxonomy]]"
   - "[[Tracking]]"
   - "[[Critical Pedagogy]]"
+  - "[[Zone of Desired Effects]]"
   - "[[Performativity]]"
   - "[[School Leadership]]"
   - "[[Global Education Reform Movement]]"
@@ -76,7 +78,7 @@ updated: 2026-10-16
 > *“The asTTle model is based around three major questions: Where are we going? How are we going? and Where to next? Thus, target setting is critical, as is evidence of the gap between current and targeted performance, and the manner in which teachers are going to reduce this gap for all students.”*
 
 > [!citation-card] 全网实时监控与泰勒制控制逻辑
-> [[John Hattie|哈蒂]]在《[[Visible Learning|可见的学习]]》出版前夕为新西兰政府开发了名为 asTTle 的计算机工具。该工具潜在的[[Panopticism|全景敞视]]监视功能显而易见。哈蒂在 2003 年的技术文档中明确指出：对于希望能够持续监控并报告全校趋势的管理者而言……预期 asTTle 第 4 版将实现完全网络化，从而允许管理人员对全校六个学科使用 asTTle 的情况进行行政监控。如今在《可见的学习》中为人熟知的气压计图表正是直接从 asTTle 程序中移植而来的，伴随而来的还有同样的泰勒制伦理。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 28, citing Hattie et al., 2003, p. 775)]]
+> [[John Hattie|哈蒂]]在《[[Visible Learning|可见的学习]]》出版前夕为新西兰政府开发了名为 asTTle 的计算机工具。该工具潜在的[[Panopticism|全景敞视]]监视功能显而易见。哈蒂在 2003 年的技术文档中明确指出：对于希望能够持续监控并报告全校趋势的管理者而言……预期 asTTle 第 4 版将实现完全网络化，从而允许管理人员对全校六个学科使用 asTTle 的情况进行行政监控。如今在《可见的学习》中为人熟知的[[Barometer of Achievement|气压计图表]]正是直接从 asTTle 程序中移植而来的，伴随而来的还有同样的泰勒制伦理。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 28, citing Hattie et al., 2003, p. 775)]]
 >
 > *“Writing in 2003, Hattie states that for ‘...managers who want to be able to constantly monitor and report school-wide trends... It is anticipated that asTTle version 4 will be fully networked, permitting managerial monitoring of school-wide use of asTTle across the six subjects’ (Hattie et al., 2003, p. 775). The now familiar barometer graphic used in Visible Learning was imported from the asTTle program, and along with it came the same ethic of Taylorism.”*
 
@@ -115,7 +117,7 @@ updated: 2026-10-16
 > [!mechanism] 行政监控架构与管理图表视觉迁移
 > 除了面向课堂教师的形成性反馈功能，[[Critical Pedagogy|批判教育学]]者揭示了 asTTle 系统在制度设计上的双重功能：
 > 1. **全网实时监控网络（Networked Managerial Monitoring）** [[John Hattie|哈蒂]]等人在系统技术文档中明确规划，asTTle 第 4 版具备完全网络化功能，使校级与学区管理者能够跨越 6 个学科全网实时追踪所有教师使用该软件的频次、进度与班级数据（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p. 28]], citing Hattie et al., 2003）。
-> 2. **气压计图表（Barometer Graphics）的视觉迁移** 后来风靡全球并在《[[Visible Learning|可见的学习]]》中作为标志性图腾出现的半圆形气压计图表（Barometer graphic），直接移植自 asTTle 系统的管理界面。该图表通过将教师效应划分为反转效应、发展效应、教师典型效应与期望效应区（Zone of Desired Effects），将复杂的师生互动机械化还原为仪表盘读数（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p. 28]]）。
+> 2. **[[Barometer of Achievement|气压计图表]]（Barometer Graphics）的视觉迁移** 后来风靡全球并在《[[Visible Learning|可见的学习]]》中作为标志性图腾出现的半圆形气压计图表（Barometer graphic），直接移植自 asTTle 系统的管理界面。该图表通过将教师效应划分为反转效应、发展效应、教师典型效应与[[Zone of Desired Effects|期望效应区]]（Zone of Desired Effects），将复杂的师生互动机械化还原为仪表盘读数（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p. 28]]）。
 > 3. **全景监视与新泰勒制控制** 这种将日常教学活动转化为即时数据流的架构，使基层教师处于时刻可被核查、比对与评估的[[Panopticism|全景敞视]]状态之中，为自上而下的技术官僚[[Disciplina and Doctrina|规训]]提供了基础设施（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p. 28]]）。
 
 ---
@@ -148,7 +150,7 @@ updated: 2026-10-16
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
 > | [[Argument_Hattie_2005_ACER\|Hattie (2005)]] | asTTle v2/v3 标准版与毛利双语版 | 新西兰 25,000 余名中小学生数学与阅读常模数据 | 基于全国大样本标定 [[Item Response Theory\|IRT]] 参数与 [[SOLO Taxonomy\|SOLO]] 分类学进阶台阶 | 论证目标设定、差距分析与时间序列增值评估如何打破惩罚性问责，赋权教师开展形成性教学 |
-> | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] | asTTle 系统技术架构与管理模块 | 政策技术文档分析与视觉谱系考证（Hattie et al., 2003） | 软件网络化监控架构与气压计图表界面分析 | 揭示系统内置的全网管理监控功能与新泰勒制逻辑，考证其气压计图表向《[[Visible Learning\|可见的学习]]》的视觉迁移 |
+> | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] | asTTle 系统技术架构与管理模块 | 政策技术文档分析与视觉谱系考证（Hattie et al., 2003） | 软件网络化监控架构与[[Barometer of Achievement\|气压计图表]]界面分析 | 揭示系统内置的全网管理监控功能与新泰勒制逻辑，考证其气压计图表向《[[Visible Learning\|可见的学习]]》的视觉迁移 |
 
 ---
 
@@ -177,7 +179,7 @@ updated: 2026-10-16
 >
 > *“...for managers who want to be able to constantly monitor and report school-wide trends... It is anticipated that asTTle version 4 will be fully networked, permitting managerial monitoring of school-wide use of asTTle across the six subjects.”*
 
-> [!citation-card] 气压计图表向《[[Visible Learning|可见的学习]]》的视觉移植
+> [!citation-card] [[Barometer of Achievement|气压计图表]]向《[[Visible Learning|可见的学习]]》的视觉移植
 > 如今在《可见的学习》中为人熟知的气压计图表正是直接从 asTTle 程序中移植而来的，伴随而来的还有同样的泰勒制伦理。[[John Hattie|哈蒂]]对教师的定位正如泰勒对待伯利恒钢铁公司的普通工人一样：愚钝且迟缓，必须接受上级的监督与管理。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 28)]]
 >
 > *“The now familiar barometer graphic used in Visible Learning was imported from the asTTle program, and along with it came the same ethic of Taylorism. Hattie positions teachers just as Taylor did grunt workers at Bethlehem steel: ‘stupid’ and ‘phlegmatic’ (Taylor, 1911, p. 59), requiring surveillance and management by superiors.”*
@@ -188,5 +190,5 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 结合新西兰 25,000 名学生数学题库数据，论证如何利用 asTTle 的目标设定与诊断报告打破传统基于测试的惩罚性问责，重塑以教师为核心的循证形成性教学体系（pp. 11–21）。
-> - [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]] — 从劳动过程监控与视觉谱系角度考证了 asTTle 的全网行政监控架构及其气压计图表向《[[Visible Learning|可见的学习]]》的移植（pp. 23–41）。
+> - [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]] — 从劳动过程监控与视觉谱系角度考证了 asTTle 的全网行政监控架构及其[[Barometer of Achievement|气压计图表]]向《[[Visible Learning|可见的学习]]》的移植（pp. 23–41）。
 

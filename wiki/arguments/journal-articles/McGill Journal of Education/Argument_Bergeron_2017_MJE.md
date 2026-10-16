@@ -10,7 +10,7 @@ title: "Argument_Bergeron_2017_MJE"
 argument_key: "Argument_Bergeron_2017_MJE"
 argument_display_title: "How to engage in pseudoscience with real data: A criticism of John Hattie's arguments in Visible Learning from the perspective of a statistician"
 argument_kind: "journal-article"
-argument_related_count: 13
+argument_related_count: 14
 argument_related_level: 0
 argument_related_stars: ""
 argument_related_color: "#dbeafe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Big Science]]"
   - "[[Class Size]]"
   - "[[Grandes Ecoles]]"
+  - "[[Zone of Desired Effects]]"
   - "[[Creativity]]"
   - "[[Creativity Assessment]]"
 related_theories: []
@@ -48,7 +49,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: '2026-06-08'
+updated: 2026-10-16
 year: 2017
 doi: ""
 citation_aliases:
@@ -130,7 +131,7 @@ citation_aliases:
 >
 > **性别效应的案例** Hattie 报告的性别效应为 d=0.12，偏向男孩。但如果这个数字代表任何现实，"这将意味着男孩在学校平均比女孩更成功一些。这在魁北克或大多数工业化国家都不是事实"(Legewie & DiPrete, 2012)。
 >
-> **相关与因果的混淆** Hattie 使用的 r→d 转换公式在 r 接近 1 时"迅速爆炸"，且对弱相关也产生相对强的效应。r=0.196 即可达到 d=0.4 的"期望效应区"——但在简单线性回归中，r²=0.0385，即仅 3.85% 的变异被解释，96.15% 是未解释的随机噪音。"因此实际上非常弱的影响"。
+> **相关与因果的混淆** Hattie 使用的 r→d 转换公式在 r 接近 1 时"迅速爆炸"，且对弱相关也产生相对强的效应。r=0.196 即可达到 d=0.4 的"[[Zone of Desired Effects|期望效应区]]"——但在简单线性回归中，r²=0.0385，即仅 3.85% 的变异被解释，96.15% 是未解释的随机噪音。"因此实际上非常弱的影响"。
 >
 > Hattie 用此公式获得了"[[Creativity\|创造力]]对学业成功的影响"(Kim, 2005)——实际上是 IQ 测试结果与[[Creativity Assessment\|创造力测试]]之间的相关。"自我报告成绩"（VL 中效应量最强的因素）同样是一组"报告成绩与实际成绩之间的相关"集合，完全没有测量使用自我报告成绩的组与未使用的组之间的学业成功增长。
 >

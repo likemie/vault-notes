@@ -6,7 +6,7 @@ aliases:
 summary: "班级学生人数这一关键教育组织变量，其对教学互动与学业成果的影响不仅取决于人数变化本身，更取决于教师质量、物质资源、教学方式调整以及跨情境测量精度的系统约束。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 61
+related_count: 62
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Unit of Analysis]]"
   - "[[Innovation Hub]]"
+  - "[[Zone of Desired Effects]]"
   - "[[Public Value]]"
   - "[[Material Fallacies]]"
   - "[[Dependent Variable]]"
@@ -268,7 +269,7 @@ updated: 2026-10-16
 关于平均[[Effect Size|效应量]]能否作为政策否决依据，学者间立场分化鲜明。
 
 > [!tension] Hattie 平均值视角 vs Snook 关键情境视角
-> - **[[John Hattie|哈蒂]]的立场：平均值与成本阈值** 班级规模的[[Meta-analysis|元分析]]平均效应量仅约 $d = 0.20$，远低于其设定的 $d = 0.40$“[[Innovation Hub|创新枢纽]]线”（Hinge Point）。相对于雇佣大量新教师和扩建校舍的巨额财政投入，缩班政策并不划算。平均值的功能正是平抑个别极端研究的过热推论。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, p. 90)]]
+> - **[[John Hattie|哈蒂]]的立场：平均值与成本阈值** 班级规模的[[Meta-analysis|元分析]]平均效应量仅约 $d = 0.20$，远低于其设定的 $d = 0.40$“[[Innovation Hub|创新枢纽]]线”（[[Zone of Desired Effects|Hinge Point]]）。相对于雇佣大量新教师和扩建校舍的巨额财政投入，缩班政策并不划算。平均值的功能正是平抑个别极端研究的过热推论。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, p. 90)]]
 > - **斯努克的立场：小效应的公共卫生意义与情境掩盖** 斯努克等人反驳称，$d = 0.20$ 的平均值若应用于全民基础教育体系，其累计效益犹如医学上的小剂量阿司匹林，具有不容忽视的[[Public Value|公共价值]]；更重要的是，将高质量实验（如 STAR $d \approx 0.60$）与劣质研究机械平均，严重掩盖了小班在低年级与处境不利群体中的决定性益处。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 99–101)]]
 
 ### 分析单元混淆与政策选择性误用

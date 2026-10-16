@@ -5,7 +5,7 @@ aliases:
 summary: "John Hattie 发起的教育证据综合与学校改进框架，主张通过汇总海量元分析建立 d=0.40 关节点相对有效性判准，将教师确立为成就变异的核心因果枢纽（30%），依托学业进阶、显性成功标准与形成性反馈重塑教学评价性判断。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 91
+related_count: 94
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Praxis]]"
   - "[[Paradigm]]"
   - "[[Academic Achievement]]"
+  - "[[Zone of Desired Effects]]"
   - "[[Learning Intentions]]"
   - "[[Success Criteria]]"
   - "[[Feedback]]"
@@ -40,6 +41,7 @@ related_concepts:
   - "[[Cult of the Guru]]"
   - "[[Performance Indicators]]"
   - "[[Teacher Professional Agency]]"
+  - "[[Barometer of Achievement]]"
   - "[[Performativity]]"
   - "[[Metascience]]"
   - "[[Class Size]]"
@@ -91,6 +93,7 @@ related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Australian Council for Educational Research]]"
   - "[[Cognition Education]]"
+  - "[[Corwin Press]]"
   - "[[Gonski 2.0]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
 related_arguments:
@@ -163,7 +166,7 @@ updated: 2026-10-16
 可见的学习框架由证据统计基准、[[Academic Achievement|学业成就]]方差分解、教师思维框架、显性进阶目标与形成性反馈循环五大核心要素深度咬合构成。
 
 > [!feature] 可见的学习五大核心要素
-> - **相对有效性关节点（Hinge Point, $d=0.40$）** 基于 100 余项创新与 30 万项研究[[Meta-meta-analysis\|元综合]]确立的正态均值基准；超越“是否有效”的低阶提问，唯有增幅大于 $0.40$ 的干预才具有实质推广价值。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, p. 16)]]
+> - **相对有效性关节点（[[Zone of Desired Effects|Hinge Point]], $d=0.40$）** 基于 100 余项创新与 30 万项研究[[Meta-meta-analysis\|元综合]]确立的正态均值基准；超越“是否有效”的低阶提问，唯有增幅大于 $0.40$ 的干预才具有实质推广价值。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, p. 16)]]
 > - **学业成就方差分解（Variance Breakdown）** 将学业变异分解为学生个人（50%）、教师教学效能（30%）、家庭（5–10%）、学校（5–10%）与同伴（5–10%），确立教师为系统内部可控的核心杠杆。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, p. 13)]]
 > - **教师思维框架（Teacher Mind Frames）** 以“认识自身影响（Know thy impact）”为核心，包含“我是变革推动者”、“评价是对我教学的反馈”等八项指引教师[[Professional Judgment\|专业判断]]的内隐信念图式。[[Argument_Hattie_2015_SOTLP\|(Hattie, 2015b, pp. 88–89)]]
 > - **显性[[Learning Intentions\|学习意图]]与[[Success Criteria\|成功标准]]（Learning Intentions & Success Criteria）** 在任务开始前向学生充分敞开清晰的认知挑战目标与评估达成准则，消除形式主义认知盲区。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, p. 17)]]
@@ -245,7 +248,7 @@ updated: 2026-10-16
 > **[[Neo-Taylorism\|新泰勒主义]]风险与[[Cult of the Guru\|大师崇拜]]批判** 斯科特·伊科特（Scott Eacott）等批判学者指出，若将 VL 异化为行政当局追求[[Performance Indicators\|绩效指标]]的标准化控制工具，试图通过量化排名拆解教学实践并寻找“唯一正确方法”，便会沦为“新时代的泰勒主义”（Neo-Taylorism），剥夺[[Teacher Professional Agency\|教师专业能动性]]并诱发虚假的大师崇拜。[[Argument_Eacott_2019_IJLE\|(Eacott, 2019, pp. 777–778)]]
 
 > [!claim] Johnson, G. R. & Janzen, M. D.
-> **[[Cargo Cult Science|货物崇拜科学]]与行政监控的技术殖民** 约翰逊与詹森进一步从科学哲学与管理学视角指出，VL 本质上是披着实证外衣的[[Cargo Cult Science|货物崇拜科学]]（Cargo Cult Science）；其标志性的气压计图表并非纯粹的[[Feedback|教学反馈]]工具，而是直接脱胎于用于自上而下联网监控教师软件使用进度的 [[Assessment Tools for Teaching and Learning|asTTle]] 行政系统。通过将教学比附为外科手术或高山救援，文本贬抑教师专业判断为不成熟经验，在维多利亚州等地诱发了强行按清单板书打卡的[[Performativity|表演性]]异化。[[Argument_Johnson_2023_CE\|(Johnson & Janzen, 2023, pp. 28–30, 34–36)]]
+> **[[Cargo Cult Science|货物崇拜科学]]与行政监控的技术殖民** 约翰逊与詹森进一步从科学哲学与管理学视角指出，VL 本质上是披着实证外衣的[[Cargo Cult Science|货物崇拜科学]]（Cargo Cult Science）；其标志性的[[Barometer of Achievement|气压计图表]]并非纯粹的[[Feedback|教学反馈]]工具，而是直接脱胎于用于自上而下联网监控教师软件使用进度的 [[Assessment Tools for Teaching and Learning|asTTle]] 行政系统。通过将教学比附为外科手术或高山救援，文本贬抑教师专业判断为不成熟经验，在维多利亚州等地诱发了强行按清单板书打卡的[[Performativity|表演性]]异化。[[Argument_Johnson_2023_CE\|(Johnson & Janzen, 2023, pp. 28–30, 34–36)]]
 
 ---
 
@@ -267,7 +270,7 @@ updated: 2026-10-16
 > - **1987–1992 — [[Meta-meta-analysis\|元综合]]积累与 $d=0.40$ 基准确立** Hattie 参与 Fraser-Walberg 团队元综合，并于 1992 年独立发表涵盖 134 项[[Meta-analysis\|元分析]]、22,155 个[[Effect Size\|效应量]]的元综合，首次确立全行业平均效应量基准 $d = 0.40$。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, p. 42)]]
 > - **1999–2005 — 新西兰原型探索与形成性问责奠基** 依托新西兰教育部委托开发的 [[Assessment Tools for Teaching and Learning\|asTTle]] 测评系统，Hattie 在 2003 年与 2005 年 [[Australian Council for Educational Research\|ACER]] 大会上完整阐发了成就方差六分模型、相对有效性判准、[[Learning Progression\|学业进阶]]共享语言及以教师为中心的形成性证据问责理论。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, pp. 11–19)]]
 > - **2009–2010 — 著作出版与全球理论论战** 《可见的学习》初版出版，汇总 800 余项元分析与 150+ 影响因素，引发全球教育界轰动；随后在《新西兰教育研究杂志》系统回应关于方法论、STAR [[Class Size\|班级规模]]实验及外部有效性的第一波批评。[[Argument_Hattie_2010_NZJES\|(Hattie, 2010, pp. 86–91)]]
-> - **2010–2018 — 品牌化扩张与全球政策采纳** 随着 商业化品牌运作 的推进，[[Cognition Education]] 与 Corwin（[[Sage]] 集团）将 VL 转化为全球专业发展培训品牌；英国 [[Education Endowment Foundation\|EEF]]、澳大利亚 [[Gonski 2.0]] 改革、维多利亚州 [[Victorian HITS and Literacy Toolkit\|HITS]] 以及丹麦公立学校改革等相继将 VL 列为政策基准。[[Argument_Bates_2017_CognitionEducationTrust\|(Bates, 2017)]]; [[Argument_Qvortrup_2019_NordSTEP\|(Qvortrup, 2019)]]
+> - **2010–2018 — 品牌化扩张与全球政策采纳** 随着 商业化品牌运作 的推进，[[Cognition Education]] 与 [[Corwin Press|Corwin]]（[[Sage]] 集团）将 VL 转化为全球专业发展培训品牌；英国 [[Education Endowment Foundation\|EEF]]、澳大利亚 [[Gonski 2.0]] 改革、维多利亚州 [[Victorian HITS and Literacy Toolkit\|HITS]] 以及丹麦公立学校改革等相继将 VL 列为政策基准。[[Argument_Bates_2017_CognitionEducationTrust\|(Bates, 2017)]]; [[Argument_Qvortrup_2019_NordSTEP\|(Qvortrup, 2019)]]
 > - **2015–2020 — 教学论深化与批评反思潮** Hattie 进一步提炼八项教师思维框架、DIE 模型与高等教育六大高影响条件；同时斯堪的纳维亚学者提出“反馈文化”再诠释，批判学者发起关于[[Neo-Taylorism\|新泰勒主义]]与知识形态窄化的深层学理争鸣。[[Argument_Hattie_2015_SOTLP\|(Hattie, 2015b)]]; [[Argument_Fredens_2015_Paideia\|(Fredens, 2015)]]; [[Argument_Eacott_2019_IJLE\|(Eacott, 2019)]]
 > - **2021–至今 — 欧洲跨国治理实证与[[Practitioner Enquiry\|实践者探究]]校准** 欧洲实证研究（[[Argument_Kelly_2025_ROE\|Kelly et al., 2025]]）揭示一线实践者在不同治理体制下对 VL 的差异化吸收：苏格兰依托“实践者探究”对其开展去魅与本土校准，德国作为校本教研参考，打破单一商业化崇拜迷思。
 > - **2023 — 政治经济学与[[Cargo Cult Science|货物崇拜科学]]深度解构** 约翰逊与詹森（[[Argument_Johnson_2023_CE\|Johnson & Janzen, 2023]]）从科学哲学与批判政策分析视角，系统揭露 VL 隐藏计算公式的简单算术平均、对 Glass and Smith (1979) 班级规模结论的失真提取、新泰勒制全景监控以及兼任商业咨询机构董事的高额版税链条，将其定性为服务于新自由主义财政紧缩的货物崇拜科学。
@@ -292,7 +295,7 @@ updated: 2026-10-16
 >
 > [!tension] 核心张力四：客观中立的实证科学 vs 政商利益结盟与财政紧缩修辞
 > - **中立证据综合立场（蓝方）** 倡导者坚称 VL 是超越意识形态的纯学术研究，旨在为政策制定者提供关于“什么有效”的客观概率指引，帮助学校将有限资源集中投入到高效应量领域。[[Argument_Hattie_2010_NZJES\|(Hattie, 2010, pp. 86–88)]]
-> - **政治经济学批判立场（红方）** 批判学者指出 VL 与商业出版资本（世哲/考文出版社）及咨询公司深度绑定，学者通过专营品牌抽取高额劳务报酬；全书异乎寻常地高频提及[[Class Size|班级规模]]（95 次 vs. 自我报告成绩 6 次），对经典研究实施断章取义的失真提取，精准迎合了新自由主义政府削减公立教育生均预算、推卸财政责任的治理诉求。[[Argument_Johnson_2023_CE\|(Johnson & Janzen, 2023, pp. 30–33)]]
+> - **政治经济学批判立场（红方）** 批判学者指出 VL 与商业出版资本（世哲/[[Corwin Press|考文出版社]]）及咨询公司深度绑定，学者通过专营品牌抽取高额劳务报酬；全书异乎寻常地高频提及[[Class Size|班级规模]]（95 次 vs. 自我报告成绩 6 次），对经典研究实施断章取义的失真提取，精准迎合了新自由主义政府削减公立教育生均预算、推卸财政责任的治理诉求。[[Argument_Johnson_2023_CE\|(Johnson & Janzen, 2023, pp. 30–33)]]
 
 > [!critique] 外部学术批评导览
 > - **批评系统入口** 完整的方法论、教学论、教育哲学与政策商业化批评详见专用条目 [[Critiques of Visible Learning]]。

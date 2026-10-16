@@ -9,7 +9,7 @@ title: "Argument_Eacott_2017_SLM"
 argument_key: "Argument_Eacott_2017_SLM"
 argument_display_title: "School leadership and the cult of the guru: The neo-Taylorism of Hattie"
 argument_kind: "journal-article"
-argument_related_count: 38
+argument_related_count: 40
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Instructional Leadership]]"
   - "[[Transformative Leadership]]"
   - "[[Scientism]]"
+  - "[[Zone of Desired Effects]]"
   - "[[Return on Investment]]"
   - "[[Variable]]"
   - "[[Reflexivity]]"
@@ -69,6 +70,7 @@ related_facts:
   - "[[PISA]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[TIMSS]]"
+  - "[[Corwin Press]]"
 related_arguments:
   - "[[Argument_Hattie_2017_SLM]]"
   - "[[Argument_Eacott_2019_IJLE]]"
@@ -77,7 +79,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-03
-updated: 2026-09-16
+updated: 2026-10-16
 ---
 # Argument_Eacott_2017_SLM
 
@@ -170,10 +172,10 @@ updated: 2026-09-16
 
 罗宾逊等（2008）通过[[Meta-analysis|元分析]]证明了[[Instructional Leadership|教学领导力]]优于[[Transformative Leadership|变革型领导力]]，并引入[[Effect Size|效应量]]，重新点燃了管理层对教学领导力的兴趣。然而，罗宾逊的研究仅指出了促进教师学习等宏观维度（ES = 0.84），未能解决教师在课堂中具体做什么这一微观技术问题（p.417）。[[John Hattie|哈蒂]]的《VL》恰逢其时地填补了这一空白，其[[Meta-meta-analysis|元-元分析]]庞大的数据库体量顺应了将[[Randomised Controlled Trials|随机对照试验]]（RCTs）奉为黄金标准的[[Scientism|科学主义]]潮流，为科层系统提供了无可比拟的科学严谨性幻觉（p.418）。
 
-哈蒂将效应量 d = 0.40 设定为“铰链点”（hinge point），并宣称其等同于学生在一个学年内的正常成长。这个等式将极度依赖特定情境的教学体验降维为单一的数值：
+哈蒂将效应量 d = 0.40 设定为“铰链点”（[[Zone of Desired Effects|Hinge Point]]），并宣称其等同于学生在一个学年内的正常成长。这个等式将极度依赖特定情境的教学体验降维为单一的数值：
 - **循证决策的表格化** 校长可以像挑选股票一样进行“[[Return on Investment|投资回报]]”（[[Return on Investment|ROI]]）审计，支持效应量高于 0.40 的干预措施，砍掉低于 0.40 的措施（p.418）。
 - **科学管理的中介化** 这复刻了泰勒在工厂车间通过秒表和动作分解去除经验法则的做法。哈蒂将教学还原为孤立的、按效应量排序的干预[[Variable|变量]]，为管理者提供了实施科学管理的精密中介（p.419）。
-- **商业网络的推波助澜** 在商业利益的驱使下，哈蒂与 ACEL and Corwin 出版公司结成商业推广联盟，兜售VL培训产品，使大量学校主动剪裁特色，将自己标识为“哈蒂学校”，展示了学术权威与组织利益之间前[[Reflexivity|反思性]]的[[Ontological Complicity|本体论共谋]]（p.419）。
+- **商业网络的推波助澜** 在商业利益的驱使下，哈蒂与 ACEL and [[Corwin Press|Corwin]] 出版公司结成商业推广联盟，兜售VL培训产品，使大量学校主动剪裁特色，将自己标识为“哈蒂学校”，展示了学术权威与组织利益之间前[[Reflexivity|反思性]]的[[Ontological Complicity|本体论共谋]]（p.419）。
 
 > [!boundary] 数据中介与科层审计
 > 效应量 d = 0.40 将复杂的教育活动简化为度量衡，完成了行政权力对教学专业性的掠夺。这种数据中介让不懂教学的科层官僚也能够坐在办公室里直接判定一位教师是否合格，从而建立起一套数据控制的幻觉（p.418）。
@@ -219,7 +221,7 @@ updated: 2026-09-16
 
 > [!finding-cards] 核心发现
 > 1. **理性修辞的主导与[[School Leadership\|学校领导力]]的行政退化** 澳大利亚在面临 NAPLAN 和 [[PISA]] 成绩缓慢下滑时，行政系统出于规避衰退的理性恐慌，将改进窄化为寻找某种标准化、确定性的技术工具，[[John Hattie\|哈蒂]]的VL填补了管理者的“行政[[Discourse|话语]]饥渴”（p.415）。
-> 2. **哈蒂品牌商业帝国的建立与学校自我合规** 哈蒂自 2009 年起与 ACEL and Corwin 出版公司结盟，将学术理论包装为高度排他性的商业培训品牌，导致大量学校为谋求合规而自我标识为“哈蒂学校”（p.419）。
+> 2. **哈蒂品牌商业帝国的建立与学校自我合规** 哈蒂自 2009 年起与 ACEL and [[Corwin Press|Corwin]] 出版公司结盟，将学术理论包装为高度排他性的商业培训品牌，导致大量学校为谋求合规而自我标识为“哈蒂学校”（p.419）。
 > 3. **数据账本与[[Neo-Taylorism\|新泰勒主义]]微观控制的制度深锁** 哈蒂[[Effect Size\|效应量]]账本将复杂的教学体验降维为 d = 0.40 的度量衡，且通过哈蒂担任 [[Australian Institute for Teaching and School Leadership\|AITSL]] 主席的身份内嵌于国家教师与校长专业标准中，实现了“无数据即无学习”的微观监控，构成了教师去专业化与[[Cognitive Deskilling|去技能化]]的新泰勒主义管理悲剧（pp.421–422）。
 
 > [!stat-cards]- 核心数据

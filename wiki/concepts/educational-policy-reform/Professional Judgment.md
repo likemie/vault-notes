@@ -6,7 +6,7 @@ aliases:
 summary: "教师在复杂、非线性的教学情境中整合研究证据、伦理标准、教育学原则与实践经验做出决策的核心专业能力，是 EIP 多源整合的枢纽与抵御技术官僚主义去专业化的关键防线。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 81
+related_count: 82
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Cognitive Deskilling]]"
   - "[[Visible Learning]]"
+  - "[[Barometer of Achievement]]"
   - "[[Learning Intentions]]"
   - "[[Performativity]]"
   - "[[Teacher Professional Agency]]"
@@ -225,7 +226,7 @@ updated: 2026-10-16
 > **循证医学危机镜像与反算法[[Cognitive Deskilling|去技能化]]** 借鉴循证医学（Evidence-Based Medicine, EBM）发展后期的深刻危机（Greenhalgh et al., 2014）：过度膨胀的临床指南与僵化指标排挤了医生的微观临床审议，被商业营销绑架的“证据洗白”严重损害患者福祉。将此教训映射至教育领域，技术官僚试图将教学拆解为离散的自动化操作或依赖算法驱动决策，实质上是对教师的去技能化（De-skilling）。教学建立在复杂情境反思、扎根实践经验与伦理审议的基础之上，是不可替代的知识型专业（Knowledge-rich Profession）；面对商业包装的证据产品，教师扎根微观情境的临床专业判断是抵御算法异化与技术官僚侵蚀的核心防线([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 60, 65–66]])。
 
 > [!claim] [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]]
-> **新泰勒制监控、“清单拜物教”与专业判断的系统剥离** 《[[Visible Learning|可见的学习]]》在微观课堂上推行工业科学管理，将教师同行间的专业对话与经验交流贬抑为缺乏客观证据支持的“轶事传闻”，以此为自上而下的技术[[Disciplina and Doctrina|规训]]确立正当性。其标志性的气压计图表直接移植自[[John Hattie|哈蒂]]主持开发的行政监控软件 [[Assessment Tools for Teaching and Learning|asTTle]]，继承了工业流水线工时测定与全网实时追踪的控制逻辑；更援引保守派智库观点，将教学机械比附为外科手术与高山救援等技术操作职业，抹杀了师生人际交往与育人共同体的人文伦理属性。在澳大利亚维多利亚州强推基于 VL 的高影响力教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]）实践中，教师被强制要求在上课铃响前在白板上打卡书写[[Learning Intentions|学习意图]]，僵化清单彻底取代了教师依据课堂现场氛围灵活变通的专业直觉，诱发严重的[[Performativity|表演性]]危机与[[Teacher Professional Agency|教师专业自主权]]的萎缩。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 28–30)]]
+> **新泰勒制监控、“清单拜物教”与专业判断的系统剥离** 《[[Visible Learning|可见的学习]]》在微观课堂上推行工业科学管理，将教师同行间的专业对话与经验交流贬抑为缺乏客观证据支持的“轶事传闻”，以此为自上而下的技术[[Disciplina and Doctrina|规训]]确立正当性。其标志性的[[Barometer of Achievement|气压计图表]]直接移植自[[John Hattie|哈蒂]]主持开发的行政监控软件 [[Assessment Tools for Teaching and Learning|asTTle]]，继承了工业流水线工时测定与全网实时追踪的控制逻辑；更援引保守派智库观点，将教学机械比附为外科手术与高山救援等技术操作职业，抹杀了师生人际交往与育人共同体的人文伦理属性。在澳大利亚维多利亚州强推基于 VL 的高影响力教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]）实践中，教师被强制要求在上课铃响前在白板上打卡书写[[Learning Intentions|学习意图]]，僵化清单彻底取代了教师依据课堂现场氛围灵活变通的专业直觉，诱发严重的[[Performativity|表演性]]危机与[[Teacher Professional Agency|教师专业自主权]]的萎缩。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 28–30)]]
 
 > [!claim] [[Argument_Rowe_2023_ECNUROE|Rowe (2023)]]
 > **[[Venture Philanthropy|风险慈善]]商业量规对[[School Autonomy|学校自主权]]与专业判断的[[Disciplina and Doctrina|规训]]** 在以风险慈善与私营中介为纽带的异层治理下，国家将财政拨款转化为竞争性项目资助；弱势公立学校为了获取关键资源，被迫无条件迎合企业基金会制定的考核量规与商业[[Performance Indicators|绩效指标]]（KPIs）。这一异层再分配机制剥夺了学校基于本土学情与育人伦理自主决策的空间，导致教师与校长的专业判断沦为企业问责与外部量规的附庸，加速了公立教育一线人员的去专业化规训。[[Argument_Rowe_2023_ECNUROE|(Rowe, 2023, pp. 527–528)]]

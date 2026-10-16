@@ -8,7 +8,7 @@ aliases:
 summary: "教师与学生在教学活动前共同明确的核心认知理解与概念迁移目标；但在新泰勒主义问责与循证政策规训下，原本指向深层认知建构的学习意图容易异化为形式主义的白板打卡与管理监控指标。"
 type: concept
 domain: "curriculum-instruction"
-related_count: 28
+related_count: 29
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -48,6 +48,7 @@ related_persons:
 related_facts:
   - "[[Victorian HITS and Literacy Toolkit]]"
   - "[[NZ Curriculum Refresh 2021-2026]]"
+  - "[[Corwin Press]]"
   - "[[Visible Learning Branding and Global Influences]]"
 related_arguments:
   - "[[Argument_Johnson_2023_CE]]"
@@ -177,7 +178,7 @@ updated: 2026-10-16
 > [!dev-timeline] 概念演变
 > - **1990s — [[Formative Assessment|形成性评价]]奠基** 布莱克与威廉（Black & Wiliam, 1998）指出清晰的目标界定是形成性评价有效运转的前提，奠定了将目标从静态考卷转移到动态课堂的理论基础。
 > - **2003–2005 — 概念界定与可见学习吸纳** 克拉克、廷珀利与[[John Hattie|哈蒂]]（Clarke, Timperley, & Hattie, 2003; [[Argument_Hattie_2005_ACER|Hattie, 2005]]）在[[NZ Curriculum Refresh 2021-2026|新西兰课程改革]]中系统阐释 Learning Intentions，明确将其与任务完成区分开来，作为可见学习模型中“清晰教学”（Teacher Clarity）的关键抓手。
-> - **2016–2019 — 商业培训与跨国扩张** 伴随 Corwin 出版社对 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 的推广，学习意图与[[Success Criteria|成功标准]]被打包为全球教师培训认证的标准操作程序（SOP），成为各国循证教学改革的通用术语。
+> - **2016–2019 — 商业培训与跨国扩张** 伴随 [[Corwin Press|Corwin]] 出版社对 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 的推广，学习意图与[[Success Criteria|成功标准]]被打包为全球教师培训认证的标准操作程序（SOP），成为各国循证教学改革的通用术语。
 > - **2020–2023 — 政策制度化与批判性反思** 澳大利亚维州将学习意图作为 [[Victorian HITS and Literacy Toolkit|HITS]] 刚性指标后，基层遭遇白板打卡与行政扣分的形式主义困境；奥康纳（[[Argument_OConnor_2020_AJLL|O'Connor, 2020]]）与约翰逊与詹岑（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）从统计学和政治经济学角度展开批判，揭露技术清单对教师[[Professional Judgment|专业判断]]的剥夺。
 
 ---

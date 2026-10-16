@@ -9,7 +9,7 @@ title: "Argument_OConnor_2020_AJLL"
 argument_key: "Argument_OConnor_2020_AJLL"
 argument_display_title: "Visible Learning and whole language: revisiting the 'garbage in, garbage out' problem"
 argument_kind: "journal-article"
-argument_related_count: 26
+argument_related_count: 28
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -51,9 +51,11 @@ related_persons:
   - "[[Gene Glass]]"
   - "[[Steven Stahl]]"
   - "[[William Jeynes]]"
+  - "[[Pasi Sahlberg]]"
   - "[[Jean-Jacques Rousseau]]"
 related_facts:
   - "[[Victorian HITS and Literacy Toolkit]]"
+  - "[[Corwin Press]]"
 related_arguments: []
 sources:
   - "[[sources/OConnor_2020_AJLL|OConnor_2020_AJLL]]"
@@ -222,10 +224,10 @@ citation_aliases:
 > 这与元分析奠基人[[Gene Glass\|吉恩·格拉斯]]（Gene Glass）提出“以严谨统计替代口头叙事”的承诺完全背道而驰，表明哈蒂的研究在本质上已经放弃了实证主义的严谨性，演变为“先入为主的叙事裁决”。
 
 > [!tension] [[Global Education Reform Movement\|GERM]] 改革与新自由主义效率逻辑的契合
-> 哈蒂将复杂的教育过程简化为单一效应量排名，并将学生进步视为可精确按月测量的增量，迎合了由帕西·萨尔伯格（Pasi Sahlberg）识别的“全球教育改革运动”（Global Education Reform Movement, GERM）对标准化问责、技术控制与教育工业化输出的诉求 (p.149)。其宣称[[Class Size\|班级规模]]和学校基建投资为“政治干扰”的论调，为新自由主义政府削减教育经费提供了完美的实证借口 (p.150)。
+> 哈蒂将复杂的教育过程简化为单一效应量排名，并将学生进步视为可精确按月测量的增量，迎合了由[[Pasi Sahlberg|帕西·萨尔伯格]]（Pasi Sahlberg）识别的“全球教育改革运动”（Global Education Reform Movement, GERM）对标准化问责、技术控制与教育工业化输出的诉求 (p.149)。其宣称[[Class Size\|班级规模]]和学校基建投资为“政治干扰”的论调，为新自由主义政府削减教育经费提供了完美的实证借口 (p.150)。
 
 > [!case] 维多利亚州 DET 政策与商业品牌的共谋
-> 澳大利亚维多利亚州教育部（Department of Education and Training Victoria, DET Victoria）强制要求公立学校教师执行 10 项“高影响教学策略”（[[Victorian HITS and Literacy Toolkit\|HITS]]），首要参考文献均指向哈蒂的《VL》。同时，官方 Literacy Toolkit 深度引用了由 Corwin 公司出版的《VL读写教学》，而 Corwin 正是“[[Visible Learning]] plus”这一商业培训品牌的实际拥有者 (p.141)。这展示了存在严重方法论瑕疵的数据如何被包装为客观真理，并通过政策与商业共谋，剥夺了教师的教学自主权与专业权。
+> 澳大利亚维多利亚州教育部（Department of Education and Training Victoria, DET Victoria）强制要求公立学校教师执行 10 项“高影响教学策略”（[[Victorian HITS and Literacy Toolkit\|HITS]]），首要参考文献均指向哈蒂的《VL》。同时，官方 Literacy Toolkit 深度引用了由 [[Corwin Press|Corwin]] 公司出版的《VL读写教学》，而 Corwin 正是“[[Visible Learning]] plus”这一商业培训品牌的实际拥有者 (p.141)。这展示了存在严重方法论瑕疵的数据如何被包装为客观真理，并通过政策与商业共谋，剥夺了教师的教学自主权与专业权。
 
 > [!warrant]- 最终推理桥梁
 > 哈蒂的《VL》之所以获得现象级成功，不仅因为其提供了极简的效应量排名，更因为其背后的“故事”完美契合了新自由主义的[[Technical Rationality\|技术理性]]治理逻辑。这种宏观数字狂热在抹杀读写教育的社会文化多样性的同时，通过与商业机构的合作，强行压制了一线教师的专业反思权。

@@ -10,7 +10,7 @@ aliases:
 summary: "Foucault 基于 Bentham 全景监狱隐喻提出的现代权力理论，揭示权力如何通过可见性非对称与潜在被注视假定，将外部强制转化为被监视者的内在心理自律，广泛用于解构教育测验软件、绩效问责与数字全景监控"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 17
+theory_related_count: 18
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Teacher Professional Agency]]"
   - "[[Performativity]]"
+  - "[[Barometer of Achievement]]"
   - "[[Visible Learning]]"
   - "[[Ontology]]"
   - "[[Learning Intentions]]"
@@ -96,7 +97,7 @@ updated: 2026-10-16
 
 #### 评估软件的原型监视架构与管理图表视觉迁移
 
-> [!proc] [[Assessment Tools for Teaching and Learning|asTTle]] 监控原型向可见学习气压计图表的演化链条（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p. 28]]）
+> [!proc] [[Assessment Tools for Teaching and Learning|asTTle]] 监控原型向可见学习[[Barometer of Achievement|气压计图表]]的演化链条（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p. 28]]）
 > 1. **行政实时追踪软件研发** [[John Hattie|哈蒂]]在出版《[[Visible Learning|可见的学习]]》前主持开发了新西兰国家级 [[Assessment Tools for Teaching and Learning|asTTle]] 计算机系统，在技术文档中明确写入支持管理层对全校 6 个科目的软件使用情况进行全网实时追踪，构建了典型的行政数字全景监视网络。
 > 2. **管理仪表界面的视觉殖民** 可见学习书中反复出现的标志性影响气压计图表（Barometer graphics）并非源自教学论思辨，而是直接截取自 asTTle 系统的管理界面，继承了将复杂师生交互压缩为管理仪表盘刻度的全景控制逻辑。
 > 3. **专业自主权剥离** 该工具通过全景监控与标准化指标，将一线教学贬低为缺乏证据支持的不成熟职业，为外部商业资本和咨询套件长驱直入铺平道路。
@@ -136,6 +137,6 @@ updated: 2026-10-16
 > *“The major effect of the Panopticon: to induce in the inmate a state of conscious and permanent visibility that assures the automatic functioning of power. Bentham laid down the principle that power should be visible and unverifiable... he must be sure that he may always be so.”*
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]] — 结合福柯全景敞视理论，解剖 [[Assessment Tools for Teaching and Learning|asTTle]] 监控软件如何演化为可见学习气压计图表并压缩[[Teacher Professional Agency|教师能动性]]。
+> - [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]] — 结合福柯全景敞视理论，解剖 [[Assessment Tools for Teaching and Learning|asTTle]] 监控软件如何演化为可见学习[[Barometer of Achievement|气压计图表]]并压缩[[Teacher Professional Agency|教师能动性]]。
 > - [[Argument_McKnight_2020_Discourse|McKnight and Whitburn (2020)]] — 从文化政治学解构视觉霸权构建的全景监控生态及其诱发的[[Ontology|本体论]]不安全。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 诊断可见学习将互见互视置于核心，把传统公开支配转变为精致现代全景统治。

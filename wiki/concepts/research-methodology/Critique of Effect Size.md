@@ -5,7 +5,7 @@ aliases:
 summary: "围绕效应量作为教育有效性指标的多维度批评体系，涵盖计算口径不可比、聚合失真、关节点争议、试验清晰度论证及政策排名风险"
 type: concept
 domain: "research-methodology"
-related_count: 50
+related_count: 51
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -20,6 +20,7 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Evidence-Based Education]]"
   - "[[Visible Learning]]"
+  - "[[Zone of Desired Effects]]"
   - "[[Creativity]]"
   - "[[Creativity Assessment]]"
   - "[[Class Size]]"
@@ -187,7 +188,7 @@ updated: 2026-10-16
 > [!formula-step] 相关到 $d$ 的转换公式
 > $$d = \frac{2r}{\sqrt{1 - r^2}}$$
 >
-> **读法** $r$ 为相关系数。$r = 0.196$ 即可转换得到 $d = 0.4$（《可见的学习》的期望效应区），但在简单线性回归中这仅对应 $r^2 = 0.0385$——仅 3.85% 的变异被解释，96.15% 为未解释的随机噪音。转换在 $r$ 接近 1 时迅速膨胀。
+> **读法** $r$ 为相关系数。$r = 0.196$ 即可转换得到 $d = 0.4$（《可见的学习》的[[Zone of Desired Effects|期望效应区]]），但在简单线性回归中这仅对应 $r^2 = 0.0385$——仅 3.85% 的变异被解释，96.15% 为未解释的随机噪音。转换在 $r$ 接近 1 时迅速膨胀。
 
 > [!critique-method] 转换公式的误用
 > [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017, p.242)]]揭示了 Hattie 使用最多的效应量计算技巧的深层问题。Hattie 用此公式获得"[[Creativity\|创造力]]对学业成功的影响"（Kim, 2005），实际是 IQ 与[[Creativity Assessment\|创造力测试]]的相关；"自我报告成绩"（《可见的学习》中最强效应量）是一组报告成绩与实际成绩之间的相关，完全未测量干预效果（p.242）。

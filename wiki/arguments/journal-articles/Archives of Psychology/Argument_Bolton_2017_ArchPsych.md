@@ -10,7 +10,7 @@ title: "Argument_Bolton_2017_ArchPsych"
 argument_key: "Argument_Bolton_2017_ArchPsych"
 argument_display_title: "Cognitive and brain development: Executive function, Piaget, and the prefrontal cortex"
 argument_kind: "journal-article"
-argument_related_count: 26
+argument_related_count: 27
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Inhibitory Control]]"
   - "[[Working Memory]]"
+  - "[[Zone of Desired Effects]]"
   - "[[Attentional Inertia]]"
   - "[[Synaptic Pruning]]"
   - "[[Cognitive Flexibility]]"
@@ -155,7 +156,7 @@ citation_aliases:
 
 ### 步骤二：前运算阶段（2-7岁）——PFC结构 Hinge Point 与执行功能爆发
 
-2–7 岁是从动作思维转向符号思维的关键期。[[Neo-Piagetian Theories|新皮亚杰理论]]家将阶段转换点（例如凯斯 ([[Robbie Case]])的关系阶段 (Inter-relational) 向维度阶段 (Dimensional) 转换，菲舍尔 ([[Kurt Fischer]])的单一表征阶段 (Single Representations) 向表征映射阶段 (Representational Mapping) 转换）定位在 4–5 岁左右，这恰好与执行功能 (Executive Function, EF) 的第一个关键转折点 (Hinge Point) 和 PFC 脑结构的物理突变完全共振（p.10）。
+2–7 岁是从动作思维转向符号思维的关键期。[[Neo-Piagetian Theories|新皮亚杰理论]]家将阶段转换点（例如凯斯 ([[Robbie Case]])的关系阶段 (Inter-relational) 向维度阶段 (Dimensional) 转换，菲舍尔 ([[Kurt Fischer]])的单一表征阶段 (Single Representations) 向表征映射阶段 (Representational Mapping) 转换）定位在 4–5 岁左右，这恰好与执行功能 (Executive Function, EF) 的第一个关键转折点 ([[Zone of Desired Effects|Hinge Point]]) 和 PFC 脑结构的物理突变完全共振（p.10）。
 
 > [!line-a] 行为表征与实验案例
 > - **EF 三成分的 Hinge Point** 3–5 岁是执行功能（抑制、转换、更新）经历显著改善的关键时期（p.10）。
@@ -208,7 +209,7 @@ citation_aliases:
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **阶段划分的时间共振 (Hinge Point)** [[Jean Piaget\|皮亚杰]]认知发展四阶段的时间节点与 [[Prefrontal Cortex\|PFC]] 生理发育的三个 Hinge Point（0-2岁突触暴发、3-5岁灰质达峰及抑制与转换突破、11-12岁灰质体积逆U形顶点）完全吻合，说明心理阶段的划分具有神经底座的支持（pp.9-13）。
+> 1. **阶段划分的时间共振 ([[Zone of Desired Effects|Hinge Point]])** [[Jean Piaget\|皮亚杰]]认知发展四阶段的时间节点与 [[Prefrontal Cortex\|PFC]] 生理发育的三个 Hinge Point（0-2岁突触暴发、3-5岁灰质达峰及抑制与转换突破、11-12岁灰质体积逆U形顶点）完全吻合，说明心理阶段的划分具有神经底座的支持（pp.9-13）。
 > 2. **[[Executive Function\|执行功能]] (EF) 作为阶段过渡的机制[[Variable\|变量]]** 经典四阶段过渡本质上是执行功能（特别是抑制、转换、更新）随大脑成熟发育的函数。抑制最早在3-5岁突破，转换在11岁左右，而更新则在15-16岁登顶（p.13, p.15）。
 > 3. **脑解剖与环路化 (Frontostriatal) 决定认知控制** 脑发育通过双向运作（Progressive-突触增殖与[[Myelination\|髓鞘化]]；Regressive-[[Synaptic Pruning\|突触修剪]]与皮层变薄）优化网络。具体运算阶段依赖 frontostriatal 环路的建立，形式运算阶段则与 dlPFC 锥体细胞成熟及皮层选择性变薄紧密关联（p.13, p.15）。
 

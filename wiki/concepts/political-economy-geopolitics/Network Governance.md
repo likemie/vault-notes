@@ -8,7 +8,7 @@ aliases:
 summary: "以多元行动者横向协作、关系协调与异层结构替代垂直科层或纯粹市场的公共治理方式；在批判教育政策与演化科技政策中揭示国家并未空心化退场，而是表现为积极特许赋权、资助中介并缔造市场的异层担保人，以及通过去中心化探索网络引领使命导向创新的催化者。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 80
+related_count: 81
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -78,6 +78,7 @@ related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
   - "[[Teach Classroom Observation Tool]]"
 related_persons:
+  - "[[John O'Neill]]"
   - "[[Amelia Peterson]]"
   - "[[Alec Peterson]]"
   - "[[Mariana Mazzucato]]"
@@ -207,7 +208,7 @@ updated: 2026-10-16
 > 探讨如何通过将权力与责任下沉或外包给企业、非政府组织（NGO）与慈善机构，瓦解传统韦伯式教育与科技行政垄断。
 
 > [!claim] O'Neill et al.
-> **多元行动者网络对传统科层交付的系统性置换** 约翰·奥尼尔（John O'Neill）等基于新西兰基础教育改革的大规模实证研究指出，公立学校教育治理正在经历深刻的结构重组；传统的中央教育部统一供给模式被私营商业赞助商、非营利[[Educational Management Organisation|教育管理组织]]（EMOs）、毛利部族信托当局以及国际慈善网络所切分。公立教育的服务交付由单一行政序列演变为涵盖[[Public-Private Partnership|公私合作伙伴关系]]（PPP）、教育软件商业化特许、师资外包培训项目以及竞争性合同分包的多主体协同网络。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. vi–viii, 8–12)]]
+> **多元行动者网络对传统科层交付的系统性置换** [[John O'Neill|约翰·奥尼尔]]（John O'Neill）等基于新西兰基础教育改革的大规模实证研究指出，公立学校教育治理正在经历深刻的结构重组；传统的中央教育部统一供给模式被私营商业赞助商、非营利[[Educational Management Organisation|教育管理组织]]（EMOs）、毛利部族信托当局以及国际慈善网络所切分。公立教育的服务交付由单一行政序列演变为涵盖[[Public-Private Partnership|公私合作伙伴关系]]（PPP）、教育软件商业化特许、师资外包培训项目以及竞争性合同分包的多主体协同网络。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. vi–viii, 8–12)]]
 
 > [!claim] [[Amelia Peterson|Peterson, A.]]
 > **跨国教育组织的分布式分层治理网络** 亚历山大·彼得森（[[Alec Peterson]]）对[[United World Colleges|联合世界书院]]（UWC）长达数十年的制度发展史分析表明，跨国非营利教育实体的运转既非依赖垂直行政指令，亦非放任各校完全孤立，而是建构了一个由国际董事会、各国国家选拔委员会、东道国政府、地方捐助基金会与自治书院所构筑的多中心治理网络。各方通过长程互赖协议分别承担土地出资、奖学金赞助与学术认证责任，以协商合意维系了全球教育网络的有机运转。[[Argument_Peterson_1987_OpenCourt_Ch05|(Peterson, 1987, pp. 105–109, 119–129)]]

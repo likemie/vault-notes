@@ -7,7 +7,7 @@ title: "Argument_Hattie_2005_ACER"
 argument_key: "Argument_Hattie_2005_ACER"
 argument_display_title: "What is the nature of evidence that makes a difference to learning? In Using data to support learning: Proceedings of the ACER Research Conference 2005 (pp. 11–21)"
 argument_kind: "conference-paper"
-argument_related_count: 43
+argument_related_count: 44
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#e5e7eb"
@@ -24,7 +24,7 @@ citation_aliases:
 isbn: ""
 status: active
 created: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-16
 tags:
   - theme/accountability
   - theme/formative-assessment
@@ -56,6 +56,7 @@ related_concepts:
   - "[[Empiricism]]"
   - "[[Learning Gain]]"
   - "[[Floor and Ceiling Effects]]"
+  - "[[Zone of Desired Effects]]"
   - "[[Learned Helplessness]]"
   - "[[Learning Intentions]]"
   - "[[Success Criteria]]"
@@ -310,7 +311,7 @@ sources:
 >   综合 100 余项重大教育创新、超过 300,000 项独立实证研究，绝大多数干预措施的效应量均分布在零点以上，说明只要实施教学干预，成绩几乎总能发生正向微移。
 > - **平均效应量分布**
 >   所有干预措施的效应量呈现对称的正态钟形曲线，其中心均值恰好落在 $d = 0.40$ 处，构成了全行业教育影响的平均标尺。
-> - **关节点相对判准（Hinge Point）**
+> - **关节点相对判准（[[Zone of Desired Effects|Hinge Point]]）**
 >   唯有效应量大于 $0.40$ 的干预才具有卓越的推广价值；任何增幅低于 $0.40$ 的教学创新实质上是在耽误学生，因为常规环境中一半的干预都能轻易超越该门槛。（p. 16）
 
 #### 2. 效应量工具化与“数据意外”对教师防御性心智图式的冲击

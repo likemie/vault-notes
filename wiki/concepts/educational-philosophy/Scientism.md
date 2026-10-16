@@ -5,7 +5,7 @@ aliases:
 summary: "对科学方法和科学权威的过度美化与神化，将其排他性外推至原本不适用的人类精神与社会探究领域的认识论倾向。科学主义将实证科学视为唯一合法的求真法则，以工具理性和概念数学化扼杀价值伦理辩论，在当代教育治理中表现为量化霸权与对多元认知方式的系统规训。"
 type: concept
 domain: "educational-philosophy"
-related_count: 53
+related_count: 54
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Areas of Knowledge]]"
   - "[[Heterogeneity]]"
   - "[[Postpositivism]]"
+  - "[[Barometer of Achievement]]"
   - "[[Scientific Paradigm]]"
   - "[[Disciplinary Institutionalization]]"
   - "[[Critique of Evidence-Based Education]]"
@@ -204,7 +205,7 @@ updated: 2026-10-16
 > 深入剖析二战后工业研发（R&D）体制与企业管理主义如何将自然科学受控实验形式外推至教育，催生缺乏科学诚实性的草包族科学。
 
 > [!claim] [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]]
-> **企业研发体制渗透与草包族科学异化** 约翰逊与詹岑（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）系统考证了当代教育科学主义的工业技术史源流：二战后，基础科学与技术工程的深度捆绑催生了全新的社会建制——研发（R&D）。研发工程师随后大量进入企业与政府管理层，将其特有的技术[[Determinism|决定论]]、社会工程与计量控制逻辑确立为新自由主义国家治理的常态哲学（Aikenhead, 2005; Barnes, 1985）。在这一背景下，以《可见的学习》为代表的[[Evidence-Based Education|循证教育]]产品，展现出典型的草包族科学（Cargo Cult Science, Feynman, 1974）特质：其表面充斥着精密庞大的元分析数据库、[[Effect Size|效应量]]排行与气压计图表，形式上极像严肃科学，但却彻底丧失了真正科学所必备的认识论严谨性——即费曼所强调的科学家必须竭尽全力去展示自己可能是错的求真诚实度。更严重的是，这种范式盲目仿效物理学实验室的因果预测模型（Phillips, 2014），企图将复杂的课堂教学还原为可受控隔离的单一因果链；然而在真实的教育情境中，多元的学生背景、文化脉络与人际关系并非物理学意义上的噪声杂质，而是教育实践本身的生命所在。企图在教室中排除这些情境变量，不仅摧毁了探究的生态效度（Ecological Validity），而且促使学校退化为企业研发外包的数据生产流水线，彻底遮蔽了教育作为立德树人的人文理想。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 34–36)]]
+> **企业研发体制渗透与草包族科学异化** 约翰逊与詹岑（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）系统考证了当代教育科学主义的工业技术史源流：二战后，基础科学与技术工程的深度捆绑催生了全新的社会建制——研发（R&D）。研发工程师随后大量进入企业与政府管理层，将其特有的技术[[Determinism|决定论]]、社会工程与计量控制逻辑确立为新自由主义国家治理的常态哲学（Aikenhead, 2005; Barnes, 1985）。在这一背景下，以《可见的学习》为代表的[[Evidence-Based Education|循证教育]]产品，展现出典型的草包族科学（Cargo Cult Science, Feynman, 1974）特质：其表面充斥着精密庞大的元分析数据库、[[Effect Size|效应量]]排行与[[Barometer of Achievement|气压计图表]]，形式上极像严肃科学，但却彻底丧失了真正科学所必备的认识论严谨性——即费曼所强调的科学家必须竭尽全力去展示自己可能是错的求真诚实度。更严重的是，这种范式盲目仿效物理学实验室的因果预测模型（Phillips, 2014），企图将复杂的课堂教学还原为可受控隔离的单一因果链；然而在真实的教育情境中，多元的学生背景、文化脉络与人际关系并非物理学意义上的噪声杂质，而是教育实践本身的生命所在。企图在教室中排除这些情境变量，不仅摧毁了探究的生态效度（Ecological Validity），而且促使学校退化为企业研发外包的数据生产流水线，彻底遮蔽了教育作为立德树人的人文理想。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 34–36)]]
 
 ---
 

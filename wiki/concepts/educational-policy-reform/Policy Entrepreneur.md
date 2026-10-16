@@ -6,7 +6,7 @@ aliases:
 summary: "在教育系统内外通过网络、合作和机会识别推动政策变革的行动者，常兼具知识传播、议程设置和组织动员功能。在理性主义比较教育传统中，政策企业家是全球治理与多行动者网络的核心协调力量；在新自由主义教育私有化改革中，他们通过在公共福利、非营利与营利性载体间无缝切换，实现学术知识产权的商业化和远处治理；在公共教育制度改革中，他们通过跨界网络、策略性证据打包与去政治化防卫，突破各州分散垄断以促成重大政策变迁。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 48
+related_count: 49
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -53,6 +53,7 @@ related_persons:
   - "[[Eleftherios Klerides]]"
   - "[[William H. Schmidt]]"
   - "[[John Hattie]]"
+  - "[[John O'Neill]]"
 related_facts:
   - "[[National Assessment of Educational Progress]]"
   - "[[TIMSS]]"
@@ -204,7 +205,7 @@ updated: 2026-10-16
 > - **2000 — 教育系统内政策创业** 迈克尔·明特罗姆（Michael Mintrom, 2000）首次系统化探讨教育系统内部自下而上的政策创业行为，关注其打破行政僵化、促进学校[[School Choice|择校]]创新的机制。
 > - **2012 — 跨国[[Policy Network|政策网络]]拓展** 斯蒂芬·J·鲍尔（Stephen J. Ball, 2012）将概念拓展至全球[[Network Governance|网络化治理]]维度，揭示商业资本与智库如何穿透国家主权边界。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. viii)]]
 > - **2013 — 政策周期中的证据利用与去政治化** 洛兰·M·麦克唐纳与M·斯蒂芬·韦瑟福德（[[Argument_McDonnell_2013_AJE|McDonnell & Weatherford, 2013]]）将政策企业家理论与多阶段证据利用相结合，揭示其如何在各阶段将实证研究、指标数据与价值叙事策略性打包装配，以突破[[Punctuated Equilibrium Theory|政策垄断]]并推进[[Common Core State Standards|共同核心标准]]采纳。
-> - **2016 — 混合政策创业诊断** 约翰·奥尼尔等人（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）通过对新西兰公立学校改革的研究，细化了政策企业家在公共福利、非营利与营利动机间无缝融合的微观运作机制。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 47–64)]]
+> - **2016 — 混合政策创业诊断** [[John O'Neill|约翰·奥尼尔]]等人（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）通过对新西兰公立学校改革的研究，细化了政策企业家在公共福利、非营利与营利动机间无缝融合的微观运作机制。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 47–64)]]
 
 ---
 

@@ -9,7 +9,7 @@ title: "Argument_Golovchin_2019_ESC"
 argument_key: "Argument_Golovchin_2019_ESC"
 argument_display_title: "What kind of teacher does the 'school of the future' need? Possibility of using John Hattie's approach in Russian education"
 argument_kind: "journal-article"
-argument_related_count: 21
+argument_related_count: 22
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Policy Borrowing]]"
   - "[[Class Size]]"
+  - "[[Zone of Desired Effects]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Causality]]"
   - "[[Publication Bias]]"
@@ -95,7 +96,7 @@ citation_aliases:
 > - **负面效应区（d<0）** 如暑假、看电视
 > - **发展效应区（d=0-0.15）** 如教师学科知识（d=0.09）、教师教育（d=0.11）
 > - **低中效应区（d=0.15-0.4）** 如[[Class Size\|班级规模]]（d=0.21）、家庭结构（d=0.17）
-> - **期望效应区（d>0.4）** 如微格教学（d=0.88）、教学清晰度（d=0.75）、[[Student-Teacher Relationship\|师生关系]]（d=0.72）(p.234)
+> - **[[Zone of Desired Effects|期望效应区]]（d>0.4）** 如微格教学（d=0.88）、教学清晰度（d=0.75）、[[Student-Teacher Relationship\|师生关系]]（d=0.72）(p.234)
 >
 > Hattie 的核心结论——"教师学科知识和教师资格是最不重要的（d=0.1），而微格教学和教师反馈最重要"——引发最大争议(p.233)。
 >

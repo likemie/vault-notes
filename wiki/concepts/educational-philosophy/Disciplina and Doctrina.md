@@ -9,7 +9,7 @@ aliases:
 summary: "西方教育思想史上关于知识组织和传授的一对经典二元范式：disciplina 侧重既有知识的灌训与规训，doctrina 侧重知识的动态生产与开放更新。在当代超国家治理与循证教育中，跨国测评排位赛与新泰勒主义清单监控作为强有力的远处规训机制（disciplina），将教学活动窄化为数据合规，严重压制了教育的人文关系建构与批判性审议（doctrina）。"
 type: concept
 domain: "educational-philosophy"
-related_count: 53
+related_count: 54
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Open-Mindedness]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Visible Learning]]"
+  - "[[Barometer of Achievement]]"
   - "[[Phenomenon-Based Learning]]"
   - "[[New Public Management]]"
   - "[[Critique of Evidence-Based Education]]"
@@ -211,7 +212,7 @@ updated: 2026-10-16
 > 剖析[[Evidence-Based Education|循证教育]]倡导者如何通过行政监控软件、气压计指标与外科手术式核查清单，将一线教学降格为可直接管制的机械技术操作，剥夺教师在具体情境中的伦理审议与关系建构权力。
 
 > [!claim] [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]]
-> **新泰勒主义监控与教学人文关系维度的剥夺** 约翰逊与詹岑（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）揭示，《[[Visible Learning|可见的学习]]》对“科学管理”的狂热追求在本质上延续了泰勒制（Taylorism）工时与动作拆解的工业流水线逻辑（[[Argument_Eacott_2017_SLM|Eacott, 2017]]; Taylor, 1911）。在该[[Paradigm|范式]]中，[[John Hattie|约翰·哈蒂]]将一线教师的经验交流斥为缺乏科学依据的“轶事传闻”，甚至援引保守派智库[[Thomas B. Fordham Institute|福特汉姆研究所]]的论调将教学贬抑为“不成熟的职业”（immature profession），从而为建立自上而下的技术规训（disciplina）确立合法性。哈蒂不仅主持开发了具备全景监控潜力的 [[Assessment Tools for Teaching and Learning|asTTle]] 计算机网络系统，更将该系统的气压计图表迁移至专著中，主张教学应当向外科手术与高山救援看齐。这种粗暴类比严重混淆了机械技术操作与复杂育人实践的本质边界：外科手术依赖固定清单与标准打结，而真正的教学（doctrina）是在特定社区与充满差异的班级中建设师生学习共同体的复杂人际与伦理过程。当学校被改造成由外部标准清单管制的加盟连锁店时，教师被异化为全景受控的技术操作工，学生被降格为未来测验的数据产出点，教育本身的人文关怀、民主价值与批判探索被技术规训彻底摧毁。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 28–30)]]
+> **新泰勒主义监控与教学人文关系维度的剥夺** 约翰逊与詹岑（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）揭示，《[[Visible Learning|可见的学习]]》对“科学管理”的狂热追求在本质上延续了泰勒制（Taylorism）工时与动作拆解的工业流水线逻辑（[[Argument_Eacott_2017_SLM|Eacott, 2017]]; Taylor, 1911）。在该[[Paradigm|范式]]中，[[John Hattie|约翰·哈蒂]]将一线教师的经验交流斥为缺乏科学依据的“轶事传闻”，甚至援引保守派智库[[Thomas B. Fordham Institute|福特汉姆研究所]]的论调将教学贬抑为“不成熟的职业”（immature profession），从而为建立自上而下的技术规训（disciplina）确立合法性。哈蒂不仅主持开发了具备全景监控潜力的 [[Assessment Tools for Teaching and Learning|asTTle]] 计算机网络系统，更将该系统的[[Barometer of Achievement|气压计图表]]迁移至专著中，主张教学应当向外科手术与高山救援看齐。这种粗暴类比严重混淆了机械技术操作与复杂育人实践的本质边界：外科手术依赖固定清单与标准打结，而真正的教学（doctrina）是在特定社区与充满差异的班级中建设师生学习共同体的复杂人际与伦理过程。当学校被改造成由外部标准清单管制的加盟连锁店时，教师被异化为全景受控的技术操作工，学生被降格为未来测验的数据产出点，教育本身的人文关怀、民主价值与批判探索被技术规训彻底摧毁。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 28–30)]]
 
 ---
 

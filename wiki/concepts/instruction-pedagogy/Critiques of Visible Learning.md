@@ -7,7 +7,7 @@ aliases:
 summary: "围绕 John Hattie Visible Learning 展开的批评谱系，集中讨论效应量排名、元-元分析、教学理论、教育哲学、可见性政治和商业化政策扩张等争议。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 134
+related_count: 138
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -53,6 +53,7 @@ related_concepts:
   - "[[Language Experience Approach]]"
   - "[[Literature Review]]"
   - "[[Academic Achievement]]"
+  - "[[Zone of Desired Effects]]"
   - "[[Student-Teacher Relationship]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Predictive Validity]]"
@@ -81,6 +82,7 @@ related_concepts:
   - "[[Learning Intentions]]"
   - "[[Reflexivity]]"
   - "[[Cult of Efficiency]]"
+  - "[[Barometer of Achievement]]"
   - "[[Global Education Reform Movement]]"
   - "[[Sage]]"
   - "[[Structural Coupling]]"
@@ -121,12 +123,14 @@ related_methods:
 related_persons:
   - "[[John Hattie]]"
   - "[[Gene Glass]]"
+  - "[[Elliott Eisner]]"
   - "[[Basil Bernstein]]"
 related_facts:
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[TIMSS]]"
   - "[[PISA]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
+  - "[[Corwin Press]]"
   - "[[Cognition Education]]"
   - "[[Treasury Briefing on Student-Teacher Ratios]]"
   - "[[EEF Teaching and Learning Toolkit]]"
@@ -401,7 +405,7 @@ updated: 2026-10-16
 #### 边际效应去情境化、置信区间缺失与元科学全库复现崩溃
 
 > [!critique-method] 效应量阈值深度耦合样本量（[[Argument_Allerup_2015_Paideia|Allerup, 2015, pp. 45–46]]）
-> 单一效应量 $d$ 不能直接脱离样本量接受显著性判断。在数理推导上，均值检验的 t 统计量近似表达为 $t = d\sqrt{n}$。以 $n=25$ 为例，$d=0.40 \Rightarrow t=2.00$，恰好接近双侧临界值 $t_{0.05}(48) \approx 2.060$。即 $0.40$ 阈值仅在特定微小样本量下恰好贴合 $p=0.05$；一旦样本量改变，对应关系荡然无存。期望效应区绝非固定不变的客观黄金标准，而是与研究样本规模深度绑定的相对指标。
+> 单一效应量 $d$ 不能直接脱离样本量接受显著性判断。在数理推导上，均值检验的 t 统计量近似表达为 $t = d\sqrt{n}$。以 $n=25$ 为例，$d=0.40 \Rightarrow t=2.00$，恰好接近双侧临界值 $t_{0.05}(48) \approx 2.060$。即 $0.40$ 阈值仅在特定微小样本量下恰好贴合 $p=0.05$；一旦样本量改变，对应关系荡然无存。[[Zone of Desired Effects|期望效应区]]绝非固定不变的客观黄金标准，而是与研究样本规模深度绑定的相对指标。
 
 > [!critique-data] 控制第三变量后边际效应大幅衰减（[[Argument_Allerup_2015_Paideia|Allerup, 2015, pp. 49–51]]）
 > 多变量控制会从根本上改变效应量估计值：在 [[TIMSS]] 2011 丹麦四年级实证数据中，教师学科专业资格的未控制边际效应量约为 $0.15$；但在控制学生家庭社会经济背景后，该效应量骤降至 $0.08$ 且不再具有[[Statistical Significance|统计显著性]]。这直接[[Falsification|证伪]]了可见学习依据单一边际 $d$ 值进行通用排名的有效性——同一因素的实际效应在真实教育多变量交互中极不稳定。
@@ -599,7 +603,7 @@ updated: 2026-10-16
 > - **规避学术检验的商业闭环** 可见学习从未提出过可在实验中被证伪的严密假设；其自创算法未经专业同行评审直接进入商业出版，严肃学术批评被隔绝于公众视线之外，其自身则在咨询市场上获取商业利润。
 
 > [!warrant] 复杂教育情境对实验室控制模式的生态抗拒
-> 艾斯纳（Elliott Eisner）与菲利普斯（Denis Phillips）指出，自然科学之所以成功在于其能在受控实验室中隔离干扰；但真实的课堂中，学生的差异个性、人际交往与即时情绪不是干扰变量，而是育人核心。强行推行实验室控制手段，必然彻底摧毁教育的[[Ecological Validity|生态效度]]（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 35–36]]）。
+> 艾斯纳（[[Elliott Eisner]]）与菲利普斯（Denis Phillips）指出，自然科学之所以成功在于其能在受控实验室中隔离干扰；但真实的课堂中，学生的差异个性、人际交往与即时情绪不是干扰变量，而是育人核心。强行推行实验室控制手段，必然彻底摧毁教育的[[Ecological Validity|生态效度]]（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 35–36]]）。
 
 ---
 
@@ -654,7 +658,7 @@ updated: 2026-10-16
 > [!proc] 泰勒制监控逻辑从软件原型向理论图表的迁移路径（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p. 28]]）
 > 1. **工业流水线原型** 泰勒于 1911 年开展工时测定，主张通过标准化动作实施直接管控。
 > 2. **行政监控软件开发** 哈蒂在出版前主持开发了 [[Assessment Tools for Teaching and Learning|asTTle]] 计算机系统，在技术文档中明确写入支持管理层对全校多个科目的软件使用情况进行全网实时追踪。
-> 3. **管理图表视觉迁移** 可见学习中标志性的影响气压计图表（Barometer graphics）直接取自 asTTle 系统的管理界面，继承了将丰富复杂的育人活动压缩为仪表刻度的监控逻辑。
+> 3. **管理图表视觉迁移** 可见学习中标志性的影响[[Barometer of Achievement|气压计图表]]（Barometer graphics）直接取自 asTTle 系统的管理界面，继承了将丰富复杂的育人活动压缩为仪表刻度的监控逻辑。
 
 > [!case] 维多利亚州推行高影响力教学策略的实践异化（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 29–30]]）
 > 澳大利亚维多利亚州依据可见学习强制推行高影响力教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]），产生严重的表演性危机：
@@ -686,7 +690,7 @@ updated: 2026-10-16
 > - **d = 0.21** 将班级规模放在第 108 位的边缘位置，为财政部门拒绝增加生均经费、拒绝扩招师资提供了权威盾牌。
 
 > [!policy-context] 饥饿-危机-私有化循环的制度运作（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 33–34]]）
-> 这一运作完全符合[[Global Education Reform Movement|全球教育改革运动]]（GERM）的经典逻辑：首先通过持续宣称硬件投资与班级规模缩减无效，合理化政府对公立教育预算的削减（制造公共资源的饥饿）；随后导致公立学校陷入资源短缺与质量危机；最终由政府出资引入考文出版社与[[Cognition Education|认知教育]]公司价格昂贵的咨询培训包进行私有化拯救。
+> 这一运作完全符合[[Global Education Reform Movement|全球教育改革运动]]（GERM）的经典逻辑：首先通过持续宣称硬件投资与班级规模缩减无效，合理化政府对公立教育预算的削减（制造公共资源的饥饿）；随后导致公立学校陷入资源短缺与质量危机；最终由政府出资引入[[Corwin Press|考文出版社]]与[[Cognition Education|认知教育]]公司价格昂贵的咨询培训包进行私有化拯救。
 
 #### 公共教育外包改制、专营品牌垄断与政商旋转门
 
@@ -860,7 +864,7 @@ updated: 2026-10-16
 > | **理论本体与教学论[[Construct\|构念]]** | [[Visible Learning]] | 概念 | VL 宏观理论母条目；聚焦二阶元分析理论架构、$d=0.40$ 关节点、教师思维框架与可见性教学论本体；母条目理论构念维护于此。 |
 > | **科学哲学与划界批判** | [[Cargo Cult Science]] | 概念 | 货物崇拜科学；从费曼科学哲学视角解构 VL 具备复杂图表与庞大数字外壳，却隐藏计算公式、缺乏可错论求真诚意与回避学术[[Falsification\|证伪]]的伪科学特征；科学哲学划界批判分流维护于此。 |
 > | **劳动过程与全景监控** | [[Neo-Taylorism]] | 概念 | 新泰勒主义；批判 VL 将育人复杂劳动拆解为标准化动作清单、依托量化气压计剥夺[[Teacher Professional Agency\|教师专业能动性]]并推行行政全景监控的劳动过程理论；管理规训批判分流维护于此。 |
-> | **商业化与政商利益网络** | [[Visible Learning Branding and Global Influences]] | 事实 / 事件 | 记录 VL 从学术成果异化为 VLplus 商业专营品牌、考文出版社收购、认证培训垄断、新西兰/澳大利亚/丹麦等国官方政策采纳及学者高额版税收益事实；**商业运作、版税利益追踪与跨国政策扩散事实统一分流维护于此**。 |
+> | **商业化与政商利益网络** | [[Visible Learning Branding and Global Influences]] | 事实 / 事件 | 记录 VL 从学术成果异化为 VLplus 商业专营品牌、[[Corwin Press\|考文出版社]]收购、认证培训垄断、新西兰/澳大利亚/丹麦等国官方政策采纳及学者高额版税收益事实；**商业运作、版税利益追踪与跨国政策扩散事实统一分流维护于此**。 |
 > | **政商载体与商业咨询** | [[Cognition Education]] | 事实 / 机构 | 新西兰教育服务改制成立的商业咨询公司，设立 VLplus 品牌并长期向学者支付高额劳务报酬（2011–2015 达 86.9 万新西兰元）；政商旋转门细节维护于此。 |
 > | **[[Meta-analysis\|元分析]]方法学纯学理批判** | [[Critique of Meta-analysis]] | 概念 | 元分析方法论批判；系统梳理[[Meta-meta-analysis\|二级元分析]]在[[Effect Size\|效应量]]合并、[[Heterogeneity\|异质性]]丢失、[[Publication Bias\|发表偏倚]]与垃圾进垃圾出（GIGO）维度的纯方法学批判；纯统计学缺陷维护于此。 |
 > | **定量方法论本体** | [[Meta-analysis]] | 方法 | 元分析方法本体；涵盖效应量提取、加权模型与元分析规范；二级元分析对原始研究异质性与非线性关系的平坦化失真案例维护于此。 |

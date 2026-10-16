@@ -7787,6 +7787,18 @@
     ]
   },
   {
+    "title": "Barometer of Achievement",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Barometer of Achievement.md",
+    "aliases": [
+      "成就气压计",
+      "效应量气压计",
+      "气压计图表",
+      "Barometer Graphics",
+      "Barometer of Effects"
+    ]
+  },
+  {
     "title": "Blended Learning",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Blended Learning.md",
@@ -8453,6 +8465,18 @@
     "aliases": [
       "全语言",
       "整体语言教学"
+    ]
+  },
+  {
+    "title": "Zone of Desired Effects",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Zone of Desired Effects.md",
+    "aliases": [
+      "期望效应区",
+      "期望效应区分水岭",
+      "Hinge Point",
+      "铰接点",
+      "d=0.40 分水岭"
     ]
   },
   {
@@ -22849,6 +22873,14 @@
     ]
   },
   {
+    "title": "Pasi Sahlberg",
+    "type": "person",
+    "path": "wiki/persons/finland/Pasi Sahlberg.md",
+    "aliases": [
+      "帕西·萨尔伯格"
+    ]
+  },
+  {
     "title": "Sami Moisio",
     "type": "person",
     "path": "wiki/persons/finland/Sami Moisio.md",
@@ -23638,6 +23670,15 @@
       "Hattie, J.",
       "约翰·哈蒂",
       "哈蒂"
+    ]
+  },
+  {
+    "title": "John O'Neill",
+    "type": "person",
+    "path": "wiki/persons/new-zealand/John O'Neill.md",
+    "aliases": [
+      "约翰·奥尼尔",
+      "John G. O'Neill"
     ]
   },
   {
@@ -25294,6 +25335,18 @@
     ]
   },
   {
+    "title": "David Carnine",
+    "type": "person",
+    "path": "wiki/persons/us/David Carnine.md",
+    "aliases": [
+      "戴维·卡宁",
+      "David W. Carnine",
+      "道格拉斯·卡宁",
+      "Douglas Carnine",
+      "Doug Carnine"
+    ]
+  },
+  {
     "title": "David Coleman",
     "type": "person",
     "path": "wiki/persons/us/David Coleman.md",
@@ -25453,6 +25506,15 @@
       "埃利泽·尤德考夫斯基",
       "Yudkowsky, E.",
       "尤德考夫斯基"
+    ]
+  },
+  {
+    "title": "Elliott Eisner",
+    "type": "person",
+    "path": "wiki/persons/us/Elliott Eisner.md",
+    "aliases": [
+      "埃利奥特·艾斯纳",
+      "Elliott W. Eisner"
     ]
   },
   {
@@ -33348,6 +33410,15 @@
       "美国计算机研究协会",
       "计算机研究协会",
       "CRA"
+    ]
+  },
+  {
+    "title": "Corwin Press",
+    "type": "fact",
+    "path": "wiki/facts/us/Corwin Press.md",
+    "aliases": [
+      "考文出版社",
+      "Corwin"
     ]
   },
   {

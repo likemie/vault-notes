@@ -11,7 +11,7 @@ subtype: policy
 region: australia
 fact_region: "australia"
 fact_kind: "policy"
-fact_related_count: 29
+fact_related_count: 30
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dbeafe"
@@ -53,6 +53,7 @@ related_methods:
 related_persons:
   - "[[John Hattie]]"
 related_facts:
+  - "[[Corwin Press]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[Thomas B. Fordham Institute]]"
 related_arguments:
@@ -94,7 +95,7 @@ citation_aliases: []
 > - **适用对象** 维多利亚州公立教育系统内全体在岗任课教师、教研组长及学校校长。
 > - **政策工具**
 >   - **10 项高影响教学策略指南（HITS）** 涵盖设置明确[[Learning Intentions|学习意图]]与[[Success Criteria|成功标准]]（Learning Intentions and Success Criteria）、显性教学（Explicit Teaching）、[[Cooperative Learning|合作学习]]、多模态暴露、分层教学与形成性反馈等。
->   - **读写教学工具包（Literacy Teaching Toolkit）** 覆盖学前准备至 6 年级，深度引入由商业出版巨头 Corwin 出版的《可见的学习读写教学》（Fisher et al., 2016），规范日常阅读与拼读实操流程。
+>   - **读写教学工具包（Literacy Teaching Toolkit）** 覆盖学前准备至 6 年级，深度引入由商业出版巨头 [[Corwin Press|Corwin]] 出版的《可见的学习读写教学》（Fisher et al., 2016），规范日常阅读与拼读实操流程。
 > - **约束机制** 借助[[School Leadership|学校领导]]层的日常课堂巡视（Learning Walks）、教案合规性审查以及教师年度绩效考核，将 10 项策略落实为刚性合规义务。
 
 > [!logic-map]- 政策[[Disciplina and Doctrina|规训]]与实施链条
@@ -132,7 +133,7 @@ citation_aliases: []
 ## 时间线
 
 > [!timeline] 政策发展时间线
-> - **2016年** 商业出版机构 Corwin（拥有 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 商业品牌）出版《[[Visible Learning|可见的学习]]读写教学》（Fisher, Frey, & Hattie, 2016），为维州后续读写政策提供了实操蓝本（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 141]]）。
+> - **2016年** 商业出版机构 [[Corwin Press|Corwin]]（拥有 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 商业品牌）出版《[[Visible Learning|可见的学习]]读写教学》（Fisher, Frey, & Hattie, 2016），为维州后续读写政策提供了实操蓝本（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 141]]）。
 > - **2017年** 维多利亚州教育部正式发布 10 项 HITS 指南与《读写教学工具包》，宣布全州公立中小学全面启动循证教学改进（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 141]]）。
 > - **2020年** 维州一线教师与学者帕特里克·奥康纳（Patrick O'Connor, 2020）在《澳大利亚语言与识字学报》发表细读研究，揭露 HITS 所依据的[[John Hattie|哈蒂]][[Meta-analysis|元分析]]存在严重的分类错误与数据计算失误，政策[[Chain of Evidence|证据链]]底部存在重大漏洞。
 > - **2022年** 莉莉（Lilley, 2022）与韦斯科特（Wescott, 2022）的[[Fieldwork|田野调查]]揭示，HITS 在基层学区演化为极端的[[Performativity|表演性]]白板打卡与形式主义常规检查，导致教师执教热情骤降。
@@ -159,7 +160,7 @@ citation_aliases: []
 
 > [!actor-grid] 权力—利益矩阵
 > - **高权力 · 高利益 — 维州教育部技术官僚** 将 HITS 视作展现政绩与回应公共问责的核心治理工具，强调政策的标准化与可控性。
-> - **高权力 · 高利益 — 商业出版与咨询网络（Corwin / Cognition）** 借助官方政策背书，将《[[Visible Learning|可见的学习]]》系列图书与教师培训服务大举导入公立教育体系，获取巨额品牌特许与版税收益（[[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017]]; [[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）。
+> - **高权力 · 高利益 — 商业出版与咨询网络（[[Corwin Press|Corwin]] / Cognition）** 借助官方政策背书，将《[[Visible Learning|可见的学习]]》系列图书与教师培训服务大举导入公立教育体系，获取巨额品牌特许与版税收益（[[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017]]; [[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）。
 > - **低权力 · 高利益 — 一线中小学教师群体** 承受最直接的管理[[Disciplina and Doctrina|规训]]压力，课堂自主裁量权受到严格压制，面临繁重且虚妄的[[Performativity|表演性]]合规劳动（Lilley, 2022; [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）。
 > - **低权力 · 低利益 — 批判性教育研究学者** 独立发表同行评议论文指出其数据算错与政策偏误，但长期被官方行政决策机制边缘化（[[Argument_OConnor_2020_AJLL|O'Connor, 2020]]）。
 
@@ -214,7 +215,7 @@ citation_aliases: []
 > > 揭示公共教育预算如何借助政策转化流向特定私人企业与商业出版网络。
 > >
 > > - **政策推进部门（DET Victoria）** 坚称引入知名学者与国际出版成果能够快速实现优质教育资源的集约化供给。
-> > - **政治经济学学者（[[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017]]; [[Argument_ONeill_2016_Report|O'Neill et al., 2016]]; [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）** 揭露维州政策实质上成为了 Corwin 出版社与 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 商业特许网络的超级分销渠道，公立教育预算源源不断地转化为商业品牌专利使用费与版税。
+> > - **政治经济学学者（[[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017]]; [[Argument_ONeill_2016_Report|O'Neill et al., 2016]]; [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）** 揭露维州政策实质上成为了 [[Corwin Press|Corwin]] 出版社与 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 商业特许网络的超级分销渠道，公立教育预算源源不断地转化为商业品牌专利使用费与版税。
 
 ---
 

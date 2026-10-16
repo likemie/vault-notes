@@ -6,7 +6,7 @@ aliases:
 summary: "描述全球教育改革向标准化、问责、市场化和私有化集中的批判性术语，常用于分析新自由主义政策如何重塑学校制度"
 type: concept
 domain: "educational-policy-reform"
-related_count: 51
+related_count: 53
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -54,10 +54,12 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Pasi Sahlberg]]"
   - "[[John Hattie]]"
 related_facts:
   - "[[PISA]]"
   - "[[Reach]]"
+  - "[[Corwin Press]]"
   - "[[HarmoS]]"
   - "[[National Assessment of Education Quality China 2007]]"
   - "[[OECD]]"
@@ -86,7 +88,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> 全球教育改革运动（Global Education Reform Movement, GERM）是由芬兰教育学者帕西·萨尔伯格（Pasi Sahlberg, 2012）提出的批判性学术术语，用于概括自 1980 年代以来在全球范围内蔓延的新自由主义学校教育改革浪潮。该运动主张将私营部门的市场逻辑、工业管理模式、高度统一的课程标准以及高利害测试问责强加于公共教育系统，试图通过制造学校间竞争、削减公共财政投入与推进教育服务私有化来重塑学校教育治理（p. 141; [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 30–31]]）。
+> 全球教育改革运动（Global Education Reform Movement, GERM）是由芬兰教育学者[[Pasi Sahlberg|帕西·萨尔伯格]]（Pasi Sahlberg, 2012）提出的批判性学术术语，用于概括自 1980 年代以来在全球范围内蔓延的新自由主义学校教育改革浪潮。该运动主张将私营部门的市场逻辑、工业管理模式、高度统一的课程标准以及高利害测试问责强加于公共教育系统，试图通过制造学校间竞争、削减公共财政投入与推进教育服务私有化来重塑学校教育治理（p. 141; [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 30–31]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** GERM 将复杂的育人过程还原为类似工业流水线的投入—产出模型，将学校视作企业组织，教师视作执行标准化操作清单的生产线装配工，学生测验分数视作企业增值增量的[[Performance Indicators|绩效指标]]（Sahlberg, 2012, pp. 141, 149）。
@@ -127,7 +129,7 @@ updated: 2026-10-16
 > - **新保守主义的确定性知识观** 强调基础拼读法与技能切片，迎合了保守主义对传统确定性知识与中央统一课程交付的偏好（Soler, 2016, p. 149）。
 > - **新自由主义的公共财政撤资议程** 借[[Evidence-Based Education|循证教育]]与高效教学之名，刻意掩盖社会阶层、家庭贫困与社区环境对[[Academic Achievement|学业成绩]]的决定性影响，为政府压缩生均拨款与削减师资编制构筑实证挡箭牌（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 27–28]], 31–32）。
 > - **技术理性的去政治化包装** 假借大规模[[Meta-analysis|元分析]]与数据科学名义，将复杂的社会文化交往还原为单一维度的可度量指标，掩饰资源分配不公的制度根源（Soler, 2016; [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）。
-> - **跨国教育资本的牟利网络** 改革催生了庞大的校本咨询、测试软件、教师认证与配套出版市场，跨国资本与商业出版集团（如世哲旗下考文出版社）通过承接政府外包服务实现巨额利润变现（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 30–31]]）。
+> - **跨国教育资本的牟利网络** 改革催生了庞大的校本咨询、测试软件、教师认证与配套出版市场，跨国资本与商业出版集团（如世哲旗下[[Corwin Press|考文出版社]]）通过承接政府外包服务实现巨额利润变现（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 30–31]]）。
 
 > [!logic-map]- GERM 的政治经济运作循环（饥饿—危机—私有化）
 > ```mermaid
@@ -198,7 +200,7 @@ updated: 2026-10-16
 
 > [!dev-timeline] 概念演变
 > - **1980 年代–1989 — 新自由主义制度实验** 新西兰推行明日学校（[[Tomorrow's Schools Reforms|Tomorrow's Schools]]）权力下放，将原有教育局服务部门改制为商业化自负盈亏实体，开启了公共教育市场化治理的制度试验（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p. 30]]）。
-> - **2012 — 概念的正式命名** 芬兰学者 Pasi Sahlberg 在 *Finnish Lessons* 中首次提出 GERM 术语，对比芬兰坚持的平等、信任与教师专业化道路，提炼出标准化、问责与商业管理的五大特征。
+> - **2012 — 概念的正式命名** 芬兰学者 [[Pasi Sahlberg]] 在 *Finnish Lessons* 中首次提出 GERM 术语，对比芬兰坚持的平等、信任与教师专业化道路，提炼出标准化、问责与商业管理的五大特征。
 > - **2012–2016 — 意识形态结盟分析** 学界广泛引入 GERM 解构英美澳等国的标准化改革，Soler (2016) 揭示了新保守主义确定性知识观与新自由主义中央集权控制在拼读法改革中的结盟机制。
 > - **2016 年至今 — 跨国载体实证确认与政商利益批判** [[Argument_Li_2025_HSSC|Li et al. (2025)]]通过[[Systematic Review|系统综述]]确认 [[PISA]] 是 GERM 的核心全球载体；[[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]]进一步从政商旋转门、知识产权变现与财政紧缩借口等政治经济学维度，完成了对 [[Visible Learning]] 商业化帝国的深层批判。
 
@@ -235,7 +237,7 @@ updated: 2026-10-16
 
 ## 应用案例
 
-> [!case] 新西兰：明日学校改制至考文出版社商业专营
+> [!case] 新西兰：明日学校改制至[[Corwin Press|考文出版社]]商业专营
 > 新西兰 1989 年推行明日学校改制，将奥克兰教育局后勤行政部门私有化转变为[[Cognition Education|认知教育]]公司（[[Cognition Education]]）。[[John Hattie|哈蒂]]在担任该机构董事期间，将《[[Visible Learning|可见的学习]]》商业推广权独家授权成立 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 品牌，按营收比例抽取高额版税；2018 年国际出版巨头世哲旗下考文出版社以估算 5000 万美元的年营业规模全资收购该品牌，完成了从公立服务改制到跨国资本专营的典型 GERM 变现循环（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 30–31]]）。
 
 > [!case] 澳大利亚维多利亚州：[[Victorian HITS and Literacy Toolkit|HITS]] 教学策略与[[Performativity|表演性危机]]

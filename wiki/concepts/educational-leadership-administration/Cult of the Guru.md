@@ -5,7 +5,7 @@ aliases:
 summary: "Eacott 提出的批判概念，指教育领导力领域对单一权威人物及其研究的不加批判接受与制度化追捧，用于分析学术权威如何塑造知识议程。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 35
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -45,6 +45,7 @@ related_persons:
   - "[[John Hattie]]"
   - "[[Pierre Bourdieu]]"
 related_facts:
+  - "[[Corwin Press]]"
   - "[[PISA]]"
   - "[[TIMSS]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
@@ -53,6 +54,7 @@ related_arguments:
   - "[[Argument_Eacott_2017_SLM]]"
   - "[[Argument_Eacott_2019_IJLE]]"
   - "[[Argument_Hattie_2017_SLM]]"
+  - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Rømer_2018_EPT]]"
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Johnson_2023_CE]]"
@@ -76,7 +78,7 @@ updated: 2026-10-16
 > [!note-] 历史沿革
 > - **Callahan（1962）** 出版 *Education and the [[Cult of Efficiency]]*，论证 20 世纪上半叶美国公立学校改革被商业管理实践（尤其是 Taylor 1911 的科学管理）渗透——Eacott 将这一[[Analytic Framework\|分析框架]]类比应用于当代澳大利亚的 Hattie 现象([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.413-414]])
 > - **2009 年** Hattie 出版 *[[Visible Learning]]*，此后被 ACEL 年会频繁邀请为主题演讲者（自 2009 年起），其品牌开始向多领域扩展([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.419]])
-> - **2015 年** ACEL and Corwin 出版公司正式宣布合作伙伴关系，系统推广 Hattie 启发的专业发展工作坊和出版物
+> - **2015 年** ACEL and [[Corwin Press|Corwin]] 出版公司正式宣布合作伙伴关系，系统推广 Hattie 启发的专业发展工作坊和出版物
 > - **2017 年** Eacott 发表"Cult of the Guru"论文，系统论证 Hattie 已成为澳大利亚[[School Leadership\|学校领导力]]领域的大师崇拜对象，其工作"现在在澳大利亚教育中无处不在"([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.419, 422]])
 
 ## 核心要素
@@ -105,7 +107,7 @@ updated: 2026-10-16
 > - **品牌扩张** Hattie 的工作已成为一个品牌——"[[Visible Learning\|可见的学习]]（Visible Learning，VL）"标签被扩展至 Making Literacy Visible、Visible Wellbeing 等多个领域，"进一步构建品牌，证明 Hattie 品牌正在利用机会最大化优势"([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.419]])
 > - **学校自我标识** 部分学校开始自称"Hattie 学校"
 > - **制度化嵌入** Hattie 的工作已被纳入[[Initial Teacher Training\|初始教师教育]]、研究生项目、专业对话——"现在在澳大利亚教育中无处不在"
-> - **专业协会背书** ACEL and Corwin 的合作伙伴关系使 Hattie 成为最大的学校领导力专业协会的官方议程([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.414, 419]])
+> - **专业协会背书** ACEL and [[Corwin Press|Corwin]] 的合作伙伴关系使 Hattie 成为最大的学校领导力专业协会的官方议程([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.414, 419]])
 
 ## 与相关概念的区别
 
@@ -163,5 +165,5 @@ updated: 2026-10-16
 
 
 > [!example] [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] 对大师崇拜商业维度的补充
-> Johnson & Janzen补充了大师崇拜的经济维度：截至论文写作时，Corwin 网店搜索"[[Visible Learning]]"返回大量书籍、指南和套装（USD 9.95 至 USD 285），产品线包括在线 VL+ 专业发展系列、学校奖项系统、年度学院（USD 369/人）、认证（USD 2750/座）、网络研讨会和 App。2023 年 VL 续作（USD 29.95）的发布标志着品牌持续扩张。Johnson & Janzen 将 Hattie 描述为"a charismatic and self-assured spokesman for the work, and the Hattie name has become as famous as the body of work itself"([[Argument_Johnson_2023_CE\|Johnson & Janzen, 2023, p.25]])。
+> Johnson & Janzen补充了大师崇拜的经济维度：截至论文写作时，[[Corwin Press|Corwin]] 网店搜索"[[Visible Learning]]"返回大量书籍、指南和套装（USD 9.95 至 USD 285），产品线包括在线 VL+ 专业发展系列、学校奖项系统、年度学院（USD 369/人）、认证（USD 2750/座）、网络研讨会和 App。2023 年 VL 续作（USD 29.95）的发布标志着品牌持续扩张。Johnson & Janzen 将 Hattie 描述为"a charismatic and self-assured spokesman for the work, and the Hattie name has become as famous as the body of work itself"([[Argument_Johnson_2023_CE\|Johnson & Janzen, 2023, p.25]])。
 

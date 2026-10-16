@@ -9,7 +9,7 @@ aliases:
 summary: "国家教育行政权力从中央向地方区域、市镇或基层学校转移的治理重构。在民主化与公共行政视界中，旨在提升响应效率与公民参与，但面临官僚膨胀与体系割裂风险；在国际组织普遍模型中，表现为剥离中央兜底责任的远处治理；在新自由主义试验中（如新西兰明日学校），则常沦为拆解公共服务、迫使学校市场化采购并滋生商业外包垄断的私有化跳板。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -58,6 +58,7 @@ related_facts:
   - "[[PISA]]"
   - "[[Cognition Education]]"
   - "[[UNESCO]]"
+  - "[[Corwin Press]]"
   - "[[Centros Concertados]]"
 related_arguments:
   - "[[Argument_Garcia_Garrido_2009_SpainEU]]"
@@ -175,7 +176,7 @@ updated: 2026-10-16
 > **新西兰明日学校放权与公共服务企业化** [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]]指出，新西兰 1989 年推行的明日学校改制是一场标志性的新自由主义权力下放（Devolution）试验。政府以放权赋能为名解散了原有的区域公立教育局，将其原先免费向学校提供的公共行政、人事核算和校车交通职能拆分并改组为自负盈亏的企业化教育服务中心（ESCs），如 Multiserve（后更名为 [[Cognition Education|认知教育]]公司）。放权并未带来真正的民主自治，而是迫使基层学校在半开放市场上自购服务，为私营商业资本进驻公立学校打开了大门（p. 30; citing O'Neill et al., 2016）。
 
 > [!claim] [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]]
-> **放权衍生的知识变现网络与公共资金转移** [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]]进一步揭示，公共教育系统放权改制催生了学术专家与商业资本结盟的旋转门机制。学者[[John Hattie|哈蒂]]身兼公立大学教授与改制后商业公司董事的双重身份，将其学术成果《[[Visible Learning|可见的学习]]》商业化并独家授权给该公司，获取高达 86.9 万新西兰元的个人版税；最终该商业专营品牌被跨国出版巨头考文出版社以 5000 万美元的年营业额全资收购。放权改革最终演变为跨国商业资本吸纳公共教育预算的牟利通道（pp. 30–31）。
+> **放权衍生的知识变现网络与公共资金转移** [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]]进一步揭示，公共教育系统放权改制催生了学术专家与商业资本结盟的旋转门机制。学者[[John Hattie|哈蒂]]身兼公立大学教授与改制后商业公司董事的双重身份，将其学术成果《[[Visible Learning|可见的学习]]》商业化并独家授权给该公司，获取高达 86.9 万新西兰元的个人版税；最终该商业专营品牌被跨国出版巨头[[Corwin Press|考文出版社]]以 5000 万美元的年营业额全资收购。放权改革最终演变为跨国商业资本吸纳公共教育预算的牟利通道（pp. 30–31）。
 
 ---
 

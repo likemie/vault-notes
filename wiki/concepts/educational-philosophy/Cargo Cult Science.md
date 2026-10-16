@@ -6,10 +6,10 @@ aliases:
 summary: "Richard Feynman 提出的科学哲学概念，指具备数据、图表等严密外在形式却缺失认识论诚信与自我证伪诚意的伪科学实践；在教育领域表现为以不透明的量化指标和商业包装实施认知威慑与教条化控制。"
 type: concept
 domain: "educational-philosophy"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - cargo-cult-science
   - pseudoscience
@@ -56,6 +56,7 @@ related_persons:
   - "[[Karl Popper]]"
   - "[[John Hattie]]"
 related_facts:
+  - "[[Corwin Press]]"
   - "[[Cognition Education]]"
   - "[[Visible Learning Branding and Global Influences]]"
 related_arguments:
@@ -165,7 +166,7 @@ updated: 2026-10-16
 > 剖析伪科学产品如何借助商业资本与政策旋转门建立免受学理反驳的防护罩。
 
 > [!claim] Popper, K. R.; Johnson, G. R. & Janzen, M. D.
-> **对波普尔可证伪原则的曲解与教条化** 波普尔提出可证伪性是为了强调严肃的科学理论必须给出可被实验反驳的明确预测（如广义相对论），而永远能够事后圆场的理论则是伪科学。货物崇拜科学往往引用波普尔的格言装点门面，声称迄今为止无人能够提出反面理论以证明自身正确；然而其自身从未提出过具备可检验边界的严密因果假说，其算法亦未经专业刊物同行评议，而是直接通过商业出版（如世哲旗下考文出版社）变现，构成了对批评免疫的教条闭环。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 34–36)]]
+> **对波普尔可证伪原则的曲解与教条化** 波普尔提出可证伪性是为了强调严肃的科学理论必须给出可被实验反驳的明确预测（如广义相对论），而永远能够事后圆场的理论则是伪科学。货物崇拜科学往往引用波普尔的格言装点门面，声称迄今为止无人能够提出反面理论以证明自身正确；然而其自身从未提出过具备可检验边界的严密因果假说，其算法亦未经专业刊物同行评议，而是直接通过商业出版（如世哲旗下[[Corwin Press|考文出版社]]）变现，构成了对批评免疫的教条闭环。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 34–36)]]
 
 ---
 

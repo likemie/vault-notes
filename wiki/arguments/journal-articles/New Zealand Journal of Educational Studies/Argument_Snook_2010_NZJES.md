@@ -13,7 +13,7 @@ title: "Argument_Snook_2010_NZJES"
 argument_key: "Argument_Snook_2010_NZJES"
 argument_display_title: "Critic and conscience of society: A reply to John Hattie"
 argument_kind: "journal-article"
-argument_related_count: 18
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -44,11 +44,12 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Case Study]]"
-related_persons: []
+related_persons:
+  - "[[John O'Neill]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Hattie_2010_NZJES]]"
+  - "[[Argument_Snook_2009_NZJES]]"
 sources:
   - "[[sources/Snook_2010_NZJES|Snook_2010_NZJES]]"
 part_of: ""
@@ -131,7 +132,7 @@ citation_aliases:
 > - 论文为 [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] 和 [[Argument_Hattie_2010_NZJES|Hattie (2010)]] 之间的第三轮辩论，不引入新实证数据，侧重澄清立场和回应误读
 > - 未对 Hattie 提出的"学者作为社会批评者与良知"角色讨论做出系统性回应，将其视为"另一场合的辩论"(p.94)
 > - 对户外教育 d=0.17 效应的误解（在 2009 原文中指出的错误）得到了承认和撤回(p.96)
-> - 两位作者（Anne-Marie O'Neill and John O'Neill）在回应自己的批评时作为共同作者，存在立场重叠
+> - 两位作者（Anne-Marie O'Neill and [[John O'Neill]]）在回应自己的批评时作为共同作者，存在立场重叠
 
 ## 来源
 

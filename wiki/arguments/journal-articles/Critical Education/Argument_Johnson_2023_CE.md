@@ -7,9 +7,9 @@ title: "Argument_Johnson_2023_CE"
 argument_key: "Argument_Johnson_2023_CE"
 argument_display_title: "Leading the blind: A critical look at Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 41
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 50
+argument_related_level: 3
+argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Critical Education"
 authors:
@@ -44,7 +44,10 @@ related_concepts:
   - "[[Homework]]"
   - "[[Professional Judgment]]"
   - "[[Primary and Secondary Documents]]"
+  - "[[Zone of Desired Effects]]"
   - "[[Variable]]"
+  - "[[Post-Fordism]]"
+  - "[[Barometer of Achievement]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Learning Intentions]]"
   - "[[Sage]]"
@@ -54,8 +57,6 @@ related_concepts:
   - "[[Effective Teaching]]"
   - "[[Ecological Validity]]"
   - "[[Heterogeneity]]"
-  - "[[Zone of Desired Effects]]"
-  - "[[Barometer of Achievement]]"
 related_theories:
   - "[[Panopticism]]"
 related_methods:
@@ -72,21 +73,20 @@ related_instruments:
 related_persons:
   - "[[John Hattie]]"
   - "[[Stephen Ball]]"
-  - "[[Gene Glass]]"
-  - "[[Karl Popper]]"
-  - "[[John O'Neill]]"
-  - "[[David Carnine]]"
   - "[[Pasi Sahlberg]]"
+  - "[[Gene Glass]]"
+  - "[[David Carnine]]"
+  - "[[John O'Neill]]"
+  - "[[Karl Popper]]"
   - "[[Elliott Eisner]]"
 related_facts:
+  - "[[Corwin Press]]"
   - "[[Cognition Education]]"
+  - "[[Visible Learning Meta-X]]"
   - "[[Thomas B. Fordham Institute]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[OECD]]"
-  - "[[Corwin Press]]"
-  - "[[Visible Learning Meta-X]]"
-  - "[[California Class Size Reduction 1996]]"
 related_arguments: []
 sources:
   - "[[sources/Johnson_2023_CE/Johnson_2023_CE|Johnson_2023_CE]]"
@@ -108,7 +108,7 @@ updated: "2026-10-16"
 > 《[[Visible Learning|可见的学习]]》并非客观严谨的实证科学，而是披着科学外衣的[[Cargo Cult Science|货物崇拜科学]]（Cargo Cult Science）；其本质植根于简化论的新自由主义意识形态，通过隐藏公式的简单算术平均对教育实践实施数字霸凌，借助[[Neo-Taylorism|新泰勒主义]]监视将教师贬低为流水线操作工，并与商业咨询资本紧密结盟，为政府削减教育经费、推卸公共责任提供实证借口。（pp. 23–25, 34–36）
 
 > [!concept-lens] 阅读透镜
-> - **对象** 《[[Visible Learning|可见的学习]]》原著及其商业化体系，包括 Visible Learning+ 品牌、[[Corwin Press|考文出版社（Corwin Press）]]、[[Visible Learning Meta-X|Metax 数据库]]与各级认证培训。
+> - **对象** 《[[Visible Learning|可见的学习]]》原著及其商业化体系，包括 Visible Learning+ 品牌、[[Corwin Press|考文出版社]]（Corwin Press）、Metax 数据库与各级认证培训。
 > - **张力** 宣称的硬核科学、精确[[Effect Size|效应量]]与客观中立，对立于实际的计算公式隐蔽、无权重简单算术平均、经济利益冲突与拒绝[[Falsification|证伪]]的教条。
 > - **贡献** 超越单纯的技术性勘误，从统计方法、劳动过程监控、政商利益网络和科学哲学四个层面，系统揭示该体系的意识形态实质。
 
@@ -123,7 +123,7 @@ updated: "2026-10-16"
 > | **[[Neo-Taylorism\|新泰勒主义（Neo-Taylorism）]]** | 承接弗雷德里克·温斯洛·泰勒（Frederick Winslow Taylor）的工业科学管理逻辑，将复杂的育人活动拆解为可度量的技术清单，把劳动控制权从一线教师转移至管理层与数据系统。（pp. 28–29） |
 > | **[[Panopticism\|全景监视理论（Panopticism）]]** | 结合米歇尔·福柯（Michel Foucault）关于全景敞视的论述，剖析哈蒂主持开发的[[Assessment Tools for Teaching and Learning\|教学与学习评估工具]]（Assessment Tools for Teaching and Learning, asTTle）系统如何将教师置于随时被观察与被考核的状态。（p. 28） |
 > | **[[Performativity\|表演性（Performativity）]]** | 采用学者[[Stephen Ball\|斯蒂芬·鲍尔]]（Stephen Ball）的规训概念，分析教师价值如何被简化为可度量的指标，迫使日常教学演变为迎合外部审查的技术表演。（p. 29） |
-> | **[[Global Education Reform Movement\|全球教育改革运动（Global Education Reform Movement, GERM）]]** | 借用[[Pasi Sahlberg|帕西·萨尔伯格（Pasi Sahlberg）]]的[[Analytic Framework\|分析框架]]，揭示 VL 如何迎合新自由主义削减公共开支、强化标准化问责与推进服务外包的治理取向。（pp. 30–31） |
+> | **[[Global Education Reform Movement\|全球教育改革运动（Global Education Reform Movement, GERM）]]** | 借用[[Pasi Sahlberg\|帕西·萨尔伯格（Pasi Sahlberg）]]的[[Analytic Framework\|分析框架]]，揭示 VL 如何迎合新自由主义削减公共开支、强化标准化问责与推进服务外包的治理取向。（pp. 30–31） |
 
 > [!warrant]- 理论如何支撑论证
 > 五组理论工具逐层递进，将表面上的统计学缺陷与深层社会制度联系起来：首先运用科学哲学辨析其伪科学属性；接着运用劳动过程理论说明其在课堂上对[[Teacher Professional Agency|教师专业自主权]]的压缩；再通过教育社会学展现一线教师遭遇的职业异化；最终上升至政治经济学，揭露其服务于政府财政紧缩与教育商业化的真实功能。（pp. 24–25, 34–36）
@@ -192,8 +192,8 @@ updated: "2026-10-16"
 > | 分析维度 | 汇总量化数值 | 细分层级的真实情况 | 对政策与实践的误导 |
 > |---|---|---|---|
 > | **家庭作业的学段差异** | 总体效应量：<br>$d=0.29$（排第 88 名） | 小学生课外作业：<br>$d=0.15$<br>高中生课外作业：<br>$d=0.64$ | 高中作业若单独列出可排在全书第 17 名；笼统的低排名容易诱导政策制定者全盘轻视作业价值，或在小学盲目推行。（pp. 26–27） |
-> | **期望效应区分水岭** | 将 $d=0.40$ 设定为有效与平庸的分水岭（[[Zone of Desired Effects|期望效应区（Zone of Desired Effects）]]） | 该数值只是纳入的 138 项影响因素的**简单平均值** | 制造出如同物理测量仪器般的科学假象，实际上毫无客观基准，只要后续加入新[[Variable\|变量]]，该分水岭就会发生变动。（p. 26） |
-> | **数据库的无限追加** | [[Visible Learning Meta-X|Metax 数据库]]扩充至逾 2100 项元分析、350 项影响因素 | 均值稀释效应：新增的重要研究在庞大分母中影响微弱 | 缺乏淘汰陈旧、低质或被推翻研究的淘汰机制，只是新旧数据不加甄别的机械堆积。（p. 27） |
+> | **[[Zone of Desired Effects\|期望效应区分水岭]]** | 将 $d=0.40$ 设定为有效与平庸的分水岭（[[Zone of Desired Effects\|期望效应区（Zone of Desired Effects）]]） | 该数值只是纳入的 138 项影响因素的**简单平均值** | 制造出如同物理测量仪器般的科学假象，实际上毫无客观基准，只要后续加入新[[Variable\|变量]]，该分水岭就会发生变动。（p. 26） |
+> | **数据库的无限追加** | [[Visible Learning Meta-X\|Metax 数据库]]扩充至逾 2100 项元分析、350 项影响因素 | 均值稀释效应：新增的重要研究在庞大分母中影响微弱 | 缺乏淘汰陈旧、低质或被推翻研究的淘汰机制，只是新旧数据不加甄别的机械堆积。（p. 27） |
 
 经济学家弗里德里希·哈耶克（Friedrich Hayek）早已阐明，人类拥有自由意志，会根据自身对情境的理解来决定行动，不会像无机物那样遵循机械的物理法则。（pp. 27–28）
 
@@ -212,9 +212,9 @@ updated: "2026-10-16"
 工业流水线管理的核心，在于打破工匠的主体掌控权，将对劳动节奏的支配权转移到管理者手中。（p. 28）
 
 > [!proc] 泰勒制管理逻辑在教学体系中的渗透
-> 1. **工业流水线原型** 泰勒在 1911 年开展工时测定，认为基层工人懒散迟钝，必须由管理者通过严格拆解的标准化动作进行直接管控。（p. 28）
+> 1. **工业流水线原型** 泰勒在 1911 年开展工时测定，认为基层工人懒散迟钝，必须由管理者通过严格拆解的标准化动作进行直接管控；工业生产由泰勒制、福特制进一步演进至依托信息收集的[[Post-Fordism|后福特制]]（Post-Fordism），将全天候监控方案深深植入现代工作场所。（p. 28）
 > 2. **行政监控软件开发** 哈蒂出版该书前主持开发了 [[Assessment Tools for Teaching and Learning|asTTle]] 计算机系统，明确提出支持管理层对全校 6 个科目的软件使用情况进行全网实时追踪。（p. 28）
-> 3. **管理图表视觉迁移** VL 书中反复出现的气压计图表（[[Barometer of Achievement|气压计图表 / Barometer graphics]]）直接取自 asTTle 系统的管理界面，继承了将丰富复杂的育人活动压缩为仪表刻度的控制逻辑。（p. 28）
+> 3. **管理图表视觉迁移** VL 书中反复出现的[[Barometer of Achievement|气压计图表]]（气压计图表 / Barometer graphics）直接取自 asTTle 系统的管理界面，继承了将丰富复杂的育人活动压缩为仪表刻度的控制逻辑。（p. 28）
 
 管理工具确立后，正文通过贬抑一线教师的专业判断，为自上而下的技术[[Disciplina and Doctrina|规训]]确立正当性。（pp. 28–29）
 
@@ -223,7 +223,7 @@ updated: "2026-10-16"
 
 #### 2. 将教学比附为外科手术与高山救援，抹杀了师生人际交往的人文属性
 
-哈蒂引用[[David Carnine|戴维·卡宁（David Carnine）]]在保守派智库[[Thomas B. Fordham Institute|福特汉姆研究所]]（Thomas B. Fordham Institute）发表的文章，将教育界对量化清单的怀疑批评为不成熟，并主张教学应当向外科手术与高山救援看齐。（pp. 28–29）
+哈蒂引用[[David Carnine|戴维·卡宁]]（David Carnine）在保守派智库[[Thomas B. Fordham Institute|福特汉姆研究所]]（Thomas B. Fordham Institute）发表的文章，将教育界对量化清单的怀疑批评为不成熟，并主张教学应当向外科手术与高山救援看齐。（pp. 28–29）
 
 > [!row-contrast] 技术操作职业与育人实践的本质差异
 > | 维度 | 机械技术职业（外科手术 / 高山救援） | 真实的学校教育实践（教学育人） |
@@ -258,12 +258,12 @@ VL 并非纯粹的高校学术成果，而是自诞生之日起就作为一项�
 > [!chain-link] 新西兰公共服务改制至跨国出版巨头收购的商业链条
 > - **起点：新西兰推行公共教育权力下放（1989）** 新西兰开展市场化改革，奥克兰教育局原有的后勤服务部门被重组为自负盈亏的教育服务中心（Education Service Centre, ESC）Multiserve，后更名为[[Cognition Education|认知教育]]公司。（p. 30）
 > - **中介：担任董事并授权知识产权变现** 哈蒂于 2006 年进入 [[Cognition Education|Multi Serve]] 董事会，2008 年继续担任认知教育公司董事，随后将 VL 的商业推广权授予该公司，创立 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 品牌并按营收比例抽取个人版税。（pp. 30–31）
-> - **落地：跨国资本收购形成专营网络** 2018 年，国际出版集团世哲（[[Sage]] Publishing）旗下的[[Corwin Press|考文出版社（Corwin Press）]]全资买断 Visible Learningplus，形成年营收估算达 5000 万美元的咨询培训体系，单人培训认证费高达 2750 美元。（pp. 25, 31）
+> - **落地：跨国资本收购形成专营网络** 2018 年，国际出版集团世哲（[[Sage]] Publishing）旗下的[[Corwin Press|考文出版社]]（Corwin Press）全资买断 Visible Learningplus，形成年营收估算达 5000 万美元的咨询培训体系，单人培训认证费高达 2750 美元。（pp. 25, 31）
 
 在这种运作模式下，学者同时具备了评价标准制定者与商业收益受益者的双重角色。（pp. 30–31）
 
 > [!citation-card] 认知教育公司支付给哈蒂的第三方劳务报酬明细（2010–2015）
-> [[John O'Neill|约翰·奥尼尔（John O'Neill）]]等学者于 2016 年调查披露了新西兰官方财务档案中记载的支付明细：
+> [[John O'Neill|约翰·奥尼尔]]（John O'Neill）等学者于 2016 年调查披露了新西兰官方财务档案中记载的支付明细：
 >
 > | 支付年份 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 |
 > |---|---|---|---|---|---|---|
@@ -291,7 +291,7 @@ VL 并非纯粹的高校学术成果，而是自诞生之日起就作为一项�
 > [!critique-method] 班级规模结论中的多重取舍问题
 > - **数据提取与原始文献相反** 哈蒂声称从格拉斯与史密斯（1979）的元分析中提取出 $d=0.09$ 的极低效应量，但 Glass 与 Smith 在该文献正文中根本没有报告过该数值；其调查明确指出：在 40 人班级与个别辅导之间存在超过 30 个百分位的成绩差距，在其他条件相同时，小班学到的东西明显更多。哈蒂极有可能是单独截取了曲线最右端极其平缓的局部尾部。（pp. 32–33）
 > - **用大学大课数据指导中小学** 纳入的研究包括了将 100 人的大学阶梯教室讲座与 20 人的辅导班进行对比的研究。哈蒂以此断言小班无效是因为教师没有改变教法，但在[[OECD|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）国家的中小学里根本不存在 80 人以上的大课堂，把高等教育讲座的研究发现照搬到小学非常不当。（p. 33）
-> - **剥离配套条件的制度教训** 1996 年美国加利福尼亚州州长为了与工会斗争，仓促立法要求在全州小学 1–3 年级推行小班制（[[California Class Size Reduction 1996|加利福尼亚州 1996 年班级规模缩减法案]]），导致师资培训严重脱节，大量缺乏资质的新人被临时派进临时板房上课（Turley & Nakai, 1998）；这说明如果脱离教师培训与校舍配套，孤立压减班额自然无法产生预期效果。（p. 33）
+> - **剥离配套条件的制度教训** 1996 年美国加利福尼亚州州长为了与工会斗争，仓促立法要求在全州小学 1–3 年级推行小班制（加利福尼亚州 1996 年班级规模缩减法案），导致师资培训严重脱节，大量缺乏资质的新人被临时派进临时板房上课（Turley & Nakai, 1998）；这说明如果脱离教师培训与校舍配套，孤立压减班额自然无法产生预期效果。（p. 33）
 
 ---
 
@@ -323,7 +323,7 @@ VL 并非纯粹的高校学术成果，而是自诞生之日起就作为一项�
 
 #### 3. 自然科学的实验室控制范式无法还原复杂的师生人际交往
 
-教育学者[[Elliott Eisner|埃利奥特·艾斯纳（Elliott Eisner）]]与科学哲学家丹尼斯·菲利普斯（Denis Phillips）早就指出，自然科学之所以能取得巨大成功，在于其能在高度受控的实验室中隔离环境干扰，并作出极精确的因果预测。（pp. 35–36）
+教育学者[[Elliott Eisner|埃利奥特·艾斯纳]]（Elliott Eisner）与科学哲学家丹尼斯·菲利普斯（Denis Phillips）早就指出，自然科学之所以能取得巨大成功，在于其能在高度受控的实验室中隔离环境干扰，并作出极精确的因果预测。（pp. 35–36）
 
 > [!warrant]- 复杂教育情境对实验室控制模式的抗拒
 > 在真实的课堂中，每位学生的个性、家庭背景、人际交往与现场情绪不仅不是应当被隔离排斥的干扰变量，反而是育人过程中最宝贵的核心内容；若强行运用物理学实验的控制手段，必然会彻底摧毁教育的[[Ecological Validity|生态效度]]。教学是一门动态、充满灵活性的人际艺术，其深远影响绝非外在的行为指标或单薄的测验分数所能概括。（pp. 35–36）
@@ -335,7 +335,7 @@ VL 并非纯粹的高校学术成果，而是自诞生之日起就作为一项�
 > [!finding-cards] 核心批判发现
 > 1. **计算公式被隐去且采用无权简单平均** VL 对其核心的[[Meta-meta-analysis|元-元分析]]计算方法缺乏透明说明，实际拆解揭示其对[[Heterogeneity|异质性]]极大的一级研究实施不考虑[[Sample Size Determination|样本量]]权重的简单算术平均。（pp. 25–26）
 > 2. **内部关键学段差异被单一数值掩盖** 总体平均值模糊了实践指导意义，如[[Homework|家庭作业]]总体 $d=0.29$ 掩盖了小学 $d=0.15$ 与高中 $d=0.64$ 的巨大差距；$d=0.40$ 的有效线只是各[[Variable|变量]]的均值，毫无客观实体物理基准。（pp. 26–27）
-> 3. **依托行政监控系统诱发教师去专业化** VL 气压计图表源于旨在联网监控全校教师的 [[Assessment Tools for Teaching and Learning|asTTle]] 软件系统；文本极力贬低教师为不成熟职业，在多地推行中引发严重的形式主义与职业倦怠。（pp. 28–30）
+> 3. **依托行政监控系统诱发教师去专业化** VL [[Barometer of Achievement|气压计图表]]源于旨在联网监控全校教师的 [[Assessment Tools for Teaching and Learning|asTTle]] 软件系统；文本极力贬低教师为不成熟职业，在多地推行中引发严重的形式主义与职业倦怠。（pp. 28–30）
 > 4. **政商利益关联深刻且迎合财政紧缩需求** [[John Hattie|哈蒂]]在商业咨询机构中兼任董事并长期收取大额版税（2011–2015 年间获取逾 86.9 万新西兰元）；其着力推销的[[Class Size|班级规模]]无用论为政府削减教育预算推脱责任提供了借口。（pp. 30–33）
 
 > [!stat-cards] 关键实证与统计数据

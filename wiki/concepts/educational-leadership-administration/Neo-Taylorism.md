@@ -6,7 +6,7 @@ aliases:
 summary: "Taylor 科学管理原理在教育行政领域的当代复兴，用于批评以唯一正确方法、效率最大化和标准化控制组织教学与管理的倾向。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -40,6 +40,7 @@ related_facts:
   - "[[Theory Movement in Educational Administration]]"
   - "[[Cognition Education]]"
   - "[[Visible Learning Branding and Global Influences]]"
+  - "[[Corwin Press]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[PISA]]"
   - "[[TIMSS]]"
@@ -88,7 +89,7 @@ Eacott 强调，论文标题中的"Neo-Taylorism"一词本身是对 Gronn（1982
 > - **后 Fordism** 信息收集技术的引入将问责和监控方案嵌入现代工作场所（Portnoi, 2016; Manokha, 2020，引自 [[Argument_Johnson_2023_CE\|Johnson & Janzen, 2023, p.28]]）
 > - **Hattie (2009)** 出版 [[Visible Learning]]：800+ 元分析、138 个因素按效应量排名——Eacott 认为这开启了当代 Neo-Taylorism 的支配性阶段([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.418-419]])
 > - **[[Assessment Tools for Teaching and Learning\|asTTle]] 的全景监控设计**Hattie 等（2003）明确写道"允许管理者监控全校六个科目的 asTTle 使用情况"——VL 的气压计图形直接进口自此工具。Foucault（1977）的全景监狱隐喻——仅仅是"可能被观察"的想法就足以影响行为——为理解 asTTle/VL 的监控逻辑提供了理论框架
-> - **VL 品牌商业化与制度化嵌入** 2010 [[Cognition Education\|Cognition Education]] 推出 [[Visible Learning Branding and Global Influences\|VLplus]] → 2015 ACEL-Corwin 合作 → 2018 Corwin 收购 VLplus。Hattie 担任 [[Australian Institute for Teaching and School Leadership\|AITSL]] 主席，VL 嵌入澳大利亚国家专业标准（详见 [[Visible Learning Branding and Global Influences]]）
+> - **VL 品牌商业化与制度化嵌入** 2010 [[Cognition Education\|Cognition Education]] 推出 [[Visible Learning Branding and Global Influences\|VLplus]] → 2015 ACEL-[[Corwin Press|Corwin]] 合作 → 2018 Corwin 收购 VLplus。Hattie 担任 [[Australian Institute for Teaching and School Leadership\|AITSL]] 主席，VL 嵌入澳大利亚国家专业标准（详见 [[Visible Learning Branding and Global Influences]]）
 
 ## 核心要素
 
@@ -97,7 +98,7 @@ Eacott 强调，论文标题中的"Neo-Taylorism"一词本身是对 Gronn（1982
 - **最大化回报** Hattie 的效应量排名告诉教育者"做什么以获得最大回报"（maximum return），而非提供反思和发展自身技艺的资源([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778]])
 - **全景监控**高度监控的车间启发了 Foucault（1977）的全景监狱隐喻——Hattie 的 [[Assessment Tools for Teaching and Learning|asTTle]] 工具以"允许管理者监控全校六个科目"的设计将同一逻辑植入教育([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.28]])
 - **教师贬低与去专业化** Hattie 在 VL 中系统性地将教师贬低为依赖"战争故事和轶事"的"不成熟职业"从业者（Hattie, 2009, p.1, 3, 253, 257）。[[Argument_Johnson_2023_CE|Johnson and Janzen (2023, p.29)]]论证这种修辞服务于更广泛的私有化议程：如果教学被打造为不专业和技术性的，对教师工会的支持就会软化，私人利益以"廉价解决方案"的承诺渗透
-- **商业利益网络** Neo-Taylorism 的当代运作依赖于出版商（如 Corwin）、专业协会（如 ACEL）和学校系统之间的商业伙伴关系，形成自我强化的推广网络([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778, 780]])。详见 [[Visible Learning Branding and Global Influences]]
+- **商业利益网络** Neo-Taylorism 的当代运作依赖于出版商（如 [[Corwin Press|Corwin]]）、专业协会（如 ACEL）和学校系统之间的商业伙伴关系，形成自我强化的推广网络([[Argument_Eacott_2019_IJLE|Eacott, 2019, p.778, 780]])。详见 [[Visible Learning Branding and Global Influences]]
 
 ## 概念辨析
 
@@ -128,7 +129,7 @@ Eacott 强调，论文标题中的"Neo-Taylorism"一词本身是对 Gronn（1982
 
 ## 相关案例／政策
 
-- [[Visible Learning Branding and Global Influences]] — VL 从 [[Assessment Tools for Teaching and Learning|asTTle]] 到 VLplus 到 Corwin 收购的商业化轨迹，含商标时间线、产品体系和六区域伙伴网络
+- [[Visible Learning Branding and Global Influences]] — VL 从 [[Assessment Tools for Teaching and Learning|asTTle]] 到 VLplus 到 [[Corwin Press|Corwin]] 收购的商业化轨迹，含商标时间线、产品体系和六区域伙伴网络
 - **ACEL-Corwin 合作（2015）** — 澳大利亚最大校长专业协会与 Hattie 出版商正式合作推广 VL 工作坊，形成自我强化的推广循环([[Argument_Eacott_2017_SLM|Eacott, 2017, p.419]]; [[Argument_Eacott_2019_IJLE|Eacott, 2019, p.780]])
 - **[[Australian Institute for Teaching and School Leadership|AITSL]]** — Hattie 担任澳大利亚教学与[[School Leadership|学校领导力]]研究院主席，其工作已嵌入国家专业标准和年度绩效评估体系([[Argument_Eacott_2017_SLM|Eacott, 2017, p.421]])
 - **asTTle / e-asTTle** — Hattie 1999/2000 年受教育部委托开发的评估工具，"允许管理者监控全校六个科目"（Hattie et al., 2003, p.775），VL 气压计图形直接进口自此工具([[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p.28]])

@@ -8,10 +8,10 @@ aliases:
 summary: "雷蒙德·卡拉汉提出的概念，指20世纪初美国公立学校教育盲目引入工厂泰勒制科学管理，以行政控制与商业效率取代教育本质价值的现象"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
   - field/educational-leadership-administration
   - theme/efficiency-cult
@@ -29,12 +29,13 @@ related_persons:
   - "[[John Hattie]]"
 related_facts:
   - "[[PISA]]"
+  - "[[Corwin Press]]"
 related_arguments:
   - "[[Argument_Eacott_2017_SLM]]"
 confidence: medium
 status: draft
 created: 2026-06-09
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Cult of Efficiency
@@ -74,4 +75,4 @@ updated: 2026-10-15
 ## 实证案例 / 政策映射
 
 > [!example]
-> - **“[[Visible Learning\|可见的学习]]”（Visible Learning，VL）的商业网络** [[John Hattie\|哈蒂]]与 Corwin 出版社以及澳大利亚教育领导者理事会（ACEL）形成广泛的商业合作，推销其标准化的“VL学校（Hattie Schools）”认证。这让大量学校主动剪裁自己的本地情境与文化特色，在组织身份上贴标为“VL学校”以迎合系统的效率问责，这复刻了卡拉汉所描述的工商业模式对学校文化的全面收编。 ([[Argument_Eacott_2017_SLM\|Eacott, 2017, p. 419]])
+> - **“[[Visible Learning\|可见的学习]]”（Visible Learning，VL）的商业网络** [[John Hattie\|哈蒂]]与 [[Corwin Press|Corwin]] 出版社以及澳大利亚教育领导者理事会（ACEL）形成广泛的商业合作，推销其标准化的“VL学校（Hattie Schools）”认证。这让大量学校主动剪裁自己的本地情境与文化特色，在组织身份上贴标为“VL学校”以迎合系统的效率问责，这复刻了卡拉汉所描述的工商业模式对学校文化的全面收编。 ([[Argument_Eacott_2017_SLM\|Eacott, 2017, p. 419]])

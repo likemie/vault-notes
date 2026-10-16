@@ -10,7 +10,7 @@ subtype: event
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "event"
-fact_related_count: 53
+fact_related_count: 54
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -59,6 +59,7 @@ related_methods:
 related_persons:
   - "[[John Hattie]]"
 related_facts:
+  - "[[Corwin Press]]"
   - "[[Cognition Education]]"
   - "[[Australian Institute for Teaching and School Leadership]]"
   - "[[Tomorrow's Schools Reforms]]"
@@ -102,7 +103,7 @@ updated: 2026-10-16
 > 《[[Visible Learning|可见的学习]]》（Visible Learning, VL）不仅是一项基于海量[[Meta-analysis|元分析]]的教育学术综合，更是当代教育史上规模最大的将公共科研成果转化为跨国商业培训特许、量化绩效认证与国家政策治理标准的知识商业化事件。其通过轻资产跨国授权与政策创业网络，深刻重塑了多国基础教育的治理[[Discourse|话语]]与教研生态。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. viii–ix)]]; [[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 30)]]
 
 > [!event-context] 事件背景
-> - **时间跨度 / 空间地理** 2006 年商标申请启动，2009 年专著出版后迅速扩张，2018 年被 Corwin 全面收购，持续影响至今；发源于新西兰，扩散至澳大利亚、英国、斯堪的纳维亚、北美及俄罗斯等 23 个以上国家。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 254)]]
+> - **时间跨度 / 空间地理** 2006 年商标申请启动，2009 年专著出版后迅速扩张，2018 年被 [[Corwin Press|Corwin]] 全面收购，持续影响至今；发源于新西兰，扩散至澳大利亚、英国、斯堪的纳维亚、北美及俄罗斯等 23 个以上国家。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 254)]]
 > - **核心当事主体** [[John Hattie|约翰·哈蒂]]（John Hattie）、[[Cognition Education]]（原 Multi Serve Trust）、Corwin（[[Sage]] 集团）、澳大利亚教学与[[School Leadership|学校领导力]]研究院（[[Australian Institute for Teaching and School Leadership|AITSL]]）、新西兰教育部及各国政策机构。
 > - **深层制度与社会背景** 新西兰 1989 年[[Tomorrow's Schools Reforms|明日学校改革]]开启的[[Endogenous and Exogenous Privatisation|教育私有化]]与外包服务体制，以及[[Global Education Reform Movement|全球教育改革运动]]（GERM）对量化绩效问责与循证标准（What Works）的强烈治理渴求。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 31–32)]]
 > - **直接导火索 / 触发事件** 2009 年 1 月新西兰《星期日星报》（*Sunday STAR Times*）头版报道引发公众风暴，紧随其后的全球图书畅销促成学术 IP 与商业培训生态的全面对接。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, pp. 86–87)]]
@@ -126,7 +127,7 @@ Visible Learning 的跨国扩张没有采取重资产自建模式，而是依托
 
 > [!feature] 商业化运营核心机制
 > - **培训产品与认证矩阵** 形成 Foundation（基础概念）、Inside（深入实践）与 Collaborative Impact（学校整体改进）三大系列共 16 个工作坊；建立“可见学习成效认证学校”（Visible Learning Impact Certified School）评价体系，向学校颁发权威认证。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 67)]]
-> - **Corwin 跨国收购与全方位变现（2018 年后）** 2018 年 Corwin（[[Sage]] 集团旗下，年收入约 5,000 万美元）全资收购 Visible Learningplus。产品线迅速扩展至在线培训、学校奖项评比、年度学院（369 美元/人）、高级认证（2,750 美元/席）以及海量衍生图书。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 24–25)]]
+> - **[[Corwin Press|Corwin]] 跨国收购与全方位变现（2018 年后）** 2018 年 Corwin（[[Sage]] 集团旗下，年收入约 5,000 万美元）全资收购 Visible Learningplus。产品线迅速扩展至在线培训、学校奖项评比、年度学院（369 美元/人）、高级认证（2,750 美元/席）以及海量衍生图书。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 24–25)]]
 > - **轻资产区域授权网络** 通过六大区域核心伙伴网络交付：Osiris Educational（英国）、JN Partnership（斯堪的纳维亚）、Corwin（澳大利亚与北美）、Bazalt（荷兰），以零自建实体成本迅速占领欧美市场。
 > - **衍生子品牌裂变** 从单本图书演化为庞大的品牌家族，涵盖读写（Visible Learning for Literacy）、数学（Visible Learning for Mathematics）、行动案例（Visible Learning into Action）及学生福祉（Visible Wellbeing）等领域，促使多国学校自我标识为“Hattie 学校”。[[Argument_Eacott_2017_SLM|(Eacott, 2017, p. 419)]]
 > - **Visible Classroom 实时监控 App** Hattie 团队与 Ai-Media 联合研发，获英国 [[Education Endowment Foundation|EEF]] 资助 36 万英镑试点并在 140 所学校开展试验。教师自我录制课堂音频由后台专家对照量规按次收费反馈，将[[Technical Rationality|技术理性]]推进至微观课堂劳动的直接监控。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 49–50)]]
@@ -209,7 +210,7 @@ Visible Learning 凭借其高度简化的[[Effect Size|效应量]]排名图表�
 > - **2006–2008 — 商标布局与机构筹备期** 奥克兰大学申请 VL 商标并创建实验室；Hattie 出任 [[Cognition Education|Multi Serve]]（后更名 Cognition Education）董事会董事。
 > - **2009–2010 — 著作问世与媒体爆发期** *[[Visible Learning]]* 出版引发全球热潮；新西兰媒体风暴爆发；Cognition Education 启动 VLplus 商业运营，集团收入达 6,900 万美元高点。
 > - **2011–2014 — 跨国扩张与政策标准嵌入期** 注册 Visible Learningplus 国际商标；Hattie 赴墨尔本大学并出任 [[Australian Institute for Teaching and School Leadership|AITSL]] 主席，将指标嵌入澳大利亚国家标准；丹麦议会通过引用 VL 的公立学校改革。
-> - **2015–2017 — 衍生生态与制度化渗透期** e-asTTle 启动商业化招标；ACEL 与 Corwin 建立深度合作推广联盟；推出 Visible Classroom 应用程序并在英国与北美推广；维多利亚州教育部官方背书；俄文版出版。
+> - **2015–2017 — 衍生生态与制度化渗透期** e-asTTle 启动商业化招标；ACEL 与 [[Corwin Press|Corwin]] 建立深度合作推广联盟；推出 Visible Classroom 应用程序并在英国与北美推广；维多利亚州教育部官方背书；俄文版出版。
 > - **2018–2023 — 跨国集团收购与学术批判深化期** Corwin（[[Sage]] 集团）正式收购 Visible Learningplus；原书续作出版；遭遇批判学者关于利益冲突、伪科学与[[Neo-Taylorism|新泰勒主义]]的系统清算。
 > - **2024 至今 — 二阶数据库基础设施化与质量反思期** 底层数据库拓展为收录 2,100 余项[[Meta-analysis|元分析]]的 [[Visible Learning Meta-X]]；[[Argument_Jansen_2026_EPR|Jansen et al. (2026)]] 实证评测揭示早期历史录入偏离，推动向[[Man-Computer Symbiosis|人机协同]]验证[[Paradigm|范式]]演进。
 
@@ -228,7 +229,7 @@ Visible Learning 凭借其高度简化的[[Effect Size|效应量]]排名图表�
 > *Hattie's present modus operandi in global networking might reasonably be characterised as a seamless blend of public good, not-for-profit and for-profit policy entrepreneurship and advocacy.*
 
 > [!citation-card] 约翰逊与詹岑论跨国出版巨头收购与公立学校特许加盟化
-> 2018 年，年营业额估算达 5000 万美元的跨国出版巨头考文出版社从认知教育手中全面收购了 Visible Learningplus 的专营权，进一步将可见学习推向全球化的商业变现流水线。学校被重塑为管理森严的特许加盟店，由沦为技术操作工的教师提供一套标准化的教学核查清单。针对测验成绩下滑的人为恐慌，可见学习承诺提供简单廉价的微观处方，却完全漠视了关于教育崇高宗旨的更[[Grand Theory|宏大叙事]]。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 24–25, 29–31)]]
+> 2018 年，年营业额估算达 5000 万美元的跨国出版巨头[[Corwin Press|考文出版社]]从认知教育手中全面收购了 Visible Learningplus 的专营权，进一步将可见学习推向全球化的商业变现流水线。学校被重塑为管理森严的特许加盟店，由沦为技术操作工的教师提供一套标准化的教学核查清单。针对测验成绩下滑的人为恐慌，可见学习承诺提供简单廉价的微观处方，却完全漠视了关于教育崇高宗旨的更[[Grand Theory|宏大叙事]]。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 24–25, 29–31)]]
 >
 > *In 2018, Corwin Press, a publishing powerhouse with estimated annual revenues of \$50 million, acquired Visible Learningplus from Cognition Education... Prescriptive teaching ceases to be an ethical, relational profession. Schools are recast as tightly managed franchises, staffed by teacher technicians, delivering a checklist of best practice teaching strategies... It promises simple, cheap, classroom level fixes to manufactured alarm surrounding achievement scores.*
 

@@ -8,7 +8,7 @@ summary: "新西兰教育统计学家，Visible Learning作者与元分析综合
 type: person
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 129
+person_related_count: 130
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[New Public Management]]"
   - "[[School Effectiveness]]"
+  - "[[Zone of Desired Effects]]"
   - "[[Deficit Framing]]"
   - "[[Implementation Fidelity]]"
   - "[[Research Translation]]"
@@ -209,7 +210,7 @@ updated: 2026-10-16
 >   - **阶段转向** 从传统单项心理测量转向跨领域海量数据整合，引入以标准差为单位的通用连续体（平均效应量 $d=0.40$），奠定了以实证汇总打破教学直觉的方法论基石。
 > - **1998–2009 — 《[[Visible Learning\|可见的学习]]》框架确立与证据排序阶段** 此阶段主要回应[[New Public Management\|新公共管理]]改革下[[School Effectiveness\|学校效能]]、惩罚性测试问责与循证改革的证据基础问题。
 >   - **代表著作** [[Argument_Hattie_2005_ACER\|Hattie (2005)]] *What is the nature of evidence that makes a difference to learning?*；Hattie (2009) *[[Visible Learning]]: A synthesis of over 800 meta-analyses relating to achievement*。[[Argument_Terhart_2011_JCS\|(Terhart, 2011, p. 426)]]
->   - **关键概念／方法** [[Visible Learning]]、关节点（Hinge Point $d=0.40$）、六分源学业变异分解模型（学生 50%、教师 30%、学校/家庭/同伴各 5–10%）、[[Assessment Tools for Teaching and Learning\|asTTle]] 形成性诊断循环、[[Learning Progression\|学业进阶]]共享语言、[[Deficit Framing\|赤字理论]]批判、激活者（$d=0.60$）vs 促进者（$d=0.17$）。
+>   - **关键概念／方法** [[Visible Learning]]、关节点（[[Zone of Desired Effects|Hinge Point]] $d=0.40$）、六分源学业变异分解模型（学生 50%、教师 30%、学校/家庭/同伴各 5–10%）、[[Assessment Tools for Teaching and Learning\|asTTle]] 形成性诊断循环、[[Learning Progression\|学业进阶]]共享语言、[[Deficit Framing\|赤字理论]]批判、激活者（$d=0.60$）vs 促进者（$d=0.17$）。
 >   - **阶段转向** 在 2005 年 [[Australian Council for Educational Research\|ACER]] 会议论文中首次系统提炼《可见的学习》核心统计骨架（$d=0.40$ 相对有效性门槛与教师因果核心地位），批判 [[No Child Left Behind Act 2001\|NCLB]] 自上而下的惩罚性问责，主张依托 asTTle 系统将评价结果重塑为教师反思自身教学效能的镜像；随后在 2009 年专著中将元综合结果扩展为具有全球影响力的干预效果排行榜，确立教师作为主动激活者的核心论调。
 > - **2014–2016 — 认知科学整合、品牌扩张与实施工程阶段** 此阶段主要回应首版著作理论根基薄弱、脱离课堂微观情境以及学校现场落实困难的批评。
 >   - **代表著作** Hattie and Yates (2014) *Visible learning and the science of how we learn*；Hattie, Masters, & Birch (2016) *Visible learning into action*；Fisher, Frey, & Hattie (2016) *Visible learning for literacy*。[[Argument_Knudsen_2017_NordSTEP\|(Knudsen, 2017, p. 254)]]

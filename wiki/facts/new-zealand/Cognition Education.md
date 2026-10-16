@@ -14,9 +14,9 @@ subtype: organization
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "organization"
-fact_related_count: 23
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 24
+fact_related_level: 3
+fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: 教育管理组织 / 跨国商业教育咨询公司 / 慈善信托
 headquarters: Auckland, New Zealand
@@ -50,6 +50,7 @@ related_persons:
 related_facts:
   - "[[Tomorrow's Schools Reforms]]"
   - "[[Visible Learning Branding and Global Influences]]"
+  - "[[Corwin Press]]"
   - "[[OECD]]"
   - "[[The Education Trust]]"
   - "[[Jerudong International School Establishment]]"
@@ -106,7 +107,7 @@ updated: 2026-10-16
 >
 > - **2018–至今 跨国资本并购与编织河道重组期**
 >
->   将 Visible Learningplus 全球知识产权独家许可转让给跨国出版巨头考文出版社（Corwin Press），自身转型为编织河道（Braided River）式的多支流运营模式，通过微型咨询项目、地方教学联合体（Consortium）与教育投资基金维系组织运转。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 55–63)]]; [[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 31)]]
+>   将 Visible Learningplus 全球知识产权独家许可转让给跨国出版巨头[[Corwin Press|考文出版社]]（Corwin Press），自身转型为编织河道（Braided River）式的多支流运营模式，通过微型咨询项目、地方教学联合体（Consortium）与教育投资基金维系组织运转。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 55–63)]]; [[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 31)]]
 >
 >   - **2018** 考文出版社（Corwin Press）从 Cognition 手中全面收购 Visible Learningplus 咨询专营权，进一步将其推向全球化商业流水线。
 
@@ -118,7 +119,7 @@ updated: 2026-10-16
 > - **决策机构（Cognition Education Trust 理事会）** 慈善信托理事会作为最高控股方，拥有营利性运营公司的 100% 股权，负责任命董事、审定年度公益捐赠与战略方向。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 66)]]
 > - **执行机构（Cognition Education Limited 商业实体）** 独立注册的营利性有限责任公司，负责全球咨询合同招标、[[Visible Learning Branding and Global Influences|Visible Learningplus]] 知识产品开发与跨国特许经营。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 66–67)]]
 > - **学术纽带与旋转门（学者兼任董事）** 知名学者[[John Hattie|约翰·哈蒂]]兼任 Cognition Education Trust 理事会董事，深度参与组织战略，同时通过知识产权授权合同从商业实体获取巨额版税与服务酬金。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 31)]]
-> - **全球特许授权网络（Licensor Network）** 摒弃重资产海外自建分公司模式，与澳大利亚麦克米兰（Macmillan）、英国 Osiris Educational、James Nottingham Associates 及美国考文出版社（Corwin Press）缔结区域排他性分销授权同盟。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, p. 60)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 67)]]
+> - **全球特许授权网络（Licensor Network）** 摒弃重资产海外自建分公司模式，与澳大利亚麦克米兰（Macmillan）、英国 Osiris Educational、James Nottingham Associates 及美国[[Corwin Press|考文出版社]]（Corwin Press）缔结区域排他性分销授权同盟。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, p. 60)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 67)]]
 
 > [!pathways]- 业务运行机制
 > - **双层资本流转与税负[[Screening Off|屏蔽]]** 营利子公司 Limited 将运营利润以大额捐赠形式回流给唯一的慈善股东 Trust，凭借新西兰慈善信托免税政策大幅冲抵企业所得税，甚至连续多年实现账面零税负。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 71–73)]]
@@ -181,7 +182,7 @@ updated: 2026-10-16
 > - **6,900 万新西兰元** 2010 年集团年度总营收突破 6,900 万新西兰元，创下新西兰本土教育咨询机构的商业规模峰值。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 71–73)]]
 > - **869,453 新西兰元** 2011 至 2015 年间，认知教育商业实体累计向董事学者[[John Hattie|哈蒂]]支付的第三方版税与顾问酬金至少达 869,453 新西兰元。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 31)]]
 > - **0.9% 慈善支出占比** 2015 年 Trust 实际用于公共教育资助的慈善捐赠仅约 25.1 万新西兰元，不足当年集团总营收的 0.9%。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 71–73)]]
-> - **5,000 万美元企业体量** 2018 年接盘 Visible Learningplus 全球专营权的美国考文出版社年营业额估算达 5,000 万美元。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 25, 31)]]
+> - **5,000 万美元企业体量** 2018 年接盘 Visible Learningplus 全球专营权的美国[[Corwin Press|考文出版社]]年营业额估算达 5,000 万美元。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 25, 31)]]
 
 ---
 
@@ -224,7 +225,7 @@ updated: 2026-10-16
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Bates_2017_CognitionEducationTrust|Bates (2017)]] — 详尽梳理 Cognition Education 从 1989 年 Multi Serve 建立、中东建校扩张、引入 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 到编织河道模式转型的官方受托组织史专著。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统审计新西兰学校市场化生态的研究报告，深度解剖 Cognition Group 慈善信托与营利公司双层架构中的税负消除策略与 0.9% 公益支出失衡问题（pp. 65–73）。
-> - [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]] — 运用[[Critical Policy Analysis|批判性政策分析]]，揭露 Cognition 专营 [[Visible Learning]] 知识品牌、向[[John Hattie|哈蒂]]支付超 86.9 万新西兰元版税以及向考文出版社（Corwin）转让专营权的政商旋转门资本运作（pp. 30–31）。
+> - [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]] — 运用[[Critical Policy Analysis|批判性政策分析]]，揭露 Cognition 专营 [[Visible Learning]] 知识品牌、向[[John Hattie|哈蒂]]支付超 86.9 万新西兰元版税以及向[[Corwin Press|考文出版社]]（Corwin）转让专营权的政商旋转门资本运作（pp. 30–31）。
 
 ---
 
@@ -242,7 +243,7 @@ updated: 2026-10-16
 > | [[Critical Policy Analysis]] | 方法 | 审视方法 | 揭露其双层信托架构避税、政商学术旋转门与知识私有化的核心质性批判研究方法。 |
 > | [[Tomorrow's Schools Reforms]] | 事实 | 创设制度 | 1989 年新西兰教育行政权力下放改革直接催生了 Multi Serve 的成立。 |
 > | [[Jerudong International School Establishment]] | 事实 | 转型契机 | 1997 年文莱建校项目成为组织打破本土行政服务局限、走向跨国教育咨询的关键转折点。 |
-> | [[Visible Learning Branding and Global Influences]] | 事实 | 品牌专营 | 机构设立 Visible Learningplus 事业部并授权麦克米兰与考文出版社全球分销。 |
+> | [[Visible Learning Branding and Global Influences]] | 事实 | 品牌专营 | 机构设立 Visible Learningplus 事业部并授权麦克米兰与[[Corwin Press\|考文出版社]]全球分销。 |
 > | [[John Hattie]] | 人物 | 关键董事 | 兼任 Cognition Trust 理事会董事，并将自身研究专营权授予该机构以换取长期大额版税。 |
 > | [[Argument_Bates_2017_CognitionEducationTrust\|Bates (2017)]] | 论证 | 历史来源 | 提供组织创设、三次转型危机及编织河道经营模式的详尽经验实证史料。 |
 > | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] | 论证 | 审计来源 | 提供集团双层法人治理、关联交易免税与 0.9% 慈善支出占比的实证审计证据。 |

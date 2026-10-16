@@ -9,7 +9,7 @@ summary: "批判取向的质性教育政策研究方法与认识论范式，将�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 43
+method_related_count: 44
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -65,6 +65,7 @@ related_facts:
   - "[[Reading Excellence Act]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Cognition Education]]"
+  - "[[Corwin Press]]"
 related_arguments:
   - "[[Argument_Edmondson_2005_EPAA]]"
   - "[[Argument_Johnson_2023_CE]]"
@@ -191,7 +192,7 @@ updated: 2026-10-16
 ### Johnson and Janzen (2023)　学术畅销书解构、元分析黑箱与商业教育政商旋转门
 
 > [!claim] 核心发现
-> 批判性政策分析不应局限于官方立法文本，更应拓展至主导公共政策议程的学术畅销书与商业教育咨询帝国。通过对《[[Visible Learning|可见的学习]]》进行简单平均公式逆向核验、95 次对 6 次词频偏向挖掘，以及对 [[Cognition Education]] 与 Corwin 出版社兼任董事薪酬（逾 86.9 万新西兰元）的财务追踪，揭示了将复杂教育实践降维为标准化监控代码、借“[[Class Size|班级规模]]无效论”为政府紧缩政策提供实证掩护的新自由主义掠夺机制。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 25–33)]]
+> 批判性政策分析不应局限于官方立法文本，更应拓展至主导公共政策议程的学术畅销书与商业教育咨询帝国。通过对《[[Visible Learning|可见的学习]]》进行简单平均公式逆向核验、95 次对 6 次词频偏向挖掘，以及对 [[Cognition Education]] 与 [[Corwin Press|Corwin]] 出版社兼任董事薪酬（逾 86.9 万新西兰元）的财务追踪，揭示了将复杂教育实践降维为标准化监控代码、借“[[Class Size|班级规模]]无效论”为政府紧缩政策提供实证掩护的新自由主义掠夺机制。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 25–33)]]
 
 ---
 
