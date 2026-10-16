@@ -39,6 +39,7 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Democratising Evidence]]"
   - "[[Governing by Numbers]]"
+  - "[[Policy Borrowing]]"
 related_theories: []
 related_methods:
   - "[[Questionnaire]]"
@@ -60,10 +61,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Bangs_2022_PerspectivesOnResearch]]"
+  - "[[Argument_Golovchin_2019_ESC]]"
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Teaching and Learning International Survey
@@ -138,10 +140,11 @@ updated: 2026-10-15
 > - **[[Constructivist Instruction\|建构主义教学]]实践与效能感正相关** 跨国实证一致表明，采用合作探究与认知激活教学策略的教师，其工作自我效能感与职业留任意愿显著高于仅采用[[Rote Learning\|机械记忆]]讲授的教师。
 > - **形式化专业发展的[[Heterogeneity\|异质性]]低效** 尽管 90% 以上的教师参加了短期培训班，但绝大多数教师认为离身式的专家讲座对其微观课堂教学改变收效甚微，深度校本教研与同行听评课展现出更高的正向转化率。
 > - **教师身心重压与职业地位危机** 超过三分之一的教师报告承受中高度工作压力，行政文书负担、频繁的外部问责检查与微观纪律挑战是造成师资流失的核心结构性瓶颈。
+> - **教师社会声望与职业价值感的跨国断层** TALIS-2013 数据揭示了不同文化与经济体中教师社会地位的剧烈分化：在马来西亚（Malaysia）、新加坡（Singapore）、韩国（Korea）与阿拉伯联合酋长国（United Arab Emirates, UAE）等亚洲国家与地区，高达三分之二（约 67%）的教师深信自己的工作具有崇高的社会价值与公众认可度；而在俄罗斯等转型经济体中，仅有极少数教师（约 16%）认同其社会声望。这一实证表明，忽视教师社会地位与基本尊严的机械效能排名，极易诱发教育系统深层的师资流失危机。[[Argument_Golovchin_2019_ESC\|(Golovchin, 2019, p. 240)]]
 > - **跨国数据二次挖掘与峰会协商转化** [[Education International\|国际教育协会]]委托达林-哈蒙德（Linda Darling-Hammond）等著名学者对 TALIS 数据开展二次独立挖掘，发表关于教师短缺与专业协作的独立政策洞见（Burns & Darling-Hammond, 2014）；TALIS 数据同时成为每年[[International Summits on the Teaching Profession\|国际教师职业峰会]]（ISTP）部长与工会平等磋商的扎实证据支撑。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 210, 216)]]
 
 > [!stat-cards]- 关键实证数据
-> 涵盖全球近 50 个教育体系；每轮调查抽取超 260,000 名教师与 15,000 所学校微观样本；形成性反馈数据成为[[OECD\|经合组织]]《[[Education at a Glance\|教育概览]]》的核心支撑数据。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]
+> 涵盖全球近 50 个教育体系；每轮调查抽取超 260,000 名教师与 15,000 所学校微观样本；形成性反馈数据成为[[OECD\|经合组织]]《[[Education at a Glance\|教育概览]]》的核心支撑数据。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 541)]]；TALIS-2013 揭示亚洲高表现经济体 67% 教师确信自身职业具备社会价值，构成高教学质量的制度文化底色。[[Argument_Golovchin_2019_ESC\|(Golovchin, 2019, p. 240)]]
 
 ---
 
@@ -185,3 +188,12 @@ updated: 2026-10-15
 > | [[Policy Brokerage]] | 概念 | 经合组织将教师调查数据打包为国家教育人事改革建议的中介工具。 |
 > | [[Democratising Evidence]] | 概念 | 确立教师对跨国调查数据享有共同所有权、终结单向客体化调查的治理思潮。 |
 > | [[Governing by Numbers]] | 概念 | 将微观教学实践全面指标化与标准化的跨国数字治理体现。 |
+
+---
+
+## 相关研究
+
+> [!evidence-grid-a] 相关实证研究
+> - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] 对比分析 TALIS-2013 跨国调查数据与俄罗斯教育现状，指出亚洲高表现经济体 67% 的教师确信自身具备社会价值，而俄罗斯仅为 16%；揭示忽视教师社会地位与基本尊严的量化绩效管理极易诱发教育系统深层的师资流失危机。
+> - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] 剖析 TALIS 作为[[OECD|经合组织]]全球教育治理与[[Policy Borrowing|政策借用]]中介工具的制度机制。
+> - [[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al. (2022)]] 探讨[[Education International|国际教育协会]]（EI）如何通过参与 TALIS 与 [[PISA]] 调研治理，捍卫教师对调查数据的所有权与专业赋权。

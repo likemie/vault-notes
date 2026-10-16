@@ -16,7 +16,7 @@ summary: "在更高层级汇总多个已发表元分析结果的统计综合方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 99
+method_related_count: 100
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -123,6 +123,7 @@ related_arguments:
   - "[[Argument_Erdem_2026_SHE]]"
   - "[[Argument_Unal_2026_JECR]]"
   - "[[Argument_Jansen_2026_EPR]]"
+  - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Simpson_2017_JEdPolicy]]"
   - "[[Argument_Allerup_2015_Paideia]]"
   - "[[Argument_Bergeron_2017_MJE]]"
@@ -451,6 +452,7 @@ updated: 2026-10-16
 > - **大语言模型二阶元分析[[Automated Data Extraction\|自动化数据提取]]** [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] 基于《[[Visible Learning\|可见的学习]]》证据库中的 156 项一阶教育元分析，通过专家仲裁校准确立金标准，系统评估了三大前沿大语言模型（Gemini 2.5 Pro、[[General Purpose Technology|GPT]]-4.1、GPT-o3）自动提取效应量、研究数与[[Sample Size Determination\|样本量]]的准确性（$\text{[[Intraclass Correlation Coefficient\|ICC]]} = 0.96–0.97$），确立大模型提取达到人类专家水准并为人机混合验证提供[[Paradigm\|范式]]。
 > - **[[Fixed-Effect Model|固定效应]]等价性推导与二阶元分析方法论批判** [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] 从两级固定效应数学模型严格推导等价性定理（$D = \bar{d}, v_D = v_{\bar{d}}$），确立六项方法论操作规范；通过实证案例（Eisenstaedt [[Standard Error|标准误]]混淆致效应量虚增十倍、Haas 伪造标准误削减权重 53.5%、Olson & Wisher 93.3% 重叠致网络学习排名自第 26 位雪崩至第 98 位）揭示二阶粗放综合在当前发表体制下的不可行性，并提出建设中央标准化证据数据库。
 > - **二阶元分析全库[[Metascience|元科学]]质量与复现性审计** [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] 依据 [[PICO Framework|PICO]] 与伞状综述规范，对《可见的学习》全库 322 个影响因素开展独立复现检验，发现仅 19% 满足 PICO 纳入标准，301 项中仅 2 项可复现数据提取（<1% 复现率），44% 报告效应量在原文中缺失，为二阶元分析方法学规范与质量控制提供了里程碑式全量审计实证。
+> - **二阶元综合效应量离散度与同质性检验** [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] 采用变差系数（$V_\sigma = \frac{\sigma}{\bar{x}} \times 100\%$）对《可见的学习》133 项效应量展开统计测算，证实全库变差系数达 $56.87\%$（严重突破 $33\%$ 阈值），实证揭示第一代粗放二阶综合在未经同质性控制下输出单一线性均值与关节点的数理缺陷（pp. 238–241）。
 
 ---
 
@@ -461,7 +463,8 @@ updated: 2026-10-16
 > 1. **试验灵敏度混淆** [[Effect Size\|效应量]]大小可能反映研究者操纵试验灵敏度的难易程度而非干预本身有效性（[[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017]], 2019）；
 > 2. **偏倚逐级复合** 一阶元分析中的未加权、SE/SD 混淆与公式不可比性无法在二阶统计中被自动消除（[[Argument_Allerup_2015_Paideia\|Allerup, 2015]]; [[Argument_Bergeron_2017_MJE\|Bergeron & Rivard, 2017]]; [[Argument_Wecker_2016_ZfE\|Wecker et al., 2016]]）；
 > 3. **透明度与数据重构危机** 粗放元综合常存在数据提取不透明与证实偏差（[[Argument_Johnson_2023_CritEduc\|Johnson & Janzen, 2023]]; [[Argument_OConnor_2020_AJLL\|O'Connor, 2020]]）；
-> 4. **因果机制距离与政策角色争议** 宏观抽象聚合远离了实在层面的因果机制，知识的局部性与临时性使其难以直接指导政策决策（[[Argument_Snook_2009_NZJES\|Snook et al., 2009]]; [[Argument_Terhart_2011_JCS\|Terhart, 2011]]; [[Argument_Wiliam_2019_ERE\|Wiliam, 2019]]; [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019]]）。
+> 4. **全库离散度超标与数理基准失效** 戈洛夫钦（[[Argument_Golovchin_2019_ESC\|Golovchin, 2019]]）采用变差系数对 133 项正值效应量进行系统检验，证实全库变差系数高达 $56.87\%$（远超 $33\%$ 安全同质性上限），各子领域（学生 $71.24\%$、学校 $65.97\%$、教师 $51.01\%$）全线超标；二阶综合在未经严格同质性控制下强行输出 $d=0.40$ 单一线性关节点缺乏数理稳健性；
+> 5. **因果机制距离与政策角色争议** 宏观抽象聚合远离了实在层面的因果机制，知识的局部性与临时性使其难以直接指导政策决策（[[Argument_Snook_2009_NZJES\|Snook et al., 2009]]; [[Argument_Terhart_2011_JCS\|Terhart, 2011]]; [[Argument_Wiliam_2019_ERE\|Wiliam, 2019]]; [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019]]）。
 >
 > [!bias-audit] 商业学术出版体制对知识综合的三重结构性阻碍（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）
 > - **[[Publication Bias|发表偏倚]]与抽屉效应** 期刊倾向于发表统计上显著的结果，产生严重的发表偏倚（Publication Bias）与抽屉效应（File-drawer Problem），大量零效应或负效应被锁进抽屉，污染综合底册。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 34–35)]]

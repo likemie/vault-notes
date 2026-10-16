@@ -6,10 +6,10 @@ aliases:
 summary: "围绕学校方向设定、人员发展、组织改进与信任建立展开的教育实践，在证据知情视域下依托榜样示范与制度化排程促成高质量研究使用与学校变革。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 44
-related_level: 4
-related_stars: "⭐⭐⭐⭐"
-related_color: "#fdba74"
+related_count: 52
+related_level: 5
+related_stars: "⭐⭐⭐⭐⭐"
+related_color: "#fecdd3"
 tags:
   - field/educational-leadership-administration
   - theme/school-leadership
@@ -31,12 +31,17 @@ related_concepts:
   - "[[Variable]]"
   - "[[Feedback]]"
   - "[[Classroom Management]]"
+  - "[[Visible Learning]]"
+  - "[[Disciplina and Doctrina]]"
   - "[[Educational Decentralization]]"
+  - "[[Performance Indicators]]"
   - "[[Instructional Leadership]]"
   - "[[Paradigm]]"
   - "[[Discourse]]"
   - "[[Dependent Variable]]"
   - "[[Doxa]]"
+  - "[[Cult of Efficiency]]"
+  - "[[Neo-Taylorism]]"
 related_theories:
   - "[[Organizational Culture]]"
   - "[[Quality Use of Research Evidence Framework]]"
@@ -47,6 +52,8 @@ related_arguments:
   - "[[Argument_Altrichter_2019_ZfB]]"
   - "[[Argument_Eacott_2011_JEAH]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
+  - "[[Argument_Golovchin_2019_ESC]]"
+  - "[[Argument_Eacott_2017_SLM]]"
 related_facts:
   - "[[OECD]]"
   - "[[Monash Q Project]]"
@@ -65,6 +72,7 @@ related_persons:
   - "[[Pierre Bourdieu]]"
   - "[[Mark Rickinson]]"
   - "[[Herbert Altrichter]]"
+  - "[[John Hattie]]"
 confidence: high
 status: draft
 created: 2026-05-02
@@ -191,6 +199,9 @@ updated: 2026-10-16
 
 > [!claim] [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]]
 > **专家评审确立学校领导力为最高相关度的组织使能支柱** 卡尔门达尔等（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）召集国际资深学者对全库 322 项教育影响因素开展德尔菲相关度评定时，校长与学校领导力（School Leadership）获得了极高的专家共识得分（$M = 4.50, SD = 0.58$），位列全库所有组织与管理类变量之首（位列前 10 项核心因素）。专家评定指出：与[[Feedback|教学反馈]]（$M=4.75$）和[[Classroom Management|课堂管理]]（$M=4.75$）等直接发生在教室内的微观教学行为不同，学校领导力虽不直接作用于学生个人认知加工，却是保障优质微观教学实践得以常态化发生、隔绝外部行政杂务干扰并建立互信教研生态的高位组织使能杠杆。将其与微观教学因素置于同一扁平[[Effect Size|效应量]]排行榜进行机械名次比较，抹杀了组织杠杆的系统性孵化功能。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 19–20, 22)]]
+>
+> [!claim] [[Argument_Golovchin_2019_ESC|Golovchin (2019)]]; [[Argument_Eacott_2017_SLM|Eacott (2017)]]
+> **追逐领导力绩效诱发的行政官僚异化与治理悲剧** 戈洛夫钦（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）在反思《[[Visible Learning|可见的学习]]》排名在地方层级的政策应用时，援引埃科特（[[Argument_Eacott_2017_SLM|Eacott, 2017]]）针对澳大利亚“提高教学质量（Quality Teaching Model, QTM）”政策的尖锐批判指出：自上而下的循证绩效[[Disciplina and Doctrina|规训]]正将学校领导力异化为“持续生产数据（continuous production of data）”的技术官僚流水线，被称为“澳大利亚教育领导力的悲剧”。学校管理者在对所谓“卓越领导力”的锦标赛式追逐中，将大量填报与审计压力向下转嫁给普通任课教师；俄罗斯本土实证调查同样证实，79% 的教师受困于文书填表，超 25% 教师因形式主义压力拟转行。当学校领导力被窄化为监控指标与官僚行政控制时，不仅摧毁了专业自主与育人互信，更演变为加速师资流失的治理陷阱。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 236, 240–241)]]
 
 ---
 
@@ -204,6 +215,7 @@ updated: 2026-10-16
 > | **循证使能与榜样示范** | 领导亲身示范与制度化排程是破除教师防卫、促进证据使用的中枢 | 学校循证教学改进与专业学习共同体建设 | [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] |
 > | **工时重置与角色转型** | 治理理念促使校长削减直接授课并增加听课研讨，向教育企业管理者转型 | 学校管理专业化、领导力工时配置与组织再造 | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]] |
 > | **高位组织使能支柱** | 专家评审获评极高分（$M=4.50$），作为系统孵化与保障微观课堂教学的高位杠杆 | 学校整体改进规划、循证治理系统设计 | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] |
+> | **官僚异化治理风险** | 追逐领导力[[Performance Indicators\|绩效指标]]异化为持续生产数据，加剧行政官僚化与教师流失 | 循证政策行政转译、教师工作负荷与师资留任危机 | [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]]; [[Argument_Eacott_2017_SLM\|Eacott (2017)]] |
 
 ---
 
@@ -274,3 +286,5 @@ updated: 2026-10-16
 > - [[Argument_Møller_2017_EERJ\|Møller (2017)]] — 评述跨国成功学校校长项目（ISSPP），阐释领导力的情境特异性，并从[[Transformative Leadership\|变革型领导力]]与批判政策视角反思个人英雄主义偏差。
 > - [[Argument_Eacott_2011_JEAH\|Eacott (2011)]] — 运用[[Pierre Bourdieu\|布迪厄]][[Champ\|场域]]与习性理论，深入剖析新南威尔士州校长培养方案的管理主义 [[Doxa]]，提出走向教育问题争辩的替代性领导习性。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 专家德尔菲评审确立学校领导力为最高相关度的组织使能支柱（$M=4.50$），实证揭示将其与微观课堂教学在扁平[[Effect Size|效应量]]排行榜中机械对比的方法学局限。
+> - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 记录对《[[Visible Learning|可见的学习]]》排名在地方教育领导力应用中的反思，结合 [[Argument_Eacott_2017_SLM|Eacott (2017)]] 揭示追求数据绩效导致教师官僚文书负担激增与流失加剧的“治理悲剧”（pp. 236, 240–241）。
+> - [[Argument_Eacott_2017_SLM|Eacott (2017)]] — 从卡拉汉[[Cult of Efficiency|效率崇拜]]与[[Neo-Taylorism|新泰勒主义]]视角，深度解构澳大利亚学校领导力对[[John Hattie|哈蒂]] VL 学说的教父式崇拜，批判将领导力窄化为持续数据生产的技术官僚异化（pp. 413–426）。

@@ -67,10 +67,10 @@ related_concepts:
   - "[[Critic and Conscience of Society]]"
   - "[[Category Mistake]]"
   - "[[Whole Language]]"
+  - "[[Positivism]]"
   - "[[PICO Framework]]"
   - "[[Commensuration]]"
   - "[[Reliability]]"
-  - "[[Positivism]]"
   - "[[Bildung]]"
   - "[[Screening Off]]"
   - "[[Creativity]]"
@@ -265,7 +265,7 @@ updated: 2026-10-16
 > - [[Argument_Qvortrup_2015_Paideia\|Qvortrup, 2015]] — 运用动态知识学习模型回应丹麦批评，重建学习结果多维概念。
 > - [[Argument_Laursen_2015_Paideia\|Laursen, 2015]] — 评估《可见的学习》核心综合在丹麦公立学校改革中的总体适用性。
 > - [[Argument_Qvortrup_2019_NordSTEP\|Qvortrup, 2019]] — 从[[Niklas Luhmann\|卢曼]]系统论与[[Structural Coupling\|结构耦合]]视角为 Hattie 辩护，批判意识形态解释社群。
-> - [[Argument_Golovchin_2019_ESC\|Golovchin, 2019]] — 基于变差系数与数据极端不均匀性建议俄罗斯教育政策慎用 VL。
+> - [[Argument_Golovchin_2019_ESC\|Golovchin, 2019]] — 变差系数（56.87%）与极端离散度检验：解构 =0.40$ 基准有效性，警示脱离教师地位与生源条件的机械实证排名风险。
 > - [[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022]] — 审视英国教育政策将 Hattie 列为官方认可证据来源的治理效应。
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024]] — 揭示北欧五国政策咨询网络在法定规制阶段对 Hattie 等学术明星的海量引文过滤。
 
@@ -322,6 +322,7 @@ updated: 2026-10-16
 > > - **Wecker 等人** 从两级[[Fixed-Effect Model|固定效应模型]]的数理等价性（$D = \bar{d}, v_D = v_{\bar{d}}$）与六步规程严格审视，揭示其代数前提被严重践踏：混淆[[Standard Error|标准误]]与标准差使 Eisenstaedt 数据被虚假放大十倍（$-0.80 \to -8.291$），依据离散度硬造伪标准误使[[Direct Instruction|直接教学]]权重被削减 53.5%，容忍 93.3% 文献重叠导致网络学习[[Effect Size|效应量]]暴跌并跌破 0.40 关节点（$0.59 \to 0.23$，排名第 26 跌至第 98），且面临一级同质性假设破产与二级[[Random-Effects Model|随机效应]]样本不足的双重模型错配，在[[Category Mistake|德甲联赛隐喻]]下判定 138 个跨本体范畴因素的比较在科学上不可行。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–34)]]
 > > - **Bergeron 与 Rivard** 从统计学家视角定性为伪科学：常用[[Effect Size\|效应量]]（Common Language Effect Size，CLE）计算错误出现负概率、不同效应量公式产生矛盾排名、聚合任意性。[[Argument_Bergeron_2017_MJE\|(Bergeron & Rivard, 2017)]]
 > > - **Allerup 与 O'Connor** 指出排名缺乏显著性检验且[[Societies of Control\|控制社会]]背景后边际效应大跌；[[Whole Language\|全语言]]案例审查揭示分类错误与先验偏见驱动的单向修正。[[Argument_Allerup_2015_Paideia\|(Allerup, 2015)]]; [[Argument_OConnor_2020_AJLL\|(O'Connor, 2020)]]
+> > - **Golovchin** 对 Hattie 汇总的 133 项正向效应量开展变差系数（Coefficient of Variation, \sigma$）数理检验，发现总体变差系数高达 .87\%$（平均效应量 $ar{d}=0.42$，标准差 $\sigma=0.239$），且学生特征（.24\%$）与学校环境（.97\%$）维度的离散度极高，统计学上属于极端不均匀分布。据此论证平均值 $ar{d}=0.40$ 无法充当普遍有效的因果基准线，批评其脱离教师社会经济地位与教学基础条件的机械[[Positivism|实证主义]]排序存在误导教育政策的系统性风险。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 238–241)]]
 > > - **Kalmendal 等人** 开展学界首个针对《[[Visible Learning|可见的学习]]》（1.2 版）全量 322 个影响因素的[[Preregistration|预注册]][[Metascience|元科学]]审计，发现该体系在证据生成各环节存在系统性崩溃：仅 19% 满足 [[PICO Framework\|PICO]] 纳入基准，27% 混杂了不可[[Commensuration|通约]]的组间、组内及[[Correlational Research|相关设计]]；在检验的 301 个影响因素中，仅 2 项（0.66%）可完全复现数据提取，44% 报告的效应量在引证原文中完全不存在，实证终结了其通用连续体与聚合效应量的科学可[[Reliability|信度]]。[[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, pp. 1, 14–19)]]
 >
 > > [!axis] 文化政治批判：[[Cult of the Guru\|大师崇拜]]、[[Neo-Taylorism\|新泰勒主义]]与[[Policy Brokerage\|政策中介]]制度落差

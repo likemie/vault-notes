@@ -66,6 +66,8 @@ related_concepts:
   - "[[Gold Standard Science]]"
   - "[[PICO Framework]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Class Size]]"
+  - "[[Social Science as Legitimation Alibi]]"
   - "[[Positivism]]"
   - "[[Allgemeine Pädagogik]]"
   - "[[Academic Freedom]]"
@@ -173,6 +175,7 @@ related_arguments:
   - "[[Argument_Pampaka_2016_IJRME]]"
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
+  - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
   - "[[Argument_Sarbiewska_2019_JSR]]"
@@ -458,6 +461,12 @@ Fitz-Gibbon 同时指出，Anderson and Biddle（1991）已观察到政策制定
 > > - **“海量证实”的伪科学幻象** 政策制定者与商业推广者倾向于将纳入[[Meta-analysis|元分析]]数量或数亿受试学生体量直接等同于“[[Gold Standard Science|黄金标准科学]]证据”，忽视了综合规程中对[[PICO Framework|PICO]] 门禁、偏倚风险评估及透明筛选的硬性要求。
 > > - **元科学审计与证据基础崩塌** 卡尔门达尔等（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）对[[John Hattie|哈蒂]] 2,111 项元分析的[[Preregistration|预注册]]全量审计证实：缺乏严格质控的宏观循证库仅有 0.66% 纯净可重复，44% 查无实据，且混杂 80.7% 非干预[[Correlational Research|相关研究]]与 63 项虚构出版物；当支撑 EBE 政策的核心证据柱石在元科学检验下坍塌时，盲目以“证据本位”之名推行标准化教学[[Disciplina and Doctrina|规训]]便蜕变为高利害的政策投机。
 >
+> > [!axis] 循证排名的制度化陷阱：微观复杂性剥离与科层数字问责异化
+> > 证据本位教育若蜕变为基于单一效应量联赛排名的机械治理，极易使决策者产生“教育技术即时见效”的乌托邦幻觉，进而忽视结构性资源支持与教师专业尊严。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 240–241)]]
+> >
+> > - **剥离质性脉络的技术官僚幻想** 将学校教学简化为效应量大小的绝对排序，诱导管理官僚依据“小[[Class Size|班额]]效应仅 zsh.21$”等脱离情境的数据作为缩减教育经费、扩充班额的[[Social Science as Legitimation Alibi|合法化借口]]，却掩盖了复杂课堂中关系建构与个别化指导所必需的质性条件。
+> > - **科层数字生产与专业流失危机** 强制推广循证工具包与标准化量规（如澳大利亚 QTM 教学质量模型），易将教师异化为持续生产合规性数据的行政工具，加剧职业倦怠与教师离职倾向，在剥夺教师自决权的同时反向动摇教育系统的质量根基。
+>
 > > [!axis] 教师教育多范式治理与大学学术自治生态抵制
 > > EBE 政策试图将实证证据与标准化指标强制嵌入大学师范培养与职后研训（如德国 [[Qualitätsoffensive Lehrerbildung|QLB]] 工程），但在高校内部遭遇了学术生态的深层抵制。[[Argument_Manitius_vanHolt_2019_BzS\|(Heinrich & Streblow, 2019; Manitius & van Holt, 2019, p. 13)]]
 > >
@@ -553,6 +562,7 @@ Fitz-Gibbon 同时指出，Anderson and Biddle（1991）已观察到政策制定
 > - [[Tomorrow's Schools Reforms]] — NZ 行政改革转向证据本位教学的转折
 > - [[Treasury Briefing on Student-Teacher Ratios]] — EBE 证据在政策论述中被误用的典型范例
 > - [[Argument_Sarbiewska_2019_JSR\|Sarbiewska (2019)]] — 系统记录 EBE/VL 在 NZ and AU 的政策采纳轨迹
+> - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 结合俄罗斯与澳大利亚政策实践，批判循证教育将复杂教学化约为量化排名的制度陷阱，揭示其诱发科层行政负担与师资流失的治理风险。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 针对澳新等国广泛奉为循证基石的《[[Visible Learning|可见的学习]]》开展[[Preregistration|预注册]][[Metascience|元科学]]全量复核，揭示仅 0.66% 纯净可重复且 44% 查无实据，为全球循证政策提供了最严峻的反思案例。
 
 ### 德国
