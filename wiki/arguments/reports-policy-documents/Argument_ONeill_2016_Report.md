@@ -28,7 +28,9 @@ related_concepts:
   - "[[Educational Management Organisation]]"
   - "[[Policy Network]]"
   - "[[Bureaucracy]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
+  - "[[Endogenous Privatisation]]"
+  - "[[Exogenous Privatisation]]"
   - "[[Policy Entrepreneur]]"
   - "[[Policy Window]]"
   - "[[Discourse]]"
@@ -117,7 +119,7 @@ citation_aliases:
 > | 理论工具 | 解释功能 |
 > |---|---|
 > | **组织治理形态学（Thompson, 1991）**<br>[[Network Governance\|网络治理]] / 部落治理 | 划分市场、[[Bureaucracy\|科层制]]、网络与部落四种治理方式。解释新西兰公立教育为何从依赖行政规章和公开竞争，转向依赖熟人圈子、共同利益与私人信任的网络协同。（pp.23–25） |
-> | **教育私有化双重维度（Ball & Youdell, 2007）**<br>[[Endogenous and Exogenous Privatisation\|内生与外生私有化]] | 区分学校内部企业化运作（引入竞争与考核指标）与引入外部私营力量办学（直接把学校和培训业务承包给私营机构）。（pp.21–23, 35–38） |
+> | **[[Educational Privatisation\|教育私有化]]双重维度（Ball & Youdell, 2007）**<br>[[Endogenous Privatisation\|内生私有化]]与[[Exogenous Privatisation\|外生私有化]] | 区分学校内部企业化运作（引入竞争与考核指标）与引入外部私营力量办学（直接把学校和培训业务承包给私营机构）。（pp.21–23, 35–38） |
 > | **政策创业与跨国倡导（Mintrom, 2000; Ball, 2012）**<br>[[Policy Entrepreneur\|政策创业者]] / [[Policy Network\|政策网络]] | 解释具备专业威望的学者或专家如何抓住[[Policy Window\|政策窗口]]，将个人研究包装为标准化的改革方案，同时获取政策[[Discourse\|话语]]权与商业回报。（pp.65–70） |
 > | **风险慈善理论（Scott, 2009; Ball, 2012）**<br>[[Venture Philanthropy\|风险慈善]] / [[Philanthrocapitalism\|资本主义慈善]] | 分析现代基金会不再单纯提供救济金，而是像风险投资机构一样深度干预学校办学，要求量化评估并寻求成效扩散的运作逻辑。（pp.46–48, 54–57） |
 
@@ -173,7 +175,7 @@ citation_aliases:
 
 自 1989 年明日之校改革以来，新西兰公立学校虽然享有校董会自治权，但国家始终承担基础办学经费与制度兜底责任。2008 年国家党执政后，官方政策文件频繁使用政府补贴、针对性扶持以及[[Social Impact Investing|社会投资]]（[[Social Impact Investing|Social Impact Investing]]）等金融化词汇，逐步放弃了战后福利国家对基础教育由国家全额出资并公立供给的制度承诺。
 
-> [!policy-context] 新西兰公立[[Endogenous and Exogenous Privatisation|教育私有化]]转型的制度背景
+> [!policy-context] 新西兰公立[[Educational Privatisation|教育私有化]]转型的制度背景
 > - **发布主体** 新西兰国家党联立政府、新西兰教育部（Ministry of Education, MoE）与新西兰财政部。
 > - **制度位置** 承接 1989 年[[New Public Management|新公共管理]]改革遗产，应对全球金融危机后的公共财政紧缩。
 > - **政策问题** 公立教育经费增长承压，学生[[Academic Achievement|学业成绩]]国际排位面临停滞。

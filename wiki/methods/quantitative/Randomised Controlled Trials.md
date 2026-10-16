@@ -10,7 +10,7 @@ summary: "通过随机分配和变量控制建立因果关系的实验设计，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 146
+method_related_count: 149
 method_related_level: 14
 method_related_stars: "💎💎💎💎⭐⭐"
 method_related_color: "#dcfce7"
@@ -75,6 +75,7 @@ related_concepts:
   - "[[Ontology]]"
   - "[[Direct Instruction]]"
   - "[[Ecological Validity]]"
+  - "[[Social Science as Legitimation Alibi]]"
   - "[[Interaction Effect]]"
   - "[[Validity as Inferences]]"
   - "[[Evidence Standards]]"
@@ -95,6 +96,7 @@ related_methods:
   - "[[Random-Effects Model]]"
   - "[[Intervention Research]]"
   - "[[Regression Discontinuity Design]]"
+  - "[[Meta-meta-analysis]]"
   - "[[Confidence Interval]]"
   - "[[True Experimental Design]]"
   - "[[Pre-test and Post-test]]"
@@ -129,6 +131,7 @@ related_persons:
   - "[[Richard J. Shavelson]]"
   - "[[Rainer Kattel]]"
   - "[[Mariana Mazzucato]]"
+  - "[[John Hattie]]"
 related_facts:
   - "[[Tennessee STAR Project 1985-1989]]"
   - "[[No Child Left Behind Act 2001]]"
@@ -153,6 +156,8 @@ related_arguments:
   - "[[Argument_Brady_2023_EPR]]"
   - "[[Argument_Eisenhart_Towne_2003_ER]]"
   - "[[Argument_Serpell_2020_EducPsychol]]"
+  - "[[Argument_Snook_2009_NZJES]]"
+  - "[[Argument_Hattie_2010_NZJES]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
   - "[[Argument_Helgetun_2022_JEdPolicy]]"
@@ -174,7 +179,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Randomised Controlled Trials
@@ -210,6 +215,7 @@ updated: 2026-10-16
 >   - 2002 — 联邦教育部成立有效教育清算所（[[What Works Clearinghouse|WWC]]）并由 [[Office of Educational Research and Improvement|OERI]] 拨付 1850 万美元初始合同，以医学[[Clinical Trial|临床试验]]为原型启动审查；美国教育部 2002–2007 战略规划要求至 2004 年 75% 的因果资助必须采用随机设计，且 [[Institute of Education Sciences|IES]] 在 2002 财年资助的因果项目 100% 采用随机实验（[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, pp. 34–35]]）。
 >   - 2002–2003 — 国会通过《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA 2002），在[[National Research Council|国家研究委员会]]（NRC）科学原则报告与[[Richard J. Shavelson|理查德·沙维尔森]]（Richard J. Shavelson）等学者质证推动下，打破对单一 RCT 的立法预设，确立非随机设计亦可合法检验因果主张；随后 WWC 根据 47 条公众评议修正初版 [[Study Design and Implementation Assessment Device|Study DIAD]]，将[[Regression Discontinuity Design|断点回归]]与准实验列为独立审查模块（[[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, pp. 34–36]]）。
 >   - 2007 — Dynarski et al. 完成 [[Institute of Education Sciences|IES]] 资助的全美大规模教育软件 RCT，揭示整体零显著差异与强烈的情境[[Heterogeneity|异质性]]（班级规模、师生比与教师整合能力），有力破除实验净效应可脱离情境普遍复制的迷思（[[Argument_Serpell_2020_EducPsychol|Serpell, 2020, p. 42]]）。
+>   - 2009–2010 — [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] 与 [[Argument_Hattie_2010_NZJES|Hattie (2010)]] 围绕田纳西 STAR 等黄金标准 RCT 证据与[[Meta-meta-analysis|二阶元分析]]汇总的张力展开论战，探讨初级因果试验在宏观政策证据池中被稀释的方法论机制与教学适配边界。
 >
 > - **2010–2023 — 规模扩张、实效反思与[[Evidence Era|证据时代]][[Rationalized Myth|合理化神话]]** 英国 [[Education Endowment Foundation|EEF]] 等机构资助数百项大规模实地试验，但实效阶段[[Fade-out Effect|效应衰减]]、清算中心多机构评级冲突与依策造据风险引发[[Epistemology|认识论]]与治理反思。
 >
@@ -370,6 +376,11 @@ updated: 2026-10-16
 > - **真实课堂严格单变量 RCT 的存在** Schuster et al. (2018) 在真实物理课堂针对完全同质的教学内容实施了严格控制的随机对照试验，直接证实在相同知识范围与课时约束下，探究组在深层概念理解上显著超越直接讲授组。
 > - **复合干预的[[Ecological Validity\|生态效度]]辩护** 真实教育情境中的常规教学或直接讲授本身同样由示范、练习与即时反馈等复合组件构成，要求探究干预剔除技术支架与协同组件是方法学上的“双重标准”；全课程项目式研究在保持真实课堂情境的同时，提供了更高的生态效度与实践迁移力。
 
+> [!debates] 黄金标准大规模 RCT 证据 vs [[Meta-meta-analysis|二阶元分析]]均值稀释的认识论冲突
+> 循证决策领域存在一个深刻的方法论争端：当少数具备最高方法学纯度的大规模受控试验（如田纳西 STAR 项目）与汇总了成百上千项异质研究的宏观元分析结论相冲突时，政策制定者究竟应当依循哪一类证据？
+> - **元分析平均主义取向（Hattie, 2009, 2010）** 主张通过二阶元分析汇总所有可用研究的总体效应量（如[[Class Size|班级规模]]效应量 $d \approx 0.20$），并以此作为公共教育资源配置的统一基准。[[John Hattie|哈蒂]]坚持认为，虽然个别小班化 RCT 显示出局部增益，但就整体而言其平均成效远低于 0.40 的“铰链点”门槛；且教师在小班中极少自发改变教学方法，因而全口径大规模缩小班级规模在成本效益上显著劣于投资教师专业发展。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, pp. 90–91)]]
+> - **严格 RCT 情境因果取向（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）** 指出田纳西 STAR 项目（Finn & Achilles, 1990）作为涵盖 76 所小学、6,750 名师生双重真随机分配的“黄金标准”RCT，无可辩驳地确立了在关键起步学段（K–3）将班额压缩至 13–17 人具有 $d = 0.62 \sim 0.66$ 的强因果收益。二阶元分析将此类高质量初级 RCT 与缺乏随机化、微小降额（如 25 人降至 23 人）以及不敏感的高中研究无差别合并，人为“洗平”了因果信号。盲目推崇去情境化的元分析平均数，不仅在方法论上架空了严格 RCT 确立的高等级因果证据，更在实践中为削减弱势儿童关键早期教育投入提供了错误的[[Social Science as Legitimation Alibi|科学借口]]。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 100–101)]]
+
 ---
 
 ## 相关理论与方法
@@ -396,6 +407,8 @@ updated: 2026-10-16
 > | [[Correlational Research]] | 前置方法 | 能够在大规模自然情境中探测变量关联并生成干预假设，但缺乏随机分配与因果隔离效力。 |
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 论证 | 辩护真实课堂复合干预 RCT 的[[Ecological Validity\|生态效度]]，指出[[Meta-analysis\|元分析]]中 RCT 与准实验[[Effect Size\|效应量]]无显著差异。 |
 > | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 论证 | 审计评估 | 对宏观二阶库开展[[Preregistration\|预注册]]审计，揭示组间实验与相关研究违规混用（全库仅 30% 纯实验）及对照基线混淆的效度危机。 |
+> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 论证 | 剖析田纳西 STAR 黄金标准 RCT 的强因果证据（$d = 0.62 \sim 0.66$），批评二阶元分析无差别合并抹平初级随机实验因果信号的方法论弊端。 |
+> | [[Argument_Hattie_2010_NZJES\|Hattie (2010)]] | 论证 | 回应关于[[Class Size\|班级规模]] RCT 的争议，主张若教师未变革教学法，单一受控实验取得的物理班额缩减在宏观成本效益上不可持续。 |
 
 ---
 
@@ -408,7 +421,7 @@ updated: 2026-10-16
 > - [[Argument_Brady_2023_EPR|Brady et al. (2023)]] — 将[[Random Assignment|随机分配]]实验作为[[Intervention Research|干预研究]]中的更强子类进行趋势比较，发现其在顶刊中的比例从 2010 年的 23% 降至 2020 年的 20%（[[Argument_Brady_2023_EPR|Brady et al., 2023, pp. 6–7]]）。
 > - [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] — 全景比较 12 个教育清算中心对 RCT 的因果审查规程，实证揭示各中心虽均推崇 RCT，但因跨研究综合门槛割裂导致 35.4% 的极端评级冲突（[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 9–11, 18–20]]）。
 > - [[Argument_Ginsberg_2024_EducPolicy|Ginsberg et al. (2024)]] — 针对 15 个学区 138 项干预进行实证审计，揭示法定单项 RCT 合格门槛诱发学区采购的合规假象、科研供给侧学段断层与微观交付要素因果黑箱（[[Argument_Ginsberg_2024_EducPolicy|Ginsberg et al., 2024, pp. 11–13]]）。
-> - [[Tennessee STAR Project 1985-1989]] — 田纳西星级[[Class Size|班级规模]]实验，[[Argument_Wiliam_2019_ERE|Wiliam (2019)]] 揭示了其家长施压转组与数据差异缺失对随机分配的破坏。
+> - [[Tennessee STAR Project 1985-1989]] — 田纳西星级[[Class Size|班级规模]]实验，教育史上最大规模的师生双重随机分配 RCT 之一（$N = 6,750$）；[[Argument_Snook_2009_NZJES|Snook et al. (2009)]] 强调其在 K–3 早期学段确立的强因果增益（$d = 0.62 \sim 0.66$）常遭[[Meta-meta-analysis|二阶元分析]]均值稀释，而 [[Argument_Wiliam_2019_ERE|Wiliam (2019)]] 则从实施偏差角度揭示了家长施压转组对随机分配完整性的破坏。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011)]] — 阐明[[Complexity Theory|复杂性理论]]对受控实验与 RCT 黄金标准的四大[[Epistemology|认识论]]解构、Kuhn 复杂性五大公理、[[Unit of Analysis|分析单位]]转向以及概率因果、[[Counterfactual|反事实]]、[[Screening Off|筛选隔离]]等[[Causality|因果推断]]全景。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 阐明[[World Bank|世界银行]]（World Bank）如何将其专属[[Policy Brokerage|政策中介]]工具库（最佳实践组合）建立在随机对照试验（RCTs）的证据基石之上，并剖析微观实验技术在跨国循证放贷与结构调整治理中发挥的自指性合法化功能。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald and Nevill (2021)]] — 深度复盘英国[[Education Endowment Foundation|教育捐赠基金会]]（Education Endowment Foundation，EEF）十年来资助超 200 项大规模教育 RCT 的制度演进，系统剖析独立评估人机制、[[Preregistration|预注册]][[Statistical Analysis Plan|统计分析计划]]（SAP）、[[Implementation and Process Evaluation|实施与过程评估]]（IPE）整合、[[School Choice|学校选择]]与[[Teacher Choices|教师选择]]新设计，以及应对[[Effect Size|效应量]]衰减与不确定性报告的方法学突破。
@@ -417,3 +430,5 @@ updated: 2026-10-16
 > - [[Argument_Eisenhart_Towne_2003_ER|Eisenhart and Towne (2003)]] — 系统考证美国联邦成文法（NCLB 与 ESRA 2002）及 [[What Works Clearinghouse|WWC]] 创设初期的 RCT 制度化历史，揭示行政规程对随机实验的强烈惯性偏好（如 [[Institute of Education Sciences|IES]] 首期因果资助 100% 为随机实验），并深入论述学术共同体如何依托 NRC 六大原则与国会质证推动联邦立法打破单一 RCT 垄断，确立问题导向的方法适配观。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统评述[[Metascience|元科学]]（Metascience）中运用 RCT 与部分随机化抽签资助试验（Lottery-based Allocation）评估同行评议一致性与防范风险规避的实证探索，推动将因果实验设计应用于国家科学资助机制本身的制度优化。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 针对《[[Visible Learning|可见的学习]]》证据体系开展独立元科学审计，实证揭示宏观数据库违规混合独立组间实验、组内前[[Pre-test and Post-test|后测]]与相关性[[Observation Method|观察研究]]（仅 30% 纯粹基于组间实验，27% 混入[[Correlational Research|相关研究]]），剖析了活跃对照与常规教学对照混淆对干预效应量的稀释效应。
+> - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 详尽剖析田纳西 STAR 实验作为大样本师生双重随机对照试验在揭示特定学段强因果效应上的方法学权威性，批判二阶元分析将优质 RCT 与弱设计混杂合并导致因果证据稀释的宏观治理困境。
+> - [[Argument_Hattie_2010_NZJES|Hattie (2010)]] — 辨析受控实验干预（如班级规模缩减）与真实教学法调适的关系，论证孤立的物理条件随机化若缺乏教学实践协同则难以在宏观系统层面达成理想的成本效益。
