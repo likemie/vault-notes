@@ -9,7 +9,7 @@ summary: "元分析中用于检验多项初级研究效应量同质性假设的�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 12
+method_related_count: 13
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Cochran's Q Test

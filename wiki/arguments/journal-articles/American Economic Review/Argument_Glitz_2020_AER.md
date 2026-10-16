@@ -56,7 +56,7 @@ title: "Argument_Glitz_2020_AER"
 argument_key: "Argument_Glitz_2020_AER"
 argument_display_title: "Industrial Espionage and Productivity"
 argument_kind: "journal-article"
-argument_related_count: 22
+argument_related_count: 21
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"

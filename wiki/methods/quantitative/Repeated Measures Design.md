@@ -10,7 +10,7 @@ summary: "真实验设计变体，同一组受试者在两种或多种实验条�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 14
+method_related_count: 15
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -38,7 +38,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
 status: draft
 created: 2026-07-12
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Repeated Measures Design
 

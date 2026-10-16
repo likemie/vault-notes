@@ -9,7 +9,7 @@ summary: "元分析中综合了抽样误差与研究间真实异质性方差（�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 22
+method_related_count: 21
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"

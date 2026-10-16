@@ -7,10 +7,10 @@ aliases:
 summary: "在认识论认知模型中，个体或共同体在评价知识主张、证据可信度与理论解释时所依据的细粒度准则，涵盖个体认知试探法与共同体社会协商的实践规范。"
 type: concept
 domain: "educational-psychology"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - theme/epistemic-cognition
   - theme/argumentation

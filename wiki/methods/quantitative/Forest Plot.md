@@ -7,7 +7,7 @@ summary: "元分析中以图形方式全景展示各项初级研究效应量点�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 25
+method_related_count: 24
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"

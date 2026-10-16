@@ -11,7 +11,7 @@ aliases:
 summary: "对元-元分析（二阶元分析）在认识论假设、试验清晰度混淆、偏倚逐级复合、方法论不透明及政策排名误用层面的系统性学术批判"
 type: concept
 domain: "research-methodology"
-related_count: 47
+related_count: 48
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"

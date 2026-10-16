@@ -13,7 +13,7 @@ aliases:
 summary: "教育心理学与教学干预研究中指称学生情感领域可观测、可测量产出的操作化概念，涵盖自信心、学科态度、内在动机与一般学习感知等非认知结果变量。理论渊源根植于 Krathwohl 等人（1964）的情感分类学，与学业成就、高阶思维构成学习产出的三大支柱；实证研究表明其在合作学习中具有稳健正向响应（ES = 0.51），但受学科与测量工具影响具有高度情境依赖性。"
 type: concept
 domain: "educational-psychology"
-related_count: 35
+related_count: 34
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"

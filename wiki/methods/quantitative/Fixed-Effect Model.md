@@ -10,7 +10,7 @@ summary: "假定所有纳入研究共享同一个恒定真实效应的统计合�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 26
+method_related_count: 31
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -117,10 +117,10 @@ updated: 2026-10-16
 > [!formula-set]- 固定效应模型推导与两级合成流程
 > ```mermaid
 > flowchart TD
->   A["步骤 1：单级固定效应模型<br/>$y_i = \theta + \epsilon_i, \epsilon_i \sim N(0, v_i)$"] --> B["步骤 2：最优逆方差加权<br/>$w_i = 1/v_i$ 最小化合并方差"]
->   B --> C["步骤 3：两级展开表达<br/>将 $m$ 项元分析映射至主要研究池"]
->   C --> D["步骤 4：跨层代数等价定理<br/>$D = \bar{d}, v_D = v_{\bar{d}}$ (Wecker et al., 2016)"]
->   D --> E["步骤 5：独立性破产诊断<br/>文献重叠致协方差失效与假阳性膨胀"]
+>   A["步骤 1：单级固定效应模型基准<br/>预设单一真实效应与研究内抽样方差"] --> B["步骤 2：最优逆方差加权<br/>以研究精度倒数赋权最小化合并方差"]
+>   B --> C["步骤 3：两级分组展开表达<br/>将多项元分析映射至底层主要研究池"]
+>   C --> D["步骤 4：跨层代数等价定理<br/>两级加权等价于一级全池逆方差合并<br/>(充要条件：原始研究完全无重叠)"]
+>   D --> E["步骤 5：独立性假设破产诊断<br/>文献重叠导致协方差非零与假阳性膨胀"]
 > ```
 
 ---

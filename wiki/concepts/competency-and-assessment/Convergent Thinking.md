@@ -11,7 +11,7 @@ aliases:
 summary: "基于逻辑规则与领域证据，对多重线索与信息进行批判性审视、筛选、演绎推导并收敛至唯一最优解的确定性认知加工过程。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"

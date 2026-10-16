@@ -10,7 +10,7 @@ summary: "由 Colin Begg 与 Madhuchhanda Mazumdar（1994）提出的一种用�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 16
+method_related_count: 17
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Begg and Mazumdar Rank Correlation

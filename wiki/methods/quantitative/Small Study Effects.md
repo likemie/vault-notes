@@ -9,7 +9,7 @@ summary: "指元分析中小样本研究系统性报告比大样本研究更大�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 30
+method_related_count: 29
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"

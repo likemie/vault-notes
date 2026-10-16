@@ -8,10 +8,10 @@ aliases:
 summary: "在教育心理学实证研究中，测量工具与结果变量在特异性颗粒度及学科情境维度上的严格对应匹配，是避免效应量人为衰减的核心方法论法则。"
 type: concept
 domain: "research-methodology"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - concept/methodology
   - educational-measurement

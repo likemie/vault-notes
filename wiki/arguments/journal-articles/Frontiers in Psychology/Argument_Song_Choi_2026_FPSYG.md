@@ -108,7 +108,7 @@ title: "Argument_Song_Choi_2026_FPSYG"
 argument_key: "Argument_Song_Choi_2026_FPSYG"
 argument_display_title: "A three-level meta-analysis of the association between students’ epistemic cognition and learning outcomes in South Korea"
 argument_kind: "journal-article"
-argument_related_count: 69
+argument_related_count: 70
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -275,7 +275,7 @@ issuing_organization: ""
 >     end
 > 
 >     subgraph Mechanisms["文化与制度机制解释"]
->         G1 --> H1["应试异化机制: 高考 (Suneung) 与课外补习 (\$240/月) 压制高阶探究"]
+>         G1 --> H1["应试异化机制: 高考 (Suneung) 与课外补习 (每月超240美元) 压制高阶探究"]
 >         G2 --> H2["认知距离机制: 学习信念为近端桥梁, 知识本体信念为远端世界观"]
 >         G3 --> H3["修养努力机制: 东亚自我修养与克己文化实现跨成果全域促进"]
 >     end

@@ -11,9 +11,9 @@ summary: "假定真实效应量服从正态分布并同时分解抽样方差与�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 36
-method_related_level: 4
-method_related_stars: "⭐⭐⭐⭐"
+method_related_count: 47
+method_related_level: 5
+method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/quantitative
@@ -134,10 +134,10 @@ updated: 2026-10-16
 > [!formula-set]- 随机效应两层变异分解与参数估计流程
 > ```mermaid
 > flowchart TD
->   A["步骤 1：两层变异模型分解<br/>$y_i = \mu + u_i + \epsilon_i, u_i \sim N(0, \tau^2)$"] --> B["步骤 2：估计研究间方差 $\tau^2$<br/>DerSimonian-Laird 矩估计或 REML 最大似然法"]
->   B --> C["步骤 3：权重再平衡计算<br/>$w_i^* = 1 / (v_i + \tau^2)$"]
->   C --> D["步骤 4：计算合并均值与方差<br/>$\hat{\mu}_{\text{RE}} = \sum w_i^* y_i / \sum w_i^*$"]
->   D --> E["步骤 5：构建双重推断区间<br/>95% 置信区间 (CI) 与 95% 预测区间 (PI)"]
+>   A["步骤 1：两层变异模型分解<br/>区分研究内抽样误差与研究间异质性"] --> B["步骤 2：估计研究间真实方差 Tau²<br/>DerSimonian-Laird 矩估计或 REML 最大似然法"]
+>   B --> C["步骤 3：权重再平衡计算<br/>将真实异质性方差纳入加权分母衰减极端权重"]
+>   C --> D["步骤 4：计算合并均值与方差<br/>获得广义超总体真实效应平均值与综合方差"]
+>   D --> E["步骤 5：构建双重推断区间<br/>95% 置信区间反映平均效应精度，预测区间反映未来分散度"]
 > ```
 
 ---

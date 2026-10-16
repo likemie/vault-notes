@@ -9,7 +9,7 @@ aliases:
 summary: "系统评价与元分析方法学概念，指运用自然语言处理与大语言模型等人工智能技术从学术文献全文中自动识别、抽取并结构化效应量、样本量等统计量与研究特征的自动化规程。"
 type: concept
 domain: "research-methodology"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

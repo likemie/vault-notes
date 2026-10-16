@@ -11,7 +11,7 @@ summary: "伞状综述与二阶元分析中用于量化系统评价间初级研�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 11
+method_related_count: 12
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Corrected Covered Area

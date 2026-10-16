@@ -11,7 +11,7 @@ summary: "在二阶元分析框架下，通过三水平CHE工作模型与RVE三�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 26
+method_related_count: 27
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Second-Order Meta-Regression

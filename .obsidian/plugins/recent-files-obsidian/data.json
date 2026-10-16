@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Fixed-Effect Model",
+      "path": "wiki/methods/quantitative/Fixed-Effect Model.md"
+    },
+    {
       "basename": "Argument_Wecker_2016_ZfE",
       "path": "wiki/arguments/journal-articles/Zeitschrift für Erziehungswissenschaft/Argument_Wecker_2016_ZfE.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Rizvi_Lingard_2009_OECDEducationPolicy",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Rizvi_Lingard_2009_OECDEducationPolicy.md"
-    },
-    {
-      "basename": "1961 Policy Conference on Economic Growth and Investment in Education",
-      "path": "wiki/facts/global/1961 Policy Conference on Economic Growth and Investment in Education.md"
     }
   ],
   "omittedPaths": [],

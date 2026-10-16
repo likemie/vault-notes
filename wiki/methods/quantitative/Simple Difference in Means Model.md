@@ -10,7 +10,7 @@ summary: "RCT 与组间比较中最直观的基础统计模型，直接以处理
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 38
+method_related_count: 39
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"

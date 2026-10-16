@@ -10,7 +10,7 @@ summary: "处理同一原始研究内报告多个相关效应量所致统计依�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 38
+method_related_count: 39
 method_related_level: 4
 method_related_stars: "⭐⭐⭐⭐"
 method_related_color: "#dcfce7"

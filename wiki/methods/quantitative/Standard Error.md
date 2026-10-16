@@ -10,7 +10,7 @@ summary: "度量样本统计量抽样分布离散度与估计精度的核心统�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 24
+method_related_count: 25
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -106,9 +106,9 @@ updated: 2026-10-16
 > [!formula-set]- 标准误的四维公式演进与应用谱系
 > ```mermaid
 > flowchart LR
->   A["单样本均值 SEM<br/>$\\text{SE} = \\text{SD}/\\sqrt{N}$"] --> B["分类比例标准误<br/>$\\text{SE} = \\sqrt{P(1-P)/N}$"]
->   B --> C["双组效应量标准误<br/>$\\text{SE}_d = \\sqrt{v_d}$ (独立设计)"]
->   C --> D["元分析联合标准误<br/>$\\text{SE}_D = \\sqrt{1/\\sum W_j}$ (精度累加)"]
+>   A["单样本均值标准误 SEM<br/>样本均值抽样分布精度评定"] --> B["分类比例标准误<br/>二项分布与有限总体校正"]
+>   B --> C["双组效应量标准误<br/>标准化均数差抽样方差"]
+>   C --> D["元分析联合标准误<br/>逆方差加权与多研究精度累加"]
 > ```
 
 ---
