@@ -7,9 +7,9 @@ title: "Argument_DeJong_2023_ERR"
 argument_key: "Argument_DeJong_2023_ERR"
 argument_display_title: "Let’s talk evidence – The case for combining inquiry-based and direct instruction"
 argument_kind: "journal-article"
-argument_related_count: 69
-argument_related_level: 6
-argument_related_stars: "💎💎"
+argument_related_count: 70
+argument_related_level: 7
+argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
 journal: "Educational Research Review"
 authors:

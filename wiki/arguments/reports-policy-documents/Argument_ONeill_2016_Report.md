@@ -11,7 +11,7 @@ title: "Argument_ONeill_2016_Report"
 argument_key: "Argument_ONeill_2016_Report"
 argument_display_title: "Charities, philanthropists, policy entrepreneurs, international companies and state schooling in Aotearoa New Zealand"
 argument_kind: "report"
-argument_related_count: 44
+argument_related_count: 48
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dcfce7"
@@ -105,7 +105,7 @@ citation_aliases:
 > [!concept-lens] 阅读透镜
 > - **对象** 新西兰官方慈善登记册收录的 6,059 家教育慈善机构、六个典型案例组织（Pearson、[[Cognition Education]]、[[CORE Education]]、[[Foundation North]]、[[COMET Auckland]]、[[KidsCan]]）及其背后的[[Policy Network|政策网络]]。（pp.19–20, 58–64）
 > - **张力** 公费教育由国家全额出资并举办的法定承诺，与政府主动退缩为部分补贴的现实差距；慈善机构免税地位所享有的公信力，与其巨额资金留存、跨国经商和极低捐赠率之间的反差。（pp.21–25, 46–54）
-> - **贡献** 揭示了教育管理组织利用慈善法漏洞进行避税与经商的运作机理，梳理了知名学者约翰·海蒂（[[John Hattie]]）将公共科研成果转为跨国商业品牌的完整脉络，区分了从公费系统净抽取资金的商业机构与向学校纯投入资源的救济型慈善。（pp.65–76, 134–136）
+> - **贡献** 揭示了教育管理组织利用慈善法漏洞进行避税与经商的运作机理，梳理了知名学者[[John Hattie|约翰·哈蒂]]（John Hattie）将公共科研成果转为跨国商业品牌的完整脉络，区分了从公费系统净抽取资金的商业机构与向学校纯投入资源的救济型慈善。（pp.65–76, 134–136）
 
 ---
 
@@ -249,11 +249,11 @@ citation_aliases:
 > 3. **免税转移利润** 底层商业公司将获得的商业利润，以慈善捐赠的名义免税转给母体信托，规避企业所得税。
 > 4. **留存与内部支出** 母体信托将免税资金留在账上开展金融投资，或用于支付咨询费、高额董事薪酬及个人版税，对外实际发放的公益助学金极少。（pp.47–53, 71–75）
 
-#### 2. 约翰·海蒂将国家科研项目转化为跨国商业品牌
+#### 2. 约翰·哈蒂将国家科研项目转化为跨国商业品牌
 
-在[[Policy Entrepreneur|政策创业者]]中，前奥克兰大学教育学院院长、墨尔本大学教授约翰·海蒂（[[John Hattie]]）是结合学术威望与商业运作的典型代表。海蒂早期依靠公共科研经费开展[[Meta-analysis|元分析]]研究，随后通过参与管理组织运营与商标开发，构建了面向多国的商业网络。
+在[[Policy Entrepreneur|政策创业者]]中，前奥克兰大学教育学院院长、墨尔本大学教授[[John Hattie|约翰·哈蒂]]（John Hattie）是结合学术威望与商业运作的典型代表。哈蒂早期依靠公共科研经费开展[[Meta-analysis|元分析]]研究，随后通过参与管理组织运营与商标开发，构建了面向多国的商业网络。
 
-> [!ref-table] 约翰·海蒂从学术科研走向商业运作的发展阶段
+> [!ref-table] 约翰·哈蒂从学术科研走向商业运作的发展阶段
 > | 发展阶段 | 组织平台与身份 | 业务运作与成果转化 | 政策与商业效应 |
 > |---|---|---|---|
 > | **体制内学术研发（1998–2003）** | 奥克兰大学教育学院院长；主持教育部委托项目 | 主持研发国家教学评估工具（[[Assessment Tools for Teaching and Learning]], asTTle） | 确立教育评价领军学者地位，积累全国教学实证数据。（p.65） |
@@ -261,9 +261,9 @@ citation_aliases:
 > | **推行商标特许（2009–2012）** | 科认知教育核心董事与知识产权源头 | 注册 [[Visible Learning Branding and Global Influences\|Visible Learningplus]] 跨国商标；推出 16 个标准化教师工作坊与认证体系 | 在澳洲、欧美及中东 35 个国家建立排他性商业加盟网络。（pp.66, 78） |
 > | **整合软件与资本（2013–2015）** | 墨尔本大学教授；与商业机构 Ai-Media 达成合作 | 推出 Visible Classroom 软件，对教师课堂录音收费提供反馈；入驻商业出版社 | 联合培生智库发布报告，完成学术、出版、咨询与软件服务的全方位商业转化。（pp.67–69） |
 
-海蒂的学术影响力转化为商业品牌的具体演进路径展现了政策创业中学术、政策与商业相互强化的循环机制：
+哈蒂的学术影响力转化为商业品牌的具体演进路径展现了政策创业中学术、政策与商业相互强化的循环机制：
 
-> [!influence-path]- 约翰·海蒂学术影响力的商业化转化路径
+> [!influence-path]- 约翰·哈蒂学术影响力的商业化转化路径
 > - **理论** 依托大学与国家科研资助完成大规模元分析数据库，确立“可见的学习”理论权威。（p.65）
 > - **政策** 深度嵌入教育部决策网络，将理论模型转化为全国教师专业评价政策。（p.66）
 > - **跨国传播** 授权商业管理组织注册排他性跨国商标，推行标准化研修与学校认证特许。（pp.66, 78）
@@ -271,7 +271,7 @@ citation_aliases:
 
 这一商业运作过程带来了显著的个人经济回报：
 
-> [!table] 表4：科认知教育支付给约翰·海蒂的款项（2010–2015）
+> [!table] 表4：科认知教育支付给约翰·哈蒂的款项（2010–2015）
 > | 财务年度 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 |
 > |---|---|---|---|---|---|---|
 > | **支付金额（新西兰元，NZD）** | 未披露 | 10,000 | 93,322 | 272,133 | 270,559 | 223,439 |
@@ -319,7 +319,7 @@ citation_aliases:
 > | 案例机构 | 组织属性与法律治理 | 核心业务范畴 | 资金规模（2015） | 资本流动与留存特征 | 核心网络连接节点 |
 > |---|---|---|---|---|---|
 > | **Pearson plc** | 跨国上市集团；NZ 由本地公司 Edify 代理 | 标准化测试、数字化教材、Open Ideas 智库出版 | 全球营收 £44.68 亿；NZ 代理商业绩未单列 | 商业利润回流全球股东；基金会慈善支出仅占税前利润 2% | [[Michael Barber\|迈克尔·巴伯]]爵士、全球测试联盟、培生廉价学习基金（PALF） |
-> | **[[Cognition Education]]** | 慈善信托 100% 控股商业咨询有限公司 | 教师研修合同、中东教育出口、Visible Learningplus | 集团营收 NZD 2809 万（峰值 6915 万） | 商业利润免税转入信托；2015 外部捐赠仅 25.1 万（占营收 0.9%） | 约翰·海蒂、教育部评审专家、各大区公立学校校长协会 |
+> | **[[Cognition Education]]** | 慈善信托 100% 控股商业咨询有限公司 | 教师研修合同、中东教育出口、Visible Learningplus | 集团营收 NZD 2809 万（峰值 6915 万） | 商业利润免税转入信托；2015 外部捐赠仅 25.1 万（占营收 0.9%） | 约翰·哈蒂、教育部评审专家、各大区公立学校校长协会 |
 > | **[[CORE Education]]** | 慈善信托全资控股商业有限责任公司 | 数字化学习研发、ULearn 研讨会、[[New Pedagogies for Deep Learning\|NPDL]] 跨国特许 | 集团营收 NZD 2277 万；员工 180 人 | 营收高度依赖政府合同；对外慈善捐赠仅占总收入 1.3% | 德里克·温茅斯、坎特伯雷大学、教育部[[Informationalization\|信息化]]司 |
 > | **[[Foundation North]]** | 依据 1957 年法案设立的永久性社区信托 | 战略性[[Venture Philanthropy\|风险慈善]]、社会影响力投资、MPEI 专项 | 年投资收益 NZD 1.37 亿；净资产 NZD 12.15 亿 | 2010–2015 年均仅将 23.3% 投资收益用于捐赠；76% 留存滚存 | 奥克兰商界领袖、星径项目、社会影响力中心 |
 > | **[[COMET Auckland]]** | 地方政府控制机构（CCO）暨注册慈善信托 | 教育政策倡导、南区技能提升、跨界合作网络构建 | 财政拨款与项目营收约 NZD 89 万 | 几无资金留存；以 20 万议会基础拨款带动 180 万外部政府与慈善配套资助 | 奥克兰市议会、工会代表、毛利部族机构、企业雇主联盟 |
@@ -337,7 +337,7 @@ citation_aliases:
 
 > [!case] 案例一：Pearson plc——跨国教育集团的实效性标准塑造与全球教育商业扩张
 > - **[[Efficacy Framework|实效性框架]]（Efficacy Framework）** 在首席教育顾问迈克尔·巴伯爵士（Sir [[Michael Barber]]）主导下，培生推行[[Efficacy Framework|实效性框架]]与审计体系，要求所有商业产品均出具提升学习成效的证据，将商业测评包装为客观科学法则。（pp.11, 77–81）
-> - **智库思想倡导** 通过 Pearson Open Ideas 丛书资助全球知名学者（包括致谢约翰·海蒂与彼得·希尔），打造权威学术形象，深度介入各国课标与评价制度改革。
+> - **智库思想倡导** 通过 Pearson Open Ideas 丛书资助全球知名学者（包括致谢约翰·哈蒂与彼得·希尔），打造权威学术形象，深度介入各国课标与评价制度改革。
 > - **廉价私立学校投资** 通过培生廉价学习基金（Pearson Affordable Learning Fund, PALF），在加纳与肯尼亚投资营利性私立连锁学校，积极游说将公共教育经费转化为私立代金券。（pp.77–81）
 
 #### 2. 科认知教育坐拥巨额免税结余却极少回馈基层学校
@@ -350,9 +350,9 @@ citation_aliases:
 > - **法人经费属性** 注册慈善信托全资控股的商业咨询有限公司（双层法人架构）
 > - **核心宗旨** 促进教育发展与学术研究，承接新西兰及海外公私办学合同。（pp.88–90）
 
-> [!case] 案例二：Cognition Education——师训资产私有化、海外托管与海蒂品牌经营
+> [!case] 案例二：Cognition Education——师训资产私有化、海外托管与哈蒂品牌经营
 > - **海外业务扩张与收缩** 集团依托原公立师范的人才积累，在 2010 年凭借中东及东南亚公立学校托管合同实现年营业额 6915 万新西兰元的峰值；但随着中东合同调整，2015 年营业额回落至 2809 万。
-> - **Visible Learning 垄断经营** 集团买断海蒂学术成果的商业经营权，将其包装为 Visible Learningplus 商业培训体系，在全球设立排他性授权网点。
+> - **Visible Learning 垄断经营** 集团买断哈蒂学术成果的商业经营权，将其包装为 Visible Learningplus 商业培训体系，在全球设立排他性授权网点。
 > - **极其微薄的公益回馈** 集团长年宣称其促进教育的慈善宗旨，但在 2015 年总收入达 2800 万且留存净资产达 1800 万的情况下，母体信托向外发放的实质性教育资助仅为 25.1 万新西兰元，占集团总收入的 0.9%。（pp.88–93）
 
 > [!table] 表6–8：科认知教育集团财务状况与慈善捐赠演变（2009–2015）
@@ -489,14 +489,14 @@ citation_aliases:
 > [!finding-cards] 核心发现
 > 1. **教育慈善领域贫富极度分化** 在官方登记的 6,059 家教育慈善机构中，前 51 家大型机构集中了绝大部分行业资产，全行业仅 4.5% 的机构主要依靠政府资助，绝大多数基层机构资源匮乏。（pp.45, 58–64）
 > 2. **管理组织借助双层架构避税** 科[[Cognition Education|认知教育]]与[[CORE Education|核心教育]]等管理组织利用信托全资控股商业公司，承接数千万元政府采购合同并积累数百万留存资金，但其实际对外资助仅占年收入的 0.9% 至 1.3%。（pp.71–75, 88–103）
-> 3. **知名学者跨界开展商业运作** 约翰·海蒂（[[John Hattie]]）将公共科研成果、学术声誉、非营利组织职务与商业版税紧密结合，五年间从单一管理组织获取了超过 86 万新西兰元的个人款项。（pp.10, 65–69）
+> 3. **知名学者跨界开展商业运作** [[John Hattie|约翰·哈蒂]]将公共科研成果、学术声誉、非营利组织职务与商业版税紧密结合，五年间从单一管理组织获取了超过 86 万新西兰元的个人款项。（pp.10, 65–69）
 > 4. **大型社区信托偏好资金长期累积** 资产超过 12 亿新西兰元的[[Foundation North|北方基金会]]（Foundation North），年均仅将[[Return on Investment|投资回报]]的 23.3% 用于公益资助，近八成收益被留存用于继续投资，未能充分回应基层教育的紧迫需求。（pp.13–14, 104–115）
 
 > [!stat-cards]- 核心数据
 > - **6,059 所** 新西兰官方登记的教育慈善机构总数，占全行业注册慈善机构三分之一以上。（p.58）
 > - **51 家** 年度收入、支出与总资产同时突破 1000 万新西兰元的大型教育慈善实体数量。（p.63）
 > - **0.9%** 2015 年科认知教育对外实际发放的慈善助学款占其总营业额的微小比例。（p.90）
-> - **$869,453 NZD** 2011–2015 年间科认知教育在财报附注中披露支付给约翰·海蒂个人的顾问费与版税总额。（p.67）
+> - **$869,453 NZD** 2011–2015 年间科认知教育在财报附注中披露支付给约翰·哈蒂个人的顾问费与版税总额。（p.67）
 > - **$12.15 亿 NZD** 北方基金会在 2015 年末积累留存的庞大净资产规模。（p.112）
 > - **$0 ➔ $455 万 NZD** [[KidsCan|儿童之友]]（KidsCan）账面留存净资产在 2007 至 2015 年间实现的快速增长。（p.130）
 
@@ -518,8 +518,8 @@ citation_aliases:
 >
 > *The analysis in this report documents how an increased [[Presence]] of private sector actors is reshaping the ways in which state schooling policy is developed and enacted in classrooms, staffrooms, schools and local communities. It seems fair to suggest that the substance and magnitude of these changes remain largely unremarked in the media and their consequential effects not widely appreciated across civil society.*
 
-> [!citation-card] 约翰·海蒂政策创业与公私边界的无缝融通
-> 海蒂目前全球性的社交网络路径，可以被合理解释为他在公共利益、非营利与营利性政策创业和倡导方面的无缝整合。他的原始学术工作……随后通过《[[Visible Learning|可见的学习]]》图书系列，以及由 [[Cognition Education]] 依据商业特许协议向国际合作伙伴提供的 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 教师研讨会与学校认证体系，被系统地包装、品牌化并实现了商业货币化。（pp.10, 68）
+> [!citation-card] [[John Hattie|约翰·哈蒂]]政策创业与公私边界的无缝融通
+> 哈蒂目前全球性的社交网络路径，可以被合理解释为他在公共利益、非营利与营利性政策创业和倡导方面的无缝整合。他的原始学术工作……随后通过《[[Visible Learning|可见的学习]]》图书系列，以及由 [[Cognition Education]] 依据商业特许协议向国际合作伙伴提供的 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 教师研讨会与学校认证体系，被系统地包装、品牌化并实现了商业货币化。（pp.10, 68）
 >
 > *Hattie’s now global social networking approach might reasonably be described as a seamless fabrication of his public-good, not-for-profit and for-profit policy entrepreneurship and advocacy. His original scholarly work in the university setting has since been packaged, branded and monetised through the Visible Learning book series and Visible Learning Plus programme of teacher workshops and associated school certification offered internationally under licence to various commercial partners by Cognition Education.*
 

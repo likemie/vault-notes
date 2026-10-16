@@ -10,7 +10,7 @@ aliases:
 summary: "研究者、教育实践者与决策者平等介入研究问题提出、方案设计、数据解析与成果转化的全周期协作模式，旨在打破单向线性知识传递并化解实践者沦为被动数据收集客体的体制困境；苏格兰与德国的治理经验证实制度化实践者探究与同侪会商是弥合专长断裂、实现知识共创的关键路径。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"

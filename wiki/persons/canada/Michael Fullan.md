@@ -8,7 +8,7 @@ summary: "加拿大著名教育变革与领导力学者，多伦多大学安大�
 type: person
 nationality: canada
 person_region: "canada"
-person_related_count: 17
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -59,7 +59,7 @@ updated: 2026-10-16
 
 > [!person-profile] 人物档案
 > - **身份位置** 加拿大教育社会学家、教育领导力与[[Theory of Change|变革理论]]家，多伦多大学安大略教育研究院（OISE）荣休教授、前教育学院院长，Michael Fullan Enterprises 首席执行官。
-> - **核心角色** 全球公立教育变革咨询与思想领袖（Thought Leader）核心枢纽；主导设计加拿大安大略省全系统教育改革，创办[[New Pedagogies for Deep Learning|深度学习全球伙伴关系]]（NPDL Global），与约翰·海蒂（[[John Hattie]]）、[[Michael Barber|迈克尔·巴伯]]爵士（[[Michael Barber]]）并列为重塑当代基础教育政策的三大跨国[[Policy Entrepreneur|政策创业者]]。
+> - **核心角色** 全球公立教育变革咨询与思想领袖（Thought Leader）核心枢纽；主导设计加拿大安大略省全系统教育改革，创办[[New Pedagogies for Deep Learning|深度学习全球伙伴关系]]（NPDL Global），与[[John Hattie|约翰·哈蒂]]（John Hattie）、[[Michael Barber|迈克尔·巴伯]]爵士（[[Michael Barber]]）并列为重塑当代基础教育政策的三大跨国[[Policy Entrepreneur|政策创业者]]。
 > - **代表贡献** 开创全系统变革理论框架、动能领导力（Motion Leadership）方法论与[[New Pedagogies for Deep Learning|深度学习新教学法]]（NPDL）6C 素养体系。
 
 > [!citation-card]- 人物定位的关键来源
@@ -124,7 +124,7 @@ updated: 2026-10-16
 
 > [!person-network] 关系网络
 > - **学术与思想合作者** 安迪·哈格里夫斯（Andy Hargreaves） — 共同倡导专业资本（Professional Capital）与协作专业主义；乔安妮·奎因（Joanne Quinn） — 共同创办 [[New Pedagogies for Deep Learning|NPDL]] 并合著核心专著。
-> - **跨国政策思想盟友** [[Michael Barber|迈克尔·巴伯]]爵士（[[Michael Barber]]） — 共同参与跨国咨询网络与培生智库项目；约翰·海蒂（[[John Hattie]]） — 共同被培生智库致谢并同构了专有教学品牌模式。
+> - **跨国政策思想盟友** [[Michael Barber|迈克尔·巴伯]]爵士（[[Michael Barber]]） — 共同参与跨国咨询网络与培生智库项目；[[John Hattie|约翰·哈蒂]] — 共同被培生智库致谢并同构了专有教学品牌模式。
 > - **学术批评者** [[John O'Neill|约翰·奥尼尔]]（[[John O'Neill]]）、[[Stephen Ball|斯蒂芬·鲍尔]]（[[Stephen Ball]]） — 批判其思想领袖光环背后的专有教学法商品化与新自由主义资本合谋。
 > - **代理机构与跨国实体** [[OECD|经合组织]] — 全球政策扩散支持；培生集团（Pearson plc） — 智库丛书资助出版；[[CORE Education|核心教育]]（CORE Education） — 新西兰独家特许代理商。
 

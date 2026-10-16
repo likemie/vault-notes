@@ -11,7 +11,7 @@ subtype: organization
 region: latin-america
 fact_region: "latin-america"
 fact_kind: "organization"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Inter-American Development Bank

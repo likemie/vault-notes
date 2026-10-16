@@ -200,7 +200,7 @@ updated: 2026-10-16
 > [!dev-timeline] 概念演变
 > - **1962 — 市场选择思想的提出** 米尔顿·弗里德曼（Milton Friedman）提出教育券计划，主张以市场竞争和家长选择打破公立教育垄断。
 > - **2000s — 新自由主义政策大扩张** 英美等国大力推广特许学校（charter schools）和学院学校（academies），择校成为主流教育政策。
-> - **2005 — 学校间与校内方差实证分解** [[John Hattie|约翰·哈蒂]]（[[John Hattie]]）在 [[Australian Council for Educational Research|ACER]] 会议报告中基于[[Meta-analysis|元分析]]指出学校间方差仅占 5–10% 而校内教师方差达 30%，实证证明校内变异远大于校际变异，揭示了单纯依赖择校政策提升[[Academic Achievement|学业成就]]的结构性限度（[[Argument_Hattie_2005_ACER|Hattie, 2005, pp. 13–14]]）。
+> - **2005 — 学校间与校内方差实证分解** [[John Hattie|约翰·哈蒂]]（John Hattie）在 [[Australian Council for Educational Research|ACER]] 会议报告中基于[[Meta-analysis|元分析]]指出学校间方差仅占 5–10% 而校内教师方差达 30%，实证证明校内变异远大于校际变异，揭示了单纯依赖择校政策提升[[Academic Achievement|学业成就]]的结构性限度（[[Argument_Hattie_2005_ACER|Hattie, 2005, pp. 13–14]]）。
 > - **2005–2006 — [[OECD|经合组织]]择校[[Performance Indicators|绩效指标]]与准市场治理确立** 经合组织教育理事会在工作规划中确立“质量、公平、择校与成本分担”四大优先议程，依托量化绩效指标将择校机制制度化为跨国教育政策的关键审计构件。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, p. 442)]]
 > - **2009 — 全球新自由主义规约下的择校审计化批判** [[Robert Arnove|阿诺夫]]（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 107, 113]]）从[[World-Systems Theory|世界体系分析]]与批判政治经济学视角，指出择校、教育券与私有化是超国家机构推行的自上而下新自由主义组合拳，批判其将国家退缩为审计者并加剧全球教育商品化分层。
 > - **2010s — 转型国家的教育城镇化变体** 中国推进[[Rural School Consolidation|农村学校撤并]]与县城学校扩张，择校实践与地理迁移、农民市民化合流，演化为“以教促城”的政策实践（[[Argument_Teng_2025_CE|Teng & Wang, 2025, pp. 303–304]]）。

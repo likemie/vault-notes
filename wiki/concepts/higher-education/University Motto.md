@@ -7,10 +7,10 @@ aliases:
 summary: "大学用以表达教育理想和制度身份的凝缩文本，可折射不同文化传统对真理、知识、自由、修身与德行的理解"
 type: concept
 domain: "higher-education"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 10
+related_level: 1
+related_stars: "⭐"
+related_color: "#bfdbfe"
 tags:
 - region/china
 - region/western
@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-10-02
+updated: 2026-10-16
 ---
 
 # University Motto

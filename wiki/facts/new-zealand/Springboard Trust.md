@@ -9,9 +9,9 @@ subtype: organization
 region: "new-zealand"
 fact_region: "new-zealand"
 fact_kind: "organization"
-fact_related_count: 9
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 10
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: "charitable-trust"
 headquarters: "Auckland, New Zealand"

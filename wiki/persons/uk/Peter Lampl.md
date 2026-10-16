@@ -8,7 +8,7 @@ summary: "英国教育慈善家、萨顿信托（Sutton Trust）创始人兼董�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 24
+person_related_count: 25
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"

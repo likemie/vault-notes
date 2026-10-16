@@ -7,7 +7,7 @@ aliases:
 summary: "大众媒介在报道教育事务时惯常套用的一种仪式化与还原论叙事框架，无论实证数据是否平稳，均系统性将国家教育系统描述为处于标准下滑与全面危机之中"
 type: concept
 domain: "sociology-of-education"
-related_count: 22
+related_count: 23
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

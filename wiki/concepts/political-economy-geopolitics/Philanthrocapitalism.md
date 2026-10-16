@@ -7,7 +7,7 @@ aliases:
 summary: "以商业资本逻辑、市场化工具与企业家精神重构社会公益与公共治理的宏观制度范式与意识形态，主张资本主义可天然具备慈善属性；其核心特征在于将国家传统的财政再分配职能转移至免税中介机构与顾问网络，将公共教育等领域转化为投资市场，引发民主问责侵蚀与公共财富逆向流动的批判。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 14
+related_count: 15
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

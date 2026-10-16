@@ -9,7 +9,7 @@ summary: "英国著名教育家与公共政策官员，英国教育捐赠基金�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 30
+person_related_count: 31
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"

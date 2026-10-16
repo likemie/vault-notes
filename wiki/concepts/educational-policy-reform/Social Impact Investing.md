@@ -10,7 +10,7 @@ aliases:
 summary: "指将金融市场的风险投资与私募股权纪律同明确可测量的社会或教育改善目标相结合的投资范式。主要表现为以社会影响力债券为代表的金融衍生合同，以及以高参与度管理介入为特征的风险慈善。在追求财务保值增值的同时，要求以经审计的因果量规考核社会回报；但在教育实践中，不仅驱动了公共财政向私营资本的逆向输送，而且容易与本土弱势社区的文化自治产生剧烈治理冲突。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 17
+related_count: 18
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"

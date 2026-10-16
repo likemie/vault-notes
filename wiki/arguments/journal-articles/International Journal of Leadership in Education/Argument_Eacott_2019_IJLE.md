@@ -94,7 +94,7 @@ citation_aliases:
 > > “作为研究的消费者和生产者，我们更有可能体验到的是‘[[Parallel Monologues\|平行独白]]’”
 > ("what we are more likely to experience, both as consumers and generators of research is '[[Parallel Monologues]]'")(p.774)
 >
-> > “海蒂的作品是新时代的泰勒主义。”
+> > “哈蒂的作品是新时代的泰勒主义。”
 > ("Hattie's work is Taylorism for a new time.")(p.778)
 >
 > > “这不仅仅是提出一个反驳，而是与他人的观点交锋，并在必要时驳斥它们。不是将自己对世界的看法强加于人，而是按照他们的术语（逻辑）参与其中——检验主张的稳健性和内部连贯性，而不是检验其是否与自己的规范性立场相一致。”

@@ -8,7 +8,7 @@ aliases:
 summary: "由 Michael Fullan 联合跨国科技企业与 OECD 于 2012 年发起的专有教学法体系与全球加盟网络，围绕 6C 核心素养与全系统变革工具箱重塑课堂学习，在批判教育社会学中被揭示为跨国资本将公共课程素养包装为排他性商标特许、汲取公立教研财政的典型机制。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"

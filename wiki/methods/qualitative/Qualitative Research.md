@@ -11,7 +11,7 @@ summary: "以解释学与建构主义为认识论基础，在自然情境中通�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 100
+method_related_count: 101
 method_related_level: 10
 method_related_stars: "💎💎💎⭐"
 method_related_color: "#dbeafe"

@@ -8,7 +8,7 @@ aliases:
 summary: "由跨国教育出版巨头培生集团在首席教育顾问 Michael Barber 主导下推出的全球商业产品审计体系，要求所有产品附带量化学习成效证据，被批判教育社会学揭示为跨国资本垄断公共采购标准、构建循证话语门槛的核心治理工具。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -42,6 +42,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Michael Barber]]"
+  - "[[John Hattie]]"
   - "[[Stephen Ball]]"
   - "[[John O'Neill]]"
 related_facts:
@@ -69,7 +70,7 @@ updated: 2026-10-16
 > - **边界** 不等于公共科研机构开展的中立因果实证评估，亦不适用于解释非营利性草根教学改革或无法直接量化的质性育人过程。
 
 > [!citation-card] 培生的实效性审计与智库思想领导力策略
-> 在首席教育顾问迈克尔·巴伯爵士的领导下，培生推行了新的‘实效性’（Efficacy）倡议……该框架要求所有商业产品都必须出具提升学生学习成效的实证依据。与此同时，培生通过其‘开放思想’（Open Ideas）系列智库丛书，资助全球知名学者（包括致谢约翰·海蒂与彼得·希尔），将商业产品包装为无可辩驳的客观科学法则，并在全球范围内积极游说将公共教育经费转化为私立代金券。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 11, 77–81)]]
+> 在首席教育顾问迈克尔·巴伯爵士的领导下，培生推行了新的‘实效性’（Efficacy）倡议……该框架要求所有商业产品都必须出具提升学生学习成效的实证依据。与此同时，培生通过其‘开放思想’（Open Ideas）系列智库丛书，资助全球知名学者（包括致谢[[John Hattie|约翰·哈蒂]]与彼得·希尔），将商业产品包装为无可辩驳的客观科学法则，并在全球范围内积极游说将公共教育经费转化为私立代金券。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 11, 77–81)]]
 >
 > *Under the leadership of Chief Education Adviser Sir Michael Barber, Pearson implemented new initiatives on ‘Efficacy’... The framework requires all commercial products to demonstrate measurable impact on learning outcomes. Meanwhile, through its Open Ideas series, Pearson funded renowned scholars internationally, packaging its products as objective science and lobbying to turn public funding into private vouchers.*
 

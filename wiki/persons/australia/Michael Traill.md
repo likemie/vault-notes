@@ -8,7 +8,7 @@ summary: "澳大利亚前麦格理银行银行家、社会创投（SVA）创会�
 type: person
 nationality: "australia"
 person_region: "australia"
-person_related_count: 21
+person_related_count: 22
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-20
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Michael Traill
