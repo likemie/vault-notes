@@ -58,7 +58,7 @@ related_arguments:
   - "[[Argument_Bates_2017_CognitionEducationTrust]]"
   - "[[Argument_Johnson_2023_CE]]"
 confidence: high
-status: active
+status: stable
 created: "2026-05-23"
 updated: 2026-10-16
 ---
@@ -73,7 +73,7 @@ updated: 2026-10-16
 > Cognition Education（认知教育；前身为 Multi Serve）是伴随 1989 年新西兰《明日学校》（[[Tomorrow's Schools Reforms|Tomorrow's Schools]]）改革而诞生的高校教育后勤承包商与跨国[[Educational Management Organisation|教育管理组织]]（EMO）。该机构横跨慈善信托与营利性商业咨询公司双重实体，核心业务涵盖学校行政承包、教师专业发展、跨国建校咨询以及《[[Visible Learning|可见的学习]]》（[[Visible Learning Branding and Global Influences|Visible Learningplus]]）全球知识产权专营，是新自由主义教育准市场、跨国咨询资本与[[Policy Network|政策网络]]深度交织的代表性枢纽。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 65)]]; [[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 11–12)]]; [[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 30–31)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 1989 年 10 月新西兰推行[[Tomorrow's Schools Reforms|明日学校改革]]，撤销原有区域教育委员会，将原本由公共部门承担的学校工资发放与校车运输等行政后勤职能从教育部剥离，交由新设的自负盈亏教育服务中心承接，Multi Serve Education Trust 由此应运而生。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 11–12)]]
+> - **成立时间 / 创设背景** 1989 年 10 月新西兰推行明日学校改革，撤销原有区域教育委员会，将原本由公共部门承担的学校工资发放与校车运输等行政后勤职能从教育部剥离，交由新设的自负盈亏教育服务中心承接，Multi Serve Education Trust 由此应运而生。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 11–12)]]
 > - **总部地点 / 业务辐射** 总部位于新西兰奥克兰（Auckland），业务辐射跨越新西兰本土、文莱、海湾地区（卡塔尔、阿布扎比）、澳大利亚、英国以及美国等多个国家和地区。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 21–23, 47–48)]]
 > - **法人属性与经费基础** 采用双层法人架构；母实体为免税的慈善信托（Cognition Education Trust），下设全资营利性商业运营子公司（Cognition Education Limited）；收入来源涵盖政府竞标合同、国际咨询服务费、企业并购款项及知识产权特许权使用费（Royalties）。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 66–68)]]
 > - **核心宗旨与法定职责** 机构官方宣称致力于将学习科学（Learning Science）转译为面向学校、社区与政府的专业实践服务，推动全球教育改进；在批判学者视阈下，其实质扮演了将公共教育资产私有化、推动新自由主义教育治理与知识商品化的商业先锋。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 65)]]; [[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 30)]]
@@ -120,10 +120,43 @@ updated: 2026-10-16
 > - **学术纽带与旋转门（学者兼任董事）** 知名学者[[John Hattie|约翰·哈蒂]]兼任 Cognition Education Trust 理事会董事，深度参与组织战略，同时通过知识产权授权合同从商业实体获取巨额版税与服务酬金。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 31)]]
 > - **全球特许授权网络（Licensor Network）** 摒弃重资产海外自建分公司模式，与澳大利亚麦克米兰（Macmillan）、英国 Osiris Educational、James Nottingham Associates 及美国考文出版社（Corwin Press）缔结区域排他性分销授权同盟。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, p. 60)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 67)]]
 
-> [!pathways] 业务运行机制
+> [!pathways]- 业务运行机制
 > - **双层资本流转与税负[[Screening Off|屏蔽]]** 营利子公司 Limited 将运营利润以大额捐赠形式回流给唯一的慈善股东 Trust，凭借新西兰慈善信托免税政策大幅冲抵企业所得税，甚至连续多年实现账面零税负。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 71–73)]]
 > - **从行政外包到知识商品化** 早期依靠承接国家教育部行政职能维持现金流，后期将高校学术科研成果重新封装为模块化、标准化的认证培训包，通过高利润知识产权许可费替代低毛利的现场劳务。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 58–61)]]
 > - **编织河道风险对冲策略** 面对跨国大合同因政局变动而剧烈波动的脆弱性，放弃押注单一大河道，建立由政府联合体（如 Te Toi Tupu）、数学项目、原住民地区干预与海外小额咨询构成的多节点分散组合。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 55–63)]]
+
+> [!logic-map]- 组织治理与双层资本运作机制
+> ```mermaid
+> flowchart LR
+>     subgraph NonProfit["非营利控股实体"]
+>         T["Cognition Education Trust<br/>（免税慈善信托）"]
+>         B["信托理事会<br/>（学者 John Hattie 任董事）"]
+>         T --- B
+>     end
+>     subgraph ForProfit["营利性运营子公司"]
+>         L["Cognition Education Limited<br/>（全资商业运营公司）"]
+>         V["Visible Learningplus 事业部<br/>（VL 知识产权专营与变现）"]
+>         L --- V
+>     end
+>     subgraph Markets["业务与营收来源"]
+>         M1["新西兰本土行政承包与后勤"]
+>         M2["海湾与国际学校建校咨询"]
+>         M3["VL 模块化培训包与认证学校授权"]
+>         M1 & M2 & M3 --> L
+>     end
+>     subgraph Distribution["资本流转与利益分配"]
+>         D1["第三方版税与顾问酬金<br/>（5年累计向 Hattie 支付超 86.9 万新西兰元）"]
+>         D2["大额内部捐款冲抵企业所得税<br/>（实现商业实体应税利润清零）"]
+>         D3["极低实际慈善支出<br/>（反哺公共教育仅占总营收 0.9%）"]
+>         V --> D1
+>         L --> D2 --> T
+>         T --> D3
+>     end
+>     subgraph Buyer["跨国并购与全球分销"]
+>         CP["美国考文出版社（Corwin Press）<br/>（2018年全面收购 VLplus 全球专营权）"]
+>         V -->|"独家专营权转让"| CP
+>     end
+> ```
 
 ---
 
@@ -141,7 +174,7 @@ updated: 2026-10-16
 
 > [!indicators] 业务规模与辐射范围
 > - **本土市场垄断力** 长期掌控新西兰最大的中小学校车网络与工资清算业务，被学界定性为新西兰本土最大的[[Educational Management Organisation|教育管理组织]]（EMO）。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 65)]]
-> - **跨国[[Policy Network|政策网络]]节点** 作为新西兰教育服务业对外输出的旗舰，深度嵌入英联邦、海湾合作委员会国家及 [[OECD]] 成员国的教育决策链条。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 35–48)]]
+> - **跨国[[Policy Network|政策网络]]节点** 作为新西兰教育服务业对外输出的旗舰，深度嵌入英联邦、海湾合作委员会国家及[[OECD|经合组织]]（OECD）成员国的教育决策链条。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 35–48)]]
 > - **知识标准化推手** 推动 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 覆盖欧美数千所学校，成为[[Global Education Reform Movement|全球教育改革运动]]（GERM）中教师效能标准化评定的重要推手。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 24–25)]]
 
 > [!stat-cards] 核心规模与财务审计数据
@@ -169,8 +202,6 @@ updated: 2026-10-16
 
 ## 关键引用
 
-本条目所依托的组织实证档案、审计调查与批判性文献关键引文如下。
-
 > [!citation-card] 慈善信托架构下的商业免税与公共利益背离
 > 在 2012 至 2014 年间，向 Trust 支付的捐款消除了 Cognition Education Limited 及其子公司的应税收入……2015 年，Trust 实际分配给慈善受资助者的款项仅有 25.1 万新西兰元，只占该集团总营收的 0.9%。该组织是否仍应被界定为服务于公共利益的免税慈善信托，面临着严重的学术与政策拷问。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 71–73)]]
 >
@@ -190,8 +221,6 @@ updated: 2026-10-16
 
 ## 相关研究
 
-本 vault 中针对 Cognition Education 组织史、治理结构与商业专营展开实证追踪与批判解构的核心文献如下。
-
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Bates_2017_CognitionEducationTrust|Bates (2017)]] — 详尽梳理 Cognition Education 从 1989 年 Multi Serve 建立、中东建校扩张、引入 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 到编织河道模式转型的官方受托组织史专著。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统审计新西兰学校市场化生态的研究报告，深度解剖 Cognition Group 慈善信托与营利公司双层架构中的税负消除策略与 0.9% 公益支出失衡问题（pp. 65–73）。
@@ -201,9 +230,7 @@ updated: 2026-10-16
 
 ## 条目关联
 
-Cognition Education 在新西兰宏观政策改革、[[International Education|国际教育]]咨询网络、分析方法与学术人物网络中的关联图谱如下。
-
-> [!entry-map]
+> [!entry-map] 机构关联网络
 >
 > | 条目 | 类型 | 关联方向 | 说明 |
 > |:-----|:-----|:---------|:-----|
