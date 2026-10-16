@@ -5,6 +5,10 @@
       "path": "wiki/arguments/journal-articles/New Zealand Journal of Educational Studies/Argument_Snook_2009_NZJES.md"
     },
     {
+      "basename": "Jacob S. Hacker",
+      "path": "wiki/persons/us/Jacob S. Hacker.md"
+    },
+    {
       "basename": "Recontextualization",
       "path": "wiki/concepts/comparative-education/Recontextualization.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "World Bank",
       "path": "wiki/facts/global/World Bank.md"
-    },
-    {
-      "basename": "Learning Crisis",
-      "path": "wiki/concepts/educational-policy-reform/Learning Crisis.md"
     }
   ],
   "omittedPaths": [],

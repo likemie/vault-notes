@@ -1,14 +1,14 @@
 ---
-title: Professional Judgment
+title: c
 aliases:
   - 专业判断
   - 专业判断力
-summary: "教师在复杂、非线性的教学情境中整合研究证据、伦理标准、教育学原则与实践经验做出决策的核心专业能力，是 EIP 多源整合的枢纽与抵御技术官僚主义去专业化的关键防线。"
+summary: 教师在复杂、非线性的教学情境中整合研究证据、伦理标准、教育学原则与实践经验做出决策的核心专业能力，是 EIP 多源整合的枢纽与抵御技术官僚主义去专业化的关键防线。
 type: concept
-domain: "educational-policy-reform"
+domain: educational-policy-reform
 related_count: 82
 related_level: 8
-related_stars: "💎💎⭐⭐"
+related_stars: 💎💎⭐⭐
 related_color: "#ddd6fe"
 tags:
   - professional-judgment
@@ -107,7 +107,7 @@ related_instruments:
   - "[[PRISMA]]"
 confidence: high
 status: completed
-created: "2026-05-03"
+created: 2026-05-03
 updated: 2026-10-16
 ---
 

@@ -11,9 +11,9 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 28
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 32
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
 period: "1985–1989"
 initiator_organization: 田纳西州教育局（Tennessee Department of Education）
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Counterfactual]]"
   - "[[Visible Learning]]"
+  - "[[Innovation Hub]]"
   - "[[Heterogeneity]]"
   - "[[Individualised Instruction]]"
   - "[[Evidence-Based Education]]"
@@ -52,16 +53,19 @@ related_methods:
   - "[[Meta-meta-analysis]]"
 related_persons:
   - "[[Dylan Wiliam]]"
+  - "[[John Hattie]]"
 related_facts:
   - "[[California Class Size Reduction 1996]]"
+  - "[[Picking Up the Pace]]"
 related_arguments:
   - "[[Argument_Wiliam_2019_ERE]]"
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Downey_2016_SoE]]"
+  - "[[Argument_Hattie_2010_NZJES]]"
 confidence: medium
 status: draft
 created: 2026-05-01
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Tennessee STAR Project 1985-1989
@@ -109,7 +113,7 @@ updated: 2026-10-16
 
 STAR 项目经历了从现场严格实验干预到常态化长期追踪的完整阶段演变。
 
-> [!dev-timeline]- 项目推进历程
+> [!dev-timeline] 项目推进历程
 > - **1985–1986 — 方案启动与基线双向[[Random Assignment\|随机分配]]** 幼儿园阶段正式启动，参与小学的初入学儿童与指派教师被双向随机分配至三组。基线检验显示三组学生在家庭经济背景、初始认知水平上完全均衡，教师在学历与教龄上亦无系统偏差。[[Argument_Wiliam_2019_ERE\|(Wiliam, 2019, p. 5)]]
 > - **1986–1989 — 纵向干预推进与学业优势显现** 试验班级随年级晋升连续干预至三年级。至二年级末，小班学生的[[Academic Achievement\|学业成就]]即已全面领先常规大班约 3 个月学习进度，少数族裔与贫困家庭儿童的获益幅度达到白人与中产同伴的两倍。[[Argument_Wiliam_2019_ERE\|(Wiliam, 2019, p. 6)]]
 > - **1989–至今 — 常规班回归与长期效应追踪（LAST / 跨学段追踪）** 自四年级起所有受试学生全部回归常态规模大班。后续[[Cohort Study\|追踪研究]]（Project Challenge 与 LAST 项目）证实，早期小班经历对学生的初中成绩、大学入学考试（ACT/SAT）选考率及高中毕业率产生了长达十余年的显著正向沉淀（Levin et al., 2007）。
@@ -176,12 +180,13 @@ STAR 项目的评估不仅采集了干预期间的[[Academic Achievement|学业�
 > > [!axis] [[Meta-analysis\|元分析]][[Effect Size\|效应量]]合成争端（Snook et al. 反驳 Hattie）
 > > 围绕综合效应量与原始强因果证据之间的矛盾展开的方法学论战。[[Argument_Snook_2009_NZJES\|(Snook et al., 2009, pp. 100–101)]]
 > >
-> > - **[[Visible Learning\|可见的学习]]低估批判（Snook 视角）** Hattie 在元分析中将班级规模评定为 $d \approx 0.20$ 的微弱次要因素；Snook 等学者指出，粗粒度的[[Meta-meta-analysis\|二阶元分析]]抹杀了 STAR 这类极高质量随机双盲实验所展示的 $d = 0.62–0.66$ 的真实强因果效应，暴露出距离原始研究过远的[[Meta-analysis\|元分析]]的合成失真。
-> > - **均值统计与[[Heterogeneity\|异质性]]抗辩（Hattie 回应）** Hattie 辩护称元分析旨在呈现数百项研究的跨情境平均规律，单列 STAR 的超大效应量属于选择性引用，忽视了在师资与教学法未变时大范围缩减班级规模普遍面临的低产出窘境。
+> > - **[[Visible Learning\|可见的学习]]低估批判（Snook 视角）** [[John Hattie|约翰·哈蒂]]（John Hattie）在元分析中将班级规模评定为 $d \approx 0.20$ 的中低效应，并设定 $d = 0.40$ 的“[[Innovation Hub|创新枢纽]]点”阈值，导致班级规模被政策界轻率贬低；Snook 等学者反驳指出，粗粒度的[[Meta-meta-analysis|二阶元分析]]抹杀了 STAR 这类极高质量随机对照实验所展示的 $d = 0.62–0.66$（相当于提升逾 24 个百分位点、跃升近一整年学力）的真实强因果效应。此外，格拉斯与史密斯（Glass & Smith, 1978, 1979）早已证实，实验控制越严格的研究其小班优势斜率越陡峭，而控制粗糙的研究则呈现平缓曲线；哈蒂将大量粗糙研究与大学阶梯教室数据机械平均，制造了严重的合成失真。[[Argument_Snook_2009_NZJES\|(Snook et al., 2009, pp. 100–101)]]
+> > - **均值统计与[[Heterogeneity\|异质性]]抗辩（Hattie 回应）** Hattie 辩护称元分析旨在呈现数百项研究的跨情境平均规律，单列 STAR 的超大效应量属于选择性引用，忽视了在师资与教学法未变时大范围缩减班级规模普遍面临的高昂成本与低产出窘境。[[Argument_Hattie_2010_NZJES\|(Hattie, 2010, p. 90)]]
 >
-> [!lessons] 经验教训与启示
-> - **政策推广必须考量要素供给弹性** 缩减班级规模（CSR）不是单纯的物理空间再分配，其成败高度受制于劳动力市场中合格合格教师的供给存量。脱离教师质量的盲目扩班，极易重蹈加州政策失灵的覆辙。[[Argument_Wiliam_2019_ERE\|(Wiliam, 2019, p. 7)]]
-> - **班级空间缩编必须联动教学法转型** 若教师在 15 人的小班中依然机械沿用面向 30 人大班的单一讲授法，小班的师生互动潜力便无法激活；必须同步为教师配备针对性的小组协作与[[Individualised Instruction\|个别化教学]]专业发展培训。
+> [!lessons]- 经验教训与启示
+> 1. **政策推广必须考量要素供给弹性** 缩减班级规模（CSR）不是单纯的物理空间再分配，其成败高度受制于劳动力市场中合格教师的供给存量。脱离教师质量的盲目扩班，极易重蹈加州政策失灵的覆辙。[[Argument_Wiliam_2019_ERE\|(Wiliam, 2019, p. 7)]]
+> 2. **班级空间缩编必须联动教学法转型** 若教师在 15 人的小班中依然机械沿用面向 30 人大班的单一讲授法，小班的师生互动潜力便无法激活；必须同步为教师配备针对性的小组协作与[[Individualised Instruction\|个别化教学]]专业发展培训。
+> 3. **防范元分析平均值掩盖非线性阈值红利** 不能以跨学段、跨学科的全局平均效应量（$d \approx 0.20$）直接否定低年级起步阶段及弱势族群面临的超常补偿红利（$d > 0.60$）。
 
 ---
 
@@ -199,3 +204,5 @@ STAR 项目的评估不仅采集了干预期间的[[Academic Achievement|学业�
 > | [[Visible Learning]] | Concept | Snook 等学者以 STAR 项目的强[[Effect Size\|效应量]]为武器，深度质疑 Hattie 对班级规模的[[Meta-analysis\|元分析]]评级。 |
 > | [[Effect Size]] | Concept | STAR 的大效应量（0.62–0.66）与跨研究综合均值（约 0.20）的张力构成了效应量方法论辩论的名篇。 |
 > | [[Programme Fidelity vs Adaptation]] | Concept | 真实政策实施中家长施压调班与教师资质稀释体现了干预依从度与本土适应的冲突。 |
+> | [[Picking Up the Pace]] | Fact (Program) | 新西兰本土小学低段类似小班干预，印证了小班化与教学法革新协同增益的机制。 |
+> | [[Argument_Hattie_2010_NZJES\|Hattie (2010)]] | Argument | [[John Hattie\|哈蒂]]在第二回合辩论中对 Snook 就 STAR 项目元分析效应量低估批判的回应与均值辩护。 |
