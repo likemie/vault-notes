@@ -82,7 +82,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-13
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Jürgen Habermas
@@ -178,7 +178,7 @@ updated: 2026-10-16
 > - **国家能力、公共技术供给与政治[[Legitimation Crisis|合法化危机]]（政治经济学与技术政策路径）**
 >   [[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska, 2025]]）在构建[[Technological Republic|技术共和国]]理论时，运用哈贝马斯的“合法化危机”分析现代民主政体的治理公信力：民主国家的合法性并非仅凭抽象选举程序维系，而是根本上取决于能否为公民提供安全、医疗与经济繁荣；当关键公共部门因体制排斥沦为[[Innovation Desert|创新荒漠]]、前沿技术红利无法转化为公共治理效能时，政权将面临深层的合法化危机。
 > - **合法化危机与现代教育评价的技术主义批判（政策社会学路径）**
->   [[Klaus Nielsen|克劳斯·尼尔森]]（[[Argument_Nielsen_2021_IRTP|Nielsen & Klitmøller, 2021b]]）等学者将哈贝马斯的合法化危机与舍恩的[[Technical Rationality|技术理性]]结合，深刻解构了[[John Hattie|约翰·哈蒂]]《[[Visible Learning|可见的学习]]》等量化循证模式在全球风靡的机制：此类模式的盛行在于其高度技术化的指标包裹精准满足了现代学校系统在面对公众问责与财政紧缩时的制度合法化替代需求。
+>   [[Klaus Nielsen|克劳斯·尼尔森]]与约恩·克利特默勒（[[Argument_Nielsen_2021_IRTP|Nielsen & Klitmøller, 2021b]]）结合哈贝马斯的合法化危机理论与舍恩的[[Technical Rationality|技术理性]]，深刻解构了[[John Hattie|约翰·哈蒂]]《[[Visible Learning|可见的学习]]》在丹麦 2014 年教改中被奉为圭臬的深层政治经济根源：学校作为横跨系统资本积累（人力资本再生产）与生活世界交往再生产（社会化与人格养成）的特殊场域，在面对财政紧缩、教师劳工抗争与 PISA 危机时天然爆发结构性合法化赤字；教育行政系统狂热采纳高度技术化的循证指标与效应量排名，本质上是将不可通约的政治价值冲突压缩为去情境化的客观技术手段，以技术理性构建规避政治责任的制度防御掩体。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 84–87)]]
 > - **交往理性与[[Emancipatory Action Research|批判性行动研究]]（教学与课程实践路径）**
 >   [[Stephen Kemmis|斯蒂芬·凯米斯]]将哈贝马斯的交往行动与[[Ideal Speech Situation|理想言说情境]]直接转化为[[Emancipatory Action Research|解放性行动研究]]的核心纲领：赋权教师与学生建立无等级的协商对话空间，反抗外部官僚指标对教学生活世界的侵蚀。
 

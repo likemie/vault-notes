@@ -150,7 +150,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-13
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Positivism
@@ -378,6 +378,7 @@ updated: 2026-10-16
 > - **1990 年代 — 历史维度流失与“[[Historical Amnesia|历史健忘症]]”诊断** 卡扎米亚斯（[[Argument_Kazamias_2009_HistoricalReflections|Kazamias, 2009a]]）考证指出，实证唯方法论主义长期霸权导致学科历史论文跌破 5%，使比较教育学陷入严重的“历史健忘症”（Historical Amnesia），切断了与制度源流的活态联系；卡扎米亚斯力倡复兴历史假说检验以重建历史与科学的综合。[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 155–156)]]
 > - **2000–2003 年 — 法定实证主义（Statutory Positivism）垄断尝试与后实证审议纠偏** 美国国会通过《[[Reading Excellence Act|卓越阅读法]]》（REA）与《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）试图以成文法形式将实证主义假设检验与[[Randomised Controlled Trials|随机对照试验]]确立为国家唯一科研标准，甚至在卡斯尔草案（H.R. 4875）中试图贬低[[Qualitative Research|质性研究]]；[[National Research Council|国家研究委员会]]（NRC）发布《教育科学研究》（SRE）确立跨方法六大原则，并在国会听证中捍卫探究方法随问题而定的[[Postpositivism|后实证主义]]常态科学观，最终在《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA 2002）中扭转了法定实证主义的方法清单垄断。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 31–36)]]
 > - **21 世纪 — 跨国治理量化惯性与[[Evidence-Based Education\|循证教育]]新实证主义回潮** 在全球教育治理驱动下，实证量化模式在 [[IEA]] 测评与 [[OECD]] [[PISA]] 中展现出顽强的制度惯性；以 [[Randomised Controlled Trials\|RCT]] 黄金法则和[[Meta-analysis\|元分析]]为代表的“新实证主义”在循证教育中强势复兴，并引发学界对数据霸权与教学[[Ontology\|本体论]]抽空的深刻反思。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024)]]；[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 69)]]
+> - **2021 年 — 证据合成中的无意识实证主义理论与合法化危机防御机制** [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] 结合舍恩与哈贝马斯的批判理论，深刻解构当代[[Evidence-Based Education|循证教育]]巨制《[[Visible Learning|可见的学习]]》背后的实证主义内核；揭示哈蒂虽标榜纯粹中立的数据测量，其实质却受制于一套未明说的“无意识实证主义理论”（Unconscious Theory），将教学切片为去情境的自变量与因变量零件；指出行政官僚采纳这一实证模式，本质上是将其作为国家教育改革遭遇政治合法化危机时的工具掩体。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 79–83, 86–89)]]
 > - **2020 年代 — 狐狸型工程实证认识论对宏大教条与奢侈信念的重构** 卡普与扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025]]）在《[[Technological Republic|技术共和国]]》中提出“极致狐狸”工程实证论，将经验探究从科层合规与宏大[[Determinism|决定论]]中解放，确立以客观物理运行与消减真实世界苦难（减少暴力、疾病与教育赤字）为唯一检验尺度的工程实证主义范式，破除脱离实战后果的奢侈信念与[[Performativity|表演性]]道德主义。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch15|(Ch. 15, pp. 165–178)]]
 
 ---
@@ -464,6 +465,7 @@ updated: 2026-10-16
 > - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 剖析比较教育两百年的四代论述，批判 1960 年代的科学一元论与方法论主义，借 Carnoy（1983）揭示实证主义的意识形态借口性质，并诊断[[Historical Amnesia|历史健忘症]]。
 > - [[Argument_Sandoval_2005_SE\|Sandoval (2005)]] — 揭示中小学科学教育深受教条实证主义影响，呼吁突破[[Formal Epistemology|形式认识论]]转向[[Practical Epistemology|实践认识论]]。
 > - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis and Rowe (2024)]] — 剖析当代[[Evidence-Based Education|循证教育]]狂热标榜的实证主义科学[[Discourse|话语]]，揭示将教学质量简化为[[Meta-analysis|元分析]][[Effect Size|效应量]]对微观教学[[Ontology|本体论]]的抽空。
+> - [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] — 运用舍恩与哈贝马斯的批判理论，解构约翰·哈蒂《可见的学习》背后的实证主义与“无意识理论”内核，揭示其实证手段-目的闭环如何将教学异化为流水线，并充当现代国家规避教育合法化危机的技术工具（pp. 79–83, 86–89）。
 > - [[Argument_Eisenhart_Towne_2003_ER|Eisenhart and Towne (2003)]] — 系统考证 2000–2003 年美国联邦立法中法定实证主义与后实证科学原则的历史争鸣。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska (2025, Ch. 14–15)]] — 阐述“极致狐狸”工程实证[[Epistemology|认识论]]，以客观物理运行与解决公共物理苦难为裁判，解构刺猬型教条与奢侈信念。
 

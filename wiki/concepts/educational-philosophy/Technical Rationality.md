@@ -133,7 +133,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-03
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Technical Rationality
@@ -313,6 +313,7 @@ updated: 2026-10-16
 > - **2019 — 数字化学校监测中技术理性修辞的批判性解构** [[Argument_Hartong_Forschler_2019_BDS|Hartong and Förschler (2019)]] 展开美德跨国[[Comparative Case Study|比较案例研究]]，揭示全域监测系统中自动化即时反馈回路的技术理性修辞如何被即兴试错烹饪、算法选择性与五维做数据张力深刻击碎。
 > - **2019 — 德语区学校改进反思新治理调控工具的技术理性成效缺失** 马尼蒂乌斯与范霍尔特（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019]]）系统审视德语区二十年新治理改革，指出基于全域测评回传与外部督导的技术理性假定在单体学校遭遇成效缺失，重申教育改进不能依赖机械数据灌输。
 > - **2020 — [[Navigational Framework for Educational Researchers|政策导航框架]]对单一黄金标准的技术理性批判** 塞佩尔（[[Argument_Serpell_2020_EducPsychol|Serpell, 2020]]）基于国会立法实务，全面反思规制型进路与单一实验金标准在宏观治理中的方法论脱节，呼吁转向考量地方情境的发展型政策进路（Developmental Approach）。[[Argument_Serpell_2020_EducPsychol|(Serpell, 2020, pp. 41–42)]]
+> - **2021 — 证据合成中的技术理性解构与合法化危机防御机制** [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] 结合舍恩与哈贝马斯的理论，系统解构[[John Hattie|约翰·哈蒂]]《[[Visible Learning|可见的学习]]》背后的技术理性内核，揭示其如何将复杂动态的课堂简化为孤立行为主义变量与去情境化的手段-目的因果链条；确证教育行政系统引入这一闭合模型，实质上是将技术理性作为防御丹麦 2014 年公立学校改革引发的[[Legitimation Crisis|合法化危机]]的工具掩体。
 > - **2022 — 教师教育[[Evidence Era|证据时代]]的[[Epistemological Break|认识论断裂]]与[[Rationalized Myth|合理化神话]]** [[Argument_Helgetun_2022_JEdPolicy|Helgetun and Menter (2022)]] 揭示技术理性在当代政策中演进为主导性合理化神话，通过自上而下的[[Policy-Based Evidence-Making|逆向证据生产]]（PBEM）维系国家对教师教育准入的集权控制。
 > - **2022 — [[Quality Use of Research Evidence Framework|QURE]] 框架对“证据自身发声”技术理性迷误的跨领域诊断** [[Argument_Rickinson_2022_EducRes|Rickinson et al. (2022a)]] 基于跨卫生、教育、社会关照与公共政策的[[Systematic Review|系统综述]]，诊断循证运动中技术理性的核心致命伤在于假设“证据会自行发声”，提出以适切证据与深思熟虑参与构成的 QURE 框架，系统瓦解单向供给迷思。
 
@@ -332,6 +333,7 @@ updated: 2026-10-16
 > | [[Argument_Hartong_Forschler_2019_BDS\|Hartong and Förschler (2019, pp. 4–5, 10)]] | 美国[[Massachusetts Department of Elementary and Secondary Education\|马萨诸塞州中小学教育部]]（DESE）、德国汉堡市学校与职业教育局（BSB）及[[Institute for Educational Monitoring and Quality Improvement\|汉堡教育监测与质量发展研究所]]（IfBQ） | 跨国[[Comparative Case Study\|比较案例研究]]与半结构化专家访谈（16 场 / 20 位官员） | 监测基础设施自动化回路修辞与实际行政数据实践之间的断裂 | 受访官员一致证实系统并非线性自动化回路，而是充斥着即兴试错烹饪、检索代码选择性过滤与多方政治妥协；算法次级表象重塑了治理能见度 | 质性深度饱和 | 从批判性数据研究视阈证伪了教育数字化监测中的技术理性中立神话 |
 > | [[Argument_Edmondson_2005_EPAA\|Edmondson (2005, pp. 4–10)]] | 美国联邦立法草案（H.R. 2614 与 P.L. 105-277）、国会听证会实录及逾 10 万名教师抗议公函 | 批判性政策[[Documentary Analysis\|文献分析]]与话语溯源 | 技术理性科学定义演变、铁三角利益同盟与基层教师[[Professional Judgment\|专业判断]]受抑程度 | 证实国会以科学客观性修辞排他性界定拼读与实验[[Paradigm\|范式]]，规避十万名教师请愿并赋权政商出版集团垄断 | 质性政策文本饱和分析 | 揭示技术理性在宏观立法中充当封闭次政府寡头利益掩护机制的深层政治属性 |
 > | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, p. 9)]] | 德语区全域学校系统与新治理调控工具（[[Vergleichsarbeiten\|VERA]]、[[School Inspection\|外部学校督导]]） | [[Literature Review\|文献综述]]与治理实证评估 | 监测数据回传对微观教学与单体学校改进的有效性 | 外部督导与全域统考的数据回传在单体学校普遍缺乏显著的改进成效（mangelnde Effekte） | 质性综述确证 | 确证技术理性闭合反馈假定在单体学校微观运作中的因果失效，击碎数据倒逼改进神话 |
+| [[Argument_Nielsen_2021_IRTP\|Nielsen and Klitmøller (2021b, pp. 78–87)]] | 丹麦公立学校（Folkeskole）2014 年改革与约翰·哈蒂《可见的学习》合成体系 | 批判理论文献考证与丹麦教改案例剖析 | 行为主义变量还原、家庭背景（SES）剥离、手段-目的因果闭环与合法化危机 | 确证《可见的学习》将课堂动态还原为 138 个孤立变量并设定 0.40 机械分界线，消解师生生活世界的主体性；揭示行政系统将其采纳为平息财政紧缩与劳工冲突的技术理性防御掩体 | 质性深度案例考证与概念批判 | 揭示技术理性在教育证据合成与政策采纳中充当规避政治合法化危机工具的因果机制 |
 
 ---
 
@@ -365,6 +367,7 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] — 运用舍恩与哈贝马斯的批判理论，系统解构[[Visible Learning|可见的学习]]的技术理性内核及其行为主义谱系，揭示其在丹麦 2014 年教改中充当合法化危机防御工具的机制（pp. 78–87）。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] — 历史解构[[OECD|经合组织]]教育政策转向，揭示技术官僚理性如何以投入产出效率与数字测评遮蔽教育目的哲学辩论（pp. 441–448）。
 > - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 系统[[Falsification|证伪]]“科学研究直接驱动政策”的技术理性线性工程假说，提出证据形态随政策生命周期演变的三阶段权变模型，揭示科学研究、专业经验与政治价值三元共生的现实因果机制。（pp. 1–3, 18–19）
 > - [[Argument_Hartong_Forschler_2019_BDS|Hartong and Förschler (2019)]] — 跨国实证解构州级教育监测的技术基础设施，批判自动化即时反馈回路的技术理性修辞，揭示试错烹饪、算法选择性与五维做数据张力。
@@ -376,8 +379,7 @@ updated: 2026-10-16
 > - [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] — 剖析美国《[[Reading Excellence Act|卓越阅读法案]]》立法中的技术理性规制机制，揭示法定“[[Scientifically Based Research|科学本位研究]]”如何剥夺教师专业判断并充当政商铁三角的利益掩护工具。
 > - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 审视德语区新治理调控工具（全域统考 [[Vergleichsarbeiten|VERA]]、学校外部督导）的技术理性成效缺失，揭示数据自动倒逼改进假说的破产与理论-实践困境重现。（p. 9）
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 剖析 20 世纪 50–60 年代国际机构推行普适社会技术（教育规划、课程）的技术理性机制，揭示其如何塑造中立客观专家形象并去政治化掩盖主权国家内部冲突（p. 345）。
-> - Nielsen & Klitmøller (2021) — 运用 Schön 和 Habermas 的[[Critical Theory|批判理论]]，系统剖析 [[Visible Learning]] 的技术理性内核及其行为主义理论谱系。
-> - Schön (1983) — 奠基性著作《[[Reflexivity|反思性]]实践者》，系统界定技术理性并阐明反思性实践作为专业[[Epistemology|认识论]]的替代方案。
-> - Habermas (1976) — 阐明技术理性作为晚期资本主义治理媒介对生活世界的侵蚀与[[Legitimation Crisis|合法化危机]]生成机制。
+> - [[Donald A. Schön|Schön (1983)]] — 奠基性著作《[[Reflexivity|反思性]]实践者》，系统界定技术理性并阐明反思性实践作为专业[[Epistemology|认识论]]的替代方案。
+> - [[Jürgen Habermas|Habermas (1976)]] — 阐明技术理性作为晚期资本主义治理媒介对生活世界的侵蚀与[[Legitimation Crisis|合法化危机]]生成机制。
 
 

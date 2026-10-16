@@ -274,6 +274,7 @@ updated: 2026-10-17
 > - [[Argument_Golovchin_2019_ESC\|Golovchin, 2019]] — 变差系数（56.87%）与极端离散度检验：解构 =0.40$ 基准有效性，警示脱离教师地位与生源条件的机械实证排名风险。
 > - [[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022]] — 审视英国教育政策将 Hattie 列为官方认可证据来源的治理效应。
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024]] — 揭示北欧五国政策咨询网络在法定规制阶段对 Hattie 等学术明星的海量引文过滤。
+> - [[Argument_Nielsen_2021_IRTP\|Nielsen & Klitmøller, 2021b]] — 从批判理论视角剖析 Hattie 理论内核的实证主义技术理性，揭示其流行实质在于化解晚期现代教育系统的合法化危机。
 
 ---
 

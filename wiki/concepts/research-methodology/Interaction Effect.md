@@ -50,7 +50,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: active
 created: 2026-07-12
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Interaction Effect
@@ -122,6 +122,9 @@ updated: 2026-10-16
 > [!case] 数字化仿真微世界中交互探索与即时解释的交互
 > 在物理电路探究模拟中，单纯让学生操作虚拟仪表（单纯交互）或单纯阅读原理解释（单纯讲授）的效果均有限。Adams et al. 与 Wieman et al. 的实验揭示出操作性交互与即时认知反馈的强交互作用：当直接解释被精准嵌入在学生操纵仿真参数产生疑问的瞬间时，学生的定性概念掌握产生了显著飞跃（[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, pp. 8–9]]）。这表明交互并非外在界面的机械点击，而是学生内部认知结构与外部支架动态响应的深度耦合。
 
+> [!case] 循证证据合成中抹杀交互效应的复杂性简化缺陷
+> 约翰·哈蒂（John Hattie）在《[[Visible Learning|可见的学习]]》中构建的单一效应量排行榜，被批评为系统性抹杀交互效应的典型反面案例（[[Argument_Nielsen_2021_IRTP|Nielsen & Klitmøller, 2021b, p. 80]]）。哈蒂假定各个教学干预（如家庭作业、班级规模、教学反馈）能直接、独立地导致特定的学业增益，将其按孤立效应量大小排队；然而在真实课堂中，教学反馈的成效高度依赖于师生关系、反馈形态与学生初始认知的交互作用，课后作业的成效更与家庭社会经济地位（SES）密切交织。哈蒂模式通过消除交互效应与关键调节变量（Elimination of Moderating Factors），将多重交织的复杂教育生态削足适履为单一主效应假象，导致其实证处方在基层实践中频繁落空。
+
 ---
 
 ## 相关条目网络
@@ -137,4 +140,6 @@ updated: 2026-10-16
 > | [[Executive Function]] | 概念 | 执行功能（尤其是抑制控制）是调节[[Inquiry-Based Learning\|探究学习]]成效的关键学习者特征。 |
 > | [[Self-Efficacy]] | 概念 | 学生初始效能感与支架设计存在动态交互，优质探究环境能抹平效能鸿沟。 |
 > | [[Productive Failure]] | 概念 | 生产性失败通过“先探索后讲授”的时序交互最大化概念理解与深度迁移。 |
+> | [[Visible Learning]] | 概念 | 其单一效应量排行榜因系统性消除交互效应与关键调节变量而遭遇方法学批评。 |
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 论证 | 权威综述提出破除两派二元对立，强调基于学习者特征与时序交互整合教学。 |
+> | [[Argument_Nielsen_2021_IRTP\|Nielsen and Klitmøller (2021b)]] | 论证 | 批判《可见的学习》抹杀交互效应与家庭背景，将复杂教学降格为线性因果处方。 |
