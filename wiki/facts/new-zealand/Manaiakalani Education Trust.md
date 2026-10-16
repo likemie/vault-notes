@@ -9,7 +9,7 @@ subtype: organization
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "organization"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -25,13 +25,14 @@ tags:
   - venture-philanthropy
   - network-governance
 related_concepts:
+  - "[[Exogenous Privatisation]]"
   - "[[Venture Philanthropy]]"
   - "[[Policy Network]]"
   - "[[Homework]]"
   - "[[Technology Infusion]]"
   - "[[Learner Autonomy]]"
   - "[[Critical Pedagogy]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
   - "[[Network Governance]]"
   - "[[Public-Private Partnership]]"
 related_theories: []
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Manaiakalani Education Trust
@@ -61,7 +62,7 @@ updated: 2026-10-16
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 马奈卡拉尼教育信托（Manaiakalani Education Trust）是 2011 年在新西兰奥克兰设立的独立教育慈善信托，采用公私混合治理结构，旨在为弱势社区公立学校引入外部商业资本、高参与度慈善基金与数字化学习项目，是新西兰基础教育新自由主义现代化与外生私有化的代表性案例。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 9, 27)]]
+> 马奈卡拉尼教育信托（Manaiakalani Education Trust）是 2011 年在新西兰奥克兰设立的独立教育慈善信托，采用公私混合治理结构，旨在为弱势社区公立学校引入外部商业资本、高参与度慈善基金与数字化学习项目，是新西兰基础教育新自由主义现代化与[[Exogenous Privatisation|外生私有化]]的代表性案例。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 9, 27)]]
 
 > [!org-context] 机构背景
 > - **创设时间与契机** 2011 年正式登记成立。前身为新西兰教育部于 2008 年资助设立的扩展学校高标准计划（Extending High Standards Across Schools, EHSAS）技术增强型扫盲集群，2010 年转变为教育部资助的信息通信技术（Information and Communications Technology, ICT）专业发展集群。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 27)]]
@@ -135,8 +136,8 @@ updated: 2026-10-16
 > > - **批评视角（反方）** 奥尼尔（[[John O'Neill]]）等学者指出，在贫困率极高的毛利与太平洋岛民聚居区，强制或变相推行“一人一机”自备设备，实质上是将公共教育本应由国家全额承担的办学成本与基础设施支出，隐蔽转嫁给了最缺乏支付能力的弱势家庭，加剧了低收入阶层的经济焦虑与教育不平等风险。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 27)]]
 > > - **信托立场（正方）** 信托治理团队认为，通过无息小额贷款协议与家庭共同出资，能够增强家长对孩子学习设备的保护意识与教育参与度，且企业赞助已显著降低了终端设备的批量采购单价。
 >
-> > [!axis] 国家资助责任让渡与隐性[[Endogenous and Exogenous Privatisation|教育私有化]]
-> > 该信托的运作模式代表了新西兰教育由国家统一财政全额供给向混合资助与外生私有化演变的转折点。
+> > [!axis] 国家资助责任让渡与隐性[[Educational Privatisation|教育私有化]]
+> > 该信托的运作模式代表了新西兰教育由国家统一财政全额供给向混合资助与[[Exogenous Privatisation|外生私有化]]演变的转折点。
 > >
 > > - **批判分析** 奥尼尔等人将其列为新西兰基础教育近十余年来现代化与私有化的九个典型制度实例之一。国家逐步退出基础设施全额兜底保障，由非营利信托充当中介，引入[[Venture Philanthropy|风险慈善]]资本与跨国科技寡头（三星、电信商）开拓学校软硬件市场，使得公立学校体系沦为私人商业技术产品的试验田与准市场。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 9, 27)]]
 
@@ -150,7 +151,7 @@ updated: 2026-10-16
 > |:---|:---|:---|
 > | [[Network Governance]] | Concept | 马奈卡拉尼[[The Education Trust\|教育信托]]是新西兰教育网络治理的经典案例，体现公私跨界与多元筹资。 |
 > | [[Venture Philanthropy]] | Concept | 获得 [[NEXT Foundation]] 与 Foundation North 风险慈善投资并推行高参与度规模化。 |
-> | [[Endogenous and Exogenous Privatisation]] | Concept | 体现了国家公共资助责任外包与办学基础设施引入商业赞助的外生私有化特征。 |
+> | [[Exogenous Privatisation]] | Concept | 体现了国家公共资助责任外包与办学基础设施引入商业赞助的外生私有化特征。 |
 > | [[Public-Private Partnership]] | Concept | 学校、慈善基金、电信运营商与硬件跨国企业的公私伙伴关系实践。 |
 > | [[Foundation North Māori and Pasifika Education Initiative]] | Fact | 信托在第二阶段获得该倡议的重点资助与孵化支持。 |
 > | [[Cognition Education]] | Fact | 认知教育信托资助了该信托的教师专业学习与发展项目。 |

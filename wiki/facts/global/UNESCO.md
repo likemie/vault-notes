@@ -43,7 +43,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Return on Investment]]"
   - "[[Development Education]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
   - "[[Class Size]]"
   - "[[21st Century Skills and Competencies Discourse]]"
   - "[[Peer Pressure]]"
@@ -113,7 +113,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # UNESCO
@@ -252,7 +252,7 @@ updated: 2026-10-16
 > > - **多边主义捍卫者** 反驳称这恰恰反映了教科文组织不畏强权、坚守国际公平正义的一国一票民主底色，是抵抗单边霸权干涉多边治理的必要代价。
 >
 > > [!axis] 人文主义倡导与依附性结构调整的脱节
-> > 批判政治社会学指出，教科文组织的宏观历史统计（如 1974 年拉美教育统计）如实揭示了[[Development Education|发展中国家教育]]扩张呈现“高等中等暴增与初等扫盲停滞”的阶级双轨畸变；然而在 1980 年代债务危机与新自由主义重组中，缺乏金融制约杠杆的教科文组织被[[Human Capital Theory|人力资本]]与结构调整议程边缘化，无力遏制世界银行以贷款条件强制受援国推行使用者付费与[[Endogenous and Exogenous Privatisation|教育私有化]]，显露出联合国人文主义道德号召在跨国资本支配逻辑面前的制度无力。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 81–83)]]
+> > 批判政治社会学指出，教科文组织的宏观历史统计（如 1974 年拉美教育统计）如实揭示了[[Development Education|发展中国家教育]]扩张呈现“高等中等暴增与初等扫盲停滞”的阶级双轨畸变；然而在 1980 年代债务危机与新自由主义重组中，缺乏金融制约杠杆的教科文组织被[[Human Capital Theory|人力资本]]与结构调整议程边缘化，无力遏制世界银行以贷款条件强制受援国推行使用者付费与[[Educational Privatisation|教育私有化]]，显露出联合国人文主义道德号召在跨国资本支配逻辑面前的制度无力。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 81–83)]]
 >
 > > [!axis] 国际规范模板与本土国情适切性的结构张力：普适学制与教学法 vs 本土情境制约
 > > 比较教育学者揭示教科文组织标准模式在发展中国家本土遭遇的脱节与变通。

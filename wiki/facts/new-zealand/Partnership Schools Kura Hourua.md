@@ -31,7 +31,7 @@ related_concepts:
   - "[[Educational Management Organisation]]"
   - "[[Mentorship]]"
   - "[[Policy Entrepreneur]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Exogenous Privatisation]]"
   - "[[Public-Private Partnership]]"
   - "[[Network Governance]]"
 related_theories: []
@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Partnership Schools Kura Hourua
@@ -144,7 +144,7 @@ updated: 2026-10-16
 > |:---|:---|:---|
 > | [[Policy Window]] | Concept | 少数派联合执政协议在 2011 年开启了 PSKH 政策之窗，促成[[Policy Entrepreneur\|政策企业家]]的伺机突围。 |
 > | [[Policy Entrepreneur]] | Concept | 普尔等私立办学领袖作为政策企业家，积极推动并参与特许学校立法与合同制定。 |
-> | [[Endogenous and Exogenous Privatisation]] | Concept | PSKH 是将公立办学权、资产管理与人事权整体外包给私营部门的外生私有化极端形态。 |
+> | [[Exogenous Privatisation]] | Concept | PSKH 是将公立办学权、资产管理与人事权整体外包给私营部门的外生私有化极端形态。 |
 > | [[Educational Management Organisation]] | Concept | 别墅[[The Education Trust\|教育信托]]等机构在 PSKH 框架下孕育了新西兰本土教育管理组织连锁雏形。 |
 > | [[Public-Private Partnership]] | Concept | 属于由政府全额出资、私营商业或慈善机构承包运营的教育服务公私伙伴关系。 |
 > | [[Teach First New Zealand]] | Fact | 共同依托联合政府新自由主义政策通道，试图通过非传统师训向弱势学校输入师资。 |

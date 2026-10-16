@@ -21,7 +21,7 @@ tags:
   - globalization
   - region/uk
 related_concepts:
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
   - "[[New Public Management]]"
   - "[[European Education Space]]"
   - "[[Global Education Industry]]"
@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Susan L. Robertson
@@ -59,7 +59,7 @@ updated: 2026-10-16
 
 > [!person-profile] 人物档案
 > - **身份位置** 英国著名批判教育社会学家、全球化理论家，剑桥大学教育学讲席教授（Professor of Sociology of Education），顶尖学术期刊《全球化、社会与教育》（*Globalisation, Societies and Education*, GSE）创刊主编。
-> - **核心角色** 全球教育空间政治经济学研究的领军学者；系统揭示[[World Trade Organization|世界贸易组织]]（WTO）《[[GATS and Trade in Education Services|服务贸易总协定]]》（GATS）对全球[[Endogenous and Exogenous Privatisation|教育私有化]]与商品化推进机制的学术先锋。
+> - **核心角色** 全球教育空间政治经济学研究的领军学者；系统揭示[[World Trade Organization|世界贸易组织]]（WTO）《[[GATS and Trade in Education Services|服务贸易总协定]]》（GATS）对全球[[Educational Privatisation|教育私有化]]与商品化推进机制的学术先锋。
 > - **代表贡献** 与[[Roger Dale|罗杰·戴尔]]及哈维尔·博纳尔共同创建“[[Pluri-Scalar Governance|多标度教育治理]]”三维[[Analytic Framework|分析框架]]；系统论证教育从国家公共品向全球贸易服务的体制嬗变；深刻剖析新自由主义对教师劳动过程与专业身份的重构。
 
 > [!citation-card]- [[Robert Arnove|阿诺夫]]论罗伯逊对服务贸易总协定的关键研究
@@ -110,7 +110,7 @@ updated: 2026-10-16
 > [!influence-path] 影响路径
 > - **理论路径** 开拓了教育批判空间地理学与[[Pluri-Scalar Governance|多标度治理]][[Analytic Framework|分析框架]]，重塑了比较教育学对超国家政策实体的认知。
 > - **学术建制路径** 创办并引领 GSE 期刊，使其成为连接教育学、社会学、政治学与人文地理学的跨[[Discipline-Based Theory|学科理论]]阵地。
-> - **公共政策路径** 多次为国际教师联合会（EI）提供关于反[[Endogenous and Exogenous Privatisation|教育私有化]]与维护公共教育投资的专家权威证词。
+> - **公共政策路径** 多次为国际教师联合会（EI）提供关于反[[Educational Privatisation|教育私有化]]与维护公共教育投资的专家权威证词。
 
 ---
 

@@ -28,7 +28,7 @@ related_concepts:
   - "[[Banking Model of Education]]"
   - "[[Popular Education]]"
   - "[[Reflexivity]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Critical Theory]]"
@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-15
+updated: 2026-10-17
 ---
 
 # Pedagogical Subject
@@ -97,5 +97,5 @@ updated: 2026-10-15
 > |:-----|:-----|:-----|
 > | [[Adriana Puiggrós]] | 人物 | 与托雷斯共同开创拉美教育主体[[Critical Theory\|批判理论]]框架。 |
 > | [[Popular Education]] | 概念 | 民众教育为重塑底层的[[Reflexivity\|反思性]]教育主体提供了实践武器。 |
-> | [[Endogenous and Exogenous Privatisation]] | 概念 | 私有化改革是瓦解教育主体公共性的直接制度根源。 |
+> | [[Educational Privatisation]] | 概念 | 私有化改革是瓦解教育主体公共性的直接制度根源。 |
 > | [[Conditioned State Theory]] | 理论 | 外围受限国家屈从于跨国资本积累导致教育主体宪法契约崩溃。 |

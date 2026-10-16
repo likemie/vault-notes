@@ -9,7 +9,7 @@ aliases:
 summary: "国家教育行政权力从中央向地方区域、市镇或基层学校转移的治理重构。在民主化与公共行政视界中，旨在提升响应效率与公民参与，但面临官僚膨胀与体系割裂风险；在国际组织普遍模型中，表现为剥离中央兜底责任的远处治理；在新自由主义试验中（如新西兰明日学校），则常沦为拆解公共服务、迫使学校市场化采购并滋生商业外包垄断的私有化跳板。"
 type: concept
 domain: "educational-leadership-administration"
-related_count: 36
+related_count: 38
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -37,7 +37,9 @@ related_concepts:
   - "[[Variable]]"
   - "[[Falsification]]"
   - "[[Shape-Shifting]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
+  - "[[Endogenous Privatisation]]"
+  - "[[Exogenous Privatisation]]"
   - "[[Official Knowledge]]"
 related_theories:
   - "[[Governing at a Distance]]"
@@ -68,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-11
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Educational Decentralization
@@ -280,7 +282,7 @@ updated: 2026-10-16
 > | [[School Autonomy]] | 概念 | 教育分权在中观向地方政府放权的同时，在微观层面通常延伸为学校办学自主权。 |
 > | [[Global Educational Discourse]] | 概念 | 将分权化作为面向信息时代的五大支柱模型之首予以普遍推销的跨国[[Discourse\|话语]]体系。 |
 > | [[Recontextualization]] | 概念 | 刻画去情境化的分权指令在受援国微观落地时发生[[Shape-Shifting\|形变]]与脱节的理论透镜。 |
-> | [[Endogenous and Exogenous Privatisation]] | 概念 | 新西兰等国的权力下放改革将公立机构拆解为自负盈亏企业，构成内外生私有化的典型案例。 |
+> | [[Educational Privatisation]] | 概念 | 新西兰等国的权力下放改革将公立机构拆解为自负盈亏企业，构成[[Endogenous Privatisation\|内生]]与[[Exogenous Privatisation\|外生私有化]]的典型案例。 |
 > | [[Official Knowledge]] | 概念 | 分权改革往往动摇国家对法定大纲与官方知识的垄断，诱发私人出版资本的渗透。 |
 > | [[Cognition Education]] | 事实 | 新西兰奥克兰教育局后勤部门在 1989 年放权改制中演变而成的商业教育服务中心。 |
 > | [[José Luis García Garrido]] | 人物 | 比较教育学者，深入剖析西班牙从极度集权激进跳向 17 个自治区导致官僚肥胖与空间割裂的代表学者。 |

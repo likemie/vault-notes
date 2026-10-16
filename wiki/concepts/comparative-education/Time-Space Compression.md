@@ -29,7 +29,7 @@ related_concepts:
   - "[[Lifelong Learning]]"
   - "[[Post-Fordism]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
   - "[[Space of Places]]"
 related_theories:
   - "[[Critical Theory]]"
@@ -51,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-29
-updated: 2026-10-15
+updated: 2026-10-17
 ---
 
 # Time-Space Compression
@@ -137,7 +137,7 @@ updated: 2026-10-15
 > **网络化抗争空间的诞生** 瞬时通信网络不仅重构了财富生产的逻辑，也为社会运动创造了摆脱传统国家和主流媒体把关的自治沟通空间，使得分散在世界各地的抗争行动能够实现横向连接与同步共振。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 112–113)]]
 
 > [!claim] Arnove, R. F.
-> **自下而上全球化的技术基础** 时空压缩开辟的以太空间为教师、学生、工会组织以及原住民运动提供了空前的跨国协作工具；草根行动者能够借助即时网络揭露跨国公司与金融机构的霸权行为，将本土针对[[Endogenous and Exogenous Privatisation|教育私有化]]的个别反抗汇聚为争取教育公平与社会正义的全球联合行动。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 113–114)]]
+> **自下而上全球化的技术基础** 时空压缩开辟的以太空间为教师、学生、工会组织以及原住民运动提供了空前的跨国协作工具；草根行动者能够借助即时网络揭露跨国公司与金融机构的霸权行为，将本土针对[[Educational Privatisation|教育私有化]]的个别反抗汇聚为争取教育公平与社会正义的全球联合行动。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 113–114)]]
 
 ---
 

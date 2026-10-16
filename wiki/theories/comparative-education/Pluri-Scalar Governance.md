@@ -30,7 +30,7 @@ related_concepts:
   - "[[Knowledge-Based Economy]]"
   - "[[Competitiveness]]"
   - "[[Structural Adjustment Programs]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
   - "[[Research Question]]"
   - "[[Champ]]"
   - "[[Discourse]]"
@@ -64,7 +64,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-29
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Pluri-Scalar Governance
@@ -140,7 +140,7 @@ updated: 2026-10-16
 > |---|---|---|---|
 > | **主权空间穿透命题** | 超国家经贸协定将教育分解为四大活动并向市场转移，穿透传统国家主权封闭性 | 跨境高等教育贸易、学历学位国际互认、涉外办学规约 | Robertson, Bonal, & Dale (2002); [[Argument_Arnove_2009_WorldSystems\|Arnove (2009, p. 110)]] |
 > | **国家主动再领土化命题** | 国家并非被动受体，而是主动接入多标度规则以提升全球知识经济竞争力 | 新兴国家入世改革、国家高水平大学国际化战略 | Robertson et al. (2002); [[Argument_Arnove_2009_WorldSystems\|Arnove (2009, p. 111)]] |
-> | **中心-边缘非对称鸿沟命题** | 超国家规约再生产中心-边缘依附，大国掌握战略杠杆而弱小国家丧失调控自主 | 发展中国家[[Structural Adjustment Programs\|结构调整]]、外债危机国[[Endogenous and Exogenous Privatisation\|教育私有化]]评估 | [[Robert Arnove\|Arnove]]; Wallerstein (1974) |
+> | **中心-边缘非对称鸿沟命题** | 超国家规约再生产中心-边缘依附，大国掌握战略杠杆而弱小国家丧失调控自主 | 发展中国家[[Structural Adjustment Programs\|结构调整]]、外债危机国[[Educational Privatisation\|教育私有化]]评估 | [[Robert Arnove\|Arnove]]; Wallerstein (1974) |
 
 ---
 

@@ -22,7 +22,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Cognitive Deskilling]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
   - "[[Performance Indicators]]"
   - "[[Dual School System]]"
   - "[[Credential Inflation]]"
@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Post-Fordism
@@ -83,7 +83,7 @@ updated: 2026-10-16
 > *Changes in the labor process relate to the move away from a mode of production defined as the transformation of Fordism to a post-Fordist model (with implications for the process of skilling and deskilling of the labor force and the logic of technical control in curriculum) (Apple, 1982)... The old economy was based on high volume and highly standardized production with a few managers controlling the production process from above and a great number of workers following orders... The new global economy is more fluid and flexible, with multiple lines of power and decision making thus, while the public education system in the old capitalist order was oriented toward the production of a disciplined and reliable work force, the new global economy seems to have redefined the goals of public educations in development.*
 
 > [!boundary]- 概念边界
-> - 不等于 [[Endogenous and Exogenous Privatisation|教育私有化]] — 教育私有化是资产所有权与运营机制向私人部门的转移，属于后福特制国家重组在教育领域的具体政策工具之一，而非生产方式整体范式本身。
+> - 不等于 [[Educational Privatisation|教育私有化]] — 教育私有化是资产所有权与运营机制向私人部门的转移，属于后福特制国家重组在教育领域的具体政策工具之一，而非生产方式整体范式本身。
 > - 不适用于 前资本主义宗法社会或纯粹自给自足农业经济的教育分析。
 
 ---
@@ -217,7 +217,7 @@ updated: 2026-10-16
 >
 > | 条目 | 类型 | 关联说明 |
 > |:-----|:-----|:---------|
-> | [[Endogenous and Exogenous Privatisation]] | 概念 | 后福特制在微观办学机制与宏观制度重组层面的双重制度实现手段。 |
+> | [[Educational Privatisation]] | 概念 | 后福特制在微观办学机制与宏观制度重组层面的双重制度实现手段。 |
 > | [[Technical Rationality]] | 概念 | 后福特制课程设计与绩效评价赖以建立的[[Epistemology\|认识论]]与管理学基石。 |
 > | [[Conditioned State Theory]] | 理论 | 外围受限国家接受后福特跨国产业链[[Disciplina and Doctrina\|规训]]、裁撤公共教育投资的制度[[Analytic Framework\|分析框架]]。 |
 > | [[Dual School System]] | 概念 | 后福特制教育市场化下公私分立与阶级固化的制度化体现。 |

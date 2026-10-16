@@ -30,7 +30,7 @@ related_concepts:
   - "[[Homework]]"
   - "[[Neo-Taylorism]]"
   - "[[Chain of Evidence]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
   - "[[Discourse]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Feedback]]"
@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-04
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Cargo Cult Science
@@ -177,7 +177,7 @@ updated: 2026-10-16
 > |---|---|---|---|
 > | **认识论诚信与自我纠错** | 揭示货物崇拜科学以精密外在形式掩盖自我怀疑诚意的缺失，关键环节隐匿算法与反例 | 科学哲学划界、教育计量学质控与[[Chain of Evidence\|证据链]]审计 | Feynman (1974); Moberger (2020); [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] |
 > | **技术复杂性与认知威慑** | 批判伪科学利用数学门槛压制一线教师专业常识与教学直觉，诱发职业异化 | 教师专业发展、课堂教学评估与教育去专业化反思 | [[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]]; [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] |
-> | **商业运作与不可证伪闭环** | 剖析伪科学绕开学术同行评议直接在商业市场变现、并借歪曲可错论建立免责教条 | 政治经济学批评、[[Endogenous and Exogenous Privatisation\|教育私有化]]审查与政策智库问责 | Popper (1963); [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] |
+> | **商业运作与不可证伪闭环** | 剖析伪科学绕开学术同行评议直接在商业市场变现、并借歪曲可错论建立免责教条 | 政治经济学批评、[[Educational Privatisation\|教育私有化]]审查与政策智库问责 | Popper (1963); [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] |
 
 ---
 

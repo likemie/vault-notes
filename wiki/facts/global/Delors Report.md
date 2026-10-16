@@ -36,7 +36,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Global Educational Discourse]]"
   - "[[Washington Consensus]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
   - "[[Technical Rationality]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Epistemic Stances]]"
@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Delors Report
@@ -124,7 +124,7 @@ updated: 2026-10-16
 
 > [!impact-matrix] 政策效能与学术解构
 > - **全球教育观念重塑** 将“[[Lifelong Learning|终身教育]]”从单纯的成人补习或技能培训，升华为统摄个体毕生自我完善的宏观教育哲学，四大支柱被广泛奉为当代教育学常识。
-> - **对新自由主义经济主义的防线** 构成了 1990 年代全球范围内抵御[[Washington Consensus|华盛顿共识]]新自由主义[[Endogenous and Exogenous Privatisation|教育私有化]]、工具化狂潮的最重要官方多边思想阵地。
+> - **对新自由主义经济主义的防线** 构成了 1990 年代全球范围内抵御[[Washington Consensus|华盛顿共识]]新自由主义[[Educational Privatisation|教育私有化]]、工具化狂潮的最重要官方多边思想阵地。
 > - **缺乏操作杠杆与纸上乌托邦局限** 由于 [[UNESCO]] 缺乏像[[World Bank|世界银行]]那样的数十亿美元信贷工具箱，报告倡导的崇高理想在面对发展中国家紧迫的财政赤字与债务危机时，往往难以落地为具体的行政操作方案，容易沦为空洞的政治修辞。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 347–348)]]
 
 ---

@@ -8,7 +8,7 @@ summary: "阿根廷著名教育史学家与批判比较教育学家，曾任阿�
 type: person
 nationality: argentina
 person_region: "argentina"
-person_related_count: 25
+person_related_count: 27
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -31,11 +31,13 @@ related_concepts:
   - "[[Popular Education]]"
   - "[[Whiggism]]"
   - "[[Disciplina and Doctrina]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
   - "[[Reflexivity]]"
   - "[[Champ]]"
   - "[[Critical Pedagogy]]"
   - "[[Praxis]]"
+  - "[[Endogenous Privatisation]]"
+  - "[[Exogenous Privatisation]]"
 related_theories:
   - "[[Neocorporatism]]"
   - "[[Dependency Theory]]"
@@ -57,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Adriana Puiggrós
@@ -99,9 +101,9 @@ updated: 2026-10-16
 >   - **代表著作** *Imperialismo y educación en América Latina*（1980）；*La [[Popular Education|educación popular]] en América Latina*（1984）。
 >   - **关键概念／方法** [[Popular Education|民众教育]]、霸权机制、历史-比较方法。
 >   - **阶段转向** 突破传统[[Whiggism|辉格史观]]与自由主义建国神话，系统揭示拉美正规学校在[[Disciplina and Doctrina|规训]]底层、服务寡头依附经济中的实质功能。
-> - **1990 年代至今 — 新自由主义批判与[[Pedagogical Subject|教育主体]]的保卫** 聚焦新自由主义结构调整、[[Endogenous and Exogenous Privatisation|教育私有化]]对民主公民身份的侵蚀。
+> - **1990 年代至今 — 新自由主义批判与[[Pedagogical Subject|教育主体]]的保卫** 聚焦新自由主义结构调整、[[Educational Privatisation|教育私有化]]对民主公民身份的侵蚀。
 >   - **代表著作** *Sujetos, disciplina y curriculum en los orígenes del sistema educativo argentino*（1990）；*The State and Public Education in Latin America*（with C. A. Torres, 1995/2007）。
->   - **关键概念／方法** 教育主体（Pedagogical Subjects）、[[Endogenous and Exogenous Privatisation|教育私有化]]、国家撤资。
+>   - **关键概念／方法** 教育主体（Pedagogical Subjects）、[[Educational Privatisation|教育私有化]]、国家撤资。
 >   - **阶段转向** 从纯粹的历史制度批判转向国家政治哲学批判，深入剖析市场逻辑如何将[[Reflexivity|反思性]]公民退化为教育消费个体。
 
 ---
@@ -143,5 +145,5 @@ updated: 2026-10-16
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Popular Education]] | 概念 | 系统梳理拉美民众教育的历史脉络与其反抗国家霸权的解放功能。 |
-> | [[Endogenous and Exogenous Privatisation]] | 概念 | 实证剖析国家撤资如何通过自上而下的政策推动公立教育系统内生与外生私有化。 |
+> | [[Educational Privatisation]] | 概念 | 实证剖析国家撤资如何通过自上而下的政策推动公立教育系统[[Endogenous Privatisation\|内生]]与[[Exogenous Privatisation\|外生私有化]]。 |
 > | [[Conditioned State Theory]] | 理论 | 为揭示阿根廷等外围国家教育政策受外部金融机构[[Disciplina and Doctrina\|规训]]提供了详实的历史实证。 |

@@ -33,7 +33,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Rich and Thick Description]]"
   - "[[Policy Borrowing]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
   - "[[Heterogeneity]]"
 related_theories:
   - "[[Actor-Network Theory]]"
@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Network Ethnography
@@ -132,7 +132,7 @@ updated: 2026-10-16
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 适用于研究全球化与[[Network Governance\|网络化治理]]中的[[Endogenous and Exogenous Privatisation\|教育私有化]]、[[Venture Philanthropy\|风险慈善]]介入、[[Policy Borrowing\|政策借用]]与流动、新型智库与[[Educational Brokerage Agency\|证据中介机构]]运作机制。([[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 4–5]])
+> - **适合使用** 适用于研究全球化与[[Network Governance\|网络化治理]]中的[[Educational Privatisation\|教育私有化]]、[[Venture Philanthropy\|风险慈善]]介入、[[Policy Borrowing\|政策借用]]与流动、新型智库与[[Educational Brokerage Agency\|证据中介机构]]运作机制。([[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 4–5]])
 > - **谨慎使用** 涉及商业保密、私人高管网络壁垒或政府信息公开豁免时，需结合多方间接证据，审慎评估网络全貌的局部性与片面性。([[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 5]])
 > - **不适合使用** 不适合用于测算微观教学干预[[Effect Size\|效应量]]或评估单一闭门课堂的日常教学行为。
 

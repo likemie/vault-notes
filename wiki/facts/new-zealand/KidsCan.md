@@ -27,7 +27,7 @@ tags:
   - theme/child-poverty
   - theme/privatisation
 related_concepts:
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Exogenous Privatisation]]"
   - "[[Public-Private Partnership]]"
 related_theories: []
 related_methods: []
@@ -41,7 +41,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 status: active
 created: '2026-10-16'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # KidsCan
@@ -156,7 +156,7 @@ updated: 2026-10-16
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Endogenous and Exogenous Privatisation]] | Concept | 该机构体现的民间救济替代公共福利的外生私有化范畴。 |
+> | [[Exogenous Privatisation]] | Concept | 该机构体现的民间救济替代公共福利的外生私有化范畴。 |
 > | [[Public-Private Partnership]] | Concept | 其广泛开展的跨界企业赞助与联合救助机制。 |
 > | [[Foundation North]] | Fact (Organization) | 新西兰本土巨型资助信托，曾向儿童之友等救济项目提供配套支持。 |
 > | [[COMET Auckland]] | Fact (Organization) | 同处奥克兰地区、致力于解决南区边缘学区教育不平等的半官方协调机构。 |

@@ -36,7 +36,7 @@ related_concepts:
   - "[[Politicity of Education]]"
   - "[[Heterogeneity]]"
   - "[[Market Fundamentalism]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
   - "[[Categorical Funding]]"
   - "[[Washington Consensus]]"
   - "[[Development Education]]"
@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Financial-Intellectual Complex
@@ -161,7 +161,7 @@ updated: 2026-10-16
 > 探讨多边金融机构在微观研究层面的学术[[Heterogeneity|异质性]]为何在宏观政策输出时坍缩为单一的[[Market Fundamentalism|市场原教旨主义]]处方。
 
 > [!claim] [[Daniel Schugurensky|Schugurensky, D.]]
-> **跨国商业圆桌角色** 世界银行在国际高等教育重组中扮演的角色，与[[Business Roundtable|美国商业圆桌会]]议在国内推动企业化教育改革的职能高度吻合。尽管世行下属研究人员存在一定的学术流派差异，但负责贷款发放的高级官僚在实践中坚决推行单一化的市场规训逻辑，使世行政策建议与跨国垄断资本要求削减公共开支、推动[[Endogenous and Exogenous Privatisation|教育私有化]]的新自由主义议程展现出强烈的[[Selective Affinity|选择性亲和]]。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 81)]]
+> **跨国商业圆桌角色** 世界银行在国际高等教育重组中扮演的角色，与[[Business Roundtable|美国商业圆桌会]]议在国内推动企业化教育改革的职能高度吻合。尽管世行下属研究人员存在一定的学术流派差异，但负责贷款发放的高级官僚在实践中坚决推行单一化的市场规训逻辑，使世行政策建议与跨国垄断资本要求削减公共开支、推动[[Educational Privatisation|教育私有化]]的新自由主义议程展现出强烈的[[Selective Affinity|选择性亲和]]。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 81)]]
 
 ---
 

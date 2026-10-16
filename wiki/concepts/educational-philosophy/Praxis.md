@@ -35,7 +35,7 @@ related_concepts:
   - "[[Construct]]"
   - "[[Positivism]]"
   - "[[Pedagogical Subject]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Paradigm]]"
   - "[[Reflexivity]]"
@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-25
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Praxis
@@ -162,7 +162,7 @@ updated: 2026-10-16
 > 阐明实践如何从[[Pedagogical Subject|教育主体]]的自我意识拓展为社会各阶层的组织化政治实践，打破新自由主义寡头垄断。
 
 > [!claim] Olmos, L. E. & Torres, C. A.
-> **通过实践建立跨阶层广泛反抗同盟** 奥尔莫斯与托雷斯指出，新自由主义全球化模式在外围与中心国家的演进存在时间差与内在矛盾，依附国家的本土统治集团正变本加厉强推[[Endogenous and Exogenous Privatisation|教育私有化]]与分权化。单纯依赖孤立的个人抵制注定失败，必须将实践哲学落实为政治策略：联合被边缘化的教师工会、激进学生运动、工农社群与批判知识分子，形成广泛的反抗同盟，唯有通过这种组织化的集体实践，才能从根本上抵御金融智识复合体对公共教育的侵蚀（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009, pp. 84–85]]）。
+> **通过实践建立跨阶层广泛反抗同盟** 奥尔莫斯与托雷斯指出，新自由主义全球化模式在外围与中心国家的演进存在时间差与内在矛盾，依附国家的本土统治集团正变本加厉强推[[Educational Privatisation|教育私有化]]与分权化。单纯依赖孤立的个人抵制注定失败，必须将实践哲学落实为政治策略：联合被边缘化的教师工会、激进学生运动、工农社群与批判知识分子，形成广泛的反抗同盟，唯有通过这种组织化的集体实践，才能从根本上抵御金融智识复合体对公共教育的侵蚀（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009, pp. 84–85]]）。
 
 ---
 
@@ -185,7 +185,7 @@ updated: 2026-10-16
 > - **1930s — 葛兰西提出实践哲学** 在《狱中[[Memos|札记]]》中用“实践哲学”（Filosofia della praxis）阐释历史唯物主义，强调文化领导权与有机知识分子的实践中介作用。
 > - **1960s — 萨特捍卫不可逾越的地平线** 萨特在《方法论问题》中论证：只要产生它的实践基础未被消灭，马克思主义实践哲学就是时代不可逾越的最高地平线。
 > - **1970 年 — [[Paulo Freire|弗莱雷]]开创[[Critical Pedagogy|批判教育学]]实践** 在《受压迫者教育学》中将实践概念深度引入扫盲与大众教育，确立反思与行动统一的[[Dialogue in Education|对话教学]]法。
-> - **2000s — 全球化反抗与冷热辩证法重构** 本赛德（1999）与托雷斯等学者（2009）将实践哲学运用于批判新自由主义[[Endogenous and Exogenous Privatisation|教育私有化]]，确立跨阶层反抗同盟的组织[[Paradigm|范式]]。
+> - **2000s — 全球化反抗与冷热辩证法重构** 本赛德（1999）与托雷斯等学者（2009）将实践哲学运用于批判新自由主义[[Educational Privatisation|教育私有化]]，确立跨阶层反抗同盟的组织[[Paradigm|范式]]。
 
 ---
 

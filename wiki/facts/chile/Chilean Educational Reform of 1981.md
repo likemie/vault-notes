@@ -12,9 +12,9 @@ subtype: event
 region: "chile"
 fact_region: "chile"
 fact_kind: "event"
-fact_related_count: 9
-fact_related_level: 0
-fact_related_stars: "☆"
+fact_related_count: 11
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
 tags:
   - fact/event
@@ -25,7 +25,9 @@ tags:
   - region/chile
 related_concepts:
   - "[[Subsidiarity Principle]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
+  - "[[Endogenous Privatisation]]"
+  - "[[Exogenous Privatisation]]"
   - "[[Dual School System]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -42,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Chilean Educational Reform of 1981
@@ -98,7 +100,7 @@ updated: 2026-10-16
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Endogenous and Exogenous Privatisation]] | 概念 | 全球最早运用国家法律强制推进教育内生与外生私有化的典型历史事件。 |
+> | [[Educational Privatisation]] | 概念 | 全球最早运用国家法律强制推进教育私有化，同时囊括了教育券准市场竞争（[[Endogenous Privatisation\|内生私有化]]）与营利性学校全面扩张（[[Exogenous Privatisation\|外生私有化]]）的典型历史事件。 |
 > | [[Larissa Adler Lomnitz]] | 人物 | 深入智利社会基层完成关于该改革社会破坏力的人类学经典[[Fieldwork\|田野调查]]。 |
 > | [[Dual School System]] | 概念 | 证实了教育券制度非但未促进流动，反而彻底制度化了阶级双轨与教育隔离。 |
 > | [[Latin American Debt Crisis of 1982]] | 事实 | 智利在此背景下被迫进一步深化紧缩，使其新自由主义实验走向极端化。 |

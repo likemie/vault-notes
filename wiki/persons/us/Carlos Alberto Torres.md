@@ -36,7 +36,7 @@ related_concepts:
   - "[[Politicity of Education]]"
   - "[[Development Education]]"
   - "[[Positivism]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
   - "[[Value Neutrality]]"
   - "[[Dual School System]]"
   - "[[Structural Adjustment Programs]]"
@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-19
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Carlos Alberto Torres
@@ -131,7 +131,7 @@ updated: 2026-10-16
 > [!influence-path] 影响路径
 > - **理论路径** 融合法兰克福学派[[Critical Theory|批判理论]]、葛兰西[[Hegemony|文化霸权]]学说与拉美[[Dependency Theory|依附论]]，构建起剖析[[Development Education|发展中国家教育]]政策与扩张困境的“[[Conditioned State Theory|受限国家]]”宏观政治社会学[[Analytic Framework|分析框架]]。
 > - **方法路径** 规范并推广[[Participatory Action Research|参与式行动研究]]（PAR）的政治导向与民众赋权原则，打破了将研究对象视作被动被测者的[[Positivism|实证主义]]主客二分传统。
-> - **政策批判路径** 深刻解构以[[World Bank|世界银行]]为代表的国际金融组织所推行的新自由主义[[Endogenous and Exogenous Privatisation|教育私有化]][[Discourse|话语]]，揭示[[Financial-Intellectual Complex|金融-智识复合体]]的技术官僚议程。
+> - **政策批判路径** 深刻解构以[[World Bank|世界银行]]为代表的国际金融组织所推行的新自由主义[[Educational Privatisation|教育私有化]][[Discourse|话语]]，揭示[[Financial-Intellectual Complex|金融-智识复合体]]的技术官僚议程。
 > - **学术建制与跨国传播** 依托 UCLA [[Paulo Freire|弗莱雷]]研究所与[[World Council of Comparative Education Societies|世界比较教育学会联合会]]（WCCES），搭建全球[[Critical Pedagogy|批判教育学]]与[[Popular Education|民众教育]]学术网络，推动[[Global Citizenship|全球公民教育]]理念落地。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引

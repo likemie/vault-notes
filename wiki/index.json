@@ -4912,6 +4912,19 @@
     ]
   },
   {
+    "title": "Educational Privatisation",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Educational Privatisation.md",
+    "aliases": [
+      "教育私有化",
+      "educational privatization",
+      "privatisation of education",
+      "privatization of education",
+      "教育民营化",
+      "教育市场化与私有化"
+    ]
+  },
+  {
     "title": "Educational Research, Development and Innovation",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Educational Research, Development and Innovation.md",
@@ -4943,15 +4956,16 @@
     ]
   },
   {
-    "title": "Endogenous and Exogenous Privatisation",
+    "title": "Endogenous Privatisation",
     "type": "concept",
-    "path": "wiki/concepts/educational-policy-reform/Endogenous and Exogenous Privatisation.md",
+    "path": "wiki/concepts/educational-policy-reform/Endogenous Privatisation.md",
     "aliases": [
-      "内生与外生私有化",
-      "教育私有化",
+      "内生私有化",
+      "内生性私有化",
       "endogenous privatization",
-      "exogenous privatization",
-      "内外生私有化"
+      "公立教育内部私有化",
+      "privatisation in education",
+      "privatization in education"
     ]
   },
   {
@@ -5113,6 +5127,19 @@
       "exam-oriented education",
       "examination-driven education",
       "yingshi jiaoyu"
+    ]
+  },
+  {
+    "title": "Exogenous Privatisation",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Exogenous Privatisation.md",
+    "aliases": [
+      "外生私有化",
+      "外生性私有化",
+      "exogenous privatization",
+      "公立教育外部私有化",
+      "privatisation of public education",
+      "privatization of public education"
     ]
   },
   {

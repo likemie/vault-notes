@@ -20,7 +20,7 @@ tags:
   - world-bank
 related_concepts:
   - "[[Operationalization]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
   - "[[Pragmatic Paradigm]]"
   - "[[Market Fundamentalism]]"
   - "[[Structural Adjustment Programs]]"
@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-14
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Washington Consensus
@@ -70,7 +70,7 @@ updated: 2026-10-16
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向一套试图将古典自由市场机制、财政纪律与技术官僚成本核算确立为全球普遍性发展规律的超国家政策规约体系。
-> - **用途** 帮助研究者透视 20 世纪末期全球南方国家公共部门重构、[[Endogenous and Exogenous Privatisation|教育私有化]]、学杂费自费化以及教育绩效量化治理背后的宏观智识渊源。
+> - **用途** 帮助研究者透视 20 世纪末期全球南方国家公共部门重构、[[Educational Privatisation|教育私有化]]、学杂费自费化以及教育绩效量化治理背后的宏观智识渊源。
 > - **边界** 威廉姆森的原初共识是针对拉美特定债务困境总结的经验性经济管理工具箱（“控制赤字、按时付账与抑制通胀”），不宜与外界左翼批评者后来赋予其的所有极端新自由主义霸权符号完全等同。
 
 > [!citation-card] 华盛顿共识的本源与多边教育借贷信条

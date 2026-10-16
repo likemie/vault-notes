@@ -51,7 +51,7 @@ related_concepts:
   - "[[Individualised Instruction]]"
   - "[[Necessary and Sufficient Conditions]]"
   - "[[Primary and Secondary Documents]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
   - "[[Peer-Supported Learning]]"
   - "[[Effective Teaching]]"
   - "[[Public Value]]"
@@ -332,7 +332,7 @@ journal: "New Zealand Journal of Educational Studies"
 把教师视为影响成绩的关键因素，被一些人进一步推演为应当推行按学生成绩给教师发放奖金的绩效工资制度；然而在制度探索与实证检验中，这一设想遭遇了根本性挫败：（p. 103）
 
 > [!case] 新西兰议会《[[The Scott Report|斯科特报告]]》：教师表现测量的高难度与审慎态度
-> - **调查背景** 1985–1986 年新西兰议会专门委员会就教学质量开展调查并提交《斯科特报告》（*The Scott Report*）。委员会成员包括坚定主张[[Endogenous and Exogenous Privatisation|教育私有化]]与教育券的右翼议员鲁斯·理查森（Ruth Richardson，后任财政部长），其立场绝非倾向于保护教师工会。（p. 103）
+> - **调查背景** 1985–1986 年新西兰议会专门委员会就教学质量开展调查并提交《斯科特报告》（*The Scott Report*）。委员会成员包括坚定主张[[Educational Privatisation|教育私有化]]与教育券的右翼议员鲁斯·理查森（Ruth Richardson，后任财政部长），其立场绝非倾向于保护教师工会。（p. 103）
 > - **对考核复杂性的清醒认知** 委员会虽然强调评价教师表现的重要性，但十分严谨地承认：制定出客观公正的教师绩效考核指标将经历一个极其漫长而复杂的过程。（p. 103）
 > - **倡议设立研究机构与后续** 委员会建议在大学设立专门研究机构攻关教师评价方法。然而该机构从未成立，科学的指标也从未问世；在缺乏有效测量工具的情况下盲目推进绩效工资是非常不明智的。（p. 103）
 

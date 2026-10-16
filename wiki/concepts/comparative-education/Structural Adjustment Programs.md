@@ -8,7 +8,7 @@ aliases:
 summary: "世界银行与国际货币基金组织在华盛顿共识下向债务危机国推行的宏观紧缩与市场化贷款附加方案；在教育领域通过推行使用者付费、私有化与分权化削减公共开支，是导致全球南方国家教育主权沦丧与阶级分化的核心外生制度杠杆"
 type: concept
 domain: "comparative-education"
-related_count: 42
+related_count: 44
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -28,7 +28,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Paradigm]]"
   - "[[Import Substitution Industrialisation]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
   - "[[Shadow State]]"
   - "[[State Educational Sovereignty]]"
   - "[[Cultural Capital]]"
@@ -36,6 +36,8 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Development Education]]"
   - "[[Multilateral Development Bank]]"
+  - "[[Endogenous Privatisation]]"
+  - "[[Exogenous Privatisation]]"
   - "[[Operationalization]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -71,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-28
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Structural Adjustment Programs
@@ -117,7 +119,7 @@ updated: 2026-10-16
 > [!feature] 核心要素
 > - **贷款交叉附加条件（Cross-[[Policy Conditionalities|Conditionalities]]）** 国际金融机构将教育领域的紧缩指标与宏观债务重组贷款直接挂钩，外围国家若不削减教育赤字和推行市场化，就无法获得展期信贷与外汇救助。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–81)]]
 > - **向学生收取学杂费（使用者付费）** 取消原有的公费免费政策，要求各级教育（特别是中等和高等教育）学生及家庭按“谁受益谁付费”原则自担成本，直接造成贫困劳工家庭子女学业中断与阶层分化。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 79)]]
-> - **推行[[Endogenous and Exogenous Privatisation|教育私有化]]与教育券制度** 大力扶持营利性与非营利性私立学校，压缩公立学校编制与办学经费，通过发行教育券刺激校际生源竞争，加速教育分轨分选。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 80)]]
+> - **推行[[Educational Privatisation|教育私有化]]与教育券制度** 大力扶持营利性与非营利性私立学校，压缩公立学校编制与办学经费，通过发行教育券刺激校际生源竞争，加速教育分轨分选。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 80)]]
 > - **行政与财政分权化甩包袱** 中央政府打着“地方赋权”与“社区自治”旗号，将公立学校的筹资与运维责任层层下推给财力薄弱的省邦与市镇政府，加剧区域校际鸿沟。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 80–81)]]
 > - **技术官僚[[Cost-Benefit Analysis|成本效益分析]][[Discourse|话语]]（Technocratic Cost-Benefit Discourse）** 国际机构依托教育生产函数与成本效益模型，将削减教育公共开支包装为中立、理性的经济科学规律，掩盖结构调整的政治[[Disciplina and Doctrina|规训]]本质。[[Argument_Arnove_2009_WorldSystems|(Heyneman, 2003; Arnove, 2009, p. 107)]]
 > - **公共服务外包与[[Shadow State|影子国家]]（Public Service Outsourcing & Shadow State）** 伴随国家财政与公共管理职能被大幅削减，国际援助方与政府绕过公立系统，将基础教育等社会服务外包给依赖外部资助的非政府组织（NGOs），致使民间组织异化为缺乏基层问责的[[Shadow State|影子国家]]，[[State Educational Sovereignty|国家教育主权]]与公共服务体系进一步瓦解。[[Argument_Arnove_2009_WorldSystems|(Kamat, 2004; Sutton & Arnove, 2004; Arnove, 2009, pp. 111–112)]]
@@ -163,7 +165,7 @@ updated: 2026-10-16
 ### 命题二　结构调整的教育市场化处方本质上是跨国资产阶级转嫁危机的阶级策略
 
 > [!concept-lens] 市场化改革的阶级实质与社会再生产
-> 探讨[[Endogenous and Exogenous Privatisation|教育私有化]]、使用者付费与分权化如何将资本主义积累危机的成本转移给劳动阶级。
+> 探讨[[Educational Privatisation|教育私有化]]、使用者付费与分权化如何将资本主义积累危机的成本转移给劳动阶级。
 
 > [!claim] [[Stephen Ball|Ball, S.]] J.
 > **市场机制作为锁定统治优势的阶级策略** 正如[[Stephen Ball|斯蒂芬·鲍尔]]（Stephen Ball, 1993）所深刻指出的，在新自由主义结构调整中，用市场的逻辑替代国家的公共供给绝非为了提高办学质量或促进社会公平，而是一场经过精心包装的统治阶层“阶级策略”。通过推行私有化与校际竞争，国家成功将教育投资失败与失业的责任转嫁给贫困家庭个体；同时，拥有财富和[[Cultural Capital|文化资本]]的优势中上阶级则能在私立学校市场中自如运作，通过购买精英教育将自身的阶级优势合法地再生产给下一代。[[Argument_Olmos_Torres_2009_StateTheories|(Ball, 1993; Olmos & Torres, 2009, pp. 79–80)]]
@@ -241,7 +243,7 @@ updated: 2026-10-16
 > | [[Inter-American Development Bank]] | 事实 (机构) | 在结构调整期更偏重务实基建借贷、与[[World Bank\|世行]]激进体制改革形成对照的区域开发银行。 |
 > | [[Financial-Intellectual Complex]] | 概念 | 揭示[[World Bank\|世界银行]]推行结构调整方案时垄断研究生产与专家智库的话语权力中介。 |
 > | [[Import Substitution Industrialisation]] | 概念 | 说明结构调整方案如何取代早期内向型工业化，迫使国家从发展主义走向新自由主义紧缩。 |
-> | [[Endogenous and Exogenous Privatisation]] | 概念 | 分析结构调整方案在教育系统内外部推行私有化与市场运作的具体[[Operationalization\|操作化]]路径。 |
+> | [[Educational Privatisation]] | 概念 | 分析结构调整方案在教育系统推行[[Endogenous Privatisation\|内生]]与[[Exogenous Privatisation\|外生私有化]]及市场运作的具体[[Operationalization\|操作化]]路径。 |
 > | [[Shadow State]] | 概念 | 揭示结构调整削减公共开支后，非政府组织承接教育外包所演化出的体制异化形态。 |
 > | [[World-Systems Theory]] | 理论 | 为剖析结构调整方案固化中心—外围不平等分工与等级秩序提供宏观历史结构视角。 |
 > | [[Conditioned State Theory]] | 理论 | 阐发外围国家在被迫接受结构调整方案附加条件时所陷入的受限与主权剥夺状态。 |

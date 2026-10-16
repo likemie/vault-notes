@@ -26,7 +26,7 @@ related_concepts:
   - "[[Import Substitution Industrialisation]]"
   - "[[Structural Adjustment Programs]]"
   - "[[Compensatory Legitimation]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
   - "[[Paradigm]]"
 related_theories:
   - "[[Neocorporatism]]"
@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-15
+updated: 2026-10-17
 ---
 
 # Latin American Debt Crisis of 1982
@@ -70,7 +70,7 @@ updated: 2026-10-15
 > [!dev-timeline] 事件推进历程
 > - **1982 — 危机全面爆发** 墨西哥、巴西与阿根廷先后陷入主权债务违约，国际私人借贷市场彻底对拉美关闭，各国面临严重的恶性通货膨胀与财政枯竭。
 > - **1980 年代中期 — 结构调整强加与公共教育撤资** [[World Bank|世界银行]]与 [[International Monetary Fund|IMF]] 介入救援，将放贷条件与[[Structural Adjustment Programs|结构调整方案]]（SAPs）强制捆绑，强迫各国压缩公共教育与卫生开支，推行学校分权化甩包袱与使用者付费。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–81)]]
-> - **1980 年代末至 1990 年代 — [[Neocorporatism|法团主义]]代偿与私有化确立** 面对失学激增与社会骚乱，墨西哥等国设立[[INEA|全国成人教育学会]]推行扫盲以实施[[Compensatory Legitimation|补偿性合法化]]；智利与阿根廷等国全面放开[[Endogenous and Exogenous Privatisation|教育私有化]]，拉美公共教育体系深陷阶层撕裂。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–85)]]
+> - **1980 年代末至 1990 年代 — [[Neocorporatism|法团主义]]代偿与私有化确立** 面对失学激增与社会骚乱，墨西哥等国设立[[INEA|全国成人教育学会]]推行扫盲以实施[[Compensatory Legitimation|补偿性合法化]]；智利与阿根廷等国全面放开[[Educational Privatisation|教育私有化]]，拉美公共教育体系深陷阶层撕裂。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–85)]]
 
 ---
 

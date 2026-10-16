@@ -10,9 +10,9 @@ summary: "通过随机分配和变量控制建立因果关系的实验设计，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 149
-method_related_level: 14
-method_related_stars: "💎💎💎💎⭐⭐"
+method_related_count: 151
+method_related_level: 15
+method_related_stars: "💎💎💎💎💎"
 method_related_color: "#dcfce7"
 tags:
   - method/experimental

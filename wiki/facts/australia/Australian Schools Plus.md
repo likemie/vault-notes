@@ -28,7 +28,7 @@ related_concepts:
   - "[[Co-affiliation]]"
   - "[[Policy Network]]"
   - "[[Assemblage]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
   - "[[STEM Education]]"
   - "[[Performance Indicators]]"
   - "[[Venture Philanthropy]]"
@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Australian Schools Plus
@@ -97,7 +97,7 @@ updated: 2026-10-16
 > - **前置试点铺垫样板** 在获得法定特许前，由 [[Social Ventures Australia\|SVA]] 先行在部分贫困学校开展“社会创投实验”，积累企业捐赠与绩效管控数据，向政府证明市场机制能“补充公共财政不足”，将私人慈善定义为破解不平等的必要方案。([[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 525]])
 > - **专项税法破例特许** 推动联邦议会专门修订《2014年税收与养老金法律修正案（第5号措施）》，破例授予学校加计划全国范围内的第一类可抵税捐赠受赠人（[[Deductible Gift Recipient]] Type 1, DGR1）法定资质；公立学校本身不具备 DGR1 资质，国家通过该法规直接指定其作为企业善款流入公立学校的唯一法定免税免审查管道。([[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]])
 > - **人事与物理深度共生** 初创期不仅与 SVA 共享同一办公室物理空间与联系电话，且法定公司注册档案明确记载 SVA 首席执行官[[Michael Traill\|迈克尔·特雷尔]]（Michael Traill）出任首任董事兼董事长，两机构通过治理层和高管人员实现无缝交叉渗透。
-> - **官方否认掩饰合法性危机** 随着对公共[[Endogenous and Exogenous Privatisation\|教育私有化]]的社会质疑升温，该机构在官网上抹去 SVA 孵化印记，并在面对学者质询时公开否认 Traill 曾任首任董事，声称与 SVA 无任何正式联系；这种刻意脱钩策略揭示了公立中介面对民主问责与利益输送审查时的合法性焦虑。([[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 531]])
+> - **官方否认掩饰合法性危机** 随着对公共[[Educational Privatisation\|教育私有化]]的社会质疑升温，该机构在官网上抹去 SVA 孵化印记，并在面对学者质询时公开否认 Traill 曾任首任董事，声称与 SVA 无任何正式联系；这种刻意脱钩策略揭示了公立中介面对民主问责与利益输送审查时的合法性焦虑。([[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 531]])
 
 > [!voice] 核心推手与政商游说通道
 > 访谈受访者指出，迈克尔·特雷尔（Michael Traill）是促成这一体系的关键人物。他拥有非同寻常的政商网络，能够直接联络最高决策层：

@@ -11,10 +11,10 @@ title: "Argument_ONeill_2016_Report"
 argument_key: "Argument_ONeill_2016_Report"
 argument_display_title: "Charities, philanthropists, policy entrepreneurs, international companies and state schooling in Aotearoa New Zealand"
 argument_kind: "report"
-argument_related_count: 48
-argument_related_level: 4
-argument_related_stars: "💎⭐"
-argument_related_color: "#dcfce7"
+argument_related_count: 50
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 issuing_organization: Massey University
 citation: "O'Neill, J., with Duffy, C., & Fernando, S. (2016). Charities, philanthropists, policy entrepreneurs, international companies and state schooling in Aotearoa New Zealand. Final report to NZEI Te Riu Roa, NZPPTA Te Wehengarua, and NZPF Ngā Tumuaki o Aotearoa. Massey University."
 tags:
@@ -85,7 +85,7 @@ related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
 status: active
 created: '2026-05-04'
-updated: 2026-10-16
+updated: 2026-10-17
 year: 2016
 doi: ""
 citation_aliases:
@@ -193,7 +193,7 @@ citation_aliases:
 > - **企业赞助学生早餐** 恒天然与食品公司以企业社会责任为名向学校赞助早餐牛奶和谷物，随后政府出资跟进，将学生基础营养保障托付给企业善举。（p.30）
 > - **条约赔偿资金办学** 毛利部族将怀唐伊条约赔偿所得的商业资产投入教育，建立自主特许学校。（pp.31, 39–40）
 
-这些外生私有化举措表明，国家正系统性重构其教育供给职能与干预方式：
+这些[[Exogenous Privatisation|外生私有化]]举措表明，国家正系统性重构其教育供给职能与干预方式：
 
 > [!policy-design] 新西兰国家党政府教育供给政策设计
 > - **目标** 控制公立教育财政支出增速，引入外部竞争以期提升系统运行绩效。

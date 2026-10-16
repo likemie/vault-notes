@@ -28,7 +28,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Emergence]]"
   - "[[Dual School System]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Exogenous Privatisation]]"
   - "[[Critical Pedagogy]]"
   - "[[Praxis]]"
   - "[[Cosmopolitanism]]"
@@ -52,7 +52,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-28
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Liliana Esther Olmos
@@ -106,7 +106,7 @@ updated: 2026-10-16
 
 > [!influence-path] 影响路径
 > - **理论路径** 推进了比较教育社会学对国家机器自主性与依附性边界的辩证认识，将[[Conditioned State Theory|受限国家理论]]确立为剖析第三世界教育不平等的重要典范。
-> - **政策批判路径** 揭穿了以[[World Bank|世界银行]]为代表的国际金融组织将教育新自由主义化、私有化（[[Endogenous and Exogenous Privatisation|内生与外生私有化]]）的霸权[[Discourse|话语]]，揭示[[Financial-Intellectual Complex|金融-智识复合体]]的技术官僚议程。
+> - **政策批判路径** 揭穿了以[[World Bank|世界银行]]为代表的国际金融组织将教育新自由主义化、私有化（内生与[[Exogenous Privatisation|外生私有化]]）的霸权[[Discourse|话语]]，揭示[[Financial-Intellectual Complex|金融-智识复合体]]的技术官僚议程。
 > - **区域研究路径** 深化了拉美[[Critical Pedagogy|批判教育学]]与成人扫盲运动对[[State Corporatism|国家法团主义]]（[[State Corporatism]]）机制的警惕，促使研究者直面双轨教育不平等背后的结构性阶级压迫。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引

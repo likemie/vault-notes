@@ -29,7 +29,7 @@ related_concepts:
   - "[[Sustainability Education]]"
   - "[[Commensuration]]"
   - "[[Self-control]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
   - "[[Variable]]"
   - "[[Policy Network]]"
 related_theories: []
@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-15
+updated: 2026-10-17
 ---
 
 # Social-Emotional Learning
@@ -175,7 +175,7 @@ updated: 2026-10-15
 > > - **SEL 支持者** 强调自我调节恰恰是弱势儿童克服逆境、发展行动主体性并争取社会流动必不可少的内在心理资本。
 
 > [!critique] 外部批评
-> - **议程商业化与私人资本俘获** 批判学者指出，SEL 的急剧全球流行深度迎合了私人科技巨头与慈善资本推销情绪监测软件、冥想课程包的商业利益，带来了严重的[[Endogenous and Exogenous Privatisation\|教育私有化]]风险。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 544)]]
+> - **议程商业化与私人资本俘获** 批判学者指出，SEL 的急剧全球流行深度迎合了私人科技巨头与慈善资本推销情绪监测软件、冥想课程包的商业利益，带来了严重的[[Educational Privatisation\|教育私有化]]风险。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 544)]]
 
 > [!warning] 适用局限
 > SEL 的成效高度依赖全校支持性文化与师生信任关系；若将其作为孤立的离散课程或单纯以测验分数进行高利害问责，将导致学生的策略性表演与虚伪伪装。

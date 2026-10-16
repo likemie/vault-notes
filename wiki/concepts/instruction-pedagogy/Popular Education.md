@@ -31,7 +31,7 @@ related_concepts:
   - "[[Time-Space Compression]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Global Citizenship]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
   - "[[Praxis]]"
   - "[[Politicity of Education]]"
 related_theories:
@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Popular Education
@@ -175,7 +175,7 @@ updated: 2026-10-16
 > - **1960 年代初 — 巴西东北部发轫** [[Paulo Freire|弗莱雷]]在巴西累西腓开展无地甘蔗工人识字试验，开创文化圈（Culture Circles）与[[Dialogue in Education|对话教学]]法，在短短 45 天内帮助文盲工人学会读写并确立政治意识。
 > - **1964–1970s — 军人独裁下的地下转战与拉美扩散** 巴西与阿根廷等国军人政变后，民众教育骨干转入地下，与天主教解放神学（Liberation Theology）基社团深度结合，在智利、尼加拉瓜与萨尔瓦多蓬勃发展。
 > - **1980s — 抵抗[[State Corporatism|国家法团主义]]与民主化转型** 面对墨西哥等国推行的威权法团扫盲，拉美民众教育理事会（CEAAL）建立，成为反思[[Compensatory Legitimation|补偿性合法化]]机制的核心学术与行动网络；[[Rolland Paulston|保尔斯顿]]与勒罗伊（Paulston & Leroy, 1980）系统提炼非正规教育自下而上推动社会变革的理论[[Paradigm|范式]]。
-> - **1990s 至今 — 另类全球化与草根社会运动融合** 面对新自由主义[[Endogenous and Exogenous Privatisation|教育私有化]]冲击，民众教育与巴西无地农民运动（MST）、墨西哥萨帕塔运动（EZLN）结合；[[Robert Arnove|阿诺夫]]（Arnove, 2005, 2009）进一步将其阐发为推动“自下而上全球化”的跨国正义网络。
+> - **1990s 至今 — 另类全球化与草根社会运动融合** 面对新自由主义[[Educational Privatisation|教育私有化]]冲击，民众教育与巴西无地农民运动（MST）、墨西哥萨帕塔运动（EZLN）结合；[[Robert Arnove|阿诺夫]]（Arnove, 2005, 2009）进一步将其阐发为推动“自下而上全球化”的跨国正义网络。
 
 ---
 

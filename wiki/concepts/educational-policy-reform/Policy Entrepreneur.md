@@ -29,7 +29,7 @@ related_concepts:
   - "[[Educational Management Organisation]]"
   - "[[Policy Mobility]]"
   - "[[Homework]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
   - "[[Visible Learning]]"
   - "[[Competitiveness]]"
   - "[[Dual-Entity Legal Structure]]"
@@ -71,7 +71,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Policy Entrepreneur
@@ -153,7 +153,7 @@ updated: 2026-10-16
 
 ### 命题二　政策企业家依托双层组织架构在公共、非营利与营利载体间无缝切换以实现学术资本商品化与制度套利
 
-> [!concept-lens] 新自由主义[[Endogenous and Exogenous Privatisation|教育私有化]]与双层组织制度套利维度
+> [!concept-lens] 新自由主义[[Educational Privatisation|教育私有化]]与双层组织制度套利维度
 > 剖析政策企业家如何利用公私界限模糊的制度缝隙，将公共科研成果转化为私有知识产权，并在利他公益[[Discourse|话语]]庇护下获取商业回报。
 
 > [!claim] O'Neill, J. et al.

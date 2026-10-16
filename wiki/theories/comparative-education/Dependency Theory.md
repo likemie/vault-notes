@@ -38,7 +38,7 @@ related_concepts:
   - "[[Positivism]]"
   - "[[Research Universities]]"
   - "[[Educational Multilateralism]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
   - "[[Research Question]]"
   - "[[Knowledge Production]]"
   - "[[Variable]]"
@@ -87,7 +87,7 @@ related_instruments: []
 confidence: high
 status: completed
 created: 2026-06-08
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Dependency Theory
@@ -173,7 +173,7 @@ updated: 2026-10-16
 ---
 
 > [!theory-proposition] 命题四｜债务危机与新自由主义重组将依附推向新阶段，跨国[[Financial-Intellectual Complex|金融-智识复合体]]与[[Shadow State|影子国家]]侵蚀公共教育主权
-> **解释** 20 世纪 80 年代以来，[[Educational Multilateralism|国际教育多边主义]]经历了从注重福利再分配向新自由主义[[Disciplina and Doctrina|规训]]与防卫的深刻转向。[[World Bank|世界银行]]与[[International Monetary Fund|国际货币基金组织]]结成金融-智识复合体，通过结构调整贷款强制受援国削减公共教育开支、推行[[Endogenous and Exogenous Privatisation|教育私有化]]与使用者付费。与此同时，援助机构绕过国家政府，将公共教育服务大量外包给非政府组织，使其退化为去政治化的“影子国家”；跨国经贸协定（[[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]]）进一步将教育商品化，使经济薄弱的边缘国家丧失了统筹国民教育与宏观调控的主权能力。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–80, 83–85)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–112)]]
+> **解释** 20 世纪 80 年代以来，[[Educational Multilateralism|国际教育多边主义]]经历了从注重福利再分配向新自由主义[[Disciplina and Doctrina|规训]]与防卫的深刻转向。[[World Bank|世界银行]]与[[International Monetary Fund|国际货币基金组织]]结成金融-智识复合体，通过结构调整贷款强制受援国削减公共教育开支、推行[[Educational Privatisation|教育私有化]]与使用者付费。与此同时，援助机构绕过国家政府，将公共教育服务大量外包给非政府组织，使其退化为去政治化的“影子国家”；跨国经贸协定（[[World Trade Organization|WTO]]/[[GATS and Trade in Education Services|GATS]]）进一步将教育商品化，使经济薄弱的边缘国家丧失了统筹国民教育与宏观调控的主权能力。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79–80, 83–85)]]; [[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 110–112)]]
 >
 > **应用实例** 约旦河西岸的学前教育民间组织深陷于西方捐助者的考核指标、自治政府的政治控制与本土社区诉求之间，丧失了批判能动性并演化为影子国家；智利在军政权时期推行激进教育券制与私有化，严重摧毁了公立基础教育的公共性。
 
@@ -182,7 +182,7 @@ updated: 2026-10-16
 ## 转化为分析框架
 
 > [!theory-use] 框架入口
-> - **[[Research Question|研究问题]]** 解释后发国家教育改革中的结构性不平等、跨国[[Policy Borrowing|政策借用]]异化、[[Endogenous and Exogenous Privatisation|教育私有化]]冲击、全球南方大学学术边缘化以及非政府组织外包困境。
+> - **[[Research Question|研究问题]]** 解释后发国家教育改革中的结构性不平等、跨国[[Policy Borrowing|政策借用]]异化、[[Educational Privatisation|教育私有化]]冲击、全球南方大学学术边缘化以及非政府组织外包困境。
 > - **分析对象与单位** 资本主义世界体系与国际多边组织借贷条件；受援国中央与地方教育财政预算；公立与私立学校质量分流数据；高校[[Knowledge Production|知识生产]]制度与学术评价指标。
 > - **需要的材料** 国际金融组织借贷协议与国家报告；教育阶段生均经费历史统计；学术期刊引用与科研评价指南；非政府组织外包合同文本。
 > - **解释目标** 揭示教育政策表层技术中立修辞下隐藏的中心-边缘宰制逻辑、买办阶级同盟利益与大众公民权被剥夺的实质。

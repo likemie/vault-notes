@@ -9,9 +9,9 @@ summary: "通过识别行动者、关系、节点和连接来测量社会关系�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 49
-method_related_level: 4
-method_related_stars: "💎⭐"
+method_related_count: 50
+method_related_level: 5
+method_related_stars: "💎⭐⭐"
 method_related_color: "#fef3c7"
 tags:
   - method/mixed
@@ -44,9 +44,10 @@ related_concepts:
   - "[[Causality]]"
   - "[[Epistemic Responsibility]]"
   - "[[Network Governance]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Exogenous Privatisation]]"
   - "[[Reflective Structuration]]"
   - "[[Ontology]]"
+  - "[[Educational Privatisation]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
   - "[[Complexity Theory]]"
@@ -79,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-22
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Network Analysis
@@ -220,7 +221,7 @@ updated: 2026-10-16
 > | [[Policy Network]] | 概念 | 网络分析用于实证绘制教育治理中的多行动者政策网络、跨国流动拓扑与公私同盟结构。 |
 > | [[Network Governance]] | 概念 | 网络分析是测算和揭示公私跨界网络治理拓扑同盟与非正式权力结构的核心实证工具。 |
 > | [[Policy Entrepreneur]] | 概念 | 网络分析用于识别跨界流动的关键政策企业家节点及其在政商学界的多重兼任连线。 |
-> | [[Endogenous and Exogenous Privatisation]] | 概念 | 网络分析通过连锁董事与服务外包合同拓扑，揭示教育外生私有化的深层网络结构。 |
+> | [[Exogenous Privatisation]] | 概念 | 网络分析通过连锁董事与服务外包合同拓扑，揭示教育外生私有化的深层网络结构。 |
 > | [[Reflective Structuration]] | 概念 | 网络分析用于检验反思性结构化与弹性分组是否促进了高密度的跨组交互与去中心化拓扑。 |
 > | [[Sociometry]] | 前置方法 | 莫雷诺（Moreno, 1934）社会计量学是社会网络分析的奠基之源，确立了点线图基石。 |
 > | [[Interactional Ethnography]] | 补充质性方法 | 互动[[Ethnography\|民族志]]为 SNA 网络拓扑提供微观话语互动[[Transcription in Qualitative Research\|转录]]与情境意义的质性[[Rich and Thick Description\|深描]]。 |
@@ -236,7 +237,7 @@ updated: 2026-10-16
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]] — 系统梳理社会网络分析的方法论源流、五大分析维度、七大关系类型学及矩阵图形展示技术。
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns and Schuller (2022)]] — 运用[[Participant Observation|参与观察]]与网络分析方法，深入剖析欧洲 23 国 36 家机构构成的 [[EU Evidence-Informed Education Policy Initiatives|EIPPEE]] 跨国教育[[Knowledge Mediation|知识中介]]网络，提炼元中介协同维系机制与制度张力。
 > - [[Argument_Brown_Greany_2018_LPS|Brown and Greany (2018)]] — 其基线[[Questionnaire|问卷]]从属于更大规模的社会网络分析设计，研究团队因此掌握每所学校教师与[[School Leadership|学校领导]]者的姓名与确切人数，得以逐校计算个体应答率。
-> - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 运用跨界[[Policy Network|政策网络]]与连锁董事分析，绘制新西兰公立[[Endogenous and Exogenous Privatisation|教育私有化]]中的学术特许网络与政商学同盟拓扑。
+> - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 运用跨界[[Policy Network|政策网络]]与连锁董事分析，绘制新西兰公立[[Educational Privatisation|教育私有化]]中的学术特许网络与政商学同盟拓扑。
 
 ---
 

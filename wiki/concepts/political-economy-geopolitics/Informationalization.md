@@ -8,7 +8,7 @@ aliases:
 summary: "以知识和信息为基础优化生产要素组合与使用的发展模式（Castells, 1996）。在宏观政治经济学中与依赖物质投入的工业化形成鲜明对照，要求信息自由流动与水平网络协同；在教育治理中表现为国家将数字基础设施、数据测评与教学服务向科技企业与商业中介外包，重塑公共教育的物质与权力基础。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -18,6 +18,7 @@ tags:
   - theme/educational-governance
   - theme/privatisation
 related_concepts:
+  - "[[Exogenous Privatisation]]"
   - "[[Bureaucracy]]"
   - "[[Network Governance]]"
   - "[[Disciplina and Doctrina]]"
@@ -25,7 +26,7 @@ related_concepts:
   - "[[Flow]]"
   - "[[State Vertical]]"
   - "[[Public-Private Partnership]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
   - "[[Emergence]]"
   - "[[Knowledge-Based Economy]]"
   - "[[Space of Flows]]"
@@ -51,7 +52,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-12
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Informationalization
@@ -76,7 +77,7 @@ updated: 2026-10-16
 > [!boundary]- 概念边界
 > - 不等于 **工业化（Industrialization）** — 工业化以物质能源和物理硬件规模为基石，可在自上而下的高度集中指令体制下高速推进；信息化则依赖知识创新的试错探索与无障碍横向对流，僵化集权体制往往成为信息化的结构性桎梏。
 > - 不等于 **单纯计算机化（Computerization）** — 计算机化仅指物理硬件设备的采购与安装；信息化涉及深层的生产关系、治理架构与制度机制重组，包括数据流动规则、去中心化协同与平台生态构建。
-> - 不等于 **中立教育技术赋能（Neutral EdTech Enablement）** — 在教育政策实践中，信息化并非脱离权力的中立工具，它与教育的外生私有化、商业服务竞标以及新型绩效问责机制深度捆绑。
+> - 不等于 **中立教育技术赋能（Neutral EdTech Enablement）** — 在教育政策实践中，信息化并非脱离权力的中立工具，它与教育的[[Exogenous Privatisation|外生私有化]]、商业服务竞标以及新型绩效问责机制深度捆绑。
 
 ---
 
@@ -129,7 +130,7 @@ updated: 2026-10-16
 
 ### 命题三　教育信息化通过数字基建与服务外包将公立教育重塑为商业技术准市场
 
-> [!concept-lens] 批判政策社会学与[[Endogenous and Exogenous Privatisation|教育私有化]]维度
+> [!concept-lens] 批判政策社会学与[[Educational Privatisation|教育私有化]]维度
 > 探讨教育信息化如何从纯粹的教学法革新演变为跨国科技资本与咨询中介重塑公立教育生态的制度通道。
 
 > [!claim] O'Neill, J., Duffy, C., & Fernando, S.
@@ -199,7 +200,7 @@ updated: 2026-10-16
 > | [[Informationalism]] | Theory | 信息化是信息主义技术[[Paradigm\|范式]]的经验展开与具体历史实现。 |
 > | [[State Vertical]] | Concept | 垂直行政集权是阻碍跨组织知识横向流动、导致信息化失败的结构性根源。 |
 > | [[Public-Private Partnership]] | Concept | 教育信息化普遍依赖政府与跨国科技企业及电信商建立的公私伙伴关系。 |
-> | [[Endogenous and Exogenous Privatisation]] | Concept | 信息化是公立教育将基础设施、课程软件与测评向私营部门外包的外生私有化载体。 |
+> | [[Exogenous Privatisation]] | Concept | 信息化是公立教育将基础设施、课程软件与测评向私营部门外包的外生私有化载体。 |
 > | [[Network Governance]] | Concept | 信息化驱动教育治理从自上而下的行政直线指令转向公私混合的多中心网络治理。 |
 > | [[Manaiakalani Education Trust]] | Fact | 新西兰基础教育信息化的标杆案例，体现了[[Venture Philanthropy\|风险慈善]]、科技赞助与家庭成本转嫁。 |
 > | [[Assessment Tools for Teaching and Learning]] | Instrument | 新西兰国家教育信息化测评的核心工具（e-asTTle），后卷入商业化招标争议。 |
@@ -212,5 +213,5 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Chan_2015_Intersect|Chan, 2015]] — 剖析苏联在工业化鼎盛期错失信息化革命的历史实证与制度机制。
-> - [[Argument_ONeill_2016_Report|O'Neill et al., 2016]] — 揭示教育信息化如何推动新西兰公立教育外生私有化与成本向下转嫁的实证分析。
+> - [[Argument_ONeill_2016_Report|O'Neill et al., 2016]] — 揭示教育信息化如何推动新西兰公立教育[[Exogenous Privatisation|外生私有化]]与成本向下转嫁的实证分析。
 

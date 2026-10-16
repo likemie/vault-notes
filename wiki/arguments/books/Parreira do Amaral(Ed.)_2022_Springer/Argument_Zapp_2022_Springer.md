@@ -38,7 +38,7 @@ related_concepts:
   - "[[Grandes Ecoles]]"
   - "[[Scientization of Politics]]"
   - "[[Epistemic Drift]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
   - "[[Pride in Learning]]"
   - "[[International Education Hubs]]"
   - "[[Generative Artificial Intelligence]]"
@@ -75,7 +75,7 @@ sources:
 part_of: '[[Argument_Parreira do Amaral_2022_Springer]]'
 status: draft
 created: '2026-05-11'
-updated: 2026-10-16
+updated: 2026-10-17
 year: 2022
 doi: ""
 citation_aliases:
@@ -180,7 +180,7 @@ Zapp 在前四步论证了知识如何进入治理，第五步翻转视角——
 **风险一：科学的政治化（politicization of science）**。知识的政治化是"知识的科学化"（[[Scientization of Politics]]）的反面。当政策制定者越来越依赖科学证据时，他们也开始学会了操纵证据。Zapp 识别了三级恶化(p.155)：
 
 1. **[[Epistemic Drift|认识漂移]](epistemic drift, Elzinga, 1997)** 研究者逐渐把自己的研究兴趣对齐资助方的偏好，放弃了自己的学术议程——这是 [[Epistemic Governance|知识治理]]的内在风险之一。"反正申请 SDG 相关的经费容易中，我就做 SDG 相关的研究吧。"
-2. **证据的选择性使用和制造** 政策制定者只引用支持自己立场的科学证据(Steiner-Khamsi et al., 2020)；有政治倾向的研究者可能预设结论地"制造"证据(Zapp, 2020a)。——"我知道[[Endogenous and Exogenous Privatisation|教育私有化]]好，我就做一项研究来'证明'它好。"
+2. **证据的选择性使用和制造** 政策制定者只引用支持自己立场的科学证据(Steiner-Khamsi et al., 2020)；有政治倾向的研究者可能预设结论地"制造"证据(Zapp, 2020a)。——"我知道[[Educational Privatisation|教育私有化]]好，我就做一项研究来'证明'它好。"
 3. **对科学的公开压制** 威权政权直接压制学术机构——Zapp 举了 Viktor Orbán 的匈牙利为例：性别研究被禁止在大学教学、中欧大学（CEU）被骚扰和被迫迁离、[[Chinese Academy of Sciences|科学院]]被政府严格控制(Scholars at Risk, 2019)。
 
 > 例：COVID-19 疫情提供了科学-政治关系恶化的鲜活案例——Trump and Bolsonaro 反复拒绝接受气候变化和公共卫生的科学共识，同时提供"替代事实"和"替代发现"(Barrera et al., 2020; Hopf et al., 2019)。当总统说"我不相信科学家"时，[[Otherhood]] 的整个逻辑就崩溃了——大学替"他者"发声，但如果没有人听呢？

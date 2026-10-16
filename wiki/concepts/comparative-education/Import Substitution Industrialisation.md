@@ -24,7 +24,7 @@ related_concepts:
   - "[[Washington Consensus]]"
   - "[[Growth]]"
   - "[[Structural Adjustment Programs]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
   - "[[Dual School System]]"
   - "[[Paradigm]]"
   - "[[Post-Fordism]]"
@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Import Substitution Industrialisation
@@ -86,7 +86,7 @@ updated: 2026-10-16
 > |------|---------------------|------------------------|----------------------|
 > | **经济积累逻辑** | 保护本土市场，通过关税替代进口工业品 | 利用低劳动力成本与出口退税融入全球贸易 | 融入跨国金融资本，推行去监管与外向依赖 |
 > | **国家角色定位** | 发展主义国家，兼具投资者与[[Neocorporatism\|法团主义]]庇护人 | 调节型国家，维护市场竞争秩序与外资优惠 | 规训型[[Conditioned State Theory\|受限国家]]，紧缩公共支出 |
-> | **教育扩张重点** | **中等与高等教育跳跃式扩张**（培养本土官僚与工业骨干） | **普惠初等与中等职业技术教育**（提供产业大军） | **推进高等教育使用者付费与[[Endogenous and Exogenous Privatisation\|教育私有化]]** |
+> | **教育扩张重点** | **中等与高等教育跳跃式扩张**（培养本土官僚与工业骨干） | **普惠初等与中等职业技术教育**（提供产业大军） | **推进高等教育使用者付费与[[Educational Privatisation\|教育私有化]]** |
 > | **社会公平后果** | 形成高等教育繁荣与底层文盲并存的[[Dual School System\|双轨倒金字塔]] | 基础教育相对普及，但劳工技能处于价值链低端 | 阶级固化加剧，弱势群体教育机会被市场剥夺 |
 
 ---

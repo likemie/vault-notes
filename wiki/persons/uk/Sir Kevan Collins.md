@@ -37,7 +37,7 @@ related_concepts:
   - "[[Phronesis]]"
   - "[[Academic Achievement]]"
   - "[[Venture Philanthropy]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
   - "[[School Leadership]]"
 related_theories: []
 related_methods:
@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Sir Kevan Collins
@@ -130,7 +130,7 @@ updated: 2026-10-16
 > > [!axis] 证据中介客观科学性 vs 跨国[[Policy Mobility\|政策流动]]与咨询寡头利益输送
 > > 探讨科林斯主导的证据中介全球输出是普惠性的科研成果转化，还是帮助新自由主义管理主义跨国扩张的载体。
 > >
-> > - **[[Network Ethnography\|网络民族志]]批判学者（[[Argument_Rowe_2022_IJER\|Rowe, 2022]]）** 批评科林斯跨国兼任 [[Australian Education Research Organisation\|AERO]] 董事是跨国[[Policy Network\|政策网络]][[Co-affiliation\|共同从属]]（co-affiliation）的典型标本；指出其所代表的 [[Education Endowment Foundation\|EEF]] 模式在澳洲并非纯学术输入，而是与麦肯锡系[[Venture Philanthropy\|风险慈善]]枢纽（[[Social Ventures Australia\|SVA]]）、矿业寡头（必和必拓）及企业法律特许权紧密绑定，其实质是将量化因果量规打造成“防野狗围栏”，以科学中立遮蔽[[Endogenous and Exogenous Privatisation\|教育私有化]]与商业分包。
+> > - **[[Network Ethnography\|网络民族志]]批判学者（[[Argument_Rowe_2022_IJER\|Rowe, 2022]]）** 批评科林斯跨国兼任 [[Australian Education Research Organisation\|AERO]] 董事是跨国[[Policy Network\|政策网络]][[Co-affiliation\|共同从属]]（co-affiliation）的典型标本；指出其所代表的 [[Education Endowment Foundation\|EEF]] 模式在澳洲并非纯学术输入，而是与麦肯锡系[[Venture Philanthropy\|风险慈善]]枢纽（[[Social Ventures Australia\|SVA]]）、矿业寡头（必和必拓）及企业法律特许权紧密绑定，其实质是将量化因果量规打造成“防野狗围栏”，以科学中立遮蔽[[Educational Privatisation\|教育私有化]]与商业分包。
 > > - **循证政策支持者（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）** 高度评价科林斯开创的 EEF 模式，认为他成功将英国教育研究带入了前所未有的方法论严密时代，使[[School Leadership\|学校领导]]者不再盲从商业推销，而是学会用公开独立证据进行审慎投资。
 >
 > > [!axis] 科学证据的普适性 vs 地方课堂情境的复杂性

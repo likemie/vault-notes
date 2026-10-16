@@ -11,7 +11,7 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 94
+fact_related_count: 96
 fact_related_level: 9
 fact_related_stars: "💎💎💎"
 fact_related_color: "#fecdd3"
@@ -67,7 +67,9 @@ related_concepts:
   - "[[Encyclopaedic Definition of Knowledge]]"
   - "[[Social Imaginary]]"
   - "[[Soft Power by Hard Facts]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
+  - "[[Endogenous Privatisation]]"
+  - "[[Exogenous Privatisation]]"
   - "[[Global Educational Discourse]]"
   - "[[Gatekeepers]]"
   - "[[State Educational Sovereignty]]"
@@ -131,7 +133,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # World Bank
@@ -383,7 +385,7 @@ updated: 2026-10-16
 > | [[Financial-Intellectual Complex]] | 概念 | 批判学者界定世行绑定信贷附加条件与定向[[Knowledge Production\|知识生产]]的跨国垄断机制。 |
 > | [[Conditioned State Theory]] | 理论 | 阐释世行[[Structural Adjustment Programs\|结构调整]]贷款如何作为超国家杠杆剥夺外围借贷国教育自主性。 |
 > | [[World-Systems Theory]] | 理论 | 为解构世界银行跨国资本借贷与中心-边缘规训提供宏观理论视角。[[Argument_Arnove_2009_WorldSystems\|(Arnove, 2009, pp. 104–106)]] |
-> | [[Endogenous and Exogenous Privatisation]] | 概念 | 世行[[Policy Conditionalities\|贷款附加条件]]推动的使用者自费（内生）与民办分权（外生）阶级策略。 |
+> | [[Educational Privatisation]] | 概念 | 世行[[Policy Conditionalities\|贷款附加条件]]推动的使用者自费（[[Endogenous Privatisation\|内生]]）与民办分权（[[Exogenous Privatisation\|外生]]）阶级策略。 |
 > | [[National Innovation System]] | 概念 | 世行结构调整与紧缩政策所严重侵蚀的发展中国家科技与工程自主能力母体。 |
 > | [[Chris Freeman]] | 人物 | [[Evolutionary Economics\|演化经济学]]家；实证对比世行受援国（如巴西）与东亚国家[[Systems of Innovation\|创新系统]]演进分化的代表学者。 |
 > | [[Teach Classroom Observation Tool\|Teach 课堂观察工具]] | 工具 | 世界银行 2019 年研制发布的面向发展中国家小学课堂的标准化微观观察工具。[[Argument_WorldBank_2019_Teach\|(World Bank Group, 2019, pp. 2–6)]] |

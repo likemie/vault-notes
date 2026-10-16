@@ -38,7 +38,7 @@ related_concepts:
   - "[[Gatekeepers]]"
   - "[[School Choice]]"
   - "[[Performance Pay]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
   - "[[Professional Judgment]]"
   - "[[Discourse]]"
   - "[[Democratising Evidence]]"
@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-25
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # National Education Association
@@ -157,7 +157,7 @@ updated: 2026-10-16
 > > 保守派与新自由主义市场化改革者（倡导凭证[[School Choice\|择校]]、特许学校扩张、按学生考试成绩发放[[Performance Pay\|绩效工资]]及取消教师终身聘用保护）长期指责 NEA 阻碍教育创新与清除不合格教师。
 > >
 > > - **批评视角** 认为工会严格的资历制与聘用保护压制了青年优秀教师的积极性，增加了学校解雇低效教师的行政成本。
-> > - **工会立场** 坚决指出缺乏工会保护的教师极易成为地方行政专断的牺牲品；集体谈判不仅是维权手段，更是维护专业独立性与防止公共[[Endogenous and Exogenous Privatisation\|教育私有化]]流失的最后防线。
+> > - **工会立场** 坚决指出缺乏工会保护的教师极易成为地方行政专断的牺牲品；集体谈判不仅是维权手段，更是维护专业独立性与防止公共[[Educational Privatisation\|教育私有化]]流失的最后防线。
 >
 > > [!axis] 政治行动与政党结盟争议
 > > 批评者质疑 NEA 经常性为特定政党候选人背书并投入巨额政治捐款，可能造成部分持不同政治立场会员的异化感。

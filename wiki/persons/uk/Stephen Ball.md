@@ -7,7 +7,7 @@ summary: "英国教育社会学家，伦敦大学学院教育学院政策社会�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 50
+person_related_count: 52
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -28,7 +28,8 @@ related_concepts:
   - "[[Performativity]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Discourse]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Endogenous Privatisation]]"
+  - "[[Exogenous Privatisation]]"
   - "[[Paradigm]]"
   - "[[Network Governance]]"
   - "[[Policy Entrepreneur]]"
@@ -43,6 +44,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Ontology]]"
   - "[[Attrition]]"
+  - "[[Educational Privatisation]]"
   - "[[Educational Management Organisation]]"
   - "[[Cultural Capital]]"
   - "[[Categorical Funding]]"
@@ -82,7 +84,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-05'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Stephen Ball
@@ -94,7 +96,7 @@ updated: 2026-10-16
 > [!person-profile] 人物档案
 > - **身份位置** 英国教育社会学家，伦敦大学学院教育学院（UCL Institute of Education）政策社会学荣休教授。
 > - **核心角色** 批判性教育政策社会学的开拓者，在全球教育市场化、私有化、[[Policy Network|政策网络]]治理、[[Performativity|表演性]][[Disciplina and Doctrina|规训]]以及新自由主义审计文化研究中承担核心[[Discourse|话语]]构建者的枢纽角色。
-> - **代表贡献** 提出教育政策制定的多重语境框架；系统区分教育的[[Endogenous and Exogenous Privatisation|内生与外生私有化]]；创立[[Performativity|表演性]]批判[[Paradigm|范式]]；揭示教育市场化作为新自由主义国家的阶级策略；发展[[Network Governance|网络治理]]与跨国[[Policy Entrepreneur|政策创业者]]的社会学批判。
+> - **代表贡献** 提出教育政策制定的多重语境框架；系统区分教育的[[Endogenous Privatisation|内生私有化]]与[[Exogenous Privatisation|外生私有化]]；创立[[Performativity|表演性]]批判[[Paradigm|范式]]；揭示教育市场化作为新自由主义国家的阶级策略；发展[[Network Governance|网络治理]]与跨国[[Policy Entrepreneur|政策创业者]]的社会学批判。
 
 ---
 
@@ -105,7 +107,7 @@ updated: 2026-10-16
 > - **1994 年** 出版著作 *Education Reform: A Critical and Post-structural Approach*，确立政策文本、政策语境与政策实践动态互动的批判[[Analytic Framework|分析框架]]。
 > - **2000 年代初** 加盟伦敦大学教育学院（IOE），任教育政策卡尔·曼海姆讲座教授；系统考察新工党政府的教育市场化与公私伙伴网络。
 > - **2003 年** 发表里程碑论文 *The teacher's soul and the terrors of [[Performativity]]*，提出[[Performativity|表演性]]（Performativity）概念，奠定批判量化问责对教师主体性异化研究的理论基石。
-> - **2008 年** 与德博拉·尤德尔（Deborah Youdell）合作发布全球报告《公共教育中的隐性私有化》，正式确立[[Endogenous and Exogenous Privatisation|内生与外生私有化]]的双轨分析[[Paradigm|范式]]；同年发表 *Some sociologies of education*，反思教育社会学史上的治理目光转向。
+> - **2008 年** 与德博拉·尤德尔（Deborah Youdell）合作发布全球报告《公共教育中的隐性私有化》，正式确立内生与[[Exogenous Privatisation|外生私有化]]的双轨分析[[Paradigm|范式]]；同年发表 *Some sociologies of education*，反思教育社会学史上的治理目光转向。
 > - **2012 年** 出版 *Global Education Inc.*，系统绘制全球教育商业化、[[Philanthrocapitalism|慈善资本主义]]与跨国[[Policy Network|政策网络]]图景。
 
 ---
@@ -119,7 +121,7 @@ updated: 2026-10-16
 > - **2000 — *What is policy? Texts, trajectories and toolboxes*** 提出政策文本（Text）与政策执行（Enactment）的经典张力，阐明去情境化的普遍政策模板无法直接推导出各国的微观实践结果。[[Argument_Beech_2009_GlobalGarden|(Ball, 2000, cited in Beech, 2009b, p. 352)]]
 > - **2001 — *'You've been NERFed!' Dumbing down the academy: National Educational Research Forum*** 尖锐批判英国国家教育研究论坛推行的实用问责导向，揭示分类委托合同研究对大学基础研究自主逻辑的侵蚀与学术降维（Dumbing Down）。[[Argument_Beech_2009_GlobalGarden|(Ball, 2001, cited in Beech, 2009b, pp. 355–356)]]
 > - **2003 — *The teacher's soul and the terrors of [[Performativity]]*** 确立[[Performativity|表演性]]理论范式，剖析以指标生产和外在审计为核心的管理主义技术如何重塑教师灵魂，诱发伦理精神分裂与职业异化。[[Argument_Johnson_2023_CritEduc|(Ball, 2003, cited in Johnson & Janzen, 2023, p. 29)]]
-> - **2008 — *Hidden Privatisation in Public Education*** （与 Deborah Youdell 合著）系统提出[[Endogenous and Exogenous Privatisation|内生与外生私有化]]分析范式，成为国际比较教育政策研究的奠基文献。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 4)]]
+> - **2008 — *Hidden Privatisation in Public Education*** （与 Deborah Youdell 合著）系统提出内生与[[Exogenous Privatisation|外生私有化]]分析范式，成为国际比较教育政策研究的奠基文献。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 4)]]
 > - **2008 — *Some sociologies of education: A history of problems and places, and segments and gazes*** 批判性总结教育社会学史，揭示量化审计指标如何将学校重构为可[[Disciplina and Doctrina|规训]]的[[Governing by Numbers|数字治理]]组织。[[Argument_Ball_2008_SR|(Ball, 2008, pp. 650–669)]]
 > - **2012 — *Global Education Inc.: New [[Policy Network|policy networks]] and the Neoliberal Imaginary*** 聚焦跨国教育商业化与[[Policy Entrepreneur|政策企业家]]网络。
 
@@ -140,9 +142,9 @@ updated: 2026-10-16
 >
 > *“Performativity is a technology, a culture and a mode of regulation that employs judgements and comparisons and displays of ‘output’ as means of control, [[Attrition]] and change. The performances (of individual subjects or of organizations) serve as measures of productivity or output, or displays of ‘quality’... It involves the colonisation of the teacher’s soul – a profound ontological reshaping of what it means to be a teacher.”*
 
-> [!taxonomy] [[Endogenous and Exogenous Privatisation|内生与外生私有化]]及其治理深化（Privatisation in and of Education）
+> [!taxonomy] [[Educational Privatisation|教育私有化]]：内生与[[Exogenous Privatisation|外生私有化]]及其治理深化（Privatisation in and of Education）
 > 鲍尔与尤德尔指出，私有化并不等于简单的学校倒闭或资产售卖，而是分为：
-> - **内生私有化（Privatisation in Education）** 公立学校在内部运作中模仿企业（引入内部竞争、绩效评估和指标考核）。
+> - **[[Endogenous Privatisation|内生私有化]]（Privatisation in Education）** 公立学校在内部运作中模仿企业（引入内部竞争、绩效评估和指标考核）。
 > - **外生私有化（Privatisation of Education）** 引入外部私营资本和公司直接介入学校建设与教学服务的交付。这构成了公立教育公共性流失的合力。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 4)]]
 > - **私有化的深层演进：政策制定权外包（Privatisation of Policy-Making）** 奥尼尔等人在吸收鲍尔框架的基础上进一步拓展指出，当私营 [[Educational Management Organisation|EMO]]、慈善信托与对冲基金跨界结盟时，外生私有化不仅停留在辅助服务交付，更直接跃迁为对国家核心法律条文与政策议程起草权的隐性掌控，并在双层法人外壳庇护下实现免税套利与民主问责阻断。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 4–6, 70–75)]]
 
@@ -171,17 +173,17 @@ updated: 2026-10-16
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 将福柯的政府[[Governmentality|治理术]]与[[Basil Bernstein|伯恩斯坦]]的符号[[Societies of Control|控制社会]]学引入政策分析，开辟了批判性教育政策社会学研究传统；其提出的[[Performativity|表演性]]与内生/外生私有化模型成为当代解构新自由主义教育改革的基础词汇。
+> - **理论路径** 将福柯的政府[[Governmentality|治理术]]与[[Basil Bernstein|伯恩斯坦]]的符号[[Societies of Control|控制社会]]学引入政策分析，开辟了批判性教育政策社会学研究传统；其提出的[[Performativity|表演性]]与内生/[[Exogenous Privatisation|外生私有化]]模型成为当代解构新自由主义教育改革的基础词汇。
 > - **方法路径** 推广[[Policy Network|政策网络]]拓扑学与社会网络地图绘制方法，为后继学者解构跨国教育商业化与[[Policy Entrepreneur|政策企业家]]的利益网络提供了有力工具。
 > - **政策批判路径** 为全球教师工会（如教育国际）抵制新自由主义私有化改革、反思以数据为主导的数字问责提供了坚实的理论武器；[[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]等学者直接继承其表演性批判，深入剖析 [[Visible Learning]] 与高影响力教学策略对一线教师的[[Disciplina and Doctrina|规训]]。
-> - **跨国扩展** 其关于市场化作为阶级策略与内生/外生私有化的[[Analytic Framework|分析框架]]被比较教育学者广泛运用于欧美、大洋洲及拉美等外围[[Conditioned State Theory|受限国家]]的教育重构分析；新西兰学者奥尼尔等（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）将鲍尔的政策网络与[[Endogenous and Exogenous Privatisation|内外生私有化]]理论运用于大洋洲福利国家重组实证，全面验证了资本以异层治理形式渗透政策制定中枢的分析有效性；其关于私营部门介入公共教育的论断与政策文本/执行张力分析，亦直接启发了[[Jason Beech]]构建全球教育[[Champ|场域]]五位置[[Discourse|话语]]流通模型。
+> - **跨国扩展** 其关于市场化作为阶级策略与内生/外生私有化的[[Analytic Framework|分析框架]]被比较教育学者广泛运用于欧美、大洋洲及拉美等外围[[Conditioned State Theory|受限国家]]的教育重构分析；新西兰学者奥尼尔等（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）将鲍尔的政策网络与内生与[[Exogenous Privatisation|外生私有化]]理论运用于大洋洲福利国家重组实证，全面验证了资本以异层治理形式渗透政策制定中枢的分析有效性；其关于私营部门介入公共教育的论断与政策文本/执行张力分析，亦直接启发了[[Jason Beech]]构建全球教育[[Champ|场域]]五位置[[Discourse|话语]]流通模型。
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 运用鲍尔关于表演性（Performativity）的规训理论，深入解构 Visible Learning 及其商业认证体系如何将教师异化为流水线操作工与数据生产工具（pp. 28–30）。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 运用鲍尔关于内生/外生私有化及跨国政策创业理论，实证剖析新西兰公立学校政策网络的商业化与治理重构。
 > - [[Argument_Ball_2008_SR|Ball (2008)]] — 自行阐述教育社会学史与治理目光的变迁，解构绩效技术对现代学校的主导机制。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 引用鲍尔对新自由主义审计社会的剖析，批判[[Evidence-Based Education|循证教育]]运动如何用[[Governing by Numbers|数字治理]]代替教育的民主目的与教师的[[Professional Judgment|专业判断]]。
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 援引鲍尔关于教育市场化作为阶级策略的经典论断，批判外围资本主义受限国家如何在新自由主义与[[World Bank|世界银行]][[Disciplina and Doctrina|规训]]下推行[[Endogenous and Exogenous Privatisation|教育私有化]]与分权甩包袱。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 援引鲍尔关于教育市场化作为阶级策略的经典论断，批判外围资本主义受限国家如何在新自由主义与[[World Bank|世界银行]][[Disciplina and Doctrina|规训]]下推行[[Educational Privatisation|教育私有化]]与分权甩包袱。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 援引鲍尔政策执行与研究合同化批判，揭示[[Global Educational Discourse|全球教育话语]]的过度简化诱惑，以及定向[[Categorical Funding|委托研究]]对高校学术生产逻辑的侵蚀。
 
 ---
@@ -189,7 +191,7 @@ updated: 2026-10-16
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **合作者** Deborah Youdell — 共同开展公共教育隐性私有化研究，提出[[Endogenous and Exogenous Privatisation|内外生私有化]]双轨模型。
+> - **合作者** Deborah Youdell — 共同开展公共教育隐性私有化研究，提出内生与[[Exogenous Privatisation|外生私有化]]双轨模型。
 > - **对话者／批判共鸣** [[Carlos Alberto Torres]]、[[Liliana Esther Olmos]] — 其关于市场化作为阶级策略与内生/外生私有化的框架被引入拉美[[Conditioned State Theory|受限国家]]批判分析。
 > - **理论对话者／拉美引申** [[Jason Beech]] — 比较教育学者，在其博士研究与五位置[[Discourse|话语]]流通模型中系统吸收鲍尔关于政策简约性诱惑、文本与执行张力以及定向委托合同研究侵蚀学术自主的论断。
 > - **理论引申与当代承接** Gerry R. Johnson & Melanie D. Janzen — [[Critical Pedagogy|批判教育学]]者，在解构《[[Visible Learning|可见的学习]]》时直接继承鲍尔的[[Performativity|表演性]]概念，剖析数据监控对教师主体性的殖民。
@@ -213,7 +215,7 @@ updated: 2026-10-16
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Performativity]] | 概念 | 鲍尔开创的批判教育社会学核心概念，揭示基于数据产出与[[External Auditor\|外部审计]]的[[Disciplina and Doctrina\|规训]]机制对教师灵魂的重塑。 |
-> | [[Endogenous and Exogenous Privatisation]] | 概念 | 区分学校内部企业化运营（内生）与将教学公共服务外包给私营部门（外生），成为分析教育私有化及公共性流失的奠基框架。 |
+> | [[Educational Privatisation]] | 概念 | 区分学校内部企业化运营（[[Endogenous Privatisation\|内生私有化]]）与将教学公共服务外包给私营部门（[[Exogenous Privatisation\|外生私有化]]），成为分析教育私有化及公共性流失的奠基框架。 |
 > | [[Policy Network]] | 概念 | 分析传统的官僚与市场治理如何被非正式、跨国的政策[[Network Governance\|网络治理]]形态所补充与重构。 |
 > | [[Policy Entrepreneur]] | 概念 | 将研究视角拓展至跨国维度，指认在全球范围内游说并推销私有化、绩效化方案的跨国商业与慈善代理人。 |
 > | [[Network Governance]] | 概念 | 提供探究多中心、多利益相关者非正式网络教育治理变迁的[[Analytic Framework\|分析框架]]。 |

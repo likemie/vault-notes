@@ -35,7 +35,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Geisteswissenschaften]]"
   - "[[Bildung]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
   - "[[Evidence-Based Education]]"
   - "[[Professional Judgment]]"
   - "[[Cognitive Decoupling]]"
@@ -121,7 +121,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-17
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Value Neutrality
@@ -254,7 +254,7 @@ updated: 2026-10-16
 > **政治中立呼吁的意识形态饱和性** 在充满阶级压迫与不平等的社会中，呼吁“价值中立”的研究由于拒绝反思制度性压迫，本质上就是意识形态饱和的；这种研究通过假装天真与无偏见，起到了阻遏激进变革、维系现状（Status Quo）的保守政治功能。[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011, p. 29)]]
 
 > [!claim] [[Liliana Esther Olmos|Olmos, L. E.]] & [[Carlos Alberto Torres|Torres, C. A.]]
-> **教育政策的技术中立假象与国家理论隐匿** 倡导技术官僚或技术主义取向的教育研究、课程设计与政策制定者，往往将自身方案包装为“价值中立”与客观科学的资源配置模型；然而，正如[[Paulo Freire|保罗·弗莱雷]]所揭示的，教育具有固有的政治性。任何对教育问题的界定与改革方案的提出，都不可避免地暗含着特定的国家理论假定；抽空政治与伦理审议的技术中立修辞，不仅掩盖了国家在资本积累与合法性维护之间的阶级妥协，更在客观上将新自由主义[[Endogenous and Exogenous Privatisation|教育私有化]]与紧缩政策包装为不可避免的客观规律，剥夺了被支配群体进行政治抵抗的话语空间。[[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009, pp. 73, 77–78)]]
+> **教育政策的技术中立假象与国家理论隐匿** 倡导技术官僚或技术主义取向的教育研究、课程设计与政策制定者，往往将自身方案包装为“价值中立”与客观科学的资源配置模型；然而，正如[[Paulo Freire|保罗·弗莱雷]]所揭示的，教育具有固有的政治性。任何对教育问题的界定与改革方案的提出，都不可避免地暗含着特定的国家理论假定；抽空政治与伦理审议的技术中立修辞，不仅掩盖了国家在资本积累与合法性维护之间的阶级妥协，更在客观上将新自由主义[[Educational Privatisation|教育私有化]]与紧缩政策包装为不可避免的客观规律，剥夺了被支配群体进行政治抵抗的话语空间。[[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009, pp. 73, 77–78)]]
 
 > [!claim] [[Martin Carnoy|Carnoy, M.]] & Kazamias, A. M.
 > **实证“价值中立”作为资本主义阶级再生产的意识形态借口** 马丁·卡诺伊（Carnoy, 1983）从新马克思主义批判视角指出，战后主流实证学者标榜的“价值中立”是一种极具欺骗性的政治拟态；实证派将教育研究窄化为个体理性选择、技术效率与社会均衡，自诩不偏不倚，却在根本上默认了资本主义生产关系与国家阶级统治的合理性；这种所谓中立的模型实质上充当了一种“意识形态借口”（ideological alibi），掩盖了教育体系在资本积累与劳动力阶级再生产中的内在制度性压迫。[[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a, pp. 153–154)]]
@@ -316,7 +316,7 @@ updated: 2026-10-16
 > - **1981 — 霍姆斯批判实证[[Operationalization|操作化]]的假中立与价值渗透** 霍姆斯（Holmes, 1981）指出操作化指标无法脱离文化价值系统而存在，实证派的中立口号实质上服务于战后中央理性规划与国际援助机构的技术官僚治理。[[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009, pp. 64, 66)]]
 > - **1983 — 新马克思主义解构价值中立作为资本主义再生产借口** [[Martin Carnoy|马丁·卡诺伊]]（Carnoy, 1983）批判实证学派以价值中立与个体选择掩盖资本主义阶级剥削与再生产，论证学术探究无法脱离国家权力结构。[[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a, pp. 153–154)]]
 > - **1987 — 评估方法论中价值立场的系统制度化** Smith & Glass 确立价值处理是区分科学研究与项目评估的核心分界线，承认多重价值呈现的正当性。
-> - **2009 — 批判教育政治经济学解构技术中立神话** 托雷斯与[[Liliana Esther Olmos|奥尔莫斯]]（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）结合拉美经验与[[Paulo Freire|弗莱雷]]传统，揭示任何教育政策诊断均暗含特定的国家理论，揭穿技术官僚将[[Endogenous and Exogenous Privatisation|教育私有化]]与削减福利包装为“客观中立”的意识形态欺骗。
+> - **2009 — 批判教育政治经济学解构技术中立神话** 托雷斯与[[Liliana Esther Olmos|奥尔莫斯]]（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）结合拉美经验与[[Paulo Freire|弗莱雷]]传统，揭示任何教育政策诊断均暗含特定的国家理论，揭穿技术官僚将[[Educational Privatisation|教育私有化]]与削减福利包装为“客观中立”的意识形态欺骗。
 > - **2010 年代至今 — [[Evidence-Based Education|循证教育]]与新自由主义[[Governing by Numbers|数字治理]]合谋批判** 循证教育运动以“中立证据”之名强制推行技术问责，引发 Wrigley 与 Biesta 等学者对“数字治理”（[[Governing by Numbers]]）去政治化虚伪性的全面清算。
 > - **2020 年代 — 宏观立法实务对学术中立陷阱的反思与重塑** 瑟佩尔（[[Argument_Serpell_2020_EducPsychol|Serpell, 2020]]）从美国国会山实务出发，指出过度固守中立平衡导致学术成果被立法者边缘化，主张研究者必须体察政治时间系统与价值信念，将实证证据融入价值叙事。
 > - **2024–2025 — [[Cognitive Decoupling|认知脱钩]]与公共舆论中事实-价值混淆的反思** [[Nate Silver|内特·银]]（Silver, 2024）与卡普、扎米斯卡（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|Karp & Zamiska, 2025]]）指出当代学术与舆论将描述性事实与规范性评价强行绑定的认识论危机，呼吁重建独立评估事实真伪的“认知脱钩”能力。
@@ -376,7 +376,7 @@ updated: 2026-10-16
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 剖析战后实证学派如何通过清除“价值负荷”确立科学身份，同时系统梳理霍姆斯对实证派指标[[Operationalization|操作化]]假中立的尖锐批判，揭示中立口号与战后理性规划技术官僚体制的共生关系。
 > - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki and Kazamias (2009)]] — 系统剖析早期比较教育文献，指出朱利安[[Questionnaire|问卷]]对道德宗教与全人教化的鲜明预设绝非研究“缺陷”，而是欧陆[[Geisteswissenschaften|精神科学]]中经验事实服从于社会伦理改良的必然要求，强力清算了实证派的教条指责。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a)]] — 梳理两百年比较教育学术流变，结合巴伯（Barber, 1972）与卡诺伊（Carnoy, 1983）论述，深刻解构战[[Postpositivism|后实证主义]]对“价值中立探究”的机械幻想，揭示其抽空教育伦理关切并沦为资本主义再生产与国家规划政治借口（alibi）的意识形态本质。
-> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 结合拉美外围资本主义现实与[[Critical Pedagogy|批判教育学]]，揭示任何教育政策诊断均暗含特定的国家理论，解构技术官僚将[[Endogenous and Exogenous Privatisation|教育私有化]]与紧缩政策伪装为“价值中立科学方案”的意识形态实质。
+> - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 结合拉美外围资本主义现实与[[Critical Pedagogy|批判教育学]]，揭示任何教育政策诊断均暗含特定的国家理论，解构技术官僚将[[Educational Privatisation|教育私有化]]与紧缩政策伪装为“价值中立科学方案”的意识形态实质。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 梳理比较教育学内部关于研究应当是[[Educational Meliorism|改良主义]]、[[Ideology Critique|意识形态批判]]抑或严格价值中立（Kazamias, 1961）的方法论交锋，将其作为学科科学化进程中的核心价值抉择。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 深入剖析英国 [[Education Endowment Foundation|EEF]] 工具包等循证实践，揭示技术官僚如何借助“价值中立证据”的科学修辞，回避关于工人阶层贫困与资本主义教育不平等的根本性政治辩论，消解教师的[[Professional Judgment|专业判断力]]。
 > - [[Argument_Biesta_2010_SPE|Biesta (2010)]] — 论述教育不仅关乎技能传授的效率，更关乎民主公民的培育与自主主体的生成；将教育决策托付给去价值的中立实证数据，是对教育民主本质的重大背叛。

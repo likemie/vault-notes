@@ -35,7 +35,7 @@ related_concepts:
   - "[[Competitiveness]]"
   - "[[Commensuration]]"
   - "[[Knowledge-Based Economy]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
 related_theories: []
 related_methods:
   - "[[Questionnaire]]"
@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # International Large-Scale Assessments
@@ -188,7 +188,7 @@ updated: 2026-10-16
 > > - **教育哲学家与教师组织** 担忧对 ILSAs 排名位次的痴迷导致各国竞相推行“为测验而教（Teaching to the Test）”，导致非测试科目（艺术、人文、体育）边缘化，侵蚀了教育培养完整人格的根本初心。
 
 > [!critique] 外部批评
-> - **2014 年全球百名学者致[[Andreas Schleicher\|施莱歇尔]]公开信** 著名教育学者联合致信抨击[[OECD\|经合组织]] [[PISA]] 测评严重加剧了全球学生与教师的心理焦虑，将公共学校异化为跨国[[Endogenous and Exogenous Privatisation\|教育私有化]]资本与商业测试公司的牟利车间。
+> - **2014 年全球百名学者致[[Andreas Schleicher\|施莱歇尔]]公开信** 著名教育学者联合致信抨击[[OECD\|经合组织]] [[PISA]] 测评严重加剧了全球学生与教师的心理焦虑，将公共学校异化为跨国[[Educational Privatisation\|教育私有化]]资本与商业测试公司的牟利车间。
 
 > [!warning] 适用局限
 > ILSAs 仅能测量特定横截面时点上的可编码认知技能；它既无法测量学校在品格、道德与公民责任维度的隐性培育价值，亦不能代替长周期的微观质性教育[[Ethnography\|人类学研究]]。

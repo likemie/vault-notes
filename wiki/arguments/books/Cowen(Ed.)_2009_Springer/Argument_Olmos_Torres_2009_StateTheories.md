@@ -25,7 +25,7 @@ related_concepts:
   - "[[Champ]]"
   - "[[Compensatory Legitimation]]"
   - "[[Financial-Intellectual Complex]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
   - "[[Praxis]]"
   - "[[Construct]]"
   - "[[Pact of Domination]]"
@@ -107,7 +107,7 @@ sources:
 part_of: "[[books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer|Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-09-28
-updated: 2026-10-16
+updated: 2026-10-17
 subtype: book-chapter
 publication_type: book-chapter
 title: "Argument_Olmos_Torres_2009_StateTheories"
@@ -134,7 +134,7 @@ issuing_organization: ""
 > 20 世纪下半叶波及全球的教育扩张为何无法通过功能主义或世界体系/[[World Society Theory|世界文化理论]]的同质化大爆炸假说得到合理解释？在跨国资本积累、全球化[[Disciplina and Doctrina|规训]]与本土阶级矛盾交织的背景下，民族国家的制度性质如何塑造公共教育政策？为何拉丁美洲等第三世界国家在经历了 1960 年代创纪录的教育扩张后，非但未能实现实质政治民主化与社会公平，反而在新自由主义结构调整中陷入公共教育退化、阶级双轨固化与公民身份商品化的多重危机？（pp. 73–76）
 
 > [!claim] 核心主张
-> 教育绝非政治中立的技术技能分配体系，而是深刻嵌入资本主义国家资本积累与社会合法化双重矛盾职能的争鸣[[Champ|场域]]；外围资本主义国家受制于全球资本积累的边缘地位与本土后封建政治结构，演化出排他性的[[Conditioned State Theory|受限国家]]与[[State Corporatism|国家法团主义]]体制，并借助双轨教育系统和[[Compensatory Legitimation|补偿性合法化]]维系阶级霸权；在新自由主义全球化下，以[[World Bank|世界银行]]（World Bank, WB）为核心的[[Financial-Intellectual Complex|金融-智识复合体]]通过结构性调整强推[[Endogenous and Exogenous Privatisation|教育私有化]]、分权化与使用者付费，实质上是以市场逻辑剥夺大众政治主体地位的阶级策略，唯有重构马克思主义[[Praxis|实践哲学]]与广泛的批判联盟方能开辟民主解放路径。（pp. 73–85）
+> 教育绝非政治中立的技术技能分配体系，而是深刻嵌入资本主义国家资本积累与社会合法化双重矛盾职能的争鸣[[Champ|场域]]；外围资本主义国家受制于全球资本积累的边缘地位与本土后封建政治结构，演化出排他性的[[Conditioned State Theory|受限国家]]与[[State Corporatism|国家法团主义]]体制，并借助双轨教育系统和[[Compensatory Legitimation|补偿性合法化]]维系阶级霸权；在新自由主义全球化下，以[[World Bank|世界银行]]（World Bank, WB）为核心的[[Financial-Intellectual Complex|金融-智识复合体]]通过结构性调整强推[[Educational Privatisation|教育私有化]]、分权化与使用者付费，实质上是以市场逻辑剥夺大众政治主体地位的阶级策略，唯有重构马克思主义[[Praxis|实践哲学]]与广泛的批判联盟方能开辟民主解放路径。（pp. 73–85）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 现代国家理论与教育扩张的互动关系，以 20 世纪战后拉丁美洲（重点考证墨西哥、阿根廷、哥斯达黎加与智利）的教育发展史、工业化转型与新自由主义结构调整为核心经验案例。（pp. 73–74, 81–84）
@@ -267,7 +267,7 @@ issuing_organization: ""
 > [!feature] 结构调整方案强加给发展中国家的三项教育紧缩处方
 > - **向学生收取学杂费（使用者付费）**
 >   取消初中等以上的免费教育，要求学生和家长自行负担学费与书本费，直接阻断了贫困家庭子弟向上流动的通道。
-> - **推行[[Endogenous and Exogenous Privatisation|教育私有化]]与教育券制度**
+> - **推行[[Educational Privatisation|教育私有化]]与教育券制度**
 >   鼓励私人资本建立营利性学校，通过发行教育券（Vouchers）刺激校际竞争，造成公立学校生源和资金枯竭。
 > - **行政管理与财政甩包袱（分权化改革）**
 >   中央政府以权力下放、自主管理为借口，将学校筹资和运营负担转移给财力孱弱的地方政府和贫困社区，导致区域校际鸿沟进一步拉大。

@@ -32,7 +32,7 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Epistemology]]"
   - "[[Compensatory Legitimation]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
   - "[[Credential Inflation]]"
   - "[[Heterogeneity]]"
   - "[[Structural Adjustment Programs]]"
@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-15
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Educational Level
@@ -153,7 +153,7 @@ updated: 2026-10-16
 > |---|---|---|---|
 > | **认知信念跃升命题** | 受教育年限提升显著降低朴素绝对主义认知比例，促进批判思维 | 发展心理学、认识论信念发展、大中小学[[Longitudinal Study\|纵向调查]] | [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] |
 > | **倒金字塔畸变命题** | 外围受限国家优先扩张高阶教育安抚精英，基础层级严重欠债 | 依附性资本主义国家教育扩张史、拉美教育现代化 | [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009, pp. 81–82)]] |
-> | **市场化排他封锁命题** | 高阶教育层级推行使用者自费，形成剥夺底层的阶级屏障 | 新自由主义结构调整、[[Endogenous and Exogenous Privatisation\|教育私有化]]改革 | Ball (1993); [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009, pp. 83–84)]] |
+> | **市场化排他封锁命题** | 高阶教育层级推行使用者自费，形成剥夺底层的阶级屏障 | 新自由主义结构调整、[[Educational Privatisation\|教育私有化]]改革 | Ball (1993); [[Argument_Olmos_Torres_2009_StateTheories\|Olmos and Torres (2009, pp. 83–84)]] |
 
 ---
 

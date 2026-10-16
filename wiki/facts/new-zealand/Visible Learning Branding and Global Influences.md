@@ -30,7 +30,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Sage]]"
   - "[[School Leadership]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
   - "[[Global Education Reform Movement]]"
   - "[[Technical Rationality]]"
   - "[[Class Size]]"
@@ -92,7 +92,7 @@ related_instruments:
 confidence: high
 status: stable
 created: '2026-05-04'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Visible Learning Branding and Global Influences
@@ -108,7 +108,7 @@ updated: 2026-10-16
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 2006 年商标申请启动，2009 年专著出版后迅速扩张，2018 年被 [[Corwin Press|Corwin]] 全面收购，持续影响至今；发源于新西兰，扩散至澳大利亚、英国、斯堪的纳维亚、北美及俄罗斯等 23 个以上国家。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 254)]]
 > - **核心当事主体** [[John Hattie|约翰·哈蒂]]（John Hattie）、[[Cognition Education]]（原 Multi Serve Trust）、Corwin（[[Sage]] 集团）、澳大利亚教学与[[School Leadership|学校领导力]]研究院（[[Australian Institute for Teaching and School Leadership|AITSL]]）、新西兰教育部及各国政策机构。
-> - **深层制度与社会背景** 新西兰 1989 年[[Tomorrow's Schools Reforms|明日学校改革]]开启的[[Endogenous and Exogenous Privatisation|教育私有化]]与外包服务体制，以及[[Global Education Reform Movement|全球教育改革运动]]（GERM）对量化绩效问责与循证标准（What Works）的强烈治理渴求。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 31–32)]]
+> - **深层制度与社会背景** 新西兰 1989 年[[Tomorrow's Schools Reforms|明日学校改革]]开启的[[Educational Privatisation|教育私有化]]与外包服务体制，以及[[Global Education Reform Movement|全球教育改革运动]]（GERM）对量化绩效问责与循证标准（What Works）的强烈治理渴求。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 31–32)]]
 > - **直接导火索 / 触发事件** 2009 年 1 月新西兰《星期日星报》（*Sunday STAR Times*）头版报道引发公众风暴，紧随其后的全球图书畅销促成学术 IP 与商业培训生态的全面对接。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, pp. 86–87)]]
 
 ---

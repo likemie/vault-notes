@@ -12,7 +12,7 @@ aliases:
 summary: "公共部门（政府机构）与私营部门（营利性企业、非营利组织或高校）之间建立的长期、制度化协作与契约化治理机制。在公共教育治理中，表现为政府将校舍基建（PFI）、地方教育局运营、学校督导、师资培训与教学服务向私营部门与跨国教育集团外包，引发教育外生私有化与商业顾问对公共政策主权的渗透；在战略科技创新中，表现为政府、产业界与研究型大学联合资助前竞争共性技术与战略攻关的多边研发联合体。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 46
+related_count: 47
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -27,6 +27,7 @@ tags:
   - policy/economic-development
 related_concepts:
   - "[[School Inspection]]"
+  - "[[Exogenous Privatisation]]"
   - "[[Research Universities]]"
   - "[[Discourse]]"
   - "[[Competitiveness]]"
@@ -38,7 +39,7 @@ related_concepts:
   - "[[Precompetitive Research]]"
   - "[[Innovation Hub]]"
   - "[[International Schools]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
   - "[[New Public Management]]"
   - "[[Market Failure]]"
   - "[[Variable]]"
@@ -81,7 +82,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-04
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Public-Private Partnership
@@ -91,7 +92,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> 公私合作伙伴关系（Public-Private Partnership, PPP），指公共部门（政府机构）与私营部门（营利性商业公司、社会资本或非营利组织）之间建立的长期、制度化协作与契约化治理机制。该概念在当代治理中涵盖两大核心向度：在**公共教育治理与公共服务交付**中，表现为政府将校舍基建（私人融资倡议，PFI）、地方教育局运营、[[School Inspection|学校督导]]评估、教师在职进修及后勤配餐等公共职能向私营资本和跨国教育集团外包，推动了教育的外生私有化并模糊了国家公共性边界；在**战略科技攻关与产业创新**中，表现为政府部门、产业界成熟企业与[[Research Universities|研究型大学]]联合资助、风险共担并协同执行前竞争共性技术攻关的多边三螺旋（[[Triple Helix]]）制度安排。Cardini (2006, pp. 393–395); [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 343–344)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 233–234)]]
+> 公私合作伙伴关系（Public-Private Partnership, PPP），指公共部门（政府机构）与私营部门（营利性商业公司、社会资本或非营利组织）之间建立的长期、制度化协作与契约化治理机制。该概念在当代治理中涵盖两大核心向度：在**公共教育治理与公共服务交付**中，表现为政府将校舍基建（私人融资倡议，PFI）、地方教育局运营、[[School Inspection|学校督导]]评估、教师在职进修及后勤配餐等公共职能向私营资本和跨国教育集团外包，推动了教育的[[Exogenous Privatisation|外生私有化]]并模糊了国家公共性边界；在**战略科技攻关与产业创新**中，表现为政府部门、产业界成熟企业与[[Research Universities|研究型大学]]联合资助、风险共担并协同执行前竞争共性技术攻关的多边三螺旋（[[Triple Helix]]）制度安排。Cardini (2006, pp. 393–395); [[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 343–344)]]; [[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 233–234)]]
 
 > [!concept-lens] 概念透镜
 > - **公共职能外包与国家边界重构** 透视公共服务从国家垄断供给向契约化市场购买的制度转移，揭示企业如何借由 PPP 渗透进原本专属于公共权力的政策咨询、督导与学校运营阵地。
@@ -164,7 +165,7 @@ updated: 2026-10-16
 
 ### 命题三　教育公私伙伴关系通过服务外包推动外生私有化，并将跨国企业重塑为政策变革催化剂
 
-> [!concept-lens] 公共教育外生私有化与政策主权渗透维度
+> [!concept-lens] 公共教育[[Exogenous Privatisation|外生私有化]]与政策主权渗透维度
 > 探讨公私伙伴关系如何将私营资本引入公共教育系统内部，使商业机构从服务承包商蜕变为拥有[[Discourse|话语]]主导权的政策制定者。
 
 > [!claim] Cardini (2006); [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]]; Ball (2005)
@@ -178,7 +179,7 @@ updated: 2026-10-16
 > 探讨重资产型私人融资倡议（PFI/PPP）如何将私营金融财团与商业物业公司的利益长期锁定进公立学校系统，揭示其对国家公共财政的刚性捆绑以及对一线校园日常空间治理自主权的削弱。
 
 > [!claim] [[Argument_ONeill_2016_Report|O'Neill, J., Duffy, C., & Fernando, S. (2016)]]
-> **重资产基建 PPP 对公共财政年金与学校空间权力的锁定** [[John O'Neill|约翰·奥尼尔]]等学者在剖析新西兰公立[[Endogenous and Exogenous Privatisation|教育私有化]]进程时指出，2012 年新西兰教育部将首个公立学校 PPP 合同授予学习基础设施伙伴联盟（Learning Infrastructure Partners, LIP；后重组为未来学校伙伴 Future School Partners），负责霍布森维尔点公立中小学（Hobsonville Point Primary & Secondary Schools）等校舍的设计、施工、私人融资以及长达 25 年的日常物业维护；财团背后的基石出资人包括由新西兰养老基金（NZ Super Fund）支撑的公共基础设施伙伴基金（PIP Fund）。该模式表面上平滑了政府当期的资本支出，但实质上要求国家公共财政在未来四分之一世纪内持续支付不可撤回的刚性租金年金，将商业金融资本的稳态收益索取权刚性固化于国家教育预算；更严重的是，一线公立学校的校长与教师失去了对校舍物理空间的自主支配权，日常活动安排与设施借用受制于物业公司的商业考核规程。此外，政府将恒天然（Fonterra）与 Sanitarium 食品公司推行的“校园早餐进击计划”（KickStart Breakfast）纳入公私匹配资助，实质上是将学生基础营养保障与公共福利托付给食品跨国企业的商业社会责任（CSR）公关工程。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 12, 30)]]
+> **重资产基建 PPP 对公共财政年金与学校空间权力的锁定** [[John O'Neill|约翰·奥尼尔]]等学者在剖析新西兰公立[[Educational Privatisation|教育私有化]]进程时指出，2012 年新西兰教育部将首个公立学校 PPP 合同授予学习基础设施伙伴联盟（Learning Infrastructure Partners, LIP；后重组为未来学校伙伴 Future School Partners），负责霍布森维尔点公立中小学（Hobsonville Point Primary & Secondary Schools）等校舍的设计、施工、私人融资以及长达 25 年的日常物业维护；财团背后的基石出资人包括由新西兰养老基金（NZ Super Fund）支撑的公共基础设施伙伴基金（PIP Fund）。该模式表面上平滑了政府当期的资本支出，但实质上要求国家公共财政在未来四分之一世纪内持续支付不可撤回的刚性租金年金，将商业金融资本的稳态收益索取权刚性固化于国家教育预算；更严重的是，一线公立学校的校长与教师失去了对校舍物理空间的自主支配权，日常活动安排与设施借用受制于物业公司的商业考核规程。此外，政府将恒天然（Fonterra）与 Sanitarium 食品公司推行的“校园早餐进击计划”（KickStart Breakfast）纳入公私匹配资助，实质上是将学生基础营养保障与公共福利托付给食品跨国企业的商业社会责任（CSR）公关工程。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 12, 30)]]
 
 ---
 
@@ -189,7 +190,7 @@ updated: 2026-10-16
 > |---|---|---|---|
 > | **竞合制度基石命题** | 前竞争边界划定与知识产权非独占共享是化解企业间商业冲突、维持多边互信的基石 | 包含直接市场竞争对手的产学研发联合体、共性标准与测试平台开发 | [[Argument_Ramming_2025_CorporateSupport\|Ramming (2025, pp. 233–234)]]; [[Argument_Grindley_1994_JPAM\|Grindley et al. (1994)]] |
 > | **跨界演进制度化命题** | 研究型 PPP 经历从企业战略倡议、行业前竞争联盟向国家法定多层级创新中心矩阵的演进 | 面临物理极限与地缘供应链安全的高科技战略产业 | [[Argument_Ramming_2025_CorporateSupport\|Ramming (2025, pp. 234–238)]]; [[Argument_NIST_2023_NSTC\|NIST (2023)]] |
-> | **[[Endogenous and Exogenous Privatisation\|教育私有化]]渗透命题** | PPP 通过服务外包推动教育外生私有化，使跨国营利性公司晋升为重塑政策的变革催化剂 | 基础教育服务外包、地方教育局管理、国际学校跨国运营 | Cardini (2006); Ball (2005); [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] |
+> | **[[Educational Privatisation\|教育私有化]]渗透命题** | PPP 通过服务外包推动教育外生私有化，使跨国营利性公司晋升为重塑政策的变革催化剂 | 基础教育服务外包、地方教育局管理、国际学校跨国运营 | Cardini (2006); Ball (2005); [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] |
 > | **基建财政策略锁定命题** | 校舍 PFI/PPP 借助 25 年长周期商业合同固化公共财政支出，并将校园物理空间管辖权让渡给物业财团 | 公立新校舍设计建造与长期物业外包、企业福利配餐外包 | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016, pp. 12, 30)]] |
 
 ---
@@ -243,9 +244,9 @@ updated: 2026-10-16
 >
 > | 条目 | 类型 | 核心关联说明 |
 > |:---|:---|:---|
-> | [[Endogenous and Exogenous Privatisation]] | 概念 | PPP 是推动公立教育系统实施外生私有化（服务购买与职能转包）的最主要制度载体。 |
+> | [[Exogenous Privatisation]] | 概念 | PPP 是推动公立教育系统实施外生私有化（服务购买与职能转包）的最主要制度载体。 |
 > | [[Policy Network]] | 概念 | PPP 打破传统自上而下的官僚层级，构建起连接政府、跨国公司与智库的多中心政策网络。 |
-> | [[Stephen Ball]] | 人物 | 批判政策社会学家，系统剖析教育私有化、政策网络与公私伙伴关系背后的阶级策略与商业利益。 |
+> | [[Stephen Ball]] | 人物 | 批判政策社会学家，系统剖析[[Educational Privatisation\|教育私有化]]、政策网络与公私伙伴关系背后的阶级策略与商业利益。 |
 > | [[Jason Beech]] | 人物 | 揭示[[Nord Anglia Education\|诺德安达]]与 [[GEMS Education\|GEMS]] 等跨国教育集团如何借助 PPP 演变为全球教育花园漫步者与政策顾问。 |
 > | [[Partnership Schools Kura Hourua]] | 事实 | 新西兰依据商业合同由营利与非营利机构运营公费私立学校的 PPP 制度实践。 |
 > | [[Teach First New Zealand]] | 事实 | 教育部、奥克兰大学与跨国慈善基金会联合运营的就业嵌入型初级师训 PPP 项目。 |

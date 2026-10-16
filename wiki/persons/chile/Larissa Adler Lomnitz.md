@@ -24,7 +24,7 @@ tags:
   - region/chile
 related_concepts:
   - "[[Structural Adjustment Programs]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
   - "[[Paradigm]]"
 related_theories:
   - "[[Conditioned State Theory]]"
@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Larissa Adler Lomnitz
@@ -76,7 +76,7 @@ updated: 2026-10-16
 > - **1950 年代** 毕业于智利大学，投身社会学与人类学[[Fieldwork|田野调查]]。
 > - **1970–1974** 在墨西哥国立自治大学（UNAM）师从人类学大师，完成具有世界性声誉的墨西哥城贫民窟人类学博士研究。
 > - **1975** 出版《边缘人如何生存》（*Cómo sobreviven los marginados*），由墨西哥著名学者出版社（Siglo XXI）出版，被誉为拉美非正式经济研究经典。
-> - **1980 年代** 针对智利皮诺切特军政权引入“芝加哥男孩”极端新自由主义改革展开实地田野调查，追踪中产阶级教师、公务员与专业人士在公共[[Endogenous and Exogenous Privatisation|教育私有化]]下的断崖式衰退。
+> - **1980 年代** 针对智利皮诺切特军政权引入“芝加哥男孩”极端新自由主义改革展开实地田野调查，追踪中产阶级教师、公务员与专业人士在公共[[Educational Privatisation|教育私有化]]下的断崖式衰退。
 > - **1991** 在美国出版专著《智利中产阶级：新自由主义下的生存斗争》（*Chile's Middle Class: A Struggle for Survival in the Face of Neoliberalism*）。
 > - **2006** 当选智利[[Chinese Academy of Sciences|科学院]]院士。
 > - **2019** 病逝于墨西哥城，享年 86 岁。
@@ -100,7 +100,7 @@ updated: 2026-10-16
 ## 核心思想
 
 > [!claim] 核心主张
-> 新自由主义绝不仅是一套抽象的经济增长理论，而是一场由跨国金融机构强行推进的、具有深重社会破坏力的阶级重构工程；智利的[[Endogenous and Exogenous Privatisation|教育私有化]]与教育券实验撕下了“提高效率与增进自由选择”的技术假面，其微观现实是公立学校体系名誉扫地、中产阶级家庭为了维系子女最基本的体面教育而背负无尽债务，社会信任与团结网络遭到制度性绞杀。
+> 新自由主义绝不仅是一套抽象的经济增长理论，而是一场由跨国金融机构强行推进的、具有深重社会破坏力的阶级重构工程；智利的[[Educational Privatisation|教育私有化]]与教育券实验撕下了“提高效率与增进自由选择”的技术假面，其微观现实是公立学校体系名誉扫地、中产阶级家庭为了维系子女最基本的体面教育而背负无尽债务，社会信任与团结网络遭到制度性绞杀。
 
 > [!citation-card] 新自由主义作为生存秩序瓦解者的实证定性
 > 智利中产阶级面对新自由主义不是在拥抱自由市场，而是在进行一场艰难的生存斗争。取消国家对教育、医疗和就业的托底保障，迫使普通家庭将所有积蓄耗费在商品化的私立教育市场上，这种模式将原本应当由公共财政承担的社会再生产成本全部转嫁给了脆弱的个体。
@@ -131,6 +131,6 @@ updated: 2026-10-16
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Endogenous and Exogenous Privatisation]] | 概念 | 为教育券与使用者付费在拉美引发的阶层分化提供了详实的第一手实证依据。 |
+> | [[Educational Privatisation]] | 概念 | 为教育券与使用者付费在拉美引发的阶层分化提供了详实的第一手实证依据。 |
 > | [[Fieldwork]] | 方法 | 运用人类学[[Participant Observation\|参与观察]]与[[In-depth Interview\|深度访谈]]揭示教育紧缩政策的微观生存冲击。 |
 > | [[Conditioned State Theory]] | 理论 | 佐证了受限国家在外债压力下彻底放弃公共福利保障职能的残酷后果。 |

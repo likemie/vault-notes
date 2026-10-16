@@ -25,7 +25,7 @@ tags:
   - theme/educational-policy-reform
   - theme/privatisation
 related_concepts:
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
   - "[[School Choice]]"
   - "[[New Public Management]]"
   - "[[Grandes Ecoles]]"
@@ -52,7 +52,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 status: active
 created: '2026-10-16'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # New Zealand Initiative
@@ -62,7 +62,7 @@ updated: 2026-10-16
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 新西兰倡议（The New Zealand Initiative, NZI）是新西兰首屈一指的亲市场（Pro-market）与自由意志主义公共政策智库，由大型私营企业财团出资设立，致力于通过政策研究、媒体公关与跨界精英网络，推动新自由主义经济改革、去规制化与公立[[Endogenous and Exogenous Privatisation|教育私有化]]进程。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 52–53, 70–71)]]
+> 新西兰倡议（The New Zealand Initiative, NZI）是新西兰首屈一指的亲市场（Pro-market）与自由意志主义公共政策智库，由大型私营企业财团出资设立，致力于通过政策研究、媒体公关与跨界精英网络，推动新自由主义经济改革、去规制化与公立[[Educational Privatisation|教育私有化]]进程。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 52–53, 70–71)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 2012 年成立。由 1980 年代力推“罗杰经济学”的新西兰[[Business Roundtable|商业圆桌会]]议（NZBR）与新西兰研究所合并重组，对标[[Centre for Independent Studies|澳大利亚独立研究中心]]（CIS）进行现代化品牌包装。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 52)]]
@@ -82,7 +82,7 @@ updated: 2026-10-16
 >   - **1989 年** 推动新西兰基础教育走向以独立学校为核算单位的新公共管理分权模式。
 >   - **2011 年** 商业圆桌会议与侧重长期生产率研究的新西兰研究所达成合并共识。
 >
-> - **2012 年–至今** **智库品牌重塑与[[Endogenous and Exogenous Privatisation|教育私有化]]政策倡导**
+> - **2012 年–至今** **智库品牌重塑与[[Educational Privatisation|教育私有化]]政策倡导**
 >
 >   合并成立新西兰倡议（NZI），完成从传统商业游说团向“独立思想领导力研究机构”的转型，深度介入国家党执政时期的基础教育改革。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 52–53)]]
 >
@@ -161,7 +161,7 @@ updated: 2026-10-16
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Endogenous and Exogenous Privatisation]] | Concept | 该智库倡导的核心教育治理转型[[Paradigm\|范式]]。 |
+> | [[Educational Privatisation]] | Concept | 该智库倡导的核心教育治理转型[[Paradigm\|范式]]。 |
 > | [[Policy Network]] | Concept | 智库赖以运作的跨界精英与政商协同关系。 |
 > | [[Partnership Schools Kura Hourua]] | Fact (Policy) | 该智库全力游说并促成设立的特许学校法案与试点。 |
 > | [[Tomorrow's Schools Reforms]] | Fact (Event) | 智库前身新西兰[[Business Roundtable\|商业圆桌会]]议直接参与催生的分权改革。 |

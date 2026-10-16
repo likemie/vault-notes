@@ -34,7 +34,7 @@ related_concepts:
   - "[[Space of Flows]]"
   - "[[Co-affiliation]]"
   - "[[Assemblage]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
   - "[[Network Governance]]"
   - "[[Deductible Gift Recipient]]"
   - "[[Social Impact Investing]]"
@@ -84,7 +84,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Policy Mobility
@@ -138,7 +138,7 @@ updated: 2026-10-16
 > - **关系拓扑与跨尺度流动（Relational Topologies and Trans-scalar Mobility）** [[Space of Flows\|流动空间]]由行动者之间的制度联结、重叠董事任职（[[Co-affiliation\|Co-affiliations]]）与资助网络界定，而非传统的物理距离；远隔重洋的跨国私市股权基金、华尔街投行与地方公立学校，在[[Topological Spatialisation\|拓扑空间]]中通过紧密的中介枢纽直接相连。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 6, 8]]
 > - **快速政策与中介经纪（Fast Policy and Intermediary Brokerage）** 政策由麦肯锡（McKinsey & Company）等跨国咨询巨头、[[Venture Philanthropy\|风险慈善]]基金会与智库打包为去情境化、即插即用的因果证据与商业评估量规，以超常规的行政速度在跨国体系间高速流通，剥夺公众民主审议时间。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3–4]]
 > - **物质耐用性与无生命装配（Inanimate [[Assemblage]] and Durable Materials）** 观念层面的政策流动必须具身化（embodied）并固定在公司法注册资格、法案修改条款、标准化随机试验量规等耐用材料中，方能在异地获得长期的合法性与制度刚性。[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 2, 5, 10]]
-> - **金融资本的黏合与通道作用（Financial Capital as Relational Glue）** 政策流动不仅是观念或技术的传播，其根本动力完全由穿透边境的资本纽带所驱动；大型商业银行、主权基金与资源寡头的资金流向慈善信托与中介智库，直接催生出顺应资本增殖逻辑的[[Endogenous and Exogenous Privatisation\|教育私有化]]改革方案。[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 6]]
+> - **金融资本的黏合与通道作用（Financial Capital as Relational Glue）** 政策流动不仅是观念或技术的传播，其根本动力完全由穿透边境的资本纽带所驱动；大型商业银行、主权基金与资源寡头的资金流向慈善信托与中介智库，直接催生出顺应资本增殖逻辑的[[Educational Privatisation\|教育私有化]]改革方案。[[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 6]]
 > - **国家催化与税法特许装配（State Catalysation and Tax-Concession Assemblage）** 政策流动中的国家并非被动的规则接受者，而是主动充当[[Network Governance\|网络治理]]的“催化平台”与“市场缔造者”；国家通过授予[[Deductible Gift Recipient\|第一类可扣税赠款人]]（Deductible Gift Recipient Item 1, DGR1）特许免税资质与制定定向政策建议，将英美风险慈善与[[Social Impact Investing\|影响力投资]]模型系统装配至公共教育体系，并借助四层控股法人网络完成商业资本与国家权力的制度咬合。[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 522–526]]
 
 > [!logic-map]- 政策流动运行拓扑图

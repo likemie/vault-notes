@@ -11,7 +11,7 @@ subtype: program
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "program"
-fact_related_count: 24
+fact_related_count: 25
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -31,10 +31,11 @@ related_concepts:
   - "[[Grandes Ecoles]]"
   - "[[STEM Education]]"
   - "[[Venture Philanthropy]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Educational Privatisation]]"
   - "[[School Choice]]"
   - "[[Response-ability]]"
   - "[[Public-Private Partnership]]"
+  - "[[Exogenous Privatisation]]"
   - "[[Policy Entrepreneur]]"
   - "[[Co-affiliation]]"
 related_theories: []
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Teach First New Zealand
@@ -147,7 +148,7 @@ updated: 2026-10-16
 
 > [!debates] 核心学术批判与政策交锋
 >
-> > [!axis] 跨国对冲基金资本与[[Endogenous and Exogenous Privatisation|教育私有化]]意识形态输出
+> > [!axis] 跨国对冲基金资本与[[Educational Privatisation|教育私有化]]意识形态输出
 > > 批判学者奥尼尔（[[John O'Neill]]）等揭示，TFNZ 表面上是由本土爱心人士发起的反贫困公益项目，但其关键始创资本和持续命脉来自于**美国对冲基金亿万富翁朱利安·罗伯逊（Julian Robertson）主导的奥特亚罗瓦基金会（Aotearoa Foundation）**。
 > >
 > > - **批判揭露** Aotearoa Foundation 注册于纽约且母体设立于开曼群岛（Cayman Islands），其受托人罗伯逊名下的罗伯逊基金会（Robertson Foundation，净资产超 5.75 亿美元）长期作为美国特许学校运动与激进[[School Choice|择校]]改革的最大金主之一（累计向 KIPP、Harlem Children's Zone 及 Teach For All 注入数千万美元）。通过 TFNZ，跨国金融资本成功在新西兰搭建了宣传市场化师训、削弱公立师资垄断的跨国制度滩头阵地。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 28, 54)]]
@@ -171,7 +172,7 @@ updated: 2026-10-16
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
 > | [[Public-Private Partnership]] | Concept | TFNZ 是教育部、公立大学与跨国非营利基金会建立的三方公私伙伴关系典型项目。 |
-> | [[Endogenous and Exogenous Privatisation]] | Concept | 属于将初级师资选拔与培训向私营慈善信托外包的外生私有化实践。 |
+> | [[Exogenous Privatisation]] | Concept | 属于将初级师资选拔与培训向私营慈善信托外包的外生私有化实践。 |
 > | [[Venture Philanthropy]] | Concept | 依托罗伯逊基金会、廷德尔基金会与[[NEXT Foundation\|内克斯特基金会]]等高参与度风险慈善资本运作。 |
 > | [[Policy Entrepreneur]] | Concept | 萨顿等跨界行动者利用消除教育不平等的福利[[Discourse\|话语]]，在政商学界之间成功穿梭并实现制度突围。 |
 > | [[STEM Education]] | Concept | 该项目重点定向补足奥克兰与北地薄弱校数学与科学专业教师短缺。 |
