@@ -1,0 +1,690 @@
+Die Hattie-Studie in der Diskussion: Probleme sichtbar machen
+Herausgegeben von Ewald Terhart | 1. Auflage 2014 | Seelze: Kallmeyer in Verbindung mit Klett
+ISBN 978-3-7800-4804-2
+
+Leseeinheit 08: Wirksamer Fachunterricht: Visible Learning in geschichtsdidaktischer Perspektive
+Marko Demantowsky; Monika Waldis
+Originalseiten 101–116; PDF-Seiten 101–116
+
+[Deutscher Originaltext aus der OCR-Textebene des gescannten PDFs. Die Nummer der Leseeinheit folgt dem Inhaltsverzeichnis; die Beiträge sind im Original nicht nummeriert. Fußnoten und Literatur bleiben im jeweiligen Beitrag. Seitenmarkierungen verweisen auf Buchseite und PDF-Seite. OCR-Fehler können verbleiben; genaue Zitate, Tabellen und Abbildungen bitte am PDF prüfen.]
+
+
+========================================================================
+Beitrag mit Anmerkungen und Literatur
+========================================================================
+
+[p. 101] [PDF page 101]
+
+Marko Demantowsky, Monika Waldis
+
+
+Wirksamer Fachunterricht
+Visible Learning in geschichtsdidaktischer
+Perspektive
+
+Hattie aus fachdidaktischer Perspektive zu lesen ist nicht einfach, weil sich
+seine Studie ausdrücklich auf allgemeine Wirkfaktoren von Unterricht be-
+zieht. Dennoch soll das hier auf mehrfache Weise versucht werden, indem
+nach Relevanz, forschungsmethodischen Grenzen und der fachbezoge-
+nen Deklinationsfähigkeit gefragt wird. Aus geschichtsdidaktischer Per-
+spektive kann festgestellt werden, dass Hattie durchaus Anschlussfähigkeit
+besitzt, weil er alte Fragen neu in den Fokus rückt und Antworten auf em-
+pirischer Grundlage präsentiert. Für die geschichtsdidaktische Forschung
+und die unterrichtliche Praxis stellt Hattie eine positive Provokation dar,
+die dazu anregt, für selbstverständlich gehaltene Tatsachen zu reflektieren.
+
+
+Es gehört fast zu den selbstverständlichen Stereotypen mehr oder minder
+bildungsbürgerlicher Selbstverständigung in Deutschland, sich offen dazu
+zu bekennen, dass von dem, was in der Schule eigentlich gelernt werden
+sollte, rein gar nichts mehr gegenwärtig sei (z.B. Hermann 2010, S. 31).
+Einzelne Erlebnisse, ja das "Leben an sich" mit seinen personengeprägten
+Abstrusitäten und seiner grundsätzlichen Unwägbarkeit, ja auch - daran
+erinnere man sich, aber: Wer wisse noch etwas Konkretes aus dem Chemie-,
+Religions- oder Geschichtsunterricht? Wer hätte je wieder etwas davon ge-
+braucht?
+    In diesem Stereotyp vom wirkungslosen und lebensfernen Schulun-
+terricht liegt selbstverständlich sehr viel entlastender und narzisstischer
+Selbstentwurf. Alles biografisch Erreichte kann auf diese Weise ausschließ-
+lich sich selbst zugeschrieben werden. Neben diesem nur allzumenschli-
+chen Motiv gehört noch etwas anderes zum Topos des bedeutungslosen
+Schulunterrichts, nämlich dessen altbekannte und "gute" Paradoxie des
+Sich-durch-Erfolg-Überflüssigmachens. Denn der Erfolg von schulischem
+Unterricht zeigt sich nicht zuletzt darin, dass Vieles in ihm Gelernte so
+
+[p. 102] [PDF page 102]
+
+selbstverständlich wird, dass man sich gar nicht mehr vorstellen kann, es
+jemals nicht gewusst zu haben oder gar - horribile dictu - in der Schu-
+le gelernt zu haben. Die Anpa~sungen und die (Nach-)Konstruktionen der
+schulfachrelevanten expliziten wie impliziten Theorien (Haliden 1997) ge-
+schehen selten als Heureka in der griechischen Badewanne, sondern sind
+in der Regel für den einzelnen Lernenden längere, nicht immer gradlinige,
+auch widersprüchliche Prozesse, die meist ungenügend reflektiert werden.
+    Diese ungenügende Reflexion des Lernprozesses liegt offenbar auch dar-
+an, dass Lernzuwächse und Lernprobleme zu selten und zu wenig systema-
+tisch sichtbar gemacht worden sind (Hattie 2013, S. 285). Damit steht man
+schon mitten in Hatties Text. Wie zu zeigen war, steckt also auch in diesem
+Stereotyp vom wirkungslosen Schulunterricht eine (ungewusste) richtige
+Einsicht. Der (falsche) Eindruck, nichts gelernt zu haben, rührt auch daher,
+dass einem - jenseits der zu bestehenden Leistungskontrollen und ihren
+kaum zu objektivierenden Benotungen - das Lernen selbst nicht bewusst
+gemacht worden ist und man es sich deshalb auch nicht bewusst gemacht
+hat. Dieser Befund wiederum zeigt, woran der schulische Unterricht sowie
+seine Wahrnehmung und Wirkung in individuell-langfristiger, biografischer
+Perspektive tatsächlich leidet (vgl. Sauer u.a. 2014): Nicht, dass er nicht
+wirksam wäre (was von den Schülerinnen und Schülern selten erkannt
+wird), sondern dass er nicht wirksam genug ist (wofür die entsprechende
+Erkenntnis der Schülerinnen und Schüler ein valides Kriterium wäre).
+    In der deutschen Didaktik der Geschichte war und ist, abgesehen von
+zwei frühen Thematisierungen (Müller 1972; Grieshammer 1976), der Effi-
+zienz- und Wirksamkeitsgedanke weithin verpönt. Das hat sehr viel mit der
+Entstehungszeit der modernen Geschichtsdidaktik in der Bundesrepublik
+der 1960er und 1970er Jahre zu tun. In dieser Zeit musste sich die entste-
+hende Disziplin mit einem ehrgeizigen und produktiven Pendant auseinan-
+dersetzen: In der DDR war sie staatslegitimatorisch eingebunden und hatte
+sich gemäß der marxistisch-leninistischen Propaganda einem überzogenen
+Wirksamkeitsanspruch verschrieben (Müller 1972, S. 20f.; Kruppa/Wermes
+1975, S. 1-20). Müllers westdeutsche empirische Arbeit wiederum ist ein
+Paradebeispiel für einen rezeptalogisch vereinseitigten Untersuchungsan-
+satz, dessen Ergebnis, dass nämlich Gruppenunterricht mit Quellenarbeit
+effektiver sei als Frontalunterricht mit Lehrererzählung, sicher keinen Leser
+überrascht haben wird (Müller 1972, S. 153 f.). Das ist natürlich nicht die
+Art von Wirksamkeitsuntersuchung, die Hattie mit seiner breit in die an-
+
+[p. 103] [PDF page 103]
+
+gelsächsische Forschungsliteratur eingebetteten Meta-Metaanalyse betreibt
+(vgl. kritisch Terhart 2011, S. 289-292).
+    Die geschichtsdidaktische Diskussion nähert sich seit einigen Jahren in
+einzelnen Beiträgen einer offenen und vorurteilsreflektierten Effizienz-
+diskussion vorsichtig wieder an (z.B. Gautschi 2013, S. 221-229). DasAn-
+regungspotenzial von Hattie für die Didaktik der Geschichte erscheint uns
+auch deswegen im Moment groß.
+    Im Folgenden soll zunächst (1) kurz zu Spezifik und den Grenzen der
+Hattie-Studie Stellung genommen werden. Anschließend möchten wir vor
+diesem Hintergrund versuchen, (2) das allgemeine Element der Fachlich-
+keit des Unterrichts näher zu beleuchten und darüber hinaus (3) das spe-
+zifisch geschichtsdidaktische Anregungs- oder auch Bestätigungspotenzial
+der Hattie-Studie näher zu bestimmen.
+
+
+
+Spezifik und Grenzen der Studie
+
+
+Bei der Rezeption der Ergebnisse der Synopse von 800 Metaanalysen sind -
+wie bei allen empirischen Studien - die Grenzen dieses riesigen Unterfan-
+gens zu beachten. Der Autor selbst verweist in seinem Buch immer wieder
+aufVorzügeund Grenzen der Aussagekraft der vorliegenden Daten (Hattie
+2009, S. 237 -261). Aus Sicht der deutschsprachigen Bildungsforschung
+gibt es weitere Punkte anzumerken (vgl. Steffens/Höfer 2012; Terhart 2011
+und in diesem Band), die von Relevanz sind, wenn aus den vorliegenden
+Befunden Schlussfolgerungen zur zukünftigen Gestaltung von Schule und
+Unterricht herangezogen werden sollen. Zum Verständnis der vorliegenden
+Ergebnisse ist zu beachten,
+   - dass Hatties Studie auf Metaanalysen basiert und es demnach we-
+       niger darum geht, ein differenziertes Bild zu einzelnen Gestaltungs-
+       merkmalen zu geben: Vielmehr steht der Vergleich der Wirksamkeit
+       verschiedenster Faktoren der Gestaltung von Schule und Unterricht
+       im Vordergrund;
+   - dass der Fokus der Studie auf der Erklärung von leistungsförderlichen
+       Faktoren liegt, indem Effektmaße (Effektstärken) im Hinblick auf
+       Leistungszuwächse berichtet werden, weitere schulische Outcomes
+       wie zum Beispiel Interesse oder fachliches Selbstkonzept hingegen
+       keine Beachtung erhielten: Hattie anerkennt diese Lücke (2009,
+
+[p. 104] [PDF page 104]
+
+S. 254), weist aber darauf hin, dass Lernzuwächse und Leistungsfort-
+       schritte das zentrale Ziel von Schule und Unterricht sind bzw. sein
+       müssen;
+   - dass Aussagen über das Zusammenwirken der einzelnen Faktoren
+       (auch in einem Gesamtzusammenhang) methodenbedingt nicht
+       möglich sind und somit Aussagen über einzelne Wirkfaktoren, jedoch
+       nicht zu ihrem Zusammenspiel vorliegen (Steffens/Höfer 2012);
+   - dass die gefundenen Effektstärken weder nach Schulstufe (Vorschule,
+       Schule, Hochschule, Erwachsenenbildung) noch nach Fächern unter-
+       schieden wurden, was die Aussagekraft der gefundenen Ergebnisse
+       beträchtlich schmälert: So ist etwa aus geschichtsdidaktischer Sicht
+       anzumerken, dass sich sowohl Unterrichtsmethodik als auch konkre-
+       te Lernziele im Geschichtsunterricht der Primarstufe und im Gym-
+       nasium deutlich voneinander unterscheiden. In der Primarstufe soll
+       "historisches Denken" angebahnt werden, welches in der Gymnasial-
+       stufe in einen informierten, kritischen und reflektierten Umgang mit
+       Vergangenheit und Geschichte mündet;
+   - dass unklar bleibt, ob jeweils individuelle Hintergrundmerkmale
+       und Kompositionsmerkmale der Schulklassen sowie institutionelle
+       Merkmale in den Metaanalysen kontrolliert wurden: So ist gerade
+       bei Implementationsstudien davon auszugehen, dass der Erfolg oder
+       Misserfolg neu implementierter Gestaltungselemente im Unterricht
+       zumindest teilweise von institutionellen Rahmenbedingungen und
+       der Zusammensetzung der Schülerschaft abhängt.
+Immer wieder wird bei der Rezeption der Hattie-Studie darauf aufmerk-
+sam gemacht, dass die berichteten Effektstärken auf Schulwirklichkeiten
+englischsprachiger Länder beruhen und somit ein kultureller Bias nicht aus-
+geschlossen werden kann. Die Übertragbarkeit der Ergebnisse auf Schulen
+anderer Kulturen (Asien, Teile Europas) wird kritisch eingeschätzt und eine
+Übertragung der Ergebnisse auf Schulen aus Entwicklungsländern als nicht
+sinnvoll betrachtet. Des Weiteren wird angemahnt, dass die zehn derzeit als
+top performing countriesgekennzeichneten Nationen nicht nur aus dem ang-
+loamerikanischen Kulturkreis stammen, sondern auch asiatische Länder oder
+die Niederlande umfassen (Beywl/Zierer 2013, XIV f.; Helmke 2013). Diese
+Länder sind in den Metaanalysen nicht im gleichen Maße repräsentiert, wie
+es die englischsprachigen Länder sind, in denen bekanntlich die dem Paradig-
+ma der Lehrereffektivität verpflichtete empirische Unterrichtsforschung sehr
+
+[p. 105] [PDF page 105]
+
+viel früher startete. So ist tatsächlich von einer Unterrepräsentation von Da-
+ten aus besonders leistungsfähigen Schulsystemen auszugehen und die Frage
+zu stellen, inwiefern diese Sachlage die vorgefundenen Effektstärken beein-
+flusste. Aufgrund fehlender empirischer Evidenz kann die Frage zumjetzigen
+Zeitpunkt nur diskutiert, jedoch nicht abschließend beantwortet werden.
+    Zweifelsohne ist von großen Verschiedenheiten im Funktionieren von
+Schulsystemen und Schulformen innerhalb einer Gesellschaft auszugehen
+(Helmke 2013). Die Hattie-Studie kann aufgrund ihrer Anlage mit dem
+Ziel der Feststellung schulübergreifender und schulsystemübergreifender
+Effektstärken zu kulturspezifischen Zusammenhängen keine Aussage ma-
+chen. Hier wären weitere Forschungsarbeiten anzuhängen oder zur Kennt-
+nis zu nehmen. Hattie anerkennt allerdings, dass die Berücksichtigung kul-
+tureller Verschiedenheit dem Gegenstand angemessen wäre. Zugleich weist
+er auf die Möglichkeit hin, die vorliegenden Forschungsresultate aus unter-
+schiedlichen (kulturellen) Perspektiven zu diskutieren: "The 'story' told in
+this book about visible teaching and visible learning is one set of plausible
+hypotheses to fit a model to these data and the data to the model - there
+are certainly many more. Alternative plausible hypotheses are welcomed"
+(Hattie 2009, S. 248).
+
+
+
+Fachlichkeit des Unterrichts: Offene Fragen und Kommentare
+
+
+Werden die Faktoren der Unterrichtsqualität genauer betrachtet, die in der
+Studie von Hattie eine Effektstärke von 0.40 und mehr erzielen, so fällt
+zunächst die großeAnzahl von Merkmalen auf, die in jedem Fachunterricht
+zur Anwendung kommen können und somit eher allgemein-didaktische As-
+pekte des Unterrichtens umfassen. Aus fachdidaktischer Perspektive stellt
+sich die Frage nach dem Einfluss von fachlichen Aspekten der Unterrichts-
+qualität. An verschiedenen Orten taucht der Einfluss fachlicher Aspekte auf,
+etwa dann, wenn Hattie auf die lernförderliche Wirkung des informativen
+Lehrerfeedbacks zu Handeln der Lernenden oder umgekehrt des Schüler-
+feedbacks an die Lehrperson hinweist oder wenn er die zentrale Rolle der
+Fehlerkultur im Unterricht hervorhebt. So ist schwer vorstellbar, dass infor-
+matives Feedback fachlich losgelöst geschehen kann oder der Umgang mit
+Fehlern inhaltsleer erfolgt. Die untenstehende Ordnung lernförderlicher
+Faktoren aus dem Bereich Unterricht unterscheidet zwischen Merkmalen
+
+[p. 106] [PDF page 106]
+
+der Unterrichtsqualität, die fachübergreifend und ohne spezifische Aus-
+einandersetzung mit fachlichen Besonderheiten in jedem Fachunterricht
+implementiert werden können bzw. müssen, und Merkmalen, denen eine
+gewisse Fachlichkeit unterliegt (siehe Tab. 1).
+
+ Allgemeine Merkmale der Unter-                          Merkmale der Unterrichtsqualität,
+ richtsqua lität                                   d     denen eine gewisse Fachlichkeit                 d
+                                                         unterliegt
+ Kooperatives Lernen                              0.41   Verhaltensziele/ Advance Organizers            0.41
+                       (Hattie 2013, S. 250f.)                                 (Hattie 2013, 5. 199)
+
+ Lernen in Kleingruppen                           0.49   Passung von Lernmethoden und                   0.41
+                        (Hattie 2013, S. 113)            Lernstilen
+                                                                          (Hattie 2013,5. 231-234)
+
+ Klassenführung                                   0.52   Fragen stellen                                 0.46
+                        (Hattie 2013, S. 122)                             (Hattie 2013, 5. 215- 217)
+
+ interaktive Lernvideos                           0.52   Ziele                                          0.56
+                       (Hattie 2013, S. 269f.)                            (Hattie 2013, 5. 195 -198)
+
+ Kooperatives vs. kompetitives                    0.54   Concept Mapping                                0.57
+ Lernen                                                                       (Hattie 2013, S. 200f.)
+                        (Hattie 2013, S. 252)
+
+ Peer-Tutoring                                    0.55   Fallbeispiele                                  0.57
+                       (Hattie 2013, S. 221 f.)                               (Hattie 2013, S. 204f.)
+
+ Kooperatives vs. individuelles Lernen            0.58   Mastery Learning                               0.58
+                       (Hattie 2013, S. 250 f.)                           (Hattie 2013, 5. 202- 204)
+
+ Lerntechniken                                    0.59   Lehrstrategien                                 0.60
+                 (Hattie 2013, S. 224-228)                                (Hattie 2013, S. 237- 240)
+
+ Direkte Instruktion                              0.59   Problemlösen                                   0.61
+                 (Hattie 2013, S. 242- 245)                                   (Hattie 2013, S. 248f.)
+
+ Lautes Denken                                    0.64   Feedback                                       0.73
+                       (Hattie 2013, S. 228f.)                            (Hattie 2013, S. 206-211)
+
+ metakognitive Strategien                         0.69   Klarheit der Lehrperson                        0.75
+                        (Hattie 2013, S. 224)                                 (Hattie 2013, S. 150f.)
+
+ rhythmisiertes vs. geballtes Lernen              0.71   formative Evaluation des Unterrichts           0.90
+                       (Hattie 2013, S. 220f.)                                 (Hattie 2013, S. 215)
+
+ Lehrer-Schüler-Beziehung                         0.72
+                 (Hattie 2013, S. 141-143)
+
+ Reziprokes Lehren                                0.74
+                 (Hattie 2013, S. 240-242)
+
+ Interventionen für Lernende mit                  0.77
+ besonderem Förderbedarf
+                 (Hattie 2013, 5. 256- 258)
+
+Tab. 1: Lernförderliche Faktoren aus dem Bereich Unterricht mit bedeutsamen Effektstärken,
+aufgeteilt nach dem Kriterium potenzieller Fachlichkeit
+
+
+
+Die Zusammenstellung zeigt, dass eindeutig fachlich geprägte Merkmale
+der Unterrichtsqualität wie beispielsweise die Kohärenz der Inhalte, de-
+
+[p. 107] [PDF page 107]
+
+ren Relevanz im Hinblick auf die zu erreichenden Lernziele, der fachliche
+Anspruchsgehalt (Erarbeitung von Begriffswissen oder von komplexen Zu-
+sammenhängen) oder deren Exemplarität für die Sichtbarmachung eines
+fachlichen Prinzips im übergeordneten Bereich "Unterricht" vergeblich
+gesucht werden. Der Begriff der Fachlichkeit musste demzufolge bei der
+Herstellung von Tab. 1 sehr breit ausgelegt werden und umfasst Unterrichts-
+merkmale, die zumindest auf der Lehrerseite eine fachlich geprägte Ausei-
+nandersetzung mit dem Stoff für den zielgerichteten Einsatz im Unterricht
+voraussetzen. Darunter befinden sich mehrere Merkmale mit ausgespro-
+chen hohen Effektstärken wie Feedback, Klarheit der Instruktion und for-
+mative Bewertung. Wird die Suche nach einschlägigen inhaltlichen Faktoren
+weitergeführt, so finden sich doch einige Aussagen, überraschenderweise
+aber nicht im Bereich Unterricht sondern im Bereich Lehrperson, und hier-
+zu insbesondere unter dem Einzelfaktor teaching quality. Weshalb dieser
+Faktor von Hattie dem Bereich Lehrperson und nicht dem Bereich Unter-
+richt zugeordnet wurde, bleibt vorerst unklar.
+    Es wäre sicherlich falsch, aufgrund der geringen Anzahl einschlägiger
+inhaltlicher Faktoren den Schluss zu ziehen, fachspezifische Merkmale
+der Unterrichtsqualität seien für die Prädiktion von Lernzuwächsen be-
+deutungslos. Der Blick in Hatties Buch (2009) bzw. die deutschsprachige
+Übersetzung von Beywl und Zierer (2013) zeigt vielmehr, dass nur eine
+kleine Anzahl der untersuchten 138 Faktoren spezifische Qualitätsaspekte
+fachlichen Lernens adressierten, was unter anderem auch der Anlage der
+Studie - eine Synopse über Fächer und Schulstufe hinweg - geschuldet
+ist. Wissenschafts- und disziplingeschichtlich ist hierzu anzumerken, dass
+die angloamerikanische Forschung zu teacher effectiveness sowie die sich
+daraus entwickelnde Unterrichtsforschung lange Zeit Domäne der pädago-
+gischen Psychologie war, und sich die Referenzdisziplinen der untersuch-
+ten Schulfächer über die Jahre nur zögerlich an der Diskussion zu Fragen
+der Unterrichtsqualität beteiligten. Hinzu kommt, dass die Datenbasis der
+Synopse auf 50.000 Einzelstudien, die mehrheitlich zwischen 1985 und
+2000 durchgeführt wurden, basiert und somit der Erhebungszeitpunkt
+der Basisdaten noch vor dem Erstarken der Fachdidaktiken und der damit
+einhergehenden Intensivierung der empirischen Forschung zu Fragen des
+Fachunterrichts liegt. Es wird in Zukunft spannend sein, die Entwicklung
+fachspezifischer Fragestellungen zu Lernprozessen und Unterrichtsquali-
+tät zu verfolgen und deren Ergebnisse mit den Befunden der Hattie-Studie
+
+[p. 108] [PDF page 108]
+
+(2009) zu vergleichen. Möglicherweise müssen in 20 Jahren die gefundenen
+Unterrichtsfaktoren durch weitere genuin fachdidaktische Faktoren ergänzt
+werden.
+
+
+
+Geschichtsd idaktisches Anreg ungspotenzia I
+
+
+Ausgangspunkte
+Was "Fachlichkeit" konkret bedeutet, muss jede Didaktik der kulturwis-
+senschaftlichen Fächer aus ihrer jeweiligen disziplinären Tradition und
+Matrix heraus eigens ausbuchstabieren (Demantowsky/Steenblock 2011).
+Vor der falschen und vorschnellen Beanspruchung von "Domänenspezifik"
+in den einzelnen Unterrichtsfächern sollte man sich allerdings hüten (vgl.
+Wirreburg 2001a). Es gibt - unbeschadet aller Fachspezifik- gewiss eine
+geteilte Fachlichkeit kulturwissenschaftlicher Fächer, was sich durch den
+englischsprachigen Begriff der humanities sehr angemessen ausdrücken
+lässt. Diese geteilte Fachlichkeit gerrauer zu analysieren ist eine noch zu
+bearbeitende Aufgabe.
+    Hattie leistet dieser Aufgabe der fachbezogenen Selbstbestimmung ob-
+jektiv dadurch Vorschub, dass er sich jeglicher fachinhaltlichen Bestimmun-
+gen konsequent enthält, sodass wohlwollende Kritiker gut nachvollziehbar
+nach dem "Where is the beef?" gefragt haben (Terhart 2011, S. 282), weil
+ja in der Tat schulischer Unterricht grundsätzlich inhaltlich gerichtet und
+motiviert ist. Aber wahrscheinlich wäre es ein zu hoher Anspruch an den
+Meta-Metaanalytiker Hattie, ihm inhaltliche Konkretionen abzuverlangen.
+Es scheint ein Faktum zu sein, dass bestimmte Maßnahmen fachübergrei-
+fend zuverlässig wirksamer sind als andere, zum Beispiel eine reziproke
+Feedbackkultur (Hattie 2013, S. 206-211). Diese Maßnahmen stellen sich
+in den verschiedenen Fachkulturen aber verschiedenartig dar, müssen ver-
+schiedenartig operationalisiert werden und verlangen verschiedenartige,
+nämlich fachspezifische Lehreraus- und Lehrerfortbildung. Wahrscheinlich
+liegt die von Hattie erwünschte und angelegte Falsifizierbarkeit seiner The-
+sen nicht zuletzt auch in ihrer fachspezifischen Anwendung und Testung
+(Hattie 2013, S. 280).
+    Wenn man nun versucht, den geschichtsdidaktischen Konsens zur spe-
+zifischen Fachlichkeit des Geschichtsunterrichts in wenigen Stichworten
+zusammenzufassen, so heißen diese etwa: geschichtswissenschaftliehe Ein-
+
+[p. 109] [PDF page 109]
+
+bettung, Quellenorientierung, Narrativität, geschichtskulturelle Kontextu-
+alisierung, Multiperspektivität (Schönemann 2003; Demantowsky 2011,
+S. 46-52; Rüsen 2013, S. 253-273). Hatties fachbezogene, aber noch ab-
+strakte Einflussfaktoren (vgl. Tab. 1) bedürfen im Lichte dieser Fachspezifik
+einer Art von Deklinationsversuch, um ihre Anschlussfähigkeit im Rahmen
+der geschichtsdidaktischen Diskussion bestenfalls zu gewährleisten, min-
+destens aber anzuregen. Es wäre nun allerdings müßig, die 13 benannten
+fachaffinen Faktoren im Einzelnen zu diskutieren. Das soll gern der wei-
+teren Diskussion überlassen werden. Man könnte aber an drei zentralen
+Konzepten Hatties, in denen die Befunde zu den einzelnen Faktoren zu-
+sammenlaufen, eine solche Deklination kurz andenken und damit weitere
+fachspezifische Gegenrede und Weiterentwicklung provozieren.
+
+Sichtbarkeit
+Sichtbarkeit ist ohne Zweifel nicht einfach ein Konzept unter anderen bei
+Hattie, sondern die Quintessenz aller seiner Befunde, weshalb sein Buch
+auch ganz richtig den Titel Visible Learning trägt. Entscheidend bei dieser
+Sichtbarmachung ist nach Hattie allerdings dessen Reziprozität, das heißt,
+nicht nur soll das Lernen der Schülerin/des Schülers der Lehrperson und
+wiederum der Schülerin/dem Schüler selbst kenntlich werden, sondern
+auch das Lernen (!) der Lehrperson der Schülerin/dem Schüler. Darüber
+hinaus sollen die Erkenntnisse der Lehrperson zum Lernen der Schüler/
+Schülerinnen auch den anderen verantwortlichen Lehrpersonen (und den
+Eltern) deutlich werden usw. All dies entspricht in etwa den hoch veran-
+schlagten Wirkfaktoren wie Selbsteinschätzungen des eigenen Lernniveaus
+(d = 1.44), formative Evaluation des Unterrichts (d = 0.9), Klarheit der
+Lehrperson (d = 0.75), Reziprokes Lehren (d = 0.74) oder Feedback (d =
+0.73), womit 5 der 10 wirkmächtigsten Einflussfaktoren der Hattie-Studie
+benannt wären, und es weist auf die Bedeutung der Diagnosekompetenz
+bei Lehrpersonen hin.
+   Für den Geschichtsunterricht sind diese Maßnahmen insbesondere im
+Hinblick auf die impliziten Theorien von Lernenden und Lehrenden über
+"Geschichte" relevant. Grundsätzlich weiß man in der Geschichtsdidaktik
+noch viel zu wenig darüber, wie Erwachsene und Heranwachsende über
+"Geschichte" denken. Die repräsentativen und klug erhobenen Befun-
+de der Projekte von Bodo von Borries aus den 1990er Jahren stimmten
+pessimistisch (von Borries 1995, 1999). Neuere, forschungsmethodisch
+
+[p. 110] [PDF page 110]
+
+allerdings anfechtbare Studien bestätigten den pessimistischen Tenor (z. B.
+Schroeder 2012). Damit findet man sich in der zu Anfang geschilderten
+Situation wieder: Es ist nicht nur ein schlechtes Stereotyp, dass im (Ge-
+schichts-)Unterricht wenig gelernt wird; es ist noch keiner Studie gelungen,
+die wahrscheinlich doch wirksamen Lehrerfolge zuverlässig nachzuweisen.
+Es stehen sich oft - sehr wenig bewusst - alle möglichen Spielarten und
+Abschattierungen des historischen Objektivismus ("Geschichte" als res ges-
+tae) und des historischen Konstruktivismus ("Geschichte" als historia re-
+rum gestarum) gegenüber und versuchen, sich ein gemeinsames Verständnis
+konkreter Strukturen, Ereignisse, Prozesse oder Institutionen der Vergan-
+genheit zu erarbeiten; was natürlich zum Scheitern verurteilt ist bzw. keine
+treibenden, erregenden und nachhaltigen geschichtsbezogenen Einsichten
+produziert.
+    Es gilt dies aber nicht nur für allgemeine implizite Geschichtstheorien
+(Hypostasierungen, Personalisierungen etc.), sondern auch für objektstufige
+und durch gesellschaftliche Tradierung und massenmediale Endlosschleifen
+gestützte Vorannahmen über konkrete Phänomene der Vergangenheit. So
+stecken zum Beispiel die Erzählungen über das deutsche Kaiserreich, über
+den Kalten Krieg, über "1989" (um nur wenige Fälle anzuführen) noch
+immer voller Simplifikationen und vorschneller Urteile. Man schaue nur in
+die gängigen Lehrbücher.
+    In diesem Sinne beschreibt Visible Learning eine entscheidende Vo-
+raussetzung für wirksamen Geschichtsunterricht: Metastufige, das heißt
+abstrakte Vorannahmen über "Geschichte" und konkrete vergangene
+Phänomene müssen zu einem immer wieder auftauchenden Gegenstand
+des Unterrichts werden. Die sogenannten Geschichtsbilder aller Beteilig-
+ten müssen nicht nur offengelegt und (in welcher Form auch immer) zum
+Ausdruck gebracht werden (Stichwort: Narrativieren), dieses Ausdrücken
+selbst muss erst schrittweise und geduldig geübt und gelernt werden. Es
+muss gelernt werden, die sichtbar werdende Differenz zu verhandeln (ge-
+rade in unseren diversen Gesellschaften), sie muss ausgehalten (Stichwort:
+Ambiguitätstoleranz) und in einen gemeinsamen metastufigen Lernprozess
+(strategisches Wissen) überführt werden.
+
+Lehrperson (im Geschichtsunterricht)
+Die geschichtsdidaktische Forschung hat die Lehrpersonen als eigenes
+spezifisches Forschungsfeld seit ein paar Jahren für sich entdeckt. Dafür
+
+[p. 111] [PDF page 111]
+
+sprechen aktuelle Sektionen auf großen Konferenzen, repräsentative Sam-
+melbände (Popp u.a. 2013), Themenbeiträge in zentralen Fachpublikatio-
+nen (Seidenfuss 2014; Hodel/Ziegler, 2011) und zuletzt erfolgreiche Dritt-
+rnittelanträge. Gleichsam en passant standen Lehrpersonen schon zuvor
+immer mal zur empirischen Untersuchung, mit Ergebnissen, die in ihrem
+Grundtenor im Übrigen viele Befunde Hatties aus Fachperspektive stützten
+(z.B. von Borries 1995, S. 277 -348).
+    Viele, wenn nicht die meisten der von Hattie ermittelten Wirkfaktoren
+für erfolgreichen Unterricht hängen mit dem Handeln der Lehrpersonen
+zusammen bzw. sind deren unmittelbare Manifestation. Die Frage nach
+dem Komplex von Handeln, Qualifikation (und Sozialisation), Motivation
+und berufsbezogenen Überzeugungen der Lehrpersonen ist demnach eben-
+so zentral wie die nach der Sichtbarkeit des Lernens und Lehrens. Hattie
+liefert· mit seinen "sechs Wegweisern für Exzellenz im Bildungsbereich"
+(Hattie 2013, S. 280f.) eine sehr übersichtliche Synthese seiner Schlussfol-
+gerungen. Diese Schlussfolgerungen tragen einerseits stark allgemeindidak-
+tischen Charakter (Wegweiser 1, 2, 6), andererseits weisen sie aber auch
+geschichtsdidaktisches Anregungspotenzial auf:
+    - Es geht zum einen um so etwas wie sachbezogene Diagnosekompe-
+        tenz (Wegweiser 3): Wenn ich wissen will, wie Lernende im Unter-
+       richt denken, muss ich wissen, was sie denken. Ein entscheidendes
+        Mittel, um hierüber Aufklärung zu erhalten, wurde unter dem Punkt
+        "Sichtbarkeit" bereits diskutiert. Historische Vorannahmen müssen
+        offen, kontrovers und tolerant verhandelt werden. Lernen beginnt
+       nicht mit der Repetition eines systematischen Tafelbildes zu Test-
+       zwecken; dies ist eigentlich sein Ende. Dies ist keine neue Einsicht,
+        aber es ist eine Einsicht, die eben keinesfalls allgernein akzeptiert und
+        operationalisiert ist.
+    - Lehrpersonen sollen den Lernprozess exakt stufen können (Weg-
+       weiser 4). Dazu gehört eine tiefe Einsicht in die Psychologie des
+       geschichtsbezogenen Lernens (z.B. Wineburg 2001b), die angesichts
+       bisheriger Ausbildungs- und Fortbildungscurricula keinesfalls als ge-
+       geben angenommen werden kann. Studierende lernen oftmals nur
+        alle möglichen normativ-didaktischen Konzepte kennen, die dann
+       womöglich in Prüfungen abgefragt werden, aber herzlich wenig dar-
+        über, was man mittlerweile insgesamt über das Unterrichtsgeschehen
+       und seine Rezeption durch Lernende wissen kann. Seit der dornänen-
+
+[p. 112] [PDF page 112]
+
+spezifischen Wende (spätestens Sodian 1995) ist es nicht mehr genug,
+  ausschließlich auf die allgemeinen Einführungen in die Lern- und Ent-
+  wicklungspsychologie zu vertrauen. Diese Einsicht hat sich allerdings
+  noch nicht in jedem geschichtsdidaktischenAusbildungs- und Fortbil-
+  dungscurriculum niedergeschlagen. Dabei gibt es inzwischen bemer-
+  kenswerte und anregende geschichtsdidaktische Forschungsprojekte
+  zur Entwicklung und Struktur des geschichtsbezogenen Denkens von
+  Heranwachsenden (Kölbl 2004; Kühler u. a. 2013); weitere werden
+  hoffentlich folgen.
+- Es kommt nicht nur darauf an (Wegweiser 5), den Lernenden eine
+  Aussprache über ihr geschichtsbezogenes Vorwissen und ihre Vorur-
+  teile zu ermöglichen, sondern auch das geschichtsbezogene Vorwis-
+  sen und die entsprechenden Vorurteile der Lehrpersonen kennen-
+  zulernen und grundsätzlich zu befragen (Sperisen/Schär 2011). Die
+  Lehrperson im Geschichtsunterricht sollte zusätzlich auch einen ela-
+  borierten Plan hinsichtlich dessen haben, wie der "Referenzrahmen"
+  (Wilschut 2009, S. 631- 635) bzw. die Architektur eines reflektier-
+  ten Geschichtsbildes ihrer Schülerinnen und Schüler am Ende des
+  Bildungsgangs aussehen könnte. Selbstverständlich sind hier grund-
+  legende Kenntnisse der domänenspezifischen Psychologie wichtig,
+  darüber hinaus kommt es aber darauf an, auf fachlicher (hier: his-
+  torischer) Ebene in der Lage zu sein, eine übergreifende Narration
+  zu entwickeln, die den aktuellen wissenschaftlichen Kriterien und
+  den legitimen Anforderungen an Geschichtsunterricht im Rahmen
+  einer freiheitlich-demokratischen Grundordnung entspricht (z. B.
+  Beutelsbacher Konsens). Hier zeigt sich erneut ein gravierendes De-
+  fizit heutiger Geschichtslehreraus- und -lehrerfortbildung: Die sach-
+  historischen Curricula befördern ein verinseltes, epochenbezogenes
+  Detailwissen, das in hochspezifischen Lehrveranstaltungen erworben
+  wird. Es gibt aber nur noch wenige historische Grundlagenvorlesun-
+  gen, die den großen narrativen Wurf wagen und diskutierbar machen.
+  Dies führt wiederum dazu, dass es Lehrkräften schwerfällt, mit den
+  Lernenden an einem triftigen und beweglichen narrativen Referenz-
+  rahmen zu arbeiten, der sie durch den mehrjährigen Bildungsgang
+  tragen könnte. Dabei gibt es längst inspirierende und zeitgemäße
+  Vorschläge für geschichtsdidaktisch bedeutsame Großerzählungen
+  (Marks 2006). Wir finden solche ebenfalls in der Vergangenheit (von
+
+[p. 113] [PDF page 113]
+
+Schlözer 1779/2011), und es gibt diskussionswürdige geschichtsdi-
+       daktische Konzepte zur Entwicklung aufgeklärter narrativer Refe-
+       renzrahmen wie den Ansatz der "polythetic narratives" von Denis
+       Shemilt (2000).
+Verlassen wir Hatties "Wegweiser" und suchen nach weiteren, vielleicht an-
+schlussfähigen Interpretationen der Befunde. "Einer der größten Mythen des
+Lehrens ist, dass alle Lehrpersonen gleich seien" (Hattie 2013, S. 294). So
+unterschiedlich wie die Studien- und schulpraktischenAusbildungsleistungen
+angehender (Geschichts-)Lehrpersonen sind, so unterschiedlich sind auch die
+individuellen Professionalisierungsverläufe. Wie differenziert sind eigentlich
+unsere geschichtsdidaktischenAus- und Fortbildungsprogramme?Wie klar ist
+sich jede angehende und praktizierende Lehrperson über ihren fachspezifi-
+schen Professionalisierungsstand? Seit Jahrzehnten und nicht erst seit Hattie
+wird eine die individuelle Lernausgangslage der Schülerinnen und Schüler
+berücksichtigende, also lernstandsbezogene individuelle Differenzierung des
+Geschichtsunterrichts gefordert, gleichzeitig ist der Mythos der einheitlichen
+Leistungsfähigkeit und Qualifikation der Geschichtslehrperson unausgespro-
+chene Basis jedes Ausbildungscurriculums. An sich würde der Bologna-Pro-
+zess vor allem durch das Prinzip der studienbegleitenden Prüfungen wichtige
+Ansatzpunkte bieten, um auch in der Lehrerbildung lernstandsbezogen zu
+differenzieren. Die Realität ist aber nach wie vor durch Leistungsbewertun-
+gen im Lehramtsstudium Geschichte gekennzeichnet, die sich alles in allem in
+einem engen Korridor bewegen, eine starke Tendenz zur Einheitsnote "gut"
+haben - und ungenügende Leistungen nur noch im absoluten Ausnahmefall
+kennen. Diese Feedbackkultur honoriert kein Engagement und markiert De-
+fizite nicht auf eine Weise, die Motivation zur Bearbeitung derselben schafft.
+
+Lernstrategien
+Hattie schließt sich entschieden der Warnung vor der "Rezeptfalle" an.
+Nicht irgendwelche konkreten Methoden seien für den effektiven Erfolg
+von Unterricht ausschlaggebend, sondern die Realisierung der Prinzipien
+des Visible Learning. Das heißt, wenn Lernende klare und häufige Rück-
+meldungen über ihren Lernerfolg bekommen, wenn sie das Bezugssystem
+kennen, in dem Lernerfolg festgestellt werden kann, wenn das Lerngrup-
+penklima eine offene und reziproke Fehlerkultur zulässt und so weiter,
+dann kann die Lehrperson in dieser Rahmung sehr verschiedene Methoden,
+Materialien und Medien einsetzen. Für die Geschichtsdidaktik ist daraus
+
+[p. 114] [PDF page 114]
+
+der Anstoß zu entnehmen, sich nicht in unterrichtsmethodischen Detailfra-
+gen zu verlaufen, sondern sich in Forschung und Aus- und Fortbildung auf
+die Psychologie des geschichtsbezogenen Denkens, auf eine angemessene
+Wissensarchitektur, auf exzellente Gegenstandskenntnisse und auf sach-
+und subjektangemessene sowie reziproke Rückmeldesysteme zu konzen-
+trieren, wenn es denn am Ende auch im gegenwärtigen und zukünftigen
+Geschichtsunterricht vor allem um die Wirksamkeit didaktischen Handeins
+und nicht um ein zweckfreies Spiel gehen soll.
+    Zum Schluss: Üben! Repetitio est materstudiorum (Cassiodor). Hattie
+geht intensiv auf die Bedeutung des Übens für effektiven Unterricht ein.
+Effektiv werde Üben dann (Hattie 2013, S. 289), wenn es in kontextualisie-
+rende Lernstrategien eingebunden sei. Wann sind eigentlich Übungseffek-
+te von der Geschichtsdidaktik zuletzt untersucht, entwickelt und gelehrt
+worden (abgesehen von der rezeptalogischen Publikation Kneile-Klenks
+2007)? Was wissen wir über den Erfolg verschiedener Übungskonzepte?
+Selbstverständlich enthält jedes gut gestufte Kompetenzmodell Annahmen
+über Übungseffekte, auch diese Annahmen bedürfen allerdings stärkerer
+Explikation und Untersuchung.
+    John Hattie erinnert uns an alte pädagogische Selbstverständlichkeiten,
+verschafft ihnen im besten Sinne empirische Evidenz. Das ist für viele Ge-
+schichtsdidaktikerinnen und -didaktiker und Geschichtslehrpersonen si-
+cherlich ein Stein des Anstoßes. Gut so.
+
+Literatur
+Beywl, Wolfgang/Zierer, Klaus (2013): Lernen sichtbar machen. Zur deutschsprachigen
+   Ausgabe von "Visible Learning". In: John Hattie: Lernen sichtbar machen. Baltmanns-
+   weiler: Schneider Hohengehren, S. VI- XXVI.
+von Borries, Bodo (1995): Das Geschichtsbewusstsein Jugendlicher. Erste repräsentative
+   Untersuchung über Vergangenheitsdeutungen und Zukunftserwartungen von Schüle-
+   rinnen und Schülern in Ost- und Westdeutschland. München: Juventa.
+von Borries, Bodo (1999): Jugend und Geschichte. Ein europäischer Kulturvergleich aus
+   deutscher Sicht. Opladen: Leske & Budrich.
+Demantowsky, Marko (2011): Die Didaktik der Geschichte als "Fachdidaktik" - Abgren-
+   zungen, Vereinnahmungen, Selbstverständnis. In: ders./Volker Steenblock (Hrsg.):
+   Selbstdeutung und Fremdkonzept Die Didaktiken der kulturwissenschaftlichen Fächer
+   im Gespräch. Bochum/Freiburg i. Br.: Projektverlag, S. 39-52.
+Demantowsky, Marko/Steenblock, Volker (2011): Ein Gespräch der "Fachdidaktiken" -
+   wozu? Zur Einleitung. In: dies. (Hrsg.): Selbstdeutung und Fremdkonzept Die Didak-
+   tiken der kulturwissenschaftlichen Fächer im Gespräch. Bochum/Freiburg i. Br: Pro-
+   jektverlag, S. 9 -18.
+
+[p. 115] [PDF page 115]
+
+Gautschi, Peter (2013): Erkenntnisse und Perspektiven geschichtsdidaktischer Unterrichts-
+   forschung. In: Marko Demantowsk:y/Bettina Zurstrassen (Hrsg.): Forschungsmethoden
+   und Forschungsstand in den Didaktiken der kulturwissenschaftlichen Fächer. Bochum/
+   Freiburg i. Br: Projektverlag, S. 203-244.
+Grieshammer, Birke (1976): Untersuchung zur Effektivität eines Geschichtsunterrichts mit
+   Bildquellen. In: Walter Fürmohr/Hans Georg Kirchhoff (Hrsg.): Ansätze empirischer
+   Forschung im Bereich der Geschichtsdidaktik. Stuttgart: Klett, S. 225-234.
+Haliden, Ola (1997): Conceptual change in the learning of history. In: International Journal
+   of Educational Research, 27, S. 201-210.
+Hattie, John (2009): Visible learning. A synthesis of over 800 meta-analyses relating to
+   achievement. Oxon: Routledge.
+Hattie, John (2013): Lernen sichtbar machen. Überarbeitete deutschsprachige Ausgabe von
+   "Visible Learning", besorgt von Wolfgang Beywl und Klaus Zierer. Baltmannsweiler:
+   Schneider Hohengehren.
+Helmke,Andreas (2013): Hattie-Bericht. Interview mit Prof. Dr.Andreas Helmke zur Hat-
+   tie-Studie. In: Lehren & Lernen, 39 (7), S. 8-15.
+Herrml:lnn, Ulrich (2010): Schulen zukunftsfähig machen. Bad Heilbrunn: Klinkhardt.
+Rodel, Jan/Ziegler, Beatrice (2011): Forschungswerkstatt Geschichtsdidaktik 09. Beiträge
+   zur Tagung "geschichtsdidaktik empirisch 09". Bern: hep.
+Kneile-Klenk, Karin (2007): Pauken oder Lernen? Abwechslungsreich Wiederholen und
+   Festigen im Geschichtsunterricht. Schwalbach/Ts.: Wochenschau.
+Kölbl, Carlos (2004): Geschichtsbewußtsein im Jugendalter. Grundzüge einer Entwick-
+   lungspsychologie historischer Sinnbildung. Bielefeld: Transcript.
+Kruppa, Reinhold/Wermes, Hans (1975): Die Ziele und Aufgaben des Geschichtsunter-
+   richts in der sozialistischen Oberschule der DDR. In: Akademie der Pädagogischen Wis-
+   senschaften der Deutschen Demokratischen Republik (Hrsg.): Methodik Geschichtsun-
+   terricht. Berlin: Volk & Wissen, S. 1-40.
+Kühler, Markus u.a. (2013): Können Kindergartenkinder historisch denken? Ergebnisse
+   einer Pilotstudie. In: Evelyne Wannack u.a. (Hrsg.): 4- bis 12-Jährige- ihre schulischen
+   und außerschulischen Lern- und Lebenswelten. Münster: Waxmann, S. 225-232.
+Marks, Robert B. (2006): The origins of the modern world. A global and ecological narra-
+   tive. 2. Auflage. Lanahm: Rowman & Littlefield.
+Müller, Hans (1972): Zur Effektivität des Geschichtsunterrichts. Schülerverhalten und all-
+   gemeiner Lernerfolg durch Gruppenunterricht. Stuttgart: Klett.
+Popp, Susanne u. a. (Hrsg.) (2013): Zur Professionalisierung von Geschichtslehrerinnen
+   und Geschichtslehrern. Nationale und internationale Perspektiven. Beihefte zur Zeit-
+   schrift für Geschichtsdidaktik, 5. Göttingen: V & R uni press.
+Rüsen, Jörn (2013): Historik. Theorie der Geschichtswissenschaft. Köln u. a.: Böhlau.
+Sauer, Michael u.a. (Hrsg.) (in Vorb.): Geschichte lernen in biographischer Perspektive.
+   Nachhaltigkeit - Entwicklung Generationendifferenz. Beihefte zur Zeitschrift für
+   Geschichtsdidaktik, 7. Göttingen: V & R unipress.
+von Schlözer, August Ludwig (1779/2011): Vorbereitung zur WeltGeschichte für Kinder.
+   Ein Buch für Kinderlehrer. Hrsg. von Marko Demantowsky und Susanne Popp. Göttin-
+   gen: Vandenhoeck & Ruprecht (zuerst 1779).
+
+[p. 116] [PDF page 116]
+
+Schönemann, Bernd (2003): Geschichtsdidaktik, Geschichtskultur, Geschichtswissen-
+    schaft. In: Hilke Günther-Arndt (Hrsg.): Geschichts-Didaktik. Praxishandbuch für die
+    Sekundarstufe I und II. Berlin: Cornelsen, S. 11-22.
+Schroeder, Klaus (2012): Später Sieg der Diktaturen? Zeitgeschichtliche Kenntnisse und
+    Urteile von Jugendlichen. Frankfurt/M.: Peter Lang.
+Seidenfuss, Manfred (Hrsg.) (in Vorb.): Forschungsfeld Geschichtslehrkräfte (Themen-
+    schwerpunkt). Zeitschrift für Geschichtsdidaktik, 13.
+Shemilt, Denis (2000): The Caliph's Coin. The currency of narrative frameworks in history
+    teaching. In: Stearns, Peter N. u.a. (Hrsg.): Knowing, teaching & learning history. Na-
+    tional and international perspectives. New York: University Press, S. 83-101.
+Sodian, Beate (1995): Entwicklung bereichsspezifischen Wissens. In: Rolf Oerter/Leo Mon-
+    tada (Hrsg.): Entwicklungspsychologie. Weinheim: Beltz, S. 622-653.
+Sperisen, Vera/Schär, Bernhard (2013): Akteure versus Strukturen zum Spannungsver-
+    hältnis zwischen Lehrbuch- und Lehrpersonenkonzepten im Geschichtsunterricht. In:
+    Susanne Popp u.a. (Hrsg.): Zur Professionalisierung von Geschichtslehrerinnen und
+    Geschichtslehrern. Nationale und internationale Perspektiven. Göttingen: V & R uni-
+    press, S. 187-202.
+Steffens, Ulrich/Höfer, Dieter (2012). Die Hattie-Studie. HintergrundartikeL Wiesbaden,
+    Institut für Qualitätsentwicklung. http://www.sqa.at/course/view.php?id=36 (Zugriff:
+    09.11.2013).
+Terhart, Ewald (2011): Hat John Hattie tatsächlich den Heiligen Gral der Schul- und Un-
+    terrichtsforschung gefunden? Eine Auseinandersetzung mit Visible Learning. In: Edwin
+    Keiner u.a. (Hrsg.): Metamorphosen der Bildung. Historie- Empirie- Theorie. Fest-
+    schrift für Heinz-ElmarTenorth. Bad Heilbrunn: Klinkhardt, S. 277-292.
+Wilschut, Arie (2009): Ein Referenzrahmen für den Unterricht im Fach Geschichte. In:
+    Geschichte in Wissenschaft und Unterricht, 60, S. 629-645.
+Wineburg, Sam (2001a): Historical thinking and other unnatural acts. In: ders.: Historical
+    thinking and other unnatural acts. Charting the future of the past. Philadelphia: Temple
+    University Press, S. 3-27.
+Wineburg, Sam (2001b): The psychology of teaching and learning history. In: ders.: Histo-
+    rical Thinking and Other Unnatural Acts. Charting the Future of the Past. Philadelphia:
+    Temple University Press, S. 28-60.

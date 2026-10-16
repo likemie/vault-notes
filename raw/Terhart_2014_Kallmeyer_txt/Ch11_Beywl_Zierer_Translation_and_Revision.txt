@@ -1,0 +1,665 @@
+Die Hattie-Studie in der Diskussion: Probleme sichtbar machen
+Herausgegeben von Ewald Terhart | 1. Auflage 2014 | Seelze: Kallmeyer in Verbindung mit Klett
+ISBN 978-3-7800-4804-2
+
+Leseeinheit 11: „Visible Learning“ wird zu „Lernen sichtbar machen“: Ein Kommentar zur Übersetzung und Überarbeitung der Hattie-Studie
+Wolfgang Beywl; Klaus Zierer
+Originalseiten 147–162; PDF-Seiten 147–162
+
+[Deutscher Originaltext aus der OCR-Textebene des gescannten PDFs. Die Nummer der Leseeinheit folgt dem Inhaltsverzeichnis; die Beiträge sind im Original nicht nummeriert. Fußnoten und Literatur bleiben im jeweiligen Beitrag. Seitenmarkierungen verweisen auf Buchseite und PDF-Seite. OCR-Fehler können verbleiben; genaue Zitate, Tabellen und Abbildungen bitte am PDF prüfen.]
+
+
+========================================================================
+Beitrag mit Anmerkungen und Literatur
+========================================================================
+
+[p. 147] [PDF page 147]
+
+Wolfgang Beywl, Klaus Zierer
+
+
+"Visible Learning" wird zu
+"Lernen sichtbar machen"
+Ein Kommentar zur Übersetzung und Überarbeitung
+der Hattie-Studie
+
+Die Herausforderung, eines der wichtigsten Bücher der empirischen Bil-
+dungsforschung in eine andere Sprache zu transformieren, erforderte eine
+Reihe von Lösungsansätzen, die hier angesprochen werden. Sie können
+helfen, um zum einen den schwierigen Prozess der Übersetzung und
+Überarbeitung zu verstehen und zum anderen Möglichkeiten und Gren-
+zen der Adaption zentraler Erkenntnisse in den deutschen Sprachraum zu
+erkennen.
+
+
+
+Kaum ein Buch hat in den letzten fünf Jahren den internationalen erzie-
+hungswissenschaftliehen Diskurs so sehr beeinflusst, wie Visible Learning
+von John Hattie. Dies gilt auch für die deutschsprachige Ausgabe: Als John
+Hattie zur Buchpräsentation von Lernen sichtbar machen imApril2013 an
+die Carl von Ossietzky Universität Oldenburg kam, war das Interesse riesig.
+Dabei drängten nicht nur Lehrpersonen in den Vortragsraum, sondern auch
+die bundesweite Presse. Berichte folgten in zahlreichen größeren Tageszei-
+tungen in Deutschland, Österreich und der Schweiz, und selbst in Radio
+und Fernsehen gab es Sendungen zu Hattie. Kurzzeitig schaffte es Lernen          \
+sichtbar machen sogar in die Top 20 der Sachbuch-Bestseller (Börsenblatt
+des Deutschen Buchhandels, 03.05.2013).
+   Dass ein pädagogisches Fachbuch, gespickt mit statistischen Maßzahlen
+und versehen mit 120 Seiten dokumentierendem Anhang, in kurzer Zeit
+fünfstellige Verkaufszahlen erreicht, erstaunt und zeigt, dass es auch außer-
+halb der erziehungswissenschaftliehen Community, nämlich bei Schullei-
+tungen, Lehrpersonen, bildungspolitisch Verantwortlichen und Eltern, ein
+breiteres Interesse an empirischer Evidenz zu Bildungsfragen gibt. Dies
+kann man als Hinweis deuten, dass die im deutschsprachigen Raum in den
+
+[p. 148] [PDF page 148]
+
+vergangeneu Dekaden ausgebaute empirische Bildungsforschung auf grö-
+ßere Resonanz stößt.
+    An der Einordnung von Lernen sichtbar machen als monumentales
+Werk bestehen kaum Zweifel (zuletzt Andreas Helmke im Interview mit
+Volker Reinhard in lehren & lernen, 7/2013 S. 8-15). In einem jahrzehn-
+telangen Entstehungsprozess verwarf Hattie fast fertige Fassungen und
+begann immer wieder von N euem zu schreiben - bis er schließlich eine
+Fassung vorlegen konnte, die es in seinen Augen wert war, veröffentlicht zu
+werden. Mit der Synthese von Hunderten Metaanalysen (genaues Nach-
+zählen erbringt Werte zwischen 736 und 816) und der Extraktion von
+138 Faktoren, die zu Lernleistungen beitragen, ist es die bis dato weltweit
+umfangreichste Zusammenschau empirischer Bildungsforschung. Diese Ar-
+beit ist nicht abgeschlossen: In Visible Learning for Teachers, veröffentlicht
+2012 (auf Deutsch 2014), finden sich im Anhang an die 900 Metaanalysen
+verarbeitet, mit nun 150 Faktoren. Für 2015 hat Hattie (auf der ersten in-
+ternationalen Konferenz zu Visible Learning im Juli 2013 in Brisbane) eine
+Erweiterung auf über 1.000 Metaanalysen mit dann noch einigen Faktoren
+mehr angekündigt.
+    Es liegt auf der Hand, dass mit der Übersetzung eines so umfangreichen
+und erfolgreichen Buches zahlreiche Herausforderungen verbunden sind.
+Diese und der Umgang mit ihnen sollen im vorliegenden Beitrag erläutert
+werden. Ziel ist es, der Leserin und dem Leser einen Einblick in die her-
+ausfordernde, häufig in die entferntesten Ecken des wissenschaftlichen und
+alltagssprachlichen Raumes führende Übersetzungsarbeit zu geben.
+
+
+
+Englisch kann doch jeder!?
+
+In seinem Beitrag "Drifting Didactics" beschreibt Ewald Terhart (2012)
+die Entwicklung der deutschsprachigen Didaktik unter dem Gesichtspunkt
+des Einflusses auf und durch den US-amerikanischen Raum. Er unterschei-
+det darin drei Etappen: Die erste Etappe umspannt die Jahre von 1945 bis
+1960/65, in der auf beiden Seiten nur geringe Einflüsse feststellbar sind,
+und dementsprechend Skepsis dominiert. Bis 1970 reicht die zweite Etap-
+pe, in der viele Überlegungen über den großen Teich nach Deutschland
+kommen und häufig unreflektiert übernommen werden. Schließlich folgen
+die Jahre bis zum Jahrtausendwechsel, die sich durch eine neue, weltoffene
+
+[p. 149] [PDF page 149]
+
+und der englischen Fachsprache mächtige Generation an Forscherinnen und
+Forschern auszeichnet. Ist es heute also noch notwendig, ein erziehungswis-
+senschaftliches Fachbuch aus dem Englischen ins Deutsche zu übersetzen?
+    Ein erstes Argument: Empirische Studien zum Publikationsinput und
+-output im Bereich der deutschsprachigen Erziehungswissenschaft belegen,
+dass Forschende nur in geringem Maß englische Artikel verfassen und eng-
+lische Literatur rezipieren (vgl. Zierer u. a. 2013). Zwar ist die Tendenz auch
+in der Erziehungswissenschaft sicherlich steigend, doch ist zu vermuten,
+dass nicht alle Erziehungswissenschaftler in der englischen Fachsprache -
+und auch den anglophonen Bildungssystemen, auf die sie sich bezieht - so
+heimisch sind, dass sie über die Breite des in Hatties Original dargelegten
+bildungswissenschaftlichen Wissens ohne Weiteres ein treffendes Verständ-
+nis entwickeln können. Hierfür haben wir uns Zeit genommen und viele
+Gespräche mit kundigen Kolleginnen und Kollegen geführt.
+    Ein zweiter Grund: Für die Zielgruppen, insbesondere Lehrpersonen
+und Lehramtsstudierende, erscheint ein schneller Zugang zu diesem Fach-
+buch wichtig. Es ist sowohl für die Theorieprüfung und -entwicklung als
+auch für die Gestaltung professioneller Bildungspraxis relevant.
+    Ein dritter Grund: Angesichts einer hohen Spezialisierung in der erzie-
+hungswissenschaftliehen Forschung und einer gewissen Sättigung an Er-
+kenntnissen ist es heute weitaus schwieriger, ein epochales Buch zu verfas-
+sen, als dies noch vor zwanzig, dreißig Jahren der Fall war. Die englische
+Sprache hat hier einen sich weiter verstärkenden Vorteil: Nur das, was in
+dieser weltweit immer mehr dominierenden Wissenschaftssprache veröf-
+fentlicht wird, trägt zum gewaltigen global verfügbaren Wissenskorpus bei.
+Um die im deutschsprachigen Raum vorhandene, in Hatties Buch lediglich
+beiläufig berücksichtigte Forschung an dieses standardsetzende Werk an-
+schließbar zu machen, ist seine Übersetzung ins Deutsche ein gleichwohl            \
+förderlicher Schritt (der auf der interaktiven Webseite http://www.lernen-
+sichtbarmachen.net zum Buch fortgesetzt wird).
+    Die Resonanz, die John Hattie mit seinem Buch Visible Learning auf in-
+ternationalem und nationalem Terrain erfahren hat, ist enorm und bis heute
+ungebrochen. Damit ist das zweite Thema angesprochen.
+
+[p. 150] [PDF page 150]
+
+Wider den "Fast-Food-Hattie"
+
+
+Wir sehen die Notwendigkeit einer Übersetzung von Visible Learning nicht
+nur in der geschilderten starken Resonanz, sondern auch in der Gefahr,
+die eine vorschnelle und oberflächliche Interpretation seiner Überlegungen
+nach sich zieht. Letzteres ist unter Umständen auch Folge von Ersterem,
+sodass zunächst darauf eingegangen wird.
+    Noch nie zuvor hat Times Educational Supplement ein Buch mit den
+Worten "the Holy Grail" gepriesen. Wer die Geschichte des Heiligen Grals
+kennt, weiß um die Bedeutung dieses Vergleiches. Es überrascht daher
+nicht, dass John Hattie auch metaphorisch mit dem "Messias" verglichen
+wird. Ähnlich euphorisch sind die meisten Besprechungen innerhalb der
+scientific community. Schon bis zur Drucklegung der Übersetzung konnten
+wir über vierzig veröffentlichte Besprechungen ausfindig machen. Seitdem
+ist etwa die gleiche Anzahl an Besprechungen oder ausführlichen Rezeptio-
+nen in deutschsprachigen Publikationen dazugekommen. Nicht einberech-
+net sind die zahlreichen, ausschließlich im Internet veröffentlichten Kom-
+mentare und Darstellungen. Das nahezu einhellige Gesamturteil kulminiert
+in den Worten von Andreas Helmke:
+      "[John Hattie fasst] den gesamten weltweit (in englischer Sprache) verfügbaren
+      Wissensstand zu Bedingungen schulischer Leistung in seinem epochalen Werk
+      [zusammen .... ] An diesem Meilenstein muss sich jede künftige Darstellung des
+      empirischen Forschungsstandes orientieren:'                     (Helmke 2012, S. 13)
+
+
+
+Um an dieser Stelle gleich einer Reihe von Fehlinterpretationen vorzubeu-
+gen: Weder hat John Hattie den Heiligen Gral des Unterrichtens gefunden
+noch ist er der Messias der Erziehungswissenschaft. Auch bietet er keinen
+"Schlussstein" für das große Gebäude der bildungswissenschaftlichen For-
+schung zu Unterricht, zu Schule und zum Bildungssystem. Wer derartige
+Folgerungen zieht, hat John Hattie entweder nicht zu Ende gelesen oder
+nicht verstanden. In Kapitel 2 von Lernen sichtbar machen für Lehr-
+personen hält er explizit fest, dass der Heilige Gral auch in der Erziehungs-
+wissenschaft noch gefunden werden müsse. Insofern ist es erfreulich, dass
+neben all den Jubelrufen auch realistischere Einschätzungen zu finden sind.
+So bemerkt Ewald Terhart, indem er auf eine andere, nicht weniger monu-
+mentale Metaphorik zurückgreift: John Hattie arbeitet
+
+[p. 151] [PDF page 151]
+
+"an einer überaus großen Pyramide, die einerseits fest am Platz steht und bereits
+      eine beachtliche Breite und Höhe sowie eine klare Gestalt aufweist, jedoch ansatz-
+      bedingt nicht von ihrem Platz verrückt werden kann, aber ständig ergänzt, teil um-
+      gebaut und weiter vergrößert wird:'                               (Terhart 2011, S 291)
+
+
+
+Diese Ausführungen zeigen, dass die Diskussion voll im Gang ist. An John
+Hattie, so könnte man weiter bildlich argumentieren, scheiden sich die Geis-
+ter. Allerdings erscheint uns dieser Zugang zu John Hattie, der bei näherer
+Betrachtung nicht selten emotional beladen ist, wenig gewinnbringend. Zu-
+dem wissen wir aus Studien von Wolfgang Brezinka, dass gerade der undis-
+ziplinierte Gebrauch von Metaphern für die Pädagogik wenig hilfreich ist
+(vgl. Brezinka 1990). Er führt vielmehr zu einem Begriffswirrwarr und zu
+Unklarheiten, die der Sache mehr Schaden als Nutzen bringen. Die Über-
+setzungsarbeit hat unseren Blick für die mit Bildungs- und Erziehungsfra-
+gen eng verbundenen Wertkonflikte noch einmal geschärft und uns gleich-
+                                                                                                 c<lJ
+zeitig ermutigt, diesen mit größerer Gelassenheit zu begegnen.                                   s::.
+                                                                                                  u
+    Wertkonflikte werden bereits bei der Übersetzung der Domänenüber-                             g
+schriften und Faktorennamen virulent: Ist es gerechtfertigt, "parents" mit
+"Elternhaus" zu übersetzen, angesichts derTatsache, dass Millionen Kinder
+bei Alleinerziehenden aufwachsen (der Monitor Familienforschung 2012
+schätzt den Anteil dieser Familien auf 20% )?Wie übersetzt man Wörter wie
+"ethnicity", "desegregation" oder "special" im Zusammenhang mit "spe-
+cial education"? Ein nicht "zeitgemäßer" Wortgebrauch löst bisweilen hef-
+tige (emotional mitbedingte) Reaktionen aus. Eine heute noch akzeptabel
+erscheinende Übersetzung kann in wenigen Jahren schon als unangemessen
+(diskriminierend, stigmatisierend und dergleichen) gelten. Gerade in Bil-
+dungsfragen, die die lernenden, sich dabei verändernden und ihre Identität
+entwickelnden Menschen in intimen Bereichen betreffen, werden Begriffs-                          \
+bestimmungen einer ständigen Bedeutungsprüfung unterzogen. Was aus pä-
+dagogischer Wertperspektive als angemessene Übersetzung gilt, unterliegt
+daher einem steten Wandel. Dies ist auf der einen Seite zu begrüßen, da
+es immer wieder zum kritischen Hinterfragen der eigenen Werthaltungen
+ermuntert. Auf der anderen Seite kann dies auch missbraucht werden, um
+Interpretationshegemonien auf- und auszubauen und die (noch nicht oder
+nicht mehr) Politisch-Korrekten mit einem Stigma zu versehen. Steven Pin-
+kers (2003) Metapher von der Euphemismus-Tretmühle bringt diese Ambi-
+valenz auf den Punkt: Wir dürfen nicht ruhen, spannungsgeladene Begriffe
+
+[p. 152] [PDF page 152]
+
+kritisch zu hinterfragen und, wenn nötig, durch bessere zu ersetzen. Dieser
+Vorgang ist nie abgeschlossen, denn jeder Begriff, der einen mit Emotionen
+besetzten Sachverhalt "reifer", "aufgeklärter", "rationaler" fassen will,
+wird nach einiger Zeit wieder die nicht auflösbare Spannung zumAusdruck
+bringen und durch einen neuen ersetzt werden müssen. Umso wichtiger ist
+es, das jeweils Gemeinte so eindeutig wie möglich zu definieren, damit der
+zu führende Dialog über Bildung und Erziehung eine die Verständigung
+förderliche geklärte terminologische Basis hat.
+    Und genau dies war für uns ein Argument, die Herausforderung der
+Übersetzung von Visible Learning anzugehen, womit wir beim zweiten
+Punkt sind: Die Gefahr der vorschnellen und oberflächlichen Interpretati-
+on. Wenn man in die Rezeption von Visible Learning blickt, dann lassen sich
+ohne längeres Suchen viele Beispiele dafür finden. So wird oft unmittelbar
+von Hatties "Rangliste der Faktoren" auf zu ergreifende Maßnahmen ge-
+schlossen. In dieser Rangliste werden die 138 extrahierten Faktoren ent-
+sprechend des für Hatties Argumentation zentralen statistischen Vergleichs-
+maßes, der Effektstärke, angeordnet. Diese bezeichnet die Intensität des
+Zusammenhangs zwischen dem jeweiligen Faktor und den Lernleistungen
+oder Outcomes der Lernenden. Im Wesentlichen unterlaufen dreiArten von
+Fehlern, die wir an Beispielen verdeutlichen möchten.
+    Hausaufgaben nehmen bei John Hattie einen Rang im hinteren Drittel
+der Rangreihe ein: Platz 88 von 138 (d = 0,29, also eher schwach). Damit
+ist für viele klar: Hausaufgaben lohnen sich nicht. Sie können abgeschafft
+werden. Wer diese Schlüsse zieht, hat Hattie falsch interpretiert. Zum einen
+ist dieser Effekt nicht negativ, sondern schwach positiv. Das heißt, wenn
+man Hausaufgaben von einem auf den anderen Tag abschaffen würde, dann
+würden die Lernleistungen womöglich sinken. Überdies - und darauf weist
+Hattie selbst hin -, sind Hausaufgaben je nach Klassenstufe differenziert
+zu betrachten: In der Senior High School (im deutschsprachigen Raum
+betrifft dies zum Beispiel die Gymnasien besonders stark) bringen (gut
+gestellte) Hausaufgaben mit Blick auf mathematische, sprachliche und na-
+turwissenschaftliche Kompetenzen deutlich mehr als in der Grundschule.
+Man könnte daher folgern: Je höher die Klassenstufe, desto effektiver sind
+tendenziell Hausaufgaben. Schließlich können bereits in niedrigen Klas-
+senstufen regelmäßig gegebene Hausaufgaben zum Aufbau verschiedener
+Kompetenzen (zum Beispiel Selbstregulationsfähigkeit) beitragen. Da sich
+Hattie vorrangig für die Beiträge der von ihm untersuchten Faktoren zu
+
+[p. 153] [PDF page 153]
+
+fachlich-kognitiven Kompetenzen interessiert, fällt dieser mögliche Einfluss
+der Hausaufgaben (vgl. Zierer 2013) aus seiner Betrachtung weitgehend
+heraus. Diese von Hattie in der Einleitung eingeräumte Verkürzung ist nicht
+nur beim Thema "Hausaufgaben", sondern auch bei anderen Faktoren, die
+zunächst auf methodische, personale oder soziale Kompetenzen Einfluss
+nehmen, und später vielleicht auch auf fachliche, zu bedenken.
+    Auch für die Sommerferien liefert John Hattie eine Effektstärke, die zu
+einer Überinterpretation einlädt. So kommen lange Sommerferien auf ei-
+nen Wert, der Unwirksamkeit signalisiert (d = -0,09). Für viele liegt .da-
+mit auf der Hand: Sommerferien in der bisherigen Form sind schädlich.
+Beispielsweise wird vorgeschlagen, die Ferienzeit mit Übungsaufgaben in
+Mathematik, Lesen und den Naturwissenschaften zu füllen, "Ferienlern-
+tagebücher" schreiben zu lassen. Das Problem, das sich hier zeigt, liegt in
+einer Überinterpretation einzelner Ergebnisse - auch darauf weist Hattie
+hin: Es reicht eben nicht aus, einen einzelnen Faktor zu modulieren, son-
+dern es ist stets ein Geflecht von Wechselwirkungen, das einbezogen wer-
+den muss. Im genannten Beispiel ist, bevor hier ein Schluss gezogen werden
+kann, zu bedenken, dass erstens die Länge der Sommerferien von Land zu
+Land unterschiedlich ist (im Extremfall bis zu drei Monate lang) und zwei-
+tens positive Effekte zu erwarten sind, die zwar nicht den mathematischen
+und sprachlichen Fähigkeiten dienen, aber für die Bildung der Kinder und
+Jugendlichen nicht weniger wertvoll sind: Zeit für Eltern, Zeit für Freunde,
+ja sogar Langeweile. Bildung erschöpft sich nicht in einem wie auch immer
+messbaren Leistungszuwachs. Und die Schule sollte sich davor hüten, sich
+auf diesen Nutzen zu beschränken - ein Argument, das auch für andere
+schwache Faktoren zu prüfen ist (vgl. Zierer 2013).
+    Es wird unterstellt, dass Faktoren mit einem geringen Einfluss für eine er-
+folgversprechende Schul- und Unterrichtsentwicklungper se vernachlässig-           \
+bar sind. Dies ist jedoch für eine Vielzahl solcher Faktoren ein Fehlschluss,
+zumal für solche, die durch Lehrpersonen oder Schulleitungen gestaltbar
+sind. Dabei spielen sowohl didaktisch-konzeptionelle Gesichtspunkte eine
+Rolle (wirkmächtige Kombination von Faktoren) als auch finanzielle Aspek-
+te. Hierzu zwei Beispiele, die auf eine Reihe anderer Faktoren übertragbar
+sind: Team-Teaching hat mit d = 0,19 eine sehr geringe Effektstärke. Die-
+se besagt Folgendes: Wenn man ansonsten identisch unterrichtete Klassen
+mit bzw. ohne Team- Teaching vergleicht, schadet das (in der Regel kosten-
+erhöhende) Team- Teaching zwar nichts, aber erbringt auch wenig gesteiger-
+
+[p. 154] [PDF page 154]
+
+te Lernleistungen. Wenn man jedoch das Setting des Team- Teaching nutzt,
+um im Einzelunterricht schwer aufbaubare Ansätze einzuführen, zum Bei-
+spiel formative Evaluation des Unterrichts (d = 0. 90) oder Peer-Tutoring
+(d = 0.55), ergibt sich ein wirkstarkes FaktorenbündeL Für dessen Aufbau
+ist zumindest temporäres Team- Teaching wünschenswert, wenn nicht un-
+verzichtbar.
+    Jahrgangsübergreifende Klassen haben selten einen positiven Effekt auf
+die Lernleistungen (aber auch selten einen negativen) - der Wert der Ef-
+fektstärke liegt nahe bei null. Sie daher von vornherein abzulehnen, geht
+jedoch fehl, weil mit ihnen sowohl direkte (Personalkosten) als auch indi-
+rekte Kosten (Schülertransport, Gebäudekosten usw.) eingespart und für
+andere, wirkmächtigere Ansätze eingesetzt werden könnten. Infrage käme
+zum Beispiel die nicht unaufwendige Einführung eines Konzeptes alters-
+durchmischten Lernens (zum Beispiel Acherrnann/Gehrig 2012). Vielfach
+liegt der Schlüssel für den Erfolg nicht in der Auswahl weniger "starker"
+Faktoren, sondern in einer wohlüberlegten, auf den jeweiligen schulischen
+Kontext abgestimmten Kombination, auch mit schwächeren Faktoren.
+    Die angeführten Beispiele zeigen, wie vorschnell und oberflächlich eine
+Interpretation von John Hattie möglich ist und wie falsch die daraus gezo-
+genen Schlüsse bei näherer Betrachtung sind: weil sie auf einer ungenauen
+Kenntnis der Ausführungen Hatties beruhen, in unzulässiger Weise Ergeb-
+nisse von anderen Ländern übertragen und mögliche Wechselwirkungs-
+zusammenhänge einzelner Faktoren sowie ihr Aufwand-Nutzen-Verhältnis
+missachten. Gelingt es entsprechend vernetzten Protagonisten, ihre meist
+schon vorgefasste Meinung publik zu machen und in die relevanten Ent-
+scheidungsgremien hineinzutragen, dann kann daraus größerer Schaden re-
+sultieren - zum Beispiel das Abschaffen der Hausaufgaben, die Verkürzung
+der Sommerferien, die generelle Ablehnung von Team- Teaching oder von
+jahrgangsübergreifenden Klassen. All das, was hier passieren kann und auch
+passiert, ist ein "Fast-Food-Hattie", der nur auf das, was schnell und einfach
+zugänglich scheint, fokussiert. Er reduziert die vielfältigen und differenzier-
+ten Erkenntnisse von John Hattie in unangemessener Weise, beispielsweise
+auf sein Rauking der 138 Faktoren und die Visualisierung der Effektstär-
+ken mithilfe der sogenannten Barometer. Problern und Chance zugleich
+sind: Visible Learning liefert für nahezu jeden etwas. Somit lädt es zu einer
+hoch selektiven, die eigenen Vorurteile oder Glaubenssätze bestätigenden
+Rezeption geradezu ein. Dies darf nicht verwundern. Denn mit Bildung
+
+[p. 155] [PDF page 155]
+
+und Erziehung sind immer verschiedenartige "Werte" und Vorstellungen
+vom "Guten" verbunden, für die weder in der Vergangenheit noch in der
+Zukunft ein überdauernder Konsens erzielt werden kann. Kurz gesagt: Viel-
+fach selektiv genutzt wird das, was John Hattie sagt. Aber auch das von ihm
+nicht Untersuchte kann hoch relevant sein, wenn es um Entscheidungen in
+Unterricht, Schule und Bildungspolitik geht.
+   Insofern zeigt sich, dass der große Wert der Studie von John Hattie
+gleichzeitig die größte Gefahr mit sich bringt: Der Versuch, Komplexität
+zu reduzieren. Zusammen mit der Tatsache, dass Visible Learning in einer
+fremden Sprache geschrieben ist, verführt dies zu Fehlinterpretationen. Wir
+waren und sind fest davon überzeugt, dass ein erster Schritt, um diese Ge-
+fahr zu bannen, darin liegt, Visible Learning zu übersetzen und in deutscher
+Sprache zu veröffentlichen. Die Wahrscheinlichkeit steigt damit, dass auch
+die teils sehr differenzierten Ergebnisse und Überlegungen von John Hattie
+zu seinen Faktoren gelesen werden, und nicht nur die Barometer mit den
+reinen Faktorenbezeichnungen als Grundlage für "Feiertagsinterpretatio-
+nen" dienen. Solche können dem Ansatz und der Arbeit von John Hattie
+nicht gerecht werden. Sie könnten dazu führen, dass Visible Learning bloß
+ein Aufblitzen einer überwältigenden Zahl statistischer Maßzahlen in der
+Diskussion wäre. Die weitaus wichtigere Theorie, die hinter diesen steht,
+erfordert eine intensive Auseinandersetzung mit dem Originaltext. Sie lässt
+sich am besten mit Hatties Worten selbst andeuten:
+      ",m vorliegenden Fall handelt die Geschichte von der Sichtbarkeit des Lehrensund
+      des Lernens. Es geht um das Potenzial der leidenschaftlichen, versierten Lehrper-
+      sonen, die sich auf das kognitive Engagement der Lernenden für den Lehrinhalt
+      dessen, was sie unterrichten, konzentrieren:'                     (Hattie 2013, S. 280)
+
+
+
+Die Übersetzung verfolgt also das Ziel, eine kritisch-konstruktive und                           \
+breite Auseinandersetzung mit John Hattie überhaupt erst zu ermöglichen
+und zu initiieren -jenseits eines schnellen und verkürzenden Zugriffs. Es
+soll- zusammen mit dem interaktiven Internet-Angebot- Lesende unter-
+stützen, die Komplexität des Lernens und Lehrens zu erhalten und den
+Transfer des zusammengestellten und aufbereiteten Wissens auf einen his-
+torisch gewachsenen, kulturspezifischen, konkreten und somit einzigarti-
+gen pädagogischen Kontext zu leisten: eine spezielle Schule und die eigene
+Unterrichtspraxis.
+
+[p. 156] [PDF page 156]
+
+ln 100 Tagen um die ganze Welt
+
+
+Die Übersetzung von Visible Learning war- von den sprachlichen Heraus-
+forderungen abgesehen - eine Marnrnutaufgabe: Sie kostete unser Team,
+bestehend aus 6 Personen der Pädagogischen Hochschule FHNW und der
+Carl von Ossietzky Universität Oldenburg, gut 100 Tage - wenig Zeit für
+eine Reise durch zahlreiche Regionen einer expandierenden Welt des (pä-
+dagogischen) Forschungswissens. Hatties Werk umfasst - was ein Blick auf
+die 6 Domänen zeigt- breite Forschungs- und Thernenbereiche, die ein Ein-
+zelner allein kaum überblicken kann. Die Zugänglichkeit wird durch die
+englische Sprache erschwert. In diesem Sinn stellt der Transfer von einer
+Sprache in eine andere zahlreiche begriffliche und inhaltliche Herausforde-
+rungen. Diesen musste durch eine entsprechende Überarbeitung begegnet
+werden. Dabei wurden verschiedene Inkonsistenzen der Originalfassung
+deutlich, die so weit wie möglich bereinigt wurden.
+   Die Problerne und ihre Lösung eröffnen Chancen, bergen aber auch Risi-
+ken. Diese werden zunächst mit Blick auf die Überarbeitung und dann mit
+Blick auf die Übersetzung angesprochen.
+
+Überarbeitung: Diese konzentriert sich auf die drei Bereiche (1) Vollstän-
+digkeit, (2) Konsistenz und (3) Korrektheit sowohl statistischer Kennzah-
+len als auch deren Visualisierung (durch die "Barometer"): So wurden zum
+Beispiel fehlende Barometer und eine Faktorenbeschreibung ("Verhalten in
+der Klasse", "classroorn behavioral ") ergänzt, Zwischenüberschriften ein-
+gefügt, Tabellen und Anhänge vervollständigt. Es wurde stärker auf konsis-
+tenten Begriffsgebrauch über alle Kapitel hinweg geachtet, um die Leserin
+und den Leser optimal zu orientieren (zum Beispiel Gebrauch des Wortes
+"Faktor" nur dann, wenn einer der 138 angesprochen ist). Die Benennun-
+gen der Domänen und der Faktoren sind über alle Kapitel und die Anhänge
+vereinheitlicht.
+   In den Tabellen, Abbildungen und Barometern des Originals war die
+eine oder andere statistische Kennzahl fehlerhaft übertragen worden zum
+Beispiel abweichend von der Referenzgröße im Anhang B). Dies betrifft
+besonders die beiden für das Resümee Hatties zentralen Tabellen im ab-
+schließenden Kapitel 11, die auch in ihrer Zusammensetzung angepasst
+sind. Gegenüber der Originalausgabe sind mit John Hattie zusammen alle
+CLE-Werte (siehe Kapitel 2) korrigiert worden. Die 138 "Barometer"
+
+[p. 157] [PDF page 157]
+
+wurden grafisch angepasst, um Fehlinterpretationen zu mindern. Selbstver-
+ständlich war es uns nicht möglich, statistische Kennzahlen, etwa die von
+Hattie vorgenommenen Mittelwertbildungen über mehrere Effektstärken,
+auf Basis der Metaanalysen oder gar Primärstudien nachzurechnen. Auch
+dies- eine aufwendige Forschungsarbeit, wenn man sie für alle Faktoren
+angehen möchte!- würde sicher zu Korrekturen führen, aber würde es das
+große Bild irrfrage stellen?
+
+Übersetzung: Ein WissenschaftlicherText erfordert eine präzise, wenn nicht
+wort-, so doch sinngetreue Übersetzung. Gleichzeitig soll der übersetzte
+Text leicht verständlich und leseanregend sein. Diese und weitere Ansprü-
+che machten für dieses Buch zahlreiche Entscheidungen erforderlich, von
+denen einige hier angesprochen seien. Grundsätzlich wurde alles übersetzt,
+wenn es nur irgendwie möglich und sinnvoll erschien. Von diesem Vorge-
+hen wurde abgewichen, wenn die englischen Begriffe bereits ins Deutsche
+eingeführt sind (zum Beispiel Micro- Teaching, Team-Teaching) oder keine
+angemessene Übersetzung (zum Beispiel Mastery Learning, High School)
+möglich war. Ein im englischen Original beibehaltener Begriff ist - wie vie-
+le andere Fachbegriffe auch - in der Übersetzung mit einem Sternchen (*)
+gekennzeichnet. Er ist im Glossar auf der Begleit-Website erläutert. Nach-
+folgend sind beispielhaft einige Einzelentscheidungen erläutert:
+      "Evidence": DiesesWort kommt in den 11 Kapiteln des Buches über
+      160 Mal vor. In den meisten Fällen sind damit empirische, auf die
+      systematische Erhebung und Auswertung von Daten gestützte Belege
+      für Behauptungen gemeint, die allerdings widerlegbar sind. Um dies
+      zu betonen und zu einem Verständnis von Evidenz als dem Augen-
+      fälligen oder nach Abwägung Sinnvollen zu kontrastieren, wurde das
+      Wort insbesondere an Schlüsselstellen mit "empirischen Belegen"           \
+      übersetzt.
+   - "Contributions": In den Überschriften zu den 7 Hauptkapiteln zu
+      den 6 Domänen und an vielen anderen Stellen in der Originalaus-
+      gabe spricht Hattie von "contributions", welche die entsprechenden
+      Faktoren in Bezug auf die Lernleistungen/die Outcomes haben. Da-
+      mit sind sowohl (ursächliche) Einflüsse ("influences") oder Wirkun-
+      gen ("effects") als auch lediglich (korrelative) Zusammenhänge oder
+      Wechselwirkungen gemeint, die - so auch Hattie - allzu schnell mit
+      Ersteren verwechselt werden. Die "Hattie-Tabelle" auf der Begleit-
+
+[p. 158] [PDF page 158]
+
+Website ermöglicht eigene Recherchen nach Ursachen und Wechsel-
+    wirkungen.
+-   "Intervention": Bei "Interventionen" handelt es sich als ursächlich
+    wirkend modellierte, dabei zusätzlich auch gestaltbare Einfluss-
+    faktoren. Im Unterschied zu anderen kausalen Faktoren, zum Bei-
+    spiel "Familienstruktur", können Interventionen durch Akteure des
+    Bildungssystems kurz- oder mittelfristig in der Stärke moduliert wer-
+    den oder sie können unterlassen werden.
+-   "Outcomes": Dieser Terminus taucht bei Hattie vielfach auf. Er ver-
+    wendet ihn in zwei Kontexten, was zu verschiedenen Bedeutungs-
+    inhalten führt: Zum einen zur Bezeichnung der Lernleistungen oder
+    der erworbenen Kompetenzen ("learning outcomes"), zum anderen,
+    um Forschungsergebnisse anzusprechen. Um Missverständnissen
+    entgegenzuwirken, wird in der deutschen Ausgabe der Begriff "Out-
+    comes" ausschließlich zur Bezeichnung von "(erwünschten) einge-
+    tretenen Veränderungen" oder "Stabilisierungen des Wissens, der
+    Einstellungen, der Fertigkeit, der Kompetenzen usw." verwendet, die
+    bei der Zielgruppe - hier meist Schülerinnen und Schüler oder Stu-
+    dierende - auftreten (vgl. auch Beywl/Niestroj 2009). In aller Regel
+    sind damit kognitive, fachliche Lernleistungen in den Kernfächern
+    (Lesen, Schreiben, Mathematik, Naturwissenschaften) gemeint. Doch
+    auch bei durch Bildung geförderten methodischen, personalen oder
+    sozialen Kompetenzen handelt es sich um Outcomes. Deren Rele-
+    vanz wird auch von Hattie explizit erwähnt, jedoch fehlen hierzu ab-
+    seits vereinzelter Hinweise systematische Auswertungen.
+-   "Student": Im Englischen ist dieserTerminusüber fast alle Bildungs-
+    bereiche hinweg verwendbar, während im Deutschen das Wort "Stu-
+    dierende" ausschließlich im tertiären Bildungsbereich treffend ist.
+    Daher haben wir uns für das Wort "Lernende" entschieden, das ähn-
+    lich übergreifend verwendet werden kann. Immer dann, wenn "Ler-
+    nende" mit dem Verb "lernen" in einem Satz auftaucht, wurde es
+    durch "Schülerinnen und Schüler" oder, wenn angemessener, durch
+    "Studierende" ersetzt.
+-   "Activator" und "facilitator": In seinem letzten Kapitel stellt Hat-
+    tie Typen von Lehrpersonen als "activator" und als "facilitator"
+    gegenüber. Diese Begrifflichkeiten sind wegen der mit den Überset-
+    zungsvarianten je verbundenen Konnotationen heikel (vgl. Pinkers
+
+[p. 159] [PDF page 159]
+
+Euphemismus-Tretmühle): So findet sich in der deutschsprachigen
+      Hattie-Rezeption u.a. derVorschlag, diese mit "Herausforderer" und
+      "Erleichterer" zu übersetzen. Wir hingegen übersetzen mit "Regis-
+      seur" und "Moderator", verbunden mit der Absicht, wertende Kon-
+      notationen zu minimieren.
+Für die Übersetzung der zahlreichen erziehungswissenschaftliehen Fach-
+termini haben wir Standardwerke in deutscher Sprache (z. B. Dubs 2009;
+Helmke 2012) Glossare englischsprachiger Handbücher (z. B. Woolfolk/
+Perry 2012), den (soeben überarbeiteten) Online-Thesaurus des Education
+Resources Information Center (ERIC) sowie zahlreiche Originalquellen aus
+Hatties Literaturverzeichnis und schließlich deutschsprachige Fachliteratur
+herangezogen.
+   Die Übertragung der institutionellen Termini der anglophonen Bildungs-
+systeme ("Middle School", "HighSchool" usw.) erweist sich als schwierig:
+Im englischen Sprachraum sind diese Begriffe weitgehend klar. Eine Lö-
+                                                                                C:
+sungsidee war, diese Begriffe durch die gängige (wenn auch in Deutschland,      GJ
+                                                                                _c
+                                                                                u
+Österreich und der Schweiz nicht einmal innerstaatlich eindeutige) Stufung      E
+des Bildungsbereiches in Elementar-, Primar-, Sekundar-und Tertiärbereich
+zu ersetzen. Doch gelang dies nicht. Daher werden auch in der Übersetzung
+die Originalbezeichnungen für Schultypen genutzt, um die damit angespro-
+chenen Kontexte der ursprünglichen Studien sichtbar zu lassen. Um den
+Lesenden einen Transfer zu erleichtern, werden diese Begriffe im Online-
+Glossar erläutert und mit Online-Fundstellen verlinkt Zudem findet sich
+dort eine tabellarische Gegenüberstellung mit Bezug auf die "International
+Standard Classification of Education" (UNESCO 2012).
+   Neben diesen meist terminologischen Fragen stellt sich auch die Frage ei-
+ner gendergerechten Sprache, die im Englischen viel einfacher zu lösen ist.
+Statt mechanisch stets das generische Maskulinum oder stets beide Genera        \
+zu nutzen, wurden gängige geschlechtsneutrale Übersetzungen bevorzugt
+benutzt, wie "Lehrpersonen" für "teacher" oder "Lernende" für "stu-
+dents" oder "learners" sowie für andere zentrale Akteure des Bildungs-
+systems. Zur Vereinfachung werden Sätze mit Personenbezeichnungen wie
+den genannten - soweit vertretbar - auch dann in den Plural gesetzt, wenn
+der englische Originalsatz im Singular formuliert ist.
+   Ein weiteres sprachspezifisches Problem betrifft Satzbau und -länge:
+Hattie schreibt in einem reihenden Stil mit oft langen Sätzen. An zahlrei-
+chen Stellen haben wir eingegriffen, Sätze gekürzt bzw. umgestellt. Ähn-
+
+[p. 160] [PDF page 160]
+
+liches gilt für die Verwendung von Tempora; wir haben abweichend vom
+Original das Präsens bevorzugt.
+
+
+
+Ein unendlicher Dialog
+
+
+Seit der Veröffentlichung der deutschsprachigen Ausgabe erreichen uns im-
+mer wieder kritische Hinweise und Nachfragen. Oft stammen diese von
+Spezialisten für eines der zahlreichen Teilgebiete, die Hattie behandelt.
+Manche, trotz aller Bemühungen mehrdeutige oder missverständliche
+Übersetzung wurde so nachträglich aufgedeckt. Korrekturen sind in den
+Nachdrucken der ersten sowie in der zweiten, korrigierten Auflage und-
+soweit für das inhaltliche Verständnis bedeutsam- auf der Begleit-Website
+unter "Korrigenda" eingearbeitet.
+    Das weit größere Risiko sehen wir nicht in den Ambiguitäten der Über-
+setzung, sondern in der Tatsache, dass viele Schlüsselbegriffe Hatties im
+deutschsprachigen Raum eine eigenständige Geschichte aufweisen bzw.
+entwickeln und nicht selten Signalwörter für bestimmte, sich teils gegen-
+seitig aktiv abgrenzende pädagogische Handlungsansätze oder (normative)
+Theorien darstellen. Die uneinheitliche Terminologie der deutschsprachigen
+Erziehungswissenschaft kann dadurch noch weiter strapaziert und unklarer
+werden.
+    Dies gilt für Faktoren wie "open" vs. "traditional", "problem-based
+learning", "individualized instruction ", "direct instruction ", "inquiry-
+based teaching" u. v. a. m. Am Beispiel der "individualized instruction ", die
+wir mit "Individualisierung" übersetzt haben, lässt sich das Problem veran-
+schaulichen: Hattie versteht darunter im Kern einen an den Interessen und
+"Bedürfnissen" der Schülerinnen und Schüler orientierten Unterrichtsstil,
+der gemäß der vorliegenden 9 Metaanalysen relativ wenig zu den Lern-
+leistungen beiträgt. Während Individualisierung in der deutschsprachigen
+Literatur teils recht ähnlich definiert wird und dem die explizit an diag-
+nostizierten "Bedarfen" orientierte Differenzierung gegenübergestellt wird
+(z. B. Bohl2012), fassen andere Individualisierung als Oberbegriff auf (ähn-
+lich wie das "personalisierte Lernen"). Damit wird Hatties Befund in sei-
+ner Reichweite unzulässig überdehnt. So spricht Brüning/Saum (2010) von
+"Differenzierung nach Interesse" als Unterform der "Individualisierung
+und Differenzierung durch kooperatives Lernen". Es dürfte unmittelbar
+
+[p. 161] [PDF page 161]
+
+einleuchten, dass für die nach Orientierung und Halt suchenden Lehrper-
+sonen der Begriffswirrwarr perfekt ist und eine nachhaltige Motivation zur
+aktiven Auseinandersetzung mit Fachliteratur unterminiert wird.
+   Hatties Ranglisten der Einflüsse haben seine Bücher prominent gemacht
+und sind nach seinen eigenen Worten gleichzeitig eine der größten Quellen
+für die Ablenkung von der eigentlichen Aufgabe (vgl. Zeit-Interview mit
+John Hattie, 02. 05.2013): der Suche nach besseren, nach optimalen Kom-
+binationen von Einflussmöglichkeiten, die vorzunehmen ausschließlich die
+Lehrpersonen und Schulleitungen "vor Ort" in der Lage sind.
+   Das Dilemma, in dem sich die Erziehungswissenschaft mit ihren diffe-
+renten bis hin zu idiosynkratrischen Begriffsverwendungen befindet, wird
+durch Hatties Werke nicht geschaffen und sicherlich nicht gelöst. Allerdings
+wird es befeuert, insofern die unterschiedlich großen Effektstärken darauf
+verweisen, was auf dem Spiel steht: Die Relevanz der jeweils vertretenen
+pädagogischen Ansätze mit seinen positiv besetzten Schlüsselbegriffen für
+die Proponenten, die Stärke der Argumente, die gegen diese Faktoren vor-
+gebracht werden, für die Opponenten.
+                                                                                             ro
+   Gerade pädagogische Diskurse scheinen nicht gefeit zu sein vor einer                     _D
+
+                                                                                            -5·v;
+plötzlichen und intensiven Emotionalisierung, sobald die eigenen Grund-                      c
+                                                                                             Q)
+
+überzeugungen infrage gestellt werden. Die Tacitus-Maxime "sine ira et                       c
+
+studio" ("ohne Zorn und Eifer") mit der Forderung nach pädagogischem
+                                                                                            ~
+                                                                                             ::J
+                                                                                             N
+
+Feuer und Leidenschaft zu verbinden, die Hatties Werk durchzieht, ist die                   :g
+lebenslange große Herausforderung, der sich nicht nur Lehrpersonen in den
+Klassen, sondern auch diejenigen zu stellen haben, die über Schule, Un-
+terricht und Bildung forschen und lehren. Wir hoffen sehr, diese Aufgabe
+
+
+
+
+                                                                                            '
+mit unserer Übersetzung erleichtert zu haben und dem Dialog in der Er-
+ziehungswissenschaft, der per se unendlich ist, einen Impuls gegeben zu
+haben.
+
+Literatur
+Achermann, Edwin/Gehrig, Heike (2012): Altersdurchmischtes Lernen. Auf dem Weg zur
+   individualisierenden Gemeinschaftsschule. 2. Auflage. Bern: Schulverlag plus.
+Beywl, Wolfgang/Niestroj, Melanie (2009): Das A-B-C der wirkungsorientierten Evaluati-
+   on. Glossar- Deutsch Englisch- der wirkungsorientierten Evaluation. 2., vollständig
+   überarb. Auflage. Köln: Univation [aktualisierte Online-Version: http://www.eval-iki.
+   org/glossar].
+Bohl, Thorsten (2012): Binnendifferenzierung. Immenhausen bei Kassel: Prolog.
+Brezinka, Wolfgang (1990): Grundbegriffe der Erziehungswissenschaft. Analyse, Kritik,
+   Vorschläge. 5. Auflage. München: Reinhardt.
+
+[p. 162] [PDF page 162]
+
+Brüning, Ludger/Saum, Tobias (2010): Individualisierung und Differenzierung. In: Praxis
+   Schule, 1, S. 8-11.
+Dubs, Rolf (2009): Lehrerverhalten. Ein Beitrag zur Interaktion von Lehrenden und Ler-
+   nenden im Unterricht. Stuttgart: Steiner.
+Hattie, John (2013): Lernen sichtbar machen. Deutschsprachige Ausgabe von "Visible
+   Learning", besorgt von Wolfgang Beywl und Klaus Zierer. Baltmannsweiler: Schneider
+   Hohengehren.
+Helmke,Andreas (2012): Unterrichtsqualität und Lehrerprofessionalität Diagnose, Evalu-
+   ation und Verbesserung des Unterrichts. 4. Auflage. Seelze-Velber: Kallmeyer.
+Pinker, Steven (2003): Das unbeschriebene Blatt. Die moderne Leugnung der menschli-
+   chen Natur. Berlin: Berlin-Verlag.
+Terhart, Ewald (2011): Hat John Hattie tatsächlich den Heiligen Gral der Schul- und Un-
+   terrichtsforschung gefunden? EineAuseinandersetzung mitVisible Learning. In: Edwin
+   Keiner u.a. (Hrsg.): Metamorphosen der Bildung. Historie- Empirie- Theorie. Fest-
+   schrift für Heinz-ElmarTenorth. Bad Heilbrunn: Klinkhardt, S. 277-292.
+Terhart, Ewald (2012): Drifting Didactics. Jahrbuch für Allgemeine Didaktik, S. 65-76.
+UNESCO Institute for Statistics (2012): Internationalstandard classification of education.
+   (ISCED 2011). Montreal: UNESCO Institute for Statistics.
+Woolfolk, Anita/Perry, Nancy (2012): Child and adolescent development. Upper Saddle
+   River: Pearson Education.
+Zierer, Klaus (2013): Hausaufgaben sind keineswegs sinnlos. In: Frankfurter Allgemeine
+   Zeitung, 15. 03.2013.

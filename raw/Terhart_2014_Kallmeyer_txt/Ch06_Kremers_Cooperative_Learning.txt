@@ -1,0 +1,518 @@
+Die Hattie-Studie in der Diskussion: Probleme sichtbar machen
+Herausgegeben von Ewald Terhart | 1. Auflage 2014 | Seelze: Kallmeyer in Verbindung mit Klett
+ISBN 978-3-7800-4804-2
+
+Leseeinheit 06: Wie lernwirksam ist das Kooperative Lernen? Lernen in kooperativen Strukturen auf dem Prüfstand der Hattie-Studie
+Thomas Kremers
+Originalseiten 78–88; PDF-Seiten 78–88
+
+[Deutscher Originaltext aus der OCR-Textebene des gescannten PDFs. Die Nummer der Leseeinheit folgt dem Inhaltsverzeichnis; die Beiträge sind im Original nicht nummeriert. Fußnoten und Literatur bleiben im jeweiligen Beitrag. Seitenmarkierungen verweisen auf Buchseite und PDF-Seite. OCR-Fehler können verbleiben; genaue Zitate, Tabellen und Abbildungen bitte am PDF prüfen.]
+
+
+========================================================================
+Beitrag mit Anmerkungen und Literatur
+========================================================================
+
+[p. 78] [PDF page 78]
+
+Thomas Kremers
+
+
+Wie lernwirksam ist das
+Kooperative Lernen?
+Lernen in kooperativen Strukturen auf dem
+Prüfstand der Hattie-Studie
+
+Die Hattie-Studie scheint auf den ersten Blick ein Plädoyer für den klas-
+sischen Frontalunterricht nahezulegen. Es wäre aber falsch und nicht im
+Sinne Hatties, kooperative Lernstrukturen abzuwerten. Kooperatives Ler-
+nen ist eine nachweislich effektive Form der Unterrichtsgestaltung. Auf
+der Basis einer sicheren Lernatmosphäre werden intensive Lernprozesse
+auf allen Lernebenen durch gut strukturierte Gruppenarbeit realisiert. Es
+stellt somit ein effektives Lernkonzept dar, das über den Erwerb sozialer,
+kommunikativer und methodischer Kompetenzen hinaus auch eine hohe
+Effektstärke auf die fachlichen Leistungen von Schülerinnen und Schülern
+erbringt.
+
+
+Nachdem die Hattie-Studie im Jahre 2009 veröffentlicht wurde, ist sie im
+Times Education Supplement euphorisch als "Heiliger Gral" der Schul-
+und Unterrichtsforschung bezeichnet worden. Auch wenn diese Einschät-
+zung übertrieben ist, so würde ich doch Ewald Terhart (in diesem Band)
+zustimmen, der John HattiesArbeit als wichtigen Beitrag für die empirische
+Unterrichts- und Schulforschung einschätzt. 1 Seit der Veröffentlichung der
+Hattie-Studie hört man in Lehrerzimmern immer wieder den Spruch: "Seit
+Hattie ist doch bewiesen, dass Frontalunterricht völlig in Ordnung ist, es
+nur auf den Lehrer ankommt und Kooperatives Lernen doch nichts bringt!"
+Die wenigsten der Diskutanten haben aber offensichtlich die Studie selbst
+gelesen2 , denn nach einer Lektüre könnten sie sich nicht zu derartigen Aus-
+
+
+1   Entsprechend setzt sich Ewald Terhart in seinem Beitrag konstruktiv-kritisch mit der Studie auseinander.
+2   Mittlerweile liegt die Studie auch als von Wolfgang Beywl und Klaus Zierer herausgegebene deutsche
+    Übersetzung vor (Hattie 2013).
+
+[p. 79] [PDF page 79]
+
+sagen verleiten lassen. Es macht also Sinn, bei Hattie nachzusehen, wie er
+die Wirksamkeit des Kooperativen Lernens bewertet und dabei auch zu be-
+rücksichtigen, dass eine Übertragung auf deutsche Verhältnisse nur bedingt
+möglich ist. So erscheint die häufig gehörte Aussage, dass die Veränderung
+der Schulstruktur nur unwesentliche Auswirkungen auf die Lernleistungen
+habe und deshalb die deutsche Schulstrukturdiskussion überflüssig sei, als
+Fehlinterpretation: Die durch die Studie erfassten englischsprachigen Schul-
+systeme sind in der Regel integrierte Systeme, die in Deutschland eher der
+Schulform Gesamtschule entsprechen würden.
+   Da der Forschungsansatz 3 von Hattie in anderen Beiträgen ausführlich
+dargestellt wird, soll er hier nur kurz skizziert werden: Hattie betont in
+seiner Studie, dass sein Schwerpunkt "auf dem Lernerfolg, den Leistungs-
+Outcomes" (Hattie 2013, S. 36) liegt. Damit kann und will er vornehmlich
+Aussagen zu kognitiven Lernleistungen machen. Das bedeutet, dass die An-
+eignung von sozialen, kommunikativen und methodischen Kompetenzen
+von der Studie nur am Rande erfasst wird. Diese kognitive Wirksamkeit
+wird in einem statistischen Prozess in Lerneffektstärken umgerechnet. Die                                         c
+                                                                                                                  QJ
+                                                                                                                  c
+Effektstärke wird dabei in d angegeben. So hat zum Beispiel der Faktor                                           §
+"Selbsteinschätzung des eigenen Lernniveaus" mit d = 1.44 die höchste                                             QJ
+                                                                                                                  >
+                                                                                                                 ·~
+
+Effektstärke. Über diese Daten sollen Impulse für zukünftige Unterrichts-                                         (Li
+                                                                                                                  Q_
+                                                                                                                  0
+und Schulentwicklung eine evidente Basis erhalten.                                                                0
+                                                                                                                 ::oL
+
+
+
+
+Kooperatives Lernen als komplexes Lernkonzept
+
+
+Zunächst muss betont werden, dass die Befürworter des Kooperativen Ler-
+nens4 dieses komplexe Konzept nicht zum Allheilmittel erklären. So unter-
+scheiden Johnson und Johnson mit "cooperative, competitive and individu-
+alistic learning" (vgl. Johnson!Johnson 1994, S. 3 ff.) drei unterschiedliche
+
+
+
+3   Empfehlenswert ist die Einleitung in die deutsche Fassung der Studie durch Wolfgang Beywl und Klaus
+    Zierer, die zwar einerseits die große Bedeutung der Studie unterstreichen, sich aber auch kritisch mit dem
+    Forschungsansatz auseinandersetzen (Hattie 2013, S. VI- XXVI).
+4   Da Lernen als individueller Aneignungsprozess im Individuum konstruiert wird, ist die Bezeichnung
+    "Kooperatives Lernen" eigentlich fragwürdig: Das Lernen in Teams kann besser als "Lernen in
+    kooperativen Strukturen" gekennzeichnet werden. Andererseits steht der Begriff "Kooperatives Lernen"
+    für ein Konzept des Lernens in kooperativen Strukturen und wird deshalb im Folgenden verwendet.
+
+[p. 80] [PDF page 80]
+
+Lernkonzepte, die alle als legitim5 erscheinen. Schon in den 80er und 90er
+Jahren erforschten sie intensiv die Lernwirksamkeit des Kooperativen Ler-
+nens im Vergleich zu individuellem oder konkurrenzorientiertem Lernen
+und fassten die Ergebnisse anderer Studien in mehreren Metaanalysen zu-
+sammen, die auch Hattie (2013, S. 250-254) ausführlich thematisiert.
+    Das Kooperative Lernen ist demnach eine wissenschaftlich nachweisbar
+effektive Form der schüleraktivierenden, kommunikativen und konstruk-
+tivistischen Unterrichtsgestaltung (vgl. Johnson/Johnson/Holubec 2005,
+S. 85-101), die sehr intensiv die Kommunikation unter Schülerinnen
+und Schülern fördert. Auf der Basis einer sicheren Lernatmosphäre wer-
+den durch gut strukturierte Lernprozesse in leistungsheterogenen Paaren
+oder Gruppen intensive und produktive Lernprozesse sowohl auf unteren
+als auch auf höheren Lernebenen realisiert: Kooperative Lernarrangements
+sind so angelegt, dass die Gruppe zu komplexeren Ergebnissen gelangt als
+ein Individuum. Die Wirksamkeit des Kooperativen Lernens geht weit über
+dieAneignung diverser Methoden hinaus: Integrativ werden soziale, metho-
+dische und kommunikative, aber ebenso fachliche Kompetenzen vermittelt.
+Wenn man Schülerinnen und Schüler in Gruppen zusammensetzt, ergibt
+sich nicht automatisch eine intensive Zusammenarbeit. Vielmehr müssen
+die gruppendynamischen Prozesse so gestaltet werden, dass die Teammit-
+glieder ihre Zusammenarbeit als produktiv erleben.
+    Eine sinnvolle Umsetzung des Kooperativen Lernens zeichnet sich ge-
+genüber einem überhasteten Einsatz von Gruppenarbeit durch einen Pro-
+zesscharakter aus: In vielen kleinen Schritten werden die Kompetenzen der
+Schülerinnen und Schüler aufgebaut. Was zwei Schülerinnen und Schüler
+gemeinsam nicht leisten können, können sie erst recht nicht in der weit-
+aus komplexeren Sozialform der Gruppenarbeit erreichen. Im längerfris-
+tig angelegten Lernprozess findet ebenfalls eine langsame Steigerung der
+Komplexität der Methoden statt. Deshalb ist im Kooperativen Lernen die
+intensive Einzelarbeit, in der die individuelle Verantwortlichkeit für den
+Lernprozess zum Tragen kommt, die Basis für eine gut funktionierende
+Partnerarbeit Als ausgesprochen funktional haben sich aus diesem Grund
+die vielen Varianten des Think - Pair - Share (Think: alleine nachdenken
+
+5   Da die meisten Gesellschaften wesentlich konkurrenzorientiert funktionieren, erscheinen auch kon-
+    kurrenzorientierte Ansätze als wichtig, müssen Schülerinnen und Schüler doch auf das Leben in einer
+    konkurrenzorientierten Gesellschaft vorbereitetet werden. Kompetitive Verfahren lösen zwar viel
+    Energie aus, haben aber den Nachteil, dass nur wenige Sieger sein können.
+
+[p. 81] [PDF page 81]
+
+und sich Notizen machen, Pair: sich mit einem Partner oder im Team aus-
+tauschen, Share: Gruppenergebnisse vorstellen) erwiesen.
+    Im Zentrum des Kooperativen Lernens stehen nicht die Methoden son-
+dern die Fokussierung auf zentrale pädagogisch-psychologische Grundla-
+gen. Gute Teamarbeit ist deshalb vorrangig das Ergebnis einer erfahrenen
+positiven gegenseitigen Abhängigkeit und der Übernahme einer individu-
+ellen Verantwortlichkeit sowohl für den eigenen Lernprozess als auch den
+Arbeitsprozess der Gruppe und das gemeinsame Arbeitsergebnis. Wichtig
+sind ebenfalls der Erwerb sozialer Kompetenzen im Lernprozess, die häu-
+fige Reflexion von Lernprozessen durch die Lernenden im Sinne einer per-
+manenten Optimierung von Lernprozessen und die direkte (face-to-face)
+Interaktion der am Gruppenprozess beteiligten Teammitglieder. Das Ko-
+operative Lernen entspricht ebenso einer Haltung im Sinne eines veränder-
+ten Lernverständnisses: Schülerinnen und Schüler sind ebenso lebenslange
+Lerner wie die Lehrkräfte. Es erfordert viel Zeit, bis sich Lehrkräfte das
+Kooperative Lernen in dieser Komplexität angeeignet haben: Johnson hält
+"drei Jahre für angemessen, um einen Lehrer in kooperativem Lernen aus-       c
+                                                                              QJ
+                                                                              c
+zubilden" (Johnson/Johnson/Holubec 2005, S. 29).                             ~
+    Über die Unterrichtsentwicklung hinaus gibt eine nachhaltige Imple-       QJ
+                                                                              >
+                                                                             ·~
+
+mentierung des Kooperativen Lernens mit der veränderten Lehrerrolle,          Q:;
+                                                                              Q_
+                                                                              0
+der Stärkung der Zusammenarbeit im Kollegium und der Entwicklung von          0
+                                                                             :><:
+                                                                              ro
+Teamstrukturen (vgl. Green/Green 2005, S. 27) auch wichtige Impulse für      -o
+
+die Schulentwicklung (vgl. Brüning/Saum 2009, S. 154-165) und trägt da-
+mit wesentlich zum Aufbau von Schulen als demokratischen professionel-
+len Lerngemeinschaften bei. Ebenso leistet das Kooperative Lernen einen
+wichtigen Beitrag zur Demokratieerziehung: Die intensive Kommunikation
+in Klein- und Großgruppen, der respektvolle Umgang der Teammitglieder
+miteinander, die Toleranz gegenüber anders denkenden Menschen und ge-
+genüber Menschen aus anderen Kulturen, die Notwendigkeit Kompromisse
+zu schließen - dies alles sind wichtige demokratische Kompetenzen, die
+Lernende nicht abstrakt lernen, sondern im Gruppenprozess erfahren.
+
+
+
+Metastudien zum Kooperativen Lernen
+
+
+Das Kooperative Lernen ist ein integratives Konzept von sowohl sozialem,
+kommunikativem und methodischem Lernen als auch von fachlichem Ler-
+
+[p. 82] [PDF page 82]
+
+nen. Durch Kooperatives Lernen eignen sich Schülerinnen und Schüler
+demnach Kompetenzen in folgenden vier Bereichen an: fachliche, sozia-
+le, kommunikative und methodische Kompetenzen. Mit der Erfassung der
+Leistungs-Outcomes im Bereich der fachlichen Kompetenzen wird somit in
+der Studie von Hattie nur ein sehr eingeschränkterTeil der wissenschaftlich
+nachgewiesenen Effektstärke des Kooperativen Lernens wahrgenommen.
+Wie steht es aber nun um die fachlichen Lernleistungen im Kontext ko-
+operativer Lernarrangements? In der Hattie-Studie werden vier Gruppen
+von Metaanalysen berücksichtigt, in denen das Kooperative Lernen explizit
+bewertet wird. Die jeweiligen Effektstärken werden in einem Absatz ge-
+meinsam dargesteÜt. Die vier Gruppen von Einzelstudien betreffen:
+      "1. diejenigen, die kooperatives Lernen und heterogene Klassen vergleichen
+         (d = 0,41),
+      2. diejenigen, die kooperatives Lernen und individuelles Lernen vergleichen
+         (d = 0,59),
+
+      3. diejenigen, die kooperatives und kompetitives Lernen vergleichen
+         (d = 0,54) und
+      4. diejenigen, die kompetitives und individuelles Lernen vergleichen
+         (d = 0,24).
+
+      Kooperatives und kompetitives Lernen sind effektiver als individuelle Methoden.
+      Dies zeigt erneut die Stärke von Peers in der Gleichung des Lernens auf'
+                                                                         (Hattie 2013, S. 251)
+
+
+
+In 4 Metastudien, die 77 4 Studien zusammenfassen, wird die Wirksamkeit
+des Kooperativen Lernens mit individuellen Lernformen verglichen. Dem
+Kooperativen Lernen wird demnach abhängig von der Fragestellung der
+Metaanalysen eine Wirksamkeit von 0.59 (Kooperatives Lernen vs. indivi-
+duelles Lernen), 0.54 (Kooperatives Lernen vs. kompetitives Lernen) und
+0.41 (Kooperatives Lernen) zugeordnet. Kooperative Lernarrangements
+sind mit dem Wert 0.59 (Hattie 2013, S. 252) im Grenzbereich zur hohen
+Wirksamkeit. Das "Barometer" zu den Metaanalysen, die das kooperative
+mit individuellem Lernen vergleichen, belegt eindrucksvoll die hohe Ef-
+fektstärke des Kooperativen Lernens.
+So scheint es nach Hattie allgemein anerkannt zu sein, "dass kooperatives
+Lernen effektiv ist, insbesondere wenn man es mit kompetitivem und in-
+dividuellem Lernen vergleicht. [... ] Zudem hat kooperatives Lernen einen
+primären Effekt auf die Verstärkung von Interesse und Problemlösefähig-
+
+[p. 83] [PDF page 83]
+
+keit, vorausgesetzt es wird mit hoher Peer-Beteiligung umgesetzt." (Hattie
+2013, S. 252) Die starke Bedeutung der Peers kommt auch in 2 Metaanaly-
+sen zur Wirksamkeit von Kleingruppen zumAusdruck, die allerdings im Be-
+reich der Hochschulen durchgeführt wurden. Demnach werden die Effekte
+durch Lernen in Kleingruppen "signifikant verbessert, wenn Lernende über
+Erfahrungen mit Gruppenarbeit verfügen bzw. sie dazu angeleitet werden,
+wenn spezifische kooperative Lernstrategien angewendet werden und wenn
+die Gruppengröße klein ist" (Hattie 2013, S. 113).
+
+
+
+Interdependenz der Faktoren und Faktorenbündel
+
+
+Beywl und Zierer weisen darauf hin, dass eine isolierte Betrachtung der
+Effektstärken einzelner Faktoren fragwürdig ist. Wenn beispielsweise das
+Team-Teaching, das mit 0.19 nur eine geringe Effektstärke hat, mit dem
+hoch wirksamen Peer-Tutoring verknüpft wird, ergibt sich daraus ein "wirk-
+starkes Faktorenbündel" (Hattie 2013, S. IX). Diese Faktorenbündel sind          c
+                                                                                 <lJ
+                                                                                 c
+allerdings nicht so zu verstehen, dass die Effektstärken einfach addiert wer-   _§
+den können. Vielmehr kann das Zusammenwirken von Faktoren zu einer               <lJ
+                                                                                ·g>
+Verstärkung jeweils eines der beiden oder beider Faktoren führen. Unter          Qj
+                                                                                 Q.
+                                                                                 0
+den Faktorenbündeln dürfte auch nicht eine beliebige Kombination von            ,2
+Faktoren zu verstehen sein, sondern die Qualität des jeweiligen Faktors
+müsste wesentlicher Bestandteil des jeweiligen Ansatzes oder Konzeptes
+sein. Am Beispiel der Reflexion von Unterrichtsprozessen soll dies verdeut-
+lich werden: So könnte beispielsweise die Effektstärke der Reflexion von
+Unterrichtsprozessen mit vielen Faktoren kombinierbar sein, im Koope-
+rativen Lernen wird jedoch diese "Gruppenbewertung (Evaluation)" (vgl.
+Johnson/Johnson/Holubec 2005, S. 120-124) als eine der fünf entschei-
+denden Gelingensbedingungen kooperativer Lernprozesse angesehen.
+    Es gibt somit einen zweiten Zugang, die Effektstärke des Kooperativen
+Lernens einzuschätzen: Diesmal wird überprüft, wie das Kooperative Ler-
+nen sowohl in Wechselwirkung (vgl. Hattie 2013, S. X) mit anderen Fakto-
+ren implizit wirksam ist, als auch, inwiefern kooperative Lernarrangements
+sich selbst durch die Qualitäten dieser anderen Faktoren auszeichnen. So
+unterstreichen Köller, Möller und Möller die hohe Wirksamkeit kooperati-
+ver Lernformen:
+
+[p. 84] [PDF page 84]
+
+"Sie fördern den Wissens- und Kompetenzzuwachs [ ... ] und scheinen beson-
+      ders erfolgreich zu sein, wenn sie durch klare Strukturen vorbere,itet sind wie
+      etwa beim Reciprocal Teaching (d == 0.74) oder Gruppenpuzzle, wo Schülerin-
+      nen und Schüler abwechselnd in die Lehrkraft- und Schülerrolle schlüpfen und
+      dabei, wie Hattie schreibt, insbesondere dann profitieren, wenn Lehrkräfte den
+      Schülerinnen und Schülern zeitnah kognitive Lernstrategien vermitteln wie Fra-
+      gen zu stellen oder Zusammenfassungen komplexer Gegenstände zu erstellen:'
+                                                              (Köller/Möller/Möller 2013, S. 42)
+
+
+
+Dabei wird berücksichtigt, welche Wirksamkeit spezifische Faktoren haben,
+die als charakteristische Elemente des Kooperativen Lernens angesehen
+werden können, wenn dieses als komplexes Lern-Konzept praktiziert und
+nicht auf einen Methodensteinbruch reduziert wird.
+   Es sollen deshalb einige Faktoren näher betrachtet werden. Hierbei
+wäre zu unterscheiden zwischen einer permanenten Wirksamkeit im Kon-
+text kooperativer Lernarrangements wie beispielsweise bei der Reflexion
+und einer situativen Wirksamkeit, wenn spezifische Verfahren wie beispiels-
+weise das reziproke Lesen Bestandteile kooperativer Lernprozesse sind.
+So betont Hattie in der Studie. häufig die Bedeutung der Reflexion von
+Lern- und Lehrprozessen durch die Lernenden und die Lehrkräfte, die zu
+einer realistischen Selbsteinschätzung und Selbstwahrnehmung von Schü-
+lerinnen und Schülern und Lehrkräften führt. Die Selbsteinschätzung und
+Selbsterwartung weisen die höchste Effektstärke von 1.44 auf. Aus der Re-
+flexion erwächst die Optimierung von Lernprozessen, die vertiefende und
+komplexe kognitive Lernerfolge ermöglichen. Da das Kooperative Lernen
+die Reflexion von Gruppenprozessen als eines der fünf grundlegenden päd-
+agogischen Prinzipien, der sogenannten fünf Basiselemente, besonders her-
+vorhebt, kann davon ausgegangen werden, dass kooperative Lernformen
+mit der hohen Wertschätzung der Reflexion implizit hoch wirksam sind.
+   In der Studie listet Hattie alle untersuchten Faktoren in der Rangfolge
+ihrer Effektstärken auf. Die Liste (Hattie 2013, S. 433-439; vgl. Tab. 1)
+beginnt mit der Effektstärke von 1.44 für die "Selbsteinschätzungen des
+eigenen Lernniveaus". Neben der hohen Bedeutung der Reflexion in ko-
+operativen Lernprozessen finden sich in folgender Tabelle weitere für ko-
+operative Lernarrangements charakteristische Faktoren, die allerdings nicht
+in jedem kooperativen Lernarrangement wirksam werden. Diese könnten
+noch um viele zusätzliche Faktoren wie beispielsweise die Beeinflussung
+
+[p. 85] [PDF page 85]
+
+von Verhalten in der Klasse (Rang 6), das laute Denken (Rang 18) oder
+den Klassenzusammenhalt (Rang 39) aus der Hattie-Studie ergänzt werden.
+
+ Rang     Faktor                                                         Effektstärke d
+     1     Selbsteinschätzungen des eigenen Leistungsniveaus                       1.44
+     8     Klarheit der Lehrperson                                                 0.75
+     9     Reziprokes Lehren                                                       0.74
+   10      Feedback                                                                0.73
+   11      Lehrer-Schüler-Beziehung                                                0.72
+   13      metakognitive Strategien                                                0.69
+   18      Lautes Denken                                                           0.64
+   23      Lehrstrategien                                                          0.60
+   24      Kooperatives vs. individuelles Lernen                                   0.59
+   33      Concept Mapping                                                         0.57
+   36      Peer-Tutoring                                                           0.55
+   37      Kooperatives vs. kompetitives Lernen                                    0.54
+   39      Klassenzusammenhalt                                                     0.53
+   42      Klassenführung                                                          0.52    c
+                                                                                           Q)
+   63      Kooperatives Lernen                                                     0.41    c
+                                                                                          ~
+                                                                                           Q)
+Tab. 1: Für kooperative Lernarrangements charakteristische Faktoren (kursiv)               >
+                                                                                          ·~
+                                                                                           Q;
+                                                                                           Q_
+                                                                                           0
+Alle kursiv hervorgehobenen Faktoren sind charakteristisch für kooperati-                  0
+                                                                                          :,.:::
+
+ve Lernprozesse: Ohne eine klare Instruktion der Lehrkraft (Klarheit der
+                                                                                           ro
+                                                                                          u
+
+Lehrkraft: Rang 8) kommen keine effektiven Gruppenprozesse und Lern-
+ergebnisse zustande. Unter Klarheit der Lehrperson versteht Fendick die
+über eine klare Sprache vermittelte "Organisation, Erläuterung, Beispiel
+geben und angeleitete Übung sowie Bewertung des Lernverhaltens der Ler-
+nenden" (Hattie 2013, S. 151). Hattie (ebda., S. 129) weist darauf hin, dass
+das "aktuelle Mantra, wonach es auf die Lehrperson ankommt, missver-
+ständlich" sei. Nicht die Lehrperson per se ist entscheidend, sondern die-
+jenigen Lehrpersonen, "die bestimmte Unterrichtsmethoden verwenden,
+die hohe Erwartungen an alle Lernenden stellen und die positive Lehrer-
+Schüler-Beziehungen aufbauen, haben mit einer hohen Wahrscheinlichkeit
+überdurchschnittliche Effekte auf die Schülerleistungen" (ebda., S. 151).
+   Ein gutes Feedback (Rang 10) ist im Kontext von Reflexionsprozessen
+ein entscheidendes Instrumentarium des Kooperativen Lernens. Koopera-
+tive Lernarrangements zeichnen sich durch einen hohen Stellenwert der
+Kommunikation unter den Lernenden (Peer-Tutoring: Rang 36) aus, die
+
+[p. 86] [PDF page 86]
+
+sich Texte mithilfe diverser Kommunikationsstrategien zum Beispiel durch
+Reziprokes Lehren (Rang 9) erschließen. Durch Kooperatives Lernen wer-
+den das Arbeitsklima in Lerngruppen verbessert und damit der' Klassenzu-
+sammenhalt gefördert, der einen" Schlüsselfaktor für ein positives Klima in
+der Klasse darstellt" (Hattie 2013, S. 123). Eine wesentliche Voraussetzung
+für effektives Lernen in kooperativen Strukturen stellt nicht nur die gute
+Beziehung der Teammitglieder untereinander, sondern auch die Bezie-
+hung der Lehrkraft zur jeweiligen Lerngruppe dar. Erst wenn diese Lehrer-
+Schüler-Beziehung aufgebaut wurde, können Lernprozesse in kooperativen
+Strukturen wirksam werden. Die gute Lehrer-Schüler-Beziehung (Lehrer-
+Schüler-Beziehung: Rang 11; Hattie 2013, S. 123) ist im Sinne einer si-
+cheren Lernumgebung eine entscheidende Voraussetzung für das Gelingen
+kooperativer Lernprozesse.
+   Auch wenn das Kooperative Lernen über einen Methodensteinbruch hi-
+nausgeht, beinhaltet es doch einen reichen Satz an diversen Verfahren und
+Unterrichtsstrategien. In der Studie nehmen Lehrstrategien, unter denen
+erneut explizit auch das Kooperative Lernen (vgl. ebda, S. 239) aufgeführt
+wird, den Rang 23 ein. Im kommunikativen Lernprozess des Kooperativen
+Lernens spielt das Reziproke Lernen (vgl. ebda, S. 240-242) mit einem
+Wert von 0. 74 eine wichtige Rolle. Einen hohen Stellenwert haben im Ko-
+operativen Lernen ebenfalls der Einsatz der Graphie Organizer, grafische
+Strukturierungsformen von Lernprozessen wie beispielsweise die Anfer-
+tigung von mind maps (Brüning/Saum 2007, S. 47ff.) und concept maps
+(Rang 33). Concept maps sind eine komplexere Form von mind maps,
+in denen der Autor seine persönlichen Ideen in einer sehr individuellen
+Strukt:ur zum Ausdruck bringt. Produktive Teamarbeit ist ein komplexer
+Prozess, der gerade dadurch legitimiert wird, dass er ein "Gleichgewicht
+aus Oberflächen- und tiefem Lernen" (Hattie 2013, S. 34) bewirkt, indem
+die Lernenden sich in Einzelarbeit Informationen eher eproduktiv aneignen
+und dann im Austausch mit einem Partner oder einer Partnerin oder in der
+Gruppe höhere Lernebenen erreichen. Voraussetzungen dafür sind adäqua-
+te metakognitive Strategien (Rang 13).
+   Abschließend soll noch einmal am Beispiel der Klassenführung (class-
+room management) (vgl. Hattie 2013, S. 122) die Interdependenz vieler
+Faktoren aufgezeigt werden: Eine gute Klassenführung zeichnet sich durch
+gut organisierte Lerngruppen aus, in denen eine deutliche Reduzierung
+von Störungen dadurch stattfindet, dass die Lehrkraft potenzielle Verhal-
+
+[p. 87] [PDF page 87]
+
+tensprobleme frühzeitig erkennt und angemessen auf diese reagiert. Ent-
+scheidende Faktoren sind dabei neben der bereits angesprochenen guten
+Lehrer-Schüler-Beziehung nach Marzano die ",hohe Dominanz' (Klarheit
+betreffend Zweck und starke Führung) und ,hohe Kooperation' (Achten
+auf die Bedarfe und Meinungen anderer und der Wunsch als Mitglied eines
+Teams zu funktionieren)" (ebda.). Ohne diese Faktoren ist ein produktives
+Lernen in Einzel-, Partner- und Gruppenarbeit, wie es durch kooperative
+Verfahren im Sinne des Kooperativen Lernens gestaltet wird, nicht vorstell-
+bar.
+
+
+
+Fazit
+
+Als Fazit kann also gesagt werden, dass Hattie das Kooperative Lernen so-
+wohl explizit als auch implizit als einen wichtigen und wirksamen Faktor
+für effektive Lernprozesse ansieht. Dies kommt übrigens auch in seinem
+Praxisbuch für Lehrerinnen und Lehrer Visible Learning For Teachers zum            c
+                                                                                   Q)
+                                                                                   c
+Ausdruck: "Cooperative learning is certainly a powerful intervention"             ~
+(Hattie 2012, S. 78). Hattie betont ebenso die immense Bedeutung der              ~
+Lehrkraft als "activator" für effektive Lernprozesse: Was Schülerinnen und        "'0.
+                                                                                  Q:;
+                                                                                   0
+Schüler lernen, bestimmt vorrangig die einzelne Lehrkraft, die strukturiert,       0
+                                                                                  :L
+
+disziplinbewusst, fachbezogen und effektiv die Lernzeit nutzt.
+   Die Lehrkraft trägt im Kontext kooperativer Lernprozesse unter ande-
+rem durch den Aufbau von klaren Arbeits- und Lernstrukturen, durch die
+Vermittlung sozialer, kommunikativer und fachlicher Kompetenzen und
+durch die gezielte Förderung der Beziehungsstruktur zwischen Lehrkraft
+und Lerngruppe wesentlich zu einem effektiven Unterricht bei. So bewir-
+ken beispielsweise knappe, aber realistische Zeitvorgaben eine effektive
+Nutzung der Lernzeit Dies bedeutet aber ebenso, dass eine Lehrkraft mit
+einem verkürzten Verständnis des Kooperativen Lernens, in dem beispiels-
+weise die Methodik im Vordergrund steht, nur geringere Effektstärken er-
+reichen wird.
+   Spiewak betont in Zeit Online, dass dieses Verständnis einer guten Lehr-
+kraft aber nicht die Rehabilitierung des traditionellen Studienrates darstelle,
+"der seinen Schülern die Früchte eines umfassenden Fachwissens mittels Vor-
+trägen kredenzt" (Spiewak 2013, S. 4). Hattie betont in der Studie vielmehr,
+dass nur ein guter (!) .Frontalunterricht, in dem sinnstiftende Instruktion
+
+[p. 88] [PDF page 88]
+
+mit schüleraktivierenden Elementen verbunden wird, eine effektive Unter-
+richtsform ist. Damit kann es kein Zurück zum althergebrachten, schlech-
+ten Frontalunterricht geben, sondern die Aufgabe für Lehrkräfte besteht
+im Gegenteil heutzutage darin, sowohl phasenweise komplexe kooperative
+Lernstrukturen anzuleiten als auch im Frontalunterricht schüleraktivierende
+Verfahren wie beispielsweise Think - Pair - Share, das die kommunikative
+Grundstruktur kooperativer Prozesse abbildet, oder das Placemaf' als schü-
+leraktivierende und Kommunikation stärkende Elemente sinnvoll zu nutzen.
+
+Literatur
+Briining, Ludger/Saum, Tobias (2006): Erfolgreich unterrichten durch Kooperatives Ler-
+    nen- Strategien zur Schüleraktivierung. Essen: Neue Deutsche Schule.
+Briining, Ludger/Saum, Tobias (2007): Erfolgreich unterrichten durch Visualisieren- Gra-
+    fisches Strukturieren mit Strategien des Kooperativen Lernens. Essen: Neue Deutsche
+    Schule.
+Briining, Ludger/Saum, Tobias (2009): Erfolgreich unterrichten durch Kooperatives Lernen
+    Bd. 2- Neue Strategien zur Schüleraktivierung- Individualisierung- Leistungsbewer-
+    tung- Schulentwicklung. Essen: Neue Deutsche Schule.
+Green, Norm/Green, Kathy (2005): Kooperatives Lernen im Klassenraum und im Kollegi-
+    um. Seelze-Velber: Klett-Kallmeyer.
+Hattie, John (2009): Visible learning. A synthesis of over 800 meta-analyses relating to
+    achievement. Oxon: Routledge.
+Hattie, John (2012): Visible learning for teachers. Maximizing impact on learning. London,
+    N ew York: Routledge.
+Hattie, John (2013): Lernen sichtbar machen. Überarbeitete deutschsprachige Ausgabe von
+    "Visible Learning", besorgt von Wolfgang Beywl und Klaus Zierer. Baltmannsweiler:
+    Schneider Hohengehren.
+Johnson, David W./Johnson, Roger T. (1994): Learning tagether and alone. Cooperative,
+    competitive and individualistic learning. Boston: Allyn and Bacon.
+Johnson, David W./Johnson, Roger T./Johnson Holubec, Edythe (2005): Kooperatives Ler-
+    nen - Kooperative Schule. Mülheim an der Ruhr: Verlag an der Ruhr.
+Köller, Olaf/Möller, Johanna/Möller, Jens (2013): Was wirkt wirklich? Einschätzungen von
+    Determinanten schulischen Lernens. Schulmanagement Handbuch, Bd.145. München:
+    Oldenbourg.
+Spiewak, Martin (2013): Hattie-Studie- Ich bin superwichtig! In Zeit Online, 14.01.2013,
+    http://www.zeit.de/2013/02/Paedagogik-John-Hattie-Visible-Learning.
+
+
+
+   Das Placemat ("Platzdeckchen") gilt als "Schweizer Messer" des Kooperativen Lernens, weil es vielfältig
+   einsetzbar ist und seine grafische Struktur die Logik kooperativer Prozesse in der Abfolge von Think
+   Pair   Share beispielhaft abbildet (vgl. Brüning/Saum 2006, S. 11): Es handelt sich im ersten Schritt
+   um ein paralleles Brainstorming der Gruppenmitglieder auf individuellen Feldern eines gemeinsamen
+   Arbeitsblattes. Die Ideen der Teammitglieder werden im zweiten Schritt vorgestellt. Schließlich einigt sich
+   die Gruppe auf einige Gedanken, die ins Zentrum geschrieben werden.

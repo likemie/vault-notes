@@ -1,0 +1,662 @@
+Die Hattie-Studie in der Diskussion: Probleme sichtbar machen
+Herausgegeben von Ewald Terhart | 1. Auflage 2014 | Seelze: Kallmeyer in Verbindung mit Klett
+ISBN 978-3-7800-4804-2
+
+Leseeinheit 04: Evidence-Based Teaching: Hat John Hattie eine Allgemeine Didaktik entwickelt?
+Hans-Joachim von Olberg
+Originalseiten 51–66; PDF-Seiten 51–66
+
+[Deutscher Originaltext aus der OCR-Textebene des gescannten PDFs. Die Nummer der Leseeinheit folgt dem Inhaltsverzeichnis; die Beiträge sind im Original nicht nummeriert. Fußnoten und Literatur bleiben im jeweiligen Beitrag. Seitenmarkierungen verweisen auf Buchseite und PDF-Seite. OCR-Fehler können verbleiben; genaue Zitate, Tabellen und Abbildungen bitte am PDF prüfen.]
+
+
+========================================================================
+Beitrag mit Anmerkungen und Literatur
+========================================================================
+
+[p. 51] [PDF page 51]
+
+Hans-Joachim von Olberg
+
+
+Evidence-Based Teaching
+Hat John Hattie eine Allgemeine Didaktik
+entwickelt?
+
+John Hatties Unterrichtslehre gehört zur aktuellen angloamerikanischen
+Strömung "evidenzbasierten Lehrens'~ Da sie Lernen unter den Bedin-
+gungen des Lehrens thematisiert, begründet sie zwar eine spezifische
+didaktische Konzeption; aber es muss bezweifelt werden, ob sie auch alle
+erforderlichen Dimensionen einer Theorie Allgemeiner Didaktik abdeckt:
+Defizite bleiben bei der Verbindung verschiedener Formen didaktischen
+Wissens, der Begründung von Intentionen, der Berücksichtigung instituti-
+oneller Kontexte und der konstitutiven lnhaltsbezogenheit.
+
+
+Der Selbstanspruch von John Hattie und die Intention von Visible Learn-
+ing gehen über die Analyse von Faktoren effektiven Unterrichts hinaus.
+John Hattie will mehr sein als ein empirischer Unterrichtsforscher, beson-
+ders in der Aufbereitung seiner Meta-Metaanalyse für Lehrkräfte (Hattie
+2012) entwirft er für besseres und effektiveres Lehren und Lernen einen
+Theorierahmen, aus dem Handlungskonsequenzen für die Unterrichtsge-
+staltung durch Lehrerinnen und Lehrer abgeleitet werden. Er will nicht nur
+quantitative Indizes und eine geordnete Skala für Effektstärken von Ein-
+flussfaktoren auf wirksamen Unterricht zur Verfügung stellen, sondern sein
+"wesentliches Ziel besteht darin, aus diesen Daten eine ,Geschichte' zu       \
+weben, die überzeugend und kohärent ist" (Hattie 2013, S. 5). Er will nicht
+nur Informationen über Korrelationen auf einem bislang nicht erreichten
+Beweisniveau zur Verfügung stellen, sondern den Lehrkräften Vorschläge an
+die Hand geben und erklären, was sie tun sollen, um bessere Lernergebnisse
+zu bewirken.
+   In diesem Beitrag wird zunächst John Hatties Konzept der Gestaltung
+von Unterricht anhand seines Lehrerhandbuches Visible Learning for
+Teachers Maximizing Impact on Learning (Hattie 2012) vorgestellt. Im
+zweiten Schritt werde ich Hatties Ansatz in den Kontext der in den USA
+
+[p. 52] [PDF page 52]
+
+und England verbreiteten Vorstellungen von evidenzbasierter Unterrichts-
+lehre einordnen. Abschließend soll eine Antwort auf die Frage versucht wer-
+den, ob hiermit eine neue Theorie Allgemeiner Didaktik vorgelegt worden
+ist. Die erziehungswissenschaftlicheAuseinandersetzung mit dem zugrunde
+liegenden methodologischen Ansatz der Unterrichtsforschung, aus Meta-
+analysen empirischer Interventionsstudien Erkenntnisse über effektives
+Lehren und Lernen zu gewinnen, klammere ich hier aus, weil sie in anderen
+Beiträgen dieses Bandes eingehend und kontrovers behandelt wird.
+
+
+
+Visible Learning für Lehrkräfte
+
+Nicht nur auf seinen Homepages (siehe http://www.visiblelearning.de;
+http://visiblelearningplus.com), sondern auch explizit mit seinem Lehrer-
+handbuch (Hattie 2012) hat der jetzt in Melbourne lehrende Unterrichtsfor-
+scher handlungspraktische Vorschläge zur Unterrichtsgestaltung vorgelegt.
+Nach diesem Lernmodell werden staatliche und kommerzielle Lehrerfort-
+bildungskurse angeboten sowie Hattie-Schulen organisiert, die nach dem
+Visible-Learning-Ansatz arbeiten. Solche Programme existieren bereits un-
+ter anderem in England, Schweden, Norwegen, Australien und Neuseeland
+und sie werden zurzeit auch für Deutschland vorbereitet. Im Januar 2014
+wird die deutsche Übersetzung des Lehrerhandbuchs unter dem Titel Ler-
+nen sichtbar machen für Lehrpersonen - wiederum besorgt von Wolfgang
+Beywl und Klaus Zierer - im Schneider Verlag Hohengehren erscheinen.
+Hattie hat damit seiner empirischen Forschung und seinem Theorieentwurf
+zu Faktoren effektiven Unterrichts einen vermarktbaren Gestaltungsansatz
+hinzugefügt, der Vorschläge für das praktische Unterrichten enthält.
+   Die Forschungsebene und die Gestaltungsebene werden in Hatties Kon-
+zept durch zwei starke Klammern verbunden. Zum einen entspricht kon-
+genial der summativen Evaluation von empirischen Interventionsstudien,
+die Hattie in seiner gigantischen Meta-Meta-Untersuchung ausgewertet
+hat, eine formative Feedback-Kultur, die er für die Ausgestaltung des Un-
+terrichtsprozesses empfiehlt. Zum anderen leitet er aus seiner analytisch
+gewonnenen These, dass die Art und Weise des Lehrerhandeins den größten
+Einfluss auf den Lernfortschritt der Schülerinnen und Schüler habe, die
+Konsequenz ab, dass man zur praktischen Verbesserung des Lernens primär
+bei der Veränderung des Lehrerhandeins gegenüber den Lernenden anset-
+
+[p. 53] [PDF page 53]
+
+zen müsse. Hatties Unterrichtskonzept hat also einerseits eine Komponente
+linearer und kausal begründeter Steuerung nach quantitativen Effizienzin-
+dikatoren und andererseits eine Komponente prozessorientierter, interakti-
+ver und kommunikativer Prozessgestaltung der Schüler-Lehrer-Beziehung.
+Es ist eine unhaltbare Interpretation, dass Hattie die Position vertrete, es
+komme hauptsächlich beim guten Unterricht auf die Lehrerpersönlichkeit
+an. Richtiger ist vielmehr, dass er die Unterrichtsbefähigungen der Lehrper-
+sonen fokussiert und ihnen einen Doppelblick empfiehlt: Sie sollen sowohl
+auf die Evidenz von wissenschaftlich belegten Wirkungen schauen als auch
+den Lernprozess zwischen Lehrenden und Lernenden auf der Beziehungs-
+ebene sichtbar werden lassen.
+   Im Lehrerhandbuch sortiert Hattie eine Fülle von strukturierenden Kate-
+gorien und Handlungsvorschlägen (siehe die deutschsprachige Zusammen-
+fassung bei Höfer/Steffens 2012), die er auch bereits zu einem großen Teil
+in der Visible-Learning-Studie artikuliert hat, gegliedert nach fünf Schritten
+der Gestaltung von Unterrichtprozessen durch Lehrpersonen: Vorbereitung
+des Unterrichts, Beginn des Unterrichts, Ablauf des Unterrichts (das Ler-
+nen, der Stellenwert von Rückmeldungen), Abschluss des Unterrichts. Ich
+verstehe seine Strukturierung so, dass er nicht ein konventionelles, lineares
+Phasenschema der Entwicklung von Unterricht durch Lehrkräfte in der Ab-
+folge von Planung, Durchführung und Auswertung vorschlägt, sondern eher
+ein paralleles Lehrerhandeln auf den Ebenen von Anbieten, Kontrollieren
+und Rückkoppeln einfordert.
+   Aus der Fülle seiner Gestaltungsprinzipien und Handlungsvorschläge für
+effektiven Unterricht seien hier einige charakteristische Anregungen vor-
+gestellt.
+    Unterrichtsvorbereitung: In der Unterrichtsplanung sollen Lehrkräfte
+Intentionen und Erfolgskriterien im Rückgriff auf seine Befunde aus Visible      \
+Learning genau festlegen. Für diese Bestimmung von Zielen schlägt er fünf
+Elemente vor (vgl. Hattie 2012, S. 52-60):
+   - Festlegung angemessener Herausforderungen für die Lernenden
+       und ihre Verpflichtung auf die Übernahme von Verantwortung im
+       Lernprozess;
+   - bei den Lernenden Vertrauen in die Erreichbarkeit der Ziele schaf-
+       fen;
+   - hohe Erwartungen an die Lernresultate formulieren;
+   - die Lernenden dazu führen, sich selbst Ziele zu setzen;
+
+[p. 54] [PDF page 54]
+
+- die Ziele und Erfolgskriterien konzeptionellen Verstehens den Ler-
+       nenden transparent machen.
+Für jede Lerngruppe sollen die Lehrkräfte regelmäßig, umfangreich und
+differenziert empirische Lerndiagnosen zur Festlegung klassenspezifischer
+Maße für die anzustrebenden Lernergebnisse durchführen.
+     Unterrichtsbeginn: Hattie votiert für einen dialogischen Unterrichts-
+stil, der die Dominanz monologisierender Praxis ablöst. In der Wahl von
+Methoden sollen die Lehrkräfte sich am Erkenntnisdreischritt (surface -
+deep - conceptual) und an ihrer Effizienz orientieren. Sein Lehrerleitbild
+ist vom Unterrichtsanfang an das eines Auswerters und Aktivierers (ebda.,
+S. 80-97).
+    Lernen im Unterrichtsablauf: Lehrkräfte sollen den Schülerinnen und
+Schülern vielfältige Lernstrategien vermitteln und unterschiedliche Lern-
+wege auf verschiedenen Lernniveaus anbieten: für Anfänger, Fortgeschrit-
+tene und umfassend Fachkundige (novice - capable - proficient). Auszu-
+wählen sind diese nach empirischen Wirkungsbelegen und danach, wie sie
+zur angestrebten metakognitiven Reflexion und Selbstregulation der Schü-
+lerinnen und Schüler beitragen. Lehrkräfte sollen ein backward design der
+Unterrichtsplanung beherzigen: von den gewünschten Ergebnissen her den
+Lernprozess strukturieren (ebda., S. 119f.).
+    Rückmeldungen im Unterrichtsablauf: Regelmäßiges und prozessbeglei-
+tendes Feedback sind ein Herzstück von Hatties Unterrichtskonzept (ebda.,
+S. 129-154):
+    - vor, während und nach dem Unterricht;
+    - kurzfristig mündlich und langfristig mit Tests;
+    - vom Lehrenden zum Lernenden und umgekehrt sowie zwischen den
+       Lernenden.
+Unterrichtsabschluss: Der gesamte Lernprozess muss rückschauend aus der
+Schülerperspektive, aus der Lehrersicht und aus dem Blickwinkel des Cur-
+riculums reflektiert werden. Neben der Verknüpfung von formativen und
+summativen Evaluationsverfahren spricht sich Hattie besonders für diskur-
+sive und deliberative Vorgehensweisen aus (ebda., S. 155-165).
+    Das Schlusskapitel seines Lehrerhandbuchs bildet eine Auflistung von
+wünschenswerten Denkweisen und Überzeugungen (mind frames, beliefs)
+für die Reform von Schulsystem, Schulleitungen und Lehrerhandeln auf
+dem Wege zu wirksamem, sichtbar gemachtem Lernen. Die Ausführungen
+von Hattie zur Schulentwicklung fallen dabei kurz und eher blass aus, weil
+
+[p. 55] [PDF page 55]
+
+er ja grundsätzlich davon überzeugt ist, dass Investitionen in Ressourcen
+der Schulen wegen ihrer geringeren Wirkungsgrade eher nachrangig sind.
+Es geht ihm mit der Formulierung von acht Leitsätzen für Lehrpersonen
+und Führungskräfte (Hattie 2012, S. 182 -189) vor allem um einen Refe-
+renzrahmen für die Steigerung der Effektivität von Lehrerhandeln in der
+Schule:
+   - Sie sind überzeugt von der fundamentalen Aufgabe der Evaluation
+      der Wirkungen ihres Lehrens auf Schülerleistungen.
+    - Schulpädagogen sind Agenten des Wandels. Sie glauben, dass der Er-
+      folg oder Misserfolg von Schülerinnen und Schülern davon abhängt,
+      was sie getan oder unterlassen haben.
+   - Lehrkräfte und Schulleitungen wollen mehr über das Lernen als das
+      Lehren sprechen.
+   - Sie sehen in bewerteten Schülerleistungen eine Rückmeldung über
+      Wirkungen ihres eigenen Handelns.
+    - Sie engagieren sich mehr in Dialogen als in Monologen.
+   - Sie freuen sich über Herausforderungen und lassen nie nach, ihr
+      Bestes zu geben.
+   - Sie vertrauen darauf, dass es ihre Rolle ist, positive Beziehungen in
+      Klasse und Kollegium zu entwickeln.
+   - Schulleitungen wie Lehrerinnen und Lehrer informieren alle Betei-
+      ligten über die Fachsprache des Lernens.
+Insgesamt benutzt Hattie für sein Vorhaben dabei nie Begriffe wie "didak-
+tisch" oder "Didaktik". Dies ist im englischen Sprachraum - im Unter-
+schied etwa zu Spanien, Italien, Japan und Skandinavien - ungebräuchlich.
+Hier spricht man seit Jahrzehnten von "Instructional Design", wenn man
+die unterrichtliche Gestaltung von Lehr-Lern-Prozessen meint (vgl. Seel/
+Hanke 2011 und Seel/Zierer 2012). Gleichwohl übertragen die deutschen        \
+Übersetzer von Visible Learning die Kategorien "instructional methods
+and designs" mit "Unterrichtsmethoden und didaktische Designs" (Hattie
+2013, S. 16) und sie kennzeichnen Hatties Theorie umstandslos als "allge-
+meindidaktisch" (ebda., S. XI).
+    Nun könnte man vereinfacht annehmen, dass es Hatties Denkweise sei,
+"eine evidenzbasierte Theorie, die ausgehend von empirischen Ergebnis-
+sen versucht, ein fundiertes Lehr-Lern-Modell- als ,Visible Learning' be-
+zeichnet- zu entwickeln, [... ] um dadurch für das professionelle Handeln
+Orientierung und Halt zu geben" (Beywl/Zierer, in: Hattie 2013, S. XI).
+
+[p. 56] [PDF page 56]
+
+Man könnte also meinen, Hatties Unterrichtskonzeption sei einfach eine
+Anwendungslehre von Effektstärkenwissen aus seiner Mega-Studie. Dies
+ist aber von dem neuseeländischen Erziehungswissenschaftler nicht so
+simpel und linear als Ableitungsvorgang gedacht. Immer wieder wendet
+er sich in seinen Büchern gegen eine rein empirische und evidenzbasierte
+Pädagogik. Vielmehr betont er, dass zwischen die Rezeption der Ergebnis-
+se seiner summierenden Unterrichtsforschung und die Formulierung von
+unterrichtlichen Handlungsstrategien der Lehrenden deren reflexive und
+kooperative Transformation treten muss: die "kritische Reflexion im Lichte
+der Evidenz" (ebda., S. 281). Das Ziel bleibt wirksamerer Unterricht auf
+der Grundlage empirischer Erkenntnisse aus unzähligen empirischen Un-
+tersuchungen darüber, welche Lernarrangements die besseren Lernergeb-
+nisse bei den Lernenden hervorrufen. Aber Hatties Weg beginnt - allerdings
+in instrumenteller Weise - bei dem Erfahrungswissen der Lehrerinnen und
+Lehrer und führt über die Auseinandersetzung mit den Erkenntnissen der
+quantitativen Unterrichtsforschung zur Veränderung von unterrichtlichen
+Handlungsweisen der Lehrenden in ihrem eigenen Unterricht.
+      "To encourage teachers to adopt some of the 'theories of practice' outlined in this
+      book requires not lecturing or hectoring them, but starting with listening to these
+      theories of practice, and then seeing how their own theories can be modified or
+      enhanced to consider the fundamental message about them knowing their im-
+      pact- as the starting point for having theories (not the end point):' (Hattie 2012, s. 160l
+
+
+Zwar besagt der Untertitel von Hatties Lehrerhandbuch unmissverständ-
+lich, worum es ihm geht: die Maximierung der Wirkungen des Unterrichts
+auf der Basis von generalisierten Erkenntnissen der Unterrichtsforschung,
+aber zugleich zitiert er zustimmend John Dewey aus seiner Logik von
+1938: "Empirische Belege liefern uns keine Regeln für Aktivitäten, sondern
+lediglich Hypothesen für intelligentes Problemlösen und Stoff für Überle-
+gungen in Bezug auf unsere Bildungsziele." (Hattie 2013, S. 291)
+    Es existiert zurzeit in Deutschland noch eine sehr selektive und redu-
+zierte Sicht auf HattiesTheorie. In ihr kommt fast nur die Liste mit 150 Ein-
+flussfaktoren auf wirksamen Unterricht vor, die abstrahiert worden sind
+aus 931 ausgewerteten Metastudien und akribisch geordnet wurden nach
+dem Maß der Effektstärke d zwischen +1.44 und -0.34 (vgl. Hattie 2012,
+S. 211-268). Im Jahre 2009 waren es noch 815 Metastudien und 138 Ein-
+flussfaktoren (Hattie 2013, S. 379-439). Man sieht: Die Rangskala wächst
+
+[p. 57] [PDF page 57]
+
+ständig, die Fundierung durch Basisdaten wird breiter, einige Einflussfak-
+toren mussten die Etage wechseln und Response to Intervention mit d =
++1.07 zog sogar in die dritte Etage von oben ganz neu ein. Das zeigt: Völlig
+festgemauert ist die empirische Evidenzbasis dann doch nicht!
+   Die reduzierende Sicht auf Hatties Forschung ist auch geprägt von
+Wunschdenken. Einmal nähren einige Äußerungen von Hattie selbst die
+Hoffnung, mit seiner Mega-Studie endlich eine festgefügte und gesicherte,
+allen pädagogischen Streites enthobene Grundlage für Unterrichtsentschei-
+dungen zur Verfügung zu stellen. Und zum anderen sind viele Rezipienten
+seiner Resultate motiviert durch überzogene Erwartungen und Projekti-
+onen, aus dem unendlichen Richtungskampf zwischen progressiven und
+konservativen Unterrichtskonzepten herausgeführt und von der belasten-
+den Gestaltungsunsicherheit in jeder neuen Unterrichtssituation erlöst zu
+werden.
+   Eine Reihe von anderen Begründungselementen in Hatties Unterrichts-
+konzept werden dagegen oft viel zu wenig beachtet:
+   - Sein immer wieder emphatisch ausgeschmücktes Ideal von Lehren-
+      den, die fürsorglich, leidenschaftlich, enthusiastisch, engagiert, be-
+      geisternd und freundschaftlich handeln sowie Sendungsbewusstsein
+      besitzen, ist kaum empirisch abgesichert, sondern eher eine normati-
+      ve Setzung aus pädagogischem Ethos (vgl. Hattie 2013, S. 27 -30).
+   - Er benutzt oft geradezu literarische Metaphern für die gewünschte
+      Lehrer-Schüler-Interaktion: emotionale Zuwendung (mission), wech-
+      selseitige Optik (visibility) und gemeinsame Reise (journey). Auch
+      diese Bilder überschreiten ein analytisches Wissenschaftsverständnis
+      hin zu einem präskriptiven Entwurfsdenken.
+   - Die scheinbar nur lineare und additive Kausalität zwischen jeweils ei-
+      ner unterrichtlichen Interventionsart und der Höhe des Lernzuwach-       \
+      ses der Schülerinnen und Schüler, die die Effektstärkenliste nahelegt,
+      wird von Hattie selbst in nahezu allen näheren Erläuterungen von
+      Visible Learning (Hattie 2013, S. 47 -308) und dem entsprechenden
+      Lehrerhandbuch (Hattie 2012, S. 39-165) durchbrachen von kon-
+      kreten Hinweisen auf das Zusammenspiel vieler intervenierender Va-
+      riablen, die das Ergebnis der isolierten Betrachtung eines einzelnen
+      Einflussfaktors gelegentlich sogar auf den Kopf stellen.
+   - Hattie legt seinem Lehr-Lern-Konzept ein Wissens- und Erkennt-
+      nismodell zugrunde, das durchaus konstruktivistische Aspekte ein-
+
+[p. 58] [PDF page 58]
+
+schließt. Im Anschluss an Biggs und Collis, Bransford sowie Bereiter
+      unterscheidet er drei Lernebenen. Auf der Oberflächenebene geht es
+      um den Erwerb von Faktenkenntnis (Wissen, surface), auf der Tie-
+      fenebene um Erkenntnisgewinnung durch eigene Reflexion (Denken,
+      deep) und auf der dritten, epistemologischen Ebene um Integration
+       (Konstruktion, conceptua[) (Hattie 2013, S. 32-36; Hattie 2012,
+      S. 60f.). Nicht alles Lernen ist nach Hattie Selbstkonstruktion von
+      Wissen des Lernenden, aber dieser Gedanke markiert das höchste
+      Ziel allen Unterrichts, nicht allerdings seinen Weg.
+Vor diesem Hintergrund ist es durchaus möglich, mit Beywl und Zierer
+das Konstruktionsprinzip von Hatties Theorie als "eklektisch" zu bezeich-
+nen (Hattie 2013, S. XI). Ich möchte hier jedoch zur Diskussion stellen,
+ob man Hatties Unterrichtsforschung und Unterrichtslehre nicht mit den
+Worten des Österreichischen Erziehungswissenschaftlers Herbert Schwetz
+eine "evidenzbasierte Didaktik" (Schwetz 2013) nennen könnte. Evidenz-
+basiert deshalb, weil sie beansprucht, Einflussfaktoren auf guten Unterricht
+empirisch beweiskräftig zu fundieren, und didaktisch, weil sie explizit der
+handlungspraktischen Orientierung von Lehrkräften für ihre Unterrichts-
+gestaltung dienen will.
+
+
+
+Evidence-Based Teaching
+
+Die angloamerikanische Denkweise über die Gestaltung von Lehr-Lern-
+Prozessen, an der auch John Hattie partizipiert, hat andere Ausgangspunkte
+und Traditionen als die deutsche bzw. kontinentaleuropäische (siehe zu den
+Bemühungen um einen europäischen Didaktik-Diskurs bei Meyer 2011 und
+Hudson/Meyer 2011). Die Zugangsweise der englischsprachigen Welt ist
+eher hervorgegangen aus empirischen und lerntheoretischen Forschungen,
+der europäisch-deutsche Zugriff wurde dagegen stark geprägt von der Bil-
+dungsphilosophie und von praktischen Unterrichtslehren. An dieser Stelle
+ist die Frage zu stellen, ob es nicht angesichts der langen transkontinentalen
+Beziehungsgeschichte des Nachdenkens über Unterricht im 20. Jahrhun-
+dert einfach nur albern wäre, im Jahre 2013 allen Vorstellungen der Un-
+terrichtsgestaltung aus den USA, England und Australien/Neuseeland den
+vierhundert Jahre alten Ehrentitel "Didaktik" zu verwehren?
+
+[p. 59] [PDF page 59]
+
+Wie oben bereits erwähnt, haben arn Beispiel des Instructional Design
+jüngst einige Analysen gezeigt, dass es im Vergleich zur Allgerneinen Di-
+daktik wohl eher urnAkzentunterschiede und parallele Theoriekonzepte als
+um Revierausgrenzungen gehen kann (vgl. Seel/Hanke 2011; Seel/Zierer
+2012; Terhart 2012). Hier soll nur an einem kleinen älteren Beispiel ge-
+zeigt werden, dass auch schon früher der Didaktikbegriff auf angloame-
+rikanische Forschungen zur Unterrichtsgestaltung angewandt worden ist.
+Heinrich Roth schrieb 1957 nach einem längeren USA-Aufenthalt in sei-
+nem didaktischen Standardwerk Psychologie des Lehrens und Lernens: "In
+der deutschen Pädagogik ist das, was die arnerikanische Psychologie in der
+Lernpsychologie erforscht, fast zur Gänze in dem enthalten, was bei uns
+Didaktik und Methodik heißt" (Roth 1958, S. 197). Und 1965 veröffent-
+lichte Roth dann die deutsche Übersetzung von Robert Gagnes kogniti-
+vistisch inspiriertem Lehr-Lern-Modell The Conditions of Learning, dem
+ersten Hauptwerk des Instructional Design, in den von ihm herausgege-
+benen "Beiträge(n) zu einerneuen Didaktik. Reihe A: Allgerneine Didak-
+tik" (Gagne 1965/1980). Beide, Rothund Gagne, haben zwischen Ende der
+1950er und Beginn der 1980er Jahre das mitbestimmt, was in Deutschland
+seinerzeit unter Didaktik verstanden worden ist.
+    Aber Hatties Unterrichtskonzept muss nicht nur in die längerfristigen
+Entwicklungen seit 1945 eingeordnet werden, sondern auch in die jüngsten
+Veränderungen auf der englischsprachigen Seite. Hattie ist mit seiner Meta-
+Metastudie nicht der erste Unterrichtsforscher, der nach dieser Methode
+Daten gewonnen und praktische Konsequenzen gezogen hat (einen Über-
+blick geben Seidel/Shavelson 2007). Hier sind beispielsweise auch Herbert
+J. Walberg und Robert J. Marzano zu nennen. John Hattie gebührt zwar das
+Erstgeburtsrecht für die Idee, eine Metastudie über Metastudien herzustel-
+len. Aber er war nicht der erste Wissenschaftler, der versucht hat, Leitlinien   \
+für die praktische Gestaltung effektiven Unterrichts aus solchen Metastu-
+dien zu gewinnen.
+    Marzanos und seine Mitarbeiter haben jüngst eine ganz ähnliche Unter-
+richtslehre wie Hatties Visible Learning for Teachers veröffentlicht (Dean
+2011), die in gleicher Weise aus Befunden empirisch-quantitativer Meta-
+Untersuchungen der Unterrichtsforschung Gestaltungsvorschläge für die
+Planung und Durchführung von Unterricht ableitet. Eine entsprechende
+Internetplattform der ASCD (Association of Supervision and Curriculum
+Development) bietet darüber hinaus gegen Bezahlung eine Fülle weiterer
+
+[p. 60] [PDF page 60]
+
+Literatur und Handreichungen dieser Art für den Schulpraktiker. Marzano
+selbst hat 2007 ein Rahmenkonzept für effektive Instruktion veröffentlicht,
+dass in jedem der zehn Kapitel nach dem Dreischritt
+    - In the Classroom (Was ist üblich?),
+    - Research and Theory (Was sagt die Forschung?),
+    - Action Steps (Wie kann man besser handeln?)
+gegliedert ist. Man hat hier eine weitere Variante forschungsbasierter Un-
+terrichtslehre eines Metastudien-Produzenten vor sich.
+    In England gibt es eine parallele Entwicklung. Der Lehrerfortbildungs-
+fachmann Geoff Petty hat erstmalig 2006 eine metastudienbasierte Unter-
+richtslehre unter dem bezeichnenden Titel Evidence-Based Teaching pub-
+liziert (Petty 2009). Er nimmt ganz konkret die Forschungsergebnisse von
+Marzano und Zwischenberichte über die Meta-Metastudievon Hattie und
+entwirft auf dieser Erkenntnisgrundlage- ohne sich sklavisch an die Metho-
+dologie dieser Forschungsrichtung zu halten- allgemeine Unterrichtsprinzi-
+pien: "Extracting general prinziples from effect-size studies" (ebda., S. III).
+In einem einfachen Aufbaumuster von unverzichtbaren Abschnitten für
+Lehr-Lern-Prozesse, das er "PAR-model" (Present- Apply- Review; siehe
+Abb. 1) nennt, bündelt er die Einzelfaktoren mit Effektstärkenangaben aus
+Marzanos Metaanalyse (ebda., S. 80): Man soll immer einen Überblick zur
+Lektion geben (maximal35% der Lerneinheit), das Lernangebot vorstellen
+(mindestens 60% ), zusammenfassen und das neu Gelernte vertiefen (min-
+destens 5% ), und jeder Abschnitt muss begleitet werden von Rückkoppe-
+lungen für Lehrende und Lernende, so wie Hattie es auch wünscht.
+
+          Present                             Apply                     Review
+
+         Orientieren                       Anwenden                   Überprüfen,
+ I                        I                                           Wiederholen
+              l
+                          I
+        Präsentieren                                         r----•
+ I                        I
+
+
+             I                                  I                         I
+                                            Feedback
+                                           Rückmelden
+ I
+Abb. 1: Das PAR- Modell von Geoff Petty (Petty 2009, S. 170 -172)
+
+
+
+Inzwischen arbeiten Marzano, Hattie und Petty in der Internetplattform
+EBTN (Evidence Based Teachers Network) eng zusammen (siehe EBTN
+
+[p. 61] [PDF page 61]
+
+2013). Vor diesem Hintergrund stellt sich die Frage noch schärfer, ob die
+Konzeption von Evidence-Based Teaching dieser Gruppierung nicht bei
+uns schlicht "evidenzbasierte Didaktik" genannt werden könnte.
+
+
+
+Anforderungen an eine Allgemeine Didaktik
+
+
+Didaktik ist eine pädagogische Denkform mit inzwischen exakt vierhun-
+dertjähriger Geschichte (vgl. Wigger 2004). Von Allgemeiner Didaktik
+spricht man, wenn sie fächerübergreifend angelegt ist und die Spezifika von
+pädagogischen Arbeitsfeldern überschreitet. Im Jahre 1612 benutzte Wolf-
+gang Ratke in einer Denkschrift für den in Frankfurt am Main tagenden
+Reichstag erstmals den Begriff im Sinne von "Lehrkunst bzw. Lehrart". In
+den folgenden Jahrhunderten wurde diese Bezeichnung mit immer wieder
+anderen Bedeutungsschwerpunkten verwendet. Johann Amos Comenius
+entwickelte Mitte des 17. Jahrhunderts in seiner "didactica magna" eine
+theologische und universalphilosophische Gesamttheorie der Verbesserung
+der Menschen mit dem Kern einer Verbindung von umfassender Schul-
+theorie und universeller Lehrweise für alle Lebensabschnitte. Der philan-
+thropische Lehrer und Professor Ernst Christian Trapp publizierte Ende
+des 18. Jahrhunderts eine auf exakten empirischen und psychologischen
+Beobachtungen fußende didaktische Konzeption. Johann Friedrich Herbart
+etablierte zu Beginn des 19. Jahrhunderts seine auf Ethik und Psychologie
+aufbauende Theorie des erziehenden Unterrichts, die vornehmlich bildungs-
+theoretisch argumentierte. Comenius und Herbart wurden jeweils weltweit
+rezipiert. Der Österreichische Herbartianer Otto Willmann entwarf dann
+Ende des 19. Jahrhunderts die Didaktik als Bildungslehre, die schul- und
+bildungsgeschichtlich kontextiert war. Wolfgang Klafki, um diesen kurzen        \
+theoriegeschichtlichen Exkurs abzuschließen, vertritt seit 1958 eine Didak-
+tik in der Tradition einer geisteswissenschaftlichen Theorie der Bildungs-
+inhalte und des Lehrplans, die er seit 1970 ganz bewusst und konstruktiv
+auf eine Pluralität von historisch-hermeneutischen, empirisch-analytischen
+und kritisch-emanzipatorischen Wissenschaftsverständnissen bezieht. Man
+sieht hieran, dass eigentlich Wandlungsfähigkeit die Stärke der Didaktik ist
+und dass es nicht ein starres, unverändertes Paradigma der Didaktik gibt.
+Allenfalls könnte man formulieren, dass Didaktik immer einen bestimmten
+Aspekt gesellschaftlichen Handeins zu ihrem Gegenstand gemacht hat: Das
+
+[p. 62] [PDF page 62]
+
+Lernen unter den Bedingungen des Lehrens; und dies trifft sicher auch auf
+"Evidence-Based Teaching" zu. Fraglich ist allerdings, ob diese auch die
+konstitutiven Funktionen der Begründung von Zielen, der institutionellen
+Einbettung und der Inhaltsbezogenheit von Lehren und Lernen löst.
+   Friedrich W. Kron hat einen systematischen Versuch der Ordnung ver-
+schiedener Gegenstandsverständnisse der Didaktik des 20. Jahrhunderts
+nach ihrer Reichweite entwickelt (Kron 2008, S. 36): Die fünf Typen der
+Bestimmung beginnen bei (1) Didaktik als Wissenschaft vom Lehren und
+Lernen mit dem weitesten Geltungsumfang. Darauf folgen abgestuft und
+immer enger werdend (2) Didaktik als Theorie oder Wissenschaft vom
+Unterricht, (3) Didaktik als Theorie der Bildungsinhalte, (4) Didaktik als
+Theorie der Steuerung von Lernprozessen und schließlich (5) Didaktik als
+Anwendung psychologischer Lehr- und Lerntheorien, mit der geringsten
+Reichweite. Am ehesten wird man Hatties Konzeption noch dem 4. und
+5. Didaktik-Verständnis zuordnen können.
+   Eine kuriose Seite des Didaktik-Diskurses ist, dass neben ihrer immen-
+sen Ausdifferenzierung in Fachdidaktiken, Bereichsdidaktikeil und Didakti-
+ken bestimmter pädagogischer Handlungsfelder eine schier unübersehbare
+Menge von Strömungen konzeptioneller Art vertreten werden: adaptive,
+bildungstheoretische, curriculare, dialogische, empirische und so fort All-
+gemeindidaktiken wurden auf den Markt geworfen. Leicht ließen sich über
+50 solcher Richtungs-Didaktiken aufzählen, die jeweils einen Aspekt des
+Lehr-Lern-Geschehens herausstellen (siehe Kron 2008, S. 65f.). Diese Dif-
+fusität der Szene ist wohl durch die Tendenz zur Pädagogisierung vieler
+gesellschaftlicher Bereiche, durch die Pluralisierung der pädagogischen The-
+oriepositionen und das immense Wachstum der pädagogischen Literatur-
+produktion verursacht. Die Evidenzbasierung wird vielleicht eine weitere
+Aspekt-Didaktik hinzufügen, aber auch nicht viel zur Klärung des inzwi-
+schen arg verwaschenen und konturlosen Grundverständnisses der Allge-
+meinen Didaktik als Wissensform von Lehr-Lern-Prozessen beitragen.
+   Denn erschwerend kommt hinzu, dass der erziehungswissenschaftliehen
+Teildisziplin Didaktik aus anderen Wissenschaftsdisziplinen Konkurrenz er-
+wachsen ist. Schon seit einigen Jahrzehnten und gerade auch mit der anglo-
+amerikanischen Zugangsweise eng verknüpft hat sich die empirisch-psy-
+chologisch akzentuierte Lehr-Lern-Forschung etabliert und den Anspruch
+erhoben, selbst handlungspraktische Konsequenzen für die Gestaltung von
+Lehr-Lern-Situationen aus ihren Erkenntnissen zu ziehen (siehe jüngst z.B.
+
+[p. 63] [PDF page 63]
+
+Kunter/Trautwein 2013). Die Konjunktur und Berechtigung der Lehr-Lern-
+Forschung ist spiegelbildlich begründet in dem eklatanten Empiriedefizit
+der erziehungswissenschaftliehen Didaktik (vgl. Olberg 2004) und dürfte
+auf die unabweisbare Notwendigkeit der interdisziplinären Kooperation
+verweisen. Sicherlich wird man Hatties quantitative und metaanalytische
+Publikationen zur relevanten Grundlagenforschung für eine interdiszipli-
+näre Didaktik rechnen müssen. Auch neurowissenschaftliche Zugänge be-
+anspruchen, das Feld der Lehr-Lern-Konzepte zu besetzen. Es ist viel von
+"gehirngerechtem Lernen" und "Neurodidaktik" die Rede. Allerdings sind
+die Dimensionen derThernatisierung des Lehrensund der Entwicklung von
+entsprechenden Methoden bislang noch sehr unterentwickelt und stehen
+damit in einem eigentümlichen Kontrast zu den überzogenen Erklärungsan-
+sprüchen ihrer Vertreter (vgl. Stern 2007; G. Roth 2011, S. 253-313). Man
+wird aber nicht bestreiten können, dass die Neurowissenschaften wichtiges,
+wenn auch noch sehr allgerneines physiologisches Grundlagenwissen über
+das menschliche Lernen für eine interdisziplinär fundierte Didaktik bereit-
+stellen.
+    Eine deutliche Einschränkung gegenüber der Zuschreibung, dass Hattie
+eine "evidenzbasierte Didaktik" entwickelt habe, wird man schließlich an-
+führen müssen, wenn man Didaktik als eine rnehrschichtige Wissensform
+vorn Lernen unter den Bedingungen des Lehrens versteht (vgl.Abb. 2). Wir
+hatten oben gesehen, dass Hattie vorwissenschaftliches Erfahrungswissen
+als eine zu überwindende Denkweise ansieht, die in der Konfrontation mit
+Erkenntnissen aus seiner Mega-Studie über effektiven Unterricht zu modi-
+fizieren sei. Dies ist eine sozialtechnologische Sicht auf den Umgang mit
+Wissenschaft in unterrichtspraktischen Handlungszusarnrnenhängen. Man
+
+                                                                                        \
+                                      Wissenschaftliches Wissen:
+                           Schulpädagogik, Lernpsychologie, Neurowissenschaften ...
+
+
+  Berufswissen:                                           Protessionswissen:
+  Regeln aus Arbeitserfahrungen ...                       reflektierte Lehrpraxis ...
+
+
+
+                                              Alltagswissen:
+                                      lebensweltliche Lernerfahrungen ...
+
+Abb. 2: Wissensformen der Didaktik
+
+[p. 64] [PDF page 64]
+
+muss dem eine epistemologisch reflektierte Perspektive entgegenstellen,
+die a) den Eigenwert von lebensweltlich, zum Beispiel aus der Schüler-
+perspektive erworbenem Didaktik-Wissen über Lehr-Lern-Situationen mit
+b) der Dignität von dem in der Geschichte der Lehrerarbeit an Schulen zu-
+sammengetragenen und weitergegebenen Berufs- und Regelwissen über die
+Gestaltung von Lehr-Lern-Prozessen und c) den systematisch und metho-
+disch kontrolliert gewonnenen Erkenntnissen der Erziehungswissenschaft,
+Psychologie und Neurowissenschaften produktiv miteinander in Beziehung
+setzt. Es ist d) die Aufgabe einer didaktischen Erkenntniskritik, diese drei
+auch historisch unterscheidbaren Wissensebenen dauerhaft in einem auch
+biografisch zur Professionalität sich steigernden Prozess zu verknüpfen.
+    Professionelles Lehren und Lernen entsteht nämlich nicht aus der ein-
+fachen Anwendung von quantitativen empirischen Erkenntnissen auf das
+Handeln in Praxissituationen, sondern es ist der unvermeidlichen Situa-
+tivität und Komplexität von je konkretem Unterricht nur angemessen,
+wenn qualifiziert handelnde Lehrkräfte als reflektierte Praktiker eigen-
+verantwortlich ihr Erfahrungswissen als Lernende und die Teilhabe an den
+Wissensbeständen ihrer Berufsgruppe produktiv und authentisch mit wis-
+senschaftlichen Erkenntnissen der Wissenschaften vom Lehren und Lernen
+verbinden.
+    Fundierung von didaktischem Handeln durch Empirie hätte also über
+die Auswertung von Effektstärken in allen bislang publizierten experimen-
+tellen Interventionsstudien hinaus auch qualitative Studien über Unterricht
+zu berücksichtigen und selbst Forschung zur Verwendung von allen didak-
+tischen Wissensformen im Unterrichtsalltag sowie zur Genese von didak-
+tisch-professionellem Wissen als Basis guten Unterrichts im biografischen
+Prozess beruflicher Bildung von Lehrkräften zu betreiben. Letzteres mar-
+kiert eine deutliche Lücke didaktischer Forschung.
+    Evidenzbasierte Didaktik a la Marzano, Petty und Hattie wird sich auch
+deshalb nur zu einerneuen eindimensionalen Aspekt-Didaktik entwickeln,
+weil sie weitere notwendige Merkmale entwickelten didaktischen Denkens
+ausblendet. Sie reflektiert nicht hinreichend die Intentionen und Zwecke
+des Handeins in Lehr-Lern-Situationen (Defizit der Zielbegründung) (vgl.
+Bellmann/Müller 2011), sie hat ein eigentümlich zurückhaltendes Verhältnis
+zu den Wechselwirkungen von Lehren und Lernen mit ihren institutionellen
+Rahmenbedingungen (schultheoretisches Defizit), und sie blendet nahezu
+völlig die konstitutive Bedeutung der Auseinandersetzung mit Lerngegen-
+
+[p. 65] [PDF page 65]
+
+ständen (Defizit des Curriculumbezugs) bei der Gestaltung von Unterricht
+aus. Gleichwohl wird sich die Allgemeine Didaktik - herausgefordert von
+John Hattie - in Zukunft mit den generellen Faktoren effektstarken Unter-
+richtens argumentativ verstärkt auseinandersetzen müssen.
+
+Literatur
+Bellmann, Johannes/Müller, Thomas (2011): Wissen, was wirkt. Kritik evidenzbasierter Pä-
+    dagogik. Wiesbaden: VS-Verlag.
+Dean, Ceri B. u. a. (2011): Classroom instruction that works. Research-based strategies for
+    increasing student achievement. 2. Auflage. Denver USA: McRel.
+EBTN = Evidence Based Teachers Network (2013). Cambridge Großbritannien. http://
+    www.ebtn.org (Zugriff: 28.09. 2013).
+Gagne, Robert M. (1980): Die Bedingungen des menschlichen Lernens. 5. Auflage. Hanno-
+    ver: Schroedel (zuerst: 1965).
+Hattie, John (2009): Visible learning. A synthesis of 800+ meta-analyses on achievement.
+    London, New York: Routledge.
+Hattie, John (2012): Visible learning for teachers. Maximizing impact on learning. London,
+    N ew York: Routledge.
+Hattie, John (2013): Lernen sichtbar machen. Überarbeitete deutschsprachige Ausgabe von
+    "Visible Learning", besorgt von Wolfgang Beywl und Klaus Zierer. Baltmannsweiler:
+    Schneider Hohengehren.
+Helmke, Andreas (2013): Interview zur Hattie-Studie mit Volker Reinhardt. In: Lehren &
+    Lernen. Zeitschrift für Schule und Innovation aus Baden-Württemberg, 39, S. 9-16.
+Höfer, Dieter/Steffens, Ulrich (2012). "Visible Learning forTeachers- Maximizing impact
+    on learning" - Zusammenfassung der praxisorientierten Konsequenzen aus der For-
+    schungsbilanz von John Hattie "Visible Learning", 26. September 2012. http://www.
+    visiblelearning.de/wp-content/uploads/2013/04/Hattie-2_Veroeff_Zsfa_2012_09_26.
+    pdf (Zugriff: 07.09.2012).
+Hudson, Brain/Meyer, Meinert A. (Hrsg.) (2011): Beyond fragmentation. Didactics, lear-
+    ning and teaching in Europe. Opladen, Farmington Hills: Barbara Budrich.
+Kron, Friedrich W. (2008): Grundwissen Didaktik. 5. Auflage. München: Reinhardt.
+Kunter, Mareike/Trautwein, Ulrich (2013): Psychologie des Unterrichts. UTB, 3895. Pa-
+    derborn: Schöningh.
+                                                                                              \
+Marzano, Robert. J. (2007): The art and science of teaching. Alexandria USA: ASCD - As-
+    sociation of Supervision and Curriculum Development.
+Meyer, Meinert A. (Hrsg.) (2011): Schwerpunkt: Didactics in Europe. In: Zeitschrift für
+    Erziehungswissenschaft, 15, S. 443-571.
+Olberg, Hans-Joachim von (2004): Didaktik auf dem Wege zurVermittlungswissenschaft?
+    In: Zeitschrift für Pädagogik, 50, S. 119-131.
+Petty, Geoff (2009): Evidence-based teaching.A practical approach. 2. Auflage. Chelten-
+    ham: Nelson Thornes.
+Roth, Gerhard (2011): Bildung braucht Persönlichkeit. Wie Lernen gelingt. Stuttgart: Klett-
+    Cotta.
+
+[p. 66] [PDF page 66]
+
+Roth, Heinrich (1958): Pädagogische Psychologie des Lehrens und Lernens. 2. Auflage.
+   Hannover: Schrödel.
+Schwetz, Herbert (2013): Für eine evidenzbasierte Didaktik. Vortragsthema beim ersten
+   Fachliteraturzirkel an der Pädagogischen Hochschule Steiermark in Graz. http://www.
+   phst.at/studierende/nachrichten/ (Zugriff: 07. 09. 2013).
+Seel, Norbert M./Hanke, Ulrike (2011): Unterrichtsgestaltung als Instmctional Design. The
+   American Way. In: Ewald Kiel/Klaus Zierer (Hrsg.): Geschichte der Unterrichtsgestal-
+   tung. Baltmannsweiler: Schneider Hohengehren, S. 185-201.
+Seel, Norbert M./Zierer, Klaus (2012): General didactics and instmctional design. Living in
+    parallel worlds. In: Jahrbuch für Allgemeine Didaktik, S. 77-107.
+Seidel, Tina/Shavelson, Richard J. (2007): Teaching effectiveness research in the past de-
+    cade. The role of theory and research design in disentangling meta-analysis results. In:
+    Review of Educational Research, 77, S. 454-499.
+Stern, Elsbeth u.a. (2007): Lehr-Lernforschungund Neurowissenschaften- Erwartungen,
+    Befunde und Forschungsperspektiven. Berlin: Bundesministerium für Bildung und For-
+    schung.
+Terhart, Ewald (2012): Drifting Didactics. In: Jahrbuch für Allgemeine Didaktik, S. 65-76.
+Terhart, Ewald (2013): Hat John Hattie tatsächlich den Heiligen Gral der Schul- und Unter-
+    richtsforschung gefunden? Eine Auseinandersetzung mit "Visible Learning". In: ders.:
+    Erziehungswissenschaft und Lehrerbildung. Münster: Waxmann, S. 167-183 (zuerst:
+    2011).
+Wigger, Lothar (2004): Didaktik. In: Benner, Dietrich/Oelkers, Jürgen (Hrsg.): Historisches
+    Wörterbuch der Pädagogik. Weinheim Basel: Beltz, S. 244-278.

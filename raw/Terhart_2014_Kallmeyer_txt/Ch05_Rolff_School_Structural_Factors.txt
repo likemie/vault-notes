@@ -1,0 +1,486 @@
+Die Hattie-Studie in der Diskussion: Probleme sichtbar machen
+Herausgegeben von Ewald Terhart | 1. Auflage 2014 | Seelze: Kallmeyer in Verbindung mit Klett
+ISBN 978-3-7800-4804-2
+
+Leseeinheit 05: Sind schulische Strukturfaktoren wirklich nicht so wichtig? Hattie und das deutsche Schulsystem
+Hans-Günter Rolff
+Originalseiten 67–77; PDF-Seiten 67–77
+
+[Deutscher Originaltext aus der OCR-Textebene des gescannten PDFs. Die Nummer der Leseeinheit folgt dem Inhaltsverzeichnis; die Beiträge sind im Original nicht nummeriert. Fußnoten und Literatur bleiben im jeweiligen Beitrag. Seitenmarkierungen verweisen auf Buchseite und PDF-Seite. OCR-Fehler können verbleiben; genaue Zitate, Tabellen und Abbildungen bitte am PDF prüfen.]
+
+
+========================================================================
+Beitrag mit Anmerkungen und Literatur
+========================================================================
+
+[p. 67] [PDF page 67]
+
+Hans-Günter Rolff
+
+
+Sind schulische Strukturfaktoren
+wirklich nicht so wichtig?
+Hattie und das deutsche Schulsystem
+
+Hattie untersucht fast ausschließlich Schulen, die aus dem anglophonen
+Raum stammen und die eine gesamtschulische Strukturorganisation
+aufweisen, also keine so frühe Auslese auf weiterführende Schulformen
+praktizieren wie die deutschen Schulen. Seine Ergebnisse zu Aspekten der
+Schul~truktur lassen sich deswegen gar nicht auf das deutsche Schulsys-
+
+tem übertragen. Die Schulstrukturfrage kann allein schon deshalb nicht
+als unwichtig angesehen werden, wie manche Hattie-lnterpreten das
+wünschen, weil der durch die PISA-Studien belegte Umstand zu beachten
+ist, dass mehrgliedrige Schulsysteme eine deutlich schärfere soziale Se-
+lektion der Schülerinnen und Schüler betreiben als Gesamtschulsysteme.
+
+
+Die Hattie-Studie wird häufig und gern zitiert als Beleg dafür, dass Rah-
+menbedingungen und die Schulstruktur irrelevant seien, zumindest was
+deren Einfluss auf die Leistungen der Schülerinnen und Schüler betrifft.
+Abgesehen davon, dass diese Aussage am Kern der Strukturdebatte vor-
+
+
+
+
+                                                                                  '
+beigeht, sind diese Aussagen zur Irrelevanz der Rahmenbedingungen und
+der Schulstruktur ganz und gar nicht mit Daten aus der Hattie-Studie zu
+belegen.
+   Typisch dafür, die Schulstruktur als unwichtig zu erklären, sind die bei-
+den folgenden von der Öffentlichkeit weit rezipierten Zitate. So hat der be-
+kannte Bildungsjournalist Martin Spiewak in der Zeit geschrieben: "Doch
+warum glaubt die Politik noch immer, Lernergebnisse mit Strukturreformen
+verbessern zu können? [... ] Systemfragen sollte man nach Hattie gar nicht
+stellen". Der einflussreiche Schulforscher Olaf Köller pointiert diese Aussa-
+ge noch: "Gleichzeitig erweisen sich schulische Rahmenbedingungen (diffe-
+renzierte vs. nichtdifferenzierte Schulsysteme; finanzielle Ausstattung) [... ]
+als weitgehend unwirksam" (Köller 2012, S. 73). Diese Worte überraschen
+
+[p. 68] [PDF page 68]
+
+sehr. Sie lassen sich nicht aus der Hattie-Studie begründen. Sie sind quasi
+aus der Luft gegriffen, denn in Hatties Studie werden nur englischsprachige
+Länder mit Gesamtschulstrukturen berücksichtigt. In seinen Metaanaly-
+sen gab es keine Daten aus einem Land mit einer Schülerauslese vor dem
+9. Schuljahr, also aus einer gegliederten Schulstruktur wie in Deutschland.
+   Zum andern war die Strukturdebatte "gegliedertes versus integriertes
+Schulsystem" nicht auf Schülerleistungen fixiert. Diesbezüglich haben
+schon die PISA-Studien ergeben, dass es keine eindeutigen Wirkungszu-
+sammenhänge zugunsten der einen oder der anderen Struktur gibt und
+Strukturdebatten in diesem Sinne unwichtig sind. Bei der Strukturdebatte
+ging und geht es um die Frage der Chancengleichheit, worauf noch zurück-
+zukommen ist.
+
+
+
+Hatties Aussagen zur Schulstruktur
+
+
+Hintergrund der Fraglichkeit der Schulstrukturaussagen sind die völlig
+unterschiedlichen Kontexte der Schulsysteme angloamerikanischer und
+deutschsprachiger Länder. Wenn Hattie davon spricht, dass Schulstruktur-
+größen und Arbeitsbedingungen von nachgeordneter Bedeutung sind, so
+muss man wissen, welche Strukturgrößen überhaupt in der Studie Berück-
+sichtigung finden. Ulrich Steffens identifiziert auf den Seiten 244 f. der
+Hattie-Studie die folgenden strukturbetreffenden Faktoren und zieht be-
+merkenswerte Schlüsse daraus:
+   - Finanzen                                       d = 0.28
+   - Sommerschulen                                  d = 0.23
+   - kirchliche Schulen                             d = 0.23
+   - Klassengröße                                   d = 0.21
+   - selbständige Schulen ("Charter Schools")       d = 0.20
+   - leistungshomogene Klassenbildung 1             d = 0.12
+   - jahrgangsübergreifender Unterricht             d = 0.04
+   - offener Unterricht                             d == 0.01
+   - Jahrgangswiederholung (Sitzenbleiben)          d = 0.16
+Hatties Kennwerte bezeichnen sogenannte Effektgrößen, wobei erst ein
+Wert über d = 0.40 deutlich positive Wirkungen auf Schülerleistungen er-
+
+
+1   Entspricht: Schulzweigen an kooperativen Gesamtschulen.
+
+[p. 69] [PDF page 69]
+
+warten lassen. Davon sind die zitierten Effektwerte weit entfernt. In diesem
+Zusammenhang wird bei Hattie auch deutlich, dass soziale Segregations-
+strukturen in Bezug auf Schülerleistungen offenbar nicht besonders erfolg-
+reich sind: Für "tracking" (Einteilung nach Schulformen), Absonderung
+durch Privatschulen und institutionalisierte Verzögerungen der Schullauf-
+bahnen berechnet Hattie durchweg Werte unter d = 0.40.
+   Wenn Hattie davon spricht, dass Schulstrukturbedingungen unbedeu-
+tend sind, so meint er damit auch, dass die leistungshomogene Gruppierung
+von Schülerinnen und Schülern (ability grouping, streaming, tracking; also:
+die überdauernde Einteilung von Schülerinnen und Schülern nach Leis-
+tung, vergleichbar unserer Einteilung von Schülerinnen und Schülern nach
+Schulformen) keine Wirkungen auf ihre Leistungen hat:
+      "The average effect is a small d = 0.11 [ ... ). The results show that tracking has mini-
+       ·mal effects on learning outcomes and profound negative equity effects. The overall
+       effects on mathematics and reading were similarly low (reading d = 0.00, mathe-
+       matics d = 0.02), the effects on self-concept were close to zero, and effects on
+       attitudes towards subject matter slightly higher (d = 0.1 0)."           (Hattie 2009, s. 90)
+
+
+
+Die entsprechenden Effektmaße liegen unterhalb des Schwellenwerts
+von 0.20, ab dem man von "kleinen Effekten" spricht. Datenbasis für die
+genannten Maße sind 500 Studien. Mit Verweis auf andere Autoren ergreift
+Hattie ganz klar Partei: "Oakes and Wells (1996) claimed that tracking
+exists to guarantee the unfair distribution of privilege" (Hattie 2009, S. 90).
+Hatties Sprache ist hier recht deutlich. Natürlich bleibt es dabei, dass eine
+Übertragung dieser Befunde auf unsere Verhältnisse problematisch ist. Be-
+merkenswert ist es aber schon, wenn vor dem Hintergrund dieser Befunde
+festgestellt werden kann, dass eine leistungsbezogene Einteilung der Schü-
+lerinnen und Schüler in feste Lerngruppen ("tracking") ohne Wirkung auf                                \
+Schülerleistungen ist.
+
+
+
+Äußere Schulstruktur: Schülerleistungen und Bildungschancen
+
+
+Nach Hattie sind gute kognitive Schülerleistungen also im gegliederten
+wie integrierten Schulsystem möglich. Aber ein wesentlicher Unterschied
+zwischen den beiden Systemen bleibt: Zahlreiche Studien zeigen, dass die
+soziale Selektivität in gegliederten Systemen deutlich größer ist als in irrte-
+
+[p. 70] [PDF page 70]
+
+grierten, beim Thema Chancengleichheit die Schulstruktur also eine zent-
+rale Rolle spielt. Dieses Thema allerdings untersucht Hattie nicht, und auch
+Spiewak und Köller gehen auf dieses Thema nicht ein. Indes finden sich bei
+den Forschungsberichten von PISA zahlreiche Daten und Ergebnisse zur
+sozialen Selektivität von Schulsystemen.
+   Erwähnenswert in diesem Zusammenhang ist ein Beitrag von Kobarg
+und Prenzel (2012), der ebenfalls die soziale Selektivität von Schulstruktu-
+ren übersieht oder nicht ernst nimmt. Er wurde weit verbreitet und erschien
+unter anderem in der Zeitschrift der Arbeitsgemeinschaft der Schullei-
+tungsvereinigung Deutschlands (b:sl Beruf: Schulleitung). Dieser hat zum
+Thema, den "Mythos der nordischen Bildungssysteme" aufzudecken, der
+darin bestehe, dass diese Schulsysteme hohe Schülerleistungen in der Brei-
+te mit sozialer Chancengleichheit verbinden könnten. Der Beitrag kommt
+zu folgendem Schluss:
+      "Die Befunde aus den drei PISA-Erhebungen in den Jahren 2000, 2003 und 2006
+      zeigen, dass die nordischen Länder im internationalen Vergleich keineswegs
+      durchgängig Spitzenpositionen einnehmen, die eine Idealisierung der nordischen
+      Bildungssysteme rechtfertigen könnten. Das Bild, das die PISA-Erhebungen zeich-
+      nen, ist deutlich differenzierter, Im internationalen Vergleich schneiden allein die
+      finnischen Fünfzehnjährigen konstant herausragend ab. Finnland erreicht in allen
+      Domänen Spitzenplätze; die Kompetenzen finnischer Schülerinnen und Schüler
+      sind auch über die Erhebungszeitpunkte stabil. ln keinem anderen nordischen
+      Land ist der Erfolg des Bildungssystems so konstant wie in Finnland. Obwohl
+      Schweden in der ersten PISA-Erhebung im Jahr 2000 bedeutsam oberhalb des
+      OECD-Durchschnitts lag, haben sich die Kompetenzen der schwedischen Fünf-
+      zehnjährigen tendenziell und in einigen Bereichen signifikant negativ entwickelt:'
+                                                                     (Kobarg/Prenzel 2012, S. 22)
+
+
+
+Daraus zu schließen, dass (1) das deutsche mehrgliedrige System, das in
+der Tat heute bessere Schülerleistungen in Mathematik und in den Natur-
+wissenschaften zeigt als noch im Jahr 2000, im Grunde nicht schlechter sei
+als die Gesamtschulen Skandinaviens und dass (2) die Schulstruktur keine
+Rolle spiele, wie das Kobarg und Prenzel suggerieren, ist zumindest vor-
+schnell. Denn Kobarg und Prenzel berichten nichts über die soziale Selek-
+tivität, sondern sie dokumentieren allein die Schülerleistungen der Nord-
+länder. Die Bildungschancen der Sozialschichten wurden indes sehr wohl
+in den PISA-Studien untersucht mit dem durchgängigen Ergebnis, dass die
+
+[p. 71] [PDF page 71]
+
+Bildungschancen der unteren Sozialschichten in den deutschen Schulen si-
+gnifikant geringer sind als in den skandinavischen Ländern.
+   In dem von Klieme u.a. 2010 herausgegebenen Band PISA 2009- Bi-
+lanz nach einem Jahrzehnt schreiben Timo Ehmke und Nina Jude:
+      "Zusammenfassend lässt sich für Deutschland eine positive Entwicklung ablesen.
+      Die sozialen Disparitäten, also die sozialen Ungleichheiten, in der Lesekompetenz
+      haben seit PISA 2000 bei den Jugendlichen über die Zeit abgenommen. Allerdings
+      ist der Zusammenhang zwischen dem sozioökonomischen Status des Elternhau-
+      ses und der von den Jugendlichen erreichten Kompetenz im internationalen Ver-
+      gleich immer noch hoch ausgeprägt. Die bildungspolitische Aufgabe, eine geringe
+      Kopplung bei hohen Kompetenzen zu erreichen, bleibt damit weiterhin bestehen:'
+                                                                        (Kiieme 2010, S. 241)
+
+
+
+Es gibt in der PISA-2009-Studie unter den Ländern mit den größten sozia-
+len Disparitäten nur 8 Länder, die hinter Deutschland zurückliegen: Davon
+haben 4 (Österreich, Belgien, Luxemburg und die Tschechische Republik)
+ein mehrgliedriges Schulsystem, was jedoch bei keinem der Länder der
+Fall ist, die geringere soziale Disparitäten aufweisen (ebda., S. 236) -mit
+Ausnahme der Niederlande, die über eine 6-jährige Grundschule verfügen,
+worauf 2 Jahre teilintegrierter Beschulung und dann erst ein gegliedertes
+und mehrgliedriges Schulsystem folgt.
+    Daraus kann man schließen, dass Schulstrukturen sehr wohl eine Rolle
+spielen, aber offenbar für die Chancengleichheit mehr als für die Schü-
+lerleistungen. Dieses Fazit wird noch verstärkt durch das sich durch alle
+IGLU-Studien hindurchziehende Ergebnis, demzufolge der Übergang von
+der Grundschule zu den Sekundarschulen einen sozialen Bias aufweist:
+Kinder aus höheren Sozialschichten haben eine mehrfach höhere Chance,
+auf höhere Schulformen zu gelangen, als Mädchen und Jungen aus den un-                             \
+teren sozialen Schichten.
+      "Untersucht man den Einfluss der Sozialschicht (EGP-Kiassen) der Kinder auf ihre
+      Schullaufbahnempfehlungen, so wird deutlich, dass selbst bei Kontrolle der Sozi-
+      alschichtzugehörigkeit und der Lesekompetenz Kinder aus oberen Schichten eine
+      2,68- bzw. 1,76-fache größere Chance haben, eine Gymnasialempfehlung zu erhal-
+      ten als ein Kind aus einem Haushalt a.us unteren Schichten."     (ßos u. a. 2004, S. 213)
+
+
+
+Auch in den späteren IGLU-Studien wurde immer wieder bestätigt, dass
+Kinder aus den sozial stärksten Gruppen im Vergleich zu solchen aus Fach-
+
+[p. 72] [PDF page 72]
+
+arbeiterfamilien, die über die gleiche Lesekompetenz verfügen, eine mehr-
+fach höhere Chance haben, eine Empfehlung zum Besuch eines Gymna-
+siums zu erhalten (Stubbe u.a. 2012). Dieser Umstand erhält sein volles
+Gewichtangesichts eines Ergebnisses, das bereits aus der ersten PISA-Stu-
+die hervorstach, in den folgenden Studien allerdings vernachlässigt wurde:
+Schulformen bilden ein vorstrukturiertes Lernmilieu, das je nach Schulform
+unterschiedlich lernfördernd wirkt. Hier ist eine Textstelle besonders auf-
+schlussreich, die deshalb ausführlich zitiert werden soll:
+      "Rein rechnerisch lässt sich nahezu die Hälfte (43 o/o) der mathematischen Leis-
+      tungsvarianzzwischen den Schülern auf die Zugehörigkeit zu unterschiedlichen
+      Bildungsgängen zurückführen. Die Bildungsunterschiede sind somit in Mathe-
+      matik gleich stark ausgeprägt wie beim Lesen oder in den Naturwissenschaften.
+      Hinter diesen ,Effekten' des Bildungsganges stehen allerdings Selektionsprozesse
+      beim Übergang in die Sekundarstufe I, die unter anderem über kognitive Grund-
+      fähigkeiten und [ ... ] Merkmale sozialer Herkunft gesteuert sind. Unterschiede zwi-
+      schen den Bildungsgängen lassen sich im Wesentlichen durch die Auswahlprozes-
+      se beim Übergang von der Grundschule in die Sekundarstufe I erklären. Dennoch
+      verbleiben bedeutsame Differenzen: Auch bei gleichen kognitiven Grundfähigkei-
+      ten und identischem sozioökonomischen Status ist die Leistung eines Gymnasias-
+      ten um 49 Punkte höher als die Leistung eines Hauptschülers. Dieser Unterschied
+      sollte in zukünftigen Analysen   auch auf der Ebene einzelner Schulen- aufgeklärt
+      werden."                                             (Deutsches PISA-Konsortium 2001, S. 182)
+
+
+
+Mit anderen Worten: Schulstrukturen haben einen starken Einfluss auf die
+Leistungen der Schülerinnen und Schüler und außerdem einen starken Ein-
+fluss auf die Bildungschancen, die mit der Schichtzugehörigkeit variieren.
+
+
+
+Innere Schulstruktur
+
+
+Beim Thema "Schulstruktur" geht es nicht nur um pure Schulformen und
+Rahmenbedingungen, sondern auch um die Binnenorganisation oder die
+Innenarchitektur von Schule, wie es neuerdings heißt. Es wurden bereits
+einige Elemente aus Hatties Darstellung genannt wie Klassengröße oder
+offener Unterricht. "Reduzierung der Klassengröße [ist] weitgehend irrele-
+vant", folgert Köller (2012, S. 77). "Kleine Klassen kosten zwar viel Geld,
+bleiben in puncto Lernerfolg aber weitgehend ertraglos [... Sie tragen] zum
+
+[p. 73] [PDF page 73]
+
+Lernerfolg so gut wie nichts bei", liest Spiewak (2013) aus der Hattie-Stu-
+die. Hattie bezieht sich auf eine Spannweite von 15 bis 25 Lernenden pro
+Klasse und konstatiert in der Tat, dass eine Reduzierung in dieser Spann-
+weite nichts bewirke außer höheren Kosten.
+    - Dagegen ist zunächst einzuwenden, dass es nicht wenige Schulklas-
+       sen mit deutlich über 25 Schüler:p. gibt, die aus der Hattie-Studie
+       von vornherein ausgeschlossen sind. Die prominenteste Studie zur
+       Wirkung der Klassengröße ist vermutlich STAR (Student-Teacher-
+       Achievement-Ratio). In ihrem Rahmen wurden in den 1980er Jahren
+       im US-Staat Tennessee Lernergebnisse in Grundschulklassen mit 13
+       bis 17 Lernenden (kleine Klassen) mit solchen mit 22 bis 25 Lernen-
+       den (große Klassen) verglichen. Die zentralen Befunde (nach Arnold
+       2005) sind: Lernende kleiner Klassen schneiden in jeder Jahrgangs-
+      .stufe bei Leistungstest besser ab als Lernende großer Klassen.
+       Diese Effekte treten besonders deutlich auf, wenn die Betreuung/der
+       Unterricht möglichst früh (im Kindergarten bzw. in der 1. Klasse) und
+       möglichst lange (3 oder 4 Jahre) in kleinen Gruppen erfolgt.
+       Leistungsschwache und sozial benachteiligte Kinder profitieren be-
+       sonders stark von kleinen Klassen.
+Etwas komplizierter ist der Einwand, dass Hatties Aussage den Gesamtzu-
+sammenhang von Lernen übersieht: In der Schule geht es ja nicht nur um
+Wissenserwerb in den Hauptfächern, sondern auch um ein aktivierendes
+Lernklima, um eine erwartungssichere Interaktionsstruktur oder um Ab-
+wesenheit von Mobbing. Dieser Bereich ist von der Klassengröße abhängig.
+Und es gibt auch Lehrende, denen große Klassenfrequenzen Probleme ma-
+chen. Lehrende stehen ansonsten ja im Mittelpunkt der Hattie-Studie- al-
+lerdings nicht in diesem Punkt, wenngleich mit steigender Klassenfrequenz
+auch die Belastungen für Lehrende steigen, manchmal bis zu einem Grad,         \
+der nicht mehr zu ertragen ist.
+    Hattie hat derartige Gesamtzusammenhänge nicht untersucht, sondern
+einzelne, man könnte sagen: "isolierte" oder auch "fragmentierte"Variablen
+aufWirkungenhin analysiert, genauer: 138 Einzelfaktoren und im Anschluss
+daran weitere 12. Aber man weiß aus der neueren Schulentwicklungsfor-
+schung (z.B. Mourshed u.a. 2011 und Fullan 2010), dass auch die stärksten
+Variablen ihre Wirkung nur mit anderen Variablen zusammen entfalten. So
+ist eine Unterrichtsentwicklung vor allem dann nachhaltig, wenn sie koope-
+rativ betrieben wird; so benötigen gegenseitige Hospitationen beispielsweise
+
+[p. 74] [PDF page 74]
+
+einen Fokus auf Unterricht und möglichst noch eine Rahmung durch eine
+Fach- oder Jahrgangsgruppe, sonst laufen sie ins Leere oder bleiben ein gele-
+gentlicher Freundschaftsdienst. Hattie hat nur Einzelaspekte von Unterricht
+untersucht; die Wirkung von Faktoren auf die Entwicklung von Unterricht
+liegt aber gerade nicht in den Aktionen einzelner, sondern wesentlich in
+der Interaktion und im Zusammenspiel der Lehrenden und der Lernenden.
+    Hattie demonstriert das selbst an einem Beispiel: Er macht am Schüler-
+Lehrer-Feedback deutlich, dass auch die stärksten Variablen ihre Wirkung
+nur mit anderen Variablen zusammen entfalten und dass es sogar negati-
+ve Effekte geben kann, wenn die Faktoren nicht zusammenpassen (Hat-
+tie 2009, S. 172f.). Vor allem in Studien, die die Einwirkungen der Ge-
+samtsysteme auf die Qualität des Schülerlernens direkt untersuchen, wird
+immer deutlicher, dass wirksame und nachhaltige Qualitätsförderung aus
+einem Guss, das heißt ganzheitlich im Rahmen von Schulentwicklung kon-
+zipiert und implementiert werden muss. Vor allem die schon genannten
+Studien von Fullan (2010) sowie Mourshed u. a. (2011) identifizieren ein
+ganzes Bündel von Maßnahmen erfolgreicher Qualitätsentwicklung, die zu
+nachweisbaren Verbesserungen von Schülerleistungen führen. Diese Maß-
+nahmen werden in diesen Studien gruppiert nach Kernideen, Elementen
+erfolgreicher Reformen, innerschulischen Parametern, Anreizen für Lehren-
+de, resoluter Schulleitung und regionaler Vernetzung. Solche Maßnahmen
+müssen allesamt einbezogen werden und ein kohärentes Ensemble bilden.
+Viele Faktoren spielen dabei eine Rolle. Das Besondere dabei ist allerdings
+der systemische Charakter, was bedeutet, dass die einzelnen Faktoren zu-
+sammengehen und auf einer Linie liegen, also einer ganzheitlichen Gestal-
+tungsformel folgen und unter- bzw. miteinander vernetzt sind.
+    Politik und Behörden neigen im Sinne des klassischen Verwaltungshan-
+deins dazu, die Schulen zur Realisierung zentral konzipierter Projekte zu
+bewegen, unter anderem zu Projekten der Unterrichtsentwicklung und der
+Lehrerfortbildung. Sie stoßen dabei an Grenzen. Fullan und Mourshed u. a.
+zählen deshalb nicht Lösungen 1. Ordnung, die mehr desselben in perfek-
+tionierter Weise anstreben, zu den wesentlichen Gelingensbedingungen,
+sondern Lösungen 2. Ordnung, die das System selbst wandeln bzw. wei-
+terentwickeln. Systemwandel heißt, die einzelnen Schulen wie das ganze
+Schulsystem in die Lage zu versetzen, die besten Lösungen ihrer Entwick-
+lungsprobleme oder Entwicklungsabsichten selbst zu entdecken und selbst
+umzusetzen. Fullan und Mourshed u. a. nennen diese Fähigkeit "capacity
+
+[p. 75] [PDF page 75]
+
+for change" und sie belegen anhand konkreter Beispiele, dass der Königs-
+weg zur wirksamen Schulentwicklung im Aufbau dieser Kapazitäten bzw.
+Fähigkeiten zum Wandel in und von Schulen und Behörden liegt. Zur Fähig-
+keit zum Wandel gehört unverzichtbar auch die Fähigkeit, Daten zu nutzen
+sowohl für Bestandsanalyse und -diagnose als auch für die Evaluation und
+Steuerung der Entwicklungsvorhaben. Unabdingbar ist für alle Vorhaben,
+die Verbesserung der Lernbedingungen für die Schülerinnen und Schüler
+im Auge zu haben und ständig zu prüfen, ob sie diesen beim Lernen hel-
+fen. Methodentraining ist eine allgernein anerkannte Basis für Lernen. Aber
+schon im Modellvorhaben "Selbstständige Schule in NRW" hat sich gezeigt,
+dass Methodentraining allein nicht ausreicht, die Schülerleistungen zu ver-
+bessern (vgl. Holtappeis u. a. 2008, S. 104 ff.). Es ist nötig und nützlich, ver-
+kürzt aber die Lernumgebung von Schülerinnen und Schülern auf die tech-
+nisch€ Dimension. Die Schülerleistungen werden indes nur besser, wenn
+die Lerngelegenheiten besser, das heißt umfassend gestaltet werden, und
+die Haltungs- und Wertdimensionen miteinbezogen werden. Da die Lehrer-
+Schüler-Interaktion die Basis jeglichen Unterrichts ist und der Unterrichts-
+erfolg nicht zuletzt von den Haltungen und Werten der Lehrkräfte abhängt,
+wäre Unterrichtsentwicklung mit Personalentwicklung zu verbinden.
+   In den erfolgreichen Projekten, bei denen der Erfolg arn merklichen Zu-
+wachs von Schülerleistungen gernessen wurde (z. B. Fullan 2010), wurden
+besonders fähige Lehrkräfte ("Expertteacher" oder "Masterteacher") wei-
+terqualifiziert zu Kollegen-Coaches: Sie gingen eine Woche in die Schule,
+schauten sich erst den Unterricht der Lehrkräfte an, die zu Coachees wur-
+den, gaben Feedback, praktizierten arn folgenden Tag selbst guten Unter-
+richt, planten dann mit den Coachees gerneinsam den Unterricht für den
+nächsten Tag, den der Coachee hielt; anschließend gab der Coach Feedback.
+Die Coaches kamen nach einem halben Jahr zurück zu den Lehrkräften, und             \
+die nächste Runde begann. Anschließend haben die gecoachten Lehrperso-
+nen in ihren Fach- oder Jahrgangsgruppen kollegiale Hospitation eingeführt
+und damit ihre Coaching-Erfahrungen weitergegeben. So entstanden Pro-
+fessionelle Lerngerneinschaften, was ohne Mitwirkung von Schulleiterinnen
+und -leitern und Fachgruppenvorsitzenden nicht möglich gewesen wäre.
+   Coachings und Hospitationen sind· dazu geeignet, Unterrichts- und
+Personalentwicklung zu verknüpfen, ebenso wie das bei Schüler-Lehrer-
+Feedbacks gelingen kann. Beides findet indes bisher oft folgenlos statt, in-
+dem sich Lehrkräfte Feedbacks von Kollegen oder Lernenden holen, diese
+
+[p. 76] [PDF page 76]
+
+jedoch nicht zum Anlass systematischer Unterrichtsentwicklung nehmen,
+manchmal mit den Lernenden auch nicht über die Ergebnisse sprechen; sie
+sind dann unwirksam. Noch einmal: Wenn Maßnahmen zur Unterrichts-
+entwicklung lernwirksam sein sollen, dann müssen sie dicht und konzise
+aufeinander bezogen und ganzheitlich sein.
+    Qualitätsentwicklung muss sich deshalb an einem ganzheitlichen Kon-
+zept orientieren und Lernen in den Mittelpunkt stellen. Qualitätsentwick-
+lung betrifft jede Lehrperson- deshalb sind Lehrpersonen auch so wichtig
+und so bedeutsam, wie sie Hattie darstellt. Aber auch Strukturelemente sind
+wichtig wie die Gremien, die Schulleitung, die Steuergruppe, die Fach- und
+Jahrgangsgruppen und andere mehr. Interne und externe Evaluation kom-
+men dazu. Alle zusammen und ihre Beziehungen untereinander bestimmen
+letztlich die Qualität einer Schule. Qualität ist eine Systemeigenschaft (vgl.
+Rolff 2011) und damit strukturdeterminiert
+    Der Aufbau von ganzheitlichem Qualitätsmanagement setzt nicht nur
+qualifizierte Lehrpersonen, sondern auch ein funktionierendes "mittleres
+Management" von Jahrgangsgruppen- und Fachgruppensprechern voraus,
+das durch eine kompetente Schulleitung initiiert und koordiniert wird. Das
+alles verlangt nach schulnahen, umfassenden und gut ermöglichenden so-
+wie unterstützenden Schulstrukturen.
+
+
+
+Zur Rezeption: Hattie-Studie als Rorschach-Test
+
+
+Es geht in diesem Beitrag nicht darum, gegen die Hattie-Studie zu argumen-
+tieren, sondern um den öffentlichen Umgang mit ihr. Man kann viel aus der
+Hattie-Studie lernen, man kann siy aber auch missbrauchen. Und das ge-
+schieht gegenwärtig in Deutschland: Sie wird von etlichen Autorinnen und
+Autoren weniger als wissenschaftlich basierte Argumentationshilfe, son-
+dern mehr als eine Art Rorschach-Test benutzt, in dessen (visualisierte) Da-
+tenblätter jeder hineinliest, was er oder sie eh vorher gedacht oder gemacht
+haben: Freunde des lehrerzentrierten Unterrichts lesen die Hattie-Studie
+genauso als Bestätigung wie Anhänger reformpädagogischer Konzepte. Die-
+ser Rarschach-Charakter der Verwendung von Forschungsergebnissen kann
+an vielen anderen Beispielen gezeigt werden, hier ist das am Beispiel der
+Schulstruktur-Debatte geschehen. Er schadet nicht nur der Hattie-Studie,
+sondern der Bildungsforschung insgesamt- und noch mehr der Bildungspo-
+
+[p. 77] [PDF page 77]
+
+litik. Deshalb sollte schnellstens davonAbstand genommen werden und nur
+das als Interpretation gelten, was den professionellen Standards entspricht.
+    Es sollten nicht die Lehrkräfte allein für die Qualität von Schule verant-
+wortlich gemacht werden, und schon gar nicht die einzelnen Lehrpersonen.
+Das überfordert sie, stellt zum Teil uneirrlösbare Anforderungen und macht
+sie bei Fehlentwicklungen zu Sündenböcken. Dass es nicht die einzelnen
+Lehrpersonen sind, die eine weniger gute Schule ausmachen, sondern das
+Zusammenspiel von Person und Struktur, zeigt anschaulich die Hauptschu-
+le: Sie hat womöglich die besten Lehrkräfte, aber die schlechteste Struktur.
+Aber das ist ein deutsches Problem ...
+
+Literatur
+Arnhold, Grit (2005): Kleine Klassen- große Klasse? Eine empirische Studie zur Bedeu-
+    tung der Klassengröße für Schule und Unterricht. Bad Heilbrunn: Klinkhardt.
+Bos, Wilfred u.a. (2004): Schullaufbahnempfehlungen von Lehrkräften für Kinder am
+    Ende des vierten Jahrgangs. In: Wilfred Bos u.a. (2004): IGLU- Einige Länder der
+    Bundesrepublik Deutschland im nationalen und internationalem Vergleich. Münster:
+   Waxmann, S. 191-228.
+Deutsches PISA-Konsortium (Hrsg.) (2001): PISA 2000. Opladen: Leske & Budrich.
+Ehmke, Tomo/Jude, Nina (2010): Soziale Herkunft und Kompetenzerwerb. In: Eckart
+    Klieme u.a. (Hrsg.): PISA 2009. Bilanz nach einem Jahrzehnt. Münster: Waxmann,
+    s. 231-253.
+Fullan, Michael (2010): Allsystems go. The changeimperative for whole system reform.
+    London: Sage.
+Hattie, John (2009): Visible learning. A synthesis of over 800 meta-analyses relating to
+    achievement. New York, London: Routledge.
+Holtappels, Hans Günter/Klemm, Klaus/Rolff, Hans-Günter (Hrsg.) (2008): Schulentwick-
+    lung durch Gestaltungsautonomie. Münster: Waxmann.
+Kobarg, Mareike/Prenzel, Manfred (2012): Der Mythos der nordischen Schulsysteme. In:
+
+
+                                                                                             \
+    b:sl Beruf: Schulleitung, 3, S. 22-25.
+Köller, Olaf (2012): What works best in school? Hatties Befunde zu Effekten von Schul-
+    und Unterrichtsvariablen auf Schulleistungen. In: Psychologie in Erziehung und Un-
+    terricht, 59, S. 72-78.
+Mourshed, Mona/Chijioke, Chinezi/Barber, Michael Ch. (2011): How the world's most
+    improved school systems keep getting better. New York. http://www.learningteacher.
+    eu/si tes/learningteacher. eu/files/how-the-worlds-most-improved -school-systems-keep-
+    getting-better_download-version_final. pdf.
+Rolff, Hans-Günter (Hrsg.) (2011): Qualität mit System. Köln: Link.
+Spiewak, Martin (2013): Hattie-Studie- Ich bin Superwichtig! In: Die Zeit, 03.01.2013.
+Stubbe, Tobias C./Bos, Wilfried/Euen, Benjamin (2012): Der Übergang von der Primar-
+    in die Sekundarstufe. In: Wilfred Bos u. a. (Hrsg.): IGLU 2011. Lesekompetenzen von
+    Grundschulkindern in Deutschland im internationalen Vergleich. Münster: Waxmann,
+    S. 227-259.

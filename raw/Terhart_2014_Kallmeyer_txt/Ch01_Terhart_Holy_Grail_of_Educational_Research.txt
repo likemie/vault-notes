@@ -1,0 +1,895 @@
+Die Hattie-Studie in der Diskussion: Probleme sichtbar machen
+Herausgegeben von Ewald Terhart | 1. Auflage 2014 | Seelze: Kallmeyer in Verbindung mit Klett
+ISBN 978-3-7800-4804-2
+
+Leseeinheit 01: Der Heilige Gral der Schul- und Unterrichtsforschung – gefunden? Eine Auseinandersetzung mit Visible Learning
+Ewald Terhart
+Originalseiten 10–23; PDF-Seiten 10–23
+
+[Deutscher Originaltext aus der OCR-Textebene des gescannten PDFs. Die Nummer der Leseeinheit folgt dem Inhaltsverzeichnis; die Beiträge sind im Original nicht nummeriert. Fußnoten und Literatur bleiben im jeweiligen Beitrag. Seitenmarkierungen verweisen auf Buchseite und PDF-Seite. OCR-Fehler können verbleiben; genaue Zitate, Tabellen und Abbildungen bitte am PDF prüfen.]
+
+
+========================================================================
+Ergänzung zum Gesamtband: Vorwort
+========================================================================
+
+[p. 6] [PDF page 6]
+
+Vorwort
+
+
+Es gibt kein anderes neueres erziehungswissenschaftliches Buch, das hier-
+zulande, aber auch in der englischsprachigen Welt, eine derartig große
+Resonanz gefunden hat wie John Hatties 2009 erschienene Arbeit Visible
+Learning. Speziell in Deutschland ist die Resonanz sogar ungewöhnlich
+hoch: Vom Bundespräsidenten über verschiedene Kultusminister und Bil-
+dungsadministrationen - alle zitieren Hattie; in den öffentlichen Bildungs-
+blättern, in den wissenschaftlichen Fachjournalen, in den Institutionen der
+Lehrerbildung, in Lehrerzimmern und auf Elternabenden - überall wird
+auf die Hattie-Studie Bezug genommen. Im Times Educational Supplement
+war nach dem Erscheinen der Hattie-Studie gar die Rede davon, dass nun-
+mehr der "Heilige Gral" der Schul- und Unterrichtsforschung gefunden sei.
+Die hohen Vorbestellungs- und Verkaufszahlen der von Wolfgang Beywl
+und Klaus Zierer besorgten Erarbeitung der deutschen Fassung von Visible
+Learning verleiteten das Magazin Der Stern im März 2013 zu der Schlag-
+zeile, bei John Hatties Buch handele es sich wohl um den "Harry Potter der
+Pädagogen" ...
+    Eine Bewertung zwischen "Heiliger Gral" und "Harry Potter" - allein
+dies erklärt die intensive Rezeption innerhalb und außerhalb der Fachwelt.
+Ein anderer Faktor kommt hinzu: Die breite Resonanz auf Hatties schier
+monumentale Ordnungs- und Auswertungsleistung vorhandener Forschung
+ist vor dem Hintergrund der weltweit intensiven Suche nach vertrauens-
+würdigen und belastbaren empirischen Erkenntnissen zu Fragen von Bil-
+dung, Schule und Unterricht zu sehen. Traditionell herrschen in diesem Wis-
+senschaftsfeld große Unübersichtlichkeit, innere Widersprüchlichkeit und
+deutliche Lückenhaftigkeit. Die Fachleute haben damit zu leben gelernt.
+Außenstehenden auf der Suche nach klaren, handhabbaren Resultaten
+kommt das Ganze jedoch eher wie ein undurchdringlicher Wirrwarr vor. In
+dieser Situation wird jeder, der die Quintessenz des Ganzen plausibel und
+nachvollziehbar zu präsentieren versteht, zum Mann der Stunde.
+    Die Aufregung um die Hattie-Studie hat denn auch alle Elemente ei-
+nes zunehmenden Hypes: Hattie wird im Internet und anderen Medien
+diskutiert, er wird zusammengefasst, interpretiert, interviewt. Wie üblich,
+benutzen Politiker, Wissenschaftler, Verbandfunktionäre und sonstige Inter-
+essenvertreter die Hattie-Studie auf dem Wege selektiver Lektüre und Aus-
+wertung zur Bestätigung ihrer immer schon vertretenen Positionen.
+
+[p. 7] [PDF page 7]
+
+Eine der "Kernbotschaften" Hatties lautet:"Auf den Lehrer kommt es an!" Die Zeit hat sich in einem
+Beitrag von Martin Spiewak mit dem für Lehrer schmeichelhaften Titelich bin superwichtig! näher
+damit beschäftigt (03. 01.2013, S. 55 f.).
+
+
+Der hohe Komplexitätsgrad, die Informationsdichte sowie die Mischung
+unterschiedlicher Darstellungsarten und Argumentationsweisen in Visible
+Learning bieten reichlich Gelegenheit für gezieltes und hier und da selek-
+tives Interpretieren- wobei dies nicht als Vorwurf an denAutor zu gemeint
+ist. Kritiker warnen vor einer Überschätzung der Aussagen Hatties, weisen
+auf seine veraltete Literaturbasis hin, kritisieren die Methode der Meta-
+Metaanalyse, bezweifeln die Übertragbarkeit der Ergebnisse auf Deutsch-
+land oder kritisieren umgekehrt die damit eingeläutete Globalisierung der
+empirisch-psychologisch fundierten Didaktik. Geht es tatsächlich um eine
+"Hattiefizierung des Lehrensund Lernens", wie die Fachdidaktikerin Inez                              \
+De Florio-Hansen besorgt fragt?
+    Und der Hattie-Hype geht weiter: Kurzfristig ist in Buchform eine ei-
+gentümlich imitative Kurzfassung der Hattie-Studie auf Deutsch erschie-
+nen - und sehr schnell wieder vom Markt verschwunden. John Hattie und
+Eric An derman haben eine voluminöse Übersicht über den aktuellsten For-
+schungsstand zu den Faktoren erfolgreichen Unterrichtens herausgegeben
+(2012), und in diesem Frühjahr erscheint die deutsche Ausgabe von Hatties
+Visible Learning for Teachers, wiederum besorgt von Wolfgang Beywl und
+Klaus Zierer.
+
+[p. 8] [PDF page 8]
+
+Dabei muss gesehen werden, dass die Hattie-Studie ein ständig weiter lau-
+fendes Projekt ist, denn mittlerweile hat John Hattie mehr als 1.000 Me-
+tastudien einbezogen. Grundlegende Verschiebungen hinsichtlich der (in
+positiver wie negativer Hinsicht) einflussreichsten Faktoren hat es meines
+Wissens nicht gegeben. In Hatties aktuellen Kommentaren scheint ein för-
+derndes Klassenklima sowie die für Schüler erkennbare Leidenschaft des
+Lehrers für den Lernerfolg seiner Schüler scheinen stärker in den Vorder-
+grund zu rücken.
+   Der vorliegende Band zielt darauf ab, in unterschiedlich ansetzenden
+Beiträgen die Leistungen und die Grenzen der Hattie-Studie herauszuar-
+beiten. In gewisser Weise ist der Band selbst ein Teil des Hypes um Hattie.
+Aber jede Aufregung braucht Abklärung. Insofern will der Band Probleme
+sichtbar machen, zu ihrer sachlichen Klärung beitragen und Perspektiven
+eröffnen. Durchweg werden Verbindungen zur Diskussion über Schule,
+Lehrerberuf und Unterricht in Deutschland hergestellt. Die Texte wenden
+sich nicht primär an das wissenschaftliche Fachpublikum im engeren Sinne,
+an die Spezialisten für Unterrichtsforschung, Metaanalyse etc., sondern an
+Lehrkräfte und Lehramtsstudierende, an die Verantwortlichen in der Leh-
+rerbildung und Lehrerberuf sowie an die an Bildungsfragen interessierte
+Öffentlichkeit. In allen Beiträgen wird ein inhaltlich und methodisch dif-
+ferenziertes Bild gezeichnet und eine entsprechend abgewogene Einschät-
+zung formuliert; keineswegs geht es um pauschale Ablehnung oder kritik-
+lose Adaption. Bei der Gestaltung der Beiträge wurde besonderer Wert auf
+Verständlichkeit und auf die Frage nach der praktischen Anwendung gelegt,
+und zwar mit Blick auf ein Publikum, das eben gerade nicht mit den kon-
+zeptionellen und methodischen Finessen der empirischen Unterrichts- und
+Schulforschung vertraut ist.
+   Nach einigen einführenden Beiträgen, die sich kritisch-würdigend mit
+der Methodik und Intention von Visible Learning befassen, wird am Bei-
+spiel der Themen Didaktik und Unterricht, Schulstrukturen, Kooperatives
+Lernen und mit Blick auf die Fächer Mathematik und Geschichte gezeigt,
+wie sich die Befunde in Visible Learning auf konkrete schulpädagogische
+und (fach-)didaktische Fragestellungen anwenden lassen. Ein abschließen-
+der und weiterführender Beitrag verdeutlicht die Übersetzungs- und Inter-
+pretationsproblerne der Hattie-Studie in Deutschland.
+   Insgesamt wird deutlich: John Hatties Studie ist dann ein nützliches Ins-
+trument, wenn man seine Leistungen und Grenzen einzuschätzen weiß und
+
+[p. 9] [PDF page 9]
+
+in reflektierter und kreativerWeise damit umgeht. Kurzschlüssige Folgerun-
+gen aus einzelnen Befunden Hatties zu ziehen ist dagegen irreführend, ja
+gefährlich- und keineswegs im Sinne des Autors.
+
+
+
+                                                 Münster, im Januar 2014
+                                                            Ewald Terhart
+
+
+
+
+                                                                             \
+
+
+========================================================================
+Ergänzung zum Gesamtband: Die Autorinnen und Autoren
+========================================================================
+
+[p. 163] [PDF page 163]
+
+Die Autorinnen und Autoren
+
+Mattbias Bernhard ist wissenschaftlicher Mitarbeiter am Heinz Nixdorf-Stif-
+tungslehrstuhl für Didaktik der Mathematik an der Technischen Universität
+München. Er ist Gymnasiallehrer mit beiden Staatsexamina und derzeit in der
+Lehrerausbildung tätig. Sein Forschungsinteresse gilt der Kompetenzentwick-
+lung im Primar-und frühen Sekundarschulalter.
+
+Prof. Dr. Wolfgang Beywl leitet seit 2010 die Professur für Bildungsmanage-
+ment sowie Schul- und Personalentwicklung an der Pädagogischen Hochschule
+FHNW Nordwestschweiz. Er lehrt Evaluation in Aus- und Weiterbildungspro-
+grammen in- und ausländischer Hochschulen und hat mehrere Lehrbücher über
+Evaluation verfasst. Er arbeitet an Forschungs- und Entwicklungsprojekten zur
+unterrichtsintegrierten Selbstevaluation sowie zur evidenzbasierten Professio-
+nalisierung von Lehrpersonen.
+
+Dr. Hans Brügelmann war nach seiner Mitarbeit beim Deutschen Bildungsrat
+und in verschiedenen Evaluationsprojekten von 1980 bis 1993 Professor für
+Anfangsunterricht mit dem Schwerpunkt Erstlesen/Erstschreiben an der Uni-
+versität Bremen und danach bis 2012 Professor für Grundschulpädagogik und
+-didaktik an der Universität Siegen. Seitdem ist er Fachreferent für Qualitätsent-
+wicklung im Grundschulverband und freier Bildungsjournalist 2005 veröffent-
+lichte er Schule verstehen und gestalten im Libelle Verlag.
+                                                                                      c
+                                                                                      2
+                                                                                      0
+Prof. Dr. Marko Demantowsky leitet seit 2012 die Professur für Didaktik der           ::;
+                                                                                      <(
+
+Gesellschaftswissenschaften und ihre Disziplinen an der Pädagogischen Hoch-           u
+                                                                                      c
+                                                                                       :::J
+schule FHNW (Basel!Windisch). Zuvor war er als Hochschullehrer an den Uni-            c
+                                                                                      QJ
+                                                                                      c
+versitäten Bochum, Jena und Siegen tätig. Er ist Co-Autor des 2013 erschiene-
+                                                                                      ·s
+                                                                                      c
+
+nen Bandes Forschungsmethoden und Forschungsstand in den Didaktiken der               :::J
+                                                                                      <(
+kulturwissenschaftlichen Fächer.                                                       QJ
+                                                                                      0
+
+Prof. Dr. Olaf Köller ist Professor für empirische Bildungsforschung an der
+Christian-Albrechts-Universität zu Kiel und Geschäftsführender Direktor des
+                                                                                      \
+Leibniz-Instituts für die Pädagogik der Naturwissenschaften und Mathematik.
+Forschungsschwerpunkte: Leistungsmessung und Lehr-Lern-Forschung.
+
+Thomas Kremers ist Gesamtschullehrer, Fachleiter für Sozialwissenschaften am
+Zentrum für schulpraktische Lehrerausbildung Oberhausen und Schulentwick-
+lungsberater; er moderierte zahlreiche Lehrerfortbildungen zum Kooperativen
+Lernen im In- und Ausland und veröffentlichte sowohl zu diesem Thema als
+auch zu diversen sozial-ethischen Fragestellungen zahlreiche Aufsätze.
+
+[p. 164] [PDF page 164]
+
+Prof. em. Dr. Hilbert Meyer war von 1975 bis 2009 Professor für Schulpädago-
+gik an der Carl von Ossietzky Universität Oldenburg. Er ist Autor zahlreicher
+Publikationen zur Didaktik und Schulpädagogik Er initiierte zusammen mit
+anderen reformpädagogische Projekte an der Universität Oldenburg und ent-
+wickelte unter anderem das Konzept eines handlungsorientierten Unterrichts.
+
+Hans-Joachim von Olberg ist Wissenschaftlicher Mitarbeiter am Institut für Er-
+ziehungswissenschaft der Universität Münster. Nach seiner Lehrerausbildung
+hat er an der Entwicklung von Curricula besonders für die integrierte Sekun-
+darstufe II und den sozialwissenschaftliehen Unterricht gearbeitet und ist seit
+1979 in der bildungswissenschaftlichen Lehre für Lehramtsstudiengänge tätig.
+Zwischen 2002 und 2012 war er Studiendekan des Fachbereichs Erziehungs-
+wissenschaft und Sozialwissenschaften der Universität Münster.
+
+Prof. Dr. Hans Anand Pant ist seit 2010 Professor für Erziehungswissenschaft-
+liehe Methodenlehre an der Humboldt-Universität zu Berlin und Direktor des
+Instituts zur Qualitätsentwicklung im Bildungswesen (IQB). In Forschung und
+Lehre beschäftigt er sich unter anderem mit Bildungsstandards, der Einführung
+von Innovationen in Schulen und der Validität von Methoden der Kompetenz-
+messung.
+
+Prof. Dr. Kristina Reiss hat den Heinz Nixdorf-Stiftungslehrstuhl für Didaktik
+der Mathematik an derTechnischen Universität München inne. Sie bildet an der
+TUM School of Education Studierende aus, die ein Lehramt an Gymnasien oder
+Beruflichen Schulen mit dem Fach Mathematik anstreben. Ihr Forschungsinter-
+esse gilt der Entwicklung mathematischer Kompetenz in Schule und Universität.
+
+Prof. em. Dr. Hans-Günter Rolff ist emeritierter Professor für Bildungsforschung
+am Institut für Schulentwicklungsforschung (IFS) der TU Dortmund, Vorsitzen-
+der des Akademierats der DeutschenAkademie für Pädagogische Führungskräf-
+te (DAPF) und wissenschaftlicher Leiter des Fernstudienganges "Schulmanage-
+ment" der TU Kaiserslautern.
+
+Prof. Dr. Ewald Terhart ist Professor für Erziehungswissenschaft mit dem
+Schwerpunkt Schulpädagogik und Allgemeine Didaktik an der Universität
+Münster. SeineArbeitsschwerpunkte sind Lehrerberuf und Lehrerbildung. Hier-
+zu hat er Forschungsprojekte durchgeführt und zahlreiche Publikationen vor-
+gelegt. Darüber hinaus war und ist er in mehreren Reformkommissionen zur
+Lehrerbildung tätig.
+
+[p. 165] [PDF page 165]
+
+Dr. Monika Waldis ist wissenschaftliche Mitarbeiterin im Zentrum für Demokra-
+tie Aarau, Abteilung Politische Bildung und Geschichtsdidaktik sowie Dozentin
+für Erziehungswissenschaft an der Pädagogischen Hochschule FHNW in Basel/
+Windisch, unter anderem mit den Forschungsschwerpunkten videobasierte Un-
+terrichtsforschung und Professionalisierung von Lehrpersonen.
+
+Prof. Dr. KlausZiererist seit 2011 Professor für Erziehungswissenschaften mit
+dem Schwerpunkt Allgemeine Didaktik/Schulpädagogik an der Carl von Os-
+sietzky Universität Oldenburg. Er war von 2004 bis 2009 als Grundschullehrer
+tätig. Im Rahmen seiner Habilitation war er im Trinity Term 2009 Visiting Re-
+search Fellow am Department of Education der University of Oxford und ist seit
+2010 Associate Research Fellow am dort angesiedelten ESRC Centre on Skills,
+Knowledge and Organisational Performance (SKOPE).
+
+
+
+
+                                                                                   c
+                                                                                   (1:'
+                                                                                  8:J
+                                                                                  <(
+                                                                                  u
+                                                                                  c
+                                                                                   :J
+                                                                                  c
+                                                                                   ClJ
+                                                                                   c
+                                                                                   c
+                                                                                  ·s
+                                                                                   :J
+                                                                                  <(
+                                                                                   ClJ
+                                                                                  0
+
+
+                                                                                  \
+
+
+========================================================================
+Beitrag mit Anmerkungen und Literatur
+========================================================================
+
+[p. 10] [PDF page 10]
+
+Ewald Terhart
+
+
+Der Heilige Gral der Schul- und
+Unterrichtsforschung- gefunden?
+Eine Auseinandersetzung mit Visible Learning 1
+
+Visible Learning von John Hattie gehört gegenwärtig zweifellos zu den
+meistdiskutierten Arbeiten zur empirischen Schul- und Unterrichtsfor-
+schung. Wie geht Hatties in seiner Studie vor? Was sind seine zentralen
+Botschaften? Wo sind die Grenzen seiner wahrhaft monumentalen Sam-
+mel- und Ordnungsleistung?
+
+
+Der neuseeländische Bildungsforscher John Hattie hat mit Visible Learning
+(2009) eine Monografie vorgelegt, die einen Meilenstein in der Debatte um
+die Voraussetzungen und Bedingungen erfolgreichen Lernens in der Schule
+darstellt. Es handelt sich um eine einzigartige Leistung, denn eine derart
+breite Aufarbeitung der Forschung zu den Bedingungen schulischen Lern-
+erfolgs hat es bislang noch nicht gegeben: Auf der Basis der Auswertung von
+mehr als 800 Metaanalysen, in die insgesamt mehr als 52.637 Einzelstudien
+eingegangen sind, geht es auf 378 sehr eng bedruckten Seiten um die Frage,
+welche Faktoren schulisches Lernen mehr oder weniger stark beeinflus-
+sen. Das Literaturverzeichnis umfasst ca. 1.700 Titel. Durch Auswertung
+der Datenbasis destilliert Hattie die Effektstärke von 138 Einzelfaktoren
+für schulischen Lernerfolg heraus, die er in 6 thematische Gruppen ordnet:
+Lernende, Familie, Schule, Lehrpersonen, Lehrpläne, Unterricht. Unab-
+hängig von dieser Gruppierung bringt er alle 138 Einzelfaktoren nach der
+Stärke ihres Effekts in eine Rangreihe. Hatties Buch, das seiner Auskunft
+nach auf eine 15-jährige Arbeit zurückgeht, ist in der englischsprachigen
+Fachwelt intensiv aufgenommen worden. Im November 2008 war im Times
+
+
+1   Der Beitrag ist zuerst erschienen in: E. Keiner u.a. (Hrsg.): Metamorphosen der Bildung. Historie -
+    Empirie- Theorie. Festschrift für Heinz-Elmar Tenorth. Bad Hej]brunn: Klinkhardt 2011, S. 277-292.
+    Er wurde für die Veröffentlichung in diesem Diskussionsband gekürzt. Die englischsprachige Fassung
+    erschien als: Has ]ahn Hattie really found the Holy Grail of research on teaching? An extended review
+    ofVisible Learning. In: Journal of Curriculum Studies 43 (2011), 3, S. 425-438.
+
+[p. 11] [PDF page 11]
+
+Education Supplement zu lesen, dass Hatties Suche nach den Erfolgsbedin-
+gungen schulischen Lernens am ehesten mit der Suche nach dem "Heiligen
+Gral" zu vergleichen sei. Die Visible Learning Laboratories der Universität
+Auckland/Neuseeland (deren Direktor John Hattie ist ... ), weisen auf ihrer
+Hornepage recht unbescheiden darauf hin, dass die Suche nunmehr beendet
+sei: Education professor delivers "Holy Grail" ... 2
+    - Um der Neugierde der Leserinnen und Leser gleich hier entgegen-
+        zukommen: Von den 6 genannten Faktorengruppen ist "Lehrperson"
+        die effektstärkste. Die 3 effektstärksten Einzelfaktoren sind: Selbst-
+        einschätzung des Leistungsstandes durch Lernende, die Fundierung
+        des Unterrichts auf dem Piaget'schen Ansatz der Kompetenzstufen,
+        die ständige Erhebung und Bereitstellung von Informationen zum in-
+        dividuellen Lernfortschritt der Lernenden an die Lehrpersonen und
+       ·an die Lernenden.
+    - Die schwächsten i. S. v. wirkungslosesten Faktoren sind j ahrgangs-
+        übergreifender Unterricht, die Verfügung der Lernenden über ihr
+        eigenes Lernen sowie die Gegenüberstellung von offenem und tradi-
+        tionellem Unterricht.
+        Die negativsten, das heißt am stärksten den Lernerfolg behindernden
+        Faktoren sind Sitzenbleiben, Fernsehen und familiale Mobilität (Umzug).
+Im Folgenden möchte ich eine genauere Analyse der Vorgehensweise und
+der Ergebnisse der Analysen Hatties durchführen. Dabei geht es jedoch nicht
+nur um die Überprüfung von metaanalytischen Schritten und die Erörte-
+rung der Stabilität und Plausibilität der erhaltenen Ergebnisse etc. Hattie hat
+seine Analyse der empirischen Forschung zu den Bedingungen schulischen
+Lernens in theoretische Kontexte eingeordnet, man könnte sagen: in eine be-
+stimmte Theorie des Unterrichts, des Lernens der Schülerinnen und Schüler
+und der Arbeit der Lehrpersonen. Diese Kombination von breitester empi-                                  \
+rischer Fundierung und theoretischer Kontextuierung macht die Arbeit von
+Hattie besonders interessant für die Diskussion um das Verhältnis von allge-
+meiner Didaktik und empirischer Unterrichts- und Schulforschung und bil-
+det eine wichtige Anschlussstelle für bildungstheoretische Argumentationen.
+    Ich gehe zunächst auf Hatties Methode der Bündelung von Effektstär-
+ken ein und beschreibe und diskutiere im Anschluss hieran sein Verständnis
+von Unterricht. Besondere Beachtung verdienen die Ergebnisse zum Faktor
+
+
+2   http://www.visiblelearning.eo.nz/asttle/pageloader.sapx?page=1184d123d0d0 (Zugriff: 23. 03. 2010).
+
+[p. 12] [PDF page 12]
+
+"Lehrperson" sowie Hatties Modeliierung des guten Lehrers. Im letzten
+Abschnitt werden Hatties Ergebnisse und Vorschläge zusammenfassend
+diskutiert und bewertet, denn schließlich muss ja die Frage beantwortet
+werden, ob er denn nun tatsächlich den Heiligen Gral der Unterrichtsfor-
+schung gefunden hat! Eine Einschätzung der Bedeutung und Zukunft von
+Metaanalysen schließt den Gedankengang ab.
+
+
+
+Methode
+
+Hatties Meta-Metaanalyse fasst die Ergebnisse der Forschungsübersichten
+nicht in "literarischer" Weise zusammen, sondern bezieht sich auf die teils in
+den Untersuchungen und Metaanalysen ausgewiesenen, teils von ihm selbst
+zusammengefassten Daten zur Effektstärke (effect size). Dieser statistische
+Kennwert vermittelt - ergänzend zur Signifikanz bzw. zum Signifikanz-
+niveau- zusätzliche Informationen: statistische Signifikanz drückt bekannt-
+lich aus, dass ein bestimmtes Ergebnis nicht zufällig zustande gekommen ist.
+Ist etwa die Differenz zwischen den Mittelwerten von Experimental- und
+Kontrollgruppe auf dem Niveau von p < 0.05 (schwach) signifikant, so be-
+deutet dies, dass dann, wenn man diese Untersuchung 100-mal durchführen
+würde, nur bei 5 dieser Untersuchungen die erhaltenen Differenzen noch
+durch Zufall erklärt werden könnten, die Differenzen bei 95 Untersuchun-
+gen aber überzufällig, das heißt systematisch wären. Es liegt also ein Effekt
+vor. Wie groß und wie praktisch bedeutsam er jedoch ist, weiß man damit
+noch nicht.
+    Die Effektstärke d drückt demgegenüber die Stärke und vor allem: prak-
+tische Bedeutsamkeit eines Ergebnisses, zum Beispiel einer Mittelwertdif-
+ferenz, aus. Hat etwa ein bestimmter Einflussfaktor auf die Schülerleistung
+eine Effektstärke von d = 1.0, so bedeutet dies, dass aufgrunddieses Faktors
+die durchschnittliche Leistung der erfassten Gruppe um eine Standardab-
+weichung steigt. Führt man diesen Faktor mit d = 1.0 neu in den Unterricht
+ein, würden diejenigen Lernenden, die an diesem Programm teilnehmen,
+im Durchschnitt oberhalb von 84% derjenigen Lernenden liegen, die an
+dem Programm nicht teilnehmen. Insofern ist eine Effektstärke von 1.0 ein
+in der Tat sehr starker Effekt. Hattie weist auf eine von Cohen (1988) ver-
+wendete Analogie hin: Bei der menschlichen Körpergröße bedeutet d = 1.0
+einen Unterschied zwischen einer Person, die 160 cm groß ist, und einer
+
+[p. 13] [PDF page 13]
+
+anderen, die 183 cm groß ist: ein massiver, sofort sichtbarer Unterschied. -
+Überflüssig zu sagen, dass Effektstärken keine Kausalität ausdrücken!
+    Für seine Zwecke beurteilt Hattie eine Effektstärke von 0.2 als klein,
+von 0.4 als mittelmäßig und ein d oberhalb von 0.6 als groß. Die von ihm
+für 138 untersuchte Faktoren ermittelten Effektstärken schwanken zwischen
+-0.61 (ein sehr starker negativer Effekt) und +2.0 und größer (ein extrem
+starker positiver Effekt). Der allergrößte Teil der dokumentierten Effekt-
+stärken liegt allerdings zwischen -0.05 und +0.8. Übrigens sind 95% aller
+Effektstärken positiv. Das bedeutet: fast alles wirkt positiv, aber unterschied-
+lich stark! Etwa die Hälfte der 138 untersuchten Faktoren weist eine Effekt-
+stärke von größer als 0.4 auf, der andere Teilliegt darunter. Hattie setzt aus
+verschiedenen Gründen die Grenze, ab der man einen Faktor als ernsthaft
+und als solchen erkennbar wirksam ansehen kann, bei d = 0.4 fest. Dies ist
+für ihn die kritische Schwelle, die überschritten sein muss, damit man von
+erkennbaren Effekten einzelner Faktoren sprechen kann. Denn der allgemei-
+ne Effekt von Erziehung, Schule, Unterricht und Lehrerarbeit ist ja ebenfalls
+anzurechnen; besonders wirksame einzelne Faktoren müssen also oberhalb
+von 0.4liegen.Alles zusammen bis d = 0.4 drücke gewissermaßen den Effekt
+der Existenz von Schulen, Unterricht und Lehrerberuf an sich aus.
+    Bei der Aufbereitung der Effektstärken verschiedenster Faktoren, die die
+Leistung von Lernenden beeinflussen, nimmt Hattie - wie erwähnt - eine
+Einteilung in sechs Faktorengruppen vor: Lernende, Familie, Schule, Lehr-
+personen, Lehrpläne, Unterricht. Tab. 1 verdeutlicht den Materialumfang
+der Studie sowie die zusammengefassten Effektstärken der genannten sechs
+Faktorengruppen.
+
+ Faktorenbündel     Anzahl
+                    Metaanalysen
+                                      Anzahl
+                                      Studien
+                                            11101
+                                                     Anzahl
+                                                     Lernende
+                                                                     Anzahl
+                                                                     Effekte
+                                                                                      d
+                                                                                                  \
+ Lernende                       139                      7513406           38287           0.40
+ Familie                         36          2211       11672658            5182           0.31
+ Schule                         101          4150        4416898           13348           0.23
+ Lehrpersonen                    31          2225         402325            5559           0.49
+ Lehrpläne                      144          7102        6899428           29220           0.45
+ Unterricht                     365         25860       52128719           55143           0.42
+ Summe                          816         52649.      83033433          146626             -
+ Durchschnitt                     -              -               -              -         -0.40
+
+Tab. 1: Durchschnittliche Effekte der wichtigsten Determinanten schulischen Lernens
+(Hattie 2013, S. 22, gekürzt)
+
+[p. 14] [PDF page 14]
+
+Auf der Ebene der Faktorengruppen weist "Lehrpersonen" die größte Ef-
+fektstärke auf (0.49), die geringste kommt "Schule" zu (0.23). Hattie kom-
+mentiert dies wie folgt: Nimmt man zwei Lernende der gleichen Leistungs-
+fähigkeit, so ist es für ihr weiteres schulisches Lernen weniger wichtig, zu
+welcher Schule sie gehen. Der Einfluss der Lehrpersonen, des Lehrplans
+und des Unterrichts ist demgegenüber stärker.
+    Die 815 Metaanalysen, auf die Hattie sich stützt, stammen zum aller-
+größten Teil aus den 1980er und 1990er Jahren; ein etwas kleinerer Teil
+wurde nach 2000 publiziert. Die älteste ist von 1980, die jüngste von 2008.
+Wenn man bedenkt, dass in die Metaanalysen dominierend Einzelstudien
+eingegangen sind, die ca. 5 Jahre alt sind, so ist der größere Teil der ori-
+ginären Datenbasis doch schon ziemlich betagt. Vielleicht ist dies mit ein
+Grund dafür, dass zum Beispiel die Studien zu den Effekten des fach- und
+fachdidaktischen Wissens von Lehrenden noch nicht eingegangen sind: Hier
+ist gegenwärtig nämlich ein anders Bild zu zeichnen, als Hattie dies tut.
+Dies gilt auch für die Studien zu den Effekten von Lehrerbildung und ihren
+Komponenten.
+    Auffällig ist, dass Hattie keine gerraue Auskunft zu der Frage der Quali-
+tätsstandards gibt, die er anlegt, wenn er eine Einzelstudie bzw. eine Me-
+taanalyse in seine Meta-Metaanalyse aufnimmt. Üblicherweise verwenden
+die Autoren von Metaanalysen viel Energie und Aufwand für die Beantwor-
+tung dieser Frage, denn von der Striktheit der Zulassungskriterien hängt am
+Ende natürlich der Wert bzw. die Überzeugungskraft der erhaltenen Ergeb-
+nisse ab. Vermutlich zieht Hattie alle greifbaren Metaanalyen heran; jede
+von diesen hat unterschiedlich strenge Zulassungskriterien für die Einzel-
+studien, die in sie eingehen. Auf diese Weise gehen in seine Berechnung der
+gebündelten Effektstärke der 138 Faktoren Einzelstudien bzw. Metaanaly-
+sen sehr unterschiedlicher Qualität ein, wobei das Spektrum von experi-
+mentellen Studien bis hin zu sehr weit gehaltenen, weniger kontrollierten
+Survey-Studien reichen kann. Auf diese Weise ist der schiere Umfang der
+empirischen Basis überaus beeindruckend, zugleich aber die Qualität ih-
+rer unterschiedlichen Zonen und Kleinzonen - vorsichtig formuliert - ver-
+mutlich sehr unterschiedlich. Hierüber erfahren die Leserinnen und Leser
+jedenfalls nichts.
+
+[p. 15] [PDF page 15]
+
+Unterricht
+
+
+In dem Kapitel mit der Überschrift Visible Teaching and Visible Learning,
+das dem Bericht über die Ergebnisse der Metaanalyse vorangestellt ist, stellt
+Hattie die Konsequenzen seiner Analyse für den Unterricht sowie für das
+Lehrerhandeln vor. Die overall message lautet: Unterricht ist dann erfolg-
+reich, wenn Lehrende das Lernen mit den Augen der Lernenden sehen und
+Lernende sich selbst als ihre eigenen Lehrerinnen und Lehrer betrachten.
+Oder mit Hatties Worten:
+      "Am wichtigsten ist, dass das Lehren für die Lernenden sichtbar ist und dass umge-
+      kehrt das Lernen für die Lehrperson sichtbar ist. Je mehr die Lernenden zur Lehr-
+      person werden und je mehr die Lehrperson zum bzw. zur Lernenden wird, des-
+                                                                                                      c
+                                                                                                      Q)
+      to ertragreicher sind die Outcomes. [ ... ] Das Modell des sichtbaren Lehrens und              'D
+                                                                                                      c
+                                                                                                     2Q)
+      lernens kombiniert lehrerzentriertes Lehren und schülerzentriertes Lernen, statt                Ol
+                                                                                                      I
+      beide gegeneinander auszuspielen:'                    (Hattie 2013, S. 31; deutsche Fassung)    Ol
+                                                                                                      c
+                                                                                                      :J
+                                                                                                     _c
+                                                                                                      ~
+Diese Formulierung enthält in nuce Hatties Unterrichtstheorie. Sie um-
+                                                                                                     ~
+schließt sowohl eine Theorie des Schülerlernens als auch eine Theorie des
+                                                                                                     _c
+
+
+                                                                                                     ·""~
+Lehrerhandeins im Unterricht. Eine besondere Rolle spielt hierbei das Se-                             c
+                                                                                                     ::::>
+hen, genauer: die Perspektive bzw. Perspektivenübernahme. Für Lehrperso-                             'D
+                                                                                                      c
+                                                                                                      :J
+
+nen wie Lernende kommt es darauf an, ein auf sich selbst zentriertes Sehen,
+eine selbstzentrierte Perspektive zu überwinden: Lehrpersonen müssen die
+Perspektive ihrer Lernenden einnehmen können, und Lernende müssen
+sich als ihre eigenen Lehrer betrachten. Die Betonung dieser spezifischen
+Arten zu sehen erklärt den Titel Visible Learning, der in knapper Form nicht
+sinngerecht ins Deutsche zu übertragen ist: Eine Wendung wie "sichtbares
+Lernen" geht am Gemeinten vorbei. Die Übersetzer der deutschenAusgabe
+(Hattie 2013), W. Beywl und K. Zierer, haben sich für "Lernen sichtbar ma-                           \
+chen" entschieden. Das ist eine gute Übertragung. Sinngerecht, aber sehr
+viel umständlicher wäre "Explizites Unterrichten- aktives Lernen".
+   Auf der Basis der analysierten Studien zeichnet Hattie ein Bild der akti-
+ven, verantwortlichen, sowohl direktiven als auch sich - bei entsprechender
+Situation - zurückhaltenden Lehrperson, der sich in sehr genauer Kenntnis
+der Lernvoraussetzungen und Lernprozesse ihrer Schülerinnen und Schüler
+immer wieder für ihre berufliche Aufgabe zu interessieren und zu engagie-
+ren vermag. Das Hineinbringen von Lernenden in inhaltsbezogenes Lernen,
+Probieren, Denken und Urteilen ist der entscheidende Punkt- nebenbei be-
+
+[p. 16] [PDF page 16]
+
+merkt: wahrlich keine besonders grundstürzende didaktische Entdeckung!
+Faktum ist aber gleichwohl, dass genau dies in allzu vielen Unterrichtsstun-
+den bei einem allzu großen Teil der physisch anwesenden Lernenden eben
+nicht gelingt. Hatties ideale Lehrperson kann sich in ihre Schülerinnen und
+Schüler hineinversetzen und die Lernaufgaben und Lernschwierigkeiten
+"mit den Augen der Schüler" wahrnehmen. Diese Lehrperson ist vor al-
+lem daran interessiert, sich selbst Informationen und Rückmeldungen über
+die Folgen seines didaktischen Handeins zu beschaffen. Die kontinuierliche
+Kontrolle der Wirksamkeit des eigenen Tuns ist die Schlüsselbedingung für
+erfolgreiche, das heißt sich selbst ständig nachsteuernde didaktische Arbeit.
+Aber nicht nur die Rückmeldung an sich selbst ist wichtig. Ebenso ist es von
+entscheidender Bedeutung, dass und wie eine Lehrperson Rückmeldungen
+an ihre Schülerinnen und Schüler gibt und auf diese Weise deren Lernen
+begleitet.
+   Diesem Bild der engagierten, hoch aktiven Lehrperson entspricht eine
+Modellierung des Lernenden, der sein eigenes Lernen zu beobachten, be-
+werten und verbessern versteht. Die metakognitive Perspektive beinhaltet
+den Blick auf das eigene Lernen, den eigenen Lernfortschritt, die eigenen
+Lernschwierigkeiten und -defizite. Beide - Lehrende wie Lernende - müs-
+sen Lernen sehen, das heißt erkennen können, es muss für beide sichtbar,
+visible werden. Aus diesen Ideal-Bildern resultiert die Notwendigkeit einer
+positiven Lehrer-Schüler-Beziehung, weilletztlich beide gemeinsam an dem
+einen Produkt - Lernen - zu arbeiten haben. Und Lernen meint hier nicht
+nur das Lernen der Schülerinnen und Schüler mit Blick auf die Sache sowie
+auf sich selbst als Lernenden, sondern auch das Lernen des Lehrers über
+sein eigenes didaktisches Handeln.
+   Hattie wendet sich gegen konstruktivistische Didaktik:
+      "Konstruktivismus wird zu oft im Sinne eines schülerzentrierten, forschenden Ler-
+      nens, problem- und aufgabenbasierten Lernens gesehen und dann in der Fach-
+      welt mit Begriffen wie ,authentisches; ,entdeckendes', und ,intrinsisch motiviertes
+      Lernen' belegt. Es wird gesagt, dass die Rolle der konstruktivistischen Lehrperson
+      vor allem darin liege, Gelegenheiten für einzelne Lernende zu schaffen, dass diese
+      durch eigene Aktivität und durch Diskussion, Reflexion und Austausch von Einfäl-
+      len mit anderen Lernenden Wissen erwerben und Bedeutung konstruieren kön-
+      nen, und dassalldies mit minimaler korrigierender Intervention verbunden ist[ ... ].
+      Solche Aussagen sind aber fast das genaue Gegenteil eines erfolgreichen Rezepts
+      für Lehren und Lernen, wie es in den folgenden Kapiteln entfaltet wird, zu den
+
+[p. 17] [PDF page 17]
+
+Rezepten für erfolgreiches Unterrichten und Lernen, die ich in meinem Buch ent-
+      wickle:'
+                                                                        (Hattie 2013, S. 32)
+
+
+
+
+Lehrpersonen
+
+
+Natürlich- auf die Lehrerinnen und Lehrer kommt es an ("teachers mat-
+ter", "teachers make a difference" ... )!Aber genauer muss man sagen: Nur
+bestimmte Lehrpersonen mit bestimmten Verhaltensweisen sind hochwirk-
+sam: "Was ,einige' Lehrpersonen tun, ist wichtig- insbesondere was jene
+tun, die auf besonders überlegte und sichtbare Weise lehren" (Hattie 2013,
+S. 28). Aber nicht alle sind Expertinnen und Experten, viele sind durch-
+schnit-tlich, und manche auch unterdurchschnittlich. Dadurch wird deutlich,
+dass es positiv wie negativ auf die Lehrperson ankommt. Eine solche, Positi-
+ves wie Negatives zusammenfassende Betrachtung ist übrigens immer dann
+gemeint, wenn es heißt, der Faktor "Lehrperson" erkläre diesen oder jenen
+Anteil der Varianz der Lernleistungen der Lernenden (ebda., S. 128 ff.) -
+Ein entscheidender Punkt für die Wirksamkeit einer Lehrperson scheint die
+Einschätzung der Qualität ihres Unterrichts durch die Lernenden zu sein
+(ebda., S. 42). Und hierfür wiederum spielt für die Lernenden die Fähigkeit                    __!_
+
+                                                                                               L
+                                                                                                ::J
+                                                                                                u
+einer Lehrperson, sie in das Lernen hineinzubringen, die entscheidende                         V)
+
+                                                                                                Q:;
+                                                                                               -o
+Rolle. In einigem Abstand hierzu kann man weitere Wirkfaktoren nennen:
+Die Erwartungen von Lehrpersonen an die Leistung und das Leistungsver-
+mögen ihrer Lernenden sowie ihre subjektive Unterrichtstheorie, ihr Ver-
+ständnis von und Überzeugungen zu Unterricht und Schülerlernen.
+    Nye/Konstantopoulos/Hedges (2004) kommen in ihrer Metaanalyse zu
+dem Schluss, dass der Faktor "Lehrperson" (und der schließt gute, mittlere                     \
+und schlechte Lehrende ein!) zwischen 8 und 21 % der Varianz der Lern-
+leistungen der Lernenden erklärt. Dem korrespondiert eine durchschnitt-
+liche Effektstärke von d = 0.32, welche anzeigt, dass die Steigerung der
+Lehrerleistung um eine Standardabweichung die Lernleistung der Schüle-
+rinnen und Schüler um 1/3 Standardabweichung erhöhen würde (Hattie
+2009, S. 108). Der Lehrerfaktor wirkt übrigens im Mathematikunterricht
+deutlich nachhaltiger als beim Lesenlernen. Für Kinder in Schulen in einem
+schwierigen sozialen Umfeld ist es deutlich entscheidender, ob sie von einer
+guten oder einer schlechten Lehrperson unterrichtet werden, als für Kinder
+
+[p. 18] [PDF page 18]
+
+in Schulen in einem besser situierten, bildungsnahen Umfeld. Die Dauer
+der Berufserfahrung einer Lehrperson sowie die Art ihrer Ausbildung3 wir-
+ken sich nicht erkennbar aus, ebenso - überraschenderweise - nicht das
+Ausmaß des Fachwissens der Lehrpersonen. Die Unterschiede zwischen
+regulär qualifizierten Lehrpersonen und solchen mit Not-, Teil- und Son-
+derqualifikationen etc. sind nicht dramatisch, weisen aber alles in allem
+sehr leichte Vorteile für das regulär qualifizierte Personal aus. Interessant
+ist der Hinweis auf eine Studie, in der die Wirkung besonders schlechter
+und besonders guter Lehrpersonen untersucht worden ist (Sanders/Rivers
+1996). Bei Ersteren entwickelt sich die Schülerleistung um durchschnittlich
+14 Perzentilpunkte, bei Letzteren um 52 Perzentilpunkte. Die Auswirkun-
+gen des Unterrichts durch solche wirklich schlechten Lehrpersonen zeigten
+sich noch Jahre später. Die Konsequenz ist bemerkenswert: "Wenn jemand
+die Leistungen der gesamten Schülerschaft ernsthaft steigern will, so geht
+das nur, indem man die Wahrscheinlichkeit reduziert, dass Schüler auf rela-
+tiv ineffektive Lehrer treffen können." (Sanders 2000, S. 335) Oder anders
+formuliert: Man muss die Wahrscheinlichkeit erhöhen, dass möglichst viele
+Schülerinnen und Schüler auf möglichst lernwirksame Lehrkräfte treffen.
+    Die Rangreihe der Wirkfaktoren innerhalb der Faktorengruppe "Lehr-
+personen" stelle sich folgendermaßen dar (Hattie 2013, S. 131; umgestellt):
+
+    Lehrperson                                         Anzahl Metaanalysen          Effektstärke d
+    Microteaching                                                          4                    0.88
+    Klarheit der Lehrperson                                                1                    0.75
+    Lehrer-Schüler-Beziehung                                            229                     0.72
+    Lehrerfort-und -Weiterbildung                                          5                    0.62
+    Nichtetikettieren von Lernenden                                        1                    0.61
+    Qualität der Lehrperson (aus Schülersicht)                             5                    0.44
+    Lehrperson-Erwartungen                                                 8                    0.43
+    Lehrpersonen-Effekte                                                   1                    0.32
+    Lehrerbildung                                                          3                    0.11
+    Fachkompetenz                                                          2                    0.09
+
+Tab. 2: Die stärksten Faktoren im Zusammenhang mit der Lehrperson
+
+
+Insgesamt sind nach Hattie diejenigen Lehrpersonen wirksam, die aktivie-
+rende Unterrichtsmethoden anwenden, die hohe Erwartungen an alle ihre
+
+
+3    http://www.visiblelearning.eo.nz/asttle/pageloader.sapx?page=ll84d123d0d0 (Zugriff: 23. 03. 2010).
+
+[p. 19] [PDF page 19]
+
+Schüler haben und denen es gelingt, eine positive Lehrer-Schüler-Beziehung
+aufzubauen. Hattie schließt hier die - inhaltlich zutreffende, aber zugleich
+triviale - Bemerkung an, dass etwa die Hälfte der Lehrenden über dem
+Durchschnitt liege, die andere Hälfte darunter. Es sollte jedoch nicht wei-
+terhin der jährlichen Lotterie überantwortet werden, ob man als Schülerin
+oder Schüler nun von einer über- oder unterdurchschnittlichen Lehrperson
+unterrichtet würde.
+    Es ist erhellend, näher auf die spezifische Modeliierung der Lehrertätig-
+keit einzugehen, die Hattie auf der Basis seiner Analysen vollzieht. Er stellt
+die Lehrperson als Herausforderer (teacher as activator) der Lehrperson
+als Erleichterer (teacher as facilitator) gegenüber; diese Modeliierung ent-
+spricht seiner weiter oben erwähnten Kritik an einer konstruktivistischen
+Orientierung der Didaktik (Hattie 2009, S. 243; Hattie 2013, S. 287).
+
+ Lehrperson als Herausforderer                              Lehrperson als Erleichterer
+                                                d                                                   d
+ (activator)                                                (facilitator)
+ Reziprokes Lehren                             0.74         Simulationen und Spiele              0.32
+ Feedback                                      0.72         Forschendes Lernen                   0.31
+ Lautes Denken, Selbstverbalisierung           0.67         Reduktion der Klassengröße           0.21
+ metakognitive Strategien                      0.67         Individualisierung                   0.20
+ Direkte Instruktion                           0.59         problemorientierter Unterricht       0.15
+ herausfordernde Ziele                         0.56         netzbasiertes Lernen                 0.09
+Taktung von Leistungstests                     0.46         ganzheitliches Lesenlernen           0.06
+ Verhaltensziele                               0.41         induktiver Unterricht                0.06
+ durchschnittliche Effektstärke                0.60         durchschnittliche Effektstärke       0.17
+                                                                                                4
+Tab. 3: Effektstärken für Lehrpersonen als Herausforderer und Lehrpersonen als Erleichterer
+
+
+
+Die Ergebnisse zeigen, dass aktiver, gelenkter Unterricht, der die Lernen-
+den in ein recht enges Korsett von klaren Anforderungen, direktivem Un-                                    \
+terricht und ständiger Lernkontrolle bzw. Ergebnisrückmeldung einspannt,
+effektiver ist als ungeleiteter, erleichternder Unterricht, der auf induktive
+Problemlösungsprozesse setzt und eigenständige Lösungswege etc. zulässt.
+In diesem Zusammenhang geht Hattie noch einmal auf den didaktischen
+
+
+4   Beywl und Zierer übersetzen Hatties Begriffspaar "activator" und "facilitator" mit "Regisseur" und
+    "Moderator". Das halte ich nicht für gelungen. Für activator passt in diesem Kontext m. E. besser
+    "Herausforderer", auch im Sinne von "in Gang bringen, aktivieren"; für facilitator passt besser
+    "Erleichterer" mit einer Assoziation zu "fördern". In der deutschen Übersetzung (2013) werden andere
+    durchschnittliche Effektstärken ausgewiesen: activator: d =0.59; facilitator: d =0.23.
+
+[p. 20] [PDF page 20]
+
+Konstruktivismus ein und beurteilt die Bedeutung der Arbeitsplatzbedin-
+gungen von Lehrpersonen: Konstruktivismus ist nach Hattie "eine Form
+der Erkenntnis, und keine Form des Lehrens. Es ist wichtig, dass man die
+Konstruktion nicht mit der aktuellen Modeerscheinung des Konstruktivis- .
+musverwechselt ... " (Hattie 2013, S. 287).
+   Ist Lernen Konstruieren, dann entspricht dem nach Hattie ein direktes,
+aktives Unterrichten. Konstruktivistisches Denken passt zur Lehrperson
+nur insofern, als sie sich ein Modell ihres Unterrichtens konstruiert sowie
+ein Modell des Lernens der Schülerinnen und Schüler. Aus dem Konstrukti-
+vismus folge jedoch gerade nicht, dass man sich als Lehrperson zurückzie-
+hen könne.- Ebenso formuliert Hattie ein klares Urteil über das Verhältnis
+von Faktoren auf der Ebene unmittelbaren Unterrichtshandeins einerseits
+und Arbeitsplatzstrukturen andererseits. Erstere weisen ein d von 0.65, die
+Arbeitsplatzbedingungen eines von 0.08 auf. Hiermit wird noch einmal
+deutlich, dass Lernergebnisse der Lernenden sehr viel stärker von Unter-
+richtsfaktoreil als von Schulfaktoren beeinflusst werden (ebda., S. 288).
+
+
+
+Diskussion
+
+Hatties Buch basiert auf einer monumentalen Auswertungs- und Systemati-
+sierungsleistung. Eine solche umfassende und zusammenfassende, syntheti-
+sierende Sicht auf die empirische Schul-, Lehrer- und Unterrichtsforschung
+im Rahmen des Prozess-Produkt-Paradigmas hat es meines Wissens bisher
+nicht gegeben. Die sehr breite Perspektive, die Hattie zugrunde legt, seine
+entschlossene Art der Bündelung von bereits mehrfach Gebündeltem, seine
+(allerdings nicht im Einzelnen nachzuvollziehende) Methode der Berech-
+nung von (kumulierten) Effektstärken, seine optisch ansprechende Art der
+Präsentation jeder Effektstärke durch das "Barometer", seine die Flut der
+Effektstärken sprachlich synthetisierenden Erläuterungen, seine prägnan-
+ten Quintessenzen - dies alles macht das Buch zu einer wahren Fundgrube
+für interessierte Forschende und vermittelt sowohl Theoretikerinnen und
+Theoretikern wie Praktikerinnen und Praktikern des Unterrichts wichtige
+empirische Resultate und weiterführende Anregungen.
+    In dieser kompilatorischen und synthetisierenden Leistung des Buches
+liegt zugleich der Keim für seine Schwäche, denn die Konzentration auf
+diejenigen Faktoren, die sich in quantitativ-empirischer Forschung als wirk-
+
+[p. 21] [PDF page 21]
+
+sam für die messbare Steigerung der Lernleistung der Lernenden erweisen,
+führt zum Ausschluss derjenigen Faktoren, die andere Effekte von Schule
+und Unterricht bewirken. Insofern erlaubt Hatties Zusammenstellung von
+Ergebnissen nur das zu sehen, was eben zu sehen ermöglicht wird. Dieses
+Dilemma, demzufolge man zunächst einmal nur dort suchen kann, wo Licht
+ist (um dann allmählich das Licht weiter auszudehnen), die entscheidenden
+Dinge aber woanders und noch im Dunklen liegen könnten, ist Hattie na-
+türlich bekannt.
+    In einer Hinsicht bietet das Buch keine Überraschungen: Viele der wirk-
+mächtigen Faktoren waren bereits als solche bekannt. Time on task kommt
+allerdings erst auf Platz 70 (d = 0.38); Lehrpersonen-Effekte (teacher ef-
+fects) liegen auf Platz 85 (d = 0.32). Klassengröße- man wusste es bereits-
+wirkt sich kaum aus (Platz 106, d = 0.21), Bildung von leistungshomogenen
+Gruppen: Platz 121, d = 0.12; Lehrerbildung insgesamt Platz 124; d = 0.11.
+Auch jahrgangsübergreifender Unterricht scheint mit einem d von 0.04
+praktisch keinen Effekt zu haben.
+    Die stärker auf das Unterrichts- und Lehrerbild bezogene Kritik weist
+darauf hin, dass Hattie einen lehrerzentrierten, im Kern hochgradig direk-
+tiven Unterricht propagiere, der im Wesentlichen von ständigen Leistungs-
+kontrollen geprägt sei, deren Ergebnisse ununterbrochen an Lehrende und
+Lernende zurückzugeben seien. Diese - wie es in der neuseeländischen
+Hattie-Kritik heißt- Arnerikanisierung der (neuseeländischen) Klassenzim-
+mer unterdrücke kreative, den Lernenden Raum gebende entdeckende Un-
+terrichtsweisen, die aus der Praxis selbst entstanden seien. Kurzum: Das ge-
+samte Repertoire im weitesten Sinne reformpädagogischer Argumente wird
+gegen den als technokratisch, adrninistrationsnah und produktionistisch
+bezeichneten Ansatz Hatties in Stellung gebracht. Da diese Argumentati-
+onsmuster auch im deutschsprachigen Raum im Zusammenhang mit Leis-              \
+tungsvergleichen, Bildungsstandards, kompetenzorientierter Lehrerbildung
+etc. hinreichend bekannt und oft genug wiederholt worden sind, brauchen
+sie hier nicht noch einmal ausführlich kommentiert werden: Die Frontlinien
+sind international wie national sehr ähnlich.
+    Hatties Analyse der empirischen Basis führt ihn zur Favorisierung eines
+modernisierten und verfeinerten, aber im Grundsatz vom Lehrenden und
+seinen Lehrzielen beherrschten, aber gleichwohl am Schülersubjekt orien-
+tierten Unterricht. Beurteilt man es innerhalb des vorn Bild undurchdring-
+licher Macht und Herrschaft faszinierten, ja geradezu selbst "beherrschten"
+
+[p. 22] [PDF page 22]
+
+Foucault'schen Denkens, so kann man Hatties Unterrichtskonzept, nicht
+zuletzt aufgrund seiner ständigen Betonung des wechselseitigen unterbro-
+chenen Sehens, Beobachtensund Beobachtetwerdens der Akteure, nur als
+verfeinerte Machttechnik bewerten. Dazu passt, dass er zur Visualisierung
+seines Unterrichts- und Lernverständnisses das Bild eines großenAuges he-
+ranzieht (Hattie 2013, S. 281).
+    An Hatties Buch scheint mir besonders eine spezielle Mischung der
+Stilformen bemerkenswert zu sein. Das Buch beinhaltet einerseits recht
+trockene, gleichsam mechanisch präsentierte, weit verzweigte Forschungs-
+ergebnisse. Es ist in der Tat zum Teil sehr mühsam, den Bericht über die
+138 behandelten Einzelfaktoren Faktor für Faktor sukzessiv durchzulesen.
+Solche anteilig dominierenden Passagen werden jedoch glücklicherweise
+von eher literarisch gehaltenen, sogar emphatisch-optimistischen Passagen
+über guten Unterricht und vor allem: über das Bild guter Lehrerarbeit,
+unterbrochen und eingerahmt. Hier wird dann ein geradezu schäumender
+Optimismus, ein tiefer (amerikanischer?) Glaube an die Erreichbarkeit von
+Erfolg vermittelt, der die Leserinnen und Leser angesichts der über viele
+Seiten hinweg ausgebreiteten trockenen, zum allergrößten Teil eher skep-
+tisch bis pessimistisch stimmenden Daten nur staunen lässt. Natürlich ist in
+Pädagogen- und Lehrerkreisen das Gegenstück zum bekannten pädagogi-
+schen Kleinmut, die pädagogische Euphorie, eine immer wieder auftreten-
+de Erscheinung. Bei Hattie, aber auch bei vielen anderen Autoren, kommt
+sie in Gestalt eines eher psychologisch fundierten Glaubens an die unendli-
+che Steigerbarkeit des Lernens und die Beförderung des Lernens durch das
+richtige, gute Lehrerhandeln daher. 5
+    Die Betonung der aktiven, sich verantwortlich fühlenden, die Wirkung
+ihres Tuns gerrau beobachtenden und den Lernenden ständig Rückmeldung
+gebenden Lehrperson formuliert eine modernisierte, "evidenzbasierte"Va-
+riante des idealistischen Lehrerbildes, die von einer Mischung aus unbe-
+dingtem Wissenschaftsglauben und kontinuierlicher Emphatie lebt. Es be-
+inhaltet zweitens eine Absage an eine naiv- oder pseudokonstruktivistische
+
+5   Im Rahmen einer Vortragspräsentation verwendet Hattie tatsächlich den Begriff des "totalen Lemens"-
+    "totalleaming" (J. Hattie: Visible Leaming, Tomorrow's Schools. The Mindsets that Make the Difference
+    in Education. Visible Leaming Labboratories. University of Auckland; Quelle: http://www.treasury.
+    govt.nz/publications/media-speeches/guestlectures/pdfs/tgls-hattie.pdf; Zugriff: 12.10. 2013). An genau
+    diesem Punkt schlägt die Begeisterung für die Möglichkeiten des Lernens in einen Absolutheitsanspruch
+    mit Drohpotenzial um. Was geschieht mit denen, die (etwas Bestimmtes) nicht (mehr) lernen wollen oder
+    können?
+
+[p. 23] [PDF page 23]
+
+Ausrichtung des Lehrerbewusstseins, das sich eher in der Beobachter- als
+in der Aktivator-Rolle gefällt. Durch dieses aktive, herausfordernde Leh-
+rerbild rehabilitiert Hattie die dominante, redende Lehrperson - die aber
+ebenso auch gerrau weiß, wann sie zurücktreten und schweigen muss. Die
+Perspektive auf den Unterricht ist: lehrerzentriert Im Zentrum steht eine
+Lehrperson, für die allerdings die Lernenden im Zentrum stehen. Sie muss
+ihr Lernen sehen können, um ihr Lehren daran orientieren zu können. Ler-
+nende wiederum müssen ihr eigenes Lernen sehen können und es mental
+begleiten, als wären sie selbst ihr eigener Lehrer (Selbstdidaktisierung); da-
+bei werden sie von der Lehrperson beobachtet und unterstützt.
+
+Literatur
+Cohen, Jacob (1988): Statistical power analysis for the behavioural sciences. 2. Auflage.
+   Hillsdale: Erlbaum.
+Hattie, John A. C. (2009): Visible learning. A synthesis of over 800 meta-analyses rela-
+   ting to achievement. London, New York: Routledge. (Deutsche Übersetzung: Lernen
+   sichtbar machen. Übersetzt von W. Beywl und K. Zierer. Baltmannsweiler: Schneider
+   Hohengehren, 2013.)
+Hattie, John (o. J.). Visible learning, tomorrow's schools. The mindsets that make the dif-
+   ference in education. Visible Learning Laboratories. University of Auckland. http:/I
+   www. treasury. govt.nz/pu blications/media -speeches/ guestlectures/pdfs/tgls-hattie. pdf
+   (Zugriff: 12.10. 2013).
+Nye, Barbara/Konstantopoulos, Spyros/Hedges, Larry (2004): How large are teacher ef-
+   fects? In: Educational Evaluation and Policy Analysis, 26 (3), S. 237- 257.
+Sanders, William (2000): Value-added assessments from student achievement data. Oppor-
+   tunities and hurdles. Journal of Personnel Evaluation in Education, 14 (4), S. 329-339.
+Sanders,William/Rivers, June (1996): Cumulative and residual effects of teachers on future
+   student academic achievement. University ofTennessee: University ofTennessee Value-
+   Added Research andAssessment Center.
+
+
+                                                                                               \

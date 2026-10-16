@@ -1,0 +1,709 @@
+Die Hattie-Studie in der Diskussion: Probleme sichtbar machen
+Herausgegeben von Ewald Terhart | 1. Auflage 2014 | Seelze: Kallmeyer in Verbindung mit Klett
+ISBN 978-3-7800-4804-2
+
+Leseeinheit 09: Auf den Unterricht kommt es an! Hatties Daten deuten lernen
+Hilbert Meyer
+Originalseiten 117–133; PDF-Seiten 117–133
+
+[Deutscher Originaltext aus der OCR-Textebene des gescannten PDFs. Die Nummer der Leseeinheit folgt dem Inhaltsverzeichnis; die Beiträge sind im Original nicht nummeriert. Fußnoten und Literatur bleiben im jeweiligen Beitrag. Seitenmarkierungen verweisen auf Buchseite und PDF-Seite. OCR-Fehler können verbleiben; genaue Zitate, Tabellen und Abbildungen bitte am PDF prüfen.]
+
+
+========================================================================
+Beitrag mit Anmerkungen und Literatur
+========================================================================
+
+[p. 117] [PDF page 117]
+
+Hilbert Meyer
+
+
+Auf den Unterricht kommt es an!
+Hatties Daten deuten lernen 1
+
+Die Ausgangsfrage lautet Was sind die Gründe für den Hattie-Hype im
+deutschsprachigen Raum? Die Hauptthese lautet Die Formel "Auf den
+Lehrer/die Lehrerin kommt es an" greift viel zu kurz. Wer Konsequenzen
+aus Hatties Daten ziehen will, muss einen eigenen didaktischen Begrün-
+dungszusammenhang aufbauen, für den der"pragmatische Reformpäda-
+goge" Hattie Hinweise liefert, die aber systematisiert und bildungstheore-
+tisch verortet werden müssen.
+
+In seinem Buch Visible Learning for Teachers kommt John Hattie zu der
+nicht überraschenden, nun aber als "Weltbotschaft" empirisch abgesicher-
+ten Erkenntnis, dass es - abgesehen von den Lernenden selbst - vor allem
+auf die Lehrpersonen ankommt, wenn man nach Gründen für die Lern-
+erfolge und -misserfolge der Schülerinnen und Schüler sucht. Hattie bringt
+diese Botschaft auf eine einprägsame, leicht antiquiert klingende Kurzfor-
+mel (Hattie 2012, S. IX): "Know thy impact!" (Wisse, was du selbst be-
+wirken kannst!). Der Satz gilt für beide Seiten: "Wisse als Schüler, was du
+bewirken kannst!" Und: "Wisse als Lehrperson, wie du auf deine Schüler
+wirkst!"
+    Die in Deutschland populäre Formel "Auf den Lehrer/die Lehrerin
+kommt es an" greift mithin zu kurz: Auf den Unterricht kommt es an! Das
+ist eine triviale Feststellung, wäre da nicht Hatties Mammutwerk, das diese                                 \
+These zu spezifizieren erlaubt. Hattiefordert mit viel Pathos einen reflexi-
+onsförderlichen Unterricht, der durch lernförderlichen Lehrer-Optimismus,
+durch ein gerüttelt Maß an Metaunterricht, durch Feedbackkultur und ge-
+genseitiges Helfen gekennzeichnet ist- und das ist alles andere als die Auf-
+forderung, zum altvertrauten Frontalunterricht zurückzukehren.
+
+
+1   Bei diesem Aufsatz handelt es sich um die gekürzte und überarbeitete Fassung eines Vortrags auf der
+    Fachtagung des Bundesarbeitskreises der Seminarleiterl-innen Niedersachsen an der Universität Olden-
+    burg im März 2013.
+
+[p. 118] [PDF page 118]
+
+Oberflächlich betrachtet, ist John Hattie ein um strikte Wertneutralität sei-
+ner Analysen bemühter Positivist. Seinen Vortrag an der Universität Olden-
+burg eröffnete er mit dem Satz "I like to count". Wohl wahr - mehr als
+20 Jahre seines Berufslebens hat er mit diesem Projekt zugebracht; und es
+geht munter weiter (siehe den Beitrag Beywl/Zierer in diesem Band). Aber
+der Schein trügt. Auch Hattie konnte sein Buch nicht schreiben, ohne auf
+eine normative Orientierung zurückzugreifen, die sich mit aktuellen und
+auch schon älteren Didaktik-Entwicklungen in Europa deckt. In meinen
+Augen ist er ein pragmatisch orientierter Reformpädagoge, dessen Stärke
+darin besteht, dass er das, was er normativ einklagt, empirisch absichern
+kann, und dessen Schwäche darin besteht, dass sein bildungstheoretischer
+Überbau nur angedeutet wird. 2
+
+
+
+Der Hattie-Hype
+
+
+Hatties Studien dürften noch für mehrere Jahre die Diskussion der deutsch-
+sprachigen Unterrichtsforscher und auch der Schulpolitiker und Unter-
+richtsentwickler stark beeinflussen. Man kann in Österreich, in der Schweiz
+und in Deutschland - anders als in den USA oder in China - von einem
+regelrechten Hattie-Hype sprechen. Wie lässt sich der Hype erklären? Ich
+vermute folgende Gründe:
+   - Komplexitätsreduktion: Hattie hilft pädagogisch engagierten Lehr-
+      personen, Forschenden und Schulentwicklerinnen und -entwicklern,
+      die vom Einzelnen beim besten Willen nicht mehr zu überblickende
+      Flut an wissenschaftlichen Detailinformationen zur Schul- und Un-
+      terrichtsqualität zu ordnen und auf Kernbotschaften zu reduzieren.
+   - Sehnsucht nach einfachen Antworten: Hattie liefert einfache Antwor-
+      ten auf komplizierte Fragen. Das macht ihn für die Medien interes-
+      santAber das macht das Hantieren mit seinen Daten auch gefährlich.
+      Es verführt dazu, aus den von Hattie ermittelten Korrelationen zwi-
+      schen Unterrichtsvariablen und Lernerfolg vermeintlich gut bestä-
+      tigte Kausalhypothesen zu machen; und es verleitet dazu, einzelne
+
+
+
+2   Zum Beispiel in den 6 Wegweisern aus Hattie (2013, S. 280 f.) und in den 8 mind framesaus Hattie (2012,
+    S. 159-166).
+
+[p. 119] [PDF page 119]
+
+Lernergebnisse als monokausal verursacht zu deuten - auch wenn
+       Hattie immer wieder anmerkt, dass dies unzulässig sei.
+   - Emotionale Bestärkung: Hattie vermittelt jedem, der die deutsch-
+       sprachigen Kurz- und Kürzestdarstellungen liest, ein gutes Gefühl. Er
+       liefert empirische Evidenz, dass dasjenige, was die Leserinnen und
+       Leser selbst für wichtig halten, tatsächlich wichtig ist.
+   - Handlungsorientierung: Hattie liefert all jenen, die bestimmte Baustei-
+       ne guten Unterrichts im eigenen Unterricht stark machen wollen, hand-
+       feste Anregungen und Argumentationshilfen, auch wenn einige Rezen-
+       senten (Brügelmann, Hartmann) sagen, dass dies gar nicht zulässig sei.
+   - Aufbau von Drohkulissen: Man kann Hatties Ergebnisse nutzen, um
+       andere unter Druck zu setzen. Das passiert auch, zum Beispiel dann,
+       wenn Schulleitungen ihre Kollegien mit Hinweis auf Hatties "konser-
+       vative" Forschungsergebnisse von didaktisch-methodischen Experi-
+       menten abzuhalten versuchen.
+Hattie selbst warnt vor der Überinterpretation seiner Daten und erinnert
+daran, dass es sich nur um "grobeAbschätzungen" handle, die keine Rezep-
+te darstellten (2013, S. 4). Auf der anderen Seite macht er selbst an zahl-
+reichen Stellen seiner zwei Bücher wagemutige Generalisierungen und hat
+auch keine Hemmungen, seine Gesamtbotschaft als "Rezept für das Lehren
+und Lernen" zu bezeichnen (2013, S. 31). 3 Generell kann festgestellt wer-
+den: Hattie ist großzügig, was den Übergang von der empirischen Analyse
+zur Praxeologie angeht. Die damit verbundenen methodologischen Proble-
+me werden von ihm nicht reflektiert.
+   Man kann darüber streiten, ob die gelieferten Durchschnittswerte überhaupt
+von Interesse für die konkrete Unterrichtsentwicklung sind. Manche Autoren
+sagen: Viel wichtiger als die Ermittlung durchschnittlicher Effekte ist die Frage
+nach den Spitzen und nach den tiefen Tälern, weil diese die Entwicklungsspiel-                          \
+räume markieren. Ich sage: Beides kann- richtig gedeutet- interessant werden:
+   Bildungspolitiker wird interessieren, ob ihre Programmatik empirisch
+abzusichern und flächendeckend umzusetzen ist. Dafür liefern statistische
+Durchschnittswerte kluge Orientierungsrahmen.
+   Den einzelnen Lehrer wird interessieren, ob das, was er sich für seine
+Klasse vorgenommen hat, auch die Anstrengung lohnt. Dafür liefert Hattie
+
+
+3   Im Original schreibt Hattie (2009, S. 26) "recipe", was von Beywl!Zierer großzügig mit "Kern des
+    Modells" übersetzt wird.
+
+[p. 120] [PDF page 120]
+
+in jeder Einzelfrage nicht mehr als eine statistisch aggregierte Hypothese.
+Ob sie im Einzelfall zutrifft oder nicht, lässt sich nur vor Ort klären.
+   Aber eins ist allemal klar: Niemand kann uns zwingen, uns arn weltwei-
+ten Durchschnitt zu orientieren. Man kann Hatties Daten auch nutzen um
+selbstbewusst zu sagen: "Seht her- ich bin besser als der Durchschnitt!"
+
+
+
+Schlacht um die Deutungshoheit
+
+
+Die Schlacht um die angemessene Deutung der Hattie-Befunde ist bei uns
+vor zwei, drei Jahren eröffnet worden, und sie geht munter weiter. Dabei
+fällt auf, dass Hatties Hauptveröffentlichung nicht nur von Schulpraktikern
+und Politikern, sondern auch von Wissenschaftlern selektiv rezipiert wird.
+Deshalb hat Hans-Günter Rolff (2013) SeinernAufsatz über Hattie auch den
+Untertitel "Ein Rohrschach-Test" gegeben:
+    - Der Kölner Studienrat und Buchautor Michael Feiten (2010) und vie-
+       le Journalisten4 meinen, aus Hatties Daten herauslesen zu können,
+       dass der traditionelle Frontalunterricht besser als die offenen Unter-
+       richtsformen sei. Das ist eine grandiose Fehlinterpretation.
+    - Heinz Klippert (2013, S. 203) freut sich, dass Hattie just das als ef-
+       fektstark hervorgehoben habe, was er seit jeher gefordert hat: die Ar-
+       beit mit Lernspiralen und mit kooperativen Lernverfahren.
+    - Der an der COACTIV-Studie (Kunter u. a. 2011) beteiligte Kieler
+       Unterrichtsforscher Olaf Köller sagt: "Die in unserer Studie benann-
+       ten drei Grunddimensionen von Unterrichtsqualität (klare Struk-
+       turierung, kognitive Aktivierung und Förderung) sind durch Hattie
+       eindrucksvoll bestätigt!" Das ist ein akzeptables Urteil, aber diese
+       Übereinstimmung rührt rn. E. vor allem daher, dass die drei Grund-
+       dimensionen von COACTIV so abstrakt formuliert sind, dass sie fast
+       alles abdecken, was beim Unterrichten als gut und schön gelten kann.
+    - Peter Posch, weit bekannter Schulentwicklungsforscher aus Klagen-
+       furt, erklärte 2011 in einem Vortrag vor der europäischen Aktions-
+       forscher-Gemeinde in Wien: "Die entscheidende Botschaft von John
+       Hattie lautet: Schüler-Feedback ist wichtig." -Richtig!
+
+
+
+4   Vgl. Die Zeit, 03.01.2013; FAZ 15.03.2013; Der Spiegel, Heft 16,April2013.
+
+[p. 121] [PDF page 121]
+
+- Und ich sage: Die entscheidende Botschaft besteht in der Bekräfti-
+       gung meines seit dreißig Jahren verfochtenen Slogans "Mischwald ist
+       besser als Monokultur" (siehe unten).
+Wer hat Recht? Meines Erachtens alle und keiner zugleich! Und zwar aus
+zwei Gründen: Erstens: Man darf aus empirischen Analysen nicht 1 zu 1
+ableiten, was sein soll. Normative Orientierungen für guten Unterricht sind
+nur durch eine normative (in der Regel bildungstheoretische) Argumenta-
+tionsfigur zu begründen. Zweitens: Hattie ist ein Sammler und kein Di-
+daktiker. Er hat einen riesigen Steinbruch mit inzwischen über 150 Einzel-
+variablen vorgelegt und hin und wieder daraus eine theoretisch nicht weiter
+begründete didaktische Maxime abgeleitet.
+
+
+
+Die Schelte der Rezensenten
+
+
+Es verwundert nicht, dass inzwischen von einer ganzen Reihe von Rezen-
+sentinnen und Rezensenten Kritik an der Methodologie der Studie geübt
+worden ist:
+   - John Hattie hat nur englischsprachige Literatur erfasst. Dem ist so, aber
+      deutschsprachige, skandinavische und sonstige Forschungsergebnisse, die
+      in englischer Übersetzung vorliegen, sind natürlich einbezogen worden.
+   - Es wurden nur quantitative Studien erfasst. Qualitative Studien blie-
+      ben unberücksichtigt. Das ist ein echtes, angesichtsvon Hatties Zah-
+      len-Fixiertheit kaum zu behebendes Defizit.
+      Sehr oft ist die Datenbasis für die 150 Variablen erfreulich breit. Sie
+      umfasst dann Hunderte von Einzelstudien (siehe Beywl/Zierer in die-
+      sem Band). Zum Teil ist die Datenbasis aber auch sehr schmal (zum
+      Beispiel bei dem Barometer zur Kleingruppen-Arbeit).                        \
+   - Die Datenbasis ist zum Teil veraltet. Die Mehrzahl der Studien kommt
+      aus den 80er und 90er Jahren. Aber Hatties Team arbeitet weiter.
+      Dieses Manko dürfte also in Kürze behoben sein (siehe Beywl/Zierer
+      in diesem Band).
+   - Die meisten Studien haben kognitive Lernfortschritte erforscht. Das
+      emotionale und das soziale Lernen sind marginalisiert worden. Auch
+      zu so wichtigen Fragen wie "Demokratie-Lernen" findet man wenig
+      bis nichts.
+
+[p. 122] [PDF page 122]
+
+- Hattie muss für die Durchführung seiner Analysen unterstellen, dass
+       die in einem Variablen-Block erfassten Einzelstudien unter vergleichba-
+       ren schulischen Rahmenbedingungen durchgeführt wurden. Das dürfte
+       aber nicht immer der Fall gewesen sein (vgl. Hartmann 2012, S. 12).
+Ich selbst bin kein Statistiker und muss mich bei endgültigen Urteilen be-
+deckt halten. Ich traue aber dem Urteil versierter Kolleginnen und Kollegen,
+die bestätigen, dass keinAnlass für eine methodologische Fundamentalkritik
+besteht: Die Standards der Statistik sind in Hatties Studie eingehalten wor-
+den! Und für Forschungsdefizite der 900 Metaanalysen und für merkwürdi-
+ge Einzelergebnisse darf man nicht Herrn Hattie verantwortlich machen. Er
+selbst (2013, S. 13) zitiert den Eysenck-Effekt: Wenn man Müll in eine Me-
+taanalyse einfüllt, kann auch nur Müll bei der Synthese herauskommen. Da
+hätte Hattie in Visible Learning ruhig etwas auskunftsfreudiger bei der Frage
+sein können, ob einzelne Metaanalysen wegen methodologischer Schwä-
+chen nicht einbezogen worden sind. Aber er verweist im Vorwort zu Recht
+darauf, dass er dies in vielen anderen seiner Veröffentlichungen getan hat.
+   Die beste Antwort, um der methodologischen Kritik an Hattie zu be-
+gegnen, bestünde m.E. darin, eine eigene "Hattie-Studie" für den deutsch-
+sprachigen Raum herzustellen. Ich vermute, dass dann die Hauptbotschaft
+("Know thy impact") auch bei uns bestätigt werden wird. 5 Leider gibt es
+aber im deutschsprachigen Raum bisher nur wenige solcher Metaanalysen.
+Deshalb wird der Wunsch nach einer deutsch-schweiz-österreichischen
+"Hattie-Studie" wohl erst in 5 oder 10 Jahren erfüllt werden können.
+
+
+
+John Hattie richtig lesen und interpretieren
+
+
+Die in den deutschen Medien geführten Debatten über Hatties Forschungs-
+ergebnisse leiden, wie in mehreren Beiträgen dieses Bandes betont wird,
+darunter, dass einzelne Daten herausgepickt und absolut gesetzt werden.
+Das führt zu Fehlinterpretationen. Deshalb ist es unverzichtbar, die Einzel-
+befunde von Hattie wieder in ihren Forschungskontext einzubetten. Das ist
+
+
+5   Andere Variablen könnten weniger Bestätigung erhalten. So hat Hattie selbst im Oldenburger Vortrag
+    angemerkt, dass die niedrigen Werte für "Schulstruktur" im deutschsprachigen Raum nach oben korrigiert
+    werden dürften. Das Gleiche vermute ich für die bei Hattie mehr als bescheidenen Durchschnittswerte
+    für die Effekte der Lehrerbildung. Die Metaanalyse von Seidel und Shavelson (2007) legt nahe, dass bei
+    uns - mit der weltweit längsten Lehrerausbildung - die Effektstärken größer sind.
+
+[p. 123] [PDF page 123]
+
+mühsam - und das geht nur, wenn man tiefer in sein Buch einsteigt. Zwei
+Beispiele für unangemessene und für angemessene Deutungen einzelner
+Variablen, die John Hattie bei seinem Vortrag an der Universität Oldenburg
+am 17. April 2013 selbst angesprochen hat:
+    - Variable "Geschlechter-Unterschiede:" Auf die Frage, ob die Unter-
+       schiede zwischen Jungen und Mädchen beim Lernen erheblich sind,
+       antwortete Hattie: "Rubbish! -Die empirisch nachgewiesenen Unter-
+       schiede sind minimal. Aber wenn ich mir nur die Gruppe der Jungen
+       anschaue, dann sind die Unterschiede riesig! Und wenn ich mir die
+       Unterschiede bei den Mädchen anschaue, ebenfalls!"
+    - Variable "Klassengröße": Hatties Befunde besagen: "Kleine Klassen
+       bringen keinen größeren Lernerfolg!" Im Vortrag sagte Hattie, dass
+       dieses Einzelergebnis aus seinen Metaanalysen immer wieder zum
+       Anlass für heftige Attacken auf seine Studie genommen werde. Hat-
+       ties Antwort: "Die Befunde sind aber leider so. Es gibt keine nen-
+       nenswerte Verbesserung der Lernleistungen, wenn die Klassenstärke
+       von 25 auf 15 Schüler reduziert wird. Und wir haben auch Indizien,
+       woran das liegen könnte: Die Lehrer, die jahrzehntelang in großen
+       Klassen unterrichtet haben, nutzen das Potenzial nicht, das die Arbeit
+       in kleinen Klassen bringt. Wir haben sogar eine Studie, die zeigt, dass
+       Lehrer in kleinen Klassen noch mehr reden als in großen Klassen!"
+       Daraus zu folgern, der Kampf um kleine Klassen sei überflüssig, ist
+       wiederum ein argumentativer Kurzschluss!
+Was lehren die Hattie-Antworten über den klugen Umgang mit seinen Da-
+ten? Sie rufen in Erinnerung, was jedem empirischen Unterrichtsforscher
+bekannt ist. Hatties Studien erheben nur den Ist-Stand. Sie analysieren
+nicht, welches Potenzial in einer didaktischen Maßnahme steckt! Deshalb
+ist es grundsätzlich verkehrt, aus einem niedrigen Effektstärken-Wert zu          \
+folgern, dass es sich nicht lohnt, sich weiter darum zu kümmern. Das Ge-
+genteil könnte richtig sein. Dazu ein drittes Beispiel:
+    - Variable "]ahrgangsgemischter Unterricht": Der auf schmaler Da-
+       tenbasis nachgewiesene Einfluss auf hohen Lernerfolg ist mehr als
+       bescheiden (d = 0.04). Das hat viele Verfechterinnen und Verfechter
+       dieser Idee irritiert. Bei genauerem Studium des Hattie-Abschnitts
+       wird sofort die Hauptursache für die mageren Effektstärken deutlich:
+       Die Mehrzahl der jahrgangsgemischt arbeitenden Lehrerinnen und
+       Lehrer hat nicht wirklich gemischt, sondern jahrgangsbezogenen Ab-
+
+[p. 124] [PDF page 124]
+
+teilungsunterricht gemacht. Es gibt aber bei Hattie eine Reihe von
+      Variablen mit hohen Effektstärken, die in einer jahrgangsgemischten
+      Klasse besser als in anderen Klassen realisiert werden können, auch
+      wenn sie in den von Hattie erfassten Schulklassen ganz offensichtlich
+      nicht oder nicht in ausreichendem Maße realisiert wurden, zum Bei-
+      spiel die Arbeit in Kleingruppen, der Aufbau einer Feedback-Kultur
+      und die Arbeit mit Helfersystemen. - Das macht dann erst den Zuge-
+      winn aus, den die Jahrgangsmischung bringen kann, aber nicht auto-
+      matisch bringt. Aus Hatties Daten zu folgern, dass es sich nicht lohne,
+      weiter daran zu arbeiten, ist mithin unzulässig, weil aus dem, was ist,
+      nicht deduziert werden darf, was sein kann. Aber es ist eine Warnung
+      an alle Jahrgangsmisch er: Allein die formale Einführung dieser Unter-
+      richtsform bringt noch nichts!
+Ich fasse zusammen: Wenn für eine bestimmte Unterrichtsvariable eine
+hohe Effektstärke nachgewiesen ist, ist offensichtlich das didaktisch-me-
+thodische Potenzial, das in dieser Variable steckt, besser ausgeschöpft als
+bei einer niedrig bewerteten Variable. Das könnte erklären, warum für die
+Direkte Instruktion, die ja weitgehend aus Frontalunterricht besteht und in
+den meisten Nationen zentraler Gegenstand der Lehrerausbildung ist, bei
+Hattie relativ gute Werte ermittelt worden sind.
+
+
+
+Oberflächenstrukturen des Unterrichts und Tiefenstrukturen des Leh-
+rens und Lernens
+
+
+Wie bereits gesagt: Hattie ist ein Sammler, kein Didaktiker. Er hat seine
+150 Variablen von Platz 1 bis Platz 150 nach Effektstärken geordnet (Hattie
+2012, S. 251-254). Es ist aber viel spannender, Hatties 150 Variablen neu und
+anders zu sortieren. Ich tue dies, und zwar im Blick auf die bei Hattie erfasste,
+aber nicht gesondert ausgewiesene Unterscheidung von Oberflächen- und Tie-
+fenstrukturen des Unterrichts. Das tun andere Wissenschaftler genauso (Köl-
+ler/Möller/Möller 2013), auch wenn die Zuordnungen für mich nicht immer
+ganz eindeutig zu treffen waren. Dabei fällt auf, dass für die Oberflächen-Va-
+riablen durchweg nur geringe Effektstärken nachgewiesen werden konnten. 6
+
+6   Hattie spricht ebenfalls von Oberflächen- und Tiefenstrukturen (2013, S. 32). Aber dabei geht es um ein
+    ganz anderes theoretisches Konstrukt im Anschluss an Bereiters Rezeption der Drei-Welten-Lehre von
+    Popper (sieheTerhart 2011, S. 282).
+
+[p. 125] [PDF page 125]
+
+Direkte Instruktion                                                               d=0.59
+  Kooperatives statt konkurrenzorientierten Lernens                                 d=0.54
+  konsequente Klassenführung (classroom management)                                 d= 0.52
+  Einfluss des Elternhauses (home environment)                                      d = 0.52
+  Kleingruppenarbeit                                                                d= 0.49
+  leistungshomogene Differenzierung (ability grouping)                              d = 0.30
+  Effekte der Inklusion für die inkludierten Schüler/Schülerinnen                   d=0.28
+  individualisierender Unterricht                                                   d= 0.22
+  Klassengröße                                                                      d=0.21
+
+  Lernen in jahrgangsgemischten Klassen                                             d= 0.04
+
+Tab. 1: Oberflächen-Merkmale erfolgreichen Unterrichts (aus: Hattie 2012, S. 251- 254)
+
+
+
+Die Variablen "Direkte Instruktion" und "Kooperativer Unterricht" schnei-
+den leidlich gut ab, der "Individualisierende Unterricht" überraschend
+schlecht. In Meyer/Walter-Laager (2012) haben wir diese drei Variablen
+dennoch als Grundformen des Unterrichts bezeichnet, sie genauer analy-
+siert und die Forderung aufgestellt, in einem längeren Schulentwicklungs-
+prozess Drittelparität zwischen diesen drei Grundformen anzustreben.
+   Hattie provoziert die Frage: Wäre es klüger, auf den Ausbau des Indivi-
+dualisierenden Unterrichts zu verzichten? Mitnichten! Zum einen ist anzu-
+merken, dass speziell der Individualisierende Unterricht bei Hattie anders
+definiert wird als im deutschen Sprachraum (siehe Beywl/Zierer in diesem
+Band). Zum anderen gilt: Was bildungstheoretisch als sinnvoll gelten kann,
+wird durch mangelhafte Realisierungen nicht ungültig! Dass Drittelpari-
+tät zwischen den Grundformen machbar ist und zu guten Lernergebnis-
+sen führen kann, belegen die Evaluationsstudien zu den Vorzeigeschulen                          \
+Laborschule Bielefeld, Helene-Lange-Schule Wiesbaden, Reformschule
+Winterhude. Allerdings liefert Hatties Ergebnis einen warnenden Hinweis:
+Offensichtlich stellt der Individualisierende Unterricht eine dermaßen an-
+spruchsvolle Unterrichtsform da, dass seine flächendeckende Etablierung
+noch erhebliche Entwicklungsarbeit erforderlich macht.
+   Was folgt aus Tab. 1? Es bringt nichts, die verschiedenen Grundformen
+des Unterrichts gegeneinander auszuspielen. Das schreibt Hattie selbst
+(2013, S. 31f.). Und deshalb sage ich im Blick auf die Unterrichtsentwick-
+lung an deutschen Schulen: "Mischwald ist besser als Monokultur!"
+
+[p. 126] [PDF page 126]
+
+Viel interessanter als die Hattie-Daten zu den Oberflächenstrukturen sind
+jedoch die Ergebnisse zu jenen Variablen, die sich eher auf "weiche", das
+heißt hoch inferente Faktoren der Unterrichtsgestaltung beziehen. Hier
+sind die gemessenen Effektstärken insgesamt überraschend hoch, was sich
+aber mit den Ergebnissen der Lehrerbildungs-Metaanalyse von Seidel/Sha-
+velson (2007) deckt:
+
+    Glaubwürdigkeit des Lehrers/der Lehrerin bei den Schülern/Schülerinnen                       d= 0.90
+    formative assessment (im Unterrichtsprozess gegebene Rückmeldungen an
+    die Schüler/Schülerinnen)
+                                                                                                 d = 0.90
+
+    Schülerdiskussionen im Unterricht                                                            d= 0.82
+    Klarheit und Verständlichkeit der Lehrersprache                                              d = 0.75
+    Regelmäßiges Schüler-Feedback                                                                d = 0.75
+    Reziprokes Lernen (die Schüler/Schülerinnen helfen sich gegenseitig)                         d= 0.74
+    positive Lehrer-Schüler-Beziehung (lernförderliches Klima)                                   d=0.72
+ meta-cognitive strategies (Metaunterricht- gemeinsames Nachdenken von
+                                                                                                 d = 0.69
+ Schülern/Schülerinnen und Lehrperson über den Lernprozess)
+ herausfordernde (an der oberen Kante des Leistungsvermögens
+                                                                                                 d = 0.56
+ angesiedelte) Ziele
+    Peer-Tutoring (gegenseitiges Helfen der Schüler/Schülerinnen)                                d = 0.55
+    Selbstwirksamkeitsüberzeugungen der Schüler/Schülerinnen (se/f-concept)                      d = 0.47
+    Erwartungshaltung der Lehrperson                                                             d = 0.43
+
+Tab. 2: Tiefenstruktur-Merkmale erfolgreichen Lehrensund Lernens (Hattie 2012, 5. 251- 254)
+
+
+
+Tab. 2 zeigt, was die Mehrzahl der Unterrichtsforschenden seit Langem be-
+hauptet: Besonders lernförderlich ist ein Unterricht, in dem die Schülerin-
+nen und Schüler ein gutes Klima vorfinden und in dem sie Sicherheiten und
+ein "Geländer" für basale ebenso wie für anspruchsvollere Lernaufgaben
+geboten bekommen.l Daraus folgt: Es reicht nicht aus, den oben geforder-
+ten "Mischwald" herzustellen. Der Wald muss gepflegt werden. Erst dann
+kann eine gelungene Mischung der Grundformen hergestellt werden, die es
+erlaubt, die je spezifischen Potenziale zu entfalten!
+   Der Aufbau von Lernhilfen wird in der englischsprachigen Unterrichts-
+forschung mit dem ursprünglich konstruktivistisch geprägten, heute aber
+
+7     Bei seinem Oldenburger Vortrag machte Hattie dazu eine plausible Anmerkung: "Ich war lange Jahre
+      Mathe- und Musiklehrer. Ich habe festgestellt: Die einzelnen Fächer haben sehr unterschiedliche Inhalte,
+      Aufgaben und Strukturen - aber die Instrumente, die beim Lernen in diesen Fächern helfen, sind sich
+      erstaunlich ähnlich!"
+
+[p. 127] [PDF page 127]
+
+generalisierten Begriff Lerngerüst ("scaffold" 8 ) beschrieben (Dubs 2009).
+Ich gehe davon aus, dass die Lerngerüste variieren- je nachdem, welche
+der 3 genannten Grundformen des Unterrichts gerade praktiziert wird:
+
+ Lerngerüste für den lndivi-      Lerngerüste für die              Lerngerüste für den
+ dualisierenden Unterricht        Direkte Instruktion              Kooperativen Unterricht
+
+ formative assessment (Rück-      klare Strukturierung des Un-     Übungen zur Förderung der
+ meldungen an die Schüler/        terrichtsprozesses durch die     Teamfähigkeit
+ Schülerinnen während             Lehrperson; der rote Faden
+ ihrer Arbeit- nicht erst am      ist erkennbar
+ Schluss)
+
+ Bewusstmachen der von            formative assessment             Übungen zum Aufbau von
+ den Schülern/Schülerinnen                                         Planungskompetenz
+ genutzten Lernstrategien
+
+ Arbeit mit Lernlandkarten        Schülerdiskussionen-             Reflexionsphasen:
+ (individuelle, von der Lehr-     sinnstiftendes Kommuni-          Wo stehen wir?
+ person·begleitete Lernpläne)     zieren                           Wo wollen wir hinkommen?
+
+ Peer-Tutoring- Aufbau eines      Meta-Unterricht                  Reziprokes Lernen: Schüler/
+ Helfersystems zwischen den                                        Schülerinnen übernehmen
+ Schülern/Schülerinnen                                             Lehraufgaben
+
+ individualisierte Förderpläne    anspruchsvolle Lernziele         Präsentationen im Plenum
+ auf der Grundlage klarer         (an der oberen Kante des         und vor der Schulöffent-
+ Lernstandsdiagnosen              Leistungsvermögens)              lichkeit
+
+ Portfolioarbeit                  differenziert gestellte Haus-    Portfolioarbeit
+                                  aufgaben
+
+Tab. 3: Lerngerüste für die 3 Grundformen des Unterrichtens
+
+
+Ich fasse die Konsequenzen aus meiner Hattie-Analyse in drei Punkten zu-
+sammen: (1) Direkte Instruktion ist besser als ihr Ruf. (2) Wichtiger als der
+leidige Streit über die Frage, ob offener Unterricht besser als der herkömmli-
+che lehrerzentrierte Unterricht ist, ist die Frage, welche Lerngerüste in allen                         \
+Grundformen aufgebaut werden. (3) Besonders lohnend sind jene Lernge-
+rüste, die viel Zeit kosten, aber die Selbstreflexivität der Lernenden stärken:
+Schülerdiskussionen, Schüler-Feedback und Metaunterricht! Sie führen zu
+einer Verlangsamung des Lerntempos. Aber das zahlt sich später wieder aus!
+    Die reformorientierten Lehrpersonen können also zufrieden sein! Alles
+spricht dafür, dass ein kognitiv aktivierender Unterricht, in dem die Schü-
+
+
+8   Das Wort ist etymologisch mit dem aus dem Französischen übernommenem Wort Schafott verwandt- was
+    zumAnlass für diese oder jene ironische Anmerkung genommen werden könnte.
+
+[p. 128] [PDF page 128]
+
+lerinnen und Schüler selbstbewusste Partnerinnen und Partner der Lehr-
+personen sind, hoch erfolgreich sein kann!
+
+
+
+Was fehlt?
+
+Hatties Forderung nach mehr Reflexivität beim Lehren und Lernen erinnert
+an das, was in der englischsprachigen Literatur als besondere Stärke der deut-
+schen Allgemeindidaktik bezeichnet wird: Didaktik als "reflective practice"
+(Westbury u.a. 2000). Deshalb müsste Hattie in der deutschen Didaktik-
+tradition einen guten theoretischen Überbau zu seinem Unterrichtskonzept
+finden können. Dann dürfte ihm auch deutlich werden, was aus deutscher
+Sicht ein Defizit seiner Analysen ist: Es fehlt an einer allgemein- und ebenso
+an einer fachdidaktischen Rahmung (siehe von Olberg in diesem Band).
+    Insbesondere die Frage nach der Strukturierung des Unterrichtsinhalts
+wird stiefmütterlich behandelt. Mit ein wenig "mehr Klafki" hätte Hattie
+dieses Defizit beheben können. Dann hätte der im "Visible Learning for
+Teachers" (2012, S. 35 ff.) enthaltene und einseitig auf die Zielanalyse fi-
+xierte "Leitfaden" zur Vorbereitung, Durchführung und Auswertung von
+Unterrichtsstunden wohl deutlich anders ausgesehen. Selbst die schlichten
+Fragen aus Klafkis Didaktischer Analyse von 1959 hätten gut in seinen
+Fragenkatalog hineingepasst: Was ist die Struktur des vorgesehenen Unter-
+richtsinhalts?Wofür steht er exemplarisch? Hat er für die Schülerinnen und
+Schüler einen Gegenwarts- und Zukunftsbezug?
+    Auch das von Ulrich Kattmann und Kollegen entwickelte Modell der
+Didaktischen Rekonstruktion (Duit u. a. 2012) passt bestens in Hatties Kon-
+zept des reflexiven Unterrichts. Denn die Autoren fordern ja genau das,
+was Hatties Credo ist: Die Lehrpersonen und die Forschenden sollen das
+Lernen durch die Augen der Schülerinnen und Schüler sehen. Hier könnte
+Hattie auch studieren, wie man methodisch kontrolliert von empirisch-ana-
+lytischen Forschungsergebnissen zur Handlungsorientierung kommt: nicht
+durch Deduktion, sondern durch eine behutsame, aber konstruktiv gewen-
+dete Interpretation.
+    Jeder Versuch, eine Didaktik nur auf Grundlage der Analyse von Unter-
+richtseffekten zu zimmern, muss scheitern. Das sieht man an den Defiziten
+von Visible Learning. So fehlen Aussagen zur Demokratieerziehung und
+zur theoretischen Klärung des Lehrer-Schüler-Verhältnisses.
+
+[p. 129] [PDF page 129]
+
+Was tun?
+
+
+Die folgenden vier Ratschläge folgen alle der von Hattie formulierten Maxi-
+me: "Know thy impact!" Aber sie bleiben nicht bei Hattie stehen, sondern
+beziehen sich auch auf Befunde der aktuellen deutschsprachigen Professi-
+onalisierungsforschung.
+
+Lernen, das Lernen der Schülerinnen und Schüler zu verstehen
+Gute Lehrpersonen, so Hattie, verstehen es, das Lernen der Schülerinnen
+und Schüler aus der Perspektive derselben zu betrachten und dann mit den
+fachlichen und überfachlichen Aufgaben zu verknüpfen. Aber wie macht
+man das? Vier Ratschläge, die leider allesamtmitArbeitverbunden sind:
+   - Genau beobachten: Sie müssen Ihre Schülerinnen und Schüler bei
+      der Arbeit genau beobachten. Das geht kaum während der Direkten
+      Instruktion. Das geht sehr gut im Individualisierten und im Koopera-
+      tiven Unterricht.
+   - Gezielt kurze Phasen mit Metaunterricht einbauen: Schülerdiskus-
+      sionen, Reflexionsgespräche, Bewusstmachen real eingesetzter Lern-
+      strategien usw.
+       Feedback einholen und zurückgeben: Sie sollten regelmäßig und nicht
+      nur hin und wieder Feedback von den Schülerinnen und Schülern ein-
+      holen. Dann können Sie auch gut Feedback zurückgeben - am besten
+      während des Unterrichtsprozesses und nicht erst am Ende.
+      Allgemein- und Fachdidaktiken studieren: Es tut mir leid wegen der
+      vielen Arbeit, aber anders geht es nicht: Sie sollten sich in jedem Ihrer
+       Fächer auf dem Laufenden halten und neue Bücher lesen, in denen
+      vorgeführt wird, wie man das Lernen der Schülerinnen und Schüler
+      verstehen kann.                                                              \
+Den eigenen Unterricht erforschen
+John Hattie sagte bei seinem Oldenburger Vortrag: "A good teacher is an
+evaluator of his own impact." Aber wie macht man das? Die Lösung kann
+nicht darin bestehen, Hatties 150 Variablen auswendig zu lernen und dann
+auf die eigene Planung anzuwenden. Vielmehr kommt es darauf an, selbst
+ans Theoretisieren zu gehen, also die persönlichen Theorien in Kenntnis
+wissenschaftlicher Erklärungsansätze in einer Aktions-Reflexions-Spirale
+zu überprüfen.
+
+[p. 130] [PDF page 130]
+
+Es gibt interessante Vorstellungen zur Umsetzung dieser Idee für die heu-
+tige Zeit, zum Beispiel den von HerbertAltrichter und Peter Posch (2007)
+im Rückgriff auf Lawrence Stenhouse und John Elliott entwickelten Ansatz
+der Lehrer-Aktionsforschung. An der Universität Oldenburg entwickeln wir
+seit 18 Jahren die "Oldenburger Teamforschung", in der Studierende und
+praktizierende Lehrerinnen und Lehrer gemeinsam drängende Alltagspro-
+bleme der Schule in kleinen Teams erforschen und nach Lösungen suchen
+(vgl. Fichten/Meyer 2009). Gemeinsam ist diesen Lösungsversuchen, dass
+"Strukturorte der Reflexivität" in die Lehrerbildung integriert werden
+(Feindt 2007).
+
+Die persönliche Theorie guten Unterrichts weiterentwickeln
+Wer seinen Unterricht regelmäßig evaluiert, arbeitet zugleich an seiner
+"persönlichen Theorie guten Unterrichts" (Meyer 2007, S. 82f.). Sie ist ein
+Bestandteil des Lehrerwissens, das seit Jahrzehnten unter dem Fachbegriff
+"teacher beliefs" erforscht wird (vgl. Reusser u.a. 2011; Fives/Buehl2012).
+Persönliche Theorien steuern die Wahrnehmung des Unterrichts und auch
+die im Prozess getroffenen Entscheidungen viel stärker als Theoretiker-
+Theorien. Das ist kein Malheur, sondern funktional.
+   Das sieht auch Hattie so. Er ermuntert die Kollegen, die selbst gemach-
+ten Erfahrungen kritisch zu reflektieren und dann zu schauen, "how their
+own theories can be modified or enhanced [... ] as the starting point for
+having theories (not the endpoint)" (Hattie 2012, S. 181; siehe von Olberg
+in diesem Band). Hattie schätzt das Erfahrungswissen der Lehrpersonen
+und er hält eine schlichte Top-down-Nutzung des durch Visible Learning
+bereitgestellten Wissens für unangebracht.
+
+Sich selbst Entwicklungsaufgaben setzen
+Begibt man sich - mit oder ohne Hattie - in die von Donald Schön ge-
+forderte Aktions-Reflexionsspirale, so ist es naheliegend, sich selbst Ent-
+wicklungsaufgaben zu setzen. Das ist auch die Kernidee der von Herwig
+Blankertz angestoßenen, dann aber insbesondere an der Uni Harnburg
+weiterentwickelten Bildungsgangdidaktik (Hericks 2006). Wer sich selbst
+Entwicklungsaufgaben setzt, arbeitet an seiner "persönlichen Didaktik".
+Er macht sich seine eigene Lernbiografie bewusst und kann so das eigene
+Weiterlernen bewusster steuern und sich dadurch ein Stück weit von seinen
+Ausbilderinnen und Ausbildern und Vorgesetzten emanzipieren. Bei dieser
+
+[p. 131] [PDF page 131]
+
+anspruchsvollen Arbeit können Hatties Berechnungen von Effektstärken
+wertvolle Hinweise geben - nicht als Glaubenssätze, sondern als Heraus-
+forderungen zur Produktion eines eigenständig geprüften professionellen
+Wissens.
+
+
+
+Fazit
+
+Was Schülerinnen und Schülern gut tut, tut auch Lehrenden gut! Sie benö-
+tigen Respekt, Anerkennung, verlässliche Rückmeldungen und Spielräume
+für eigenes Erproben. Deshalb brauchen wir in allen drei Phasen der Leh-
+rerbildung die Chance, selbstreguliert und handlungsorientiert zu lernen.
+Nur dann können die Kompetenzen entwickelt werden, die für die Bewäl-
+tigung. der Aufgaben erforderlich sind:
+   - Wer lernen soll, Schülerinnen und Schülern mit liebevollem Respekt
+      zu begegnen, muss in Studium und Referendariat auf Ausbilderinnen
+      und Ausbilder treffen, die dies ebenfalls tun.
+   - Wer eine demokratische Unterrichtskultur aufbauen soll, muss dies
+      selbst erlebt haben.
+      Wer in Studium und Beruf nur Einzelkämpfer erlebt hat, hat es
+      schwer, in der Schule im Team zu arbeiten.
+Deshalb formuliere ich eine Forderung, die getrost als Versuch einer Wie-
+derbelebung der vor gut dreißig Jahren an der Universität Oldenburg
+praktizierten Einphasigen Lehrerbildung gedeutet werden mag: Erste und
+Zweite Phase gehören viel enger zusammen, als es in den aktuellen halb-
+herzig bleibenden Kooperationsprogrammen diskutiert wird. Wir sollten
+den Master of Education und das Referendariat zu einer neuen Einheit
+verschmelzen. Ich sehe nirgendwo in den Verbänden oder Parteien Ver-         \
+bündete für ein solches Vorhaben. Aber man wird ja noch mal träumen
+dürfen!
+
+[p. 132] [PDF page 132]
+
+Literatur
+Altrichter, Herbert/Posch, Peter (2007): Lehrerinnen und Lehrer erforschen ihren Unter-
+    richt. 4. Auflage. Bad Heilbrunn: Klinkhardt.
+Dubs, Rolf (2009): Lehrerverhalten. Stuttgart: Franz Steiner.
+Duit, Reinders/Gropengießer, Harald/Kattmann, Ulrich/Komorek, Michael!Parchmann,
+    Ilka: The model of educational reconstruction. In: Doris Jorde!Justin Dillon (Hrsg.)
+    (2012): Science Education Research and Practice in Europe. Rotterdam: Sense,
+    S. 13-38.
+Feindt, Andreas (2007): Studentische Forschung im Lehramtsstudium. Opladen, Farming-
+    ton Hills: Barbara Budrich.
+Feiten, Michael (2010): Auf die Lehrer kommt es an! Für eine Rückkehr der Pädagogik in
+    die Schule. Gütersloh: Gütersloher Verlagshaus.
+Fichten, Wolfgang/Meyer, Hilbert (2009): Forschendes Lernen in der Lehrerbildung- das
+    Oldenburger Modell. In: Nicole Hollenbach/Klaus-Jürgen Tillmann (Hrsg.): Die Schule
+    forschend verändern. Bad Heilbrunn: Klinkhardt, S. 119-145.
+Fives, Helenrose/Buehl, Michelle M. (2012): Spring cleaning for the "messy" construct of
+    teacher beliefs. In: K. R. Harris/S. Graham/T. Urdan (Hrsg.): Educational Psychology
+    Handbook, Bd. 2. American Psychology Association.
+Hartmann, Martin (2012): Die Hattie-Studie auf dem Prüfstand. In: journal für schulent-
+    wicklung, 16 (3), S. 7-14.
+Hattie, John (2009): Visible learning. A synthesis of over 800 meta-analyses relating to
+    achievement. London, New York: Routledge.
+Hattie, John (2012): Visible learning for teachers. London, NewYork: Routledge.
+Hattie, John (2013): Lernen sichtbar· machen. Deutschsprachige Ausgabe von "Visible
+    Learning" besorgt von Wolfgang Beywl und Klaus Zierer. Baltmannsweiler: Schneider
+    Hohengehren.
+Hericks, Uwe (2006): Professionalisierung als Entwicklungsaufgabe. Wiesbaden: VS Verlag
+    für Sozialwissenschaften.
+Klippert, Heinz (2013): Unterrichtsentwicklung- aber wie?Weinheim, Basel: Beltz.
+Köller, Olaf/Möller, Johanna/Möller, Jens (2013): Was wirkt wirklich? München: Oldenbourg.
+Kunter, Mareike/Baumert, Jürgen/Blum, Werner/Klusmann, Uta/Krauss, S./Neubrand,
+    Michael (Hrsg.) (2011): Professionelle Kompetenz von Lehrkräften- Ergebnisse des
+    Forschungsprogramms COACTIV. Münster: Waxmann.
+Meyer, Hilbert/Walter-Laager, Catherine (2012): Leitfaden für Lehrende in der Elementar-
+    pädagogik. Berlin: Cornelsen.
+Meyer, Hilbert (2007): Leitfaden Unterrichtsvorbereitung. Berlin: Cornelsen Scriptor.
+Reusser, Kurt/Pauli, Christine/Elmer, Anneliese (2011): Berufsbezogene Überzeugungen
+    von Lehrerinnen und Lehrern. In: Ewald Terhart/Hedda Bennewitz/Martin Rothland
+    (Hrsg.): Handbuch der Forschung zum Lehrerberuf. Münster: Waxmann, S. 478-495.
+Rolff, Hans-Günter (2013): Die Hattie-Studie. Ein Rohrschach-Test In: Pädagogik, 65 (4),
+    s. 46-49.
+Schön, Donald A. (1983): The reflective practitioner. How professionals think in action.
+    New York: Basic Books.
+Seidel, Tina/Shavelson, Richard J. (2007): Teaching effectiveness research in the past deca-
+    de. In: Review of Educational Research, 77 (4), S. 454-499.
+
+[p. 133] [PDF page 133]
+
+Terhart, Ewald (2011): Hat John Hattie tatsächlich den Heiligen Gral der Schul- und Unter-
+   richtsforschung gefunden? EineAuseinandersetzung mitVisible Learning. In: E. Keiner
+   u. a. (Hrsg.): Metamorphosen der Bildung. Historie- Empirie-Theorie. Bad Heilbrunn:
+   Klinkhardt, S. 277-292.
+Westbury, Ian/Hopmann, Stefan/Riquarts, Kurt (Hrsg.) (2000): Teaching as a reflective
+   practice. The Germandidaktik tradition. Mahwah/New Jersey: Lawrence Erlbaum.
+
+
+
+
+                                                                                              \

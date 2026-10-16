@@ -1,0 +1,785 @@
+{
+  "source": "raw/Die Hattie-Studie in der Diskussion_ Probleme sichtbar -- Ewald Terhart -- 1_ Aufl_, 2014 -- Kallmeyer, Klett -- 9783772790003 -- 4e526f3303398689683f46a28a822c98 -- Anna’s Archive.pdf",
+  "source_sha256": "33200664b61c956daf9dd326c23d708285cda0e19c2f7b74bfbe885a2f1433d9",
+  "book_title": "Die Hattie-Studie in der Diskussion: Probleme sichtbar machen",
+  "editor": "Ewald Terhart",
+  "year": 2014,
+  "edition": 1,
+  "publisher": "Kallmeyer in Verbindung mit Klett",
+  "publication_place": "Seelze",
+  "language": "de",
+  "isbn": "9783780048042",
+  "filename_isbn": "9783772790003",
+  "isbn_note": "Copyright page gives ISBN 978-3-7800-4804-2; filename ISBN is recorded separately.",
+  "source_pdf_pages": 167,
+  "encoding": "UTF-8",
+  "extraction": "Poppler pdftotext -layout using the existing scanned-PDF OCR layer; common ligatures expanded and exact page-number headers/footers removed; original spelling and line breaks otherwise retained.",
+  "page_mapping": "The print page number equals the one-based PDF page number for the retained content.",
+  "limitations": [
+    "OCR errors in words, names, formulas and note numbers may remain.",
+    "Image and exact table layouts require verification against the scanned PDF."
+  ],
+  "excluded_materials": [
+    {
+      "pdf_pages": [
+        1,
+        3
+      ],
+      "material": "Title and copyright pages; bibliographic metadata recorded separately"
+    },
+    {
+      "pdf_pages": [
+        4,
+        5
+      ],
+      "material": "Contents"
+    },
+    {
+      "pdf_pages": [
+        166,
+        167
+      ],
+      "material": "Publisher advertisements"
+    }
+  ],
+  "entries": [
+    {
+      "chapter": 1,
+      "numbering": "reading order; original essays unnumbered",
+      "title": "Der Heilige Gral der Schul- und Unterrichtsforschung – gefunden? Eine Auseinandersetzung mit Visible Learning",
+      "authors": [
+        "Ewald Terhart"
+      ],
+      "chinese_navigation_label": "学校与教学研究的圣杯找到了吗",
+      "print_pages": [
+        10,
+        23
+      ],
+      "pdf_pages": [
+        10,
+        23
+      ],
+      "txt": "Ch01_Terhart_Holy_Grail_of_Educational_Research.txt",
+      "book_supplements": [
+        {
+          "material": "Ergänzung zum Gesamtband: Vorwort",
+          "print_pages": [
+            6,
+            9
+          ],
+          "pdf_pages": [
+            6,
+            9
+          ]
+        },
+        {
+          "material": "Ergänzung zum Gesamtband: Die Autorinnen und Autoren",
+          "print_pages": [
+            163,
+            165
+          ],
+          "pdf_pages": [
+            163,
+            165
+          ]
+        }
+      ],
+      "removed_page_number_footers": {
+        "10": [
+          "10"
+        ],
+        "11": [
+          "                                                                                                         11"
+        ],
+        "12": [
+          "12"
+        ],
+        "13": [
+          "                                                                                                  13"
+        ],
+        "14": [
+          "14"
+        ],
+        "15": [
+          "                                                                                                     15"
+        ],
+        "16": [
+          "16"
+        ],
+        "17": [
+          "                                                                                               17"
+        ],
+        "18": [
+          "18"
+        ],
+        "19": [
+          "                                                                                                           19"
+        ],
+        "20": [
+          "20"
+        ],
+        "21": [
+          "                                                                               21"
+        ],
+        "22": [
+          "22"
+        ],
+        "23": [
+          "                                                                                               23"
+        ]
+      },
+      "characters": 56034,
+      "sha256": "99a59dbf929745fb04f88e93c1d7fd5c98b15117c0a63b8ebb91cbff14456c4d"
+    },
+    {
+      "chapter": 2,
+      "numbering": "reading order; original essays unnumbered",
+      "title": "What works best in school? Hatties Befunde zu Effekten von Schul- und Unterrichtsvariablen auf Schulleistungen",
+      "authors": [
+        "Olaf Köller"
+      ],
+      "chinese_navigation_label": "学校中什么最有效",
+      "print_pages": [
+        24,
+        37
+      ],
+      "pdf_pages": [
+        24,
+        37
+      ],
+      "txt": "Ch02_Koller_What_Works_Best_in_School.txt",
+      "book_supplements": [],
+      "removed_page_number_footers": {
+        "24": [
+          "24"
+        ],
+        "25": [
+          "                                                                                25"
+        ],
+        "26": [
+          "26"
+        ],
+        "27": [
+          "                                                                                                                                                                                             27"
+        ],
+        "28": [
+          "28"
+        ],
+        "29": [
+          "                                                                               29"
+        ],
+        "30": [
+          "30"
+        ],
+        "31": [
+          "                                                                                       31"
+        ],
+        "32": [
+          "32"
+        ],
+        "33": [
+          "                                                                                33"
+        ],
+        "34": [
+          "34"
+        ],
+        "35": [
+          "                                                                                35"
+        ],
+        "36": [
+          "36"
+        ],
+        "37": [
+          "                                                                                              37"
+        ]
+      },
+      "characters": 40109,
+      "sha256": "f4d0cbd4a326699cf90a583716652f4a4923f9126d2e408824b2f9f57314bbd3"
+    },
+    {
+      "chapter": 3,
+      "numbering": "reading order; original essays unnumbered",
+      "title": "Gilt nach Hattie: Je häufiger, desto besser? Zur Bedeutung von „Evidenzbasierung“ für pädagogisches Handeln vor Ort",
+      "authors": [
+        "Hans Brügelmann"
+      ],
+      "chinese_navigation_label": "依据哈蒂，越频繁就越好吗",
+      "print_pages": [
+        38,
+        50
+      ],
+      "pdf_pages": [
+        38,
+        50
+      ],
+      "txt": "Ch03_Brugelmann_Evidence_and_Local_Practice.txt",
+      "book_supplements": [],
+      "removed_page_number_footers": {
+        "38": [
+          "38"
+        ],
+        "39": [
+          "                                                                                             39"
+        ],
+        "40": [
+          "40"
+        ],
+        "41": [
+          "                                                                              41"
+        ],
+        "42": [
+          "42"
+        ],
+        "43": [
+          "                                                                             43"
+        ],
+        "44": [
+          "44"
+        ],
+        "45": [
+          "                                                                                45"
+        ],
+        "46": [
+          "46"
+        ],
+        "47": [
+          "                                                                                 47"
+        ],
+        "48": [
+          "48"
+        ],
+        "49": [
+          "                                                                                             49"
+        ],
+        "50": [
+          "50"
+        ]
+      },
+      "characters": 33081,
+      "sha256": "b3c498c15859651195f7109a0b5323f716d26589cf0bb6ee81b3b1c596904f1a"
+    },
+    {
+      "chapter": 4,
+      "numbering": "reading order; original essays unnumbered",
+      "title": "Evidence-Based Teaching: Hat John Hattie eine Allgemeine Didaktik entwickelt?",
+      "authors": [
+        "Hans-Joachim von Olberg"
+      ],
+      "chinese_navigation_label": "哈蒂是否建立了一种一般教学论",
+      "print_pages": [
+        51,
+        66
+      ],
+      "pdf_pages": [
+        51,
+        66
+      ],
+      "txt": "Ch04_VonOlberg_Evidence_Based_Teaching.txt",
+      "book_supplements": [],
+      "removed_page_number_footers": {
+        "51": [
+          "                                                                              51"
+        ],
+        "52": [
+          "52"
+        ],
+        "53": [
+          "                                                                                 53"
+        ],
+        "54": [
+          "54"
+        ],
+        "55": [
+          "                                                                             55"
+        ],
+        "56": [
+          "56"
+        ],
+        "57": [
+          "                                                                               57"
+        ],
+        "58": [
+          "58"
+        ],
+        "59": [
+          "                                                                                 59"
+        ],
+        "60": [
+          "60"
+        ],
+        "61": [
+          "                                                                               61"
+        ],
+        "62": [
+          "62"
+        ],
+        "63": [
+          "                                                                                        63"
+        ],
+        "64": [
+          "64"
+        ],
+        "65": [
+          "                                                                                              65"
+        ],
+        "66": [
+          "66"
+        ]
+      },
+      "characters": 39770,
+      "sha256": "3e82aff1a5e1b47a382023c139dd8155446874d7f4f87e25da751e7cb3dda6f6"
+    },
+    {
+      "chapter": 5,
+      "numbering": "reading order; original essays unnumbered",
+      "title": "Sind schulische Strukturfaktoren wirklich nicht so wichtig? Hattie und das deutsche Schulsystem",
+      "authors": [
+        "Hans-Günter Rolff"
+      ],
+      "chinese_navigation_label": "学校结构因素真的不重要吗",
+      "print_pages": [
+        67,
+        77
+      ],
+      "pdf_pages": [
+        67,
+        77
+      ],
+      "txt": "Ch05_Rolff_School_Structural_Factors.txt",
+      "book_supplements": [],
+      "removed_page_number_footers": {
+        "67": [
+          "                                                                                  67"
+        ],
+        "68": [
+          "68"
+        ],
+        "69": [
+          "                                                                                                       69"
+        ],
+        "70": [
+          "70"
+        ],
+        "71": [
+          "                                                                                                  71"
+        ],
+        "72": [
+          "72"
+        ],
+        "73": [
+          "                                                                               73"
+        ],
+        "74": [
+          "74"
+        ],
+        "75": [
+          "                                                                                    75"
+        ],
+        "76": [
+          "76"
+        ],
+        "77": [
+          "                                                                                             77"
+        ]
+      },
+      "characters": 28911,
+      "sha256": "d649e453229b6340be15f3ecc667d682f93183333dc62250b5b893d37826c937"
+    },
+    {
+      "chapter": 6,
+      "numbering": "reading order; original essays unnumbered",
+      "title": "Wie lernwirksam ist das Kooperative Lernen? Lernen in kooperativen Strukturen auf dem Prüfstand der Hattie-Studie",
+      "authors": [
+        "Thomas Kremers"
+      ],
+      "chinese_navigation_label": "合作学习对学习有多大作用",
+      "print_pages": [
+        78,
+        88
+      ],
+      "pdf_pages": [
+        78,
+        88
+      ],
+      "txt": "Ch06_Kremers_Cooperative_Learning.txt",
+      "book_supplements": [],
+      "removed_page_number_footers": {
+        "78": [
+          "78"
+        ],
+        "79": [
+          "                                                                                                                 79"
+        ],
+        "80": [
+          "80"
+        ],
+        "81": [
+          "                                                                             81"
+        ],
+        "82": [
+          "82"
+        ],
+        "83": [
+          "                                                                                83"
+        ],
+        "84": [
+          "84"
+        ],
+        "85": [
+          "                                                                                          85"
+        ],
+        "86": [
+          "86"
+        ],
+        "87": [
+          "                                                                                  87"
+        ],
+        "88": [
+          "88"
+        ]
+      },
+      "characters": 32427,
+      "sha256": "ee17e560fc89384c0749d222c236f6f94297b1715823b2c3d41306c803d34225"
+    },
+    {
+      "chapter": 7,
+      "numbering": "reading order; original essays unnumbered",
+      "title": "Hatties Visible Learning im Kontext der Mathematikdidaktik: Das Beispiel Problemlösen",
+      "authors": [
+        "Kristina Reiss",
+        "Matthias Bernhard"
+      ],
+      "chinese_navigation_label": "数学教学论中的可见学习与问题解决",
+      "print_pages": [
+        89,
+        100
+      ],
+      "pdf_pages": [
+        89,
+        100
+      ],
+      "txt": "Ch07_Reiss_Bernhard_Mathematics_Education.txt",
+      "book_supplements": [],
+      "removed_page_number_footers": {
+        "89": [
+          "                                                                             89"
+        ],
+        "90": [
+          "90"
+        ],
+        "91": [
+          "                                                                                                     91"
+        ],
+        "92": [
+          "92"
+        ],
+        "93": [
+          "                                                                             93"
+        ],
+        "94": [
+          "94"
+        ],
+        "95": [
+          "                                                                                 95"
+        ],
+        "96": [
+          "96"
+        ],
+        "97": [
+          "                                                                                  97"
+        ],
+        "98": [
+          "98"
+        ],
+        "99": [
+          "                                                                                               99"
+        ],
+        "100": [
+          "100"
+        ]
+      },
+      "characters": 30974,
+      "sha256": "8792edc4ca9f7aff6ec12def1fd4baec177cf2485e3f6189c3dc8fb2555be007"
+    },
+    {
+      "chapter": 8,
+      "numbering": "reading order; original essays unnumbered",
+      "title": "Wirksamer Fachunterricht: Visible Learning in geschichtsdidaktischer Perspektive",
+      "authors": [
+        "Marko Demantowsky",
+        "Monika Waldis"
+      ],
+      "chinese_navigation_label": "有效的学科教学，历史教学论的视角",
+      "print_pages": [
+        101,
+        116
+      ],
+      "pdf_pages": [
+        101,
+        116
+      ],
+      "txt": "Ch08_Demantowsky_Waldis_History_Education.txt",
+      "book_supplements": [],
+      "removed_page_number_footers": {
+        "101": [
+          "                                                                                101"
+        ],
+        "102": [
+          "102"
+        ],
+        "103": [
+          "                                                                              103"
+        ],
+        "104": [
+          "104"
+        ],
+        "105": [
+          "                                                                                 105"
+        ],
+        "106": [
+          "106"
+        ],
+        "107": [
+          "                                                                              107"
+        ],
+        "108": [
+          "108"
+        ],
+        "109": [
+          "                                                                                109"
+        ],
+        "110": [
+          "110"
+        ],
+        "111": [
+          "                                                                                    111"
+        ],
+        "112": [
+          "112"
+        ],
+        "113": [
+          "                                                                                 113"
+        ],
+        "114": [
+          "114"
+        ],
+        "115": [
+          "                                                                                               115"
+        ],
+        "116": [
+          "116"
+        ]
+      },
+      "characters": 42785,
+      "sha256": "e2fd6ea16f2e298b10d044f734257ce3d5f0f619af83ec5e4fc671d06091a1e2"
+    },
+    {
+      "chapter": 9,
+      "numbering": "reading order; original essays unnumbered",
+      "title": "Auf den Unterricht kommt es an! Hatties Daten deuten lernen",
+      "authors": [
+        "Hilbert Meyer"
+      ],
+      "chinese_navigation_label": "关键在教学，学习解释哈蒂的数据",
+      "print_pages": [
+        117,
+        133
+      ],
+      "pdf_pages": [
+        117,
+        133
+      ],
+      "txt": "Ch09_Meyer_Interpreting_Hatties_Data.txt",
+      "book_supplements": [],
+      "removed_page_number_footers": {
+        "117": [
+          "                                                                                                           117"
+        ],
+        "118": [
+          "118"
+        ],
+        "119": [
+          "                                                                                                       119"
+        ],
+        "120": [
+          "120"
+        ],
+        "121": [
+          "                                                                                 121"
+        ],
+        "122": [
+          "122"
+        ],
+        "123": [
+          "                                                                                 123"
+        ],
+        "124": [
+          "124"
+        ],
+        "125": [
+          "                                                                                               125"
+        ],
+        "126": [
+          "126"
+        ],
+        "127": [
+          "                                                                                                       127"
+        ],
+        "128": [
+          "128"
+        ],
+        "129": [
+          "                                                                                  129"
+        ],
+        "130": [
+          "130"
+        ],
+        "131": [
+          "                                                                            131"
+        ],
+        "132": [
+          "132"
+        ],
+        "133": [
+          "                                                                                             133"
+        ]
+      },
+      "characters": 40877,
+      "sha256": "f68cd2323e12190cb4ab3e11b6a6cdf8b71e0e7ad5e1eaa0fe858e0d645cad6a"
+    },
+    {
+      "chapter": 10,
+      "numbering": "reading order; original essays unnumbered",
+      "title": "Visible Evidence? Eine methodisch orientierte Auseinandersetzung mit John Hatties Meta-Metaanalysen",
+      "authors": [
+        "Hans Anand Pant"
+      ],
+      "chinese_navigation_label": "可见的证据，对元元分析的方法审视",
+      "print_pages": [
+        134,
+        146
+      ],
+      "pdf_pages": [
+        134,
+        146
+      ],
+      "txt": "Ch10_Pant_Visible_Evidence.txt",
+      "book_supplements": [],
+      "removed_page_number_footers": {
+        "134": [
+          "134"
+        ],
+        "135": [
+          "                                                                                135"
+        ],
+        "136": [
+          "136"
+        ],
+        "137": [
+          "                                                                                137"
+        ],
+        "138": [
+          "138"
+        ],
+        "139": [
+          "                                                                             139"
+        ],
+        "140": [
+          "140"
+        ],
+        "141": [
+          "                                                                                                               141"
+        ],
+        "142": [
+          "142"
+        ],
+        "143": [
+          "                                                                                                             143"
+        ],
+        "144": [
+          "144"
+        ],
+        "145": [
+          "                                                                                              145"
+        ],
+        "146": [
+          "146"
+        ]
+      },
+      "characters": 38168,
+      "sha256": "7110096f2c5f8e855d9590f8db4e265eb13a25e709d280a4a71c1890be8a9d35"
+    },
+    {
+      "chapter": 11,
+      "numbering": "reading order; original essays unnumbered",
+      "title": "„Visible Learning“ wird zu „Lernen sichtbar machen“: Ein Kommentar zur Übersetzung und Überarbeitung der Hattie-Studie",
+      "authors": [
+        "Wolfgang Beywl",
+        "Klaus Zierer"
+      ],
+      "chinese_navigation_label": "从可见学习到让学习可见，翻译与修订说明",
+      "print_pages": [
+        147,
+        162
+      ],
+      "pdf_pages": [
+        147,
+        162
+      ],
+      "txt": "Ch11_Beywl_Zierer_Translation_and_Revision.txt",
+      "book_supplements": [],
+      "removed_page_number_footers": {
+        "147": [
+          "                                                                                147"
+        ],
+        "148": [
+          "148"
+        ],
+        "149": [
+          "                                                                                  149"
+        ],
+        "150": [
+          "150"
+        ],
+        "151": [
+          "                                                                                                151"
+        ],
+        "152": [
+          "152"
+        ],
+        "153": [
+          "                                                                                  153"
+        ],
+        "154": [
+          "154"
+        ],
+        "155": [
+          "                                                                                                155"
+        ],
+        "156": [
+          "156"
+        ],
+        "157": [
+          "                                                                               157"
+        ],
+        "158": [
+          "158"
+        ],
+        "159": [
+          "                                                                               159"
+        ],
+        "160": [
+          "160"
+        ],
+        "161": [
+          "                                                                                           161"
+        ],
+        "162": [
+          "162"
+        ]
+      },
+      "characters": 41022,
+      "sha256": "52a2259b26f69809965ca37122877b9214d6abc230c1283bc844865b157b0604"
+    }
+  ]
+}

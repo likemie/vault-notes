@@ -1,0 +1,555 @@
+Die Hattie-Studie in der Diskussion: Probleme sichtbar machen
+Herausgegeben von Ewald Terhart | 1. Auflage 2014 | Seelze: Kallmeyer in Verbindung mit Klett
+ISBN 978-3-7800-4804-2
+
+Leseeinheit 03: Gilt nach Hattie: Je häufiger, desto besser? Zur Bedeutung von „Evidenzbasierung“ für pädagogisches Handeln vor Ort
+Hans Brügelmann
+Originalseiten 38–50; PDF-Seiten 38–50
+
+[Deutscher Originaltext aus der OCR-Textebene des gescannten PDFs. Die Nummer der Leseeinheit folgt dem Inhaltsverzeichnis; die Beiträge sind im Original nicht nummeriert. Fußnoten und Literatur bleiben im jeweiligen Beitrag. Seitenmarkierungen verweisen auf Buchseite und PDF-Seite. OCR-Fehler können verbleiben; genaue Zitate, Tabellen und Abbildungen bitte am PDF prüfen.]
+
+
+========================================================================
+Beitrag mit Anmerkungen und Literatur
+========================================================================
+
+[p. 38] [PDF page 38]
+
+Hans ßrügelmann
+
+
+Gilt nach Hattie:
+Je häufiger, desto besser?
+Zur Bedeutung von "Evidenzbasierung" für
+pädagogisches Handeln vor Ort 1
+
+Bildungsforschung mündet in Wahrscheinlichkeitsaussagen, für das
+Handeln im Einzelfall liefern sie insofern nur Hypothesen. Statistische
+Wirkungsversprechen von Methoden müssen jeweils inhalts- und kon-
+textbezogen interpretiert werden. Diese Zuständigkeit der Praxis ist von
+Wissenschaft und Politik zu respektieren, die erforderliche Kompetenz zur
+kumulativen Einzelfallforschung in der Ausbildung zu fördern.
+
+
+
+John Hatties Meta-Metaanalyse Visible Learning (Originalausgabe 2009;
+deutsche Übersetzung 2013) imponiert durch die schier unglaubliche Zahl
+an einbezogenen Studien und die noch größere Zahl beteiligter Schülerin-
+nen und Schüler. Die Auswertung der so erhobenen Daten findet entspre-
+chend breite Resonanz (vgl. etwa die an verschiedenen Orten publizierten
+Zusammenfassungen von Steffens/Höfer 2012, 2013). Denn sie folgt einer
+Logik, die heutzutage in der Bildungsforschung fast unbefragt gilt: Je häu-
+figer ein Zusammenhang zwischen zwei Faktoren zu beobachten ist (zum
+Beispiel zwischen einer Unterrichtsmethode und überdurchschnittlichem
+Lernerfolg der nach ihr unterrichten Schülerinnen und Schülern), desto
+höhere Geltung kann er für die Arbeit im einzelnen Klassenzimmer bean-
+spruchen.
+   Hinzu kommt die Suggestion von Objektivität durch den Einsatz stan-
+dardisierter Leistungstests. Unterstellt wird dabei eine scheinbar technische
+Ableitbarkeit von konkreten Handlungsanweisungen aus allgemeinen Aus-
+
+
+1   Dieser Beitrag basiert auf drei früheren Veröffentlichungen in Grundschule aktuell (Heft 121, 2013,
+    S. 25-26), Schulverwaltung NRW (Heft 7/8, 2013, S. 216-218) und Lehren & Lernen (Heft 7, 2013,
+    S. 20-22), aus denen auch konkreteTeile in diesen Text eingegangen sind.
+
+[p. 39] [PDF page 39]
+
+sagen. Übersehen wird allerdings, wo überall der "subjektive Faktor" in der
+Verdichtung von Daten und ihrer anschließenden Auslegung wirksam ist.
+übersehen wird ebenfalls, dass in den abstrakten Kennwerten zudem der
+hoch bedeutsame Einfluss von Kontextbedingungen verloren geht. Insofern
+kann sich die Diskussion von Hatties Arbeit nicht auf Sinn und Unsinn von
+Metaanalysen beschränken, sie muss ihre Basis, das heißt das Paradigma
+(1) standardisierter Datenerhebung in (2) großen Stichproben grundsätzli-
+cher in den Blick nehmen (vgl. ausführlicher: Brügelmann 2011; Gruschka
+2012). Fangen wir mit dem zweiten Punkt an.
+
+
+
+Was bedeuten Wahrscheinlichkeitsaussagen für pädagogisches
+Handeln im Einzelfall?
+
+
+Im Spiegel Nr. 25 vom 17. 6. 2013 wurde die Bildungsforscherin Renate Val-
+tin mit der Forderung zitiert, man müsse die Unterrichtsmethode "Lesen
+durch Schreiben" verbieten, da die nach ihr unterrichteten Schülerinnen
+und Schüler in einer Reihe von Leistungsvergleichen schlechter abgeschnit-
+ten hätten als bei einem Unterricht nach herkömmlichen Methoden. Eini-
+ge Tage nach dieser Meldung erhielt ich diesen Kommentar eines Grund-
+schullehrers, der sich in seinem Unterricht konsequent am Konzept "Lesen
+durch Schreiben" orientiert. Er schrieb:
+      ,,Wir führen in unserer jahrgangsgemischten Klasse regelmäßig die standardisierte
+      ,Hamburger Schreibprobe' durch. in der Klasse ist nur ein Kind mit Migrationshin-
+      tergrund, aber ein guterTeil Kinder, die als nicht regelbeschulbar oder mit Lernstö-
+      rungen galten.
+      Durchschnitt über alle Jahrgänge mit Behinderten: Prozentrang 69, ohne Behin-
+      derte Prozentrang 73. Insgesamt liegen nur zwei Zweitklässler mit Prozentrang 34
+                                                                                             \
+      bzw. 47 unter dem Durchschnitt (ein vorzeitig eingeschultes Kind und ein,Curling-
+      kid' mit grenzwertiger LB-Schwester). Die Viertklässler erreichen im Durchschnitt
+      einen Prozentrang von 82 ... "
+
+
+Unterstellt (was schon umstritten ist ... ), dass nach "Lesen durch Schreiben"
+unterrichtete Kinder bei empirischen Leistungsvergleichen im Durchschnitt
+tatsächlich schwächer abschneiden: Soll, ja darf man "evidenzbasiert" dem
+zitierten Lehrer den Einsatz von "Lesen durch Schreiben" in seinem Un-
+terricht verbieten, weil mit dieser Methode von anderen Lehrerinnen und
+
+[p. 40] [PDF page 40]
+
+Lehrern schlechtere Ergebnisse erzielt worden sind? Gilt die statistische
+Weidmannsregel: einmal links daneben und einmal rechts daneben ist im
+Durchschnitt getroffen? Oder müsste man nicht gerrauer schauen: "Wann
+wirkt was?", statt abstrakt zu fragen: "Was wirkt"?
+    Dieses kleine Beispiel illustriert ein zentrales Problem sogenannter
+"evidenzbasierter" Aussagen über pädagogische Sachverhalte, die "Durch-
+schnittsfalle" (Helmke 2013, S. 12 f.): Aus den Durchschnittswerten sta-
+tistischer Auswertungen in großen Stichproben lassen sich keine verbind-
+lichen Folgerungen für den Einzelfall ableiten - allenfalls die Beweislast,
+ein abweichendes Handeln besonders zu begründen. Die Stärke von sta-
+tistischen Metaanalysen ist zugleich ihre Schwäche - wie beim Einsatz des
+Zoomens in der Fotografie, also der Entscheidung für Wald oder Bäume:
+Entweder gewinnt man einen guten Überblick, vernachlässigt dafür aber
+bedeutsame Details - oder es gelingt, einzelne Aspekte gerrauer in den
+Blick zu nehmen. (Schon vor 40 Jahren warnte Bauersfeld 1972, S. 243,
+die Unterrichtsforscherl-innen vor dieser "curricularen Unschärferelation",
+wie er das Dilemma einprägsam benannte.)
+    Wenn ein Politiker nach unerwarteten Frösten im April betroffenen
+Obstbauern mit Subventionen helfen will, mag es unvermeidlich sein, in ei-
+ner Rechtsverordnung Weintrauben, Johannisbeeren, Äpfel und Birnen mit
+anderem "Obst" zusammenzufassen und "Gemüse" zu vernachlässigen-
+wohl wissend, dass einige Obstsorten nicht von den Frösten betroffen wa-
+ren, einige Gemüsearten aber wohl. Für flächendeckende Entscheidungen
+(zum Beispiel zur "Migrantenförderung") ist man auch in der Bildungspo-
+litik auf solche Grobkategorien angewiesen - und auf Abschätzungen von
+Häufigkeiten. Dem Einzelfall in seiner Besonderheit kann man mit allge-
+meinen Aussagen und Regelungen nur sehr eingeschränkt gerecht werden.
+Ganz anders die Situation beim Einkauf für einen Obstsalat im Laden. Da
+sind Äpfel und Birnen sorgfältig zu unterscheiden, da spielen Sorte und
+Herkunft ebenso eine Rolle wie Vitamingehalt und Frische. Viele werden
+sich sogar die einzelne Frucht gerrau ansehen, ehe sie sie in den Einkaufs-
+korb legen. Hier geht es um Qualität im Einzelfall, nicht um Quantitäten
+innerhalb übergeordneter Kategorien.
+    Letztere bestimmen die Fragestellung und die Auswertung von Groß-
+studien, von Metaanalysen und erst recht von Meta-Metaanalysen - hilf-
+reich für eine Schulministerin, die für flächendeckende Entscheidungen auf
+Häufigkeiten, auf Korrelationen und Wahrscheinlichkeitsschätzungen ange-
+
+[p. 41] [PDF page 41]
+
+wiesen ist. Sie nimmt in Kauf, dass von einem Sonderzuschlag bei hohem
+Migrantenanteil auch ein Diplomatenviertel profitiert, und vielleicht auch,
+dass in verschiedenen sozialen Brennpunkten unterschiedlich sinnvoll mit
+der Zusatzzuweisung an Lehrerstunden umgegangen wird.
+    Eine Lehrerin aber kann sich nicht mit dem Wissen begnügen, dass Wla-
+dimir Migrant ist und aus Russland kommt, dass er erst vor fünf Jahren nach
+Deutschland gekommen ist und dass in seiner Familie Deutsch gesprochen
+wird. Je nach individuellem Kontext, also persönlicher Lebensgeschichte
+und Lebenswelt, bedeuten diese Kategorien ganz Unterschiedliches- ganz
+abgesehen von seinen konkreten Erfahrungen und Voraussetzungen in ein-
+zelnen Fächern. Persönliche Bedeutung und (sub-)kultureller Kontext sind
+der Schlüssel zum Verständnis pädagogischer Situationen - und beide gehen
+bei der Quantifizierung in standardisierten Untersuchungen verloren. Die-
+ser Mangel gilt bereits für die Basisuntersuchungen (vgl. Bartnitzky 2004;
+Meyerhöfer 2007), er verschärft sich allerdings mit jeder weiterenAbstrak-
+tionsstufe.
+    Hattie kennt diese Probleme und es ist seinen Übersetzern Beywl und
+Zierer hoch anzurechnen, dass sie sie in ihrer Einleitung zur deutschen
+Fassung explizit benennen und nüchtern diskutieren. Insofern ist folgen-
+der Hinweis Hatties wichtig: Evidenzbasierung bedeutet für Lehrerinnen
+und Lehrer, dass sie bewusst in ihrem eigenen Unterricht experimentieren
+und die empfohlenen Strategien im Lichte ihrer Erfahrungen kritisch prüfen
+(siehe unten). Warum dann aber "Barometer", in denen differenzierte For-
+schungsergebnisse auf wenig aussagekräftige Durchschnittswerte schrump-
+fen?
+    Hinzu kommen forschungsmethodische Probleme (ausführlicher dazu
+Arnold 2011; Higgins/Simpson 2011; Lind 2013; Metzen 2013; Rolff 2013;
+Terhart 2011 und in diesem Band): Korrelationen werden als Ursache-Wir-        \
+kung-Zusammenhänge interpretiert, ohne dass die Untersuchungsdesigns
+dies durchgängig hergeben. Verrechnungseinheit für die Kennwerte sind
+Studien - unabhängig von ihrem Stichprobenumfang. Die Interpretation
+von "Effektstärken" ist in der Zunft ebenso umstritten wie die Kriterien
+für dieAnerkennungeiner Untersuchung als "methodisch gut", sodass Aus-
+wahl und Bewertungen von Präferenzen der Autoren abhängen und von
+Metaanalyse zu Metaanalyse variieren. Außerdem können nur Studien
+einbezogen werden, die publiziert sind. Bekanntermaßen werden Unter-
+suchungen, die keine signifikanten Unterschiede zeigen, aber seltener ver-
+
+[p. 42] [PDF page 42]
+
+öffentlicht. Das verzerrt das Bild. Erkenntnisse aus interpretativen Studien
+fehlen vollständig.
+   Letzteres bringt uns zum ersten der beiden eingangs erwähnten Proble-
+me, der standardisierten Datenerhebung über pädagogische Sachverhalte.
+Meine Frage lautet:
+
+
+
+Lassen sich Unterrichtsmethoden inhalts- und kontextneutral
+bewerten?
+
+
+Eines der interessantesten Ergebnisse der Hattie-Studie ist die für viele
+Faktoren berichtete große Streuung der Befunde - obwohl diese vorher
+ja schon zweimal verdichtet worden sind: innerhalb einer Studie über ver-
+schiedene Schülerinnen und Schüler bzw. Lerngruppen hinweg und dann
+innerhalb einer jeden Metaanalyse über verschiedene Studien hinweg.
+Dass Hattie selbst in Metaanalysen noch große Unterschiede innerhalbn
+von Methoden findet, verweist auf die Bedeutsamkeit der konkreten Inhal-
+te und Bedingungen. Unterricht ist eben nicht "sachneutral" zu erfassen,
+wie schon Horst Rumpf (1969) kritisiert hat. Entgegen Marshall McLuhan
+(1968) gilt: "The medium is not the message." Wie dieneuere Medienfor-
+schung sieht auch die Bildungsforschung Nutzer nicht mehr als passive Op-
+fer von Medien/Methoden, sondern als Mit-Gestalter, die ihre persönlichen
+Bedürfnisse und Vorstellungen inter-aktiv einbringen - zusätzlich angeregt
+und eingeschränkt durch den jeweiligen soziokulturellen Kontext (so schon
+Turkle 1984, 1995; aktuell: Schubert 2013). Interaktionen von Person/Si-
+tuation und Medium/Methode aber führen zu unterschiedlichen Effekten
+auch im Unterricht.
+    Daraus folgen mehrere Einschränkungen für die Geltung formal-quanti-
+tativ verdichteter Befunde wie in Hatties Mega-Analysen:
+    - In den einbezogenen Untersuchungen werden dasselbe Konzept,
+       dieselbe Methode ("Gruppenarbeit", "entdeckendes Lernen") oft
+       unterschiedlich verstanden, sodass die Befunde nicht ohne Weiteres
+       einem "Ansatz" zugerechnet werden dürfen. "Computer-assisted
+       instruction" etwa umfasst ganz verschiedene Formen des Computer-
+       Einsatzes. So macht es in der Praxis einen großen Unterschied, um
+       welche Kompetenzen und Inhalte es in der Software geht, wie sie
+       methodisch aufbereitet werden, ob Schüler individuell an und mit
+
+[p. 43] [PDF page 43]
+
+ihrem Netbook arbeiten oder ob sie in Reih und Glied in einem ge-
+   sonderten Computerraum mit derselben Software lernen, ob sie im
+   Frontalunterricht in der Klasse vor dem Whiteboard sitzen oder inter-
+   aktiv Lösungsversuche durchprobieren.
+- Das Maß für den "Erfolg" einer Methode ist eng gewählt. Hatties
+   Erfolgskriterium sind nur Fachleistungen - und diese nur insoweit,
+   als sie überhaupt durch Tests erfassbar sind und zudem beschränkt
+   auf die Hauptfächer. Fachübergreifende Kompetenzen, Einstellungen
+   zum Lernen oder gar langfristige Erträge schulischer Erfahrungen
+   spielen keine Rolle für die Bewertung unterschiedlicher Methoden.
+- Die Art und Weise, wie untersuchte Merkmale gemessen wurden, va-
+   riiert von Studie zu Studie: Lesekompetenz kann beispielsweise mit
+   Wort-Bild-Zuordnungen, Lückensätzen oder Fragen zu einem Text er-
+  .fasst werden. Dieselben Kinder schneiden aber in den verschiedenen
+   Anforderungsbereichen und Testformaten durchaus unterschiedlich
+   ab. Zudem: Eine Methode, die für die eine Teilleistung förderlich ist,
+   muss es nicht für die andere sein. "Effekte" aus verschiedenen Unter-
+   suchungen dürfen also nicht formal zu einem Gesamtwert verrechnet
+   werden.
+   Programme oder Methoden werden von verschiedenen Lehrperso-
+   nen unterschiedlich umgesetzt. Diese Variationen sind bekannt, wer-
+   den aber bereits in den Ausgangsstudien meist nicht erfasst, sodass
+   Wirkungen von Praktiken gemessen werden, ohne dass deren Kon-
+   zepttreue sichergestellt ist. Dabei kommt es für die Wirkung einer
+   pädagogischen Konzeption oder didaktischen Methode sehr darauf
+   an, wie kompetent die Lehrpersonen sind, ob sie beispielsweise auf
+   den Einsatz von Computern im Unterricht vorbereitet wurden und
+   wie motiviert und wie überzeugt sie von einer Intervention sind. In       \
+   Hatties abstrakten Kennwerten gehen solche Differenzen fast völlig
+   verloren - in seinen persönlichen Folgerungen (vgl. sein viel zitiertes
+   "Auf den Lehrer kommt es an!") spielen sie dagegen eine zentrale
+   Rolle ...
+- Eine andere Einschränkung ergibt sich aus dem weiteren soziokul-
+   turellen Rahmen. Hatties Befunde stammen aus angelsächsischen
+   Studien, das heißt aus bestimmten Schulkulturen. Sie können so-
+   mit nicht ohne Weiteres auf andere Länder und ihre Schulsysteme
+   übertragen werden. Zudem stammen sie aus verschiedenen Zeiten.
+
+[p. 44] [PDF page 44]
+
+Von den 114Metaanalysen zu "computer-assisted instruction" wur-
+      den beispielsweise 25 schon vor 1990 abgeschlossen, weitere 25
+      vor 2000. Trotz der dramatischen Wandlungen in der Technik und in
+      den Software-Formaten über die letzten Jahrzehnte hinweg werden
+      die Studien gleich behandelt, als ob Unterschiede in diesen Merkma-
+      len irrelevant wären für Nutzung und Wirkungen des Mediums.
+   - Als Maß für die Überlegenheit einer Methode bzw. eines Programms
+      werden Mittelwertvergleiche mit konkurrierenden Ansätzen herange-
+      zogen. Außen vor bleiben die immensen Unterschiede innerhalb der
+      jeweiligen Ansätze. Dabei streuen die Effekte desselben Programms
+      oder derselben Methode meist erheblich - kein Wunder angesichts
+      der erwähnten Unterschiede in der Begrifflichkeit, bei der Umset-
+      zung und hinsichtlich der Randbedingungen. Sie variieren kontextab-
+      hängig, und genau diese Kontexte werden in Metaanalysen neutrali-
+      siert.
+Insofern giltangesichtsvon Hatties "Barometer"-Angaben zu verschiede-
+nen Unterrichtsmethoden die folgende Aussage:
+
+
+
+Auch standardisierte Daten sind hoch interpretationsbedürftig
+
+
+Denn Zahlen sprechen nicht für sich. Sowohl in die Metaanalyse selbst als
+auch in die Deutung ihrer Ergebnisse gehen subjektive Bewertungen ein
+(vgl. Rolff 2013). Dagegen ist nichts einzuwenden - nur ist damit der Ob-
+jektivitätsanschein einer bloßen "Verrechnung" von Daten hinfällig. Trotz-
+dem werden überall Hatties verkürzte Raukingtabellen zitiert; so tauchen
+bei Helmke (2012, Folie 12) und Köller (2012b, S. 74) offener Unterricht,
+jahrgangsübergreifendes Lernen und interne Differenzierung in der Global-
+kategorie "Was hilft nicht und schadet nicht?" auf. Einerseits warnt Helmke
+(2012, Folie 21) vor dem "naiven Fehlschluss: STOP von offenem Unter-
+richt"; andererseits urteilt Köller (2012a, S. 1), "dass manche Maßnahmen,
+denen man in der pädagogischen Diskussion große Bedeutung beimisst (of-
+fener Unterricht, jahrgangsübergreifender Unterricht), keine nennenswer-
+ten positiven Effekte auf schulisches Lernen haben".
+   Kein Wort in Hatties Studie zu den forschungsmethodischen Problemen
+gerade bei der Evaluation so komplexer Ansätze wie offener Unterricht
+(vgl. meinen Überblick zu den verschiedenen Achillesfersen der Basisstudi-
+
+[p. 45] [PDF page 45]
+
+en und Metaanalysen; Brügelmann 2009). So wird auch hier der kulturelle
+und historische Kontext nicht bedacht: Die vier ausgewerteten Metaanaly-
+sen beschränken sich auf angelsächsische Studien, die zudem 30 bis 40 Jah-
+re alt sind und insofern auf die deutschen Entwicklungen der letzten Jahre
+(vgl. etwa Pesehel 2002, 2003) nicht so einfach übertragen werden können.
+Unkommentiert auch die überraschenden Differenzen zu den höheren Ef-
+fekten etwa von "individualisiertem Lernen" und zu den noch höheren von
+"entdeckendem Lernen" oder von "Selbstvertrauen der Schüler" (ausführ-
+licher Pesehel 2013). Besonders auffällig ist die Differenz zum positiven
+Einfluss von "nondirektivem" Lehrerverhalten und Hatties Fazit an dieser
+Stelle (Hattie 2013, S. 143): "In Klassen mit personenzentrierten Lehrper-
+sonen [... ]lassen sich vermehrt offene Lernsituationen (von Lernenden an-
+geregt und reguliert) feststellen, ebenso wie höhere Leistungs-Outcomes."
+Diese.Widersprüche zu den vorher berichteten niedrigeren Werten für offe-
+nen Unterricht (ebda., S. 105f.) werden nicht aufgeklärt. Ob das, was Hat-
+tie mit den jeweiligen Etiketten benennt und unterscheidet, und das, was
+in einzelnen Basisstudien darunter verstanden wurde, sich wirklich deckt,
+kann der Leser kaum nachprüfen.
+
+
+
+Das (oft missverstandene) "Vorbild" Medizin
+
+
+In der Medizin hat der Anspruch der Evidenzbasierung schon eine etwas
+längere Geschichte als in der Pädagogik. Seit seiner Einführung Anfang der
+1990er Jahre ist er intensiv und kritisch diskutiert und in wichtigen Punkten
+relativiert worden (vgl. Weßling 2011). Die Befürworter "evidenzbasier-
+ter" Entscheidungen in Bildungspolitik und Unterricht verweisen gerne da-
+rauf, anders als die Lehrerschaft seien die Ärzte eine "Profession", die ihre   \
+Arbeit an "wissenschaftlichen" Kriterien orientiere. Abgesehen davon, dass
+die Orientierung an Mittelwerten aus Großstudien auch unter Medizinern
+umstritten ist (vgl. beispielsweise Albrecht 2012), sieht deren Praxis kom-
+plizierter aus, als das Zauberwort "Evidenzbasierung" unterstellt: Selbst
+wenn Medikament A Medikament B in 85 % der Therapie-Fälle überlegen
+ist, wird deshalb nicht A über alle Fälle hinweg angewendet und B wegge-
+worfen. Erfolgreich kann ein Arzt nur sein, wenn er die Besonderheiten
+seiner Patientirr (Gewicht, Leberschaden, hoher Blutdruck usw.) und ihre
+aktuelle Situation berücksichtigt (gereizter Magen, Menstruation, Stress im
+
+[p. 46] [PDF page 46]
+
+Beruf usw.). Ganz zu schweigen von der Wirkung subjektiver Faktoren wie
+Überzeugtheit des Arztes von der Maßnahme und Glaube der Patientin an
+ihre Wirksamkeit. Placebo- und Nocebo-Studien haben deren Einfluss ein-
+drucksvoll nachgewiesen (vgl. Jütte u. a. 2010; Heier 2011). Grundsätzlich
+wird der Einfluss dieser Beziehungsebene selbst in den formalen Variablen
+des standardisierten Paradigmas sichtbar (vgl. Hattie 2013, S. 141ff.)
+   Bescheidener als in den Jubelarien über Hatties "Heiligen Gral der
+Unterrichtsforschung" (Times Educational Supplement) heißt es in der
+unter Medizinern viel zitierten Definition von Sackett u. a. (2000, S. 1):
+"Evidence-based medicine (EBM) is the integration of best research evi-
+dence with clinical expertise and patient values [... ] ". Die Verantwortung
+der Abwägung hat also der Arzt vor Ort - und dessen praktische Erfah-
+rung, aber auch die Sichtweise des Patienten stehen gleichrangig neben den
+Forschungsbefunden. Dies ist eine wichtige Relativierung des Geltungsan-
+spruchs von Ergebnissen aus experimentellen Studien und Reihenuntersu-
+chungen.
+
+
+
+Lehrer müssen Forscher werden
+
+
+Nimmt man dieses dialogische Verständnis auch für Schule und Unterricht
+ernst, ist man nahe bei dem, was Hattie selbst fordert, wenn er Lehrkräfte
+zum kreativen und reflektierten Umgang mit seinen Empfehlungen ermun-
+tert, und was Stenhouse (1975, S. 142) bereits vor fast 40 Jahren für die
+Pädagogik eingeklagt hat: der Lehrer als Forscher, als "experimental col-
+league" der Wissenschaftler. Damit kehrt er die übliche Hierarchie um: Die
+persönliche Erfahrung der Praktiker und Praktikerinnen und kontextbezo-
+gene Fallstudien sind nicht Vorstufe der eigentlichen Forschung in Groß-
+studien, sondern die Nagelprobe für deren Bewährung in einer konkreten
+Situation. Statistische Befunde bieten Hypothesen. Deren Geltung aber ist
+von Fall zu Fall neu zu bestimmen: im Blick auf die besonderen Bedingun-
+gen der einzelnen Schule oder Lerngruppe und der einzelnen Lernenden.
+Statistische Kennwerte sind nur Wahrscheinlichkeitsaussagen. Sie machen
+aufmerksam auf Chancen und auf Risiken einzelner Maßnahmen. Sie er-
+zeugen eine Begründungspflicht, aber sie können das Urteil fachkundiger
+Personen im Klassenzimmer nicht ersetzen. Deren Qualifizierung erfordert
+eine stärker reflexionsorientierte Lehrerbildung, die die Wahrnehmungs-
+
+[p. 47] [PDF page 47]
+
+und Deutungskompetenz vor Ort stärkt, statt Datenberge für eine bessere
+Fern-Sicht (und Fern-Steuerung) zu optimieren (ausführlicher dazu Brügel-
+mann 2011). Insofern ist Hatties niedrige Einschätzung der Wirkungen der
+Lehrerbildung (Hattie 2013, S. 132) vermutlich wieder eine Folge der bloß
+formalen Klassifikation nach akademischem Niveau oder Dauer, aber eben
+nicht nach Qualitäten der konkreten Programme.
+
+
+
+Nützt Hatties Überblick wenigstens der Politik?
+
+
+Erkenntnisse aus großen Stichproben könnten helfen, bildungspolitische
+Entscheidungen über flächendeckende Maßnahmen besser abzusichern. In
+der Tat lassen sie erkennen, bei welcher Alternative die Chancen im Mittel
+größer und die Risiken kleiner sind. Andererseits zeigen schon die wenigen
+Differenzierungen, die Hattie dankenswerterweise selbst zu seinen Global-
+bewertungen anmerkt, wie problematisch es generell ist, pädagogische Kon-
+zepte oder Methoden zentral vorzugeben. Gerade die große Streuungen
+innerhalb einer jeder Interventionsform machen darauf aufmerksam, wie
+bedeutsam situative Bedingungen für die Wirkung einer Methode sind. Und
+dann reichen auch Relativierungen nicht wie in dem Urteil von Spiewak
+(2013) in der Zeit: "Frontalunterricht funktioniert [... ],aber nur wenn die
+Lehrkraft wenig redet". Kommt es nicht vielleicht auch darauf an, was sie
+sagt und wie sie es sagt? In Metaanalysen aber dominiert Quantität über
+Qualität.
+    Bleiben die Strukturentscheidungen. Zunächst ist anzumerken, dass
+Hattie keine Vergleiche zwischen Gesamtschule und mehrgliedrigen Sys-
+temen anstellt, da in den angelsächsischen Ländern gemeinsames Lernen
+weit über die Grundschulzeit hinaus schon lange die Regel ist. Seine Aus-        \
+sagen (Hattie 2013, S. 88 ff.) beziehen sich vor allem auf die nur geringen
+Vorteile privater Schulen. Insofern ist ein fataler Fehlschluss, wenn aus Hat-
+ties viel zitiertem "Auf den Lehrer kommt es an" gefolgert wird, Schul-
+strukturen seien grundsätzlich gleichgültig (ausführlicher dazu Lind 2013).
+Zwar können Organisationsformen guten Unterricht nicht gewährleisten.
+Aber sie können ihn erleichtern - und behindern. Es reichen wenige Be-
+richte aus dem Alltag bayerischer Familien, um deutlich zu machen, welche
+dramatischen Auswirkungen das "Grundschulabitur" zur Aufteilung der
+Viertklässler auf die verschiedenen Schulformen auf Lehrerin und Lehrer
+
+[p. 48] [PDF page 48]
+
+und Schülerinnen und Schüler haben kann. Strukturen schlagen da massiv
+in den pädagogischen Alltag durch.Auch die Pauschalurteile über die Nutz-
+losigkeit kleiner Klassen oder einer Jahrgangsmischung verkennen, dass es
+darauf ankommt, wie man deren Potenzial nutzt - oder verschenkt.
+    Hatties Überblick ist ähnlich hilfreich wie die Weitwinkelaufnahme einer
+Stadt aus der Luft - für Planer, die die Infrastruktur einer Stadt gestalten
+wollen. Wer dagegen ein einzelnes Haus bauen oder kaufen will, braucht
+Detailinformationen, die in der Vogelperspektive verlorengehen. Je nach
+Fragestellung lassen sich deren Unschärfen unterschiedlich interpretieren
+und bewerten. Was eine häufigkeits- und durchschnittsorientierte Statistik
+als zu vernachlässigende Randbedingung oder als methodischen Schmutz-
+effekt betrachtet, kann für den vor Ort Tätigen eine inhaltlich bedingte und
+deshalb für sein Handeln bedeutsame Besonderheit darstellen.
+    Was also bleibt als Nutzen für Bildungspolitik und Schulverwaltung? Sie
+können aus Hatties Daten zwei Folgerungen ziehen. Für flächendecken-
+de Entscheidungen geben ihnen die Wahrscheinlichkeitsaussagen Anhalts-
+punkte, welche Maßnahme im Durchschnitt größere oder geringere Erfolge
+verspricht. Je höher aber die Streuung, desto mehr stellt sich die grundsätz-
+liche Frage, wo es überhaupt sinnvoll ist, bestimmte Entscheidungen zentral
+zu fällen ...
+
+Literatur
+Albrecht, Harro (2012): Evidenzbasierte Medizin- Lob der Erfahrung. In: Die Zeit, Nr. 19,
+    03. 05. 2012. http:/ /www.zeit.de/2012/19 /PS-Erfahrung-Alltag-Medzin/komplettan-
+    sicht.
+Arnold, Ivo (2011): John Hattie: Visible learning: A synthesis of over 800 meta-analyses re-
+    lating to achievement. Book Review. In: International Review of Education, 57 (1-2),
+    S. 219-221. http:/ /link.springer.com/article/10.1007 /s11159-011-9198-8.
+Bartnitzky, Horst (2004): VERA Deutsch 2004: Ungeeignet und bildungsfern. In: Grund-
+    schulverhand aktuell, H. 89, S. 10-16.
+Bauersfeld, Heinrich (1972): Einige Bemerkungen zum "Frankfurter Projekt" und zum
+    "alef"-Programm. In: Erwin Schwartz u. a. (Hrsg.), Materialien zum Mathematikun-
+    terricht in der Grundschule. Beiträge zur Reform der Grundschule Bd. 13. Frankfurt:
+    Arbeitskreis Grundschule, S. 23 7-246.
+Briigelmann, Hans (2009): Öffnung des Unterrichts. Befunde und Probleme der empiri-
+    schen Forschung - revisited 2008. In: Hans Briigelmann/Erika Brinkmann: Öffnung
+    des Anfangsunterrichts. Theoretische Prinzipien, unterrichtspraktische Ideen und
+    empirische Befunde. Arbeitsgruppe Primarstufe/Universität: Siegen (1. Aufl. 2008),
+    S. 216-259.
+
+[p. 49] [PDF page 49]
+
+Brügelmann, Hans (2011): Miss Marple neben PISA & Co.- Plädoyer für eine Bildungs-
+    forschung, die der Praxis nützt. In: Heinz Moser (Hrsg.): Aus der Empirie lernen? For-
+    schung in der Lehrerbildung. Professionswissen für Lehrerinnen und Lehrer, Bd. 10.
+    Baltmannsweiler: Schneider, S. 221-234.
+Gruschka, Andreas (2012): "Empirische Bildungsforschung" am Ausgang ihrer Epoche?
+    Leicht erweiterte Fassung eines Vortrags auf dem Forum 11 zur Tagung "Bildungs-
+    forschung 2020 - Herausforderungen und Perspektiven" des BMBF in Berlin vom
+    29.-30. 03.2012. http://forum-kritische-paedagogik.de/start/?p=351.
+Hattie, John (2013): Lernen sichtbar machen. Überarbeitete deutschsprachige Ausgabe von
+    "Visible Learning", besorgt von Wolfgang Bewyhl und Klaus Zierer. Baltmannsweiler:
+    Schneider Hohengehren (eng!. Orig. 2009).
+Heier, Magnus (2011): Nocebo: Wer's glaubt, wird krank. Stuttgart: Hirzel.
+Helmke, Andreas (2012): Leistungsorientierung und Leistungsdifferenzierung im Unter-
+    richt: unvereinbare Ziele? Folien zum Vortrag. http://www.ed-bs.ch/bildung/pzbs/ver-
+    anstaltungen/paedagogische-tagung-05. 09 .2012/referat-helmke. pdf.
+Helmke, Andreas (2013): Interview von Volker Reinhardt mit Prof. Andreas Helmke zur
+    Ha~tie-Studie. In: Lehren und Lernen, 39 (7), S. 9-6.
+Higgins, Steve/ Simpson, Adrian (2011): Visible learning. A synthesis of over 800 meta-
+    analyses relating to achievement. By John A. C. Hattie. Review. In: British Journal of
+    Educational Studies, 59 (2), S. 197-218.
+Jütte, Robert u.a. (2010): Placebo in der Medizin. Hrsg. von der Bundesärztekammer.
+    Köln: Deutscher Ärzte Verlag.
+Köller, Olaf (2012a): Mythen guter Unterrichtspraxis. In: IPN-Blätter, 29 (2), S. 1 und 3.
+Köller, Olaf (2012b): What works best in school? Hatties Befunde zu Effekten von Schul-
+    und Unterrichtsvariablen auf Schulleistungen. In: Psychologie in Erziehung und Un-
+    terricht, 59 (1), S. 72-78.
+Lind, Georg (2013): Meta-Analysen als Wegweiser? Zur Rezeption der Studie von Hattie
+    in der Politik. In: Lehren und Lernen, 39 (7), S. 23-26. http://www.uni-konstanz.de/
+    ag-morallpdf/Lind-2013 _meta-analysen-als-wegweiser. pdf.
+McLuhan, Marshall (1968): Die Gutenberg-Galaxis. Düsseldorf: Econ (eng!. Orig. 1962).
+Metzen, Heinz (2013): John Hatties invisible Learnings. Ein publizistisches Lehrstück for-
+    schungsmethodischer und rhetorischer Winkelzüge im Dienste neoliberaler Schulpo-
+    litik. Bremen: AG Elementar- und Grundschulpädagogik, Universität Bremen. http://
+    www.grundschulpaedagogik. uni-bremen.de/forschung/juellmz2013winkelzuege. pdf
+    (inVorb.).
+                                                                                             \
+Meyerhöfer, Wolfram (2007): Was testen Tests? Objektiv-hermeneutische Analysen am
+    Beispiel von TIMSS und PISA. Dissertation am Institut für Mathematik: Universität
+    Potsdam. http:/ /opus.kobv.de/ubp/volltexte/2007 /1284/.
+Peschel, Falko (2002): Offener Unterricht- Idee -Realität- Perspektive und ein praxi-
+    serprobtes Konzept zur Diskussion. Teil I: Allgemeindidaktische Überlegungen. Teil II:
+    Fachdidaktische Überlegungen. Baltmannsweiler: Schneider.
+Peschel, Falko (2003): Offener Unterricht- Idee, Realität, Perspektive und ein praxiser-
+    probtes Konzept in der Evaluation. 2. Auflage 2006. Dissertation, Universität: Siegen.
+    Baltmannsweiler: Schneider.
+
+[p. 50] [PDF page 50]
+
+Peschel, Falko (2013): Mr. Hattie und der Offene Unterricht. http://visible-learning.org/
+    de/2013/06/mr-hattie-und-der-offene-unterricht/.
+Rolff, Hans-Günter (2013): Die Hattie-Studie: Ein Rorschach-Test. In: Pädagogik, 65 (3),
+    S. 46-49.
+Rumpf, Horst (1969): Sachneutrale Unterrichtsbeobachtung. Einige Fragen zu empirischen
+    Forschungsansätzen. In: Zeitschrift für Pädagogik, 15 (3), S. 293-314.
+Sackett, David. L./Strauss, Sharon E./Richardson, W. Scott/Rosenberg, William/Haynes, R.
+    Brian (2000): Evidence-based medicine. How to practice and teach EBM. Edinburgh:
+    Livingstone.
+Schubert, Kai (2013): Wie nutzen Kinder digitale Medien? Fallstudien der alltäglichen
+    Nutzung von Computer und Internet durch 9- bis 10-jährige Kinder. Dissertation zur
+    Erlangung des Doktorgrades Dr. rer. pol. in der Fakultät III. Universität: Siegen.
+Spiewak, Martin (2013): Ich bin superwichtig! In: Die Zeit, Nr. 2, 03.01.2013. http://www.
+    zeit.de/2013/02/Paedagogik-John-Hattie-Visible-Learning.
+Steffens, Ulrich/Höfer, Dieter (2012): Zentrale Befunde aus der Schul- und Unterrichts-
+    forschung. Eine Bilanz aus über 50.000 Studien. In: Schulverwaltung Bayern, 35 (2),
+    s. 38-42.
+Steffens, Ulrich/Höfer, Dieter (2013): Die Hattie-Studie. Aufschlussreiche und kontrovers
+    diskutierte Befunde. In: Lehren und Lernen, 39 (7), S. 4-8.
+Stenhouse, Lawrence (1975): An introduction to curriculum research and development.
+    London: Beinemann (dt. Zusammenfassung in: Zeitschrift für Pädagogik, 19 (3),
+    s. 447-452.
+Terhart, Ewald (2011): Hat John Hattie tatsächlich den Heiligen Gral der Schul- und Un-
+    terrichtsforschung gefunden? Eine Auseinandersetzung mit Visible Learning. In: Ed-
+    win Keiner u. a. (Hrsg.), Metamorphosen der Bildung. Historie - Empirie -Theorie.
+    Festschrift für Heinz-ElmarTenorth. Bad Heilbrunn: Klinkhardt, S. 277-292. Online:
+    http:/ /forum-kritische-paedagogik. de/s tart/wp-con ten t/up loads/ downloads/2 012/11/
+    Terhart-zu-Hattie.pdf.
+Turkle, Shelly (1984): Die Wunschmaschine. Vom Entstehen der Computerkultur. Reinbek:
+    Rowohlt.
+Turkle, Shelly (1995): Life on the screen: Identity in the age of the internet. New York:
+    Sirnon & Schuster.
+Weßling, Heinrich (2011): Theorie der klinischen Evidenz. Versuch einer Kritik der Evi-
+    denzbasierten Medizin. Münster: LIT-Verlag.

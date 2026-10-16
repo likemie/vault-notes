@@ -1,0 +1,502 @@
+Die Hattie-Studie in der Diskussion: Probleme sichtbar machen
+Herausgegeben von Ewald Terhart | 1. Auflage 2014 | Seelze: Kallmeyer in Verbindung mit Klett
+ISBN 978-3-7800-4804-2
+
+Leseeinheit 07: Hatties Visible Learning im Kontext der Mathematikdidaktik: Das Beispiel Problemlösen
+Kristina Reiss; Matthias Bernhard
+Originalseiten 89–100; PDF-Seiten 89–100
+
+[Deutscher Originaltext aus der OCR-Textebene des gescannten PDFs. Die Nummer der Leseeinheit folgt dem Inhaltsverzeichnis; die Beiträge sind im Original nicht nummeriert. Fußnoten und Literatur bleiben im jeweiligen Beitrag. Seitenmarkierungen verweisen auf Buchseite und PDF-Seite. OCR-Fehler können verbleiben; genaue Zitate, Tabellen und Abbildungen bitte am PDF prüfen.]
+
+
+========================================================================
+Beitrag mit Anmerkungen und Literatur
+========================================================================
+
+[p. 89] [PDF page 89]
+
+Kristina Reiss, Matthias Bernhard
+
+
+Hatties Visible Learning im Kontext
+der Mathematikdidaktik
+Das Beispiel Problemlösen
+
+Am Beispiel des Prob!emlösens, dem in der Mathematikdidaktik traditio-
+nell eine besondere Bedeutung zukommt, zeigt sich exemplarisch, inwie-
+fern Hatties Meta-Metaanalyse für die Fachdidaktik von Bedeutung sein
+kann und wo Grenzen bei der Interpretation liegen sollten. So lassen sich
+in den Ergebnissen durchaus interessante Muster erkennen. Gleichzeitig
+wird deutlich, dass eine oberflächliche Interpretation der Ergebnisse der
+Komplexität des Themas bei Weitem nicht gerecht wird.
+
+Welche Faktoren sind entscheidend für erfolgreiches Lernen? Diese Frage
+stellt sich im alltäglichen Unterricht, sie wird aber vor dem Hintergrund
+nationaler und internationaler Vergleichsstudien besonders brisant. Worauf
+lassen sich die bedeutsamen Leistungsunterschiede beispielsweise bezogen
+auf die Mathematik in verschiedenen Bundesländern (Roppelt u. a. 2013)
+bzw. verschiedenen Staaten (Sälzer u. a. 2013) zurückführen? Woran liegt
+es, dass in den genannten Studien Kompetenzunterschiede zwischen allem
+Anschein nach vergleichbaren Schülergruppen berichtet wurden, die zum
+Teil mehr als ein Schuljahr ausmachten? Der neuseeländische Bildungsfor-
+scher John Hattie hat mit Visible Learning neue Impulse zur Beantwortung
+dieser Frage geliefert. In einer Synthese aus über 800 Metastudien hat er    \
+insgesamt 138 Variablen daraufhin untersucht, in welchem Zusammenhang
+sie mit der Lernleistung von Schülerinnen und Schülern stehen.
+    Hattie geht es um Lehren und Lernen ganz allgemein, und er bezieht
+sich eher am Rand auf spezifische Inhalte. Allerdings findet Unterricht in
+der Schule gewöhnlich in Fächern wie Mathematik, Deutsch oder Sport
+statt und betrifft Kombinationen allenfails bei mehr oder minder affinen
+Fächern zu Arbeitsbereichen wie Naturwissenschaft oder Sachkunde. In-
+sofern ist interessant, welche Konsequenzen für das fachliche Lernen aus
+der Metaanalyse gezogen werden können. Mit diesem Thema befasst sich
+
+[p. 90] [PDF page 90]
+
+der folgende Aufsatz. Weil es allerdings das fachliche Lernen nicht gibt, be-
+schränkt er sich exemplarisch auf die Mathematik.
+
+
+
+Erfolgreiches Lernen: Faktoren der Wirksamkeit
+
+
+Eine Analyse von mehr als 800 Studien mit über 100 untersuchten Variab-
+len mag unüberschaubar wirken, und so ist es sinnvoll, dass Hattie (2009,
+2013) angesichts der Datenmengen eine grobe Einteilung vornimmt. Die
+138 untersuchten Faktoren werden gruppiert und zu den folgenden Domä-
+nen1 zusammengefasst: Lernende, Elternhaus, Schule, Lehrperson, Curri-
+cula und Unterricht.
+   Doch auch mit dieser Einteilung bleibt die methodische Herausforde-
+rung, eine solche Analyse tatsächlich vergleichend durchzuführen. Genau
+das ist Hatties Anspruch. Sein Vorgehen ist entsprechend dadurch gekenn-
+zeichnet, dass er nicht nur signifikante Effekte berichtet, sondern auch dar-
+stellt, wie hoch diese ausfallen. Grundlage seiner Analysen ist die sogenann-
+te Effektstärke, die ein Maß für die Bedeutsamkeit eines Ergebnisses liefert.
+Sie wird aus den empirischen Kennwerten einer Studie berechnet. Hattie
+betrachtet eine Effektgröße von d = 0.2 als klein, von d = 0.4 als mittel und
+von d = 0.6 als groß, wobei eine Effektgröße von d = 1.0 einer Standard-
+abweichung entspricht. Die genannten Werte dienen nur der ungefähren
+Orientierung und werden in der Literatur nicht einheitlich verwendet (so
+nutzt Cohen 1988 etwas andere Grenzen). Im Vordergrund steht weniger
+die punktgenaue Festlegung als das übergeordnete Ziel, auf einer breiten
+empirischen Grundlage verschiedene Einflussfaktoren auf die Schülerleis-
+tung vergleichbar zu machen. Effektstärken können auch negativ sein, für
+die Beurteilung kommt es allerdings auf den Betrag an. Dies ist insbesonde-
+re für Metaanalysen von Bedeutung, bei denen aus den unterschiedlichen
+Werten das arithmetische Mittel gebildet wird. Auch große Effekte in positi-
+ver und negativer Richtung können sich dabei ausgleichen.
+   Hattie wendet sich gegen eine allzu einfache Interpretation einzelner
+Variablen, sondern betrachtet die Suche nach erklärenden Mustern als we-
+sentlich. Ein Zugang sind die bereits erwähnten Faktoren. Dabei ist es ein
+
+
+1   Der Aufsatz passt sich im Wesentlichen den Begrifflichkeiten der deutschen Ausgabe an. Ausnahme sind
+    die Faktoren problem-solving teaching und problem-based leaming, die unübersetzt bleiben.
+
+[p. 91] [PDF page 91]
+
+Ergebnis der Studie, dass gerade die politisch viel diskutierten äußeren Ein-
+flussfaktoren aus der Domäne Schule einen relativ geringen Einfluss auf die
+Schülerleistung zu haben scheinen. So erweist sich beispielsweise die Frage
+nach der Klassengröße als ebenso wenig zentral für die Lernleistung wie
+die finanzielle Ausstattung der Schule oder die inklusive Beschulung. Auch
+der Inhalt des Curriculums allein scheint keinen großen Einfluss auf die
+Leistungen von Schülerinnen und Schülern zu haben. Für ein erfolgreiches
+Lernen ist hingegen der Einfluss der Lehrerin oder des Lehrers und des Un-
+terrichts laut Hatties Studie ganz entscheidend: The teacher matters, oder:
+Auf den Lehrer kommt es an.
+    Sicherlich ist dieses Ergebnis ganz allgernein plausibel, aber im Detail
+sieht man durchaus überraschende Aspekte. Beispiele für besonders wirk-
+same Faktoren aus der Domäne Unterricht sind die formative Evaluation
+des Unterrichts (Rang 3, d = 0.90), das Reziproke Lehren (Rang 9, d =
+0.74) und schließlich Feedback (Rang 10, d = 0.73). Allen drei Faktoren
+ist gemeinsam, dass Lehrpersonen und Lernende eine Art Perspektivwech-
+sel vollziehen. Lehrpersonen scheinen besonders dann erfolgreich zu sein,
+wenn es ihnen gelingt, den Unterricht aus den Augen eines Lernenden zu
+sehen. Lernende erreichen umgekehrt höhere Lernleistungen, wenn sie
+selbst die Lehrperspektive einnehmen. Dieses Muster kommt auch in Hat-
+ties zentraler Aussage zum Ausdruck: Entscheidend für den Lernerfolg sind
+im Wesentlichen Faktoren, die das Lehren und Lernen sichtbar machen.
+Was Hattie unter "sichtbar machen" versteht, beschreibt er selbst wie folgt:
+      "Dieses tritt dann auf, wenn Lernen das explizite Ziel ist, wenn es ausreichend an-
+      spruchsvoll ist, wenn sowohl die Lehrperson als auch die Lernenden (jeweils auf
+      ihre Weise) überprüfen, ob und in welchem Ausmaß das anspruchsvolle Ziel er-
+      reicht ist, wenn es absichtsvolles Lernen gibt, um die Beherrschung des Ziels zu
+      erreichen, wenn Feedback gegeben und eingefordert wird und wenn am Lernpro-
+                                                                                                      \
+      zess aktive, leidenschaftliche und engagierte Menschen [ ... ] beteiligt sind".
+                                                                              (Hattie 2013, S. 27)
+
+
+
+Auch der Fachunterricht sollte folglich dann ganz besonders erfolgreich
+sein, wenn er klare und anspruchsvolle Ziele vorgibt, die aber erfüllbar sind
+und deren Einhaltung kontrolliert werden kann. Im Grunde sagt man dem
+Mathematikunterricht nach, dass in ihm diese Art des Arbeitens besonders
+leicht umzusetzen sei. Angernessen gewählte mathematische Problerne soll-
+ten also erfolgreiches Lernen sinnvoll unterstützen.
+
+[p. 92] [PDF page 92]
+
+Problemlösen aus Sicht der Mathematikdidaktik
+
+
+Mathematik und Problemlösen sind nicht unbedingt synonyme Begriffe,
+aber sie stehen in einem engen Zusammenhang. So bezeichnet der bekann-
+te Mathematiker Paul Richard Halmas Problemlösen als das "Herz der
+Mathematik" (Halmas 1980). Mathematisches Arbeiten ist zentral durch
+Probleme und deren Lösungen gekennzeichnet, was nicht nur für die wis-
+senschaftliche Mathematik, sondern auch für die Schulmathematik gilt.
+   In der Mathematik und Mathematikdidaktik wird unter Problemlösen in
+der Regel ein Prozess verstanden, bei dem ein gegebener Ausgangszustand
+in einen erwünschten Endzustand überführt werden soll, die notwendigen
+Mittel aber nicht offensichtlich sind (Schoenfeld 1985). Während Ausgangs-
+und Endzustand gerade in der Schulmathematik üblicherweise-wenn auch
+nicht immer - bekannt sind, stellt die Suche nach einem geeigneten Lö-
+sungsweg die eigentliche Herausforderung dar und erfordert einen flexiblen
+Umgang mit mathematischem Wissen in neuen Situationen.
+   Problemlösen hat als wichtiger Teil der Mathematik schon immer eine
+bedeutende Rolle im Unterricht gespielt. Die Definition von Bildungsstan-
+dards durch die Kultusministerkonferenz hat dies noch einmal betont (z. B.
+Kultusministerkonferenz 2004 für die Primarstufe). Hier wird definiert,
+dass es als Ergebnis von Unterricht darum geht, mathematische Kenntnisse,
+Fertigkeiten und Fähigkeiten bei der Bearbeitung problemhaltiger Aufgaben
+anzuwenden, Lösungsstrategien zu entwickeln und zu nutzen, Zusammen-
+hänge zu erkennen, zu nutzen und auf ähnliche Sachverhalte zu übertra-
+gen (Kultusministerkonferenz 2004, S. 8). Ganz ähnlich ist in Deutschland
+die allgemeine Kompetenz Probleme mathematisch lösen auch bezüglich
+des Mittleren Bildungsabschlusses und der Abiturstufe (Kultusminister-
+konferenz 2003, 2012) in den Bildungsstandards für das Fach Mathematik
+verankert. Problemlösen gehört damit zur mathematischen Grundbildung,
+kann aber durchaus als anspruchsvolle Aktivität gesehen werden. So wird
+in der PISA-Rahmenkonzeption betont, dass mathematische Grundbildung
+"nicht auf die Kenntnis mathematischer Terminologien, Fakten und Verfah-
+ren sowie auf die Fähigkeit zur Durchführung bestimmter Operationen und
+Anwendung bestimmter Methoden" (Deutsches PISA-Konsortium 2000,
+S. 4 7) reduziert werden darf. Mathematikunterricht muss nach diesem Ver-
+ständnis über das Lösen von Routineaufgaben hinausgehen und Problemlö-
+seprozesse breit thematisieren.
+
+[p. 93] [PDF page 93]
+
+Damit kommt dem Problernlösen schon aus theoretischer Perspektive eine
+zentrale Rolle im Mathematikunterricht zu. Sie wird aus empirischer Sicht
+durch eine Vielzahl von Studien bestätigt. So wurde in der TIMSS-Video-
+studie (Stigler u. a. 1999) Mathematikunterricht in Deutschland, Japan und
+den USA videografiert. Im Vergleich zeigte sich in Japan ein Unterrichts-
+muster, bei dem problernlösendes Lernen einen hohen Stellenwert hatte.
+Die Präsentation unterschiedlicher Lösungen zu einer Aufgabe war eine
+wichtige Komponente eines schülerzentrierten Unterrichts. Gleichzeitig ge-
+hörte Japan in dieser Studie zu den erfolgreichsten Ländern bezüglich der
+Mathernatikleistung.
+   Untersuchungen in Deutschland belegen ebenfalls, dass das Lösen an-
+spruchsvoller Problernaufgaben eine wichtige Komponente des Mathema-
+tikverständnisses ist. So ordnet ein Stufenmodell mathematischer Kompe-
+tenz für die Primarstufe (Reiss u. a. 2012) mathematisches Problernlösen
+im Wesentlichen den oberen beiden Kompetenzstufen zu. Da das Modell
+auf empirischen Daten beruht, bedeutet dieses Ergebnis im Urnkehrschluss,
+dass Problernlösen ein gutes mathematisches Verständnis voraussetzt. Prob-
+lernlösen im Sinne von Schoenfeld (1985) und mathematische Leistung sind
+somit positiv miteinander verbunden oder- anders ausgedrückt- Problem-
+lösekompetenz ist ein Indikator für die Mathernatikleistung.
+
+
+
+Problemlösen und Visible Learning
+
+
+In der Studie von Hattie findet man an zwei Stellen den Begriff problem,
+einmal im Zusammenhang mit dem Lehren und einmal im Zusammenhang
+mit dem Lernen. Im englischen Original heißen die Faktoren problem-sol-
+ving teaching und problem-based learning und sind beide der Domäne Un-       \
+terricht zugeordnet. Während problem-solving teaching auf Rang 20 (d =
+0.61) liegt und damit zu den Faktoren gehört, die laut Hattie einen großen
+positiven Effekt auf die Lernleistung der Schülerinnen und Schüler haben,
+liegt problem-based learning nur auf Rang 118 (d = 0.15) von 138 und hat
+folglich einen eher geringen Effekt auf die Leistung.
+   Die Beschreibung von problem-solving teaching beginnt bei Hattie mit
+einer Begriffsbestimmung von "Problernlösen". Es umfasst danach eine Rei-
+he von Teilprozessen, nämlich "den Akt des Definierens oder Bestimmens
+der Problernursache; das Identifizieren, Primisieren und Auswählen von Al-
+
+[p. 94] [PDF page 94]
+
+ternativen für eine Lösung; oder das Einnehmen mehrerer Perspektiven zum
+Gewinnen von Fragestellungen, die mit einem bestimmten Problem in Verbin-
+dung stehen, um einen Interventionsplan zu entwerfen und dann das Ergeb-
+nis zu bewerten" (Hattie 2013, S. 248). Ganz offensichtlich ist diese Sichtwei-
+se von P6lya (1949) beeinflusst, der vier Phasen des Problemlösens benennt,
+nämlich das Verstehen des Problems, den Entwurf eines Lösungsplans, die
+Ausführung des Plans sowie die Rückschau und das Prüfen der Lösung. Er
+wird mit dieser Folge von Schritten auch explizit in Hatties Text erwähnt.
+    Welches konkrete Verständnis von problem-solving teaching Hattie sei-
+ner Analyse zugrunde legt, wird allerdings erst durch einen Blick auf die
+Metastudien deutlich, die zum Faktor problem-solving teaching beitragen.
+Dazu gehört beispielsweise eine Studie, in der Beweglichkeit im Denken
+betrachtet wurde, aber auch eine Studie, die Problemlösefähigkeiten und
+Basiswissen unter anderem in Mathematik in Beziehung setzte, oder eine
+Studie, die ein heuristisches Training von Lehrkräften untersuchte. Es wer-
+den also Studien zusammengefasst, die zwar alle das Problemlösen thema-
+tisieren, die sich aber nur unter einer recht vage definierten gemeinsamen
+Überschrift problem-solving teaching einordnen lassen. In der deutschen
+Ausgabe wird der Faktor problem-solving teaching interessanterweise le-
+diglich mit Problemlösen übersetzt und damit auch die Überschrift dem
+breiten Begriffsverständnis angepasst.
+    Dieses breite Verständnis zeigt sich ebenfalls bei den betrachteten Varia-
+blen zum problem-solving teaching. Hattie berichtet hier mit Bezug zu den
+oben genannten Studien von hohen Effekten auf die verbale und figurative
+Flexibilität, von Effekten bei Leistungen, die Problemlösekompetenzen er-
+fordern oder von der hohen Wirksamkeit des heuristischen Lehrertrainings
+im Hinblick auf den Lernerfolg der Schülerinnen und Schüler.
+    Es sei angemerkt, dass nicht unbedingt- wie der Begriff problem-solving
+teaching es möglicherweise suggeriert - der Unterschied zwischen prob-
+lemlösenden und nichtproblemlösenden Maßnahmen untersucht wurde,
+sondern teilweise auch der Unterschied zwischen verschiedenen Arten von
+problemorientiertem Unterricht. Insgesamt ergibt sich damit bei Hattie ein
+recht weit gefasstes Verständnis von problem-solving teaching, wodurch die
+Interpretation der Ergebnisse ebenso erschwert wird wie eine Ableitung
+von Konsequenzen für den Unterricht.
+    Was unter problem-based learning zu verstehen ist, charakterisiert Hat-
+tie mit Bezug auf Gijbels u.a. (2005). Diese Art des Lernens ist danach
+
+[p. 95] [PDF page 95]
+
+durch schülerorientiertes Lernen, das Lernen in kleinen Gruppen, die An-
+wesenheit eines Tutors, echte Probleme, die Nutzung dieser Probleme zum
+Erwerb von Wissen und Problemlösefähigkeiten sowie durch selbstgesteu-
+ertes Lernen gekennzeichnet. Damit basieren die einbezogenen Studien
+zwar auf einer klareren Einordnung. Darüber hinaus unterscheidet Hattie
+bei den von ihm betrachteten Studien, ob es um den Erwerb von oberfläch-
+lichem, tiefem und verständnisorientiertem Wissen geht. Diese Betrachtung
+geht jedoch nicht in das allgemeine Ranking ein, das für problem-based
+learning einen wenig günstigen Einfluss auf den Lernzuwachs feststellt. In
+der Rangreihenfolge belegt dieser Faktor Platz 118 bei einer geringen Ef-
+fektstärke (d = 0.15).
+    Die einzelnen Studien zeigen allerdings ein eher gemischtes Bild. So gibt
+es Untersuchungen, die den Erfolg von problembasiertem Lernen nicht zei-
+gen kqnnen und traditionellen Unterricht weitaus besser beurteilen, aber
+auch Untersuchungen, die einen positiven Einfluss auf bestimmte Fertigkei-
+ten sehen. Das Lernen von Begriffen wird eher nicht unterstützt, wohinge-
+gen die Güte des anwendungsorientiertenArbeitens vom Problemlösen pro-
+fitiert. Diese Vielfalt unterschiedlicher Ergebnisse ergibt in der Summe einen
+kleinen Effekt, da für solche Analysen - wie bereits erwähnt - schlicht das
+arithmetische Mittel gebildet wird. Doch man kann durchaus eine Linie in
+die unterschiedlichen Ergebnisse bringen. Während problem-based learning
+große Effekte im Hinblick auf vertieftes Wissen und Verstehen zeigt, fallen
+die Effekte im Hinblick auf das eher oberflächliche Wissen sehr klein aus.
+
+
+
+Zusammenfassung
+                                                                                 ·""ro
+                                                                                 :r:
+
+
+
+Die Feststellung, dass Hattie einen Lehrertyp "rehabilitiert" (Terhart 2011,     \
+S. 289 und in diesem Band, S. 21), der eine eher lehrerzentrierte Per-
+spektive auf den Unterricht einnimmt, wird durch die beiden Aspekte des
+Problemlösens sicherlich unterstützt. Es ist weniger das problemorientierte
+Lernen als das Lehren durch Probleme, das in der Analyse den wesent-
+lichen Einfluss auf den Lernerfolg zeigt. Damit steht Hattie nicht nur im
+Widerspruch zu einer Auffassung, die Lernen im Wesentlichen als konstruk-
+tiven Prozess mit aktiver Beteiligung der Schülerinnen und Schüler sieht.
+Er steht auch im Widerspruch zu empirischen Ergebnissen im Kontext von
+Schule und Unterricht.
+
+[p. 96] [PDF page 96]
+
+Ist der Widerspruch aufzulösen? Vermutlich, und dabei hilft es, wenn die
+deutlichen Effekte des problem-solving teaching und die eher unbedeu-
+tenden des problem-based learning differenziert betrachtet werden. Nicht
+immer sind die verwendeten Begriffe klar definiert, oft ist das Begriffsver-
+ständnis recht breit gefasst, sodass in der Metaanalyse Konstrukte zusam-
+menkommen, die sich nur mit Schwierigkeiten unter einer Überschrift se-
+hen lassen. Das macht es notwendig, für jeden Faktor genau nachzulesen,
+welche unterrichtlichen Maßnahmen in die Analyse aufgenommen und wel-
+che Outcome-Variablen dabei gemessen wurden. Die zunächst ambivalent
+erscheinenden Ergebnisse für die beiden von Hattie untersuchten Faktoren
+zum Problemlösen, also zu problem-solving teaching und problem-based
+learning werden plausibel, wenn man sich weniger nach den plakativen Be-
+zeichnungen richtet, sondern die verschiedenen Studien auf der Grundlage
+erziehungswissenschaftlicher bzw. mathematikdidaktischer Theorien be-
+trachtet und sie in den Stand der empirischen Bildungsforschung einordnet.
+    Ein Beispiel soll diesen Gedanken konkretisieren: Wie bereits angespro-
+chen, scheint der Einfluss unterrichtlicher Maßnahmen zum Problemlösen
+dann hohe Effekte zu erzielen, wenn die Lernleistung vertieftes Wissen
+oder Verstehen erfordert. Aus mathematikdidaktischer Perspektive würde
+man allerdings zumindest im deutschen Sprachraum auch nur in diesem
+Fall von einem Problem reden. EineAufgabenstellung ist nur dann ein wirk-
+liches Problem, wenn sie eine Auseinandersetzung mit den Inhalten erfor-
+dert und eine Lösung nur über diese Auseinandersetzung gefunden werden
+kann. Diese Art von Problemen gibt es zwar nicht nur in der Mathematik,
+allerdings gibt es eine hohe Korrelation mit mathematischer Leistung. So
+zeigten allgemeine Problemlösekompetenz und mathematische Kompetenz
+im Rahmen von PISA 2003 eine latente Korrelation von r = 0.89 (Leutner
+u.a. 2005). In Bezug auf das Lesen und die Naturwissenschaften wurden
+mit r = 0.82 bzw. r = 0.80 geringere latente Korrelationen berichtet.
+    Es sei schließlich angemerkt, dass Wege des Lehrens und Lernens nicht
+nur aus einer empirischen Perspektive heraus definiert werden können.
+Vielmehr ist Unterricht eine gesellschaftliche Aufgabe, die deswegen auch
+nach normativen Kriterien bestimmt werden muss. Selbständiges Prob-
+lemlösen ist ein Ziel des Mathematikunterrichts, durch das Interesse und
+Motivation für das Fach entwickelt oder ausgebaut werden kann. Genauso
+ist Problemlösen ein wichtiger Aspekt einer umfassenden mathematischen
+Grundbildung.
+
+[p. 97] [PDF page 97]
+
+Diskussion
+
+Hattie hat die Diskussion um das Lehren und Lernen zweifelsfrei ange-
+regt. Es ist ihm gelungen, die Argumentation über wirksame Faktoren auf
+eine sehr breite und vergleichbare empirische Grundlage zu stellen. Dem-
+entsprechend scheint die Prognose nicht gewagt, dass Visible Learning wohl
+auch noch in den kommenden Jahren große Aufmerksamkeit erhalten wird.
+    Die Metaanalyse von Metastudien, die in der Summe Daten von etwa
+50.000 Studien mit mehr als 80 Millionen Teilnehmerinnen und Teilneh-
+mern zusammenfasst, zeigt klare Tendenzen, was wirksam ist, und betont
+die Rolle von Schule und Unterricht (vgl. auch Köller 2012). Dabei ist es
+eher nicht die administrative Ebene, die diese Wirkung zeigt, sondern die
+inhaltliche und pädagogische Ebene. Lernen orientiert sich einerseits an
+fachlic;hen Inhalten und Kompetenzen, wird aber andererseits vor allem
+dann begünstigt, wenn die "pädagogischen Randbedingungen" stimmen.
+Viele der bereits von Meyer (2004) zusammengefassten Bedingungen guten
+Unterrichts bekommen in der Metaanalyse eine weitere und starke empi-
+rische Bestätigung. Insgesamt tragen Lehrperson und Unterricht mit einem
+knappen Drittel erheblich zur Aufklärung der Varianz beim Lernerfolg bei.
+Hattie stärkt damit das Bemühen um einen fachdidaktisch und erziehungs-
+wissenschaftlich fundierten Fachunterricht, der über entsprechend ausge-
+bildete Lehrerinnen und Lehrer realisiert wird.
+   Wichtig ist aber auch eine differenzierte Auseinandersetzung mit Hatties
+Ergebnissen. DieAnalyse des Faktors "Problemlösen" hat deutlich gemacht,
+dass die schlichte Darstellung der Ergebnisse in Form eines Barometers und
+die konkrete Angabe von Rangplätzen und durchschnittlichen Effektstärken
+alleine nicht aussagekräftig ist. Sie ist auch kaum geeignet, direkt auf Schule
+und Unterricht Einfluss zu nehmen. Insbesondere wurde ein Kritikpunkt             \
+an der Metaanalyse am Beispiel des Problemlösens deutlich, der auch an
+anderer Stelle genannt wird (vgl. Schiepe-Tiska u. a. 2013): Hattie stützt
+sich bei seiner Arbeit ganz wesentlich auf Schlüsselwörter, so wie sie in
+den einzelnenArbeiten genannt werden. Dahinter kann allerdings durchaus
+ein jeweils unterschiedliches Begriffsverständnis stecken, sodass sich die ge-
+meinsame Interpretation schwierig gestaltet. Metaanalysen sind prinzipiell
+mit diesem Problem behaftet (vgl. die Beiträge in Cooper/Hedges 1994),
+was ihren Wert nicht schmälert. Allerdings gibt es Ansätze, die weiterfüh-
+rend sein könnten. So basiert die Metaanalyse von Seidel und Shavelson
+
+[p. 98] [PDF page 98]
+
+(2007) auf der Grundlage eines theoretischen Lehr-Lern-Modells. Bei die-
+ser Arbeitsweise zeigte sich noch deutlicher, dass Unterricht, der die Ver-
+mittlung fachbezogenen Wissens zum Ziel hat und bei dem Lernprozesse
+von den Lehrpersonen unterstützt werden, nicht nur die Leistung positiv
+beeinflusst, sondern auch intrinsisch motivieren kann, also Effekte auf In-
+teresse und Motivation hat.
+   Nicht unerwähnt sollte bleiben, dass bei einigen Faktoren die Ergeb-
+nisse nur schwer in einem internationalen Kontext interpretiert werden
+können. Effektstärken können teilweise durch länderspezifische Gegeben-
+heiten maßgeblich beeinflusst sein. So lassen sich beispielsweise die Ergeb-
+nisse zu Faktoren wie Fachkompetenz oder Lehrerbildung (Rang 125 und
+124) nur sehr eingeschränkt auf die Situation in Deutschland übertragen,
+da die meisten der berücksichtigten Studien in den USA oder zumindest
+im englischsprachigen Ausland durchgeführt wurden. Gerade in der Lehr-
+amtsausbildung gab und gibt es große Unterschiede zwischen Ländern wie
+Deutschland und den USA (Blömeke u.a. 2010). Auch Hattie selbst führt
+an, dass es nicht sinnvoll ist, die Ergebnisse seiner Studie unkritisch auf
+nichtenglischsprachige Länder zu übertragen (Hattie 2009). Es ist sicherlich
+ein Ziel von Forschung, aus Vergleichen zu lernen. Von anderen Ländern zu
+lernen, wie guter Unterricht aussehen kann, ist dabei ein wichtiger Aspekt.
+Hier ist entsprechend noch viel Potenzial für Studien, die über Metaanaly-
+sen hinausgehen müssen.
+   Insgesamt kann man feststellen, dass die Metaanalyse von Hattie gute
+Anhaltspunkte für wirksame Faktoren des Lehrensund Lernens im schuli-
+schen Kontext gibt. Die Studie ist insbesondere dann hilfreich, wenn durch
+Zusammenfassung von Faktoren Muster entstehen, die im Unterricht um-
+gesetzt werden können. Studien der letzten Jahre und hier insbesondere
+auch die großen internationalen Leistungsvergleiche haben gerade für den
+Mathematikunterricht Anhaltspunkte gegeben, wie guter Unterricht aus-
+sehen kann (Schiepe-Tiska u.a. 2013). Der Vergleich mit den von Hattie
+herausgearbeiteten Charakteristika eines guten Unterrichts ist sinnvoll,
+notwendig und lohnend. Dabei muss das Augenmerk auf das Zusammen-
+spiel von Faktoren gelegt werden, denn nur so kann es gelingen, Lehren
+und Lernen optimal zu gestalten (Oser/Baeriswyl 2001). Forschung und
+Schulpraxis sind hier gleichermaßen gefordert.
+
+[p. 99] [PDF page 99]
+
+Literatur
+Blömeke, S./König, J./Kaiser, G./Suhl, U. (2010): Lerngelegenheiten angehender Mathe-
+   matiklehrkräfte für die Sekundarstufe I im internationalen Vergleich. In: S. Blömeke/H.
+    Kaiser/R. Lehmann (Hrsg.): TEDS-M 2008. Professionelle Kompetenz und Lerngele-
+    genheiten angehender Mathematiklehrkräfte für die Sekundarstufe I im internationa-
+   len Vergleich. Münster: Waxmann, S. 97-136.
+Cohen, J. (1988): Statistical power analysis for the behavioral sciences. 2. Auflage. Hills-
+    dale/New Jersey: Erlbaum.
+Cooper, H./Hedges, L. V. (1994): The handbook of research synthesis. New York: Russell
+   Sage Foundation.
+Deutsches PISA-Konsortium (2000): Schülerleistungen im internationalen Vergleich. Eine
+   neue Rahmenkonzeption für die Erfassung von Wissen und Fähigkeiten. Berlin: Max-
+   Planck-Institut für Bildungsforschung.
+Gijbels, D./Dochy, F./Van den Bossche, P./Segers, M. (2005): Effects of problem-based
+   learning. A meta-analysis from the angle of assessment. In: Review of Educational Re-
+   search, 75, S. 27-61.
+Halmas, P. R. (1980): The heart of mathematics. In: American Mathematical Monthly, 87,
+   s. 519-524.
+Hattie, J. (2009): Visible learning. A synthesis of over 800 meta-analyses relating to
+   achievement. London: Routledge.
+Hattie, J. (2013): Lernen sichtbar machen. Überarbeitete deutschsprachige Ausgabe von
+   Visible Learning besorgt von Wolfgang Beywl und Klaus Zierer. Baltmannsweiler:
+   Schneider Verlag.
+Köller, 0. (2012): What works best in school? Hatties Befunde zu Effekten von Schul- und
+   Unterrichtsvariablen auf Schulleistungen. In: Psychologie in Erziehung und Unterricht,
+   59, s. 72-78.
+Kultusministerkonferenz (2003): Bildungsstandards im Fach Mathematik für den Mittleren
+   Schulabschluss. Bonn: KMK.
+Kultusministerkonferenz (2004): Bildungsstandards im Fach Mathematik für den Primar-
+   bereich. Bonn: KMK.
+Kultusministerkonferenz (2012): Bildungsstandards im Fach Mathematik für dieAllgemei-
+   ne Hochschulreife. Bonn: KMK.
+Leutner, D./Klieme, E./Meyer, K./Wirth, J. (2005): Die Problemlösekompetenz in den
+   Ländern der Bundesrepublik Deutschland. In: M. Prenzel/J. Baumert/W. Blum/R.                \
+   Lehmann/D. Leutner/M. Neubrand/R. Pekrun/J. Rost/U. Schiefeie (Hrsg.): PISA 2003.
+   Der zweite Vergleich der Länder in Deutschland. Was wissen und können Jugendliche?
+   Münster:Waxmann, S. 125-146.
+Meyer, H. (2004): Was ist guter Unterricht? Berlin: Cornelsen Scriptor.
+Oser, F. K./Baeriswyl, F. J. (2001): Choreographies of teaching: Bridging instruction to
+   learning. In: Richardson, V. (Hrsg.): Handbook of research on teaching. Fourth edition.
+   Washington, D.C.:American Educational ResearchAssociation, S. 1031-1065.
+P6lya, G. (1949): Schule des Denkens. Vom Lösen mathematischer Probleme. Tübingen und
+   Basel: Francke.
+Reiss, K./Roppelt, A./Haag, N./Pant, H. A./Köller, 0. (2012): Kompetenzstufenmodelle im
+   Fach Mathematik. In: P. Stanat/H. A. Pant/K. Böhme/D. Richter (Hrsg.): Kompetenzen
+
+[p. 100] [PDF page 100]
+
+von Schülerinnen und Schülern am Ende der vierten Jahrgangsstufe in den Fächern
+    Deutsch und Mathematik. Ergebnisse des IQB-Ländervergleichs 2011. Münster: Wax-
+    mann, S. 72-84.
+Roppelt, A./Penk, C./Pöhlmann, C./Pietsch, E. (2013): Der Ländervergleich im Fach Ma-
+    thematik. In: H. A. Pant/P. Stanat/U. Schroeders/A. Roppelt/T. Siegle/C. Pöhlmann
+    (Hrsg.): IQB-Ländervergleich 2012. Mathematische und naturwissenschaftliche Kom-
+    petenzen am Ende der Sekundarstufe I. Münster:Waxmann, S. 123-140.
+Sälzer, C./Reiss, K./Schiepe-Tiska, A./Prenzel, M. (2013): Zwischen Grundlagenwissen
+    und Anwendungsbezug. Mathematische Kompetenz im internationalen Vergleich. In:
+    M. Prenzel/C. Sälzer/E. Klieme/0. Köller (Hrsg.): PISA 2012: Fortschritte und Heraus-
+    forderungen in Deutschland. Münster: Waxmann, S. 47-97.
+Schiepe-Tiska, A./Reiss, K./Obersteiner, A./Heine, J.-H./Seidel, T./Prenzel, M. (2013):
+    Mathematikunterricht in Deutschland: Befunde aus PISA 2012. In: M. Prenzel/C.
+    Sälzer/E. Klieme/0. Köller (Hrsg.): PISA 2012: Fortschritte und Herausforderungen in
+    Deutschland. Münster:Waxmann, S. 123-154.
+Schoenfeld, A. H. (1985): Mathematical problern solving. Orlando/Florida: Academic.
+Seidel, T./Shavelson, R. J. (2007): Teaching effectiveness research in the past decade: The
+    role of theory and research design in disentangling meta-analysis results. In: Review of
+    Educational Research, 77, S. 454-499.
+Stigler, J. W./Gonzales, P./Kawanaka, T./Knoll, St./Serrano, A. (1999): The TIMSS videotape
+    classroom study. Methods and findings from an exploratory research project on eighth-
+    grade mathematics instruction in Germany, Japan, and the United States. Washington
+    DC: U. S. Government Printing Office.
+Terhart, E. (2011): Hat John Hattie tatsächlich den Heiligen Gral der Schul- und Unter-
+    richtsforschung gefunden? EineAuseinandersetzung mitVisible Learning. In: E. Keiner
+    u. a. (Hrsg.): Metamorphosen der Bildung. Historie- Empirie-Theorie. Bad Heilbrunn:
+    Klinkhardt, S. 277-292.

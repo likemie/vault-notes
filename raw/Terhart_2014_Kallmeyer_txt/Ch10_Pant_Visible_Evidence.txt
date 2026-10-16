@@ -1,0 +1,593 @@
+Die Hattie-Studie in der Diskussion: Probleme sichtbar machen
+Herausgegeben von Ewald Terhart | 1. Auflage 2014 | Seelze: Kallmeyer in Verbindung mit Klett
+ISBN 978-3-7800-4804-2
+
+Leseeinheit 10: Visible Evidence? Eine methodisch orientierte Auseinandersetzung mit John Hatties Meta-Metaanalysen
+Hans Anand Pant
+Originalseiten 134–146; PDF-Seiten 134–146
+
+[Deutscher Originaltext aus der OCR-Textebene des gescannten PDFs. Die Nummer der Leseeinheit folgt dem Inhaltsverzeichnis; die Beiträge sind im Original nicht nummeriert. Fußnoten und Literatur bleiben im jeweiligen Beitrag. Seitenmarkierungen verweisen auf Buchseite und PDF-Seite. OCR-Fehler können verbleiben; genaue Zitate, Tabellen und Abbildungen bitte am PDF prüfen.]
+
+
+========================================================================
+Beitrag mit Anmerkungen und Literatur
+========================================================================
+
+[p. 134] [PDF page 134]
+
+Hans Anand Pant
+
+
+Visible Evidence?
+Eine methodisch orientierte Auseinandersetzung
+mit John Hatties Meta-Metaanalysen 1
+
+Metaanalysen gelten in der evidenzbasierten Medizin als unverzichtbar,
+um die Wirksamkeit von Therapien und Medikamenten zu belegen. Guter
+Unterricht ist jedoch nicht das Gleiche wie eine medizinische Therapie.
+Gelingenden Lehr-Lern-Prozessen liegen ungleich komplexere und un-
+kontrollierbarere Ursachengefüge zugrunde. Daher haben Metaanalysen
+im Bildungsbereich einen anderen Geltungsanspruch als in der Medizin.
+Vor diesem Hintergrund werden John Hatties Meta-Metaanalysen zu den
+Einflussfaktoren schulischen Erfolgs kritisch diskutiert.
+
+
+Vier Jahre nach dem Erscheinen von John Hatties Buch Visible Learning
+(Hattie 2009) und im Jahr der Veröffentlichung der überarbeiteten deutsch-
+sprachigen Fassung (Hattie 2013) geht der Autor auf Deutschland-Tournee,
+um die Befunde seiner Studien mit Forscherkollegen, aber auch Vertrete-
+rinnen und Vertretern aus pädagogischer Praxis, Bildungsverwaltung und
+Bildungspolitik hierzulande zu diskutieren. Resonanz und Interesse in der
+Fachwelt (vgl.Terhart 2011 und in diesem Band) und den nichtwissenschaft-
+lichen Medien sind erstaunlich (vgl. http://visible-learning.org/de/category/
+presseschau/). In diesem Zusammenhang wird auch eine hochspezialisierte
+statistische Methode wie die Metaanalyse, die selbst in der Erziehungswis-
+senschaft und Psychologie in der Regel bestenfalls rudimentär vertraut ist,
+zum Bestandteil der öffentlichen Debatte. So schreibt Feiten (2011) in Zeit
+Online über Hatties Studie: "Was lässt sich nicht alles ,beweisen', wenn
+man nur geeignet zählt und auswertet! Metaanalysen dagegen, Studien
+also, die die Ergebnisse vieler Einzeluntersuchungen bündeln und gewich-
+ten, lassen sich nicht ohne Weiteres von der Hand weisen" (S. 7).
+
+1   Dieser Beitrag ist die gekürzte und modifizierte Fassung eines Textes, der ursprünglich für einen
+    Tagungsband des Bundesministeriums für Bildung und Forschung mit dem Titel Bildungsforschung 2020-
+    Herausforderungen und Perspektiven (in Vorb.) verfasst wurde.
+
+[p. 135] [PDF page 135]
+
+Metaanalysen wird bei der Rezeption der Hattie-Studie häufig eine beson-
+dere Beweiskraft zugesprochen. Wissenschaftlich ausgedrückt sollen Meta-
+analysen in besonderer Weise geeignet sein, Evidenz für die Wirksamkeit
+von pädagogischen oder bildungspolitischen Maßnahmen herzustellen. Im
+Zuge neuer Steuerungsvorstellungen im Bildungswesen kommt insgesamt
+der Erzeugung von empirischer Evidenz auf den verschiedenen Ebenen
+des Bildungssystems eine immer größer werdende Bedeutung zu (Slavin
+2008; Campbell/Levin 2009; Wiseman 2010; Schildkamp u.a. 2012). Soll
+eine Lehrkraft ihren Unterricht stärker auf individuelle Förderung umstel-
+len, um die Leistungsschwächeren an das Niveau der Lerngruppe heranzu-
+führen? Welche erprobten Ansätze und Programme der Förderung stehen
+zur Verfügung? Welches Sprachförderkonzept soll eine Landesregierung
+flächendeckend einführen, um den schulischen Leistungsrückstand von
+Kindern mit Zuwanderungshintergrund zu reduzieren? Wirkt sich inklusi-
+ve Beschulung leistungsförderlich bei Kindern mit sonderpädagogischem
+Förderbedarf aus? Um solche konkreten Fragen beantworten zu können,
+benötigt man Wissen darüber, was wirkt oder funktioniert (" What works?",
+vgl. Slavin 2008; Ruthven 2011).
+    Der vorliegende Beitrag will zunächst den möglichen Stellenwert von
+Metaanalysen bei der Gewinnung von Evidenz im Sinne der What-works-
+Frage beleuchten, dabei "untechnisch" auf einige Besonderheiten der Me-
+taanalyse als statistischer Methode eingehen, um schließlich Hatties Studie
+kritisch unter dem Gesichtspunkt von Qualitätsstandards guten metaanaly-         u
+                                                                                  Q)
+
+                                                                                 c
+tischen Vorgehens einzuschätzen. Die wichtige Diskussion der normativen          Q)
+                                                                                 :Q
+                                                                                 cii
+Prämissen des Evidenzbegriffs selbst und seiner Anwendung auf die päda-           Q)
+                                                                                 ::0
+gogische Praxis steht hier nicht im Fokus (vgl. dazu die Beiträge von Terhart    ·v;
+                                                                                 >
+und von Brügelmann in diesem Band sowie insbesondere Biesta 2011).
+                                                                                 \
+Metaanalysen in der Erziehungswissenschaft
+
+
+In seinem Kommentar "Educational research: the hardest sciel).ce of all"
+geht David Berliner (2002) auf die Gründe ein, warum die What-works-
+Frage im Bereich der biomedizinischen Forschung seiner Ansicht nach
+prinzipiell etwas anderes bedeutet als im erziehungswissenschaftliehen
+Bereich. Während sich "What works?" in der Medizin auf den strengen
+Wirksamkeitsnachweis von Therapien und Medikamenten mithilfe von ran-
+
+[p. 136] [PDF page 136]
+
+domisierten Kontrollgruppenvergleichen beziehe, gehe es in der Schul- und
+Unterrichtsforschung eher darum herauszufinden, welche Konstellationen
+von Einflussfaktoren unter welchen Rahmenbedingungen die gewünschten
+Wirkungen begünstigen. Drei Gründe sind nach Berliner (2002) dabei be-
+sonders wichtig: (1) die Wirkung multipler Kontexteinflüsse in realen Lehr-
+Lern-Situationen (power of contexts), (2) die Allgegenwart von Wechsel-
+wirkungen (ubiquity of interactions) und (3) die geringe "Halbwertszeit"
+der Befunde empirischer Bildungsforschung.
+    Unter den ersten beiden Charakteristika versteht Berliner das nach
+seiner Ansicht unentwirrbare und experimentell unkontrollierbare Mehr-
+ehenengefüge von Wirkfaktoren und Interaktionen in institutionellen
+Lehr-Lern-Kontexten, wie zum Beispiel dem Klassenzimmer. Auf welche
+Konstellation von sozialer und ethnischer Schülerzusammensetzung, Leh-
+rerkompetenz, Schulleitungshandeln, materieller Ausstattung der Schule,
+administrativem Unterstützungssystem etc. trifft die Implementation einer
+konkreten Interventionsmaßnahme? Was genau wirkt dann noch bzw. ver-
+hindert das Wirksamwerden einer Maßnahme? Die Komplexität des Kon-
+texts und der kontextbezogenen Wechselwirkungen machen es nach Berli-
+ner nahezu unmöglich, den Effekt einzelner interessierender Faktoren, zum
+Beispiel den eines bestimmten Sprachförderprogramms, zu isolieren.
+    Mit geringer "Halbwertszeit" der Befunde in der Bildungsforschung
+meint Berliner (2002), dass selbst methodisch gute Studien aus der Bil-
+dungsforschung mitunter allein schon aufgrund des raschen Wandels der
+Rahmenbedingungen veralten. So hat möglicherweise empirische Evidenz
+zu den Effekten von inklusiver gegenüber nichtinklusiver Beschulung von
+Kindern mit sonderpädagogischem Förderbedarf auf deren Kompetenz-
+erwerb in fünf Jahren kaum noch Gültigkeit, da sich das Ausmaß und die
+Konzepte inklusiver Beschulung in naher Zukunft deutlich verändert haben
+werden.
+    Akzeptiert manalldiese Einschränkungen und Besonderheiten hinsicht-
+lich der Erforschung von "Ursachen" für gelingende Lehr-Lern-Prozesse,
+dann verschiebt sich auch der Stellenwert, den Metaanalysen in der Bil-
+dungsforschung im Unterschied zur bio-medizinischen Forschung besitzen.
+Zunächst sollen jedoch einige Grundzüge des metaanalytischen Vorgehens
+kurz dargestellt werden.
+
+[p. 137] [PDF page 137]
+
+Zur Methodik von Metaanalysen
+
+
+Metaanalyse bezeichnet ein methodisches Verfahren, mit dessen Hilfe em-
+pirische Ergebnisse vieler Studien (Primärstudien) zu einer festgelegten Fra-
+gestellung in einer quantitativ orientierten Weise zusammengefasst werden
+(vgl. Beelmann/Bliesener 1994, S. 211). Als zentraler Unterschied von Me-
+taanalysen gegenüber anderen Formen von Literaturübersichten gilt also,
+dass die Ergebnisse mehrerer Studien nicht nur inhaltlich zusammengefasst
+werden, sondern auch statistisch, sodass am Ende eine einzige Maßzahl, die
+sogenannte Effektgröße (auch: Effektstärke, abgekürzt ES) steht; sie stellt
+eine hohe Verdichtung der vorgefundenen empirischen Evidenz zur Wirk-
+samkeit bzw. Wirkung von Interventionen, Maßnahmen oder Programmen
+dar. Um diese Maßzahl zu erhalten, müssen zunächst die Ergebnisse al-
+ler Primärstudien (zum Beispiel alle Untersuchungen zur Wirksamkeit von
+Sprachförderprogrammen auf Lesekompetenz), die in der Regel mit ganz
+unterschiedlichen Messinstrumenten gewonnen wurden, auf eine einheitli-
+che Messskala gebracht werden. Das bekannteste Effektgrößenmaß ist der
+d-Index (Cohen 1988), den auch Hattie in Visible Learning verwendet. Der
+d-Index gibt an, wie sehr sich zwei Gruppen, etwa eine Interventionsgrup-
+pe, die eine Sprachfördermaßnahme erhalten hat, und eine Kontrollgruppe
+ohne Fördermaßnahme durchschnittlich in einem interessierenden Merk-
+mal- bei Hattie schulische Leistung- unterscheiden, wenn man gleichzeitig
+die Bandbreite (Streuung) der auftretenden Leistungswerte berücksichtigt.        ~
+                                                                                 c
+Der d-Index nimmt dann hohe Werte an, wenn der Leistungsunterschied              Q)
+                                                                                 u
+                                                                                 ~
+zwischen den beiden betrachteten Gruppen groß ist bei gleichzeitig mög-          Q)
+                                                                                 ::0
+lichst geringer Leistungsheterogenität innerhalb jeder der beiden Gruppen.       ·v;
+                                                                                 5
+Die von Hattie gesetzte Grenze von d = 0.4 als der wünschenswerten Ef-
+fektgröße für pädagogische Maßnahmen bedeutet, dass die durchschnittli-          \
+che Leistung in derjenigen Gruppe, die eine Intervention erhalten hat, hö-
+her ist als die Leistungen von zwei Dritteln der Teilnehmer aus der Gruppe
+ohne diese Intervention (Kontroll- oder Vergleichsgruppe).
+    Bei einer Metaanalyse werden die so gewonnenen d-Werte aller Primär-
+studien anschließend aggregiert, das heißt gemittelt. Dabei werden die in
+den Mittelwert eingehenden Studien in der Regel proportional zum Umfang
+der Stichprobe gewichtet. Dem liegt die Annahme zugrunde, dass Studien,
+deren Ergebnis auf vielen Beobachtungen beruht, einen Maßnahmeneffekt
+genauer erfassen können als Studien mit nur wenigen Teilnehmerinnen
+
+[p. 138] [PDF page 138]
+
+und Teilnehmern. Wofür steht nun der über die Einzelstudien gemittelte
+d-Wert? An dieser Stelle des metaanalytischen Prozesses kommt es zu einer
+wichtigen interpretativen Weichenstellung: Kommen die betrachteten Stu-
+dien alle mehr oder weniger zum gleichen Ergebnis - ausgedrückt in ähn-
+lichen d-Werten -, dann kann der gemittelte d-Wert als eine zuverlässige
+Schätzung für den tatsächlichen Effekt der Maßnahme oder des Programms
+angesehen werden. Ist hingegen die Varianz in den Werten der Studien sub-
+stanziell, dann ist es unplausibel und unredlich, den gemittelten d-Wert als
+die "wahre" Effektgröße der Intervention zu interpretieren. In diesem Fall
+müssen Metaanalysen bestrebt sein, die uneinheitlichen Effekte durch mög-
+licherweise unterschiedliche methodische Vorgehensweisen der Studien,
+abweichende inhaltliche Definitionen oder Umsetzungen der Maßnahme
+oder sonstige divergierende Randbedingungen wie Jahr und Ort der Studie,
+Zusammensetzung der untersuchten Schülerschaft etc. in sogenannten Mo-
+deratorenanalysen zu erklären. Unter den von Berliner (2002) benannten
+Komplexitätsstrukturen von Bildungsprozessen sind Metaanalysen in erster
+Linie dann ein nützliches Instrument, wenn sie durch solche Moderatoren-
+analysen zur Klärung der Bedingungen erfolgreicher Interventionen und
+Programme in realen Kontextenbeitragen.Wie Seidel und Shavelson (2007,
+S. 485) formulieren: "Instead of estimating and searching for the true effect
+of teaching on learning, the role of meta-analysis primarily would be to
+capture context and outcome variation in reporting nuanced findings of
+teaching effectiveness."
+   Eine eindeutige Schwachstelle von Metaanalysen, die Forschungsbefun-
+de in multifaktoriellen Ursachengefügen wie Lehr-Lern-Prozessen untersu-
+chen, ist darin zu sehen, dass die Effektgröße d in aller Regel nur den Effekt
+von einem Wirkfaktor (zum Beispiel dem Einsatz eines Sprachförderpro-
+gramms) auf eine Wirkung (zum Beispiel die Lesekompetenz) erfasst. Meta-
+analysen sehen sich daher häufig gezwungen, hinter den empirischen Diffe-
+renzierungsgrad methodisch ausgefeilter Primärstudien zurückzugehen, um
+eine Ergebnisaggregation durchführen zu können. So können die "besten"
+Veröffentlichungen oft nicht in eine Metaanalyse einbezogen werden, weil
+sie diese einfachen (bivariaten) Zusammenhänge gar nicht berichten, die
+zur Berechnung des d-Indexes notwendig wären.
+    Ein Beispiel dafür, wie diese statistisch "erzwungene" Simplifizierung
+in Metaanalysen zu problematischen, weil verkürzten inhaltlichen Schluss-
+folgerungen führen kann, sind die Studien zur Wirkung von Hausaufgaben
+
+[p. 139] [PDF page 139]
+
+auf Schulleistung. Cooper u. a. (2006) fanden in ihrer sehr aufwendigen
+Metaanalyse den über viele Studien konsistenten Befund, dass die Menge
+der Hausaufgaben und die Dauer der Hausaufgabenbeschäftigung signifi-
+kant positiv mit Leistungsindikatoren assoziiert waren, wenngleich schwä-
+cher im Primar- als im Sekundarbereich. Trautwein u. a. (2009) greifen die
+Ergebnisse dieser Metaanalyse auf. Sie zeigen in einer längsschnittliehen
+und spezifisch auf Hausaufgabeneffekte angelegten Mehrebenenanalyse,
+dass die Effekte von Hausaufgaben je nach Analyseebene unterschiedlich
+ausfallen bzw. kausal verschieden interpretiert werden müssen. Auf der
+Klassenebene verschwand beispielsweise der signifikant positive Effekt von
+Hausaufgabenmenge auf Leistung, wenn als Moderatorvariable die Schulart
+berücksichtigt wird. Schülerinnen und Schüler im untersten von zwei (bzw.
+drei) Bildungsgängen (Schweizer Schulsystem) erhielten systematisch we-
+niger Hausaufgaben, sodass sich der Zusammenhang zur Leistung eher auf
+das Merkmal Schulart als auf die Hausaufgabenmenge an sich zurückfüh-
+ren lässt. Auf der Schülerebene ergab sich ein umgekehrter Zusammenhang
+zwischen Hausaufgabenzeit und nachfolgender Leistung, wenn das zuvor
+bestehende Leistungsniveau in die Analyse einbezogen wurde. Schwächere
+Schüler benötigten mehr Zeit für ihre Hausaufgaben und erzielten dennoch
+geringere Zugewinne. Diese und andere Differenzierungen unterstreichen
+die Notwendigkeit, Befunde aus Metaanalysen mit denen aus methodisch
+anspruchsvollen Einzelstudien abzugleichen, um kausale Fehlschlüsse zu
+vermeiden (vgl. auch Best Evidence Synthesis, Slavin 2008).                   QJ
+                                                                              u
+                                                                              c
+   Im Folgenden werden nach einer kurzen Übersicht über Hatties Ansatz        QJ
+                                                                              -o
+                                                                              ~
+bei Visible Learning einige methodische Vorbehalte gegenüber seiner Praxis    QJ
+                                                                              :g
+der metaanalytischen Befundintegration dargelegt.                             >
+
+                                                                              \
+DieMeta-Metaanalyse von John Hattie
+
+
+Vor dem Hintergrund der hier interessierenden Frage, welchen Stellenwert
+quantitative Forschungsbefundsynthesen für die Evidenzerzeugung im Bil-
+dungsbereich haben, erscheint es zunächst sinnvoll, den Aspekt des strate-
+gischen Stellenwerts von Hatties Analysen vom methodischen zu trennen.
+Der strategische Nutzen erscheint auf den ersten Blick unbestreitbar: Vis-
+ible Learning hat im internationalen Maßstab als "Weckruf" für eine Evi-
+denzdebatte im Bildungsbereich funktioniert und damit eines von Hatties
+
+[p. 140] [PDF page 140]
+
+Hauptzielen erreicht, die Fragen nach Wirksamkeit, Wirkung und Effizienz
+von Bildungsmaßnahmen zu Schlüsselfragen zu machen: "[W]e spend mil-
+lions, if not trillions, of dollars investing in innovations, changes, and pali-
+des in education without a lot of evidence that this investment is making a
+difference to student outcomes" (Hattie 2009, S. 255).
+    Die schnelle und breite Rezeption von Hatties Befundsynthese ist si-
+cherlich zum einen dem Respekt vor der schieren Masse an wissenschaft-
+lich fundierter Information geschuldet, die in seiner Studie verdichtet wird;
+zum anderen dürften dazu aber auch folgende Faktoren beigetragen haben:
+(1) eine explizite theoretische Konzeption von "gutem", leistungswirksa-
+mem Unterricht; (2) eine eingängige, für alle Teilanalysen einheitliche grafi-
+sche Darstellungsform und Bewertung der Befunde mithilfe eines von ihm
+so bezeichneten "Einflussbarometers" (siehe unten, Abb. 1) und (3) die
+Präsentation aller 138 potenziellen Wirkfaktoren in Form von Raukings ge-
+mäß der durchschnittlichen Effektstärke. 2
+    Hatties theoretischer Ansatz des "visible teaching - visible learning"
+geht - stark verkürzt - davon aus, dass Lehr-Lern-Prozesse dann erfolg-
+reich verlaufen, wenn zwischen Lehrkräften und Lernenden eine reziproke
+Perspektivübernahme gelingt: Lehrkräfte müssen die jeweils anstehenden
+Lernprozesse mit den Augen ihrer Schülerinnen und Schüler sehen können,
+und Schülerinnen und Schüler müssen die Verantwortung für das eigene
+Lernen erkennen und dadurch temporär zu ihren eigenen Lehrerinnen und
+Lehrern werden (Hattie 2009, S. 238). Für beide Prozesse sei Feedback ein
+entscheidender Faktor. Diese Grundfigur dient Hattie als Folie, um die Mas-
+se an Meta-Metaanalyse-Befunden zu ordnen und\ zu interpretieren. Am
+Ende stehen zwei Kontrastierungen von Wirkfaktorengruppen, zum einen
+zweier unterschiedlicher Lehrerverhaltensweisen (nicht notwendig Lehrer-
+typen!) und zum anderen von unterrichtsnahen Merkmalen vs. äußeren Be-
+dingungen des Lehr-Lern-Kontexts. Demzufolge sind Lehrkräfte empirisch
+deutlich lernwirksamer, wenn sie eine aktivierende, direkt involvierende
+und involvierte Rolle einnehmen (teacher as activator) anstatt sich primär
+als Lernbegleiter bzw. "Anbieter" von Lerngelegenheiten (teacher as faci-
+
+
+
+2   In der 2012 erschienenen Fassung der Studie für Lehrpersonen (Hattie 2012) wurden weitere Studien
+    aufgenommen, sodass 150 Faktoren betrachtet werden und sich im Einzelfall die d-Werte und Rangplätze
+    einzelner Faktoren leicht gegenüber der ersten Fassung verändert haben.
+
+[p. 141] [PDF page 141]
+
+litator) zu verhalten (vgl. Tab. 1) 3 • Die zweite Kontrastierung belegt nach
+Hatties (2009, S. 244) Interpretation, dass Merkmale "guten" Unterrichts
+wesentlich entscheidender für den Lernerfolg sind als äußere Struktur- und
+Organisationsmerkmale, wie zum Beispiel reduzierte Klassengröße, jahr-
+gangsübergreifendes Lernen oder externe Differenzierung.
+
+    Lehrperson als Herausforderer                           Lehrperson als Erleichterer
+                                                d                                                     d
+    (activator)                                             (facilitator)
+    Reziprokes Lehren                          0.74         Simulationen und Spiele                 0.32
+    Feedback                                   0.72         Forschendes Lernen                      0.31
+    Lautes Denken, Selbstverbalisierung        0.67         Reduktion der Klassengröße              0.21
+    metakognitive Strategien                   0.67         Individualisierung                      0.20
+    Direkte Instruktion                        0.59         problemorientierter Unterricht          0.15
+    Mastery Learning                           0.57         getrenntgeschlechtlicher                0.12
+                                                            Unterricht
+    herausfordernde Ziele                      0.56         Netzbasiertes Lernen                    0.09
+ Taktung von Leistungstests                    0.46         ganzheitliches Lesenlernen              0.06
+    Verhaltensziele                            0.41         induktiver Unterricht                   0.06
+
+    durchschnittliche Effektstärke             0.60         durchschnittliche Effektstärke          0.17
+
+
+Tab. 1: Unterschiedliche Lehrerverhaltensweisen (aktivierend vs.lernbegleitend) in ihrer
+Wirksamkeit auf Lernerfolge (übersetzt aus Hattie 2009, S. 243)
+
+
+
+Diese beiden Gegenüberstellungen wirksamer und weniger wirksamer Fak-
+toren stehen ganz am Schluss von Hatties (2009) Buch. Zuvor wird für jeden
+einzelnen der betrachteten Faktoren ein "Einflussbarometer" präsentiert
+(vgl. Abb. 1). In dieser Darstellung mittelt Hattie jeweils die durchschnittli-
+chen Effektstärken d aus mehreren publizierten Metaanalysen, bildet also
+den Durchschnitt von Durchschnittsangaben. Dieser zweifach aggregierte
+d-Wert wird dann im Barometer visuell in einer von vier inhaltlich be-                                          \
+schriebenen "Zonen" lokalisiert. Die für Hattie wichtigste "Zonengrenze"
+liegt bei d = 0.4, dem Durchschnittswert der Effektgrößen aller mehr als
+800 Metaanalysen seiner Synthese. Oberhalb dieser benchmark liegen,
+so Hattie (2009, S. 18), die Effekte von pädagogischen Maßnahmen und
+
+
+3     Interessanterweise gibt Hattie an dieser Stelle (2009, S. 243) d = 0.06 als mittlere Effektstärke für
+       "Induktives Unterrichten" an. Im Text weiter vorne (S. 208) weist das entsprechende Einflussbarometer
+      hingegen d = 0.33 aus; aus dem Anhang seines Buches wird ersichtlich, dass er sich in dieser Tabelle
+       (S. 243) nur auf die kleinere und ältere Metaanalyse von zweien bezieht und diejenige von Klauer und
+       Phye (2008) mit d = 0.59 ohne Angabe von Gründen unberücksichtigt lässt.
+
+[p. 142] [PDF page 142]
+
+Programmen, die nicht nur irgendeinen trivialen, von Null verschiedenen
+Lernerfolg bei den Schülerinnen und Schülern bewirken ("What works?"),
+sondern den anzustrebenden Effekt ("What works best?"). In der "Zone"
+d < 0 befinden sich solche Faktoren, die lernhinderlich wirken (zum Bei-
+spiel viel Zeit mit Fernsehkonsum, Klassenwiederholung), zwischen d = 0
+und d = 0.15 liegen Faktoren, die nicht über das hinaus wirksam sind, was
+normale kognitive und soziale Reifungsprozesse auch ohne Beschulung
+hervorbringen würden, die also unter Lernerfolgsgesichtspunkten bereits
+als potenziell schädlich gelten müssten (zum Beispiel offene vs. traditionel-
+le Lernformen, jahrgangsübergreifendes Lernen). Im Bereich 0.15 < d < 0.4
+schließlich ordnet Hattie (2009, S. 20) den Lernfortschritt ein, den Lehr-
+kräfte typischerweise innerhalb eines Schuljahres bewirkten.
+
+                         Medium
+
+
+
+
+                                                          Standard error          0.096 (High)
+                                                          Rank                        26th
+                                                          Number of meta-analyses       4
+                                                          Number of studies           304
+                                                          Number of effects           597
+                                                          Number of people (1)       42,618
+
+
+Abb. 1: Typisches Einflussbarometer zur Darstellung der aus Metaanalysen aggregierten mittleren
+Effektgröße für den Zusammenhang eines Faktors mit Schulleistung (Quelle: Hattie 2009, S. 205)
+
+
+
+Im Hinblick auf die oben exemplarisch aufgeführten beiden Qualitäts-
+merkmale für metaanalytische Prozesse, das heißt (1) die angemessene
+Beachtung und Interpretation uneinheitlicher Studienergebnisse bei der
+Datenaggregation und (2) die proportionale Gewichtung von Studien un-
+terschiedlichen Umfang zeigen Hatties Analysen ein eher inkonsistentes
+Bild. Zwar plädiert er dafür, a priori möglichst keine Studie (in seinem
+Fall: Metaanalyse) wegen theoretischer oder methodischer Qualitätsbeden-
+ken auszuschließen. Sein Standpunkt ist, dass eine mögliche Heterogenität
+der Ergebnisse empirisch auf Moderatoreneinflüsse hin untersucht werden
+müsse. Zwischen dieser Grundhaltung und seinem eigenen methodischen
+Vorgehen bei der Aggregation der Effektstärken tut sich allerdings eine
+Kluft auf. Er benennt zwar in den einzelnen Kapiteln gelegentlich Befunde
+zu Moderatorenanalysen, die die Autorinnen und Autoren der ursprüngli-
+
+[p. 143] [PDF page 143]
+
+chen Metaanalysen durchgeführt haben; er versäumt es jedoch, die von ihm
+auf der Meta-Metaebene aggregierten Befunde hinsichtlich deren eigener
+Heterogenität kenntlich zu machen und gegebenenfalls Moderatoren zu
+identifizieren. So wird zum Beispiel ein Vergleich der Effekte von Studien
+aus den 1980er Jahren mit aktuelleren Untersuchungen an keiner Stelle
+vorgenommen, obwohl die methodischen Standards sich zwischenzeitlich
+erheblich verändert haben. Insgesamt unterscheiden sich die einbezogenen
+Metaanalysen mitunter ganz erheblich in ihren Befunden zu dem jeweils
+betrachteten Wirkfaktor. Hierdurch blendet Hattie de facto eine Ebene
+seiner Datenstruktur aus. Indem er als finale Effektgröße im Einflussba-
+rometer jeweils nur den gemittelten Mittelwert anderer Metaanalysen und
+eine nicht näher erklärte Angabe zum Standardfehler4 (standard error, vgl.
+oben,Abb. 1) darstellt, wird suggeriert, dass diese "finale" Effektgröße den
+"wahr.en" Effekt des betrachteten Schul- oder Unterrichtsfaktors wieder-
+gibt.
+   Darüber hinaus aggregiert Hattie (2009) die mittleren Effektstärken der
+ursprünglichen Metaanalysen, ohne sie durch die Zahl der jeweils eingegan-
+genen Studien zu gewichten. Metaanalysen, die auf vielen hundert Einzel-
+studien beruhen, gehen dabei mit dem gleichen Gewicht in das d-Barome-
+ter ein, wie Metaanalysen mit nur fünf Primärstudien. Welche Folgen dieses
+Vorgehen für die inhaltlichen Schlussfolgerungen haben kann, soll kurz an
+einem Zahlenbeispiel aus Hatties Daten demonstriert werden. Der aus vier
+Metaanalysen ermittelte Effekt der Unterrichtsmethode der Direkten Ins-                                       GJ
+                                                                                                               u
+                                                                                                               c
+truktion (Direct Instruction) beträgt nach Hattie (2009, S. 205; vgl. oben                                     GJ
+                                                                                                              32
+Abb. 1) d = 0.59 und fällt damit in die "erwünschte Zone" (d > 0.4). Direk-
+                                                                                                              G:J
+                                                                                                               GJ
+                                                                                                              ::0
+te Instruktion stellt eine keinesfalls unumstrittene, hochstrukturierte und                                   ·v;
+                                                                                                              >
+lehrerzentrierte Unterrichtsmethode dar. Schaut man sich die verarbeiteten
+Metaanalysen einzeln an, so fällt auf, dass die mit 232 Primärstudien bei                                     \
+Weitem größte Analyse (Borman u. a. 2003) gleichzeitig diejenige mit der
+geringsten Effektstärke (d = 0.21) ist. Würde man diejenigen Metaanalysen,
+für die alle notwendigen Informationen vorlagen, anhand der Anzahl der
+eingehenden Primärstudien gewichtet mitteln, so läge die resultierende Ef-
+
+
+4   Aus den Angaben im Text und im Appendix A lässt sich rekonstruieren, dass Hattie (2009) den
+    Standardfehler für seine Meta-Meta-Effektstärken berechnet, indem er die Standardfehler der
+    ursprünglichen Metaanalysen ungewichtet mittelt, wenn diese in der Publikation angegeben wurden.
+    Metaanalysen, die keinen Standardfehler berichten, werden in dieser Berechnung ignoriert, was zu nicht
+    unerheblichen Verzerrungen führen kann.
+
+[p. 144] [PDF page 144]
+
+fektstärke bei d = 0.39 und damit nicht mehr in der von Hattie definierten
+"erwünschten" Wirkungszone. Hinzu kommt, dass die meisten Ursprungs-
+studien der größten Metaanalyse ihre Daten in Schulen mit einem sehr ho-
+hen Anteil sozial benachteiligter Schülerinnen und Schüler erhoben haben
+(Borman u.a. 2003, S. 187).
+   Dieses Beispiel soll nicht dazu dienen, Hatties Befunde kategorisch in-
+frage zu stellen. Dazu bedürfte es einer detaillierten Re-Analyse aller seiner
+Effektstärkenaggregierungen.Allerdings wäre zu diskutieren, ob die Sensiti-
+vität solcher datenreichen Analysen ausreichend transparent gemacht wird,
+um die Ergebnisse unter Evidenzgesichtspunkten angemessen bewerten zu
+können. Hattie nämlich verwendet das positive Resultat für die Methode
+der Direkten Instruktion später weiter, um sein theoretisches Erklärungs-
+modell der erfolgreichen Lehrk~aft als "Aktivator" zu stützen (vgl. oben,
+Tab. 1). Insbesondere aber die Präsentation möglicherweise sehr sensitiver
+gemittelter Effektstärken in Form von Raukings sollte daher nicht unkom-
+mentiert an potenzielle Nutzer in Bildungspolitik und pädagogischer Praxis
+vermittelt werden. Wie Snook u. a. resümieren:
+      "We are concerned, however, that: (i) Despite his own frequent warnings, politicians
+      may use his work to justify policies which he does not endorse and his research
+      does not sanction; (ii) Teachers and teacher educators might try to use the findings
+      in a simplistic way and not, as Hattie wants, as a source for 'hypotheses for intelli-
+      gent problern solving~"                                           (Snookua 2009,5 104f)
+
+
+
+
+SchI ussbemerku ng
+
+In diesem Beitrag wurde versucht zu zeigen, wie das Verständnis von Evi-
+denz hinsichtlich der Wirksamkeit pädagogischer und bildungspolitischer
+Maßnahmen sich in der Art und Weise niederschlägt, wie Metaanalysen
+gesehen, durchgeführt und genutzt werden. Erfolgen Suche und Auswahl
+der Primärstudien für eine Metaanalyse nach strengen methodischen Stan-
+dards, zum Beispiel dem Einschluss nur randomisierter Kontrollstudien,
+dann liegt der Fokus auf einem strengen Nachweis der Wirksamkeit von
+Maßnahmen und Programmen. Die Kontext- und Realweltbedingungen
+werden als grundsätzlich kontrollierbar angenommen. Eine solche Kon-
+zeption von empirischen Wirksamkeitsnachweisen mag bestenfalls für sehr
+genau beschreibbare, eng definierte Maßnahmen im pädagogischen Bereich
+
+[p. 145] [PDF page 145]
+
+angemessen sein, wie zum Beispiel Studien zur Wirksamkeit eines klar defi-
+nierten Leseförderprogramms für dyslektische Kinder, das auch "in der Flä-
+che" unter immer gleich standardisierten Bedingungen administriert wird.
+Der Regelfall interessierender Maßnahmen und Programme ist nach Berli-
+ner (2002) jedoch gekennzeichnet durch die Wirkung multipler Kontextein-
+flüsse in realen Lehr-Lern-Situationen, die Allgegenwart von Wechselwir-
+kungen zwischen solchen Kontextbedingungen und dem interessierenden
+Wirkfaktor sowie die geringe "Halbwertszeit" von Evidenz empirischer
+Bildungsforschung.
+    Daher sind es vor allem die beschreibenden und die explorativen Poten-
+ziale der Metaanalyse, die als Ausgangs- und nicht als Endpunkt für Diskus-
+sionen und Erkenntnisse über moderierende Kontextfaktoren genutzt wer-
+den könnten. Im Einzelfall können durch metaanalytische Befunde auch
+politü;ch motivierte Mythen entzaubert werden, wie die Vorstellung, dass
+die Reduzierung der Klassengröße an sich leistungsförderlich wirken müsse.
+John Hatties Meta-MetaanalyseVisible Learning (2009) gibt zwar an vielen
+Stellen ein Bekenntnis zur Wichtigkeit von differenzierenden Betrachtun-
+gen der Befunde von Metaanalysen ab, seine eigene methodische Vorge-
+hensweise lässt dies allerdings eher wie ein Lippenbekenntnis erscheinen.
+Hatties Beispiel zeigt, dass es wichtig und an der Zeit wäre, sich über Stan-
+dards der quantitativen Befundintegration zu verständigen, auf Seiten der
+Abnehmer metaanalytischer Befunde ein Verständnis über Möglichkeiten
+und Grenzen des Verfahrens zu fördern und mögliche Hegemonialansprü-                            GJ
+                                                                                                u
+                                                                                                c
+che hinsichtlich der Generierung von Evidenz in pädagogischen und bil-                          GJ
+                                                                                               -o
+                                                                                               ~
+dungspolitischen Handlungsfeldern zu relativieren.                                              GJ
+                                                                                               :D
+                                                                                               ·v;
+                                                                                               5
+Literatur
+Beelmann,A./Bliesener,T. (1994):Aktuelle Probleme und Strategien der Metaanalyse. In:          \
+   Psychologische Rundschau, 45, S. 211-233.
+Berliner, D. C. (2002): Comment: Educational research: the hardest science of all. In: Edu-
+   cational Researcher, 31, S. 18-20.
+Biesta, G. (2011):Warum "What works" nicht funktioniert. Evidenzbasierte pädagogische
+   Praxis und das Demokratiedefizit der Bildungsforschung In: J. Bellmann/T. Müller
+   (Hrsg.): Wissen, was wirkt. Kritik evidenzbasierter Pädagogik. Wiesbaden: VS Verlag für
+   Sozialwissenschaften, S. 95-121.
+Borman, G. D./Hewes, G. M./Overman, L. T./Brown, S. (2003): Comprehensive school
+   reform and achievement. A meta-analysis. In: Review of Educational Research, 73,
+   S. 125-230.
+
+[p. 146] [PDF page 146]
+
+Camp bell, C./Levin, B. (2009): Using data to support educational improvement. In: Educa-
+    tional Assessment, Evaluation and Accountability, 21, S. 47-65.
+Cohen, J. (1988): Statistical power analysis for the behavioral sciences. Hillsdale, New
+    Jersey: Lawrence Erlbaum.
+Cooper, H./Robinson, J. C./Patall, E. A. (2006): Does homework improve academic
+    achievement? A synthesis of research, 1987-2003. In: Review of Educational Research
+    76, S. 1-62.
+Felten, M. (2011): Doch, er ist wichtig! Wie gut Kinder lernen, hängt vom Können ihrer
+    Lehrer ab. Der Umbau von Schulstru~turen ist zweitrangig. Zeit Online, 07.11.2011.
+    http:/ /www.zeit.de/2011/45/C-Lehrer-Studie (Zugriff: 07. 01.2014).
+Hattie, J. (2009): Visible learning. A synthesis of over 800 meta-analyses relating to
+    achievement. London, N ew York: Routledge.
+Hattie, J. (2012). Visible learning for teachers. Maximizing impact on learning. Oxford:
+    Routledge.
+Hattie, J. (2013): Lernen sichtbar machen. Überarbeitete deutsche Ausgabe von "Visible
+    Learning", besorgt von Wolfgang Beywl und Klaus Zierer. Baltmannsweiler: Schneider
+    Hohengehren.
+Klauer, K. J./Phye, G. D. (2008): Inductive reasoning. A training approach. In: Review of
+    Educational Research, 78, S. 85-123.
+Ruthven, K. (2011): Using international study series and meta-analytic research syntheses
+    to scope pedagogical development aimed at improving student attitude and achieve-
+    ment in school mathematics and science. In: International Journal of Science and Ma-
+    thematics Education, 9, S. 419-458.
+Schildkamp, K./Ehren, M./Lai, M. K. (2012): Editorial article for the special issue on data-
+    based decision making around the world. From policy to practice to results. In: School
+    Effectiveness and School Improvement, 23, S. 123-131.
+Seidel, T./Shavelson, R. J. (2007): Teaching effectiveness research in the past decade. The
+    role of theory and research design in disentangling meta-analysis results. In: Review of
+    Educational Research, 77, S. 454-499.
+Slavin, R. E. (2008): Perspectives on evidence-based research in education. What works?
+    Issues in synthesizing educational program evaluations. In: Educational Researcher,
+    37, S. 5-14.
+Snook, I./O'Neill, J./Clark, J./O'Neill, A.-M./Openshaw, R. (2009): Invisible learnings? A
+    commentary on John Hattie's book "Visible Learning: A synthesis of over 800 meta-
+    analyses relating to achievement". In: New Zealand Journal of Educational Studies,
+    44, S. 93-106.
+Terhart, E. (2011): Has John Hattie really found the Holy Grail of research on teaching? An
+    extended review ofVisible Learning. In: Journal of Curriculum Studies, 43, S. 425-438.
+Trautwein, U./Schnyder, I./Niggli, A./Neumann, M./Lüdtke, 0. (2009): Chameleon effects
+    in homework research. The homework-achievement association depends on the mea-
+    sures used and the level of analysis chosen. In: Contemporary Educational Psychology,
+    34, s. 77-88.
+Wiseman,A.W. (2010):The uses of evidence for educational policymaking. Global contexts
+    and international trends. In: Review of Research in Education, 34, S. 1-24.

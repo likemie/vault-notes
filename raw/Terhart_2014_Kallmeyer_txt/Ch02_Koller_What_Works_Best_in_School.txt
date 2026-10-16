@@ -1,0 +1,680 @@
+Die Hattie-Studie in der Diskussion: Probleme sichtbar machen
+Herausgegeben von Ewald Terhart | 1. Auflage 2014 | Seelze: Kallmeyer in Verbindung mit Klett
+ISBN 978-3-7800-4804-2
+
+Leseeinheit 02: What works best in school? Hatties Befunde zu Effekten von Schul- und Unterrichtsvariablen auf Schulleistungen
+Olaf Köller
+Originalseiten 24–37; PDF-Seiten 24–37
+
+[Deutscher Originaltext aus der OCR-Textebene des gescannten PDFs. Die Nummer der Leseeinheit folgt dem Inhaltsverzeichnis; die Beiträge sind im Original nicht nummeriert. Fußnoten und Literatur bleiben im jeweiligen Beitrag. Seitenmarkierungen verweisen auf Buchseite und PDF-Seite. OCR-Fehler können verbleiben; genaue Zitate, Tabellen und Abbildungen bitte am PDF prüfen.]
+
+
+========================================================================
+Beitrag mit Anmerkungen und Literatur
+========================================================================
+
+[p. 24] [PDF page 24]
+
+Olaf Köller
+
+
+What works best in school?
+Hatties Befunde zu Effekten von Schul- und
+Unterrichtsvariablen auf Schulleistungen
+
+John Hatties 2009 und 2012 publizierte Bücher haben zu einer breiten
+Diskussion über die Rolle von Unterricht und Professionswissen von Lehr-
+kräften geführt. Im Gegensatz zu vielen bildungspolitischen Diskussionen
+über Strukturreformen im Bildungssystem weist Hattie eindrucksvoll dar-
+auf hin, dass Reformbemühungen sich weniger auf Rahmenbedingungen
+von Schule, sondern auf die Verbesserung von Unterricht beziehen sollten.
+
+
+
+Mit der Publikation seines Buches Visible Learning hat John Hattie im Jah-
+re 2009 eine Welle in Deutschland losgetreten, mit der er selbst vermutlich
+am wenigsten gerechnet hat. Seit Erscheinen des Buches werden die von
+Hattie zusammengetragenen Befunde hinsichtlich ihrer Implikationen für
+die Schule heftig diskutiert. Als empirischer Schul- und Unterrichtsforscher
+erntet man mittlerweile weit mehr Aufmerksamkeit, wenn man über Hattie
+schreibt, als wenn man seine eigenen Forschungsergebnisse publiziert. In-
+zwischen liegt sogar eine Übersetzung des Buches ins Deutsche vor, sodass
+die Inhalte auch der des Englischen nicht mächtigen Klientel nicht verbor-
+gen bleiben. Die Resonanz ist vielfältig: Einige Bildungsforscher bejubeln
+das Buch, interpretieren sie seinen Inhalt doch als klaren Beleg, dass guter
+Unterricht - verstanden als sehr stark durch die Lehrkraft gelenkt - große
+Effekte auf das Lernen hat. Sie benutzen es weiterhin als Argumentations-
+hilfe, dass konstruktivistische und reformpädagogische Unterrichtsansätze
+nicht lernförderlich seien und eher aus dem Unterrichtsgeschehen ver-
+schwinden sollten. Andere Exegeten des Hattie-Buches verdammen es ob
+seiner technischen oder methodischen Mängel und führen an, dass man we-
+gen erheblicher Kunstfehler und persönlicher Interessen Hatties nicht viel
+aus dem Buch schließen könne. Missbraucht man das Hattie-Buch nicht, um
+seine eigenen Vorurteile und Meinungen zu bestätigen, sondern bewertet
+man seinen Inhalt unter Berücksichtigung anderer Forschungsliteratur, so
+
+[p. 25] [PDF page 25]
+
+stellt man fest, dass sehr viele Aussagen, die Hattie aus der Sammlung viel-
+fältigster Metaanalysen ableitet, ebenfalls in nicht von ihm berücksichtigten
+Primärstudien gefunden wurden und werden. Auch andere überblicksarti-
+ge Sammlungen von Forschungsergebnissen (z. B. Gruehn 2000; Kirschner
+2006; Meyer 2004; Walberg 2010) kommen cum grano salis zu identischen
+Aussagen über die Wirksamkeit von Unterricht bzw. arbeiten heraus, wel-
+che Unterrichtsmerkmale wirksam sind (in Bezug auf schulisches Lernen)
+und welche nicht.
+   In diesem Beitrag sollen die Kernbefunde aus der Hattie-Publikation
+erläutert werden. Arrondierend sollen Ergebnisse aus nationalen und in-
+ternationalen Arbeiten ergänzt werden, die hinsichtlich ihrer Aussagen die
+zentralen Botschaften Hatties stützen. Dies soll helfen, den Eindruck zu
+vermeiden, dass Hatties Synthese der Forschungsbefunde selektiv oder gar
+tendenziös sei. Abschließend sollen Reflexionen angestellt werden, welche
+Konsequenzen sich aus den Befunden der empirischen Schul- und Unter-
+richtsforschung für die schulische Praxis ergeben.
+
+
+
+Vorgehen und Kernbefunde bei Hattie
+
+
+Im Gegensatz zu anderen Bildungsforschern hat Hattie für sein Buch Visible
+Learning keine eigenen Daten gesammelt, sondern über viele Jahre em-
+pirische Studien gesichtet, die in Metaanalysen zusammengefasst wurden.          {])
+                                                                                _D
+
+Forscherinnen und Forscher, die eine Metaanalyse durchführen, sammeln
+weltweit publizierte Studien, die sich mit der Frage beschäftigen, wie ein
+Merkmal A auf eine Variable B wirkt, beispielsweise, wie die Intelligenz ei-
+ner Schülerirr oder eines Schülers auf ihren oder seinen Lernerfolg im Fach
+Mathematik wirkt, um sie zusammenzufassen. Sie können das tun, indem
+sie sich einen Überblick über die Ergebnisse der Studien verschaffen und
+dann feststellen, ob es über alle Studien hinweg einen negativen Zusam-
+menhang gibt (Schülerinnen/Schüler mit hoher Intelligenz lernen weniger),
+keinen Zusammenhang gibt (Lernerfolge sind unabhängig von der Intelli-
+genz) oder einen positiven Zusammenhang gibt (Schülerinnen/Schüler mit
+hoher Intelligenz lernen mehr). Zur Quantifizierung des Zusammenhangs
+verrechnen die Metaanalytiker die Daten der Ursprungsstudien miteinan-
+der, das heißt für unser Beispiel: Sie verwenden statistische Methoden, um
+den Zusammenhängen zwischen Intelligenz und schulischer Leistung in al-
+
+[p. 26] [PDF page 26]
+
+len Originalarbeiten nachzugehen, und berechnen dann so etwas wie einen
+mittleren Zusammenhang der beiden Variablen.
+   Als Maß für den mittleren Zusammenhang wird gern die Effektstärke d
+verwendet, die in vielen Schulleistungsstudien typischerweise zwischen
+-0.2 und+ 1.4 schwankt. Zur Einordnung dieser Effektstärke: Untersuchun-
+gen in der Sekundarstufe I zeigen, dass der Leistungszuwachs, der in einem
+Schuljahr in den Kernfächern Deutsch, Englisch und Mathematik erreicht
+wird, einemdvon 0.3 bis 0.5 entspricht (vgl. Köller/Baumert 2012).
+   Hattie (2009) hatjetzt viele solcher Metaanalysen (über 800) zusammen-
+getragen, die sich letztendlich alle mit Merkmalen beschäftigten, welche die
+Schulleistungen von Schülerinnen und Schülern fördern oder hemmen. In
+diesen 800 Metanalysen wurden die Ergebnisse aus über 50.000 Studien
+zusammengefasst, an denen mehr als 80 Mio. Schülerinnen und Schüler
+beteiligt waren. In seiner inzwischen erschienenen Veröffentlichung Visible
+Learning for Teachers (2012) sind es bereits 931 Metaanalysen geworden.
+Diese berücksichtigen über 60.000 einzelne empirische Untersuchungen
+mit Lernergebnissen von mehr als 88 Millionen Schülerinnen und Schülern.
+Als empirischer Bildungsforscher kann man hier schon von einer starken
+empirischen Grundlage sprechen.
+
+Ein Überblick über die Befunde
+Hattie bedient sich der Effektstärke d und argumentiert, dass ein Merk-
+mal nur dann substanziell Schulleistungen fördert, wenn seine Effektstärke
+mindestens d = 0.40 ist ("zone of desired effects") und damit in etwa dem
+entspricht, was der normale Fachunterricht in einem Schuljahr bewirken
+kann. In einer sehr groben Zusammenfassung der Befunde aller Metaanaly-
+sen präsentiert er die in Abb. 1 aufgenommenen mittleren Effektstärken
+für alle von ihm berücksichtigten Merkmale der Familie, der Schülerin/des
+Schülers, der Schule, der Lehrkräfte, des Unterrichts und der Inhalte (Cur-
+ricula). Unübersehbar sind die vergleichsweise kleinen Effekte von Schul-
+merkmalen im Gegensatz zu relativ großen Effekten der unterrichtlichen
+Merkmalsgruppen (Lehrkraft, Unterricht und Curricula). Effekte des famili-
+ären Hintergrunds und des Schülers/der Schülerirr selbst liegen dazwischen.
+Im Folgenden soll bei der detaillierten Besprechung der Befunde eine Be-
+schränkung auf die Merkmalskomplexe Schule und Unterricht stattfinden,
+die übrigen Bereiche werden zum Beispiel bei Köller/Möller/Möller (2013)
+ausführlicher geschildert.
+
+[p. 27] [PDF page 27]
+
+0.6 +------~···· ---········---....-~---·----····..···········--·--~---~·- .................-- ......_______.......... ----~....______, ...................-~------------ .. ·-····
+
+       0.5 , . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+ "D    0.4 +·----··--···.............................
+
+
+ 1
+ ~
+
+       0.3
+ :I=
+ u.J   0.2
+
+       0.1
+
+
+                                 Familie                                Schüler/Schülerin   Schule          Lehrkraft                    Unterricht                      Inhalte
+
+
+Abb. 1: Effekte unterschiedlicher Merkmalsgruppen auf das schulische Lernen (vgl. Hattie 2009, S. 18)
+
+
+Effekte schulischer Faktoren
+In diesem Abschnitt werden nur solche Faktoren auf der Schulebene be-
+rücksichtigt, die sinnvoll auf das deutsche Schulsystem bezogen werden
+können. Eine komplette Übersicht findet sich bei Hattie (2009, S. 74).
+Hattie unterscheidet Schulattribute (Finanzen), Schultypen (z. B. konfes-
+sionsgebundene Schulen, Sommerschule), Schulkompositionseffekte (z.B.
+Schulgröße), Klassenkompositionseffekte (z.B. Klassengröße, Form der
+Leistungsdifferenzierung), Angebote für hochbegabte Schülerinnen und                                                                                                                         0
+                                                                                                                                                                                              0
+
+Schüler (z. B. Enrichment) und Effekte des Geschehens im Klassenraum                                                                                                                         -§
+                                                                                                                                                                                             .S
+(z.B. Klassenführung, Gleichaltrige). Für ausgewählte Variablen aus diesen
+Merkmalsgruppen zeigt die Abb. 2 die von Hattie zusammengetragenen Er-
+gebnisse. Die Merkmale sind nach aufsteigender Effektstärke sortiert.
+                                                                                                                                                                                             s"'
+                                                                                                                                                                                             s::.
+   Der negative Effekt des Sitzenbleibens (d = ~0.16) verdeutlicht, dass
+eine pädagogische Strategie, die davon geleitet ist, dass schwachen Schüle-
+rinnen und Schülern die Wiederholung dabei hilft, anschließend erfolgreich                                                                                                                   \
+weiterzulernen, empirisch keine Stützung erfährt. Für deutsche Schulen
+wurden Effekte des Klassenwiederholens anhand der PISA-2003-Studie
+von Ehmke, Drechsel und Carstensen (2010) untersucht. Auch dort zeigten
+sich bei den betroffenen Schülerinnen und Schülern gegenüber den versetz-
+ten Kameradinnen und Kameraden negative Effekte auf das Lernen.
+   Negativ wirken auch Schulferien, da in dieser Zeit oftmals Lerngelegen-
+heiten ausbleiben. Allerdings zeigt die internationale Forschung (Alexan-
+der/Entwisle 1996), dass die Kosten der Schulferien vor allem bei sozial
+benachteiligten Schülerinnen und Schülern auftreten.
+
+[p. 28] [PDF page 28]
+
+I
+                      Akzeleration
+                                  I
+
+                      Gleichaltrige
+                   Klassenführung
+                                                      I           I
+               Kleingruppenlerne:n
+                                                                  I
+       Unterbinden ~on Störunge,n
+                          Enrichment
+                      Schulleitung
+              Inklusion/Integration
+                                                      I
+                                                      I
+                 Summer schools
+                                                      I
+
+
+
+
+                                          ....•
+                            Finanzen
+                     Klassengröße
+            interne Differenzierung        ~
+           externe Differenzierung
+
+
+
+
+                                        -
+jahrgan gsübergreifender Unterricht
+
+
+                                          •
+                 offener Unterricht
+                    Sommerferien
+                     'Sitzenbleiben -
+                   -0.4          -0.2                0.2        0.4         0.6         0.8
+
+Abb. 2: Schulmerkmale und ihre Effekte auf schulisches Lernen (vgl. Hattie 2009, S. 72ff.)
+
+
+
+Hinsichtlich der weitgehend lernunwirksamen Faktoren ergeben sich bei
+Hattie bemerkenswerte Befunde: Maßnahmen der Leistungsgruppierung
+(externe, interne Differenzierung) haben sehr kleine Effekte, reformpäd-
+agogisch orientierte Organisationsformen (offener Unterricht, jahrgangs-
+übergreifender Unterricht) bleiben weitgehend wirkungslos! Folgt man der
+modernen Unterrichtsforschung (z. B. Seidel/Shavelson 2007), so sind diese
+Befunde durchaus erwartungskonform. Dort wird bereits betont, dass soge-
+nannte Sicht- bzw. Oberflächenstrukturen (solche Strukturen also, die sich
+einfach und objektiv beobachten lassen; siehe oben) oftmals ungeeignet
+sind, Lernerfolg vorherzusagen. Vielmehr scheinen es aufwendiger zu be-
+urteilende Tiefenstrukturen (zum Beispiel: wie kognitiv aktivierend ist der
+Unterricht?) zu sein, die darüber entscheiden, wie viel gelernt wird.
+    Unter den Faktoren, die eine sehr begrenzte Wirkung entfalten, befin-
+det sich die Reduzierung der Klassengröße. Folgt man öffentlichen Dis-
+kussionen, so liegt in der Reduzierung der Klassengröße die entscheidende
+Stellschraube für die Qualität des Bildungswesens. Dies geschieht allerdings
+trotz erwiesener geringer Effekte auf die Schülerleistungen. Dass die Schü-
+lerleistungen kaum von der Klassenfrequenz beeinflusst werden, ist kei-
+
+[p. 29] [PDF page 29]
+
+ne neue Erkenntnis aus der Hattie-Studie. Sie wird hier aber noch einmal
+eindrucksvoll untermauert durch die Berücksichtigung von 96 empirischen
+Studien mit mehr als einer halben Million Schülerinnen und Schülern. Wie
+Hattie zusammenfassend schreibt, liegt der Effekt der Reduzierung der
+Klassengröße von 25 auf 15 (!) Schülerinnen und Schüler zwischen d =
+0.10 und d = 0.20 (vgl. auch von Saldern 2006). Es scheint mit Blick auf die
+Kompetenzstände der Schülerinnen und Schüler effektiver und effizienter
+zu sein, auf regelmäßige Hausaufgaben (d = 0.29) und eine fundierte fach-
+orientierte Lehrerfortbildung (d = 0.37) zu setzen (siehe unten) als auf die
+sehr kostenintensive Maßnahme der Klassengrößensenkung.
+   Die großen Effekte des Kleingruppenlernens (d = 0.49) stehen keines-
+wegs im Widerspruch zu den geringen Effekten der Klassengröße. Kleingrup-
+penlernen meint hier Lernerfolge in Gruppen von 5 und weniger Kindern
+und wird bei Hattie verglichen mit Lernerfolgen allein lernender Kinder.
+   Ähnliche Effektstärken wie die Klassengröße weisen Finanzen und
+Summer schools auf. Finanzielle Mehraufwendungen in Schulen finden nur
+dann Niederschlag in den Lernergebnissen der Schülerinnen und Schüler,
+wenn sie für Fördermaßnahmen und Lehrerfortbildung verwendet werden.
+Summer schools sind auch Fördermaßnahmen für (oftmals benachteiligte)
+Schülerinnen und Schüler in den Sommerferien. Im deutschen Sprachraum
+kommen Stanat u. a. (2012) zu vergleichbaren Ergebnissen.                      0
+                                                                                0
+
+   Für die in Deutschland aktuell geführten Debatten über inklusive Be-        -§
+                                                                               .S::
+schulung sind die entsprechenden Befunde inAbb. 2 bemerkenswert. In der         (])
+                                                                               _D
+
+Tat finden sich höhere Leistungen für Schülerinnen und Schüler mit son-
+derpädagogischem Förderbedarf, die inklusiv und nicht in Sonderschulen
+                                                                                m
+beschult werden. Die entsprechende Effektstärke liegt bei d = 0.28.            s
+                                                                               _c
+
+
+
+   Unterbinden von Unterrichtsstörungen (d = 0.36) ebenso wie Klassen-
+führung (d = 0.52) beschreiben ein Verhalten der Lehrkräfte, bei dem die       \
+Unterrichtszeit für Lernaktivitäten genutzt wird. Aufkommende Unruhe
+wird unterbunden, Übergänge im Unterricht sind fließend und die Lehr-
+kraft stellt sicher, dass die Schülerinnen und Schüler aufpassen. Baumert/
+Kunter (2006) in ihrem Modell des Professionswissens von Lehrkräften
+ebenso wie Meyer (2004) sehen in der Klassenführung eine zentrale Deter-
+minante für erfolgreiches Lernen und beziehen sich dabei auf die epochale
+Arbeit von Kounin (1976). Erst kürzlich haben Haag/Streber (2012) die Li-
+teratur zu diesem Thema erneut zusammengefasst und die große Bedeutung
+für schulisches Lernen hervorgehoben.
+
+[p. 30] [PDF page 30]
+
+Die positiven Effekte von Schulleitung (d = 0.36) treten dann auf, wenn
+Schulleitungen Unterrichtsentwicklung an ihren Schulen systematisch vo-
+rantreiben. Es ist danach von besonderer Bedeutung, dass Schulleitungen
+sich als Experten für das Lernen und Unterrichten definieren und dies in
+möglichst allen Fächern auch umsetzen. Effektive Schulleitungen können
+den Lehrkräften helfen, ihren Unterricht zu optimieren. Bonsen u. a. (2002)
+haben ein Modell vorgestellt, das in diesem Sinne zeigt, wie sich Schullei-
+tungsverhalten auf das Unterrichtshandeln der Lehrkräfte auswirken kann.
+Dieses Modell zeigt die Abb. 3. Aufgabe einer modernen Schulleitung ist
+danach, Innovationen und die Kooperation zwischen den Kollegen zu för-
+dern. Gelingt dies, so können Lehrkräfte in der lernenden Organisation ih-
+ren Unterricht verbessern.
+
+
+         Führung                          Kooperation
+                                                                0.56
+
+             0.82                               0.45                    Fördern im Unterricht
+
+                                                                0.24
+                                          Innovation
+
+
+Abb. 3: Schulleitungsverhalten und Unterrichtsentwicklung in Schulen (vgl. Bonsen u.a. 2002)
+
+
+
+Die Faktoren Enrichment (d = 0.39) und Akzeleration (d = 0.88) betreffen
+Maßnahmen zur Förderung hochleistender und hochbegabter Schülerinnen
+und Schüler. Enrichment beschreibt curriculare oder extracurriculare Zusatz-
+angebote für diese Schülergruppe,Akzeleration beschreibt das Überspringen
+von Klassenstufen, das nur zeitweise und auf einzelne Fächer beschränkte
+Unterrichten in höheren Jahrgangsstufen oder auch den Besuch von Col-
+lege- bzw. Universitätsveranstaltungen für ältere Schülerinnen und Schüler.
+Positive Effekte des Überspringens von Klassenstufen konnten auch Vock/
+Penck/Köller (im Druck) für Deutschland zeigen. Amerikanische Arbeiten
+(z. B. Park/Lubinski/Benbow 2013) weisen allerdings darauf hin, dass Hoch-
+leistende und Hochbegabte nur dann überspringen sollten, wenn es sowohl
+die Eltern als auch die Schülerinnen und Schüler selbst explizit wünschen.
+    Schließlich sind in der Abb. 2 auch noch Effekte der Gleichaltrigen (d =
+0.53) abgetragen. Peers haben dann positive Effekte auf schulisches Ler-
+nen, wenn sie aktiv Lernaktivitäten unterstützen (Tutoring, Rückmeldung,
+gemeinsames Üben für Prüfungen, emotionale Unterstützung). Intakte
+
+[p. 31] [PDF page 31]
+
+Freundschaften mit den Klassenkameradinnen und Klassenkameraden sind
+ebenfalls lernförderlich, Schülerinnen und Schüler, die dagegen im Klassen-
+raum isoliert sind, lernen schlechter.
+    Fasst man die Befunde zur Relevanz der schulischen Maße zusammen,
+so zeigt sich insgesamt, dass Maßnahmen umso eher lernförderlich wirken,
+je dichter sie direkt am Unterricht bzw. an der Lernsituation angreifen.
+Schulleitung beispielsweise hat dann Effekte, wenn sie sich um die Verbes-
+serung der Unterrichtsqualität kümmert. Merkmale, die lediglich den Rah-
+men von Schule und Unterricht abstecken (Finanzen, Formen der Differen-
+zierung, offener Unterricht, jahrgangsübergreifender Unterricht) verfehlen
+weitgehend ihre Wirkung, schaden aber auch nicht. Im folgenden Abschnitt
+soll der Fokus auf den Unterricht verstärkt werden und es sollen die Un-
+terrichtsvariablen herausgearbeitet werden, von denen wir wissen, dass sie
+besonders lernförderlich sind.
+
+Effekte der Lehrkraft und des Unterrichts
+In diesem Abschnitt soll herausgearbeitet werden, dass die von Hattie zu-
+sammengefassten empirischen Studien die Lehrkraft und den Unterricht
+als die wichtigsten Größen zur Förderung schulischen Lernens identifi-
+zieren. Es soll deutlich werden, dass es sehr große Unterschiede zwischen
+Lehrkräften gibt und dass es darauf
+ankommt, die Verhaltensweisen zu
+                                         Merkmal                             d
+zeigen und die Lehrstrategien zu         Feedback                              0.73     QJ
+                                                                                       _D
+
+verwenden, die effektiv sind. Dabei      Lehrer-Schüler-Beziehung              0.72
+sind es vergleichsweise viele Lehr-      verteiltes oder massiertes Üben       0.71
+                                                                                       ro
+kraft- und Unterrichtsmerkmale,                                                0.69
+                                                                                       s
+                                                                                       _c
+                                         metakognitive Strategien
+
+
+                                                                                        \
+                                         Direkte Instruktion                   0.59
+die mehr oder weniger zum Wis-
+                                         Concept Mapping                       0.57
+sens- und Kompetenzzuwachs von
+                                         Peer-Tutoring                         0.55
+Schülerinnen und Schülern beitra-        Kooperatives Lernen                   0.41
+gen. Eine Auswahl davon mit den          Time onTask                           0.38
+zugehörigen Effektstärken zeigt          regelmäßiges Testen                   0.34
+die rechts abgebildete Tab. 1 im         Forschendes Lernen                    0.33
+Überblick und in absteigender Rei-       Hausaufgaben                          0.29
+                                         Lehrerausbildung                      0.11
+henfolge. Nachfolgend werden die
+                                         Fachwissen                            0.09
+einzelnen Faktoren und die zuge-
+                                        Tab. 1: Ausgewählte Lehrer- und Unterrichts-
+hörigen Ergebnisse in umgekehrter
+                                        variablen: Befunde aus Hatties Synopse
+Reihenfolge erläutert.                  der Metaanalysen
+
+[p. 32] [PDF page 32]
+
+Das Fachwissen der Lehrkräfte gilt gemeinsam mit dem fachdidaktischen
+und dem pädagogischen Wissen als Grundlage des professionellen Handeins
+im Unterricht und als zentraler Faktor für den Wissenszuwachs der Schü-
+lerinnen und Schüler (Shulman 1986, 1987). Hattie weist darauf hin, dass
+diese Annahme zwar plausibel ist, die empirische Befundlage aber relativ
+wenig Unterstützung dafür liefert. Manche Autoren argumentieren laut
+Hattie sogar, dass es zur Durchführung eines guten Unterrichtes ausreiche,
+eine kritische Schwelle des Fachwissens zu überschreiten, allerdings ohne
+zu präzisieren, wie diese Schwelle aussieht. Hinsichtlich der Relevanz des
+Fachwissens ist insgesamt zu beklagen, dass es nur wenige Studien gibt, die
+sich mit dieser Variable befassen. In Deutschland liegt mit der COACTIV-
+Studie (vgl. Kunter u. a. 2011) aber eine hervorragende Untersuchung vor,
+die zeigt, dass fachliches Wissen die Basis für fachdidaktische Kompetenz
+darstellt und dass dies wiederum eng mit dem Wissens- und Kompetenz-
+zuwachs der Schülerinnen und Schüler zusammenhängt. Bundesländerver-
+gleiche zeigen ebenfalls, dass das Fachwissen der Lehrkräfte von Belang ist:
+So schnitten im Ländervergleich 2009 (vgl. Köller/Knigge/Tesch 2010) ost-
+deutsche Schülerinnen und Schüler im Fach Englisch bedeutend schlechter
+ab als in anderen Fächern. Begründet wurde dieser Befund damit, dass die
+Lehrkräfte in den neuen Ländern vielfach in Russisch ausgebildet und nach
+der Wiedervereinigung vergleichsweise kurz in Englisch nachgeschult wur-
+den. Der kürzlich publizierte Ländervergleich in der Grundschule (vgl. Sta-
+rrat u. a. 2012) weist zudem für das Fach Mathematik aus, dass Schülerinnen
+und Schüler, die von einer fachfremden Lehrkraft unterrichtet werden, im
+Mittel schwächer abschnitten als solche, deren Lehrkraft Mathematik fürs
+Lehramt studiert hatte.
+    Für die Güte der Lehrerausbildung zeigen sich bei Hattie auch nur ge-
+ringe Effekte. Allerdings beklagt Hattie selbst die geringe Zahl belastbarer
+Studien zu diesem Thema. Gerade auch für Deutschland wären dringend
+Längsschnittuntersuchungen nötig, die prüfen, wie wirksam die erste und
+zweite Phase der Lehrerausbildung eigentlich sind. Nach Hattie ist es dabei
+u. a. wichtig, dass die Lehrerausbildung an anerkannten und überprüfbaren
+Standards orientiert ist und sich selbst wiederum an den Lernergebnissen
+ihrer Schülerinnen und Schüler messen lässt.
+    Hausaufgaben bieten den Schülerinnen und Schülern zusätzliche Lern-
+gelegenheiten, das in der Schule Gelernte zu reflektieren und Fertigkeiten
+einzuüben. Insbesondere in der Sekundarstufe I zeigen sich auch lernförder-
+
+[p. 33] [PDF page 33]
+
+liehe Effekte. Für deutsche Schülerinnen und Schüler berichten beispielswei-
+se Trautwein/Köller/Schmitz/Baumert (2002) positive Effekte regelmäßiger
+Hausaufgaben. Ein sehr detaillierter Überblick über die Effekte von Haus-
+aufgaben findet sich auch beiTrautwein/Köller (2003). DieAutoren kommen
+dabei zu ähnlichen Schlussfolgerungen wie Hattie. Lehrkräfte sollten die
+Hausaufgaben im folgenden Unterricht kontrollieren und bei der Vergabe
+nach dem Motto verfahren "Lieber oft als viel!" (vgl. Trautwein u. a. 2002).
+    Glaubt man dem Effekt des Testens, so ist der Lernerfolg in Klassen, in
+denen regelmäßig Leistungsüberprüfungen stattfinden, höher als in solchen,
+in denen auf entsprechende Kontrollen verzichtet wird. Dieser Befund
+räumt mit Vorurteilen auf, wonach Schülerinnen und Schüler, die regelmä-
+ßig geprüft werden, immer nur auf die Prüfung hin lernen, um anschließend
+wieder alles zu vergessen. Laut Hattie steigt dieser Effekt auf über 0.6 an,
+wenn .die Testung mit lernförderlichem Feedback verknüpft wird.
+    Beim Forschenden Lernen (Inquiry-based Learning), das vor allem in
+den naturwissenschaftlichen Fächern Anwendung findet, sollen Schülerin-
+nen und Schüler Phänomene beobachten, hinterfragen und zu erklären
+versuchen. Die Empirie zeigt, dass entsprechende Arbeiten das Interesse
+und auch das kritische Hinterfragen fördern können, die Effekte auf tat-
+sächliches Wissen aber weniger deutlich und nachhaltig sind (vgl. hierzu
+auch Kirschner 2006).
+    Time an Task beschreibt ein Unterrichtshandeln, bei dem die Zeit für
+fachspezifisches Arbeiten verwendet wird. Organisatorisches wird ausgela-        QJ
+                                                                                _D
+
+gert (vgl. Meyer 2004).
+    Kooperative Lernformen sind geeignet, sowohl das Interesse an Unter-
+                                                                                ro
+richtsirrhalten als auch sachbezogene Argumentationen zu fördern. Sie för-      ~
+dern den Wissens- und Kompetenzzuwachs stärker bei älteren als bei jün-
+geren Kindern und scheinen dann besonders erfolgreich zu sein, wenn sie         \
+durch klare Strukturen vorbereitet sind wie etwa beim Reciprocal Teaching
+(d = 0.74), bei dem Schülerinnen und Schüler abwechselnd in die Lehr-
+kraft- und die Schülerrolle schlüpfen und dabei, wie Hattie schreibt, insbe-
+sondere dann profitieren, wenn Lehrkräfte den Schülerinnen und Schülern
+zeitnah kognitive Lernstrategien vermitteln wie Fragen zu stellen oder Zu-
+sammenfassungen komplexer Gegenstände zu erstellen.
+    Der Einsatz von Mitschülerinnen und Mitschülern als Co-Lehrkräfte
+ (Peer- Tutoring) ist sehr effektiv. Dabei unterscheiden sich die Effektstär-
+ken für die Tutoren nur unwesentlich von den Effektstärken bei den tutees.
+
+[p. 34] [PDF page 34]
+
+Gerade für den eigenen Lernzuwachs scheint es günstig zu sein, sich in die
+Lehrerrolle zu begeben und anderen einen Inhalt zu vermitteln.
+   Die Technik des Concept Mapping wird meist als Erstellen einer grafi-
+schen Repräsentation eines Lerninhalts verstanden. Concept Mapping ist
+offenbar eine sehr geeignete, kognitiv aktivierende Lerntechnik Interes-
+sant ist dabei, dass diese Technik, so Hattie, gerade auch schwächeren Schü-
+lerinnen und Schülern hilft, vermutlich, weil diese selbst daran beteiligt
+sind, einem Text eine vereinfachte bildliehe Struktur zu geben. Dies entlas-
+tet offenbar ihr kognitives System.
+    Direkte Instruktion erweist sich ebenfalls als mächtiges, lernförderliches
+Merkmal. Hattie bedauert, dass die direkte Instruktion fälschlicherweise in
+Misskredit geraten ist. Nach Hattie bedeutet direkte Instruktion einen von
+der Lehrkraft gesteuerten Unterricht, in dem sie die Lernziele der Unter-
+richtseinheit festlegt und den Schülern transparent macht. Die Lehrkraft ist
+aktiv im Unterricht, erläutert Inhalte, überwacht den Lernfortschritt der
+Schülerinnen und Schüler, fungiert als Modell für gelungene Problemlö-
+sungen und fasst am Ende der Stunde die zentralen Ergebnisse zusammen.
+Metakognitive Strategien umfassen die Steuerung der eigenen Denk- oder
+Lernvorgänge, um deren Planung, Initiierung, Bewertung und Optimierung.
+So ist etwa die Selbstprüfung, ob ich einen bestimmten Sachverhalt ver-
+standen habe, eine solche metakognitive Strategie, die im Unterricht ver-
+mittelt und eingeübt werden kann.
+    Effekte des verteilten Übens meinen, dass es entscheidend für den Wis-
+senszuwachs ist, dass geschickt und in Portionen geübt wird, indem etwa
+in zahlreichen Übungseinheiten dosierte Ziele gesetzt und motivierendes
+Feedback gegeben werden kann. Die Studien zeigen laut Hattie, dass Schü-
+lerinnen und Schüler viele Inhalte erst tiefer zu verstehen beginnen, wenn
+die Inhalte mindestens 3 bis 4 Mal in abwechslungsreichen Settings präsen-
+tiert und inhaltsbezogene Gedanken aktiviert werden.
+    Positive Lehrer-Schüler-Beziehungen sind nicht nur für das Ausbleiben
+von Störungen und ein angenehmes Klassenklima verantwortlich, sondern
+fördern auch in erheblichem Maße die schulischen Leistungen. In der Meta-
+analyse von Cornelius-White (2007) zeigte sich, dass Lehrkräfte den Schü-
+lerinnen und Schülern Freiraum für eigene Ideen und Aktivitäten lassen
+sollten und dass Empathie und Ermutigung beim Lernen zentrale Aspekte
+des Lehrer-Schüler-Verhältnisses sind.
+
+[p. 35] [PDF page 35]
+
+Bezogen auf die Effekte des Feedbacks ist nicht gemeint, dass Schülerinnen
+und Schüler allein gelobt oder getadelt werden. Dies ist nach Hattie (für die
+schulischen Leistungszuwächse) oftmals wirkungslos oder sogar schädlich.
+Wirkungsvolles Feedback bezieht sich auf inhaltsorientierte Rückmeldun-
+gen zu dem, was ein Schüler oder eine Schülerirr gerade gesagt oder getan
+hat. Eine Lehrkraft, die wirkungsvolles Feedback geben will, sollte das je-
+weilige konkrete Lernziel klarmachen und der Schülerirr oder dem Schüler
+signalisieren, was sie/er schon geschafft hat, welche Schritte die nächsten
+sind und wie man sie gehen kann.
+
+
+
+Resümee und Schlussfolgerungen
+
+
+Resümiert man die hier beschriebenen Maße des Lehrerhandeins und des
+Unterrichts, so zeigen sich im Einklang mit der nationalen Literatur (Bau-
+mert/Kunter 2006) drei Kerndimensionen gelingen Unterrichts: Klassen-
+führung, kognitive Aktivierung und konstruktive Unterstützung.
+   Zur Klassenführung zählen Maße wie Time on Task, Störungsprävention,
+Klarheit der Instruktion, direkte Instruktion. Kognitive Aktivierung umfasst
+u.a. die Merkmale Concept Mapping, Peer-Tutoring, Reziprokes Lernen
+und kooperatives Lernen. Schließlich konstituiert Feedback die Kerndimen-        0
+                                                                                 0
+                                                                                _c
+sion der konstruktiven Unterstützung. Diese drei großen Unterrichtsdimen-        ~
+                                                                                .S::
+sionen sind offenbar effektiver als von außen leicht erkennbare "moder-          QJ
+                                                                                _D
+
+nistische" Unterrichtsformen, bei denen die Schülerinnen und Schüler alle
+beschäftigt sind, aber niemand weiß, was eigentlich gelernt werden soll (für
+                                                                                 <U
+
+                                                                                s
+                                                                                _c
+die Hattie denAusdruck "mindless busy work" verwendet).
+   In seinem 2012 erschienenen Buch zieht Hattie Konsequenzen aus seiner
+Zusammenschau der empirischen Befunde und gibt einfache Hinweise für            \
+das erfolgreiche unterrichtliche Handeln von Lehrkräften in Klassenräumen:
+   - Lehrkräfte müssen definieren, was die Outcomes (Erfolgskriterien)
+       einer Unterrichtseinheit sind ("Was will ich aufseitender Schülerin-
+       nen und Schüler erreichen?").
+   - Lehrkräfte müssen entscheiden, wie sie überprüfen können, dass die
+       Ziele erreicht wurden (summativesAssessment).
+   - Lehrkräfte müssen sich vergewissern, was die Schülerinnen und
+       Schüler zu Beginn einer Unterrichtseinheit schon leisten können
+       (formatives Assessment).
+
+[p. 36] [PDF page 36]
+
+- Danach führen sie die Unterrichtseinheit durch.
+    - Danach sollen sie den Erfolg des Unterrichts auf Schülerseite mes-
+       sen, idealerweise mit standardisierten Lernerfolgstests.
+    - Lehrkräfte müssen den beobachteten Kompetenzzuwachs als Indi-
+       kator nutzen, um festzustellen, ob sie ihre Ziele erreicht haben.
+    - Unterschiede im Kompetenzzuwachs zwischen Schülerinnen und
+       Schülern sollen Lehrkräfte als Anlass zum Reflektieren nehmen,
+       warum manche Kinder/Jugendliche die Ziele eher, manche weniger
+       erreicht haben.
+Bei diesem Handlungskatalog wird deutlich, dass es Hattie nicht um die
+Rückkehr zu einem anachronistischen lehrerzentrierten Unterricht geht.
+Vielmehr ist seine Botschaft schülerzentriert: Die gute Lehrkraft macht sich
+immer wieder Gedanken, was sie den Schülerinnen und Schülern beibrin-
+gen möchte und wie sie sicherstellen kann, dass diese auch erfolgreich ler-
+nen. Diese Schlussfolgerungen sind eigentlich banal, umso verblüffender ist
+die Beobachtung, wie stark Lehrkräfte häufig ihren Unterricht an Inhalten
+und nicht an den Kindern und Jugendlichen ausrichten. Noch verblüffender
+ist natürlich, wie viel in Deutschland über Strukturreformen und wie wenig
+über guten Fachunterricht gesprochen wird.
+
+Literatur
+Alexander, K. L./Entwisle, D. R. (1996): Schools and children at risk. In: A. Booth/J. J.
+   Dunn (Hrsg.): Family-schoollinks. Mayaw: Lawrence Erlbaum.
+Baumert, J./Kunter, M. (2006): Stichwort: Professionelle Kompetenz von Lehrkräften. In:
+   Zeitschrift für Erziehungswissenschaft, 9, S. 469-520.
+Bonsen, M./Gathen, J./Iglhaut, C./Pfeiffer, H. (2002): Die Wirksamkeit von Schulleitung-
+   Empirische Annäherungen an ein Gesamtmodell schulischen Leitungshandelns. Wein-
+   heim: Juventa.
+Cornelius-White, J. (2007): Learner-centered teacher-student relationships are effective. A
+   meta-analysis. In: Review of Educational Research, 77, S. 113-143.
+Ehmke,T./Drechsel, B./Carstensen, C. H. (2010). Effects of grade retention on achievement
+   and self-concept in science and mathematics. In: Studies in Educational Evaluation, 36,
+   s. 27-35.
+Gruehn, S. (2000): Unterricht und schulisches Lernen. Schüler als Quellen der Unterrichts-
+   beschreibung. Münster: Waxmann.
+Haag, L./Streber, D. (2012): Klassenführung. Erfolgreich unterrichten mit Classroom Ma-
+   nagement. Weinheim, Basel: Beltz.
+Hattie, J. A. C. (2009): Visible learning. A synthesis of over 800 meta-analyses relating to
+   achievement. Oxon: Routledge.
+Hattie, J. A. C. (2012): Visible learning for teachers. Maximizing impact on learning. Oxon:
+   Routledge.
+
+[p. 37] [PDF page 37]
+
+Kirschner, P. (2006): Why minimal guidance during instruction does not work. An analysis
+   of the failure of constructivist, discovery, problem-based, experiential, and inquiry-
+   based teaching. In: Educational Psychologist, 41, S. 75-86.
+Köller, 0./Baumert, J. (2012). Schulische Leistungen und ihre Messung. In: W. SchneiderlU.
+   Lindenherger (Hrsg.): Entwicklungspsychologie. 7. Auflage. Weinheim: Beltz/PVU, S.
+   645-661.
+Köller, 0./Knigge, M./Tesch, B. (Hrsg.) (2010): Sprachliche Kompetenzen im Länderver-
+   gleich. Münster: Waxmann.
+Köller, 0./Möller, J./Möller, J. (2013): Was wirkt wirklich? Einschätzungen von Determi-
+   nanten schulischen Lernens. Schulmanagement Handbuch, 145. München: Oldenbourg.
+Kounin, J. (1976): Techniken der Klassenführung. Bern: Huber.
+Kunter, M./Baumert, J./Blum, W./Klusmann, U./Neubrand, M. (Hrsg.) (2011): Professio-
+   nelle Kompetenz von Lehrkräften: Ergebnisse des Forschungsprogramms COACTIV.
+   Münster: Waxmann.
+Meyer, H. (2004): Was ist guter Unterricht? Berlin: Cornelsen Scriptor.
+Park, G./Lubinski, D./Benbow, C. P. (2013):When less is more. Effects of grade skipping on
+   ad4lt STEM accomplishments among mathematically precocious youth. In: Journal of
+   Educational Psychology, 105, S. 176-198.
+von Saldern, M. (2006): Klassengröße. In: D. Rost (Hrsg.): Handwörterbuch Pädagogische
+   Psychologie. Weinheim: Beltz, S. 327-332.
+Seidel, T./Shavelson, R. J. (2007): Teaching effectiveness research in the past decade. The
+   role of theory and research design in disentangling meta-analysis results. In: Review of
+   Educational Research, 77, S. 454-499.
+Shulman, L. S. (1986):Those who understand. Knowledge growth in teaching. In: Educatio-
+   nal Researcher, 15 (2), S. 4-14.
+                                                                                              0
+Shulman, L. S. (1987). Knowledge and teaching. Foundations of the new reform. Harvard         0
+
+   Educational Review, 57 (1), S. 1-22.                                                       t<
+                                                                                              .~
+Stanat, P./Becker, M./Baumert, J./Lüdtke, 0./Eckhardt, A. G. (2012): Improving second
+                                                                                              (})
+
+   language skills of immigrant students. A field trial study evaluating the effects of a     _o
+
+
+   summer learning program. In: Learning and Instruction, 22, S. 159-170.
+Stanat, P./Pant, H. A./Böhme, K./Richter, D. (2012): Kompetenzen von Schülerinnen und
+   Schülern am Ende der vierten Jahrgangsstufe in den Fächern Deutsch und Mathematik
+   Ergebnisse des IQB-Ländervergleichs 2011. Münster: Waxmann.
+Trautwein, U./Köller, 0. (2003): The relationship between homework and achievement -
+   still much of a mystery. In: Educational Psychology Review, 15, S. 115-145.
+Trautwein, U./Köller, 0./Schmitz, B./Baumert, J. (2002): Do homework assignments en-
+   hance achievement? A multilevel analysis in 7th grade Mathematics. In: Contemporary
+   Educational Psychology, 27, S. 26-50.
+Vock, M./Penck, C./Köller, 0. (im Druck). Wer überspringt eine Schulklasse? Befunde zum
+   Klassenüberspringen in Deutschland. In: Psychologie in Erziehung und Unterricht.
+Walberg, H. J. (2010): Advancing student achievement. Stanford University: Hoover Ins-
+   titution Press.
