@@ -122,7 +122,7 @@ updated: 2026-10-16
 
 > [!logic-map]- 领域特殊性分类体系与认知构件关系
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     subgraph Structure["<b>领域特异性分类与认知层级结构</b>"]
 >         D["<b>领域的划分维度</b>"]
 >         D --> D1["<b>日常判断领域 (Kuhn et al., 2000)</b><br>个人品味 → 审美 → 价值观 → 社会事实 → 物理事实<br>(从极端主观到极端客观)"]

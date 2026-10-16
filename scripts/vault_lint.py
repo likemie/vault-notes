@@ -2114,7 +2114,8 @@ def check_source_record(path: Path, text: str, issues: List[Issue]) -> None:
             issues.append(Issue("WARN", rel(path), "EPUB source records should use the epub.js viewer instead of Obsidian embed", line=line_of_pos(clean_body, m.start(), body_start_line), code="SOURCE_EPUB_OBSIDIAN_EMBED"))
         elif target.lower().endswith(".pdf"):
             expected_asset = asset_url_for_path(path.parent / target)
-            if expected_asset not in clean_body:
+            published_pdf = re.search(r'<iframe\b[^>]*\bsrc=["\']https://img\.mylikemie\.icu/[^"\']+\.pdf["\']', clean_body, re.S)
+            if expected_asset not in clean_body and not published_pdf:
                 issues.append(Issue("WARN", rel(path), f"PDF source record missing NAS iframe URL: {expected_asset}", line=line_of_pos(clean_body, m.start(), body_start_line), code="SOURCE_PDF_NAS_URL_MISSING"))
 
     if is_book_source:

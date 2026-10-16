@@ -256,7 +256,7 @@ issuing_organization: ""
 
 > [!logic-map]- 核心论证逻辑链
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     subgraph Input["数据输入与方法学诊断"]
 >         A["9 数据库检索 (初检 502 篇)"] --> B["PRISMA 严格筛选 (18 项研究, 512 个效应量, N=6,312)"]
 >         B --> C["方差分解检验: Level 2 方差 35.82%***, Level 3 方差 56.64%***"]

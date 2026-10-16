@@ -246,7 +246,7 @@ updated: 2026-10-16
 
 > [!logic-map]- 方法论批评结构：问题如何在各层级叠加
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     PS["初级研究"] --> MA["元分析"]
 >     MA --> SMA["二级元分析"]
 >     SMA --> RANK["效应量排名"]

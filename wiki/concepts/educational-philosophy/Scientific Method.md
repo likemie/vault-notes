@@ -176,7 +176,7 @@ updated: 2026-10-16
 
 > [!logic-map]- 要素关系与[[Inquiry Cycle|探究循环]]
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     subgraph 假说与设计阶段 [理论推演与设计]
 >         A["经验背景与问题界定<br>(Experience & Problems)"] --> B["假设·直觉·推测<br>(Hypotheses & Hunches)"]
 >         B --> C["研究设计·抽样·隔离变量<br>(Experimental Design)"]
