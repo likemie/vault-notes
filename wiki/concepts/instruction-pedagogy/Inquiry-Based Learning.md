@@ -10,7 +10,7 @@ aliases:
 summary: "以学习者自主生成新知、依托经验证据推论、行使认识能动性并参与共同体批判协商为核心的教学取向，在适切支架与指导协同下对促进概念理解与远迁移显著优于单一直接讲授"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 56
+related_count: 59
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Inhibitory Control]]"
   - "[[Constructivist Paradigm]]"
   - "[[Nature of Science]]"
+  - "[[Visible Learning]]"
   - "[[Dependent Variable]]"
   - "[[Heterogeneity]]"
   - "[[Learnology]]"
@@ -58,6 +59,9 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Experimental Research]]"
   - "[[Pre-test and Post-test]]"
+  - "[[Meta-meta-analysis]]"
+  - "[[Standard Error]]"
+  - "[[Inverse-Variance Weighting]]"
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
@@ -75,6 +79,7 @@ related_persons:
   - "[[Ton de Jong]]"
   - "[[Cindy E. Hmelo-Silver]]"
   - "[[Clark A. Chinn]]"
+  - "[[John Hattie]]"
 related_facts:
   - "[[PISA]]"
   - "[[TIMSS]]"
@@ -82,6 +87,7 @@ related_facts:
 related_arguments:
   - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_Cartiff_2021_JEP]]"
+  - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Argument_Zhang_2022_SE]]"
 confidence: high
 status: active
@@ -230,6 +236,12 @@ updated: 2026-10-16
 > - **认知负荷派观点（蓝方）** 以 [[John Sweller]]、Paul A. Kirschner 与 Richard E. Clark 等学者为代表，依据[[Cognitive Load Theory\|认知负荷理论]]（Cognitive Load Theory, CLT），主张人类[[Working Memory\|工作记忆]]容量极其有限。在处理全新信息时，让学习者自主探索会迫使工作记忆陷入无效的盲目搜索与试误，造成沉重的外在认知负荷；因此，由教师进行完全显性的示范、提供充分工作样例的直接教学在任何阶段都具有压倒性优势。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 1–2)]]
 > - **学习科学与探究派观点（红方）** 以 [[Ton de Jong]]、[[Cindy E. Hmelo-Silver]]、[[Clark A. Chinn]] 等学者为代表，指出反对者将探究教学贬损为无指导纯发现是制造假想敌。大量受控实验与[[Meta-analysis\|元分析]]实证证实，辅以有效支架的探究教学不仅不会造成超载，反而在深层概念理解、[[Nature of Science\|科学本质]]认识、迁移能力与学习动机上全面超越单一直接讲授；真实课堂的最优[[Paradigm\|范式]]绝非二选一，而是将直接教学适时嵌入探究全周期中。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 2–6)]]
 
+> [!tension] [[Meta-meta-analysis|二级元分析]]中的伪[[Standard Error|标准误]]计算与宏观综合精度失真
+> 德国方法学者在对宏观证据库《[[Visible Learning|可见的学习]]》的方法学审计中，指出了针对探究式学习二级综合存在的严重数学违规（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016, p. 30]]）：
+> - **[[John Hattie|哈蒂]]的伪计算操作** 哈蒂在探究式教学因素中报告了汇总[[Standard Error|标准误]] $SE = 0.092$。然而，审计表明该数值居然是对所纳入两项独立元分析的标准误（$SE_1 = 0.154$ 与 $SE_2 = 0.030$）取的**无加权简单算术平均值**
+>   $$SE_{\text{merged}} = \frac{0.154 + 0.030}{2} = 0.092$$
+> - **统计公理的颠覆** 在统计学元分析中，根据[[Inverse-Variance Weighting|逆方差加权]]公理，两个或多个独立样本聚合后的标准误必须严格小于任何单个子研究的标准误（即 $SE_{\text{pooled}} = \sqrt{\frac{1}{\sum w_i}} < \min(SE_i)$）。哈蒂取简单均值的做法，不仅毫无数理依据，更使合并后的不确定性比高精度单项元分析（$0.030$）暴增了 3 倍以上。这暴露出宏观排行榜在量化计算上的粗制滥造与不可靠性。
+
 > [!warning] 适用局限
 > 探究式教学的顺利实施对师资专业素养与教学环境设计提出了极高要求。若教师缺乏实时诊断学生推理困境的能力，或数字化平台缺乏自适应[[Scaffolding\|脚手架]]，探究活动极易退化为低效的形式主义或造成严重认知超载。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 8–9)]]
 
@@ -279,6 +291,7 @@ updated: 2026-10-16
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 4–5)]]<br>（引述 Smetana & Bell, 2012） | 61 项计算机模拟探究与讲授/实验对比研究 | 系统[[Literature Review\|文献综述]] | 科学理解与概念掌握 | 49 项研究（80%）表明计算机模拟探究组具有明显学业优势 | 定性实证梳理 | 强调计算机模拟必须配套高质量支持结构方能充分发挥探究效能 |
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 5–6)]]<br>（引述 PISA 2015 / Chen et al., 2017; Teig, 2022） | [[PISA\|国际学生评估项目]]（PISA）2015 与[[TIMSS\|国际数学与科学趋势研究]]（TIMSS）跨国大规模评估数据（数十万中学生） | 大规模横截面多层相关分析与非线性多项式回归 | 探究教学频次与科学[[Academic Achievement\|学业成绩]] | 探究活动频次与科学成绩呈显著倒 U 型曲线（Curvilinear）；探究与教师直接指导融合时增益最大 | 跨国跨数据库高度稳健 | 证明过度开放的高频探究或单一机械灌输均非最优，最佳效益来自直接指导与探究的有机结合 |
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, p. 6)]]<br>（引述 Linn et al., 2014; Krajcik et al., 2014; Songer et al., 2009） | 涵盖全州与学区数万名学生的多年期课程改革项目（如基于网络的探究科学环境 [[Web-based Inquiry Science Environment\|WISE]]、全要素科学调查课程 IQWST） | 课程级长周期准实验与全州统考追踪 | 标准化科学统考成绩与概念理解表现 | 接受完整探究课程的学生在全州标准化科学统考中的及格率与高分率显著超越学区对照组 | 跨多年、跨学校大规模队列效应稳健 | 强力反驳了探究教学无法提升宏观标准化测验成绩的质疑，证实结构化探究课程的规模化优势 |
+> | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, p. 30)]] | 方法学审计：《[[Visible Learning\|可见的学习]]》对探究式教学元分析[[Standard Error\|标准误]]的计算审查 | [[Meta-meta-analysis\|二级元分析]]算法审计 | 汇总[[Standard Error\|标准误]]计算准确性 | 报告的标准误 $0.092$ 系两项一阶元分析标准误 $0.154$ 与 $0.030$ 的未加权简单算术均值 $(0.154+0.030)/2$ | 比高精度子研究误差虚假放大 3 倍以上 | 揭露二级综合严重违反样本聚合提高精度的公理，证实粗放平均对探究教学统计精度的扭曲 |
 
 ---
 
@@ -287,3 +300,4 @@ updated: 2026-10-16
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - **[[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]** — 反驳 [[Argument_Zhang_2022_SE|Zhang et al. (2022)]] 的[[Direct Instruction\|直接教学]]优越论，整合受控实验、[[PISA]] 与课程级证据，确立指导式探究在深层理解上的优势及两者的协同模型。
 > - **[[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]]** — 针对 26 项实验与准实验[[Intervention Research\|干预研究]]开展[[Meta-analysis\|元分析]]，证实指导式探究（$d = 0.808$）是促进[[Epistemic Cognition\|认识论认知]]发展与提升[[Academic Achievement\|学业成就]]最有效的[[Framework for Teaching|教学框架]]，显著优于缺乏显性支架的问题驱动学习（$d = 0.340$）与开放辩论（$d = 0.134$）。
+> - **[[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]** — 德国学者对《[[Visible Learning|可见的学习]]》中探究式教学量化综合的计算审计，揭露通过对子研究[[Standard Error|标准误]]取简单算术平均得出伪标准误（$SE = 0.092$）的严重方法学缺陷（p. 30）。

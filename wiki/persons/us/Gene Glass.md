@@ -8,7 +8,7 @@ summary: "美国教育心理学家与统计学家 1976年创造元分析一词�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 32
+person_related_count: 36
 person_related_level: 4
 person_related_stars: "⭐⭐⭐⭐"
 person_related_color: "#fce7f3"
@@ -36,9 +36,11 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Governing by Numbers]]"
   - "[[Positivism]]"
+  - "[[Commensuration]]"
   - "[[Research Scope]]"
   - "[[Epistemic Value]]"
   - "[[Primary and Secondary Documents]]"
+  - "[[Incommensurability]]"
   - "[[Falsification]]"
 related_theories: []
 related_methods:
@@ -50,6 +52,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_persons:
   - "[[James Madison]]"
+  - "[[Jacob Cohen]]"
   - "[[John Hattie]]"
 related_facts:
   - "[[American Educational Research Association]]"
@@ -60,6 +63,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
   - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
+  - "[[Argument_Wecker_2016_ZfE]]"
 confidence: high
 status: active
 created: "2026-06-08"
@@ -99,10 +103,10 @@ updated: 2026-10-16
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **1976 — *Primary, Secondary, and [[Meta-analysis]] of Research*** 首次确立初级分析、二级分析与元分析的三分法架构，正式确立元分析的学科合法性与统计学规程。
+> - **1976 — *Primary, Secondary, and [[Meta-analysis]] of Research*** 首次确立初级分析、二级分析与元分析的三分法架构，正式确立元分析的学科合法性与统计学规程；提出标准化均值差指标 Glass's $\Delta$，确立以对照组标准差为除数的基线方差逻辑。
 > - **1977 — *[[Meta-analysis]] of Psychotherapy Outcome Studies***（与 Mary Lee Smith 合著） 首次在大规模临床实证中应用元分析，以 $d=0.60$ [[Effect Size|效应量]]证实心理治疗的积极效能。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 37)]]
 > - **1979 — *Meta-Analysis of Research on [[Class Size]] and Achievement***（与 Mary Lee Smith 合著） 经典班级规模元分析，在严密控制质量的[[Experimental Research|实验研究]]中证实班级规模从 40 人压减至 1 人时[[Academic Achievement|学业成绩]]提升超过 30 个百分位点。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 32)]]
-> - **1981 — *Meta-Analysis in Social Research***（与 McGaw 及 Smith 合著） 系统阐述社会科学元分析的统计学规范、效应量变换公式与[[Publication Bias|发表偏倚]]矫正方案。
+> - **1981 — *Meta-Analysis in Social Research***（与 McGaw 及 Smith 合著） 系统阐述社会科学元分析的统计学规范、效应量变换公式、对照组基线除数原理与[[Publication Bias|发表偏倚]]矫正方案。
 > - **2000 — *Meta-Analysis at 25*** 25 周年反思力作，强调探索[[Heterogeneity|异质性]]（[[Heterogeneity]]）与分布特征是元分析的灵魂，警示不可用均值抹杀图表。
 
 ---
@@ -111,6 +115,11 @@ updated: 2026-10-16
 
 > [!claim] 核心主张
 > [[Meta-analysis|元分析]]的[[Epistemology|认识论]]灵魂在于跨越不同测量工具与情境约束，将各独立研究的效果标准化为可比尺度（如 Glass's $\Delta$），进而在离散变异中揭示真实规律。元分析绝非将多元异[[Qualitative Research|质的研究]]粗暴压缩为一个孤立的平均数字，而是必须完整呈现效果分布的复杂图表。混杂不同的研究如同研究水果时混合苹果与橙子，唯有探索水果整体的多样性才配得上严肃科学探究；将元分析简化为单一数字排行榜的做法，彻底背离了统计综合的科学初衷。
+
+> [!math-def] 标准化[[Effect Size|效应量]]测度：Glass's $\Delta$ 的数理设定与除数逻辑
+> 格拉斯针对实验干预与对照设计的元分析提出标准化均值差度量 Glass's $\Delta$：
+> $$\Delta = \frac{\bar{x}_E - \bar{x}_C}{s_C}$$
+> 式中 $\bar{x}_E$ 与 $\bar{x}_C$ 分别为实验组与对照组的均值，$s_C$ 为对照组的标准差。格拉斯坚持**以对照组标准差 $s_C$ 作为唯一除数**，其统计学立论在于：实验干预极可能同时改变实验组内部的分散程度（例如差异化教学可能拉大高低能力者差距而扩大方差，或补救辅导可能压制离群值而缩小方差，即 $s_E \neq s_C$）。若采用两组合并标准差（$s_{\text{pooled}}$），效应量的分母将被干预效应所污染；唯有未受干预触碰的对照组标准差，才能提供反映总体变异的纯净基线度量。这一设定与[[Jacob Cohen|雅各布·科恩]]（Jacob Cohen）的 $d$（假定方差齐性采用 $s_{\text{pooled}}$）构成早期实证量化综合的两大经典基石。
 
 > [!citation-card] 混合苹果与橙子的科学辩护
 > 当然它混合了苹果和橙子；在研究水果时没有别的合理做法；比较苹果和橙子才是配得上真正科学家的事业；比较苹果和苹果是微不足道的。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 37)]]
@@ -153,8 +162,9 @@ updated: 2026-10-16
 > [!person-network] 关系网络
 > - **核心合作者** 玛丽·李·史密斯（Mary Lee Smith） — 共同开创心理治疗与[[Class Size|班级规模]]两大里程碑[[Meta-analysis|元分析]]，确立元分析的操作规程与图表规范。
 > - **思想渊源** 本杰明·布鲁姆（Benjamin Bloom） — 影响了其将标准差单位作为跨测验[[Effect Size|效应量]]统一维度的统计学思考。
+> - **指标对照者** [[Jacob Cohen|雅各布·科恩]]（Jacob Cohen） — 科恩提出以合并标准差为除数的 Cohen's $d$（假定方差齐性），与格拉斯以对照组标准差为除数的 Glass's $\Delta$（包容干预引起的方差[[Heterogeneity|异质性]]）并列为两大经典标准化效应量流派。两者在元分析中的无换算混同是后世方法学审查的重点。
 > - **争议性继承者** [[John Hattie|约翰·哈蒂]]（John Hattie） — 将元分析进一步聚合为[[Meta-meta-analysis|元-元分析]]，但在操作中走向了简单平均与单一效应量排行榜，被学界指责背离了格拉斯的初衷。
-> - **当代批判审视者** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]、[[Argument_Higgins_2016_ROE|Higgins (2016)]]、[[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 援引格拉斯原始曲线与警示名言，批判现代[[Evidence-Based Education|循证教育]]运动对元分析的教条化篡改。
+> - **当代批判审视者** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]、[[Argument_Higgins_2016_ROE|Higgins (2016)]]、[[Argument_Wrigley_2018_BERJ|Wrigley (2018)]]、[[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 援引格拉斯原始曲线与警示名言，批判现代[[Evidence-Based Education|循证教育]]运动对元分析的教条化篡改与跨指标混用缺陷。
 
 ---
 
@@ -167,6 +177,12 @@ updated: 2026-10-16
 >
 > > [!axis] 元分析成果遭政策工具化与断章取义截取争议
 > > 批判学者指出，格拉斯与史密斯（1979）原本清晰证实了[[Class Size|班级规模]]减少具有超过 30 个百分位点的巨大增益，但后世政策倡导者（如[[John Hattie|哈蒂]]）却宣称从中提取出 $d=0.09$ 的极低[[Effect Size|效应量]]。格拉斯的严谨实验曲线被剥离上下文，局部极平缓尾端被断章取义截取，充当了政府削减教育经费、推卸增编责任的实证借口。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 32–33)]]
+>
+> > [!axis] 标准化效应量除数选择与指标不可[[Commensuration|通约]]混同争议
+> > 争论元分析中能否无条件混用基于不同标准差计算的效应量指标。
+> >
+> > - **格拉斯的原始设定（Glass, 1976; Glass et al., 1981）** 坚持采用未受干预污染的对照组标准差 $s_C$ 作为除数，明确考虑到教育与心理干预可能同时改变实验组的均值和方差（$s_E \neq s_C$）。
+> > - **宏观元分析的通约性批评（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016, pp. 26–27]]）** 指出当代宏观证据整合者（如[[John Hattie|哈蒂]]）在未核验方差齐性假定且未做数学换算的情况下，将基于 Glass's $\Delta$ 的元分析（如 Nesbit & Adesope, 2006）与基于 Cohen's $d$ 或 Hedges' $g$ 的元分析（如 Horton et al., 1993）强行合并计算总平均。当实验组与对照组方差不齐时，不同除数选取的效应量数值差异悬殊，粗暴合并违反了度量衡通约性原则，导致宏观综合结论失真。
 
 ---
 
@@ -195,6 +211,7 @@ updated: 2026-10-16
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 引用格拉斯与史密斯（1979）关于[[Class Size|班级规模]]从 40 人缩至 1 人提升 30 个百分位的原始实验曲线，揭露《[[Visible Learning|可见的学习]]》将[[Primary and Secondary Documents|原始文献]]篡改为 $d=0.09$ 的断章取义行径（pp. 32–33）。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 引用格拉斯关于“元分析结果应是图表而非均值”的警告，批判[[Evidence-Based Education|证据本位教育]]对[[Heterogeneity|异质性]]研究的强制平均与情境剥离（p. 9）。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al. (2011, Ch. 17)]] — 教育研究方法经典教材，详尽解析格拉斯与史密斯 1979 年班级规模元分析的开创性设计及其方法学里程碑地位。
+> - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 系统审计《可见的学习》的计算与综合缺陷，揭示混用 Glass's $\Delta$ 与 Cohen's $d$ 所引发的除数混乱、方差不齐偏差及[[Incommensurability|不可通约性]]问题（pp. 26–27）。
 
 ---
 
@@ -210,7 +227,10 @@ updated: 2026-10-16
 > | [[Effect Size]] | 概念 | 指标规范 | 提出 Glass's $\Delta$，确立以标准差为单位跨测验比较干预强度的通用度量。 |
 > | [[Class Size]] | 概念 | 实证开拓 | 1979 年发表开拓性元分析，绘制出班额缩减与[[Academic Achievement\|学业成就]]的非线性实验曲线。 |
 > | [[Heterogeneity]] | 概念 | 理论警示 | 坚称元分析的宗旨在于通过图表呈现变异与异质性，而非追求单一均值。 |
+> | [[Jacob Cohen]] | 人物 | 测度对照 | 科恩主张以合并标准差为除数的 Cohen's $d$，与格拉斯的 Glass's $\Delta$ 构成量化综合的两大除数传统。 |
 > | [[John Hattie]] | 人物 | 演变对照 | 进一步将元分析推广至政策大众层面，但在操作中走向了格拉斯所反对的均值排行。 |
 > | [[Evidence-Based Education]] | 概念 | 间接奠基 | 其开创的量化证据综合逻辑构成了全球循证教育运动的底层方法学基础设施。 |
+> | [[Incommensurability]] | 概念 | 理论警示 | 跨指标混用（$\Delta$ 对比 $d$）与跨范畴合并破坏了效应量度量衡的通约性。 |
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 论证 | 批判来源 | 提供格拉斯 1979 年班级规模原始曲线证据，揭露当代畅销书断章取义的实[[Falsification\|证伪]]造。 |
 > | [[Argument_Higgins_2016_ROE\|Higgins (2016)]] | 论证 | 思想史源 | 提供格拉斯开创元分析的思想演进史料与关于水果和图表的关键学术引文。 |
+> | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 审查证据 | 提供德国学者对元-元分析混淆 Glass's $\Delta$ 与 Cohen's $d$ 除数规范的严密审计论据。 |

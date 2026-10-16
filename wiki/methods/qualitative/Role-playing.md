@@ -15,7 +15,7 @@ summary: "一种让参与者在具身虚构情境或人机协同中扮演特定�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 42
+method_related_count: 44
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -46,7 +46,11 @@ related_concepts:
   - "[[Heterogeneity]]"
   - "[[Authentic Assessment]]"
   - "[[Scaffolding]]"
+  - "[[Visible Learning]]"
+  - "[[Dependent Variable]]"
   - "[[Engineering Mindset]]"
+  - "[[Academic Achievement]]"
+  - "[[Variable]]"
   - "[[Meeting-Industrial Complex]]"
   - "[[Emergence]]"
   - "[[Pecking Order]]"
@@ -60,6 +64,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Confidence Interval]]"
   - "[[Effect Size]]"
+  - "[[Meta-meta-analysis]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -76,6 +81,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26]]"
   - "[[Argument_Wu_2025_ER]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11]]"
+  - "[[Argument_Wecker_2016_ZfE]]"
 confidence: high
 status: completed
 created: 2026-08-03
@@ -152,6 +158,7 @@ updated: 2026-10-16
 > | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与检验 | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 干预因素：角色扮演对[[Critical Thinking\|批判性思维]]技能的促进效应 | $k = 5$ / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.61$ $[0.24, 0.98]$ | $Q(4) = 10.76, p = .030, I^2 = 62.83\%$ | 真实性教学 4 大子策略中效应量最高（$g+=0.61$ vs 应用解题 $0.35$ vs 模拟 $0.26$ vs 两难 $0.11$） |
+> | Fisher (1992, cited in [[Argument_Wecker_2016_ZfE\|Wecker et al., 2016, p. 28]]) | 干预因素：社会戏剧性角色扮演（Socio-dramatic Play）对儿童社会认知与发展的促进效应 | 46 项研究 / — | 相关系数 $r$ 与标准分差 $d$ | 综合效应 $r = 0.347$（换算 $d = 0.74$） | — | 包含换位思考（视角转换）与冲动情绪抑制等社会发展指标；其中社会戏剧性角色扮演效应最高（$r = 0.60, d = 1.48$），远超纯想象游戏（$d = 0.28$） |
 
 > [!ref-table]- 代表性实证、准实验与组织实践案例
 > <span class="concept-empirical-studies-table-marker" aria-hidden="true"></span>
@@ -163,6 +170,7 @@ updated: 2026-10-16
 > | Robinson and Kelley (2007) | 职前教师培训准实验（录像回放复盘组 vs 无录像组） | 录像回放组反思质量显著增长，更倾向于深层批判性反思而非简单描述 | 确立录像复盘（Debriefing）与[[Self-spectator\|自观]]是提升反思深度的关键机制。 |
 > | [[Argument_Wu_2025_ER\|Wu et al. (2025, pp. 363–366)]] | 师范生统计推论人机交互实验（AI 角色支架组 vs 自由问答组） | 角色支架组学生成功识别出 ChatGPT 逻辑漏洞的比例提升 42%，评价主义立场达成率显著更高（$p < .01$） | 证实通过角色提示词约束 AI 行为能有效转化为激发学生批判核验的[[Scaffolding\|脚手架]]。 |
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11\|Karp & Zamiska (2025, Ch. 11, pp. 122–126)]] | 前沿技术企业（[[Palantir Technologies\|Palantir]]）工程文化与入职培训实践 | 将约翰斯通《即兴》作为工程师必读书目，践行本体地位与扮演地位解耦，建立自适应阴影层级与任务突击网络 | 证实即兴演剧与[[Status Transactions\|地位交易]]技术能有效破除企业科层僵化，释放自发创新活力。 |
+> | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, pp. 28, 30)]] | 方法学审计：《[[Visible Learning\|可见的学习]]》对游戏与角色扮演元分析的综合偏差剖析 | 揭示将 Fisher (1992) 角色扮演中视角转换与冲动抑制等社会发展指标错误计入一般认知“学业成就”（$d = 0.74$），掩盖了角色扮演（$d = 1.48$）与想象游戏（$d = 0.28$）的实质差距 | 证实宏观量化综合极易发生[[Dependent Variable\|因变量]]范围漂移与范畴错位，警示不可用粗放的单一认知成就标签掩盖角色扮演在社会情绪与换位思考领域的特异性效能。 |
 
 ---
 
@@ -177,7 +185,8 @@ updated: 2026-10-16
 > [!method-limits] 局限性与风险控制
 > - **表演形式化与刻板印象** 缺乏准备易流于表面表演，需提供详实的背景材料与严谨的角色提示约束；
 > - **情绪溢出与心理安全** 深度卷入可能引发情感应激，必须严格执行保护入戏（Protection into role）与脱离角色（De-roling）规程；
-> - **组织内部定位模糊代价** 弱化固定地位与显性层级会增加新人和外部伙伴的沟通导航成本，需通过透明的实战成果与阴影层级默契予以弥补。
+> - **组织内部定位模糊代价** 弱化固定地位与显性层级会增加新人和外部伙伴的沟通导航成本，需通过透明的实战成果与阴影层级默契予以弥补；
+> - **[[Dependent Variable|因变量]]范围漂移与测量错位** 角色扮演在换位思考（视角转换）与社会情绪抑制上具有突出成效，但当代宏观量化综合（如教育排行榜）极易将这些非认知社会发展指标不当并入“[[Academic Achievement|学业成就]]”粗放均值中（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016, p. 28]]），从而产生因[[Variable|变量]]概念漂移与效度失真。
 
 ---
 
@@ -201,6 +210,7 @@ updated: 2026-10-16
 > | [[Argument_Wu_2025_ER\|Wu et al. (2025)]] | 论证 | 实证检验大模型认知角色设定对促发[[Epistemology\|认识论]]扰动与评价主义立场的有效性。 |
 > | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 论证 | [[Meta-analysis\|元分析]]确立角色扮演在促进[[Critical Thinking\|批判性思维]]中的最高教学干预[[Effect Size\|效应量]]。 |
 > | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch11\|Karp & Zamiska (2025, Ch. 11)]] | 论证 | 论证前沿软件开发与初创企业如同即兴演剧，依托地位解耦与试错演进保持活力。 |
+> | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 方法审计 | 揭示宏观[[Meta-meta-analysis\|元-元分析]]中将角色扮演的社会发展指标（换位思考、冲动抑制）错划为认知[[Academic Achievement\|学业成就]]的[[Dependent Variable\|因变量]]漂移缺陷。 |
 
 ---
 
@@ -211,3 +221,4 @@ updated: 2026-10-16
 > - [[Argument_Wu_2025_ER|Wu et al. (2025)]] — 将角色扮演拓展至生成式 AI 交互提示工程，实证验证 AI 认知角色设定在促发[[Epistemology|认识论]]扰动与推动评价主义进阶中的支架效能。
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 综合 341 项实证研究，定量确立角色扮演作为[[Authentic Instruction|真实性教学]]策略中促成[[Critical Thinking|批判性思维]]的最强增益路径（$k=5, g+=0.61$）。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch26|Cohen, Manion & Morrison (2011, Ch. 26)]] — 系统阐述角色扮演作为研究与教学方法的理论渊源（心理剧）、八项设计原则、[[Self-spectator|自观]]机制与实证案例。
+> - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016, pp. 28, 30)]] — 严密审计[[Meta-meta-analysis|元-元分析]]中对游戏与角色扮演干预的二级综合，揭示[[Dependent Variable|因变量]]错位与忽视具体角色扮演亚型效能差距（$d=1.48$ 对比 $0.28$）的统计失真。

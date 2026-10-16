@@ -177,7 +177,7 @@ Total entries: **327**
 > - [[Average Variance Extracted]] — 在结构方程模型与验证性因子分析中评估潜变量对观测指标平均解释方差比例的统计指标，是判定收敛效度（AVE ≥ .50）与区分效度（Fornell-Larcker 准则）的核心心理测量学标准。
 > - [[Baseline Standardized Mean Difference]] — 用于量化实验与准实验研究干预前处理组与对照组初始能力差异的标准化统计指标，依据 WWC 与 Slavin 三级门槛确立 0.25 SD 证据准入与协变量校正基准
 > - [[Begg and Mazumdar Rank Correlation]] — 由 Colin Begg 与 Madhuchhanda Mazumdar（1994）提出的一种用于检验元分析中发表偏倚的非参数统计方法。通过计算调整后的标准化效应量与各研究方差估计值之间的等级相关系数，判断是否存在小样本研究系统性报告更高效应量的漏斗图不对称现象。
-> - [[Between-Study Variance]] — 随机效应元分析中衡量超出抽样误差之外的初级研究真实效应量离散程度的核心参数，用于调整加权权重并构建预测区间
+> - [[Between-Study Variance]] — 随机效应元分析中衡量超出抽样误差之外的初级研究真实效应量离散程度的核心参数 用于调整加权权重并构建预测区间
 > - [[Between-Subjects and Within-Subjects Designs]] — 实验设计的两种基本类型，between-subjects 每位受试者只经历一个处理条件，within-subjects 每位受试者经历多个或全部处理条件
 > - [[Binary Logistic Regression]] — 一种用于预测二分类因变量（如是否陪读、是否择校）的统计分析方法，通过 Logit 变换将因变量的发生概率（Odds）转换为线性模型，用以估计各预测变量的优势比（Odds Ratio, Exp(B)）并检验其统计显著性。
 > - [[Black Box RCTs]] — 一种不解释干预如何、为何以及在何种条件下有效的 RCT 设计取向，常被用于批评只报告平均效果而忽视机制、情境和专业判断的实验研究。

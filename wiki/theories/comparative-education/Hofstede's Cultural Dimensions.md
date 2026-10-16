@@ -8,7 +8,7 @@ aliases:
 summary: "国家文化维度理论，提出权力距离、个人主义/集体主义、不确定性规避等维度刻画文化心智软件；在教育中用于解释权威结构、教学法跨文化转译及生成式 AI 破除师生权力壁垒的中介机制。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 52
+theory_related_count: 51
 theory_related_level: 6
 theory_related_stars: "⭐⭐⭐⭐⭐⭐"
 theory_related_color: "#fef3c7"
