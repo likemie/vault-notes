@@ -7,7 +7,7 @@ aliases:
 summary: "教育实践者与行动者在面对外部学术研究证据、商业教育产品、政策改革倡议及隐性私有化渗透时，所秉持的主动探询研究质量、审验因果逻辑、穿透利益修辞并评估情境适切性的专业认知与制度审议立场；既是教师行使审慎专业判断的核心基石，也是公立学校与民间组织抵御技术理性盲从、影子国家异化与商业资本渗透的关键防线。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 41
+related_count: 45
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"

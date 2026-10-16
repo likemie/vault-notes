@@ -7,10 +7,10 @@ summary: "英国教育社会学家，伦敦大学学院教育学院政策社会�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 49
-person_related_level: 4
-person_related_stars: "💎⭐"
-person_related_color: "#fce7f3"
+person_related_count: 50
+person_related_level: 5
+person_related_stars: "💎⭐⭐"
+person_related_color: "#ffedd5"
 born: "1950"
 died: ""
 lifespan: "1950–至今"
@@ -43,6 +43,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[Ontology]]"
   - "[[Attrition]]"
+  - "[[Educational Management Organisation]]"
   - "[[Cultural Capital]]"
   - "[[Categorical Funding]]"
   - "[[Global Educational Discourse]]"
@@ -139,10 +140,11 @@ updated: 2026-10-16
 >
 > *“Performativity is a technology, a culture and a mode of regulation that employs judgements and comparisons and displays of ‘output’ as means of control, [[Attrition]] and change. The performances (of individual subjects or of organizations) serve as measures of productivity or output, or displays of ‘quality’... It involves the colonisation of the teacher’s soul – a profound ontological reshaping of what it means to be a teacher.”*
 
-> [!taxonomy] [[Endogenous and Exogenous Privatisation|内生与外生私有化]]（Privatisation in Education）
-> 私有化并不等于简单的倒闭或售卖，而是分为：
-> - **内生私有化** 公立学校在内部运作中模仿企业（引入内部竞争、绩效评估和指标考核）。
-> - **外生私有化** 引入外部私营资本和公司直接介入学校建设与教学服务的交付。这构成了公立教育公共性流失的合力。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 4)]]
+> [!taxonomy] [[Endogenous and Exogenous Privatisation|内生与外生私有化]]及其治理深化（Privatisation in and of Education）
+> 鲍尔与尤德尔指出，私有化并不等于简单的学校倒闭或资产售卖，而是分为：
+> - **内生私有化（Privatisation in Education）** 公立学校在内部运作中模仿企业（引入内部竞争、绩效评估和指标考核）。
+> - **外生私有化（Privatisation of Education）** 引入外部私营资本和公司直接介入学校建设与教学服务的交付。这构成了公立教育公共性流失的合力。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 4)]]
+> - **私有化的深层演进：政策制定权外包（Privatisation of Policy-Making）** 奥尼尔等人在吸收鲍尔框架的基础上进一步拓展指出，当私营 [[Educational Management Organisation|EMO]]、慈善信托与对冲基金跨界结盟时，外生私有化不仅停留在辅助服务交付，更直接跃迁为对国家核心法律条文与政策议程起草权的隐性掌控，并在双层法人外壳庇护下实现免税套利与民主问责阻断。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 4–6, 70–75)]]
 
 > [!claim] 教育市场化作为新自由主义国家的阶级策略（Market as a Class Strategy）
 > 鲍尔指出，在教育政策中以市场逻辑替代国家的公共供给与保障职能，实质上是新自由主义国家的一项阶级策略（Class Strategy）。国家通过推崇学校竞争、凭证制与自负盈亏，将公共投资撤退与办学失败的责任转嫁给底层工薪家庭；而拥有丰富经济与[[Cultural Capital|文化资本]]的优势中产阶级则能够精准利用[[School Choice|择校]]权利锁定优质教育资源，从而在市场外衣下完成阶级统治特权的排他性代际再生产。[[Argument_Olmos_Torres_2009_StateTheories|(Ball, 1993, cited in Olmos & Torres, 2009, pp. 79–80, 83)]]
@@ -172,7 +174,7 @@ updated: 2026-10-16
 > - **理论路径** 将福柯的政府[[Governmentality|治理术]]与[[Basil Bernstein|伯恩斯坦]]的符号[[Societies of Control|控制社会]]学引入政策分析，开辟了批判性教育政策社会学研究传统；其提出的[[Performativity|表演性]]与内生/外生私有化模型成为当代解构新自由主义教育改革的基础词汇。
 > - **方法路径** 推广[[Policy Network|政策网络]]拓扑学与社会网络地图绘制方法，为后继学者解构跨国教育商业化与[[Policy Entrepreneur|政策企业家]]的利益网络提供了有力工具。
 > - **政策批判路径** 为全球教师工会（如教育国际）抵制新自由主义私有化改革、反思以数据为主导的数字问责提供了坚实的理论武器；[[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]等学者直接继承其表演性批判，深入剖析 [[Visible Learning]] 与高影响力教学策略对一线教师的[[Disciplina and Doctrina|规训]]。
-> - **跨国扩展** 其关于市场化作为阶级策略与内生/外生私有化的[[Analytic Framework|分析框架]]被比较教育学者广泛运用于欧美、大洋洲及拉美等外围[[Conditioned State Theory|受限国家]]的教育重构分析；其关于私营部门介入公共教育的论断与政策文本/执行张力分析，直接启发了[[Jason Beech]]构建全球教育[[Champ|场域]]五位置[[Discourse|话语]]流通模型。
+> - **跨国扩展** 其关于市场化作为阶级策略与内生/外生私有化的[[Analytic Framework|分析框架]]被比较教育学者广泛运用于欧美、大洋洲及拉美等外围[[Conditioned State Theory|受限国家]]的教育重构分析；新西兰学者奥尼尔等（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）将鲍尔的政策网络与[[Endogenous and Exogenous Privatisation|内外生私有化]]理论运用于大洋洲福利国家重组实证，全面验证了资本以异层治理形式渗透政策制定中枢的分析有效性；其关于私营部门介入公共教育的论断与政策文本/执行张力分析，亦直接启发了[[Jason Beech]]构建全球教育[[Champ|场域]]五位置[[Discourse|话语]]流通模型。
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 运用鲍尔关于表演性（Performativity）的规训理论，深入解构 Visible Learning 及其商业认证体系如何将教师异化为流水线操作工与数据生产工具（pp. 28–30）。

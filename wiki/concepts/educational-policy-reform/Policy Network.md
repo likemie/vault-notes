@@ -12,9 +12,9 @@ aliases:
 summary: "由政府部门、中介组织、智库、高校与私有资本等多元行动者交织构成的网状治理结构。在批判政策社会学中揭示国家作为市场缔造者与私营中介协同重构再分配与理念编排的异层治理，在实证治理中测度政务网络规模与互动深度非线性解耦。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 73
-related_level: 7
-related_stars: "💎💎⭐"
+related_count: 82
+related_level: 8
+related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
 tags:
   - educational-policy-reform
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Assemblage]]"
   - "[[Venture Philanthropy]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Educational Management Organisation]]"
   - "[[Epistemology]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Gatekeepers]]"
@@ -58,10 +59,11 @@ related_concepts:
   - "[[Deductible Gift Recipient]]"
   - "[[Going Native]]"
   - "[[Research Universities]]"
+  - "[[Visible Learning]]"
   - "[[Theoretical Standpoint]]"
+  - "[[Analytical Stance]]"
   - "[[Professional Judgment]]"
   - "[[Epistemic Coloniality]]"
-  - "[[Analytical Stance]]"
   - "[[Research Impact]]"
 related_theories:
   - "[[Cognitive Load Theory]]"
@@ -78,10 +80,11 @@ related_methods:
 related_persons:
   - "[[Ian Menter]]"
   - "[[Walter J. M. Kickert]]"
+  - "[[John O'Neill]]"
+  - "[[John Hattie]]"
   - "[[Stephen Ball]]"
   - "[[Sir Kevan Collins]]"
   - "[[Michael Traill]]"
-  - "[[John Hattie]]"
 related_facts:
   - "[[Social Ventures Australia]]"
   - "[[Education Endowment Foundation]]"
@@ -90,21 +93,24 @@ related_facts:
   - "[[Teaching Schools]]"
   - "[[OECD]]"
   - "[[Australian Schools Plus]]"
+  - "[[Teach First New Zealand]]"
+  - "[[Cognition Education]]"
+  - "[[Visible Learning Branding and Global Influences]]"
+  - "[[Corwin Press]]"
   - "[[Strengthening the Impact of Education Research Project]]"
   - "[[Sutton Trust]]"
   - "[[Impetus]]"
   - "[[Evidence for Learning]]"
   - "[[EEF Teaching and Learning Toolkit]]"
-  - "[[Cognition Education]]"
 related_arguments:
   - "[[Argument_Skourdoumbis_2024_AER]]"
   - "[[Argument_Rowe_2022_IJER]]"
   - "[[Argument_Rowe_2023_ECNUROE]]"
+  - "[[Argument_ONeill_2016_Report]]"
   - "[[Argument_Hill_2022_FacilitatingActors]]"
   - "[[Argument_Kickert_1995_Governance]]"
   - "[[Argument_Helgetun_2022_JEdPolicy]]"
   - "[[Argument_Revai_2022_ChangingLandscape]]"
-  - "[[Argument_ONeill_2016_Report]]"
 confidence: high
 status: completed
 created: 2026-06-17
@@ -169,7 +175,7 @@ updated: 2026-10-16
 > - **国家作为异层催化者与市场缔造者（State as Heterarchical Catalyst and Market-Maker）** 现代国家在政策网络中并未空心化退场，而是主动运用法案修正案、公司法特许和定向财政注资，充当资助者、经纪人与市场缔造者，为非民选商业中介提供合法特权与通道（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 522–523]]）。
 > - **非对称权力与结构性分层（Asymmetric Network Stratification）** 政策网络呈现出极不对称的权力拓扑：顶层商业银行、咨询寡头与[[Venture Philanthropy\|风险慈善]]枢纽通过保密竞标与高层旋转门直接对话核心决策层；网络末端的弱势公立学校则被剥离主体地位，退化为被迫竞逐微额资助并接受商业绩效量规[[Disciplina and Doctrina\|规训]]的被动受助者（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 527–528]]）。
 > - **连锁董事治理同盟（Interlocking Directorates & Policy Coalitions）** 跨界精英通过同时出任非营利中介、商业公司、慈善基金会与咨询委员会董事形成密集连锁网络（如前教育部高官、对冲基金合伙人、跨国广告巨头高管与地方信托负责人共同进入理事会），绕过常规科层审批与公立大学认证壁垒，强推非传统政策方案（[[Argument_ONeill_2016_Report\|O'Neill et al., 2016, pp. 49–54]]）。
-> - **学术商标特许与跨国商业代理网络（Academic Franchise & Intermediary Marketing Networks）** 由权威学者、本土 EMO、跨国商业出版集团与科技分包商构成的跨界资本闭环，将公立科研成果包装为具有排他性法律壁垒的注册商标，并在数十国推行商业特许经营与咨询认证，实现跨国资本积累与个人版税分红（[[Argument_ONeill_2016_Report\|O'Neill et al., 2016, pp. 65–70]]）。
+> - **学术商标特许与跨国商业代理网络（Academic Franchise & Intermediary Marketing Networks）** 由权威学者、本土 [[Educational Management Organisation|EMO]]、跨国商业出版集团与科技分包商构成的跨界资本闭环，将公立科研成果包装为具有排他性法律壁垒的注册商标，并在数十国推行商业特许经营与咨询认证，实现跨国资本积累与个人版税分红（[[Argument_ONeill_2016_Report\|O'Neill et al., 2016, pp. 65–70]]）。
 > - **金融化[[Epistemology\|认识论]]粘合剂（Financialised Epistemic Bindings）** 政策网络以“买入”（buy in）、“[[Educational Brokerage Agency\|证据经纪人]]”（evidence broker）及“金钱是对话的通用货币”等金融从业话语作为共同认识论纽带，将商业投资逻辑植入公共教育（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3–4]]）。
 > - **政治把关与排他性授权（Political Gatekeeping & Selective Empowerment）** 中央教育行政部门作为网络[[Gatekeepers\|守门人]]，通过排他性授权设立官方代言机构（如[[Chartered College of Teaching\|特许教学学院]] CCT、[[Teaching Schools\|教学学校]]理事会 TSC）并定向委任审查专家，系统筛选证据准入与咨询声音（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, p. 93]]）。
 > - **非正式中介与口口相传网络（Informal Intermediaries & Word-of-Mouth Ties）** 面对官僚高频轮岗，决策者极度依赖社交媒体意见领袖、博客博主与口口相传的人际中介网络获取去语境化的研究结论，替代了正式的文献审查机制（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, pp. 94–96]]）。
@@ -288,9 +294,9 @@ updated: 2026-10-16
 > 探讨精英行动者如何跨越政、商、学、慈界限组建治理同盟，突破传统科层体制阻力推行争议性改革，并将学术中立知识转化为跨国商业特许帝国。
 
 > [!claim] O'Neill, J. et al.
-> **连锁董事同盟与跨国知识特许对代议制民主科层的绕道突破** 约翰·奥尼尔（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）指出，当代政策网络不仅依靠理念与资金流动，更依托精密的**连锁董事网络（Interlocking Directorates Network）** 与跨国特许经营架构实现政策突防：
-> 1. **跨界治理同盟突破科层壁垒** 在替代性教师培训项目“为新西兰而教”（Teach First NZ, TFNZ）中，前教育部高级官员、对冲基金合伙人、跨国广告巨头高管与地方慈善信托首席执行官共同组成紧密的董事会网络。该跨界同盟直接跳过传统公立大学师范学院与官方教师资格认证的繁琐规制流程，以内阁高层游说直接换取国家定向财政专款立项与法规豁免，完成了传统科层体制下不可逾越的政策突破（pp. 49–54）；
-> 2. **学术品牌与商业中介跨国特许闭环** 权威学者（如 [[John Hattie]]）将公立科研成果排他性授权予私营教育管理组织（如 [[Cognition Education]]），后者注册“[[Visible Learning Branding and Global Influences|Visible Learningplus]]”商标并联合跨国出版商与传媒科技企业（如 Corwin、Macmillan、Ai-Media），在全球 35 国构筑起涵盖咨询、培训、评估工具与认证授权的商业特许帝国。网络内部节点互相输送巨额商业利润与个人版税分红，彻底架空了公共教育的民主受托与审计防线（pp. 65–70）。
+> **连锁董事同盟与跨国知识特许对代议制民主科层的绕道突破** [[John O'Neill|约翰·奥尼尔]]（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）指出，当代政策网络不仅依靠理念与资金流动，更依托精密的**连锁董事网络（Interlocking Directorates Network）** 与跨国特许经营架构实现政策突防：
+> 1. **跨界治理同盟突破科层壁垒** 在替代性教师培训项目“为新西兰而教”（Teach First NZ, [[Teach First New Zealand|TFNZ]]）中，前教育部高级官员、对冲基金合伙人、跨国广告巨头高管与地方慈善信托首席执行官共同组成紧密的董事会网络。该跨界同盟直接跳过传统公立大学师范学院与官方教师资格认证的繁琐规制流程，以内阁高层游说直接换取国家定向财政专款立项与法规豁免，完成了传统科层体制下不可逾越的政策突破（pp. 49–54）；
+> 2. **学术品牌与商业中介跨国特许闭环** 权威学者（如 [[John Hattie]]）将公立科研成果排他性授权予私营[[Educational Management Organisation|教育管理组织]]（如 [[Cognition Education]]），后者注册“[[Visible Learning Branding and Global Influences|Visible Learningplus]]”商标并联合跨国出版商与传媒科技企业（如 [[Corwin Press|Corwin]]、Macmillan、Ai-Media），在全球 35 国构筑起涵盖咨询、培训、评估工具与认证授权的商业特许帝国。网络内部节点互相输送巨额商业利润与个人版税分红，彻底架空了公共教育的民主受托与审计防线（pp. 65–70）。
 
 ---
 
@@ -371,6 +377,13 @@ updated: 2026-10-16
 > | **第一阶段：教育部自上而下强推计划** | 教育部单向针对医学院与工程学院下达削减指令 | 传统韦伯科层命令、详尽事前指标与行政审批 | 遭到大学教授群体与院系联合抵制并引发议会诉讼，强行计划全面流产 |
 > | **第二阶段：大学政策网络自组织协调（TVC）** | 全国[[Research Universities\|研究型大学]]自组联合协商委员会 | 统包预算目标下的院校网络同行评议与自愿妥协 | 自主完成 2.57 亿荷盾预算削减与 6000 万荷盾内部储蓄，确证网络自组织调控潜能 |
 
+> [!ref-table]- 表六：新西兰教育政策网络中的连锁董事治理联盟与跨国学术商业特许网络（[[Argument_ONeill_2016_Report\|O'Neill et al., 2016, pp. 49–54, 65–70]]）
+> 
+> | 政策网络形态 | 核心机构与关键节点行动者 | 跨界穿梭与网络联结机制 | 政策突破与商业运作实态 |
+> |---|---|---|---|
+> | **替代性教师培训倡导网络（[[Teach First New Zealand\|TFNZ]] 治理联盟）** | 为新西兰而教（Teach First NZ, TFNZ）；教育部前高级官员 Fiona McTavish、对冲基金合伙人 Alistair Nicholson、萨奇广告 CEO David Glover、地方信托 CEO Bernadine Vester | 跨越政府官僚、金融对冲资本、商业公关营销与地方社区慈善的高管，密集交叉出任信托董事与咨询委员会理事 | 绕过公立大学教育学院的繁琐审批程序与传统教师资格认证阻力，直接通过高层游说获得内阁定向财政支持与法规破例特许（pp. 49–54） |
+> | **全球实证商标商业特许网络（[[Visible Learning]] 商业帝国）** | 奥克兰大学教授 [[John Hattie]]；新西兰最大 EMO [[Cognition Education\|认知教育集团]]；澳大利亚传媒科技公司 Ai-Media；跨国出版巨头 Corwin / Macmillan | 学者提供学术声誉与评估指标背书；[[Educational Management Organisation\|EMO]] 独家注册运营 “[[Visible Learning Branding and Global Influences\|Visible Learningplus]]” 商业商标；出版巨头垄断国际图书与数字化量规版权代理 | 在全球 35 个国家建立咨询、培训、评估工具与认证特许加盟网络；形成学者获取巨额个人版税（仅 Cognition 即支付 86.9 万新西兰元）与中介垄断国家采购的利益闭环（pp. 65–70） |
+
 ---
 
 ## 争议与批评
@@ -395,6 +408,12 @@ updated: 2026-10-16
 > >
 > > - **批判学者立场** 权力向非民选的智库与跨国商业慈善实体转移，直接破坏了代议制民主的透明度与问责底线（Ball, 2012; [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024]]）。
 > > - **新公共治理学者立场** 主张现代复杂社会需要网状治理，网络能够打破科层官僚的刚性条块分割，快速集成跨界智慧。
+>
+> > [!axis] 非民选政策网络主导公共议程 vs 地方代议制与公众知情权
+> > 探讨由跨界精英主导的政策网络在绕过公开立法与民主辩论时，对地方自治与公众审查权造成的侵蚀。
+> >
+> > - **民主受托[[Analytical Stance|批判立场]]** 奥尼尔等（[[Argument_ONeill_2016_Report\|O'Neill et al., 2016]]）指出，由前官僚、对冲基金合伙人与商业广告高管构成的网络同盟，将关键政策决策隐蔽于闭门理事会中，规避公开听证与地方校董会参与，造成严重的民主赤字。
+> > - **政策创业效能立场** 倡导者坚称传统公共部门受利益集团（如教师工会）阻挠严重，跨界网络能快速调动跨界资源、突破制度粘滞，实现激进的制度创新。
 >
 > > [!axis] 金融化从业[[Discourse|话语]]统摄 vs 公共教育民主价值消解
 > > 探讨政策网络广泛采纳金融投行从业术语对教育本质的重构。
@@ -425,3 +444,4 @@ updated: 2026-10-16
 > - [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] — 跨国实证测度 37 个教育系统部委政务网络，揭示网络规模与联结强度解耦、生产依附偏误及形式主义大网络陷阱。
 > - [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] — 将关系与网络确立为 [[OECD]] 强化教育[[Research Impact\|研究影响力]]五维[[Analytic Framework\|分析框架]]的核心支柱。
 > - [[Argument_Kickert_1995_Governance\|Kickert (1995)]] — 从欧陆公共行政与组织网络理论出发，系统解构韦伯科层命令假定在半自治专业人员构成的政策网络中的结构性失灵，论证向间接激励与理性对话转型的制度必要性。
+> - [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] — 解构新西兰替代性教师培训（[[Teach First New Zealand|TFNZ]]）跨界董事会网络及 [[Visible Learning]] 跨国特许代理网络，揭示政策网络如何绕过代议制科层实现政策突破与隐性商业化。
