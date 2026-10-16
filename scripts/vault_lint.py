@@ -2807,6 +2807,43 @@ def strip_existing_wikilinks(text: str) -> str:
     return text
 
 
+_CITATION_LINKER: Any = None
+_CITATION_LINKER_LOOKUP: Optional[Dict[str, Any]] = None
+_NEW_ARG_LINK_RE = re.compile(r"\[\[(Argument_[^\]|\\\n]+)\\?\|([^\]\n]+)\]\]")
+
+
+def citation_linker_suggestions(path: Path, text: str) -> List[Tuple[int, str]]:
+    """(line, display) for each citation link citation_linker.py would add."""
+    global _CITATION_LINKER, _CITATION_LINKER_LOOKUP
+    if _CITATION_LINKER is None:
+        scripts_dir = str(Path(__file__).resolve().parent)
+        if scripts_dir not in sys.path:
+            sys.path.insert(0, scripts_dir)
+        import citation_linker  # noqa: PLC0415
+        _CITATION_LINKER = citation_linker
+    cl = _CITATION_LINKER
+    if _CITATION_LINKER_LOOKUP is None:
+        _CITATION_LINKER_LOOKUP = cl.load_lookup() if cl.CITATION_FULL_JSON.exists() else {}
+    if not _CITATION_LINKER_LOOKUP:
+        return []
+    stats = {"linked_parenthetical": 0, "linked_narrative": 0, "fixed_display": 0}
+    linked = cl.link_text(text, _CITATION_LINKER_LOOKUP, stats, [], path)
+    if linked == text:
+        return []
+    out: List[Tuple[int, str]] = []
+    for idx, (old, new) in enumerate(zip(text.split("\n"), linked.split("\n")), start=1):
+        if old == new:
+            continue
+        before = [m.group(2) for m in _NEW_ARG_LINK_RE.finditer(old)]
+        for m in _NEW_ARG_LINK_RE.finditer(new):
+            display = m.group(2)
+            if display in before:
+                before.remove(display)
+            else:
+                out.append((idx, display))
+    return out
+
+
 def check_citation_links(path: Path, text: str, data: Optional[Dict[str, Any]], argument_citations: Dict[str, Dict[str, Any]], issues: List[Issue]) -> None:
     if TEMPLATES_DIR in path.parents or is_schema_or_workflow_doc(path):
         return
@@ -2849,21 +2886,11 @@ def check_citation_links(path: Path, text: str, data: Optional[Dict[str, Any]], 
             continue
         if has_invalid_english_author_conjunction(txt):
             issues.append(Issue("WARN", rel(path), f"English two-author citation conjunction does not match narrative/parenthetical style: {txt!r} -> {fix_english_author_and(txt)!r}", line=line_of_pos(body_no_sources, m.start(), body_start_line), code="CITATION_ENGLISH_AND"))
-        self_targets = {path.stem} if is_argument_entry(data) else set()
-        if is_argument_entry(data) and data:
-            if data.get("title"):
-                self_targets.add(str(data["title"]).strip())
-            if data.get("argument_key"):
-                self_targets.add(str(data["argument_key"]).strip())
-            if data.get("part_of"):
-                self_targets.add(extract_wikilink_target(str(data["part_of"])))
-        has_matching_argument = any(
-            citation_display_matches_aliases(txt, item.get("aliases", []))
-            for target_name, item in argument_citations.items()
-            if target_name not in self_targets
-        )
-        if has_matching_argument:
-            issues.append(Issue("WARN", rel(path), f"APA short citation is not linked to an Argument: {txt}", line=line_of_pos(body_no_sources, m.start(), body_start_line), code="CITATION_UNLINKED"))
+
+    # Unlinked citations: ask citation_linker what it would link, so lint and
+    # the auto-linker (run by vault_index) can never disagree.
+    for line_no, display in citation_linker_suggestions(path, text):
+        issues.append(Issue("WARN", rel(path), f"APA short citation is not linked to an Argument (run scripts/vault_index.py to auto-link): {display}", line=line_no, code="CITATION_UNLINKED"))
 
 
 def lint_file(path: Path, by_title: Dict[str, Dict[str, Any]], path_to_title: Dict[str, str], argument_citations: Dict[str, Dict[str, Any]], issues: List[Issue]) -> None:

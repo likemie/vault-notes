@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-02
-updated: 2026-09-24
+updated: 2026-10-16
 ---
 ## 简介
 
@@ -64,7 +64,7 @@ updated: 2026-09-24
 ## 主要贡献
 
 > [!success] 主要贡献
-> - **批判性教育政策视角** — 被 Møller（2017, p.381）列为与 Shields 的[[Transformative Leadership\|变革型领导力]]并列的关键分析透镜
+> - **批判性教育政策视角** — 被 [[Argument_Møller_2017_EERJ|Møller (2017, p.381)]]列为与 Shields 的[[Transformative Leadership\|变革型领导力]]并列的关键分析透镜
 > - **教育领导力的智识史** — *An Intellectual History of [[School Leadership]] Practice and Research*（2016）追溯该领域的知识形成过程
 > - **知识政治与反智识文化批判** — Gunter（2012, 2013）揭示教育领导力领域的[[Knowledge Production\|知识生产]]如何被管理主义塑造，智识工作如何被系统性地边缘化([[Argument_Eacott_2015_EPT\|Eacott, 2015, p.323]])
 > - **LE@DS 研究网络** — 研究民主学校领导力在 [[New Public Management\|NPM]] 环境下的命运
@@ -86,5 +86,5 @@ updated: 2026-09-24
 
 > [!note-] 思想发展与影响
 > - 与 [[Jorunn Møller]] 同属 LE@DS and CLEG 研究网络
-> - 被 Møller（2017）用作支持超越"什么有效"议程的核心理论资源
+> - 被 [[Argument_Møller_2017_EERJ|Møller (2017)]]用作支持超越"什么有效"议程的核心理论资源
 > - 与 [[Carolyn Shields]] 的[[Transformative Leadership\|变革型领导力]]框架互补，共同构成 Møller 提议的批判性领导力研究取向

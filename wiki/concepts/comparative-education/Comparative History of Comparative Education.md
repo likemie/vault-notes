@@ -209,7 +209,7 @@ updated: 2026-10-16
 > > 围绕学科史是否应当保留清晰的奠基人神话与线性成长叙事，学界存在建制功能主义与批判诠释学的深刻分歧。
 > >
 > > - **Harold Noah and Max Eckstein（1969）** 认为规范、清晰的起源历史是新兴[[Comparative Education as a Cross-Sectional Area|交叉学科]]确立自身专业边界、赢得大学系所教席与同行认可的制度化护照，有助于维系学科共同体的专业认同。
-> > - **Robert Cowen（2009a）** 指出学科早已跨越需要脆弱神话维持合法性的阶段，非反思的起源崇拜构成了[[Epistemology\|认识论]]障碍，必须通过多元批判的比较史解构[[Academic Iconography\|学科肖像学]]并直面历史复杂性。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 7–9)]]
+> > - **Robert [[Argument_Cowen_2009_HistoryCreation|Cowen (2009a)]]** 指出学科早已跨越需要脆弱神话维持合法性的阶段，非反思的起源崇拜构成了[[Epistemology\|认识论]]障碍，必须通过多元批判的比较史解构[[Academic Iconography\|学科肖像学]]并直面历史复杂性。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 7–9)]]
 >
 > > [!axis] 档案[[Positivism\|实证主义]] vs 诠释学当下与未来[[Determinism\|决定论]]
 > > 围绕学科史事实的客观确定性与历史重写的正当性，实证史学与历史诠释学存在立场分歧。

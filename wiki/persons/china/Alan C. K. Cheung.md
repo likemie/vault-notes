@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-02'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Alan C. K. Cheung
@@ -197,4 +197,4 @@ updated: 2026-10-15
 > | [[Third Generation Activity Theory]] | 理论 | 将第三代活动理论扩展应用于移动计算机支持协作学习（AT-MCSCL 框架）。 |
 > | [[Baseline Standardized Mean Difference]] | 方法 | 严格践行并确立为 AI 元分析准入的基线等效控制门槛（$d < 0.25$）。 |
 > | [[Best Evidence in Brief]] | 事实 | 领导建设面向海外华人的中文[[Evidence-Based Education\|循证教育]]传播网络。 |
-> | [[Argument_Chen_Cheung_2025_ERR|Chen and Cheung (2025)]] | 论证 | 主导完成的高等教育生成式 AI [[Experimental Research\|实验研究]]元分析旗舰论文。 |
+> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 论证 | 主导完成的高等教育生成式 AI [[Experimental Research\|实验研究]]元分析旗舰论文。 |

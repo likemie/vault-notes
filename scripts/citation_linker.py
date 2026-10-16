@@ -203,7 +203,9 @@ def mask_protected(text: str) -> tuple[str, list[str]]:
     protected: list[str] = []
 
     def repl(m: re.Match[str]) -> str:
-        protected.append(m.group(0))
+        # Resolve earlier placeholders first: inline code may contain a
+        # wikilink that was already masked, and unmask() is single-pass.
+        protected.append(unmask(m.group(0), protected))
         return f"\uE000{len(protected) - 1}\uE001"
 
     for rx in [CODE_FENCE_RE, HTML_COMMENT_RE, OBSIDIAN_COMMENT_RE, WIKILINK_RE, INLINE_CODE_RE]:
@@ -320,19 +322,57 @@ def link_wikilink_parenthetical(text: str, lookup: dict[str, dict[str, Any]], st
     return text
 
 
+def _is_cjk(ch: str) -> bool:
+    return "\u3400" <= ch <= "\u9fff"
+
+
+def author_start_candidates(raw: str) -> list[int]:
+    """Offsets where an author name could start inside a greedy AUTHOR_PATTERN match.
+
+    AUTHOR_PATTERN allows CJK characters and spaces so that Chinese authors and
+    multi-word names match, but in running Chinese prose that lets the match
+    swallow the preceding sentence ("对称对比条目，共同构成 Li"). Trying the
+    suffixes that start at a word/script boundary recovers the real author.
+    """
+    starts = [0]
+    for i in range(1, len(raw)):
+        prev, ch = raw[i - 1], raw[i]
+        if prev.isspace() and not ch.isspace():
+            starts.append(i)
+        elif _is_cjk(ch) and not prev.isspace():
+            starts.append(i)
+        elif ch.isupper() and _is_cjk(prev):
+            starts.append(i)
+    # A suffix right after a conjunction is a co-author, not the first author:
+    # "Yamamoto and Li (2012)" must never be linked as "Li (2012)".
+    return [i for i in starts if i == 0 or not CONJUNCTION_TAIL_RE.search(raw[:i])]
+
+
+# Conjunction, optionally followed by given names: "Bolton 与 John Hattie".
+# Only when a name precedes the conjunction inside the match; "Li (2012) 与 Li (2012)"
+# starts its second match at "与", so nothing precedes it there.
+CONJUNCTION_TAIL_RE = re.compile(r"[^\s&、,，]\s*(?:\band|&|与|和|及|、|[,，])\s*(?:[A-Z][\w'’.-]*\s+)*$")
+
+
 def link_narrative(text: str, lookup: dict[str, dict[str, Any]], stats: dict[str, int], missing: list[str]) -> str:
     def repl(m: re.Match[str]) -> str:
-        display_author = normalize_display_author(m.group("author"), narrative=True)
-        author = normalize_author(display_author)
+        raw_author = m.group("author")
         year = m.group("year").strip()
         locator = normalize_locator(m.group("locator") or "")
-        key = f"{author} ({year})"
-        entry = lookup.get(key)
-        if not entry:
-            missing.append(key)
-            return m.group(0)
-        stats["linked_narrative"] += 1
-        return link_target(entry, f"{display_author} ({year}{locator})")
+        first_key = None
+        for start in author_start_candidates(raw_author):
+            candidate = raw_author[start:]
+            if not (candidate[:1].isupper() or _is_cjk(candidate[:1])):
+                continue
+            display_author = normalize_display_author(candidate, narrative=True)
+            key = f"{normalize_author(display_author)} ({year})"
+            first_key = first_key or key
+            entry = lookup.get(key)
+            if entry:
+                stats["linked_narrative"] += 1
+                return raw_author[:start] + link_target(entry, f"{display_author} ({year}{locator})")
+        missing.append(first_key or f"{raw_author} ({year})")
+        return m.group(0)
     return NARRATIVE_RE.sub(repl, text)
 
 
@@ -416,14 +456,56 @@ def fix_display_suffixes(text: str, targets: dict[str, list[str]], stats: dict[s
     return fm + DISPLAY_WIKILINK_RE.sub(repl, body)
 
 
-def link_text(text: str, lookup: dict[str, dict[str, Any]], stats: dict[str, int], missing: list[str]) -> str:
+SOURCES_HEADING_RE = re.compile(r"^##\s+(?:来源|Sources?)\s*$", re.M)
+HEADING_LINE_RE = re.compile(r"^#{1,6}\s.*$", re.M)
+PART_OF_RE = re.compile(r"^part_of:\s*[\"']?\[\[([^\]|#]+)", re.M)
+
+
+def self_targets_for(path: Path | None, fm: str) -> set[str]:
+    if path is None:
+        return set()
+    targets = {path.stem}
+    m = PART_OF_RE.search(fm)
+    if m:
+        targets.add(m.group(1).strip())
+    return targets
+
+
+def link_text(text: str, lookup: dict[str, dict[str, Any]], stats: dict[str, int], missing: list[str], path: Path | None = None) -> str:
     fm, body = split_frontmatter(text)
+    # Reference lists under "## 来源/Sources" are bibliography, not prose.
+    m = SOURCES_HEADING_RE.search(body)
+    body, sources_tail = (body[:m.start()], body[m.start():]) if m else (body, "")
+    selfs = self_targets_for(path, fm)
+    if selfs:
+        lookup = {k: v for k, v in lookup.items() if v.get("argument") not in selfs}
     body = link_wikilink_parenthetical(body, lookup, stats, missing)
     body = link_wikilink_narrative(body, lookup, stats, missing)
     masked, protected = mask_protected(body)
+    # Headings stay plain: a link in a heading changes its anchor.
+    def protect_heading(h: re.Match[str]) -> str:
+        protected.append(unmask(h.group(0), protected))
+        return f"\uE000{len(protected) - 1}\uE001"
+
+    masked = HEADING_LINE_RE.sub(protect_heading, masked)
     masked = link_parenthetical(masked, lookup, stats, missing)
     masked = link_narrative(masked, lookup, stats, missing)
-    return fm + unmask(masked, protected)
+    return fm + escape_table_pipes(unmask(masked, protected)) + sources_tail
+
+
+TABLE_LINE_RE = re.compile(r"^\s*(?:>\s*)*\|")
+UNESCAPED_ARG_LINK_RE = re.compile(r"\[\[(Argument_[^\]|\\\n]+)\|")
+
+
+def escape_table_pipes(body: str) -> str:
+    """Inside Markdown table rows, a wikilink alias pipe must be written as \\|."""
+    if "|" not in body:
+        return body
+    lines = body.split("\n")
+    for i, line in enumerate(lines):
+        if TABLE_LINE_RE.match(line) and "[[Argument_" in line:
+            lines[i] = UNESCAPED_ARG_LINK_RE.sub(lambda m: f"[[{m.group(1)}\\|", line)
+    return "\n".join(lines)
 
 
 def main() -> int:
@@ -448,7 +530,7 @@ def main() -> int:
             continue
         text = path.read_text(encoding="utf-8", errors="replace")
         before = dict(stats)
-        new_text = link_text(text, lookup, stats, missing)
+        new_text = link_text(text, lookup, stats, missing, path)
         if args.fix_display:
             new_text = fix_display_suffixes(new_text, targets, stats)
         if new_text != text:

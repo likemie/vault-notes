@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Epistemic Malformation
@@ -144,7 +144,7 @@ updated: 2026-10-15
 
 > [!dev-timeline] 认知畸变概念的发展脉络
 > - **2021 年 — 教育哲学中病理机制的确立** A. C. Nikolaidis (2021) 首次将“认知畸变（Malformation）”确立为教育[[Epistemic Injustice|认识不正义]]的核心机制，明确指出成长性不正义的本质就是对求知者造成认知畸变，突破了以往仅关注成人间静态偏见传递的局限。
-> - **2026 年 — 数智时代技术致残与双向畸变[[Operationalization|操作化]]** Spencer J. Smith (2026) 将该概念精准植入生成式 AI 与[[Computerization of Education|教育计算机化]]语境，通过私厨代劳隐喻，详细阐明了知识传递阻断、技能实践剥夺与[[Reliability|信度]]认知失真如何共同引发自加赤字与虚假通胀的双向畸变，并推导出了以“[[Alien Intelligence|异己智能]]”和“思维步骤外显”为支柱的教学防御规程。[[Argument_Smith_2026_SPE|Smith (2026, pp. 4–11)]]
+> - **2026 年 — 数智时代技术致残与双向畸变[[Operationalization|操作化]]** Spencer J. [[Argument_Smith_2026_SPE|Smith (2026)]] 将该概念精准植入生成式 AI 与[[Computerization of Education|教育计算机化]]语境，通过私厨代劳隐喻，详细阐明了知识传递阻断、技能实践剥夺与[[Reliability|信度]]认知失真如何共同引发自加赤字与虚假通胀的双向畸变，并推导出了以“[[Alien Intelligence|异己智能]]”和“思维步骤外显”为支柱的教学防御规程。[[Argument_Smith_2026_SPE|Smith (2026, pp. 4–11)]]
 
 ---
 

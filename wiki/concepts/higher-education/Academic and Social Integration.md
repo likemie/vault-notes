@@ -40,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Academic and Social Integration
@@ -64,7 +64,7 @@ Tinto 的核心关切是大[[Academic Attrition|学生辍学]]问题：为何许
 ## 概念辨析
 
 > [!example]
-> - vs [[Student Engagement]]（Kuh, 1991）— 两者都认为学生的主动参与是取得积极教育成果的关键，但侧重不同：Tinto 更侧重从原有社会关系过渡到大学新群体的**心理融入过程**（分离-转折-习得），Kuh 更强调**可测量的行为投入**和学校的结构性支持（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]）。在郑雅君（2023）的"投入过程"框架中，Tinto 提供了投入的**心理机制**，Kuh 提供了投入的**行为[[Operationalization\|操作化]]**
+> - vs [[Student Engagement]]（Kuh, 1991）— 两者都认为学生的主动参与是取得积极教育成果的关键，但侧重不同：Tinto 更侧重从原有社会关系过渡到大学新群体的**心理融入过程**（分离-转折-习得），Kuh 更强调**可测量的行为投入**和学校的结构性支持（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]）。在[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]的"投入过程"框架中，Tinto 提供了投入的**心理机制**，Kuh 提供了投入的**行为[[Operationalization\|操作化]]**
 > - vs [[Student Involvement]]（Astin, 1984）— Astin 关注的是学生在学习过程中投入的"生理和心理能量"，聚焦个体层面的能量分配；Tinto 关注的是学生**关系的转换**——从旧关系到新群体的过渡仪式
 > - **学业融入 vs 社交融入** 融入大学的过程体现在两个互相促进的独立维度——学业融入（学生顺利与学校学术方面的正式规范达成一致）和社交融入（学生发现大学社交环境与自己的偏好或期待相协调的程度）（，引 Tinto, 1993; Braxton, Shaw Sullivan & Johnson, 1997）
 

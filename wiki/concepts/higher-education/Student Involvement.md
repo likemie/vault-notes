@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Student Involvement
@@ -60,7 +60,7 @@ updated: 2026-10-15
 
 > [!example]
 > - vs [[Student Engagement]]（Kuh, 1991）— 两者"异曲同工"，核心假设一致，但侧重不同：Astin 强调涉入是生理和心理能量的全面投入，关注涉入的**质量和连续性**——涉入既是过程描述也是结果预测[[Variable\|变量]]；Kuh 更侧重**可观察的行为性投入**和**学校的制度性支持**——不仅关注学生做了什么，也关注学校如何通过课程设计、课外活动和服务体系来推动学生投入（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]，引 Astin, 1984, 1993; Kuh, 1991）
-> - 在郑雅君（2023）的"投入过程"框架中，Astin 提供了投入的**能量维度**（学生将多少精力投入何处），Kuh 提供了投入的**行为[[Operationalization\|操作化]]**（在教育性活动中的时间和精力分配），二者并列使用
+> - 在[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]的"投入过程"框架中，Astin 提供了投入的**能量维度**（学生将多少精力投入何处），Kuh 提供了投入的**行为[[Operationalization\|操作化]]**（在教育性活动中的时间和精力分配），二者并列使用
 
 ---
 
@@ -97,7 +97,7 @@ updated: 2026-10-15
 
 > [!success]
 > - 大量实证研究验证了涉入-成果的正向关联：学生涉入程度越高，学习成果、满意度和毕业率越高（[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君，2023]]，引 Pascarella & Terenzini, 2005）
-> - 在郑雅君（2023）的[[Operationalization\|操作化]]中，Astin 关于涉入兼具量与质特征的公理指导了对 [[Academic Engagement\|学业投入]] 和 [[Social Engagement\|社会性投入]] 的多指标[[Triangulation\|三角互证]]设计——[[Questionnaire\|问卷]]提供投入"量"的指标，访谈通过叙述的连贯性和方向性判断投入的"质"
+> - 在[[Argument_Zheng_2023_ShanghaiSanlian|郑雅君 (2023)]]的[[Operationalization\|操作化]]中，Astin 关于涉入兼具量与质特征的公理指导了对 [[Academic Engagement\|学业投入]] 和 [[Social Engagement\|社会性投入]] 的多指标[[Triangulation\|三角互证]]设计——[[Questionnaire\|问卷]]提供投入"量"的指标，访谈通过叙述的连贯性和方向性判断投入的"质"
 
 ---
 

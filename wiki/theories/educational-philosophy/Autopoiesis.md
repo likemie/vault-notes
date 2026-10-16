@@ -173,7 +173,7 @@ updated: 2026-10-16
 > > [!axis] 自我指涉的封闭性 vs 关系性的共同制造
 > > 争论自创生概念是否过度强调自我参照，而忽视了共生与外部性响应。
 > > - **Donna Haraway (2016)** 提出 [[Sympoiesis]] 概念，批判自创生理论的“自我指涉中心性”，强调系统是由“与他者共同制造”以及响应彼此需求（[[Response-ability]]）的连接网络构成。(Haraway, 2016, 引自 [[Argument_Amos_2022_Springer\|Amos, 2022, p. 62]])
-> > - **S. Karin Amos (2022)** 指出两者事实上均强调去中心化与系统演化，其共同立场要远多于名义上的分歧。([[Argument_Amos_2022_Springer\|Amos, 2022, p. 63]])
+> > - **S. Karin [[Argument_Amos_2022_Springer|Amos (2022)]]** 指出两者事实上均强调去中心化与系统演化，其共同立场要远多于名义上的分歧。([[Argument_Amos_2022_Springer\|Amos, 2022, p. 63]])
 >
 > > [!axis] Isomorphism vs Indigenisation
 > > 争论世界社会到底是向西方的同质化模型强制性收敛，还是通过本国的自参照独立运作发生无尽的折射与印记保留 (引自 [[Argument_Klerides_2023_CE\|Klerides, 2023, p. 425]])。

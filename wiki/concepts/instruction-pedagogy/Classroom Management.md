@@ -27,7 +27,10 @@ related_concepts:
   - "[[Time on Task]]"
   - "[[Academic Achievement]]"
   - "[[Scaffolding]]"
+  - "[[Variable]]"
+  - "[[International Education]]"
   - "[[Visible Learning]]"
+  - "[[Metascience]]"
   - "[[Discourse]]"
   - "[[Disciplina and Doctrina]]"
   - "[[Class Size]]"
@@ -41,6 +44,7 @@ related_theories: []
 related_methods:
   - "[[Classroom Observation]]"
   - "[[Fieldwork]]"
+  - "[[Intraclass Correlation Coefficient]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Correlational Research]]"
   - "[[Comparative Meta-synthesis]]"
@@ -166,10 +170,10 @@ updated: 2026-10-16
 ### 命题四　课堂管理构成了学校可自主干预且具备极高现实相关度的核心教学实践杠杆
 
 > [!concept-lens] 实践可干预性与专家德尔菲效度判定
-> 探讨在宏观证据库被外围不可控变量（如生理特征、早期养育）严重充斥的背景下，为何课堂管理始终被国际教育专家确立为一线学校改进的核心基石。
+> 探讨在宏观证据库被外围不可控[[Variable|变量]]（如生理特征、早期养育）严重充斥的背景下，为何课堂管理始终被[[International Education|国际教育]]专家确立为一线学校改进的核心基石。
 
 > [!claim] [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]]
-> **专家德尔菲评审确立课堂管理为最高相关度教学杠杆之一** 卡尔门达尔等（Kalmendal et al., 2025）召集 5 位国际资深量化与教学论学者（ICC = 0.60）对《[[Visible Learning|可见的学习]]》全库 322 项影响因素的现实相关度进行 1–5 分独立评估。结果显示：课堂管理（Classroom Management）与[[Feedback|教学反馈]]并列荣登核心教学实践最高评级之列（$M = 4.75, SD = 0.50$），远超大量不可控的外围生理变量（如母乳喂养 $M=1.00$、低出生体重 $M=1.25$）以及神经神话（如学习风格匹配 $M=1.25$）。这一元科学评审表明：学校改进不能迷信涵盖海量外围因素的“大一统全要素排行榜”，而应坚定将专业发展与循证资源聚焦于教师在课堂现场完全可以主动作为、可直接观测并持续精进的组织管理基石之上。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 19–20, 22)]]
+> **专家德尔菲评审确立课堂管理为最高相关度教学杠杆之一** 卡尔门达尔等（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）召集 5 位国际资深量化与教学论学者（[[Intraclass Correlation Coefficient|ICC]] = 0.60）对《[[Visible Learning|可见的学习]]》全库 322 项影响因素的现实相关度进行 1–5 分独立评估。结果显示：课堂管理（Classroom Management）与[[Feedback|教学反馈]]并列荣登核心教学实践最高评级之列（$M = 4.75, SD = 0.50$），远超大量不可控的外围生理变量（如母乳喂养 $M=1.00$、低出生体重 $M=1.25$）以及神经神话（如学习风格匹配 $M=1.25$）。这一[[Metascience|元科学]]评审表明：学校改进不能迷信涵盖海量外围因素的“大一统全要素排行榜”，而应坚定将专业发展与循证资源聚焦于教师在课堂现场完全可以主动作为、可直接观测并持续精进的组织管理基石之上。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 19–20, 22)]]
 
 ---
 

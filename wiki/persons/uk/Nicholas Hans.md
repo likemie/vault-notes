@@ -269,7 +269,7 @@ updated: 2026-10-16
 > > 1960 年代兴起的行为主义量化学派对汉斯的因素框架展开了猛烈批评。
 > >
 > > - **Noah and Eckstein（1969）** 批评汉斯将因素预设为不证自明的决定力量，框架本身无法在不同因素之间进行相对重要性的权重权衡，也无法提供检验某个特定因素究竟应被纳入还是排除的客观经验判据。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, p. 53)]]
-> > - **Andreas Kazamias（2009b）** 指出汉斯的框架虽然极大地赋予了海量史料以组织条理，但其背后对[[National Character|国民性]][[Construct|构念]]的残留依赖，依然受到本质主义与同义反复解释的潜在挑战。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, p. 55)]]
+> > - **Andreas [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]]** 指出汉斯的框架虽然极大地赋予了海量史料以组织条理，但其背后对[[National Character|国民性]][[Construct|构念]]的残留依赖，依然受到本质主义与同义反复解释的潜在挑战。[[Argument_Kazamias_2009_ForgottenThemes|(Kazamias, 2009b, p. 55)]]
 
 > [!critique]- 批评索引
 > - [[Argument_Kazamias_2009_ForgottenThemes|Kazamias (2009b)]] — 卡扎米亚斯系统评析汉斯因素分析法的史学组织力，同时揭示其本质主义国民性格依赖与实证派论敌的批判焦点。

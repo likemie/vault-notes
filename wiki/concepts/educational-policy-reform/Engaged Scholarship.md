@@ -157,7 +157,7 @@ updated: 2026-10-16
 > - **2006 — 理论奠基与三大框架确立** Andrew H. Van de Ven 与 Paul E. Johnson 发表论文，系统区分理论—实践脱节的转移问题、形态异质问题与生产方式问题，正式奠定“参与式学术”的概念基石。
 > - **2007 — 专著体系化与[[National Competitive Advantage|钻石模型]]问世** Van de Ven 出版专著 *Engaged Scholarship: A Guide for Organizational and Social Research*（牛津大学出版社），系统构建由[[Problem Finding\|问题界定]]、理论建构、研究设计与解决问题组成的四大钻石循环模型。
 > - **2010s — 拓展至基础教育与社会治理全域** 参与式学术思想被广泛引入教育科学领域，成为理解英国[[Teaching and Learning Research Programme\|教与学研究计划]]（TLRP）、加拿大[[Knowledge Mobilisation\|知识动员]]网络以及美国[[Research-Practice Partnership\|研究-实践伙伴关系]]（RPP）的统领性[[Epistemology\|认识论]]。
-> - **2022 — 复杂系统研究生态视角的整合** [[OECD]] [[Centre for Educational Research and Innovation\|教育研究与创新中心]]（CERI）在 Révai (2022) 中将参与式学术置于[[International Education\|国际教育]][[Research Utilization\|研究利用]]的复杂系统网络之中，揭示其作为超越线性转移、达成全系统[[Knowledge Production\|知识生产]]与使用良性循环的关键纽带。
+> - **2022 — 复杂系统研究生态视角的整合** [[OECD]] [[Centre for Educational Research and Innovation\|教育研究与创新中心]]（CERI）在 [[Argument_Revai_2022_ChangingLandscape|Révai (2022)]] 中将参与式学术置于[[International Education\|国际教育]][[Research Utilization\|研究利用]]的复杂系统网络之中，揭示其作为超越线性转移、达成全系统[[Knowledge Production\|知识生产]]与使用良性循环的关键纽带。
 
 ---
 

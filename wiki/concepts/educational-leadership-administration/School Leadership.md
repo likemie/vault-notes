@@ -28,6 +28,7 @@ related_concepts:
   - "[[Institutional Displacement]]"
   - "[[Research Utilization]]"
   - "[[Output-Oriented Governance]]"
+  - "[[Variable]]"
   - "[[Feedback]]"
   - "[[Classroom Management]]"
   - "[[Educational Decentralization]]"
@@ -35,7 +36,6 @@ related_concepts:
   - "[[Paradigm]]"
   - "[[Discourse]]"
   - "[[Dependent Variable]]"
-  - "[[Variable]]"
   - "[[Doxa]]"
 related_theories:
   - "[[Organizational Culture]]"
@@ -52,8 +52,8 @@ related_facts:
   - "[[Monash Q Project]]"
 related_methods:
   - "[[Qualitative Research]]"
-  - "[[Critical Policy Analysis]]"
   - "[[Effect Size]]"
+  - "[[Critical Policy Analysis]]"
   - "[[Questionnaire]]"
   - "[[In-depth Interview]]"
   - "[[Case Study]]"
@@ -187,10 +187,10 @@ updated: 2026-10-16
 ### 命题五　学校领导力作为高位组织使能杠杆获得专家德尔菲高度认可，是整合微观教学的不可替代支撑
 
 > [!concept-lens] 组织使能杠杆与实践价值分层
-> 探讨在全要素证据库的去情境化排行中，学校领导力如何作为高位组织使能变量，获得专家评审的高度认可与战略定位。
+> 探讨在全要素证据库的去情境化排行中，学校领导力如何作为高位组织使能[[Variable|变量]]，获得专家评审的高度认可与战略定位。
 
 > [!claim] [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]]
-> **专家评审确立学校领导力为最高相关度的组织使能支柱** 卡尔门达尔等（Kalmendal et al., 2025）召集国际资深学者对全库 322 项教育影响因素开展德尔菲相关度评定时，校长与学校领导力（School Leadership）获得了极高的专家共识得分（$M = 4.50, SD = 0.58$），位列全库所有组织与管理类变量之首（位列前 10 项核心因素）。专家评定指出：与[[Feedback|教学反馈]]（$M=4.75$）和[[Classroom Management|课堂管理]]（$M=4.75$）等直接发生在教室内的微观教学行为不同，学校领导力虽不直接作用于学生个人认知加工，却是保障优质微观教学实践得以常态化发生、隔绝外部行政杂务干扰并建立互信教研生态的高位组织使能杠杆。将其与微观教学因素置于同一扁平效应量排行榜进行机械名次比较，抹杀了组织杠杆的系统性孵化功能。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 19–20, 22)]]
+> **专家评审确立学校领导力为最高相关度的组织使能支柱** 卡尔门达尔等（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）召集国际资深学者对全库 322 项教育影响因素开展德尔菲相关度评定时，校长与学校领导力（School Leadership）获得了极高的专家共识得分（$M = 4.50, SD = 0.58$），位列全库所有组织与管理类变量之首（位列前 10 项核心因素）。专家评定指出：与[[Feedback|教学反馈]]（$M=4.75$）和[[Classroom Management|课堂管理]]（$M=4.75$）等直接发生在教室内的微观教学行为不同，学校领导力虽不直接作用于学生个人认知加工，却是保障优质微观教学实践得以常态化发生、隔绝外部行政杂务干扰并建立互信教研生态的高位组织使能杠杆。将其与微观教学因素置于同一扁平[[Effect Size|效应量]]排行榜进行机械名次比较，抹杀了组织杠杆的系统性孵化功能。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 19–20, 22)]]
 
 ---
 
@@ -273,4 +273,4 @@ updated: 2026-10-16
 > - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] — 结合[[Monash Q Project\|莫纳什 Q 项目]]全澳实证调查，系统论证榜样型领导示范与制度化排程是打破教师防卫、促进高质量研究[[Research Utilization\|证据使用]]的首要组织杠杆。
 > - [[Argument_Møller_2017_EERJ\|Møller (2017)]] — 评述跨国成功学校校长项目（ISSPP），阐释领导力的情境特异性，并从[[Transformative Leadership\|变革型领导力]]与批判政策视角反思个人英雄主义偏差。
 > - [[Argument_Eacott_2011_JEAH\|Eacott (2011)]] — 运用[[Pierre Bourdieu\|布迪厄]][[Champ\|场域]]与习性理论，深入剖析新南威尔士州校长培养方案的管理主义 [[Doxa]]，提出走向教育问题争辩的替代性领导习性。
-> - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 专家德尔菲评审确立学校领导力为最高相关度的组织使能支柱（$M=4.50$），实证揭示将其与微观课堂教学在扁平效应量排行榜中机械对比的方法学局限。
+> - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 专家德尔菲评审确立学校领导力为最高相关度的组织使能支柱（$M=4.50$），实证揭示将其与微观课堂教学在扁平[[Effect Size|效应量]]排行榜中机械对比的方法学局限。

@@ -32,8 +32,8 @@ related_concepts:
   - "[[Primary and Secondary Documents]]"
   - "[[Homework]]"
   - "[[Learning Gain]]"
-  - "[[Paradigm]]"
   - "[[Engineered Evidence]]"
+  - "[[Paradigm]]"
 related_theories: []
 related_methods:
   - "[[Action Research]]"
@@ -98,7 +98,7 @@ updated: 2026-10-16
 
 > [!critique] 对[[Evidence-Based Education\|循证教育]]转译路径的根本反思
 > - **自主探究模式的认知局限** 教师的时间和专业精力有限，期望每位教师兼任专业研究员直接从学术[[Primary and Secondary Documents\|一手文献]]中提炼教学法，不仅会加重职业倦怠，更极易因理解偏差导致教学变形。
-> - **工程化替代路径的必然性** 戈拉德等（[[Argument_Gorard_2020_ROE\|Gorard et al., 2020]]）基于该试验的失败教训明确指出：科研界向实践界交付成果的最佳路径，绝非向教师扔下学术论文或强推[[Action Research\|行动研究]]，而是由专业团队将前沿因果证据深度封装为拿来即用的预制工件（如脚本化教案、标准化规程与课程材料，即 `25`）。
+> - **工程化替代路径的必然性** 戈拉德等（[[Argument_Gorard_2020_ROE\|Gorard et al., 2020]]）基于该试验的失败教训明确指出：科研界向实践界交付成果的最佳路径，绝非向教师扔下学术论文或强推[[Action Research\|行动研究]]，而是由专业团队将前沿因果证据深度封装为拿来即用的预制工件（如脚本化教案、标准化规程与课程材料，即 `[[Engineered Evidence]]`）。
 
 ---
 

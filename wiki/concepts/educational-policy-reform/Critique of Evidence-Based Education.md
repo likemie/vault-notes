@@ -47,6 +47,8 @@ related_concepts:
   - "[[Material Fallacies]]"
   - "[[Policy Borrowing]]"
   - "[[Visible Learning]]"
+  - "[[PICO Framework]]"
+  - "[[Metascience]]"
   - "[[Realism in International Relations]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Construct Validity]]"
@@ -334,14 +336,14 @@ updated: 2026-10-16
 > 2. **大规模干[[Pilot Testing\|预实验]]普遍呈现零效应** 英美投入数亿英镑的大规模 [[Randomised Controlled Trials\|RCT]] 评估中，高达 90% 的干预项目最终显示零效应或未达统计显著。[[Argument_Pampaka_2016_IJRME\|(Pampaka et al., 2016, p. 231)]]
 > 3. **[[Non-intervention Research\|非干预研究]]的[[Recommendations for Practice\|实践建议]]越界率高达 66%** 教育心理学期刊中近三分之二的观察性非[[Intervention Research\|干预研究]]擅自给出因果行动建议。[[Argument_Brady_2023_EPR\|(Brady et al., 2023, pp. 6–7)]]
 > 4. **[[Pre-test and Post-test\|前测]]失衡产生巨大虚假[[Effect Size\|效应量]]** 拼读项目 Fresh Start 官方宣称效应量为 +0.24SD，但在严格匹配排除前测基线失衡后，真实净效应降为 +0.00SD。[[Argument_Wrigley_2018_BERJ\|(Wrigley, 2018, p. 5)]]
-> 5. **宏观二阶循证综合基础崩溃（0.66% 可复现）** 对全球影响最广的《[[Visible Learning|可见的学习]]》全量审计发现，仅 19% 满足 PICO 入选门禁，301 个因素中仅 2 项能复现数据提取，44% 效应量查无实据，证明宏观循证知识库底层存在灾难性虚脱。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 14, 18–19)]]
+> 5. **宏观二阶循证综合基础崩溃（0.66% 可复现）** 对全球影响最广的《[[Visible Learning|可见的学习]]》全量审计发现，仅 19% 满足 [[PICO Framework|PICO]] 入选门禁，301 个因素中仅 2 项能复现数据提取，44% 效应量查无实据，证明宏观循证知识库底层存在灾难性虚脱。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 14, 18–19)]]
 
 > [!stat-cards] 关键量化指标
 > - **83.2%** 清算中心项目中仅由单一机构评级、缺乏独立交叉验证的比例。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, p. 18)]]
 > - **30%** 跨清算中心对同一教育项目有效性评级结论的一致率。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, p. 3)]]
 > - **+0.24SD vs +0.00SD** Fresh Start 项目官方宣传效应量与校正前测失衡后的真实效应量对比。[[Argument_Wrigley_2018_BERJ\|(Wrigley, 2018, p. 5)]]
 > - **38%** Kluger & DeNisi 经典反馈[[Meta-analysis\|元分析]]中干预产生负向效应的真实案例占比。[[Argument_Wiliam_2019_ERE\|(Wiliam, 2019, p. 10)]]
-> - **0.66% (2/301)** 《可见的学习》宏观循证知识库在元科学复核中能够完全复现数据提取的影响因素比例。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, p. 18)]]
+> - **0.66% (2/301)** 《可见的学习》宏观循证知识库在[[Metascience|元科学]]复核中能够完全复现数据提取的影响因素比例。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, p. 18)]]
 
 > [!contrast-table] [[Evidence-Based Education\|EBE]] 方法偏好 vs 方法多元论（[[Argument_Cowen_2019_ERE\|Cowen, 2019]]）
 > | 比较维度 | 循证教育优先方法（EBE 强[[Paradigm\|范式]]） | 方法多元论倡导的方法（多元范式） |
@@ -359,7 +361,7 @@ updated: 2026-10-16
 > | [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] | 五大教育心理学顶刊 2020 年全部实证论文 | 非干预研究中 66% 给出[[Causality\|因果性]]实践建议（RFP） | 揭示观察性非[[Experimental Research\|实验研究]]对因果实践处方的系统性越界 |
 > | [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] | [[Education Endowment Foundation\|EEF]] 资助的 Fresh Start 拼读阅读干预 RCT | 排除前测失衡样本后效应量从 +0.24 塌缩为 0.00 | 证明对照组基线不平稳产生严重的统计虚假伪像 |
 > | [[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]] | 英格兰 1983–2019 年核心政策文献与 20 位[[Elite Interview\|精英访谈]] | 官方白皮书引文高度选择性；文官依赖口口相传 | 揭示证据异化为官僚[[Rationalized Myth\|合理化神话]]与 [[Policy-Based Evidence-Making\|PBEM]] 闭环 |
-> | [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] | 《[[Visible Learning|可见的学习]]》全库 322 个影响因素及 1,369 篇元分析 | 仅 19% 满足 PICO；数据提取复现率仅 0.66%；44% 效应量查无实据 | 瓦解宏观证据库的科学有效性宣称，揭示循证政策依据的底层虚脱 |
+> | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 《[[Visible Learning\|可见的学习]]》全库 322 个影响因素及 1,369 篇元分析 | 仅 19% 满足 PICO；数据提取复现率仅 0.66%；44% 效应量查无实据 | 瓦解宏观证据库的科学有效性宣称，揭示循证政策依据的底层虚脱 |
 
 ---
 
@@ -388,6 +390,6 @@ updated: 2026-10-16
 > - [[Argument_Peterson_2016_IJRME\|Peterson (2016)]] — 提出以[[Mechanism Experiments\|机制实验]]与专业改进网络为核心的“什么有效 2.0”改良方案。
 > - [[Argument_Zapp_2022_Springer\|Zapp (2022)]] — 将 EBE 置于全球[[Epistemic Governance\|知识治理]]兴起与[[Policy Science in Comparative Education\|政策科学]]化的宏观脉络中进行定位。
 > - [[Argument_Qvortrup_2019_NordSTEP\|Qvortrup (2019)]] — 提出元分析作为观察透镜的认识论反思。
-> - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 开展教育学史上首个对《[[Visible Learning|可见的学习]]》全库元科学审计，揭示宏观循证知识库底层仅 0.66% 数据可复现、44% 查无实据，为解构 EBE 的经验基础提供了最具毁灭性的实证定性。
+> - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 开展教育学史上首个对《[[Visible Learning|可见的学习]]》全库[[Metascience|元科学]]审计，揭示宏观循证知识库底层仅 0.66% 数据可复现、44% 查无实据，为解构 EBE 的经验基础提供了最具毁灭性的实证定性。
 > - [[Evidence-Based Education]] — 循证教育主条目，记录 EBE 核心定义、[[Paradigm\|范式]]特征与支持性论证。
 

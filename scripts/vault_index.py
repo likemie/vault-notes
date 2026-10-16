@@ -1570,7 +1570,8 @@ def run_auto_fixes() -> int:
     """Apply vault_lint's mechanical fixes to git-changed Markdown files.
 
     Fixes: English two-author conjunctions, bold delimiter boundaries,
-    summary quotes, [!axis] separators (see vault_lint.apply_fixes)."""
+    summary quotes, [!axis] separators (see vault_lint.apply_fixes), then
+    links raw APA citations to Argument pages (citation_linker.py)."""
     if str(SCRIPTS_DIR) not in sys.path:
         sys.path.insert(0, str(SCRIPTS_DIR))
     import vault_lint as lint  # noqa: PLC0415 - heavy import, only when needed
@@ -1582,9 +1583,35 @@ def run_auto_fixes() -> int:
     changed_files, total = lint.apply_fixes(files, argument_citations)
     if changed_files:
         print(f"auto-fix: {total} issue(s) fixed in {changed_files} file(s)")
+    linked_files, linked_total = auto_link_citations(files)
+    if linked_files:
+        print(f"auto-link: {linked_total} APA citation(s) linked in {linked_files} file(s)")
+    if changed_files or linked_files:
         _TEXT_CACHE.clear()
         _FM_CACHE.clear()
     return 0
+
+
+def auto_link_citations(files: list[Path]) -> tuple[int, int]:
+    """Run citation_linker.py's linking on the given files (uses the current citation index)."""
+    import citation_linker as cl  # noqa: PLC0415
+
+    if not cl.CITATION_FULL_JSON.exists():
+        return 0, 0
+    lookup = cl.load_lookup()
+    changed = total = 0
+    for path in files:
+        path = Path(path)
+        if not path.is_file() or cl.WIKI_DIR not in path.resolve().parents or cl.should_skip(path):
+            continue
+        text = path.read_text(encoding="utf-8")
+        stats = {"linked_parenthetical": 0, "linked_narrative": 0, "fixed_display": 0}
+        new_text = cl.link_text(text, lookup, stats, [], path)
+        if new_text != text:
+            path.write_text(new_text, encoding="utf-8")
+            changed += 1
+            total += stats["linked_parenthetical"] + stats["linked_narrative"]
+    return changed, total
 
 
 def sync_updated_dates(dry_run: bool = False, check: bool = False) -> int:

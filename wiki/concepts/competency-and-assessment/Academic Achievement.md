@@ -37,6 +37,8 @@ related_concepts:
   - "[[Achievement and Aptitude Tests]]"
   - "[[External Validity]]"
   - "[[PICO Framework]]"
+  - "[[Visible Learning]]"
+  - "[[Variable]]"
   - "[[Learning Progression]]"
   - "[[Grade Retention]]"
   - "[[Rote Learning]]"
@@ -67,6 +69,10 @@ related_concepts:
   - "[[School Inspection]]"
   - "[[Technical Rationality]]"
   - "[[Class Size]]"
+  - "[[Preregistration]]"
+  - "[[Metascience]]"
+  - "[[Research Question]]"
+  - "[[Commensuration]]"
   - "[[Hypothesis]]"
   - "[[Effective Teaching]]"
   - "[[Cooperative Learning]]"
@@ -92,7 +98,6 @@ related_concepts:
   - "[[Deficit Framing]]"
   - "[[Critical Thinking]]"
   - "[[Procedural Skill]]"
-  - "[[Variable]]"
   - "[[Problem-Based Learning]]"
   - "[[Affective Outcomes]]"
   - "[[Ontology]]"
@@ -229,7 +234,7 @@ updated: 2026-10-16
 >    - **研究者或[[Developer-Made Measures\|开发者自编测验]]（developer-developed tests）** 紧密贴合特定干预内容，但易引发[[Effect Size\|效应量]]虚假膨胀（Cheung & Slavin, 2016; [[What Works Clearinghouse\|有效干预清算中心]]（What Works [[Educational Evidence Clearinghouses\|Clearinghouse]], WWC）, 2017）。
 >    - **商业化独立学科测验（standardised commercial tests）** 具备通用性与客观性，但在特定学段易出现[[Reliability\|信度]]不足或地板与[[Floor and Ceiling Effects\|天花板效应]]（Allen et al., 2018; Hodgen et al., 2019）。
 >    - **国家高利害统一[[Achievement and Aptitude Tests\|成就测验]]（national high-stakes examinations）** 与大规模课程标准高度对齐、具备强[[External Validity\|外部效度]]与政策利害性的权威终结性学业指标。
->    - **[[PICO Framework|PICO 纳排关卡]]与学业结果界定合规（PICO-Compliant Outcome Definition）** 在二阶证据综合中，学业成就结果必须被严格界定为干预后的学生学业指标（如学科成绩、考试分）。卡尔门达尔（Kalmendal et al., 2025）审计揭示，在《可见的学习》等宏观证据库中，多达 81% 的影响因素因混合了非学业变量（如态度、满意度、教师感知）、非对比设计或缺乏干预对照，导致“学业成就”标签发生严重概念错位与泛化污染。[[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, p. 14)]]
+>    - **[[PICO Framework|PICO]] 纳排关卡与学业结果界定合规（PICO-Compliant Outcome Definition）** 在二阶证据综合中，学业成就结果必须被严格界定为干预后的学生学业指标（如学科成绩、考试分）。卡尔门达尔（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）审计揭示，在《[[Visible Learning|可见的学习]]》等宏观证据库中，多达 81% 的影响因素因混合了非学业[[Variable|变量]]（如态度、满意度、教师感知）、非对比设计或缺乏干预对照，导致“学业成就”标签发生严重概念错位与泛化污染。[[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, p. 14)]]
 > 
 > 5. **课程标准等级与[[Learning Progression\|学业进阶]]层级（[[Learning Progression]] and Curriculum Levels）**
 >    - **国家课程等级锚定（national curriculum levels）** 将学业成就分解为连续跨等级的发展阶段（如 [[Assessment Tools for Teaching and Learning\|asTTle]] 等级 2 至 6），超越孤立原始分数的单一横截面排名，呈现具体认知能力与进阶目标（[[Argument_Hattie_2005_ACER\|Hattie, 2005]]）。
@@ -374,7 +379,7 @@ updated: 2026-10-16
 > 这一分解推翻了过度聚焦于学校建筑、[[School Choice\|择校]]制度或班级规模缩减的传统政策取向，确立了教师课堂教学质量才是撬动学业成就的核心关键。
 
 > [!claim] [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]]
-> **二阶综合中成就效应量的虚假膨胀与可复现性崩溃** 卡尔门达尔（Kalmendal）等学者对支持上述方差排序的《可见的学习》全库 322 个影响因素开展预注册元科学质量审计发现：宏观二阶元分析中所报告的各项教学法对学业成就的巨大提升效应（如常规宣称的 $d > 0.40$），在底层数据核查下发生系统性崩溃。审计表明：仅 19% 满足研究问题纳入基准，27% 混杂了不可通约的组内与组间设计；检验的 301 个影响因素中仅 2 项可完全复现数据提取，且 44% 报告的成就效应量在被引原文中完全不存在。这表明宏观二阶元分析若缺乏严格的元科学质控，其所呈现的“学业成就提升清单”会充斥着由提取失真与设计混杂所人为制造的虚假积极效应。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 1, 14–19)]]
+> **二阶综合中成就效应量的虚假膨胀与可复现性崩溃** 卡尔门达尔（Kalmendal）等学者对支持上述方差排序的《[[Visible Learning|可见的学习]]》全库 322 个影响因素开展[[Preregistration|预注册]][[Metascience|元科学]]质量审计发现：宏观二阶元分析中所报告的各项教学法对学业成就的巨大提升效应（如常规宣称的 $d > 0.40$），在底层数据核查下发生系统性崩溃。审计表明：仅 19% 满足[[Research Question|研究问题]]纳入基准，27% 混杂了不可[[Commensuration|通约]]的组内与组间设计；检验的 301 个影响因素中仅 2 项可完全复现数据提取，且 44% 报告的成就效应量在被引原文中完全不存在。这表明宏观二阶元分析若缺乏严格的元科学质控，其所呈现的“学业成就提升清单”会充斥着由提取失真与设计混杂所人为制造的虚假积极效应。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 1, 14–19)]]
 
 ---
 
@@ -589,4 +594,4 @@ updated: 2026-10-16
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 107, 113)]] — 从世界体系与批判政治经济学视角剖析标准化测验问责制，阐明自上而下的新自由主义改革如何将学业成就标准异化为国家审计与绩效规约工具，并将多维教育价值窄化为资本积累的劳动力指标。
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 结合西班牙国家评估与 PISA 数据展开[[Secondary Analysis|二手分析]]，实证揭示十年制均质综合中等学制对学业成就分布的双向破坏（16 岁 33% 学业失败率与不足 4% 卓越率），确立了宏观学制设计导致学业成就系统性平庸化的经典案例。
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 结合发展中国家小学大样本计量回归，实证检验微观课堂教学实践对学生学业成就（标准化测试成绩）具有显著[[Predictive Validity|预测效度]]（0.08–0.12 个标准差），破除静态资质解释力迷思。
-> - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 开展二阶元分析全库元科学审计，实证揭示在《可见的学习》等宏观证据库中，多达 81% 的影响因素因混合非学业指标导致“学业成就”标签发生严重概念错位，且底层提取失真与跨设计混杂导致学业成就效应量发生严重虚假膨胀。
+> - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 开展[[Meta-meta-analysis|二阶元分析]]全库[[Metascience|元科学]]审计，实证揭示在《[[Visible Learning|可见的学习]]》等宏观证据库中，多达 81% 的影响因素因混合非学业指标导致“学业成就”标签发生严重概念错位，且底层提取失真与跨设计混杂导致学业成就[[Effect Size|效应量]]发生严重虚假膨胀。

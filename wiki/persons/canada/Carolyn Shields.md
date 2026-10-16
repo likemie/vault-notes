@@ -38,7 +38,7 @@ updated: 2026-10-16
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** Carolyn Shields，加拿大教育研究者，以提出 **[[Transformative Leadership\|变革型领导力]]（Transformative Leadership）** 框架而著称。该框架被 Møller（2017）采纳为超越"什么有效"议程、研究教育领导力的关键替代视角。
+> - **身份位置** Carolyn Shields，加拿大教育研究者，以提出 **[[Transformative Leadership\|变革型领导力]]（Transformative Leadership）** 框架而著称。该框架被 [[Argument_Møller_2017_EERJ|Møller (2017)]]采纳为超越"什么有效"议程、研究教育领导力的关键替代视角。
 
 ## 核心思想
 
@@ -66,6 +66,6 @@ updated: 2026-10-16
 ## 思想发展与影响
 
 > [!note-] 思想发展与影响
-> - 被 Møller（2017）作为超越 ISSPP 类型研究中方法论局限的关键替代框架
+> - 被 [[Argument_Møller_2017_EERJ|Møller (2017)]]作为超越 ISSPP 类型研究中方法论局限的关键替代框架
 > - 与 [[Helen Gunter]] 的批判性教育政策视角一起，构成 Møller 提议的双重分析透镜
 > - 影响了社会正义导向的[[School Leadership\|学校领导力]]研究议程

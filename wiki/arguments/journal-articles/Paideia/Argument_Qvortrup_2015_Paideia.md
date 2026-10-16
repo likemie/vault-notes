@@ -43,13 +43,14 @@ related_persons:
 related_facts:
   - "[[TIMSS]]"
   - "[[PISA]]"
-related_arguments: []
+related_arguments:
+  - "[[Argument_Rømer_2018_EPT]]"
 sources:
   - "[[sources/Qvortrup_2015_Paideia|Qvortrup_2015_Paideia]]"
 part_of: ''
 status: draft
 created: '2026-05-05'
-updated: '2026-06-08'
+updated: 2026-10-16
 year: 2015
 doi: ""
 citation_aliases:
@@ -117,7 +118,7 @@ citation_aliases:
 > [!warning] 局限性与批评
 > - 论文是一篇支持方讨论论文，主要依赖概念论证和文献重读，没有提供独立实证检验；因此它能说明"为何[[Meta-analysis\|元分析]]在原则上可以辩护"，但不能证明 Hattie 具体数据处理在统计上充分可靠(pp.23–32)。
 > - Qvortrup 将意识形态、方法论和情境批评总体判断为已被"完全令人满意地"回应，可能低估了后续 Wecker et al.对[[Effect Size\|效应量]]、二级聚合和源研究[[Heterogeneity\|异质性]]提出的技术批评。
-> - 论文对 Hattie 的"学习结果"概念限制提出了温和内部修正，而不是 Rømer (2018) 那种外部哲学批判；因此它更像是改良 [[Visible Learning]] 的方案，而不是拒绝 Visible Learning 的方案。
+> - 论文对 Hattie 的"学习结果"概念限制提出了温和内部修正，而不是 [[Argument_Rømer_2018_EPT|Rømer (2018)]] 那种外部哲学批判；因此它更像是改良 [[Visible Learning]] 的方案，而不是拒绝 Visible Learning 的方案。
 
 ## 来源
 

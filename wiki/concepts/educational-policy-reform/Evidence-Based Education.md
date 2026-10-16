@@ -60,16 +60,19 @@ related_concepts:
   - "[[Preregistration]]"
   - "[[Educational Evidence Clearinghouses]]"
   - "[[Transfer Science]]"
+  - "[[Visible Learning]]"
+  - "[[Metascience]]"
   - "[[Absorptive Capacity]]"
-  - "[[Positivism]]"
+  - "[[Gold Standard Science]]"
+  - "[[PICO Framework]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Positivism]]"
   - "[[Allgemeine Pädagogik]]"
   - "[[Academic Freedom]]"
   - "[[Business as Usual]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Teaching Assistant]]"
   - "[[Technology Infusion]]"
-  - "[[Visible Learning]]"
   - "[[School Inspection]]"
 related_theories:
   - "[[Critical Realism]]"
@@ -89,6 +92,7 @@ related_methods:
   - "[[Classroom Observation]]"
   - "[[Single-Case Design]]"
   - "[[Mechanism Experiments]]"
+  - "[[Correlational Research]]"
   - "[[Implementation and Process Evaluation]]"
   - "[[Factorial Design]]"
   - "[[Quasi-Experimental Designs]]"
@@ -148,7 +152,6 @@ related_arguments:
   - "[[Argument_Wrigley_2018_BERJ]]"
   - "[[Argument_Wiliam_2019_ERE]]"
   - "[[Argument_Nelson_2017_ER]]"
-  - "[[Argument_Kalmendal_2025_PsyArXiv]]"
   - "[[Argument_Manitius_vanHolt_2019_BzS]]"
   - "[[Argument_Zhao_2017_JEC]]"
   - "[[Argument_Cowen_2015_CHESS]]"
@@ -167,6 +170,7 @@ related_arguments:
   - "[[Argument_Peterson_2016_IJRME]]"
   - "[[Argument_Pampaka_2016_IJRME]]"
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
+  - "[[Argument_Kalmendal_2025_PsyArXiv]]"
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
   - "[[Argument_Sarbiewska_2019_JSR]]"
   - "[[Argument_Dedering_2009_EERJ]]"
@@ -427,7 +431,7 @@ Fitz-Gibbon 同时指出，Anderson and Biddle（1991）已观察到政策制定
 > - **2019** — *Educational Research and Evaluation* 特刊集中发表四篇 EBE 批判论文：Slavin 从支持者立场总结进展；Cowen 以 [[Tullock's Bureaucracy Theory]] 解释 EBE 的制度韧性；Wrigley & McCusker 论证 EBT 的"科学"宣称基于过分简化的民间科学观；Wiliam 运用 Goldman 区分理论论证 EBE "永远不会成功"——教育知识是局部且临时的
 > - **2019** — Qvortrup 在 NordSTEP 发表 VL 辩护讨论论文，提出"观察透镜"[[Epistemology\|认识论]]论证（[[Argument_Qvortrup_2019_NordSTEP\|Qvortrup, 2019, p.5]]）
 > - **2019** — 德语区学者在《学校发展论丛》（*Beiträge zur Schulentwicklung*）系统反思德语区及国际 EBE 实践（[[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt, 2019]]）：新治理工具在学校基层的成效停滞揭示了转移的非线性本质；批判各类清算中心（[[Educational Evidence Clearinghouses\|Clearinghouse]]）迅猛扩增背后因果作用假设（Wirkannahmen）的反思贫困；主张将教育科学构建为[[Transfer Science|转移科学]]（[[Transfer Science\|Transferwissenschaft]]），以全周期教师教育作为双向对话的制度转化枢纽。
-> - **2025** — 卡尔门达尔等（Kalmendal et al., 2025）发表针对《[[Visible Learning|可见的学习]]》底层 2,111 项[[Meta-analysis|元分析]]的预注册元科学全量审计（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]），揭示全球循证政策所依赖的宏观实证知识库存在严重虚脱：纯净可重复率仅 0.66%，44% 查无实据，且混入 80.7% 不具备干预针对性的非因果相关与 63 项虚构出版物；这一元科学实证震荡推动了对 EBE 运动中“以海量数据权威替代严格方法论质控”的伪科学幻象的系统反思。
+> - **2025** — 卡尔门达尔等（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）发表针对《[[Visible Learning|可见的学习]]》底层 2,111 项[[Meta-analysis|元分析]]的预注册[[Metascience|元科学]]全量审计，揭示全球循证政策所依赖的宏观实证知识库存在严重虚脱：纯净可重复率仅 0.66%，44% 查无实据，且混入 80.7% 不具备干预针对性的非因果相关与 63 项虚构出版物；这一元科学实证震荡推动了对 EBE 运动中“以海量数据权威替代严格方法论质控”的伪科学幻象的系统反思。
 
 ---
 ## 争议与批评
@@ -445,11 +449,11 @@ Fitz-Gibbon 同时指出，Anderson and Biddle（1991）已观察到政策制定
 > > - **供给端单向理性假设** 清算机制预设了三重递进式假设：只要将学术论文改写为简明摘要，实践者便会自发展开阅读；只要知晓科学证据，便会破除经验直觉并重塑信念；只要信念转变，便能在无外部持续支持下自动改善微观课堂行动。
 > > > - **实证成效黑箱与转移研究赤字** 国际经验表明，清算中心究竟在多大程度上能够达成既定的实践转移目标，实证证据依然极度匮乏。单纯降低文献阅读门槛，无法替代针对学校[[Organizational Culture|组织文化]]和教师[[Absorptive Capacity|吸收能力]]（Absorptive Capacity）的深层制度建设。
 >
-> > [!axis] 宏观循证知识库的“数据繁荣”与底层实证基础的元科学虚脱
-> > EBE 运动深度依赖二阶综合与国家级循证工具包（如 EEF Toolkit、Visible Learning）作为自上而下指导学校实践的合法性源泉，但宏观证据的庞大体量往往掩盖了底层的严重方法学失控。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 2–3)]]
+> > [!axis] 宏观循证知识库的“数据繁荣”与底层实证基础的[[Metascience|元科学]]虚脱
+> > EBE 运动深度依赖二阶综合与国家级循证工具包（如 [[EEF Teaching and Learning Toolkit|EEF Toolkit]]、[[Visible Learning]]）作为自上而下指导学校实践的合法性源泉，但宏观证据的庞大体量往往掩盖了底层的严重方法学失控。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 2–3)]]
 > >
-> > - **“海量证实”的伪科学幻象** 政策制定者与商业推广者倾向于将纳入元分析数量或数亿受试学生体量直接等同于“黄金标准科学证据”，忽视了综合规程中对[[PICO Framework|PICO 门禁]]、偏倚风险评估及透明筛选的硬性要求。
-> > - **元科学审计与证据基础崩塌** 卡尔门达尔等（Kalmendal et al., 2025）对哈蒂 2,111 项元分析的预注册全量审计证实：缺乏严格质控的宏观循证库仅有 0.66% 纯净可重复，44% 查无实据，且混杂 80.7% 非干预相关研究与 63 项虚构出版物；当支撑 EBE 政策的核心证据柱石在元科学检验下坍塌时，盲目以“证据本位”之名推行标准化教学规训便蜕变为高利害的政策投机。
+> > - **“海量证实”的伪科学幻象** 政策制定者与商业推广者倾向于将纳入[[Meta-analysis|元分析]]数量或数亿受试学生体量直接等同于“[[Gold Standard Science|黄金标准科学]]证据”，忽视了综合规程中对[[PICO Framework|PICO]] 门禁、偏倚风险评估及透明筛选的硬性要求。
+> > - **元科学审计与证据基础崩塌** 卡尔门达尔等（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）对[[John Hattie|哈蒂]] 2,111 项元分析的[[Preregistration|预注册]]全量审计证实：缺乏严格质控的宏观循证库仅有 0.66% 纯净可重复，44% 查无实据，且混杂 80.7% 非干预[[Correlational Research|相关研究]]与 63 项虚构出版物；当支撑 EBE 政策的核心证据柱石在元科学检验下坍塌时，盲目以“证据本位”之名推行标准化教学[[Disciplina and Doctrina|规训]]便蜕变为高利害的政策投机。
 >
 > > [!axis] 教师教育多范式治理与大学学术自治生态抵制
 > > EBE 政策试图将实证证据与标准化指标强制嵌入大学师范培养与职后研训（如德国 [[Qualitätsoffensive Lehrerbildung|QLB]] 工程），但在高校内部遭遇了学术生态的深层抵制。[[Argument_Manitius_vanHolt_2019_BzS\|(Heinrich & Streblow, 2019; Manitius & van Holt, 2019, p. 13)]]
@@ -537,7 +541,7 @@ Fitz-Gibbon 同时指出，Anderson and Biddle（1991）已观察到政策制定
 > - [[Tomorrow's Schools Reforms]] — NZ 行政改革转向证据本位教学的转折
 > - [[Treasury Briefing on Student-Teacher Ratios]] — EBE 证据在政策论述中被误用的典型范例
 > - [[Argument_Sarbiewska_2019_JSR\|Sarbiewska (2019)]] — 系统记录 EBE/VL 在 NZ and AU 的政策采纳轨迹
-> - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 针对澳新等国广泛奉为循证基石的《[[Visible Learning|可见的学习]]》开展预注册元科学全量复核，揭示仅 0.66% 纯净可重复且 44% 查无实据，为全球循证政策提供了最严峻的反思案例。
+> - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 针对澳新等国广泛奉为循证基石的《[[Visible Learning|可见的学习]]》开展[[Preregistration|预注册]][[Metascience|元科学]]全量复核，揭示仅 0.66% 纯净可重复且 44% 查无实据，为全球循证政策提供了最严峻的反思案例。
 
 ### 德国
 

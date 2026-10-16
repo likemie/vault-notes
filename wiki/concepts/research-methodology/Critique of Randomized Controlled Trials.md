@@ -262,9 +262,9 @@ updated: 2026-10-16
 >
 >   *大规模实地评估暴露经典计量假定与真实学校生态的深层冲突。*
 >
->   - 2011 — Richard Berk（2011）在《评估评论》创刊回顾中指出集群试验主体间干扰对 SUTVA 的普遍违背，提出[[Pragmatic Paradigm\|实用主义]]“铜标准”。
+>   - 2011 — Richard [[Argument_Berk_2011_ER|Berk (2011)]]在《评估评论》创刊回顾中指出集群试验主体间干扰对 SUTVA 的普遍违背，提出[[Pragmatic Paradigm\|实用主义]]“铜标准”。
 >   - 2016 — Ginsburg and Smith（2016）全面解剖 [[What Works Clearinghouse\|WWC]] 认证的高评级数学 RCT，披露开发者关联与评估工具偏袒等 12 项致命威胁。
->   - 2019 — Dylan Wiliam（2019）系统梳理田纳西 STAR 实验中的转组破坏，指出未测量教师质量对[[Class Size\|班级规模]]因果识别的颠覆性混淆。
+>   - 2019 — Dylan [[Argument_Wiliam_2019_ERE|Wiliam (2019)]]系统梳理田纳西 STAR 实验中的转组破坏，指出未测量教师质量对[[Class Size\|班级规模]]因果识别的颠覆性混淆。
 >   - 2019 — Lortie-Forgues and Inglis（2019）发表对 141 项大规模教育 RCT 的元再分析，揭示平均效应量仅为 0.06 SD，引发“试验缺乏信息量”危机。
 >
 > - **2020s 至今 — 政策治理异化解剖与法定“合规假象”审计** 批判视角从微观统计技术升华至全球与国家证据治理制度，实证解剖[[Rationalized Myth\|合理化神话]]、跨国技术[[Screening Off\|屏蔽]]与法定单项合格门槛下的供给赤字。
@@ -272,7 +272,7 @@ updated: 2026-10-16
 >   *实证审计直指循证政策体系的制度性破产与科研供给侧赤字。*
 >
 >   - 2022 — Ronald Helgetun 与 Ian Menter（2022）实证解剖英格兰教师改革中的医学隐喻，提出全流程[[Epistemological Break\|认识论断裂]]与“依策造据”（[[Policy-Based Evidence-Making\|PBEM]]）。
->   - 2023 — Matthew Kraft（2023）发布 3,426 项 RCT 效应量分布基准，打破“0.40 铰链点”神话，确立 0.10 的低位现实。
+>   - 2023 — Matthew [[Argument_Kraft_2023_ER|Kraft (2023)]]发布 3,426 项 RCT 效应量分布基准，打破“0.40 铰链点”神话，确立 0.10 的低位现实。
 >   - 2024 — Gita Steiner-Khamsi 等（2024）揭露[[World Bank\|世界银行]]微观实验技术利基对宏观政治经济危机的“屏蔽”效应。
 >   - 2024 — Geetanjali Wadhwa 等（2024）实证检验 12 家清算中心 1,359 项研究，揭示跨机构评级冲突率达 35.4% 的“RCT 悖论”。
 >   - 2024 — Rick Ginsberg 等（2024）基于全美 15 学区 138 项受资助干预审计，量化揭示 [[Every Student Succeeds Act\|ESSA]] 单项 RCT 合格门槛诱发“合规假象”，直指供给侧学段断层与微观构件黑箱。

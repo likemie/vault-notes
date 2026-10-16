@@ -34,6 +34,7 @@ related_concepts:
   - "[[Constructivist Paradigm]]"
   - "[[Central Question]]"
   - "[[Research Question]]"
+  - "[[PICO Framework]]"
   - "[[Preregistration]]"
   - "[[Literature Search]]"
   - "[[Evaluation Research]]"
@@ -41,7 +42,6 @@ related_concepts:
   - "[[Primary and Secondary Documents]]"
   - "[[Chain of Evidence]]"
   - "[[Ecological Validity]]"
-  - "[[PICO Framework]]"
   - "[[Visible Learning]]"
   - "[[Evidence Standards]]"
   - "[[Evidence Ecosystem]]"
@@ -199,7 +199,7 @@ updated: 2026-10-16
 > [!proc] 通用程序
 >
 > > [!step] 步骤一：界定[[Research Question\|研究问题]]与拟定注册协议（Protocol）
-> > 运用 PICO（人群、干预、对照、产出）或 SPIDER 框架精准界定[[Research Scope\|研究边界]]，明确界定纳入与排除标准；在 PROSPERO 或 Open Science Framework（OSF）公开[[Preregistration\|预注册]]研究方案，锁定方法学设计以规避事后数据窥探（[[Argument_Higgins_2016_ROE\|Higgins, 2016, p. 32]]）。
+> > 运用 [[PICO Framework|PICO]]（人群、干预、对照、产出）或 SPIDER 框架精准界定[[Research Scope\|研究边界]]，明确界定纳入与排除标准；在 PROSPERO 或 Open Science Framework（OSF）公开[[Preregistration\|预注册]]研究方案，锁定方法学设计以规避事后数据窥探（[[Argument_Higgins_2016_ROE\|Higgins, 2016, p. 32]]）。
 >
 > > [!step] 步骤二：系统与穷尽式[[Literature Search\|文献检索]]
 > > 研制布尔逻辑检索式，联合受控词表（MeSH/Thesaurus）与自由文本关键词，横跨多个国际数据库执行全样本检索；严密记录检索时间、语法与命中篇数，补充灰色文献与未发表报告以遏制[[Publication Bias\|发表偏倚]]（[[Argument_Higgins_2016_ROE\|Higgins, 2016, p. 43]]）。
@@ -263,10 +263,10 @@ updated: 2026-10-16
 >   [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022, pp. 154–155)]]与 Gough and White (2018) 对全球 15 个代表性网络证据门户的方法学调查揭示了惊人的实证事实：**仅有 40.0%（6 个）证据门户严格遵循系统综述标准**！其余 60% 均不同程度地退化为单兵研究评定：
 >   - **打包方案类门户的全面塌陷（0% 综述率）** 面向具体商业干预方案（Packaged Programmes）的 5 个门户（如 [[Social Programs That Work]]）**完全未要求系统综述（0%）**，而是 100% 仅凭 1–2 项单兵试验（如 1–2 项高质量 [[Randomised Controlled Trials\|RCT]]）就直接定性方案“有效”并授予顶级证据等级。这种做法存在极高的挑选性偏倚风险，完全掩盖了同一干预在其他情境中可能存在的零效应或负效应；
 >   - **通用策略类门户的严谨坚守（100% 综述率）** 聚焦通用策略（Broad Approaches）的 6 个门户（包括英国 [[EEF Teaching and Learning Toolkit\|EEF Toolkit]]、[[Early Intervention Foundation\|EIF]] Guidebook、College of Policing、CHI、福祉中心以及 Cochrane 图书馆）**100% 严格依托系统综述**与元分析，系统规避了商业机构操纵单兵研究垄断公办采购的弊端。
-> - **二阶综合中的 PICO 门禁失效与伪系统综述风险（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）**
-  系统综述与[[PRISMA]]规程的生命线在于严格执行以 [[PICO Framework|PICO]]（人群、干预、对照、结果）为核心的入选标准与研究协议预注册。然而，卡尔门达尔等（Kalmendal et al., 2025）对覆盖 2,111 项元分析的《[[Visible Learning|可见的学习]]》展开系统审计时发现，当宏观综合背离这一方法学底线时，系统综述极易退化为制造“虚假有效性”的伪科学工具：
-  - **PICO 严重违规与无关变量混入** 经独立编码核验，《可见的学习》中仅有 19.3% 的所谓元分析满足基本的干预针对性要求；高达 80.7% 的纳入文献违背 PICO 原则，将大量与学校教学干预完全无关的描述性相关（如吸烟、抑郁、体重指数、自杀倾向）甚至虚构发表物（63 项）硬性池化，完全摧毁了因果推断的基础；
-  - **规避预注册与国际规范的质量塌陷** 该巨型二阶综合完全未遵循[[Campbell Collaboration|坎贝尔协作网]]（Campbell Collaboration）针对干预综述制定的方法学规范（Methodological Expectations of Campbell Collaboration Intervention Reviews, MECCIR）与系统综述预注册规程，既未公开完整的检索式、筛选流图与排除清单，亦未执行双人双盲质量评价，导致底层文献中高达 44%（928 项）根本不包含可提取效应量或统计数据。这表明，缺乏协议锁定的伪系统综述不仅无法消除偏倚，反而会借由海量引文的表象赋予严重方法学硬伤以“权威科学”的合法性包装。
+> - **二阶综合中的 [[PICO Framework|PICO]] 门禁失效与伪系统综述风险（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）**
+  系统综述与[[PRISMA]]规程的生命线在于严格执行以 [[PICO Framework|PICO]]（人群、干预、对照、结果）为核心的入选标准与研究协议[[Preregistration|预注册]]。然而，卡尔门达尔等（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）对覆盖 2,111 项元分析的《[[Visible Learning|可见的学习]]》展开系统审计时发现，当宏观综合背离这一方法学底线时，系统综述极易退化为制造“虚假有效性”的伪科学工具：
+  - **PICO 严重违规与无关[[Variable|变量]]混入** 经独立编码核验，《可见的学习》中仅有 19.3% 的所谓元分析满足基本的干预针对性要求；高达 80.7% 的纳入文献违背 PICO 原则，将大量与学校教学干预完全无关的描述性相关（如吸烟、抑郁、体重指数、自杀倾向）甚至虚构发表物（63 项）硬性池化，完全摧毁了[[Causality|因果推断]]的基础；
+  - **规避预注册与国际规范的质量塌陷** 该巨型二阶综合完全未遵循坎贝尔协作网（[[Campbell Collaboration]]）针对干预综述制定的方法学规范（Methodological Expectations of Campbell Collaboration Intervention Reviews, MECCIR）与系统综述预注册规程，既未公开完整的检索式、筛选流图与排除清单，亦未执行双人双盲质量评价，导致底层文献中高达 44%（928 项）根本不包含可提取[[Effect Size|效应量]]或统计数据。这表明，缺乏协议锁定的伪系统综述不仅无法消除偏倚，反而会借由海量引文的表象赋予严重方法学硬伤以“权威科学”的合法性包装。
 - **临床医学标准（Cochrane / GRADE）的跨学科移植张力** 系统综述发轫于封闭可控的循证医学领域；然而当其偏倚评估与 GRADE 分级体系被机械移植至教育与复杂社会政策领域时，往往导致过度推崇封闭环境下的人工干[[Pilot Testing\|预实验]]，而系统性惩罚和贬低具备高度生态效度的复杂[[Qualitative Research\|质性研究]]与[[Implementation and Process Evaluation\|过程评估]]，诱发严重的方法学削足适履（[[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022, p. 154]]）。
 
 ---
@@ -291,7 +291,7 @@ updated: 2026-10-16
 > | [[EEF Teaching and Learning Toolkit]] | Fact (Policy) | 国际公认严格依托系统综述与二阶综述构建通用策略证据分级矩阵的典范门户。 |
 > | [[What Works Network]] | Fact (Organization) | 英国国家有效性网络，旗下绝大多数中心将系统综述确立为指导公共支出的知识基底。 |
 > | [[Campbell Collaboration]] | Fact (Organization) | 国际社会科学系统综述旗舰组织，制定 MECCIR 规范与干预综述质量基准。 |
-> | [[PICO Framework]] | Concept | 系统综述界定研究问题、检索范围与入选排除标准的强制门禁工具。 |
+> | [[PICO Framework]] | Concept | 系统综述界定[[Research Question\|研究问题]]、检索范围与入选排除标准的强制门禁工具。 |
 
 ---
 
@@ -309,4 +309,4 @@ updated: 2026-10-16
 > - **[[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]]** 在四大数据库检索并纳入跨领域 112 篇文献，以[[Narrative Synthesis\|叙事综合]]提炼证据使用质量特征，建构 [[Quality Use of Research Evidence Framework\|QURE]] 框架。
 > - **[[Argument_Gorard_2020_ROE\|Gorard et al. (2020)]]** 针对教育与公共政策领域“如何使研究证据有效投入使用”这一因果机制，对逾 335 万条数据库记录开展大规模跨学科系统综述，运用[[Gorard's Trustworthiness Sieve\|戈拉德研究可信度筛子]]严格质评初筛出的 323 篇文献，最终识别出 33 项具备[[Counterfactual\|反事实]]对照设计的因果[[Evaluation Research\|评估研究]]并提炼两维度转化模型。
 > - **[[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]]** 在 [[What Works Clearinghouse\|WWC]] 等四大证据库检索 129 项实践并评定证据等级，再与学区 2.88 亿美元 [[Title I of the Elementary and Secondary Education Act\|Title I]] 支出对照，测算资金投向循证实践的比例。
-> - **[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]]** 对《[[Visible Learning|可见的学习]]》2,111 项元分析开展预注册审计，对照 PRISMA 与 MECCIR 规范发现仅 19.3% 满足 PICO 要求，并存在严重数据缺失。
+> - **[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]]** 对《[[Visible Learning|可见的学习]]》2,111 项[[Meta-analysis|元分析]]开展[[Preregistration|预注册]]审计，对照 PRISMA 与 MECCIR 规范发现仅 19.3% 满足 [[PICO Framework|PICO]] 要求，并存在严重数据缺失。

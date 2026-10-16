@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-23
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Open-Mindedness
@@ -181,7 +181,7 @@ updated: 2026-10-15
 > - **古典时期 — [[Socrates|苏格拉底]]反讽与自知无知** 苏格拉底通过承认自身一无所知并在辩证法中向一切可能的真知敞开，奠定了思想开放作为哲学求知底色的古典传统。
 > - **20 世纪末 — [[Critical Thinking|批判性思维]]与认知倾向研究** 认知心理学（如 Baron, 1988）将思想开放（Actively Open-Minded Thinking, AOT）作为克服确认偏差、评估相反证据的独立思考倾向进行量化测量。
 > - **2010 年代 — [[Virtue Epistemology|美德认识论]]责任论体系化** Jason Baehr (2011) 与 Linda Zagzebski (1996) 确立德性责任论框架，将思想开放明确界定为由求真动机与多视角审视技能构成的核心[[Epistemic Virtues and Vices|理智美德]]。
-> - **2025–2026 年 — 人工智能时代提问驱动与交互培育重构** Lani Watson (2025) 提出通过良好提问实践思想开放；Hadeel Naeem (2026) 在[[Man-Computer Symbiosis|人机协同]]与抵御[[Cognitive Deskilling|去技能化]]背景下，系统提出利用 Q-Tutor 的追问规制与兴趣故事叙事模式培育思想开放美德的完整教学模型。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 278–282)]]
+> - **2025–2026 年 — 人工智能时代提问驱动与交互培育重构** Lani Watson (2025) 提出通过良好提问实践思想开放；Hadeel [[Argument_Naeem_2026_Episteme|Naeem (2026)]] 在[[Man-Computer Symbiosis|人机协同]]与抵御[[Cognitive Deskilling|去技能化]]背景下，系统提出利用 Q-Tutor 的追问规制与兴趣故事叙事模式培育思想开放美德的完整教学模型。[[Argument_Naeem_2026_Episteme|Naeem (2026, pp. 278–282)]]
 
 ---
 

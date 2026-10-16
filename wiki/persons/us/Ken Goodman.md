@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 ## 简介
 
@@ -92,4 +92,4 @@ updated: 2026-10-15
 
 > [!warning] 争议与批评
 > - Goodman 的"心理语言学猜测游戏"模型被合成语音支持者批评为忽视了字母-声音对应关系在阅读发展中的关键作用
-> - [[Whole Language\|全语言]]在 Hattie（2009）的 *[[Visible Learning]]* 中被评为[[Effect Size\|效应量]] d=0.06（接近零效果），但 O'Connor（2020）论证这一评估基于方法论上存在缺陷的[[Meta-analysis\|元分析]]聚合
+> - [[Whole Language\|全语言]]在 Hattie（2009）的 *[[Visible Learning]]* 中被评为[[Effect Size\|效应量]] d=0.06（接近零效果），但 [[Argument_OConnor_2020_AJLL|O'Connor (2020)]]论证这一评估基于方法论上存在缺陷的[[Meta-analysis\|元分析]]聚合
