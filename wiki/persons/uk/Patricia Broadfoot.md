@@ -9,9 +9,9 @@ type: person
 nationality: uk
 person_region: "uk"
 person_related_count: 19
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1948"
 died: ""
 lifespan: "1948–至今"
@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Patricia Broadfoot

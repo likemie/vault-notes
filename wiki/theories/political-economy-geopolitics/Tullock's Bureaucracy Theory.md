@@ -7,9 +7,9 @@ summary: "官僚制作为信息处理金字塔，主权者面临的核心挑战�
 type: theory
 theory_field: "political-economy-geopolitics"
 theory_related_count: 19
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
 - tullock
 - bureaucracy
@@ -47,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 ## 核心主张

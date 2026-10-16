@@ -8,9 +8,9 @@ type: person
 nationality: "us"
 person_region: "us"
 person_related_count: 38
-person_related_level: 4
-person_related_stars: "⭐⭐⭐⭐"
-person_related_color: "#fce7f3"
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "1986"
 lifespan: "1986–至今"
 tags:
@@ -66,7 +66,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Michael Kratsios

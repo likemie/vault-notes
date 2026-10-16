@@ -8,9 +8,9 @@ summary: "源自古希腊教化与德国精神科学传统的品格陶成与自�
 type: concept
 domain: "educational-philosophy"
 related_count: 70
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 7
+related_stars: "💎💎⭐"
+related_color: "#ddd6fe"
 tags:
   - concept/bildung
   - theme/humanism

@@ -8,8 +8,8 @@ summary: "由安东涅蒂等开发的视觉创造力表现评定量表，通过�
 type: instrument
 instrument_type: scale
 instrument_related_count: 7
-instrument_related_level: 1
-instrument_related_stars: "⭐"
+instrument_related_level: 0
+instrument_related_stars: "☆"
 instrument_related_color: "#dcfce7"
 developers:
   - "Antonietti, A."

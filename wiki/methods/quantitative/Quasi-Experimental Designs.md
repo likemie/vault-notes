@@ -12,8 +12,8 @@ type: method
 method_type: quantitative
 method_family: "quantitative"
 method_related_count: 84
-method_related_level: 6
-method_related_stars: "⭐⭐⭐⭐⭐⭐"
+method_related_level: 8
+method_related_stars: "💎💎⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/quasi-experimental-design

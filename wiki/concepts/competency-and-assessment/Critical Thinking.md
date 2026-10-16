@@ -7,8 +7,8 @@ summary: "以理由权衡、有目的的反思判断和自我调节为核心，�
 type: concept
 domain: "competency-and-assessment"
 related_count: 120
-related_level: 6
-related_stars: "⭐⭐⭐⭐⭐⭐"
+related_level: 12
+related_stars: "💎💎💎💎"
 related_color: "#ddd6fe"
 tags:
   - theme/critical-thinking

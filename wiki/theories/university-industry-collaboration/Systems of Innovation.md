@@ -10,8 +10,8 @@ summary: "Freeman 与 Lundvall 等人发展的理论框架，将创新理解为�
 type: theory
 theory_field: "university-industry-collaboration"
 theory_related_count: 85
-theory_related_level: 6
-theory_related_stars: "⭐⭐⭐⭐⭐⭐"
+theory_related_level: 8
+theory_related_stars: "💎💎⭐⭐"
 theory_related_color: "#fef3c7"
 tags:
   - theme/innovation

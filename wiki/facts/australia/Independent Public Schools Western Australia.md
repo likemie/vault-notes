@@ -11,7 +11,7 @@ fact_region: "australia"
 fact_kind: "policy"
 fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
 issuing_organization: ''
 tags:
@@ -33,7 +33,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: '2026-05-18'
+updated: 2026-10-16
 ---
 ## 背景
 

@@ -7,8 +7,8 @@ summary: "用于测量个体对科学知识确定性与绝对真理假设的七�
 type: instrument
 instrument_type: scale
 instrument_related_count: 9
-instrument_related_level: 1
-instrument_related_stars: "⭐"
+instrument_related_level: 0
+instrument_related_stars: "☆"
 instrument_related_color: "#dcfce7"
 part_of: ""
 developers:

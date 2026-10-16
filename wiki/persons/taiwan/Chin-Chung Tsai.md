@@ -10,9 +10,9 @@ type: person
 nationality: taiwan
 person_region: "taiwan"
 person_related_count: 32
-person_related_level: 4
-person_related_stars: "⭐⭐⭐⭐"
-person_related_color: "#fce7f3"
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "1967"
 lifespan: "1967–至今"
 tags:
@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Chin-Chung Tsai

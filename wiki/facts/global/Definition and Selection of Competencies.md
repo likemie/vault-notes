@@ -12,8 +12,8 @@ region: global
 fact_region: "global"
 fact_kind: "program"
 fact_related_count: 27
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: 1997–2003
 initiator_organization: "[[OECD|经济合作与发展组织（OECD）]]"

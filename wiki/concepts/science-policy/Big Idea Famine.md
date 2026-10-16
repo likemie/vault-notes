@@ -9,7 +9,7 @@ type: concept
 domain: "science-policy"
 related_count: 39
 related_level: 3
-related_stars: "⭐⭐⭐"
+related_stars: "💎"
 related_color: "#fde68a"
 tags:
   - concept/science-policy
@@ -70,7 +70,7 @@ related_theories:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Big Idea Famine

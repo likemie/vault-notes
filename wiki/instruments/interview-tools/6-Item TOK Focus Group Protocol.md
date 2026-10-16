@@ -7,8 +7,8 @@ summary: "用于收集国际文凭知识论课程教师对课程目的、挑战�
 type: instrument
 instrument_type: interview-tool
 instrument_related_count: 10
-instrument_related_level: 2
-instrument_related_stars: "⭐⭐"
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#fce7f3"
 developers:
   - "[[Liz Bergeron|Bergeron, L.]]"

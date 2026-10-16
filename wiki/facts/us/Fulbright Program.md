@@ -12,7 +12,7 @@ fact_region: "us"
 fact_kind: "program"
 fact_related_count: 6
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
 tags:
   - fulbright-program
@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-29
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 
 # Fulbright Program

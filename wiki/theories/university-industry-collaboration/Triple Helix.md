@@ -9,8 +9,8 @@ summary: "Etzkowitz 与 Leydesdorff 于 1995 年提出的创新系统理论，�
 type: theory
 theory_field: "university-industry-collaboration"
 theory_related_count: 73
-theory_related_level: 6
-theory_related_stars: "⭐⭐⭐⭐⭐⭐"
+theory_related_level: 7
+theory_related_stars: "💎💎⭐"
 theory_related_color: "#fef3c7"
 domain: "university-industry-collaboration"
 tags:

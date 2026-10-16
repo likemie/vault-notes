@@ -8,9 +8,9 @@ type: person
 nationality: uk
 person_region: "uk"
 person_related_count: 33
-person_related_level: 4
-person_related_stars: "⭐⭐⭐⭐"
-person_related_color: "#fce7f3"
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "c. 1950"
 died: ""
 lifespan: "c. 1950–至今"

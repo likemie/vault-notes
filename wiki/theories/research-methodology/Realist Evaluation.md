@@ -15,9 +15,9 @@ summary: "由 Ray Pawson 与 Nick Tilley 创立并经 Bonell 等人发展的科�
 type: theory
 theory_field: "research-methodology"
 theory_related_count: 49
-theory_related_level: 5
-theory_related_stars: "⭐⭐⭐⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theory/evaluation
   - method/evaluation

@@ -7,8 +7,8 @@ summary: "Cole et al. (2015) 开发的半结构化访谈与焦点小组工具，
 type: instrument
 instrument_type: interview-tool
 instrument_related_count: 10
-instrument_related_level: 2
-instrument_related_stars: "⭐⭐"
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#fce7f3"
 developers:
   - "Cole, D. R."
@@ -44,7 +44,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-01
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # ToK Interview and Focus Group Protocol

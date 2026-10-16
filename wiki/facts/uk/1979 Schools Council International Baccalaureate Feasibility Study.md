@@ -12,7 +12,7 @@ fact_region: "uk"
 fact_kind: "program"
 fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
 period: 1979–1980
 initiator_organization: Schools Council
@@ -32,7 +32,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-04
+updated: 2026-10-16
 ---
 # 1979 Schools Council International Baccalaureate Feasibility Study
 

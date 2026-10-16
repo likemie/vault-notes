@@ -10,8 +10,8 @@ summary: "由罗伯特·皮安塔等人开发的高推论课堂外部观察评�
 type: instrument
 instrument_type: observation-tool
 instrument_related_count: 11
-instrument_related_level: 2
-instrument_related_stars: "⭐⭐"
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#cffafe"
 part_of: ""
 developers:
@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Classroom Assessment Scoring System

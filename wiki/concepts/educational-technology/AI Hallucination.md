@@ -12,7 +12,7 @@ type: concept
 domain: "educational-technology"
 related_count: 52
 related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
+related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
 tags:
   - field/educational-technology

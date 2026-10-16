@@ -8,9 +8,9 @@ summary: "人类认知由独立的非言语视觉表象与言语符号双通道�
 type: theory
 theory_field: "learning-science-cognitive-science"
 theory_related_count: 17
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - theme/cognition
   - cognition/learning-science

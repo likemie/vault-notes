@@ -10,9 +10,9 @@ summary: "Toulmin 提出的领域依赖论证结构模型，将论证拆解为�
 type: theory
 theory_field: "argumentation-and-logic"
 theory_related_count: 19
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - theme/argumentation
   - theme/critical-thinking

@@ -9,8 +9,8 @@ summary: "由美国州立学校首席官员理事会（CCSSO/InTASC）与ETS合�
 type: instrument
 instrument_type: test
 instrument_related_count: 18
-instrument_related_level: 3
-instrument_related_stars: "⭐⭐⭐"
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#dbeafe"
 part_of: "[[InTASC Standards]]"
 developers:
@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-28
-updated: 2026-09-26
+updated: 2026-10-16
 ---
 
 # Test of Teaching Knowledge

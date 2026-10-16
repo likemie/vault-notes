@@ -11,8 +11,8 @@ region: uk
 fact_region: "uk"
 fact_kind: "policy"
 fact_related_count: 16
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "Scottish Government"
 tags:
@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Pupil Equity Funding

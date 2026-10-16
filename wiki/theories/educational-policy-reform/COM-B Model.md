@@ -10,9 +10,9 @@ summary: "由苏珊·米奇等提出的行为系统理论模型，认为行为�
 type: theory
 theory_field: "educational-policy-reform"
 theory_related_count: 32
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_level: 3
+theory_related_stars: "💎"
+theory_related_color: "#ede9fe"
 tags:
   - behavioral-science
   - knowledge-mobilisation

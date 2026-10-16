@@ -8,9 +8,9 @@ summary: "以相对风险规避为核心机制解释不同阶层教育选择差�
 type: theory
 theory_field: "sociology-of-education"
 theory_related_count: 38
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_level: 3
+theory_related_stars: "💎"
+theory_related_color: "#ede9fe"
 tags:
   - rational-action-theory
   - social-stratification

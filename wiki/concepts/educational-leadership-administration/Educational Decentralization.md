@@ -11,7 +11,7 @@ type: concept
 domain: "educational-leadership-administration"
 related_count: 36
 related_level: 3
-related_stars: "⭐⭐⭐"
+related_stars: "💎"
 related_color: "#fde68a"
 tags:
   - concept

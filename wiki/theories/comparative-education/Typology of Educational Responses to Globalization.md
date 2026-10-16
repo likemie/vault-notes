@@ -10,9 +10,9 @@ summary: "拉斯特等人提出的全球化教育响应四分批判分析框架�
 type: theory
 theory_field: "comparative-education"
 theory_related_count: 38
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_level: 3
+theory_related_stars: "💎"
+theory_related_color: "#ede9fe"
 tags:
   - subject/comparative-education
   - theory/globalization
@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-29
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Typology of Educational Responses to Globalization

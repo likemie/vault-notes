@@ -12,7 +12,7 @@ type: concept
 domain: "learning-science-cognitive-science"
 related_count: 50
 related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
+related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
 tags:
   - theme/cognitive-load

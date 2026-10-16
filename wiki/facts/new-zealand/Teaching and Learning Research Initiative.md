@@ -11,8 +11,8 @@ region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "program"
 fact_related_count: 19
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "2003 年至今"
 initiator_organization: "新西兰政府（New Zealand Government）/ 新西兰教育部"
@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-05
+updated: 2026-10-16
 ---
 
 # Teaching and Learning Research Initiative

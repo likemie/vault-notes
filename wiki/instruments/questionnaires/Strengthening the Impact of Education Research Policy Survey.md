@@ -9,9 +9,9 @@ summary: "OECD 教育研究与创新中心（CERI）在 SIER 项目下开发的�
 type: instrument
 instrument_type: questionnaire
 instrument_related_count: 31
-instrument_related_level: 6
-instrument_related_stars: "⭐⭐⭐⭐⭐⭐"
-instrument_related_color: "#fecdd3"
+instrument_related_level: 3
+instrument_related_stars: "💎"
+instrument_related_color: "#fef3c7"
 part_of: "[[Strengthening the Impact of Education Research Project]]"
 developers:
   - "[[Centre for Educational Research and Innovation|CERI]]"

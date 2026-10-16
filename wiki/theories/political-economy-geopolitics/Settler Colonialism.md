@@ -8,7 +8,7 @@ type: theory
 theory_field: "political-economy-geopolitics"
 theory_related_count: 7
 theory_related_level: 0
-theory_related_stars: ""
+theory_related_stars: "☆"
 theory_related_color: "#e5e7eb"
 domain: "political-economy-geopolitics"
 related_count: 5
@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Settler Colonialism

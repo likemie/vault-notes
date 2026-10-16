@@ -9,8 +9,8 @@ summary: "由保罗·拉姆斯登（Paul Ramsden）开创、澳大利亚教育�
 type: instrument
 instrument_type: questionnaire
 instrument_related_count: 9
-instrument_related_level: 1
-instrument_related_stars: "⭐"
+instrument_related_level: 0
+instrument_related_stars: "☆"
 instrument_related_color: "#fef3c7"
 part_of: ""
 developers:
@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-09-11
+updated: 2026-10-16
 ---
 
 # Course Experience Questionnaire

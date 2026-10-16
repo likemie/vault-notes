@@ -11,8 +11,8 @@ region: us
 fact_region: "us"
 fact_kind: "organization"
 fact_related_count: 19
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: 联邦颠覆性生物医药研发资助机构
 headquarters: 美国马里兰州贝塞斯达与得克萨斯州达拉斯（Bethesda, Maryland & Dallas, Texas）
@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # ARPA-H

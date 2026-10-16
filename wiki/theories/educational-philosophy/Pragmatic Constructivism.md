@@ -8,9 +8,9 @@ summary: "由 Rauste-von Wright 提出，将杜威的反思概念与米德的社
 type: theory
 theory_field: "educational-philosophy"
 theory_related_count: 16
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - constructivism
   - pragmatism

@@ -12,8 +12,8 @@ region: us
 fact_region: "us"
 fact_kind: "policy"
 fact_related_count: 8
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
 issuing_organization: "美国联邦教育部高等教育未来委员会"
 tags:
@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-09-07
+updated: 2026-10-16
 ---
 
 # Spellings Report

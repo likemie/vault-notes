@@ -10,9 +10,9 @@ summary: "由卡罗尔·韦斯开创并经公共政策与教育研究发展的�
 type: theory
 theory_field: "educational-policy-reform"
 theory_related_count: 54
-theory_related_level: 6
-theory_related_stars: "⭐⭐⭐⭐⭐⭐"
-theory_related_color: "#fef3c7"
+theory_related_level: 5
+theory_related_stars: "💎⭐⭐"
+theory_related_color: "#ffedd5"
 tags:
   - field/educational-policy-reform
   - theme/research-use

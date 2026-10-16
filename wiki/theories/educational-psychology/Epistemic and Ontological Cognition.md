@@ -8,9 +8,9 @@ summary: "一种整合个人认识论发展阶段论与多维信念系统论的�
 type: theory
 theory_field: "educational-psychology"
 theory_related_count: 16
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags: []
 related_concepts:
   - "[[Epistemology]]"
@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-15
-updated: 2026-09-24
+updated: 2026-10-16
 ---
 
 # Epistemic and Ontological Cognition

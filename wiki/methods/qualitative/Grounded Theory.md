@@ -11,7 +11,7 @@ method_type: qualitative
 method_family: "qualitative"
 method_related_count: 61
 method_related_level: 6
-method_related_stars: "⭐⭐⭐⭐⭐⭐"
+method_related_stars: "💎💎"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative

@@ -10,9 +10,9 @@ summary: "由 Alvin Goldman 于 1976 年提出的外部主义认识论理论，�
 type: theory
 theory_field: "educational-philosophy"
 theory_related_count: 27
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory/epistemology
   - paradigm/analytic
@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Goldman's Discrimination Theory of Knowledge

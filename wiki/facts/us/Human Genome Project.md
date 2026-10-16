@@ -10,8 +10,8 @@ region: us
 fact_region: "us"
 fact_kind: "program"
 fact_related_count: 17
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "1990–2003年（最初预算酝酿于1988年）"
 initiator_organization: "美国国立卫生研究院（NIH）与美国能源部（DOE）"

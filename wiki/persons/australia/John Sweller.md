@@ -7,9 +7,9 @@ type: person
 nationality: australia
 person_region: "australia"
 person_related_count: 32
-person_related_level: 4
-person_related_stars: "⭐⭐⭐⭐"
-person_related_color: "#fce7f3"
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "1946"
 died: ""
 lifespan: "1946–至今"

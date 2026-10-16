@@ -15,8 +15,8 @@ region: us
 fact_region: "us"
 fact_kind: "policy"
 fact_related_count: 26
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "Case, Tiffany and Company / E. Steiger"
 tags:

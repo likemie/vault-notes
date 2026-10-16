@@ -11,8 +11,8 @@ summary: "英国杜伦大学学者斯蒂芬·戈拉德研发的因果研究质�
 type: instrument
 instrument_type: checklist
 instrument_related_count: 16
-instrument_related_level: 3
-instrument_related_stars: "⭐⭐⭐"
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#e5e7eb"
 part_of: ""
 developers:
@@ -108,4 +108,4 @@ updated: 2026-10-16
 ## 使用该工具的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Gorard_2020_ROE\|Gorard et al. (2020)]] — 以戈拉德可信度筛子甄别 323 项文献，仅 33 项达到最低因果设计标准，高可信度研究寥寥无几，揭示证据利用领域的因果证据赤字。
+> - [[Argument_Gorard_2020_ROE\|Gorard et al. (2020)]] — 以戈拉德可[[Reliability|信度]]筛子甄别 323 项文献，仅 33 项达到最低因果设计标准，高可信度研究寥寥无几，揭示证据利用领域的因果证据赤字。

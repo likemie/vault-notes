@@ -719,7 +719,7 @@ Total entries: **801**
 > [!index-list]- Event (3)
 > - [[Akademgorodok]] — 1950年代末赫鲁晓夫效仿美国大学校园模式在新西伯利亚建造的苏联科学城，旨在打破垂直行政壁垒、营造产学研协同的创新环境，但最终在勃列日涅夫时代被重新纳入官僚化和意识形态保守的体制
 > - [[Lysenkoism]] — 1930至1960年代在斯大林支持下由 Trofim Lysenko 主导的苏联生物学和农业科学运动，以意识形态正统名义否定孟德尔遗传学，导致苏联生物学研究长期陷入谬误，是苏联科学意识形态化的标志性事件
-> - [[Russian Translation of Visible Learning]] — Hattie Visible Learning 的俄文译本出版事件，引发俄语教育学界围绕VL方法论和本土适用性的讨论
+> - [[Russian Translation of Visible Learning]] — 2017年Hattie《可见的学习》俄文版由国民教育出版社出版，引发俄语教育学界围绕循证评价、批判性思维与政策借用风险的深度论战
 
 > [!index-list]- Policy (4)
 > - [[Consolidation of Russian State Science Funds]] — 俄罗斯政府在2016至2021年间主导的国家科研资助体系重组，通过将人文科学基金、基础研究基金合并至俄罗斯科学基金，形成了单一国家机构垄断的资助格局。

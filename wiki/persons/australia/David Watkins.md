@@ -9,9 +9,9 @@ type: person
 nationality: australia
 person_region: "australia"
 person_related_count: 9
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "c. 1944"
 died: ""
 lifespan: "c. 1944–至今"

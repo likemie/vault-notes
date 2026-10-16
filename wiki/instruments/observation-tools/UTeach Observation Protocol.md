@@ -9,8 +9,8 @@ summary: "由德克萨斯大学奥斯汀分校UTeach项目团队研发的针对�
 type: instrument
 instrument_type: observation-tool
 instrument_related_count: 17
-instrument_related_level: 3
-instrument_related_stars: "⭐⭐⭐"
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#cffafe"
 part_of: ""
 developers:

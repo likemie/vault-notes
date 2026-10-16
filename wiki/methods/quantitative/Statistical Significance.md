@@ -7,8 +7,8 @@ type: method
 method_type: quantitative
 method_family: "quantitative"
 method_related_count: 24
-method_related_level: 3
-method_related_stars: "⭐⭐⭐"
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 tags:
 - statistical-significance
@@ -49,7 +49,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 ## 定义

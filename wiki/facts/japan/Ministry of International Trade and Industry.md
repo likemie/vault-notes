@@ -6,9 +6,9 @@ region: japan
 fact_region: "japan"
 fact_kind: "organization"
 fact_related_count: 41
-fact_related_level: 5
-fact_related_stars: "⭐⭐⭐⭐⭐"
-fact_related_color: "#fecdd3"
+fact_related_level: 4
+fact_related_stars: "💎⭐"
+fact_related_color: "#dcfce7"
 org_type: 国家内阁核心经济与产业科技管理部委
 headquarters: 日本东京（Tokyo, Japan）
 established: "1949"

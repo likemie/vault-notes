@@ -14,8 +14,8 @@ region: us
 fact_region: "us"
 fact_kind: "policy"
 fact_related_count: 18
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "Ohio General Assembly"
 tags:
@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Report on Elementary Public Instruction in Europe

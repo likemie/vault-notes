@@ -10,9 +10,9 @@ type: person
 nationality: uk
 person_region: "uk"
 person_related_count: 18
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1925"
 died: "2011"
 lifespan: "1925–2011"
@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # John Rex

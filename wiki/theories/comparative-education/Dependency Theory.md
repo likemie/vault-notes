@@ -9,9 +9,9 @@ summary: "兴起于拉丁美洲并拓展至比较教育的新马克思主义批�
 type: theory
 theory_field: "comparative-education"
 theory_related_count: 59
-theory_related_level: 6
-theory_related_stars: "⭐⭐⭐⭐⭐⭐"
-theory_related_color: "#fef3c7"
+theory_related_level: 5
+theory_related_stars: "💎⭐⭐"
+theory_related_color: "#ffedd5"
 tags:
   - theory/dependency
   - subject/comparative-education

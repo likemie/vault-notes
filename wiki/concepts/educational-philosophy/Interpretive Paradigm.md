@@ -13,7 +13,7 @@ type: concept
 domain: "educational-philosophy"
 related_count: 59
 related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
+related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
 tags:
   - paradigm/interpretive
@@ -251,4 +251,4 @@ updated: 2026-10-16
 > | [[Indexicality]] | 概念 | 揭示社会[[Discourse\|话语]]与行为意义对特定时空与历时性交往历史的不可剥离附着性。 |
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 15)]] — 对照诠释与规范范式，介绍 Burrell and Morgan 框架与草莓事件（Box 1.5）；自然主义探究的 11 项公理与 emic/etic 区分见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|Ch. 11]]。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 15)]] — 对照诠释与[[Normative Paradigm|规范范式]]，介绍 Burrell and Morgan 框架与草莓事件（Box 1.5）；自然主义探究的 11 项公理与 emic/etic 区分见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11\|Ch. 11]]。

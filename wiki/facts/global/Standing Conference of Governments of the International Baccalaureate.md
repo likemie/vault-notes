@@ -11,7 +11,7 @@ fact_region: "global"
 fact_kind: "organization"
 fact_related_count: 6
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
 org_type: intergovernmental conference
 headquarters: ""
@@ -33,7 +33,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-10
+updated: 2026-10-16
 ---
 # Standing Conference of Governments of the International Baccalaureate
 

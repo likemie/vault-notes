@@ -9,9 +9,9 @@ type: person
 nationality: germany
 person_region: "germany"
 person_related_count: 37
-person_related_level: 4
-person_related_stars: "⭐⭐⭐⭐"
-person_related_color: "#fce7f3"
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "1927"
 died: "1998"
 lifespan: "1927–1998"

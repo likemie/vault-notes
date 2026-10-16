@@ -13,7 +13,7 @@ fact_region: "uk"
 fact_kind: "policy"
 fact_related_count: 6
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
 issuing_organization: The Royal Society, EngineeringUK
 tags:
@@ -34,7 +34,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # UK Science Education Tracker

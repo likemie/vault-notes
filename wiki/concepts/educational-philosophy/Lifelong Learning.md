@@ -8,9 +8,9 @@ summary: "指贯穿个体全生命周期的持续性、适应性与累积性学�
 type: concept
 domain: "educational-philosophy"
 related_count: 67
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - theme/curriculum
   - theme/educational-reform

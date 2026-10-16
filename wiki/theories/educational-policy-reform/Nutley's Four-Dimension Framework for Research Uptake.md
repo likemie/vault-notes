@@ -8,9 +8,9 @@ summary: "由英国公共政策学者桑德拉·纳特利等于 2002 年提出�
 type: theory
 theory_field: "educational-policy-reform"
 theory_related_count: 19
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - theory
   - level/macro-policy

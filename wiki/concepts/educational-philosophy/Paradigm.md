@@ -10,7 +10,7 @@ type: concept
 domain: "educational-philosophy"
 related_count: 51
 related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
+related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
 tags:
   - theme/epistemology

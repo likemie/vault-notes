@@ -11,7 +11,7 @@ type: theory
 theory_field: "learning-science-cognitive-science"
 theory_related_count: 30
 theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
+theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
 tags:
   - theme/adult-learning
@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Transformative Learning Theory

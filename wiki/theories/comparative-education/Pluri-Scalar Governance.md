@@ -10,9 +10,9 @@ summary: "罗伯逊、博纳尔与戴尔开创的教育全球化批判性空间�
 type: theory
 theory_field: "comparative-education"
 theory_related_count: 34
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_level: 3
+theory_related_stars: "💎"
+theory_related_color: "#ede9fe"
 tags:
   - theory/governance
   - comparative-education

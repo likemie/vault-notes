@@ -12,8 +12,8 @@ region: eu
 fact_region: "eu"
 fact_kind: "policy"
 fact_related_count: 37
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
 issuing_organization: "欧洲议会与欧盟理事会（European Parliament and Council of the European Union）"
 start_year: "2021"

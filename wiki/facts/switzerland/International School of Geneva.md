@@ -11,8 +11,8 @@ region: switzerland
 fact_region: "switzerland"
 fact_kind: "organization"
 fact_related_count: 16
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 tags:
   - region/switzerland

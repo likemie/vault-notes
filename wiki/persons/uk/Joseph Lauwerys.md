@@ -9,7 +9,7 @@ nationality: uk
 person_region: "uk"
 person_related_count: 31
 person_related_level: 3
-person_related_stars: "⭐⭐⭐"
+person_related_stars: "💎"
 person_related_color: "#ede9fe"
 born: "1902"
 died: "1981"
@@ -58,7 +58,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-08
-updated: 2026-10-05
+updated: 2026-10-16
 ---
 
 # Joseph Lauwerys

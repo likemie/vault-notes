@@ -10,7 +10,7 @@ nationality: sweden
 person_region: "sweden"
 person_related_count: 30
 person_related_level: 3
-person_related_stars: "⭐⭐⭐"
+person_related_stars: "💎"
 person_related_color: "#ede9fe"
 born: "1916"
 died: "2009"
@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-08
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Torsten Husén

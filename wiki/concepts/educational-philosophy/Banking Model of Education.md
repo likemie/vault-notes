@@ -12,7 +12,7 @@ type: concept
 domain: "educational-philosophy"
 related_count: 50
 related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
+related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
 tags:
   - field/educational-philosophy
@@ -80,7 +80,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-25
-updated: 2026-09-24
+updated: 2026-10-16
 ---
 
 # Banking Model of Education

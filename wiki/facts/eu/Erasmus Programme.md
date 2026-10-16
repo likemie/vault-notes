@@ -13,8 +13,8 @@ region: eu
 fact_region: "eu"
 fact_kind: "program"
 fact_related_count: 28
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "1987–至今"
 issuing_organization: "欧洲联盟委员会（European Commission）"

@@ -11,9 +11,9 @@ summary: "以学习者自主生成新知、依托经验证据推论、行使认�
 type: concept
 domain: "instruction-pedagogy"
 related_count: 62
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - concept/pedagogy
   - theme/science-education

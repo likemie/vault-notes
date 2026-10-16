@@ -12,8 +12,8 @@ region: us
 fact_region: "us"
 fact_kind: "program"
 fact_related_count: 18
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "2018–至今"
 initiator_organization: "罗格斯大学与 Apprendis 研发团队（Janice Gobert 领衔，获 NSF 资助）"
@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Inq-Blotter

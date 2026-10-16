@@ -11,9 +11,9 @@ type: person
 nationality: "netherlands"
 person_region: "netherlands"
 person_related_count: 19
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1945"
 died: ""
 lifespan: "1945–至今"
@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Wim Deetman

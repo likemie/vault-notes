@@ -4,9 +4,9 @@ summary: "Deanna Kuhn提出的考察个体在日常推理中如何评估专家�
 type: theory
 theory_field: "educational-psychology"
 theory_related_count: 8
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_level: 0
+theory_related_stars: "☆"
+theory_related_color: "#e5e7eb"
 aliases:
   - "论辩推理"
 tags:
@@ -28,7 +28,7 @@ related_arguments:
   - "[[Argument_Hofer_1997_RER]]"
 status: active
 created: 2026-08-13
-updated: 2026-08-16
+updated: 2026-10-16
 ---
 
 # Argumentative Reasoning

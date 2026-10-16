@@ -15,7 +15,7 @@ fact_region: "netherlands"
 fact_kind: "policy"
 fact_related_count: 6
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
 issuing_organization: "Dutch Ministry of Education and Sciences"
 tags:
@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-12
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Higher Education and Research Plan

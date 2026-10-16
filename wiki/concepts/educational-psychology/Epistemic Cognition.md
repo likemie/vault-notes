@@ -6,9 +6,9 @@ summary: "涵盖个体关于知识和认知过程的所有显性或隐性信念�
 type: concept
 domain: "educational-psychology"
 related_count: 78
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 7
+related_stars: "💎💎⭐"
+related_color: "#ddd6fe"
 tags: []
 related_concepts:
   - "[[Epistemology]]"

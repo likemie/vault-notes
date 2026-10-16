@@ -15,8 +15,8 @@ region: global
 fact_region: "global"
 fact_kind: "policy"
 fact_related_count: 56
-fact_related_level: 6
-fact_related_stars: "⭐⭐⭐⭐⭐⭐"
+fact_related_level: 5
+fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
 issuing_organization: "United Nations"
 tags:

@@ -10,9 +10,9 @@ summary: "英国教育捐赠基金会（EEF）研发的因果证据质量与偏�
 type: instrument
 instrument_type: checklist
 instrument_related_count: 25
-instrument_related_level: 6
-instrument_related_stars: "⭐⭐⭐⭐⭐⭐"
-instrument_related_color: "#fecdd3"
+instrument_related_level: 2
+instrument_related_stars: "⭐⭐"
+instrument_related_color: "#e5e7eb"
 part_of: ""
 developers:
   - "The Education Endowment Foundation"

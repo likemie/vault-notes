@@ -10,9 +10,9 @@ summary: "大学研究成果与前沿工业创新转化为商业应用与产业�
 type: concept
 domain: "university-industry-collaboration"
 related_count: 66
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - theme/technology-transfer
   - level/higher-education

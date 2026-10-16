@@ -10,7 +10,7 @@ nationality: china
 person_region: "china"
 person_related_count: 5
 person_related_level: 0
-person_related_stars: ""
+person_related_stars: "☆"
 person_related_color: "#e5e7eb"
 born: "c. 369 BCE"
 died: "286 BCE"
@@ -30,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-09-11
+updated: 2026-10-16
 ---
 # Zhuangzi
 

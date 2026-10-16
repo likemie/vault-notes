@@ -9,9 +9,9 @@ summary: "万尼瓦尔·布什在1945年布什报告中提出的科学政策基�
 type: theory
 theory_field: "science-policy"
 theory_related_count: 24
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theme/science-policy
   - theme/innovation
@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Pool of Knowledge

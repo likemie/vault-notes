@@ -12,7 +12,7 @@ fact_region: "us"
 fact_kind: "organization"
 fact_related_count: 7
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
 org_type: 战时大学托管国防研发实验室
 headquarters: 美国马萨诸塞州剑桥（Cambridge, Massachusetts, USA）
@@ -36,7 +36,7 @@ related_concepts:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # MIT Radiation Laboratory

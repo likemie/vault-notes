@@ -10,7 +10,7 @@ nationality: us
 person_region: "us"
 person_related_count: 7
 person_related_level: 0
-person_related_stars: ""
+person_related_stars: "☆"
 person_related_color: "#e5e7eb"
 born: "1916"
 died: "2014"
@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-09-11
+updated: 2026-10-16
 ---
 # Julian B. Rotter
 

@@ -11,8 +11,8 @@ region: austria
 fact_region: "austria"
 fact_kind: "program"
 fact_related_count: 8
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
 issuing_organization: "奥地利联邦教育、科学与研究部（BMBWF）"
 tags:
@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-08-27
+updated: 2026-10-16
 ---
 
 # New Teacher Education Scheme

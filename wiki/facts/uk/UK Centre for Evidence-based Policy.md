@@ -10,7 +10,7 @@ fact_region: "uk"
 fact_kind: "organization"
 fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
 tags:
   - region/uk
@@ -27,7 +27,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-14
-updated: 2026-09-15
+updated: 2026-10-16
 ---
 
 # UK Centre for Evidence-based Policy

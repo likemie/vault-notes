@@ -10,8 +10,8 @@ summary: "一种主张真正知识唯独建立在感官经验、观察与实验�
 type: concept
 domain: "educational-philosophy"
 related_count: 122
-related_level: 6
-related_stars: "⭐⭐⭐⭐⭐⭐"
+related_level: 12
+related_stars: "💎💎💎💎"
 related_color: "#ddd6fe"
 tags:
   - paradigm/positivism

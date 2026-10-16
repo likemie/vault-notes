@@ -13,7 +13,7 @@ fact_region: "us"
 fact_kind: "policy"
 fact_related_count: 6
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
 issuing_organization: 美国司法部（U.S. Department of Justice）
 tags:
@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 
 # 1956 IBM Consent Decree

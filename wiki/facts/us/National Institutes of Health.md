@@ -12,9 +12,9 @@ region: us
 fact_region: "us"
 fact_kind: "organization"
 fact_related_count: 43
-fact_related_level: 5
-fact_related_stars: "⭐⭐⭐⭐⭐"
-fact_related_color: "#fecdd3"
+fact_related_level: 4
+fact_related_stars: "💎⭐"
+fact_related_color: "#dcfce7"
 org_type: 联邦生物医学与公共健康科研机构
 headquarters: 美国马里兰州贝塞斯达（Bethesda, Maryland）
 established: "1887"

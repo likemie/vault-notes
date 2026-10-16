@@ -9,9 +9,9 @@ summary: "基于因果分析解释一整套干预措施为何及如何达成特�
 type: theory
 theory_field: "educational-policy-reform"
 theory_related_count: 53
-theory_related_level: 6
-theory_related_stars: "⭐⭐⭐⭐⭐⭐"
-theory_related_color: "#fef3c7"
+theory_related_level: 5
+theory_related_stars: "💎⭐⭐"
+theory_related_color: "#ffedd5"
 tags:
   - theory-of-change
   - program-evaluation

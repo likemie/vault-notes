@@ -9,8 +9,8 @@ type: method
 method_type: quantitative
 method_family: "quantitative"
 method_related_count: 44
-method_related_level: 5
-method_related_stars: "⭐⭐⭐⭐⭐"
+method_related_level: 4
+method_related_stars: "💎⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/intent-to-treat-analysis

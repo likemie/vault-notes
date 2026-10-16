@@ -9,9 +9,9 @@ type: person
 nationality: china
 person_region: "china"
 person_related_count: 39
-person_related_level: 4
-person_related_stars: "⭐⭐⭐⭐"
-person_related_color: "#fce7f3"
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "551 BCE"
 died: "479 BCE"
 lifespan: "551 BCE – 479 BCE"

@@ -13,9 +13,9 @@ summary: "托马斯·谢林奠基的战略博弈与强制议价理论，主张�
 type: theory
 theory_field: "political-economy-geopolitics"
 theory_related_count: 29
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 domain: "political-economy-geopolitics"
 related_count: 22
 related_level: 2
@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-07
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Strategic Bargaining Theory

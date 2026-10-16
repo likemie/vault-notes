@@ -11,9 +11,9 @@ type: person
 nationality: us
 person_region: "us"
 person_related_count: 40
-person_related_level: 5
-person_related_stars: "⭐⭐⭐⭐⭐"
-person_related_color: "#ffedd5"
+person_related_level: 4
+person_related_stars: "💎⭐"
+person_related_color: "#fce7f3"
 born: "1904"
 died: "1967"
 lifespan: "1904–1967"

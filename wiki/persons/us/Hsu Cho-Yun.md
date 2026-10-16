@@ -9,7 +9,7 @@ nationality: us
 person_region: "us"
 person_related_count: 7
 person_related_level: 0
-person_related_stars: ""
+person_related_stars: "☆"
 person_related_color: "#e5e7eb"
 born: "1930"
 died: ""
@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-26'
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 
 # Hsu Cho-Yun

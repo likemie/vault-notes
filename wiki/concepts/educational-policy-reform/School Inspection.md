@@ -10,9 +10,9 @@ summary: "由国家或地方政府授权的外部独立机构对学校教育教�
 type: concept
 domain: "educational-policy-reform"
 related_count: 65
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - theme/educational-governance
   - theme/accountability

@@ -10,8 +10,8 @@ region: us
 fact_region: "us"
 fact_kind: "organization"
 fact_related_count: 24
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: 产业前竞争共性技术研发联合体（公私协同）
 headquarters: 美国加利福尼亚州圣克拉拉（Santa Clara, California）

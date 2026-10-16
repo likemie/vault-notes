@@ -10,7 +10,7 @@ nationality: uk
 person_region: "uk"
 person_related_count: 60
 person_related_level: 6
-person_related_stars: "⭐⭐⭐⭐⭐⭐"
+person_related_stars: "💎💎"
 person_related_color: "#fef3c7"
 born: "1861"
 died: "1943"

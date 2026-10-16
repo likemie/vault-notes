@@ -11,9 +11,9 @@ summary: "18世纪欧洲以理性批判、经验科学、世俗化与普遍人�
 type: concept
 domain: "educational-philosophy"
 related_count: 62
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - theme/enlightenment
   - theme/modernity

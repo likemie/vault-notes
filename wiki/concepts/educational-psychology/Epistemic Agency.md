@@ -8,9 +8,9 @@ summary: "学习者在知识建构、标准评估与探究决策中作为认知�
 type: concept
 domain: "educational-psychology"
 related_count: 73
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 7
+related_stars: "💎💎⭐"
+related_color: "#ddd6fe"
 tags:
   - theme/epistemic-cognition
   - theme/science-education

@@ -11,9 +11,9 @@ summary: "斯坦福学派新制度主义社会学理论，将全球大众教育�
 type: theory
 theory_field: "comparative-education"
 theory_related_count: 43
-theory_related_level: 5
-theory_related_stars: "⭐⭐⭐⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 tags:
   - region/global
   - paradigm/globalization

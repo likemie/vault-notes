@@ -12,9 +12,9 @@ summary: "驱动国家科技战略、大学治理变革与劳动力技能重塑�
 type: concept
 domain: "university-industry-collaboration"
 related_count: 82
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 8
+related_stars: "💎💎⭐⭐"
+related_color: "#ddd6fe"
 tags:
   - concept/university-industry-collaboration
   - competitiveness

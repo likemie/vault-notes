@@ -14,7 +14,7 @@ type: concept
 domain: "university-industry-collaboration"
 related_count: 45
 related_level: 4
-related_stars: "⭐⭐⭐⭐"
+related_stars: "💎⭐"
 related_color: "#fdba74"
 tags:
   - theme/university-industry-collaboration

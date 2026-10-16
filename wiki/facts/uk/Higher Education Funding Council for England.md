@@ -11,8 +11,8 @@ region: uk
 fact_region: "uk"
 fact_kind: "organization"
 fact_related_count: 8
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
 issuing_organization: "Higher Education Funding Council for England"
 tags:
@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Higher Education Funding Council for England

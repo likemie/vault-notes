@@ -11,7 +11,7 @@ type: concept
 domain: "learning-science-cognitive-science"
 related_count: 54
 related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
+related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
 tags:
   - learning-science

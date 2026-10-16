@@ -10,8 +10,8 @@ summary: "由希瑟·希尔等人研发的针对中小学数学教学的专门�
 type: instrument
 instrument_type: observation-tool
 instrument_related_count: 10
-instrument_related_level: 2
-instrument_related_stars: "⭐⭐"
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#cffafe"
 part_of: ""
 developers:
@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Mathematical Quality of Instruction

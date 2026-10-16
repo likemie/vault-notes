@@ -10,8 +10,8 @@ summary: "由美国援助教育理事会开发的标准化表现性评价工具�
 type: instrument
 instrument_type: test
 instrument_related_count: 14
-instrument_related_level: 2
-instrument_related_stars: "⭐⭐"
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#dbeafe"
 part_of: ""
 developers:
@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Collegiate Learning Assessment

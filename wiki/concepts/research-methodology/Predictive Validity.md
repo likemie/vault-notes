@@ -10,7 +10,7 @@ type: concept
 domain: "research-methodology"
 related_count: 52
 related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
+related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
 tags:
   - method/research-methods

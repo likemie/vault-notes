@@ -8,9 +8,9 @@ type: person
 nationality: us
 person_region: "us"
 person_related_count: 27
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1906"
 died: "1975"
 lifespan: "1906–1975"

@@ -9,8 +9,8 @@ type: method
 method_type: qualitative
 method_family: "qualitative"
 method_related_count: 17
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dbeafe"
 tags:
   - "method/website-analysis"

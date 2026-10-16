@@ -12,9 +12,9 @@ summary: "比较教育政治社会学与依附论视阈下的国家理论，主�
 type: theory
 theory_field: "comparative-education"
 theory_related_count: 37
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_level: 3
+theory_related_stars: "💎"
+theory_related_color: "#ede9fe"
 tags:
   - theory/comparative-education
   - theory/state

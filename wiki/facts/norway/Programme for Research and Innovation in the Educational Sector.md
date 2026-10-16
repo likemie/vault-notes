@@ -11,8 +11,8 @@ region: norway
 fact_region: "norway"
 fact_kind: "program"
 fact_related_count: 25
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2014–2023 年"
 initiator_organization: "挪威研究理事会（Research Council of Norway）"
@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-02
+updated: 2026-10-16
 ---
 
 # Programme for Research and Innovation in the Educational Sector

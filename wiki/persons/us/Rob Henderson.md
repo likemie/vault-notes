@@ -10,7 +10,7 @@ nationality: us
 person_region: "us"
 person_related_count: 7
 person_related_level: 0
-person_related_stars: ""
+person_related_stars: "☆"
 person_related_color: "#e5e7eb"
 born: "1990"
 lifespan: "1990–至今"
@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Rob Henderson

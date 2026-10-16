@@ -13,8 +13,8 @@ region: spain
 fact_region: "spain"
 fact_kind: "policy"
 fact_related_count: 18
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: 西班牙教育部
 tags:
@@ -49,7 +49,7 @@ related_persons:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # General Act of Education of 1970

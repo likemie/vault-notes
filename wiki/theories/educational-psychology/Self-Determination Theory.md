@@ -8,9 +8,9 @@ summary: "当代人类动机与人格的核心宏观理论，主张个体具有�
 type: theory
 theory_field: "educational-psychology"
 theory_related_count: 32
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_level: 3
+theory_related_stars: "💎"
+theory_related_color: "#ede9fe"
 tags:
   - theory/educational-psychology
   - motivation

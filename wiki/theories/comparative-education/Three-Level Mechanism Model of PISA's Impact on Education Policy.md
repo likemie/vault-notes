@@ -7,9 +7,9 @@ summary: "Li, Xue & Guo (2025) 提出的理论模型，将 PISA 对各国教育�
 type: theory
 theory_field: "comparative-education"
 theory_related_count: 24
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - pisa
   - education-policy

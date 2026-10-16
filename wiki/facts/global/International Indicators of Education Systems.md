@@ -18,7 +18,7 @@ fact_region: "global"
 fact_kind: "program"
 fact_related_count: 31
 fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
 tags:
   - ines
@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-01
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # International Indicators of Education Systems

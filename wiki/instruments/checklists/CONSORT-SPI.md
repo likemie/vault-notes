@@ -10,8 +10,8 @@ summary: "针对社会与心理科学（含教育学、犯罪学与社会工作�
 type: instrument
 instrument_type: checklist
 instrument_related_count: 22
-instrument_related_level: 4
-instrument_related_stars: "⭐⭐⭐⭐"
+instrument_related_level: 2
+instrument_related_stars: "⭐⭐"
 instrument_related_color: "#e5e7eb"
 part_of: ""
 developers:

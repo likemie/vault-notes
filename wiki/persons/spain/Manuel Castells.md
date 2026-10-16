@@ -10,9 +10,9 @@ type: person
 nationality: spain
 person_region: "spain"
 person_related_count: 34
-person_related_level: 4
-person_related_stars: "⭐⭐⭐⭐"
-person_related_color: "#fce7f3"
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "1942"
 died: ""
 lifespan: "1942–至今"

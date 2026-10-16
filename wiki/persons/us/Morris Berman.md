@@ -9,7 +9,7 @@ nationality: us
 person_region: "us"
 person_related_count: 6
 person_related_level: 0
-person_related_stars: ""
+person_related_stars: "☆"
 person_related_color: "#e5e7eb"
 born: "1944"
 died: ""
@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-11
+updated: 2026-10-16
 ---
 
 # Morris Berman

@@ -15,9 +15,9 @@ summary: "衡量教育、研发、社会创新或组织协同投入与所产生�
 type: concept
 domain: "university-industry-collaboration"
 related_count: 68
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - theme/university-industry-collaboration
   - theme/economics-of-education

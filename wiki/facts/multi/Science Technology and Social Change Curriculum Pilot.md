@@ -8,8 +8,8 @@ region: multi
 fact_region: "multi"
 fact_kind: "program"
 fact_related_count: 8
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
 tags: [region/multi, theme/curriculum-development, theme/teacher-development]
 related_concepts:
@@ -27,7 +27,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Science Technology and Social Change Curriculum Pilot

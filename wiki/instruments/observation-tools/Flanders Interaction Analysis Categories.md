@@ -11,8 +11,8 @@ summary: "Flanders 开发的经典课堂言语互动系统化观察工具，采�
 type: instrument
 instrument_type: observation-tool
 instrument_related_count: 19
-instrument_related_level: 3
-instrument_related_stars: "⭐⭐⭐"
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#cffafe"
 part_of: ""
 developers:

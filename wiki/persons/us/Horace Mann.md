@@ -8,9 +8,9 @@ type: person
 nationality: us
 person_region: "us"
 person_related_count: 37
-person_related_level: 4
-person_related_stars: "⭐⭐⭐⭐"
-person_related_color: "#fce7f3"
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "1796"
 died: "1859"
 lifespan: 1796–1859
@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Horace Mann

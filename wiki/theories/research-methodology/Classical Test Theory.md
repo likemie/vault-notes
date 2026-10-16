@@ -10,9 +10,9 @@ summary: "将测验分数分解为真实分数与误差之和的测量理论，�
 type: theory
 theory_field: "research-methodology"
 theory_related_count: 16
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - theme/measurement
   - method/test-theory

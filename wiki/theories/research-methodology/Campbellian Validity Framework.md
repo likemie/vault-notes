@@ -9,9 +9,9 @@ summary: "Donald Campbell等创立的因果推断与效度评估系统理论，�
 type: theory
 theory_field: "research-methodology"
 theory_related_count: 50
-theory_related_level: 6
-theory_related_stars: "⭐⭐⭐⭐⭐⭐"
-theory_related_color: "#fef3c7"
+theory_related_level: 5
+theory_related_stars: "💎⭐⭐"
+theory_related_color: "#ffedd5"
 tags:
   - campbellian-validity
   - internal-validity

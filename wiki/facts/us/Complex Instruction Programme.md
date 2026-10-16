@@ -14,8 +14,8 @@ region: us
 fact_region: "us"
 fact_kind: "program"
 fact_related_count: 19
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "1980s–至今"
 initiator_organization: "斯坦福大学教育研究生院（Stanford Graduate School of Education）、米什科尔茨大学、赫约凯赖斯图尔小学"
@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Complex Instruction Programme

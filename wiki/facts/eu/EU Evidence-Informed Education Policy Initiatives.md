@@ -12,9 +12,9 @@ region: eu
 fact_region: "eu"
 fact_kind: "policy"
 fact_related_count: 45
-fact_related_level: 5
-fact_related_stars: "⭐⭐⭐⭐⭐"
-fact_related_color: "#fecdd3"
+fact_related_level: 4
+fact_related_stars: "💎⭐"
+fact_related_color: "#dbeafe"
 issuing_organization: European Commission
 tags:
   - region/eu

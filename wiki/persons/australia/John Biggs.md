@@ -8,9 +8,9 @@ type: person
 nationality: australia
 person_region: "australia"
 person_related_count: 18
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1934"
 died: ""
 lifespan: "1934–至今"
@@ -45,7 +45,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-09-11
+updated: 2026-10-16
 ---
 ## 简介
 

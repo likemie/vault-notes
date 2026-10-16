@@ -12,7 +12,7 @@ type: concept
 domain: "learning-science-cognitive-science"
 related_count: 39
 related_level: 3
-related_stars: "⭐⭐⭐"
+related_stars: "💎"
 related_color: "#fde68a"
 tags:
   - field/educational-technology

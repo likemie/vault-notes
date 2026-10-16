@@ -7,8 +7,8 @@ summary: "通过七个维度测量个体将批判性思维作为自然思维习�
 type: instrument
 instrument_type: inventory
 instrument_related_count: 7
-instrument_related_level: 1
-instrument_related_stars: "⭐"
+instrument_related_level: 0
+instrument_related_stars: "☆"
 instrument_related_color: "#ede9fe"
 developers:
   - Insight Assessment
@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-30
-updated: 2026-08-25
+updated: 2026-10-16
 ---
 
 # California Critical Thinking Disposition Inventory

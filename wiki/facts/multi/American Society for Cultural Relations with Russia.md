@@ -12,7 +12,7 @@ fact_region: "multi"
 fact_kind: "organization"
 fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
 tags:
   - theme/cultural-diplomacy
@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-10-16
 ---
 
 # American Society for Cultural Relations with Russia

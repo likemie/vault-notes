@@ -13,8 +13,8 @@ region: japan
 fact_region: "japan"
 fact_kind: "organization"
 fact_related_count: 8
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
 org_type: 历史国家重点公立高等教育联合网络
 headquarters: 日本东京（Tokyo, Japan）
@@ -39,7 +39,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-16
 ---
 
 # Imperial Universities

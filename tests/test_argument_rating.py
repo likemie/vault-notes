@@ -11,6 +11,16 @@ import vault_index
 
 
 class ArgumentRatingTests(unittest.TestCase):
+    def test_all_types_generate_high_counts_without_color_overflow(self):
+        related = "\n".join(f'  - "[[Concept {i}]]"' for i in range(139))
+        for kind in ("concept", "instrument", "method", "theory", "fact", "person", "argument"):
+            with self.subTest(kind=kind), tempfile.TemporaryDirectory() as directory:
+                path = Path(directory) / "Test.md"
+                path.write_text(f'---\ntype: {kind}\nrelated_concepts:\n{related}\n---\n\nBody.\n', encoding="utf-8")
+                update = getattr(vault_index, f"update_{kind}_base_fields")
+                self.assertEqual(update(path, False, False)[1], (139, "💎💎💎💎⭐"))
+                self.assertFalse(update(path, False, False)[0])
+
     def test_star_and_diamond_boundaries(self):
         cases = {
             0: (0, "☆"), 9: (0, "☆"),
@@ -21,10 +31,12 @@ class ArgumentRatingTests(unittest.TestCase):
             50: (5, "💎⭐⭐"), 59: (5, "💎⭐⭐"),
             60: (6, "💎💎"), 99: (9, "💎💎💎"),
             100: (10, "💎💎💎⭐"), 300: (30, "💎" * 10),
+            139: (13, "💎💎💎💎⭐"),
         }
-        for count, expected in cases.items():
-            with self.subTest(count=count):
-                self.assertEqual(vault_index.argument_stars_for(count), expected)
+        for kind in ("concept", "instrument", "method", "theory", "fact", "person", "argument"):
+            for count, expected in cases.items():
+                with self.subTest(kind=kind, count=count):
+                    self.assertEqual(getattr(vault_index, f"{kind}_stars_for")(count), expected)
 
     def test_generated_fields_include_instruments_and_are_idempotent(self):
         related = "\n".join(f'  - "[[Concept {i}]]"' for i in range(29))

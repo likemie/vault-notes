@@ -12,8 +12,8 @@ region: australia
 fact_region: "australia"
 fact_kind: "program"
 fact_related_count: 39
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
 period: "2019–2024"
 initiator_organization: "Monash University & Paul Ramsay Foundation"

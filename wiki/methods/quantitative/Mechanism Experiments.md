@@ -7,8 +7,8 @@ type: method
 method_type: quantitative
 method_family: "quantitative"
 method_related_count: 18
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 tags:
 - mechanism-experiments
@@ -44,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 ## 定义

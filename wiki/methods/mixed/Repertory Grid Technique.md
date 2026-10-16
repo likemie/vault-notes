@@ -10,8 +10,8 @@ type: method
 method_type: mixed
 method_family: "mixed"
 method_related_count: 17
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#fef3c7"
 tags:
   - method/repertory-grid
@@ -44,7 +44,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-28
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Repertory Grid Technique
 

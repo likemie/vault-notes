@@ -10,7 +10,7 @@ type: concept
 domain: "science-policy"
 related_count: 32
 related_level: 3
-related_stars: "⭐⭐⭐"
+related_stars: "💎"
 related_color: "#fde68a"
 tags:
   - concept/science-policy
@@ -57,7 +57,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # Mission-Oriented Research

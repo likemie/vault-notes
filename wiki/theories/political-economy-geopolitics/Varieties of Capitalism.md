@@ -14,9 +14,9 @@ summary: "彼得·A·霍尔与戴维·索斯基斯于2001年提出的比较政�
 type: theory
 theory_field: "political-economy-geopolitics"
 theory_related_count: 32
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_level: 3
+theory_related_stars: "💎"
+theory_related_color: "#ede9fe"
 tags:
   - theory/comparative-political-economy
   - theme/governance

@@ -8,9 +8,9 @@ type: person
 nationality: france
 person_region: "france"
 person_related_count: 9
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1712"
 died: "1778"
 lifespan: "1712–1778"
@@ -43,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 # Jean-Jacques Rousseau
 

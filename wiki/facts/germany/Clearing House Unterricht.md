@@ -11,9 +11,9 @@ region: germany
 fact_region: "germany"
 fact_kind: "organization"
 fact_related_count: 42
-fact_related_level: 5
-fact_related_stars: "⭐⭐⭐⭐⭐"
-fact_related_color: "#fecdd3"
+fact_related_level: 4
+fact_related_stars: "💎⭐"
+fact_related_color: "#dcfce7"
 org_type: academic-clearinghouse
 headquarters: "Munich, Germany"
 established: "2017"
@@ -77,7 +77,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Clearing House Unterricht

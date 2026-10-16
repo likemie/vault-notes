@@ -9,7 +9,7 @@ nationality: canada
 person_region: "canada"
 person_related_count: 6
 person_related_level: 0
-person_related_stars: ""
+person_related_stars: "☆"
 person_related_color: "#e5e7eb"
 born: "1934"
 died: ""
@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-03'
-updated: 2026-09-18
+updated: 2026-10-16
 ---
 ## 简介
 

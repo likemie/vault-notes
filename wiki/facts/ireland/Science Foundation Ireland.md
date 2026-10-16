@@ -10,8 +10,8 @@ region: ireland
 fact_region: "ireland"
 fact_kind: "organization"
 fact_related_count: 9
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
 org_type: "国家科研资助法定机构"
 headquarters: "爱尔兰都柏林（Dublin, Ireland）"

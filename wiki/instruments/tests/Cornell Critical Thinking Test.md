@@ -9,8 +9,8 @@ summary: "由罗伯特·恩尼斯等人开发的经典标准化多项选择批�
 type: instrument
 instrument_type: test
 instrument_related_count: 6
-instrument_related_level: 1
-instrument_related_stars: "⭐"
+instrument_related_level: 0
+instrument_related_stars: "☆"
 instrument_related_color: "#dbeafe"
 part_of: ""
 developers:

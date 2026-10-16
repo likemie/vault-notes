@@ -10,9 +10,9 @@ summary: "皮亚杰开创的发生认识论与认知发展四阶段建构主义�
 type: theory
 theory_field: "learning-science-cognitive-science"
 theory_related_count: 41
-theory_related_level: 5
-theory_related_stars: "⭐⭐⭐⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theory/cognitive-development
   - paradigm/constructivism

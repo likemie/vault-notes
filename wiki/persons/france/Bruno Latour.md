@@ -9,7 +9,7 @@ nationality: france
 person_region: "france"
 person_related_count: 31
 person_related_level: 3
-person_related_stars: "⭐⭐⭐"
+person_related_stars: "💎"
 person_related_color: "#ede9fe"
 born: "1947"
 died: "2022"

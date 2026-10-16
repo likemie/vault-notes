@@ -7,9 +7,9 @@ summary: "国家利用教育系统在边疆地区推行统一国族认同，Yan 
 type: theory
 theory_field: "comparative-education"
 theory_related_count: 19
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
 - nation-building
 - national-identity

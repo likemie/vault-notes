@@ -8,9 +8,9 @@ type: person
 nationality: "us"
 person_region: "us"
 person_related_count: 19
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1941"
 lifespan: "1941–至今"
 tags:
@@ -46,7 +46,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-11
+updated: 2026-10-16
 ---
 
 # Sheila Slaughter

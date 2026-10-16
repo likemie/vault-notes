@@ -8,9 +8,9 @@ summary: "研究学习共同体（RLC）项目在英格兰 79 所小学实施的
 type: instrument
 instrument_type: questionnaire
 instrument_related_count: 25
-instrument_related_level: 6
-instrument_related_stars: "⭐⭐⭐⭐⭐⭐"
-instrument_related_color: "#fecdd3"
+instrument_related_level: 2
+instrument_related_stars: "⭐⭐"
+instrument_related_color: "#fef3c7"
 part_of: "[[Research Learning Communities]]"
 developers:
   - "[[Chris Brown|Brown, C.]]"

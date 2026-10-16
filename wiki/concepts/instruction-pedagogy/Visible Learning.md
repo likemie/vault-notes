@@ -6,8 +6,8 @@ summary: "John Hattie 发起的教育证据综合与学校改进框架，主张�
 type: concept
 domain: "instruction-pedagogy"
 related_count: 100
-related_level: 6
-related_stars: "⭐⭐⭐⭐⭐⭐"
+related_level: 10
+related_stars: "💎💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - visible-learning

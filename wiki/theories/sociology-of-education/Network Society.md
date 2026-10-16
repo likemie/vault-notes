@@ -7,9 +7,9 @@ summary: "曼纽尔·卡斯特开创的宏观社会学理论，将现代社会�
 type: theory
 theory_field: "sociology-of-education"
 theory_related_count: 56
-theory_related_level: 6
-theory_related_stars: "⭐⭐⭐⭐⭐⭐"
-theory_related_color: "#fef3c7"
+theory_related_level: 5
+theory_related_stars: "💎⭐⭐"
+theory_related_color: "#ffedd5"
 tags:
   - network-society
   - castells

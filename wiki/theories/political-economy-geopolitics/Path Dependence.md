@@ -10,9 +10,9 @@ summary: "由 David 与 Arthur 奠基、经 Pierson 扩展至制度分析的演�
 type: theory
 theory_field: "political-economy-geopolitics"
 theory_related_count: 38
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_level: 3
+theory_related_stars: "💎"
+theory_related_color: "#ede9fe"
 tags:
   - theory/evolutionary-economics
   - theory/institutionalism

@@ -8,8 +8,8 @@ summary: "基于计划行为理论与研究利用模型开发的20题5级李克�
 type: instrument
 instrument_type: scale
 instrument_related_count: 9
-instrument_related_level: 1
-instrument_related_stars: "⭐"
+instrument_related_level: 0
+instrument_related_stars: "☆"
 instrument_related_color: "#dcfce7"
 part_of: ""
 developers:
@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Research Literacy Scale for Teachers

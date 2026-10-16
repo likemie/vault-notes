@@ -7,9 +7,9 @@ summary: "纳拉亚纳穆尔提等人提出的创新过程理论，以发现与�
 type: theory
 theory_field: "science-policy"
 theory_related_count: 26
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theme/science-policy
   - theme/innovation
@@ -50,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-02
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Discovery-Invention Cycle

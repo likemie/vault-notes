@@ -9,7 +9,7 @@ nationality: denmark
 person_region: "denmark"
 person_related_count: 6
 person_related_level: 0
-person_related_stars: ""
+person_related_stars: "☆"
 person_related_color: "#e5e7eb"
 born: "c. 1953"
 died: ""
@@ -33,7 +33,7 @@ related_facts:
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 ## 简介
 

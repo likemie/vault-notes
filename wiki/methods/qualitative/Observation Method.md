@@ -11,8 +11,8 @@ type: method
 method_type: qualitative
 method_family: "qualitative"
 method_related_count: 43
-method_related_level: 5
-method_related_stars: "⭐⭐⭐⭐⭐"
+method_related_level: 4
+method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/data-collection
@@ -448,4 +448,4 @@ Simpson & Tuson（2003, ch. 2）提出观察规划需考虑十四个方面（[[A
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015, Ch.3)]] — 系统介绍观察法的含义、类型、程序、策略和记录方式
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al. (2011, Ch. 23)]] — 系统介绍观察的分类维度、[[Structured Observation\|结构化观察]]与[[Critical Incidents\|关键事件法]]、参与式观察与[[Field Notes\|田野笔记]]、因果推断、伦理及偏误与信效度保障。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23\|Cohen et al. (2011, Ch. 23)]] — 系统介绍观察的分类维度、[[Structured Observation\|结构化观察]]与[[Critical Incidents\|关键事件法]]、参与式观察与[[Field Notes\|田野笔记]]、[[Causality|因果推断]]、伦理及偏误与信效度保障。

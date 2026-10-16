@@ -9,9 +9,9 @@ type: person
 nationality: france
 person_region: "france"
 person_related_count: 40
-person_related_level: 5
-person_related_stars: "⭐⭐⭐⭐⭐"
-person_related_color: "#ffedd5"
+person_related_level: 4
+person_related_stars: "💎⭐"
+person_related_color: "#fce7f3"
 born: "1792"
 died: "1867"
 lifespan: "1792–1867"

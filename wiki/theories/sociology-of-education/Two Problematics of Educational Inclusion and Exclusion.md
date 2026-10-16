@@ -10,9 +10,9 @@ summary: "教育包容与排斥的双重问题式是托马斯·S·波普科维�
 type: theory
 theory_field: "sociology-of-education"
 theory_related_count: 24
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory/sociology-of-education
   - theme/educational-governance

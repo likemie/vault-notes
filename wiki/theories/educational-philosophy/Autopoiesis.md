@@ -7,7 +7,7 @@ type: theory
 theory_field: "educational-philosophy"
 theory_related_count: 30
 theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
+theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
 tags:
   - theory/autopoiesis

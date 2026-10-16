@@ -13,7 +13,7 @@ fact_region: "estonia"
 fact_kind: "program"
 fact_related_count: 6
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
 issuing_organization: Ministry of Education and Research of Estonia
 tags:
@@ -38,7 +38,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-22
-updated: 2026-09-11
+updated: 2026-10-16
 ---
 
 # Estonian STEM Education Model

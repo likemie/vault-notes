@@ -9,9 +9,9 @@ type: person
 nationality: canada
 person_region: "canada"
 person_related_count: 28
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1944"
 lifespan: "1944–至今"
 tags:

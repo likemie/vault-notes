@@ -8,9 +8,9 @@ summary: "当代政治学与社会学核心制度分析范式；主张制度是�
 type: theory
 theory_field: "political-economy-geopolitics"
 theory_related_count: 36
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_level: 3
+theory_related_stars: "💎"
+theory_related_color: "#ede9fe"
 tags:
   - theory/institutionalism
   - theory/historical-institutionalism

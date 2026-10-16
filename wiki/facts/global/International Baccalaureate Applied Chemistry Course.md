@@ -9,7 +9,7 @@ fact_region: "global"
 fact_kind: "program"
 fact_related_count: 7
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
 period: "启动与结束年份未报告，1985年已有考生记录"
 initiator_organization: "[[International School of Geneva]]"
@@ -27,7 +27,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # International Baccalaureate Applied Chemistry Course

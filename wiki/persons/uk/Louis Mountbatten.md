@@ -9,9 +9,9 @@ type: person
 nationality: uk
 person_region: "uk"
 person_related_count: 9
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1900"
 died: "1979"
 lifespan: "1900–1979"

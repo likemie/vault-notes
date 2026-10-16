@@ -11,8 +11,8 @@ region: us
 fact_region: "us"
 fact_kind: "policy"
 fact_related_count: 24
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "Executive Office of the President of the United States"
 tags:
@@ -53,7 +53,7 @@ related_persons:
 confidence: high
 status: draft
 created: 2026-10-05
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Science in the National Interest 1994

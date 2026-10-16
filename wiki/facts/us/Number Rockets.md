@@ -10,8 +10,8 @@ region: us
 fact_region: "us"
 fact_kind: "program"
 fact_related_count: 19
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "2005–至今"
 initiator_organization: "范德堡大学（Vanderbilt University）"

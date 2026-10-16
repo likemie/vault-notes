@@ -9,7 +9,7 @@ nationality: bulgaria
 person_region: "bulgaria"
 person_related_count: 7
 person_related_level: 0
-person_related_stars: ""
+person_related_stars: "☆"
 person_related_color: "#e5e7eb"
 born: "1954"
 died: ""
@@ -36,7 +36,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Pepka Boyadjieva
 

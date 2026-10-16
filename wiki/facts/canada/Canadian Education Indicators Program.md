@@ -11,8 +11,8 @@ region: canada
 fact_region: "canada"
 fact_kind: "program"
 fact_related_count: 9
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
 period: "1989至今"
 initiator_organization: "加拿大教育部长理事会（CMEC）与加拿大统计局（Statistics Canada）"
@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-16
 ---
 
 # Canadian Education Indicators Program

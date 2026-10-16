@@ -10,9 +10,9 @@ summary: "本尼迪克特·安德森提出的民族主义核心理论，主张�
 type: theory
 theory_field: "political-economy-geopolitics"
 theory_related_count: 27
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theme/national-identity
   - theme/nation-building

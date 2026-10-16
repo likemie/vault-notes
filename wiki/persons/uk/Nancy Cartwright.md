@@ -8,9 +8,9 @@ type: person
 nationality: uk
 person_region: "uk"
 person_related_count: 40
-person_related_level: 5
-person_related_stars: "⭐⭐⭐⭐⭐"
-person_related_color: "#ffedd5"
+person_related_level: 4
+person_related_stars: "💎⭐"
+person_related_color: "#fce7f3"
 born: "1944"
 died: ""
 lifespan: "1944–至今"

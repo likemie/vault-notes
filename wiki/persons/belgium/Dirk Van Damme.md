@@ -9,9 +9,9 @@ type: person
 nationality: belgium
 person_region: "belgium"
 person_related_count: 40
-person_related_level: 5
-person_related_stars: "⭐⭐⭐⭐⭐"
-person_related_color: "#ffedd5"
+person_related_level: 4
+person_related_stars: "💎⭐"
+person_related_color: "#fce7f3"
 born: "1956"
 died: ""
 lifespan: "1956–至今"
@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Dirk Van Damme

@@ -13,8 +13,8 @@ region: us
 fact_region: "us"
 fact_kind: "policy"
 fact_related_count: 70
-fact_related_level: 6
-fact_related_stars: "⭐⭐⭐⭐⭐⭐"
+fact_related_level: 7
+fact_related_stars: "💎💎⭐"
 fact_related_color: "#fecdd3"
 issuing_organization: "United States Congress"
 tags:

@@ -12,8 +12,8 @@ region: us
 fact_region: "us"
 fact_kind: "program"
 fact_related_count: 17
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "1988–2007"
 initiator_organization: "美国联邦政府（国会立法，美国商务部国家标准与技术研究院 NIST 统筹执行）"
@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-12
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Advanced Technology Program

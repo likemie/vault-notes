@@ -10,7 +10,7 @@ nationality: germany
 person_region: "germany"
 person_related_count: 7
 person_related_level: 0
-person_related_stars: ""
+person_related_stars: "☆"
 person_related_color: "#e5e7eb"
 born: 1865
 died: 1937
@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # Erich Ludendorff

@@ -9,7 +9,7 @@ type: concept
 domain: "educational-policy-reform"
 related_count: 33
 related_level: 3
-related_stars: "⭐⭐⭐"
+related_stars: "💎"
 related_color: "#fde68a"
 tags:
   - theme/governing-by-numbers
@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-12
+updated: 2026-10-16
 ---
 
 # Goodhart's Law

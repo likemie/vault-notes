@@ -14,8 +14,8 @@ summary: "循证教育治理中的制度化中介机构，指通过设定因果�
 type: concept
 domain: "educational-policy-reform"
 related_count: 144
-related_level: 6
-related_stars: "⭐⭐⭐⭐⭐⭐"
+related_level: 14
+related_stars: "💎💎💎💎⭐⭐"
 related_color: "#ddd6fe"
 tags:
   - educational-evidence-clearinghouses

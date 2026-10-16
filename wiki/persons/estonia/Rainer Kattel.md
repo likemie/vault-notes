@@ -9,9 +9,9 @@ type: person
 nationality: "estonia"
 person_region: "estonia"
 person_related_count: 27
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1974"
 died: ""
 lifespan: "1974–至今"

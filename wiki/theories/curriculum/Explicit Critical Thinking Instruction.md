@@ -9,9 +9,9 @@ summary: "主张批判性思维应通过独立的专门课程显性教授而非�
 type: theory
 theory_field: "curriculum"
 theory_related_count: 40
-theory_related_level: 5
-theory_related_stars: "⭐⭐⭐⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theme/critical-thinking
   - theme/curriculum

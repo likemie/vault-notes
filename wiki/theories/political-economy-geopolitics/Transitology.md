@@ -7,9 +7,9 @@ summary: "比较教育学概念，由 Robert Cowen 提出，指国家机器、�
 type: theory
 theory_field: "political-economy-geopolitics"
 theory_related_count: 18
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 domain: "political-economy-geopolitics"
 related_count: 18
 related_level: 1

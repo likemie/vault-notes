@@ -9,8 +9,8 @@ summary: "由英国牛津大学、剑桥大学等顶尖法学院财团联合研�
 type: instrument
 instrument_type: test
 instrument_related_count: 6
-instrument_related_level: 1
-instrument_related_stars: "⭐"
+instrument_related_level: 0
+instrument_related_stars: "☆"
 instrument_related_color: "#dbeafe"
 part_of: ""
 developers:
@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Law National Aptitude Test

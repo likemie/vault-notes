@@ -12,8 +12,8 @@ region: us
 fact_region: "us"
 fact_kind: "program"
 fact_related_count: 28
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "1985–1989"
 initiator_organization: 田纳西州教育局（Tennessee Department of Education）
@@ -61,7 +61,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-01
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Tennessee STAR Project 1985-1989

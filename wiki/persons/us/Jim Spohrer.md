@@ -11,7 +11,7 @@ nationality: us
 person_region: "us"
 person_related_count: 5
 person_related_level: 0
-person_related_stars: ""
+person_related_stars: "☆"
 person_related_color: "#e5e7eb"
 born: "1956"
 died: ""

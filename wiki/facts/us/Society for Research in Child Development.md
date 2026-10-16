@@ -11,7 +11,7 @@ fact_region: "us"
 fact_kind: "organization"
 fact_related_count: 7
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
 org_type: academic-society
 headquarters: "Washington, D.C., USA"

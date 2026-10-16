@@ -8,9 +8,9 @@ type: person
 nationality: chile
 person_region: "chile"
 person_related_count: 8
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1946"
 died: "2001"
 lifespan: "1946–2001"
@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-08'
-updated: 2026-09-11
+updated: 2026-10-16
 ---
 ## 简介
 

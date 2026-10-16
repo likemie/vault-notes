@@ -11,7 +11,7 @@ type: concept
 domain: "science-communication"
 related_count: 39
 related_level: 3
-related_stars: "⭐⭐⭐"
+related_stars: "💎"
 related_color: "#fde68a"
 tags:
   - field/science-communication
@@ -64,7 +64,7 @@ related_facts:
 confidence: high
 status: completed
 created: 2026-09-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Transfer Science

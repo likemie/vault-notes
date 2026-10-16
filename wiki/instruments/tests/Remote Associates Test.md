@@ -7,8 +7,8 @@ summary: "由梅德尼克于 1962 年开发的联想思维测验，要求被试�
 type: instrument
 instrument_type: test
 instrument_related_count: 10
-instrument_related_level: 2
-instrument_related_stars: "⭐⭐"
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#dbeafe"
 part_of: ""
 developers:
@@ -42,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-25
-updated: 2026-09-02
+updated: 2026-10-16
 ---
 
 # Remote Associates Test

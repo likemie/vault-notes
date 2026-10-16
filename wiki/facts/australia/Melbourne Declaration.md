@@ -12,7 +12,7 @@ fact_region: "australia"
 fact_kind: "policy"
 fact_related_count: 6
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
 issuing_organization: "澳大利亚教育、就业、培训与青年事务部长级理事会（MCEETYA）"
 tags:
@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-03
+updated: 2026-10-16
 ---
 
 # Melbourne Declaration

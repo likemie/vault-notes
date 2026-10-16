@@ -3,9 +3,9 @@ summary: "由亨利·埃尔加斯于1987年提出的经典国家技术政策二�
 type: theory
 theory_field: "science-policy"
 theory_related_count: 27
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory/science-policy
   - innovation-policy
@@ -48,7 +48,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-11
+updated: 2026-10-16
 title: Ergas Taxonomy of Technology Policy
 aliases:
   - 埃尔加斯技术政策分类

@@ -10,9 +10,9 @@ summary: "一种挑战经典实证主义绝对确定性与机械决定论的研�
 type: concept
 domain: "educational-philosophy"
 related_count: 67
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - paradigm/postpositivist
   - theme/epistemology

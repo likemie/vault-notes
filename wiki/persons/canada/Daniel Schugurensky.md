@@ -9,9 +9,9 @@ type: person
 nationality: canada
 person_region: "canada"
 person_related_count: 18
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1958"
 died: ""
 lifespan: "1958–至今"
@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Daniel Schugurensky

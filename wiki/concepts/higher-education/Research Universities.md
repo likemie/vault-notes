@@ -9,9 +9,9 @@ summary: "19世纪下半叶在美国以洪堡模式为母本并融合赠地实�
 type: concept
 domain: "higher-education"
 related_count: 83
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 8
+related_stars: "💎💎⭐⭐"
+related_color: "#ddd6fe"
 tags:
   - level/higher-education
   - governance/institutional-differentiation

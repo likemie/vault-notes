@@ -15,9 +15,9 @@ summary: "个体对自己认知过程的意识、评估与主动调节，包括�
 type: concept
 domain: "competency-and-assessment"
 related_count: 84
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 8
+related_stars: "💎💎⭐⭐"
+related_color: "#ddd6fe"
 tags:
   - theme/metacognition
   - theme/cognitive-science

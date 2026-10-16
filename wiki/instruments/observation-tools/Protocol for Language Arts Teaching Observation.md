@@ -9,8 +9,8 @@ summary: "由帕姆·格罗斯曼等人研发的面向中学英语语言艺术�
 type: instrument
 instrument_type: observation-tool
 instrument_related_count: 17
-instrument_related_level: 3
-instrument_related_stars: "⭐⭐⭐"
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#cffafe"
 part_of: ""
 developers:
@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Protocol for Language Arts Teaching Observation

@@ -13,8 +13,8 @@ region: global
 fact_region: "global"
 fact_kind: "program"
 fact_related_count: 32
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
 period: "1997–2000s"
 initiator_organization: "经合组织（OECD）、联合国教科文组织统计研究所（UIS）、世界银行（World Bank）"

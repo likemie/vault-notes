@@ -9,9 +9,9 @@ summary: "马丁·怀特将国际关系思想归纳为现实主义（马基雅�
 type: theory
 theory_field: "comparative-education"
 theory_related_count: 44
-theory_related_level: 5
-theory_related_stars: "⭐⭐⭐⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theory/international-relations
   - subject/comparative-education
@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-08'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Wight's Three Traditions of International Theory

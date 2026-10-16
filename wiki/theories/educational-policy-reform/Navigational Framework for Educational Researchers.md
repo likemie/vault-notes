@@ -9,9 +9,9 @@ summary: "由 Zewelanji N. Serpell 提出的政策导航框架，将宏观立法
 type: theory
 theory_field: "educational-policy-reform"
 theory_related_count: 40
-theory_related_level: 5
-theory_related_stars: "⭐⭐⭐⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theory
   - policy/us-federal

@@ -13,8 +13,8 @@ summary: "连接科学研究发现与实际应用的跨界转化过程，在产�
 type: concept
 domain: "university-industry-collaboration"
 related_count: 119
-related_level: 6
-related_stars: "⭐⭐⭐⭐⭐⭐"
+related_level: 11
+related_stars: "💎💎💎⭐⭐"
 related_color: "#ddd6fe"
 tags:
   - theme/university-industry-collaboration

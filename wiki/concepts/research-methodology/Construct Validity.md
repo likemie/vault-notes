@@ -11,9 +11,9 @@ summary: "评价抽象构念的界定、操作化与所得证据是否共同支�
 type: concept
 domain: "research-methodology"
 related_count: 67
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - construct-validity
   - validity

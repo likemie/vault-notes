@@ -13,7 +13,7 @@ type: concept
 domain: "university-industry-collaboration"
 related_count: 54
 related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
+related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
 tags:
   - theme/innovation

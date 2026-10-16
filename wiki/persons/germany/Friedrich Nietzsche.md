@@ -4,9 +4,9 @@ type: person
 nationality: germany
 person_region: "germany"
 person_related_count: 16
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1844"
 died: "1900"
 lifespan: "1844–1900"

@@ -10,9 +10,9 @@ summary: "由罗兹提出的经典创造力全域整合分析框架，将创造�
 type: theory
 theory_field: "educational-psychology"
 theory_related_count: 38
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_level: 3
+theory_related_stars: "💎"
+theory_related_color: "#ede9fe"
 tags:
   - field/educational-psychology
   - theme/creativity

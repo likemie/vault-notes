@@ -9,8 +9,8 @@ type: method
 method_type: qualitative
 method_family: "qualitative"
 method_related_count: 8
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_level: 0
+method_related_stars: "☆"
 method_related_color: "#dbeafe"
 tags:
   - method/group-technique
@@ -30,7 +30,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
 status: draft
 created: 2026-07-18
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Delphi Technique
 

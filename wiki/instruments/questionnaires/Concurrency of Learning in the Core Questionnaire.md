@@ -7,8 +7,8 @@ summary: "测量国际文凭大学预科项目（IBDP）核心组件（TOK、CAS
 type: instrument
 instrument_type: questionnaire
 instrument_related_count: 19
-instrument_related_level: 3
-instrument_related_stars: "⭐⭐⭐"
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#fef3c7"
 part_of: ""
 developers: ["Metli, A.", "Akış, D."]

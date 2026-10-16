@@ -9,8 +9,8 @@ summary: "由剑桥大学考评部研发的高利害大学本科入学能力测�
 type: instrument
 instrument_type: test
 instrument_related_count: 5
-instrument_related_level: 1
-instrument_related_stars: "⭐"
+instrument_related_level: 0
+instrument_related_stars: "☆"
 instrument_related_color: "#dbeafe"
 part_of: ""
 developers:
@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Thinking Skills Assessment

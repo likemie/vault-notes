@@ -9,9 +9,9 @@ type: person
 nationality: brazil
 person_region: "brazil"
 person_related_count: 19
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1936"
 died: "2018"
 lifespan: "1936–2018"
@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-10
+updated: 2026-10-16
 ---
 
 # Theotonio Dos Santos

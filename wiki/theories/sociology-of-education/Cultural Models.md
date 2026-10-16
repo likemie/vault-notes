@@ -11,9 +11,9 @@ summary: "由历史文化过程积淀并持续演进的共享概念框架，在�
 type: theory
 theory_field: "sociology-of-education"
 theory_related_count: 43
-theory_related_level: 5
-theory_related_stars: "⭐⭐⭐⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theory/sociology-of-education
   - theory/cultural-psychology

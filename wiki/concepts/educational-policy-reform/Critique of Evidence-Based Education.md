@@ -7,9 +7,9 @@ summary: "围绕证据本位教育（EBE）的认识论前提、方法论基础�
 type: concept
 domain: "educational-policy-reform"
 related_count: 90
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 9
+related_stars: "💎💎💎"
+related_color: "#ddd6fe"
 tags:
   - evidence-based-education
   - methodology-critique

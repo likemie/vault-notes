@@ -13,8 +13,8 @@ region: us
 fact_region: "us"
 fact_kind: "program"
 fact_related_count: 26
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "1998–2013"
 initiator_organization: "半导体行业协会（SIA）、国防高级研究计划局（DARPA）、Sematech、半导体研究公司（SRC）"

@@ -11,9 +11,9 @@ summary: "指由国家公共教育与培训体系、企业专职研发实验室�
 type: concept
 domain: "university-industry-collaboration"
 related_count: 90
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 9
+related_stars: "💎💎💎"
+related_color: "#ddd6fe"
 tags:
   - theme/innovation
   - theme/innovation-policy

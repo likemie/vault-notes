@@ -13,7 +13,7 @@ fact_region: "us"
 fact_kind: "organization"
 fact_related_count: 30
 fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
 org_type: 联邦资助的微电子原型制造与公共科研基础设施平台
 headquarters: 美国加利福尼亚州玛丽安德尔湾（Marina del Rey, California）
@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-03
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # MOSIS

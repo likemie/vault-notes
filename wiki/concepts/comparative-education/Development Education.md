@@ -10,9 +10,9 @@ summary: "聚焦全球南方国家教育现代化、体制重塑与国际援助�
 type: concept
 domain: "comparative-education"
 related_count: 60
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - subject/comparative-education
   - subject/international-education

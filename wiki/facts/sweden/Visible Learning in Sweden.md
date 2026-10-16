@@ -10,7 +10,7 @@ fact_region: "sweden"
 fact_kind: "event"
 fact_related_count: 7
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
 issuing_organization: ''
 tags:
@@ -34,7 +34,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: '2026-05-20'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 ## 背景
 

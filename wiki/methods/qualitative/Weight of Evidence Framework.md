@@ -9,8 +9,8 @@ type: method
 method_type: qualitative
 method_family: "qualitative"
 method_related_count: 37
-method_related_level: 4
-method_related_stars: "⭐⭐⭐⭐"
+method_related_level: 3
+method_related_stars: "💎"
 method_related_color: "#dbeafe"
 tags:
   - weight-of-evidence
@@ -65,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-14'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Weight of Evidence Framework

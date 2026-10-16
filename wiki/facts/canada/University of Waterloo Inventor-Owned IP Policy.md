@@ -15,7 +15,7 @@ fact_region: "canada"
 fact_kind: "event"
 fact_related_count: 7
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
 tags: ["region/canada", "theme/university-industry-collaboration", "theme/intellectual-property", "theme/innovation-policy"]
 related_concepts:
@@ -34,7 +34,7 @@ related_arguments:
 confidence: low
 status: draft
 created: 2026-06-03
-updated: 2026-06-03
+updated: 2026-10-16
 ---
 
 # University of Waterloo Inventor-Owned IP Policy

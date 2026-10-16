@@ -9,7 +9,7 @@ fact_region: "russia"
 fact_kind: "event"
 fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
 tags:
   - region/ussr
@@ -29,7 +29,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-12
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Lysenkoism

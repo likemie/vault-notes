@@ -8,7 +8,7 @@ type: theory
 theory_field: "university-industry-collaboration"
 theory_related_count: 7
 theory_related_level: 0
-theory_related_stars: ""
+theory_related_stars: "☆"
 theory_related_color: "#e5e7eb"
 tags: ["theme/university-industry-collaboration", "theme/innovation", "theme/knowledge-mobilisation", "region/canada"]
 related_concepts:

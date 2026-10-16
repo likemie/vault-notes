@@ -8,8 +8,8 @@ summary: "由马克·伦科等于 2001 年开发并广泛应用的自陈式创�
 type: instrument
 instrument_type: scale
 instrument_related_count: 10
-instrument_related_level: 2
-instrument_related_stars: "⭐⭐"
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#dcfce7"
 part_of: ""
 developers:
@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Runco Ideational Behavior Scale

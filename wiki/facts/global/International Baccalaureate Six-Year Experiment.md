@@ -10,8 +10,8 @@ region: global
 fact_region: "global"
 fact_kind: "event"
 fact_related_count: 24
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
 tags:
   - region/global
@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-23
-updated: 2026-10-03
+updated: 2026-10-16
 ---
 
 # International Baccalaureate Six-Year Experiment

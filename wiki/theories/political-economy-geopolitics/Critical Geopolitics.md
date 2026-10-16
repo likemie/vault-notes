@@ -7,9 +7,9 @@ summary: "把地缘政治理解为由政治想象、话语和空间表述持续�
 type: theory
 theory_field: "political-economy-geopolitics"
 theory_related_count: 43
-theory_related_level: 5
-theory_related_stars: "⭐⭐⭐⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 tags:
   - critical-geopolitics
   - geopolitics-of-knowledge
@@ -69,7 +69,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 ## 理论定位

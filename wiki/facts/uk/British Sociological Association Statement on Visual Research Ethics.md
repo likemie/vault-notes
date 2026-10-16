@@ -11,8 +11,8 @@ region: uk
 fact_region: "uk"
 fact_kind: "policy"
 fact_related_count: 9
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
 issuing_organization: "British Sociological Association（BSA）"
 tags:
@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-09
-updated: 2026-08-11
+updated: 2026-10-16
 ---
 
 # British Sociological Association Statement on Visual Research Ethics

@@ -14,8 +14,8 @@ region: china
 fact_region: "china"
 fact_kind: "program"
 fact_related_count: 9
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
 tags:
   - fact/china
@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # Autonomous Drone Swarms

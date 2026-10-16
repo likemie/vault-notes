@@ -12,8 +12,8 @@ region: us
 fact_region: "us"
 fact_kind: "program"
 fact_related_count: 34
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
 period: "1942–1946"
 initiator_organization: "[[Office of Scientific Research and Development]]"
@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-07
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Manhattan Project

@@ -73,13 +73,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/concepts/instruction-pedagogy/Visible Learning.md",
+                "file": "wiki/arguments/reports-policy-documents/Argument_ONeill_2016_Report.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Visible Learning"
+              "title": "Argument_ONeill_2016_Report"
             }
           }
         ],
@@ -290,9 +290,11 @@
   },
   "active": "234d452edd1bdd48",
   "lastOpenFiles": [
-    "wiki/facts/new-zealand/Visible Learning Meta-X.md",
-    "wiki/concepts/instruction-pedagogy/Visible Learning.md",
+    "tmp_golovchin_text.txt",
     "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md",
+    "wiki/concepts/instruction-pedagogy/Visible Learning.md",
+    "wiki/facts/new-zealand/Visible Learning Branding and Global Influences.md",
+    "wiki/facts/new-zealand/Visible Learning Meta-X.md",
     "wiki/arguments/journal-articles/Economic and Social Changes Facts, Trends, Forecast/Argument_Golovchin_2019_ESC.md",
     "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Garcia_Garrido_2009_SpainEU.md",
     "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Castro_2009_MultilateralBanks.md",
@@ -329,8 +331,6 @@
     "sources/Chinn_2011_EducPsychol.md",
     "sources/Johnson_2023_CritEduc/Johnson_2023_CritEduc.md",
     "sources/McDonnell_2013_AmJE.md",
-    "sources/Glitz_2020_AmEconRev.md",
-    "wiki/arguments/journal-articles/Educational Psychologist/Argument_Slavin_2019_EducPsychol.md",
     "sources/Bown_2024_JEconPersp/figures/Bown_2024_JEconPersp_Fig3_Manufacturing_Capacity_Shift.jpg",
     "sources/Bown_2024_JEconPersp/figures/Bown_2024_JEconPersp_Fig1_Supply_Chain_Stages.jpg",
     "sources/Bown_2024_JEconPersp/figures/Bown_2024_JEconPersp_Fig2_Demand_Distribution.jpg",

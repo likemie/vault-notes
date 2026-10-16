@@ -12,7 +12,7 @@ fact_region: "us"
 fact_kind: "event"
 fact_related_count: 6
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
 tags:
 - daubert

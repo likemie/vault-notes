@@ -3,9 +3,9 @@ summary: "由莱纳·卡特尔与玛丽安娜·马祖卡托提出的创新政策
 type: theory
 theory_field: "science-policy"
 theory_related_count: 37
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_level: 3
+theory_related_stars: "💎"
+theory_related_color: "#ede9fe"
 tags:
   - theory/science-policy
   - innovation-policy

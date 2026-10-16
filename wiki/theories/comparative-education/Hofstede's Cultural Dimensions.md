@@ -9,9 +9,9 @@ summary: "国家文化维度理论，提出权力距离、个人主义/集体主
 type: theory
 theory_field: "comparative-education"
 theory_related_count: 51
-theory_related_level: 6
-theory_related_stars: "⭐⭐⭐⭐⭐⭐"
-theory_related_color: "#fef3c7"
+theory_related_level: 5
+theory_related_stars: "💎⭐⭐"
+theory_related_color: "#ffedd5"
 tags:
   - theme/comparative-education
   - theme/national-culture

@@ -14,8 +14,8 @@ type: method
 method_type: qualitative
 method_family: "qualitative"
 method_related_count: 34
-method_related_level: 4
-method_related_stars: "⭐⭐⭐⭐"
+method_related_level: 3
+method_related_stars: "💎"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -189,6 +189,6 @@ updated: 2026-10-16
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 19)]] — 阐发 Harré 与 Secord 的[[Anthropomorphic Model\|拟人化模型]]，主张把人视为能反思的能动主体；人因取向五原则、[[Social Episodes\|社会片段]]与陈述分析程序见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22\|Ch. 22]]。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011, Ch. 1, p. 19)]] — 阐发 [[Rom Harré|Harré]] 与 Secord 的[[Anthropomorphic Model\|拟人化模型]]，主张把人视为能反思的能动主体；人因取向五原则、[[Social Episodes\|社会片段]]与陈述分析程序见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22\|Ch. 22]]。
 
 ---

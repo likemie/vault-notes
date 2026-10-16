@@ -9,9 +9,9 @@ summary: "政治学与政策科学核心理论，主张公共政策是由拥有�
 type: theory
 theory_field: "educational-policy-reform"
 theory_related_count: 25
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory
   - policy/educational-policy
@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-24
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Elite Theory

@@ -13,8 +13,8 @@ region: uk
 fact_region: "uk"
 fact_kind: "program"
 fact_related_count: 9
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
 issuing_organization: Department for Science, Innovation and Technology, UK Research and Innovation
 tags:
@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Sciencewise

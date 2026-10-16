@@ -12,7 +12,7 @@ fact_region: "uk"
 fact_kind: "organization"
 fact_related_count: 6
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
 tags:
   - region/uk
@@ -32,7 +32,7 @@ related_instruments: []
 confidence: medium
 status: draft
 created: 2026-07-14
-updated: 2026-09-22
+updated: 2026-10-16
 ---
 
 # CEM Centre

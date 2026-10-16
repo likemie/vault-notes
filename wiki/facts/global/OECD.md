@@ -11,8 +11,8 @@ region: global
 fact_region: "global"
 fact_kind: "organization"
 fact_related_count: 129
-fact_related_level: 6
-fact_related_stars: "⭐⭐⭐⭐⭐⭐"
+fact_related_level: 12
+fact_related_stars: "💎💎💎💎"
 fact_related_color: "#fecdd3"
 org_type: intergovernmental
 headquarters: 巴黎（法国）

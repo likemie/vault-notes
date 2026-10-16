@@ -10,8 +10,8 @@ summary: "国际公认的干预方案详细描述与可复现性12项标准化�
 type: instrument
 instrument_type: checklist
 instrument_related_count: 14
-instrument_related_level: 2
-instrument_related_stars: "⭐⭐"
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#e5e7eb"
 part_of: ""
 developers:

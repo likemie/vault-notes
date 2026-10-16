@@ -8,9 +8,9 @@ summary: "东亚文化学习模型，以修身为核心目标，包含完善自�
 type: theory
 theory_field: "chinese-philosophy"
 theory_related_count: 25
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - region/east-asia
   - region/china

@@ -12,8 +12,8 @@ region: germany
 fact_region: "germany"
 fact_kind: "policy"
 fact_related_count: 33
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
 period: "2006–至今"
 issuing_organization: "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Gesamtstrategie zum Bildungsmonitoring

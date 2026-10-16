@@ -11,8 +11,8 @@ region: us
 fact_region: "us"
 fact_kind: "organization"
 fact_related_count: 38
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
 org_type: "国家法定公私研发合作联合体（Statutory Public-Private Consortium）"
 headquarters: "美国华盛顿哥伦比亚特区（Washington, D.C.）及多区域分中心"

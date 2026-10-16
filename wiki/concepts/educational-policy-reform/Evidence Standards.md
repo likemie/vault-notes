@@ -10,9 +10,9 @@ summary: "指知识中介机构与证据门户用于规范、筛选和评定研�
 type: concept
 domain: "educational-policy-reform"
 related_count: 83
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 8
+related_stars: "💎💎⭐⭐"
+related_color: "#ddd6fe"
 tags:
   - evidence-based-policy
   - evidence-informed-practice

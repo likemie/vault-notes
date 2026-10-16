@@ -10,7 +10,7 @@ type: theory
 theory_field: "educational-psychology"
 theory_related_count: 30
 theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
+theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
 tags:
   - theory/educational-psychology

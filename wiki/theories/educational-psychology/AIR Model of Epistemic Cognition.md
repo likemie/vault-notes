@@ -9,9 +9,9 @@ summary: "当代教育心理学与学习科学的核心认识论认知模型，�
 type: theory
 theory_field: "educational-psychology"
 theory_related_count: 46
-theory_related_level: 5
-theory_related_stars: "⭐⭐⭐⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theme/epistemic-cognition
   - theme/science-education

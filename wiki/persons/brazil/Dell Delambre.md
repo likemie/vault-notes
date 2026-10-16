@@ -8,9 +8,9 @@ type: person
 nationality: brazil
 person_region: "brazil"
 person_related_count: 16
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "c. 1965"
 died: ""
 lifespan: "c. 1965–至今"
@@ -44,7 +44,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-11'
-updated: 2026-09-22
+updated: 2026-10-16
 ---
 # Dell Delambre
 

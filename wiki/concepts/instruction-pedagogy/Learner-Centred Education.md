@@ -12,7 +12,7 @@ type: concept
 domain: "instruction-pedagogy"
 related_count: 32
 related_level: 3
-related_stars: "⭐⭐⭐"
+related_stars: "💎"
 related_color: "#fde68a"
 related_concepts:
   - "[[Dialogue in Education]]"

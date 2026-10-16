@@ -11,8 +11,8 @@ region: global
 fact_region: "global"
 fact_kind: "organization"
 fact_related_count: 24
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: specialized-un-fund
 headquarters: "纽约（美国）"
@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # UNICEF

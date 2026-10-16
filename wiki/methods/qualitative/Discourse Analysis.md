@@ -6,8 +6,8 @@ type: method
 method_type: qualitative
 method_family: "qualitative"
 method_related_count: 57
-method_related_level: 6
-method_related_stars: "⭐⭐⭐⭐⭐⭐"
+method_related_level: 5
+method_related_stars: "💎⭐⭐"
 method_related_color: "#dbeafe"
 tags: [method/qualitative, data-analysis, theme/language, paradigm/interpretive, paradigm/critical]
 related_concepts:

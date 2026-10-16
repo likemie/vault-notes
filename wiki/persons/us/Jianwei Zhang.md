@@ -9,9 +9,9 @@ type: person
 nationality: us
 person_region: "us"
 person_related_count: 27
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1973"
 lifespan: "1973–至今"
 tags:
@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Jianwei Zhang

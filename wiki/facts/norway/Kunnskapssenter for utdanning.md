@@ -13,8 +13,8 @@ region: norway
 fact_region: "norway"
 fact_kind: "organization"
 fact_related_count: 29
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "政府资助大学依托自治型知识中介"
 headquarters: "挪威斯塔万格大学（University of Stavanger）"

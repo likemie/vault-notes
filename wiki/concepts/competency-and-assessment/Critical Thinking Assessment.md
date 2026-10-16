@@ -9,9 +9,9 @@ summary: "批判性思维测评是对个体在论证分析、证据评价、推�
 type: concept
 domain: "competency-and-assessment"
 related_count: 68
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - theme/critical-thinking
   - theme/assessment

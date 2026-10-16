@@ -8,8 +8,8 @@ summary: "用于系统综述中评估定性、定量与混合方法研究设计�
 type: instrument
 instrument_type: checklist
 instrument_related_count: 11
-instrument_related_level: 2
-instrument_related_stars: "⭐⭐"
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#e5e7eb"
 part_of: ""
 developers:
@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-09-11
+updated: 2026-10-16
 ---
 
 # Mixed Methods Appraisal Tool

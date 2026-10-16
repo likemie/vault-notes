@@ -10,8 +10,8 @@ region: switzerland
 fact_region: "switzerland"
 fact_kind: "organization"
 fact_related_count: 17
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 tags:
   - region/switzerland
@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # International Schools Examination Syndicate

@@ -16,9 +16,9 @@ summary: "关于人类能力与智力可塑性的内隐认知信念系统，区�
 type: theory
 theory_field: "learning-science-cognitive-science"
 theory_related_count: 38
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_level: 3
+theory_related_stars: "💎"
+theory_related_color: "#ede9fe"
 domain: learning-science-cognitive-science
 tags:
   - theme/motivation

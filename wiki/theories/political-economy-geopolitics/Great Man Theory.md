@@ -10,9 +10,9 @@ summary: "19世纪苏格兰历史学家托马斯·卡莱尔系统阐述的历史
 type: theory
 theory_field: "political-economy-geopolitics"
 theory_related_count: 17
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 domain: "political-economy-geopolitics"
 tags:
   - theory/political-philosophy
@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Great Man Theory

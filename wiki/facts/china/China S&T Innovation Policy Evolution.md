@@ -12,8 +12,8 @@ region: china
 fact_region: "china"
 fact_kind: "policy"
 fact_related_count: 18
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "中共中央、国务院"
 start_year: "1949"
@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-05
-updated: 2026-10-05
+updated: 2026-10-16
 ---
 
 # China S&T Innovation Policy Evolution

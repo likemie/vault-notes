@@ -9,9 +9,9 @@ summary: "用于评估系统评价与元分析方法学质量的批判性评价�
 type: instrument
 instrument_type: checklist
 instrument_related_count: 25
-instrument_related_level: 6
-instrument_related_stars: "⭐⭐⭐⭐⭐⭐"
-instrument_related_color: "#fecdd3"
+instrument_related_level: 2
+instrument_related_stars: "⭐⭐"
+instrument_related_color: "#e5e7eb"
 part_of: ""
 developers:
   - "Shea, B. J."

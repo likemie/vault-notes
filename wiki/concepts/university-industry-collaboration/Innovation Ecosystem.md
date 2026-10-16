@@ -10,8 +10,8 @@ summary: "由大学、企业、政府、供应链供应商、中介机构与资�
 type: concept
 domain: "university-industry-collaboration"
 related_count: 103
-related_level: 6
-related_stars: "⭐⭐⭐⭐⭐⭐"
+related_level: 10
+related_stars: "💎💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - theme/innovation

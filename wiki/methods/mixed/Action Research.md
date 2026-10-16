@@ -8,7 +8,7 @@ method_type: mixed
 method_family: "mixed"
 method_related_count: 65
 method_related_level: 6
-method_related_stars: "⭐⭐⭐⭐⭐⭐"
+method_related_stars: "💎💎"
 method_related_color: "#fef3c7"
 tags:
   - method/action-research

@@ -11,9 +11,9 @@ summary: "基于争议性、复杂性与不确定性解构社会问题与创新�
 type: theory
 theory_field: "science-policy"
 theory_related_count: 27
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory/science-policy
   - innovation-policy
@@ -55,7 +55,7 @@ related_theories:
 confidence: medium
 status: draft
 created: 2026-10-03
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Problem-Solution Space for Mission-Oriented Innovation Policy

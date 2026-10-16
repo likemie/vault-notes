@@ -9,7 +9,7 @@ fact_region: "uk"
 fact_kind: "policy"
 fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
 issuing_organization: "UK Research and Innovation (UKRI)"
 tags:
@@ -32,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-10
-updated: 2026-10-10
+updated: 2026-10-16
 ---
 
 # Strength in Places Fund

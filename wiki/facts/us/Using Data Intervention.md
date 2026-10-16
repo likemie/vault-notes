@@ -12,8 +12,8 @@ region: us
 fact_region: "us"
 fact_kind: "program"
 fact_related_count: 17
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "2011–2013"
 initiator_organization: "[[Institute of Education Sciences]]"

@@ -11,9 +11,9 @@ summary: "跨越研究哲学、学习理论与社会理论的概念家族，强�
 type: concept
 domain: "educational-philosophy"
 related_count: 64
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - research-philosophy
   - qualitative-research

@@ -8,9 +8,9 @@ summary: "反抗启蒙现代性与实证主义决定论的思想思潮；在教�
 type: theory
 theory_field: "educational-philosophy"
 theory_related_count: 45
-theory_related_level: 5
-theory_related_stars: "⭐⭐⭐⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 tags:
   - paradigm/postmodern
   - theme/epistemology

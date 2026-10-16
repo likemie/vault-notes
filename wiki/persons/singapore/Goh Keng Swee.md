@@ -8,9 +8,9 @@ type: person
 nationality: singapore
 person_region: "singapore"
 person_related_count: 9
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1918"
 died: "2010"
 lifespan: "1918–2010"

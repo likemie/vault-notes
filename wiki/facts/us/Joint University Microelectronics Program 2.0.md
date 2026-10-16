@@ -12,9 +12,9 @@ region: us
 fact_region: "us"
 fact_kind: "program"
 fact_related_count: 41
-fact_related_level: 5
-fact_related_stars: "⭐⭐⭐⭐⭐"
-fact_related_color: "#fecdd3"
+fact_related_level: 4
+fact_related_stars: "💎⭐"
+fact_related_color: "#ede9fe"
 period: "2023–"
 initiator_organization: "美国国防部高级研究计划局（DARPA） & 半导体研究公司（SRC）"
 tags:

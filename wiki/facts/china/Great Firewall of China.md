@@ -12,7 +12,7 @@ fact_region: "china"
 fact_kind: "event"
 fact_related_count: 7
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
 tags:
 - region/china
@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # Great Firewall of China

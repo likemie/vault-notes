@@ -11,7 +11,7 @@ fact_region: "australia"
 fact_kind: "organization"
 fact_related_count: 7
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
 issuing_organization: Educational Services Australia
 tags:
@@ -34,7 +34,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 
 # Educational Services Australia

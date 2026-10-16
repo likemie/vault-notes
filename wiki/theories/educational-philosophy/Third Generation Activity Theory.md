@@ -16,9 +16,9 @@ summary: "在 Vygotsky 中介三角与 Engeström 六要素模型基础上发展
 type: theory
 theory_field: "educational-philosophy"
 theory_related_count: 50
-theory_related_level: 6
-theory_related_stars: "⭐⭐⭐⭐⭐⭐"
-theory_related_color: "#fef3c7"
+theory_related_level: 5
+theory_related_stars: "💎⭐⭐"
+theory_related_color: "#ffedd5"
 tags:
   - theme/activity-theory
   - theme/educational-reform

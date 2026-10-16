@@ -7,9 +7,9 @@ type: person
 nationality: greece
 person_region: "greece"
 person_related_count: 29
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "c. 470 BCE"
 died: "399 BCE"
 lifespan: "c. 470 BCE – 399 BCE"
@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-22
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Socrates

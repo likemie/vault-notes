@@ -12,8 +12,8 @@ summary: "由 J. P. Guilford 于 1967 年开发的经典发散思维与创造力
 type: instrument
 instrument_type: test
 instrument_related_count: 14
-instrument_related_level: 2
-instrument_related_stars: "⭐⭐"
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#dbeafe"
 part_of: ""
 developers:

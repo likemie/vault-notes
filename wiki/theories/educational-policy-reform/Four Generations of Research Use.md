@@ -9,9 +9,9 @@ summary: "梳理公共部门与教育领域证据使用思维演进的分析框�
 type: theory
 theory_field: "educational-policy-reform"
 theory_related_count: 26
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory/educational-policy
   - theme/research-use

@@ -9,7 +9,7 @@ fact_region: "netherlands"
 fact_kind: "policy"
 fact_related_count: 6
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
 issuing_organization: "Dutch Government"
 tags:
@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-10
-updated: 2026-10-11
+updated: 2026-10-16
 ---
 
 # Netherlands Top-sector Policy

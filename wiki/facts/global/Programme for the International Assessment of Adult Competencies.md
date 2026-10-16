@@ -12,8 +12,8 @@ region: global
 fact_region: "global"
 fact_kind: "program"
 fact_related_count: 24
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2011–至今"
 initiator_organization: "[[OECD]]"

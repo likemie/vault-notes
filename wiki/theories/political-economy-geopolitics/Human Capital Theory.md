@@ -8,8 +8,8 @@ summary: "将教育与培训视为提升劳动生产率与驱动内生经济增�
 type: theory
 theory_field: "political-economy-geopolitics"
 theory_related_count: 80
-theory_related_level: 6
-theory_related_stars: "⭐⭐⭐⭐⭐⭐"
+theory_related_level: 8
+theory_related_stars: "💎💎⭐⭐"
 theory_related_color: "#fef3c7"
 tags:
   - economics-of-education

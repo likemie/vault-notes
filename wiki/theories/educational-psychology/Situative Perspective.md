@@ -9,9 +9,9 @@ summary: "一种将学习和认知视为特定社会、文化与物理环境中�
 type: theory
 theory_field: "educational-psychology"
 theory_related_count: 26
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 domain: "educational-psychology"
 related_count: 0
 related_level: 0

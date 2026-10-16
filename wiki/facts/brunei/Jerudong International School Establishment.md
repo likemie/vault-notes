@@ -12,7 +12,7 @@ fact_region: "brunei"
 fact_kind: "event"
 fact_related_count: 6
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
 tags: [region/brunei, region/new-zealand, level/k12, theme/school-establishment, theme/education-consulting, source/book]
 related_concepts:
@@ -30,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-05-22
+updated: 2026-10-16
 ---
 
 # Jerudong International School Establishment

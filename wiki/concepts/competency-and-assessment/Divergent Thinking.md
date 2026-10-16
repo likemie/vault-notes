@@ -12,7 +12,7 @@ type: concept
 domain: "competency-and-assessment"
 related_count: 55
 related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
+related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
 tags:
   - theme/creativity

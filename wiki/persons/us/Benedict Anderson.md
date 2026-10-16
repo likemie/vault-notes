@@ -9,9 +9,9 @@ type: person
 nationality: "us"
 person_region: "us"
 person_related_count: 17
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 person_kind: "scholar"
 born: 1936
 died: 2015
@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-09
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 
 # Benedict Anderson

@@ -10,7 +10,7 @@ type: concept
 domain: "educational-philosophy"
 related_count: 59
 related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
+related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
 tags:
   - research-philosophy
@@ -86,7 +86,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-14
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Pragmatic Paradigm

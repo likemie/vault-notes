@@ -9,9 +9,9 @@ type: person
 nationality: us
 person_region: "us"
 person_related_count: 56
-person_related_level: 6
-person_related_stars: "⭐⭐⭐⭐⭐⭐"
-person_related_color: "#fef3c7"
+person_related_level: 5
+person_related_stars: "💎⭐⭐"
+person_related_color: "#ffedd5"
 born: "1859"
 died: "1952"
 lifespan: "1859–1952"

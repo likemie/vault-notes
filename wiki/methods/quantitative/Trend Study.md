@@ -12,8 +12,8 @@ type: method
 method_type: quantitative
 method_family: "quantitative"
 method_related_count: 19
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 tags:
   - quantitative-research
@@ -47,7 +47,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-07-09
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Trend Study

@@ -8,9 +8,9 @@ summary: "研究结果能够推广到更广泛总体、案例、情境、时间�
 type: concept
 domain: "research-methodology"
 related_count: 63
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - method/research-methods
   - theme/validity

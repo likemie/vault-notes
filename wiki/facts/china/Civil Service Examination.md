@@ -12,8 +12,8 @@ region: china
 fact_region: "china"
 fact_kind: "event"
 fact_related_count: 9
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
 related_concepts:
   - "[[Self-Cultivation]]"

@@ -9,9 +9,9 @@ summary: "Jason Beech 结合伯恩斯坦话语再情境化理论与卡斯特流�
 type: theory
 theory_field: "comparative-education"
 theory_related_count: 49
-theory_related_level: 5
-theory_related_stars: "⭐⭐⭐⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theme/comparative-education
   - theme/educational-transfer

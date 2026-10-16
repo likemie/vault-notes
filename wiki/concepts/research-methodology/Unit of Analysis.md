@@ -14,9 +14,9 @@ summary: "研究设计、质性编码与内容分析中确定数据切片与分�
 type: concept
 domain: "research-methodology"
 related_count: 99
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 9
+related_stars: "💎💎💎"
+related_color: "#ddd6fe"
 tags:
   - research-methodology
   - qualitative-research

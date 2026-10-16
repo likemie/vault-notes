@@ -9,7 +9,7 @@ type: concept
 domain: "instruction-pedagogy"
 related_count: 37
 related_level: 3
-related_stars: "⭐⭐⭐"
+related_stars: "💎"
 related_color: "#fde68a"
 tags:
   - instructional-design

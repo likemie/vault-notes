@@ -9,7 +9,7 @@ nationality: uk
 person_region: "uk"
 person_related_count: 6
 person_related_level: 0
-person_related_stars: ""
+person_related_stars: "☆"
 person_related_color: "#e5e7eb"
 born: "1900"
 died: "1976"
@@ -33,7 +33,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-07
-updated: 2026-09-22
+updated: 2026-10-16
 ---
 # Gilbert Ryle
 

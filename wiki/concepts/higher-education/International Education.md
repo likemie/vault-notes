@@ -7,7 +7,7 @@ type: concept
 domain: "higher-education"
 related_count: 56
 related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
+related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
 tags:
 - region/global
@@ -78,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-16'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # International Education

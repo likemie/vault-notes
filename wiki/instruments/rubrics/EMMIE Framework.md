@@ -8,9 +8,9 @@ summary: "由英国警务有效性中心推行的五维证据评价与质评量�
 type: instrument
 instrument_type: rubric
 instrument_related_count: 38
-instrument_related_level: 6
-instrument_related_stars: "⭐⭐⭐⭐⭐⭐"
-instrument_related_color: "#fecdd3"
+instrument_related_level: 3
+instrument_related_stars: "💎"
+instrument_related_color: "#ffedd5"
 part_of: ""
 developers:
   - "Johnson, S. D."
@@ -77,7 +77,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # EMMIE Framework

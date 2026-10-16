@@ -9,9 +9,9 @@ summary: "IB 文凭项目的跨学科核心必修课程，通过比较知识形�
 type: concept
 domain: "curriculum"
 related_count: 78
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 7
+related_stars: "💎💎⭐"
+related_color: "#ddd6fe"
 tags:
   - theme/critical-thinking
   - theme/epistemology

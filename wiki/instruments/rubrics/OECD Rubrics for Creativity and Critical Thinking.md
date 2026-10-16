@@ -10,8 +10,8 @@ summary: "由OECD教育研究与创新中心（CERI）研发的通用高阶思�
 type: instrument
 instrument_type: rubric
 instrument_related_count: 17
-instrument_related_level: 3
-instrument_related_stars: "⭐⭐⭐"
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#ffedd5"
 part_of: ""
 developers:
@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-28
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # OECD Rubrics for Creativity and Critical Thinking

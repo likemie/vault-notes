@@ -10,9 +10,9 @@ summary: "法国哲学家与社会学家亨利·列斐伏尔（Henri Lefebvre）
 type: theory
 theory_field: "sociology-of-education"
 theory_related_count: 36
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_level: 3
+theory_related_stars: "💎"
+theory_related_color: "#ede9fe"
 tags:
   - theme/spatial-theory
   - theme/spatial-turn

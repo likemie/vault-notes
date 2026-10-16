@@ -11,9 +11,9 @@ region: global
 fact_region: "global"
 fact_kind: "program"
 fact_related_count: 42
-fact_related_level: 5
-fact_related_stars: "⭐⭐⭐⭐⭐"
-fact_related_color: "#fecdd3"
+fact_related_level: 4
+fact_related_stars: "💎⭐"
+fact_related_color: "#ede9fe"
 period: "2021–"
 initiator_organization: "[[Centre for Educational Research and Innovation]]"
 tags:
@@ -76,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Strengthening the Impact of Education Research Project

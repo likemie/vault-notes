@@ -13,9 +13,9 @@ summary: "教育研究利用领域的全系统构念，指研究知识通过沟�
 type: concept
 domain: "educational-policy-reform"
 related_count: 64
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - knowledge-mobilisation
   - evidence-informed-practice

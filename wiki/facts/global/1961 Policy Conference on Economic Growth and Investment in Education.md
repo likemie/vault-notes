@@ -13,8 +13,8 @@ region: global
 fact_region: "global"
 fact_kind: "event"
 fact_related_count: 17
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
 tags:
   - fact/event
@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-09-12
+updated: 2026-10-16
 ---
 
 # 1961 Policy Conference on Economic Growth and Investment in Education

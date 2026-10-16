@@ -10,9 +10,9 @@ summary: "指由研究生产者、政策制定者、教育实践者、中介机�
 type: concept
 domain: "educational-policy-reform"
 related_count: 89
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 8
+related_stars: "💎💎⭐⭐"
+related_color: "#ddd6fe"
 tags:
   - knowledge-mobilisation
   - evidence-informed-policy

@@ -8,9 +8,9 @@ summary: "由 Kurt Lewin 开创、Morton Deutsch 奠基、David & Roger Johnson 
 type: theory
 theory_field: "instruction-pedagogy"
 theory_related_count: 16
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 domain: "instruction-pedagogy"
 tags:
   - "theory/social-psychology"

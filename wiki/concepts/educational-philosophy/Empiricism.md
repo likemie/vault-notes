@@ -14,7 +14,7 @@ type: concept
 domain: "educational-philosophy"
 related_count: 55
 related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
+related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
 tags: [theme/epistemology, theme/methodology, theme/research-philosophy, paradigm/positivist]
 related_concepts:

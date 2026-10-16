@@ -13,8 +13,8 @@ region: us
 fact_region: "us"
 fact_kind: "program"
 fact_related_count: 17
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "2009–2015"
 initiator_organization: "U.S. Department of Education"

@@ -14,7 +14,7 @@ fact_region: "japan"
 fact_kind: "policy"
 fact_related_count: 7
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
 issuing_organization: "Ministry of Education, Culture, Sports, Science and Technology (MEXT) / Ministry of Foreign Affairs (MOFA) / Ministry of Justice (MOJ)"
 tags:
@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-03
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # 300,000 Foreign Students Plan

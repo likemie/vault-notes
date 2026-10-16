@@ -8,8 +8,8 @@ summary: "由托兰斯开发的经典标准化发散思维测验，包含言语�
 type: instrument
 instrument_type: test
 instrument_related_count: 21
-instrument_related_level: 4
-instrument_related_stars: "⭐⭐⭐⭐"
+instrument_related_level: 2
+instrument_related_stars: "⭐⭐"
 instrument_related_color: "#dbeafe"
 part_of: ""
 developers:

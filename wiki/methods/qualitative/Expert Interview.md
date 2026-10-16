@@ -10,9 +10,9 @@ summary: "将受访者视为具有特定领域专业特权、制度性职能与�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 39
+method_related_count: 40
 method_related_level: 4
-method_related_stars: "⭐⭐⭐⭐"
+method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -59,6 +59,7 @@ related_arguments:
 related_facts:
   - "[[National Science Foundation]]"
   - "[[Engineering Research Centers]]"
+  - "[[Massachusetts Department of Elementary and Secondary Education]]"
   - "[[Institute for Educational Monitoring and Quality Improvement]]"
 related_theories:
   - "[[Knowledge Integration]]"
@@ -172,4 +173,4 @@ updated: 2026-10-16
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Bozeman_2004_JTT\|Bozeman and Boardman (2004)]] — 通过对[[National Science Foundation|美国国家科学基金会]]前主任[[Erich Bloch|埃里希·布洛赫]]（Erich Bloch）展开深度口述史专家访谈，系统复盘了[[Engineering Research Centers|工程研究中心]]（ERC）计划在立项博弈、同行评审、淘汰退出与行政微观管理上的制度演化机制。
 > - [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] — 针对德国四个联邦州教育部质量保障与发展部门官员开展 12 场半结构化专家访谈，深入剖析州教育行政层级对大型实证监测数据的接收、处理与日常利用机制。
-> - [[Argument_Hartong_Forschler_2019_BDS\|Hartong and Förschler (2019)]] — 访谈美国马萨诸塞州 DESE 与德国汉堡 BSB、[[Institute for Educational Monitoring and Quality Improvement\|IfBQ]] 的 20 位数据专家，揭示州级机构在数据清洗、[[Commensuration\|通约]]与问责建模中的暗箱实践。
+> - [[Argument_Hartong_Forschler_2019_BDS\|Hartong and Förschler (2019)]] — 访谈美国马萨诸塞州 [[Massachusetts Department of Elementary and Secondary Education|DESE]] 与德国汉堡 BSB、[[Institute for Educational Monitoring and Quality Improvement\|IfBQ]] 的 20 位数据专家，揭示州级机构在数据清洗、[[Commensuration\|通约]]与问责建模中的暗箱实践。

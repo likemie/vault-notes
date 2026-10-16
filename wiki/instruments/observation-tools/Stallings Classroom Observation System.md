@@ -10,8 +10,8 @@ summary: "由简·斯托林斯研发、后经世界银行在拉美和非洲广�
 type: instrument
 instrument_type: observation-tool
 instrument_related_count: 10
-instrument_related_level: 2
-instrument_related_stars: "⭐⭐"
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#cffafe"
 part_of: ""
 developers:

@@ -10,9 +10,9 @@ summary: "由 Marcia C. Linn 领衔创立的科学教育建构主义教学设计
 type: theory
 theory_field: "instruction-pedagogy"
 theory_related_count: 29
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 domain: "instruction-pedagogy"
 theory_domain: "instruction-pedagogy"
 tags:
@@ -60,7 +60,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Knowledge Integration

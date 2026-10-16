@@ -8,7 +8,7 @@ type: concept
 domain: "educational-policy-reform"
 related_count: 49
 related_level: 4
-related_stars: "⭐⭐⭐⭐"
+related_stars: "💎⭐"
 related_color: "#fdba74"
 theory_related_count: 5
 theory_related_level: 1

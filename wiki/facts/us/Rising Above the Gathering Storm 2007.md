@@ -12,7 +12,7 @@ fact_region: "us"
 fact_kind: "event"
 fact_related_count: 7
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
 tags:
   - "region/us"
@@ -36,7 +36,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-02
+updated: 2026-10-16
 ---
 
 # Rising Above the Gathering Storm 2007

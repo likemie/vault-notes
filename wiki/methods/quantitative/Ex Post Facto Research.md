@@ -8,8 +8,8 @@ type: method
 method_type: quantitative
 method_family: "quantitative"
 method_related_count: 26
-method_related_level: 3
-method_related_stars: "⭐⭐⭐"
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/ex-post-facto
@@ -185,4 +185,4 @@ Lord（1973, p. 6）提出了事后回溯研究的八个阶段（pp. 315–316�
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15]] — 论述事后回溯研究的定义、类型、适用时机与优劣，并以 Morrison（2009）的[[Effective Teaching\|有效教学]]研究为例；其概率性[[Causality\|因果]]与[[Counterfactual\|反事实]]基础见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Ch. 4]]。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch15]] — 论述事后回溯研究的定义、类型、适用时机与优劣，并以 Morrison（2009）的[[Effective Teaching\|有效教学]]研究为例；其概率性因果与[[Counterfactual\|反事实]]基础见 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Ch. 4]]。

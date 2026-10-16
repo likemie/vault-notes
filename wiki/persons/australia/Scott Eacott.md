@@ -7,10 +7,10 @@ summary: "澳大利亚教育行政学者，关系取向组织理论与领导力�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 17
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_count: 18
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "c. 1978"
 died: ""
 lifespan: "c. 1978–至今"

@@ -11,8 +11,8 @@ region: us
 fact_region: "us"
 fact_kind: "program"
 fact_related_count: 9
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
 period: "1968–1972 (后续不定期发行至1998)"
 initiator_organization: Portola Institute

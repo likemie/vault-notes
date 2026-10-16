@@ -8,9 +8,9 @@ summary: "源自微观社会学与社会心理学的核心理论范式，主张�
 type: theory
 theory_field: "sociology-of-education"
 theory_related_count: 40
-theory_related_level: 5
-theory_related_stars: "⭐⭐⭐⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theory/sociological
   - paradigm/interpretive
@@ -66,7 +66,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-13
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Symbolic Interactionism

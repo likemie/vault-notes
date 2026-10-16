@@ -11,7 +11,7 @@ type: concept
 domain: "educational-psychology"
 related_count: 53
 related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
+related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
 tags:
   - educational-psychology

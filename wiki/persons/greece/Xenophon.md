@@ -3,12 +3,12 @@ title: Xenophon
 type: person
 status: stable
 created: 2026-10-01
-updated: 2026-10-15
+updated: 2026-10-16
 nationality: greece
 person_region: "greece"
 person_related_count: 6
 person_related_level: 0
-person_related_stars: ""
+person_related_stars: "☆"
 person_related_color: "#e5e7eb"
 born: "c. 430 BCE"
 died: "354 BCE"

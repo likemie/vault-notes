@@ -10,9 +10,9 @@ summary: "对随机对照试验（RCT）作为证据本位教育‘黄金标准�
 type: concept
 domain: "research-methodology"
 related_count: 86
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 8
+related_stars: "💎💎⭐⭐"
+related_color: "#ddd6fe"
 tags:
   - concept/methodology-critique
   - theme/causality

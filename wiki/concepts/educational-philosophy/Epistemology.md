@@ -9,9 +9,9 @@ summary: "关于知识本质、形式与获取方式的哲学假设，在研究�
 type: concept
 domain: "educational-philosophy"
 related_count: 74
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 7
+related_stars: "💎💎⭐"
+related_color: "#ddd6fe"
 tags:
   - theme/epistemology
   - theme/research-philosophy

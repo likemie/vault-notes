@@ -10,7 +10,7 @@ type: concept
 domain: "comparative-education"
 related_count: 30
 related_level: 3
-related_stars: "⭐⭐⭐"
+related_stars: "💎"
 related_color: "#fde68a"
 theory_related_count: 5
 theory_related_level: 1
@@ -62,7 +62,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-09
-updated: 2026-10-10
+updated: 2026-10-16
 ---
 
 # Rationalism in International Relations

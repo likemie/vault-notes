@@ -9,8 +9,8 @@ summary: "托兰斯创造性思维测验的成人标准化精简版本，包含1
 type: instrument
 instrument_type: test
 instrument_related_count: 9
-instrument_related_level: 1
-instrument_related_stars: "⭐"
+instrument_related_level: 0
+instrument_related_stars: "☆"
 instrument_related_color: "#dbeafe"
 part_of: "[[Torrance Tests of Creative Thinking]]"
 developers:

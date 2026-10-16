@@ -10,9 +10,9 @@ summary: "Allan Best 与 Bob J. Holmes (2010) 提出的知识利用理论分析�
 type: theory
 theory_field: "educational-policy-reform"
 theory_related_count: 37
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_level: 3
+theory_related_stars: "💎"
+theory_related_color: "#ede9fe"
 tags:
   - theory/educational-policy
   - theme/research-use

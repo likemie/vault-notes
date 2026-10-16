@@ -9,7 +9,7 @@ type: concept
 domain: "educational-philosophy"
 related_count: 56
 related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
+related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
 tags:
   - paradigm/interpretive

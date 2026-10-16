@@ -8,9 +8,9 @@ type: person
 nationality: china
 person_region: "china"
 person_related_count: 28
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1990"
 died: ""
 lifespan: "1990–至今"
@@ -56,7 +56,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Yajun Zheng
 

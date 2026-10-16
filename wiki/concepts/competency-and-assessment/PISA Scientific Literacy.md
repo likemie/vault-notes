@@ -9,7 +9,7 @@ type: concept
 domain: "competency-and-assessment"
 related_count: 35
 related_level: 3
-related_stars: "⭐⭐⭐"
+related_stars: "💎"
 related_color: "#fde68a"
 tags:
   - pisa
@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-10-11'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # PISA Scientific Literacy

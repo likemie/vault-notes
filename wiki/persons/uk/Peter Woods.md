@@ -9,9 +9,9 @@ type: person
 nationality: uk
 person_region: "uk"
 person_related_count: 26
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1934"
 died: "2021"
 lifespan: "1934–2021"
@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-09
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Peter Woods

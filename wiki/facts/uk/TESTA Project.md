@@ -13,7 +13,7 @@ fact_region: "uk"
 fact_kind: "program"
 fact_related_count: 7
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
 tags:
   - policy/higher-education
@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-09-22
+updated: 2026-10-16
 ---
 
 # TESTA Project

@@ -9,8 +9,8 @@ summary: "由赫普纳与彼得森编制的35题自陈量表，从问题解决�
 type: instrument
 instrument_type: inventory
 instrument_related_count: 10
-instrument_related_level: 2
-instrument_related_stars: "⭐⭐"
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#ede9fe"
 developers:
   - "Heppner, P. P."

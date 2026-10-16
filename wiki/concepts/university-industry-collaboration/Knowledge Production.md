@@ -8,8 +8,8 @@ summary: "知识的创造、建构与合法化过程；在宏观场域揭示资�
 type: concept
 domain: "university-industry-collaboration"
 related_count: 133
-related_level: 6
-related_stars: "⭐⭐⭐⭐⭐⭐"
+related_level: 13
+related_stars: "💎💎💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - subject/comparative-education

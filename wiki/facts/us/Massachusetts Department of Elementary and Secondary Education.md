@@ -12,8 +12,8 @@ region: us
 fact_region: "us"
 fact_kind: "organization"
 fact_related_count: 8
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
 org_type: state-education-agency
 headquarters: "Malden, Massachusetts, United States"
@@ -40,7 +40,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-09-22
+updated: 2026-10-16
 ---
 
 # Massachusetts Department of Elementary and Secondary Education

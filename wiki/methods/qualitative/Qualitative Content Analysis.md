@@ -9,9 +9,9 @@ summary: "将规则主导的系统性程序与质性诠释深度融合的文本�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 49
-method_related_level: 5
-method_related_stars: "⭐⭐⭐⭐⭐"
+method_related_count: 48
+method_related_level: 4
+method_related_stars: "💎⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -40,7 +40,6 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Unit of Analysis]]"
   - "[[Classroom Management]]"
-  - "[[School Inspection]]"
   - "[[Central Phenomenon]]"
 related_theories:
   - "[[Symbolic Interactionism]]"
@@ -281,7 +280,7 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] — 在专章中系统整合 Mayring 质性[[Content Analysis\|内容分析]]的三大核心进路与形成性复核规程，确立其在教育研究编码与范畴构建中的基石地位（Ch. 30）。
-> - [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] — 以 Mayring 质性内容分析的归纳与演绎进路，对德国 4 州官员访谈、报道与公文系统编码，揭示 [[PISA]]、[[Vergleichsarbeiten\|VERA]] 与[[School Inspection\|督导]]在科层实践中从象征利用走向常规运用（pp. 489–491）。
+> - [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] — 以 Mayring 质性内容分析的归纳与演绎进路，对德国 4 州官员访谈、报道与公文系统编码，揭示 [[PISA]]、[[Vergleichsarbeiten\|VERA]] 与督导在科层实践中从象征利用走向常规运用（pp. 489–491）。
 
 ---
 

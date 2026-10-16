@@ -6,8 +6,8 @@ summary: "国家战略力量、公共福利与民主合法性同前沿科技与�
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 117
-related_level: 6
-related_stars: "⭐⭐⭐⭐⭐⭐"
+related_level: 11
+related_stars: "💎💎💎⭐⭐"
 related_color: "#ddd6fe"
 tags:
   - concept/political-economy

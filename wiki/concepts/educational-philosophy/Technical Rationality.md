@@ -11,8 +11,8 @@ summary: "将专业实践与教育治理窄化为手段-目的因果计算与去
 type: concept
 domain: "educational-philosophy"
 related_count: 104
-related_level: 6
-related_stars: "⭐⭐⭐⭐⭐⭐"
+related_level: 10
+related_stars: "💎💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - theme/technical-rationality

@@ -9,9 +9,9 @@ summary: "斯托克斯（Donald Stokes）1997年提出的科研分类框架，�
 type: theory
 theory_field: "science-policy"
 theory_related_count: 44
-theory_related_level: 5
-theory_related_stars: "⭐⭐⭐⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theme/science-policy
   - theme/research-classification
@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Pasteur's Quadrant

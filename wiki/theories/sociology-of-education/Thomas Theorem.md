@@ -11,9 +11,9 @@ summary: "符号互动论与微观教育社会学的奠基性定理，指出行�
 type: theory
 theory_field: "sociology-of-education"
 theory_related_count: 24
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory/sociology-of-education
   - paradigm/interpretive

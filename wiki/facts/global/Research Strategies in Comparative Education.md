@@ -14,8 +14,8 @@ region: global
 fact_region: "global"
 fact_kind: "event"
 fact_related_count: 24
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
 tags:
   - subject/comparative-education
@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Research Strategies in Comparative Education

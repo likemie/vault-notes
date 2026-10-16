@@ -10,7 +10,7 @@ type: concept
 domain: "political-economy-geopolitics"
 related_count: 39
 related_level: 3
-related_stars: "⭐⭐⭐"
+related_stars: "💎"
 related_color: "#fde68a"
 tags:
   - theme/political-economy
@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Intellectual Capital

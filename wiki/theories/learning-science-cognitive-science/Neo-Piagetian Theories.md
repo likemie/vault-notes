@@ -7,9 +7,9 @@ summary: "修正皮亚杰模型的新皮亚杰理论群：Pascual-Leone 的双�
 type: theory
 theory_field: "learning-science-cognitive-science"
 theory_related_count: 9
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_level: 0
+theory_related_stars: "☆"
+theory_related_color: "#e5e7eb"
 tags:
 - neo-piagetian
 - cognitive-development

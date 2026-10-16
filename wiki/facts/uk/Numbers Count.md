@@ -11,8 +11,8 @@ region: uk
 fact_region: "uk"
 fact_kind: "program"
 fact_related_count: 16
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "2007–至今"
 initiator_organization: "边山大学（Edge Hill University）/ 英国教育部（Department for Education）"

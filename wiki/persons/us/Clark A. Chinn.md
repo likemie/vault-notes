@@ -9,9 +9,9 @@ type: person
 nationality: "us"
 person_region: "us"
 person_related_count: 41
-person_related_level: 5
-person_related_stars: "⭐⭐⭐⭐⭐"
-person_related_color: "#ffedd5"
+person_related_level: 4
+person_related_stars: "💎⭐"
+person_related_color: "#fce7f3"
 born: "c. 1961"
 died: ""
 lifespan: "c. 1961–至今"

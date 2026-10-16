@@ -15,7 +15,7 @@ fact_region: "china"
 fact_kind: "organization"
 fact_related_count: 7
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
 org_type: 国家级基础研究与应用基础研究科学基金资助机构
 headquarters: 中国北京（Beijing, China）

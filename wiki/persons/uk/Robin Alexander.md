@@ -8,9 +8,9 @@ type: person
 nationality: uk
 person_region: "uk"
 person_related_count: 28
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1941"
 lifespan: 1941–至今
 tags:
@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-01
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Robin Alexander

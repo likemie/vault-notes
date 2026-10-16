@@ -6,9 +6,9 @@ summary: "因果推断的核心框架，通过比较同一主体在不同处理�
 type: theory
 theory_field: "research-methodology"
 theory_related_count: 9
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_level: 0
+theory_related_stars: "☆"
+theory_related_color: "#e5e7eb"
 tags:
 - potential-outcomes-framework
 - causal-inference

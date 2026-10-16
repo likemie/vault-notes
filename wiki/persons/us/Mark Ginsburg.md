@@ -10,9 +10,9 @@ type: person
 nationality: us
 person_region: "us"
 person_related_count: 17
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1949"
 died: ""
 lifespan: "1949–至今"
@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Mark Ginsburg

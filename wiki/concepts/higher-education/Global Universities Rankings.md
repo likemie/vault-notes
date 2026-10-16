@@ -11,7 +11,7 @@ type: concept
 domain: "higher-education"
 related_count: 55
 related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
+related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
 tags:
   - university-rankings

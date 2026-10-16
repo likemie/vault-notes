@@ -12,7 +12,7 @@ fact_region: "new-zealand"
 fact_kind: "event"
 fact_related_count: 7
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
 tags:
   - teach-first
@@ -37,7 +37,7 @@ related_instruments: []
 confidence: medium
 status: draft
 created: 2026-05-04
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 ## 概述
 

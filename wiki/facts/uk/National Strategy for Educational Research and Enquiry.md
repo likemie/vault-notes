@@ -11,8 +11,8 @@ region: uk
 fact_region: "uk"
 fact_kind: "policy"
 fact_related_count: 28
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "威尔士政府（Welsh Government）"
 period: "2021 年至今"
@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # National Strategy for Educational Research and Enquiry

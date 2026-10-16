@@ -10,9 +10,9 @@ summary: "有效干预清算中心（WWC）在创设初期研发的因果证据�
 type: instrument
 instrument_type: checklist
 instrument_related_count: 26
-instrument_related_level: 6
-instrument_related_stars: "⭐⭐⭐⭐⭐⭐"
-instrument_related_color: "#fecdd3"
+instrument_related_level: 2
+instrument_related_stars: "⭐⭐"
+instrument_related_color: "#e5e7eb"
 part_of: ""
 developers:
   - "有效干预清算中心（WWC）"

@@ -11,7 +11,7 @@ type: concept
 domain: "political-economy-geopolitics"
 related_count: 57
 related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
+related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
 tags:
   - political-economy-geopolitics

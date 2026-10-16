@@ -10,9 +10,9 @@ summary: "由 2001 年美国《不让一个孩子掉队法》（NCLB）与 2002 
 type: concept
 domain: "educational-policy-reform"
 related_count: 60
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - concept
   - policy/us-federal

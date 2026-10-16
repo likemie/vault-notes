@@ -10,8 +10,8 @@ summary: "由夏洛特·丹尼尔森研发的全面教学表现与教师评价�
 type: instrument
 instrument_type: observation-tool
 instrument_related_count: 10
-instrument_related_level: 2
-instrument_related_stars: "⭐⭐"
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#cffafe"
 part_of: ""
 developers:
@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Framework for Teaching

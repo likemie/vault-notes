@@ -8,9 +8,9 @@ type: person
 nationality: us
 person_region: "us"
 person_related_count: 16
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1969"
 died: ""
 lifespan: "1969–至今"

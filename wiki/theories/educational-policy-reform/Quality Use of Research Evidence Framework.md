@@ -13,7 +13,7 @@ type: theory
 theory_field: "educational-policy-reform"
 theory_related_count: 61
 theory_related_level: 6
-theory_related_stars: "⭐⭐⭐⭐⭐⭐"
+theory_related_stars: "💎💎"
 theory_related_color: "#fef3c7"
 tags:
   - theory/research-use

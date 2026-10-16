@@ -11,8 +11,8 @@ region: "global"
 fact_region: "global"
 fact_kind: "program"
 fact_related_count: 17
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "2021–至今"
 initiator_organization: "UNESCO, UNICEF & World Bank"
@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Learning Data Compact

@@ -9,7 +9,7 @@ type: theory
 theory_field: "political-economy-geopolitics"
 theory_related_count: 5
 theory_related_level: 0
-theory_related_stars: ""
+theory_related_stars: "☆"
 theory_related_color: "#e5e7eb"
 tags:
 - geopolitics-of-knowledge
@@ -30,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: '2026-05-18'
+updated: 2026-10-16
 ---
 
 # Concealment-Exposure Framework

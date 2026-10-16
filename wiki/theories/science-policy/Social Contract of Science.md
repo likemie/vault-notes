@@ -9,9 +9,9 @@ summary: "社会整体与科学共同体之间围绕知识生产的公共价值�
 type: theory
 theory_field: "science-policy"
 theory_related_count: 32
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_level: 3
+theory_related_stars: "💎"
+theory_related_color: "#ede9fe"
 tags:
   - theme/science-policy
   - theme/research-governance

@@ -12,8 +12,8 @@ region: us
 fact_region: "us"
 fact_kind: "program"
 fact_related_count: 18
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 period: "1991–2000s"
 initiator_organization: "加州大学伯克利分校（University of California, Berkeley）、阿尔弗雷德·P·斯隆基金会（Alfred P. Sloan Foundation）"
@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-04
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Competitive Semiconductor Manufacturing Program

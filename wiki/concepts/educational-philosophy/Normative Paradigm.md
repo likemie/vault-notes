@@ -6,7 +6,7 @@ type: concept
 domain: "educational-philosophy"
 related_count: 35
 related_level: 3
-related_stars: "⭐⭐⭐"
+related_stars: "💎"
 related_color: "#fde68a"
 tags: [paradigm/normative, theme/epistemology, theme/research-philosophy, methodology/quantitative]
 related_concepts:

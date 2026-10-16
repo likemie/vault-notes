@@ -10,9 +10,9 @@ type: person
 nationality: chile
 person_region: "chile"
 person_related_count: 24
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "c. 1988"
 died: ""
 lifespan: "c. 1988–至今"
@@ -55,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # José Manuel Torres

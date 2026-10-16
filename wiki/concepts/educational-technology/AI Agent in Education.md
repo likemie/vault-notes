@@ -12,7 +12,7 @@ type: concept
 domain: "educational-technology"
 related_count: 35
 related_level: 3
-related_stars: "⭐⭐⭐"
+related_stars: "💎"
 related_color: "#fde68a"
 related_concepts:
   - "[[Generative Artificial Intelligence]]"

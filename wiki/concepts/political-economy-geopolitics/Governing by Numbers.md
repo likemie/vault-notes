@@ -9,7 +9,7 @@ type: concept
 domain: "political-economy-geopolitics"
 related_count: 43
 related_level: 4
-related_stars: "⭐⭐⭐⭐"
+related_stars: "💎⭐"
 related_color: "#fdba74"
 tags:
   - governance-by-numbers

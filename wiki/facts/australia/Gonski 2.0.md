@@ -13,8 +13,8 @@ region: australia
 fact_region: "australia"
 fact_kind: "policy"
 fact_related_count: 25
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "Australian Government"
 tags:
@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Gonski 2.0

@@ -8,9 +8,9 @@ summary: "解释行动为何同时受反思性策略与深层价值倾向驱动�
 type: theory
 theory_field: "sociology-of-education"
 theory_related_count: 16
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - dual-process-model
   - cultural-sociology
@@ -41,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-08
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Dual-Process Model of Culture in Action

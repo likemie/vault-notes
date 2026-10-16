@@ -11,8 +11,8 @@ region: uk
 fact_region: "uk"
 fact_kind: "organization"
 fact_related_count: 27
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: academic-association
 headquarters: London, United Kingdom

@@ -12,9 +12,9 @@ region: uk
 fact_region: "uk"
 fact_kind: "policy"
 fact_related_count: 48
-fact_related_level: 5
-fact_related_stars: "⭐⭐⭐⭐⭐"
-fact_related_color: "#fecdd3"
+fact_related_level: 4
+fact_related_stars: "💎⭐"
+fact_related_color: "#dbeafe"
 issuing_organization: "英国中央政府内阁办公室（Cabinet Office）"
 tags:
   - evidence-based-policy

@@ -10,9 +10,9 @@ type: person
 nationality: us
 person_region: "us"
 person_related_count: 16
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1947"
 died: ""
 lifespan: "1947–至今"
@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-02
-updated: 2026-10-02
+updated: 2026-10-16
 ---
 
 # Paula Stephan

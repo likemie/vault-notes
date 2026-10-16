@@ -9,9 +9,9 @@ summary: "阿诺夫与托雷斯开创的批判比较教育学核心理论框架�
 type: theory
 theory_field: "comparative-education"
 theory_related_count: 47
-theory_related_level: 5
-theory_related_stars: "⭐⭐⭐⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theory/comparative-education
   - globalization

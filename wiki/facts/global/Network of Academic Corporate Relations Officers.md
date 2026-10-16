@@ -11,7 +11,7 @@ fact_region: "global"
 fact_kind: "organization"
 fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
 tags:
   - "theme/university-industry-collaboration"
@@ -31,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-28
-updated: 2026-09-11
+updated: 2026-10-16
 ---
 
 # Network of Academic Corporate Relations Officers

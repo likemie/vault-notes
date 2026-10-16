@@ -7,9 +7,9 @@ summary: "由玛丽安娜·马祖卡托提出的使命导向创新政策分析�
 type: theory
 theory_field: "science-policy"
 theory_related_count: 26
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory/science-policy
   - innovation-policy

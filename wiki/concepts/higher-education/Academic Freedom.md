@@ -8,9 +8,9 @@ summary: "大学教师与学生在追求学术真理、传播思想、开展科�
 type: concept
 domain: "higher-education"
 related_count: 61
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - theme/academic-freedom
   - theme/higher-education-governance

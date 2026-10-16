@@ -12,8 +12,8 @@ region: global
 fact_region: "global"
 fact_kind: "organization"
 fact_related_count: 18
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: 国际多利益相关方伙伴组织（Multi-Stakeholder Partnership）
 headquarters: 华盛顿特区（Washington, D.C.）

@@ -13,9 +13,9 @@ summary: "由政府部门、中介组织、智库、高校与私有资本等多�
 type: concept
 domain: "educational-policy-reform"
 related_count: 72
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 7
+related_stars: "💎💎⭐"
+related_color: "#ddd6fe"
 tags:
   - educational-policy-reform
   - governance

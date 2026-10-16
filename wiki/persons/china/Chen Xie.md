@@ -8,9 +8,9 @@ type: person
 nationality: china
 person_region: "china"
 person_related_count: 8
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "c. 1988"
 died: ""
 lifespan: "c. 1988–至今"
@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-09-13
+updated: 2026-10-16
 ---
 ## 简介
 

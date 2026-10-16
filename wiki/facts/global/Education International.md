@@ -9,8 +9,8 @@ region: global
 fact_region: "global"
 fact_kind: "organization"
 fact_related_count: 27
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: international-union-federation
 headquarters: "Brussels, Belgium"
@@ -56,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-09
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Education International

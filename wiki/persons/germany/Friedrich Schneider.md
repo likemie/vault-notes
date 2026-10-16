@@ -8,9 +8,9 @@ type: person
 nationality: germany
 person_region: "germany"
 person_related_count: 29
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1881"
 died: "1974"
 lifespan: "1881–1974"
@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 
 # Friedrich Schneider

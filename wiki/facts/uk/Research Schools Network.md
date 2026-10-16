@@ -11,8 +11,8 @@ region: uk
 fact_region: "uk"
 fact_kind: "organization"
 fact_related_count: 36
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
 org_type: "全国性分布式校际知识中介网络"
 headquarters: "英国伦敦与约克（London & York, UK）"

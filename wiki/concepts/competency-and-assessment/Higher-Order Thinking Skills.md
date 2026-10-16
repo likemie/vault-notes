@@ -11,9 +11,9 @@ summary: "超越基础事实再认与机械程序算法的复杂心智加工能�
 type: concept
 domain: "competency-and-assessment"
 related_count: 87
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 8
+related_stars: "💎💎⭐⭐"
+related_color: "#ddd6fe"
 confidence: high
 tags:
   - theme/higher-order-thinking

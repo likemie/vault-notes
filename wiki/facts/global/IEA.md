@@ -10,8 +10,8 @@ region: global
 fact_region: "global"
 fact_kind: "organization"
 fact_related_count: 53
-fact_related_level: 6
-fact_related_stars: "⭐⭐⭐⭐⭐⭐"
+fact_related_level: 5
+fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
 tags:
   - theme/international-organizations
@@ -82,7 +82,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-08
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # IEA

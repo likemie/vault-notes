@@ -8,9 +8,9 @@ type: person
 nationality: france
 person_region: "france"
 person_related_count: 17
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1596"
 died: "1650"
 lifespan: "1596–1650"
@@ -50,7 +50,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-22
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # René Descartes

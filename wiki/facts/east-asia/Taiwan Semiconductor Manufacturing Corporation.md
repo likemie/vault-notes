@@ -12,8 +12,8 @@ region: east-asia
 fact_region: "east-asia"
 fact_kind: "organization"
 fact_related_count: 28
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: 跨国高科技半导体制造企业 / 纯晶圆代工巨头
 headquarters: 中国台湾新竹科学园区（Hsinchu Science Park, Taiwan）

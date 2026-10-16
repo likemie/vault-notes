@@ -10,7 +10,7 @@ type: concept
 domain: "educational-technology"
 related_count: 30
 related_level: 3
-related_stars: "⭐⭐⭐"
+related_stars: "💎"
 related_color: "#fde68a"
 tags:
   - educational-technology
@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-19
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Avatar

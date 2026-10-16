@@ -9,7 +9,7 @@ method_type: qualitative
 method_family: "qualitative"
 method_related_count: 7
 method_related_level: 0
-method_related_stars: ""
+method_related_stars: "☆"
 method_related_color: "#dbeafe"
 tags:
   - method/archival

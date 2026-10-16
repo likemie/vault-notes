@@ -10,9 +10,9 @@ type: person
 nationality: us
 person_region: "us"
 person_related_count: 39
-person_related_level: 4
-person_related_stars: "⭐⭐⭐⭐"
-person_related_color: "#fce7f3"
+person_related_level: 3
+person_related_stars: "💎"
+person_related_color: "#ede9fe"
 born: "1934"
 lifespan: "1934–至今"
 tags:
@@ -68,7 +68,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-29
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Val D. Rust

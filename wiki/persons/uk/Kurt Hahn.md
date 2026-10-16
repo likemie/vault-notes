@@ -9,7 +9,7 @@ nationality: uk
 person_region: "uk"
 person_related_count: 6
 person_related_level: 0
-person_related_stars: ""
+person_related_stars: "☆"
 person_related_color: "#e5e7eb"
 born: "1886"
 died: "1974"
@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-10
+updated: 2026-10-16
 ---
 
 # Kurt Hahn

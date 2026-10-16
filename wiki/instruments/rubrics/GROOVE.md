@@ -9,8 +9,8 @@ summary: "用于伞状综述与二阶元分析中量化、探索与可视化初�
 type: instrument
 instrument_type: rubric
 instrument_related_count: 11
-instrument_related_level: 2
-instrument_related_stars: "⭐⭐"
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#ffedd5"
 part_of: ""
 developers:
@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # GROOVE

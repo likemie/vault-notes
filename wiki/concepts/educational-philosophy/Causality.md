@@ -10,9 +10,9 @@ summary: "教育与社会科学中建立原因与效果之间关系的推理体�
 type: concept
 domain: "educational-philosophy"
 related_count: 86
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 8
+related_stars: "💎💎⭐⭐"
+related_color: "#ddd6fe"
 tags:
   - causality
   - causal-inference

@@ -9,8 +9,8 @@ type: person
 nationality: new-zealand
 person_region: "new-zealand"
 person_related_count: 133
-person_related_level: 6
-person_related_stars: "⭐⭐⭐⭐⭐⭐"
+person_related_level: 13
+person_related_stars: "💎💎💎💎⭐"
 person_related_color: "#fef3c7"
 born: "1950"
 died: ""

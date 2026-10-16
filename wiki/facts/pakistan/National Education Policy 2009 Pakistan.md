@@ -12,7 +12,7 @@ fact_region: "pakistan"
 fact_kind: "policy"
 fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
 issuing_organization: Ministry of Education, Government of Pakistan
 tags:
@@ -31,7 +31,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-02
-updated: 2026-07-02
+updated: 2026-10-16
 ---
 
 # National Education Policy 2009 Pakistan

@@ -9,9 +9,9 @@ summary: "Robert Cowen（2009b）提出、Jason Beech（2009a, 2009b）与 Stein
 type: concept
 domain: "comparative-education"
 related_count: 73
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 7
+related_stars: "💎💎⭐"
+related_color: "#ddd6fe"
 tags:
   - theme/knowledge-transfer
   - theme/comparative-education

@@ -8,9 +8,9 @@ summary: "由 Icek Ajzen 提出的社会心理学经典行为决策理论，主�
 type: theory
 theory_field: "educational-psychology"
 theory_related_count: 24
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory/psychology
   - theme/behavioral-science
@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Theory of Planned Behavior

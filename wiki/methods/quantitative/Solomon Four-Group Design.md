@@ -10,8 +10,8 @@ type: method
 method_type: quantitative
 method_family: "quantitative"
 method_related_count: 17
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/experimental
@@ -39,7 +39,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
 status: draft
 created: 2026-06-01
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 # Solomon Four-Group Design
 

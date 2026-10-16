@@ -10,8 +10,8 @@ type: method
 method_type: quantitative
 method_family: "quantitative"
 method_related_count: 16
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/quantitative
@@ -163,7 +163,7 @@ updated: 2026-10-16
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — [[Confirmatory Factor Analysis\|CFA]] 显示四个维度 AVE 为 .50–.56，均达标且高于因子间决定系数，[[Convergent and Discriminant Validity\|收敛与区分效度]]良好。
+> - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — [[Confirmatory Factor Analysis\|CFA]] 显示四个维度 AVE 为 .50–.56，均达标且高于因子间决定系数，收敛与[[Convergent and Discriminant Validity|区分效度]]良好。
 
 ---
 

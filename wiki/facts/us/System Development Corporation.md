@@ -11,8 +11,8 @@ region: us
 fact_region: "us"
 fact_kind: "organization"
 fact_related_count: 16
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: "国防承包商 / 软件工程研发机构"
 headquarters: "美国加利福尼亚州圣莫尼卡（Santa Monica, California）"

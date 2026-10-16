@@ -9,8 +9,8 @@ summary: "由乔治·库（George Kuh）领衔、印第安纳大学高等教育�
 type: instrument
 instrument_type: questionnaire
 instrument_related_count: 10
-instrument_related_level: 2
-instrument_related_stars: "⭐⭐"
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#fef3c7"
 part_of: ""
 developers:
@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-09-11
+updated: 2026-10-16
 ---
 
 # National Survey of Student Engagement

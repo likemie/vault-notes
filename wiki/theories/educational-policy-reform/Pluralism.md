@@ -16,9 +16,9 @@ summary: "跨越政治学、文化哲学与比较教育学的核心理论。在�
 type: theory
 theory_field: "educational-policy-reform"
 theory_related_count: 53
-theory_related_level: 6
-theory_related_stars: "⭐⭐⭐⭐⭐⭐"
-theory_related_color: "#fef3c7"
+theory_related_level: 5
+theory_related_stars: "💎⭐⭐"
+theory_related_color: "#ffedd5"
 subtype: educational-policy-reform
 tags:
   - theory/educational-policy-reform

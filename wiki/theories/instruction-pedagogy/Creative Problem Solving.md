@@ -9,9 +9,9 @@ summary: "由奥斯本与帕内斯创立的经典结构化认知干预模型，�
 type: theory
 theory_field: "instruction-pedagogy"
 theory_related_count: 28
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - field/instruction-pedagogy
   - field/educational-psychology

@@ -12,8 +12,8 @@ region: "uk"
 fact_region: "uk"
 fact_kind: "policy"
 fact_related_count: 33
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
 issuing_organization: "Department for Education"
 tags:

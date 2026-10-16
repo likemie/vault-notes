@@ -7,8 +7,8 @@ type: method
 method_type: mixed
 method_family: "mixed"
 method_related_count: 16
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_level: 1
+method_related_stars: "⭐"
 method_related_color: "#fef3c7"
 tags:
 - gating-procedure
@@ -41,7 +41,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 
 ## 定义

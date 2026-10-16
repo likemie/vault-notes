@@ -13,8 +13,8 @@ region: germany
 fact_region: "germany"
 fact_kind: "program"
 fact_related_count: 29
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2004–至今"
 initiator_organization: "[[Standing Conference of the Ministers of Education and Cultural Affairs]]"
@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Vergleichsarbeiten

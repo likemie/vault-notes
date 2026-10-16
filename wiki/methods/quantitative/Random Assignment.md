@@ -12,8 +12,8 @@ type: method
 method_type: quantitative
 method_family: "quantitative"
 method_related_count: 50
-method_related_level: 6
-method_related_stars: "⭐⭐⭐⭐⭐⭐"
+method_related_level: 5
+method_related_stars: "💎⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/experimental

@@ -8,9 +8,9 @@ summary: "由 John Sweller 于 1988 年创立的经典学习与教学设计理�
 type: theory
 theory_field: "learning-science-cognitive-science"
 theory_related_count: 48
-theory_related_level: 5
-theory_related_stars: "⭐⭐⭐⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theory/learning-science
   - theory/cognitive-psychology

@@ -10,9 +10,9 @@ summary: "William Perry提出的认识论认知开创性阶段发展理论，描
 type: theory
 theory_field: "educational-psychology"
 theory_related_count: 35
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_level: 3
+theory_related_stars: "💎"
+theory_related_color: "#ede9fe"
 tags:
   - theme/epistemological-beliefs
   - theory/developmental

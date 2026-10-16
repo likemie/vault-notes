@@ -9,7 +9,7 @@ method_type: quantitative
 method_family: "quantitative"
 method_related_count: 7
 method_related_level: 0
-method_related_stars: ""
+method_related_stars: "☆"
 method_related_color: "#dcfce7"
 tags:
   - method/sampling
@@ -30,7 +30,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-22
-updated: 2026-10-05
+updated: 2026-10-16
 ---
 # Sampling Frame
 

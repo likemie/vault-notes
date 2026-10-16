@@ -11,8 +11,8 @@ region: multi
 fact_region: "multi"
 fact_kind: "organization"
 fact_related_count: 9
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
 tags:
   - region/north-america
@@ -36,7 +36,7 @@ related_theories: []
 confidence: high
 status: draft
 created: 2026-09-01
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # International Baccalaureate North America

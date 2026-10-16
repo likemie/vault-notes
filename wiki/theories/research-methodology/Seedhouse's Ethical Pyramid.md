@@ -10,7 +10,7 @@ type: theory
 theory_field: "research-methodology"
 theory_related_count: 6
 theory_related_level: 0
-theory_related_stars: ""
+theory_related_stars: "☆"
 theory_related_color: "#e5e7eb"
 tags:
   - theory/research-ethics

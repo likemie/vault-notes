@@ -9,9 +9,9 @@ type: person
 nationality: china
 person_region: "china"
 person_related_count: 9
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "c. 310 BCE"
 died: "238 BCE"
 lifespan: "c. 310 BCE – 238 BCE"
@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-25
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Xunzi
 

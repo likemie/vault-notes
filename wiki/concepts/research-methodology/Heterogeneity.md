@@ -7,9 +7,9 @@ summary: "跨研究或同一群体内部超出抽样误差的系统性变异；�
 type: concept
 domain: "research-methodology"
 related_count: 79
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 7
+related_stars: "💎💎⭐"
+related_color: "#ddd6fe"
 tags:
   - heterogeneity
   - meta-analysis

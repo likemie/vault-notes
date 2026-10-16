@@ -7,8 +7,8 @@ summary: "用于测量学生认识论和本体论认知（EOC）的多维问卷�
 type: instrument
 instrument_type: questionnaire
 instrument_related_count: 7
-instrument_related_level: 1
-instrument_related_stars: "⭐"
+instrument_related_level: 0
+instrument_related_stars: "☆"
 instrument_related_color: "#fef3c7"
 part_of: ""
 developers:
@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-15
-updated: 2026-09-11
+updated: 2026-10-16
 ---
 
 # Epistemic and Ontological Cognition Questionnaire

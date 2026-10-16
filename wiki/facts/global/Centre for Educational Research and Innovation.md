@@ -12,8 +12,8 @@ region: global
 fact_region: "global"
 fact_kind: "organization"
 fact_related_count: 55
-fact_related_level: 6
-fact_related_stars: "⭐⭐⭐⭐⭐⭐"
+fact_related_level: 5
+fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
 org_type: "international-organization"
 headquarters: "法国巴黎（Paris, France）"

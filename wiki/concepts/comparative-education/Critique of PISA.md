@@ -9,9 +9,9 @@ summary: "对经合组织国际学生评估项目（PISA）的系统性学术反
 type: concept
 domain: "comparative-education"
 related_count: 71
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 7
+related_stars: "💎💎⭐"
+related_color: "#ddd6fe"
 tags:
   - pisa
   - critique/pisa

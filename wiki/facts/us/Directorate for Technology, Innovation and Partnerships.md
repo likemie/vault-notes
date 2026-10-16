@@ -14,8 +14,8 @@ region: us
 fact_region: "us"
 fact_kind: "organization"
 fact_related_count: 38
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
 org_type: "联邦科研资助与技术转化机构（Federal Funding & Technology Translation Directorate）"
 headquarters: "美国弗吉尼亚州亚历山大市（Alexandria, VA）"

@@ -10,7 +10,7 @@ type: theory
 theory_field: "political-economy-geopolitics"
 theory_related_count: 62
 theory_related_level: 6
-theory_related_stars: "⭐⭐⭐⭐⭐⭐"
+theory_related_stars: "💎💎"
 theory_related_color: "#fef3c7"
 tags:
   - theory/political-economy

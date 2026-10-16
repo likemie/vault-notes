@@ -12,8 +12,8 @@ region: global
 fact_region: "global"
 fact_kind: "organization"
 fact_related_count: 94
-fact_related_level: 6
-fact_related_stars: "⭐⭐⭐⭐⭐⭐"
+fact_related_level: 9
+fact_related_stars: "💎💎💎"
 fact_related_color: "#fecdd3"
 org_type: multilateral-development-bank
 headquarters: "华盛顿特区（美国）"

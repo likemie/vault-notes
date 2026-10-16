@@ -9,7 +9,7 @@ nationality: uk
 person_region: "uk"
 person_related_count: 7
 person_related_level: 0
-person_related_stars: ""
+person_related_stars: "☆"
 person_related_color: "#e5e7eb"
 born: "c. 1950"
 died: ""
@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-10-03
+updated: 2026-10-16
 ---
 ## 简介
 

@@ -11,7 +11,7 @@ type: concept
 domain: "comparative-education"
 related_count: 54
 related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
+related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
 tags:
   - subject/comparative-education

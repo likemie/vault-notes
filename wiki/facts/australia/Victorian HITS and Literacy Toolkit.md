@@ -13,7 +13,7 @@ fact_region: "australia"
 fact_kind: "policy"
 fact_related_count: 30
 fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
 issuing_organization: "Department of Education and Training Victoria"
 tags:

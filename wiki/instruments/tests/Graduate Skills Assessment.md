@@ -9,8 +9,8 @@ summary: "由澳大利亚教育研究委员会（ACER）研发的国家级大学
 type: instrument
 instrument_type: test
 instrument_related_count: 9
-instrument_related_level: 1
-instrument_related_stars: "⭐"
+instrument_related_level: 0
+instrument_related_stars: "☆"
 instrument_related_color: "#dbeafe"
 part_of: ""
 developers:
@@ -48,7 +48,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Graduate Skills Assessment

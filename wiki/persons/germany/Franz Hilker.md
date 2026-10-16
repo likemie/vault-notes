@@ -10,9 +10,9 @@ type: person
 nationality: germany
 person_region: "germany"
 person_related_count: 27
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1881"
 died: "1969"
 lifespan: "1881–1969"

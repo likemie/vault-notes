@@ -9,7 +9,7 @@ type: concept
 domain: "comparative-education"
 related_count: 45
 related_level: 4
-related_stars: "⭐⭐⭐⭐"
+related_stars: "💎⭐"
 related_color: "#fdba74"
 tags:
   - subject/comparative-education
@@ -71,7 +71,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-06-07
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Relational Space

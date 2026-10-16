@@ -13,8 +13,8 @@ region: europe
 fact_region: "europe"
 fact_kind: "policy"
 fact_related_count: 25
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
 tags:
   - bologna-process

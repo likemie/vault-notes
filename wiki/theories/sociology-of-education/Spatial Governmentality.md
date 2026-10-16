@@ -8,9 +8,9 @@ summary: "空间治理术是尼古拉斯·罗斯对福柯治理术理论的空�
 type: theory
 theory_field: "sociology-of-education"
 theory_related_count: 26
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory/sociology-of-education
   - theme/spatial-turn

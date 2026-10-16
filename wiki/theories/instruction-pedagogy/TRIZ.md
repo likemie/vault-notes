@@ -11,9 +11,9 @@ summary: "由阿奇舒勒创立的算法化发明问题解决理论体系，主�
 type: theory
 theory_field: "instruction-pedagogy"
 theory_related_count: 24
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - field/instruction-pedagogy
   - field/educational-psychology
@@ -53,7 +53,7 @@ related_persons:
 confidence: high
 status: active
 created: 2026-09-03
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # TRIZ

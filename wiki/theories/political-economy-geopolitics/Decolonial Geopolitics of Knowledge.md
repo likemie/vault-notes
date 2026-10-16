@@ -6,9 +6,9 @@ summary: "从去殖民视角分析知识如何与全球权力空间共同构成�
 type: theory
 theory_field: "political-economy-geopolitics"
 theory_related_count: 33
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_level: 3
+theory_related_stars: "💎"
+theory_related_color: "#ede9fe"
 tags:
 - decolonial-theory
 - geopolitics-of-knowledge

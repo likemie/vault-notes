@@ -4,9 +4,9 @@ type: person
 nationality: us
 person_region: "us"
 person_related_count: 9
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1931"
 died: "2010"
 lifespan: "1931–2010"

@@ -7,7 +7,7 @@ type: concept
 domain: "educational-psychology"
 related_count: 34
 related_level: 3
-related_stars: "⭐⭐⭐"
+related_stars: "💎"
 related_color: "#fde68a"
 tags:
   - theme/epistemology

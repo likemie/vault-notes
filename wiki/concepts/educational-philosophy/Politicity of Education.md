@@ -11,7 +11,7 @@ type: concept
 domain: "educational-philosophy"
 related_count: 38
 related_level: 3
-related_stars: "⭐⭐⭐"
+related_stars: "💎"
 related_color: "#fde68a"
 tags:
   - concept/educational-philosophy

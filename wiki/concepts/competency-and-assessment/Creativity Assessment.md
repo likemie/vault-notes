@@ -15,9 +15,9 @@ summary: "创造力测评是对个体的发散思维潜能、创造过程认知�
 type: concept
 domain: "competency-and-assessment"
 related_count: 77
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 7
+related_stars: "💎💎⭐"
+related_color: "#ddd6fe"
 tags:
   - theme/creativity
   - theme/assessment

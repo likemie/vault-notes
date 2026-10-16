@@ -12,8 +12,8 @@ region: china
 fact_region: "china"
 fact_kind: "event"
 fact_related_count: 9
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
 tags:
   - china
@@ -40,7 +40,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-09
-updated: 2026-10-11
+updated: 2026-10-16
 ---
 
 # National Assessment of Education Quality China 2007

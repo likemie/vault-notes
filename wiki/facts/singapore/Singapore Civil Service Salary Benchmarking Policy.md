@@ -13,7 +13,7 @@ fact_region: "singapore"
 fact_kind: "policy"
 fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
 issuing_organization: "新加坡国会与新加坡内阁"
 tags:
@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Singapore Civil Service Salary Benchmarking Policy

@@ -12,9 +12,9 @@ summary: "将教育目标与学习产出按认知、情感与动作技能三领�
 type: theory
 theory_field: "curriculum"
 theory_related_count: 42
-theory_related_level: 5
-theory_related_stars: "⭐⭐⭐⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theory/curriculum
   - theory/bloom-taxonomy

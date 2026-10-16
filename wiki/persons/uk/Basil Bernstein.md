@@ -10,9 +10,9 @@ type: person
 nationality: uk
 person_region: "uk"
 person_related_count: 46
-person_related_level: 5
-person_related_stars: "⭐⭐⭐⭐⭐"
-person_related_color: "#ffedd5"
+person_related_level: 4
+person_related_stars: "💎⭐"
+person_related_color: "#fce7f3"
 born: "1924"
 died: "2000"
 lifespan: "1924–2000"

@@ -11,9 +11,9 @@ summary: "个体理解科学运作机制、批判性评估多源证据质量、�
 type: concept
 domain: "competency-and-assessment"
 related_count: 65
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - field/curriculum
   - theme/scientific-literacy

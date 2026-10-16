@@ -7,9 +7,9 @@ summary: "以严格实验研究有效性证据作为选择教育项目和产品�
 type: concept
 domain: "educational-policy-reform"
 related_count: 83
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 8
+related_stars: "💎💎⭐⭐"
+related_color: "#ddd6fe"
 tags:
   - evidence-based-reform
   - evidence-based-education

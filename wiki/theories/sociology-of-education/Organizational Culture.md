@@ -11,7 +11,7 @@ type: theory
 theory_field: "sociology-of-education"
 theory_related_count: 62
 theory_related_level: 6
-theory_related_stars: "⭐⭐⭐⭐⭐⭐"
+theory_related_stars: "💎💎"
 theory_related_color: "#fef3c7"
 tags:
   - theory/organization-studies

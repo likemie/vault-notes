@@ -10,9 +10,9 @@ summary: "研究伦理中两种对立的元立场：绝对主义坚持清晰固�
 type: theory
 theory_field: "research-methodology"
 theory_related_count: 9
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_level: 0
+theory_related_stars: "☆"
+theory_related_color: "#e5e7eb"
 tags:
   - theory/research-ethics
 related_concepts:

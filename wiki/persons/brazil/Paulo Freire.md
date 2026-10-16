@@ -9,9 +9,9 @@ type: person
 nationality: brazil
 person_region: "brazil"
 person_related_count: 42
-person_related_level: 5
-person_related_stars: "⭐⭐⭐⭐⭐"
-person_related_color: "#ffedd5"
+person_related_level: 4
+person_related_stars: "💎⭐"
+person_related_color: "#fce7f3"
 born: "1921"
 died: "1997"
 lifespan: "1921–1997"
@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-10'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Paulo Freire

@@ -12,7 +12,7 @@ fact_region: "us"
 fact_kind: "policy"
 fact_related_count: 68
 fact_related_level: 6
-fact_related_stars: "⭐⭐⭐⭐⭐⭐"
+fact_related_stars: "💎💎"
 fact_related_color: "#fecdd3"
 issuing_organization: ''
 tags:

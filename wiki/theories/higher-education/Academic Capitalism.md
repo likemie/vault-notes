@@ -7,7 +7,7 @@ type: theory
 theory_field: "higher-education"
 theory_related_count: 31
 theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
+theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
 tags:
   - academic-capitalism

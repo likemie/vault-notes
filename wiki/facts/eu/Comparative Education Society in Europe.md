@@ -11,8 +11,8 @@ region: eu
 fact_region: "eu"
 fact_kind: "organization"
 fact_related_count: 33
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
 tags:
   - subject/comparative-education

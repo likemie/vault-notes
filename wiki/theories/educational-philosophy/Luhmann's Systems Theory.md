@@ -8,9 +8,9 @@ summary: "将社会理解为由自创生沟通构成的多重功能分化系统�
 type: theory
 theory_field: "educational-philosophy"
 theory_related_count: 33
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_level: 3
+theory_related_stars: "💎"
+theory_related_color: "#ede9fe"
 tags:
   - luhmann
   - paradigm/systems-theory

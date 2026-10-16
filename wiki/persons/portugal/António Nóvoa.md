@@ -11,9 +11,9 @@ type: person
 nationality: portugal
 person_region: "portugal"
 person_related_count: 29
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1954"
 died: ""
 lifespan: "1954–至今"

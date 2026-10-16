@@ -12,9 +12,9 @@ summary: "起源于福柯治理术谱系并经罗斯、米勒与拉图尔发展�
 type: theory
 theory_field: "political-economy-geopolitics"
 theory_related_count: 49
-theory_related_level: 5
-theory_related_stars: "⭐⭐⭐⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 tags:
   - social-theory
   - governmentality

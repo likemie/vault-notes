@@ -11,9 +11,9 @@ summary: "主张科学研究应排除研究者主观价值偏见并保持程序�
 type: concept
 domain: "educational-philosophy"
 related_count: 91
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 9
+related_stars: "💎💎💎"
+related_color: "#ddd6fe"
 tags:
   - method/research-methods
   - topic/evaluation

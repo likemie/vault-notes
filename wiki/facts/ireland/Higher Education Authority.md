@@ -12,7 +12,7 @@ fact_region: "ireland"
 fact_kind: "organization"
 fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
 issuing_organization: Higher Education Authority
 tags:
@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Higher Education Authority

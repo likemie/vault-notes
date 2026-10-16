@@ -8,9 +8,9 @@ summary: "以企业管理与市场竞争逻辑重塑公共部门的治理范式�
 type: concept
 domain: "educational-leadership-administration"
 related_count: 66
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - new-public-management
   - governance

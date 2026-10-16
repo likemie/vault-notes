@@ -18,8 +18,8 @@ summary: "产生、评估并在政策制定者、教育实践者与公众之间�
 type: concept
 domain: "educational-policy-reform"
 related_count: 131
-related_level: 6
-related_stars: "⭐⭐⭐⭐⭐⭐"
+related_level: 13
+related_stars: "💎💎💎💎⭐"
 related_color: "#ddd6fe"
 tags:
   - theme/knowledge-brokerage

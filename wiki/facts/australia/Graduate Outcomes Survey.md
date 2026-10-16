@@ -10,8 +10,8 @@ region: australia
 fact_region: "australia"
 fact_kind: "policy"
 fact_related_count: 8
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
 issuing_organization: Quality Indicators for Learning and Teaching
 tags:
@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Graduate Outcomes Survey

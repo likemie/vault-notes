@@ -8,9 +8,9 @@ summary: "由教师主动主导、以明确目标说明、分步示范、有指�
 type: concept
 domain: "instruction-pedagogy"
 related_count: 71
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 7
+related_stars: "💎💎⭐"
+related_color: "#ddd6fe"
 tags:
   - direct-instruction
   - explicit-instruction

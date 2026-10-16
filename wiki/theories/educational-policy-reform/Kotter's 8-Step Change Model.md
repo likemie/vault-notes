@@ -10,9 +10,9 @@ summary: "约翰·科特提出的组织变革领导力经典理论，将成功�
 type: theory
 theory_field: "educational-policy-reform"
 theory_related_count: 19
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - theme/organizational-change
   - theme/leadership
@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Kotter's 8-Step Change Model

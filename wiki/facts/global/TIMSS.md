@@ -11,8 +11,8 @@ region: global
 fact_region: "global"
 fact_kind: "program"
 fact_related_count: 29
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "1995–至今"
 initiator_organization: "International Association for the Evaluation of Educational Achievement"

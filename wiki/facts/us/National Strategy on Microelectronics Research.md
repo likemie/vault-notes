@@ -10,9 +10,9 @@ region: us
 fact_region: "us"
 fact_kind: "policy"
 fact_related_count: 43
-fact_related_level: 5
-fact_related_stars: "⭐⭐⭐⭐⭐"
-fact_related_color: "#fecdd3"
+fact_related_level: 4
+fact_related_stars: "💎⭐"
+fact_related_color: "#dbeafe"
 issuing_organization: "National Science and Technology Council"
 tags:
   - policy/national-strategy

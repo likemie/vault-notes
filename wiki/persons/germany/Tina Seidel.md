@@ -10,9 +10,9 @@ type: person
 nationality: germany
 person_region: "germany"
 person_related_count: 19
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1974"
 died: ""
 lifespan: "1974–至今"
@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Tina Seidel

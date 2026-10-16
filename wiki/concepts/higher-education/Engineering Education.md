@@ -10,7 +10,7 @@ type: concept
 domain: "higher-education"
 related_count: 57
 related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
+related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
 tags:
   - theme/higher-education

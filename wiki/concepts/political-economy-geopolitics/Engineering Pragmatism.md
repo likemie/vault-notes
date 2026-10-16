@@ -9,7 +9,7 @@ type: concept
 domain: "political-economy-geopolitics"
 related_count: 30
 related_level: 3
-related_stars: "⭐⭐⭐"
+related_stars: "💎"
 related_color: "#fde68a"
 tags:
   - concept/political-economy
@@ -205,4 +205,4 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Karp & Zamiska (2025)]] — 结合[[J. Robert Oppenheimer|奥本海默]]与[[Manhattan Project|曼哈顿计划]]论述工程[[Pragmatic Paradigm|实用主义]]的定位；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14]] 借[[John Dewey|杜威]]与[[Operation Paperclip|回形针行动]]阐发其认识论。
+> - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch02|Karp & Zamiska (2025)]] — 结合[[J. Robert Oppenheimer|奥本海默]]与[[Manhattan Project|曼哈顿计划]]论述工程[[Pragmatic Paradigm|实用主义]]的定位；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Ch. 14]] 借[[John Dewey|杜威]]与[[Operation Paperclip|回形针行动]]阐发其[[Epistemology|认识论]]。

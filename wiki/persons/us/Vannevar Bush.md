@@ -9,7 +9,7 @@ nationality: us
 person_region: "us"
 person_related_count: 69
 person_related_level: 6
-person_related_stars: "⭐⭐⭐⭐⭐⭐"
+person_related_stars: "💎💎"
 person_related_color: "#fef3c7"
 born: "1890"
 died: "1974"

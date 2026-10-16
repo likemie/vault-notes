@@ -14,8 +14,8 @@ region: germany
 fact_region: "germany"
 fact_kind: "organization"
 fact_related_count: 8
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
 org_type: 国家技术专门学院与工业推广中心
 headquarters: 柏林

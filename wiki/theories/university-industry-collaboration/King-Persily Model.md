@@ -9,7 +9,7 @@ type: theory
 theory_field: "university-industry-collaboration"
 theory_related_count: 7
 theory_related_level: 0
-theory_related_stars: ""
+theory_related_stars: "☆"
 theory_related_color: "#e5e7eb"
 tags:
   - "theory/data-governance"
@@ -32,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-02
-updated: 2026-06-10
+updated: 2026-10-16
 ---
 
 # King-Persily Model

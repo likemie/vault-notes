@@ -13,7 +13,7 @@ type: concept
 domain: "science-policy"
 related_count: 50
 related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
+related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
 tags:
   - concept/science-policy

@@ -10,9 +10,9 @@ summary: "由约翰·金登（John Kingdon）创立并由尼古拉斯·扎哈利
 type: theory
 theory_field: "educational-policy-reform"
 theory_related_count: 24
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory/policy-process
   - theory/agenda-setting
@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Multiple Streams Framework

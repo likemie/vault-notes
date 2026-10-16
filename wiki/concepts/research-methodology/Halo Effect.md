@@ -12,7 +12,7 @@ type: concept
 domain: "research-methodology"
 related_count: 38
 related_level: 3
-related_stars: "⭐⭐⭐"
+related_stars: "💎"
 related_color: "#fde68a"
 tags:
   - method/research-methods
@@ -66,7 +66,7 @@ related_persons:
 confidence: high
 status: completed
 created: 2026-06-24
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Halo Effect

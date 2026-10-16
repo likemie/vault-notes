@@ -9,7 +9,7 @@ type: theory
 theory_field: "learning-science-cognitive-science"
 theory_related_count: 7
 theory_related_level: 0
-theory_related_stars: ""
+theory_related_stars: "☆"
 theory_related_color: "#e5e7eb"
 tags:
 - miyake

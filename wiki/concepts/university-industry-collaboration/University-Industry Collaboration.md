@@ -11,9 +11,9 @@ summary: "大学与企业之间在正式协议框架下建立的有目的、深�
 type: concept
 domain: "university-industry-collaboration"
 related_count: 92
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 9
+related_stars: "💎💎💎"
+related_color: "#ddd6fe"
 tags:
   - theme/university-industry-collaboration
   - level/higher-education

@@ -11,7 +11,7 @@ fact_region: "us"
 fact_kind: "organization"
 fact_related_count: 6
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
 tags:
 - region/us
@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-10'
-updated: '2026-05-18'
+updated: 2026-10-16
 ---
 
 # US-China Economic and Security Review Commission

@@ -10,9 +10,9 @@ summary: "针对政策制定者、高级官员、学术领袖等具有高层决�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 38
-method_related_level: 4
-method_related_stars: "⭐⭐⭐⭐"
+method_related_count: 37
+method_related_level: 3
+method_related_stars: "💎"
 method_related_color: "#dbeafe"
 tags:
   - qualitative
@@ -59,8 +59,7 @@ related_methods:
   - "[[Process Tracing]]"
 related_instruments: []
 related_persons: []
-related_facts:
-  - "[[Common Core State Standards]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Helgetun_2022_JEdPolicy]]"
   - "[[Argument_McDonnell_2013_AmJE]]"
@@ -174,5 +173,5 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] — 对 20 位具备英格兰教育政策内部准入资格的高级官员、政府顾问与学者展开精英访谈，揭示了[[Evidence Era\|证据时代]]教师教育治理中政府守门与[[Policy-Based Evidence-Making\|逆向证据生产]]机制。
-> - [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] — 结构化访谈全美及四州 111 位政策制定者、标准起草者、工会领袖与批评者，结合档案做[[Process Tracing|过程追踪]]，阐明[[Common Core State Standards|共同核心]]各阶段对研究证据与政治价值的整合。
+> - [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] — 结构化访谈全美及四州 111 位政策制定者、标准起草者、工会领袖与批评者，结合档案做[[Process Tracing|过程追踪]]，阐明共同核心各阶段对研究证据与政治价值的整合。
 

@@ -9,9 +9,9 @@ summary: "由 King 和 Kitchener 提出的认知发展与信念辩护模型，�
 type: theory
 theory_field: "educational-psychology"
 theory_related_count: 24
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - "theme/epistemological-beliefs"
   - "level/developmental"

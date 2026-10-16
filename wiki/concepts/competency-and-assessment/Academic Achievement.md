@@ -11,8 +11,8 @@ summary: "衡量学生在特定学习阶段、特定学科或特定学术任务�
 type: concept
 domain: "competency-and-assessment"
 related_count: 155
-related_level: 6
-related_stars: "⭐⭐⭐⭐⭐⭐"
+related_level: 15
+related_stars: "💎💎💎💎💎"
 related_color: "#ddd6fe"
 tags:
   - theme/academic-achievement

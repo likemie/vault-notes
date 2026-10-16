@@ -6,9 +6,9 @@ summary: "教育研究中的认识论框架，强调学科知识的重要性，�
 type: theory
 theory_field: "educational-philosophy"
 theory_related_count: 8
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_level: 0
+theory_related_stars: "☆"
+theory_related_color: "#e5e7eb"
 domain: "educational-philosophy"
 related_count: 8
 related_level: 0
@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-06-06
+updated: 2026-10-16
 ---
 
 # Social Realism

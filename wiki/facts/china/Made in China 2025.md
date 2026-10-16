@@ -11,8 +11,8 @@ region: china
 fact_region: "china"
 fact_kind: "policy"
 fact_related_count: 16
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "中华人民共和国国务院"
 start_year: "2015"
@@ -49,7 +49,7 @@ related_methods:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-16
 ---
 
 # Made in China 2025

@@ -11,9 +11,9 @@ summary: "比较教育政治经济学视阈下的国家理论，批判自由主�
 type: theory
 theory_field: "comparative-education"
 theory_related_count: 18
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - theory/comparative-education
   - theory/state
@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Colonial State Theory

@@ -7,9 +7,9 @@ summary: "教师在复杂、非线性的教学情境中整合研究证据、伦�
 type: concept
 domain: "educational-policy-reform"
 related_count: 82
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 8
+related_stars: "💎💎⭐⭐"
+related_color: "#ddd6fe"
 tags:
   - professional-judgment
   - teacher-development

@@ -11,8 +11,8 @@ region: uk
 fact_region: "uk"
 fact_kind: "program"
 fact_related_count: 19
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
 initiator_organization: "[[Education Endowment Foundation]]"
 period: "2018–至今"
@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-15
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Teacher Choices

@@ -13,8 +13,8 @@ region: uk
 fact_region: "uk"
 fact_kind: "organization"
 fact_related_count: 25
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "国家应急专家科学咨询委员会"
 headquarters: "伦敦内阁办公室（Cabinet Office, London, UK）"
@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Scientific Advisory Group for Emergencies

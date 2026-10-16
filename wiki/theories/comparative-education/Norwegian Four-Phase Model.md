@@ -10,9 +10,9 @@ summary: "由瓦尔·拉斯特基于挪威自1840年代以来的教育改革委�
 type: theory
 theory_field: "comparative-education"
 theory_related_count: 19
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - theory/globalization
   - subject/comparative-education
@@ -47,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-01
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Norwegian Four-Phase Model

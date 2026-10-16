@@ -8,10 +8,10 @@ summary: "法国后结构主义哲学家，后现代状况作者与知识合法�
 type: person
 nationality: france
 person_region: "france"
-person_related_count: 42
-person_related_level: 5
-person_related_stars: "⭐⭐⭐⭐⭐"
-person_related_color: "#ffedd5"
+person_related_count: 41
+person_related_level: 4
+person_related_stars: "💎⭐"
+person_related_color: "#fce7f3"
 born: "1924"
 died: "1998"
 lifespan: "1924–1998"
@@ -55,7 +55,6 @@ related_theories:
 related_methods:
   - "[[Correlational Research]]"
 related_persons:
-  - "[[Jean-François Lyotard]]"
   - "[[Georg Wilhelm Friedrich Hegel]]"
   - "[[Immanuel Kant]]"
   - "[[Jürgen Habermas]]"

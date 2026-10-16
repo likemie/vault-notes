@@ -11,7 +11,7 @@ nationality: uk
 person_region: "uk"
 person_related_count: 30
 person_related_level: 3
-person_related_stars: "⭐⭐⭐"
+person_related_stars: "💎"
 person_related_color: "#ede9fe"
 born: "1955"
 died: ""
@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-05
+updated: 2026-10-16
 ---
 
 # Sir Kevan Collins

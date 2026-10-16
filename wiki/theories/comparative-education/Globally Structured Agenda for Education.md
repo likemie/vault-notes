@@ -9,9 +9,9 @@ summary: "罗杰·戴尔提出的批判比较教育学核心理论，主张全�
 type: theory
 theory_field: "comparative-education"
 theory_related_count: 28
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory/globalization
   - subject/comparative-education

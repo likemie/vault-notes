@@ -10,9 +10,9 @@ summary: "斯托克斯（Stokes, 1997）提出的二维科研动机分类框架�
 type: theory
 theory_field: "university-industry-collaboration"
 theory_related_count: 42
-theory_related_level: 5
-theory_related_stars: "⭐⭐⭐⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theory/innovation-policy
   - theme/research-policy
@@ -70,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-02
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Stokes' Quadrant Model of Scientific Research

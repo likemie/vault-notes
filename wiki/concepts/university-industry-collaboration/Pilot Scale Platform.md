@@ -12,9 +12,9 @@ summary: "介于大学/实验室基础研发与工业规模化量产之间的关
 type: concept
 domain: "university-industry-collaboration"
 related_count: 60
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - theme/university-industry-collaboration
   - theme/corporate-innovation

@@ -12,8 +12,8 @@ region: global
 fact_region: "global"
 fact_kind: "program"
 fact_related_count: 25
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "1978–至今"
 initiator_organization: "[[World Bank]]"
@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # World Development Indicators

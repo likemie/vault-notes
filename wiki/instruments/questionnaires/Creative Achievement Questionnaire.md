@@ -8,8 +8,8 @@ summary: "由卡森等人于 2003 年开发的自陈式客观创造性成果评�
 type: instrument
 instrument_type: questionnaire
 instrument_related_count: 8
-instrument_related_level: 1
-instrument_related_stars: "⭐"
+instrument_related_level: 0
+instrument_related_stars: "☆"
 instrument_related_color: "#fef3c7"
 part_of: ""
 developers:
@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Creative Achievement Questionnaire

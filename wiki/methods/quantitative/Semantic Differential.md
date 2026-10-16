@@ -11,7 +11,7 @@ method_type: quantitative
 method_family: "quantitative"
 method_related_count: 5
 method_related_level: 0
-method_related_stars: ""
+method_related_stars: "☆"
 method_related_color: "#dcfce7"
 tags:
   - method/measurement

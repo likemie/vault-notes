@@ -12,9 +12,9 @@ summary: "指人们想象自身社会存在、与他人关系及规范性期待�
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 60
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - political-economy-geopolitics
   - sociology-of-education

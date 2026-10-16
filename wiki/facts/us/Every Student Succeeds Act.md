@@ -17,9 +17,9 @@ region: us
 fact_region: "us"
 fact_kind: "policy"
 fact_related_count: 41
-fact_related_level: 5
-fact_related_stars: "⭐⭐⭐⭐⭐"
-fact_related_color: "#fecdd3"
+fact_related_level: 4
+fact_related_stars: "💎⭐"
+fact_related_color: "#dbeafe"
 issuing_organization: "美国联邦政府（U.S. Congress & White House）"
 tags:
   - policy/federal

@@ -7,9 +7,9 @@ type: person
 nationality: greece
 person_region: "greece"
 person_related_count: 45
-person_related_level: 5
-person_related_stars: "⭐⭐⭐⭐⭐"
-person_related_color: "#ffedd5"
+person_related_level: 4
+person_related_stars: "💎⭐"
+person_related_color: "#fce7f3"
 born: "c. 428 BCE"
 died: "348 BCE"
 lifespan: "c. 428 BCE – 348 BCE"
@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-22
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Plato

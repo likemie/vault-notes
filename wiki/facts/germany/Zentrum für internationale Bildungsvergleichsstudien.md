@@ -11,8 +11,8 @@ region: germany
 fact_region: "germany"
 fact_kind: "organization"
 fact_related_count: 29
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: 跨机构国家学术研究联合体
 headquarters: 慕尼黑（TUM），法兰克福/柏林（DIPF），基尔（IPN）

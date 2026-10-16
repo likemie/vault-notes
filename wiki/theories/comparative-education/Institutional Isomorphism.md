@@ -10,9 +10,9 @@ summary: "解释组织在同一场域中为何会通过强制型、模仿型和�
 type: theory
 theory_field: "comparative-education"
 theory_related_count: 38
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_level: 3
+theory_related_stars: "💎"
+theory_related_color: "#ede9fe"
 tags:
   - paradigm/interpretivist
   - subject/comparative-education

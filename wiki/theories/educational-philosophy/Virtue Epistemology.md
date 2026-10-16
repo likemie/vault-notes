@@ -12,9 +12,9 @@ summary: "将认识论的关注焦点从命题信念的孤立确证转移到认�
 type: theory
 theory_field: "educational-philosophy"
 theory_related_count: 41
-theory_related_level: 5
-theory_related_stars: "⭐⭐⭐⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 tags:
   - philosophy-of-education
   - virtue-epistemology

@@ -8,9 +8,9 @@ summary: "由 Justin Parkhurst（2017）提出的公共政策与教育治理理�
 type: theory
 theory_field: "educational-policy-reform"
 theory_related_count: 29
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory/educational-policy-reform
   - theme/evidence-based-policy

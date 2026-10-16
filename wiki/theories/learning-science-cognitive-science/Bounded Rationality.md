@@ -8,9 +8,9 @@ summary: "由赫伯特·西蒙（Herbert A. Simon）开创的认知与决策理�
 type: theory
 theory_field: "learning-science-cognitive-science"
 theory_related_count: 40
-theory_related_level: 5
-theory_related_stars: "⭐⭐⭐⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theory/cognitive-science
   - theme/decision-making

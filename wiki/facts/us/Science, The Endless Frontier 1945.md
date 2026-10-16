@@ -13,8 +13,8 @@ region: us
 fact_region: "us"
 fact_kind: "event"
 fact_related_count: 52
-fact_related_level: 6
-fact_related_stars: "⭐⭐⭐⭐⭐⭐"
+fact_related_level: 5
+fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
 tags:
   - region/us
@@ -85,7 +85,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Science, The Endless Frontier 1945

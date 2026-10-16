@@ -9,9 +9,9 @@ summary: "由沃勒斯坦创立的历史社会学宏观理论，将全球资本�
 type: theory
 theory_field: "comparative-education"
 theory_related_count: 42
-theory_related_level: 5
-theory_related_stars: "⭐⭐⭐⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 tags:
   - region/global
   - theme/geopolitics

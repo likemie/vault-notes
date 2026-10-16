@@ -13,7 +13,7 @@ fact_region: "china"
 fact_kind: "policy"
 fact_related_count: 6
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
 issuing_organization: ""
 tags:
@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-26
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 
 # Xinjiang Vocational Education and Training Centers

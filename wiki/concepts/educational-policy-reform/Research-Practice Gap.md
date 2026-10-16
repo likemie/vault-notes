@@ -11,7 +11,7 @@ type: concept
 domain: "educational-policy-reform"
 related_count: 30
 related_level: 3
-related_stars: "⭐⭐⭐"
+related_stars: "💎"
 related_color: "#fde68a"
 tags:
   - topic/research-use
@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Research-Practice Gap

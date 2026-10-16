@@ -9,7 +9,7 @@ type: theory
 theory_field: "comparative-education"
 theory_related_count: 7
 theory_related_level: 0
-theory_related_stars: ""
+theory_related_stars: "☆"
 theory_related_color: "#e5e7eb"
 domain: "comparative-education"
 related_count: 8
@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-06
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Convergence Theory in Comparative Education

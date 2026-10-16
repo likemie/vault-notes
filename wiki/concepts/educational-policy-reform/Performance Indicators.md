@@ -8,9 +8,9 @@ summary: "经过目的性选择和加工的派生统计量，具备“技术理�
 type: concept
 domain: "educational-policy-reform"
 related_count: 65
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - concept/educational-policy-reform
   - theme/performance-indicators

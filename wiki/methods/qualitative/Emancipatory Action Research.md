@@ -9,8 +9,8 @@ type: method
 method_type: qualitative
 method_family: "qualitative"
 method_related_count: 29
-method_related_level: 3
-method_related_stars: "⭐⭐⭐"
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/action-research
@@ -54,7 +54,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
 status: draft
 created: 2026-07-19
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Emancipatory Action Research
 

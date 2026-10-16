@@ -11,8 +11,8 @@ region: uk
 fact_region: "uk"
 fact_kind: "organization"
 fact_related_count: 18
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
 org_type: "network"
 headquarters: "London, UK"
@@ -52,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-14
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Evidence Network

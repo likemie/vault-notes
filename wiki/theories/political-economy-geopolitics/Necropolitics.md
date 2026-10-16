@@ -7,9 +7,9 @@ summary: "姆本贝提出的理论概念，指主权权力在很大程度上体�
 type: theory
 theory_field: "political-economy-geopolitics"
 theory_related_count: 8
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_level: 0
+theory_related_stars: "☆"
+theory_related_color: "#e5e7eb"
 domain: "political-economy-geopolitics"
 related_count: 7
 related_level: 0

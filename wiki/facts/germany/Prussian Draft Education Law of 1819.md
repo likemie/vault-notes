@@ -16,8 +16,8 @@ region: germany
 fact_region: "germany"
 fact_kind: "policy"
 fact_related_count: 17
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: Prussian Ministry of Religion, Education, and Medical Affairs
 tags:
@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-06
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Prussian Draft Education Law of 1819

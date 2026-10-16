@@ -9,8 +9,8 @@ summary: "采用开放论述题形式评估个体在复杂论证语境中逻辑�
 type: instrument
 instrument_type: test
 instrument_related_count: 5
-instrument_related_level: 1
-instrument_related_stars: "⭐"
+instrument_related_level: 0
+instrument_related_stars: "☆"
 instrument_related_color: "#dbeafe"
 part_of: ""
 developers:

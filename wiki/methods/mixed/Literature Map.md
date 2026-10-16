@@ -6,8 +6,8 @@ type: method
 method_type: mixed
 method_family: "mixed"
 method_related_count: 8
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_level: 0
+method_related_stars: "☆"
 method_related_color: "#fef3c7"
 tags: [source/textbook, method/research-process]
 related_concepts:
@@ -27,7 +27,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-30
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Literature Map

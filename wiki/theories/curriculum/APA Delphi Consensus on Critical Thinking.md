@@ -10,9 +10,9 @@ summary: "由美国哲学学会主持、Peter Facione 领衔 46 位国际学者�
 type: theory
 theory_field: "curriculum"
 theory_related_count: 25
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theme/critical-thinking
   - educational-philosophy

@@ -12,7 +12,7 @@ fact_region: "japan"
 fact_kind: "policy"
 fact_related_count: 6
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
 issuing_organization: "日本内阁府 / 文部科学省"
 tags:
@@ -34,7 +34,7 @@ related_arguments: []
 confidence: medium
 status: draft
 created: 2026-06-05
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Japan Innovation Policy System

@@ -9,8 +9,8 @@ summary: "基于美国哲学学会APA德尔菲共识报告开发的经典标准�
 type: instrument
 instrument_type: test
 instrument_related_count: 11
-instrument_related_level: 2
-instrument_related_stars: "⭐⭐"
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#dbeafe"
 part_of: ""
 developers:

@@ -19,9 +19,9 @@ summary: "在异质组织、专业社群或制度系统（如学术研究与产�
 type: concept
 domain: "university-industry-collaboration"
 related_count: 73
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 7
+related_stars: "💎💎⭐"
+related_color: "#ddd6fe"
 tags:
   - theme/boundary-spanning
   - theme/knowledge-mobilisation

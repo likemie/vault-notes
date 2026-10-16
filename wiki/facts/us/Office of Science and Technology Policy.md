@@ -14,7 +14,7 @@ fact_region: "us"
 fact_kind: "organization"
 fact_related_count: 31
 fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
 org_type: 总统执行办公室直属科技政策协调与咨询法定机构
 headquarters: 美国华盛顿特区艾森豪威尔行政办公楼（EEOB, Washington, D.C., USA）

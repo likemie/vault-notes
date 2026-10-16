@@ -9,8 +9,8 @@ summary: "采用生成式开放情境题与客观选择题双重作答格式的�
 type: instrument
 instrument_type: test
 instrument_related_count: 14
-instrument_related_level: 2
-instrument_related_stars: "⭐⭐"
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#dbeafe"
 part_of: ""
 developers:
@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Halpern Critical Thinking Assessment

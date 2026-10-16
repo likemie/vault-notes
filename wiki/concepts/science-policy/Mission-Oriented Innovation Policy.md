@@ -11,9 +11,9 @@ summary: "以应对重大社会挑战和变革性系统转型为核心导向，�
 type: concept
 domain: "science-policy"
 related_count: 61
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - concept/science-policy
   - innovation-policy

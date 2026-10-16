@@ -12,7 +12,7 @@ fact_region: "eswatini"
 fact_kind: "event"
 fact_related_count: 5
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#fef3c7"
 tags: [region/eswatini, theme/international-education, theme/anti-apartheid, theme/institution-building]
 related_concepts:
@@ -30,7 +30,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-01
-updated: 2026-09-16
+updated: 2026-10-16
 ---
 
 # Waterford Kamhlaba Admission to United World Colleges

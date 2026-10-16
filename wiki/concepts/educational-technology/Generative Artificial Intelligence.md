@@ -10,8 +10,8 @@ summary: "基于大语言模型与多模态生成架构的认知中介与通用�
 type: concept
 domain: "educational-technology"
 related_count: 146
-related_level: 6
-related_stars: "⭐⭐⭐⭐⭐⭐"
+related_level: 14
+related_stars: "💎💎💎💎⭐⭐"
 related_color: "#ddd6fe"
 tags:
   - educational-technology

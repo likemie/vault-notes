@@ -7,8 +7,8 @@ summary: "由查顿与美林开发的领域特定性工程创造力测验，通�
 type: instrument
 instrument_type: test
 instrument_related_count: 6
-instrument_related_level: 1
-instrument_related_stars: "⭐"
+instrument_related_level: 0
+instrument_related_stars: "☆"
 instrument_related_color: "#dbeafe"
 developers:
   - "Charyton, C."

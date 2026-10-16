@@ -12,8 +12,8 @@ summary: "研究知识进入政策与实践过程的多种路径与机制，涵�
 type: concept
 domain: "educational-policy-reform"
 related_count: 116
-related_level: 6
-related_stars: "⭐⭐⭐⭐⭐⭐"
+related_level: 11
+related_stars: "💎💎💎⭐⭐"
 related_color: "#ddd6fe"
 tags:
   - field/educational-policy-reform

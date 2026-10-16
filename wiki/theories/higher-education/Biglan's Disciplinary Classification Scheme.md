@@ -10,9 +10,9 @@ summary: "Anthony Biglan 提出的经典三维学科分类理论，依据范式�
 type: theory
 theory_field: "higher-education"
 theory_related_count: 17
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - higher-ed
   - sociology-of-higher-education

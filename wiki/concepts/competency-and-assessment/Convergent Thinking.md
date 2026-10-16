@@ -13,7 +13,7 @@ type: concept
 domain: "competency-and-assessment"
 related_count: 38
 related_level: 3
-related_stars: "⭐⭐⭐"
+related_stars: "💎"
 related_color: "#fde68a"
 tags:
   - theme/cognition

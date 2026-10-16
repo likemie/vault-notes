@@ -12,9 +12,9 @@ summary: "个体或群体在特定情境中综合调动认知、情绪与环境�
 type: concept
 domain: "competency-and-assessment"
 related_count: 95
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 9
+related_stars: "💎💎💎"
+related_color: "#ddd6fe"
 tags:
   - theme/creativity
   - construct/cognitive-ability

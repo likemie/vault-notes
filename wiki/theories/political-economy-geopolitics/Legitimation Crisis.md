@@ -8,9 +8,9 @@ summary: "尤尔根·哈贝马斯（Jürgen Habermas）提出的批判社会学�
 type: theory
 theory_field: "political-economy-geopolitics"
 theory_related_count: 18
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - theory/sociology-of-education
   - theory/political-economy

@@ -11,7 +11,7 @@ type: theory
 theory_field: "instruction-pedagogy"
 theory_related_count: 31
 theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
+theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
 domain: "instruction-pedagogy"
 theory_domain: "instruction-pedagogy"
@@ -66,7 +66,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Inquiry Cycle

@@ -9,8 +9,8 @@ summary: "1975年由DARPA局长乔治·海尔迈耶（George Heilmeier）确立�
 type: instrument
 instrument_type: checklist
 instrument_related_count: 20
-instrument_related_level: 4
-instrument_related_stars: "⭐⭐⭐⭐"
+instrument_related_level: 2
+instrument_related_stars: "⭐⭐"
 instrument_related_color: "#e5e7eb"
 part_of: ""
 developers:
@@ -58,7 +58,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Heilmeier Catechism

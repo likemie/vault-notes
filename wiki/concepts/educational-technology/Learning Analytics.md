@@ -10,7 +10,7 @@ type: concept
 domain: "educational-technology"
 related_count: 41
 related_level: 4
-related_stars: "⭐⭐⭐⭐"
+related_stars: "💎⭐"
 related_color: "#fdba74"
 tags:
   - theme/learning-analytics

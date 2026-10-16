@@ -10,9 +10,9 @@ summary: "以经验观察、受控检验与假设证伪为基础的系统性探�
 type: concept
 domain: "educational-philosophy"
 related_count: 84
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 8
+related_stars: "💎💎⭐⭐"
+related_color: "#ddd6fe"
 tags:
   - theme/research-methodology
   - paradigm/positivism

@@ -10,9 +10,9 @@ type: person
 nationality: france
 person_region: "france"
 person_related_count: 51
-person_related_level: 6
-person_related_stars: "⭐⭐⭐⭐⭐⭐"
-person_related_color: "#fef3c7"
+person_related_level: 5
+person_related_stars: "💎⭐⭐"
+person_related_color: "#ffedd5"
 born: "1775"
 died: "1848"
 lifespan: "1775–1848"
@@ -84,7 +84,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Marc-Antoine Jullien

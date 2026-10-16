@@ -13,8 +13,8 @@ region: us
 fact_region: "us"
 fact_kind: "program"
 fact_related_count: 8
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
 period: "1948–1955"
 initiator_organization: "美国海军（U.S. Navy）与美国原子能委员会（Atomic Energy Commission, AEC）"
@@ -40,7 +40,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 
 # USS Nautilus Submarine Development

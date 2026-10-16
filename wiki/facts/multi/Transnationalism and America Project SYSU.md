@@ -11,7 +11,7 @@ fact_region: "multi"
 fact_kind: "program"
 fact_related_count: 6
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
 tags:
 - region/china
@@ -32,7 +32,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-16'
-updated: '2026-05-18'
+updated: 2026-10-16
 ---
 
 # Transnationalism and America Project SYSU

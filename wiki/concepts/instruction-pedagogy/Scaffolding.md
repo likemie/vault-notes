@@ -15,9 +15,9 @@ summary: "教师、同伴或技术工具在学习者最近发展区内提供的�
 type: concept
 domain: "instruction-pedagogy"
 related_count: 67
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - theme/instruction
   - cognition/learning-science

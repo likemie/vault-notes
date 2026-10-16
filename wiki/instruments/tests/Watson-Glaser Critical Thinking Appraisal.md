@@ -10,8 +10,8 @@ summary: "用于测量个体批判性思维认知能力维度的经典标准化�
 type: instrument
 instrument_type: test
 instrument_related_count: 10
-instrument_related_level: 2
-instrument_related_stars: "⭐⭐"
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#dbeafe"
 part_of: ""
 developers:

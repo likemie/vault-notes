@@ -11,8 +11,8 @@ region: us
 fact_region: "us"
 fact_kind: "program"
 fact_related_count: 9
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
 period: "2026年7月报告撰写时已启动，精确日期报告未给出"
 initiator_organization: "National Science Foundation Directorate for Technology, Innovation and Partnerships"
@@ -39,7 +39,7 @@ related_arguments:
 confidence: medium
 status: active
 created: 2026-10-07
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # NSF X-Labs

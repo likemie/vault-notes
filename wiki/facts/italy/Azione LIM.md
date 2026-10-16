@@ -12,7 +12,7 @@ fact_region: "italy"
 fact_kind: "policy"
 fact_related_count: 6
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
 issuing_organization: Ministero dell'Istruzione, dell'Universita e della Ricerca
 tags:
@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-05-23
+updated: 2026-10-16
 ---
 
 # Azione LIM

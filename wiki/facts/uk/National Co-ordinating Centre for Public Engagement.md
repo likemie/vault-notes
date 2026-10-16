@@ -12,7 +12,7 @@ fact_region: "uk"
 fact_kind: "organization"
 fact_related_count: 7
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
 issuing_organization: Higher Education Funding Council for England, Research Councils UK, Wellcome Trust, University of Bristol, University of the West of England
 tags:
@@ -35,7 +35,7 @@ related_methods:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-02
+updated: 2026-10-16
 ---
 
 # National Co-ordinating Centre for Public Engagement

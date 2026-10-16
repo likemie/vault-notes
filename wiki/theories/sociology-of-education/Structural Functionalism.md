@@ -10,9 +10,9 @@ summary: "二战后盛行于英美社会学与比较教育学的核心宏观理�
 type: theory
 theory_field: "sociology-of-education"
 theory_related_count: 26
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - subject/sociology-of-education
   - subject/comparative-education
@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-01
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Structural Functionalism

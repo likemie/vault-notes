@@ -12,7 +12,7 @@ fact_region: "us"
 fact_kind: "program"
 fact_related_count: 6
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
 tags:
   - policy/admission-assessment
@@ -35,7 +35,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-08-27
+updated: 2026-10-16
 ---
 
 # Rainbow Project

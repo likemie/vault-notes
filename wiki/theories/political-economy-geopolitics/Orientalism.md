@@ -7,7 +7,7 @@ type: theory
 theory_field: "political-economy-geopolitics"
 theory_related_count: 30
 theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
+theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
 domain: "political-economy-geopolitics"
 related_count: 25

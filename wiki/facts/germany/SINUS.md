@@ -12,8 +12,8 @@ region: germany
 fact_region: "germany"
 fact_kind: "program"
 fact_related_count: 25
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "1998–2007"
 initiator_organization: "联邦与各州教育规划与科研促进委员会（Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung, BLK）"
@@ -59,7 +59,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-27
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # SINUS

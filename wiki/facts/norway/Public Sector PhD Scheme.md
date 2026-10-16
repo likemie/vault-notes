@@ -12,8 +12,8 @@ region: norway
 fact_region: "norway"
 fact_kind: "program"
 fact_related_count: 8
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
 period: "2014至今"
 initiator_organization: "挪威研究理事会（Research Council of Norway / Norges forskningsråd）"
@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-13
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Public Sector PhD Scheme

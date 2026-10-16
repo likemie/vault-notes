@@ -13,9 +13,9 @@ summary: "弗兰克·R·鲍姆加特纳与布莱恩·D·琼斯于1993年提出�
 type: theory
 theory_field: "educational-policy-reform"
 theory_related_count: 47
-theory_related_level: 5
-theory_related_stars: "⭐⭐⭐⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theory/policy-change
   - theme/governance

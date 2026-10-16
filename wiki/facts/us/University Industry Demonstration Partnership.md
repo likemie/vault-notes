@@ -11,8 +11,8 @@ region: us
 fact_region: "us"
 fact_kind: "organization"
 fact_related_count: 38
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
 org_type: 产学合作专业非营利组织与实践者联盟
 headquarters: 美国南卡罗来纳州哥伦比亚（Columbia, South Carolina）

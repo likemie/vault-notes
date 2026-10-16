@@ -12,8 +12,8 @@ region: latin-america
 fact_region: "latin-america"
 fact_kind: "policy"
 fact_related_count: 19
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_level: 1
+fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
 issuing_organization: "美国政府 / 美洲国家组织（OAS / OEA）"
 tags:

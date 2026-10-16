@@ -10,8 +10,8 @@ region: australia
 fact_region: "australia"
 fact_kind: "organization"
 fact_related_count: 9
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
 issuing_organization: Australian Council for Educational Research
 tags:
@@ -37,7 +37,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 
 # Australian Council for Educational Research

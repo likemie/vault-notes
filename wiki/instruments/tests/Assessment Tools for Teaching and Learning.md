@@ -7,8 +7,8 @@ summary: "新西兰教育部委托奥克兰大学 John Hattie 团队开发的中
 type: instrument
 instrument_type: test
 instrument_related_count: 23
-instrument_related_level: 4
-instrument_related_stars: "⭐⭐⭐⭐"
+instrument_related_level: 2
+instrument_related_stars: "⭐⭐"
 instrument_related_color: "#dbeafe"
 part_of: ""
 developers:

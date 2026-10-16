@@ -11,7 +11,7 @@ type: theory
 theory_field: "educational-policy-reform"
 theory_related_count: 30
 theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
+theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
 tags:
   - theme/educational-governance
@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Educational Governance Framework

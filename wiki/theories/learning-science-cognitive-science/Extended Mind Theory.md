@@ -11,9 +11,9 @@ summary: "由 Andy Clark 与 David Chalmers 于 1998 年创立、后经 Clark（
 type: theory
 theory_field: "learning-science-cognitive-science"
 theory_related_count: 33
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_level: 3
+theory_related_stars: "💎"
+theory_related_color: "#ede9fe"
 related_concepts:
   - "[[Ontology]]"
   - "[[Scientific Explanation]]"

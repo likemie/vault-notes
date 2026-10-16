@@ -8,9 +8,9 @@ type: person
 nationality: us
 person_region: "us"
 person_related_count: 8
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1951"
 died: ""
 lifespan: "1951–至今"
@@ -36,7 +36,7 @@ related_arguments:
 confidence: low
 status: draft
 created: 2026-05-08
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 ## 简介
 

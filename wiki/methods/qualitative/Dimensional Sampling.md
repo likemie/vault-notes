@@ -9,7 +9,7 @@ method_type: qualitative
 method_family: "qualitative"
 method_related_count: 5
 method_related_level: 0
-method_related_stars: ""
+method_related_stars: "☆"
 method_related_color: "#dbeafe"
 tags:
   - method/sampling
@@ -28,7 +28,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-22
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 # Dimensional Sampling
 

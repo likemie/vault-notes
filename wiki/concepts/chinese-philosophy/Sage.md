@@ -12,7 +12,7 @@ type: concept
 domain: "chinese-philosophy"
 related_count: 32
 related_level: 3
-related_stars: "⭐⭐⭐"
+related_stars: "💎"
 related_color: "#fde68a"
 tags:
   - region/china
@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-22
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Sage

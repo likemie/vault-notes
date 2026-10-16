@@ -16,8 +16,8 @@ region: germany
 fact_region: "germany"
 fact_kind: "organization"
 fact_related_count: 33
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
 org_type: 跨区域国家科研与信息基础设施机构（莱布尼茨学会成员）
 headquarters: 法兰克福（主址）、柏林（教育史研究图书馆）

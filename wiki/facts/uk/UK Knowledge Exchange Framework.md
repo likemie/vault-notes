@@ -12,7 +12,7 @@ fact_region: "uk"
 fact_kind: "policy"
 fact_related_count: 7
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
 issuing_organization: "Research England (UK Research and Innovation)"
 tags:
@@ -34,7 +34,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-06-10
-updated: 2026-06-10
+updated: 2026-10-16
 ---
 
 # UK Knowledge Exchange Framework

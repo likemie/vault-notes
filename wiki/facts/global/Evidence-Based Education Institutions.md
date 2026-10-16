@@ -9,8 +9,8 @@ region: global
 fact_region: "global"
 fact_kind: "event"
 fact_related_count: 37
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#fef3c7"
 tags:
   - region/global
@@ -63,7 +63,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-07-14
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Evidence-Based Education Institutions

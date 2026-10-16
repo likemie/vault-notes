@@ -9,9 +9,9 @@ summary: "一种将教育系统视为复杂适应系统的新兴研究范式，�
 type: theory
 theory_field: "educational-philosophy"
 theory_related_count: 59
-theory_related_level: 6
-theory_related_stars: "⭐⭐⭐⭐⭐⭐"
-theory_related_color: "#fef3c7"
+theory_related_level: 5
+theory_related_stars: "💎⭐⭐"
+theory_related_color: "#ffedd5"
 tags:
   - theory/complexity
   - paradigm/complexity

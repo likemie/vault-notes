@@ -11,9 +11,9 @@ type: person
 nationality: france
 person_region: "france"
 person_related_count: 18
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1787"
 died: "1874"
 lifespan: "1787–1874"

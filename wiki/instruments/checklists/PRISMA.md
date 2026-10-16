@@ -9,9 +9,9 @@ summary: "由国际同行方法学专家组研制的系统综述与元分析优�
 type: instrument
 instrument_type: checklist
 instrument_related_count: 38
-instrument_related_level: 6
-instrument_related_stars: "⭐⭐⭐⭐⭐⭐"
-instrument_related_color: "#fecdd3"
+instrument_related_level: 3
+instrument_related_stars: "💎"
+instrument_related_color: "#e5e7eb"
 part_of: ""
 developers:
   - "Page, M. J."

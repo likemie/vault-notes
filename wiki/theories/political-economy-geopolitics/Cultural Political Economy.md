@@ -7,9 +7,9 @@ summary: "把符号意义建构与结构物质过程放在同一分析框架中�
 type: theory
 theory_field: "political-economy-geopolitics"
 theory_related_count: 17
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
 - cultural-political-economy
 - political-economy

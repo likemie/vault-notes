@@ -12,8 +12,8 @@ region: china
 fact_region: "china"
 fact_kind: "event"
 fact_related_count: 33
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#fef3c7"
 tags:
   - university-rankings

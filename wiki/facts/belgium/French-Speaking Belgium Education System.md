@@ -11,8 +11,8 @@ region: belgium
 fact_region: "belgium"
 fact_kind: "policy"
 fact_related_count: 8
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
 issuing_organization: "French-speaking Community of Belgium"
 tags:
@@ -38,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-05-24
+updated: 2026-10-16
 ---
 
 # French-Speaking Belgium Education System

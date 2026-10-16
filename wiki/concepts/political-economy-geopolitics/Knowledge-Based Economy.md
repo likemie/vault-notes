@@ -8,9 +8,9 @@ summary: "以知识、创新、高等教育、研发与高阶思维技能作为�
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 79
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 7
+related_stars: "💎💎⭐"
+related_color: "#ddd6fe"
 tags:
   - theme/knowledge-based-economy
   - theme/higher-order-thinking

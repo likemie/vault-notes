@@ -9,9 +9,9 @@ summary: "由卡洛塔·佩雷斯（Carlota Perez）与克里斯·弗里曼（Ch
 type: theory
 theory_field: "political-economy-geopolitics"
 theory_related_count: 25
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 tags:
   - theory/evolutionary-economics
   - theme/innovation-policy
@@ -49,7 +49,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Techno-economic Paradigm

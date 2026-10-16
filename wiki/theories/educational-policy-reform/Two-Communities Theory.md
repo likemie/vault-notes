@@ -9,9 +9,9 @@ summary: "两社区理论由 Nathan Caplan（1979）提出，指涉科学研究�
 type: theory
 theory_field: "educational-policy-reform"
 theory_related_count: 41
-theory_related_level: 5
-theory_related_stars: "⭐⭐⭐⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 tags:
   - knowledge-brokerage
   - policy-analysis

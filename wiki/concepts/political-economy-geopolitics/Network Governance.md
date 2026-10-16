@@ -9,9 +9,9 @@ summary: "以多元行动者横向协作、关系协调与异层结构替代垂�
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 81
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 8
+related_stars: "💎💎⭐⭐"
+related_color: "#ddd6fe"
 tags:
   - subject/policy-studies
   - theory/governance

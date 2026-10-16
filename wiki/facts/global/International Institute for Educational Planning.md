@@ -14,8 +14,8 @@ region: global
 fact_region: "global"
 fact_kind: "organization"
 fact_related_count: 33
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
 org_type: "international-organization"
 headquarters: "法国巴黎（Paris, France）"
@@ -69,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-08
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # International Institute for Educational Planning

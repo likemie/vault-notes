@@ -9,7 +9,7 @@ type: concept
 domain: "science-policy"
 related_count: 53
 related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
+related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
 tags:
   - concept/economics

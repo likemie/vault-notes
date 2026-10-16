@@ -15,8 +15,8 @@ region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "organization"
 fact_related_count: 24
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: 教育管理组织 / 跨国商业教育咨询公司 / 慈善信托
 headquarters: Auckland, New Zealand

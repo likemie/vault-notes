@@ -9,9 +9,9 @@ summary: "世界银行开发的标准化外部课堂观察工具，面向中低�
 type: instrument
 instrument_type: observation-tool
 instrument_related_count: 34
-instrument_related_level: 6
-instrument_related_stars: "⭐⭐⭐⭐⭐⭐"
-instrument_related_color: "#fecdd3"
+instrument_related_level: 3
+instrument_related_stars: "💎"
+instrument_related_color: "#cffafe"
 part_of: ""
 developers:
   - World Bank Group
@@ -76,7 +76,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Teach Classroom Observation Tool

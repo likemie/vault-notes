@@ -9,9 +9,9 @@ summary: "20 世纪 50 至 70 年代支配英美比较教育学的知识体系�
 type: concept
 domain: "comparative-education"
 related_count: 67
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - concept/comparative-education
   - paradigm/scientific

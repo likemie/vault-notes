@@ -9,9 +9,9 @@ type: person
 nationality: germany
 person_region: "germany"
 person_related_count: 8
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1858"
 died: "1947"
 lifespan: "1858–1947"

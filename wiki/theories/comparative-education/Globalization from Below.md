@@ -10,9 +10,9 @@ summary: "布雷彻等创立、阿诺夫引入比较教育学的批判社会运�
 type: theory
 theory_field: "comparative-education"
 theory_related_count: 33
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_level: 3
+theory_related_stars: "💎"
+theory_related_color: "#ede9fe"
 domain: "comparative-education"
 related_count: 8
 related_level: 0

@@ -8,9 +8,9 @@ type: person
 nationality: japan
 person_region: "japan"
 person_related_count: 18
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1912"
 died: "1990"
 lifespan: "1912–1990"

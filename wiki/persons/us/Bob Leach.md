@@ -8,9 +8,9 @@ type: person
 nationality: us
 person_region: "us"
 person_related_count: 8
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1916"
 died: "2004"
 lifespan: "1916–2004"
@@ -36,7 +36,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-09-12
+updated: 2026-10-16
 ---
 
 # Bob Leach

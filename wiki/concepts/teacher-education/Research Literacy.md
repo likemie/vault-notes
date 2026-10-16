@@ -7,9 +7,9 @@ summary: "指专业从业者（教师与公职决策者）以维护专业实践�
 type: concept
 domain: "teacher-education"
 related_count: 61
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - field/teacher-education
   - theme/research-use

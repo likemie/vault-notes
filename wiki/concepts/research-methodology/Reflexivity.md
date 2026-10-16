@@ -10,9 +10,9 @@ summary: "研究者与实践者审视自身角色、背景、偏见与隐性假�
 type: concept
 domain: "research-methodology"
 related_count: 87
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 8
+related_stars: "💎💎⭐⭐"
+related_color: "#ddd6fe"
 tags:
   - research-methodology
   - qualitative-research

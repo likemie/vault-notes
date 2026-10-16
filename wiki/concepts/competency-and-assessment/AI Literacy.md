@@ -11,7 +11,7 @@ type: concept
 domain: "competency-and-assessment"
 related_count: 43
 related_level: 4
-related_stars: "⭐⭐⭐⭐"
+related_stars: "💎⭐"
 related_color: "#fdba74"
 tags:
   - field/curriculum

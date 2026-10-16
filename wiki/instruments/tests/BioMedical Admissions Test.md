@@ -9,8 +9,8 @@ summary: "由剑桥大学考评部研发的高利害医学与生物医学本科�
 type: instrument
 instrument_type: test
 instrument_related_count: 6
-instrument_related_level: 1
-instrument_related_stars: "⭐"
+instrument_related_level: 0
+instrument_related_stars: "☆"
 instrument_related_color: "#dbeafe"
 part_of: ""
 developers:
@@ -42,7 +42,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # BioMedical Admissions Test

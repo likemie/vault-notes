@@ -3,9 +3,9 @@ summary: "家族相似性进路（Family Resemblance Approach, FRA）是由哲�
 type: theory
 theory_field: "curriculum"
 theory_related_count: 28
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 title: "Family Resemblance Approach"
 aliases:
   - "FRA"

@@ -7,9 +7,9 @@ summary: "指在解决高度复杂现实危机与工程挑战过程中形成的�
 type: concept
 domain: "political-economy-geopolitics"
 related_count: 75
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 7
+related_stars: "💎💎⭐"
+related_color: "#ddd6fe"
 tags:
   - theme/organizational-culture
   - theme/engineering-mindset

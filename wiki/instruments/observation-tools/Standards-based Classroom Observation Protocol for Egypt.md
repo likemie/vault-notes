@@ -10,8 +10,8 @@ summary: "由世界银行、埃及教育部及国际开发署联合研发的面�
 type: instrument
 instrument_type: observation-tool
 instrument_related_count: 11
-instrument_related_level: 2
-instrument_related_stars: "⭐⭐"
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#cffafe"
 part_of: ""
 developers:
@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-15
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Standards-based Classroom Observation Protocol for Egypt

@@ -9,8 +9,8 @@ type: method
 method_type: qualitative
 method_family: "qualitative"
 method_related_count: 27
-method_related_level: 3
-method_related_stars: "⭐⭐⭐"
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative
@@ -51,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-06-01'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Qualitative Observation

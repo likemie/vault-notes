@@ -12,7 +12,7 @@ type: concept
 domain: "university-industry-collaboration"
 related_count: 38
 related_level: 3
-related_stars: "⭐⭐⭐"
+related_stars: "💎"
 related_color: "#fde68a"
 tags:
   - concept/organization

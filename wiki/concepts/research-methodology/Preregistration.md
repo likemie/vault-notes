@@ -5,9 +5,9 @@ aliases:
 summary: "在研究开始前公开登记研究设计、结果测量和分析计划的做法，用于减少事后调整、选择性报告和可疑研究实践。"
 type: concept
 domain: "research-methodology"
-related_count: 52
+related_count: 59
 related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
+related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
 tags:
   - preregistration
@@ -35,9 +35,13 @@ related_concepts:
   - "[[Replication in Education Research]]"
   - "[[Evaluator Independence]]"
   - "[[Evidence-Based Education]]"
+  - "[[Paradigm]]"
+  - "[[Visible Learning]]"
+  - "[[Metascience]]"
   - "[[Trust Calibration]]"
   - "[[Internal Validity]]"
   - "[[Literature Review]]"
+  - "[[PICO Framework]]"
   - "[[Developer Effect]]"
 related_theories: []
 related_methods:
@@ -53,10 +57,13 @@ related_methods:
   - "[[Intervention Research]]"
   - "[[Hierarchical Linear Model]]"
   - "[[Generalized Estimating Equations]]"
+  - "[[Meta-meta-analysis]]"
+  - "[[Meta-analysis]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Grounded Theory]]"
   - "[[Process Tracing]]"
   - "[[Correlational Research]]"
+  - "[[Analytic Framework]]"
 related_instruments:
   - "[[TIDieR]]"
   - "[[EEF Padlock Security Rating]]"
@@ -239,7 +246,7 @@ updated: 2026-10-16
 > - **2018–2019 — 英国 [[Education Endowment Foundation\|EEF]] 制度化[[Statistical Analysis Plan\|统计分析计划]]与安全锁惩罚** 英国教育捐赠基金会（EEF）发布并三次修订《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018），出台《EEF 评估发现安全级别分类指南》（*Classification of the Security of Findings from EEF Evaluations*; The EEF, 2019c），将偏离预注册 SAP 正式确立为直接扣除 1 把安全锁的制度化质量惩罚。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 51–53, 57)]]
 > - **2019 — [[Evidence-Based Education\|循证教育]]改革确立预注册为复现质控支柱** [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] 系统论证在大规模教育资助（如 i3、[[Education Innovation and Research\|EIR]]、EEF）中，大样本预注册与[[Evaluator Independence\|第三方独立评估]]构成了破解教育科学复现危机、确保 [[Every Student Succeeds Act\|ESSA]] 分层证据效力的制度基石。
 > - **2020–2021 — 证据中介准入标准与全球推广** [[Argument_Wolf_2020_JREE\|Wolf et al. (2020)]] 呼吁将预注册作为 [[What Works Clearinghouse\|WWC]] 审查准入的强制条件；[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] 总结 EEF 200 余项大规模试验全生命周期方案透明治理经验，预注册成为现代证据中介的核心标配。
-> - **2025 — 预注册范式扩展至宏观二阶元分析审计** 瑞典卡尔门达尔（Kalmendal）等学者在开放科学框架（Open Science Framework，OSF）上完成首个针对二阶元综合（《可见的学习》）全量审计方案的预注册（[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025]]），将预注册规范由传统的“单一干预试验与一阶元分析”前沿拓展至“宏观证据清理与元科学审计”，确立了三阶审计锁定的新标准。
+> - **2025 — 预注册[[Paradigm|范式]]扩展至宏观[[Meta-meta-analysis|二阶元分析]]审计** 瑞典卡尔门达尔（Kalmendal）等学者在开放科学框架（Open Science Framework，OSF）上完成首个针对二阶元综合（《[[Visible Learning|可见的学习]]》）全量审计方案的预注册（[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025]]），将预注册规范由传统的“单一干预试验与一阶[[Meta-analysis|元分析]]”前沿拓展至“宏观证据清理与[[Metascience|元科学]]审计”，确立了三阶审计锁定的新标准。
 
 ---
 
@@ -278,7 +285,7 @@ updated: 2026-10-16
 > | EEF-NPD 开放档案库 | 英格兰[[National Pupil Database\|国家学生数据库]]（NPD）对接试验微观数据库 | 纵向行政档案关联 | 完整关联行政大数据的预注册试验归档数量 | 105 项独立试验微观数据完整归档并对学界开放 | — | 为长期因果效应追踪与第三方复算提供了全球首个国家级教育微观数据库 |
 > | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | 全美 i3 / [[Education Innovation and Research\|EIR]] 与英国 EEF 资助的数百项大规模现场试验 | 循证改革质量综述与方法学评估 | 预注册与质控标准对破除[[Replication in Education Research\|复现危机]]的作用 | 大样本预注册、独立评估与标准化测验结合彻底扭转了小样本自评导致的不复现困境 | 质实质控飞跃 | 确立预注册为联邦 [[Every Student Succeeds Act\|ESSA]] 分层证据体系的核心质控支柱 |
 > | [[Argument_Wolf_2020_JREE\|Wolf et al. (2020)]] | 美国 [[Institute of Education Sciences\|IES]] 效能与有效性研究注册处（REES） | 政策分析与实证评述 | 预注册对缓解虚假结果与改善研究生态的作用 | 质性定性为无疑是积极的进步（undoubtedly a positive advancement；Gehlbach & Robinson, 2018） | — | 说明预注册已成为美国联邦教育因果评估治理的核心规范 |
-> | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 《可见的学习》（1.2 版）全库 322 个影响因素（检索精读 1,369 篇一阶元分析） | 预注册全量元科学审计与双独立编码 | OSF 方案预注册、PICO 纳入合规率与数据复现率 | 预先在 OSF 锁定审计方案；仅 19% 满足 PICO 关卡，301 项中仅 2 项（0.66%）数据提取完全可复现，44% 报告效应量查无出处 | 审计方案 100% 事前锁定并公开发表 | 证实预注册规程对于防止审查偏倚、开展高信度二阶证据审查的关键方法学价值 |
+> | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 《[[Visible Learning\|可见的学习]]》（1.2 版）全库 322 个影响因素（检索精读 1,369 篇一阶[[Meta-analysis\|元分析]]） | 预注册全量[[Metascience\|元科学]]审计与双独立编码 | OSF 方案预注册、[[PICO Framework\|PICO]] 纳入合规率与数据复现率 | 预先在 OSF 锁定审计方案；仅 19% 满足 PICO 关卡，301 项中仅 2 项（0.66%）数据提取完全可复现，44% 报告效应量查无出处 | 审计方案 100% 事前锁定并公开发表 | 证实预注册规程对于防止审查偏倚、开展高[[Reliability\|信度]]二阶证据审查的关键方法学价值 |
 
 ---
 
@@ -288,5 +295,5 @@ updated: 2026-10-16
 > - [[Argument_Wolf_2020_JREE\|Wolf et al. (2020)]] — 在探讨[[Developer Effect\|开发者效应]]与[[Publication Bias\|发表偏倚]]的机制时，系统提出将预注册作为 [[What Works Clearinghouse\|WWC]] 等清算机构准入条件的政策方案，并深刻辨析了预注册在应对[[Researcher Degrees of Freedom\|研究者自由度]]上的有效性与局限性。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 深度复盘英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）前八年逾 150 项大规模学校 [[Randomised Controlled Trials\|RCT]] 的治理实践，详细呈现了从 [[ISRCTN]] 预注册、独立协议防火墙、[[Statistical Analysis Plan\|统计分析计划]]（SAP）预先公开，到杜伦大学四模型复算驱动行业指南制定的全生命周期开放科学模式。
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 论述[[Evidence-Based Education\|循证教育]]改革如何通过大样本预注册、锁定统计分析计划（SAP）、[[Evaluator Independence\|第三方独立评估]]与独立标准化测验等严格质控标准，从根本上化解教育研究中的[[Replication in Education Research\|复现危机]]与开发者偏倚。
-> - [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] — 在 OSF 实施预注册开展全量元科学审计，将预注册规程创新性应用于检验宏观证据库《可见的学习》，以无偏的事前分析框架实证终结了其数据可信度。
+> - [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] — 在 OSF 实施预注册开展全量[[Metascience|元科学]]审计，将预注册规程创新性应用于检验宏观证据库《[[Visible Learning|可见的学习]]》，以无偏的事前[[Analytic Framework|分析框架]]实证终结了其数据可[[Reliability|信度]]。
 

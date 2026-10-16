@@ -10,9 +10,9 @@ type: person
 nationality: germany
 person_region: "germany"
 person_related_count: 46
-person_related_level: 5
-person_related_stars: "⭐⭐⭐⭐⭐"
-person_related_color: "#ffedd5"
+person_related_level: 4
+person_related_stars: "💎⭐"
+person_related_color: "#fce7f3"
 born: "1929"
 died: ""
 lifespan: "1929–至今"
@@ -82,7 +82,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-13
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Jürgen Habermas

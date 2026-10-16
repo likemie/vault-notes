@@ -12,8 +12,8 @@ region: germany
 fact_region: "germany"
 fact_kind: "organization"
 fact_related_count: 33
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
 org_type: 联邦最高行政机关
 headquarters: 波恩与柏林（双总部）

@@ -13,7 +13,7 @@ fact_region: "us"
 fact_kind: "organization"
 fact_related_count: 69
 fact_related_level: 6
-fact_related_stars: "⭐⭐⭐⭐⭐⭐"
+fact_related_stars: "💎💎"
 fact_related_color: "#fecdd3"
 org_type: 联邦国防与国家安全颠覆性研发机构
 headquarters: 美国弗吉尼亚州阿灵顿（Arlington, Virginia）
@@ -105,7 +105,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-03
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # DARPA

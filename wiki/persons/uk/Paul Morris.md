@@ -8,9 +8,9 @@ type: person
 nationality: uk
 person_region: "uk"
 person_related_count: 18
-person_related_level: 2
-person_related_stars: "⭐⭐"
-person_related_color: "#e0e7ff"
+person_related_level: 1
+person_related_stars: "⭐"
+person_related_color: "#dbeafe"
 born: "1951"
 died: ""
 lifespan: "1951–至今"

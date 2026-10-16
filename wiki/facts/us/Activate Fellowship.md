@@ -15,8 +15,8 @@ region: "us"
 fact_region: "us"
 fact_kind: "program"
 fact_related_count: 25
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2015–至今"
 initiator_organization: "Activate Global, 劳伦斯伯克利国家实验室, 美国能源部（DOE）"
@@ -63,7 +63,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-07
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Activate Fellowship

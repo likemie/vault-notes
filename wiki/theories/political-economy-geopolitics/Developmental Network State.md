@@ -11,9 +11,9 @@ summary: "Fred Block（2008）与 Christopher Ansell（2000）提出的科技创
 type: theory
 theory_field: "political-economy-geopolitics"
 theory_related_count: 49
-theory_related_level: 5
-theory_related_stars: "⭐⭐⭐⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theme/political-economy
   - theme/science-policy
@@ -79,7 +79,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-04
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Developmental Network State

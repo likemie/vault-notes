@@ -8,9 +8,9 @@ summary: "指超越新古典狭隘“公共品”修补的整体性治理与创�
 type: concept
 domain: "science-policy"
 related_count: 68
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - theme/governance
   - theme/public-value

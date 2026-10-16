@@ -10,7 +10,7 @@ type: concept
 domain: "instruction-pedagogy"
 related_count: 44
 related_level: 4
-related_stars: "⭐⭐⭐⭐"
+related_stars: "💎⭐"
 related_color: "#fdba74"
 tags:
   - field/educational-philosophy
@@ -207,7 +207,7 @@ updated: 2026-10-16
 ## 典型案例
 
 > [!case] 案例一：教育中的构建投石机（Building a Catapult）项目
-> 杜威与 [[Argument_Darwish_2009_Queens|Darwish (2009, p. 35)]] 对比了两种教学模式：
+> [[John Dewey|杜威]]与 [[Argument_Darwish_2009_Queens|Darwish (2009, p. 35)]] 对比了两种教学模式：
 > - **传统讲授模式** 教师在讲台上口头宣讲投石机的物理原理与制作步骤，学生被动听讲与记忆公式——这种教学制造了听讲的被动与吸收，无法引发深度思考。
 > - **在做中学模式** 教师给小组学生布置一项真实任务：制作一台可投射的投石机。接收到任务后，学生需要自主分工研究资料、讨论结构设计、试验材料强度并调试角度。在这一做的过程中，解决困难的迫切需求自然激发了[[Critical Thinking|批判性思维]]、协同对话与探究。
 

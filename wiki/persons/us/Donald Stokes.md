@@ -10,13 +10,13 @@ type: person
 nationality: us
 person_region: "us"
 person_related_count: 43
-person_related_level: 5
-person_related_stars: "⭐⭐⭐⭐⭐"
-person_related_color: "#ffedd5"
+person_related_level: 4
+person_related_stars: "💎⭐"
+person_related_color: "#fce7f3"
 born: "1927"
 died: "1997"
 lifespan: "1927–1997"
-updated: 2026-10-15
+updated: 2026-10-16
 tags:
   - person/political-scientist
   - person/policy-scholar

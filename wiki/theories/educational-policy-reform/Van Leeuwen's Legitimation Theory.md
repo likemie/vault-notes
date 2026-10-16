@@ -8,9 +8,9 @@ summary: "分析公共论述如何取得正当性的四层次框架，包括权�
 type: theory
 theory_field: "educational-policy-reform"
 theory_related_count: 19
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
 - legitimation-theory
 - van-leeuwen

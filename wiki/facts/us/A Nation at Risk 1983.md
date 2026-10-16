@@ -11,9 +11,9 @@ region: us
 fact_region: "us"
 fact_kind: "event"
 fact_related_count: 41
-fact_related_level: 5
-fact_related_stars: "⭐⭐⭐⭐⭐"
-fact_related_color: "#fecdd3"
+fact_related_level: 4
+fact_related_stars: "💎⭐"
+fact_related_color: "#fef3c7"
 tags:
   - assessment
   - education-reform
@@ -74,7 +74,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # A Nation at Risk 1983

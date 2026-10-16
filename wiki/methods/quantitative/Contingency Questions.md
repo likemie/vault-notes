@@ -14,7 +14,7 @@ method_type: quantitative
 method_family: "quantitative"
 method_related_count: 7
 method_related_level: 0
-method_related_stars: ""
+method_related_stars: "☆"
 method_related_color: "#dcfce7"
 tags:
   - method/questionnaire
@@ -34,7 +34,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-07-21
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 # Contingency Questions
 

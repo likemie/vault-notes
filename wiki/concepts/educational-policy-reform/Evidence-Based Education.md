@@ -10,8 +10,8 @@ summary: "主张教育实践与政策决策应建立在严格的因果识别研�
 type: concept
 domain: "educational-policy-reform"
 related_count: 153
-related_level: 6
-related_stars: "⭐⭐⭐⭐⭐⭐"
+related_level: 15
+related_stars: "💎💎💎💎💎"
 related_color: "#ddd6fe"
 tags:
 - evidence-based-education

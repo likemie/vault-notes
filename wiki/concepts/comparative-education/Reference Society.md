@@ -10,7 +10,7 @@ type: concept
 domain: "comparative-education"
 related_count: 38
 related_level: 3
-related_stars: "⭐⭐⭐"
+related_stars: "💎"
 related_color: "#fde68a"
 tags:
   - concept/comparative-education
@@ -67,7 +67,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-07-05
-updated: 2026-10-12
+updated: 2026-10-16
 ---
 
 # Reference Society

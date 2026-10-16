@@ -8,9 +8,9 @@ type: person
 nationality: australia
 person_region: "australia"
 person_related_count: 51
-person_related_level: 6
-person_related_stars: "⭐⭐⭐⭐⭐⭐"
-person_related_color: "#fef3c7"
+person_related_level: 5
+person_related_stars: "💎⭐⭐"
+person_related_color: "#ffedd5"
 born: "1950"
 died: ""
 lifespan: "1950–至今"

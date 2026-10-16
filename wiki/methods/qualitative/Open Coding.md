@@ -10,8 +10,8 @@ type: method
 method_type: qualitative
 method_family: "qualitative"
 method_related_count: 33
-method_related_level: 4
-method_related_stars: "⭐⭐⭐⭐"
+method_related_level: 3
+method_related_stars: "💎"
 method_related_color: "#dbeafe"
 tags:
   - method/qualitative

@@ -11,9 +11,9 @@ summary: "国家将少数垄断性社会伙伴（如雇主协会、全国性工�
 type: theory
 theory_field: "political-economy-geopolitics"
 theory_related_count: 29
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 domain: "political-economy-geopolitics"
 tags:
   - theory

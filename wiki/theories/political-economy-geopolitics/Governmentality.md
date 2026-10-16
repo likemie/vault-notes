@@ -10,9 +10,9 @@ summary: "米歇尔·福柯提出的权力分析核心理论，指一种以人�
 type: theory
 theory_field: "political-economy-geopolitics"
 theory_related_count: 44
-theory_related_level: 5
-theory_related_stars: "⭐⭐⭐⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 tags:
   - foucault
   - theory/poststructuralism

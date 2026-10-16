@@ -13,8 +13,8 @@ type: method
 method_type: quantitative
 method_family: "quantitative"
 method_related_count: 9
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_level: 0
+method_related_stars: "☆"
 method_related_color: "#dcfce7"
 tags:
   - theme/measurement
@@ -36,7 +36,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-25
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Ebel Method

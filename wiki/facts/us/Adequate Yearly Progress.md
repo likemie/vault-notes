@@ -13,7 +13,7 @@ fact_region: "us"
 fact_kind: "policy"
 fact_related_count: 31
 fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_stars: "💎"
 fact_related_color: "#dbeafe"
 period: "2002–2015"
 issuing_organization: "美国联邦教育部（U.S. Department of Education & U.S. Congress）"

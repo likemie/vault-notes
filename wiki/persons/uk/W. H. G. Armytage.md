@@ -6,9 +6,9 @@ created: 2026-10-01
 nationality: uk
 person_region: "uk"
 person_related_count: 8
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: 1915
 died: 1998
 lifespan: "1915–1998"
@@ -36,7 +36,7 @@ related_methods: []
 related_facts:
   - "[[Sputnik Shock 1957]]"
 related_persons: []
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # W. H. G. Armytage

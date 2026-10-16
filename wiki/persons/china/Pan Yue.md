@@ -9,7 +9,7 @@ nationality: china
 person_region: "china"
 person_related_count: 7
 person_related_level: 0
-person_related_stars: ""
+person_related_stars: "☆"
 person_related_color: "#e5e7eb"
 born: "1960"
 died: ""
@@ -34,7 +34,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-26
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Pan Yue

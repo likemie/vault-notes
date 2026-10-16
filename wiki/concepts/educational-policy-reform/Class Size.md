@@ -7,9 +7,9 @@ summary: "班级学生人数这一关键教育组织变量，其对教学互动�
 type: concept
 domain: "educational-policy-reform"
 related_count: 63
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - class-size
   - subject/curriculum

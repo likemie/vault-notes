@@ -10,7 +10,7 @@ fact_region: "netherlands"
 fact_kind: "organization"
 fact_related_count: 7
 fact_related_level: 0
-fact_related_stars: ""
+fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
 issuing_organization: Maastricht University, University of Amsterdam, University of Groningen
 tags:
@@ -35,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 
 # Top Institute for Evidence-Based Education Research

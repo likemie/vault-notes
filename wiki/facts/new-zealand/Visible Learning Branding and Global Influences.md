@@ -10,9 +10,9 @@ subtype: event
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "event"
-fact_related_count: 54
-fact_related_level: 6
-fact_related_stars: "⭐⭐⭐⭐⭐⭐"
+fact_related_count: 55
+fact_related_level: 5
+fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
 tags:
   - visible-learning
@@ -50,7 +50,8 @@ related_concepts:
   - "[[Formative Assessment]]"
   - "[[Learning Intentions]]"
   - "[[Critiques of Visible Learning]]"
-related_theories: []
+related_theories:
+  - "[[Panopticism]]"
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
@@ -175,7 +176,7 @@ Visible Learning 凭借其高度简化的[[Effect Size|效应量]]排名图表�
 > - **澳大利亚 — 国家标准嵌入与官方背书** Hattie 出任 [[Australian Institute for Teaching and School Leadership|AITSL]] 董事会主席，将 VL 指标要求全面嵌入国家教师与校长专业标准及持续认证体系；维多利亚州教育部官方背书并将 10 项高影响教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]）以 VL 为首选参考；ABC 纪录片《革命学校》将其描绘为公共教育拯救者。[[Argument_Sarbiewska_2019_JSR|(Sarbiewska, 2019, pp. 126–128)]]
 > - **丹麦 — 公立学校法案采纳与剧烈反弹** 2014 年丹麦议会公立学校改革明确引用 VL 将科目目标改为学习成果；但因改革与削减教师劳动权益的争议法案捆绑，迅速引发教师工会与学界的强烈抗议，出版批判文集《[[Hattie på dansk]]》，促成支持者与反对者的激烈论战。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, pp. 3–5)]]
 > - **瑞典 — “科学基础”下的学校改进重塑** 瑞典依据学校法对“科学基础与实证证据”的要求，将 VL 转译为聚焦课堂近端策略、同伴观察与教师协作的校本改进工作流程（详见 [[Visible Learning in Sweden]]）。
-> - **俄罗斯 — 译著传播与适用性争鸣** 2017 年 Prosveshchenie 集团出版俄文版并与国家标准（FSES）关联，但在学界引发关于数据极端不均匀与跨文化适应性的方法论警告（详见 [[Russian Translation of Visible Learning]]）。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 237)]]
+> - **俄罗斯 — 译著传播、制度陷阱与“拒绝借用”** 2017 年国家出版集团（Prosveshchenie）推出俄文版并试图与俄罗斯联邦国家教育标准（FSES）对接；然而，以 [[Argument_Golovchin_2019_ESC|Golovchin (2019)]]为代表的本土学者通过变差系数（\sigma = 56.87\%$）实测揭示其数据集极度不均匀，并结合俄罗斯教师社会地位偏低（仅 16% 认同职业声望）与 79% 教师受困于报表剧增的严峻现实，指出盲目推行基于可见学习的量化问责将使学校沦为行政全景监控车间并激化师资流失危机，因此明确向政策当局提出“拒绝采纳”该模式的理性审慎建议（详见 [[Russian Translation of Visible Learning]]）。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 230, 237–241)]]
 
 ---
 
@@ -193,6 +194,7 @@ Visible Learning 凭借其高度简化的[[Effect Size|效应量]]排名图表�
 > > [[Critical Pedagogy|批判教育学]]者警示 VL 异化为规训教师日常劳动的行政监控工具。
 > >
 > > - **大师崇拜与行政合谋（[[Argument_Eacott_2017_SLM|Eacott, 2017]], 2019）** 指出 VL 被行政机构包装为不可置疑的科学真理，将复杂教学矮化为可测量的最小单元，剥夺[[Teacher Professional Agency|教师专业能动性]]，沦为新时代的泰勒主义；学术期刊在两天内快速发表 Hattie 回应却多轮拖延批评者文章，反映出出版建制对大师地位的制度偏袒。[[Argument_Eacott_2019_IJLE|(Eacott, 2019, pp. 777–778)]]
+> > - **持续数据生产的跨国组织病理（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）** 澳大利亚学者 Eacott 揭示的“持续数据生产”机制在国际传播中产生多米诺效应；[[Argument_Golovchin_2019_ESC|Golovchin (2019)]]结合俄罗斯转型期教育现状实证指出，将 VL 的排名逻辑引入公立系统极易蜕变为“人人监视人人”的新行政[[Panopticism|全景敞视]]，使教师淹没于合规自证的报表流水线中，加速了教师群体的职业倦怠与人才流失。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 240–241)]]
 >
 > > [!axis] 政策误用、术语口号化与时效性脱节
 > > 政策制定者将历史[[Meta-analysis|元分析]]数据作为当下教学的挡箭牌，引发方法学严厉审视。

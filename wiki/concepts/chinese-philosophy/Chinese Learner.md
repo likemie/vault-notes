@@ -8,7 +8,7 @@ type: concept
 domain: "chinese-philosophy"
 related_count: 45
 related_level: 4
-related_stars: "⭐⭐⭐⭐"
+related_stars: "💎⭐"
 related_color: "#fdba74"
 tags:
   - region/china
@@ -236,10 +236,10 @@ updated: 2026-10-16
 
 | 谬误 | 核心错误 | 详见 |
 |------|----------|------|
-| 行为主义谬误 | 将可观察行为（重复朗读）等同于内心过程（没有理解） | [[Argument_Li_2012_Cambridge#谬误 1：行为主义谬误\|Li (2012)]] |
-| 基础阶段混淆 | 将学习基础阶段的共性（任何文化都需要反复练习）当作中国特有的缺陷 | [[Argument_Li_2012_Cambridge#谬误 2：基础阶段混淆\|Li (2012)]] |
-| 静态观察谬误 | 将一次观察到的"熟"阶段行为当作学习的全部 | [[Argument_Li_2012_Cambridge#谬误 3：静态观察谬误\|Li (2012)]] |
-| 即时理解谬误 | 假设理解必须即时口头展示——"五十分钟课堂内的理解是低级理解" | [[Argument_Li_2012_Cambridge#谬误 4：即时理解谬误\|Li (2012)]] |
+| 行为主义谬误 | 将可观察行为（重复朗读）等同于内心过程（没有理解） | [[Argument_Li_2012_Cambridge\|Li (2012)]] |
+| 基础阶段混淆 | 将学习基础阶段的共性（任何文化都需要反复练习）当作中国特有的缺陷 | [[Argument_Li_2012_Cambridge\|Li (2012)]] |
+| 静态观察谬误 | 将一次观察到的"熟"阶段行为当作学习的全部 | [[Argument_Li_2012_Cambridge\|Li (2012)]] |
+| 即时理解谬误 | 假设理解必须即时口头展示——"五十分钟课堂内的理解是低级理解" | [[Argument_Li_2012_Cambridge\|Li (2012)]] |
 
 > [!success] 实证支持
 > Marton 团队的[[Phenomenology\|现象学]]研究直接询问学习者自身经验——发现中国学习者的记忆是"第一步"而非目的。一位香港学生："每次我重复，我都会有新的理解"([[Argument_Li_2012_Cambridge\|Li, 2012, p.139]])。跨文化比较显示：重复性学习与深度理解策略强相关——但仅对亚洲学生如此。

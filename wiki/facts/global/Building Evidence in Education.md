@@ -12,8 +12,8 @@ region: global
 fact_region: "global"
 fact_kind: "organization"
 fact_related_count: 26
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: multilateral-donor-coalition
 headquarters: Washington, D.C.
@@ -60,7 +60,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Building Evidence in Education

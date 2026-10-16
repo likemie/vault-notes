@@ -9,7 +9,7 @@ method_type: qualitative
 method_family: "qualitative"
 method_related_count: 6
 method_related_level: 0
-method_related_stars: ""
+method_related_stars: "☆"
 method_related_color: "#dbeafe"
 tags:
 - cognitive-task-analysis
@@ -29,7 +29,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 ## 定义

@@ -10,7 +10,7 @@ nationality: us
 person_region: "us"
 person_related_count: 5
 person_related_level: 0
-person_related_stars: ""
+person_related_stars: "☆"
 person_related_color: "#e5e7eb"
 born: "1755"
 died: "1804"
@@ -32,7 +32,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-16
 ---
 
 # Alexander Hamilton

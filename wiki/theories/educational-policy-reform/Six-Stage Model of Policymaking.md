@@ -12,9 +12,9 @@ summary: "将公共政策全生命周期解构为问题识别、议程设置、�
 type: theory
 theory_field: "educational-policy-reform"
 theory_related_count: 40
-theory_related_level: 5
-theory_related_stars: "⭐⭐⭐⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theory
   - policy/us-federal

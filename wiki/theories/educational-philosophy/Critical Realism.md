@@ -6,9 +6,9 @@ summary: "Bhaskar 的科学哲学，区分实在、实际、经验三层本体�
 type: theory
 theory_field: "educational-philosophy"
 theory_related_count: 44
-theory_related_level: 5
-theory_related_stars: "⭐⭐⭐⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 tags:
 - critical-realism
 - bhaskar
@@ -70,7 +70,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-01'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Critical Realism

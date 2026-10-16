@@ -6,9 +6,9 @@ summary: "解释资本主义为何一方面依赖空间固着来组织生产与�
 type: theory
 theory_field: "political-economy-geopolitics"
 theory_related_count: 18
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
 - fixity-motion-tension
 - harvey
@@ -43,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-07'
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 ## 定义

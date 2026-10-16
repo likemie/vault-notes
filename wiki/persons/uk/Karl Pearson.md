@@ -8,9 +8,9 @@ type: person
 nationality: uk
 person_region: "uk"
 person_related_count: 8
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_level: 0
+person_related_stars: "☆"
+person_related_color: "#e5e7eb"
 born: "1857"
 died: "1936"
 lifespan: "1857–1936"
@@ -37,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-06-08'
-updated: 2026-10-10
+updated: 2026-10-16
 ---
 ## 简介
 

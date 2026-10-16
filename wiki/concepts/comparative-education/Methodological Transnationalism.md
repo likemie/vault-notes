@@ -7,7 +7,7 @@ type: concept
 domain: "comparative-education"
 related_count: 30
 related_level: 3
-related_stars: "⭐⭐⭐"
+related_stars: "💎"
 related_color: "#fde68a"
 tags:
   - subject/comparative-education
@@ -53,7 +53,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-11
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Methodological Transnationalism

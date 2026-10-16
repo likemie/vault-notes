@@ -10,9 +10,9 @@ summary: "由 Miranda Fricker (2007) 开创的批判性社会认识论理论，�
 type: theory
 theory_field: "educational-philosophy"
 theory_related_count: 33
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_level: 3
+theory_related_stars: "💎"
+theory_related_color: "#ede9fe"
 domain: educational-philosophy
 tags:
   - theory/social-epistemology

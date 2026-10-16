@@ -12,8 +12,8 @@ region: japan
 fact_region: "japan"
 fact_kind: "policy"
 fact_related_count: 8
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#dbeafe"
 issuing_organization: "GHQ / 日本国会"
 tags:

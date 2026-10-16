@@ -9,9 +9,9 @@ summary: "历史制度主义的核心中观理论，由沃尔夫冈·施特雷�
 type: theory
 theory_field: "political-economy-geopolitics"
 theory_related_count: 39
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_level: 3
+theory_related_stars: "💎"
+theory_related_color: "#ede9fe"
 tags:
   - theory/institutionalism
   - theme/institutional-change

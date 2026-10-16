@@ -9,9 +9,9 @@ summary: "宏观教育政策治理模式的比较理论框架，对比了以强�
 type: theory
 theory_field: "educational-policy-reform"
 theory_related_count: 16
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - theory
   - theme/educational-policy-reform

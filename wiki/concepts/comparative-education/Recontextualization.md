@@ -12,9 +12,9 @@ summary: "知识与教育话语脱离原始生产场所并在跨场域流转中�
 type: concept
 domain: "comparative-education"
 related_count: 61
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 related_concepts:
   - "[[Discourse]]"
   - "[[Champ]]"

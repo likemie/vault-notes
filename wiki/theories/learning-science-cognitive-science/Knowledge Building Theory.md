@@ -13,9 +13,9 @@ summary: "学习科学经典理论，由斯卡达马利亚与贝莱特提出；�
 type: theory
 theory_field: "learning-science-cognitive-science"
 theory_related_count: 40
-theory_related_level: 5
-theory_related_stars: "⭐⭐⭐⭐⭐"
-theory_related_color: "#ffedd5"
+theory_related_level: 4
+theory_related_stars: "💎⭐"
+theory_related_color: "#fce7f3"
 tags:
   - theory/learning-science
   - paradigm/constructivism
@@ -72,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-22
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Knowledge Building Theory

@@ -7,8 +7,8 @@ summary: "Cole et al. (2015) 开发的半结构化课堂观察工具，用于记
 type: instrument
 instrument_type: observation-tool
 instrument_related_count: 11
-instrument_related_level: 2
-instrument_related_stars: "⭐⭐"
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#cffafe"
 developers:
   - "Cole, D. R."
@@ -45,7 +45,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-01
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # ToK Classroom Observation Protocol

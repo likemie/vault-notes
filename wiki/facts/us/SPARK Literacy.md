@@ -12,8 +12,8 @@ region: us
 fact_region: "us"
 fact_kind: "program"
 fact_related_count: 9
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
 period: 2010–至今
 initiator_organization: 密尔沃基男孩女孩俱乐部（Boys & Girls Clubs）/ 全美服务队（AmeriCorps）

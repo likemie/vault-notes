@@ -537,6 +537,7 @@ Argument 引用规则：
 - 每条新增信息附来源页码。
 - `updated` 由 `vault_index.py` 自动维护：正文相对上次提交有改动的条目会被设为当天日期，不需要手动修改；需要时更新 `confidence`。
 - 不手动更新 `related_*`、Argument `sources`、source record `extracted_to`，交由脚本同步。
+- 所有七类条目的关联亮度使用同一规则：每 10 个关联计 1 星，每 3 星显示为 1 枚钻石，余数继续计星，不足 10 个显示 ☆；数值 level 保留总星数，不封顶。由 `vault_index.py` 统一重算。
 - 在正文中自然使用 wikilink，脚本会自动维护 frontmatter 关系。
 - 只有 Argument 页更新正文 `## 来源` 章节；非 Argument 条目用 Argument 短引用承载来源关系。
 

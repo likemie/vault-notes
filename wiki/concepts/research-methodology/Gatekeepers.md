@@ -15,9 +15,9 @@ summary: "涵盖微观质性研究准入审查者、中观学校组织变革过�
 type: concept
 domain: "research-methodology"
 related_count: 85
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 8
+related_stars: "💎💎⭐⭐"
+related_color: "#ddd6fe"
 tags:
   - research-methodology
   - qualitative-research

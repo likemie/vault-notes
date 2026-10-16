@@ -10,9 +10,9 @@ summary: "Carol Bacchi (2009) 提出的政策分析框架，通过六个递进�
 type: theory
 theory_field: "sociology-of-education"
 theory_related_count: 16
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_level: 1
+theory_related_stars: "⭐"
+theory_related_color: "#dbeafe"
 tags:
   - theory/policy-analysis
   - sociology-of-education
@@ -43,7 +43,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Bacchi's WPR Approach

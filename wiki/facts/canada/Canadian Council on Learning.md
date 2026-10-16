@@ -11,8 +11,8 @@ region: canada
 fact_region: "canada"
 fact_kind: "organization"
 fact_related_count: 24
-fact_related_level: 3
-fact_related_stars: "⭐⭐⭐"
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 org_type: "独立非营利全国性中介机构"
 headquarters: "加拿大渥太华"

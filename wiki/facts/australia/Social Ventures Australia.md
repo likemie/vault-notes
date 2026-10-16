@@ -12,8 +12,8 @@ region: australia
 fact_region: "australia"
 fact_kind: "organization"
 fact_related_count: 37
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
 org_type: "风险慈善机构 / 社会影响力投资与咨询机构"
 headquarters: "悉尼与墨尔本，澳大利亚"
@@ -68,7 +68,7 @@ related_persons:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Social Ventures Australia

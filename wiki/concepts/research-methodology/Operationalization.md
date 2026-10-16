@@ -6,7 +6,7 @@ type: concept
 domain: "research-methodology"
 related_count: 32
 related_level: 3
-related_stars: "⭐⭐⭐"
+related_stars: "💎"
 related_color: "#fde68a"
 tags: [method/research-design, source/textbook, theme/research-planning]
 related_concepts:

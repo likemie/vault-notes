@@ -11,9 +11,9 @@ summary: "由 Martin (2018) 初创、Nikolaidis (2021) 扩展并由 Smith (2026)
 type: theory
 theory_field: "educational-philosophy"
 theory_related_count: 35
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_level: 3
+theory_related_stars: "💎"
+theory_related_color: "#ede9fe"
 domain: educational-philosophy
 tags:
   - theory/social-epistemology

@@ -569,13 +569,16 @@ def count_related_fields(meta: dict[str, Any]) -> int:
     return total
 
 
+def related_stars_for(count: int) -> tuple[int, str]:
+    """Use ten relations per star and three stars per diamond for every type."""
+    level = max(0, count // 10)
+    diamonds, stars = divmod(level, 3)
+    display = "💎" * diamonds + "⭐" * stars
+    return level, display or "☆"
+
+
 def concept_stars_for(count: int) -> tuple[int, str]:
-    if count <= 9:
-        return 0, "☆"
-    if count >= 100:
-        return 6, "⭐" * 6
-    level = min(5, count // 10)
-    return level, "⭐" * level
+    return related_stars_for(count)
 
 
 def yaml_string(value: str) -> str:
@@ -709,7 +712,7 @@ def update_concept_base_fields(path: Path, dry_run: bool, check: bool) -> tuple[
         "related_count": related_count,
         "related_level": related_level,
         "related_stars": related_stars,
-        "related_color": CONCEPT_COLORS[related_level],
+        "related_color": CONCEPT_COLORS[min(related_level, len(CONCEPT_COLORS) - 1)],
     })
     next_text = f"---\n{next_frontmatter}---\n{body}"
     changed = next_text != text
@@ -745,12 +748,7 @@ def maintain_concept_base_fields(dry_run: bool = False, check: bool = False) -> 
 
 
 def instrument_stars_for(count: int) -> tuple[int, str]:
-    if count <= 4:
-        return 0, "☆"
-    if count >= 25:
-        return 6, "⭐" * 6
-    level = min(5, count // 5)
-    return level, "⭐" * level
+    return related_stars_for(count)
 
 
 def instrument_color_for(kind: str, level: int) -> str:
@@ -869,12 +867,7 @@ def method_family_for(path: Path, meta: dict[str, Any]) -> str:
 
 
 def method_stars_for(count: int) -> tuple[int, str]:
-    if count <= 4:
-        return 0, "☆"
-    if count >= 50:
-        return 6, "⭐" * 6
-    level = min(5, count // 8)
-    return level, "⭐" * level
+    return related_stars_for(count)
 
 
 def upsert_method_generated_fields(raw_frontmatter: str, fields: dict[str, Any]) -> str:
@@ -985,12 +978,7 @@ def theory_field_for(path: Path) -> str:
 
 
 def theory_stars_for(count: int) -> tuple[int, str]:
-    if count <= 4:
-        return 0, "☆"
-    if count >= 50:
-        return 6, "⭐" * 6
-    level = min(5, count // 8)
-    return level, "⭐" * level
+    return related_stars_for(count)
 
 
 def upsert_theory_generated_fields(raw_frontmatter: str, fields: dict[str, Any]) -> str:
@@ -1048,7 +1036,7 @@ def update_theory_base_fields(path: Path, dry_run: bool, check: bool) -> tuple[b
         "theory_related_count": related_count,
         "theory_related_level": related_level,
         "theory_related_stars": related_stars,
-        "theory_related_color": THEORY_COLORS[related_level],
+        "theory_related_color": THEORY_COLORS[min(related_level, len(THEORY_COLORS) - 1)],
     })
     next_text = f"---\n{next_frontmatter}---\n{body}"
     changed = next_text != text
@@ -1098,12 +1086,7 @@ def fact_kind_for(meta: dict[str, Any]) -> str:
 
 
 def fact_stars_for(count: int) -> tuple[int, str]:
-    if count <= 4:
-        return 0, "☆"
-    if count >= 50:
-        return 6, "⭐" * 6
-    level = min(5, count // 8)
-    return level, "⭐" * level
+    return related_stars_for(count)
 
 
 def fact_color_for(kind: str, level: int) -> str:
@@ -1241,12 +1224,7 @@ def person_region_for(path: Path, meta: dict[str, Any]) -> str:
 
 
 def person_stars_for(count: int) -> tuple[int, str]:
-    if count <= 4:
-        return 0, "☆"
-    if count >= 50:
-        return 6, "⭐" * 6
-    level = min(5, count // 8)
-    return level, "⭐" * level
+    return related_stars_for(count)
 
 
 def upsert_person_generated_fields(raw_frontmatter: str, fields: dict[str, Any]) -> str:
@@ -1342,7 +1320,7 @@ def update_person_base_fields(path: Path, dry_run: bool, check: bool) -> tuple[b
         "person_related_count": related_count,
         "person_related_level": related_level,
         "person_related_stars": related_stars,
-        "person_related_color": PERSON_COLORS[related_level],
+        "person_related_color": PERSON_COLORS[min(related_level, len(PERSON_COLORS) - 1)],
     })
     next_text = f"---\n{next_frontmatter}---\n{body}"
     changed = next_text != text
@@ -1391,10 +1369,7 @@ def argument_kind_for(path: Path, meta: dict[str, Any]) -> str:
 
 
 def argument_stars_for(count: int) -> tuple[int, str]:
-    """Keep the numeric level in star units; display three stars as a diamond."""
-    level = max(0, count // 10)
-    diamonds, stars = divmod(level, 3)
-    return level, "💎" * diamonds + "⭐" * stars if level else "☆"
+    return related_stars_for(count)
 
 
 def argument_color_for(kind: str, level: int) -> str:

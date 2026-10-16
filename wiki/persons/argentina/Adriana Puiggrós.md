@@ -9,9 +9,9 @@ type: person
 nationality: argentina
 person_region: "argentina"
 person_related_count: 25
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1941"
 died: ""
 lifespan: "1941–至今"
@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-28
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Adriana Puiggrós

@@ -7,8 +7,8 @@ summary: "由 Lederman 等人开发的开放式问卷与半结构化访谈测量
 type: instrument
 instrument_type: questionnaire
 instrument_related_count: 22
-instrument_related_level: 4
-instrument_related_stars: "⭐⭐⭐⭐"
+instrument_related_level: 2
+instrument_related_stars: "⭐⭐"
 instrument_related_color: "#fef3c7"
 part_of: ""
 developers:

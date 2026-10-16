@@ -15,8 +15,8 @@ region: us
 fact_region: "us"
 fact_kind: "program"
 fact_related_count: 36
-fact_related_level: 4
-fact_related_stars: "⭐⭐⭐⭐"
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
 period: "1982–至今（SBIR）/ 1992–至今（STTR）"
 initiator_organization: "美国联邦政府（国会立法，小企业管理局 SBA 统筹，国防部、NSF、NIH、DOE 等 11 个联邦机构协同执行）"

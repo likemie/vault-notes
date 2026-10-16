@@ -10,7 +10,7 @@ type: concept
 domain: "educational-policy-reform"
 related_count: 54
 related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
+related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
 tags:
   - practice-based-evidence

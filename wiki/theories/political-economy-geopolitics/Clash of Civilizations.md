@@ -8,9 +8,9 @@ summary: "塞缪尔·亨廷顿提出的地缘政治理论，主张冷战后人�
 type: theory
 theory_field: "political-economy-geopolitics"
 theory_related_count: 25
-theory_related_level: 3
-theory_related_stars: "⭐⭐⭐"
-theory_related_color: "#ede9fe"
+theory_related_level: 2
+theory_related_stars: "⭐⭐"
+theory_related_color: "#e0e7ff"
 domain: "political-economy-geopolitics"
 tags:
   - theory/geopolitics
@@ -53,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Clash of Civilizations

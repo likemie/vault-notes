@@ -9,9 +9,9 @@ summary: "由巫俊宇、李元萱、柴清生与蔡今中（Wu et al., 2025）�
 type: theory
 theory_field: "educational-psychology"
 theory_related_count: 38
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_level: 3
+theory_related_stars: "💎"
+theory_related_color: "#ede9fe"
 tags:
   - theory/educational-psychology
   - theme/human-ai-interaction

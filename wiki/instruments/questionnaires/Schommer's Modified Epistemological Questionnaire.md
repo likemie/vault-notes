@@ -9,8 +9,8 @@ summary: "由 Schommer 针对中学生群体修订的认识论信念自陈问卷
 type: instrument
 instrument_type: questionnaire
 instrument_related_count: 8
-instrument_related_level: 1
-instrument_related_stars: "⭐"
+instrument_related_level: 0
+instrument_related_stars: "☆"
 instrument_related_color: "#fef3c7"
 part_of: ""
 developers:

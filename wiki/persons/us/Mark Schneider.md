@@ -7,9 +7,9 @@ type: person
 nationality: us
 person_region: "us"
 person_related_count: 26
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "c. 1946"
 died: ""
 lifespan: "c. 1946–至今"
@@ -53,7 +53,7 @@ related_theories:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-10-03
+updated: 2026-10-16
 ---
 
 # Mark Schneider

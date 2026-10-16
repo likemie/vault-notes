@@ -10,8 +10,8 @@ summary: "由欧盟委员会与Tuning学院研制的欧洲高等教育多维评�
 type: instrument
 instrument_type: rubric
 instrument_related_count: 21
-instrument_related_level: 4
-instrument_related_stars: "⭐⭐⭐⭐"
+instrument_related_level: 2
+instrument_related_stars: "⭐⭐"
 instrument_related_color: "#ffedd5"
 part_of: "[[CALOHEE Project]]"
 developers:
@@ -61,7 +61,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-28
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # CALOHEE Assessment Reference Frameworks

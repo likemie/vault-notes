@@ -8,8 +8,8 @@ summary: "由美国教育考试服务中心开发的机考情境化通识核心�
 type: instrument
 instrument_type: test
 instrument_related_count: 12
-instrument_related_level: 2
-instrument_related_stars: "⭐⭐"
+instrument_related_level: 1
+instrument_related_stars: "⭐"
 instrument_related_color: "#dbeafe"
 part_of: ""
 developers:
@@ -51,7 +51,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-27
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # ETS HEIghten Critical Thinking Assessment

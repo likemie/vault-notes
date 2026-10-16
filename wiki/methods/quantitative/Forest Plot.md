@@ -8,8 +8,8 @@ type: method
 method_type: quantitative
 method_family: "quantitative"
 method_related_count: 24
-method_related_level: 3
-method_related_stars: "⭐⭐⭐"
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 related_count: 23
 related_level: 2

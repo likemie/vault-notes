@@ -11,9 +11,9 @@ summary: "整合 Humphries et al. (2014) 跨领域综述与 Best & Holmes (2010)
 type: theory
 theory_field: "educational-policy-reform"
 theory_related_count: 37
-theory_related_level: 4
-theory_related_stars: "⭐⭐⭐⭐"
-theory_related_color: "#fce7f3"
+theory_related_level: 3
+theory_related_stars: "💎"
+theory_related_color: "#ede9fe"
 tags:
   - theory/research-use
   - theme/knowledge-mobilisation

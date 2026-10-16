@@ -9,9 +9,9 @@ summary: "Richard Lester（MIT, 2005）提出的分类框架，根据本地产�
 type: theory
 theory_field: "university-industry-collaboration"
 theory_related_count: 9
-theory_related_level: 1
-theory_related_stars: "⭐"
-theory_related_color: "#dbeafe"
+theory_related_level: 0
+theory_related_stars: "☆"
+theory_related_color: "#e5e7eb"
 tags:
   - theory/innovation
   - theme/university-industry-collaboration
@@ -33,7 +33,7 @@ related_facts:
 confidence: medium
 status: draft
 created: 2026-06-10
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Lester's Typology of University Contributions to Local Industry

@@ -9,9 +9,9 @@ summary: "研究者与实践组织之间长期、互惠的协作机制，通过�
 type: concept
 domain: "educational-policy-reform"
 related_count: 60
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - research-use
   - knowledge-mobilisation

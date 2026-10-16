@@ -11,8 +11,8 @@ region: germany
 fact_region: "germany"
 fact_kind: "program"
 fact_related_count: 8
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_level: 0
+fact_related_stars: "☆"
 fact_related_color: "#ede9fe"
 period: "2001–2007"
 initiator_organization: "Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung"
@@ -41,7 +41,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-27
-updated: 2026-09-27
+updated: 2026-10-16
 ---
 
 # Chemie im Kontext
