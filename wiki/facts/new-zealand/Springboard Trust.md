@@ -9,7 +9,7 @@ subtype: organization
 region: "new-zealand"
 fact_region: "new-zealand"
 fact_kind: "organization"
-fact_related_count: 8
+fact_related_count: 9
 fact_related_level: 0
 fact_related_stars: "☆"
 fact_related_color: "#dcfce7"
@@ -89,7 +89,7 @@ updated: 2026-10-16
 > [!pathways]- 业务运行机制
 > - **校长与高管一对一深度配对** 将参与项目的薄弱校校长与背景匹配的跨国商业高管结成对子，高管定期入校，实施为期一年的密集辅导。
 > - **商业规划工具标准化移植** 指导校长运用麦肯锡矩阵分析法、SWOT 分析模型与 KPI 指标拆解，撰写符合企业标准的学校战略规划书。
-> - **长期闭环跟踪与能力巩固** 第一年完成规划制定后，后续通过“战略实施项目”（SIP）提供持续两年的校准支持，确保规划落地。
+> - **长期全程跟踪与能力巩固** 第一年完成规划制定后，后续通过“战略实施项目”（SIP）提供持续两年的校准支持，确保规划落地。
 
 ---
 
@@ -101,7 +101,7 @@ updated: 2026-10-16
 > - **校长校友联盟网络** 搭建连接公立校长与商界领袖的常设交流平台，拓宽学校获取外部社会赞助的非正式渠道。
 
 > [!citation-card] 代表性章程／使命宣言
-> 跳板信托致力于让每一名新西兰儿童获得优质教育……我们深信，通过连接商界专业专长与教育领导者的热情，能够有效赋能学校校长，使其掌握引领学校变革的战略能力与治理技能。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 38)]]
+> 跳板信托致力于让每一名新西兰儿童获得优质教育……我们深信，通过连接商界专业专长与教育领导者的热情，能够有效支持学校校长，使其掌握引领学校变革的战略能力与治理技能。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 38)]]
 >
 > *Springboard Trust provides business people as 'Capacity Partners' who work alongside principals to assist them to develop strategic plans for their school... connecting business expertise with education.*
 
@@ -129,7 +129,7 @@ updated: 2026-10-16
 
 > [!debates] 核心争议交锋
 >
-> > [!axis] 管理赋能 vs [[Deficit Framing|缺陷框架]]与去专业化
+> > [!axis] 管理技能支持 vs [[Deficit Framing|缺陷框架]]与去专业化
 > > 引入商界人士辅导公立学校校长是否真正解决了教育危机。
 > >
 > > - **批评视角（批判教育社会学）** 跳板信托模式将薄弱学校困境单向归咎于校长缺乏商业规划技能的“缺陷框架”，掩盖了公费财政拨款不足与贫困隔离等结构性矛盾；不懂教育规律的银行家对校长进行辅导，异化了教育领导力的育人本职。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 38)]]

@@ -56,7 +56,7 @@ updated: 2026-10-16
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 内克斯特基金会（NEXT Foundation）是新西兰最大型的战略[[Venture Philanthropy|风险慈善]]基金会之一，由商业慈善家设立，其特征为采取“十年散尽本金”的高强度战略投资策略，追求在教育和环境领域孵化具有颠覆性、可量化评估的高杠杆系统工程。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 36–38, 54–57)]]
+> 内克斯特基金会（NEXT Foundation）是新西兰最大型的战略[[Venture Philanthropy|风险慈善]]基金会之一，由商业慈善家设立，其特征为采取“十年散尽本金”的高强度战略投资策略，追求在教育和环境领域资助与培育具有可量化评估成效的系统工程。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 36–38, 54–57)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 2014 年创立。由新西兰工业界企业家尼尔·普洛曼（Neal Plowman）与安妮特·普洛曼（Annette Plowman）夫妇出资设立，旨在打破传统公益基金会零散“撒胡椒面式”小额资助模式，转向目标集中的大规模[[Social Impact Investing|社会投资]]。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 54)]]
@@ -92,9 +92,9 @@ updated: 2026-10-16
 > - **教育咨询专家委员会** 吸纳科[[Cognition Education|认知教育信托]]人兼 [[Teach First New Zealand|TFNZ]] 高级顾问 Margaret Bendall、特许学校委员会委员兼 [[New Zealand Initiative|NZI]] 顾问 John Taylor 等跨界学者官员。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 55–56)]]
 
 > [!pathways]- 业务运行机制
-> - **风险投资式尽职调查** 拒绝公开被动接受零散资助申请，由投资团队主动物色能够实现全系统规模扩张的高杠杆教育项目并展开严苛的商业尽调。
+> - **风险投资式尽职调查** 拒绝公开被动接受零散资助申请，由投资团队主动物色能够实现全系统规模扩张且具有显著辐射效应的教育项目并展开严格的商业尽调。
 > - **里程碑考核与直接深度介入** 规定资助款项分阶段拨付，要求受资助机构负责人建立直通高管的定性与定量定期汇报线，实施强控制管理。
-> - **第三方因果评估锁定** 强制要求所有资助项目绑定大学（如奥克兰大学伍尔夫·费雪中心）或独立学术机构（NZCER）开展实证评估，为项目扩散提供数据背书。
+> - **第三方因果评估锁定** 强制要求所有资助项目绑定大学（如奥克兰大学伍尔夫·费雪中心）或独立学术机构（NZCER）开展实证评估，为项目扩散提供实证数据支撑。
 
 ---
 
@@ -139,7 +139,7 @@ updated: 2026-10-16
 > > 战略[[Venture Philanthropy|风险慈善]]是否破坏了普遍主义公费教育的民主属性。
 > >
 > > - **批评视角（批判教育社会学）** NEXT 基金会依靠金融风投逻辑，将公费教育资助同企业化里程碑考核挂钩，加剧了基层学校对私人财富的结构性依附；十年散尽后薄弱校面临资金断崖风险。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 36–38, 54–57)]]
-> > - **机构立场（正方）** 传统公立官僚体系效率低下且墨守成规，风险慈善以企业效率和严格评估撬动系统创新，为弱势群体提供了原本无法获取的优质教育资源。
+> > - **机构立场（正方）** 传统公立官僚体系效率低下且墨守成规，风险慈善以企业效率和严格评估推动系统创新，为弱势群体提供了原本无法获取的优质教育资源。
 
 > [!citation-card] 代表性批评与反思文献
 > 与北方基金会追求资本长存的传统模式相对照，新西兰战略风险慈善生态中还[[Emergence|涌现]]出采取‘十年散尽本金’激进策略的内克斯特基金会（NEXT Foundation）……其董事会汇聚了前微软 CFO、风投创始人与投行家，将私营企业高管派驻薄弱学校，标志着金融化管理逻辑对公立学校内部治理的深度介入。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 36–38, 54–55)]]
@@ -156,7 +156,7 @@ updated: 2026-10-16
 > |:-----|:-----|:-----|
 > | [[Venture Philanthropy]] | Concept | 该基金会践行的核心战略慈善理论[[Paradigm\|范式]]。 |
 > | [[Social Impact Investing]] | Concept | 其推行项目所依托的量化社会投资与回报机制。 |
-> | [[Springboard Trust]] | Fact (Organization) | 基金会重点全额孵化与资助的校长领导力培训实体。 |
+> | [[Springboard Trust]] | Fact (Organization) | 基金会重点全额资助与培育的校长领导力培训实体。 |
 > | [[Manaiakalani Education Trust]] | Fact (Organization) | 基金会数百万纽币资助其数字化外包向全国扩张的合作方。 |
 > | [[Teach First New Zealand]] | Fact (Organization) | 基金会作为最高级别资助者支持的替代师训机构。 |
 > | [[Foundation North Māori and Pasifika Education Initiative]] | Fact (Organization) | 新西兰传统永久留存型社区信托，与 NEXT 构成机制对照。 |

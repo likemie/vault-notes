@@ -57,7 +57,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **深度学习新教学法（New Pedagogies for Deep Learning, NPDL）**，亦称**深度学习全球伙伴关系（NPDL Global）**，是指由加拿大教育学者[[Michael Fullan|迈克尔·富兰]]（[[Michael Fullan]]）等人在多伦多联合跨国科技企业（英特尔、微软、普罗米休斯）及[[OECD|经合组织]]（[[OECD]]）代表于 2012 年发起创立的专有教学法体系与跨国特许加盟网络。该倡议以 **6C [[21st Century Skills and Competencies Discourse|核心素养]]框架**与全系统变革工具套件为核心，声称通过重构学习环境与数字赋能促进深度学习；在批判教育政策社会学视角下，它被定性为教育学者、跨国财团与[[Educational Management Organisation|教育管理组织]]（[[Educational Management Organisation|EMO]]）联手将公共教育大纲核心能力包装为排他性商业特许商标（Proprietary Brand），进而持续汲取国家公共教师研训预算的制度载体。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 24–25, 41–43)]]
+> **深度学习新教学法（New Pedagogies for Deep Learning, NPDL）**，亦称**深度学习全球伙伴关系（NPDL Global）**，是指由加拿大教育学者[[Michael Fullan|迈克尔·富兰]]（[[Michael Fullan]]）等人在多伦多联合跨国科技企业（英特尔、微软、普罗米休斯）及[[OECD|经合组织]]（[[OECD]]）代表于 2012 年发起创立的专有教学法体系与跨国特许加盟网络。该倡议以 **6C [[21st Century Skills and Competencies Discourse|核心素养]]框架**与全系统变革工具套件为核心，声称通过重构学习环境与融入数字技术促进深度学习；在批判教育政策社会学视角下，它被定性为教育学者、跨国财团与[[Educational Management Organisation|教育管理组织]]（[[Educational Management Organisation|EMO]]）联手将公共教育大纲核心能力包装为排他性商业特许商标（Proprietary Brand），进而持续汲取国家公共教师研训预算的制度载体。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 24–25, 41–43)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向以专有商标特许经营、跨国百校集群准入、量化进阶量规以及全系统工具套件为特征的商业化教学变革模式。
@@ -92,7 +92,7 @@ updated: 2026-10-16
 
 > [!feature] 核心要素
 > - **6C [[21st Century Skills and Competencies Discourse|核心素养]]框架（6Cs Competencies）** 将深度学习界定为六项[[Operationalization|操作化]]能力：[[Creativity|创造力]]（Creativity）、[[Critical Thinking|批判性思维]]（Critical Thinking）、沟通（Communication）、协作（Collaboration）、品格（Character）与公民素养（Citizenship）。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 24)]]
-> - **四大教学实践支柱（Four Pedagogical Pillars）** 确立新型师生学习伙伴关系、重构物理与虚拟学习环境、利用数字技术深度赋能以及开展解决现实难题的任务设计。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 24)]]
+> - **四大教学实践支柱（Four Pedagogical Pillars）** 确立新型师生学习伙伴关系、重构物理与虚拟学习环境、充分运用数字技术以及开展解决现实难题的任务设计。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 24)]]
 > - **全系统变革工具箱（Suite of Tools）** 提供标准化的“深度学习进展评价量表”（Rubrics）、协同学习设计协议以及学校集群自我测定指标。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 24)]]
 > - **排他性跨国特许合同（Franchising Contract）** 强制要求以最低 100 所学校组成跨国集群，签订 3 年排他性协议，每年缴纳 2,000 美元全球倡议费 + 3,000 新西兰元本地协调费，并固定配置 0.2 FTE 专职校级协调员。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 24–25, 42–43)]]
 
@@ -100,7 +100,7 @@ updated: 2026-10-16
 > ```mermaid
 > flowchart TD
 >     A["NPDL 专有教学法体系"] --> B["6C 核心素养理论支柱<br>创造、批判、沟通、协作、品格、公民"]
->     A --> C["四大教学转型支柱<br>伙伴关系、环境重构、技术赋能、真实任务"]
+>     A --> C["四大教学转型支柱<br>伙伴关系、环境重构、技术融入、真实任务"]
 >     A --> D["全系统变革工具箱<br>标准化行为进展量规与自评协议"]
 >     A --> E["商业特许加盟架构<br>百校集群门槛、三年合同、年费与 0.2 FTE 职数"]
 >     B --> F["渗透公立课堂与教师研训日常"]
@@ -121,7 +121,7 @@ updated: 2026-10-16
 > 探讨[[Policy Entrepreneur|政策创业者]]与跨国公司如何将公共领域的教育学常识包装为受知识产权保护的专有商品。
 
 > [!claim] [[Michael Fullan|Fullan, M.]] & Langworthy, M.
-> **新教学法的全系统赋能** 深度学习不仅是传统课堂的技术更新，而是通过 6C 素养量规与全球网络协同，使每一名学生获得应对未来复杂挑战的核心能力。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 24–25)]]
+> **新教学法的全系统支持** 深度学习不仅是传统课堂的技术更新，而是通过 6C 素养量规与全球网络协同，使每一名学生获得应对未来复杂挑战的核心能力。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 24–25)]]
 
 > [!claim] O'Neill et al.
 > **专有商标对接与[[Discourse|话语]]套利** NPDL 宣称的 6C 能力在实质上与新西兰国家课程（NZC 2007）五大素养高度重合，但跨国咨询中介通过注册商标与排他性特许，制造了“唯有付费购买其套件方能实现改革”的话语迷思，实质上构成了对公共知识的商业占有。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 24–25, 42–43)]]
@@ -134,10 +134,10 @@ updated: 2026-10-16
 > 聚焦商业加盟合同如何迫使公立学校将国家教师研训财政补贴输送至私营咨询中介。
 
 > [!claim] O'Neill et al.
-> **公费研训预算的私营汲取** 本土[[Educational Management Organisation|教育管理组织]]借助代销 NPDL，要求加盟学校签署三年合约并支付高额年度会费与协调费，将学校享有的国家教师专业学习与发展（PLD）公款转化为私营公司的营业利润，并未沉淀为公共[[Normal School|师范院校]]的长期教研能力。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 24–25, 94–103)]]
+> **公费研训预算的私营汲取** 本土[[Educational Management Organisation|教育管理组织]]借助代销 NPDL，要求加盟学校签署三年合约并支付高额年度会费与协调费，将学校享有的国家教师专业学习与发展（PLD）公款转化为私营公司的营业利润，并未转化为公共[[Normal School|师范院校]]的长期教研能力。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 24–25, 94–103)]]
 
 > [!claim] [[Stephen Ball|Ball, S.]] J.
-> **企业化特许对专业自主权的重塑** 跨国特许教学网络将教师置于标准化的进展量表打卡与格式化协议之下，打着专业赋能旗号实质推行管理主义技术控制，剥夺了基层教师的专业批判空间。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 22–24)]]
+> **企业化特许对专业自主权的重塑** 跨国特许教学网络将教师置于标准化的进展量表打卡与格式化协议之下，打着专业发展旗号实质推行管理主义技术控制，剥夺了基层教师的专业批判空间。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 22–24)]]
 
 ---
 
@@ -146,7 +146,7 @@ updated: 2026-10-16
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **教学法商品化命题** | 将公共课程素养包装为商业专有商标，建立排他性加盟壁垒 | 基础教育 21 世纪素养改革、数字化学习采购与专有研训 | Fullan and Langworthy (2014); [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] |
+> | **教学法商品化命题** | 将公共课程素养包装为商业专有商标，建立排他性加盟门槛 | 基础教育 21 世纪素养改革、数字化学习采购与专有研训 | Fullan and Langworthy (2014); [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] |
 > | **财政净汲取与技术控制命题** | 跨国集群合约捆绑公共教研预算，以标准化量规压制[[Teacher Professional Agency\|教师专业自主权]] | 公办教师专业发展外包、学校网络联盟治理与特许经营 | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]]; Ball (2012) |
 
 ---

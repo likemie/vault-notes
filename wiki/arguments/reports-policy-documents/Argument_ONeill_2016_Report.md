@@ -222,7 +222,7 @@ citation_aliases:
 
 ---
 
-### 论证步骤二　双层法人架构为政策创业者牟利提供了避税外衣
+### 论证步骤二　双层法人架构为政策创业者的商业获利提供了税收规避机制
 
 > [!claim] 步骤二核心主张
 > 新西兰法律允许非营利慈善机构设立全资营利公司，促成了[[Educational Management Organisation|教育管理组织]]（EMO）的双层套利结构；具备学术声誉的政策学者深度融入这一结构，将公费科研成果转变为跨国专有商业品牌，获取丰厚个人报酬与免税结余。（pp.46–54, 65–76）
@@ -255,9 +255,9 @@ citation_aliases:
 > | **体制内学术研发（1998–2003）** | 奥克兰大学教育学院院长；主持教育部委托项目 | 主持研发国家教学评估工具（[[Assessment Tools for Teaching and Learning]], asTTle） | 确立教育评价领军学者地位，积累全国教学实证数据。（p.65） |
 > | **参与商业治理（2006–2008）** | 出任 Multi Serve 董事；2008 年成为重组后的科认知教育（[[Cognition Education]]）董事 | 将元分析学术成果汇编为专著《可见的学习》（[[Visible Learning]]） | 依托商业机构平台设计培训课程，开启品牌化运作。（p.66） |
 > | **推行商标特许（2009–2012）** | 科认知教育核心董事与知识产权源头 | 注册 [[Visible Learning Branding and Global Influences\|Visible Learningplus]] 跨国商标；推出 16 个标准化教师工作坊与认证体系 | 在澳洲、欧美及中东 35 个国家建立排他性商业加盟网络。（pp.66, 78） |
-> | **整合软件与资本（2013–2015）** | 墨尔本大学教授；与商业机构 Ai-Media 达成合作 | 推出 Visible Classroom 软件，对教师课堂录音收费提供反馈；入驻商业出版社 | 联合培生智库发布报告，完成学术、出版、咨询与软件的全链条变现。（pp.67–69） |
+> | **整合软件与资本（2013–2015）** | 墨尔本大学教授；与商业机构 Ai-Media 达成合作 | 推出 Visible Classroom 软件，对教师课堂录音收费提供反馈；入驻商业出版社 | 联合培生智库发布报告，完成学术、出版、咨询与软件服务的全方位商业转化。（pp.67–69） |
 
-海蒂的学术影响力转化为商业品牌的具体演进路径展现了政策创业的闭环特征：
+海蒂的学术影响力转化为商业品牌的具体演进路径展现了政策创业中学术、政策与商业相互强化的循环机制：
 
 > [!influence-path]- 约翰·海蒂学术影响力的商业化转化路径
 > - **理论** 依托大学与国家科研资助完成大规模元分析数据库，确立“可见的学习”理论权威。（p.65）
@@ -265,7 +265,7 @@ citation_aliases:
 > - **跨国传播** 授权商业管理组织注册排他性跨国商标，推行标准化研修与学校认证特许。（pp.66, 78）
 > - **产业衍生** 联合科技企业开发按次收费的课堂录音评估软件，完成学术研究的产业衍生。（pp.67–69）
 
-这一商业化变现过程带来了显著的个人报酬沉淀：
+这一商业运作过程带来了显著的个人经济回报：
 
 > [!table] 表4：科认知教育支付给约翰·海蒂的款项（2010–2015）
 > | 财务年度 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 |
@@ -318,7 +318,7 @@ citation_aliases:
 > | **[[Cognition Education]]** | 慈善信托 100% 控股商业咨询有限公司 | 教师研修合同、中东教育出口、Visible Learningplus | 集团营收 NZD 2809 万（峰值 6915 万） | 商业利润免税转入信托；2015 外部捐赠仅 25.1 万（占营收 0.9%） | 约翰·海蒂、教育部评审专家、各大区公立学校校长协会 |
 > | **CORE Education** | 慈善信托全资控股商业有限责任公司 | 数字化学习研发、ULearn 研讨会、[[New Pedagogies for Deep Learning\|NPDL]] 跨国特许 | 集团营收 NZD 2277 万；员工 180 人 | 营收高度依赖政府合同；对外慈善捐赠仅占总收入 1.3% | 德里克·温莫斯、坎特伯雷大学、教育部[[Informationalization\|信息化]]司 |
 > | **[[Foundation North Māori and Pasifika Education Initiative\|Foundation North]]** | 依据 1957 年法案设立的永久性社区信托 | 战略性[[Venture Philanthropy\|风险慈善]]、社会影响力投资、MPEI 专项 | 年投资收益 NZD 1.37 亿；净资产 NZD 12.15 亿 | 2010–2015 年均仅将 23.3% 投资收益用于捐赠；76% 留存滚存 | 奥克兰商界领袖、星径项目、社会影响力中心 |
-> | **COMET Auckland** | 地方政府控制机构（CCO）暨注册慈善信托 | 教育政策倡导、南区技能提升、跨界联盟孵化 | 财政拨款与项目营收约 NZD 89 万 | 零资产沉淀；以 20 万议会启动资金撬动 180 万外部政府与慈善资助 | 奥克兰市议会、工会代表、毛利部族机构、企业雇主联盟 |
+> | **COMET Auckland** | 地方政府控制机构（CCO）暨注册慈善信托 | 教育政策倡导、南区技能提升、跨界合作网络构建 | 财政拨款与项目营收约 NZD 89 万 | 几无资金留存；以 20 万议会基础拨款带动 180 万外部政府与慈善配套资助 | 奥克兰市议会、工会代表、毛利部族机构、企业雇主联盟 |
 > | **KidsCan** | 创始人发起的民间注册慈善信托 | 贫困学区雨衣、鞋袜、食品与卫生用品直供 | 依靠大众募捐与企业赞助，年营收 NZD 1248 万 | 净资产从 0 增至 455 万；高额公关营销与全职管理雇员（58人） | 商业媒体（TV3）、大型零售财团、食品饮料巨头 |
 
 #### 1. 培生集团通过实效标准与智库研究输出政策主张
@@ -331,7 +331,7 @@ citation_aliases:
 > - **法人经费属性** 跨国上市教育集团（伦敦证券交易所与纽约证券交易所上市公司）
 > - **核心宗旨** 通过学习帮助人们改善生活，追求股东商业回报与全球教育市场份额。（pp.77–78）
 
-> [!case] 案例一：Pearson plc——跨国教育集团的实效性标准塑造与全球教育变现
+> [!case] 案例一：Pearson plc——跨国教育集团的实效性标准塑造与全球教育商业扩张
 > - **[[Efficacy Framework|实效性框架]]（Efficacy Framework）** 在首席教育顾问迈克尔·巴伯爵士（Sir [[Michael Barber]]）主导下，培生推行[[Efficacy Framework|实效性框架]]与审计体系，要求所有商业产品均出具提升学习成效的证据，将商业测评包装为客观科学法则。（pp.11, 77–81）
 > - **智库思想倡导** 通过 Pearson Open Ideas 丛书资助全球知名学者（包括致谢约翰·海蒂与彼得·希尔），打造权威学术形象，深度介入各国课标与评价制度改革。
 > - **廉价私立学校投资** 通过培生廉价学习基金（Pearson Affordable Learning Fund, PALF），在加纳与肯尼亚投资营利性私立连锁学校，积极游说将公共教育经费转化为私立代金券。（pp.77–81）
@@ -402,14 +402,14 @@ citation_aliases:
 > - **法人经费属性** 依据 1957 年法案设立的永久性社区信托（公共利益实体）
 > - **核心宗旨** 保持资本真实购买力代际永续，通过部分投资收益资助区域社会与教育项目。（pp.104–106）
 
-> [!case] 案例四：Foundation North——巨额资产沉淀、永久增殖偏好与社会投资试验
+> [!case] 案例四：Foundation North——巨额资本留存、永久增殖偏好与社会投资试验
 > - **资本长期留存导向** 基金会确立了资产跑赢通胀与代际永久长存的投资方针，将巨额资产委托给金融市场。其总净资产从 2010 年的 10.1 亿新西兰元攀升至 2015 年的 12.15 亿新西兰元。
 > - **偏低的当期资助比率** 2010–2015 年间，该集团累计获得投资收益 6.323 亿新西兰元（年均 1.054 亿），但六年间累计发放的对外赠款总额仅为 1.47 亿，平均每年仅将[[Return on Investment|投资回报]]的 23.3% 转化为实际公益资助，其余 76.7% 被留存用于资本自我增殖。
-> - **风险慈善与社会投资项目** 设立全资咨询子公司新西兰社会影响力中心（Centre for Social Impact NZ Ltd），向政府及其他信托输出量化评估技术；设立 2000 万专项毛利与太平洋岛裔教育倡议（Māori and Pasifika Education Initiative, MPEI），孵化具有强量化考核要求的干预项目。（pp.104–115）与北方基金会追求资本长存的传统模式相对照，新西兰战略风险慈善生态中还[[Emergence|涌现]]出采取“十年散尽本金”激进策略的[[NEXT Foundation|内克斯特基金会]]（NEXT Foundation），其全额资助由前麦肯锡合伙人发起的[[Springboard Trust|跳板信托]]（Springboard Trust），将私营企业高管作为能力伙伴派驻薄弱学校辅导校长制定商业战略规划，标志着金融化管理逻辑对公立学校内部治理的深度介入。（pp.36–38, 54–57）
+> - **风险慈善与社会投资项目** 设立全资咨询子公司新西兰社会影响力中心（Centre for Social Impact NZ Ltd），向政府及其他信托输出量化评估技术；设立 2000 万专项毛利与太平洋岛裔教育倡议（Māori and Pasifika Education Initiative, MPEI），资助并开展具有严格量化考核要求的干预项目。（pp.104–115）与北方基金会追求资本长存的传统模式相对照，新西兰战略风险慈善生态中还[[Emergence|涌现]]出采取“十年散尽本金”激进策略的[[NEXT Foundation|内克斯特基金会]]（NEXT Foundation），其全额资助由前麦肯锡合伙人发起的[[Springboard Trust|跳板信托]]（Springboard Trust），将私营企业高管作为能力伙伴派驻薄弱学校辅导校长制定商业战略规划，标志着金融化管理逻辑对公立学校内部治理的深度介入。（pp.36–38, 54–57）
 
 #### 5. 奥克兰社区教育信托充当地方政府的政策外包支点
 
-奥克兰社区教育信托展现了地方行政机构利用有限预算撬动外部资金与孵化教育联盟的杠杆功能。
+奥克兰社区教育信托展现了地方行政机构利用有限财政预算吸纳外部资金并培育跨界教育网络的协同功能。
 
 > [!org-context] 奥克兰社区教育信托（COMET Auckland）组织档案
 > - **成立时间** 1999 年（原马努考教育信托，2011 年重组）
@@ -417,13 +417,13 @@ citation_aliases:
 > - **法人经费属性** 受奥克兰市议会监督的地方政府控制机构（CCO）暨注册慈善信托
 > - **核心宗旨** 改善南区教育公平，推动青年就业技能发展与终身读写培训。（pp.116–118）
 
-> [!case] 案例五：COMET Auckland——地方政府控制机构的外包支点与网络孵化
-> - **资金杠杆功能** 该机构不追求资本沉淀，历年净资产维持在 30 万新西兰元左右。其功能是利用市议会每年约 60 万的基准注资，充当协调枢纽，向下游撬动中央教育部及大型慈善基金会上千万的配套项目资金。
+> [!case] 案例五：COMET Auckland——地方政府控制机构的外包支点与跨界网络培育
+> - **资金协同与带动功能** 该机构不追求长期资本积累，历年净资产维持在 30 万新西兰元左右。其功能是利用市议会每年约 60 万的基准注资充当协调枢纽，向下游吸纳并带动中央教育部及大型慈善基金会上千万元的配套项目资金。
 > - **推进区域教育项目** 聚焦南奥克兰边缘群体，牵头搭建青年就业誓约、南区创客集群与家庭读写计划，作为地方行政力量向学校延伸的柔性中介。（pp.116–126）
 
-#### 6. 民间底线救助遮蔽了政府消除儿童贫困的法定职责
+#### 6. 民间紧急救助遮蔽了政府消除儿童贫困的法定职责
 
-儿童之友展示了依靠商业营销与大众善款在公立学校构建底线救济网络的民办公益模式。
+儿童之友展示了依靠商业营销与大众善款在公立学校构建基础物质救济网络的民办公益模式。
 
 > [!org-context] 儿童之友（KidsCan）组织档案
 > - **成立时间** 2005 年
@@ -431,7 +431,7 @@ citation_aliases:
 > - **法人经费属性** 依据民间信托契约设立的注册慈善信托
 > - **核心宗旨** 缓解儿童贫困对受教育权的影响，直接向薄弱校学生供给基础生活物资。（pp.127–128）
 
-> [!case] 案例六：KidsCan——大众募捐驱动的底线物质兜底与公立福利退缩
+> [!case] 案例六：KidsCan——大众募捐驱动的基础物质救助与公立福利退缩
 > - **大众募捐迅速扩张** 通过电视慈善募捐、企业联合促销与明星代言，KidsCan 的年收入从 2007 年的 97.6 万新西兰元快速增加到 2015 年的 1248 万新西兰元。
 > - **积累可观净结余** 随着大众募款增加，该机构账面净资产从 2007 年的 0 元增长至 2015 年的 455 万新西兰元，全职受薪员工膨胀至 58 人。
 > - **客观上的福利替代效应** KidsCan 缓解了贫困儿童的生活困难，但这种依赖企业赞助与大众同情的慈善模式，客观上替政府承担了兜底功能，使政府得以推卸消除儿童贫困的法定责任。（pp.127–133）
@@ -493,7 +493,7 @@ citation_aliases:
 > - **51 家** 年度收入、支出与总资产同时突破 1000 万新西兰元的大型教育慈善实体数量。（p.63）
 > - **0.9%** 2015 年科认知教育对外实际发放的慈善助学款占其总营业额的微小比例。（p.90）
 > - **$869,453 NZD** 2011–2015 年间科认知教育在财报附注中披露支付给约翰·海蒂个人的顾问费与版税总额。（p.67）
-> - **$12.15 亿 NZD** 北方基金会在 2015 年末沉淀累积的庞大净资产体量。（p.112）
+> - **$12.15 亿 NZD** 北方基金会在 2015 年末积累留存的庞大净资产规模。（p.112）
 > - **$0 ➔ $455 万 NZD** 儿童之友（KidsCan）账面留存净资产在 2007 至 2015 年间实现的快速增长。（p.130）
 
 > [!figure]- 图2-3：教育慈善机构总收入分布图（数量与占比）
@@ -515,7 +515,7 @@ citation_aliases:
 > *The analysis in this report documents how an increased [[Presence]] of private sector actors is reshaping the ways in which state schooling policy is developed and enacted in classrooms, staffrooms, schools and local communities. It seems fair to suggest that the substance and magnitude of these changes remain largely unremarked in the media and their consequential effects not widely appreciated across civil society.*
 
 > [!citation-card] 约翰·海蒂政策创业与公私边界的无缝融通
-> 海蒂目前全球性的社交网络路径，可以被合理解释为他在公共利益、非营利与营利性政策创业和倡导方面的无缝整合。他的原始学术工作……随后通过《[[Visible Learning|可见的学习]]》图书系列，以及由 [[Cognition Education]] 依据商业特许协议向国际合作伙伴提供的 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 教师研讨会与学校认证体系，被系统地包装、品牌化并实现了货币化变现。（pp.10, 68）
+> 海蒂目前全球性的社交网络路径，可以被合理解释为他在公共利益、非营利与营利性政策创业和倡导方面的无缝整合。他的原始学术工作……随后通过《[[Visible Learning|可见的学习]]》图书系列，以及由 [[Cognition Education]] 依据商业特许协议向国际合作伙伴提供的 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 教师研讨会与学校认证体系，被系统地包装、品牌化并实现了商业货币化。（pp.10, 68）
 >
 > *Hattie’s now global social networking approach might reasonably be described as a seamless fabrication of his public-good, not-for-profit and for-profit policy entrepreneurship and advocacy. His original scholarly work in the university setting has since been packaged, branded and monetised through the Visible Learning book series and Visible Learning Plus programme of teacher workshops and associated school certification offered internationally under licence to various commercial partners by Cognition Education.*
 
