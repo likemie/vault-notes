@@ -8,7 +8,7 @@ aliases:
 summary: "库恩范式理论的核心认识论构念，指不同科学范式之间缺乏中立公认的共同原则、标准或衡量尺度，因而无法在同一逻辑评价体系下直接比较优劣"
 type: concept
 domain: "educational-philosophy"
-related_count: 41
+related_count: 46
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"

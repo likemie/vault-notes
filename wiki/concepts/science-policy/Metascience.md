@@ -8,7 +8,7 @@ aliases:
 summary: "将严谨科学方法、实证评估与机制设计工具反身应用于科学事业自身的研究与治理领域；通过对同行评议、资助规则、项目经理自由裁量权及机构组织形态开展对照实验与量化追踪，旨在降低科研行政摩擦、破除平庸共识避险偏好，优化国家科学企业的整体配置效率。"
 type: concept
 domain: "science-policy"
-related_count: 32
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"

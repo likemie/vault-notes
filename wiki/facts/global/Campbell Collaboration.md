@@ -8,9 +8,9 @@ subtype: organization
 region: global
 fact_region: "global"
 fact_kind: "organization"
-fact_related_count: 11
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 21
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
 issuing_organization: Campbell Collaboration
 tags:

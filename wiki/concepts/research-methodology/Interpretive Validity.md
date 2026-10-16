@@ -7,10 +7,10 @@ aliases:
 summary: "Maxwell 质性效度体系的核心类型之一，指研究忠实捕捉情境与事件对参与者本人的主观意义、术语体系与行动意图的能力；在量化实证与二阶综合中常被延伸指涉推论能否准确反映底层干预与测量真实内涵的解释恰切性。"
 type: concept
 domain: "research-methodology"
-related_count: 17
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 44
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - method/research-methods
   - theme/validity
