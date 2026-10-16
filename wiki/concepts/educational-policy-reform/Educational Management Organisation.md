@@ -45,6 +45,7 @@ related_facts:
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[Cognition Education]]"
   - "[[Corwin Press]]"
+  - "[[Partnership Schools Kura Hourua]]"
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
@@ -203,7 +204,7 @@ updated: 2026-10-16
 > - **1990s — 美国营利性 EMO 模式兴起** 随着美国特许学校（Charter Schools）立法浪潮，爱迪生学校（Edison Schools，后发展为 EdisonLearning Inc.）作为最早的营利性 EMO 创立，开创了由私营公司全面承包公立学校管理的模式，并在随后的十余年间向英国、非洲拓展，服务超过 350 所学校与 15 万名学生（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 19–20]]）。
 > - **2000s — 欧洲与英国连锁学院信托（MATs）的制度化** 英国工党与保守党相继推行学院计划（Academies），催生了以多学院信托（Multi-Academy Trusts, MATs）为代表的“学校连锁（School Chains）”；瑞典自由学校（Friskolor）法案亦允许营利性企业运营学校连锁，EMO 概念从美洲本土扩展为跨国治理模式（Muir, 2012; Papanastasiou, 2013）。
 > - **2010 — 新西兰本土混合 EMO 的法人重构** 新西兰原服务于教育部的 [[Cognition Education|Multi Serve Education Trust]] 进行资产重组，分立为 Cognition Education Trust 与营利性全资子公司 Cognition Education Limited，开创了新西兰本土 EMO 独特的双层法人免税运作模式；CORE Education 亦通过整合迅速崛起（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 65, 76]]）。
-> - **2013–2015 — 新西兰立法引入整校特许承包与公私合营（[[Public-Private Partnership|PPP]]）** 国家党政府相继通过《2013年教育修正法案》（引入特许学校 PSKH，允许营利与非营利赞助者运营公费学校连锁）与《2015年教育立法法案》（提议允许单执行长跨校托管），为传统英美型 EMO 在新西兰落地扫清立法障碍；首个学校建设运营 [[Public-Private Partnership|PPP]] 项目（Hobsonville Point）落地（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 20–23]]）。
+> - **2013–2015 — 新西兰立法引入整校特许承包与公私合营（[[Public-Private Partnership|PPP]]）** 国家党政府相继通过《2013年教育修正法案》（引入特许学校 [[Partnership Schools Kura Hourua|PSKH]]，允许营利与非营利赞助者运营公费学校连锁）与《2015年教育立法法案》（提议允许单执行长跨校托管），为传统英美型 EMO 在新西兰落地扫清立法障碍；首个学校建设运营 [[Public-Private Partnership|PPP]] 项目（Hobsonville Point）落地（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 20–23]]）。
 > - **2016 — 批判政策社会学对新西兰 EMO 的全面解构** [[John O'Neill|约翰·奥尼尔]]等（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）发表里程碑式学术独立报告，系统穿透 Cognition、CORE 等 EMO 的财务报表与公司档案，揭示了双层法人避税套利、OIA 信息豁免与极低公益反哺率，确立了 EMO 在英美托管型之外的“准垄断寻租中介”理论形态。
 
 ---

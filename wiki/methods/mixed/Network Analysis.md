@@ -9,7 +9,7 @@ summary: "通过识别行动者、关系、节点和连接来测量社会关系�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 48
+method_related_count: 49
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#fef3c7"
@@ -34,18 +34,19 @@ related_concepts:
   - "[[Theory of Knowledge]]"
   - "[[Research Question]]"
   - "[[Educational Brokerage Agency]]"
-  - "[[Gatekeepers]]"
-  - "[[Structural Holes]]"
-  - "[[Knowledge Mediation]]"
-  - "[[Policy Brokerage]]"
   - "[[Boundary Spanner]]"
+  - "[[Structural Holes]]"
+  - "[[Rich and Thick Description]]"
+  - "[[Gatekeepers]]"
+  - "[[Knowledge Mediation]]"
+  - "[[School Leadership]]"
+  - "[[Policy Brokerage]]"
   - "[[Causality]]"
   - "[[Epistemic Responsibility]]"
-  - "[[Reflective Structuration]]"
-  - "[[Rich and Thick Description]]"
-  - "[[Ontology]]"
-  - "[[School Leadership]]"
+  - "[[Network Governance]]"
   - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Reflective Structuration]]"
+  - "[[Ontology]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
   - "[[Complexity Theory]]"
@@ -59,9 +60,9 @@ related_methods:
   - "[[Data Transformation]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Qualitative Observation]]"
-  - "[[Qualitative Interview]]"
   - "[[Triangulation]]"
   - "[[Interactional Ethnography]]"
+  - "[[Qualitative Interview]]"
   - "[[Ethnography]]"
   - "[[Correlational Research]]"
   - "[[Participant Observation]]"
@@ -128,6 +129,12 @@ updated: 2026-10-16
 > 4. **计算网络拓扑测度** 计算网络整体密度、传递性、各节点度数与中介中心度，探测子群聚类。
 > 5. **混合质性情境化解释** 结合[[Discourse|话语]][[Transcription in Qualitative Research|转录]]与[[Qualitative Observation|田野观察]]，解释高中心度节点的领导力成因、跨组流动机制及边缘节点的联通状态。
 
+> [!proc] 宏观[[Policy Network|政策网络]]与连锁董事分析规程（Macro-Policy SNA）
+> 1. **两模附属网络构建（Two-Mode Affiliation Network）** 以公共部门（教育部、审查局）、商业教育咨询公司、免税慈善信托、私立特许办学机构与大学研究中心为一类节点（组织），以董事会成员、高级顾问与学术领袖为另一类节点（行动者），通过官方工商注册署（Companies Office）、慈善委员会注册处（Charities Services）公开年报与官方信息档案提取任职矩阵。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 65–75)]]
+> 2. **两模投影至单模连锁董事网络（One-Mode Projection）** 将二分矩阵通过布尔矩阵相乘（$A \times A^T$ 或 $A^T \times A$）投影为行动者之间的共同兼任网络或组织之间的跨界连锁董事连线（Interlocking Directorates）。
+> 3. **旋转门拓扑与中介度分析** 利用 Gephi 或 UCINET 运行 ForceAtlas2 或 Fruchterman-Reingold 算法进行拓扑聚类，计算关键行动者的中介中心度与度数，识别横跨公立、商业与慈善三界的“旋转门”核心中介枢纽（[[Boundary Spanner|Boundary Spanners]]）。
+> 4. **批判政策质性[[Triangulation|三角互证]]** 结合商业合同文本、政策游说简报与商标特许授权协议，对网络拓扑所揭示的[[Structural Holes|结构洞]]与核心同盟进行制度政治经济学[[Rich and Thick Description|深描]]。
+
 ### 量化分析与核心测度公式
 
 > [!formula-step] 公式步骤一　点度中心度（Degree Centrality）
@@ -139,7 +146,7 @@ updated: 2026-10-16
 >
 > **数学直觉** 衡量节点在网络中的直接可达性与活跃程度。
 >
-> **结果怎么读** 在课堂协作网络中，点入度高代表该学生的观点被大量同伴引用或回应（观点引领者）；点出度高代表该学生向外探索与回应同伴的积极度。
+> **结果怎么读** 在课堂协作网络中，点入度高代表该学生的观点被大量同伴引用或回应（观点引领者）；点出度高代表该学生向外探索与回应同伴的积极度。在政策网络中，无向点度高代表该董事跨界兼任的实体数量极多，处于信息与权力交汇中心。
 
 > [!formula-step] 公式步骤二　中介中心度（Betweenness Centrality）
 > $$C_B(n_i) = \sum_{j < k} \frac{g_{jk}(n_i)}{g_{jk}}$$
@@ -150,7 +157,7 @@ updated: 2026-10-16
 >
 > **数学直觉** 捕捉处于[[Structural Holes|结构洞]]（Structural Holes）关键位置的节点对跨网络信息流动的控制力。
 >
-> **结果怎么读** 在跨组织[[Knowledge Mediation|知识中介]]网络中，中介中心度高的组织（如跨国元中介）承担连接不同学术子网络与实践群体的关键中介功能。[[Argument_Burns_Schuller_2022_BrokerageAgencies|(Burns & Schuller, 2022, pp. 67–68)]]
+> **结果怎么读** 在跨组织[[Knowledge Mediation|知识中介]]与政策治理网络中，中介中心度高的行动者（如兼具学者、企业总监与慈善受托人身份的[[Policy Entrepreneur|政策企业家]]）承担连接异质社群的关键桥接功能，具有议程过滤与话语渗透的核心支配力。[[Argument_Burns_Schuller_2022_BrokerageAgencies|(Burns & Schuller, 2022, pp. 67–68)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 69–75)]]
 
 > [!formula-step] 公式步骤三　网络密度（Network Density）
 > $$\Delta = \frac{2L}{g(g-1)}$$
@@ -162,6 +169,20 @@ updated: 2026-10-16
 > **数学直觉** 衡量整体网络的连通紧密度与关系丰富程度，取值介于 0 到 1 之间。
 >
 > **结果怎么读** 密度过低意味着网络松散碎片化，存在大量孤岛；在[[Knowledge Building Theory|协作知识建构]]中，高密度且去中心化的网络图谱表明全班形成了高水平的分布式认知与集体责任。[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 903–905)]]
+
+---
+
+## 分析维度与操作矩阵
+
+> [!table] 表一：教育研究中社会网络分析的多尺度操作矩阵
+> | 分析尺度 | 微观层次（课堂与探究群体） | 中观层次（学校与区域教研集群） | 宏观层次（跨国中介与政策治理网络） |
+> |:---|:---|:---|:---|
+> | **典型分析对象** | 学生个体、探究小组、讨论板块节点 | 教师、教研组长、[[School Leadership\|学校领导]]者、学区督导 | 跨国智库、商业咨询公司、慈善信托、政府部委、[[Policy Entrepreneur\|政策企业家]] |
+> | **关系连接实质** | 发帖回应、概念引用、观点改进、协作修改 | 教学建议寻求、课题合作、资源借调、同行信任 | 连锁董事兼任（Interlocking Directorates）、资金注资、业务外包合同、[[Knowledge Mediation\|知识中介]] |
+> | **核心数据来源** | 数字化学习平台日志（如[[Theory of Knowledge\|知识论]]坛 KF 数据库日志） | [[Questionnaire\|问卷]]名录调查（Roster Questionnaire）、教研备课日志 | 公司注册档案（Companies Register）、慈善委员会年报、官方信息法案请求档案 |
+> | **核心测度指标** | 点入度分布、网络密度、互惠性（Reciprocity）、K-核分析 | 中介度、[[Structural Holes\|结构洞]]约束指数、核心-边缘聚类（Core-Periphery） | 两模投影兼任度、特征向量中心度（Eigenvector）、子群派系（Cliques） |
+> | **典型质性结合** | 课堂互动[[Transcription in Qualitative Research\|转录]]、话语分析、[[Interactional Ethnography\|互动民族志]] | [[In-depth Interview\|深度访谈]]、教研会议观察、反思日志分析 | 政策文本解构、财务年报审计、商业特许合同追踪 |
+> | **代表性研究** | [[Argument_Zhang_2022_SE\|Zhang et al. (2022)]] | [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]]; [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] |
 
 ---
 
@@ -197,7 +218,9 @@ updated: 2026-10-16
 > |:---|:---|:---|
 > | [[Knowledge Building Theory]] | 理论 | 为社会网络分析提供协作知识建构与[[Epistemic Responsibility\|集体认知责任]]的[[Epistemology\|认识论]]基础，指导识别去中心化的分布式网络。 |
 > | [[Policy Network]] | 概念 | 网络分析用于实证绘制教育治理中的多行动者政策网络、跨国流动拓扑与公私同盟结构。 |
+> | [[Network Governance]] | 概念 | 网络分析是测算和揭示公私跨界网络治理拓扑同盟与非正式权力结构的核心实证工具。 |
 > | [[Policy Entrepreneur]] | 概念 | 网络分析用于识别跨界流动的关键政策企业家节点及其在政商学界的多重兼任连线。 |
+> | [[Endogenous and Exogenous Privatisation]] | 概念 | 网络分析通过连锁董事与服务外包合同拓扑，揭示教育外生私有化的深层网络结构。 |
 > | [[Reflective Structuration]] | 概念 | 网络分析用于检验反思性结构化与弹性分组是否促进了高密度的跨组交互与去中心化拓扑。 |
 > | [[Sociometry]] | 前置方法 | 莫雷诺（Moreno, 1934）社会计量学是社会网络分析的奠基之源，确立了点线图基石。 |
 > | [[Interactional Ethnography]] | 补充质性方法 | 互动[[Ethnography\|民族志]]为 SNA 网络拓扑提供微观话语互动[[Transcription in Qualitative Research\|转录]]与情境意义的质性[[Rich and Thick Description\|深描]]。 |
@@ -214,3 +237,6 @@ updated: 2026-10-16
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns and Schuller (2022)]] — 运用[[Participant Observation|参与观察]]与网络分析方法，深入剖析欧洲 23 国 36 家机构构成的 [[EU Evidence-Informed Education Policy Initiatives|EIPPEE]] 跨国教育[[Knowledge Mediation|知识中介]]网络，提炼元中介协同维系机制与制度张力。
 > - [[Argument_Brown_Greany_2018_LPS|Brown and Greany (2018)]] — 其基线[[Questionnaire|问卷]]从属于更大规模的社会网络分析设计，研究团队因此掌握每所学校教师与[[School Leadership|学校领导]]者的姓名与确切人数，得以逐校计算个体应答率。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 运用跨界[[Policy Network|政策网络]]与连锁董事分析，绘制新西兰公立[[Endogenous and Exogenous Privatisation|教育私有化]]中的学术特许网络与政商学同盟拓扑。
+
+---
+

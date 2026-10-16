@@ -3401,29 +3401,29 @@ Total entries: **3716**
 
 ### New Zealand
 
-> [!index-list]- Event (5)
-> - [[Manaiakalani Education Trust]] — 2011 年成立的 Tamaki 社区数字学习慈善信托，从 EHSAS/ICT 集群起步，获 NEXT Foundation 资助全国规模化推广 Outreach 项目
-> - [[Partnership Schools Kura Hourua]] — 新西兰版特许学校：由营利或非营利组织根据教育部商业合同运营的公费私立学校，2011 年由国家党-ACT 党协议推动
-> - [[Teach First New Zealand]] — 2011 年启动的高成就毕业生就业型初级教师教育慈善信托，7% 接受率，与 Teach for All 全球网络和奥克兰大学合作运营
+> [!index-list]- Event (2)
 > - [[Treasury Briefing on Student-Teacher Ratios]] — 2011 年 NZ Treasury 援引 Hattie VL 证据建议增加生师比以释放资金，O’Neill 以此为案例揭示教育研究证据在政策论述中的实质谬误
 > - [[Visible Learning Branding and Global Influences]] — Visible Learning 从新西兰学术成果扩展为跨国品牌与培训产业，经历 VLplus 商业化、Corwin 收购和多国政策采纳，并伴随持续制度争议。
 
-> [!index-list]- Organization (1)
+> [!index-list]- Organization (2)
 > - [[Cognition Education]] — 1989 年新西兰明日学校改革催生的教育服务机构 历经从 Multi Serve 准市场承包商到跨国教育管理组织的演进 后通过专营 Visible Learningplus 知识品牌与全球授权实现资本扩张 并因双层免税信托架构与政商学术旋转门长期处于公益合法性与商业寻租的激烈争议之中
+> - [[Manaiakalani Education Trust]] — 2011 年在奥克兰成立的教育慈善信托，采用教育者与非教育者混合受托人治理结构，通过风险慈善与科技企业赞助开展数字化学习项目，并将部分设备采购与运营成本转嫁给低收入原住民家庭。
 
-> [!index-list]- Policy (7)
+> [!index-list]- Policy (8)
 > - [[Contestable School Support Services]] — 教育部将原先由大学教育学院提供的学校支持服务合同转为竞争性招标，CORE Education 显著受益，收入从 USD 7.8M 增至 USD 22.7M
 > - [[Learning for Life Report]] — Gary Hawke 1989 年发布的教育与培训报告，纳入了 Gerald Grace 提议的“critic and conscience of society“作为大学的定义特征，后被写入新西兰法律
 > - [[New Zealand National Standards]] — 国家党联合政府推行的国家教育标准政策，Hattie 参与技术顾问和部长顾问组，引发激烈争议
 > - [[NZ Curriculum Refresh 2021-2026]] — 新西兰 2021 年启动的课程改革，从结果导向课程转向进步导向课程，使用理解-知道-做（UKD）框架，计划 2026 年完成
+> - [[Partnership Schools Kura Hourua]] — 新西兰国家党与行动党联合政府推动设立的特许学校制度，依据《2013年教育修正法案》由营利或非营利组织根据商业合同运营公费私立学校，享有豁免国家课程与免除教师资质注册等制度特权，2018年被工党政府正式废止。
 > - [[The New Zealand Curriculum]] — 2010 年实施的 NZ 国家课程，包含八项原则（高期望、学会学习、未来焦点），允许各校设计独特学习项目，ERO 定期评估
 > - [[The Scott Report]] — 新西兰议会教育与科学选择委员会发布的教学质量调查报告，主张迫切需要教师表现测量但承认过程将“漫长而复杂“，建议设立大学研究单位开发可靠工具——从未落实
 > - [[Tomorrow's Schools Reforms]] — 1989 年推出的重大教育行政改革，将学校管理权下放至各校董事会，引入学校自我管理模式，创造了私营 EMO 进入公立教育服务市场的条件
 
-> [!index-list]- Program (5)
+> [!index-list]- Program (6)
 > - [[Best Evidence Synthesis]] — 新西兰教育部自2003年起主导设立的部委嵌入型国家级知识中介项目，通过迭代综合方法深度融合实证因果与毛利文化响应性教学，开创了从方法论指导向多模态实践转译演进的国家典范。
 > - [[Foundation North Māori and Pasifika Education Initiative]] — 新西兰北部基金会（前 ASB 社区信托）于 2009 年启动的 2,000 万新西兰元高介入度风险慈善与社会影响力投资计划。旨在通过两阶段提案遴选与网络识别改善毛利与太平洋岛民学生的教育成果；因引入外部商业管理咨询、强加因果变革理论量规而与毛利本土文化产生严重治理冲突，最终暴露出风险慈善在弱势社区实践中的制度异化与公共资本沉淀困境。
 > - [[Te Kotahitanga]] — 新西兰教育部与怀卡托大学针对毛利中学生学业落后与流失危机发起的全国性文化响应型关系教学改革项目，通过破除教师赤字归因、倾听学生心声并重构师生互动关系，显著提升了毛利学生的在校率、出勤率与学业成就
+> - [[Teach First New Zealand]] — 2011 年创设的初级教师教育与领导力培育慈善信托，面向顶尖大学毕业生推行两年期就业嵌入式师训，获美国对冲基金与跨国 Teach for All 网络支持，依托教育部与公立大学伙伴关系向弱势学校输送教师。
 > - [[Teaching and Learning Research Initiative]] — 新西兰政府于 2003 年设立的国家级教育研究专项基金，以研究者与一线教师平等的伙伴关系与知识共创为刚性资助门槛，旨在提升教学实践质量并构建本土教研能力
 > - [[Visible Learning Meta-X]] — 约翰·哈蒂主持维护的全球最大教育元分析汇聚数据库，系统收录 2,100 余项教育元分析的综合效应量、纳入研究数与学生样本量，为可见的学习框架提供核心实证基础，并作为二阶元分析研究的重要数据来源。
 

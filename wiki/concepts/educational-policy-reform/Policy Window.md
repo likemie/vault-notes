@@ -9,10 +9,10 @@ aliases:
 summary: "公共政策多源流框架的核心概念，指问题流、政策方案流与政治流三者汇聚时短暂开启的有利于政策采纳的关键机遇期；在教育循证改革中，政策之窗的时间压缩特性直接决定了证据的形态选择，促使行动者转向专业经验、同行信任与微观对标分析等高效能替代证据。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 17
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 23
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/educational-policy-reform
   - policy-analysis
@@ -24,6 +24,7 @@ related_concepts:
   - "[[Professional Judgment]]"
   - "[[College and Career Readiness]]"
   - "[[Competitiveness]]"
+  - "[[Discourse]]"
   - "[[Venue Shopping]]"
 related_theories:
   - "[[Multiple Streams Framework]]"
@@ -35,14 +36,20 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[John W. Kingdon]]"
+  - "[[John O'Neill]]"
 related_facts:
   - "[[Race to the Top]]"
   - "[[Common Core State Standards]]"
   - "[[National Assessment of Educational Progress]]"
   - "[[TIMSS]]"
   - "[[PISA]]"
+  - "[[Partnership Schools Kura Hourua]]"
+  - "[[The Education Trust]]"
+  - "[[Achieve]]"
+  - "[[National Governors Association]]"
 related_arguments:
   - "[[Argument_McDonnell_2013_AmJE]]"
+  - "[[Argument_ONeill_2016_Report]]"
 confidence: high
 status: stable
 created: 2026-09-26
@@ -118,13 +125,39 @@ updated: 2026-10-16
 
 ---
 
+### 命题三　政党联合执政契机开启政策机会之窗并促成政策企业家的伺机突围
+
+> [!concept-lens] 政治流突变与政策方案突围
+> 当政治体制内出现少数派联合执政或议席微弱多数的特殊政治周期时，边缘议题可作为组阁政治交换筹码，瞬间撬开常态下被建制官僚与专业协会所阻遏的政策之窗；早已预研成熟办学模型的[[Policy Entrepreneur|政策企业家]]能够借窗突围，直接介入法律起草与规程拟定。
+
+> [!claim] O'Neill, J., Duffy, C., & Fernando, S.
+> **联合执政政治交换撬开特许学校政策之窗** [[John O'Neill|约翰·奥尼尔]]（John O'Neill）等学者在考察[[Partnership Schools Kura Hourua|新西兰特许学校]]（PSKH）政策议程设置时发现，2011 年大选后国家党（National Party）因议席不足，被迫与持自由意志主义立场的行动党（ACT Party）签署《信任与供给协议》（Confidence and Supply Agreement）。行动党将设立打破公立教育垄断的特许学校作为联合执政不可退让的先决条件，从而在极短时间内强行开启了原本在民意与教育界毫无共识的政策机会之窗。阿尔温·普尔（Alwyn Poole）主导的别墅[[The Education Trust|教育信托]]（Villa Education Trust）与普纳马拉马信托（He Puna Marama Trust）等政策企业家群体，早已备好私立办学模型与军事化培训方案，在此政治之窗开启时迅速借道突围，直接进驻教育部特许学校执行工作组，主导起草了绕过国家课程标准与公立教师资质限制的特许办学合同法案。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 20–23, 29–30, 42–46)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **时间约束命题** | 政策之窗的时间压缩特性直接决定证据形态的选择与替代 | 重大政策立法与法定采纳关口 | McDonnell & Weatherford; Kingdon |
-> | **主动开启命题** | 政策企业家利用危机指标与价值包装能动性撬开制度之窗 | 议程设置与政策动议发起期 | McDonnell & Weatherford; Stone |
+> | **时间约束命题** | 政策之窗的时间压缩特性直接决定证据形态的选择与替代，促使宏观学术论文转向微观对标清单 | 重大国家/州级标准统一与法定采纳关口 | McDonnell & Weatherford; Kingdon |
+> | **主动开启命题** | 政策企业家利用危机指标与价值包装能动性撬开制度之窗，塑造政策紧迫感 | 议程设置与政策动议发起期 | McDonnell & Weatherford; Stone |
+> | **突围采纳命题** | 少数派联合执政等政治流突变开启政策之窗，政策企业家携预制方案伺机突围实现制度突破 | 特许学校立法、外生私有化与教育管理外包 | O'Neill et al.; Ball; Kingdon |
+
+---
+
+## 实证数据与案例对比
+
+> [!table] 表一：教育政策之窗三流交汇机制与决策演进跨国对比矩阵
+> | 分析维度 | 美国[[Common Core State Standards\|共同核心国家标准]]（CCSS）采纳 | [[Partnership Schools Kura Hourua\|新西兰特许学校]]（PSKH）立法采纳 |
+> |:---|:---|:---|
+> | **问题流（Problem Stream）** | [[National Assessment of Educational Progress\|NAEP]] 与国际测评（[[TIMSS]]/[[PISA]]）落差、大学与职业补习率高企所建构的学术标准危机 | 国际测评长尾效应、弱势毛利与太平洋岛民学生学业不合格与公立系统失灵叙事 |
+> | **政策流（Policy Stream）** | [[Achieve]] 等智库预先起草的高中毕业就绪标准草案与逐条对标分析工具（Crosswalks） | [[Policy Entrepreneur\|政策企业家]]在私立与慈善信托中预先试验的小班制、军事化与基于项目学习办学模型 |
+> | **政治流（Political Stream）** | 两党州长协会（[[National Governors Association\|NGA]]）经济[[Competitiveness\|竞争力]]共识与奥巴马政府数十亿美元联邦拨款刺激 | 2011 年大选后国家党与行动党联合执政协议中的关键政治妥协筹码 |
+> | **窗口开启特征** | 联邦资金申请窗口驱动的极度时间压缩（Truncated Stage） | 少数派联合执政维系所依赖的强行行政借道（Policy Venue Shifting） |
+> | **政策企业家行动** | 智库专家与各州教育官员联合组建标准开发组，提供操作性替代证据 | 普尔等政策企业家直接进入特许学校执行工作组，参与合同与法案起草 |
+> | **证据形态与机制** | 专业经验判断、专家声誉认可、逐条比对清单替代长期对照实验 | 海外特许学校经验修辞、社会达尔文主义竞争[[Discourse\|话语]]与商业合同治理机制 |
+> | **实证文献来源** | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] |
 
 ---
 
@@ -134,6 +167,7 @@ updated: 2026-10-16
 > - **1984年 — 金登创立多源流分析** 金登在《议程、备选方案与公共政策》中正式确立政策之窗概念，指出政治流与问题流的交汇创造了窗口。
 > - **2000年代 — 制度主义与断裂平衡拓展** 学界将政策之窗与[[Punctuated Equilibrium Theory|政策垄断]]打破、[[Venue Shopping|制度场所转换]]相结合，分析窗口期制度摩擦的瓦解。
 > - **2013年 — 循证决策与证据形态演化** 麦克唐纳与韦瑟福德将政策之窗引入教育证据利用研究，确立了政策窗口时间压力决定学术证据与专业经验配比的权变模型。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 2–6, 16–19)]]
+> - **2016年 — [[Policy Entrepreneur|政策企业家]]突围与私有化借道** 奥尼尔等学者将政策之窗拓展至英联邦与威斯敏斯特议会制国家，揭示了少数派联合政府如何创造特殊的政治之窗，促成新自由主义政策企业家突围并推进教育外生私有化。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 20–23)]]
 
 ---
 
@@ -144,9 +178,9 @@ updated: 2026-10-16
 > > [!axis] 政策之窗究竟是客观机遇还是主观修辞？
 > > - **客观结构论** 认为政策之窗完全由外部选举周期、突发自然危机或宏观财政刺激法案等客观制度环境决定，非人力所能随意创造。
 > > - **主观建构论** 认为只要[[Policy Entrepreneur|政策企业家]]掌握了高超的叙事技巧，任何微小的统计异常都能被包装为危机，从而随时建构出政策之窗。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 3–5)]]
-
-> [!warning] 适用局限
-> 政策之窗概念强于解释政策议程的“突围与通过”，但难以单独解释政策通过后在基层学校与学区常态化实施（Implementation）中的持续博弈与效果演变。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 7, 20)]]
+>
+> > [!warning] 适用局限
+> > 政策之窗概念强于解释政策议程的“突围与通过”，但难以单独解释政策通过后在基层学校与学区常态化实施（Implementation）中的持续博弈与效果演变。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 7, 20)]]
 
 ---
 
@@ -154,5 +188,7 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — [[Process Tracing|过程追踪]]表明，奥巴马政府[[Race to the Top|力争上游]]拨款开启的极短政策之窗，迫使各州决策层将宏观学术论文替换为微观对标清单火速完成采纳。
+> - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统剖析新西兰联合执政协议开启的特许学校（[[Partnership Schools Kura Hourua|PSKH]]）政策之窗，揭示了[[Policy Entrepreneur|政策企业家]]如何携预制方案借窗突围，绕过传统官僚监管机制实现教育外生私有化。
 
 ---
+

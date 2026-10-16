@@ -184,7 +184,7 @@ updated: 2026-10-16
 
 > [!dev-timeline] 概念演变
 > - **1990 年代末–2000 年代初 — 模式萌芽与风险投资纪律引入** 在欧美互联网科技新贵崛起与企业慈善立法背景下，创投风尚外溢至公益部门；麦肯锡合伙人发起 SVA（2002），倡导引入商业咨询、尽职调查与多年期资本支持，重构传统慈善形态。
-> - **2006–2015 — 澳大拉西亚实践落地与特许学校基建** 新西兰最大慈善机构 Foundation North 宣布全面转型风险慈善（2006）；风险慈善资本广泛涉入 [[Teach First New Zealand]] 教师输送项目及 Manaiakalani 数字化项目，并充当特许学校（PSKH）法定义务之外的关键财政后盾（[[Argument_ONeill_2016_Report\|O'Neill et al., 2016]]）。
+> - **2006–2015 — 澳大拉西亚实践落地与特许学校基建** 新西兰最大慈善机构 Foundation North 宣布全面转型风险慈善（2006）；风险慈善资本广泛涉入 [[Teach First New Zealand]] 教师输送项目及 Manaiakalani 数字化项目，并充当特许学校（[[Partnership Schools Kura Hourua|PSKH]]）法定义务之外的关键财政后盾（[[Argument_ONeill_2016_Report\|O'Neill et al., 2016]]）。
 > - **2016–2022 — 跨国证据生态扩张与国家科研体制渗透** 英国 [[Education Endowment Foundation\|EEF]] 与澳大利亚 [[Social Ventures Australia\|SVA]] 联合推进[[Educational Brokerage Agency\|证据经纪人]]模式；必和拓基金会注资启动全球教学证据生态项目；风险慈善由局部项目赞助跃升为直接游说、设计并共同治理国家级法定教育科研中介（如 [[Australian Education Research Organisation\|AERO]]），引发全球政策社会学对民主问责侵蚀的集中批判（[[Argument_Rowe_2022_IJER\|Rowe, 2022]]）。
 > - **2023 — 异层治理实践与国家再分配模式重构** 埃玛·罗威（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023]]）实证剖析 SVA 辐射网络（[[Australian Schools Plus\|Schools Plus]]、[[Evidence for Learning\|E4L]] 与 AERO），确证风险慈善构建了资本主义国家异层再分配闭环，利用立法破例赋予免税中介吸税特权，导致公共财政逆流并使公立学校沦为商业问责受助附庸。
 

@@ -40,6 +40,8 @@ related_concepts:
   - "[[Performativity]]"
   - "[[School Leadership]]"
   - "[[Global Education Reform Movement]]"
+  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Public-Private Partnership]]"
 related_theories:
   - "[[Panopticism]]"
 related_methods:
@@ -49,9 +51,11 @@ related_methods:
   - "[[Correlational Research]]"
 related_facts:
   - "[[Early Steps]]"
+  - "[[Cognition Education]]"
 related_arguments:
   - "[[Argument_Hattie_2005_ACER]]"
   - "[[Argument_Johnson_2023_CritEduc]]"
+  - "[[Argument_ONeill_2016_Report]]"
 related_persons:
   - "[[John Hattie]]"
 confidence: high

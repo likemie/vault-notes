@@ -30922,34 +30922,6 @@
     ]
   },
   {
-    "title": "Manaiakalani Education Trust",
-    "type": "fact",
-    "path": "wiki/facts/new-zealand/Manaiakalani Education Trust.md",
-    "aliases": [
-      "Manaiakalani教育信托"
-    ]
-  },
-  {
-    "title": "Partnership Schools Kura Hourua",
-    "type": "fact",
-    "path": "wiki/facts/new-zealand/Partnership Schools Kura Hourua.md",
-    "aliases": [
-      "伙伴学校",
-      "Kura Hourua",
-      "新西兰版特许学校"
-    ]
-  },
-  {
-    "title": "Teach First New Zealand",
-    "type": "fact",
-    "path": "wiki/facts/new-zealand/Teach First New Zealand.md",
-    "aliases": [
-      "TFNZ",
-      "Ako Mātātupu",
-      "Teach First New Zealand Ako Mātātupu"
-    ]
-  },
-  {
     "title": "Treasury Briefing on Student-Teacher Ratios",
     "type": "fact",
     "path": "wiki/facts/new-zealand/Treasury Briefing on Student-Teacher Ratios.md",
@@ -30979,6 +30951,15 @@
       "认知教育",
       "认知教育集团",
       "认知教育信托"
+    ]
+  },
+  {
+    "title": "Manaiakalani Education Trust",
+    "type": "fact",
+    "path": "wiki/facts/new-zealand/Manaiakalani Education Trust.md",
+    "aliases": [
+      "Manaiakalani教育信托",
+      "马奈卡拉尼教育信托"
     ]
   },
   {
@@ -31015,6 +30996,18 @@
       "NZ curriculum refresh",
       "Te Mātaiaho",
       "新西兰课程刷新"
+    ]
+  },
+  {
+    "title": "Partnership Schools Kura Hourua",
+    "type": "fact",
+    "path": "wiki/facts/new-zealand/Partnership Schools Kura Hourua.md",
+    "aliases": [
+      "伙伴学校",
+      "Kura Hourua",
+      "PSKH",
+      "新西兰特许学校",
+      "特许学校（新西兰）"
     ]
   },
   {
@@ -31075,6 +31068,17 @@
       "Te Kotahitanga Project",
       "毛利中学生关系教学干预项目",
       "毛利学生教育改进计划"
+    ]
+  },
+  {
+    "title": "Teach First New Zealand",
+    "type": "fact",
+    "path": "wiki/facts/new-zealand/Teach First New Zealand.md",
+    "aliases": [
+      "TFNZ",
+      "Ako Mātātupu",
+      "Teach First New Zealand Ako Mātātupu",
+      "新西兰先行者教育"
     ]
   },
   {
