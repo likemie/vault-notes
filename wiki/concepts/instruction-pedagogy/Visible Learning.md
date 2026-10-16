@@ -88,6 +88,7 @@ related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
 related_persons:
   - "[[John Hattie]]"
+  - "[[Christof Wecker]]"
   - "[[Thomas Nordahl]]"
   - "[[Scott Eacott]]"
 related_facts:
@@ -208,7 +209,7 @@ updated: 2026-10-16
 > **通用连续体与关节点判准的统计破产** 卡尔门达尔（Kalmendal）等学者对 VL 全库 322 个影响因素开展独立审计发现，$d=0.40$ 通用连续体存在根本性统计破产：Hattie 将不同对照条件（对照组为空白控制、常规教学还是积极替代干预）进行无加权简单平均。根据常规规律，相比于空白对照，与积极干预比较产生的效应量通常减半；当混合两类对照时，平均效应量纯粹取决于两类研究的样本比例，丧失了实质解释力。加之 27% 的影响因素混杂了组内与组间设计（估计完全不同的总体参数），所谓跨情境统一的 $0.40$ 关节点基准并不具备科学效力。[[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, pp. 1, 16)]]
 
 > [!claim] Wecker et al.
-> **两级[[Fixed-Effect Model|固定效应模型]]等价性与关节点因果基础破裂** 韦克尔（Christof Wecker）等学者从数理统计底层证明，[[Meta-meta-analysis|二级元分析]]在数学上等价于对所有原始研究直接加权合并的充要条件，是各一级元分析纳入的样本完全独立且互不重叠（$D = \bar{d}, v_D = v_{\bar{d}}$）。然而在《可见的学习》实际操作中，不仅普遍忽视元分析之间高达 90% 以上的文献重叠（如网络学习领域 93.3% 重叠，校正后效应量自 $0.59$ 暴跌至 $0.23$，排名从第 26 位雪崩至第 98 位并跌破 $0.40$ 关节点），而且充斥着将[[Standard Error|标准误]]当标准差（导致个别效应量虚增 10 倍）以及依据离散度硬造假标准误（[[Direct Instruction|直接教学]]权重被削减 53.5%）等低级计算错误。加之教育现实彻底违背固定效应模型的同质性假定，所谓的 $d=0.40$ 关节点不仅在经验上因数据受损而失真，在因果与数理统计逻辑上亦根本无法立足。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–30, 37–38)]]
+> **两级[[Fixed-Effect Model|固定效应模型]]等价性与关节点因果基础破裂** [[Christof Wecker|韦克尔]]（Christof Wecker）等学者从数理统计底层证明，[[Meta-meta-analysis|二级元分析]]在数学上等价于对所有原始研究直接加权合并的充要条件，是各一级元分析纳入的样本完全独立且互不重叠（$D = \bar{d}, v_D = v_{\bar{d}}$）。然而在《可见的学习》实际操作中，不仅普遍忽视元分析之间高达 90% 以上的文献重叠（如网络学习领域 93.3% 重叠，校正后效应量自 $0.59$ 暴跌至 $0.23$，排名从第 26 位雪崩至第 98 位并跌破 $0.40$ 关节点），而且充斥着将[[Standard Error|标准误]]当标准差（导致个别效应量虚增 10 倍）以及依据离散度硬造假标准误（[[Direct Instruction|直接教学]]权重被削减 53.5%）等低级计算错误。加之教育现实彻底违背固定效应模型的同质性假定，所谓的 $d=0.40$ 关节点不仅在经验上因数据受损而失真，在因果与数理统计逻辑上亦根本无法立足。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–30, 37–38)]]
 
 > [!claim] Johnson, G. R. & Janzen, M. D.
 > **隐藏计算公式与简单算术平均陷阱** 约翰逊与詹森（Johnson & Janzen）系统核查附录 A 指出，VL 确立的效应量高度依赖未加权的简单算术平均。以[[Homework|作业]]（[[Homework]]）为例，正文仅报告 $d=0.29$，完全隐去计算公式；实际运算是将 5 项研究规模从 15 到 77 项不等的元分析数值简单相加除以 5，违背了依据[[Sample Size Determination|样本量]]加权的基本统计原则。此外，笼统的总体平均值掩盖了小学（$d=0.15$）与高中（$d=0.64$）的实质学段差异，而 $d=0.40$ 的所谓期望门槛仅仅是纳入的 138 个[[Variable|变量]]的简单均值，不具备任何客观实体物理基准。[[Argument_Johnson_2023_CritEduc\|(Johnson & Janzen, 2023, pp. 25–27)]]
@@ -279,7 +280,7 @@ updated: 2026-10-16
 > - **1999–2005 — 新西兰原型探索与形成性问责奠基** 依托新西兰教育部委托开发的 [[Assessment Tools for Teaching and Learning\|asTTle]] 测评系统，Hattie 在 2003 年与 2005 年 [[Australian Council for Educational Research\|ACER]] 大会上完整阐发了成就方差六分模型、相对有效性判准、[[Learning Progression\|学业进阶]]共享语言及以教师为中心的形成性证据问责理论。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, pp. 11–19)]]
 > - **2009–2010 — 著作出版与全球理论论战** 《可见的学习》初版出版，汇总 800 余项元分析与 150+ 影响因素，引发全球教育界轰动；随后在《新西兰教育研究杂志》系统回应关于方法论、STAR [[Class Size\|班级规模]]实验及外部有效性的第一波批评。[[Argument_Hattie_2010_NZJES\|(Hattie, 2010, pp. 86–91)]]
 > - **2010–2018 — 品牌化扩张与全球政策采纳** 随着 商业化品牌运作 的推进，[[Cognition Education]] 与 [[Corwin Press|Corwin]]（[[Sage]] 集团）将 VL 转化为全球专业发展培训品牌；英国 [[Education Endowment Foundation\|EEF]]、澳大利亚 [[Gonski 2.0]] 改革、维多利亚州 [[Victorian HITS and Literacy Toolkit\|HITS]] 以及丹麦公立学校改革等相继将 VL 列为政策基准。[[Argument_Bates_2017_CognitionEducationTrust\|(Bates, 2017)]]; [[Argument_Qvortrup_2019_NordSTEP\|(Qvortrup, 2019)]]
-> - **2016 — 德语计量方法学系统质询与数学公理推导** 韦克尔等人（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）在《教育科学杂志》（*Zeitschrift für Erziehungswissenschaft*）发表奠基性批判，首次从[[Fixed-Effect Model|固定效应模型]]数学公理推导了二级元分析的代数等价性与六步规范规程，实证揭示[[John Hattie|哈蒂]]因混淆[[Standard Error|标准误]]、硬造假误差与忽略 93% 重叠导致网络学习排名雪崩，在科学上判定超级元分析不可行。
+> - **2016 — 德语计量方法学系统质询与数学公理推导** [[Christof Wecker|韦克尔]]等人（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）在《教育科学杂志》（*Zeitschrift für Erziehungswissenschaft*）发表奠基性批判，首次从[[Fixed-Effect Model|固定效应模型]]数学公理推导了二级元分析的代数等价性与六步规范规程，实证揭示[[John Hattie|哈蒂]]因混淆[[Standard Error|标准误]]、硬造假误差与忽略 93% 重叠导致网络学习排名雪崩，在科学上判定超级元分析不可行。
 - **2015–2020 — 教学论深化与批评反思潮** Hattie 进一步提炼八项教师思维框架、DIE 模型与高等教育六大高影响条件；同时斯堪的纳维亚学者提出“反馈文化”再诠释，批判学者发起关于[[Neo-Taylorism\|新泰勒主义]]与知识形态窄化的深层学理争鸣。[[Argument_Hattie_2015_SOTLP\|(Hattie, 2015b)]]; [[Argument_Fredens_2015_Paideia\|(Fredens, 2015)]]; [[Argument_Eacott_2019_IJLE\|(Eacott, 2019)]]
 > - **2021–至今 — 欧洲跨国治理实证与[[Practitioner Enquiry\|实践者探究]]校准** 欧洲实证研究（[[Argument_Kelly_2025_ROE\|Kelly et al., 2025]]）揭示一线实践者在不同治理体制下对 VL 的差异化吸收：苏格兰依托“实践者探究”对其开展去魅与本土校准，德国作为校本教研参考，打破单一商业化崇拜迷思。
 > - **2023 — 政治经济学与[[Cargo Cult Science|货物崇拜科学]]深度解构** 约翰逊与詹森（[[Argument_Johnson_2023_CritEduc\|Johnson & Janzen, 2023]]）从科学哲学与批判政策分析视角，系统揭露 VL 隐藏计算公式的简单算术平均、对 Glass and Smith (1979) 班级规模结论的失真提取、新泰勒制全景监控以及兼任商业咨询机构董事的高额版税链条，将其定性为服务于新自由主义财政紧缩的货物崇拜科学。
@@ -300,7 +301,7 @@ updated: 2026-10-16
 >
 > [!tension] 核心张力三：宏观合成证据权威 vs [[Metascience|元科学]]审计下的[[Reproducibility Crisis|可复现性危机]]（[[Reproducibility Crisis\|可复现性危机]]）
 > - **合成证据权威立场（蓝方）** 主张即使底层元分析存在个别瑕疵或历史人工录入偏差，数亿样本与上千项元分析的整体模式仍能稳定揭示“教师激活优于被动促进”等核心教育规律。[[Argument_Hattie_2010_NZJES\|(Hattie, 2010, pp. 88–92)]]
-> - **元科学与计量统计解构立场（红方）** 韦克尔（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）与卡尔门达尔（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）等团队实证指出，VL 的问题不是局部误差，而是底层数理与方法学崩溃：两级[[Fixed-Effect Model|固定效应]]代数等价性被 93% 的文献重叠摧毁，存在[[Standard Error|标准误]]混淆导致 10 倍虚增的低级计算错误；全库仅 19% 满足 [[PICO Framework|PICO]] 标准，27% 混杂不可[[Commensuration|通约]]设计，44% 效应量无引证支持且复现率低于 1%，在科学上完全不可行。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–34)]]; [[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 1, 14–19)]]
+> - **元科学与计量统计解构立场（红方）** [[Christof Wecker|韦克尔]]（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）与卡尔门达尔（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）等团队实证指出，VL 的问题不是局部误差，而是底层数理与方法学崩溃：两级[[Fixed-Effect Model|固定效应]]代数等价性被 93% 的文献重叠摧毁，存在[[Standard Error|标准误]]混淆导致 10 倍虚增的低级计算错误；全库仅 19% 满足 [[PICO Framework|PICO]] 标准，27% 混杂不可[[Commensuration|通约]]设计，44% 效应量无引证支持且复现率低于 1%，在科学上完全不可行。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–34)]]; [[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 1, 14–19)]]
 - **元科学审计解构立场（红方）** 卡尔门达尔团队实证审计表明，VL 的问题不是局部误差，而是系统性方法学崩溃：缺乏基本的问题纳入关卡（仅 19% 满足 [[PICO Framework|PICO]] 标准）、将不可[[Commensuration|通约]]的统计设计强行平均化（27% 混杂设计）、严重数据提取失真（44% 效应量无引证支持且复现率低于 1%），以及技术类目存在长达 20 年的文献时效断层，因而无法作为任何可靠的教学或政策决策基准。[[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, pp. 1, 14–19)]]
 >
 > [!tension] 核心张力四：客观中立的实证科学 vs 政商利益结盟与财政紧缩修辞

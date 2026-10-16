@@ -47,6 +47,7 @@ related_concepts:
   - "[[Procedural Knowledge]]"
   - "[[Incommensurability]]"
   - "[[Commensuration]]"
+  - "[[Category Mistake]]"
   - "[[Visible Learning]]"
   - "[[Effective Teaching]]"
   - "[[Scientific Explanation]]"
@@ -77,6 +78,7 @@ related_instruments: []
 related_persons:
   - "[[John Hattie]]"
   - "[[Yong Zhao]]"
+  - "[[Christof Wecker]]"
   - "[[John Sweller]]"
   - "[[Deanna Kuhn]]"
 related_facts:
@@ -226,7 +228,7 @@ updated: 2026-10-16
 > 探讨直接教学在宏观证据合成中因干预时长与对照基线差异引发的[[Incommensurability|不可通约性]]（[[Incommensurability]]），以及元分析计算错误如何严重低估其统计权重。
 
 > [!claim] Wecker et al.
-> **宏观全学年方案与微观实验室干预的不可[[Commensuration|通约]]性（德甲联赛隐喻）** 克里斯托夫·韦克尔（Christof Wecker, 2016）等人指出，直接教学属于学校层面的“综合教学方案（Comprehensive Pedagogical Programs）”，其实施周期通常以整学期或整学年计，其对比基准为常规常态讲授。在《[[Visible Learning|可见的学习]]》排行榜中，哈蒂将持续一整年的直接教学与仅历时 1.5 小时的受控实验室样例学习（Worked Examples, Renkl, 2015）并列比较，犯下了根本性的范畴错误。若将微观样例学习的瞬时效应（$d \approx 0.60$）线性外推至 4 周课程，其理论效应将膨胀至 2.40，但在常规教学中效应必然大幅衰减。将性质迥异的微观瞬时技术与宏观全学年改革排在同一张表上，如同在德甲联赛中强行比较不可通约的对象；教师在实践中并非在直接教学与分布式练习之间做非此即彼的单选，而是探索二者的最优组合。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 33–34)]]
+> **宏观全学年方案与微观实验室干预的不可[[Commensuration|通约]]性（[[Category Mistake|德甲联赛隐喻]]）** [[Christof Wecker|克里斯托夫·韦克尔]]（Christof Wecker, 2016）等人指出，直接教学属于学校层面的“综合教学方案（Comprehensive Pedagogical Programs）”，其实施周期通常以整学期或整学年计，其对比基准为常规常态讲授。在《[[Visible Learning|可见的学习]]》排行榜中，哈蒂将持续一整年的直接教学与仅历时 1.5 小时的受控实验室样例学习（Worked Examples, Renkl, 2015）并列比较，犯下了根本性的范畴错误。若将微观样例学习的瞬时效应（$d \approx 0.60$）线性外推至 4 周课程，其理论效应将膨胀至 2.40，但在常规教学中效应必然大幅衰减。将性质迥异的微观瞬时技术与宏观全学年改革排在同一张表上，如同在德甲联赛中强行比较不可通约的对象；教师在实践中并非在直接教学与分布式练习之间做非此即彼的单选，而是探索二者的最优组合。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 33–34)]]
 
 > [!claim] Wecker et al.
 > **伪造[[Standard Error|标准误]]导致高质量直接教学元分析权重腰斩过半** 韦克尔等人的实证审计揭示，哈蒂在汇总直接教学效应量时存在严重的低级计算错误。在处理哈斯（Haas, 2005）的直接教学元分析时，该研究报告了 19 个效应量（离散标准差 $\text{SD} = 0.59$），哈蒂未核查原始[[Sample Size Determination|样本量]]，直接拿标准差除以根号 19 拼凑伪标准误：$\text{SE} = 0.59 / \sqrt{19} \approx 0.135$。依据原始研究真实样本量计算的真实标准误应为 $0.092$。这一除数错误使哈斯直接教学元分析在总体加权中的逆方差权重从 $W = 1/(0.092)^2 \approx 118.1$ 骤降至 $W = 1/(0.135)^2 \approx 54.9$，其在大样本总分中的分量被人为削减了 53.5%，严重贬抑了高质量直接教学实证研究的统计贡献。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 29–30)]]
@@ -258,7 +260,7 @@ updated: 2026-10-16
 > - **1980 年代 — 显性教学原则提炼与普及** Barak Rosenshine 系统提炼出小步子示范、指导练习与即时反馈等 10 项显性教学原则，直接教学从专门补救课程扩展为通用[[Effective Teaching\|有效教学]][[Paradigm\|范式]]。
 > - **1990–2000 年代 — [[Cognitive Load Theory\|认知负荷理论]]支撑与 CSR 全校改革采纳** 认知负荷理论从[[Working Memory\|工作记忆]]局限性为显性指导提供认知[[Scientific Explanation\|科学解释]]；美国全面学校改革计划（Comprehensive School Reform, CSR）将 Direct Instruction 列为受联邦资助的标杆全校方案之一。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]]
 > - **2010 年代至今 — 可见学习综合、副作用反思与时序协同模型** Hattie（$d=0.59$）确立其教师激活地位；[[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 确立其在高阶[[Critical Thinking\|批判性思维]]中的显性混合模式；[[Argument_Zhao_2017_JEC\|Zhao (2017)]] 提出教育副作用理论；[[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] 系统反思直接教学绝对优越论，提出直接教学与[[Inquiry-Based Learning\|探究式学习]]的时序协同模型。
-> - **2016 年 — 宏观证据综合审计与[[Incommensurability|不可通约性]]批判** [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] 揭露 Hattie 二级综合中伪造标准误导致 Haas (2005) 直接教学权重被削减 53.5%，并提出“德甲联赛隐喻”，指出直接教学作为全学年宏观方案与瞬时微观实验不可[[Commensuration|通约]]，教师决策应聚焦于其与练习策略的最优组合而非机械非此即彼。
+> - **2016 年 — 宏观证据综合审计与[[Incommensurability|不可通约性]]批判** [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] 揭露 Hattie 二级综合中伪造标准误导致 Haas (2005) 直接教学权重被削减 53.5%，并提出“[[Category Mistake|德甲联赛隐喻]]”，指出直接教学作为全学年宏观方案与瞬时微观实验不可[[Commensuration|通约]]，教师决策应聚焦于其与练习策略的最优组合而非机械非此即彼。
 
 ---
 
@@ -283,7 +285,7 @@ updated: 2026-10-16
 > > - **认知负荷派（Sweller, Kirschner, Clark, Zhang）** 主张基于[[Working Memory\|工作记忆]]瓶颈，显性直接教学在任何科学教学领域都必须占据绝对主导地位。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 1–2)]]
 > > - **学习科学派（De Jong, Hmelo-Silver, Chinn）** 批驳直接教学绝对优越论，指出直接教学对于抽象概念理解与长效保持具有天然局限，必须将其作为支架有机嵌入探究进程。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 8–10)]]
 >
-> > [!axis] 宏观全学年教学方案 vs 微观瞬时实验干预的[[Incommensurability|不可通约性]]（德甲联赛隐喻）
+> > [!axis] 宏观全学年教学方案 vs 微观瞬时实验干预的[[Incommensurability|不可通约性]]（[[Category Mistake|德甲联赛隐喻]]）
 > > 争论直接教学能否与微观瞬时干预（如 1.5 小时的样例学习）在同一张[[Effect Size|效应量]]排行榜上直接比拼高下。
 > >
 > > - **宏观粗放排序派（Hattie, 2009）** 将直接教学（$d = 0.59$）与所有教学微观技术排在同一线性座次表上，宣扬跨情境普适效能。
@@ -345,4 +347,4 @@ updated: 2026-10-16
 > - [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] — 比较[[Australian Curriculum\|澳大利亚课程]]体系中显性教学与隐性期望对批判性思维的差异化影响。
 > - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 梳理 Direct Instruction 在联邦 CSR 计划与 [[Every Student Succeeds Act\|ESSA]] TIER 1 核心通用教学中的实证定位。
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统检视直接教学在科学教育中的适用边界，指出脱离探究练习的单一直接讲授无法保障长效保持与迁移，主张将直接教学适时嵌入探究全周期。
-> - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 系统审计 Hattie 直接教学元分析汇总，揭露 Haas (2005) [[Standard Error|标准误]]伪造导致权重缩水 53.5% 的计算缺陷，并提出德甲联赛隐喻论证全学年直接教学与瞬时实验的[[Incommensurability|不可通约性]]。
+> - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 系统审计 Hattie 直接教学元分析汇总，揭露 Haas (2005) [[Standard Error|标准误]]伪造导致权重缩水 53.5% 的计算缺陷，并提出[[Category Mistake|德甲联赛隐喻]]论证全学年直接教学与瞬时实验的[[Incommensurability|不可通约性]]。

@@ -46,6 +46,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[John Hattie]]"
+  - "[[Christof Wecker]]"
   - "[[Gene Glass]]"
 related_facts: []
 related_arguments:
@@ -122,7 +123,7 @@ updated: 2026-10-16
 > [!influence-path] 影响路径
 > - **方法路径** Cohen's $d$ 与统计功效理论重塑了社会科学实证研究设计，确立了事前规划[[Sample Size Determination|样本量]]以满足统计功效标准的规程，成为[[Meta-analysis|元分析]]中合并组间差异的核心度量指标。
 > - **政策与综述路径** 科恩的指标体系经由[[John Hattie|约翰·哈蒂]]的《[[Visible Learning|可见的学习]]》被二次包装为面向教育决策者的干预排序工具；哈蒂将 $d = 0.40$ 武断设为“期望发展[[Zone of Desired Effects|铰接点]]”，但实际上该数值与显著性检验的关系高度依赖样本量（例如以 $n=25$ 为例，$d \approx 0.412$ 方对应双侧 $t$ 检验的 $p \approx 0.05$ 临界点）。[[Argument_Allerup_2015_Paideia|(Allerup, 2015, p. 45)]]
-> - **跨测度混同批评** 韦克尔（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016, pp. 26–27]]）指出，在宏观证据综合中，研究者常常将科恩的 Cohen's $d$（合并标准差作除数）、[[Gene Glass|吉恩·格拉斯]]的 Glass's $\Delta$（对照组标准差作除数）与赫奇斯的 Hedges' $g$（小样本偏倚校正）在未作数学换算的情况下混杂合并；当方差不齐时，这种盲目合并直接导致[[Effect Size|效应量]]测度失真。
+> - **跨测度混同批评** [[Christof Wecker|韦克尔]]（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016, pp. 26–27]]）指出，在宏观证据综合中，研究者常常将科恩的 Cohen's $d$（合并标准差作除数）、[[Gene Glass|吉恩·格拉斯]]的 Glass's $\Delta$（对照组标准差作除数）与赫奇斯的 Hedges' $g$（小样本偏倚校正）在未作数学换算的情况下混杂合并；当方差不齐时，这种盲目合并直接导致[[Effect Size|效应量]]测度失真。
 
 ---
 
@@ -132,7 +133,7 @@ updated: 2026-10-16
 > - **指标对照者** [[Gene Glass|吉恩·格拉斯]]（Gene Glass） — 格拉斯于 1976 年提出 Glass's $\Delta$（以对照组标准差为除数，容许干预改变实验组方差）；科恩则提出 Cohen's $d$（假定方差齐性，采用合并标准差作除数），二者构成标准化[[Effect Size|效应量]]的两大经典流派。
 > - **修正继承者** 拉里·赫奇斯（Larry Hedges） — 赫奇斯指出 Cohen's $d$ 在小样本下存在轻度高估的系统偏倚，通过引入小样本校正因子 $J \approx 1 - \frac{3}{4(n_E+n_C)-9}$ 发展出无偏估计量 Hedges' $g$。
 > - **转译与误读代表** [[John Hattie|约翰·哈蒂]]（John Hattie） — 将 Cohen's $d$ 推广为全球教育政策畅销书的核心符号，但将其脱离[[Sample Size Determination|样本量]]与具体情境教条化为 0.40 的单一划分线，走向了科恩所反对的机械排序。
-> - **批判审视学者** 彼得·阿勒鲁普（Peter Allerup）、克里斯托夫·韦克尔（Christof Wecker）、埃瓦尔德·特哈特（Ewald Terhart） — 揭示科恩谨慎的经验参照在教育政策传播中被异化为神话的机制，批判跨指标混同导致的方法学缺陷。
+> - **批判审视学者** 彼得·阿勒鲁普（Peter Allerup）、[[Christof Wecker|克里斯托夫·韦克尔]]（Christof Wecker）、埃瓦尔德·特哈特（Ewald Terhart） — 揭示科恩谨慎的经验参照在教育政策传播中被异化为神话的机制，批判跨指标混同导致的方法学缺陷。
 
 ---
 

@@ -37,6 +37,7 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Constructivist Paradigm]]"
   - "[[Didaktik]]"
+  - "[[Category Mistake]]"
   - "[[Feedback]]"
 related_theories:
   - "[[Radical Constructivism]]"
@@ -128,7 +129,7 @@ citation_aliases:
 ## 主要发现
 
 > [!success] 主要发现
-> - VL 的理论基础存在系统性的哲学缺陷，这些缺陷不是经验方法论的细节问题，而是概念结构本身的范畴错误
+> - VL 的理论基础存在系统性的哲学缺陷，这些缺陷不是经验方法论的细节问题，而是概念结构本身的[[Category Mistake|范畴错误]]
 > - 五条批评链各自独立但相互关联，共同指向同一个结论：VL 的评价理论结构从前提上排除了教育作为一种有内容、有规范、有文化传统的实践
 > - Hattie 的全球影响力不能归因于其科学质量，而应从其评价理论结构满足了某种制度需求来解释（Rømer 通过 Nielsen & Klitmøller 的 Habermas 分析间接支持此观点, note 5/8）
 

@@ -96,6 +96,7 @@ related_persons:
   - "[[Michael Kratsios]]"
   - "[[Francis Bacon]]"
   - "[[Karl Popper]]"
+  - "[[Christof Wecker]]"
 related_facts:
   - "[[Office of Science and Technology Policy]]"
 related_arguments:
@@ -283,7 +284,7 @@ updated: 2026-10-16
 > - **20 世纪前半叶 — 逻辑实证主义鼎盛与波普尔[[Falsification|证伪主义]]确立** 维也纳学派追求完全经验证实，波普尔（[[Karl Popper]]）提出证伪主义标准，确立检验与潜在反驳的核心标尺。
 > - **20 世纪 60–80 年代 — 库恩[[Paradigm|范式]]革命与[[Interpretive Paradigm|反实证主义]]哲学高涨** 库恩揭示常规科学与范式转换的历史社会嵌入性，科学方法纯粹客观中立的神话被打破；诠释学派与[[Critical Theory|批判理论]]崛起。
 > - **2000s — [[Nature of Science|科学本质]]与[[Practical Epistemology|实践认识论]]转向** [[William A. Sandoval|桑多瓦尔]]（[[Argument_Sandoval_2005_SE|Sandoval, 2005]]）提出区分形式与实践认识论，揭示中小学将科学方法教条化为单一实验步骤对学生认识论发展的损害。
-> - **2016 — [[Evidence-Based Education|循证教育]]综合中的科学方法审查与中央证据库构想** 德语计量学界克里斯托夫·韦克尔（Christof Wecker）等人发表系统审查（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]），从公理模型推导六项方法论规范，确立数据基础、内部合规与外部认识论三层次批判框架，揭示宏观量化综合违背科学方法导致的排名失真，并提出建立中央标准化证据数据库作为科学方法制度性载体。
+> - **2016 — [[Evidence-Based Education|循证教育]]综合中的科学方法审查与中央证据库构想** 德语计量学界[[Christof Wecker|克里斯托夫·韦克尔]]（Christof Wecker）等人发表系统审查（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]），从公理模型推导六项方法论规范，确立数据基础、内部合规与外部认识论三层次批判框架，揭示宏观量化综合违背科学方法导致的排名失真，并提出建立中央标准化证据数据库作为科学方法制度性载体。
 > - **2018 — 学科家族相似性与微观[[Epistemic Practices|认识论实践]]确立** [[Argument_Kelly_Licona_2018_EpistemicPractices|Kelly and Licona (2018)]] 运用维特根斯坦家族相似性解构科学方法五步法神话，确立跨领域认识论实践矩阵。
 > - **2026 — 科学学反身实验与“金标准科学”评价转向** 白宫 [[Office of Science and Technology Policy|OSTP]]《科学：新黄金时代》报告（[[Argument_Kratsios_2026_OSTP|Kratsios, 2026]]）推动科学方法从哲学争鸣走向制度化反身实验——将因果实验、数据透明与可复现性应用于革新科研基金分配本身，并确立基于学术卓越的“金标准科学”评价原则。
 

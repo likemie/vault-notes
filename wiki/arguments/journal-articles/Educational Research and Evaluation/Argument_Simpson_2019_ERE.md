@@ -25,6 +25,7 @@ tags:
 related_concepts:
   - "[[Research Question]]"
   - "[[Visible Learning]]"
+  - "[[Category Mistake]]"
   - "[[Heterogeneity]]"
   - "[[Direct Instruction]]"
   - "[[Evidence-Based Education]]"
@@ -61,7 +62,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 理论框架
-> 本文不依赖于特定的理论框架，而是通过**思想实验（thought experiment）** 和**现实案例**进行概念分析和逻辑论证，揭示[[Effect Size\|效应量]]作为"教育有效性"代理指标的范畴错误（category error）。
+> 本文不依赖于特定的理论框架，而是通过**思想实验（thought experiment）** 和**现实案例**进行概念分析和逻辑论证，揭示[[Effect Size\|效应量]]作为"教育有效性"代理指标的[[Category Mistake|范畴错误]]（category error）。
 
 ## 研究方法
 
@@ -112,7 +113,7 @@ citation_aliases:
 > > “清晰的敌人是噪音——任何增加实验噪音的因素……都会降低效应量。”
 > ("The enemy of clarity being noise — anything which acts to increase the noise of an experiment... will decrease effect size.") (p.104)
 >
-> ### 4. 范畴错误的严重程度
+> ### 4. [[Category Mistake|范畴错误]]的严重程度
 >
 > 将效应量误认为教育影响力的测量是一个**范畴错误（category error）**，但范畴错误有轻重之分(p.105)：
 > - 按身高而非腿长选购裤子——**较小的范畴错误**（两者有相关性，偶尔能碰对）

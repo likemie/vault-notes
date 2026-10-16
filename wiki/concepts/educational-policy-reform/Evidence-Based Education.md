@@ -103,6 +103,7 @@ related_methods:
 related_persons:
   - "[[Grover Whitehurst]]"
   - "[[John Hattie]]"
+  - "[[Christof Wecker]]"
 related_facts:
   - "[[Every Student Succeeds Act]]"
   - "[[No Child Left Behind Act 2001]]"
@@ -470,7 +471,7 @@ Fitz-Gibbon 同时指出，Anderson and Biddle（1991）已观察到政策制定
 > [!tension] 改革与替代的理论与制度路径
 > - **内部方法学改革（从黑箱因果到[[Realist Evaluation\|现实主义试验]]与过程融合）** 接受 [[Randomised Controlled Trials\|RCT]] 作为因果识别基石，但深刻反思[[Business as Usual\|常态教学]]基线高企与商业干预微弱效应（平均 $d=0.06$）的方法学挑战：主张将量化试验与[[Implementation and Process Evaluation\|实施与过程评估]]（IPE）刚性绑定以区分实施失败与理论无效；倡导多臂[[Factorial Design\|析因设计]]与现实主义试验（Realist Trials）以探索因果中介机制；拓展研究[[School Choice\|学校选择]]（[[Quasi-Experimental Designs\|QED]]）与[[Teacher Choices\|教师选择]]微型试验以回应一线实践关切（[[Argument_Peterson_2016_IJRME\|Peterson, 2016]]；[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 53–57]]）。
 > - **[[Paradigm|范式]]替代（从 EBE 到 [[Evidence-Informed Practice\|EIP]]）** 将证据从决策核心降为信息来源之一，把能动性从政策端重新分配给教师和学习者。方向从“什么有效”转向“什么对谁有效、通过什么方式、在什么情境下”（[[Argument_Pampaka_2016_IJRME\|Pampaka et al., 2016]]）。
-> - **底层[[Data Infrastructure|数据基础设施]]重构（建立中央标准化证据数据库与初级数据直接综合）** 克里斯托夫·韦克尔（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016, pp. 33–34]]）指出，EBE 运动依赖商业期刊发表的孤立[[Meta-analysis|元分析]]与二级汇总，存在严重的[[Publication Bias|发表偏倚]]、方法学黑箱与数据不可复核性。真正的制度出路在于建立受公共资助、独立于商业利益的**中央初级研究与证据数据库（Zentrale evidenzbasierte Datenbank）**，收录完整的一级[[Effect Size|效应量]]原始统计参数；循证教育应终结对粗暴[[Meta-meta-analysis|二级元分析]]的依赖，转向基于中央数据池对初级研究进行的单级多水平直接综合（One-stage direct synthesis），从根本上消除文献重叠与假性精确。
+> - **底层[[Data Infrastructure|数据基础设施]]重构（建立中央标准化证据数据库与初级数据直接综合）** [[Christof Wecker|克里斯托夫·韦克尔]]（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016, pp. 33–34]]）指出，EBE 运动依赖商业期刊发表的孤立[[Meta-analysis|元分析]]与二级汇总，存在严重的[[Publication Bias|发表偏倚]]、方法学黑箱与数据不可复核性。真正的制度出路在于建立受公共资助、独立于商业利益的**中央初级研究与证据数据库（Zentrale evidenzbasierte Datenbank）**，收录完整的一级[[Effect Size|效应量]]原始统计参数；循证教育应终结对粗暴[[Meta-meta-analysis|二级元分析]]的依赖，转向基于中央数据池对初级研究进行的单级多水平直接综合（One-stage direct synthesis），从根本上消除文献重叠与假性精确。
 
 > [!implication] 整合方向
 > 以实在论因果命题为出发点，运用[[Mixed Methods Research\|混合方法]]进行多方法跨情境验证，教师的[[Professional Judgment\|专业判断]]从证据的被动接受者上升为共同生产者（[[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019]]；[[Argument_Nelson_2017_EducRes\|Nelson & Campbell, 2017]]）。

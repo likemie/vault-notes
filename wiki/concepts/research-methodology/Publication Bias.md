@@ -8,7 +8,7 @@ aliases:
 summary: "正面或显著结果比零结果或负面结果更可能被发表或传播的系统性倾向，导致已发表文献库系统性高估干预的真实有效性；元分析中常结合漏斗图、Egger检验、剪补法与失安全数进行综合诊断与稳健性校正"
 type: concept
 domain: "research-methodology"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -54,7 +54,8 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Correlational Research]]"
-related_persons: []
+related_persons:
+  - "[[Christof Wecker]]"
 related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Creation of REES]]"
@@ -167,7 +168,7 @@ updated: 2026-10-16
 > [!concept-lens] 基础设施解耦与一级全量数据归档
 > 探讨商业学术出版的篇幅与显著性筛选如何导致元数据剥离与偏倚放大，以及中央标准化[[Data Infrastructure|数据基础设施]]如何重塑证据合成[[Paradigm|范式]]。
 
-> [!claim] Wecker, C., et al.
+> [!claim] [[Christof Wecker|Wecker, C.]], et al.
 > **商业出版扭曲与全量证据数据基础设施** 商业学术期刊出于篇幅限制常强制删减主要研究的基础统计数据（如实验组与对照组[[Sample Size Determination|样本量]] $n_E, n_C$、标准差 $s_E, s_C$），且因偏好显著正向结果而系统性拒收零效应研究；以 Hattie 为代表的“二阶[[Meta-meta-analysis|元元分析]]”直接抓取各商业期刊发表的一阶元分析进行简单二次汇总，不仅无法消除发表偏倚，反而使抽屉效应与数学估算误差在层级综合中被复合放大。解决该问题的根本出路在于将实证结果归档与商业期刊出版彻底解耦，由学术界建立跨机构的中央开放[[Data Infrastructure|数据基础设施]]（Zentrale Datenbank），强制无条件收集所有经资助实证研究的方法、原始数据矩阵与标准化[[Effect Size|效应量]]（统一采用 Hedges' $g$）；同时在学术评价制度中将数据存缴认定为“适合成果清单的学术产品”（Publikationslisten），从而阻断文件抽屉效应，推动[[Evidence-Based Education|循证教育]]走向动态、透明的一阶元分析。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 34–36)]]
 
 ---

@@ -29,6 +29,7 @@ related_concepts:
   - "[[Publication Bias]]"
   - "[[Internal and External Generalizability]]"
   - "[[Sampling Error]]"
+  - "[[Category Mistake]]"
   - "[[Commensuration]]"
   - "[[Direct Instruction]]"
   - "[[Construct]]"
@@ -66,6 +67,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Gene Glass]]"
+  - "[[Christof Wecker]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Higgins_2016_ROE]]"
@@ -190,7 +192,7 @@ updated: 2026-10-16
 
 ## 认识论危机与双重不可行性困境（Wecker et al., 2016）
 
-在教育科学与[[Meta-meta-analysis|二阶元分析]]的宏观实践中，克里斯托夫·韦克尔（Christof Wecker）等人深入剖析了随机效应模型在面对现实数据时遭遇的“双重不可行性困境”：
+在教育科学与[[Meta-meta-analysis|二阶元分析]]的宏观实践中，[[Christof Wecker|克里斯托夫·韦克尔]]（Christof Wecker）等人深入剖析了随机效应模型在面对现实数据时遭遇的“双重不可行性困境”：
 
 > [!contrast-table] 一级与二级统计建模的双重不可行性困境（Double Infeasibility Dilemma）
 > | 分析层级 | 经验与理论现实 | 统计建模困境 | 导致后果与推论崩溃 |
@@ -198,7 +200,7 @@ updated: 2026-10-16
 > | **一级主要研究层** | 教学主题、教师个人风格与学校社会文化情境高度异质，真实[[Effect Size\|效应量]]变异极大。 | [[Fixed-Effect Model\|固定效应模型]]关于单一恒定真实效应的公理假定完全破产。 | 必须采用随机效应模型；若强用固定模型，标准误严重低估，假阳性膨胀。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 31–32)]] |
 > | **二级[[Meta-analysis\|元分析]]层** | 继承了一级异质性，数学上必须在二级层面采用随机效应模型估计 $\tau^2$。 | 每个影响因素平均仅收录约 5.8 项元分析（$800/138$），样本量过小导致参数估计无法收敛。 | 样本量过小使 $\tau^2$ 估计崩溃，宏观二级统计推断失去立足之基。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 32–33)]] |
 
-> [!critique-logic] 单一均值抹平教学情境与德甲联赛范畴错误
+> [!critique-logic] 单一均值抹平教学情境与德甲联赛[[Category Mistake|范畴错误]]
 > - **情境[[Heterogeneity|异质性]]抹平危机** 以 Fisher (1992, p. 175) 游戏元分析为例，社会[[Role-playing|角色扮演]]游戏效应高达 $d = 1.48$，纯想象主题游戏仅为 $d = 0.28$。随机效应模型虽然在数学上容纳了方差，但其最终输出的单一均值 $0.74$ 仍将具体实践机制抹平，使一线教师无法判断哪种具体形式有效。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 30–31)]]
 > - **跨本体范畴的强行比较** 德甲联赛隐喻表明，教育因素跨越了制度框架条件、个体心理特征、综合教学方案与微观设计变体四大基线不可[[Commensuration|通约]]的本体范畴。随机效应模型可以平衡统计权重，但无法消除将微观 1.5 小时实验（如样例学习）与宏观全年改革（[[Direct Instruction|直接教学]]）放在同一排行榜上的范畴错误。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 33–34)]]
 

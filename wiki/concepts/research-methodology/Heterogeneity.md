@@ -36,19 +36,22 @@ related_concepts:
   - "[[Executive Function]]"
   - "[[Inhibitory Control]]"
   - "[[Ecological Validity]]"
+  - "[[Commensuration]]"
+  - "[[Incommensurability]]"
+  - "[[Direct Instruction]]"
+  - "[[Category Mistake]]"
   - "[[Teaching Assistant]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Epistemology]]"
   - "[[Knowledge Transfer]]"
   - "[[Knowledge Mediation]]"
   - "[[Output-Oriented Governance]]"
-  - "[[Direct Instruction]]"
   - "[[Academic Achievement]]"
+  - "[[Visible Learning]]"
   - "[[Emergence]]"
   - "[[Positivism]]"
   - "[[Scientific Literacy]]"
   - "[[Research Question]]"
-  - "[[Visible Learning]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Unit of Analysis]]"
 related_theories:
@@ -77,9 +80,10 @@ related_methods:
   - "[[Correlational Research]]"
   - "[[Systematic Review]]"
 related_persons:
+  - "[[Christof Wecker]]"
+  - "[[John Hattie]]"
   - "[[Karl Pearson]]"
   - "[[Gene Glass]]"
-  - "[[John Hattie]]"
 related_arguments:
   - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
@@ -145,7 +149,7 @@ updated: 2026-10-16
 > - **[[Epistemic Governance|知识治理]]网络中的主体内外部异质性与多源数据整合** 教育知识生态并非均质主体构成的机械流水线；研究者、政策制定者与实践教师三方群体各自内部高度分化（Internal heterogeneity），且各群体之间在[[Discourse|话语]]体系、时间周期与[[Epistemic Ideals|认识论标准]]上存在深刻的外部异质性（External heterogeneity）（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 60–61]]）。在跨国元中介治理层面，证据综合亦面临从单一量化 [[Randomised Controlled Trials|RCT]] 试验拓展至融合量化[[Effect Size|效应量]]、质性个案[[Rich and Thick Description|深描]]与情境[[Variable|变量]]等多源异质数据（Heterogeneous data sources）综合的前沿方法学突破（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 66]]）。
 > - **干预[[Construct|构念]]子维度与学习者群体异质性（Construct & Population Heterogeneity）** 在教学实验与大规模测评中，异质性不仅存在于研究之间，更深刻存在于干预构念内部与学习者认知特征之中。其一为干预构念子维度异质性（Construct Heterogeneity），如[[Inquiry-Based Learning|探究式教学]]涵盖多种具体活动，实证表明实验设计与数据推论正向预测科学表现，而泛化无准备的[[Classroom Debate|课堂辩论]]则呈负向关联（Cairns, 2019; [[Argument_DeJong_2023_ERR|De Jong et al., 2023, p. 5]]），将其笼统打包会抹杀内部截然相反的子维度效应；其二为学习者认知背景异质性（Learner Heterogeneity），教学干预效能高度受制于学习者的先前知识水平（专业知识逆转效应；Kalyuga et al., 2003）与[[Executive Function|执行功能]][[Inhibitory Control|抑制控制]]能力（Kwon & Lawson, 2000; [[Argument_DeJong_2023_ERR|De Jong et al., 2023, pp. 7–8]]），彰显因材施教（ATI）的决定性意义。
 > - **[[Meta-meta-analysis|二阶元分析]]均质化失真与多变量[[Ecological Validity|生态效度]]（Second-Order Homogenization & Ecological Validity）** 在二阶综合中，若忽视原始研究间的[[Sample Size Determination|样本量]]权重，实施无权简单算术平均，会抹杀不同学段的实质性效应差异（如[[Homework|家庭作业]]小学与高中效果悬殊）；同时若强行截取非线性关系的平缓尾部，则会制造虚假的均质化结论。在多变量真实课堂中，情境异质性是生态效度的核心基石，物理学排除变量的控制[[Paradigm|范式]]在教育中无法成立。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 25–27, 32–33, 35–36)]]
-> - **教学干预性质与时长剂量的不可通约异质性（Intervention Incommensurability & Duration Heterogeneity）** 教育研究中的教学干预绝非可在单一连续标尺上线性比对的均质实体。克里斯托夫·韦克尔（Christof Wecker）等人指出，将计算机辅助教学、网络学习、直接教学等异质性极强的教学法置于统一的“排行榜”上，如同将德甲足球联赛积分榜机械套用于教学法比较，犯下了不可通约性的范畴错误（Kategoriefehler）；同时干预时长跨越单次 20 分钟实验到长达 4 个月的学期课程，忽略时间剂量异质性而强行平均，彻底抹杀了效应量随时间累积或衰减的非线性特征。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 31–33)]]
+> - **教学干预性质与时长剂量的不可[[Commensuration|通约]]异质性（Intervention [[Incommensurability]] & Duration Heterogeneity）** 教育研究中的教学干预绝非可在单一连续标尺上线性比对的均质实体。[[Christof Wecker|克里斯托夫·韦克尔]]（Christof Wecker）等人指出，将计算机辅助教学、网络学习、[[Direct Instruction|直接教学]]等异质性极强的教学法置于统一的“排行榜”上，如同将德甲足球联赛积分榜机械套用于教学法比较，犯下了不可通约性的[[Category Mistake|范畴错误]]（Kategoriefehler）；同时干预时长跨越单次 20 分钟实验到长达 4 个月的学期课程，忽略时间剂量异质性而强行平均，彻底抹杀了效应量随时间累积或衰减的非线性特征。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 31–33)]]
 
 > [!logic-map]- 教育异质性层级与聚合失真分析模型
 > ```mermaid
@@ -248,7 +252,7 @@ updated: 2026-10-16
 > 剖析宏观证据综合在面对教育干预客观异质性时，如何在模型理论假设与样本量现实之间陷入无法调和的系统性困境。
 
 > [!claim] Wecker et al.
-> **二阶综合在异质性面前的模型双重瘫痪** 二级元分析在处理异质性上面临不可克服的技术死结：一方面，哈蒂声称采用的[[Fixed-Effect Model|固定效应模型]]建立在各纳入元分析共享同一个恒定真实效应（即假定研究间异质性 $\tau^2 = 0$）的假定之上，而教育干预在目标、学段与时长上的巨大差异必然导致显著的异质性，同质性假设在经验现实中彻底破产；另一方面，若改用能够容纳真实异质性的[[Random-Effects Model|随机效应模型]]，由于二阶综合收录的研究极为稀少（《可见的学习》每个影响因素平均仅包含约 5.8 项一阶元分析），在如此微小的样本量下，研究间真实方差 $\tau^2$ 根本无法可靠估计（自由度极低、标准误极大且极易收敛失败）。这一双重失配证明，宏观二级元分析在统计学原理上无法稳健应对教育实践的真实异质性。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–25, 32–33)]]
+> **二阶综合在异质性面前的模型双重瘫痪** 二级元分析在处理异质性上面临不可克服的技术死结：一方面，[[John Hattie|哈蒂]]声称采用的[[Fixed-Effect Model|固定效应模型]]建立在各纳入元分析共享同一个恒定真实效应（即假定研究间异质性 $\tau^2 = 0$）的假定之上，而教育干预在目标、学段与时长上的巨大差异必然导致显著的异质性，同质性假设在经验现实中彻底破产；另一方面，若改用能够容纳真实异质性的[[Random-Effects Model|随机效应模型]]，由于二阶综合收录的研究极为稀少（《[[Visible Learning|可见的学习]]》每个影响因素平均仅包含约 5.8 项一阶元分析），在如此微小的样本量下，[[Between-Study Variance|研究间真实方差]] $\tau^2$ 根本无法可靠估计（自由度极低、[[Standard Error|标准误]]极大且极易收敛失败）。这一双重失配证明，宏观二级元分析在统计学原理上无法稳健应对教育实践的真实异质性。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–25, 32–33)]]
 
 ---
 
@@ -263,7 +267,7 @@ updated: 2026-10-16
 > | **复杂系统公理与网络异质** | 异质性是复杂社会系统基石；行动者内外部异质性瓦解线性推送，呼唤关系型中介与多源数据整合 | 开放系统、[[Emergence\|涌现]]共生、内外部异质网络跨越、多源异质数据综合 | [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]]; [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] |
 > | **干预与认知异质** | 教学干预构念子维度与学习者认知背景异质性共同决定干预效能边界与最优平衡点 | 构念维度解构、适资因材交互（ATI）、先前知识逆转、执行功能抑制控制调节 | Cairns (2019); Kwon and Lawson (2000); [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] |
 > | **数学清洗与生态效度批判** | 无权算术平均与非线性曲线尾部截取强行平抑亚组异质性，强搬物理受控范式摧毁多变量课堂生态效度 | 无权算术平均数理拆解、非线性曲线尾部截取辨析、多变量课堂生态效度论证 | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]; Phillips (2014); Eisner (1983) |
-> | **二阶建模两难死结** | 二阶元分析深陷固定效应同质性破产与随机效应微小样本量瘫痪的双重模型失配 | 方差分解死结、小样本 Tau² 估计失效、德甲联赛范畴错误批判 | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] |
+> | **二阶建模两难死结** | 二阶元分析深陷固定效应同质性破产与随机效应微小样本量瘫痪的双重模型失配 | 方差分解死结、小样本 Tau² 估计失效、德甲联赛[[Category Mistake\|范畴错误]]批判 | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] |
 
 ---
 
@@ -274,7 +278,7 @@ updated: 2026-10-16
 > - **1970s–1980s — [[Meta-analysis|元分析]]确立与初衷警示** 格拉斯（[[Gene Glass]]）开创元分析方法，但明确警告其最终呈现绝不应只是一个冰冷的平均数，而应是一张展示效果异质性与变异模式的分布图。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 9)]]
 > - **1990s — [[Grand Theory|宏大理论]]批判与医学统计反思** 莱德（Layder, 1994）与默顿（Merton）等批判宏大叙事无视世界的流动与异质性；流行病学家 Feinstein（1995）指斥脱离临床异质性的元分析为 21 世纪统计炼金术。
 > - **2000s — 测量学批评与[[Realist Evaluation|实在论综合]]** Coe（2002）指出将不同测量工具的[[Effect Size|效应量]]强行平均在数学上缺乏意义；Pawson（2006）确立背景—机制—结果的[[Realist Evaluation|实在论评估]][[Paradigm|范式]]，主张将异质性作为理论生成源泉。
-> - **2016 — 二阶元分析异质性双重失配与范畴错误批判** 克里斯托夫·韦克尔（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）从代数与实证双重视角揭露二阶元分析在异质性面前的结构性破产：固定效应模型同质性假设在真实课堂中完全失效，而二级研究间方差 $\tau^2$ 因一阶元分析样本量过小（平均仅 5.8 项）根本无法可靠估计；指出将异质教学法置于单一有效性排行榜犯下了德甲联赛式的范畴错误。
+> - **2016 — [[Meta-meta-analysis|二阶元分析]]异质性双重失配与[[Category Mistake|范畴错误]]批判** [[Christof Wecker|克里斯托夫·韦克尔]]（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）从代数与实证双重视角揭露二阶元分析在异质性面前的结构性破产：[[Fixed-Effect Model|固定效应模型]]同质性假设在真实课堂中完全失效，而二级[[Between-Study Variance|研究间方差]] $\tau^2$ 因一阶元分析[[Sample Size Determination|样本量]]过小（平均仅 5.8 项）根本无法可靠估计；指出将异质教学法置于单一有效性排行榜犯下了德甲联赛式的范畴错误。
 > - **2010s — [[Mixed Methods Research|混合方法]]与复杂性前沿转向** Cohen, Manion and Morrison（2011）系统论证混合方法如何以质性证据破解单一统计量掩盖的解释异质性，并确立[[Complexity Theory|复杂性理论]]中异质性是核心关切的方法论[[Pluralism|多元主义]]原则。
 > - **2022 — [[Epistemic Governance|知识治理]]与多源异质性建构** [[OECD|经合组织]]（[[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022]]）揭示教育知识生态中研究者、政策制定者与教师群体各具内部异质性与外部异质性，瓦解了线性单向推送模型；并在跨国元中介治理框架下，确立了将质性、量化及本土情境等多源异质数据纳入系统性综合的前沿方法学议程。
 > - **2023 — 教学[[Construct|构念]]维度与微观认知异质性整合** [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] 基于国际大规模测评与认知负荷实证证据，解构了[[Inquiry-Based Learning|探究式教学]]的子维度异质性（动手实验促进表现 vs 盲目辩论损害表现）及学习者认知特征异质性（先前知识逆转效应、[[Executive Function|执行功能]][[Inhibitory Control|抑制控制]]），确立了教学干预与学习者特征的适资交互（ATI）边界。
@@ -314,7 +318,7 @@ updated: 2026-10-16
 > | **Kwon and Lawson (2000) 科学教学研究** | 中学生科学推理与概念转变追踪实验 | 学习者[[Executive Function\|执行功能]]（抑制控制）与科学探究收益 | 抑制控制能力异质性独立解释：<br>• **29%** 的科学探究技能方差<br>• **28%** 的科学概念转变方差 | 证实学习者微观认知执行功能的群体异质性是决定探究教学效能的关键心理基础。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, p. 8)]] |
 > | **[[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] 评估 [[Education Endowment Foundation\|EEF]] 工具包** | 英国万千学校参与的[[Teaching Assistant\|教学助理]]（TA）干预项目 | 教学助理介入对学生学业进步的量化效应评级 | 工具包给出“0 个月进展、高成本”标签，抹平了“TA 与主讲教师缺乏备课沟通导致误用”的关键情境异质性 | 证实去情境化的粗暴元分析聚合会清洗掉真正的实践改进线索并诱发政策误读。[[Argument_Wrigley_2018_BERJ\|(Wrigley, 2018, p. 12)]] |
 > | **[[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] 批判核查《可见学习》** | 5 项[[Homework\|家庭作业]]元分析（涵盖 161 项研究与 10 万+ 学生）与[[Class Size\|班级规模]]元分析 | 二阶算术平均与非线性曲线截尾失真 | • 家庭作业无权简单平均：$d=(0.36+0.21+0.39+0.21+0.28)/5=0.29$<br>• 严重抹杀学段异质性：高中 $d=0.64$ vs 小学 $d=0.15$<br>• Glass and Smith (1979) 曲线显示 40 人至 1 人班级学业差距超 **30 个百分位**，被截尾矮化为 $d=0.09$ | 实证确证不加权简单平均与局部平缓尾部截取会人为清洗掉具有关键实践指导价值的亚组异质性与非线性关系。[[Argument_Johnson_2023_CritEduc\|(Johnson & Janzen, 2023, pp. 25–27, 32–33)]] |
-> | **[[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] 重析《可见学习》** | 网络学习（Web-based instruction）与直接教学二阶聚合审计 | 受试人群跨度（医学生 vs 中小学生）与干预时长（20 分钟至 4 个月）极端异质性 | 抹杀时长与受试对象异质性；经去重与加权重新核算后，网络学习效应量从 $d=0.33$ 断崖式暴跌至 $d=-0.03$，有效性排行榜跌落 **72 位** | 证实无视不可通约干预异质性与微小样本量下 $\tau^2$ 估计瘫痪，会导致宏观排行榜彻底失真。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 29–33)]] |
+> | **[[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] 重析《可见学习》** | 网络学习（Web-based instruction）与[[Direct Instruction\|直接教学]]二阶聚合审计 | 受试人群跨度（医学生 vs 中小学生）与干预时长（20 分钟至 4 个月）极端异质性 | 抹杀时长与受试对象异质性；经去重与加权重新核算后，网络学习效应量从 $d=0.33$ 断崖式暴跌至 $d=-0.03$，有效性排行榜跌落 **72 位** | 证实无视不可通约干预异质性与微小样本量下 $\tau^2$ 估计瘫痪，会导致宏观排行榜彻底失真。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 29–33)]] |
 
 ---
 
@@ -325,8 +329,8 @@ updated: 2026-10-16
 >
 > *Mixed methods research addresses both the 'what' and 'how or why' types of research questions... For example, let us say that the researcher has found that a hundred people decide that schools are like prisons... Here the reasons given for the simple statistic are very different from each other, and it is here that qualitative data can shed a lot of useful light on a simple statistic.*
 
-> [!citation-card] 教学法横向排名的“德甲联赛”范畴错误
-> 将极其异质的教学法排在同一张有效性排行榜上，犯下了严重的范畴错误。这就像将德甲联赛积分榜机械搬运到教学研究中：直接教学与网络学习的教学目标、受试群体与干预时长完全不可通约。将 20 分钟的瞬时记忆实验与长达数月的完整课程效应量直接相加平均并进行高低排位，抹杀了教学实践的核心异质性特征。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 31–33)]]
+> [!citation-card] 教学法横向排名的“德甲联赛”[[Category Mistake|范畴错误]]
+> 将极其异质的教学法排在同一张有效性排行榜上，犯下了严重的范畴错误。这就像将德甲联赛积分榜机械搬运到教学研究中：[[Direct Instruction|直接教学]]与网络学习的教学目标、受试群体与干预时长完全不可[[Commensuration|通约]]。将 20 分钟的瞬时记忆实验与长达数月的完整课程[[Effect Size|效应量]]直接相加平均并进行高低排位，抹杀了教学实践的核心异质性特征。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 31–33)]]
 >
 > *Dass solche heterogenen Interventionen wie computergestützter Unterricht und direkte Instruktion in einer einzigen Rangliste wie in der Fußball-Bundesliga verglichen werden, beruht auf einem Kategorienfehler.*
 
@@ -351,7 +355,7 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — [[Systematic Review|系统综述]]基于 [[PISA]] 2015 及[[Cognitive Load Theory|认知负荷理论]]的实证文献，论证了探究教学中[[Construct|构念]]子维度异质性（实验设计 vs 课堂争论）与学习者认知群体异质性（先前知识逆转、[[Executive Function|执行功能]][[Inhibitory Control|抑制控制]]）对教学干预效能边界的决定性作用。
-> - [[Argument_Wecker_2016_ZfE|Wecker, Hetmanek & Fischer (2016)]] — 系统解构《[[Visible Learning|可见的学习]]》在应对教育真实异质性时的模型双重失配（固定效应同质性假定破产 vs 二级随机效应微小样本量下 $\tau^2$ 估计瘫痪），揭示教学法排名的德甲联赛式范畴错误与干预时长剂量异质性扭曲。
+> - [[Argument_Wecker_2016_ZfE|Wecker, Hetmanek & Fischer (2016)]] — 系统解构《[[Visible Learning|可见的学习]]》在应对教育真实异质性时的模型双重失配（[[Fixed-Effect Model|固定效应]]同质性假定破产 vs 二级[[Random-Effects Model|随机效应]]微小[[Sample Size Determination|样本量]]下 $\tau^2$ 估计瘫痪），揭示教学法排名的德甲联赛式[[Category Mistake|范畴错误]]与干预时长剂量异质性扭曲。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1, pp. 11, 23, 32)]] — 提出学校像监狱 100 人质性归因案例，论证单一统计指标对解释异质性的遮蔽，并阐明[[Complexity Theory|复杂性理论]]中异质性作为多重视角与多元[[Paradigm|范式]]倡导的核心公理。
 > - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 系统阐述[[Meta-analysis|元分析]]中异质性检验的统计学机制（Q、I²、固定/[[Random-Effects Model|随机效应模型]]）及[[Moderator Analysis|调节变量分析]]的理论价值。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 对比分析英国 [[Education Endowment Foundation|EEF]] 工具包中的反馈与[[Teaching Assistant|教学助理]]项目，解构多级统计聚合抹杀教学情境异质性带来的政策风险。

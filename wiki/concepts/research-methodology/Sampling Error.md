@@ -54,6 +54,7 @@ related_methods:
   - "[[Small Study Effects]]"
   - "[[Correlational Research]]"
 related_persons:
+  - "[[Christof Wecker]]"
   - "[[John Hattie]]"
   - "[[Gene Glass]]"
 related_facts: []
@@ -148,7 +149,7 @@ updated: 2026-10-16
 > 探讨[[Meta-analysis|元分析]]中将真实情境[[Heterogeneity|异质性]]降格为抽样误差所引发的推断失真。
 
 > [!claim] Higgins; Wecker et al.
-> **[[Fixed-Effect Model|固定效应]]同质性假设与异质性降格批判** [[Fixed-Effect Model|固定效应模型]]假定所有纳入研究均在估计同一个永恒不变的真实参数，所有研究间观察到的离散纯粹是由有限样本的抽样误差（$v_i$）引起的。然而克里斯托夫·韦克尔（Christof Wecker）等人指出，在复杂教育研究中，受试学生学段、教师素养、教学时长与组织情境千差万别，必然存在显著的[[Between-Study Variance|研究间真实方差]]（$\tau^2 > 0$）。强行假定所有变异皆属抽样误差，会导致合并估计量的[[Confidence Interval|置信区间]]严重虚假收窄，向外推论的超总体效度彻底破产。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–25)]]; [[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 39)]]
+> **[[Fixed-Effect Model|固定效应]]同质性假设与异质性降格批判** [[Fixed-Effect Model|固定效应模型]]假定所有纳入研究均在估计同一个永恒不变的真实参数，所有研究间观察到的离散纯粹是由有限样本的抽样误差（$v_i$）引起的。然而[[Christof Wecker|克里斯托夫·韦克尔]]（Christof Wecker）等人指出，在复杂教育研究中，受试学生学段、教师素养、教学时长与组织情境千差万别，必然存在显著的[[Between-Study Variance|研究间真实方差]]（$\tau^2 > 0$）。强行假定所有变异皆属抽样误差，会导致合并估计量的[[Confidence Interval|置信区间]]严重虚假收窄，向外推论的超总体效度彻底破产。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–25)]]; [[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 39)]]
 
 ---
 
@@ -191,7 +192,7 @@ updated: 2026-10-16
 > - **1908 — 小样本抽样理论突破** 戈塞特（“Student”）发表 $t$ 分布，明确区分总体标准差 $\sigma$ 与小样本估算的[[Standard Error|标准误]]，确立小样本抽样误差的精准推断边界。
 > - **1976 — [[Meta-analysis|元分析]]中的抽样误差[[Inverse-Variance Weighting|逆方差加权]]** 罗森塔尔（Rosenthal）与格拉斯（[[Gene Glass]]）将抽样误差形式化为单项研究方差（$v_i$），并引入以逆方差（$w_i = 1/v_i$）赋权的最优加权方案，奠定现代证据合成基石。
 > - **2011 — 教育研究抽样误差体系的系统梳理** Cohen, Manion and Morrison（2011, Ch. 8）系统规范了教育调查中均值标准误、分类比例标准误、有限总体校正及 30/80 例样本规模边际收益递减法则。
-> - **2016 — 二级证据综合中抽样误差失效与除数事故的法医式审计** 克里斯托夫·韦克尔（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）系统证明两级元分析成立依赖于原始研究独立的充要条件；揭露 93% 文献重叠导致抽样误差被严重低估的假性精确机制，并实证诊断出将标准误代替标准差计算[[Effect Size|效应量]]导致数值暴增近十倍的重大计量事故。
+> - **2016 — 二级证据综合中抽样误差失效与除数事故的法医式审计** [[Christof Wecker|克里斯托夫·韦克尔]]（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）系统证明两级元分析成立依赖于原始研究独立的充要条件；揭露 93% 文献重叠导致抽样误差被严重低估的假性精确机制，并实证诊断出将标准误代替标准差计算[[Effect Size|效应量]]导致数值暴增近十倍的重大计量事故。
 
 ---
 

@@ -30,6 +30,7 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Reflexivity]]"
   - "[[Evidence-Based Education]]"
+  - "[[Category Mistake]]"
   - "[[Tracking]]"
   - "[[Emergence]]"
 related_theories:
@@ -78,7 +79,7 @@ citation_aliases:
 ## 核心论证
 
 > [!example] 核心论证
-> 1. **[[Evidence-Based Education\|EBE]] 的极端立场均不可成立** 既不能主张只有 [[Randomised Controlled Trials\|RCT]] 证据才能被严肃对待，也不能主张 EBE 整个构想是范畴错误。必须在此两极之间寻找更细致的位置。
+> 1. **[[Evidence-Based Education\|EBE]] 的极端立场均不可成立** 既不能主张只有 [[Randomised Controlled Trials\|RCT]] 证据才能被严肃对待，也不能主张 EBE 整个构想是[[Category Mistake|范畴错误]]。必须在此两极之间寻找更细致的位置。
 >
 > 2. **"什么有效"是错误的问题** 因为几乎任何事情在某个地方都有效，但没有事情在所有地方都有效。正确的问题是"在什么条件下，这个干预有效？"(p.11)
 >

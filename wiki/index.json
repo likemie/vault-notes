@@ -3372,6 +3372,18 @@
     ]
   },
   {
+    "title": "Category Mistake",
+    "type": "concept",
+    "path": "wiki/concepts/educational-philosophy/Category Mistake.md",
+    "aliases": [
+      "范畴错误",
+      "范畴谬误",
+      "Category Error",
+      "德甲联赛隐喻",
+      "Bundesliga Metaphor"
+    ]
+  },
+  {
     "title": "Causal Over-determination",
     "type": "concept",
     "path": "wiki/concepts/educational-philosophy/Causal Over-determination.md",
@@ -23153,6 +23165,16 @@
     "aliases": [
       "Thompson, C.",
       "克里斯蒂安妮·汤普森"
+    ]
+  },
+  {
+    "title": "Christof Wecker",
+    "type": "person",
+    "path": "wiki/persons/germany/Christof Wecker.md",
+    "aliases": [
+      "克里斯托夫·韦克尔",
+      "韦克尔",
+      "Wecker, C."
     ]
   },
   {

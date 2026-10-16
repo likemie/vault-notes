@@ -11,7 +11,7 @@ summary: "在元分析与证据合成中，将不同实证设计所报告的效�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 17
+method_related_count: 22
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -27,7 +27,13 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Sampling Error]]"
   - "[[Dependent Variable]]"
+  - "[[Concept Mapping]]"
+  - "[[Visible Learning]]"
+  - "[[Commensuration]]"
+  - "[[Direct Instruction]]"
   - "[[Floor and Ceiling Effects]]"
+  - "[[Primary and Secondary Documents]]"
+  - "[[Category Mistake]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
@@ -38,8 +44,13 @@ related_methods:
   - "[[Standard Error]]"
   - "[[Inverse-Variance Weighting]]"
   - "[[Robust Variance Estimation]]"
+related_persons:
+  - "[[Gene Glass]]"
+  - "[[Jacob Cohen]]"
+  - "[[John Hattie]]"
 related_arguments:
   - "[[Argument_Runco_2026_CRJ]]"
+  - "[[Argument_Wecker_2016_ZfE]]"
 confidence: high
 status: draft
 created: 2026-08-24
@@ -194,11 +205,75 @@ updated: 2026-10-16
 
 ---
 
+### 5. 三大均值差测度（Glass' $\Delta$、Cohen's $d$ 与 Hedges' $g$）的分母辨析与统一换算
+
+> [!formula-step] 公式步骤　三大组间均值差指标的分母设定与换算
+> $$\text{Glass' } \Delta = \frac{\bar{X}_1 - \bar{X}_2}{S_2}, \quad \text{Cohen's } d = \frac{\bar{X}_1 - \bar{X}_2}{S_{\text{pooled}}}, \quad \text{Hedges' } g = J(df) \times d$$
+> $$S_{\text{pooled}} = \sqrt{\frac{(n_1 - 1)S_1^2 + (n_2 - 1)S_2^2}{n_1 + n_2 - 2}}, \quad d = \Delta \times \frac{S_2}{S_{\text{pooled}}}$$
+>
+> **这个公式在做什么** 厘清元分析中三类标准化均值差指标对总体方差假设的本质差异，纠正跨研究提取时混用除数所导致的数值扭曲。
+>
+> **推导过程与数学原理**
+> 1. **[[Gene Glass|吉恩·格拉斯]]（Gene Glass）的 Glass' $\Delta$** 完全依赖对照组样本标准差 $S_2$（Control Group SD）作为除数。当干预措施可能改变实验组方差、或两组方差齐性假定被严重违背时，Glass' $\Delta$ 是无偏稳健的，但由于舍弃了实验组方差信息，其抽样方差较大。
+> 2. **[[Jacob Cohen|雅各布·科恩]]（Jacob Cohen）的 Cohen's $d$** 假定两组总体方差齐性（$\sigma_1^2 = \sigma_2^2$），采用合并加权标准差 $S_{\text{pooled}}$ 作为除数，充分利用了两组样本信息以提高估计精度。
+> 3. **拉里·赫奇斯（Larry Hedges）的 Hedges' $g$** 在 Cohen's $d$ 基础上引入伽马函数近似纠偏因子 $J(df) \approx 1 - \frac{3}{4(n_1+n_2)-9}$，消除了小样本条件下的正向高估偏倚。
+>
+> **方法学失范与警示案例**
+> [[Argument_Wecker_2016_ZfE|Wecker et al. (2016, pp. 26–27)]] 指出，未经核算与转换直接混用三者属于严重的分析失范。例如在[[Concept Mapping|概念图]]（Concept Mapping）元分析中，Nesbit and Adesope (2006) 汇报的是以对照组标准差作除数的 Glass' $\Delta$，而 Horton et al. (1993) 汇报的是以合并标准差作除数的 Cohen's $d$；二者除数口径差异悬殊，[[John Hattie|哈蒂]]在《[[Visible Learning|可见的学习]]》中未做任何标准化转换便直接混入同一数据池求均值，违背了计量统计的[[Commensuration|通约]]性公理。
+
+---
+
+### 6. 标准误（SE）与标准差（SD）的换算关系与除数混淆灾难
+
+> [!formula-step] 公式步骤　[[Standard Error|标准误]]与标准差的数学换算及除数混淆纠偏
+> $$\text{SD} = \text{SE} \times \sqrt{n}, \quad \text{SE} = \frac{\text{SD}}{\sqrt{n}}$$
+> $$d_{\text{correct}} = \frac{\bar{X}_1 - \bar{X}_2}{\text{SD}_{\text{pooled}}} = \frac{\bar{X}_1 - \bar{X}_2}{\text{SE}_{\text{pooled}} \times \sqrt{n}} = \frac{d_{\text{error}}}{\sqrt{n}}$$
+>
+> **这个公式在做什么** 确立样本离散度指标（标准差 SD）与均值抽样精度指标（标准误 SE）之间的严格换算规则，防范元分析数据提取中最具破坏性的除数混淆灾难。
+>
+> **除数混淆的量级灾难与案例重构**
+> 在标准化均值差计算公式中，分母必须是样本标准差（SD）。若元分析作者粗心将论文报告的均值标准误（SE）当作标准差代入分母作除数，计算出的效应量将被虚假放大 $\sqrt{n}$ 倍。
+> - **Eisenstaedt et al. (1990) 极端案例重构** Gijbels et al. (2005, p. 56) 在纳入该项关于医学考试成绩的研究时，对照组均值 $80.21$、标准误 $\text{SE} = 1.65$（$n = 107$），实验组均值 $66.53$、标准误 $\text{SE} = 2.74$。元分析作者误将标准误 $1.65$ 代入分母：
+>   $$d_{\text{error}} = \frac{66.53 - 80.21}{1.65} = -8.291$$
+> - **规范还原与纠偏** 由 $\text{SD} = \text{SE} \times \sqrt{n} = 1.65 \times \sqrt{107} \approx 17.07$，真实效应量仅为：
+>   $$d_{\text{correct}} = \frac{66.53 - 80.21}{17.07} \approx -0.80$$
+> - **实质后果** 除数缩小了逾 10 倍，导致效应量被虚构放大了逾 10 倍（$-0.80 \to -8.291$）；该极端异常值未经核对直接进入宏观数据库，严重扭曲了总体合并结果。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, p. 27)]]
+
+---
+
+### 7. 伪标准误的构造失范（$\text{SD}_d / \sqrt{k}$ 误区）
+
+> [!formula-step] 公式步骤　离散标准差与估计标准误的范畴界定
+> $$\text{SE}_{\text{pseudo}} = \frac{\text{SD}_d}{\sqrt{k}} \quad (\text{严重失范}), \quad \text{SE}_{\text{true}} = \sqrt{v_d} = \sqrt{\frac{n_1 + n_2}{n_1 n_2} + \frac{d^2}{2(n_1 + n_2)}}$$
+>
+> **这个公式在做什么** 揭示以一级主要研究效应量的离散度硬造二阶标准误的算法错误，阐明效应量跨研究变异与点估计抽样精度之间的本质区别。
+>
+> **方法学机制批判与案例**
+> 在缺乏一级元分析合并方差时，部分研究者（如 Hattie）直接拿主要研究效应量的样本标准差（$\text{SD}_d$）除以纳入研究数量的平方根 $\sqrt{k}$ 硬算所谓标准误。[[Argument_Wecker_2016_ZfE|Wecker et al. (2016, pp. 29–30)]] 严正指出：
+> 1. $\text{SD}_d$ 反映的是不同研究之间因具体情境、师资或学生差异导致的实质离散度（Between-study dispersion）；
+> 2. 合并效应量的标准误（SE）衡量的是均值估计的统计抽样不确定性（Sampling variance），必须基于底层各主要研究的样本量（$N$）和组别方差推算；
+> 3. **案例后果** 在[[Direct Instruction|直接教学]]元分析（Haas, 2005）中，该元分析包含 19 个效应量，$\text{SD}_d = 0.59$。哈蒂硬算 $\text{SE}_{\text{Hattie}} = 0.59 / \sqrt{19} \approx 0.135$（赋予权重 $W \approx 54.9$）；而根据真实样本量推算的真实标准误为 $0.092$（对应权重 $W \approx 118.1$）。这一拼凑使直接教学在总体排名中的统计权重被直接腰斩了 53.5%。
+
+---
+
+### 8. 通用语言效应量（Common Language Effect Size, CLES）换算与概率边界规范
+
+> [!formula-step] 公式步骤　标准化均值差到二项超越概率的映射
+> $$\text{CLES} = \Phi\left(\frac{d}{\sqrt{2}}\right), \quad \text{CLES} \in (0\%, 100\%)$$
+>
+> **这个公式在做什么** 将连续标准化均值差转换为公众和教师直观可读的概率表述，即从实验组随机抽取一名个体的得分高于从对照组随机抽取个体的概率（McGraw & Wong, 1992）。
+>
+> **数学边界与算法失范**
+> - **理论边界** 由于标准正态累积分布函数 $\Phi(z)$ 的值域严格位于 $(0, 1)$ 区间，CLES 在数学上绝不可能出现负值或大于 100% 的情况（当 $d = 0$ 时，$\text{CLES} = 50\%$；当 $d = 0.80$ 时，$\text{CLES} \approx 71.4\%$）。
+> - **算法崩溃案例** [[Argument_Wecker_2016_ZfE|Wecker et al. (2016, p. 35, Note 4)]] 指出，哈蒂在《可见的学习》原版附录 A 中采用了一套系统错误的 CLES 换算公式，竟算出了低于 0% 和高于 100% 的不可能概率（如 $-12\%$ 或 $108\%$）；这一低级算法崩溃在德语修订版（Beywl & Zierer, 2015b, p. XVII）中才被强制重算更正。
+
+---
+
 ## 经典经验换算对照表
 
 基于两组[[Sample Size Determination|样本量]]平衡（$n_1 = n_2$）的理论换算基准如下表所示：
 
-> [!ref-table]- 经典[[Effect Size\|效应量]]数值换算对照表
+> [!ref-table]- 经典[[Effect Size|效应量]]数值换算对照表
 > | 效应强度等级（Cohen, 1988） | Pearson $r$ | Cohen's $d$ / Hedges' $g$ | 比值比（$OR$） | 解释方差比（$R^2$ / $\eta^2$） |
 > |---|---|---|---|---|
 > | **微弱效应（Negligible）** | $0.05$ | $0.10$ | $1.20$ | $0.25\%$ |
@@ -259,9 +334,11 @@ updated: 2026-10-16
 ## 局限与方法学边界
 
 > [!warning]
-> 1. **总体分布形态假设限制** $d$ 与 $r$ 的数学转换基于两组数据服从正态分布且方差齐性的假定；若原始数据存在极端偏态或[[Floor and Ceiling Effects\|天花板效应]]，转换后关联系数可能产生失真。
-> 2. **人工二分[[Variable\|变量]]导致的衰减偏倚** 将原本连续的变量人为划分为二分类（如高低分组）计算 $d$ 再转为 $r$ 时，会系统性低估真实的相关强度（需运用连续校正公式进行矫正）。
-> 3. **群聚依赖效应（Clustering Dependency）** 若单项研究报告多个非独立[[Effect Size\|效应量]]，直接进行公式转换会造成抽样方差低估，必须结合[[Robust Variance Estimation\|稳健方差估计]]（RVE）进行协方差修正。
+> 1. **总体分布形态假设限制** $d$ 与 $r$ 的数学转换基于两组数据服从正态分布且方差齐性的假定；若原始数据存在极端偏态或[[Floor and Ceiling Effects|天花板效应]]，转换后关联系数可能产生失真。
+> 2. **人工二分[[Variable|变量]]导致的衰减偏倚** 将原本连续的变量人为划分为二分类（如高低分组）计算 $d$ 再转为 $r$ 时，会系统性低估真实的相关强度（需运用连续校正公式进行矫正）。
+> 3. **群聚依赖效应（Clustering Dependency）** 若单项研究报告多个非独立[[Effect Size|效应量]]，直接进行公式转换会造成抽样方差低估，必须结合[[Robust Variance Estimation|稳健方差估计]]（RVE）进行协方差修正。
+> 4. **分母除数混淆与伪[[Standard Error|标准误]]滥用风险** 必须严格审查[[Primary and Secondary Documents|原始文献]]汇报的离散量是标准差（SD）还是均值标准误（SE），防止除数混淆引发 $\sqrt{n}$ 倍量级灾难；严禁直接拿效应量跨研究离散度 $\text{SD}_d / \sqrt{k}$ 拼凑伪标准误。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, p. 27)]]
+> 5. **测度分母不可直接[[Commensuration|通约]]风险** Glass' $\Delta$、Cohen's $d$ 与 Hedges' $g$ 具有不同的分母假设，在未统一转换前直接混入同一池求平均属于范畴通约失范。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, p. 26)]]
 
 ---
 
@@ -274,4 +351,6 @@ updated: 2026-10-16
 > | [[Effect Size]] | 概念 | 上位概念 | 效应量转换是实现效应量跨设计比较的基础计算工具。 |
 > | [[Meta-analysis]] | 方法 | 应用场景 | 元分析依赖效应量转换构建统一的数据矩阵。 |
 > | [[Robust Variance Estimation]] | 方法 | 统计进阶 | 效应量转换后常需结合 RVE 校正依赖数据的方差结构。 |
+> | [[Category Mistake]] | 概念 | 方法学批判 | 未作标准化转换直接混用异质分母测度构成范畴[[Commensuration\|通约]]失范。 |
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 论证 | 实证应用 | 在创造力二阶元分析中将 164 个一阶效应量统一转换为 $r$ 并行 Fisher's $z$ 变换。 |
+> | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 方法学批判与审计 | 系统揭示[[Standard Error\|标准误]]当作标准差导致效应量虚增十倍、三大均值差测度混用以及伪标准误拼凑失范等典型灾难案例。 |

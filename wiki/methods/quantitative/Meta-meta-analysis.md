@@ -56,6 +56,7 @@ related_concepts:
   - "[[Independent Variable]]"
   - "[[Inquiry-Based Learning]]"
   - "[[Incommensurability]]"
+  - "[[Category Mistake]]"
   - "[[Predictive Validity]]"
   - "[[Academic Achievement]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -397,7 +398,7 @@ updated: 2026-10-16
 > | **一级主要研究层** | 教学主题、教师实施与学校情境高度异质，真实效应量变异极大。 | [[Fixed-Effect Model\|固定效应模型]]关于单一恒定真实效应的假设完全破产。 | 标准误被严重低估，虚增统计检验显著性。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 31–32)]] |
 > | **二级元分析层** | 继承了一级异质性，数学上必须采用随机效应模型估计 $\tau^2$。 | 每个因素平均仅约 5.8 项元分析，样本量过小无法可靠估计[[Between-Study Variance\|研究间方差]]。 | 随机效应建模崩溃，宏观统计推断失去立足之基。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 32–33)]] |
 
-> [!dimension] 影响因素[[Incommensurability|不可通约性]]的四大本体范畴（德甲联赛隐喻与范畴错误）
+> [!dimension] 影响因素[[Incommensurability|不可通约性]]的四大本体范畴（[[Category Mistake|德甲联赛隐喻]]与范畴错误）
 > - **制度框架条件（Systemic and Institutional Conditions）**
 >   宏观外部环境制约，属于既定教育制度背景，不构成微观课堂可直接操纵的教学决策选项。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, p. 34)]]
 > - **个体心理特征（Student Individual Characteristics）**

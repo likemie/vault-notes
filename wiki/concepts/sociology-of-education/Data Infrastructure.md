@@ -9,7 +9,7 @@ aliases:
 summary: "围绕教育数据的去情境化抽取、算法通约折算与选择性再呈现而动态装配的社会-技术网络；并非静态信息管道，而是充斥算法选择性与即兴调配的实验性系统，深陷简化、通约、时效、公开与博弈五维张力，通过次级代表表象生产分布式治理权力。"
 type: concept
 domain: "sociology-of-education"
-related_count: 34
+related_count: 37
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -53,6 +53,7 @@ related_concepts:
   - "[[Center of Calculation]]"
 related_persons:
   - "[[Rob Kitchin]]"
+  - "[[Christof Wecker]]"
 related_facts:
   - "[[PISA]]"
   - "[[Vergleichsarbeiten]]"
@@ -164,7 +165,7 @@ updated: 2026-10-16
 > [!concept-lens] 科学证据基础设施与学术评价激励解耦
 > 探讨商业学术期刊篇幅限制与显著性筛选如何导致实证元数据大面积剥离，以及中央标准化证据数据基础设施如何从制度上终结[[Publication Bias|发表偏倚]]并重塑[[Evidence-Based Education|循证教育]]。
 
-> [!claim] Wecker, C., et al.
+> [!claim] [[Christof Wecker|Wecker, C.]], et al.
 > **克服商业出版扭曲与数据黑箱** 传统实证研究高度依附于商业学术期刊，受制于期刊版面篇幅限制与对[[Statistical Significance|统计显著性]]的发表偏好，致使主要研究的原始统计矩阵（如实验组与对照组[[Sample Size Determination|样本量]] $n_E, n_C$、标准差 $s_E, s_C$）大面积散失，制造了严重的[[Publication Bias|发表偏倚]]与文件抽屉效应；以 Hattie 为代表的二阶[[Meta-meta-analysis|元元分析]]对商业文献进行粗糙综合，更在方法学上造成了无法核验、偏倚复合放大的知识黑箱。
 > **全量归档、标准无偏估计与学术成果清单认证** 必须建立由科学共同体独立运营的中央开放数据基础设施（Zentrale Datenbank），强制无条件收集所有经公帑资助实证研究的原始设计参数、数据矩阵与标准化[[Effect Size|效应量]]（统一采用 Hedges' $g$ 无偏估计）；为从根本上激活基础设施的供给动力，必须在科研评价制度中将数据存缴认定为“适合成果清单的学术产品”（Publikationslisten; Stanat, 2012）；依托该基础设施，循证教育得以彻底告别失真的二阶[[Meta-analysis|元分析]]，转向随新研究持续自动更新的动态一级[[Meta-analysis|元分析]]。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 34–36)]]
 

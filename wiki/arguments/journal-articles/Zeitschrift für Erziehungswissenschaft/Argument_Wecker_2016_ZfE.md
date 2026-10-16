@@ -1,6 +1,6 @@
 ---
 authors:
-  - "Wecker, C."
+  - "[[Christof Wecker|Wecker, C.]]"
   - "Vogel, F."
   - "Hetmanek, A."
 summary: "以固定效应模型数学基础推导六项二级元分析方法论要求，对哈蒂可见的学习展开系统性内部与外部方法论批判，提出中央证据数据库方案"
@@ -11,7 +11,7 @@ title: "Argument_Wecker_2016_ZfE"
 argument_key: "Argument_Wecker_2016_ZfE"
 argument_display_title: "Visionär und imposant – aber auch belastbar? Eine Kritik der Methodik von Hatties Visible Learning [Visionary and impressive – but also robust? A critique of the methodology of Hattie's Visible Learning]"
 argument_kind: "journal-article"
-argument_related_count: 35
+argument_related_count: 38
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Ontology]]"
+  - "[[Category Mistake]]"
   - "[[Reliability]]"
   - "[[Study Population and Sample]]"
   - "[[Direct Instruction]]"
@@ -57,6 +58,7 @@ related_methods:
   - "[[Fixed-Effect Model]]"
   - "[[Standard Error]]"
   - "[[Inverse-Variance Weighting]]"
+  - "[[Effect Size Conversion]]"
   - "[[Sample Size Determination]]"
   - "[[Confidence Interval]]"
   - "[[Role-playing]]"
@@ -64,6 +66,7 @@ related_methods:
   - "[[Random-Effects Model]]"
 related_persons:
   - "[[John Hattie]]"
+  - "[[Christof Wecker]]"
   - "[[Gene Glass]]"
   - "[[Jacob Cohen]]"
 related_facts:
@@ -140,7 +143,7 @@ updated: 2026-10-16
 >     C --> E["执行检验：二级汇总伪造标准误、忽略 93% 文献重叠并滥用简单算术平均"]
 >     D --> F["数值后果：网络学习排名暴跌 72 位，直接教学权重被削减过半，个别效应量虚增十倍"]
 >     E --> F
->     F --> G["认识论反思：单一均值抹平教学情境、两级模型双重失配、时长不可比与德甲联赛范畴错误"]
+>     F --> G["认识论反思：单一均值抹平教学情境、两级模型双重失配、时长不可比与德甲联赛[[Category Mistake|范畴错误]]"]
 >     G --> H["制度重构：摆脱商业期刊发表偏倚，建立公开透明的中央标准化证据库并转向一级直接综合"]
 > ```
 
@@ -155,10 +158,10 @@ updated: 2026-10-16
 
 #### 1. 固定效应模型的代数等价性：当原始研究独立时二级加权等价于一级合成
 
-哈蒂明确声明其计算建立在[[Fixed-Effect Model|固定效应模型]]之上（Hattie, 2009, p. 12），该模型假定所有纳入研究均在估计同一个恒定真实效应，样本变异完全源于[[Sampling Error|抽样误差]]。从该假定出发，克里斯托夫·韦克尔（Christof Wecker）等人推导了证据综合的参数规约与跨层加权代数结构：
+哈蒂明确声明其计算建立在[[Fixed-Effect Model|固定效应模型]]之上（Hattie, 2009, p. 12），该模型假定所有纳入研究均在估计同一个恒定真实效应，样本变异完全源于[[Sampling Error|抽样误差]]。从该假定出发，克里斯托夫·[[Christof Wecker|韦克尔]]（Christof Wecker）等人推导了证据综合的参数规约与跨层加权代数结构：
 
 > [!synthesis-model] 二级固定效应证据综合的参数规约与依赖结构
-> - **[[Effect Size|效应量]]指标（Effect Size Metric）** 理论要求采用性质一致且经小样本偏倚校正的标准化均值差（Hedges' $g$）；合并相关系数必须经 Fisher's $z$ 变换。（pp. 25–27）
+> - **[[Effect Size|效应量]]指标（Effect Size Metric）** 理论要求采用性质一致且经小样本偏倚校正的标准化均值差（Hedges' $g$）；合并相关系数必须经 Fisher's $z$ 变换（[[Effect Size Conversion|效应量换算]]）。（pp. 25–27）
 > - **加权方案（Weighting Scheme）** [[Inverse-Variance Weighting|逆方差加权法]]（Inverse-Variance Weighting, IVW），以各元分析方差的倒数赋权（$W_j = 1/v_{d_j}$），等价于该元分析内部各主要研究精度权重之和。（pp. 25, 37）
 > - **依赖结构假定（Dependence Assumption）** 强假定原始研究完全独立且互斥；若存在文献重叠，协方差交叉项将导致理论方差失效。（pp. 25, 29–30）
 > - **[[Unit of Analysis|分析单位]]（Unit of Analysis）** 宏观统计以元分析为高阶分析单位，但在数学底层映射至主要[[Study Population and Sample|研究样本]]集合。（pp. 24–25）
@@ -206,7 +209,7 @@ updated: 2026-10-16
 在固定效应模型下，任何宏观证据汇总都必须逐级经过六个环环相扣的操作环节，前一环节的失真将直接导致后续所有估计失效：
 
 > [!proc] 二级元分析六步规范规程
-> 1. **主要研究效应量计算** 从原始研究中准确提取实验组与对照组的人数（$n_E, n_C$）、均值与标准差，统一换算为性质一致的无偏指标（如 Hedges' $g$），并提供完整的研究数据清单。（pp. 25–27）
+> 1. **主要研究效应量计算** 从原始研究中准确提取实验组与对照组的人数（$n_E, n_C$）、均值与标准差，统一通过[[Effect Size Conversion|效应量换算]]为性质一致的无偏指标（如 Hedges' $g$），并提供完整的研究数据清单。（pp. 25–27）
 > 2. **一级元分析效应量确定** 合并多个独立相关系数 $r$ 时，必须先转换为 Fisher's $z$ 值再平均；合并组间差异指标时必须按样本精度加权，不能直接取算术均值。（pp. 25, 28–29）
 > 3. **方差与标准误确定** 合并效应量的标准误（Standard Error, SE）必须依据原始研究的[[Sample Size Determination|样本量]]和效应量计算，或从已报告的 95% [[Confidence Interval|置信区间]]（Confidence Interval, CI）中如实推算，严禁使用原始研究效应量的标准差（Standard Deviation, SD）伪造标准误。（pp. 25, 27–29）
 > 4. **重复数据中和** 详细核对各元分析纳入的研究目录；若存在重复文献，必须剔除重叠部分或在模型中扣除相关性，防止同一批学生的数据被重复计入。（pp. 25, 29–30）
@@ -228,7 +231,7 @@ updated: 2026-10-16
 > | 分析步骤 | 存在的方法缺陷 |
 > |---|---|
 > | **数据基础：基础一级元分析** | |
-> | **(1) 计算所包含主要研究的各个效应量** | - 交替混用 Cohen's $d$、Hedges' $g$ 与 Glass' $\Delta$，未做统一换算。<br>- 把标准误误当作标准差代入分母，导致除数出现数量级偏差。<br>- 原始研究数据表大面积缺失，缺乏实验组与对照组的关键样本量信息（$n_E, n_C$）。 |
+> | **(1) 计算所包含主要研究的各个效应量** | - 交替混用 Cohen's $d$、Hedges' $g$ 与 Glass' $\Delta$，未做统一[[Effect Size Conversion\|效应量换算]]。<br>- 把标准误误当作标准差代入分母，导致除数出现数量级偏差。<br>- 原始研究数据表大面积缺失，缺乏实验组与对照组的关键样本量信息（$n_E, n_C$）。 |
 > | **(2) 汇总一级元分析内的主要研究效应** | - 未按精度加权原始研究，采用简单算术平均。<br>- 缺乏合并效应量方差、标准误（SE）或置信区间（CI）的汇报。<br>- 错误地将主要研究效应量的离散标准差（$\text{SD}_d$）当作精度指标。 |
 > | **方法：二级元分析** | |
 > | **(1) 遵守纳入标准** | - 违背仅关注认知学业成绩的声明，把非认知态度与社会发展变量混入总分。<br>- 影响因素分类错误（如把特殊心理训练归入常规学科教学法）。 |
@@ -301,7 +304,7 @@ updated: 2026-10-16
 即便哈蒂在计算上完全准确，从因果推论和教学本质的角度来看，这种二级元分析方法依然面临根本性缺陷。
 
 > [!claim] 步骤三核心主张
-> 二级汇总无法保留对教学至关重要的调节[[Variable|变量]]，固定效应模型在教育研究中出现双重失配，且 138 个因素属于基线完全不同的异质范畴，建立单一排行榜在逻辑上如同在德甲联赛中强行比较不可[[Commensuration|通约]]的对象。（pp. 30–34）
+> 二级汇总无法保留对教学至关重要的调节[[Variable|变量]]，固定效应模型在教育研究中出现双重失配，且 138 个因素属于基线完全不同的异质范畴，建立单一排行榜构成根本性的[[Category Mistake|范畴错误]]，在逻辑上如同在德甲联赛中强行比较不可[[Commensuration|通约]]的对象。（pp. 30–34）
 
 #### 1. 单一均值抹平教学情境差异且固定效应模型在教育研究中完全不适用
 
@@ -321,7 +324,7 @@ updated: 2026-10-16
 
 比模型失配更严重的，是排行榜所依赖的比较逻辑在[[Ontology|本体论]]上根本无法立足。
 
-#### 2. 影响因素基线不同且干预时长不可比：单一排行榜存在根本性范畴错误
+#### 2. 影响因素基线不同且干预时长不可比：单一排行榜存在根本性[[Category Mistake|范畴错误]]
 
 把 138 个性质完全不同的因素放在同一张排行榜上排定座次，犯了严重的本体论范畴错误：
 
@@ -330,7 +333,7 @@ updated: 2026-10-16
 > - **对照基准的彻底不可通约** 德甲联赛隐喻表明，制度条件、个体特征、宏观模式与微观参数这四类因素的对照基线完全不同，教师面对直接教学与分散练习不可能做非此即彼的单选。（p. 34）
 > - **关节点神话的实证破灭** [[PISA|国际学生评估项目]]（Programme for International Student Assessment, PISA）与[[TIMSS|国际数学与科学趋势研究]]（Trends in International Mathematics and Science Study, TIMSS）等大规模追踪实证表明，每学期实际成长仅约 0.20 到 0.40；且从受损数据中算出的 0.40 早已失去基准效度。（p. 33）
 
-德甲联赛隐喻深刻展现了这一[[Incommensurability|不可通约性]]：拜仁慕尼黑与汉堡 SV 在好日子和坏日子里虽都同列积分榜，但教师在实践中面对直接教学与分散练习并非做非此即彼的单选，而是探索二者的最优组合（p. 34）。具体而言，这 138 个因素跨越了四类基线完全不可比的本体范畴：
+德甲联赛隐喻深刻展现了这一[[Category Mistake|范畴错误]]与[[Incommensurability|不可通约性]]：拜仁慕尼黑与汉堡 SV 在好日子和坏日子里虽都同列积分榜，但教师在实践中面对直接教学与分散练习并非做非此即彼的单选，而是探索二者的最优组合（p. 34）。具体而言，这 138 个因素跨越了四类基线完全不可比的本体范畴：
 
 > [!dimension] 影响因素[[Incommensurability|不可通约性]]的四大本体范畴
 > - **制度框架条件（Systemic and Institutional Conditions）**
@@ -424,7 +427,7 @@ updated: 2026-10-16
 >
 > *Wir schlagen daher vor, Methoden und Ergebnisse empirischer Studien – unabhängig von Zeitschriftenpublikationen – in standardisierter und metaanalytisch nutzbarer Form in einer zentralen Datenbank zu sammeln und zugänglich zu machen.*
 
-> [!citation-card] 德甲联赛隐喻
+> [!citation-card] [[Category Mistake|德甲联赛隐喻]]
 > 哈蒂的排名有点像德甲联赛，拜仁慕尼黑和汉堡 SV 在好日子和坏日子里都有一席之地。值得怀疑的是，教师是否必须在[[Direct Instruction|直接教学]]和分布式练习之间做出抉择，而不是两者的最佳组合。（p. 34）
 >
 > *Hatties Rangliste ähnelt ein wenig einer Fußballtabelle der Bundesliga, in der der FC Bayern München und der Hamburger SV an guten wie an schlechten Tagen nebeneinander stehen. Es ist zu bezweifeln, ob Lehrkräfte wohlüberlegte Entscheidungen zwischen direkter Instruktion und Programmen im Bereich verteilter Übung treffen müssen, statt für die optimale Kombination von beidem.*

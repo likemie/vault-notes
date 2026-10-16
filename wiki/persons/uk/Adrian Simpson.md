@@ -24,6 +24,7 @@ tags:
 - region/uk
 related_concepts:
   - "[[Evidence-Based Education]]"
+  - "[[Category Mistake]]"
   - "[[Critique of Effect Size]]"
   - "[[Epistemology]]"
   - "[[Visible Learning]]"
@@ -65,7 +66,7 @@ updated: 2026-10-16
 > [!note-] 生平与职涯
 > - **现任** — 杜伦大学（Durham University）数学教育教授、Josephine Butler College 院长（Principal）([[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017, p.15]])
 > - **2017** — 在 *Journal of Education Policy* 发表"The misdirection of public policy"，通过农场肥料思想实验和真实教育研究案例系统论证[[Effect Size\|效应量]]的三大系统性偏差，奠定其效应量技术批判的方法论基础([[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017]])
-> - **2018** — 在 *British Educational Research Journal* 发表"Princesses are bigger than elephants"，将效应量误用定性为**类别错误（category error）（Simpson, 2018; 引自 Wrigley & McCusker, 2019, p.126）**
+> - **2018** — 在 *British Educational Research Journal* 发表"Princesses are bigger than elephants"，将效应量误用定性为**类别错误（[[Category Mistake|Category Error]]）（Simpson, 2018; 引自 Wrigley & McCusker, 2019, p.126）**
 > - **2019** — 在 *Educational Research and Evaluation* 特刊发表"Separating arguments from conclusions"，以"教一个匈牙利单词"思想实验和 [[Evidence-Based Education\|EBE]] 支持者防御策略分析，将[[Critique of Effect Size\|效应量批判]]推进为完整的[[Epistemology\|认识论]]论证([[Argument_Simpson_2019_ERE\|Simpson, 2019]])
 > - **2021** — 以技术评论"Benchmarking a Misnomer"批评 Kraft（2020）的效应量基准，核心批评包括跨研究效应量本质不可比、经验基准过低；[[Argument_Kraft_2023_ER\|Kraft (2023)]]回应称两人共同警惕按效应量强弱制作教育干预"联盟表"，但仍在基准是否有政策解释价值上存在分歧([[Argument_Kraft_2023_ER\|Kraft, 2023, p.184]])
 
@@ -73,7 +74,7 @@ updated: 2026-10-16
 
 > [!abstract] 主要著作
 > - Simpson, A. (2017). The misdirection of public policy: Comparing and combining standardised effect sizes. *Journal of Education Policy*, 32(4), 450–466. — 通过农场肥料思想实验和真实研究案例，系统论证[[Effect Size\|效应量]]三大系统性偏差（比较组不对等、范围限制、测量设计）使[[Meta-analysis\|元分析]]联盟表成为"研究设计操纵开放程度的等级"而非教育有效性排名。详见 [[Argument_Simpson_2017_JEdPolicy|Simpson (2017)]]。
-> - Simpson, A. (2018). Princesses are bigger than elephants: Effect size as a category error in [[Evidence-Based Education]]. *British Educational Research Journal*, 44(5), 897–913. — 论证将效应量视为干预有效性的测量是一个**类别错误**——类似于将图片中公主比大象大的尺寸差异误认为所指对象实际大小的差异([[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, p.126]])。
+> - Simpson, A. (2018). Princesses are bigger than elephants: Effect size as a [[Category Mistake|Category Error]] in [[Evidence-Based Education]]. *British Educational Research Journal*, 44(5), 897–913. — 论证将效应量视为干预有效性的测量是一个**类别错误**——类似于将图片中公主比大象大的尺寸差异误认为所指对象实际大小的差异([[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, p.126]])。
 > - Simpson, A. (2019). Separating arguments from conclusions: The mistaken role of effect size in educational policy research. *Educational Research and Evaluation*, 25(1-2), 99–109. — 以"教一个匈牙利单词"思想实验系统证明效应量是**试验清晰度（experimental clarity）** 而非教育有效性的测量；以 Corncrake 寓言开篇说明论证有效性与结论正确性必须被区分；运用 Freedman (2009) 框架分析 EBE 支持者对批评的六种防御策略。详见 Argument_Simpson_2019_ERE。
 
 ## 核心思想
@@ -103,7 +104,7 @@ updated: 2026-10-16
 
 
 > [!info] 效应量作为类别错误（2018）
-> Simpson（2018）在 *British Educational Research Journal* 上将 2017 年的技术论证推进为概念层面的定性：将效应量视为干预有效性的测量是一个**类别错误（category error）**——类似于将"公主比大象大"中图片尺寸的差异误认为是所指对象实际大小的差异([[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, p.126]])。
+> Simpson（2018）在 *British Educational Research Journal* 上将 2017 年的技术论证推进为概念层面的定性：将效应量视为干预有效性的测量是一个**类别错误（[[Category Mistake|Category Error]]）**——类似于将"公主比大象大"中图片尺寸的差异误认为是所指对象实际大小的差异([[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, p.126]])。
 >
 > 这一概念化使后续的 2019 年思想实验论证获得了清晰的认识论定位：问题不在于效应量测量得不精确（可以改进），而在于它**测量的是另一个东西**（试验灵敏度），却被当作教育有效性的代理使用。
 

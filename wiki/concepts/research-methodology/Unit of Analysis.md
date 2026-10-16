@@ -106,6 +106,7 @@ related_persons:
   - "[[Wolfgang Mitter]]"
   - "[[Andreas Kazamias]]"
   - "[[Jason Beech]]"
+  - "[[Christof Wecker]]"
   - "[[Keith Morrison]]"
   - "[[Isaac Kandel]]"
   - "[[Nicholas Hans]]"
@@ -336,7 +337,7 @@ updated: 2026-10-16
 > 本命题探讨在[[Meta-meta-analysis|二级元分析]]与[[Umbrella Review|伞状综述]]中，若误将一级[[Meta-analysis|元分析]]论文作为天然独立的统计分析单位，如何导致底层原始研究被重复计算并摧毁统计推断基础。
 
 > [!claim] Wecker et al. & Cooper & Koenka
-> **二级证据综合中的分析单位错位错误（Unit-of-Analysis Error）** 克里斯托夫·韦克尔（Christof Wecker, 2016）与库珀和科恩卡（Harris Cooper & Ashley Koenka, 2012）系统揭示，在宏观证据综合中，研究者常将一级[[Meta-analysis|元分析]]论文视作独立的“分析单位（Unit of Analysis）”予以直接统计合并。然而，元分析的核心数学基石要求所有分析单位彼此独立；当不同的一级元分析纳入了相同的主要研究时（例如网络学习领域文献重叠率高达 93.3%），以元分析为分析单位直接取算术平均或简单加权，等同于对重叠样本中的同一批学生和相同干预实施了多重计数（Double-Counting）。这种分析单位与真实抽样单位的严重错位，违反了高斯-马尔可夫独立性假定，产生虚假的协方差交叉项，使合成[[Standard Error|标准误]]被人为压缩、[[Effect Size|效应量]]严重虚高、[[Confidence Interval|置信区间]]虚假缩水。真正的宏观证据综合必须将分析单位严格锚定在不重叠的底层原始实证研究之上，或采用一步式直接微观汇总（One-Stage Synthesis）。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–25, 29–30)]]
+> **二级证据综合中的分析单位错位错误（Unit-of-Analysis Error）** [[Christof Wecker|克里斯托夫·韦克尔]]（Christof Wecker, 2016）与库珀和科恩卡（Harris Cooper & Ashley Koenka, 2012）系统揭示，在宏观证据综合中，研究者常将一级[[Meta-analysis|元分析]]论文视作独立的“分析单位（Unit of Analysis）”予以直接统计合并。然而，元分析的核心数学基石要求所有分析单位彼此独立；当不同的一级元分析纳入了相同的主要研究时（例如网络学习领域文献重叠率高达 93.3%），以元分析为分析单位直接取算术平均或简单加权，等同于对重叠样本中的同一批学生和相同干预实施了多重计数（Double-Counting）。这种分析单位与真实抽样单位的严重错位，违反了高斯-马尔可夫独立性假定，产生虚假的协方差交叉项，使合成[[Standard Error|标准误]]被人为压缩、[[Effect Size|效应量]]严重虚高、[[Confidence Interval|置信区间]]虚假缩水。真正的宏观证据综合必须将分析单位严格锚定在不重叠的底层原始实证研究之上，或采用一步式直接微观汇总（One-Stage Synthesis）。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–25, 29–30)]]
 
 > [!citation-card] 二级综合中的分析单位错位与底层主要研究锚定
 > 二级元分析在宏观上以元分析报告为汇总单位，但在统计理论和数学底层上，所有效应量与方差的推导必须严格映射至相互独立的原始主要研究。若忽视元分析之间的文献重叠，直接将元分析作为独立分析单位合并，将导致同一批被试数据被重复计入，产生严重的分析单位错位错误，造成方差估计严重失效与统计检验虚假显著。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–25, 29–30)]]
@@ -376,7 +377,7 @@ updated: 2026-10-16
 > - **2000s–2010s — [[Complexity Theory|复杂性理论]]的生态网络转向** [[Keith Morrison|莫里森]]（Morrison, 2008）与卡普拉（Capra, 1996）推动分析单位从离散原子实体转向围绕奇异吸引子生成的共生生态系统，实现宏微观研究的方法论贯通。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 31)]]
 > - **2002–2009 — 多标度空间治理与微观比较案例转向** 戴尔与罗伯逊等人（2002）提出[[Pluri-Scalar Governance|多标度治理]]矩阵；阿诺夫（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009]]）倡导微观田野[[Rich and Thick Description|深描]]与[[Comparative Case Study|比较案例研究]]（CCS），推动分析单位向宏微观辩证贯通演进。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–111)]]
 > - **2009 — [[Space of Flows|流动空间]]中的五大结构位置分析单位** 比奇（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）批判比较教育学中的[[Methodological Statism|方法论国家主义]]，整合[[Basil Bernstein|伯恩斯坦]]语篇位置与卡斯特[[Space of Flows|流动空间]]理论，将分析单位从静态主权国家容器重构为跨国沟通网络中的五大结构性[[Discourse|话语]]位置（全球学术、国际机构普遍模型、国家官方、本土学术与学校机构）。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 349–351)]]
-> - **2012–2016 — 证据综合与[[Meta-meta-analysis|二阶元分析]]的分析单位纠偏** 库珀与科恩卡（Cooper & Koenka, 2012）及韦克尔等人（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）系统剖析宏观[[Umbrella Review|伞状综述]]中的“分析单位错位”，揭示文献重叠破坏独立性公理的机制，确立独立原始研究为证据综合的真实因果与统计基准单位。
+> - **2012–2016 — 证据综合与[[Meta-meta-analysis|二阶元分析]]的分析单位纠偏** 库珀与科恩卡（Cooper & Koenka, 2012）及[[Christof Wecker|韦克尔]]等人（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）系统剖析宏观[[Umbrella Review|伞状综述]]中的“分析单位错位”，揭示文献重叠破坏独立性公理的机制，确立独立原始研究为证据综合的真实因果与统计基准单位。
 > - **2000s 至今 — 超国家标准化度量指标空间** 伴随 [[OECD]]/[[PISA]] 等国际大规模测评的支配性影响，以跨国统一技能与[[Performance Indicators|绩效指标]]为载体的超国家数据空间成为新型分析单位，与传统历史文化容器形成剧烈张力。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 95–96)]]
 > - **2020s — 计算文本分块与语境窗口重构** 随着自然语言处理与大语言模型（LLM）的兴起，文本分块（Chunking）、词元（Token）与上下文窗口（Context Window）重塑了分析单位的技术形态，[[Meaningful Human Control|人在回路]]（HITL）审校成为维护宏观语境与微观分块平衡的核心机制。
 

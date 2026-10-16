@@ -50,6 +50,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Christof Wecker]]"
   - "[[John Hattie]]"
 related_facts: []
 related_arguments:
@@ -142,7 +143,7 @@ updated: 2026-10-16
 
 ### 公式步骤二　两级固定效应二级元分析的代数等价性定理
 
-在《[[Visible Learning|可见的学习]]》等宏观二阶综合项目中，研究者常对已发表的一级[[Meta-analysis|元分析]]进行二次固定效应合并。克里斯托夫·韦克尔（Christof Wecker）等人严格推导了两级固定效应合成与一级全池直接合并之间的代数等价性：
+在《[[Visible Learning|可见的学习]]》等宏观二阶综合项目中，研究者常对已发表的一级[[Meta-analysis|元分析]]进行二次固定效应合并。[[Christof Wecker|克里斯托夫·韦克尔]]（Christof Wecker）等人严格推导了两级固定效应合成与一级全池直接合并之间的代数等价性：
 
 > [!formula-step] 公式步骤　两级固定效应代数等价性证明
 > $$d_j = \frac{\sum_{i=1}^{k_j} w_{ji} d_{ji}}{\sum_{i=1}^{k_j} w_{ji}}, \quad v_{d_j} = \frac{1}{\sum_{i=1}^{k_j} w_{ji}} \tag{一级元分析内部加权}$$
@@ -190,7 +191,7 @@ updated: 2026-10-16
 > [!case] 关键案例重构：[[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] 对固定效应模型违背与排名雪崩的审计
 > - **宣称模型与实际操作背离** [[John Hattie|哈蒂]]在《[[Visible Learning|可见的学习]]》中声明采用固定效应模型（Hattie, 2009, p. 12），假定所有研究估计同一个恒定效应。
 > - **文献重叠与等价性瓦解** 在网络学习领域，纳入的 Olson and Wisher (2002) 包含 15 项研究，其中 14 项（重叠率达 93.3%）与另一项纳入的 Sitzmann et al. (2006) 完全重复。固定效应独立性假定被彻底破坏。
-> - **简单平均与排名雪崩** 哈蒂忽略重叠且放弃[[Inverse-Variance Weighting|逆方差加权]]，直接取简单算术平均，得出综合[[Effect Size|效应量]] $d = 0.59$（全书高居第 26 位）；经韦克尔等人剔除重复文献并执行规范逆方差加权后，真实综合效应量暴跌至 $d = 0.23$，在 138 个因素中的排位由第 26 位雪崩至第 98 位，大幅跌落 72 名并跌破 $0.40$ 关节点，实证证实了固定效应模型违规操作对政策排名的误导性。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 29–30)]]
+> - **简单平均与排名雪崩** 哈蒂忽略重叠且放弃[[Inverse-Variance Weighting|逆方差加权]]，直接取简单算术平均，得出综合[[Effect Size|效应量]] $d = 0.59$（全书高居第 26 位）；经[[Christof Wecker|韦克尔]]等人剔除重复文献并执行规范逆方差加权后，真实综合效应量暴跌至 $d = 0.23$，在 138 个因素中的排位由第 26 位雪崩至第 98 位，大幅跌落 72 名并跌破 $0.40$ 关节点，实证证实了固定效应模型违规操作对政策排名的误导性。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 29–30)]]
 
 > [!case] 关键案例重构：Levie and Lentz (1982) 违背固定效应加权规范
 > - **未加权平均操作** Levie and Lentz (1982, p. 198) 在综合关于图文配合学习效果的 24 项[[Experimental Research|实验研究]]时，宣称呈现总体效应，但其汇报的合并值 $0.55$ 实际上是对 24 项研究效应量的简单算术平均值。
