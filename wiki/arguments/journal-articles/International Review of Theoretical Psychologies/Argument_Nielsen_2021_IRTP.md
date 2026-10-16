@@ -10,9 +10,9 @@ title: "Argument_Nielsen_2021_IRTP"
 argument_key: "Argument_Nielsen_2021_IRTP"
 argument_display_title: "Measured lives in educational psychology"
 argument_kind: "journal-article"
-argument_related_count: 24
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_count: 14
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: International Review of Theoretical Psychologies
 citation: "Nielsen, K., & Klitmøller, J. (2021). Measured lives in educational psychology. International Review of Theoretical Psychologies, 1(1), 78-92."
@@ -24,33 +24,23 @@ tags:
 - evidence-based-education
 - stance/critique
 related_concepts:
-  - "[[Research Question]]"
   - "[[Visible Learning]]"
   - "[[Technical Rationality]]"
-  - "[[Literature Review]]"
-  - "[[Interaction Effect]]"
-  - "[[Didaktik]]"
   - "[[Positivism]]"
-  - "[[Synectics]]"
-  - "[[Value Neutrality]]"
-  - "[[Variable]]"
-  - "[[Feedback]]"
-  - "[[Doxa]]"
+  - "[[Interaction Effect]]"
 related_theories:
   - "[[Legitimation Crisis]]"
-related_methods:
-  - "[[Analytic Framework]]"
-  - "[[Effect Size]]"
-  - "[[Accounts]]"
-related_persons: []
+related_methods: []
+related_persons:
+  - "[[John Hattie]]"
+  - "[[Jürgen Habermas]]"
+  - "[[Donald A. Schön]]"
 related_facts:
-  - "[[Research in Schools Evaluation]]"
-  - "[[PISA]]"
+  - "[[Danish Public School Reform]]"
 related_arguments:
-  - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Simpson_2017_JEdPolicy]]"
+  - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
-  - "[[Argument_Qvortrup_2015_Paideia]]"
   - "[[Argument_Hansen_2015_Paideia]]"
   - "[[Argument_Knudsen_2017_NordSTEP]]"
 sources:
@@ -223,8 +213,8 @@ PISA 排名狠狠打击了传统教育的自信心，给各国政府带来了巨
 
 丹麦的制度实践典型地展示了国家行政机器如何借用哈蒂的科学招牌，压制来自基层教师与社会的合理质疑。
 
-> [!case] 丹麦 2014 年基础教育改革实践（Folkeskole Reform 2014）
-> 丹麦在 2000 年代加入 PISA 后面临巨大的教育合法化压力。2014 年丹麦通过划时代的小学改革法案，将哈蒂的理念全面转化为国家治理规程：
+> [!case] [[Danish Public School Reform|丹麦 2014 年基础教育改革实践]]（Folkeskole Reform 2014）
+> 丹麦在 2000 年代加入 PISA 后面临巨大的教育合法化压力。2014 年丹麦通过划时代的[[Danish Public School Reform|公立学校改革法案]]，将哈蒂的理念全面转化为国家治理规程：
 > 1. **改革目标的彻底量化** 办学宗旨被明确改写为确保教育系统中的每名学生学到尽可能多的知识，全盘吸纳了哈蒂式的产出效能叙事。（p.86）
 > 2. **微观教学过程的技术规训** 传统的民主反思与北欧教养传统被边缘化，取而代之的是由上至下层层下达的可测量学习目标、密集的标准化测试，以及严格依照哈蒂向后、向上、向前反馈程式组织的课堂监控。（pp.86–88）
 > 3. **借学术招牌规避民主争议** 当延长课时和死板指标引发广大教师与家长的抗议时，教育部与地方市政官员反复将哈蒂的全球元分析包装为不可违背的科学铁律，以此回避民主商榷并削弱教师的专业自主权。（pp.80, 86）

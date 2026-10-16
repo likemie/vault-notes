@@ -5,7 +5,7 @@ aliases:
 summary: "以法兰克福学派与哈贝马斯认识兴趣论为基础的规范性社会理论，主张知识与政策均具利益构成性，致力于通过意识形态批判揭示支配结构，推动实践解放与实质民主"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 46
+theory_related_count: 48
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -39,6 +39,7 @@ related_concepts:
 related_theories:
   - "[[Structural Functionalism]]"
   - "[[Critical Pluralism]]"
+  - "[[Legitimation Crisis]]"
   - "[[Hegemony]]"
   - "[[Pluralism]]"
 related_methods:
@@ -63,11 +64,12 @@ related_arguments:
   - "[[Argument_Edmondson_2005_EPAA]]"
   - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18]]"
+  - "[[Argument_Nielsen_2021_IRTP]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 confidence: high
 status: active
 created: 2026-06-16
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Critical Theory
@@ -109,6 +111,7 @@ updated: 2026-10-16
 > - **1980s — 教育研究与[[Action Research|行动研究]]的批判转向** 威尔弗雷德·卡尔与[[Stephen Kemmis|斯蒂芬·凯米斯]]（Wilfred Carr & Stephen Kemmis, 1986）出版《成为批判的》（*Becoming Critical*），雪莉·格兰迪（Shirley Grundy, 1987）将认识兴趣论引入课程与教学分析，构建技术性、实践性与[[Emancipatory Action Research|解放性行动研究]]类型学，开启教育批判[[Paradigm|研究范式]]。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch18|(Cohen et al., 2011, pp. 272–273)]]
 > - **2005 — 教育政策与立法权力的批判重构** 埃德蒙森（Edmondson）将批判理论扩展至联邦教育政策与科研管辖权分析，揭示法定科学标准背后的政商利益同盟，提出融合统整性研究与多阵线民主行动的[[Critical Pluralism|批判性多元主义]]框架。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 10–14)]]
 > - **2007 — 变革范式与[[Mixed Methods Research|混合方法研究]]统整** 唐娜·默滕斯（Donna Mertens）提出变革范式（[[Transformative Paradigm]]），将批判理论的解放关怀深度融入实证与混合方法研究程序中，赋予量化与质性工具服务弱势群体平权的行动属性。
+- **2021 — 现代学校生活世界与技术理性殖民批判** 尼尔森与克利特默勒（[[Argument_Nielsen_2021_IRTP|Nielsen & Klitmøller, 2021b]]）将哈贝马斯系统与生活世界理论及舍恩技术理性说运用于教育心理学批判，揭示当代证据本位教育与可见学习热潮本质上是行政官僚系统应对[[Legitimation Crisis|合法化危机]]的技术掩体，批判其将充满意向性的鲜活师生还原为孤立变量并放逐学生主体性。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 83–89)]]
 
 ---
 
@@ -229,3 +232,4 @@ updated: 2026-10-16
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch02|Cohen et al. (2011)]] — 阐释批判教育研究理论与方法：解构[[Technical Rationality|技术理性]]，界定[[Emancipatory Action Research|解放性行动研究]]与[[Ideal Speech Situation|理想言说情境]]（Ch. 2, Ch. 18）。
 > - [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] — 运用批判理论与政策价值建构论剖析[[Reading Excellence Act|卓越阅读法案]]立法铁三角，创立[[Critical Pluralism|批判性多元主义]]框架。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009, pp. 131–132, 136)]] — 揭示批判知识共同体打破战后[[Structural Functionalism|结构功能主义]]霸权、确立26种[[Theoretical Standpoint|理论立场]]共存的[[Pluralism|多元主义]]历程。
+- [[Argument_Nielsen_2021_IRTP|Nielsen and Klitmøller (2021b)]] — 运用批判理论结合哈贝马斯系统/生活世界模型与舍恩技术理性说，剖析当代教育心理学与可见学习运动如何剥离师生意向性与主体意义，充当官僚行政系统应对合法化危机的技术掩体（pp. 83–89）。

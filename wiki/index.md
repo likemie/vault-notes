@@ -3006,7 +3006,7 @@ Total entries: **3735**
 > - [[Danish Clearinghouse for Educational Research]] — 2006年奥胡斯大学建立、2017年关停的欧洲大陆先驱教育证据清算机构，经合组织2007年追踪的标杆样本之一，其夭折揭示了依赖短期合同拨款的中介机构在政治预算周期面前的存续脆弱性。
 
 > [!index-list]- Policy (1)
-> - [[Danish Public School Reform]] — 丹麦议会多数通过公立学校改革，以学习目标替代科目目标，明确引用 Hattie VL，引发教师和研究者的强烈反对
+> - [[Danish Public School Reform]] — 丹麦议会2014年推行的全国基础教育综合改革，以结果导向的学习目标替代传统科目目标并全面引用哈蒂可见学习模型，因强制延长课时、削减备课工时及压制教师专业自主而引发严重的政治合法化危机与全国性大停工反弹。
 
 ### East Asia
 

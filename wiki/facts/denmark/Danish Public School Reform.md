@@ -3,22 +3,27 @@ title: Danish Public School Reform
 aliases:
   - Danish Public School Reform 2014
   - 丹麦公立学校改革2014
-summary: "丹麦议会多数通过公立学校改革，以学习目标替代科目目标，明确引用 Hattie VL，引发教师和研究者的强烈反对"
+  - 丹麦公立学校改革
+  - Folkeskolereformen 2014
+  - Folkeskole Reform 2014
+summary: "丹麦议会2014年推行的全国基础教育综合改革，以结果导向的学习目标替代传统科目目标并全面引用哈蒂可见学习模型，因强制延长课时、削减备课工时及压制教师专业自主而引发严重的政治合法化危机与全国性大停工反弹。"
 type: fact
 subtype: policy
 region: denmark
 fact_region: "denmark"
 fact_kind: "policy"
-fact_related_count: 16
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 23
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
-issuing_organization: ''
+issuing_organization: "丹麦议会"
 tags:
-- education-reform
-- region/denmark
-- level/k12
-- visible-learning
+  - education-reform
+  - region/denmark
+  - level/k12
+  - visible-learning
+  - theme/legitimation-crisis
+  - theme/accountability
 related_concepts:
   - "[[Visible Learning]]"
   - "[[Learnification]]"
@@ -29,73 +34,147 @@ related_concepts:
   - "[[Evidence-Based Education]]"
   - "[[Interpretation Community]]"
   - "[[Professional Judgment]]"
-related_theories: []
+  - "[[Technical Rationality]]"
+  - "[[Student-Teacher Relationship]]"
+related_theories:
+  - "[[Legitimation Crisis]]"
 related_methods: []
 related_persons:
+  - "[[John Hattie]]"
   - "[[Jill Mehlbye]]"
+  - "[[Klaus Nielsen]]"
 related_facts:
   - "[[Science Foundation Ireland]]"
   - "[[Hattie på dansk]]"
   - "[[SFI Report]]"
+  - "[[PISA]]"
 related_arguments:
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
   - "[[Argument_Larsen_2019_EducSci]]"
   - "[[Argument_Laursen_2015_Paideia]]"
+  - "[[Argument_Nielsen_2021_IRTP]]"
 related_instruments: []
-confidence: medium
-status: draft
+confidence: high
+status: completed
 created: '2026-05-03'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
+
+# Danish Public School Reform
+（丹麦 2014 年公立学校改革）
+
+---
+
 ## 背景
 
-> [!info] 背景
-> 2014 年，丹麦议会多数派启动了一项雄心勃勃的公立学校改革([[Argument_Qvortrup_2019_NordSTEP\|Qvortrup, 2019, p.5]])。改革的一个重要元素是将科目目标（subject objectives）替换为学习目标（learning objectives）——教育的最终目标不应该是教师教什么，而应该是学生学什么。
+> [!policy-context] 政策背景
+> - **发布时间 / 发布主体** 2013 年 12 月丹麦议会（Folketing）多数派通过立法，2014 年 8 月新学年起在全国正式实施。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, p. 5)]]
+> - **适用地区 / 对象** 覆盖全丹麦 98 个市镇（Kommuner）的全体公立义务教育基础学校（Folkeskole）、全体中小学教师及 1 至 9 年级学童。
+> - **问题背景** 2000 年代初丹麦加入[[PISA|国际学生评估项目]]（PISA）后，测评成绩未达公众预期，在全国引发剧烈制度震荡；时任首相拉斯穆森（Anders Fogh Rasmussen）于 2003 年公然宣告以协商为主的“圆桌教育学时代终结”，要求教育转向以实绩和考核为核心的产出控制。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 80, 82)]]
+> - **制度位置** 改革将全国课程体系与微观课堂教学重构为标准化目标达标制，直接受惠于[[John Hattie|约翰·哈蒂]]《[[Visible Learning|可见的学习]]》合成体系，并与削减教师劳动备课工时的市政财政紧缩法案强行绑定。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, p. 86)]]
+
+---
 
 ## 政策文本摘要
 
-> [!abstract] 政策文本摘要
-> > "In 2014, a majority in the Danish Parliament launched an ambitious public school reform. One of the important elements of the reform was to replace subject objectives with learning objectives. The final aim of education should not be what teachers Teach, but what students learn."([[Argument_Qvortrup_2019_NordSTEP\|Qvortrup, 2019, p.5]])
->
-> 在这一转变中，对 Hattie 和 [[Visible Learning]] 有明确的引用。改革将可见的学习成果置于教育目标的核心。
->
-> [[Argument_Larsen_2019_EducSci\|Larsen (2019)]] 提供了更多细节：改革由社会民主党政府和议会多数通过，在三年制科目中嵌入了将近 **3,000 个所谓的"学习目标"（nearly 3000 so-called "learning goals"）**，学生被期望在十年义务教育的常规测试中努力达成这些目标([[Argument_Larsen_2019_EducSci\|Larsen, 2019, p.2]])。Larsen 将改革作为 [[Learnification]] 在丹麦制度化的典型案例——学习概念被效果中心的结果逻辑所吞噬。
+> [!claim] 政策核心
+> 丹麦公立学校改革确立了“确保教育系统中的每名学生学到尽可能多的知识”的效能宗旨，用将近 3,000 个以产出为导向的细分“学习目标”全面置换传统的科目育人目标，将哈蒂《可见的学习》作为重构全国基础教育的制度蓝本。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 2)]]; [[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, p. 86)]]
+
+> [!policy-design]- 政策设计
+> - **政策目标** 扭转 PISA 国际排名劣势，追求学业表现最大化，将义务教育法定宗旨从师生民主交往与全人教养，窄化为对知识和可测量技能的高密度吸收。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, p. 86)]]
+> - **适用对象** 全体 Folkeskole 教师、校长、市镇教育督学及 10 年制义务教育阶段学生。
+> - **政策工具** 建立近 3,000 个国家级细分学习目标矩阵、高频标准化国家测试、自上而下的微观课堂反馈监控量规（向后反馈、向上反馈、向前反馈），以及各市镇出资购买的哈蒂培训服务包。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 2)]]; [[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 86–88)]]
+> - **约束机制** 延长学生全天在校课时、取消教师工会传统劳动协议中的备课时间上限（要求教师更多在校值班）、市政当局绩效问责与目标达成督导。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, p. 5)]]
+
+> [!citation-card] 改革目标的产出效能转向
+> 改革的一个重要元素是将科目目标替换为学习目标——教育的终极追求不应是教师教了什么，而必须是学生最终学到了什么。
+> 
+> *“In 2014, a majority in the Danish Parliament launched an ambitious public school reform. One of the important elements of the reform was to replace subject objectives with learning objectives. The final aim of education should not be what teachers Teach, but what students learn.”* ([[Argument_Qvortrup_2019_NordSTEP|Qvortrup, 2019, p. 5]])
+
+---
 
 ## 时间线
 
-> [!note]- 时间线
-> - 2014 丹麦议会多数通过公立学校改革
-> - 改革后 改革引发大量批评反应，尤其在教师中——部分因为改革与对教师劳动协议的立法干预紧密结合，部分因为它挑战了传统的教师角色观([[Argument_Qvortrup_2019_NordSTEP\|Qvortrup, 2019, p.5]])
-> - 改革后 批评反应从研究者那里获得学术合法性支撑，形成了由学者、政治家和工会代表组成的广泛解释社群
+> [!dev-timeline] 政策发展脉络
+> - **2000s 初 — PISA 震荡与“圆桌教育学”终结** 丹麦在 PISA 初测表现平庸引起朝野震动，首相拉斯穆森 2003 年宣布转向严格的考核与绩效监督，为引入外部量化证据铺平道路。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, p. 82)]]
+> - **2013 — 教师大停工与劳工立法干预（Lov 409）** 市镇协会（KL）与教师工会关于劳动协议谈判破裂，导致全国范围近 7 万名公立学校教师被停工（Lockout）；议会迅速出台 409 号法律强制介入，削减备课保护，为推行全日制教改强行扫清障碍。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, p. 5)]]
+> - **2013 年底 — 议会通过《公立学校改革法案》** 执政的社会民主党与议会多数派达成跨党派协议，正式采纳《可见的学习》核心逻辑，确立以学习目标为中枢的改革方案。
+> - **2014 年 8 月 — 改革正式落地与技术理性监控铺开** 全面实施近 3,000 项学习目标与延长学时，各市镇广泛采购哈蒂培训项目（Visible Learningplus）。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 2)]]
+> - **2015 至今 — 合法化反弹、骨干教师流失与批判文集出版** 改革引发广泛学术反弹与基层抵抗，出版批判文集《[[Hattie på dansk]]》；学者诊断改革为行政系统防御[[Legitimation Crisis|合法化危机]]的技术理性掩体。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 84–87)]]
+
+---
 
 ## 实施情况
 
-> [!example] 实施情况
-> 改革将 Hattie 和 [[Visible Learning]] 作为从"教什么"转向"学什么"的理论参照——使教学的核心关注从教师的输入转向学生的输出([[Argument_Qvortrup_2019_NordSTEP\|Qvortrup, 2019, p.5]])。
+> [!actor-grid] 实施角色分工
+> - **发布主体** 丹麦议会多数派、教育部（Undervisningsministeriet）。
+> - **执行主体** 各地方市镇协会（Kommunernes Landsforening, KL）、各单体学校校长与督导委员会。
+> - **适用对象** 一线教师（被要求转型为目标达成技术的执行者）与学生（被要求持续向学习目标靠拢）。
+> - **政策工具** 嵌入将近 3,000 个细分学习目标的课程框架、国家标准化测验数据库与 Visible Learning 工作坊。
+
+> [!pathways]- 实施路径与技术规训
+> - **国家课程目标彻底量化** 传统的自由讨论与教养（Dannelse）传统被全面边缘化，取而代之的是由上至下层层下达的可测量学习指标。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, p. 86)]]
+> - **课堂教学行为的技术闭环** 教师被要求严格依照哈蒂式的反馈程式（向后、向上、向前反馈）监控课堂，将教学活动降格为刺激-强化-纠偏的控制流水线。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 88–89)]]
+> - **学术招牌作为政治盾牌** 当家长和教师对死板考核与课时延长提出强烈抗议时，教育部与市镇官员反复将哈蒂的元分析数据奉为不可抗拒的“科学铁律”，用以压制民主商榷并削弱教师专业自主。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 80, 86)]]
+
+---
+
+## 行动者与利益相关者
+
+> [!actor-grid] 权力—利益矩阵
+> - **高权力 · 高利益 — 政策主导联盟** 丹麦教育部、地方市镇协会（KL）与政界多数派——追求低成本提升国际测评排名，利用技术理性闭环压制工会与财政预算争议。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, p. 86)]]
+> - **高权力 · 低利益 — 循证咨询机构与商业培训网络** 考文出版社（Corwin）、丹麦本地出版集团（如 Dafolo）及哈蒂团队——通过销售培训教材、认证项目与工作坊获取高额版税与服务费。
+> - **低权力 · 高利益 — 基层抗争与受影响主体** 丹麦教师协会（DLF）、广大公立学校教师、学生与家长——承受备课时间被夺、职业倦怠激化与全人教育生态破坏的直接代价。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, p. 5)]]
+> - **低权力 · 低利益 — 批判学者群体** 批判心理学家、教育哲学家与社会学家——通过撰写《[[Hattie på dansk]]》与发表概念论文，为基层工会抗争提供学理弹药。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 80–81)]]
+
+---
 
 ## 效果与评价
 
-> [!success] 效果与评价
-> - 改革引发了强烈反对，部分因为与教师劳动协议的争议性立法变更高度绑定([[Argument_Qvortrup_2019_NordSTEP\|Qvortrup, 2019, p.5]])
-> - 在短时间内，一个广泛的解释社群在研究者和实践者中形成，将 Hattie 从教育英雄转变为教育敌人
-> - Qvortrup 指出：没有人声称 Hattie 说过使用学习目标与提高[[Academic Achievement\|学业成就]]之间存在相关性，这仅仅是关于使学生的学习可见的重要性的讨论——但这一细微区分在争议中被抹去
-> - Laursen 以丹麦 [[Science Foundation Ireland|SFI]] 报告和 Mehlbye 高绩效学校研究回看 Hattie、Meyer、Helmke 的国际[[Effective Teaching\|有效教学]]综合，认为其核心结论在丹麦总体适用：清晰一致的[[Classroom Management\|课堂管理]]、明确目标、高要求和良好班级社会环境均与更好学生结果相关；这为改革语境中引入 Hattie 提供了一种较温和的经验支持，但不等于支持改革的所有政治安排([[Argument_Laursen_2015_Paideia\|Laursen, 2015, pp.37–40]])。
+> [!finding-cards] 效果与评价
+> - **政策合法性与公信力遭遇断崖式下跌** 改革未能在不增加投入的前提下有效提升学业水平，反而引发大批经验丰富的骨干教师辞职、学生转入私立学校（Friskoler），加剧了公立教育系统的离心倾向。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, p. 86)]]
+> - **学习概念异化为“学习化”（Learnification）** 斯特恩·内珀·拉森（Steen Nepper Larsen, 2019）指出，改革将教育简化为以结果为中心的狭隘技术逻辑，教育的崇高目的被机械的测试指标所吞噬。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 2)]]
+> - **国家合法化危机借技术理性转嫁** [[Klaus Nielsen|克劳斯·尼尔森]]与克利特默勒（[[Argument_Nielsen_2021_IRTP|Nielsen & Klitmøller, 2021b]]）诊断指出：哈蒂框架风靡丹麦绝非由于其数据科学严谨，而是丹麦行政系统在遭遇 PISA 冲击与紧缩危机时，急切需要一套能许诺稳定产出成绩的科学说辞来向公众交差；哈蒂恰恰提供了一套将教学切片为可控环节的统一工具，被政府视作平息政治合法化危机的技术掩体。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 86–87)]]
+
+> [!stat-cards]- 核心规模数据
+> - **3,000+** 改革在三年制各科目中硬性嵌入的细分“学习目标”（项）。[[Argument_Larsen_2019_EducSci|(Larsen, 2019, p. 2)]]
+> - **98** 实施该项法定公立学校改革的丹麦市镇总数（个）。
+> - **2013 Lov 409** 议会强行通过以终止全国教师大停工并剥夺传统工时协议的干预法案编号。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, p. 5)]]
+
+---
 
 ## 争议与评论
 
-> [!warning] 争议与评论
-> - **Qvortrup（支持方）** 批评者的反应不是基于对 Hattie 作品的准确理解，而是基于意识形态驱动的解释社群——将"[[Visible Learning\|可见的学习]]（Visible Learning，VL）"扭曲为"反理论"的[[Positivism\|实证主义]]([[Argument_Qvortrup_2019_NordSTEP\|Qvortrup, 2019, p.4-5]])
-> - **教师与工会（批评方）** 改革与削减教师权利的立法同时推进，挑战了传统的教师角色；研究者的批评被用作反对改革政治议程的学术合法性来源([[Argument_Qvortrup_2019_NordSTEP\|Qvortrup, 2019, p.5]])
-> - 批评著作 *[[Hattie på dansk]]*（[[Hattie på dansk]]）在此争议背景下出版，汇集多篇强烈批评文章([[Argument_Qvortrup_2019_NordSTEP\|Qvortrup, 2019, p.4]])
+> [!debates] 政策争议
+>
+> > [!axis] 科学教学处方 vs 行政合法化技术掩体
+> > 争论改革推崇哈蒂模式究竟是追求教学科学化，还是政府逃避治理责任的意识形态工具。
+> >
+> > - **官方与循证支持派（KL, Hansen et al., 2015）** 宣称哈蒂综合了全球最大元分析实证数据库，遵循其指标是提升公立学校质量的科学路径，甚至声称拒绝采用哈蒂研究结果的人承担着重大道德责任。[[Argument_Hansen_2015_Paideia|(Hansen et al., 2015, p. 7)]]
+> > - **批判理论学派（[[Argument_Nielsen_2021_IRTP|Nielsen & Klitmøller, 2021b]]）** 论证哈蒂的实证数据存在致命缺陷，其真正功能是为政府在财政紧缩和压减工时背景下推行绩效控制提供技术理性掩体，实质上是将复杂的政治与价值冲突去政治化。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 86–87)]]
+>
+> > [!axis] 学习目标导向 vs 教师专业判断与全人教养
+> > 争论教学应当由外部设定的可测量目标闭环驱动，还是依赖教师在现场的情境反思与师生交往。
+> >
+> > - **改革倡导者（社会民主党政府多数派）** 坚持教学重点必须从教师教什么转为学生学到什么，目标越细微清晰，产出越容易被监测与保证。[[Argument_Qvortrup_2019_NordSTEP|(Qvortrup, 2019, p. 5)]]
+> > - **教育反思派（Biesta, 2015; [[Argument_Larsen_2019_EducSci|Larsen, 2019]]）** 批评将三千个指标强加给课堂彻底摧毁了北欧民主教养（Dannelse）传统，把鲜活的师生关系降格为工业化流水线，彻底放逐了学生在学校寻找生活意义的主体性。[[Argument_Nielsen_2021_IRTP|(Nielsen & Klitmøller, 2021b, pp. 87–89)]]
+
+---
 
 ## 相关概念／理论
 
-> [!example] 相关概念／理论
-> - [[Visible Learning]] — 改革的理论参照
-> - [[Evidence-Based Education]] — 改革体现的证据本位教育取向
-> - [[Effective Teaching]] — 丹麦研究对 Hattie 等国际有效教学综合适用性的检验
-> - [[SFI Report]] — 丹麦本土证据基准
-> - [[Jill Mehlbye]] — 丹麦高绩效学校研究中关于高要求、[[Academic Achievement\|学业表现]]取向和[[Classroom Management\|课堂管理]]的补充证据
-> - [[Interpretation Community]] — 解释改革引发争议的社会机制
-> - [[Professional Judgment]] — Qvortrup 论证改革应依赖的专业能力
-
+> [!entry-map]
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Visible Learning]] | 概念 | 丹麦 2014 年教改全盘采纳的核心理论蓝本与技术依据。 |
+> | [[Technical Rationality]] | 概念 | 解释丹麦教改将复杂的教学生活异化为手段-目的因果工程的核心哲学概念。 |
+> | [[Legitimation Crisis]] | 理论 | 揭示丹麦政府为何在面对 PISA 冲击和财政紧缩时狂热引进哈蒂模式的宏观解释理论。 |
+> | [[Learnification]] | 概念 | 拉森用以定性丹麦教改把教育崇高宗旨缩减为机械学习指标的概念。 |
+> | [[Hattie på dansk]] | 事实 | 丹麦学界就 2014 年教改机械套用哈蒂模式展开全国性大论战并出版的批判文集。 |
+> | [[PISA]] | 事实 | 丹麦 2000 年代加入该跨国测评所引发的焦虑成为催生 2014 年教改的直接导火索。 |
+> | [[John Hattie]] | 人物 | 其可见学习学术体系与效应量排行榜被丹麦政府奉为教改的“科学铁律”。 |
+> | [[Klaus Nielsen]] | 人物 | 丹麦批判心理学家，深入剖析丹麦 2014 年教改技术理性与合法化危机的核心学者。 |
+> | [[Argument_Nielsen_2021_IRTP\|Nielsen and Klitmøller (2021b)]] | 论证 | 以丹麦 2014 年教改为例批判技术理性与合法化危机防御机制的权威期刊文献。 |
+> | [[Argument_Qvortrup_2019_NordSTEP\|Qvortrup (2019)]] | 论证 | 记录丹麦 2014 年教改引发的“解释社群”极化对立与教师劳动法争议。 |
+> | [[Argument_Larsen_2019_EducSci\|Larsen (2019)]] | 论证 | 揭示丹麦 2014 年教改中三千个学习目标的细分及其引发的“学习化”异化。 |
