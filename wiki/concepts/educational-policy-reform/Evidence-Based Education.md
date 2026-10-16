@@ -9,7 +9,7 @@ aliases:
 summary: "主张教育实践与政策决策应建立在严格的因果识别研究证据之上的政策与实践运动，核心争议在于实验因果识别、知识可迁移性、专业判断与地方语境之间如何平衡"
 type: concept
 domain: "educational-policy-reform"
-related_count: 147
+related_count: 149
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -70,6 +70,8 @@ related_concepts:
   - "[[Allgemeine Pädagogik]]"
   - "[[Academic Freedom]]"
   - "[[Business as Usual]]"
+  - "[[Data Infrastructure]]"
+  - "[[Publication Bias]]"
   - "[[Conceptual, Instrumental, and Symbolic Use of Research]]"
   - "[[Teaching Assistant]]"
   - "[[Technology Infusion]]"
@@ -96,8 +98,8 @@ related_methods:
   - "[[Implementation and Process Evaluation]]"
   - "[[Factorial Design]]"
   - "[[Quasi-Experimental Designs]]"
-  - "[[Mixed Methods Research]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Mixed Methods Research]]"
 related_persons:
   - "[[Grover Whitehurst]]"
   - "[[John Hattie]]"
@@ -130,7 +132,6 @@ related_facts:
   - "[[Forschungsmonitor Schule]]"
   - "[[Qualitätsoffensive Lehrerbildung]]"
   - "[[Sutton Trust]]"
-  - "[[Ofsted]]"
   - "[[Playing for Success]]"
   - "[[Selective Schools Expansion Fund]]"
   - "[[Tennessee STAR Project 1985-1989]]"
@@ -171,10 +172,10 @@ related_arguments:
   - "[[Argument_Pampaka_2016_IJRME]]"
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
+  - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
   - "[[Argument_Sarbiewska_2019_JSR]]"
   - "[[Argument_Dedering_2009_EERJ]]"
-  - "[[Argument_Wecker_2016_ZfE]]"
 confidence: high
 status: active
 created: '2026-05-01'
@@ -468,8 +469,8 @@ Fitz-Gibbon 同时指出，Anderson and Biddle（1991）已观察到政策制定
 
 > [!tension] 改革与替代的理论与制度路径
 > - **内部方法学改革（从黑箱因果到[[Realist Evaluation\|现实主义试验]]与过程融合）** 接受 [[Randomised Controlled Trials\|RCT]] 作为因果识别基石，但深刻反思[[Business as Usual\|常态教学]]基线高企与商业干预微弱效应（平均 $d=0.06$）的方法学挑战：主张将量化试验与[[Implementation and Process Evaluation\|实施与过程评估]]（IPE）刚性绑定以区分实施失败与理论无效；倡导多臂[[Factorial Design\|析因设计]]与现实主义试验（Realist Trials）以探索因果中介机制；拓展研究[[School Choice\|学校选择]]（[[Quasi-Experimental Designs\|QED]]）与[[Teacher Choices\|教师选择]]微型试验以回应一线实践关切（[[Argument_Peterson_2016_IJRME\|Peterson, 2016]]；[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 53–57]]）。
-> - **范式替代（从 EBE 到 [[Evidence-Informed Practice\|EIP]]）** 将证据从决策核心降为信息来源之一，把能动性从政策端重新分配给教师和学习者。方向从“什么有效”转向“什么对谁有效、通过什么方式、在什么情境下”（[[Argument_Pampaka_2016_IJRME\|Pampaka et al., 2016]]）。
-> - **底层数据基础设施重构（建立中央标准化证据数据库与初级数据直接综合）** 克里斯托夫·韦克尔（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016, pp. 33–34]]）指出，EBE 运动依赖商业期刊发表的孤立元分析与二级汇总，存在严重的发表偏倚、方法学黑箱与数据不可复核性。真正的制度出路在于建立受公共资助、独立于商业利益的**中央初级研究与证据数据库（Zentrale evidenzbasierte Datenbank）**，收录完整的一级效应量原始统计参数；循证教育应终结对粗暴二级元分析的依赖，转向基于中央数据池对初级研究进行的单级多水平直接综合（One-stage direct synthesis），从根本上消除文献重叠与假性精确。
+> - **[[Paradigm|范式]]替代（从 EBE 到 [[Evidence-Informed Practice\|EIP]]）** 将证据从决策核心降为信息来源之一，把能动性从政策端重新分配给教师和学习者。方向从“什么有效”转向“什么对谁有效、通过什么方式、在什么情境下”（[[Argument_Pampaka_2016_IJRME\|Pampaka et al., 2016]]）。
+> - **底层[[Data Infrastructure|数据基础设施]]重构（建立中央标准化证据数据库与初级数据直接综合）** 克里斯托夫·韦克尔（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016, pp. 33–34]]）指出，EBE 运动依赖商业期刊发表的孤立[[Meta-analysis|元分析]]与二级汇总，存在严重的[[Publication Bias|发表偏倚]]、方法学黑箱与数据不可复核性。真正的制度出路在于建立受公共资助、独立于商业利益的**中央初级研究与证据数据库（Zentrale evidenzbasierte Datenbank）**，收录完整的一级[[Effect Size|效应量]]原始统计参数；循证教育应终结对粗暴[[Meta-meta-analysis|二级元分析]]的依赖，转向基于中央数据池对初级研究进行的单级多水平直接综合（One-stage direct synthesis），从根本上消除文献重叠与假性精确。
 
 > [!implication] 整合方向
 > 以实在论因果命题为出发点，运用[[Mixed Methods Research\|混合方法]]进行多方法跨情境验证，教师的[[Professional Judgment\|专业判断]]从证据的被动接受者上升为共同生产者（[[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019]]；[[Argument_Nelson_2017_EducRes\|Nelson & Campbell, 2017]]）。
@@ -487,22 +488,22 @@ Fitz-Gibbon 同时指出，Anderson and Biddle（1991）已观察到政策制定
 > *The idea that professional practices such as education should be based upon or at least be informed by evidence continues to capture the imagination of many politicians, policy makers, practitioners and researchers.*
 
 > [!citation-card] 实验因果识别与循证政策基石
-> 证据本位教育政策的核心是依赖随机分配和严格匹配实验作为政策和实践的基础，将可复制的教育项目和有前景的实践置于严格评估之下，仅推广那些被证明有效的干预方案。[[Argument_Slavin_2002_ER|(Slavin, 2002, p. 15)]]
+> 证据本位教育政策的核心是依赖[[Random Assignment|随机分配]]和严格匹配实验作为政策和实践的基础，将可复制的教育项目和有前景的实践置于严格评估之下，仅推广那些被证明有效的干预方案。[[Argument_Slavin_2002_ER|(Slavin, 2002, p. 15)]]
 >
 > *Evidence-based education policy relies on randomized and rigorous matched experiments as the foundation for policy and practice.*
 
-> [!citation-card] 英国官方对合规循证来源的行政规训
-> 英国教育部明确将 Sutton Trust、EEF 和 John Hattie 列为官方核准的证据来源，同时排除了地方督导与议会报告，强调创新必须是建立在“什么有效以及为什么”的已有知识之上的被规训创新。[[Argument_Bainbridge_2022_ROE|(Bainbridge et al., 2022, p. 4)]]
+> [!citation-card] 英国官方对合规循证来源的行政[[Disciplina and Doctrina|规训]]
+> 英国教育部明确将 [[Sutton Trust]]、[[Education Endowment Foundation|EEF]] 和 [[John Hattie]] 列为官方核准的证据来源，同时排除了地方督导与议会报告，强调创新必须是建立在“什么有效以及为什么”的已有知识之上的被规训创新。[[Argument_Bainbridge_2022_ROE|(Bainbridge et al., 2022, p. 4)]]
 
-> [!citation-card] 拒斥机械循证医学类比的本体论依据
-> 将医学领域的研究成果简单套用于教育领域的转移活动是极不合理的。原因之一在于，医学领域的实证研究相比教育科学通常具备更高的可推广性；而在教育科学中，教育实践这一高度特殊且复杂的具体研究对象，使得类似的推论与概括变得极其困难。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, p. 11)]]
+> [!citation-card] 拒斥机械循证医学类比的[[Ontology|本体论]]依据
+> 将医学领域的研究成果简单套用于教育领域的转移活动是极不合理的。原因之一在于，医学领域的实证研究相比教育科学通常具备更高的[[External Validity|可推广性]]；而在教育科学中，教育实践这一高度特殊且复杂的具体研究对象，使得类似的推论与概括变得极其困难。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, p. 11)]]
 >
 > *Gleichzeitig ist ein einfacher Übertrag von Erkenntnissen der Forschungen aus der Medizin auf Transferaktivitäten im Bildungsbereich unplausibel – unter anderem, weil Forschungen in der Medizin häufiger generalisierbar sind als in der Erziehungswissenschaft, wo der spezifische und komplexe Forschungsgegenstand Bildungspraxis analoge Generalisierungsmöglichkeiten erschwert.*
 
 > [!citation-card] 从可见实践走向有依据的实践：中央证据库倡议
-> 唯有建立数据完全公开透明、受公共资助的中央初级证据数据库，循证教育才能摆脱商业期刊发表偏倚与二阶粗暴汇总的误导。与其依赖充满文献重叠与方法学黑箱的二级元分析，不如在统一数据基础设施上直接开展一级初级研究的多水平证据综合，真正实现从“可见的实践”走向“有依据的实践”。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 33–34)]]
+> 唯有建立数据完全公开透明、受公共资助的中央初级证据数据库，循证教育才能摆脱商业期刊[[Publication Bias|发表偏倚]]与二阶粗暴汇总的误导。与其依赖充满文献重叠与方法学黑箱的[[Meta-meta-analysis|二级元分析]]，不如在统一[[Data Infrastructure|数据基础设施]]上直接开展一级初级研究的多水平证据综合，真正实现从“可见的实践”走向“有依据的实践”。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 33–34)]]
 >
-> *Von der sichtbaren zur fundierten Praxis bedarf es einer zentralen, öffentlich geförderten Datenbank für Primärstudien, die direkte Synthesen ermöglicht und die Abhängigkeit von undurchsichtigen Meta-Metaanalysen überwindet.*
+> *Von der sichtbaren zur fundierten [[Praxis]] bedarf es einer zentralen, öffentlich geförderten Datenbank für Primärstudien, die direkte Synthesen ermöglicht und die Abhängigkeit von undurchsichtigen Meta-Metaanalysen überwindet.*
 
 ---
 ## 应用案例
@@ -561,5 +562,6 @@ Fitz-Gibbon 同时指出，Anderson and Biddle（1991）已观察到政策制定
 > [!evidence-grid-a] 德国案例索引
 > - [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] — 追踪德国四个联邦州教育部循证政策实践，揭示数据使用如何从 PISA 2000 初期的政治战术性与象征性合法化应对，逐步演进为具有假设检验、专业质保与弱势扶持特征的日常行政常规。
 > - [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] — 系统反思德语区新治理工具在学校基层的成效停滞，批判清算中心底层转移作用假设（Wirkannahmen）的反思贫困，主张构建教育科学作为转移科学（[[Transfer Science\|Transferwissenschaft]]）。
+> - [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] — 发表于《德国教育学杂志》（ZfE），对在德语区广泛传播的《可见的学习》循证神话进行数理与[[Meta-analysis|元分析]]取证解构，直面二级证据汇总的同质性破产、除数混淆与重叠缺陷，提出建立公共中央标准化证据库并转向一级直接证据综合的制度重构路径。
 
 ---

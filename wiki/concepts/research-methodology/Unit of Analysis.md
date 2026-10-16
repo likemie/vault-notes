@@ -10,10 +10,10 @@ aliases:
   - 记录单位
   - 语境单位
   - 抽样单位
-summary: "研究设计、质性编码与内容分析中确定数据切片与分类基本边界的核心概念，涵盖抽样单位、记录单位与语境单位三层体系，以及宏观比较研究中从19世纪以校为中心的孤立办学考察向萨德勒民族国家整体教育体系、世界体系整体、超国家度量网络与流动空间多标度结构位置的历史演进"
+summary: "研究设计、质性编码与内容分析中确定数据切片与分类基本边界的核心概念，涵盖抽样单位、记录单位与语境单位三层体系，量化证据综合中底层独立原始研究与高阶汇聚元分析层级的对齐，以及宏观比较研究中从19世纪以校为中心的孤立办学考察向萨德勒民族国家整体教育体系、世界体系整体、超国家度量网络与流动空间多标度结构位置的历史演进"
 type: concept
 domain: "research-methodology"
-related_count: 87
+related_count: 92
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Construct]]"
   - "[[Heterogeneity]]"
+  - "[[Sampling Error]]"
   - "[[Rich and Thick Description]]"
   - "[[Methodological Nationalism]]"
   - "[[Operationalization]]"
@@ -69,6 +70,9 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Content Analysis]]"
   - "[[Qualitative Research]]"
+  - "[[Meta-analysis]]"
+  - "[[Meta-meta-analysis]]"
+  - "[[Inverse-Variance Weighting]]"
   - "[[Longitudinal Study]]"
   - "[[Data Reduction]]"
   - "[[Transcription in Qualitative Research]]"
@@ -108,6 +112,7 @@ related_facts:
   - "[[EU]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
@@ -181,6 +186,11 @@ updated: 2026-10-16
 > - **超国家标准化度量空间（Supranational Metric Assessment Space）** 20 世纪末期由国际大规模测评（如 [[IEA]]、[[OECD]]/[[PISA]]）所构建的去情境化、以量化[[Performance Indicators|绩效指标]]和通用胜任力为导向的数据空间，将分析基准从历史文化国别容器重构为跨国能力度量衡网络。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 95–96)]]
 > - **微观田野与多点比较案例（Micro-[[Fieldwork]] & [[Comparative Case Study]]）** 阿诺夫等学者倡导将分析单位深入课堂[[Rich and Thick Description|深描]]、基层女教师博弈与乡村青年亚文化，实现宏观世界体系与微观生活世界的辩证对接。[[Argument_Arnove_2009_WorldSystems|(Arnove, 2009, pp. 108–110)]]
 > - **[[Space of Flows|流动空间]]中的跨国五重结构性[[Discourse|话语]]位置（Transnational Network Positions in the Space of Flows）** 比奇（[[Argument_Beech_2009_GlobalGarden|Beech, 2009b]]）融合[[Basil Bernstein|伯恩斯坦]]语篇位置与卡斯特[[Space of Flows|流动空间]]理论，批判将民族国家作为天然分析容器的[[Methodological Nationalism|方法论民族主义]]；确立由全球学术、国际机构、国家官方、本土学术与微观学校五大结构位置构成的关系型分析单位，将分析基准转向非领土化网络中流通的符号与话语控制权节点。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 349–351)]]
+
+> [!taxonomy] 量化证据综合与元分析中的分析单位层级（Wecker et al., 2016; Cooper & Koenka, 2012）
+> - **微观层级：个体受试者（Individual Participant / Micro-unit）** 实证实验的最底层数据源，对应于个体受试者数据（Individual Participant Data, IPD）元分析；能最精确地控制协变量与被试异质性，但通常在汇总报告中已被聚合。
+> - **基准因果层级：独立原始实证研究（Independent Primary Study / Meso-unit）** 证据综合的法定基准因果与抽样单位。所有关于因果推断、[[Sampling Error|抽样误差]]、[[Effect Size|效应量]]分布与统计检验的数学公理，其独立性假定均建立在此层级之上。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–25)]]
+> - **宏观汇聚层级：一级元分析汇总项（First-Order Meta-Analysis / Macro-unit）** [[Meta-meta-analysis|二级元分析]]（伞状综述）的文献检索与提取载体。它仅属于文献分类与阶段性报告的选择单位（unit of selection），绝非天然独立的统计分析单位；若未剔除重复的底层主要研究，直接以元分析为分析单位进行统计聚合，将犯下严重的“分析单位错位（Unit-of-Analysis Error）”。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–25, 29–30)]]
 
 > [!feature] 五类抽样与记录单位形态（Krippendorff, 2004）
 > - **物理单位（Physical units）** 以时间、空间、篇幅或物理尺寸界定（如报纸版面尺寸、电视广播时长、社交媒体单条推文）。
@@ -314,6 +324,21 @@ updated: 2026-10-16
 
 ---
 
+### 命题九　二级证据综合中分析单位错位引发文献重叠多重计数与虚假精度膨胀
+
+> [!concept-lens] 宏观综合中的分析单位错位与独立性公理
+> 本命题探讨在二级元分析与伞状综述中，若误将一级元分析论文作为天然独立的统计分析单位，如何导致底层原始研究被重复计算并摧毁统计推断基础。
+
+> [!claim] Wecker et al. & Cooper & Koenka
+> **二级证据综合中的分析单位错位错误（Unit-of-Analysis Error）** 克里斯托夫·韦克尔（Christof Wecker, 2016）与库珀和科恩卡（Harris Cooper & Ashley Koenka, 2012）系统揭示，在宏观证据综合中，研究者常将一级[[Meta-analysis|元分析]]论文视作独立的“分析单位（Unit of Analysis）”予以直接统计合并。然而，元分析的核心数学基石要求所有分析单位彼此独立；当不同的一级元分析纳入了相同的主要研究时（例如网络学习领域文献重叠率高达 93.3%），以元分析为分析单位直接取算术平均或简单加权，等同于对重叠样本中的同一批学生和相同干预实施了多重计数（Double-Counting）。这种分析单位与真实抽样单位的严重错位，违反了高斯-马尔可夫独立性假定，产生虚假的协方差交叉项，使合成标准误被人为压缩、效应量严重虚高、置信区间虚假缩水。真正的宏观证据综合必须将分析单位严格锚定在不重叠的底层原始实证研究之上，或采用一步式直接微观汇总（One-Stage Synthesis）。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–25, 29–30)]]
+
+> [!citation-card] 二级综合中的分析单位错位与底层主要研究锚定
+> 二级元分析在宏观上以元分析报告为汇总单位，但在统计理论和数学底层上，所有效应量与方差的推导必须严格映射至相互独立的原始主要研究。若忽视元分析之间的文献重叠，直接将元分析作为独立分析单位合并，将导致同一批被试数据被重复计入，产生严重的分析单位错位错误，造成方差估计严重失效与统计检验虚假显著。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–25, 29–30)]]
+>
+> *Macro-syntheses often treat first-order meta-analyses as independent units of analysis; however, when primary studies overlap across reviews, this practice constitutes a severe unit-of-analysis error that inflates sample precision and invalidates statistical inference.*
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 分析单位核心理论命题总览
@@ -327,6 +352,7 @@ updated: 2026-10-16
 > | **世界体系与多标度命题** | 解构方法论民族主义，将基准分析单位重构为资本主义世界经济体整体与[[Pluri-Scalar Governance\|多标度治理]]空间矩阵 | 中心-边缘国际分工、超国家规约、空间标度流动 | Wallerstein (1974); Robertson et al. (2002); [[Argument_Arnove_2009_WorldSystems\|Arnove (2009, pp. 104, 110–111)]] |
 > | **体系转变命题** | 宏观比较分析单位由 19 世纪“以校为中心”的孤立办学视察向 20 世纪初“民族国家整体教育体系”发生历史性转变 | 办学行政借用与立法合法化、文化[[Situative Perspective\|情境主义]]、[[Intangible Spiritual Forces\|无形精神力量]]探究 | Sadler (1900); [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a, pp. 140–142)]] |
 > | **网络位置命题** | 解构方法论国家主义，将分析单位从领土国家容器重构为跨国流动空间中的五大结构性话语位置 | 流动空间覆盖地方空间、多标度话语流通、结构位置权力不对称 | [[Jason Beech\|Beech (2009b)]]; [[Argument_Beech_2009_GlobalGarden\|(Beech, 2009b, pp. 349–351)]] |
+> | **证据综合错位命题** | 二级元分析误将元分析作为独立分析单位引发文献重叠多重计数，破坏独立性公理并导致虚假精度 | 抽样单位与因果单位错位、文献重叠协方差失效、一步式直接汇总 | Cooper & Koenka (2012); [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, pp. 24–25, 29–30)]] |
 
 ---
 
