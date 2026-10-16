@@ -11,8 +11,8 @@ argument_key: "Argument_Cheung_2021_ECNUROE"
 argument_display_title: "Evidence-based reform in education: Global perspectives [Editorial]"
 argument_kind: "journal-article"
 argument_related_count: 12
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: ECNU Review of Education
 citation: "Cheung, A. C. K., & Xie, C. (2021). Evidence-based reform in education: Global perspectives [Editorial]. ECNU Review of Education, 4(1), 3–6."

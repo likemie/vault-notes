@@ -13,9 +13,9 @@ argument_key: "Argument_Cheng_2026_KeJiChuangXin"
 argument_display_title: "科技创新和产业创新融合：中国的发展路径与对策研究报告"
 argument_kind: "book"
 argument_related_count: 52
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
-argument_related_color: "#ede9fe"
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 book_title: 科技创新和产业创新融合：中国的发展路径与对策研究报告
 publication_place: 北京
 publisher: 人民邮电出版社

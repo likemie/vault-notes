@@ -8,9 +8,9 @@ argument_key: "Argument_Revai(Ed.)_2022_OECD"
 argument_display_title: "Who cares about using education research in policy and practice?: Strengthening research engagement"
 argument_kind: "edited-volume"
 argument_related_count: 63
-argument_related_level: 4
-argument_related_stars: "⭐⭐⭐⭐"
-argument_related_color: "#e5e7eb"
+argument_related_level: 6
+argument_related_stars: "💎💎"
+argument_related_color: "#fecdd3"
 authors: []
 editors:
   - "[[Nóra Révai|Révai, N.]]"

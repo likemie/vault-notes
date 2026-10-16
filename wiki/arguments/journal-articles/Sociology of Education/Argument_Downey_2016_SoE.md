@@ -11,8 +11,8 @@ argument_key: "Argument_Downey_2016_SoE"
 argument_display_title: "Fifty years since the Coleman Report: Rethinking the relationship between schools and inequality"
 argument_kind: "journal-article"
 argument_related_count: 11
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: Sociology of Education
 citation: "Downey, D. B., & Condron, D. J. (2016). Fifty years since the Coleman Report: Rethinking the relationship between schools and inequality. Sociology of Education, 89(3), 207–220."

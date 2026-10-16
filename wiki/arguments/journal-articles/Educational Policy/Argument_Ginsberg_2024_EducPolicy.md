@@ -86,8 +86,8 @@ argument_key: "Argument_Ginsberg_2024_EducPolicy"
 argument_display_title: "Does ESSA assure the use of evidence-based educational practices? Educational Policy, 38(1), 161–185"
 argument_kind: "journal-article"
 argument_related_count: 38
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: "Educational Policy"
 book_title: ""

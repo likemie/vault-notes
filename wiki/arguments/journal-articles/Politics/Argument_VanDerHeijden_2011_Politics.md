@@ -70,8 +70,8 @@ argument_key: "Argument_VanDerHeijden_2011_Politics"
 argument_display_title: "Institutional layering: A review of the use of the concept"
 argument_kind: "journal-article"
 argument_related_count: 33
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: "Politics"
 book_title: ""

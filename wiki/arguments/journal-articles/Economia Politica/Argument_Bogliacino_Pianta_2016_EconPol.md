@@ -8,8 +8,8 @@ argument_key: "Argument_Bogliacino_Pianta_2016_EconPol"
 argument_display_title: "The Pavitt Taxonomy, revisited: patterns of innovation in manufacturing and services"
 argument_kind: "journal-article"
 argument_related_count: 21
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Economia Politica"
 authors:

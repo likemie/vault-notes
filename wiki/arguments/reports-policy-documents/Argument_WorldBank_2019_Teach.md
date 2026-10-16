@@ -8,8 +8,8 @@ argument_key: "Argument_WorldBank_2019_Teach"
 argument_display_title: "Teach: Observer manual (1st ed.)"
 argument_kind: "report"
 argument_related_count: 43
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dcfce7"
 authors:
   - "World Bank Group"

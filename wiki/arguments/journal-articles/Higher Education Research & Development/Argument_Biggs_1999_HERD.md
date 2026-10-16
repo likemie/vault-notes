@@ -63,8 +63,8 @@ argument_key: "Argument_Biggs_1999_HERD"
 argument_display_title: "What the student does: Teaching for enhanced learning"
 argument_kind: "journal-article"
 argument_related_count: 35
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: Higher Education Research & Development
 book_title: ""

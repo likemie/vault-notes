@@ -99,9 +99,9 @@ argument_key: "Argument_Li_2025_HSSC"
 argument_display_title: "The effects of PISA on global basic education reform: A systematic literature review"
 argument_kind: "journal-article"
 argument_related_count: 56
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
-argument_related_color: "#dbeafe"
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 journal: "Humanities and Social Sciences Communications"
 book_title: ""
 publication_place: ""

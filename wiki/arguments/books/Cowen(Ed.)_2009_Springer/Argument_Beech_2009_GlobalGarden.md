@@ -105,9 +105,9 @@ argument_key: "Argument_Beech_2009_GlobalGarden"
 argument_display_title: "Who is Strolling Through The Global Garden? International Agencies and Educational Transfer"
 argument_kind: "book-chapter"
 argument_related_count: 66
-argument_related_level: 4
-argument_related_stars: "⭐⭐⭐⭐"
-argument_related_color: "#fef3c7"
+argument_related_level: 6
+argument_related_stars: "💎💎"
+argument_related_color: "#fecdd3"
 journal: ""
 book_title: "International Handbook of Comparative Education"
 publication_place: "Dordrecht"

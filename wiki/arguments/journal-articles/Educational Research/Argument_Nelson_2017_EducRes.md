@@ -8,9 +8,9 @@ argument_key: "Argument_Nelson_2017_EducRes"
 argument_display_title: "Evidence-informed practice in education: meanings and applications"
 argument_kind: "journal-article"
 argument_related_count: 52
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
-argument_related_color: "#dbeafe"
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 journal: "Educational Research"
 authors:
   - "[[Julie Nelson|Nelson, J.]]"

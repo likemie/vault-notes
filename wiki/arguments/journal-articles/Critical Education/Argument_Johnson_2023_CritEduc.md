@@ -8,9 +8,9 @@ argument_key: "Argument_Johnson_2023_CritEduc"
 argument_display_title: "Leading the blind: A critical look at Visible Learning"
 argument_kind: "journal-article"
 argument_related_count: 50
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
-argument_related_color: "#dbeafe"
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 journal: "Critical Education"
 authors:
   - "Johnson, G. R."

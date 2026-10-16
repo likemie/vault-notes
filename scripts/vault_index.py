@@ -1391,12 +1391,10 @@ def argument_kind_for(path: Path, meta: dict[str, Any]) -> str:
 
 
 def argument_stars_for(count: int) -> tuple[int, str]:
-    if count <= 9:
-        return 0, "☆"
-    if count >= 100:
-        return 6, "⭐" * 6
-    level = min(5, count // 15)
-    return level, "⭐" * level
+    """Keep the numeric level in star units; display three stars as a diamond."""
+    level = max(0, count // 10)
+    diamonds, stars = divmod(level, 3)
+    return level, "💎" * diamonds + "⭐" * stars if level else "☆"
 
 
 def argument_color_for(kind: str, level: int) -> str:

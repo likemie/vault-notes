@@ -72,8 +72,8 @@ argument_key: "Argument_Mowery_2011_NBER"
 argument_display_title: "Federal policy and the development of semiconductors, computer hardware, and computer software: A policy model for climate change R&D? In R"
 argument_kind: "report"
 argument_related_count: 31
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dcfce7"
 journal: ""
 book_title: "Accelerating Energy Innovation: Insights from Multiple Sectors"

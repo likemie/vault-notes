@@ -8,9 +8,9 @@ argument_key: "Argument_Liu_2026_CHBR"
 argument_display_title: "Meta-analysis on the influence of AI agents on K-12 student cognitive performance"
 argument_kind: "journal-article"
 argument_related_count: 65
-argument_related_level: 4
-argument_related_stars: "⭐⭐⭐⭐"
-argument_related_color: "#dbeafe"
+argument_related_level: 6
+argument_related_stars: "💎💎"
+argument_related_color: "#fecdd3"
 authors:
   - "[[Ji Liu|Liu, J.]]"
   - "[[Airini Erasmi Mbowe|Mbowe, A. E.]]"

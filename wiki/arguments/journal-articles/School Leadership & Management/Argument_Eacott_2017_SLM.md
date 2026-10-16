@@ -10,8 +10,8 @@ argument_key: "Argument_Eacott_2017_SLM"
 argument_display_title: "School leadership and the cult of the guru: The neo-Taylorism of Hattie"
 argument_kind: "journal-article"
 argument_related_count: 40
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: School Leadership & Management
 citation: "Eacott, S. (2017). School leadership and the cult of the guru: The neo-Taylorism of Hattie. School Leadership & Management, 37(4), 413–426."

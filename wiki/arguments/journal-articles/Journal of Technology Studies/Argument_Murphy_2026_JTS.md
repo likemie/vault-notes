@@ -67,8 +67,8 @@ argument_key: "Argument_Murphy_2026_JTS"
 argument_display_title: "Building Collaboration and Knowledge in Semiconductor Research: A Case Study on CHIPS & Science Act Workshops"
 argument_kind: "journal-article"
 argument_related_count: 24
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Journal of Technology Studies"
 book_title: ""

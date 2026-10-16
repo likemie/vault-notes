@@ -8,9 +8,9 @@ argument_key: "Argument_Gough_2022_EvidenceOnEIPP"
 argument_display_title: "Evidence on evidence-informed policy and practice"
 argument_kind: "book-chapter"
 argument_related_count: 72
-argument_related_level: 4
-argument_related_stars: "⭐⭐⭐⭐"
-argument_related_color: "#fef3c7"
+argument_related_level: 7
+argument_related_stars: "💎💎⭐"
+argument_related_color: "#fecdd3"
 authors:
   - "[[David Gough|Gough, D.]]"
   - "[[Jonathan Sharples|Sharples, J.]]"

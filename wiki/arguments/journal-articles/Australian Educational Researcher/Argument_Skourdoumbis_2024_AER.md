@@ -11,9 +11,9 @@ argument_key: "Argument_Skourdoumbis_2024_AER"
 argument_display_title: "A critique of 'Strong Beginnings' initial teacher education reforms: mandating neuroscience as core curriculum within the 'what works' movement"
 argument_kind: "journal-article"
 argument_related_count: 50
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
-argument_related_color: "#dbeafe"
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 journal: Australian Educational Researcher
 citation: "Skourdoumbis, A., & Rowe, E. (2024). A critique of 'Strong Beginnings' initial teacher education reforms: mandating neuroscience as core curriculum within the 'what works' movement. The Australian Educational Researcher. https://doi.org/10.1007/s13384-024-00743-y"
 tags:

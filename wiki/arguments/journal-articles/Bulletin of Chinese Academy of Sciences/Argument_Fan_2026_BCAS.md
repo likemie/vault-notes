@@ -87,8 +87,8 @@ argument_key: "Argument_Fan_2026_BCAS"
 argument_display_title: "科学还是无止境的边疆吗——从“科学的社会契约”看美国科学政策的过去与未来"
 argument_kind: "journal-article"
 argument_related_count: 49
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: "中国科学院院刊"
 ---

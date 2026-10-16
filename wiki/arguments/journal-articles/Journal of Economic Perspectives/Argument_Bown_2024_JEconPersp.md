@@ -73,8 +73,8 @@ argument_key: "Argument_Bown_2024_JEconPersp"
 argument_display_title: "Semiconductors and modern industrial policy"
 argument_kind: "journal-article"
 argument_related_count: 32
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: "Journal of Economic Perspectives"
 book_title: ""

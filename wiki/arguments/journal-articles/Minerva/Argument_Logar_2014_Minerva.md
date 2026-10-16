@@ -8,8 +8,8 @@ argument_key: "Argument_Logar_2014_Minerva"
 argument_display_title: "Semiconductor Research Corporation: A case study in cooperative innovation partnerships"
 argument_kind: "journal-article"
 argument_related_count: 28
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Minerva
 authors:

@@ -11,8 +11,8 @@ argument_key: "Argument_Yu_2024_CE"
 argument_display_title: "Confucianism in multicultural China: 'official knowledge' vs marginalised views"
 argument_kind: "journal-article"
 argument_related_count: 28
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Comparative Education
 citation: "Yu, T. & Zhao, Z. (2024). Confucianism in multicultural China: 'official knowledge' vs marginalised views. Comparative Education, 60(1), 59-76."

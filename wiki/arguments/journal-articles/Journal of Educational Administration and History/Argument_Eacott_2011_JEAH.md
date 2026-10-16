@@ -10,8 +10,8 @@ argument_key: "Argument_Eacott_2011_JEAH"
 argument_display_title: "Preparing 'educational' leaders in managerialist times: an Australian story"
 argument_kind: "journal-article"
 argument_related_count: 10
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: Journal of Educational Administration and History
 citation: "Eacott, S. (2011). Preparing 'educational' leaders in managerialist times: an Australian story. *Journal of Educational Administration and History*, 43(1), 43–59."

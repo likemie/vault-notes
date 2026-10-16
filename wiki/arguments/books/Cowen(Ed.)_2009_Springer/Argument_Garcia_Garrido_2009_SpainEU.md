@@ -8,8 +8,8 @@ argument_key: "Argument_Garcia_Garrido_2009_SpainEU"
 argument_display_title: "The European Union and Education in Spain"
 argument_kind: "book-chapter"
 argument_related_count: 27
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#fef3c7"
 authors:
   - "[[José Luis García Garrido|García Garrido, J. L.]]"

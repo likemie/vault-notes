@@ -8,9 +8,9 @@ argument_key: "Argument_Lei_Ding_Chiu_2026_ERR"
 argument_display_title: "The effect of graphic organizers on cultivating higher-order thinking: Evidence from a meta-analysis"
 argument_kind: "journal-article"
 argument_related_count: 52
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
-argument_related_color: "#dbeafe"
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 journal: "Educational Research Review"
 authors:
   - "Lei, H."

@@ -78,8 +78,8 @@ argument_key: "Argument_NIST_2023_NSTC"
 argument_display_title: "A vision and strategy for the National Semiconductor Technology Center"
 argument_kind: "report"
 argument_related_count: 40
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dcfce7"
 issuing_organization: "National Institute of Standards and Technology, U.S. Department of Commerce"
 publication_place: "Washington, D.C."

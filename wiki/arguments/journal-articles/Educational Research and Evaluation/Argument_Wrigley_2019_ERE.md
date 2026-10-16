@@ -11,8 +11,8 @@ argument_key: "Argument_Wrigley_2019_ERE"
 argument_display_title: "Evidence-based teaching: a simple view of 'science'"
 argument_kind: "journal-article"
 argument_related_count: 25
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Educational Research and Evaluation
 citation: "Wrigley, T., & McCusker, S. (2019). Evidence-based teaching: a simple view of 'science'. Educational Research and Evaluation, 25(1–2), 110–126."

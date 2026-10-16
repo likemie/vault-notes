@@ -67,8 +67,8 @@ argument_key: "Argument_Bergeron_2019_JRIE"
 argument_display_title: "Investigating the perspective of Theory of Knowledge teachers in International Baccalaureate World Schools"
 argument_kind: "journal-article"
 argument_related_count: 34
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: "Journal of Research in International Education"
 book_title: ""

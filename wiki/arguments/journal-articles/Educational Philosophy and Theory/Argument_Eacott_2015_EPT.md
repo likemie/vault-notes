@@ -10,8 +10,8 @@ argument_key: "Argument_Eacott_2015_EPT"
 argument_display_title: "Problematising the intellectual gaze of the educational administration scholar"
 argument_kind: "journal-article"
 argument_related_count: 13
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: Educational Philosophy and Theory
 citation: "Eacott, S. (2015). Problematising the intellectual gaze of the educational administration scholar. Educational Philosophy and Theory, 47(4), 312–329."

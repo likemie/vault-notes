@@ -12,8 +12,8 @@ argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch14"
 argument_display_title: "“A Cloud or a Clock”"
 argument_kind: "book-chapter"
 argument_related_count: 36
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
 book_title: "The Technological Republic: Hard Power, Soft Belief, and the Future of the West"
 publication_place: "New York"

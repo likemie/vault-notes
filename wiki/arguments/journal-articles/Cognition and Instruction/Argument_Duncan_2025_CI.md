@@ -87,8 +87,8 @@ argument_key: "Argument_Duncan_2025_CI"
 argument_display_title: "Evaluating the Quality of Argumentation: The Role of Epistemic Ideals and Reliable Processes"
 argument_kind: "journal-article"
 argument_related_count: 49
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: "Cognition and Instruction"
 book_title: ""

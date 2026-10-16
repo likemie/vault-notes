@@ -91,9 +91,9 @@ argument_key: "Argument_Serpell_2020_EducPsychol"
 argument_display_title: "Supporting the integration of evidence into federal educational policy and reform efforts: A navigational framework for educational researchers"
 argument_kind: "journal-article"
 argument_related_count: 60
-argument_related_level: 4
-argument_related_stars: "⭐⭐⭐⭐"
-argument_related_color: "#dbeafe"
+argument_related_level: 6
+argument_related_stars: "💎💎"
+argument_related_color: "#fecdd3"
 journal: Educational Psychologist
 ---
 # Argument_Serpell_2020_EducPsychol

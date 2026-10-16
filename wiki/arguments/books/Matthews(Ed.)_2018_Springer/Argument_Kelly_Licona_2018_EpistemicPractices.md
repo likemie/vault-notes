@@ -8,8 +8,8 @@ argument_key: "Argument_Kelly_Licona_2018_EpistemicPractices"
 argument_display_title: "Epistemic practices and science education"
 argument_kind: "book-chapter"
 argument_related_count: 48
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
 book_title: "History, Philosophy and Science Teaching: New Perspectives"
 publication_place: "Cham"

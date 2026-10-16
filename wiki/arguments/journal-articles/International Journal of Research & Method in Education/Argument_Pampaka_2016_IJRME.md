@@ -12,8 +12,8 @@ argument_key: "Argument_Pampaka_2016_IJRME"
 argument_display_title: "Is the educational 'what works' agenda working? Critical methodological developments"
 argument_kind: "journal-article"
 argument_related_count: 11
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: International Journal of Research & Method in Education
 citation: "Pampaka, M., Williams, J., & Homer, M. (2016). Is the educational 'what works' agenda working? Critical methodological developments. International Journal of Research & Method in Education, 39(3), 231-236."

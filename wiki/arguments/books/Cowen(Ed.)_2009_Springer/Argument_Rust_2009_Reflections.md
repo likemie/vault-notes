@@ -8,8 +8,8 @@ argument_key: "Argument_Rust_2009_Reflections"
 argument_display_title: "Reflections on the Development of Comparative Education"
 argument_kind: "book-chapter"
 argument_related_count: 118
-argument_related_level: 6
-argument_related_stars: "⭐⭐⭐⭐⭐⭐"
+argument_related_level: 11
+argument_related_stars: "💎💎💎⭐⭐"
 argument_related_color: "#fecdd3"
 authors:
   - "[[Val D. Rust|Rust, V. D.]]"

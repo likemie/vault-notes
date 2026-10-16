@@ -10,8 +10,8 @@ argument_key: "Argument_Håkansson_2015_TT"
 argument_display_title: "Structured teaching and classroom management: The solution for the decline of Swedish school results? Conclusions drawn from a comparative meta-synthesis of teaching and learning"
 argument_kind: "journal-article"
 argument_related_count: 14
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: Teachers and Teaching
 citation: "Håkansson, J. (2015). Structured teaching and classroom management: The solution for the decline of Swedish school results? Conclusions drawn from a comparative meta-synthesis of teaching and learning. Teachers and Teaching, 21(5), 584-602. https://doi.org/10.1080/13540602.2014.995479"

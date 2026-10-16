@@ -11,8 +11,8 @@ argument_key: "Argument_Bolton_2017_ArchPsych"
 argument_display_title: "Cognitive and brain development: Executive function, Piaget, and the prefrontal cortex"
 argument_kind: "journal-article"
 argument_related_count: 27
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Archives of Psychology
 citation: "Bolton, S., & Hattie, J. (2017). Cognitive and brain development: Executive function, Piaget, and the prefrontal cortex. Archives of Psychology, 1(3)."

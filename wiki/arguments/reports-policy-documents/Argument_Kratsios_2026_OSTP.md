@@ -143,8 +143,8 @@ argument_key: "Argument_Kratsios_2026_OSTP"
 argument_display_title: "Science: A new golden age (Report to the President)"
 argument_kind: "report"
 argument_related_count: 105
-argument_related_level: 6
-argument_related_stars: "⭐⭐⭐⭐⭐⭐"
+argument_related_level: 10
+argument_related_stars: "💎💎💎⭐"
 argument_related_color: "#fecdd3"
 journal: ""
 book_title: ""

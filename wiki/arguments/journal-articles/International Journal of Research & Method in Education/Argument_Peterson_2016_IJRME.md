@@ -10,8 +10,8 @@ argument_key: "Argument_Peterson_2016_IJRME"
 argument_display_title: "Getting 'What Works' working: building blocks for the integration of experimental and improvement science"
 argument_kind: "journal-article"
 argument_related_count: 21
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: International Journal of Research & Method in Education
 citation: "Peterson, A. (2016). Getting 'What Works' working: building blocks for the integration of experimental and improvement science. International Journal of Research & Method in Education, 39(3), 299–313."

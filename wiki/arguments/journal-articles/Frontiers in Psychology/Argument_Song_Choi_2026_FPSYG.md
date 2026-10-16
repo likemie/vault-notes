@@ -109,9 +109,9 @@ argument_key: "Argument_Song_Choi_2026_FPSYG"
 argument_display_title: "A three-level meta-analysis of the association between students’ epistemic cognition and learning outcomes in South Korea"
 argument_kind: "journal-article"
 argument_related_count: 70
-argument_related_level: 4
-argument_related_stars: "⭐⭐⭐⭐"
-argument_related_color: "#dbeafe"
+argument_related_level: 7
+argument_related_stars: "💎💎⭐"
+argument_related_color: "#fecdd3"
 journal: "Frontiers in Psychology"
 book_title: ""
 publication_place: ""

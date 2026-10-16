@@ -8,8 +8,8 @@ argument_key: "Argument_Matthews(Ed.)_2018_Springer"
 argument_display_title: "History, Philosophy and Science Teaching: New Perspectives"
 argument_kind: "edited-volume"
 argument_related_count: 31
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#e5e7eb"
 authors: []
 editors:

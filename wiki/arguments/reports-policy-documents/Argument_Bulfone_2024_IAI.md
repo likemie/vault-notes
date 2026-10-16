@@ -24,8 +24,8 @@ argument_key: "Argument_Bulfone_2024_IAI"
 argument_display_title: "Adjusting to new geopolitical realities: Semiconductors industrial policy in the US and EU (IAI Papers 24 | 13)"
 argument_kind: "report"
 argument_related_count: 27
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dcfce7"
 sources:
   - "[[sources/Bulfone_2024_IAI/Bulfone_2024_IAI|Bulfone_2024_IAI]]"

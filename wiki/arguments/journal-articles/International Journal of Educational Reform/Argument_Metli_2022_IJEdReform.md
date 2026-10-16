@@ -64,8 +64,8 @@ argument_key: "Argument_Metli_2022_IJEdReform"
 argument_display_title: "Concurrency of Learning: Strategies and Challenges of Promoting Coherence in the Core in the International Baccalaureate Diploma Programme (IBDP)"
 argument_kind: "journal-article"
 argument_related_count: 29
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "International Journal of Educational Reform"
 book_title: ""

@@ -10,8 +10,8 @@ argument_key: "Argument_ONeill_2012_NZJES"
 argument_display_title: "Material fallacies of education research evidence and public policy advice"
 argument_kind: "journal-article"
 argument_related_count: 12
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: New Zealand Journal of Educational Studies
 citation: "O'Neill, J. (2012). Material fallacies of education research evidence and public policy advice. New Zealand Journal of Educational Studies, 47(1), 153-160."

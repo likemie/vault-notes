@@ -25,8 +25,8 @@ argument_key: "Argument_Bozeman_2004_JTT"
 argument_display_title: "The NSF Engineering Research Centers and the University–Industry Research Revolution: A Brief History Featuring an Interview with Erich Bloch"
 argument_kind: "journal-article"
 argument_related_count: 26
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "The Journal of Technology Transfer"
 sources:

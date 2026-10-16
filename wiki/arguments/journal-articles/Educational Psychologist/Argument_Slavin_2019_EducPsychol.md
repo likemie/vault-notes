@@ -10,8 +10,8 @@ argument_key: "Argument_Slavin_2019_EducPsychol"
 argument_display_title: "How evidence-based reform will transform research and practice in education"
 argument_kind: "journal-article"
 argument_related_count: 96
-argument_related_level: 5
-argument_related_stars: "⭐⭐⭐⭐⭐"
+argument_related_level: 9
+argument_related_stars: "💎💎💎"
 argument_related_color: "#fecdd3"
 journal: Educational Psychologist
 citation: Slavin, R. E. (2019). How evidence-based reform will transform research and practice in education. Educational Psychologist, 55(1), 21–31. https://doi.org/10.1080/00461520.2019.1611432

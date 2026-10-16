@@ -89,8 +89,8 @@ argument_key: "Argument_Block_2008_PS"
 argument_display_title: "Swimming against the current: The rise of a hidden developmental state in the United States"
 argument_kind: "journal-article"
 argument_related_count: 49
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: "Politics & Society"
 book_title: ""

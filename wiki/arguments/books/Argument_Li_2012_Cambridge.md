@@ -8,8 +8,8 @@ argument_key: "Argument_Li_2012_Cambridge"
 argument_display_title: "Cultural Foundations of Learning: East and West"
 argument_kind: "book"
 argument_related_count: 157
-argument_related_level: 6
-argument_related_stars: "⭐⭐⭐⭐⭐⭐"
+argument_related_level: 15
+argument_related_stars: "💎💎💎💎💎"
 argument_related_color: "#fecdd3"
 book_title: "Cultural Foundations of Learning: East and West"
 authors:

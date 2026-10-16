@@ -97,9 +97,9 @@ argument_key: "Argument_Rickinson_2022_EducRes"
 argument_display_title: "A framework for understanding the quality of evidence use in education"
 argument_kind: "journal-article"
 argument_related_count: 52
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
-argument_related_color: "#dbeafe"
+argument_related_level: 5
+argument_related_stars: "💎⭐⭐"
+argument_related_color: "#fecdd3"
 journal: "Educational Research"
 book_title: ""
 publication_place: ""

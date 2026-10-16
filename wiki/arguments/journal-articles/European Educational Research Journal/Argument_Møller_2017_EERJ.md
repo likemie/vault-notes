@@ -10,8 +10,8 @@ argument_key: "Argument_Møller_2017_EERJ"
 argument_display_title: "Leading education beyond what works"
 argument_kind: "journal-article"
 argument_related_count: 13
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: European Educational Research Journal
 citation: "Møller, J. (2017). Leading education beyond what works. European Educational Research Journal, 16(4), 375–385."

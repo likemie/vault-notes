@@ -10,8 +10,8 @@ argument_key: "Argument_Eacott_2019_IJLE"
 argument_display_title: "Ranting, raving and complaining: reflections on working against orthodoxy"
 argument_kind: "journal-article"
 argument_related_count: 11
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: International Journal of Leadership in Education
 citation: "Eacott, S. (2019). Ranting, raving and complaining: reflections on working against orthodoxy. International Journal of Leadership in Education, 22(6), 774–782."

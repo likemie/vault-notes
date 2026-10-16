@@ -67,8 +67,8 @@ argument_key: "Argument_Chinn_2011_EducPsychol"
 argument_display_title: "Expanding the Dimensions of Epistemic Cognition: Arguments From Philosophy and Psychology"
 argument_kind: "journal-article"
 argument_related_count: 34
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: "Educational Psychologist"
 book_title: ""

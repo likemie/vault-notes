@@ -10,8 +10,8 @@ argument_key: "Argument_Zhao_2017_JEC"
 argument_display_title: "What works may hurt: Side effects in education"
 argument_kind: "journal-article"
 argument_related_count: 13
-argument_related_level: 0
-argument_related_stars: ""
+argument_related_level: 1
+argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
 journal: Journal of Educational Change
 citation: "Zhao, Y. (2017). What works may hurt: Side effects in education. Journal of Educational Change."

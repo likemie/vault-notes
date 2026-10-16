@@ -8,8 +8,8 @@ argument_key: "Argument_Edovald_Nevill_2021_ECNUROE"
 argument_display_title: "Working Out What Works: The Case of the Education Endowment Foundation in England"
 argument_kind: "journal-article"
 argument_related_count: 132
-argument_related_level: 6
-argument_related_stars: "⭐⭐⭐⭐⭐⭐"
+argument_related_level: 13
+argument_related_stars: "💎💎💎💎⭐"
 argument_related_color: "#fecdd3"
 journal: ECNU Review of Education
 authors:

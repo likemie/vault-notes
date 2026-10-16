@@ -10,8 +10,8 @@ argument_key: "Argument_Rømer_2018_EPT"
 argument_display_title: "A critique of John Hattie's theory of Visible Learning"
 argument_kind: "journal-article"
 argument_related_count: 24
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: Educational Philosophy and Theory
 citation: "Rømer, T. A. (2018). A critique of John Hattie's theory of Visible Learning. Educational Philosophy and Theory. https://doi.org/10.1080/00131857.2018.1488216"

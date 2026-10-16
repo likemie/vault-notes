@@ -46,8 +46,8 @@ argument_key: "Argument_Zelinka_2022_SCD_subjectivity"
 argument_display_title: "Subjects and Subjectivities of the (New) Geopolitics of Knowledge"
 argument_kind: "book"
 argument_related_count: 20
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#ede9fe"
 book_title: "Geopolitical Transformations in Higher Education_ Imagining, Fabricating and Contesting Innovation"
 year: 2022

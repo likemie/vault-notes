@@ -11,8 +11,8 @@ argument_key: "Argument_Dachet_2021_ECNUROE"
 argument_display_title: "Evidence-based education: The not so simple case of French-speaking Belgium"
 argument_kind: "journal-article"
 argument_related_count: 25
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: ECNU Review of Education
 citation: "Dachet, D., & Baye, A. (2021). Evidence-based education: The not so simple case of French-speaking Belgium. ECNU Review of Education, 4(1), 164-189."

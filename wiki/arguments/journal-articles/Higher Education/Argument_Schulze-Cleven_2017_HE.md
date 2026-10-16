@@ -13,8 +13,8 @@ argument_key: "Argument_Schulze-Cleven_2017_HE"
 argument_display_title: "The new political economy of higher education: between distributional conflicts and discursive stratification"
 argument_kind: "journal-article"
 argument_related_count: 42
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: Higher Education
 citation: "Schulze-Cleven, T., Reitz, T., Maesse, J., & Angermuller, J. (2017). The new political economy of higher education: between distributional conflicts and discursive stratification. Higher Education, 73(6), 795-812."

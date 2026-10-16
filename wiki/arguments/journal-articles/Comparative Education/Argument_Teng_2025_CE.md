@@ -11,8 +11,8 @@ argument_key: "Argument_Teng_2025_CE"
 argument_display_title: "Migration for school choice: urbanisation and rural social stratification in China"
 argument_kind: "journal-article"
 argument_related_count: 33
-argument_related_level: 2
-argument_related_stars: "⭐⭐"
+argument_related_level: 3
+argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
 journal: "Comparative Education"
 citation: "Teng, Y. & Wang, D. (2025). Migration for school choice: urbanisation and rural social stratification in China. Comparative Education, 61(2), 300-316."

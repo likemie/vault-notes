@@ -57,8 +57,8 @@ argument_key: "Argument_Hughes_2014_JRIE"
 argument_display_title: "Theory of Knowledge aims, objectives and assessment criteria: An analysis of critical thinking descriptors"
 argument_kind: "journal-article"
 argument_related_count: 20
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Journal of Research in International Education"
 book_title: ""
