@@ -8,7 +8,7 @@ aliases:
 summary: "Feather 提出的社会心理现象，指人们对高成就者失败的幸灾乐祸态度和对突出个体的系统性贬低倾向"
 type: concept
 domain: "sociology-of-education"
-related_count: 8
+related_count: 9
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -19,6 +19,7 @@ tags:
   - theme/social-comparison
 related_concepts:
   - "[[Nerd]]"
+  - "[[Peer-Supported Learning]]"
   - "[[Academic Achievement]]"
   - "[[Zero-Sum Competition]]"
   - "[[Intellectual-Social Divide]]"
@@ -44,7 +45,7 @@ updated: 2026-10-17
 > [!info]
 > 高罂粟综合征（Tall Poppy Syndrome）由澳大利亚心理学家 N. T. Feather 在 1989 年提出，描述了一种普遍的社会心理现象：人们对那些在某一领域中**突出地高于他人**的个体（the "tall poppy"）抱负面态度，并倾向于**乐于看到他们失败或倒下([[Argument_Li_2012_Cambridge\|Li, 2012, p.90]])**。
 
-Feather 使用的"高罂粟的倒下"（fall of the tall poppy）隐喻精确捕捉了这种心态的核心——不是对成就本身的否定，而是对"突出的高度"的贬抑冲动。这个概念后来被广泛用于分析 西方学校中的 [[Nerd]] 同伴文化，解释为什么高[[Academic Achievement|学业成就]]者在同伴中反而遭受排斥和骚扰。
+Feather 使用的"高罂粟的倒下"（fall of the tall poppy）隐喻精确捕捉了这种心态的核心——不是对成就本身的否定，而是对"突出的高度"的贬抑冲动。这个概念后来被广泛用于分析 西方学校中的 [[Nerd]] [[Peer-Supported Learning|同伴文化]]，解释为什么高[[Academic Achievement|学业成就]]者在同伴中反而遭受排斥和骚扰。
 
 > [!quote]
 > "Feather 发现，这些受访者看到高成就者失败时比看到普通成就者失败时更高兴。他还发现，高中生对一个跌到中等水平的高成就者比对跌到底部的普通成就者更友好、更友善。"
@@ -67,7 +68,7 @@ Feather 使用的"高罂粟的倒下"（fall of the tall poppy）隐喻精确捕
 ## 在学校同伴文化中的表现
 
 > [!example]
-> 高罂粟综合征在 西方学校同伴文化中表现为：高[[Academic Achievement\|学业成就]]者成为同伴骚扰的主要目标。Bishop 兄弟对 110,000+ 名美国中学生的大规模研究确认了这一点——学业成就偏离常规水平（无论是低端还是高端）的学生受到最多的同伴骚扰([[Argument_Li_2012_Cambridge\|Li, 2012, p.91]])。
+> 高罂粟综合征在 西方学校[[Peer-Supported Learning|同伴文化]]中表现为：高[[Academic Achievement\|学业成就]]者成为同伴骚扰的主要目标。Bishop 兄弟对 110,000+ 名美国中学生的大规模研究确认了这一点——学业成就偏离常规水平（无论是低端还是高端）的学生受到最多的同伴骚扰([[Argument_Li_2012_Cambridge\|Li, 2012, p.91]])。
 
 这一现象与 [[Growth Mindset|实体智力观]]密切相关：在"智力是固定的"信念系统中，别人的高成就直接威胁到自己的自我价值——这种"你赢即我输"的逻辑正是 [[Zero-Sum Competition|零和竞争]]的核心特征。高罂粟倒下后，观察者感到的不只是娱乐——更是一种**自我价值的相对恢复** "他掉下来了，所以我没那么差"。同时，高成就者被系统性地视为"更不善社交"([[Argument_Li_2012_Cambridge|Li, 2012, p.90]])，这反映了 [[Intellectual-Social Divide|知性-社交二分]]在同伴态度中的运作。
 

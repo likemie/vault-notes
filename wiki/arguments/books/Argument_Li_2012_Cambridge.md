@@ -7,7 +7,7 @@ title: "Argument_Li_2012_Cambridge"
 argument_key: "Argument_Li_2012_Cambridge"
 argument_display_title: "Cultural Foundations of Learning: East and West"
 argument_kind: "book"
-argument_related_count: 157
+argument_related_count: 158
 argument_related_level: 15
 argument_related_stars: "💎💎💎💎💎"
 argument_related_color: "#fecdd3"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Refined Mastery]]"
   - "[[Pride in Learning]]"
   - "[[Humility]]"
+  - "[[Peer-Supported Learning]]"
   - "[[Nerd]]"
   - "[[Tongxue]]"
   - "[[Socratic Tutoring Style]]"
@@ -191,7 +192,7 @@ sources:
 part_of: []
 status: draft
 created: 2026-05-21
-updated: 2026-10-16
+updated: 2026-10-17
 year: 2012
 doi: ""
 citation_aliases:
@@ -247,7 +248,7 @@ citation_aliases:
 | 建立问题 | Ch3 传统还在吗？ | 仍在影响今天吗？ | 排除替代解释 + 实证验证：传统仍在运作 |
 | 展开分析 | Ch4 学习过程 | 怎么学？ | 心智活动 vs [[Learning Virtues]]（[[Familiarization]]（熟）→练→[[Refined Mastery]]（精）） |
 | 展开分析 | Ch5 学习情感 | 感受什么？ | 好奇→探究→[[Pride in Learning\|骄傲]] vs 诚心→投入→[[Humility\|谦逊]] |
-| 展开分析 | Ch6 同伴文化 | 同伴怎么看？ | [[Nerd]] 地狱 vs [[Tongxue]] 天堂 |
+| 展开分析 | Ch6 [[Peer-Supported Learning\|同伴文化]] | 同伴怎么看？ | [[Nerd]] 地狱 vs [[Tongxue]] 天堂 |
 | 展开分析 | Ch7 家庭社会化 | 信念从哪来？ | [[Socratic Tutoring Style]] vs [[Confucian Tutoring Style]] 辅导 |
 | 展开分析 | Ch8 说话与沉默 | 为什么沉默？ | 两套"说话-沉默"体系，沉默 ≠ 缺陷 |
 | 收束意义 | Ch9 全球化 | 差异会消失吗？ | [[Enculturation]] + 身份嵌入 → 文化持久性 |
@@ -2478,7 +2479,7 @@ Li 汇总了多条独立研究线(p.77–78)：
 
 这一章要回答的核心问题是：**为什么在西方，努力学习、成绩好的学生会成为同伴骚扰的目标（[[Nerd]]），而在东亚，高学业成就者却被尊重和模仿？这种差异的根源不在"人性"，而在深层文化信念——两种文化对"自我是什么""能力从哪里来""竞争意味着什么""人与人是什么关系"给出了截然不同的答案。**
 
-Li 的论证策略分三步走：先分别呈现两种同伴文化的实证图景 → 各自追溯文化根源 → 最后以亚裔美国儿童作为两种文化碰撞的"试金石"，证明 nerd 骚扰是特定文化建构的产物，而非生物性命的。
+Li 的论证策略分三步走：先分别呈现两种[[Peer-Supported Learning|同伴文化]]的实证图景 → 各自追溯文化根源 → 最后以亚裔美国儿童作为两种文化碰撞的"试金石"，证明 nerd 骚扰是特定文化建构的产物，而非生物性命的。
 
 ---
 

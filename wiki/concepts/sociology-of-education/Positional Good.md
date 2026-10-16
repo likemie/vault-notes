@@ -10,7 +10,7 @@ aliases:
 summary: "由弗雷德·赫希（Fred Hirsch）提出、教育社会学广泛应用的核心概念。指其价值主要取决于个体相对于其他社会成员的排他性占有程度，而非其绝对效用或物质属性的商品；在教育领域中，高阶文凭与名校排位作为位置性商品，其社会供应总量受到客观结构的严格限制，个体竞相投资教育的理性行为在宏观上导致文凭通胀、中产焦虑与社会零和博弈。"
 type: concept
 domain: "sociology-of-education"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[School Choice]]"
   - "[[Zero-Sum Competition]]"
+  - "[[Peer-Supported Learning]]"
   - "[[Paradigm]]"
   - "[[Social Imaginary]]"
   - "[[Grandes Ecoles]]"
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-10-14
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Positional Good
@@ -86,7 +87,7 @@ updated: 2026-10-16
 > |---|---|---|---|---|
 > | **分析对象** | 依赖相对稀缺性与等级排位的社会与文化资源 | 具有非竞争性与非排他性的公共福祉与制度环境 | 学历过度供给导致文凭交换价值在市场中的缩水现象 | 一方所得必然导致他方所失的互动信念或结构博弈 |
 > | **核心机制** | 相对排位决定效用；绝对扩张引发价值被稀释 | 普遍惠及全体社会成员；边际消费成本为零 | 文凭门槛水涨船高，强制个体追加防守性教育投资 | 资源总额客观固化，博弈参与者陷入对抗性内耗 |
-> | **教育学应用** | 解释精英大学排位竞争与家长[[School Choice\|择校]]焦虑的根源 | 支撑战后社会民主主义的全民均等义务教育理念 | 揭示高等教育扩招后文凭贬值与履历内卷的制度成因 | 剖析东亚应试地狱与西方同伴文化排斥高成就者的心理机制 |
+> | **教育学应用** | 解释精英大学排位竞争与家长[[School Choice\|择校]]焦虑的根源 | 支撑战后社会民主主义的全民均等义务教育理念 | 揭示高等教育扩招后文凭贬值与履历内卷的制度成因 | 剖析东亚应试地狱与西方[[Peer-Supported Learning\|同伴文化]]排斥高成就者的心理机制 |
 
 ---
 

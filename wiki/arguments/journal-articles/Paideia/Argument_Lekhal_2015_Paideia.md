@@ -12,7 +12,7 @@ title: "Argument_Lekhal_2015_Paideia"
 argument_key: "Argument_Lekhal_2015_Paideia"
 argument_display_title: "Kjønnsforskjeller i skolefaglige prestasjoner - forklaringer i elevenes holdninger til og væremåte i skolen, samt relasjonelle forhold"
 argument_kind: "journal-article"
-argument_related_count: 23
+argument_related_count: 24
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Classroom Learning Culture]]"
   - "[[Feedback]]"
   - "[[Academic Well-being and Interest in Learning]]"
+  - "[[Peer-Supported Learning]]"
 related_theories: []
 related_methods:
   - "[[Correlational Research]]"
@@ -59,7 +60,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-06'
-updated: 2026-10-16
+updated: 2026-10-17
 year: 2015
 doi: ""
 citation_aliases:
@@ -118,7 +119,7 @@ citation_aliases:
 > 1. 男女学业差异客观存在，但差异大小在不同[[Variable\|变量]]与学科上并不一致，且教师评定变量上的性别差异显著大于学生自评变量(pp.82-83)。
 > 2. 在控制文化背景和年龄后，能解释[[Academic Achievement\|学业表现]]的关键变量主要是"对学校规范的适应"和"动机与努力投入"，且对男女生的解释方向基本一致(pp.83-84)。
 > 3. 性别本身新增解释力极小（仅增加约 0.2%），更可能通过与其他变量交互间接影响成绩，而非直接决定成绩(p.83)。
-> 4. 因此，问题不宜被简化为"男生/女生天生差异"，而应转向学校环境、教师期待、同伴文化与课堂规范如何共同塑造在校行为和评价结果(pp.84-86)。
+> 4. 因此，问题不宜被简化为"男生/女生天生差异"，而应转向学校环境、教师期待、[[Peer-Supported Learning|同伴文化]]与课堂规范如何共同塑造在校行为和评价结果(pp.84-86)。
 
 ## 主要发现
 

@@ -9,7 +9,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Learning Analytics]]"
   - "[[Formative Assessment]]"
   - "[[Class Size]]"
+  - "[[Individualised Instruction]]"
   - "[[Control of Variables Strategy]]"
   - "[[Avatar]]"
   - "[[Computer Simulation]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-15
+updated: 2026-10-17
 ---
 
 # Inq-ITS
@@ -69,7 +70,7 @@ updated: 2026-10-15
 > - **立项时间 / 周期** 2010 年代初启动核心算法模型构建，2013 年确立从操作日志到评价指标的算法架构，随后创立 Apprendis 公司实现科研成果转化与全国常态化部署，持续活跃至今。
 > - **发起方与资助机制** 由罗格斯大学、伍斯特理工学院（WPI）跨学科团队协同攻关，获得美国国家科学基金会（NSF）信息与智能系统处（IIS）、教育与人力资源处（EHR）以及[[Institute of Education Sciences\|美国教育部教育科学研究院]]（IES）多项重大科研基金资助。
 > - **覆盖范围与对象** 覆盖全美逾千所初高中的物理、化学、生物与地球科学课堂，支持数十万名学生开展虚拟探究实验。
-> - **核心问题导向** 破解传统大[[Class Size\|班额]]科学探究中教师无法分身对每名学生的探究行为进行实时精准诊断与个别化指导的痛点，依托 AI 算法实现规模化的高精度因材施教。（Luan et al., 2020）
+> - **核心问题导向** 破解传统大[[Class Size\|班额]]科学探究中教师无法分身对每名学生的探究行为进行实时精准诊断与[[Individualised Instruction|个别化指导]]的痛点，依托 AI 算法实现规模化的高精度因材施教。（Luan et al., 2020）
 
 ---
 

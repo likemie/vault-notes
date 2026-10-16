@@ -9,9 +9,9 @@ summary: "通过主动操纵自变量并随机分配处理组与对照组以严�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 55
-method_related_level: 5
-method_related_stars: "💎⭐⭐"
+method_related_count: 64
+method_related_level: 6
+method_related_stars: "💎💎"
 method_related_color: "#dcfce7"
 tags:
   - quantitative-research
@@ -30,6 +30,9 @@ related_concepts:
   - "[[Internal Validity]]"
   - "[[External Validity]]"
   - "[[Construct Validity]]"
+  - "[[Hypothesis]]"
+  - "[[Problem Solving]]"
+  - "[[Professional Judgment]]"
   - "[[Emergence]]"
   - "[[Preregistration]]"
   - "[[Operationalization]]"
@@ -42,9 +45,11 @@ related_concepts:
   - "[[Ecological Validity]]"
   - "[[Hawthorne Effect]]"
   - "[[Causality]]"
+  - "[[Class Size]]"
   - "[[Objectivism]]"
   - "[[Falsification]]"
   - "[[Evidence-Based Education]]"
+  - "[[Pragmatic Paradigm]]"
   - "[[Deception in Research]]"
   - "[[Banality of Evil]]"
 related_theories: []
@@ -69,19 +74,23 @@ related_methods:
   - "[[Repeated Measures Design]]"
   - "[[Pilot Testing]]"
   - "[[Intent-to-Treat Analysis]]"
+  - "[[Meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Correlational Research]]"
 related_persons:
+  - "[[John Dewey]]"
   - "[[Stanley Milgram]]"
 related_facts:
+  - "[[Tennessee STAR Project 1985-1989]]"
   - "[[Asch Conformity Experiment]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12]]"
 confidence: high
 status: active
 created: 2026-05-30
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Experimental Research
@@ -107,6 +116,7 @@ updated: 2026-10-16
 > - **知识观** 建立在[[Postpositivism|后实证主义]]（Postpositivism）与[[Determinism|决定论]]/还原论的科学哲学之上，假定客观物理与社会世界中存在可被分离、操纵与经验验证的因果规律（Campbell & Stanley, 1963）。
 > - **研究者角色** 客观、中立的实验设计者与测量记录者；通过标准化指导语、双盲（[[Blinding]]）与[[Manipulation Check|操纵检查]]尽可能排除[[Experimenter Bias|实验者偏差]]与主观投射。
 > - **有效性标准** [[Internal Validity|内部效度]]（能否确证[[Independent Variable|自变量]]对[[Dependent Variable|因变量]]的净因果影响）、[[External Validity|外部效度]]（结论向真实情境推广的程度）、统计结论效度（统计功效与检验假设满足度）与[[Construct Validity|构念效度]]。
+> - **证据与行动的认识论关系（[[John Dewey|杜威]]假说视角）** 实验研究产出的因果量化数据绝不能自动推导为直接的行动规程（rules for action）。正如杜威（[[John Dewey]]）所指出的，证据仅构成用于智慧解决问题与审议教育目的的“探究假设”（[[Hypothesis|hypotheses]] for intelligent [[Problem Solving]]）；任何从实验结论迈向真实决策的转化，都必须结合不可化约的价值权衡与教师情境化[[Professional Judgment|专业判断]]。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 104)]]
 > - **不声称回答的问题** 无法回答未受控制的自然社会情境中整体[[Emergence|涌现]]的主观意义建构、历史脉络演化以及无法进行伦理操纵的复杂社会问题。
 
 > [!method-stack] 方法层级
@@ -166,6 +176,7 @@ updated: 2026-10-16
 > - **[[Ecological Validity|生态效度]]欠缺** 实验室高度控制的情境往往抽离了复杂的人际互动与真实社会脉络，导致实验结论在自然生态中难以完全复刻。
 > - **伦理规约与操作边界约束** 现代[[Institutional Review Board|机构审查委员会]]（IRB）对涉及人类受试者的实验设置了严格的伦理门槛，高强度的情境施压或情绪操纵受到严厉限制。
 > - **需求特征与[[Hawthorne Effect|霍桑效应]]** 受试者在感知到自己被观察与测试时，往往主动猜测实验意图并改变自然行为反应，从而污染真实[[Causality|因果推断]]。
+> - **复杂教育系统中的[[Variable|变量]]分离困境与因果交互掩盖** 真实课堂绝非医学临床实验中可随意隔离药物 A 与药物 B 的封闭受控舱。教育干预中的核心变量（如[[Class Size|班级规模]]、教学技术、教师专业发展）具有极强的[[Interaction Effect|交互效应]]；孤立操纵单一变量的实验室思维极易在生态情境中失效，而对底层实验研究缺乏质控的粗糙[[Meta-analysis|元分析]]更会诱发严重的“垃圾进，垃圾出”（Garbage in, garbage out）政策误导。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 97, 102–103)]]
 
 ---
 
@@ -177,6 +188,8 @@ updated: 2026-10-16
 > |:-----|:-----|:-----|
 > | [[Postpositivism\|后实证主义]] | 理论 | 为实验研究提供[[Objectivism\|客观主义]]、[[Determinism\|因果决定论]]与假设[[Falsification\|证伪]]的[[Epistemology\|认识论]]哲学基石。 |
 > | [[Randomised Controlled Trials\|随机对照试验]] | 方法 | 实验研究在临床医学、[[Evidence-Based Education\|循证教育]]学与公共政策评估领域的最高标准工程化落地形态。 |
+> | [[Tennessee STAR Project 1985-1989]] | 事实 | 教育史上罕见的、在全州范围内严格开展的大规模真实验研究经典标本。 |
+> | [[John Dewey]] | 人物 | 确立实验因果证据仅作为解决问题的探究假设而非行动规程的[[Pragmatic Paradigm\|实用主义]]认识论。 |
 > | [[Quasi-Experimental Designs\|准实验设计]] | 替代方法 | 当现场研究无法满足完全[[Random Assignment\|随机分配]]时采用的替代设计，需辅以统计控制。 |
 > | [[Single-Subject Design\|单受试者设计]] | 补充方法 | 针对小样本或特殊个体的重复干预与撤销观测设计，用于行为矫正与特教评估。 |
 > | [[Deception in Research\|研究中的欺骗]] | 辅助技术 | 实验研究中用于控制需求特征、揭示人类深层真实心理反应的重要掩饰手段。 |
@@ -189,5 +202,6 @@ updated: 2026-10-16
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch12|Karp & Zamiska (2025, Ch. 12, pp. 130–136)]] — 深入反思 1950 年代[[Asch Conformity Experiment|阿施从众实验]]与 1960 年代[[Stanley Milgram|米尔格拉姆]]权威服从实验如何运用严密控制与实验欺骗揭示从众本能与[[Banality of Evil|平庸之恶]]。
 > - [[Argument_Creswell_2022_SAGE|Creswell & Creswell (2022, 第 8 章)]] — 系统阐述实验研究的[[Variable|变量]]操纵、[[Random Assignment|随机分配]]、[[Factorial Design|因子设计]]模型、效度威胁与统计分析指南。
+> - [[Argument_Snook_2009_NZJES|Snook et al. (2009, pp. 99–104)]] — 结合田纳西 STAR 项目与 Smith and Glass (1980) 经典对照实验[[Meta-analysis|元分析]]，系统审查量化实验研究在教育政策转化中的[[Epistemology|认识论]]边界，揭示变量[[Interaction Effect|交互效应]]与底层实验质控对因果推论的决定性制约。
 
 

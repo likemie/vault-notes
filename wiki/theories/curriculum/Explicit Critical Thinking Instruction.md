@@ -8,7 +8,7 @@ aliases:
 summary: "主张批判性思维应通过独立的专门课程显性教授而非作为学科学习副产品隐性培养的教学理论，以元分析证据为支撑，强调教师培训和专门课程设计的关键作用。"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 41
+theory_related_count: 42
 theory_related_level: 4
 theory_related_stars: "💎⭐"
 theory_related_color: "#fce7f3"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Authentic Instruction]]"
   - "[[Mentorship]]"
   - "[[Scaffolding]]"
+  - "[[Individualised Instruction]]"
   - "[[Creativity]]"
   - "[[School Leadership]]"
   - "[[IB Diploma Programme]]"
@@ -67,7 +68,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-06-30
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Explicit Critical Thinking Instruction
@@ -112,7 +113,7 @@ updated: 2026-10-16
 > - **推导** 如果批判性思维是一组可独立于学科内容教学的通用认知技能（前提一），且跨大量研究的元分析一致显示显性教学的效果优于隐性教学（前提二），那么可以合理推断显性独立教学路径是更有效的教学策略。这一推导不否认领域知识的重要性，但指出领域知识并不能自动产生批判性思维——需要显性的指导和练习。
 
 > [!proposition-chain] 核心命题二｜教师培训是调节显性教学效果的关键[[Variable\|变量]]
-> - **前提一** 元分析与干预实证表明，当教师接受了批判性思维教学的专门培训（明确掌握提问句干、[[Scaffolding\|认知脚手架]]设计）、且教学过程融入个别化指导时，学生批判性思维技能的获得最高（[[Argument_Abrami_2015_RER\|Abrami et al., 2015]]）。
+> - **前提一** 元分析与干预实证表明，当教师接受了批判性思维教学的专门培训（明确掌握提问句干、[[Scaffolding\|认知脚手架]]设计）、且教学过程融入[[Individualised Instruction|个别化指导]]时，学生批判性思维技能的获得最高（[[Argument_Abrami_2015_RER\|Abrami et al., 2015]]）。
 > - **前提二** 大规模调查显示，尽管 $90\%$–$97\%$ 的教师声称重视批判性思维教学，但只有 $19\%$ 能清晰解释批判性思维的定义，仅 $9\%$ 在实际课堂中教授批判性思维（Paul et al., 1997, p. 18）。
 >   > [!evidence-grid]- 证据
 >   > - **Paul et al. (1997)** 加州教师准备研究：发现教师的批判性思维教学知识和技能严重不足。

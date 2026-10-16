@@ -402,7 +402,7 @@ journal: "New Zealand Journal of Educational Studies"
 > [!citation-card] [[John Hattie|哈蒂]]论构建容许犯错与相互信任的教师休息室文化
 > [[School Leadership|学校领导]]与教师需要共同营造出将错误视为学习机会而受欢迎的校园、教研室与课堂环境；在那里，摒弃不正确的知识与理解受到鼓励，参与者能够感受到学习、重新学习和探索知识的心理安全。学校改进所必需的是一个充满关爱、支持性的教职员休息室，对错误的宽容，向其他教师学习的意愿，以及教师同伴之间投入、信任与共享激情的专业文化。（pp. 103–104）
 >
-> *“School leaders and teachers need to create school, staffroom, and classroom environments where error is welcome as a learning opportunity, where discarding incorrect knowledge and understandings is welcomed, and where participants can feel safe to learn, re-learn, and explore knowledge and understanding... a caring, supportive staff room, a tolerance for errors, and for learning from other teachers, a peer culture among teachers of engagement, trust, shared passion, and so on.” (John Hattie, 2008, pp. 239–240; quoted pp. 103–104)*
+> *“School leaders and teachers need to create school, staffroom, and classroom environments where error is welcome as a learning opportunity, where discarding incorrect knowledge and understandings is welcomed, and where participants can feel safe to learn, re-learn, and explore knowledge and understanding... a caring, supportive staff room, a tolerance for errors, and for learning from other teachers, a [[Peer-Supported Learning|peer culture]] among teachers of engagement, trust, shared passion, and so on.” (John Hattie, 2008, pp. 239–240; quoted pp. 103–104)*
 
 ---
 

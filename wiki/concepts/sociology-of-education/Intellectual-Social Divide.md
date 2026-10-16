@@ -7,7 +7,7 @@ aliases:
 summary: "西方学校文化中的深层假设，认为理智追求与社交能力相互排斥，是 nerd 同伴文化的重要文化根源之一"
 type: concept
 domain: "sociology-of-education"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ tags:
   - theme/cultural-psychology
 related_concepts:
   - "[[Nerd]]"
+  - "[[Peer-Supported Learning]]"
   - "[[Academic Engagement]]"
   - "[[Zero-Sum Competition]]"
   - "[[Tracking]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Intellectual-Social Divide
@@ -46,7 +47,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!info]
-> 知性-社交二分（intellectual-social divide）是 [[Argument_Li_2012_Cambridge|Li (2012)]] 在分析西方 [[Nerd]] 同伴文化时识别的四重文化根源之一。这一假设的核心信念是：**理智追求与社交能力是相互排斥的**——如果一个人对学术学习有兴趣并投入努力，那么他一定缺乏社交能力；反之，社交能力强的人不会在学术上投入过多([[Argument_Li_2012_Cambridge\|Li, 2012, pp.91–92, 99]])。
+> 知性-社交二分（intellectual-social divide）是 [[Argument_Li_2012_Cambridge|Li (2012)]] 在分析西方 [[Nerd]] [[Peer-Supported Learning|同伴文化]]时识别的四重文化根源之一。这一假设的核心信念是：**理智追求与社交能力是相互排斥的**——如果一个人对学术学习有兴趣并投入努力，那么他一定缺乏社交能力；反之，社交能力强的人不会在学术上投入过多([[Argument_Li_2012_Cambridge\|Li, 2012, pp.91–92, 99]])。
 
 这一假设的运作逻辑是一个隐含的三段论：
 1. 一个人的时间和精力是有限的（零和前提）

@@ -8,7 +8,7 @@ aliases:
 summary: "美国学生将学业竞争视为零和博弈的文化信念，是 nerd 同伴文化的重要文化根源之一"
 type: concept
 domain: "sociology-of-education"
-related_count: 7
+related_count: 8
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -20,6 +20,7 @@ tags:
   - theme/cultural-psychology
 related_concepts:
   - "[[Nerd]]"
+  - "[[Peer-Supported Learning]]"
   - "[[Tall Poppy Syndrome]]"
   - "[[Self-Cultivation]]"
   - "[[Talent Assumption]]"
@@ -34,7 +35,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-24
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Zero-Sum Competition
@@ -44,7 +45,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!info]
-> 零和竞争（zero-sum competition）指一种将学业竞争视为**一方得即他方失**的信念——如果一个人赢了，其余人必然输了；竞争无法使双方都成为赢家。[[Argument_Li_2012_Cambridge\|Li (2012)]] 将这一信念识别为西方 [[Nerd]] 同伴文化的四重文化根源之一([[Argument_Li_2012_Cambridge\|Li, 2012, pp.95–96]])。
+> 零和竞争（zero-sum competition）指一种将学业竞争视为**一方得即他方失**的信念——如果一个人赢了，其余人必然输了；竞争无法使双方都成为赢家。[[Argument_Li_2012_Cambridge\|Li (2012)]] 将这一信念识别为西方 [[Nerd]] [[Peer-Supported Learning|同伴文化]]的四重文化根源之一([[Argument_Li_2012_Cambridge\|Li, 2012, pp.95–96]])。
 
 这一概念的关键不在"是否存在竞争"——所有学校都有竞争——而在**如何理解竞争**。将竞争理解为"零和"的美国学生，其推论链如下：
 1. 考试成绩和排名是有限的——只有一个人能排第一

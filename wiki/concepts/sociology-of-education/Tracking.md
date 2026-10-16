@@ -9,7 +9,7 @@ aliases:
 summary: "根据学术能力、测试成绩或职业取向将学生分配至不同课程轨道、教学班组或学校类型的制度化分流实践，在宏观上加剧社会阶层隔离并削弱公平与动机，在微观上强化能力固化信念与自我实现预言"
 type: concept
 domain: "sociology-of-education"
-related_count: 43
+related_count: 44
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -29,6 +29,7 @@ related_concepts:
   - "[[School Choice]]"
   - "[[Talent Assumption]]"
   - "[[Ontology]]"
+  - "[[Peer-Supported Learning]]"
   - "[[Intellectual-Social Divide]]"
   - "[[Nerd]]"
   - "[[Discourse]]"
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-25
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Tracking
@@ -191,7 +192,7 @@ updated: 2026-10-16
 > [[Jin Li\|李瑾]]（Jin Li）指出，尽管东亚中等教育存在激烈的高利害中考与[[Gaokao\|高考]]选拔，但东亚学校在日常组织中高度排斥校内永久性的“能力分轨制”（[[Argument_Li_2012_Cambridge\|Li, 2012, pp. 109–110]]）：
 > - **哲学根基** 根植于儒家文化的可变自我观（Malleable Self）与环境可塑性信念。东亚文化坚信人的智力与品格是通过坚持不懈的努力（Effort / 刻苦）逐步建构的，早期将学生定性为不可改变的“低学术轨”在[[Ontology\|本体论]]上不具备正当性。
 > - **教学实践** 在完成学段升学选拔后，学校内部极其强调全体学生共享统一高标准的学术大纲与高阶核心知识，而不是针对所谓“笨学生”提供降阶教材。
-> - **同伴文化对照** 在美国分轨学校中，由于知性—社交二分（[[Intellectual-Social Divide]]）与实体能力论，学生演化出“努力但不能过于费力”的小群体潜规则，高努力学者被贬为“[[Nerd\|书呆子]]（Nerd）”；而在东亚非分轨语境下，[[Academic Engagement\|学业投入]]被公认为普遍的美德标准。
+> - **[[Peer-Supported Learning|同伴文化]]对照** 在美国分轨学校中，由于知性—社交二分（[[Intellectual-Social Divide]]）与实体能力论，学生演化出“努力但不能过于费力”的小群体潜规则，高努力学者被贬为“[[Nerd\|书呆子]]（Nerd）”；而在东亚非分轨语境下，[[Academic Engagement\|学业投入]]被公认为普遍的美德标准。
 
 > [!case] 英国政客应对 [[PISA]] 分轨证据的“遗漏[[Discourse|话语]]”
 > 在英格兰应对 PISA 2012 评估的过程中，执政精英展现出对分轨证据的高度策略性操纵（[[Argument_Grey_2018_CE\|Grey & Morris, 2018, pp. 114, 117–118]]）：

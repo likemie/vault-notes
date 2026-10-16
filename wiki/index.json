@@ -8108,7 +8108,9 @@
     "path": "wiki/concepts/instruction-pedagogy/Individualised Instruction.md",
     "aliases": [
       "个别化教学",
-      "个性化教学"
+      "个性化教学",
+      "个别化指导",
+      "individualized instruction"
     ]
   },
   {
@@ -8237,10 +8239,13 @@
     "path": "wiki/concepts/instruction-pedagogy/Peer-Supported Learning.md",
     "aliases": [
       "同伴互助学习",
+      "同伴互助",
       "兵教兵",
       "peer tutoring",
+      "peer-assisted learning",
       "互帮互学",
-      "同伴互助"
+      "同伴文化",
+      "peer culture"
     ]
   },
   {

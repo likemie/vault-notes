@@ -3,106 +3,221 @@ title: Individualised Instruction
 aliases:
   - 个别化教学
   - 个性化教学
-summary: "围绕学生差异调整内容、节奏与支持方式的教学安排，但其效果高度依赖教师结构和学生前提条件，不能简单等同于把学习责任交给学生。"
+  - 个别化指导
+  - individualized instruction
+summary: "围绕学生差异动态调整教学进度、内容难度与支架强度的微观教学组织形式；元分析显示其孤立效应微弱，其实质成效高度依赖教师认知结构的持续在场与小班额等组织条件的交互支撑，绝非放任学生自力更生的责任外包。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 11
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 34
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
+  - instruction
+  - pedagogy
   - individualised-instruction
   - differentiated-instruction
-  - subject/instruction
+  - class-size
   - level/k12
 related_concepts:
-  - "[[Structured Teaching]]"
+  - "[[Scaffolding]]"
+  - "[[Critical Pedagogy]]"
+  - "[[Class Size]]"
+  - "[[Heterogeneity]]"
+  - "[[Variable]]"
+  - "[[Interaction Effect]]"
+  - "[[Construct]]"
   - "[[Direct Instruction]]"
-  - "[[Feedback]]"
-  - "[[Effective Teaching]]"
+  - "[[Independent Variable]]"
+  - "[[Structured Teaching]]"
+  - "[[Metacognition]]"
+  - "[[Necessary and Sufficient Conditions]]"
   - "[[Visible Learning]]"
+  - "[[Cultural Capital]]"
+  - "[[Learning Intentions]]"
+  - "[[Homework]]"
+  - "[[Academic Achievement]]"
+  - "[[Effective Teaching]]"
+  - "[[Feedback]]"
 related_theories: []
 related_methods:
-  - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
-related_persons: []
-related_facts: []
+  - "[[Classroom Observation]]"
+  - "[[Meta-meta-analysis]]"
+related_persons:
+  - "[[John Hattie]]"
+related_facts:
+  - "[[Picking Up the Pace]]"
+  - "[[SFI Report]]"
+  - "[[Science Foundation Ireland]]"
+  - "[[Education Endowment Foundation]]"
+  - "[[PISA]]"
 related_arguments:
   - "[[Argument_Laursen_2015_Paideia]]"
+  - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Higgins_2016_ROE]]"
 related_instruments:
   - "[[Framework for Teaching]]"
-confidence: low
-status: draft
-created: "2026-05-05"
-updated: 2026-10-15
+  - "[[Problem Solving Inventory]]"
+confidence: high
+status: active
+created: 2026-05-05
+updated: 2026-10-17
 ---
 
 # Individualised Instruction
 
+---
+
 ## 定义
 
-> [!info] 定义
-> 个别化教学（individualised instruction）指教师根据学生差异，在内容、进度、任务难度、支持方式或学习路径上做出调整，以回应学生不同的能力、兴趣和学习节奏。它的核心问题不是“是否让学生自己做”，而是“教师如何在差异面前组织支持”([[Argument_Laursen_2015_Paideia\|Laursen, 2015, p.38]])。
+> [!def] 核心定义
+> **个别化教学（Individualised Instruction）** 指教师根据学生在先验知识、学习节奏、认知风格及支持需求等方面的个体差异，在教学内容、推进速度、任务难度、支持方式或学习路径上作出针对性调整的微观教学组织过程。其核心实践命题不在于“放手让学生自定步调独立完成”，而在于“教师如何在复杂差异面前精准搭设与动态调整[[Scaffolding|认知支架]]”（[[Argument_Laursen_2015_Paideia|Laursen, 2015, p. 38]]）。
 >
-> 在当前 vault 的文献链里，这个概念经常和“教学差异化”相邻出现，但两者并不完全等同。英语语境中的 individualised instruction 只是对北欧讨论中“教学差异化”的近似参照。
+> 在比较教育与教学论语境中，英语世界的 individualised instruction 经常与北欧教育学体系中的“教学差异化”（undervisningsdifferentiering）相互参照。[[Critical Pedagogy|批判教学论]]指出，个别化教学不能被简单降格为孤立的微观技巧或软件人机交互，其实质成效深度镶嵌在学校[[Class Size|班级规模]]、教师专业发展以及即时形成性诊断等生态系统之中。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 102–103)]]
+
+> [!concept-lens] 概念透镜
+> - **含义** 概括以学生[[Heterogeneity|异质性]]为起点的教学适配机制，强调教师作为敏锐诊断者与支架搭建者的核心职能，实现高期待与个别化支持的有机融合。
+> - **用途** 用于指导差异化课堂设计、融合教育与处境不利学生的学业补偿干预，并作为检验教学实验中[[Variable|变量]][[Interaction Effect|交互效应]]的关键[[Construct|构念]]。
+> - **边界** 严格区别于无教师介入的纯粹自定步调自学或开放式个人自习；若缺乏教师的目标指引与支架跟进，个别化将蜕化为对学生的隐性放任与教学责任转嫁。
+
+> [!boundary]- 概念边界
+> - **不等于放任式个人自学（Unstructured Individual Seatwork）** 增加学生的独自做题时间绝不等于高品质个别化教学。若学生仅被要求自行安排进度、理解规则，而教师的显性指导与反馈全面缺位，实质是将学习责任甩包袱给学生，极易导致学习效能滑坡（Håkansson, 2015, pp. 586–587）。
+> - **不等于抛弃全班[[Direct Instruction|直接教学]]（Direct Instruction）** 显性直接教学负责搭建核心学科概念框架与示范解题规范，个别化教学则负责针对个体难点提供跟进支架；两者属于不同教学阶段的协同配合，而非非此即彼的对立替代。
+> - **不等于孤立的单项技术[[Independent Variable|自变量]]** 在[[Meta-analysis|元分析]]统计中将个别化教学抽离出特定的教学情境与组织条件（如班级规模、师生比），会抹杀其在小班生态中发挥作用的因果交互机制。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 102–103)]]
 
 ---
 
 ## 概念辨析
 
-> [!example] 概念辨析
-> - vs [[Structured Teaching]] — [[Structured Teaching]] 关心的是课堂整体框架是否清晰；个别化教学关心的是在这个框架内，教师如何对不同学生提供不同支持。前者回答“课堂怎么组织”，后者回答“差异怎么处理”。
-> - vs 开放式个人工作 — Håkansson（2015）指出，个人工作增加并不自动等于个别化教学。若学生只是被要求自己安排任务、自己理解规则，而教师支持反而减少，这更接近“把责任下放给学生”，不是高质量的个别化教学（Håkansson, 2015, pp.586-587, 594-595）。
-> - vs [[Direct Instruction]] — 直接教学通常先由教师把关键知识结构搭起来；个别化教学则处理学生在理解速度、支持强度和任务形式上的差异。两者常常需要配合，而不是二选一。
+> [!contrast-table] 个别化教学与相关教学组织形式对比
+> | 比较维度 | 个别化教学（Individualised Instruction） | 结构化教学（[[Structured Teaching]]） | 显性直接教学（[[Direct Instruction]]） | 放任式个人自学（Individual Seatwork） |
+> |---|---|---|---|---|
+> | **核心关切** | 如何在学生差异面前提供差异化支架 | 课堂整体目标框架与流程规范是否清晰 | 核心概念示范与全班交互操练是否扎实 | 个人按材料自主推进，缺少外部干预 |
+> | **教师角色** | **诊断者与动态支架搭设者** | 课堂秩序与[[Framework for Teaching\|教学框架]]的设计者 | 知识显性建模与流程主导者 | 材料分发者或旁观监督者 |
+> | **学生状态** | 在适配自身节奏的支架下攻克针对性目标 | 遵循明确的规则与共同步调展开学习 | 高频响应教师提问与即时矫正反馈 | 独自面对学习材料，自担计划与理解责任 |
+> | **依赖条件** | 高频形成性反馈、小规模小组与适切[[Class Size\|班额]] | 稳定的班级常规与清晰的教学目标 | 结构化教材、紧凑节奏与高期待管理 | 学生极高的[[Metacognition\|元认知]]水平与较强先验基础 |
+> | **潜在风险** | 组织成本高昂，大班额下易沦为表面走过场 | 过度机械僵化可能压制发散探究 | 容易忽视处境特殊学生的边缘化困境 | 弱势学生因缺乏引导而严重掉队迷失 |
 
 ---
 
-## 核心要素
-
-> [!abstract] 核心要素
-> - 差异识别：教师需要先判断学生在哪些地方不同，例如基础、节奏、理解方式或任务支持需求。
-> - 结构化支持：个别化教学不是简单放手，而是按差异调整支持强度和任务路径。
-> - 目标一致：即便路径不同，学生仍需面对清楚的学习目标，否则个别化容易变成碎片化安排。
-> - 反馈嵌入：若没有 [[Feedback]]，教师就很难知道某种调整是否真的对特定学生起作用。
+## 围绕概念形成的命题
 
 ---
 
-## 理论基础
+### 命题一　个别化教学的有效性取决于教师持续认知支架的供给，而非将学习责任下放给学生独立摸索
 
-> [!tip]- 理论基础
-> - [[Effective Teaching]] — 个别化教学可被看作有效教学中“适配学生前提条件”的一部分，而不是独立万能策略。
-> - [[Visible Learning]] — Hattie 对 individualised instruction 的处理，使它常被放在“效果不算强”的位置上；但这个判断本身也依赖概念和测量方式如何被界定([[Argument_Laursen_2015_Paideia\|Laursen, 2015, p.38]])。
+> [!concept-lens] 教师认知在场与支持连续性
+> 教学个别化的核心标志不是学生身体形态上的独自工作，而是教师针对学生认知断点所提供的专业支持密度。
 
----
-
-## 实证发现
-
-> [!success] Hattie 的[[Meta-meta-analysis\|元综合]]排名
-> Hattie（1992）综合 134 项[[Meta-analysis\|元分析]]后发现，个别化教学的平均[[Effect Size\|效应量]]仅为 0.14，程序化教学为 0.18，是所有干预中效果最低的类别。他将此视为重要发现，因为当时学生大约三分之二的在校时间在独自学习([[Argument_Higgins_2016_ROE\|Higgins, 2016, p.42]])。
-
-> [!success] 丹麦与瑞典的证据
-> - [[Argument_Laursen_2015_Paideia\|Laursen (2015)]]整理的丹麦证据没有显示教学差异化能稳定显著提升学习，这与 Hattie 对个别化教学效果较小的判断方向接近([[Argument_Laursen_2015_Paideia\|Laursen, 2015, p.38]])
-> - Håkansson（2015）提供了一个重要修正：问题不在于教师是否照顾差异，而在于当课堂越来越个人化时，教师支持是否也随之退场。若教师结构不足，学生可能被留在看似自由、实际上缺乏支撑的学习状态中（Håkansson, 2015, pp.586–587, 594–595）
-> - 个别化教学的关键不只是给不同学生不同任务，而是在差异化安排下，教师是否仍持续提供目标、解释、理解检查和支持（Håkansson, 2015, pp.592–595）
+> [!claim] Håkansson; Laursen, P. F.
+> **反对“责任外包式”伪个别化** 瑞典与丹麦的课堂实证追踪揭示，很多以“个性化”为名的改革实质上导致了教师支持的撤退。当学生被要求独立规划周计划、自选练习册并在遇到困难时自行寻找资源时，学习成效不仅没有提高，反而造成了普遍的课堂焦虑与目标迷失。高品质的个别化教学必须以明确的教学目标、持续的理解检查与及时的形成性解释为绝对前提；若缺少教师的显性支架，开放的个别化安排反而在客观上构成了对教学责任的推卸。[[Argument_Laursen_2015_Paideia|(Laursen, 2015, p. 38)]]; (Håkansson, 2015, pp. 586–587, 594–595)
 
 ---
 
-## 争议与批评
+### 命题二　小班额是个别化教学发生实质效果的物理与组织必要条件，二者具有显著交互效应
 
-> [!warning] 争议与批评
-> - 概念对应并不严密：北欧语境的“教学差异化”和英语 individualised instruction 并非完全一一对应，跨语境比较时需要谨慎([[Argument_Laursen_2015_Paideia\|Laursen, 2015, p.38]])。
-> - 容易滑向“责任外包给学生”：Håkansson（2015）对瑞典课堂变化的分析提醒我们，很多被说成“个别化”的安排，实际可能只是让学生自己承担更多计划和理解工作，而教师支持变弱了（Håkansson, 2015, pp.586-587）。
-> - 若脱离结构框架，个别化可能扩大差异：学习准备强的学生更能从开放安排中获益，基础较弱的学生则更可能在缺少明确引导时掉队（Håkansson, 2015, pp.594-595）。
+> [!concept-lens] 组织生态与因果[[Interaction Effect|交互效应]]
+> 单一考察个别化教学或[[Class Size|班级规模]]的主效应会产生统计遮蔽，小班额为高频、深入的个别化互动提供了不可或缺的时空容器。
 
----
-
-## 相关案例／政策
-
-> [!example] 相关案例／政策
-> - [[Structured Teaching]] — 瑞典案例说明，好的差异化不应以削弱教师结构为代价。
-> - [[Effective Teaching]] — 个别化教学更适合放回有效[[Framework for Teaching|教学框架]]中理解，而不是被当成独立处方。
+> [!claim] Snook et al.; Stewart
+> **班额缩减作为高频个别化指导的[[Necessary and Sufficient Conditions|必要条件]]** 新西兰奥克兰 PACE（[[Picking Up the Pace]]）早期读写干预实证表明，该项目之所以取得突破性成效，关键在于学校董事会将一年级班额从 28 人缩减至 15 人，从而使教师能够以 3 人微型小组为单位开展高频针对性的个别化教学（每次 10–15 分钟）。在 30 人的大班额生态下，单一教师在物理和时间上绝无可能与多组学生进行高频深度互动。[[John Hattie|约翰·哈蒂]]（[[John Hattie]]）在《[[Visible Learning|可见的学习]]》中将班额（$d = 0.21$）与教学法割裂开来单独排名的做法，严重割裂了教育[[Variable|变量]]间的[[Interaction Effect|交互效应]]：小班额虽非提升成就的充分条件，却是教师落地密集个别化教学与形成性反馈的刚性必要支撑。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 102–103)]]
 
 ---
 
+### 命题三　脱离结构化引导的开放个别化极易扩大阶层学业差距，弱势学生更需显性目标与高频形成性反馈
+
+> [!concept-lens] 社会阶层背景调节与公平分化
+> 缺乏结构化支持的个别化机制对不同家庭背景学生产生不对称冲击，成为教育不平等的隐性再生产机制。
+
+> [!claim] [[SFI Report]]; Higgins
+> **处境不利学生对显性结构的高度依赖** 丹麦国家社会科学研究所（[[Science Foundation Ireland|SFI]]）与英国[[Education Endowment Foundation|教育捐赠基金会]]（EEF）的实证评估一致表明，完全自定节奏的个别化安排主要有利于具备良好自律能力与家庭[[Cultural Capital|文化资本]]优势的中产阶级子弟；而对于家庭资源匮乏的弱势学生，开放自学往往演变为无所适从。弱势儿童最迫切需要的是教师明确告知[[Learning Intentions|学习意图]]、提供即时纠错反馈并在全班框架内提供[[Scaffolding|脚手架]]式的个别补偿。脱离严密结构支撑的激进个别化，不仅无法实现因材施教，反而会急剧放大校内学业差距。[[Argument_Laursen_2015_Paideia|(Laursen, 2015, pp. 38, 40)]]; [[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 42)]]
+
+---
+
+### 命题总览
+
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **教师支架在场命题** | 个别化教学的灵魂是针对性认知支架，绝非推卸教学责任让学生自谋生路 | 课堂日常差异化教学、学习任务单编制 | Håkansson; Laursen |
+> | **组织条件交互命题** | 小班额是落地密集个别化指导的物理与组织前提，两者存在强因果交互 | 资源配置、班额政策制定、早期读写干预 | Snook et al.; Stewart |
+> | **阶层分化调节命题** | 弱势学生极度依赖显性结构与即时反馈，过度开放的个别化加剧阶层差距 | 补偿教育、弱势学校改进、教育公平评估 | SFI; Higgins; Laursen |
+
+---
+
+## 演进历程与代表性争论
+
+> [!dev-timeline] 概念演变历程
+> - **1960–1970 年代 — 程序教学与个别化教学系统（[[Problem Solving Inventory|PSI]]）兴起** 斯金纳的程序教学机与凯勒计划（Keller Plan）风行，试图通过标准小步子教材与自定步调考核实现完全个别化，因抽离了社会人际互动与师生对话而逐渐式微。
+> - **1992–2009 年 — [[Meta-analysis|元分析]]综合的低[[Effect Size|效应量]]量化定性** [[John Hattie|约翰·哈蒂]]（John Hattie, 1992, 2008）综合 134 项元分析指出，个别化教学平均效应量仅为 $d = 0.14$，在 138 项干预中居于垫底梯队，从而在循证政策界确立了“个别化教学投入大而收效微”的主流定调。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 42)]]
+> - **2009 年 — 新西兰[[Critical Pedagogy|批判教育学]]者揭示情境与[[Variable|变量]]交互机制** 斯努克等学者（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）批判哈蒂割裂变量的做法，基于奥克兰 [[Picking Up the Pace|PACE 项目]]指出个别化教学与[[Class Size|班额]]、教师专业培训深度交织，不能被简单单变量统计所否定。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 102–103)]]
+> - **2015 年至今 — 北欧教学差异化反思与结构化回归** 丹麦与瑞典学者（[[Argument_Laursen_2015_Paideia|Laursen, 2015]]; Håkansson, 2015）深入解构“自由个别化”造成的教师支持退场与学生迷失，倡导将个别化重新锚定于[[Structured Teaching|结构化教学]]与共同学习社群之中。
+
+> [!debates] 学术争议
+>
+> > [!axis] 单变量效应量均值排位 vs 组织条件因果交互
+> > 争论个别化教学究系成效微弱的低效干预，还是受制于组织生态的强条件干预。
+> >
+> > - **实证元分析排位派（Hattie, Higgins）** 援引上百项元分析证据指出，个别化教学效应量长期徘徊在 $0.14 \sim 0.20$ 之间，远落后于[[Direct Instruction|直接教学]]（$0.59$）与形成性反馈（$0.73$），证明脱离全班教师主导的个别化不值得大规模财政倾斜。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 42)]]
+> > - **情境生态交互派（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）** 反驳称元分析将大班强行实施的失败个别化与小班生态下的成功干预机械平均；小班额是教师实施有效个别化的高阶[[Necessary and Sufficient Conditions|必要条件]]，单变量排位抹杀了真实教育生态的交互复杂性。
+>
+> > [!axis] 自主自定步调神话 vs 教师支持撤出的隐性剥夺
+> > 探讨将任务交给学生自决是尊重个性发展还是削弱专业教学支持。
+> >
+> > - **儿童中心自主派** 认为学生认知起点千差万别，自定节奏与个性化[[Homework|作业]]能最大程度激发内在动机与独立探究素养。
+> > - **教学论批判派（Håkansson, 2015; [[Argument_Laursen_2015_Paideia|Laursen, 2015]]）** 指出学生缺乏足够的学科[[Metacognition|元认知]]，教师支持若在个别化幌子下撤退，只会将学生推入焦虑迷茫，加剧优势阶层的隐性领跑。
+
+---
+
+## 实证研究与应用案例
+
+> [!case] 新西兰奥克兰 [[Picking Up the Pace|PACE 项目]]：小[[Class Size|班额]]与密集个别化读写教学的协同实验
+> 新西兰奥克兰南部处境不利学校推行的“步调提速”读写干预项目（Picking Up the Pace, PACE）为个别化教学与组织[[Variable|变量]]的交互提供了经典实证。项目初期，学校面临严重的毛利与太平洋岛裔低年级学生读写落后危机。面对“个别化教学收效甚微”的流行偏见，试点校董事会果断将一年级班级规模从 28 人压降至 15 人，确保专任教师能将全班分解为 5 个 3 人微型小组。在每天固定的读写板块中，教师轮流与各小组展开 10 至 15 分钟的密集个别化拼读与阅读指导，给予即时形成性纠错，其余小组在明确常规下开展配套练习。该项目实现了[[Academic Achievement|学业成绩]]的大幅跃升，其实证核心结论表明：**个别化教学绝非可以脱离物理班额孤立存在的通用技巧，小班额与高强度教师专业发展是解锁密集个别化教学效能的关键组织杠杆。**[[Argument_Snook_2009_NZJES|(Stewart, 2001, cited in Snook et al., 2009, pp. 102–103)]]
+
+> [!case] 瑞典公立学校“个人化工作”改革的反思与再平衡
+> 瑞典国家教育署在 1990 年代末至 2000 年代初大力推广以“学生自主工作时间”（eget arbete）为特征的个别化改革。[[Classroom Observation|课堂观察]]与大规模追踪评估发现，学生将高达三分之一的在校时间用于独立做练习单、自填进度表；教师则将精力耗费于繁复的表格管理与纪律巡视，针对学科概念的系统讲授与深度提问急剧减少。该项实证评估最终证实，这种假性个别化导致瑞典在 [[PISA]] 国际测评中成绩连续下滑，特别是基础薄弱学生因缺乏教师系统示范而遭受重创，迫使瑞典教育界在 2010 年代重新回归强调教师主导、全班结构与个别辅导相结合的专业轨道。（Håkansson, 2015, pp. 586–595）
+
+---
+
+## 关键引用
+
+> [!citation-card] 斯努克等人论小[[Class Size|班额]]与个别化教学的因果交互
+> 成功推行 PACE 读写项目的关键，在于校董会决定将低年级班额从 28 人坚决削减至 15 人。这项组织变革带来了惊人的成效，因为该教学方案必须以 3 人微型小组展开。当你需要对每个小组进行 10 到 15 分钟的高频深入辅导时，若没有助教支持，绝不可能在大班额中实施。小班额使教师能够更加从容、高频地与各个小组展开实质性的个别化交互。所谓教学技术的成功，实质上是教学法与小班额[[Variable|变量]]强力[[Interaction Effect|交互作用]]的直接产物。[[Argument_Snook_2009_NZJES|(Stewart, 2001, cited in Snook et al., 2009, pp. 102–103)]]
+>
+> *The success of the programme has also been attributed to the board of trustees' decision last year to reduce junior class size from 28 students to 15. This has had an amazing impact because the programme has to be done with groups of three children. When you're involved with each group for 10–15 minutes at a time you can't have large numbers in the classroom... Smaller numbers mean teachers are able to interact a lot easier with the groups and on a more regular basis.*
+
+> [!citation-card] 劳尔森论个别化教学的实质内核
+> 个别化教学或教学差异化的核心问题，绝不是让学生自顾自地孤立探索，而是教师如何在学生差异面前精心组织专业支持。如果差异化沦为教师支持的退场与学习责任的转嫁，它必将瓦解教学的公共性基础。[[Argument_Laursen_2015_Paideia|(Laursen, 2015, p. 38)]]
+>
+> *The core question of individualised instruction is not whether to let students work on their own, but how teachers organize support in the face of diverse student prerequisites.*
+
+---
+
+## 条目关联
+
+> [!entry-map]
+>
+> | 条目 | 类型 | 关联说明 |
+> |:-----|:-----|:-----|
+> | [[Class Size]] | 概念 | 小班额是落地密集、高频个别化指导的物理与组织[[Necessary and Sufficient Conditions\|必要条件]]。 |
+> | [[Interaction Effect]] | 概念 | 个别化教学与班额、专业发展之间存在强交互效应，否定了单[[Variable\|变量]]孤立排名的有效性。 |
+> | [[Necessary and Sufficient Conditions]] | 概念 | 适切班额并非提升学业的充分条件，却是个别化教学取得实效的刚性必要条件。 |
+> | [[Picking Up the Pace]] | 事实 | 新西兰奥克兰通过压降班额成功落地微型小组个别化读写干预的标志性实证案例。 |
+> | [[Effective Teaching]] | 概念 | 个别化教学是高品质有效教学中适配学生认知起点的支架维度，需配合显性领导。 |
+> | [[Structured Teaching]] | 概念 | 结构化教学为个别化提供清晰目标框架与流程规范，防止个别化滑向无序放任。 |
+> | [[Direct Instruction]] | 概念 | 直接教学搭建学科基础概念支架，与后续的针对性个别化辅导构成有机链条。 |
+> | [[Feedback]] | 概念 | 形成性反馈是个别化教学的核心引擎，为不同进度的学生指明后续改进方向。 |
+
+---
+
+## 证据链条
+
+> [!evidence-grid]
+>
+> | 论证条目 | 证据类型 | 关键学者 / 报告 | 支撑的核心论断 |
+> |:---|:---|:---|:---|
+> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 批判性政策审议与案例解构 | Snook, O'Neill et al. (2009); Stewart (2001) | 奥克兰 [[Picking Up the Pace\|PACE 项目]]证明小[[Class Size\|班额]]（15人）是个别化微型小组指导的[[Necessary and Sufficient Conditions\|必要条件]]，抨击单[[Variable\|变量]][[Meta-analysis\|元分析]]割裂[[Interaction Effect\|交互效应]]。 |
+> | [[Argument_Laursen_2015_Paideia\|Laursen (2015)]] | 跨文化教学实证综合 | [[Argument_Laursen_2015_Paideia\|Laursen (2015)]]; SFI Report (2015) | 个别化教学不等于教师甩包袱；弱势背景学生对显性结构高度依赖，过度开放的个别化反会拉大差距。 |
+> | [[Argument_Higgins_2016_ROE\|Higgins (2016)]] | 循证干预[[Meta-meta-analysis\|元综合]]评价 | [[Argument_Higgins_2016_ROE\|Higgins (2016)]]; Hattie (1992, 2008) | 归纳个别化教学在纯统计排名中的低效应量（$d = 0.14$），反思自定步调独立学习的局限。 |

@@ -8,7 +8,7 @@ aliases:
 summary: "西方学校中一种将高学业成就与同伴接纳对立起来的同伴文化，理智好奇、努力学习的学生被冠以nerd等贬称并遭受同伴骚扰"
 type: concept
 domain: "sociology-of-education"
-related_count: 10
+related_count: 11
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Academic Engagement]]"
   - "[[Student Attitude]]"
   - "[[Tall Poppy Syndrome]]"
+  - "[[Peer-Supported Learning]]"
   - "[[Zero-Sum Competition]]"
   - "[[Homework]]"
   - "[[Tracking]]"
@@ -36,7 +37,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-10-15
+updated: 2026-10-17
 ---
 
 # Nerd
@@ -81,7 +82,7 @@ N. T. Feather 用"[[Tall Poppy Syndrome|高罂粟]]的倒下"（fall of the tall
 > **年级发展趋势**。Juvonen and Murdock 比较四、六、八年级学生发现：八年级学生（约 14 岁）开始不愿向受欢迎同伴披露自己的勤奋程度，而愿意告诉教师。到八年级，曾因高能力和努力而受欢迎的儿童，受欢迎程度下降；那些无论能力如何都不努力的学生享有最高的同伴欢迎度([[Argument_Li_2012_Cambridge\|Li, 2012, p.91]])。
 
 > [!success]
-> **跨国证据**。一项比较加拿大、德国和以色列八、九年级学生的研究发现，对同伴排斥和孤立（ostracism）的恐惧损害了学生的动机和成就。学生越是接受这种同伴文化，损害越大；这种同伴规范在更广泛的文化中越普遍，负面影响越大([[Argument_Li_2012_Cambridge\|Li, 2012, p.91]])。
+> **跨国证据**。一项比较加拿大、德国和以色列八、九年级学生的研究发现，对同伴排斥和孤立（ostracism）的恐惧损害了学生的动机和成就。学生越是接受这种[[Peer-Supported Learning|同伴文化]]，损害越大；这种同伴规范在更广泛的文化中越普遍，负面影响越大([[Argument_Li_2012_Cambridge\|Li, 2012, p.91]])。
 
 > [!success]
 > **幼儿萌芽**。Li 自己的研究发现，年仅五岁的欧裔美国儿童就已意识到高学业成就的社会代价——虽然高成就者本人（及其家长和教师）很高兴，但同伴"不高兴"、"伤心"、"生气"、"嫉妒"。一些儿童报告了针对高成就者的实际行为，如不和他们玩、说伤人的话([[Argument_Li_2012_Cambridge\|Li, 2012, pp.93]])。
@@ -91,7 +92,7 @@ N. T. Feather 用"[[Tall Poppy Syndrome|高罂粟]]的倒下"（fall of the tall
 ## 文化根源
 
 > [!tip]-
-> Li 综合研究文献，提出了西方 nerd 同伴文化得以存在和运作的四重文化根源([[Argument_Li_2012_Cambridge\|Li, 2012, pp.94–99]])：
+> Li 综合研究文献，提出了西方 nerd [[Peer-Supported Learning|同伴文化]]得以存在和运作的四重文化根源([[Argument_Li_2012_Cambridge\|Li, 2012, pp.94–99]])：
 
 ### 1. 固定自我观
 

@@ -6,7 +6,7 @@ aliases:
 summary: "Bourdieu 场域理论概念，指场域中被自然化为理所当然的正统信念，通过结构安排而非显性强制维持其合法性"
 type: concept
 domain: "sociology-of-education"
-related_count: 20
+related_count: 21
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Intellectual-Social Divide]]"
   - "[[Nerd]]"
   - "[[Talent Assumption]]"
+  - "[[Peer-Supported Learning]]"
   - "[[New Public Management]]"
   - "[[Epistemology]]"
   - "[[Epistemological Break]]"
@@ -45,7 +46,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-09
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Doxa
@@ -121,7 +122,7 @@ Doxa 的核心不在于"有人相信它"——而在于**没人想到要去质�
 - **与[[Talent Assumption|天赋假设]]的相互锚定** "智力是天生的、不可改变的"信念使学术能力被归入"固定属性"范畴，与社交能力（同样被视为"天生的魅力"）形成自然对立——两者都被视为先天禀赋，因此"擅长一方必不擅长另一方"成为不言自明的常识([[Argument_Li_2012_Cambridge|Li, 2012, pp.96–98]])
 - **结构性再生产** 美国高中的[[Tracking|分轨制]]（tracking）和教师对学生能力的固定标记制度化地再生产了这一 doxa——课程安排和教师判断不断确认"学术型"与"社交型"学生的分类([[Argument_Li_2012_Cambridge|Li, 2012, pp.98–99]])
 
-这一案例的核心洞察：nerd 同伴文化中的骚扰和排斥并非"人性之恶"，而是特定 doxa（智识-社交分离 + [[Talent Assumption|天赋假设]]）在学校场域中的结构性产物。完整的论证链见 [[Argument_Li_2012_Cambridge|Li (2012)]] 第 6 章。
+这一案例的核心洞察：nerd [[Peer-Supported Learning|同伴文化]]中的骚扰和排斥并非"人性之恶"，而是特定 doxa（智识-社交分离 + [[Talent Assumption|天赋假设]]）在学校场域中的结构性产物。完整的论证链见 [[Argument_Li_2012_Cambridge|Li (2012)]] 第 6 章。
 
 ### NPM 与 doxa 置换
 

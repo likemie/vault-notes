@@ -8,7 +8,7 @@ aliases:
 summary: "西方文化中深植的信念，认为智力成就主要来源于先天禀赋而非后天努力，是nerd同伴文化的重要文化根源之一"
 type: concept
 domain: "sociology-of-education"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -19,6 +19,7 @@ tags:
   - theme/cultural-psychology
 related_concepts:
   - "[[Nerd]]"
+  - "[[Peer-Supported Learning]]"
   - "[[Operationalization]]"
   - "[[Creativity]]"
   - "[[Tracking]]"
@@ -37,7 +38,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-05-23
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Talent Assumption
@@ -45,7 +46,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!info]
-> 天赋假设（talent assumption）是 [[Argument_Li_2012_Cambridge|Li (2012)]] 在分析西方 [[Nerd]] 同伴文化时识别的一种深层文化信念：**智力成就主要来源于先天禀赋（天赋、天才），而非后天努力。** 根据这一假设，一个人在学术领域的表现——尤其是卓越的表现——被认为反映了他天生被赋予的智力水平([[Argument_Li_2012_Cambridge\|Li, 2012, pp.96–98]])。
+> 天赋假设（talent assumption）是 [[Argument_Li_2012_Cambridge|Li (2012)]] 在分析西方 [[Nerd]] [[Peer-Supported Learning|同伴文化]]时识别的一种深层文化信念：**智力成就主要来源于先天禀赋（天赋、天才），而非后天努力。** 根据这一假设，一个人在学术领域的表现——尤其是卓越的表现——被认为反映了他天生被赋予的智力水平([[Argument_Li_2012_Cambridge\|Li, 2012, pp.96–98]])。
 
 这一信念的历史根源可追溯至 [[Francis Galton]] 的《Hereditary Genius》（1869/2006 重印）——该书首次系统论证"天才是遗传的"——并延续至 Hernstein and Murray 的《The Bell Curve》（1994）等当代争论。Li 指出，这一假设之所以难以被彻底反驳，是因为日常生活中确实存在明显的天赋差异（莫扎特、毕加索、爱因斯坦），使得天赋假设具有直观的"常识"感召力([[Argument_Li_2012_Cambridge|Li, 2012, pp.96–97]])。
 
@@ -85,7 +86,7 @@ updated: 2026-10-16
 ## 在同伴文化中的后果
 
 > [!warning]
-> 天赋假设是 [[Nerd]] 同伴文化的关键发动机之一，与 [[Zero-Sum Competition\|零和竞争]]和 [[Intellectual-Social Divide\|知性-社交二分]]共同构成 nerd 文化的因果网络([[Argument_Li_2012_Cambridge\|Li, 2012, pp.94–99]])：
+> 天赋假设是 [[Nerd]] [[Peer-Supported Learning|同伴文化]]的关键发动机之一，与 [[Zero-Sum Competition\|零和竞争]]和 [[Intellectual-Social Divide\|知性-社交二分]]共同构成 nerd 文化的因果网络([[Argument_Li_2012_Cambridge\|Li, 2012, pp.94–99]])：
 
 1. **低能力 + 努力 = 双重骚扰** 在 Bishop 研究中，那些被认为"能力低但仍然努力学习"的学生受到了最严重的同伴骚扰——因为他们被认为在"徒劳地改变不可改变的命运"
 2. **高能力 + 不努力 = 免于骚扰** 成绩来自高 IQ（被视为无意的、天生的）的学生很少受到制裁——"effortless perfection"（毫不费力的完美）在同伴中不被视为威胁

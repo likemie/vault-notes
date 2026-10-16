@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 18
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -25,6 +25,7 @@ tags:
   - inquiry-based-learning
   - formative-assessment
 related_concepts:
+  - "[[Individualised Instruction]]"
   - "[[Intelligent Tutoring Systems]]"
   - "[[Man-Computer Symbiosis]]"
   - "[[STEM Education]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-21
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Inq-Blotter
@@ -62,7 +63,7 @@ updated: 2026-10-16
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> 探究警报看板（Inq-Blotter）是由罗格斯大学（Rutgers University）贾妮斯·戈伯特（Janice D. Gobert）团队基于 [[Inq-ITS]] 平台深度研发的课堂教师端人工智能实时监控与决策预警系统。该工具通过将学生在虚拟科学探究微世界中的底层操作日志实时降维并转化为直观的红黄绿风险提示与介入建议，为科学教师在动态、嘈杂的探究课堂中提供了一双“算法慧眼”，使教师能够突破物理视野限制，实现精准、适时的个别化指导。（Dickler et al., 2021；Gobert et al., 2023；[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 9]]）
+> 探究警报看板（Inq-Blotter）是由罗格斯大学（Rutgers University）贾妮斯·戈伯特（Janice D. Gobert）团队基于 [[Inq-ITS]] 平台深度研发的课堂教师端人工智能实时监控与决策预警系统。该工具通过将学生在虚拟科学探究微世界中的底层操作日志实时降维并转化为直观的红黄绿风险提示与介入建议，为科学教师在动态、嘈杂的探究课堂中提供了一双“算法慧眼”，使教师能够突破物理视野限制，实现精准、适时的[[Individualised Instruction|个别化指导]]。（Dickler et al., 2021；Gobert et al., 2023；[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 9]]）
 
 > [!program-context] 项目背景
 > - **研发周期** 2018 年完成原型算法架构与人机交互界面设计，2020 年代全面整合进 Inq-[[Intelligent Tutoring Systems\|ITS]] 云生态并在全美多州中小学规模化应用。

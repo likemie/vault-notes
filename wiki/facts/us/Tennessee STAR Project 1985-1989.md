@@ -31,6 +31,7 @@ related_concepts:
   - "[[Evidence Standards]]"
   - "[[Variable]]"
   - "[[Attrition]]"
+  - "[[Individualised Instruction]]"
   - "[[Achievement and Aptitude Tests]]"
   - "[[Grade Retention]]"
   - "[[Epistemology]]"
@@ -38,7 +39,6 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Innovation Hub]]"
   - "[[Heterogeneity]]"
-  - "[[Individualised Instruction]]"
   - "[[Evidence-Based Education]]"
   - "[[Programme Fidelity vs Adaptation]]"
 related_theories: []
@@ -145,7 +145,7 @@ STAR 项目的评估不仅采集了干预期间的[[Academic Achievement|学业�
 
 > [!indicators]- 评估指标体系
 > - **资源投入指标** 师生比由常规大班的 1:22–26 显著降低至小班的 1:13–17，全州专项增聘 50 余名专任教师。
-> - **过程与依从性指标** 教师对后进学生的个别化指导频次、小组探究开展频率、课堂违纪处理所占教学时间的比例。
+> - **过程与依从性指标** 教师对后进学生的[[Individualised Instruction|个别化指导]]频次、小组探究开展频率、课堂违纪处理所占教学时间的比例。
 > - **认知与长效产出指标** 斯坦福早期学业[[Achievement and Aptitude Tests\|成就测验]]（SESAT/SAT）标准化得分、年级[[Grade Retention\|留级]]率、初中阶段违纪处分率、高中毕业率及大学入学考试选考率。
 
 > [!finding-cards] 核心实证结论

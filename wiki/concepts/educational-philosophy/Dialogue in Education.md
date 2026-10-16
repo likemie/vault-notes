@@ -8,10 +8,10 @@ aliases:
 summary: "教育哲学与教学法中的核心中介，通过师生与生生间平等的经验共享、批判性质询与共同探究，克服单向灌输并促进批判性思维与意识觉醒"
 type: concept
 domain: "educational-philosophy"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - field/educational-philosophy
   - field/critical-pedagogy
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Scaffolding]]"
   - "[[Humility]]"
+  - "[[Individualised Instruction]]"
   - "[[Socratic Dialogue]]"
   - "[[Operationalization]]"
   - "[[Reciprocal Peer Questioning]]"
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-07-25
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Dialogue in Education
@@ -98,7 +99,7 @@ updated: 2026-10-16
 在教学实操与实证研究中，教育对话根据**主导主体**、**组织规模**与**认知交互规则**细分为不同的具体技术：
 
 > [!taxonomy] 教育对话细分子技术分类架构
-> - **教师引导类结构化对话** 教师提供即时反馈与[[Scaffolding\|认知脚手架]]，包括教师全班研讨、教师小组讨论、针对性启发提问与个别化指导。
+> - **教师引导类结构化对话** 教师提供即时反馈与[[Scaffolding\|认知脚手架]]，包括教师全班研讨、教师小组讨论、针对性启发提问与[[Individualised Instruction|个别化指导]]。
 > - **生生对等与规则约束对话** 依托明确规则或任务脚手架开展同伴互动，包括对等同伴提问、正式辩论、汇报后答辩研讨与自主合作小组。
 > - **独特哲学与批判对话流派** 具备系统理论根基与特定质询流程的专门对话形态，包括[[Socratic Dialogue\|苏格拉底对话]]、问题化批判对话与文化养育对话。
 

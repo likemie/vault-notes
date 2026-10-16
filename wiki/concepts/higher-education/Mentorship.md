@@ -7,10 +7,10 @@ aliases:
 summary: "更有经验者通过示范、辅导、支架与支持促进新手专业、认知与职业发展的过程，在科学精英传承、高阶思维教学干预以及产学协同工程人才培育与技术情境化中发挥核心催化作用。"
 type: concept
 domain: "higher-education"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - theme/higher-education
   - theme/medical-education
@@ -23,6 +23,7 @@ related_concepts:
   - "[[Critical Thinking]]"
   - "[[Cognitive Apprenticeship]]"
   - "[[Scaffolding]]"
+  - "[[Individualised Instruction]]"
   - "[[Peer Mentoring]]"
   - "[[Apprenticeship]]"
   - "[[Wicked Problem]]"
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-07
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Mentorship
@@ -72,7 +73,7 @@ updated: 2026-10-16
 
 > [!concept-lens] 概念透镜
 > - **多重视角** 在**高等教育与科学计量学**中，导师制指向实验室师承网络、科研训练与学术资本积累；在**教学干预与学习科学**中，导师制指向以[[Cognitive Apprenticeship\|认知学徒制]]为核心的即时反馈与反思[[Scaffolding\|脚手架]]；在**产学协同与工程劳动力培育**中，导师制表现为企业资深工业界专家直接嵌入高校课题组的产业导师制（Industrial Mentorship），发挥技术应用情境化与工程人才直聘通道功能。[[Argument_Logar_2014_Minerva|(Logar et al., 2014, pp. 250–251)]]
-> - **用途** 用于解释科学精英（如诺贝尔奖得主）的累积优势与师承谱系，评估个别化指导在复杂探究教学中的增益放大功能，以及解析高技术产业联合体如何通过工业导师制维系长期高层次工程人才蓄水池。
+> - **用途** 用于解释科学精英（如诺贝尔奖得主）的累积优势与师承谱系，评估[[Individualised Instruction|个别化指导]]在复杂探究教学中的增益放大功能，以及解析高技术产业联合体如何通过工业导师制维系长期高层次工程人才蓄水池。
 > - **边界** 导师制超越单纯行政管理或题目答疑，必须包含深层的认知示范、价值引领、学术独立性培养或产业实践输入。
 
 > [!citation-card]- 关键表述
@@ -158,7 +159,7 @@ updated: 2026-10-16
 ### 命题一　导师制在认知干预中作为“催化剂”放大其他探究策略的效能
 
 > [!concept-lens] 认知与[[Scaffolding\|教学脚手架]]机制
-> 探讨导师个别化指导在独立实施与复合教学情境中的效应差异。
+> 探讨导师[[Individualised Instruction|个别化指导]]在独立实施与复合教学情境中的效应差异。
 
 > [!claim] Abrami, P. C., et al.
 > **导师制的催化功能（Catalytic Capacity）** [[Meta-analysis\|元分析]]证据显示，当导师制孤立实施时，其促进[[Critical Thinking\|批判性思维]]的效果相对有限（$g+ = 0.13, k=5$）；然而，当导师指导与[[Authentic Instruction\|真实性教学]]（应用型解题）及深度对话（师生/同伴研讨）相结合时，干预效应跃升至峰值（$g+ = 0.57, k=19$），且显著优于仅有真实情境与对话的双重组合（$z = 1.98, p = .024$）。这表明导师的核心功能在于充当认知脚手架与催化剂，在学生面对复杂真实任务并展开论辩时提供及时的专家示范与瓶颈点拨。[[Argument_Abrami_2015_RER\|(Abrami et al., 2015, pp. 294–295, 298)]]

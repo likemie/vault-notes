@@ -20,6 +20,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Heterogeneity]]"
   - "[[Return on Investment]]"
+  - "[[Individualised Instruction]]"
   - "[[Business as Usual]]"
   - "[[Classroom Management]]"
   - "[[Programme Fidelity vs Adaptation]]"
@@ -40,7 +41,6 @@ related_concepts:
   - "[[Public Value]]"
   - "[[Material Fallacies]]"
   - "[[Dependent Variable]]"
-  - "[[Individualised Instruction]]"
   - "[[Effective Teaching]]"
   - "[[Primary and Secondary Documents]]"
   - "[[Paradigm]]"
@@ -140,7 +140,7 @@ updated: 2026-10-17
 
 > [!feature] 班级规模争论的三大核心基柱
 > - **测量方式与口径精细度** 评估班级人数是基于宏观注册名册、平均日常出勤，还是[[Classroom Observation|课堂观察]]当天的实际分性别在场人数。
-> - **微观课堂教与学生态** 人数变化如何重塑教师注意力分配、个别化指导、任务在轨率及课堂纪律压力。
+> - **微观课堂教与学生态** 人数变化如何重塑教师注意力分配、[[Individualised Instruction|个别化指导]]、任务在轨率及课堂纪律压力。
 > - **证据外推与物质约束边界** 实验室或局部优质实验（如 STAR 项目）结论在师资紧缺或极端大班额（60–100人）环境中的有效性限度。
 
 ### 测量方式与微观观察记录

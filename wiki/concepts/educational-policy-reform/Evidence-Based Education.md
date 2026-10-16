@@ -9,7 +9,7 @@ aliases:
 summary: "主张教育实践与政策决策应建立在严格的因果识别研究证据之上的政策与实践运动，核心争议在于实验因果识别、知识可迁移性、专业判断与地方语境之间如何平衡"
 type: concept
 domain: "educational-policy-reform"
-related_count: 153
+related_count: 154
 related_level: 15
 related_stars: "💎💎💎💎💎"
 related_color: "#ddd6fe"
@@ -68,6 +68,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[Class Size]]"
   - "[[Social Science as Legitimation Alibi]]"
+  - "[[Individualised Instruction]]"
   - "[[Positivism]]"
   - "[[Allgemeine Pädagogik]]"
   - "[[Academic Freedom]]"
@@ -183,7 +184,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-01'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Evidence-Based Education
@@ -464,7 +465,7 @@ Fitz-Gibbon 同时指出，Anderson and Biddle（1991）已观察到政策制定
 > > [!axis] 循证排名的制度化陷阱：微观复杂性剥离与科层数字问责异化
 > > 证据本位教育若蜕变为基于单一效应量联赛排名的机械治理，极易使决策者产生“教育技术即时见效”的乌托邦幻觉，进而忽视结构性资源支持与教师专业尊严。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 240–241)]]
 > >
-> > - **剥离质性脉络的技术官僚幻想** 将学校教学简化为效应量大小的绝对排序，诱导管理官僚依据“小[[Class Size|班额]]效应仅 zsh.21$”等脱离情境的数据作为缩减教育经费、扩充班额的[[Social Science as Legitimation Alibi|合法化借口]]，却掩盖了复杂课堂中关系建构与个别化指导所必需的质性条件。
+> > - **剥离质性脉络的技术官僚幻想** 将学校教学简化为效应量大小的绝对排序，诱导管理官僚依据“小[[Class Size|班额]]效应仅 zsh.21$”等脱离情境的数据作为缩减教育经费、扩充班额的[[Social Science as Legitimation Alibi|合法化借口]]，却掩盖了复杂课堂中关系建构与[[Individualised Instruction|个别化指导]]所必需的质性条件。
 > > - **科层数字生产与专业流失危机** 强制推广循证工具包与标准化量规（如澳大利亚 QTM 教学质量模型），易将教师异化为持续生产合规性数据的行政工具，加剧职业倦怠与教师离职倾向，在剥夺教师自决权的同时反向动摇教育系统的质量根基。
 >
 > > [!axis] 教师教育多范式治理与大学学术自治生态抵制
