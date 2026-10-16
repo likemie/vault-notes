@@ -6,7 +6,7 @@ aliases:
 summary: "要求将研究场所的具体特征纳入研究考量而非假设政策以预定意图的方式被实施的效度类型，更亲近质性研究的厚描述，与外部效度交叉，在实验控制与真实世界适用性之间构成核心张力。"
 type: concept
 domain: "research-methodology"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -43,8 +43,6 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Accounts]]"
   - "[[Correlational Research]]"
-  - "[[Experimental Research]]"
-  - "[[Observation Method]]"
 related_instruments: []
 related_persons:
   - "[[Elliott Eisner]]"
@@ -219,5 +217,5 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 跨章节系统界定生态效度的概念内涵：在效度分类学中辨析其与[[Internal Validity|内部效度]]、[[External Validity|外部效度]]的关系及[[Positivism|实证主义]][[Variable|变量]]剥离的局限（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Ch. 10]]）；在[[Experimental Research|实验研究]]中剖析受控实验对教室真实情境的歪曲及[[Internet-Based Experiments|网络实验]]的权衡（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Ch. 16]]）；在[[Observation Method|观察法]]中确立质性现场观察维护生态效度与捕捉情境敏感性的独特优势（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Ch. 23]]）。
+> - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 跨章节界定生态效度内涵：辨析其与内部及[[External Validity|外部效度]]的关系与[[Variable|变量]]剥离局限（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Ch. 10]]），剖析受控实验对教室生态的歪曲（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Ch. 16]]），并确立质性现场观察的独特优势（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Ch. 23]]）。
 > - [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]] — 引入科学哲学家 Phillips (2014) 与课程学者 Eisner (1983) 理论，批判 [[Visible Learning]] 等[[Meta-meta-analysis|二阶元分析]]试图以硬科学实验室控制手段提炼[[Effective Teaching|有效教学]]清单的做法彻底抹杀了教育的生态效度。
