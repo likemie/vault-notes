@@ -30804,17 +30804,6 @@
     ]
   },
   {
-    "title": "Cognition Education",
-    "type": "fact",
-    "path": "wiki/facts/new-zealand/Cognition Education.md",
-    "aliases": [
-      "Cognition Education Group",
-      "Cognition Education Trust",
-      "Multi Serve",
-      "Multi Serve Education Trust"
-    ]
-  },
-  {
     "title": "Manaiakalani Education Trust",
     "type": "fact",
     "path": "wiki/facts/new-zealand/Manaiakalani Education Trust.md",
@@ -30858,6 +30847,20 @@
       "可见的学习品牌化与全球影响",
       "Visible Learningplus",
       "VLplus"
+    ]
+  },
+  {
+    "title": "Cognition Education",
+    "type": "fact",
+    "path": "wiki/facts/new-zealand/Cognition Education.md",
+    "aliases": [
+      "Cognition Education Group",
+      "Cognition Education Trust",
+      "Multi Serve",
+      "Multi Serve Education Trust",
+      "认知教育",
+      "认知教育集团",
+      "认知教育信托"
     ]
   },
   {

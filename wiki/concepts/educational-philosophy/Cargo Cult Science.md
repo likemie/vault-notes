@@ -6,7 +6,7 @@ aliases:
 summary: "Richard Feynman 提出的科学哲学概念，指具备数据、图表等严密外在形式却缺失认识论诚信与自我证伪诚意的伪科学实践；在教育领域表现为以不透明的量化指标和商业包装实施认知威慑与教条化控制。"
 type: concept
 domain: "educational-philosophy"
-related_count: 38
+related_count: 39
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -56,6 +56,7 @@ related_persons:
   - "[[Karl Popper]]"
   - "[[John Hattie]]"
 related_facts:
+  - "[[Cognition Education]]"
   - "[[Visible Learning Branding and Global Influences]]"
 related_arguments:
   - "[[Argument_Johnson_2023_CE]]"
@@ -210,7 +211,7 @@ updated: 2026-10-16
 > | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023, pp. 25–26)]] | 《可见的学习》附录 A 中 5 项[[Homework\|家庭作业]][[Meta-analysis\|元分析]]（涵盖 161 项研究与超 10 万名学生） | 数学逆向还原与算法核查 | 综合效应量计算公式与加权方式 | 5 项元分析报告的 Cohen's $d$ 分别为 0.36、0.21、0.39、0.21、0.28；直接相加除以 5 等于报告的 $d=0.29$ | 包含 15 项研究的文献与 77 项研究的文献被赋予相同权重；正文完全隐去该计算公式 | 实证确证其核心效应量依赖未加权的简单算术平均，验证了隐匿算法、制造虚假精确的货物崇拜特征 |
 > | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023, pp. 31–32)]] | 《可见的学习》全书文本（涵盖全部章节与索引） | 词频统计与文本分析 | [[Class Size\|班级规模]]（Class Size）与自我报告成绩提及频次对比 | 班级规模提及 95 次（分布于 16 个章节）；全书排名第一的影响因素自我报告成绩仅提及 6 次 | 频次反差高达近 16 倍（1600%） | 实证揭示其对班级规模无用论的高频倾斜服务于政府财政紧缩意图，而非基于客观统计均衡性 |
 > | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023, p. 32)]] | 格拉斯与史密斯（Glass & Smith, 1979）班级规模经典元分析 | [[Primary and Secondary Documents\|原始文献]]核对与数据溯源 | 班额与[[Academic Achievement\|学业成绩]]收益曲线提取 | 原文证实 40 人大班与 1 人个别辅导存在超过 30 个百分位的成绩差距；Hattie 在书中提取为 $d=0.09$ | 原文正文中根本未报告过 $d=0.09$ 数值；疑为截取曲线平缓尾部并混入大学 100 人大课数据 | 证实其为得出小班教学无效的预设立场，对经典实证文献实施断章取义的数据提取 |
-> | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023, p. 31)]]（[[Argument_ONeill_2016_Report\|O'Neill et al., 2016]]） | 新西兰官方财务档案与认知教育公司第三方劳务报酬明细（2010–2015） | 机构档案与财务[[Audit Trail\|审计追踪]] | 商业机构向学术作者支付的报酬金额 | 2011 年 1 万新西兰元；2012 年 9.3 万；2013 年 27.2 万；2014 年 27.1 万；2015 年 22.3 万；累计超 86.9 万新西兰元 | 2010 年为保密协议未披露金额 | 实证披露学者兼任商业机构董事并抽取大额版税的政商利益旋转门网络 |
+> | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023, p. 31)]]（[[Argument_ONeill_2016_Report\|O'Neill et al., 2016]]） | 新西兰官方财务档案与[[Cognition Education\|认知教育]]公司第三方劳务报酬明细（2010–2015） | 机构档案与财务[[Audit Trail\|审计追踪]] | 商业机构向学术作者支付的报酬金额 | 2011 年 1 万新西兰元；2012 年 9.3 万；2013 年 27.2 万；2014 年 27.1 万；2015 年 22.3 万；累计超 86.9 万新西兰元 | 2010 年为保密协议未披露金额 | 实证披露学者兼任商业机构董事并抽取大额版税的政商利益旋转门网络 |
 > | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 《可见的学习》全库 301 个影响因素（检索精读 1,369 篇一级元分析） | [[Preregistration\|预注册]]全量[[Metascience\|元科学]]审计与独立复现检验 | [[PICO Framework\|PICO]] 合规率；数据复现成功率；效应量缺失率 | 仅 **19%** 符合 PICO 纳入标准；仅 **2 项**（<1%）成功复现提取；**44%** 报告效应量在原文中完全不存在 | — | 全量元科学审计证实该体系底层数据链全面瓦解，印证了货物崇拜科学缺乏严谨实证支撑的定性 |
 
 ---

@@ -236,7 +236,7 @@ updated: 2026-10-16
 ## 应用案例
 
 > [!case] 新西兰：明日学校改制至考文出版社商业专营
-> 新西兰 1989 年推行明日学校改制，将奥克兰教育局后勤行政部门私有化转变为认知教育公司（[[Cognition Education]]）。[[John Hattie|哈蒂]]在担任该机构董事期间，将《[[Visible Learning|可见的学习]]》商业推广权独家授权成立 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 品牌，按营收比例抽取高额版税；2018 年国际出版巨头世哲旗下考文出版社以估算 5000 万美元的年营业规模全资收购该品牌，完成了从公立服务改制到跨国资本专营的典型 GERM 变现循环（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 30–31]]）。
+> 新西兰 1989 年推行明日学校改制，将奥克兰教育局后勤行政部门私有化转变为[[Cognition Education|认知教育]]公司（[[Cognition Education]]）。[[John Hattie|哈蒂]]在担任该机构董事期间，将《[[Visible Learning|可见的学习]]》商业推广权独家授权成立 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 品牌，按营收比例抽取高额版税；2018 年国际出版巨头世哲旗下考文出版社以估算 5000 万美元的年营业规模全资收购该品牌，完成了从公立服务改制到跨国资本专营的典型 GERM 变现循环（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 30–31]]）。
 
 > [!case] 澳大利亚维多利亚州：[[Victorian HITS and Literacy Toolkit|HITS]] 教学策略与[[Performativity|表演性危机]]
 > 维多利亚州教育部强制推行基于 Visible Learning 提炼的高影响力教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]），要求公立学校教师上课前必须在白板上规范书写当堂[[Learning Intentions|学习意图]]与[[Success Criteria|成功标准]]。教学常规检查将板书打卡作为考核指标，导致一线教师陷入形式主义合规，丧失了应对复杂学情的专业裁量权（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 29–30]]）。

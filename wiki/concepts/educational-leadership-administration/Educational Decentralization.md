@@ -172,7 +172,7 @@ updated: 2026-10-16
 > 探讨新自由主义政策如何借分权（Devolution）之名行私有化之实，将公共教育管理系统转化为商业外包的寻利[[Champ|场域]]。
 
 > [!claim] [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]]; [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]]
-> **新西兰明日学校放权与公共服务企业化** [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]]指出，新西兰 1989 年推行的明日学校改制是一场标志性的新自由主义权力下放（Devolution）试验。政府以放权赋能为名解散了原有的区域公立教育局，将其原先免费向学校提供的公共行政、人事核算和校车交通职能拆分并改组为自负盈亏的企业化教育服务中心（ESCs），如 Multiserve（后更名为 认知教育公司）。放权并未带来真正的民主自治，而是迫使基层学校在半开放市场上自购服务，为私营商业资本进驻公立学校打开了大门（p. 30; citing O'Neill et al., 2016）。
+> **新西兰明日学校放权与公共服务企业化** [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]]指出，新西兰 1989 年推行的明日学校改制是一场标志性的新自由主义权力下放（Devolution）试验。政府以放权赋能为名解散了原有的区域公立教育局，将其原先免费向学校提供的公共行政、人事核算和校车交通职能拆分并改组为自负盈亏的企业化教育服务中心（ESCs），如 Multiserve（后更名为 [[Cognition Education|认知教育]]公司）。放权并未带来真正的民主自治，而是迫使基层学校在半开放市场上自购服务，为私营商业资本进驻公立学校打开了大门（p. 30; citing O'Neill et al., 2016）。
 
 > [!claim] [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]]
 > **放权衍生的知识变现网络与公共资金转移** [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]]进一步揭示，公共教育系统放权改制催生了学术专家与商业资本结盟的旋转门机制。学者[[John Hattie|哈蒂]]身兼公立大学教授与改制后商业公司董事的双重身份，将其学术成果《[[Visible Learning|可见的学习]]》商业化并独家授权给该公司，获取高达 86.9 万新西兰元的个人版税；最终该商业专营品牌被跨国出版巨头考文出版社以 5000 万美元的年营业额全资收购。放权改革最终演变为跨国商业资本吸纳公共教育预算的牟利通道（pp. 30–31）。
@@ -253,7 +253,7 @@ updated: 2026-10-16
 ## 关键引用
 
 > [!citation-card] 新西兰明日学校权力下放与公共服务企业化改制
-> 20 世纪 80 年代初，新西兰发生了一场大规模的新自由主义教育改革试验。1989 年，当地教育系统经历了一场‘权力下放’（Devolution），将公立教育委员会的某些职能转变为名为教育服务中心（ESCs）的私营公司。教育服务中心在半开放的市场体系中竞争，向学校提供其原有的公共服务。原奥克兰学校委员会的交通和薪酬部门变成了一家名为 Multiserve 的教育服务中心，后来更名为认知教育公司。在利润动机的驱动下，教育服务中心多元化拓展其业务……[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 30)]]
+> 20 世纪 80 年代初，新西兰发生了一场大规模的新自由主义教育改革试验。1989 年，当地教育系统经历了一场‘权力下放’（Devolution），将公立教育委员会的某些职能转变为名为教育服务中心（ESCs）的私营公司。教育服务中心在半开放的市场体系中竞争，向学校提供其原有的公共服务。原奥克兰学校委员会的交通和薪酬部门变成了一家名为 Multiserve 的教育服务中心，后来更名为[[Cognition Education|认知教育]]公司。在利润动机的驱动下，教育服务中心多元化拓展其业务……[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 30)]]
 >
 > *“A great experiment in neoliberal educational reform occurred in New Zealand beginning in the early 1980s. In 1989, the education system there underwent a ‘devolution,’ which changed aspects of its public educational boards into private companies called education service centers (ESCs). ESCs competed in a semi-open market system to provide their former (civil) services to schools. The transport and payroll divisions of the former Auckland school board became an ESC called Multiserve, later renamed [[Cognition Education]]. Motivated by profit, ESCs diversified their offerings...”*
 
@@ -295,7 +295,7 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]] — 系统解构新西兰 1989 年明日学校权力下放（Devolution）如何将公立教育局拆解为自负盈亏的商业服务中心，揭示分权作为私有化外包跳板的深层机制（pp. 30–31）。
-> - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 实证调查新西兰明日学校改制后认知教育公司的商业运作，揭示学者与跨国出版资本借分权改制牟利的制度网络。
+> - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 实证调查新西兰明日学校改制后[[Cognition Education|认知教育]]公司的商业运作，揭示学者与跨国出版资本借分权改制牟利的制度网络。
 > - [[Argument_Garcia_Garrido_2009_SpainEU|García Garrido (2009)]] — 比较分析英、美、德、法、意、比与北欧的权力配置演进，系统揭示西班牙由极度集权激进跳向 17 个自治区所诱发的行政肥胖症与国家体系解体危机。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 剖析国际组织如何将分权化建构为[[Global Educational Discourse|全球教育话语]]首要支柱，实证追踪其在阿根廷与巴西诱发的课程抄袭与行政瘫痪异化。
 

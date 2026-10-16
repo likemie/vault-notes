@@ -12,7 +12,7 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 29
+fact_related_count: 30
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -58,6 +58,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[Education Endowment Foundation]]"
+  - "[[Cognition Education]]"
   - "[[Institute of Education Sciences]]"
   - "[[Evidence for Learning]]"
 related_arguments:
@@ -140,7 +141,7 @@ updated: 2026-10-16
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **方法路径** 极大提升了非认知教育干预试验的测量严谨性，将[[Construct Validity\|构念效度]]与测量[[Reliability\|信度]]审查制度化嵌入教育实证研究的设计阶段。
+> - **方法路径** 极大提升了非[[Cognition Education|认知教育]]干预试验的测量严谨性，将[[Construct Validity\|构念效度]]与测量[[Reliability\|信度]]审查制度化嵌入教育实证研究的设计阶段。
 > - **政策与机构治理** 推动 [[Education Endowment Foundation\|EEF]] 形成“认知学业测验”与“非认知心理量表”双轮驱动的标准化测量治理体系。
 > - **国际推广** 为美国 [[Institute of Education Sciences\|IES]]、澳大利亚 [[Evidence for Learning\|E4L]] 等国际证据机构在制定[[Social-Emotional Learning\|社会情感学习]]（SEL）与心理韧性评估标准时提供了可直接复用的系统性文献与分级指标。
 

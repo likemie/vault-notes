@@ -33,10 +33,10 @@ Total entries: **800**
 
 | Type | Entries |
 |---|---:|
-| Organization | 219 |
+| Organization | 220 |
 | Policy | 216 |
 | Program | 210 |
-| Event | 150 |
+| Event | 149 |
 | Institution | 3 |
 | Document | 1 |
 | System | 1 |
@@ -670,13 +670,15 @@ Total entries: **800**
 
 ## New Zealand
 
-> [!index-list]- Event (6)
-> - [[Cognition Education]] — 1989 年新西兰学校改革催生的教育服务组织 从 Multi Serve 转型为 Cognition Education 通过国际咨询与 Visible Learningplus 扩张 并长期处于慈善使命与营利结构张力之中
+> [!index-list]- Event (5)
 > - [[Manaiakalani Education Trust]] — 2011 年成立的 Tamaki 社区数字学习慈善信托，从 EHSAS/ICT 集群起步，获 NEXT Foundation 资助全国规模化推广 Outreach 项目
 > - [[Partnership Schools Kura Hourua]] — 新西兰版特许学校：由营利或非营利组织根据教育部商业合同运营的公费私立学校，2011 年由国家党-ACT 党协议推动
 > - [[Teach First New Zealand]] — 2011 年启动的高成就毕业生就业型初级教师教育慈善信托，7% 接受率，与 Teach for All 全球网络和奥克兰大学合作运营
 > - [[Treasury Briefing on Student-Teacher Ratios]] — 2011 年 NZ Treasury 援引 Hattie VL 证据建议增加生师比以释放资金，O’Neill 以此为案例揭示教育研究证据在政策论述中的实质谬误
 > - [[Visible Learning Branding and Global Influences]] — Visible Learning 从新西兰学术成果扩展为跨国品牌与培训产业，经历 VLplus 商业化、Corwin 收购和多国政策采纳，并伴随持续制度争议。
+
+> [!index-list]- Organization (1)
+> - [[Cognition Education]] — 1989 年新西兰明日学校改革催生的教育服务机构 历经从 Multi Serve 准市场承包商到跨国教育管理组织的演进 后通过专营 Visible Learningplus 知识品牌与全球授权实现资本扩张 并因双层免税信托架构与政商学术旋转门长期处于公益合法性与商业寻租的激烈争议之中
 
 > [!index-list]- Policy (7)
 > - [[Contestable School Support Services]] — 教育部将原先由大学教育学院提供的学校支持服务合同转为竞争性招标，CORE Education 显著受益，收入从 USD 7.8M 增至 USD 22.7M

@@ -6,7 +6,7 @@ aliases:
 summary: "班级学生人数这一关键教育组织变量，其对教学互动与学业成果的影响不仅取决于人数变化本身，更取决于教师质量、物质资源、教学方式调整以及跨情境测量精度的系统约束。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 55
+related_count: 61
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -28,6 +28,10 @@ related_concepts:
   - "[[Interaction Effect]]"
   - "[[Feedback]]"
   - "[[Necessary and Sufficient Conditions]]"
+  - "[[Visible Learning]]"
+  - "[[Value Neutrality]]"
+  - "[[Global Education Reform Movement]]"
+  - "[[Social Science as Legitimation Alibi]]"
   - "[[Research Utilization]]"
   - "[[Unit of Analysis]]"
   - "[[Innovation Hub]]"
@@ -37,6 +41,7 @@ related_concepts:
   - "[[Individualised Instruction]]"
   - "[[Effective Teaching]]"
   - "[[Going Native]]"
+  - "[[Primary and Secondary Documents]]"
   - "[[Paradigm]]"
 related_theories: []
 related_methods:
@@ -46,6 +51,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Cohort Study]]"
+  - "[[Experimental Research]]"
   - "[[Statistical Significance]]"
   - "[[Random Assignment]]"
   - "[[Ethnography]]"
@@ -75,8 +81,8 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
   - "[[Argument_Pellegrini_2021_ECNUROE]]"
   - "[[Argument_Garcia_Garrido_2009_SpainEU]]"
-  - "[[Argument_Hattie_2010_NZJES]]"
   - "[[Argument_Johnson_2023_CE]]"
+  - "[[Argument_Hattie_2010_NZJES]]"
   - "[[Argument_Cowen_2015_CHESS]]"
 confidence: high
 status: completed
@@ -223,9 +229,22 @@ updated: 2026-10-16
 
 ---
 
+### 命题四　班级规模无效论被异化为新自由主义财政紧缩与拒绝增编的实证护盾
+
+> [!concept-lens] 政治经济学动因与财政卸责
+> 探讨量化元分析结论如何脱离学理语境，被新自由主义政府用作拒绝改善生均拨款、压缩师资编制与推卸公共责任的实证护盾。
+
+> [!claim] [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]]
+> **词频统计反差揭露政策偏好** [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]]对《[[Visible Learning|可见的学习]]》全书进行词频统计显示，班级规模（Class Size）一词被提及高达 95 次，遍布 16 个章节，反反复复向读者灌输缩减班额无用的观念；其出现频次比全书效应量排名第一的自我报告成绩（仅提 6 次）高出整整 16 倍（1600%）。这一异常密集的单向轰炸表明，该书并非[[Value Neutrality|价值中立]]地呈现数据，而是深嵌于[[Global Education Reform Movement|全球教育改革运动]]（[[Global Education Reform Movement|GERM]]）的新自由主义政治经济学——通过将班额效应量压低至 $d=0.21$（排第 108 位），为政府削减教育预算、抵制教师工会关于班额上限的诉求提供了强大的[[Social Science as Legitimation Alibi|科学借口]]（pp. 31–32）。
+
+> [!claim] Glass and Smith (1979); [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]]
+> **断章取义剪裁经典文献与忽略配套危机** [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]]进一步指出，哈蒂宣称从格拉斯与史密斯（1979）的经典元分析中提取出 $d=0.09$ 的极低效应量，但 Glass & Smith 在原文中根本未曾报告过该数值；相反，原著证实控制良好的[[Experimental Research|实验研究]]中，班级从 40 人缩减至 1 人时学业成绩提升超过 30 个百分位点。哈蒂仅截取了曲线最右端平缓局部，并混入 100 人的大学阶梯讲座数据来指导中小学；与此同时，将 1996 年加利福尼亚州州长为了与工会斗争而仓促推行缩班立法（导致临时板房与未经培训生手充斥课堂）的失败归咎为班额本身无效，完全掩盖了缩班需要师资培训与校舍配套的制度教训（pp. 32–33）。
+
+---
+
 ### 命题总览
 
-综合微观互动、宏观计量与国际比较研究，班级规模的理论脉络由三项核心命题构成。
+综合微观互动、宏观计量与国际比较研究，班级规模的理论脉络由四项核心命题构成。
 
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 / 来源 |
@@ -233,6 +252,7 @@ updated: 2026-10-16
 > | **方法控制调节** | 班级规模与学业成就呈稳定负相关，实验控制越充分则小班优势越陡峭 | 大规模元分析设计、测量模型校准 | Glass and Smith (1978); [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Cohen et al. (2011)]] |
 > | **成本效益约束** | 单纯缩班财政成本极其昂贵，边际效益常逊色于成人定向辅导与教师辅导方案 | 教育公共财政决策、干预方案横向比选 | [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] |
 > | **教学与体制交互** | 小班红利严格取决于教学方式的实质转变与课程学制的有机配合 | 教师专业发展、课程体系配套改革 | Murnane and Levy (1996); [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; [[Argument_Garcia_Garrido_2009_SpainEU\|García Garrido (2009)]] |
+> | **财政紧缩护盾** | 班级规模无效论被政治建构为实证护盾，掩盖 16 倍词频偏差并服务于财政紧缩与拒绝增编 | 批判性教育政策分析、新自由主义紧缩批判 | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]]; [[Argument_ONeill_2012_NZJES\|O'Neill (2012)]] |
 
 ---
 
@@ -285,6 +305,7 @@ updated: 2026-10-16
 > | 同上 | 伦敦班级规模[[Cohort Study\|追踪研究]] | 读写与算术表现 | 199 所小学 / 330 班 / 7,142 名学生 | 未标准化效应 | Reception 阶段显著，Year 1 后衰减 | 自然主义追踪；揭示班级规模对低成就儿童的阶梯保护 |
 > | [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] | 法国弱势学校班额减半改革（24 人降至 12 人） | 标准化法语与数学统考成绩 | 优先教育网（REP+）一、二年级群体 | $d \approx 0.08$（阅读） | 阅读微弱显著，数学未达统计显著 | 全国性政策推广；合格师资与校舍制约稀释政策效能 |
 > | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]]; Molina et al. (2018) | 控制班级规模、教师学科测试与学生家庭背景后的微观教学实践模型 | 学生跨期标准化测试成绩增益 | 巴基斯坦旁遮普省超 1,000 间小学课堂 | $\beta = 0.08\text{–}0.12$ SD | 极显著（$p < .01$） | 计量回归控制班级规模后，教师微观实践仍具稳健预测力 |
+> | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] | 《[[Visible Learning\|可见的学习]]》全书文本词频核查与 Glass and Smith (1979) 曲线复验 | 词频统计与效应量提取核查 | 核心词频对比与 40 人至 1 人真实实验增益 | 班级规模全书提及 95 次（vs 第一名自我报告成绩仅 6 次）；实验证实 40 人至 1 人跨越逾 30 个百分位点 | $d=0.09$ 纯属片面截取 | 揭示了元分析结论被剪裁为新自由主义财政紧缩实证护盾的制度证据 |
 
 ---
 
@@ -298,7 +319,7 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] 欧美代表性政策案例
 > - **田纳西州 STAR 项目（[[Tennessee STAR Project 1985-1989]]）** 严格[[Random Assignment|随机分配]]学生与教师至小班与大班，小班学生到二年级末累计领先约 3 个月学力，证实低年级小班对弱势群体的扶持效应，但威廉指出其实验条件的特殊性制约了向常规师资不足学校的直接外推。[[Argument_Wiliam_2019_ERE|(Wiliam, 2019, pp. 5–7)]]
-> - **加州 1996 年全州缩班工程（[[California Class Size Reduction 1996]]）** 试图将 STAR 模式快速复制至全州，导致全州紧急招募数万名未获充分认证的代课教师，新增师资质量滑坡重创弱势学区，导致整体成效被完全对冲，成为政策保真度与外部生态脱节的反面教材。[[Argument_Cowen_2015_CHESS|(Cowen et al., 2015, pp. 17–18)]]; [[Argument_Wiliam_2019_ERE|(Wiliam, 2019, p. 7)]]
+> - **加州 1996 年全州缩班工程（[[California Class Size Reduction 1996]]）** 试图将 STAR 模式快速复制至全州。[[Argument_Johnson_2023_CE|Johnson and Janzen (2023, p. 33)]] 考证指出，该改革实质是加州州长为了与教师工会政治斗争而仓促立法的产物，导致全州紧急招募数万名未获充分认证的代课教师，大量学生被安置在临时板房上课，师资与设施配套断裂导致预期效果彻底归零，成为政策外推忽视系统支持条件的反面教材。[[Argument_Cowen_2015_CHESS|(Cowen et al., 2015, pp. 17–18)]]; [[Argument_Wiliam_2019_ERE|(Wiliam, 2019, p. 7)]]; [[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 33)]]
 > - **法国优先教育区缩班改革（[[French Class Size Reduction]]）** 针对重点扶困小学低段推行 12 人超小班，因伴随巨额财政支出且数学增益微弱，成为欧洲循证决策中权衡高昂缩班成本与定向课后辅导替代方案的典型案例。[[Argument_Pellegrini_2021_ECNUROE|(Pellegrini & Vivanet, 2021, pp. 27–28)]]
 
 ### 新西兰与西班牙
@@ -319,11 +340,21 @@ updated: 2026-10-16
 
 ---
 
+## 关键引用
+
+> [!citation-card] 班级规模在《[[Visible Learning|可见的学习]]》中的异常词频与财政紧缩功能
+> 考虑到新自由主义的议程，考察[[John Hattie|哈蒂]]对班级规模效应的处理极具启发性。从历史上看，资金削减与紧缩政策推高了班级规模，而教师及其工会则游说设定班级规模上限。哈蒂在《可见的学习》中试图终结这场争论……通过进行词频分析，我们发现‘班级规模’在全书中被提及多达 95 次之多。这比排在第一位的影响因素‘学生自我报告成绩’（仅被提及 6 次）高出了近 16 倍。哈蒂将班级规模置于第 108 位（$d=0.21$），为财政部门拒绝增加生均经费、拒绝扩招师资提供了强大的挡箭牌。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 31–32)]]
+>
+> *“With the neoliberal agenda in mind, it is instructive to consider Hattie’s (2009) treatment of the ‘class size’ effect. Historically, funding cuts and austerity policies drive class sizes up while teachers and their unions lobby for class size limits. Hattie attempts to close that debate in Visible Learning... Performing a word frequency analysis, we find ‘class size’ is mentioned an outsized ninety-five times in the book. ‘Class size’ then, is mentioned nearly sixteen times more often than the top ranked influence... It provides a powerful shield for fiscal departments resisting teacher recruitment and per-student funding increases.”*
+
+---
+
 ## 相关研究
 
 本 vault 中围绕班级规模展开的方法学批判、政策实证与跨国观察文献索引如下。
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]] — 通过词频统计（95 次提及）与格拉斯[[Primary and Secondary Documents|原始文献]]核查，系统揭露《[[Visible Learning|可见的学习]]》如何将班级规模效应矮化为新自由主义财政紧缩的实证挡箭牌（pp. 31–33）。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 针对[[John Hattie|哈蒂]][[Meta-analysis|元分析]]平均值视角的系统批判，系统梳理 STAR、伦敦研究与德州 15 校案例中班级规模与教学法交互的实证证据。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al. (2011, Ch. 17)]] — 详尽解析 Glass & Smith 开拓性元分析案例，阐释控制质量如何系统性重塑班级规模效应曲线的形态与斜率。
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 全球[[Classroom Observation|课堂观察]]手册 Teach，在发展中国家超 1,000 间小学计量模型中确立控制班级规模后微观实践的增值预测力，并指出 60–100 人超大班额对时间快照测量的挑战。
@@ -353,3 +384,5 @@ updated: 2026-10-16
 > | [[Kathryn Anderson-Levitt]] | 人物 | 理论阐发 | 跨国[[Ethnography\|民族志]]学者，揭示几内亚巨型班额与教材匮乏对西方儿童中心教学[[Paradigm\|范式]]的刚性阻隔。 |
 > | [[José Luis García Garrido]] | 人物 | 制度批判 | 揭露西班牙优越的班级规模与生师比指标与 33% 义务教育失败率脱节的制度性平庸。 |
 > | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] | 论证 | 实证来源 | 提供发展中国家大样本计量模型中控制班额后的教学效能证据及超大班额快照测量反思。 |
+> | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] | 论证 | 批判来源 | 提供 95 次高频词频统计与格拉斯曲线复验，揭示班额无效论作为财政护盾的政治经济学证据。 |
+
