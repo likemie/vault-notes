@@ -58,6 +58,7 @@ related_concepts:
   - "[[Mentorship]]"
   - "[[Epistemic Cognition]]"
   - "[[PICO Framework]]"
+  - "[[Cargo Cult Science]]"
 related_theories:
   - "[[Critical Realism]]"
   - "[[Third Generation Activity Theory]]"
@@ -125,6 +126,7 @@ related_arguments:
   - "[[Argument_Zhao_2025_JIntell]]"
   - "[[Argument_Cartiff_2021_JEP]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
+  - "[[Argument_Johnson_2023_CE]]"
 related_instruments:
   - "[[PRISMA]]"
   - "[[EEF Padlock Security Rating]]"
@@ -317,6 +319,7 @@ updated: 2026-10-16
 > 3. **统计独立性假设违背** 同一研究提供多重结局测量造成数据嵌套依赖，人为虚窄[[Standard Error\|标准误]]（Wolf, 1986; Cheung, 2014）。
 > 4. **平均效应掩盖[[Heterogeneity\|异质性]]与因果机制** 平均[[Effect Size\|效应量]]无法回答“干预对谁有效、在何种情境下有效”，可能掩盖高达 38% 的负向效应子群（Kluger & DeNisi, 1996; [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019]]）。
 > 5. **政策工具排名的伪精确性与二阶复现危机** 将效应量简化为《[[Visible Learning\|可见的学习]]》气压计或排行榜，误导教育资源配置（[[Argument_Wiliam_2019_ERE\|Wiliam, 2019]]; [[Argument_Simpson_2017_JEP\|Simpson, 2017]]）；全库数据审计证实粗放二阶元综合的数据提取可复现率不足 1%，且存在严重的选择性报告（[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025]]）。
+>    - *隐藏公式与无加权简单算术平均陷阱* [[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]] 进一步揭示，当元综合脱离严格的逆方差加权规范，将样本量悬殊的一级元分析进行无加权简单算术平均并隐去数学公式时（如以 5 项一级文献简单均值得出家庭作业 $d=0.29$），不仅抹杀了关键学段差异（小学 $d=0.15$ vs. 高中 $d=0.64$），更演变为披着科学外衣的[[Cargo Cult Science|货物崇拜科学]]（Cargo Cult Science），对教育实践构成数字霸凌。
 > 6. **微弱效应量与常态对照基线（Micro-effects & High-Quality Control Baseline）** Lortie-Forgues and Inglis (2019) 重新分析 141 项英美大型教育 [[Randomised Controlled Trials\|RCT]]（涵盖逾 120 万名学生），指出平均合并效应量仅为 $d = 0.06$（[[Confidence Interval\|置信区间]]平均宽度达 $0.30$ SD），据此质疑试验“缺乏信息量”。然而，超大样本量极大提升了统计推断精度，微弱效应量实质映射出学校现存[[Business as Usual\|常态教学]]（business as usual）的高水准专业基线；元分析在合成证据时不仅要识别正向效应，更必须重视“证明何者无效”对破除商业噱头与保护紧缺公共资金的去魅价值（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 56–57]]）。
 >
 > 🔗 **完整命题论证、学者辩论与 11 项质量审查清单参见独立深度条目：[[Critique of Meta-analysis]]**。
@@ -329,6 +332,8 @@ updated: 2026-10-16
 > 该研究收集了 77 项关于班级规模与学生学习的实证研究（涵盖 725 项[[Effect Size\|效应量]]比较与近 900,000 名学生）。[[Meta-regression\|元回归分析]]清晰揭示了班级规模与学业成就之间的非线性负相关曲线。
 >
 > 关键方法学发现：实验控制质量是调节曲线斜率的唯一关键因素。良好控制的研究显示出更陡峭的收益曲线，而不充分控制的研究曲线较为平缓。Glass et al. 据此按研究质量分层报告效应量，奠定了按方法学质量开展亚组分析的规范。（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch. 17, pp. 357–360）
+>
+> **二阶综合中的截取与失真争议**：格拉斯与史密斯原文献证实，在控制良好的实验中，班级规模从 40 人压减至 1 人个别辅导时，学业成绩百分位从 50% 显著上升至 80% 以上（差距达 30 多个百分位点），且班额低于 20 人时斜率急剧变陡。然而，该经典发现在后续的宏观元综合中遭遇了严重的断章取义与数据提取扭曲：[[John Hattie|哈蒂]]在《[[Visible Learning|可见的学习]]》中将其压缩为微弱的线性值 $d=0.09$，不仅疑似单独截取了曲线最右端平缓的局部尾部，更混入了大学 100 人大阶梯教室讲座的文献，将高等教育现象不当套用于中小学，暴露出元分析证据在二次提取与跨情境转译中容易被政策偏好策略性裁剪的脆弱性（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 32–33]]）。
 
 > [!case] 证据合成与活态数据库：[[Education Endowment Foundation\|EEF]] 对万项试验元分析[[Heterogeneity\|异质性]]的二次解构与通俗转化（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）
 > - **二阶合成的决策转化** 单一试验的内部有效性不足以直接推论出广泛的[[External Validity\|外部效度]]，[[Systematic Review\|系统综述]]与元分析构成了外推基石（Shadish et al., 2002）。英国教育捐赠基金会（EEF）在《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》中综合了 30 余类通用教学策略底层的数千项元分析与实证研究，将复杂的统计量转化为额外学习月数（[[Months of Progress]]）、实施成本与[[EEF Padlock Security Rating\|挂锁安全评级]]，成为全英格兰超 70% 中学校长配置资源的法定参考指南。
@@ -378,3 +383,4 @@ updated: 2026-10-16
 > - [[Argument_Wrigley_2019_ERE\|Wrigley and McCusker (2019)]] 运用[[Realist Evaluation\|实在论综合]]与[[Critical Realism\|批判实在论]]反思元分析的局限性。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] 探讨[[Meta-meta-analysis\|二阶元分析]]与证据合成在英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）实践中的制度化应用；系统回应 Lortie-Forgues and Inglis (2019) 对 141 项大型教育 [[Randomised Controlled Trials\|RCT]] 平均微弱效应量（$d = 0.06$）的批评，阐明大样本精度、[[Business as Usual\|常态教学]]高基线以及实时动态数据库对消解元分析证据异质性（Heterogeneity）的治理机制。
 > - [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] 依据 [[PICO Framework|PICO]] 框架对教育元分析证据库开展首个预注册质量审计，剖析了对照组性质混淆（活跃对照 vs 照常对照）、组内与组间设计直接混用（Morris & DeShon 难题）对效应量可比性的破坏，确立了元分析研究准入与效应量提取透明度的元科学标准。
+> - [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] 从元分析的方法论透明度与计算规范出发，系统解构了《可见的学习》所运用的二阶元综合技术，深入揭露其隐藏计算公式、对异质性元分析实施无加权简单算术平均、以及对 Glass & Smith (1979) 班级规模经典元分析进行失真提取的货物崇拜科学特征。
