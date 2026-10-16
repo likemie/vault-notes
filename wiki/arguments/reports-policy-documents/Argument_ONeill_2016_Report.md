@@ -58,12 +58,12 @@ related_persons:
   - "[[Michael Barber]]"
 related_facts:
   - "[[Cognition Education]]"
-  - "[[Foundation North Māori and Pasifika Education Initiative]]"
   - "[[Manaiakalani Education Trust]]"
   - "[[Teach First New Zealand]]"
   - "[[Partnership Schools Kura Hourua]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[The Education Trust]]"
+  - "[[Foundation North Māori and Pasifika Education Initiative]]"
 related_arguments: []
 sources:
   - "[[sources/ONeill_2016_Report/ONeill_2016_Report|ONeill_2016_Report]]"
@@ -92,7 +92,7 @@ citation_aliases:
 > 新西兰公立教育正在由传统的科层管理与规范市场，转向由精英私人圈子维系的非正式[[Network Governance|网络治理]]；私营机构通过慈善信托全资控股商业公司的架构，享受免税地位与社会声誉，承接大额政府采购并获取商业利润，但实际返还给公立学校的慈善捐助极少。这类[[Educational Management Organisation|教育管理组织]]（Educational Management Organisation, EMO）的运作使公费教育资金流向私人机构，实质上动摇了面向全体国民的免费义务教育制度。（pp.6–18, 134–136）
 
 > [!concept-lens] 阅读透镜
-> - **对象** 新西兰官方慈善登记册收录的 6,059 家教育慈善机构、六个典型案例组织（Pearson、[[Cognition Education]]、CORE Education、[[Foundation North Māori and Pasifika Education Initiative|Foundation North]]、COMET Auckland、KidsCan）及其背后的[[Policy Network|政策网络]]。（pp.19–20, 58–64）
+> - **对象** 新西兰官方慈善登记册收录的 6,059 家教育慈善机构、六个典型案例组织（Pearson、[[Cognition Education]]、CORE Education、Foundation North、COMET Auckland、KidsCan）及其背后的[[Policy Network|政策网络]]。（pp.19–20, 58–64）
 > - **张力** 公费教育由国家全额出资并举办的法定承诺，与政府主动退缩为部分补贴的现实差距；慈善机构免税地位所享有的公信力，与其巨额资金沉淀、跨国经商和极低捐赠率之间的反差。（pp.21–25, 46–54）
 > - **贡献** 揭示了教育管理组织利用慈善法漏洞进行避税与经商的运作机理，梳理了知名学者约翰·海蒂（[[John Hattie]]）将公共科研成果转为跨国商业品牌的完整脉络，区分了从公费系统净抽取资金的商业机构与向学校纯投入资源的救济型慈善。（pp.65–76, 134–136）
 
@@ -513,7 +513,7 @@ citation_aliases:
 > 1. **教育慈善领域贫富极度分化** 在官方登记的 6,059 家教育慈善机构中，前 51 家大型机构集中了绝大部分行业资产，全行业仅 4.5% 的机构主要依靠政府资助，绝大多数基层机构资源匮乏。（pp.45, 58–64）
 > 2. **管理组织借助双层架构避税** 科[[Cognition Education|认知教育]]与核心教育等管理组织利用信托全资控股商业公司，承接数千万元政府采购合同并积累数百万留存资金，但其实际对外资助仅占年收入的 0.9% 至 1.3%。（pp.71–75, 88–103）
 > 3. **知名学者跨界开展商业运作** 约翰·海蒂（[[John Hattie]]）将公共科研成果、学术声誉、非营利组织职务与商业版税紧密结合，五年间从单一管理组织获取了超过 86 万新西兰元的个人款项。（pp.10, 65–69）
-> 4. **大型社区信托偏好资金长期累积** 资产超过 12 亿新西兰元的北方基金会（[[Foundation North Māori and Pasifika Education Initiative|Foundation North]]），年均仅将[[Return on Investment|投资回报]]的 23.3% 用于公益资助，近八成收益被留存用于继续投资，未能充分回应基层教育的紧迫需求。（pp.13–14, 104–115）
+> 4. **大型社区信托偏好资金长期累积** 资产超过 12 亿新西兰元的北方基金会（Foundation North），年均仅将[[Return on Investment|投资回报]]的 23.3% 用于公益资助，近八成收益被留存用于继续投资，未能充分回应基层教育的紧迫需求。（pp.13–14, 104–115）
 
 > [!stat-cards]- 核心数据
 > - **6,059 所** 新西兰官方登记的教育慈善机构总数，占全行业注册慈善机构三分之一以上。（p.58）

@@ -8,7 +8,7 @@ summary: "一种追踪全球化与网络化治理背景下政策流动的质性�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 36
+method_related_count: 35
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"

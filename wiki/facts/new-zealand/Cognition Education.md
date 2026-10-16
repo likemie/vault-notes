@@ -77,6 +77,7 @@ updated: 2026-10-16
 > - **成立时间 / 创设背景** 1989 年 10 月新西兰推行明日学校改革，撤销原有区域教育委员会，将原本由公共部门承担的学校工资发放与校车运输等行政后勤职能从教育部剥离，交由新设的自负盈亏教育服务中心承接，Multi Serve Education Trust 由此应运而生。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 11–12)]]
 > - **总部地点 / 业务辐射** 总部位于新西兰奥克兰（Auckland），业务辐射跨越新西兰本土、文莱、海湾地区（卡塔尔、阿布扎比）、澳大利亚、英国以及美国等多个国家和地区。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 21–23, 47–48)]]
 > - **法人属性与经费基础** 采用双层法人架构；母实体为免税的慈善信托（Cognition Education Trust），下设全资营利性商业运营子公司（Cognition Education Limited）；收入来源涵盖政府竞标合同、国际咨询服务费、企业并购款项及知识产权特许权使用费（Royalties）。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 66–68)]]
+> - **官方信息法豁免与监督缝隙** 作为私营有限责任公司，其承接公共教育采购的核心合同明细、利润率与董事酬金不受新西兰《官方信息法》（Official Information Act, OIA）的约束，形成了天量公共资金流向私营中介却规避议会与公众民主审查的制度屏障。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 3–7, 82–84)]]
 > - **核心宗旨与法定职责** 机构官方宣称致力于将学习科学（Learning Science）转译为面向学校、社区与政府的专业实践服务，推动全球教育改进；在批判学者视阈下，其实质扮演了将公共教育资产私有化、推动新自由主义教育治理与知识商品化的商业先锋。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 65)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 30)]]
 
 ---
@@ -198,6 +199,9 @@ updated: 2026-10-16
 >
 > > [!axis] 公共教育资产私有化与新自由主义资本化
 > > 从《明日学校》推行以来，Cognition 的演进揭示了新自由主义准市场如何将国家原本应当无偿提供的公共教育服务与知识资源逐步打包为昂贵的商品。通过将原本由大学公共资金资助的学术研究转变为受版权严密保护的商业专营品牌，排除了无力支付高昂咨询费的弱势学区，加剧了教育资源分配的市场化不公。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 30–31)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 65)]]
+>
+> > [!axis] 《官方信息法》监督规避与民主问责真空
+> > 批判治理学者指出，尽管 Cognition 每年承接数以千万计的教育部教师培训、课程评估与领导力项目，但由于其采取私营有限责任公司架构，其核心运营成本、利润率、董事薪酬及第三方版税合同均被排除在《官方信息法》（Official Information Act, OIA）的法定披露范围之外。这种公私混合网络实质上以商业机密为盾牌，架空了议会质询与公民对公共教育预算流向的民主审查权。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 3–7, 82–84)]]
 
 ---
 

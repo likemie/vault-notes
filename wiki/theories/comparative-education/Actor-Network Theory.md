@@ -8,7 +8,7 @@ aliases:
 summary: "起源于布鲁诺·拉图尔、米歇尔·卡隆与约翰·劳的科学技术学（STS）社会理论与方法论框架，将社会与制度理解为人类与非人类行动者通过持续转译与关系物质性生成的异质网络。在比较教育研究中，它被用于解构国家中心主义与政策借用假设，通过追踪多尺度网络、互客体性、耐用客体装配（教科书、测评量规、技术协议、立法条款）与关系空间，揭示隐藏在教育改革与远处治理背后的非线性转译、变异及公私权力重组机制。"
 type: theory
 theory_field: "comparative-education"
-theory_related_count: 56
+theory_related_count: 55
 theory_related_level: 5
 theory_related_stars: "💎⭐⭐"
 theory_related_color: "#ffedd5"

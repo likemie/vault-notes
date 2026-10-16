@@ -8,7 +8,7 @@ summary: "新西兰教育统计学家，Visible Learning作者与元分析综合
 type: person
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 133
+person_related_count: 134
 person_related_level: 13
 person_related_stars: "💎💎💎💎⭐"
 person_related_color: "#fef3c7"
@@ -71,6 +71,7 @@ related_concepts:
   - "[[PICO Framework]]"
   - "[[Commensuration]]"
   - "[[Reliability]]"
+  - "[[Educational Management Organisation]]"
   - "[[Bildung]]"
   - "[[Screening Off]]"
   - "[[Creativity]]"
@@ -157,8 +158,8 @@ related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[No Child Left Behind Act 2001]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
-  - "[[OECD]]"
   - "[[Visible Learning Branding and Global Influences]]"
+  - "[[OECD]]"
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
 confidence: medium
@@ -195,7 +196,7 @@ updated: 2026-10-16
 > - **2005** 在墨尔本举行的[[Australian Council for Educational Research\|澳大利亚教育研究委员会]]（ACER）年度大会上发表题为《促成学习改变的证据本质》（*What is the nature of evidence that makes a difference to learning?*）的主题演讲，首次系统公开基于 100 余项干预、30 万项研究元分析提取的平均[[Effect Size\|效应量]] $d=0.40$ 关节点与六分源[[Academic Achievement\|学业成就]]方差模型，倡导打破惩罚性问责并依托 asTTle 构建以教师为核心的[[Learning Progression\|学业进阶]]共享语言。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, pp. 11–21)]]
 > - **2006** 注册《[[Visible Learning\|可见的学习]]》商标并创立实验室；加入 [[Cognition Education]] 董事会，开启教师专业发展与课程商业化运营。[[Argument_ONeill_2016_Report\|(O'Neill et al., 2016, p. 48)]]
 > - **2009** 出版里程碑专著《可见的学习：综合 800 余项与成就相关的元分析》；同年新西兰媒体报道掀起轩然大波，学界爆发长达三回合的 Snook-Hattie 论战；受邀出任[[New Zealand National Standards\|新西兰国家标准]]政策技术顾问，获总理公开致谢。[[Argument_Hattie_2010_NZJES\|(Hattie, 2010, pp. 86–92)]]
-> - **2010–2014** 推进跨国商业化扩张，累计从 Cognition Education 获得第三方付款约 87 万美元；[[Gerald Grace]] 发文介入论战。[[Argument_ONeill_2016_Report\|(O'Neill et al., 2016, p. 49)]]; [[Argument_Grace_2010_NZJES\|(Grace, 2010, p. 90)]]
+> - **2010–2014** 推进跨国商业化扩张，2011 至 2015 年间累计从科认知教育（[[Cognition Education]]）获得第三方版税与顾问款项达 869,453 新西兰元（2011 年 10,000 元、2012 年 93,322 元、2013 年 272,133 元、2014 年 270,559 元、2015 年 223,439 元），数额相当于公立重点高中校长数倍年薪；[[Gerald Grace]] 发文介入论战。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 48–50, 67)]]; [[Argument_Grace_2010_NZJES|(Grace, 2010, p. 90)]]
 > - **2011** 转任澳大利亚墨尔本大学教育研究生院教授兼研究所主任。
 > - **2013–2014** 出任 1600 万澳元澳大利亚科学学习研究中心副主任；获任命为澳大利亚教学与[[School Leadership\|学校领导力]]研究院（[[Australian Institute for Teaching and School Leadership\|AITSL]]）董事会主席，其工作全面嵌入国家教师与校长专业标准。[[Argument_ONeill_2016_Report\|(O'Neill et al., 2016, p. 50)]]
 > - **2015** 推出 Visible Classroom 应用，由英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation，EEF）资助 36 万英镑试点；培生集团发布其思想领导力文章，连接学术与商业跨国网络；丹麦公立学校改革引发《可见的学习》[[Going Native\|本土化]]激烈争辩。[[Argument_Fredens_2015_Paideia\|(Fredens, 2015)]]
@@ -254,7 +255,7 @@ updated: 2026-10-16
 > - **理论路径** 撼动了 1970–1990 年代以学生为中心的[[Radical Constructivism\|激进建构主义]]教学浪漫主义，重新确立了[[Direct Instruction\|直接教学]]、显性教学与掌握学习在教学论中的正当性；推动将师生认知互动、[[Metacognition\|元认知监控]]与反馈循环整合为统一的课堂[[Effective Teaching\|有效教学]]模型；晚期提出的三阶段学习模型推动了[[Surface and Deep Learning\|表层学习]]到深层概念迁移的[[Epistemology\|认识论]]建构。
 > - **方法路径** 开创并普及了教育领域的大规模[[Meta-meta-analysis\|元综合]]方法论，将跨越数十年、涉及数千万样本的[[Heterogeneity\|异质性]]研究统一置于以标准差为基准的通用连续体（$d$ 指标）上；首创[[Effect Size\|效应量]]“关节点”（$d=0.40$）与影响气压计可视化工具，成为全球循证政策与智库证据工具箱（如英国 [[Education Endowment Foundation\|EEF]] Toolkit）的标准参考框架。
 > - **政策路径** 深度嵌入盎格鲁-撒克逊国家的国家教育标准制定：成为[[New Zealand National Standards\|新西兰国家标准]]和教师评估工具（[[Assessment Tools for Teaching and Learning\|asTTle]]）的基石；直接主导澳大利亚教学与[[School Leadership\|学校领导力]]研究院（[[Australian Institute for Teaching and School Leadership\|AITSL]]）的国家专业标准制定；成为澳大利亚维多利亚州高影响教学策略（[[Victorian HITS and Literacy Toolkit\|HITS]]）的核心蓝本；被英国教育部 Coldwell et al.（2017）列为官方认可证据来源。[[Argument_Bainbridge_2022_ROE\|(Bainbridge et al., 2022, p. 4)]]
-> - **跨国／跨领域传播** 从学术专著演变为覆盖至少 23 个国家的跨国商业与[[Policy Brokerage\|政策中介]]复合体；在斯堪的纳维亚半岛（挪威、丹麦、瑞典）被转译为推动学校组织变革与数据协作的支点，重塑[[Professional Judgment\|专业判断]]与[[Knowledge Mobilisation\|知识动员]]。[[Argument_Nordahl_2015_Paideia\|(Nordahl, 2015, pp. 61–69)]]；引发丹麦 2014 学校改革的激烈公共争议；在俄罗斯引发标准化课程应用论争；在跨国[[Governing by Numbers\|数字治理]]实证中揭示出主权国家在硬性行政法令起草中对个体学术明星的断崖式过滤。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
+> - **跨国／跨领域传播** 从学术专著演变为覆盖至少 35 个国家的跨国商业与[[Policy Brokerage|政策中介]]特许网络；依托科[[Cognition Education|认知教育]]（[[Cognition Education]]）注册排他性跨国商标 [[Visible Learning Branding and Global Influences|Visible Learningplus]]，推出 16 个标准化教师培训工作坊与认证体系；联合科技企业开发按次收费的 Visible Classroom 软件并与跨国出版巨头深度合作，开辟了将公共科研成果转化为排他性知识产权的全链条政策创业路径；在斯堪的纳维亚半岛（挪威、丹麦、瑞典）被转译为推动学校组织变革与数据协作的支点，重塑[[Professional Judgment|专业判断]]与[[Knowledge Mobilisation|知识动员]]。[[Argument_Nordahl_2015_Paideia|(Nordahl, 2015, pp. 61–69)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 65–70)]]；引发丹麦 2014 学校改革的激烈公共争议；在俄罗斯引发标准化课程应用论争；在跨国[[Governing by Numbers|数字治理]]实证中揭示出主权国家在硬性行政法令起草中对个体学术明星的断崖式过滤。[[Argument_Steiner-Khamsi_2024_CE|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
 > - [[Argument_Hattie_2005_ACER\|Hattie, 2005]] — 在 [[Australian Council for Educational Research\|ACER]] 大会发表奠基性论文，首次系统提出 $d=0.40$ 关节点、30% 教师方差份额模型与 asTTle 形成性问责理论体系。
@@ -329,7 +330,7 @@ updated: 2026-10-16
 > > 批判其对教师专业主体的贬低、商业化利益冲突以及在国家硬性规制中的制度穿透力不足。
 > >
 > > - **Eacott 以及 McKnight 与 Whitburn** 定性其为新泰勒主义监控与“[[Cult of the Guru\|大师崇拜]]”，将教学拆解为最小可测量单元，以进步主义修辞包装[[Positivism\|实证主义]]与新自由主义监控。[[Argument_Eacott_2017_SLM\|(Eacott, 2017)]]; [[Argument_McKnight_2020_Discourse\|(McKnight & Whitburn, 2020)]]
-> > - **O'Neill 等人以及 Johnson 与 Janzen** 揭示政策制定者脱离语境滥用证据，追踪其从 [[Assessment Tools for Teaching and Learning\|asTTle]] 到商业咨询的利益网络与政策创业。[[Argument_ONeill_2012_NZJES\|(O'Neill, 2012)]]; [[Argument_ONeill_2016_Report\|(O'Neill et al., 2016)]]; [[Argument_Johnson_2023_CritEduc\|(Johnson & Janzen, 2023)]]
+> > - **O'Neill 等人以及 Johnson 与 Janzen** 揭示政策制定者脱离语境滥用证据，系统追踪其依托 [[Educational Management Organisation|EMO]] 双层法人架构（慈善信托控股营利子公司）在公共研发（[[Assessment Tools for Teaching and Learning|asTTle]]）、非营利顾问与营利特许之间无缝切换的微观运作路径，披露其 5 年间从商业实体获取 86.9 万新西兰元版税而享有公共免税庇护的制度套利机制。[[Argument_ONeill_2012_NZJES|(O'Neill, 2012)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 65–75)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023)]]
 > > - **Steiner-Khamsi 等人** 实证表明在北欧政策咨询网络中，专家报告虽海量引用 Hattie，但在法定行政法令阶段被清洗过滤超 95%，个体明星威权远逊于[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD）等跨国治理复合体。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
 >
 > > [!axis] 教育哲学审视：[[Technical Rationality\|技术理性]]、盲视框架与 [[Bildung]] 替代
