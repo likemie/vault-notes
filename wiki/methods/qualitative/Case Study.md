@@ -7,7 +7,7 @@ summary: "以单个或少数个案为分析单位深入追踪过程、情境和�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 85
+method_related_count: 88
 method_related_level: 8
 method_related_stars: "💎💎⭐⭐"
 method_related_color: "#dbeafe"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Precompetitive Research]]"
   - "[[Steering at a Distance]]"
+  - "[[Educational Management Organisation]]"
 related_theories:
   - "[[Phenomenology]]"
   - "[[Knowledge Building Theory]]"
@@ -61,6 +62,7 @@ related_methods:
   - "[[Internal Consistency]]"
   - "[[Experimental Research]]"
   - "[[Questionnaire]]"
+  - "[[Audit Trail]]"
   - "[[Grounded Theory]]"
   - "[[Audiovisual, Social Media, and Digital Materials]]"
   - "[[Ethnography]]"
@@ -98,6 +100,7 @@ related_arguments:
   - "[[Argument_Murphy_2026_JTS]]"
   - "[[Argument_Logar_2014_Minerva]]"
   - "[[Argument_Kickert_1995_Governance]]"
+  - "[[Argument_ONeill_2016_Report]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Gesamtstrategie zum Bildungsmonitoring]]"
@@ -146,8 +149,8 @@ updated: 2026-10-16
 
 > [!method-stack] 方法层级
 > - **研究设计** 单案例设计、嵌入式单案例设计、多案例设计、嵌入式多案例设计（Yin, 2009, pp. 46ff.）
-> - **数据收集** 访谈、观察、文件、档案记录、实物、[[Questionnaire\|问卷]]等（Yin 六类证据来源）
-> - **分析方法** 主题分析、跨案例分析、模式匹配、时间序列分析、[[Grounded Theory\|扎根理论]]、编码
+> - **数据收集** 访谈、观察、文件与档案记录（包括公共财务报表、信托注册契约与公司股权登记）、实物、[[Questionnaire|问卷]]等（Yin 六类证据来源）
+> - **分析方法** 主题分析、跨案例分析、模式匹配、制度与财务[[Audit Trail|审计追踪]]、时间序列分析、[[Grounded Theory|扎根理论]]、编码
 > - **辅助技术** 个案研究数据库、[[Chain of Evidence\|证据链]]、[[Triangulation\|三角验证]]、受访者验证、[[Reflexivity\|反身性]]
 
 > [!citation-card] 米特论国别个案研究中的比较视野与容器突破
@@ -296,3 +299,4 @@ Yin告诫在单案例设计中要谨慎：通常会忽视多案例的可能好�
 > - [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] — 采用单机构案例研究设计，结合参与描述性统计与开放式[[Questionnaire|问卷]]主题分析，深度追踪美国一所大型[[Research Universities|研究型大学]]面向《[[CHIPS and Science Act|芯片与科学法案]]》战略需求开展的系列学者发展工作坊演进过程与行动者参与体验。
 > - [[Argument_Logar_2014_Minerva|Logar et al. (2014)]] — 采用单机构嵌入式定性案例研究（Case Study）设计，结合[[Semi-structured Interview|半结构化访谈]]与机构历史档案分析，深入解构美国[[Semiconductor Research Corporation|半导体研究公司]]（SRC）作为会员制[[Precompetitive Research|前竞争研发]]联合体在连接产业需求、高校基础科研与联邦资助中的治理机制、人才管道建设与跨领域经验迁移边界。
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 采用[[Reflexivity|反思性]]实践者国别行政案例研究设计，深度追踪荷兰高教治理从层级指令向[[Steering at a Distance|远距离操纵]]演进的制度历程。
+> - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 采用多案例制度与财务报表追踪设计，深度解构跨国出版商、[[Educational Management Organisation|教育管理组织]]与慈善基金会等六大机构的隐性私有化机制。

@@ -5,11 +5,11 @@ aliases:
   - social network analysis
   - SNA
   - 社会网络分析
-summary: "通过识别行动者、关系、节点和连接来测量社会关系结构与动态的混合方法，广泛应用于课堂人际互动、协作知识建构网络、学校组织协作及跨国政策中介网络的结构解析。"
+summary: "通过识别行动者、关系、节点和连接来测量社会关系结构与动态的混合方法，广泛应用于课堂人际互动、协作知识建构网络、学校组织协作、跨国政策中介以及新自由主义公私跨界政策治理与连锁董事网络的结构解析。"
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 43
+method_related_count: 48
 method_related_level: 4
 method_related_stars: "💎⭐"
 method_related_color: "#fef3c7"
@@ -21,7 +21,9 @@ tags:
   - theme/knowledge-mobilisation
   - cscl
 related_concepts:
-  - "[[Policy Brokerage]]"
+  - "[[Policy Network]]"
+  - "[[Policy Entrepreneur]]"
+  - "[[Public-Private Partnership]]"
   - "[[Unit of Analysis]]"
   - "[[Hypothesis]]"
   - "[[Epistemology]]"
@@ -35,6 +37,7 @@ related_concepts:
   - "[[Gatekeepers]]"
   - "[[Structural Holes]]"
   - "[[Knowledge Mediation]]"
+  - "[[Policy Brokerage]]"
   - "[[Boundary Spanner]]"
   - "[[Causality]]"
   - "[[Epistemic Responsibility]]"
@@ -42,6 +45,7 @@ related_concepts:
   - "[[Rich and Thick Description]]"
   - "[[Ontology]]"
   - "[[School Leadership]]"
+  - "[[Endogenous and Exogenous Privatisation]]"
 related_theories:
   - "[[Knowledge Building Theory]]"
   - "[[Complexity Theory]]"
@@ -66,6 +70,7 @@ related_persons: []
 related_facts:
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
 related_arguments:
+  - "[[Argument_ONeill_2016_Report]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]]"
   - "[[Argument_Zhang_2022_SE]]"
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
@@ -83,13 +88,13 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 方法定义
-> 网络分析（Network Analysis / Social Network Analysis, SNA）是一门用于测量、绘制和解释社会情境中行动者及其连接关系结构规律性的混合研究方法（Knoke & Yang, 2008, p. 4）。其核心理论假定认为，行动者在网络中的位置与连接形态（即宏观-结构关系）比年龄、性别、阶级等个体传统属性能够更深刻地解释其社会行为、认知流动与[[Knowledge Building Theory|知识建构]]表现，且网络关系具有高度的情境特定性（Context-Specific）与时间演进动态性（Dynamic）。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22|(Cohen et al., 2011, pp. 625–626)]]; [[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 899, 903–905)]]
+> 网络分析（Network Analysis / Social Network Analysis, SNA）是一门用于测量、绘制和解释社会情境中行动者及其连接关系结构规律性的混合研究方法（Knoke & Yang, 2008, p. 4）。其核心理论假定认为，行动者在网络中的位置与连接形态（即宏观-结构关系）比年龄、性别、阶级等个体传统属性能够更深刻地解释其社会行为、认知流动与[[Knowledge Building Theory|知识建构]]表现，且网络关系具有高度的情境特定性（Context-Specific）与时间演进动态性（Dynamic）。在微观教育研究中，它用于诊断课堂人际互动与分布式认知；而在教育政策社会学与政治经济学视阈中（Ball, 2012; [[Argument_ONeill_2016_Report|O'Neill et al., 2016]]），网络分析进一步发展为解构跨界[[Policy Network|政策网络]]、连锁董事（Interlocking Directorates）兼职与隐性私有化资本渗透的核心分析工具。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22|(Cohen et al., 2011, pp. 625–626)]]; [[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 899, 903–905)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 65–75)]]
 
 > [!method-scope] 方法范围
-> - **研究对象** 社会与组织网络中的行动者（Actors / 节点 Nodes）、关系与纽带（Relations / 连接 Ties），以及网络整体的拓扑结构特征。
-> - **适用问题** 识别核心关键行动者（中心度）、分析信息与资源流动阻滞点、探测凝聚子群（派系 Cliques）、评估课堂协作知识建构中的分布式认知网络密度与跨组织[[Policy Brokerage|政策中介]]效应。
-> - **[[Unit of Analysis|分析单位]]** 个体层次（自我中心网络 Ego-Network） $\to$ 对偶层次（Dyads） $\to$ 三元闭包层次（Triads） $\to$ 完整跨组织/班级协作全网络（Whole Network）（Knoke & Yang, 2008, pp. 13–15）。
-> - **典型输出** 社会关系网络图（Sociograms）、邻接矩阵（Adjacency Matrices）、中心性指数、网络密度、核心-边缘结构模型（Core-Periphery Models）。
+> - **研究对象** 社会与组织网络中的行动者（Actors / 节点 Nodes，包括学生、教师、政客、商业高管与学者型[[Policy Entrepreneur|政策企业家]]）、关系与纽带（Relations / 连接 Ties，包括发帖互动、资源流转、跨机构兼任与商标特许授权），以及网络整体的拓扑结构特征。
+> - **适用问题** 识别核心关键行动者（中心度）、分析信息与资源流动阻滞点、探测凝聚子群（派系 Cliques）、评估课堂协作知识建构中的分布式认知网络密度，以及绘制新自由主义[[Public-Private Partnership|公私伙伴关系]]中的连锁董事治理同盟与跨国政策特许拓扑。
+> - **[[Unit of Analysis|分析单位]]** 个体层次（自我中心网络 Ego-Network） $\to$ 对偶层次（Dyads） $\to$ 三元闭包层次（Triads） $\to$ 完整跨组织/跨国政策全网络（Whole Network）（Knoke & Yang, 2008, pp. 13–15; [[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）。
+> - **典型输出** 社会关系网络图（Sociograms）、政商兼任网络图（Governance Network Maps）、邻接矩阵（Adjacency Matrices）、中心性指数、网络密度、核心-边缘结构模型（Core-Periphery Models）。
 
 > [!citation-card]- 关键定义：社会网络分析的结构解释力
 > 社会网络分析试图测量和绘制社会实体之间关系的规律模式。其基本理论前提是，解释人们行为的关键不在于其孤立的个体属性，而在于其所嵌入的社会网络结构规律。
@@ -167,7 +172,8 @@ updated: 2026-10-16
 >   - 测度计算机支持的协作学习（CSCL）与课堂[[Theory of Knowledge|知识论]]坛（KF）中学生的分布式认知网络与跨组互动密度；[[Argument_Zhang_2022_SE|(Zhang et al., 2022, pp. 899, 903)]]
 >   - 分析学校内部教师专业学习社群中的同行建议寻求网络结构；
 >   - 解析跨区域、跨国教育[[Policy Brokerage|政策中介]]机构（如 [[EU Evidence-Informed Education Policy Initiatives|EIPPEE]]）之间的合作与资源共享拓扑；
->   - 识别教育改革推进中的关键[[Boundary Spanner|知识经纪人]]（[[Boundary Spanner|Boundary Spanners]]）与孤立学校。
+>   - 识别教育改革推进中的关键[[Boundary Spanner|知识经纪人]]（Boundary Spanners）与孤立学校；
+>   - 绘制教育政策社会学中的公私跨界[[Policy Network|政策网络]]，解构政客、对冲基金、商业智库与[[Policy Entrepreneur|政策企业家]]构成的连锁董事治理拓扑与全球商标特许网络。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 65–75)]]
 > - **谨慎使用** 参与者流动频繁的临时项目网络；网络边界模糊且难以界定纳入排除标准的社会群体。
 > - **不适合使用** 纯粹关注个体心理认知属性而脱离人际互动的实验心理学研究；样本规模极小（小于 5 人）难以形成拓扑结构的情境。
 
@@ -179,7 +185,7 @@ updated: 2026-10-16
 > - **边界界定偏差（Boundary Specification Problem）** 人为划定网络边界极易切断跨界连接，导致边缘节点被误判为结构性孤立。
 > - **静态截面与[[Causality|因果推断]]陷阱** 传统横截面网络图往往忽略动态演化；将中心度高直接等同于因果影响力可能产生内生性偏差。
 > - **自报告关系的数据敏感性** 询问你最信任谁/向谁求助容易引发社会赞许偏差或防范心理，导致关键隐性网络漏报。
-> - **应对策略** 结合平台客观交互日志提取真实发帖/回帖网络，并引入纵向多期网络模型与深度[[Qualitative Interview|质性访谈]]进行[[Triangulation|三角互证]]。
+> - **应对策略** 结合平台客观交互日志提取真实发帖/回帖网络，并引入纵向多期网络模型与深度[[Qualitative Interview|质性访谈]]进行[[Triangulation|三角互证]]；在[[Policy Network|政策网络]]研究中结合公司工商与信托公开注册档案穿透兼任关系。
 
 ---
 
@@ -190,6 +196,8 @@ updated: 2026-10-16
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
 > | [[Knowledge Building Theory]] | 理论 | 为社会网络分析提供协作知识建构与[[Epistemic Responsibility\|集体认知责任]]的[[Epistemology\|认识论]]基础，指导识别去中心化的分布式网络。 |
+> | [[Policy Network]] | 概念 | 网络分析用于实证绘制教育治理中的多行动者政策网络、跨国流动拓扑与公私同盟结构。 |
+> | [[Policy Entrepreneur]] | 概念 | 网络分析用于识别跨界流动的关键政策企业家节点及其在政商学界的多重兼任连线。 |
 > | [[Reflective Structuration]] | 概念 | 网络分析用于检验反思性结构化与弹性分组是否促进了高密度的跨组交互与去中心化拓扑。 |
 > | [[Sociometry]] | 前置方法 | 莫雷诺（Moreno, 1934）社会计量学是社会网络分析的奠基之源，确立了点线图基石。 |
 > | [[Interactional Ethnography]] | 补充质性方法 | 互动[[Ethnography\|民族志]]为 SNA 网络拓扑提供微观话语互动[[Transcription in Qualitative Research\|转录]]与情境意义的质性[[Rich and Thick Description\|深描]]。 |
@@ -205,3 +213,4 @@ updated: 2026-10-16
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch22]] — 系统梳理社会网络分析的方法论源流、五大分析维度、七大关系类型学及矩阵图形展示技术。
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns and Schuller (2022)]] — 运用[[Participant Observation|参与观察]]与网络分析方法，深入剖析欧洲 23 国 36 家机构构成的 [[EU Evidence-Informed Education Policy Initiatives|EIPPEE]] 跨国教育[[Knowledge Mediation|知识中介]]网络，提炼元中介协同维系机制与制度张力。
 > - [[Argument_Brown_Greany_2018_LPS|Brown and Greany (2018)]] — 其基线[[Questionnaire|问卷]]从属于更大规模的社会网络分析设计，研究团队因此掌握每所学校教师与[[School Leadership|学校领导]]者的姓名与确切人数，得以逐校计算个体应答率。
+> - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 运用跨界[[Policy Network|政策网络]]与连锁董事分析，绘制新西兰公立[[Endogenous and Exogenous Privatisation|教育私有化]]中的学术特许网络与政商学同盟拓扑。

@@ -9,7 +9,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 44
+fact_related_count: 45
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dcfce7"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Knowledge Production]]"
   - "[[Assemblage]]"
   - "[[What Works Movement]]"
+  - "[[Social Impact Investing]]"
   - "[[Network Governance]]"
   - "[[Relational Space]]"
   - "[[Co-affiliation]]"
@@ -281,7 +282,7 @@ updated: 2026-10-16
 > | [[Venture Philanthropy]] | 概念 | 催生、塑造并深度嵌入 AERO 董事会治理与法规的资本力量。 |
 > | [[Assemblage]] | 概念 | 解构 AERO 表面客观中立与底层法律条文耐用固化的理论透镜。 |
 > | [[What Works Movement]] | 概念 | AERO 所依循的以因果干预与标准化工具包为核心的全球循证运动。 |
-> | [[Social Ventures Australia]] | 事实 | 主导 AERO 十年政策游说、原型试验与董事人事输送的风险慈善母体。 |
+> | [[Social Ventures Australia]] | 事实 | 主导 AERO 十年政策游说、原型试验与董事人事输送的[[Social Impact Investing\|风险慈善]]母体。 |
 > | [[Education Endowment Foundation]] | 事实 | 为 AERO 提供组织模板、试验工具包资助及首任董事的英国母本机构。 |
 > | [[BHP Foundation]] | 事实 | 资助 EEF 跨国扩张并将资本渗透至澳大利亚证据生态的矿业慈善巨头。 |
 > | [[Centre for Evidence and Implementation]] | 事实 | 受 AERO 委托开展首期学校证据采纳桌面审查的外部中介机构。 |

@@ -27,6 +27,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Assemblage]]"
   - "[[Co-affiliation]]"
+  - "[[Social Impact Investing]]"
   - "[[Epistemology]]"
   - "[[Policy Mobility]]"
   - "[[Bureaucracy]]"
@@ -34,7 +35,6 @@ related_concepts:
   - "[[Comparative Education as a Cross-Sectional Area]]"
   - "[[Paradigm]]"
   - "[[Knowledge Production]]"
-  - "[[Social Impact Investing]]"
 related_theories:
   - "[[Actor-Network Theory]]"
 related_methods:
@@ -119,7 +119,7 @@ issuing_organization: ""
 > | **[[Actor-Network Theory\|行动者网络理论与关系物质性]]**<br>[[Actor-Network Theory]] | 借鉴约翰·劳（John Law）关于网络具身于耐用材料（durable materials）的思想，将[[Policy Network\|政策网络]]理解为人类与非人类实体的装配体；权力并非既定原因或科层层级，而是网络异质要素持续转译与精心遮蔽后的网络效果。（pp. 2, 4） |
 > | **[[Assemblage\|无生命客体的装配隐喻]]**<br>[[Assemblage]] | 运用澳大利亚防野狗围栏（dingo fence）隐喻，阐明铁丝木桩、法案条款、公司章程、咨询合同与评估量规等无生命客体如何在空间中维系形状，改变整个生态系统的物种运动与生存环境。（pp. 1–2） |
 > | **[[Policy Network\|政策网络与异质治理]]**<br>[[Policy Network]] | 借鉴[[Stephen Ball\|斯蒂芬·鲍尔]]（Stephen J. Ball）的全球政策网络视角，解析政府官僚、跨国投行、慈善信托与商业顾问构成的异质层级（heterarchy）治理结构及其[[Co-affiliation\|共同从属]]（co-affiliations）特征。（pp. 2, 8） |
-> | **[[Venture Philanthropy\|风险慈善与金融化中介语系]]**<br>[[Venture Philanthropy]] | 揭示风险慈善机构如何将风险投资和私募股权纪律引入公共领域，运用证据经纪（brokerage）、买入（buy in）等源自金融交易的术语重构国家教育科研议程与价值体系。（pp. 3–4） |
+> | **[[Venture Philanthropy\|风险慈善与金融化中介语系]]**<br>[[Venture Philanthropy]] | 揭示[[Social Impact Investing\|风险慈善]]机构如何将风险投资和私募股权纪律引入公共领域，运用证据经纪（brokerage）、买入（buy in）等源自金融交易的术语重构国家教育科研议程与价值体系。（pp. 3–4） |
 
 > [!warrant]- 理论如何支撑论证
 > 理论框架打破了宏观科层国家与微观学校实践的二元对立，将政策机构视作由文本、法条、资金与人事关系在异质网络中动态维系的装配体。行动者网络理论揭示了转瞬即逝的[[Discourse|话语]]如何借助耐用材料获得超越时空的稳定性；政策[[Network Analysis\|网络分析]]则阐明看似彼此分离的跨国金融机构、智库与国家行政机关，如何通过重叠董事、资助纽带与共享[[Epistemology\|认识论]]形成高度同质的行动联盟，从而为解构 [[Australian Education Research Organisation\|AERO]] 的合法性修辞提供了严密的推论桥梁。（pp. 2–4）

@@ -8,7 +8,7 @@ summary: "澳大利亚著名商业律师、企业高管与教育政策调查特�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 27
+person_related_count: 28
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"

@@ -122,7 +122,7 @@ updated: 2026-10-16
 > | [[David Gonski]] | 人物 | 创设董事长，通过 APS 深度介入澳洲企业慈善立法与国家教育政策审查。 |
 > | [[Australian Education Research Organisation]] | 组织 | 其董事会核心成员（如 Roger Massy-Greene）与 APS 存在密切的家族与[[Co-affiliation\|共同从属]]纽带。 |
 > | [[Australian Schools Plus]] | 组织 | 与 APS 共享多位董事与捐助人网络的公立学校免税筹款中介实体。 |
-> | [[Venture Philanthropy]] | 概念 | APS 充当全澳风险慈善与私人辅助基金运作的基础设施平台。 |
+> | [[Venture Philanthropy]] | 概念 | APS 充当全澳[[Social Impact Investing\|风险慈善]]与私人辅助基金运作的基础设施平台。 |
 > | [[Philanthrocapitalism]] | 概念 | APS 通过管理私人辅助基金运作商业投资逻辑介入公共福利的核心意识形态。 |
 > | [[Network Governance]] | 概念 | APS 董事在政商慈善多中心网络中的穿梭所体现的新型治理样态。 |
 > | [[Educational Brokerage Agency]] | 概念 | APS 为 SVA 孵化各类教育中介机构提供了坚实的免税后台资本管理支持。 |

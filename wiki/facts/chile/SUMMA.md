@@ -12,7 +12,7 @@ subtype: organization
 region: chile
 fact_region: "chile"
 fact_kind: "organization"
-fact_related_count: 35
+fact_related_count: 36
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Educational Brokerage Agency]]"
   - "[[Epistemic Governance]]"
   - "[[Knowledge Mediation]]"
+  - "[[Social Impact Investing]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
@@ -191,4 +192,4 @@ updated: 2026-10-16
 > | [[Evidence Ecosystem]] | Concept | SUMMA 所致力于在拉美和加勒比多国构建的去中心化循证[[Epistemic Governance\|知识治理]]生态。 |
 > | [[Knowledge Mediation]] | Concept | SUMMA 承担的连接国际科研证据与本土一线政策/学校实践的中介职能。 |
 > | [[Educational Brokerage Agency]] | Concept | SUMMA 作为独立教育证据经纪机构的理论与组织属性定性。 |
-> | [[Venture Philanthropy]] | Concept | 必和必拓基金会介入 SUMMA 孵化所体现的现代跨国风险慈善模式。 |
+> | [[Venture Philanthropy]] | Concept | 必和必拓基金会介入 SUMMA 孵化所体现的现代跨国[[Social Impact Investing\|风险慈善]]模式。 |

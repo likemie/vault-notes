@@ -8,7 +8,7 @@ aliases:
 summary: "以投资而非赠款为核心逻辑的金融化慈善模式，将风险投资与私募股权纪律引入公共治理，强调组织能力建设与量化回报；在教育政策中通过跨国资金流动与人事重叠构建影子网络，推动国家向异层治理转型，重构公共财政再分配并引发民主问责侵蚀争议。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 30
+related_count: 31
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Seed Funding]]"
   - "[[Return on Investment]]"
   - "[[Philanthrocapitalism]]"
+  - "[[Social Impact Investing]]"
   - "[[Discourse]]"
   - "[[Policy Network]]"
   - "[[Epistemology]]"
@@ -89,7 +90,7 @@ updated: 2026-10-16
 ## 概念辨析
 
 > [!contrast-table] 概念辨析
-> | 维度 | 风险慈善（Venture Philanthropy） | 传统赠款慈善（Traditional Philanthropy） | 商业风险投资（Commercial Venture Capital） |
+> | 维度 | [[Social Impact Investing\|风险慈善]]（Venture Philanthropy） | 传统赠款慈善（Traditional Philanthropy） | 商业风险投资（Commercial Venture Capital） |
 > |---|---|---|---|
 > | **运行逻辑** | 战略性多年投资、留本基金运营与高介入度赋能 | 一次性赠款分配、善意救济与无偿资助 | 股权投资、市场化估值与资本高倍退出 |
 > | **治理关系** | 深度嵌入受助方董事会，掌控战略与运营决策 | 外部资助者角色，尊重受助机构自主运营 | 派遣董事，行使股东投票权与重大事务否决权 |
@@ -230,7 +231,7 @@ updated: 2026-10-16
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Philanthrocapitalism]] | 概念 | 风险慈善在宏观政治经济体制中依附并推进的意识形态[[Paradigm\|范式]]。 |
-> | [[Educational Brokerage Agency]] | 概念 | 风险慈善机构在教育领域培育与输送资本的核心组织载体。 |
+> | [[Educational Brokerage Agency]] | 概念 | [[Social Impact Investing\|风险慈善]]机构在教育领域培育与输送资本的核心组织载体。 |
 > | [[Assemblage]] | 概念 | 解构风险慈善公私网络与无生命制度客体耐用固化的理论透镜。 |
 > | [[Policy Network]] | 概念 | 风险慈善赖以进行政策游说与跨界渗透的异质层级组织网络。 |
 > | [[Social Ventures Australia]] | 事实 | 澳大利亚首要的风险慈善机构与政策网络核心枢纽。 |

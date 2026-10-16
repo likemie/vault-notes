@@ -12,7 +12,7 @@ aliases:
 summary: "由政府部门、中介组织、智库、高校与私有资本等多元行动者交织构成的网状治理结构。在批判政策社会学中揭示国家作为市场缔造者与私营中介协同重构再分配与理念编排的异层治理，在实证治理中测度政务网络规模与互动深度非线性解耦。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 72
+related_count: 73
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -51,6 +51,7 @@ related_concepts:
   - "[[Incommensurability]]"
   - "[[Network Governance]]"
   - "[[Paradigm]]"
+  - "[[Social Impact Investing]]"
   - "[[Philanthrocapitalism]]"
   - "[[Steering at a Distance]]"
   - "[[Initial Teacher Training]]"
@@ -285,7 +286,7 @@ updated: 2026-10-16
 > | **政务网络非线性解耦命题** | 盲目扩大征询名单导致互动频度断崖式下跌，陷入形式主义大网络陷阱 | 中央教育部委外部征询网络构建与利益相关者协商 | [[Argument_Hill_2022_FacilitatingActors\|Hill (2022, pp. 84–85)]] |
 > | **生产依附与中介排斥命题** | 行政网络高度依附学术生产者采购报告，体制性排斥转化端纯中介机构 | 国家教育研究供需对接、科研成果动员与智库参与渠道 | [[Argument_Hill_2022_FacilitatingActors\|Hill (2022, pp. 85–86)]] |
 > | **适宜性逻辑与逆向制造命题** | 政治落地预期与官僚高频轮换诱发逆向证据包装，割裂认识论连贯性 | 部委闭门专家咨询、智库报告采纳与网络意见领袖传播 | [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022, pp. 93–96)]] |
-> | **共同从属与耐用客体装配命题** | 人事交叉兼职闭环结合公司法与量规等无生命客体，掩护资本隐蔽掌控议程 | 国家级证据中介创设、风险慈善游说与立法特许商业分包 | [[Argument_Rowe_2022_IJER\|Rowe (2022, pp. 1–5, 8–11)]] |
+> | **共同从属与耐用客体装配命题** | 人事交叉兼职闭环结合公司法与量规等无生命客体，掩护资本隐蔽掌控议程 | 国家级证据中介创设、[[Social Impact Investing\|风险慈善]]游说与立法特许商业分包 | [[Argument_Rowe_2022_IJER\|Rowe (2022, pp. 1–5, 8–11)]] |
 > | **国家催化与异层再分配命题** | 政策网络推动国家演化为市场缔造者，通过立法特许和补贴导致公共财政向中介逆流 | 福利国家转型、公立教育财政危机与[[Philanthrocapitalism\|慈善资本主义]]再分配机制 | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023, pp. 522–523, 527–532)]] |
 > | **多理性网络科层失灵命题** | 专业分工导致多重异质理性并存，去中心网络缺乏绝对顶层，单向科层命令必然失灵并转向激励协商 | 半自治专业公共部门、高校网络与政府间关系 | [[Walter J. M. Kickert\|Kickert (1995, pp. 148–150)]] |
 
@@ -333,7 +334,7 @@ updated: 2026-10-16
 > |---|---|---|---|
 > | **[[Social Ventures Australia\|SVA]] 枢纽与跨界兼职** | 麦肯锡前高管 McLean、Traill、Spencer | Spencer 兼任生产力委员会专员，Traill 兼任内阁部工作组成员 | 推动国家教育证据调查，政府直接采纳 SVA 设立证据机构建议（p. 3） |
 > | **英国 [[Education Endowment Foundation\|EEF]] 与跨国投行资助** | [[Sutton Trust\|萨顿信托]]、[[Impetus]]、高盛、美洲银行、必和必拓 | EEF 联合必和必拓注资 SVA 子公司 [[Evidence for Learning\|E4L]] 试验工具包 | 跨国模式输入，促成全国学校改革协议 5000 万澳元联合财政注资（pp. 6–8） |
-> | **AERO 董事会共同从属** | Lisa O'Brien（前 SVA 董事）、Roger Massy-Greene（SVA 捐赠人兼前美洲银行高管）、[[Sir Kevan Collins]]（前 EEF CEO） | 决策层由风险慈善理事、金融投行顾问与跨国证据中介高管深度占据 | 公司章程明定董事须具慈善界合作资历，享有首期 18 个月审计豁免（pp. 5, 9–11） |
+> | **AERO 董事会共同从属** | Lisa O'Brien（前 SVA 董事）、Roger Massy-Greene（SVA 捐赠人兼前美洲银行高管）、[[Sir Kevan Collins]]（前 EEF CEO） | 决策层由[[Social Impact Investing\|风险慈善]]理事、金融投行顾问与跨国证据中介高管深度占据 | 公司章程明定董事须具慈善界合作资历，享有首期 18 个月审计豁免（pp. 5, 9–11） |
 
 > [!ref-table]- 表四：异层政策网络中的公共财政倒流与制度装配实态（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 522, 526–531]]）
 > 

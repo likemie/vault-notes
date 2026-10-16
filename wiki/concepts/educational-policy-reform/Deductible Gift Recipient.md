@@ -10,7 +10,7 @@ aliases:
 summary: "澳大利亚税法中赋予特定非营利机构接受企业与个人捐款并向捐赠人提供全额个税扣除的法定特许资质（以 DGR1 为最高等级）；在教育政策中作为国家特许的法律与财政管道，引导免税资本绕过公共部门直达特定中介，构成异层治理的核心物质载体。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 13
+related_count: 14
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Venture Philanthropy]]"
   - "[[Seed Funding]]"
   - "[[Professional Judgment]]"
+  - "[[Social Impact Investing]]"
   - "[[Construct]]"
 related_theories: []
 related_methods:
@@ -132,7 +133,7 @@ updated: 2026-10-16
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **法定装配命题** | DGR1 特许立法是国家将风险慈善制度化装配入公共教育的耐用材料 | 教育税法改革、非营利法案修正 | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] |
+> | **法定装配命题** | DGR1 特许立法是国家将[[Social Impact Investing\|风险慈善]]制度化装配入公共教育的耐用材料 | 教育税法改革、非营利法案修正 | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] |
 > | **财政异化命题** | DGR1 减税渠道加剧财政倒流并使公立学校沦为商业附庸 | 慈善募款审查、公私教育资源平衡 | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] |
 
 ---

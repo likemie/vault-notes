@@ -10,7 +10,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 33
+fact_related_count: 34
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Philanthrocapitalism]]"
   - "[[Selective Education]]"
   - "[[Evidence-Based Education]]"
+  - "[[Social Impact Investing]]"
 related_theories: []
 related_methods:
   - "[[Ethnography]]"
@@ -187,7 +188,7 @@ updated: 2026-10-16
 > | [[BHP Foundation]] | Fact (Organization) | 联合 EEF 与萨顿信托生态开展全球[[Evidence Network\|证据网络]]扩张的跨国矿业资本方。 |
 > | [[Selective Education]] | Concept | 萨顿信托长期通过系列研究批判[[Grammar School\|文法学校]]加剧阶层分化的弊端。 |
 > | [[Evidence-Based Education]] | Concept | 萨顿信托被英国教育部列为官方认可的实证机构，引领了教育政策循证转型的议程。 |
-> | [[Policy Network]] | Concept | 萨顿信托在跨国政策网络与风险慈善流动中充当关键节点。 |
+> | [[Policy Network]] | Concept | 萨顿信托在跨国政策网络与[[Social Impact Investing\|风险慈善]]流动中充当关键节点。 |
 > | [[Venture Philanthropy]] | Concept | 萨顿信托与 [[Impetus]] 所代表的现代风险慈善与商业资本运作[[Paradigm\|范式]]。 |
 > | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | 关键论证 | 映射萨顿信托背后的跨国投行、跨国律所资助网络及其向 EEF 和澳洲的资本输出。 |
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] | 关键论证 | 记录萨顿信托发起创设 EEF 的历史经纬、法定留本基金运营及清算中心联合治理架构。 |

@@ -6,10 +6,10 @@ aliases:
 summary: "指在教育系统内外通过建立跨界网络、识别政策机会窗口并策略性整合实证证据与价值话语推动政策变迁的能动主体。在理性主义比较教育传统中，政策企业家是全球治理与多行动者网络中开展远处治理的核心协调力量；在公共政策生命周期中，他们动态整合实证差距指标与两党核心价值以打破既有体制垄断；在新自由主义教育私有化改革中，他们依托教育管理组织（EMO）的双层法人架构，在公共行政、非营利信托与营利性商业公司之间无缝切换，实现学术知识产权的品牌化变现与制度套利，进而对传统代议制民主问责构成严峻挑战。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 51
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 44
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - concept/policy-entrepreneur
   - theme/educational-privatisation

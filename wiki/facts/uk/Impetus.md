@@ -11,7 +11,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 23
+fact_related_count: 24
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Social Science as Legitimation Alibi]]"
   - "[[Educational Brokerage Agency]]"
+  - "[[Social Impact Investing]]"
 related_theories: []
 related_methods:
   - "[[Network Analysis]]"
@@ -158,7 +159,7 @@ updated: 2026-10-16
 > | [[Social Ventures Australia]] | Fact (Organization) | 澳大利亚[[Venture Philanthropy\|风险慈善]]镜像机构，共享美洲银行、普华永道等资助网络。 |
 > | [[EEF Teaching and Learning Toolkit]] | Fact (Instrument) | Impetus 参与推动并监督的循证决策工具包。 |
 > | [[BHP Foundation]] | Fact (Organization) | 共同卷入跨国[[Evidence-Based Education\|循证教育]]生态资助网络的跨国资本方。 |
-> | [[Venture Philanthropy]] | Concept | Impetus 属于英国最典型、最资深的风险慈善与私募股权基金会组织形态。 |
+> | [[Venture Philanthropy]] | Concept | Impetus 属于英国最典型、最资深的[[Social Impact Investing\|风险慈善]]与私募股权基金会组织形态。 |
 > | [[Policy Network]] | Concept | Impetus 充当了跨国投行资本连接英国政府与海外政策网络的关键枢纽。 |
 > | [[Argument_Rowe_2022_IJER\|Rowe (2022)]] | 关键论证 | 映射 Impetus 背后的跨国私募股权资助网络及其对 EEF 的资本输出。 |
 
