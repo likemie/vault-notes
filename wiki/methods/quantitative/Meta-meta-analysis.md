@@ -16,7 +16,7 @@ summary: "在更高层级汇总多个已发表元分析结果的统计综合方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 94
+method_related_count: 97
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -322,7 +322,7 @@ updated: 2026-10-16
 > [!contrast-table] [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] 二阶元分析 6 项方法论要求及其违背后果审计
 > | 要求编号 | 方法论准则与规范要求 | 违背类型 | 对效应量 $d$ 与标准误 $SE_d$ 的影响后果与实证案例 |
 > |---|---|---|---|
-> | **要求 1** | 统一效应量测度（推荐 Hedges' $g$），正确计算合并标准差，严格区分 SE 与 SD，执行 Fisher's $z$ 转换。 | 测度混合 / SE 与 SD 混淆 | 效应量可放大或缩小十倍（如 Eisenstaedt 案例因误将 $\text{SE} = 1.65$ 作除数导致 $d$ 从 $-0.80$ 膨胀至 $-8.291$），极端值严重扭曲总体平均。 |
+> | **要求 1** | 统一效应量测度（推荐 Hedges' $g$），正确计算合并标准差，严格区分 SE 与 SD，执行 Fisher's $z$ 转换。 | 测度混合 / [[Standard Error\|SE]] 与 SD 混淆 | 效应量可放大或缩小十倍（如 Eisenstaedt 案例因误将 $\text{SE} = 1.65$ 作除数导致 $d$ 从 $-0.80$ 膨胀至 $-8.291$），极端值严重扭曲总体平均。 |
 > | **要求 2** | 一级元分析必须按精度反比加权（$w_{ji} = 1/v_{ji}$），严禁使用简单算术平均。 | 一级未加权平均 | 估计非最优；破坏最佳线性无偏估计（BLUE）性质，$p$ 值与置信区间失真，系统性低估标准误。 |
 > | **要求 3** | 纳入的一阶元分析必须基于**互不重叠的主要研究集**，确保抽样独立性。 | 主要研究重复计数 | 重复数据被赋予不成比例的过大权重，[[Confidence Interval\|置信区间]]虚假变窄，显著性检验假阳性膨胀（如 Olson & Wisher 与 Sitzmann 重叠 93.3%）。 |
 > | **要求 4** | 每个一级元分析必须完整报告联合效应量 $d_j$ 及其方差/标准误/置信区间。 | 方差与精度信息缺失 | 无法确定真实权重与精度边界，迫使后续研究武断设定伪[[Standard Error\|标准误]]。 |
