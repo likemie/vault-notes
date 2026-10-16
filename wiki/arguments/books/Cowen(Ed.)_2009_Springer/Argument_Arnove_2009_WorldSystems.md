@@ -99,7 +99,7 @@ sources:
 part_of: "[[books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer|Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-09-29
-updated: 2026-09-29
+updated: 2026-10-16
 ---
 # Argument_Arnove_2009_WorldSystems
 

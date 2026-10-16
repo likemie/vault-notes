@@ -123,7 +123,7 @@ sources:
 part_of: "[[Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-09-28
-updated: 2026-10-09
+updated: 2026-10-16
 subtype: book-chapter
 publication_type: book-chapter
 title: "Argument_Mitter_2009_Europe"

@@ -62,7 +62,7 @@ related_facts:
   - "[[Horizon Europe]]"
 status: draft
 created: 2026-10-06
-updated: 2026-10-06
+updated: 2026-10-16
 tags:
   - argument/report
   - industrial-policy

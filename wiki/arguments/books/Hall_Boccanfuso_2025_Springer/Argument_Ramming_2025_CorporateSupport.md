@@ -79,7 +79,7 @@ sources:
 part_of: "[[Hall_Boccanfuso_2025_Springer_overview]]"
 status: active
 created: 2026-06-03
-updated: 2026-10-08
+updated: 2026-10-16
 book_title: "University-Industry Collaboration: Innovation at the Interface"
 publication_place: "Cham"
 publisher: "Springer"

@@ -66,7 +66,7 @@ related_facts:
   - "[[Academic Ranking of World Universities]]"
 status: completed
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-16
 ---
 # Argument_Garcia_Garrido_2009_SpainEU
 

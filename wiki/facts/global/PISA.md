@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 118
+fact_related_count: 119
 fact_related_level: 6
 fact_related_stars: "⭐⭐⭐⭐⭐⭐"
 fact_related_color: "#fecdd3"
@@ -74,6 +74,7 @@ related_concepts:
   - "[[Social Imaginary]]"
   - "[[Cultural Validity]]"
   - "[[Higher-Order Thinking Skills]]"
+  - "[[Zone of Desired Effects]]"
   - "[[Center of Calculation]]"
   - "[[PISA Shock]]"
   - "[[Plaintive Comparison]]"
@@ -94,6 +95,7 @@ related_persons:
   - "[[Nikolas Rose]]"
   - "[[Dominique Foray]]"
   - "[[Bengt-Åke Lundvall]]"
+  - "[[John Hattie]]"
   - "[[Wolfgang Mitter]]"
   - "[[Torsten Husén]]"
   - "[[José Luis García Garrido]]"
@@ -139,6 +141,7 @@ related_arguments:
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_McDonnell_2013_AmJE]]"
   - "[[Argument_DeJong_2023_ERR]]"
+  - "[[Argument_Wecker_2016_ZfE]]"
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Creative Problem Solving]]"
@@ -289,6 +292,7 @@ updated: 2026-10-16
 > - **教学因果误读与高分低趣悖论** 问卷缺陷引发“探究负相关”假象，事实上教师[[Inquiry-Based Learning|指导式探究]]具有显著正效应；同时东亚等高分体系普遍伴生高焦虑与低幸福感（详见 [[Critique of PISA]] 命题四与 [[PISA Scientific Literacy]]）。
 > - **形式入学机会对实质教育正义的窄化** 尽管 PISA 背景问卷揭示了学生社会经济地位（SES）与[[Academic Achievement|学业成就]]之间的显著相关性（以及男生在阅读素养上的普遍劣势），大卫·伯利纳（David Berliner, 2007）以及里兹维与林加德指出，PISA 将教育公平狭隘地界定为形式上的入学机会（formal access），回避了更深层的教育正义（educational justice）与结构性不平等问题，使公平议题沦为支撑[[Knowledge-Based Economy|知识经济]][[Social Imaginary|社会想象]]与[[Human Capital Theory|人力资本]]最大化的附属指标。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 448–449)]]
 > - **[[Space of Equivalence|等值空间]]虚构与[[Reliability|信度]]优先导致的[[Construct Validity|构念效度]]消解** 为实现全球范围内的机械可比性，PISA 依赖复杂的心理测量学标准化程序强行虚构跨国“等值空间”（space of equivalence），但其代价是牺牲[[Cultural Validity|文化效度]]。大量深植于本土语言与历史文化语境的[[Higher-Order Thinking Skills|高阶思维]]题目因无法在跨国样本中保持统计一致性而被系统剔除，使评估在追求测量信度（reliability）的同时消解了教育测量的实质[[Construct Validity|构念效度]]（validity）（详见 [[Critique of PISA]] 命题五）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446–448)]]
+> - **纵向学力自然成长基准与“0.40 关节点神话”破灭** 针对宏观综合者（如[[John Hattie|哈蒂]]）将 $d = 0.40$ 武断设定为“一学年学业成长”（[[Zone of Desired Effects|Hinge Point]]）并贬抑低于该值教学干预的做法，德国学者援引 PISA 与 [[TIMSS]] 等大规模纵向追踪实证（Roppelt et al., 2013; Köller, 2012; [[Argument_Wecker_2016_ZfE|Wecker et al., 2016, p. 33]]）指出：在真实复杂的代表性学生群体中，全学年的常态学业能力增长通常仅在 $0.20$ 至 $0.40$ 个标准差之间（每学期仅约 $0.15–0.20$）。PISA 与 TIMSS 提供的宏观基准揭示，$d = 0.20–0.30$ 的教学干预已代表了具有重大现实价值的扎实学力提升，从而有力推翻了脱离学校实际的 0.40 门槛神话。
 
 ---
 
@@ -337,6 +341,7 @@ updated: 2026-10-16
 > | **方法学争议与学界批评** | [[Critique of PISA]] | 概念 | 学术界对 PISA 构念虚构、[[Epistemology\|认识论]]侵蚀、测量偏差与政治操弄的系统批判；学理争鸣扩充维护于此。 |
 > | **方法学争议与学界批评** | [[2014 Open Letter on PISA]] | 事实 | 全球逾百名学者联名公开信，系统抨击 PISA 对全球基础教育的负外部性。 |
 > | **方法学争议与学界批评** | [[Navigation Metaphor in Comparative Education]] | 概念 | 战后比较教育所倡导的超然咨询范式，后遭 PISA 标杆治理与技术官僚问责颠覆。 |
+> | **方法学争议与学界批评** | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 引用 PISA/TIMSS 纵向成长基准（0.20–0.40 SD/年）反驳[[John Hattie\|哈蒂]] 0.40 关节点神话的德国批判文献。 |
 > | **学科史与代表人物** | [[Comparative Education Society in Europe]] | 事实 | 战后欧洲大学比较教育学术共同体，其学术网络与 PISA 大规模测验演进长期分道扬镳。 |
 > | **学科史与代表人物** | [[Alain Desrosières]] | 人物 | 提出等值空间与通约理论，为解构 PISA 跨国度量虚构提供统计社会学分析工具。 |
 > | **学科史与代表人物** | [[Nikolas Rose]] | 人物 | 提出“数字即政策”与远处治理理论，揭示 PISA 数字统治威权如何将政治决断去政治化。 |

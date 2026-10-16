@@ -61,7 +61,7 @@ sources:
   - "[[sources/Schulte_2009_EncuentrosEducacion|Schulte_2009_EncuentrosEducacion]]"
 status: draft
 created: 2026-05-26
-updated: '2026-06-08'
+updated: 2026-10-16
 year: 2009
 doi: ""
 citation_aliases:

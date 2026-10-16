@@ -8,7 +8,7 @@ aliases:
 summary: "正面或显著结果比零结果或负面结果更可能被发表或传播的系统性倾向，导致已发表文献库系统性高估干预的真实有效性；元分析中常结合漏斗图、Egger检验、剪补法与失安全数进行综合诊断与稳健性校正"
 type: concept
 domain: "research-methodology"
-related_count: 41
+related_count: 42
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Evaluator Independence]]"
   - "[[Cumulative Knowledge Base]]"
   - "[[Epistemic Cognition]]"
+  - "[[Data Infrastructure]]"
   - "[[Paradigm]]"
   - "[[Knowledge Mobilisation]]"
   - "[[Heterogeneity]]"
@@ -47,6 +48,7 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Confidence Interval]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Meta-meta-analysis]]"
   - "[[Systematic Review]]"
   - "[[Random-Effects Model]]"
   - "[[Experimental Research]]"
@@ -62,9 +64,9 @@ related_arguments:
   - "[[Argument_Revai_2022_ChangingLandscape]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
   - "[[Argument_Kraft_2023_ER]]"
+  - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Argument_Zhao_2025_JIntell]]"
   - "[[Argument_Higgins_2016_ROE]]"
-  - "[[Argument_Wecker_2016_ZfE]]"
 confidence: high
 status: active
 created: 2026-05-02
@@ -160,6 +162,16 @@ updated: 2026-10-16
 
 ---
 
+### 命题三　二阶元分析复合放大商业出版偏倚，唯有依托解耦出版的开放数据基础设施方能从源头终结抽屉效应
+
+> [!concept-lens] 基础设施解耦与一级全量数据归档
+> 探讨商业学术出版的篇幅与显著性筛选如何导致元数据剥离与偏倚放大，以及中央标准化[[Data Infrastructure|数据基础设施]]如何重塑证据合成[[Paradigm|范式]]。
+
+> [!claim] Wecker, C., et al.
+> **商业出版扭曲与全量证据数据基础设施** 商业学术期刊出于篇幅限制常强制删减主要研究的基础统计数据（如实验组与对照组[[Sample Size Determination|样本量]] $n_E, n_C$、标准差 $s_E, s_C$），且因偏好显著正向结果而系统性拒收零效应研究；以 Hattie 为代表的“二阶[[Meta-meta-analysis|元元分析]]”直接抓取各商业期刊发表的一阶元分析进行简单二次汇总，不仅无法消除发表偏倚，反而使抽屉效应与数学估算误差在层级综合中被复合放大。解决该问题的根本出路在于将实证结果归档与商业期刊出版彻底解耦，由学术界建立跨机构的中央开放[[Data Infrastructure|数据基础设施]]（Zentrale Datenbank），强制无条件收集所有经资助实证研究的方法、原始数据矩阵与标准化[[Effect Size|效应量]]（统一采用 Hedges' $g$）；同时在学术评价制度中将数据存缴认定为“适合成果清单的学术产品”（Publikationslisten），从而阻断文件抽屉效应，推动[[Evidence-Based Education|循证教育]]走向动态、透明的一阶元分析。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 34–36)]]
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -167,33 +179,36 @@ updated: 2026-10-16
 > |---|---|---|---|
 > | **证据扭曲命题** | 出版与资助生态对显著正面结果的偏好导致文献库效应量系统性虚夸，掩盖真实失败率 | 元分析效应量解释、循证政策审查 | [[Argument_Wolf_2020_JREE\|Wolf et al. (2020)]]; [[Argument_Kraft_2023_ER\|Kraft (2023)]] |
 > | **稳健性检验命题** | 结合剪补法、失安全数与回归检验可量化偏倚下调幅度，确立核心因果推论的稳健性边界 | 元分析偏倚审计、敏感性分析与稳健性报告 | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]]; [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] |
+> | **基础设施解耦命题** | 商业出版篇幅与显著性偏爱剥离原始统计量，二阶元分析复合放大偏倚；需建立解耦出版的中央数据基础设施实现全量归档 | 循证证据库建设、科研数据治理与动态一阶元分析 | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] |
 
 ---
 
 ## 概念演变
 
 > [!dev-timeline] 发表偏倚的概念演变
-> - **1940 — Pratt and Rhine 最早检测** 在对 145 项超感知觉实验的[[Systematic Review\|系统性综述]]中首次估计未发表论文对汇总效果的影响，开启了对抽屉效应的方法学关注。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, p. 35)]]
-> - **1991 — Rosenthal [[Fail-Safe N\|经典失安全数]]** 提出量化文件抽屉效应的经典方法，通过计算推翻显著结论所需零效应研究数量评估证据稳健性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|(Cohen et al., 2011, Ch17, p. 355)]]
-> - **1995 — Vevea & Hedges 权重函数模型** 提出针对[[Meta-analysis\|元分析]]中不同 p 值区间赋予权重的参数化统计校正模型。
-> - **2000 — Duval & Tweedie [[Trim and Fill Method\|剪补法]]普及** 提出基于对称性的非参数剪除与虚拟填补算法，成为国际元分析审计发表偏倚的标准配置。
-> - **2020 — Wolf et al. 解构[[Developer Effect\|开发者效应]]** 将权重函数模型应用于开发者与独立评估[[Effect Size\|效应量]]比较，证实发表偏倚贡献了开发者效应的 66%。[[Argument_Wolf_2020_JREE\|(Wolf et al., 2020, p. 442)]]
-> - **2021 — Cartiff et al. 多方法严密诊断[[Paradigm\|范式]]** 在《教育心理学杂志》（JEP）元分析中建立包含离群值缩尾、[[Funnel Plot\|漏斗图]]、Egger 回归、剪补法、Rosenthal 及 Orwin 双失安全数的多工具互证规范。[[Argument_Cartiff_2021_JEP\|(Cartiff et al., 2021, pp. 484–485)]]
-> - **2022 — Révai [[Knowledge Mobilisation\|知识动员]]系统批评** 将发表偏倚从统计学技术问题提升至知识动员生态危机高度，揭示出版商偏好对[[Cumulative Knowledge Base\|累积性知识库]]的阻滞。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, p. 22)]]
-> - **2023 — Kraft 教育 [[Randomised Controlled Trials\|RCT]] 经验基准** 基于大规模试验实证分布，指出发表偏倚导致教育实证文献中的项目有效率被严重虚夸。[[Argument_Kraft_2023_ER\|(Kraft, 2023, p. 186)]]
+> - **1940 — Pratt and Rhine 最早检测** 在对 145 项超感知觉实验的[[Systematic Review|系统性综述]]中首次估计未发表论文对汇总效果的影响，开启了对抽屉效应的方法学关注。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 35)]]
+> - **1991 — Rosenthal [[Fail-Safe N|经典失安全数]]** 提出量化文件抽屉效应的经典方法，通过计算推翻显著结论所需零效应研究数量评估证据稳健性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch17, p. 355)]]
+> - **1995 — Vevea & Hedges 权重函数模型** 提出针对[[Meta-analysis|元分析]]中不同 p 值区间赋予权重的参数化统计校正模型。
+> - **2000 — Duval & Tweedie [[Trim and Fill Method|剪补法]]普及** 提出基于对称性的非参数剪除与虚拟填补算法，成为国际元分析审计发表偏倚的标准配置。
+> - **2016 — Wecker et al. 批判[[Meta-meta-analysis|二阶元分析]]偏倚倍增与中央[[Data Infrastructure|数据基础设施]]方案** 揭示商业期刊篇幅与显著性偏好对实证元数据的剥离，指出二阶元分析复合放大发表偏倚，提出解耦商业出版的中央标准化证据数据库并倡导将数据存缴计入学术成果清单（Publikationslisten）。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 34–36)]]
+> - **2020 — Wolf et al. 解构[[Developer Effect|开发者效应]]** 将权重函数模型应用于开发者与独立评估[[Effect Size|效应量]]比较，证实发表偏倚贡献了开发者效应的 66%。[[Argument_Wolf_2020_JREE|(Wolf et al., 2020, p. 442)]]
+> - **2021 — Cartiff et al. 多方法严密诊断[[Paradigm|范式]]** 在《教育心理学杂志》（JEP）元分析中建立包含离群值缩尾、[[Funnel Plot|漏斗图]]、Egger 回归、剪补法、Rosenthal 及 Orwin 双失安全数的多工具互证规范。[[Argument_Cartiff_2021_JEP|(Cartiff et al., 2021, pp. 484–485)]]
+> - **2022 — Révai [[Knowledge Mobilisation|知识动员]]系统批评** 将发表偏倚从统计学技术问题提升至知识动员生态危机高度，揭示出版商偏好对[[Cumulative Knowledge Base|累积性知识库]]的阻滞。[[Argument_Revai_2022_ChangingLandscape|(Révai, 2022, p. 22)]]
+> - **2023 — Kraft 教育 [[Randomised Controlled Trials|RCT]] 经验基准** 基于大规模试验实证分布，指出发表偏倚导致教育实证文献中的项目有效率被严重虚夸。[[Argument_Kraft_2023_ER|(Kraft, 2023, p. 186)]]
 
 ---
 
 ## 争议与批评
 
 > [!warning] 统计校正模型的前提假设与适用局限
-> - **权重函数模型与[[Trim and Fill Method\|剪补法]]的模型假设** Vevea-Hedges 权重模型高度依赖发表概率与 p 值区间的先验假设；剪补法假定[[Funnel Plot\|漏斗图]]不对称完全源于发表偏倚，但在真实研究中，小样本研究质量较差、干预强度更高或研究间实质[[Heterogeneity\|异质性]]同样会导致漏斗图不对称，机械剪补可能过度下调真实效应。[[Argument_Wolf_2020_JREE\|(Wolf et al., 2020, p. 442)]]
-> - **官方清算机构（[[What Works Clearinghouse\|WWC]]）数据的特殊性** 由于美国联邦项目资助合同强制要求提交结题评估报告，美国强效清算中心（WWC）库容中包含了大量独立评估的零效应报告；因此一般商业期刊文献库中的发表偏倚通常远比 WWC 数据严重。
+> - **权重函数模型与[[Trim and Fill Method|剪补法]]的模型假设** Vevea-Hedges 权重模型高度依赖发表概率与 p 值区间的先验假设；剪补法假定[[Funnel Plot|漏斗图]]不对称完全源于发表偏倚，但在真实研究中，小样本研究质量较差、干预强度更高或研究间实质[[Heterogeneity|异质性]]同样会导致漏斗图不对称，机械剪补可能过度下调真实效应。[[Argument_Wolf_2020_JREE|(Wolf et al., 2020, p. 442)]]
+> - **官方清算机构（[[What Works Clearinghouse|WWC]]）数据的特殊性** 由于美国联邦项目资助合同强制要求提交结题评估报告，美国强效清算中心（WWC）库容中包含了大量独立评估的零效应报告；因此一般商业期刊文献库中的发表偏倚通常远比 WWC 数据严重。
 
 > [!critique] 基础设施层面的系统性治理方案：中央证据数据库
-> [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, pp. 34–36)]] 在对 Hattie 可见学习的方法学批判中，指出仅靠事后统计校正无法彻底解决发表偏倚，必须从科研基础设施层面建立中央证据数据库：
-> - **不分发表状态的全量归档** 强制无条件收集所有经资助的实证研究的方法、原始数据与结果，直接在中央数据库中以标准化格式开放，从根本上阻断文件抽屉效应。
-> - **统一[[Effect Size\|效应量]]标准与透明数据表** 统一采用 Hedges' g 规范无偏估计，要求每个[[Meta-analysis\|元分析]]必须附带主要研究的完整元数据表，终结 Hattie 式的不透明数据综合。
+> [[Argument_Wecker_2016_ZfE|Wecker et al. (2016, pp. 34–36)]] 在对 Hattie 可见学习的方法学批判中，指出仅靠事后统计校正无法彻底解决发表偏倚，必须从科研基础设施层面建立中央证据数据库：
+> - **商业出版篇幅限制与元数据剥离** 商业学术期刊对版面篇幅的严苛限制导致作者普遍删去主要研究的基础统计表（如 $n_E, n_C, s_E, s_C$），使后续[[Meta-analysis|元分析]]丧失严谨加权与[[Standard Error|标准误]]计算的依据；加之期刊对显著性结果的偏爱，形成商业出版维度的系统性偏倚源。
+> - **[[Meta-meta-analysis|二阶元分析]]对发表偏倚的复合放大** 像 Hattie 式的二阶元元分析对各商业期刊发表的一阶元分析进行简单再合并，非但不能稀释发表偏倚，反而使初始偏倚与模型估算错误在二次合成中成倍累加。
+> - **不分发表状态的全量归档与出版清单激励** 建议将实证研究归档与商业期刊出版彻底解耦，由学术共同体建立中央[[Data Infrastructure|数据基础设施]]（Zentrale Datenbank），强制无条件收集所有经资助研究的方法、全量原始数据矩阵与标准化[[Effect Size|效应量]]（统一采用 Hedges' $g$）；同时在制度上将数据存缴直接认定为“适合列入出版物清单的学术成果”（Publikationslisten; Stanat, 2012），从激励机制根源消除文件抽屉效应，为动态一级元分析奠定透明基石。
 
 ---
 

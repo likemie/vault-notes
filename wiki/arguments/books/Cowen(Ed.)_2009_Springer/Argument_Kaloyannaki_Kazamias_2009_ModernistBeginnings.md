@@ -116,7 +116,7 @@ sources:
 part_of: "[[Argument_Cowen(Ed.)_2009_Springer]]"
 status: draft
 created: 2026-09-06
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 # Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings
 

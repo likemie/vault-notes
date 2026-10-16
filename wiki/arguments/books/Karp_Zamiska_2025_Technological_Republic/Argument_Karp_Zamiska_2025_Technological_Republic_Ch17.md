@@ -84,7 +84,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-08
-updated: 2026-10-09
+updated: 2026-10-16
 ---
 # Argument_Karp_Zamiska_2025_Technological_Republic_Ch17
 

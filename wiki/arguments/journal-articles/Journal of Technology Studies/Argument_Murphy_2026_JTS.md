@@ -59,7 +59,7 @@ sources:
 part_of:
 status: active
 created: 2026-10-04
-updated: 2026-10-05
+updated: 2026-10-16
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Murphy_2026_JTS"

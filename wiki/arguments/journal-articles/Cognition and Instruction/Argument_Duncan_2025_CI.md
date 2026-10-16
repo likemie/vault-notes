@@ -79,7 +79,7 @@ sources:
 part_of:
 status: draft
 created: 2026-09-10
-updated: 2026-09-15
+updated: 2026-10-16
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Duncan_2025_CI"

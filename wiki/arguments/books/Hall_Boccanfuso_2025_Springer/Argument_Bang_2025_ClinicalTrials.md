@@ -47,7 +47,7 @@ part_of: "[[Hall_Boccanfuso_2025_Springer]]"
 related_instruments: []
 status: draft
 created: 2026-06-03
-updated: 2026-09-07
+updated: 2026-10-16
 subtype: book-chapter
 publication_type: book
 title: "Argument_Bang_2025_ClinicalTrials"

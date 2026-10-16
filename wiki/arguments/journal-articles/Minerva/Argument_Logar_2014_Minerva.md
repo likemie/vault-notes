@@ -59,7 +59,7 @@ related_facts:
   - "[[EU]]"
 status: draft
 created: 2026-10-05
-updated: 2026-10-05
+updated: 2026-10-16
 tags:
   - theme/university-industry-collaboration
   - theme/science-policy

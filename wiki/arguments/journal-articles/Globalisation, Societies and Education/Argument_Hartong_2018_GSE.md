@@ -83,7 +83,7 @@ sources:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-10-16
 ---
 # Argument_Hartong_2018_GSE
 

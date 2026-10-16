@@ -115,7 +115,7 @@ sources:
 part_of: "[[books/Cowen(Ed.)_2009_Springer/Cowen(Ed.)_2009_Springer|Cowen(Ed.)_2009_Springer]]"
 status: completed
 created: 2026-04-13
-updated: 2026-10-14
+updated: 2026-10-16
 ---
 # Argument_Rizvi_Lingard_2009_OECDEducationPolicy
 

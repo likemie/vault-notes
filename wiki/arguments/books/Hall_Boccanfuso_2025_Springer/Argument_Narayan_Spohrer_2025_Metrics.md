@@ -54,7 +54,7 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-28
-updated: '2026-08-27'
+updated: 2026-10-16
 subtype: book-chapter
 publication_type: book
 title: "Argument_Narayan_Spohrer_2025_Metrics"

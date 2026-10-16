@@ -66,7 +66,7 @@ related_facts:
   - "[[Early Steps]]"
 status: completed
 created: 2026-10-12
-updated: 2026-10-12
+updated: 2026-10-16
 sources:
   - "[[sources/Kickert_1995_Governance/Kickert_1995_Governance|Kickert_1995_Governance]]"
 ---

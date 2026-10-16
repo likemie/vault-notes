@@ -59,7 +59,7 @@ sources:
   - "[[sources/Schnee_1978_RP/Schnee_1978_RP|Schnee_1978_RP]]"
 status: active
 created: 2026-10-03
-updated: 2026-10-04
+updated: 2026-10-16
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Schnee_1978_RP"

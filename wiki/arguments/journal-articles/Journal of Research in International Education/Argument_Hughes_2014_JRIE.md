@@ -49,7 +49,7 @@ sources:
 part_of:
 status: draft
 created: 2026-08-03
-updated: 2026-09-24
+updated: 2026-10-16
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Hughes_2014_JRIE"

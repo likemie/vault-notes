@@ -38,7 +38,7 @@ sources:
 part_of: "[[Argument_Hall(Ed.)_2025_Springer]]"
 status: draft
 created: 2026-05-30
-updated: '2026-06-08'
+updated: 2026-10-16
 subtype: book-chapter
 publication_type: book
 title: "Argument_LernerLam_2025_TransdisciplinaryExecutiveEd"

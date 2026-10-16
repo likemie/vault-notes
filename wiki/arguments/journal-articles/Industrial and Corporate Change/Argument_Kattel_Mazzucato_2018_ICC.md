@@ -93,7 +93,7 @@ sources:
 part_of:
 status: active
 created: 2026-10-03
-updated: 2026-10-08
+updated: 2026-10-16
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Kattel_Mazzucato_2018_ICC"

@@ -258,7 +258,7 @@ related_methods:
   - "[[Effectiveness Trial]]"
 status: draft
 created: '2026-10-07'
-updated: '2026-10-09'
+updated: 2026-10-16
 ---
 # Argument_Karp_Zamiska_2025_Technological_Republic
 

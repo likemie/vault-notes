@@ -107,7 +107,7 @@ related_theories:
   - "[[Creative Problem Solving]]"
 status: draft
 created: 2026-08-23
-updated: '2026-09-12'
+updated: 2026-10-16
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Runco_2026_CRJ"

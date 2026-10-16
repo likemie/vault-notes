@@ -79,7 +79,7 @@ sources:
 part_of:
 status: draft
 created: 2026-08-17
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 # Argument_Peterson_1987_OpenCourt
 

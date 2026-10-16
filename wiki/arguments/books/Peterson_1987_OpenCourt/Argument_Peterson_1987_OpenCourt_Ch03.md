@@ -72,7 +72,7 @@ sources:
 part_of: "[[Argument_Peterson_1987_OpenCourt]]"
 status: draft
 created: 2026-08-17
-updated: '2026-08-27'
+updated: 2026-10-16
 ---
 # Argument_Peterson_1987_OpenCourt_Ch03
 

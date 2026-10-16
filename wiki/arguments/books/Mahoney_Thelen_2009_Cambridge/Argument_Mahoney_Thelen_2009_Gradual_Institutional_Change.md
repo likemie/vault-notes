@@ -79,7 +79,7 @@ related_arguments:
   - "[[Argument_Streeck_Thelen_2005_OUP]]"
 status: draft
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-16
 ---
 # Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change
 

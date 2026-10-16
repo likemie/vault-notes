@@ -73,7 +73,7 @@ sources:
 related_theories: []
 status: draft
 created: 2026-09-29
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 # Argument_Peterson_1987_OpenCourt_Ch07
 

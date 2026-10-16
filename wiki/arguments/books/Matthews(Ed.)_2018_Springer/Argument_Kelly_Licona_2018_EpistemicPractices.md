@@ -92,7 +92,7 @@ sources:
   - "[[books/Matthews(Ed.)_2018_Springer/Ch05_Kelly_Licona_2018|Ch05_Kelly_Licona_2018]]"
 status: draft
 created: 2026-09-21
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 # Argument_Kelly_Licona_2018_EpistemicPractices
 

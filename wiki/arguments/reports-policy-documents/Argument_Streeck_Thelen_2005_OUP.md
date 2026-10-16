@@ -62,7 +62,7 @@ sources:
 part_of:
 status: draft
 created: 2026-10-11
-updated: 2026-10-11
+updated: 2026-10-16
 subtype: report
 publication_type: book-chapter
 title: "Argument_Streeck_Thelen_2005_OUP"

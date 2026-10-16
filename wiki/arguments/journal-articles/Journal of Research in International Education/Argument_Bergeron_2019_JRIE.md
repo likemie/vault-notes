@@ -59,7 +59,7 @@ sources:
 part_of:
 status: draft
 created: 2026-08-05
-updated: 2026-09-16
+updated: 2026-10-16
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Bergeron_2019_JRIE"

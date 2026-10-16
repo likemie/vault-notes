@@ -55,7 +55,7 @@ sources:
   - "[[books/Peterson_1987_OpenCourt/Peterson_1987_OpenCourt|Peterson_1987_OpenCourt]]"
 status: draft
 created: 2026-10-07
-updated: 2026-10-08
+updated: 2026-10-16
 ---
 # Argument_Peterson_1987_OpenCourt_Ch08
 

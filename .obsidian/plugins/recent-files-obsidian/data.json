@@ -5,6 +5,14 @@
       "path": "wiki/arguments/journal-articles/Economic and Social Changes Facts, Trends, Forecast/Argument_Golovchin_2019_ESC.md"
     },
     {
+      "basename": "Argument_Glitz_2020_AmEconRev",
+      "path": "wiki/arguments/journal-articles/American Economic Review/Argument_Glitz_2020_AmEconRev.md"
+    },
+    {
+      "basename": "Argument_Manitius_vanHolt_2019_BzS",
+      "path": "wiki/arguments/journal-articles/Beiträge zur Schulentwicklung/Argument_Manitius_vanHolt_2019_BzS.md"
+    },
+    {
       "basename": "Critiques of Visible Learning",
       "path": "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Inter-American Development Bank",
       "path": "wiki/facts/latin-america/Inter-American Development Bank.md"
-    },
-    {
-      "basename": "Multilateral Development Bank",
-      "path": "wiki/concepts/comparative-education/Multilateral Development Bank.md"
-    },
-    {
-      "basename": "Argument_Rizvi_Lingard_2009_OECDEducationPolicy",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Rizvi_Lingard_2009_OECDEducationPolicy.md"
     }
   ],
   "omittedPaths": [],

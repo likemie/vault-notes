@@ -57,7 +57,7 @@ sources:
   - "[[sources/Reynolds_2024_JICT|Reynolds_2024_JICT]]"
 status: active
 created: 2026-10-06
-updated: 2026-10-06
+updated: 2026-10-16
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Reynolds_2024_JICT"

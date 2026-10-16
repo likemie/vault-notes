@@ -10,7 +10,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 26
+fact_related_count: 27
 fact_related_level: 3
 fact_related_stars: "⭐⭐⭐"
 fact_related_color: "#ede9fe"
@@ -39,11 +39,13 @@ related_methods:
   - "[[Trend Study]]"
   - "[[Questionnaire]]"
   - "[[Item Response Theory]]"
-  - "[[Matching]]"
   - "[[Effect Size]]"
+  - "[[Matching]]"
+  - "[[Meta-analysis]]"
 related_instruments: []
 related_persons:
   - "[[William H. Schmidt]]"
+  - "[[John Hattie]]"
 related_facts:
   - "[[IEA]]"
   - "[[PIRLS]]"
@@ -56,6 +58,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Dedering_2009_EERJ]]"
   - "[[Argument_McDonnell_2013_AmJE]]"
+  - "[[Argument_Wecker_2016_ZfE]]"
 confidence: high
 status: stable
 created: 2026-09-18
@@ -115,6 +118,7 @@ updated: 2026-10-16
 > - **宏观方位导向价值** 为参与国在国际数理教育格局中提供客观坐标，明确本国课程标准在全球视野中的高低位置。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, p. 494)]]
 > - **国家课程病理诊断与议程设置催化** 跨国课程分析揭示不同教育体制的课程广度与深度差异。例如在推进美国 [[Common Core State Standards|CCSS]] 运动中，TIMSS 比较课程数据被[[Policy Entrepreneur|政策企业家]]转化为诊断美国各州数学标准缺乏连贯性与深度的核心实证工具，有力推动建立精简、连贯且严格之国家级标准的政策共识。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 11–13)]]
 > - **微观治理指导效力不足** [[Argument_Dedering_2009_EERJ|Dedering (2009)]] 对德国教育行政科层的跟踪研究表明，教育官员清醒认识到 TIMSS 仅具宏观参考价值；由于其依赖抽样、概括性强且解释空间过大，无法直接指导单体学校的教学微调与薄弱校干预，其实际治理价值显著低于覆盖全量学校的[[Vergleichsarbeiten|校际比较测试]]（VERA）与过程性[[School Inspection|学校督导]]。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, pp. 494–495)]]
+> - **作为学业自然成长基准的纵向实证功能** 德国实证教育研究者（Roppelt et al., 2013; Köller, 2012; [[Argument_Wecker_2016_ZfE|Wecker et al., 2016, p. 33]]）指出，TIMSS 与 [[PISA]] 的跨期纵向跟踪为评估教学干预成效提供了客观的常态成长标尺：在学校真实情境下，一学年的平均学业能力进展仅在 $0.20–0.40$ 个标准差之间（每学期约 $0.15–0.20$）。这一基准有力纠正了宏观证据综合中脱离现实将 $d = 0.40$ 设为不可逾越“基线”的偏误，确立了 $0.20–0.30$ [[Effect Size|效应量]]在数理与科学教育中的实质政策价值。
 > - **产出局限性** 仅测试学业产出终点数据，缺乏对学校内部微观管理、校风文化及师生互动的过程性现场穿透。
 
 > [!citation-card] 政策企业家利用 TIMSS 诊断国家课程病理
@@ -156,6 +160,7 @@ updated: 2026-10-16
 > |---|---|---|---|---|---|---|
 > | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013, pp. 11–13)]] | 美国 50 州数学课程标准与高表现国课程对比 | 跨国课程对标与政策追踪分析 | 课程广度、深度与逻辑连贯性 | 证实美国州课程覆盖主题过多且缺乏深度（“一英里宽、一英寸深”）；高表现国聚焦少数核心概念深度进阶 | — | 为美国启动跨州统一标准（[[Common Core State Standards\|CCSS]]）提供了关键的国际基准与议程合法性 |
 > | [[Argument_Dedering_2009_EERJ\|Dedering (2009, pp. 494–495)]] | 德国教育行政科层官员访谈 | 追踪定性访谈与政策分析 | 国际测评在各州教育治理中的功能认知 | 官员普遍认同 TIMSS 具备宏观定位功能，但明确指出其无法直接推导微观改进举措 | — | 确立[[International Large-Scale Assessments\|国际大规模评估]]主要发挥宏观方位导向而非微观教学指导功能 |
+> | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, p. 33)]]（引述 Roppelt et al., 2013; Köller, 2012） | 德国大规模数理学业追踪与[[Meta-analysis\|元分析]]基准对比 | 宏观学业成长实证追踪与方法学审计 | 学期与学年常态能力成长幅度（$d$） | 证实学生全学年常态数理能力增长通常仅在 $0.20–0.40$ 个标准差（每学期 $0.15–0.20$） | 跨大规模评估稳定重现 | 击碎了哈蒂将 $d = 0.40$ 设定为排他性一学年成长基准的虚构神话，为客观评价教学法效应提供了现实依据 |
 
 ---
 
@@ -176,3 +181,4 @@ updated: 2026-10-16
 > | [[Standing Conference of the Ministers of Education and Cultural Affairs]] | Fact (Organization) | 决定德国参与 TIMSS 并协调跨州测试结果的国家最高教育协调机构。 |
 > | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | Argument | 剖析 TIMSS 数据在全美议程设置与 CCSS 课程改革中充当概念催化剂的实证文献。 |
 > | [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] | Argument | 实证评估 TIMSS 在德国教育部行政决策中宏观方位功能与治理局限性的期刊文献。 |
+> | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | Argument | 引用 TIMSS 与 PISA 纵向常态成长实证数据反驳[[John Hattie\|哈蒂]] 0.40 关节点神话的方法学审计文献。 |

@@ -59,7 +59,7 @@ sources:
 part_of:
 status: active
 created: 2026-10-02
-updated: 2026-10-08
+updated: 2026-10-16
 subtype: report
 publication_type: report
 title: "Argument_Stephan_2013_NBER"

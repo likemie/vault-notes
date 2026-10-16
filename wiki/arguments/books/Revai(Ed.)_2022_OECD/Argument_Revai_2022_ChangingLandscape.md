@@ -104,7 +104,7 @@ sources:
   - "[[books/Revai(Ed.)_2022_OECD/Ch01_Revai_2022|Ch01_Revai_2022]]"
 status: draft
 created: 2026-09-12
-updated: 2026-09-24
+updated: 2026-10-16
 ---
 # Argument_Revai_2022_ChangingLandscape
 

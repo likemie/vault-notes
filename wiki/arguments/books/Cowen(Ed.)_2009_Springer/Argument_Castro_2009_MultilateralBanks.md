@@ -83,7 +83,7 @@ sources:
   - "[[books/Cowen(Ed.)_2009_Springer/Ch29_Castro_2009|Ch29_Castro_2009]]"
 status: active
 created: 2026-10-14
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 # Argument_Castro_2009_MultilateralBanks
 

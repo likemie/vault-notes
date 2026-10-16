@@ -135,7 +135,7 @@ sources:
 part_of:
 status: active
 created: 2026-10-07
-updated: 2026-10-07
+updated: 2026-10-16
 subtype: report
 publication_type: report
 title: "Argument_Kratsios_2026_OSTP"

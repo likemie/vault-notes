@@ -80,7 +80,7 @@ sources:
 part_of: "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
 status: draft
 created: 2026-08-23
-updated: 2026-09-15
+updated: 2026-10-16
 ---
 # Argument_RoyalSociety_2026_ScienceForSociety_Ch02
 

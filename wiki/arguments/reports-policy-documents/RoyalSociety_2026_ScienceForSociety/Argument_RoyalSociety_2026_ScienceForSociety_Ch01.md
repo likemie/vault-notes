@@ -98,7 +98,7 @@ sources:
 part_of: "[[Argument_RoyalSociety_2026_ScienceForSociety]]"
 status: draft
 created: 2026-08-22
-updated: 2026-10-11
+updated: 2026-10-16
 ---
 # Argument_RoyalSociety_2026_ScienceForSociety_Ch01
 
