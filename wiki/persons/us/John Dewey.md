@@ -73,6 +73,7 @@ related_persons:
   - "[[Hu Shi]]"
   - "[[Jiang Menglin]]"
   - "[[Robert Cowen]]"
+  - "[[John Hattie]]"
 related_facts:
   - "[[New Education Movement]]"
   - "[[1922 Educational System Reform]]"
@@ -84,6 +85,8 @@ related_arguments:
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14]]"
   - "[[Argument_Ryabyy_2024_Maneto]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic]]"
+  - "[[Argument_Snook_2009_NZJES]]"
+  - "[[Argument_Hattie_2010_NZJES]]"
 confidence: high
 status: active
 created: 2026-05-26
@@ -133,10 +136,10 @@ updated: 2026-10-16
 >   - **代表著作** *How We Think* (1910), *Democracy and Education* (1916)。
 >   - **关键概念／方法** [[Active Learning|主动学习]]、[[Critical Thinking|批判性思维]]、在“做”（doing）中探究、对话、[[Reflexivity|反思性]]探究。
 >   - **阶段转向** 提出以“构建房屋模型”为代表的动手探究（doing），批判“听讲”的被动吸收状态（Dewey, 1902, p. 32），将[[Empiricism|经验论]]提升为公共民主生活与[[Freedom of the Learner|学习者的自由]]的哲学框架。
-> - **1920s–1930s — 实用主义气质、公共性批判与跨国传播时期**
->   - **代表著作** *Pragmatic America* (1922), *The Public and Its Problems* (1927), *The Quest for Certainty* (1929), *Experience and Education* (1938)。
->   - **关键概念／方法** 《实用主义美国》、[[Engineering Mindset|工程思维]]哲学源流、[[Scientific Attitude|科学态度]]、[[Recontextualization|再脉络化]]、[[Cultural Diplomacy|文化外交]]、[[Transfer Translation Transformation|3T 框架]]。
->   - **阶段转向** 阐发抗拒宏大先验体系、深入具体系统运作机理的实用主义精神；关注公共危机与确定性执念批判；其思想在华、在苏被选择性吸收与再利用，民主理想、科学态度与渐进方法在接收国语境中呈现出分化与重构。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024]]；[[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025]]）
+> - **1920s–1930s — 实用主义气质、确定性批判与跨国传播时期**
+>   - **代表著作** *Pragmatic America* (1922), *The Public and Its Problems* (1927), *The Quest for Certainty* (1929), *The Sources of a Science of Education* (1929), *Experience and Education* (1938)。
+>   - **关键概念／方法** 《实用主义美国》、[[Engineering Mindset|工程思维]]哲学源流、[[Scientific Attitude|科学态度]]、[[Recontextualization|再脉络化]]、[[Cultural Diplomacy|文化外交]]、[[Transfer Translation Transformation|3T 框架]]、实证证据作为探究假设（Hypotheses for Inquiry）。
+>   - **阶段转向** 阐发抗拒宏大先验体系、深入具体系统运作机理的实用主义精神；深刻批判对绝对确定性的狂热执念，确立教育科学实证数据不能作为指令性行动规则、只能作为情境化探究假设的[[Epistemology|认识论]]准绳；其思想在华、在苏被选择性吸收与再利用，民主理想、科学态度与渐进方法在接收国语境中呈现出分化与重构。（[[Argument_Zhou_2024_CE|Zhou & Westberg, 2024]]；[[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024]]；[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025]]；[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）
 
 ---
 
@@ -148,6 +151,8 @@ updated: 2026-10-16
 > 在现代课程与教育哲学对话中，杜威被确立为[[Active Learning|主动学习]]（Active Learning）的核心奠基人：他否定将学生视作“加仑事实”灌输容器的[[Banking Model of Education|储蓄式教育]]，强调只有赋予学生[[Freedom of the Learner|学习者的自由]]与能动主体（Subjects）地位，教育才能发生；[[Critical Thinking|批判性思维]]必须建立在“做”（doing）与[[Problem Solving|问题解决]]之上，而对话则是社区成员在民主互动中“共享经验的过程”，其终极目标在于实现个体的生长与自我实现（[[Growth|self-realization]]） [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 6–10)]]。
 > 
 > 在现代科技政策与工程哲学视域下，杜威被进一步确立为美国[[Pragmatic Paradigm|实用主义]]与[[Engineering Mindset|工程思维]]的哲学奠基人：他在《实用主义美国》（1922）中主张走下抽象超然的神坛，投身具体系统的泥泞激流，在给予完全赞同前探明真实系统如何运转，坚决抵制脱离实际的[[Grand Theory|宏大理论]]概括，构成了现代工程师以物理运行反馈与代码实测为检验准绳的[[Epistemology|认识论]]根基 [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, pp. 160–161)]]。
+> 
+> 在当代循证教育与二阶元分析论辩中，杜威被确立为解构“数字指标崇拜”与“效应量技术专制”的批判哲学旗帜：他断言实证证据绝不提供现成的行动规则，而仅仅为明智地解决问题和质询教育目的提供假设。教育实践内嵌着不可约简的价值判断（干预效益是否值得时间与精力成本？是否会为了微小测验提分而损伤学生的[[Creativity|创造力]]与交往能力？）。任何实证数据都必须经由教师的[[Professional Judgment|专业判断]]与信念整合，才能在具体教学情境中转化为审慎实践（[[Argument_Snook_2009_NZJES|Snook et al., 2009, pp. 93, 104]]；[[Argument_Hattie_2010_NZJES|Hattie, 2010]]）。
 
 > [!theory-components] 三环节主动学习与[[Pragmatic Paradigm|实用主义]]教育哲学构件
 > - **在“做”（doing）中探究与[[Critical Thinking|批判性思维]]**
@@ -156,6 +161,16 @@ updated: 2026-10-16
 >   批判单向“听讲”带来的被动与吸收状态（Dewey, 1902, p. 32），将对话定义为“共享经验的过程”（Dewey, 1961, p. 9），使学习者摆脱客体地位，成为共同探究者 [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 9–10)]]。
 > - **以自我实现为核心的生长（Growth）**
 >   坚信儿童是起点、中心与终点，否定将社会阶层或科目知识强加于儿童之上；生长本身就是教育的起点、过程与终极标准 [[Argument_Darwish_2009_Queens|(Darwish, 2009, pp. 7–8)]]。
+> - **证据作为问题解决的探究假设（Hypotheses for Inquiry）**
+>   实证数据并不直接包含技术操作指令，而是作为进入具体课堂情境后接受反思与检验的临时假设，必须与教师的专业伦理、实践经验与长远育人目标相融通 [[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 93, 104)]]。
+
+> [!contrast-table] 杜威实用主义证据观 vs 技术主义循证教育观多维辨析
+> | 比较维度 | 杜威实用主义证据观（Dewey, 1929; [[Argument_Snook_2009_NZJES|Snook et al., 2009]]） | 技术官僚主义循证观（批判靶标） |
+> |---|---|---|
+> | **证据本体地位** | 解决特定复杂情境问题的“探究假设”（Hypotheses for Problem Solving） | 指挥教师统一课堂操作的普适性“行动规则”（Rules for Action） |
+> | **实践决策机制** | 整合实证数据、教师信念、专业伦理与情境脉络的[[Professional Judgment\|专业判断]] | 依据[[Effect Size\|效应量]]高低机械匹配、硬性套用教学行为的技术化操作 |
+> | **价值审议考量** | 审慎权衡干预成本、投入产出比与潜在附带损害（如应试训练扼杀创造力） | 聚焦狭隘可测的标准化学业分数最大化，忽视非认知品格与社会性成长 |
+> | **教师角色认同** | 具备批判反思精神、能动性与探究智慧的专业行动者 | 机械服从宏观统计指标、流水线执行处方化教学的去专业化工具人 |
 
 ---
 
@@ -248,11 +263,15 @@ updated: 2026-10-16
 >
 > > [!axis] 苏联阶级意识形态与杜威儿童中心主义的冲突
 > > 1930年代苏联学界批评杜威的教育适应论忽略了阶级斗争与集体主义政治教育，最终导致苏联全面清退杜威思想。（[[Argument_Ryabyy_2024_Maneto|Ryabyy, 2024, pp.103–104]]）
+>
+> > [!axis] 循证教育的技术主义挪用与杜威探究假设论的抵抗
+> > 21 世纪初循证教育兴起后，[[John Hattie|哈蒂]]在《可见的学习》中引用杜威名言，承认实证研究只为明智解决问题提供假设（Hattie, 2008, p. 147）；但斯努克等学者指出，官僚将宏观效应量直接转化为指导一线教学的强制性操作指令与考核工具（如强推绩效工资与否定小班价值），在实践中彻底违背了杜威反教条的探究哲学，把情境化假设异化为了规训教师的技术主义专制（[[Argument_Snook_2009_NZJES|Snook et al., 2009, pp. 93, 104]]；[[Argument_Hattie_2010_NZJES|Hattie, 2010, pp. 88–91]]）。
 
 > [!critique]- 批评索引
 > - [[Argument_Darwish_2009_Queens|Darwish (2009)]] — 指出纯粹的杜威[[Pragmatic Paradigm|实用主义]]若缺乏对社会政治结构不公的批判与解决压迫的实践（[[Praxis]]）承诺，仍可能被去政治化为形式上的课程活动。
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 记录1950年代中国教育界对杜威自然主义、[[Pragmatic Paradigm|实用主义]]及所谓“反科学”立场的批判。
 > - [[Argument_Zhou_2024_CE|Zhou and Westberg (2024)]] — 评估“碎片化”概念预设完整整体的逻辑局限，指出外来理论在危局中被功能性筛选是跨国传播的常态。
+> - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 批判政策制定者断章取义截取元分析数据，指出违背杜威探究哲学的粗暴循证会导致一线教师去专业化。
 
 > [!warning] 未解问题与边界
 > 杜威关于“一步一个脚印”的渐进实验建言，在面对制度彻底腐朽或急迫存亡危机时，能否提供足够迅速的现实解决方案，仍是比较教育与政治哲学中持续争论的理论边界。
@@ -270,8 +289,11 @@ updated: 2026-10-16
 > | [[Dialogue in Education]] | 概念 | 将对话定义为社区民主沟通中“共享经验的过程”。 |
 > | [[Freedom of the Learner]] | 概念 | 主张赋予每个学习者选择主题、改造经验与自我实现的自由。 |
 > | [[Pragmatic Paradigm]] | 概念 | 提出实用主义哲学与经验探究论，重构科学与探究关系。 |
+> | [[Professional Judgment]] | 概念 | 实用主义证据假说论为捍卫教师专业判断力、抵制技术官僚去专业化提供认识论根基。 |
 > | [[Progressive Education]] | 概念 | 创立芝加哥实验学校，倡导活动课程与以儿童为中心的学习。 |
 > | [[Scientific Attitude]] | 概念 | 思想在华转化阶段被重构为注重客观事实与调查实验的科学态度。 |
 > | [[Engineering Mindset]] | 概念 | 实用主义精神（《实用主义美国》）作为现代工程思维与狐狸型经验[[Epistemology\|认识论]]的哲学奠基。 |
 > | [[Transfer Translation Transformation]] | 理论 | 作为分析杜威思想在华与跨国传播中拆解与重构的核心理论框架。 |
 > | [[New Education Movement]] | 政策 | 1919–1921年访华讲演直接推动民国新教育运动与1922年新学制改革。 |
+> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 论证 | 引用杜威论断批判《可见的学习》证据被政客异化为行政问责与绩效考核教条。 |
+> | [[Argument_Hattie_2010_NZJES\|Hattie (2010)]] | 论证 | 哈蒂引述杜威为自身元分析辩护，强调实证研究旨在为明智探究提供假设。 |

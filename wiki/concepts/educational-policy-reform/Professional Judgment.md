@@ -81,6 +81,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_persons:
   - "[[John Hattie]]"
+  - "[[John Dewey]]"
 related_facts:
   - "[[Students and Teachers Accessing Tomorrow]]"
   - "[[Common Core State Standards]]"
@@ -88,6 +89,7 @@ related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
   - "[[Social Ventures Australia]]"
+  - "[[The Scott Report]]"
 related_arguments:
   - "[[Argument_Nelson_2017_EducRes]]"
   - "[[Argument_Rickinson_2022_EducRes]]"
@@ -101,6 +103,8 @@ related_arguments:
   - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Rowe_2023_ECNUROE]]"
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
+  - "[[Argument_Snook_2009_NZJES]]"
+  - "[[Argument_Hattie_2010_NZJES]]"
 related_instruments:
   - "[[Teach Classroom Observation Tool]]"
   - "[[Assessment Tools for Teaching and Learning]]"
@@ -212,6 +216,9 @@ updated: 2026-10-17
 > [!claim] [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]]; Pawson (2006)
 > **开放系统与概率性资源定位** 教育实践是由符号、意义、主体能动性与复杂制度脉络构成的开放系统。在开放系统中，干预效果深度依赖具体背景；[[Quantitative Research\|量化研究]]或[[Meta-analysis\|元分析]]提供的平均[[Effect Size\|效应量]]只是概率分布，无法直接推论出特定班级和具体学生的确定性因果结论。依据[[Critical Realism\|批判实在论]]与[[Realist Evaluation\|实在论评估]]，干预并非机械产生结果，而是受试者在特定情境中对资源进行能动推理的结果；教师必须运用专业判断权衡情境特征，激活有益的因果机制。[[Argument_Wrigley_2018_BERJ\|(Wrigley, 2018, pp. 7, 12, 16)]]
 
+> [!claim] [[Argument_Snook_2009_NZJES|Snook et al. (2009)]]; [[John Dewey|Dewey (1929)]]
+> **证据作为探究假设与不可约简的价值权衡** 依据[[John Dewey|杜威]]（Dewey, 1929）的实用主义认识论，实证研究证据绝不为教师提供直接指导课堂操作的行动规则（Rules for Action），而仅仅为明智地解决问题和反思教育目的提供假设（Hypotheses for Intelligent Problem Solving）。任何教学决策都内嵌着不可约简的伦理与价值权衡成分（Irreducible Value Component）：教师在采纳高效应量干预时，不仅要评估其经济与精力成本是否匹配收益，更必须权衡该收益是否伴随着不可逆的负面附带损害（例如单纯通过强化测验提分的手段，极易扼杀学生的[[Creativity|创造力]]并损伤同伴交往能力）。因此，研究知识必须与教师的个人信念、专业伦理及现场情境相整合；脱离专业判断的机械技术套用不仅无法实现优质教学，更会直接破坏教育生态。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 93, 104)]]
+
 ---
 
 ### 命题二　新自由主义数字治理与排行榜文化挤压价值审议并导致教师去专业化
@@ -221,6 +228,9 @@ updated: 2026-10-17
 
 > [!claim] [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]]; [[Argument_Biesta_2010_SPE\|Biesta (2010)]]
 > **[[Governing by Numbers\|数字治理]]与去专业化异化** 新自由主义政策盛行[[Governing by Numbers\|数字治理]]，通过诸如 [[Education Endowment Foundation\|EEF]] 工具包等扁平化排行榜向学校推销单一有效性[[Discourse|话语]]。这种审计文化挤压了关于教育根本目的（To What Ends）的价值探讨，迫使教师沦为依照标准化清单执行技术传递的操作工人，造成教师群体的去专业化（De-professionalisation）。政策评估与学校改进必须警惕排行榜的破坏性决策，捍卫教师的专业自主能动性。[[Argument_Wrigley_2018_BERJ\|(Wrigley, 2018, pp. 4, 14, 16)]]
+
+> [!claim] [[Argument_Snook_2009_NZJES|Snook et al. (2009)]]; [[The Scott Report]]
+> **绩效工资零和博弈对教师专业互信与审议生态的瓦解** 政策制定者常利用宏观统计数字推卸公共责任，断章取义截取元分析中“校内教师最重要”的论断，强推以量化考试成绩为依据的[[Performance Pay|绩效工资]]。斯努克等学者指出，绩效工资基于外部金钱刺激与零和排位博弈，使教师沦为争夺有限奖金池的竞争对手，从制度上惩罚了暴露教学困惑、分享创新经验与坦诚试错的可能，彻底毒化了支撑教师行使专业判断的同行互信文化。早在 1986 年新西兰议会《[[The Scott Report|斯科特报告]]》就已严密论证开发客观衡量教师表现的工具极其复杂漫长，在缺乏科学工具的背景下草率推行考核不仅无法提升质量，反而会剥夺教师专业裁量权并诱发严重的防御性教学与应试异化。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 103–104)]]
 
 > [!claim] [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns and Schuller (2022)]]
 > **循证医学危机镜像与反算法[[Cognitive Deskilling|去技能化]]** 借鉴循证医学（Evidence-Based Medicine, EBM）发展后期的深刻危机（Greenhalgh et al., 2014）：过度膨胀的临床指南与僵化指标排挤了医生的微观临床审议，被商业营销绑架的“证据洗白”严重损害患者福祉。将此教训映射至教育领域，技术官僚试图将教学拆解为离散的自动化操作或依赖算法驱动决策，实质上是对教师的去技能化（De-skilling）。教学建立在复杂情境反思、扎根实践经验与伦理审议的基础之上，是不可替代的知识型专业（Knowledge-rich Profession）；面对商业包装的证据产品，教师扎根微观情境的临床专业判断是抵御算法异化与技术官僚侵蚀的核心防线([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 60, 65–66]])。
@@ -284,6 +294,8 @@ updated: 2026-10-17
 > [!dev-timeline] 概念演变
 > - **1982 — 技术赤字与反思必要性** Luhmann & Schorr 提出教学系统存在固有的技术赤字（Deficit of Technology），即教育因果链条不可完全预测，要求教师必须具备[[Reflexivity|反思性]]判断力。
 > - **1983 — 反思实践者[[Paradigm|范式]]奠基** Schön 提出行动中的反思（Reflection-in-Action），系统确立专业人员应对不确定性情境的非[[Technical Rationality|技术理性]]决策模型。
+> - **1986 — 官方报告对评价复杂性与专业工具缺位的承认** 新西兰议会《[[The Scott Report|斯科特报告]]》虽然原则上赞同能力评估，但审慎承认客观衡量优秀教师教学表现面临极高技术困难，建议在大学设立专门研究机构花费多年攻关工具，警示不可草率推行绩效考核破坏教学专业性。
+> - **2009 — 实用主义探究假说论与不可约简的价值权衡** [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] 援引[[John Dewey|杜威]]论断批判二阶元分析的技术主义政策外推，确立实证证据作为“探究假设”而非“行动规则”的认识论界限，强调教学决策必须依托专业判断权衡干预成本与非认知附带损害（如应试训练扼杀创造力），并批判以绩效工资瓦解教研共同体互信的企图（pp. 93, 103–104）。
 > - **2010 — 从有效性向育人目的的价值回归** [[Argument_Biesta_2010_SPE|Biesta (2010)]] 批判[[Evidence-Based Education|证据本位教育]]的技术官僚主义倾向，指出教育实践本质关乎伦理与民主价值，专业判断必须以终极目的为依归。
 > - **2013 — 宏观标准研制中的知识补位与同行互信** [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] 将专业判断从微观课堂教学扩展至宏观国家课程标准研制，论证在因果实证供给不足时，专业判断充当学科演绎、一线可行性论证与同行互信代理的决定性支柱。
 > - **2015 — 翻转系统与草根赋权** Evers & Kneyber 编著出版《Flip the System》，倡导由教师专业判断引领变革、抗衡自上而下的外部问责。[[Argument_Nelson_2017_EducRes|(Nelson & Campbell, 2017, p. 127)]]
@@ -307,6 +319,9 @@ updated: 2026-10-17
 >
 > > [!axis] 专业判断与[[Empiricism|经验主义]]的滑坡风险
 > > 强循证学者担忧，若过度拔高专业判断而缺乏严谨证据和方法论约束，判断极易沦为捍卫落后教学习惯的主观遮羞布；因此必须维持严谨证据与严谨判断的动态张力。[[Argument_Ross_Morrison_2021_ECNUROE|(Ross & Morrison, 2021, p. 123)]]; [[Argument_Nelson_2017_EducRes|(Nelson & Campbell, 2017, p. 132)]]
+>
+> > [!axis] 绩效工资与二阶元分析外推对教师专业信任生态的侵蚀
+> > 探讨依据宏观元分析效应量强推教师绩效工资是否合乎教育专业伦理。政策倡导者试图借用“校内教师影响最大”推行绩效考核奖惩；[[Argument_Snook_2009_NZJES|Snook et al. (2009)]] 结合新西兰《[[The Scott Report|斯科特报告]]》的历史教训反驳指出，客观衡量教学极其复杂，缺乏信度的量化考核将同事重构为争夺有限奖金的零和博弈对手，彻底毒化了教师坦诚交流与反思试错的组织土壤，摧毁了维系专业判断所必需的同行信任。
 >
 > > [!axis] 工业核查清单与全景监控 vs 育人现场的复杂关系审议
 > > 探讨将教学比附为外科手术或高山救援、依赖标准化清单与监控软件是否优于教师的现场专业判断。
@@ -387,6 +402,11 @@ updated: 2026-10-17
 >
 > *Educational practice is not a purely technical operation; it is intrinsically about values, ethics and long-term purposes. Questions about 'what works' must always be subordinate to professional deliberation on 'to what ends'.*
 
+> [!citation-card] 杜威与斯努克论实证证据作为探究假设而非行动规则
+> 实证证据绝不为我们提供行动规则，而仅仅为我们进行明智的问题解决提供了假设，并为我们探询教育的终极目的提供了假设。教学决策内嵌着不可约简的价值权衡：收益是否值得成本？微小提分是否以抑制创造力或人际发展为代价？研究知识必须与教师的个人信念、专业伦理及现场情境深度整合。（[[John Dewey|John Dewey]], quoted in Hattie, 2008, p. 147; [[Argument_Snook_2009_NZJES|Snook et al., 2009, pp. 93, 104]]）
+>
+> *“Evidence does not supply us with rules for action but only with hypotheses for intelligent problem solving, and for making inquiries about our ends in education.” (John Dewey, quoted in Hattie, 2008, p. 147; quoted in Snook et al., 2009, p. 93, p. 104)*
+
 > [!citation-card] 工业流水线监控对教师专业直觉的抹杀
 > 将教师的经验交流斥为缺乏科学依据的轶事传闻，不仅是推销自上而下管理处方的手段，更在公众心目中削弱了对公立教师群体的信赖……把复杂的育人活动比附为外科手术或打紧绳结，用僵化的打卡清单取代教师根据课堂现场氛围灵活变通的专业直觉，最终将鲜活的学生降格为标准化测验的数据产出工具。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–30)]]
 >
@@ -397,6 +417,7 @@ updated: 2026-10-17
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 援引杜威实用主义认识论批判《可见的学习》证据被新自由主义政策断章取义挪用，确立实证证据作为“探究假设”而非“行动规则”的边界，论证绩效工资对教师专业判断与互信生态的系统性破坏。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 批判《[[Visible Learning|可见的学习]]》以工业新泰勒制全景监控（[[Assessment Tools for Teaching and Learning|asTTle]]）与手术清单比附教学，系统揭示清单[[Disciplina and Doctrina|规训]]如何剥夺一线教师专业判断并诱发[[Performativity|表演性危机]]（pp. 28–30）。
 > - [[Argument_Rickinson_2022_EducRes|Rickinson et al. (2022a)]] — 跨四大领域[[Systematic Review|系统综述]]提出 [[Quality Use of Research Evidence Framework|QURE]] 框架，确立[[Research Utilization|证据使用]]由“证据本位”向“证据知情”的[[Epistemology|认识论]]转向，论证研究证据对专业判断的互补支持关系与审慎实施机制。
 > - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 考察美国[[Common Core State Standards|共同核心标准]]（CCSS）研制与采纳全过程，确立专业判断在学术实证供给不足时作为学科逻辑演绎、一线可行性论证与同行互信代理的宏观政策支柱地位。
@@ -421,7 +442,10 @@ updated: 2026-10-17
 > | [[Teacher Professional Agency]] | 概念 | 实践内核 | 专业判断是教师行使专业能动性与抵御去专业化[[Disciplina and Doctrina\|规训]]的主体依托。 |
 > | [[Technical Rationality]] | 概念 | 批判对象 | 专业判断坚决反抗将教学矮化为流水线操作工的技术理性治理。 |
 > | [[Performativity]] | 概念 | 抵御异化 | 僵化清单与全景监控迫使教师应付表演性打卡，侵蚀真实专业直觉。 |
+> | [[The Scott Report]] | 事实 | 历史先驱 | 1986 年官方调查报告深刻承认教学质量测量的极端复杂性，为专业判断的不可量化性提供历史证据。 |
+> | [[John Dewey]] | 人物 | 哲学渊源 | 杜威经验探究论与证据假设说为专业判断在循证教育中抵御技术主义教条提供认识论奠基。 |
 > | [[Assessment Tools for Teaching and Learning]] | 测量工具 | 监控工具 | [[John Hattie\|哈蒂]]开发的监控系统管理界面被直接迁移为书籍气压计图表，成为压制专业判断的图腾。 |
+> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 论证 | 批判依据 | 阐述教学决策中的不可约简价值权衡，批判绩效工资对教师专业判断与同事信任的瓦解。 |
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 论证 | 批判来源 | 揭示新泰勒制监控、清单拜物教与医学外科手术机械比附对教师专业判断的剥夺。 |
 > | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | 论证 | 宏观实证 | 证实专业判断在宏观政策标准研制中对有限科研实证的结构性补位功能。 |
 > | [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] | 论证 | 实在论批判 | 以[[Critical Realism\|批判实在论]]论证证据的概率性与专业判断情境激活的必要性。 |
