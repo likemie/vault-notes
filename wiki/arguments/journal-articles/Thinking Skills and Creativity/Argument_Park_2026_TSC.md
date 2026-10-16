@@ -66,6 +66,7 @@ related_methods:
   - "[[Robust Variance Estimation]]"
   - "[[Standard Error]]"
   - "[[Egger Regression Test]]"
+  - "[[Random-Effects Model]]"
   - "[[Between-Study Variance]]"
   - "[[Internet-based Survey]]"
   - "[[Systematic Review]]"
@@ -215,7 +216,7 @@ issuing_organization: ""
 > [!synthesis-model] 效应量与统计模型
 > - **效应量指标** 皮尔逊 $r$，经 Fisher's $z$ 变换稳定方差并正态化（p. 4）。
 > - **权重** 抽样方差倒数（大样本贡献更精确的估计）（p. 4）。
-> - **模型** 三水平随机效应[[Meta-analysis\|元分析]]：Level 1 [[Sampling Error\|抽样误差]]、Level 2 研究内方差、Level 3 [[Between-Study Variance\|研究间方差]]（p. 4）。
+> - **模型** 三水平[[Random-Effects Model|随机效应]][[Meta-analysis\|元分析]]：Level 1 [[Sampling Error\|抽样误差]]、Level 2 研究内方差、Level 3 [[Between-Study Variance\|研究间方差]]（p. 4）。
 > - **异质性** $I^2$ 与 $Q$ 检验（p. 4）。
 > - **稳健性** RVE（clubSandwich，Pustejovsky, 2023）施加于 metafor 三水平模型（Viechtbauer, 2010）（pp. 4–5）。
 > - **软件** R 包 "meta"（Balduzzi et al., 2019）（p. 4）。
@@ -361,7 +362,7 @@ issuing_organization: ""
 ### 论证步骤五　方法设计：三水平元分析、RVE、元回归与偏倚检验系统补足缺口
 
 > [!claim] 采用三水平元分析处理嵌套效应量、RVE 稳健推断、元回归检验调节变量、Egger 回归检验偏倚，可系统补足先前综述的缺口
-> 51 个相关估计嵌套于 29 项研究，不满足独立性假设，故用三水平随机效应元分析；以 Fisher's $z$ 变换稳定方差，以[[Inverse-Variance Weighting\|逆方差加权]]，以 $I^2$/$Q$ 量化[[Heterogeneity\|异质性]]；用 RVE 提供小样本稳健[[Standard Error\|标准误]]；用元回归检验调节变量及交互项；用 Egger 回归与等高线[[Funnel Plot\|漏斗图]]检验偏倚。（pp. 4–5）
+> 51 个相关估计嵌套于 29 项研究，不满足独立性假设，故用三水平[[Random-Effects Model|随机效应]]元分析；以 Fisher's $z$ 变换稳定方差，以[[Inverse-Variance Weighting\|逆方差加权]]，以 $I^2$/$Q$ 量化[[Heterogeneity\|异质性]]；用 RVE 提供小样本稳健[[Standard Error\|标准误]]；用元回归检验调节变量及交互项；用 Egger 回归与等高线[[Funnel Plot\|漏斗图]]检验偏倚。（pp. 4–5）
 
 > [!chain-link] 证据到判断
 > - **检索与纳入** 覆盖 PsycINFO、Academic Search Ultimate、ProQuest 与 ScienceDirect，关键词 "creativity"、"creative"、"creativ*"、"critical thinking"，排除书章节/综述/非同行评审文献，纳入同时含两种测量、报告定量相关、样本为学生的同行评审期刊论文与公开学位论文。（p. 4）

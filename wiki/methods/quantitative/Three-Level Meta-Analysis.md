@@ -45,6 +45,7 @@ related_methods:
   - "[[Between-Study Variance]]"
   - "[[Confidence Interval]]"
   - "[[Meta-regression]]"
+  - "[[Random-Effects Model]]"
   - "[[Robust Variance Estimation]]"
   - "[[Funnel Plot]]"
   - "[[Systematic Review]]"
@@ -52,7 +53,7 @@ related_methods:
   - "[[Effect Size Conversion]]"
   - "[[Sample Size Determination]]"
   - "[[Statistical Significance]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Fixed-Effect Model]]"
   - "[[Standard Error]]"
   - "[[Moderator Analysis]]"
   - "[[Correlational Research]]"
@@ -84,7 +85,7 @@ updated: 2026-10-16
 > - **输出形式** 汇总加权效应量估计值、95% [[Confidence Interval\|置信区间]]（Confidence Interval, CI）、各层方差分量（$\tau_{(2)}^2$ 与 $\tau_{(3)}^2$）、异质性比例指标（$I_{(1)}^2$、$I_{(2)}^2$、$I_{(3)}^2$）、多[[Variable\|变量]][[Meta-regression\|元回归]][[Interaction Effect\|调节效应]]检验统计量（$F$ 或 $\chi^2$）。
 
 > [!citation-card]- 关键定义
-> 三层元分析模型通过建立分层随机效应结构，使得研究者能够纳入[[Primary and Secondary Documents\|原始文献]]中报告的所有相关效应量，既避免了人为平均或强制舍弃效应量导致的信息损失与偏倚，又严格遵守了统计独立性假设。[[Argument_Song_Choi_2026_FPSYG\|(Song & Choi, 2026, pp. 4–5)]]
+> 三层元分析模型通过建立分层[[Random-Effects Model|随机效应]]结构，使得研究者能够纳入[[Primary and Secondary Documents\|原始文献]]中报告的所有相关效应量，既避免了人为平均或强制舍弃效应量导致的信息损失与偏倚，又严格遵守了统计独立性假设。[[Argument_Song_Choi_2026_FPSYG\|(Song & Choi, 2026, pp. 4–5)]]
 >
 > *Adopting this hierarchical structure enables all relevant effect sizes to be used in the meta-analysis without violating the independence assumption.*
 
@@ -101,7 +102,7 @@ updated: 2026-10-16
 > [!method-stack] 方法层级
 > - **研究设计** [[Systematic Review\|系统综述]]（Systematic Review）与量化证据综合设计。
 > - **数据收集** 基于电子数据库检索、[[PRISMA]] 流程筛选以及标准化[[Qualitative Codebook\|编码手册]]提取相关系数、标准化均数差或回归系数。
-> - **分析方法** 多层随机效应建模、受限最大似然估计（REML）、多变量[[Meta-regression\|元回归]]调节分析、逐一剔除敏感性分析。
+> - **分析方法** 多层[[Random-Effects Model|随机效应]]建模、受限最大似然估计（REML）、多变量[[Meta-regression\|元回归]]调节分析、逐一剔除敏感性分析。
 > - **辅助技术** [[Effect Size Conversion\|效应量转换]]（如将回归系数 $\beta$ 转换为相关系数 $r$、Fisher\'s $z$ 变换）、三层 Egger 回归检验、标准化残差异常值诊断。
 
 ---
@@ -122,10 +123,10 @@ updated: 2026-10-16
 > - **数据结构** 嵌套数据结构（Nested Data），多个效应量 $i$ 嵌套于独立研究 $j$ 中。
 > - **样本与单位** 纳入研究数 $k$、效应量总数 $m$ 以及总受试者人数 $N$。
 > - **变量或指标** 效应量 $y_{ij}$（如 Fisher\'s $z$）、已知抽样方差 $v_{ij}$、各层调节变量 $X_{ij}$（如学段、[[Construct\|构念]]类型、[[Measurement Alignment\|测量对齐]]度）。
-> - **模型或统计量** 三层随机效应[[Hierarchical Linear Model\|多层线性模型]]、固定效应回归系数、限制性最大似然方差分量 $\tau_{(2)}^2$ 与 $\tau_{(3)}^2$。
+> - **模型或统计量** 三层[[Random-Effects Model|随机效应]][[Hierarchical Linear Model\|多层线性模型]]、[[Fixed-Effect Model|固定效应]]回归系数、限制性最大似然方差分量 $\tau_{(2)}^2$ 与 $\tau_{(3)}^2$。
 > - **诊断与检验** $Q$ 统计量检验总异质性、似然比检验（LRT）对比二层与三层模型拟合、标准化残差 $|z| > 3.29$ 异常值检验。
 
-> [!formula-step] 公式步骤　三层[[Fixed-Effect and Random-Effects Models\|随机效应模型]]
+> [!formula-step] 公式步骤　三层[[Random-Effects Model\|随机效应模型]]
 > $$y_{ij} = \gamma_{00} + u_{(3)j} + u_{(2)ij} + e_{ij}$$
 >
 > **这个公式在做什么** 将研究 $j$ 中第 $i$ 个观察效应量 $y_{ij}$ 分解为全域真实均值 $\gamma_{00}$、研究间随机效应 $u_{(3)j}$、研究内效应量间随机效应 $u_{(2)ij}$ 以及已知[[Sampling Error\|抽样误差]] $e_{ij}$。
@@ -165,7 +166,7 @@ updated: 2026-10-16
 > [!method-fit] 适用判断
 > - **适合使用** 原始研究频繁报告多个相关结果指标、多个分量表[[Construct\|构念]]、不同时间点追踪数据或多个子样本时的量化[[Systematic Review\|系统综述]]。[[Argument_Song_Choi_2026_FPSYG\|(Song & Choi, 2026, pp. 4–5)]]
 > - **谨慎使用** 纳入研究数量较少（如 $k < 10$）时，Level 3 真实方差的估计可能缺乏统计功效或不稳定。
-> - **不适合使用** 每项研究仅报告严格单一独立[[Effect Size\|效应量]]的情形（此时退化为传统二层[[Fixed-Effect and Random-Effects Models\|随机效应模型]]）。
+> - **不适合使用** 每项研究仅报告严格单一独立[[Effect Size\|效应量]]的情形（此时退化为传统二层[[Random-Effects Model\|随机效应模型]]）。
 
 ---
 
@@ -186,9 +187,9 @@ updated: 2026-10-16
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Meta-analysis]] | 基础方法 | 三层元分析是传统二层元分析在多层数据结构下的拓展。 |
-> | [[Fixed-Effect and Random-Effects Models]] | 统计模型 | 提供了三层模型中随机效应设定的理论基础。 |
+> | [[Random-Effects Model]] | 统计模型 | 提供了三层模型中随机效应设定的理论基础。 |
 > | [[Moderator Analysis]] | 分析策略 | 在三层架构下通过多元[[Meta-regression\|元回归]]检验研究内与研究间协[[Variable\|变量]]的[[Interaction Effect\|调节效应]]。 |
-> | [[Meta-regression]] | 分析方法 | 三层混合效应模型通过元回归整合固定效应协变量。 |
+> | [[Meta-regression]] | 分析方法 | 三层混合效应模型通过元回归整合[[Fixed-Effect Model\|固定效应]]协变量。 |
 
 ---
 
@@ -196,5 +197,5 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Song_Choi_2026_FPSYG\|Song and Choi (2026)]] — 采用三层[[Meta-analysis\|元分析]]模型分析了嵌套在 18 项研究中的 512 个[[Effect Size\|效应量]]，妥善处理了单个研究同时报告多个[[Epistemology\|认识论]][[Construct\|构念]]与学习成果指标所造成的统计依赖性。
-> - [[Argument_Park_2026_TSC\|Park et al. (2026)]] — 对嵌套在 29 项研究中的 51 个相关系数采用三层随机效应[[Meta-analysis\|元分析]]，将方差分解为[[Sampling Error\|抽样误差]]、研究内与研究间三层，处理同一研究报告多个测量组合[[Effect Size\|效应量]]造成的统计依赖性。
-> - [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] — 对 2000–2024 年间 29 项实证研究中的 109 个效应量采用多层[[Fixed-Effect and Random-Effects Models\|随机效应模型]]（Hedges' $g$），检验[[Creativity Training\|创造力训练]]对大学生[[Divergent Thinking\|发散思维]]、言语、图形、词汇及[[Problem Solving\|问题解决]]等维度的促进效应及时间与干预类型的调节作用。
+> - [[Argument_Park_2026_TSC\|Park et al. (2026)]] — 对嵌套在 29 项研究中的 51 个相关系数采用三层[[Random-Effects Model|随机效应]][[Meta-analysis\|元分析]]，将方差分解为[[Sampling Error\|抽样误差]]、研究内与研究间三层，处理同一研究报告多个测量组合[[Effect Size\|效应量]]造成的统计依赖性。
+> - [[Argument_Guo_2025_TSC\|Guo et al. (2025)]] — 对 2000–2024 年间 29 项实证研究中的 109 个效应量采用多层[[Random-Effects Model\|随机效应模型]]（Hedges' $g$），检验[[Creativity Training\|创造力训练]]对大学生[[Divergent Thinking\|发散思维]]、言语、图形、词汇及[[Problem Solving\|问题解决]]等维度的促进效应及时间与干预类型的调节作用。

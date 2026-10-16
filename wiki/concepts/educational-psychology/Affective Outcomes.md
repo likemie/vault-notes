@@ -13,7 +13,7 @@ aliases:
 summary: "教育心理学与教学干预研究中指称学生情感领域可观测、可测量产出的操作化概念，涵盖自信心、学科态度、内在动机与一般学习感知等非认知结果变量。理论渊源根植于 Krathwohl 等人（1964）的情感分类学，与学业成就、高阶思维构成学习产出的三大支柱；实证研究表明其在合作学习中具有稳健正向响应（ES = 0.51），但受学科与测量工具影响具有高度情境依赖性。"
 type: concept
 domain: "educational-psychology"
-related_count: 34
+related_count: 35
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"
@@ -55,7 +55,7 @@ related_methods:
   - "[[Confidence Interval]]"
   - "[[Sample Size Determination]]"
   - "[[Survey Research]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Random-Effects Model]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
@@ -191,7 +191,7 @@ updated: 2026-10-16
 > | Liu and Lipowski (2021)，引自前述二阶合成 | 结果变量：合作学习对体育课内在动机的促进效应 | $k = 6$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.05$ $[-1.30, 1.41]$ | — | K-12 体育教育，置信区间极宽且检出发表偏倚 |
 > | Özkan & Çetinkaya-Uslusoy (2024)，引自前述二阶合成 | 结果变量：[[Jigsaw\|拼图法]]（Jigsaw）对护理学生专业态度的促进效应 | $k = 6$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 1.18$ $[0.53, 1.84]$ | — | 高等护理教育临床情境，角色互换显著增强专业认同 |
 > | Tanjung et al. (2022)，引自前述二阶合成 | 结果变量：小组[[Survey Research\|调查法]]对物理情感能力的促进效应 | $k = 4$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 1.26$ $[0.69, 1.88]$ | — | 印尼 10-11 年级物理课，探究合作对学科情感与效能感赋能突出 |
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 结果变量：生成式 AI 对大学生情感动机状态（AMS）的干预效应 | $k = 25$ / $N = —$ | Hedges' $g^+$ / [[Fixed-Effect and Random-Effects Models\|随机效应模型]] | $g^+ = 0.617$ $[0.311, 0.922]$ | $Q(24) = 277.08, p < .001, I^2 = 91.34\%$；剪补法未检出缺失研究 | 严格控制前测基线等效（$d < 0.25$）；包含学习兴趣、学习动机、自我效能感与技术接纳态度；结果稳健 |
+> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 结果变量：生成式 AI 对大学生情感动机状态（AMS）的干预效应 | $k = 25$ / $N = —$ | Hedges' $g^+$ / [[Random-Effects Model\|随机效应模型]] | $g^+ = 0.617$ $[0.311, 0.922]$ | $Q(24) = 277.08, p < .001, I^2 = 91.34\%$；剪补法未检出缺失研究 | 严格控制前测基线等效（$d < 0.25$）；包含学习兴趣、学习动机、自我效能感与技术接纳态度；结果稳健 |
 
 > [!ma-table]- [[Meta-meta-analysis\|二阶元分析]]结果
 > <span class="scrollable-table-marker concept-second-order-meta-table-marker" aria-hidden="true"></span>

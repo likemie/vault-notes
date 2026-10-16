@@ -50,6 +50,7 @@ related_methods:
   - "[[Implementation and Process Evaluation]]"
   - "[[Intraclass Correlation Coefficient]]"
   - "[[Ordinary Least Squares]]"
+  - "[[Random-Effects Model]]"
   - "[[Triangulation]]"
   - "[[Correlational Research]]"
 related_instruments:
@@ -143,7 +144,7 @@ updated: 2026-10-16
 > [!formula-step] 公式步骤　基础 ITT 回归模型
 > $$Y_{ij} = \alpha + \beta_{\text{ITT}} Z_j + \mathbf{X}_{ij}' \boldsymbol{\gamma} + u_j + \varepsilon_{ij}$$
 >
-> **这个公式在做什么** 以个体终点学业产出 $Y_{ij}$ 为[[Dependent Variable\|因变量]]，以初始随机分配指示变量 $Z_j$ 为核心[[Independent Variable\|自变量]]，在控制个体与学校基线协变量 $\mathbf{X}_{ij}$ 以及学校随机效应 $u_j$ 的条件下，直接估计政策分配带来的净平均因果效应 $\beta_{\text{ITT}}$。
+> **这个公式在做什么** 以个体终点学业产出 $Y_{ij}$ 为[[Dependent Variable\|因变量]]，以初始随机分配指示变量 $Z_j$ 为核心[[Independent Variable\|自变量]]，在控制个体与学校基线协变量 $\mathbf{X}_{ij}$ 以及学校[[Random-Effects Model|随机效应]] $u_j$ 的条件下，直接估计政策分配带来的净平均因果效应 $\beta_{\text{ITT}}$。
 >
 > **符号说明**
 > - $Z_j$：学校 $j$ 随机分配状态（1 = 获派处理，0 = 获派对照），严格保持初始指派。

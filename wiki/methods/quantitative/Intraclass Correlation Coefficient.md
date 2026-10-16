@@ -11,7 +11,7 @@ summary: "用于度量多层嵌套或集群数据中同组观测值之间相似�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 47
+method_related_count: 48
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -54,10 +54,10 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Cluster Sampling]]"
   - "[[Classroom Observation]]"
+  - "[[Random-Effects Model]]"
   - "[[Confidence Interval]]"
   - "[[Pre-test and Post-test]]"
   - "[[Random Sampling]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Generalized Estimating Equations]]"
   - "[[Analytic Framework]]"
   - "[[Correlational Research]]"
@@ -122,7 +122,7 @@ updated: 2026-10-16
 > [!method-stack] 方法层级
 > - **研究设计** 集群[[Randomised Controlled Trials\|随机对照试验]]（Cluster RCT）、多阶段分层[[Cluster Sampling\|整群抽样]]、纵向生长模型。
 > - **数据收集** 行政考分普查数据（NPD）、大样本心理测验、结构化[[Classroom Observation|课堂观察]]评分。
-> - **分析方法** 单因素随机效应[[Analysis of Variance\|方差分析]]（ANOVA Random Effects）、限制性极大似然法（REML）两层空模型。
+> - **分析方法** 单因素[[Random-Effects Model|随机效应]][[Analysis of Variance\|方差分析]]（ANOVA Random Effects）、限制性极大似然法（REML）两层空模型。
 > - **辅助技术** 设计效应（Design Effect）公式换算、[[Effective Sample Size\|有效样本量]]折算、小集群小样本[[Confidence Interval\|置信区间]]构建。
 
 ---
@@ -211,7 +211,7 @@ updated: 2026-10-16
 >     loneway post_score school_id
 >     ```
 > - **实现流程**
->   1. 拟合单因素[[Fixed-Effect and Random-Effects Models\|随机效应模型]]；
+>   1. 拟合单因素[[Random-Effects Model\|随机效应模型]]；
 >   2. 提取组间方差与组内残差方差；
 >   3. 计算 ICC 与 95% [[Confidence Interval\|置信区间]]；
 >   4. 结合每校平均被试数测算设计效应。
@@ -268,7 +268,7 @@ updated: 2026-10-16
 > | [[Ordinary Least Squares]] | 偏误参照系 | 未做 ICC 校正时传统 OLS 发生标准误低估与伪显著性膨胀的根源所在。 |
 > | [[Standard Error]] | 修正客体 | ICC 通过设计效应膨胀因子进行彻底纠偏的核心统计推断指标。 |
 > | [[Effective Sample Size]] | 换算实体 | ICC 将名义[[Sample Size Determination\|样本量]]通过设计效应压缩为真实有效样本量的桥梁。 |
-> | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 评估实证 | 运用双向随机效应单评分者模型 ICC(2,1) 评估多国跨学科资深学者在宏观证据库实践相关性评分中的评定一致性（ICC = 0.60）。 |
+> | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 评估实证 | 运用双向[[Random-Effects Model\|随机效应]]单评分者模型 ICC(2,1) 评估多国跨学科资深学者在宏观证据库实践相关性评分中的评定一致性（ICC = 0.60）。 |
 
 ---
 
@@ -277,5 +277,5 @@ updated: 2026-10-16
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 说明 [[Education Endowment Foundation\|EEF]] 试验复算如何推动《EEF 评估统计分析指南》（2018）出台，确立 ICC 与聚类稳健[[Standard Error\|标准误]]的技术准则。
 > - [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] — 详析全球 12 所[[Educational Evidence Clearinghouses\|证据清算中心]]在[[Cluster Randomized Trials\|集群随机试验]]审查中的分歧，批判了忽视 ICC 校正与[[Unit of Analysis\|分析单位]]错位导致虚假显著性的普遍现象。
-> - [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] — 采用双向随机效应绝对一致性单评分者模型 ICC(2,1) 评估大语言模型与人类专家在 156 项教育[[Meta-analysis\|元分析]]数据提取中的准确性与评分者间一致性（LLMs $\text{ICC} = 0.96–0.97$）。
-> - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 招募来自瑞典、丹麦与美国的 5 位国际教育学与量化方法资深学者对 322 个宏观影响因素开展盲审，采用组内相关系数（ICC = 0.60, 95% CI [0.53, 0.67]）检验专家评审团在教学实践相关度判定上的高度评定一致性。
+> - [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] — 采用双向[[Random-Effects Model|随机效应]]绝对一致性单评分者模型 ICC(2,1) 评估大语言模型与人类专家在 156 项教育[[Meta-analysis\|元分析]]数据提取中的准确性与评分者间一致性（LLMs $\text{ICC} = 0.96–0.97$）。
+> - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 招募来自瑞典、丹麦与美国的 5 位[[International Education|国际教育]]学与量化方法资深学者对 322 个宏观影响因素开展盲审，采用组内相关系数（ICC = 0.60, 95% CI [0.53, 0.67]）检验专家评审团在教学实践相关度判定上的高度评定一致性。

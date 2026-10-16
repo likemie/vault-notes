@@ -10,7 +10,7 @@ aliases:
 summary: "衡量学生在特定学习阶段、特定学科或特定学术任务中知识、技能与高阶思维掌握程度的多维结果指标。在教育心理学中通常通过课程加权总评成绩（Official Academic Achievement, OAA）、预估总评成绩（Estimated Overall Academic Achievement, EOAA）、标准化测试及良构与劣构任务表现进行操作化测度。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 155
+related_count: 156
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -121,7 +121,7 @@ related_methods:
   - "[[Discourse Analysis]]"
   - "[[Intervention Research]]"
   - "[[Confidence Interval]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Random-Effects Model]]"
   - "[[Survey Research]]"
   - "[[Multivariate Analysis of Variance]]"
   - "[[Questionnaire]]"
@@ -506,10 +506,10 @@ updated: 2026-10-16
 >
 > | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|置信区间]]（Confidence Interval, CI） | [[Heterogeneity\|异质性]]与预测区间（Prediction Interval, PI） | 关键解释边界 |
 > |---|---|---|---|---|---|---|---|
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 结果变量：[[Critical Thinking\|批判性思维]]教学干预对常规学业成就的促进效应 | $k = 140$ / $N = —$ | Hedges' $g+$ / [[Fixed-Effect and Random-Effects Models\|随机效应模型]] | $g+ = 0.33$ $[0.25, 0.40]$ | $Q(139) = 887.62, p < .001, I^2 = 84.34\%$ | 严格排除前实验设计；证实思维干预对学科知识掌握产生显著正向协同（改善指数 12.93%） |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | 结果变量：[[Critical Thinking\|批判性思维]]教学干预对常规学业成就的促进效应 | $k = 140$ / $N = —$ | Hedges' $g+$ / [[Random-Effects Model\|随机效应模型]] | $g+ = 0.33$ $[0.25, 0.40]$ | $Q(139) = 887.62, p < .001, I^2 = 84.34\%$ | 严格排除前实验设计；证实思维干预对学科知识掌握产生显著正向协同（改善指数 12.93%） |
 > | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 结果变量：[[Epistemic Cognition\|认识论认知]]对学业成就的总体预测效应 | $k = 151$ / $N = 55,418$ | 皮尔逊 $r$ / 随机效应模型 | $r = 0.162$ $[0.135, 0.189]$ | $Q = 1335.22, p < .001, I^2 = 88.77\%$；95% PI 未报告 | 纳入横断与相关研究为主，测量方式与成就类型存在高异质性 |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 结果变量：[[Epistemic Cognition\|认识论认知]]干预对学业成就的总体因果促进效应 | $k = 28$ / $N = 4,373$ | Cohen's $d$ / [[Fixed-Effect and Random-Effects Models\|随机效应模型]] | $d = 0.509$ $[0.326, 0.692]$ | $Q = 370.964, p < .001, I^2 = 92.72\%$；离群值缩尾至 2 SD | 严格限定实验与准实验干预研究；涵盖 59 个效应量；剪补法校正后 $d = 0.342$ |
-> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | [[Dependent Variable\|结果变量]]：生成式 AI 对大学生学业成绩（Academic Achievement）的促学效应 | $k = 25$ / $N = —$ | Hedges' $g^+$ / [[Fixed-Effect and Random-Effects Models\|随机效应模型]] | $g^+ = 0.633$ $[0.418, 0.849]$ | $Q(24) = 134.37, p < .001, I^2 = 82.14\%$；剪补法填补 9 项后调整为 $g^+_{\text{adj}} = 0.354$ | 严格限定前测基线等效（$d < 0.25$）；高校编程与医学等学科客观知识与测验表现；检出显著发表偏倚收敛 |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 结果变量：[[Epistemic Cognition\|认识论认知]]干预对学业成就的总体因果促进效应 | $k = 28$ / $N = 4,373$ | Cohen's $d$ / [[Random-Effects Model\|随机效应模型]] | $d = 0.509$ $[0.326, 0.692]$ | $Q = 370.964, p < .001, I^2 = 92.72\%$；离群值缩尾至 2 SD | 严格限定实验与准实验干预研究；涵盖 59 个效应量；剪补法校正后 $d = 0.342$ |
+> | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | [[Dependent Variable\|结果变量]]：生成式 AI 对大学生学业成绩（Academic Achievement）的促学效应 | $k = 25$ / $N = —$ | Hedges' $g^+$ / [[Random-Effects Model\|随机效应模型]] | $g^+ = 0.633$ $[0.418, 0.849]$ | $Q(24) = 134.37, p < .001, I^2 = 82.14\%$；剪补法填补 9 项后调整为 $g^+_{\text{adj}} = 0.354$ | 严格限定前测基线等效（$d < 0.25$）；高校编程与医学等学科客观知识与测验表现；检出显著发表偏倚收敛 |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>
@@ -528,7 +528,7 @@ updated: 2026-10-16
 > | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：[[Cooperative Learning\|合作学习]]对学业成就（Academic Achievement）的干预效应 | $M = 11$；$E = 12$；$k = —$；$N = —$（全数据集总 $k = 403$） | Cohen's $d$ / 随机效应模型经典逆方差加权 | $ES = 0.71$ $[0.52, 0.90]$ | 全集 $Q(22) = 349.48, p < .01, I^2 = 93.70\%, \tau^2 = 0.13$；95% PI 未报告 | 涵盖语言、数学、社科与自然科学多学科，效应量稳健中等，但学科间样本分布不均衡 |
-> | [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] | 结果变量：高等教育 [[Problem-Based Learning\|问题本位学习]]（PBL）对理论性知识的促进效应 | $M = 20$；$E = 15$（理论性知识亚组）；$k = 469$；$N = —$ | 标准化均差（SMD）/ [[Fixed-Effect and Random-Effects Models\|随机效应模型]] | $ES = 0.59$ $[0.37, 0.81]$ | 全集 $Q(46) = 730.67, p < .001, I^2 = 93.70\%$；95% PI 未报告 | 理论性知识为知识获取类结果，与学业成就相关但不完全等同；高等教育情境 |
+> | [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] | 结果变量：高等教育 [[Problem-Based Learning\|问题本位学习]]（PBL）对理论性知识的促进效应 | $M = 20$；$E = 15$（理论性知识亚组）；$k = 469$；$N = —$ | 标准化均差（SMD）/ [[Random-Effects Model\|随机效应模型]] | $ES = 0.59$ $[0.37, 0.81]$ | 全集 $Q(46) = 730.67, p < .001, I^2 = 93.70\%$；95% PI 未报告 | 理论性知识为知识获取类结果，与学业成就相关但不完全等同；高等教育情境 |
 > | [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] | 结果变量：AI 教育应用对学业成就的促进效应（8 项一阶元分析（First-Order Meta-analysis, FOM）亚组结果） | $M = 19$（总体）；$E = 8$（学业成就亚组）；$k = —$；$N = 58,702$（总体） | Cohen's $d$ / 随机效应模型经典逆方差加权 | $ES = 0.68$ $[0.48, 0.87]$ | 全集 $Q(18) = 118.26, p < .001, I^2 = 84.78\%, \tau^2 = .05$；95% PI 未报告 | 检索 2020–2025 年 AIEd 元分析，仅限英语文献；AI 类型与成果类型亚组间无显著差异；教育阶段和学科领域存在显著调节效应 |
 
 > [!ma-table]- 二阶元分析互补维度亚组

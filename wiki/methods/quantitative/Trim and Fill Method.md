@@ -10,7 +10,7 @@ summary: "由 Sue Duval 与 Richard Tweedie（2000）开发的一种用于检测
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 22
+method_related_count: 23
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -39,7 +39,8 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Fail-Safe N]]"
   - "[[Multilevel Egger's Test]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Fixed-Effect Model]]"
+  - "[[Random-Effects Model]]"
   - "[[Meta-regression]]"
   - "[[Correlational Research]]"
 related_instruments: []
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Trim and Fill Method
@@ -97,7 +98,7 @@ updated: 2026-10-15
 > [!proc] 剪补法的标准三阶段算法操作规程
 > 1. **初始中心估计与排序** 计算当前所有研究的加权合并[[Effect Size\|效应量]]，计算各研究相对于均值的残差并按绝对值排序。
 > 2. **迭代剪除（Trim）** 运用 Duval & Tweedie 的非参数估计量（如 $L_0$ 或 $R_0$），迭代识别并暂时剔除对侧缺乏配对支持的极端不对称小样本研究，直到剩余研究呈现对称形态，由此锁定无偏的真实中心。
-> 3. **对称填补与重新合成（Fill）** 将先前剪除的研究沿新确定的真实中心做镜像翻转，生成相应数量的虚拟镜像研究（Imputed Studies）补回数据集；运用固定效应或[[Fixed-Effect and Random-Effects Models\|随机效应模型]]对“原始研究 + 虚拟研究”的全集重新进行加权合成，输出偏倚校正后的效应量。
+> 3. **对称填补与重新合成（Fill）** 将先前剪除的研究沿新确定的真实中心做镜像翻转，生成相应数量的虚拟镜像研究（Imputed Studies）补回数据集；运用[[Fixed-Effect Model|固定效应]]或[[Random-Effects Model\|随机效应模型]]对“原始研究 + 虚拟研究”的全集重新进行加权合成，输出偏倚校正后的效应量。
 
 > [!logic-map]- 剪补法迭代运算[[Logic Model\|逻辑模型]]
 > ```mermaid

@@ -37,7 +37,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Moderator Analysis]]"
   - "[[Effect Size]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Random-Effects Model]]"
   - "[[Standard Error]]"
   - "[[Sample Size Determination]]"
   - "[[Meta-regression]]"
@@ -45,6 +45,7 @@ related_methods:
   - "[[Confidence Interval]]"
   - "[[Random Sampling]]"
   - "[[Cochran's Q Test]]"
+  - "[[Fixed-Effect Model]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
@@ -65,7 +66,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 方法定义
-> 成对 Wald 检验（Pairwise Wald Tests）是在[[Meta-analysis\|元分析]]分类[[Moderator Analysis\|调节变量分析]]中，用于检验三个或更多亚组之间两两成对[[Effect Size\|效应量]]估计值是否存在统计学显著差异的参数推断方法。在基于混合效应模型或[[Fixed-Effect and Random-Effects Models\|随机效应模型]]的亚组分析中，当组间[[Heterogeneity\|异质性]]总检验（$Q_{between}$）表明存在实质性变异时，成对 Wald 检验通过对比成对亚组效应量差值与联合抽样[[Standard Error\|标准误]]的比率，构建服从自由度为 1 的卡方分布（$\chi^2$）统计量，从而精确判定具体哪些亚组之间存在真实且显著的效能级差。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 9–10)]]
+> 成对 Wald 检验（Pairwise Wald Tests）是在[[Meta-analysis\|元分析]]分类[[Moderator Analysis\|调节变量分析]]中，用于检验三个或更多亚组之间两两成对[[Effect Size\|效应量]]估计值是否存在统计学显著差异的参数推断方法。在基于混合效应模型或[[Random-Effects Model\|随机效应模型]]的亚组分析中，当组间[[Heterogeneity\|异质性]]总检验（$Q_{between}$）表明存在实质性变异时，成对 Wald 检验通过对比成对亚组效应量差值与联合抽样[[Standard Error\|标准误]]的比率，构建服从自由度为 1 的卡方分布（$\chi^2$）统计量，从而精确判定具体哪些亚组之间存在真实且显著的效能级差。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 9–10)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 元分析中包含三个及以上水平的分类调节[[Variable\|变量]]（如不同教学干预形态、学段划分、测量[[Construct\|构念]]层级）的亚组效应量估计值与方差协方差矩阵。
@@ -179,11 +180,11 @@ updated: 2026-10-16
 > | [[Meta-analysis]] | 前置方法 | 成对 Wald 检验依附于元分析的亚组调节检验模块，为其提供事后两两推断工具。 |
 > | [[Cochran's Q Test]] | 互补检验 | $Q_{between}$ 检验提供分类变量的总体泛指检验，成对 Wald 检验提供事后两两精确检验。 |
 > | [[Meta-regression]] | 替代与并列方法 | 元回归适用于连续型与多[[Variable\|变量]]联合调节建模，成对 Wald 检验专注于离散亚组的事后成对级差比较。 |
-> | [[Fixed-Effect and Random-Effects Models]] | 建模基础 | 各亚组的合并[[Effect Size\|效应量]]与抽样方差来源于随机或固定效应模型的加权估计。 |
+> | [[Fixed-Effect Model]] 与 [[Random-Effects Model]] | 建模基础 | 各亚组的合并[[Effect Size\|效应量]]与抽样方差来源于随机或固定效应模型的加权估计。 |
 
 ---
 
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 以成对 Wald 检验比较[[Graphic Organizer\|图形组织器]]类型、学段与[[Higher-Order Thinking Skills\|高阶思维]]构念层级的效应差异，[[Mind Mapping\|思维导图]]效应最大（g = 1.041）。
+> - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 以成对 Wald 检验比较[[Graphic Organizer\|图形组织器]]类型、学段与[[Higher-Order Thinking Skills\|高阶思维]][[Construct|构念]]层级的效应差异，[[Mind Mapping\|思维导图]]效应最大（g = 1.041）。

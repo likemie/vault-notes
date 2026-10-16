@@ -7,7 +7,7 @@ title: "Argument_Liu_2026_CHBR"
 argument_key: "Argument_Liu_2026_CHBR"
 argument_display_title: "Meta-analysis on the influence of AI agents on K-12 student cognitive performance"
 argument_kind: "journal-article"
-argument_related_count: 64
+argument_related_count: 65
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -80,7 +80,8 @@ related_methods:
   - "[[Trim and Fill Method]]"
   - "[[Fail-Safe N]]"
   - "[[Leave-One-Out Sensitivity Analysis]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Random-Effects Model]]"
+  - "[[Fixed-Effect Model]]"
   - "[[Confidence Interval]]"
   - "[[Forest Plot]]"
   - "[[Experimental Research]]"
@@ -106,7 +107,7 @@ tags:
   - method/meta-analysis
   - method/quantitative
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-10-16
 ---
 # Argument_Liu_2026_CHBR
 
@@ -248,10 +249,10 @@ updated: 2026-08-25
 ### 论证步骤一：AI 智能体对 K-12 学生认知学习成果产生统计显著的中等正向促进效应
 
 > [!claim] 总体正向主效应的确立
-> [[Fixed-Effect and Random-Effects Models\|随机效应模型]]合成结果表明，在基础教育课堂中引入 AI [[AI Agent in Education\|智能体]]对学生的认知学习成果具有统计学显著的中等促进效应（$g = 0.404, 95\%\text{ CI } [0.242, 0.567], Z = 4.87, p < .001$）。（pp.6–7）
+> [[Random-Effects Model\|随机效应模型]]合成结果表明，在基础教育课堂中引入 AI [[AI Agent in Education\|智能体]]对学生的认知学习成果具有统计学显著的中等促进效应（$g = 0.404, 95\%\text{ CI } [0.242, 0.567], Z = 4.87, p < .001$）。（pp.6–7）
 
 > [!chain-link] 总体[[Effect Size\|效应量]]分布与高[[Heterogeneity\|异质性]]分解
-> - **加权合并效应量** 固定效应模型下 $g = 0.269$ $[0.221, 0.316]$，随机效应模型下 $g = 0.404$ $[0.242, 0.567]$，证实 AI 智能体干预显著优于传统常规教学。
+> - **加权合并效应量** [[Fixed-Effect Model|固定效应模型]]下 $g = 0.269$ $[0.221, 0.316]$，随机效应模型下 $g = 0.404$ $[0.242, 0.567]$，证实 AI 智能体干预显著优于传统常规教学。
 > - **效应量分布区间** 在纳入的 73 个观测效应量中，17.81%（13个）为大效应（$g \ge 0.8$），10.95%（8个）为中等效应（$0.5 \le g < 0.8$），21.92%（16个）为小效应（$0.2 \le g < 0.5$），49.32%（36个）为微弱或负向效应（$g < 0.2$）。
 > - **实质异质性检验** 同质性检验显示极显著的高异质性（$Q = 813.560, \text{df} = 72, p < .001, I^2 = 91.2\%, \tau^2 = 0.448$），表明初级研究间的效应差异不能归结为抽样误差，必须采用随机效应模型并进一步开展亚组调节分析。（pp.6–7）
 
@@ -407,7 +408,7 @@ updated: 2026-08-25
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **AI [[AI Agent in Education\|智能体]]对 K-12 认知表现具有统计显著的中等促进效应** 综合 34 项实验与准[[Experimental Research\|实验研究]]（73 个[[Effect Size\|效应量]]，$N = 3{,}042$）得出随机效应汇总效应量 $g = 0.404$（$p < .001$），证实自适应智能体能够作为高效的外部认知中介。（pp.1, 6–7）
+> 1. **AI [[AI Agent in Education\|智能体]]对 K-12 认知表现具有统计显著的中等促进效应** 综合 34 项实验与准[[Experimental Research\|实验研究]]（73 个[[Effect Size\|效应量]]，$N = 3{,}042$）得出[[Random-Effects Model|随机效应]]汇总效应量 $g = 0.404$（$p < .001$），证实自适应智能体能够作为高效的外部认知中介。（pp.1, 6–7）
 > 2. **认知维度收益分化且[[Procedural Skill\|程序性技能]]最为稳定** AI 智能体对技能类结果（$g = 0.391, p < .001$）与知识类结果（$g = 0.344, p < .05$）均有显著提升，而高阶思维虽点估计较大（$g = 0.540$）但异质性极高（$I^2 = 95.4\%$）且未达统计显著（$p = .066$）。（pp.1, 7）
 > 3. **高小学段与语言艺术学科展现出最强干预敏感度** 高小学段（4–6 年级，$g = 0.877$）处于抽象逻辑转换期，促学成效最为突出；语言读写（$g = 0.830$）和艺术创造（$g = 0.755$）天然契合多轮交互特性，获益显著优于自然科学（$g = -0.065$）。（pp.1, 7–8）
 > 4. **各类智能体形态均具实效且中期干预表现最稳健** [[Intelligent Tutoring Systems\|智能导师系统]]、机器人、[[Generative AI Agent in Education\|生成式智能体]]与[[Conversational AI in Education|对话机器人]]均达显著正向效应（$g$ 在 0.421 至 0.540 之间），形态间差异不显著；1 至 3 个月中期干预（$g = 0.385$）效能最稳定。（pp.7–8）

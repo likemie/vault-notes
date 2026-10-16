@@ -19966,15 +19966,15 @@
     ]
   },
   {
-    "title": "Fixed-Effect and Random-Effects Models",
+    "title": "Fixed-Effect Model",
     "type": "method",
-    "path": "wiki/methods/quantitative/Fixed-Effect and Random-Effects Models.md",
+    "path": "wiki/methods/quantitative/Fixed-Effect Model.md",
     "aliases": [
       "固定效应模型",
-      "随机效应模型",
-      "Fixed-Effect Model",
-      "Random-Effects Model",
-      "固定与随机效应模型"
+      "固定效应",
+      "Fixed-Effect Models",
+      "Fixed Effect Model",
+      "Fixed Effect"
     ]
   },
   {
@@ -20779,6 +20779,19 @@
       "随机样本",
       "simple random sampling",
       "简单随机抽样"
+    ]
+  },
+  {
+    "title": "Random-Effects Model",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Random-Effects Model.md",
+    "aliases": [
+      "随机效应模型",
+      "随机效应",
+      "Random-Effects Models",
+      "Random Effects Model",
+      "Random Effect Model",
+      "Random Effects"
     ]
   },
   {

@@ -7,7 +7,7 @@ aliases:
 summary: "围绕 John Hattie Visible Learning 展开的批评谱系，集中讨论效应量排名、元-元分析、教学理论、教育哲学、可见性政治和商业化政策扩张等争议。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 138
+related_count: 139
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -110,9 +110,10 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
   - "[[Discourse Analysis]]"
+  - "[[Fixed-Effect Model]]"
   - "[[Sample Size Determination]]"
   - "[[Standard Error]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Random-Effects Model]]"
   - "[[Systematic Review]]"
   - "[[Random Assignment]]"
   - "[[Pre-test and Post-test]]"
@@ -228,7 +229,7 @@ updated: 2026-10-16
 
 > [!dev-timeline] 对可见学习批评的四个演进阶段
 > - **2009–2010 年 — 起源反弹与政策警示期** 《[[Visible Learning|可见的学习]]》出版同年，新西兰梅西大学学者（[[Argument_Snook_2009_NZJES\|Snook et al., 2009]]）即从垃圾进垃圾出、阈值武断与排斥社会因素等维度敲响警钟；[[Argument_Grace_2010_NZJES\|Grace (2010)]] 从学者社会良知出发批判其排除贫困与社会不平等，预示了方法论与社会学批判的基本分野。
-> - **2011–2016 年 — 德语学理深化与逐步技术审计期** 德国教学论权威 [[Argument_Terhart_2011_JCS\|Terhart (2011)]] 首次系统提出[[Meta-meta-analysis|元-元分析]]的双重困境、教学论内容空洞与福柯式可见性支配；随后 [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] 开展了长达 6 步的全面统计技术审计，从固定效应违反、加权缺失到方差失控，实证判定该方法在科学上不可行。
+> - **2011–2016 年 — 德语学理深化与逐步技术审计期** 德国教学论权威 [[Argument_Terhart_2011_JCS\|Terhart (2011)]] 首次系统提出[[Meta-meta-analysis|元-元分析]]的双重困境、教学论内容空洞与福柯式可见性支配；随后 [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] 开展了长达 6 步的全面统计技术审计，从[[Fixed-Effect Model|固定效应]]违反、加权缺失到方差失控，实证判定该方法在科学上不可行。
 > - **2017–2020 年 — 政治哲学批判、新泰勒制解构与质性案例审查期** 丹麦与澳洲学者全面转向哲学与微观权力批判：[[Argument_Rømer_2018_EPT\|Rømer (2018)]] 论证评价理论殖民教育理论，[[Argument_Larsen_2019_EducSci\|Larsen (2019)]] 提出“观看中的盲视”；[[Argument_Eacott_2019_IJLE\|Eacott (2019)]] 与 [[Argument_McKnight_2020_Discourse\|McKnight and Whitburn (2020)]] 揭露[[Cult of the Guru|大师崇拜]]与新泰勒制监控；[[Argument_OConnor_2020_AJLL\|O'Connor (2020)]] 通过[[Whole Language|全语言]]案例实证揭露先验立场对数据提取的扭曲。
 > - **2021–2026 年 — 深度意识形态解构与[[Metascience|元科学]]可复现性审计期** 批判深化为整体性科学划界与实证审计：Nielsen and Klitmøller (2021) 揭示[[Technical Rationality|技术理性]]满足[[Legitimation Crisis|合法化危机]]；[[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] 系统运用[[Cargo Cult Science|货物崇拜科学]]、[[Neo-Taylorism|新泰勒主义]]、简单算术平均与商业利益追踪实施四位一体解构；[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] 开展首个[[Preregistration|预注册]]元科学全库审计，以不足 1% 的数据复现率在实证上彻底确立了其不可作为决策依据的定论。
 
@@ -298,8 +299,8 @@ updated: 2026-10-16
 #### 模型假设系统违背与跨层异质性方差失控
 
 > [!critique-method] 一级与二级层面模型假设的系统性违反（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016, p. 32]]）
-> - **一级[[Fixed-Effect and Random-Effects Models|固定效应模型]]同质性假设遭到系统违反** 固定效应模型要求所有主要研究估计同一恒定真实效应，差异仅来自[[Sampling Error|抽样误差]]。但在教学主题、实施方法、实验材料与组织框架各异的现实下，研究间差异远超抽样误差，统计检验在多数情况下拒绝同质性假说。在一级分析中强行使用固定效应模型，导致标准误被系统性低估（省略了真实效应的方差分量 $\tau^2$）。
-> - **二级随机效应模型约束与参数估计失效** 一级已存在显著方差，二级汇总不可避免适用于随机效应模型。但每个影响因素平均仅约 5.8 项元分析（$800/138$），样本量严重不足以可靠估计 $\tau^2$。规范做法是汇总所有一级元分析的主要研究原始数据进行综合元分析，但这需要获取第一手数据，哈蒂并未执行。
+> - **一级[[Fixed-Effect Model|固定效应模型]]同质性假设遭到系统违反** 固定效应模型要求所有主要研究估计同一恒定真实效应，差异仅来自[[Sampling Error|抽样误差]]。但在教学主题、实施方法、实验材料与组织框架各异的现实下，研究间差异远超抽样误差，统计检验在多数情况下拒绝同质性假说。在一级分析中强行使用固定效应模型，导致标准误被系统性低估（省略了真实效应的方差分量 $\tau^2$）。
+> - **二级[[Random-Effects Model|随机效应模型]]约束与参数估计失效** 一级已存在显著方差，二级汇总不可避免适用于随机效应模型。但每个影响因素平均仅约 5.8 项元分析（$800/138$），样本量严重不足以可靠估计 $\tau^2$。规范做法是汇总所有一级元分析的主要研究原始数据进行综合元分析，但这需要获取第一手数据，哈蒂并未执行。
 
 > [!case] 容忍高达 93% 样本重叠引发虚假显著性膨胀（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016, pp. 29–30]]）
 > - **高比例样本重叠** 在基于网络的学习中，Olson and Wisher (2002) 包含 15 项主要研究，Sitzmann 等人 (2006) 涵盖了其中 14 项，样本重叠率高达 93%。哈蒂将二者作为独立来源纳入二级汇总，导致同一批受试者被重复计数。

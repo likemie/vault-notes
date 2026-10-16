@@ -58,9 +58,10 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Three-Level Meta-Analysis]]"
   - "[[Meta-regression]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Standard Error]]"
   - "[[Pre-test and Post-test]]"
+  - "[[Random-Effects Model]]"
+  - "[[Fixed-Effect Model]]"
   - "[[Confidence Interval]]"
   - "[[Between-Study Variance]]"
   - "[[Funnel Plot]]"
@@ -89,14 +90,14 @@ sources:
 part_of: ""
 status: draft
 created: 2026-09-02
-updated: 2026-10-08
+updated: 2026-10-16
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Guo_2025_TSC"
 argument_key: "Argument_Guo_2025_TSC"
 argument_display_title: "Effect of training programs on the creativity of university students: A multi-level meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 58
+argument_related_count: 59
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -230,13 +231,13 @@ issuing_organization: ""
 ### 论证步骤一：文献综合与全域效应估计——确立创造力干预对高校学生的中等促进基准
 
 > [!claim]
-> 实证研究数据有力支持了[[Creativity Training\|创造力训练]]在高等教育阶段的有效性；多层[[Fixed-Effect and Random-Effects Models\|随机效应模型]]表明，创造力干预对大学生的[[Creativity\|创造力]]水平产生中等且高度统计显著的正向促进效应（$g = 0.628, p < 0.001$），且实证结果不存在显著的发表偏倚。（pp.6–7）
+> 实证研究数据有力支持了[[Creativity Training\|创造力训练]]在高等教育阶段的有效性；多层[[Random-Effects Model\|随机效应模型]]表明，创造力干预对大学生的[[Creativity\|创造力]]水平产生中等且高度统计显著的正向促进效应（$g = 0.628, p < 0.001$），且实证结果不存在显著的发表偏倚。（pp.6–7）
 
 > [!ref-table]- 全域[[Effect Size\|效应量]]与[[Heterogeneity\|异质性]]检验表（Table 1）
 >
 > | 模型设定 | 研究数 $k$ | Hedges' $g$（95% CI） | 统计检验 | 模型与异质性解读 |
 > |---|---|---|---|---|
-> | **固定效应模型** | $k = 29$ | $0.572\ [0.504, 0.639]$ | $SE = 0.034,\ Z = 16.65\ (p < .001)$ | 基准同质性比较模型 |
+> | **[[Fixed-Effect Model\|固定效应模型]]** | $k = 29$ | $0.572\ [0.504, 0.639]$ | $SE = 0.034,\ Z = 16.65\ (p < .001)$ | 基准同质性比较模型 |
 > | **随机效应模型** | $k = 29$ | $\mathbf{0.628}\ [0.446, 0.809]$ | $SE = 0.092,\ \mathbf{Z = 6.79\ (p < .001)}$ | $Q(28) = 178.51^{***},\ I^2 = 84.31\%,\ \tau^2 = 0.189$；真实异质性高，确立中等促进基准 |
 
 > **图表解读** 
@@ -426,7 +427,7 @@ issuing_organization: ""
 > 4. **言语强化与认知思维策略构成最优干预抓手** 在干预方式中，言语训练（$g = 0.998$）与思维训练（$g = 0.762$）效果最为突出，且独立个体训练（$g = 0.682$）优于小组形式（$g = 0.567$）。（p.7）
 
 > [!stat-cards]- 核心数据
-> - **$g = 0.628$** [[Fixed-Effect and Random-Effects Models\|随机效应模型]]下创造力训练对大学生创造力的总体效应量（95% CI $[0.446, 0.809], p < 0.001$）。（p.6）
+> - **$g = 0.628$** [[Random-Effects Model\|随机效应模型]]下创造力训练对大学生创造力的总体效应量（95% CI $[0.446, 0.809], p < 0.001$）。（p.6）
 > - **$I^2 = 84.314\%$** 效应量间的真实[[Heterogeneity\|异质性]]比例指标（$Q = 178.507, \tau^2 = 0.189$）。
 > - **$g = 0.844$** $< 2$ 个月干预周期的效应量峰值（解释 13.4% 组间方差）。
 > - **$g = 0.998$** 言语训练方式的效应量估计值（$SE = 0.286, p < 0.001$）。（p.7）

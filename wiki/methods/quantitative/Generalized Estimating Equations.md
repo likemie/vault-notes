@@ -40,6 +40,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Hierarchical Linear Model]]"
   - "[[Ordinary Least Squares]]"
+  - "[[Random-Effects Model]]"
   - "[[Intraclass Correlation Coefficient]]"
   - "[[Cluster Randomized Trials]]"
   - "[[Stratified Sampling]]"
@@ -89,7 +90,7 @@ updated: 2026-10-16
 > - **知识观** 边际群体平均哲学。GEE 认为宏观政策与教育干预的核心决策目标是评估群体整体响应的平均位移，而非解构每一个特定学校的微观随机截距。因此将群聚依赖性视为“干扰参数（Nuisance Parameter）”，着力于在相关性干扰下提取纯净的一致点估计。
 > - **半参数属性** GEE 仅需要指定一阶矩（条件均值 $\mu_{ij} = g^{-1}(\mathbf{X}_{ij}'\boldsymbol{\beta})$）与二阶矩（方差函数 $V(\mu_{ij})$），完全回避了高阶完全联合似然函数的严苛正态分布假定。
 > - **有效性标准** [[Internal Validity\|内部效度]]取决于外生性设定；统计推断效度依赖三明治方差估计量的大样本渐进正态性（要求独立集群数 $J \ge 30 \sim 50$）。
-> - **不声称回答的问题** GEE 无法直接输出特定单个学校或班级的随机效应方差分量，亦不能像 [[Hierarchical Linear Model\|HLM]] 那样直接提供[[Intraclass Correlation Coefficient\|组内相关系数]]（ICC）的解析方差比例，不适合用于纯粹探究学校间组织[[Heterogeneity\|异质性]]的机制研究。
+> - **不声称回答的问题** GEE 无法直接输出特定单个学校或班级的[[Random-Effects Model|随机效应]]方差分量，亦不能像 [[Hierarchical Linear Model\|HLM]] 那样直接提供[[Intraclass Correlation Coefficient\|组内相关系数]]（ICC）的解析方差比例，不适合用于纯粹探究学校间组织[[Heterogeneity\|异质性]]的机制研究。
 
 > [!contrast-table] GEE vs 多层线性模型（HLM） vs [[Ordinary Least Squares\|OLS]] 聚类稳健[[Standard Error\|标准误]]
 > | 比较维度 | 广义估计方程（GEE） | 分层多层模型（HLM） | OLS 聚类稳健标准误（CRSE） |
@@ -227,7 +228,7 @@ updated: 2026-10-16
 > > [!axis] 群体平均边际视角 vs 混合效应主体特异性视角
 > > 统计学与方法论学者在分析教育嵌套数据时的流派争论。
 > >
-> > - **边际模型（GEE）阵营** 强调政策制定的公共属性。宏观教育决策者关心的是“推行该教学法能让全系统平均学童提高多少分”，而非某个特定学校潜[[Variable\|变量]]是多少。GEE 无需强加正态随机效应假定，对工作矩阵误设具有免疫力，是最诚实稳健的政策评估工具。
+> > - **边际模型（GEE）阵营** 强调政策制定的公共属性。宏观教育决策者关心的是“推行该教学法能让全系统平均学童提高多少分”，而非某个特定学校潜[[Variable\|变量]]是多少。GEE 无需强加正态[[Random-Effects Model|随机效应]]假定，对工作矩阵误设具有免疫力，是最诚实稳健的政策评估工具。
 > > - **多层模型（[[Hierarchical Linear Model\|HLM]]）阵营** 强调教育实践的生态分层属性。批评 GEE 将宝贵的学校间方差视作无用噪声（Nuisance），丢弃了理解学校组织差异与跨层级教学机制的机会。肖等学者（Xiao et al., 2016）利用 NPD 归档数据的复算表明，在教育试验样本充足且正态性良好的场景下，两类模型的点估计极为接近，共同构成了捍卫实验公信力的双重防火墙（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）。
 
 ---

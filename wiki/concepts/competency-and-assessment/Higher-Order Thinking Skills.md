@@ -90,6 +90,7 @@ related_methods:
   - "[[Correlational Research]]"
   - "[[Experimental Research]]"
   - "[[Baseline Standardized Mean Difference]]"
+  - "[[Random-Effects Model]]"
   - "[[Analytic Framework]]"
 related_instruments:
   - "[[California Critical Thinking Disposition Inventory]]"
@@ -402,7 +403,7 @@ updated: 2026-10-16
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] — [[Meta-analysis|元分析]] 29 项实验证实生成式 AI 促进高阶思维总体效应（$g = 0.609$），解构出[[Problem Solving|问题解决]] $>$ 批判思维 $>$ [[Creativity|创造力]]的效应梯度与[[Self-Regulated Learning|自主调节学习]]的显著调节。
 > - [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] — [[Meta-analysis\|元分析]] 57 项[[Experimental Research\|实验研究]]中生成式 AI 对大学生高阶思维（HOT）的促进效应（$g^+ = 0.580$），严格控制[[Baseline Standardized Mean Difference\|基线等效性]]（$d < 0.25$），揭示了生成式技术对高校批判反思与发散创造的中等显著赋能。
-> - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 运用随机效应[[Meta-analysis\|元分析]]综合 66 项实验与准[[Experimental Research\|实验研究]]（72 个[[Effect Size\|效应量]]，$N = 4{,}824$），系统检验[[Graphic Organizer\|图形组织器]]对高阶思维的促进效应（$g = 0.778$），揭示了思维倾向与认知过程收益显著高于技能结果、[[Divergent Thinking\|发散思维]]收益显著高于[[Convergent Thinking\|聚合思维]]的层级调节特征。
+> - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 运用[[Random-Effects Model|随机效应]][[Meta-analysis\|元分析]]综合 66 项实验与准[[Experimental Research\|实验研究]]（72 个[[Effect Size\|效应量]]，$N = 4{,}824$），系统检验[[Graphic Organizer\|图形组织器]]对高阶思维的促进效应（$g = 0.778$），揭示了思维倾向与认知过程收益显著高于技能结果、[[Divergent Thinking\|发散思维]]收益显著高于[[Convergent Thinking\|聚合思维]]的层级调节特征。
 > - [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] — 元分析综合 34 项实验检验 AI [[AI Agent in Education|智能体]]对 K-12 高阶思维的效应（$g = 0.540$），揭示高[[Heterogeneity|异质性]]下促学成效高度取决于[[Inquiry-Based Learning|探究式学习]]与反思支架设计。
 > - [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] — 运用[[Meta-meta-analysis\|二阶元分析]]系统考察[[Cooperative Learning\|合作学习]]对高阶思维技能的干预效应，报告了 $ES = 0.76$ 的高效益表现，证实社会建构互动对学生[[Critical Thinking\|批判性思维]]与复杂问题解决能力的突出推动价值。
 > - [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] — 二阶元分析报告 AI 教育应用对高阶思维的显著促进效应（$ES = 0.63$），依托五维框架厘清认知[[Externalization|外化]]与防范[[Cognitive Offloading|认知卸载]]的辩证关系。

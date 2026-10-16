@@ -6,7 +6,7 @@ aliases:
 summary: "以理由权衡、有目的的反思判断和自我调节为核心，统合认知技能、思维倾向、领域知识与情境标准；在教育研究中用于设计教学、界定学习结果并检验课程与评估的构念效度。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 119
+related_count: 120
 related_level: 6
 related_stars: "⭐⭐⭐⭐⭐⭐"
 related_color: "#ddd6fe"
@@ -95,7 +95,7 @@ related_methods:
   - "[[Triangulation]]"
   - "[[Effect Size]]"
   - "[[Prediction Interval]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Random-Effects Model]]"
   - "[[Questionnaire]]"
   - "[[Qualitative Interview]]"
   - "[[Multimodal Discourse Analysis]]"
@@ -426,10 +426,10 @@ updated: 2026-10-16
 >
 > | 一阶元分析 | 当前概念角色与总体结果 | $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% CI | [[Heterogeneity\|异质性]]与[[Prediction Interval\|预测区间]] | 关键解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | [[Dependent Variable\|结果变量]]：教学干预对通用批判性思维技能的促进效应 | $k = 341$ / $N = —$ | Hedges' $g+$ / [[Fixed-Effect and Random-Effects Models\|随机效应模型]] | $g+ = 0.30$ $[0.25, 0.34]$ | $Q(340) = 1,225.89, p = .001, I^2 = 72.27\%$ | 严格排除前实验与非标准化测验；通用批判性思维标准化测试结果 |
+> | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] | [[Dependent Variable\|结果变量]]：教学干预对通用批判性思维技能的促进效应 | $k = 341$ / $N = —$ | Hedges' $g+$ / [[Random-Effects Model\|随机效应模型]] | $g+ = 0.30$ $[0.25, 0.34]$ | $Q(340) = 1,225.89, p = .001, I^2 = 72.27\%$ | 严格排除前实验与非标准化测验；通用批判性思维标准化测试结果 |
 > | 同上 | 结果变量：教学干预对[[Domain Specificity\|学科特异性]]批判性思维技能的促进效应 | $k = 97$ / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.57$ $[0.47, 0.68]$ | $Q(96) = 544.32, p < .001, I^2 = 82.36\%$ | 排除前实验；包含学科特异性标准化（$g+=0.40$）与非标准化（$g+=0.65$）测验 |
 > | 同上 | 结果变量：教学干预对[[Critical Thinking Disposition\|批判性思维倾向]]的促进效应 | $k = 25$ / $N = —$ | Hedges' $g+$ / 随机效应模型 | $g+ = 0.23$ $[0.06, 0.40]$ | $Q(24) = 82.32, p < .001, I^2 = 70.84\%$ | 排除前实验；采用 CCTDI 等自陈倾向问卷测量 |
-> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | [[Dependent Variable\|结果变量]]：生成式 AI 对学生批判性思维技能的促进效应 | $k = 20$ / 29 项研究中 20 个效应量 | Hedges' $g$ / [[Fixed-Effect and Random-Effects Models\|随机效应模型]] | $g = 0.691$ $[0.464, 0.918]$ | $Z = 5.973, p < .001$ | 综合 2022–2025 年实验证据，生成式 AI 辩论与提示脚手架显著促进论证评估与事实核验反思 |
+> | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | [[Dependent Variable\|结果变量]]：生成式 AI 对学生批判性思维技能的促进效应 | $k = 20$ / 29 项研究中 20 个效应量 | Hedges' $g$ / [[Random-Effects Model\|随机效应模型]] | $g = 0.691$ $[0.464, 0.918]$ | $Z = 5.973, p < .001$ | 综合 2022–2025 年实验证据，生成式 AI 辩论与提示脚手架显著促进论证评估与事实核验反思 |
 > | Özkan & Çetinkaya-Uslusoy (2024)，引自 [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：[[Jigsaw\|拼图法]]对护理临床批判性思维的促进效应 | $k = 4$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.70$ $[0.13, 1.26]$ | — | 高等护理教育临床决策情境，拼图法结构化互动显著提升反思决策 |
 > | Siagian et al. (2023)，引自同上 | 结果变量：[[Cooperative Learning\|合作学习]]对数学批判性思维技能的促进效应 | $k = 35$ / $N = —$ | Cohen's $d$ / 随机效应模型 | $ES = 0.79$ $[0.58, 1.00]$ | — | 印尼中小学数学教学情境，合作学习显著增强批判性解题能力 |
 > | [[Argument_Park_2026_TSC\|Park et al. (2026)]] | 关联构念：学生样本中批判性思维与[[Creativity\|创造力]]的总体相关 | $k = 51$ / $N = 12{,}548$ | 皮尔逊 $r$（Fisher's $z$ 变换）/ 三水平随机效应模型 | $r = 0.386$ $[0.296, 0.470]$ | $I^2 = 95.6\%$，$Q(50) = 1133.19, p < .001$ | 29 项研究 51 个效应量；相关随测量类型组合而变，双主观组合最高 |
@@ -459,7 +459,7 @@ updated: 2026-10-16
 > | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] | 结果变量：[[Cooperative Learning\|合作学习]]对高阶思维（含批判性思维）的干预效应 | $M = 3$；$E = 4$；$k = —$；$N = —$（全数据集总 $k = 403$） | Cohen's $d$ / 随机效应模型经典逆方差加权 | $ES = 0.76$ $[0.42, 1.11]$ | 全集 $Q(22) = 349.48, p < .01, I^2 = 93.70\%, \tau^2 = 0.13$；95% PI 未报告 | 高阶思维亚组包含批判性思维与创造性思维研究，证实合作互动对批判性反思的高促进作用 |
-> | [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] | 结果变量：高等教育 [[Problem-Based Learning\|问题本位学习]]（PBL）对批判性思维的促进效应 | $M = 20$；$E = 6$（批判性思维亚组）；$k = 469$；$N = —$ | 标准化均差（SMD）/ [[Fixed-Effect and Random-Effects Models\|随机效应模型]] | $ES = 0.56$ $[0.24, 0.89]$ | 全集 $Q(46) = 730.67, p < .001, I^2 = 93.70\%$；95% PI 未报告 | 仅代表高等教育情境下 PBL 干预，不同学科专业间异质性极高 |
+> | [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] | 结果变量：高等教育 [[Problem-Based Learning\|问题本位学习]]（PBL）对批判性思维的促进效应 | $M = 20$；$E = 6$（批判性思维亚组）；$k = 469$；$N = —$ | 标准化均差（SMD）/ [[Random-Effects Model\|随机效应模型]] | $ES = 0.56$ $[0.24, 0.89]$ | 全集 $Q(46) = 730.67, p < .001, I^2 = 93.70\%$；95% PI 未报告 | 仅代表高等教育情境下 PBL 干预，不同学科专业间异质性极高 |
 
 > [!ma-table]- 二阶元分析互补维度亚组
 > <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>
@@ -499,7 +499,7 @@ updated: 2026-10-16
 > - **PBL 与[[Meta-meta-analysis|二阶元分析]]实证** [[Argument_Erdem_2026_SHE|Erdem et al. (2026)]] 综合 20 项一阶元分析，报告 PBL 对高等教育学生[[Critical Thinking|批判性思维]]的高效应（ES = 0.56），并将批判性思维作为结果类型之一纳入调节分析。
 > - **与[[Creativity|创造力]]关系的元分析实证** [[Argument_Park_2026_TSC|Park et al. (2026)]] 综合 29 项学生研究 51 个[[Effect Size|效应量]]，确立批判性思维与创造力中等正相关（$r = 0.386$），并证实测量类型显著调节相关，双主观测量组合相关最高（$r = 0.509$），提示自陈测量中的[[Common Method Variance|共同方法变异]]放大了观察相关。
 > - **[[Generative Artificial Intelligence|生成式人工智能]]促进与[[Epistemic Friction|认识论摩擦]]机制** [[Argument_Li_2026_CEAI|Li et al. (2026)]] [[Systematic Review|系统综述]] 67 项实证研究，揭示 ChatGPT 对批判性思维具有催化反思与诱发认知惰性的双重效应，确立了维持认识论摩擦与显性反思支架防范批判性论证退化的教学干预机制。
-> - **生成式 AI 促进批判性思维的元分析实证** [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] 运用随机效应[[Meta-analysis|元分析]]综合 29 项实验（批判性思维子维度 $k = 20$），证实生成式 AI 显著促进批判性思维（$g = 0.691$），并指出 AI 偶发幻觉反而能激发学生对抗质疑与核验反思。
+> - **生成式 AI 促进批判性思维的元分析实证** [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] 运用[[Random-Effects Model|随机效应]][[Meta-analysis|元分析]]综合 29 项实验（批判性思维子维度 $k = 20$），证实生成式 AI 显著促进批判性思维（$g = 0.691$），并指出 AI 偶发幻觉反而能激发学生对抗质疑与核验反思。
 > - **[[Epistemic Cognition|认识论认知]]干预与批判性论证元分析** [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] 综合 26 项干预（$N = 4,373$），证实认识论认知干预对高阶论证产生强劲因果促进（$d = 1.047$），并确立基础教育阶段是认识论素养培育的黄金窗口。
 > - **[[Knowledge-Based Economy|知识经济]]规约与民主批判遮蔽** [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi and Lingard (2009, p. 446)]] 揭示新自由主义知识经济[[Social Imaginary|社会想象]]如何将教育还原为[[Human Capital Theory|人力资本]]投资，将批判性思维降格为市场工具并遮蔽公民民主反思。
 > - **[[Critical Thinking Assessment|批判性思维测评]]与测量方法学** 参见专门概念条目 [[Critical Thinking Assessment|批判性思维测评]]，该条目系统整合了从心理测量学客观测试（[[Watson-Glaser Critical Thinking Appraisal|WGCTA]]/[[California Critical Thinking Skills Test|CCTST]]）、自陈倾向[[Questionnaire|问卷]]（[[California Critical Thinking Disposition Inventory|CCTDI]]/[[Critical Thinking Strategies Scale|CTSS]]）到校本真实性评分量规（VALUE/[[CALOHEE Project|CALOHEE]]）的工具谱系、共同方法变异机制及形成性[[Formative Assessment|促学评价]]生态。

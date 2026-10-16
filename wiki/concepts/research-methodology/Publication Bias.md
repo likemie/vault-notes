@@ -48,6 +48,7 @@ related_methods:
   - "[[Confidence Interval]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Systematic Review]]"
+  - "[[Random-Effects Model]]"
   - "[[Experimental Research]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Correlational Research]]"
@@ -203,7 +204,7 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与情境 | 研究设计 | 偏倚检验工具与指标 | 关键校正结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 认识论认知干预文献库，26 项实验与准实验（28 个独立样本、$N = 4,373$） | 随机效应元分析多重偏倚诊断 | [[Funnel Plot\|漏斗图]]、Egger 检验、Duval & Tweedie [[Trim and Fill Method\|剪补法]]、Rosenthal 与 Orwin [[Fail-Safe N\|失安全数]] | 漏斗图呈现不对称且 Egger 检验显著；剪补法虚拟填补 6 项研究后效应量从 $d = 0.509$ 下调为 $d = 0.342$；失安全数 $N_{fs} = 2{,}593$；Orwin $N_{fs} = 46$（目标 $d = 0.20$） | 剪补后 $95\% \text{ CI } [0.155, 0.528], p < .001$，仍高度显著 | 严谨的多工具互证证实认识论干预即使扣除潜在发表偏倚后，依然保持稳健的中等因果促进效应（pp. 484–485） |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 认识论认知干预文献库，26 项实验与准实验（28 个独立样本、$N = 4,373$） | [[Random-Effects Model\|随机效应]]元分析多重偏倚诊断 | [[Funnel Plot\|漏斗图]]、Egger 检验、Duval & Tweedie [[Trim and Fill Method\|剪补法]]、Rosenthal 与 Orwin [[Fail-Safe N\|失安全数]] | 漏斗图呈现不对称且 Egger 检验显著；剪补法虚拟填补 6 项研究后效应量从 $d = 0.509$ 下调为 $d = 0.342$；失安全数 $N_{fs} = 2{,}593$；Orwin $N_{fs} = 46$（目标 $d = 0.20$） | 剪补后 $95\% \text{ CI } [0.155, 0.528], p < .001$，仍高度显著 | 严谨的多工具互证证实认识论干预即使扣除潜在发表偏倚后，依然保持稳健的中等因果促进效应（pp. 484–485） |
 > | [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] | 生成式 AI 促进[[Higher-Order Thinking Skills\|高阶思维]]的 29 项实验与准[[Experimental Research\|实验研究]]（59 个[[Effect Size\|效应量]]） | 一阶元分析偏倚审计 | 漏斗图目视诊断结合 Egger 线性回归截距检验 | 漏斗图散点大体围绕均值对称分布；Egger 回归截距检验统计量 $t = 1.871, p = 0.066$ | $p > 0.05$ 未达统计显著水平 | 参数检验排除了严重发表偏倚对合并促学效应（$g = 0.609$）的实质性扭曲（pp. 9–10） |
 > | [[Argument_Wolf_2020_JREE\|Wolf et al. (2020)]] | [[What Works Clearinghouse\|WWC]] 收录的中小学数学与阅读干预 [[Randomised Controlled Trials\|RCT]]/[[Quasi-Experimental Designs\|QED]] 研究库 | 权重函数模型校正 | Vevea-Hedges 权重函数模型、亚组效应对比 | 开发者研究原始 $ES = +0.292$，校正后 $+0.276$；独立研究原始 $ES = +0.177$，校正后 $+0.200$；组间差异由 0.115 降为 0.076 | 独立研究校正前后差异达显著（$p < .05$） | 证实发表偏倚约解释 66% 的[[Developer Effect\|开发者效应]]，且独立评估更容易受制于期刊选择性发表（p. 442） |
 

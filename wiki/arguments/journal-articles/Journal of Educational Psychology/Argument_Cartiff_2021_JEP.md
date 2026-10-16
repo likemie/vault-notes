@@ -66,7 +66,7 @@ related_theories:
 related_methods:
   - "[[Intervention Research]]"
   - "[[Meta-analysis]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Random-Effects Model]]"
   - "[[Experimental Research]]"
   - "[[Effect Size]]"
   - "[[Moderator Analysis]]"
@@ -76,6 +76,7 @@ related_methods:
   - "[[Fail-Safe N]]"
   - "[[Standard Error]]"
   - "[[Sample Size Determination]]"
+  - "[[Fixed-Effect Model]]"
   - "[[Pre-test and Post-test]]"
   - "[[Statistical Significance]]"
   - "[[Quasi-Experimental Designs]]"
@@ -102,7 +103,7 @@ title: "Argument_Cartiff_2021_JEP"
 argument_key: "Argument_Cartiff_2021_JEP"
 argument_display_title: "The effect of epistemic cognition interventions on academic achievement: A meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 64
+argument_related_count: 65
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -120,7 +121,7 @@ journal: "Journal of Educational Psychology"
 > 教学干预能否通过改变学生的[[Epistemic Cognition\|认识论认知]]（即关于知识本质以及如何通过证据验证知识的理解），帮助其建立理性的[[Justificatory Standards\|确证标准]]并实质性促进[[Academic Achievement\|学业成就]]？这种促进效应究竟有多大？具体通过哪些教学设计与测量方式才能取得最佳效果？
 
 > [!claim] 核心主张
-> 对 26 项实验与准实验[[Intervention Research\|干预研究]]（28 个独立样本、$N = 4{,}373$）的[[Meta-analysis\|元分析]]表明，认识论认知教学干预对学业成就具有稳健且达中等强度的因果促进效应（[[Fixed-Effect and Random-Effects Models\|随机效应模型]] $d = 0.509$），超越了一般教育干预的平均基线水平；在教学方式上，明确讲授证据评估规则与提供支架的[[Inquiry-Based Learning\|指导式探究]]显著优于放任型自由探索；在测量敏感度上，干预重点促进高阶论证建构与概念理解而非[[Rote Learning\|机械记忆]]；短周期集中教学（数天至 4 周）配合即时反馈比长达一学期的干预更易见效且在延时测试中表现出显著的后劲反弹；中小学学生的干预效果是大学生的两倍，证实了认识论认知在基础教育阶段可教、易学且成效突出。（pp. 477, 485–493）
+> 对 26 项实验与准实验[[Intervention Research\|干预研究]]（28 个独立样本、$N = 4{,}373$）的[[Meta-analysis\|元分析]]表明，认识论认知教学干预对学业成就具有稳健且达中等强度的因果促进效应（[[Random-Effects Model\|随机效应模型]] $d = 0.509$），超越了一般教育干预的平均基线水平；在教学方式上，明确讲授证据评估规则与提供支架的[[Inquiry-Based Learning\|指导式探究]]显著优于放任型自由探索；在测量敏感度上，干预重点促进高阶论证建构与概念理解而非[[Rote Learning\|机械记忆]]；短周期集中教学（数天至 4 周）配合即时反馈比长达一学期的干预更易见效且在延时测试中表现出显著的后劲反弹；中小学学生的干预效果是大学生的两倍，证实了认识论认知在基础教育阶段可教、易学且成效突出。（pp. 477, 485–493）
 
 > [!concept-lens] 阅读透镜
 > - **对象** 全球 26 项旨在提升认识论认知的实验与对照组准[[Experimental Research\|实验研究]]，涵盖 28 个样本群体、59 个[[Effect Size\|效应量]]以及 4,373 名大中小学学生。
@@ -233,14 +234,14 @@ journal: "Journal of Educational Psychology"
 ### 论证步骤一　认识论认知干预能够有效改善学业成绩且因果效应达到中等强度
 
 > [!claim] 步骤一核心主张
-> [[Meta-analysis\|元分析]]合并结果证实，针对[[Epistemic Cognition\|认识论认知]]的教学干预能够带来显著且稳健的[[Academic Achievement\|学业成就]]提升，其平均效应达到中等偏上水平（[[Fixed-Effect and Random-Effects Models\|随机效应模型]] $d = 0.509$），确立了认识论认知的因果改善作用。（p. 485）
+> [[Meta-analysis\|元分析]]合并结果证实，针对[[Epistemic Cognition\|认识论认知]]的教学干预能够带来显著且稳健的[[Academic Achievement\|学业成就]]提升，其平均效应达到中等偏上水平（[[Random-Effects Model\|随机效应模型]] $d = 0.509$），确立了认识论认知的因果改善作用。（p. 485）
 
 #### 1. 实验与准实验干预平均带来中等程度的学业表现提升
 
 > [!ref-table]- 表 2：纳入研究总体[[Effect Size\|效应量]]合并结果（p. 485）
 > | 统计模型 | [[Sample Size Determination\|样本量]]（k） | 效应量（d） | 95% [[Confidence Interval\|置信区间]]（95% CI） | Z 值 | Q 值 | df | [[Heterogeneity\|异质性]]（I²） |
 > |---|---|---|---|---|---|---|---|
-> | 固定效应模型 | 28 | .372 | [.324, .420] | 15.149*** | 370.964*** | 27 | 92.722% |
+> | [[Fixed-Effect Model\|固定效应模型]] | 28 | .372 | [.324, .420] | 15.149*** | 370.964*** | 27 | 92.722% |
 > | 随机效应模型 | 28 | .509 | [.326, .692] | 5.452*** | — | — | — |
 >
 > **图表解读** 分析涵盖 28 个独立样本与 4,373 名学生，提取出 59 个效应量。随机效应合并指标 $d = 0.509$（$p < .001$）；$I^2 = 92.722\%$ 表明研究间存在高度实质性差异，反映出教学条件与评价方式存在明显的调节作用。
@@ -504,7 +505,7 @@ journal: "Journal of Educational Psychology"
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **因果改善效应确立** [[Epistemic Cognition\|认识论认知]]干预对[[Academic Achievement\|学业成就]]具有显著且达中等强度的因果促进作用（[[Fixed-Effect and Random-Effects Models\|随机效应模型]] $d = 0.509$），超越常规教育干预基准并经受住了[[Publication Bias\|发表偏倚]]检验。（p. 485）
+> 1. **因果改善效应确立** [[Epistemic Cognition\|认识论认知]]干预对[[Academic Achievement\|学业成就]]具有显著且达中等强度的因果促进作用（[[Random-Effects Model\|随机效应模型]] $d = 0.509$），超越常规教育干预基准并经受住了[[Publication Bias\|发表偏倚]]检验。（p. 485）
 > 2. **指导优于放任探索** 明确讲授评估规则的[[Inquiry-Based Learning\|指导式探究]]（$d = 0.808$）与[[Source Evaluation\|信源评估]]（$d = 0.800$）成效最佳，缺乏支架的自主[[Problem Solving\|问题解决]]（$d = 0.340$）与开放辩论（$d = 0.134$）效果微弱。（p. 486）
 > 3. **精准提升[[Higher-Order Thinking Skills\|高阶思维]]** 干预重点提升高阶论证能力（$d = 1.047$）与深层概念转变（$d = 0.557$），对机械公式套用（$d = 0.140$）脱节；自编测验因敏锐捕捉到了深层变化而呈现出更高的有效性。（p. 488）
 > 4. **打破时长迷思与后劲反弹** 1 至 4 周的集中教学（$d = 0.615 \sim 0.925$）显著优于一整学期的长干预（$d = 0.234$），长期干预指标偏低源于选用了不敏感的期末统考；延时测试中更表现出效应翻倍（$d = 0.966$）的内化沉淀优势。（p. 490）

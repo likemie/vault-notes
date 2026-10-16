@@ -5,7 +5,7 @@ aliases:
 summary: "围绕效应量作为教育有效性指标的多维度批评体系，涵盖计算口径不可比、聚合失真、关节点争议、试验清晰度论证及政策排名风险"
 type: concept
 domain: "research-methodology"
-related_count: 51
+related_count: 52
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -43,7 +43,7 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Pre-test and Post-test]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Fixed-Effect Model]]"
   - "[[Intervention Research]]"
   - "[[Effect Size Conversion]]"
   - "[[Sample Size Determination]]"
@@ -218,7 +218,7 @@ updated: 2026-10-16
 >
 > - **[[Standard Error\|标准误]]与标准差的混淆** 在个别一级元分析的主要研究中，[[Standard Error\|标准误]]被错误地当作标准差使用（[[Argument_Wecker_2016_ZfE\|Wecker et al., 2016, pp.26–27]]）。例如 Eisenstaedt 等人（1990）的主要研究中，控制组的标准误=2.74 被当作标准差来处理，导致效应量计算严重错误（原应为 d=-0.80，而非 Hattie 引用的极端值）
 > - **效应量测度混合使用** Hattie 交替使用 Cohen's d、Hedges' g、Glass' Δ 和 Fisher's z，但在二级元分析中对它们进行直接汇总而不做转换——"如果第一级的元分析使用不同的效应量测量，在第二级元分析中后续总结是有问题的，因为提到的测量没有相互转换"（p.27）
-> - **[[Fixed-Effect and Random-Effects Models\|固定效应模型]]的错误加权** Hattie 声称使用固定效应模型（p.12），但实际执行中使用了未加权的简单算术平均值——Wecker 等人证明正确加权可将效应量从 0.59 变为 0.23（pp.29–30）
+> - **[[Fixed-Effect Model\|固定效应模型]]的错误加权** Hattie 声称使用固定效应模型（p.12），但实际执行中使用了未加权的简单算术平均值——Wecker 等人证明正确加权可将效应量从 0.59 变为 0.23（pp.29–30）
 
 ---
 

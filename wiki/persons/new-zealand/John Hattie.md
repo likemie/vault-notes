@@ -8,7 +8,7 @@ summary: "新西兰教育统计学家，Visible Learning作者与元分析综合
 type: person
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 130
+person_related_count: 131
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
@@ -94,10 +94,11 @@ related_methods:
   - "[[Comparative Meta-synthesis]]"
   - "[[Correlational Research]]"
   - "[[In-depth Interview]]"
+  - "[[Fixed-Effect Model]]"
   - "[[Standard Error]]"
-  - "[[Confidence Interval]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Random-Effects Model]]"
   - "[[Sample Size Determination]]"
+  - "[[Confidence Interval]]"
   - "[[Intraclass Correlation Coefficient]]"
 related_persons:
   - "[[Gerald Grace]]"
@@ -128,9 +129,9 @@ related_arguments:
   - "[[Argument_Laursen_2015_Paideia]]"
   - "[[Argument_Qvortrup_2019_NordSTEP]]"
   - "[[Argument_Golovchin_2019_ESC]]"
+  - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Snook_2010_NZJES]]"
-  - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Argument_Bergeron_2017_MJE]]"
   - "[[Argument_Allerup_2015_Paideia]]"
   - "[[Argument_OConnor_2020_AJLL]]"
@@ -292,7 +293,7 @@ updated: 2026-10-16
 > [!person-network] 关系网络
 > - **师承／合作者** Herbert Walberg — 早期共同开展 226 项[[Meta-meta-analysis\|元综合]]检验[[Walberg's Educational Productivity Model\|教育生产力模型]]；[[John Biggs]] — 合作开展学习技能干预[[Meta-analysis\|元分析]]；Helen Timperley — 共同发表里程碑式反馈元分析；Gregory Yates — 合作撰写学习科学著作；Tanja Jansen 与 Jens Möller 等 — 合作开展基于 Meta-X 数据库的大语言模型[[Automated Data Extraction\|自动化数据提取]]前沿实证评测。
 > - **学生／继承者** [[Thomas Nordahl]]、Ane Qvortrup、Claus Nygaard — 斯堪的纳维亚引介者与北欧[[Going Native\|本土化]]转译者；Deb Masters — [[Visible Learning]] 培训实施与案例库联合编著者。
-> - **批评者／论敌** Christof Wecker、Florian Vogel & Alexander Hetmanek — 开展德语界首个全面数理统计审查，严格推导两级固定效应代数等价性与六步规程，实证判定超级元分析在科学上不可行；Ivan Snook & John Clark — 新西兰学术论战主要发起者，系统指控元分析方法缺陷；[[Gerald Grace]] — 批判其误用“社会的良知与批评者”法定角色；Ewald Terhart — 早期系统学术书评，指出理论空洞与福柯式监控统治；[[Scott Eacott]] — 批判澳大利亚[[School Leadership\|学校领导力]]陷入“[[Cult of the Guru\|大师崇拜]]”与[[Neo-Taylorism\|新泰勒主义]]；[[Klaus Nielsen]] & Jørgen Klitmøller — 细读反馈原始元分析并揭示[[Technical Rationality\|技术理性]][[Legitimation Crisis|合法化危机]]。
+> - **批评者／论敌** Christof Wecker、Florian Vogel & Alexander Hetmanek — 开展德语界首个全面数理统计审查，严格推导两级[[Fixed-Effect Model|固定效应]]代数等价性与六步规程，实证判定超级元分析在科学上不可行；Ivan Snook & John Clark — 新西兰学术论战主要发起者，系统指控元分析方法缺陷；[[Gerald Grace]] — 批判其误用“社会的良知与批评者”法定角色；Ewald Terhart — 早期系统学术书评，指出理论空洞与福柯式监控统治；[[Scott Eacott]] — 批判澳大利亚[[School Leadership\|学校领导力]]陷入“[[Cult of the Guru\|大师崇拜]]”与[[Neo-Taylorism\|新泰勒主义]]；[[Klaus Nielsen]] & Jørgen Klitmøller — 细读反馈原始元分析并揭示[[Technical Rationality\|技术理性]][[Legitimation Crisis|合法化危机]]。
 > - **机构／运动／项目** [[Visible Learning]] — 核心研究成果；[[Visible Learning Meta-X]] — 亲自创建并持续维护的全球最大元分析汇聚数据库；Visible Learning 品牌化与全球影响 — 其学术成果依托的跨国培训产业与政策扩散历程；[[Cognition Education]] — 长期董事兼培训商业化运营商；[[Australian Institute for Teaching and School Leadership\|AITSL]] — 担任董事会主席并推动将可见学习嵌入国家专业标准；[[Evidence for Learning]]（E4L）— 担任学校专家咨询委员会主席，指导工具包与实践指南本土化；新西兰教育部 — 委托开发 [[Assessment Tools for Teaching and Learning\|asTTle]] 评估系统与国家标准技术顾问；[[Education Endowment Foundation\|EEF]] — 资助 Visible Classroom 试点并将其实证纳入证据工具箱。
 
 ---
@@ -316,7 +317,7 @@ updated: 2026-10-16
 > > [!axis] 统计方法学审查：通用连续体与伪综合指控
 > > 围绕六个分析步骤与计算逻辑，统计学界与比较教育学界展开严格的方法论质询。
 > >
-> > - **Wecker 等人** 从两级固定效应模型的数理等价性（$D = \bar{d}, v_D = v_{\bar{d}}$）与六步规程严格审视，揭示其代数前提被严重践踏：混淆标准误与标准差使 Eisenstaedt 数据被虚假放大十倍（$-0.80 \to -8.291$），依据离散度硬造伪标准误使直接教学权重被削减 53.5%，容忍 93.3% 文献重叠导致网络学习效应量暴跌并跌破 0.40 关节点（$0.59 \to 0.23$，排名第 26 跌至第 98），且面临一级同质性假设破产与二级随机效应样本不足的双重模型错配，在德甲联赛隐喻下判定 138 个跨本体范畴因素的比较在科学上不可行。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–34)]]
+> > - **Wecker 等人** 从两级[[Fixed-Effect Model|固定效应模型]]的数理等价性（$D = \bar{d}, v_D = v_{\bar{d}}$）与六步规程严格审视，揭示其代数前提被严重践踏：混淆[[Standard Error|标准误]]与标准差使 Eisenstaedt 数据被虚假放大十倍（$-0.80 \to -8.291$），依据离散度硬造伪标准误使[[Direct Instruction|直接教学]]权重被削减 53.5%，容忍 93.3% 文献重叠导致网络学习[[Effect Size|效应量]]暴跌并跌破 0.40 关节点（$0.59 \to 0.23$，排名第 26 跌至第 98），且面临一级同质性假设破产与二级[[Random-Effects Model|随机效应]]样本不足的双重模型错配，在德甲联赛隐喻下判定 138 个跨本体范畴因素的比较在科学上不可行。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–34)]]
 > > - **Bergeron 与 Rivard** 从统计学家视角定性为伪科学：常用[[Effect Size\|效应量]]（Common Language Effect Size，CLE）计算错误出现负概率、不同效应量公式产生矛盾排名、聚合任意性。[[Argument_Bergeron_2017_MJE\|(Bergeron & Rivard, 2017)]]
 > > - **Allerup 与 O'Connor** 指出排名缺乏显著性检验且[[Societies of Control\|控制社会]]背景后边际效应大跌；[[Whole Language\|全语言]]案例审查揭示分类错误与先验偏见驱动的单向修正。[[Argument_Allerup_2015_Paideia\|(Allerup, 2015)]]; [[Argument_OConnor_2020_AJLL\|(O'Connor, 2020)]]
 > > - **Kalmendal 等人** 开展学界首个针对《[[Visible Learning|可见的学习]]》（1.2 版）全量 322 个影响因素的[[Preregistration|预注册]][[Metascience|元科学]]审计，发现该体系在证据生成各环节存在系统性崩溃：仅 19% 满足 [[PICO Framework\|PICO]] 纳入基准，27% 混杂了不可[[Commensuration|通约]]的组间、组内及[[Correlational Research|相关设计]]；在检验的 301 个影响因素中，仅 2 项（0.66%）可完全复现数据提取，44% 报告的效应量在引证原文中完全不存在，实证终结了其通用连续体与聚合效应量的科学可[[Reliability|信度]]。[[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, pp. 1, 14–19)]]
@@ -336,7 +337,7 @@ updated: 2026-10-16
 
 > [!critique]- 批评索引
 > - [[Argument_Terhart_2011_JCS\|Terhart, 2011]] — [[Didaktik\|教学理论]]内容空洞、Popper 误用与可见性福柯式支配批评。
-> - [[Argument_Allerup_2015_Paideia\|Allerup, 2015]] — 效应量排名[[Sample Size Determination\|样本量]]依赖、置信区间缺失与社会经济背景控制批评。
+> - [[Argument_Allerup_2015_Paideia\|Allerup, 2015]] — 效应量排名[[Sample Size Determination\|样本量]]依赖、[[Confidence Interval|置信区间]]缺失与社会经济背景控制批评。
 > - [[Argument_Wecker_2016_ZfE|Wecker et al., 2016]] — 推导两级固定效应代数等价性定理与六步规程，以 Eisenstaedt（10倍虚增）、Haas（权重削减53%）及 Olson & Wisher（93%重叠致排名雪崩）实证解构超级元分析可行性。
 > - [[Argument_Bergeron_2017_MJE\|Bergeron & Rivard, 2017]] — CLE 负概率计算错误、基线任意性与伪科学定性。
 > - [[Argument_Eacott_2017_SLM\|Eacott, 2017]] — 澳大利亚[[School Leadership\|学校领导力]]屈从于大师崇拜与新泰勒主义批判。

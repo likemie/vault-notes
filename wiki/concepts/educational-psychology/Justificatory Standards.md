@@ -48,6 +48,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
+  - "[[Random-Effects Model]]"
   - "[[Correlational Research]]"
 related_persons:
   - "[[Clark A. Chinn]]"
@@ -203,7 +204,7 @@ updated: 2026-10-16
 >
 > | 元分析 | [[Dependent Variable\|结果变量]] | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]] | 证据确定性 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | [[Academic Achievement\|学业成就]]（因果干预效应） | 28 / 4,373 | Cohen's d；随机效应 | 0.509 [0.326, 0.692] | I²=92.72%，Q=370.964*** | — |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | [[Academic Achievement\|学业成就]]（因果干预效应） | 28 / 4,373 | Cohen's d；[[Random-Effects Model\|随机效应]] | 0.509 [0.326, 0.692] | I²=92.72%，Q=370.964*** | — |
 
 > [!ma-table]- 调节[[Variable\|变量]]与亚组分析
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>

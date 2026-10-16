@@ -63,6 +63,7 @@ related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Experimental Research]]"
   - "[[Pre-Experimental Designs]]"
+  - "[[Random-Effects Model]]"
   - "[[Between-Study Variance]]"
   - "[[Funnel Plot]]"
   - "[[Moderator Analysis]]"
@@ -203,7 +204,7 @@ issuing_organization: ""
 > 针对高质量实验与准[[Experimental Research\|实验研究]]的[[Meta-analysis\|元分析]]证实，教学干预能够有效提升学生的通用批判性思维技能（$g+ = 0.30, p < .001$），且该促进效果在不同出版类型、研究设计、学段、学科领域和干预时长中均保持高度稳健。（pp. 289–293）
 
 > [!chain-link] 证据到判断
-> 在严格排除[[Pre-Experimental Designs\|前实验设计]]和非标准化测量工具后，基于 $k = 341$ 项真实验与准实验研究的随机效应合并[[Effect Size\|效应量]]为 $g+ = 0.30$，通过纳入[[Between-Study Variance\|研究间方差]]调整权重并结合[[Funnel Plot\|漏斗图]]与出版类型检验排除了[[Publication Bias\|发表偏倚]]，对应的改善指数为 $11.79\%$。（pp. 290–291, 297）
+> 在严格排除[[Pre-Experimental Designs\|前实验设计]]和非标准化测量工具后，基于 $k = 341$ 项真实验与准实验研究的[[Random-Effects Model|随机效应]]合并[[Effect Size\|效应量]]为 $g+ = 0.30$，通过纳入[[Between-Study Variance\|研究间方差]]调整权重并结合[[Funnel Plot\|漏斗图]]与出版类型检验排除了[[Publication Bias\|发表偏倚]]，对应的改善指数为 $11.79\%$。（pp. 290–291, 297）
 >
 > > [!example]- 图 1：通用批判性思维技能未加权效应量分布直方图
 > > ![](https://img.mylikemie.icu/sources/Abrami_2015_RER/figures/Abrami_2015_RER_Fig1_Effect_Size_Distribution.jpg)

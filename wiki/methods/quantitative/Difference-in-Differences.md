@@ -45,7 +45,7 @@ related_methods:
   - "[[Regression Discontinuity Design]]"
   - "[[Matching]]"
   - "[[Pre-test and Post-test]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Fixed-Effect Model]]"
   - "[[Multiple Regression]]"
   - "[[Effect Size]]"
   - "[[Ordinary Least Squares]]"
@@ -106,7 +106,7 @@ updated: 2026-10-16
 > [!method-stack] 方法层级
 > - **研究设计** 自然实验（Natural Experiments）、[[Quasi-Experimental Designs\|准实验设计]]（[[Quasi-Experimental Designs\|QED]]）、多期交错采纳设计（Staggered Adoption Design）。
 > - **数据收集** 行政普查大数据（如英国[[National Pupil Database\|国家学生数据库]]）、学校历年督导报告、区域长期学业追踪数据。
-> - **分析方法** 双向[[Fixed-Effect and Random-Effects Models\|固定效应模型]]（TWFE）、事件研究法（Event Study）、合成双重差分（Synthetic DID）、群组聚合估计（Callaway & Sant'Anna, 2021）。
+> - **分析方法** 双向[[Fixed-Effect Model\|固定效应模型]]（TWFE）、事件研究法（Event Study）、合成双重差分（Synthetic DID）、群组聚合估计（Callaway & Sant'Anna, 2021）。
 > - **辅助技术** 安慰剂检验（Placebo Test）、反事实合成匹配、组聚标准误调整（Wild Cluster Bootstrap）。
 
 ---
@@ -117,7 +117,7 @@ updated: 2026-10-16
 > 1. **界定政策冲击与组别边界** 明确政策发布的具体时间节点（或不同学校分批采纳的时间表），清晰界定受政策影响的处理组与未受影响的潜在对照组。
 > 2. **组建纵向长面板数据库** 链接政策出台前若干年（建议至少 3 期以上）与出台后的微观学业产出及学校控制[[Variable\|变量]]。
 > 3. **前置平行趋势检验（事前动态分析）** 运用事件研究法估计政策实施前各期的动态交互项，检验事前趋势是否在统计上不显著异于零。
-> 4. **拟合双向固定效应双重差分模型** 纳入个体/学校固定效应与时间固定效应，加入时变协变量矩阵，估计政策净因果效应 $\beta_{\text{DID}}$。
+> 4. **拟合双向[[Fixed-Effect Model|固定效应]]双重差分模型** 纳入个体/学校固定效应与时间固定效应，加入时变协变量矩阵，估计政策净因果效应 $\beta_{\text{DID}}$。
 > 5. **稳健性与[[Heterogeneity\|异质性]]诊断** 执行安慰剂政策时间检验、伪处理组伪造检验，并针对多时期交错实施检查负权重与异质性处理效应偏误。
 
 ### 量化分析模块
@@ -216,7 +216,7 @@ updated: 2026-10-16
 > > [!axis] 传统面板 TWFE vs [[Heterogeneity\|异质性]]稳健估计革命
 > > 近年来计量经济学界对过去几十年发表的交错 DID 文献的系统反思。
 > >
-> > - **传统回归习惯** 研究者习惯简单运行含双向固定效应的 [[Ordinary Least Squares\|OLS]] 交互项回归。
+> > - **传统回归习惯** 研究者习惯简单运行含双向[[Fixed-Effect Model|固定效应]]的 [[Ordinary Least Squares\|OLS]] 交互项回归。
 > > - **新计量[[Paradigm\|范式]]确立** 学界已达成共识：在交错落地政策中必须弃用传统 TWFE，全面转向异质性稳健估计量以根除负权重风险。
 
 ---
@@ -231,7 +231,7 @@ updated: 2026-10-16
 > | [[Propensity Score Matching]] | 互补方法 | 常与 DID 组合构成 PSM-DID，通过匹配改善处理组与对照组基线平行性。 |
 > | [[Regression Discontinuity Design]] | 替代方法 | 当存在明确准入切分点时适用的另一种高[[Internal Validity\|内部效度]]准实验方法。 |
 > | [[Randomised Controlled Trials]] | 参照[[Paradigm\|范式]] | 因果识别的黄金标准，DID 是在 RCT 无法实施时的首选替代方案。 |
-> | [[Fixed-Effect and Random-Effects Models]] | 计量基础 | TWFE 面板回归为 DID 提供了参数化估计与[[Covariate Adjustment\|协变量控制]]的统计支架。 |
+> | [[Fixed-Effect Model]] | 计量基础 | TWFE 面板回归为 DID 提供了参数化估计与[[Covariate Adjustment\|协变量控制]]的统计支架。 |
 > | [[National Pupil Database]] | 数据基础 | 英国支撑长周期 DID 政策评估的国家级微观行政纵向普查库。 |
 > | [[Researching School Choices]] | 实践载体 | [[Education Endowment Foundation\|EEF]] 设立的依托 DID 等准实验评估宏观学校办学决策的重大资助流。 |
 

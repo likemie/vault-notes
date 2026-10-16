@@ -41,6 +41,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Sample Size Determination]]"
   - "[[Intraclass Correlation Coefficient]]"
+  - "[[Random-Effects Model]]"
   - "[[Inter-Rater Reliability]]"
   - "[[Random Sampling]]"
   - "[[Correlational Research]]"
@@ -105,7 +106,7 @@ updated: 2026-10-16
 > | 评估指标 | 指标定义 | 统计优势 | 方法学局限 |
 > |---|---|---|---|
 > | **直接百分比一致率**<br>（Percentage Agreement） | 提取数值与参考标准完全一致的字段占全部编码字段的比例。 | 概念直观清晰、计算透明、适用于各类任务与[[Variable\|变量]]类型。 | 易受类别不平衡影响；对数值型变量的微小偏差缺乏宽容度。 |
-> | **组内相关系数**<br>（[[Intraclass Correlation Coefficient\|ICC(2,1)]]） | 双向随机效应、绝对一致性、单评分者组内相关系数。 | 能够同时捕捉评分主体之间的绝对一致水平与相对排序一致性，为[[Inter-Rater Reliability\|评分者信度]]黄金标准。 | 假设数据近似正态分布；对受限范围与极端离群值较为敏感。 |
+> | **组内相关系数**<br>（[[Intraclass Correlation Coefficient\|ICC(2,1)]]） | 双向[[Random-Effects Model\|随机效应]]、绝对一致性、单评分者组内相关系数。 | 能够同时捕捉评分主体之间的绝对一致水平与相对排序一致性，为[[Inter-Rater Reliability\|评分者信度]]黄金标准。 | 假设数据近似正态分布；对受限范围与极端离群值较为敏感。 |
 > | **皮尔逊相关系数**<br>（Pearson Correlation, $r$） | 两组提取数据之间的线性关联程度。 | 灵敏检测数值间的单调对齐趋势；便于跨不同量纲变量进行横向比较。 | 对系统性偏倚不敏感（例如存在恒定的固定截距漂移或尺度缩放时 $r$ 仍可极高）。 |
 > | **平均绝对误差**<br>（Mean Absolute Error, MAE） | 提取数值与真实基准值之间绝对差值的算术平均数。 | 直观反映绝对误差幅度，且对极端离群值的敏感度低于均方根误差。 | 尺度依存性强；若未进行标准化，无法在不同量纲与取值范围的变量间直接对比。 |
 

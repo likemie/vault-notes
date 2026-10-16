@@ -29,15 +29,15 @@ title: "Argument_Zhao_2025_JIntell"
 argument_key: "Argument_Zhao_2025_JIntell"
 argument_display_title: "Does Generative Artificial Intelligence Improve Students' Higher-Order Thinking? A Meta-Analysis Based on 29 Experiments and Quasi-Experiments"
 argument_kind: "journal-article"
-argument_related_count: 59
-argument_related_level: 3
-argument_related_stars: "⭐⭐⭐"
+argument_related_count: 60
+argument_related_level: 4
+argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
 sources:
   - "[[sources/Zhao_2025_JIntell/Zhao_2025_JIntell|Zhao_2025_JIntell]]"
 journal: "Journal of Intelligence"
 created: 2026-09-05
-updated: 2026-09-21
+updated: 2026-10-16
 related_concepts:
   - "[[Generative Artificial Intelligence]]"
   - "[[Higher-Order Thinking Skills]]"
@@ -88,10 +88,11 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Experimental Research]]"
   - "[[Inter-Rater Reliability]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Funnel Plot]]"
   - "[[Egger Regression Test]]"
+  - "[[Random-Effects Model]]"
   - "[[Confidence Interval]]"
+  - "[[Fixed-Effect Model]]"
   - "[[Standard Error]]"
   - "[[Forest Plot]]"
   - "[[Statistical Significance]]"
@@ -232,15 +233,15 @@ status: draft
 > 基于 29 项实验与准[[Experimental Research\|实验研究]]的一阶[[Meta-analysis\|元分析]]表明，[[Generative Artificial Intelligence\|生成式人工智能]]对学生[[Higher-Order Thinking Skills\|高阶思维]]具有统计学上显著且中等偏大的促进作用（Hedges' $g = 0.609, p < 0.001$）；异质性检验与发表偏倚审计表明该结论稳健可靠，有力证实了生成式 AI 完全有潜力成为有效的外部[[Scaffolding\|认知脚手架]]。（pp. 9–10, 12–13）
 
 > [!evidence-grid]- 支持步骤一主张的证据
-> - **总体合并[[Effect Size\|效应量]]中等显著** [[Fixed-Effect and Random-Effects Models\|随机效应模型]]合并 59 个独立效应量，得出总体效应量 $g = 0.609$（95% CI $[0.485, 0.732], Z = 9.718, p < 0.001$），超越常规教育干预基准线。
+> - **总体合并[[Effect Size\|效应量]]中等显著** [[Random-Effects Model\|随机效应模型]]合并 59 个独立效应量，得出总体效应量 $g = 0.609$（95% CI $[0.485, 0.732], Z = 9.718, p < 0.001$），超越常规教育干预基准线。
 > - **纳入研究[[Heterogeneity\|异质性]]检验显著** Cochran's 检验 $Q = 255.208, df = 58, p < 0.001$，$I^2 = 77.273\%$，表明效应量差异主要源自各研究真实特征而非抽样误差，证实必须使用随机效应模型。
 > - **[[Publication Bias\|发表偏倚]]诊断支持结论稳健** [[Funnel Plot\|漏斗图]]视检显示 59 个数据点大多对称分布于均值两侧，Egger 线性回归检验未达统计显著（$t = 1.871, p = 0.066$），排除了严重发表偏倚对效应量的扭曲。（pp. 9–10）
 
 > [!ref-table]- 表 1：总体合并效应与异质性检验结果
 > | 统计计算模型 | [[Effect Size\|效应量]]数量 $k$ | [[Effect Size\|合并效应量]] $ES$（Hedges' $g$） | [[Confidence Interval\|95% CI]] 下限 | 95% CI 上限 | Cochran $Q$ 值 | 自由度 $df$ | $p$ 值 | [[Heterogeneity\|异质性比例]] $I^2$ |
 > |---|---|---|---|---|---|---|---|---|
-> | **[[Fixed-Effect and Random-Effects Models\|固定效应模型]]（Fixed）** | 59 | 0.578 | 0.519 | 0.636 | — | — | — | — |
-> | **[[Fixed-Effect and Random-Effects Models\|随机效应模型]]（Random）** | 59 | **0.609** | **0.485** | **0.732** | 255.208 | 58 | <0.001 | **77.273%** |
+> | **[[Fixed-Effect Model\|固定效应模型]]（Fixed）** | 59 | 0.578 | 0.519 | 0.636 | — | — | — | — |
+> | **[[Random-Effects Model\|随机效应模型]]（Random）** | 59 | **0.609** | **0.485** | **0.732** | 255.208 | 58 | <0.001 | **77.273%** |
 >
 > **图表解读** 本表是元分析的总体合并与模型检验核心表，解读关键统计参数需把握三层逻辑：
 > - **效应量点估计与置信区间（Hedges' $g$ 与 95% CI）** 随机效应模型合并 59 个独立效应量（$k = 59$），得出总体合并效应量 $g = 0.609$。按照 Cohen（1992）的经典基准（$0.2$ 为小效应、$0.5$ 为中等效应、$0.8$ 以上为大效应），该值达到中等偏大水平；95% 置信区间 $[0.485, 0.732]$ 完全落在零点右侧且下限紧贴中等效应门槛，双尾检验 $Z = 9.718, p < 0.001$，证实生成式 AI 对学生高阶思维的促学作用具有高度的统计确定性，并非抽样偶然误差。

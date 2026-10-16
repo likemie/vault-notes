@@ -16,7 +16,7 @@ summary: "在更高层级汇总多个已发表元分析结果的统计综合方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 97
+method_related_count: 98
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -81,8 +81,9 @@ related_methods:
   - "[[Meta-regression]]"
   - "[[Robust Variance Estimation]]"
   - "[[Thematic Synthesis]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Fixed-Effect Model]]"
   - "[[Inverse-Variance Weighting]]"
+  - "[[Random-Effects Model]]"
   - "[[Correlated and Hierarchical Effects Model]]"
   - "[[Trim and Fill Method]]"
   - "[[Multilevel Egger's Test]]"
@@ -181,7 +182,7 @@ updated: 2026-10-16
 > | **[[Literature Search\|文献检索]]与质控** | 粗放纳入、无统一质量准入门槛 | 遵循 PRISMA 指南、采用 [[AMSTAR]] / R-AMSTAR 进行严格方法学质量评级 | 遵循 [[PRISMA]] 2020、严格 AMSTAR-2 质控，结合 [[PICO Framework\|PICO]] 构念对齐与初级研究全量引用矩阵 |
 > | **效应量尺度处理** | 混用 $d, g, r, \Delta$ 等不同测度而不转换 | 将 OR、$r$、Hedges' $g$ 规范转换为统一 Cohen's $d$ 或 Fisher's $z$ | 统一进行效应量标准化与 Fisher's $z$ 变换，严格区分组内与组间设计（Morris & DeShon），保留协方差结构 |
 > | **初级研究重叠处理** | 完全忽略（容忍 90%+ 的初级研究重叠） | 宏观经验门槛控制（Cooper & Koenka $\le 25\%$ 重叠率门槛，或计算校正覆盖面积 CCA） | 微观[[Primary and Secondary Documents\|初级文献]]完全矩阵去重，或构建跨元分析重叠协方差矩阵进行统计校正 |
-> | **加权与统计模型** | 简单未加权算术平均、违规套用单级[[Fixed-Effect and Random-Effects Models\|固定效应模型]] | 单水平经典[[Inverse-Variance Weighting\|逆方差加权法]]（$w_i^* = \frac{1}{v_i + \tau^2}$）与[[Fixed-Effect and Random-Effects Models\|随机效应模型]]（Borenstein et al., 2021） | 三水平[[Correlated and Hierarchical Effects Model\|相关与层级效应模型]]（CHE）+ [[Robust Variance Estimation\|稳健方差估计]]（RVE / 三明治估计量） |
+> | **加权与统计模型** | 简单未加权算术平均、违规套用单级[[Fixed-Effect Model\|固定效应模型]] | 单水平经典[[Inverse-Variance Weighting\|逆方差加权法]]（$w_i^* = \frac{1}{v_i + \tau^2}$）与[[Random-Effects Model\|随机效应模型]]（Borenstein et al., 2021） | 三水平[[Correlated and Hierarchical Effects Model\|相关与层级效应模型]]（CHE）+ [[Robust Variance Estimation\|稳健方差估计]]（RVE / 三明治估计量） |
 > | **发表偏倚检验** | 无偏倚检验与校正 | 经典漏斗图、Egger 回归截距检验与[[Trim and Fill Method\|剪补法]]（DTTF） | 多水平改进艾格检验（[[Multilevel Egger's Test]]）截距校正与二阶元回归 |
 > | **核心目的与产出** | 建立宏观全景排行榜（League Table）与气压计 | 评估特定领域宏观平均效应、检验亚组调节[[Variable\|变量]]并评估发表偏倚 | 估计无偏宏观效应基准、精确分解多层级异质性，并以[[Preregistration\|预注册]]全库审计检验[[Chain of Evidence\|证据链]]可溯源性与可复现性 |
 
@@ -193,11 +194,11 @@ updated: 2026-10-16
 >
 > - **第一代：早期探索与粗放元综合（1980s–2000s）**
 >
->   Glass 提出元分析 10 年后，Fraser, Walberg and Hattie（1987）首次综合 226 项元分析以检验 Walberg 的[[Walberg's Educational Productivity Model\|教育生产力模型]]。Hattie（1992, 2008, 2009）在《[[Visible Learning\|可见的学习]]》中将其扩展至 800 多项元分析（涵盖 52,649 项研究、8300 万学生），建立 $d = 0.40$ 的影响气压计。然而第一代综合在统计上存在严重缺陷：采用简单算术平均而非[[Inverse-Variance Weighting\|逆方差加权]]、混用不同[[Effect Size\|效应量]]测度、强行套用[[Fixed-Effect and Random-Effects Models\|固定效应模型]]、完全忽略初级研究高达 90% 以上的重叠率，且不报告[[Confidence Interval\|置信区间]]与显著性检验。[[Argument_Terhart_2011_JCS\|(Terhart, 2011)]]; [[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016)]]
+>   Glass 提出元分析 10 年后，Fraser, Walberg and Hattie（1987）首次综合 226 项元分析以检验 Walberg 的[[Walberg's Educational Productivity Model\|教育生产力模型]]。Hattie（1992, 2008, 2009）在《[[Visible Learning\|可见的学习]]》中将其扩展至 800 多项元分析（涵盖 52,649 项研究、8300 万学生），建立 $d = 0.40$ 的影响气压计。然而第一代综合在统计上存在严重缺陷：采用简单算术平均而非[[Inverse-Variance Weighting\|逆方差加权]]、混用不同[[Effect Size\|效应量]]测度、强行套用[[Fixed-Effect Model\|固定效应模型]]、完全忽略初级研究高达 90% 以上的重叠率，且不报告[[Confidence Interval\|置信区间]]与显著性检验。[[Argument_Terhart_2011_JCS\|(Terhart, 2011)]]; [[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016)]]
 >
 > - **第二代：标准伞状综述与经典规范二阶元分析（2010s）**
 >
->   针对第一代的统计乱象，Cooper and Koenka（2012）在《Research Synthesis Methods》系统提出了[[Umbrella Review|综述之综述]]（Overview of Reviews / [[Umbrella Review]]）的方法学标准；Cafri et al.（2010）在《JEBS》奠定了二阶元分析的基础统计框架；Sipe & Curlette（1996, 1997）与 Pieper et al.（2014）规范了重叠控制标准；[[Argument_Wecker_2016_ZfE\|Wecker, Vogel & Hetmanek (2016)]] 从数学基础推导出六项方法论规范；[[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] 则将该[[Paradigm\|范式]]应用于[[Cooperative Learning\|合作学习]]领域。第二代二阶元分析建立了 [[PRISMA]] 与 [[AMSTAR]] 质量筛选流程，严格执行效应量测度转换，普遍采用**经典逆方差加权法（$w_i^* = \frac{1}{v_i + \tau^2}$）**与**随机效应模型**（Borenstein et al., 2021），并采用 Cooper & Koenka $\le 25\%$ 重叠率或[[Corrected Covered Area\|校正覆盖面积]]（CCA）控制文献重叠，全面报告置信区间与[[Publication Bias\|发表偏倚]]检验。
+>   针对第一代的统计乱象，Cooper and Koenka（2012）在《Research Synthesis Methods》系统提出了[[Umbrella Review|综述之综述]]（Overview of Reviews / [[Umbrella Review]]）的方法学标准；Cafri et al.（2010）在《JEBS》奠定了二阶元分析的基础统计框架；Sipe & Curlette（1996, 1997）与 Pieper et al.（2014）规范了重叠控制标准；[[Argument_Wecker_2016_ZfE\|Wecker, Vogel & Hetmanek (2016)]] 从数学基础推导出六项方法论规范；[[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] 则将该[[Paradigm\|范式]]应用于[[Cooperative Learning\|合作学习]]领域。第二代二阶元分析建立了 [[PRISMA]] 与 [[AMSTAR]] 质量筛选流程，严格执行效应量测度转换，普遍采用**经典逆方差加权法（$w_i^* = \frac{1}{v_i + \tau^2}$）**与**[[Random-Effects Model|随机效应模型]]**（Borenstein et al., 2021），并采用 Cooper & Koenka $\le 25\%$ 重叠率或[[Corrected Covered Area\|校正覆盖面积]]（CCA）控制文献重叠，全面报告置信区间与[[Publication Bias\|发表偏倚]]检验。
 >
 > - **第三代：现代多水平、集群稳健二阶元分析与[[Metascience|元科学]]质量审计（2013–至今）**
 >
@@ -287,7 +288,7 @@ updated: 2026-10-16
 
 ### 步骤一：固定效应二级汇总的经典等价性原理与独立性约束
 
-> [!formula-set]- 双层固定效应二级元分析的代数推导全流程
+> [!formula-set]- 双层[[Fixed-Effect Model|固定效应]]二级元分析的代数推导全流程
 > ```mermaid
 > flowchart LR
 >   A["单级基准 (式 1–2)<br/>$k$ 项原始研究加权"] --> B["双层分组展开 (式 3–4)<br/>$m$ 项元分析全池合并"]
@@ -314,7 +315,7 @@ updated: 2026-10-16
 >
 > **充要条件与注意事项** 该代数等价性成立的唯一充要条件是各一级元分析纳入的原始研究完全独立且互斥（$\forall j_1 \neq j_2, \text{Studies}(j_1) \cap \text{Studies}(j_2) = \emptyset$）。一旦存在重叠，协方差交叉项将导致公式 (9) 严重低估真实方差。
 
-> [!math-principle] 二级[[Fixed-Effect and Random-Effects Models|固定效应模型]]的统计数学公理与协方差失效机理
+> [!math-principle] 二级[[Fixed-Effect Model|固定效应模型]]的统计数学公理与协方差失效机理
 > - **等价性公理** 只有当各一级元分析纳入的主要研究完全不重叠时，二级加权合成在数学上才等价于对全体原始研究进行一次性直接合并。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 25, 37–38)]]
 > - **协方差失效公理** 若同一篇文献在多个元分析中重复出现，跨元分析的一级效应量之间会产生未知的正协方差（$\operatorname{Cov}(d_{j_1}, d_{j_2}) > 0$），导致二级方差公式 (9) 失效，计算出的方差远小于实际方差，造成统计检验假阳性率急剧膨胀。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 25, 29–30)]]
 > - **精度反比公理** 二级合成必须严格按照各元分析精度的倒数（$W_j = 1/v_{d_j}$）进行加权，高精度研究占大权重，简单算术平均会彻底破坏统计估计的有效性。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 25, 30)]]
@@ -334,7 +335,7 @@ updated: 2026-10-16
 ### 步骤二：三水平方差分解原理（相关效应与层级效应的解耦）
 
 > [!concept-lens] [[Correlated and Hierarchical Effects Model\|CHE]] 工作模型的方差分解逻辑
-> 传统两水平模型只能处理单一维度的变异，无法应对二阶元分析面临的复杂数据结构。相关与层级效应模型（CHE 模型）通过三水平随机效应架构将总方差剥离为三层：
+> 传统两水平模型只能处理单一维度的变异，无法应对二阶元分析面临的复杂数据结构。相关与层级效应模型（CHE 模型）通过三水平[[Random-Effects Model|随机效应]]架构将总方差剥离为三层：
 > 1. **Level 3（元分析集群间变异 $\tau_3^2$）** 捕捉不同一阶元分析在领域主题、时代背景与检索标准上的宏观真实效应差异；
 > 2. **Level 2（元分析集群内变异 $\tau_2^2$）** 捕捉同一元分析内部不同测量工具或理论子维度的真实[[Construct\|构念]]变异；
 > 3. **Level 1（[[Sampling Error\|抽样误差]]变异 $V_{ij}$）** 根据已知[[Sample Size Determination\|样本量]]计算的[[Random Sampling\|随机抽样]]噪声。
@@ -393,7 +394,7 @@ updated: 2026-10-16
 > [!contrast-table] 一级与二级统计建模的双重不可行性困境（Double Infeasibility Dilemma）
 > | 分析层级 | 理论与经验现实 | 统计建模困境 | 导致后果 |
 > |:---|:---|:---|:---|
-> | **一级主要研究层** | 教学主题、教师实施与学校情境高度异质，真实效应量变异极大。 | [[Fixed-Effect and Random-Effects Models\|固定效应模型]]关于单一恒定真实效应的假设完全破产。 | 标准误被严重低估，虚增统计检验显著性。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 31–32)]] |
+> | **一级主要研究层** | 教学主题、教师实施与学校情境高度异质，真实效应量变异极大。 | [[Fixed-Effect Model\|固定效应模型]]关于单一恒定真实效应的假设完全破产。 | 标准误被严重低估，虚增统计检验显著性。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 31–32)]] |
 > | **二级元分析层** | 继承了一级异质性，数学上必须采用随机效应模型估计 $\tau^2$。 | 每个因素平均仅约 5.8 项元分析，样本量过小无法可靠估计[[Between-Study Variance\|研究间方差]]。 | 随机效应建模崩溃，宏观统计推断失去立足之基。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 32–33)]] |
 
 > [!dimension] 影响因素[[Incommensurability|不可通约性]]的四大本体范畴（德甲联赛隐喻与范畴错误）
@@ -443,11 +444,11 @@ updated: 2026-10-16
 > - **[[Visible Learning]]** Hattie (2009) 综合 800 多项[[Meta-analysis\|元分析]]的开创性巨型综合项目。[[Argument_Terhart_2011_JCS\|(Terhart, 2011)]]
 > - **[[EEF Teaching and Learning Toolkit]]** 英国[[Education Endowment Foundation\|教育捐赠基金会]]以[[Effect Size\|效应量]]与额外学习月数排名 30+ 类教育干预的循证政策工具。[[Argument_Wrigley_2019_ERE\|(Wrigley & McCusker, 2019)]]
 > - **[[Creativity\|创造力]]全领域二阶元分析** [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] 综合 52 项一阶元分析（2,609 项原始研究、124 万被试），运用 [[Correlated and Hierarchical Effects Model\|CHE]] 与 [[Robust Variance Estimation\|RVE]] 确立创造力[[Predictive Validity\|预测效度]]与教育干预效应。
-> - **[[Cooperative Learning\|合作学习]]全领域二阶元分析** [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] 综合 15 项一阶元分析（403 项原始实证研究），在[[Umbrella Review\|伞状综述]]框架下采用单水平经典[[Inverse-Variance Weighting\|逆方差加权]][[Fixed-Effect and Random-Effects Models\|随机效应模型]]（Cooper & Koenka $\le 25\%$ 重叠率准则）评估合作学习对[[Academic Achievement\|学业成就]]、[[Higher-Order Thinking Skills\|高阶思维]]与[[Affective Outcomes\|情感行为]]的综合促进效应（$ES = 0.71$），并检验教学技术、学科领域与研究设计的[[Interaction Effect\|调节效应]]。
-> - **[[Problem-Based Learning\|问题本位学习]]高等教育二阶元分析** [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] 综合 20 项一阶元分析（469 项原始实证研究、47 个独立[[Effect Size\|效应量]]），在[[Fixed-Effect and Random-Effects Models\|随机效应模型]]下采用经典[[Inverse-Variance Weighting\|逆方差加权法]]，依据 Cooper & Koenka $\le 25\%$ 重叠率准则与 R-[[AMSTAR]] 质量评级控制文献重叠与质量偏倚，报告问题本位学习对学生[[Theoretical Knowledge\|理论性知识]]、[[Clinical Skills\|临床技能]]、[[Critical Thinking\|批判性思维]]、态度与满意度的总体效应（调整后 $ES = 0.60$），并检验结果类型、地域、抽样方法、质量、报告类型与年份的[[Interaction Effect\|调节效应]]。
-> - **AI 教育应用全领域二阶元分析** [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] 综合 19 项一阶元分析（58,702 名参与者），采用 [[GROOVE]] 宏的[[Corrected Covered Area\|校正覆盖面积]]（CCA）热力图排除 6 项重叠元分析，在[[Fixed-Effect and Random-Effects Models\|随机效应模型]]下以经典[[Inverse-Variance Weighting\|逆方差加权法]]合并效应量，报告 AI 教育应用对学生[[Academic Achievement\|学业成就]]与[[Higher-Order Thinking Skills\|高阶思维技能]]的综合效应（$ES = 0.67$，95% CI = [.55, .78]），并识别教育阶段（K12 vs 混合）与学科领域（计算机科学 vs 数学）为显著调节来源。
+> - **[[Cooperative Learning\|合作学习]]全领域二阶元分析** [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] 综合 15 项一阶元分析（403 项原始实证研究），在[[Umbrella Review\|伞状综述]]框架下采用单水平经典[[Inverse-Variance Weighting\|逆方差加权]][[Random-Effects Model\|随机效应模型]]（Cooper & Koenka $\le 25\%$ 重叠率准则）评估合作学习对[[Academic Achievement\|学业成就]]、[[Higher-Order Thinking Skills\|高阶思维]]与[[Affective Outcomes\|情感行为]]的综合促进效应（$ES = 0.71$），并检验教学技术、学科领域与研究设计的[[Interaction Effect\|调节效应]]。
+> - **[[Problem-Based Learning\|问题本位学习]]高等教育二阶元分析** [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] 综合 20 项一阶元分析（469 项原始实证研究、47 个独立[[Effect Size\|效应量]]），在[[Random-Effects Model\|随机效应模型]]下采用经典[[Inverse-Variance Weighting\|逆方差加权法]]，依据 Cooper & Koenka $\le 25\%$ 重叠率准则与 R-[[AMSTAR]] 质量评级控制文献重叠与质量偏倚，报告问题本位学习对学生[[Theoretical Knowledge\|理论性知识]]、[[Clinical Skills\|临床技能]]、[[Critical Thinking\|批判性思维]]、态度与满意度的总体效应（调整后 $ES = 0.60$），并检验结果类型、地域、抽样方法、质量、报告类型与年份的[[Interaction Effect\|调节效应]]。
+> - **AI 教育应用全领域二阶元分析** [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] 综合 19 项一阶元分析（58,702 名参与者），采用 [[GROOVE]] 宏的[[Corrected Covered Area\|校正覆盖面积]]（CCA）热力图排除 6 项重叠元分析，在[[Random-Effects Model\|随机效应模型]]下以经典[[Inverse-Variance Weighting\|逆方差加权法]]合并效应量，报告 AI 教育应用对学生[[Academic Achievement\|学业成就]]与[[Higher-Order Thinking Skills\|高阶思维技能]]的综合效应（$ES = 0.67$，95% CI = [.55, .78]），并识别教育阶段（K12 vs 混合）与学科领域（计算机科学 vs 数学）为显著调节来源。
 > - **大语言模型二阶元分析[[Automated Data Extraction\|自动化数据提取]]** [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] 基于《[[Visible Learning\|可见的学习]]》证据库中的 156 项一阶教育元分析，通过专家仲裁校准确立金标准，系统评估了三大前沿大语言模型（Gemini 2.5 Pro、[[General Purpose Technology|GPT]]-4.1、GPT-o3）自动提取效应量、研究数与[[Sample Size Determination\|样本量]]的准确性（$\text{[[Intraclass Correlation Coefficient\|ICC]]} = 0.96–0.97$），确立大模型提取达到人类专家水准并为人机混合验证提供[[Paradigm\|范式]]。
-> - **固定效应等价性推导与二阶元分析方法论批判** [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] 从两级固定效应数学模型严格推导等价性定理（$D = \bar{d}, v_D = v_{\bar{d}}$），确立六项方法论操作规范；通过实证案例（Eisenstaedt [[Standard Error|标准误]]混淆致效应量虚增十倍、Haas 伪造标准误削减权重 53.5%、Olson & Wisher 93.3% 重叠致网络学习排名自第 26 位雪崩至第 98 位）揭示二阶粗放综合在当前发表体制下的不可行性，并提出建设中央标准化证据数据库。
+> - **[[Fixed-Effect Model|固定效应]]等价性推导与二阶元分析方法论批判** [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] 从两级固定效应数学模型严格推导等价性定理（$D = \bar{d}, v_D = v_{\bar{d}}$），确立六项方法论操作规范；通过实证案例（Eisenstaedt [[Standard Error|标准误]]混淆致效应量虚增十倍、Haas 伪造标准误削减权重 53.5%、Olson & Wisher 93.3% 重叠致网络学习排名自第 26 位雪崩至第 98 位）揭示二阶粗放综合在当前发表体制下的不可行性，并提出建设中央标准化证据数据库。
 > - **二阶元分析全库[[Metascience|元科学]]质量与复现性审计** [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] 依据 [[PICO Framework|PICO]] 与伞状综述规范，对《可见的学习》全库 322 个影响因素开展独立复现检验，发现仅 19% 满足 PICO 纳入标准，301 项中仅 2 项可复现数据提取（<1% 复现率），44% 报告效应量在原文中缺失，为二阶元分析方法学规范与质量控制提供了里程碑式全量审计实证。
 
 ---
@@ -491,5 +492,5 @@ updated: 2026-10-16
 > | [[Second-Order Meta-Regression]] | 方法 | 调节分析方法 | 运用多水平稳健[[Meta-regression\|元回归]]系统检验全领域[[Construct\|理论构念]]与研究特征的[[Interaction Effect\|调节效应]]。 |
 > | [[AMSTAR]] | 工具 | 质量控制 | 用于二阶元分析中对一阶元分析规范度进行量化评级的方法学工具。 |
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 论证 | 典范应用 | [[Creativity\|创造力]]领域二阶元分析代表作，确立了现代六步建模与偏倚校正规程。 |
-> | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 诊断先驱 | 严格证明二级固定效应等价性与文献重叠时经典方差失效的机制。 |
+> | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 诊断先驱 | 严格证明二级[[Fixed-Effect Model\|固定效应]]等价性与文献重叠时经典方差失效的机制。 |
 > | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 论证 | 全库审计 | 依据 [[PICO Framework\|PICO]] 与[[Umbrella Review\|伞状综述]]规范开展首个[[Preregistration\|预注册]]全库审计，揭示一阶元分析数据提取脆弱性与[[Replication in Education Research\|复现危机]]。 |

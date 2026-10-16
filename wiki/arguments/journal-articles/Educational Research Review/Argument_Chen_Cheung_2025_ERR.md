@@ -87,7 +87,6 @@ related_methods:
   - "[[Role-playing]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Meta-regression]]"
   - "[[Funnel Plot]]"
   - "[[Begg and Mazumdar Rank Correlation]]"
@@ -95,6 +94,8 @@ related_methods:
   - "[[Leave-One-Out Sensitivity Analysis]]"
   - "[[Analysis of Covariance]]"
   - "[[Confidence Interval]]"
+  - "[[Fixed-Effect Model]]"
+  - "[[Random-Effects Model]]"
   - "[[Analysis of Variance]]"
   - "[[Random Sampling]]"
   - "[[Standard Error]]"
@@ -123,7 +124,7 @@ title: "Argument_Chen_Cheung_2025_ERR"
 argument_key: "Argument_Chen_Cheung_2025_ERR"
 argument_display_title: "Effect of generative artificial intelligence on university students learning outcomes: A systematic review and meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 86
+argument_related_count: 87
 argument_related_level: 5
 argument_related_stars: "⭐⭐⭐⭐⭐"
 argument_related_color: "#fecdd3"
@@ -288,7 +289,7 @@ issuing_organization: ""
 > **图表解读** 本表是[[Meta-analysis\|元分析]]的“核心总账表”，读懂各列关键统计参数需掌握三大判读准则：
 > - **先看效应量点估计与置信区间（$g^+$ 与 95% CI）** 关注 $g^+$（Hedges' g，排除小样本偏差后的标准化均数差）量级——按教育学经验，0.2 为小效应，0.5 为中等，0.8 以上为大效应。但更关键的是审视 95% 置信区间是否跨越零点：若区间完全落在零点右侧（如语言与学业成绩），证实促学成效稳健存在；若区间下限为负、上限为正跨越 0（如元认知能力），则意味着在统计学上无法排除该干预无效的可能。
 > - **次看检验统计量与显著性（$Z$ 值与 $p$ 值）** $Z$ 检验对应“效应量真实值为 0”的原假设。$Z$ 值越大且 $p < 0.05$（特别是 $p < 0.001$），表明该产出维度的促学实效具有极高统计确信度；反之若 $p > 0.05$（如元认知 $p = 0.789$），则表明该维度的微弱增益纯属偶然波动。
-> - **关键枢纽：看异质性统计量（$Q$ 与 $I^2$）决定后续解读方向** $Q$ 值服从卡方分布，$I^2$ 代表效应量真实变异占总变异的百分比（25% 为低度、50% 为中度、75% 以上为极高度）。当表中各产出 $I^2$ 普遍突破 80%–95% 时，具有两大方法学指示：一是必须放弃[[Fixed-Effect and Random-Effects Models\|固定效应模型]]、选用随机效应模型；二是**单一合并效应量不能代表全貌，必须深入开展步骤二的亚组调节检验寻找差异来源**。（pp. 10, 15）
+> - **关键枢纽：看异质性统计量（$Q$ 与 $I^2$）决定后续解读方向** $Q$ 值服从卡方分布，$I^2$ 代表效应量真实变异占总变异的百分比（25% 为低度、50% 为中度、75% 以上为极高度）。当表中各产出 $I^2$ 普遍突破 80%–95% 时，具有两大方法学指示：一是必须放弃[[Fixed-Effect Model\|固定效应模型]]、选用[[Random-Effects Model|随机效应模型]]；二是**单一合并效应量不能代表全貌，必须深入开展步骤二的亚组调节检验寻找差异来源**。（pp. 10, 15）
 
 > [!spectrum] 学习产出促学效应阶梯谱系（p. 15）
 > **← 表层语言符号组织（高获益）**　·　**深层元认知调控（无显著获益） →**

@@ -93,6 +93,7 @@ related_methods:
   - "[[Ordinary Least Squares]]"
   - "[[Generalized Estimating Equations]]"
   - "[[Measurement Invariance]]"
+  - "[[Fixed-Effect Model]]"
   - "[[Confirmatory Factor Analysis]]"
   - "[[Mixed Methods Research]]"
   - "[[Correlational Research]]"
@@ -187,7 +188,7 @@ updated: 2026-10-16
 > [!software-impl] 软件实现
 > - **数据处理** 标准化转换、缺失值多重插补（MICE）、逆向计分处理、[[Propensity Score Matching\|倾向得分匹配]]（PSM）与权重赋范。
 > - **推荐软件** R、Python、Stata、SPSS、Mplus、JASP、Jamovi。
-> - **核心包或命令** R 语言中运用 `lavaan` 开展结构方程建模，运用 `lme4` 进行多层线性分析，运用 `fixest` 进行高维面板固定效应估计；Python 运用 `statsmodels` 与 `scikit-learn`；Stata 运用 `regress`、`xtreg` 与 `sem`。
+> - **核心包或命令** R 语言中运用 `lavaan` 开展结构方程建模，运用 `lme4` 进行多层线性分析，运用 `fixest` 进行高维面板[[Fixed-Effect Model|固定效应]]估计；Python 运用 `statsmodels` 与 `scikit-learn`；Stata 运用 `regress`、`xtreg` 与 `sem`。
 > - **实现流程** 原始数据校验 $\rightarrow$ 探索性与[[Confirmatory Factor Analysis\|验证性因子分析]]（EFA/CFA） $\rightarrow$ 假设检验主模型拟合 $\rightarrow$ 敏感性与稳健性检验 $\rightarrow$ 规范制表与可视化导出。
 > - **报告标准** 严格遵循 APA 第 7 版量化研究报告标准（JARS-Quant），透明报告效应量大小、95% 置信区间、自由度、精确 p 值与代码可复现环境。
 

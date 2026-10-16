@@ -10,7 +10,7 @@ summary: "在多水平与聚类依赖元分析数据中检验小研究效应与�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 22
+method_related_count: 23
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -32,7 +32,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Small Study Effects]]"
   - "[[Standard Error]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Random-Effects Model]]"
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
   - "[[Funnel Plot]]"
@@ -57,7 +57,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 方法定义
-> [[Multilevel Egger's Test\|多水平艾格检验]]（Multilevel [[Egger Regression Test\|Egger's Test]]，亦称多水平艾格回归 Multilevel Egger's Regression）是一种在包含聚类依赖、多重结果测量或多层嵌套结构（如[[Meta-meta-analysis\|二阶元分析]]）的[[Meta-analysis\|元分析]]中检验 **[[Small Study Effects\|小研究效应]]（Small-Study Effects）** 与[[Publication Bias\|发表偏倚]]（Publication Bias）的定量诊断与校正方法（Rodgers & Pustejovsky, 2021; [[Argument_Runco_2026_CRJ\|Runco et al., 2026, p. 6]]）。该方法将抽样[[Standard Error\|标准误]]作为调节[[Variable\|变量]]纳入三水平[[Fixed-Effect and Random-Effects Models\|随机效应模型]]，通过斜率检验偏倚是否存在，并利用回归截距估计理论无限大样本下的无偏[[Effect Size\|效应量]]。
+> [[Multilevel Egger's Test\|多水平艾格检验]]（Multilevel [[Egger Regression Test\|Egger's Test]]，亦称多水平艾格回归 Multilevel Egger's Regression）是一种在包含聚类依赖、多重结果测量或多层嵌套结构（如[[Meta-meta-analysis\|二阶元分析]]）的[[Meta-analysis\|元分析]]中检验 **[[Small Study Effects\|小研究效应]]（Small-Study Effects）** 与[[Publication Bias\|发表偏倚]]（Publication Bias）的定量诊断与校正方法（Rodgers & Pustejovsky, 2021; [[Argument_Runco_2026_CRJ\|Runco et al., 2026, p. 6]]）。该方法将抽样[[Standard Error\|标准误]]作为调节[[Variable\|变量]]纳入三水平[[Random-Effects Model\|随机效应模型]]，通过斜率检验偏倚是否存在，并利用回归截距估计理论无限大样本下的无偏[[Effect Size\|效应量]]。
 
 > [!method-scope] 方法范围
 > - **研究对象** 存在多重效应量嵌套依赖的一阶元分析或二阶元分析证据库。
@@ -82,7 +82,7 @@ updated: 2026-10-16
 > | **核心产出** | 仅给出偏倚显著性检验 $p$ 值 | 填补虚拟研究后的粗糙估计 | **同时输出偏倚显著性 $p$ 值与偏倚校正后的无偏截距 $\beta_0$** |
 
 > [!concept-lens] 多水平 Egger 检验解决的核心痛点
-> 1. **破解依赖数据下的假阳性偏倚警报** 传统 Egger 回归忽略了同一研究或一阶元分析内部的效应量相关性，会将“同一高质量综述内部效应量的集中性”错误诊断为“严重的[[Publication Bias\|发表偏倚]]”。[[Hierarchical Linear Model\|多水平模型]]通过 Level 2 和 Level 3 随机效应吸收了这些集群内变异。
+> 1. **破解依赖数据下的假阳性偏倚警报** 传统 Egger 回归忽略了同一研究或一阶元分析内部的效应量相关性，会将“同一高质量综述内部效应量的集中性”错误诊断为“严重的[[Publication Bias\|发表偏倚]]”。[[Hierarchical Linear Model\|多水平模型]]通过 Level 2 和 Level 3 [[Random-Effects Model|随机效应]]吸收了这些集群内变异。
 > 2. **实现“偏倚诊断”与“无偏效应量校正”的一体化** 经典方法通常只能做偏倚检验或粗糙剪补；多水平 Egger 回归通过数学截距项 $\beta_0$（当抽样标准误 $\text{SE} \to 0$ 时的理论效应量），直接给出了剔除小样本膨胀效应后的“纯净效应量基准”。
 
 ---
@@ -113,7 +113,7 @@ updated: 2026-10-16
 > - $\sqrt{V_{ij}}$：该效应量的抽样标准误（$\text{SE}_{ij} = \frac{1}{\sqrt{n_{ij}-3}}$）；
 > - $\beta_{\text{SE}}$：[[Small Study Effects\|小研究效应]]斜率系数；
 > - $\beta_0$：回归截距项（当[[Sample Size Determination\|样本量]]趋于无穷大、$\text{SE} \to 0$ 时的理论效应量）；
-> - $\zeta_{(3)j} \sim \mathcal{N}(0, \tau_3^2)$：元分析间随机效应（Level 3）；
+> - $\zeta_{(3)j} \sim \mathcal{N}(0, \tau_3^2)$：元分析间[[Random-Effects Model|随机效应]]（Level 3）；
 > - $\zeta_{(2)ij} \sim \mathcal{N}(0, \tau_2^2)$：元分析内效应量间随机效应（Level 2）；
 > - $\epsilon_{ij} \sim \mathcal{N}(0, V_{ij})$：已知[[Sampling Error\|抽样误差]]（Level 1）。
 
@@ -183,6 +183,6 @@ updated: 2026-10-16
 > | 条目 | 类型 | 关联方向 | 说明 |
 > |:-----|:-----|:---------|:-----|
 > | [[Meta-meta-analysis]] | 综合方法 | 偏倚控制 | 二阶[[Meta-analysis\|元分析]]运用多水平艾格检验输出全领域校正后真实[[Effect Size\|效应量]]。 |
-> | [[Correlated and Hierarchical Effects Model]] | 基础模型 | 建模底层 | 多水平艾格回归建立在 CHE 三水平随机效应方差分解之上。 |
+> | [[Correlated and Hierarchical Effects Model]] | 基础模型 | 建模底层 | 多水平艾格回归建立在 CHE 三水平[[Random-Effects Model\|随机效应]]方差分解之上。 |
 > | [[Robust Variance Estimation]] | 推断方法 | 统计保障 | 运用 RVE 确保多水平艾格回归截距与斜率的[[Standard Error\|标准误]]保持稳健。 |
 > | [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] | 论证 | 典范应用 | 检验发现显著小研究效应（$p = .002$），并将创造力总体效应量校正为 $r = 0.17$。 |

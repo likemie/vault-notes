@@ -45,6 +45,7 @@ related_methods:
   - "[[Multiple Regression]]"
   - "[[Accounts]]"
   - "[[Hierarchical Linear Model]]"
+  - "[[Random-Effects Model]]"
   - "[[Inverse-Variance Weighting]]"
   - "[[Meta-regression]]"
   - "[[Generalized Estimating Equations]]"
@@ -52,6 +53,7 @@ related_methods:
   - "[[Experimental Research]]"
   - "[[Regression Discontinuity Design]]"
   - "[[Difference-in-Differences]]"
+  - "[[Fixed-Effect Model]]"
   - "[[Questionnaire]]"
   - "[[Random Assignment]]"
   - "[[Confidence Interval]]"
@@ -110,14 +112,14 @@ updated: 2026-10-16
 > [!contrast-table] OLS vs 加权/广义最小二乘（WLS/GLS） vs [[Hierarchical Linear Model\|多层线性模型]]（HLM）
 > | 比较维度 | 普通最小二乘法（OLS） | 加权/广义最小二乘（WLS/GLS） | 多层线性模型（HLM） |
 > |---|---|---|---|
-> | **误差结构假定** | 同方差、无序列相关（球形扰动） | 允许异方差或已知相关矩阵（非球形） | 显式分解为组内误差与组间多重随机效应 |
+> | **误差结构假定** | 同方差、无序列相关（球形扰动） | 允许异方差或已知相关矩阵（非球形） | 显式分解为组内误差与组间多重[[Random-Effects Model\|随机效应]] |
 > | **异方差应对** | 需外挂怀特（White/HC）稳健标准误 | [[Inverse-Variance Weighting\|逆方差加权]]消除异方差（如[[Meta-regression\|元回归]]） | 在随机效应方程中建模方差[[Heterogeneity\|异质性]] |
 > | **群聚相关处理** | 常规标准误严重低估，需 CRSE 校正 | 依赖块对角工作协方差矩阵（如 [[Generalized Estimating Equations\|GEE]]） | 模型内自然估计 [[Intraclass Correlation Coefficient\|ICC]] 并校正标准误 |
 > | **计算求解方式** | 解析闭式解 $\hat{\boldsymbol{\beta}} = (\mathbf{X}'\mathbf{X})^{-1}\mathbf{X}'\mathbf{Y}$ | 解析广义矩估计 $(\mathbf{X}'\boldsymbol{\Omega}^{-1}\mathbf{X})^{-1}\mathbf{X}'\boldsymbol{\Omega}^{-1}\mathbf{Y}$ | 迭代限制性极大似然（REML）数值优化 |
 > | **跨层级交互** | 仅能构建平面交互项（易共线性） | 平面交互项 | 原生支持跨层级随机斜率交互解释 |
 
 > [!method-stack] 方法层级
-> - **研究设计** [[Experimental Research\|实验研究]]（[[Covariate Adjustment\|协变量调整]]回归）、观察性截面调查、[[Regression Discontinuity Design\|断点回归]]局部线性拟合（RDD）、[[Difference-in-Differences\|双重差分]]双向固定效应（TWFE）。
+> - **研究设计** [[Experimental Research\|实验研究]]（[[Covariate Adjustment\|协变量调整]]回归）、观察性截面调查、[[Regression Discontinuity Design\|断点回归]]局部线性拟合（RDD）、[[Difference-in-Differences\|双重差分]]双向[[Fixed-Effect Model|固定效应]]（TWFE）。
 > - **数据收集** 学业测验考分、调查[[Questionnaire\|问卷]]连续量表总分、国家学生普查行政数据库（NPD）。
 > - **分析方法** 简单一元线性回归、多元线性回归、[[Analysis of Covariance\|协方差分析]]模型（ANCOVA）、[[Interaction Effect\|调节效应]]与交互项模型。
 > - **辅助技术** 异方差稳健标准误（HC1/HC2/HC3）、聚类稳健标准误（CRSE）、方差膨胀因子（VIF）共线性诊断、Cook 距离异常点诊断。
@@ -231,7 +233,7 @@ updated: 2026-10-16
 > > [!axis] OLS 聚类稳健[[Standard Error\|标准误]] vs [[Hierarchical Linear Model\|多层线性模型]]（HLM）
 > > 计量经济学派与多层统计学派在处理嵌套试验数据上的方法论论争。
 > >
-> > - **计量经济学派立场** 倾向于坚持 OLS 回归架构，辅以聚类稳健标准误（Cluster-Robust SE）。他们主张 OLS 算法透明、计算简捷，且即便多层随机效应分布误设，CRSE 依然能够提供渐进无偏的标准误推断，避免了多层复杂参数模型收敛失败的风险。
+> > - **计量经济学派立场** 倾向于坚持 OLS 回归架构，辅以聚类稳健标准误（Cluster-Robust SE）。他们主张 OLS 算法透明、计算简捷，且即便多层[[Random-Effects Model|随机效应]]分布误设，CRSE 依然能够提供渐进无偏的标准误推断，避免了多层复杂参数模型收敛失败的风险。
 > > - **教育统计学派立场** 认为单纯靠 CRSE 给 OLS 贴补丁无法替代多层模型。教育系统具有不可约减的层级生态，HLM 不仅能纠正标准误，更能显式分解校内与校际方差、估计[[Intraclass Correlation Coefficient\|群内相关系数]]（ICC），并允许探究跨层级[[Interaction Effect\|交互作用]]，具有更丰富的实体教育解释力。肖等学者（Xiao et al., 2016）在 NPD 复算中证实，两类模型在[[Effect Size\|效应量]]点估计和区间覆盖上存在显著分歧，推动了[[Evidence-Based Education\|循证教育]]界对建模标准的审慎反思（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）。
 
 ---

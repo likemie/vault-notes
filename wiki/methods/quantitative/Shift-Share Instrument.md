@@ -27,7 +27,7 @@ related_concepts:
   - "[[Heterogeneity]]"
 related_theories: []
 related_methods:
-  - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Fixed-Effect Model]]"
   - "[[Ordinary Least Squares]]"
   - "[[Correlational Research]]"
 related_persons: []
@@ -67,7 +67,7 @@ updated: 2026-10-16
 > - **不声称回答的问题** Shift-share IV 识别的局部平均处理效应（LATE）——只能识别对"依从者"（compliers）的因果效应，不能直接推广到对整个样本的平均处理效应。
 
 > [!method-stack] 方法层级
-> - **研究设计** 面板数据因果推断，通常结合[[Fixed-Effect and Random-Effects Models\|固定效应模型]]
+> - **研究设计** 面板数据因果推断，通常结合[[Fixed-Effect Model\|固定效应模型]]
 > - **数据收集** 需两个数据源——初始截面份额分布和总体时间序列
 > - **分析方法** 两阶段[[Ordinary Least Squares\|最小二乘法]]（2SLS）
 > - **辅助技术** 弱工具变量检验（F 统计量）、过度识别检验、安慰剂检验
@@ -90,7 +90,7 @@ updated: 2026-10-16
 
 > [!method-fit] 适用判断
 > - **适合使用** 存在可信的初始截面分布且该分布不受后续处理分配策略影响的情况。特别是当处理[[Variable\|变量]]的分配可能策略性地响应预期结果时。[[Argument_Glitz_2020_AER\|Glitz and Meyersson (2020, pp.1080–1081)]]
-> - **谨慎使用** 初始份额分布本身可能与未观测的截面特征相关，需要控制截面固定效应；总体 shift 本身可能受共同冲击驱动而与误差项相关。
+> - **谨慎使用** 初始份额分布本身可能与未观测的截面特征相关，需要控制截面[[Fixed-Effect Model|固定效应]]；总体 shift 本身可能受共同冲击驱动而与误差项相关。
 > - **不适合使用** 无法获得可信的前定截面分布；初始时期本身已是策略选择的结果；shift 部分存在明显内生性。
 
 ---

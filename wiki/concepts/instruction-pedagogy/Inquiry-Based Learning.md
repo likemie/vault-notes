@@ -10,7 +10,7 @@ aliases:
 summary: "以学习者自主生成新知、依托经验证据推论、行使认识能动性并参与共同体批判协商为核心的教学取向，在适切支架与指导协同下对促进概念理解与远迁移显著优于单一直接讲授"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 55
+related_count: 56
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -62,7 +62,7 @@ related_methods:
   - "[[Prediction Interval]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Randomised Controlled Trials]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Random-Effects Model]]"
   - "[[Systematic Review]]"
   - "[[Correlational Research]]"
   - "[[Intervention Research]]"
@@ -253,11 +253,11 @@ updated: 2026-10-16
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, p. 4)]]<br>（引述 Alfieri et al., 2011） | 干预措施：比较辅助式探究教学（Assisted Inquiry）与直接教学对学习成效的影响 | $k = 164$ / — | Cohen's $d$，随机效应模型 | 辅助探究组显著优于显性教学组；纯发现组显著劣于显性教学组 | — | 明确区分了纯发现与辅助式探究，证实支架介入是探究超越直接讲授的前提 |
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 4–5)]]<br>（引述 Furtak et al., 2012） | 干预措施：比较实验与[[Quasi-Experimental Designs\|准实验设计]]下科学探究教学与传统直接教学的效果 | $k = 37$ / — | Hedges' $g$，随机效应模型 | 探究教学对学习结果具有显著正向总体效应，教师主导指导组效应更大 | — | 涵盖多种理科学科，证实探究饱和度与教师指导共同决定成效 |
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, p. 5)]]<br>（引述 Lazonder & Harmsen, 2016） | 调节因素：评估不同类型指导支架对探究式[[Learnology\|学习学]]业成果的增益 | $k = 72$ / — | Cohen's $d$，随机效应模型 | 引入指导使探究学习成效提升半个标准差（$d \approx 0.50$） | 六种指导类型无显著[[Interaction Effect\|调节效应]] | 涵盖[[Randomised Controlled Trials\|随机对照试验]]与准实验，表明各类指导支架对促进探究均有效 |
-> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 4, 9)]]<br>（引述 Belland et al., 2017） | 调节因素：综合评估科学、技术、工程与数学（STEM）领域基于问题的探究学习中计算机[[Scaffolding\|脚手架]]的附加价值 | $k = 144$ / — | 标准化均数差（Standardised Mean Difference, SMD），[[Fixed-Effect and Random-Effects Models\|随机效应模型]] | 脚手架支持对学习表现产生显著中到大效应 | — | 确证了数字化认知与[[Metacognition\|元认知]]支架对探究学习的促进效应 |
+> | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 4, 9)]]<br>（引述 Belland et al., 2017） | 调节因素：综合评估科学、技术、工程与数学（STEM）领域基于问题的探究学习中计算机[[Scaffolding\|脚手架]]的附加价值 | $k = 144$ / — | 标准化均数差（Standardised Mean Difference, SMD），[[Random-Effects Model\|随机效应模型]] | 脚手架支持对学习表现产生显著中到大效应 | — | 确证了数字化认知与[[Metacognition\|元认知]]支架对探究学习的促进效应 |
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 4–5, 9)]]<br>（引述 d'Angelo et al., 2014） | 干预措施：评估[[Computer Simulation\|计算机模拟]]探究教学对比非模拟传统教学的学效 | 59 篇论文（128 个效应量） | 标准化均数差（SMD），随机效应模型 | 内容知识（$k=96$）、探究推理技能（$k=17$）及非认知结果（$k=15$）均呈显著正效应 | 实验与准实验设计效应无显著差异 | 证实带支持的仿真探究显著优于非仿真教学，且有支架组优于无支架组 |
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, p. 9)]]<br>（引述 Gerard et al., 2015） | 干预措施：基础教育学段（K-12）科学探究环境中自动化自适应指导对比常规课堂指导 | $k = 41$（57 个效应量） / — | Hedges' $g$，随机效应模型 | 自动化自适应指导显著提升探究成效（$g = 0.34$） | — | 证实基于算法与自然语言处理的动态个性化支架能有效化解探究认知过载 |
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, p. 3)]]<br>（引述 Schwichow et al., 2016） | 干预措施：变量控制策略（CVS）教学中包含探究与指导的干预有效性 | $k = 72$ / — | Cohen's $d$，随机效应模型 | 指导式探究对变量控制策略掌握呈现强正效应（$d = 0.61$） | — | 证实单纯提供动手操作不足以掌握科研逻辑，结合支架的探究才能确保技能内化 |
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预措施：[[Epistemic Cognition\|认识论认知]]干预中指导式探究（Guided Inquiry）对学业成就的促进效应 | $k = 7$ / $N = 893$ | Cohen's $d$，[[Fixed-Effect and Random-Effects Models\|随机效应模型]] | $d = 0.808$ $[0.313, 1.302]$ | $Q(6) = 101.035, p < .001$；组间 $Q_b(5) = 17.491, p < .01$ | 元分析亚组检验；指导式探究效应显著高于无结构支架的问题导向学习（PBL, $d = 0.340$）与开放论证教学（$d = 0.134$） |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预措施：[[Epistemic Cognition\|认识论认知]]干预中指导式探究（Guided Inquiry）对学业成就的促进效应 | $k = 7$ / $N = 893$ | Cohen's $d$，[[Random-Effects Model\|随机效应模型]] | $d = 0.808$ $[0.313, 1.302]$ | $Q(6) = 101.035, p < .001$；组间 $Q_b(5) = 17.491, p < .01$ | 元分析亚组检验；指导式探究效应显著高于无结构支架的问题导向学习（PBL, $d = 0.340$）与开放论证教学（$d = 0.134$） |
 
 > [!ma-table]- 一阶元分析互补维度亚组
 > <span class="concept-meta-moderator-table-marker" aria-hidden="true"></span>

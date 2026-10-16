@@ -10,7 +10,7 @@ summary: "多位独立评判者使用同一工具对相同对象评分时彼此�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 63
+method_related_count: 64
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -54,6 +54,7 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Chi-Squared Test]]"
+  - "[[Random-Effects Model]]"
   - "[[Internal Consistency]]"
   - "[[Test-Retest Reliability]]"
   - "[[Cronbach's Alpha]]"
@@ -63,7 +64,6 @@ related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Confidence Interval]]"
   - "[[Statistical Significance]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Sample Size Determination]]"
   - "[[Standard Error]]"
   - "[[Fieldwork]]"
@@ -89,7 +89,7 @@ related_theories:
   - "[[Classical Test Theory]]"
 status: active
 created: 2026-06-01
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Inter-Rater Reliability
@@ -131,7 +131,7 @@ updated: 2026-10-15
 > [!method-stack] 测量架构与信度类型谱系
 > - **研究设计** 结构化[[Classroom Observation|课堂观察]]、大规模教育调查、标准化测验阅卷、[[Qualitative Content Analysis|质性内容分析]]、[[Systematic Review|系统综述]]文献筛选。
 > - **数据收集** 现场瞬时定格快照、连续时段行为记录、主观试卷评分、访谈[[Transcription in Qualitative Research|转录]]稿类目赋码。
-> - **分析方法** 边际偶合校正分析、交叉矩阵[[Chi-Squared Test|卡方检验]]、双向随机效应方差分解、容差邻域一致性分析。
+> - **分析方法** 边际偶合校正分析、交叉矩阵[[Chi-Squared Test|卡方检验]]、双向[[Random-Effects Model|随机效应]]方差分解、容差邻域一致性分析。
 > - **辅助技术** 
 >   - 观察员视频盲测认证考核体系
 >   - 双段独立观察与时序隔离设计
@@ -199,7 +199,7 @@ updated: 2026-10-15
 > - **推荐软件** R (`irr`, `psych`), Python (`scikit-learn`, `statsmodels`), Stata (`kap`, `icc`), SPSS (`CROSSTABS`, `RELIABILITY`).
 > - **核心命令与包** 
 >   - R 语言：使用 `irr::agree(ratings)` 计算一致性百分比，使用 `irr::kappa2(ratings)` 计算双人卡帕，使用 `psych::ICC(ratings)` 计算组内相关系数。
->   - Stata 软件：执行 `kap rater1 rater2` 计算分类卡帕，执行 `icc score target rater` 拟合双向[[Fixed-Effect and Random-Effects Models|随机效应模型]]。
+>   - Stata 软件：执行 `kap rater1 rater2` 计算分类卡帕，执行 `icc score target rater` 拟合双向[[Random-Effects Model|随机效应模型]]。
 >   - Python 科学计算库：调用 `sklearn.metrics.cohen_kappa_score(y1, y2)`。
 > - **实现流程** 矩阵格式转换 $\to$ 边际概率检验 $\to$ 模型拟合估计 $\to$ 提取点估计与 95% 置信区间 $\to$ 导出标准报告表。
 > - **报告标准** 完整呈现[[Sample Size Determination|样本量]] $N$、评分者数量 $k$、具体模型变体（如 ICC(2,1) 单一评分者绝对一致性）、估计系数、[[Standard Error|标准误]]及对应显著性检验 $p$ 值。

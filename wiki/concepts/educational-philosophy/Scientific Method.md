@@ -82,6 +82,7 @@ related_methods:
   - "[[Survey Research]]"
   - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
+  - "[[Fixed-Effect Model]]"
   - "[[Quantitative Research]]"
   - "[[Mixed Methods Research]]"
   - "[[Triangulation]]"
@@ -329,7 +330,7 @@ updated: 2026-10-16
 > - [[Argument_Skourdoumbis_2024_AER|Skourdoumbis and Rowe (2024)]] — 批判当代[[Evidence-Based Education|循证教育]]对科学方法的教条化应用，揭示将教学质量简化为[[Meta-analysis|元分析]][[Effect Size|效应量]]与[[Variable|变量]]控制，剥离了教学实践作为人际交往的生成性[[Ontology|本体论]]。
 > - [[Argument_Peterson_1987_OpenCourt|Peterson (1987)]] — 从[[Theory of Knowledge|知识论]]视角界定科学方法的有效性限度与认识论边界，强调[[General Education|通识教育]]的核心在于理解科学方法能够支持哪些结论，以及哪些伦理与价值判断落在其解释范围之外。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 反思[[School Effectiveness|学校效能]]研究与量化评价中过度借用实证科学方法的认识论陷阱，揭示指标驱动的评价模式对微观教育复杂性的遮蔽。
-> - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 从两级固定效应数学公理推导出宏观证据综合的六项方法论要求，运用数据基础批判、内部合规批判与外部认识论批判三层次框架，实证解构《[[Visible Learning|可见的学习]]》借用科学方法外衣却违背基础计量规范引发的排名虚真，提出建设中央标准化证据数据库。
+> - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 从两级[[Fixed-Effect Model|固定效应]]数学公理推导出宏观证据综合的六项方法论要求，运用数据基础批判、内部合规批判与外部认识论批判三层次框架，实证解构《[[Visible Learning|可见的学习]]》借用科学方法外衣却违背基础计量规范引发的排名虚真，提出建设中央标准化证据数据库。
 
 ---
 

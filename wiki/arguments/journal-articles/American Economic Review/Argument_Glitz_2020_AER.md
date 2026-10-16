@@ -35,9 +35,9 @@ related_concepts:
 related_theories:
   - "[[Knowledge Integration]]"
 related_methods:
+  - "[[Fixed-Effect Model]]"
   - "[[Perpetual Inventory Method]]"
   - "[[Shift-Share Instrument]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Ordinary Least Squares]]"
   - "[[Standard Error]]"
   - "[[Cost-Benefit Analysis]]"
@@ -49,14 +49,14 @@ sources:
 part_of:
 status: draft
 created: 2026-06-26
-updated: 2026-07-13
+updated: 2026-10-16
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Glitz_2020_AER"
 argument_key: "Argument_Glitz_2020_AER"
 argument_display_title: "Industrial Espionage and Productivity"
 argument_kind: "journal-article"
-argument_related_count: 21
+argument_related_count: 22
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -133,7 +133,7 @@ issuing_organization: ""
 > | **距离技术前沿的创新与采用模型**<br>（Distance to Frontier） | 后发国家的 [[Total Factor Productivity\|TFP]] 增长同时取决于自主 R&D 和从技术前沿的独立技术转移；距离前沿越远，技术转移的边际效应越大。本文以此推导估计方程。（pp.1074–1075） |
 
 > [!warrant]- 理论如何支撑论证
-> 研究将工业间谍的情报流入嵌入标准的生产函数框架中。设行业 TFP 增长率取决于 R&D 投入、间谍情报流入和与前沿的距离。通过差分消除国家层面不随时间变化的不可观测因素后，估计方程将两德 TFP 差距的变化回归到滞后情报流入、R&D 差距和初始 TFP 差距上。关键识别假设是条件于行业和时间固定效应、专利差距和初始 TFP 差距后，情报流入的变动与未观测的 TFP 冲击不相关。（pp.1074–1076）
+> 研究将工业间谍的情报流入嵌入标准的生产函数框架中。设行业 TFP 增长率取决于 R&D 投入、间谍情报流入和与前沿的距离。通过差分消除国家层面不随时间变化的不可观测因素后，估计方程将两德 TFP 差距的变化回归到滞后情报流入、R&D 差距和初始 TFP 差距上。关键识别假设是条件于行业和时间[[Fixed-Effect Model|固定效应]]、专利差距和初始 TFP 差距后，情报流入的变动与未观测的 TFP 冲击不相关。（pp.1074–1076）
 
 ---
 
@@ -185,7 +185,7 @@ issuing_organization: ""
 ### 论证步骤一：识别策略——从面板固定效应到工具变量
 
 > [!claim] 步骤一主张
-> 面板[[Fixed-Effect and Random-Effects Models\|固定效应模型]]的 [[Ordinary Least Squares\|OLS]] 估计可能因遗漏[[Variable\|变量]]和测量问题产生偏误，需要通过工具变量策略建立情报流入对 [[Total Factor Productivity\|TFP]] 差距缩小的因果效应。
+> 面板[[Fixed-Effect Model\|固定效应模型]]的 [[Ordinary Least Squares\|OLS]] 估计可能因遗漏[[Variable\|变量]]和测量问题产生偏误，需要通过工具变量策略建立情报流入对 [[Total Factor Productivity\|TFP]] 差距缩小的因果效应。
 
 > [!chain-link] 证据到判断
 > - **基线 OLS 结果** 在控制行业和时间固定效应、专利差距和初始 TFP 差距后，情报流入变量的系数为 −0.052（p=0.011），即一年标准差的额外情报流入（1.40 条/百万欧元产出）使 log TFP 差距缩小 7.3 个百分点（pp.1078–1079）。

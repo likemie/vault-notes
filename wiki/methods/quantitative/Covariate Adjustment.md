@@ -51,6 +51,7 @@ related_methods:
   - "[[Ordinary Least Squares]]"
   - "[[Hierarchical Linear Model]]"
   - "[[Generalized Estimating Equations]]"
+  - "[[Random-Effects Model]]"
   - "[[Confidence Interval]]"
   - "[[Meta-analysis]]"
   - "[[Simple Difference in Means Model]]"
@@ -146,7 +147,7 @@ updated: 2026-10-16
 > - $\beta_{\text{adj}}$：协变量调整后的净因果效应估计值。
 > - $\gamma$：前测成绩的回归斜率系数。
 > - $\mathbf{X}_{ij}$：学生背景特征向量（如免费校餐 FSM、性别、年龄）。
-> - $u_j, \varepsilon_{ij}$：学校间随机效应与学生水平残差。
+> - $u_j, \varepsilon_{ij}$：学校间[[Random-Effects Model|随机效应]]与学生水平残差。
 >
 > **数学直觉** 在回归中引入前测变量，实质上将残差方差 $\sigma^2$ 压缩为 $\sigma^2 (1 - \rho^2)$（其中 $\rho$ 为前测与后测的相关系数）。当 $\rho = 0.70$ 时，残差方差缩减约 51%，使得处理效应估计值的标准误骤降近 30%，等价于在不增加任何新受试者的情况下使[[Effective Sample Size\|有效样本量]]翻倍（Sanders, 2019）。
 >

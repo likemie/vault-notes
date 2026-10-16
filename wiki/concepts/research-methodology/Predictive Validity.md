@@ -60,6 +60,7 @@ related_methods:
   - "[[Confidence Interval]]"
   - "[[Second-Order Meta-Regression]]"
   - "[[Cohort Study]]"
+  - "[[Fixed-Effect Model]]"
   - "[[Multiple Regression]]"
   - "[[Correlational Research]]"
   - "[[Meta-regression]]"
@@ -277,7 +278,7 @@ updated: 2026-10-16
 > | 研究 | 样本与情境 | 预测源变量（Predictor） | 效标变量（Criterion） | 核心实证系数与结论 | 混杂控制与稳健性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]]; Molina et al. (2018) | 巴基斯坦旁遮普省超 1,000 间小学课堂 | Teach [[Classroom Observation\|课堂观察]]工具综合得分（行为锚定微观教学质量） | 学生标准化测试跨期[[Academic Achievement\|学业成绩]]增长 | 综合得分每提高 1 SD，学生学业成绩显著提升 **0.08 至 0.12 SD** | 控制[[Class Size\|班级规模]]、教师学科知识测验、教龄及学生家庭 SES | 证实高推论微观教学观察对学业增益具备坚实的跨期预测效度 |
-> | Bau and Das (2017) | 巴基斯坦旁遮普省公立与私立小学教师样本 | 教师静态资质（文凭学历、教师执照、职前认知测试） | 学生跨期学业增益（标准化数学与语言测验） | 关联系数近乎零（$r \approx 0.02, p > .10$），无统计显著性 | 控制学校固定效应与学生基线能力 | 证实静态文凭资质对微观学业生产力缺乏预测有效性 |
+> | Bau and Das (2017) | 巴基斯坦旁遮普省公立与私立小学教师样本 | 教师静态资质（文凭学历、教师执照、职前认知测试） | 学生跨期学业增益（标准化数学与语言测验） | 关联系数近乎零（$r \approx 0.02, p > .10$），无统计显著性 | 控制学校[[Fixed-Effect Model\|固定效应]]与学生基线能力 | 证实静态文凭资质对微观学业生产力缺乏预测有效性 |
 > | Gill et al. (2016) | 美国公立学校大规模课堂观察工具对比评测 | 5 套主流观察工具（CLASS、FFT、[[Plato]]、MQI、UTeach） | 学生统考成绩年度增值值（VAM） | 工具中“认知挑战”、“反馈质量”维度对学业增益的预测相关达 $r = 0.15\text{–}0.25$ | 控制学生社会人口学特征与过往成绩 | 奠定微观行为维度驱动学业增长的内容预测效度基石 |
 
 ---

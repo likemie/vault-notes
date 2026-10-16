@@ -13,7 +13,7 @@ summary: "以自然群体（学校、班级或社区）为随机分配单位、�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 41
+method_related_count: 42
 method_related_level: 5
 method_related_stars: "⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -45,9 +45,10 @@ related_methods:
   - "[[Hierarchical Linear Model]]"
   - "[[Standard Error]]"
   - "[[Statistical Significance]]"
+  - "[[Fixed-Effect Model]]"
   - "[[Effect Size]]"
   - "[[Sample Size Determination]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Random-Effects Model]]"
   - "[[Generalized Estimating Equations]]"
   - "[[Pre-test and Post-test]]"
   - "[[Ordinary Least Squares]]"
@@ -92,7 +93,7 @@ updated: 2026-10-16
 > - **研究对象** 必须以全校或全班为单位推行的教育干预（如全校读写改革 [[Success for All]]、班级同伴辅导 [[Peer-Assisted Learning Strategies]]、全校综合支持 [[Communities in Schools]]、[[Classroom Management\|课堂管理]]系统 PBIS）。
 > - **问题类型** 评估群体级教学策略、教育政策与组织变革对个体[[Academic Achievement\|学业成就]]、心理发展及行为规范的因果净效应。
 > - **[[Unit of Analysis\|分析单位]]** 分配单位为第二层集群（Level-2，学校/班级），测量单位为第一层微观个体（Level-1，学生）。
-> - **输出形式** 多层线性模型（HLM）固定效应估计值、群组内相关系数（ICC / $\rho$）、设计效应（Design Effect）、校正后标准误与调整后[[Effect Size\|效应量]]（Hedges' $g$）。
+> - **输出形式** 多层线性模型（HLM）[[Fixed-Effect Model|固定效应]]估计值、群组内相关系数（ICC / $\rho$）、设计效应（Design Effect）、校正后标准误与调整后[[Effect Size\|效应量]]（Hedges' $g$）。
 
 > [!citation-card]- 关键定义
 > 当干预措施必须在自然组织单元（如学校或班级）整体实施，或者个体间存在严重的干预溢出污染时，集群随机化是唯一的实验选择。然而，分析单位与分配单位的错位构成了严峻的统计挑战，必须显式建模集群层级的变异。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|(Cohen et al., 2011, p. 317)]]
@@ -111,7 +112,7 @@ updated: 2026-10-16
 > [!method-stack] 方法层级
 > - **设计形态** 平行双组集群 RCT（Parallel CRCT）、阶梯楔形集群试验（Stepped-Wedge CRCT）、因子集群试验（Factorial CRCT）。
 > - **数据结构** 两层或三层嵌套面板数据（学生嵌套于班级，班级嵌套于学校）。
-> - **计量估计技术** 多层线性模型（HLM / [[Fixed-Effect and Random-Effects Models\|随机效应模型]]）、[[Generalized Estimating Equations\|广义估计方程]]（GEE）、集群稳健[[Standard Error\|标准误]]（Cluster-Robust Standard Errors, CRSE）、置换检验（Permutation Test）。
+> - **计量估计技术** 多层线性模型（HLM / [[Random-Effects Model\|随机效应模型]]）、[[Generalized Estimating Equations\|广义估计方程]]（GEE）、集群稳健[[Standard Error\|标准误]]（Cluster-Robust Standard Errors, CRSE）、置换检验（Permutation Test）。
 
 ---
 

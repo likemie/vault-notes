@@ -11,7 +11,7 @@ summary: "在元分析中处理复杂依赖与嵌套效应量的统计方法，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 22
+method_related_count: 23
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -37,7 +37,8 @@ related_methods:
   - "[[Standard Error]]"
   - "[[Confidence Interval]]"
   - "[[Correlated and Hierarchical Effects Model]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Random-Effects Model]]"
+  - "[[Fixed-Effect Model]]"
   - "[[Intraclass Correlation Coefficient]]"
   - "[[Multilevel Egger's Test]]"
   - "[[Inverse-Variance Weighting]]"
@@ -81,8 +82,8 @@ updated: 2026-10-16
 > - **有效性标准** 统计结论效度取决于集群数量与小样本调整；在有限集群情境下须引入 CR2 调整与霍特林 $T^2$ 小样本自由度修正。
 > - **不声称回答的问题** 不能自动消除原始研究中的测量偏误或文献[[Publication Bias\|发表偏倚]]，仅解决聚类依赖对方差估计与假阳性膨胀的数学失真。
 
-> [!contrast-table] 经典逆方差模型 vs 多水平[[Fixed-Effect and Random-Effects Models\|随机效应模型]] vs RVE 三明治估计量
-> | 比较维度 | Wecker 经典固定效应逆方差 | 经典多水平随机效应模型 | RVE 稳健三明治估计量 |
+> [!contrast-table] 经典逆方差模型 vs 多水平[[Random-Effects Model\|随机效应模型]] vs RVE 三明治估计量
+> | 比较维度 | Wecker 经典[[Fixed-Effect Model\|固定效应]]逆方差 | 经典多水平随机效应模型 | RVE 稳健三明治估计量 |
 > |---|---|---|---|
 > | **依赖性假设** | 严格假设所有研究互不重叠且独立 | 假设研究内完全符合特定层级正态分布 | **允许未知的复杂文献重叠与聚类依赖** |
 > | **方差估计机制** | 依赖模型理论方差 $\operatorname{Var} = 1/\sum w_j$ | 依赖参数似然估计 $\operatorname{Var} = (\mathbf{X}' \mathbf{V}^{-1} \mathbf{X})^{-1}$ | **“面包”夹“经验残差外积肉层”非参数校正** |
@@ -130,7 +131,7 @@ updated: 2026-10-16
 >    $$\mathbf{X}^T \mathbf{W} \mathbf{y} = \mathbf{1}^T \mathbf{W} \mathbf{y} = \sum_{j=1}^{m} w_j d_j$$
 > 4. 代入 GLS 公式即得：
 >    $$\hat{\boldsymbol{\beta}} = \left( \sum_{j=1}^m w_j \right)^{-1} \left( \sum_{j=1}^m w_j d_j \right) = \frac{\sum_{j=1}^m w_j d_j}{\sum_{j=1}^m w_j} = \hat{\theta}_{\text{second}}$$
-> **结论**[[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] 的二阶固定效应逆方差加权标量式，在数学本质上与广义最小二乘（GLS）矩阵点估计完全同构。
+> **结论**[[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] 的二阶[[Fixed-Effect Model|固定效应]]逆方差加权标量式，在数学本质上与广义最小二乘（GLS）矩阵点估计完全同构。
 
 ---
 

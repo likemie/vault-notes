@@ -40,6 +40,7 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Forest Plot]]"
   - "[[Causal Modeling]]"
+  - "[[Fixed-Effect Model]]"
   - "[[Robust Variance Estimation]]"
   - "[[Meta-meta-analysis]]"
   - "[[Correlational Research]]"
@@ -160,7 +161,7 @@ updated: 2026-10-16
 
 ### 公式步骤四　元分析联合标准误与精度累加法则
 
-> [!formula-step] 公式步骤　两级固定效应[[Meta-analysis|元分析]]联合标准误
+> [!formula-step] 公式步骤　两级[[Fixed-Effect Model|固定效应]][[Meta-analysis|元分析]]联合标准误
 > $$\text{SE}_D = \sqrt{v_D} = \sqrt{\frac{1}{\sum_{j=1}^m W_j}} = \sqrt{\frac{1}{\sum_{j=1}^m \frac{1}{\text{SE}_j^2}}}$$
 >
 > **这个公式在做什么** 接收各纳入元分析（或主要研究）的方差倒数权重 $W_j = 1/v_{d_j} = 1/\text{SE}_j^2$，输出跨研究综合效应量 $D$ 的联合标准误 $\text{SE}_D$。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 25, 37–38)]]
@@ -268,4 +269,4 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 系统推导均值的标准误（[[Causal Modeling|SEM]]）与分类比例标准误的计算公式，确立[[Confidence Interval|置信区间]]构建与大样本边际收益递减准则。
-> - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 从固定效应数学公理推导联合标准误计算规范，实证揭示将标准误误作标准差导致[[Effect Size|效应量]]虚增十倍（Eisenstaedt 案例）、根据离散度硬造伪标准误使[[Direct Instruction|直接教学]]权重腰斩 53.5% 以及对标准误取算术平均等系统性计量灾难。
+> - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 从[[Fixed-Effect Model|固定效应]]数学公理推导联合标准误计算规范，实证揭示将标准误误作标准差导致[[Effect Size|效应量]]虚增十倍（Eisenstaedt 案例）、根据离散度硬造伪标准误使[[Direct Instruction|直接教学]]权重腰斩 53.5% 以及对标准误取算术平均等系统性计量灾难。

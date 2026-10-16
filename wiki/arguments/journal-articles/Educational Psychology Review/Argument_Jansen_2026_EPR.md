@@ -48,7 +48,8 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Violin Plot]]"
   - "[[UpSet Plot]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Random-Effects Model]]"
+  - "[[Fixed-Effect Model]]"
 related_instruments: []
 related_persons:
   - "[[John Hattie]]"
@@ -61,16 +62,16 @@ sources:
 part_of:
 status: draft
 created: 2026-09-18
-updated: 2026-09-18
+updated: 2026-10-16
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Jansen_2026_EPR"
 argument_key: "Argument_Jansen_2026_EPR"
 argument_display_title: "Automated data extraction by large language models: Assessing accuracy in comparison to human experts using the example of Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 29
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 30
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: "Educational Psychology Review"
 book_title: ""
@@ -206,7 +207,7 @@ issuing_organization: ""
 
 #### 2. 全矩阵准确性指标对比与模型间收敛
 
-通过计算百分比一致率与双向随机效应组内相关系数 $\text{ICC}(2,1)$，研究构建了完整的准确性矩阵。
+通过计算百分比一致率与双向[[Random-Effects Model|随机效应]]组内相关系数 $\text{ICC}(2,1)$，研究构建了完整的准确性矩阵。
 
 > [!contrast-table] 编码员与参考标准准确性矩阵（上三角：一致率；下三角：$\text{ICC}(2,1)$）
 > | 评估对象 | 金标准（Gold） | 银标准（Silver） | 独立作者编码 | [[Visible Learning]] | Gemini 2.5 Pro | [[General Purpose Technology\|GPT]]-4.1 | GPT-o3 |
@@ -250,7 +251,7 @@ issuing_organization: ""
 > - **事实性幻觉** 指原文明确缺失某项数据但编码主体凭空虚构数值。在 55 项缺失特定统计量的元分析中，三大模型仅出现 3–4 例幻觉，与人类专家的 3–4 例完全持平，表明模型在提示词约束下极少无中生有。（p. 18）
 > - **信息遗漏** 指原文包含数据但被误标为缺失值（NA）。独立人类作者遗漏最少（12 例），Gemini 2.5 Pro（21 例）与 GPT-4.1（22 例）表现良好，优于原数据库的 31 例遗漏；GPT-o3 遗漏较多（36 例）；所有遗漏均集中于需要深度跨表定位的被试总数 $N$。
 > - **跨表格加总计算偏差** 当被试规模分散在多个亚组或分表中时，大模型在长上下文中执行多步心算累加容易产生微小差错。（p. 16）
-> - **报告模糊性选择偏误** 当原文摘要与正文表格数值冲突，或同时呈现固定效应与[[Fixed-Effect and Random-Effects Models\|随机效应模型]]时，模型偶尔捕获了局部亚组值而非全局汇总值。（p. 17）
+> - **报告模糊性选择偏误** 当原文摘要与正文表格数值冲突，或同时呈现[[Fixed-Effect Model|固定效应]]与[[Random-Effects Model\|随机效应模型]]时，模型偶尔捕获了局部亚组值而非全局汇总值。（p. 17）
 
 #### 2. 基于有意义人类控制的四步混合验证范式
 

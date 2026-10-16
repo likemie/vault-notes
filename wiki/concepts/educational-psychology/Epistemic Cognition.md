@@ -72,6 +72,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Experimental Research]]"
   - "[[Confidence Interval]]"
+  - "[[Random-Effects Model]]"
   - "[[Fail-Safe N]]"
   - "[[Trim and Fill Method]]"
   - "[[Egger Regression Test]]"
@@ -268,7 +269,7 @@ updated: 2026-10-16
 >
 > | 元分析 | [[Dependent Variable\|结果变量]] | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 证据确定性 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | [[Academic Achievement\|学业成就]] | 151 / 55,418 | r；随机效应 | 0.162 [0.135, 0.189] | I²=88.77%，Q=1335.22 | — |
+> | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | [[Academic Achievement\|学业成就]] | 151 / 55,418 | r；[[Random-Effects Model\|随机效应]] | 0.162 [0.135, 0.189] | I²=88.77%，Q=1335.22 | — |
 > | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | [[Academic Achievement\|学业成就]]（干预因果效应） | 28 / 4,373 | Cohen's d；随机效应 | 0.509 [0.326, 0.692] | I²=92.72%，Q=370.964***；离群值缩尾至 2 SD | — |
 > | [[Argument_Song_Choi_2026_FPSYG\|Song and Choi (2026)]] | 学习成果（认知、动机、自我调节） | 512 / 6,312 | r；三层多层随机效应（REML） | 0.191 [0.119, 0.261] | I²=92.46%（L2: 35.82%, τ²=0.015; L3: 56.64%, τ²=0.024）, Q=6004.06*** | — |
 

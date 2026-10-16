@@ -63,6 +63,7 @@ related_theories:
   - "[[Systems of Innovation]]"
 related_methods:
   - "[[Effect Size]]"
+  - "[[Fixed-Effect Model]]"
   - "[[Process Tracing]]"
   - "[[Correlational Research]]"
 related_persons:
@@ -297,7 +298,7 @@ updated: 2026-10-16
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Glitz_2020_AER\|Glitz and Meyersson (2020)]] | 1970–1989年东德斯塔西（Stasi）在西方针对37个工业部门收集的情报 | 历史计量与固定效应面板回归 | 科技间谍情报数与[[Total Factor Productivity\|全要素生产率]]（TFP）差距 | 斯塔西累计收集 189,725 条科技情报，显著缩小了两德行业 TFP 差距 | $p < 0.01$ | 揭示非法/秘密技术转移渠道对吸收能力较强的追赶国产业的技术追赶效应 |
+> | [[Argument_Glitz_2020_AER\|Glitz and Meyersson (2020)]] | 1970–1989年东德斯塔西（Stasi）在西方针对37个工业部门收集的情报 | 历史计量与[[Fixed-Effect Model\|固定效应]]面板回归 | 科技间谍情报数与[[Total Factor Productivity\|全要素生产率]]（TFP）差距 | 斯塔西累计收集 189,725 条科技情报，显著缩小了两德行业 TFP 差距 | $p < 0.01$ | 揭示非法/秘密技术转移渠道对吸收能力较强的追赶国产业的技术追赶效应 |
 > | [[Argument_Susalka_Carbone_2025_IP_Web\|Susalka and Carbone (2025)]] | 2023年美国全美大学[[University-Industry Collaboration\|产学合作]]资助与技术转移 | 行业统计调查（AUTM） | 产学合作研究资助总额与联邦资助份额演变 | 2023年全美产学合作科研资助超 71 亿美元；联邦资助占大学研发支出比例由 1991 年约 70% 降至 2021 年不足 60% | — | 说明大学研发资金来源多元化趋势以及正式技术转移合同谈判在财务上的关键权重 |
 > | [[Argument_Mody_2017_MOH\|Mody (2017)]] | 1970–1990 年代美国微电子产学中心（[[Silicon Structures Project\|SSP]]、[[National Research and Resource Facility for Submicron Structures\|NRRFSS]]、CIS）与生物医疗跨界转化 | 历史档案考证与比较[[Process Tracing\|过程追踪]] | 外部用户占比、咨询辐射机构数与跨界专利许可成效 | 康奈尔 NRRFSS 外部用户达 60%（12% 工业界），为 40 余家机构提供微细加工建设咨询；基因枪成为康奈尔史上最高额专利版税技术转移；斯坦福 CIS 孵化出 Affymetrix DNA 微阵列芯片 | 定性历史档案证据分析 | 适用于重资产微纳加工平台型技术转移与向生命科学跨界转化情境 |
 

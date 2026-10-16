@@ -6,7 +6,7 @@ aliases:
 summary: "以经过选择的问题组织目标、学习活动与评估的教学系统，强调先备知识激活、协作探究、知识应用、模型修正和自我监控。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 59
+related_count: 60
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -63,7 +63,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Confidence Interval]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Random-Effects Model]]"
   - "[[Inverse-Variance Weighting]]"
   - "[[Correlational Research]]"
 related_persons:
@@ -303,7 +303,7 @@ updated: 2026-10-16
 >
 > | 一阶元分析 | 当前概念角色与总体结果 | k / N | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与预测区间 | 关键解释边界 |
 > |---|---|---|---|---|---|---|---|
-> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预教学框架：PBL 对[[Academic Achievement\|学业成就]]与[[Epistemic Cognition\|认识论认知]]的因果干预效应 | 7 项研究 / 1,250；7 个效应 | Cohen's d；[[Fixed-Effect and Random-Effects Models\|随机效应模型]] | d = 0.340 [−.080, .761] | Q(6) = 115.279, p < .001 | 作为独立干预模式效果未达统计显著（Z = 1.586, p = .113），证实劣构问题探究若缺乏显性程序支架则成效受限 |
+> | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] | 干预教学框架：PBL 对[[Academic Achievement\|学业成就]]与[[Epistemic Cognition\|认识论认知]]的因果干预效应 | 7 项研究 / 1,250；7 个效应 | Cohen's d；[[Random-Effects Model\|随机效应模型]] | d = 0.340 [−.080, .761] | Q(6) = 115.279, p < .001 | 作为独立干预模式效果未达统计显著（Z = 1.586, p = .113），证实劣构问题探究若缺乏显性程序支架则成效受限 |
 > | [[Argument_Hattie_2015_SOTLP\|Albanese & Mitchell (1993, as cited in Hattie, 2015b, p. 85)]] | 干预因素（PBL）的医学知识结果 | 11 项研究 / N 未报告；60 个效应 | Cohen's d；模型未报告 | d = 0.27；95% CI 未报告 | 未报告 | Blass 将其识别为[[Literature Review\|文献综述]] |
 > | [[Argument_Hattie_2015_SOTLP\|Vernon & Blake (1993, as cited in Hattie, 2015b, p. 85)]] | 干预因素（PBL）的医学结果 | 8 项研究 / N 未报告；26 个效应 | Cohen's d；模型未报告 | d = −0.18；95% CI 未报告 | 未报告 | 医学教育情境；情境集中于专业高等教育 |
 > | [[Argument_Hattie_2015_SOTLP\|Dochy et al. (2003, as cited in Hattie, 2015b, p. 85)]] | 干预因素（PBL）的大学知识与技能结果 | 43 项研究 / N 未报告；35 个效应 | Cohen's d；模型未报告 | d = 0.12；95% CI 未报告 | 未报告 | 大学教育；结果类型需要细分 |
@@ -321,7 +321,7 @@ updated: 2026-10-16
 > | 二阶元分析 | 当前概念角色与总体结果 | 证据规模 M / E / k / N | 效应指标与模型 | 二阶汇总效应与 95% CI | 异质性与 95% PI | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Hattie_2015_SOTLP\|Hattie (2015b)]] | 干预因素（PBL）的总体学习结果 | M = 9；k / N 未报告 | Cohen's d；早期二级综合（一级元分析效应的简单算术平均） | d ≈ 0.08；95% CI 未报告 | 单项汇总效应 −0.30 至 0.32；正式指标未报告 | 早期粗放综合，未经[[Inverse-Variance Weighting\|逆方差加权]]；研究情境与结果类型混合 |
-> | [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] | 干预因素（PBL）的高等教育学生结果 | M = 20；E = 47；k = 469；N 未报告 | 标准化均差（SMD）；[[Fixed-Effect and Random-Effects Models\|随机效应模型]]；OR 转换 | 观测 d = 0.68 [0.57, 0.79]；剪补调整后 d = 0.60 [0.49, 0.71] | Q(46) = 730.67, p < .001, I² = 93.70% | 高等教育情境；存在轻微发表偏倚（详见 Argument） |
+> | [[Argument_Erdem_2026_SHE\|Erdem et al. (2026)]] | 干预因素（PBL）的高等教育学生结果 | M = 20；E = 47；k = 469；N 未报告 | 标准化均差（SMD）；[[Random-Effects Model\|随机效应模型]]；OR 转换 | 观测 d = 0.68 [0.57, 0.79]；剪补调整后 d = 0.60 [0.49, 0.71] | Q(46) = 730.67, p < .001, I² = 93.70% | 高等教育情境；存在轻微发表偏倚（详见 Argument） |
 
 > [!ma-table]- 二阶元分析互补维度亚组
 > <span class="scrollable-table-marker concept-second-order-role-subgroup-marker" aria-hidden="true"></span>

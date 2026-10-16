@@ -38,6 +38,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Questionnaire]]"
   - "[[Confidence Interval]]"
+  - "[[Random-Effects Model]]"
   - "[[Correlational Research]]"
 related_persons: []
 confidence: high
@@ -139,7 +140,7 @@ updated: 2026-10-16
 >
 > | 元分析 | [[Epistemology\|认识论]]构念 | k | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | 相对地位 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 知识的发展 (Development of knowledge) | 18 | r；随机效应 | 0.274 [0.180, 0.363] | 效应量最高（第 1 位） | 测量对科学与知识动态演化的理解 |
+> | [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] | 知识的发展 (Development of knowledge) | 18 | r；[[Random-Effects Model\|随机效应]] | 0.274 [0.180, 0.363] | 效应量最高（第 1 位） | 测量对科学与知识动态演化的理解 |
 > | 同上 | 知识的证成 (Justification of knowledge) | 26 | r；随机效应 | 0.228 [0.160, 0.294] | 高预测力（第 4 位） | 强调证据与规则评估 |
 > | 同上 | [[Simplicity of Knowledge\|简单知识]] (Simple knowledge) | 52 | r；随机效应 | 0.162 [0.113, 0.209] | 中等效应 | 关注知识的孤立 vs 关联结构 |
 > | 同上 | 确定知识 (Certain knowledge) | 78 | r；随机效应 | 0.136 [0.087, 0.184] | 相对偏低 | 仅测量对绝对不变性的排斥 |

@@ -12,9 +12,9 @@ summary: "专门用于分析具有嵌套或分层结构数据的统计建模方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 49
-method_related_level: 5
-method_related_stars: "⭐⭐⭐⭐⭐"
+method_related_count: 50
+method_related_level: 6
+method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/quantitative
@@ -43,11 +43,13 @@ related_concepts:
   - "[[External Validity]]"
 related_theories: []
 related_methods:
+  - "[[Random-Effects Model]]"
   - "[[Ordinary Least Squares]]"
   - "[[Intraclass Correlation Coefficient]]"
   - "[[Standard Error]]"
   - "[[Effect Size]]"
   - "[[Cluster Randomized Trials]]"
+  - "[[Fixed-Effect Model]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Confidence Interval]]"
   - "[[Sample Size Determination]]"
@@ -60,7 +62,6 @@ related_methods:
   - "[[Effect Size Conversion]]"
   - "[[Meta-analysis]]"
   - "[[Three-Level Meta-Analysis]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Simple Difference in Means Model]]"
   - "[[Statistical Significance]]"
   - "[[Correlational Research]]"
@@ -90,13 +91,13 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 方法定义
-> **分层线性模型（Hierarchical Linear Model，简称 HLM，在统计学中亦称多层线性模型 Multilevel Linear Model, MLM，或随机效应混合模型 Mixed-Effects Model）** 是一种专门用于分析具有多层嵌套（Nested / Clustered）或分层结构数据的参数化回归建模方法。在教育研究中，学生个体（Level 1）天然嵌套于班级或学校（Level 2），同校学生因共享学校师资、校园文化、社区背景或课堂教学而存在内在相似性，违背了传统[[Ordinary Least Squares\|普通最小二乘法]]（OLS）所要求的“误差独立同分布（I.I.D.）”假设。HLM 通过将[[Dependent Variable\|因变量]]的总变异解构为个体层级残差方差与群体层级随机效应方差，不仅能够精确计算 **[[Intraclass Correlation Coefficient\|组内相关系数]]（Intraclass Correlation Coefficient, ICC）** 并对抽样[[Standard Error\|标准误]]进行彻底校正，还能显式估计宏观组织特征对微观个体产出的跨层级[[Interaction Effect\|调节效应]]（Cross-level Interaction）。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 52–53)]]; [[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 8–10)]]
+> **分层线性模型（Hierarchical Linear Model，简称 HLM，在统计学中亦称多层线性模型 Multilevel Linear Model, MLM，或[[Random-Effects Model|随机效应]]混合模型 Mixed-Effects Model）** 是一种专门用于分析具有多层嵌套（Nested / Clustered）或分层结构数据的参数化回归建模方法。在教育研究中，学生个体（Level 1）天然嵌套于班级或学校（Level 2），同校学生因共享学校师资、校园文化、社区背景或课堂教学而存在内在相似性，违背了传统[[Ordinary Least Squares\|普通最小二乘法]]（OLS）所要求的“误差独立同分布（I.I.D.）”假设。HLM 通过将[[Dependent Variable\|因变量]]的总变异解构为个体层级残差方差与群体层级随机效应方差，不仅能够精确计算 **[[Intraclass Correlation Coefficient\|组内相关系数]]（Intraclass Correlation Coefficient, ICC）** 并对抽样[[Standard Error\|标准误]]进行彻底校正，还能显式估计宏观组织特征对微观个体产出的跨层级[[Interaction Effect\|调节效应]]（Cross-level Interaction）。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 52–53)]]; [[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 8–10)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 具有两层或三层嵌套结构的数据（如“学生-班级-学校”、“重复测量时间点-个体受试者”、“初级[[Effect Size\|效应量]]-初级研究”）。
 > - **问题类型** [[Cluster Randomized Trials\|集群随机试验]]（CRTs）干预因果效应评估、组间[[Heterogeneity\|异质性]]方差分解、跨层级交互作用机制解析（如“学校办学体制是否调节了家庭经济背景对[[Academic Achievement\|学业成绩]]的促进作用”）。
 > - **[[Unit of Analysis\|分析单位]]** 微观个体（Level 1）与宏观集群（Level 2 / Level 3）同步分层建模。
-> - **输出形式** 固定效应回归系数 $\gamma$（平均斜率与截距）、随机效应方差分量（$\tau_{00}, \tau_{11}, \sigma^2$）、组内相关系数（ICC / $\rho$）、模型似然比检验（LRT）与拟合优度指数（AIC/BIC）。
+> - **输出形式** [[Fixed-Effect Model|固定效应]]回归系数 $\gamma$（平均斜率与截距）、随机效应方差分量（$\tau_{00}, \tau_{11}, \sigma^2$）、组内相关系数（ICC / $\rho$）、模型似然比检验（LRT）与拟合优度指数（AIC/BIC）。
 
 > [!citation-card] 多层线性模型在教育试验审计中的聚类校正与制度化定型（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]; Xiao et al., 2016）
 > 在杜伦大学学者齐·肖（ZhiMin Xiao）、[[Steve Higgins\|史蒂夫·希金斯]]（Steve Higgins）与阿迪特·卡西姆（Adetayo Kasim）对 [[Education Endowment Foundation\|EEF]] 早期 17 项大规模教育 [[Randomised Controlled Trials\|RCT]] 进行微观复算时，多层线性模型（HLM）被确立为解决群聚偏误的基准模型。复算显示，教育试验中干预往往以学校或班级为单位实施，同校学生考分表现出不容忽视的组内相关性（ICC 通常在 0.10 至 0.20 之间）。若采用忽略聚类结构的传统 OLS，[[Effective Sample Size\|有效样本量]]会被严重夸大，标准误大幅低估，产生大量的假阳性显著性（[[Type I and Type II Errors\|Type I error]]）；而 HLM 通过准确建模两级随机效应，提供了诚实反映群聚不确定性的标准误与[[Confidence Interval\|置信区间]]。这一研究推动 EEF 制定了《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018），强制全英试验主效应分析必须采用多层模型或聚类校正模型。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, pp. 52–53)]]
@@ -109,7 +110,7 @@ updated: 2026-10-16
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **知识观** 承认社会与教育现实的生态学结构（Ecological Structure）。个体不是游离在真空中的原子，而是嵌入在特定组织与环境脉络中的主体；微观行为与宏观环境之间存在相互依赖与层级穿透。
-> - **统计哲学** 混合效应[[Paradigm\|范式]]（Mixed Effects Modeling）。将参数区分为全样本共享的“固定效应（Fixed Effects）”与反映群体[[Heterogeneity\|异质性]]的“随机效应（Random Effects）”，运用经验贝叶斯（Empirical Bayes）收缩估计（Shrinkage）兼顾群体均值与个体特征。
+> - **统计哲学** 混合效应[[Paradigm\|范式]]（Mixed Effects Modeling）。将参数区分为全样本共享的“[[Fixed-Effect Model|固定效应]]（Fixed Effects）”与反映群体[[Heterogeneity\|异质性]]的“[[Random-Effects Model|随机效应]]（Random Effects）”，运用经验贝叶斯（Empirical Bayes）收缩估计（Shrinkage）兼顾群体均值与个体特征。
 > - **有效性标准** 统计结论效度通过消除集群相关导致的虚假膨胀得到捍卫；模型拟合依赖方差分量显著性与限制性极大似然（REML）收敛性。
 > - **不声称回答的问题** 不能解决非[[Random Assignment\|随机分配]]下的个体或学校层级遗漏[[Variable\|变量]]混杂；若二级集群数量过少（如学校数少于 15–20 所），HLM 对层级间方差的估计可能不稳定。
 
@@ -183,7 +184,7 @@ updated: 2026-10-16
 > - $W_j$：学校层级干预状态指示变量（1 = 处理校，0 = 对照校）。
 > - $X_{ij} - \bar{X}_{\cdot\cdot}$：经总均值中心化的学生基线前测考分。
 > - $\gamma_{01}$：学校干预对学生学业产出的净平均处理效应（主效应点估计）。
-> - $\beta_1$：学生前测对后测的固定效应斜率。
+> - $\beta_1$：学生前测对后测的[[Fixed-Effect Model|固定效应]]斜率。
 > - $u_{0j}$：控制了干预变量后的学校层级剩余残差。
 >
 > **数学直觉** 该模型巧妙地将干预分配定位在它的真实实施层级（Level 2 学校），避免了在 Level 1 将学生误作为独立试验单位的聚合偏误；同时在 Level 1 引入前测，吸收了大量的学生内残差方差 $\sigma^2$，从而兼顾了方差吸收与正确的聚类[[Standard Error\|标准误]]估计。
@@ -250,7 +251,7 @@ updated: 2026-10-16
 
 > [!debates] 学术争议
 >
-> > [!axis] 参数化多层[[Fixed-Effect and Random-Effects Models\|随机效应模型]] vs 边际半参数[[Generalized Estimating Equations\|广义估计方程]]（GEE）
+> > [!axis] 参数化多层[[Random-Effects Model\|随机效应模型]] vs 边际半参数[[Generalized Estimating Equations\|广义估计方程]]（GEE）
 > > 教育统计界内部在处理集群相关数据时的模型路线之争。
 > >
 > > - **参数化多层模型派** 坚持显式指定层级概率结构，认为只有 HLM 能够诚实拆解方差来源、揭示学校背景的[[Interaction Effect\|调节效应]]，并为集群试验提供最贴近真实教育生成过程的解释力。

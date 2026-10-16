@@ -49,6 +49,7 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Hierarchical Linear Model]]"
   - "[[Intraclass Correlation Coefficient]]"
+  - "[[Random-Effects Model]]"
   - "[[Questionnaire]]"
   - "[[Analysis of Variance]]"
   - "[[Descriptive Analysis]]"
@@ -107,7 +108,7 @@ updated: 2026-10-16
 > | **残差方差** | 最大（包含全部个体基线变异） | 显著收缩（被前测吸收 50%–70%） | 结构化分解（分为层内与层间残差） |
 > | **检验功效** | 较低（需更大样本量才能检出） | 显著提高（[[Standard Error\|标准误]]明显收窄） | 高（且能准确反映集群真实功效） |
 > | **集群相关处理** | 无法处理（违背独立性假定） | 需外挂聚类稳健标准误（CRSE） | 模型内直接建模组间随机效应与 [[Intraclass Correlation Coefficient\|ICC]] |
-> | **模型假设** | 极少（仅依赖随机化无偏性） | 线性假定、无遗漏变量、同方差 | 正态随机效应分布、层级嵌套假定 |
+> | **模型假设** | 极少（仅依赖随机化无偏性） | 线性假定、无遗漏变量、同方差 | 正态[[Random-Effects Model\|随机效应]]分布、层级嵌套假定 |
 
 > [!method-stack] 方法层级
 > - **研究设计** 简单[[Randomised Controlled Trials\|随机对照试验]]（Individual RCT）、实验室双组实验、AB 测试。
@@ -241,4 +242,4 @@ updated: 2026-10-16
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 肖（ZhiMin Xiao）等用[[National Pupil Database\|NPD]]对 17 项 [[Education Endowment Foundation\|EEF]] 试验做四模型复算，发现简单均值差异模型较[[Covariate Adjustment\|协变量调整]]模型功效损失明显。
+> - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 肖（ZhiMin Xiao）等用NPD对 17 项 [[Education Endowment Foundation\|EEF]] 试验做四模型复算，发现简单均值差异模型较[[Covariate Adjustment\|协变量调整]]模型功效损失明显。

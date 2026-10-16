@@ -9,7 +9,7 @@ summary: "指元分析中小样本研究系统性报告比大样本研究更大�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 29
+method_related_count: 30
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -41,7 +41,7 @@ related_methods:
   - "[[Second-Order Meta-Regression]]"
   - "[[Blinding]]"
   - "[[Cohort Study]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Random-Effects Model]]"
   - "[[Inverse-Variance Weighting]]"
   - "[[Correlated and Hierarchical Effects Model]]"
   - "[[Confidence Interval]]"
@@ -118,7 +118,7 @@ updated: 2026-10-16
 ### 命题一　小研究效应要求元分析研究必须超越简单加权平均并引入截距校正
 
 > [!concept-lens] 复合偏倚与统计校正必要性
-> 探讨为何在存在小研究效应时，即使是[[Fixed-Effect and Random-Effects Models\|随机效应模型]]的[[Inverse-Variance Weighting\|逆方差加权]]平均值依然会高估总体真实效果。
+> 探讨为何在存在小研究效应时，即使是[[Random-Effects Model\|随机效应模型]]的[[Inverse-Variance Weighting\|逆方差加权]]平均值依然会高估总体真实效果。
 
 > [!claim] Sterne and Egger (2005); Rodgers and Pustejovsky (2021)
 > **加权均值的残余偏倚** 传统的逆方差加权虽然赋予大样本研究更高权重，但由于小样本研究数量往往占绝对多数，如果存在系统性小研究效应，加权汇总值仍会受到向右拉扯；必须通过将[[Effect Size\|效应量]]对[[Standard Error\|标准误]]进行回归，把回归方程外推至理论上无限大样本（$\operatorname{SE} \to 0$）处的截距项，方能获得真正的无偏效应基线。

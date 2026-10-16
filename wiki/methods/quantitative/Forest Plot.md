@@ -7,7 +7,7 @@ summary: "元分析中以图形方式全景展示各项初级研究效应量点�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 24
+method_related_count: 25
 method_related_level: 3
 method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -40,7 +40,7 @@ related_methods:
   - "[[Moderator Analysis]]"
   - "[[Leave-One-Out Sensitivity Analysis]]"
   - "[[Experimental Research]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Random-Effects Model]]"
   - "[[Inverse-Variance Weighting]]"
   - "[[Correlational Research]]"
 related_instruments: []
@@ -54,7 +54,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-08
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 
 # Forest Plot
@@ -145,7 +145,7 @@ updated: 2026-09-17
 ## 实证检验案例
 
 > [!case]- 实证展示案例：生成式 AI 促进[[Higher-Order Thinking Skills\|高阶思维]]的森林图
-> - **多[[Effect Size\|效应量]]全景呈现与权重刻画** 在一项针对生成式 AI 促进高阶思维的一阶[[Meta-analysis\|元分析]]中，纳入 29 项实验与准[[Experimental Research\|实验研究]]共 59 个效应量，在森林图中按行绘制各项初级研究的 Hedges' $g$ 点估计方块与 95% [[Confidence Interval\|置信区间]]横线，方块面积直观反映各研究在[[Fixed-Effect and Random-Effects Models\|随机效应模型]]中的[[Inverse-Variance Weighting\|逆方差加权]]比重。
+> - **多[[Effect Size\|效应量]]全景呈现与权重刻画** 在一项针对生成式 AI 促进高阶思维的一阶[[Meta-analysis\|元分析]]中，纳入 29 项实验与准[[Experimental Research\|实验研究]]共 59 个效应量，在森林图中按行绘制各项初级研究的 Hedges' $g$ 点估计方块与 95% [[Confidence Interval\|置信区间]]横线，方块面积直观反映各研究在[[Random-Effects Model\|随机效应模型]]中的[[Inverse-Variance Weighting\|逆方差加权]]比重。
 > - **垂直无效线与显著性检验** 森林图设置垂直无效线（$g = 0$）；目视可见绝大多数初级研究的水平置信线段完整落在无效线右侧，展现出生成式 AI 促学效应在跨学科、跨学段场景下的普遍显著性。
 > - **合并菱形与[[Heterogeneity\|异质性]]几何表征** 森林图底部绘制总体加权合并菱形，菱形中心垂直顶点精确对准 $g = 0.609$，水平跨度对应 95% 置信区间 $[0.485, 0.732]$，完全脱离零线；各研究点估计在 0 至 1.5 之间广泛分布，直观映射了 $I^2 = 77.273\%$ 的高异质性结构，为进一步展开亚组分析与[[Interaction Effect\|调节效应]]检验提供了几何理据。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, p. 10)]]
 

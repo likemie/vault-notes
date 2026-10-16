@@ -70,7 +70,8 @@ related_methods:
   - "[[Coding in Qualitative Research]]"
   - "[[Moderator Analysis]]"
   - "[[Experimental Research]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Fixed-Effect Model]]"
+  - "[[Random-Effects Model]]"
   - "[[Funnel Plot]]"
   - "[[Standard Error]]"
   - "[[Fail-Safe N]]"
@@ -89,14 +90,14 @@ sources:
   - "[[sources/Greene_2018_JEP/Greene_2018_JEP|Greene_2018_JEP]]"
 status: draft
 created: 2026-08-19
-updated: 2026-08-20
+updated: 2026-10-16
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Greene_2018_JEP"
 argument_key: "Argument_Greene_2018_JEP"
 argument_display_title: "A meta-analytic review of the relationship between epistemic cognition and academic achievement"
 argument_kind: "journal-article"
-argument_related_count: 64
+argument_related_count: 65
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -196,7 +197,7 @@ issuing_organization: ""
 > [[Meta-analysis\|元分析]]结果显示，认识论认知能正向预测学业成就，且该结果不是由于“抽屉问题”（[[Publication Bias\|发表偏倚]]）所导致。
 
 > [!chain-link] 证据到判断
-> - **双模型支持** [[Fixed-Effect and Random-Effects Models\|固定效应模型]]（$r = .158$）和随机效应模型（$r = .162$）均在 $p < .001$ 级别显著。转换后的 Cohen's $d \approx .328$。
+> - **双模型支持** [[Fixed-Effect Model\|固定效应模型]]（$r = .158$）和[[Random-Effects Model|随机效应模型]]（$r = .162$）均在 $p < .001$ 级别显著。转换后的 Cohen's $d \approx .328$。
 > - **发表偏倚排查** 多项统计检验一致表明，当前的小幅正相关具有极高的稳健性，受到未发表负面结果冲击的概率极低。
 >
 > > [!evidence-grid] 证实不存在发表偏倚的多重统计检验
@@ -463,7 +464,7 @@ issuing_organization: ""
 > 5. **[[Reliability\|信度]][[Determinism\|决定论]]** 测量的工具信度极大地预测了效应量大小（$b = .300$）。所谓“通用工具效果好”，可能只是统计幻象，掩盖了理论上的粗糙。（p.1102）
 
 > [!stat-cards]- 核心数据
-> - **r = .162** 整体相关系数（[[Fixed-Effect and Random-Effects Models\|随机效应模型]]）。
+> - **r = .162** 整体相关系数（[[Random-Effects Model\|随机效应模型]]）。
 > - **d = .328** 转换为 Cohen's d 后的中等偏下效应，具有一定实践意义。
 > - **b = .300** 量表信度对效应量的[[Meta-regression\|元回归]]系数（$p < .001$）。
 

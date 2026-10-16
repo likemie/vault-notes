@@ -35,13 +35,14 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
   - "[[Forest Plot]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Random-Effects Model]]"
   - "[[Statistical Significance]]"
   - "[[Funnel Plot]]"
   - "[[Trim and Fill Method]]"
   - "[[Fail-Safe N]]"
   - "[[Between-Study Variance]]"
   - "[[Sample Size Determination]]"
+  - "[[Fixed-Effect Model]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
@@ -51,7 +52,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Leave-One-Out Sensitivity Analysis
@@ -72,7 +73,7 @@ updated: 2026-10-15
 > [!citation-card]- 关键定义
 > 留一法敏感性分析通过系统性地逐项排除初级研究，检验每一次排除后合并效应量是否仍落在基准置信区间内；若排除任何单一研究均未改变总体效应的方向与显著性，则确立元分析证据体系的高度统计稳健性。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 7–9)]]
 >
-> *A leave-one-out sensitivity analysis was conducted to evaluate the robustness of the pooled effect size. By iteratively removing one primary study at a time and recalculating the summary effect under the [[Fixed-Effect and Random-Effects Models\|Random-Effects Model]], this method ensures that the overarching conclusions are not driven by any single outlier or disproportionately weighted study.*
+> *A leave-one-out sensitivity analysis was conducted to evaluate the robustness of the pooled effect size. By iteratively removing one primary study at a time and recalculating the summary effect under the [[Random-Effects Model]], this method ensures that the overarching conclusions are not driven by any single outlier or disproportionately weighted study.*
 
 ---
 
@@ -109,7 +110,7 @@ updated: 2026-10-15
 > [!formula-step] 公式步骤　留一法加权合并[[Effect Size\|效应量]]重估公式
 > $$\hat{\theta}_{(-i)} = \frac{\sum_{j \ne i} w_j^* y_j}{\sum_{j \ne i} w_j^*}, \quad \text{Var}\left(\hat{\theta}_{(-i)}\right) = \frac{1}{\sum_{j \ne i} w_j^*}$$
 >
-> **这个公式在做什么** 接收剔除第 $i$ 项研究后的 $k-1$ 项研究效应量 $y_j$ 及其重新计算的随机效应权重 $w_j^*$，输出排除第 $i$ 项研究后的加权平均效应量 $\hat{\theta}_{(-i)}$ 及其抽样方差。
+> **这个公式在做什么** 接收剔除第 $i$ 项研究后的 $k-1$ 项研究效应量 $y_j$ 及其重新计算的[[Random-Effects Model|随机效应]]权重 $w_j^*$，输出排除第 $i$ 项研究后的加权平均效应量 $\hat{\theta}_{(-i)}$ 及其抽样方差。
 >
 > **符号说明**
 > - $\hat{\theta}_{(-i)}$：排除第 $i$ 项初级研究后的合并效应量点估计值；
@@ -182,7 +183,7 @@ updated: 2026-10-15
 ## 典型案例研究
 
 > [!case] 实证案例　[[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] · AI [[AI Agent in Education\|智能体]][[Meta-analysis\|元分析]]留一法全集压力测试
-> 在关于 AI 智能体对 K-12 学生认知表现影响的元分析中（包含 34 项研究、73 个[[Effect Size\|效应量]]与 3,042 名学生），研究者为排除极端效应量主导结论的风险，在 DerSimonian-Laird [[Fixed-Effect and Random-Effects Models\|随机效应模型]]下执行了完整的留一法敏感性分析：
+> 在关于 AI 智能体对 K-12 学生认知表现影响的元分析中（包含 34 项研究、73 个[[Effect Size\|效应量]]与 3,042 名学生），研究者为排除极端效应量主导结论的风险，在 DerSimonian-Laird [[Random-Effects Model\|随机效应模型]]下执行了完整的留一法敏感性分析：
 > - **基准模型参数** 全集加权合并效应量为 $g = 0.404, 95\%\text{ CI } [0.242, 0.567], p < .001$；
 > - **迭代剔除表现** 依次排除 73 个独立效应量中的任一单项研究后，重新计算的加权汇总 $g$ 均严格稳定在 **$[0.242, 0.567]$** 的 95% [[Confidence Interval\|置信区间]]内；
 > - **极端研究扰动测试** 即使剔除效应量高达 $g = 2.12$ 的极端正向研究（Elmaadaway et al., 2025）或效应量为负向的受挫案例（Tong et al., 2025, $g = -0.73$），总体效应量仍保持中等程度的正向显著促进水平；
@@ -196,7 +197,7 @@ updated: 2026-10-15
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Meta-analysis]] | 上位方法 | 留一法作为元分析全流程质控中的关键敏感性压力测试技术。 |
-> | [[Fixed-Effect and Random-Effects Models]] | 基础模型 | 留一法在每次迭代中调用的核心加权拟合算法。 |
+> | [[Fixed-Effect Model]] 或 [[Random-Effects Model]] | 基础模型 | 留一法在每次迭代中调用的核心加权拟合算法。 |
 > | [[Fail-Safe N]] | 互补方法 | 失安全数评估抵御抽屉未发表文献的极限容量，留一法检验已纳入文献内部的单点扰动。 |
 > | [[Trim and Fill Method]] | 互补方法 | 剪补法针对宏观[[Funnel Plot\|漏斗图]]不对称进行镜像修剪填补，留一法针对微观异常值进行逐项诊断。 |
 > | [[Between-Study Variance]] | 核心统计量 | 留一法每次迭代均重新解构研究间方差 $\tau_{(-i)}^2$，用于识别异质性异源。 |
@@ -207,4 +208,4 @@ updated: 2026-10-15
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] 在关于 AI [[AI Agent in Education\|智能体]]促进 K-12 认知表现的[[Meta-analysis\|元分析]]中，对 73 个[[Effect Size\|效应量]]执行随机效应留一法敏感性分析，证实汇总效应量严格稳定在 [0.242, 0.567] [[Confidence Interval\|置信区间]]内，确立了证据体系的高度抗扰动稳健性。
+> - [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] 在关于 AI [[AI Agent in Education\|智能体]]促进 K-12 认知表现的[[Meta-analysis\|元分析]]中，对 73 个[[Effect Size\|效应量]]执行[[Random-Effects Model|随机效应]]留一法敏感性分析，证实汇总效应量严格稳定在 [0.242, 0.567] [[Confidence Interval\|置信区间]]内，确立了证据体系的高度抗扰动稳健性。

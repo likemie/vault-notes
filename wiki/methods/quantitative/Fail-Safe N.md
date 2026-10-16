@@ -40,6 +40,7 @@ related_methods:
   - "[[Leave-One-Out Sensitivity Analysis]]"
   - "[[Confidence Interval]]"
   - "[[Sample Size Determination]]"
+  - "[[Random-Effects Model]]"
   - "[[Multilevel Egger's Test]]"
   - "[[Correlational Research]]"
 related_instruments:
@@ -201,7 +202,7 @@ updated: 2026-10-15
 > [!case] 实证案例一　[[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] · AI [[AI Agent in Education\|智能体]]促学[[Meta-analysis\|元分析]]双重失安全数检验
 > 在关于 AI 智能体促进 K-12 认知表现的元分析中（34 项研究，73 个[[Effect Size\|效应量]]），研究者同时执行了经典与 Orwin 失安全数压力测试：
 > - **经典失安全数** 观测研究合并 $Z = 4.870 (p < .001)$，计算得到 $N_{\text{fs}} = 378.00$，远超 Rosenthal 经验安全门槛（$5k + 10 = 5 \times 34 + 10 = 180$）；
-> - **Orwin 失安全数** 在随机效应合并效应量 $g = 0.404$ 基础上，设定微小琐碎阈值 $g_c = 0.01$ 且假设缺失研究平均效应 $g_{\text{fs}} = 0.00$，计算得出需要 **$2{,}876.00$ 篇**未发表的零效应研究才能将结果稀释至无意义水平；
+> - **Orwin 失安全数** 在[[Random-Effects Model|随机效应]]合并效应量 $g = 0.404$ 基础上，设定微小琐碎阈值 $g_c = 0.01$ 且假设缺失研究平均效应 $g_{\text{fs}} = 0.00$，计算得出需要 **$2{,}876.00$ 篇**未发表的零效应研究才能将结果稀释至无意义水平；
 > - **结论** 双重失安全数确凿证实该元分析证据体系受[[Publication Bias\|发表偏倚]]逆转的概率极低。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 8, 12)]]
 
 > [!case] 实证案例二　[[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] · [[Cooperative Learning\|合作学习]][[Meta-meta-analysis\|二阶元分析]]极端稳健性检验

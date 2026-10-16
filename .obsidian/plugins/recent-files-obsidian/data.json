@@ -5,6 +5,10 @@
       "path": "wiki/arguments/journal-articles/Zeitschrift für Erziehungswissenschaft/Argument_Wecker_2016_ZfE.md"
     },
     {
+      "basename": "Standard Error",
+      "path": "wiki/methods/quantitative/Standard Error.md"
+    },
+    {
       "basename": "Meta-meta-analysis",
       "path": "wiki/methods/quantitative/Meta-meta-analysis.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1961 Policy Conference on Economic Growth and Investment in Education",
       "path": "wiki/facts/global/1961 Policy Conference on Economic Growth and Investment in Education.md"
-    },
-    {
-      "basename": "Critique of PISA",
-      "path": "wiki/concepts/comparative-education/Critique of PISA.md"
     }
   ],
   "omittedPaths": [],

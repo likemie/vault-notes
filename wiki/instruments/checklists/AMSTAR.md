@@ -8,7 +8,7 @@ aliases:
 summary: "用于评估系统评价与元分析方法学质量的批判性评价规程，包含12项标准与高质量阈值判定"
 type: instrument
 instrument_type: checklist
-instrument_related_count: 25
+instrument_related_count: 26
 instrument_related_level: 6
 instrument_related_stars: "⭐⭐⭐⭐⭐⭐"
 instrument_related_color: "#fecdd3"
@@ -53,7 +53,7 @@ related_methods:
   - "[[Confidence Interval]]"
   - "[[Standard Error]]"
   - "[[Funnel Plot]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Random-Effects Model]]"
   - "[[Meta-meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Likert Scale]]"
@@ -66,7 +66,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-08-23
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # AMSTAR
@@ -121,7 +121,7 @@ updated: 2026-10-15
 > | 6 | 是否提供纳入研究的特征？是否以汇总表格或[[Forest Plot\|森林图]]提供各项研究的[[Variable\|变量]]、干预与结果等相关信息？ | 是 / 否 | 满足得 1 分，否则 0 分 | — |
 > | 7 | 是否评估并记录了纳入研究的科学质量？是否提供对纳入研究方法学质量评估的详细说明？ | 是 / 否 | 满足得 1 分，否则 0 分 | — |
 > | 8 | 纳入研究的科学质量是否在得出结论时被恰当使用？在报告结论与建议时是否将质量得分作为调节变量？ | 是 / 否 | 满足得 1 分，否则 0 分 | — |
-> | 9 | 用于合并研究结果的方法是否恰当？是否进行了同质性评估并在必要时使用多水平或[[Fixed-Effect and Random-Effects Models\|随机效应模型]]？ | 是 / 否 | 满足得 1 分，否则 0 分 | — |
+> | 9 | 用于合并研究结果的方法是否恰当？是否进行了同质性评估并在必要时使用多水平或[[Random-Effects Model\|随机效应模型]]？ | 是 / 否 | 满足得 1 分，否则 0 分 | — |
 > | 10 | 是否报告了[[Confidence Interval\|置信区间]]、可信区间或[[Standard Error\|标准误]]？[[Effect Size\|效应量]]是否至少报告了其一？ | 是 / 否 | 满足得 1 分，否则 0 分 | — |
 > | 11 | 是否评估了[[Publication Bias\|发表偏倚]]的可能性？是否使用图形辅助（如漏斗图）或统计检验（如艾格回归、失安全系数）？ | 是 / 否 | 满足得 1 分，否则 0 分 | — |
 > | 12 | 是否包含潜在的[[Conflict of Interest in Research\|利益冲突]]说明？资金资助来源或无利益冲突声明是否明确列出？ | 是 / 否 | 满足得 1 分，否则 0 分 | — |

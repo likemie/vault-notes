@@ -35,6 +35,7 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Trim and Fill Method]]"
   - "[[Fail-Safe N]]"
+  - "[[Fixed-Effect Model]]"
   - "[[Multilevel Egger's Test]]"
   - "[[Correlational Research]]"
 related_instruments: []
@@ -91,7 +92,7 @@ updated: 2026-10-15
 > [!formula-step] 公式步骤　Begg 秩相关检验标准化与计算
 > 1. **计算标准化[[Effect Size\|效应量]]（Standardized Effect）**
 >    $$y_i^* = \frac{y_i - \bar{y}_{\text{fixed}}}{\sqrt{v_i - \frac{1}{\sum w_i}}}$$
->    其中 $\bar{y}_{\text{fixed}}$ 为固定效应加权平均，$v_i$ 为研究 $i$ 的抽样方差。
+>    其中 $\bar{y}_{\text{fixed}}$ 为[[Fixed-Effect Model|固定效应]]加权平均，$v_i$ 为研究 $i$ 的抽样方差。
 > 2. **计算 Kendall's tau 秩相关**
 >    $$\tau = \frac{P - Q}{\frac{1}{2} k (k - 1)}$$
 >    其中 $P$ 为 $y_i^*$ 与 $v_i$ 秩次同序对数，$Q$ 为异序对数，$k$ 为纳入研究数量。

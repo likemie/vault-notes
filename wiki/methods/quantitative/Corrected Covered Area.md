@@ -29,6 +29,7 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
   - "[[Standard Error]]"
+  - "[[Random-Effects Model]]"
 related_instruments:
   - "[[AMSTAR]]"
   - "[[GROOVE]]"
@@ -95,6 +96,6 @@ updated: 2026-10-15
 ## 方法论价值与防范偏差功能
 
 > [!warrant]- 为什么[[Meta-meta-analysis\|二阶元分析]]必须报告并控制 CCA
-> 1. **破除抽样独立性假定破产危机** 经典二阶固定/随机效应合并模型的数学充要条件是各一阶单元在初级样本上互不重叠（[[Argument_Wecker_2016_ZfE\|Wecker et al., 2016]]）。无视重叠会导致相同的经典[[Study Population and Sample\|研究样本]]被赋予不成比例的双重甚至三重方差权重。
+> 1. **破除抽样独立性假定破产危机** 经典二阶固定/[[Random-Effects Model|随机效应]]合并模型的数学充要条件是各一阶单元在初级样本上互不重叠（[[Argument_Wecker_2016_ZfE\|Wecker et al., 2016]]）。无视重叠会导致相同的经典[[Study Population and Sample\|研究样本]]被赋予不成比例的双重甚至三重方差权重。
 > 2. **克服主观选择偏差** 过去[[Umbrella Review\|伞状综述]]常依赖研究者主观经验判断综述是否相似；CCA 提供了标准化、可复现的数学标尺。
 > 3. **与可视化工具协同集成** 配合基于 Excel 与 R 语言的 [[GROOVE]]（Graphical Representation of Overlap for OVErviews）工具，CCA 不仅能计算全数据集的总体覆盖度，更能生成两两配对的 CCA 交叉热力图，精准定位重叠发生的文献节点（Bracchiglione et al., 2022; [[Argument_Unal_2026_JECR\|Ünal et al., 2026]]）。

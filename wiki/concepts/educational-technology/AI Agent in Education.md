@@ -43,6 +43,7 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Dialogue in Education]]"
 related_methods:
+  - "[[Random-Effects Model]]"
   - "[[Meta-analysis]]"
   - "[[Statistical Significance]]"
   - "[[Effect Size]]"
@@ -155,7 +156,7 @@ updated: 2026-10-16
 > 考察教育智能体如何通过即时反馈与强化练习对程序性解题技能产生高效促进，以及为什么对单纯陈述性知识的增益相对适度。
 
 > [!claim] [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]]
-> **[[Procedural Skill\|程序性技能]]练习的优先赋能** 随机效应[[Meta-analysis\|元分析]]表明，AI 智能体对 K-12 学生的整体认知表现具有统计学显著的中等促进效应（$g = 0.404, p < .001$）。在细分认知维度上，AI 智能体对技能类认知结果（Skills-based Outcomes）表现出稳定显著的促进效应（$g = 0.391, p < .001$），涵盖数学问题解决、口语流利度与计算思维等操作性任务；而对知识类认知结果（Knowledge-based Outcomes）的促进效应相对适度（$g = 0.344, p = .026$）。这是因为 K-12 阶段学生认知尚在发展中，AI 智能体通过适应性重述、即时纠正反馈与分步任务引导，能极好地支持程序性策略练习与自动化技能内化；而在纯事实记忆和概念陈述层面，教科书与教师讲授依然是主导来源，技术干预的超额增益较为温和。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 6–7, 10)]]
+> **[[Procedural Skill\|程序性技能]]练习的优先赋能** [[Random-Effects Model|随机效应]][[Meta-analysis\|元分析]]表明，AI 智能体对 K-12 学生的整体认知表现具有统计学显著的中等促进效应（$g = 0.404, p < .001$）。在细分认知维度上，AI 智能体对技能类认知结果（Skills-based Outcomes）表现出稳定显著的促进效应（$g = 0.391, p < .001$），涵盖数学问题解决、口语流利度与计算思维等操作性任务；而对知识类认知结果（Knowledge-based Outcomes）的促进效应相对适度（$g = 0.344, p = .026$）。这是因为 K-12 阶段学生认知尚在发展中，AI 智能体通过适应性重述、即时纠正反馈与分步任务引导，能极好地支持程序性策略练习与自动化技能内化；而在纯事实记忆和概念陈述层面，教科书与教师讲授依然是主导来源，技术干预的超额增益较为温和。[[Argument_Liu_2026_CHBR\|(Liu et al., 2026, pp. 6–7, 10)]]
 
 ---
 
@@ -264,4 +265,4 @@ updated: 2026-10-16
 ## 应用案例
 
 > [!evidence-grid-a] 应用案例索引
-> - [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] 运用随机效应[[Meta-analysis\|元分析]]综合 34 项实验与准[[Experimental Research\|实验研究]]（73 个[[Effect Size\|效应量]]，$N = 3{,}042$），系统确立了 AI 智能体在 K-12 阶段对[[Procedural Skill\|技能类认知结果]]（$g = 0.391$）与知识类认知结果（$g = 0.344$）的显著促进效应，并揭示出高小学段（$g = 0.877$）与语言读写学科（$g = 0.830$）的突出干预敏感性。
+> - [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] 运用[[Random-Effects Model|随机效应]][[Meta-analysis\|元分析]]综合 34 项实验与准[[Experimental Research\|实验研究]]（73 个[[Effect Size\|效应量]]，$N = 3{,}042$），系统确立了 AI 智能体在 K-12 阶段对[[Procedural Skill\|技能类认知结果]]（$g = 0.391$）与知识类认知结果（$g = 0.344$）的显著促进效应，并揭示出高小学段（$g = 0.877$）与语言读写学科（$g = 0.830$）的突出干预敏感性。

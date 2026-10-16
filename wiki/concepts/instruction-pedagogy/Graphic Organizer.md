@@ -46,6 +46,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Prediction Interval]]"
   - "[[Correlational Research]]"
+  - "[[Random-Effects Model]]"
   - "[[Experimental Research]]"
   - "[[Effect Size]]"
 related_instruments: []
@@ -221,4 +222,4 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 运用随机效应[[Meta-analysis\|元分析]]综合 66 项实验与准[[Experimental Research\|实验研究]]（72 个[[Effect Size\|效应量]]，$N = 4{,}824$），系统检验图形组织器对[[Higher-Order Thinking Skills\|高阶思维]]的总体促进效应（$g = 0.778$）并揭示导图类型、思维层级、思维类型与学段调节机制。
+> - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 运用[[Random-Effects Model|随机效应]][[Meta-analysis\|元分析]]综合 66 项实验与准[[Experimental Research\|实验研究]]（72 个[[Effect Size\|效应量]]，$N = 4{,}824$），系统检验图形组织器对[[Higher-Order Thinking Skills\|高阶思维]]的总体促进效应（$g = 0.778$）并揭示导图类型、思维层级、思维类型与学段调节机制。

@@ -17,7 +17,7 @@ related_methods: []
     <a href="/bases/facts"><span>事实</span><strong>801</strong></a>
     <a href="/bases/persons"><span>人物</span><strong>521</strong></a>
     <a href="/bases/theories"><span>理论</span><strong>226</strong></a>
-    <a href="/bases/methods"><span>方法</span><strong>326</strong></a>
+    <a href="/bases/methods"><span>方法</span><strong>327</strong></a>
     <a href="/bases/instruments"><span>测量工具</span><strong>80</strong></a>
   </div>
 

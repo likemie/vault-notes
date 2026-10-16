@@ -50,6 +50,7 @@ related_theories:
   - "[[Creative Problem Solving]]"
 related_methods:
   - "[[Effect Size]]"
+  - "[[Random-Effects Model]]"
   - "[[Meta-analysis]]"
   - "[[Prediction Interval]]"
   - "[[Systematic Review]]"
@@ -163,7 +164,7 @@ updated: 2026-10-16
 > 空间可视化工具对聚合思维具有稳健的促进效应，但因其受严格形式逻辑规则的内在约束，其促进幅度显著低于无拘束的发散思维。
 
 > [!claim] [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei, Ding & Chiu (2026)]]
-> **聚合思维的干预效应边界** 在大样本随机效应[[Meta-analysis\|元分析]]中，[[Graphic Organizer\|图形组织器]]对聚合思维具有高度稳健的显著促进效应（$g = 0.680$），但显著低于对发散思维的促进幅度（$g = 1.167, Q_b = 7.07, p < .01$）。这是因为聚合思维测验通常采用标准答案明确的封闭式多选题或严格演绎任务，空间图示虽能帮助梳理推论步骤，但最终答案仍受制于形式逻辑与确定性规则的严格束缚；相比之下，空间分支结构能最大化激活语义联想网络，对自由发散思维的释放效应更为剧烈。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 9–11)]]
+> **聚合思维的干预效应边界** 在大样本[[Random-Effects Model|随机效应]][[Meta-analysis\|元分析]]中，[[Graphic Organizer\|图形组织器]]对聚合思维具有高度稳健的显著促进效应（$g = 0.680$），但显著低于对发散思维的促进幅度（$g = 1.167, Q_b = 7.07, p < .01$）。这是因为聚合思维测验通常采用标准答案明确的封闭式多选题或严格演绎任务，空间图示虽能帮助梳理推论步骤，但最终答案仍受制于形式逻辑与确定性规则的严格束缚；相比之下，空间分支结构能最大化激活语义联想网络，对自由发散思维的释放效应更为剧烈。[[Argument_Lei_Ding_Chiu_2026_ERR\|(Lei et al., 2026, pp. 9–11)]]
 
 ---
 
@@ -259,6 +260,6 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] — 运用随机效应[[Meta-analysis\|元分析]]系统检验[[Graphic Organizer\|图形组织器]]对聚合思维的促进效应（$g = 0.680$），并通过亚组检验揭示了[[Divergent Thinking\|发散思维]]与聚合思维在空间[[Scaffolding\|脚手架]]干预下的敏感度差异。
+> - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] — 运用[[Random-Effects Model|随机效应]][[Meta-analysis\|元分析]]系统检验[[Graphic Organizer\|图形组织器]]对聚合思维的促进效应（$g = 0.680$），并通过亚组检验揭示了[[Divergent Thinking\|发散思维]]与聚合思维在空间[[Scaffolding\|脚手架]]干预下的敏感度差异。
 > - [[Argument_Runco_2026_CRJ\|Runco et al. (2026)]] — 在[[Meta-meta-analysis\|二阶元分析]]中探讨[[Creativity\|创造性]]认知过程的多维构件，指出完整的创造力依赖于构想发散与逻辑收敛的有机结合。
 > - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — [[Systematic Review\|系统综述]] 67 项高等教育实证研究，解构生成式 AI 对聚合性批判思维的赋能机制（[[Metacognition\|元认知监控]] $n=27$、论证深化 $n=22$）与[[Cognitive Offloading\|认知卸载]]风险（$n=21$）。

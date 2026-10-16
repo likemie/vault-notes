@@ -10,7 +10,7 @@ summary: "通过随机分配和变量控制建立因果关系的实验设计，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 142
+method_related_count: 143
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -65,8 +65,11 @@ related_concepts:
   - "[[Implementation Fidelity]]"
   - "[[Research Ethics]]"
   - "[[Stable Unit Treatment Value Assumption]]"
+  - "[[Effective Teaching]]"
   - "[[Counterfactual]]"
   - "[[Chain of Evidence]]"
+  - "[[PICO Framework]]"
+  - "[[Access and Acceptance in Research]]"
   - "[[Fundamental Problem of Causal Inference]]"
   - "[[Critique of Randomized Controlled Trials]]"
   - "[[Ontology]]"
@@ -76,8 +79,8 @@ related_concepts:
   - "[[Validity as Inferences]]"
   - "[[Evidence Standards]]"
   - "[[Recommendations for Practice]]"
-  - "[[PICO Framework]]"
   - "[[Discourse]]"
+  - "[[Visible Learning]]"
 related_theories:
   - "[[Critical Realism]]"
   - "[[Complexity Theory]]"
@@ -88,7 +91,8 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Statistical Significance]]"
   - "[[Meta-analysis]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Fixed-Effect Model]]"
+  - "[[Random-Effects Model]]"
   - "[[Intervention Research]]"
   - "[[Regression Discontinuity Design]]"
   - "[[Confidence Interval]]"
@@ -163,8 +167,8 @@ related_arguments:
   - "[[Argument_Peterson_2016_IJRME]]"
   - "[[Argument_Berk_2011_ER]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
-  - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
+  - "[[Argument_DeJong_2023_ERR]]"
 related_instruments:
   - "[[Study Design and Implementation Assessment Device]]"
 confidence: high
@@ -193,7 +197,7 @@ updated: 2026-10-16
 >
 >   - 1904 — [[Karl Pearson|卡尔·皮尔逊]]（Karl Pearson）在伤寒疫苗分析中提出隔位接种试验方案，预见了 RCT 的随机化发展方向（[[Argument_Higgins_2016_ROE|Higgins, 2016, p. 33]]）。
 >   - 1940s–1960s — 英国医学界通过阿司匹林预防心肌梗死等试验确立大规模受控试验标准，推动了[[Meta-analysis|元分析]]技术的兴起。
->   - 1980s — Richard Peto 推广[[Fixed-Effect and Random-Effects Models|固定效应模型]]；Larry Hedges（1983）倡导随机效应模型与小样本偏差校正，奠定元分析方法学基石（[[Argument_Higgins_2016_ROE|Higgins, 2016, pp. 38–39]]）。
+>   - 1980s — Richard Peto 推广[[Fixed-Effect Model|固定效应模型]]；Larry Hedges（1983）倡导[[Random-Effects Model|随机效应模型]]与小样本偏差校正，奠定元分析方法学基石（[[Argument_Higgins_2016_ROE|Higgins, 2016, pp. 38–39]]）。
 >
 > - **1983–2002 — 教育领域的兴起与黄金期** 教育实证研究全面引入受控实验设计，大规模实地政策试验与[[Educational Evidence Clearinghouses|证据清算中心]]的成立将 RCT 推至证据金字塔顶端。
 >
@@ -291,7 +295,7 @@ updated: 2026-10-16
 > [!software-impl] 软件实现
 > - **数据处理** 协变量基线平衡性检验（`cobalt`）、样本流失与无应答分析、缺失值逆概率加权与多重插补。
 > - **推荐软件** R、Stata、Python。
-> - **核心包或命令** R 语言的 `randomizr`（分层与集群随机分配）、`estimatr`（稳健标准误回归与 ITT 估计）、`lme4`（集群多水平混合效应模型）、`DeclareDesign`（实验功效与设计仿真）；Stata 命令 `ritest`（随机化推断与置换检验）、`mixed`（多水平随机效应回归）。
+> - **核心包或命令** R 语言的 `randomizr`（分层与集群随机分配）、`estimatr`（稳健标准误回归与 ITT 估计）、`lme4`（集群多水平混合效应模型）、`DeclareDesign`（实验功效与设计仿真）；Stata 命令 `ritest`（随机化推断与置换检验）、`mixed`（多水平[[Random-Effects Model|随机效应]]回归）。
 > - **实现流程** 1. 制定并[[Preregistration\|预注册]][[Statistical Analysis Plan\|统计分析计划]]（SAP）；2. 设定随机种子运行分层/集群随机化；3. 录入基线与后测数据并检验样本损耗；4. 构建[[Covariate Adjustment\|协变量调整]]的意向治疗模型（ITT）并输出聚类稳健标准误；5. 估计 Hedges' g 效应量与 95% [[Confidence Interval\|置信区间]]。
 > - **报告标准** 遵循 CONSORT 声明与 [[What Works Clearinghouse\|WWC]] 审查标准，报告受试者流程图、基线等价性、总体与差异性损耗率、未调整与调整后均值、效应量、聚类稳健置信区间与精确 p 值。
 
@@ -341,10 +345,10 @@ updated: 2026-10-16
 
 > [!method-limits] 方法局限与治理风险
 > - **偏误来源** 差异性[[Attrition\|样本流失]]偏差（Attrition Bias）、主体间干扰与溢出（[[Stable Unit Treatment Value Assumption\|SUTVA]] 违背）、对照组代偿性努力（亨利效应）与[[Business as Usual\|常态教学]][[Heterogeneity\|异质性]]基线、评估工具偏袒干预内容的测量偏倚（Ginsburg & Smith 12 威胁）。
-> - **对照组性质异质性（Active vs. Passive Control Baseline）** 对照条件的性质直接决定 RCT 效应量的理论含义与相对量级。将干预与常规教学对照（Business as Usual，无额外支持）相比通常能观察到显著正向效应；而若与另一种经过精细设计的优质替代干预（Active Control）面对面对比，两组效应差异往往极度微弱。宏观证据综合若混淆这两类性质相异的对照基线，将系统性拉低有效教学策略的合并数值（[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025, pp. 14–15]]）。
+> - **对照组性质异质性（Active vs. Passive Control Baseline）** 对照条件的性质直接决定 RCT [[Effect Size|效应量]]的理论含义与相对量级。将干预与常规教学对照（Business as Usual，无额外支持）相比通常能观察到显著正向效应；而若与另一种经过精细设计的优质替代干预（Active Control）面对面对比，两组效应差异往往极度微弱。宏观证据综合若混淆这两类性质相异的对照基线，将系统性拉低[[Effective Teaching|有效教学]]策略的合并数值（[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025, pp. 14–15]]）。
 > - **适用边界** [[External Validity\|外部效度]]与情境依赖性受限（[[Efficacy Trial\|效力试验]]向[[Effectiveness Trial\|实效试验]]的[[Fade-out Effect\|效应衰减]]；跨学段与跨地区迁移阻滞）；[[Causality\|因果推断]]基本问题限制个体级[[Counterfactual\|反事实]]观察；科学发现周期与政策时效刚性的结构性脱节（建立 RCT 稳固证据共识需历时数年至十年，在教育信息化等快速迭代领域极易诱发“报告公布时技术已淘汰”；政策决策对证据及时性与相关性的客观诉求压倒对单一方法学的执念；[[Argument_Serpell_2020_EP\|Serpell, 2020, p. 42]]）。
-> - **误用风险** “黄金标准”教条化与法定单项合格门槛（单项合格即可获全美采购资质，掩盖全[[Chain of Evidence\|证据链]]中仅 49%–58% 获支持的合规假象）；黑箱[[Effect Size\|效应量]]掩盖微观因果机制与系统性副作用；微观技术[[Variable\|变量]]隔离[[Screening Off\|屏蔽]]宏观政治经济结构；规制型政策进路下的高利害问责异化（如 NCLB 刚性绑定基于科学的实证指标，诱发教学窄化与集体篡改机读卡丑闻；[[Argument_Serpell_2020_EP\|Serpell, 2020, p. 41]]）。二阶元科学审计证实，仅 30% 的宏观影响因素纯粹基于组间实验，过度合并相关与观察性研究彻底削弱了试验的因果诊断力（[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025]]）。
-> - **补救方式** 预先注册[[Statistical Analysis Plan\|统计分析计划]]（SAP）；严格基于 [[PICO Framework|PICO 框架]]审查研究准入与对照组定义；采用[[Mechanism Experiments\|机制实验]]（鼓励设计）拆解因果链路；深度整合[[Implementation and Process Evaluation\|实施与过程评估]]（IPE）；建立不良反应与副作用报告机制；推行多地点独立外部复制与全证据库综合。
+> - **误用风险** “黄金标准”教条化与法定单项合格门槛（单项合格即可获全美采购资质，掩盖全[[Chain of Evidence\|证据链]]中仅 49%–58% 获支持的合规假象）；黑箱[[Effect Size\|效应量]]掩盖微观因果机制与系统性副作用；微观技术[[Variable\|变量]]隔离[[Screening Off\|屏蔽]]宏观政治经济结构；规制型政策进路下的高利害问责异化（如 NCLB 刚性绑定基于科学的实证指标，诱发教学窄化与集体篡改机读卡丑闻；[[Argument_Serpell_2020_EP\|Serpell, 2020, p. 41]]）。二阶[[Metascience|元科学]]审计证实，仅 30% 的宏观影响因素纯粹基于组间实验，过度合并相关与观察性研究彻底削弱了试验的因果诊断力（[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025]]）。
+> - **补救方式** 预先注册[[Statistical Analysis Plan\|统计分析计划]]（SAP）；严格基于 [[PICO Framework|PICO]] 框架审查[[Access and Acceptance in Research|研究准入]]与对照组定义；采用[[Mechanism Experiments\|机制实验]]（鼓励设计）拆解因果链路；深度整合[[Implementation and Process Evaluation\|实施与过程评估]]（IPE）；建立不良反应与副作用报告机制；推行多地点独立外部复制与全证据库综合。
 
 > [!assumptions] [[Random Assignment\|随机分配]]逻辑与 ceteris paribus 假定
 > 随机分配的核心逻辑是采纳**其他条件相同（ceteris paribus）** 条件——假设参与者构成中的大量未控制[[Variable\|变量]]在组间均匀分布，因此无需单独控制它们。但这是一个大胆且可能危险的假设：[[Complexity Theory\|复杂性理论]]和混沌理论表明，微小的变化和差异就可以带来结果的重大差异（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al., 2011, p. 78]]）。
@@ -391,7 +395,7 @@ updated: 2026-10-16
 > | [[Non-intervention Research]] | 对照方法 | 不操纵[[Independent Variable\|自变量]]的[[Observation Method\|观察研究]]，以此对照批评无因果干预基础的过度强[[Recommendations for Practice\|实践建议]]。 |
 > | [[Correlational Research]] | 前置方法 | 能够在大规模自然情境中探测变量关联并生成干预假设，但缺乏随机分配与因果隔离效力。 |
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] | 论证 | 辩护真实课堂复合干预 RCT 的[[Ecological Validity\|生态效度]]，指出[[Meta-analysis\|元分析]]中 RCT 与准实验[[Effect Size\|效应量]]无显著差异。 |
-> | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 论证 | 审计评估 | 对宏观二阶库开展预注册审计，揭示组间实验与相关研究违规混用（全库仅 30% 纯实验）及对照基线混淆的效度危机。 |
+> | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 论证 | 审计评估 | 对宏观二阶库开展[[Preregistration\|预注册]]审计，揭示组间实验与相关研究违规混用（全库仅 30% 纯实验）及对照基线混淆的效度危机。 |
 
 ---
 
@@ -412,4 +416,4 @@ updated: 2026-10-16
 > - [[Argument_DeJong_2023_ERR|De Jong et al. (2023)]] — 系统反驳认知负荷学派对探究教学缺乏纯粹实验室 RCT 的指责，援引 Lazonder and Harmsen (2016) 元分析实证检验确立 RCT 与准实验在效应量量级上无显著差异，基于 Schuster et al. (2018) 课堂严格 RCT 证实探究教学的深层概念优势，并为复杂教育情境中涵盖多元组件的“项目式研究”（Program-based RCTs）之[[Ecological Validity|生态效度]]与常态对照组（[[Business as Usual|BAU]]）设计提供方法学辩护（[[Argument_DeJong_2023_ERR|De Jong et al., 2023, pp. 4–6]]）。
 > - [[Argument_Eisenhart_Towne_2003_ER|Eisenhart and Towne (2003)]] — 系统考证美国联邦成文法（NCLB 与 ESRA 2002）及 [[What Works Clearinghouse|WWC]] 创设初期的 RCT 制度化历史，揭示行政规程对随机实验的强烈惯性偏好（如 [[Institute of Education Sciences|IES]] 首期因果资助 100% 为随机实验），并深入论述学术共同体如何依托 NRC 六大原则与国会质证推动联邦立法打破单一 RCT 垄断，确立问题导向的方法适配观。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统评述[[Metascience|元科学]]（Metascience）中运用 RCT 与部分随机化抽签资助试验（Lottery-based Allocation）评估同行评议一致性与防范风险规避的实证探索，推动将因果实验设计应用于国家科学资助机制本身的制度优化。
-> - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 针对《可见的学习》证据体系开展独立元科学审计，实证揭示宏观数据库违规混合独立组间实验、组内前后测与相关性观察研究（仅 30% 纯粹基于组间实验，27% 混入相关研究），剖析了活跃对照与常规教学对照混淆对干预效应量的稀释效应。
+> - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 针对《[[Visible Learning|可见的学习]]》证据体系开展独立元科学审计，实证揭示宏观数据库违规混合独立组间实验、组内前[[Pre-test and Post-test|后测]]与相关性[[Observation Method|观察研究]]（仅 30% 纯粹基于组间实验，27% 混入[[Correlational Research|相关研究]]），剖析了活跃对照与常规教学对照混淆对干预效应量的稀释效应。

@@ -60,6 +60,7 @@ related_methods:
   - "[[Correlated and Hierarchical Effects Model]]"
   - "[[Robust Variance Estimation]]"
   - "[[Between-Study Variance]]"
+  - "[[Random-Effects Model]]"
   - "[[Ordinary Least Squares]]"
   - "[[Questionnaire]]"
   - "[[Internal Consistency]]"
@@ -122,7 +123,7 @@ updated: 2026-10-16
 > 1. 明确理论假设：预设哪些连续型或分类型研究特征（如量表[[Reliability\|信度]]、人均 GDP、发表年份、干预时长）可能系统性[[Interaction Effect\|调节效应]]量大小。
 > 2. 系统检索与文献筛选，提取各研究的[[Effect Size\|效应量]]指标（如 Hedges' $g$、Pearson $r$、Fisher's $z$）及其抽样方差 $v_i$，并对调节[[Variable\|变量]]进行标准化编码。
 > 3. 计算合并效应与[[Heterogeneity\|异质性]]检验，评估总异质性 $Q_{\text{total}}$ 与[[Between-Study Variance\|研究间方差]] $\tau^2$ 是否显著，确立开展元回归的统计前提。
-> 4. 构建加权随机效应元回归模型，估计截距 $\beta_0$、偏回归系数 $\beta_j$、[[Confidence Interval\|置信区间]]及模型解释方差比例 $R^2_{\text{analog}}$。
+> 4. 构建加权[[Random-Effects Model|随机效应]]元回归模型，估计截距 $\beta_0$、偏回归系数 $\beta_j$、[[Confidence Interval\|置信区间]]及模型解释方差比例 $R^2_{\text{analog}}$。
 > 5. 进行模型诊断：检验残余异质性 $Q_{\text{residual}}$、多重共线性、高杠杆异常点及[[Publication Bias\|发表偏倚]]影响。
 
 ### 量化方法模块
@@ -242,6 +243,6 @@ updated: 2026-10-16
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 以随机效应元回归检验国家人均 GDP、发表年份与样本性别比例对图形组织器干预效应的调节作用。
+> - [[Argument_Lei_Ding_Chiu_2026_ERR\|Lei et al. (2026)]] 以[[Random-Effects Model|随机效应]]元回归检验国家人均 GDP、发表年份与样本性别比例对[[Graphic Organizer|图形组织器]]干预效应的调节作用。
 > - [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] 在[[Epistemic Cognition\|认识论认知]][[Meta-analysis\|元分析]]中运用元回归检验[[Questionnaire\|问卷]][[Reliability\|信度]]对[[Effect Size\|效应量]]的预测力，发现信度回归系数达 $b = .300$。
 > - [[Argument_Park_2026_TSC\|Park et al. (2026)]] 在[[Three-Level Meta-Analysis\|三水平元分析]]框架下运用元回归检验参与者年龄、学段、地理区域、发表年份及[[Creativity\|创造力]]与[[Critical Thinking\|批判性思维]]测量类型对相关量的调节作用，并检验两类测量类型的交互项（$Q_M(1) = 6.524, p = .011$）。

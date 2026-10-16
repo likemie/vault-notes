@@ -43,7 +43,7 @@ related_methods:
   - "[[Cross-sectional Study]]"
   - "[[Questionnaire]]"
   - "[[Semi-structured Interview]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Fixed-Effect Model]]"
   - "[[Survey Research]]"
   - "[[Correlational Research]]"
 related_persons:
@@ -105,7 +105,7 @@ updated: 2026-10-16
 > [!method-stack] 方法层级
 > - **研究设计** 前瞻性队列设计（Prospective Cohort）、回顾性队列设计（Retrospective Cohort）、组织与项目历时追踪设计（Institutional/Program Cohort）。
 > - **数据收集** 多轮次追踪[[Questionnaire|问卷]]、标准化[[Achievement and Aptitude Tests|成就测验]]、深度[[Semi-structured Interview|半结构化访谈]]、现场观察、行政数据与档案追踪。
-> - **分析方法** 潜[[Variable|变量]]生长曲线模型（LGCM）、交叉滞后回归模型、生存分析、[[Fixed-Effect and Random-Effects Models|固定效应模型]]与质性历时主题分析。
+> - **分析方法** 潜[[Variable|变量]]生长曲线模型（LGCM）、交叉滞后回归模型、生存分析、[[Fixed-Effect Model|固定效应模型]]与质性历时主题分析。
 > - **辅助技术** [[Attrition|样本流失]]诊断、倾向值匹配权数调整、追踪回访维护协议与失联补查技术。
 
 ---

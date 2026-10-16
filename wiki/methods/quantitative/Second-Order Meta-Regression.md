@@ -43,6 +43,7 @@ related_methods:
   - "[[Confidence Interval]]"
   - "[[Ordinary Least Squares]]"
   - "[[Random Sampling]]"
+  - "[[Random-Effects Model]]"
   - "[[Multilevel Egger's Test]]"
   - "[[Sample Size Determination]]"
 related_instruments:
@@ -211,7 +212,7 @@ updated: 2026-10-15
 > | 条目 | 类型 | 关联方向 | 说明 |
 > |:-----|:-----|:---------|:-----|
 > | [[Meta-meta-analysis]] | 综合方法 | 核心模块 | 二阶[[Meta-regression\|元回归]]是现代二阶[[Meta-analysis\|元分析]]用于解释全领域[[Heterogeneity\|异质性]]来源的标准分析工具。 |
-> | [[Correlated and Hierarchical Effects Model]] | 基础模型 | 建模底层 | 二阶元回归基于 CHE 三水平随机效应方程与协方差工作矩阵构建。 |
+> | [[Correlated and Hierarchical Effects Model]] | 基础模型 | 建模底层 | 二阶元回归基于 CHE 三水平[[Random-Effects Model\|随机效应]]方程与协方差工作矩阵构建。 |
 > | [[Robust Variance Estimation]] | 推断方法 | 统计引擎 | RVE 三明治估计量为二阶元回归各系数及 Wald 检验提供稳健[[Standard Error\|标准误]]。 |
 > | [[Multilevel Egger's Test]] | 偏倚方法 | 特殊形式 | 多水平艾格检验本质上是以抽样标准误为唯一调节[[Variable\|变量]]的单变量二阶元回归。 |
 > | [[Meta-regression]] | 基础方法 | 概念源流 | 经典一阶元回归在多水平二阶元分析领域的理论与技术延伸。 |

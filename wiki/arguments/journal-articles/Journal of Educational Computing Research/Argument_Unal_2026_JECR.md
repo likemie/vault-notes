@@ -64,7 +64,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Random-Effects Model]]"
   - "[[Confidence Interval]]"
   - "[[Inverse-Variance Weighting]]"
   - "[[Coding in Qualitative Research]]"
@@ -96,14 +96,14 @@ sources:
   - "[[sources/Unal_2026_JECR/Unal_2026_JECR|Unal_2026_JECR]]"
 status: draft
 created: 2026-08-25
-updated: 2026-08-25
+updated: 2026-10-16
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Unal_2026_JECR"
 argument_key: "Argument_Unal_2026_JECR"
 argument_display_title: "A second-order meta-analysis on the effects of artificial intelligence applications on student outcomes"
 argument_kind: "journal-article"
-argument_related_count: 65
+argument_related_count: 66
 argument_related_level: 4
 argument_related_stars: "⭐⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -125,7 +125,7 @@ issuing_organization: ""
 > 2. 这种教育干预效应是否在成果类型、AI 工具类型、教育阶段、学科领域、[[Publication Bias\|发表偏倚]]状态以及元分析方法学质量等调节[[Variable\|变量]]上呈现系统性差异？（p. 1363）
 
 > [!claim] 核心主张
-> 以 19 项独立一阶元分析（覆盖 1993–2024 年发表的初级研究、包含 58,702 名学生样本）为[[Unit of Analysis\|分析单位]]，在[[Fixed-Effect and Random-Effects Models\|随机效应模型]]下实施二阶元分析，证实人工智能教育应用对学生学习成果具有统计显著的中等程度正向促进效应（$ES = .67$，95% [[Confidence Interval\|置信区间]]（Confidence Interval, CI）为 [.55, .78]）；该效应在教育阶段（从幼儿园到高中基础教育（Kindergarten through Grade 12, K12）弱于高等教育与混合阶段）和学科领域（计算机科学最强，数学最弱）上表现出显著的情境制约性，而在不同 AI 工具形态（聊天机器人 vs 多类型 AI vs 评估工具）与认知成果层级（基础成就 vs 高阶思维）之间保持相对稳健与一致（pp. 1375–1377）。
+> 以 19 项独立一阶元分析（覆盖 1993–2024 年发表的初级研究、包含 58,702 名学生样本）为[[Unit of Analysis\|分析单位]]，在[[Random-Effects Model\|随机效应模型]]下实施二阶元分析，证实人工智能教育应用对学生学习成果具有统计显著的中等程度正向促进效应（$ES = .67$，95% [[Confidence Interval\|置信区间]]（Confidence Interval, CI）为 [.55, .78]）；该效应在教育阶段（从幼儿园到高中基础教育（Kindergarten through Grade 12, K12）弱于高等教育与混合阶段）和学科领域（计算机科学最强，数学最弱）上表现出显著的情境制约性，而在不同 AI 工具形态（聊天机器人 vs 多类型 AI vs 评估工具）与认知成果层级（基础成就 vs 高阶思维）之间保持相对稳健与一致（pp. 1375–1377）。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 人工智能教育应用（聊天机器人、AI 赋能评估工具、多类型智能自适应系统）对学生学业成就与高阶思维技能的二阶综合干预效应
@@ -142,7 +142,7 @@ issuing_organization: ""
 > | **Zawacki-Richter 高等教育人工智能四维分类框架**<br>[[Zawacki-Richter AI in Higher Education Framework]] | 依据 Zawacki-Richter et al. (2019) 的分类框架，将 AI 教育应用系统划分为画像与预测、评估与评定、自适应系统与个性化、智能导学系统四大核心教学服务域，为本研究对多元 AI 工具的[[Operationalization\|操作化]]分类提供顶层理论架构（pp. 1364–1366）。 |
 > | **布鲁姆教育目标分类学修订版**<br>[[Higher-Order Thinking Skills]] | 区分记忆、理解、应用等较低阶认知目标与分析、评价、创造等高阶思维技能，为将 AI 带来的[[Learning Gain\|学习增益]]拆解为基础知识掌握与复杂认知发展提供理论分类标准（pp. 1365–1366）。 |
 > | **高阶思维技能五维分类框架**<br>[[Critical Thinking]] | 整合 Resnick (1987)、McLoughlin and Mynard (2009) 与 Liu et al. (2024) 的界定，将高阶思维[[Operationalization\|操作化]]为问题解决、[[Metacognition\|元认知]]、批判性思维、团队协作与创新发展五大维度，用以检验 AI 是否仅停留于浅层算法应答。 |
-> | **二阶元分析方法论框架**<br>[[Meta-meta-analysis]] | 依据 Schmidt and Oh (2013) 与 Oh (2020) 的理论，将一阶[[Meta-analysis\|元分析]]的标准化[[Effect Size\|效应量]]作为分析单位，通过[[Fixed-Effect and Random-Effects Models\|随机效应模型]]与经典[[Inverse-Variance Weighting\|逆方差加权]]消除一阶[[Sampling Error\|抽样误差]]，合成全领域宏观效应基准（p. 1367）。 |
+> | **二阶元分析方法论框架**<br>[[Meta-meta-analysis]] | 依据 Schmidt and Oh (2013) 与 Oh (2020) 的理论，将一阶[[Meta-analysis\|元分析]]的标准化[[Effect Size\|效应量]]作为分析单位，通过[[Random-Effects Model\|随机效应模型]]与经典[[Inverse-Variance Weighting\|逆方差加权]]消除一阶[[Sampling Error\|抽样误差]]，合成全领域宏观效应基准（p. 1367）。 |
 > | **PRISMA 2020 系统评价规范**<br>[[Coding in Qualitative Research]] | 遵循[[PRISMA\|系统评价和元分析优先报告条目]] 2020 年版（Preferred Reporting Items for Systematic Reviews and Meta-Analyses, PRISMA 2020）指南，提供包含识别、筛查、合格性审查与最终纳入的四阶段循证筛选架构，确保二阶样本提取的透明性与可重复性（Page et al., 2021; pp. 1367–1369）。 |
 > | **R-AMSTAR 系统评价质量评估工具**<br>[[AMSTAR]] | 采用系统评价方法学质量评估工具修订版（Revised Assessment of Multiple Systematic Reviews, R-AMSTAR; Kung et al., 2010; Young, 2017）的 12 项准则（排除临床项 8C/8D），对纳入的一阶元分析进行方法学质量量化评级（0–44 分），识别质量对效应量的调节作用（pp. 1370–1373）。 |
 > | **GROOVE 重叠分析与校正覆盖面积矩阵**<br>[[GROOVE]] · [[Corrected Covered Area]] | 运用[[GROOVE\|系统评价重叠图形表征工具]]（Graphical Representation of Overlap for OVErviews, GROOVE; Bracchiglione et al., 2022）计算[[Corrected Covered Area\|校正覆盖面积]]（Corrected Covered Area, CCA），设定 10% 重叠率排除阈值，解决一阶元分析因共享初级研究导致的双重计数与假阳性膨胀（pp. 1373–1375）。 |
@@ -319,7 +319,7 @@ issuing_organization: ""
 ### 论证步骤三　总体效应合并与异质性检验：AI 对学生成果的中等正向效应
 
 > [!claim] 步骤三主张
-> 在[[Fixed-Effect and Random-Effects Models\|随机效应模型]]下，二阶元分析证实人工智能教育应用对学生的整体学习成果产生统计显著的中等程度正向效应（$ES = .67$，95% CI = [.55, .78]，SE = .06）；同时数据集呈现出高度统计[[Heterogeneity\|异质性]]（$I^2 = 84.78\%$），表明真实效应量因教学情境特征产生实质分化（p. 1375）。
+> 在[[Random-Effects Model\|随机效应模型]]下，二阶元分析证实人工智能教育应用对学生的整体学习成果产生统计显著的中等程度正向效应（$ES = .67$，95% CI = [.55, .78]，SE = .06）；同时数据集呈现出高度统计[[Heterogeneity\|异质性]]（$I^2 = 84.78\%$），表明真实效应量因教学情境特征产生实质分化（p. 1375）。
 
 > [!chain-link] 证据到判断
 > - **证据一：二阶效应量点估计与实质教学增益** 综合 19 项 FOM 的二阶汇总效应量为 $ES = .67$（$Z = 11.45, p < .001$），95% 置信区间为 [.55, .78]。在正态分布假设下，该效应量对应的 Cohen's $U_3$ 达到 74.9%，意味着在 AI 辅助教学环境下的普通中等水平学生，其实际学业表现超越了传统非 AI 对照组中约 75% 的同龄学生（即在百分等级上实现了从第 50 百分位跃升至约第 75 百分位的大幅度实质认知增益）。
@@ -466,7 +466,7 @@ issuing_organization: ""
 ## 主要发现
 
 > [!finding-cards] 核心发现
-> 1. **AI 教育应用产生中等程度显著正向效应** 综合 19 项一阶[[Meta-analysis\|元分析]]与 58,702 名学生的实证数据，二阶[[Fixed-Effect and Random-Effects Models\|随机效应模型]]报告 AI 对学生学习成果的总体合并[[Effect Size\|效应量]]为 $ES = .67$（95% CI = [.55, .78], $p < .001$），全数据集呈现高度异质性（$I^2 = 84.78\%$）。（p. 1375）
+> 1. **AI 教育应用产生中等程度显著正向效应** 综合 19 项一阶[[Meta-analysis\|元分析]]与 58,702 名学生的实证数据，二阶[[Random-Effects Model\|随机效应模型]]报告 AI 对学生学习成果的总体合并[[Effect Size\|效应量]]为 $ES = .67$（95% CI = [.55, .78], $p < .001$），全数据集呈现高度异质性（$I^2 = 84.78\%$）。（p. 1375）
 > 2. **教育阶段构成显著调节[[Variable\|变量]]** K12 基础教育阶段的 AI 促进效应（$ES = .40$）显著低于 K12 与高等教育混合组（$ES = .73$），组间差异达统计显著（$Q_{bg} = 6.95, p = .01$），表明高等教育情境具备更优的技术准备度与[[Learner Autonomy\|自主学习]]承载力。（p. 1376）
 > 3. **学科领域呈现显著结构性分化** 计算机科学领域的 AI 增益效应最为突出（$ES = .99$），语言学习（$ES = .69$）与多学科（$ES = .68$）居中，而数学领域效应量最为微弱（$ES = .34$），组间差异显著（$Q_{bg} = 8.36, p = .04$）。
 > 4. **AI 工具形态与认知成果层级无显著差异** 聊天机器人（$ES = .74$）、多类型 AI 系统（$ES = .66$）与评估工具（$ES = .39$）之间差异不显著（$p = .55$）；[[Academic Achievement\|学业成就]]（$ES = .68$）与[[Higher-Order Thinking Skills\|高阶思维技能]]（$ES = .63$）获益水平相当（$p = .98$）。

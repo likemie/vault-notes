@@ -32,6 +32,8 @@ related_concepts:
   - "[[Heterogeneity]]"
 related_theories: []
 related_methods:
+  - "[[Fixed-Effect Model]]"
+  - "[[Random-Effects Model]]"
   - "[[Effect Size]]"
   - "[[Confidence Interval]]"
   - "[[Randomised Controlled Trials]]"
@@ -74,7 +76,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> 模型依赖性（Model Dependency，亦称模型敏感性或形式设定依赖）指在同一批经验观测数据上，由于统计分析者所选取的底层数学建模假定（如协[[Variable\|变量]]纳入规则、群聚结构校正方式、固定效应与随机效应设定）不同，导致干预因果[[Effect Size\|效应量]]的点估计值、[[Confidence Interval\|置信区间]]宽度及统计学显著性（$p$ 值）发生大幅漂移乃至定性翻转的现象（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 52]]）。该概念揭示了即便数据采集真实无欺，实证结论仍高度脆弱地依附于分析者主观模型设定的方法学困境（Xiao, Higgins, & Kasim, 2016）。
+> 模型依赖性（Model Dependency，亦称模型敏感性或形式设定依赖）指在同一批经验观测数据上，由于统计分析者所选取的底层数学建模假定（如协[[Variable\|变量]]纳入规则、群聚结构校正方式、[[Fixed-Effect Model|固定效应]]与[[Random-Effects Model|随机效应]]设定）不同，导致干预因果[[Effect Size\|效应量]]的点估计值、[[Confidence Interval\|置信区间]]宽度及统计学显著性（$p$ 值）发生大幅漂移乃至定性翻转的现象（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 52]]）。该概念揭示了即便数据采集真实无欺，实证结论仍高度脆弱地依附于分析者主观模型设定的方法学困境（Xiao, Higgins, & Kasim, 2016）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向[[Causality\|因果推断]]中由模型技术参数与底层假定所诱发的推断不确定性，打破了“客观数据必然导出单一客观结论”的技术迷思。
@@ -110,7 +112,7 @@ updated: 2026-10-16
 > [!feature] 核心要素
 > - **[[Covariate Adjustment\|协变量调整]]设定（Covariate Adjustment）** 模型是否纳入基线[[Pre-test and Post-test\|前测]]考分或受试者背景特征作为控制[[Variable\|变量]]。纳入高预测力前测可大幅吸收残差方差、提高估计精度，但若基线存在不平衡则可能扭曲估计斜率。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 52)]]
 > - **集群结构校正（Clustering Architecture）** 数据嵌套于班级或学校时，是否引入[[Intraclass Correlation Coefficient\|组内相关系数]]（ICC）校正。忽略层级嵌套的 [[Ordinary Least Squares\|OLS]] 模型会严重低估[[Standard Error\|标准误]]，导致虚假的[[Statistical Significance\|统计显著性]]；而多层模型（[[Hierarchical Linear Model\|MLM]]/HLM）或[[Generalized Estimating Equations\|广义估计方程]]（GEE）则会拉宽[[Confidence Interval\|置信区间]]。
-> - **效应结构假定（Fixed vs Random Effects）** 究竟将群聚单元视为固定效应（仅推论至参试学校）还是随机截距/随机斜率（推论至总体分布），直接决定了误差方差的分解方式。
+> - **效应结构假定（Fixed vs [[Random-Effects Model|Random Effects]]）** 究竟将群聚单元视为[[Fixed-Effect Model|固定效应]]（仅推论至参试学校）还是随机截距/随机斜率（推论至总体分布），直接决定了误差方差的分解方式。
 > - **缺失数据处理规程（Missing Data Mechanisms）** 是采用完全案例分析（Listwise Deletion）、均值填补、多重插补（Multiple [[Imputation Methods\|imputation]]）还是全信息极大似然法（FIML），会显著改变最终样本权重与效应估计。
 
 > [!logic-map]- 模型依赖性的生成机制与应对路径

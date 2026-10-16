@@ -31,6 +31,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Random Assignment]]"
   - "[[Pilot Testing]]"
+  - "[[Random-Effects Model]]"
   - "[[ABAB Design]]"
   - "[[Correlational Research]]"
 related_arguments:
@@ -91,7 +92,7 @@ updated: 2026-10-15
 ## 资料与分析
 
 > [!info]
-> 重复测量数据的分析需要考虑数据内部的**相关结构**——同一参与者的多次测量不是独立的。重复测量 [[Analysis of Variance\|ANOVA]] 通过球形假设（sphericity）来处理这种相关性；当球形假设不满足时，使用 Greenhouse-Geisser 或 Huynh-Feldt 校正。线性混合模型（LMM）是更灵活的替代方案，可以直接建模个体随机效应和不同的协方差结构。在分析[[Interaction Effect\|交互效应]]时需特别注意：如果交互效应显著，简单效应分析（simple effects）比主效应更有信息量。
+> 重复测量数据的分析需要考虑数据内部的**相关结构**——同一参与者的多次测量不是独立的。重复测量 [[Analysis of Variance\|ANOVA]] 通过球形假设（sphericity）来处理这种相关性；当球形假设不满足时，使用 Greenhouse-Geisser 或 Huynh-Feldt 校正。线性混合模型（LMM）是更灵活的替代方案，可以直接建模个体[[Random-Effects Model|随机效应]]和不同的协方差结构。在分析[[Interaction Effect\|交互效应]]时需特别注意：如果交互效应显著，简单效应分析（simple effects）比主效应更有信息量。
 
 ## 适用场景
 

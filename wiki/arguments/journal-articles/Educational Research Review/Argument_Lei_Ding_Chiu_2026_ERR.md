@@ -7,7 +7,7 @@ title: "Argument_Lei_Ding_Chiu_2026_ERR"
 argument_key: "Argument_Lei_Ding_Chiu_2026_ERR"
 argument_display_title: "The effect of graphic organizers on cultivating higher-order thinking: Evidence from a meta-analysis"
 argument_kind: "journal-article"
-argument_related_count: 52
+argument_related_count: 53
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -73,11 +73,11 @@ related_methods:
   - "[[Inter-Rater Reliability]]"
   - "[[Cochran's Q Test]]"
   - "[[I-squared Statistic]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
   - "[[Pairwise Wald Tests]]"
   - "[[Funnel Plot]]"
   - "[[Egger Regression Test]]"
   - "[[Fail-Safe N]]"
+  - "[[Random-Effects Model]]"
   - "[[Confidence Interval]]"
   - "[[Standard Error]]"
 related_instruments:
@@ -94,7 +94,7 @@ sources:
 part_of:
 status: draft
 created: 2026-08-25
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 # Argument_Lei_Ding_Chiu_2026_ERR
 
@@ -199,7 +199,7 @@ updated: 2026-09-17
 > - **三元层级映射** Ana 的探究过程生动表明，好奇、开放、坚毅与系统性等思维倾向是点燃探究的发动机；它们驱动了分析、评价、综合等认知过程；而这一系列心智运作最终沉淀为解决复杂真实问题的思维技能。（pp.2–3）
 
 > [!chain-link] 证据到判断
-> 基于 66 项研究与 72 个独立[[Effect Size\|效应量]]的[[Fixed-Effect and Random-Effects Models\|随机效应模型]]计算，图形组织器对高阶思维的加权平均效应量为 Hedges' $g = 0.778$（详细统计参数见表 2）。该效应量高度显著，且大幅超越了常规教育干预的平均基准效应。（pp.1, 9）
+> 基于 66 项研究与 72 个独立[[Effect Size\|效应量]]的[[Random-Effects Model\|随机效应模型]]计算，图形组织器对高阶思维的加权平均效应量为 Hedges' $g = 0.778$（详细统计参数见表 2）。该效应量高度显著，且大幅超越了常规教育干预的平均基准效应。（pp.1, 9）
 
 > [!ref-table]- 表 2：图形组织器对学生高阶思维影响的随机效应模型总体检验
 > | 综合模型 | 效应量数 $k$ | 汇总[[Effect Size\|效应量]] $g$ | 95% [[Confidence Interval\|置信区间（CI）]] | 检验统计量 $t$ | $p$ 值 | [[Cochran's Q Test\|异质性检验 Q]] | $p$ 值 | [[I-squared Statistic\|异质性 I² (%)]] |
@@ -339,7 +339,7 @@ updated: 2026-09-17
 > 4. **发现学段发展倒U型与社会技术红利** 中学生群体获益最大（$g = 1.113$），且国家人均 GDP 与近年发表文献表现出更强的促学效应，性别、学科门类与干预时长无显著调节作用。（pp.10–11）
 
 > [!stat-cards]- 核心数据
-> - **$g = 0.778$** 图形组织器对高阶思维的随机效应加权总体[[Effect Size\|效应量]]（$k = 72, N = 4{,}824$）。（p.1）
+> - **$g = 0.778$** 图形组织器对高阶思维的[[Random-Effects Model|随机效应]]加权总体[[Effect Size\|效应量]]（$k = 72, N = 4{,}824$）。（p.1）
 > - **$g = 1.041$ vs $0.798$ vs $0.548$** 思维导图、论证图与概念图对高阶思维的梯度效应量。（p.10）
 > - **$g = 1.167$ vs $0.680$** 发散思维与聚合思维在图形组织器干预下的效应量对比。（p.10）
 > - **$g = 1.113$ vs $0.877$ vs $0.659$** 中学、小学与大学阶段学生利用图形组织器的获益梯度。（p.10）

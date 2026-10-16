@@ -9,7 +9,7 @@ title: "Argument_Higgins_2016_ROE"
 argument_key: "Argument_Higgins_2016_ROE"
 argument_display_title: "Meta-synthesis and comparative metaanalysis of education research findings: some risks and benefits"
 argument_kind: "journal-article"
-argument_related_count: 48
+argument_related_count: 49
 argument_related_level: 3
 argument_related_stars: "⭐⭐⭐"
 argument_related_color: "#dbeafe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Direct Instruction]]"
   - "[[Metacognition]]"
   - "[[Visible Learning]]"
+  - "[[Zone of Desired Effects]]"
   - "[[Counterfactual]]"
   - "[[Academic Achievement]]"
   - "[[Abstract]]"
@@ -46,7 +47,8 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Effect Size]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Fixed-Effect Model]]"
+  - "[[Random-Effects Model]]"
   - "[[Pearson Product-Moment Correlation]]"
   - "[[Chi-Squared Test]]"
   - "[[Forest Plot]]"
@@ -81,7 +83,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-06-08'
-updated: '2026-09-15'
+updated: 2026-10-16
 year: 2016
 doi: ""
 citation_aliases:
@@ -101,7 +103,7 @@ citation_aliases:
 > 本文不采用单一理论框架，而是以方法论史为线索，追溯[[Meta-analysis\|元分析]]从统计技术到政策工具的演变。核心概念包括：
 > - [[Effect Size\|效应量]]作为跨研究比较的通用尺度
 > - [[Heterogeneity\|异质性]]作为研究间效果变异及其来源探索的工具
-> - [[Fixed-Effect and Random-Effects Models\|固定效应模型]]与随机效应模型作为两种汇总统计的数学路径
+> - [[Fixed-Effect Model\|固定效应模型]]与[[Random-Effects Model|随机效应模型]]作为两种汇总统计的数学路径
 > - [[Publication Bias\|发表偏差]]对汇总估计的影响
 
 ---
@@ -228,10 +230,10 @@ Eysenck(1978)提出的另一批评是"垃圾进，垃圾出"。他认为只有�
 
 Glass 命名元分析几年后，医学领域开始将元分析作为综合研究发现的核心技术。Peter Elwood and Archie Cochrane et al.进行了一项创新性的随机试验，测试阿司匹林是否降低心脏病再次发作的风险和相关死亡率(Elwood et al., 1974)。总体结果表明有益但不具结论性。因此在接下来几年中，Elwood and Cochrane 随着新试验结果的报告不断收集和合并数据。这种聚合使得几乎没有怀疑的余地。1980年，《柳叶刀》的一篇匿名社论（由英国医学统计学家 Richard Peto 撰写）呈现了这些发现(p.38)。
 
-> [!note]- 固定效应与随机效应之争
-> Peto 主张当效果不完全相同时，按精度（方差倒数）加权估计加权平均，将元分析当作更大的单一研究处理。这就是[[Fixed-Effect and Random-Effects Models\|固定效应模型]](p.39)。
+> [!note]- [[Fixed-Effect Model|固定效应]]与[[Random-Effects Model|随机效应]]之争
+> Peto 主张当效果不完全相同时，按精度（方差倒数）加权估计加权平均，将元分析当作更大的单一研究处理。这就是[[Fixed-Effect Model\|固定效应模型]](p.39)。
 >
-> 更保守的方法是将每项研究视为干预的略有不同版本，有自己的随机变异需要被考虑，同时纳入研究内和研究间变异。这种[[Fixed-Effect and Random-Effects Models\|随机效应模型]]由 Larry Hedges(1983)倡导，由 Rebecca DerSimonian and Nan Laird(1986)向医学研究者推广并提供了简化的计算公式。
+> 更保守的方法是将每项研究视为干预的略有不同版本，有自己的随机变异需要被考虑，同时纳入研究内和研究间变异。这种[[Random-Effects Model\|随机效应模型]]由 Larry Hedges(1983)倡导，由 Rebecca DerSimonian and Nan Laird(1986)向医学研究者推广并提供了简化的计算公式。
 
 ---
 
@@ -328,7 +330,7 @@ Marzano 将元综合描述为"理论驱动"，使用四个高层次学习类别�
 Hattie 综合了 800 多项元分析（包括其 1992 年研究中的元分析），在 [[Visible Learning]] 一书中得出了进一步的发现(p.43)。
 
 > [!abstract] 关节点 0.4
-> 与此前一致，大多数教育方法都"有效"，因为平均效应量约为 0.4。Hattie 将此作为关节点（hinge point），高于此值的方法值得优先考虑。这个数字自 1992 年以来保持稳定，这一事实本身引发讨论。它既可能代表教育干预的典型效果，也可能表明低于半个标准差的平均差异在教育上有意义且值得调查。同一方法是否随时间保持相同效果则不太清楚。例如同伴辅导的早期研究往往有更大的效应量，但这究竟是评估质量较低、[[Publication Bias\|发表偏差]]、分配偏差、研究者偏差的结果，还是真实反映了[[Counterfactual\|反事实]]条件的变化使得更大效果更难实现(pp.43–44)。
+> 与此前一致，大多数教育方法都"有效"，因为平均效应量约为 0.4。Hattie 将此作为关节点（[[Zone of Desired Effects|Hinge Point]]），高于此值的方法值得优先考虑。这个数字自 1992 年以来保持稳定，这一事实本身引发讨论。它既可能代表教育干预的典型效果，也可能表明低于半个标准差的平均差异在教育上有意义且值得调查。同一方法是否随时间保持相同效果则不太清楚。例如同伴辅导的早期研究往往有更大的效应量，但这究竟是评估质量较低、[[Publication Bias\|发表偏差]]、分配偏差、研究者偏差的结果，还是真实反映了[[Counterfactual\|反事实]]条件的变化使得更大效果更难实现(pp.43–44)。
 
 Hattie 的工作面临批评。核心假设是元综合中的研究按类型和人口分布足够均匀，使出现的差异代表教育主题差异而非研究方法差异。但不同类型的效果量混合使用是有风险的(pp.43–44)。
 

@@ -11,7 +11,7 @@ aliases:
 summary: "对元-元分析（二阶元分析）在认识论假设、试验清晰度混淆、偏倚逐级复合、方法论不透明及政策排名误用层面的系统性学术批判"
 type: concept
 domain: "research-methodology"
-related_count: 46
+related_count: 47
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -27,16 +27,17 @@ related_concepts:
   - "[[Epistemological Break]]"
   - "[[Metacognition]]"
   - "[[Variable]]"
+  - "[[Cargo Cult Science]]"
   - "[[Homework]]"
   - "[[Class Size]]"
   - "[[Policy Network]]"
+  - "[[PICO Framework]]"
   - "[[Epistemology]]"
   - "[[Theory of Knowledge]]"
   - "[[Whole Language]]"
   - "[[Study Population and Sample]]"
   - "[[Language Experience Approach]]"
   - "[[Primary and Secondary Documents]]"
-  - "[[Cargo Cult Science]]"
   - "[[Reliability]]"
   - "[[Critique of Effect Size]]"
   - "[[Critique of Meta-analysis]]"
@@ -52,7 +53,7 @@ related_methods:
   - "[[Intervention Research]]"
   - "[[Confidence Interval]]"
   - "[[Standard Error]]"
-  - "[[Fixed-Effect and Random-Effects Models]]"
+  - "[[Fixed-Effect Model]]"
   - "[[Robust Variance Estimation]]"
   - "[[Small Study Effects]]"
   - "[[Multilevel Egger's Test]]"
@@ -72,6 +73,7 @@ related_arguments:
   - "[[Argument_OConnor_2020_AJLL]]"
   - "[[Argument_Johnson_2023_CE]]"
   - "[[Argument_Snook_2009_NZJES]]"
+  - "[[Argument_Kalmendal_2025_PsyArXiv]]"
   - "[[Argument_Wrigley_2019_ERE]]"
   - "[[Argument_Runco_2026_CRJ]]"
 confidence: high
@@ -114,7 +116,7 @@ updated: 2026-10-16
 > > - **[[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]]** 证明组间比较、前后比较与相关转换三种公式对同一数据产生不可调和的矛盾排名，二阶未加校正的混合使用破坏了横向可比性。（pp. 241–245）
 > > - **LeLorier et al. (1997)** 指出一级元分析中的偏倚不仅在聚合层级间传播，二阶纳入与分类决策更会催生新的系统性偏见。[[Argument_OConnor_2020_AJLL\|(O'Connor, 2020, p. 147)]]
 >
-> > [!axis] 维度三：透明度缺失、数据重构困难与草包族科学倾向
+> > [!axis] 维度三：透明度缺失、数据重构困难与[[Cargo Cult Science|草包族科学]]倾向
 > > 审查二阶综合在数据提取、附录公开及证据筛选上的不透明性与证实偏差。
 > >
 > > - **[[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]]** 逐步重构[[Homework\|家庭作业]]（附录中 5 个隐藏值 0.36, 0.21, 0.39, 0.21, 0.28 算术平均为 0.29，声称的 161 项研究与 10 万学生并不构成计算基础）与[[Class Size\|班级规模]]效应量（Glass & Smith 1979 提取的 $d=0.09$ 并非原始报告值），指出方法论不透明阻碍了一线教育者验证，呈现伪科学特征。（pp. 25–26, 32–33）
@@ -144,7 +146,7 @@ updated: 2026-10-16
 > 3. **未加审视的负向极端异常值（Jeynes & Littell $d = -0.65$）**
 >    该值为全书 800 多项元分析中仅有的两个低于 $-0.50$ 的离群值之一。Jeynes 报告中纯粹全语言子组效应量实为 $d = 0.83$；Krashen (2002) 重新计算证实[[Primary and Secondary Documents\|原始文献]]计算存在严重方向性错误（如 Hoffman 实际为 $+0.68$、Lamb 实际为 $+0.44$、Harris & Serwer 实际为 $+0.18$），且 Jeynes 具有显著福音派宗教与保守政治背景，但 Hattie 未做任何方法学审查。（pp. 146–148）
 >
-> 4. **不对称审查与草包族科学（[[Cargo Cult Science]]）表现（Gee $d = +0.65$）**
+> 4. **不对称审查与[[Cargo Cult Science|草包族科学]]（[[Cargo Cult Science]]）表现（Gee $d = +0.65$）**
 >    在全部 4 项元分析中，仅有报告显著正效的 Gee 研究被 Hattie 以包含语音教学为由手动删除并人为修正为零。只修正不利于预设结论的证据、对支持自身偏见的异常负值放任不查，构成了典型的方法论不对称审查。（p. 148）
 >
 > 5. **故事镜头与主观建构矛盾**
@@ -158,7 +160,7 @@ updated: 2026-10-16
 > | 维度 | 传统粗糙元综合（如早版 Hattie） | [[Critical Realism\|批判实在论]]与现代二阶[[Meta-analysis\|元分析]]方案 |
 > |---|---|---|
 > | **数据合成逻辑** | 跨领域粗放收集、未加权算术平均、忽略重叠 | 严格 PRISMA 检索、[[AMSTAR]] 质量准入、排除主要研究重叠 |
-> | **统计推断模型** | 伪[[Fixed-Effect and Random-Effects Models\|固定效应模型]]、无[[Confidence Interval\|置信区间]]、忽略依赖性 | 多水平相关与层级效应（CHE）+ [[Robust Variance Estimation\|稳健方差估计]]（RVE）三明治估计量 |
+> | **统计推断模型** | 伪[[Fixed-Effect Model\|固定效应模型]]、无[[Confidence Interval\|置信区间]]、忽略依赖性 | 多水平相关与层级效应（CHE）+ [[Robust Variance Estimation\|稳健方差估计]]（RVE）三明治估计量 |
 > | **偏倚控制机制** | 声称不关心研究质量、无[[Small Study Effects\|小研究效应]]检验 | 改进[[Multilevel Egger's Test\|多水平艾格回归]]检验并进行截距偏倚校正 |
 > | **知识产出定位** | 全球普适性有效性联盟表与排名 | 探索效应量异质性来源、识别调节变量、实在论因果机制解释（Pawson, 2006） |
 
