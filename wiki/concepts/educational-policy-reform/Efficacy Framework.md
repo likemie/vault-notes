@@ -5,10 +5,10 @@ aliases:
   - 效能实证框架
   - 培生实效性框架
   - Pearson Efficacy Framework
-summary: "由跨国教育集团培生（Pearson plc）在首席教育顾问 Michael Barber 主导下推出的全球商业产品审计体系，要求所有教育产品附带量化学习成效证据；在批判政策社会学中被揭示为跨国资本垄断公共采购标准、构建循证话语霸权的治理工具。"
+summary: "由跨国教育出版巨头培生集团在首席教育顾问 Michael Barber 主导下推出的全球商业产品审计体系，要求所有产品附带量化学习成效证据，被批判教育社会学揭示为跨国资本垄断公共采购标准、构建循证话语壁垒的核心治理工具。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 22
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -19,31 +19,33 @@ tags:
   - theme/policy-entrepreneur
   - theme/privatisation
 related_concepts:
-  - "[[Comprehensive Education]]"
   - "[[Discourse]]"
   - "[[Policy Entrepreneur]]"
-  - "[[Policy Network]]"
+  - "[[Evidence-Based Education]]"
+  - "[[Epistemology]]"
+  - "[[Evidence Standards]]"
+  - "[[Operationalization]]"
+  - "[[Academic Achievement]]"
   - "[[Reliability]]"
   - "[[Implementation Fidelity]]"
-  - "[[Normal School]]"
+  - "[[Learning Progression]]"
   - "[[Technical Rationality]]"
-  - "[[Evidence-Based Education]]"
-  - "[[Governing by Numbers]]"
-  - "[[Performance Indicators]]"
-  - "[[New Public Management]]"
-  - "[[Educational Management Organisation]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[Teacher Professional Agency]]"
+  - "[[Professional Judgment]]"
+  - "[[Critical Pedagogy]]"
 related_theories: []
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Fixed-Effect Model]]"
+  - "[[Meta-analysis]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
   - "[[Michael Barber]]"
-  - "[[John Hattie]]"
-  - "[[Michael Fullan]]"
   - "[[Stephen Ball]]"
   - "[[John O'Neill]]"
 related_facts:
+  - "[[What Works Clearinghouse]]"
   - "[[Education Endowment Foundation]]"
 related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
@@ -54,88 +56,136 @@ updated: 2026-10-16
 
 # Efficacy Framework
 
-## 概念内涵与起源
-
-**实效性框架（Efficacy Framework）**，亦称**培生实效性框架（Pearson Efficacy Framework）**，是全球最大的跨国教育出版与[[Comprehensive Education|综合教育]]服务财团培生集团（Pearson plc）于 2013 年正式推行的一套全球商业产品审计与质量问责体系。
-
-该框架由培生首席教育顾问[[Michael Barber|迈克尔·巴伯]]爵士（Sir [[Michael Barber]]）一手设计并主导推进。作为新工党首相交付组（PMDU）与“交付学”（Deliverology）体系的奠基人，巴伯将公共行政部门的目标驱动因果问责理念全面移植至跨国商业财团的研发体系中。培生集团公开做出战略承诺：到 2018 年，培生在全球市场上所销售的全部数字化软件、教科书、测评系统与教师培训项目，都必须经过独立“实效性审计”（Efficacy Review），并向公众发布其在促进学生学习成效（Learning Outcomes）方面的可测量因果实证报告（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]，pp. 11, 77–81）。
-
-在批判政策社会学与教育全球化视野中，实效性框架被视为跨国资本重构全球教育政策[[Discourse|话语]]的里程碑事件，标志着跨国出版巨头从单纯的“教材供应商”转向能够界定并垄断“何为有效教育”（What Works）的跨国[[Policy Entrepreneur|政策创业者]]。
-
 ---
 
-## 运作机制：审计矩阵与智库互锁
+## 定义
 
-实效性框架在跨国公司内部与外部[[Policy Network|政策网络]]中构建了精密的治理闭环：
+> [!def] 核心定义
+> **实效性框架（Efficacy Framework）** 指跨国教育公司对自身研发与销售的教育产品（包括教材、自适应软件、测验工具与教师研训方案）建立的内部因果影响审计与认证机制，要求所有商业产品必须出具提升学生学习成效（Learning Outcomes）的可测量实证依据。该框架于 2013 年由培生集团（Pearson plc）在首席教育顾问[[Michael Barber|迈克尔·巴伯]]爵士（Sir [[Michael Barber]]）主导下创设，在政策社会学中被界定为跨国资本将循证理念工具化、垄断公共教育采购标准并构建排他性准入壁垒的[[Discourse|话语]]治理工具。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 11, 77–81)]]
 
-```mermaid
-flowchart TD
-    A["培生全球决策层<br>首席顾问迈克尔·巴伯 (Sir Michael Barber)"] --> B["实效性框架 (Efficacy Framework)"]
-    B --> C["内部实效性审计委员会<br>审核四大核心指标维度"]
-    C --> D["研发准入与全球商业投放<br>未能证明实效的产品予以淘汰"]
-    B --> E["思想引领智库 (Pearson Open Ideas)<br>资助全球著名学者 (Hattie, Fullan) 出版"]
-    B --> F["新兴市场商业扩张<br>廉价学习基金 (PALF) 私立代金券游说"]
-```
-
-### 1. 实效性审计的四大核心维度
-培生要求所有商业产品在推向全球市场前，必须通过由实效性审计团队基于量规评定的四大维度审核：
-1. **预期学习成效（Intended Outcomes）** 该产品是否明确界定了可测量的核心学生素养与学业进步指标；
-2. **因果实证支持（Evidence Base）** 该产品的教学设计是否建立在严格的同侪评议研究、[[Randomised Controlled Trials|随机对照试验]]（RCT）或高置[[Reliability|信度]]实证数据之上；
-3. **实施规划与保真度（Implementation Plan）** 是否为学校和教师提供了保障方案[[Implementation Fidelity|实施保真度]]（Implementation Fidelity）的标准化培训工具；
-4. **交付能力与监测体系（Capacity to Deliver）** 是否有能力在实际教学现场持续收集学生的学习过程数据并动态反馈。
-
-### 2. 外部学术背书与智库思想渗透
-为树立客观、崇高的实证科学声誉，培生设立了由外部国际权威学者组成的实效性咨询委员会，并在出版物中大量致谢包括约翰·海蒂（[[John Hattie]]）与彼得·希尔（Peter Hill）在内的顶尖学者。同时，培生通过其全资设立的开放思想（Pearson Open Ideas）智库丛书，资助全球教育思想领袖（如[[Michael Fullan|迈克尔·富兰]]、海蒂等）撰写前沿政策报告，巧妙地将学术前沿探讨与培生自身倡导的数字化自适应系统、测评产品及实效标准深度绑定。
-
-### 3. 支撑廉价私立教育的跨国扩张
-实效性框架不仅用于欧美成熟市场的公立采购竞标，还被培生廉价学习基金（Pearson Affordable Learning Fund, PALF）作为开拓全球南方新兴市场的核心正当性工具。培生在加纳、肯尼亚、印度等国大举投资营利性连锁私立学校（如 Bridge International Academies），并援引实效性框架发布评估简报，声称其低成本流水线式教学相较于当地公费薄弱学校具有更高的成效，进而强力游说各国政府推行教育代金券（Vouchers）制度，将国家公共财政转移给私营办学财团。
-
----
-
-## 政策社会学批判：技术理性壁垒与政府采购垄断
-
-在批判教育社会学家[[Stephen Ball|斯蒂芬·鲍尔]]（[[Stephen Ball]]）与新西兰学者[[John O'Neill|约翰·奥尼尔]]等（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）的研究中，实效性框架被解构为跨国资本推行行业垄断与意识形态霸权的高阶工具：
-
-### 1. 打造跨国资本的“排他性技术壁垒”
-实效性审计要求产品必须具备极为昂贵的因果实验数据、大规模追踪统计软件与持续数据采集基础设施。这一极高的合规门槛，实际上将绝大多数缺乏雄厚资本支持的本土中小型出版机构、草根教研团体以及公立大学[[Normal School|师范学院]]彻底挤出了竞争通道。跨国资本通过制定所谓的“科学实效标准”，成功构建了排他性壁垒，垄断了各级政府的公共采购大单。
-
-### 2. 循证话语的商业霸权与工具理性异化
-实效性框架假定教育过程的优劣可以被完全还原为标准化的数字涨落。在这种狭隘的[[Technical Rationality|技术理性]]（[[Technical Rationality]]）支配下：
-- 能够被轻松量化测试的机械技能被置于优先地位，而无法短期量化的公民素养、批判反思与审美体验被边缘化；
-- 跨国公司通过自我资助、自我审计、自我发布的闭环流程，将商业促销材料伪装成中立的科学循证报告（[[Evidence-Based Education]]），削弱了公众对教育商品化本质的警惕。
-
-### 3. 公共教育主权的让渡
-当国家教育部和公立学校系统普遍接受跨国公司的实效性框架作为采购的金标准时，公共教育改革的议程设置权已经悄然发生了制度性转移。国家不再自主定义什么是优良的教育，而是被动接受由跨国跨界咨询顾问与跨国集团所界定的“有效性”标准，导致普遍主义公共教育的民主政治属性被彻底置换为市场绩效逻辑。
-
----
-
-## 关键引用
+> [!concept-lens] 概念透镜
+> - **含义** 指向跨国教育商业公司内部建立的标准化学习产出因果审计机制与质量声誉建构流程。
+> - **用途** 帮助研究者透视跨国资本如何超越传统“教材出版商”角色，转而充当界定“有效教育标准”的跨国[[Policy Entrepreneur|政策创业者]]，垄断各级政府公共采购通道。
+> - **边界** 不等于公共科研机构开展的中立因果实证评估，亦不适用于解释非营利性草根教学改革或无法直接量化的质性育人过程。
 
 > [!citation-card] 培生的实效性审计与智库思想领导力策略
-> 在首席教育顾问[[Michael Barber|迈克尔·巴伯]]爵士的领导下，培生推行了新的‘实效性’（Efficacy）倡议……该框架要求所有商业产品都必须出具提升学生学习成效的实证依据。与此同时，培生通过其‘开放思想’（Open Ideas）系列智库丛书，资助全球知名学者（包括致谢约翰·海蒂与彼得·希尔），将商业产品包装为无可辩驳的客观科学法则，并在全球范围内积极游说将公共教育经费转化为私立代金券。（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 11]], 77–81）
+> 在首席教育顾问迈克尔·巴伯爵士的领导下，培生推行了新的‘实效性’（Efficacy）倡议……该框架要求所有商业产品都必须出具提升学生学习成效的实证依据。与此同时，培生通过其‘开放思想’（Open Ideas）系列智库丛书，资助全球知名学者（包括致谢约翰·海蒂与彼得·希尔），将商业产品包装为无可辩驳的客观科学法则，并在全球范围内积极游说将公共教育经费转化为私立代金券。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 11, 77–81)]]
+>
+> *Under the leadership of Chief Education Adviser Sir Michael Barber, Pearson implemented new initiatives on ‘Efficacy’... The framework requires all commercial products to demonstrate measurable impact on learning outcomes. Meanwhile, through its Open Ideas series, Pearson funded renowned scholars internationally, packaging its products as objective science and lobbying to turn public funding into private vouchers.*
+
+> [!boundary]- 概念边界
+> - 不等于 [[Evidence-Based Education|循证教育]] — 循证教育是基于无利害关系的独立学术共同体开展系统评价与证据清理的[[Epistemology|认识论]]取向，而实效性框架是由商业公司自设自评、直接服务于产品营销与商业竞标的排他性审核体系。
+> - 不等于 数据治理 — 数据治理侧重于国家行政官僚利用量化指标监控学校系统，而实效性框架是跨国私营财团反向向国家机器输出标准、夺取课程评价主权的商业机制。
+> - 不适用于非量化教育实践 — 对于德育涵养、批判性公民意识与审美体验等难以直接还原为标准化分数的教育目标，该框架缺乏解释力与适配性。
 
 ---
 
-## 条目关联
+## 概念辨析
 
-### 核心思想与主导人物
-- [[Michael Barber]]
-- [[John Hattie]]
-- [[Stephen Ball]]
-
-### 治理逻辑与分析透镜
-- [[Evidence-Based Education]]
-- [[Governing by Numbers]]
-- [[Performance Indicators]]
-- [[New Public Management]]
-- [[Technical Rationality]]
-- [[Discourse]]
-- [[Policy Entrepreneur]]
-
-### 组织与制度载体
-- [[Educational Management Organisation]]
-- [[Endogenous and Exogenous Privatisation]]
-- [[Education Endowment Foundation]]
+> [!contrast-table] 概念辨析
+> | 维度 | 实效性框架（Efficacy Framework） | 官方循证清算中心（如 [[What Works Clearinghouse\|WWC]] / [[Education Endowment Foundation\|EEF]]） | 传统教材审查机制（Textbook Approval） |
+> |---|---|---|---|
+> | **主导主体** | 跨国上市教育集团（如培生公司）及其商业咨询顾问 | 国家教育部直属或法定独立的公共研究机构 | 各国中央或地方教育部课程教材审查委员会 |
+> | **核心目的** | 证明自营产品的商业价值，树立行业准入门槛 | 汇总独立研究证据，向公立学校提供客观中立建议 | 审查教学材料是否符合国家宪法、法定义务与课程大纲 |
+> | **[[Evidence Standards\|证据标准]]** | 内部实效性量规与商业审计委员会裁定 | 严格的[[Randomised Controlled Trials\|随机对照试验]]（RCT）与[[Fixed-Effect Model\|固定效应]][[Meta-analysis\|元分析]]量规 | 专家同行评议与意识形态/政治合规性审查 |
+> | **商业关联** | 结果直接与商业产品全球销售、特许经营及并购挂钩 | 明确禁止商业利益冲突，独立于出版发行商 | 审查者不参与被审查材料的利润分成 |
 
 ---
 
+## 核心要素
+
+> [!feature] 核心要素
+> - **预期成效界定（Intended Outcomes）** 商业产品在立项与研发初期必须以[[Operationalization|操作化]]指标定义学生[[Academic Achievement|学业成就]]增长幅度。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 78)]]
+> - **因果实证证据基础（Evidence Base）** 要求方案设计必须引用经同行评议的高置[[Reliability|信度]]实证研究或内部对照实验数据支撑。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 78)]]
+> - **[[Implementation Fidelity|实施保真度]]规划（Implementation Plan）** 提供详尽的教师标准化操作手册与配套培训，控制课堂教学偏差。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 79)]]
+> - **交付追踪能力（Capacity to Deliver）** 在产品内部嵌入实时数据采集模块，动态记录用户使用时长、答题表现与[[Learning Progression|学业进阶]]轨迹。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 79)]]
+
+> [!logic-map]- 要素关系
+> ```mermaid
+> flowchart TD
+>     A["实效性框架整体设计"] --> B["预期成效界定<br>明确量化学业目标"]
+>     A --> C["因果实证基础<br>实验对照数据背书"]
+>     A --> D["实施保真度规划<br>标准化师训与操作手册"]
+>     A --> E["交付与追踪能力<br>内置自适应数据采集"]
+>     B --> F["形成排他性技术壁垒与商业正当性"]
+>     C --> F
+>     D --> F
+>     E --> F
+> ```
+
+---
+
+## 围绕概念形成的命题
+
+---
+
+### 命题一　跨国出版资本通过设定实效性标准将商业评测转化为排他性的公共采购准入壁垒
+
+> [!concept-lens] 市场准入与准垄断机制
+> 探讨跨国教育企业如何利用高成本的因果实证审计设定行业壁垒，将中小竞争者与传统公办机构排除出政府采购清单。
+
+> [!claim] [[Michael Barber|Barber, M.]]
+> **商业问责正当性** 跨国教育机构有道德义务证明其每一项商业销售都能带来真实的学习成效改善，通过公开实效审计报告能够打破低效产品的市场生存空间。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 78)]]
+
+> [!claim] O'Neill et al.
+> **排他性壁垒构建** 实效性框架要求的严苛因果追踪与大数据收集基础设施成本极其高昂，实质上成为跨国巨头构筑的排他性壁垒，使得缺乏巨额资金的本土教研机构被系统性排挤出公共采购通道。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 78–81)]]
+
+> [!claim] [[Stephen Ball|Ball, S.]] J.
+> **政策创业与权威寻租** 跨国公司通过界定“何为有效教育”，实现了从公共服务承包商向国家教育质量仲裁者的角色转变，利用伪学术中立性夺取政策议程设置权。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 81)]]
+
+---
+
+### 命题二　实效性话语将复杂的教育人文本质窄化为可量化的技术理性因果产出
+
+> [!concept-lens] [[Epistemology|认识论]]还原与[[Technical Rationality|技术理性]]异化
+> 聚焦实效性框架如何将丰富多元的育人价值还原为标准化的测试数据，挤压[[Teacher Professional Agency|教师专业自主权]]。
+
+> [!claim] O'Neill et al.
+> **技术理性压制[[Professional Judgment|专业判断]]** 实效性框架以因果量化为唯一合法尺度，迫使公立学校采购能够短期推高测验分数的流水线式工具，削弱了教师基于具体学生情境的专业反思。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 11, 134–135)]]
+
+> [!claim] Ball, S. J.
+> **意识形态商品化** 所谓的实效性实证本质上是一种将新自由主义绩效主义包装为科学法则的[[Discourse|话语]]策略，旨在为全球南方国家的营利性低成本私立学校（PALF）争夺公共代金券提供合法性基础。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 80)]]
+
+---
+
+### 命题总览
+
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **市场准入壁垒命题** | 跨国资本利用高门槛实效审计排除竞争对手并垄断公立政府采购 | 全球基础教育数字化采购与课程外包招标 | Barber (2013); [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]]; Ball (2012) |
+> | **技术理性异化命题** | 严格的量化因果标准窄化了教育育人内涵并侵蚀教师专业自主权 | 基础教育标准化测验、自适应教学软件应用与私立特许学校推广 | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]]; Ball (2012) |
+
+---
+
+## 概念演变
+
+> [!dev-timeline] 概念演变
+> - **2007 年 — 交付学管理逻辑形成** [[Michael Barber|迈克尔·巴伯]]通过麦肯锡咨询报告确立目标驱动的绩效交付框架，主张用因果数据监控公共系统改进。
+> - **2013 年 — 培生集团官方推行实效性框架** 培生成立全球实效性审计委员会，做出到 2018 年所有产品必须通过实效审计的战略承诺。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 77)]]
+> - **2014–2016 年 — 批判政策社会学实证解构** [[John O'Neill|约翰·奥尼尔]]与[[Stephen Ball|斯蒂芬·鲍尔]]等学者揭示其作为跨国商业壁垒与廉价私立教育（PALF）游说工具的制度本质。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 78–81)]]
+
+---
+
+## 争议与批评
+
+> [!debates] 学术争议
+>
+> > [!axis] 自测自评的公正性与商业利益冲突
+> > 商业财团是否具备中立评估自身产品的结构性可能。
+> >
+> > - **培生集团（2013）** 实效性框架由外部国际权威学者委员会指导，具有透明度与科学严谨性。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 78)]]
+> > - **[[Argument_ONeill_2016_Report|O'Neill et al. (2016)]]** 评审过程完全由商业公司主导，缺乏受《官方信息法》约束的穿透式审计，本质上是企业公关与营销策略。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 81)]]
+
+> [!critique] 外部批评
+> - **掠夺性商业扩张工具** [[Critical Pedagogy|批判教育学]]者指出，培生在肯尼亚与加纳推行营利性私立学校时，将实效性框架作为游说发展中国家政府取消公办托底、引入私立学券的政治抓手，加剧了全球南方贫困儿童的受教育不平等。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 80–81)]]
+
+> [!warning] 适用局限
+> 实效性框架高度依赖可量化的标准化考试分数作为因果终点，不适用于评估涉及情感发展、社会正义批判意识与长期公民素养等非线性的复杂教育领域。
+
+---
+
+## 相关研究
+
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统审计新西兰私营部门参与公立教育格局，剖析培生集团如何依托实效性框架与 Open Ideas 智库丛书实现学术声誉包装与商业变现。

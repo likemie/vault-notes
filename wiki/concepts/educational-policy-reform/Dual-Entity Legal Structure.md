@@ -9,7 +9,7 @@ aliases:
 summary: "由非营利慈善信托全资控股营利性商业有限责任公司的组织与制度套利架构，教育管理组织（EMO）借此将公立学校政府采购预算转化为免税商业利润并大额留存，同时规避企业所得税与官方信息公开监管，形成对公共教育资源的实质性资本净汲取。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 14
+related_count: 10
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -20,21 +20,17 @@ tags:
   - theme/network-governance
 related_concepts:
   - "[[Educational Management Organisation]]"
-  - "[[Informationalization]]"
-  - "[[Public-Private Partnership]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
-  - "[[Theoretical Perspective]]"
+  - "[[Return on Investment]]"
   - "[[Network Governance]]"
-  - "[[New Public Management]]"
-  - "[[Venture Philanthropy]]"
-  - "[[Bureaucracy]]"
+  - "[[Variable]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Effect Size]]"
+  - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
-  - "[[John O'Neill]]"
   - "[[Stephen Ball]]"
-  - "[[John Hattie]]"
+  - "[[John O'Neill]]"
 related_facts:
   - "[[Cognition Education]]"
 related_arguments:
@@ -46,102 +42,143 @@ updated: 2026-10-16
 
 # Dual-Entity Legal Structure
 
-## 概念内涵与制度起源
-
-**双层法人架构（Dual-Entity Legal Structure）**，在教育政治经济学与非营利法研究中亦称**双层公司架构（Dual-Corporate Structure）** 或**慈善控股商业套利架构**，是指由顶层享有免税特权的非营利性“注册慈善信托”（Charitable Trust），全资控股底层一家或多家“营利性商业有限责任公司”（Commercial Company Limited by Shares）所形成的混合型法人治理形态。
-
-该架构在战后西方福利国家向新自由主义治理转型的过程中逐步扩散，尤其在基础教育与公共服务外包领域被各类[[Educational Management Organisation|教育管理组织]]（Educational Management Organisations, EMOs）广泛采用。在新西兰梅西大学学者[[John O'Neill|约翰·奥尼尔]]等（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）的系统实证审计中，双层法人架构被定性为现代教育管理组织借助慈善法漏洞，在免税与公益外衣掩护下实施制度套利、实现对公立学校公共财政资金“净抽取”（Net Extraction）的核心组织工具。
-
 ---
 
-## 制度成因：法规漏洞与免税特权
+## 定义
 
-双层法人架构之所以能够在公立教育领域大行其道，植根于特定国家非营利立法对教育类慈善实体的宽泛界定与规制滞后（以新西兰《2005年慈善法》与《1957年慈善信托法》为典型代表）：
+> [!def] 核心定义
+> **双层法人架构（Dual-Entity Legal Structure）**，在教育政治经济学与非营利法研究中亦称**双层公司架构（Dual-Corporate Structure）** 或**慈善控股商业套利架构**，是指由顶层享有免税特权的非营利性“注册慈善信托”（Charitable Trust），全资控股底层一家或多家“营利性商业有限责任公司”（Commercial Company Limited by Shares）所形成的混合治理形态。[[Educational Management Organisation|教育管理组织]]（[[Educational Management Organisation|EMO]]）借此架构使商业子公司承接政府外包合同，再将利润以“慈善捐赠”名义免税转移至母体信托，从而合法规避企业所得税，并借助信托外壳规避《官方信息法》（OIA）的信息穿透公开。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 25–26, 47–53)]]
 
-1. **慈善宗旨的无限延伸** 法律将“促进教育”（Advancement of Education）列为法定四大慈善宗旨之一，但对何为“促进”缺乏严格的实体性标准，允许咨询、培训与技术研发等高度商业化的营利中介轻松注册为慈善信托；
-2. **全资控股商业子公司的合法性** 法规允许注册慈善信托设立 100% 全资持股的营利性有限责任公司，只要该商业公司的章程宣称其最终利润将用于支持母体信托的慈善宗旨；
-3. **缺乏法定强制最低支出比例** 与美国法律强制要求私人基金会每年必须支出至少 5% 资产用于公益资助不同，新西兰等国慈善法并未设立最低年度慈善支出率（Minimum Payout Rate），导致信托可以将巨额商业利润长期沉淀在账户中用于再投资或金融投机；
-4. **信息披露的双重保护屏障** 底层商业公司受商业保密法规保护，母体慈善信托则享有非营利自律保护，二者均完全不受《官方信息法》（Official Information Act, OIA）等政府信息无条件公开法规的约束。
-
----
-
-## 运作机制：四步闭环资本流转
-
-在实际运作中，双层法人架构构建起一套精密的资本、声誉与税收流转流程：
-
-```mermaid
-flowchart TD
-    A["设立顶层慈善信托<br>取得免税资质与公益声誉公信力"] --> B["组建全资商业有限责任公司<br>直接竞标公立教育采购合同与海外学校托管"]
-    B -->|承接政府采购与海外项目| C["获取巨额商业营业收入<br>支付高管高额津贴与学者顾问版税"]
-    C -->|将账面净利润作为慈善捐赠注入| D["顶层慈善信托账户<br>实现 28% 企业所得税全额豁免"]
-    D -->|沉淀资本并用于金融市场投资| E["累积数千万元账面留存净资产<br>极低对外实际捐赠率 (0.9% - 1.3%)"]
-```
-
-### 1. 取得慈善资质，获取合法性外衣
-发起人设立非营利慈善信托，向国家慈善服务局（Charities Services）申请注册。信托由此享有免征企业所得税资格，并获得“非营利、促进教育公益”的崇高社会公信力。
-
-### 2. 设立商业子公司，竞标政府采购业务
-母体信托全资成立商业有限责任公司，以独立法人身份参与教育部[[Informationalization|信息化]]、教师专业学习与发展（PLD）资格招标、公私合营（[[Public-Private Partnership|PPP]]）项目以及海外公立学校商业托管合同。在此过程中，商业公司凭借母体的学术与慈善背景获取巨大竞标优势。
-
-### 3. 免税转移利润，规避企业所得税
-在财务年度结算时，底层商业公司扣除全职雇员工资、高管薪酬与付给学术顾问（如付给约翰·海蒂的巨额版税与顾问费）后，将剩余的全部账面营业利润，以“免税慈善捐赠”（Charitable Donation）的名义全额上缴给母体信托，从而合法规避本应向国家缴纳的法定企业所得税（新西兰为 28%）。
-
-### 4. 巨额资产内部沉淀，象征性对外捐赠
-母体信托收到免税资金后，并不大规模向基层贫困公立学校发放助学金，而是将资金留存在账面上委托金融市场进行资本运作或购买不动产。对外实际发放的公益捐赠常年仅维持在微乎其微的象征性水平（占年收入的 1% 左右），实质上形成了高额财富在信托体系内部的封闭自我循环。
-
----
-
-## 典型组织实证对照
-
-在新西兰[[Endogenous and Exogenous Privatisation|教育私有化]]的实证审计中（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]），两大本土核心[[Educational Management Organisation|教育管理组织]]完整展示了双层法人架构的财务运作特征：
-
-| 组织实体与双层架构 | 商业营运规模（2015） | 内部利润转移与免税特征 | 累计留存净资产（2015） | 实际对外教育捐赠（2015） | 实际捐赠占总营收比 |
-|---|---|---|---|---|---|
-| **科认知教育<br>([[Cognition Education]])**<br>信托控股商业咨询公司 | **NZD 28,092,285**<br>（历史峰值达 6915 万） | 商业公司累计向信托免税捐赠近千万；常年为董事与外部学者支付数十万顾问费 | **NZD 18,229,723**<br>（从 2009 年 1090 万逐年累积推高） | **NZD 251,826**<br>（主要用于象征性奖学金） | **0.9%** |
-| **核心教育<br>(CORE Education)**<br>信托全资控股商业有限公司 | **NZD 22,748,538**<br>（承揽教育部数字研训项目） | 营收绝大部分直接来自教育部公共合同；高管津贴年近百万 | **NZD 4,086,858**<br>（信托承接资产后迅速累积） | **NZD 295,814**<br>（极微量回馈外部系统） | **1.3%** |
-
----
-
-## 政策社会学批判：三重制度套利特权
-
-在批判政策社会学与公共治理[[Theoretical Perspective|理论视角]]下，双层法人架构对战后普遍主义公费教育体系造成了深层制度侵蚀：
-
-### 1. 规避公共税负与侵蚀国家公共财力
-[[Educational Management Organisation|教育管理组织]]凭借慈善信托的外壳，将本应作为企业所得税上缴国家国库的巨额商业利润予以合法免除。这意味着由纳税人出资的公共教育预算，不仅被转化为私营中介的营业收入，还失去了通过二次税收调节回流公共财政的可能性。
-
-### 2. 架空《官方信息法》与民主问责真空
-公立学校通常受严格的信息公开法案规制，公众与工会可以依法调阅学校经费使用细节。然而，一旦业务转包给双层法人 EMO，这些机构便能以“商业敏感信息”和“慈善信托内部事务”为由拒绝向公众披露合同内部成本构成、跨国分包细节与高管薪酬明细。表面上公共采购引入了市场竞争，实质上政策决策退入了半公开甚至私密的“部落式”圈子，彻底剥夺了公民社会的民主监督权。
-
-### 3. 公立教育资源的资本“净抽取”
-政策制定者常以“引入社会慈善力量能为公立学校带来外部资源增量”为由推行外生私有化。然而实证审计证实，双层法人 EMO 并不向学校引入外部私人财富，反而是一个纯粹的**资本净抽取者（Net Extractor of Public Funds）**——它们依靠公费教育合同汲取数千万元预算，向外部公立体系返还的实际价值微乎其微，直接动摇了国家保障免费义务公立教育的社会契约。
-
----
-
-## 关键引用
+> [!concept-lens] 概念透镜
+> - **含义** 指向非营利慈善实体与营利性有限责任公司之间通过股权全资控股与关联交易形成的免税闭环法人治理关系。
+> - **用途** 帮助研究者透视现代教育管理组织如何利用慈善法漏洞，在公益外壳掩护下实现公款商业化变现与免税留存，打破“引入民间力量必然带来外部资源增量”的政策神话。
+> - **边界** 适用于分析允许慈善机构全资控股商业子公司的英美法系法制环境，不适用于禁止非营利组织从事实质性商业运作的大陆法系国家或纯公立教育行政机构。
 
 > [!citation-card] 双层法人套利与资本净汲取的制度本质
-> 相比于纯粹的外部救济慈善机构，无论营利性还是非营利性的[[Educational Management Organisation|教育管理组织]]（EMO），它们从公立学校系统取走的资金，可能远远超过其以转包服务和纯正慈善捐赠形式所返还的价值……双层实体将营利性商业公司作为非营利慈善信托的全资子公司运营，既能够通过国家采购竞标争夺营业额，又能借助信托的免税与商誉优势将巨额利润留存于内部资本增殖，而对外发放的实质性慈善回馈常年不足营业总额的百分之一。（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 18]], 25–26, 47–53）
+> 相比于纯粹的外部救济慈善机构，无论营利性还是非营利性的教育管理组织（EMO），它们从公立学校系统取走的资金，可能远远超过其以转包服务和纯正慈善捐赠形式所返还的价值……双层实体将营利性商业公司作为非营利慈善信托的全资子公司运营，既能够通过国家采购竞标争夺营业额，又能借助信托的免税与商誉优势将巨额利润留存于内部资本增殖，而对外发放的实质性慈善回馈常年不足营业总额的百分之一。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 18, 25–26, 47–53)]]
+>
+> *It could be claimed that in comparison with the three philanthropic actors above, EMOs, whether for-profit or not-for-profit, take more money out of the state schooling system than they return in terms of contracted-out services and genuine charitable grants... Separation of the entities into a charitable trust and a company of the same name enables for-profit subsidiaries to tender for government contracts, transfer profits tax-free to the parent trust, and accumulate equity while returning negligible charitable grants.*
+
+> [!boundary]- 概念边界
+> - 不等于纯粹捐赠型基金会 — 传统捐赠型基金会以自有本金投资收益向外部学校提供无偿资助，而双层法人组织的核心现金流高度依赖政府公费采购合同。
+> - 不等于纯营利外包商 — 纯营利外包公司必须依法向国家缴纳 28% 的企业所得税，且无权享受慈善信托的社会公益声誉与避税特权。
+> - 不适用于全额公立科层机构 — 公立学校与大学直接隶属国家行政编制并受国家审计署全额审计，无法实施双层关联交易。
 
 ---
 
-## 条目关联
+## 概念辨析
 
-### 核心概念与制度机制
-- [[Educational Management Organisation]]
-- [[Endogenous and Exogenous Privatisation]]
-- [[Network Governance]]
-- [[New Public Management]]
-- [[Public-Private Partnership]]
-- [[Venture Philanthropy]]
-
-### 典型案例实体
-- [[Cognition Education]]
-- CORE Education
-
-### 关键学者与批判理论
-- [[Stephen Ball]]
-- [[John Hattie]]
-- [[Bureaucracy]]
+> [!contrast-table] 概念辨析
+> | 维度 | 双层法人套利架构（Dual-Entity [[Educational Management Organisation\|EMO]]） | 纯粹捐赠型慈善信托（Grant-making Trust） | 经典营利性承包公司（For-profit Contractor） |
+> |---|---|---|---|
+> | **法定治理形态** | 顶层慈善信托 100% 控股底层商业有限责任公司 | 依照信托法设立的独立非营利信托或基金会 | 依据《公司法》成立的独立有限责任公司 |
+> | **核心收入来源** | 教育部政府采购合同、学校购买服务费、海外托管 | 历史禀赋捐赠（Endowment）金融市场[[Return on Investment\|投资回报]] | 市场竞争性服务合同与商品销售收入 |
+> | **税收地位** | 商业利润免税转入信托，整体实际企业所得税为零 | 享有法定非营利免税资格 | 全额依法缴纳法定企业所得税（如 28%） |
+> | **资金净流向** | **公费财政净流出** 从公立学校抽取资金远超回馈 | **私人资金净流入** 向学校无偿提供物资或项目赠款 | **商业契约对价** 交付合同服务并提取商业利润 |
+> | **信息公开程度** | 享受商业秘密与慈善自治双重保护，免受信息法穿透 | 仅需向慈善管理部门进行基本财务年报备案 | 受商业秘密法保护，但无权主张非营利豁免 |
 
 ---
 
+## 核心要素
+
+> [!feature] 核心要素
+> - **顶层免税信托母体（Parent Charitable Trust）** 在国家慈善部门注册，确立“促进教育”的法定公益宗旨，依法享有免征所得税地位并累积留存净资产。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 48)]]
+> - **底层全资商业子公司（Operating Commercial Subsidiary）** 设立独立的商业有限责任公司，以市场主体身份参与政府与学校商业采购招标。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 48)]]
+> - **免税利润捐赠通道（Tax-exempt Internal Transfer）** 商业公司将扣除运营成本、高管津贴与顾问费后的账面营业利润，以“免税慈善捐赠”名义全额转移给母体信托，完全规避 28% 企业所得税。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 49)]]
+> - **双重保密与问责屏障（Dual Shield from OIA）** 商业公司受商业保密保护，信托受民间结社自治保护，二者均免受《官方信息法》（OIA）无条件披露约束。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 53)]]
+
+> [!logic-map]- 要素关系
+> ```mermaid
+> flowchart TD
+>     A["顶层注册慈善信托<br>免税资质与公益声誉"] -->|100% 股权全资控股| B["底层商业有限责任公司<br>市场竞标与业务交付"]
+>     B -->|承接政府采购与学校合同| C["公费教育资金与商业营业额"]
+>     C -->|支付薪酬与顾问版税| D["高管高额津贴与学者顾问费"]
+>     C -->|账面利润作为慈善捐赠免税回流| A
+>     A -->|资本沉淀于金融市场再投资| E["推高千万级账面净资产<br>仅以 1% 极微量资助基层学校"]
+> ```
+
+---
+
+## 围绕概念形成的命题
+
+---
+
+### 命题一　双层法人架构使商业管理组织能够合法规避企业所得税并实现免税资本内部留存
+
+> [!concept-lens] 税收套利与资本积累机制
+> 探讨[[Educational Management Organisation|教育管理组织]]如何利用非营利法漏洞将公共采购预算转化为免税留存财富。
+
+> [!claim] O'Neill et al.
+> **内部税收套利闭环** 通过将营利公司营业利润全额包装为对母体慈善信托的捐赠，双层法人组织在法律上将企业所得税税负压低至零，并将数千万元公共资金沉淀于信托账户用于金融投资，并未按政策承诺返还基层公立学校。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 47–53)]]
+
+> [!claim] Poirier, F.
+> **混合法人的营利转化** 现代非营利组织通过设立营利子公司创造了一种混合型制度形态，使私营资本能够在享受国家税收优惠政策的同时，获取公共服务特许权与资产增殖优势。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 25–26)]]
+
+---
+
+### 命题二　双层法人架构架空了公众民主监督并将教育管理组织转化为公费资金的净抽取者
+
+> [!concept-lens] 问责真空与福利契约侵蚀
+> 聚焦双层架构如何绕过行政信息公开法案，导致公共教育资源被系统性抽吸。
+
+> [!claim] O'Neill et al.
+> **公共教育资源净抽取** 商业教育管理组织从公立学校系统取走的采购资金远高于其以转包服务和微薄捐赠形式返还的价值，其实质是从公立系统净抽取资源，动摇了免费义务教育的社会契约。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 18, 134–136)]]
+
+> [!claim] [[Stephen Ball|Ball, S.]] J.
+> **[[Network Governance|网络治理]]对民主审计的遮蔽** 当教育管理组织采用复杂的双层架构并在闭门网络中协商合同时，传统的议会听证与代议制民主审计机制完全失效，公共政策议程被商业资本的隐性利益所俘获。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 22–24)]]
+
+---
+
+### 命题总览
+
+> [!contrast-table] 所有命题归纳
+> | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
+> |---|---|---|---|
+> | **税收套利命题** | 双层架构通过内部关联捐赠规避企业所得税并沉淀巨额资本 | 基础教育服务外包、数字研训采购与非营利信托治理 | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]]; Poirier (2013) |
+> | **资本净抽取与问责真空命题** | 免受信息法约束导致民主监督架空，EMO 成为公费教育的净汲取者 | 公立学校外包外生私有化、特许经营与网络治理改革 | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]]; Ball (2012) |
+
+---
+
+## 概念演变
+
+> [!dev-timeline] 概念演变
+> - **1957 年 — 新西兰《慈善信托法》颁布** 确立了慈善信托作为独立法人团体的合法地位，为民间社会力量参与教育救济提供法律框架。
+> - **2005 年 — 新西兰《慈善法》改革** 设立慈善服务局（Charities Services），允许慈善信托设立全资子公司参与商业竞标，但未对关联交易与最低支出率做出硬性限制。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 47–48)]]
+> - **2008–2015 年 — 双层法人 [[Educational Management Organisation|EMO]] 规模极速扩张** 科[[Cognition Education|认知教育]]（Cognition）与核心教育（CORE）通过双层架构承揽上千万元国家教育部合同，累积数千万元免税留存资产。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 88–103)]]
+> - **2016 年 — 批判政策社会学实证解构** [[John O'Neill|约翰·奥尼尔]]等学者在全国调研中首次在法理与实质经济学层面揭穿双层法人架构的资本净汲取本质。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 18, 134–136)]]
+
+---
+
+## 争议与批评
+
+> [!debates] 学术争议
+>
+> > [!axis] 自营筹资反哺公益 vs 侵蚀国家税基与公办教研
+> > 允许慈善信托涉足商业经营究竟是拓宽了社会公益资源，还是侵蚀了公共教育财政。
+> >
+> > - **新自由主义治理倡导者（2008）** 允许慈善机构设立商业公司能引入企业家精神与灵活性，减少公立官僚浪费并通过自营利润反哺社会公益。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 18)]]
+> > - **批判教育政策学者（2016）** 商业 [[Educational Management Organisation|EMO]] 对外实际捐赠率常年低至 1% 左右，大部分利润被用于资本内部增殖与高管薪酬，实质是打着慈善旗号侵蚀国家税基并抽吸教育公款。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 18, 134–136)]]
+
+> [!critique] 外部批评
+> - **架空《官方信息法》的黑箱运作** 新西兰教育工会与公共法学者严正指出，双层法人组织享受国家财政全额资助与免税特权，却利用公司保密法阻碍公众调阅其项目成本核算与人员报酬，形成了严重的民主监督真空。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 134–135)]]
+
+> [!warning] 适用局限
+> 该概念高度依附于普通法系（Common Law）对慈善信托法人资格及商业投资行为的宽松规制环境，在实行严格非营利财产隔离与禁止商业控股的大陆法系国家中缺乏直接对应的制度外壳。
+
+---
+
+## 实证数据
+
+> [!ref-table]- 其他实证结果（无[[Effect Size|效应量]]）
+> <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
+>
+> | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
+> |---|---|---|---|---|---|---|
+> | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] | 新西兰本土两大典型双层法人 [[Educational Management Organisation\|EMO]]（Cognition 与 CORE），2015 财务年度 | 纵向公开财务审计与数据库穿透分析 | 商业营业收入、账面净利润、信托留存净资产、对外实质慈善捐赠及占比 | 科认知教育总营收 $2,809 万 NZD，信托留存净资产 $1,823 万 NZD，对外实际捐赠 $25.1 万 NZD（占总营收 0.9%）；核心教育总营收 $2,275 万 NZD，信托留存净资产 $408 万 NZD，对外实际捐赠 $29.5 万 NZD（占总营收 1.3%） | 官方注册财务报表备案审计值 | 揭示双层法人架构下两家机构对外实际助学支出均仅维持在营收 1% 左右的极微量水平，证实其公款资本净汲取特征 |
+
+---
+
+## 相关研究
+
+> [!evidence-grid-a] [[Correlational Research|相关研究]]索引
+> - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统审计新西兰 6,059 家教育慈善实体与典型双层法人[[Educational Management Organisation|教育管理组织]]，揭示慈善信托全资控股商业子公司的避税与资本积累闭环。

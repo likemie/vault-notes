@@ -10,7 +10,7 @@ Total entries: **804**
 |---|---:|
 | Fact entries | 804 |
 | Regions / contexts | 43 |
-| Fact types | 8 |
+| Fact types | 7 |
 
 ## Region Hotspots
 
@@ -33,12 +33,11 @@ Total entries: **804**
 
 | Type | Entries |
 |---|---:|
-| Organization | 222 |
+| Organization | 225 |
 | Policy | 217 |
 | Program | 211 |
 | Event | 146 |
 | Institution | 3 |
-| Unknown | 3 |
 | Document | 1 |
 | System | 1 |
 
@@ -675,9 +674,12 @@ Total entries: **804**
 > - [[Treasury Briefing on Student-Teacher Ratios]] — 2011 年 NZ Treasury 援引 Hattie VL 证据建议增加生师比以释放资金，O’Neill 以此为案例揭示教育研究证据在政策论述中的实质谬误
 > - [[Visible Learning Branding and Global Influences]] — Visible Learning 从新西兰学术成果扩展为跨国品牌与培训产业，经历 VLplus 商业化、Corwin 收购和多国政策采纳，并伴随持续制度争议。
 
-> [!index-list]- Organization (2)
+> [!index-list]- Organization (5)
 > - [[Cognition Education]] — 1989 年新西兰明日学校改革催生的教育服务机构 历经从 Multi Serve 准市场承包商到跨国教育管理组织的演进 后通过专营 Visible Learningplus 知识品牌与全球授权实现资本扩张 并因双层免税信托架构与政商学术旋转门长期处于公益合法性与商业寻租的激烈争议之中
 > - [[Manaiakalani Education Trust]] — 2011 年在奥克兰成立的教育慈善信托，采用教育者与非教育者混合受托人治理结构，通过风险慈善与科技企业赞助开展数字化学习项目，并将部分设备采购与运营成本转嫁给低收入原住民家庭。
+> - [[New Zealand Initiative]] — 新西兰核心的亲市场与自由意志主义政策智库，2012 年由新西兰商业圆桌会议与新西兰研究所合并成立，由数十家顶级跨国企业资助；在新西兰基础教育私有化、特许学校（PSKH）、国家标准统测与教师绩效工资政策制定中发挥核心游说与政策创业功能。
+> - [[NEXT Foundation]] — 新西兰代表性的战略风险慈善基金会，2014 年由商业慈善家 Plowman 夫妇注资 1 亿新西兰元设立，采用独特的 10 年散尽本金策略与企业化治理团队，重点投资薄弱校校长战略规划（Springboard Trust）、数字化外包（Manaiakalani Outreach）与替代师训项目，深刻重塑了公立教育的外部治理生态。
+> - [[Springboard Trust]] — 新西兰专注于公立学校领导力重塑的专业教育慈善信托，由前麦肯锡合伙人 Ian Narev 创设，开创了由跨国商界高管作为“能力伙伴”一对一辅导薄弱学校长撰写商业战略规划的模式，依托 NEXT 基金会等风险资本深度介入公立学校内部治理。
 
 > [!index-list]- Policy (8)
 > - [[Contestable School Support Services]] — 教育部将原先由大学教育学院提供的学校支持服务合同转为竞争性招标，CORE Education 显著受益，收入从 USD 7.8M 增至 USD 22.7M
@@ -696,11 +698,6 @@ Total entries: **804**
 > - [[Teach First New Zealand]] — 2011 年创设的初级教师教育与领导力培育慈善信托，面向顶尖大学毕业生推行两年期就业嵌入式师训，获美国对冲基金与跨国 Teach for All 网络支持，依托教育部与公立大学伙伴关系向弱势学校输送教师。
 > - [[Teaching and Learning Research Initiative]] — 新西兰政府于 2003 年设立的国家级教育研究专项基金，以研究者与一线教师平等的伙伴关系与知识共创为刚性资助门槛，旨在提升教学实践质量并构建本土教研能力
 > - [[Visible Learning Meta-X]] — 约翰·哈蒂主持维护的全球最大教育元分析汇聚数据库，系统收录 2,100 余项教育元分析的综合效应量、纳入研究数与学生样本量，为可见的学习框架提供核心实证基础，并作为二阶元分析研究的重要数据来源。
-
-> [!index-list]- Unknown (3)
-> - [[New Zealand Initiative]] — 新西兰核心的亲市场与自由意志主义政策智库，2012 年由新西兰商业圆桌会议与新西兰研究所合并成立，由数十家顶级跨国企业资助；在新西兰基础教育私有化、特许学校（PSKH）、国家标准统测与教师绩效工资政策制定中发挥核心游说与政策创业功能。
-> - [[NEXT Foundation]] — 新西兰代表性的战略风险慈善基金会，2014 年由商业慈善家 Plowman 夫妇注资 1 亿新西兰元设立，采用独特的 10 年散尽本金策略与企业化治理团队，重点投资薄弱校校长战略规划（Springboard Trust）、数字化外包（Manaiakalani Outreach）与替代师训项目，深刻重塑了公立教育的外部治理生态。
-> - [[Springboard Trust]] — 新西兰专注于公立学校领导力重塑的专业教育慈善信托，由前麦肯锡合伙人 Ian Narev 创设，开创了由跨国商界高管作为“能力伙伴”一对一辅导薄弱学校长撰写商业战略规划的模式，依托 NEXT 基金会等风险资本深度介入公立学校内部治理。
 
 ## Norway
 

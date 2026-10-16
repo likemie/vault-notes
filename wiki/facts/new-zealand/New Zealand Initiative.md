@@ -7,42 +7,46 @@ aliases:
   - The New Zealand Initiative
 summary: "新西兰核心的亲市场与自由意志主义政策智库，2012 年由新西兰商业圆桌会议与新西兰研究所合并成立，由数十家顶级跨国企业资助；在新西兰基础教育私有化、特许学校（PSKH）、国家标准统测与教师绩效工资政策制定中发挥核心游说与政策创业功能。"
 type: fact
-region: new-zealand
+subtype: organization
+region: "new-zealand"
 fact_region: "new-zealand"
-fact_kind: "unknown"
-fact_related_count: 18
+fact_kind: "organization"
+fact_related_count: 19
 fact_related_level: 1
 fact_related_stars: "⭐"
-fact_related_color: "#e5e7eb"
-fact_category: "institution"
+fact_related_color: "#dcfce7"
+org_type: "think-tank"
+headquarters: "Wellington, New Zealand"
+established: "2012"
 tags:
-  - fact/institution
+  - fact/organization
   - region/new-zealand
   - theme/policy-network
   - theme/educational-policy-reform
   - theme/privatisation
 related_concepts:
-  - "[[Policy Network]]"
-  - "[[Policy Entrepreneur]]"
+  - "[[Endogenous and Exogenous Privatisation]]"
+  - "[[School Choice]]"
+  - "[[New Public Management]]"
+  - "[[Grandes Ecoles]]"
+  - "[[Research Problem]]"
+  - "[[Discourse]]"
   - "[[Performance Pay]]"
   - "[[Public-Private Partnership]]"
-  - "[[Discourse]]"
-  - "[[Endogenous and Exogenous Privatisation]]"
-  - "[[Network Governance]]"
-  - "[[New Public Management]]"
-  - "[[Performance Indicators]]"
-  - "[[Venture Philanthropy]]"
-related_theories: []
+  - "[[Competitiveness]]"
+  - "[[Paradigm]]"
+  - "[[Policy Network]]"
+related_theories:
+  - "[[Human Capital Theory]]"
 related_methods: []
 related_instruments: []
 related_persons:
   - "[[Stephen Ball]]"
-  - "[[Michael Barber]]"
 related_facts:
   - "[[Business Roundtable]]"
-  - "[[Tomorrow's Schools Reforms]]"
   - "[[Centre for Independent Studies]]"
   - "[[Partnership Schools Kura Hourua]]"
+  - "[[Tomorrow's Schools Reforms]]"
   - "[[Teach First New Zealand]]"
 related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
@@ -53,103 +57,116 @@ updated: 2026-10-16
 
 # New Zealand Initiative
 
-## 机构概况与历史沿革
+---
 
-**新西兰倡议（The New Zealand Initiative, NZI）**，通称**新西兰倡议智库**，是新西兰最具影响力的亲市场（Pro-market）与自由意志主义（Libertarian）公共政策智库，总部设于新西兰惠灵顿。
+## 机构定位与宗旨
 
-该智库于 2012 年由两大颇具历史影响力的商业游说机构重组合并而成：
-1. **新西兰[[Business Roundtable|商业圆桌会]]议（New Zealand Business Roundtable, NZBR）** 曾是 1980 年代末新西兰激进推行“罗杰经济学”（Rogernomics）与 1989 年“明日之校”改革（[[Tomorrow's Schools Reforms|Tomorrow's Schools]]）的核心企业智囊机构，主张彻底打破行政垄断并引入市场选择；
-2. **新西兰研究所（New Zealand Institute）** 由商业领袖资助、聚焦长期国家经济繁荣与生产率增长的研究团体。
+> [!claim] 核心定位
+> 新西兰倡议（The New Zealand Initiative, NZI）是新西兰首屈一指的亲市场（Pro-market）与自由意志主义公共政策智库，由大型私营企业财团出资设立，致力于通过政策研究、媒体公关与跨界精英网络，推动新自由主义经济改革、去规制化与公立[[Endogenous and Exogenous Privatisation|教育私有化]]进程。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 52–53, 70–71)]]
 
-合并后的新西兰倡议智库积极进行品牌重塑，全面对标[[Centre for Independent Studies|澳大利亚独立研究中心]]（Centre for Independent Studies, CIS）以及英国政策交流智库（Policy Exchange），旨在摆脱传统“企业利益游说团”（Lobby Group）的刻板形象，自我定位为秉持严谨实证研究与思想领导力（Thought Leadership）的独立公共政策学术机构。
+> [!org-context] 机构背景
+> - **成立时间 / 创设背景** 2012 年成立。由 1980 年代力推“罗杰经济学”的新西兰[[Business Roundtable|商业圆桌会]]议（NZBR）与新西兰研究所合并重组，对标[[Centre for Independent Studies|澳大利亚独立研究中心]]（CIS）进行现代化品牌包装。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 52)]]
+> - **总部地点 / 业务辐射** 总部位于新西兰首都惠灵顿，业务覆盖新西兰全国宏观经济、劳动力市场与各级教育政策辩论。
+> - **法人属性与经费基础** 依据新西兰法律注册的非营利性独立智库；不接受政府财政资助，运营经费完全来自私营企业会员年费与专属商业捐助。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 52)]]
+> - **核心宗旨与法定职责** 宣称旨在通过维护市场经济、选择自由与健全制度，促进新西兰的长期繁荣；在教育领域主张引入市场竞争、扩大家长[[School Choice|择校]]权、推行绩效薪酬与特许办学。
 
 ---
 
-## 资助网络与商业财团背景
+## 历史沿革与组织演变
 
-新西兰倡议智库的经费与治理结构呈现出高度纯粹的私营商业资本属性：
-
-### 1. 企业会员与资助主体矩阵
-智库完全依靠企业会员的年度会费与专属项目资助运营，其成员构成了新西兰最庞大的私营企业财团网络（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]，pp. 52–53）：
-- **金融与专业服务机构** 澳新银行（ANZ）、新西兰银行（BNZ）、西太平洋银行（Westpac）、克雷格投资伙伴（Craig’s Investment Partners）、德勤（Deloitte）、普华永道（PwC）、安永（EY）、贝尔古利律师事务所（Bell Gully）、查普曼特里普律师事务所（Chapman Tripp）；
-- **跨国科技与电信巨头** 谷歌（Google）、微软（Microsoft）、斯帕克电信（Spark New Zealand）、沃达丰（Vodafone）；
-- **支柱工业与农业垄断企业** 恒天然乳业（Fonterra）、弗莱彻建筑（Fletcher Building）、新西兰航空（Air New Zealand）、莱恩啤酒（Lion）、新西兰炼油公司（Refining NZ）、帝国烟草（Imperial Tobacco）。
-
-### 2. 跨界治理与政策旋转门
-智库的教育委员会与董事会成员深度渗透至国家公共决策机构与名门公私立学校校董会。例如，智库核心顾问兼资深教育事务专员约翰·泰勒（John Taylor），同时出任新西兰教育部特许学校试点委员会（NZ Model of Charter Schools Committee）核心委员、奥克兰大学发展顾问，并曾长期担任著名私立名校国王学院（King's College）校长，构建起横跨智库、政界与精英办学机构的隐性[[Policy Network|政策网络]]。
-
----
-
-## 在教育政策网络中的核心干预行动
-
-在新西兰国家党（National Party）联立政府执政期间（2008–2017），新西兰倡议智库在新西兰公立基础教育的制度重构中扮演了关键[[Policy Entrepreneur|政策创业者]]角色：
-
-```mermaid
-flowchart TD
-    A["企业会员财团资金<br>ANZ, Google, Microsoft, Fonterra, PwC"] --> B["新西兰倡议智库 (NZI)"]
-    B -->|学术包装与媒体公关| C["公共话语生产<br>教师危机报告 / 市场效能简报"]
-    B -->|闭门立法建议与人脉输送| D["国家党-行动党政策中枢<br>教育部 / 特许学校委员会"]
-    C --> E["教育外生与内生私有化落地"]
-    D --> E
-    E --> F["特许学校试点 (PSKH)"]
-    E --> G["教师绩效工资与解约机制倡导"]
-    E --> H["国家标准量化统测问责 (National Standards)"]
-```
-
-### 1. 特许学校试点的立法倡导与辩护
-新西兰倡议智库是新西兰引入特许学校（[[Partnership Schools Kura Hourua]], PSKH）的主要外部推手。智库撰写了一系列政策报告，援引美英特许学校（Charter Schools）与自由学校（Free Schools）的国际文献，主张打破公费公立学校的地域生源垄断，允许民间企业、信托基金会与部落实体依据商业合同设立免受国家课标与教师行业集体协议约束的特许学校。在特许学校遭遇新西兰教师工会（NZEI、PPTA）激烈抵制时，智库持续发布评估评论，为这一制度实验进行合法性辩护。
-
-### 2. 倡导教师绩效工资与打破工会集体合同
-智库多次发布针对新西兰公立教师人事制度的批判报告（例如《新西兰为何流失优秀教师？》），极力鼓吹打破以教龄为基础的全国教师统一薪资协议，主张引入私营企业管理模式，实行基于学生统测分数的教师[[Performance Pay|绩效工资]]制（Performance-related Pay），并赋予校长更便捷地开除所谓“低效教师”的行政裁量权。
-
-### 3. 强化国家标准量化统测与择校数据公开
-智库长期坚定支持推行基础教育“国家标准”（National Standards）与标准化统测工具，要求政府向家长全面公开各校按种族、阶层与学区的细分测验排行榜，通过强化消费者信息披露与家长用脚投票机制，倒逼公立学校展开市场竞争。
+> [!org-evolution] 组织发展历程
+> - **1986–2011 年** **前身机构深耕与[[New Public Management|新公共管理]]奠基**
+>
+>   新西兰[[Business Roundtable|商业圆桌会]]议（NZBR）深度参与 1980 年代末新自由主义国家转型，主导了 1989 年“明日之校”改革的制度设计，倡导彻底打破教育部行政垄断与推行校董会自治。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 52)]]
+>
+>   - **1989 年** 推动新西兰基础教育走向以独立学校为核算单位的新公共管理分权模式。
+>   - **2011 年** 商业圆桌会议与侧重长期生产率研究的新西兰研究所达成合并共识。
+>
+> - **2012 年–至今** **智库品牌重塑与[[Endogenous and Exogenous Privatisation|教育私有化]]政策倡导**
+>
+>   合并成立新西兰倡议（NZI），完成从传统商业游说团向“独立思想领导力研究机构”的转型，深度介入国家党执政时期的基础教育改革。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 52–53)]]
+>
+>   - **2012 年** 智库正式成立，积极游说引入美英特许学校与自由学校模式。
+>   - **2013–2014 年** 全力为新西兰创设特许学校（[[Partnership Schools Kura Hourua]]）提供政策辩护与评估报告。
+>   - **2014–2016 年** 发布系列教师政策报告，极力主张打破全国统一工会薪资协议并实行绩效挂钩。
 
 ---
 
-## 政策社会学批判：商业利益包装与民主问责削弱
+## 治理架构与运行机制
 
-在教育政治经济学与批判社会学视角下，以奥尼尔（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）与[[Stephen Ball|斯蒂芬·鲍尔]]（[[Stephen Ball]]）为代表的学者对新西兰倡议智库的运作逻辑展开了深刻反思：
+> [!actor-grid] 组织治理架构
+> - **董事会与决策层** 由新西兰商界领袖与前跨国高管组成，包括主要商业银行、建筑巨头与大型律所合伙人。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 52)]]
+> - **教育专责审议委员会** 设立由资深私立名校前校长、[[Grandes Ecoles|大学校]]董及特许学校试点委员会官方委员（如 John Taylor）组成的教育战略委员会，负责对接教育部官员与立法草案。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 55–56)]]
+> - **企业会员资助网络** 涵盖新西兰前 50 大跨国企业与商业巨头（ANZ、BNZ、Westpac、Deloitte、PwC、EY、Google、Microsoft、Fonterra、Fletcher Building、Air New Zealand 等）。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 52–53)]]
 
-### 1. “非利益游说”的表象与意识形态霸权
-智库在章程与公报中宣称：“我们是一家企业支持的研究机构，但我们不是利益游说团体；我们在政策辩论中引入亲市场视角，而不迎合具体公司利益……若没有新西兰倡议智库，这一代表国家长期繁荣的声音将不复存在。”
-
-批判学者指出，这一表述是一种精密的合法化修辞策略：
-- 智库将新自由主义对公共教育的商品化重构，伪装为超越党派利益的客观经济科学与“公共利益”；
-- 实际上，其所大力推动的特许学校、校舍公私合作（[[Public-Private Partnership|PPP]]）、外包培训与教育软件采购，直接为为其出资的银行、建筑财团、跨国科技企业与咨询中介开辟了庞大的公费教育政府采购市场。
-
-### 2. 闭门网络治理对公共民主协商的替代
-新自由主义智库并不依赖公开的议会听证或面对基层教师群体的广泛民主商榷，而是借助跨界高层人脉网络、媒体专栏发声与非正式闭门研讨（Chatham House 规则），直接将政策文本嵌入政府法案草案。这一运作模式架空了新西兰传统公立教育赖以维系的工会集体协商与社区治理民主传统，使处于弱势地位的毛利、太平洋岛裔社区与基层教师群体在教育治理中的发言权进一步被边缘化。
+> [!pathways]- 业务运行机制
+> - **议程设置与选题** 紧密跟踪中央政府执政联盟的立法窗口，针对基础教育财政支出、学业测评与师资人事制度瓶颈，快速制定亲市场政策[[Research Problem|研究议题]]。
+> - **闭门协商与立法渗透** 依托跨界精英高管网络与查塔姆研究所（Chatham House）规则举行闭门研讨会，绕过教师工会直接向内阁部长及高级文官输送政策备忘录。
+> - **媒体公关与舆论造势** 通过商业媒体专栏、突发新闻稿与广播访谈高密度发声，制造“公立教育深陷平庸”、“优秀教师因缺乏竞争而流失”的危机叙事。
 
 ---
 
-## 关键引用
+## 核心业务与旗舰产出
 
-> [!citation-card] 亲市场智库的品牌重构与教育政策创业
-> 在新西兰，自由意志主义‘亲市场’智库新西兰倡议（前身为新西兰[[Business Roundtable|商业圆桌会]]议）自 2012 年以来积极重塑品牌，向其澳大利亚的对标机构独立研究中心（CIS）靠拢。它将自身包装为一个研究与思想领袖型政策行动者，竭力将自身置于本土国家现代化与公立教育政策改革的[[Discourse|话语]]中枢……虽然其会员涵盖了新西兰主要跨国银行、电信与咨询财团，却声称自己在政策辩论中不代表任何具体行业利益，从而为特许学校与市场化问责提供了源源不断的政策正当性修辞。（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 52–53]], 70–71）
+> [!finding-cards] 核心产品与业务矩阵
+> - **政策研究报告与专著** 出版《世界一流教育？新西兰为何必须投资竞争》（*World Class Education?*）、《新西兰为何流失优秀教师？》等高影响力报告。
+> - **立法蓝本与政策简报** 为行动党（ACT）与国家党执政联盟起草特许学校合作合同范本与赞助者准入规程。
+> - **年度商业与政策峰会** 定期举办高规格研讨会，邀请国际新自由主义思想领袖与海外特许学校运营者来新西兰布道。
+
+> [!citation-card] 代表性章程／使命宣言
+> 新西兰倡议在新西兰的政策辩论中占据着独特的生态位。我们是一家由企业支持的研究机构，但我们不是利益游说团体。正因如此，我们在政策辩论中引入亲市场视角，而不迎合具体行业或公司的利益。这种声音在政治辩论中不可或缺，若没有新西兰倡议，它将不复存在。我们的成员致力于新西兰的长期繁荣，并愿意为公共利益做出贡献。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 52)]]
+>
+> *The New Zealand Initiative occupies a unique spot in New Zealand debates. We are a business-backed research organisation but we are not a lobby group. As such, we bring a pro-market perspective to policy debates without pushing specific industries or companies’ interests.*
+
+---
+
+## 影响与体系成效
+
+> [!indicators]- 影响力维度与指标
+> - **资助财团网络规模** 汇集新西兰 50 余家前沿跨国金融、科技、农业与工业支柱企业作为全额资助会员。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 52–53)]]
+> - **政策制度转化率** 其倡导的特许学校试点（[[Partnership Schools Kura Hourua|PSKH]]）被新西兰国家党-行动党执政联盟正式立法采纳。
+> - **主流媒体曝光率** 在新西兰主流商业报刊与电视媒体中关于教育改革与师资质量的辩论中占据极高的引用频次。
+
+> [!finding-cards] 关键成效与辐射影响
+> - **制度突破** 强力打破了新西兰公立基础教育由公立校董会唯一垄断供给的传统格局，催生了特许学校（[[Partnership Schools Kura Hourua]]）的制度落地。
+> - **[[Discourse|话语]]重塑** 成功将企业化[[Performance Pay|绩效工资]]制（Performance-related Pay）、解约灵活性与标准化量化排行榜注入国家教育公共议程。
+> - **公共福利削弱** 协同跨国咨询财团构建合法性修辞，促成国家财政将基础教育重新界定为“部分补贴”的购买方角色。
+
+> [!stat-cards]- 核心规模数据
+> - **50+ 家** 全额资助会员企业数量，涵盖新西兰商业总产值半壁江山。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 52)]]
+> - **10 所** 国家党执政期间依据其政策理念首批批准试点的特许学校数量。
+
+---
+
+## 争议、批评与反思
+
+> [!debates] 核心争议交锋
+>
+> > [!axis] 独立思想领袖 vs 商业利益集团游说白手套
+> > 智库是否真正超越了资助其运作的跨国公司的狭隘商业利益。
+> >
+> > - **批评视角（批判教育社会学）** 智库所鼓吹的特许学校、校舍公私合营（[[Public-Private Partnership|PPP]]）与数字工具采购，直接为出资赞助它的银行、建筑财团、跨国科技企业开辟了庞大的政府采购商机，其“非游说”宣称仅是一种精密的公关修辞。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 52–53, 70–71)]]
+> > - **智库立场（正方）** 坚称研究严格立足实证经济学证据，不代表任何特定企业利益，其主张是提升国家[[Human Capital Theory|人力资本]][[Competitiveness|竞争力]]的唯一出路。
+
+> [!citation-card] 代表性批评与反思文献
+> 在新西兰，自由意志主义‘亲市场’智库新西兰倡议自 2012 年以来积极重塑品牌，将其自身包装为研究与思想领袖型政策行动者……虽然其会员涵盖了新西兰主要跨国银行、电信与咨询财团，却声称自己在政策辩论中不代表任何具体行业利益，从而为特许学校与市场化问责提供了源源不断的政策正当性修辞。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 52–53)]]
+>
+> *NZI has energetically rebranded to position itself as a research and thought leadership policy actor, in an effort to position itself centrally within the local modernising the state [[Discourse]]... bringing a pro-market perspective without pushing specific companies' interests.*
 
 ---
 
 ## 相关条目网络
 
-### 政策制度与倡导改革
-- [[Partnership Schools Kura Hourua]]
-- [[Endogenous and Exogenous Privatisation]]
-- [[Tomorrow's Schools Reforms]]
-- [[Teach First New Zealand]]
-
-### 治理范式与分析框架
-- [[Policy Network]]
-- [[Policy Entrepreneur]]
-- [[Network Governance]]
-- [[New Public Management]]
-- [[Performance Indicators]]
-- [[Discourse]]
-
-### 跨国思想与行动者
-- [[Stephen Ball]]
-- [[Michael Barber]]
-- [[Venture Philanthropy]]
+> [!entry-map]
+>
+> | 条目 | 类型 | 关系 |
+> |:-----|:-----|:-----|
+> | [[Endogenous and Exogenous Privatisation]] | Concept | 该智库倡导的核心教育治理转型[[Paradigm\|范式]]。 |
+> | [[Policy Network]] | Concept | 智库赖以运作的跨界精英与政商协同关系。 |
+> | [[Partnership Schools Kura Hourua]] | Fact (Policy) | 该智库全力游说并促成设立的特许学校法案与试点。 |
+> | [[Tomorrow's Schools Reforms]] | Fact (Event) | 智库前身新西兰[[Business Roundtable\|商业圆桌会]]议直接参与催生的分权改革。 |
+> | [[Teach First New Zealand]] | Fact (Organization) | 智库资助网络与跨界董事高度重叠的替代师训实体。 |
+> | [[Stephen Ball]] | Person | 系统剖析亲市场智库政策网络运作机制的批判教育社会学家。 |
 
 ---
 

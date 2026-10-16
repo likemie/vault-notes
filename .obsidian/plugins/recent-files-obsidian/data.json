@@ -5,6 +5,10 @@
       "path": "wiki/arguments/reports-policy-documents/Argument_ONeill_2016_Report.md"
     },
     {
+      "basename": "New Pedagogies for Deep Learning",
+      "path": "wiki/concepts/instruction-pedagogy/New Pedagogies for Deep Learning.md"
+    },
+    {
       "basename": "Efficacy Framework",
       "path": "wiki/concepts/educational-policy-reform/Efficacy Framework.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Action Research",
       "path": "wiki/methods/mixed/Action Research.md"
-    },
-    {
-      "basename": "Structured Observation",
-      "path": "wiki/methods/qualitative/Structured Observation.md"
     }
   ],
   "omittedPaths": [],

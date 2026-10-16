@@ -31011,6 +31011,35 @@
     ]
   },
   {
+    "title": "New Zealand Initiative",
+    "type": "fact",
+    "path": "wiki/facts/new-zealand/New Zealand Initiative.md",
+    "aliases": [
+      "新西兰倡议",
+      "新西兰倡议智库",
+      "NZI",
+      "The New Zealand Initiative"
+    ]
+  },
+  {
+    "title": "NEXT Foundation",
+    "type": "fact",
+    "path": "wiki/facts/new-zealand/NEXT Foundation.md",
+    "aliases": [
+      "内克斯特基金会",
+      "NEXT 基金会"
+    ]
+  },
+  {
+    "title": "Springboard Trust",
+    "type": "fact",
+    "path": "wiki/facts/new-zealand/Springboard Trust.md",
+    "aliases": [
+      "跳板信托",
+      "新西兰跳板信托"
+    ]
+  },
+  {
     "title": "Contestable School Support Services",
     "type": "fact",
     "path": "wiki/facts/new-zealand/Contestable School Support Services.md",
@@ -31147,35 +31176,6 @@
       "Visible Learning MetaX",
       "可见的学习元分析数据库",
       "VL Meta-X"
-    ]
-  },
-  {
-    "title": "New Zealand Initiative",
-    "type": "fact",
-    "path": "wiki/facts/new-zealand/New Zealand Initiative.md",
-    "aliases": [
-      "新西兰倡议",
-      "新西兰倡议智库",
-      "NZI",
-      "The New Zealand Initiative"
-    ]
-  },
-  {
-    "title": "NEXT Foundation",
-    "type": "fact",
-    "path": "wiki/facts/new-zealand/NEXT Foundation.md",
-    "aliases": [
-      "内克斯特基金会",
-      "NEXT 基金会"
-    ]
-  },
-  {
-    "title": "Springboard Trust",
-    "type": "fact",
-    "path": "wiki/facts/new-zealand/Springboard Trust.md",
-    "aliases": [
-      "跳板信托",
-      "新西兰跳板信托"
     ]
   },
   {
