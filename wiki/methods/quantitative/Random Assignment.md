@@ -40,6 +40,7 @@ related_concepts:
   - "[[Research Ethics]]"
   - "[[Open-Mindedness]]"
   - "[[Comparative Education as a Cross-Sectional Area]]"
+  - "[[Class Size]]"
 related_theories:
   - "[[Critical Realism]]"
 related_methods:
@@ -65,10 +66,12 @@ related_methods:
   - "[[Mechanism Experiments]]"
 related_persons:
   - "[[Michael Kratsios]]"
+  - "[[John Hattie]]"
 related_facts:
   - "[[United Kingdom Metascience Unit]]"
   - "[[Office of Science and Technology Policy]]"
   - "[[Education Endowment Foundation]]"
+  - "[[Tennessee STAR Project 1985-1989]]"
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
@@ -76,10 +79,12 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
+  - "[[Argument_Snook_2009_NZJES]]"
+  - "[[Argument_Hattie_2010_NZJES]]"
 confidence: high
 status: active
 created: '2026-05-31'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Random Assignment
@@ -106,6 +111,11 @@ updated: 2026-10-16
 > 在科学资助领域，随机分配正演化为克服同行评议偏误的新型治理工具。[[United Kingdom Metascience Unit|英国元科学单元]]（UK [[Metascience]] Unit）与白宫科技政策办公室（[[Office of Science and Technology Policy|OSTP]]）推动在达到基本资助门槛的提案中实施‘部分随机化（Partial Randomization / Lotteries）’，以科学实验检验抽签分配能否有效打破共识评审对非共识、高风险颠覆性创新的系统性歧视。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, p. 32)]]
 >
 > *In metascience, partial randomization is tested as an empirical funding mechanism to overcome reviewer noise and support high-variance, non-consensus breakthroughs.*
+
+> [!citation-card] 田纳西 STAR 项目的双重随机分配基准
+> 田纳西州师生学业成就比率研究（STAR）覆盖全州 76 所公立小学，对 6,750 名儿童和教师实行了真正的双重随机分配，将学生与教师同时随机指派至小班（13–17 人）或常规班（22–25 人）。芬恩与阿基里斯（Finn & Achilles, 1990）证实，这一严格消除选择偏误的随机分配设计在幼儿园至小学三年级（K–3）取得了 $d = 0.62$ 至 $0.66$ 的显著因果效应量。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 100)]]
+>
+> *The Project STAR experiment involved true random assignment of both teachers and children to classes... producing substantial achievement effect sizes of 0.62 to 0.66.*
 
 ---
 
@@ -176,6 +186,12 @@ updated: 2026-10-16
 > 2. **匹配子集拆解的幻灭** 当研究者筛选出前测分数完全相同的同质学生子集重新比对时，两组净效应量骤降为 $+0.00$ SD。
 > 这一案例实证表明：不经严格基线细分核验的随机分配极易沦为统计伪像，凸显了对随机化质量进行全流程审计的必要性。[[Argument_Wrigley_2018_BERJ|(Wrigley, 2018, p. 5)]]
 
+> [!case] 黄金标准随机分配的二阶稀释困境：田纳西 STAR 与元分析均值的张力
+> 随机分配作为确立因果推断内部效度的黄金标准，在宏观教育政策应用中面临显著的二阶稀释困境：
+> 1. **双重随机分配确立的强因果效应** 田纳西州 STAR 项目（Finn & Achilles, 1990）作为教育史上极少数对数千名师生同时实现真随机分配的标志性实验，确证了在关键早期学段（K–3）大幅压缩[[Class Size|班级规模]]（13–17 人）具有高达 $d = 0.62 \sim 0.66$ 的因果增益，且该增益在随后的求学阶段展现出长期保持性。
+> 2. **二阶元分析的无差别均值抹平** 然而在宏观证据综合中，[[John Hattie|约翰·哈蒂]]（John Hattie, 2009）将此类严谨落实双重随机分配的黄金标准研究，与大量非随机化、微小降班（如 25 人降至 23 人）以及不敏感高年级学段的研究笼统合并，得出班级规模效应量仅为 $d \approx 0.20$ 的微弱平均数，并据此得出缩减班级规模性价比极低的政策结论。
+> 3. **因果纯度与宏观概括的认识论分裂** 伊万·斯努克（Ivan Snook）等学者（2009）指出，这种将高质量随机分配试验与弱设计混杂合并的二阶元分析做法，实质上架空并稀释了初级实验通过严格随机化所辛苦建立的纯净因果结论；哈蒂（Hattie, 2010）则回应辩称，即便随机分配改变了物理班额，若教师未能相应调整教学行为，大规模财政投入依然效率低下。这揭示出微观严格随机分配实验与宏观二阶政策指引之间的深刻张力。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 100–101)]]; [[Argument_Hattie_2010_NZJES|(Hattie, 2010, pp. 90–91)]]
+
 ---
 
 ## 相关条目网络
@@ -190,6 +206,9 @@ updated: 2026-10-16
 > | [[United Kingdom Metascience Unit]] | Fact (Org) | 将随机分配方法创新应用于科研资助抽签实验的国家级专门机构。 |
 > | [[Metascience]] | Concept | 运用随机化分配与因果[[Experimental Research\|实验研究]]科研体制本身的[[Comparative Education as a Cross-Sectional Area\|交叉学科]]前沿。 |
 > | [[Michael Kratsios]] | Person | 在白宫 [[Office of Science and Technology Policy\|OSTP]] 报告中倡导运用部分随机化资助实验破除同行评议避险偏误。 |
+> | [[Tennessee STAR Project 1985-1989]] | Fact (Project) | 教育史上极少数对数千名学生与教师同时实行双重真随机分配的标志性实验。 |
+> | [[Class Size]] | Concept | 检验随机分配因果效力与二阶元分析平均数稀释争议的核心政策领域。 |
+> | [[John Hattie]] | Person | 主张班级规模随机分配即使取得统计效应，若无教学法调适则政策效益有限。 |
 
 ---
 
@@ -199,3 +218,5 @@ updated: 2026-10-16
 > - [[Argument_Creswell_2022_SAGE|Creswell and Creswell (2022)]] — 系统阐述在混合实验设计中使用随机数生成器进行真实验随机分配的标准操作规程。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 对 [[Education Endowment Foundation|EEF]] Fresh Start 实验报告进行深度方法学解构，提供“随机分配失衡导致[[Effect Size|效应量]]虚假膨胀”的经典批判案例。
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 系统评述[[United Kingdom Metascience Unit|英国元科学单元]]（UK [[Metascience]] Unit）将部分随机分配（Partial Randomization / Lotteries）应用于政府科研基金资助的[[Mechanism Experiments|机制实验]]，推动因果实验向科学治理自身的延伸。
+> - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 详尽剖析田纳西州 STAR 实验中师生双重真随机分配确立的强因果效应（$d = 0.62 \sim 0.66$），批评二阶元分析将高质量随机实验与低质量研究无差别平均从而掩盖因果真相的方法论缺陷。
+> - [[Argument_Hattie_2010_NZJES|Hattie (2010)]] — 回应班级规模随机分配实验的政策争议，论证仅靠随机化调整物理班额而不变革教学方法无法带来理想的教育产出比。

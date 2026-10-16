@@ -11,9 +11,9 @@ summary: "假定真实效应量服从正态分布并同时分解抽样方差与�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 49
-method_related_level: 4
-method_related_stars: "💎⭐"
+method_related_count: 52
+method_related_level: 5
+method_related_stars: "💎⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/quantitative
@@ -28,10 +28,12 @@ related_concepts:
   - "[[Epistemology]]"
   - "[[Publication Bias]]"
   - "[[Internal and External Generalizability]]"
+  - "[[Visible Learning]]"
   - "[[Sampling Error]]"
   - "[[Category Mistake]]"
   - "[[Commensuration]]"
   - "[[Direct Instruction]]"
+  - "[[Class Size]]"
   - "[[Construct]]"
   - "[[Critical Thinking]]"
   - "[[Generative Artificial Intelligence]]"
@@ -67,19 +69,19 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[Gene Glass]]"
-  - "[[Christof Wecker]]"
   - "[[John Hattie]]"
+  - "[[Christof Wecker]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
   - "[[Argument_Wecker_2016_ZfE]]"
+  - "[[Argument_Snook_2009_NZJES]]"
+  - "[[Argument_Hattie_2010_NZJES]]"
   - "[[Argument_Abrami_2015_RER]]"
   - "[[Argument_Chen_Cheung_2025_ERR]]"
   - "[[Argument_Lei_Ding_Chiu_2026_ERR]]"
   - "[[Argument_Zhao_2025_JIntell]]"
-  - "[[Argument_Snook_2009_NZJES]]"
-  - "[[Argument_Hattie_2010_NZJES]]"
 confidence: high
 status: completed
 created: 2026-06-08
@@ -209,8 +211,8 @@ updated: 2026-10-17
 
 > [!critique-logic] 随机效应模型效应虚增警示与元分析质量审查的随意性
 > 约翰·斯努克（Ivan Snook）等学者从方法论一致性视角，指出了宏观二阶综合在运用随机效应模型时暴露出的标准双标问题：
-> - **模型的选择性警示** 哈蒂在《可见的学习》前言中公开声明不对原始研究开展质量批评；然而在具体章节中，他在课外活动（报告 $d = 0.47$）中明确警示随机效应模型容易人为抬高小研究权重并虚增效应量，在特许学校研究中指出剔除低质量研究后效应量从 $0.2$ 归零（p. 66），在学习风格（$d = 0.41$）中以研究动机可疑为由断然拒绝采信结论（pp. 195–197）。
-> - **方法论一致性的瓦解** 斯努克等（[[Argument_Snook_2009_NZJES|Snook et al., 2009, p. 95]]）指出，哈蒂对随机效应模型放大效应量的敏感性本身表明，单纯依赖效应量数值而不审查底层研究质量在认识论上无法自洽；但在大多数其他领域（如班级规模、家庭背景、教师效能），他又放弃了对随机效应模型敏感度与研究质量的审查。哈蒂（[[Argument_Hattie_2010_NZJES|Hattie, 2010, p. 88]]）辩护称，凡已知质量或模型属性对结果产生实质影响之处均已作标注，但批评者认为这种非系统性的局部警示破坏了二阶综合的客观性准绳。
+> - **模型的选择性警示** [[John Hattie|哈蒂]]在《[[Visible Learning|可见的学习]]》前言中公开声明不对原始研究开展质量批评；然而在具体章节中，他在课外活动（报告 $d = 0.47$）中明确警示随机效应模型容易人为抬高小研究权重并虚增效应量，在特许学校研究中指出剔除低质量研究后效应量从 $0.2$ 归零（p. 66），在学习风格（$d = 0.41$）中以研究动机可疑为由断然拒绝采信结论（pp. 195–197）。
+> - **方法论一致性的瓦解** 斯努克等（[[Argument_Snook_2009_NZJES|Snook et al., 2009, p. 95]]）指出，哈蒂对随机效应模型放大效应量的敏感性本身表明，单纯依赖效应量数值而不审查底层研究质量在[[Epistemology|认识论]]上无法自洽；但在大多数其他领域（如[[Class Size|班级规模]]、家庭背景、教师效能），他又放弃了对随机效应模型敏感度与研究质量的审查。哈蒂（[[Argument_Hattie_2010_NZJES|Hattie, 2010, p. 88]]）辩护称，凡已知质量或模型属性对结果产生实质影响之处均已作标注，但批评者认为这种非系统性的局部警示破坏了二阶综合的客观性准绳。
 
 ---
 
@@ -285,5 +287,5 @@ updated: 2026-10-17
 > - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] — 运用随机效应模型综合 66 项[[Graphic Organizer|图形组织器]]研究，以 Wald 检验与元回归系统解释异质性变异来源。
 > - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] — 运用随机效应模型综合 29 项生成式 AI 对[[Higher-Order Thinking Skills|高阶思维]]影响的实证研究，检验多维情境调节[[Variable|变量]]。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen, Manion & Morrison (2011, Ch. 17)]] — 系统介绍随机效应模型加权机制、$\tau^2$ 估计方法与[[Prediction Interval|预测区间]]解读规程。
-> - [[Argument_Snook_2009_NZJES|Snook et al. (2009, p. 95)]] — 援引 Hattie 在课外活动中对随机效应模型导致效应量虚增的论述，批判宏观二阶综合在模型选择与研究质量审查上的随意性与双重标准。
-> - [[Argument_Hattie_2010_NZJES|Hattie (2010, p. 88)]] — 回应 Snook et al. 批评，辩护元分析处理异质性与质量控制的方法论权能，澄清对模型属性与调节变量的报告策略。
+> - [[Argument_Snook_2009_NZJES|Snook et al. (2009, p. 95)]] — 援引 Hattie 在课外活动中对随机效应模型导致[[Effect Size|效应量]]虚增的论述，批判宏观二阶综合在模型选择与研究质量审查上的随意性与双重标准。
+> - [[Argument_Hattie_2010_NZJES|Hattie (2010, p. 88)]] — 回应 Snook et al. 批评，辩护[[Meta-analysis|元分析]]处理异质性与质量控制的方法论权能，澄清对模型属性与调节变量的报告策略。
