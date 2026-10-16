@@ -5,7 +5,7 @@ aliases:
 summary: "John Hattie 发起的教育证据综合与学校改进框架，主张通过汇总海量元分析建立 d=0.40 关节点相对有效性判准，将教师确立为成就变异的核心因果枢纽（30%），依托学业进阶、显性成功标准与形成性反馈重塑教学评价性判断。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 101
+related_count: 102
 related_level: 10
 related_stars: "💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -30,10 +30,16 @@ related_concepts:
   - "[[Learning Intentions]]"
   - "[[Success Criteria]]"
   - "[[Feedback]]"
+  - "[[Clinical Trial]]"
+  - "[[Public Value]]"
   - "[[Direct Instruction]]"
   - "[[Homework]]"
   - "[[Variable]]"
   - "[[Epistemology]]"
+  - "[[School Effectiveness]]"
+  - "[[School Leadership]]"
+  - "[[Category Mistake]]"
+  - "[[Screening Off]]"
   - "[[Discourse]]"
   - "[[Formative Assessment]]"
   - "[[Evaluative Judgement]]"
@@ -43,8 +49,10 @@ related_concepts:
   - "[[Teacher Professional Agency]]"
   - "[[Barometer of Achievement]]"
   - "[[Performativity]]"
-  - "[[Metascience]]"
   - "[[Class Size]]"
+  - "[[Performance Pay]]"
+  - "[[Disciplina and Doctrina]]"
+  - "[[Metascience]]"
   - "[[Sage]]"
   - "[[Policy Borrowing]]"
   - "[[Automated Data Extraction]]"
@@ -54,19 +62,18 @@ related_concepts:
   - "[[Research Question]]"
   - "[[Commensuration]]"
   - "[[Analytical Stance]]"
-  - "[[Disciplina and Doctrina]]"
   - "[[Heterogeneity]]"
   - "[[Effective Teaching]]"
   - "[[Reproducibility Crisis]]"
   - "[[PICO Framework]]"
+  - "[[Research Scope]]"
+  - "[[Falsification]]"
   - "[[Critical Thinking]]"
   - "[[Growth]]"
   - "[[Criterion-Referenced Test]]"
   - "[[Primary and Secondary Documents]]"
-  - "[[Falsification]]"
   - "[[Scientism]]"
   - "[[Data Infrastructure]]"
-  - "[[School Leadership]]"
   - "[[Research Utilization]]"
 related_theories:
   - "[[Organizational Culture]]"
@@ -84,18 +91,23 @@ related_methods:
   - "[[Confidence Interval]]"
   - "[[Content Analysis]]"
   - "[[Audit Trail]]"
+  - "[[Randomised Controlled Trials]]"
+  - "[[Moderator Analysis]]"
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
 related_persons:
   - "[[John Hattie]]"
   - "[[Christof Wecker]]"
+  - "[[Jacob S. Hacker]]"
   - "[[Thomas Nordahl]]"
   - "[[Scott Eacott]]"
+  - "[[John Dewey]]"
 related_facts:
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[Visible Learning Meta-X]]"
   - "[[Education Endowment Foundation]]"
   - "[[What Works Clearinghouse]]"
+  - "[[Picking Up the Pace]]"
   - "[[Australian Council for Educational Research]]"
   - "[[Cognition Education]]"
   - "[[Corwin Press]]"
@@ -107,6 +119,7 @@ related_arguments:
   - "[[Argument_McKnight_2020_Discourse]]"
   - "[[Argument_Hattie_2015_SOTLP]]"
   - "[[Argument_Higgins_2016_ROE]]"
+  - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
   - "[[Argument_Wecker_2016_ZfE]]"
@@ -125,7 +138,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-02
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Visible Learning
@@ -203,6 +216,9 @@ updated: 2026-10-16
 > [!claim] [[John Hattie\|Hattie, J.]]
 > **相对有效性关节点判准** 在基础教育实践中，声称某项教学方法“有效”几乎没有信息量，因为基于对 100 余项重大教育创新、30 余万项原始实证研究的[[Meta-analysis\|元分析]]综合发现，几乎所有干预措施的[[Effect Size\|效应量]]都在零点以上（$d > 0$）。所有干预的效应量呈现以 $d = 0.40$ 为中心的钟形正态分布；该均值大致对应学生自然成熟（约 0.15）与一年常规教学效应的总和。因此，真正的专业提问必须从“该方法是否有效”转向“该方法能否带来大于 $0.40$ 的相对增益”；任何低于 $0.40$ 的举措实质上是在拖累学生，因为常规环境中一半的干预都能轻易跨越该门槛。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, p. 16)]]; [[Argument_Higgins_2016_ROE\|(Higgins, 2016, pp. 43–44)]]
 
+> [!claim] Snook et al.
+> **截断值武断性与底层二阶质控缺位** 斯努克（Snook）等学者在新西兰首发学术评议中论证，以 $d=0.40$ 作为界定干预“相对有效性”或“[[Zone of Desired Effects|期望效应区]]”的通用判准在逻辑上纯属武断。他们援引全美医学[[Clinical Trial|临床试验]]中采用低剂量阿司匹林预防心脏病的经典案例证明，该干预的效应量仅为 $d=0.07$，却换算为每 1,000 人中净挽救 34 条生命；在涉及数百万学生的公共教育系统中，低于 0.40 的微小效应量在大样本和长期累积中同样具有重大的[[Public Value|公共价值]]，机械将其贬抑为“常规发展效应”严重脱离了干预成本与边际效益的实际权衡。此外，哈蒂的[[Meta-meta-analysis|二阶元分析]]未对所纳入的一阶元分析开展任何研究质量评估，彻底违背了元分析奠基人 Smith and Glass (1980) 强调的质控前提；若底层汇聚的研究充斥着设计拙劣的方法缺陷，宏观二阶合成得出的所谓“全域正态均值 $d=0.40$”必然沦为“垃圾进、垃圾出（Garbage in, garbage out）”的技术虚妄。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 94–95, 99)]]
+
 > [!claim] Golovchin, M. A.
 > **变差系数数理检验否定效应量数据集稳健性** 戈洛夫钦（Golovchin）系统梳理了西方学者对 Hattie 理论的十大批评，并首次运用精确变差系数（Variation Coefficient, \(V_\sigma = \frac{\sigma}{\bar{x}} \times 100\%\)）对 Hattie 效应量数据集进行原创数理稳健性检验。测算表明，Hattie 纳入的 133 项正值效应量总体变差系数达到 **56.87%**，远超统计学公认的 33% 样本同质性安全阈值（属于高震荡的极度不均数据集）；六大影响源的变差系数亦全面超标（学生 71.24%、学校 65.97%、教师 51.01%、教学方法 50.65%、课程 41.95%、家庭 38.57%）。这在数学上证实了 Hattie 数据基础极度脆弱且缺乏有效质控，以此为据建立的 \(d=0.40\) 标尺缺乏客观实体效度；且其轻视教师专业学科知识（\(d=0.10\)）的去专业化倾向及数据监控诉求，与俄罗斯 79% 教师深陷报表负担的现实剧烈冲突，盲目借用极易坠入教师集体流失的制度陷阱。[[Argument_Golovchin_2019_ESC\|(Golovchin, 2019, pp. 238–241)]]
 
@@ -227,6 +243,9 @@ updated: 2026-10-16
 
 > [!claim] Hattie, J.
 > **八项教师思维框架与认识论自觉** 教师的教学效能根本上取决于其内隐的思维框架（Mind Frames）。以“认识自身影响（Know thy impact）”为核心枢纽，成功教师将自己视为变革推动者（Change Agent）、视评价为关于自身教学的反馈、主动与同事校准学业标准、倡导课堂深度对话并视学生错误为宝贵的诊断契机，从而在日常教学中实现持续的自我监控与调整。[[Argument_Hattie_2015_SOTLP\|(Hattie, 2015b, pp. 88–89)]]
+
+> [!claim] Snook et al.
+> **排除校外社会背景与混淆两类方差导致的归因失真** 针对哈蒂将学业成就方差绝大部分归因于校内教师（30%）并将校外家庭与社会结构变量边缘化的论调，斯努克等人指出这是对[[School Effectiveness|学校效能]]实证文献的根本性扭曲。他们援引英国格雷（Gray et al., 1986）针对数十所中学的权威追踪与新西兰[[Jacob S. Hacker|哈克]]（Harker, 1995）的本土大样本实证表明，**70% 至 80% 的校际学业方差均由学生的社会阶层背景与生源构成（Student Mix）所决定**，留给校内所有其他变量（包括教师与[[School Leadership|学校领导]]）解释的方差份额仅占 20% 至 30%。哈蒂混淆了两类完全不同的学校效能[[Paradigm|研究范式]]：第一类研究关注在已知且均等的生源背景下教师教学的具体改善（微观校内方差），而第二类研究关注学校能否克服更广泛的社会不平等（宏观校际方差）。哈蒂误将第一类研究的结论外推至第二类研究，犯下了严重的[[Category Mistake|范畴谬误]]；这种选择性“[[Screening Off|屏蔽]]”校外现实的实证模型，极易导致政策制定者将贫困与阶层不平等的宏观社会问题错误转嫁为一线教师的个人道德与专业责任。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 97–99)]]
 
 ---
 
@@ -260,6 +279,9 @@ updated: 2026-10-16
 > [!claim] Johnson, G. R. & Janzen, M. D.
 > **[[Cargo Cult Science|货物崇拜科学]]与行政监控的技术殖民** 约翰逊与詹森进一步从科学哲学与管理学视角指出，VL 本质上是披着实证外衣的[[Cargo Cult Science|货物崇拜科学]]（Cargo Cult Science）；其标志性的[[Barometer of Achievement|气压计图表]]并非纯粹的[[Feedback|教学反馈]]工具，而是直接脱胎于用于自上而下联网监控教师软件使用进度的 [[Assessment Tools for Teaching and Learning|asTTle]] 行政系统。通过将教学比附为外科手术或高山救援，文本贬抑教师专业判断为不成熟经验，在维多利亚州等地诱发了强行按清单板书打卡的[[Performativity|表演性]]异化。[[Argument_Johnson_2023_CritEduc\|(Johnson & Janzen, 2023, pp. 28–30, 34–36)]]
 
+> [!claim] Snook et al.
+> **[[Class Size|班级规模]]非线性门槛与证据的行政武器化风险** 斯努克等人通过深入剖析班级规模的实证文献指出，哈蒂报告的班级规模极低总体效应量（$d=0.21$）不仅掩盖了微观教学机制，更极易被政策制定者武器化为削减教育投入的工具。真实证据（如田纳西州 STAR 严格随机试验证实低年级小班阅读与数学效应量达 $0.62–0.66$、奥克兰 [[Picking Up the Pace|PACE 项目]]中 15 人小班保障 3 人微型群组密集辅导）表明，班级规模在特定关键学段跨越物理阈值时会产生非线性的突破性收益，并与高频师生互动、个性化反馈形成强交互。然而，新西兰教育部长安妮·托利（Anne Tolley）却迅速在国会与政策辩论中征用哈蒂数据，以“校内教师质量差异远大于班级规模差异”为由抗拒缩减班级规模，并强推历史上屡遭失败的教师[[Performance Pay|绩效工资]]制度。斯努克等人援引[[John Dewey|杜威]]强调，实证证据应当是明智探究的假设而非技术统治的铁律，一旦被剥离情境转化为自上而下的量化排名清单，就会沦为新自由主义官僚推卸财政责任、[[Disciplina and Doctrina|规训]]公立学校教师的行政武器。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 100–104)]]
+
 ---
 
 ### 命题总览
@@ -267,10 +289,10 @@ updated: 2026-10-16
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **相对有效性判准** | 确立 $d=0.40$ 关节点，以超越常规教学均值为标准衡量干预价值；但全库元科学审计揭示其对照组混并与跨设计缺陷瓦解了该连续体，且依赖未加权简单平均与隐藏公式 | 教育政策循证筛选与教学干预效果评估（及[[Metascience\|元科学]]审计） | [[Argument_Hattie_2005_ACER\|Hattie (2005)]]; [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]]; [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]; [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]]; [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] |
-> | **教师因果枢纽与归因** | 教师占 30% 方差，评价数据是检验自身教学策略的反光镜 | 教师专业发展、评价观念重塑与责任界定 | [[Argument_Hattie_2015_SOTLP\|Hattie (2015b)]] |
+> | **相对有效性判准** | 确立 $d=0.40$ 关节点，以超越常规教学均值为标准衡量干预价值；但阿司匹林反例证伪门槛普适性，二阶质控缺位、对照组混并与跨设计缺陷瓦解了该连续体 | 教育政策循证筛选与教学干预效果评估（及[[Metascience\|元科学]]审计） | [[Argument_Hattie_2005_ACER\|Hattie (2005)]]; [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]]; [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]; [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]]; [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] |
+> | **教师因果枢纽与归因** | 教师占 30% 方差，评价数据是检验自身教学策略的反光镜；但混淆校内相对变异与校际方差，忽视生源背景解释 70%–80% 差异构成归因失真 | 教师专业发展、评价观念重塑与责任界定 | [[Argument_Hattie_2015_SOTLP\|Hattie (2015b)]]; [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] |
 > | **显性进阶与双向可见** | 共享成功标准与形成性三提问，破除课堂认知盲区实现自主演进 | 课堂教学设计、形成性评价实施与师生互动 | Clarke, Timperley, & Hattie; [[Argument_Knudsen_2017_NordSTEP\|Knudsen (2017)]] |
-> | **评价性判断与文化重塑** | 倡导 DIE 诊断循环与校本反馈文化，警惕机械清单、货物崇拜科学与新泰勒主义行政监控 | 学校改进机制建构与循证教学文化培育 | [[Argument_Fredens_2015_Paideia\|Fredens (2015)]]; [[Argument_Nordahl_2015_Paideia\|Nordahl (2015)]]; [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]]; [[Argument_Eacott_2019_IJLE\|Eacott (2019)]]; [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] |
+> | **评价性判断与文化重塑** | 倡导 DIE 诊断循环与校本反馈文化，警惕机械清单、货物崇拜科学、班级规模削减与新泰勒主义行政监控 | 学校改进机制建构与循证教学文化培育 | [[Argument_Fredens_2015_Paideia\|Fredens (2015)]]; [[Argument_Nordahl_2015_Paideia\|Nordahl (2015)]]; [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]]; [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; [[Argument_Eacott_2019_IJLE\|Eacott (2019)]]; [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] |
 
 ---
 
@@ -279,13 +301,13 @@ updated: 2026-10-16
 > [!dev-timeline] 概念演变
 > - **1987–1992 — [[Meta-meta-analysis\|元综合]]积累与 $d=0.40$ 基准确立** Hattie 参与 Fraser-Walberg 团队元综合，并于 1992 年独立发表涵盖 134 项[[Meta-analysis\|元分析]]、22,155 个[[Effect Size\|效应量]]的元综合，首次确立全行业平均效应量基准 $d = 0.40$。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, p. 42)]]
 > - **1999–2005 — 新西兰原型探索与形成性问责奠基** 依托新西兰教育部委托开发的 [[Assessment Tools for Teaching and Learning\|asTTle]] 测评系统，Hattie 在 2003 年与 2005 年 [[Australian Council for Educational Research\|ACER]] 大会上完整阐发了成就方差六分模型、相对有效性判准、[[Learning Progression\|学业进阶]]共享语言及以教师为中心的形成性证据问责理论。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, pp. 11–19)]]
-> - **2009–2010 — 著作出版与全球理论论战** 《可见的学习》初版出版，汇总 800 余项元分析与 150+ 影响因素，引发全球教育界轰动；随后在《新西兰教育研究杂志》系统回应关于方法论、STAR [[Class Size\|班级规模]]实验及外部有效性的第一波批评。[[Argument_Hattie_2010_NZJES\|(Hattie, 2010, pp. 86–91)]]
+> - **2009–2010 — 著作出版与新西兰学术首发论战** 《可见的学习》专著出版，汇总 800 余项元分析引发全球轰动；斯努克等学者（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）随即在《新西兰教育研究杂志》（NZJES）发表首发批判性评论，直指其底层质控缺失、0.40 门槛武断（阿司匹林反例）、忽视 70%–80% 生源方差及政策误用风险，拉开学界长达三回合的 Snook-Hattie 论战序幕；[[John Hattie|哈蒂]]随后发文辩护（[[Argument_Hattie_2010_NZJES|Hattie, 2010]]）。
 > - **2010–2018 — 品牌化扩张与全球政策采纳** 随着 商业化品牌运作 的推进，[[Cognition Education]] 与 [[Corwin Press|Corwin]]（[[Sage]] 集团）将 VL 转化为全球专业发展培训品牌；英国 [[Education Endowment Foundation\|EEF]]、澳大利亚 [[Gonski 2.0]] 改革、维多利亚州 [[Victorian HITS and Literacy Toolkit\|HITS]] 以及丹麦公立学校改革等相继将 VL 列为政策基准。[[Argument_Bates_2017_CognitionEducationTrust\|(Bates, 2017)]]; [[Argument_Qvortrup_2019_NordSTEP\|(Qvortrup, 2019)]]
 > - **2016 — 德语计量方法学系统质询与数学公理推导** [[Christof Wecker|韦克尔]]等人（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）在《教育科学杂志》（*Zeitschrift für Erziehungswissenschaft*）发表奠基性批判，首次从[[Fixed-Effect Model|固定效应模型]]数学公理推导了二级元分析的代数等价性与六步规范规程，实证揭示[[John Hattie|哈蒂]]因混淆[[Standard Error|标准误]]、硬造假误差与忽略 93% 重叠导致网络学习排名雪崩，在科学上判定超级元分析不可行。
 > - **2019 — 变差系数统计检验与本土制度陷阱警告** 俄罗斯学者戈洛夫钦（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）首次使用变差系数（\(V_\sigma = 56.87\%\)）对 Hattie 效应量模型进行数理同质性检验，实证证实其数据集极端不均且缺乏质控，并结合俄教师生存困境（79% 受困于报表、仅 16% 职业声望）警示西方[[Policy Borrowing|政策借用]]可能引发的去专业化危机与制度陷阱。
 > - **2015–2020 — 教学论深化与批评反思潮** Hattie 进一步提炼八项教师思维框架、DIE 模型与高等教育六大高影响条件；同时斯堪的纳维亚学者提出“反馈文化”再诠释，批判学者发起关于[[Neo-Taylorism\|新泰勒主义]]与知识形态窄化的深层学理争鸣。[[Argument_Hattie_2015_SOTLP\|(Hattie, 2015b)]]; [[Argument_Fredens_2015_Paideia\|(Fredens, 2015)]]; [[Argument_Eacott_2019_IJLE\|(Eacott, 2019)]]
 > - **2021–至今 — 欧洲跨国治理实证与[[Practitioner Enquiry\|实践者探究]]校准** 欧洲实证研究（[[Argument_Kelly_2025_ROE\|Kelly et al., 2025]]）揭示一线实践者在不同治理体制下对 VL 的差异化吸收：苏格兰依托“实践者探究”对其开展去魅与本土校准，德国作为校本教研参考，打破单一商业化崇拜迷思。
-> - **2023 — 政治经济学与[[Cargo Cult Science|货物崇拜科学]]深度解构** 约翰逊与詹森（[[Argument_Johnson_2023_CritEduc\|Johnson & Janzen, 2023]]）从科学哲学与批判政策分析视角，系统揭露 VL 隐藏计算公式的简单算术平均、对 Glass and Smith (1979) 班级规模结论的失真提取、新泰勒制全景监控以及兼任商业咨询机构董事的高额版税链条，将其定性为服务于新自由主义财政紧缩的货物崇拜科学。
+> - **2023 — 政治经济学与[[Cargo Cult Science|货物崇拜科学]]深度解构** 约翰逊与詹森（[[Argument_Johnson_2023_CritEduc\|Johnson & Janzen, 2023]]）从科学哲学与批判政策分析视角，系统揭露 VL 隐藏计算公式的简单算术平均、对 Glass and Smith (1979) [[Class Size|班级规模]]结论的失真提取、新泰勒制全景监控以及兼任商业咨询机构董事的高额版税链条，将其定性为服务于新自由主义财政紧缩的货物崇拜科学。
 > - **2024–至今 — 二阶元分析基础设施化与大模型准确性评测** 底层数据库拓展为收录 2,100 余项一阶元分析的 [[Visible Learning Meta-X]] 平台。该数据库被实证研究（[[Argument_Jansen_2026_EPR\|Jansen et al., 2026]]）作为评估大语言模型[[Automated Data Extraction\|自动化数据提取]]的基准库；该评测同时揭示了早期单人人工录入的历史局限与 57 处单方偏离（[[Intraclass Correlation Coefficient\|ICC]] = 0.81），确立了人机混合验证的质控新标准。
 > - **2025–至今 — 全量[[Metascience|元科学]]审计与[[Chain of Evidence|证据链]]可[[Reliability|信度]]崩溃** 瑞典卡尔门达尔（Kalmendal）等学者开展首个[[Preregistration|预注册]]全库元科学质量评估（[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025]]），对 322 个影响因素（1,369 篇一阶元分析）进行审查。结果揭示仅 19% 满足[[Research Question|研究问题]]纳入基准，27% 混杂了不可[[Commensuration|通约]]的组间、组内及[[Correlational Research|相关设计]]，全库数据提取复现率仅 0.66%（301 项中仅 2 项完全复现），44% 报告的效应量在原文中完全不存在，实证宣告了 VL 通用连续体与排行榜证据基础的崩溃。
 
@@ -301,18 +323,22 @@ updated: 2026-10-16
 > - **通用效应量汇总立场（蓝方）** 主张通过大样本[[Meta-analysis\|元分析]]提炼跨学科、跨学段的通用[[Effective Teaching\|有效教学]]规律，为资源配置与教研重点提供概率性指引。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, p. 16)]]
 > - **知识形态异质性批判立场（红方）** 批评者指出元分析混淆了表层事实记忆与深层概念建构，掩盖了不同学科独特的认知规律与情境异质性。[[Argument_Qvortrup_2015_Paideia\|(Qvortrup, 2015, pp. 29–33)]]
 >
-> [!tension] 核心张力三：宏观合成证据权威 vs [[Metascience|元科学]]审计下的[[Reproducibility Crisis|可复现性危机]]（[[Reproducibility Crisis\|可复现性危机]]）
+> [!tension] 核心张力三：宏观合成证据权威 vs [[Metascience|元科学]]审计下的[[Reproducibility Crisis|可复现性危机]]
 > - **合成证据权威立场（蓝方）** 主张即使底层元分析存在个别瑕疵或历史人工录入偏差，数亿样本与上千项元分析的整体模式仍能稳定揭示“教师激活优于被动促进”等[[CORE Education|核心教育]]规律。[[Argument_Hattie_2010_NZJES\|(Hattie, 2010, pp. 88–92)]]
 > - **元科学与计量统计解构立场（红方）** [[Christof Wecker|韦克尔]]（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）与卡尔门达尔（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）等团队实证指出，VL 的问题不是局部误差，而是底层数理与方法学崩溃：两级[[Fixed-Effect Model|固定效应]]代数等价性被 93% 的文献重叠摧毁，存在[[Standard Error|标准误]]混淆导致 10 倍虚增的低级计算错误；全库仅 19% 满足 [[PICO Framework|PICO]] 标准，27% 混杂不可[[Commensuration|通约]]设计，44% 效应量无引证支持且复现率低于 1%，在科学上完全不可行。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–34)]]; [[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 1, 14–19)]]
-- **元科学审计解构立场（红方）** 卡尔门达尔团队实证审计表明，VL 的问题不是局部误差，而是系统性方法学崩溃：缺乏基本的问题纳入关卡（仅 19% 满足 [[PICO Framework|PICO]] 标准）、将不可[[Commensuration|通约]]的统计设计强行平均化（27% 混杂设计）、严重数据提取失真（44% 效应量无引证支持且复现率低于 1%），以及技术类目存在长达 20 年的文献时效断层，因而无法作为任何可靠的教学或政策决策基准。[[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, pp. 1, 14–19)]]
 >
 > [!tension] 核心张力四：客观中立的实证科学 vs 政商利益结盟与财政紧缩修辞
 > - **中立证据综合立场（蓝方）** 倡导者坚称 VL 是超越意识形态的纯学术研究，旨在为政策制定者提供关于“什么有效”的客观概率指引，帮助学校将有限资源集中投入到高效应量领域。[[Argument_Hattie_2010_NZJES\|(Hattie, 2010, pp. 86–88)]]
 > - **政治经济学批判立场（红方）** 批判学者指出 VL 与商业出版资本（世哲/[[Corwin Press|考文出版社]]）及咨询公司深度绑定，学者通过专营品牌抽取高额劳务报酬；全书异乎寻常地高频提及[[Class Size|班级规模]]（95 次 vs. 自我报告成绩 6 次），对经典研究实施断章取义的失真提取，精准迎合了新自由主义政府削减公立教育生均预算、推卸财政责任的治理诉求。[[Argument_Johnson_2023_CritEduc\|(Johnson & Janzen, 2023, pp. 30–33)]]
-
+>
+> [!tension] 核心张力五：微观[[School Effectiveness|学校效能]]（校内教师改进）vs 宏观社会不平等（70%–80% 生源方差）
+> - **微观可控效能立场（蓝方）** [[John Hattie|哈蒂]]坚持将[[Research Scope|研究范围]]界定在教育者可控的校内因素，主张教师教学效能占 30% 系统方差，是政策能够直接干预的最大枢纽，不应因校外社会因素巨大而陷入无所作为的虚无主义。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, pp. 88–90)]]
+> - **结构不平等批判立场（红方）** 斯努克等人指出实证显示 70%–80% 校际方差取决于生源构成与阶层背景，混淆校内相对变异与校际绝对差异犯下了严重的[[Category Mistake|范畴谬误]]，选择性[[Screening Off|屏蔽]]校外现实极易沦为政府削减教育经费、将社会不平等转嫁给一线教师的技术官僚武器。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 97–99)]]
+>
 > [!critique] 外部学术批评导览
 > - **批评系统入口** 完整的方法论、教学论、教育哲学与政策商业化批评详见专用条目 [[Critiques of Visible Learning]]。
-- **数学公理与计量程序规范** 韦克尔等人推导六项[[Meta-meta-analysis|二级元分析]]操作规程，实证揭示模型同质性假设破产与数据计算严重失范。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016)]]
+> - **方法学与社会结构首发批判** 斯努克等人指出[[Meta-meta-analysis|二阶元分析]]缺乏底层质控、阿司匹林反例[[Falsification|证伪]] 0.40 截断值、排除 70%–80% 生源方差，以及政策制定者对班级规模与[[Performance Pay|绩效工资]]的误用。[[Argument_Snook_2009_NZJES|(Snook et al., 2009)]]
+> - **数学公理与计量程序规范** 韦克尔等人推导六项[[Meta-meta-analysis|二级元分析]]操作规程，实证揭示模型同质性假设破产与数据计算严重失范。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016)]]
 > - **元科学审计与可复现性** 瑞典团队对全库开展独立复现，实证证实其底层数据链全面瓦解。[[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, pp. 18–19)]]
 > - **[[Cargo Cult Science|货物崇拜科学]]与政治经济学** 约翰逊与詹森系统解构其方法论不透明、简单算术平均与政商旋转门机制。[[Argument_Johnson_2023_CritEduc\|(Johnson & Janzen, 2023)]]
 > - **数据与文化局限** 原始元分析主要基于英语国家历史文献，直接跨语境迁移到非英语国家或不同社会文化体制中存在显著适应性障碍。[[Argument_Golovchin_2019_ESC\|(Golovchin, 2019, p. 232)]]
@@ -348,6 +374,10 @@ updated: 2026-10-16
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023, pp. 31–32)]] | 《可见的学习》全书文本（涵盖全部章节与索引） | 词频统计与文本分析 | 班级规模（[[Class Size]]）与自我报告成绩提及频次对比 | 班级规模提及 95 次（分布于 16 个章节）；全书排名第一的影响因素自我报告成绩仅提及 6 次 | 频次反差高达近 16 倍（1600%） | 实证揭示其对班级规模无用论的高频倾斜服务于政府财政紧缩意图，而非基于客观统计均衡性 |
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023, p. 32)]] | 格拉斯与史密斯（Glass & Smith, 1979）班级规模经典元分析 | [[Primary and Secondary Documents\|原始文献]]核对与数据溯源 | 班额与学业成绩收益曲线提取 | 原文证实 40 人大班与 1 人个别辅导存在超过 30 个百分位的成绩差距；Hattie 在书中提取为 $d=0.09$ | 原文正文中根本未报告过 $d=0.09$ 数值；疑为截取曲线平缓尾部并混入大学 100 人大课数据 | 证实其为得出小班教学无效的预设立场，对经典实证文献实施断章取义的数据提取 |
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023, p. 31)]]（[[Argument_ONeill_2016_Report\|O'Neill et al., 2016]]） | 新西兰官方财务档案与[[Cognition Education\|认知教育]]公司第三方劳务报酬明细（2010–2015） | 机构档案与财务[[Audit Trail\|审计追踪]] | 商业机构向学术作者支付的报酬金额 | 2011 年 1 万新西兰元；2012 年 9.3 万；2013 年 27.2 万；2014 年 27.1 万；2015 年 22.3 万；累计超 86.9 万新西兰元 | 2010 年为保密协议未披露金额 | 实证披露学者兼任商业机构董事并抽取大额版税的政商利益旋转门网络 |
+> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009, p. 98)]]（引述 Gray et al., 1986; Harker, 1995） | 英国数十所中学长期追踪与新西兰全国中小学生源数据库 | 多层方差分解实证模型 | 生源背景（Student Mix / SES）vs 校内可控因素解释的校际学业方差比例 | 英国实证中生源背景解释高达 80% 校际成绩差异，校内其他因素仅占约 10%；新西兰实证中生源背景解释 70%–80% 方差，学校与教师仅解释 20%–30% | — | 实证否定哈蒂教师独占 30% 系统主导地位的假说，证实校际成就差异绝大部分受制于校外社会阶层构成 |
+> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009, pp. 99–102)]]（引述 Finn & Achilles, 1990; PACE, 2001） | 田纳西州 STAR 试验（79 校 11,600 生）与奥克兰 [[Picking Up the Pace\|PACE 项目]]（12 所低 SES 小学） | 严格[[Randomised Controlled Trials\|随机对照试验]]（STAR）与准实验现场追踪（PACE） | 小班规模（STAR 13–17 人 vs 22–25 人；PACE 15 人 vs 28 人）对成就的效应量与组织约束 | STAR 中 K–3 年级阅读与数学效应量达 $d = 0.62–0.66$；PACE 项目中 15 人班额使维持 3 人微型群组 10–15 分钟高频互动成为可能 | 统计显著（$p < .001$） | 证实班级规模跨越关键学段与物理门槛时具有显著突破性收益，直接否定哈蒂 $d=0.21$ 班额无用论的线性推论 |
+> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009, p. 99)]]（引述 Physicians' Health Study, 1988） | 全美 22,071 名男性内科医生随机双盲预防试验 | 严格随机双盲对照试验（RCT） | 低剂量阿司匹林预防心肌梗死效应量与每千人挽救生命数 | 效应量仅为 $d = 0.07$；换算为每 1,000 人中净预防 34 起心肌梗死死亡 | 极高度显著（提前终止试验以推广普及） | 经典医学证据，实证证伪哈蒂将 $<0.40$ 武断划为常规发展区或低价值的逻辑谬误，确立微小效应量在大样本中的重大公共价值 |
+> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009, p. 97)]] | 《可见的学习》专著中家庭作业 5 项元分析与细分学段数据 | 二阶元分析细分亚组（[[Moderator Analysis]]）对比 | 总体家庭作业效应量 vs 学段、学科、能力细分效应量 | 总体报告 $d = 0.29$；小学仅 $d = 0.15$、高中达 $d = 0.64$；数学 $0.32$ vs 科学 $0.27$；高能力 $0.37$ vs 低能力 $0.21$ | 小学阶段效应量跌入发展效应区 | 实证揭示单一宏观平均效应量抹杀微观异质性，对不同学段教师指导产生实质性误导 |
 
 ---
 
