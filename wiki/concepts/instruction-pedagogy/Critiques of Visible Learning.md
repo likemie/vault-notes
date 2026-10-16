@@ -7,7 +7,7 @@ aliases:
 summary: "围绕 John Hattie Visible Learning 展开的批评谱系，集中讨论效应量排名、元-元分析、教学理论、教育哲学、可见性政治和商业化政策扩张等争议。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 140
+related_count: 148
 related_level: 14
 related_stars: "💎💎💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -43,6 +43,9 @@ related_concepts:
   - "[[Preregistration]]"
   - "[[Replication in Education Research]]"
   - "[[Commensuration]]"
+  - "[[Policy Network]]"
+  - "[[Primary and Secondary Documents]]"
+  - "[[Learning Styles]]"
   - "[[Homework]]"
   - "[[Direct Instruction]]"
   - "[[Study Population and Sample]]"
@@ -53,9 +56,10 @@ related_concepts:
   - "[[Language Experience Approach]]"
   - "[[Literature Review]]"
   - "[[Academic Achievement]]"
+  - "[[Public Value]]"
+  - "[[Theoretical Standpoint]]"
   - "[[Zone of Desired Effects]]"
   - "[[Student-Teacher Relationship]]"
-  - "[[Primary and Secondary Documents]]"
   - "[[Predictive Validity]]"
   - "[[Epoché]]"
   - "[[Critical Thinking]]"
@@ -83,6 +87,8 @@ related_concepts:
   - "[[Reflexivity]]"
   - "[[Cult of Efficiency]]"
   - "[[Barometer of Achievement]]"
+  - "[[Performance Pay]]"
+  - "[[Peer-Supported Learning]]"
   - "[[Global Education Reform Movement]]"
   - "[[Sage]]"
   - "[[Structural Coupling]]"
@@ -112,6 +118,7 @@ related_methods:
   - "[[Discourse Analysis]]"
   - "[[Fixed-Effect Model]]"
   - "[[Sample Size Determination]]"
+  - "[[Research Synthesis]]"
   - "[[Standard Error]]"
   - "[[Random-Effects Model]]"
   - "[[Systematic Review]]"
@@ -120,10 +127,12 @@ related_methods:
   - "[[Statistical Significance]]"
   - "[[Confidence Interval]]"
   - "[[Qualitative Research]]"
-  - "[[Research Synthesis]]"
   - "[[Internal Consistency]]"
+  - "[[Quantitative Research]]"
 related_persons:
   - "[[John Hattie]]"
+  - "[[Ivan Snook]]"
+  - "[[Roy Nash]]"
   - "[[Gene Glass]]"
   - "[[Elliott Eisner]]"
   - "[[Basil Bernstein]]"
@@ -132,11 +141,10 @@ related_facts:
   - "[[TIMSS]]"
   - "[[PISA]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
+  - "[[OECD]]"
+  - "[[The Scott Report]]"
   - "[[Corwin Press]]"
   - "[[Cognition Education]]"
-  - "[[Treasury Briefing on Student-Teacher Ratios]]"
-  - "[[EEF Teaching and Learning Toolkit]]"
-  - "[[Danish Public School Reform]]"
 related_arguments:
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Terhart_2011_JCS]]"
@@ -229,7 +237,7 @@ updated: 2026-10-17
 ## 批评谱系的历史演变
 
 > [!dev-timeline] 对可见学习批评的四个演进阶段
-> - **2009–2010 年 — 起源反弹与政策警示期** 《[[Visible Learning|可见的学习]]》出版同年，新西兰梅西大学学者（[[Argument_Snook_2009_NZJES\|Snook et al., 2009]]）即从垃圾进垃圾出、阈值武断与排斥社会因素等维度敲响警钟；[[Argument_Grace_2010_NZJES\|Grace (2010)]] 从学者社会良知出发批判其排除贫困与社会不平等，预示了方法论与社会学批判的基本分野。
+> - **2009–2010 年 — 起源反弹与政策警示期** 《[[Visible Learning|可见的学习]]》出版同年，新西兰梅西大学[[Ivan Snook|伊万·斯努克]]（Ivan Snook）领衔的批判团队（[[Argument_Snook_2009_NZJES\|Snook et al., 2009]]）即从[[Meta-meta-analysis|二阶元分析]]缺乏底层质控导致“垃圾进、垃圾出”、0.40 截断值主观武断（医学阿司匹林 $d=0.07$ 反例）、单一均值抹杀学段学科差异，以及援引[[Roy Nash|罗伊·纳什]]（Roy Nash）与 Richard Harker 等方差分解证实 70%–80% 差异取决于家庭背景等维度系统敲响警钟，严厉警示宏观数据被滥用为削减生均投入与转嫁问责的危险；[[Argument_Grace_2010_NZJES\|Grace (2010)]] 从学者社会良知出发批判其排除贫困与社会不平等，预示了方法论与社会学批判的基本分野。
 > - **2011–2016 年 — 德语学理深化与逐步技术审计期** 德国教学论权威 [[Argument_Terhart_2011_JCS\|Terhart (2011)]] 首次系统提出[[Meta-meta-analysis|元-元分析]]的双重困境、教学论内容空洞与福柯式可见性支配；随后 [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] 开展了长达 6 步的全面统计技术审计，从[[Fixed-Effect Model|固定效应]]违反、加权缺失到方差失控，实证判定该方法在科学上不可行。
 > - **2017–2020 年 — 政治哲学批判、新泰勒制解构与质性案例审查期** 丹麦与澳洲学者全面转向哲学与微观权力批判：[[Argument_Rømer_2018_EPT\|Rømer (2018)]] 论证评价理论殖民教育理论，[[Argument_Larsen_2019_EducSci\|Larsen (2019)]] 提出“观看中的盲视”；[[Argument_Eacott_2019_IJLE\|Eacott (2019)]] 与 [[Argument_McKnight_2020_Discourse\|McKnight and Whitburn (2020)]] 揭露[[Cult of the Guru|大师崇拜]]与新泰勒制监控；[[Argument_OConnor_2020_AJLL\|O'Connor (2020)]] 通过[[Whole Language|全语言]]案例实证揭露先验立场对数据提取的扭曲。
 > - **2021–2026 年 — 深度意识形态解构与[[Metascience|元科学]]可复现性审计期** 批判深化为整体性科学划界与实证审计：Nielsen and Klitmøller (2021) 揭示[[Technical Rationality|技术理性]]满足[[Legitimation Crisis|合法化危机]]；[[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] 系统运用[[Cargo Cult Science|货物崇拜科学]]、[[Neo-Taylorism|新泰勒主义]]、简单算术平均与商业利益追踪实施四位一体解构；[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] 开展首个[[Preregistration|预注册]]元科学全库审计，以不足 1% 的数据复现率在实证上彻底确立了其不可作为决策依据的定论。
@@ -265,6 +273,9 @@ updated: 2026-10-17
 > ```
 
 #### 二阶聚合中的加权缺失与简单平均算法黑箱
+
+> [!critique-method] 底层初级研究质控缺位与“粗糙输入导致荒谬输出”（[[Argument_Snook_2009_NZJES|Snook et al., 2009, pp. 94–96]]）
+> [[Ivan Snook|伊万·斯努克]]等新西兰学者指出，依据国际循证[[Policy Network|政策网络]]（EVIPNet）标准，严谨的[[Research Synthesis|研究综合]]（Research Synthesis）必须包含系统且显式的[[Primary and Secondary Documents|初级文献]]质量评估规程。[[John Hattie|哈蒂]]在《[[Visible Learning|可见的学习]]》中公开声明不评价原始研究优劣，导致低质研究被无差别纳入二阶聚合，陷入心理学界汉斯·艾森克所批驳的“粗糙输入导致荒谬输出”（Garbage in, garbage out, GIGO）困境。更严重的是，哈蒂在正文实践中呈现出双重标准：在特许学校（报告 $d=0.20$）中承认剔除劣质研究后效应降至零；在[[Learning Styles|学习风格]]（报告 $d=0.41$）中又因商业动机断然否定该数据。这证实纯粹数字效应量根本无法脱离研究设计质量单独讨论，缺乏客观准入标准的二阶聚合严重破坏了科学客观性。
 
 > [!case] [[Homework|家庭作业]]效应量的逆向还原与加权缺失（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 25–26]]）
 > [[John Hattie|哈蒂]]仅用一段文字交代方法，综合 5 项元分析（涵盖 161 项研究、逾 10 万名学生）得出典型效应量 $d=0.29$。然而正文中完全未公布具体计算公式：
@@ -407,6 +418,12 @@ updated: 2026-10-17
 ---
 
 #### 边际效应去情境化、置信区间缺失与元科学全库复现崩溃
+
+> [!critique-method] 效应量截断值的武断性与小效应量的[[Public Value|公共价值]]（[[Argument_Snook_2009_NZJES|Snook et al., 2009, pp. 94, 99–100]]）
+> 斯努克等学者指出，将 0.40 硬性设定为有效与平庸的绝对分水岭不仅在统计学上站不住脚，更具有极大的主观随意性：
+> - **医学阿司匹林类比的启示** 在循证医学经典试验中，每日服用低剂量阿司匹林预防心脏病的效应量仅为区区 $d = 0.07$，但换算到实际人口中相当于每 1,000 人中少死 34 人，哈蒂本人亦认同其具有巨大价值；然而在教育中，诸如班级规模（$d = 0.20$ 左右）等同样具有深远价值的基础干预，却仅因低于 0.40 的武断门槛而被贴上“平庸甚至无效”的标签。
+> - **大样本与小效应量的公共价值** 在严密抽样的大规模人群中，小效应量能产生极大的累积正外部性与公共价值；相反，小样本中算出的高效应量往往极不稳定。
+> - **哈蒂自身标准的不一致** 哈蒂在讨论户外教育的追踪效果时对仅有 $0.17$ 的数值赞叹不已，却对班额的 $0.20$ 予以贬抑，暴露了其阈值划分与主观[[Theoretical Standpoint|理论立场]]的深度绑定。
 
 > [!critique-method] 效应量阈值深度耦合样本量（[[Argument_Allerup_2015_Paideia|Allerup, 2015, pp. 45–46]]）
 > 单一效应量 $d$ 不能直接脱离样本量接受显著性判断。在数理推导上，均值检验的 t 统计量近似表达为 $t = d\sqrt{n}$。以 $n=25$ 为例，$d=0.40 \Rightarrow t=2.00$，恰好接近双侧临界值 $t_{0.05}(48) \approx 2.060$。即 $0.40$ 阈值仅在特定微小样本量下恰好贴合 $p=0.05$；一旦样本量改变，对应关系荡然无存。[[Zone of Desired Effects|期望效应区]]绝非固定不变的客观黄金标准，而是与研究样本规模深度绑定的相对指标。
@@ -685,6 +702,15 @@ updated: 2026-10-17
 > [!critique-logic] 还原主义教学论为政治回避结构性不平等提供掩护（[[Argument_Grace_2010_NZJES|Grace, 2010, pp. 90–91]]）
 > 哈蒂自述将阶级、贫困、家庭资源与健康营养等非学校因素排除在轨道之外，产生了一个极其还原主义且天真的观点——认为仅靠改变学校内部的教学技巧就能抹平学业差距。这使政策制定者得以名正言顺地回避深层贫困与经济不平等问题。Grace 援引[[Basil Bernstein|伯恩斯坦]]（Basil Bernstein）教育无法弥补社会缺陷的经典论断，指出真正的学术应当将社会结构性因素置于分析核心。
 
+> [!critique-method] 方差分解实证对“教师是最大影响因素”神话的解构（[[Argument_Snook_2009_NZJES|Snook et al., 2009, pp. 98–99]]）
+> [[Ivan Snook|斯努克]]等学者系统梳理了国际多层效能实证研究，指出哈蒂混淆了两类性质截然不同的效能研究范式：
+> - **两类效能范式的范式偷换** 第一类研究横向对比校外家庭阶层与学校全部因素，一致证实 70% 至 80% 的成绩差异源自生源背景（如英国 Gray et al., 1986 证实 80% 由生源决定；新西兰 Harker, 1995 证实生源解释 70%–80% 方差，学校仅解释 20%–30%）；第二类研究完全抽离社会背景，仅在学校围墙内部追问校长、校舍、班额与教师谁更重要，才得出教师是校内最重要变量的次级结论。
+> - **转嫁危机与责任归咎** 政策制定者将“校内教师相对最重要”故意截取混同为“教师是决定学生成败的最重要因素”，不仅严重背离了[[OECD|经合组织]]（[[OECD]]）报告等国际共识，更在政治上将深层社会阶层危机与贫困责任全盘甩锅给一线教师。
+> - **[[Performance Pay|绩效工资]]（Performance Pay）与教研信任生态的彻底摧毁** 斯努克等学者结合美国 25 年实践失败历史（Murnane & Cohen, 1981）与新西兰议会《[[The Scott Report|斯科特报告]]》（1986）审慎结论指出，借由哈蒂数据推行的教师绩效工资制度严重缺乏实证支持，且外在金钱刺激的零和排名博弈直接摧毁了哈蒂本人在书中所极力倡导的关爱、互信、[[Peer-Supported Learning|同伴互助]]与容许犯错的教师学习共同体文化。
+
+> [!citation-card] [[Roy Nash|罗伊·纳什]]论量化统计沦为政策宣传工具的危险性（[[Argument_Snook_2009_NZJES|Snook et al., 2009, p. 104]]）
+> 将[[Quantitative Research|量化研究]]用于宣传目的是极其危险的。在教育社会学界中，恐怕十个人中没有一个人具备从统计方法自身逻辑出发对其展开严密批判的专业能力；而在中小学教师群体中，具备这一装备的人数比例显然更不会高到哪里去。这种专业知识的不对称，使得去情境化的量化排名极易沦为推行争议政策的宰制工具。[[Argument_Snook_2009_NZJES|(Roy Nash, 2004, p. 49, quoted in Snook et al., 2009, p. 104)]]
+
 > [!case] 新西兰财政部简报选择性挪用效应量的实证解剖（[[Argument_ONeill_2012_NZJES|O'Neill, 2012]]）
 > 以新西兰财政部（NZ Treasury）2011 年简报为实证案例，政策制定者选择性利用可见学习效应量推进预算紧缩：
 > - **概念定义混淆** 财政部在政策文件中将宏观师生比（Student-Teacher Ratios）与微观课堂班级规模（[[Class Size]]）混为一谈。
@@ -840,12 +866,9 @@ updated: 2026-10-17
 > |---|---|---|---|---|---|---|
 > | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 《[[Visible Learning\|可见的学习]]》（1.2 版）全库 301 个影响因素（1,369 篇一阶[[Meta-analysis\|元分析]]） | [[Preregistration\|预注册]]全量元科学系统审计 | [[PICO Framework\|PICO]] 合规率；数据复现率；效应量缺失率 | 仅 **19%** 完全合规；仅 **2 项**（<1%）可复现数据；**44%** 效应量在一阶文献中完全缺失 | 样本量报告错误率达 72%；技术类研究停滞于 1980 年代 | 全面判定其数据提取链彻底崩溃，严禁作为决策依据 |
 > | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | VL [[Effect Size\|效应量]]提取与计算程序 | 计量统计学 6 步检验模型 | 固定效应假设、样本重叠、加权算法、[[Confidence Interval\|置信区间]] | 6 项方法论要求全部遭到系统性违反；混用不可[[Commensuration\|通约]]的效应量公式 | 统计学上完全无效 | 证实其[[Meta-meta-analysis\|二阶元分析]]在当前学术发表条件下在科学上不可行 |
-> | [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] | 纳入检验的 133 项正向效应量及六大分维度分布 | 统计离散度与变差系数（\sigma$）检验 | 效应量变异程度（标准差与均值比率）；同质性安全阈值（\%$） | 总体变差系数高达 **56.87%**（学生源达 **71.24%**，学校达 **65.97%**） | 数据集极度不均匀，击穿同质性基准 | 证实效应量分布离散剧烈，均值 =0.40$ 无法作为普遍有效的决策标尺 |
-> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 附录 A 中 5 项[[Homework\|家庭作业]]元分析（161 项研究、逾 10 万人） | 数学逆向还原与加权算法检验 | 算法公式透明度；简单平均 vs. 加权平均 | 5 个隐藏 $d$ 值（0.36, 0.21, 0.39, 0.21, 0.28）直接相加除以 5 等于报告的 $0.29$ | 包含 15 项与 77 项研究的文献被赋予相同权重 | 确证核心效应量为无权简单算术平均，掩盖小学（0.15）与高中（0.64）关键差异 |
-> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | Glass and Smith (1979) [[Class Size\|班级规模]]经典元分析 | 原始文献溯源与曲线截取核查 | 班额与成绩收益曲线；提取数值比对 | Glass 与 Smith 证实 40 人与 1 人存在超 **30 个百分位点** 差距；Hattie 提取为 $d=0.09$ | 正文中完全不存在 $d=0.09$ 数值 | 证实其为得出小班无效预设立场，实施严重截取平坦化与失真提取 |
-> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | VL 全书核心词频统计 | 文本词频与章节分布统计 | 班级规模 vs. 自我报告成绩提及频次 | 班级规模提及 **95 次**（分布于 16 个章节）；排名第一的自我报告成绩仅提及 **6 次** | 频次反差高达近 16 倍（1600%） | 揭示其关注度失衡服务于政府财政紧缩意图，而非基于统计均衡性 |
-> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]（[[Argument_ONeill_2016_Report\|O'Neill et al., 2016]]） | 新西兰官方财务档案（2011–2015） | 机构审计与第三方酬金明细追踪 | 商业咨询机构向学者支付的劳务报酬总额 | 2011 年 1.0 万；2012 年 9.3 万；2013 年 27.2 万；2014 年 27.1 万；2015 年 22.3 万；累计超 **86.9 万新西兰元** | 2010 年因保密协议未披露金额 | 实证揭露学者身兼商业机构董事并抽取大额版税的政商旋转门网络 |
-> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 新西兰与[[International Schools\|国际学校]]效能多层实证研究 | 社会学与计量经济学方差分解比对 | 校外社会背景 vs. 校内因素方差解释率 | 阶级、贫困、家庭资源与健康营养解释学生成绩方差的 **70–80%** | 校内可控变量仅占剩余 20–30% | 证实其排除非学校因素的假说严重脱离教育现实 |
+> | [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] | 纳入检验的 133 项正向效应量及六大分维度分布 | 统计离散度与变差系数（$V_\sigma$）检验 | 效应量变异程度（标准差与均值比率）；同质性安全阈值（33%） | 总体变差系数高达 **56.87%**（学生源达 **71.24%**，学校达 **65.97%**） | 数据集极度不均匀，击穿同质性基准 | 证实效应量分布离散剧烈，均值 $d=0.40$ 无法作为普遍有效的决策标尺 |
+> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]<br>（含援引 [[Argument_ONeill_2016_Report\|O'Neill et al., 2016]]） | VL 附录 A 元分析表（[[Homework\|作业]]/[[Class Size\|班额]]）、核心词频与新西兰官方财务档案 | 数学逆向还原、文献溯源、词频分布与政商财务追踪多维审查 | 简单平均 vs. 加权算法；原始文献平坦化截取；词频关注度；第三方商业酬金明细 | ① 隐藏 5 个 $d$ 值直接算术平均（$d=0.29$），样本量权重丢失；② Glass & Smith 原文 $40 \to 1$ 人差异超 30 百分位，正文未见 $d=0.09$；③ 班额提及 95 次 vs. 自我报告成绩仅 6 次（反差 16 倍）；④ 2011–2015 商业咨询向学者支付累计超 **86.9 万新西兰元** | 算术平均掩盖小学（0.15）与高中（0.64）关键差异；词频与截取失衡服务于财政紧缩；政商旋转门抽税 | 确证 VL 核心算法无加权、数据提取平坦化且严重关注度失衡，实质充当紧缩政策与商业变现的工具 |
+> | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 新西兰与[[International Schools\|国际学校]]效能多层实证研究（Gray et al., 1986; Harker, 1995; Nash, 2004） | 社会学与计量经济学方差分解比对 | 校外社会背景 vs. 校内因素方差解释率 | 阶级、贫困、家庭资源与健康营养解释学生成绩方差的 **70–80%**；校内可控变量仅占 20–30% | 排除校外因素产生根本归因偏航；0.40 门槛主观武断（阿司匹林 $d=0.07$ 反例） | 证实其排除非学校因素的假说严重脱离教育现实，将结构不平等转嫁给一线教师 |
 > | [[Argument_OConnor_2020_AJLL\|O'Connor (2020)]] | VL [[Whole Language\|全语言]]阅读教学元分析处理流程 | 原始引文核验与效应量溯源 | 审查偏倚；删除标准；手动修正方向 | 800+ 项元分析中唯一被手动修正效应量的案例；选择性删除支持全语言的原始研究 | 修正方向完全契合[[John Hattie\|哈蒂]]先验立场 | 证实先验理论偏见直接驱动了次级文献的选择性筛选与篡改 |
 > | [[Argument_Nielsen_2021_IRTP\|Nielsen and Klitmøller (2021b)]] | 反馈（$d=0.73$）项下贡献最大的 5 项元分析（62,761 人，占 92%） | 概念同质性与基础研究逐项审查 | 反馈定义合规性；核心干预类型 | 仅 1 项（Kluger & DeNisi, 1996，且 $d=0.38$）符合定义；其余 4 项为强化、线索、即时性与考官辅助 | 贡献最大的 Witt 样本达 2.4 万人但全文未提及反馈 | 证实其高排名效应量建立在混淆概念标签的概念[[Heterogeneity\|异质性]]之上 |
 
