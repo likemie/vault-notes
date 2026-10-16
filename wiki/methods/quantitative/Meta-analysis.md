@@ -6,7 +6,7 @@ summary: "通过汇总多项独立初级研究的效应量来综合定量证据�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 122
+method_related_count: 123
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Unit of Analysis]]"
   - "[[Paradigm]]"
   - "[[Months of Progress]]"
+  - "[[Replication in Education Research]]"
   - "[[Sampling Error]]"
   - "[[Publication Bias]]"
   - "[[Dependent Variable]]"
@@ -40,7 +41,6 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Metascience]]"
   - "[[Determinism]]"
-  - "[[Replication in Education Research]]"
   - "[[Visible Learning]]"
   - "[[Homework]]"
   - "[[Cargo Cult Science]]"
@@ -124,6 +124,7 @@ related_arguments:
   - "[[Argument_Wiliam_2019_ERE]]"
   - "[[Argument_Wrigley_2019_ERE]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
+  - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Chen_Cheung_2025_ERR]]"
   - "[[Argument_Lei_Ding_Chiu_2026_ERR]]"
   - "[[Argument_Abrami_2015_RER]]"
@@ -184,7 +185,7 @@ updated: 2026-10-16
 > - **1980年代 [[Random-Effects Model\|随机效应模型]]与[[Heterogeneity\|异质性]]检验** Larry Hedges (1981, 1983) 提出小样本校正 $g$ 与随机效应模型；DerSimonian and Laird (1986) 提出经典的 $\tau^2$ 矩估计封闭解法；Rosenthal (1979) 与 Orwin (1983) 分别提出经典与效应量稀释[[Fail-Safe N\|失安全数]]。
 > - **1990年代至2000年代 Cochrane 协作网与 [[PRISMA]] 规范化** 证据本位医学推动了[[Systematic Review\|系统综述]]（Systematic Review）与元分析的全球制度化，PRISMA 声明与 Cochrane Handbook 成为规范报告标准。
 > - **2010年代 多水平元分析、[[Robust Variance Estimation\|稳健方差估计]]与多软件协同** 针对多效应量相关依赖与复杂嵌套数据，[[Three-Level Meta-Analysis\|三水平元分析]]（Cheung, 2014）与稳健方差估计（Robust Variance Estimation, RVE, Hedges et al., 2010）成为现代元分析前沿；STATA 与 R 形成完备的元分析计算生态。
-> - **2010年代末至2020年代 二阶合成、通俗转化与活态数据库生态** 面对元分析因混合不同质量与情境研究引发的证据异质性偏误，英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）依托《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》开展二阶证据合成，独创额外学习月数（[[Months of Progress]]）通俗指标，并构建全球首个实时动态教育数据库（Live Database），对上万项初级试验的微观特征与效应量展开二次微观编码以消解异质性（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）。
+> - **2010年代末至2020年代 二阶合成、通俗转化与活态数据库生态** 面对元分析因混合不同质量与情境研究引发的证据异质性偏误，英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）依托《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》开展二阶证据合成，独创额外学习月数（[[Months of Progress]]）通俗指标，并构建全球首个实时动态教育数据库（Live Database），对上万项初级试验的微观特征与效应量展开二次微观编码以消解异质性（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）。同时，戈洛夫钦（[[Argument_Golovchin_2019_ESC\|Golovchin, 2019]]）等学者从统计同质性视角指出，宏观[[Meta-meta-analysis|二阶元分析]]若缺乏微观特征对齐，其效应量变差系数可高达 56.87%，加剧了政策排名工具的[[Replication in Education Research|复现危机]]。
 
 ---
 
@@ -337,6 +338,7 @@ updated: 2026-10-16
 > 5. **政策工具排名的伪精确性与二阶[[Replication in Education Research|复现危机]]** 将效应量简化为《[[Visible Learning\|可见的学习]]》气压计或排行榜，误导教育资源配置（[[Argument_Wiliam_2019_ERE\|Wiliam, 2019]]; [[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017]]）；全库数据审计证实粗放二阶[[Meta-meta-analysis|元综合]]的数据提取可复现率不足 1%，且存在严重的选择性报告（[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025]]）。
 >    - *隐藏公式与无加权简单算术平均陷阱* [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] 进一步揭示，当元综合脱离严格的[[Inverse-Variance Weighting|逆方差加权]]规范，将样本量悬殊的一级元分析进行无加权简单算术平均并隐去数学公式时（如以 5 项一级文献简单均值得出[[Homework|家庭作业]] $d=0.29$），不仅抹杀了关键学段差异（小学 $d=0.15$ vs. 高中 $d=0.64$），更演变为披着科学外衣的[[Cargo Cult Science|货物崇拜科学]]（Cargo Cult Science），对教育实践构成数字霸凌。
 >    - *两级[[Fixed-Effect Model|固定效应]]代数等价性崩溃与文献重叠陷阱* [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, pp. 25, 29–30)]] 从数学公理证明，元分析合成有效性的充要条件是初级研究互不重叠；当不同元分析高度共享底层文献（如 Olson & Wisher 与 Sitzmann et al. 存在 93.3% 重叠）时，经典方差公式彻底失效，导致联合标准误虚假收缩与排名剧烈波动（网络学习去重加权后 $d$ 自 $0.59$ 暴跌至 $0.23$，排名从第 26 位骤降至第 98 位并跌破 $d = 0.40$ 关节点）。
+>    - *数据集极度离散与数理均值失灵* 戈洛夫钦（[[Argument_Golovchin_2019_ESC\|Golovchin, 2019, pp. 238–241]]）通过变差系数（$V_\sigma = \frac{\sigma}{\bar{x}} \times 100\%$）测算表明，全库 133 项效应量变差系数达 $56.87\%$（远超 $33\%$ 安全阈值），各领域（学生 71.24%、学校 65.97%、教师 51.01%）全线极度不均。元分析在未进行统计同质性检验与质量筛选下强行输出线性均值与排位表，在数理上无法支撑政策决策，盲目依据排名削减资源易在地方层级引发管理危机。
 > 6. **微弱效应量与常态对照基线（Micro-effects & High-Quality Control Baseline）** Lortie-Forgues and Inglis (2019) 重新分析 141 项英美大型教育 [[Randomised Controlled Trials\|RCT]]（涵盖逾 120 万名学生），指出平均合并效应量仅为 $d = 0.06$（[[Confidence Interval\|置信区间]]平均宽度达 $0.30$ SD），据此质疑试验“缺乏信息量”。然而，超大样本量极大提升了统计推断精度，微弱效应量实质映射出学校现存[[Business as Usual\|常态教学]]（business as usual）的高水准专业基线；元分析在合成证据时不仅要识别正向效应，更必须重视“证明何者无效”对破除商业噱头与保护紧缺公共资金的去魅价值（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 56–57]]）。
 >
 > 🔗 **完整命题论证、学者辩论与 11 项质量审查清单参见独立深度条目：[[Critique of Meta-analysis]]**。
@@ -413,5 +415,6 @@ updated: 2026-10-16
 > - [[Argument_Wrigley_2019_ERE\|Wrigley and McCusker (2019)]] 运用[[Realist Evaluation\|实在论综合]]与[[Critical Realism\|批判实在论]]反思元分析的局限性。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] 探讨[[Meta-meta-analysis\|二阶元分析]]与证据合成在英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）实践中的制度化应用；系统回应 Lortie-Forgues and Inglis (2019) 对 141 项大型教育 [[Randomised Controlled Trials\|RCT]] 平均微弱效应量（$d = 0.06$）的批评，阐明大样本精度、[[Business as Usual\|常态教学]]高基线以及实时动态数据库对消解元分析证据异质性（Heterogeneity）的治理机制。
 > - [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] 依据 [[PICO Framework|PICO]] 框架对教育元分析证据库开展首个[[Preregistration|预注册]]质量审计，剖析了对照组性质混淆（活跃对照 vs 照常对照）、组内与组间设计直接混用（Morris & DeShon 难题）对效应量可比性的破坏，确立了元分析[[Access and Acceptance in Research|研究准入]]与效应量提取透明度的[[Metascience|元科学]]标准。
+> - [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] 采用变差系数（$V_\sigma = 56.87\%$）系统检验《[[Visible Learning|可见的学习]]》底层 133 项效应量数据集的离散度，证实宏观二阶元分析在未进行充分同质性控制下输出单一线性均值与关节点的数理缺陷，并揭示依此排名盲目削减学校资源易导致教师流失与行政负担加剧的管理风险。
 > - [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] 从元分析的方法论透明度与计算规范出发，系统解构了《[[Visible Learning|可见的学习]]》所运用的二阶元综合技术，深入揭露其隐藏计算公式、对异质性元分析实施无加权简单算术平均、以及对 Glass and Smith (1979) [[Class Size|班级规模]]经典元分析进行失真提取的[[Cargo Cult Science|货物崇拜科学]]特征。
 > - [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] 从[[Fixed-Effect Model|固定效应]]数学公理推导出两级元分析代数等价性定理（$D = \bar{d}, v_D = v_{\bar{d}}$），系统剖析了一级元分析中[[Standard Error|标准误]]误作标准差导致效应量虚增十倍（Eisenstaedt 案例）、未加权平均以及严重文献重叠（Olson & Wisher 93.3% 重叠）对综合推断的破坏机制，提出建立中央标准化证据数据库并转向基于原始主要研究的一级大样本直接综合。（pp. 24–30, 35–36）

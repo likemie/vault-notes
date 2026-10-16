@@ -9,7 +9,7 @@ aliases:
 summary: "教育与社会科学中建立原因与效果之间关系的推理体系，涵盖概率因果、反事实潜在结果模型、因果识别设计层级（RCT/QED/RDD/SCD）以及生成性因果机制与筛选隔离逻辑。"
 type: concept
 domain: "educational-philosophy"
-related_count: 81
+related_count: 86
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -56,6 +56,7 @@ related_concepts:
   - "[[Nomothetic]]"
   - "[[Idiographic]]"
   - "[[National Character]]"
+  - "[[Visible Learning]]"
   - "[[Causal Processes]]"
 related_theories:
   - "[[Realist Evaluation]]"
@@ -80,10 +81,13 @@ related_methods:
   - "[[Gating Procedure]]"
   - "[[Single-Case Design]]"
   - "[[Intent-to-Treat Analysis]]"
+  - "[[Statistical Significance]]"
+  - "[[Meta-analysis]]"
   - "[[Single-Subject Design]]"
   - "[[ABAB Design]]"
   - "[[Correlational Research]]"
   - "[[Causal Modeling]]"
+  - "[[Meta-meta-analysis]]"
 related_instruments: []
 related_persons:
   - "[[Brian Holmes]]"
@@ -108,6 +112,7 @@ related_arguments:
   - "[[Argument_Wadhwa_2024_RER]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
   - "[[Argument_Eisenhart_Towne_2003_ER]]"
+  - "[[Argument_Golovchin_2019_ESC]]"
 confidence: high
 status: active
 created: 2026-05-31
@@ -316,6 +321,7 @@ updated: 2026-10-16
 > > - **批判理性主义学派（Holmes, Popper）** 主张因果推断必须依赖特定初始条件（$L + I = P$），只能得出暂时的、可被经验[[Falsification|证伪]]的条件性预测，而非无条件的[[Determinism|决定论]]铁律。[[Argument_Kazamias_2009_HistoricalReflections\|(Kazamias, 2009a, p. 150)]]
 
 > [!critique] 常见因果推断误用
+> - **以[[Statistical Significance|统计显著性]]不当替代真实因果关联** 戈洛夫钦（[[Argument_Golovchin_2019_ESC|Golovchin, 2019, p. 237]]）在梳理《[[Visible Learning|可见的学习]]》国际方法论批判谱系时指出，将大规模[[Meta-analysis|元分析]]聚合后的统计显著性（Statistical Significance）机械等同于因果效应是严重的因果混淆；正如其引用批评所言，效应量“本身不能构成因果（cannot be causal）”，基于统计相关与均值排位的宏观推断往往掩盖了具体课堂情境中复杂的因果机制。
 > - **把相关性直接解读为因果结论** 在回归模型中控制若干[[Variable\|变量]]后便轻率得出“政策导致提分”的结论。
 > - **以单组前[[Pre-test and Post-test\|后测]]声称因果成效** 忽略时间推移带来的自然成熟与均值回归假象。
 > - **混淆局部处理效应（LATE）与全局平均效应（ATE）** 将[[Regression Discontinuity Design\|断点回归]]或工具变量识别出的局域因果效应盲目推广至全样本。
@@ -344,4 +350,5 @@ updated: 2026-10-16
 > - [[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015)]] — 论证单一被试实验（[[Single-Case Design\|SCD]]）与组间实验的因果推断同构性及[[Internal Validity\|内部效度]]门控机制。
 > - [[Argument_Wadhwa_2024_RER\|Wadhwa, Zheng, & Cook (2024)]] — 建立清算中心 0–3 级因果识别设计分级标准，揭示微观因果证据向宏观政策转译时的综合门槛割裂。
 > - [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart and Towne (2003)]] — 系统考据美国国家立法对“因果关系主张合法性边界”的界定流变，揭示从 [[No Child Left Behind Act 2001|NCLB]] 强制偏向随机对照到 [[Education Sciences Reform Act 2002|ESRA]] 确立“在实质上排除竞争性解释即可推断因果”的法理演进（pp. 33–35）。
+> - [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] — 梳理国际批判学者对宏观[[Meta-meta-analysis|二阶元分析]]因果推断合法性的质疑，指出以[[Statistical Significance|统计显著性]]替代因果机制、断言[[Effect Size|效应量]]“不能构成因果”的方法论缺陷（pp. 237–241）。
 > - [[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] — 系统梳理比较[[Epistemology|认识论]]中因果观念的代际演进，深入剖析[[Positivism|实证主义]]跨国因果律追求、波普尔-霍姆斯基于初始条件的假说演绎条件因果模型（$L + I = P$），以及对方法论主义因果盲区的反思（pp. 146–150）。

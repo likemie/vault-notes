@@ -6,7 +6,7 @@ summary: "比较不同干预或变量影响强度的标准化统计指标，被�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 86
+method_related_count: 87
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dcfce7"
@@ -98,6 +98,7 @@ related_arguments:
   - "[[Argument_Simpson_2017_JEdPolicy]]"
   - "[[Argument_Simpson_2019_ERE]]"
   - "[[Argument_Wiliam_2019_ERE]]"
+  - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Kraft_2023_ER]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
@@ -156,7 +157,7 @@ updated: 2026-10-16
 > - **2009** — [[John Hattie]] 出版《[[Visible Learning\|可见的学习]]》，综合 800 多项元分析和 50,000 多项研究，以效应量排名各类教育干预，使效应量概念进入全球教育政策和实践[[Discourse|话语]]。
 > - **2014** — [[EEF Teaching and Learning Toolkit]] 以[[Effect Size Conversion\|效应量转换]]为"额外学习月数"的格式传播教育干预证据。
 > - **2017 至 2018** — Simpson 发表系统批判，论证效应量测量的是试验灵敏度而非干预有效性（[[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017]], 2018）。
-> - **2019** — Simpson 用"教一个匈牙利单词"思想实验展示同一干预可因测试设计产生 0 到无穷大的效应量；Wrigley & McCusker 通过 [[Education Endowment Foundation\|EEF]] Toolkit 体育参与案例展示[[Meta-meta-analysis\|元-元分析]]层面的三级失真；Wiliam 提出 11 点元分析评估清单([[Argument_Simpson_2019_ERE\|Simpson, 2019]]; [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019]]; [[Argument_Wiliam_2019_ERE\|Wiliam, 2019]])。
+> - **2019** — Simpson 用"教一个匈牙利单词"思想实验展示同一干预可因测试设计产生 0 到无穷大的效应量；Wrigley & McCusker 通过 [[Education Endowment Foundation\|EEF]] Toolkit 体育参与案例展示[[Meta-meta-analysis\|元-元分析]]层面的三级失真；Wiliam 提出 11 点元分析评估清单([[Argument_Simpson_2019_ERE\|Simpson, 2019]]; [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019]]; [[Argument_Wiliam_2019_ERE\|Wiliam, 2019]])。同时，俄罗斯学者戈洛夫钦（[[Argument_Golovchin_2019_ESC\|Golovchin, 2019]]）首次采用变差系数检验《可见的学习》所用 133 项效应量数据集，发现总体离散度击穿统计同质性阈值（$V_\sigma = 56.87\% > 33\%$），实证揭示了未经同质性控制的效应量聚合使 $d=0.40$ 关节点失去数理基准效力。
 > - **2020 至 2023** — Kraft 以教育[[Randomised Controlled Trials\|随机对照试验]]中标准化[[Academic Achievement\|学业成绩]]结果的经验分布替代 Cohen 基准，并强调 36% 的效应量小于 0.05 这一"失败频率"应成为解释政策相关性的核心参照([[Argument_Kraft_2023_ER\|Kraft, 2023, pp.183–184]])。
 > - **2025** — Kalmendal 等人发表全库[[Metascience|元科学]]质量审计，基于 Morris and DeShon（2002）的方法学原理实证剖析了效应量跨设计聚合的根本风险：指出组间与组内设计估计的是完全不同的总体参数，且与常规教学比较 vs 与积极干预比较的效应量存在翻倍差异；简单混合聚合严重摧毁了通用效应量指标的数学可比性（[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025, p. 16]]）。
 
@@ -240,6 +241,12 @@ updated: 2026-10-16
 > [[Argument_Hattie_2005_ACER\|Hattie (2005, pp. 15–16)]]尖锐指出，传统教育研究与政策常犯“把门槛设在零点（Setting the bar at zero）”的严重错误：
 > 1. **90%–95% 的创新天然有效** 实证数据显示，教育领域 90% 到 95% 的干预效应量都大于 0（$d > 0$），几乎所有政策和创新宣称“统计显著有效（$p < .05$）”都能轻易过关。
 > 2. **真实基线是 $d = 0.40$ 而非 $d = 0$** 任何干预只要未能超过一学年常规教学与自然成熟的基准线（$d = 0.40$），实质上就是低于平均水准或在浪费教学时间。因此，[[Evidence-Based Education\|循证教育]]决策必须以 $d = 0.40$ 作为判断干预是否产生实质净增值的最低关节点。
+
+> [!critique-data] 效应量数据集的极度离散与气压计标尺的数理动摇
+> 针对 Hattie 影响气压计将各类教育变量拉平为四区排名的做法，戈洛夫钦（[[Argument_Golovchin_2019_ESC\|Golovchin, 2019]]）首次采用变差系数（\(V_\sigma = \frac{\sigma}{\bar{x}} \times 100\%\)）对《[[Visible Learning|可见的学习]]》所用 133 项正值效应量进行了系统检验。测算证实：
+> - **全库总体离散度击穿阈值** 总体效应量变差系数高达 **56.87%**，远超 33% 的样本同质性安全上限，属于统计学上的极度不均数据集；
+> - **各来源分项全部超标** 学生因素（71.24%）与学校因素（65.97%）离散最为严重，教师（51.01%）、教学策略（50.65%）、课程（41.95%）与家庭（38.57%）亦全部突破 33% 门槛；
+> - **推论** 效应量数据在未经同质性控制与严格质量筛选前被强行平均化，导致 \(d=0.40\) 标尺缺乏稳健的数理基础，无法作为普适性教育政策干预的绝对判准。[[Argument_Golovchin_2019_ESC\|(Golovchin, 2019, pp. 238–239)]]
 
 > [!tip] 课堂层面的效应量测算与校本应用
 > 为使效应量走出象牙塔并直接赋能一线教师，Hattie 团队在新西兰开发了“[[Assessment Tools for Teaching and Learning\|教学与学习评估工具]]”（[[Assessment Tools for Teaching and Learning\|asTTle]]）软件系统。教师只需录入班级前后测数据，系统即可自动计算班级和个体层面的效应量（$d = \frac{M_{\text{后测}} - M_{\text{前测}}}{SD_{\text{合并}}}$），并对照全国常模生成雷达图与进阶路径。这使教师能将效应量作为自我诊断教学成效的常态化镜子，而非外在的惩罚性问责工具（[[Argument_Hattie_2005_ACER\|Hattie, 2005, pp. 16–17]]）。
@@ -330,6 +337,7 @@ updated: 2026-10-16
 > | [[Meta-analysis\|元分析]] | 当前概念角色与总体结果 | 证据规模 $M$ / $E$ / $k$ / $N$ | 效应指标与模型 | 汇总效应与 95% [[Confidence Interval\|CI]] | [[Heterogeneity\|异质性]]与 95% PI | 关键解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Hattie_2005_ACER\|Hattie (2005)]] | 全球教育创新与教学干预总体综合效应 | $M > 100$；$E > 500,000$；$k > 50,000$；$N > 20,000,000$ | Cohen's $d$ / 经验正态分布 | 总体均值 $d = 0.40$ | 正态分布 $SD \approx 0.20$；90%–95% 效应量为正 | 宏观二阶元分析概括；确立 $d=0.40$ 关节点，但包含不同研究质量混合 |
+> | [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] | 《[[Visible Learning\|可见的学习]]》133 项正值效应量离散度与同质性检验 | $k = 133$ 项正效应量指标（来自 800+ 项元分析汇总） | Cohen's $d$ / 变差系数（$V_\sigma$） | 均值 $d = 0.408$；中位数 $0.390$ | 标准差 $\sigma = 0.232$；变差系数 $V_\sigma = 56.87\%$（超标 $33\%$ 同质性安全上限） | 实证证实全库效应量极度离散不均；学生与学校因素离散最高（$V_\sigma > 65\%$），单一 $d=0.40$ 关节点缺乏数理稳健性 |
 > | [[Argument_Kraft_2023_ER\|Kraft (2023)]] | 美国 K-12 教育干预因果试验经验分布 | $k = 3,426$ 个效应量（来自因果 RCT 研究） | 标准化均差（SMD） | 中位数 $d = 0.10$；30 百分位 0.02；70 百分位 0.21 | 36% 的效应量 $< 0.05$ | 严格限定于因果评估与标准化[[Achievement and Aptitude Tests\|成就测验]]；剔除开发者自编测验偏倚 |
 
 ---
@@ -446,6 +454,7 @@ updated: 2026-10-16
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Hattie_2005_ACER\|Hattie (2005)]] — 提倡将效应量直接作为学校与教师评估教学成效的通用工具，基于 100 余项[[Meta-analysis\|元分析]]确立 $d=0.40$ 为判断干预增值的关节点基准，并揭示“零门槛谬误”。
 > - [[Argument_Kraft_2023_ER\|Kraft (2023)]] — 基于 3,426 个教育 [[Randomised Controlled Trials\|RCT]] 效应量构建经验分布，提出以实证分布与失败频率替代传统 Cohen 经验法则。
+> - [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] — 运用变差系数对 133 项效应量指标展开统计检验，证实二阶综合效应量极度离散（$V_\sigma = 56.87\%$），揭示未经同质性控制的宏观效应量排名无法作为普适性教育政策工具。
 > - [[Argument_Wolf_2020_JREE\|Wolf et al. (2020)]] — 运用[[Meta-regression\|元回归分析]] 755 个效应量，实证量化了[[Developer Effect\|开发者效应]]与测量工具紧密性对效应量的系统性推升。
 > - [[Argument_Wrigley_2019_ERE\|Wrigley and McCusker (2019)]] — 追踪 [[Education Endowment Foundation\|EEF]] 工具包中效应量转化为月数时的逐级失真案例。
 > - [[Argument_Ross_Morrison_2021_ECNUROE\|Ross and Morrison (2021)]] — 论证效应量与[[Statistical Significance\|统计显著性]]必须与成本、[[Implementation Fidelity\|实施保真度]]及地方语境综合解释。

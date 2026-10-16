@@ -6,7 +6,7 @@ aliases:
 summary: "班级学生人数这一关键教育组织变量，其对教学互动与学业成果的影响不仅取决于人数变化本身，更取决于教师质量、物质资源、教学方式调整以及跨情境测量精度的系统约束。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 62
+related_count: 63
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -83,6 +83,7 @@ related_arguments:
   - "[[Argument_Pellegrini_2021_ECNUROE]]"
   - "[[Argument_Garcia_Garrido_2009_SpainEU]]"
   - "[[Argument_Johnson_2023_CritEduc]]"
+  - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Hattie_2010_NZJES]]"
   - "[[Argument_Cowen_2015_CHESS]]"
 confidence: high
@@ -240,6 +241,9 @@ updated: 2026-10-16
 
 > [!claim] Glass and Smith (1979); [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]
 > **断章取义剪裁经典文献与忽略配套危机** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]进一步指出，哈蒂宣称从格拉斯与史密斯（1979）的经典元分析中提取出 $d=0.09$ 的极低效应量，但 Glass & Smith 在原文中根本未曾报告过该数值；相反，原著证实控制良好的[[Experimental Research|实验研究]]中，班级从 40 人缩减至 1 人时学业成绩提升超过 30 个百分位点。哈蒂仅截取了曲线最右端平缓局部，并混入 100 人的大学阶梯讲座数据来指导中小学；与此同时，将 1996 年加利福尼亚州州长为了与工会斗争而仓促推行缩班立法（导致临时板房与未经培训生手充斥课堂）的失败归咎为班额本身无效，完全掩盖了缩班需要师资培训与校舍配套的制度教训（pp. 32–33）。
+>
+> [!claim] [[Argument_Golovchin_2019_ESC|Golovchin (2019)]]
+> **民间游说与俄罗斯依凭排名削减资源的治理陷阱** 戈洛夫钦（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）指出，在英美国家，《可见的学习》关于小班优势的论断催生了诸如“班级规模至关重要（Class size matters）”等社会运动组织，在政府与地方各级积极游说严控班额上限；然而，班级规模在哈蒂影响气压计中仅被列为中低效应区（$d=0.21$）。俄罗斯教育决策层若机械依凭这一排名，将其作为学校资源配置与财政拨款的调整判准（如借“班额影响不大”为由推卸办学经费、任由公立学校班额扩张并削减财政投入），将使本已面临经费不足（45% 教师反映）与形式主义官僚填报重负（79% 教师受困）的基层学校陷入雪上加霜的“制度陷阱”，甚至加剧优秀教师群体的大规模流失。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 235–237, 240–241)]]
 
 ---
 
@@ -356,6 +360,7 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 通过词频统计（95 次提及）与格拉斯[[Primary and Secondary Documents|原始文献]]核查，系统揭露《[[Visible Learning|可见的学习]]》如何将班级规模效应矮化为新自由主义财政紧缩的实证挡箭牌（pp. 31–33）。
+> - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 记录欧美围绕班级规模（$d=0.21$）形成的“Class size matters”民间游说，并以俄罗斯实证反思决策层依凭中低效应排名削减学校资源所引发的教师流失与行政困境（pp. 235–237, 240–241）。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 针对[[John Hattie|哈蒂]][[Meta-analysis|元分析]]平均值视角的系统批判，系统梳理 STAR、伦敦研究与德州 15 校案例中班级规模与教学法交互的实证证据。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al. (2011, Ch. 17)]] — 详尽解析 Glass & Smith 开拓性元分析案例，阐释控制质量如何系统性重塑班级规模效应曲线的形态与斜率。
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 全球[[Classroom Observation|课堂观察]]手册 Teach，在发展中国家超 1,000 间小学计量模型中确立控制班级规模后微观实践的增值预测力，并指出 60–100 人超大班额对时间快照测量的挑战。

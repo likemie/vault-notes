@@ -11,7 +11,7 @@ summary: "以解释学与建构主义为认识论基础，在自然情境中通�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 97
+method_related_count: 100
 method_related_level: 6
 method_related_stars: "⭐⭐⭐⭐⭐⭐"
 method_related_color: "#dbeafe"
@@ -54,6 +54,7 @@ related_concepts:
   - "[[Analytic Generalization]]"
   - "[[Heterogeneity]]"
   - "[[Disciplina and Doctrina]]"
+  - "[[Visible Learning]]"
   - "[[Causality]]"
   - "[[Big Science]]"
 related_theories:
@@ -101,6 +102,7 @@ related_methods:
   - "[[Audiovisual, Social Media, and Digital Materials]]"
   - "[[Descriptive Methods]]"
   - "[[Participant Observation]]"
+  - "[[Meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Narrative Analysis]]"
   - "[[Mixed Methods Research]]"
@@ -123,6 +125,7 @@ related_arguments:
   - "[[Argument_Brady_2023_EPR]]"
   - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Edmondson_2005_EPAA]]"
+  - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Eisenhart_Towne_2003_ER]]"
 confidence: high
 status: draft
@@ -291,6 +294,7 @@ Miller 关于新任[[Grandes Ecoles|大学校]]长第一年经历的博士论文
 > - **推广性受限与情境绑定** 质性研究追求[[Analytic Generalization\|分析性推广]]与可转移性，其结论深度依存于具体田野的时空语境，无法直接外推至[[Heterogeneity\|异质性]]总体。
 > - **研究者主观性与反应性偏差** 研究者进入现场必然对被研究者产生干扰与反应性（Reactivity），访谈言语容易受到受访者社会赞许性与防备心理的过滤。
 > - **忽视宏观权力与微观浪漫主义批判** [[John Rex\|约翰·雷克斯]]（John Rex, 1974）、[[Basil Bernstein\|巴兹尔·伯恩斯坦]]（[[Basil Bernstein]], 1974）与[[Keith Morrison\|基思·莫里森]]（Keith Morrison, 2009）深刻指出：质性诠释进路容易陷入微观乌托邦与主观浪漫主义，将社会结构虚幻地描绘为个体完全自由协商的产物，却在[[Epistemology\|认识论]]上遮蔽了宏观阶级结构、制度性不平等以及权力对微观互动的深层[[Disciplina and Doctrina\|规训]]与宰制（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, Ch. 1, p. 26]]）。
+> - **宏观量化综合中的经验偏倚与质性证据边缘化** 戈洛夫钦（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）在评析《[[Visible Learning|可见的学习]]》国际论辩时引述埃瓦尔德·特哈特（Ewald Terhart）与伊万·斯努克（Ivan Snook）等学者的批判指出，以[[Meta-analysis|元分析]]为主导的宏观循证模式存在严重的“经验偏倚（empirical bias）”：研究往往将视野严格局限于可被量化编码的单向度指标，全盘排斥质性研究证据。然而，学校与课堂中关涉交往沟通、师生信任、伦理价值与主观理解的核心教育现象，根本无法通过标准化统考测验与统计[[Effect Size|效应量]]予以还原，唯有依靠质性研究进路才能达成深层理解；盲目排斥质性成果不仅导致量化排名的解释力严重空心化，更容易催生教学实践的去专业化危机。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 236–237, 240)]]
 > - **政策制定中的[[Paradigm|范式]]排他性遭遇与国家立法的等级规制** 在自上而下的循证政策规制浪潮中，质性研究曾遭遇严重的法定贬抑与排除：
 >   - 在 1998 年《[[Reading Excellence Act]]》与国家阅读专家组（[[National Reading Panel|NRP]]）报告中，官方将“科学”狭隘锚定为实验/[[Randomised Controlled Trials|RCT]]，系统性排斥质性探究；
 >   - 在 2000 年国会卡斯尔草案（H.R. 4875）中，立法者甚至试图在成文法中直接确立等级清单，将[[Narrative Analysis|叙事分析]]、[[In-depth Interview|深度访谈]]、[[Participant Observation|参与观察]]、[[Case Study|案例研究]]与[[Ethnography|民族志]]明文贬低为仅供在因素尚未明晰时开展的“初步形式”（Preliminary Form），强制要求事后必须通过量化假设检验予以确证；
@@ -332,5 +336,6 @@ Miller 关于新任[[Grandes Ecoles|大学校]]长第一年经历的博士论文
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 详尽规范质性研究九大特征、数据收集类型、七步分析规程与效度检验策略。
 > - [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] — 统计分析顶级教育心理学期刊中质性研究的增长趋势，警示质性[[Recommendations for Practice\|实践建议]]中的[[Causality\|因果推断]]边界。
 > - [[Argument_Edmondson_2005_EPAA\|Edmondson (2005)]] — 结合 Shannon (1991) 沟通性政策研究框架，阐发质性探究在打开政策协商黑箱中的独特价值，并深刻反思国家官方专家委员会以“科学共识”为名对质性研究的系统性排斥。
+> - [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] — 梳理 Terhart 等学者对以《[[Visible Learning|可见的学习]]》为代表的[[Meta-analysis|元分析]]排斥质性成果、“忽略学校不可量化微观现象（交往、价值观、理解）”的经验偏倚批判，论述质性进路在理解复杂教育系统中的不可替代性（pp. 236–237, 240）。
 > - [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart and Towne (2003)]] — 详实回顾美国联邦立法中质性研究遭遇卡斯尔草案（H.R. 4875）贬为“初步形式”的历史公案，论证如何依据[[National Research Council|国家研究委员会]]（NRC）六[[Big Science|大科学]]原则打破量化/质性二元对立，推动确立“方法契合所提问题”的原则。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 在比较教育学方法论史综述中，引用斯塔克 (1995) 对量化/质性研究取向根本差异的经典界定，将其纳入学科从方法论单一性走向 26 种理论并存的[[Pluralism|多元主义]]演进叙事之中。
