@@ -7,10 +7,10 @@ aliases:
 summary: "从同一总体中多次随机抽样时样本统计量围绕总体真实参数的理论波动；度量从样本推断总体的随机不确定性，在元分析中作为研究内抽样方差与研究间真实异质性相对立，其准确估计依赖于样本独立性假设与逆方差加权机制"
 type: concept
 domain: "research-methodology"
-related_count: 39
-related_level: 3
-related_stars: "⭐⭐⭐"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "⭐⭐⭐⭐"
+related_color: "#fdba74"
 tags:
   - method/sampling
   - quantitative-research

@@ -9,7 +9,7 @@ aliases:
 summary: "围绕教育数据的去情境化抽取、算法通约折算与选择性再呈现而动态装配的社会-技术网络；并非静态信息管道，而是充斥算法选择性与即兴调配的实验性系统，深陷简化、通约、时效、公开与博弈五维张力，通过次级代表表象生产分布式治理权力。"
 type: concept
 domain: "sociology-of-education"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "⭐⭐⭐"
 related_color: "#fde68a"

@@ -8,7 +8,7 @@ summary: "德国慕尼黑工业大学与希尔德斯海姆大学经验教育研�
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 24
+person_related_count: 28
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"

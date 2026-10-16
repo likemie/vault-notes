@@ -5,10 +5,10 @@ aliases:
 summary: "John Hattie 发起的教育证据综合与学校改进框架，主张通过汇总海量元分析建立 d=0.40 关节点相对有效性判准，将教师确立为成就变异的核心因果枢纽（30%），依托学业进阶、显性成功标准与形成性反馈重塑教学评价性判断。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 99
-related_level: 5
-related_stars: "⭐⭐⭐⭐⭐"
-related_color: "#fecdd3"
+related_count: 100
+related_level: 6
+related_stars: "⭐⭐⭐⭐⭐⭐"
+related_color: "#ddd6fe"
 tags:
   - visible-learning
   - evidence-based-education

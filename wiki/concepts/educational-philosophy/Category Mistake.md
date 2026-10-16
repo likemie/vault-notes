@@ -9,10 +9,10 @@ aliases:
 summary: "指将属于特定逻辑或本体范畴的事物错误归入另一范畴并按后者的规则处理的哲学与方法学谬误；在教育研究与循证排名中，特指将制度条件、个体特征、长周期综合方案与短周期微观变体等异质且不可通约的因素在单一有效性排行榜上强行并列与比较的范畴通约失范"
 type: concept
 domain: "educational-philosophy"
-related_count: 18
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 31
+related_level: 3
+related_stars: "⭐⭐⭐"
+related_color: "#fde68a"
 tags:
   - concept/educational-philosophy
   - epistemology

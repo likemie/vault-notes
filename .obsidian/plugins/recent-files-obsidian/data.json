@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Knowledge Bank",
+      "path": "wiki/concepts/comparative-education/Knowledge Bank.md"
+    },
+    {
+      "basename": "Argument_Castro_2009_MultilateralBanks",
+      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Castro_2009_MultilateralBanks.md"
+    },
+    {
+      "basename": "Argument_Garcia_Garrido_2009_SpainEU",
+      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Garcia_Garrido_2009_SpainEU.md"
+    },
+    {
       "basename": "Argument_Golovchin_2019_ESC",
       "path": "wiki/arguments/journal-articles/Economic and Social Changes Facts, Trends, Forecast/Argument_Golovchin_2019_ESC.md"
     },
@@ -109,10 +121,6 @@
       "path": "wiki/concepts/research-methodology/Discourse.md"
     },
     {
-      "basename": "Argument_Garcia_Garrido_2009_SpainEU",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Garcia_Garrido_2009_SpainEU.md"
-    },
-    {
       "basename": "Jason Beech",
       "path": "wiki/persons/argentina/Jason Beech.md"
     },
@@ -123,10 +131,6 @@
     {
       "basename": "Stephen Ball",
       "path": "wiki/persons/uk/Stephen Ball.md"
-    },
-    {
-      "basename": "Argument_Castro_2009_MultilateralBanks",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Castro_2009_MultilateralBanks.md"
     },
     {
       "basename": "Argument_WorldBank_2019_Teach",
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Arnove_2009_WorldSystems",
       "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Arnove_2009_WorldSystems.md"
-    },
-    {
-      "basename": "Inter-American Development Bank",
-      "path": "wiki/facts/latin-america/Inter-American Development Bank.md"
     }
   ],
   "omittedPaths": [],

@@ -11,9 +11,9 @@ summary: "在元分析与证据合成中，将不同实证设计所报告的效�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 22
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 27
+method_related_level: 3
+method_related_stars: "⭐⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/quantitative
