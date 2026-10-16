@@ -287,7 +287,7 @@ Total entries: **355**
 > - [[Argument_Bogliacino_Pianta_2016_EconPol]] — 对 Pavitt（1984）分类法进行跨国家和跨时间实证检验，基于欧洲七国三轮 CIS 数据将分类法扩展至服务业和 ICT 行业，确认四类核心结构仍然稳健但需要将规模密集型修订为规模与信息密集型
 
 > [!index-list]- Economic and Social Changes: Facts, Trends, Forecast (1)
-> - [[Argument_Golovchin_2019_ESC]] — 以变差系数检验 Hattie 效应量数据集（Vσ=56.87%），系统综述 10+ 位批评者论点，评估 VL 对俄教育政策的适用性并建议拒绝借用
+> - [[Argument_Golovchin_2019_ESC]] — 以变差系数检验 Hattie 效应量数据集（Vσ=56.87%），系统综述 10+ 位批评者论点，评估可见的学习对俄教育政策的适用性并建议拒绝借用
 
 > [!index-list]- Education Policy Analysis Archives (1)
 > - [[Argument_Edmondson_2005_EPAA]] — 运用政策制定多元分类框架考察美国《卓越阅读法案》的立法演进，揭示多元主义、法团主义、次政府与精英理论对阅读定义与科学证据标准的塑造，进而提出赋权教育者的批判性多元主义框架。
