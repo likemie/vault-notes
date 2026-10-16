@@ -87,7 +87,7 @@ updated: 2026-10-16
 > - **2005** [[Wolfgang Streeck|施特雷克]]与希伦合编出版《制度变迁的超越》，系统反思皮尔逊早期福利紧缩研究中的连续性偏误，促发历史制度主义走出静态路径依赖模型。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 6–8)]]
 > - **2007** 与[[Theda Skocpol|西达·斯考切波]]（Theda Skocpol）合编出版《美国政治的转型》（*The Transformation of American Politics*）。
 > - **2009** 深度参与[[James Mahoney|马奥尼]]与希伦《解释制度变迁》研讨，命名并提炼“地下室白蚁机制”。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. xiii, 31)]]
-> - **2010** 与[[Jacob S. Hacker|哈克]]合著出版《赢家通吃的政治》，引发全美关于贫富悬殊、[[Institutional Drift|政策漂移]]与组织权力的广泛探讨。
+> - **2010** 与哈克合著出版《赢家通吃的政治》，引发全美关于贫富悬殊、[[Institutional Drift|政策漂移]]与组织权力的广泛探讨。
 
 ---
 
@@ -154,7 +154,7 @@ updated: 2026-10-16
 > >
 > > - **Paul Pierson（1994, 1996）** 由于福利项目创造了庞大的受惠阶层并诱发自强化锁定，政治家因恐惧选民惩罚而极力规避指责，导致福利国家具有强大的抗削减韧性。
 > > - **Wolfgang Streeck and Kathleen Thelen（2005）** 皮尔逊将变迁狭隘地等同于显性的成文法废止（explicit legislative repeal），陷入严重的连续性偏误；保守派无需发动正面的修法大战，只需借助[[Institutional Drift|制度漂移]]（拒绝随通胀与外部风险更新保障）或[[Institutional Layering|制度层叠]]（扶持私人替代支柱），就能在法条未改的外壳下瓦解福利保障。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 6–8)]]
-> > - **Paul Pierson（2004, 2010）** 在后续研究中充分吸收渐进演化视角，与[[Jacob S. Hacker|哈克]]合著《赢家通吃的政治》深入剖析有组织商业集团如何利用政策漂移与规制阻滞重塑美国不平等结构。
+> > - **Paul Pierson（2004, 2010）** 在后续研究中充分吸收渐进演化视角，与哈克合著《赢家通吃的政治》深入剖析有组织商业集团如何利用政策漂移与规制阻滞重塑美国不平等结构。
 
 ---
 

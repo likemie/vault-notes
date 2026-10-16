@@ -66,7 +66,7 @@ updated: 2026-10-16
 
 ## 背景
 
-《关于比较教育的一项著作的计划与初步观点》（*Esquisse d'un ouvrage sur l'éducation comparée, et séries de questions sur l'éducation*，常简称《计划》或 *Esquisse*）是现代比较教育学与[[International Education|国际教育]]的奠基性文献：
+《[[Esquisse d'un ouvrage sur l'éducation comparée|关于比较教育的一项著作的计划与初步观点]]》（*Esquisse d'un ouvrage sur l'éducation comparée, et séries de questions sur l'éducation*，常简称《计划》或 *Esquisse*）是现代比较教育学与[[International Education|国际教育]]的奠基性文献：
 
 > [!policy-context] 政策与历史背景
 > - **发布时间 / 作者背景** 1816 年底至 1817 年初由法国启蒙自由主义学者、前雅各宾派国民公会战地记者[[Marc-Antoine Jullien\|马克-安托万·朱利安]]（Marc-Antoine Jullien de Paris, 1775–1848）在巴黎初等教育协会主办的《教育学报》（*Journal d'éducation*）上分期连载发表，并印发单行本独立发行。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 11, 13)]]

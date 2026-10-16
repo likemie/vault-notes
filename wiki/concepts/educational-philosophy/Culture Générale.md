@@ -69,7 +69,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> 普通文化（Culture Générale，亦常译为通识教养或法兰西普通文化）是源自法国[[René Descartes\|笛卡尔]]理性主义哲学与 19 世纪折衷主义思潮的精英中等教育与通识课程哲学。它主张教育的根本旨趣不在于过早传授专业技能或功利知识，而在于通过古希腊罗马古典人文学科（语言、文学与哲学修辞）与现代自然科学、数学的有机结合，顺应心灵内在规律实施系统的“心智训练”（mental discipline），全面锤炼个体的智力、审美与道德官能，进而为法兰西中央集权体制选拔与塑造具有清晰理性、独立批判判断力与国家公共奉献精神的治理精英。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 29–30)]]；[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 59)]]
+> [[Culture Générale|普通文化]]（Culture Générale，亦常译为通识教养或法兰西普通文化）是源自法国[[René Descartes\|笛卡尔]]理性主义哲学与 19 世纪折衷主义思潮的精英中等教育与通识课程哲学。它主张教育的根本旨趣不在于过早传授专业技能或功利知识，而在于通过古希腊罗马古典人文学科（语言、文学与哲学修辞）与现代自然科学、数学的有机结合，顺应心灵内在规律实施系统的“心智训练”（mental discipline），全面锤炼个体的智力、审美与道德官能，进而为法兰西中央集权体制选拔与塑造具有清晰理性、独立批判判断力与国家公共奉献精神的治理精英。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 29–30)]]；[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, p. 59)]]
 
 > [!concept-lens] 概念透镜
 > - **心智官能陶冶透镜** 基于[[Faculty Psychology\|心灵官能心理学]]，透视课程如何超越单纯事实记忆，将文理各学科作为磨砺注意力、比较力与严谨逻辑推理能力的“思想磨刀石”。
@@ -98,7 +98,7 @@ updated: 2026-10-16
 欧洲四大[[Paideia|古典教化]]传统在文化渊源、核心载体与政治社会功能上存在鲜明分野：
 
 > [!contrast-table] 欧洲四大古典教化传统比较
-> | 维度 | 法国 · 普通文化（*Culture Générale*） | 德国 · 精神教化（[[Bildung]]） | 英国 · 自由教育（[[Liberal Education]]） | 希腊 · 古典教化（[[Paideia]]） |
+> | 维度 | 法国 · [[Culture Générale\|普通文化]]（*Culture Générale*） | 德国 · 精神教化（[[Bildung]]） | 英国 · 自由教育（[[Liberal Education]]） | 希腊 · 古典教化（[[Paideia]]） |
 > |---|---|---|---|---|
 > | **思想哲学渊源** | [[René Descartes\|笛卡尔]][[Rationalism in International Relations\|理性主义]]与 19 世纪折衷主义 | 德国唯心主义、新人文主义与狂飙突进 | [[Aristotle\|亚里士多德]]博雅传统与绅士品格伦理 | 古希腊城邦公民沉思与至善和谐德性 |
 > | **心理与[[Epistemology\|认识论]]基础** | [[Faculty Psychology\|官能心理学]]与心智训练（文理融通） | [[Geisteswissenschaften\|精神科学]]、辩证否定与内在主体性觉醒 | 自由学术的超功利性与文雅品味熏陶 | 灵魂转向、智性沉思与身心和谐统一 |
@@ -109,7 +109,7 @@ updated: 2026-10-16
 
 ## 核心要素
 
-法国普通文化传统由以下核心机制与结构化要素共同构成：
+法国[[Culture Générale|普通文化]]传统由以下核心机制与结构化要素共同构成：
 
 > [!feature] 核心要素
 > - **文理折衷整合框架** 拒绝将科学与人文截然对立；[[Victor Cousin\|库森]]基于折衷哲学，将古代语言（拉丁文、希腊文）视为探究人性最高维度的本体磨砺，将现代数理科学作为训练精确推理的工具，构建文理通融的统一课程。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 30)]]
@@ -138,7 +138,7 @@ updated: 2026-10-16
 ### 命题一　普通文化通过文理融通与官能磨砺培育具有普遍理性与严整思维的智性心智
 
 > [!concept-lens] 课程[[Epistemology\|认识论]]与心智训练维度
-> 该命题探讨普通文化如何打破人文学科与自然科学的二元对立，依据[[Faculty Psychology\|官能心理学]]构建文理整合的心智训练机制。
+> 该命题探讨[[Culture Générale|普通文化]]如何打破人文学科与自然科学的二元对立，依据[[Faculty Psychology\|官能心理学]]构建文理整合的心智训练机制。
 
 > [!claim] [[Victor Cousin\|Cousin, V.]]
 > **文理平衡与官能全面陶冶** 库森在考察普鲁士中等教育后论证指出，古典语言文字是对人类精神最高本质的探索，而数学与物理则是对形式逻辑与客观观察官能的最佳锻炼。普通文化绝不排斥现代科学，而是主张将科学纳入以人文学科为统领的整全架构中，使年轻人的理智、心灵与审美官能得到均匀而协调的锻炼。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 30)]]；引自 Brewer (1971: 91–92); Halls (1965: 2)
@@ -189,7 +189,7 @@ updated: 2026-10-16
 
 > [!dev-timeline] 概念演变
 > - **17世纪 — [[René Descartes\|笛卡尔]]哲学奠基** 笛卡尔在《方法导论》中倡导普遍怀疑与清晰明白的理智直觉，为法国文化确立了崇尚严密逻辑、公理演绎与普遍主义的心智传统。
-> - **1830s — [[Report on the State of Public Instruction in Prussia\|库森报告]]与折衷主义中等教育确立** [[Victor Cousin\|库森]]发表普鲁士教育报告，将[[Faculty Psychology\|官能心理学]]转化为文理融通的课程构想，七月王朝将其确立为国立中学的普通文化（*culture générale*）官方准则。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 30)]]
+> - **1830s — [[Report on the State of Public Instruction in Prussia\|库森报告]]与折衷主义中等教育确立** [[Victor Cousin\|库森]]发表普鲁士教育报告，将[[Faculty Psychology\|官能心理学]]转化为文理融通的课程构想，七月王朝将其确立为国立中学的[[Culture Générale|普通文化]]（*culture générale*）官方准则。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 30)]]
 > - **1880s–1930s — 第三共和国黄金时代与双轨固化** 茹尔·费里（Jules Ferry）改革虽推行世俗初等免费义务教育，但中等中学的普通文化轨道依然对大众保持严格收费与阶级壁垒，成为培育法兰西政治家、外交官与思想家的摇篮。
 > - **1940s–1950s — 二战道德反思与战后[[Scientific Paradigm\|科学范式]]冲击** 二战浩劫击碎古典人文精英的神话；经济现代化与劳动力规划促使法国开启中等教育综合化改革，技术与应用学科逐步动摇古典学的绝对支配地位。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 59–60)]]
 > - **1960s–1970s — [[Pierre Bourdieu\|布迪厄]][[Cultural Capital\|文化资本]]批判** 皮埃尔·布迪厄（Pierre Bourdieu）发表《继承人》与《再生产》，深刻解构普通文化并非中立的普遍理性，而是统治阶层专属的“文化资本”，学校通过赞美这种未经言明的家庭阶级禀赋实施隐蔽的社会再生产。
@@ -202,7 +202,7 @@ updated: 2026-10-16
 > [!debates] 学术争议
 >
 > > [!axis] 普遍理性心智 vs 阶级统治的文化排他性资本
-> > 争论焦点在于普通文化究竟是全人类普遍理性的卓越体现，还是特定上层资产阶级维系特权的符号屏障。
+> > 争论焦点在于[[Culture Générale|普通文化]]究竟是全人类普遍理性的卓越体现，还是特定上层资产阶级维系特权的符号屏障。
 > >
 > > - **古典主义与折衷学派（Cousin, Halls）** 主张普通文化是人类最高智慧与科学理性的结晶，旨在培养超越狭隘私利的国家公民与公共栋梁。
 > > - **批判社会学派（Bourdieu & Passeron, 1970）** 尖锐指出普通文化充斥着资产阶级的文化区隔代码，通过表面平等的考试选拔，合法化了阶级不平等。
@@ -224,7 +224,7 @@ updated: 2026-10-16
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Bildung]] | 概念 | 德国精神教化传统，与法国普通文化共享欧洲 19 世纪人文主义终极目标，但更具浪漫主义内在有机性。 |
+> | [[Bildung]] | 概念 | 德国精神教化传统，与法国[[Culture Générale\|普通文化]]共享欧洲 19 世纪人文主义终极目标，但更具浪漫主义内在有机性。 |
 > | [[Liberal Education]] | 概念 | 英国自由教育传统，与法国普通文化形成英法古典精英教育的双子镜像，侧重绅士品格与自治公学。 |
 > | [[Paideia]] | 概念 | 古希腊城邦教化源头，为法兰西普通文化提供了古典修辞、哲学沉思与公民卓越性的母体[[Paradigm\|范式]]。 |
 > | [[Dual School System]] | 概念 | 19 世纪欧洲双轨学制的学术支柱，普通文化专属于排他性中等文理中学，用于阻隔大众平民轨道。 |
@@ -238,5 +238,5 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 考证[[Victor Cousin\|库森]]如何基于[[Faculty Psychology\|官能心理学]]与折衷哲学创立普通文化理想，并主导法国中等教育逾一个世纪。
+> - [[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki and Kazamias (2009)]] — 考证[[Victor Cousin\|库森]]如何基于[[Faculty Psychology\|官能心理学]]与折衷哲学创立[[Culture Générale|普通文化]]理想，并主导法国中等教育逾一个世纪。
 > - [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] — 将普通文化定性为 19 世纪支配欧洲课程的[[Paideia\|古典教化]]四重奏之一，剖析其在战后的道德破产与向[[Scientific Paradigm\|科学范式]]的转换。

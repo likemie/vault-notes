@@ -202,7 +202,7 @@ issuing_organization: ""
 
 > [!actor-grid] 推动通用标准议程的核心组织网络
 > - **资深政界领袖** 北卡罗来纳州前州长詹姆斯·B·亨特（James B. Hunt Jr.）及其创立的[[Hunt Institute|亨特研究所]]（Hunt Institute）、西弗吉尼亚州前州长鲍勃·怀斯（Bob Wise，卓越教育联盟负责人），凭借在两党州长间的声望穿梭协调；亨特于2007年主动邀请[[National Research Council|美国国家科学研究委员会]]（National Research Council, NRC）召开两次专题研讨会，梳理基于标准的问责制实证证据，形成政策简报《教育领导力蓝图》（*Blueprint for Education Leadership*），为通用标准立论。（pp. 8–9, 21）
-> - **专业智库与倡导机构** [[Achieve|阿奇夫]]（Achieve，由州长与跨国企业领袖联合发起，长期主持[[American Diploma Project|美国文凭项目]]（American Diploma Project, ADP））、[[The Education Trust|教育信托]]（The Education Trust，负责人卡蒂·海科克（Kati Haycock））与托马斯·B·[[Thomas B. Fordham Institute|福特汉姆基金会]]（Thomas B. Fordham Foundation，负责人切斯特·E·芬恩（Chester E. Finn Jr.）），持续发布各州标准质量评价报告，充当核心智囊。（pp. 9, 21）
+> - **专业智库与倡导机构** [[Achieve|阿奇夫]]（Achieve，由州长与跨国企业领袖联合发起，长期主持[[American Diploma Project|美国文凭项目]]（American Diploma Project, ADP））、教育信托（[[The Education Trust]]，负责人卡蒂·海科克（Kati Haycock））与托马斯·B·[[Thomas B. Fordham Institute|福特汉姆基金会]]（Thomas B. Fordham Foundation，负责人切斯特·E·芬恩（Chester E. Finn Jr.）），持续发布各州标准质量评价报告，充当核心智囊。（pp. 9, 21）
 > - **高校学术领军者** 密歇根州立大学教授、[[TIMSS|国际数学与科学趋势研究]]（Trends in International Mathematics and Science Study, TIMSS）全美负责人[[William H. Schmidt|威廉·H·施密特]]（William H. Schmidt），兼具国际知名学者与政策倡导者双重身份，带着跨国课程比较数据在全美各州巡回游说。（pp. 9–10, 21）
 > - **跨州教育行政首脑联合会** [[National Governors Association|全国州长协会]]（NGA）与[[Council of Chief State School Officers|州首席教育官理事会]]（CCSSO），代表全美 50 州教育行政最高负责人共同发起并主导该项动议，确立了自下而上的合法性。
 

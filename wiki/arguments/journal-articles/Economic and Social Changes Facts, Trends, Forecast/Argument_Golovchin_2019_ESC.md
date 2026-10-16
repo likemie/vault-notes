@@ -25,6 +25,7 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Evidence-Based Education]]"
   - "[[Paradigm]]"
+  - "[[Deschooling]]"
   - "[[Policy Borrowing]]"
   - "[[Value Neutrality]]"
   - "[[Research Scope]]"
@@ -56,9 +57,11 @@ related_methods:
 related_persons:
   - "[[John Hattie]]"
   - "[[Robert Slavin]]"
+  - "[[Robert Marzano]]"
   - "[[Scott Eacott]]"
 related_facts:
   - "[[Teaching and Learning International Survey]]"
+  - "[[Russian Translation of Visible Learning]]"
 related_arguments:
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Terhart_2011_JCS]]"
@@ -100,7 +103,7 @@ citation_aliases:
 > [!framework-table] 理论工具箱
 > | 理论工具 | 解释功能 |
 > |---|---|
-> | **传统教学论五支柱 vs. 新学校运动**<br>[[Paradigm\|范式张力]] / [[Bloom's Taxonomy\|布鲁姆分类学]] | 论文以夸美纽斯与第斯多惠确立的传统教学论五支柱（知识导向、教师核心地位、班级授课制、课堂纪律、[[Bloom's Taxonomy\|Bloom 分类学]]）为参照，指出 Hattie 将教师定位为非学科专家的调节者，实质上暗合了伊里奇与霍尔特等人的[[Deschooling|去学校化]]思想。(p.230-231) |
+> | **传统教学论五支柱 vs. 新学校运动**<br>[[Paradigm\|范式张力]] / [[Bloom's Taxonomy\|布鲁姆分类学]] | 论文以夸美纽斯与第斯多惠确立的传统教学论五支柱（知识导向、教师核心地位、班级授课制、课堂纪律、[[Bloom's Taxonomy\|Bloom 分类学]]）为参照，指出 Hattie 将教师定位为非学科专家的调节者，实质上暗合了伊里奇与霍尔特等人的[[Deschooling\|去学校化]]思想。(p.230-231) |
 > | **[[Policy Borrowing\|政策借用与制度陷阱]]**<br>[[Policy Borrowing]] | 用于解释外来教育方案在脱离本土文化传统与办学条件时为何容易异化。论文指出俄罗斯统一国家考试（Unified State Exam, USE）推行后仅获三分之一教师认可，警示盲目照搬西方模式极易产生制度不良反应。(p.230) |
 > | **新管理主义与全景敞视**<br>[[Panopticism\|全景敞视主义]] / [[Societies of Control\|控制社会]] | 揭示 Hattie 强调的指标监测与数据持续生成，本质上是一种行政监控机制，容易将教学活动转化为自上而下的填表与达标审查。(p.237-238) |
 
@@ -148,7 +151,7 @@ citation_aliases:
 > Hattie 通过汇总 800 余项[[Meta-analysis|元分析]]、归纳 138 个因素并以 \(d=0.40\) 为基准线划分效应区，试图建立一套通用的决策标尺；但这种做法把丰富的教育情境压缩为数字对比，导致真正重要的体制保障与专业知识被严重边缘化。（p.232-234）
 
 > [!evidence-scope] [[Meta-meta-analysis|二阶元分析]]的[[Research Scope|研究范围]]与数据特性
-> Hattie 采取的是二阶元分析（mega-analysis），直接综合的是既有的元分析成果而非原始课堂实验。在方法渊源上，Hattie 借用了 [[Robert Marzano|Robert Marzano]]（2000）在《学校改革新纪元》（*A New Era of School Reform*）中首创的“学校效应”（school effects）概念与元分析综合思路，但将其从单一学校层级扩展为对 800 余项底层元分析的宏观二阶综合。其数据主要来自 1980 至 2000 年代美、澳、新等英语国家的学生学业研究，旨在提炼出对各层级教育决策者具有直接吸引力的普适评价指标。(p.232) 该书于 2017 年被引介出版为俄文译本（[[Russian Translation of Visible Learning]]），并在俄学界引发了针对其科学依据与政策借用可行性的剧烈争鸣。(p.230, 232)
+> Hattie 采取的是二阶元分析（mega-analysis），直接综合的是既有的元分析成果而非原始课堂实验。在方法渊源上，Hattie 借用了 [[Robert Marzano|Robert Marzano]]（2000）在《学校改革新纪元》（*A New Era of School Reform*）中首创的“学校效应”（school effects）概念与元分析综合思路，但将其从单一学校层级扩展为对 800 余项底层元分析的宏观二阶综合。其数据主要来自 1980 至 2000 年代美、澳、新等英语国家的学生学业研究，旨在提炼出对各层级教育决策者具有直接吸引力的普适评价指标。(p.232) 该书于 2017 年被引介出版为俄文译本（[[Russian Translation of Visible Learning]]），并在俄学界引发了针对其科学依据与[[Policy Borrowing|政策借用]]可行性的剧烈争鸣。(p.230, 232)
 
 #### 1. 二阶元分析的操作规程与影响源划分
 

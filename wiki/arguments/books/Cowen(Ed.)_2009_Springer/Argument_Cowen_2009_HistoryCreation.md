@@ -57,7 +57,6 @@ related_persons:
   - "[[Isaac Kandel]]"
   - "[[Joseph Lauwerys]]"
   - "[[Andreas Kazamias]]"
-  - "[[Jacob S. Hacker]]"
   - "[[Gita Steiner-Khamsi]]"
   - "[[Wolfgang Mitter]]"
   - "[[John Dewey]]"
@@ -157,7 +156,7 @@ updated: 2026-10-16
 
 > [!evidence-grid] 起源叙事合法化与历史真空的实证依据
 > - **青年学者的合法化认同** Noah and Eckstein (1969) 在经典著作中极其清晰地梳理了学科源流，Bereday (1964) 则详尽记载了各国学者与院系分布。这些著作让青年学者确信比较教育学作为一个独立领域而存在，并为其提供了坚实的职业踏板（The history legitimated me）。（p.7）
-> - **合法化后的历史真空** 数十年过去，在学科获得充分体制合法性之后，深层的历史探究却陷入停滞：大量大学档案未被触碰，皮特·[[Jacob S. Hacker|哈克]]特（Peter Hackett）与理查德·拉帕茨（Richard Rapacz）等学者的私人通信未获系统整理，口述史研究尚在起步阶段。
+> - **合法化后的历史真空** 数十年过去，在学科获得充分体制合法性之后，深层的历史探究却陷入停滞：大量大学档案未被触碰，皮特·哈克特（Peter Hackett）与理查德·拉帕茨（Richard Rapacz）等学者的私人通信未获系统整理，口述史研究尚在起步阶段。
 
 > [!exegesis] 经典奠基著作的学科合法化与认同功能
 > 考恩以自身学术生涯的切身经历揭示了起源历史的功能主义实质。当他初到美国、出乎意料地在研究生院讲授社会学与比较教育学时，[[Harold Noah]] 与 [[Max Eckstein]] 是学界最先热情接纳他的人。更重要的是，在考恩作为学生思考是否专攻该领域时，正是 Noah and Eckstein (1969) 与 Bereday (1964) 的著作化解了他的学科认同焦虑：

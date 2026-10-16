@@ -159,4 +159,4 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Greene_2010_JEP\|Greene et al. (2010)]] —  使用验证性因子分析（CFA）评估了《[[Epistemic and Ontological Cognition Questionnaire\|认识论与本体论认知问卷]]》（EOCQ）在数学和历史领域的维度结构及其数据拟合度。
-> - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 以 258 名教师数据比较单因子、一阶与二阶模型，确立四因子二阶结构，并以 [[Average Variance Extracted\|AVE]] 检验[[Convergent and Discriminant Validity\|区分效度]]、以多组 CFA 检验跨性别[[Measurement Invariance\|测量等值]]。
+> - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 以 258 名教师数据比较单因子、一阶与二阶模型，确立四因子二阶结构，并以 [[Average Variance Extracted\|AVE]] 检验[[Convergent and Discriminant Validity\|区分效度]]、以多组 CFA 检验跨性别测量等值。

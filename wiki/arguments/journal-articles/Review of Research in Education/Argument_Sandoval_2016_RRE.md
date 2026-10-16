@@ -49,6 +49,7 @@ related_concepts:
   - "[[Epistemological Theories]]"
   - "[[Paradigm Wars]]"
   - "[[Reliability]]"
+  - "[[Deschooling]]"
   - "[[Source Evaluation]]"
 related_theories:
   - "[[Integrative Pluralism]]"
@@ -306,7 +307,7 @@ issuing_organization: ""
 
 ## 教育启示
 
-> [!implication]- 打通学校化与非学校化语境
+> [!implication]- 打通学校化与[[Deschooling|非学校化]]语境
 > [[Epistemology\|认识论]]认知的干预不应仅停留在提高学术成绩。最大的挑战在于跨语境迁移：学生在课堂中学会的评价相互冲突的主张的能力，很少能带入日常生活中。如何让具备高阶[[Epistemic Cognition\|认识论认知]]的公民，在离开学校后，面对网络上真假难辨的社会科学争议时，依然能自如地调用复杂的[[Source Evaluation\|来源评估]]（source evaluation）与证据质询技能，是教育设计必须正视的议题。这要求教师本身对科学实践具备极深的[[Epistemology\|认识论]]校准。
 
 ---

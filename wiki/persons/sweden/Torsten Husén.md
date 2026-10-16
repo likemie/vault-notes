@@ -108,7 +108,7 @@ updated: 2026-10-16
 ## 核心思想
 
 > [!claim] 核心主张
-> 托斯滕·胡森的思想轨迹体现了战[[Postpositivism\|后实证主义]]测量向深层制度反思的历史转变。他主张，教育系统的制度理性不能仅维系在工具理性的心理测量与机械的人力需求规划之上；二战后西方社会对“通过教育扩张消除一切社会不平等与促进持续繁荣”的盲信，在实践中导致了教育规划的正义性与有效性双重破产，必须直面过度学校化带来的合法性危机以及不同[[Paradigm\|范式]]共存的必要性。
+> [[Torsten Husén|托斯滕·胡森]]的思想轨迹体现了战[[Postpositivism\|后实证主义]]测量向深层制度反思的历史转变。他主张，教育系统的制度理性不能仅维系在工具理性的心理测量与机械的人力需求规划之上；二战后西方社会对“通过教育扩张消除一切社会不平等与促进持续繁荣”的盲信，在实践中导致了教育规划的正义性与有效性双重破产，必须直面过度学校化带来的合法性危机以及不同[[Paradigm\|范式]]共存的必要性。
 
 > [!citation-card] 战后实证规划承诺在现实世界的破灭
 > 科学规划与研究曾经保证能够带来社会公正、向上流动与持续增长，但生活中的冷酷事实证明，这些关于实证方法客观无误的宏大陈述不可依赖，直接削弱了实证至上论的学术根基。[[Argument_Mattheou_2009_ScientificParadigm\|(Mattheou, 2009, pp. 68–69)]]
@@ -137,7 +137,7 @@ updated: 2026-10-16
 > [!citation-card] 米特论胡森与[[IEA]]在欧洲比较教育边缘的独立轨道
 > 跨国实证调查（特别是胡森与波斯尔思韦特领导的 IEA 先驱研究）走出了一条独立于大学教席与学术学会的自主道路；这也解释了为何数十年来它们遭遇了文化主义与哲学-历史学派代表学者的漠视乃至公开怀疑。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, p. 94)]]
 >
-> *It must be remembered, however, that empirical and, in particular, quantitative cross-national surveys have long remained a marginal area in comparative [[Education in Europe]]. Such surveys, notably the pioneer studies of the IEA (International Association for the Evaluation of Educational Achievement), guided by Torsten Husén and Neville Postlethwaite, went their own way, quite remote from university chairs and academic societies. This may be one reason why, for decades, they met with disregard, if not open suspicion, from representatives of the culturalist and philosophical-historical approach.*
+> *It must be remembered, however, that empirical and, in particular, quantitative cross-national surveys have long remained a marginal area in comparative [[Education in Europe]]. Such surveys, notably the pioneer studies of the IEA (International Association for the Evaluation of Educational Achievement), guided by [[Torsten Husén]] and Neville Postlethwaite, went their own way, quite remote from university chairs and academic societies. This may be one reason why, for decades, they met with disregard, if not open suspicion, from representatives of the culturalist and philosophical-historical approach.*
 
 ---
 

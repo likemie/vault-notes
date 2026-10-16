@@ -59,7 +59,7 @@ updated: 2026-10-15
 ## 机构定位与宗旨
 
 > [!claim] 机构定位
-> 联邦与各州教育规划与科研促进委员会（德语全称：*Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung*，简称 BLK）是西德联邦政府与各联邦州于 1970 年依据行政协议设立的常设最高跨政府协调机构。在战后德国“教育文化主权在州”（Kulturhoheit der Länder）与联邦协调诉求的宪政张力下，BLK 构成了德国“协同联邦主义”（Kooperativer Föderalismus）在教育与科技政策领域的核心支柱。该委员会通过统筹全国[[Comprehensive Education|综合教育]]规划纲领与发起国家级创新试点工程，充当了联邦财政资助向各州基础教育和高等教育领域合宪渗透的关键制度管道。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, p. 9)]]
+> [[Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung|联邦与各州教育规划与科研促进委员会]]（德语全称：*Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung*，简称 BLK）是西德联邦政府与各联邦州于 1970 年依据行政协议设立的常设最高跨政府协调机构。在战后德国“教育文化主权在州”（Kulturhoheit der Länder）与联邦协调诉求的宪政张力下，BLK 构成了德国“协同联邦主义”（Kooperativer Föderalismus）在教育与科技政策领域的核心支柱。该委员会通过统筹全国[[Comprehensive Education|综合教育]]规划纲领与发起国家级创新试点工程，充当了联邦财政资助向各州基础教育和高等教育领域合宪渗透的关键制度管道。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, p. 9)]]
 
 > [!institution-profile] 机构档案
 > - **创设背景** 1969 年西德通过宪法修正案（基本法第 91b 条），允许联邦与各州在双方同意的前提下就跨区域重大教育规划与超区域科研资助开展制度化合作；1970 年双方正式签署建立 BLK 的行政协议。
@@ -71,7 +71,7 @@ updated: 2026-10-15
 ## 组织架构与权力运行机制
 
 > [!claim] 权力制衡与共识决策
-> BLK 的决策机制充分体现了联邦与各州之间的复杂博弈。委员会由联邦部委代表（联邦教育与科研部 [[Federal Ministry of Education and Research|BMBF]]、联邦财政部）与 16 个联邦州的文教部长及财政部长共同组成，实行“双轨制平等表决权”：联邦拥有一半投票权重，各州共享另一半投票权重。重大决议与资助规划必须达成四分之三绝对多数同意方能通过，确立了以深度协商和跨党派利益交换为特征的协同治理逻辑。
+> [[Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung|BLK]] 的决策机制充分体现了联邦与各州之间的复杂博弈。委员会由联邦部委代表（联邦教育与科研部 [[Federal Ministry of Education and Research|BMBF]]、联邦财政部）与 16 个联邦州的文教部长及财政部长共同组成，实行“双轨制平等表决权”：联邦拥有一半投票权重，各州共享另一半投票权重。重大决议与资助规划必须达成四分之三绝对多数同意方能通过，确立了以深度协商和跨党派利益交换为特征的协同治理逻辑。
 
 > [!governance-matrix]- 决策与咨询机构设置
 > - **部长级全会（Plenum）** 由联邦教研部部长与各州文教部长、财政部长组成最高决策层，定期召开会议审定资助总额与重大项目立项。
@@ -84,7 +84,7 @@ updated: 2026-10-15
 ## 历史功绩：教育体系模型试验资助与转移科学孵化
 
 > [!claim] 模型试验资助计划（Modellversuche im Bildungswesen）的转移[[Paradigm|范式]]奠基
-> 在长达 37 年的运行历程中，BLK 对德语区教育发展最深远的影响在于设立了“教育体系模型试验计划”。该计划突破了单州条块分割的局限，由联邦与各州财政按 50:50 配比出资，资助了数千个探索性教改项目，涵盖全日制学校建设、综合高中试点、现代职业技术教育衔接以及学科教学法革新。这一机制使 BLK 成为德语区“教育[[Transfer Science|转移科学]]”（Transferwissenschaft）最早的政策孵化器与制度试验场。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, pp. 9, 11; Nickolaus & Gräsel, 2006)]]
+> 在长达 37 年的运行历程中，[[Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung|BLK]] 对德语区教育发展最深远的影响在于设立了“教育体系模型试验计划”。该计划突破了单州条块分割的局限，由联邦与各州财政按 50:50 配比出资，资助了数千个探索性教改项目，涵盖全日制学校建设、综合高中试点、现代职业技术教育衔接以及学科教学法革新。这一机制使 BLK 成为德语区“教育[[Transfer Science|转移科学]]”（Transferwissenschaft）最早的政策孵化器与制度试验场。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, pp. 9, 11; Nickolaus & Gräsel, 2006)]]
 
 > [!feature] BLK 资助的标志性教育创新工程
 > - **[[SINUS]] 与 SINUS-Transfer 项目（1998–2007）**
@@ -98,7 +98,7 @@ updated: 2026-10-15
 
 ## 转移科学视角下的历史遗产与制度反思
 
-> [!finding-cards] BLK 模式在[[Knowledge Transfer|知识转移]]维度的经验与教训
+> [!finding-cards] [[Bund-Länder-Kommission für Bildungsplanung und Forschungsförderung|BLK]] 模式在[[Knowledge Transfer|知识转移]]维度的经验与教训
 > - **为德国[[Transfer Science|转移科学]]提供了首批系统经验标本**
 >   正如韦罗妮卡·玛尼修斯与尼尔斯·范霍尔特（[[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt, 2019, p. 9]]）指出，早在大规模引入“新治理”外部督导与全域统考之前的 15 至 20 年间，德语区关于知识转移的政策推进主要就是依托 BLK 的模型试验方案完成的。学界对 [[SINUS]] 和 [[Chemie im Kontext|CHiK]] 等 BLK 项目的全程追踪，为解剖“转移对象特征”（Transfergegenstand）与微观教研网络运作提供了不可替代的历史基石（Nickolaus & Gräsel, 2006）。
 > - **“试验孤岛”与“规模化扩散陷阱”的制度反思**

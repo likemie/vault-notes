@@ -84,7 +84,7 @@ updated: 2026-10-16
 > [!dev-timeline] 组织发展历程
 > - **1997–2003年 — 《各州学术标准状况》系列报告确立行业权威** 连续发布全美各州课程标准评级报告，组织顶尖学科专家对 50 州大纲逐一打出 A 到 F 的严苛等级，撕开各州自吹自擂的虚假面纱，奠定了在基于标准的改革领域的权威[[Discourse|话语]]权。
 > - **2000年 — 出版《为何教育专家抵制有效实践》倡导医学化转型** 资助并出版[[Jack Douglas|道格拉斯]]·卡宁（Douglas Carnine, 2000）的重磅专著，将公立教育学者斥为受意识形态驱使、抵制循证科学的顽固群体，主张教学全面向现代医学看齐，直接为[[John Hattie|哈蒂]]等学者贬抑教学专业性提供了核心理论话语（Carnine, 2000; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）。
-> - **2004–2008年 — 联合发起[[American Diploma Project|美国文凭项目]]（ADP）** 联合[[Achieve|阿奇夫]]（Achieve）与代表民权阵营的[[The Education Trust|教育信托]]（The Education Trust）组建跨党派同盟，共同研发美国文凭项目，率先确立[[College and Career Readiness|大学与职业就绪]]基准（[[Argument_McDonnell_2013_AmJE|McDonnell & Weatherford, 2013, pp. 9]], 21）。
+> - **2004–2008年 — 联合发起[[American Diploma Project|美国文凭项目]]（ADP）** 联合[[Achieve|阿奇夫]]（Achieve）与代表民权阵营的教育信托（[[The Education Trust]]）组建跨党派同盟，共同研发美国文凭项目，率先确立[[College and Career Readiness|大学与职业就绪]]基准（[[Argument_McDonnell_2013_AmJE|McDonnell & Weatherford, 2013, pp. 9]], 21）。
 > - **2009–2012年 — 全力推动 [[Common Core State Standards|CCSS]] 研制与全美微观对标评估** 作为核心智囊深度介入 CCSS 审议，出资开展覆盖全美的跨州标准多维比对研究（Carmichael et al., 2010）；在后续保守派基层对国家标准反弹时，持续站在学术前沿捍卫高质量标准的正当性。
 > - **2013年至今 — 卷入受雇影响力质疑与特许学校问责深耕** 在持续运营俄亥俄州特许学校监管的同时，因其长期接受企业资本资助以推销亲市场、反工会与标准化处方的政策策略，受到[[Critical Pedagogy|批判教育学]]者与政策分析家的系统审查（Phelps, 2018）。
 

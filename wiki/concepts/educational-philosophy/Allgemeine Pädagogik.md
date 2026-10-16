@@ -63,7 +63,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **普通教育学（Allgemeine Pädagogik / General Pedagogy）** 是指欧陆（特别是德语区和中东欧）教育科学体系中居于统摄地位的基础理论学科与“母体学科”（德文：Mutterdisziplin）。它以人的教化（[[Bildung]]）、受教育者的可塑性（Bildsamkeit）以及教育行动（Erziehung）的伦理正当性为核心研究对象，系统确立教育科学的基本概念范畴、[[Ontology|本体论]]承诺与方法论准则。在比较教育[[Disciplinary Institutionalization|学科建制]]史上，普通教育学为比较教育提供了不可动摇的人文关怀根基，使其在吸纳历史学与社会学工具时始终保有对人的整全发展的规范性反思。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]
+> **[[Allgemeine Pädagogik|普通教育学]]（Allgemeine Pädagogik / General Pedagogy）** 是指欧陆（特别是德语区和中东欧）教育科学体系中居于统摄地位的基础理论学科与“母体学科”（德文：Mutterdisziplin）。它以人的教化（[[Bildung]]）、受教育者的可塑性（Bildsamkeit）以及教育行动（Erziehung）的伦理正当性为核心研究对象，系统确立教育科学的基本概念范畴、[[Ontology|本体论]]承诺与方法论准则。在比较教育[[Disciplinary Institutionalization|学科建制]]史上，普通教育学为比较教育提供了不可动摇的人文关怀根基，使其在吸纳历史学与社会学工具时始终保有对人的整全发展的规范性反思。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向教育科学知识大厦的元理论中枢与母体支柱，负责反思教育的终极目的、普遍规律、伦理边界与各分支学科的[[Epistemology|认识论]]统一性。
@@ -84,7 +84,7 @@ updated: 2026-10-15
 
 ## 概念辨析
 
-> [!contrast-table] 欧陆普通教育学与英美教育研究建制传统对比
+> [!contrast-table] 欧陆[[Allgemeine Pädagogik|普通教育学]]与英美教育研究建制传统对比
 > | 维度 | 欧陆普通教育学传统（Allgemeine Pädagogik） | 英美教育研究传统（Educational Studies） |
 > |---|---|---|
 > | **[[Disciplinary Institutionalization\|学科建制]]形态** | 拥有至高统摄地位的母体学科，各分支学科从属于母体或依附于母体 | 不设统摄性母体，由哲学、社会学、心理学与历史学多学科平行并列 |
@@ -122,7 +122,7 @@ updated: 2026-10-15
 ### 命题一　普通教育学作为母体学科为教育科学及其分支领域筑牢规范教化与哲学本体防线
 
 > [!concept-lens] 母体奠基与规范抵御维度
-> 探讨普通教育学如何作为欧陆教育科学的母体中枢，为应用和分支学科提供价值防护。在技术官僚主义与唯经济效益论的冲击下，普通教育学维系了教育以人为本的核心尊严。
+> 探讨[[Allgemeine Pädagogik|普通教育学]]如何作为欧陆教育科学的母体中枢，为应用和分支学科提供价值防护。在技术官僚主义与唯经济效益论的冲击下，普通教育学维系了教育以人为本的核心尊严。
 
 > [!claim] [[Wolfgang Mitter|Mitter, W.]]
 > **母体归属对学科独立性的庇护** 米特指出，德国及中东欧教育学科发展的一大核心特质，就是该学科从哲学与神学底色的普通教育学中衍生而来。这种源自普通教育学母体的血缘纽带，使得欧洲大陆的教育学者在面对政治动员、意识形态[[Disciplina and Doctrina|规训]]或外部经济功利指标冲击时，始终能够退守至对人的教化（[[Bildung]]）这一根本规范承诺之中，防止教育研究沦为纯粹服务于国家竞争的技术工程。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]
@@ -152,7 +152,7 @@ updated: 2026-10-15
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1806 — 科学教育学奠基** 约翰·弗里德里希·赫尔巴特（Johann Friedrich Herbart）出版《从教育目的引出的普通教育学》，标志着普通教育学作为独立科学门类的诞生；其体系以[[Praxis|实践哲学]]（伦理学）规定教育目的，以心理学阐明教学途径。
+> - **1806 — 科学教育学奠基** 约翰·弗里德里希·赫尔巴特（Johann Friedrich Herbart）出版《从教育目的引出的[[Allgemeine Pädagogik|普通教育学]]》，标志着普通教育学作为独立科学门类的诞生；其体系以[[Praxis|实践哲学]]（伦理学）规定教育目的，以心理学阐明教学途径。
 > - **19世纪末–20世纪中叶 — [[Geisteswissenschaften|精神科学]]教育学派的深化** [[Wilhelm Dilthey|狄尔泰]]（Wilhelm Dilthey）、诺尔（Herman Nohl）等人确立精神科学教育学（Geisteswissenschaftliche Pädagogik），将普通教育学巩固为以历史文化理解、生命体验与人的教化为核心的人文科学母体。
 > - **1960s–1980s — 实证论战与[[Comparative Education as a Cross-Sectional Area|交叉领域]]建制重构** 在德国社会学[[Positivism|实证主义]]争论（[[Positivist Dispute in German Sociology|Positivismusstreit]]）冲击下，[[Oskar Anweiler|奥斯卡·安维勒]]提出将比较教育定性为横切历史与社会的“[[Comparative Education as a Cross-Sectional Area|交叉领域]]”，推动普通教育学打破封闭思辨，开启跨学科接口。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]
 > - **21世纪初至今 — 抵抗新自由主义指标异化与全球趋同** 面对以跨国大规模评估与可测量[[Performance Indicators|绩效指标]]为代表的全球教育治理，当代学者重拾普通教育学母体传统，捍卫教育活动的不可度量性与伦理尊严。
@@ -164,7 +164,7 @@ updated: 2026-10-15
 > [!debates] 学科[[Paradigm|范式]]与建制路径争议
 >
 > > [!axis] 统摄性母体学科 vs 实用经验多学科拼合
-> > 围绕大学建制中是否需要一个超越具体分支的抽象普通教育学中枢。
+> > 围绕大学建制中是否需要一个超越具体分支的抽象[[Allgemeine Pädagogik|普通教育学]]中枢。
 > >
 > > - **欧陆母体传统立场（Anweiler, Mitter）** 坚持必须设立普通教育学母体以守住人的教化底线，各分支学科唯有依托母体方能避免方向迷失。[[Argument_Mitter_2009_Europe|(Mitter, 2009, pp. 97–98)]]
 > > - **英美实用经验立场** 主张取消形而上学色彩浓厚的普通教育学，由独立的社会学、心理学与经济学工具直接对接学校实践。
@@ -186,7 +186,7 @@ updated: 2026-10-15
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Bildung]] | 概念 | 普通教育学终极关切的核心哲学本体，决定了其对人的全面精神培育的根本承诺。 |
+> | [[Bildung]] | 概念 | [[Allgemeine Pädagogik\|普通教育学]]终极关切的核心哲学本体，决定了其对人的全面精神培育的根本承诺。 |
 > | [[Comparative Education as a Cross-Sectional Area]] | 概念 | 安维勒提出的比较教育建制形态，明确依托普通教育学母体并向外部社科横切开放。 |
 > | [[Didaktik]] | 概念 | 德语教育传统中与普通教育学深度共生的教学理论，共同构成欧陆育人星座。 |
 > | [[Navigation Metaphor in Comparative Education]] | 概念 | 依托普通教育学学术传统的学者在面对行政权力干预时秉持的超然政策咨询立场。 |
@@ -200,4 +200,4 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 详尽剖析德意志及中东欧教育科学以哲学性普通教育学为母体的历史谱系，阐明其与英美独立系所建制传统的根本[[Paradigm|范式]]差异。
+> - [[Argument_Mitter_2009_Europe|Mitter (2009)]] — 详尽剖析德意志及中东欧教育科学以哲学性[[Allgemeine Pädagogik|普通教育学]]为母体的历史谱系，阐明其与英美独立系所建制传统的根本[[Paradigm|范式]]差异。

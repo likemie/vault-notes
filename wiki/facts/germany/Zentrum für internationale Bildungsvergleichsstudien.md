@@ -76,7 +76,7 @@ updated: 2026-10-16
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 德国[[International Education\|国际教育]]比较研究中心（德语：Zentrum für internationale Bildungsvergleichsstudien, 缩写为 ZIB；英语：Centre for International Student Assessment）是由[[Federal Ministry of Education and Research\|德国联邦教育与研究部]]（Federal Ministry of Education and Research, BMBF / 德语：Bundesministerium für [[Bildung]] und Forschung）与各州文教部长联席会议（[[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]]）于 2010 年共同决议出资设立的国家级跨机构学术联合体。其核心法定使命是承担[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, PISA）在德国的国家协调、技术研发与科学分析，为德国教育决策层、科研界及社会公众提供权威的宏观系统知识（Systemwissen）与解释性知识（Erklärungswissen）。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]; [[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 140–141)]]
+> 德国[[International Education\|国际教育]]比较研究中心（德语：[[Zentrum für internationale Bildungsvergleichsstudien]], 缩写为 ZIB；英语：Centre for International Student Assessment）是由[[Federal Ministry of Education and Research\|德国联邦教育与研究部]]（Federal Ministry of Education and Research, BMBF / 德语：Bundesministerium für [[Bildung]] und Forschung）与各州文教部长联席会议（[[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]]）于 2010 年共同决议出资设立的国家级跨机构学术联合体。其核心法定使命是承担[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）[[PISA\|国际学生评估项目]]（Programme for International Student Assessment, PISA）在德国的国家协调、技术研发与科学分析，为德国教育决策层、科研界及社会公众提供权威的宏观系统知识（Systemwissen）与解释性知识（Erklärungswissen）。[[Argument_Knogler_2025_BB\|(Knogler et al., 2025, p. 14)]]; [[Argument_Hartong_2018_GSE\|(Hartong, 2018, pp. 140–141)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 创设于 2010 年，立项契机在于 2000 年“PISA 震荡”（[[PISA Shock\|PISA-Schock]]）后，德国亟需建立常设化、高水准的国家学术基础设施，以摆脱以往每届大型国际测评临时组建大学科研团队竞标带来的碎片化与方法断层。
@@ -89,7 +89,7 @@ updated: 2026-10-16
 ## 历史沿革与组织演变
 
 > [!dev-timeline] 组织发展历程
-> - **2010–2012 — 机构创建与体制化奠基** [[Federal Ministry of Education and Research\|BMBF]] 与 [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 签署共建协议，选址慕尼黑工业大学设立 ZIB 实体；汇聚克里斯蒂娜·赖斯（Kristina Reiss）等知名学者，正式承接 [[PISA]] 2012 德国国家测评的研发与实施任务。
+> - **2010–2012 — 机构创建与体制化奠基** [[Federal Ministry of Education and Research\|BMBF]] 与 [[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]] 签署共建协议，选址慕尼黑工业大学设立 [[Zentrum für internationale Bildungsvergleichsstudien|ZIB]] 实体；汇聚克里斯蒂娜·赖斯（Kristina Reiss）等知名学者，正式承接 [[PISA]] 2012 德国国家测评的研发与实施任务。
 > - **2013–2019 — 周期性国家测评深化与周期扩展** 连续主导完成 PISA 2015（聚焦[[Scientific Literacy\|科学素养]]）与 PISA 2018（聚焦阅读素养）的德国国家报告；开创将国际标准化测验与德国各州课程标准微观比对的方法体系。
 > - **2020–至今 — 跨机构证据协同与“[[Clearing House Unterricht\|CHU]] x ZIB”双轨模式** 统筹发布经历新冠疫情冲击的 PISA 2022 报告；与同设于慕尼黑工业大学的[[Clearing House Unterricht\|德国教学研究清算中心]]（CHU）正式建立深度战略合作机制（CHU x ZIB），探索将宏观国家监测与微观教学效能证据相融通的新型[[Knowledge Mediation\|知识中介]][[Paradigm\|范式]]。
 
@@ -117,7 +117,7 @@ updated: 2026-10-16
 > 2. **宏观系统与解释性知识供给** 采集大样本全套背景[[Questionnaire\|问卷]]，绘制学生[[21st Century Skills and Competencies Discourse\|核心素养]]的全国分布图景，运用[[Hierarchical Linear Model\|多水平模型]]剥离家庭社会经济背景（ESCS）与分流轨道的制约机制。
 > 3. **国家标准与各州课标微观对齐** 承担将国际标准化测验框架与德国各州文教部长联席会议（[[Standing Conference of the Ministers of Education and Cultural Affairs\|KMK]]）设立的国家教育标准（Bildungsstandards）进行长期指标校准与监测。
 
-> [!contrast-table] “[[Clearing House Unterricht\|CHU]] x ZIB”宏微观双轨[[Knowledge Mediation\|知识中介]]协同架构
+> [!contrast-table] “[[Clearing House Unterricht\|CHU]] x [[Zentrum für internationale Bildungsvergleichsstudien|ZIB]]”宏微观双轨[[Knowledge Mediation\|知识中介]]协同架构
 > | 比较与协同维度 | ZIB 宏观系统监测端 | CHU 微观教学转化端 |
 > |---|---|---|
 > | **依托实体与定位** | 慕尼黑工业大学 + 莱布尼茨学会（[[Leibniz Institute for Educational Research and Educational Information\|DIPF]] / IPN）国家联合体 | 慕尼黑工业大学教师教育与教学研究团队 |
@@ -134,7 +134,7 @@ updated: 2026-10-16
 > [!finding-cards] 关键成效与辐射影响
 > 1. **终结国家测评动荡，确立常设学术重镇** 彻底解决了德国以往由单一大学教授团队短期竞标承接 [[PISA]] 导致的队伍解散与标准断层，成为德国教育实证监测不可动摇的国家支柱。
 > 2. **深刻重塑德国基础教育立法与课标改革** 其揭示的德国教育成就与家庭背景高度绑定的实证数据，直接促成全德推进全日制学校建设（Ganztagsschulen）、国家教育标准设立及学前语言筛查改革。
-> 3. **架设“从监测到干预”的转化立交桥** 依托 [[Clearing House Unterricht\|CHU]] x ZIB 协同平台，打破了宏观政策官员与微观课堂教师的语系鸿沟，使大规模测评不仅停留在国际排名的“照镜子”，而是成为催生具体循证教学法的引擎。
+> 3. **架设“从监测到干预”的转化立交桥** 依托 [[Clearing House Unterricht\|CHU]] x [[Zentrum für internationale Bildungsvergleichsstudien|ZIB]] 协同平台，打破了宏观政策官员与微观课堂教师的语系鸿沟，使大规模测评不仅停留在国际排名的“照镜子”，而是成为催生具体循证教学法的引擎。
 
 ---
 
@@ -143,7 +143,7 @@ updated: 2026-10-16
 > [!debates] 核心争议交锋
 >
 > > [!axis] [[PISA]] 测验[[Paradigm\|范式]]与欧陆传统教育（[[Bildung]]）价值冲突
-> > 德国传统教育哲学界与部分教师工会长期批评 ZIB 协助推广的 [[OECD]] 标准化测评过分偏重实用技能与经济主义导向，削弱了德国传统涵养教育（Bildung）中注重个体[[Critical Thinking\|批判性思维]]、审美素养与全人体格培养的核心宗旨。
+> > 德国传统教育哲学界与部分教师工会长期批评 [[Zentrum für internationale Bildungsvergleichsstudien|ZIB]] 协助推广的 [[OECD]] 标准化测评过分偏重实用技能与经济主义导向，削弱了德国传统涵养教育（Bildung）中注重个体[[Critical Thinking\|批判性思维]]、审美素养与全人体格培养的核心宗旨。
 > >
 > > - **传统人文派观点** 担忧大规模测验引发“为考而教”（Teaching to the test）与中小学课程工具化。
 > > - **ZIB 学术回应** 强调实证数据并非替代教育哲学，而是揭露社会不公与基础认知短板的前提，科学测量恰恰是捍卫公平教育权的基石。
@@ -159,7 +159,7 @@ updated: 2026-10-16
 > | [[Gesamtstrategie zum Bildungsmonitoring]] | Fact (Policy) | 总体战略第一支柱：ZIB 统筹执行国家国际大型教育测评（[[PISA]]）。 |
 > | [[Leibniz Institute for Educational Research and Educational Information]] | Fact (Organization) | ZIB 核心创设三方之一，负责[[Questionnaire\|问卷]]设计、计算机测评（TBA）与信息技术支持。 |
 > | [[Institute for Educational Quality Improvement]] | Fact (Organization) | 国家兄弟研究机构：IQB 统筹国家标准与 [[Vergleichsarbeiten\|VERA]]，ZIB 统筹国际测评。 |
-> | [[Clearing House Unterricht]] | Fact (Organization) | 同设于 TUM，结为 CHU x ZIB 战略伙伴，实现宏观系统监测与微观教学效能互补。 |
+> | [[Clearing House Unterricht]] | Fact (Organization) | 同设于 TUM，结为 CHU x [[Zentrum für internationale Bildungsvergleichsstudien\|ZIB]] 战略伙伴，实现宏观系统监测与微观教学效能互补。 |
 > | [[Federal Ministry of Education and Research]] | Fact (Organization) | ZIB 的国家发起方与长期联合出资监管部委。 |
 > | [[Standing Conference of the Ministers of Education and Cultural Affairs]] | Fact (Organization) | ZIB 的国家指导部委与各州联合出资方。 |
 > | [[PISA]] | Fact (Program) | ZIB 在德国全权承担研发、抽样与国家评估报告编制的旗舰项目。 |

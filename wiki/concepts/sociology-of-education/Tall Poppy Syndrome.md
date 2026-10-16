@@ -22,6 +22,7 @@ related_concepts:
   - "[[Academic Achievement]]"
   - "[[Zero-Sum Competition]]"
   - "[[Intellectual-Social Divide]]"
+  - "[[Chain of Evidence]]"
   - "[[Self-Cultivation]]"
 related_theories:
   - "[[Growth Mindset]]"
@@ -70,7 +71,7 @@ Feather 使用的"高罂粟的倒下"（fall of the tall poppy）隐喻精确捕
 
 这一现象与 [[Growth Mindset|实体智力观]]密切相关：在"智力是固定的"信念系统中，别人的高成就直接威胁到自己的自我价值——这种"你赢即我输"的逻辑正是 [[Zero-Sum Competition|零和竞争]]的核心特征。高罂粟倒下后，观察者感到的不只是娱乐——更是一种**自我价值的相对恢复** "他掉下来了，所以我没那么差"。同时，高成就者被系统性地视为"更不善社交"([[Argument_Li_2012_Cambridge|Li, 2012, p.90]])，这反映了 [[Intellectual-Social Divide|知性-社交二分]]在同伴态度中的运作。
 
-详细的论证拆解、证据链和跨文化对比见 [[Argument_Li_2012_Cambridge|Li (2012)]] 第 6 章。
+详细的论证拆解、[[Chain of Evidence|证据链]]和跨文化对比见 [[Argument_Li_2012_Cambridge|Li (2012)]] 第 6 章。
 
 ---
 

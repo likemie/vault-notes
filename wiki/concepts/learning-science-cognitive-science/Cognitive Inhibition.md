@@ -17,6 +17,7 @@ tags:
 - cognitive-science
 related_concepts:
   - "[[Executive Function]]"
+  - "[[Zone of Desired Effects]]"
   - "[[Prefrontal Cortex]]"
 related_theories: []
 related_methods: []
@@ -49,7 +50,7 @@ updated: '2026-05-18'
 > - 抑制在三种 EF 成分中最早发展，略早于转换和更新([[Argument_Bolton_2017_ArchPsych\|Bolton & Hattie, 2017, p.10]])
 > - 大多数研究表明抑制的增长期从约 2 岁持续到 5 岁，儿童能抑制的时长逐渐增加
 > - Carlson (2005) 研究发现 2 岁和 3 岁儿童在抑制吃零食方面存在显著差异：50% 的 2 岁儿童能坚持 20 秒不吃，而 85% 的 3 岁儿童能坚持 1 分钟
-> - 4 岁左右出现一个"铰链点"（hinge point）：4 岁以下儿童觉得昼夜任务非常困难，4 岁以上觉得非常容易；但每年仍有持续改善
+> - 4 岁左右出现一个"铰链点"（[[Zone of Desired Effects|Hinge Point]]）：4 岁以下儿童觉得昼夜任务非常困难，4 岁以上觉得非常容易；但每年仍有持续改善
 
 ## 与前额叶皮层的关系
 

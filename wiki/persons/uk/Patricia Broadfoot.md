@@ -46,6 +46,7 @@ related_persons:
   - "[[Andreas Kazamias]]"
 related_facts:
   - "[[British Association for International and Comparative Education]]"
+  - "[[Picking Up the Pace]]"
 related_arguments:
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
 confidence: high
@@ -63,7 +64,7 @@ updated: 2026-10-16
 > [!person-profile] 人物档案
 > - **身份位置** 英国比较教育学家、教育评价学者。布里斯托大学教育学荣休教授、前教育学院院长，曾任格罗斯特大学副校长（Vice-Chancellor, 2006–2010）；历任[[British Association for International and Comparative Education|英国国际与比较教育学会]]（BAICE）会长、《比较教育》（*Comparative Education*）主编；2006 年因在教育领域的卓越贡献获颁大英帝国司令勋章（CBE）。
 > - **核心角色** [[Intercultural Education|跨文化教育]]评价与微观学习过程研究领军者；在英国比较教育学派第四代际转型中，将质性社会学与微观比较相结合，开创“[[Learnology|学习学]]”（[[Learnology|Learnology]]）研究纲领，有力纠偏了北美[[Positivism|实证主义]]抽离文化土壤的宏观回归[[Paradigm|范式]]。
-> - **代表贡献** 1. 创立微观“学习学”（Learnology）跨国比较框架；2. 主持英法初等教育评价与体验跨国比较项目（PACE 项目）；3. 与[[Robin Alexander|罗宾·亚历山大]]、戴维·菲利普斯合著里程碑著作《从比较中学习》（*Learning from Comparing*, 1999），确立英国比较教育关注课堂、情境与文化的学术传统。
+> - **代表贡献** 1. 创立微观“学习学”（Learnology）跨国比较框架；2. 主持英法初等教育评价与体验跨国比较项目（[[Picking Up the Pace|PACE 项目]]）；3. 与[[Robin Alexander|罗宾·亚历山大]]、戴维·菲利普斯合著里程碑著作《从比较中学习》（*Learning from Comparing*, 1999），确立英国比较教育关注课堂、情境与文化的学术传统。
 
 > [!citation-card]- 人物定位的关键来源
 > 在英国比较教育的学术版图上，存在着若干鲜明的[[Epistemology|认识论]]与方法论特征及全新取向：首先，重新强调了多年前被称为‘[[Comparative Pedagogy|比较教学论]]’的领域——这是教育过程中至关重要的维度，以及布罗德富特所称的教育‘学习学’（Alexander et al., 1999; Broadfoot, 1999）；其次，重申了英国对情境与文化的传统关注……这两大认识论侧重点使英国比较教育比美国更具人文关怀，对世界的阐释也较少受到机械和功利性经济动机的驱使。[[Argument_Kazamias_2009_HistoricalReflections|(Kazamias, 2009a, p. 155)]]

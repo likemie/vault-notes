@@ -60,7 +60,7 @@ updated: 2026-10-16
 > - **核心角色** 在欲望发生学、文化人类学与暴力理论中建立独创学派；提出人类欲望的非自主性与三角模仿结构，揭示了同侪竞争、从众跟风与[[Scapegoat Mechanism|替罪羊机制]]的深层心理机制。
 > - **代表贡献** 创立[[Mimetic Theory|模仿理论]]（Mimetic Theory）与替罪羊机制；其理论深刻影响了硅谷创业与技术哲学界对抵御同质化跟风与保护颠覆性[[Creativity|创造力]]的反思（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|Karp & Zamiska, 2025, pp. 157–158]]）。
 
-> [!citation-card] 吉拉尔论模仿欲望的锁链反应
+> [!citation-card] [[René Girard|吉拉尔]]论模仿欲望的锁链反应
 > 引起争夺的香蕉本身没有任何特殊之处，只是因为第一个选择者挑选了它，而这种随意做出的初步选择便引发了模仿欲望的连锁反应，使那根香蕉显得比所有其他香蕉都更具吸引力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, p. 158)]]
 >
 > *"There is nothing special about the disputed banana," Girard said in an interview in 1983, "except that the first to choose selected it, and this initial selection, however casual, triggered a chain reaction of mimetic desire that made that one banana seem preferable to all others."*
@@ -107,7 +107,7 @@ updated: 2026-10-16
 ## 核心思想
 
 > [!claim] 核心主张
-> 勒内·吉拉尔（René Girard）主张，人类的欲望绝非主体对客体真实价值的自发独立洞察，而是通过观察并复制他者（中介者或榜样）的选择而建构的“三角关系”。当个体未对这一演化本能保持批判性警觉时，模仿便会在组织与产业中演化为盲目从众、恶性内耗与对颠覆性[[Creativity|创造力]]的致命扼杀。
+> [[René Girard|勒内·吉拉尔]]（René Girard）主张，人类的欲望绝非主体对客体真实价值的自发独立洞察，而是通过观察并复制他者（中介者或榜样）的选择而建构的“三角关系”。当个体未对这一演化本能保持批判性警觉时，模仿便会在组织与产业中演化为盲目从众、恶性内耗与对颠覆性[[Creativity|创造力]]的致命扼杀。
 
 > [!feature] 思想支柱
 > - **三角欲望结构（Triangular Desire）** 揭示欲望的三个支点：主体（Subject）、中介者/榜样（Mediator）与客体（Object）。客体本身通常不具备决定性物理差异，是中介者的选择赋予了其排他性吸引力。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch14|(Karp & Zamiska, 2025, p. 158)]]
@@ -123,7 +123,7 @@ updated: 2026-10-16
 > > [!axis] 欲望的模仿[[Determinism|决定论]] vs 主体理性自足性
 > > 围绕人类选择究竟主要受制于模仿中介，还是源于个体基于成本收益的独立理性计算展开争论。
 > >
-> > - **吉拉尔学派** 坚称人类的纯粹自主选择是浪漫主义幻想，绝大多数偏好源自对同侪与标杆的潜意识借用。
+> > - **[[René Girard|吉拉尔]]学派** 坚称人类的纯粹自主选择是浪漫主义幻想，绝大多数偏好源自对同侪与标杆的潜意识借用。
 > > - **古典理性选择学派** 坚持行动者具备基于效用函数与第一性原理的自足偏好体系。
 >
 > > [!axis] 模仿作为学习阶梯 vs 模仿作为创新毒药
@@ -140,7 +140,7 @@ updated: 2026-10-16
 >
 > | 条目 | 类型 | 关联与贡献说明 |
 > |:-----|:-----|:-----|
-> | [[Mimetic Theory]] | 理论 | 吉拉尔创立的核心文化人类学与欲望理论体系。 |
+> | [[Mimetic Theory]] | 理论 | [[René Girard\|吉拉尔]]创立的核心文化人类学与欲望理论体系。 |
 > | [[Creativity]] | 概念 | 模仿理论揭示了扼杀真正从无到有创造力的模仿毒性与从众机制。 |
 > | [[Critical Thinking Disposition]] | 概念 | 批判性思维倾向要求抵御模仿从众本能，保持独立审慎的探究习性。 |
 > | [[Engineering Mindset]] | 概念 | 将“摆脱衍生模仿、直面物理现实”作为工程创新的根本认知基石。 |

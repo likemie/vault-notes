@@ -27,10 +27,10 @@ related_concepts:
   - "[[Evaluator Independence]]"
   - "[[Preregistration]]"
   - "[[Variable]]"
-  - "[[Developer-Made Measures]]"
-  - "[[Paradigm]]"
   - "[[Metascience]]"
   - "[[Visible Learning]]"
+  - "[[Developer-Made Measures]]"
+  - "[[Paradigm]]"
 related_theories: []
 related_methods:
   - "[[Implementation and Process Evaluation]]"
@@ -38,7 +38,10 @@ related_methods:
   - "[[Random Assignment]]"
   - "[[Hierarchical Linear Model]]"
   - "[[Effect Size]]"
+  - "[[Meta-meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Meta-analysis]]"
+  - "[[Sample Size Determination]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
@@ -111,11 +114,11 @@ updated: 2026-10-16
 
 ### 命题三　从现场干预复现延伸至二阶数据提取复现是保障宏观证据链可信度的基石
 
-> [!concept-lens] 元科学数据审计与复现边界拓展
-> 探讨复现概念如何从微观一阶现场干预试验拓展至宏观二阶元分析数据库的“数据提取独立复现”，揭示二阶知识汇总设施中数据断裂的系统性风险。
+> [!concept-lens] [[Metascience|元科学]]数据审计与复现边界拓展
+> 探讨复现概念如何从微观一阶现场干预试验拓展至宏观[[Meta-meta-analysis|二阶元分析]]数据库的“数据提取独立复现”，揭示二阶知识汇总设施中数据断裂的系统性风险。
 
 > [!claim] [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]]
-> **二阶数据提取复现检验与灾难性复现危机** 传统教育复现研究多聚焦于在学校现场重新实施一阶干预方案（如 RCT 复现）。然而卡尔门达尔（Kalmendal）等学者对《可见的学习》数据库全量 322 个影响因素开展独立元科学审计表明，二阶证据综合基础设施自身同样面临致命的不可复现危机。研究团队制定了严谨的“遇错即止”独立数据提取复现规程（Replication until failure）：随机抽取各因素收录的元分析进行独立数据核查。结果揭示：在可查的 301 个影响因素中，仅有 **2 项**（0.66%）能够成功复现数据提取；高达 **44%** 的报告效应量在原文中完全不存在，另有 33% 提取自错误的无关子组；伴随的样本量错误率高达 72%。这实证表明：若缺乏二阶数据提取层面的独立复现机制，所谓囊括数千万受试者的宏观证据库可能完全建立在虚假提取与数据幻象之上，其推荐清单无法作为任何政策与教学决策依据。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 1, 18–19)]]
+> **二阶数据提取复现检验与灾难性复现危机** 传统教育复现研究多聚焦于在学校现场重新实施一阶干预方案（如 [[Randomised Controlled Trials|RCT]] 复现）。然而卡尔门达尔（Kalmendal）等学者对《[[Visible Learning|可见的学习]]》数据库全量 322 个影响因素开展独立元科学审计表明，二阶证据综合基础设施自身同样面临致命的不可复现危机。研究团队制定了严谨的“遇错即止”独立数据提取复现规程（Replication until failure）：随机抽取各因素收录的[[Meta-analysis|元分析]]进行独立数据核查。结果揭示：在可查的 301 个影响因素中，仅有 **2 项**（0.66%）能够成功复现数据提取；高达 **44%** 的报告[[Effect Size|效应量]]在原文中完全不存在，另有 33% 提取自错误的无关子组；伴随的[[Sample Size Determination|样本量]]错误率高达 72%。这实证表明：若缺乏二阶数据提取层面的独立复现机制，所谓囊括数千万受试者的宏观证据库可能完全建立在虚假提取与数据幻象之上，其推荐清单无法作为任何政策与教学决策依据。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 1, 18–19)]]
 
 ---
 
@@ -124,9 +127,9 @@ updated: 2026-10-16
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
-> | **多情境独立直接复现** | 依托第三方独立评估与跨区大样本整群试验，消除开发者期望与单学区过度拟合 | 国家级干预方案评估与循证推广准入 | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] |
-> | **改良型复现与情境迁移** | 系统变动群体、学段、区域与交付变量，测绘因果效应有效性边界与衰减规律 | 地方学区多元采办决策与分层证据供给 | Schneider (2021); [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] |
-> | **二阶数据提取复现** | 实施随机化逐项独立核查，检验元分析汇聚数据库底层数据链的真实性与可复现性 | 二阶元综合、证据清理所与宏观循证排行榜审查 | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] |
+> | **多情境独立直接复现** | 依托[[Evaluator Independence\|第三方独立评估]]与跨区大样本整群试验，消除开发者期望与单学区过度拟合 | 国家级干预方案评估与循证推广准入 | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] |
+> | **改良型复现与情境迁移** | 系统变动群体、学段、区域与交付[[Variable\|变量]]，测绘因果效应有效性边界与衰减规律 | 地方学区多元采办决策与分层证据供给 | Schneider (2021); [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] |
+> | **二阶数据提取复现** | 实施[[Random Assignment\|随机化]]逐项独立核查，检验[[Meta-analysis\|元分析]]汇聚数据库底层数据链的真实性与可复现性 | 二阶[[Meta-meta-analysis\|元综合]]、证据清理所与宏观循证排行榜审查 | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] |
 
 ---
 
@@ -139,7 +142,7 @@ updated: 2026-10-16
 > | **测量工具属性** | [[Developer-Made Measures\|开发者自编测验]]（高度对齐教材） | 独立心理测量学标准化测验 | 自编测验效应量虚高 50%–100%（$\Delta ES = +0.20 \sim +0.40$）[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 24–25)]] |
 > | **样本与统计模型** | 单学区小样本、忽视聚类效应 | 40–50 所学校跨区整群 [[Randomised Controlled Trials\|RCT]] + [[Hierarchical Linear Model\|HLM]] | 消除假阳性，真实反映宏观推广效力[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 26–27)]] |
 > | **情境迁移与复现[[Paradigm\|范式]]** | 假定单点成功可直接无损外推 | 改良型复现与情境迁移研究（系统变动学段与群体参数） | 揭示多达 26 项采购实践在目标学段证据完全断档，避免跨学段降维推断偏倚[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 177–180)]] |
-> | **二阶数据提取复现** | 盲目信任文献计量汇总与既有二阶数据库 | 预注册独立双盲数据重新提取（遇错即止检验） | 揭示《可见的学习》全库仅 0.66%（2/301）可复现，44% 效应量查无出处，阻断虚假合成证据外推[[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, pp. 18–19)]] |
+> | **二阶数据提取复现** | 盲目信任文献计量汇总与既有二阶数据库 | [[Preregistration\|预注册]]独立双盲数据重新提取（遇错即止检验） | 揭示《可见的学习》全库仅 0.66%（2/301）可复现，44% 效应量查无出处，阻断虚假合成证据外推[[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, pp. 18–19)]] |
 
 ---
 
@@ -160,6 +163,6 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 论述大样本独立复现研究（Multi-Site Cluster RCT）结合第三方评估与标准化测验，是破除教育干预外部效度局限与开发者偏倚的唯一科学路径。
+> - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 论述大样本独立复现研究（Multi-Site [[Cluster Randomized Trials|Cluster RCT]]）结合第三方评估与标准化测验，是破除教育干预[[External Validity|外部效度]]局限与开发者偏倚的唯一科学路径。
 > - [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] — 穿透式审计大型城市学区教育采办流水，指出单纯直接复现无法解决实践情境衰减，倡导开展系统改变受试群体与学段参数的“改良型复现”。
-> - [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] — 将复现规程创新性应用于宏观二阶元分析数据库的数据提取检验，实证揭示《可见的学习》仅 0.66% 的灾难性复现率，确立了二阶元科学复现审计范式。
+> - [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] — 将复现规程创新性应用于宏观[[Meta-meta-analysis|二阶元分析]]数据库的数据提取检验，实证揭示《[[Visible Learning|可见的学习]]》仅 0.66% 的灾难性复现率，确立了二阶[[Metascience|元科学]]复现审计[[Paradigm|范式]]。

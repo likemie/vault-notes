@@ -59,7 +59,7 @@ updated: 2026-10-16
 
 ## 背景
 
-《百科评论》（*Revue encyclopédique ou Analyse raisonnée des productions les plus remarquables dans la littérature, les sciences et les arts*，简称 *Revue encyclopédique*）是 19 世纪前期欧洲最具跨国视野、学术声誉与[[Cosmopolitanism|世界主义]]情怀的综合性学术期刊：
+《[[Revue encyclopédique|百科评论]]》（*Revue encyclopédique ou Analyse raisonnée des productions les plus remarquables dans la littérature, les sciences et les arts*，简称 *Revue encyclopédique*）是 19 世纪前期欧洲最具跨国视野、学术声誉与[[Cosmopolitanism|世界主义]]情怀的综合性学术期刊：
 
 > [!event-context] 创办背景
 > - **创办时间 / 核心创办人** 1819 年由比较教育学先驱与启蒙自由主义学者[[Marc-Antoine Jullien\|马克-安托万·朱利安]]（Marc-Antoine Jullien de Paris, 1775–1848）在巴黎创办并亲自担任主编，持续按期发行至 1830 年七月革命前夕。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, pp. 12, 21)]]
@@ -70,7 +70,7 @@ updated: 2026-10-16
 
 ## 刊物宗旨与知识架构
 
-朱利安在《百科评论》中系统贯彻了培根式的科学统一哲学与博大的世界公民理想：
+朱利安在《[[Revue encyclopédique|百科评论]]》中系统贯彻了培根式的科学统一哲学与博大的世界公民理想：
 
 > [!claim] 核心宗旨
 > 朱利安宣布《百科评论》决不仅满足于做一个被动的百科全书记录者，而是[[Establishing One's Will\|立志]]成为促进全人类智力与道德升华的“世界公民（cosmopolites）”；期刊旨在落实[[Francis Bacon\|弗朗西斯·培根]]关于“科学统一”的伟大思想，将全球各地的文学、科学与艺术成就汇聚为一个面向人类未来的“普世思想国会（universal Congress）”，通过普及真理与教育革新荡涤旧时代残存的野蛮与战争。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 20–22]]; Palmer, 1993:178–181）
@@ -97,7 +97,7 @@ updated: 2026-10-16
 ## 时间线
 
 > [!dev-timeline]- 创办、跨国影响与演变时间线
-> - **1819** 朱利安在巴黎正式创办《百科评论》（*Revue encyclopédique*）并出任主编，首期发表创刊宣言，宣称刊物致力于忠实呈现人类知识在社会秩序改良中的进步。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 20)]]
+> - **1819** 朱利安在巴黎正式创办《[[Revue encyclopédique|百科评论]]》（*Revue encyclopédique*）并出任主编，首期发表创刊宣言，宣称刊物致力于忠实呈现人类知识在社会秩序改良中的进步。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 20)]]
 > - **1819–1823** 建立覆盖欧美及各大洲的通讯员网络，持续刊载法国、瑞士、西班牙与美国的公共教育发展报告；发表著名的世界公民宣言。
 > - **1820s** 收到美国前总统托马斯·杰斐逊（Thomas Jefferson）的专函致信，赞扬朱利安通过该刊物对“[[International Education\|国际教育]]所作出的杰出奉献”。（Fraser, 1964:12–13; p. 21）
 > - **1830** 七月革命爆发前后，朱利安因精力与财力转将刊物转交皮埃尔·勒鲁（Pierre Leroux）与让·雷诺（Jean Reynaud）等圣西门主义思想家接管，随后逐渐转向社会哲学激进探讨并于数年后停刊。（Palmer, 1993）
@@ -107,7 +107,7 @@ updated: 2026-10-16
 ## 影响与历史地位
 
 > [!finding-cards] 历史影响与地位
-> - **[[International Education\|国际教育]]与常设智库机制的原型** 《百科评论》将朱利安在 1817 年 《计划》 中提出的“多语种教育通报网络”设想落到了实处，为 20 世纪国际教育局（IBE）与 [[UNESCO]] 的教育通报平台提供了最早的刊物[[Paradigm\|范式]]。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 21–22]]）
+> - **[[International Education\|国际教育]]与常设智库机制的原型** 《[[Revue encyclopédique|百科评论]]》将朱利安在 1817 年 《计划》 中提出的“多语种教育通报网络”设想落到了实处，为 20 世纪国际教育局（IBE）与 [[UNESCO]] 的教育通报平台提供了最早的刊物[[Paradigm\|范式]]。（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|Kaloyannaki & Kazamias, 2009, pp. 21–22]]）
 > - **对朱利安“实证量化”片面形象的有力正名** 帕尔默（Palmer, 1993）与卡洛扬纳基、卡扎米亚斯（2009）考证指出，《百科评论》证明朱利安绝非 20 世纪实证量化派所想象的冰冷统计工匠，而是一位深受启蒙理性滋养、以教育为媒介促进世界[[Perpetual Peace\|永久和平]]的崇高人文主义思想家。（pp. 20–22）
 
 ---
@@ -119,7 +119,7 @@ updated: 2026-10-16
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Marc-Antoine Jullien]] | 人物 | 本刊物的创始人、主编与灵魂人物。 |
-> | [[Esquisse d'un ouvrage sur l'éducation comparée]] | 政策 / 事实 | 朱利安 1817 年奠基著作，《百科评论》是其通报网络构想的具体实践。 |
+> | [[Esquisse d'un ouvrage sur l'éducation comparée]] | 政策 / 事实 | 朱利安 1817 年奠基著作，《[[Revue encyclopédique\|百科评论]]》是其通报网络构想的具体实践。 |
 > | [[International Education]] | 概念 | 本刊物是 19 世纪前期国际教育信息跨国交流的核心物质载体。 |
 > | [[Educational Meliorism]] | 概念 | 本刊物所贯穿的以[[Knowledge Exchange\|知识交流]]改良全球人类文明境况的崇高信念。 |
 > | [[Encyclopaedism]] | 概念 | 本刊物所代表的 19 世纪百科全书式知识汇总与理性传播[[Paradigm\|范式]]。 |

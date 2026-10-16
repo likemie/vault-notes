@@ -34,6 +34,7 @@ related_instruments: []
 related_persons:
   - "[[John Lewis Gaddis]]"
   - "[[Steven Pinker]]"
+  - "[[Alfred Nobel]]"
   - "[[Alexander Karp]]"
   - "[[Nicholas Zamiska]]"
 related_facts:
@@ -129,7 +130,7 @@ updated: 2026-10-16
 > 探讨大国避免直接战争的根本动因，剖析终极毁灭性武器如何重塑大国博弈的理性选择。
 
 > [!claim] [[John Lewis Gaddis|Gaddis, J. L.]]; Nobel, A.
-> **终极毁灭恐怖作为和平守护者** 西方社会对和平常态的理解长期建立在对战略威慑本质的误读之上。正如阿尔弗雷德·诺贝尔在 1891 年的断言：“唯一能够阻止国家发动战争的只有恐怖；更强大的武器才是和平最可靠的守护者”。1945 年核武器的诞生将[[Total War|总体战]]的破坏推向极限，正是这种不可承受的恐怖毁灭均势，铸就了战后八十年大国无大战的长和平奇迹。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Gaddis, 1987; Nobel, 1891; cited in Karp & Zamiska, 2025, pp. 37–41)]]
+> **终极毁灭恐怖作为和平守护者** 西方社会对和平常态的理解长期建立在对战略威慑本质的误读之上。正如[[Alfred Nobel|阿尔弗雷德·诺贝尔]]在 1891 年的断言：“唯一能够阻止国家发动战争的只有恐怖；更强大的武器才是和平最可靠的守护者”。1945 年核武器的诞生将[[Total War|总体战]]的破坏推向极限，正是这种不可承受的恐怖毁灭均势，铸就了战后八十年大国无大战的长和平奇迹。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|(Gaddis, 1987; Nobel, 1891; cited in Karp & Zamiska, 2025, pp. 37–41)]]
 
 ---
 

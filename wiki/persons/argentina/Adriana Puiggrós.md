@@ -71,7 +71,7 @@ updated: 2026-10-16
 > - **核心角色** 拉美激进教育史与教育政治社会学领域的核心开拓者；开创拉美教育制度历史替代方案研究计划（APPEAL）；其学术工作深刻揭示了国家统治霸权、[[Neocorporatism|法团主义]]恩庇与帝国主义干预如何塑造学校教育，并在与托雷斯的合作中系统论证了新自由主义国家撤资对公共[[Pedagogical Subject|教育主体]]（Pedagogical Subjects）的瓦解效应。
 > - **代表贡献** 提出系统的拉美教育历史分期与批判[[Paradigm|范式]]；出版《帝国主义与拉丁美洲教育》（1980）、《受主体困扰的臣民：阿根廷[[Dialogue in Education|教育对话]]》（1990）以及《拉丁美洲的国家与公共教育》（与托雷斯合著，1995/2007）。
 
-> [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论普伊格罗斯对国家撤资与教育主体瓦解的批判
+> [!citation-card] [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯论[[Adriana Puiggrós|普伊格罗斯]]对国家撤资与教育主体瓦解的批判
 > 相似的论断适用于拉丁美洲公共教育投资的国家撤资现象，以及这一过程如何严重损害了公民作为教育主体的形塑。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 79)]]
 >
 > *A similar argument is made about the withdrawal of state investment in public education in Latin America and how that would affect the constitution of citizens as pedagogical subjects.*
@@ -81,7 +81,7 @@ updated: 2026-10-16
 ## 生平与职涯
 
 > [!timeline] 生平与职涯
-> - **1941** 出生于阿根廷布宜诺斯艾利斯，父亲鲁道夫·普伊格罗斯（Rodolfo Puiggrós）为阿根廷著名马克思主义历史学家、布宜诺斯艾利斯[[Grandes Ecoles|大学校]]长。
+> - **1941** 出生于阿根廷布宜诺斯艾利斯，父亲鲁道夫·[[Adriana Puiggrós|普伊格罗斯]]（Rodolfo Puiggrós）为阿根廷著名马克思主义历史学家、布宜诺斯艾利斯[[Grandes Ecoles|大学校]]长。
 > - **1960–1974** 毕业于布宜诺斯艾利斯大学教育学系，随后执教于该校，投身工会、学生与左翼教师运动。
 > - **1974** 阿根廷右翼极端势力暗杀威胁与随后的军事政变迫使其流亡墨西哥，进入墨西哥国立自治大学（UNAM）攻读拉丁美洲研究博士学位并任教。
 > - **1980** 在墨西哥出版开创性著作《帝国主义与拉丁美洲教育》（*Imperialismo y educación en América Latina*），将[[Dependency Theory|依附理论]]与[[Hegemony|葛兰西霸权理论]]融汇于拉美教育史研究。

@@ -75,7 +75,7 @@ updated: 2026-10-16
 
 > [!dev-timeline] 组织发展历程
 > - **1996–2003年 — 创设与各州课标质量体检期** 成立后重点对各州现行课程标准开展外部学术审查，发布多期《各州标准质量基准报告》，尖锐指出各州大纲过宽过浅、与大学招生要求严重脱节的弊端。
-> - **2004–2008年 — [[American Diploma Project|美国文凭项目]]（ADP）与前瞻孵化** 联合[[The Education Trust|教育信托]]（The Education Trust）和[[Thomas B. Fordham Institute|福特汉姆基金会]]启动美国文凭项目（American Diploma Project, ADP），吸引 35 个州自愿参与；首次确立了[[College and Career Readiness|大学与职业就绪]]（CCR）实证框架，并联合研发跨州代数二（Algebra II）统测试卷，为后续 [[Common Core State Standards|CCSS]] 奠定了技术底座。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 9, 21)]]
+> - **2004–2008年 — [[American Diploma Project|美国文凭项目]]（ADP）与前瞻孵化** 联合教育信托（[[The Education Trust]]）和[[Thomas B. Fordham Institute|福特汉姆基金会]]启动美国文凭项目（American Diploma Project, ADP），吸引 35 个州自愿参与；首次确立了[[College and Career Readiness|大学与职业就绪]]（CCR）实证框架，并联合研发跨州代数二（Algebra II）统测试卷，为后续 [[Common Core State Standards|CCSS]] 奠定了技术底座。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 9, 21)]]
 > - **2009–2020年 — 主导 CCSS 技术研制与 PARCC 统测联盟运营** 作为技术主笔方联合[[National Governors Association|全国州长协会]]（NGA）与[[Council of Chief State School Officers|州首席教育官理事会]]（CCSSO）起草全美通用标准；后续作为项目管理者长期主导大学与职业就绪评估联盟（PARCC）的研发与运营；2020 年随着标准常态化，其核心技术团队与数字化资源整体合并入非营利测评机构全美学生测量协会（NWEA）。
 
 ---
@@ -85,7 +85,7 @@ updated: 2026-10-16
 > [!actor-grid] 组织治理架构
 > - **两党理事会（Board of Directors）** 董事会结构极具制度威望，由 4 至 6 位在任或离任两党州长、财富 500 强跨国企业首席执行官（如杜邦、保诚、英特尔高管）以及知名教育家联合组成，由前教育部助理部长迈克尔·科恩（Michael Cohen）长期出任总裁。
 > - **核心技术研发部门** 下设标准与评估部、战略与传播部、各州政策分析部，汇集了全美一流的课程专家与计量心理学学者。
-> - **跨州智库游说联合网络** 与托马斯·B·[[Thomas B. Fordham Institute|福特汉姆基金会]]、[[The Education Trust|教育信托]]等机构保持常态化协同，在各州巡回开展标准宣讲。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 21)]]
+> - **跨州智库游说联合网络** 与托马斯·B·[[Thomas B. Fordham Institute|福特汉姆基金会]]、教育信托等机构保持常态化协同，在各州巡回开展标准宣讲。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 21)]]
 
 > [!pathways]- 业务运行机制
 > - **雇主与高校需求逆推** 彻底放弃传统由教育官僚自封学分要求的做法，通过系统调查全国数千名大一骨干教授与高科技企业用人主管，将真实工作场景所需的推理与阅读指标反向转译为学术条文。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 9)]]

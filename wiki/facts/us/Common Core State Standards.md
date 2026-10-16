@@ -107,7 +107,7 @@ updated: 2026-10-16
 ## 时间线
 
 > [!dev-timeline] 共同核心标准演进脉络
-> - **2001 — 早期探索阶段** [[Achieve|阿奇夫]]（Achieve）联合[[The Education Trust|教育信托]]（The Education Trust）与[[Thomas B. Fordham Institute|福特汉姆基金会]]（Thomas B. Fordham Foundation）发起[[American Diploma Project|美国文凭项目]]（ADP），启动多州学术标准对标与高等教育衔接试点。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 8)]]
+> - **2001 — 早期探索阶段** [[Achieve|阿奇夫]]（Achieve）联合教育信托（[[The Education Trust]]）与[[Thomas B. Fordham Institute|福特汉姆基金会]]（Thomas B. Fordham Foundation）发起[[American Diploma Project|美国文凭项目]]（ADP），启动多州学术标准对标与高等教育衔接试点。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 8)]]
 > - **2007–2008 — 议程突破阶段** [[Hunt Institute|亨特研究所]]邀请[[National Research Council|美国国家科学研究委员会]]（National Research Council, NRC）举办专题研讨会，发布政策简报《教育领导力蓝图》；[[National Governors Association|NGA]]、[[Council of Chief State School Officers|CCSSO]] 与 Achieve 联合发布《迈向成功的基准》报告，正式确立研制跨州国际基准标准的共识。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–9, 21)]]
 > - **2009 — 标准启动与起草** NGA 与 CCSSO 联合发起标准动议；成立数学与 ELA 专家团队，自上而下倒推研制高中毕业 [[College and Career Readiness|CCR]] 标准。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8, 13)]]
 > - **2010 — 评审认证与正式公布** 3 月公布草案并征集 10,000 份公众意见；6 月 29 人独立验证委员会完成学术审查（25 人签字，4 人拒签），标准终稿正式面向全美发布。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 15–16, 23)]]

@@ -294,7 +294,7 @@ journal: Educational Psychologist
 
 在正式法案起草与审议中，国会常设委员会（特别是[[House Committee on Education and the Workforce|众议院教育与劳动力委员会]]、参议院健康教育劳工与养老金委员会）是核心承载平台，其专业幕僚相较于个人议员办公室拥有更长远的政策视野和极强的[[Research Utilization|研究利用]]意愿（Weiss, 1989; p.45）。
 
-在此生态中，以新美国（New America）、[[American Council on Education|美国教育理事会]]（American Council on Education, ACE）、[[The Education Trust|教育信托]]（The Education Trust, EdTrust）、[[American Association of Colleges for Teacher Education|美国师范教育学院协会]]（American Association of Colleges for Teacher Education, AACTE）为代表的智库与专业中介机构，承担着极为关键的双重职能：语言转译与定向传播。这些机构深谙政治语言与立法痛点，能够实时收集和分析政策数据，并与委员会幕僚维持着高频互动，正如桑德拉·纳特利（Sandra Nutley, 2003, p. 14）所言：“当政策制定者本身是该政策领域的专业专家时，知识才能获得最顺畅的利用。”（p.45）
+在此生态中，以新美国（New America）、[[American Council on Education|美国教育理事会]]（American Council on Education, ACE）、教育信托（[[The Education Trust]], EdTrust）、[[American Association of Colleges for Teacher Education|美国师范教育学院协会]]（American Association of Colleges for Teacher Education, AACTE）为代表的智库与专业中介机构，承担着极为关键的双重职能：语言转译与定向传播。这些机构深谙政治语言与立法痛点，能够实时收集和分析政策数据，并与委员会幕僚维持着高频互动，正如桑德拉·纳特利（Sandra Nutley, 2003, p. 14）所言：“当政策制定者本身是该政策领域的专业专家时，知识才能获得最顺畅的利用。”（p.45）
 
 中介组织在起草政策声明时所展现的笃定语态，与学术界的审慎文化形成了鲜明对质：
 

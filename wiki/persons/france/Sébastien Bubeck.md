@@ -48,7 +48,7 @@ updated: 2026-10-16
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 塞巴斯蒂安·布贝克（Sébastien Bubeck, 1985–）是法国计算机科学家、机器学习与人工智能理论研究者，曾长期担任微软研究院（Microsoft Research）副总裁及[[Artificial General Intelligence|通用人工智能]]基础研究团队主管，后加入 OpenAI。
+> - **身份位置** [[Sébastien Bubeck|塞巴斯蒂安·布贝克]]（Sébastien Bubeck, 1985–）是法国计算机科学家、机器学习与人工智能理论研究者，曾长期担任微软研究院（Microsoft Research）副总裁及[[Artificial General Intelligence|通用人工智能]]基础研究团队主管，后加入 OpenAI。
 > - **核心角色** 在现代前沿大模型评估与通用人工智能研究中承担先锋探索角色，通过对未对齐原始大模型的黑箱探索，提出“通用人工智能火花”概念，直接引发全球学术界与产业界关于机器意识与通用推理能力的广泛讨论。
 > - **代表贡献** 牵头撰写《通用人工智能的火花：[[General Purpose Technology|GPT]]-4早期实验》（*Sparks of Artificial General Intelligence: Early Experiments with GPT-4*, 2023）；提出基于多模态常识推理与概念空间组合的跨领域大模型评估方法。
 
@@ -90,5 +90,5 @@ updated: 2026-10-16
 >
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
-> | [[Artificial General Intelligence]] | 概念 | 布贝克是“通用人工智能火花”（Sparks of AGI）实证研究的首创与核心代表人物。 |
+> | [[Artificial General Intelligence]] | 概念 | [[Sébastien Bubeck\|布贝克]]是“通用人工智能火花”（Sparks of AGI）实证研究的首创与核心代表人物。 |
 > | [[Generative Artificial Intelligence]] | 概念 | 通过开创性测试确立了评估生成式大模型高阶认知能力的方法框架。 |

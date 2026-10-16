@@ -205,7 +205,7 @@ updated: 2026-10-16
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 跨性别多组 [[Confirmatory Factor Analysis\|CFA]] 显示形态、弱、强与严格等值均满足 |ΔCFI| ≤ .010，男女教师[[Research Literacy\|研究素养]]均值可以无偏比较。
+> - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 跨性别多组 [[Confirmatory Factor Analysis\|CFA]] 显示形态、弱、强与严格等值均满足 |Δ[[Model Fit Indices in SEM and CFA|CFI]]| ≤ .010，男女教师[[Research Literacy\|研究素养]]均值可以无偏比较。
 
 ---
 

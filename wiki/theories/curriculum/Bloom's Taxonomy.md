@@ -45,6 +45,7 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Structured Teaching]]"
   - "[[Wicked Problem]]"
+  - "[[Deschooling]]"
   - "[[Paradigm]]"
   - "[[International Baccalaureate]]"
   - "[[IB Diploma Programme]]"
@@ -200,7 +201,7 @@ updated: 2026-10-16
 > > - **线性阶段立场** 强调没有扎实的记忆与理解，高阶分析与评价将沦为空洞的修辞，教学必须由浅入深。
 > > - **动态网络立场** 认为真实探究往往始于高阶创造或问题评价，学生在解决[[Wicked Problem|劣构问题]]中自发逆向检索低阶事实，主张非线性、情境化的动态知识模型。[[Argument_Qvortrup_2015_Paideia\|(Qvortrup, 2015, pp. 29–32)]]
 >
-> > [!axis] 经典教学论五大支柱基石 vs 去学校化激进思潮的解构
+> > [!axis] 经典教学论五大支柱基石 vs [[Deschooling|去学校化]]激进思潮的解构
 > > 在教学思想史与课程[[Paradigm|范式]]交锋中，布鲁姆分类学常被置于经典传统教学论与现代实验教育的张力中进行审视。
 > >
 > > - **传统教学论基石立场** 夸美纽斯（J. A. Komenský）与第斯多惠（A. Diesterweg）奠定的传统教学论建立在五大核心支柱之上：知识范式导向、教师核心主导地位、班级授课制、课堂纪律约束，以及作为技能阶梯递进策略的**布鲁姆教育目标分类学**。该立场主张认知阶梯为学校教育确立了系统、可控、分阶递进的育人秩序。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 230)]]

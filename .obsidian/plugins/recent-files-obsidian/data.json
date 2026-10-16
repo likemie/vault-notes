@@ -5,12 +5,24 @@
       "path": "wiki/arguments/journal-articles/New Zealand Journal of Educational Studies/Argument_Snook_2009_NZJES.md"
     },
     {
-      "basename": "Jacob S. Hacker",
-      "path": "wiki/persons/us/Jacob S. Hacker.md"
-    },
-    {
       "basename": "Recontextualization",
       "path": "wiki/concepts/comparative-education/Recontextualization.md"
+    },
+    {
+      "basename": "Endogenous and Exogenous Privatisation",
+      "path": "wiki/concepts/educational-policy-reform/Endogenous and Exogenous Privatisation.md"
+    },
+    {
+      "basename": "Whole Language",
+      "path": "wiki/concepts/instruction-pedagogy/Whole Language.md"
+    },
+    {
+      "basename": "Professional Judgment",
+      "path": "wiki/concepts/educational-policy-reform/Professional Judgment.md"
+    },
+    {
+      "basename": "Jacob S. Hacker",
+      "path": "wiki/persons/us/Jacob S. Hacker.md"
     },
     {
       "basename": "SINUS",
@@ -187,18 +199,6 @@
     {
       "basename": "Classroom Observation",
       "path": "wiki/methods/qualitative/Classroom Observation.md"
-    },
-    {
-      "basename": "Horace Mann",
-      "path": "wiki/persons/us/Horace Mann.md"
-    },
-    {
-      "basename": "UNESCO",
-      "path": "wiki/facts/global/UNESCO.md"
-    },
-    {
-      "basename": "World Bank",
-      "path": "wiki/facts/global/World Bank.md"
     }
   ],
   "omittedPaths": [],

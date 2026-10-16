@@ -44,7 +44,7 @@ updated: 2026-10-16
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 于尔约·恩格斯特罗姆（Yrjö Engeström）是芬兰组织学习与教育研究者，以其对[[Third Generation Activity Theory\|活动理论]]的发展而知名。他继承 Vygotsky 的第一代文化-历史活动理论，在 *Learning by Expanding*（1987）中发展为第二代集体活动系统模型，进而在 2001 年提出第三代活动理论，聚焦多个活动系统之间的互动、边界跨越和扩展性改造([[Argument_Wang_2025_CE\|Wang & McLaughlin, 2025, pp.590-591]])。
+> - **身份位置** [[Yrjö Engeström|于尔约·恩格斯特罗姆]]（Yrjö Engeström）是芬兰组织学习与教育研究者，以其对[[Third Generation Activity Theory\|活动理论]]的发展而知名。他继承 Vygotsky 的第一代文化-历史活动理论，在 *Learning by Expanding*（1987）中发展为第二代集体活动系统模型，进而在 2001 年提出第三代活动理论，聚焦多个活动系统之间的互动、边界跨越和扩展性改造([[Argument_Wang_2025_CE\|Wang & McLaughlin, 2025, pp.590-591]])。
 
 > [!warning]- 来源边界
 > 当前正文仅基于 [[Argument_Wang_2025_CE|Wang and McLaughlin（2025）]]中引用的 Engeström 理论贡献。生平与职涯信息不足，标注为"待核"。后续若有 Engeström 原典或传记 source record，可补全。

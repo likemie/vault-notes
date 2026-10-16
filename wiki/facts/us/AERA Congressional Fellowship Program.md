@@ -120,7 +120,7 @@ updated: 2026-10-16
 > [[Zewelanji N. Serpell\|泽韦兰吉·N·瑟佩尔]]（[[Zewelanji N. Serpell]]）总结指出，完成一年任期的研究员并未局限于学术象牙塔，而是形成了深远的多元制度辐射力：
 > 1. **联邦行政科研资助中枢** 部分学者留在联邦行政机构，进入美国[[Institute of Education Sciences\|教育科学研究院]]（IES）或国家科学基金会（[[National Science Foundation\|NSF]]）等部门，直接执掌国家竞争性科研资助指南（RFPs）制定与战略优先领域设定，将一线经验融入国家科研顶层设计。
 > 2. **国会山常任立法核心** 部分学者选择留任国会山，担任常设专业委员会的常任专业主任（Staff Director）或高级政策顾问，依托委员会的长远视野持续推进立法改进。
-> 3. **智库与专业中介网络** 加入新美国（New America）、[[The Education Trust\|教育信托]]（The Education Trust, EdTrust）、[[American Council on Education\|美国教育理事会]]（ACE）等智库或倡导团体，主导政策语言转译与定向立法游说。
+> 3. **智库与专业中介网络** 加入新美国（New America）、教育信托（[[The Education Trust]], EdTrust）、[[American Council on Education\|美国教育理事会]]（ACE）等智库或倡导团体，主导政策语言转译与定向立法游说。
 > 4. **州级政策行动** 返回本州深度参与州级教育治理与法案修正，在贴近地方实际的情境中推进“政策向实践”的精细化转化。
 > 5. **高校学术界反哺与人才培养革新** 返回大学的研究者深刻重塑了自身的[[Research Topic\|研究选题]]视野，将政策真实痛点前置进科研设计，并在研究生与博士生培养中系统强化科学传播训练，改变了下一代科研人员的政策参与意识。（pp. 46–47）
 

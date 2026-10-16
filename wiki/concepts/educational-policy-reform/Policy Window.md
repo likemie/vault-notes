@@ -44,7 +44,6 @@ related_facts:
   - "[[TIMSS]]"
   - "[[PISA]]"
   - "[[Partnership Schools Kura Hourua]]"
-  - "[[The Education Trust]]"
   - "[[Achieve]]"
   - "[[National Governors Association]]"
 related_arguments:
@@ -131,7 +130,7 @@ updated: 2026-10-16
 > 当政治体制内出现少数派联合执政或议席微弱多数的特殊政治周期时，边缘议题可作为组阁政治交换筹码，瞬间撬开常态下被建制官僚与专业协会所阻遏的政策之窗；早已预研成熟办学模型的[[Policy Entrepreneur|政策企业家]]能够借窗突围，直接介入法律起草与规程拟定。
 
 > [!claim] O'Neill, J., Duffy, C., & Fernando, S.
-> **联合执政政治交换撬开特许学校政策之窗** [[John O'Neill|约翰·奥尼尔]]（John O'Neill）等学者在考察[[Partnership Schools Kura Hourua|新西兰特许学校]]（PSKH）政策议程设置时发现，2011 年大选后国家党（National Party）因议席不足，被迫与持自由意志主义立场的行动党（ACT Party）签署《信任与供给协议》（Confidence and Supply Agreement）。行动党将设立打破公立教育垄断的特许学校作为联合执政不可退让的先决条件，从而在极短时间内强行开启了原本在民意与教育界毫无共识的政策机会之窗。阿尔温·普尔（Alwyn Poole）主导的别墅[[The Education Trust|教育信托]]（Villa Education Trust）与普纳马拉马信托（He Puna Marama Trust）等政策企业家群体，早已备好私立办学模型与军事化培训方案，在此政治之窗开启时迅速借道突围，直接进驻教育部特许学校执行工作组，主导起草了绕过国家课程标准与公立教师资质限制的特许办学合同法案。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 20–23, 29–30, 42–46)]]
+> **联合执政政治交换撬开特许学校政策之窗** [[John O'Neill|约翰·奥尼尔]]（John O'Neill）等学者在考察[[Partnership Schools Kura Hourua|新西兰特许学校]]（PSKH）政策议程设置时发现，2011 年大选后国家党（National Party）因议席不足，被迫与持自由意志主义立场的行动党（ACT Party）签署《信任与供给协议》（Confidence and Supply Agreement）。行动党将设立打破公立教育垄断的特许学校作为联合执政不可退让的先决条件，从而在极短时间内强行开启了原本在民意与教育界毫无共识的政策机会之窗。阿尔温·普尔（Alwyn Poole）主导的别墅教育信托（Villa Education Trust）与普纳马拉马信托（He Puna Marama Trust）等政策企业家群体，早已备好私立办学模型与军事化培训方案，在此政治之窗开启时迅速借道突围，直接进驻教育部特许学校执行工作组，主导起草了绕过国家课程标准与公立教师资质限制的特许办学合同法案。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 20–23, 29–30, 42–46)]]
 
 ---
 

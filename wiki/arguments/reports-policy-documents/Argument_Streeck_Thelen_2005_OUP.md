@@ -374,7 +374,7 @@ issuing_organization: ""
 > *Institutions may be defined as building-blocks of social order: they represent socially sanctioned, that is, collectively enforced expectations with respect to the behavior of specific categories of actors or to the performance of certain activities. Typically they involve mutually related rights and obligations for actors, organizing behavior into predictable and reliable patterns.*
 
 > [!citation-card] [[Institutional Drift|制度漂移]]与策略性不作为
-> 制度的稳定存续决非理所当然——尽管在谈及制度时人们常常使用停滞与粘性等词汇。恰恰相反，制度需要积极的维护；为了保持其原有属性，面对其所嵌入的政治与经济环境的变迁，制度必须被重新设定和重新聚焦，或者有时更根本地被重新校准和重新谈判。缺乏这种主动照料，制度就会如[[Jacob S. Hacker|哈克]]对美国医疗保障政策的分析所展示的那样，因漂移而遭受侵蚀或萎缩。（p. 24）
+> 制度的稳定存续决非理所当然——尽管在谈及制度时人们常常使用停滞与粘性等词汇。恰恰相反，制度需要积极的维护；为了保持其原有属性，面对其所嵌入的政治与经济环境的变迁，制度必须被重新设定和重新聚焦，或者有时更根本地被重新校准和重新谈判。缺乏这种主动照料，制度就会如哈克对美国医疗保障政策的分析所展示的那样，因漂移而遭受侵蚀或萎缩。（p. 24）
 >
 > *There is nothing automatic about institutional stability—despite the language of stasis and stickiness often invoked in relation to institutions. Quite to the contrary institutions require active maintenance; to remain what they are they need to be reset and refocused, or sometimes more fundamentally recalibrated and renegotiated, in response to changes in the political and economic environment in which they are embedded. Without such ‘tending’, as Hacker’s analysis of health care policy in the United States illustrates, they can be subject to erosion or atrophy through drift.*
 

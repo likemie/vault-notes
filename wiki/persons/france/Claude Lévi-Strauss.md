@@ -58,7 +58,7 @@ updated: 2026-10-08
 > - **核心角色** 20 世纪下半叶结构主义思潮的旗手，通过对美洲原住民神话与亲属结构的[[Fieldwork|田野调查]]，颠覆了启蒙时代以来的线性文明进步观；其对西方文明扩张殖民原罪的批判，成为战后学术界反思欧洲中心主义与解构正典[[Grand Theory|宏大叙事]]的核心思想源头。
 > - **代表贡献** 创立结构人类学；在《忧郁的热带》（1955）中对西方文明给原始社会带来的浩劫做出深刻的人类学定性。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Lévi-Strauss, 1955; cited in Karp & Zamiska, 2025, p. 89)]]
 
-> [!citation-card]- 列维-斯特劳斯论西方文明给原住民社会带来的浩劫
+> [!citation-card]- [[Claude Lévi-Strauss|列维-斯特劳斯]]论西方文明给原住民社会带来的浩劫
 > 西方文明的发展给作为研究对象的原住民社会——人类中那群‘无辜的群体’——带来了‘怪异而无法理解的浩劫’。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Lévi-Strauss, 1955; cited in Karp & Zamiska, 2025, p. 89)]]
 >
 > *...lamented what he described as the "monstrous and incomprehensible cataclysm" that the development of Western civilization had brought upon the indigenous societies that were the objects of his interest—for him, that "innocent section of humanity."*
@@ -98,14 +98,14 @@ updated: 2026-10-08
 ## 核心思想
 
 > [!claim] 核心主张
-> 列维-斯特劳斯打破了 19 世纪进化论人类学关于“野蛮-文明”的单向线性阶梯，确立了人类心智结构的普遍同质性。他主张非西方原始社会的野性思维与现代西方科学理性在认知复杂性上处于对等地位，而西方现代性的全球殖民扩张则对原始生态与异质文化带来了不可逆的毁灭性浩劫。在《[[Technological Republic|技术共和国]]》中，卡普与扎米斯卡指出，列维-斯特劳斯对西方文明的道德定性，与[[Kwame Anthony Appiah|阿皮亚]]（Appiah）和[[Edward Said|萨义德]]（Said）等后现代批评一同构成了战后知识界彻底瓦解西方文明正典[[Grand Theory|宏大叙事]]的重要思想源头。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 89–90)]]
+> [[Claude Lévi-Strauss|列维-斯特劳斯]]打破了 19 世纪进化论人类学关于“野蛮-文明”的单向线性阶梯，确立了人类心智结构的普遍同质性。他主张非西方原始社会的野性思维与现代西方科学理性在认知复杂性上处于对等地位，而西方现代性的全球殖民扩张则对原始生态与异质文化带来了不可逆的毁灭性浩劫。在《[[Technological Republic|技术共和国]]》中，卡普与扎米斯卡指出，列维-斯特劳斯对西方文明的道德定性，与[[Kwame Anthony Appiah|阿皮亚]]（Appiah）和[[Edward Said|萨义德]]（Said）等后现代批评一同构成了战后知识界彻底瓦解西方文明正典[[Grand Theory|宏大叙事]]的重要思想源头。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch07|(Karp & Zamiska, 2025, pp. 89–90)]]
 
 ---
 
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **思想合作与启发** 罗曼·雅各布森（Roman Jakobson） — 结构语言学先驱，为列维-斯特劳斯提供音位学结构分析工具。
+> - **思想合作与启发** 罗曼·雅各布森（Roman Jakobson） — 结构语言学先驱，为[[Claude Lévi-Strauss|列维-斯特劳斯]]提供音位学结构分析工具。
 > - **后继与论辩** [[Edward Said]]、[[Kwame Anthony Appiah]] — 继承并延伸其对西方文明优越论与殖民霸权的深刻批判。
 > - **当代技术政治学评述** [[Alexander Karp]] & [[Nicholas Zamiska]] — 在《[[Technological Republic|技术共和国]]》中评述其将西方扩张定性为浩劫的人类学论断在正典解构中的角色。
 

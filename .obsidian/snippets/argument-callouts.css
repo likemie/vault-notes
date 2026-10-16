@@ -17134,12 +17134,24 @@
   max-width: none !important;
 }
 
-/* 4 列张力矩阵（如 DBDM 与 RITP 实践镜像互补矩阵）：首列维度收紧，后续 3 列等宽对称 */
+/* 4 列张力矩阵与对照表：科学分配列宽，保障首列中英文不折断，数据列紧凑居中，论述列充实对称 */
 .callout[data-callout="tension-table"] table:has(th:nth-child(4)) th:first-child,
 .callout[data-callout="tension-table"] table:has(td:nth-child(4)) td:first-child {
-  width: 12% !important;
-  min-width: 72px !important;
-  max-width: 105px !important;
+  width: 20% !important;
+  min-width: 130px !important;
+  max-width: 190px !important;
+  word-break: keep-all !important;
+  overflow-wrap: break-word !important;
+}
+
+/* 4 列张力表中，若第 2 列居中对齐（如效应量、数值、状态等短数据），分配紧凑列宽 */
+.callout[data-callout="tension-table"] table:has(th:nth-child(4)) th:nth-child(2)[align="center"],
+.callout[data-callout="tension-table"] table:has(th:nth-child(4)) td:nth-child(2)[align="center"] {
+  width: 14% !important;
+  min-width: 85px !important;
+  max-width: 120px !important;
+  text-align: center !important;
+  white-space: nowrap !important;
 }
 
 

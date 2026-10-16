@@ -91,7 +91,7 @@ updated: 2026-10-16
 
 ## 简介
 
-尤尔根·哈贝马斯（Jürgen Habermas, 1929– ）是当代德国最具国际影响力的哲学家与社会理论家，法兰克福学派（Frankfurt School）第二代的核心领袖与精神旗帜：
+[[Jürgen Habermas|尤尔根·哈贝马斯]]（Jürgen Habermas, 1929– ）是当代德国最具国际影响力的哲学家与社会理论家，法兰克福学派（Frankfurt School）第二代的核心领袖与精神旗帜：
 
 > [!person-profile] 人物档案
 > - **身份位置** 德国哲学家、社会学理论家、法兰克福大学哲学与社会学荣休教授；当代法兰克福[[Critical Theory|批判理论]]的集大成者与战后欧洲公共知识分子的典范。
@@ -174,7 +174,7 @@ updated: 2026-10-16
 
 > [!influence-path] 影响路径
 > - **现代性工程与公共教育的制度起源（比较教育史学路径）**
->   卡洛扬纳基与卡扎米亚斯（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009]]）在分析 19 世纪比较教育发轫（朱利安、[[Victor Cousin|库森]]、曼、斯托、巴纳德）时，运用哈贝马斯的“现代性工程”作为总括性历史哲学框架：国民公共教育体系的建立，是启蒙现代性重构“理性公共领域”与形塑自主爱国公民的必要制度条件。
+>   卡洛扬纳基与卡扎米亚斯（[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings|Kaloyannaki & Kazamias, 2009]]）在分析 19 世纪比较教育发轫（朱利安、[[Victor Cousin|库森]]、曼、斯托、巴纳德）时，运用[[Jürgen Habermas|哈贝马斯]]的“现代性工程”作为总括性历史哲学框架：国民公共教育体系的建立，是启蒙现代性重构“理性公共领域”与形塑自主爱国公民的必要制度条件。
 > - **国家能力、公共技术供给与政治[[Legitimation Crisis|合法化危机]]（政治经济学与技术政策路径）**
 >   [[Alexander Karp|亚历山大·卡普]]与[[Nicholas Zamiska|尼古拉斯·扎米斯卡]]（[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|Karp & Zamiska, 2025]]）在构建[[Technological Republic|技术共和国]]理论时，运用哈贝马斯的“合法化危机”分析现代民主政体的治理公信力：民主国家的合法性并非仅凭抽象选举程序维系，而是根本上取决于能否为公民提供安全、医疗与经济繁荣；当关键公共部门因体制排斥沦为[[Innovation Desert|创新荒漠]]、前沿技术红利无法转化为公共治理效能时，政权将面临深层的合法化危机。
 > - **合法化危机与现代教育评价的技术主义批判（政策社会学路径）**
@@ -187,7 +187,7 @@ updated: 2026-10-16
 ## 关系网络
 
 > [!person-network] 思想网络与学术关联
-> - **思想前驱／哲学源流** [[Immanuel Kant|康德]] — 哈贝马斯继承其先验理性、普遍伦理与世界公民观念，将其从个体内省转向主体间商谈。
+> - **思想前驱／哲学源流** [[Immanuel Kant|康德]] — [[Jürgen Habermas|哈贝马斯]]继承其先验理性、普遍伦理与世界公民观念，将其从个体内省转向主体间商谈。
 > - **法兰克福学派师承** 霍克海默（Max Horkheimer）与阿多诺（Theodor W. Adorno） — 导师与思想策源地；哈贝马斯继承其[[Ideology Critique|意识形态批判]]，但克服了其绝望的文化悲观论。
 > - **地缘政治经济学应用者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 运用哈贝马斯[[Legitimation Crisis|合法化危机]]理论论证[[Technological Republic|技术共和国]]中公共部门消除[[Innovation Desert|创新荒漠]]与交付技术福利的紧迫性。
 > - **教育理论继承与应用者** [[Stephen Kemmis|斯蒂芬·凯米斯]] — 将哈贝马斯的交往行动理论与知识兴趣说发展为批判性教育[[Action Research|行动研究]]的全球先驱。
@@ -201,7 +201,7 @@ updated: 2026-10-16
 > [!debates] 学术争议
 >
 > > [!axis] 现代性工程 vs [[Post-structuralism|后结构主义]]与[[Postmodernism|后现代主义]]的交锋
-> > - **哈贝马斯立场（1987, 《现代性的哲学话语》）** 坚决反对将[[Critical Theory|批判理论]]与[[Postmodernism|后现代主义]]或[[Post-structuralism|后结构主义]]混为一谈；斥责后现代思潮对理性、真理与普遍规范的全面解构是放弃批判锋芒的新保守主义投降；坚信启蒙现代性中蕴含着自我纠偏的交往理性机制，现代性依然是一项必须坚持推进的未完成工程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 27)]]
+> > - **[[Jürgen Habermas|哈贝马斯]]立场（1987, 《现代性的哲学话语》）** 坚决反对将[[Critical Theory|批判理论]]与[[Postmodernism|后现代主义]]或[[Post-structuralism|后结构主义]]混为一谈；斥责后现代思潮对理性、真理与普遍规范的全面解构是放弃批判锋芒的新保守主义投降；坚信启蒙现代性中蕴含着自我纠偏的交往理性机制，现代性依然是一项必须坚持推进的未完成工程。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|(Cohen et al., 2011, Ch. 1, p. 27)]]
 > > - **后现代主义立场（[[Jean-François Lyotard|利奥塔]]等）** 指责哈贝马斯对普遍共识与[[Grand Theory|宏大叙事]]（Grand Narrative）的追求本身就是一种隐蔽的总体性极权暴力，抹杀了多元[[Heterogeneity|异质性]]与语言游戏的[[Incommensurability|不可通约性]]。
 >
 > > [!axis] [[Ideal Speech Situation|理想言说情境]]：规范性北极星还是脱离实际的乌托邦？
@@ -217,7 +217,7 @@ updated: 2026-10-16
 > | 条目 | 类型 | 贡献 |
 > |:-----|:-----|:-----|
 > | [[Technological Republic]] | 概念 | 哈贝马斯[[Legitimation Crisis\|合法化危机]]理论被用于解释技术共和国中国家供给公共技术福利的政治合法性机制。 |
-> | [[Innovation Desert]] | 概念 | 公共部门技术停滞与治理效能折损直接诱发哈贝马斯所预警的体制合法化危机。 |
+> | [[Innovation Desert]] | 概念 | 公共部门技术停滞与治理效能折损直接诱发[[Jürgen Habermas\|哈贝马斯]]所预警的体制合法化危机。 |
 > | [[Positivism]] | 概念 | 哈贝马斯提供了最具穿透力的社会理论批判，揭示其退化为技术主义意识形态。 |
 > | [[Scientism]] | 概念 | 批判科学心态被提升为世俗宗教并垄断西方[[Epistemology\|认识论]]合法性的现象。 |
 > | [[Enlightenment]] | 概念 | 坚守启蒙现代性作为一项未完成的工程，提出交往理性以抵御工具理性宰制。 |

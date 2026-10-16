@@ -157,7 +157,7 @@ updated: 2026-10-16
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **2004年–2005年 — [[Jacob S. Hacker|哈克]]奠定制度漂移理论雏形** 雅各布·哈克（Jacob S. Hacker）在分析美国福利国家私有化时首次系统提出“政策漂移”（Policy Drift），批判传统观点将福利收缩仅归因于直接削减立法的偏误，指出不更新规则是更隐蔽且强大的侵蚀机制。
+> - **2004年–2005年 — 哈克奠定制度漂移理论雏形** [[Jacob S. Hacker|雅各布·哈克]]（Jacob S. Hacker）在分析美国福利国家私有化时首次系统提出“政策漂移”（Policy Drift），批判传统观点将福利收缩仅归因于直接削减立法的偏误，指出不更新规则是更隐蔽且强大的侵蚀机制。
 > - **2005年 — 纳入[[Historical Institutionalism|历史制度主义]]形态学** [[Wolfgang Streeck|沃尔夫冈·施特雷克]]（Wolfgang Streeck）与[[Kathleen Thelen|凯瑟琳·希伦]]（Kathleen Thelen）在《超越延续性》（*Beyond Continuity*）导论中将漂移与置换、层叠、转换、耗竭并列，明确指认制度需要积极维护，刻意疏于维护将导致规则与社会现实发生结构性脱节。[[Argument_Streeck_Thelen_2005_OUP|(Streeck & Thelen, 2005, pp. 24–26)]]
 > - **2009年 — [[James Mahoney|马奥尼]]与希伦完成[[Causal Modeling|因果建模]]与行动者界定** 马奥尼与希伦在《解释制度变迁》中明确漂移与强否决、高裁量的因果对应关系，提炼[[Symbionts|寄生型共生者]]（Parasitic Symbionts）在阻挠规则更新中的关键作用。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, pp. 17, 24–25)]]
 
@@ -181,7 +181,7 @@ updated: 2026-10-16
 > > [!axis] 主动蓄意破坏还是被动国家能力不足
 > > 争论聚焦于制度漂移到底是统治集团的算计，还是国家官僚机构的技术局限。
 > > 
-> > - **政治算计视角** [[Jacob S. Hacker|哈克]]与[[James Mahoney|马奥尼]]和希伦强调，不作为往往是强否决环境下政治精英的主动策略，通过制造立法僵局实现不流血的制度改写。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 17)]]
+> > - **政治算计视角** 哈克与[[James Mahoney|马奥尼]]和希伦强调，不作为往往是强否决环境下政治精英的主动策略，通过制造立法僵局实现不流血的制度改写。[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|(Mahoney & Thelen, 2009, p. 17)]]
 > > - **能力制约视角** 行政学者指出，发展中国家普遍存在财政危机、技术落后与执行官僚专业能力匮乏，许多制度失效是客观能力不足的被动衰竭，不能一律过度政治化为恶意阴谋。
 > 
 > > [!axis] 识别制度漂移的经验测量门槛

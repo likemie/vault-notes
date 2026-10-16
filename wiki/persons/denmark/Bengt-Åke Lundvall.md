@@ -71,7 +71,7 @@ updated: 2026-10-16
 > - **代表贡献** 首次正式使用“National System of Innovation”术语（1985, 1988, 1992），创立以知识流动、能力构建与互动学习为核心的创新微观基础。
 
 > [!citation-card]- 人物定位的关键来源
-> 据该作者记忆所及，最早使用“国家[[Systems of Innovation|创新系统]]”这一表述的是本格特-奥克·伦德瓦尔（Bengt-Åke Lundvall），他也是该领域一本极具原创性与启发性专著（1992）的编者。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 5)]]
+> 据该作者记忆所及，最早使用“国家[[Systems of Innovation|创新系统]]”这一表述的是[[Bengt-Åke Lundvall|本格特-奥克·伦德瓦尔]]（Bengt-Åke Lundvall），他也是该领域一本极具原创性与启发性专著（1992）的编者。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 5)]]
 >
 > *According to this author's recollections, the first person to use the expression 'National System of Innovation' was Bengt-Åke Lundvall and he is also the editor of a highly original and thought-provoking book (1992) on this subject.*
 
@@ -109,7 +109,7 @@ updated: 2026-10-16
 > [!claim] 核心主张
 > 技术创新在本质上是一个跨越企业边界的“互动学习”过程；当将不确定性、局域化学习和[[Bounded Rationality|有限理性]]作为微观经济行为的基本假定时，微观用户—生产者关系网络与宏观国家制度环境的差异，必然导向多样化与差异化的经济演进路径，而非标准化的全球趋同。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 11, 15, 17)]]
 
-> [!citation-card] 伦德瓦尔论有限理性与国家创新路径的多样性
+> [!citation-card] [[Bengt-Åke Lundvall|伦德瓦尔]]论有限理性与国家创新路径的多样性
 > 如果将不确定性、局域化学习（Localized Learning）与有限理性作为关于微观经济行为的基本且更符合现实的假设，而非传统完全信息与超理性的假设，那么必然能够得出结论：地方与国家在外部环境上的差异将往往导致完全不同的发展道路，走向日益增强的多样性，而非标准化与收敛趋同。[[Argument_Freeman_1995_CJE|(Freeman, 1995, p. 15)]]
 >
 > *If uncertainty, localised learning and bounded rationality are introduced as basic and more realistic assumptions about microeconomic behaviour, rather than the traditional assumptions of perfect information and hyperrationality, then it must follow that local and national variations in circumstances may often lead to different paths of development and to increasing diversity rather than to standardisation and convergence.*
@@ -134,7 +134,7 @@ updated: 2026-10-16
 > - **教育研究启示** 强调教育体系不仅是[[Knowledge Production|知识生产]]机构，更是全社会“学习能力”（[[Learning Economy]]）的制度孵化器；1996 年 OECD 报告深刻推动了经合组织将[[Lifelong Learning|终身学习]]、反思能力与跨主体互动沟通确立为国家[[Human Capital Theory|人力资本]]战略与[[International Education|国际教育]]对标的核心维度。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 445–446)]]
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
-> - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 征引伦德瓦尔的[[User-Producer Interaction|用户—生产者互动]]理论与[[Bounded Rationality|有限理性]]假说，反驳跨国公司无国界神话，论证国家与[[Regional Innovation System|区域创新系统]]在维持组织多样性中的持久价值。
+> - [[Argument_Freeman_1995_CJE|Freeman, 1995]] — 征引[[Bengt-Åke Lundvall|伦德瓦尔]]的[[User-Producer Interaction|用户—生产者互动]]理论与[[Bounded Rationality|有限理性]]假说，反驳跨国公司无国界神话，论证国家与[[Regional Innovation System|区域创新系统]]在维持组织多样性中的持久价值。
 > - [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009]] — 述及福瑞与伦德瓦尔（1996）对经合组织[[Knowledge-Based Economy|知识经济]]政策转向的奠基贡献，阐释 OECD 如何将终身学习与沟通适应力塑造为全球教育政策议程（pp. 445–446）。
 
 ---
@@ -145,7 +145,7 @@ updated: 2026-10-16
 > - **合作者／思想盟友** [[Chris Freeman]] — 共同开创与推广[[National Innovation System|国家创新系统]]理论，在 SPRU 与奥尔堡学派之间长期保持深度协作。
 > - **合作者／思想盟友** [[Richard Nelson]] — 共同从[[Evolutionary Economics|演化经济学]]视角推进国家[[Systems of Innovation|创新系统]]跨国比较研究。
 > - **合作者／思想盟友** [[Dominique Foray|多米尼克·福瑞]]（Dominique Foray）— 共同主编 [[OECD]] 1996 年报告《[[Knowledge-Based Economy|知识经济]]中的教育与增长》，系统构建“学习型经济”[[Analytic Framework|分析框架]]。
-> - **学术前驱** [[Friedrich List]] — 伦德瓦尔公认李斯特是国家创新系统与[[Knowledge Production|知识生产]]力学说的思想先驱。
+> - **学术前驱** [[Friedrich List]] — [[Bengt-Åke Lundvall|伦德瓦尔]]公认李斯特是国家创新系统与[[Knowledge Production|知识生产]]力学说的思想先驱。
 > - **机构合作** [[OECD]] — 1990 年代主持编制 OECD 创新政策与国家创新系统评价指标体系。
 
 ---
