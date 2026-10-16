@@ -10,10 +10,10 @@ summary: "奥地利裔英国科学哲学家与社会哲学家，提出可证伪�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 29
-person_related_level: 3
-person_related_stars: "⭐⭐⭐"
-person_related_color: "#ede9fe"
+person_related_count: 34
+person_related_level: 4
+person_related_stars: "⭐⭐⭐⭐"
+person_related_color: "#fce7f3"
 born: "1902"
 died: "1994"
 lifespan: "1902–1994"
