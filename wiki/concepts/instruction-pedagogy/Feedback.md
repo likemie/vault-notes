@@ -5,10 +5,10 @@ aliases:
 summary: "围绕表现、理解与下一步行动提供的信息回路，既可帮助学生修正学习，也可让教师判断自己的教学是否真正产生了影响。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - feedback
   - reinforcement
@@ -22,6 +22,7 @@ related_concepts:
   - "[[Success Criteria]]"
   - "[[Self-control]]"
   - "[[School Leadership]]"
+  - "[[Learning Styles]]"
   - "[[Visible Learning]]"
   - "[[PICO Framework]]"
   - "[[Learning Analytics]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Feedback
@@ -106,7 +107,7 @@ updated: 2026-10-16
 > | 校园欺凌 | 4.75 | 0.50 | 学校人际环境 |
 > | 校长与学校领导力（[[School Leadership]]） | 4.50 | 0.58 | 组织使能杠杆 |
 > | 母乳喂养 | 1.00 | 0.00 | 极低相关（外围生理） |
-> | 学习风格匹配 | 1.25 | 0.50 | 极低相关（神经神话） |
+> | [[Learning Styles\|学习风格]]匹配 | 1.25 | 0.50 | 极低相关（神经神话） |
 
 > [!insight] 实践高价值与宏观综合低质量的剧烈张力
 > 卡尔门达尔等（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）召集的 5 位国际资深教育学者（[[Intraclass Correlation Coefficient|ICC]] = 0.60）将反馈评定为中小学教学实践中现实相关度最高的核心杠杆之一（$M = 4.75$）。这表明在教育一线与教学论专家共识中，反馈始终是改进学习不可或缺的生命线。然而，这一高度被推崇的实践要素，在宏观循证综合（如《[[Visible Learning|可见的学习]]》）中却遭受了底层文献质量与统计合并的严重污染。

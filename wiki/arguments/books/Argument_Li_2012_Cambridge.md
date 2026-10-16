@@ -7,7 +7,7 @@ title: "Argument_Li_2012_Cambridge"
 argument_key: "Argument_Li_2012_Cambridge"
 argument_display_title: "Cultural Foundations of Learning: East and West"
 argument_kind: "book"
-argument_related_count: 158
+argument_related_count: 159
 argument_related_level: 15
 argument_related_stars: "💎💎💎💎💎"
 argument_related_color: "#fecdd3"
@@ -77,6 +77,7 @@ related_concepts:
   - "[[Self-Cultivation]]"
   - "[[Take the World Upon Oneself]]"
   - "[[Student-Teacher Relationship]]"
+  - "[[Learning Styles]]"
   - "[[Establishing One's Will]]"
   - "[[Open-Mindedness]]"
   - "[[Scientific Method]]"
@@ -880,7 +881,7 @@ Li 将西方知识传统分解为四个主题，每个主题不是孤立罗列�
 > 
 > **2. 言语比行动容易——人更倾向于说而不是做。** 学习者需要警惕自己"说得太多、做得太少"的倾向。重要的是检视自己的行为和互动，改进自己——而不是仅仅谈论自己的行为。
 > 
-> **3. 智慧远大于言语能表达的范围。** Li 引用老子的话："知者不言，言者不知。"中国的老师——宗教导师、武术师傅、手艺师傅、儒家塾师——倾向于"说得很少，或者只说足够的话，但不说完"——给学习者留下"反刍、消化和沉思"的空间。这种教学方式被认为有利于学习者"自得之"——自己真正获得理解。"学生和教师之间少见即时的、大量的言语交锋。耐心——一种与专心相关的品德——在这种学习风格中被珍视，焦躁则被劝阻"(pp.55-56)。
+> **3. 智慧远大于言语能表达的范围。** Li 引用老子的话："知者不言，言者不知。"中国的老师——宗教导师、武术师傅、手艺师傅、儒家塾师——倾向于"说得很少，或者只说足够的话，但不说完"——给学习者留下"反刍、消化和沉思"的空间。这种教学方式被认为有利于学习者"自得之"——自己真正获得理解。"学生和教师之间少见即时的、大量的言语交锋。耐心——一种与专心相关的品德——在这种[[Learning Styles|学习风格]]中被珍视，焦躁则被劝阻"(pp.55-56)。
 
 > [!example] 中西大学校训的对比
 > Li 搜索了中国、台湾、香港、新加坡主要中文大学的校训，结果与西方大学形成"鲜明对比"(pp.55-57)。完整列表和出处见 [[University Motto]]：

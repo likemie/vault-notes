@@ -52,6 +52,7 @@ related_concepts:
   - "[[Champ]]"
 related_theories: []
 related_methods:
+  - "[[Research Synthesis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Correlational Research]]"
@@ -77,14 +78,14 @@ sources:
   - "[[sources/Ginsberg_2024_EducPolicy/Ginsberg_2024_EducPolicy|Ginsberg_2024_EducPolicy]]"
 status: stable
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-17
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Ginsberg_2024_EducPolicy"
 argument_key: "Argument_Ginsberg_2024_EducPolicy"
 argument_display_title: "Does ESSA assure the use of evidence-based educational practices? Educational Policy, 38(1), 161–185"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 38
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -108,7 +109,7 @@ issuing_organization: ""
 
 > [!concept-lens] 阅读透镜
 > - **对象** 美国南部一所拥有逾 210,000 名学生的南部城市学区（Southern Urban District, SUD）在 2016–2017 至 2018–2019 三个学年间的全部 Title I 财务流水细项（总额达 2.88 亿美元），涵盖学区中心办公室及由其选定的 4 所典型样本学校（2 所小学、1 所初中、1 所高中，涉及约 1,300 项具体支出）。
-> - **张力** 联邦立法中单项合格研究即可合规的宽松法定门槛，与科学界及教育部指南倡导的全量证据综合评价之间的严峻[[Epistemology\|认识论]]冲突与政策执行脱节。
+> - **张力** 联邦立法中单项合格研究即可合规的宽松法定门槛，与科学界及教育部指南倡导的全量[[Research Synthesis|证据综合]]评价之间的严峻[[Epistemology\|认识论]]冲突与政策执行脱节。
 > - **贡献** 首创将地方学区微观财务账目与四大权威[[Evidence-Based Education\|循证教育]]证据库进行逐笔细粒度跨源匹配的研究路径，首次量化揭示了联邦循证政策在基层学区产生高度形式合规但实质循证支持不足的治理裂痕。
 
 ---
@@ -123,7 +124,7 @@ issuing_organization: ""
 > | **教育财政投入与产出关联假说**<br>Compensatory Education Hypotheses | Dynarski and Kainz (2015) 提出的资金强度不足假说与无效实践挤占假说，以及 Gordon (2004) 证实的地方财政挤出效应（crowd-out effect），用于解释 [[Title I of the Elementary and Secondary Education Act\|Title I]] 资金为何长期未能一致改善处境不利学生的[[Academic Achievement\|学业成就]]。（pp. 164–165） |
 
 > [!warrant]- 理论框架对实证审计的支撑机理
-> 论文通过并置比较 [[Every Student Succeeds Act\|ESSA]] 法定四级证据框架与全量证据评价[[Paradigm\|范式]]，搭建起检验政策执行实质效力的理论桥梁。长期以来关于 Title I 资金对学业影响的实证文献结论分歧严重：Borman & D'Agostino (1996) 与 Torgesen et al. (2007) 发现了积极效果，而 Puma et al. (1997)、van der Klaauw (2008) 及 Deke et al. (2012) 则未发现显著影响。Dynarski and Kainz (2015) 明确提出两大理论猜想：其一是人均拨款强度过低；其二是大量资金被耗散在缺乏实效的实践中。若法定证据标准过于宽松（仅需单项研究证明显著效果），学区便可利用挑樱桃（cherry-picking）策略为既有低效支出披上合法外衣；这一治理困境深度呼应了[[Critique of Randomized Controlled Trials\|随机对照试验批判]]对法定单项因果证据作为政策通货的质疑；只有引入全量证据综合视角，才能测出形式合规与实质有效之间的真实差距。（pp. 163–165）
+> 论文通过并置比较 [[Every Student Succeeds Act\|ESSA]] 法定四级证据框架与全量证据评价[[Paradigm\|范式]]，搭建起检验政策执行实质效力的理论桥梁。长期以来关于 Title I 资金对学业影响的实证文献结论分歧严重：Borman & D'Agostino (1996) 与 Torgesen et al. (2007) 发现了积极效果，而 Puma et al. (1997)、van der Klaauw (2008) 及 Deke et al. (2012) 则未发现显著影响。Dynarski and Kainz (2015) 明确提出两大理论猜想：其一是人均拨款强度过低；其二是大量资金被耗散在缺乏实效的实践中。若法定证据标准过于宽松（仅需单项研究证明显著效果），学区便可利用挑樱桃（cherry-picking）策略为既有低效支出披上合法外衣；这一治理困境深度呼应了[[Critique of Randomized Controlled Trials\|随机对照试验批判]]对法定单项因果证据作为政策通货的质疑；只有引入全量[[Research Synthesis|证据综合]]视角，才能测出形式合规与实质有效之间的真实差距。（pp. 163–165）
 
 ### 核心变量与操作化编码表
 
@@ -236,7 +237,7 @@ issuing_organization: ""
 ### 论证步骤二　法定单项合格门槛导致逾 95% 的名义合规率，而全量证据综合评价下获得积极实证支持的资金比例降至不足六成
 
 > [!claim] 核心主张
-> ESSA 单项合格研究标准赋予了学区极大的文牍抗辩空间，营造出逾 95% 资金合规的名义表象；但置于全量证据综合审视下，获稳定积极支持的资金比例降至 49%–58%，暴露出宽松法定门槛对实证研究异质性、零效应与负面结果的掩蔽。（pp. 174–175）
+> ESSA 单项合格研究标准赋予了学区极大的文牍抗辩空间，营造出逾 95% 资金合规的名义表象；但置于全量[[Research Synthesis|证据综合]]审视下，获稳定积极支持的资金比例降至 49%–58%，暴露出宽松法定门槛对实证研究异质性、零效应与负面结果的掩蔽。（pp. 174–175）
 
 #### 1. 单项合格研究门槛下的合规表象：逾 95% 资金跨过法定红线
 
@@ -329,7 +330,7 @@ issuing_organization: ""
 
 > [!finding-cards] 核心发现
 > 1. **单项研究标准下呈现极高名义达标率** 依据 [[Every Student Succeeds Act\|ESSA]] 法定 Tier I–III 门槛，大型城市学区超过 95%（直接按全校项目划定达 99%，按四校外推达 96%）的 [[Title I of the Elementary and Secondary Education Act\|Title I]] 资金投向了具备至少一项合格实证支持的实践。（p. 174）
-> 2. **全量证据综合下获支持资金比例降至不足六成** 在四大权威数据库综合审视下，获稳定积极或多半积极证据支持的资金比例下降至 49%–58%，42%–51% 的联邦资金投向了未获稳定实证支持的实践。（pp. 174–175）
+> 2. **全量[[Research Synthesis|证据综合]]下获支持资金比例降至不足六成** 在四大权威数据库综合审视下，获稳定积极或多半积极证据支持的资金比例下降至 49%–58%，42%–51% 的联邦资金投向了未获稳定实证支持的实践。（pp. 174–175）
 > 3. **ESSA 实施前后未带来实质性资金重构** 2016–2017 至 2018–2019 三年追踪期间，投向循证实践的资金比例保持基本平稳，法律正式生效并未推动资金向更高证据等级干预集中。（pp. 175–176）
 > 4. **教育科研供给存在严重的学段与实践断层** 样本学校采购的实践中有多达 26 项在适用学段毫无实证研究，大量细分教学形态（如特定形式的在岗辅导与外购软件）处于实证研究空白区。（p. 177）
 

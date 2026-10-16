@@ -9,7 +9,7 @@ aliases:
 summary: "系统评价与元分析方法学概念，指运用自然语言处理与大语言模型等人工智能技术从学术文献全文中自动识别、抽取并结构化效应量、样本量等统计量与研究特征的自动化规程。"
 type: concept
 domain: "research-methodology"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -43,6 +43,7 @@ related_methods:
   - "[[Intraclass Correlation Coefficient]]"
   - "[[Random-Effects Model]]"
   - "[[Inter-Rater Reliability]]"
+  - "[[Research Synthesis]]"
   - "[[Random Sampling]]"
   - "[[Correlational Research]]"
 related_instruments: []
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Automated Data Extraction
@@ -156,7 +157,7 @@ updated: 2026-10-16
 > [!contrast-table] 自动化数据提取命题归纳
 > | 命题类型 | 核心主张 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **准确性等值命题** | 前沿大语言模型在规范提示词引导下达到甚至超越人类单专家提取精度 | 证据综合、系统评价与二阶元分析自动化 | [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]]; Gartlehner et al. (2025) |
+> | **准确性等值命题** | 前沿大语言模型在规范提示词引导下达到甚至超越人类单专家提取精度 | [[Research Synthesis\|证据综合]]、系统评价与二阶元分析自动化 | [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]]; Gartlehner et al. (2025) |
 > | **误差结构命题** | 提取误差主要源于跨表计算累加与原始文献报告模糊性，而非生成式幻觉 | 二阶元分析统计提取、复杂医学与教育[[Literature Review\|文献综述]] | Marshall and Wallace (2019) |
 
 ---
@@ -169,7 +170,7 @@ updated: 2026-10-16
 > > 争论是否可以直接使用 LLMs 提取结果发布系统评价，还是必须保留人类逐条复核。
 > >
 > > - **全自动乐观派（Cao et al., 2025）** 认为多模型投票共识已具备极高置[[Reliability\|信度]]，可在两天内重现十几项系统评价，极大加速科学积累。
-> > - **有意义控制派（Thomas et al., 2025a; [[Argument_Jansen_2026_EPR\|Jansen et al., 2026]]）** 强调基于负责任证据综合指南，由于文献模糊性与法律伦理问责，必须保持人类对分歧数据的最终裁决权。
+> > - **有意义控制派（Thomas et al., 2025a; [[Argument_Jansen_2026_EPR\|Jansen et al., 2026]]）** 强调基于负责任[[Research Synthesis|证据综合]]指南，由于文献模糊性与法律伦理问责，必须保持人类对分歧数据的最终裁决权。
 >
 > > [!axis] 商业黑盒闭源模型依赖 vs 科学可复现性
 > > 商业模型（如 OpenAI [[General Purpose Technology|GPT]] 与 Google Gemini）应用程序编程接口版本频繁更迭，且存在训练集数据泄露嫌疑。

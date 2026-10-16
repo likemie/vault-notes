@@ -8,7 +8,7 @@ subtype: event
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "event"
-fact_related_count: 13
+fact_related_count: 14
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Cult of the Guru]]"
 related_theories: []
 related_methods:
+  - "[[Research Synthesis]]"
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
 related_persons:
@@ -41,14 +42,14 @@ related_instruments: []
 confidence: medium
 status: published
 created: '2026-05-06'
-updated: 2026-10-07
+updated: 2026-10-17
 ---
 ## 背景
 
 > [!info] 背景
 > 2011 年新西兰大选后，国家党联合政府（自 2008 年起执政）继续推进以提升学生成绩标准为核心的教育改革议程。政府立场是可以通过提高读写和算术成绩标准、支持低成就学生保持参与以获得中学资格、满足毛利和太平洋岛民学生特殊需求，在学校内部解决教育差距问题（Ministry of Education, 2011）。
 >
-> 在此背景下，新西兰的公立学校教育政策[[Discourse|话语]]日益受到 [[John Hattie]] 的 [[Visible Learning]] 证据综合的影响。
+> 在此背景下，新西兰的公立学校教育政策[[Discourse|话语]]日益受到 [[John Hattie]] 的 [[Visible Learning]] [[Research Synthesis|证据综合]]的影响。
 
 ## 经过
 

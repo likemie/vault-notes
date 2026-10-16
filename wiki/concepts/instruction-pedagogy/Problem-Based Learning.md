@@ -6,10 +6,10 @@ aliases:
 summary: "以经过选择的问题组织目标、学习活动与评估的教学系统，强调先备知识激活、协作探究、知识应用、模型修正和自我监控。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 59
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 60
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - problem-based-learning
   - subject/instruction
@@ -58,6 +58,7 @@ related_theories:
   - "[[Knowledge Integration]]"
   - "[[Transformative Learning Theory]]"
 related_methods:
+  - "[[Research Synthesis]]"
   - "[[Effect Size]]"
   - "[[Sample Size Determination]]"
   - "[[Meta-analysis]]"
@@ -83,7 +84,7 @@ related_instruments:
 confidence: medium
 status: active
 created: 2026-05-04
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Problem-Based Learning
@@ -123,7 +124,7 @@ updated: 2026-10-16
 > | **知识组织** | 受传统院系行政边界与标准化考试科目支配 | 围绕实际问题跨学科整合多源材料与概念工具 |
 > | **知识使用** | 应用范围常局限于期末考试纸笔测验 | 在获得知识的工作情境中立即应用于案例决策 |
 > | **学习活动** | 课堂听讲、记忆背诵、孤立练习与准备考试 | 小组协作剖析、[[Literature Search\|文献检索]]、导师研讨与过程复盘 |
-> | **评估对象** | 陈述性知识记忆与课程范围覆盖度 | 临床/实际诊断、提出假设、证据综合与自我监控 |
+> | **评估对象** | 陈述性知识记忆与课程范围覆盖度 | 临床/实际诊断、提出假设、[[Research Synthesis\|证据综合]]与自我监控 |
 > | **组织条件** | 符合大学按学科分化配置院系与教师的传统结构 | 需要跨学科协同备课、导师支持体系与弹性教学空间 |
 >
 > Biggs 将传统模式的问题定位为目标、活动与结果之间的脱节：学生积累了由考试组织的陈述性知识，处理陌生专业问题的能力却从未得到系统练习与评估。PBL 从专业能力出发，选择能够覆盖核心概念的问题，再用同类案例组织学习和评价，实现深层的[[Constructive Alignment\|建构性对齐]]。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 70–72)]]

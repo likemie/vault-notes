@@ -11,9 +11,9 @@ title: "Argument_Wadhwa_2024_RER"
 argument_key: "Argument_Wadhwa_2024_RER"
 argument_display_title: "How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs"
 argument_kind: "journal-article"
-argument_related_count: 79
-argument_related_level: 7
-argument_related_stars: "💎💎⭐"
+argument_related_count: 80
+argument_related_level: 8
+argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
 journal: Review of Educational Research
 citation: "Wadhwa, M., Zheng, J., & Cook, T. D. (2024). How consistent are meanings of evidence-based? A comparative review of 12 clearinghouses that rate the effectiveness of educational programs. Review of Educational Research, 94(1), 3–32. https://doi.org/10.3102/00346543231152262"
@@ -74,6 +74,7 @@ related_theories:
   - "[[Campbellian Validity Framework]]"
 related_methods:
   - "[[Randomised Controlled Trials]]"
+  - "[[Research Synthesis]]"
   - "[[Multitrait-Multimethod Matrix]]"
   - "[[Multimethod Research]]"
   - "[[Quasi-Experimental Designs]]"
@@ -123,7 +124,7 @@ sources:
 part_of: ""
 status: active
 created: 2026-05-05
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # Argument_Wadhwa_2024_RER
 
@@ -140,7 +141,7 @@ updated: 2026-10-16
 > 总体目标是从教育科学实践的制度语境出发，检验“基于证据（evidence-based）”这一概念的 [[Construct Validity\|构念效度]] 与 [[Reliability\|可靠性]]：如果清算中心声称能识别并传播关于教育干预因果效应的可靠知识，那么不同清算中心对同一项目的有效性评级至少应具备高度收敛性(p. 4)。
 
 > [!claim] 核心主张
-> 在当前教育清算中心体系中，“基于证据”作为一项实践[[Construct\|构念]]仅具有有限的 [[Construct Validity\|构念效度]]（limited practical construct validity）。评级高度不一致的核心原因并非传统因果识别偏好（各中心均高度推崇[[Randomised Controlled Trials\|随机对照试验]] [Randomized Controlled Trial, RCT]），而是根源于证据综合门槛的分歧（是否要求独立复制、跨地点复制与 6–12 个月持续效果）以及纳入文献集的悬殊差异。识别“基于证据”的干预目前仍更多是一种政策愿景，而非可靠的研究实践(pp. 3, 26–27)。
+> 在当前教育清算中心体系中，“基于证据”作为一项实践[[Construct\|构念]]仅具有有限的 [[Construct Validity\|构念效度]]（limited practical construct validity）。评级高度不一致的核心原因并非传统因果识别偏好（各中心均高度推崇[[Randomised Controlled Trials\|随机对照试验]] [Randomized Controlled Trial, RCT]），而是根源于[[Research Synthesis|证据综合]]门槛的分歧（是否要求独立复制、跨地点复制与 6–12 个月持续效果）以及纳入文献集的悬殊差异。识别“基于证据”的干预目前仍更多是一种政策愿景，而非可靠的研究实践(pp. 3, 26–27)。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 美英 43 个候选机构中筛选出的 12 个评估学前至大学（Pre-Kindergarten to College, pre-K to College）教育干预有效性的教育清算中心，以及由 10 个清算中心评估的 1,359 个去重教育项目与 429 个多重评级对(pp. 5–7, 16–18)。
@@ -302,7 +303,7 @@ updated: 2026-10-16
 > | **其他前置条件** | 未特别列出 | 项目干预手册／文档须在线或以实物形式可获取 | 项目必须在现场**实际运行至少 3 年**（排除试验性试点） | 必须具备明确的项目构成组件与管理文档 |
 > | **次高评级与最高评级差异** | 仅需 1 项研究；允许统计显著或实质重要（>0.25 SD）正向效果；不确定效果研究数 ≤ 正向研究数 | 与最高评级要求相同，**唯独免除独立研究者**的要求（即降为 Model） | 可由非独立评估者完成的 QED 支持（降为 Moderate） | 仅需 1 项 RCT，且干预后随访期可缩短至 **6 个月（降为 Supported）** |
 
-> [!warrant]- 步骤三深度解读：证据综合门槛对“有效性定义”的颠覆性重构
+> [!warrant]- 步骤三深度解读：[[Research Synthesis|证据综合]]门槛对“有效性定义”的颠覆性重构
 > 1. **单项研究效度不等于证据综合效度**
 >    - 即使两家清算中心对单篇 RCT 的[[Internal Validity\|内部效度]]打分完全相同，其对项目整体的最终认证依然可能南辕北辙。这是因为“最高有效性”在各中心内部代表了截然不同的证据生态门槛。
 > 2. **三大严苛过滤器的拦截效应**
@@ -498,7 +499,7 @@ updated: 2026-10-16
 >
 > *“Evidence-based” has limited practical [[Construct]] validity in the CH context.*
 
-> [!citation-card]- 证据综合门槛的实质差异
+> [!citation-card]- [[Research Synthesis|证据综合]]门槛的实质差异
 > 要求一项具有统计显著发现的单一 [[Randomised Controlled Trials\|RCT]] 或 [[Quasi-Experimental Designs\|QED]]，与要求两项具有特定[[Effect Size\|效应量]]、干预结束后 12 个月仍观察到效果、且由独立于程序开发者及先前研究者的团队完成的 RCT 相比，其门槛高度存在本质区别。(p. 26)
 >
 > *To require a single RCT or QED with a statistically significant finding is a much lower hurdle than requiring two RCTs with positive findings that are of a given size, that are observed 12 months after the intervention has ended, and that are in studies conducted by researchers who are independent of the program developers and even of prior researchers of the program in question.*

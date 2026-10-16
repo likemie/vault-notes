@@ -10,7 +10,7 @@ aliases:
 summary: "人工智能伦理学、人机协同与规范技术哲学核心构念，指在自动化与智能系统辅助决策全流程中，人类保持对系统因果链的主动追踪与价值响应能力，主导分歧仲裁与道德裁决权，防止人在回路退化为形式化橡皮图章。"
 type: concept
 domain: "educational-technology"
-related_count: 33
+related_count: 34
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -46,6 +46,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
+  - "[[Research Synthesis]]"
   - "[[Intraclass Correlation Coefficient]]"
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Meaningful Human Control
@@ -79,7 +80,7 @@ updated: 2026-10-16
 
 > [!concept-lens] 概念透镜
 > - **含义** 确立人类在人机协同决策中的实质性规范主导权，要求同时满足因果与规范层面的“追踪条件（[[Tracking]] Condition）”以及自主干预层面的“响应条件（Responsiveness Condition）”。
-> - **用途** 在高风险决策（如自主武器交战、重症临床诊断、司法刑罚评估）中设定人类道德审思不可让渡的伦理底线；在复杂学术任务（如系统评价与[[Meta-meta-analysis|二阶元分析]]证据综合）中指导设计高效、低误差的人机混合验证工作流。
+> - **用途** 在高风险决策（如自主武器交战、重症临床诊断、司法刑罚评估）中设定人类道德审思不可让渡的伦理底线；在复杂学术任务（如系统评价与[[Meta-meta-analysis|二阶元分析]][[Research Synthesis|证据综合]]）中指导设计高效、低误差的人机混合验证工作流。
 > - **边界** 区别于形式化的人在回路（Human-in-the-Loop, HITL）；若人类缺乏专业鉴别力、抗辩工具或时间窗口，单纯在决策链末端设置人工签字不构成有意义控制。同时，该概念亦不要求人类对算法微观参数进行全量重复运算，而是聚焦于关键决策节点与分歧争议点的实质裁决。
 
 > [!citation-card] 证据综合中负责任人工智能与有意义人类控制准则（RAISE 指南；Jansen et al., 2026）
@@ -183,7 +184,7 @@ updated: 2026-10-16
 ### 命题四　多模型共识结合专家异常仲裁实现了证据综合中人类控制的操作化与效能最优
 
 > [!concept-lens] 复杂学术任务中的方法学[[Operationalization|操作化]]
-> 探索在学术证据综合中如何兼顾绝对准确性与人工效率。
+> 探索在学术[[Research Synthesis|证据综合]]中如何兼顾绝对准确性与人工效率。
 
 > [!claim] [[Argument_Jansen_2026_EPR|Jansen et al. (2026)]]
 > **异常触发机制破除单人误差并达成帕累托最优** 在科学证据综合与[[Meta-meta-analysis|二阶元分析]]中，有意义的人类控制可以通过“多大语言模型独立背对背提取 + 一致共识自动采纳 + 分歧争议触发专家仲裁”的架构得以严密操作化。该工作流不仅能消除约 80% 的机械式低阶人工劳动，更能突破单一人类专家提取存在的认知疏漏（单人提取 [[Intraclass Correlation Coefficient|ICC]] 仅为 0.81–0.95），使人机混合系统的准确度逼近绝对金标准（$\text{ICC} \to 0.99+$），实现了科研准确性与时间效率的协同最优。[[Argument_Jansen_2026_EPR|(Jansen et al., 2026, pp. 20–25)]]
@@ -221,7 +222,7 @@ updated: 2026-10-16
 > - **2014–2015 年 — 国际人道法与自主武器治理发轫** 面对致命自主武器系统（LAWS）的伦理争议，“第36条（Article 36）”组织与学者正式提出“有意义的人类控制（MHC）”，主张不能将致命武力使用权完全托付给自动化算法（Horowitz & Scharre, 2015）。
 > - **2018 年 — 规范哲学与系统工程理论奠基** 菲利波·桑托尼·德西奥（Filippo Santoni de Sio）与耶罗恩·范登霍芬（Jeroen van den Hoven）系统提出追踪条件与响应条件，将 MHC 从单纯的军事政治口号转化为严格的哲学与工程设计理论。
 > - **2021–2024 年 — [[EU|欧盟]] AI 法案与人机监管制度化** 欧盟《人工智能法案》（EU AI Act）与人工智能高级别专家组（HLEG AI）将人类监督（Human Oversight）与人在回路确立为高风险 AI 系统的强制性法定合规要求。
-> - **2026 年 — [[Scientific Method|科学方法]]学[[Operationalization|操作化]]与证据综合[[Paradigm|范式]]构建** [[Argument_Jansen_2026_EPR|Jansen et al. (2026)]] 结合 RAISE 准则，首次将 MHC 严格操作化于[[Meta-meta-analysis|二阶元分析]]证据综合，确立了多模型背对背提取与专家分歧仲裁的帕累托最优架构。
+> - **2026 年 — [[Scientific Method|科学方法]]学[[Operationalization|操作化]]与[[Research Synthesis|证据综合]][[Paradigm|范式]]构建** [[Argument_Jansen_2026_EPR|Jansen et al. (2026)]] 结合 RAISE 准则，首次将 MHC 严格操作化于[[Meta-meta-analysis|二阶元分析]]证据综合，确立了多模型背对背提取与专家分歧仲裁的帕累托最优架构。
 > - **2026 年 — [[Automation Bias|强自动化偏差]]哲学批判与[[Epistemic Friction|认识论摩擦]]重构** [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] 深刻批判人在回路的“橡皮图章化”病理，阐明强自动化偏差对道德能动性的侵蚀，并提出基于反思机器与[[Defeater|击败者]]注入认识论摩擦的全新设计方案。
 
 ---
@@ -265,7 +266,7 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] — 系统论证强[[Automation Bias|自动化偏差]]引发的[[Epistemic Deference|认识论顺从]]如何架空有意义的人类控制，并提出利用反思机器与[[Defeater|反驳型击败者]]重建人类实质性道德能动性。
-> - [[Argument_Jansen_2026_EPR|Jansen et al. (2026)]] — 将有意义的人类控制理论成功[[Operationalization|操作化]]于教育证据综合与[[Meta-meta-analysis|二阶元分析]]流程，创立多模型共识结合专家仲裁的高效去偏[[Paradigm|范式]]。
+> - [[Argument_Jansen_2026_EPR|Jansen et al. (2026)]] — 将有意义的人类控制理论成功[[Operationalization|操作化]]于教育[[Research Synthesis|证据综合]]与[[Meta-meta-analysis|二阶元分析]]流程，创立多模型共识结合专家仲裁的高效去偏[[Paradigm|范式]]。
 > - [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] — 强调在高等教育学术探究中维系关系性[[Epistemic Agency|认识主体性]]与[[Evaluative Judgement|评价性判断]]，防止将关键证据核验全盘委派给大语言模型。
 > - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — 提出在生成式 AI 交互中必须建立结构化反思支架，防范无约束交互中操作者控制权的流失。
 

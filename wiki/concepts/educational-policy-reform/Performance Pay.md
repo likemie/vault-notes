@@ -9,7 +9,7 @@ aliases:
 summary: "将教师薪酬与教学表现或测试产出挂钩的激励制度，新自由主义常视其为提升质量的手段，但面临跨国实证脱节、破坏合作文化及现场试验中遭教师强烈伦理抵制而流产等多重批判"
 type: concept
 domain: "educational-policy-reform"
-related_count: 37
+related_count: 38
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -50,6 +50,7 @@ related_methods:
 related_persons:
   - "[[John Hattie]]"
   - "[[Michael Gove]]"
+  - "[[Ivan Snook]]"
 related_facts:
   - "[[OECD]]"
   - "[[PISA]]"
@@ -201,7 +202,7 @@ updated: 2026-10-17
 > - **1860s — 维多利亚时期按成果付酬（Payment by Results）先声** 英国罗伯特·洛（Robert Lowe）教育法案确立最初的财政绩效挂钩制度，后因引发机械背诵、考场欺瞒与课程贫乏而在 1890 年代被废止。
 > - **1980s — 新自由主义兴起与功绩工资（Merit Pay）受挫** 伴随[[New Public Management\|新公共管理]]（NPM）运动，英美与新西兰尝试重启绩效工资。1981 年 Murnane & Cohen 指出其“因历史失利而暗淡”；新西兰议会选择委员会《[[The Scott Report\|斯科特报告]]》（Scott Report 1986）承认测量极其复杂，建议建立大学专业测量单位，但因技术瓶颈最终搁置。[[Argument_Snook_2009_NZJES\|(Snook et al., 2009, p. 103)]]
 > - **2000s — [[Global Education Reform Movement\|全球教育改革运动]]（GERM）与增值模型泛滥** 伴随标准化考试与增值模型（VAM）兴起，美国《不让一个孩子掉队》（[[No Child Left Behind Act 2001\|NCLB]]）推动绩效工资与测验硬性挂钩，引发教育界对评价偏误的广泛抗议。
-> - **2009–2010 — 新西兰部长征用[[John Hattie|哈蒂]]数据风波与专业[[Development Turn in Comparative Education|发展转向]]** 新西兰教育部长安妮·托利（Anne Tolley）高调援引哈蒂《[[Visible Learning\|可见的学习]]》以推销绩效工资方案，引发学界系统性反击；斯努克等人指出外在金钱考评与优质教学所需的休息室[[Peer-Supported Learning|同伴文化]]根本冲突（[[Argument_Snook_2009_NZJES\|Snook et al., 2009]]），迫使哈蒂澄清其立场仅支持审慎探索高阶专业标准认定而非粗暴计件奖惩（[[Argument_Hattie_2010_NZJES\|Hattie, 2010]]）。
+> - **2009–2010 — 新西兰部长征用[[John Hattie|哈蒂]]数据风波与专业[[Development Turn in Comparative Education|发展转向]]** 新西兰教育部长安妮·托利（Anne Tolley）高调援引哈蒂《[[Visible Learning\|可见的学习]]》以推销绩效工资方案，引发学界系统性反击；[[Ivan Snook|斯努克]]等人指出外在金钱考评与优质教学所需的休息室[[Peer-Supported Learning|同伴文化]]根本冲突（[[Argument_Snook_2009_NZJES\|Snook et al., 2009]]），迫使哈蒂澄清其立场仅支持审慎探索高阶专业标准认定而非粗暴计件奖惩（[[Argument_Hattie_2010_NZJES\|Hattie, 2010]]）。
 > - **2013–2018 — 跨国评估时代的政治化包装与媒介化推销** 英格兰等系统在推行争议性 PRP 改革时，将 [[PISA]] 国际样板与[[OECD\|经合组织]][[Discourse|话语]]作为合法化弹药，通过遗漏话语和媒介公关掩盖跨国实证无效性，引发国际学者群体对评估工具被政治异化的公开抵制。[[Argument_Grey_2018_CE\|(Grey & Morris, 2018)]]
 > - **2017–2021 — 现场[[Randomised Controlled Trials\|随机对照试验]]的伦理破产与可行性反思** 英国 [[Education Endowment Foundation\|EEF]] 与 RAND 欧洲团队试图通过严格 RCT 验证绩效奖金辅导模式（[[Incentivised Pay and Coaching Trial\|ICR]] 试验），因教师群体对抛硬币分配奖金资格的强烈伦理抗议而遭遇招募流产，出具《关闭报告》，迫使循证机构反思外部经济激励在公立校园落地的方法学与伦理可行性边界。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 55)]]
 

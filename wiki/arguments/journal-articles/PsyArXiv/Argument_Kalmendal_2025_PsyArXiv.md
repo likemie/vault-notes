@@ -55,6 +55,7 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Meta-meta-analysis]]"
   - "[[Umbrella Review]]"
+  - "[[Research Synthesis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Correlational Research]]"
@@ -75,16 +76,16 @@ sources:
 part_of:
 status: draft
 created: 2026-10-16
-updated: 2026-10-16
+updated: 2026-10-17
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Kalmendal_2025_PsyArXiv"
 argument_key: "Argument_Kalmendal_2025_PsyArXiv"
 argument_display_title: "Visible flaws: A comprehensive quality assessment of Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 39
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 40
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: PsyArXiv
 book_title: ""
@@ -120,7 +121,7 @@ issuing_organization: ""
 > | **[[Umbrella Review\|伞状综述]]方法学规范**<br>[[Umbrella Review]] | 依据国际系统评价方法学标准（如坎贝尔协作网干预综述方法学期望标准，MECCIR），评估[[Meta-meta-analysis\|二阶元分析]]在跨领域综合时的同质性、加权适切性与偏倚控制。（pp. 6–7, 23） |
 > | **元科学可复现性框架**<br>[[Reproducibility Crisis]] | 以独立重复数据提取为检验工具，诊断知识综合基础设施在数据链条上的透明度与测量[[Reliability\|可靠性]]。（pp. 9, 13, 18–19） |
 
-二阶元综合的方法学基石在于底层证据的同质性与测量的一致性。理论规范表明，跨研究综合必须建立在对人群、干预机制与测量指标的严格限定之上。
+二阶元综合的方法学基石在于底层证据的同质性与测量的一致性。理论规范表明，跨[[Research Synthesis|研究综合]]必须建立在对人群、干预机制与测量指标的严格限定之上。
 
 > [!warrant]- 理论如何支撑论证
 > 研究者通过将证据综合的黄金准则（PICO 框架与伞状综述规范）引入对二阶元分析的审计，确立了客观评价《[[Visible Learning|可见的学习]]》的外部标准。若底层元分析在人群或干预[[Construct|构念]]上存在错配，或将替代干预对比当做常规教学对照，则后续任何高阶统计合成在数学上均失去意义；再结合直接的数据复现规程，形成了概念对齐到设计同质再到提取精度与专家效度层层递进的批判闭环。（pp. 6–10, 20–23）

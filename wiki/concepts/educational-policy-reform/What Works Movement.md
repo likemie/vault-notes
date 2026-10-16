@@ -9,10 +9,10 @@ aliases:
 summary: "20世纪末兴起于英美澳等国的公共治理与教育改革运动，主张以因果推断量化证据识别有效干预，依托法定知识中介组织转化证据，重塑公共财政配置与专业实践。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 59
-related_level: 5
-related_stars: "💎⭐⭐"
-related_color: "#fecdd3"
+related_count: 60
+related_level: 6
+related_stars: "💎💎"
+related_color: "#ddd6fe"
 tags:
   - subject/educational-policy-reform
   - evidence-based-education
@@ -59,6 +59,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Implementation and Process Evaluation]]"
   - "[[Meta-analysis]]"
+  - "[[Research Synthesis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Multi-Arm Trial]]"
   - "[[Factorial Design]]"
@@ -88,7 +89,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-06-06
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # What Works Movement
@@ -135,7 +136,7 @@ updated: 2026-10-16
 > [!feature] 循证改革运动的四大运行支柱
 > 1. **严格因果证据等级制（Evidence Hierarchies）** 确立[[Counterfactual\|反事实]][[Causality\|因果推断]]为核心判准，将大样本现场 [[Randomised Controlled Trials\|RCT]] 与控制组基线等值的严格准实验置于证据层级顶端，贬抑缺乏因果对照的经验叙事（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 48]]）。
 > 2. **独立[[Educational Brokerage Agency\|知识中介机构]]网络（Educational Brokerage Agencies）** 在政府部门、学术研发者与基层学校之间建立缓冲型专门中介（如英国 [[What Works Network]]、[[Education Endowment Foundation\|EEF]]、美国 [[What Works Clearinghouse\|WWC]]），打破学术象牙塔与行政割裂（White, 2019）。
-> 3. **活态证据合成与通俗转化体系（Living Evidence Synthesis）** 改变一次性静态综述传统，建立随实证试验动态更新的[[Meta-meta-analysis\|二阶元分析]]数据库，并将抽象的统计算法转化为直观的决策参数（如额外学习月数、投资成本星级与[[EEF Padlock Security Rating\|挂锁安全评级]]）。
+> 3. **活态证据合成与通俗转化体系（Living [[Research Synthesis|Evidence Synthesis]]）** 改变一次性静态综述传统，建立随实证试验动态更新的[[Meta-meta-analysis\|二阶元分析]]数据库，并将抽象的统计算法转化为直观的决策参数（如额外学习月数、投资成本星级与[[EEF Padlock Security Rating\|挂锁安全评级]]）。
 > 4. **过程保真度监控与情境解构（Implementation & Realist Turn）** 从单纯关注黑箱结局指标转向定量试验与定性[[Implementation and Process Evaluation\|过程评估]]（IPE）并重，探索[[Multi-Arm Trial\|多臂试验]]与[[Realist Evaluation\|现实主义试验]]（Bonell et al., 2012；[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 53–54]]）。
 
 > [!logic-map]- 循证改革运动的治理与转化循环体系

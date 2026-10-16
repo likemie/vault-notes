@@ -9,7 +9,7 @@ aliases:
 summary: "对随机对照试验（RCT）作为证据本位教育‘黄金标准’的多维度批评体系，涵盖复杂系统认识论悖论、真实学校操作与效度困境，以及政策治理异化与法定单项合格门槛下的合规假象。"
 type: concept
 domain: "research-methodology"
-related_count: 86
+related_count: 87
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -80,6 +80,7 @@ related_methods:
   - "[[Pre-test and Post-test]]"
   - "[[Efficacy Trial]]"
   - "[[Effectiveness Trial]]"
+  - "[[Research Synthesis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Confidence Interval]]"
   - "[[Sample Size Determination]]"
@@ -114,7 +115,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Critique of Randomized Controlled Trials
@@ -229,7 +230,7 @@ updated: 2026-10-16
 > **跨国[[Policy Brokerage\|政策中介]]的技术利基与宏观政治经济结构[[Screening Off\|屏蔽]]** [[World Bank\|世界银行]]等国际机构将 RCT 确立为推行结构调整与循证贷款的规制工具。微观 RCT 对单一技术变量（驱虫药片、考勤指纹机、微额奖金）的强行隔离，系统性地“屏蔽”（Screening Off）了宏观财政紧缩、编制削减与殖民历史欠账等深层结构性矛盾，技术上的“黄金标准”沦为推卸公共治理责任的自指性[[Social Science as Legitimation Alibi\|科学借口]]。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 544–548)]]
 
 > [!claim] Wadhwa, G. et al. (2024)
-> **宏观政策认证割裂与跨机构评级冲突的“RCT 悖论”** 尽管全美各清算中心均推崇 RCT，但实证检视 12 个中心 1,359 项研究发现：基于 RCT 的多中心交叉评级中，完全对立冲突率（Recommended vs Not Recommended）高达 35.4%，一致率仅 30.5%。分歧根源不在于微观单项 RCT 内部效度，而在于跨研究综合标准（是否要求独立外部复制、长期[[Fade-out Effect\|持续效果]]等）的制度割裂。单项 RCT 内部效度达标绝非宏观政策认证的[[Necessary and Sufficient Conditions\|充分条件]]。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 18–20, 26–27)]]
+> **宏观政策认证割裂与跨机构评级冲突的“RCT 悖论”** 尽管全美各清算中心均推崇 RCT，但实证检视 12 个中心 1,359 项研究发现：基于 RCT 的多中心交叉评级中，完全对立冲突率（Recommended vs Not Recommended）高达 35.4%，一致率仅 30.5%。分歧根源不在于微观单项 RCT 内部效度，而在于跨[[Research Synthesis|研究综合]]标准（是否要求独立外部复制、长期[[Fade-out Effect\|持续效果]]等）的制度割裂。单项 RCT 内部效度达标绝非宏观政策认证的[[Necessary and Sufficient Conditions\|充分条件]]。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 18–20, 26–27)]]
 
 > [!claim] Ginsberg, R. et al. (2024)
 > **法定单项合格门槛下的合规假象与科研供给侧结构性赤字** 美国联邦《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）Tier I 规则仅要求“至少一项合格 RCT 产生统计显著的正效应”。对 15 个学区 138 项资助项目的实证审计表明：虽然超 95% 的采购资金满足法定单项 RCT 门槛，但按全证据库（Body of Evidence）审视时，获积极支持的资金腰斩至 49%–58%，诱发严重的“合规假象”；基础科研生产存在学段偏好断层，26 项已采购干预在目标学段毫无因果研究（0 数量），迫使学区跨学段盲目降格推论；同时 RCT 普遍将宏观课程包与微观交付方式打包为因果黑箱，导致巨额资金在未经检验的交付环节上沉淀消耗。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 11–13)]]

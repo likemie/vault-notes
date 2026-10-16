@@ -16,7 +16,7 @@ summary: "在更高层级汇总多个已发表元分析结果的统计综合方�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 100
+method_related_count: 101
 method_related_level: 10
 method_related_stars: "💎💎💎⭐"
 method_related_color: "#dcfce7"
@@ -88,6 +88,7 @@ related_methods:
   - "[[Correlated and Hierarchical Effects Model]]"
   - "[[Trim and Fill Method]]"
   - "[[Multilevel Egger's Test]]"
+  - "[[Research Synthesis]]"
   - "[[Umbrella Review]]"
   - "[[Corrected Covered Area]]"
   - "[[Standard Error]]"
@@ -134,7 +135,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-03
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Meta-meta-analysis
@@ -200,7 +201,7 @@ updated: 2026-10-16
 >
 > - **第二代：标准伞状综述与经典规范二阶元分析（2010s）**
 >
->   针对第一代的统计乱象，Cooper and Koenka（2012）在《Research Synthesis Methods》系统提出了[[Umbrella Review|综述之综述]]（Overview of Reviews / [[Umbrella Review]]）的方法学标准；Cafri et al.（2010）在《JEBS》奠定了二阶元分析的基础统计框架；Sipe & Curlette（1996, 1997）与 Pieper et al.（2014）规范了重叠控制标准；[[Argument_Wecker_2016_ZfE\|Wecker, Vogel & Hetmanek (2016)]] 从数学基础推导出六项方法论规范；[[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] 则将该[[Paradigm\|范式]]应用于[[Cooperative Learning\|合作学习]]领域。第二代二阶元分析建立了 [[PRISMA]] 与 [[AMSTAR]] 质量筛选流程，严格执行效应量测度转换，普遍采用**经典逆方差加权法（$w_i^* = \frac{1}{v_i + \tau^2}$）**与**[[Random-Effects Model|随机效应模型]]**（Borenstein et al., 2021），并采用 Cooper & Koenka $\le 25\%$ 重叠率或[[Corrected Covered Area\|校正覆盖面积]]（CCA）控制文献重叠，全面报告置信区间与[[Publication Bias\|发表偏倚]]检验。
+>   针对第一代的统计乱象，Cooper and Koenka（2012）在《[[Research Synthesis]] Methods》系统提出了[[Umbrella Review|综述之综述]]（Overview of Reviews / [[Umbrella Review]]）的方法学标准；Cafri et al.（2010）在《JEBS》奠定了二阶元分析的基础统计框架；Sipe & Curlette（1996, 1997）与 Pieper et al.（2014）规范了重叠控制标准；[[Argument_Wecker_2016_ZfE\|Wecker, Vogel & Hetmanek (2016)]] 从数学基础推导出六项方法论规范；[[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] 则将该[[Paradigm\|范式]]应用于[[Cooperative Learning\|合作学习]]领域。第二代二阶元分析建立了 [[PRISMA]] 与 [[AMSTAR]] 质量筛选流程，严格执行效应量测度转换，普遍采用**经典逆方差加权法（$w_i^* = \frac{1}{v_i + \tau^2}$）**与**[[Random-Effects Model|随机效应模型]]**（Borenstein et al., 2021），并采用 Cooper & Koenka $\le 25\%$ 重叠率或[[Corrected Covered Area\|校正覆盖面积]]（CCA）控制文献重叠，全面报告置信区间与[[Publication Bias\|发表偏倚]]检验。
 >
 > - **第三代：现代多水平、集群稳健二阶元分析与[[Metascience|元科学]]质量审计（2013–至今）**
 >
@@ -251,7 +252,7 @@ updated: 2026-10-16
 ### 第三代：现代多水平与集群稳健统计支柱（Multilevel & Robust SOMA）
 
 > [!concept-lens] 第三代方法适用情境
-> 适用于存在多结果重叠依赖、一阶元分析内部嵌套多重效应量集群（Clusters）、初级研究无法完全去重以及[[Heterogeneity\|异质性]]极高的大型复杂宏观证据综合。
+> 适用于存在多结果重叠依赖、一阶元分析内部嵌套多重效应量集群（Clusters）、初级研究无法完全去重以及[[Heterogeneity\|异质性]]极高的大型复杂宏观[[Research Synthesis|证据综合]]。
 
 > [!contrast-table] 第三代核心统计方法矩阵
 > | 统计方法条目 | 方法定位与角色 | 解决的核心统计问题与方法论痛点 | 判断标准与决策阈值 | 深度条目索引 |
@@ -305,7 +306,7 @@ updated: 2026-10-16
 >
 > **这个公式在做什么** 直接对 $k$ 项独立原始研究合并时，第 $i$ 项研究[[Effect Size|效应量]]为 $d_i$，方差为 $v_{d_i}$，按逆方差赋予权重 $w_i = 1/v_{d_i}$。若将 $m$ 项一级元分析包含的全体原始研究直接汇总至同一数据池，双层展开的效应量为 $\bar{d}$，总方差为 $v_{\bar{d}}$。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016, pp. 25, 37)]]
 >
-> **结果解读** 公式 (1–4) 确立了宏观证据综合的理想基准：无论研究在组织层面上如何被划分到不同的元分析课题组中，只要原始研究独立，其联合效应量在统计学上均应当收敛于全样本直接[[Inverse-Variance Weighting|逆方差加权]]平均。
+> **结果解读** 公式 (1–4) 确立了宏观[[Research Synthesis|证据综合]]的理想基准：无论研究在组织层面上如何被划分到不同的元分析课题组中，只要原始研究独立，其联合效应量在统计学上均应当收敛于全样本直接[[Inverse-Variance Weighting|逆方差加权]]平均。
 
 > [!formula-step] 公式步骤二　一级元分析加权与二级跨层加权的代数等价性证明（式 5–9）
 > $$d_j = \frac{\sum_{i=1}^{k_j} w_{ji} d_{ji}}{\sum_{i=1}^{k_j} w_{ji}}, \quad v_{d_j} = \frac{1}{\sum_{i=1}^{k_j} w_{ji}} \tag{5–6}$$

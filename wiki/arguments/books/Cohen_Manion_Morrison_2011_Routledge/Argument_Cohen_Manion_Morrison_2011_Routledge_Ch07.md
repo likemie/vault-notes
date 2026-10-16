@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07"
 argument_display_title: "Research Methods in Education · Ch07"
 argument_kind: "book-chapter"
-argument_related_count: 73
+argument_related_count: 74
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -55,6 +55,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Document]]"
   - "[[Artefact]]"
+  - "[[Learning Styles]]"
   - "[[Directional and Non-directional Hypotheses]]"
   - "[[Variable]]"
   - "[[Dependent Variable]]"
@@ -111,7 +112,7 @@ part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_instruments: []
 status: draft
 created: 2026-06-21
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch07
 
@@ -501,7 +502,7 @@ updated: 2026-10-16
 
 > [!chain-link] 第一步：拆解核心概念
 > - **总体研究目的** 确定中小学教育之间的连续性
-> - **拆解"连续性"** 将"连续性"解构为经验、大纲内容、教学和学习风格、技能、概念、组织安排、目的与目标、氛围、评估
+> - **拆解"连续性"** 将"连续性"解构为经验、大纲内容、教学和[[Learning Styles|学习风格]]、技能、概念、组织安排、目的与目标、氛围、评估
 > - **结果** 鉴于解构后的范围过大，决定聚焦于**教学法的连续性**
 
 > [!chain-link] 第二步：进一步拆解焦点维度

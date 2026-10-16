@@ -9,7 +9,7 @@ title: "Argument_Håkansson_2015_TT"
 argument_key: "Argument_Håkansson_2015_TT"
 argument_display_title: "Structured teaching and classroom management: The solution for the decline of Swedish school results? Conclusions drawn from a comparative meta-synthesis of teaching and learning"
 argument_kind: "journal-article"
-argument_related_count: 14
+argument_related_count: 15
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Academic Achievement]]"
 related_theories: []
 related_methods:
+  - "[[Research Synthesis]]"
   - "[[Comparative Meta-synthesis]]"
   - "[[Effect Size]]"
   - "[[Classroom Observation]]"
@@ -48,7 +49,7 @@ sources:
 part_of: ''
 status: draft
 created: 2026-05-22
-updated: 2026-10-16
+updated: 2026-10-17
 year: 2015
 doi: ""
 citation_aliases:
@@ -68,7 +69,7 @@ citation_aliases:
 
 > [!abstract] 理论框架
 > - [[Structured Teaching]] — 这是文章要解释的核心政策词。它在瑞典课程和条例里被高频使用，但定义并不清楚，所以作者必须先把这个词拆开，看看它到底是指“更有秩序的教学”，还是“更多教师控制”，还是“更多讲授”(pp.584-585, 590-591)。
-> - [[Effective Teaching]] — 作者并不是从零发明答案，而是把问题放回已有教学研究。也就是说，文章真正依赖的证据基础，是关于目标清晰、课堂组织、[[Feedback]]、[[Student-Teacher Relationship\|师生关系]]和教学策略的研究综合(pp.589-592)。
+> - [[Effective Teaching]] — 作者并不是从零发明答案，而是把问题放回已有教学研究。也就是说，文章真正依赖的证据基础，是关于目标清晰、课堂组织、[[Feedback]]、[[Student-Teacher Relationship\|师生关系]]和教学策略的[[Research Synthesis|研究综合]](pp.589-592)。
 > - [[Direct Instruction]] — 这个概念在文中像一把“尺子”，用来帮助区分结构化教学和传统讲坛式教学。它提醒读者：教师清楚示范、解释和检查理解，可以属于好教学的一部分，但这不自动等于整堂课都只能由教师单向输出(p.593)。
 
 ## 研究方法

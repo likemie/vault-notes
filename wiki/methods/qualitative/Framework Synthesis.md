@@ -8,7 +8,7 @@ summary: "系统综述的一种质性证据综合方法，以先验框架组织�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 28
+method_related_count: 29
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -38,6 +38,7 @@ related_methods:
   - "[[Open Coding]]"
   - "[[Mixed Methods Research]]"
   - "[[Intercoder Agreement]]"
+  - "[[Research Synthesis]]"
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Thematic Synthesis]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Framework Synthesis
@@ -89,7 +90,7 @@ updated: 2026-10-16
 > - **不声称回答的问题** 框架综合本身不能建立因果效果，也不能替代原始研究产生新数据；先验框架可能使分析对框架未覆盖的维度失明。
 
 > [!method-stack] 方法层级
-> - **研究设计** [[Systematic Review\|系统综述]]内的证据综合阶段；总体遵循[[PRISMA]]报告框架。
+> - **研究设计** [[Systematic Review\|系统综述]]内的[[Research Synthesis|证据综合]]阶段；总体遵循[[PRISMA]]报告框架。
 > - **数据收集** 数据库检索（如 Scopus、Web of Science、[[Education Resources Information Center\|ERIC]]）、筛选与全文获取；通常配合 [[EPPI-Centre\|EPPI]]-Reviewer 等软件管理。
 > - **分析方法** 框架分析（两阶段：描述性特征提取 + 基于先验框架主节点的编码）；聚合式（aggregative）计数与配置式（configurative）跨层主题识别。
 > - **辅助技术** 双盲筛选、质量评估工具（如[[Mixed Methods Appraisal Tool\|混合方法评价工具]]（Mixed Methods Appraisal Tool, MMAT））、NVivo 编码软件、共识式团队讨论。
@@ -136,7 +137,7 @@ updated: 2026-10-16
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Systematic Review\|系统综述（Systematic Review）]] | 上位方法 | 框架综合是系统综述内部的一种质性证据综合策略，整体遵循系统综述的检索、筛选与报告程序 |
+> | [[Systematic Review\|系统综述（Systematic Review）]] | 上位方法 | 框架综合是系统综述内部的一种质性[[Research Synthesis\|证据综合]]策略，整体遵循系统综述的检索、筛选与报告程序 |
 > | [[Meta-analysis\|元分析（Meta-analysis）]] | 替代方法 | 元分析对[[Effect Size\|效应量]]作统计合并；框架综合对证据作框架化质性整合，两者可互补但不能互换 |
 > | 主题综合（[[Thematic Synthesis]]） | 替代方法 | 主题综合从数据出发归纳主题，框架综合以先验框架为模板并允许新主题[[Emergence\|涌现]] |
 > | [[Coding in Qualitative Research\|质性研究编码（Coding in Qualitative Research）]] | 分析技术 | 框架综合的编码依赖质性编码技术，先验框架节点即为[[Open Coding\|初始编码]]簿 |

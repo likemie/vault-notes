@@ -7,10 +7,10 @@ aliases:
 summary: "变量在理论层面的更抽象、更一般的意义表达，代表不可直接观察的理论实体，需通过操作化转化为可测量的变量才能在实证研究中被检验"
 type: concept
 domain: "research-methodology"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - subject/research-methodology
   - paradigm/positivist
@@ -39,6 +39,7 @@ related_methods:
   - "[[Umbrella Review]]"
   - "[[Questionnaire]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Research Synthesis]]"
   - "[[Effect Size]]"
   - "[[Correlational Research]]"
 related_persons:
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-31
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Construct
@@ -124,7 +125,7 @@ updated: 2026-10-16
 ### 命题二　二阶证据综合中的构念错配将摧毁因果效应的可通约性
 
 > [!concept-lens] [[Meta-meta-analysis|二阶元分析]]与[[Umbrella Review|伞状综述]]中的构念漂移与混淆
-> 围绕宏观证据综合是否忠实维护了初级干预与结局构念的因果同质性展开，揭示概念混淆对宏观政策指导效度的破坏。
+> 围绕宏观[[Research Synthesis|证据综合]]是否忠实维护了初级干预与结局构念的因果同质性展开，揭示概念混淆对宏观政策指导效度的破坏。
 
 > [!claim] Kalmendal, A.
 > **缺乏严格 [[PICO Framework|PICO]] 门禁的宏观综合会导致构念严重错配并摧毁证据的因果解释力。** 对《[[Visible Learning|可见的学习]]》全库 322 个影响因素开展的[[Preregistration|预注册]][[Metascience|元科学]]审计表明，宏观证据库存在灾难性的构念混淆：全库仅 19% 的因素在 PICO 四维度上构念清晰，54% 混入了名不副实的干预，近 60% 混入了非学业构念测试（如行为表现或智商测试）或对照组构念错位（将活跃对照与常规教学混为一谈）。这种构念层面的概念漂移使得合并出的宏观平均[[Effect Size|效应量]]失去了明确的理论所指，彻底丧失了作为教学改进与政策决策依据的有效性。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 14–16)]]

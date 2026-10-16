@@ -6,7 +6,7 @@ aliases:
 summary: "教师在复杂、非线性的教学情境中整合研究证据、伦理标准、教育学原则与实践经验做出决策的核心专业能力，是 EIP 多源整合的枢纽与抵御技术官僚主义去专业化的关键防线。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 91
+related_count: 92
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -87,6 +87,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_persons:
   - "[[John Dewey]]"
+  - "[[Ivan Snook]]"
   - "[[John Hattie]]"
 related_facts:
   - "[[Students and Teachers Accessing Tomorrow]]"
@@ -235,7 +236,7 @@ updated: 2026-10-17
 > **[[Governing by Numbers\|数字治理]]与去专业化异化** 新自由主义政策盛行[[Governing by Numbers\|数字治理]]，通过诸如 [[Education Endowment Foundation\|EEF]] 工具包等扁平化排行榜向学校推销单一有效性[[Discourse|话语]]。这种审计文化挤压了关于教育根本目的（To What Ends）的价值探讨，迫使教师沦为依照标准化清单执行技术传递的操作工人，造成教师群体的去专业化（De-professionalisation）。政策评估与学校改进必须警惕排行榜的破坏性决策，捍卫教师的专业自主能动性。[[Argument_Wrigley_2018_BERJ\|(Wrigley, 2018, pp. 4, 14, 16)]]
 
 > [!claim] [[Argument_Snook_2009_NZJES|Snook et al. (2009)]]; [[The Scott Report]]
-> **[[Performance Pay|绩效工资]]零和博弈对教师专业互信与审议生态的瓦解** 政策制定者常利用宏观统计数字推卸公共责任，断章取义截取元分析中“校内教师最重要”的论断，强推以量化考试成绩为依据的[[Performance Pay|绩效工资]]。斯努克等学者指出，绩效工资基于外部金钱刺激与零和排位博弈，使教师沦为争夺有限奖金池的竞争对手，从制度上惩罚了暴露教学困惑、分享创新经验与坦诚试错的可能，彻底毒化了支撑教师行使专业判断的同行互信文化。早在 1986 年新西兰议会《[[The Scott Report|斯科特报告]]》就已严密论证开发客观衡量教师表现的工具极其复杂漫长，在缺乏科学工具的背景下草率推行考核不仅无法提升质量，反而会剥夺教师专业裁量权并诱发严重的防御性教学与应试异化。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 103–104)]]
+> **[[Performance Pay|绩效工资]]零和博弈对教师专业互信与审议生态的瓦解** 政策制定者常利用宏观统计数字推卸公共责任，断章取义截取元分析中“校内教师最重要”的论断，强推以量化考试成绩为依据的[[Performance Pay|绩效工资]]。[[Ivan Snook|斯努克]]等学者指出，绩效工资基于外部金钱刺激与零和排位博弈，使教师沦为争夺有限奖金池的竞争对手，从制度上惩罚了暴露教学困惑、分享创新经验与坦诚试错的可能，彻底毒化了支撑教师行使专业判断的同行互信文化。早在 1986 年新西兰议会《[[The Scott Report|斯科特报告]]》就已严密论证开发客观衡量教师表现的工具极其复杂漫长，在缺乏科学工具的背景下草率推行考核不仅无法提升质量，反而会剥夺教师专业裁量权并诱发严重的防御性教学与应试异化。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 103–104)]]
 
 > [!claim] [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns and Schuller (2022)]]
 > **循证医学危机镜像与反算法[[Cognitive Deskilling|去技能化]]** 借鉴循证医学（Evidence-Based Medicine, EBM）发展后期的深刻危机（Greenhalgh et al., 2014）：过度膨胀的临床指南与僵化指标排挤了医生的微观临床审议，被商业营销绑架的“证据洗白”严重损害患者福祉。将此教训映射至教育领域，技术官僚试图将教学拆解为离散的自动化操作或依赖算法驱动决策，实质上是对教师的去技能化（De-skilling）。教学建立在复杂情境反思、扎根实践经验与伦理审议的基础之上，是不可替代的知识型专业（Knowledge-rich Profession）；面对商业包装的证据产品，教师扎根微观情境的临床专业判断是抵御算法异化与技术官僚侵蚀的核心防线([[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, pp. 60, 65–66]])。
@@ -407,7 +408,7 @@ updated: 2026-10-17
 >
 > *Educational practice is not a purely technical operation; it is intrinsically about values, ethics and long-term purposes. Questions about 'what works' must always be subordinate to professional deliberation on 'to what ends'.*
 
-> [!citation-card] [[John Dewey|杜威]]与斯努克论实证证据作为探究假设而非行动规则
+> [!citation-card] [[John Dewey|杜威]]与[[Ivan Snook|斯努克]]论实证证据作为探究假设而非行动规则
 > 实证证据绝不为我们提供行动规则，而仅仅为我们进行明智的[[Problem Solving|问题解决]]提供了假设，并为我们探询教育的终极目的提供了假设。教学决策内嵌着不可约简的价值权衡：收益是否值得成本？微小提分是否以抑制[[Creativity|创造力]]或人际发展为代价？研究知识必须与教师的个人信念、专业伦理及现场情境深度整合。（[[John Dewey|John Dewey]], quoted in Hattie, 2008, p. 147; [[Argument_Snook_2009_NZJES|Snook et al., 2009, pp. 93, 104]]）
 >
 > *“Evidence does not supply us with rules for action but only with [[Hypothesis|hypotheses]] for intelligent problem solving, and for making inquiries about our ends in education.” (John Dewey, quoted in Hattie, 2008, p. 147; quoted in Snook et al., 2009, p. 93, p. 104)*

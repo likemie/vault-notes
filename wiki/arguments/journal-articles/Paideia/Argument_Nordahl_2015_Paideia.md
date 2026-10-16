@@ -9,7 +9,7 @@ title: "Argument_Nordahl_2015_Paideia"
 argument_key: "Argument_Nordahl_2015_Paideia"
 argument_display_title: "Visible Learning som grunnlag for evidens og forbedringsarbeid i utdanningssystemet"
 argument_kind: "journal-article"
-argument_related_count: 16
+argument_related_count: 17
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -37,6 +37,7 @@ related_methods:
   - "[[Classroom Observation]]"
   - "[[Meta-analysis]]"
   - "[[Quantitative Research]]"
+  - "[[Research Synthesis]]"
 related_persons:
   - "[[Gert Biesta]]"
 related_facts:
@@ -48,7 +49,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-21'
-updated: 2026-08-20
+updated: 2026-10-17
 year: 2015
 doi: ""
 citation_aliases:
@@ -168,7 +169,7 @@ citation_aliases:
 > 6. 价值导向不能替代关于教学效果的知识。真正困难的问题不是“教育应不应该追求好价值”，而是“这些价值怎样落实成更可能让学生学会的教学行动”(pp.67–68)。
 
 > [!info]- 核心数据
-> - 文章引述 Hattie 2009 年的综合研究规模为 800 项[[Meta-analysis\|元分析]]、52,000 项[[Quantitative Research\|量化研究]]、约 8,300 万名学生，借此说明其作为教育证据综合工程的影响力(p.61)。
+> - 文章引述 Hattie 2009 年的综合研究规模为 800 项[[Meta-analysis\|元分析]]、52,000 项[[Quantitative Research\|量化研究]]、约 8,300 万名学生，借此说明其作为教育[[Research Synthesis|证据综合]]工程的影响力(p.61)。
 > - 文中援引 [[PISA]] 对比指出，量表上约 40 分的差距大致相当于一个学年的[[Learning Gap\|学习差距]]，用来说明斯堪的纳维亚学校改进的现实压力(pp.62–63)。
 
 ## 关键引用

@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 35
+fact_related_count: 36
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -39,6 +39,7 @@ related_concepts:
   - "[[Variable]]"
 related_theories: []
 related_methods:
+  - "[[Research Synthesis]]"
   - "[[Meta-analysis]]"
   - "[[Systematic Review]]"
   - "[[Effect Size]]"
@@ -71,7 +72,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Best Evidence Encyclopedia
@@ -84,7 +85,7 @@ updated: 2026-10-16
 > **最佳证据百科全书（Best Evidence Encyclopedia, BEE）** 是由国际著名[[Evidence-Based Education\|循证教育]]学者[[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin, 1950–2021）团队于约翰斯·霍普金斯大学教育研究与改革中心（Center for Research and Reform in Education, CRRE）创立的大学学术型[[Educational Evidence Clearinghouses\|证据清算中心]]，受到[[Institute of Education Sciences\|美国教育部教育科学研究院]]（Institute of Education Sciences, IES）长期持续资助。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, p. 7)]]
 
 > [!org-context] 机构背景与运营概况
-> - **成立时间 / 创设背景** 2004 年由 JHU CRRE 创设，旨在以[[Best Evidence Synthesis\|最佳证据综合]]法（Best-Evidence Synthesis, BES）解决全美中小学课程方案缺乏高质量定量[[Meta-analysis\|元分析]]综合的学术痛点。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–24)]]
+> - **成立时间 / 创设背景** 2004 年由 JHU CRRE 创设，旨在以[[Best Evidence Synthesis\|最佳证据综合]]法（Best-[[Research Synthesis|Evidence Synthesis]], BES）解决全美中小学课程方案缺乏高质量定量[[Meta-analysis\|元分析]]综合的学术痛点。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–24)]]
 > - **总部地点 / 业务辐射** 总部设于美国马里兰州巴尔的摩市；专精于学前至高中（Pre-K–12）的阅读、数学、科学、教育技术及全校综合改革方案评价。
 > - **法人属性与经费依托** 依托顶尖[[Research Universities|研究型大学]]的专业学术清算机构；主要获得美国联邦教育部 IES 竞争性专项资助及慈善基金会资助。
 > - **在线文库与战略演进** 原始学术文库 [bestevidence.org](https://www.bestevidence.org) 持续在线归档各学科[[Systematic Review\|系统综述]]，而日常面向学校采购的实务评级与决策支持功能已全面升级迁移至符合 [[Every Student Succeeds Act\|ESSA]] [[Evidence Standards\|证据标准]]的交互式旗舰平台 **[[Evidence for ESSA]]**。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, p. 110)]]
@@ -94,7 +95,7 @@ updated: 2026-10-16
 ## 历史沿革与演变脉络
 
 > [!dev-timeline] 组织发展历程
-> - **1986 — [[Best Evidence Synthesis\|最佳证据综合]]法（BES）创立** [[Robert Slavin\|罗伯特·斯莱文]]提出“最佳证据综合法”，倡导将[[Systematic Review\|系统综述]]的质性审慎与[[Meta-analysis\|元分析]]的定量加权相融通，奠定 BEE 审查的核心方法学基石。
+> - **1986 — [[Best Evidence Synthesis\|最佳证据综合]]法（BES）创立** [[Robert Slavin\|罗伯特·斯莱文]]提出“最佳[[Research Synthesis|证据综合]]法”，倡导将[[Systematic Review\|系统综述]]的质性审慎与[[Meta-analysis\|元分析]]的定量加权相融通，奠定 BEE 审查的核心方法学基石。
 > - **2004 — BEE 平台由 JHU CRRE 正式设立** 获得美国教育部 [[Institute of Education Sciences\|IES]] 专项资助，针对全美 K–12 主流阅读与数学课程方案开展大规模学科元分析审查。
 > - **2007–2014 — 学科系统综述矩阵建立** 陆续在《教育研究评论》（RER）等顶级期刊发布初等阅读、中等阅读、中小学数学、幼儿早教、教育[[Technology Infusion\|技术整合]]等十余部奠基性学科元分析报告。
 > - **2015–2017 — [[Every Student Succeeds Act\|ESSA]] 法案颁布与孵化 [[Evidence for ESSA]]** 依据《每个学生成功法案》（ESSA）法定证据分级，JHU 团队依托 BEE 审查标准孵化出面向学区一线采购的新一代决策平台 **[[Evidence for ESSA]]**。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 23–24)]]

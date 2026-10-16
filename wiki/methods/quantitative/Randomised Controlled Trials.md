@@ -10,7 +10,7 @@ summary: "通过随机分配和变量控制建立因果关系的实验设计，�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 151
+method_related_count: 152
 method_related_level: 15
 method_related_stars: "💎💎💎💎💎"
 method_related_color: "#dcfce7"
@@ -122,6 +122,7 @@ related_methods:
   - "[[Effectiveness Trial]]"
   - "[[Mechanism Experiments]]"
   - "[[Black Box RCTs]]"
+  - "[[Research Synthesis]]"
   - "[[Experimental Research]]"
   - "[[Non-intervention Research]]"
   - "[[Observation Method]]"
@@ -351,7 +352,7 @@ updated: 2026-10-17
 
 > [!method-limits] 方法局限与治理风险
 > - **偏误来源** 差异性[[Attrition\|样本流失]]偏差（Attrition Bias）、主体间干扰与溢出（[[Stable Unit Treatment Value Assumption\|SUTVA]] 违背）、对照组代偿性努力（亨利效应）与[[Business as Usual\|常态教学]][[Heterogeneity\|异质性]]基线、评估工具偏袒干预内容的测量偏倚（Ginsburg & Smith 12 威胁）。
-> - **对照组性质异质性（Active vs. Passive Control Baseline）** 对照条件的性质直接决定 RCT [[Effect Size|效应量]]的理论含义与相对量级。将干预与常规教学对照（Business as Usual，无额外支持）相比通常能观察到显著正向效应；而若与另一种经过精细设计的优质替代干预（Active Control）面对面对比，两组效应差异往往极度微弱。宏观证据综合若混淆这两类性质相异的对照基线，将系统性拉低[[Effective Teaching|有效教学]]策略的合并数值（[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025, pp. 14–15]]）。
+> - **对照组性质异质性（Active vs. Passive Control Baseline）** 对照条件的性质直接决定 RCT [[Effect Size|效应量]]的理论含义与相对量级。将干预与常规教学对照（Business as Usual，无额外支持）相比通常能观察到显著正向效应；而若与另一种经过精细设计的优质替代干预（Active Control）面对面对比，两组效应差异往往极度微弱。宏观[[Research Synthesis|证据综合]]若混淆这两类性质相异的对照基线，将系统性拉低[[Effective Teaching|有效教学]]策略的合并数值（[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025, pp. 14–15]]）。
 > - **适用边界** [[External Validity\|外部效度]]与情境依赖性受限（[[Efficacy Trial\|效力试验]]向[[Effectiveness Trial\|实效试验]]的[[Fade-out Effect\|效应衰减]]；跨学段与跨地区迁移阻滞）；[[Causality\|因果推断]]基本问题限制个体级[[Counterfactual\|反事实]]观察；科学发现周期与政策时效刚性的结构性脱节（建立 RCT 稳固证据共识需历时数年至十年，在教育信息化等快速迭代领域极易诱发“报告公布时技术已淘汰”；政策决策对证据及时性与相关性的客观诉求压倒对单一方法学的执念；[[Argument_Serpell_2020_EducPsychol\|Serpell, 2020, p. 42]]）。
 > - **误用风险** “黄金标准”教条化与法定单项合格门槛（单项合格即可获全美采购资质，掩盖全[[Chain of Evidence\|证据链]]中仅 49%–58% 获支持的合规假象）；黑箱[[Effect Size\|效应量]]掩盖微观因果机制与系统性副作用；微观技术[[Variable\|变量]]隔离[[Screening Off\|屏蔽]]宏观政治经济结构；规制型政策进路下的高利害问责异化（如 NCLB 刚性绑定基于科学的实证指标，诱发教学窄化与集体篡改机读卡丑闻；[[Argument_Serpell_2020_EducPsychol\|Serpell, 2020, p. 41]]）。二阶[[Metascience|元科学]]审计证实，仅 30% 的宏观影响因素纯粹基于组间实验，过度合并相关与观察性研究彻底削弱了试验的因果诊断力（[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025]]）。
 > - **补救方式** 预先注册[[Statistical Analysis Plan\|统计分析计划]]（SAP）；严格基于 [[PICO Framework|PICO]] 框架审查[[Access and Acceptance in Research|研究准入]]与对照组定义；采用[[Mechanism Experiments\|机制实验]]（鼓励设计）拆解因果链路；深度整合[[Implementation and Process Evaluation\|实施与过程评估]]（IPE）；建立不良反应与副作用报告机制；推行多地点独立外部复制与全证据库综合。
@@ -417,7 +418,7 @@ updated: 2026-10-17
 > [!evidence-grid-a] 研究索引
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 考证第三代使命导向政策如何将 RCT、以人为本服务设计与敏捷原型迭代整合入公共治理试验网络，并强调必须打破[[New Public Management|新公共管理]]的静态“支持并测量”成本效益合规，转向动态的[[Lead-and-Learn Paradigm|引领与学习]]治理[[Paradigm|范式]]。
 > - [[Argument_Serpell_2020_EducPsychol|Serpell (2020)]] — 批判将单一 RCT 奉为联邦教育政策黄金标准的制度性脱节，剖析 Dynarski 等（2007）教育软件实验揭示的情境敏感性，指出长周期实验导致的技术过时风险，以及劳登布什（Raudenbush, 2015）揭示的孤立因果无法回答宏观系统治理命题。
-> - [[EEF Teaching and Learning Toolkit]] — [[Education Endowment Foundation|EEF]] 资助了超 100 项涉及 50 万以上学生的独立 RCT，并将证据综合进入 Toolkit 的[[Meta-analysis|元分析]]（[[Argument_Higgins_2016_ROE|Higgins, 2016, p. 49]]）。
+> - [[EEF Teaching and Learning Toolkit]] — [[Education Endowment Foundation|EEF]] 资助了超 100 项涉及 50 万以上学生的独立 RCT，并将[[Research Synthesis|证据综合]]进入 Toolkit 的[[Meta-analysis|元分析]]（[[Argument_Higgins_2016_ROE|Higgins, 2016, p. 49]]）。
 > - [[Argument_Brady_2023_EPR|Brady et al. (2023)]] — 将[[Random Assignment|随机分配]]实验作为[[Intervention Research|干预研究]]中的更强子类进行趋势比较，发现其在顶刊中的比例从 2010 年的 23% 降至 2020 年的 20%（[[Argument_Brady_2023_EPR|Brady et al., 2023, pp. 6–7]]）。
 > - [[Argument_Wadhwa_2024_RER|Wadhwa et al. (2024)]] — 全景比较 12 个教育清算中心对 RCT 的因果审查规程，实证揭示各中心虽均推崇 RCT，但因跨研究综合门槛割裂导致 35.4% 的极端评级冲突（[[Argument_Wadhwa_2024_RER|Wadhwa et al., 2024, pp. 9–11, 18–20]]）。
 > - [[Argument_Ginsberg_2024_EducPolicy|Ginsberg et al. (2024)]] — 针对 15 个学区 138 项干预进行实证审计，揭示法定单项 RCT 合格门槛诱发学区采购的合规假象、科研供给侧学段断层与微观交付要素因果黑箱（[[Argument_Ginsberg_2024_EducPolicy|Ginsberg et al., 2024, pp. 11–13]]）。

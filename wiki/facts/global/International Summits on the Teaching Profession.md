@@ -11,7 +11,7 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -34,7 +34,8 @@ related_concepts:
   - "[[Research Utilization]]"
   - "[[Dialogue in Education]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Research Synthesis]]"
 related_instruments: []
 related_persons:
   - "[[Andreas Schleicher]]"
@@ -54,7 +55,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-14
-updated: 2026-10-15
+updated: 2026-10-17
 ---
 
 # International Summits on the Teaching Profession
@@ -82,7 +83,7 @@ updated: 2026-10-15
 > [!policy-design]- 方案设计
 > - **项目目标** 搭建部级政界领导与一线教师工会首脑之间的非对抗性对话渠道；基于 [[OECD]] 与 EI 的实证调查识别全球教师职业共性挑战；为各国未来一年的教育立法与政策调整设定行动目标。
 > - **议事规则** 采取严格的闭门保密协商机制（类同查塔姆研究所原则），杜绝媒体记者入场与现场政治作秀，确保参会部长与工会领袖能够开诚布公地坦陈本土改革的痛点与阻力。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 211)]]
-> - **双轨实证支撑** 每届峰会主题均由 OECD（如 [[Andreas Schleicher]] 主笔）与 EI（[[Education International\|国际教育协会]]研究院）分别编制独立的背景研究综合报告，确保对话完全扎根于严谨的实证数据而非意识形态辩论。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 211, 216)]]
+> - **双轨实证支撑** 每届峰会主题均由 OECD（如 [[Andreas Schleicher]] 主笔）与 EI（[[Education International\|国际教育协会]]研究院）分别编制独立的背景[[Research Synthesis|研究综合]]报告，确保对话完全扎根于严谨的实证数据而非意识形态辩论。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, pp. 211, 216)]]
 
 > [!citation-card] 教师集体发声与改革卓越基石
 > 国际教师职业峰会（ISTP）的发展历程证明了两个核心结论：第一，卓越教育体系的基石在于一支充满自信、处于专业巅峰且作为平等伙伴深度参与改革的一线教师队伍；第二，教师有组织的集体发声（organised voice of teachers）是各项教育改革取得实质成功的决定性前提。[[Argument_Bangs_2022_PerspectivesOnResearch\|(Bangs et al., 2022, p. 211)]]

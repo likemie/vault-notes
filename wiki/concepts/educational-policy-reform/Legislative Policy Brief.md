@@ -7,7 +7,7 @@ aliases:
 summary: "结合实证研究综述、政策诉求与专业律师起草的法定示范条文于一体的专业政策沟通载体，遵循极简定调原则，旨在消除科学证据与立法语言之间的制度性隔阂，直接为国会与立法机构提供可操作的法案条文草案。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -30,6 +30,7 @@ related_theories:
   - "[[Navigational Framework for Educational Researchers]]"
   - "[[Two-Communities Theory]]"
 related_methods:
+  - "[[Research Synthesis]]"
   - "[[Systematic Review]]"
 related_instruments: []
 related_persons: []
@@ -42,7 +43,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Legislative Policy Brief
@@ -52,7 +53,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> 立法政策简报（Legislative Policy Brief）指由[[National Education Policy Center\|国家教育政策中心]]（[[National Education]] Policy Center, NEPC）等专业智库与[[Educational Brokerage Agency\|知识中介机构]]倡导并采用的一种专业化科学传播文类。它将精炼的实证研究综合与明确的操作性政策诉求，与由执业律师依据实证结论量身起草的**法定示范条文（Model Statutory Language）** 深度结合，直接向立法机构、国会常设委员会专业幕僚及法案起草员展示如何将科学研究结论转化为具备法律效力与可操作性的法案法定语言。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 46)]]
+> 立法政策简报（Legislative Policy Brief）指由[[National Education Policy Center\|国家教育政策中心]]（[[National Education]] Policy Center, NEPC）等专业智库与[[Educational Brokerage Agency\|知识中介机构]]倡导并采用的一种专业化科学传播文类。它将精炼的实证[[Research Synthesis|研究综合]]与明确的操作性政策诉求，与由执业律师依据实证结论量身起草的**法定示范条文（Model Statutory Language）** 深度结合，直接向立法机构、国会常设委员会专业幕僚及法案起草员展示如何将科学研究结论转化为具备法律效力与可操作性的法案法定语言。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 46)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 专为立法起草、委员会审议与法案修正量身定制的高阶政策转化工具，核心特征在于法条化与可直接剪贴吸纳性。
@@ -87,7 +88,7 @@ updated: 2026-10-16
 ## 核心要素与撰写规范
 
 > [!feature] 立法政策简报的核心三要素
-> - **精炼的研究综合（Targeted Research Synthesis）** 剔除枝节与繁复统计细节，直击与当前立法议程直接相关的核心因果事实，重点回答“该干预对目标群体是否有效、在何种情境下有效”。
+> - **精炼的[[Research Synthesis|研究综合]]（Targeted Research Synthesis）** 剔除枝节与繁复统计细节，直击与当前立法议程直接相关的核心因果事实，重点回答“该干预对目标群体是否有效、在何种情境下有效”。
 > - **操作性政策诉求（Actionable Policy Ask）** 明确提出立法机构应采取的具体行动路线，清晰界定财政拨付形式、受益对象门槛与配套监管权责。
 > - **法定示范条文（Model Statutory Language）** 聘请专业法学顾问介入，依据实证发现起草标准的立法法条，包含定义条款、专项授权条款、合规性审计要求及[[Sunset Provisions|日落条款]]，实现学术证据向国家法典的无缝对接。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 46)]]
 

@@ -10,7 +10,7 @@ aliases:
 summary: "科学传播与教育研究领域的早期核心范式，假定公众或教师对科学的疑虑源于知识匮乏（认知赤字），认为单向灌输事实即可消除分歧；因忽视价值认同、制度信任与教学现场情境逻辑而在公共领域与教育实践中普遍失效。"
 type: concept
 domain: "science-communication"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Learning Style Myth]]"
   - "[[Heterogeneity]]"
   - "[[Didaktik]]"
+  - "[[Learning Styles]]"
   - "[[Scientific Explanation]]"
   - "[[Knowledge Mediation]]"
   - "[[Reflexivity]]"
@@ -61,7 +62,7 @@ related_methods:
 confidence: high
 status: completed
 created: 2026-08-22
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Deficit Model of Science Communication
@@ -163,7 +164,7 @@ updated: 2026-10-16
 > **单向线性转移的赤字模型本质与实践逻辑冲突** 贝萨（[[Argument_Besa_2024_UW\|Besa, 2024]]）系统论证指出，教育研究界长期秉持的“自上而下产出—推送—实施”知识转移模式，本质上延续了赤字模型的错误假定。教育教学高度嵌入于具体的学校生态与复杂的师生互动情境中（Bromme et al., 2014; Gräsel, 2019）；当研究者仅将实验室或统计[[Meta-analysis\|元分析]]结论作为标准答案单向推介给教师，并试图通过呈现[[Falsification\|证伪]]证据直接破除教师基于多年从教经验形成的直觉观念时，必然触发教师的心理防御机制与职业身份保护，导致教师产生“研究脱离实际”的疏离感。[[Argument_Besa_2024_UW\|(Besa, 2024, pp. 252–254)]]
 
 > [!claim] Bauer & Kollar
-> **[[Refutational Evidence\|反驳性证据]]与教师直觉教学观念的冲突调解** 鲍尔和科拉尔（Bauer & Kollar, 2023）研究表明，教师对直觉性[[Didaktik\|教学理论]]（如学习风格）持有深层的心理认同。单纯提供学术界证伪证据的单向策略无法实现知识采纳，反而容易引发反向防御，必须通过概念转变沟通引导教师在安全专业研讨中自我解构。
+> **[[Refutational Evidence\|反驳性证据]]与教师直觉教学观念的冲突调解** 鲍尔和科拉尔（Bauer & Kollar, 2023）研究表明，教师对直觉性[[Didaktik\|教学理论]]（如[[Learning Styles|学习风格]]）持有深层的心理认同。单纯提供学术界证伪证据的单向策略无法实现知识采纳，反而容易引发反向防御，必须通过概念转变沟通引导教师在安全专业研讨中自我解构。
 
 > [!claim] Lord et al.
 > **大规模因果试验证实单纯信息推送彻底无效** 英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）资助、由英国全国教育研究基金会（National Foundation for Educational Research, NFER）独立评估的“[[Literacy Octopus\|识字八爪鱼试验]]”（覆盖全英格兰 800 余所小学、数千名教师与数万名学童）通过[[Multi-Arm Trial\|多臂随机对照试验]]（Randomised Controlled Trial, [[Randomised Controlled Trials\|RCT]]）证实：无论是精编纸质手册、数字化通讯还是专业杂志专栏，任何单一的信息推介样态在提升学生学业统考成绩上的[[Effect Size\|效应量]]均为零（$d = 0$）。这一高质量因果证据彻底否定了信息赤字假设，证实脱离组织支持与深度互动的单向信息供给无法跨越专业实践鸿沟。[[Argument_Gough_2022_EvidenceOnEIPP\|(Lord et al., 2017; Gough et al., 2022, p. 152)]]

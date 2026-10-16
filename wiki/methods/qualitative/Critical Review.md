@@ -8,7 +8,7 @@ summary: "超越描述性文献汇总的定性研究综述方法，通过批判�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 27
+method_related_count: 28
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Inquiry-Based Learning]]"
   - "[[Institutional Layering]]"
 related_methods:
+  - "[[Research Synthesis]]"
   - "[[Effect Size]]"
   - "[[Fieldwork]]"
   - "[[Systematic Review]]"
@@ -52,7 +53,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Critical Review
@@ -62,7 +63,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 方法定义
-> 批判性综述（Critical Review）是一种建立在广泛文献梳理基础上、但超越单纯事实罗列与描述性汇总的质性/概念性研究综合方法。该方法不仅阐明某领域存在何种实证发现，更重在深入剖析既有文献在概念界定、底层假设和推论逻辑上的局限，反思甚至挑战既有的主流理论模型，从而为提出新概念、新理论或新研究议程提供坚实的概念创新发射平台（launch pad）（Grant & Booth, 2009; Gough et al., 2012；[[Argument_Mausethagen_2025_ERR\|Mausethagen et al., 2025, pp. 2–3]]）。
+> 批判性综述（Critical Review）是一种建立在广泛文献梳理基础上、但超越单纯事实罗列与描述性汇总的质性/概念性[[Research Synthesis|研究综合]]方法。该方法不仅阐明某领域存在何种实证发现，更重在深入剖析既有文献在概念界定、底层假设和推论逻辑上的局限，反思甚至挑战既有的主流理论模型，从而为提出新概念、新理论或新研究议程提供坚实的概念创新发射平台（launch pad）（Grant & Booth, 2009; Gough et al., 2012；[[Argument_Mausethagen_2025_ERR\|Mausethagen et al., 2025, pp. 2–3]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 既有学术文献的核心概念界定、底层理论假设、问题提出方式、实证研究设计与政策推论逻辑。

@@ -9,7 +9,7 @@ title: "Argument_Hattie_2015_Paideia"
 argument_key: "Argument_Hattie_2015_Paideia"
 argument_display_title: "Synlig læring i dag"
 argument_kind: "journal-article"
-argument_related_count: 15
+argument_related_count: 16
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Success Criteria]]"
 related_theories: []
 related_methods:
+  - "[[Research Synthesis]]"
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
@@ -50,7 +51,7 @@ sources:
 part_of: ""
 status: draft
 created: 2026-05-21
-updated: '2026-06-08'
+updated: 2026-10-17
 year: 2015
 doi: ""
 citation_aliases:
@@ -62,7 +63,7 @@ citation_aliases:
 ## 研究问题
 
 > [!info] [[Research Question\|研究问题]]
-> [[Visible Learning]] 已经从一本 2009 年出版的研究综合扩展为一组面向教师、[[School Leadership\|学校领导]]和政策系统的实践[[Discourse|话语]]。核心问题因此变成：在面对方法论批评、[[Effect Size\|效应量]]误读和学习概念争议时，如何重新说明 Visible Learning 的中心主张，使它不被简化成“照排行榜选教学法”的技术菜单？(pp.9-11)
+> [[Visible Learning]] 已经从一本 2009 年出版的[[Research Synthesis|研究综合]]扩展为一组面向教师、[[School Leadership\|学校领导]]和政策系统的实践[[Discourse|话语]]。核心问题因此变成：在面对方法论批评、[[Effect Size\|效应量]]误读和学习概念争议时，如何重新说明 Visible Learning 的中心主张，使它不被简化成“照排行榜选教学法”的技术菜单？(pp.9-11)
 >
 > 更直白地说，这篇文章要把 Visible Learning 从一个容易被误读的“干预排名表”，重新解释成一个学校里的工作习惯：教师和学校要持续追问“我的教学到底对学生产生了多大影响，这种影响是否足够好”。(pp.11-13)
 
@@ -112,7 +113,7 @@ citation_aliases:
 >
 > 教育情境例子：如果一个班在分数上提高了，教师不能只说“我的方法成功了”。还要问：提高的是记忆题还是迁移题？哪些学生没有提高？如果换成另一种反馈方式，影响会不会更大？这就是从“我教过了”转向“我知道我的教学产生了什么影响”。
 >
-> ### 四、研究含义：证据综合应寻找调节[[Variable\|变量]]和竞争解释
+> ### 四、研究含义：[[Research Synthesis|证据综合]]应寻找调节[[Variable\|变量]]和竞争解释
 >
 > 10. Hattie 承认，Visible Learning 仍需要更好地寻找调节变量。年龄、学校阶段、文化、先前成绩、学习倾向、结果测量类型等因素都会改变平均效应的解释(pp.10-11)。
 > 11. 他也强调平均值的变异很重要。以 [[Feedback]] 为例，反馈的平均效应很强，但不同反馈类型差异巨大；因此不能用“反馈有效”这种笼统判断替代对反馈方向、接受方式和任务阶段的分析。
@@ -136,7 +137,7 @@ citation_aliases:
 > - d = 0.40 是所有可见教育影响的平均参考点，可用于开启比较讨论，但必须结合年级、结果类型、实施条件和同类研究背景解释(pp.10-11, 17)。
 > - 教师影响的六个关键条件包括：理解自身角色是评价影响、与同事共同评价影响、清楚学生先前学习、开端明确[[Success Criteria\|成功标准]]、平衡表层与[[Surface and Deep Learning\|深层学习]]、提供适当挑战而不是满足于“尽力而为”(pp.12-13)。
 > - Visible Learning 的实施需要学校和网络层面的集体评价文化，孤立教师很难单独完成；校长要为影响讨论提供时间、资源和安全环境(pp.13-14)。
-> - Hattie 接受研究综合仍需更好地处理调节[[Variable\|变量]]、学习结果类型和定性证据综合，但拒绝把这些问题理解为对全部证据综合工作的否定(pp.14-19)。
+> - Hattie 接受[[Research Synthesis|研究综合]]仍需更好地处理调节[[Variable\|变量]]、学习结果类型和定性证据综合，但拒绝把这些问题理解为对全部证据综合工作的否定(pp.14-19)。
 > - 文章最后把 Visible Learning 的公共问题化为三个民主讨论题：什么算影响、期望影响多大、影响应覆盖多少学生；这些问题不能只由研究综合决定(p.19)。
 
 > [!info]- 核心数据
@@ -173,7 +174,7 @@ citation_aliases:
 >
 > ### 民主问题与专业证据之间仍有张力
 >
-> 文章最后承认“什么算影响”“影响要多大”“覆盖多少学生”是公共民主问题，而非研究综合单独能决定的问题(p.19)。这是一处重要让步：Visible Learning 可以提供证据语言，但不能独自决定教育价值。换言之，[[Effect Size\|效应量]]可以帮助学校比较做法，却不能替学校决定教育究竟追求什么。
+> 文章最后承认“什么算影响”“影响要多大”“覆盖多少学生”是公共民主问题，而非[[Research Synthesis|研究综合]]单独能决定的问题(p.19)。这是一处重要让步：Visible Learning 可以提供证据语言，但不能独自决定教育价值。换言之，[[Effect Size\|效应量]]可以帮助学校比较做法，却不能替学校决定教育究竟追求什么。
 
 ## 来源
 

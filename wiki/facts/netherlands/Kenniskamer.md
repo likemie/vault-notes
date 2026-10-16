@@ -10,7 +10,7 @@ subtype: organization
 region: netherlands
 fact_region: "netherlands"
 fact_kind: "organization"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Educational Brokerage Agency]]"
 related_theories: []
 related_methods:
+  - "[[Research Synthesis]]"
   - "[[Systematic Review]]"
 related_instruments: []
 related_persons: []
@@ -42,7 +43,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-09-13'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Kenniskamer
@@ -74,7 +75,7 @@ updated: 2026-10-16
 
 > [!actor-grid] 组织治理架构
 > - **主管机构** 荷兰教育、文化与科学部（Ministerie van Onderwijs, Cultuur en Wetenschap, OCW），最高权威为在任教育部长。
-> - **内部运作团队** 由教育部内部政策研究人员与受委托的外部学术顾问共同构成，以部长优先事项为驱动力组织研究综合与咨询报告撰写。
+> - **内部运作团队** 由教育部内部政策研究人员与受委托的外部学术顾问共同构成，以部长优先事项为驱动力组织[[Research Synthesis|研究综合]]与咨询报告撰写。
 > - **与外部学术社群的关系** Kenniskamer 的边界较为封闭，主要在政府行政体系内运作，对外部研究者的开放程度远低于 [[EPPI-Centre]] 等大学依托型中介机构。
 
 > [!pathways]- 核心业务运行机制
@@ -86,7 +87,7 @@ updated: 2026-10-16
 ## 知识治理视阈下的学理意义
 
 > [!tension] 部委嵌入型中介的制度优势与致命弱点
-> - **制度优势：政策对齐度极高** 与决策核心的物理与行政紧密度，使 Kenniskamer 的研究综合能够直接进入部长的决策流程，避免了知识传播链条中常见的信息衰减与优先级失配问题。相比独立第三方机构，其在特定政治窗口内的政策影响效率极高。
+> - **制度优势：政策对齐度极高** 与决策核心的物理与行政紧密度，使 Kenniskamer 的[[Research Synthesis|研究综合]]能够直接进入部长的决策流程，避免了知识传播链条中常见的信息衰减与优先级失配问题。相比独立第三方机构，其在特定政治窗口内的政策影响效率极高。
 > - **致命弱点：政治人物依附与制度沉淀缺失** Kenniskamer 的根本性制度脆弱性在于：其存续完全依托特定部长的个人政治意愿与行政主持，而非法定授权、跨党派立法或独立财政协议。一旦权力格局发生更迭，机构立即面临失去存在依据的生存危机，既无法通过学术同行认可维系公信力，也无法通过用户社群的持续需求自证价值。
 > - **与 [[Kennisrotonde]] 的制度对比** 同为荷兰语境下的教育[[Knowledge Mediation\|知识中介]]，[[Kennisrotonde]]依托 [[Netherlands Initiative for Education Research\|NRO]] 稳定的公共经费与一线教师的真实需求驱动，其制度生命力远超 Kenniskamer；后者则以夭折轨迹印证了 [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns and Schuller（2022）]]的核心命题：缺乏跨党派法定制度保障的孤立中介机构，必然成为政治预算短周期的牺牲品。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 62, 64]])
 

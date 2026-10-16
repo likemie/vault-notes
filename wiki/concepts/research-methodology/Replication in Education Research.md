@@ -11,7 +11,7 @@ aliases:
 summary: "在多元教育情境中对前人干预方案或实证发现进行独立重复检验的方法学机制，旨在克服小样本偏倚、开发者利益冲突与自编测验虚夸，确立研究成果的外部概化效度与实践可靠性"
 type: concept
 domain: "research-methodology"
-related_count: 24
+related_count: 25
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -40,6 +40,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Research Synthesis]]"
   - "[[Meta-analysis]]"
   - "[[Sample Size Determination]]"
   - "[[Correlational Research]]"
@@ -118,7 +119,7 @@ updated: 2026-10-17
 > 探讨复现概念如何从微观一阶现场干预试验拓展至宏观[[Meta-meta-analysis|二阶元分析]]数据库的“数据提取独立复现”，揭示二阶知识汇总设施中数据断裂的系统性风险。
 
 > [!claim] [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]]
-> **二阶数据提取复现检验与灾难性复现危机** 传统教育复现研究多聚焦于在学校现场重新实施一阶干预方案（如 [[Randomised Controlled Trials|RCT]] 复现）。然而卡尔门达尔（Kalmendal）等学者对《[[Visible Learning|可见的学习]]》数据库全量 322 个影响因素开展独立元科学审计表明，二阶证据综合基础设施自身同样面临致命的不可复现危机。研究团队制定了严谨的“遇错即止”独立数据提取复现规程（Replication until failure）：随机抽取各因素收录的[[Meta-analysis|元分析]]进行独立数据核查。结果揭示：在可查的 301 个影响因素中，仅有 **2 项**（0.66%）能够成功复现数据提取；高达 **44%** 的报告[[Effect Size|效应量]]在原文中完全不存在，另有 33% 提取自错误的无关子组；伴随的[[Sample Size Determination|样本量]]错误率高达 72%。这实证表明：若缺乏二阶数据提取层面的独立复现机制，所谓囊括数千万受试者的宏观证据库可能完全建立在虚假提取与数据幻象之上，其推荐清单无法作为任何政策与教学决策依据。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 1, 18–19)]]
+> **二阶数据提取复现检验与灾难性复现危机** 传统教育复现研究多聚焦于在学校现场重新实施一阶干预方案（如 [[Randomised Controlled Trials|RCT]] 复现）。然而卡尔门达尔（Kalmendal）等学者对《[[Visible Learning|可见的学习]]》数据库全量 322 个影响因素开展独立元科学审计表明，二阶[[Research Synthesis|证据综合]]基础设施自身同样面临致命的不可复现危机。研究团队制定了严谨的“遇错即止”独立数据提取复现规程（Replication until failure）：随机抽取各因素收录的[[Meta-analysis|元分析]]进行独立数据核查。结果揭示：在可查的 301 个影响因素中，仅有 **2 项**（0.66%）能够成功复现数据提取；高达 **44%** 的报告[[Effect Size|效应量]]在原文中完全不存在，另有 33% 提取自错误的无关子组；伴随的[[Sample Size Determination|样本量]]错误率高达 72%。这实证表明：若缺乏二阶数据提取层面的独立复现机制，所谓囊括数千万受试者的宏观证据库可能完全建立在虚假提取与数据幻象之上，其推荐清单无法作为任何政策与教学决策依据。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 1, 18–19)]]
 
 ---
 

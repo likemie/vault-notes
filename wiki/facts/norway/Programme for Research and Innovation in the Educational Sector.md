@@ -10,7 +10,7 @@ subtype: program
 region: norway
 fact_region: "norway"
 fact_kind: "program"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -42,6 +42,7 @@ related_theories:
 related_methods:
   - "[[Quantitative Research]]"
   - "[[Systematic Review]]"
+  - "[[Research Synthesis]]"
   - "[[Analytic Framework]]"
 related_instruments: []
 related_persons:
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Programme for Research and Innovation in the Educational Sector
@@ -113,7 +114,7 @@ updated: 2026-10-16
 
 > [!actor-grid] 实施协同矩阵
 > - **发起与资助方** 挪威研究理事会（Research Council of Norway, RCN）— 享有国家法定统筹权威，设立长周期专项拨款，主导《FINNUT 工作规划》并监督课题立项。[[Argument_Torres_2022_BarriersMechanisms\|(Torres, 2022a, p. 115)]]
-> - **研发与数据中心** [[Kunnskapssenter for utdanning\|挪威教育知识中心]]（[[Kunnskapssenter for utdanning]], KSU）— 设于斯塔万格大学，承担高水平[[Systematic Review\|系统综述]]、证据综合与向国家及地方决策机构报送证据。
+> - **研发与数据中心** [[Kunnskapssenter for utdanning\|挪威教育知识中心]]（[[Kunnskapssenter for utdanning]], KSU）— 设于斯塔万格大学，承担高水平[[Systematic Review\|系统综述]]、[[Research Synthesis|证据综合]]与向国家及地方决策机构报送证据。
 > - **学术研究主体** 挪威各大高等教育机构、师范大学与科研智库 — 依托资助开展原创实证研究，承担博士与博士后高层次人才培养。
 > - **一线实践主体** 市镇（Municipalities）教育部门、中小学、幼儿园（ECEC）及成人培训中心 — 参与需求诊断，承接“用户主导”与“用户参与”课题并实践落地。
 

@@ -7,7 +7,7 @@ title: "Argument_Gough_2022_EvidenceOnEIPP"
 argument_key: "Argument_Gough_2022_EvidenceOnEIPP"
 argument_display_title: "Evidence on evidence-informed policy and practice"
 argument_kind: "book-chapter"
-argument_related_count: 72
+argument_related_count: 73
 argument_related_level: 7
 argument_related_stars: "💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -47,6 +47,7 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Cost-Benefit Analysis]]"
   - "[[Meta-analysis]]"
+  - "[[Research Synthesis]]"
   - "[[Multi-Arm Trial]]"
   - "[[Questionnaire]]"
   - "[[Classroom Observation]]"
@@ -115,7 +116,7 @@ related_instruments:
   - "[[EMMIE Framework]]"
 status: draft
 created: 2026-09-13
-updated: 2026-10-16
+updated: 2026-10-17
 sources:
   - "[[books/Revai(Ed.)_2022_OECD/Ch07_Gough_2022|Ch07_Gough_2022]]"
 ---
@@ -191,7 +192,7 @@ sources:
 > | | **福祉有效性中心证据门户**<br>（What Works Centre for Wellbeing Evidence Portals） | 英国；国家福祉有效性中心 | 提升个体与社群主观福祉的综合策略（如社区绿地营造、职场柔性工时、社会处方疗法、文体参与） | **[[Systematic Review\|系统综述]]**<br>（跨学科系统综述集成，广泛吸纳质性研究与混合方法研究发现） | 突破硬科学狭隘指标的桎梏；为多主体参与、概念高度模糊的非结构化公共政策议题提供了透明规范的综合评价典范（pp. 149–150, 154） |
 > | | **无家可归治理影响中心证据工具箱**<br>（Centre for Homelessness Impact Toolkit & EGMs） | 英国；无家可归治理影响中心（CHI） | 无家可归防治策略（如住房优先模式 Housing First、个案管理、庇护所心理疏导、租金应急补贴） | **[[Systematic Review\|系统综述]]**<br>（严格依托与 [[EPPI-Centre]] 及 Campbell 协作网合作研制的系统综述与证据地图） | 与 Gough and White (2018) 标准深度咬合；坚决摒弃单兵研究，确保每一项策略主张均具备代表性证据库，并可视化呈现证据空白区（pp. 149, 154） |
 > | | **考克兰图书馆**<br>（Cochrane Library） | 国际组织；考克兰协作网（Cochrane Collaboration） | 全球临床医学、精神卫生、公共健康与卫生管理系统干预措施 | **[[Systematic Review\|系统综述]]**<br>（遵循国际最严苛的 Cochrane 综述方法学规范与 GRADE 证据分级体系） | 现代循证运动的元祖与方法学黄金标准；但其强因果干预逻辑与偏倚风险评估工具若不加审慎反思地直接套用至高度情境化的教育与社会政策，容易引发方法学削足适履（p. 154） |
-> | | **坎贝尔协作网实证库**<br>（[[Campbell Collaboration\|Campbell Collaboration Library]]） | 国际组织；坎贝尔协作网（Campbell Collaboration） | 教育、社会福利、犯罪司法与国际发展领域的宏观政策干预策略 | **叙述性／专家评审**<br>（依托专家编委会对跨领域复杂证据进行定性审议、叙述性归纳与政策简报转化） | 专注于社会科学领域的大规模证据综合；其叙述性评审更贴近决策语境，但在结论可复现性与量化偏倚防范上需依赖严格同行评议制衡（p. 154） |
+> | | **坎贝尔协作网实证库**<br>（[[Campbell Collaboration\|Campbell Collaboration Library]]） | 国际组织；坎贝尔协作网（Campbell Collaboration） | 教育、社会福利、犯罪司法与国际发展领域的宏观政策干预策略 | **叙述性／专家评审**<br>（依托专家编委会对跨领域复杂证据进行定性审议、叙述性归纳与政策简报转化） | 专注于社会科学领域的大规模[[Research Synthesis\|证据综合]]；其叙述性评审更贴近决策语境，但在结论可复现性与量化偏倚防范上需依赖严格同行评议制衡（p. 154） |
 > | | **美军家庭战备清算中心**<br>（Clearinghouse for Military Family Readiness） | 美国；宾夕法尼亚州立大学（与美国国防部及农业部合作） | 军人及其家庭的心理疏导、子女教育辅导、创伤后应激支持与家庭韧性提升策略 | **叙述性／专家评审**<br>（依托证据连续体框架，由跨领域学术专家委员会开展叙述性审定） | 紧密契合垂直特定行业系统的特殊需求；但高度依赖同行专家主观裁量，在透明度与标准化打分规程上相对欠缺（p. 154） |
 > | | **美国有效干预清算中心教育实践指南**<br>（[[What Works Clearinghouse\|WWC Practice Guides, What Works Clearinghouse]]） | 美国；[[Institute of Education Sciences\|美国教育部教育科学研究院]]（Institute of Education Sciences, IES） | 特定学段与学科教学主题策略（如小学早期阅读障碍矫正、代数思维培养、高中辍学预防实践指引） | **单纯罗列研究与结果**<br>（由专家组将多项独立通过 WWC 标准审查的实证研究进行清单式罗列与证据等级赋权） | 实践针对性极强（分为强/中等证据支持）；但由于其将多项独立研究的研究发现直接罗列而非进行统计元分析，不同研究间的异质性难以消除（pp. 154–155） |
 > | | **经济流动性目录**<br>（Results for America Economic Mobility Catalog） | 美国；为美求索组织（Results for America） | 地方政府与社区组织促进代际经济向上流动、教育公平、学前托育与职业技能提升的行动策略 | **单纯罗列研究与结果**<br>（作为综合性二级证据目录，直接罗列聚合来自各专业清算所的推荐研究清单与案例） | 政策工具箱覆盖全面；但因直接并置不同来源、不同口径的研究清单，引发 Gough & White 所警示的多源标准交叉污染风险（pp. 154–155） |
@@ -300,7 +301,7 @@ sources:
 >   - **决策实施** 承接决策判断，向基层教学或治理实践纵深落地。
 > - **研究生产与综合（置于右侧，破除推送惯性）**
 >   - **初级研究生产** 构成底层实证土壤；
->   - **研究综合所得** 提炼出概念性证据与工具性证据。
+>   - **[[Research Synthesis|研究综合]]所得** 提炼出概念性证据与工具性证据。
 > - **中介机制** 处于左右两侧核心构件之间，承担双向对话、协同参与与证据转译的枢纽职能。
 > - **构图注记** 模型特意将研究生产置于右侧，坚决防范将证据使用视作自左向右单向推送（Push）知识的机械过程。
 

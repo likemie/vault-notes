@@ -8,7 +8,7 @@ aliases:
 summary: "2010年代以来在心理学、生物医学、实验经济学及社会科学中集中爆发的已发表经典研究无法被独立复现的方法论危机；在科学学与国家科技政策视阈下，危机根源于学术出版激励偏倚、统计自由度滥用与生成-核验成本脱节，不仅动摇了科学的内在认知权威，更推动了开放科学与‘金标准科学’评价制度的重塑。"
 type: concept
 domain: "science-policy"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -48,6 +48,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Correlational Research]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Research Synthesis]]"
 confidence: high
 status: active
 created: 2026-10-05
@@ -214,4 +215,4 @@ updated: 2026-10-17
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Kratsios_2026_OSTP|Kratsios (2026)]] — 把复制失败、迟来的撤稿和人工智能带来的投稿涌增收成一个核心判断：生成变便宜之后，必须将数据开源、方法透明与自动化核验作为国家科研资助的基石。
 > - [[Argument_Fan_2026_BCAS|樊春良 (2026)]] — 从科学政策与政治社会学视角切入，揭示可重复性危机如何从学术界内部的方法论讨论，被美国行政中枢借用为重塑科学合法性基础、将学术自治压制为受限自治的契约性工具。
-> - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 针对教育学全球影响最大的[[Meta-meta-analysis|二阶元分析]]知识库开展全量复现检验，发现 301 项中仅 2 项可复现，实证展现了可重复性危机从初级实验向高阶证据综合基础设施的蔓延。
+> - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 针对教育学全球影响最大的[[Meta-meta-analysis|二阶元分析]]知识库开展全量复现检验，发现 301 项中仅 2 项可复现，实证展现了可重复性危机从初级实验向高阶[[Research Synthesis|证据综合]]基础设施的蔓延。

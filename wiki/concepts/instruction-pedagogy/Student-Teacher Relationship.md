@@ -7,10 +7,10 @@ aliases:
 summary: "学生与教师在教育实践与微观课堂互动中建构的情感支持、道德信任与指导性交往联结。它既是学习参与、心理安全感与学业投入的关键生态条件，也是承载不同文化学习信念与社会资本转化的核心关系中介。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 49
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 50
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - student-teacher-relationship
   - relational-factors
@@ -50,6 +50,7 @@ related_theories:
   - "[[Cultural Models]]"
   - "[[Critical Realism]]"
 related_methods:
+  - "[[Research Synthesis]]"
   - "[[Effect Size]]"
   - "[[Multiple Regression]]"
   - "[[Questionnaire]]"
@@ -77,7 +78,7 @@ related_arguments:
 confidence: high
 status: active
 created: '2026-05-06'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Student-Teacher Relationship
@@ -128,7 +129,7 @@ updated: 2026-10-16
 
 ### 命题一　良好的师生关系是高期望效应与教学效能转化的关键催化剂
 
-> [!concept-lens] 教学交互与证据综合
+> [!concept-lens] 教学交互与[[Research Synthesis|证据综合]]
 > 探讨师生关系如何超越单纯的礼貌交往，作为具有极高[[Effect Size|效应量]]潜力的核心[[Independent Variable|自变量]]直接赋能课堂学习效能。
 
 > [!claim] Hattie (2009); [[Argument_Golovchin_2019_ESC|Golovchin (2019)]]

@@ -9,7 +9,7 @@ aliases:
 summary: "历史制度主义微观博弈核心概念；打破传统制度分析将规则遵从视为外生常数的假定，将行动者的短期遵从行为与长期制度诉求解耦，揭示行动者如何利用解释与执行裁量缝隙进行蛰伏合规、违规套利或相机倒戈的策略机制。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -37,6 +37,7 @@ related_theories:
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Roy Nash]]"
   - "[[James Mahoney]]"
   - "[[Kathleen Thelen]]"
 related_facts: []
@@ -45,7 +46,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-11
-updated: 2026-10-15
+updated: 2026-10-17
 ---
 
 # Strategic Compliance
@@ -72,7 +73,7 @@ updated: 2026-10-15
 ## 概念辨析
 
 > [!contrast-table] 策略性遵从与传统遵从概念的维度辨析
-> | 维度 | 策略性遵从（Strategic Compliance） | 机械合规（Mechanical Compliance） | 静态纳什均衡（Static Equilibrium） |
+> | 维度 | 策略性遵从（Strategic Compliance） | 机械合规（Mechanical Compliance） | 静态[[Roy Nash\|纳什]]均衡（Static Equilibrium） |
 > |:---|:---|:---|:---|
 > | **理论流派** | [[Historical Institutionalism\|历史制度主义]]与内生演进理论 | 社会学制度主义与早期组织社会学 | 传统理性选择制度主义 |
 > | **对遵从的假定** | 动态连续的政治博弈[[Variable\|变量]] | 理所当然的文化认知习惯 | 已被外生惩罚参数内化的静态常数 |

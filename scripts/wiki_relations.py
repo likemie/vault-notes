@@ -491,7 +491,7 @@ def git_changed_markdown_files() -> list[Path]:
         out = subprocess.check_output(
             # Only wiki files are used (see git_changed_wiki_files); scoping the
             # pathspec avoids scanning books/, sources/ and raw/ (~9 s -> <1 s).
-            ["git", "-C", str(ROOT), "status", "--porcelain", "-z", "--", "wiki"],
+            ["git", "-C", str(ROOT), "status", "--porcelain", "-z", "--untracked-files=all", "--", "wiki"],
             text=False,
             stderr=subprocess.DEVNULL,
         )
@@ -499,10 +499,17 @@ def git_changed_markdown_files() -> list[Path]:
         return []
     parts = out.decode("utf-8", errors="replace").split("\0")
     files: list[Path] = []
-    for item in parts:
-        if not item:
+    i = 0
+    while i < len(parts):
+        item = parts[i]
+        i += 1
+        if len(item) < 4:
             continue
-        path_str = item[3:] if len(item) > 3 and item[2] == " " else item
+        status, path_str = item[:2], item[3:]
+        if status[0] in "RC":
+            i += 1  # -z emits the rename source after the destination.
+        if "D" in status:
+            continue
         if not path_str.endswith(".md"):
             continue
         p = ROOT / path_str

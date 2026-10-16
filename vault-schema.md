@@ -103,7 +103,6 @@ scripts/
   vault_index.py
   wiki_index.py
   citation_index.py
-  citation_linker.py
   wiki_linker.py
   wiki_relations.py
   vault_lint.py
@@ -235,7 +234,7 @@ citation/
   citation_ambiguous.json     同一作者同一年多篇可引用文献的歧义索引
 ```
 
-Citation 字段按 `wiki/templates/TEMPLATE-SPEC.md` 和对应 Argument 模板执行。Argument 保留 `source_language`、`year`、`doi`、可选 `isbn`、`citation_aliases` 与完整 `citation`。`citation_aliases` 由 `scripts/citation_index.py` 根据原始出版语言、`authors`、`year` 和完整 `citation` 自动生成。英文原始文献生成英文 APA author-year 形式。中文原始文献的 `authors` 使用中英双语显示，但完整 `citation` 和 `citation_aliases` 只使用中文；`citation_linker.py` 也只按这些中文 aliases 匹配该文献。中文期刊论文使用 `source_language: zh`，citation 采用中文作者、中文篇名和中文期刊名，`argument_display_title` 保留中文原题；英文作者转写只存在于 `authors`，不进入 citation 索引。英文基本形式为 `Author, Year` 与 `Author (Year)`：单作者用第一作者英文姓氏或机构英文简称，如 `Ball, 2008`；双作者用 `&`，如 `Lindblad & Popkewitz, 2004`；三位及以上作者用 `et al.`，如 `Wang et al., 2025`。中文基本形式只保留 `作者, 年份` 与 `作者 (年份)`；中文双作者用“和”，如 `林德布拉德和波普凯维茨, 2004`；中文三位及以上作者用“等”，如 `王等, 2025`。同一作者同一年多篇可引用文献时，`citation_index.py` 按完整 `citation`、`title`、文件路径稳定排序后自动分配 `a`、`b`、`c` 后缀。论文集章节是可引用 Argument；论文集 overview 是结构入口，不进入 citation 索引。
+Citation 字段按 `wiki/templates/TEMPLATE-SPEC.md` 和对应 Argument 模板执行。Argument 保留 `source_language`、`year`、`doi`、可选 `isbn`、`citation_aliases` 与完整 `citation`。`citation_aliases` 由 `scripts/citation_index.py` 根据原始出版语言、`authors`、`year` 和完整 `citation` 自动生成。英文原始文献生成英文 APA author-year 形式。中文原始文献的 `authors` 使用中英双语显示，但完整 `citation` 和 `citation_aliases` 只使用中文；`wiki_linker.py` 也只按这些中文 aliases 匹配该文献。中文期刊论文使用 `source_language: zh`，citation 采用中文作者、中文篇名和中文期刊名，`argument_display_title` 保留中文原题；英文作者转写只存在于 `authors`，不进入 citation 索引。英文基本形式为 `Author, Year` 与 `Author (Year)`：单作者用第一作者英文姓氏或机构英文简称，如 `Ball, 2008`；双作者用 `&`，如 `Lindblad & Popkewitz, 2004`；三位及以上作者用 `et al.`，如 `Wang et al., 2025`。中文基本形式只保留 `作者, 年份` 与 `作者 (年份)`；中文双作者用“和”，如 `林德布拉德和波普凯维茨, 2004`；中文三位及以上作者用“等”，如 `王等, 2025`。同一作者同一年多篇可引用文献时，`citation_index.py` 按完整 `citation`、`title`、文件路径稳定排序后自动分配 `a`、`b`、`c` 后缀。论文集章节是可引用 Argument；论文集 overview 是结构入口，不进入 citation 索引。
 
 `doi` 用于论文、报告或有 DOI 的书籍；著作、教材、论文集或章节没有 DOI 时，`doi` 可留空，若能确认 ISBN，则写入 `isbn`。
 
@@ -246,9 +245,9 @@ Citation 字段按 `wiki/templates/TEMPLATE-SPEC.md` 和对应 Argument 模板�
 - `citation_full.json`：所有 `citation_aliases` 到 Argument 的查询索引。
 - `citation_ambiguous.json`：无后缀基础短引用对应的重复文献组。
 
-正文 citation 补链由 `scripts/citation_linker.py` 完成，只读取 `citation_full.json` 与 `citation_ambiguous.json`，不扫描或修改 Argument frontmatter；日常通过 `scripts/vault_index.py --standard-workflow` 统一触发。
+正文 citation 补链由 `scripts/wiki_linker.py sync --citations-only` 完成，引用模式只读取 citation 索引，不修改 Argument frontmatter。基础索引自动执行增量引用补链；标准流程通过同一补链入口统一执行引用与普通双链维护。
 
-正文引用当前 Argument 之外的已处理文献时，优先沿用原始文献的 author-year 格式。英文文献使用英文 APA，叙述式如 `Lindblad and Popkewitz (2004)`，括号式如 `(Lindblad & Popkewitz, 2004)`；中文文献可以使用中文作者年，如 `郑雅君 (2023)`、双作者 `作者甲和作者乙 (2023)`、三位及以上 `作者甲等 (2023)`。如果原文采用 APA 引用格式，优先保留原文中的短引用，再由 `citation_linker.py` 自动补链。
+正文引用当前 Argument 之外的已处理文献时，优先沿用原始文献的 author-year 格式。英文文献使用英文 APA，叙述式如 `Lindblad and Popkewitz (2004)`，括号式如 `(Lindblad & Popkewitz, 2004)`；中文文献可以使用中文作者年，如 `郑雅君 (2023)`、双作者 `作者甲和作者乙 (2023)`、三位及以上 `作者甲等 (2023)`。如果原文采用 APA 引用格式，优先保留原文中的短引用，再由 `wiki_linker.py` 自动补链。
 
 原文已有 `Author (YearSuffix: page)` 或 `Author, YearSuffix: page` 这类内部参考文献编号时，清除原文后缀，只保留作者、年份和页码，例如将 `Tandon (2005c: 30)` 写作 `Tandon (2005: 30)`。这类原文编号不写入 `citation_aliases`，不放入 `citation_ambiguous.json`，也不自动补链；只有该文献被独立处理为 Argument 后，才由本库 citation 流程重新决定是否需要 `a/b/c` 后缀。
 
@@ -270,7 +269,7 @@ Argument 页引用当前对应文献时，只写页码，如（p.147）或（pp.
 
 ## 5. Script Rules and Sync Commands
 
-脚本用于维护索引、citation 索引、补链、关系字段、source 记录和 lint 检查。`vault_index.py` 是基础索引统一入口，内部维护书籍 overview 章节表格和研究地图统计，并依次运行 `wiki_index.py` 与 `citation_index.py`；用户确认后可用 `vault_index.py --standard-workflow` 运行补链、关系同步、索引刷新和 lint；研究地图统计可用 `vault_index.py --research-map-only` 单独同步；Concept 的 `domain`、`related_count`、`related_level`、`related_stars`、`related_color` 可用 `vault_index.py --concept-fields-only` 显式同步；Instrument 的 `instrument_related_count`、`instrument_related_level`、`instrument_related_stars`、`instrument_related_color` 可用 `vault_index.py --instrument-fields-only` 显式同步；`wiki_index.py` 只维护普通 wiki 索引；`citation_index.py` 只维护 Argument 的 `citation_aliases` 与 `citation/` JSON；`citation_linker.py` 只维护正文 APA 短引用到 Argument 的链接；`wiki_linker.py` 只维护普通知识链接，并可继续在 YAML `authors` / `editors` 中把 APA 人名补成 Person wikilink。日常使用增量模式，非必要不使用 `--full-workflow`。
+脚本用于维护索引、citation 索引、补链、关系字段、source 记录和 lint 检查。`vault_index.py` 是基础索引统一入口，内部维护书籍 overview 章节表格和研究地图统计，先刷新引用索引，最后刷新 wiki 索引；用户确认后可用 `vault_index.py --standard-workflow` 运行补链、关系同步、索引刷新和 lint；研究地图统计可用 `vault_index.py --research-map-only` 单独同步；Concept 的 `domain`、`related_count`、`related_level`、`related_stars`、`related_color` 可用 `vault_index.py --concept-fields-only` 显式同步；Instrument 的 `instrument_related_count`、`instrument_related_level`、`instrument_related_stars`、`instrument_related_color` 可用 `vault_index.py --instrument-fields-only` 显式同步；`wiki_index.py` 只维护普通 wiki 索引；`citation_index.py` 维护 Argument 的 `citation_aliases`、引用索引与期刊代码注册表；`wiki_linker.py` 统一维护正文 APA 引用和普通知识链接，并可继续在 YAML `authors` / `editors` 中把 APA 人名补成 Person wikilink。日常使用增量模式，非必要不使用 `--full-workflow`。
 
 ### Python Environment
 
@@ -296,9 +295,11 @@ cd /Users/shaoyangwu/Documents/MyNotes
 .venv/bin/python3 scripts/vault_index.py --standard-workflow
 ```
 
-标准流程按依赖顺序执行：刷新引用索引 → 机械修复与书籍 overview 维护 → 刷新 wiki 检索索引 → APA 引用补链与显示修正 → 普通 wiki 补链 → 关系同步 → 更新日期、关联数量和星钻 → 刷新最终 wiki / 引用索引 → lint。关系同步后必须清除旧缓存并重算派生字段，确保一轮运行即得到最新星钻。
+标准流程按依赖顺序执行：刷新引用索引 → 机械修复与书籍 overview 维护 → 刷新 wiki 检索索引 → 统一补链（先 APA 引用与显示修正，再普通 wiki 双链） → 关系同步 → 更新日期、关联数量和星钻 → 刷新最终 wiki / 引用索引 → lint。关系同步后必须清除旧缓存并重算派生字段，确保一轮运行即得到最新星钻。
 
 基础索引保留现有的增量 APA 自动补链；普通 wiki 补链与关系同步只在显式标准 / 全量流程中运行。
+
+独立补链入口为 `.venv/bin/python3 scripts/wiki_linker.py sync`，默认先处理 APA 引用，再处理普通双链；`--citations-only` 仅处理引用，`--wiki-only` 仅处理普通双链与 YAML 人名。`--dry-run` 预览统一处理后的结果，不写文件。
 
 ### Full Sync
 
@@ -336,7 +337,7 @@ Frontmatter 中同一 YAML 映射内不得重复声明键，包括嵌套映射�
 引用显示文本的 a/b/c 后缀漂移（新增同作者同年文献后旧链接显示未更新）可自动改写：
 
 ```bash
-.venv/bin/python3 scripts/citation_linker.py --fix-display --full
+.venv/bin/python3 scripts/wiki_linker.py sync --citations-only --fix-display --full
 ```
 
 本地不使用 git pre-commit 钩子：Obsidian Git 每 10 分钟自动提交备份，钩子会让含未完成内容的备份静默失败。门禁分两层：

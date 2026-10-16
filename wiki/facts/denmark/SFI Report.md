@@ -9,7 +9,7 @@ subtype: event
 region: denmark
 fact_region: "denmark"
 fact_kind: "event"
-fact_related_count: 10
+fact_related_count: 11
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#fef3c7"
@@ -29,6 +29,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Questionnaire]]"
+  - "[[Research Synthesis]]"
 related_persons: []
 related_facts:
   - "[[Science Foundation Ireland]]"
@@ -37,7 +38,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: 2026-10-07
+updated: 2026-10-17
 ---
 ## 背景
 
@@ -67,7 +68,7 @@ updated: 2026-10-07
 
 > [!example] 相关概念／理论
 > - [[Effective Teaching]] — 报告检验清晰[[Classroom Management\|课堂管理]]、明确目标、高要求、良好社会环境、教师合作等有效教学质量是否适用于丹麦。
-> - [[Visible Learning]] — 报告可与 Hattie 的研究综合对照，用来判断以英语国家研究为主的证据是否能迁移到丹麦。
+> - [[Visible Learning]] — 报告可与 Hattie 的[[Research Synthesis|研究综合]]对照，用来判断以英语国家研究为主的证据是否能迁移到丹麦。
 > - [[Individualised Instruction]] — 报告中的教学差异化结果与 Hattie 的个别化教学结果相互呼应。
 > - [[Feedback]] — 报告中的反馈结果主要提示测量口径问题。
 

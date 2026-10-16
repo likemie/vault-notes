@@ -9,7 +9,7 @@ aliases:
 summary: "主张教育实践与政策决策应建立在严格的因果识别研究证据之上的政策与实践运动，核心争议在于实验因果识别、知识可迁移性、专业判断与地方语境之间如何平衡"
 type: concept
 domain: "educational-policy-reform"
-related_count: 154
+related_count: 155
 related_level: 15
 related_stars: "💎💎💎💎💎"
 related_color: "#ddd6fe"
@@ -95,6 +95,7 @@ related_methods:
   - "[[Statistical Significance]]"
   - "[[Meta-analysis]]"
   - "[[Classroom Observation]]"
+  - "[[Research Synthesis]]"
   - "[[Single-Case Design]]"
   - "[[Mechanism Experiments]]"
   - "[[Correlational Research]]"
@@ -382,7 +383,7 @@ Fitz-Gibbon 同时指出，Anderson and Biddle（1991）已观察到政策制定
 
 > [!timeline] 循证医学的制度化基础
 > - **1972** — Archie Cochrane 出版 *Effectiveness and Efficiency*，倡导[[Randomised Controlled Trials\|随机对照试验]]及其[[Systematic Review\|系统综述]]和文献记录，推动了 Cochrane 协作网（Cochrane Collaboration）的建立（Maynard & Chalmers, 1997）。Cochrane 协作网后来成为全球性的循证医学制度基础设施（pp.48–49）
-> - **1993** — Cochrane 协作网正式成立，将系统综述和[[Meta-analysis\|元分析]]制度化为医学证据综合的标准方法
+> - **1993** — Cochrane 协作网正式成立，将系统综述和[[Meta-analysis\|元分析]]制度化为医学[[Research Synthesis|证据综合]]的标准方法
 > - **1990s 后期** — 循证实践进入社会政策、社会工作（MacDonald, 1997）和教育领域（Fitz-Gibbon, 1997）。SPECTR（社会、心理、教育和犯罪学控制试验注册库）后来转移至 Campbell 协作网（[[Campbell Collaboration]]），成为 Cochrane 协作网在教育和社会科学领域的对应机构（pp.25–30）
 > - **1997** — Carol Fitz-Gibbon 提出循证方法的三个必要性论证：（a）挑战未经证实的实践的推行；（b）解决问题、避免有害程序；（c）创造改进，引导更有效的学习。她主张证据应检验[[Effect Size\|效应量]]而非[[Statistical Significance\|统计显著性]]（pp.52–53）
 > - **2000** — 伦敦大学 [[EPPI-Centre]]、杜伦大学 CEM 中心等机构成为循证教育研究的前沿。Morrison（2001）则指出"什么有效"这一宣称本身是可疑的（pp.23–46）
@@ -512,7 +513,7 @@ Fitz-Gibbon 同时指出，Anderson and Biddle（1991）已观察到政策制定
 > *Gleichzeitig ist ein einfacher Übertrag von Erkenntnissen der Forschungen aus der Medizin auf Transferaktivitäten im Bildungsbereich unplausibel – unter anderem, weil Forschungen in der Medizin häufiger generalisierbar sind als in der Erziehungswissenschaft, wo der spezifische und komplexe Forschungsgegenstand Bildungspraxis analoge Generalisierungsmöglichkeiten erschwert.*
 
 > [!citation-card] 从可见实践走向有依据的实践：中央证据库倡议
-> 唯有建立数据完全公开透明、受公共资助的中央初级证据数据库，循证教育才能摆脱商业期刊[[Publication Bias|发表偏倚]]与二阶粗暴汇总的误导。与其依赖充满文献重叠与方法学黑箱的[[Meta-meta-analysis|二级元分析]]，不如在统一[[Data Infrastructure|数据基础设施]]上直接开展一级初级研究的多水平证据综合，真正实现从“可见的实践”走向“有依据的实践”。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 33–34)]]
+> 唯有建立数据完全公开透明、受公共资助的中央初级证据数据库，循证教育才能摆脱商业期刊[[Publication Bias|发表偏倚]]与二阶粗暴汇总的误导。与其依赖充满文献重叠与方法学黑箱的[[Meta-meta-analysis|二级元分析]]，不如在统一[[Data Infrastructure|数据基础设施]]上直接开展一级初级研究的多水平[[Research Synthesis|证据综合]]，真正实现从“可见的实践”走向“有依据的实践”。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 33–34)]]
 >
 > *Von der sichtbaren zur fundierten [[Praxis]] bedarf es einer zentralen, öffentlich geförderten Datenbank für Primärstudien, die direkte Synthesen ermöglicht und die Abhängigkeit von undurchsichtigen Meta-Metaanalysen überwindet.*
 
@@ -574,6 +575,6 @@ Fitz-Gibbon 同时指出，Anderson and Biddle（1991）已观察到政策制定
 > [!evidence-grid-a] 德国案例索引
 > - [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] — 追踪德国四个联邦州教育部循证政策实践，揭示数据使用如何从 PISA 2000 初期的政治战术性与象征性合法化应对，逐步演进为具有假设检验、专业质保与弱势扶持特征的日常行政常规。
 > - [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] — 系统反思德语区新治理工具在学校基层的成效停滞，批判清算中心底层转移作用假设（Wirkannahmen）的反思贫困，主张构建教育科学作为转移科学（[[Transfer Science\|Transferwissenschaft]]）。
-> - [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] — 发表于《德国教育学杂志》（ZfE），对在德语区广泛传播的《可见的学习》循证神话进行数理与[[Meta-analysis|元分析]]取证解构，直面二级证据汇总的同质性破产、除数混淆与重叠缺陷，提出建立公共中央标准化证据库并转向一级直接证据综合的制度重构路径。
+> - [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] — 发表于《德国教育学杂志》（ZfE），对在德语区广泛传播的《可见的学习》循证神话进行数理与[[Meta-analysis|元分析]]取证解构，直面二级证据汇总的同质性破产、除数混淆与重叠缺陷，提出建立公共中央标准化证据库并转向一级直接[[Research Synthesis|证据综合]]的制度重构路径。
 
 ---

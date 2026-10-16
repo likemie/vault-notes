@@ -7,7 +7,7 @@ title: "Argument_Kazamias_2009_ForgottenThemes"
 argument_key: "Argument_Kazamias_2009_ForgottenThemes"
 argument_display_title: "Forgotten Men, Forgotten Themes: The Historical-philosophical-cultural and Liberal Humanist Motif in Comparative Education"
 argument_kind: "book-chapter"
-argument_related_count: 85
+argument_related_count: 86
 argument_related_level: 8
 argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -113,6 +113,7 @@ related_persons:
   - "[[René Descartes]]"
   - "[[Jean-Jacques Rousseau]]"
   - "[[Johann Heinrich Pestalozzi]]"
+  - "[[Roy Nash]]"
   - "[[Joseph Lauwerys]]"
   - "[[Friedrich Schneider]]"
 related_facts:
@@ -125,7 +126,7 @@ related_theories:
   - "[[Human Capital Theory]]"
 status: draft
 created: 2026-09-06
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # Argument_Kazamias_2009_ForgottenThemes
 
@@ -408,7 +409,7 @@ updated: 2026-10-16
 > - **比较维度的压缩与[[Epoché\|悬置]]（Truncated Comparative Aspect）** 乌利希在结构上主要以国别为单位纵向串联历史事实，缺乏明确横向对照的跨国分析变量；读者必须在通读汇纂的历史材料后自行完成比较操作。（Kazamias, 1963: 387; p.51）
 > - **通论历史学家与经验比较学者的身份张力** 严格而言，乌利希秉持西方两千年思想史视界，在学术底色上更接近宏观文明史学家与教育哲学家，其研究重心在于制度的精神坐标而非细部变量对质。（pp.51–52）
 
-尽管在技术操作上存在比较维度的悬置，但保罗·纳什在其悼念文献中指出，乌利希为学科确立了四大人文精神支柱：（Nash, 1977; p.52）
+尽管在技术操作上存在比较维度的悬置，但保罗·[[Roy Nash|纳什]]在其悼念文献中指出，乌利希为学科确立了四大人文精神支柱：（Nash, 1977; p.52）
 
 > [!quad-grid] 乌利希人文主义比较范式的四大支柱
 > - **始终保持以人（Person）为中心** 拒绝将研究中心置于冷冰冰的课程方案、学科[[Disciplina and Doctrina\|规训]]、机构设置或量化指标上，坚信教育的最终目的在于人的全人生成。

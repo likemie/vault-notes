@@ -8,7 +8,7 @@ summary: "由 Gough（2007）提出的系统综述证据评价方法，通过方
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 37
+method_related_count: 38
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -50,6 +50,7 @@ related_methods:
   - "[[Intercoder Agreement]]"
   - "[[Effect Size]]"
   - "[[Inverse-Variance Weighting]]"
+  - "[[Research Synthesis]]"
   - "[[Critical Review]]"
   - "[[Correlational Research]]"
 related_instruments:
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-14'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Weight of Evidence Framework
@@ -153,7 +154,7 @@ updated: 2026-10-16
 > |:-----|:-----|:-----|
 > | [[Systematic Review]] | 前置框架方法 | WoE 框架嵌入系统综述内部，是系统综述质量评价阶段的核心操作工具。 |
 > | [[Evidence Standards]] | Concept | WoE 是循证政策中证据标准多维化的方法学实现，直接服务于证据适切性（Fit for Purpose）判断。 |
-> | [[Evidence Ecosystem]] | Concept | WoE 评价实践构成证据综合层级的微观质量管控机制，支撑证据生态中从初级研究向综述结论的可信转化。 |
+> | [[Evidence Ecosystem]] | Concept | WoE 评价实践构成[[Research Synthesis\|证据综合]]层级的微观质量管控机制，支撑证据生态中从初级研究向综述结论的可信转化。 |
 > | [[Framework Synthesis]] | 综合技术 | 两者均支持跨设计综合；WoE 提供单项研究的权重裁决，框架综合提供跨研究的结构化内容映射。 |
 > | [[Critical Review]] | 替代方法 | 批判性综述在深度文献解构上与 WoE 有重叠，但侧重概念批判而非[[Operationalization\|操作化]]权重评定。 |
 > | [[Mixed Methods Appraisal Tool]] | 补充工具 | MMAT 侧重质性与[[Mixed Methods Research\|混合方法研究]]的设计规范评价；WoE 在此基础上进一步引入研究与综述问题的情境适切性裁决。 |

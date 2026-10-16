@@ -8,7 +8,7 @@ aliases:
 summary: "由国际同行方法学专家组研制的系统综述与元分析优先报告条目清单，包含27项核心核查条目与四阶段文献流转图，为证据综合提供从数据库检索、去重、初筛、全文合格性审阅到最终纳入全流程的方法学透明度与报告合规性标准。"
 type: instrument
 instrument_type: checklist
-instrument_related_count: 38
+instrument_related_count: 39
 instrument_related_level: 3
 instrument_related_stars: "💎"
 instrument_related_color: "#e5e7eb"
@@ -69,6 +69,7 @@ related_methods:
   - "[[Intervention Research]]"
   - "[[Critical Review]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Research Synthesis]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -84,7 +85,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # PRISMA
@@ -225,6 +226,6 @@ updated: 2026-10-16
 > |---|---|---|---|---|---|
 > | QUOROM 声明（初版） | 英语（全球） | 医学[[Randomised Controlled Trials\|随机对照试验]][[Meta-analysis\|元分析]] | 18 项 | 首次确立元分析报告核心核查清单与流程图标准 | Moher et al. (1999) |
 > | PRISMA 2009 声明 | 英语（全球） | 医学与社会科学[[Systematic Review\|系统综述]]与元分析 | 27 项 | 将标准由元分析扩展至所有系统评价，更名为 PRISMA 并确立四阶段流程图 | Moher et al. (2009) |
-> | PRISMA 2020 现行版 | 英语（全球） | 全学科系统综述、元分析与证据综合 | 27 项 | 全面反映检索技术进步、[[Preregistration\|预注册]]规范、偏倚风险评估演进及数据代码完全共享要求 | Page et al. (2021) |
+> | PRISMA 2020 现行版 | 英语（全球） | 全学科系统综述、元分析与[[Research Synthesis\|证据综合]] | 27 项 | 全面反映检索技术进步、[[Preregistration\|预注册]]规范、偏倚风险评估演进及数据代码完全共享要求 | Page et al. (2021) |
 > | PRISMA-S 检索扩展版 | 英语（全球） | 循证医学与社科[[Literature Search\|文献检索]]人员与信息学家 | 16 项 | 专门针对文献检索策略、多源数据库与未发表灰色文献检索透明度的深度扩展 | Rethlefsen et al. (2021) |
 > | PRISMA-ScR 范围综述版 | 英语（全球） | 开展范围综述（Scoping Reviews）的研究团队 | 22 项 | 针对无定量合并与偏倚风险评估的范围综述量身定制的报告规范 | Tricco et al. (2018) |

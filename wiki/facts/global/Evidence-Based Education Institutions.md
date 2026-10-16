@@ -8,7 +8,7 @@ subtype: event
 region: global
 fact_region: "global"
 fact_kind: "event"
-fact_related_count: 36
+fact_related_count: 37
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#fef3c7"
@@ -26,6 +26,7 @@ related_concepts:
 related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Systematic Review]]"
+  - "[[Research Synthesis]]"
   - "[[Intervention Research]]"
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
@@ -62,7 +63,7 @@ related_persons:
 confidence: medium
 status: draft
 created: 2026-07-14
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Evidence-Based Education Institutions
@@ -87,7 +88,7 @@ updated: 2026-10-16
 >
 > - **第一代（1990 年代）：从医学到教育的制度迁移**
 >
->   Cochrane 协作网（1993 年）将[[Systematic Review\|系统综述]]制度化为医学证据综合的标准方法。其后循证实践扩散至社会政策与教育，[[EPPI-Centre]]（1995 年）和 [[Campbell Collaboration]]（2000 年）先后成立，成为教育和社会科学领域的对应机构。这一阶段以系统综述方法论为驱动、以大学为依托的学术中心模式为核心特征（pp.336–338）。
+>   Cochrane 协作网（1993 年）将[[Systematic Review\|系统综述]]制度化为医学[[Research Synthesis|证据综合]]的标准方法。其后循证实践扩散至社会政策与教育，[[EPPI-Centre]]（1995 年）和 [[Campbell Collaboration]]（2000 年）先后成立，成为教育和社会科学领域的对应机构。这一阶段以系统综述方法论为驱动、以大学为依托的学术中心模式为核心特征（pp.336–338）。
 >
 > - **第二代（2000 年代）：政府主导的清算中心与政策工具**
 >
@@ -124,7 +125,7 @@ updated: 2026-10-16
 
 以[[Systematic Review|系统综述]]方法论开发、[[Research Utilization|证据使用]]研究为核心职能的学术机构：
 
-> [!ref-table] 研究综合与证据中心
+> [!ref-table] [[Research Synthesis|研究综合]]与证据中心
 > | 机构 | 简介 |
 > |---|---|
 > | [证据知情政策与实践信息与协调中心](https://eppi.ioe.ac.uk/cms/) [[EPPI-Centre]] | 伦敦大学学院教育学院旗下的系统综述方法论开发与证据使用研究中心，由 [[David Gough]] 教授领导 |
@@ -182,5 +183,5 @@ updated: 2026-10-16
 > | [[Evidence-Based Education]] | 循证教育概念 |
 > | [[Educational Evidence Clearinghouses]] | 证据清算中心的概念化讨论 |
 > | [[Systematic Review]] | 各类机构共同依赖的核心方法论 |
-> | [[Meta-analysis]] | 研究综合的核心统计方法 |
+> | [[Meta-analysis]] | [[Research Synthesis\|研究综合]]的核心统计方法 |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Cohen et al. (2011, Ch17)]] | 首次系统列举循证教育制度基础设施的文献 |

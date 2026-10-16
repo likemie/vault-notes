@@ -10,9 +10,9 @@ summary: "处理同一原始研究内报告多个相关效应量所致统计依�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 39
-method_related_level: 3
-method_related_stars: "💎"
+method_related_count: 40
+method_related_level: 4
+method_related_stars: "💎⭐"
 method_related_color: "#dcfce7"
 tags:
   - meta-analysis
@@ -43,6 +43,7 @@ related_methods:
   - "[[Hierarchical Linear Model]]"
   - "[[Effect Size]]"
   - "[[Between-Study Variance]]"
+  - "[[Research Synthesis]]"
   - "[[Confidence Interval]]"
   - "[[Meta-regression]]"
   - "[[Random-Effects Model]]"
@@ -66,7 +67,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-08-20
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Three-Level Meta-Analysis
@@ -80,7 +81,7 @@ updated: 2026-10-16
 
 > [!method-scope] 方法范围
 > - **研究对象** 包含多个非独立效应量的实证研究文献集（如同一研究报告多个[[Dependent Variable\|结果变量]]、子样本、[[Construct\|构念]]维度或测量时间点）。
-> - **问题类型** 适合回答跨研究综合效应估计、真实[[Heterogeneity\|异质性]]分解、研究内与研究间特征对效应量的调节作用检验等问题。
+> - **问题类型** 适合回答跨[[Research Synthesis|研究综合]]效应估计、真实[[Heterogeneity\|异质性]]分解、研究内与研究间特征对效应量的调节作用检验等问题。
 > - **[[Unit of Analysis\|分析单位]]** 包含三层嵌套结构：第一层为具体效应量（Effect Size），第二层为原始研究（Study），第三层为更高层级的聚类单位或跨研究总体。
 > - **输出形式** 汇总加权效应量估计值、95% [[Confidence Interval\|置信区间]]（Confidence Interval, CI）、各层方差分量（$\tau_{(2)}^2$ 与 $\tau_{(3)}^2$）、异质性比例指标（$I_{(1)}^2$、$I_{(2)}^2$、$I_{(3)}^2$）、多[[Variable\|变量]][[Meta-regression\|元回归]][[Interaction Effect\|调节效应]]检验统计量（$F$ 或 $\chi^2$）。
 
@@ -100,7 +101,7 @@ updated: 2026-10-16
 > - **不声称回答的问题** 不能仅凭观察性效应量的[[Meta-analysis\|元分析]]关联直接推断因果机制，也不能自动纠正原始研究内在的方法学偏倚。
 
 > [!method-stack] 方法层级
-> - **研究设计** [[Systematic Review\|系统综述]]（Systematic Review）与量化证据综合设计。
+> - **研究设计** [[Systematic Review\|系统综述]]（Systematic Review）与量化[[Research Synthesis|证据综合]]设计。
 > - **数据收集** 基于电子数据库检索、[[PRISMA]] 流程筛选以及标准化[[Qualitative Codebook\|编码手册]]提取相关系数、标准化均数差或回归系数。
 > - **分析方法** 多层[[Random-Effects Model|随机效应]]建模、受限最大似然估计（REML）、多变量[[Meta-regression\|元回归]]调节分析、逐一剔除敏感性分析。
 > - **辅助技术** [[Effect Size Conversion\|效应量转换]]（如将回归系数 $\beta$ 转换为相关系数 $r$、Fisher\'s $z$ 变换）、三层 Egger 回归检验、标准化残差异常值诊断。

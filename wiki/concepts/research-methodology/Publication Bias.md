@@ -8,10 +8,10 @@ aliases:
 summary: "正面或显著结果比零结果或负面结果更可能被发表或传播的系统性倾向，导致已发表文献库系统性高估干预的真实有效性；元分析中常结合漏斗图、Egger检验、剪补法与失安全数进行综合诊断与稳健性校正"
 type: concept
 domain: "research-methodology"
-related_count: 49
-related_level: 4
-related_stars: "💎⭐"
-related_color: "#fdba74"
+related_count: 52
+related_level: 5
+related_stars: "💎⭐⭐"
+related_color: "#fecdd3"
 tags:
   - publication-bias
   - file-drawer-effect
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Preregistration]]"
   - "[[Evaluator Independence]]"
+  - "[[Learning Styles]]"
   - "[[Cumulative Knowledge Base]]"
   - "[[Visible Learning]]"
   - "[[Epistemic Cognition]]"
@@ -52,11 +53,13 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-meta-analysis]]"
   - "[[Systematic Review]]"
+  - "[[Research Synthesis]]"
   - "[[Random-Effects Model]]"
   - "[[Experimental Research]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Correlational Research]]"
 related_persons:
+  - "[[Ivan Snook]]"
   - "[[John Hattie]]"
   - "[[Christof Wecker]]"
 related_facts:
@@ -125,7 +128,7 @@ updated: 2026-10-17
 > [[Argument_Wolf_2020_JREE\|Wolf et al. (2020, p. 429)]] 与 [[Argument_Revai_2022_ChangingLandscape\|Révai (2022, p. 22)]] 揭示了教育研究中发表偏倚的多重动因及其系统性危害：
 > - **学术发表压力与期刊偏好** 研究者面临晋升与学术考评压力，商业学术期刊系统性偏爱“引人注目、反常识、显著”的理论证实性研究，零效应与复现研究往往被拒稿。
 > - **资助者与开发者的利益驱动** 商业教学产品提供方与项目方有极强动机压制负面评估；即使是受雇的评估团队，也容易因顾及委托方关系而弱化不利结论。
-> - **商业化教改热潮与药企式偏倚镜像（Commercial Educational Fads）** [[Argument_Snook_2009_NZJES|Snook et al. (2009, p. 97)]] 指出，教育实证[[Meta-analysis|元分析]]严重依赖公开发表文献，其偏倚机制与医药工业中药企资助试验如出一辙：在利润丰厚的商业化教改热潮中（如商业包装的“学习风格”测评、咨询方案与特定教材），未能证实预期积极效果的独立研究往往被束之高阁（文件抽屉效应），而公开见刊的大多是带有商业或理论偏好的正面成果。这种出版过滤致使元分析纳入的文献天然带有系统性正向偏差，进而诱导政策制定者做出盲目采纳昂贵商业项目的错误决策。
+> - **商业化教改热潮与药企式偏倚镜像（Commercial Educational Fads）** [[Argument_Snook_2009_NZJES|Snook et al. (2009, p. 97)]] 指出，教育实证[[Meta-analysis|元分析]]严重依赖公开发表文献，其偏倚机制与医药工业中药企资助试验如出一辙：在利润丰厚的商业化教改热潮中（如商业包装的“[[Learning Styles|学习风格]]”测评、咨询方案与特定教材），未能证实预期积极效果的独立研究往往被束之高阁（文件抽屉效应），而公开见刊的大多是带有商业或理论偏好的正面成果。这种出版过滤致使元分析纳入的文献天然带有系统性正向偏差，进而诱导政策制定者做出盲目采纳昂贵商业项目的错误决策。
 > - **阻滞[[Cumulative Knowledge Base\|累积性知识库]]建构** 出版生态对显著正向结果的偏爱导致实证证据碎片化，排斥了零结果与情境复现研究，阻碍了教学改进所需[[Cumulative Knowledge Base\|累积性知识库]]（Cumulative Knowledge Base）的生成，使循证决策者难以辨识真实可靠的有效实践（Burkhardt & Schoenfeld, 2003）。
 
 ### 2. 诊断与统计校正方法族
@@ -158,7 +161,7 @@ updated: 2026-10-17
 > **发表偏倚对[[Developer Effect\|开发者效应]]的实质驱动** 运用权重函数模型检验 [[What Works Clearinghouse\|WWC]] 实证库证实，发表偏倚解释了约 66% 的开发者效应。商业出版生态对显著正面结果的选择性接收，使得独立评估的零效应更难见刊，在未经严密校正的情况下，单纯依赖公开文献综合得出的教育干预决策潜藏巨大的虚假有效性风险。[[Argument_Wolf_2020_JREE\|(Wolf et al., 2020, p. 442)]]
 
 > [!claim] [[Argument_Snook_2009_NZJES|Snook et al. (2009, p. 97)]]; [[Argument_Hattie_2010_NZJES|Hattie (2010, p. 88)]]
-> **商业偏倚镜像与宏观二阶综合的偏倚继承** 约翰·斯努克等学者指出，商业学术出版对正向结果的偏好与医药研发中的药企偏倚高度相似；当缺乏对未发表文献的严格检索与事后统计校正时，进入[[Meta-analysis|元分析]]的公开文献天然带有正向偏向。[[John Hattie|哈蒂]]在《[[Visible Learning|可见的学习]]》中直接对 800 余项元分析进行二阶合并，却未能对这些元分析是否经过[[Funnel Plot|漏斗图]]或[[Trim and Fill Method|剪补法]]校正进行系统审查。尽管哈蒂（2010）抗辩称同行评审本身就是一种质量控制，但批评者指出同行评审机制恰恰是优先发表显著正向结果、加剧文件抽屉效应的制度源头；二阶综合非但未能消除发表偏倚，反而使底层文献池的系统性虚高在宏观排行榜中被固化和合法化。
+> **商业偏倚镜像与宏观二阶综合的偏倚继承** 约翰·[[Ivan Snook|斯努克]]等学者指出，商业学术出版对正向结果的偏好与医药研发中的药企偏倚高度相似；当缺乏对未发表文献的严格检索与事后统计校正时，进入[[Meta-analysis|元分析]]的公开文献天然带有正向偏向。[[John Hattie|哈蒂]]在《[[Visible Learning|可见的学习]]》中直接对 800 余项元分析进行二阶合并，却未能对这些元分析是否经过[[Funnel Plot|漏斗图]]或[[Trim and Fill Method|剪补法]]校正进行系统审查。尽管哈蒂（2010）抗辩称同行评审本身就是一种质量控制，但批评者指出同行评审机制恰恰是优先发表显著正向结果、加剧文件抽屉效应的制度源头；二阶综合非但未能消除发表偏倚，反而使底层文献池的系统性虚高在宏观排行榜中被固化和合法化。
 
 ---
 
@@ -200,7 +203,7 @@ updated: 2026-10-17
 > - **1991 — Rosenthal [[Fail-Safe N|经典失安全数]]** 提出量化文件抽屉效应的经典方法，通过计算推翻显著结论所需零效应研究数量评估证据稳健性。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch17, p. 355)]]
 > - **1995 — Vevea & Hedges 权重函数模型** 提出针对[[Meta-analysis|元分析]]中不同 p 值区间赋予权重的参数化统计校正模型。
 > - **2000 — Duval & Tweedie [[Trim and Fill Method|剪补法]]普及** 提出基于对称性的非参数剪除与虚拟填补算法，成为国际元分析审计发表偏倚的标准配置。
-> - **2009 — Snook et al. 药企镜像批判与二阶偏倚累积** 约翰·斯努克等学者指出教育元分析严重依赖公开发表文献，其偏倚机制与医药工业中药企压制负面试验如出一辙；批判宏观二阶综合在未对一阶研究开展[[Funnel Plot|漏斗图]]或剪补法审查的情况下直接合并均值，使文件抽屉效应在层级综合中被放大。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 97)]]
+> - **2009 — Snook et al. 药企镜像批判与二阶偏倚累积** 约翰·[[Ivan Snook|斯努克]]等学者指出教育元分析严重依赖公开发表文献，其偏倚机制与医药工业中药企压制负面试验如出一辙；批判宏观二阶综合在未对一阶研究开展[[Funnel Plot|漏斗图]]或剪补法审查的情况下直接合并均值，使文件抽屉效应在层级综合中被放大。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 97)]]
 > - **2010 — Hattie 同行评审质控辩护** [[John Hattie|约翰·哈蒂]]回应批评，援引 Schulze (2004) 说明控制偏倚是元分析的核心关切，并主张高度依赖公开发表文献恰恰是通过同行评审机制实现质量控制的有效途径。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, p. 88)]]
 > - **2016 — Wecker et al. 批判[[Meta-meta-analysis|二阶元分析]]偏倚倍增与中央[[Data Infrastructure|数据基础设施]]方案** 揭示商业期刊篇幅与显著性偏好对实证元数据的剥离，指出二阶元分析复合放大发表偏倚，提出解耦商业出版的中央标准化证据数据库并倡导将数据存缴计入学术成果清单（Publikationslisten）。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 34–36)]]
 > - **2020 — Wolf et al. 解构[[Developer Effect|开发者效应]]** 将权重函数模型应用于开发者与独立评估[[Effect Size|效应量]]比较，证实发表偏倚贡献了开发者效应的 66%。[[Argument_Wolf_2020_JREE|(Wolf et al., 2020, p. 442)]]
@@ -217,8 +220,8 @@ updated: 2026-10-17
 > - **官方清算机构（[[What Works Clearinghouse|WWC]]）数据的特殊性** 由于美国联邦项目资助合同强制要求提交结题评估报告，美国强效清算中心（WWC）库容中包含了大量独立评估的零效应报告；因此一般商业期刊文献库中的发表偏倚通常远比 WWC 数据严重。
 
 > [!critique] 同行评审质控神话与二阶综合中的偏倚累加
-> 围绕宏观证据综合是否有效控制了发表偏倚，学界爆发了尖锐的方法论交锋：
-> - **同行评审的筛选假象** [[John Hattie|哈蒂]]（[[Argument_Hattie_2010_NZJES|Hattie, 2010, p. 88]]）辩称，依赖已发表文献并通过同行评审把关是“最大化质量控制”的合理手段。然而，斯努克等（[[Argument_Snook_2009_NZJES|Snook et al., 2009, p. 97]]）针锋相对地指出，同行评审制度本身正是诱发文件抽屉效应的核心机制之一：期刊编辑与同行评审专家系统性偏爱具有[[Statistical Significance|统计显著性]]与新颖结论的研究，导致大量严密执行但得出零效应的实证研究被拒之门外。将同行评审等同于“免受发表偏倚”属于严重的[[Epistemology|认识论]]误判。
+> 围绕宏观[[Research Synthesis|证据综合]]是否有效控制了发表偏倚，学界爆发了尖锐的方法论交锋：
+> - **同行评审的筛选假象** [[John Hattie|哈蒂]]（[[Argument_Hattie_2010_NZJES|Hattie, 2010, p. 88]]）辩称，依赖已发表文献并通过同行评审把关是“最大化质量控制”的合理手段。然而，[[Ivan Snook|斯努克]]等（[[Argument_Snook_2009_NZJES|Snook et al., 2009, p. 97]]）针锋相对地指出，同行评审制度本身正是诱发文件抽屉效应的核心机制之一：期刊编辑与同行评审专家系统性偏爱具有[[Statistical Significance|统计显著性]]与新颖结论的研究，导致大量严密执行但得出零效应的实证研究被拒之门外。将同行评审等同于“免受发表偏倚”属于严重的[[Epistemology|认识论]]误判。
 > - **二阶综合的偏倚无防线继承** 在一阶[[Meta-analysis|元分析]]中，研究者通常借助漏斗图、Egger 检验与剪补法主动探查并校正偏倚；但在跨数百项元分析的宏观二阶综合中，若不对底层元分析的偏倚控制状态进行逐项审计，未受校正的发表偏倚就会作为既定输入流入数据库，使得最终合成的宏观[[Effect Size|效应量]]（如 $d > 0.40$ 的 [[Zone of Desired Effects|Hinge Point]]）系统性虚高。
 
 > [!critique] 基础设施层面的系统性治理方案：中央证据数据库

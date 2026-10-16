@@ -9,7 +9,7 @@ aliases:
 summary: "指将属于特定逻辑或本体范畴的事物错误归入另一范畴并按后者的规则处理的哲学与方法学谬误；在教育研究与循证排名中，特指将制度条件、个体特征、长周期综合方案与短周期微观变体等异质且不可通约的因素在单一有效性排行榜上强行并列与比较的范畴通约失范"
 type: concept
 domain: "educational-philosophy"
-related_count: 31
+related_count: 32
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -41,6 +41,7 @@ related_concepts:
 related_theories:
   - "[[Critical Realism]]"
 related_methods:
+  - "[[Research Synthesis]]"
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
   - "[[Sample Size Determination]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-10-16
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Category Mistake
@@ -71,7 +72,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> 范畴错误（Category Mistake），也称范畴谬误（Category Error），最初由牛津日常语言哲学家[[Gilbert Ryle|吉尔伯特·赖尔]]（Gilbert Ryle, 1949）在《心的概念》中提出，指将属于特定逻辑或[[Ontology|本体论]]范畴的事实、属性或概念，错误地归入另一范畴并按照后者的逻辑框架进行述谓与处理的思维谬误。在教育实证与证据综合方法论批判中，克里斯托夫·[[Christof Wecker|韦克尔]]（Christof Wecker）等人将其扩展为关键的方法论批判判据，特指将宏观制度条件、个体身心特质、长周期综合教学模式与短周期微观教学变体等对照基线与时间跨度完全不可比的异质教育因素，强行在单一[[Effect Size|效应量]]排行榜上进行并列、排序与替代性取舍的范畴[[Commensuration|通约]]失范。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 33–34)]]
+> 范畴错误（Category Mistake），也称范畴谬误（Category Error），最初由牛津日常语言哲学家[[Gilbert Ryle|吉尔伯特·赖尔]]（Gilbert Ryle, 1949）在《心的概念》中提出，指将属于特定逻辑或[[Ontology|本体论]]范畴的事实、属性或概念，错误地归入另一范畴并按照后者的逻辑框架进行述谓与处理的思维谬误。在教育实证与[[Research Synthesis|证据综合]]方法论批判中，克里斯托夫·[[Christof Wecker|韦克尔]]（Christof Wecker）等人将其扩展为关键的方法论批判判据，特指将宏观制度条件、个体身心特质、长周期综合教学模式与短周期微观教学变体等对照基线与时间跨度完全不可比的异质教育因素，强行在单一[[Effect Size|效应量]]排行榜上进行并列、排序与替代性取舍的范畴[[Commensuration|通约]]失范。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 33–34)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示概念归类、本体定位与实证可比性前提的根本断裂，强调事物所属逻辑范畴决定了其合法的述谓规则与测量比较边界。

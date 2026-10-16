@@ -7,10 +7,10 @@ aliases:
 summary: "由 Justin Parkhurst（2017）提出的公共政策与教育治理理论，主张超越技术理性对证据‘何者有效’的工具主义迷思，确立证据利用在程序正当性、透明度、多元代表性与可争辩性维度的治理规范，使科学证据与民主价值审议达成有效平衡。"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 29
-theory_related_level: 2
-theory_related_stars: "⭐⭐"
-theory_related_color: "#e0e7ff"
+theory_related_count: 30
+theory_related_level: 3
+theory_related_stars: "💎"
+theory_related_color: "#ede9fe"
 tags:
   - theory/educational-policy-reform
   - theme/evidence-based-policy
@@ -43,6 +43,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
   - "[[Experimental Research]]"
+  - "[[Research Synthesis]]"
   - "[[Process Tracing]]"
   - "[[Correlational Research]]"
 related_instruments: []
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Good Governance of Evidence
@@ -153,7 +154,7 @@ updated: 2026-10-16
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
 > - **[[Ontology\|本体论]]** 将公共决策视作制度规范、政治权力和社会价值交织的复杂社会建构过程，否认存在脱离社会情境与规范价值的纯粹中立政策客体。
 > - **[[Epistemology\|认识论]]** 秉持[[Critical Realism\|批判实在论]]与民主审议认识论；认为科学证据能够揭示现实因果倾向，但对证据的阐释、权衡与转化必须通过公共交往理性与主体间审议达成共识。
-> - **方法含义** 倡导多方法融合与多元证据综合，强调在宏观制度分析中结合政策文本分析、权力结构解构与决策协商[[Process Tracing|过程追踪]]。
+> - **方法含义** 倡导多方法融合与多元[[Research Synthesis|证据综合]]，强调在宏观制度分析中结合政策文本分析、权力结构解构与决策协商[[Process Tracing|过程追踪]]。
 > - **不能直接推出的东西** 不能直接断定某一特定政策方案或教学干预是否在实质成效上绝对优于替代方案，亦不能替代具体的因果识别。
 
 > [!theory-use] 如何用于研究

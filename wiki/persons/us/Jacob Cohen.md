@@ -7,7 +7,7 @@ summary: "美国心理学家与统计学家，行为科学统计功效分析与�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 25
+person_related_count: 26
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -41,6 +41,7 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Statistical Significance]]"
   - "[[Meta-analysis]]"
+  - "[[Research Synthesis]]"
   - "[[Standard Error]]"
   - "[[Correlational Research]]"
 related_instruments: []
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-05
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Jacob Cohen
@@ -123,7 +124,7 @@ updated: 2026-10-16
 > [!influence-path] 影响路径
 > - **方法路径** Cohen's $d$ 与统计功效理论重塑了社会科学实证研究设计，确立了事前规划[[Sample Size Determination|样本量]]以满足统计功效标准的规程，成为[[Meta-analysis|元分析]]中合并组间差异的核心度量指标。
 > - **政策与综述路径** 科恩的指标体系经由[[John Hattie|约翰·哈蒂]]的《[[Visible Learning|可见的学习]]》被二次包装为面向教育决策者的干预排序工具；哈蒂将 $d = 0.40$ 武断设为“期望发展[[Zone of Desired Effects|铰接点]]”，但实际上该数值与显著性检验的关系高度依赖样本量（例如以 $n=25$ 为例，$d \approx 0.412$ 方对应双侧 $t$ 检验的 $p \approx 0.05$ 临界点）。[[Argument_Allerup_2015_Paideia|(Allerup, 2015, p. 45)]]
-> - **跨测度混同批评** [[Christof Wecker|韦克尔]]（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016, pp. 26–27]]）指出，在宏观证据综合中，研究者常常将科恩的 Cohen's $d$（合并标准差作除数）、[[Gene Glass|吉恩·格拉斯]]的 Glass's $\Delta$（对照组标准差作除数）与赫奇斯的 Hedges' $g$（小样本偏倚校正）在未作数学换算的情况下混杂合并；当方差不齐时，这种盲目合并直接导致[[Effect Size|效应量]]测度失真。
+> - **跨测度混同批评** [[Christof Wecker|韦克尔]]（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016, pp. 26–27]]）指出，在宏观[[Research Synthesis|证据综合]]中，研究者常常将科恩的 Cohen's $d$（合并标准差作除数）、[[Gene Glass|吉恩·格拉斯]]的 Glass's $\Delta$（对照组标准差作除数）与赫奇斯的 Hedges' $g$（小样本偏倚校正）在未作数学换算的情况下混杂合并；当方差不齐时，这种盲目合并直接导致[[Effect Size|效应量]]测度失真。
 
 ---
 

@@ -45,6 +45,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Intraclass Correlation Coefficient]]"
+  - "[[Research Synthesis]]"
   - "[[Sample Size Determination]]"
   - "[[Violin Plot]]"
   - "[[UpSet Plot]]"
@@ -62,14 +63,14 @@ sources:
 part_of:
 status: draft
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-17
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Jansen_2026_EPR"
 argument_key: "Argument_Jansen_2026_EPR"
 argument_display_title: "Automated data extraction by large language models: Assessing accuracy in comparison to human experts using the example of Visible Learning"
 argument_kind: "journal-article"
-argument_related_count: 30
+argument_related_count: 31
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -89,7 +90,7 @@ issuing_organization: ""
 > 在教育心理学与实证教育研究中，[[Meta-meta-analysis\|二阶元分析]]（Second-Order Meta-Analyses, SOMAs）通过定量汇总大量一阶[[Meta-analysis\|元分析]]结果，能够系统评估宏观干预效能、比较跨领域影响要素并确立[[Effect Size\|效应量]]基准（如[[John Hattie\|约翰·哈蒂]]（John Hattie）的《[[Visible Learning\|可见的学习]]》项目）。然而，二阶元分析面临沉重的时间与人力成本壁垒：系统性从学术文献全文中提取统计结果单篇耗时达 125–172 分钟（中等综述需 44–66 小时，大型综述超 300 小时）。前沿大语言模型（Large Language Models, LLMs）能否胜任二阶元分析中复杂的统计数据提取并达到人类专家水平？以往[[Evaluation Research\|评估研究]]简单将单一人类提取预设为无误差真值的做法存在何种方法论缺陷？如何建立专家仲裁校准的金标准基准以解构机器与人类的真实误差形态？
 
 > [!claim] 核心主张
-> 前沿大语言模型在规范提示词引导下，对复杂教育元分析文献进行[[Automated Data Extraction\|自动化数据提取]]的统计准确性全面达到甚至部分超越人类专家水平（与仲裁金标准的[[Intraclass Correlation Coefficient\|组内相关系数]] $\text{ICC} = 0.96–0.97$ vs 专家 $\text{ICC} = 0.81–0.95$；一致率达 77%–81% vs 专家 80%–86%）；模型之间表现出高达 87%–90% 的高度收敛一致性。事实性AI 幻觉在规范抽取中发生率极低（3–4 例，与专家持平），主要误差源于跨表格加总学生总数与原文报告模糊性。研究据此构建了双模型独立初筛结合专家分歧仲裁的人机混合验证[[Paradigm\|范式]]，在恪守[[Meaningful Human Control\|有意义的人类控制]]（Meaningful Human Control, MHC）的前提下消减 80% 人工劳动，实现证据综合效率与精度的帕累托最优。
+> 前沿大语言模型在规范提示词引导下，对复杂教育元分析文献进行[[Automated Data Extraction\|自动化数据提取]]的统计准确性全面达到甚至部分超越人类专家水平（与仲裁金标准的[[Intraclass Correlation Coefficient\|组内相关系数]] $\text{ICC} = 0.96–0.97$ vs 专家 $\text{ICC} = 0.81–0.95$；一致率达 77%–81% vs 专家 80%–86%）；模型之间表现出高达 87%–90% 的高度收敛一致性。事实性AI 幻觉在规范抽取中发生率极低（3–4 例，与专家持平），主要误差源于跨表格加总学生总数与原文报告模糊性。研究据此构建了双模型独立初筛结合专家分歧仲裁的人机混合验证[[Paradigm\|范式]]，在恪守[[Meaningful Human Control\|有意义的人类控制]]（Meaningful Human Control, MHC）的前提下消减 80% 人工劳动，实现[[Research Synthesis|证据综合]]效率与精度的帕累托最优。
 
 > [!concept-lens] 阅读透镜
 > - **对象** 从《[[Visible Learning\|可见的学习]]》数据库（[[Visible Learning Meta-X]]）中随机抽取的 156 项调查学生[[Academic Achievement\|学业成就]]的一阶元分析全文文献（涵盖综合效应量 $d$、纳入研究数 $k$ 与学生样本总量 $N$ 共 468 个目标数据点）。
@@ -108,7 +109,7 @@ issuing_organization: ""
 > | **[[AI Hallucination\|AI 幻觉]]与误差分类学**<br>[[AI Hallucination]] | 建立涵盖事实虚构、信息遗漏、跨表计算偏差与报告模糊性选择偏误的四维诊断体系。 |
 
 > [!warrant]- 理论如何支撑论证
-> 负责任证据综合中人工智能使用（Responsible use of AI in evidence SynthEsis）指南为本研究确立了评价基线：任何人工智能系统的引入都不能直接假定其可[[Reliability\|信度]]，而必须通过严密的实证评测确定其在特定任务情境下的准确性基准；同时，人类专家必须保持对系统的因果追踪能力。通过解构模型与人类在不同误差类型上的认知表现，研究得以将统计一致性指标转化为[[Man-Computer Symbiosis|人机协同]]分工的理论依据。（pp. 3, 6, 20, 24）
+> 负责任[[Research Synthesis|证据综合]]中人工智能使用（Responsible use of AI in evidence SynthEsis）指南为本研究确立了评价基线：任何人工智能系统的引入都不能直接假定其可[[Reliability\|信度]]，而必须通过严密的实证评测确定其在特定任务情境下的准确性基准；同时，人类专家必须保持对系统的因果追踪能力。通过解构模型与人类在不同误差类型上的认知表现，研究得以将统计一致性指标转化为[[Man-Computer Symbiosis|人机协同]]分工的理论依据。（pp. 3, 6, 20, 24）
 
 ### 核心变量与操作化编码表（仅量化研究填写）
 
@@ -256,7 +257,7 @@ issuing_organization: ""
 #### 2. 基于有意义人类控制的四步混合验证范式
 
 > [!goal] 混合验证规程的设计目标
-> - **核心目标** 将大模型的提取潜能转化为严谨的学术生产力，结合RAiSE 负责任证据综合指南，在恪守[[Meaningful Human Control\|有意义的人类控制]]原则的前提下，最大化节约专家劳动。
+> - **核心目标** 将大模型的提取潜能转化为严谨的学术生产力，结合RAiSE 负责任[[Research Synthesis|证据综合]]指南，在恪守[[Meaningful Human Control\|有意义的人类控制]]原则的前提下，最大化节约专家劳动。
 
 > [!proc] 证据综合中有意义人类控制的四步混合验证规程
 > 1. **提示词开发与预试校准** 编制涵盖变量代码簿、提取优先级与少样本示例的标准化提示词，在独立先导文献集上完成参数调优。（p. 8）
@@ -294,7 +295,7 @@ issuing_organization: ""
 >
 > *The results demonstrate that LLMs [[Achieve]] data extraction accuracy comparable to that of human experts. We compare the accuracy of three LLMs with that of human experts extracting data from 156 educational meta-analyses investigating students' achievement... Accuracy reached ICCs of 0.95/0.81 for the two human experts, and 0.96/0.97/0.96 for LLMs, with percentage agreement of 86%/80% (humans) and 81%/78%/77% (LLMs).*
 
-> [!citation-card] 证据综合中有意义人类控制与验证条件
+> [!citation-card] [[Research Synthesis|证据综合]]中有意义人类控制与验证条件
 > 证据综合中负责任使用人工智能指南明确要求，必须通过[[Evaluation Research\|评估研究]]确定 AI 在特定语境下是否表现充分。我们的研究为大语言模型负责任地用于数据提取提供了实证基础，并阐明了在何种条件下人类、模型或人机混合提取的数据可被视为经过有效验证。（pp. 3, 24）
 >
 > *The RAiSE guidance states that evaluation studies should determine whether an AI performs adequately in a given context. Our study provides an empirical foundation for responsible use of LLMs for data extraction. We discuss the conditions under which data extracted by LLMs, humans, or a hybrid of both can be considered validated for use in educational SOMAs.*

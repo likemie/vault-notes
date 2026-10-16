@@ -8,7 +8,7 @@ summary: "一种基于矩阵点阵与条形图的定量多集合交集可视化�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 18
+method_related_count: 19
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#dcfce7"
@@ -26,6 +26,7 @@ related_concepts:
   - "[[Visible Learning]]"
 related_theories: []
 related_methods:
+  - "[[Research Synthesis]]"
   - "[[Data Transformation]]"
   - "[[Sample Size Determination]]"
   - "[[Cluster Analysis]]"
@@ -44,7 +45,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # UpSet Plot
@@ -78,7 +79,7 @@ updated: 2026-10-16
 > - **不声称回答的问题** UpSet Plot 本身属于探索性描述与诊断可视化方法，不能直接证明交集模式背后的因果机制，需结合统计检验或定性归因分析。
 
 > [!method-stack] 方法层级
-> - **研究设计** 多评分者一致性研究、证据综合提取评测、多分类系统对比、模型基准评测。
+> - **研究设计** 多评分者一致性研究、[[Research Synthesis|证据综合]]提取评测、多分类系统对比、模型基准评测。
 > - **数据收集** 结构化二值矩阵（0/1 标记）、多重编码记录、多算法输出日志。
 > - **分析方法** 集合运算、布尔逻辑分解、组合排序、条件交集聚合。
 > - **辅助技术**

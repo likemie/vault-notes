@@ -1545,7 +1545,7 @@ def run_auto_fixes(link_citations: bool = True) -> int:
 
     Fixes: English two-author conjunctions, bold delimiter boundaries,
     summary quotes, [!axis] separators (see vault_lint.apply_fixes), then
-    links raw APA citations to Argument pages (citation_linker.py)."""
+    links raw APA citations to Argument pages (wiki_linker.py)."""
     if str(SCRIPTS_DIR) not in sys.path:
         sys.path.insert(0, str(SCRIPTS_DIR))
     import vault_lint as lint  # noqa: PLC0415 - heavy import, only when needed
@@ -1567,25 +1567,12 @@ def run_auto_fixes(link_citations: bool = True) -> int:
 
 
 def auto_link_citations(files: list[Path]) -> tuple[int, int]:
-    """Run citation_linker.py's linking on the given files (uses the current citation index)."""
-    import citation_linker as cl  # noqa: PLC0415
+    """Use the shared linker's citation-only mode in the base workflow."""
+    import wiki_linker as linker
 
-    if not cl.CITATION_FULL_JSON.exists():
+    if not linker.CITATION_FULL_JSON.exists():
         return 0, 0
-    lookup = cl.load_lookup()
-    changed = total = 0
-    for path in files:
-        path = Path(path)
-        if not path.is_file() or cl.WIKI_DIR not in path.resolve().parents or cl.should_skip(path):
-            continue
-        text = path.read_text(encoding="utf-8")
-        stats = {"linked_parenthetical": 0, "linked_narrative": 0, "fixed_display": 0}
-        new_text = cl.link_text(text, lookup, stats, [], path)
-        if new_text != text:
-            path.write_text(new_text, encoding="utf-8")
-            changed += 1
-            total += stats["linked_parenthetical"] + stats["linked_narrative"]
-    return changed, total
+    return linker.run_citation_sync(files)
 
 
 def sync_updated_dates(dry_run: bool = False, check: bool = False) -> int:
@@ -1675,11 +1662,10 @@ def run_base_index(
         # Ordinary linking and relation sync must see newly created / renamed
         # entries, so build their lookup before changing links.
         wiki_sync_args = ["sync", "--full"] if full else ["sync"]
-        citation_link_args = ["--fix-display", "--full"] if full else ["--fix-display"]
+        link_args = [*wiki_sync_args, "--fix-display"]
         for script_name, extra_args in [
             ("wiki_index.py", []),
-            ("citation_linker.py", citation_link_args),
-            ("wiki_linker.py", wiki_sync_args),
+            ("wiki_linker.py", link_args),
             ("wiki_relations.py", wiki_sync_args),
         ]:
             code = run_script(script_name, extra_args)
@@ -1689,7 +1675,7 @@ def run_base_index(
         _TEXT_CACHE.clear()
         _FM_CACHE.clear()
 
-    # Date bumps include book table maintenance and both linkers. Ratings read
+    # Date bumps include book table maintenance and unified linking. Ratings read
     # the final relation YAML, never the state from before wiki_relations.
     for maintain in (
         sync_updated_dates,

@@ -7,7 +7,7 @@ summary: "通过明确的纳入标准和系统搜索策略识别、筛选与评�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 93
+method_related_count: 94
 method_related_level: 9
 method_related_stars: "💎💎💎"
 method_related_color: "#dbeafe"
@@ -57,6 +57,7 @@ related_theories:
   - "[[Critical Realism]]"
   - "[[Quality Use of Research Evidence Framework]]"
 related_methods:
+  - "[[Research Synthesis]]"
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
   - "[[Quantitative Research]]"
@@ -120,7 +121,7 @@ related_instruments:
 confidence: high
 status: draft
 created: '2026-06-08'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Systematic Review
@@ -130,7 +131,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 方法定义
-> 系统综述（Systematic Review）是研究综合（Research Synthesis）的一种严密规范形式：要求运用最小化偏差的技术、遵循预设的协议检索原始研究文献、制定明确的纳入与排除标准、设立公认的方法学严谨性门槛、界定[[Research Scope\|研究范围]]、依托多研究者团队协同筛选以降低主观偏差，并采用透明一致的方法整合多项研究成果以提炼严谨审慎的推论与政策建议（Evans & Benefield, 2001, p. 529; Hemsley-Brown & Sharp, 2003；引自 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Cohen et al., 2011, Ch17, pp. 384–385]]）。这些程序化特征使系统综述从根本上区别于选择标准模糊、容易产生主观偏倚的传统叙事综述。
+> 系统综述（Systematic Review）是[[Research Synthesis|研究综合]]（Research Synthesis）的一种严密规范形式：要求运用最小化偏差的技术、遵循预设的协议检索原始研究文献、制定明确的纳入与排除标准、设立公认的方法学严谨性门槛、界定[[Research Scope\|研究范围]]、依托多研究者团队协同筛选以降低主观偏差，并采用透明一致的方法整合多项研究成果以提炼严谨审慎的推论与政策建议（Evans & Benefield, 2001, p. 529; Hemsley-Brown & Sharp, 2003；引自 [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Cohen et al., 2011, Ch17, pp. 384–385]]）。这些程序化特征使系统综述从根本上区别于选择标准模糊、容易产生主观偏倚的传统叙事综述。
 >
 > 系统综述通常作为定量[[Meta-analysis\|元分析]]的前置基石：先通过系统综述穷尽检索并筛选出符合方法学标准的初级研究，再对这些研究的[[Effect Size\|效应量]]开展统计合并。但系统综述本身亦可独立于元分析存在——当纳入研究的质性或[[Heterogeneity\|异质性]]特征无法量化合并时，系统综述仍能提供高度结构化的证据图谱。
 >
@@ -207,7 +208,7 @@ updated: 2026-10-16
 > > [!step] 步骤三：双人独立筛选与质量风险评估
 > > 至少两位独立评审员基于标题/摘要开展初筛，随后获取全文进行二阶深筛，计算[[Intercoder Agreement\|编码一致性]]系数（Cohen's Kappa）；随后运用公认评估工具针对选择偏倚、实施偏倚、测量偏倚与损耗偏倚进行方法学质量评级（[[Argument_Higgins_2016_ROE\|Higgins, 2016, p. 38]]）。
 >
-> > [!step] 步骤四：结构化数据提取与证据综合
+> > [!step] 步骤四：结构化数据提取与[[Research Synthesis|证据综合]]
 > > 提取样本特征、干预剂量、控制条件、测量工具及[[Effect Size\|效应量]]数据；依据研究问题的[[Epistemology\|认识论]]属性，选择开展定量[[Meta-analysis\|元分析]]统计合并，或开展[[Thematic Synthesis\|质性主题综合]]与实在论机制提炼。
 >
 > > [!step] 步骤五：提炼结论、评估确定性与编制报告
@@ -302,7 +303,7 @@ updated: 2026-10-16
 > - **[[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]]** 调查全球 15 个代表性证据门户对系统综述标准的采纳率（Table 7.1），解构聚合型与配置型系统综述在国家[[What Works Network\|有效性网络]]与证据生态中的[[Epistemology\|认识论]]定位与标准塌陷风险。
 > - **[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]]** 在 [[OECD]] 编著第九章中，通过对卫生保健、社会关照、公共政策与教育四大领域相关文献开展跨行业系统综述与[[Narrative Synthesis|叙事综合]]，跨界界定[[Research Utilization|证据使用]]质量（Quality of Evidence Use）并奠定 [[Quality Use of Research Evidence Framework\|QURE]] 框架的先验理论基础。
 > - **[[Argument_Li_2025_HSSC\|Li et al. (2025)]]** 遵循 [[PRISMA]] 框架从 SSCI 与 Scopus 数据库系统检索并筛选 85 篇 [[PISA]] 政策影响实证研究，使用编码分析和序列分析探讨 PISA 对全球基础教育改革的影响。
-> - **[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Cohen et al. (2011, Ch17)]]** 教材第 17 章节系统阐述系统综述与研究综合的定义、类型、[[EPPI-Centre]] 七项质量准则与方法学警示。
+> - **[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17\|Cohen et al. (2011, Ch17)]]** 教材第 17 章节系统阐述系统综述与[[Research Synthesis|研究综合]]的定义、类型、[[EPPI-Centre]] 七项质量准则与方法学警示。
 > - **[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]]** 遵循 PRISMA 报告，三库系统检索并双盲两阶段筛选 109 项学校[[Research Utilization\|研究使用]]实证研究，运用 [[Mixed Methods Appraisal Tool\|MMAT]] 工具评估质量并采用[[Framework Synthesis\|框架综合]]法进行证据整合。
 > - **[[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]]** 结合系统综述的检索与筛选规程及[[Critical Review\|批判性综述]]方法，解构 34 篇文献并提出第四代[[Profession-Sensitive Conceptualisations of Research Use\|专业敏感型研究使用]]理论。
 > - **[[Argument_Li_2026_CEAI\|Li et al. (2026)]]** 遵循 PRISMA 指南对 67 篇实证文献开展系统综述，结合双人双盲 MMAT 质量评价与三阶段[[Thematic Synthesis\|主题综合法]]，系统解构 ChatGPT 在高等教育中对批判性与[[Creativity\|创造性思维]]的促进机制与风险模式。

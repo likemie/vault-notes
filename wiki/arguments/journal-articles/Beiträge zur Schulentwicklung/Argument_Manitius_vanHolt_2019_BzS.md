@@ -7,7 +7,7 @@ title: "Argument_Manitius_vanHolt_2019_BzS"
 argument_key: "Argument_Manitius_vanHolt_2019_BzS"
 argument_display_title: "Transfer als Gegenstand von Programmatik und Forschung. Einige Diskursbeobachtungen"
 argument_kind: "journal-article"
-argument_related_count: 64
+argument_related_count: 65
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -77,6 +77,7 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Meta-analysis]]"
   - "[[Systematic Review]]"
+  - "[[Research Synthesis]]"
   - "[[Sample Size Determination]]"
 related_facts:
   - "[[German State Educational Institutes and Quality Agencies]]"
@@ -102,7 +103,7 @@ related_arguments:
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
 status: completed
 created: 2026-09-26
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # Argument_Manitius_vanHolt_2019_BzS
 
@@ -233,7 +234,7 @@ updated: 2026-10-16
 > |---|---|---|---|---|---|
 > | **[[What Works Clearinghouse\|WWC]]** | 美国（[[Institute of Education Sciences\|教育科学研究院，IES]] 资助创设） | 因果干预试验、严格证据分级标准 | 学区教育采购决策者、学校行政人员 | 评级与实践采购存在脱节，成效证据多局限于报告引用率 | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]]; (p. 10) |
 > | **[[EPPI-Centre\|EPPI-Centre]]** | 英国（伦敦大学学院） | [[Systematic Review\|系统综述]]方法论 | 政策制定者、医疗与教育专业人员 | 推动循证规范确立，但微观教学行为转化证据有限 | Gough (2022); (p. 10) |
-> | **[[Danish Clearinghouse for Educational Research\|Danish Clearinghouse]]** | 丹麦（奥胡斯大学） | 证据综合、主题研究报告 | 教师教育者、市政教育部门 | 依赖短期公共资助，长期存续与微观实践辐射受限 | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]; (p. 10) |
+> | **[[Danish Clearinghouse for Educational Research\|Danish Clearinghouse]]** | 丹麦（奥胡斯大学） | [[Research Synthesis\|证据综合]]、主题研究报告 | 教师教育者、市政教育部门 | 依赖短期公共资助，长期存续与微观实践辐射受限 | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]; (p. 10) |
 > | **[[Kunnskapssenter for utdanning\|Norwegian Knowledge Centre]]** | 挪威（斯塔万格大学 / 教育部资助） | [[International Education\|国际教育]]实证综合与政策简报 | 地方当局、中小学校管理团队 | 实践者知晓度与日常决策嵌入度尚待系统检验 | (p. 10) |
 > | **[[Clearing House Unterricht\|CHU]]** | 德国（慕尼黑工业大学） | 国际高信度教学实证[[Meta-analysis\|元分析]]二次转译 | 大学教师教育者、职后进修研训主管 | 重点解决师资培训骨干认知负荷，学校微观效果待验 | Seidel et al. (2017); (p. 10) |
 > | **[[Forschungsmonitor Schule\|FMS]]** | 德国（各州立研究所联合） | 跨学科实证研究同行评议与短评 | 中小学一线教师、进修教研员、督导 | 降低学术阅读门槛，但缺乏对教师深层信念改变的追踪 | Manitius and Rosendahl (2018); (p. 10) |

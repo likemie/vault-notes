@@ -8,10 +8,10 @@ aliases:
 summary: "用于循证医学、系统评价与循证教育研究中明确界定实证研究问题与纳入排除标准的结构化范式，通过解构人群、干预、对照与结局确保证据综合的内部同质性与因果可比性。"
 type: concept
 domain: "research-methodology"
-related_count: 29
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 30
+related_level: 3
+related_stars: "💎"
+related_color: "#fde68a"
 tags:
   - concept/research-methodology
   - theme/evidence-based-education
@@ -43,6 +43,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Analytic Framework]]"
   - "[[Qualitative Research]]"
+  - "[[Research Synthesis]]"
   - "[[Systematic Review]]"
   - "[[Covariate Adjustment]]"
   - "[[Effect Size]]"
@@ -75,7 +76,7 @@ updated: 2026-10-17
 > - **边界** PICO 聚焦于检验具有清晰干预机制或因果关联的实证问题；对于开放式历史考据、理论思辨或情境性意义建构的纯[[Qualitative Research|质性研究]]，PICO 会构成机械约束，需改用 SPIDER 或开放质性综述框架。
 
 > [!boundary]- 概念边界
-> - 不等于 [[Variable|变量]][[Operationalization|操作化]]（[[Operationalization]]） — 操作化是单项实证研究中将抽象[[Construct|构念]]转化为测量指标的微观程序；PICO 是在综述与证据综合层面上界定纳入范围与可比性的宏观结构规程。
+> - 不等于 [[Variable|变量]][[Operationalization|操作化]]（[[Operationalization]]） — 操作化是单项实证研究中将抽象[[Construct|构念]]转化为测量指标的微观程序；PICO 是在综述与[[Research Synthesis|证据综合]]层面上界定纳入范围与可比性的宏观结构规程。
 > - 不等于 单纯的文献关键词列表 — 检索词仅覆盖文献表面词汇；PICO 规定了研究对象属性、实验组与对照组对质关系及结局因果归属性的逻辑约束。
 
 ---
@@ -99,7 +100,7 @@ updated: 2026-10-17
 > - **比较基线与对照条件（Comparison, C）** 明确对照组的性质，区分“常规教学对照（Teaching-as-usual / No-treatment Control）”与“替代干预对照（Alternative Treatment）”。与高效干预对比得到的净[[Effect Size|效应量]]接近于零，绝不能与[[Business as Usual|常规对照组]]的绝对增益效应量直接相提并论或混合平均。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 7–8)]]
 > - **结果与结局指标（Outcome, O）** 严格界定[[Dependent Variable|因变量]]测量维度，区分[[Academic Achievement|学业成就]]测验分数与态度、行为、动机、智商或情绪等非成就指标，防止综合效应量发生概念漂移。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, p. 8)]]
 
-> [!logic-map]- PICO 在证据综合中的守门机制
+> [!logic-map]- PICO 在[[Research Synthesis|证据综合]]中的守门机制
 > ```mermaid
 > flowchart TD
 >     A["候选一阶实证研究 / 元分析"] --> B{"PICO 准入核查"}
@@ -123,7 +124,7 @@ updated: 2026-10-17
 > 探讨为何在更高层级进行定量汇总时，必须对底层纳入研究的 PICO 四要素实施严格对齐，防止因果解释发生系统性失真。
 
 > [!claim] Kalmendal et al.
-> **PICO 契合性作为证据综合的前置有效性门槛** 在[[Meta-analysis|元分析]]与[[Meta-meta-analysis|二阶元分析]]中，[[Effect Size|效应量]]（[[Effect Size]]）不能脱离产生它的具体情境而孤立存在。若二阶综合在定义特定教育影响因素时未严格执行 PICO 筛选，将不同学段人群（如大学生与幼儿）、不同性质干预、以及非同质对照条件粗暴合并，所得综合效应量将丧失明确的统计与现实解释意义。缺乏严格 PICO 守门的宏观综合不能作为教育政策制定与教学实践的可靠依据。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 6–8, 14–15)]]
+> **PICO 契合性作为[[Research Synthesis|证据综合]]的前置有效性门槛** 在[[Meta-analysis|元分析]]与[[Meta-meta-analysis|二阶元分析]]中，[[Effect Size|效应量]]（[[Effect Size]]）不能脱离产生它的具体情境而孤立存在。若二阶综合在定义特定教育影响因素时未严格执行 PICO 筛选，将不同学段人群（如大学生与幼儿）、不同性质干预、以及非同质对照条件粗暴合并，所得综合效应量将丧失明确的统计与现实解释意义。缺乏严格 PICO 守门的宏观综合不能作为教育政策制定与教学实践的可靠依据。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 6–8, 14–15)]]
 
 ---
 
@@ -152,7 +153,7 @@ updated: 2026-10-17
 > [!debates] 学术争议
 >
 > > [!axis] 严格 PICO 筛选 vs. 宏观跨领域综合包容性
-> > 争论证据综合是否应为了追求全景覆盖而牺牲 PICO 严格性。
+> > 争论[[Research Synthesis|证据综合]]是否应为了追求全景覆盖而牺牲 PICO 严格性。
 > >
 > > - **宏观包容派（如早版 Hattie）** 主张广泛汇聚所有现存[[Meta-analysis|元分析]]，以海量数据和[[Central Limit Theorem|中心极限定理]]平滑个别偏差，建立全景式影响图景。
 > > - **方法学生态派（[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025]]）** 指出缺乏 PICO 控制的粗放汇聚会导致 80% 以上的影响因素充斥概念错配（垃圾进垃圾出），所得数值排名完全不具备科学效度。

@@ -8184,6 +8184,16 @@
     ]
   },
   {
+    "title": "Learning Styles",
+    "type": "concept",
+    "path": "wiki/concepts/instruction-pedagogy/Learning Styles.md",
+    "aliases": [
+      "学习风格",
+      "学习类型",
+      "Learning Style"
+    ]
+  },
+  {
     "title": "Listening-Oriented Learning",
     "type": "concept",
     "path": "wiki/concepts/instruction-pedagogy/Listening-Oriented Learning.md",
@@ -20965,6 +20975,16 @@
     ]
   },
   {
+    "title": "Research Synthesis",
+    "type": "method",
+    "path": "wiki/methods/quantitative/Research Synthesis.md",
+    "aliases": [
+      "研究综合",
+      "证据综合",
+      "Evidence Synthesis"
+    ]
+  },
+  {
     "title": "Robust Variance Estimation",
     "type": "method",
     "path": "wiki/methods/quantitative/Robust Variance Estimation.md",
@@ -23796,6 +23816,16 @@
     ]
   },
   {
+    "title": "Ivan Snook",
+    "type": "person",
+    "path": "wiki/persons/new-zealand/Ivan Snook.md",
+    "aliases": [
+      "伊万·斯努克",
+      "斯努克",
+      "I. Snook"
+    ]
+  },
+  {
     "title": "John Hattie",
     "type": "person",
     "path": "wiki/persons/new-zealand/John Hattie.md",
@@ -23812,6 +23842,16 @@
     "aliases": [
       "约翰·奥尼尔",
       "John G. O'Neill"
+    ]
+  },
+  {
+    "title": "Roy Nash",
+    "type": "person",
+    "path": "wiki/persons/new-zealand/Roy Nash.md",
+    "aliases": [
+      "罗伊·纳什",
+      "纳什",
+      "R. Nash"
     ]
   },
   {

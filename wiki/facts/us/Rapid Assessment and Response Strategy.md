@@ -10,7 +10,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#ede9fe"
@@ -34,6 +34,7 @@ related_concepts:
 related_theories:
   - "[[Navigational Framework for Educational Researchers]]"
 related_methods:
+  - "[[Research Synthesis]]"
   - "[[Systematic Review]]"
   - "[[Meta-analysis]]"
 related_instruments: []
@@ -48,7 +49,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Rapid Assessment and Response Strategy
@@ -75,7 +76,7 @@ updated: 2026-10-16
 > [!policy-design]- 方案设计
 > - **触发机制** 由学会政策委员会密切追踪国会动态与突发公共危机（如边境移民儿童强行分离政策、校园极端暴力事件），一旦触发预警，即刻启动响应。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 47)]]
 > - **专家闪电组网** 在数小时内从会员专家库中抽调议题对口的顶尖权威学者，组成跨学科 RARS 专项行动工作组。
-> - **敏捷证据综合** 依托已有的系统评价（[[Systematic Review]]）与[[Meta-analysis\|元分析]]（Meta-analysis）储备，迅速提炼与该危机最直接相关的核心因果结论，剥离冗长的技术性细节与多余免责声明。
+> - **敏捷[[Research Synthesis|证据综合]]** 依托已有的系统评价（[[Systematic Review]]）与[[Meta-analysis\|元分析]]（Meta-analysis）储备，迅速提炼与该危机最直接相关的核心因果结论，剥离冗长的技术性细节与多余免责声明。
 > - **定向法案游说与媒体发布** 由学会华盛顿专职政策团队迅速将反应声明推送至国会常设委员会关键幕僚、主流公共媒体及联盟智库手中，确保实证声音同步占据辩论高地。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 45–47)]]
 
 > [!citation-card] 突发事件下的快速响应机制

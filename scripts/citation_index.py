@@ -11,7 +11,7 @@ Default behavior:
   3. Remove legacy citation_stem/citation_suffix/citation_key/citation_short.
   4. Write citation/citation_full.json and citation/citation_ambiguous.json.
 
-This script does not link body text. Use scripts/citation_linker.py for that.
+This script does not link body text. Use scripts/wiki_linker.py sync --citations-only for that.
 """
 
 from __future__ import annotations

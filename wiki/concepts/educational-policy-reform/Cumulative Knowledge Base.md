@@ -7,7 +7,7 @@ aliases:
 summary: "教育知识治理的核心终极命题，指通过跨机构协作、多元方法证据综合与元中介机制，建构一套被全球教育系统准普遍公认为基础坚实、可跨情境调适并经得起时间检验的共享性知识体系。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 36
+related_count: 37
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -39,6 +39,7 @@ related_theories: []
 related_methods:
   - "[[Systematic Review]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Research Synthesis]]"
   - "[[Effect Size]]"
   - "[[Case Study]]"
   - "[[Meta-analysis]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Cumulative Knowledge Base
@@ -80,7 +81,7 @@ updated: 2026-10-16
 > - **边界** 它绝不等于静态封闭的“教条式标准化干预清单”或单一推崇[[Randomised Controlled Trials\|随机对照试验]]（[[Randomised Controlled Trials\|RCT]]）的技术官僚规则，而是兼顾宏观普遍性因果规律与微观本土情境复杂性的动态演化知识生态。
 
 > [!citation-card] Burns & Schuller 论累积性知识库建构
-> 与医学不同，教育在持续发展和提炼一套准普遍被公认为建立在坚实基础之上的知识体系方面，显得异常薄弱。设计并支持一个高效的教育研发系统是实现这一目标的重要一步。中介机构能够在指定最新的权威知识增量并在它们之间建立连接方面发挥重大作用。尽管确保单一机构与倡议的质量与有效性至关重要，但这仍远远不够。正如研究综合本身已经从关注单篇论文迈向二阶系统综述一样，中介的结构与流程同样需要在机构与系统之间协同运作，以支持累积性的努力。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 66]])
+> 与医学不同，教育在持续发展和提炼一套准普遍被公认为建立在坚实基础之上的知识体系方面，显得异常薄弱。设计并支持一个高效的教育研发系统是实现这一目标的重要一步。中介机构能够在指定最新的权威知识增量并在它们之间建立连接方面发挥重大作用。尽管确保单一机构与倡议的质量与有效性至关重要，但这仍远远不够。正如[[Research Synthesis|研究综合]]本身已经从关注单篇论文迈向二阶系统综述一样，中介的结构与流程同样需要在机构与系统之间协同运作，以支持累积性的努力。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 66]])
 >
 > *"Unlike medicine, education is conspicuously weak in its ability to continuously develop and refine a body of knowledge that is quasi-universally acknowledged as well founded... Just as research synthesis itself has moved beyond a focus on individual research papers to systematic reviews of reviews, so too do the structures and processes of brokerage need to work together across institutions and systems to support a cumulative effort."*
 
@@ -159,7 +160,7 @@ updated: 2026-10-16
 > 探讨如何超越单个机构在资源、国别与受众上的局限性，建构跨系统元中介机制。
 
 > [!claim] [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]; Gough et al. (2011)
-> **元中介协作对克服机构孤岛与推进二阶综合的决定性作用** 单一中介组织无论资源多么丰富，都不可避免地受制于本国政策议程、特定目标受众（如仅偏向政策或仅偏向课堂）以及特定方法学偏好（如纯粹 [[Randomised Controlled Trials\|RCT]] 派或多元派）的局限。[[EU|欧盟]]资助的 [[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] 网络长达十年的自主维系经验表明，唯有通过建立跨国跨系统的“中介的中介”（Brokering the Brokers），依托“公开网络大会（扩展参与广度）与闭门伙伴会议（深化方法攻坚）”的双轨协同治理机制，才能共同攻克[[Heterogeneity\|异质性]]数据综合与质量评估的公认标准，使研究综合从单篇个案迈向二阶[[Systematic Review\|系统综述]]，最终建立起跨越国别界限、经受全球同行检验的累积性知识基石。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 66–68]])
+> **元中介协作对克服机构孤岛与推进二阶综合的决定性作用** 单一中介组织无论资源多么丰富，都不可避免地受制于本国政策议程、特定目标受众（如仅偏向政策或仅偏向课堂）以及特定方法学偏好（如纯粹 [[Randomised Controlled Trials\|RCT]] 派或多元派）的局限。[[EU|欧盟]]资助的 [[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] 网络长达十年的自主维系经验表明，唯有通过建立跨国跨系统的“中介的中介”（Brokering the Brokers），依托“公开网络大会（扩展参与广度）与闭门伙伴会议（深化方法攻坚）”的双轨协同治理机制，才能共同攻克[[Heterogeneity\|异质性]]数据综合与质量评估的公认标准，使[[Research Synthesis|研究综合]]从单篇个案迈向二阶[[Systematic Review\|系统综述]]，最终建立起跨越国别界限、经受全球同行检验的累积性知识基石。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 66–68]])
 
 ---
 
@@ -187,7 +188,7 @@ updated: 2026-10-16
 ## 概念演变
 
 > [!dev-timeline]- 概念历史演化脉络
-> - **2000 年代初 — 单一研究综合与清算中心孤岛（First-Order Syntheses）** 随着美国设立 [[What Works Clearinghouse\|WWC]]、英国设立 [[EPPI-Centre]]，循证运动主要聚焦于运用初阶[[Systematic Review\|系统综述]]或[[Meta-analysis\|元分析]]对特定教学干预进行[[Effect Size\|效应量]]加总；此时机构间各自为政，标准严重割裂。
+> - **2000 年代初 — 单一[[Research Synthesis|研究综合]]与清算中心孤岛（First-Order Syntheses）** 随着美国设立 [[What Works Clearinghouse\|WWC]]、英国设立 [[EPPI-Centre]]，循证运动主要聚焦于运用初阶[[Systematic Review\|系统综述]]或[[Meta-analysis\|元分析]]对特定教学干预进行[[Effect Size\|效应量]]加总；此时机构间各自为政，标准严重割裂。
 > - **2010–2015 年 — 跨国元中介网络探索与实践重心下沉（[[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] & [[Education Endowment Foundation\|EEF]]）** [[EU|欧盟]]资助建立 EIPPEE 跨国中介协作网络，开启了关于跨国元中介治理的早期探索；同时英国设立 [[Education Endowment Foundation\|EEF]]，推动证据从宏观政策向一线实践与工具包深度下沉。
 > - **2016–至今 — 二阶系统综述与累积性知识大厦构想（Meta-Brokerage Era）** [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] 正式提出建构“准普遍公认的累积性知识库”命题；反思单体中介的高夭折率生存悖论，呼吁在跨国与跨学科层面协同推进“中介的中介”，将自然科学、医学反思透镜、算法治理与教师专业主体性融为一体。
 

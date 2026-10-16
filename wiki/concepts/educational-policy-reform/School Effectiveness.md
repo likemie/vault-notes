@@ -8,7 +8,7 @@ aliases:
 summary: "以学校内部组织与教学差异解释学业成就的研究取向，在政策治理中将学校重塑为可量化干预的技术对象，并在全球教育转移中被学术重商主义包装为跨国咨询商品。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 56
+related_count: 57
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -67,6 +67,7 @@ related_persons:
   - "[[Jason Beech]]"
   - "[[Jean-François Lyotard]]"
   - "[[Robert Cowen]]"
+  - "[[Ivan Snook]]"
   - "[[John Hattie]]"
   - "[[Michael Barber]]"
 related_facts:
@@ -212,7 +213,7 @@ updated: 2026-10-17
 > 揭示实证效能研究中混淆微观“校内教学改进（第一类研究）”与宏观“克服社会阶层不平等（第二类研究）”所引发的归因断裂，以及量化数据被政客异化为[[Disciplina and Doctrina|规训]]公立学校的机制。
 
 > [!claim]
-> **两类效能研究的范畴谬误与结构性责任隐匿** 斯努克等人指出，正统学校效能研究与[[John Hattie|约翰·哈蒂]]（John Hattie）在证据解读中犯下了严重的范畴谬误（Category Mistake）：它们将第一类效能研究（探讨在学生背景同质的前提下，校内教师如何改进教学）的发现，非法外推至第二类效能研究（探讨学校能否克服社会不平等）。大量实证研究（如英国 Gray et al., 1986；新西兰 Harker, 1995）表明，学生家庭背景（SES）解释了 70%–80% 的学业总方差，校际净效能差异仅占约 8%–10%。哈蒂与新自由主义政策制定者借“校内教师差异大于校际差异”为由，宣称学校和教师能够单凭教学效能克服贫困，本质上是在用微观教学参数掩盖宏观社会不平等的决定性影响，为政府削减教育经费、推卸社会再分配责任提供了实证借口。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 97–99)]]
+> **两类效能研究的范畴谬误与结构性责任隐匿** [[Ivan Snook|斯努克]]等人指出，正统学校效能研究与[[John Hattie|约翰·哈蒂]]（John Hattie）在证据解读中犯下了严重的范畴谬误（Category Mistake）：它们将第一类效能研究（探讨在学生背景同质的前提下，校内教师如何改进教学）的发现，非法外推至第二类效能研究（探讨学校能否克服社会不平等）。大量实证研究（如英国 Gray et al., 1986；新西兰 Harker, 1995）表明，学生家庭背景（SES）解释了 70%–80% 的学业总方差，校际净效能差异仅占约 8%–10%。哈蒂与新自由主义政策制定者借“校内教师差异大于校际差异”为由，宣称学校和教师能够单凭教学效能克服贫困，本质上是在用微观教学参数掩盖宏观社会不平等的决定性影响，为政府削减教育经费、推卸社会再分配责任提供了实证借口。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 97–99)]]
 
 > [!citation-card] Snook 等论学校效能研究的两类范式与范畴谬误
 > 混淆‘第一类学校效能研究’（探讨给定学生背景下如何改进教学）与‘第二类学校效能研究’（探讨学校能否克服宏观社会不平等）构成了根本性的范畴谬误。实证证据证实，社会背景解释了 70%–80% 的学业方差，校际差异至多占 8%–10%。宣称教师可以单枪匹马消除阶层差距，是为政府推卸社会反贫困责任提供实证借口。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 97–99)]]
@@ -246,7 +247,7 @@ updated: 2026-10-17
 > - **1990 年代 — 英国[[New Public Management|新公共管理]]与 [[Ofsted]] [[Disciplina and Doctrina|规训]]建制** 随着新公共管理（NPM）渗透，英国保守党与工党政府系统吸纳学校效能语言，建立英国教育标准局（[[Ofsted]]）定期督导制与学校公立排行榜，使效能指标转化为国家行政监控工具。[[Argument_Ball_2008_SR|(Ball, 2008, pp. 663–664)]]
 > - **1996–1997 年 — 学术重商主义转型与国家标准效能司设立** 考恩（Cowen, 1996）揭示英国高校因公共财政缩水而出现“学术重商主义”，将效能知识商品化；1997 年[[Michael Barber|迈克尔·巴伯]]（[[Michael Barber]]）受命执掌英国教育与就业部“标准与效能司”（Standards and Effectiveness Unit, SEU），标志着学校效能研究全面进驻国家政策中枢。[[Argument_Ball_2008_SR|(Ball, 2008, p. 663)]]；[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 342–343)]]
 > - **2000 年代 — 跨国教育集团与全球教育治理市场化扩张** [[Nord Anglia Education|诺德安达]]（Nord Anglia）与环球教育（[[GEMS Education|GEMS]]）等营利性跨国教育服务巨头兴起，与高校国际发展部联手将效能咨询向中东、拉美输出；[[World Bank|世界银行]]与[[OECD|经合组织]]将其编织进[[Global Educational Discourse|全球教育话语]]，确立为全球教育转移的主导范式。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 343–348)]]
-> - **2009 年 — 两类学校效能范式辨析与[[Category Mistake|范畴谬误]]批判** 斯努克等人系统梳理学校效能学术史，确立区分第一类（校内微观改进）与第二类（校际克服社会不平等）效能研究的[[Analytic Framework|分析框架]]，基于新西兰（Harker, 1995）与英国（Gray et al., 1986）实证数据，深刻批判新自由主义政策对两类效能研究的范畴混淆与责任转嫁（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）。
+> - **2009 年 — 两类学校效能范式辨析与[[Category Mistake|范畴谬误]]批判** [[Ivan Snook|斯努克]]等人系统梳理学校效能学术史，确立区分第一类（校内微观改进）与第二类（校际克服社会不平等）效能研究的[[Analytic Framework|分析框架]]，基于新西兰（Harker, 1995）与英国（Gray et al., 1986）实证数据，深刻批判新自由主义政策对两类效能研究的范畴混淆与责任转嫁（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）。
 > - **2010 年代至今 — 全球绩效量化反思与实践脱节批判** 国际比较教育界深入揭示学校效能模式在后发国家的异化，批判去语境化的效能模板消解地方教育文化生态，催生对教育本质与受教育者身份的伦理回归。[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 353–355)]]
 
 ---
@@ -277,7 +278,7 @@ updated: 2026-10-17
 > > 争论焦点在于“校内差异大于校际差异”是否证明学校可以独立克服社会不利，还是恰恰证明校外社会阶层（解释 70%–80% 方差）支配了[[Academic Achievement|学业表现]]。
 > >
 > > - **[[John Hattie|哈蒂]]与技术官僚** 强调校内教师差异占主导，主张淡化学校资源与外部阶层，集中精力于教师微观效能。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, pp. 88–89)]]
-> > - **斯努克与批判学者（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）** 指出这混淆了校内与校际[[Paradigm|研究范式]]，当控制学生背景后校际差异本来就会缩小；但这绝不意味着学校可以克服家庭阶层不平等，以此指导政策犯下了根本性的[[Category Mistake|范畴谬误]]。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 97–99)]]
+> > - **[[Ivan Snook|斯努克]]与批判学者（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）** 指出这混淆了校内与校际[[Paradigm|研究范式]]，当控制学生背景后校际差异本来就会缩小；但这绝不意味着学校可以克服家庭阶层不平等，以此指导政策犯下了根本性的[[Category Mistake|范畴谬误]]。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 97–99)]]
 
 > [!critique] 批判反思
 > - **方法论虚妄与过度推广** Angus (1993) 与 [[Argument_Ball_2008_SR\|Ball (2008)]] 批判学校效能研究缺乏深厚的社会学理论根基，将复杂的多维人类成长矮化为单向度的测试输入输出函数。

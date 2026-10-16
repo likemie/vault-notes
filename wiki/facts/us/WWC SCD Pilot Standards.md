@@ -10,7 +10,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -42,6 +42,7 @@ related_methods:
   - "[[Design-Based Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Single-Case Design]]"
+  - "[[Research Synthesis]]"
   - "[[Sample Size Determination]]"
   - "[[Intervention Research]]"
   - "[[Gating Procedure]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 ## 背景
 
@@ -71,7 +72,7 @@ updated: 2026-10-16
 >
 > 两者的层级关系可以概括为：[[What Works Clearinghouse]] 是发布教育干预证据审查与报告的机构/平台；WWC SCD Pilot Standards 2010 是 WWC 为了把 SCD 研究纳入其证据审查而开发的一套设计标准；具体审查时，这套标准必须与 WWC 的审查协议（review protocols）和 SCD Review Guide 一起使用，不能孤立理解([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, pp.460–461]])。
 >
-> 因此，SCD 条目应承担方法层面的定义与效度逻辑，SCD Pilot Standards 条目则承担 WWC 制度化审查层面的规则说明。SCD Pilot Standards 主要回答"哪些 SCD 研究具有足够[[Internal Validity\|内部效度]]，可以进入 WWC 后续证据综合"；而 WWC 的审查协议和 SCD Review Guide 进一步规定具体审查问题、目标人群、结果领域、场所，并系统记录参与者、场所、基线、干预条件、实施者培训和干预忠实度等推广性信息([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, pp.461, 464–466]])。
+> 因此，SCD 条目应承担方法层面的定义与效度逻辑，SCD Pilot Standards 条目则承担 WWC 制度化审查层面的规则说明。SCD Pilot Standards 主要回答"哪些 SCD 研究具有足够[[Internal Validity\|内部效度]]，可以进入 WWC 后续[[Research Synthesis|证据综合]]"；而 WWC 的审查协议和 SCD Review Guide 进一步规定具体审查问题、目标人群、结果领域、场所，并系统记录参与者、场所、基线、干预条件、实施者培训和干预忠实度等推广性信息([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, pp.461, 464–466]])。
 
 ## 政策文本摘要
 

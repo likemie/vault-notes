@@ -10,7 +10,7 @@ title: "Argument_Skourdoumbis_2024_AER"
 argument_key: "Argument_Skourdoumbis_2024_AER"
 argument_display_title: "A critique of 'Strong Beginnings' initial teacher education reforms: mandating neuroscience as core curriculum within the 'what works' movement"
 argument_kind: "journal-article"
-argument_related_count: 50
+argument_related_count: 51
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -57,6 +57,7 @@ related_theories:
   - "[[Cognitive Load Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
+  - "[[Research Synthesis]]"
   - "[[Quantitative Research]]"
 related_persons:
   - "[[Lev Vygotsky]]"
@@ -85,7 +86,7 @@ part_of: ''
 related_instruments: []
 status: draft
 created: 2026-06-06
-updated: 2026-10-16
+updated: 2026-10-17
 year: 2024
 doi: ""
 citation_aliases:
@@ -287,7 +288,7 @@ citation_aliases:
 > 1. **首次全国强制脑科学入课** 报告开创了澳大利亚教师教育政策史的先河，在全国范围内将“大脑与学习”（神经科学）强制列为所有[[Initial Teacher Training\|初始教师教育]]（ITE）的必修课程，成为核心内容的法定标准（p. 2）。
 > 2. **教师危机的问题置换** 报告通过选择性利用 [[Graduate Outcomes Survey\|GOS]] 调查数据（以 32% 的改进期盼代替 75% 的高满意度真相），成功将全国性教师短缺的原因从“过度工作量”这一劳动环境本质，置换为“教师教育质量缺陷”的个体能力问题（pp. 4–5）。
 > 3. **脑科学的简化主义和国际警示遗忘** 报告强制灌输“新手 vs 专家大脑”等生物简化二元论，排斥[[Inquiry-Based Learning\|探究式学习]]，无视社会文化情境，且完全隐瞒了 [[OECD]] (2002, 2007) 关于神经科学可能导致过度顺从、科学神话与被滥用（如 eugenics 历史）的警示（pp. 6–7）。
-> 4. **未发表证据与跨国“什么有效”网络的知识垄断** 必修核心课程的设计完全基于 [[Australian Education Research Organisation\|AERO]] 准备的、从未经过同行评审的未发表研究综合，其背后交织着英国 [[Education Endowment Foundation\|EEF]]、[[BHP Foundation\|必和必拓基金会]]的跨国政策资本移动，以及专家小组内部 AERO 董事会倾向的惩罚性问责立场（pp. 8–9）。
+> 4. **未发表证据与跨国“什么有效”网络的知识垄断** 必修核心课程的设计完全基于 [[Australian Education Research Organisation\|AERO]] 准备的、从未经过同行评审的未发表[[Research Synthesis|研究综合]]，其背后交织着英国 [[Education Endowment Foundation\|EEF]]、[[BHP Foundation\|必和必拓基金会]]的跨国政策资本移动，以及专家小组内部 AERO 董事会倾向的惩罚性问责立场（pp. 8–9）。
 > 5. **保守智库私人利益的强制消费** 附录D指定的必读参考文献直接包含了由右翼保守智库 CIS 资助的 Sweller (2021) 报告，暴露了 Jennifer Buckingham 等跨界政策精英如何在智库、[[Australian Institute for Teaching and School Leadership\|AITSL]] 和改革推广中进行利益闭环的“[[Policy Network\|理念编排]]”（pp. 9–10）。
 > 6. **惩罚性行政监控闭环与教育本质异化** AITSL认证权力的扩张、QA委员会的成立与绩效拨付挂钩，锁死了职前教师“脚本化教学”的监控闭环，将教育从“意义建构的人文事件”异化为“因果机制”的工业化监控（p. 10）。
 

@@ -88,6 +88,7 @@ related_theories:
   - "[[Pasteur's Quadrant]]"
   - "[[Path Dependence]]"
 related_methods:
+  - "[[Research Synthesis]]"
   - "[[Design-Based Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"
@@ -136,14 +137,14 @@ sources:
 part_of:
 status: active
 created: 2026-10-07
-updated: 2026-10-16
+updated: 2026-10-17
 subtype: report
 publication_type: report
 title: "Argument_Kratsios_2026_OSTP"
 argument_key: "Argument_Kratsios_2026_OSTP"
 argument_display_title: "Science: A new golden age (Report to the President)"
 argument_kind: "report"
-argument_related_count: 106
+argument_related_count: 107
 argument_related_level: 10
 argument_related_stars: "💎💎💎⭐"
 argument_related_color: "#fecdd3"
@@ -209,7 +210,7 @@ issuing_organization: "Office of Science and Technology Policy"
 > | 模块 | 材料与处理方式 |
 > |---|---|
 > | **政策诊断** | 以 2025 年 3 月总统委托信为核心问题清单，以 1945 年[[Science, The Endless Frontier 1945\|布什报告]]为制度基准，系统对照战后八十年科技生态变迁，围绕四大战略目标构建政策建议体系。 |
-> | **经验证据综合** | 整合美国国家科学与工程统计中心（National Center for Science and Engineering Statistics, NCSES）研发数据、大学教师工作量调查、博士毕业生签证走向、国立卫生研究院（[[National Institutes of Health]], NIH）课题负责人年龄分布、制药研发效率及可重复性研究成果。 |
+> | **经验[[Research Synthesis\|证据综合]]** | 整合美国国家科学与工程统计中心（National Center for Science and Engineering Statistics, NCSES）研发数据、大学教师工作量调查、博士毕业生签证走向、国立卫生研究院（[[National Institutes of Health]], NIH）课题负责人年龄分布、制药研发效率及可重复性研究成果。 |
 > | **制度形态比较** | 对比研究型大学、企业实验室、联邦国家实验室、[[Focused Research Organization\|聚焦研究组织]]（Focused Research Organization, FRO）与国防高级研究计划局（[[DARPA\|Defense Advanced Research Projects Agency, DARPA]]）项目经理制在知识生产中的功能边界。 |
 > | **预算战略指导** | 将正文体制改革建议转化为面向 2028 财年联邦研发预算优先事项的指导备忘录，为白宫行政管理和预算局（Office of Management and Budget, OMB）与各联邦机构提供实操标准。 |
 

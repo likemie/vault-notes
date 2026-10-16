@@ -9,7 +9,7 @@ aliases:
 summary: "教育与社会科学中建立原因与效果之间关系的推理体系，涵盖概率因果、反事实潜在结果模型、因果识别设计层级（RCT/QED/RDD/SCD）以及生成性因果机制与筛选隔离逻辑。"
 type: concept
 domain: "educational-philosophy"
-related_count: 86
+related_count: 87
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -77,6 +77,7 @@ related_methods:
   - "[[Process Tracing]]"
   - "[[Qualitative Research]]"
   - "[[Ethnography]]"
+  - "[[Research Synthesis]]"
   - "[[Mixed Methods Research]]"
   - "[[Gating Procedure]]"
   - "[[Single-Case Design]]"
@@ -116,7 +117,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-31
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Causality
@@ -241,7 +242,7 @@ updated: 2026-10-16
 ### 命题四　单项研究内部因果确证不能自动等同于跨情境稳健的因果效能
 
 > [!concept-lens] 循证清算与因果综合门槛
-> 从微观单项实验的因果识别到宏观政策采纳，必须跨越证据综合与[[Construct Validity\|构念效度]]的双重门槛。
+> 从微观单项实验的因果识别到宏观政策采纳，必须跨越[[Research Synthesis|证据综合]]与[[Construct Validity\|构念效度]]的双重门槛。
 
 > [!claim] [[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015)]]; [[Argument_Wadhwa_2024_RER\|Wadhwa, Zheng, & Cook (2024)]]
 > **因果有效性的综合门槛割裂** [[Internal Validity\|内部效度]]达标是因果推断成立的必要条件，但并非宏观认证的充分条件。Wadhwa 等人揭示，由于不同清算机构在 **[[Evaluator Independence\|独立评估者]]复制**、**12 个月[[Fade-out Effect\|持续效果]]** 及 **[[Iatrogenic Effects in Education\|医源性伤害]]排除**等综合门槛上的分歧，单项高质量 [[Randomised Controlled Trials\|RCT]] 的因果结论在跨机构综合评级中表现出高达 35.4% 的极端冲突，要求政策制定者穿透评级标签审视底层因果证据。[[Argument_Hitchcock_2015_JBE\|(Hitchcock et al., 2015, pp. 461–462)]]; [[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 4, 26)]]
@@ -284,7 +285,7 @@ updated: 2026-10-16
 > - **1990 年代 — 因果图模型与有向无环图** Judea Pearl 创立因果图（DAGs）与 do-calculus 演算体系，形式化了因果识别中的混杂路径切断规则。
 > - **2002 — 法定因果推断边界的学界修正** 美国国会通过《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA），吸纳[[National Research Council|国家研究委员会]]（NRC）科学原则与学者质证，打破了《不让一个孩子掉队法》（[[No Child Left Behind Act 2001|NCLB]]）对[[Random Assignment|随机分配]]实验的单一优先垄断，首次在联邦公法中确立“在实质上排除合理竞争性解释的其他设计同样具备因果主张合法性”的法理标准。([[Argument_Eisenhart_Towne_2003_ER|Eisenhart & Towne, 2003, p. 34]])
 > - **2002–2015 — 联邦循证门控标准确立** Shadish et al. (2002) 体系化[[Internal Validity\|内部效度]]；[[Institute of Education Sciences\|IES]]/[[What Works Clearinghouse\|WWC]] 正式建立以内部效度为先导的因果审查门控程序（[[Gating Procedure]]）([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, pp. 461–467]])。
-> - **2024 — 清算体系因果综合反思** Wadhwa, Zheng & Cook 全景检验 10 所清算中心 1,359 个项目，实证揭示各机构在单项因果识别与跨研究综合门槛上的割裂，推动因果推断从“微观实验识别”走向“宏观证据生态审思”([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 3–5, 26–30]])。
+> - **2024 — 清算体系因果综合反思** Wadhwa, Zheng & Cook 全景检验 10 所清算中心 1,359 个项目，实证揭示各机构在单项因果识别与跨[[Research Synthesis|研究综合]]门槛上的割裂，推动因果推断从“微观实验识别”走向“宏观证据生态审思”([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 3–5, 26–30]])。
 
 ---
 

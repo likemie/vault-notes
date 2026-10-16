@@ -9,7 +9,7 @@ title: "Argument_Marginson_2025_ECNUROE"
 argument_key: "Argument_Marginson_2025_ECNUROE"
 argument_display_title: "Space, power, and globalization: On the geopolitics of higher education"
 argument_kind: "journal-article"
-argument_related_count: 37
+argument_related_count: 38
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -58,6 +58,7 @@ related_methods:
   - "[[Case Study]]"
 related_persons:
   - "[[Doreen Massey]]"
+  - "[[Roy Nash]]"
 related_facts:
   - "[[Singapore Education Hub Policy]]"
   - "[[Academic Ranking of World Universities]]"
@@ -68,7 +69,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-12'
-updated: 2026-10-16
+updated: 2026-10-17
 year: 2025
 doi: ""
 citation_aliases:
@@ -207,7 +208,7 @@ citation_aliases:
 
 **4b. 描述 1990–2015 年美国霸权的运作机制** — 苏联 1991 年底解体后，美国凭借军事优势和西方支持，推行了一种变革性的政治-经济-文化霸权。Fukuyama(1992)宣称西方自由民主为"最终政府形式"——Marginson 引 Heather and Rapley(2023)的评价："这在当时听来已是傲慢，今天看来则属妄想。"全球化的载体是开放贸易体制下的世界市场，结合运输成本下降、人员流动加剧、互联网传播趋同以及美国文化形式的全球辐射。英语大学在扩张中的全球高等教育空间中得天独厚——在东亚/东南亚设立分校、建立合作联盟和研究链接、吸引国际学生和博士人才(pp. 15–16)。
 
-> 例：1990 年代末到 2000 年代初，英国的诺丁汉大学在马来西亚和中国宁波设立了分校，澳大利亚的莫纳什大学在南非和马来西亚设立了分校——这些都是"制造全球空间"的具体行为。它们不只是物理校舍的复制，更是一种社会[[Lefebvre's Spatial Triad|空间的生产]]——将英澳的学术规范、教学语言（英语）、质量标准和管理模式植入新的地理环境。
+> 例：1990 年代末到 2000 年代初，英国的诺丁汉大学在马来西亚和中国宁波设立了分校，澳大利亚的莫[[Roy Nash|纳什]]大学在南非和马来西亚设立了分校——这些都是"制造全球空间"的具体行为。它们不只是物理校舍的复制，更是一种社会[[Lefebvre's Spatial Triad|空间的生产]]——将英澳的学术规范、教学语言（英语）、质量标准和管理模式植入新的地理环境。
 
 **4c. 揭示霸权的双重性质** — 在表面同质化之下，这一时期也存在多种全球化实践。五种不同的全球化空间类型被识别出来(pp. 16–17)：
 - 全球原住民活动者的叙事交流和团结网络

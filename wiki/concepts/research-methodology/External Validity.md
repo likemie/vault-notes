@@ -7,7 +7,7 @@ aliases:
 summary: "研究结果能够推广到更广泛总体、案例、情境、时间或环境的程度，在量化研究中关乎从样本到总体的统计推广，在质性研究中转化为可比较性和可迁移性"
 type: concept
 domain: "research-methodology"
-related_count: 63
+related_count: 64
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -57,6 +57,7 @@ related_methods:
   - "[[Efficacy Trial]]"
   - "[[Effectiveness Trial]]"
   - "[[Sample Size Determination]]"
+  - "[[Research Synthesis]]"
   - "[[Meta-analysis]]"
   - "[[Systematic Review]]"
   - "[[Pre-test and Post-test]]"
@@ -85,7 +86,7 @@ related_persons:
   - "[[Egon G. Guba]]"
 status: active
 created: 2026-05-31
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # External Validity
 
@@ -177,7 +178,7 @@ Schofield (1990) 精准刻画了这一分裂：对于一派，通过剥离情境
 
 ### 命题三　单项试验无法自足确立外部效度，跨情境证据综合构成可推广性的根本基石
 
-> [!concept-lens] 宏观政策外推的证据综合[[Paradigm\|范式]]
+> [!concept-lens] 宏观政策外推的[[Research Synthesis|证据综合]][[Paradigm\|范式]]
 > 探讨如何超越单项孤立试验的局限，构建面向系统决策的外部推广效力。
 
 > [!claim] Shadish, W. R.

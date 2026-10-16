@@ -7,9 +7,9 @@ aliases:
 summary: "围绕 John Hattie Visible Learning 展开的批评谱系，集中讨论效应量排名、元-元分析、教学理论、教育哲学、可见性政治和商业化政策扩张等争议。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 139
-related_level: 13
-related_stars: "💎💎💎💎⭐"
+related_count: 140
+related_level: 14
+related_stars: "💎💎💎💎⭐⭐"
 related_color: "#ddd6fe"
 tags:
   - visible-learning
@@ -120,6 +120,7 @@ related_methods:
   - "[[Statistical Significance]]"
   - "[[Confidence Interval]]"
   - "[[Qualitative Research]]"
+  - "[[Research Synthesis]]"
   - "[[Internal Consistency]]"
 related_persons:
   - "[[John Hattie]]"
@@ -166,7 +167,7 @@ related_instruments:
 confidence: medium
 status: draft
 created: 2026-05-21
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Critiques of Visible Learning
@@ -533,7 +534,7 @@ updated: 2026-10-16
 > 3. **反向[[Disciplina and Doctrina|规训]]与遮蔽** 带着统计数字返回教育传统，但传统已被撕裂；教育的内在本质和生命力被剥离，转由对简单指标的量化表现来强制执行。
 
 > [!tension] [[Dependent Variable|因变量]][[Operationalization|操作化]]失焦与研究笼子的高[[Reliability|信度]]陷阱（[[Argument_Rømer_2018_EPT|Rømer, 2018, pp. 5–6]]；[[Argument_Qvortrup_2015_Paideia|Qvortrup, 2015]]）
-> - **学业成就层次失焦** 哈蒂虽在概念上区分了表层、深层与建构性理解，但在 60,000 项研究综合中从未阐明学业成就究竟操作化为哪个层次，经验测度过度偏向纸笔测验中的表层技能记忆。
+> - **学业成就层次失焦** 哈蒂虽在概念上区分了表层、深层与建构性理解，但在 60,000 项[[Research Synthesis|研究综合]]中从未阐明学业成就究竟操作化为哪个层次，经验测度过度偏向纸笔测验中的表层技能记忆。
 > - **研究笼子（Research Cage）** 体系具有极高的[[Reliability|信度]]与[[Internal Consistency|内部一致性]]，但因变量与[[Independent Variable|自变量]]相互循环定义，与真实教育对象本身严重脱离，实质是以牺牲高效度换取了高信度。
 
 > [!critique-logic] 学习非即时可见性与[[Phenomenology|现象学]]存在性时间（[[Argument_Larsen_2019_EducSci|Larsen, 2019, pp. 3–4]]）
@@ -847,16 +848,6 @@ updated: 2026-10-16
 > | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 新西兰与[[International Schools\|国际学校]]效能多层实证研究 | 社会学与计量经济学方差分解比对 | 校外社会背景 vs. 校内因素方差解释率 | 阶级、贫困、家庭资源与健康营养解释学生成绩方差的 **70–80%** | 校内可控变量仅占剩余 20–30% | 证实其排除非学校因素的假说严重脱离教育现实 |
 > | [[Argument_OConnor_2020_AJLL\|O'Connor (2020)]] | VL [[Whole Language\|全语言]]阅读教学元分析处理流程 | 原始引文核验与效应量溯源 | 审查偏倚；删除标准；手动修正方向 | 800+ 项元分析中唯一被手动修正效应量的案例；选择性删除支持全语言的原始研究 | 修正方向完全契合[[John Hattie\|哈蒂]]先验立场 | 证实先验理论偏见直接驱动了次级文献的选择性筛选与篡改 |
 > | [[Argument_Nielsen_2021_IRTP\|Nielsen and Klitmøller (2021b)]] | 反馈（$d=0.73$）项下贡献最大的 5 项元分析（62,761 人，占 92%） | 概念同质性与基础研究逐项审查 | 反馈定义合规性；核心干预类型 | 仅 1 项（Kluger & DeNisi, 1996，且 $d=0.38$）符合定义；其余 4 项为强化、线索、即时性与考官辅助 | 贡献最大的 Witt 样本达 2.4 万人但全文未提及反馈 | 证实其高排名效应量建立在混淆概念标签的概念[[Heterogeneity\|异质性]]之上 |
-
----
-
-## 相关案例／政策
-
-> [!example] 相关案例／政策
-> - [[Visible Learning Branding and Global Influences]] — 承接 VL 在品牌化、顾问市场、工具链和制度传播上的具体案例。
-> - [[Treasury Briefing on Student-Teacher Ratios]] — 展示 VL 式证据如何被财政和政策逻辑选择性使用。
-> - [[EEF Teaching and Learning Toolkit]] — 作为与 VL 共享"排名式证据地图"逻辑的平行案例，方便比较相似的批评为何反复出现。
-> - [[Danish Public School Reform]] — 展示 VL 进入国家改革后如何迅速引发支持与反弹。
 
 ---
 

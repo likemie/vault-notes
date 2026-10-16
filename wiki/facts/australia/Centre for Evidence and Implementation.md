@@ -9,7 +9,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 16
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -30,8 +30,10 @@ related_concepts:
 related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
 related_methods:
+  - "[[Research Synthesis]]"
   - "[[Systematic Review]]"
-related_persons: []
+related_persons:
+  - "[[Roy Nash]]"
 related_facts:
   - "[[Australian Education Research Organisation]]"
   - "[[Strong Beginnings Report]]"
@@ -43,7 +45,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-16
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Centre for Evidence and Implementation
@@ -55,7 +57,7 @@ updated: 2026-10-16
 > [!event-context] 机构背景
 > - **时间 / 地点** 成立于澳大利亚（在英国、新加坡等地设有分支机构）。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024, p. 8)]]
 > - **关键主体** 证据与实施中心（Centre for Evidence and Implementation, CEI）。
-> - **制度背景** 自我定位为一个“全球性的、非营利[[Educational Brokerage Agency\|证据中介机构]]”（global, not-for-profit evidence intermediary），致力于运用实施科学（Implementation Science）方法，通过中介评估、证据综合与知识转化，推动高质量研究在公共服务、社会福利和教育系统中的有效落地。
+> - **制度背景** 自我定位为一个“全球性的、非营利[[Educational Brokerage Agency\|证据中介机构]]”（global, not-for-profit evidence intermediary），致力于运用实施科学（Implementation Science）方法，通过中介评估、[[Research Synthesis|证据综合]]与知识转化，推动高质量研究在公共服务、社会福利和教育系统中的有效落地。
 > - **触发条件** 在公共部门向外部专业智库和[[Boundary Spanner\|知识经纪人]]（Evidence Brokers）外包政策评估的治理转向下，CEI 既受官方委托开展宏观审查，亦广泛参与大学与智库的高级别学术咨询网络。
 
 ---
@@ -63,7 +65,7 @@ updated: 2026-10-16
 ## 经过
 
 > [!timeline] 机构发展与关键活动
-> - **2019–2022 — 参与 [[Quality Use of Research Evidence Framework\|QURE]] 框架前沿研制与利益相关方咨询** 莫纳什大学开展旨在构建研究证据高质量使用框架（QURE 框架）的大规模跨部门[[Systematic Review\|系统综述]]期间，CEI 作为核心研究中介机构专家团队，深度卷入针对澳大利亚新南威尔士、维多利亚等州教育系统领导者与方法学专家的多轮咨询网络，为[[Research Utilization\|证据使用]]的实施维度与中介机制提供专业输入。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, p. 138)]]
+> - **2019–2022 — 参与 [[Quality Use of Research Evidence Framework\|QURE]] 框架前沿研制与利益相关方咨询** 莫[[Roy Nash|纳什]]大学开展旨在构建研究证据高质量使用框架（QURE 框架）的大规模跨部门[[Systematic Review\|系统综述]]期间，CEI 作为核心研究中介机构专家团队，深度卷入针对澳大利亚新南威尔士、维多利亚等州教育系统领导者与方法学专家的多轮咨询网络，为[[Research Utilization\|证据使用]]的实施维度与中介机制提供专业输入。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, p. 138)]]
 > - **2021 — 受托开展澳大利亚教育循证实践桌面审查** 受官方证据机构[[Australian Education Research Organisation\|澳大利亚教育研究组织]]（AERO）委托，针对全澳学校采纳[[Evidence-Informed Practice\|证据知情实践]]的现状开展全面桌面审查（Desktop Review），并于当年 12 月完成撰写并上线发布。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024, p. 8)]]
 > - **2023 — 审查结论被采纳为全国教师教育改革大纲依据** 该桌面审查报告（Abdo et al., 2021）被教师教育专家小组（TEEP）全盘采纳，成为起草《强劲开端》（[[Strong Beginnings Report]]）全国教师教育“大脑与学习”核心内容强制标准的底层论证基础。
 

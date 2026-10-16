@@ -11,9 +11,9 @@ subtype: program
 region: uk
 fact_region: "uk"
 fact_kind: "program"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: 2000–2011
 initiator_organization: "Economic and Social Research Council (ESRC)"
@@ -38,6 +38,7 @@ related_concepts:
   - "[[Research-Practice Partnership]]"
 related_theories: []
 related_methods:
+  - "[[Research Synthesis]]"
   - "[[Action Research]]"
 related_instruments: []
 related_persons: []
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-12
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Teaching and Learning Research Programme
@@ -98,7 +99,7 @@ updated: 2026-10-16
 > [!dev-timeline]- 项目推进历程
 > - **2000–2003 — 基础构建与第一期项目启动** 确立以“[[Effective Teaching\|有效教学]]”为主题的立项标准，推行用户参与准则，资助首批中小学课堂教学改进重点项目。
 > - **2004–2008 — 领域扩展与全系统深化** 扩展至高等教育、职业技术教育与职场工作场所学习，全面深化研究者与教师工会、学区管理层的跨界伙伴网络。
-> - **2008–2011 — 综合集成与十项原则沉淀** 开展跨课题证据综合，提炼全英通用的“有效教与学十项循证原则”（Ten Principles for Effective Teaching and Learning），完成终期结项并沉淀全系统动员网络。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 20–21)]]
+> - **2008–2011 — 综合集成与十项原则沉淀** 开展跨课题[[Research Synthesis|证据综合]]，提炼全英通用的“有效教与学十项循证原则”（Ten Principles for Effective Teaching and Learning），完成终期结项并沉淀全系统动员网络。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 20–21)]]
 > - **2011 之后 — 制度转型与经验承接** 随着联合政府推行《[[The Importance of Teaching\|教学的重要性]]》白皮书，TLRP 这种由中央专项基金支撑的供给端模式受到反思，其注重学校内生需求与实证工具箱的理念被新设的[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）深度吸收。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 119–120)]]
 
 ---
@@ -107,7 +108,7 @@ updated: 2026-10-16
 
 > [!actor-grid] 实施协同矩阵
 > - **发起与资助方（ESRC / [[Higher Education Funding Council for England\|HEFCE]]）** 负责宏观战略制定、财政资源统筹与跨部门联络，确立用户参与作为课题资助与结项的强制性指标。
-> - **国家指导中心（TLRP Directors' Team）** 由安德鲁·波拉德（Andrew Pollard）等资深学者领衔，负责全英课题的学术质量监管、跨团队证据综合与全英[[Knowledge Mobilisation\|知识动员]]协调。
+> - **国家指导中心（TLRP Directors' Team）** 由安德鲁·波拉德（Andrew Pollard）等资深学者领衔，负责全英课题的学术质量监管、跨团队[[Research Synthesis|证据综合]]与全英[[Knowledge Mobilisation\|知识动员]]协调。
 > - **一线执行联合体（大学与中小学伙伴）** 大学研究团队与中小学校长、教研员组成联合课题组，在真实课堂情境中协同开展[[Action Research\|行动研究]]与准实验干预。
 > - **政策与专业受众** 教育部分支机构、地方教育局及教师专业联合会，作为咨询专家和试验反馈者深度融入项目各环节。
 

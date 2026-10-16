@@ -7,7 +7,7 @@ summary: "德国教育学者和 Didaktik 研究者，好教学十项标准提出
 type: person
 nationality: germany
 person_region: "germany"
-person_related_count: 2
+person_related_count: 3
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -21,7 +21,8 @@ tags:
 related_concepts:
   - "[[Effective Teaching]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Research Synthesis]]"
 related_persons: []
 related_facts: []
 related_arguments:
@@ -29,12 +30,12 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-05'
-updated: 2026-09-11
+updated: 2026-10-17
 ---
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** Hilbert Meyer 是德语[[Effective Teaching\|有效教学]]研究综合的重要作者，代表作 *Hvad er god undervisning?* 提出了一套"好教学"的十项质量标准。他的研究综合常与 Hattie、Helmke 的工作并列讨论，用来概括教师领导、照顾个别学生、清晰目标和学习导向课堂气氛等有效教学质量([[Argument_Laursen_2015_Paideia\|Laursen, 2015, pp.34–35]])。
+> - **身份位置** Hilbert Meyer 是德语[[Effective Teaching\|有效教学]][[Research Synthesis|研究综合]]的重要作者，代表作 *Hvad er god undervisning?* 提出了一套"好教学"的十项质量标准。他的研究综合常与 Hattie、Helmke 的工作并列讨论，用来概括教师领导、照顾个别学生、清晰目标和学习导向课堂气氛等有效教学质量([[Argument_Laursen_2015_Paideia\|Laursen, 2015, pp.34–35]])。
 
 ## 核心思想
 
@@ -45,7 +46,7 @@ updated: 2026-09-11
 ## 主要贡献
 
 > [!success] 主要贡献
-> - [[Effective Teaching]] — Meyer 的研究综合是德语有效教学证据的重要来源之一；它与 Hattie、Helmke 共同支持一个判断：促进学生学习的关键不是某种固定教学方法，而是清晰目标、教师领导、良好氛围、适配学生前提和学生主动参与等基础质量([[Argument_Laursen_2015_Paideia\|Laursen, 2015, pp.35–36]])。
+> - [[Effective Teaching]] — Meyer 的[[Research Synthesis|研究综合]]是德语有效教学证据的重要来源之一；它与 Hattie、Helmke 共同支持一个判断：促进学生学习的关键不是某种固定教学方法，而是清晰目标、教师领导、良好氛围、适配学生前提和学生主动参与等基础质量([[Argument_Laursen_2015_Paideia\|Laursen, 2015, pp.35–36]])。
 
 ## 主要著作
 

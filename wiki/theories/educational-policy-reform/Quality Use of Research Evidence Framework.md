@@ -11,7 +11,7 @@ aliases:
 summary: "由澳大利亚莫纳什大学 Q 项目提出的研究使用理论框架，将质量使用界定为对适切研究证据的审慎参与与实施，受个体、组织与系统多层使能构件协同支持，提炼出六大实践特征并广泛应用于学校实践与跨国政策生态诊断"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 61
+theory_related_count: 63
 theory_related_level: 6
 theory_related_stars: "💎💎"
 theory_related_color: "#fef3c7"
@@ -70,6 +70,7 @@ related_methods:
   - "[[Practitioner Enquiry]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Mixed Methods Research]]"
+  - "[[Research Synthesis]]"
   - "[[In-depth Interview]]"
   - "[[Framework Synthesis]]"
   - "[[Qualitative Research]]"
@@ -78,7 +79,8 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Correlational Research]]"
 related_instruments: []
-related_persons: []
+related_persons:
+  - "[[Roy Nash]]"
 related_facts:
   - "[[OECD]]"
   - "[[Strengthening the Impact of Education Research Project]]"
@@ -94,7 +96,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-25
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Quality Use of Research Evidence Framework
@@ -107,7 +109,7 @@ updated: 2026-10-16
 > - **解释对象** 教育领域中研究[[Research Utilization\|证据使用]]的质态（Quality of Use），即超越使用与否的二元统计（如文献阅读量、点击率或引用频次），解释何谓高质量使用（即适切证据与审慎实施的双核互构），以及个体素养心智、学校组织生态与宏观系统治理在多大程度上协同促成或阻碍深思熟虑的证据利用。
 > - **理论问题** 突破传统供给驱动（Push）模式将研究使用窄化为单向学术推送的线性偏误，回应一线教育实践者缺乏甄别信心、被动采购外部方案、时间极度匮乏以及研究脱离教学现场的深层实践困境，建构由供给驱动向需求牵引（Pull）转型的系统解释框架。
 > - **理论类型** 跨层使能机制模型（Multi-level Enabling Framework）、中层[[Analytic Framework\|分析框架]]与规范性实践指引。
-> - **知识位置** 源自澳大利亚莫纳什大学 Q 项目，由 Rickinson et al. (2020, 2022) 奠定核心概念基石；在《教育研究》（*Educational Research*）正式发表跨领域[[Systematic Review\|系统综述]]奠基成果（[[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a]]），并被[[OECD\|经合组织]]（Organisation for Economic Co-operation and Development, [[OECD]]）[[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]确立为贯通微观学校实践（第 9 章）与宏观跨国政策生态诊断（第 1、2、4 章）的核心理论支柱（[[Argument_Revai_2022_ChangingLandscape\|Révai, 2022]]; [[Argument_Torres_2022_KMModels\|Torres, 2022b]]; [[Argument_Hill_2022_FacilitatingActors\|Hill, 2022]]; [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al., 2022b]]）。
+> - **知识位置** 源自澳大利亚莫[[Roy Nash|纳什]]大学 Q 项目，由 Rickinson et al. (2020, 2022) 奠定核心概念基石；在《教育研究》（*Educational Research*）正式发表跨领域[[Systematic Review\|系统综述]]奠基成果（[[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a]]），并被[[OECD\|经合组织]]（Organisation for Economic Co-operation and Development, [[OECD]]）[[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]确立为贯通微观学校实践（第 9 章）与宏观跨国政策生态诊断（第 1、2、4 章）的核心理论支柱（[[Argument_Revai_2022_ChangingLandscape\|Révai, 2022]]; [[Argument_Torres_2022_KMModels\|Torres, 2022b]]; [[Argument_Hill_2022_FacilitatingActors\|Hill, 2022]]; [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al., 2022b]]）。
 
 > [!claim] 核心主张
 > 高质量研究证据使用并非表层的接触频次或机械套用，而是在复杂教育系统内，由个体（技能、心智、关系）、组织（领导力、文化、基础架构）与系统环境多层使能构件协同支持的、对适切研究证据的审慎参与和实施；其实质内涵体现在一线教育者共识确立的六大实践特征（目标明确、常态嵌入、连接专业精神、集体参与、依赖时间精力、好奇心驱动），唯有在制度化排程与榜样型领导力保障下打破时间赤字与单向供给偏误，方能实现研究证据与专业[[Phronesis\|实践智慧]]的深层融合。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 185–191)]]
@@ -121,7 +123,7 @@ updated: 2026-10-16
 
 ## 关键概念与理论构件
 
-教育中研究证据质量使用框架（QURE）由澳大利亚莫纳什大学 Q 项目提出，构建了以“适切研究证据”与“审慎参与和实施”为双核心内核、受个体/组织/系统三层使能构件协同支撑的立体理论构架。
+教育中研究证据质量使用框架（QURE）由澳大利亚莫[[Roy Nash|纳什]]大学 Q 项目提出，构建了以“适切研究证据”与“审慎参与和实施”为双核心内核、受个体/组织/系统三层使能构件协同支撑的立体理论构架。
 
 > [!entry-map]
 >
@@ -298,7 +300,7 @@ QURE 框架的[[Ontology|本体论]]突破在于打破侧重“证据生产质�
 > [!theory-stance] [[Epistemic Stances\|认识论立场]]
 > - **[[Ontology\|本体论]]** 将[[Research Utilization\|研究使用]]理解为嵌入复杂自适应教育系统（[[Complexity Theory\|complex adaptive systems]]）中的多层社会实践过程，个体行动受学校微观制度、[[Organizational Culture\|组织文化]]与宏观治理结构的深刻制约与赋权。
 > - **[[Epistemology\|认识论]]** 承认研究证据并非决策与实践的唯一裁决者，而是与教师[[Professional Judgment\|专业判断]]（[[Professional Judgment\|Professional Judgment]]）、[[Phronesis\|实践智慧]]（[[Phronesis\|Phronesis]]）及学校情境知识处于平等、互构地位的合法知识资源；证据的适切性取决于具体情境与用途。
-> - **方法含义** 支持多层级、[[Mixed Methods Research\|混合方法]]的证据综合与实证调查；主张将标准化[[Questionnaire\|问卷调查]]、半结构化[[In-depth Interview\|深度访谈]]与[[Framework Synthesis\|框架综合]]（Framework Synthesis）相结合，对跨层使能指标与质性特征展开互证检验。
+> - **方法含义** 支持多层级、[[Mixed Methods Research\|混合方法]]的[[Research Synthesis|证据综合]]与实证调查；主张将标准化[[Questionnaire\|问卷调查]]、半结构化[[In-depth Interview\|深度访谈]]与[[Framework Synthesis\|框架综合]]（Framework Synthesis）相结合，对跨层使能指标与质性特征展开互证检验。
 > - **不能直接推出的东西** QURE 框架不能自动证明特定教学干预的因果效果量大小，不预先规定哪类研究方法在任何情境下都绝对最优，也不把审慎参与等同于某种机械僵化的教研套路。
 
 > [!theory-use] 如何用于研究
@@ -332,7 +334,7 @@ QURE 框架的[[Ontology|本体论]]突破在于打破侧重“证据生产质�
 ## 发展脉络
 
 > [!dev-timeline] 发展脉络
-> - **2019 — 跨领域[[Systematic Review\|系统综述]]与概念奠基** 莫纳什大学 Q 项目团队针对卫生保健、社会关照、公共政策与教育四大领域的[[Research Utilization\|证据使用]]文献展开系统综述与[[Narrative Synthesis\|叙事综合]]，发现各领域均缺乏关于使用质量的直接界定，初步建构 QURE 框架并开展学校利益相关者工作坊迭代。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 184, 199)]]
+> - **2019 — 跨领域[[Systematic Review\|系统综述]]与概念奠基** 莫[[Roy Nash|纳什]]大学 Q 项目团队针对卫生保健、社会关照、公共政策与教育四大领域的[[Research Utilization\|证据使用]]文献展开系统综述与[[Narrative Synthesis\|叙事综合]]，发现各领域均缺乏关于使用质量的直接界定，初步建构 QURE 框架并开展学校利益相关者工作坊迭代。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 184, 199)]]
 > - **2020 — 框架正式发布** 团队发布奠基性专著报告《Using Evidence Better: Quality Use of Research Evidence Framework》，明确提出双核互构与三层使能系统，将研究使用议程由证据质量转向使用质量（Rickinson et al., 2020）。
 > - **2022 — 同行评议奠基论文发表于《教育研究》** [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a)]] 在《教育研究》（*Educational Research*）发表同行评议理论论文，详述基于卫生、社会关照、教育与政策四大领域 112 篇核心文献的跨领域系统综述与叙事综合方法，正式确立适切证据与审慎实施双核，并系统阐述个体、组织使能构件及宏观系统影响。（[[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a, pp. 133–158]]）
 > - **2022 — [[OECD]] [[Knowledge Mobilisation\|知识动员]]模型横向比较** [[Argument_Torres_2022_KMModels\|Torres (2022b)]] 将 QURE 框架作为考察使用质量的第四代创新知识动员模型纳入横向比较，指出其突破了传统模型只关注使用有无的局限，从个体、组织与系统全链条定义了“用得好”的实质内涵。[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 47–50)]]
@@ -383,4 +385,4 @@ QURE 框架的[[Ontology|本体论]]突破在于打破侧重“证据生产质�
 > - [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] — 以 QURE 为理论基石确立强化教育[[Research Impact\|研究影响力]]的五维宏观政策诊断模型（结构、关系、质量、文化、能力）。
 > - [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 系统剖析 QURE 框架在教育[[Knowledge Mobilisation\|知识动员]]模型演进中的前沿定位，肯定其在定义深思熟虑使用与多层使能结构上的理论贡献。
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] — 以 QURE 为主先验框架进行[[Framework Synthesis\|框架综合]]，聚合分析映射各层级发现，并据实证结果将框架重构为跨层治理机制模型。
-> - **Gleeson et al. (2023, 2024)** — 莫纳什大学 Q 项目跟进研究，开发出基于 QURE 框架的学校研究使用自评与诊断工具。
+> - **Gleeson et al. (2023, 2024)** — 莫[[Roy Nash|纳什]]大学 Q 项目跟进研究，开发出基于 QURE 框架的学校研究使用自评与诊断工具。

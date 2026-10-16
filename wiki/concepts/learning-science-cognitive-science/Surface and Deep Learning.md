@@ -7,7 +7,7 @@ aliases:
 summary: "区分学生在具体任务中采用的表层与深层学习方式，强调学习取向由学习意图、知识基础、任务活动、课程结构与评估情境共同塑造"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 35
+related_count: 36
 related_level: 3
 related_stars: "💎"
 related_color: "#fde68a"
@@ -41,6 +41,7 @@ related_theories:
   - "[[Phenomenography]]"
   - "[[Dynamic Knowledge and Learning Model]]"
 related_methods:
+  - "[[Research Synthesis]]"
   - "[[Meta-analysis]]"
   - "[[Confidence Interval]]"
   - "[[Effect Size]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Surface and Deep Learning
@@ -211,7 +212,7 @@ updated: 2026-10-16
 > - **1996 — 记忆功能的跨文化修正** [[Argument_Li_2012_Cambridge\|Marton et al. (1996, as cited in Li, 2012, pp. 86–87)]] 发现，记忆可以成为理解过程的组成部分，也可以超越机械复述的终点。该研究促使学界重新审视外显行为与学习层次之间的关系。
 > - **1999 — 从描述学习转向设计教学** Biggs 把学习取向纳入教学系统，主张通过目标、活动和评估的对齐，让原本只在有利条件下深入学习的学生也开展高阶活动。[[Argument_Biggs_1999_HERD\|Biggs (1999, pp. 57–70)]]
 > - **2000–2012 — 跨文化研究扩展与综合** [[Argument_Li_2012_Cambridge\|Dahlin & Watkins (2000, as cited in Li, 2012, pp. 86–87)]] 对重复功能的中英比较，以及 [[Argument_Li_2012_Cambridge|Li (2012, pp. 82–89)]] 对[[Paradox of the Chinese Learner\|中国学习者悖论]]研究的系统整理，进一步表明学习行为必须放在文化信念和完整过程顺序中解释。
-> - **2009–2015 — 证据综合与结果层次** Hattie 把表层知识、深层理解和迁移纳入教学影响的讨论，同时承认大量研究与课堂测量偏向表层结果。教学研究因而要追问不同层次之间何时转换，单纯比较方法名称无法回答这个问题。[[Argument_Hattie_2015_Paideia\|Hattie (2015a, pp. 18–19)]]；[[Argument_Hattie_2015_SOTLP\|Hattie (2015b, pp. 80, 84–85)]]
+> - **2009–2015 — [[Research Synthesis|证据综合]]与结果层次** Hattie 把表层知识、深层理解和迁移纳入教学影响的讨论，同时承认大量研究与课堂测量偏向表层结果。教学研究因而要追问不同层次之间何时转换，单纯比较方法名称无法回答这个问题。[[Argument_Hattie_2015_Paideia\|Hattie (2015a, pp. 18–19)]]；[[Argument_Hattie_2015_SOTLP\|Hattie (2015b, pp. 80, 84–85)]]
 > - **2015 — 动态知识模型的修正** Qvortrup 指出，单一的学习结果会掩盖表层、深层和概念理解之间的差异。[[Dynamic Knowledge and Learning Model\|动态知识与学习模型]]把知道什么、知道如何使用、知道为何如此及知识边界理解为相互作用的层次。[[Argument_Qvortrup_2015_Paideia\|Qvortrup (2015, pp. 27–32)]]
 > - **2023 — 课程连贯性的扩展** McPhail et al. 将深层学习落实为概念知识与应用知识之间可说明的连接，进一步把学习取向问题转化为课程知识选择与组织问题。[[Argument_McPhail_2023_JCS\|McPhail et al. (2023, pp. 4–16)]]
 

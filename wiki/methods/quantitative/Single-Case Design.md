@@ -7,7 +7,7 @@ summary: "多义词：量化实验中个体作为自身控制的重复测量设�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 34
+method_related_count: 35
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -44,6 +44,7 @@ related_methods:
   - "[[Repeated Measures Design]]"
   - "[[Randomised Controlled Trials]]"
   - "[[ABAB Design]]"
+  - "[[Research Synthesis]]"
   - "[[Sample Size Determination]]"
   - "[[Intervention Research]]"
   - "[[Gating Procedure]]"
@@ -61,7 +62,7 @@ related_facts:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 ## 概念辨析：两种含义
@@ -104,7 +105,7 @@ Single-case design 在教育研究方法论中有两种截然不同的含义，�
 ## 与 WWC SCD Pilot Standards 2010 的关系
 
 
-[[Single-Case Design]] 是一种研究方法；[[WWC SCD Pilot Standards]] 则是 [[What Works Clearinghouse]] 为了审查 SCD 研究而制定的专门技术标准。两者不是同一层级：SCD 回答"如何用单个个体或小群体作为自身控制来生成因果证据"，WWC SCD Pilot Standards 2010 回答"WWC 如何判断某项 SCD 研究是否达到足够[[Internal Validity|内部效度]]、能否进入后续证据综合"([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp.459–461, 464–466]])。
+[[Single-Case Design]] 是一种研究方法；[[WWC SCD Pilot Standards]] 则是 [[What Works Clearinghouse]] 为了审查 SCD 研究而制定的专门技术标准。两者不是同一层级：SCD 回答"如何用单个个体或小群体作为自身控制来生成因果证据"，WWC SCD Pilot Standards 2010 回答"WWC 如何判断某项 SCD 研究是否达到足够[[Internal Validity|内部效度]]、能否进入后续[[Research Synthesis|证据综合]]"([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp.459–461, 464–466]])。
 
 因此，WWC SCD Pilot Standards 2010 应被视为 SCD 在[[Educational Evidence Clearinghouses|教育证据清算中心]]中的制度化应用案例，而不是 SCD 方法本身的完整定义。它把 SCD 方法转化为 WWC 审查流程中的操作性标准：先依据审查协议筛选研究，再用 SCD 设计标准评估内部效度，通过后才由 SCD Review Guide 记录推广性信息，并最终使用 [[5-3-20 Rule]] 判断证据是否足以生成 WWC 干预报告([[Argument_Hitchcock_2015_JBE|Hitchcock et al., 2015, pp.461, 464–466]])。
 
@@ -124,7 +125,7 @@ Single-case design 在教育研究方法论中有两种截然不同的含义，�
 > 1. **初步筛选（Screening）** 对照审查协议确定研究是否有资格纳入审查：干预是否符合条件、因[[Variable\|变量]]和参与者特征是否符合协议参数、研究是否在指定场所进行（pp. 464–465）。例如一个审查协议可能规定干预必须在 K-12 学校环境中实施，普通教室可接受，但高度专业化人员配置的住宿项目可能不相关（p. 465）
 > 2. **[[Internal Validity\|内部效度]]评估** [[Evaluation Research\|评估研究]]的实验控制水平，包括：阶段对比的数量、每个阶段的数据点数量、结果是否被可靠测量、研究者是否主动操纵了[[Independent Variable\|自变量]]、通过视觉分析评估基线表现相对于干预阶段的表现（p. 465）
 > 3. **研究细节描述** 系统记录以下信息以支持推广性判断：场所描述、设计类型、参与者特征和[[Sample Size Determination\|样本量]]、[[Dependent Variable\|因变量]]的[[Definition of Terms\|操作性定义]]和记录方法、基线和干预条件、实施者及其培训、干预忠实度（pp. 465–466）
-> 4. **证据综合阈值判定** 应用 [[5-3-20 Rule]] 判断 SCD 证据是否足够充分以生成 WWC 干预报告
+> 4. **[[Research Synthesis|证据综合]]阈值判定** 应用 [[5-3-20 Rule]] 判断 SCD 证据是否足够充分以生成 WWC 干预报告
 
 ## 适用场景
 
@@ -145,7 +146,7 @@ Single-case design 在教育研究方法论中有两种截然不同的含义，�
 ## 局限性
 
 > [!method-limits] 方法局限
-> - **推广性挑战** 评估 SCD 的[[External Validity\|外部效度]]比评判[[Internal Validity\|内部效度]]更复杂——研究者进行证据综合时可能不知道信息消费者希望推广到何种情境([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, pp.462–463]])
+> - **推广性挑战** 评估 SCD 的[[External Validity\|外部效度]]比评判[[Internal Validity\|内部效度]]更复杂——研究者进行[[Research Synthesis|证据综合]]时可能不知道信息消费者希望推广到何种情境([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, pp.462–463]])
 > - **[[Threats to External Validity\|外部效度威胁]]多样** 多重处理干扰、跨情境推广性、跨被试推广性、跨结果推广性(Kazdin, 2011; Shadish et al., 2002; [[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, p.462]])
 > - **普遍信念偏见** 存在一种普遍（但错误）的信念认为 SCD 证据不能推广，尽管事实上它可以(Barlow et al., 2009; [[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, p.467]])
 > - **单一研究不足以支撑[[Theories of Policy Change\|政策变革]]** 一项 SCD 研究不太可能产生足够的实证证据来支持政策变革，即使它可能推动局部实践的调整([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, p.460]])

@@ -7,7 +7,7 @@ title: "Argument_Burns_Schuller_2022_BrokerageAgencies"
 argument_key: "Argument_Burns_Schuller_2022_BrokerageAgencies"
 argument_display_title: "History and evolution of brokerage agencies in education"
 argument_kind: "book-chapter"
-argument_related_count: 91
+argument_related_count: 92
 argument_related_level: 9
 argument_related_stars: "💎💎💎"
 argument_related_color: "#fecdd3"
@@ -80,6 +80,7 @@ related_theories:
   - "[[Complexity Theory]]"
 related_methods:
   - "[[Analytic Framework]]"
+  - "[[Research Synthesis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Network Analysis]]"
   - "[[Systematic Review]]"
@@ -136,7 +137,7 @@ sources:
   - "[[books/Revai(Ed.)_2022_OECD/Ch03_Burns_Schuller_2022|Ch03_Burns_Schuller_2022]]"
 status: draft
 created: 2026-09-12
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # Argument_Burns_Schuller_2022_BrokerageAgencies
 
@@ -153,7 +154,7 @@ updated: 2026-10-16
 > [!concept-lens] 阅读透镜
 > - **对象** 追溯经合组织（OECD）2007 年标志性报告以来的十五年政策演进轨迹，以及美、英、欧陆、北欧、大洋洲与亚太等 10 余个教育系统中各具代表性的教育中介机构与跨国协作网络；引入循证医学（Evidence-Based Medicine, EBM；Greenhalgh et al., 2014）的反思透镜。（具体机构与网络考察样本统一详见下文“考察机构与案例快照”）
 > - **张力** 早期对理性科学客观性的一致信奉 vs 后真相语境下算法信息茧房与反科学情绪；向一线实践的全面倾斜 vs 政策高层宏观规制与研发引导责任的隐性缺位；单向知识灌输 vs 复杂网络下的社会互动与专业智慧对话；政党更迭与财政短期考核周期（2–3年） vs 教育系统综合改革显效所需的漫长周期。
-> - **贡献** 突破将中介简化为“证据货架”的技术主义定势，确立了涵盖依附关系、受众导向与方法学立场的教育中介多维制度[[Analytic Framework\|分析框架]]；揭示了中介机构关停并非源于绩效不佳、而是受制于政治预算周期的存续机制；通过循证医学五大危机对教育数字化和刚性指南提出深刻学理预警；并确立了从“单体证据综合”走向“二阶综合”，从“孤立机构”迈向“中介的中介”跨国元治理进路。
+> - **贡献** 突破将中介简化为“证据货架”的技术主义定势，确立了涵盖依附关系、受众导向与方法学立场的教育中介多维制度[[Analytic Framework\|分析框架]]；揭示了中介机构关停并非源于绩效不佳、而是受制于政治预算周期的存续机制；通过循证医学五大危机对教育数字化和刚性指南提出深刻学理预警；并确立了从“单体[[Research Synthesis|证据综合]]”走向“二阶综合”，从“孤立机构”迈向“中介的中介”跨国元治理进路。
 
 ---
 
@@ -363,7 +364,7 @@ updated: 2026-10-16
 这些制度维度的交织演化，形成了各具特色的代表性中介组织实践（pp. 61–64）：
 
 > [!case] 国际代表性教育中介机构典型运作案例
-> - **部委嵌入型：新西兰最佳证据综合（NZ BES）** 由新西兰教育部直接资助并嵌入部委运作，早期为证据综合报告的撰写团队提供一对一的全程辅导，曾产出多部关于[[School Leadership\|学校领导力]]与毛利学生教学法的高质量综合报告；后因执政党更替而终止资助新项目，工作重心退缩为将既有证据转化为案例教学短片。（pp. 61, 64）
+> - **部委嵌入型：新西兰最佳[[Research Synthesis|证据综合]]（NZ BES）** 由新西兰教育部直接资助并嵌入部委运作，早期为证据综合报告的撰写团队提供一对一的全程辅导，曾产出多部关于[[School Leadership\|学校领导力]]与毛利学生教学法的高质量综合报告；后因执政党更替而终止资助新项目，工作重心退缩为将既有证据转化为案例教学短片。（pp. 61, 64）
 > - **政府资助自治型：[[National Institute for Educational Policy Research\|日本国立教育政策研究所]]（NIER）** 作为独立行政法人，特意将办公地点设在与文部科学省（Ministry of Education, Culture, Sports, Science and Technology, MEXT）同一栋大楼内，既保持了作为学术机构的相对独立性，又确保了与高层政策制定的紧密配合。（p. 62）
 > - **大学依托与分权化：[[Kunnskapssenter for utdanning\|挪威教育知识中心]]** 由挪威教育科研部出资设立，保持学术自治；2019 年作为挪威政府行政权力下放改革的重要一环，由首都奥斯陆整体迁往斯塔万格大学（University of Stavanger）；在方法上突破对随机对照试验的单一推崇，开创了吸纳一线教师与研究者共同参与的平行评审与综合规程。（p. 63）
 > - **联邦制协同：[[Swiss Coordination Centre for Research in Education\|瑞士教育研究协调中心]]（SKBF / CSRE）** 作为一个完全独立的常设机构，由瑞士联邦政府与瑞士各州教育局长联席会议（Swiss Conference of Cantonal Ministers of Education, EDK）联合出资维持，有效协调了多语种及高度分权的联邦体制下的知识治理需求。
@@ -516,7 +517,7 @@ updated: 2026-10-16
 > *We might assume that the initiatives that were discontinued were simply not delivering as intended, as clearly any intervention funded by public money should be evaluated for its impact and effectiveness... However, it is also possible that the decisions were made for political as well as practical reasons. We have not yet touched on this point in this chapter, but evidence does not take the politics out of policy making. Indeed, previous OECD work on systemic innovation found that decisions about whether to continue to fund a particular initiative are often taken before results of a programme evaluation are available, and that the evaluation step is the most likely to be skipped or omitted if there are time or financial constraints (OECD, 2009). Among the examples above, funding cuts were more related to changes in government rather than impact or performance measures.*
 
 > [!citation-card] Burns & Schuller 论跨机构协同与累积性知识基石愿景
-> 与医学不同，教育在持续发展和提炼一套准普遍被公认为建立在坚实基础之上的知识体系方面，显得异常薄弱。设计并支持一个高效的教育研发系统是实现这一目标的重要一步。中介机构能够在指定最新的权威知识增量并在它们之间建立连接方面发挥重大作用。尽管确保单一机构与倡议的质量与有效性至关重要，但这仍远远不够。正如研究综合本身已经从关注单篇论文迈向二阶[[Systematic Review\|系统综述]]一样，中介的结构与流程同样需要在机构与系统之间协同运作，以支持累积性的努力。（p. 66）
+> 与医学不同，教育在持续发展和提炼一套准普遍被公认为建立在坚实基础之上的知识体系方面，显得异常薄弱。设计并支持一个高效的教育研发系统是实现这一目标的重要一步。中介机构能够在指定最新的权威知识增量并在它们之间建立连接方面发挥重大作用。尽管确保单一机构与倡议的质量与有效性至关重要，但这仍远远不够。正如[[Research Synthesis|研究综合]]本身已经从关注单篇论文迈向二阶[[Systematic Review\|系统综述]]一样，中介的结构与流程同样需要在机构与系统之间协同运作，以支持累积性的努力。（p. 66）
 >
 > *Unlike medicine, education is conspicuously weak in its ability to continuously develop and refine a body of knowledge that is quasi-universally acknowledged as well founded. Designing and supporting an effective educational R&D system is one step to [[Achieve]] this. Brokerage agencies can play a major part in designating the most recent authoritative additions to the knowledge pile and connecting between them. While ensuring the quality and effectiveness of individual agencies and initiatives is important, it is not enough. Just as research synthesis itself has moved beyond a focus on individual research papers to systematic reviews of reviews, so too do the structures and processes of brokerage need to work together across institutions and systems to support a cumulative effort.*
 

@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -37,6 +37,7 @@ related_methods:
   - "[[Quasi-Experimental Designs]]"
   - "[[Regression Discontinuity Design]]"
   - "[[Intent-to-Treat Analysis]]"
+  - "[[Research Synthesis]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -46,7 +47,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Promise Neighborhoods Research Consortium
@@ -85,7 +86,7 @@ updated: 2026-10-16
 ## 生态定位与历史贡献
 
 > [!warning] 历史地位与经验沉淀
-> - **阶段性科研专项的典范** PNRC 展示了以短期联邦竞争性科研基金（Grant-Funded Consortium）形式运作的[[Educational Brokerage Agency\|证据中介机构]]的生命周期：在资助期内集中产出高质量证据综合，结项后则由学术共同体继承其理论遗产([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 8]])。
+> - **阶段性科研专项的典范** PNRC 展示了以短期联邦竞争性科研基金（Grant-Funded Consortium）形式运作的[[Educational Brokerage Agency\|证据中介机构]]的生命周期：在资助期内集中产出高质量[[Research Synthesis|证据综合]]，结项后则由学术共同体继承其理论遗产([[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, p. 8]])。
 > - **培育环境理论影响** 其提出的最小化毒性应激、强化亲社会行为与支持性学业环境三大支柱，深刻影响了后来的学区与社区协同育人政策。
 
 ---

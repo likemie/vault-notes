@@ -7,7 +7,7 @@ aliases:
 summary: "以异质性小组为基本组织形式，依托积极互赖、面对面互动与个体责任协同促进学生学业成就、高阶思维与社会情感发展的社会建构主义教学范式；二阶元分析证实其对多维产出具有稳健促进效应（ES = 0.71），高阶思维赋能最为突出（ES = 0.76），并受具体技术与学科情境显著调节。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -53,6 +53,7 @@ related_methods:
   - "[[Trim and Fill Method]]"
   - "[[Quasi-Experimental Designs]]"
   - "[[Random Assignment]]"
+  - "[[Research Synthesis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Confidence Interval]]"
   - "[[Sample Size Determination]]"
@@ -65,7 +66,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Cooperative Learning
@@ -195,7 +196,7 @@ updated: 2026-10-16
 > - **1970s — 起源与理论奠基** 合作学习在美国高等教育与基础教育中萌芽，Johnson & Johnson 创立明尼苏达大学合作学习中心，Slavin 开创约翰霍普金斯大学学生团队学习研究项目，奠定社会互赖与个体责任的理论基石。
 > - **1980s–1990s — 技术分化与全球传播** [[Jigsaw]]、STAD、[[Cooperative Integrated Reading and Composition\|CIRC]]、[[Group Investigation]] 等系统化教学技术相继开发并标准化，跨国家、跨学科实证研究广泛展开，确立了五大核心要素标准。
 > - **2000s–2010s — 批判深化与一阶[[Meta-analysis\|元分析]]激增** 学界聚焦不同学科（如数学、化学、物理）与区域（如土耳其、印度尼西亚）开展大量一阶元分析，但暴露出地域集中与学科单一等合成局限。
-> - **2020s 至今 — [[Meta-meta-analysis\|二阶元分析]]整合与[[Higher-Order Thinking Skills\|高阶思维]]拓展** 面对一阶元分析的[[Sampling Error\|抽样误差]]与学科偏倚，研究者运用二阶元分析方法进行跨领域总括性证据综合，重点关注合作学习对 21 世纪[[21st Century Skills and Competencies Discourse\|核心素养]]、高阶思维与[[Problem Solving\|复杂问题解决]]能力的促进机制。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026)]]
+> - **2020s 至今 — [[Meta-meta-analysis\|二阶元分析]]整合与[[Higher-Order Thinking Skills\|高阶思维]]拓展** 面对一阶元分析的[[Sampling Error\|抽样误差]]与学科偏倚，研究者运用二阶元分析方法进行跨领域总括性[[Research Synthesis|证据综合]]，重点关注合作学习对 21 世纪[[21st Century Skills and Competencies Discourse\|核心素养]]、高阶思维与[[Problem Solving\|复杂问题解决]]能力的促进机制。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026)]]
 
 ---
 

@@ -7,7 +7,7 @@ title: "Argument_Torres_2022_KMModels"
 argument_key: "Argument_Torres_2022_KMModels"
 argument_display_title: "Louder than words: Review and comparative analysis of knowledge mobilisation models"
 argument_kind: "book-chapter"
-argument_related_count: 41
+argument_related_count: 43
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#fef3c7"
@@ -69,9 +69,11 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Research Synthesis]]"
 related_instruments: []
 related_persons:
   - "[[José Manuel Torres]]"
+  - "[[Roy Nash]]"
 related_facts:
   - "[[What Works Network]]"
   - "[[Monash Q Project]]"
@@ -83,7 +85,7 @@ sources:
   - "[[books/Revai(Ed.)_2022_OECD/Ch02_Torres_2022|Ch02_Torres_2022]]"
 status: draft
 created: 2026-09-12
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # Argument_Torres_2022_KMModels
 
@@ -292,7 +294,7 @@ Gough et al. (2011, 2018, 2019) 历经近十年迭代，将教育知识动员推
 >
 > - **Panel C：确立双层嵌套生态架构（Gough, Thomas, & Oliver, 2019）**
 >
->   通过虚线将框架严格划分为双层系统：内层为狭义的证据生态系统（涵盖证据综合、初级研究、沟通转译与决策采纳）；外层为更广泛的系统与情境（涵盖行动者、多元视点、议题争议、治理问题与权力博弈）。（pp.42–43）
+>   通过虚线将框架严格划分为双层系统：内层为狭义的证据生态系统（涵盖[[Research Synthesis|证据综合]]、初级研究、沟通转译与决策采纳）；外层为更广泛的系统与情境（涵盖行动者、多元视点、议题争议、治理问题与权力博弈）。（pp.42–43）
 
 #### 5. 四大主流知识动员模型的多维类型学横向比照
 
@@ -367,7 +369,7 @@ Cain (2015) 聚焦一线中小学教师面对学术研究文献时的真实认�
 
 #### 3. Rickinson 高质量研究使用框架：超越“用不用”二元论的质量定义
 
-Rickinson et al. (2020) 基于澳大利亚莫纳什大学 Q 项目（The [[Monash Q Project|Q Project]]），针对教育实践中研究使用的质量标准给出了突破性定义，提出[[Quality Use of Research Evidence Framework|高质量研究使用框架]]（[[Quality Use of Research Evidence Framework|Quality Use of Research Evidence]], QURE），将核心聚焦于对恰当研究证据的深思熟虑参与与实施。（pp.47–50）
+Rickinson et al. (2020) 基于澳大利亚莫[[Roy Nash|纳什]]大学 Q 项目（The [[Monash Q Project|Q Project]]），针对教育实践中研究使用的质量标准给出了突破性定义，提出[[Quality Use of Research Evidence Framework|高质量研究使用框架]]（[[Quality Use of Research Evidence Framework|Quality Use of Research Evidence]], QURE），将核心聚焦于对恰当研究证据的深思熟虑参与与实施。（pp.47–50）
 
 > [!example]- 图2-9：高质量研究使用框架（Quality Use of Research Evidence, QURE framework）
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_2-9_Quality_Use_of_Research_Evidence_framework.jpg)

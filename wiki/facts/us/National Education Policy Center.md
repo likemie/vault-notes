@@ -9,7 +9,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 14
+fact_related_count: 15
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -36,7 +36,8 @@ related_concepts:
   - "[[Research-Policy Gap]]"
 related_theories:
   - "[[Navigational Framework for Educational Researchers]]"
-related_methods: []
+related_methods:
+  - "[[Research Synthesis]]"
 related_instruments: []
 related_persons:
   - "[[Zewelanji N. Serpell]]"
@@ -47,7 +48,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # National Education Policy Center
@@ -89,7 +90,7 @@ updated: 2026-10-16
 ## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
-> - **[[Legislative Policy Brief\|立法政策简报]]（Legislative Policy Brief）** NEPC 标志性转化工件，深度融合“核心实证研究综合 ＋ 操作性政策诉求 ＋ 专业律师起草的法定示范条文”，直接为国会委员会法律顾问提供可剪贴吸收的现成法案草案。
+> - **[[Legislative Policy Brief\|立法政策简报]]（Legislative Policy Brief）** NEPC 标志性转化工件，深度融合“核心实证[[Research Synthesis|研究综合]] ＋ 操作性政策诉求 ＋ 专业律师起草的法定示范条文”，直接为国会委员会法律顾问提供可剪贴吸收的现成法案草案。
 > - **法定示范条文（Model Statutory Language）研制** 由资深律师操刀，严格依据严谨实证结论编制具体的法律条款细则，规定立法机构如何通过明确的法定权利、责任分配与财政约束落实政策建议。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 46)]]
 > - **“三思而行”智库审查项目（Think Twice Project）** 针对各大外部智库、咨询机构公开发布的影响立法的报告进行盲审评议，严厉揭露其中的统计推断缺陷、方法漏洞与商业利益冲突，捍卫国家政策制定的科学严肃性。
 > - **年度国家教育政策报告系列** 针对特许学校、教育券、[[High-Stakes Testing\|高利害测验]]、教师[[Performance Pay\|绩效工资]]等热点议题，定期发布综合性国家证据审议报告。

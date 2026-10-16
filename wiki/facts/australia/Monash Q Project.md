@@ -11,9 +11,9 @@ subtype: program
 region: australia
 fact_region: "australia"
 fact_kind: "program"
-fact_related_count: 39
-fact_related_level: 3
-fact_related_stars: "💎"
+fact_related_count: 40
+fact_related_level: 4
+fact_related_stars: "💎⭐"
 fact_related_color: "#ede9fe"
 period: "2019–2024"
 initiator_organization: "Monash University & Paul Ramsay Foundation"
@@ -57,6 +57,7 @@ related_methods:
   - "[[In-depth Interview]]"
   - "[[Correlational Research]]"
 related_persons:
+  - "[[Roy Nash]]"
   - "[[Mark Rickinson]]"
 related_facts:
   - "[[Centre for Evidence and Implementation]]"
@@ -71,7 +72,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Monash Q Project
@@ -81,7 +82,7 @@ updated: 2026-10-16
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> 莫纳什 Q 项目（The Monash Q Project）是由澳大利亚莫纳什大学（Monash University）与保罗·拉姆齐基金会（Paul Ramsay Foundation）合作开展的为期五年的旗舰重大研究计划（2019–2024），旨在系统理解并促进澳大利亚中小学对教育研究成果的高质量使用。（[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al., 2022b, pp. 183–184]]）
+> 莫[[Roy Nash|纳什]] Q 项目（The Monash Q Project）是由澳大利亚莫纳什大学（Monash University）与保罗·拉姆齐基金会（Paul Ramsay Foundation）合作开展的为期五年的旗舰重大研究计划（2019–2024），旨在系统理解并促进澳大利亚中小学对教育研究成果的高质量使用。（[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al., 2022b, pp. 183–184]]）
 
 > [!program-context] 项目背景（[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al., 2022b, pp. 183–184, 199]]）
 > - **立项时间 / 周期** 2019 年启动，设计实施周期为 5 年（2019–2024）。
@@ -103,7 +104,7 @@ updated: 2026-10-16
 > - **实施控制** 采取[[Mixed Methods Research\|混合方法研究]]设计，结合先验概念综合、大样本多州分层[[Questionnaire\|问卷调查]]与多案例深入[[Qualitative Interview\|质性访谈]][[Triangulation\|三角互证]]。（[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al., 2022b, pp. 184–185]]）
 
 > [!citation-card] 核心立项使命
-> 提高政策与实践中的证据使用，需要明确回答从政治与专业视角看何谓更好的使用。这要求从关注证据本身的质量，向关注证据使用的质量发生关键位移。莫纳什 Q 项目旨在探究并支持教育实践中深思熟虑地使用适切证据。（Rickinson et al., 2020; [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al., 2022b, p. 183]]）
+> 提高政策与实践中的证据使用，需要明确回答从政治与专业视角看何谓更好的使用。这要求从关注证据本身的质量，向关注证据使用的质量发生关键位移。莫[[Roy Nash|纳什]] Q 项目旨在探究并支持教育实践中深思熟虑地使用适切证据。（Rickinson et al., 2020; [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al., 2022b, p. 183]]）
 >
 > *To improve the use of evidence in policy and practice requires an explicit engagement with the question of what constitutes better use from a professional perspective. The Q Project aims to understand and support the thoughtful engagement with and implementation of appropriate research evidence.*
 
@@ -122,7 +123,7 @@ updated: 2026-10-16
 
 > [!actor-grid] 实施协同矩阵
 > - **发起与资助方** 保罗·拉姆齐基金会（Paul Ramsay Foundation）提供全额战略资助与治理监管。
-> - **研发与学术中心** 莫纳什大学教育学院 Q 项目跨学科研究团队（[[Mark Rickinson]]、Lucas Walsh、Joanne Gleeson 等）负责研究设计、调查执行与框架开发。
+> - **研发与学术中心** 莫[[Roy Nash|纳什]]大学教育学院 Q 项目跨学科研究团队（[[Mark Rickinson]]、Lucas Walsh、Joanne Gleeson 等）负责研究设计、调查执行与框架开发。
 > - **一线合作网络** 新南威尔士、维多利亚、昆士兰与南澳的公立、天主教与独立私立中小学，校长与骨干教师作为实践伙伴参与试验。
 > - **政策与中介伙伴** [[Australian Education Research Organisation\|澳大利亚教育研究组织]]（AERO）、循证与实施中心（[[Centre for Evidence and Implementation\|CEI]]，咨询顾问机构）、各州教育部及智库机构作为外部咨询网络提供专业转化与政策对接支持。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, p. 138)]]
 
@@ -168,7 +169,7 @@ updated: 2026-10-16
 > > [[Questionnaire\|问卷调查]]与[[In-depth Interview\|深度访谈]]主要依赖教师与管理者的主观经验自陈，对于微观课堂教学行为的直接客观观测与学生学业长远增值指标仍显不足。（[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al., 2022b, p. 184]]）
 >
 > > [!axis] 系统理性模型假设 vs 专长类型断裂与治理现实
-> > 批判学者指出，莫纳什 Q 项目与 [[Quality Use of Research Evidence Framework\|QURE]] 框架虽强调从证据生产质量转向使用质量，但其背后仍带有功能主义与理性主义假设，预设只要通过专业学习、榜样领导与工时排程等使能条件，证据就能顺畅转化为优质实践；然而专长社会学与比较教育研究表明，[[Educational Brokerage Agency\|证据中介机构]]所代表的[[Interactional Expertise\|交互型专长]]（技术客观性）与一线教师扎根现场的[[Contributory Expertise\|贡献型专长]]（具身实践经验）之间存在深刻的[[Epistemological Break\|认识论断裂]]，且在高利害市场化治理体制下，[[Research Utilization\|证据使用]]极易异化为迎合外部问责的[[Performativity|表演性]]合规，而非自发的[[Reflective Thinking\|反思性探究]]。[[Argument_Kelly_2025_ROE\|(Kelly et al., 2025, pp. 4–5, 21–23)]]
+> > 批判学者指出，莫[[Roy Nash|纳什]] Q 项目与 [[Quality Use of Research Evidence Framework\|QURE]] 框架虽强调从证据生产质量转向使用质量，但其背后仍带有功能主义与理性主义假设，预设只要通过专业学习、榜样领导与工时排程等使能条件，证据就能顺畅转化为优质实践；然而专长社会学与比较教育研究表明，[[Educational Brokerage Agency\|证据中介机构]]所代表的[[Interactional Expertise\|交互型专长]]（技术客观性）与一线教师扎根现场的[[Contributory Expertise\|贡献型专长]]（具身实践经验）之间存在深刻的[[Epistemological Break\|认识论断裂]]，且在高利害市场化治理体制下，[[Research Utilization\|证据使用]]极易异化为迎合外部问责的[[Performativity|表演性]]合规，而非自发的[[Reflective Thinking\|反思性探究]]。[[Argument_Kelly_2025_ROE\|(Kelly et al., 2025, pp. 4–5, 21–23)]]
 
 > [!lessons] 经验教训与启示
 > - **从供给驱动向需求牵引全面转型** 改变以往单纯资助成果生产与单向数据库推送的[[Path Dependence|路径依赖]]，必须将增量资源投向一线教师的[[Absorptive Capacity\|吸收能力]]与学校组织使能条件建设。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 193–195)]]
@@ -192,7 +193,7 @@ updated: 2026-10-16
 > | [[School Leadership]] | Concept | 项目实证揭示的榜样型领导示范与互信文化核心杠杆 |
 > | [[Absorptive Capacity]] | Concept | 项目致力于培育的一线学校与教师吸收使能基础 |
 > | [[Centre for Evidence and Implementation]] | Fact (Organization) | 深度参与项目先验综述研讨与转译支持的外部专业咨询机构 |
-> | [[Mark Rickinson]] | Person | 莫纳什大学 Q 项目首席研究员与项目负责人 |
+> | [[Mark Rickinson]] | Person | 莫[[Roy Nash\|纳什]]大学 Q 项目首席研究员与项目负责人 |
 > | [[OECD]] | Fact (Organization) | 项目联合发布成果并推动国际政策辐射的跨国合作方 |
 > | [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] | 关键论证 | 全澳 906 名教育者调查与[[In-depth Interview\|深度访谈]]，确立高质量使用六大特征与组织使能条件 |
 > | [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a)]] | 关键论证 | 跨领域 112 篇核心文献[[Systematic Review\|系统综述]]，建构高质量研究[[Research Utilization\|证据使用]] QURE 理论框架 |

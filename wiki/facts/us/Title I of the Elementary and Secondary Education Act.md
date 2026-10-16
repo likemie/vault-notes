@@ -13,7 +13,7 @@ subtype: policy
 region: us
 fact_region: "us"
 fact_kind: "policy"
-fact_related_count: 17
+fact_related_count: 18
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dbeafe"
@@ -37,6 +37,7 @@ related_concepts:
 related_methods:
   - "[[Experimental Research]]"
   - "[[Correlational Research]]"
+  - "[[Research Synthesis]]"
 related_facts:
   - "[[Elementary and Secondary Education Act of 1965]]"
   - "[[No Child Left Behind Act 2001]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Title I of the Elementary and Secondary Education Act
@@ -117,7 +118,7 @@ updated: 2026-10-16
 > [!indicators]- 评价指标
 > - **投入指标** 年度 140 亿至 165 亿美元以上联邦拨款规模、大城市学区约 500–600 美元生均 Title I 专项增量资金、各州 7% 学校改进专项基金（Section 1003）。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 162, 167)]]
 > - **过程指标** 全校范围项目与学区中心统筹分配比重、常规人事编制与商业软件采购流向、符合 [[Every Student Succeeds Act\|ESSA]] Tier 1–3 法定[[Evidence Standards\|证据标准]]的资金覆盖率。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 167–174)]]
-> - **结果指标** 低收入学生核心学科标准化测验成绩增值、全量证据综合评级下获得稳定积极支持的资金比例、薄弱学校学业达标出列率。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 164, 175)]]
+> - **结果指标** 低收入学生核心学科标准化测验成绩增值、全量[[Research Synthesis|证据综合]]评级下获得稳定积极支持的资金比例、薄弱学校学业达标出列率。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 164, 175)]]
 
 > [!finding-cards] 效果与评价
 > 1. **宏观学业产出效应存在长期实证分歧** 实证研究对 Title I 能否稳定提升贫困生[[Academic Achievement\|学业成就]]分歧显著；Dynarski and Kainz (2015) 归纳的两大主因表明，微观资金分散与低效常规实践挤占削弱了联邦财政的补偿效力。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 164–165)]]

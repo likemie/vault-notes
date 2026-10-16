@@ -6,7 +6,7 @@ aliases:
 summary: "Richard Feynman 提出的科学哲学概念，指具备数据、图表等严密外在形式却缺失认识论诚信与自我证伪诚意的伪科学实践；在教育领域表现为以不透明的量化指标和商业包装实施认知威慑与教条化控制。"
 type: concept
 domain: "educational-philosophy"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -52,6 +52,7 @@ related_methods:
   - "[[Quantitative Research]]"
   - "[[Audit Trail]]"
   - "[[Correlational Research]]"
+  - "[[Research Synthesis]]"
 related_persons:
   - "[[Karl Popper]]"
   - "[[John Hattie]]"
@@ -242,4 +243,4 @@ updated: 2026-10-17
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 运用理查德·费曼的货物崇拜科学理论，从隐藏计算公式的简单算术平均、新泰勒制全景监控、新自由主义政商利益旋转门以及回避[[Falsification|证伪]]等四个维度，对 [[John Hattie]] 及其 [[Visible Learning]] 商业体系展开系统的科学哲学与政治经济学批判。
 > - [[Argument_Bergeron_2017_MJE|Bergeron and Rivard (2017)]] — 从教育测量与统计学视角剖析伪科学[[Discourse|话语]]特征，指出其核心机制在于通过繁复的数学工具构建专业威慑门槛，同时在根本的逻辑与实证前提上保持模糊性。
-> - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 开展首个全库[[Preregistration|预注册]][[Metascience|元科学]]质量审计，实证揭示 Visible Learning 底层数据链存在 44% [[Effect Size|效应量]]无引证支持、复现率不足 1% 等崩溃性问题，从元科学实证层面验证了货物崇拜科学在教育证据综合中的现实形态。
+> - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 开展首个全库[[Preregistration|预注册]][[Metascience|元科学]]质量审计，实证揭示 Visible Learning 底层数据链存在 44% [[Effect Size|效应量]]无引证支持、复现率不足 1% 等崩溃性问题，从元科学实证层面验证了货物崇拜科学在教育[[Research Synthesis|证据综合]]中的现实形态。

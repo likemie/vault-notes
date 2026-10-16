@@ -11,7 +11,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 21
+fact_related_count: 22
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -40,6 +40,7 @@ related_concepts:
 related_theories:
   - "[[Luhmann's Systems Theory]]"
 related_methods:
+  - "[[Research Synthesis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Systematic Review]]"
   - "[[Meta-analysis]]"
@@ -56,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-15
+updated: 2026-10-17
 ---
 
 # National Institute for Health and Care Excellence
@@ -66,7 +67,7 @@ updated: 2026-10-15
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 英国国家卫生与临床优化研究所（National Institute for Health and Care Excellence, NICE）是英国依据法定授权设立的非部委公共机构（Non-Departmental Public Body, NDPB），隶属于英国卫生与社会保障部（DHSC）。作为全球卫生技术评估（HTA）的先驱与英国国家[[What Works Network\|有效性网络]]（What Works Network）的历史元祖，NICE 负责制定具有准法律效力的国家临床指南、设立新药与医疗技术准入的卫生经济学门槛；在宏观证据生态中，NICE 确立了依托集中化国家系统、享有法定强制采纳权、严格专注于证据综合与价值裁决的“紧凑聚焦与法定统筹[[Paradigm\|范式]]”（Focused & Integrated Remit），与教育领域中介的广泛下沉范式形成鲜明制度对照（[[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022, pp. 147, 150]]）。
+> 英国国家卫生与临床优化研究所（National Institute for Health and Care Excellence, NICE）是英国依据法定授权设立的非部委公共机构（Non-Departmental Public Body, NDPB），隶属于英国卫生与社会保障部（DHSC）。作为全球卫生技术评估（HTA）的先驱与英国国家[[What Works Network\|有效性网络]]（What Works Network）的历史元祖，NICE 负责制定具有准法律效力的国家临床指南、设立新药与医疗技术准入的卫生经济学门槛；在宏观证据生态中，NICE 确立了依托集中化国家系统、享有法定强制采纳权、严格专注于[[Research Synthesis|证据综合]]与价值裁决的“紧凑聚焦与法定统筹[[Paradigm\|范式]]”（Focused & Integrated Remit），与教育领域中介的广泛下沉范式形成鲜明制度对照（[[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al., 2022, pp. 147, 150]]）。
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1999 年由托尼·布莱尔（Tony Blair）领导的工党新政权正式创立（初名国家临床优化研究所 National Institute for Clinical Excellence）。创设核心动因是为了根除全英各地因地方卫生局各自为政而产生的“邮编轮盘赌”（Postcode Lottery）——即患者能否用上先进救命药物取决于其居住地财力的严重不平等现象，建立统一的全国性临床实证准入标准。

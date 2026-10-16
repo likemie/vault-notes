@@ -12,7 +12,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17"
 argument_display_title: "Research Methods in Education · Ch17"
 argument_kind: "book-chapter"
-argument_related_count: 65
+argument_related_count: 66
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -71,6 +71,7 @@ related_concepts:
   - "[[Threats to Internal Validity]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Research Synthesis]]"
   - "[[Systematic Review]]"
   - "[[Effect Size]]"
   - "[[Qualitative Research]]"
@@ -106,7 +107,7 @@ related_theories:
   - "[[Realist Evaluation]]"
 status: draft
 created: 2026-07-13
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17
 
@@ -132,7 +133,7 @@ updated: 2026-10-16
 >     D --> D2["操作标准与程序<br/>EPPI-Centre · BERA<br/>Evans & Benefield六原则<br/>Cooper七步"]
 > ```
 
-作为第7版新增内容，第17章介绍三种日益重要的研究方法：[[Meta-analysis|元分析]]（meta-analysis）、研究综合（research syntheses）和[[Systematic Review|系统综述]]（systematic reviews）。随着[[Evidence-Based Education|循证教育]]的推进（Coe, 1999），元分析和系统综述使教育研究能够像医学科学一样积累知识（Davies, 2000）。从早期简单汇总多项研究发现（如 *Review of Educational Research* 期刊中的叙事综述），该领域已发展到更严格的方法，2009 年推出了专门期刊 *Research Synthesis Methods*（p. 329）。
+作为第7版新增内容，第17章介绍三种日益重要的研究方法：[[Meta-analysis|元分析]]（meta-analysis）、[[Research Synthesis|研究综合]]（research syntheses）和[[Systematic Review|系统综述]]（systematic reviews）。随着[[Evidence-Based Education|循证教育]]的推进（Coe, 1999），元分析和系统综述使教育研究能够像医学科学一样积累知识（Davies, 2000）。从早期简单汇总多项研究发现（如 *Review of Educational Research* 期刊中的叙事综述），该领域已发展到更严格的方法，2009 年推出了专门期刊 *Research Synthesis Methods*（p. 329）。
 
 与其他章节侧重单一方法不同，第17章在介绍方法的同时以相当篇幅展开了对元分析的多维度批判，这一批判体系同时构成了循证教育争议中方法论层面的核心论证。全章三节按逻辑递进：先建立循证研究的制度背景和核心论证（17.1），再展开元分析的方法步骤与批判（17.2），最后处理更广泛的研究综合与系统综述（17.3）。
 

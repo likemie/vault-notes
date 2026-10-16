@@ -4,7 +4,7 @@ aliases: ["文献检索", "文献搜索", "literature retrieval", "searching for
 summary: "研究过程中系统检索、筛选和评估文献的操作性步骤，包括检索策略、网络操作符、数据库选择、信息类型识别、文献优先级排序与质量评估及网站评估。"
 type: concept
 domain: "research-methodology"
-related_count: 57
+related_count: 58
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -47,6 +47,7 @@ related_methods:
   - "[[Correlational Research]]"
   - "[[Network Analysis]]"
   - "[[Systematic Review]]"
+  - "[[Research Synthesis]]"
 related_persons:
   - "[[Louis Cohen]]"
   - "[[Lawrence Manion]]"
@@ -76,7 +77,7 @@ related_instruments:
 confidence: high
 status: active
 created: 2026-06-21
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # Literature Search
 
@@ -501,7 +502,7 @@ Creswell 提出了一套系统的文献检索流程（[[Argument_Creswell_2022_S
 > | [[Research Question]] | Concept | 文献检索的核心导向与出发点，通过检索发现空白以提炼具有理论与现实意义的问题。 |
 > | [[Generative Artificial Intelligence]] | Concept | 驱动文献检索向自动化智能代理挖掘、语义跨模态提取与知识综合跃迁的核心技术。 |
 > | [[Literature Map]] | Method | 文献检索结果的视觉化拓扑呈现方法，展示不同文献主题之间的分组与衍生关系。 |
-> | [[What Works Clearinghouse]] | Fact (Organization) | 实施大规模系统性文献检索与证据综合、评定干预证据等级的国家级专业机构。 |
+> | [[What Works Clearinghouse]] | Fact (Organization) | 实施大规模系统性文献检索与[[Research Synthesis\|证据综合]]、评定干预证据等级的国家级专业机构。 |
 > | [[Education Resources Information Center]] | Fact (Organization) | 全球最大的教育学计算机化文献书目数据库与在线词表检索平台。 |
 > | [[Michael Kratsios]] | Person | 主持起草白宫 [[Office of Science and Technology Policy\|OSTP]] 2026 报告，系统阐明智能代理在文献检索与科学工作流中分工重塑的政策学者。 |
 > | [[Louis Cohen]] | Person | 权威教育研究方法学者，系统阐明文献检索对于确立研究信效度与构建理论框架的逻辑链条。 |

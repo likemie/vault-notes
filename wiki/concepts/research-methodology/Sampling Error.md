@@ -7,7 +7,7 @@ aliases:
 summary: "从同一总体中多次随机抽样时样本统计量围绕总体真实参数的理论波动；度量从样本推断总体的随机不确定性，在元分析中作为研究内抽样方差与研究间真实异质性相对立，其准确估计依赖于样本独立性假设与逆方差加权机制"
 type: concept
 domain: "research-methodology"
-related_count: 40
+related_count: 41
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -35,6 +35,7 @@ related_theories:
 related_methods:
   - "[[Effect Size]]"
   - "[[Standard Error]]"
+  - "[[Research Synthesis]]"
   - "[[Meta-analysis]]"
   - "[[Between-Study Variance]]"
   - "[[Random Sampling]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-21
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Sampling Error
@@ -76,7 +77,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **抽样误差（Sampling Error）** 指从同一[[Study Population and Sample|目标总体]]中反复抽取样本时，样本统计量（如均值、比例、回归系数或标准化均数差[[Effect Size|效应量]]）围绕总体真实参数所产生的理论随机波动与离散程度。抽样误差并非操作疏失或实验失误的产物，而是由有限经验样本推断广义总体时固有的概率不确定性所致；其离散程度以[[Standard Error|标准误]]（Standard Error, SE）度量，受制于总体的变异性（$\sigma$ 或 $SD_{pop}$）与样本容量（$N$）。在现代证据综合与[[Meta-analysis|元分析]]中，抽样误差被形式化界定为 **“研究内抽样方差”（Within-study sampling variance, $v_i$）**，与反映真实情境变异的 **“[[Between-Study Variance|研究间真实方差]]”（Between-study variance, $\tau^2$）** 共同构成元分析双层方差分解的核心基石。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|(Cohen et al., 2011, Ch. 8, pp. 149–151)]]; [[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–25)]]
+> **抽样误差（Sampling Error）** 指从同一[[Study Population and Sample|目标总体]]中反复抽取样本时，样本统计量（如均值、比例、回归系数或标准化均数差[[Effect Size|效应量]]）围绕总体真实参数所产生的理论随机波动与离散程度。抽样误差并非操作疏失或实验失误的产物，而是由有限经验样本推断广义总体时固有的概率不确定性所致；其离散程度以[[Standard Error|标准误]]（Standard Error, SE）度量，受制于总体的变异性（$\sigma$ 或 $SD_{pop}$）与样本容量（$N$）。在现代[[Research Synthesis|证据综合]]与[[Meta-analysis|元分析]]中，抽样误差被形式化界定为 **“研究内抽样方差”（Within-study sampling variance, $v_i$）**，与反映真实情境变异的 **“[[Between-Study Variance|研究间真实方差]]”（Between-study variance, $\tau^2$）** 共同构成元分析双层方差分解的核心基石。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|(Cohen et al., 2011, Ch. 8, pp. 149–151)]]; [[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–25)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 抽样误差度量的是无偏[[Random Sampling|随机抽样]]所产生的不可避免的偶然涨落，体现了[[Scientific Method|经验科学]]对客观规律渐近逼近的概率特征。
@@ -105,7 +106,7 @@ updated: 2026-10-16
 > | **产生根源** | 有限经验样本对无限总体的随机代表性限制 | [[Sampling Frame\|抽样框]]缺陷、自选样本、有偏排除 | 量表[[Reliability\|信度]]不足、记录失真、[[Floor and Ceiling Effects\|天花板效应]] | 教学干预强度、受试学段、组织生态[[Heterogeneity\|异质性]] |
 > | **度量形式** | 标准误（$\text{SE} = \text{SD}/\sqrt{N}$，抽样方差 $v_i$） | 偏差偏移量（$\text{Bias} = E(\hat{\theta}) - \theta$） | 测量标准误（$\text{SEM}_{\text{meas}} = s\sqrt{1-r_{xx}}$） | 研究间方差 $\tau^2$ 与异质性比率 $I^2$ |
 > | **增大样本量 $N$ 的效应** | 以 $1/\sqrt{N}$ 速率收敛衰减，有效抵消随机误差 | **无法消除**，仅使有偏估计更加狭窄地偏离真值 | 无法通过单纯增加[[Sample Size Determination\|样本量]]消除 | 不随单项[[Study Population and Sample\|研究样本]]量增大而改变，反映客观多样性 |
-> | **证据综合中的应对方案** | 按逆方差赋权（$w_i = 1/v_i$）实现最佳线性无偏估计 | [[Funnel Plot\|漏斗图]]检验、[[Fail-Safe N\|失安全数]]、[[Multilevel Egger's Test\|多水平艾格回归]]剪补 | 潜[[Variable\|变量]]结构方程模型（[[Causal Modeling\|SEM]]）、测量误差校正 | 采用[[Random-Effects Model\|随机效应模型]]并将 $\tau^2$ 纳入加权分母 |
+> | **[[Research Synthesis\|证据综合]]中的应对方案** | 按逆方差赋权（$w_i = 1/v_i$）实现最佳线性无偏估计 | [[Funnel Plot\|漏斗图]]检验、[[Fail-Safe N\|失安全数]]、[[Multilevel Egger's Test\|多水平艾格回归]]剪补 | 潜[[Variable\|变量]]结构方程模型（[[Causal Modeling\|SEM]]）、测量误差校正 | 采用[[Random-Effects Model\|随机效应模型]]并将 $\tau^2$ 纳入加权分母 |
 
 ---
 
@@ -192,7 +193,7 @@ updated: 2026-10-16
 > - **1908 — 小样本抽样理论突破** 戈塞特（“Student”）发表 $t$ 分布，明确区分总体标准差 $\sigma$ 与小样本估算的[[Standard Error|标准误]]，确立小样本抽样误差的精准推断边界。
 > - **1976 — [[Meta-analysis|元分析]]中的抽样误差[[Inverse-Variance Weighting|逆方差加权]]** 罗森塔尔（Rosenthal）与格拉斯（[[Gene Glass]]）将抽样误差形式化为单项研究方差（$v_i$），并引入以逆方差（$w_i = 1/v_i$）赋权的最优加权方案，奠定现代证据合成基石。
 > - **2011 — 教育研究抽样误差体系的系统梳理** Cohen, Manion and Morrison（2011, Ch. 8）系统规范了教育调查中均值标准误、分类比例标准误、有限总体校正及 30/80 例样本规模边际收益递减法则。
-> - **2016 — 二级证据综合中抽样误差失效与除数事故的法医式审计** [[Christof Wecker|克里斯托夫·韦克尔]]（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）系统证明两级元分析成立依赖于原始研究独立的充要条件；揭露 93% 文献重叠导致抽样误差被严重低估的假性精确机制，并实证诊断出将标准误代替标准差计算[[Effect Size|效应量]]导致数值暴增近十倍的重大计量事故。
+> - **2016 — 二级[[Research Synthesis|证据综合]]中抽样误差失效与除数事故的法医式审计** [[Christof Wecker|克里斯托夫·韦克尔]]（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）系统证明两级元分析成立依赖于原始研究独立的充要条件；揭露 93% 文献重叠导致抽样误差被严重低估的假性精确机制，并实证诊断出将标准误代替标准差计算[[Effect Size|效应量]]导致数值暴增近十倍的重大计量事故。
 
 ---
 

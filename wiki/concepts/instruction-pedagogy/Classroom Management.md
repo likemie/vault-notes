@@ -5,10 +5,10 @@ aliases:
 summary: "教师系统组织课堂学习环境的综合机制，涵盖时间在任务利用、积极行为预期、规则常规、非惩罚性重定向与支持性学习文化。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 38
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - classroom-management
   - subject/instruction
@@ -30,6 +30,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[International Education]]"
   - "[[Visible Learning]]"
+  - "[[Learning Styles]]"
   - "[[Metascience]]"
   - "[[Discourse]]"
   - "[[Disciplina and Doctrina]]"
@@ -43,6 +44,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Classroom Observation]]"
+  - "[[Research Synthesis]]"
   - "[[Fieldwork]]"
   - "[[Intraclass Correlation Coefficient]]"
   - "[[Inter-Rater Reliability]]"
@@ -62,7 +64,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Classroom Management
@@ -143,7 +145,7 @@ updated: 2026-10-16
 > 探讨组织管理如何通过消除环境不确定性与冗余干扰，为高阶认知加工提供安全庇护所。
 
 > [!claim] [[Argument_Håkansson_2015_TT|Håkansson (2015a)]]; [[Argument_Laursen_2015_Paideia|Laursen (2015)]]
-> **课堂管理是高品质学习的结构化托底** 在对 43 项国际教学研究综合的深入比对中，教师的课堂管理被确认为解释[[Academic Achievement|学业表现]]差异的关键维度。实证研究明确表明，有效的课堂管理通过明确目标、时间统筹、平稳活动衔接与支持性关系，显著降低课堂混乱度、提高学习聚焦度，而不是单纯“把学生管住”。[[Argument_Håkansson_2015_TT\|(Håkansson, 2015a, pp. 589–592)]]; [[Argument_Laursen_2015_Paideia\|(Laursen, 2015, pp. 35–37)]]
+> **课堂管理是高品质学习的结构化托底** 在对 43 项国际教学[[Research Synthesis|研究综合]]的深入比对中，教师的课堂管理被确认为解释[[Academic Achievement|学业表现]]差异的关键维度。实证研究明确表明，有效的课堂管理通过明确目标、时间统筹、平稳活动衔接与支持性关系，显著降低课堂混乱度、提高学习聚焦度，而不是单纯“把学生管住”。[[Argument_Håkansson_2015_TT\|(Håkansson, 2015a, pp. 589–592)]]; [[Argument_Laursen_2015_Paideia\|(Laursen, 2015, pp. 35–37)]]
 
 ---
 
@@ -173,7 +175,7 @@ updated: 2026-10-16
 > 探讨在宏观证据库被外围不可控[[Variable|变量]]（如生理特征、早期养育）严重充斥的背景下，为何课堂管理始终被[[International Education|国际教育]]专家确立为一线学校改进的核心基石。
 
 > [!claim] [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]]
-> **专家德尔菲评审确立课堂管理为最高相关度教学杠杆之一** 卡尔门达尔等（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）召集 5 位国际资深量化与教学论学者（[[Intraclass Correlation Coefficient|ICC]] = 0.60）对《[[Visible Learning|可见的学习]]》全库 322 项影响因素的现实相关度进行 1–5 分独立评估。结果显示：课堂管理（Classroom Management）与[[Feedback|教学反馈]]并列荣登核心教学实践最高评级之列（$M = 4.75, SD = 0.50$），远超大量不可控的外围生理变量（如母乳喂养 $M=1.00$、低出生体重 $M=1.25$）以及神经神话（如学习风格匹配 $M=1.25$）。这一[[Metascience|元科学]]评审表明：学校改进不能迷信涵盖海量外围因素的“大一统全要素排行榜”，而应坚定将专业发展与循证资源聚焦于教师在课堂现场完全可以主动作为、可直接观测并持续精进的组织管理基石之上。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 19–20, 22)]]
+> **专家德尔菲评审确立课堂管理为最高相关度教学杠杆之一** 卡尔门达尔等（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）召集 5 位国际资深量化与教学论学者（[[Intraclass Correlation Coefficient|ICC]] = 0.60）对《[[Visible Learning|可见的学习]]》全库 322 项影响因素的现实相关度进行 1–5 分独立评估。结果显示：课堂管理（Classroom Management）与[[Feedback|教学反馈]]并列荣登核心教学实践最高评级之列（$M = 4.75, SD = 0.50$），远超大量不可控的外围生理变量（如母乳喂养 $M=1.00$、低出生体重 $M=1.25$）以及神经神话（如[[Learning Styles|学习风格]]匹配 $M=1.25$）。这一[[Metascience|元科学]]评审表明：学校改进不能迷信涵盖海量外围因素的“大一统全要素排行榜”，而应坚定将专业发展与循证资源聚焦于教师在课堂现场完全可以主动作为、可直接观测并持续精进的组织管理基石之上。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 19–20, 22)]]
 
 ---
 

@@ -9,7 +9,7 @@ summary: "对已有系统综述和元分析进行高阶再综合的方法学体�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 37
+method_related_count: 38
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -41,6 +41,7 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Research Synthesis]]"
   - "[[Effect Size]]"
   - "[[Corrected Covered Area]]"
   - "[[Confidence Interval]]"
@@ -68,7 +69,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-06-08'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Umbrella Review
@@ -81,7 +82,7 @@ updated: 2026-10-16
 > 伞状综述（Umbrella Review，亦称综述之综述 Overview of Reviews 或概括性综述）是一种在证据金字塔顶端对特定主题下已有的多项独立[[Systematic Review|系统综述]]（Systematic Review）和[[Meta-analysis|元分析]]（Meta-analysis）进行系统检索、方法学质控、重叠审计与跨领域横向整合的宏观综合研究方法。Grant and Booth（2009）将其界定为整合多个既有综述证据的最高阶综合形态。与专注于数值加权平均的[[Meta-meta-analysis|二阶元分析]]不同，伞状综述更侧重以共同的方法论框架、统一的质控标准（如 [[AMSTAR]]、Campbell MECCIR 规范）和证据分级体系组织跨领域的证据全貌，为教育政策制定者与学校实践者提供高可用性、可比较的决策参考图景。[[Argument_Higgins_2016_ROE|(Higgins, 2016, pp. 45–47)]]; [[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 6–7)]]
 
 > [!method-scope] 方法范围
-> - **研究对象** 已发表的系统评价、定量一阶元分析及高质量证据综合报告。
+> - **研究对象** 已发表的系统评价、定量一阶元分析及高质量[[Research Synthesis|证据综合]]报告。
 > - **问题类型** 跨领域干预比较有效性（Comparative Effectiveness）、多重教育策略的相对收益与成本效益、证据生态全景映射与宏观偏倚审计。
 > - **[[Unit of Analysis|分析单位]]** 纳入的系统评价、一阶元分析或其提取的[[Effect Size|效应量]]矩阵。
 > - **输出形式** 证据分级图谱（如“挂锁”安全等级）、统一尺度比较指标（如额外学习月数）、全领域方法学质量矩阵及证据缺口分析。
@@ -102,7 +103,7 @@ updated: 2026-10-16
 > - **不声称回答的问题** 不能脱离底层初级试验直接解释微观因果机制，无法消除由低质一阶综述输入导致的根本性偏差（“垃圾进，垃圾出”）。
 
 > [!method-stack] 方法层级
-> - **研究设计** 二阶证据综合（Overview of Reviews / Umbrella Review）
+> - **研究设计** 二阶[[Research Synthesis|证据综合]]（Overview of Reviews / Umbrella Review）
 > - **数据检索** 跨领域多数据库系统检索（[[Education Resources Information Center|ERIC]]、PsycInfo、Web of Science 及灰色文献）
 > - **分析工具** [[AMSTAR]] 质量评级、[[GROOVE]] 重叠矩阵分析、[[Corrected Covered Area|CCA]] 计算
 > - **转化技术** [[Effect Size|效应量]]尺度统一转换、额外学习月数转化、证据安全挂锁评级

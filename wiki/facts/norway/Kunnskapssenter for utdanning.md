@@ -12,9 +12,9 @@ subtype: organization
 region: norway
 fact_region: "norway"
 fact_kind: "organization"
-fact_related_count: 29
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 30
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
 org_type: "政府资助大学依托自治型知识中介"
 headquarters: "挪威斯塔万格大学（University of Stavanger）"
@@ -41,6 +41,7 @@ related_theories:
   - "[[Organizational Culture]]"
 related_methods:
   - "[[Systematic Review]]"
+  - "[[Research Synthesis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-meta-analysis]]"
   - "[[Intervention Research]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: '2026-09-13'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Kunnskapssenter for utdanning
@@ -74,7 +75,7 @@ updated: 2026-10-16
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> Kunnskapssenter for utdanning（挪威语，英文 Knowledge Centre for Education，亦常译为挪威教育知识中心或挪威知识中心）是挪威教育与研究部（Kunnskapsdepartementet）资助的独立学术研究机构，依托挪威大学系统运作，专门开展教育领域的[[Systematic Review\|系统综述]]与[[Knowledge Mediation\|知识中介]]工作。该机构以开创**平行评审机制（Parallel Review Processes）** 著称——在综述研究中系统纳入一线教师与实践者的优先视角，确保证据综合不与课堂现实脱节；同时打破对 [[Randomised Controlled Trials\|RCT]] 黄金标准的单一依赖，发展出涵盖质性与量化证据的综合方法论。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]将其列为"多[[Meta-meta-analysis\|元综合]]派"方法论的北欧代表，以及政府资助自治型中介中践行实践者参与的标杆案例。在国际清算机构比较视阈下，[[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, p. 10)]] 将其与美国[[What Works Clearinghouse|有效干预清算中心]]（[[What Works Clearinghouse\|WWC]]）、英国[[EPPI-Centre|政策与实践证据信息协调中心]]（[[EPPI-Centre]]）及[[Danish Clearinghouse for Educational Research|丹麦教育研究清算中心]]（[[Danish Clearinghouse for Educational Research\|Danish Clearinghouse]]）并列为国际上长期推进教育证据清算（[[Educational Evidence Clearinghouses\|Clearinghouse]]）战略的四大代表性实体。
+> Kunnskapssenter for utdanning（挪威语，英文 Knowledge Centre for Education，亦常译为挪威教育知识中心或挪威知识中心）是挪威教育与研究部（Kunnskapsdepartementet）资助的独立学术研究机构，依托挪威大学系统运作，专门开展教育领域的[[Systematic Review\|系统综述]]与[[Knowledge Mediation\|知识中介]]工作。该机构以开创**平行评审机制（Parallel Review Processes）** 著称——在综述研究中系统纳入一线教师与实践者的优先视角，确保[[Research Synthesis|证据综合]]不与课堂现实脱节；同时打破对 [[Randomised Controlled Trials\|RCT]] 黄金标准的单一依赖，发展出涵盖质性与量化证据的综合方法论。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]将其列为"多[[Meta-meta-analysis\|元综合]]派"方法论的北欧代表，以及政府资助自治型中介中践行实践者参与的标杆案例。在国际清算机构比较视阈下，[[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, p. 10)]] 将其与美国[[What Works Clearinghouse|有效干预清算中心]]（[[What Works Clearinghouse\|WWC]]）、英国[[EPPI-Centre|政策与实践证据信息协调中心]]（[[EPPI-Centre]]）及[[Danish Clearinghouse for Educational Research|丹麦教育研究清算中心]]（[[Danish Clearinghouse for Educational Research\|Danish Clearinghouse]]）并列为国际上长期推进教育证据清算（[[Educational Evidence Clearinghouses\|Clearinghouse]]）战略的四大代表性实体。
 
 > [!org-context] 机构背景与设立渊源
 > - **成立时间** 2013 年正式设立，依托挪威高校体系，初设于奥斯陆地区；作为挪威政府系统性推动[[Evidence-Based Education\|循证教育]]政策建设的产物，由教育与研究部划拨经常性资助。
@@ -88,7 +89,7 @@ updated: 2026-10-16
 
 > [!dev-timeline]- 组织发展历程
 > - **2013 — 创设与初期建设** 挪威政府设立 Kunnskapssenter for utdanning，作为国家[[Evidence-Based Education\|循证教育]]政策基础设施的核心组件，发布首批教育领域[[Systematic Review\|系统综述]]，建立内部方法论规范体系；初期在奥斯陆运作，与教育部保持密切的沟通联络关系。
-> - **2015–2018 — 平行评审机制成熟化** 在 [[EPPI-Centre]] 等国际先行机构的方法论启发下，系统研发并优化平行评审规程，在每项系统综述中建立独立的实践者参与渠道，使一线教师的知识优先级与经验判断被结构化纳入证据综合框架，同期扩展与北欧其他国家研究机构的学术合作网络。
+> - **2015–2018 — 平行评审机制成熟化** 在 [[EPPI-Centre]] 等国际先行机构的方法论启发下，系统研发并优化平行评审规程，在每项系统综述中建立独立的实践者参与渠道，使一线教师的知识优先级与经验判断被结构化纳入[[Research Synthesis|证据综合]]框架，同期扩展与北欧其他国家研究机构的学术合作网络。
 > - **2019 — 迁往斯塔万格大学（分权改革）** 依据挪威政府区域改革政策，机构整体迁往斯塔万格大学，完成从首都向地方大学的制度性落地；迁址后与斯塔万格大学教育[[Chinese Academy of Sciences|科学院]]深度整合，进一步强化学术自治属性与地方教育网络的联结。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 62)]]
 > - **2020年代至今 — 数字化与跨地区影响力拓展** 疫情后加速数字化知识服务建设，在线发布系统综述数据库，扩大在挪威教师专业发展网络与地方教育行政体系中的影响力，参与北欧教育研究网络国际合作。
 
@@ -104,7 +105,7 @@ updated: 2026-10-16
 
 > [!pathways]- 核心业务运行机制
 > - **系统综述发布** 按照高质量系统综述国际规范（参照 [[EPPI-Centre]] 与坎贝尔协作网标准），针对挪威及北欧教育政策优先议题发布综合证据报告，同时接受来自教育部与地方行政机构的委托综述需求。
-> - **平行评审机制（核心创新）** 每项系统综述同步设立"实践者平行评审组"，由遴选的一线教师与学校管理者组成，在不[[Intervention Research\|干预研究]]严谨性的前提下，对综述议题的优先级设定、研究结果的可操作性诠释以及政策建议的现实可行性提供系统性反馈，使证据综合真正回应课堂实践的真实需求。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 63)]]
+> - **平行评审机制（核心创新）** 每项系统综述同步设立"实践者平行评审组"，由遴选的一线教师与学校管理者组成，在不[[Intervention Research\|干预研究]]严谨性的前提下，对综述议题的优先级设定、研究结果的可操作性诠释以及政策建议的现实可行性提供系统性反馈，使[[Research Synthesis|证据综合]]真正回应课堂实践的真实需求。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 63)]]
 > - **质性与量化证据融合** 拒绝仅认可 [[Randomised Controlled Trials\|RCT]] 等实验性证据，系统发展将质性[[Case Study\|案例研究]]、[[Action Research\|行动研究]]与量化[[Effect Size\|效应量]]相结合的混合综合方法论，为不同类型政策问题提供更全面的证据基础。
 > - **容量建设与知识传播** 面向挪威各级教育行政机构与学校开展系统综述方法培训，出版面向政策制定者的通俗摘要，并定期举办证据实践研讨会。
 
@@ -132,7 +133,7 @@ updated: 2026-10-16
 > > 探讨大学依托型自治中介在维持学术独立性与响应政府预算优先事项之间的平衡难题。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, pp. 62–64)]]
 > >
 > > - **自治优势与跨周期稳定性** 独立行政法人地位与大学依托属性，使机构能够在政党轮替时维持研究议程的连续性，不受特定部长个人政治偏好左右；大学归属也赋予其国际同行认可的学术公信力。
-> > - **政策对齐压力与资源瓶颈** 政府经常性资助必然带来对政策优先议题的议程对齐压力；当研究综合结论与当届政府政策方向出现冲突时，机构独立性面临现实考验。此外，北欧小国的有限财政规模限制了[[Systematic Review|系统综述]]的产出数量与跨学科覆盖广度。
+> > - **政策对齐压力与资源瓶颈** 政府经常性资助必然带来对政策优先议题的议程对齐压力；当[[Research Synthesis|研究综合]]结论与当届政府政策方向出现冲突时，机构独立性面临现实考验。此外，北欧小国的有限财政规模限制了[[Systematic Review|系统综述]]的产出数量与跨学科覆盖广度。
 >
 > > [!axis] 清算中介因果作用假设与实际转移效能的验证赤字
 > > 尽管机构通过平行评审创新性吸纳了实践者声音，但在宏观清算中介机制的因果作用假设（Wirkannahmen）层面，依然面临教育科学界的深层反思。[[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, p. 10)]]

@@ -11,7 +11,7 @@ summary: "假定真实效应量服从正态分布并同时分解抽样方差与�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 54
+method_related_count: 56
 method_related_level: 5
 method_related_stars: "💎⭐⭐"
 method_related_color: "#dcfce7"
@@ -33,6 +33,7 @@ related_concepts:
   - "[[Category Mistake]]"
   - "[[Commensuration]]"
   - "[[Direct Instruction]]"
+  - "[[Learning Styles]]"
   - "[[Class Size]]"
   - "[[Construct]]"
   - "[[Critical Thinking]]"
@@ -71,6 +72,7 @@ related_persons:
   - "[[Gene Glass]]"
   - "[[John Hattie]]"
   - "[[Christof Wecker]]"
+  - "[[Ivan Snook]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Higgins_2016_ROE]]"
@@ -210,8 +212,8 @@ updated: 2026-10-17
 > - **跨本体范畴的强行比较** 德甲联赛隐喻表明，教育因素跨越了制度框架条件、个体心理特征、综合教学方案与微观设计变体四大基线不可[[Commensuration|通约]]的本体范畴。随机效应模型可以平衡统计权重，但无法消除将微观 1.5 小时实验（如样例学习）与宏观全年改革（[[Direct Instruction|直接教学]]）放在同一排行榜上的范畴错误。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 33–34)]]
 
 > [!critique-logic] 随机效应模型效应虚增警示与元分析质量审查的随意性
-> 约翰·斯努克（Ivan Snook）等学者从方法论一致性视角，指出了宏观二阶综合在运用随机效应模型时暴露出的标准双标问题：
-> - **模型的选择性警示** [[John Hattie|哈蒂]]在《[[Visible Learning|可见的学习]]》前言中公开声明不对原始研究开展质量批评；然而在具体章节中，他在课外活动（报告 $d = 0.47$）中明确警示随机效应模型容易人为抬高小研究权重并虚增效应量，在特许学校研究中指出剔除低质量研究后效应量从 $0.2$ 归零（p. 66），在学习风格（$d = 0.41$）中以研究动机可疑为由断然拒绝采信结论（pp. 195–197）。
+> 约翰·[[Ivan Snook|斯努克]]（Ivan Snook）等学者从方法论一致性视角，指出了宏观二阶综合在运用随机效应模型时暴露出的标准双标问题：
+> - **模型的选择性警示** [[John Hattie|哈蒂]]在《[[Visible Learning|可见的学习]]》前言中公开声明不对原始研究开展质量批评；然而在具体章节中，他在课外活动（报告 $d = 0.47$）中明确警示随机效应模型容易人为抬高小研究权重并虚增效应量，在特许学校研究中指出剔除低质量研究后效应量从 $0.2$ 归零（p. 66），在[[Learning Styles|学习风格]]（$d = 0.41$）中以研究动机可疑为由断然拒绝采信结论（pp. 195–197）。
 > - **方法论一致性的瓦解** 斯努克等（[[Argument_Snook_2009_NZJES|Snook et al., 2009, p. 95]]）指出，哈蒂对随机效应模型放大效应量的敏感性本身表明，单纯依赖效应量数值而不审查底层研究质量在[[Epistemology|认识论]]上无法自洽；但在大多数其他领域（如[[Class Size|班级规模]]、家庭背景、教师效能），他又放弃了对随机效应模型敏感度与研究质量的审查。哈蒂（[[Argument_Hattie_2010_NZJES|Hattie, 2010, p. 88]]）辩护称，凡已知质量或模型属性对结果产生实质影响之处均已作标注，但批评者认为这种非系统性的局部警示破坏了二阶综合的客观性准绳。
 
 ---

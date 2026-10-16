@@ -6,7 +6,7 @@ aliases:
 summary: "一种将研究证据定位为多元决策资源之一的实践取向，主张以专业判断为核心枢纽，情境化整合研究证据、系统数据与课堂数据，并依托榜样领导、专有排程与全系统知识动员推进高质量证据使用与教育改进"
 type: concept
 domain: "educational-policy-reform"
-related_count: 96
+related_count: 97
 related_level: 9
 related_stars: "💎💎💎"
 related_color: "#ddd6fe"
@@ -94,6 +94,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_persons:
   - "[[Toby Greany]]"
+  - "[[Roy Nash]]"
 related_facts:
   - "[[Clearing House Unterricht]]"
   - "[[Teaching and Learning Research Programme]]"
@@ -123,7 +124,7 @@ related_arguments:
 confidence: high
 status: draft
 created: "2026-05-01"
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Evidence-Informed Practice
@@ -429,7 +430,7 @@ updated: 2026-10-16
 > - [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] — 比较英格兰、苏格兰与汉堡 53 名[[School Leadership\|学校领导]]者：高利害问责使[[Research Utilization\|研究使用]]沦为象征性合规，低利害探究文化促进贡献型与[[Interactional Expertise\|交互型专长]]融合。
 > - [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]] — 结合 [[Clearing House Unterricht]] 十年运行与 189 名教师教育者的评估，论证以[[Meta-analysis\|元分析]]为证据基底、以师资培训者为支点，可推进 EIP 并缓解[[Research-Practice Gap\|转移困境]]。
 > - [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] — 诊断 EIP 在微观实践中的 [[Data-Based Decision Making\|DBDM]] 与 [[Research-Informed Teaching Practice\|RITP]] 双轨割裂困境，提出八步 [[School Enquiry Cycle\|ESTI]] [[Inquiry Cycle\|探究循环]]与三大微观支撑机制，为两界整合与 EIP 微观[[Operationalization\|操作化]]奠定理论与实证基石。
-> - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] — 莫纳什大学 Q 项目旗舰成果，结合全澳 906 名教育者两轮调查与[[In-depth Interview\|深度访谈]]，系统揭示从证据质量向使用质量跃迁的实践机制，确立六大特征并量化检验榜样领导力与时间赤字的决定性影响。
+> - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] — 莫[[Roy Nash|纳什]]大学 Q 项目旗舰成果，结合全澳 906 名教育者两轮调查与[[In-depth Interview\|深度访谈]]，系统揭示从证据质量向使用质量跃迁的实践机制，确立六大特征并量化检验榜样领导力与时间赤字的决定性影响。
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] — 追溯 15 年来循证运动从政策端向实践端的演进历程，反思证据知情标签的商业公关化风险，并借助循证医学反思捍卫教师[[Professional Judgment\|专业判断]]与[[Knowledge Mediation\|知识中介]]的独立性。
 > - [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] — 梳理 EIP [[Epistemology\|认识论]]变迁与 20 年知识管理脉络，将实践知情与政策决策统合进复杂[[Evidence Ecosystem\|证据生态系统]]，并对 29 国跨国政策调查框架展开系统奠基。
 > - [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] — 系统构建 EIP 的三维理论框架，阐述四源整合机制、[[Knowledge Mobilisation\|知识动员]]策略与成果测量类型学。

@@ -10,7 +10,7 @@ import re
 import subprocess
 from dataclasses import dataclass
 from pathlib import Path
-from typing import Iterable
+from typing import Any, Iterable
 
 ROOT = Path(__file__).resolve().parents[1]
 WIKI_DIR = ROOT / "wiki"
@@ -728,7 +728,7 @@ def split_protected_spans(text: str, protect_wikilinks: bool = True) -> list[tup
     for m in re.finditer(r"`[^`\n]*`", text):
         add(m.start(), m.end())
 
-    # Citation-like spans are reserved for citation_linker.py. This prevents
+    # Citation-like spans are reserved for the APA matching functions below. This prevents
     # ordinary Person linking from breaking author-year citations before the
     # citation linker can target the corresponding Argument page.
     for rx in (CITATION_NARRATIVE_RE, CITATION_PAREN_GROUP_RE, CITATION_FULLWIDTH_PAREN_GROUP_RE):
@@ -1448,9 +1448,22 @@ def sync_file(
     person_prefix_registry: PersonPrefixRegistry,
     dry_run: bool,
     tables_only: bool = False,
+    citation_lookup: dict[str, dict[str, Any]] | None = None,
+    citation_targets: dict[str, list[str]] | None = None,
+    citation_stats: dict[str, int] | None = None,
+    missing_citations: list[str] | None = None,
 ) -> tuple[bool, int, int, int, int]:
     original = path.read_text(encoding="utf-8", errors="ignore")
-    fm, body = split_frontmatter(original)
+    working = original
+    if citation_lookup is not None:
+        if citation_stats is None:
+            citation_stats = {"linked_parenthetical": 0, "linked_narrative": 0, "fixed_display": 0}
+        if missing_citations is None:
+            missing_citations = []
+        working = link_citations(working, citation_lookup, citation_stats, missing_citations, path)
+        if citation_targets is not None:
+            working = citation_fix_display_suffixes(working, citation_targets, citation_stats)
+    fm, body = split_frontmatter(working)
     current_title = current_file_title(path, path_to_title)
 
     if tables_only:
@@ -1485,17 +1498,538 @@ def sync_file(
     return changed, added, removed, table_pipes_escaped, heading_styles_normalized
 
 
-def run_sync(paths: list[str], dry_run: bool, git_only: bool, full: bool, tables_only: bool) -> None:
+# APA citation matching shares this module's file selection and write pass.
+CITATION_FULL_JSON = ROOT / "citation" / "citation_full.json"
+
+
+APA_WIKILINK_RE = re.compile(r"\[\[[^\]]+\]\]")
+
+
+APA_INLINE_CODE_RE = re.compile(r"`[^`]*`")
+
+
+APA_HTML_COMMENT_RE = re.compile(r"<!--.*?-->", re.S)
+
+
+APA_OBSIDIAN_COMMENT_RE = re.compile(r"%%.*?%%", re.S)
+
+
+APA_CODE_FENCE_RE = re.compile(r"```.*?```", re.S)
+
+
+APA_AUTHOR_PATTERN = r"[A-Z\u3400-\u9fff][A-Za-zÀ-ÖØ-öø-ÿ\u3400-\u9fff0-9'’ .&和等-]*(?:\s+(?:&|and|和)\s+[A-Z][A-Za-zÀ-ÖØ-öø-ÿ0-9'’ .-]+|\s+et\s+al\.)?"
+
+
+APA_LOCATOR_PATTERN = r"(?:\s*[,，]\s*(?:(?:p|pp|ch|chap)\.?\s*|chapter\s+)[^,，;）)]+|\s*:\s*[^,，;）)]+)"
+
+
+APA_PAREN_GROUP_RE = re.compile(r"(?<!\[)\(([^()\n]*\b\d{4}[a-z]?[^()\n]*)\)")
+
+
+APA_FULLWIDTH_PAREN_GROUP_RE = re.compile(r"（([^（）\n]*\b\d{4}[a-z]?[^（）\n]*)）")
+
+
+APA_PAREN_ITEM_RE = re.compile(
+    r"^\s*"
+    rf"(?P<author>{APA_AUTHOR_PATTERN})"
+    r"\s*(?P<sep>[,，])\s*"
+    r"(?P<year>\d{4}[a-z]?)"
+    rf"(?P<locator>{APA_LOCATOR_PATTERN})?"
+    r"\s*$"
+)
+
+
+APA_PAREN_ITEM_PREFIX_RE = re.compile(
+    r"^\s*"
+    rf"(?P<author>{APA_AUTHOR_PATTERN})"
+    r"\s*(?P<sep>[,，])\s*"
+    r"(?P<year>\d{4}[a-z]?)"
+    rf"(?P<locator>{APA_LOCATOR_PATTERN})?"
+    r"(?P<tail>\s*[,，].+)"
+    r"\s*$"
+)
+
+
+APA_WIKILINK_PAREN_ITEM_RE = re.compile(
+    r"^\s*"
+    r"(?P<link>\[\[[^\]\n]+\]\])"
+    r"\s*(?P<sep>[,，])\s*"
+    r"(?P<year>\d{4}[a-z]?)"
+    rf"(?P<locator>{APA_LOCATOR_PATTERN})?"
+    r"(?P<tail>\s*[,，].+)?"
+    r"\s*$"
+)
+
+
+APA_NARRATIVE_RE = re.compile(
+    r"(?<![\w\]\)])"
+    rf"(?P<author>{APA_AUTHOR_PATTERN})"
+    r"\s*[（(]"
+    r"(?P<year>\d{4}[a-z]?)"
+    rf"(?P<locator>{APA_LOCATOR_PATTERN})?"
+    r"[）)]"
+)
+
+
+APA_WIKILINK_NARRATIVE_RE = re.compile(
+    r"(?<![\w\]\)])"
+    r"(?P<link>\[\[[^\]\n]+\]\])"
+    r"\s*[（(]"
+    r"(?P<year>\d{4}[a-z]?)"
+    rf"(?P<locator>{APA_LOCATOR_PATTERN})?"
+    r"[）)]"
+)
+
+
+APA_TAIL_CITATION_RE = re.compile(
+    r"(?P<label>(?:[,，]\s*(?:(?:引自|引|cited in)\s*)?|(?:引自|引|cited in)\s*))"
+    rf"(?P<author>{APA_AUTHOR_PATTERN})"
+    r"\s*(?P<sep>[,，])\s*"
+    r"(?P<year>\d{4}[a-z]?)"
+    rf"(?P<locator>{APA_LOCATOR_PATTERN})?",
+    re.IGNORECASE,
+)
+
+
+def load_citation_lookup() -> dict[str, dict[str, Any]]:
+    data = json.loads(CITATION_FULL_JSON.read_text(encoding="utf-8"))
+    items = data.get("items", data) if isinstance(data, dict) else {}
+    lookup: dict[str, dict[str, Any]] = {}
+
+    def add_key(alias: str, entry: dict[str, Any]) -> None:
+        lookup[alias] = entry
+        lookup[citation_normalize_citation_alias(alias)] = entry
+
+    if isinstance(items, dict):
+        for alias, entry in items.items():
+            if isinstance(entry, dict):
+                add_key(str(alias), entry)
+                for extra in entry.get("aliases") or []:
+                    add_key(str(extra), entry)
+    return lookup
+
+
+def citation_normalize_citation_alias(alias: str) -> str:
+    alias = re.sub(r"\s+", " ", alias).strip()
+    return re.sub(r"(?<=[A-Za-zÀ-ÖØ-öø-ÿ])(?:\s+and\s+|\s*&\s*|\s*和\s*)(?=[A-ZÀ-ÖØ-Þ])", " & ", alias)
+
+
+def citation_normalize_author(author: str) -> str:
+    return citation_normalize_citation_alias(author)
+
+
+def citation_normalize_display_author(author: str, narrative: bool = False) -> str:
+    author = re.sub(r"\s+", " ", author).strip()
+    conjunction = " and " if narrative else " & "
+    return re.sub(r"(?<=[A-Za-zÀ-ÖØ-öø-ÿ])(?:\s+and\s+|\s*&\s*|\s*和\s*)(?=[A-ZÀ-ÖØ-Þ])", conjunction, author)
+
+
+def citation_normalize_locator(locator: str) -> str:
+    locator = locator.replace("，", ",")
+    return re.sub(r"^\s*,\s*", ", ", locator)
+
+
+def citation_display_parenthetical_author_year(author: str, sep: str, year: str) -> str:
+    if sep == "，":
+        return f"{author}，{year}"
+    return f"{author}, {year}"
+
+
+def citation_wikilink_display(raw: str) -> str:
+    inner = raw.strip()[2:-2].strip()
+    if "\\|" in inner:
+        return inner.split("\\|", 1)[1].strip()
+    if "|" in inner:
+        return inner.split("|", 1)[1].strip()
+    return inner.split("#", 1)[0].strip()
+
+
+def citation_mask_protected(text: str) -> tuple[str, list[str]]:
+    protected: list[str] = []
+
+    def repl(m: re.Match[str]) -> str:
+        # Resolve earlier placeholders first: inline code may contain a
+        # wikilink that was already masked, and unmask() is single-pass.
+        protected.append(citation_unmask(m.group(0), protected))
+        return f"\uE000{len(protected) - 1}\uE001"
+
+    for rx in [APA_CODE_FENCE_RE, APA_HTML_COMMENT_RE, APA_OBSIDIAN_COMMENT_RE, APA_WIKILINK_RE, APA_INLINE_CODE_RE]:
+        text = rx.sub(repl, text)
+    return text, protected
+
+
+def citation_unmask(text: str, protected: list[str]) -> str:
+    def repl(m: re.Match[str]) -> str:
+        return protected[int(m.group(1))]
+    return re.sub(r"\uE000(\d+)\uE001", repl, text)
+
+
+def citation_link_target(entry: dict[str, Any], display: str) -> str:
+    return f"[[{entry['argument']}|{display}]]"
+
+
+def citation_link_tail_citations(tail: str, lookup: dict[str, dict[str, Any]], missing: list[str]) -> tuple[str, bool]:
+    changed = False
+
+    def repl(m: re.Match[str]) -> str:
+        nonlocal changed
+        display_author = citation_normalize_display_author(m.group("author"))
+        author = citation_normalize_author(display_author)
+        year = m.group("year").strip()
+        locator = citation_normalize_locator(m.group("locator") or "")
+        key = f"{author}, {year}"
+        entry = lookup.get(key)
+        if not entry:
+            missing.append(key)
+            return m.group(0)
+        changed = True
+        display = f"{citation_display_parenthetical_author_year(display_author, m.group('sep'), year)}{locator}"
+        return f"{m.group('label')}{citation_link_target(entry, display)}"
+
+    return APA_TAIL_CITATION_RE.sub(repl, tail), changed
+
+
+def citation_link_parenthetical_group(content: str, lookup: dict[str, dict[str, Any]], stats: dict[str, int], missing: list[str], opener: str = "(", closer: str = ")") -> str | None:
+    parts = content.split(";")
+    linked_parts: list[str] = []
+    changed = False
+    for raw in parts:
+        item = raw.strip()
+        m = APA_PAREN_ITEM_RE.match(item)
+        prefix_only = False
+        wikilink_author = False
+        if not m:
+            m = APA_PAREN_ITEM_PREFIX_RE.match(item)
+            prefix_only = bool(m)
+        if not m:
+            m = APA_WIKILINK_PAREN_ITEM_RE.match(item)
+            wikilink_author = bool(m)
+            prefix_only = bool(m and m.group("tail"))
+        if not m:
+            linked_parts.append(item)
+            continue
+        display_author = citation_wikilink_display(m.group("link")) if wikilink_author else citation_normalize_display_author(m.group("author"))
+        author = citation_normalize_author(display_author)
+        year = m.group("year").strip()
+        locator = citation_normalize_locator(m.group("locator") or "")
+        key = f"{author}, {year}"
+        entry = lookup.get(key)
+        tail = m.group("tail") if "tail" in m.groupdict() else None
+        if not entry:
+            missing.append(key)
+            if tail:
+                linked_tail, tail_changed = citation_link_tail_citations(tail, lookup, missing)
+                if tail_changed:
+                    display_prefix = f"{citation_display_parenthetical_author_year(display_author, m.group('sep'), year)}{locator}"
+                    linked_parts.append(f"{display_prefix}{linked_tail}")
+                    changed = True
+                else:
+                    linked_parts.append(item)
+            else:
+                linked_parts.append(item)
+            continue
+        display_prefix = f"{citation_display_parenthetical_author_year(display_author, m.group('sep'), year)}{locator}"
+        if prefix_only:
+            linked_tail, _ = citation_link_tail_citations(tail or "", lookup, missing)
+            linked_parts.append(f"{citation_link_target(entry, display_prefix)}{linked_tail}")
+        else:
+            linked_parts.append(citation_link_target(entry, display_prefix))
+        changed = True
+    if not changed:
+        return None
+    stats["linked_parenthetical"] += 1
+    return opener + "; ".join(linked_parts) + closer
+
+
+def citation_link_parenthetical(text: str, lookup: dict[str, dict[str, Any]], stats: dict[str, int], missing: list[str]) -> str:
+    def repl(m: re.Match[str]) -> str:
+        opener = m.group(0)[0]
+        closer = "）" if opener == "（" else ")"
+        linked = citation_link_parenthetical_group(m.group(1), lookup, stats, missing, opener, closer)
+        return linked or m.group(0)
+
+    text = APA_PAREN_GROUP_RE.sub(repl, text)
+    text = APA_FULLWIDTH_PAREN_GROUP_RE.sub(repl, text)
+    return text
+
+
+def citation_link_wikilink_parenthetical(text: str, lookup: dict[str, dict[str, Any]], stats: dict[str, int], missing: list[str]) -> str:
+    def repl(m: re.Match[str]) -> str:
+        if "[[" not in m.group(1):
+            return m.group(0)
+        opener = m.group(0)[0]
+        closer = "）" if opener == "（" else ")"
+        linked = citation_link_parenthetical_group(m.group(1), lookup, stats, missing, opener, closer)
+        return linked or m.group(0)
+
+    text = APA_PAREN_GROUP_RE.sub(repl, text)
+    text = APA_FULLWIDTH_PAREN_GROUP_RE.sub(repl, text)
+    return text
+
+
+def citation_is_cjk(ch: str) -> bool:
+    return "\u3400" <= ch <= "\u9fff"
+
+
+def citation_author_start_candidates(raw: str) -> list[int]:
+    """Offsets where an author name could start inside a greedy AUTHOR_PATTERN match.
+
+    AUTHOR_PATTERN allows CJK characters and spaces so that Chinese authors and
+    multi-word names match, but in running Chinese prose that lets the match
+    swallow the preceding sentence ("对称对比条目，共同构成 Li"). Trying the
+    suffixes that start at a word/script boundary recovers the real author.
+    """
+    starts = [0]
+    for i in range(1, len(raw)):
+        prev, ch = raw[i - 1], raw[i]
+        if prev.isspace() and not ch.isspace():
+            starts.append(i)
+        elif citation_is_cjk(ch) and not prev.isspace():
+            starts.append(i)
+        elif ch.isupper() and citation_is_cjk(prev):
+            starts.append(i)
+    # A suffix right after a conjunction is a co-author, not the first author:
+    # "Yamamoto and Li (2012)" must never be linked as "Li (2012)".
+    return [i for i in starts if i == 0 or not APA_CONJUNCTION_TAIL_RE.search(raw[:i])]
+
+
+APA_CONJUNCTION_TAIL_RE = re.compile(r"[^\s&、,，]\s*(?:\band|&|与|和|及|、|[,，])\s*(?:[A-Z][\w'’.-]*\s+)*$")
+
+
+def citation_link_narrative(text: str, lookup: dict[str, dict[str, Any]], stats: dict[str, int], missing: list[str]) -> str:
+    def repl(m: re.Match[str]) -> str:
+        raw_author = m.group("author")
+        year = m.group("year").strip()
+        locator = citation_normalize_locator(m.group("locator") or "")
+        first_key = None
+        for start in citation_author_start_candidates(raw_author):
+            candidate = raw_author[start:]
+            if not (candidate[:1].isupper() or citation_is_cjk(candidate[:1])):
+                continue
+            display_author = citation_normalize_display_author(candidate, narrative=True)
+            key = f"{citation_normalize_author(display_author)} ({year})"
+            first_key = first_key or key
+            entry = lookup.get(key)
+            if entry:
+                stats["linked_narrative"] += 1
+                return raw_author[:start] + citation_link_target(entry, f"{display_author} ({year}{locator})")
+        missing.append(first_key or f"{raw_author} ({year})")
+        return m.group(0)
+    return APA_NARRATIVE_RE.sub(repl, text)
+
+
+def citation_link_wikilink_narrative(text: str, lookup: dict[str, dict[str, Any]], stats: dict[str, int], missing: list[str]) -> str:
+    def repl(m: re.Match[str]) -> str:
+        display_author = citation_normalize_display_author(citation_wikilink_display(m.group("link")), narrative=True)
+        author = citation_normalize_author(display_author)
+        year = m.group("year").strip()
+        locator = citation_normalize_locator(m.group("locator") or "")
+        key = f"{author} ({year})"
+        entry = lookup.get(key)
+        if not entry:
+            missing.append(key)
+            return m.group(0)
+        stats["linked_narrative"] += 1
+        return citation_link_target(entry, f"{display_author} ({year}{locator})")
+    return APA_WIKILINK_NARRATIVE_RE.sub(repl, text)
+
+
+APA_YEAR_TOKEN_RE = re.compile(r"((?:19|20)\d{2})([a-z])?")
+
+
+APA_DISPLAY_WIKILINK_RE = re.compile(r"\[\[([^\]\n|]+)\|([^\]\n]+)\]\]")
+
+
+def citation_build_target_aliases(lookup: dict[str, dict[str, Any]]) -> dict[str, list[str]]:
+    targets: dict[str, list[str]] = {}
+    for alias, entry in lookup.items():
+        arg = entry.get("argument")
+        if not arg:
+            continue
+        targets.setdefault(arg, [])
+        if alias not in targets[arg]:
+            targets[arg].append(alias)
+    return targets
+
+
+def citation_rewrite_drifted_display(display: str, aliases: list[str]) -> str | None:
+    """Rewrite an Argument link display whose a/b/c suffix drifted from citation_aliases.
+
+    'Cohen et al., 2011, p. 30' -> 'Cohen et al., 2011a, p. 30' when the target's
+    alias is 'Cohen et al., 2011a'. Returns None when no safe rewrite exists.
+    """
+    m = APA_YEAR_TOKEN_RE.search(display)
+    if not m:
+        return None
+    narrative = display[: m.start()].rstrip().endswith(("(", "（"))
+    d_author = citation_normalize_author(display[: m.start()].strip(" ,，（(")).lower()
+    if not d_author:
+        return None
+    tail = display[m.end():]
+    for alias in aliases:
+        am = APA_YEAR_TOKEN_RE.search(alias)
+        if not am:
+            continue
+        if alias[: am.start()].rstrip().endswith(("(", "（")) != narrative:
+            continue
+        if citation_normalize_author(alias[: am.start()].strip(" ,，（(")).lower() != d_author:
+            continue
+        if am.group(1) != m.group(1):
+            continue
+        # Replace only the year token so any wrapping text/parens are preserved.
+        candidate = display[: m.start()] + am.group(0) + tail
+        return candidate if candidate != display else None
+    return None
+
+
+def citation_fix_display_suffixes(text: str, targets: dict[str, list[str]], stats: dict[str, int]) -> str:
+    fm, body = split_frontmatter(text)
+
+    def repl(match: re.Match[str]) -> str:
+        target = match.group(1).strip()
+        display = match.group(2).strip()
+        aliases = targets.get(target)
+        if not aliases:
+            return match.group(0)
+        fixed = citation_rewrite_drifted_display(display, aliases)
+        if fixed is None:
+            return match.group(0)
+        stats["fixed_display"] += 1
+        return f"[[{target}|{fixed}]]"
+
+    return fm + APA_DISPLAY_WIKILINK_RE.sub(repl, body)
+
+
+APA_SOURCES_HEADING_RE = re.compile(r"^##\s+(?:来源|Sources?)\s*$", re.M)
+
+
+APA_HEADING_LINE_RE = re.compile(r"^#{1,6}\s.*$", re.M)
+
+
+APA_PART_OF_RE = re.compile(r"^part_of:\s*[\"']?\[\[([^\]|#]+)", re.M)
+
+
+def citation_self_targets_for(path: Path | None, fm: str) -> set[str]:
+    if path is None:
+        return set()
+    targets = {path.stem}
+    m = APA_PART_OF_RE.search(fm)
+    if m:
+        targets.add(m.group(1).strip())
+    return targets
+
+
+def link_citations(text: str, lookup: dict[str, dict[str, Any]], stats: dict[str, int], missing: list[str], path: Path | None = None) -> str:
+    fm, body = split_frontmatter(text)
+    # Reference lists under "## 来源/Sources" are bibliography, not prose.
+    m = APA_SOURCES_HEADING_RE.search(body)
+    body, sources_tail = (body[:m.start()], body[m.start():]) if m else (body, "")
+    selfs = citation_self_targets_for(path, fm)
+    if selfs:
+        lookup = {k: v for k, v in lookup.items() if v.get("argument") not in selfs}
+    body = citation_link_wikilink_parenthetical(body, lookup, stats, missing)
+    body = citation_link_wikilink_narrative(body, lookup, stats, missing)
+    masked, protected = citation_mask_protected(body)
+    # Headings stay plain: a link in a heading changes its anchor.
+    def protect_heading(h: re.Match[str]) -> str:
+        protected.append(citation_unmask(h.group(0), protected))
+        return f"\uE000{len(protected) - 1}\uE001"
+
+    masked = APA_HEADING_LINE_RE.sub(protect_heading, masked)
+    masked = citation_link_parenthetical(masked, lookup, stats, missing)
+    masked = citation_link_narrative(masked, lookup, stats, missing)
+    return fm + citation_escape_table_pipes(citation_unmask(masked, protected)) + sources_tail
+
+
+APA_TABLE_LINE_RE = re.compile(r"^\s*(?:>\s*)*\|")
+
+
+APA_UNESCAPED_ARG_LINK_RE = re.compile(r"\[\[(Argument_[^\]|\\\n]+)\|")
+
+
+def citation_escape_table_pipes(body: str) -> str:
+    """Inside Markdown table rows, a wikilink alias pipe must be written as \\|."""
+    if "|" not in body:
+        return body
+    lines = body.split("\n")
+    for i, line in enumerate(lines):
+        if APA_TABLE_LINE_RE.match(line) and "[[Argument_" in line:
+            lines[i] = APA_UNESCAPED_ARG_LINK_RE.sub(lambda m: f"[[{m.group(1)}\\|", line)
+    return "\n".join(lines)
+
+
+def select_link_files(paths: list[str], git_only: bool, full: bool, *, citations_only: bool = False) -> list[Path]:
     if git_only and paths:
         raise SystemExit("`sync --git` does not accept explicit paths; use either --git or paths.")
     if full and paths:
         raise SystemExit("`sync --full` does not accept explicit paths; use either --full or paths.")
     if git_only and full:
         raise SystemExit("Use only one of --git or --full.")
+    if paths or full:
+        files = iter_target_files(paths)
+    elif citations_only:
+        # Daily citation-only maintenance keeps its existing local-change scope.
+        files = [ROOT / name for name in git_changed_paths()]
+    else:
+        files = iter_git_target_files()
+    return sorted({p for p in files if p.is_file() and p.suffix.lower() == ".md"
+                   and WIKI_DIR.resolve() in p.resolve().parents and not should_skip_file(p)})
 
-    # Default to incremental git-aware sync when no explicit path is supplied.
-    # Use --full for a whole-vault relink. Explicit paths remain path-scoped.
-    effective_git_only = git_only or (not full and not paths)
+
+def require_citation_index() -> None:
+    if not CITATION_FULL_JSON.exists():
+        raise SystemExit("citation/citation_full.json missing; run scripts/vault_index.py first.")
+
+
+def print_citation_stats(stats: dict[str, int], missing: list[str]) -> None:
+    print(f"APA parenthetical groups linked: {stats['linked_parenthetical']}")
+    print(f"APA narrative citations linked: {stats['linked_narrative']}")
+    print(f"Citation displays fixed: {stats['fixed_display']}")
+    if missing:
+        print("Unresolved citation aliases:")
+        for alias in sorted(set(missing))[:200]:
+            print(f"  - {alias}")
+
+
+def run_citation_sync(files: Iterable[Path], *, dry_run: bool = False, fix_display: bool = False) -> tuple[int, int]:
+    """Citation-only maintenance for the base workflow and explicit CLI mode."""
+    require_citation_index()
+    lookup = load_citation_lookup()
+    targets = citation_build_target_aliases(lookup) if fix_display else None
+    stats = {"linked_parenthetical": 0, "linked_narrative": 0, "fixed_display": 0}
+    missing: list[str] = []
+    changed = 0
+    for path in sorted({Path(path).resolve() for path in files}):
+        if not path.is_file() or WIKI_DIR.resolve() not in path.resolve().parents or should_skip_file(path):
+            continue
+        original = path.read_text(encoding="utf-8")
+        updated = link_citations(original, lookup, stats, missing, path)
+        if targets is not None:
+            updated = citation_fix_display_suffixes(updated, targets, stats)
+        if updated != original:
+            changed += 1
+            print(f"{'Would update' if dry_run else 'Updated'}: {path.relative_to(ROOT)} (APA citations)")
+            if not dry_run:
+                path.write_text(updated, encoding="utf-8")
+    print_citation_stats(stats, missing)
+    return changed, stats['linked_parenthetical'] + stats['linked_narrative']
+
+
+def run_sync(paths: list[str], dry_run: bool, git_only: bool, full: bool, tables_only: bool,
+             *, citations_only: bool = False, wiki_only: bool = False, fix_display: bool = False) -> None:
+    files = select_link_files(paths, git_only, full, citations_only=citations_only)
+    if citations_only:
+        run_citation_sync(files, dry_run=dry_run, fix_display=fix_display)
+        return
+    citation_lookup = None
+    citation_targets = None
+    citation_stats = {"linked_parenthetical": 0, "linked_narrative": 0, "fixed_display": 0}
+    missing_citations: list[str] = []
+    if not wiki_only and not tables_only:
+        require_citation_index()
+        citation_lookup = load_citation_lookup()
+        if fix_display:
+            citation_targets = citation_build_target_aliases(citation_lookup)
 
     entries = load_entries()
     source_entries = load_source_entries()
@@ -1507,7 +2041,6 @@ def run_sync(paths: list[str], dry_run: bool, git_only: bool, full: bool, tables
         entries_by_title.setdefault(source.title, source)
     source_pattern = make_source_pattern({source.title for source in source_entries})
     source_links = make_source_links(source_entries)
-    files = iter_git_target_files() if effective_git_only else iter_target_files(paths)
 
     stats = LinkStats()
     for path in files:
@@ -1523,6 +2056,10 @@ def run_sync(paths: list[str], dry_run: bool, git_only: bool, full: bool, tables
             person_prefix_registry,
             dry_run,
             tables_only=tables_only,
+            citation_lookup=citation_lookup,
+            citation_targets=citation_targets,
+            citation_stats=citation_stats,
+            missing_citations=missing_citations,
         )
         if changed:
             stats.files_changed += 1
@@ -1537,6 +2074,8 @@ def run_sync(paths: list[str], dry_run: bool, git_only: bool, full: bool, tables
                 f"heading styles {heading_styles_normalized})"
             )
 
+    if citation_lookup is not None:
+        print_citation_stats(citation_stats, missing_citations)
     print("Done.")
     print(f"Files scanned: {len(files)}")
     print(f"Files changed: {stats.files_changed}")
@@ -1554,11 +2093,15 @@ def run_sync(paths: list[str], dry_run: bool, git_only: bool, full: bool, tables
 
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(
-        description="Synchronize ordinary Obsidian wikilinks from wiki/index.json. Argument citation links are preserved; authors/editors YAML fields are linked to Person pages."
+        description="Synchronize APA citations and ordinary Obsidian wikilinks in one pass; link authors/editors to Person pages."
     )
     sub = parser.add_subparsers(dest="command")
 
     sync = sub.add_parser("sync", help="Clean invalid links and add missing wikilinks.")
+    modes = sync.add_mutually_exclusive_group()
+    modes.add_argument("--citations-only", action="store_true", help="Only link APA citations; no ordinary wikilinks or YAML author changes.")
+    modes.add_argument("--wiki-only", action="store_true", help="Only synchronize ordinary wikilinks and YAML authors/editors.")
+    sync.add_argument("--fix-display", action="store_true", help="Fix citation display year suffixes using the current citation index.")
     sync.add_argument("paths", nargs="*", help="Optional file or directory paths relative to vault root.")
     sync.add_argument("--dry-run", action="store_true", help="Show changes without writing files.")
     sync.add_argument("--git", action="store_true", help="Only process files affected by git changes. This is also the default when no path is supplied.")
@@ -1573,6 +2116,10 @@ def main() -> None:
         raise SystemExit(f"wiki directory not found: {WIKI_DIR}")
     parser = build_parser()
     args = parser.parse_args()
+    if getattr(args, "tables_only", False) and (getattr(args, "citations_only", False) or getattr(args, "fix_display", False)):
+        parser.error("--tables-only cannot be combined with citation options")
+    if getattr(args, "wiki_only", False) and getattr(args, "fix_display", False):
+        parser.error("--wiki-only cannot be combined with --fix-display")
     if args.command in {None, "sync"}:
         run_sync(
             getattr(args, "paths", []),
@@ -1580,6 +2127,9 @@ def main() -> None:
             getattr(args, "git", False),
             getattr(args, "full", False),
             getattr(args, "tables_only", False),
+            citations_only=getattr(args, "citations_only", False),
+            wiki_only=getattr(args, "wiki_only", False),
+            fix_display=getattr(args, "fix_display", False),
         )
     else:
         parser.error(f"unknown command: {args.command}")

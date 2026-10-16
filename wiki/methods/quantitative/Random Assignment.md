@@ -11,9 +11,9 @@ summary: "将受试对象按概率均等原则分派至不同实验处理条件�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 58
-method_related_level: 5
-method_related_stars: "💎⭐⭐"
+method_related_count: 60
+method_related_level: 6
+method_related_stars: "💎💎"
 method_related_color: "#dcfce7"
 tags:
   - method/experimental
@@ -66,9 +66,11 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Research Synthesis]]"
   - "[[Mechanism Experiments]]"
 related_persons:
   - "[[John Hattie]]"
+  - "[[Ivan Snook]]"
   - "[[Michael Kratsios]]"
 related_facts:
   - "[[United Kingdom Metascience Unit]]"
@@ -192,8 +194,8 @@ updated: 2026-10-17
 > [!case] 黄金标准随机分配的二阶稀释困境：田纳西 STAR 与[[Meta-analysis|元分析]]均值的张力
 > 随机分配作为确立[[Causality|因果推断]][[Internal Validity|内部效度]]的黄金标准，在宏观教育政策应用中面临显著的二阶稀释困境：
 > 1. **双重随机分配确立的强因果效应** 田纳西州 STAR 项目（Finn & Achilles, 1990）作为教育史上极少数对数千名师生同时实现真随机分配的标志性实验，确证了在关键早期学段（K–3）大幅压缩[[Class Size|班级规模]]（13–17 人）具有高达 $d = 0.62 \sim 0.66$ 的因果增益，且该增益在随后的求学阶段展现出长期保持性。
-> 2. **[[Meta-meta-analysis|二阶元分析]]的无差别均值抹平** 然而在宏观证据综合中，[[John Hattie|约翰·哈蒂]]（John Hattie, 2009）将此类严谨落实双重随机分配的黄金标准研究，与大量非随机化、微小降班（如 25 人降至 23 人）以及不敏感高年级学段的研究笼统合并，得出班级规模效应量仅为 $d \approx 0.20$ 的微弱平均数，并据此得出缩减班级规模性价比极低的政策结论。
-> 3. **因果纯度与宏观概括的[[Epistemology|认识论]]分裂** 伊万·斯努克（Ivan Snook）等学者（2009）指出，这种将高质量随机分配试验与弱设计混杂合并的二阶元分析做法，实质上架空并稀释了初级实验通过严格随机化所辛苦建立的纯净因果结论；哈蒂（[[Argument_Hattie_2010_NZJES|Hattie, 2010]]）则回应辩称，即便随机分配改变了物理班额，若教师未能相应调整教学行为，大规模财政投入依然效率低下。这揭示出微观严格随机分配实验与宏观二阶政策指引之间的深刻张力。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 100–101)]]; [[Argument_Hattie_2010_NZJES|(Hattie, 2010, pp. 90–91)]]
+> 2. **[[Meta-meta-analysis|二阶元分析]]的无差别均值抹平** 然而在宏观[[Research Synthesis|证据综合]]中，[[John Hattie|约翰·哈蒂]]（John Hattie, 2009）将此类严谨落实双重随机分配的黄金标准研究，与大量非随机化、微小降班（如 25 人降至 23 人）以及不敏感高年级学段的研究笼统合并，得出班级规模效应量仅为 $d \approx 0.20$ 的微弱平均数，并据此得出缩减班级规模性价比极低的政策结论。
+> 3. **因果纯度与宏观概括的[[Epistemology|认识论]]分裂** [[Ivan Snook|伊万·斯努克]]（Ivan Snook）等学者（2009）指出，这种将高质量随机分配试验与弱设计混杂合并的二阶元分析做法，实质上架空并稀释了初级实验通过严格随机化所辛苦建立的纯净因果结论；哈蒂（[[Argument_Hattie_2010_NZJES|Hattie, 2010]]）则回应辩称，即便随机分配改变了物理班额，若教师未能相应调整教学行为，大规模财政投入依然效率低下。这揭示出微观严格随机分配实验与宏观二阶政策指引之间的深刻张力。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 100–101)]]; [[Argument_Hattie_2010_NZJES|(Hattie, 2010, pp. 90–91)]]
 
 ---
 

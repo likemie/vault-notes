@@ -17,7 +17,7 @@ aliases:
 summary: "产生、评估并在政策制定者、教育实践者与公众之间传播研究成果的制度化实体与中介网络，呈现出部委依附、政府资助自治与独立慈善三种治理模式，以及因果实证（RCT）与多元综合两种方法学立场；在两至三年的政治预算周期下面临突出的存续危机与跨机构元中介需求。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 131
+related_count: 132
 related_level: 13
 related_stars: "💎💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -97,6 +97,7 @@ related_theories:
   - "[[Navigational Framework for Educational Researchers]]"
 related_methods:
   - "[[Systematic Review]]"
+  - "[[Research Synthesis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Meta-meta-analysis]]"
   - "[[Quasi-Experimental Designs]]"
@@ -168,7 +169,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-12
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Educational Brokerage Agency
@@ -203,7 +204,7 @@ updated: 2026-10-16
 > | 维度 | 教育中介机构（Educational Brokerage Agency） | [[Educational Evidence Clearinghouses\|教育证据清算中心]] | [[Boundary Spanner\|边界跨越者]] | [[Policy Brokerage\|政策中介]] |
 > |---|---|---|---|---|
 > | **组织形态** | 专门设立的正式机构、研究院或国家网络 | 专门化证据数据库与分级评级平台 | 兼具多重身份的个体行动者或非正式小组 | 跨国智库、国际组织或[[Policy Entrepreneur\|政策企业家]] |
-> | **核心职能** | 证据生产引导、跨界中介互动、实践专业支持与证据综合 | 设立因果审查标准、干预有效性分级、提供干预清单 | 维系个人信任网络、非正式信息传递与情境撮合 | 政策包装、转译借用、合法性借力与[[Soft Power\|软实力]]渗透 |
+> | **核心职能** | 证据生产引导、跨界中介互动、实践专业支持与[[Research Synthesis\|证据综合]] | 设立因果审查标准、干预有效性分级、提供干预清单 | 维系个人信任网络、非正式信息传递与情境撮合 | 政策包装、转译借用、合法性借力与[[Soft Power\|软实力]]渗透 |
 > | **治理归属** | 部委嵌入、政府资助自治或独立慈善信托 | 多附设于大学、联邦机构或专业评价协会 | 散布于大学、学校学区或行政管理部门 | 跨国组织（如 [[OECD]]、[[World Bank\|世界银行]]）或独立[[Policy Network\|政策网络]] |
 > | **方法学偏向** | 兼顾 [[Randomised Controlled Trials\|RCT]] 因果评价与质性-量化结合的多[[Meta-meta-analysis\|元综合]] | 严格遵循实验与[[Quasi-Experimental Designs\|准实验设计]]的[[Causality\|因果推断]]金标准 | 依赖临床经验、现场直觉与情境化扎根知识 | 重视指标排名、对比图表与高可视性实证证据 |
 
@@ -222,7 +223,7 @@ updated: 2026-10-16
 > [!goal] 英国有效性中心设立初期的七大核心目标（Gough et al., 2018, 2022, pp. 149–150）
 > - **初级研究开发** 针对关键知识真空资助开展高质量初级实证研究。
 > - **科研合作共创** 组织学术研究人员与一线实践者共同构思与执行研究。
-> - **系统证据综合** 运用严格方法综合梳理并澄清存量知识基底。
+> - **系统[[Research Synthesis|证据综合]]** 运用严格方法综合梳理并澄清存量知识基底。
 > - **打通专业获取渠道** 向专业人员通俗准确地展示与传播研究成果。
 > - **支持主动采纳** 设计制度机制激励决策者在日常工作中实质考量证据。
 > - **制定循证指南** 将综合证据转化为针对专业实践的具体行动建议。
@@ -292,7 +293,7 @@ updated: 2026-10-16
 > 探讨中介机构在政党更迭、短期财政问责以及公私[[Policy Network\|政策网络]]交织下的制度脆弱性，揭示其与教育部委之间的联结异化及被商业资本重构的政治经济学实质。
 
 > [!claim] Burns & Schuller
-> **政治更迭主导存续命运** 纵向追踪 2007 年[[OECD\|经合组织]]（OECD）报告重点剖析的 6 家代表性教育中介机构，历经 15 年后仅有 2 家（美国 [[What Works Clearinghouse\|WWC]] 与英国 [[EPPI-Centre]]）仍保持完全活跃；新西兰 BES 终止了新证据综合资助，而加拿大 [[Canadian Council on Learning\|CCL]]、丹麦清算中心相继关停，荷兰 [[Kenniskamer]] 陷入休眠。深入考证表明，这些机构的夭折绝非因其未能通过严格的项目成效评估，而是由于政府换届、政党政策转向及 2–3 年的短期财政拨款周期所致。在紧迫的政治节奏下，耗时漫长的系统性中介成效评估几乎无一例外地被财政部门直接跳过或削减。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, pp. 64–65)]]
+> **政治更迭主导存续命运** 纵向追踪 2007 年[[OECD\|经合组织]]（OECD）报告重点剖析的 6 家代表性教育中介机构，历经 15 年后仅有 2 家（美国 [[What Works Clearinghouse\|WWC]] 与英国 [[EPPI-Centre]]）仍保持完全活跃；新西兰 BES 终止了新[[Research Synthesis|证据综合]]资助，而加拿大 [[Canadian Council on Learning\|CCL]]、丹麦清算中心相继关停，荷兰 [[Kenniskamer]] 陷入休眠。深入考证表明，这些机构的夭折绝非因其未能通过严格的项目成效评估，而是由于政府换届、政党政策转向及 2–3 年的短期财政拨款周期所致。在紧迫的政治节奏下，耗时漫长的系统性中介成效评估几乎无一例外地被财政部门直接跳过或削减。[[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, pp. 64–65)]]
 
 > [!claim] Blanchenay et al.
 > **理性选择下的证据筛选与政治卸责** 复杂治理背景下的政策制定者面对丰富数据时，倾向于选择性采纳符合自身短期政绩预期的指标。当教育中介机构无法在狭隘的短期选举窗口内提供支持现行政策的即时论据时，其公共财政支持极易被新任政府撤回。（Blanchenay et al., 2014; [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 59–60, 64]]）
@@ -389,7 +390,7 @@ updated: 2026-10-16
 
 > [!debates] 学术争议
 >
-> > [!axis] 方法论评级标准：[[Randomised Controlled Trials\|RCT]] 黄金标准 vs 多元证据综合
+> > [!axis] 方法论评级标准：[[Randomised Controlled Trials\|RCT]] 黄金标准 vs 多元[[Research Synthesis|证据综合]]
 > > 争论聚焦于中介机构应当将因果实证（尤其是实验与[[Quasi-Experimental Designs\|准实验设计]]）作为唯一入选门槛，还是包容多重质性与情境化证据（[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 63–64]]）。
 > >
 > > - **Cook (2007); [[What Works Clearinghouse\|WWC]]; [[Education Endowment Foundation\|EEF]]** 坚持随机对照试验是评估“何者有效”（What Works）的金标准，唯有排除混杂偏差的因果证据才能为教育投资决策提供可靠依据。
@@ -426,7 +427,7 @@ updated: 2026-10-16
 > |---|---|---|---|---|---|---|
 > | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] | [[What Works Clearinghouse]] (WWC), 美国 | 联邦教育部设立，由专业机构分包运营 | 政策决策者、学区管理者、研究者 | 严格遵循因果 [[Randomised Controlled Trials\|RCT]] 金标准；提供分级干预证据库 | 持续活跃（Fully active） | 依托联邦法律授权（如 [[Every Student Succeeds Act\|ESSA]]）与法定义务拨款维持长效运作（p. 64） |
 > | 同上 | [[EPPI-Centre]], 英国伦敦大学学院 | 大学下设学术研究单位，接受政府与基金会资助 | 政策制定者、研究者、一线教育工作者 | 首创质性与量化混合[[Systematic Review\|系统综述]]方法学 | 持续活跃（Fully active） | 根植于高水平[[Research Universities\|研究型大学]]，具备跨学科研究综合与外部课题竞标韧性（p. 64） |
-> | 同上 | [[Best Evidence Synthesis]] (BES), 新西兰 | 教育部内部嵌入式行政研发项目 | 教育部官员、[[School Leadership\|学校领导]]者、教师 | 强调情境化最佳证据综合；转向优秀实践视频展示 | 职能转型（无新综述资助） | 官方终止了新证据综合资助，职能收缩至既有证据的实践案例化推广（p. 64） |
+> | 同上 | [[Best Evidence Synthesis]] (BES), 新西兰 | 教育部内部嵌入式行政研发项目 | 教育部官员、[[School Leadership\|学校领导]]者、教师 | 强调情境化最佳[[Research Synthesis\|证据综合]]；转向优秀实践视频展示 | 职能转型（无新综述资助） | 官方终止了新证据综合资助，职能收缩至既有证据的实践案例化推广（p. 64） |
 > | 同上 | [[Canadian Council on Learning\|Canadian Council on Learning (CCL)]], 加拿大 | 联邦政府设立并拨款的独立法人机构 | 联邦与省教育部、学校实践者 | 跨省[[Lifelong Learning\|终身学习]]与教育研究综合监控 | 已关停（Closed） | 联邦与省际政治博弈及联邦保守党政府终止资助，非因绩效评估不达标（p. 64） |
 > | 同上 | [[Danish Clearinghouse for Educational Research\|Danish Clearinghouse]], 丹麦奥胡斯大学 | 大学下设国家级[[Educational Evidence Clearinghouses\|证据清算中心]]，国家拨款支持 | 丹麦教育部、地方市政当局、学校 | 面向北欧教育实践开展实证系统综述 | 已关停（Closed） | 伴随国家政策重点转移与部委资助终止而被迫关闭（p. 64） |
 > | 同上 | Knowledge Chamber ([[Kenniskamer]]), 荷兰 | 荷兰教育部内部专设高阶咨询室 | 荷兰教育部部长、政策制定高层官员 | 针对部委重大政策急难问题组织专家[[Dialogue in Education\|对话]]与研讨 | 休眠停摆（Hibernating） | 极度依赖主管大臣个人意志，随内阁更迭与人事变动陷入机制停摆（p. 64） |

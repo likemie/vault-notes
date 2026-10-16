@@ -5,7 +5,7 @@ aliases:
 summary: "围绕元分析方法论前提、操作程序和政策用途形成的多维度批评体系，涵盖研究可比性、输入质量、发表偏倚、过度简化、统计推断、领域迁移、抽样伦理和平均效应误导等问题"
 type: concept
 domain: "research-methodology"
-related_count: 62
+related_count: 64
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -31,6 +31,7 @@ related_concepts:
   - "[[Reliability]]"
   - "[[Publication Bias]]"
   - "[[External Validity]]"
+  - "[[Learning Styles]]"
   - "[[Interaction Effect]]"
   - "[[Sampling Error]]"
   - "[[Sociology of Valuation and Evaluation]]"
@@ -54,6 +55,7 @@ related_concepts:
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Research Synthesis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Quantitative Research]]"
   - "[[Intercoder Agreement]]"
@@ -84,7 +86,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-07-13
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Critique of Meta-analysis
@@ -97,7 +99,7 @@ updated: 2026-10-16
 > [[Meta-analysis\|元分析]]批判（Critique of Meta-analysis）指围绕元分析方法论前提、操作程序和政策用途形成的多维度批评体系。自 Eysenck（1978）提出"垃圾进，垃圾出"的早期警告以来，批评者逐渐从方法论前提（研究是否可比）、操作程序（编码是否可靠）、统计推断（合并[[Effect Size\|效应量]]是否有意义）和政策用途（排名表是否误导决策）四个层面提出了系统性质疑（pp.156–234）。
 
 > [!concept-lens] 概念透镜
-> - **含义** 这个概念指向对元分析在研究综合、[[Causality\|因果推断]]和政策指导中有效性的多维度怀疑。它不是对元分析的简单否定，而是追问：在什么条件下合并[[Effect Size\|效应量]]是合理的？哪些前提假设需要被满足？违反这些前提的后果是什么？
+> - **含义** 这个概念指向对元分析在[[Research Synthesis|研究综合]]、[[Causality\|因果推断]]和政策指导中有效性的多维度怀疑。它不是对元分析的简单否定，而是追问：在什么条件下合并[[Effect Size\|效应量]]是合理的？哪些前提假设需要被满足？违反这些前提的后果是什么？
 > - **用途** 它帮助研究者和政策制定者识别元分析结论的脆弱点，避免将"看起来精确的数字"误认为可靠的因果证据。
 > - **边界** 它不涉及对特定元分析结果内容的实质争议（如某一干预到底是否有效），也不替代[[Effect Size\|效应量]]技术计算本身的讨论。
 
@@ -192,7 +194,7 @@ updated: 2026-10-16
 > **文件抽屉问题的量化方法** Rosenthal 提出了量化发表偏倚影响的方法：计算需要多少篇平均效果为零的未发表研究才能推翻已发表研究的显著结论。在一个例子中，这一比率为 277:1，表明发表偏倚可能有限。但这一方法的假设——未发表研究的平均效果为零——本身可能不成立（pp.154）。
 
 > [!claim] [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]
-> **发表偏差与[[External Validity\|可推广性]]** [[Argument_Snook_2009_NZJES\|Snook et al.（2009, pp.97–98）]]指出支持有利结论的研究更可能被发表——在药物公司资助的研究和利润丰厚的教育时尚（如学习风格）中尤其严重。此外，大多数研究来自美国等英语发达国家，不可直接推广至非英语或发展中国家——在发展中国家学校效应（相对于教师效应）远更大。
+> **发表偏差与[[External Validity\|可推广性]]** [[Argument_Snook_2009_NZJES\|Snook et al.（2009, pp.97–98）]]指出支持有利结论的研究更可能被发表——在药物公司资助的研究和利润丰厚的教育时尚（如[[Learning Styles|学习风格]]）中尤其严重。此外，大多数研究来自美国等英语发达国家，不可直接推广至非英语或发展中国家——在发展中国家学校效应（相对于教师效应）远更大。
 
 > [!critique] 源研究选择的纯技术标准
 > 元分析通常基于技术质量（如 [[Randomised Controlled Trials\|RCT]] 设计）而非理论相关性选择源研究，且讨论部分的理论内容在最终报告中往往消失（[[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, pp. 119, 123]]）。

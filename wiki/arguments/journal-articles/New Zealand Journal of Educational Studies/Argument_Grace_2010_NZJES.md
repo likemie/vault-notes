@@ -9,7 +9,7 @@ title: "Argument_Grace_2010_NZJES"
 argument_key: "Argument_Grace_2010_NZJES"
 argument_display_title: "Reflection on the University and the Academic as 'Critic and Conscience of Society'"
 argument_kind: "journal-article"
-argument_related_count: 7
+argument_related_count: 8
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_theories: []
 related_methods: []
 related_persons:
   - "[[Basil Bernstein]]"
+  - "[[Roy Nash]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Hattie_2010_NZJES]]"
@@ -38,7 +39,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-07'
-updated: 2026-10-16
+updated: 2026-10-17
 year: 2010
 doi: ""
 citation_aliases:
@@ -85,7 +86,7 @@ citation_aliases:
 >
 > Grace 以两位学者作为"critic and conscience of society"角色的典范(p.91)：
 > - **[[Basil Bernstein]]** 在 *Education Cannot Compensate for Society*(1970)中向政治家明确阐明：没有外部结构性和经济改革，学校无法单独创造教育机会平等
-> - **Roy Nash** 在 *Social Class and Education in New Zealand*(2003)中对教育成就差异的分析始终渗透着对非学校因素的清晰认识——这对于现实的政策倡议至关重要
+> - **[[Roy Nash]]** 在 *Social Class and Education in New Zealand*(2003)中对教育成就差异的分析始终渗透着对非学校因素的清晰认识——这对于现实的政策倡议至关重要
 
 ## 主要发现
 

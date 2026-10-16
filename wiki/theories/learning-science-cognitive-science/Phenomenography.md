@@ -6,7 +6,7 @@ aliases:
 summary: "以人们经验和理解现象的质性差异为对象的学习理论传统，通过分析特定任务中的学习方式与理解结果解释学生学习。"
 type: theory
 theory_field: "learning-science-cognitive-science"
-theory_related_count: 12
+theory_related_count: 13
 theory_related_level: 1
 theory_related_stars: "⭐"
 theory_related_color: "#dbeafe"
@@ -18,6 +18,7 @@ related_concepts:
   - "[[Problem-Based Learning]]"
   - "[[Epistemology]]"
   - "[[Ontology]]"
+  - "[[Learning Styles]]"
   - "[[Constructivist Paradigm]]"
   - "[[Constructive Alignment]]"
 related_arguments:
@@ -29,7 +30,7 @@ related_methods:
 confidence: medium
 status: draft
 created: 2026-07-28
-updated: 2026-10-15
+updated: 2026-10-17
 ---
 
 # Phenomenography
@@ -84,7 +85,7 @@ updated: 2026-10-15
 > - **[[Ontology\|本体论]]** 学习结果表现为学习者经验和理解对象方式的变化。
 > - **认识论** 关注学习者与现象之间的关系，以及理解方式之间的质性差异。
 > - **方法含义** 分析应围绕具体任务中的学习活动与理解结果，而不是预先把学生归入稳定类型。
-> - **不能直接推出的东西** 不能仅凭一次表层表现推断稳定能力、人格缺陷或跨情境学习风格。
+> - **不能直接推出的东西** 不能仅凭一次表层表现推断稳定能力、人格缺陷或跨情境[[Learning Styles|学习风格]]。
 
 > [!theory-use] 如何用于研究
 > - **作为理论框架** 组织关于学生如何处理任务及其结果质[[Quantitative Research\|量的研究]]问题。

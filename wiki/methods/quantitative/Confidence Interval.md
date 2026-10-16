@@ -10,7 +10,7 @@ summary: "围绕点估计给出的区间估计形式，由置信水平和标准�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 34
+method_related_count: 35
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -41,6 +41,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
   - "[[Forest Plot]]"
+  - "[[Research Synthesis]]"
   - "[[Prediction Interval]]"
   - "[[Statistical Significance]]"
   - "[[Fixed-Effect Model]]"
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-05
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Confidence Interval
@@ -93,7 +94,7 @@ updated: 2026-10-16
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 视单次实证观察所得的点估计为包含[[Sampling Error|抽样误差]]的随机[[Variable|变量]]，任何不报告不确定性边界的孤立点估计均具有认识论上的误导性（False Precision）；科学知识的客观性体现于估计精度的收敛与对不确定性的透明呈现。
-> - **研究者角色** 在研究设计阶段依据精度目标审慎权衡置信水平与区间半宽以决定抽样规模；在数据分析与证据综合阶段严格基于理论方差计算置信区间，拒绝机械的 $p < 0.05$ 二分法，并如实汇报未被伪造或低估的区间宽度。
+> - **研究者角色** 在研究设计阶段依据精度目标审慎权衡置信水平与区间半宽以决定抽样规模；在数据分析与[[Research Synthesis|证据综合]]阶段严格基于理论方差计算置信区间，拒绝机械的 $p < 0.05$ 二分法，并如实汇报未被伪造或低估的区间宽度。
 > - **有效性标准** 覆盖概率（Coverage Probability，名义 95% CI 应真实覆盖 95% 的真值参数）、估计精度（区间越窄信息量越高）、结论稳健性。
 > - **不声称回答的问题** CI 不代表未来单一个体观测值的散布范围（该范围由[[Prediction Interval|预测区间]]定义）；CI 不能消除测量工具的系统性偏差（Systematic Bias）或混杂偏倚；CI 覆盖零值并不等同于“真实效应为零”。
 
@@ -213,7 +214,7 @@ updated: 2026-10-16
 >   - **抽样方案设计** 依据预期变异度与容许误差半宽计算目标样本容量。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|(Cohen et al., 2011, pp. 147–148)]]
 >   - **现场[[Randomised Controlled Trials|随机对照试验]]（RCT）** 呈现干预效应的点估计与精度范围，评估试验因果效度与统计功效。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, pp. 56–57)]]
 >   - **[[International Large-Scale Assessments|国际大规模学生评估]]（[[PISA]]）** 在 Rasch 尺度上呈现各国与各子群体的能力估计区间，防止因细微点估计差异而对国别排名作过度解读。[[Argument_Allerup_2015_Paideia|(Allerup, 2015, pp. 47–48)]]
->   - **[[Meta-analysis|元分析]]与二阶证据综合** 绘制[[Forest Plot|森林图]]展示各个一阶研究的估计精度分布与综合[[Effect Size|效应量]]置信区间。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, p. 30)]]
+>   - **[[Meta-analysis|元分析]]与二阶[[Research Synthesis|证据综合]]** 绘制[[Forest Plot|森林图]]展示各个一阶研究的估计精度分布与综合[[Effect Size|效应量]]置信区间。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, p. 30)]]
 > - **谨慎使用**
 >   - **教育证据向决策者传播转化** 实践者往往难以直观理解连续区间统计意义；英美[[Educational Brokerage Agency|证据中介机构]]（如英国 [[Education Endowment Foundation|EEF]]）常在保留底层 95% CI 的同时，在前端工具包中折叠转换为“额外学习月数”并辅以[[EEF Padlock Security Rating|挂锁安全评级]]。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, pp. 56–58)]]
 > - **不适合使用**

@@ -7,7 +7,7 @@ summary: "英国利兹大学社会研究方法论名誉教授，科学实在论�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 37
+person_related_count: 38
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -47,6 +47,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Systematic Review]]"
   - "[[Meta-analysis]]"
+  - "[[Research Synthesis]]"
   - "[[Effect Size]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Factorial Design]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-05-01'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Ray Pawson
@@ -114,7 +115,7 @@ updated: 2026-10-16
 > - **2000年代 — 循证政策批判与实在论综合开拓期** 直面新工党[[What Works Movement|循证政策运动]]与[[Systematic Review|系统综述]]潮流，解构[[Meta-analysis|元分析]]将复杂社会研究扁平化的数据清洗机制。
 >   - **代表著作** *Evidence-based Policy: A Realist Perspective* (2006)。[[Argument_Wrigley_2019_ERE|(Wrigley & McCusker, 2019, p. 125)]]
 >   - **关键概念／方法** 实在论综合（Realist Synthesis）、元分析净化过程（The Purgative Process）、开放系统。
->   - **阶段转向** 从单个项目的实地评估，扩展至跨研究、跨情境的理论驱动型证据综合与中层理论构建。
+>   - **阶段转向** 从单个项目的实地评估，扩展至跨研究、跨情境的理论驱动型[[Research Synthesis|证据综合]]与中层理论构建。
 > - **2010年代及以后 — 复杂系统评估宣言与跨学科扩展期** 将实在论评估提升为应对政策复杂性、制度[[Heterogeneity|异质性]]与多元行动者博弈的通用社会科学哲学。
 >   - **代表著作** *The Science of Evaluation: A Realist Manifesto* (2013)。
 >   - **关键概念／方法** [[Complexity Theory|复杂适应系统]]、制度情境敏感性、时空尺度感知偏差。

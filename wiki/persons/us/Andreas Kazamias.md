@@ -7,7 +7,7 @@ summary: "希腊裔比较教育学者，倡导历史和人文主义视角与普�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 55
+person_related_count: 56
 person_related_level: 5
 person_related_stars: "💎⭐⭐"
 person_related_color: "#ffedd5"
@@ -61,6 +61,7 @@ related_persons:
   - "[[Robert Ulich]]"
   - "[[Isaac Kandel]]"
   - "[[Crane Brinton]]"
+  - "[[Roy Nash]]"
   - "[[Michael Sadler]]"
   - "[[Brian Holmes]]"
   - "[[George Bereday]]"
@@ -84,7 +85,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Andreas Kazamias
@@ -111,7 +112,7 @@ updated: 2026-10-16
 > - **1950年代** 赴美留学，在哈佛大学师从著名德裔教育哲学家与文化史学家[[Robert Ulich\|罗伯特·乌利希]]（Robert Ulich），接受深厚的[[Paideia|古典教化]]（[[Paideia]]）与思想史学术熏陶并获博士学位。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 52)]]
 > - **1961** 发表《比较教育方法论中的新旧进路》（*Some Old and New Approaches to Methodology in Comparative Education*），作为战后新一代学者代表，率先反思[[Isaac Kandel\|艾萨克·坎德尔]]（Isaac Kandel）的[[Whiggism\|辉格史观]]与[[National Character\|国民性格]]概念。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, pp. 54–55)]]
 > - **1963** 发表《历史、科学与比较教育》（*History, Science and Comparative Education*），援引[[Crane Brinton\|克莱恩·布林顿]]（Crane Brinton）比较史学理论，论证非普适[[Working Hypothesis|探索性假说]]在历史探究中的科学性，正面回击实证派将历史排斥于科学之外的浪潮。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 56)]]
-> - **1965** 与哈佛同门保罗·纳什（Paul Nash）、亨利·珀金森（Henry Perkinson）联合主编出版文集《受过教育的人》（*The Educated Man*），向导师乌利希致敬。
+> - **1965** 与哈佛同门保罗·[[Roy Nash|纳什]]（Paul Nash）、亨利·珀金森（Henry Perkinson）联合主编出版文集《受过教育的人》（*The Educated Man*），向导师乌利希致敬。
 > - **1960年代–1970年代** 长期任教于威斯康星大学[[James Madison|麦迪逊]]分校，任比较教育学与教育政策教授，坚决捍卫[[Historical-Comparative Method\|历史比较法]]，抵制[[Positivism\|实证主义]]技术官僚化。
 > - **2001** 获选为[[Comparative Education Society in Europe\|欧洲比较教育学会]]（CESE）荣誉会员，表彰其在跨大西洋与跨欧洲比较教育学术共同体建设中的持久贡献。
 > - **2009** 与[[Robert Cowen\|罗伯特·考恩]]共同主编《比较教育学国际手册》（*International Handbook of Comparative Education*），主持并撰写学科创建与再造板块的多篇关键篇章，系统确立未来重塑过去的比较史学[[Epistemology\|认识论]]。[[Argument_Cowen_2009_HistoryCreation\|(Cowen, 2009a, pp. 7–10)]]
@@ -205,7 +206,7 @@ updated: 2026-10-16
 
 > [!person-network] 关系网络
 > - **学术导师** [[Robert Ulich\|罗伯特·乌利希]] — 哈佛大学博士导师，奠定其[[Paideia|古典教化]]与文化通史研究根基。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 52)]]
-> - **同门学友** 保罗·纳什（Paul Nash）、亨利·珀金森（Henry Perkinson）、[[George Bereday\|乔治·贝雷迪]] — 共同构成乌利希哈佛弟子学术网络。
+> - **同门学友** 保罗·[[Roy Nash|纳什]]（Paul Nash）、亨利·珀金森（Henry Perkinson）、[[George Bereday\|乔治·贝雷迪]] — 共同构成乌利希哈佛弟子学术网络。
 > - **合作者** [[Robert Cowen\|罗伯特·考恩]] — 共同主编《比较教育学国际手册》（2009），展开长期跨大西洋与跨欧洲的学术合作与比较史学对话。
 > - **同行与对话者** [[Eleftherios Klerides\|埃莱夫塞里奥斯·克莱里德斯]]（Eleftherios Klerides） — 希腊裔比较教育同行，深化对 [[Comparative Education Society in Europe\|CESE]] 历史与希腊学派的梳理。
 > - **论辩对象** [[Harold Noah\|哈罗德·诺亚]]、[[Max Eckstein\|马克斯·埃克斯坦]]、[[Brian Holmes\|布赖恩·霍姆斯]]（Brian Holmes） — 围绕科学实证与人文历史传统展开长达数十年的方法论论战。

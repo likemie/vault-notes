@@ -37,6 +37,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Publication Bias]]"
   - "[[Policy Network]]"
+  - "[[Learning Styles]]"
   - "[[Academic Achievement]]"
   - "[[Student Attitude]]"
   - "[[Whole Language]]"
@@ -63,6 +64,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
   - "[[Quantitative Research]]"
+  - "[[Research Synthesis]]"
   - "[[Random-Effects Model]]"
   - "[[Cohort Study]]"
   - "[[Randomised Controlled Trials]]"
@@ -72,9 +74,11 @@ related_methods:
   - "[[Systematic Review]]"
 related_instruments: []
 related_persons:
+  - "[[Ivan Snook]]"
   - "[[John Hattie]]"
   - "[[John Dewey]]"
   - "[[Jacob S. Hacker]]"
+  - "[[Roy Nash]]"
 related_facts:
   - "[[The Scott Report]]"
   - "[[Picking Up the Pace]]"
@@ -92,7 +96,7 @@ title: "Argument_Snook_2009_NZJES"
 argument_key: "Argument_Snook_2009_NZJES"
 argument_display_title: "Invisible Learnings? A Commentary on John Hattie's book: Visible Learning: A synthesis of over 800 meta-analyses relating to achievement"
 argument_kind: "journal-article"
-argument_related_count: 50
+argument_related_count: 54
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -105,7 +109,7 @@ journal: "New Zealand Journal of Educational Studies"
 ## 研究问题
 
 > [!question]
-> 审查[[John Hattie|约翰·哈蒂]]（John Hattie）在其代表作《[[Visible Learning|可见的学习]]》（*Visible Learning*）中所运用的二阶[[Meta-analysis|元分析]]（Meta-analysis）综合方法、统计指标解释及其在教育政策中的推论是否合理。核心考察：这种不审查原始研究质量、排除校外家庭与社会背景、机械依赖 0.40 [[Effect Size|效应量]]分界线的做法是否可靠？其排出的效应量高低能否直接作为国家教育经费分配与教师课堂教学的行动指南？
+> 由[[Ivan Snook|伊万·斯努克]]（Ivan Snook）等新西兰学者审查[[John Hattie|约翰·哈蒂]]（John Hattie）在其代表作《[[Visible Learning|可见的学习]]》（*Visible Learning*）中所运用的二阶[[Meta-analysis|元分析]]（Meta-analysis）综合方法、统计指标解释及其在教育政策中的推论是否合理。核心考察：这种不审查原始研究质量、排除校外家庭与社会背景、机械依赖 0.40 [[Effect Size|效应量]]分界线的做法是否可靠？其排出的效应量高低能否直接作为国家教育经费分配与教师课堂教学的行动指南？
 
 > [!claim] 核心主张
 > 哈蒂的《可见的学习》汇总了大量文献，但其二阶综合在方法上不加甄别地纳入劣质研究，陷入粗糙输入导致荒谬输出的方法困境；固守 0.40 门槛和单一平均数抹杀了真实课堂教学中多重因素结合起效的复杂性；更严重的是，该书排除了能够解释绝大部分学业差异的家庭背景与社会阶层因素，极易被政策制定者断章取义，沦为削减公共教育开支、盲目扩大[[Class Size|班级规模]]和推行[[Performance Pay|绩效工资]]的借口。（pp. 93–95, 100–104）
@@ -123,7 +127,7 @@ journal: "New Zealand Journal of Educational Studies"
 > | 理论工具 | 解释功能 |
 > |---|---|
 > | **实用主义认识论**<br>[[Pragmatic Paradigm]] | 引入[[John Dewey\|约翰·杜威（John Dewey）]]的知识观：研究证据并不提供一成不变的行动规则，而只是为明智地[[Problem Solving\|解决问题]]提供探究假设，反对将统计指标直接变成束缚教师的技术教条。（pp. 93, 104） |
-> | **学校效能研究与方差分解模型**<br>[[School Effectiveness]] | 结合 Gray, Jesson and Jones (1986)、理查德·[[Jacob S. Hacker\|哈克]]（Richard Harker, 1995）以及罗伊·纳什（Roy Nash, 2004）的实证数据，确立 70% 至 80% 的学生成绩差异取决于家庭阶层与生源背景，指出抽离社会背景必然导致归因偏差。（pp. 98–99） |
+> | **学校效能研究与方差分解模型**<br>[[School Effectiveness]] | 结合 Gray, Jesson and Jones (1986)、理查德·[[Jacob S. Hacker\|哈克]]（Richard Harker, 1995）以及[[Roy Nash\|罗伊·纳什（Roy Nash, 2004）]]的实证数据，确立 70% 至 80% 的学生成绩差异取决于家庭阶层与生源背景，指出抽离社会背景必然导致归因偏差。（pp. 98–99） |
 > | **生态学谬误与聚合偏差理论**<br>[[Ecological Fallacy]] | 揭示将宏观群体层面的汇总平均数直接生搬硬套到个体学生或特定课堂时所必然产生的推论错误，阐明单一平均数如何抹平学段、学科和学生群体的具体差异。（pp. 96–97） |
 
 > [!warrant]- 理论如何支撑论证
@@ -176,8 +180,8 @@ journal: "New Zealand Journal of Educational Studies"
 
 #### 1. 哈蒂承认多项研究限制却在具体分析中自相矛盾
 
-> [!def] 严格研究综合的规范定义与质控要求
-> 依据国际循证[[Policy Network|政策网络]]（Evidence Informed Policy Network）的标准界定，研究综合绝非简单汇总，而是对政策决策相关最佳证据的系统化、透明化总结；它必须包含明确的协议规程、系统且显式的方法、严密的数据采集与研究质量评估。（pp. 94–95）
+> [!def] 严格[[Research Synthesis|研究综合]]的规范定义与质控要求
+> 依据国际循证[[Policy Network|政策网络]]（Evidence Informed Policy Network）的标准界定，[[Research Synthesis|研究综合]]（Research Synthesis）绝非简单汇总，而是对政策决策相关最佳证据的系统化、透明化总结；它必须包含明确的协议规程、系统且显式的方法、严密的数据采集与研究质量评估。（pp. 94–95）
 
 然而，哈蒂在专著中声称不评价原始研究优劣，但正文在不同主题上的处理方式却存在显著的自相矛盾。（pp. 94–95）
 
@@ -185,7 +189,7 @@ journal: "New Zealand Journal of Educational Studies"
 > | 研究限制维度 | 哈蒂在书中的免责声明 | 实际文本处理中的矛盾之处 | 实质影响与后果 |
 > |---|---|---|---|
 > | **社会背景与家庭条件** | 声称家庭阶层、贫困状况与健康营养等议题不在本书讨论轨道内。（pp. x–xi） | 承认这些校外[[Variable\|变量]]可能比书中讨论的许多问题更重要，但在政策建议中完全不再提及。（p. 95） | 导致政策建议脱离现实社会基础，片面要求学校承担超出自身能力的全部责任。（pp. 95, 98） |
-> | **原始研究的设计质量** | 声称本书不审查原始研究的优劣，未根据研究设计类型设置调节变量。（p. ix） | 讨论特许学校时指出排除低质量研究后差异变为零（p. 66）；讨论学习风格时又因商业动机断然否定 0.41 的数值（pp. 195–197）。 | 表明效应量高低根本无法脱离研究质量单独讨论；哈蒂在实践中选择性介入，标准并不统一。（p. 95） |
+> | **原始研究的设计质量** | 声称本书不审查原始研究的优劣，未根据研究设计类型设置调节变量。（p. ix） | 讨论特许学校时指出排除低质量研究后差异变为零（p. 66）；讨论[[Learning Styles\|学习风格]]时又因商业动机断然否定 0.41 的数值（pp. 195–197）。 | 表明效应量高低根本无法脱离研究质量单独讨论；哈蒂在实践中选择性介入，标准并不统一。（p. 95） |
 > | **教育产出的考察维度** | 承认本书聚焦于学生[[Academic Achievement\|学业成绩]]，这是本综述的一大局限。（p. 6） | 将成绩严格限定在可量化的标准化笔试分数上；因道德教育关注道德判断而非测验分数就将其排除在数据表外（p. 149）。 | 承认所得结论大多局限于表层与深层知识记忆，缺少对高阶概念理解的衡量（p. 249），也忽略了[[Student Attitude\|学习态度]]和品格发展。（pp. 95–96） |
 > | **实验干预与常规课堂** | 承认大部分显著效应来自创新实验，其效果不能直接等同于常规课堂中的普通教师。（p. 6） | 在提出政策建议时，却直接把特殊实验环境下取得的增益套用到普通公立学校的日常教学中。（p. 96） | 忽略了许多实验干预有人为维持的优厚条件（如 [[Picking Up the Pace\|PACE 项目]]在实验期间严格压低[[Class Size\|班额]]），普通教师难以照搬。（pp. 96, 102） |
 > | **相关关系与因果推论** | 承认效应量这个词暗示了因果联系，但这种因果主张在统计上往往无法成立。（p. 237） | 在指导教学实践时，频繁把统计上存在显著相关直接转译为教师应该这样教（例如对反馈概念的操作）。（pp. 3–4） | 混淆了统计相关与教育因果机制，把描述性的文献平均值误当成了指导教师操作的技术指令。（pp. 96, 104） |
@@ -389,7 +393,7 @@ journal: "New Zealand Journal of Educational Studies"
 >
 > *“Evidence does not supply us with rules for action but only with [[Hypothesis|hypotheses]] for intelligent problem solving, and for making inquiries about our ends in education.” (John Dewey, quoted in Hattie, 2008, p. 147; quoted p. 93, p. 104)*
 
-> [!citation-card] 罗伊·纳什论[[Quantitative Research|量化研究]]被用作宣传工具的危险性
+> [!citation-card] [[Roy Nash|罗伊·纳什]]论[[Quantitative Research|量化研究]]被用作宣传工具的危险性
 > 将量化研究用于宣传目的是极其危险的。在教育社会学界中，恐怕十个人中没有一个人具备从统计方法自身逻辑出发对其展开严密批判的专业能力；而在中小学教师群体中，具备这一装备的人数比例显然更不会高到哪里去。这种专业知识的不对称，使得量化排名极易沦为推行争议政策的宰制工具。（p. 104）
 >
 > *“There is something quite dangerous about the use of quantitative research for propaganda purposes. It is likely that not one sociologist of education in ten is competent to critique statistical methods in their own terms, and it is unlikely that the proportion of teachers so equipped is any greater.” (Roy Nash, 2004, p. 49, quoted p. 104)*

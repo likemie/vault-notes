@@ -10,7 +10,7 @@ aliases:
 summary: "衡量学生在特定学习阶段、特定学科或特定学术任务中知识、技能与高阶思维掌握程度的多维结果指标。在教育心理学中通常通过课程加权总评成绩（Official Academic Achievement, OAA）、预估总评成绩（Estimated Overall Academic Achievement, EOAA）、标准化测试及良构与劣构任务表现进行操作化测度。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 162
+related_count: 164
 related_level: 16
 related_stars: "💎💎💎💎💎⭐"
 related_color: "#ddd6fe"
@@ -112,6 +112,7 @@ related_theories:
   - "[[Epistemic and Ontological Cognition]]"
 related_methods:
   - "[[Effect Size]]"
+  - "[[Research Synthesis]]"
   - "[[Meta-analysis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Trim and Fill Method]]"
@@ -143,6 +144,7 @@ related_persons:
   - "[[Stephen Gorard]]"
   - "[[Herbert Altrichter]]"
   - "[[Helmut Fend]]"
+  - "[[Ivan Snook]]"
   - "[[John Hattie]]"
   - "[[José Luis García Garrido]]"
 related_facts:
@@ -241,7 +243,7 @@ updated: 2026-10-17
 >    - **研究者或[[Developer-Made Measures|开发者自编测验]]（developer-developed tests）** 紧密贴合特定干预内容，但易引发[[Effect Size|效应量]]虚假膨胀（Cheung & Slavin, 2016; [[What Works Clearinghouse|有效干预清算中心]]（What Works [[Educational Evidence Clearinghouses|Clearinghouse]], WWC）, 2017）。
 >    - **商业化独立学科测验（standardised commercial tests）** 具备通用性与客观性，但在特定学段易出现[[Reliability|信度]]不足或地板与[[Floor and Ceiling Effects|天花板效应]]（Allen et al., 2018; Hodgen et al., 2019）。
 >    - **国家高利害统一[[Achievement and Aptitude Tests|成就测验]]（national high-stakes examinations）** 与大规模课程标准高度对齐、具备强[[External Validity|外部效度]]与政策利害性的权威终结性学业指标。
->    - **[[PICO Framework|PICO]] 纳排关卡与学业结果界定合规（PICO-Compliant Outcome Definition）** 在二阶证据综合中，学业成就结果必须被严格界定为干预后的学生学业指标（如学科成绩、考试分）。卡尔门达尔（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）审计揭示，在《[[Visible Learning|可见的学习]]》等宏观证据库中，多达 81% 的影响因素因混合了非学业[[Variable|变量]]（如态度、满意度、教师感知）、非对比设计或缺乏干预对照，导致“学业成就”标签发生严重概念错位与泛化污染。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, p. 14)]]
+>    - **[[PICO Framework|PICO]] 纳排关卡与学业结果界定合规（PICO-Compliant Outcome Definition）** 在二阶[[Research Synthesis|证据综合]]中，学业成就结果必须被严格界定为干预后的学生学业指标（如学科成绩、考试分）。卡尔门达尔（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）审计揭示，在《[[Visible Learning|可见的学习]]》等宏观证据库中，多达 81% 的影响因素因混合了非学业[[Variable|变量]]（如态度、满意度、教师感知）、非对比设计或缺乏干预对照，导致“学业成就”标签发生严重概念错位与泛化污染。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, p. 14)]]
 > 
 > 5. **课程标准等级与[[Learning Progression|学业进阶]]层级（[[Learning Progression]] and Curriculum Levels）**
 >    - **国家课程等级锚定（national curriculum levels）** 将学业成就分解为连续跨等级的发展阶段（如 [[Assessment Tools for Teaching and Learning|asTTle]] 等级 2 至 6），超越孤立原始分数的单一横截面排名，呈现具体认知能力与进阶目标（[[Argument_Hattie_2005_ACER|Hattie, 2005]]）。
@@ -393,7 +395,7 @@ updated: 2026-10-17
 > **二阶综合中成就效应量的虚假膨胀与可复现性崩溃** 卡尔门达尔（Kalmendal）等学者对支持上述方差排序的《[[Visible Learning|可见的学习]]》全库 322 个影响因素开展[[Preregistration|预注册]][[Metascience|元科学]]质量审计发现：宏观二阶元分析中所报告的各项教学法对学业成就的巨大提升效应（如常规宣称的 $d > 0.40$），在底层数据核查下发生系统性崩溃。审计表明：仅 19% 满足[[Research Question|研究问题]]纳入基准，27% 混杂了不可[[Commensuration|通约]]的组内与组间设计；检验的 301 个影响因素中仅 2 项可完全复现数据提取，且 44% 报告的成就效应量在被引原文中完全不存在。这表明宏观二阶元分析若缺乏严格的元科学质控，其所呈现的“学业成就提升清单”会充斥着由提取失真与设计混杂所人为制造的虚假积极效应。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 1, 14–19)]]
 
 > [!claim] [[Argument_Snook_2009_NZJES|Snook et al. (2009, pp. 98–99)]]; [[Argument_Hattie_2010_NZJES|Hattie (2010, pp. 89–90)]]
-> **方差分解的社会结构批判与归因偏航反思** 约翰·斯努克（Ivan Snook）等学者结合英国与新西兰的方差分解实证，系统质疑了将教师断定为“学业成就最大影响因素”的论断：
+> **方差分解的社会结构批判与归因偏航反思** 约翰·[[Ivan Snook|斯努克]]（Ivan Snook）等学者结合英国与新西兰的方差分解实证，系统质疑了将教师断定为“学业成就最大影响因素”的论断：
 > 1. **生源背景的主导性方差解释** 约翰·格雷（John Gray）等人在英国针对多所中学和地方教育当局（Local Education Authorities, LEAs）的大规模调查证实，约 **80%** 的校际统考成绩差异完全由学生的生源背景（先验学业基础与社会家庭背景）决定；在剩余 20% 中，有一半由学校的考试分流政策解释，留给校内包括教师在内的其他因素解释的方差份额仅剩约 **10%**（Gray et al., 1986, p. 98）。
 > 2. **新西兰生源结构效应的实证再现** 理查德·哈克（Richard Harker, 1995, 1996）在新西兰全国纵向[[Cohort Study|追踪研究]]中控制家庭阶层背景后发现，校际成绩差异中有 **70% 至 80%** 归因于生源构成（student mix）；学校自身的增值贡献仅占 **20% 至 30%**。
 > 3. **抽离社会背景的技术主义归因陷阱** 斯努克等指出，过度夸大教师个人效能（宣称占 30% 且是最大决定力量）严重背离了学校效能研究的基本共识；将宏观社会经济不平等导致的学业差距转嫁为单体学校或个别教师的专业过失，不仅在学术上犯了脱离社会情境的归因偏航，更在政策上为政府削减公立教育资源、推卸均等化职责提供了[[Social Science as Legitimation Alibi|合法化借口]]。
@@ -479,7 +481,7 @@ updated: 2026-10-17
 > - **2005 年：多层方差分解、资源脱节悖论与[[Learning Progression\|学业进阶]]评价** [[Argument_Hattie_2005_ACER\|Hattie (2005)]] 确立了学业成就的六大方差源分解（教师占 30% 可控核心），援引 Hanushek (2005) 40 年数据揭示资源注资与 [[National Assessment of Educational Progress|NAEP]] 成绩的脱节悖论，并依托 [[Assessment Tools for Teaching and Learning\|asTTle]] 系统推动学业成就从横截面统考向多层级[[Learning Progression\|学业进阶]]与形成性反馈的评价转向。
 > - **2009 年：新自由主义国家审计与学业成就标准的经济归约** [[Robert Arnove|阿诺夫]]（[[Argument_Arnove_2009_WorldSystems|Arnove, 2009, pp. 107, 113]]）从[[World-Systems Theory|世界体系分析]]与批判政治经济学视角，揭示自上而下的新自由主义改革如何将统一学业成就标准与标准化测验作为国家审计化治理工具，促成国家角色向远程评估者退缩并将学业指标窄化为经济竞争工具。
 > - **2009 年：学制均质化对宏观成就分布的扭曲与双重[[Deficit Model of Science Communication|赤字模型]]** [[José Luis García Garrido|何塞·路易斯·加西亚·加里多]]（[[Argument_Garcia_Garrido_2009_SpainEU|García Garrido, 2009]]）结合西班牙宏观评估数据，揭示不分流均质综合学制若脱离差异化支持，会同时推高义务教育结业阶段的学业失败率（33%）并极度压低卓越生比例（<4%），确立了学业成就分布受制于中等学制分流架构的宏观比较分析框架。
-> - **2009 年：学业成就量化窄化反思与方差归因重估** 约翰·斯努克等学者（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）系统批判将学业成就单一锚定在“可测量测试分数”上的技术主义窄化倾向，揭示其对道德判断、[[Creativity|创造力]]与概念性知识的系统排除；并结合英美与新西兰的方差分解数据（Gray et al., 1986; Harker, 1995）重估学校内部因素的解释上限（10%–30%），批判个人主义归因对社会结构性不平等的掩蔽。
+> - **2009 年：学业成就量化窄化反思与方差归因重估** 约翰·[[Ivan Snook|斯努克]]等学者（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）系统批判将学业成就单一锚定在“可测量测试分数”上的技术主义窄化倾向，揭示其对道德判断、[[Creativity|创造力]]与概念性知识的系统排除；并结合英美与新西兰的方差分解数据（Gray et al., 1986; Harker, 1995）重估学校内部因素的解释上限（10%–30%），批判个人主义归因对社会结构性不平等的掩蔽。
 > - **2010 年：校内可控范围限定与公共辩护** [[John Hattie|约翰·哈蒂]]（[[Argument_Hattie_2010_NZJES|Hattie, 2010]]）回应批评，承认家庭与社会经济因素对学业成就具有根本性影响，但辩护其将[[Analytic Framework|分析框架]]聚焦于“教育者能够掌控的校内可控杠杆”的方法论取向，揭示了学业成就评价在微观专业改进与宏观社会批判之间的张力。
 > - **2018 年：全球数据治理与学业成就的政治化再造** [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] 突破微观心理测量视角，揭示在以 [[PISA]] 为代表的跨国评估中，宏观学业成就指标因指标交错与去脉络化而具备极高可塑性，客观平稳的成绩在国家政治[[Champ\|场域]]中易被剪裁为“停滞衰退”的危机修辞以推行新自由主义政策。
 > - **2019 年：独立测验质控刚性化与分层循证消除学业差距** [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] 在《教育心理学家》发表里程碑论文，确立独立标准化测验为衡量真实学业成就的法定质控标尺（坚决剔除自编测验），并系统阐述以经过验证的教学方案与助教分层辅导消除薄弱学校学业差距的因果机制。

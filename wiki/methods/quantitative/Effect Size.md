@@ -6,7 +6,7 @@ summary: "比较不同干预或变量影响强度的标准化统计指标，被�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 93
+method_related_count: 95
 method_related_level: 9
 method_related_stars: "💎💎💎"
 method_related_color: "#dcfce7"
@@ -73,6 +73,7 @@ related_methods:
   - "[[Meta-regression]]"
   - "[[Systematic Review]]"
   - "[[Experimental Research]]"
+  - "[[Research Synthesis]]"
   - "[[Correlational Research]]"
   - "[[Repeated Measures Design]]"
 related_persons:
@@ -81,6 +82,7 @@ related_persons:
   - "[[Lars Qvortrup]]"
   - "[[Adrian Simpson]]"
   - "[[Jacob Cohen]]"
+  - "[[Ivan Snook]]"
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[Australian Council for Educational Research]]"
@@ -160,7 +162,7 @@ updated: 2026-10-17
 > - **1980** — Cooper and Rosenthal 的实证检验表明，[[Meta-analysis\|元分析]]比传统叙事综述更不容易低估证据([[Argument_Higgins_2016_ROE\|Higgins, 2016, p.32]])。
 > - **1988** — Cohen 出版 Statistical Power Analysis 第 2 版，以身高类比等直观方式解释效应量的实质含义([[Argument_Terhart_2011_JCS\|Terhart, 2011, p.427]])。
 > - **2005** — [[John Hattie\|约翰·哈蒂]]（[[John Hattie]]）在 [[Australian Council for Educational Research\|ACER]] 会议报告中基于 100 余项元分析与 50 余万个效应量确立 $d = 0.40$ 为教学干预的“关节点（[[Zone of Desired Effects|Hinge Point]]）”，提出批判教育界将门槛定得过低的“零门槛谬误”，并依托[[Assessment Tools for Teaching and Learning\|教学与学习评估工具]]（[[Assessment Tools for Teaching and Learning\|asTTle]]）推动效应量在中小学校本评价与教师教学改进中的本土化应用（[[Argument_Hattie_2005_ACER\|Hattie, 2005, pp. 15–17]]）。
-> - **2009** — [[John Hattie]] 出版《[[Visible Learning\|可见的学习]]》，综合 800 多项元分析和 50,000 多项研究，以效应量排名各类教育干预，使效应量概念进入全球教育政策和实践[[Discourse|话语]]；同年，斯努克等学者（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）发表批判性论文，援引低剂量阿司匹林试验（$d=0.07$ 每千人拯救 34 条生命）论证 $d=0.40$ 截断值的武断性，并指出单一平均效应量掩盖了微观亚组[[Heterogeneity|异质性]]（[[Homework|家庭作业]]小学 0.15 vs 高中 0.64）与非线性门槛突破（STAR 试验小班 $d=0.62–0.66$）。
+> - **2009** — [[John Hattie]] 出版《[[Visible Learning\|可见的学习]]》，综合 800 多项元分析和 50,000 多项研究，以效应量排名各类教育干预，使效应量概念进入全球教育政策和实践[[Discourse|话语]]；同年，[[Ivan Snook|斯努克]]等学者（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）发表批判性论文，援引低剂量阿司匹林试验（$d=0.07$ 每千人拯救 34 条生命）论证 $d=0.40$ 截断值的武断性，并指出单一平均效应量掩盖了微观亚组[[Heterogeneity|异质性]]（[[Homework|家庭作业]]小学 0.15 vs 高中 0.64）与非线性门槛突破（STAR 试验小班 $d=0.62–0.66$）。
 > - **2014** — [[EEF Teaching and Learning Toolkit]] 以[[Effect Size Conversion\|效应量转换]]为"额外学习月数"的格式传播教育干预证据。
 > - **2017 至 2018** — Simpson 发表系统批判，论证效应量测量的是试验灵敏度而非干预有效性（[[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017]], 2018）。
 > - **2019** — Simpson 用"教一个匈牙利单词"思想实验展示同一干预可因测试设计产生 0 到无穷大的效应量；Wrigley & McCusker 通过 [[Education Endowment Foundation\|EEF]] Toolkit 体育参与案例展示[[Meta-meta-analysis\|元-元分析]]层面的三级失真；Wiliam 提出 11 点元分析评估清单([[Argument_Simpson_2019_ERE\|Simpson, 2019]]; [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019]]; [[Argument_Wiliam_2019_ERE\|Wiliam, 2019]])。同时，俄罗斯学者戈洛夫钦（[[Argument_Golovchin_2019_ESC\|Golovchin, 2019]]）首次采用变差系数检验《可见的学习》所用 133 项效应量数据集，发现总体离散度击穿统计同质性阈值（$V_\sigma = 56.87\% > 33\%$），实证揭示了未经同质性控制的效应量聚合使 $d=0.40$ 关节点失去数理基准效力。
@@ -255,7 +257,7 @@ updated: 2026-10-17
 > - **推论** 效应量数据在未经同质性控制与严格质量筛选前被强行平均化，导致 \(d=0.40\) 标尺缺乏稳健的数理基础，无法作为普适性教育政策干预的绝对判准。[[Argument_Golovchin_2019_ESC\|(Golovchin, 2019, pp. 238–239)]]
 
 > [!critique-theory] 效应量截断值的武断性与[[Public Value|公共价值]]脱节
-> 针对哈蒂设立 $d = 0.40$ 作为界定干预“相对有效性”或“期望效应区”的做法，斯努克等学者（[[Argument_Snook_2009_NZJES|Snook et al., 2009, pp. 94–95, 99]]）从流行病学和方法学角度提出了经典反驳：
+> 针对哈蒂设立 $d = 0.40$ 作为界定干预“相对有效性”或“期望效应区”的做法，[[Ivan Snook|斯努克]]等学者（[[Argument_Snook_2009_NZJES|Snook et al., 2009, pp. 94–95, 99]]）从流行病学和方法学角度提出了经典反驳：
 > - **医学阿司匹林反例与小效应量的巨大公共价值** 在全美预防心肌梗死的[[Clinical Trial|临床试验]]中，低剂量阿司匹林的效应量仅为微弱的 $d = 0.07$；然而换算为公共健康收益，该微弱效应量每年在每 1,000 人中净挽救 34 条生命。如果按照教育学中 $d < 0.40$ 即属于“常规发展效应或低效干预”的逻辑，这项极具价值的医学干预将被彻底废弃。在涉及数百万学生的公共教育系统中，微小的效应量在大样本和长期累积中同样具有重大的公共价值，机械设立单一截断点脱离了干预成本、收益累积性与公平维度的审慎权衡。
 > - **[[Meta-meta-analysis|二阶元分析]]缺乏底层质控对效应量的扭曲** 斯努克等人进一步引用元分析奠基人 Smith and Glass (1980) 的质控准则指出，二阶综合如果未对纳入的一阶元分析进行方法学质量评估，将不可避免地导致“垃圾进、垃圾出（Garbage in, garbage out）”。将大量来自低质量研究、存在[[Publication Bias|发表偏倚]]或测量工具失真的原始效应量强行平均化，不仅无法提炼出客观的因果真理，反而赋予了失真数字以虚假的科学权威。
 
@@ -407,7 +409,7 @@ updated: 2026-10-17
 > Cheung and Slavin（2016）在 645 项研究的综合元分析中发现非实验设计平均效应量 +0.23 vs 实验设计 +0.16；Wilson, Gottfredson and Najaka（2001）发现非[[Experimental Research\|实验研究]]效应量高 0.17 个标准差。但 Cook（2002）、de Boer et al.（2014）、Gersten et al.（2009）、Wilson and Lipsey（2001）均未发现实验与非实验设计间效应量的显著差异（[[Argument_Wolf_2020_JREE\|Wolf et al., 2020, pp. 431–432]]）。
 
 > [!claim] Morris and DeShon (2002); [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]]
-> **跨研究设计效应量的[[Incommensurability|不可通约性]]与总体参数异质** 莫里斯与德肖恩（Morris & DeShon, 2002）在统计学上严格论证：独立组间设计（Between-Subjects）与重复测量组内设计（Within-Subjects，如前[[Pre-test and Post-test|后测]]）计算出的标准差涵义根本不同，两者估计的是不同的总体参数。如果未通过被试内相关系数（$\rho$）转换而直接合并，会造成系统性失真。卡尔门达尔（Kalmendal）等学者在全量[[Metascience|元科学]]审计中进一步揭示，在《[[Visible Learning|可见的学习]]》等宏观证据综合中，多达 27% 的影响因素直接违规混杂了独立组、重复测量与[[Correlational Research|相关设计]]（甚至多达 77% 的研究混淆或未报告设计类型）；且未区分积极对照组（Active Control，效应量通常较低）与空白对照组（No-Treatment Control，效应量通常翻倍），导致聚合出的通用效应量丧失了实质统计学解释力。[[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, p. 16)]]
+> **跨研究设计效应量的[[Incommensurability|不可通约性]]与总体参数异质** 莫里斯与德肖恩（Morris & DeShon, 2002）在统计学上严格论证：独立组间设计（Between-Subjects）与重复测量组内设计（Within-Subjects，如前[[Pre-test and Post-test|后测]]）计算出的标准差涵义根本不同，两者估计的是不同的总体参数。如果未通过被试内相关系数（$\rho$）转换而直接合并，会造成系统性失真。卡尔门达尔（Kalmendal）等学者在全量[[Metascience|元科学]]审计中进一步揭示，在《[[Visible Learning|可见的学习]]》等宏观[[Research Synthesis|证据综合]]中，多达 27% 的影响因素直接违规混杂了独立组、重复测量与[[Correlational Research|相关设计]]（甚至多达 77% 的研究混淆或未报告设计类型）；且未区分积极对照组（Active Control，效应量通常较低）与空白对照组（No-Treatment Control，效应量通常翻倍），导致聚合出的通用效应量丧失了实质统计学解释力。[[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, p. 16)]]
 
 ---
 
@@ -447,7 +449,7 @@ updated: 2026-10-17
 > 考察宏观平均效应量如何抹杀关键背景[[Variable|变量]]的微观[[Interaction Effect|调节效应]]，以及干预规模在跨越特定物理阈值时的非线性突破机制。
 
 > [!claim] [[Argument_Snook_2009_NZJES|Snook et al. (2009)]]
-> **亚组效应异质性与非线性临界突破** 斯努克等人指出，脱离亚组调节变量（Moderator Variables）解释单一平均效应量会导致严重的决策失误，主要体现在两个维度：
+> **亚组效应异质性与非线性临界突破** [[Ivan Snook|斯努克]]等人指出，脱离亚组调节变量（Moderator Variables）解释单一平均效应量会导致严重的决策失误，主要体现在两个维度：
 > 1. **均值掩盖微观异质性** 以家庭作业为例，元分析专著报告的总体效应量为 $d = 0.29$；然而一旦按学段细分，高中阶段效应量高达 $d = 0.64$（高价值实践），而小学阶段骤降至 $d = 0.15$（属于自然成长区，几无实质增益）；按学科细分数学为 $0.32$ 而科学为 $0.27$；按学业能力细分高能力组为 $0.37$ 而低能力组仅为 $0.21$。单一的总体平均效应量完全抹杀了实践情境的微观复杂性，对小学教师产生严重误导。
 > 2. **非线性门槛突破与系统交互** 以[[Class Size|班级规模]]为例，常规区间（如 28 人降至 24 人）的微调往往仅产出 $d = 0.10–0.20$ 的微弱线性效应量；但当班级规模在关键学段跨越特定物理临界阈值时，会产生非线性的显著突破——田纳西州 STAR [[Randomised Controlled Trials|随机对照试验]]证实，K–3 年级班额降至 13–17 人时，阅读与数学的因果效应量跃升至 $d = 0.62–0.66$；奥克兰 [[Picking Up the Pace|PACE 项目]]亦表明 15 人小班是维持 3 人微型群组 10–15 分钟高频深度互动的物理硬约束。若仅凭[[Meta-meta-analysis|二阶元分析]]报告的总体均值（$d = 0.21$）断言小班教学无效，不仅犯了抹杀非线性动态的统计学错误，更为技术官僚削减教育财政、推卸公立学校资源责任提供了错误的伪证据支持。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 97, 100–103)]]
 

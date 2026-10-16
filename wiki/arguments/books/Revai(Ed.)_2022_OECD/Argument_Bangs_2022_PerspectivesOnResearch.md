@@ -7,7 +7,7 @@ title: "Argument_Bangs_2022_PerspectivesOnResearch"
 argument_key: "Argument_Bangs_2022_PerspectivesOnResearch"
 argument_display_title: "Perspectives on education research (N. Révai, Ed.)"
 argument_kind: "book-chapter"
-argument_related_count: 82
+argument_related_count: 83
 argument_related_level: 8
 argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -96,6 +96,7 @@ related_concepts:
 related_methods:
   - "[[Action Research]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Research Synthesis]]"
   - "[[Effect Size]]"
   - "[[Scale Development]]"
   - "[[Questionnaire]]"
@@ -132,7 +133,7 @@ related_arguments:
   - "[[Argument_Wrigley_2018_BERJ]]"
 status: completed
 created: 2026-09-14
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # Argument_Bangs_2022_PerspectivesOnResearch
 
@@ -246,7 +247,7 @@ updated: 2026-10-16
 > [!stat-cards] 医疗 vs 教育科研投入与知识综合对比
 > - **1 : 5** 教育公共科研支出占公共研发总支出的比例仅约为生物医学研究的五分之一。（p. 203）
 > - **1.75 : 1** 全球公共研发支出总额中，医疗/教育的投入资金比率约为 1.75 倍。（p. 203）
-> - **26 : 1** 全球公开发表的高阶研究综合论文中，医疗/教育的产出数量比率高达惊人的 26 倍。（Education.org, 2021; p. 203）
+> - **26 : 1** 全球公开发表的高阶[[Research Synthesis|研究综合]]论文中，医疗/教育的产出数量比率高达惊人的 26 倍。（Education.org, 2021; p. 203）
 > - **0.13%** 全球排名前 100 种教育顶级期刊发表的论文中，仅有 0.13% 属于复现性研究，远低于心理学及其他社会科学分支。（Makel & Plucker, 2014; p. 204）
 
 针对教育科研无法实质性改善学生学业成果与宏观系统效率的现状，范达默将其归结为供给侧的三大深层病理根源：
@@ -489,7 +490,7 @@ updated: 2026-10-16
 ## 主要发现
 
 > [!finding-cards] 全章五大核心论证发现
-> 1. **教育科研供给侧质量赤字与学科依附是系统失效的深层瓶颈** 全球前 100 顶级教育期刊中复现研究仅占 0.13%，医疗与教育在研究综合论文产出上悬殊达 26:1；教育研究必须走出对外部学科与时髦价值体系的寄生借用，建立自主经验理论与严肃同行自律。（pp. 203–205）
+> 1. **教育科研供给侧质量赤字与学科依附是系统失效的深层瓶颈** 全球前 100 顶级教育期刊中复现研究仅占 0.13%，医疗与教育在[[Research Synthesis|研究综合]]论文产出上悬殊达 26:1；教育研究必须走出对外部学科与时髦价值体系的寄生借用，建立自主经验理论与严肃同行自律。（pp. 203–205）
 > 2. **SEER 体系确立了超越传统 [[Randomised Controlled Trials\|RCT]] 的新一代循证卓越标准** 强制实施干预构件拆解、真实成本核算（设专家服务台）、第三方通用工具测量（EdInstruments）、十万级用户数字平台快速试错以及面向教育公平的响应，彻底终结了混杂药丸袋式的黑箱评估。（pp. 206–209）
 > 3. **教师工会已成长为连接前沿研究与宏观政策倡导的战略中枢** [[Education International\|国际教育协会]]（EI）通过建立独立研究院、向 [[OECD]] 争取数据所有权、重塑 [[Teaching and Learning International Survey\|TALIS]] 工作压力与领导力量表，以及协同创设[[International Summits on the Teaching Profession\|国际教师职业峰会]]（ISTP），证明了有组织的专业教师集体是确保科研贴近教学现实的关键保障。（pp. 209–213）
 > 4. **长效[[Research-Practice Partnership\|研究-实践伙伴关系]]依托[[Third Space Discourse\|第三空间话语]]而非模糊专业边界** 瑞典 ULF 国家试点（25 所大学与 150 余市镇）证明，高成效合作绝非强行同化彼此，而是在承认研究者与教师不同专业特长的前提下，搭建平等的小型研讨[[Champ\|场域]]并赋予教师课题发起权。（pp. 216–220）

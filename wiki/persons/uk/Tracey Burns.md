@@ -7,7 +7,7 @@ summary: "加拿大裔英国籍经合组织资深分析师与教育知识治理�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 26
+person_related_count: 27
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -36,6 +36,7 @@ related_theories:
   - "[[Luhmann's Systems Theory]]"
 related_methods:
   - "[[Cohort Study]]"
+  - "[[Research Synthesis]]"
   - "[[Systematic Review]]"
   - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-13'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Tracey Burns
@@ -96,7 +97,7 @@ updated: 2026-10-16
 > Burns 的核心论旨在于：教育[[Knowledge Mediation\|知识中介]]不能止步于向学校与教师提供[[Abstract\|研究摘要]]与工具包，必须在政策、实践与公众媒介三个层面同时发力；中介机构的高夭折率本质上是政治与预算治理失灵的体现，而非学术绩效不足；唯有建立跨机构、跨国别的元中介协作网络（"中介的中介"），并保持对循证医学技术化异化的警惕，才能建构真正具有社会公信力的累积性教育知识基石。
 
 > [!citation-card] Burns & Schuller 论建构累积性知识基石的系统要求
-> 正如研究综合本身已经从关注单篇论文迈向二阶[[Systematic Review\|系统综述]]一样，中介的结构与流程同样需要在机构与系统之间协同运作，以支持累积性的努力。（p. 66）
+> 正如[[Research Synthesis|研究综合]]本身已经从关注单篇论文迈向二阶[[Systematic Review\|系统综述]]一样，中介的结构与流程同样需要在机构与系统之间协同运作，以支持累积性的努力。（p. 66）
 >
 > *"Just as research synthesis itself has moved beyond a focus on individual research papers to systematic reviews of reviews, so too do the structures and processes of brokerage need to work together across institutions and systems to support a cumulative effort."* [[Argument_Burns_Schuller_2022_BrokerageAgencies\|(Burns & Schuller, 2022, p. 66)]]
 

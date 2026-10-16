@@ -9,7 +9,7 @@ title: "Argument_Laursen_2015_Paideia"
 argument_key: "Argument_Laursen_2015_Paideia"
 argument_display_title: "Er Hattie og co"
 argument_kind: "journal-article"
-argument_related_count: 14
+argument_related_count: 15
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -33,7 +33,8 @@ related_concepts:
 related_theories:
   - "[[Hofstede's Cultural Dimensions]]"
   - "[[Societies of Control]]"
-related_methods: []
+related_methods:
+  - "[[Research Synthesis]]"
 related_persons:
   - "[[John Hattie]]"
   - "[[Hilbert Meyer]]"
@@ -46,7 +47,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-05'
-updated: 2026-10-16
+updated: 2026-10-17
 year: 2015
 doi: ""
 citation_aliases:
@@ -61,13 +62,13 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 理论框架
-> - [[Visible Learning]] — Hattie 的研究综合是文章比较的核心对象；Laursen 特别关注其以英语文献、尤其美国研究为主的证据基础是否可迁移至丹麦(p.34)。
+> - [[Visible Learning]] — Hattie 的[[Research Synthesis|研究综合]]是文章比较的核心对象；Laursen 特别关注其以英语文献、尤其美国研究为主的证据基础是否可迁移至丹麦(p.34)。
 > - [[Hofstede's Cultural Dimensions]] — 文章用 Hofstede 对丹麦文化的四维刻画提出跨文化差异假设：丹麦的个人主义、低权力距离、女性化和低不确定性规避似乎会让开放、对话和弱教师控制的教学更适合丹麦学生(pp.36–37)。
 
 ## 核心论证
 
 > [!example] 核心论证
-> Laursen 的论证分三步：先概括 Hattie、Meyer、Helmke 三个国际研究综合对[[Effective Teaching\|有效教学]]的共同结论；再用 Hofstede 理论提出丹麦文化可能改变"什么有效"的预期；最后比较丹麦 [[Science Foundation Ireland|SFI]] 报告和Mehlbye 高绩效学校研究等本土证据，判断国际综合与丹麦证据是否一致(pp.35–40)。
+> Laursen 的论证分三步：先概括 Hattie、Meyer、Helmke 三个国际[[Research Synthesis|研究综合]]对[[Effective Teaching\|有效教学]]的共同结论；再用 Hofstede 理论提出丹麦文化可能改变"什么有效"的预期；最后比较丹麦 [[Science Foundation Ireland|SFI]] 报告和Mehlbye 高绩效学校研究等本土证据，判断国际综合与丹麦证据是否一致(pp.35–40)。
 >
 > ### 国际综合的共同结论
 >
@@ -121,7 +122,7 @@ citation_aliases:
 
 > [!warning] 局限性与批评
 > - Laursen 承认自己没有展开方法论讨论，主要依赖 [[Science Foundation Ireland|SFI]] 报告，并说明学生学习主要以丹麦学校毕业考试成绩衡量，同时统计[[Societies of Control\|控制社会]]背景影响(p.37)。
-> - 国家文化假设被检验的证据基础有限：文章更多是比较既有研究综合与丹麦研究，而非直接进行跨国因果检验(pp.37–40)。
+> - 国家文化假设被检验的证据基础有限：文章更多是比较既有[[Research Synthesis|研究综合]]与丹麦研究，而非直接进行跨国因果检验(pp.37–40)。
 > - 文章认为频繁测试的丹麦结果可能源于丹麦测试使用低于最佳水平，而美国等英语国家可能高于最佳水平；这一解释是作者提出的可能性，而非直接经验结论(p.39)。
 
 ## 来源

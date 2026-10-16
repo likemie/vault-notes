@@ -7,7 +7,7 @@ title: "Argument_Besa_2024_UW"
 argument_key: "Argument_Besa_2024_UW"
 argument_display_title: "Evidenzfernes Lehrkräftehandeln – braucht die Bildungsforschung eine neue Wissenschaftskommunikation? Unterrichtswissenschaft, 52(2), 251–262"
 argument_kind: "journal-article"
-argument_related_count: 31
+argument_related_count: 32
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -48,6 +48,7 @@ related_concepts:
   - "[[Operationalization]]"
   - "[[Refutational Evidence]]"
   - "[[Falsification]]"
+  - "[[Learning Styles]]"
   - "[[Self-Efficacy]]"
   - "[[Evidence-Based Education]]"
   - "[[Paradigm]]"
@@ -69,7 +70,7 @@ related_facts:
   - "[[Forschungsmonitor Schule]]"
 confidence: high
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # Argument_Besa_2024_UW
 
@@ -160,7 +161,7 @@ updated: 2026-10-16
 在实证研究证据未能有效转化为实践知识的情况下，未经检验的经验假说极易演变为顽固的教育神经神话，其中以[[Learning Style Myth|学习风格神话]]（Lerntypenmythos）最具代表性。（p. 252）
 
 > [!evidence-grid] 学习风格神话的认知信念与传播扩散证据
-> - **信念先验性与认知顽固** 职前师范生在入学初期便高度信奉根据偏好感官通道划分的个体学习类型，且该信念完全独立于其对大脑神经生理学客观知识的掌握程度（Krammer et al., 2019）。
+> - **信念先验性与认知顽固** 职前师范生在入学初期便高度信奉根据偏好感官通道划分的个体[[Learning Styles|学习类型]]，且该信念完全独立于其对大脑神经生理学客观知识的掌握程度（Krammer et al., 2019）。
 > - **概念混淆与内在逻辑冲突** 通道匹配假设缺乏经验支持，在概念上混淆了主观感官偏好与客观认知加工能力，且与多感官协同教学原则存在内在冲突（Bauer & Asberger, 2022; Looß, 2001, p. 255）。
 > - **通俗科普与少儿媒体背书** Quarks（2022）等通俗科普节目与 GeoLino 等少儿读物持续将学习风格作为既定事实进行宣传，进一步固化了公众与教师的直觉信念。（p. 252）
 
@@ -245,7 +246,7 @@ updated: 2026-10-16
 
 > [!finding-cards] 核心发现
 > 1. **单向线性转移的系统性失效** 传统依托专业学术期刊向实践单向灌输实证知识的模式，因认知负荷过大、实践关联度低及[[Falsification\|证伪]]心理防御，无法有效穿透一线学校课堂。（pp. 251–254）
-> 2. **实践指南与通俗媒体中实证证据的缺失** 410 部流通教师指南中实证成果极度匮乏，未经检验的经验信念成为学习风格等神经神话持续流传的主要载体。（pp. 252, 255）
+> 2. **实践指南与通俗媒体中实证证据的缺失** 410 部流通教师指南中实证成果极度匮乏，未经检验的经验信念成为[[Learning Styles|学习风格]]等神经神话持续流传的主要载体。（pp. 252, 255）
 > 3. **通俗播客与概念转变设计的有效纠偏** 实验试验证实，采用日常通俗语言并结合概念转变策略的播客能够显著促进师范生修正对教育神话的错误信念。（p. 256）
 > 4. **教育研究共同体的角色与制度重构** 研究者应打破同行声誉顾虑，拓展非线性全媒体传播，并在制度层面确立研究合成与科学中介的独立学术价值。（p. 258）
 

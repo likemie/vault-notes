@@ -7,7 +7,7 @@ aliases:
 summary: "在教学组织与认知支架中强调清晰目标、系统规划、过程监控与师生/人机动态互动平衡的教学范式。既包含基础教育中教师领导与自主学习的有机协调，亦指智能技术整合中防范认知卸载并激活高阶心智的递归探究支架体系。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -54,6 +54,7 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Effect Size]]"
   - "[[Comparative Meta-synthesis]]"
+  - "[[Research Synthesis]]"
   - "[[Correlational Research]]"
 related_arguments:
   - "[[Argument_Håkansson_2015_TT]]"
@@ -67,7 +68,7 @@ related_facts:
 confidence: high
 status: active
 created: 2026-05-22
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Structured Teaching
@@ -246,7 +247,7 @@ updated: 2026-10-16
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Håkansson_2015_TT\|Håkansson (2015a)]] | 43 项教学与学习研究综述（16 项国际综述 + 27 项瑞典本土综述） | [[Comparative Meta-synthesis\|比较性元综合]]（Comparative [[Meta-meta-analysis\|meta-synthesis]]） | 教学结构、课堂管理、教师领导、师生互动、[[PISA]] 成绩走势 | 综述全景证实教师结构（目标、管理、反馈）对学习具有稳健积极贡献；瑞典 PISA 2000–2009 期间，学生自报课堂安静与获得教师帮助比例上升（78% $	o$ 82%），但整体成绩下滑，表明单一氛围指标与学业成就非线性相关 | — | 证据综合确立了结构化教学的有效性在于“结构与互动”的高阶融合，而非单一讲授或纪律控制 |
+> | [[Argument_Håkansson_2015_TT\|Håkansson (2015a)]] | 43 项教学与学习研究综述（16 项国际综述 + 27 项瑞典本土综述） | [[Comparative Meta-synthesis\|比较性元综合]]（Comparative [[Meta-meta-analysis\|meta-synthesis]]） | 教学结构、课堂管理、教师领导、师生互动、[[PISA]] 成绩走势 | 综述全景证实教师结构（目标、管理、反馈）对学习具有稳健积极贡献；瑞典 PISA 2000–2009 期间，学生自报课堂安静与获得教师帮助比例上升（78% $	o$ 82%），但整体成绩下滑，表明单一氛围指标与学业成就非线性相关 | — | [[Research Synthesis\|证据综合]]确立了结构化教学的有效性在于“结构与互动”的高阶融合，而非单一讲授或纪律控制 |
 | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] | 67 项高等教育 ChatGPT 实证研究（2022–2025 年全球高校样本） | [[Systematic Review\|系统综述]]与主题综合（PRISMA 2020 框架） | 教学情境（结构化 vs 非结构化）、[[Critical Thinking\|批判性思维]]（CT）、[[Creativity\|创造性思维]]（CrT）、认知共现模式 | 21 项研究确立结构化教学模型（如翻转课堂、ADDIE、设计学习）介导[[Higher-Order Thinking Skills\|高阶思维]]增益；在考察双目标的研究中，结构化探究支持下 18 项（53%）实现 CT–CrT 双向协同增益，而非结构化使用导致 8 项（24%）非对称萎缩与 4 项（12%）双重认知侵蚀 | $p < .001$（工具主义调用与批判反思负相关 $ eta = -0.34$） | 确立结构化教学是决定[[Generative Artificial Intelligence\|生成式 AI]] 介入后高阶心智走向协同增益还是认知侵蚀的核心调节条件 |
 | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]]; Sutherland et al. (2017) | 英格兰公立中学教师与学科教研组（[[Incentivised Pay and Coaching Trial\|ICR]] 试验） | 两级集群 [[Randomised Controlled Trials\|RCT]]（前置可行性与招募评估） | 结构化教学辅导（Instructional Coaching）、[[Performance Pay\|绩效工资]]奖金激励、教师招募与留存 | 试验试图将结构化教学辅导与基于学生考分增长的差异化经济奖金相结合，但在招募阶段遭遇校长与一线教师的集体抵制；教师普遍指责随机抛硬币决定奖金资格严重破坏同行信任与专业协作伦理，最终招募严重流产，[[Education Endowment Foundation\|EEF]] 被迫终止试验并出具《关闭报告》 | 招募失败率达 100%（未能达到 [[Statistical Analysis Plan\|SAP]] 预设最低样本门槛） | 确立结构化教学辅导在现场试验中的落地效能高度受制于学校教研生态与教师内在动机；违背职业伦理的外在金钱刺激会导致结构化培训机制整体失效 |
 

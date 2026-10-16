@@ -9,7 +9,7 @@ title: "Argument_Higgins_2016_ROE"
 argument_key: "Argument_Higgins_2016_ROE"
 argument_display_title: "Meta-synthesis and comparative metaanalysis of education research findings: some risks and benefits"
 argument_kind: "journal-article"
-argument_related_count: 50
+argument_related_count: 51
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -44,6 +44,7 @@ related_concepts:
 related_theories:
   - "[[Walberg's Educational Productivity Model]]"
 related_methods:
+  - "[[Research Synthesis]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
   - "[[Effect Size]]"
@@ -83,7 +84,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-06-08'
-updated: 2026-10-16
+updated: 2026-10-17
 year: 2016
 doi: ""
 citation_aliases:
@@ -93,7 +94,7 @@ citation_aliases:
 ## 研究问题
 
 > [!question]
-> 教育研究领域如何从单一研究走向跨研究综合？[[Meta-analysis\|元分析]]和[[Meta-meta-analysis\|元-元分析]]在为教育实践者提供比较性信息时，有哪些方法论风险和收益？[[EEF Teaching and Learning Toolkit]] 这类面向实践者的工具如何在准确性和可及性之间取得平衡？
+> 教育研究领域如何从单一研究走向跨[[Research Synthesis|研究综合]]？[[Meta-analysis\|元分析]]和[[Meta-meta-analysis\|元-元分析]]在为教育实践者提供比较性信息时，有哪些方法论风险和收益？[[EEF Teaching and Learning Toolkit]] 这类面向实践者的工具如何在准确性和可及性之间取得平衡？
 
 ---
 
@@ -281,7 +282,7 @@ Glass 命名元分析几年后，医学领域开始将元分析作为综合研�
 
 ### 14. Fraser et al. (1987)：首次大规模元综合
 
-Glass 创造元分析术语 10 年后，Barry Fraser、Herbert Walberg 和 [[John Hattie|John Hattie]] 团队进行了一项广泛的证据综合，汇总了 226 项元分析的发现来检验 Walberg 的[[Walberg's Educational Productivity Model|教育生产力模型]](Fraser et al., 1987)。这本身就说明了元分析作为新方法的快速普及(p.42)。
+Glass 创造元分析术语 10 年后，Barry Fraser、Herbert Walberg 和 [[John Hattie|John Hattie]] 团队进行了一项广泛的[[Research Synthesis|证据综合]]，汇总了 226 项元分析的发现来检验 Walberg 的[[Walberg's Educational Productivity Model|教育生产力模型]](Fraser et al., 1987)。这本身就说明了元分析作为新方法的快速普及(p.42)。
 
 > [!note]- Fraser et al.的研究结构
 > 该研究发表为《[[International Education\|国际教育]]研究杂志》的一篇 100 页专著。其中一章综合了数千项原始研究，识别持续且广泛影响学生学习的禀赋性、教学性和环境性[[Variable\|变量]]。另一章聚焦于科学教学的元分析，识别情境和交互影响。然后用当时学生学习模型中的各种显著特征来组织 134 项成就结果元分析和 92 项态度结果元分析的综合。最终结果用于检验 Walberg 的九因素教育生产力模型在多大程度上得到经验证据的支持(p.42)。

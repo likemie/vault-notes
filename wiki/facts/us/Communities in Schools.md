@@ -10,7 +10,7 @@ subtype: event
 region: us
 fact_region: "us"
 fact_kind: "event"
-fact_related_count: 23
+fact_related_count: 24
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
@@ -38,6 +38,7 @@ related_methods:
   - "[[Quasi-Experimental Designs]]"
   - "[[Experimental Research]]"
   - "[[Time Series Design]]"
+  - "[[Research Synthesis]]"
   - "[[Statistical Significance]]"
 related_instruments: []
 related_persons: []
@@ -55,7 +56,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Communities in Schools
@@ -97,7 +98,7 @@ updated: 2026-10-16
 
 ## 案例核心启示：最大极性冲突背后的证据断裂机制
 
-> [!critique] CIS 案型揭示的三大证据综合断裂根源
+> [!critique] CIS 案型揭示的三大[[Research Synthesis|证据综合]]断裂根源
 > [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024, p. 25)]] 指出，校内社区（CIS）案例生动呈现了宏观循证政策生态中最极端的制度撕裂：
 >
 > 1. **机构委托灰色报告 vs 同行评审学术期刊（MDRC Reports vs Peer-Reviewed Papers）**

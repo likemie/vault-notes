@@ -11,7 +11,7 @@ aliases:
 summary: "面向基础教育一线教师发行的商业化教学实务指南、备课手册与行业期刊，具备极高的实践使用率与即时操作性，但普遍缺乏实证审查并成为教育神经神话与非科学经验的关键传播载体"
 type: concept
 domain: "science-communication"
-related_count: 26
+related_count: 28
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -27,6 +27,7 @@ related_concepts:
   - "[[Virtual Teacher Staffroom]]"
   - "[[Variable]]"
   - "[[Recommendations for Practice]]"
+  - "[[Learning Styles]]"
   - "[[Falsification]]"
   - "[[Empiricism]]"
   - "[[Pragmatic Paradigm]]"
@@ -44,6 +45,7 @@ related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Content Analysis]]"
+  - "[[Research Synthesis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Correlational Research]]"
 related_instruments: []
@@ -56,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Ratgeberliteratur
@@ -94,7 +96,7 @@ updated: 2026-10-16
 > | **核心诉求** | 快速获取明日课堂现成教案与班级管理法门 | 汇报前沿因果规律、检验理论模型与[[Variable\|变量]]关系 | 评估实证证据强度并提炼结构化[[Recommendations for Practice\|实践建议]] | 同侪即时互助、素材灵感汲取与情感共鸣 |
 > | **证据门槛** | 极低，主要依托作者个人从教经验自我背书 | 极高，依赖双盲同行评议与严格统计规范 | 高，限定于高质量[[Meta-analysis\|元分析]]或严谨一级实证研究 | 波动极大，受算法推荐与意见领袖偏好驱动 |
 > | **教师接触率** | 极高（超过 70% 教师定期阅读） | 极低（在岗教师与师范生普遍存在研究疏离） | 中等偏低（正通过教师教育者乘数效应逐步扩大） | 极高（尤其在中青年教师与数字化教研中） |
-> | **迷思风险** | **极高**（32%–40% 读物包含学习风格等伪科学） | 极低（主要聚焦于实证[[Falsification\|证伪]]与事实呈现） | 极低（设有专门的迷思识别与方法学筛查） | 较高（容易形成算法信息茧房与流行迷思共振） |
+> | **迷思风险** | 极高（32%–40% 读物包含[[Learning Styles\|学习风格]]等伪科学） | 极低（主要聚焦于实证[[Falsification\|证伪]]与事实呈现） | 极低（设有专门的迷思识别与方法学筛查） | 较高（容易形成算法信息茧房与流行迷思共振） |
 
 ---
 
@@ -137,7 +139,7 @@ updated: 2026-10-16
 ### 命题二　商业指南读物普遍缺乏学术同行评审机制，是导致教育神经神话在学校实践中制度化弥散的核心中介
 
 > [!concept-lens] 证据中介渠道的质量失控与迷思再生产
-> 揭示商业出版渠道在缺乏方法学把关的情况下，如何成为学习风格等被[[Falsification\|证伪]]假说的避风港与放大器。
+> 揭示商业出版渠道在缺乏方法学把关的情况下，如何成为[[Learning Styles|学习风格]]等被[[Falsification\|证伪]]假说的避风港与放大器。
 
 > [!claim] [[Argument_Besa_2024_UW\|Besa, 2024]]
 > **指南文献对伪科学神经神话的规模化推波助澜** 对德语区在售的 410 部教师实践指南的实证[[Content Analysis\|内容分析]]显示，高达 32%（Krüger & Konrad, 2022）至 40%（Mohajerzad et al., 2022）的指南读物毫无批判性地大肆推介“[[Learning Style Myth\|学习风格神话]]”（如将学生划分为视觉型、听觉型、动觉型并要求分类施教）。甚至在广为流传的经典教学法手册中（如 Paradies & Linser, 2003），依然将已被心理学界彻底证伪的 Vester（1975）四分法作为正统因材施教方案；商业出版的质量审查缺失使伪科学在基础教育体系中获得了持久的制度化生命力。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 255)]]
@@ -161,7 +163,7 @@ updated: 2026-10-16
 > |---|---|---|---|
 > | **即时效用与经验垄断命题** | 指南文献因契合教师即时备课效用感知而主导日常实践，但潜藏严重证据真空 | 教师非正式专业学习、日常备课决策与专业知识获取路径 | Mönig (2012); Otto et al. (2019); Tänzer (2011) |
 > | **迷思固化与审查真空命题** | 商业出版缺乏同行评审，导致 30%–40% 指南公然宣扬学习风格等教育神经神话 | 教学指南读物审查、教育迷思破除与教师在职培训教材选用 | Krüger & Konrad (2022); Mohajerzad et al. (2022); Paradies and Linser (2003) |
-> | **主动占位与评价改革命题** | 学者须主动涉足受众适配的通俗指南创作，制度层面需将证据综合确立为独立学术价值 | [[Educational Science Communication\|教育科学传播]]媒介策略设计、高校学术评价与聘任制度改革 | [[Argument_Besa_2024_UW\|Besa (2024)]]; Kerres et al. (2022); Götzfried et al. (2022) |
+> | **主动占位与评价改革命题** | 学者须主动涉足受众适配的通俗指南创作，制度层面需将[[Research Synthesis\|证据综合]]确立为独立学术价值 | [[Educational Science Communication\|教育科学传播]]媒介策略设计、高校学术评价与聘任制度改革 | [[Argument_Besa_2024_UW\|Besa (2024)]]; Kerres et al. (2022); Götzfried et al. (2022) |
 
 ---
 

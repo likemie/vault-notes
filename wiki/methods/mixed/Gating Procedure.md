@@ -6,7 +6,7 @@ summary: "系统综述中的筛选程序，指只有内部效度达到门槛的�
 type: method
 method_type: mixed
 method_family: "mixed"
-method_related_count: 16
+method_related_count: 17
 method_related_level: 1
 method_related_stars: "⭐"
 method_related_color: "#fef3c7"
@@ -33,6 +33,7 @@ related_methods:
   - "[[Single-Case Design]]"
   - "[[Design-Based Research]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Research Synthesis]]"
 related_persons: []
 related_facts:
   - "[[What Works Clearinghouse]]"
@@ -41,7 +42,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 ## 定义
@@ -73,7 +74,7 @@ updated: 2026-10-16
 > 1. **初步筛选** 对照审查协议，判断研究的干预、因[[Variable\|变量]]、场所和参与者特征是否符合协议参数
 > 2. **[[Internal Validity\|内部效度]]评估（门控）** 评估阶段对比数量、每阶段数据点数量、结果是否被可靠测量、研究者是否主动操纵[[Independent Variable\|自变量]]；通过视觉分析进一步理解实验控制
 > 3. **研究细节描述（通过门控后）** 仅对通过设计标准的研究，系统记录场所、设计、参与者特征、[[Dependent Variable\|因变量]][[Definition of Terms\|操作性定义]]、基线和干预条件、实施者和培训、干预忠实度等信息
-> 4. **证据综合** 应用 [[5-3-20 Rule]] 判断 SCD 证据是否充分以生成干预报告
+> 4. **[[Research Synthesis|证据综合]]** 应用 [[5-3-20 Rule]] 判断 SCD 证据是否充分以生成干预报告
 
 ## 门控程序的合理性
 
@@ -95,7 +96,7 @@ updated: 2026-10-16
 
 > [!example] 相关概念
 > - [[Single-Case Design]] — [[What Works Clearinghouse\|WWC]] 对 [[Single-Case Design\|SCD]] 和组间设计均采用门控程序
-> - [[5-3-20 Rule]] — 门控程序之后的证据综合阈值
+> - [[5-3-20 Rule]] — 门控程序之后的[[Research Synthesis|证据综合]]阈值
 > - [[Evidence-Based Education]] — 门控程序是 EBE 机构（WWC）审查证据的操作方法之一
 > - [[What Works Clearinghouse]] — WWC 在 SCD 和组间设计审查中使用门控程序，只让通过[[Internal Validity\|内部效度]]门槛的研究进入后续推广性描述([[Argument_Hitchcock_2015_JBE\|Hitchcock et al., 2015, pp.462, 464–466]])
 

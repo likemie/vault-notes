@@ -9,7 +9,7 @@ aliases:
 summary: "指由研究生产者、政策制定者、教育实践者、中介机构与资助方等多方行动者共同构成，通过评价、综合、翻译、中介动员与实践应用等多向交互与动态反馈回路，驱动研究证据协同演化的复杂自适应系统。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 88
+related_count: 89
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -73,6 +73,7 @@ related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
 related_methods:
   - "[[Analytic Framework]]"
+  - "[[Research Synthesis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Multi-Arm Trial]]"
   - "[[Effect Size]]"
@@ -118,7 +119,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Evidence Ecosystem
@@ -136,7 +137,7 @@ updated: 2026-10-16
 > - **边界** 证据生态系统是描述研究生产与利用全链条关系的宏观系统[[Construct\|构念]]，区别于微观层面的单一[[Knowledge Mobilisation\|知识动员]]项目（Knowledge Mobilisation Initiative）或单纯的中介组织（[[Educational Brokerage Agency\|brokerage agency]]）。
 
 > [!citation-card] 证据生态系统跨越线性与关系模型的嵌套演进
-> 早期的线性知识转移模型演变为认识到复杂性的研究生态系统理解。英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation，EEF）所应用的新一代证据生态系统模型，将评估、证据综合、转译、[[Research Utilization\|研究利用]]以及教育创新明确挂钩。不仅要建立人与人之间的联结，更要激活整个系统，在其各个组成部分之间建立深层互动与共创。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 18–20)]]
+> 早期的线性知识转移模型演变为认识到复杂性的研究生态系统理解。英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation，EEF）所应用的新一代证据生态系统模型，将评估、[[Research Synthesis|证据综合]]、转译、[[Research Utilization\|研究利用]]以及教育创新明确挂钩。不仅要建立人与人之间的联结，更要激活整个系统，在其各个组成部分之间建立深层互动与共创。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 18–20)]]
 >
 > *Early conceptualisations of knowledge transfer as a linear process have evolved into an understanding of research ecosystems that recognise complexity... In this model, evaluation, synthesis, translation, use of research, and innovation are explicitly linked.*
 
@@ -188,7 +189,7 @@ updated: 2026-10-16
 >
 > - **外层大系统（顶层虚线方框）** 包容宏观政治体制、拨款问责、意识形态与权力博弈，汇聚多元行动者、不同视角、焦点议题、待解问题与既有权力结构。
 > - **决策与实施（置于左侧，凸显需求牵引）** 涵盖政策制定、实践审议（启蒙性与[[Conceptual, Instrumental, and Symbolic Use of Research\|工具性使用]]）以及基层教学或治理实践的纵深落地。
-> - **研究生产与综合（置于右侧，打破推送惯性）** 涵盖初级研究生产与证据综合所得（概念性与工具性证据），坚决打破自左向右单向推挤知识的心理惯性。
+> - **研究生产与综合（置于右侧，打破推送惯性）** 涵盖初级研究生产与[[Research Synthesis|证据综合]]所得（概念性与工具性证据），坚决打破自左向右单向推挤知识的心理惯性。
 > - **中介机制（居中连接左右两端）** 承担双向对话、协同参与与证据转译的枢纽职能。
 
 > [!logic-map]- 证据生态系统双层嵌套与多向流动网络
@@ -398,7 +399,7 @@ updated: 2026-10-16
 
 > [!dev-timeline] 概念演变
 > - **2000s 初 — 部门知识管理赤字诊断** [[Centre for Educational Research and Innovation\|经合组织教育研究与创新中心]]（CERI）跨部门调查揭示，教育系统相较于医疗与农业部门存在严重的知识管理与研发赤字。[[Argument_Revai_2022_ChangingLandscape\|(OECD, 2000, 2003; Révai, 2022, p. 16)]]
-> - **2000s 中 — 循证金标准扩散与中介库兴起** 英美等国强力推行[[Positivism\|实证主义]]循证运动，设立美国什么是有效研究所（[[What Works Clearinghouse]]，WWC）与新西兰[[Best Evidence Synthesis\|最佳证据综合]]（Best Evidence Synthesis，BES），尝试以等级化因果干预库指导决策。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 16–17)]]
+> - **2000s 中 — 循证金标准扩散与中介库兴起** 英美等国强力推行[[Positivism\|实证主义]]循证运动，设立美国什么是有效研究所（[[What Works Clearinghouse]]，WWC）与新西兰[[Best Evidence Synthesis\|最佳证据综合]]（Best [[Research Synthesis|Evidence Synthesis]]，BES），尝试以等级化因果干预库指导决策。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 16–17)]]
 > - **2010 — 复杂系统模型与嵌套[[Paradigm\|范式]]确立** Best and Holmes (2010) 提出[[Knowledge Mobilisation\|知识动员]]三代嵌套演进模型（线性模型、关系模型、复杂系统模型），奠定了证据生态系统的理论骨架。[[Argument_Revai_2022_ChangingLandscape\|(Best & Holmes, 2010; Révai, 2022, pp. 18–19)]]
 > - **2011–2019 — 系统级中介、双层嵌套与[[Research Schools Network\|研究学校网络]]探索** 英国 [[Teaching and Learning Research Programme\|TLRP]] 项目（2000–2011）与英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）研究学校网络相继落地，探索将评估、转译与实践反思有机统整的生态实践模式。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 20–21)]] 同时，Gough et al. (2011, 2018, 2019) 历经近十年演进，提出反转供需构图的需求拉力模型，并以虚线确立狭义证据生态与广义社会政治环境的双层嵌套生态架构。[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 41–43)]]
 > - **2018–2021 — 跨国教育证据生态扩散与全球南方本土化网络** 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）携手[[BHP Foundation\|必和必拓基金会]]（BHP Foundation）启动为期 5 年的全球合作项目，支持智利 [[SUMMA]]（拉丁美洲与加勒比证据中心）以及澳大利亚实证学习组织（[[Evidence for Learning]]，E4L），将教学与学习工具箱（[[EEF Teaching and Learning Toolkit]]）翻译转译为西班牙语并开展区域因果试验本土化，探索循证中介机构跨国扩散与全球南方国家生态适配路径。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 49)]]

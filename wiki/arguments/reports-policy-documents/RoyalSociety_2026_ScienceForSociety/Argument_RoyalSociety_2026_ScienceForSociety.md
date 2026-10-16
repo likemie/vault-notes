@@ -10,7 +10,7 @@ title: "Argument_RoyalSociety_2026_ScienceForSociety"
 argument_key: "Argument_RoyalSociety_2026_ScienceForSociety"
 argument_display_title: "Science for society: How society and science shape each other"
 argument_kind: "report"
-argument_related_count: 51
+argument_related_count: 52
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -63,6 +63,7 @@ related_concepts:
 related_theories:
   - "[[Organizational Culture]]"
 related_methods:
+  - "[[Research Synthesis]]"
   - "[[Random Sampling]]"
   - "[[Longitudinal Study]]"
   - "[[Cohort Study]]"
@@ -92,7 +93,7 @@ sources:
 part_of:
 status: draft
 created: 2026-08-22
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # Argument_RoyalSociety_2026_ScienceForSociety
 
@@ -151,7 +152,7 @@ updated: 2026-10-16
 > - **[[Research Impact\|科研影响力]]（Research Impact）与 [[Organizational Culture\|组织文化]]（Organizational Culture）** 剖析国家评估机制中对长周期、弥散性社会效益因果归因的制度扭曲，确立大学内部从管理层到一线学者的支持性文化变革路径（pp. 98, 100–101）。
 
 > [!monograph-method] 全书综合研究方法与证据体系
-> - **跨界顶层设计与六大专家工作组** 由[[Carlos Frenk]]与[[Sheila Rowan]]领导指导委员会设立六个专业工作组（教育、非正式参与、大众传媒、产业/第三部门、政策、学术界），开展横跨自然科学、社会科学、公共政策与科学传播的一体化证据综合与专家协商（pp. 5–8, 110–111）。
+> - **跨界顶层设计与六大专家工作组** 由[[Carlos Frenk]]与[[Sheila Rowan]]领导指导委员会设立六个专业工作组（教育、非正式参与、大众传媒、产业/第三部门、政策、学术界），开展横跨自然科学、社会科学、公共政策与科学传播的一体化[[Research Synthesis|证据综合]]与专家协商（pp. 5–8, 110–111）。
 > - **全国公众对科学的态度调查（Public Attitudes to Science, PAS 2025）** 由英国研究与创新署（UKRI）委托 Ipsos 与英国科学协会联合执行的全国代表性[[Random Sampling\|概率抽样]]民意调查，精准测度英国社会对科学家的信任度、信息获取渴求、决策参与感及对 AI 等新兴技术的价值认知（pp. 9–13, 47, 70）。
 > - **全英科研人员公众参与二十年追踪调查（2006 vs 2015 vs 2024）** 皇家学会联合 Wellcome、UKRI 等机构建立的[[Longitudinal Study\|纵向调查]]数据库，对全英数千名高校与科研机构一线学者开展长期追踪，系统评估参与频次跃迁、参与动机演进、体制阻碍变迁及机构支持赤字（pp. 10, 94–98）。
 > - **国家科学教育纵向追踪与教师教学实态调查** 依托皇家学会科学教育追踪调查（SET 2016–2023 纵向数据）与 2024 年科学教学调查（Science Teaching Survey 2024），量化测度初高中动手实验课时锐减态势与跨学科师资结构性匮乏（pp. 32–35）。

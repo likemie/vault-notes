@@ -10,7 +10,7 @@ summary: "度量样本统计量抽样分布离散度与估计精度的核心统�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 25
+method_related_count: 26
 method_related_level: 2
 method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
@@ -41,6 +41,7 @@ related_methods:
   - "[[Forest Plot]]"
   - "[[Causal Modeling]]"
   - "[[Fixed-Effect Model]]"
+  - "[[Research Synthesis]]"
   - "[[Robust Variance Estimation]]"
   - "[[Meta-meta-analysis]]"
   - "[[Correlational Research]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-22
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Standard Error
@@ -164,7 +165,7 @@ updated: 2026-10-16
 > [!formula-step] 公式步骤　两级[[Fixed-Effect Model|固定效应]][[Meta-analysis|元分析]]联合标准误
 > $$\text{SE}_D = \sqrt{v_D} = \sqrt{\frac{1}{\sum_{j=1}^m W_j}} = \sqrt{\frac{1}{\sum_{j=1}^m \frac{1}{\text{SE}_j^2}}}$$
 >
-> **这个公式在做什么** 接收各纳入元分析（或主要研究）的方差倒数权重 $W_j = 1/v_{d_j} = 1/\text{SE}_j^2$，输出跨研究综合效应量 $D$ 的联合标准误 $\text{SE}_D$。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 25, 37–38)]]
+> **这个公式在做什么** 接收各纳入元分析（或主要研究）的方差倒数权重 $W_j = 1/v_{d_j} = 1/\text{SE}_j^2$，输出跨[[Research Synthesis|研究综合]]效应量 $D$ 的联合标准误 $\text{SE}_D$。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 25, 37–38)]]
 >
 > **数学直觉** 依据精度累加公理，当纳入的独立研究增多时，总信息量（精度之和 $\sum W_j$）持续单调增加，其倒数的平方根 $\text{SE}_D$ 必然严格小于任何单个纳入研究的标准误。
 >
@@ -181,7 +182,7 @@ updated: 2026-10-16
 
 ## 统计建模与质控规范
 
-> [!proc] 标准误在实证研究与证据综合中的四步质控规程
+> [!proc] 标准误在实证研究与[[Research Synthesis|证据综合]]中的四步质控规程
 > 1. **原始数据提取与除数严格核实** 审查[[Primary and Secondary Documents|初级文献]]报告的均值变异参数，严格区分 $\text{SD}$ 与 $\text{SE}$；若文献仅报告 $\text{SE}$，必须利用 $\text{SD} = \text{SE} \times \sqrt{n}$ 还原真实标准差后再行计算标准化[[Effect Size|效应量]]，杜绝除数混淆灾难。
 > 2. **独立效应量方差精确建模** 提取实验组与对照组精确[[Sample Size Determination|样本量]]（$n_E, n_C$），代入组间无偏方差公式计算抽样标准误 $\text{SE}_d$；对于小样本研究执行 Hedges 校正。
 > 3. **逆方差权重分配与联合推断** 二阶汇总必须以方差倒数赋权（$W = 1/\text{SE}^2$），严禁按样本量离散度硬造伪标准误，严禁设定武断下限；由精度累加公式精确推算联合标准误并输出 95% [[Confidence Interval|置信区间]]。

@@ -6,10 +6,10 @@ aliases:
 summary: "认识论认知中衡量知识是驻留于外部权威还是由主体内部积极建构的核心维度，在数字多文本时代进一步拓展为对信息源资质、立场与可信度的批判性评估规程。"
 type: concept
 domain: "educational-psychology"
-related_count: 39
-related_level: 3
-related_stars: "💎"
-related_color: "#fde68a"
+related_count: 40
+related_level: 4
+related_stars: "💎⭐"
+related_color: "#fdba74"
 tags:
   - "theme/epistemological-beliefs"
   - "level/dimension"
@@ -48,6 +48,7 @@ related_theories:
   - "[[Women's Ways of Knowing]]"
   - "[[Epistemological Reflection Model]]"
 related_methods:
+  - "[[Research Synthesis]]"
   - "[[Meta-analysis]]"
   - "[[Confidence Interval]]"
   - "[[Effect Size]]"
@@ -62,7 +63,7 @@ related_arguments:
 status: active
 confidence: high
 created: 2026-08-14
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Source of Knowledge
@@ -109,7 +110,7 @@ updated: 2026-10-16
 >   - *认知模式* 展现出高度的[[Learner Autonomy\|自主学习]]意识，从被动传真转向批判性建构，敢于表达个人合理论断。
 > - **数字多文本信源与分布式来源（Digital Multi-text & Distributed Sources）**
 >   - *特征表现* 在现代网络信息环境下，知识分散在多元且立场冲突的多样化信源中；
->   - *认知模式* 掌握系统的[[Source Evaluation\|信源评估]]技能，主动考查信源作者资质、出版机构立场、潜在商业利益及论据扎实度，形成证据综合能力。
+>   - *认知模式* 掌握系统的[[Source Evaluation\|信源评估]]技能，主动考查信源作者资质、出版机构立场、潜在商业利益及论据扎实度，形成[[Research Synthesis|证据综合]]能力。
 
 > [!frames-ref] 经典理论模型中知识来源的演进图谱
 > - **[[Perry's Scheme of Intellectual and Ethical Development\|佩里发展图式]]（Perry, 1970）** 从二元论时期的权威知晓绝对真理，逐步发展到相对主义时期的认知者作为意义建构的核心载体。

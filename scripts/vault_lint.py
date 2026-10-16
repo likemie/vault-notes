@@ -1335,7 +1335,6 @@ def check_required_files(issues: List[Issue]) -> None:
         ROOT / "scripts" / "vault_index.py",
         ROOT / "scripts" / "wiki_index.py",
         ROOT / "scripts" / "citation_index.py",
-        ROOT / "scripts" / "citation_linker.py",
         CITATION_DIR,
         CITATION_FULL_JSON,
         CITATION_AMBIGUOUS_JSON,
@@ -2819,21 +2818,21 @@ _NEW_ARG_LINK_RE = re.compile(r"\[\[(Argument_[^\]|\\\n]+)\\?\|([^\]\n]+)\]\]")
 
 
 def citation_linker_suggestions(path: Path, text: str) -> List[Tuple[int, str]]:
-    """(line, display) for each citation link citation_linker.py would add."""
+    """(line, display) for each citation link wiki_linker.py would add."""
     global _CITATION_LINKER, _CITATION_LINKER_LOOKUP
     if _CITATION_LINKER is None:
         scripts_dir = str(Path(__file__).resolve().parent)
         if scripts_dir not in sys.path:
             sys.path.insert(0, scripts_dir)
-        import citation_linker  # noqa: PLC0415
-        _CITATION_LINKER = citation_linker
+        import wiki_linker  # noqa: PLC0415
+        _CITATION_LINKER = wiki_linker
     cl = _CITATION_LINKER
     if _CITATION_LINKER_LOOKUP is None:
-        _CITATION_LINKER_LOOKUP = cl.load_lookup() if cl.CITATION_FULL_JSON.exists() else {}
+        _CITATION_LINKER_LOOKUP = cl.load_citation_lookup() if cl.CITATION_FULL_JSON.exists() else {}
     if not _CITATION_LINKER_LOOKUP:
         return []
     stats = {"linked_parenthetical": 0, "linked_narrative": 0, "fixed_display": 0}
-    linked = cl.link_text(text, _CITATION_LINKER_LOOKUP, stats, [], path)
+    linked = cl.link_citations(text, _CITATION_LINKER_LOOKUP, stats, [], path)
     if linked == text:
         return []
     out: List[Tuple[int, str]] = []
@@ -2893,7 +2892,7 @@ def check_citation_links(path: Path, text: str, data: Optional[Dict[str, Any]], 
         if has_invalid_english_author_conjunction(txt):
             issues.append(Issue("WARN", rel(path), f"English two-author citation conjunction does not match narrative/parenthetical style: {txt!r} -> {fix_english_author_and(txt)!r}", line=line_of_pos(body_no_sources, m.start(), body_start_line), code="CITATION_ENGLISH_AND"))
 
-    # Unlinked citations: ask citation_linker what it would link, so lint and
+    # Unlinked citations: ask wiki_linker's APA engine what it would link, so lint and
     # the auto-linker (run by vault_index) can never disagree.
     for line_no, display in citation_linker_suggestions(path, text):
         issues.append(Issue("WARN", rel(path), f"APA short citation is not linked to an Argument (run scripts/vault_index.py to auto-link): {display}", line=line_no, code="CITATION_UNLINKED"))

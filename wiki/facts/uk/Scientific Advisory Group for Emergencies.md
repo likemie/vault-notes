@@ -12,7 +12,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Causality]]"
 related_theories: []
 related_methods:
+  - "[[Research Synthesis]]"
   - "[[Confidence Interval]]"
   - "[[Audit Trail]]"
 related_instruments: []
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Scientific Advisory Group for Emergencies
@@ -95,7 +96,7 @@ updated: 2026-10-16
 > [!actor-grid] 组织治理架构
 > - **双联席主席（Joint Chairs）** 通常由英国政府首席科学顾问（GCSA）与首席医疗官（Chief Medical Officer, CMO，在公共卫生危机中）共同担任联合主席，负责主持高级别战略审议并直接向首相及内阁汇报。
 > - **常设秘书处与协调中枢（[[Government Office for Science\|GO-Science]]）** 依托英国政府科学办公室（[[Government Office for Science]]）提供常态化运行支持，负责危机预案维护、数据通道打通与专家库日常联络。
-> - **专业子工作组矩阵（Specialist Sub-groups）** 根据危机性质动态组建专门技术分组，例如大流行期间设立的流行病学建模小组（SPI-M）、行为科学洞察小组（SPI-B）以及呼吸道传播新型病毒威胁顾问组（NERVTAG），承担底层模型测算与专项证据综合。
+> - **专业子工作组矩阵（Specialist Sub-groups）** 根据危机性质动态组建专门技术分组，例如大流行期间设立的流行病学建模小组（SPI-M）、行为科学洞察小组（SPI-B）以及呼吸道传播新型病毒威胁顾问组（NERVTAG），承担底层模型测算与专项[[Research Synthesis|证据综合]]。
 > - **外部跨学科独立科学家网络** 参会专家绝大多数为来自各大学和独立科研机构的外部资深学者；学者依据专业特长受邀，以独立科学家身份发言，不受官方文官纪律中的政治立场约束（[[Argument_RoyalSociety_2026_ScienceForSociety_Ch05\|The Royal Society, 2026, Ch. 5, p. 81]]）。
 
 > [!pathways]- 业务运行机制

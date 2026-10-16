@@ -8,7 +8,7 @@ aliases:
 summary: "批判性思维测评是对个体在论证分析、证据评价、推论构建与反思判断等高阶认知技能及求真探究倾向的操作化测量与促学评价；在教育与心理研究中用于量化学业增益、诊断思维短板并检验课程对齐与构念效度。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 68
+related_count: 69
 related_level: 6
 related_stars: "💎💎"
 related_color: "#ddd6fe"
@@ -55,6 +55,7 @@ related_theories: []
 related_methods:
   - "[[Multiple-Choice Questions]]"
   - "[[Questionnaire]]"
+  - "[[Research Synthesis]]"
   - "[[Internal Consistency]]"
   - "[[Three-Level Meta-Analysis]]"
   - "[[Meta-regression]]"
@@ -95,7 +96,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-26
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Critical Thinking Assessment
@@ -131,7 +132,7 @@ updated: 2026-10-16
 > |---|---|---|---|---|
 > | **代表性工具** | [[Watson-Glaser Critical Thinking Appraisal\|WGCTA]]、[[California Critical Thinking Skills Test\|CCTST]]、[[Cornell Critical Thinking Test\|Cornell 测验]] | [[California Critical Thinking Disposition Inventory\|CCTDI]]、[[Critical Thinking Strategies Scale\|CTSS]]、MSLQ-CT | [[Collegiate Learning Assessment\|CLA / CLA+]]、[[ETS HEIghten Critical Thinking Assessment\|ETS HEIghten]]、CAAP | AAC&U [[VALUE Rubrics\|VALUE 批判性思维量规]]、欧洲 CALOHEE 框架 |
 > | **作答载体与题型** | 客观[[Multiple-Choice Questions\|多项选择题]]（MCQs） | 莱克特（Likert）自陈量表 / [[Questionnaire\|问卷]] | 真实文档库（[[Document]] in-basket）开放情境表现任务（PT） + 选答题 | 嵌入课程真实大[[Homework\|作业]]、研究论文、设计原型与反思档案袋的 4 级表现描述符 |
-> | **核心测量对象** | 推理、识别假设、演绎、解释、论据评价（再认型） | 求真、开放、探究、分析性、[[Self-Efficacy\|自我效能]]与自述策略使用 | 复杂问题分析、跨文档证据综合、决策制定与论述写作 | 阐明问题、证据运用、情境识别、个人立场确立、结论推导 |
+> | **核心测量对象** | 推理、识别假设、演绎、解释、论据评价（再认型） | 求真、开放、探究、分析性、[[Self-Efficacy\|自我效能]]与自述策略使用 | 复杂问题分析、跨文档[[Research Synthesis\|证据综合]]、决策制定与论述写作 | 阐明问题、证据运用、情境识别、个人立场确立、结论推导 |
 > | **[[Reliability\|信度]]与实施成本** | 机器阅卷信度极高，自动化成本极低 | 施测便捷，自评信度依赖作答诚实度 | 依赖专业阅卷员/算法，评分成本高昂 | 依赖校内与跨校教师评分校准研讨（Calibration） |
 > | **[[Ecological Validity\|生态效度]]与促学价值** | 生态效度低，仅输出总分，促学反馈弱 | 易受社会期望与[[Common Method Variance\|共同方法变异]]（CMV）干扰 | 生态效度高，可测纵向增益，但低利害下动机不足 | 生态效度极高，标准公开透明，全面赋能形成性促学与自我调节 |
 >

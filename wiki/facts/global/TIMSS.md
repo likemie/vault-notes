@@ -10,9 +10,9 @@ subtype: program
 region: global
 fact_region: "global"
 fact_kind: "program"
-fact_related_count: 29
-fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_count: 30
+fact_related_level: 3
+fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
 period: "1995–至今"
 initiator_organization: "International Association for the Evaluation of Educational Achievement"
@@ -39,6 +39,7 @@ related_methods:
   - "[[Trend Study]]"
   - "[[Questionnaire]]"
   - "[[Item Response Theory]]"
+  - "[[Research Synthesis]]"
   - "[[Effect Size]]"
   - "[[Matching]]"
   - "[[Meta-analysis]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # TIMSS
@@ -118,7 +119,7 @@ updated: 2026-10-16
 > - **宏观方位导向价值** 为参与国在国际数理教育格局中提供客观坐标，明确本国课程标准在全球视野中的高低位置。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, p. 494)]]
 > - **国家课程病理诊断与议程设置催化** 跨国课程分析揭示不同教育体制的课程广度与深度差异。例如在推进美国 [[Common Core State Standards|CCSS]] 运动中，TIMSS 比较课程数据被[[Policy Entrepreneur|政策企业家]]转化为诊断美国各州数学标准缺乏连贯性与深度的核心实证工具，有力推动建立精简、连贯且严格之国家级标准的政策共识。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 11–13)]]
 > - **微观治理指导效力不足** [[Argument_Dedering_2009_EERJ|Dedering (2009)]] 对德国教育行政科层的跟踪研究表明，教育官员清醒认识到 TIMSS 仅具宏观参考价值；由于其依赖抽样、概括性强且解释空间过大，无法直接指导单体学校的教学微调与薄弱校干预，其实际治理价值显著低于覆盖全量学校的[[Vergleichsarbeiten|校际比较测试]]（VERA）与过程性[[School Inspection|学校督导]]。[[Argument_Dedering_2009_EERJ|(Dedering, 2009, pp. 494–495)]]
-> - **作为学业自然成长基准的纵向实证功能** 德国实证教育研究者（Roppelt et al., 2013; Köller, 2012; [[Argument_Wecker_2016_ZfE|Wecker et al., 2016, p. 33]]）指出，TIMSS 与 [[PISA]] 的跨期纵向跟踪为评估教学干预成效提供了客观的常态成长标尺：在学校真实情境下，一学年的平均学业能力进展仅在 $0.20–0.40$ 个标准差之间（每学期约 $0.15–0.20$）。这一基准有力纠正了宏观证据综合中脱离现实将 $d = 0.40$ 设为不可逾越“基线”的偏误，确立了 $0.20–0.30$ [[Effect Size|效应量]]在数理与科学教育中的实质政策价值。
+> - **作为学业自然成长基准的纵向实证功能** 德国实证教育研究者（Roppelt et al., 2013; Köller, 2012; [[Argument_Wecker_2016_ZfE|Wecker et al., 2016, p. 33]]）指出，TIMSS 与 [[PISA]] 的跨期纵向跟踪为评估教学干预成效提供了客观的常态成长标尺：在学校真实情境下，一学年的平均学业能力进展仅在 $0.20–0.40$ 个标准差之间（每学期约 $0.15–0.20$）。这一基准有力纠正了宏观[[Research Synthesis|证据综合]]中脱离现实将 $d = 0.40$ 设为不可逾越“基线”的偏误，确立了 $0.20–0.30$ [[Effect Size|效应量]]在数理与科学教育中的实质政策价值。
 > - **产出局限性** 仅测试学业产出终点数据，缺乏对学校内部微观管理、校风文化及师生互动的过程性现场穿透。
 
 > [!citation-card] 政策企业家利用 TIMSS 诊断国家课程病理

@@ -5,7 +5,7 @@ aliases:
 summary: "综合性教学质量概念，关注教师如何通过明确领导、清晰目标、反馈、学习导向气氛和适配学生前提来促进学习；亦在批判视角下聚焦技术清单与管理监视同关系型学习共同体建构之间的深刻张力。"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 84
+related_count: 85
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -81,6 +81,7 @@ related_persons:
   - "[[Hilbert Meyer]]"
   - "[[Andreas Helmke]]"
   - "[[Robert Slavin]]"
+  - "[[Ivan Snook]]"
   - "[[John Dewey]]"
 related_facts:
   - "[[World Bank]]"
@@ -226,7 +227,7 @@ updated: 2026-10-17
 > **清单化规训解构专业自主性与伦理育人内核** 以可见学习为代表的实证效能[[Discourse|话语]]，往往依托[[Neo-Taylorism|新泰勒主义]]工业管理逻辑，将有效教学规约为外显指标、标准化清单（如高影响力教学策略，[[Victorian HITS and Literacy Toolkit|HITS]]）与气压计式监控（源自 [[Assessment Tools for Teaching and Learning|asTTle]] 问责系统）。该取向援引保守派智库[[Thomas B. Fordham Institute|福特汉姆研究所]]学者（Carnine, 2000）的论调，将教师的[[Phronesis|实践智慧]]贬损为缺乏科学依据的战地传闻与轶事，把教学定性为不成熟职业，并极力将教学比附为外科手术缝合与高山救援打结等具备明确正误标准的机械技术工种。然而，教学的主要关切绝非标准化核查清单或操作规程，而是在具体社区、特定学校与差异化班级中，认真负责地建设具有深厚人际交往与伦理关怀的师生学习共同体。过度迷恋量化清单不仅无助于提升真实课堂质量，反而在公立学校诱发严重的[[Performativity|表演性]]危机与职业倦怠，使教师沦为听令行事的流水线操作工，削弱[[Teacher Professional Agency|教师专业自主权]]与执教热情，最终将学生异化为孤立的应试数据点。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–30)]]
 
 > [!claim] Hattie; Snook et al.
-> **关怀互信的教研室[[Peer-Supported Learning|同伴文化]]作为有效教学的生态基石 vs [[Performance Pay|绩效工资]]的破坏性撕裂** 约翰·哈蒂与斯努克等学者指出，有效教学的持续生长绝不能仅仅归结为个别教师的孤军奋战，其关键在于学校组织内部能否培育出“关怀、支持、包容试错以及向同行学习的教师同伴文化（Peer culture of trust and shared passion）”。然而，[[New Public Management|新公共管理]]所兜售的绩效工资（[[Performance Pay]]）通过引入奖金差额与排名竞争，直接将教师团队推向零和博弈；同行之间由教研合作者退化为争夺资源的竞争对手，导致彼此戒备、隐匿教学经验与教研合作破裂，从根本上摧毁了滋养有效教学的专业信任土壤。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 103–104)]]
+> **关怀互信的教研室[[Peer-Supported Learning|同伴文化]]作为有效教学的生态基石 vs [[Performance Pay|绩效工资]]的破坏性撕裂** 约翰·哈蒂与[[Ivan Snook|斯努克]]等学者指出，有效教学的持续生长绝不能仅仅归结为个别教师的孤军奋战，其关键在于学校组织内部能否培育出“关怀、支持、包容试错以及向同行学习的教师同伴文化（Peer culture of trust and shared passion）”。然而，[[New Public Management|新公共管理]]所兜售的绩效工资（[[Performance Pay]]）通过引入奖金差额与排名竞争，直接将教师团队推向零和博弈；同行之间由教研合作者退化为争夺资源的竞争对手，导致彼此戒备、隐匿教学经验与教研合作破裂，从根本上摧毁了滋养有效教学的专业信任土壤。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 103–104)]]
 
 > [!claim] Dewey; Snook et al.
 > **实证证据作为解决问题的探究假说而非机械行动规程** 依据[[John Dewey|杜威]]（[[John Dewey]]）的[[Pragmatic Paradigm|实用主义]]认识论，元分析或[[Experimental Research|实验研究]]获得的有效教学量化证据，绝不提供直接规训一线教师该做什么或不该做什么的行动规程（rules for action）；证据在认识论上仅仅构成用于智慧解决问题与审视教育目的的“探究假设”（[[Hypothesis|hypotheses]] for intelligent problem solving）。一线有效教学决策始终具有不可化约的价值权衡（Value component）：教师必须依据情境判断某种干预所带来的测试分数收益，是否足以证明其经济与精力成本的合理性，以及这种收益是否以抑制学生的[[Creativity|创造力]]或伤害同伴交往素养为代价。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 104)]]
@@ -340,7 +341,7 @@ updated: 2026-10-17
 >
 > *Feynman observed that many teachers who had already developed effective teaching methods were often left bewildered by pseudoscientific schemes cloaked in scientific authority, leading them to second-guess their own professional experience and common-sense intuition.*
 
-> [!citation-card] 斯努克等人论[[Performance Pay|绩效工资]]破坏有效教学的文化土壤
+> [!citation-card] [[Ivan Snook|斯努克]]等人论[[Performance Pay|绩效工资]]破坏有效教学的文化土壤
 > 在过去 25 年里，针对公立学校教师推行绩效工资的尝试绝大多数以失败告终。没有任何证据表明绩效工资能改善教学或学习，[[John Hattie|哈蒂]]庞大的[[Meta-analysis|元分析]]数据中也毫无支持此点的迹象。恰恰相反，哈蒂所反复强调的促进学校提升所需的那种相互合作、充满信任且具备自我反思精神的教研室[[Peer-Supported Learning|同伴文化]]，正是绩效工资体制所亲手摧毁的对象。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 103–104)]]
 >
 > *Such a co-operative, trusting and self-critical school atmosphere is the very kind of atmosphere which regimes of performance pay destroy.*

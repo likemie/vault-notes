@@ -9,7 +9,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 51
+fact_related_count: 52
 fact_related_level: 5
 fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -40,6 +40,7 @@ related_concepts:
   - "[[Causality]]"
   - "[[Justified Warrants]]"
   - "[[Falsification]]"
+  - "[[Learning Styles]]"
   - "[[Self-Improving School System]]"
   - "[[Reflexivity]]"
   - "[[Business as Usual]]"
@@ -188,7 +189,7 @@ updated: 2026-10-17
 > >
 > > - **中介机构的共生与竞合困境（Complement vs Compete）** [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022, p. 150)]]深入指出，英格兰教育中高利害问责体系（以 Ofsted 为代表）对学校具有压倒性的支配性影响。这使得英国教育捐赠基金会（EEF）等循证中介机构面临极其严峻的系统整合难题——中介机构必须苦苦寻找与现有督导问责程序相互补足而非相互竞争的生存路径；若无法使循证改进直接支持学校应对 Ofsted 评级，循证实践必将被校长视为额外的沉重负担而遭到实质性边缘化。
 > > - **[[What Works Network\|有效性网络]]官方模型的“非证据系统视盲”** [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022, p. 151)]]对英国内阁办公室构建的[[What Works Network\|有效性网络]]（Cabinet Office, 2018）官方模型提出了尖锐批评：该模型沉湎于描绘研究生产、综合与转化的闭合回环，竟然完全没有纳入以 Ofsted 为代表的外部非证据大系统（Non-evidence systems），严重忽视了督导体系对学校微观行动者行为偏好的绝对支配力。
-> > - **对非实[[Falsification\|证伪]]科学实践的历史[[Disciplina and Doctrina\|规训]]** [[Argument_Cowen_2015_CHESS\|Cowen et al. (2015, pp. 37–38)]]的实证调查表明，Ofsted 在历史上不仅未能促进循证实践，反而曾长期在督导检查中推崇和认可缺乏实证支持的伪科学理念（如视觉-听觉-动觉 VAK 学习风格理论），同时对合理的教师主导教学予以不当惩处；这种制度性扭曲迫使一线学校在遵守督导要求与采纳 EEF 严谨证据之间陷入深刻的认知分裂。
+> > - **对非实[[Falsification\|证伪]]科学实践的历史[[Disciplina and Doctrina\|规训]]** [[Argument_Cowen_2015_CHESS\|Cowen et al. (2015, pp. 37–38)]]的实证调查表明，Ofsted 在历史上不仅未能促进循证实践，反而曾长期在督导检查中推崇和认可缺乏实证支持的伪科学理念（如视觉-听觉-动觉 VAK [[Learning Styles|学习风格]]理论），同时对合理的教师主导教学予以不当惩处；这种制度性扭曲迫使一线学校在遵守督导要求与采纳 EEF 严谨证据之间陷入深刻的认知分裂。
 > > - **自我改进系统的制度性阻碍与督导框架改革诉求** [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018, p. 133)]]尖锐指出，在外部问责框架未明确转向支持循证改进之前，英格兰“[[Self-Improving School System\|自我改进学校系统]]”的根基注定脆弱；他们呼吁彻底改革现行 Ofsted 督导框架，使“证据知情学校改进”成为受督导认可与保护的法定核心要素，彻底解除学校的防御性迎检焦虑。
 >
 > > [!axis] 高利害督导问责对循证文化的[[Performativity|表演性]]塑造（高利害审计 vs 形成性研训）

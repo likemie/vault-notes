@@ -11,7 +11,7 @@ aliases:
 summary: "对元-元分析（二阶元分析）在认识论假设、试验清晰度混淆、偏倚逐级复合、方法论不透明及政策排名误用层面的系统性学术批判"
 type: concept
 domain: "research-methodology"
-related_count: 48
+related_count: 49
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -53,6 +53,7 @@ related_methods:
   - "[[Intervention Research]]"
   - "[[Confidence Interval]]"
   - "[[Standard Error]]"
+  - "[[Research Synthesis]]"
   - "[[Fixed-Effect Model]]"
   - "[[Robust Variance Estimation]]"
   - "[[Small Study Effects]]"
@@ -79,7 +80,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Critique of Meta-meta-analysis
@@ -120,7 +121,7 @@ updated: 2026-10-16
 > > 审查二阶综合在数据提取、附录公开及证据筛选上的不透明性与证实偏差。
 > >
 > > - **[[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]** 逐步重构[[Homework\|家庭作业]]（附录中 5 个隐藏值 0.36, 0.21, 0.39, 0.21, 0.28 算术平均为 0.29，声称的 161 项研究与 10 万学生并不构成计算基础）与[[Class Size\|班级规模]]效应量（Glass & Smith 1979 提取的 $d=0.09$ 并非原始报告值），指出方法论不透明阻碍了一线教育者验证，呈现伪科学特征。（pp. 25–26, 32–33）
-> > - **[[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]** 强调质量就是一切，指出 Evidence Informed [[Policy Network]] 明确要求研究综合必须具备质量标准；声称不关心纳入研究质量的做法违背了综合的基本定义，对政策具有破坏性。（p. 94）
+> > - **[[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]** 强调质量就是一切，指出 Evidence Informed [[Policy Network]] 明确要求[[Research Synthesis|研究综合]]必须具备质量标准；声称不关心纳入研究质量的做法违背了综合的基本定义，对政策具有破坏性。（p. 94）
 > > - **[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]]** 对《可见的学习》全库 322 个影响因素开展独立复现检验，发现仅 19% 满足 [[PICO Framework|PICO]] 纳入标准，301 项可查证因素中仅 2 项能够成功复现数据提取（<1% 复现率），44% 的效应量在原文中完全无法找到，以全量元科学实证揭示了底层数据链条的彻底崩溃。（pp. 14, 18–19）
 >
 > > [!axis] 维度四：[[Epistemology\|认识论]]困境与政策角色否定

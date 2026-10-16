@@ -8,7 +8,7 @@ summary: "德裔美籍教育哲学家与文化史学家，哈佛大学教授，�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 47
+person_related_count: 48
 person_related_level: 4
 person_related_stars: "💎⭐"
 person_related_color: "#fce7f3"
@@ -57,6 +57,7 @@ related_persons:
   - "[[Friedrich Schneider]]"
   - "[[George Bereday]]"
   - "[[Andreas Kazamias]]"
+  - "[[Roy Nash]]"
   - "[[Aristotle]]"
   - "[[René Descartes]]"
   - "[[Jean-Jacques Rousseau]]"
@@ -76,7 +77,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-06
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Robert Ulich
@@ -87,7 +88,7 @@ updated: 2026-10-16
 
 > [!person-profile] 人物档案
 > - **身份位置** 德裔美籍教育史学家、教育哲学家与比较教育学者，哈佛大学教育研究生院（Harvard Graduate School of Education）科南特讲座教授（James Bryant Conant Professor of Education），魏玛共和国时期萨克森州教育部高等教育司司长（Ministerialrat）与德累斯顿工业大学教育学教授。
-> - **核心角色** 比较教育第二论述代际（历史-哲学与自由人文主义代际）的核心支柱，与[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler）、[[Isaac Kandel|艾萨克·坎德尔]]（Isaac Kandel）、[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）及[[Friedrich Schneider|弗里德里希·施奈德]]（Friedrich Schneider）共同确立了以[[Geisteswissenschaften|精神科学]]（*Geisteswissenschaften*）与文明史为根基的解释性认识[[Paradigm|范式]]。作为坚定的社会民主主义者，乌利希在 44 岁时断然拒绝向纳粹暴政妥协而流亡美国；在哈佛执教二十六载，以深厚的人文底蕴培育了包括[[George Bereday|乔治·贝雷迪]]（George Bereday）、[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）、保罗·纳什（Paul Nash）与亨利·珀金森（Henry Perkinson）在内的整整一代战后史学派比较教育领军学者。
+> - **核心角色** 比较教育第二论述代际（历史-哲学与自由人文主义代际）的核心支柱，与[[Michael Sadler|迈克尔·萨德勒]]（Michael Sadler）、[[Isaac Kandel|艾萨克·坎德尔]]（Isaac Kandel）、[[Nicholas Hans|尼古拉斯·汉斯]]（Nicholas Hans）及[[Friedrich Schneider|弗里德里希·施奈德]]（Friedrich Schneider）共同确立了以[[Geisteswissenschaften|精神科学]]（*Geisteswissenschaften*）与文明史为根基的解释性认识[[Paradigm|范式]]。作为坚定的社会民主主义者，乌利希在 44 岁时断然拒绝向纳粹暴政妥协而流亡美国；在哈佛执教二十六载，以深厚的人文底蕴培育了包括[[George Bereday|乔治·贝雷迪]]（George Bereday）、[[Andreas Kazamias|安德烈亚斯·卡扎米亚斯]]（Andreas Kazamias）、保罗·[[Roy Nash|纳什]]（Paul Nash）与亨利·珀金森（Henry Perkinson）在内的整整一代战后史学派比较教育领军学者。
 > - **代表贡献** 巨著《国家教育：历史视角下的比较》（*The Education of Nations: A Comparison in Historical Perspective*, 1961）；坚持以“人（anthropos）”为中心的比较哲学；将西方文明史演进与教师人文教育深度整合。
 
 > [!citation-card] Kazamias论乌利希与第二论述代际的历史哲学人文传统
@@ -111,7 +112,7 @@ updated: 2026-10-16
 > - **1934–1960** **哈佛大学二十六载执教与科南特讲座** 任哈佛大学教育研究生院教授，后晋升为詹姆斯·布莱恩特·科南特讲座教授（James Bryant Conant Professor of Education），讲授教育史、哲学与比较教育学；与同代希腊古典学泰斗维尔纳·耶格尔（Werner Jaeger，《教化》作者）交相辉映，共同代表了德意志古典人道主义学术传统在北美的移植，以欧洲文明史视野对抗战后美国教育界的技术至上主义与[[Academic Freedom\|学术自由]]侵蚀。
 > - **1945–1954** **奠定超越哲学与[[Paideia\|古典教化]]思想体系** 相继出版《教育思想史》（*History of Educational Thought*, 1945）与《人类生涯：超越哲学》（*The Human Career: A Philosophy of Transcendence*, 1954），将西方两千年思想源流与超越性人道主义相融合。
 > - **1961** **出版集大成巨著《国家教育》开创文明史比较** 出版划时代代表作《国家教育：历史视角下的比较》（*The Education of Nations: A Comparison in Historical Perspective*），以宏阔的西方思想史四阶段演进（中世纪主义、文艺复兴与宗教改革、理性主义、工业科技）系统阐发英、法、德、俄四国教育制度的精神根基。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 51)]]
-> - **1965** **门生合编《受过教育的人》致敬一代宗师** 其哈佛门生纳什、卡扎米亚斯与珀金森联合主编出版文集《受过教育的人》（*The Educated Man*），扉页题词一致敬献给恩师乌利希并冠以“一位真正受过教育的人”（An Educated Man）之崇高礼赞；卡扎米亚斯深情回忆乌利希以渊博的博雅风范激励了包括贝雷迪与自己在内的整整一代战后学者坚守历史意识。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 52)]]；引自 Nash et al. (1965)
+> - **1965** **门生合编《受过教育的人》致敬一代宗师** 其哈佛门生[[Roy Nash|纳什]]、卡扎米亚斯与珀金森联合主编出版文集《受过教育的人》（*The Educated Man*），扉页题词一致敬献给恩师乌利希并冠以“一位真正受过教育的人”（An Educated Man）之崇高礼赞；卡扎米亚斯深情回忆乌利希以渊博的博雅风范激励了包括贝雷迪与自己在内的整整一代战后学者坚守历史意识。[[Argument_Kazamias_2009_ForgottenThemes\|(Kazamias, 2009b, p. 52)]]；引自 Nash et al. (1965)
 > - **1977** **逝世于斯图加特与欧洲人文厚礼的历史定评** 逝世于德国斯图加特，享年 87 岁。纳什在纪念悼文中将其学术与人格定性为“来自欧洲的人文主义厚礼”，高度概括了其人文学术的四大支柱：人处于绝对中心、不加妥协的历史语境主义、教师教育的人文关切、以及终身坚守的社会民主主义信念。[[Argument_Kazamias_2009_ForgottenThemes\|(Nash, 1977: 147–149; Kazamias, 2009b: 52)]]
 
 ---
@@ -148,7 +149,7 @@ updated: 2026-10-16
 > [!claim] 核心主张
 > 乌利希坚决反对将比较教育降格为技术官僚的指标测量与纯粹制度抄借。他主张教育在最深层意义上是古希腊意义上的[[Paideia|古典教化]]（[[Paideia]]），教育的核心关切永远是活生生的人（anthropos）。比较教育探究必须深植于西方文明史与精神观念的演进脉络之中；唯有理解文化思潮如何塑造民族精神与学校形态，教育研究才能超越眼前的功利计较，为师资培育提供深邃的道德反省与历史智慧。
 
-保罗·纳什在纪念悼文中将乌利希对比较教育的贡献定性为来自欧洲的人文主义厚礼，并将其核心思想提炼为四大相互支撑的精神支柱。
+保罗·[[Roy Nash|纳什]]在纪念悼文中将乌利希对比较教育的贡献定性为来自欧洲的人文主义厚礼，并将其核心思想提炼为四大相互支撑的精神支柱。
 
 > [!quad-grid] 乌利希人文主义比较[[Paradigm\|范式]]的四大支柱
 > - **始终保持以人（Person）为中心**
@@ -173,7 +174,7 @@ updated: 2026-10-16
 
 > [!influence-path] 影响路径
 > - **理论路径** 继承并弘扬了[[Wilhelm Dilthey|威廉·狄尔泰]]与耶格尔的德国[[Geisteswissenschaften|精神科学]]与[[Paideia|古典教化]]（[[Paideia]]）传统，使美国战后比较教育学保留了深厚的历史文化底色。
-> - **人才培养与师承网络** 在哈佛大学亲自培养了贝雷迪（哥伦比亚大学比较教育领袖）、卡扎米亚斯（威斯康星大学教授、[[Comparative Education Society in Europe\|CESE]] 荣誉会员）以及纳什等杰出学者，构成战后比较教育思想史的核心主干。
+> - **人才培养与师承网络** 在哈佛大学亲自培养了贝雷迪（哥伦比亚大学比较教育领袖）、卡扎米亚斯（威斯康星大学教授、[[Comparative Education Society in Europe\|CESE]] 荣誉会员）以及[[Roy Nash|纳什]]等杰出学者，构成战后比较教育思想史的核心主干。
 > - **教师教育改革** 极力倡导将教育史与比较文明哲学作为教师资格培养的必修核心，抵制行为主义技能训练对[[Normal School\|师范教育]]的侵蚀。
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
@@ -188,7 +189,7 @@ updated: 2026-10-16
 后世学者与门生从人文主义传承与德国古典学脉视角，对乌利希的学术造诣与历史地位给予了崇高评价。
 
 > [!citation-card] Nash论乌利希对比较教育的人文主义厚礼
-> 纳什在悼文中将乌利希对比较教育的贡献定性为“来自欧洲的人文主义厚礼”，指出其以人为中心的人文关切、彻底的历史主义、对教师教育的人文本质反哺以及终生恪守的社会民主信念，为饱受技术主义侵蚀的战后教育学界树立了不可磨灭的人文灯塔。[[Argument_Kazamias_2009_ForgottenThemes\|(Nash, 1977: 147–149; Kazamias, 2009b, p. 52)]]
+> [[Roy Nash|纳什]]在悼文中将乌利希对比较教育的贡献定性为“来自欧洲的人文主义厚礼”，指出其以人为中心的人文关切、彻底的历史主义、对教师教育的人文本质反哺以及终生恪守的社会民主信念，为饱受技术主义侵蚀的战后教育学界树立了不可磨灭的人文灯塔。[[Argument_Kazamias_2009_ForgottenThemes\|(Nash, 1977: 147–149; Kazamias, 2009b, p. 52)]]
 >
 > *Paul Nash characterised Ulich's 'contribution to comparative education' as quintessentially 'humanistic'... keeping the human being firmly at the center of the educational picture.*
 
@@ -216,7 +217,7 @@ updated: 2026-10-16
 > [!person-network] 关系网络
 > - **第二代际学术同行** [[Michael Sadler|萨德勒]]、[[Isaac Kandel|坎德尔]]、汉斯、施奈德 — 共同奠定比较教育第二论述代际的历史哲学人文传统。
 > - **古典学同事** 维尔纳·耶格尔（Werner Jaeger） — 共同弘扬古希腊[[Paideia|古典教化]]（[[Paideia]]）哲学传统。
-> - **指导学生** 卡扎米亚斯、贝雷迪、纳什、珀金森 — 乌利希门生共同构成战后大西洋两岸比较教育与教育史学的核心领军网络。
+> - **指导学生** 卡扎米亚斯、贝雷迪、[[Roy Nash|纳什]]、珀金森 — 乌利希门生共同构成战后大西洋两岸比较教育与教育史学的核心领军网络。
 > - **学术史建制考据者** 拉斯特 — 考据乌利希与坎德尔、施奈德、汉斯共同奠定比较教育学科历史人文传统的奠基地位。[[Argument_Rust_2009_Reflections\|(Rust et al., 2009, pp. 122–123)]]
 
 ---

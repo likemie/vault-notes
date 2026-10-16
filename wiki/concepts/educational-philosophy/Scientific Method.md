@@ -9,7 +9,7 @@ aliases:
 summary: "以经验观察、受控检验与假设证伪为基础的系统性探究程序；传统实证主义将其预设为贯通自然与社会的普适法则，当代科学哲学与科学教育将其重构为多元情境化的社会认识论实践，而现代科学学（Metascience）进一步将科学方法反身应用于评估与革新科研资助及评价制度本身。"
 type: concept
 domain: "educational-philosophy"
-related_count: 84
+related_count: 85
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -83,6 +83,7 @@ related_methods:
   - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
   - "[[Fixed-Effect Model]]"
+  - "[[Research Synthesis]]"
   - "[[Quantitative Research]]"
   - "[[Mixed Methods Research]]"
   - "[[Triangulation]]"
@@ -113,7 +114,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-13
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Scientific Method
@@ -331,7 +332,7 @@ updated: 2026-10-16
 > - [[Argument_Skourdoumbis_2024_AER|Skourdoumbis and Rowe (2024)]] — 批判当代[[Evidence-Based Education|循证教育]]对科学方法的教条化应用，揭示将教学质量简化为[[Meta-analysis|元分析]][[Effect Size|效应量]]与[[Variable|变量]]控制，剥离了教学实践作为人际交往的生成性[[Ontology|本体论]]。
 > - [[Argument_Peterson_1987_OpenCourt|Peterson (1987)]] — 从[[Theory of Knowledge|知识论]]视角界定科学方法的有效性限度与认识论边界，强调[[General Education|通识教育]]的核心在于理解科学方法能够支持哪些结论，以及哪些伦理与价值判断落在其解释范围之外。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 反思[[School Effectiveness|学校效能]]研究与量化评价中过度借用实证科学方法的认识论陷阱，揭示指标驱动的评价模式对微观教育复杂性的遮蔽。
-> - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 从两级[[Fixed-Effect Model|固定效应]]数学公理推导出宏观证据综合的六项方法论要求，运用数据基础批判、内部合规批判与外部认识论批判三层次框架，实证解构《[[Visible Learning|可见的学习]]》借用科学方法外衣却违背基础计量规范引发的排名虚真，提出建设中央标准化证据数据库。
+> - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] — 从两级[[Fixed-Effect Model|固定效应]]数学公理推导出宏观[[Research Synthesis|证据综合]]的六项方法论要求，运用数据基础批判、内部合规批判与外部认识论批判三层次框架，实证解构《[[Visible Learning|可见的学习]]》借用科学方法外衣却违背基础计量规范引发的排名虚真，提出建设中央标准化证据数据库。
 
 ---
 
@@ -351,4 +352,4 @@ updated: 2026-10-16
 > | [[Quantitative Research]] | 方法 | 贯彻实证科学方法的标准化程序，通过变量测量、统计推断与[[Causal Modeling\|因果建模]]呈现规律。 |
 > | [[Mixed Methods Research]] | 方法 | 融合科学方法的量化检验与质性情境诠释，实现对复杂教育现象的多视角[[Triangulation\|三角互证]]。 |
 > | [[Randomised Controlled Trials]] | 方法 | 实验科学方法的黄金标准在教育领域的应用，通过[[Random Assignment\|随机分配]]控制无关变量以确认因果效应。 |
-> | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 科学方法审查 | 从数学公理推导宏观证据综合规范，确立三层次科学方法批判框架并提出中央证据数据库方案。 |
+> | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 科学方法审查 | 从数学公理推导宏观[[Research Synthesis\|证据综合]]规范，确立三层次科学方法批判框架并提出中央证据数据库方案。 |

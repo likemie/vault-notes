@@ -11,7 +11,7 @@ subtype: policy
 region: eu
 fact_region: "eu"
 fact_kind: "policy"
-fact_related_count: 45
+fact_related_count: 46
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dbeafe"
@@ -52,6 +52,7 @@ related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Systematic Review]]"
+  - "[[Research Synthesis]]"
 related_persons: []
 related_facts:
   - "[[EU]]"
@@ -75,7 +76,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-05-23
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # EU Evidence-Informed Education Policy Initiatives
@@ -218,4 +219,4 @@ updated: 2026-10-16
 > | [[Education Endowment Foundation]] | Fact (Organization) | 欧洲范围内实证 [[Randomised Controlled Trials\|RCT]] 规模最大、对欧盟政策话语影响深远的英国旗舰机构。 |
 > | [[Danish Clearinghouse for Educational Research]] | Fact (Organization) | 积极参与 EIPPEE 跨国网络协作的欧洲大陆早期代表性清算机构。 |
 > | [[EU Key Competences for Lifelong Learning]] | Fact (Policy) | 欧盟核心课程政策框架，与证据知情倡议共同构成欧洲教育现代化的双翼。 |
-> | [[Systematic Review]] | Method | 欧盟倡议重点扶植与推广的实证证据综合核心方法。 |
+> | [[Systematic Review]] | Method | 欧盟倡议重点扶植与推广的实证[[Research Synthesis\|证据综合]]核心方法。 |

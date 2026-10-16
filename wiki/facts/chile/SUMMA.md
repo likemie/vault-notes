@@ -12,7 +12,7 @@ subtype: organization
 region: chile
 fact_region: "chile"
 fact_kind: "organization"
-fact_related_count: 36
+fact_related_count: 37
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#dcfce7"
@@ -47,6 +47,7 @@ related_concepts:
   - "[[Social Impact Investing]]"
 related_theories: []
 related_methods:
+  - "[[Research Synthesis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
 related_instruments: []
@@ -72,7 +73,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # SUMMA
@@ -88,7 +89,7 @@ updated: 2026-10-16
 > - **成立时间 / 创设背景** 2015 年巴拿马美洲峰会期间，拉美 7 国教育部部长联合提出设立区域性证据与创新实体的倡议；美洲开发银行依托区域公共产品倡议（Iniciativa Bienes Públicos Regionales）于 2016 年正式出资孵化设立 SUMMA，并于同年在华盛顿特区与智利圣地亚哥举行官方发布。
 > - **总部地点 / 业务辐射** 法定总部与中央办公室设于智利圣地亚哥，在阿根廷、洪都拉斯与加拿大设有常设办事机构；实际常态业务协同网络覆盖拉美和加勒比地区 21 个国家的教育部与国家教育评价机构。
 > - **法人属性与经费基础** 2019 年 12 月完成法定独立注册，成立“SUMMA 基金会”（Fundación SUMMA）作为自主非营利组织。经费来源包含美洲开发银行专项资助、[[BHP Foundation\|必和必拓基金会]]（BHP Foundation）战略资助、成员国政府项目委托以及国际多边机构（如[[Global Partnership for Education\|全球教育伙伴关系]] GPE、加拿大国际发展研究中心 IDRC）的竞争性联合基金。
-> - **核心宗旨与法定职责** 确立教育为基本人权与社会正义支柱的价值定位；核心职责涵盖实证证据综合与多语种转译、一线教学创新方案实验测评、支持国家教育大纲及政策因果评价、以及为拉美各国教育部提供常态化循证决策咨询。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 49)]]
+> - **核心宗旨与法定职责** 确立教育为基本人权与社会正义支柱的价值定位；核心职责涵盖实证[[Research Synthesis|证据综合]]与多语种转译、一线教学创新方案实验测评、支持国家教育大纲及政策因果评价、以及为拉美各国教育部提供常态化循证决策咨询。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 49)]]
 > - **官方门户** 官方网站为 [https://summaedu.org](https://summaedu.org)。
 
 ---

@@ -7,7 +7,7 @@ aliases:
 summary: "由教师主动主导、以明确目标说明、分步示范、有指导练习、理解检查与即时反馈为核心的高结构化教学模式，在程序性知识与基础技能教学中成效显著，但在高阶思维培养中需与情境探究结合以避免教育副作用"
 type: concept
 domain: "instruction-pedagogy"
-related_count: 71
+related_count: 72
 related_level: 7
 related_stars: "💎💎⭐"
 related_color: "#ddd6fe"
@@ -66,6 +66,7 @@ related_methods:
   - "[[Meta-analysis]]"
   - "[[Standard Error]]"
   - "[[Sample Size Determination]]"
+  - "[[Research Synthesis]]"
   - "[[Pre-test and Post-test]]"
   - "[[Confidence Interval]]"
   - "[[Prediction Interval]]"
@@ -98,7 +99,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-04
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Direct Instruction
@@ -249,7 +250,7 @@ updated: 2026-10-16
 > | **高阶思维工具箱定位** | 显性直接传授思维准则是高阶思维形成的重要基石，但须与情境探究融合成混合模式 | 批判性思维课程、创造力培训、跨学科综合探究 | [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]]; [[Argument_Park_2026_TSC\|Park et al. (2026)]] |
 > | **教育副作用与生态代价** | 长期依赖高控制直接教学可能压制学生的创造性探索、好奇心与自我调节能力 | 教学政策评估、全人发展与长周期教育追踪 | [[Argument_Zhao_2017_JEC\|Zhao (2017)]]; [[Argument_Terhart_2011_JCS\|Terhart (2011)]] |
 > | **时序协同与长效保持** | 单一直接教学长效迁移受限，与探究实践前后衔接（如生产性失败与即时支架）方能实现深层概念内化 | 科学概念转变、延迟学业保持与跨情境迁移 | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]; [[Deanna Kuhn\|Dean & Kuhn (2007)]] |
-> | **宏观不可通约与权重扭曲** | 直接教学作为全学年宏观方案与瞬时实验不可通约（德甲联赛隐喻），且在宏观综合中因伪造标准误权重缩水 53.5% | 宏观证据综合、干预时长比较、教学法组合决策 | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] |
+> | **宏观不可通约与权重扭曲** | 直接教学作为全学年宏观方案与瞬时实验不可通约（德甲联赛隐喻），且在宏观综合中因伪造标准误权重缩水 53.5% | 宏观[[Research Synthesis\|证据综合]]、干预时长比较、教学法组合决策 | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] |
 
 ---
 
@@ -260,7 +261,7 @@ updated: 2026-10-16
 > - **1980 年代 — 显性教学原则提炼与普及** Barak Rosenshine 系统提炼出小步子示范、指导练习与即时反馈等 10 项显性教学原则，直接教学从专门补救课程扩展为通用[[Effective Teaching\|有效教学]][[Paradigm\|范式]]。
 > - **1990–2000 年代 — [[Cognitive Load Theory\|认知负荷理论]]支撑与 CSR 全校改革采纳** 认知负荷理论从[[Working Memory\|工作记忆]]局限性为显性指导提供认知[[Scientific Explanation\|科学解释]]；美国全面学校改革计划（Comprehensive School Reform, CSR）将 Direct Instruction 列为受联邦资助的标杆全校方案之一。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]]
 > - **2010 年代至今 — 可见学习综合、副作用反思与时序协同模型** Hattie（$d=0.59$）确立其教师激活地位；[[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 确立其在高阶[[Critical Thinking\|批判性思维]]中的显性混合模式；[[Argument_Zhao_2017_JEC\|Zhao (2017)]] 提出教育副作用理论；[[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] 系统反思直接教学绝对优越论，提出直接教学与[[Inquiry-Based Learning\|探究式学习]]的时序协同模型。
-> - **2016 年 — 宏观证据综合审计与[[Incommensurability|不可通约性]]批判** [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] 揭露 Hattie 二级综合中伪造标准误导致 Haas (2005) 直接教学权重被削减 53.5%，并提出“[[Category Mistake|德甲联赛隐喻]]”，指出直接教学作为全学年宏观方案与瞬时微观实验不可[[Commensuration|通约]]，教师决策应聚焦于其与练习策略的最优组合而非机械非此即彼。
+> - **2016 年 — 宏观[[Research Synthesis|证据综合]]审计与[[Incommensurability|不可通约性]]批判** [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] 揭露 Hattie 二级综合中伪造标准误导致 Haas (2005) 直接教学权重被削减 53.5%，并提出“[[Category Mistake|德甲联赛隐喻]]”，指出直接教学作为全学年宏观方案与瞬时微观实验不可[[Commensuration|通约]]，教师决策应聚焦于其与练习策略的最优组合而非机械非此即彼。
 
 ---
 

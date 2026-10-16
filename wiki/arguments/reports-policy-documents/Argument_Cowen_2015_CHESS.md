@@ -12,7 +12,7 @@ title: "Argument_Cowen_2015_CHESS"
 argument_key: "Argument_Cowen_2015_CHESS"
 argument_display_title: "Making the Most of the Evidence: Evidence-based policy in the classroom"
 argument_kind: "report"
-argument_related_count: 18
+argument_related_count: 19
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dcfce7"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[Creativity]]"
   - "[[Professional Judgment]]"
   - "[[Communities of Practice]]"
+  - "[[Learning Styles]]"
   - "[[Evaluation Research]]"
 related_theories:
   - "[[Cartwright's Three-Stage Knowledge Framework]]"
@@ -56,7 +57,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-01'
-updated: 2026-10-16
+updated: 2026-10-17
 year: 2015
 doi: ""
 citation_aliases:
@@ -105,7 +106,7 @@ citation_aliases:
 > - 时间约束是教师深入参与研究证据的主要障碍(p.25-26)
 > - 教师对"忠实执行"的看法分歧：有人认为应尽可能接近原始研究方案，有人强调理解偏离原始方案的原因即可(p.29-30)
 > - 教师呼吁建立批判性审视研究证据的[[Communities of Practice|实践社群]]，而非被动接受学术指导(p.33)
-> - [[Ofsted]] 被认为既认可了非证据本位的实践（如学习风格理论），又惩罚了合理的教师主导教学，构成 EBP 实施的制度性障碍(p.37-38)
+> - [[Ofsted]] 被认为既认可了非证据本位的实践（如[[Learning Styles|学习风格]]理论），又惩罚了合理的教师主导教学，构成 EBP 实施的制度性障碍(p.37-38)
 > - CPD 现状令人不满：传统"做给你看"模式无效，更有效的是每周固定时段的校内持续性专业发展(p.39)
 > - 许多教师缺乏研究方法训练，无法批判性[[Evaluation Research\|评估研究]]证据(p.44-45)
 

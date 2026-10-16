@@ -9,7 +9,7 @@ title: "Argument_Golovchin_2019_ESC"
 argument_key: "Argument_Golovchin_2019_ESC"
 argument_display_title: "What kind of teacher does the 'school of the future' need? Possibility of using John Hattie's approach in Russian education"
 argument_kind: "journal-article"
-argument_related_count: 40
+argument_related_count: 41
 argument_related_level: 4
 argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
@@ -58,6 +58,7 @@ related_persons:
   - "[[John Hattie]]"
   - "[[Robert Slavin]]"
   - "[[Robert Marzano]]"
+  - "[[Ivan Snook]]"
   - "[[Scott Eacott]]"
 related_facts:
   - "[[Teaching and Learning International Survey]]"
@@ -72,7 +73,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-02'
-updated: 2026-10-16
+updated: 2026-10-17
 year: 2019
 doi: "10.15838/esc.2019.5.65.15"
 citation_aliases:
@@ -198,7 +199,7 @@ citation_aliases:
 > | **N. Brown** | 结论过度依赖对不同效应量的粗暴平均计算，抹杀了具体情境差异。(p.236) |
 > | **D. Haesler** | 质疑能否用一个孤立的数字来标定任何教师在任何课堂对任何学生产生的教学作用。(p.236) |
 > | **G. Jones** | 把性质完全不同的实证研究纳入同一框架强行概括，在统计学上是站不住脚的。(p.236) |
-> | **I. Snook 等 5 位学者** | 1. 汇总的基础文献缺乏严格的效度筛选；<br>2. 排除了贫困、社会阶层、学生年龄与个体差异等关键环境变量；<br>3. 仅关注可量化的考试结果，无视态度、品行与素养等难以量化的质性育人成果；<br>4. 将统计关联非法偷换为[[Causality\|因果关系]]，强行对比无异于把苹果和橘子放在一起比较；<br>5. 结论主要基于英语国家样本，不可任意普适化；基准线设定具有主观随意性。(p.236) |
+> | **[[Ivan Snook\|I. Snook]] 等 5 位学者** | 1. 汇总的基础文献缺乏严格的效度筛选；<br>2. 排除了贫困、社会阶层、学生年龄与个体差异等关键环境变量；<br>3. 仅关注可量化的考试结果，无视态度、品行与素养等难以量化的质性育人成果；<br>4. 将统计关联非法偷换为[[Causality\|因果关系]]，强行对比无异于把苹果和橘子放在一起比较；<br>5. 结论主要基于英语国家样本，不可任意普适化；基准线设定具有主观随意性。(p.236) |
 > | **A. Kamenetz** | 将不同年龄段、不同教学条件、不同干预强度的成果混合计算，极易导出错误指引。(p.236) |
 > | **[[Robert Slavin\|R. Slavin]]** | 简单丢弃低于 0.40 的所有[[Variable\|变量]]是不科学的；盲目信任底层元分析而未做批判性筛选。(p.236) |
 > | **[[Argument_Terhart_2011_JCS\|E. Terhart]]** | 忽视[[Qualitative Research\|质性研究]]，排除校外社会经济背景；数据时效滞后；未清晰阐明底层元分析在多次叠加计算后如何保证客观性。(p.236) |

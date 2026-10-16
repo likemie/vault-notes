@@ -7,7 +7,7 @@ aliases:
 summary: "起源于美国《个体残疾人教育法》（IDEA 2004）的三层教学支持与特殊教育筛查模型，通过核心通用教学（Tier 1）、小组针对性辅导（Tier 2）和高强度个别辅导（Tier 3）提供梯度干预，后经斯莱文发展为以强证据项目系统填充各层的循证干预反应（RTPI）改革方案"
 type: concept
 domain: "educational-policy-reform"
-related_count: 47
+related_count: 49
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -21,6 +21,7 @@ related_concepts:
   - "[[Grade Retention]]"
   - "[[Response to Proven Instruction]]"
   - "[[Evidence Standards]]"
+  - "[[Peer-Supported Learning]]"
   - "[[Teaching Assistant]]"
   - "[[Implementation Fidelity]]"
   - "[[Comprehensive Education]]"
@@ -35,6 +36,7 @@ related_concepts:
 related_methods:
   - "[[Effect Size]]"
   - "[[Cohort Study]]"
+  - "[[Research Synthesis]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Meta-meta-analysis]]"
   - "[[Meta-analysis]]"
@@ -72,7 +74,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Response to Intervention
@@ -116,7 +118,7 @@ updated: 2026-10-16
 ## 核心要素
 
 > [!feature] RTI / [[Response to Proven Instruction\|RTPI]] 的三层递进架构
-> - **TIER 1 — 全员核心通用教学（Core Classroom Instruction）** 面向全体学生的日常高质量课堂教学。在 RTPI 中，要求采用达到 [[Every Student Succeeds Act\|ESSA]] 强[[Evidence Standards\|证据标准]]的全校/全班改革方案（如 [[Success for All]]、[[Peer-Assisted Learning Strategies\|同伴辅助学习策略]]（Peer-Assisted Learning Strategies, PALS）），有效预防 80% 以上学生的学业困难。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 27)]]
+> - **TIER 1 — 全员核心通用教学（Core Classroom Instruction）** 面向全体学生的日常高质量课堂教学。在 RTPI 中，要求采用达到 [[Every Student Succeeds Act\|ESSA]] 强[[Evidence Standards\|证据标准]]的全校/全班改革方案（如 [[Success for All]]、[[Peer-Assisted Learning Strategies\|同伴辅助学习策略]]（[[Peer-Supported Learning|peer-assisted learning]] Strategies, PALS）），有效预防 80% 以上学生的学业困难。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 27)]]
 > - **Tier 2 — 小组针对性补充辅导（Targeted Small-Group Tutoring）** 面向在 Tier 1 中仍存在轻度落后的约 10%–15% 处境不利学生。采用结构化的小组辅导方案（如 1 对 2 至 1 对 6），由认证教师或经过系统培训的教学助教（[[Teaching Assistant]], TA）实施，加权[[Effect Size\|效应量]]达 +0.20 至 +0.64。
 > - **Tier 3 — 密集型一对一个别辅导（Intensive One-to-One Tutoring）** 面向经历 Tier 2 后仍有严重阅读或数学障碍的 2%–5% 高危学生。由专业教师或资深助教提供每日高强度 1 对 1 辅导（如 [[Reading Recovery]]、[[Sound Partners]]），加权效应量最高达 +0.86，以此作为替代特教转介的最后强效防线。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
@@ -197,7 +199,7 @@ updated: 2026-10-16
 > > - **循证规范派（Slavin）** 强调必须严格遵循原实验验证的教学规程与时长剂量，任何非标准化裁剪都会大幅削弱干预效能。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 27)]]
 > > - **情境生态派（Bryk）** 认为标准化方案忽略了学校组织内部的微观[[Heterogeneity\|异质性]]，应当通过网络化改进社区（Networked Improvement Communities, NICs）发展本地化自适应方案。
 >
-> > [!axis] 二阶证据综合中的结局指标与设计混淆（基于 Kalmendal et al., 2025）
+> > [!axis] 二阶[[Research Synthesis|证据综合]]中的结局指标与设计混淆（基于 Kalmendal et al., 2025）
 > > 关于宏观证据库如何[[Transcription in Qualitative Research|转录]]与综合 RTI 效能。RTI 本质上是面向中小学困难儿童的学业补救与特教防线，但在[[Meta-meta-analysis|二阶元分析]]数据库中遭遇了严重的指标掺杂。
 > >
 > > - **非学业测量污染学业效应** 《[[Visible Learning|可见的学习]]》在 RTI 影响因素中直接收录了 Tran et al. (2011) 的[[Meta-analysis|元分析]]，混杂了行为表现与智商测试指标；并收录了 Burns and Symington (2002) 针对大学生的组内设计观察行为，直接违背了针对中小学基础学业的 [[PICO Framework|PICO]] 准入红线。

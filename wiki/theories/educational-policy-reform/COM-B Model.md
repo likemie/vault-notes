@@ -9,7 +9,7 @@ aliases:
 summary: "由苏珊·米奇等提出的行为系统理论模型，认为行为改变是能力（身体与心理）、机会（物理与社会）和动机（反思与自发）交互作用的产物；在教育政策与知识动员中，它被用于解释为何单纯信息推送无法改变实践，并为循证中介机构设计多维支持体系提供行为科学基石"
 type: theory
 theory_field: "educational-policy-reform"
-theory_related_count: 32
+theory_related_count: 33
 theory_related_level: 3
 theory_related_stars: "💎"
 theory_related_color: "#ede9fe"
@@ -47,6 +47,7 @@ related_methods:
   - "[[Analytic Framework]]"
   - "[[Effect Size]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Research Synthesis]]"
 related_instruments: []
 related_persons:
   - "[[Jonathan Sharples]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # COM-B Model
@@ -178,7 +179,7 @@ updated: 2026-10-16
 > |:-----|:-----|:-----|
 > | [[Theory of Change]] | Theory | COM-B 模型为[[Educational Brokerage Agency\|知识中介机构]]的变革理论提供了微观行为维度的因果机制依托。 |
 > | [[Research Utilization Models]] | Theory | 与双社区理论、知识转化（KTA）模型互补，补充了行为科学维度的微观解释力。 |
-> | [[Evidence Ecosystem]] | Concept | COM-B 模型解释了证据生态中从“证据综合”跨越至“一线决策与实践”的微观行为机制。 |
+> | [[Evidence Ecosystem]] | Concept | COM-B 模型解释了证据生态中从“[[Research Synthesis\|证据综合]]”跨越至“一线决策与实践”的微观行为机制。 |
 > | [[Educational Brokerage Agency]] | Concept | 现代[[Knowledge Mediation\|知识中介]]机构在设计支持服务时，强制要求以 COM-B 为依据开展需求诊断。 |
 > | [[Evidence-Informed Practice]] | Concept | 探讨专业人员如何在结合专业技能与证据的同时，克服能力与动机障碍。 |
 > | [[Research Schools Network]] | Fact (Organization) | 运用 COM-B 模型搭建实证大使与校际支持网络以改变课堂教学行为的经典案例。 |

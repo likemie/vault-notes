@@ -9,7 +9,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 115
+fact_related_count: 116
 fact_related_level: 11
 fact_related_stars: "💎💎💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -78,6 +78,7 @@ related_methods:
   - "[[Randomised Controlled Trials]]"
   - "[[Random Assignment]]"
   - "[[Quasi-Experimental Designs]]"
+  - "[[Research Synthesis]]"
   - "[[Pre-test and Post-test]]"
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
@@ -147,7 +148,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Education Endowment Foundation
@@ -274,7 +275,7 @@ updated: 2026-10-16
 > - **创设母体与跨国资本支持** [[Sutton Trust\|萨顿信托]]与[[Impetus\|动力基金会]]在公开竞标中胜出并联合创设 EEF，深度输送跨国金融、商业法律与私募股权资本；[[BHP Foundation\|必和必拓基金会]]提供数百万英镑专项资助，强力支撑 EEF 的全球证据生态扩张。
 > - **核心治理中枢与专家智囊** 受托人理事会（Board of Trustees）汇聚政商学界高管掌舵战略投资；执行管理层由创始首席执行官[[Sir Kevan Collins\|柯文·科林斯爵士]]（Sir Kevan Collins）等专业团队统筹运作；评估顾问小组（Evaluation Advisory Group, EAG）负责把关因果实证方法学标准。
 > - **证据生产与独立评估防火墙** EEF 严格实行干预开发者与评估者彻底剥离的“独立三方协议”制度：项目干预开发者负责教学创新方案的开发与交付，评估者专家库（顶尖大学科研团队）通过公开竞标独立主持实施大规模 [[Randomised Controlled Trials\|RCT]] 试验，并将方案在[[ISRCTN\|国际标准随机对照试验编码]]（ISRCTN）[[Preregistration\|预注册]]、微观数据接入[[National Pupil Database\|国家学生数据库]]（NPD）纵向归档。
-> - **循证实践与基层学校生态** 经过多维证据综合形成的《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》和主题指导报告，依托 40 所[[Research Schools Network\|研究学校网络]]（RSN）作为边界跨越枢纽，向覆盖全英 80% 以上的公立中小学进行校际教研推广与常态化能力建设。
+> - **循证实践与基层学校生态** 经过多维[[Research Synthesis|证据综合]]形成的《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》和主题指导报告，依托 40 所[[Research Schools Network\|研究学校网络]]（RSN）作为边界跨越枢纽，向覆盖全英 80% 以上的公立中小学进行校际教研推广与常态化能力建设。
 > - **跨国辐射与全球镜像网络** EEF 跨国输出中介模式，出资扶持澳大利亚[[Social Ventures Australia\|SVA]]旗下中介原型[[Evidence for Learning\|E4L]]并促成澳国家级机构[[Australian Education Research Organisation\|AERO]]创设；携手必和必拓基金会共建拉美中介[[SUMMA]]；牵头协调覆盖 20 国的全球[[Evidence for Education Network\|教育证据网络]]（EEN）。
 
 > [!pathways]- 业务运行与生态化转化机制

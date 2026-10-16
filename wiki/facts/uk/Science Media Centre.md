@@ -11,7 +11,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 28
+fact_related_count: 29
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -47,6 +47,7 @@ related_theories: []
 related_methods:
   - "[[Mixed Methods Research]]"
   - "[[Snowball Sampling]]"
+  - "[[Research Synthesis]]"
   - "[[Systematic Review]]"
 related_instruments: []
 related_persons: []
@@ -64,7 +65,7 @@ related_arguments:
 confidence: high
 status: draft
 created: '2026-09-03'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Science Media Centre
@@ -167,7 +168,7 @@ updated: 2026-10-16
 > > [!axis] 争议二：突发新闻驱动对系统性长效知识累积的结构性挤出
 > > [[Epistemic Governance\|知识治理]]学者指出了大众媒体导向型中介模式在[[Knowledge Production\|知识生产]]与累积维度上的固有局限性。
 > >
-> > - **[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022, p. 62)]]** 大众媒体导向型中介机构（如 [[Education Media Centre\|EMC]]）的核心工作高度依赖于外部突发新闻议程与公共舆论热点，属于“反应性”（Reactive）而非“前瞻性”（Proactive）机制。这种运作节奏使其难以自主规划长效、系统的证据综合体系，容易在不同热点舆论之间疲于奔命。
+> > - **[[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022, p. 62)]]** 大众媒体导向型中介机构（如 [[Education Media Centre\|EMC]]）的核心工作高度依赖于外部突发新闻议程与公共舆论热点，属于“反应性”（Reactive）而非“前瞻性”（Proactive）机制。这种运作节奏使其难以自主规划长效、系统的[[Research Synthesis|证据综合]]体系，容易在不同热点舆论之间疲于奔命。
 > > - **中介协同启示** 必须将大众媒体中介与以 [[EPPI-Centre]] 或 [[What Works Clearinghouse\|WWC]] 为代表的长期[[Systematic Review\|系统综述]]清算机构紧密结合，使快速媒介反应依托于深厚的累积性实证知识库，方能实现公共舆论沟通与学科长效积累的良性互动。
 
 ---

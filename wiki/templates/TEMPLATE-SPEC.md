@@ -65,7 +65,7 @@ updated: 2026-10-15
 - Argument YAML `sources` 由脚本维护；正文 `## 来源` 只列 source record wikilink。来源链接必须使用相对于 vault 根目录的完整路径并保留简短显示名，例如 `[[sources/Author_Year_Journal|Author_Year_Journal]]` 或 `[[books/Book_Folder/Book_Record|Book_Record]]`；禁止只写文件名，否则 Quartz 无法正确解析同名文件夹笔记。
 - Argument 不使用 `aliases`；Concept / Theory / Method / Instrument / Fact / Person 使用 `aliases` 作为检索和自动补链白名单。
 - Argument 使用 `source_language: en` 或 `source_language: zh` 标记原始出版语言。中文原始文献的 `authors` 使用中英双语显示，如 `[[Yajun Zheng|郑雅君（Zheng, Y.）]]`。
-- 中文原始文献的 `citation` 使用中文著录，`citation_aliases` 只生成中文作者年形式；不要同时生成英文作者年 alias。`citation_linker.py` 只按生成后的中文 alias 匹配该文献。
+- 中文原始文献的 `citation` 使用中文著录，`citation_aliases` 只生成中文作者年形式；不要同时生成英文作者年 alias。`wiki_linker.py` 只按生成后的中文 alias 匹配该文献。
 - 中文期刊论文同样使用 `source_language: zh`：`authors` 保留中文名和英文转写，`citation` 使用中文作者、中文篇名和中文期刊名，`argument_display_title` 使用中文原题；citation 索引和 linker 不生成或匹配英文转写引文。
 - 著作、教材、论文集及论文集章节填写 `publication_place` 和 `publisher`；完整 citation 的出版项写作 `Place: Publisher.`，如 `北京: 高等教育出版社.`。
 - `related_*`、Argument YAML `sources`、source record 的 `extracted_to` 都是生成字段，不手动维护。
@@ -90,12 +90,12 @@ updated: 2026-10-15
 - `doi` 可留空；著作、教材或论文集章节若能确认 ISBN，可写入 `isbn`。
 - `citation_aliases` 由 `scripts/citation_index.py` 自动生成，AI 不手动维护。
 - `citation_aliases` 只保留基本作者年份形式：`Author, Year` 与 `Author (Year)`。
-- 不把页码形式写进 `citation_aliases`；页码由 `scripts/citation_linker.py` 在正文补链时动态识别。
+- 不把页码形式写进 `citation_aliases`；页码由 `scripts/wiki_linker.py sync --citations-only` 在正文补链时动态识别。
 - 英文文献按 APA 生成英文 alias：双作者用 `&`，三位及以上用 `et al.`。机器索引的 alias 保持此规范；正文及链接显示文本的双作者叙述式使用 `and`，如 `Hofer and Pintrich (1997)`，括号式使用 `&`，如 `(Hofer & Pintrich, 1997)`。检查器和补链器按引用形式处理显示文本。
 - 可引用 Argument 必须填写非空完整 `citation`；`vault_lint.py` 与 `citation_index.py --check` 均检查。专著和教材的章节 Argument 可继承全书引用，论文集 overview 不作为可引用单元。
 - 中文论文或著作若 `citation` 字段含中文作者名，`scripts/citation_index.py` 会额外生成中文 alias，例如 `郑雅君, 2023` 与 `郑雅君 (2023)`；中文双作者用“和”，三位及以上用“等”。
 - 同一作者同一年多篇文献时，`scripts/citation_index.py` 自动追加 `a`、`b`、`c` 后缀。
-- 正文 APA 短引用补链由 `scripts/citation_linker.py` 完成；用户确认标准流程后由 `.venv/bin/python3 scripts/vault_index.py --standard-workflow` 统一触发。
+- 正文 APA 短引用补链由 `scripts/wiki_linker.py sync --citations-only` 完成；基础索引自动执行增量引用补链；普通双链与引用的统一补链由显式标准流程 `.venv/bin/python3 scripts/vault_index.py --standard-workflow` 触发。
 - 处理完成后只自动运行基础索引：`.venv/bin/python3 scripts/vault_index.py`。补链、关系同步和 lint 需要先询问用户。
 
 ---

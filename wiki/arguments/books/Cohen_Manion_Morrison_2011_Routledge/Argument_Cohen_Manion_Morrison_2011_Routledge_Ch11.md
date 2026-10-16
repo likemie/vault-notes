@@ -11,7 +11,7 @@ title: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11"
 argument_key: "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11"
 argument_display_title: "Research Methods in Education · Ch11"
 argument_kind: "book-chapter"
-argument_related_count: 85
+argument_related_count: 86
 argument_related_level: 8
 argument_related_stars: "💎💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -94,6 +94,7 @@ related_methods:
   - "[[Grounded Theory]]"
   - "[[Case Study]]"
   - "[[Systematic Review]]"
+  - "[[Research Synthesis]]"
   - "[[Quantitative Research]]"
   - "[[Fieldwork]]"
   - "[[Sampling Frame]]"
@@ -122,7 +123,7 @@ sources:
 part_of: "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 status: draft
 created: 2026-06-24
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # Argument_Cohen_Manion_Morrison_2011_Routledge_Ch11
 
@@ -235,7 +236,7 @@ Lincoln and Guba（1985, pp. 39–43）将这些公理转化为以下几组操�
 > | 功能 | 说明 |
 > |------|------|
 > | 识别和精炼综述问题 | 充当完整综述的前置研究。 |
-> | 为研究综合提供自身数据 | 质性数据本身可作为综合的素材。 |
+> | 为[[Research Synthesis\|研究综合]]提供自身数据 | 质性数据本身可作为综合的素材。 |
 > | 指示利益攸关的结果 | 识别对谁而言哪些结果重要。 |
 > | 补充和增强量化综述 | 与量化数据互补。 |
 > | 填补量化综述的空白 | 覆盖[[Quantitative Research\|量化研究]]未触及的维度。 |

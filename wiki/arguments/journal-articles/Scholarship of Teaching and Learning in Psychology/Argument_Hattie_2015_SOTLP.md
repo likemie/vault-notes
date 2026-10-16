@@ -9,7 +9,7 @@ title: "Argument_Hattie_2015_SOTLP"
 argument_key: "Argument_Hattie_2015_SOTLP"
 argument_display_title: "The applicability of Visible Learning to higher education"
 argument_kind: "journal-article"
-argument_related_count: 8
+argument_related_count: 9
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Research Synthesis]]"
 related_persons: []
 related_facts: []
 related_arguments: []
@@ -38,7 +39,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-04'
-updated: '2026-06-08'
+updated: 2026-10-17
 year: 2015
 doi: ""
 citation_aliases:
@@ -53,7 +54,7 @@ citation_aliases:
 ## 理论框架
 
 > [!abstract] 理论框架
-> - [[Visible Learning]] — 以[[Effect Size\|效应量]]排名为基础的教育证据综合框架，将 1200 项[[Meta-analysis\|元分析]]的结果应用于高等教育情境
+> - [[Visible Learning]] — 以[[Effect Size\|效应量]]排名为基础的教育[[Research Synthesis|证据综合]]框架，将 1200 项[[Meta-analysis\|元分析]]的结果应用于高等教育情境
 
 ## 研究方法
 

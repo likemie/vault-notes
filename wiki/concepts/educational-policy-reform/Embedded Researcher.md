@@ -7,7 +7,7 @@ aliases:
 summary: "常驻于教育行政部门或学校实践机构内部，依托科研训练背景在真实工作情境中开展证据转化、需求匹配与跨界中介的专业人员，旨在弥合研究与实践断层并重塑组织循证文化"
 type: concept
 domain: "educational-policy-reform"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -37,6 +37,7 @@ related_concepts:
 related_theories:
   - "[[Organizational Culture]]"
 related_methods:
+  - "[[Research Synthesis]]"
   - "[[Correlational Research]]"
   - "[[Analytic Framework]]"
 related_instruments: []
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-13
-updated: 2026-10-15
+updated: 2026-10-17
 ---
 
 # Embedded Researcher
@@ -89,7 +90,7 @@ updated: 2026-10-15
 > |---|---|---|---|---|
 > | **组织归属与情境** | 长期嵌入教育部委、学区或中小学实践环境 | 归属于大学、研究机构或高等学术院所 | 归属于各级政府行政机构或学校管理处室 | 归属于外部咨询公司、营利智库或高校 |
 > | **核心评价激励** | 决策证据支撑成效、实践改良质量与跨界协作度 | 同行评议学术期刊论文发表、科研基金中标率 | 行政程序合规性、政令执行效率与政策推进速度 | 项目合同交付效率、客户满意度与商业营收 |
-> | **知识流动机制** | 双向互动、即时问题澄清、快速证据综合与需求转化 | 单向研究成果产出（“推”模型）与学术交流 | 自上而下的指令传达或经验性行政裁决 | 短期委托定向报告交付（交易型采买） |
+> | **知识流动机制** | 双向互动、即时问题澄清、快速[[Research Synthesis\|证据综合]]与需求转化 | 单向研究成果产出（“推”模型）与学术交流 | 自上而下的指令传达或经验性行政裁决 | 短期委托定向报告交付（交易型采买） |
 > | **角色核心优势** | 深谙组织内部政治与实践约束，具备高度人际信任资本 | 理论视野前沿，分析方法严谨规范 | 熟悉公文流转规范、行政协调流程与权力运作节点 | 独立第三方视角，专业知识灵活输入 |
 
 ---

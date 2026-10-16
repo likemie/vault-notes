@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 16
+fact_related_count: 17
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -33,7 +33,8 @@ related_concepts:
   - "[[Research Universities]]"
   - "[[Research Translation]]"
 related_theories: []
-related_methods: []
+related_methods:
+  - "[[Research Synthesis]]"
 related_instruments: []
 related_persons: []
 related_facts:
@@ -50,7 +51,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # National Research Council
@@ -60,7 +61,7 @@ updated: 2026-10-16
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 美国国家科学研究委员会（National Research Council, NRC）是[[National Academy of Sciences|美国国家科学院]]（NAS）、国家工程院（NAE）和国家医学院（NAM）三大学术院联合设立的主导常设运营中枢与国家最高科学咨询实体。该机构遵循美国国会法定特许状运作，以出具具有崇高学术公信力、超越两党政治偏见的独立同行评审证据综合报告著称；在[[Common Core State Standards|共同核心州立标准]]（Common Core State Standards, CCSS）运动发起之初，NRC 承担了系统审查全美基于标准的问责制实证文献、提炼核心改革原则并确立顶层科学合法性的奠基性功能。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–10)]]
+> 美国国家科学研究委员会（National Research Council, NRC）是[[National Academy of Sciences|美国国家科学院]]（NAS）、国家工程院（NAE）和国家医学院（NAM）三大学术院联合设立的主导常设运营中枢与国家最高科学咨询实体。该机构遵循美国国会法定特许状运作，以出具具有崇高学术公信力、超越两党政治偏见的独立同行评审[[Research Synthesis|证据综合]]报告著称；在[[Common Core State Standards|共同核心州立标准]]（Common Core State Standards, CCSS）运动发起之初，NRC 承担了系统审查全美基于标准的问责制实证文献、提炼核心改革原则并确立顶层科学合法性的奠基性功能。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–10)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 创立于 1916 年。由时任美国总统伍德罗·威尔逊（Woodrow Wilson）倡议成立，旨在将全美顶尖科学家与技术专家的智力资源组织化，为联邦政府及各州在重大公共危机与战略决策中提供独立、客观且经严格同行评审的科学咨询。

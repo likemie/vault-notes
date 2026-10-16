@@ -11,7 +11,7 @@ subtype: program
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "program"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -40,6 +40,7 @@ related_theories:
   - "[[Knowledge Building Theory]]"
   - "[[Inquiry Cycle]]"
 related_methods:
+  - "[[Research Synthesis]]"
   - "[[Systematic Review]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Effect Size]]"
@@ -60,7 +61,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-09-12
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Best Evidence Synthesis
@@ -70,7 +71,7 @@ updated: 2026-10-16
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> 最佳证据综合项目（Best Evidence Synthesis Iteration, BES）是新西兰教育部（Ministry of Education）自 2003 年起主导设立的部委嵌入型国家级[[Knowledge Mediation\|知识中介]]项目，旨在系统综合全球与本土关于优质教学、[[School Leadership\|学校领导力]]及教师专业学习的实证证据，直接服务于国家课程实施与多元文化学校教育改进([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 57, 61–62]])。
+> 最佳[[Research Synthesis|证据综合]]项目（Best Evidence Synthesis Iteration, BES）是新西兰教育部（Ministry of Education）自 2003 年起主导设立的部委嵌入型国家级[[Knowledge Mediation\|知识中介]]项目，旨在系统综合全球与本土关于优质教学、[[School Leadership\|学校领导力]]及教师专业学习的实证证据，直接服务于国家课程实施与多元文化学校教育改进([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 57, 61–62]])。
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2003 年启动；历经多卷本[[Systematic Review\|系统综述]]研发期（2003–2010）、实践案例转化期（2011–2018）以及数字化资源库常态化运维期，处于持续运营与职能转型状态([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 57, 64]])。
@@ -92,7 +93,7 @@ updated: 2026-10-16
 > - **干预措施与资源包** 资助并发布涵盖四大主题领域的旗舰综合专著，配套研发“行动中的证据”（Evidence in Action）课堂实景视频、教师反思工具与领导力实践指南([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 64]])。
 
 > [!citation-card] Burns & Schuller 论 BES 的嵌入型中介特征与职能转型
-> 一些机构或项目主要由教育部资助并直接嵌入在教育部内部。其中一个代表性案例是新西兰的最佳证据综合项目（BES），该项目传统上为那些希望对可用证据进行综合的研究人员提供切实的动手指导；如今这一职能已经终止，工作重点已转向对现有可用证据的中介传播。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 61–62]])
+> 一些机构或项目主要由教育部资助并直接嵌入在教育部内部。其中一个代表性案例是新西兰的最佳[[Research Synthesis|证据综合]]项目（BES），该项目传统上为那些希望对可用证据进行综合的研究人员提供切实的动手指导；如今这一职能已经终止，工作重点已转向对现有可用证据的中介传播。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 61–62]])
 >
 > *Some agencies or programmes are principally funded by the Ministry and are embedded with the Ministry itself. One example of this is New Zealand’s Best Evidence Synthesis programme, which traditionally provided hands-on guidance to those wishing to conduct a synthesis of available evidence (this function has now ended, and the focus has shifted to brokering evidence already available).*
 

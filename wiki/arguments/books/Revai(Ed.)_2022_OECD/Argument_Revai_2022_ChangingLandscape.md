@@ -7,7 +7,7 @@ title: "Argument_Revai_2022_ChangingLandscape"
 argument_key: "Argument_Revai_2022_ChangingLandscape"
 argument_display_title: "The changing landscape of research use in education"
 argument_kind: "book-chapter"
-argument_related_count: 61
+argument_related_count: 62
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -82,6 +82,7 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Qualitative Research]]"
+  - "[[Research Synthesis]]"
   - "[[Effect Size]]"
   - "[[Questionnaire]]"
 related_instruments: []
@@ -103,7 +104,7 @@ sources:
   - "[[books/Revai(Ed.)_2022_OECD/Ch01_Revai_2022|Ch01_Revai_2022]]"
 status: draft
 created: 2026-09-12
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # Argument_Revai_2022_ChangingLandscape
 
@@ -189,7 +190,7 @@ updated: 2026-10-16
 
 #### 1. 医学证据等级模式向教育领域的机械移植诱发了实证主义偏误与专业性危机
 
-在工具主义循证政策推动下，英美等国先后确立了以量化证据综合为导向的中介架构：（p.17）
+在工具主义循证政策推动下，英美等国先后确立了以量化[[Research Synthesis|证据综合]]为导向的中介架构：（p.17）
 
 > [!case] 实证主义证据等级导向的中介机制探索
 > - **新西兰[[Best Evidence Synthesis\|最佳证据综合]]（Best Evidence Synthesis, BES）**

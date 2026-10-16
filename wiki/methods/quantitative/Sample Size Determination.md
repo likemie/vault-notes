@@ -10,7 +10,7 @@ summary: "研究设计中确定样本大小的决策过程，权衡统计功效�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 37
+method_related_count: 38
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -50,6 +50,7 @@ related_methods:
   - "[[Questionnaire]]"
   - "[[Meta-regression]]"
   - "[[Standard Error]]"
+  - "[[Research Synthesis]]"
   - "[[Transcription in Qualitative Research]]"
   - "[[Power Analysis]]"
   - "[[Cluster Randomized Trials]]"
@@ -66,7 +67,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-06-21
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Sample Size Determination
@@ -153,7 +154,7 @@ updated: 2026-10-16
 ### 命题二　二阶证据综合中伴随样本量的失真暴露了底层提取质量的系统性溃败
 
 > [!concept-lens] [[Meta-meta-analysis|二阶元分析]]与证据库审计中的样本量准确度危机
-> 探讨宏观证据综合项目在[[Transcription in Qualitative Research|转录]]一阶文献时样本量报告的[[Reliability|信度]]危机。
+> 探讨宏观[[Research Synthesis|证据综合]]项目在[[Transcription in Qualitative Research|转录]]一阶文献时样本量报告的[[Reliability|信度]]危机。
 
 > [!claim] Kalmendal, A.
 > **二阶[[Meta-analysis|元分析]]中伴随受试样本量的高失误率证实了底层数据整理机制的系统性失效。** 对《[[Visible Learning|可见的学习]]》全库开展的独立复现检验显示，在 301 项可查影响因素中，仅有 2 项能成功复现。即使在[[Effect Size|效应量]]数值勉强核对正确的少数案例中，伴随的学生受试样本量错误率仍高达 **72%**。大量的学生样本量在原文中完全不存在，充斥着无根据的人为主观估算。样本量的虚假膨胀与胡乱拼凑直接扭曲了宏观证据的综合权重，构成了二阶综合面临的最根本[[Metascience|元科学]]质量危机。[[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 18–19)]]

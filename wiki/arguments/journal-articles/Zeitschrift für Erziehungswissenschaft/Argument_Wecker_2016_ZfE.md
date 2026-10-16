@@ -11,7 +11,7 @@ title: "Argument_Wecker_2016_ZfE"
 argument_key: "Argument_Wecker_2016_ZfE"
 argument_display_title: "Visionär und imposant – aber auch belastbar? Eine Kritik der Methodik von Hatties Visible Learning [Visionary and impressive – but also robust? A critique of the methodology of Hattie's Visible Learning]"
 argument_kind: "journal-article"
-argument_related_count: 38
+argument_related_count: 39
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dbeafe"
@@ -58,6 +58,7 @@ related_methods:
   - "[[Fixed-Effect Model]]"
   - "[[Standard Error]]"
   - "[[Inverse-Variance Weighting]]"
+  - "[[Research Synthesis]]"
   - "[[Effect Size Conversion]]"
   - "[[Sample Size Determination]]"
   - "[[Confidence Interval]]"
@@ -78,7 +79,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-03'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # Argument_Wecker_2016_ZfE
 
@@ -158,7 +159,7 @@ updated: 2026-10-16
 
 #### 1. 固定效应模型的代数等价性：当原始研究独立时二级加权等价于一级合成
 
-哈蒂明确声明其计算建立在[[Fixed-Effect Model|固定效应模型]]之上（Hattie, 2009, p. 12），该模型假定所有纳入研究均在估计同一个恒定真实效应，样本变异完全源于[[Sampling Error|抽样误差]]。从该假定出发，克里斯托夫·[[Christof Wecker|韦克尔]]（Christof Wecker）等人推导了证据综合的参数规约与跨层加权代数结构：
+哈蒂明确声明其计算建立在[[Fixed-Effect Model|固定效应模型]]之上（Hattie, 2009, p. 12），该模型假定所有纳入研究均在估计同一个恒定真实效应，样本变异完全源于[[Sampling Error|抽样误差]]。从该假定出发，克里斯托夫·[[Christof Wecker|韦克尔]]（Christof Wecker）等人推导了[[Research Synthesis|证据综合]]的参数规约与跨层加权代数结构：
 
 > [!synthesis-model] 二级固定效应证据综合的参数规约与依赖结构
 > - **[[Effect Size|效应量]]指标（Effect Size Metric）** 理论要求采用性质一致且经小样本偏倚校正的标准化均值差（Hedges' $g$）；合并相关系数必须经 Fisher's $z$ 变换（[[Effect Size Conversion|效应量换算]]）。（pp. 25–27）

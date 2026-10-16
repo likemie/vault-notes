@@ -8,7 +8,7 @@ summary: "美国教育心理学家与统计学家 1976年创造元分析一词�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 36
+person_related_count: 37
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -46,6 +46,7 @@ related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Research Synthesis]]"
   - "[[Experimental Research]]"
   - "[[Qualitative Research]]"
   - "[[Meta-meta-analysis]]"
@@ -67,7 +68,7 @@ related_arguments:
 confidence: high
 status: active
 created: "2026-06-08"
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Gene Glass
@@ -84,7 +85,7 @@ updated: 2026-10-16
 > [!citation-card] 人物定位的关键来源
 > 元分析不仅改变了心理学与医学对效果研究的评价方式，更重新定义了社会科学整合分散证据的基础法则。格拉斯的初衷是打破传统[[Literature Review|文献综述]]的主观偏向，但他也始终警示：元分析绝不能沦为掩盖实践复杂性的单一平均数字。[[Argument_Higgins_2016_ROE|(Higgins, 2016, pp. 36–37)]]
 >
-> *Meta-analysis not only transformed how outcome research was evaluated across psychology and medicine, but also redefined the fundamental rules of evidence synthesis in social science. Glass intended to overcome the subjective bias of narrative reviews, yet he consistently warned that meta-analysis must never degenerate into a single average number that obscures practical complexity.*
+> *Meta-analysis not only transformed how outcome research was evaluated across psychology and medicine, but also redefined the fundamental rules of [[Research Synthesis|Evidence Synthesis]] in social science. Glass intended to overcome the subjective bias of narrative reviews, yet he consistently warned that meta-analysis must never degenerate into a single average number that obscures practical complexity.*
 
 ---
 
@@ -141,7 +142,7 @@ updated: 2026-10-16
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 确立了[[Empiricism|经验主义]]与[[Postpositivism|后实证主义]]多源证据综合的合法性，促使社会科学摆脱单一小样本研究的片面局限。
+> - **理论路径** 确立了[[Empiricism|经验主义]]与[[Postpositivism|后实证主义]]多源[[Research Synthesis|证据综合]]的合法性，促使社会科学摆脱单一小样本研究的片面局限。
 > - **方法路径** 使[[Meta-analysis|元分析]]跃升为医学（如 Cochrane 协作网）与教育学（如 Campbell 协作网）的标准综合工具；Glass's $\Delta$ 奠定了跨量表标准化[[Effect Size|效应量]]的通用算法。
 > - **政策路径** 深刻启发了现代[[Evidence-Based Education|循证教育]]与政策证据库（如美国 [[What Works Clearinghouse|WWC]]、英国 [[Education Endowment Foundation|EEF]] 工具包及[[John Hattie|约翰·哈蒂]]的 [[Visible Learning]]）的建设。
 > - **批判性学术回响** 格拉斯关于图表与[[Heterogeneity|异质性]]的警示，成为当代批判性学者（如 Wrigley、Johnson & Janzen）反思新自由主义[[Governing by Numbers|数字治理]]与伪科学简单平均的核心思想武器。
@@ -229,7 +230,7 @@ updated: 2026-10-16
 > | [[Heterogeneity]] | 概念 | 理论警示 | 坚称元分析的宗旨在于通过图表呈现变异与异质性，而非追求单一均值。 |
 > | [[Jacob Cohen]] | 人物 | 测度对照 | 科恩主张以合并标准差为除数的 Cohen's $d$，与格拉斯的 Glass's $\Delta$ 构成量化综合的两大除数传统。 |
 > | [[John Hattie]] | 人物 | 演变对照 | 进一步将元分析推广至政策大众层面，但在操作中走向了格拉斯所反对的均值排行。 |
-> | [[Evidence-Based Education]] | 概念 | 间接奠基 | 其开创的量化证据综合逻辑构成了全球循证教育运动的底层方法学基础设施。 |
+> | [[Evidence-Based Education]] | 概念 | 间接奠基 | 其开创的量化[[Research Synthesis\|证据综合]]逻辑构成了全球循证教育运动的底层方法学基础设施。 |
 > | [[Incommensurability]] | 概念 | 理论警示 | 跨指标混用（$\Delta$ 对比 $d$）与跨范畴合并破坏了效应量度量衡的通约性。 |
 > | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 论证 | 批判来源 | 提供格拉斯 1979 年班级规模原始曲线证据，揭露当代畅销书断章取义的实[[Falsification\|证伪]]造。 |
 > | [[Argument_Higgins_2016_ROE\|Higgins (2016)]] | 论证 | 思想史源 | 提供格拉斯开创元分析的思想演进史料与关于水果和图表的关键学术引文。 |

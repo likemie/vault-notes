@@ -9,7 +9,7 @@ aliases:
 summary: "指知识中介机构与证据门户用于规范、筛选和评定研究证据可信度与相关性的方法学准则、报告标准及功效主张判定体系，用于防范未获充分实证支持的结论误导政策与教学实践"
 type: concept
 domain: "educational-policy-reform"
-related_count: 83
+related_count: 84
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -62,6 +62,7 @@ related_methods:
   - "[[Systematic Review]]"
   - "[[Effect Size]]"
   - "[[Hierarchical Linear Model]]"
+  - "[[Research Synthesis]]"
   - "[[Implementation and Process Evaluation]]"
   - "[[Narrative Synthesis]]"
   - "[[Regression Discontinuity Design]]"
@@ -112,7 +113,7 @@ related_instruments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Evidence Standards
@@ -257,7 +258,7 @@ updated: 2026-10-16
 > **清算机构评级门槛不一致削弱政策互信** 欧美主流[[Educational Evidence Clearinghouses\|教育证据清算机构]]（如 [[What Works Clearinghouse\|WWC]]、[[Education Endowment Foundation\|EEF]]、BEP 等）在纳入标准、[[Effect Size\|效应量]]门槛与[[Publication Bias\|发表偏倚]]处理上存在显著[[Heterogeneity\|异质性]]；同一干预在不同清算机构可能获得完全相反的有效性评级，证实中介组织证据标准的模糊与分歧已成为制约循证决策国际互信的关键瓶颈。[[Argument_Pellegrini_2021_ECNUROE\|(Pellegrini & Vivanet, 2021, pp. 120–122)]]
 
 > [!claim] Ginsberg et al.
-> **法定单项门槛的形式合规繁荣与实质证据断裂** 对特大型城市学区三年间 2.88 亿美元联邦 [[Title I of the Elementary and Secondary Education Act\|Title I]] 资金的细粒度实证审计表明，仅凭单项合格研究即可合规的宽松法定证据标准，赋予了地方学区极大的文牍抗辩空间，造成逾 95% 资金合规的假象；但置于跨库全量证据综合审视下，获稳定积极支持的资金比例断崖式跌破六成（49%–58%），且法案生效前后三年间资金配置高度固化。这一实证检验确凿证实：缺乏全量证据综合约束的单项研究标准无法有效打破学区的既有采购惯性，反而将数十亿美元公共财政固锁在缺乏充分证据支持的常规项目之中。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 174–178)]]
+> **法定单项门槛的形式合规繁荣与实质证据断裂** 对特大型城市学区三年间 2.88 亿美元联邦 [[Title I of the Elementary and Secondary Education Act\|Title I]] 资金的细粒度实证审计表明，仅凭单项合格研究即可合规的宽松法定证据标准，赋予了地方学区极大的文牍抗辩空间，造成逾 95% 资金合规的假象；但置于跨库全量[[Research Synthesis|证据综合]]审视下，获稳定积极支持的资金比例断崖式跌破六成（49%–58%），且法案生效前后三年间资金配置高度固化。这一实证检验确凿证实：缺乏全量证据综合约束的单项研究标准无法有效打破学区的既有采购惯性，反而将数十亿美元公共财政固锁在缺乏充分证据支持的常规项目之中。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 174–178)]]
 
 ---
 
@@ -357,7 +358,7 @@ updated: 2026-10-16
 > > 争论聚焦于公共教育财政资助应当采纳宽松的单项合格[[Access and Acceptance in Research\|研究准入]]门槛，还是强制采纳全量证据体综合评估。
 > >
 > > - **法定单项门槛派（ESSA Section 8101）** 主张只要有 1 项良好设计的实验或准实验证明正向效果即可赋予法律准入资格，以降低地方学区行政搜寻成本并包容早期探索。
-> > - **全量证据综合派（[[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024]]; ED, 2016）** 证实单项合格门槛营造了 95% 以上资金合规的繁荣假象，实质导致逾四成公款被锁定在缺乏稳定证据支持的实践中；必须建立整合多源实证异质性与适用学段的全量证据综合评价机制。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 163, 177–180)]]
+> > - **全量[[Research Synthesis|证据综合]]派（[[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024]]; ED, 2016）** 证实单项合格门槛营造了 95% 以上资金合规的繁荣假象，实质导致逾四成公款被锁定在缺乏稳定证据支持的实践中；必须建立整合多源实证异质性与适用学段的全量证据综合评价机制。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 163, 177–180)]]
 
 > [!citation-card] 施奈德论拆解干预构件与终结混杂药丸袋黑箱
 > 许多教育干预完全就像一袋混杂的药丸：由一大堆构件拼凑而成，其中许多构件从未被清晰识别过，更谈不上被独立评估。[[Institute of Education Sciences\|IES]] 正全力推动教育研究者明确界定干预的各项构件，进而分离每一项构件的独立效应与实施成本。（p. 207）
@@ -406,14 +407,14 @@ updated: 2026-10-16
 > | [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] | 欧美主要教育清算机构（[[What Works Clearinghouse\|WWC]], [[Education Endowment Foundation\|EEF]], BEP） | 教育干预项目与策略 | 比较其系统综述筛选门槛与偏倚控制量表 | 各机构独立有效性分级系统 | 证实不同中介机构在证据标准设定上存在显著方法论分歧与评级不一致（pp. 120–122） |
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] | 英国 [[Education Endowment Foundation\|EEF]] | 学校随机对照试验与干预策略 | 0–5 [[EEF Padlock Security Rating\|挂锁安全评级]]（综合设计、[[Sample Size Determination\|样本量]]、流失率与威胁）；优先锚定国家统考（NPD），严禁自编测验；强制 ISRCTN [[Preregistration\|预注册]]与公开分析计划（SAP）；整合 [[TIDieR]] [[Implementation and Process Evaluation\|过程评估]]（IPE） | 额外学习月数（[[Months of Progress]]）与挂锁安全级别 | 极大降低校长决策门槛，但将多元偏倚压缩为单一分值易掩盖[[Heterogeneity\|异质性]]与统计不确定性（pp. 50–58） |
 > | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | [[Evidence for ESSA]]，美国约翰斯·霍普金斯大学 | K-12 阅读与数学打包干预项目及全校模式 | 依据 ESSA 四级法定标准；强制独立标准化测验、实施周期 $\ge 12$ 周、整群 RCT 与多层线性模型校正 | 强证据（[[Top Institute for Evidence-Based Education Research\|TIER]] 1）、中等证据（Tier 2）与有前景（Tier 3）分级评定 | 严苛方法学准入过滤掉 90% 以上低质研究，为联邦资金采购提供权威透明的技术屏障（pp. 22–26） |
-> | [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] | 美国大型城市学区 [[Title I of the Elementary and Secondary Education Act\|Title I]] 联邦资金审计 | K-12 补偿教育实践（129 项检索词） | 比较 [[Every Student Succeeds Act\|ESSA]] 法定 Tier I–III 单项合格研究标准 vs 四大证据库全量证据综合评级（[[What Works Clearinghouse\|WWC]], [[Evidence for ESSA]], [[Education Endowment Foundation\|EEF]], ERIC） | 比例测算：单项合格标准下达 95%–99%，全量证据综合下积极/多半积极支持率降至 49%–58% | 实证证实法定单项合格研究门槛导致合规流于形式，掩盖了更广泛文献中普遍存在的混合效应、零效应与学段不匹配风险（pp. 174–177） |
+> | [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] | 美国大型城市学区 [[Title I of the Elementary and Secondary Education Act\|Title I]] 联邦资金审计 | K-12 补偿教育实践（129 项检索词） | 比较 [[Every Student Succeeds Act\|ESSA]] 法定 Tier I–III 单项合格研究标准 vs 四大证据库全量证据综合评级（[[What Works Clearinghouse\|WWC]], [[Evidence for ESSA]], [[Education Endowment Foundation\|EEF]], ERIC） | 比例测算：单项合格标准下达 95%–99%，全量[[Research Synthesis\|证据综合]]下积极/多半积极支持率降至 49%–58% | 实证证实法定单项合格研究门槛导致合规流于形式，掩盖了更广泛文献中普遍存在的混合效应、零效应与学段不匹配风险（pp. 174–177） |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] — 首项对大型城市学区 2.88 亿美元联邦教育资金开展循证审计的实证研究，量化证实法定单项合格研究门槛（95%–99%）与全量证据综合标准（49%–58%）之间的巨大落差。
+> - [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] — 首项对大型城市学区 2.88 亿美元联邦教育资金开展循证审计的实证研究，量化证实法定单项合格研究门槛（95%–99%）与全量[[Research Synthesis|证据综合]]标准（49%–58%）之间的巨大落差。
 > - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 提出[[Educational Brokerage Agency\|知识中介机构]]证据标准的六大运作维度与四大病理根源，系统论证方法学严谨性与情境适切性的双维权衡。
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] — 考证全球教育中介机构在因果金标准派与多[[Meta-meta-analysis\|元综合]]派之间的方法学阵营分化，指出[[Cumulative Knowledge Base\|累积性知识库]]建构的制度阻碍。
 > - [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022)]] — [[Mark Schneider]] 系统论述美国 [[Institute of Education Sciences\|IES]] 推行的 SEER 九大循证卓越标准，推动证据评价从孤立的因果[[Internal Validity\|内部效度]]走向构件解构、成本分析、通用测量与社会公平。

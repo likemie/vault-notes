@@ -8,7 +8,7 @@ summary: "新西兰教育统计学家，Visible Learning作者与元分析综合
 type: person
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 138
+person_related_count: 139
 person_related_level: 13
 person_related_stars: "💎💎💎💎⭐"
 person_related_color: "#fef3c7"
@@ -111,6 +111,7 @@ related_persons:
   - "[[Christof Wecker]]"
   - "[[John Biggs]]"
   - "[[Thomas Nordahl]]"
+  - "[[Ivan Snook]]"
   - "[[John O'Neill]]"
   - "[[Scott Eacott]]"
   - "[[Klaus Nielsen]]"
@@ -300,7 +301,7 @@ updated: 2026-10-17
 > [!person-network] 关系网络
 > - **师承／合作者** Herbert Walberg — 早期共同开展 226 项[[Meta-meta-analysis\|元综合]]检验[[Walberg's Educational Productivity Model\|教育生产力模型]]；[[John Biggs]] — 合作开展学习技能干预[[Meta-analysis\|元分析]]；Helen Timperley — 共同发表里程碑式反馈元分析；Gregory Yates — 合作撰写学习科学著作；Tanja Jansen 与 Jens Möller 等 — 合作开展基于 Meta-X 数据库的大语言模型[[Automated Data Extraction\|自动化数据提取]]前沿实证评测。
 > - **学生／继承者** [[Thomas Nordahl]]、Ane Qvortrup、Claus Nygaard — 斯堪的纳维亚引介者与北欧本土化转译者；Deb Masters — [[Visible Learning]] 培训实施与案例库联合编著者。
-> - **批评者／论敌** [[Christof Wecker]]、Florian Vogel & Alexander Hetmanek — 开展德语界首个全面数理统计审查，严格推导两级[[Fixed-Effect Model|固定效应]]代数等价性与六步规程，实证判定超级元分析在科学上不可行；伊万·斯努克（Ivan Snook）、约翰·克拉克（John Clark）、安妮-玛丽·奥尼尔（Anne-Marie O'Neill）、[[John O'Neill|约翰·奥尼尔]]（John O'Neill）与罗杰·奥彭肖（Roger Openshaw）— 新西兰学术论战首发批判团队，从二阶元分析质控缺位、截断值武断性（阿司匹林反例）、排除 70%–80% 生源背景[[Variable|变量]]，以及政策制定者借机削减学校资源、推行[[Performance Pay|绩效工资]]的现实误用展开全面质询；[[Gerald Grace]] — 批判其误用“社会的良知与批评者”法定角色；Ewald Terhart — 早期系统学术书评，指出理论空洞与福柯式监控统治；[[Scott Eacott]] — 批判澳大利亚[[School Leadership\|学校领导力]]陷入“[[Cult of the Guru\|大师崇拜]]”与[[Neo-Taylorism\|新泰勒主义]]；[[Klaus Nielsen]] & Jørgen Klitmøller — 细读反馈原始元分析并揭示[[Technical Rationality\|技术理性]][[Legitimation Crisis|合法化危机]]。
+> - **批评者／论敌** [[Christof Wecker]]、Florian Vogel & Alexander Hetmanek — 开展德语界首个全面数理统计审查，严格推导两级[[Fixed-Effect Model|固定效应]]代数等价性与六步规程，实证判定超级元分析在科学上不可行；[[Ivan Snook|伊万·斯努克]]（Ivan Snook）、约翰·克拉克（John Clark）、安妮-玛丽·奥尼尔（Anne-Marie O'Neill）、[[John O'Neill|约翰·奥尼尔]]（John O'Neill）与罗杰·奥彭肖（Roger Openshaw）— 新西兰学术论战首发批判团队，从二阶元分析质控缺位、截断值武断性（阿司匹林反例）、排除 70%–80% 生源背景[[Variable|变量]]，以及政策制定者借机削减学校资源、推行[[Performance Pay|绩效工资]]的现实误用展开全面质询；[[Gerald Grace]] — 批判其误用“社会的良知与批评者”法定角色；Ewald Terhart — 早期系统学术书评，指出理论空洞与福柯式监控统治；[[Scott Eacott]] — 批判澳大利亚[[School Leadership\|学校领导力]]陷入“[[Cult of the Guru\|大师崇拜]]”与[[Neo-Taylorism\|新泰勒主义]]；[[Klaus Nielsen]] & Jørgen Klitmøller — 细读反馈原始元分析并揭示[[Technical Rationality\|技术理性]][[Legitimation Crisis|合法化危机]]。
 > - **机构／运动／项目** [[Visible Learning]] — 核心研究成果；[[Visible Learning Meta-X]] — 亲自创建并持续维护的全球最大元分析汇聚数据库；Visible Learning 品牌化与全球影响 — 其学术成果依托的跨国培训产业与政策扩散历程；[[Cognition Education]] — 长期董事兼培训商业化运营商；[[Australian Institute for Teaching and School Leadership\|AITSL]] — 担任董事会主席并推动将可见学习嵌入国家专业标准；[[Evidence for Learning]]（E4L）— 担任学校专家咨询委员会主席，指导工具包与实践指南本土化；新西兰教育部 — 委托开发 [[Assessment Tools for Teaching and Learning\|asTTle]] 评估系统与国家标准技术顾问；[[Education Endowment Foundation\|EEF]] — 资助 Visible Classroom 试点并将其实证纳入证据工具箱。
 
 ---
@@ -312,7 +313,7 @@ updated: 2026-10-17
 > > [!axis] Snook-Hattie 论战：[[Meta-analysis|元分析]]质量、截断值与因果外推
 > > 围绕 2009–2010 年《新西兰教育研究杂志》（New Zealand Journal of Educational Studies，NZJES）三大回合交锋，争论[[Meta-meta-analysis|二阶元分析]]是否构成“垃圾进垃圾出”、[[Effect Size|效应量]]门槛是否武断，以及是否掩盖了社会结构对[[Academic Achievement|学业成就]]的根本制约。
 > >
-> > - **Ivan Snook 等人批判** 从五大维度系统解构哈蒂框架：① **底层研究质控缺位** 哈蒂二阶元分析未对纳入研究进行方法学评估，违反元分析奠基人 Smith and Glass (1980) 强调的质控前提，陷入“垃圾进、垃圾出”；② **$d=0.40$ 截断值纯属武断** 援引医学中低剂量阿司匹林预防心脏病（$d=0.07$ 每千人挽救 34 条生命）的经典反例，论证微小效应量在高质量大样本中具有重大[[Public Value|公共价值]]，将 $<0.40$ 判定为低价值在逻辑上不能成立；③ **掩盖微观异质性** 单一均值抹杀关键亚组差异，如家庭作业总体 $d=0.29$，但细分显示小学仅 $0.15$、高中达 $0.64$；④ **排除社会背景导致归因失真** 援引 Harker (1995) 与 Gray et al. (1986) 证实 70%–80% 校际方差取决于学生生源背景与阶层构成，混淆校内相对变异与绝对变异导致将社会不平等错误转嫁给教师；⑤ **班级规模非线性门槛与政策误用** STAR 严格随机试验证实低年级小班（13–17 人）效应量达 $0.62–0.66$，PACE 项目亦证实 15 人小班是密集互动的物理硬约束；哈蒂低估班级规模的论调沦为新西兰教育部长抗拒公立学校投入、推行屡遭失败的教师绩效工资的政治挡箭牌。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 93–105)]]; [[Argument_Snook_2010_NZJES|(Snook et al., 2010)]]
+> > - **[[Ivan Snook]] 等人批判** 从五大维度系统解构哈蒂框架：① **底层研究质控缺位** 哈蒂二阶元分析未对纳入研究进行方法学评估，违反元分析奠基人 Smith and Glass (1980) 强调的质控前提，陷入“垃圾进、垃圾出”；② **$d=0.40$ 截断值纯属武断** 援引医学中低剂量阿司匹林预防心脏病（$d=0.07$ 每千人挽救 34 条生命）的经典反例，论证微小效应量在高质量大样本中具有重大[[Public Value|公共价值]]，将 $<0.40$ 判定为低价值在逻辑上不能成立；③ **掩盖微观异质性** 单一均值抹杀关键亚组差异，如家庭作业总体 $d=0.29$，但细分显示小学仅 $0.15$、高中达 $0.64$；④ **排除社会背景导致归因失真** 援引 Harker (1995) 与 Gray et al. (1986) 证实 70%–80% 校际方差取决于学生生源背景与阶层构成，混淆校内相对变异与绝对变异导致将社会不平等错误转嫁给教师；⑤ **班级规模非线性门槛与政策误用** STAR 严格随机试验证实低年级小班（13–17 人）效应量达 $0.62–0.66$，PACE 项目亦证实 15 人小班是密集互动的物理硬约束；哈蒂低估班级规模的论调沦为新西兰教育部长抗拒公立学校投入、推行屡遭失败的教师绩效工资的政治挡箭牌。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 93–105)]]; [[Argument_Snook_2010_NZJES|(Snook et al., 2010)]]
 > > - **Hattie 本人辩护** 辩护称该书并非关于研究批评的专著，凡已知质量问题均已标注；$d=0.40$ 基于 800+ 元分析经验平均值作为叙事工具而非绝对戒律；坚持将[[Research Scope|研究范围]]界定在“教育者可控制的学校因素”，主张即使社会因素巨大，提升教师效能仍是学校系统最可行、最具操作性的专业责任。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, pp. 88–92)]]
 >
 > > [!axis] 社会的良知与批评者：专业技术辩护 vs 结构性社会公正

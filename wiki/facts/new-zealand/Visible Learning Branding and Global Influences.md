@@ -10,7 +10,7 @@ subtype: event
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "event"
-fact_related_count: 57
+fact_related_count: 58
 fact_related_level: 5
 fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -57,6 +57,7 @@ related_methods:
   - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
   - "[[Intraclass Correlation Coefficient]]"
+  - "[[Research Synthesis]]"
 related_persons:
   - "[[John Hattie]]"
   - "[[Michael Fullan]]"
@@ -245,7 +246,7 @@ Visible Learning 凭借其高度简化的[[Effect Size|效应量]]排名图表�
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Visible Learning]] | Concept | 品牌化运营所依托的学术母体与教育证据综合框架。 |
+> | [[Visible Learning]] | Concept | 品牌化运营所依托的学术母体与教育[[Research Synthesis\|证据综合]]框架。 |
 > | [[John Hattie]] | Person | 《可见的学习》作者、商业品牌核心人物与[[Policy Entrepreneur\|政策创业者]]。 |
 > | [[Visible Learning Meta-X]] | Fact (Program) | 支撑整个 Visible Learning 商业与学术体系的底层[[Meta-meta-analysis\|二阶元分析]]数据库（收录 2,100+ 项[[Meta-analysis\|元分析]]）。 |
 > | [[Cognition Education]] | Fact (Organization) | 早期负责 VLplus 全球教师培训、商标持有与商业运营的核心[[Educational Management Organisation\|教育管理组织]]（EMO）。 |

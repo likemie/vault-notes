@@ -5,7 +5,7 @@ aliases:
 summary: "指大学在民主社会中承担独立批判和公共良知角色的概念，强调其不仅生产知识，也要基于公共责任对权力和社会问题发声。"
 type: concept
 domain: "higher-education"
-related_count: 11
+related_count: 12
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -22,6 +22,7 @@ related_methods: []
 related_persons:
   - "[[Gerald Grace]]"
   - "[[Basil Bernstein]]"
+  - "[[Roy Nash]]"
   - "[[John Hattie]]"
 related_facts: []
 related_arguments:
@@ -33,7 +34,7 @@ related_arguments:
 confidence: low
 status: draft
 created: '2026-05-07'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 ## 定义
@@ -61,7 +62,7 @@ updated: 2026-10-16
 > [[Argument_Grace_2010_NZJES\|Grace (2010, p.91)]]举出两位学者作为真正履行"critic and conscience of society"角色的典范：
 >
 > - **[[Basil Bernstein]]**（1970）：在经典论文 *Education Cannot Compensate for Society* 中指出，教学和学习的改善只能做到有限程度——没有严肃的外部结构性和经济改革，学校无法自行创造教育机会的平等。Bernstein 向政治家、政策制定者和"社会"阐明非学校因素的关键重要性
-> - **Roy Nash**（2003）：在 *Social Class and Education in New Zealand* 中对教育成就差异的精湛分析始终渗透着对非学校因素的清晰意识——这些因素对于理解问题和形成现实的政策倡议至关重要
+> - **[[Roy Nash]]**（2003）：在 *Social Class and Education in New Zealand* 中对教育成就差异的精湛分析始终渗透着对非学校因素的清晰意识——这些因素对于理解问题和形成现实的政策倡议至关重要
 
 ## 在 Hattie and Grace 辩论中的应用
 

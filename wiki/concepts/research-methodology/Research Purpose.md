@@ -8,7 +8,7 @@ aliases:
 summary: "研究设计中明确研究意图和预期交付物的核心决策点，区分研究原因与研究目的，通过目的决定随后的研究类型、方法和设计，并与目的适配性原则共同构成研究规划的逻辑起点"
 type: concept
 domain: "research-methodology"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -31,6 +31,7 @@ related_methods:
   - "[[Trend Study]]"
   - "[[Action Research]]"
   - "[[Documentary Analysis]]"
+  - "[[Research Synthesis]]"
   - "[[Ethnography]]"
   - "[[Observation Method]]"
   - "[[Multiple Regression]]"
@@ -46,7 +47,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-06-19
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # Research Purpose
 
@@ -68,7 +69,7 @@ updated: 2026-10-16
 > - **明确交付物**
 >   研究目的将模糊的研究意图转化为可陈述的预期产出——研究完成后哪些知识将被获得。这不同于[[Trend Study\|预测研究]]结果，预测结果等于操纵（fix）研究。正确的做法是声明研究所要提供的答案类型或信息类型。
 > - **决定研究类型**
->   不同的目的暗示不同的研究取向。试图证明某事物在特定条件下有效 → 实验或[[Action Research\|行动研究]]；增进对学习理论的理解 → [[Documentary Analysis|文献研究]]；识别成功学校的共同特征 → 研究综合或描述性研究。
+>   不同的目的暗示不同的研究取向。试图证明某事物在特定条件下有效 → 实验或[[Action Research\|行动研究]]；增进对学习理论的理解 → [[Documentary Analysis|文献研究]]；识别成功学校的共同特征 → [[Research Synthesis|研究综合]]或描述性研究。
 > - **决定研究方法与设计**
 >   目的决定随后的[[Research Question\|研究问题]]、资料收集工具、抽样策略、[[Research Ethics\|研究伦理]]立场（公开或隐蔽）和[[Research Scope\|研究范围]]。
 

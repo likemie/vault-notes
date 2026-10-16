@@ -11,7 +11,7 @@ title: "Argument_Hitchcock_2015_JBE"
 argument_key: "Argument_Hitchcock_2015_JBE"
 argument_display_title: "What Works Clearinghouse standards and generalization of single-case design evidence"
 argument_kind: "journal-article"
-argument_related_count: 17
+argument_related_count: 18
 argument_related_level: 1
 argument_related_stars: "⭐"
 argument_related_color: "#dbeafe"
@@ -42,6 +42,7 @@ related_theories:
 related_methods:
   - "[[Single-Case Design]]"
   - "[[Correlational Research]]"
+  - "[[Research Synthesis]]"
   - "[[Randomised Controlled Trials]]"
 related_persons: []
 related_facts:
@@ -52,7 +53,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-02'
-updated: 2026-10-16
+updated: 2026-10-17
 year: 2015
 doi: ""
 citation_aliases:
@@ -113,7 +114,7 @@ citation_aliases:
 > > “概括（Generalization）细节不被评估，而是被详细描述，以便消费者能够对概括性做出自己的决定。”
 > ("Generalization details are not evaluated but rather described in detail so that consumers can make their own determinations about generalization.")
 >
-> 原因是：进行证据综合的审查者"可能不知道信息消费者希望推广到哪个点"(p.463)。因此 WWC 的策略是：(a) 通过审查协议框定推广目标；(b) 详细描述研究细节供消费者自行判断；(c) 仅设一个证据充分性阈值（5-3-20）。
+> 原因是：进行[[Research Synthesis|证据综合]]的审查者"可能不知道信息消费者希望推广到哪个点"(p.463)。因此 WWC 的策略是：(a) 通过审查协议框定推广目标；(b) 详细描述研究细节供消费者自行判断；(c) 仅设一个证据充分性阈值（5-3-20）。
 >
 > ### 4. 5-3-20 规则作为唯一阈值
 >

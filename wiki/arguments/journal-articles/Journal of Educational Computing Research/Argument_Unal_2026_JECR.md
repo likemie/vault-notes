@@ -74,6 +74,7 @@ related_methods:
   - "[[Meta-regression]]"
   - "[[Systematic Review]]"
   - "[[Sample Size Determination]]"
+  - "[[Research Synthesis]]"
   - "[[Umbrella Review]]"
   - "[[Moderator Analysis]]"
   - "[[Between-Study Variance]]"
@@ -96,14 +97,14 @@ sources:
   - "[[sources/Unal_2026_JECR/Unal_2026_JECR|Unal_2026_JECR]]"
 status: draft
 created: 2026-08-25
-updated: 2026-10-16
+updated: 2026-10-17
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Unal_2026_JECR"
 argument_key: "Argument_Unal_2026_JECR"
 argument_display_title: "A second-order meta-analysis on the effects of artificial intelligence applications on student outcomes"
 argument_kind: "journal-article"
-argument_related_count: 65
+argument_related_count: 66
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -223,7 +224,7 @@ issuing_organization: ""
 > | **统计完整性** | FOM 必须报告充分且恰当的统计数据以生成通用效应量（如 Cohen's $d$、Hedges' $g$、置信区间上下限 LL/UL、标准误（Standard Error, SE）及方差值）。 | 未包含定量元分析合并矩阵的纯质性系统评价予以排除。 |
 > | **独立性与重叠控制** | FOM 必须独立开展以确保研究结论的真实有效性。 | 当重叠 FOM 之间的**校正覆盖面积（CCA）超过 10%** 时，[[Research Scope\|研究范围]]较窄或信息陈旧的 FOM 予以排除。 |
 >
-> **图表解读** 本标准体系在教学取向上严格区分了人工智能作为教学媒介（AI as medium）与作为学科教学内容（Teaching of AI），确保所有合成[[Effect Size\|效应量]]均代表学生在学科学习中借助 AI 获得的真实增益；在方法学上通过 10% 的 [[Corrected Covered Area\|CCA]] 覆盖率红线，彻底阻断了二阶证据综合中普遍存在的双重加权偏差。
+> **图表解读** 本标准体系在教学取向上严格区分了人工智能作为教学媒介（AI as medium）与作为学科教学内容（Teaching of AI），确保所有合成[[Effect Size\|效应量]]均代表学生在学科学习中借助 AI 获得的真实增益；在方法学上通过 10% 的 [[Corrected Covered Area\|CCA]] 覆盖率红线，彻底阻断了二阶[[Research Synthesis|证据综合]]中普遍存在的双重加权偏差。
 
 ---
 

@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 27
+fact_related_count: 28
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -41,7 +41,8 @@ related_concepts:
 related_theories:
   - "[[Two-Communities Theory]]"
   - "[[Navigational Framework for Educational Researchers]]"
-related_methods: []
+related_methods:
+  - "[[Research Synthesis]]"
 related_instruments: []
 related_persons:
   - "[[Zewelanji N. Serpell]]"
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # AERA Congressional Fellowship Program
@@ -104,7 +105,7 @@ updated: 2026-10-16
 > [!dev-timeline] 项目推进历程
 > - **2000s — 项目创立与教育科研公共参与拓展** [[American Educational Research Association\|AERA]] 响应全美关于“[[Evidence-Based Education\|循证教育]]”的立法诉求，依托 [[American Association for the Advancement of Science\|AAAS]] 建立常设专项资助通道，选拔首批教育心理学与课程教学学者进入国会两院委员会，标志着教育学术社群由被动游说向深度制度浸润的战略转向。
 > - **2010s — 深度嵌入《[[Every Student Succeeds Act\|每一个学生成功法案]]》立法周期** 项目重点派驻[[House Committee on Education and the Workforce\|众议院教育与劳动力委员会]]及参议院 HELP 委员会，深度介入《[[Elementary and Secondary Education Act of 1965\|初等与中等教育法]]》（ESEA）重新授权博弈，促成科研人员直接参与 ESSA（2015）四级[[Evidence Standards\|证据标准]]条文的设计与协商。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 41, 46)]]
-> - **2020s — 全域数据治理与跨学科科学传播[[Paradigm\|范式]]深化** 随着《[[Foundations for Evidence-Based Policymaking Act of 2018\|2018年循证决策基础法案]]》生效，研究员进一步深度参与联邦微观数据开放、校园心理健康危机响应及人工智能教育伦理立法的实务论证，推动跨学科证据综合。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 42–43, 46–47)]]
+> - **2020s — 全域数据治理与跨学科科学传播[[Paradigm\|范式]]深化** 随着《[[Foundations for Evidence-Based Policymaking Act of 2018\|2018年循证决策基础法案]]》生效，研究员进一步深度参与联邦微观数据开放、校园心理健康危机响应及人工智能教育伦理立法的实务论证，推动跨学科[[Research Synthesis|证据综合]]。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 42–43, 46–47)]]
 
 ---
 

@@ -9,9 +9,9 @@ summary: "随机效应元分析中衡量超出抽样误差之外的初级研究�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 29
-method_related_level: 2
-method_related_stars: "⭐⭐"
+method_related_count: 30
+method_related_level: 3
+method_related_stars: "💎"
 method_related_color: "#dcfce7"
 tags:
   - statistics/meta-analysis
@@ -44,6 +44,7 @@ related_methods:
   - "[[Sample Size Determination]]"
   - "[[Random Sampling]]"
   - "[[Confidence Interval]]"
+  - "[[Research Synthesis]]"
   - "[[Inverse-Variance Weighting]]"
   - "[[Correlational Research]]"
 related_instruments: []
@@ -57,7 +58,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-08-25
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Between-Study Variance
@@ -177,7 +178,7 @@ updated: 2026-10-16
 > [!method-limits] 方法局限与前沿争议
 > - **小样本研究数（Small $k$）下的估计量崩溃** 当纳入研究数 $k$ 较小时（例如 $k < 10$），DL 估计量和 REML 估计量的统计功效极低，抽样误差会导致 $\hat{\tau}^2$ 出现严重的截断偏倚（被截断为 0）或剧烈浮动。
 > - **[[Meta-meta-analysis|二级元分析]]（元-[[Meta-analysis|元分析]]）中的建模破产困境（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016, pp. 32–33]]）**
->   德国学者在对《[[Visible Learning|可见的学习]]》的系统方法学审查中指出，二级元分析以一阶元分析为[[Unit of Analysis|分析单位]]，天然继承了一级实证中未被完全吸收的情境[[Heterogeneity|异质性]]，数学上必须采用[[Random-Effects Model|随机效应模型]]估计二级研究间方差 $\tau^2$（Pant, 2014a; Borenstein et al., 2009）。然而，[[John Hattie|哈蒂]]全书涵盖的 138 个教育影响因素中，每个因素平均仅包含约 6 项一阶元分析（$k \approx 6$，甚至许多因素仅有 2–4 项）。在如此匮乏的[[Sample Size Determination|样本量]]下，统计学上根本无法对研究间方差 $\tau^2$ 做出可靠估计。宏观证据综合在此陷入两难困境：
+>   德国学者在对《[[Visible Learning|可见的学习]]》的系统方法学审查中指出，二级元分析以一阶元分析为[[Unit of Analysis|分析单位]]，天然继承了一级实证中未被完全吸收的情境[[Heterogeneity|异质性]]，数学上必须采用[[Random-Effects Model|随机效应模型]]估计二级研究间方差 $\tau^2$（Pant, 2014a; Borenstein et al., 2009）。然而，[[John Hattie|哈蒂]]全书涵盖的 138 个教育影响因素中，每个因素平均仅包含约 6 项一阶元分析（$k \approx 6$，甚至许多因素仅有 2–4 项）。在如此匮乏的[[Sample Size Determination|样本量]]下，统计学上根本无法对研究间方差 $\tau^2$ 做出可靠估计。宏观[[Research Synthesis|证据综合]]在此陷入两难困境：
 >   - **[[Fixed-Effect Model|固定效应]]假设的荒谬性** 若采用固定效应模型，等于强行假设所有元分析的“真实”效应完全恒定为一无偏常数（$\tau^2 = 0$），严重低估合并[[Standard Error|标准误]]并制造虚假的统计确定性；
 >   - **随机效应建模的数理破产** 若采用随机效应模型，因极度匮乏的研究数（$k$ 过小），随机效应建模因无法稳定估计 $\tau^2$ 而在数理上彻底破产。这一两难困局摧毁了宏观元-元分析座次排行的统计推断基石。
 

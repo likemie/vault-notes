@@ -9,7 +9,7 @@ summary: "一种专门用于系统综述中整合质性与混合方法研究证�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 37
+method_related_count: 38
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dbeafe"
@@ -49,6 +49,7 @@ related_methods:
   - "[[Intercoder Agreement]]"
   - "[[Effect Size]]"
   - "[[Meta-analysis]]"
+  - "[[Research Synthesis]]"
   - "[[Qualitative Codebook]]"
   - "[[Theoretical Sampling]]"
   - "[[Audit Trail]]"
@@ -65,7 +66,7 @@ related_facts:
 confidence: high
 status: draft
 created: 2026-08-31
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Thematic Synthesis
@@ -99,7 +100,7 @@ updated: 2026-10-16
 > - **不声称回答的问题** 不能提供精确的总体[[Effect Size\|效应量]]点估计（不能替代量化[[Meta-analysis\|元分析]]）；不能从质性共现关系中直接断言因果效应。
 
 > [!method-stack] 方法层级
-> - **研究设计** 质性[[Systematic Review\|系统综述]]（Qualitative Systematic Review）或[[Mixed Methods Research\|混合方法]]证据综合（Mixed Studies Review）。
+> - **研究设计** 质性[[Systematic Review\|系统综述]]（Qualitative Systematic Review）或[[Mixed Methods Research\|混合方法]][[Research Synthesis|证据综合]]（Mixed Studies Review）。
 > - **数据收集** 结构化数据提取表（记录研究背景、样本、干预类型、理论框架与质性结果文本）。
 > - **分析方法** 质性三阶段主题综合：开放逐行编码 → 描述性主题结构化聚类 → 分析性推论与模型生成。
 > - **辅助技术** 质性分析软件（如 NVivo、MAXQDA、ATLAS.ti）、[[Qualitative Codebook\|编码手册]]校验与 [[PRISMA]] 规范记录。

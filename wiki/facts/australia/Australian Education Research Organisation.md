@@ -9,7 +9,7 @@ subtype: organization
 region: australia
 fact_region: "australia"
 fact_kind: "organization"
-fact_related_count: 44
+fact_related_count: 45
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dcfce7"
@@ -46,6 +46,7 @@ related_concepts:
 related_theories:
   - "[[Cognitive Load Theory]]"
 related_methods:
+  - "[[Research Synthesis]]"
   - "[[Randomised Controlled Trials]]"
   - "[[Correlational Research]]"
 related_persons:
@@ -77,7 +78,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-06
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Australian Education Research Organisation
@@ -103,7 +104,7 @@ updated: 2026-10-16
 > - **2002–2013 — [[Venture Philanthropy\|创投慈善]]萌芽与企业慈善立法期** 麦肯锡公司合伙人发起设立[[Social Ventures Australia\|澳大利亚社会创投]]（SVA），在企业慈善税收激励与公司法改革支持下将风投资本纪律引入社会公益领域。([[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 3]])
 > - **2014–2016 — 试验原型探索与政府调查游说期** SVA 联合英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）及澳大利亚联邦银行设立[[Evidence for Learning\|证据学习中心]]（Evidence for Learning, E4L），本土化《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》；2016 年 SVA 董事 Richard Spencer 出任生产力委员会专员，促使委员会官方报告正式建议效仿英国 EEF 设立国家级独立证据机构。([[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 6–7]])
 > - **2017–2020 — [[Gonski 2.0]] 审查与行政法特许合作期** SVA 子公司前董事长[[David Gonski\|戴维·冈斯基]]（David Gonski）牵头《卓越学校教育审查》，其第 23 条建议正式提出设立国家独立证据机构；《全国学校改革协议》承诺联合出资 5000 万澳元；2020 年联邦政府修订规则，以行政立法特许 AERO 与慈善组织开展深度合作。([[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 5, 8]])
-> - **2021–至今 — 公司法注册设立与高利害问责扩张期** 2021 年正式注册为担保有限公司；SVA 十年游说达成“终局”目标；委托[[Centre for Evidence and Implementation\|证据与实施中心]]（CEI）开展全国学校证据采纳桌面审查；2023 年首席执行官 Jenny Donovan 成为教师教育专家小组（Teacher Education Expert Panel, TEEP）成员，推动 AERO 起草的未发表证据综合报告成为全国[[Initial Teacher Training\|初始教师教育]]（Initial Teacher Education, ITE）核心课程大纲与惩罚性问责的直接依据。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 64]]; [[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 9]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]]; [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 8]])
+> - **2021–至今 — 公司法注册设立与高利害问责扩张期** 2021 年正式注册为担保有限公司；SVA 十年游说达成“终局”目标；委托[[Centre for Evidence and Implementation\|证据与实施中心]]（CEI）开展全国学校证据采纳桌面审查；2023 年首席执行官 Jenny Donovan 成为教师教育专家小组（Teacher Education Expert Panel, TEEP）成员，推动 AERO 起草的未发表[[Research Synthesis|证据综合]]报告成为全国[[Initial Teacher Training\|初始教师教育]]（Initial Teacher Education, ITE）核心课程大纲与惩罚性问责的直接依据。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 64]]; [[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 9]]; [[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, p. 530]]; [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 8]])
 
 ---
 
@@ -202,7 +203,7 @@ updated: 2026-10-16
 > - **核心治理中枢与政商兼任闭环** 专家董事会由 SVA 前董事莉萨·奥布莱恩（Lisa O'Brien）掌舵，汇聚 EEF 创始首席执行官[[Sir Kevan Collins\|柯文·科林斯爵士]]（Sir Kevan Collins）与 SVA 核心捐赠人罗杰·马西-格林（Roger Massy-Greene）等商业与慈善高管；公司章程明文规定董事选任须具备与慈善界合作资质；首席执行官杰妮·多诺万（Jenny Donovan）全面统筹三大业务部门运作。
 > - **国家兄弟中介与数字化底座** 与澳大利亚教学与[[School Leadership\|学校领导力]]研究所（[[Australian Institute for Teaching and School Leadership\|AITSL]]）及[[Australian Curriculum\|澳大利亚课程]]、评估与报告局（ACARA）共享澳大利亚教育服务社（[[Educational Services Australia\|ESA]]）底层数字化系统，实现国家证据资源的分发托管。
 > - **受托审查与私营咨询分包** 设立初期深度委托外部中介[[Centre for Evidence and Implementation\|证据与实施中心]]（CEI）承担全澳学校证据采纳桌面审查，并向麦肯锡系等私营咨询智库开放合规分包通道。
-> - **实践落地与高利害问责对象** 首席执行官 Donovan 深度介入联邦教师教育专家小组（Teacher Education Expert Panel, TEEP），将 AERO 未发表证据综合报告确立为《强劲开端》核心大纲，对全澳大学[[Initial Teacher Training\|初始教师教育]]（ITE）院校施加关乎办学认证与资金分配的强制问责；同时面向全澳中小学与早期教育部门推广标准化证据量规。
+> - **实践落地与高利害问责对象** 首席执行官 Donovan 深度介入联邦教师教育专家小组（Teacher Education Expert Panel, TEEP），将 AERO 未发表[[Research Synthesis|证据综合]]报告确立为《强劲开端》核心大纲，对全澳大学[[Initial Teacher Training\|初始教师教育]]（ITE）院校施加关乎办学认证与资金分配的强制问责；同时面向全澳中小学与早期教育部门推广标准化证据量规。
 
 > [!voice] 担保有限公司制度设计的初衷
 > AERO 首席执行官杰妮·多诺万（Jenny Donovan）在学术访谈中直言不讳地指出，机构之所以没有设立为传统的政府法定机构，而是依据《公司法》设立为担保有限公司，核心考量正是为了吸纳私人慈善与企业资本：
@@ -221,7 +222,7 @@ updated: 2026-10-16
 > - **全国[[Initial Teacher Training\|初始教师教育]]《强劲开端》核心课程大纲** 深度介入 2023 年联邦教师教育改革，以神经科学与[[Cognitive Load Theory\|认知负荷理论]]为基础确立核心大纲，成为全国大学教师教育办学认证的强制标准。
 > - **标准化证据量规体系（Evidence Rubrics）** 研制全澳统一的因果证据有效性分级标准，将因果实验设定为干预评估的首要金标准。([[Argument_Rowe_2022_IJER\|Rowe, 2022, p. 2]])
 > - **学校循证实践桌面审查（Desktop Review）** 委托 [[Centre for Evidence and Implementation\|CEI]] 对全澳学校循证采纳现状开展桌面评估，于 2021 年底正式上线，奠定机构介入学校实践的基准线。([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 64]])
-> - **未发表证据综合报告（Unpublished Synthesis）** 撰写关于脑科学与[[Effective Teaching\|有效教学]]的内部研究综合，虽未经同行学术评审，却被直接确立为国家法律与问责细则的科学底座。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 8]])
+> - **未发表[[Research Synthesis|证据综合]]报告（Unpublished Synthesis）** 撰写关于脑科学与[[Effective Teaching\|有效教学]]的内部研究综合，虽未经同行学术评审，却被直接确立为国家法律与问责细则的科学底座。([[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 8]])
 
 > [!citation-card] AERO 董事会强硬问责声明
 > AERO 董事会强调其偏好全国权威的核心内容大纲。它认为任何非强制性的举措，都无法促使认证组和初始教师教育（ITE）项目开发者对这些教学实践建立一致的全国性理解。（Australian Government, 2023, p. 31; [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024, p. 8]]）

@@ -9,9 +9,9 @@ title: "Argument_Hattie_2010_NZJES"
 argument_key: "Argument_Hattie_2010_NZJES"
 argument_display_title: "On being a 'critic and conscience of society': The role of the education academic in public debates"
 argument_kind: "journal-article"
-argument_related_count: 19
-argument_related_level: 1
-argument_related_stars: "⭐"
+argument_related_count: 20
+argument_related_level: 2
+argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
 journal: New Zealand Journal of Educational Studies
 citation: "Hattie, J. (2010). On being a 'critic and conscience of society': The role of the education academic in public debates. New Zealand Journal of Educational Studies, 45(1), 85–96."
@@ -28,6 +28,7 @@ related_concepts:
   - "[[Discourse]]"
   - "[[Class Size]]"
   - "[[Performance Pay]]"
+  - "[[Learning Styles]]"
   - "[[External Validity]]"
   - "[[Research Scope]]"
   - "[[Academic Engagement]]"
@@ -50,7 +51,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-06'
-updated: '2026-06-08'
+updated: 2026-10-17
 year: 2010
 doi: ""
 citation_aliases:
@@ -86,7 +87,7 @@ citation_aliases:
 > [!success] 主要发现
 > ### 对 VL 方法论批评的回应
 >
-> **关于研究质量** Hattie 澄清 VL 前言中"不是一本关于研究批评的书"被误读为"忽视研究质量"。实际上，凡已知研究质量对特定主题有影响之处均已标注，对低质量[[Meta-analysis\|元分析]]明确批评（如学习风格研究的"可怕状态"），且元分析方法本身的优势之一正是处理质量问题(p.88)。
+> **关于研究质量** Hattie 澄清 VL 前言中"不是一本关于研究批评的书"被误读为"忽视研究质量"。实际上，凡已知研究质量对特定主题有影响之处均已标注，对低质量[[Meta-analysis\|元分析]]明确批评（如[[Learning Styles|学习风格]]研究的"可怕状态"），且元分析方法本身的优势之一正是处理质量问题(p.88)。
 >
 > **关于偏差与[[External Validity\|可推广性]]** [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] 声称元分析中偏差不受控制——Hattie 回应 Schulze (2004) 等文献表明控制偏差是元分析方法的核心关切。关于新西兰的特殊性，Hattie 反问：如果没有足够的新西兰本地研究来确定差异，"翻译现有研究可能比根本不依赖任何研究更有价值"(p.89)。
 >

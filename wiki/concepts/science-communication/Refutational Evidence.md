@@ -9,7 +9,7 @@ aliases:
 summary: "教育科学与认知心理学构念，指旨在否定、推翻或证伪教师既有经验直觉与伪科学迷思的实证研究成果，若缺乏建设性替代方案易触发教师心理防御与专业疏离"
 type: concept
 domain: "science-communication"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,6 +20,7 @@ tags:
   - theme/evidence-informed-practice
 related_concepts:
   - "[[Falsification]]"
+  - "[[Learning Styles]]"
   - "[[Causality]]"
   - "[[Self-Efficacy]]"
   - "[[Empiricism]]"
@@ -53,7 +54,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Refutational Evidence
@@ -62,7 +63,7 @@ updated: 2026-10-16
 
 ## 定义
 
-反驳性证据（德文：widerlegende Evidenz；英文：Refutational Evidence / Refuting Evidence）是指旨在通过严谨实证研究设计，明确否定、推翻或[[Falsification|证伪]]一线教师既有经验直觉、传统教学常规或流行教育神经神话（如学习风格分类施教假说）的科研证据。
+反驳性证据（德文：widerlegende Evidenz；英文：Refutational Evidence / Refuting Evidence）是指旨在通过严谨实证研究设计，明确否定、推翻或[[Falsification|证伪]]一线教师既有经验直觉、传统教学常规或流行教育神经神话（如[[Learning Styles|学习风格]]分类施教假说）的科研证据。
 
 > [!def] 核心定义
 > 反驳性证据（Refutational Evidence）构成教育科学研究向实践界传播过程中的关键证据形态。其核心功能在于通过[[Causality\|因果推断]]与统计检验，揭示某些被教师群体广泛信奉的教学策略并不具备预期的学业促进效果乃至具有潜在危害。然而，德国学者鲍尔与科拉尔（Bauer & Kollar, 2023）及贝萨（[[Argument_Besa_2024_UW\|Besa, 2024]]）指出，若科学传播仅单向抛出反驳性结论而缺乏具有操作性的替代方案，将直接冲击教师的专业自尊，激发强烈的心理防御（*Abwehrhaltungen*），导致教师对科研成果产生整体性的情绪抵触与认知疏离。[[Argument_Besa_2024_UW\|(Besa, 2024, p. 254)]]
@@ -102,7 +103,7 @@ updated: 2026-10-16
 > - **[[Empiricism\|经验主义]]的反弹防御（Anecdotal Backfire Effect）** 面对统计[[Falsification\|证伪]]，教师倾向于调用个案生动记忆（如“某学生用此方法确实进步了”）来反驳宏观实证结论，强化对非科学经验的执念。
 > - **概念转变沟通框架（Conceptual Change Framework）** 借鉴认知发展心理学规律，反驳性证据必须分步推进：
 >   1. 唤醒对既有假说局限的温和认知冲突；
->   2. 深入剖析迷思产生的直觉心理机制（如为何学习风格听起来如此合理）；
+>   2. 深入剖析迷思产生的直觉心理机制（如为何[[Learning Styles|学习风格]]听起来如此合理）；
 >   3. 提供逻辑连贯且具可行性的替代[[Framework for Teaching|教学框架]]（Vosniadou, 2013）。
 > - **双轨叙事结构（Dual-Track Narrative Strategy）** 成功的科学传播文本必须保持“证伪事实陈述（30%）+ 建设性操作指引（70%）”的黄金结构，避免纯粹居高临下的挑错批判。
 
@@ -140,7 +141,7 @@ updated: 2026-10-16
 > 阐明克服教师心理防御的关键在于将[[Falsification\|证伪]]结论转化为建设性支架，通过提供清晰的“明日课堂”实操策略引导信念的平稳过渡。
 
 > [!claim] [[Argument_Besa_2024_UW\|Besa, 2024]]
-> **建设性行动替代与概念转变沟通** 破除学习风格等顽固教育神话无法仅靠公布[[Statistical Significance\|统计显著性]]或负向[[Effect Size\|效应量]]达成。科学传播必须遵循认知心理学的概念转变规律（Vosniadou, 2013），在呈现反驳性证据的同时，必须同步提供契合常态课堂情境的建设性行动方案（如多模态表征教学、基于知识维度的差异化支架）；只有当教师确信新方案能够切实解决日常教学挑战时，反驳性证据才能转化为促进专业发展的积极催化剂。[[Argument_Besa_2024_UW\|(Besa, 2024, pp. 252, 258)]]
+> **建设性行动替代与概念转变沟通** 破除[[Learning Styles|学习风格]]等顽固教育神话无法仅靠公布[[Statistical Significance\|统计显著性]]或负向[[Effect Size\|效应量]]达成。科学传播必须遵循认知心理学的概念转变规律（Vosniadou, 2013），在呈现反驳性证据的同时，必须同步提供契合常态课堂情境的建设性行动方案（如多模态表征教学、基于知识维度的差异化支架）；只有当教师确信新方案能够切实解决日常教学挑战时，反驳性证据才能转化为促进专业发展的积极催化剂。[[Argument_Besa_2024_UW\|(Besa, 2024, pp. 252, 258)]]
 
 ---
 

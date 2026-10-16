@@ -7,7 +7,7 @@ title: "Argument_Nelson_2017_EducRes"
 argument_key: "Argument_Nelson_2017_EducRes"
 argument_display_title: "Evidence-informed practice in education: meanings and applications"
 argument_kind: "journal-article"
-argument_related_count: 52
+argument_related_count: 53
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -80,6 +80,7 @@ related_methods:
 related_persons:
   - "[[Jonathan Sharples]]"
   - "[[Chris Brown]]"
+  - "[[Roy Nash]]"
 related_facts:
   - "[[Elementary Teachers' Federation of Ontario]]"
   - "[[National Center for Research in Policy and Practice]]"
@@ -97,7 +98,7 @@ sources:
 part_of: ""
 status: draft
 created: "2026-05-01"
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 # Argument_Nelson_2017_EducRes
 
@@ -156,7 +157,7 @@ updated: 2026-10-16
 > |---|---|---|---|---|
 > | **LaPointe-McEwan, DeLuca, & Klinger (2017)** | 加拿大安大略（皇后大学） | 学校网络中的教育者与中层领导者；质性与调查混合设计 | 课堂数据（Classroom Data）的层级性与多源性 | 揭示终结性评估对决策的支配地位，倡导[[Data Literacy\|数据素养]]与定性定量[[Triangulation\|三角验证]]，确立中层领导在协作探究网络中的支撑功能。 |
 > | **[[Chris Brown\|Brown]], Schildkamp, & Hubers (2017)** | 英格兰与荷兰（伦敦大学学院 & 特文特大学） | 中小学教师与学校改进过程；跨国比较与理论建构 | [[Data-Based Decision Making\|基于数据的决策]]（Data-Based Decision Making, DBDM）与[[Research-Informed Teaching Practice\|研究知情教学实践]]（Research-Informed Teaching Practice, RITP） | 揭示 DBDM 与 RITP 的长期割裂，提出证据知情学校与教师改进模型，通过系统的[[School Enquiry Cycle\|学校探究循环]]实现二者融合。 |
-> | **Rickinson, de Bruin, Walsh, & Hall (2017)** | 澳大利亚与新西兰（莫纳什大学 & 新西兰环境部） | 政策制定者与教育实践者；跨领域比较与文本分析 | 政策制定作为实践（Policy as Practice）；证据适切性 | 揭示政策与实践在[[Research Utilization\|证据使用]]上的同构性，确立可得证据与适切证据的区别，强调适切性依赖情境判断而非预设。 |
+> | **Rickinson, de Bruin, Walsh, & Hall (2017)** | 澳大利亚与新西兰（莫[[Roy Nash\|纳什]]大学 & 新西兰环境部） | 政策制定者与教育实践者；跨领域比较与文本分析 | 政策制定作为实践（Policy as Practice）；证据适切性 | 揭示政策与实践在[[Research Utilization\|证据使用]]上的同构性，确立可得证据与适切证据的区别，强调适切性依赖情境判断而非预设。 |
 > | **Carrier (2017)** | 加拿大安大略（多伦多大学安大略教育研究院（Ontario Institute for Studies in Education, OISE）） | 流行教育创新话语与传播材料；修辞与[[Discourse Analysis\|话语分析]] | [[Persuasive Communication in Education\|说服性沟通策略]]（Persuasive Communication） | 剖析缺乏实证支撑的教育创新如何凭借说服性修辞广泛传播，呼吁教育者培养分析性立场与评估技能。 |
 > | **Cooper, Klinger, & McAdie (2017)** | 加拿大安大略（皇后大学 & [[Elementary Teachers' Federation of Ontario\|安大略小学教师联合会]]（Elementary Teachers’ Federation of Ontario, ETFO）） | 小学教师课堂评估信息搜寻行为；大规模调查与访谈 | [[Practice-Based Evidence\|实践本位证据]]与同行交流网络 | 发现教师获取评估信息高度依赖同行交流，实践证据使用远超原始研究，强调工会、学区与领导者的中介作用。 |
 > | **Campbell, Pollock, Briscoe, Carr-Harris, & Tuters (2017)** | 加拿大安大略（多伦多大学安大略教育研究院（Ontario Institute for Studies in Education, OISE） & 西安大略大学） | 应用教育研究知识网络（Knowledge Network in Applied Education Research, KNAER）全系统知识网络；政府-大学-学区-工会伙伴关系[[Case Study\|案例研究]] | 全系统知识动员战略（System-Wide KMb）与[[Research-Practice Partnership\|研究-实践伙伴关系]]（Research-Practice Partnerships, RPP） | 揭示生产者与使用者在知识动员上的双向能力赤字，提出优质产品、协作关系与全系统能力建设三位一体模型。 |
@@ -263,7 +264,7 @@ updated: 2026-10-16
 > 2. **整合性改进模型** 提出证据知情学校与教师改进模型，萃取 DBDM 的精确诊断优势与 RITP 的外生新知优势，将其统一嵌入系统的[[School Enquiry Cycle\|学校探究循环]]（School Enquiry Cycle）中，实现数据与研究的双向互补。（p.129）
 
 > [!case] 案例三：政策制定作为实践与可得证据向适切证据的情境转化（Rickinson et al., 2017）
-> 澳大利亚莫纳什大学与新西兰环境部团队提出了跨领域新视角：
+> 澳大利亚莫[[Roy Nash|纳什]]大学与新西兰环境部团队提出了跨领域新视角：
 > 1. **政策与实践的同构性** 将政策制定视为一种特殊的专业实践，揭示政策制定者与一线教育者在证据使用特征上存在高度相似性：二者均面临从浩瀚信息中筛选证据的挑战。
 > 2. **习惯依赖与适切性断裂** 经验表明，政策与实践两端均存在严重依赖熟知证据（well known）而非任务适切证据（appropriate to task）的认知惰性。
 > 3. **可得证据 vs 适切证据** 借用 Earl and Timperley (2009) 的概念，明确区分可得证据（available evidence）与适切证据（appropriate evidence）；证据的适切性不能由外部统一预设，而必须结合具体政治、文化与教学情境进行动态研判。（pp.129–130）

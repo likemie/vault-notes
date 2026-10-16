@@ -7,7 +7,7 @@ summary: "澳大利亚莫纳什大学教育学教授与莫纳什 Q 项目负责�
 type: person
 nationality: australia
 person_region: "australia"
-person_related_count: 20
+person_related_count: 21
 person_related_level: 2
 person_related_stars: "⭐⭐"
 person_related_color: "#e0e7ff"
@@ -44,10 +44,12 @@ related_arguments:
   - "[[Argument_Rickinson_2022_UsingResearchWell]]"
   - "[[Argument_Rickinson_2022_EducRes]]"
   - "[[Argument_Revai_2022_ChangingLandscape]]"
+related_persons:
+  - "[[Roy Nash]]"
 confidence: high
 status: draft
 created: 2026-09-14
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Mark Rickinson
@@ -57,7 +59,7 @@ updated: 2026-10-16
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 澳大利亚教育学者，莫纳什大学（Monash University）教育学院教授，[[Monash Q Project\|莫纳什 Q 项目]]学术负责人。
+> - **身份位置** 澳大利亚教育学者，莫[[Roy Nash|纳什]]大学（Monash University）教育学院教授，[[Monash Q Project\|莫纳什 Q 项目]]学术负责人。
 > - **核心角色** 在[[International Education\|国际教育]]证据利用网络中承担从“证据供给”转向“实践使用”的关键理论开创者，打破以往只关注研究证据质量的供给侧偏误，提出关注一线教育实践者如何用好研究的质态评价体系。
 > - **代表贡献** 主导研制[[Quality Use of Research Evidence Framework\|高质量研究证据使用框架]]（QURE），主持为期五年的[[Monash Q Project\|莫纳什 Q 项目]]，推动[[Evidence-Informed Practice\|证据知情实践]]从理论思辨迈向一线学校的实证诊断与能力建设。
 
@@ -113,7 +115,7 @@ updated: 2026-10-16
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **合作者** 卢卡斯·沃尔什（Lucas Walsh）、乔安妮·格里森（Joanne Gleeson） — 莫纳什大学 Q 项目联合研究团队核心成员，共同开展实证调查并拓展 [[Quality Use of Research Evidence Framework\|QURE]] 框架。
+> - **合作者** 卢卡斯·沃尔什（Lucas Walsh）、乔安妮·格里森（Joanne Gleeson） — 莫[[Roy Nash|纳什]]大学 Q 项目联合研究团队核心成员，共同开展实证调查并拓展 [[Quality Use of Research Evidence Framework\|QURE]] 框架。
 > - **机构／项目** [[Monash Q Project]] — 主持开展的五年期旗舰研究项目；[[Centre for Educational Research and Innovation\|CERI]] / [[OECD]] — 合作出版跨国政策专著。
 
 ---

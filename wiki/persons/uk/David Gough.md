@@ -7,7 +7,7 @@ summary: "英国伦敦大学学院教育学院（UCL Institute of Education, UCL
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 33
+person_related_count: 34
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -42,6 +42,7 @@ related_methods:
   - "[[Weight of Evidence Framework]]"
   - "[[Analytic Framework]]"
   - "[[Randomised Controlled Trials]]"
+  - "[[Research Synthesis]]"
   - "[[Mixed Methods Research]]"
   - "[[Framework Synthesis]]"
 related_facts:
@@ -61,7 +62,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-13
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # David Gough
@@ -99,7 +100,7 @@ updated: 2026-10-16
 > - **2000s — [[Systematic Review\|系统综述]]方法论建构与证据权重多维化** 致力于将循证医学的系统综述方法改造并拓展至复杂的社会科学与教育研究领域，批判单纯以[[Randomised Controlled Trials\|随机对照试验]]为唯一黄金标准的教条主义。
 >   - **代表著作** *[[Weight of Evidence Framework\|Weight of Evidence]]: A framework for the appraisal of the quality and relevance of evidence* (2007)；*An Introduction to Systematic Reviews* (with Oliver & Thomas, 2012)。
 >   - **关键概念／方法** [[Systematic Review]]、证据权重（Weight of Evidence）、方法适应性（[[Fitness for Purpose]]）。
->   - **阶段转向** 从传统经验性[[Literature Review\|文献综述]]转向程序透明、标准严格的证据综合方法论，强调研究质量（[[Trustworthiness]]）与研究相关性（Relevance）的双重权衡。
+>   - **阶段转向** 从传统经验性[[Literature Review\|文献综述]]转向程序透明、标准严格的[[Research Synthesis|证据综合]]方法论，强调研究质量（[[Trustworthiness]]）与研究相关性（Relevance）的双重权衡。
 > - **2010s — 从单向中介到生态系统[[Analytic Framework\|分析框架]]的跃升** 领衔开展 [[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] 跨国研究，反思知识单向推送的局限性，提出嵌套于广义政治制度大系统之内的证据生态模型。
 >   - **代表著作** *Evidence Informed Policy in [[Education in Europe]]: EIPEE Final Project Report* (et al., 2011)；*The Science of Using Science* (with Langer & Tripney, 2016)；*Clarifying differences between reviews within [[Evidence Ecosystem\|evidence ecosystems]]* (with Thomas & Oliver, 2019)。
 >   - **关键概念／方法** [[Evidence Ecosystem]]、[[Educational Brokerage Agency\|知识中介机构]]（Knowledge Brokerage Intermediary, KBI）、行为改变机制。

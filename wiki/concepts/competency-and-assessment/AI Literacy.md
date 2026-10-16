@@ -9,7 +9,7 @@ aliases:
 summary: "个体理解人工智能基本运作机制、能力边界与算法偏见，能够维持认识论警觉并负责任地将智能工具作为放大人类认知与高阶思维而非替代自身思考的综合素养范式。"
 type: concept
 domain: "competency-and-assessment"
-related_count: 43
+related_count: 44
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -60,6 +60,7 @@ related_theories: []
 related_methods:
   - "[[Triangulation]]"
   - "[[Effect Size]]"
+  - "[[Research Synthesis]]"
   - "[[Systematic Review]]"
   - "[[Correlational Research]]"
 related_arguments:
@@ -69,7 +70,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-08-22
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # AI Literacy
@@ -251,7 +252,7 @@ updated: 2026-10-16
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]] | 英国国家级科学教育政策评估（覆盖英国基础教育与产业技能需求） | 证据综合与政策分析（Policy Synthesis） | AI 与数字素养需求、传统考试效度、实验探究技能 | 报告 70%+ 的未来职业要求批判性数字与 AI 素养；指出单一事实记忆测评在 AI 普及下效度严重受损，呼吁将 AI 素养嵌入科学核心大纲 | — | 确立基础教育将 AI 素养作为跨学科核心育人底线的政策依据 |
+> | [[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|The Royal Society (2026)]] | 英国国家级科学教育政策评估（覆盖英国基础教育与产业技能需求） | [[Research Synthesis\|证据综合]]与政策分析（Policy Synthesis） | AI 与数字素养需求、传统考试效度、实验探究技能 | 报告 70%+ 的未来职业要求批判性数字与 AI 素养；指出单一事实记忆测评在 AI 普及下效度严重受损，呼吁将 AI 素养嵌入科学核心大纲 | — | 确立基础教育将 AI 素养作为跨学科核心育人底线的政策依据 |
 > | [[Argument_Li_2026_CEAI\|Li et al. (2026)]] | 67 项高等教育 ChatGPT 实证研究（2022–2025 年全球高校样本） | [[Systematic Review\|系统综述]]与主题综合（PRISMA 2020 框架） | AI 素养培训、[[Reflexivity\|反思性]]支架、过度依赖、批判与[[Creativity\|创造性思维]]共现 | 21 项研究确立显性 AI 素养培训与教学支架是实现高阶思维增益的前提；缺乏培训的学生在 20 项研究中表现出严重依赖与构想被动；SEM 检验表明被动工具调用显著负向预测批判反思（$\beta = -0.34$） | $p < .001$ | 证实 AI 素养与[[Scaffolding\|教学支架]]是决定人机交互走向思维协同增益还是认知侵蚀的核心调节变量 |
 
 ---

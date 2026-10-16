@@ -67,6 +67,7 @@ related_theories:
   - "[[Bloom's Taxonomy]]"
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Research Synthesis]]"
   - "[[Effect Size]]"
   - "[[Meta-meta-analysis]]"
   - "[[Confidence Interval]]"
@@ -97,14 +98,14 @@ sources:
 part_of: ""
 status: draft
 created: 2026-08-24
-updated: 2026-10-16
+updated: 2026-10-17
 subtype: journal-article
 publication_type: journal-article
 title: "Argument_Gungor_2026_CP"
 argument_key: "Argument_Gungor_2026_CP"
 argument_display_title: "A second-order meta-analysis on the effects of cooperative learning on students’ academic achievement, higher-order thinking, and affective behaviors"
 argument_kind: "journal-article"
-argument_related_count: 64
+argument_related_count: 65
 argument_related_level: 6
 argument_related_stars: "💎💎"
 argument_related_color: "#fecdd3"
@@ -128,7 +129,7 @@ issuing_organization: ""
 > - **测量产出单一** 仅聚焦低阶常规学业考试成绩，而忽略[[Higher-Order Thinking Skills\|高阶思维]]与[[Affective Outcomes\|情感动机]]；
 > - **学科范围单一** 过度集中于数学等个别学科，缺乏跨学科全局视野。
 >
-> 这种碎片化合成极大增加了文献的产出偏倚（product bias）与地点偏倚（location bias），且受制于一阶研究数量而残留着不可避免的二阶[[Sampling Error\|抽样误差]]（second-order sampling error，Schmidt & Oh, 2013）。如何通过更高层级的定量证据综合，系统评估合作学习对[[Academic Achievement\|学业成就]]、[[Higher-Order Thinking Skills\|高阶思维技能]]（Higher-Order Thinking Skills，HOTS）与[[Affective Outcomes\|情感行为]]的综合干预效应，并深入厘清教学技术、学科领域、学段、文化背景与实验设计等调节[[Variable\|变量]]的作用机制？（pp. 1–3）
+> 这种碎片化合成极大增加了文献的产出偏倚（product bias）与地点偏倚（location bias），且受制于一阶研究数量而残留着不可避免的二阶[[Sampling Error\|抽样误差]]（second-order sampling error，Schmidt & Oh, 2013）。如何通过更高层级的定量[[Research Synthesis|证据综合]]，系统评估合作学习对[[Academic Achievement\|学业成就]]、[[Higher-Order Thinking Skills\|高阶思维技能]]（Higher-Order Thinking Skills，HOTS）与[[Affective Outcomes\|情感行为]]的综合干预效应，并深入厘清教学技术、学科领域、学段、文化背景与实验设计等调节[[Variable\|变量]]的作用机制？（pp. 1–3）
 
 > [!claim] 核心主张
 > 基于 15 项一阶元分析（涵盖 403 项原始实证研究、23 个独立[[Effect Size\|效应量]]（Effect Size，ES））的[[Meta-meta-analysis\|二阶元分析]]（Second-Order Meta-Analysis，SOMA）表明，合作学习对学生的综合学习产出具有显著且高度稳健的中等促进效应（加权平均效应量 $ES = 0.71$，95% [[Confidence Interval\|置信区间]]（Confidence Interval，CI）为 $[0.55, 0.87]$），其中对高阶思维技能的赋能效应最为突出（$ES = 0.76$），高于学业成就（$ES = 0.71$）与情感行为（$ES = 0.51$）。其干预成效受到具体合作学习教学技术（[[Cooperative Integrated Reading and Composition\|合作整合阅读与写作]]（Cooperative Integrated Reading and Composition，CIRC）与小组[[Survey Research\|调查法]]（[[Group Investigation]]，GI）效应最高）、学科领域（语言、社会科与自然科学学科成效显著，体育学科不显著）以及原始研究实验设计类型（真实课堂准实验显著高于人工实验室全实验）的显著调节，同时揭示出当前软科学元分析严重匮乏的结构性文献失衡。（pp. 6–11）
@@ -387,7 +388,7 @@ issuing_organization: ""
 
 ### 论证步骤六：推动合作教学常态落地，强化教师培训与文献纠偏
 
-> [!claim] 合作学习的有效推广依赖教师专业化培训与多语种、全类型证据综合
+> [!claim] 合作学习的有效推广依赖教师专业化培训与多语种、全类型[[Research Synthesis|证据综合]]
 > 教师仅凭直觉进行的分组活动无法自动激活合作学习的理论机制，必须通过系统性在职培训与数字化案例平台提升教师对五大核心要素的操作能力；同时未来研究亟待开展多语种元分析并补充学位论文等灰色文献以消解地域与语言偏倚。（pp. 11–12）
 
 > [!chain-link] 证据到判断

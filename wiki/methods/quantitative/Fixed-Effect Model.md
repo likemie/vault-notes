@@ -10,7 +10,7 @@ summary: "假定所有纳入研究共享同一个恒定真实效应的统计合�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 32
+method_related_count: 33
 method_related_level: 3
 method_related_stars: "💎"
 method_related_color: "#dcfce7"
@@ -33,6 +33,7 @@ related_concepts:
 related_theories: []
 related_methods:
   - "[[Meta-analysis]]"
+  - "[[Research Synthesis]]"
   - "[[Effect Size]]"
   - "[[Inverse-Variance Weighting]]"
   - "[[Confidence Interval]]"
@@ -62,7 +63,7 @@ related_arguments:
 confidence: high
 status: completed
 created: 2026-06-08
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Fixed-Effect Model
@@ -72,7 +73,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 方法定义
-> 固定效应模型（Fixed-Effect Model）是[[Meta-analysis|元分析]]与证据综合中最基础的统计加权合成模型。该模型建立在强同质性假定之上：假定所有纳入分析的独立初级研究都在估计同一个唯一且恒定不变的总体真实[[Effect Size|效应量]] $\theta$，观测到的跨研究效应量变异完全源于受试者随机[[Sampling Error|抽样误差]]（Sampling Error）。在此假设下，模型通过[[Inverse-Variance Weighting|逆方差加权法]]（Inverse-Variance Weighting, IVW）以各研究抽样方差的倒数赋权（$w_i = 1/v_i$），实现合成估计量方差的最小化。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 39)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch. 17)]]
+> 固定效应模型（Fixed-Effect Model）是[[Meta-analysis|元分析]]与[[Research Synthesis|证据综合]]中最基础的统计加权合成模型。该模型建立在强同质性假定之上：假定所有纳入分析的独立初级研究都在估计同一个唯一且恒定不变的总体真实[[Effect Size|效应量]] $\theta$，观测到的跨研究效应量变异完全源于受试者随机[[Sampling Error|抽样误差]]（Sampling Error）。在此假设下，模型通过[[Inverse-Variance Weighting|逆方差加权法]]（Inverse-Variance Weighting, IVW）以各研究抽样方差的倒数赋权（$w_i = 1/v_i$），实现合成估计量方差的最小化。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 39)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch. 17)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** [[Construct|构念]]定义完全一致、实验干预标准化且受试人群同质的独立初级实证研究效应量矩阵。
@@ -96,7 +97,7 @@ updated: 2026-10-16
 
 > [!method-position] [[Epistemology|认识论]]与方法定位
 > - **知识观** 预设外部世界存在唯一的“客观真实效应”（One True Effect），经验研究的变异被视为随机干扰噪声，追求对普遍常数的高精度逼近。
-> - **研究者角色** 要求研究者严格核实纳入研究的[[Construct|理论构念]]一致性与实验设计可比性；在二级证据综合中必须逐一核查底层主要研究的完全独立性。
+> - **研究者角色** 要求研究者严格核实纳入研究的[[Construct|理论构念]]一致性与实验设计可比性；在二级[[Research Synthesis|证据综合]]中必须逐一核查底层主要研究的完全独立性。
 > - **有效性标准** 统计推断有效性依赖于同质性检验假设成立（Cochran's $Q$ 检验不显著且 $I^2 \approx 0\%$）；统计推论严格封闭于纳入的 $k$ 项特定研究本身，不得向广义超总体推论。
 > - **不声称回答的问题** 无法解释或容纳因教学情境、[[Implementation Fidelity|实施保真度]]与被试群体[[Heterogeneity|异质性]]导致的真实[[Effect Size|效应量]]离散。
 
@@ -236,7 +237,7 @@ updated: 2026-10-16
 > | [[Meta-meta-analysis]] | 上位方法 | 二阶[[Meta-analysis\|元分析]]在固定效应下具备代数等价性，但高度依赖文献完全无重叠的前提。 |
 > | [[Robust Variance Estimation]] | 补救方法 | 在存在文献重叠导致协方差失效时，运用经验残差校正被低估的标准误。 |
 > | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 严格推导两级固定效应代数等价定理，揭示文献重叠导致方差公式失效的机理。 |
-> | [[Argument_Higgins_2016_ROE\|Higgins (2016)]] | 论证 | 系统阐述固定效应与随机效应在证据综合中的哲学假设与推论边界差异。 |
+> | [[Argument_Higgins_2016_ROE\|Higgins (2016)]] | 论证 | 系统阐述固定效应与随机效应在[[Research Synthesis\|证据综合]]中的哲学假设与推论边界差异。 |
 
 ---
 

@@ -13,7 +13,7 @@ aliases:
 summary: "人机交互、认知心理学与人工智能伦理核心构念，指人类操作者过度依赖自动化或人工智能决策支持系统的提示（或沉默），甚至在面对相左证据时仍放弃自主判断或忽视矛盾线索的系统性决策偏差。"
 type: concept
 domain: "educational-technology"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -45,6 +45,7 @@ related_theories: []
 related_methods:
   - "[[Effect Size]]"
   - "[[Correlational Research]]"
+  - "[[Research Synthesis]]"
   - "[[Systematic Review]]"
 related_instruments: []
 related_persons:
@@ -58,7 +59,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-22
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Automation Bias
@@ -238,7 +239,7 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] — 系统构建弱/强自动化偏差理论模型，论证强自动化偏差作为[[Epistemic Deference|认识论顺从]]对自主能动性与道德责任的伦理侵蚀，并提出反思机器与[[Defeater|击败者设计]]框架。
-> - [[Argument_Jansen_2026_EPR|Jansen et al. (2026)]] — 在教育证据综合中探讨自动化偏差风险，提出通过多模型背对背提取与专家仲裁落实[[Meaningful Human Control|有意义的人类控制]]。
+> - [[Argument_Jansen_2026_EPR|Jansen et al. (2026)]] — 在教育[[Research Synthesis|证据综合]]中探讨自动化偏差风险，提出通过多模型背对背提取与专家仲裁落实[[Meaningful Human Control|有意义的人类控制]]。
 > - [[Argument_Li_2026_CEAI|Li et al. (2026)]] — [[Systematic Review|系统综述]]高等教育[[Generative Artificial Intelligence|生成式人工智能]]交互中的心智惰性，强调通过结构化支架注入[[Epistemic Friction|认识论摩擦]]以避免学生被动盲从。
 > - [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] — 诊断大语言模型（Large Language Models, LLMs）无摩擦委派对中间认识动作与[[Evaluative Judgement|评价性判断]]的剥离危害。
 

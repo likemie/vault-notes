@@ -9,7 +9,7 @@ aliases:
 summary: "研究者与实践者审视自身角色、背景、偏见与隐性假设如何塑造研究与行动全过程的认识论机制，从现象学哲学根基延伸至行动研究、教育探究反思性（防范活动陷阱）及人机协同分析中的人在回路主体责任。"
 type: concept
 domain: "research-methodology"
-related_count: 87
+related_count: 88
 related_level: 8
 related_stars: "💎💎⭐⭐"
 related_color: "#ddd6fe"
@@ -94,6 +94,7 @@ related_methods:
 related_persons:
   - "[[Alfred Schutz]]"
   - "[[Harold Garfinkel]]"
+  - "[[Roy Nash]]"
   - "[[Klaus Nielsen]]"
 related_facts: []
 related_arguments:
@@ -113,7 +114,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-06-14
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Reflexivity
@@ -244,7 +245,7 @@ updated: 2026-10-16
 > **深层假设审思与抵御[[Activity Traps\|活动陷阱]]** 在教育[[Action Research\|行动研究]]与校本专业探究中，反身性要求实践者超越对教学技术的表层修补，深入反思影响关键决策的潜在假设（underlying assumptions）与行动理论（theories of action）。若缺乏深层反身性审视，教师极易被高频的表层尝试和忙碌研讨所蒙蔽，陷入盲目寻求解决方案却未确立根本成因的[[Activity Traps\|活动陷阱]]。英格兰小学基线调查表明，教师尝试新方法的活跃度高达 82%，但深层假设的反身性审思率仅为 55%，实证证明了实践者反身性是维系有意义校本探究的决定性防线。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 124–125, 131)]]
 
 > [!claim] Rickinson et al.
-> **探究心智与反思性[[Organizational Culture\|组织文化]]** 莫纳什 Q 计划（[[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a]]）进一步将反身性拓展至高质量研究[[Research Utilization\|证据使用]]生态中。研究指出，反身性不仅表现为个体教育者在审视自身经验前设时的“探究心智”（inquiring mindsets；Evans et al., 2017; Spencer et al., 2012），更依赖学校层面的“反思性组织文化”（reflective organisational culture）。学校必须制度化营建倡导批判反思、宽容试验风险与心理安全的组织环境（Handscomb & MacBeath, 2003; Stoll et al., 2018），唯有当反思性从个体孤立的认识论省察转化为组织共享的文化实践时，教育者才能有效穿透表层操作惯性，防范教研空转，实现证据对教育实践的深层重塑。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 142–144)]]
+> **探究心智与反思性[[Organizational Culture\|组织文化]]** 莫[[Roy Nash|纳什]] Q 计划（[[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a]]）进一步将反身性拓展至高质量研究[[Research Utilization\|证据使用]]生态中。研究指出，反身性不仅表现为个体教育者在审视自身经验前设时的“探究心智”（inquiring mindsets；Evans et al., 2017; Spencer et al., 2012），更依赖学校层面的“反思性组织文化”（reflective organisational culture）。学校必须制度化营建倡导批判反思、宽容试验风险与心理安全的组织环境（Handscomb & MacBeath, 2003; Stoll et al., 2018），唯有当反思性从个体孤立的认识论省察转化为组织共享的文化实践时，教育者才能有效穿透表层操作惯性，防范教研空转，实现证据对教育实践的深层重塑。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 142–144)]]
 
 ---
 
@@ -297,7 +298,7 @@ updated: 2026-10-16
 > - **2000s–2010s — 质性写作规范与[[Operationalization|操作化]]** 克雷斯威尔（[[Argument_Creswell_2022_SAGE|Creswell & Creswell, 2022]]）与沃尔福德（Walford, 2001）推动反身性操作化，确立研究者位置性陈述、第一人称作者叙事规范，并划定克制个人自传性暴露的理论边界。
 > - **2018 — 教育[[Practitioner Enquiry|实践者探究]]中的反身性与[[Activity Traps|活动陷阱]]实证诊断** [[Argument_Brown_Greany_2018_LPS|Brown and Greany (2018)]] 将[[Reflective Thinking|反思性探究]]（Reflective Professional Inquiry）确立为有效学习环境的判定特征；实证揭示了教师高频表层尝试（82%）与深层假设反身性审视严重脱节（55%）的现实落差，论证了反身性缺失诱发[[Activity Traps|活动陷阱]]的组织病理机制。
 > - **2020s — 计算质性分析与[[Meaningful Human Control|人在回路]]主体责任** 面对计算机辅助软件（[[Qualitative Computer Software|CAQDAS]]）与[[Generative Artificial Intelligence|生成式人工智能]]辅助编码的普及，学界确立人在回路（HITL）反身性准则，反身性成为抵御算法黑箱与去情境化的核心防线（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011, pp. 560–561]]）。
-> - **2022 — [[Evidence-Based Education|循证教育]]生态与反思性[[Organizational Culture|组织文化]]确立** 莫纳什 Q 计划（[[Argument_Rickinson_2022_EducRes|Rickinson et al., 2022a]]）在[[Quality Use of Research Evidence Framework|高质量研究证据使用框架]]中，将反身性从个体研究者认识论自省扩展为涵盖“探究心智”与“反思性[[Organizational Culture|组织文化]]”的多层次使能构件，确立了制度化批判反思与心理安全环境在防范循证形式主义中的关键地位。
+> - **2022 — [[Evidence-Based Education|循证教育]]生态与反思性[[Organizational Culture|组织文化]]确立** 莫[[Roy Nash|纳什]] Q 计划（[[Argument_Rickinson_2022_EducRes|Rickinson et al., 2022a]]）在[[Quality Use of Research Evidence Framework|高质量研究证据使用框架]]中，将反身性从个体研究者认识论自省扩展为涵盖“探究心智”与“反思性[[Organizational Culture|组织文化]]”的多层次使能构件，确立了制度化批判反思与心理安全环境在防范循证形式主义中的关键地位。
 > - **2026 — [[Man-Computer Symbiosis|人机协同]]、决策审议所有权与读写反身性防御规程** [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] 确立[[Man-Computer Symbiosis|人机共生]]中的算法影响反身性规约；[[Argument_Han_Gutierez_2026_IJSE|Han and Gutierez (2026)]] 实证揭示反思性提问提示语如何驱动中学生开展接收者认知监控；[[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] 揭示高风险决策回路中[[Automation Bias|强自动化偏差]]对程序反思性（信念修正机能）的破坏，提出反思机器与[[Defeater|反驳型击败者]]架构以恢复反思性卷入与审议所有权；[[Argument_Smith_2026_SPE|Smith (2026)]] 确立写作反身性阈限机制，提出利用反思性提问支架与[[Alien Intelligence|异己智能]]定位抵御生成式 AI 全流程代劳对学生反思性心智实践的剥夺。
 
 ---

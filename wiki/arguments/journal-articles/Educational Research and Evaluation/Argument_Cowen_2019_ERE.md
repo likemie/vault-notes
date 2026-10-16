@@ -9,7 +9,7 @@ title: "Argument_Cowen_2019_ERE"
 argument_key: "Argument_Cowen_2019_ERE"
 argument_display_title: "For whom does 'what works' work? The political economy of evidence-based education"
 argument_kind: "journal-article"
-argument_related_count: 25
+argument_related_count: 26
 argument_related_level: 2
 argument_related_stars: "⭐⭐"
 argument_related_color: "#dbeafe"
@@ -36,6 +36,7 @@ related_concepts:
   - "[[Variable]]"
   - "[[Champ]]"
   - "[[Research Utilization]]"
+  - "[[Learning Styles]]"
   - "[[Policy Borrowing]]"
 related_theories:
   - "[[Tullock's Bureaucracy Theory]]"
@@ -61,7 +62,7 @@ sources:
 part_of: ''
 status: draft
 created: '2026-05-01'
-updated: 2026-10-16
+updated: 2026-10-17
 year: 2019
 doi: ""
 citation_aliases:
@@ -143,7 +144,7 @@ citation_aliases:
 >
 > ### 4. 系统层面的盲区
 >
-> EBE 方法论天然锁定在**学校和课堂层面的干预**，因为只有这些层面可以被[[Random Assignment\|随机分配]]：学习风格可以被实验测试，但选拔性[[Grammar School\|文法学校]]的系统效应则不能。这意味着：
+> EBE 方法论天然锁定在**学校和课堂层面的干预**，因为只有这些层面可以被[[Random Assignment\|随机分配]]：[[Learning Styles|学习风格]]可以被实验测试，但选拔性[[Grammar School\|文法学校]]的系统效应则不能。这意味着：
 >
 > - EBE 内置了 "给定资源，如何使用" 的问题框架——避开 "资源是否足够" 的结构问题
 > - 伦敦弱势学生成绩改善的谜题——长期跨党派政治承诺、地理位置邻近决策中心——在 EBE 框架内无法解释

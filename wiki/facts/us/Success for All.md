@@ -11,7 +11,7 @@ subtype: program
 region: us
 fact_region: "us"
 fact_kind: "program"
-fact_related_count: 44
+fact_related_count: 45
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#ede9fe"
@@ -52,6 +52,7 @@ related_methods:
   - "[[Cluster Randomized Trials]]"
   - "[[Meta-analysis]]"
   - "[[Effect Size]]"
+  - "[[Research Synthesis]]"
 related_instruments: []
 related_persons:
   - "[[Robert Slavin]]"
@@ -80,7 +81,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-05-05
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Success for All
@@ -193,7 +194,7 @@ updated: 2026-10-16
 > > - **第三方元评估结论** [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] 系统核查表明，SFA 在 [[What Works Clearinghouse\|WWC]]、[[Blueprints for Healthy Youth Development\|Blueprints]]、[[Social Programs That Work\|SPTW]]、[[Clearinghouse for Military Family Readiness Continuum of Evidence\|CMFR]]、[[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|CEBC]] 等五家完全独立的第三方清算中心中均获得了极高的独立实证认证，证实其卓越效能具有跨机构的客观公信力。
 
 > [!lessons] SFA 案型揭示的四大循证综合机制
-> [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024, p. 23)]] 指出，SFA 案例深刻展示了即使在全机构一致正向推荐的情境下，证据综合规则如何塑造评级形态：
+> [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024, p. 23)]] 指出，SFA 案例深刻展示了即使在全机构一致正向推荐的情境下，[[Research Synthesis|证据综合]]规则如何塑造评级形态：
 > - **合格证据池规模的极端剪刀差** Blueprints 仅认证 1 项 [[Randomised Controlled Trials\|RCT]]（Borman et al., 2007），而 BEE 合成了 23 项研究，两者文献量相差达 23 倍；
 > - **对同一标杆 RCT 的质量审视分歧** SPTW 完全认可 Borman (2007) 的基线等值性，而 Blueprints 则挑出其缺乏长期随访与族裔基线失衡；
 > - **WWC 细分结果域穿透对项目形象的解构** WWC 拆分发现其语音拼读极强（Positive），但阅读理解为 Mixed，难以向校长传递单一强推荐信号；

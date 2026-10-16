@@ -10,7 +10,7 @@ subtype: policy
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "policy"
-fact_related_count: 25
+fact_related_count: 26
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dbeafe"
@@ -44,6 +44,7 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[John Hattie]]"
+  - "[[Ivan Snook]]"
 related_facts:
   - "[[Tomorrow's Schools Reforms]]"
   - "[[Carter Review of Initial Teacher Training]]"
@@ -111,7 +112,7 @@ updated: 2026-10-17
 > - **1985 年 — 议会调查正式启动** 新西兰议会教育与科学选择委员会在主席诺埃尔·斯科特主持下，就新西兰公立中小学教学质量与评价制度启动跨党派专项议会调查。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 103)]]
 > - **1986 年 — 《斯科特报告》正式呈交** 委员会向议会正式递交《教学质量调查报告》（*Report on the Enquiry into the Quality of Teaching*），确立了“承认测量紧迫性、但警示研发漫长复杂并提议设大学研究单位”的基本基调。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 103)]]
 > - **1989 年 — 《明日学校》改制与建议实际搁置** 新西兰推行激进的校本自治改革，但后续政府面对巨大的研发经费与技术壁垒，始终未建立大学教师表现测量研发单位。
-> - **2009 年 — 托利部长政策征用引发历史回响** 新西兰教育部长安妮·托利（Anne Tolley）在广播电视上征用[[John Hattie|约翰·哈蒂]]（John Hattie）数据推销[[Performance Pay|绩效工资]]；斯努克等学者援引《斯科特报告》发起猛烈抨击，揭露其罔顾 23 年前议会审慎共识的[[Historical Amnesia|历史失忆症]]。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 103)]]
+> - **2009 年 — 托利部长政策征用引发历史回响** 新西兰教育部长安妮·托利（Anne Tolley）在广播电视上征用[[John Hattie|约翰·哈蒂]]（John Hattie）数据推销[[Performance Pay|绩效工资]]；[[Ivan Snook|斯努克]]等学者援引《斯科特报告》发起猛烈抨击，揭露其罔顾 23 年前议会审慎共识的[[Historical Amnesia|历史失忆症]]。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 103)]]
 > - **2010 年 — 哈蒂学理辩护与测量困境承认** 哈蒂在第二回合学术论辩中明确承认，客观测量优秀教学具有极高的技术困难，目前粗暴的绩效考评不仅未能提供改善学习的证据，反而极易退化为利益博弈。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, pp. 91–92)]]
 
 ---
@@ -154,7 +155,7 @@ updated: 2026-10-17
 > > 围绕教育部长公开征用哈蒂数据推销[[Performance Pay|绩效工资]]的学术伦理与政策修辞展开的辩论。
 > >
 > > - **新西兰教育部官方修辞** 安妮·托利公开宣称哈蒂《[[Visible Learning|可见的学习]]》确立了教师是最大校内影响[[Variable|变量]]，因此依据学生[[Academic Achievement|学业表现]]实行绩效工资具有充分科学证据。
-> > - **批判学者反驳与哈蒂澄清** 斯努克等人指出部长的言论无视了 25 年来国际功绩工资的失败史（Murnane & Cohen, 1981）与《斯科特报告》关于测量工具缺失的定论；哈蒂本人亦在随后的论辩中退守，澄清其仅支持审慎探索基于同行评议的高阶专业水平认定，坚决否认支持简单计件式的绩效挂钩。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 103)]]; [[Argument_Hattie_2010_NZJES|(Hattie, 2010, pp. 91–92)]]
+> > - **批判学者反驳与哈蒂澄清** [[Ivan Snook|斯努克]]等人指出部长的言论无视了 25 年来国际功绩工资的失败史（Murnane & Cohen, 1981）与《斯科特报告》关于测量工具缺失的定论；哈蒂本人亦在随后的论辩中退守，澄清其仅支持审慎探索基于同行评议的高阶专业水平认定，坚决否认支持简单计件式的绩效挂钩。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 103)]]; [[Argument_Hattie_2010_NZJES|(Hattie, 2010, pp. 91–92)]]
 
 > [!lessons]- 经验教训与启示
 > 1. **严禁在测量工具缺位时强行挂钩薪酬** 缺乏信效度检验的评价工具若直接与教师经济报酬绑定，必然诱发系统性投机、篡改数据与应试异化，严重破坏公立教育的育人初心。

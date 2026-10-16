@@ -11,9 +11,9 @@ subtype: program
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "program"
-fact_related_count: 19
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 20
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
 period: "2000–2002"
 initiator_organization: "新西兰教育部（Ministry of Education）"
@@ -43,6 +43,7 @@ related_methods:
 related_instruments: []
 related_persons:
   - "[[John Hattie]]"
+  - "[[Ivan Snook]]"
 related_facts:
   - "[[Tennessee STAR Project 1985-1989]]"
   - "[[The Scott Report]]"
@@ -157,7 +158,7 @@ updated: 2026-10-17
 > > - **新西兰教育部与创新教学法立场** 倾向于将项目的成功宣传为创新教学技能与专业发展的胜利，弱化其背后巨额的编制与降班成本。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, p. 102)]]
 > > - **批判学者立场（Snook 等人）** 指出项目的成功同样可以归因于班额从 28 人减半至 15 人的物理条件；在研究期间班级规模被人为保持在极低水平，若将该成果剥离出小班条件并宣称“班级规模无用”，属于严重的实证误导。[[Argument_Snook_2009_NZJES|(Snook et al., 2009, pp. 96, 102)]]
 >
-> > [!axis] [[John Hattie|哈蒂]]政策征用与斯努克因果条件解构的正面交锋
+> > [!axis] [[John Hattie|哈蒂]]政策征用与[[Ivan Snook|斯努克]]因果条件解构的正面交锋
 > > 争论焦点在于能否以 PACE 项目证明“教师专业发展重要而班级规模无足轻重”。
 > >
 > > - **[[John Hattie|约翰·哈蒂]]与政策制定者立场** 哈蒂在《[[Visible Learning|可见的学习]]》中将教师专业发展列为高[[Effect Size|效应量]]因素，而将班级规模降格为中低效应；政策界据此援引 PACE 宣称改革重心应放在教师培训而非昂贵的小班化上。

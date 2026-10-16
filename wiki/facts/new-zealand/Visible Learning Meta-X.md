@@ -10,7 +10,7 @@ subtype: program
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "program"
-fact_related_count: 31
+fact_related_count: 32
 fact_related_level: 3
 fact_related_stars: "💎"
 fact_related_color: "#ede9fe"
@@ -50,6 +50,7 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Random-Effects Model]]"
   - "[[Random Sampling]]"
+  - "[[Research Synthesis]]"
   - "[[Intraclass Correlation Coefficient]]"
   - "[[Fixed-Effect Model]]"
 related_instruments: []
@@ -65,7 +66,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: 2026-09-18
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Visible Learning Meta-X
@@ -118,7 +119,7 @@ updated: 2026-10-16
 
 > [!actor-grid] 主要使用群体与应用取向
 > - **教育政策与实务决策者** 利用数据库快速检索并定位特定教育干预的综合[[Effect Size|效应量]]证据，支持学校改进决策、资源分配与政策优先级排序。
-> - **证据综合与方法学研究者** 将数据库作为[[Meta-meta-analysis|二阶元分析]]的数据来源与测试基准，用于检验[[Meta-analysis|元分析]]方法稳健性、评估自动化与 AI 辅助数据提取工具，或开展跨国实证证据比较。
+> - **[[Research Synthesis|证据综合]]与方法学研究者** 将数据库作为[[Meta-meta-analysis|二阶元分析]]的数据来源与测试基准，用于检验[[Meta-analysis|元分析]]方法稳健性、评估自动化与 AI 辅助数据提取工具，或开展跨国实证证据比较。
 
 > [!evidence-grid] 典型学术研究与方法学检验
 > - **[[Argument_Jansen_2026_EPR|Jansen et al. (2026)]]** 从数据库随机抽取 156 项[[Academic Achievement|学业成就]]相关元分析，系统评估三种前沿大语言模型（Gemini 2.5 Pro、[[General Purpose Technology|GPT]]-4.1、GPT-o3）在[[Automated Data Extraction|自动化数据提取]]中的准确性，建立人机混合验证[[Paradigm|范式]]。

@@ -11,7 +11,7 @@ aliases:
 summary: "社会认识论、认知伦理学与人机协同核心概念，指认知主体将外部行动者或技术系统的判断视为比自身判断更具权威性与可信度，单凭来源属性而放弃自主审思与反常证据权衡的认识论让渡状态。"
 type: concept
 domain: "educational-philosophy"
-related_count: 21
+related_count: 22
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -40,6 +40,7 @@ related_theories: []
 related_methods:
   - "[[Correlational Research]]"
   - "[[Philosophical Analysis in Education]]"
+  - "[[Research Synthesis]]"
 related_instruments: []
 related_persons:
   - "[[Socrates]]"
@@ -52,7 +53,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-09-22
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Epistemic Deference
@@ -177,7 +178,7 @@ updated: 2026-10-16
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Jovchevski_2026_PT|Jovchevski et al. (2026)]] — 将[[Epistemology|认识论]]顺从引入[[Automation Bias|强自动化偏差]]的规范[[Philosophical Analysis in Education|哲学分析]]，论证其对自主能动性与道德能动性的双重侵蚀，并提出基于反思机器与[[Defeater|击败者]]的干预机制。
 > - [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] — 批判无摩擦委派中学习者将中间认识劳动全盘让渡给大语言模型（Large Language Models, LLMs）的[[Epistemic Dependence|认识依赖]]风险。
-> - [[Argument_Jansen_2026_EPR|Jansen et al. (2026)]] — 论证在证据综合中防止对大模型输出的形式化顺从，确立人类专家对分歧数据的最终裁决权。
+> - [[Argument_Jansen_2026_EPR|Jansen et al. (2026)]] — 论证在[[Research Synthesis|证据综合]]中防止对大模型输出的形式化顺从，确立人类专家对分歧数据的最终裁决权。
 
 ---
 
