@@ -81,6 +81,7 @@ related_persons:
   - "[[Stephen Ball]]"
   - "[[Sir Kevan Collins]]"
   - "[[Michael Traill]]"
+  - "[[John Hattie]]"
 related_facts:
   - "[[Social Ventures Australia]]"
   - "[[Education Endowment Foundation]]"
@@ -94,6 +95,7 @@ related_facts:
   - "[[Impetus]]"
   - "[[Evidence for Learning]]"
   - "[[EEF Teaching and Learning Toolkit]]"
+  - "[[Cognition Education]]"
 related_arguments:
   - "[[Argument_Skourdoumbis_2024_AER]]"
   - "[[Argument_Rowe_2022_IJER]]"
@@ -102,6 +104,7 @@ related_arguments:
   - "[[Argument_Kickert_1995_Governance]]"
   - "[[Argument_Helgetun_2022_JEdPolicy]]"
   - "[[Argument_Revai_2022_ChangingLandscape]]"
+  - "[[Argument_ONeill_2016_Report]]"
 confidence: high
 status: completed
 created: 2026-06-17
@@ -118,7 +121,7 @@ updated: 2026-10-16
 > 政策网络（Policy Network）指由政府行政机构、[[Knowledge Mediation\|知识中介]]组织、智库、科研院所、慈善基金会以及企业科技资本等多元公私行动者构成的网状治理结构。
 >
 > 在教育研究与治理文献中，该概念展现出三大互补的研究视角：
-> 1. **批判政策社会学视角** 特指打破传统国家科层层级、通过非正式人事重叠、引文网络交织与资金纽带协同运作的**全球政策网络（Global Policy Networks）**，揭示资本与公权力联合开展理念编排（idea orchestration）与耐用客体装配的异质治理（heterarchy）机制；实证研究进一步表明，国家并未在此类网络中空心化退场，而是主动充当市场缔造者与资助催化平台，通过立法特许和定向配资重构国家再分配职能（Ball, 2012; [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024]]；[[Argument_Rowe_2022_IJER\|Rowe, 2022]]；[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023]]）。
+> 1. **批判政策社会学视角** 特指打破传统国家科层层级、通过非正式人事重叠、引文网络交织与资金纽带协同运作的**全球政策网络（Global Policy Networks）**，揭示资本与公权力联合开展理念编排（idea orchestration）与耐用客体装配的异质治理（heterarchy）机制；实证研究进一步表明，国家并未在此类网络中空心化退场，而是主动充当市场缔造者与资助催化平台，通过立法特许和定向配资重构国家再分配职能（Ball, 2012; [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024]]；[[Argument_Rowe_2022_IJER\|Rowe, 2022]]；[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023]]；[[Argument_ONeill_2016_Report\|O'Neill et al., 2016]]）。
 > 2. **实证公共治理与证据生态视角** 聚焦最高教育行政机构（如教育部委）在政策制定过程中定期征询外部多元主体的组织联结网络，重点测度网络规模（network size）、联结强度（tie strength）以及政策促成相关性，揭示网络规模与互动深度非线性解耦的体制机理（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, pp. 76, 84–87]]）。
 > 3. **公共行政与网络协调[[Theoretical Perspective|理论视角]]** 将政策网络界定为由多重相对自主行动者相互依赖交织而成的非层级系统。专业化与分工使各子系统具有异质自主理性，缺乏单一统摄性的公共利益；科层自上而下的命令在此类多理性网络中结构性失效（“网络中不存在绝对顶层”），促使政府调控从单向强制转向非强制激励、规则博弈与基于理性论证的对话（[[Argument_Kickert_1995_Governance\|Kickert, 1995, pp. 148–150]]）。
 
@@ -165,12 +168,15 @@ updated: 2026-10-16
 > - **耐用客体装配与立法锚定（Inanimate [[Assemblage]] & Legislative Anchoring）** 政策网络借助《公司法》注册资质、法案修改条款、公司章程以及因果实证量规等耐用客体，将特定的私营分包与公私合作模式制度化固化为国家行政常态（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 1–3, 5]]）。
 > - **国家作为异层催化者与市场缔造者（State as Heterarchical Catalyst and Market-Maker）** 现代国家在政策网络中并未空心化退场，而是主动运用法案修正案、公司法特许和定向财政注资，充当资助者、经纪人与市场缔造者，为非民选商业中介提供合法特权与通道（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 522–523]]）。
 > - **非对称权力与结构性分层（Asymmetric Network Stratification）** 政策网络呈现出极不对称的权力拓扑：顶层商业银行、咨询寡头与[[Venture Philanthropy\|风险慈善]]枢纽通过保密竞标与高层旋转门直接对话核心决策层；网络末端的弱势公立学校则被剥离主体地位，退化为被迫竞逐微额资助并接受商业绩效量规[[Disciplina and Doctrina\|规训]]的被动受助者（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 527–528]]）。
+> - **连锁董事治理同盟（Interlocking Directorates & Policy Coalitions）** 跨界精英通过同时出任非营利中介、商业公司、慈善基金会与咨询委员会董事形成密集连锁网络（如前教育部高官、对冲基金合伙人、跨国广告巨头高管与地方信托负责人共同进入理事会），绕过常规科层审批与公立大学认证壁垒，强推非传统政策方案（[[Argument_ONeill_2016_Report\|O'Neill et al., 2016, pp. 49–54]]）。
+> - **学术商标特许与跨国商业代理网络（Academic Franchise & Intermediary Marketing Networks）** 由权威学者、本土 EMO、跨国商业出版集团与科技分包商构成的跨界资本闭环，将公立科研成果包装为具有排他性法律壁垒的注册商标，并在数十国推行商业特许经营与咨询认证，实现跨国资本积累与个人版税分红（[[Argument_ONeill_2016_Report\|O'Neill et al., 2016, pp. 65–70]]）。
 > - **金融化[[Epistemology\|认识论]]粘合剂（Financialised Epistemic Bindings）** 政策网络以“买入”（buy in）、“[[Educational Brokerage Agency\|证据经纪人]]”（evidence broker）及“金钱是对话的通用货币”等金融从业话语作为共同认识论纽带，将商业投资逻辑植入公共教育（[[Argument_Rowe_2022_IJER\|Rowe, 2022, pp. 3–4]]）。
 > - **政治把关与排他性授权（Political Gatekeeping & Selective Empowerment）** 中央教育行政部门作为网络[[Gatekeepers\|守门人]]，通过排他性授权设立官方代言机构（如[[Chartered College of Teaching\|特许教学学院]] CCT、[[Teaching Schools\|教学学校]]理事会 TSC）并定向委任审查专家，系统筛选证据准入与咨询声音（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, p. 93]]）。
 > - **非正式中介与口口相传网络（Informal Intermediaries & Word-of-Mouth Ties）** 面对官僚高频轮岗，决策者极度依赖社交媒体意见领袖、博客博主与口口相传的人际中介网络获取去语境化的研究结论，替代了正式的文献审查机制（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, pp. 94–96]]）。
 > - **网络规模与联结强度（Network Size & Tie Strength）** 测度部委定期征询的组织类型广度（0–16 类）与日常互动的频度深度（1–6 点量表），揭示网络广覆盖与弱互动之间的结构性脱离（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, pp. 84–85]]）。
 > - **生产依附偏误（Production Dependency Bias）** 决策网络习惯性依附于传统学术生产者（大学、公共研究机构），而在体制上系统性排斥专注于转译与传播的纯中介机构（智库、专业协会）（[[Argument_Hill_2022_FacilitatingActors\|Hill, 2022, p. 86]]）。
 > - **多重理性与去中心结构（Multi-rationality & Decentralised Topology）** 政策网络内的高度专业化使不同行动者拥有源于学科或职业共同体的异质规范与理性，无法被单一的层级总体理性统摄；由于网络缺乏绝对的层级中心，传统自上而下的行政协调失效，必须代之以非强制性行为激励与协商对话（[[Argument_Kickert_1995_Governance\|Kickert, 1995, pp. 149–150]]）。
+
 
 ## 围绕概念形成的命题
 
@@ -276,6 +282,18 @@ updated: 2026-10-16
 
 ---
 
+### 命题九　跨界连锁董事网络与跨国学术特许结盟绕过传统科层主导政策突破与商业扩张
+
+> [!concept-lens] 连锁董事同盟与跨国商标特许的政策推进机制
+> 探讨精英行动者如何跨越政、商、学、慈界限组建治理同盟，突破传统科层体制阻力推行争议性改革，并将学术中立知识转化为跨国商业特许帝国。
+
+> [!claim] O'Neill, J. et al.
+> **连锁董事同盟与跨国知识特许对代议制民主科层的绕道突破** 约翰·奥尼尔（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）指出，当代政策网络不仅依靠理念与资金流动，更依托精密的**连锁董事网络（Interlocking Directorates Network）** 与跨国特许经营架构实现政策突防：
+> 1. **跨界治理同盟突破科层壁垒** 在替代性教师培训项目“为新西兰而教”（Teach First NZ, TFNZ）中，前教育部高级官员、对冲基金合伙人、跨国广告巨头高管与地方慈善信托首席执行官共同组成紧密的董事会网络。该跨界同盟直接跳过传统公立大学师范学院与官方教师资格认证的繁琐规制流程，以内阁高层游说直接换取国家定向财政专款立项与法规豁免，完成了传统科层体制下不可逾越的政策突破（pp. 49–54）；
+> 2. **学术品牌与商业中介跨国特许闭环** 权威学者（如 [[John Hattie]]）将公立科研成果排他性授权予私营教育管理组织（如 [[Cognition Education]]），后者注册“[[Visible Learning Branding and Global Influences|Visible Learningplus]]”商标并联合跨国出版商与传媒科技企业（如 Corwin、Macmillan、Ai-Media），在全球 35 国构筑起涵盖咨询、培训、评估工具与认证授权的商业特许帝国。网络内部节点互相输送巨额商业利润与个人版税分红，彻底架空了公共教育的民主受托与审计防线（pp. 65–70）。
+
+---
+
 ### 命题总览
 
 > [!contrast-table] 所有命题归纳
@@ -289,6 +307,7 @@ updated: 2026-10-16
 > | **共同从属与耐用客体装配命题** | 人事交叉兼职闭环结合公司法与量规等无生命客体，掩护资本隐蔽掌控议程 | 国家级证据中介创设、[[Social Impact Investing\|风险慈善]]游说与立法特许商业分包 | [[Argument_Rowe_2022_IJER\|Rowe (2022, pp. 1–5, 8–11)]] |
 > | **国家催化与异层再分配命题** | 政策网络推动国家演化为市场缔造者，通过立法特许和补贴导致公共财政向中介逆流 | 福利国家转型、公立教育财政危机与[[Philanthrocapitalism\|慈善资本主义]]再分配机制 | [[Argument_Rowe_2023_ECNUROE\|Rowe (2023, pp. 522–523, 527–532)]] |
 > | **多理性网络科层失灵命题** | 专业分工导致多重异质理性并存，去中心网络缺乏绝对顶层，单向科层命令必然失灵并转向激励协商 | 半自治专业公共部门、高校网络与政府间关系 | [[Walter J. M. Kickert\|Kickert (1995, pp. 148–150)]] |
+> | **连锁董事与学术特许突防命题** | 跨界连锁董事网络结合全球学术商标特许代理，绕过传统科层规制实现政策突破与资本积累 | 替代性教师资格认证、教育管理组织跨国扩张与学者商业特许同盟 | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016, pp. 49–54, 65–70)]] |
 
 ---
 

@@ -81,6 +81,21 @@
               "icon": "lucide-file",
               "title": "Argument_ONeill_2016_Report"
             }
+          },
+          {
+            "id": "e287e11af089d057",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/concepts/political-economy-geopolitics/Network Governance.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Network Governance"
+            }
           }
         ],
         "currentTab": 4
@@ -290,6 +305,8 @@
   },
   "active": "234d452edd1bdd48",
   "lastOpenFiles": [
+    "wiki/concepts/political-economy-geopolitics/Network Governance.md",
+    "wiki/arguments/reports-policy-documents/Argument_ONeill_2016_Report.md",
     "tmp_methodology.txt",
     "tmp_conclusion.txt",
     "tmp_case_kidscan.txt",
@@ -300,7 +317,6 @@
     "tmp_case_pearson.txt",
     "tmp_networks.txt",
     "tmp_emos_phil.txt",
-    "tmp_context.txt",
     "sources/ONeill_2016_Report/figures/ONeill_2016_Report_Fig6_7_Educational_Charities_Assets.jpg",
     "sources/ONeill_2016_Report/figures/ONeill_2016_Report_Fig4_5_Educational_Charities_Expenditure.jpg",
     "sources/ONeill_2016_Report/figures/ONeill_2016_Report_Fig2_3_Educational_Charities_Income.jpg",
@@ -334,7 +350,6 @@
     "sources/Schulze-Cleven_2017_HE.md",
     "sources/Berk_2011_EvalRev.md",
     "sources/Nelson_2017_EducRes.md",
-    "sources/Brown_2017_EducRes.md",
-    "sources/Chinn_2011_EducPsychol.md"
+    "sources/Brown_2017_EducRes.md"
   ]
 }

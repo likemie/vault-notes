@@ -5,6 +5,10 @@
       "path": "wiki/arguments/reports-policy-documents/Argument_ONeill_2016_Report.md"
     },
     {
+      "basename": "Network Governance",
+      "path": "wiki/concepts/political-economy-geopolitics/Network Governance.md"
+    },
+    {
       "basename": "Critiques of Visible Learning",
       "path": "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "International Baccalaureate Nutritional Science Course",
       "path": "wiki/facts/multi/International Baccalaureate Nutritional Science Course.md"
-    },
-    {
-      "basename": "World Education Indicators",
-      "path": "wiki/facts/global/World Education Indicators.md"
     }
   ],
   "omittedPaths": [],
