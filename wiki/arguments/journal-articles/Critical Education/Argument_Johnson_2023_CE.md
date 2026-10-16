@@ -230,7 +230,7 @@ updated: "2026-10-16"
 过度迷恋量化数据催生了学者鲍尔所指出的[[Performativity|表演性]]困境，教师被要求不断提供外在材料来证明自身的合规性。（pp. 29–30）
 
 > [!case] 维多利亚州推行高影响力教学策略的实践恶果
-> 澳大利亚部分地区将基于 VL 提炼的高影响力教学策略（High Impact Teaching Strategies, [[Victorian HITS and Literacy Toolkit|HITS]]）变成刚性制度，给基层学校带来严重困扰：
+> 澳大利亚部分地区将基于 VL 提炼的高影响力教学策略（[[Victorian HITS and Literacy Toolkit|High Impact Teaching Strategies]], [[Victorian HITS and Literacy Toolkit|HITS]]）变成刚性制度，给基层学校带来严重困扰：
 > - **形式主义板书打卡** 教师被硬性规定在上课铃响前必须在白板上端正写出当堂课题与[[Learning Intentions|学习意图]]，否则在教学常规检查中便会被扣分。（p. 29）
 > - **日常专业自主权流失** 僵化的打卡清单取代了教师根据课堂现场氛围灵活变通的专业直觉，同行间的合作信任和执教热情受到严重打击。（pp. 29–30）
 > - **学生被视作测验数据点** 学生不再被看作需要全面发展的鲜活个体，而被降格为需要被赋予应试能力的数据产出工具。（p. 29）

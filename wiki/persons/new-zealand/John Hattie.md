@@ -8,7 +8,7 @@ summary: "新西兰教育统计学家，Visible Learning作者与元分析综合
 type: person
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 125
+person_related_count: 129
 person_related_level: 6
 person_related_stars: "⭐⭐⭐⭐⭐⭐"
 person_related_color: "#fef3c7"
@@ -35,13 +35,15 @@ related_concepts:
   - "[[Learning Progression]]"
   - "[[Educational Brokerage Agency]]"
   - "[[Neo-Taylorism]]"
+  - "[[Preregistration]]"
+  - "[[Metascience]]"
+  - "[[Research Question]]"
   - "[[New Public Management]]"
   - "[[School Effectiveness]]"
   - "[[Deficit Framing]]"
   - "[[Implementation Fidelity]]"
   - "[[Research Translation]]"
   - "[[Heterogeneity]]"
-  - "[[Research Question]]"
   - "[[Structural Coupling]]"
   - "[[Problem-Based Learning]]"
   - "[[Problem Solving]]"
@@ -64,6 +66,8 @@ related_concepts:
   - "[[Critic and Conscience of Society]]"
   - "[[Whole Language]]"
   - "[[PICO Framework]]"
+  - "[[Commensuration]]"
+  - "[[Reliability]]"
   - "[[Positivism]]"
   - "[[Bildung]]"
   - "[[Screening Off]]"
@@ -192,7 +196,7 @@ updated: 2026-10-16
 > - **2013–2014** 出任 1600 万澳元澳大利亚科学学习研究中心副主任；获任命为澳大利亚教学与[[School Leadership\|学校领导力]]研究院（[[Australian Institute for Teaching and School Leadership\|AITSL]]）董事会主席，其工作全面嵌入国家教师与校长专业标准。[[Argument_ONeill_2016_Report\|(O'Neill et al., 2016, p. 50)]]
 > - **2015** 推出 Visible Classroom 应用，由英国[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation，EEF）资助 36 万英镑试点；培生集团发布其思想领导力文章，连接学术与商业跨国网络；丹麦公立学校改革引发《可见的学习》[[Going Native\|本土化]]激烈争辩。[[Argument_Fredens_2015_Paideia\|(Fredens, 2015)]]
 > - **2016–2023** 英国教育部 Coldwell et al. 报告将其列为官方认可证据来源；出任澳大利亚[[Educational Brokerage Agency\|证据中介机构]][[Evidence for Learning]]（E4L）学校专家咨询委员会（Schools Expert Reference Council）主席，为澳大利亚版《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》及指导指南的本土化研发提供核心专家指导；澳大利亚广播公司（Australian Broadcasting Corporation，ABC）纪录片《革命学校》将其描绘为公共教育拯救者；在学术界遭遇伪科学与[[Neo-Taylorism\|新泰勒主义]]系统批判的同时，转向三阶段学习模型并反思“结果的暴政”；北欧政策咨询网络实证揭示其研究在法定行政法令起草中遭遇断崖式引文清洗。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
-> - **2024 至今** 持续滚动扩充其维护的全球最大教育元分析数据库 [[Visible Learning Meta-X]]（收录 2,100+ 项元分析）；2025 年瑞典学者卡尔门达尔（Kalmendal）团队发表里程碑式的预注册全量元科学审计（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]），对《可见的学习》全库 322 项影响因素展开详尽检验，证实其仅 19% 满足研究问题纳入基准且数据提取复现率仅 0.66%，直接撼动了该体系作为循证政策基石的合法性；2026 年与 Jansen 等学者合作在《教育心理学评论》（*Educational Psychology Review*）发表实证评测（[[Argument_Jansen_2026_EPR|Jansen et al., 2026]]），以其数据库为基准检验大语言模型数据提取准确性并揭示人机混合质控[[Paradigm|范式]]。
+> - **2024 至今** 持续滚动扩充其维护的全球最大教育元分析数据库 [[Visible Learning Meta-X]]（收录 2,100+ 项元分析）；2025 年瑞典学者卡尔门达尔（Kalmendal）团队发表里程碑式的[[Preregistration|预注册]]全量[[Metascience|元科学]]审计（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]），对《可见的学习》全库 322 项影响因素展开详尽检验，证实其仅 19% 满足[[Research Question|研究问题]]纳入基准且数据提取复现率仅 0.66%，直接撼动了该体系作为循证政策基石的合法性；2026 年与 Jansen 等学者合作在《教育心理学评论》（*Educational Psychology Review*）发表实证评测（[[Argument_Jansen_2026_EPR|Jansen et al., 2026]]），以其数据库为基准检验大语言模型数据提取准确性并揭示人机混合质控[[Paradigm|范式]]。
 
 ---
 
@@ -209,7 +213,7 @@ updated: 2026-10-16
 >   - **阶段转向** 在 2005 年 [[Australian Council for Educational Research\|ACER]] 会议论文中首次系统提炼《可见的学习》核心统计骨架（$d=0.40$ 相对有效性门槛与教师因果核心地位），批判 [[No Child Left Behind Act 2001\|NCLB]] 自上而下的惩罚性问责，主张依托 asTTle 系统将评价结果重塑为教师反思自身教学效能的镜像；随后在 2009 年专著中将元综合结果扩展为具有全球影响力的干预效果排行榜，确立教师作为主动激活者的核心论调。
 > - **2014–2016 — 认知科学整合、品牌扩张与实施工程阶段** 此阶段主要回应首版著作理论根基薄弱、脱离课堂微观情境以及学校现场落实困难的批评。
 >   - **代表著作** Hattie and Yates (2014) *Visible learning and the science of how we learn*；Hattie, Masters, & Birch (2016) *Visible learning into action*；Fisher, Frey, & Hattie (2016) *Visible learning for literacy*。[[Argument_Knudsen_2017_NordSTEP\|(Knudsen, 2017, p. 254)]]
->   - **关键概念／方法** 脑科学认知原则、方案忠实执行（[[Implementation Fidelity\|fidelity of implementation]]）、高影响教学策略（High Impact Teaching Strategies，[[Victorian HITS and Literacy Toolkit\|HITS]]）、全校改进工程。
+>   - **关键概念／方法** 脑科学认知原则、方案忠实执行（[[Implementation Fidelity\|fidelity of implementation]]）、高影响教学策略（[[Victorian HITS and Literacy Toolkit|High Impact Teaching Strategies]]，[[Victorian HITS and Literacy Toolkit\|HITS]]）、全校改进工程。
 >   - **阶段转向** 结合认知科学阐释学习机制，将学术[[Research Translation\|研究转化]]为连锁经营式的培训、评估工具（asTTle）与学校认证系统，强调将效应量结合学段解释，把[[Heterogeneity\|异质性]]转化为[[Research Question\|研究问题]]。
 > - **2016 至今 — 排名反思、三阶段学习模型与跨国治理批判阶段** 此阶段主要回应学界关于伪科学、[[Neo-Taylorism\|新泰勒主义]]监控的指控以及在北欧等国政策咨询中的治理落差。
 >   - **代表著作** Hattie and Donoghue (2016) *Learning strategies: a synthesis and conceptual model*；Hattie (2020) *Lessons from Lockdown*；Hattie (2023) *Visible Learning: The Sequel*。[[Argument_Blass_2020_JESP\|(Blass, 2020, pp. 95–96)]]
@@ -309,7 +313,7 @@ updated: 2026-10-16
 > > - **Wecker 等人** 构建三层[[Analytic Framework\|分析框架]]揭示六步骤均存方法缺陷（Fisher's z 省略、[[Standard Error\|标准误]]与标准差混淆、无[[Confidence Interval\|置信区间]]检验、[[Fixed-Effect and Random-Effects Models\|固定效应模型]]不适），判定愿景有远见但科学上不可行。[[Argument_Wecker_2016_ZfE\|(Wecker et al., 2016)]]
 > > - **Bergeron 与 Rivard** 从统计学家视角定性为伪科学：常用[[Effect Size\|效应量]]（Common Language Effect Size，CLE）计算错误出现负概率、不同效应量公式产生矛盾排名、聚合任意性。[[Argument_Bergeron_2017_MJE\|(Bergeron & Rivard, 2017)]]
 > > - **Allerup 与 O'Connor** 指出排名缺乏显著性检验且[[Societies of Control\|控制社会]]背景后边际效应大跌；[[Whole Language\|全语言]]案例审查揭示分类错误与先验偏见驱动的单向修正。[[Argument_Allerup_2015_Paideia\|(Allerup, 2015)]]; [[Argument_OConnor_2020_AJLL\|(O'Connor, 2020)]]
-> > - **Kalmendal 等人** 开展学界首个针对《可见的学习》（1.2 版）全量 322 个影响因素的预注册元科学审计，发现该体系在证据生成各环节存在系统性崩溃：仅 19% 满足 [[PICO Framework\|PICO]] 纳入基准，27% 混杂了不可通约的组间、组内及相关设计；在检验的 301 个影响因素中，仅 2 项（0.66%）可完全复现数据提取，44% 报告的效应量在引证原文中完全不存在，实证终结了其通用连续体与聚合效应量的科学可信度。[[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, pp. 1, 14–19)]]
+> > - **Kalmendal 等人** 开展学界首个针对《[[Visible Learning|可见的学习]]》（1.2 版）全量 322 个影响因素的[[Preregistration|预注册]][[Metascience|元科学]]审计，发现该体系在证据生成各环节存在系统性崩溃：仅 19% 满足 [[PICO Framework\|PICO]] 纳入基准，27% 混杂了不可[[Commensuration|通约]]的组间、组内及[[Correlational Research|相关设计]]；在检验的 301 个影响因素中，仅 2 项（0.66%）可完全复现数据提取，44% 报告的效应量在引证原文中完全不存在，实证终结了其通用连续体与聚合效应量的科学可[[Reliability|信度]]。[[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, pp. 1, 14–19)]]
 >
 > > [!axis] 文化政治批判：[[Cult of the Guru\|大师崇拜]]、[[Neo-Taylorism\|新泰勒主义]]与[[Policy Brokerage\|政策中介]]制度落差
 > > 批判其对教师专业主体的贬低、商业化利益冲突以及在国家硬性规制中的制度穿透力不足。
