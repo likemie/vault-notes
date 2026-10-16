@@ -7,7 +7,7 @@ summary: "美国公立学校运动领袖与马萨诸塞州教育委员会首任�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 37
+person_related_count: 38
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -50,6 +50,7 @@ related_persons:
   - "[[Victor Cousin]]"
   - "[[Henry Barnard]]"
   - "[[Johann Heinrich Pestalozzi]]"
+  - "[[Michael Fullan]]"
   - "[[Andreas Kazamias]]"
   - "[[Calvin Stowe]]"
   - "[[Val D. Rust]]"
@@ -99,7 +100,7 @@ updated: 2026-10-16
 曼的职涯展现了从执业律师、州立法领袖走向全美公立教育奠基人与民权捍卫者的清晰轨迹：
 
 > [!timeline] 生平与职涯
-> - **1796** 出生于马萨诸塞州富兰克林一个清贫农户，少年时期克服严酷贫困主要依靠自学，20 岁考入布朗大学并以优等生毕业，后入读利奇菲尔德法学院成为执业律师。
+> - **1796** 出生于马萨诸塞州[[Michael Fullan|富兰]]克林一个清贫农户，少年时期克服严酷贫困主要依靠自学，20 岁考入布朗大学并以优等生毕业，后入读利奇菲尔德法学院成为执业律师。
 > - **1827–1837** 步入政坛，历任马萨诸塞州众议员与参议院议长；领导推动设立伍斯特州立精神病院等公共人道主义改革法案，奠定以法律与公共财政救济弱势群体的信念。
 > - **1837** 毅然放弃收入丰厚的法律事务与政治前途，接受州长任命出任新设立的马萨诸塞州教育委员会首任秘书，创办并主编《普通学校学报》（*[[Common School Movement\|Common School]] Journal*）。[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings\|(Kaloyannaki & Kazamias, 2009, p. 31)]]
 > - **1839** 争取私人慈善资助与州议会配套拨款，在马萨诸塞州列克星敦建立全美第一所由州资助的公立[[Normal School\|师范学校]]（Normal School），开启美国教师职业专业化进程。

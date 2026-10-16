@@ -11,7 +11,7 @@ title: "Argument_ONeill_2016_Report"
 argument_key: "Argument_ONeill_2016_Report"
 argument_display_title: "Charities, philanthropists, policy entrepreneurs, international companies and state schooling in Aotearoa New Zealand"
 argument_kind: "report"
-argument_related_count: 36
+argument_related_count: 39
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#dcfce7"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Performance Indicators]]"
   - "[[Paradigm]]"
   - "[[Visible Learning]]"
+  - "[[New Pedagogies for Deep Learning]]"
   - "[[Informationalization]]"
   - "[[Return on Investment]]"
   - "[[Recommendations for Practice]]"
@@ -55,13 +56,15 @@ related_persons:
   - "[[John Hattie]]"
   - "[[Stephen Ball]]"
   - "[[Michael Barber]]"
+  - "[[Michael Fullan]]"
 related_facts:
   - "[[Cognition Education]]"
   - "[[Manaiakalani Education Trust]]"
   - "[[Teach First New Zealand]]"
   - "[[Partnership Schools Kura Hourua]]"
+  - "[[New Zealand Initiative]]"
   - "[[Visible Learning Branding and Global Influences]]"
-  - "[[The Education Trust]]"
+  - "[[Business Roundtable]]"
   - "[[Foundation North Māori and Pasifika Education Initiative]]"
 related_arguments: []
 sources:
@@ -174,7 +177,7 @@ citation_aliases:
 > - **数字化教学试验区** 2011 年在奥克兰低收入学区成立马奈卡拉尼信托（[[Manaiakalani Education Trust]]），由私营基金会和科技企业资助数字化设备与师资培训。（p.27）
 > - **教师研修走向市场竞标** 教育部重组教师专业学习与发展（Professional Learning and Development, PLD）体制，取消公立师范机构的指定供给地位，全面推行私营咨询中介机构资质竞标。（pp.27–28）
 > - **引入短期特许师训** 引入全球 Teach for All 网络的本地版本[[Teach First New Zealand|新西兰先行者教育]]（[[Teach First New Zealand]], TFNZ），由企业和私人基金会资助短期培训后直接送入薄弱校任教。（p.28）
-> - **试点创办特许学校** 设立特许学校（[[Partnership Schools Kura Hourua]], PSKH），允许私营营利和非营利机构依商业合同直接运营由公帑资助的学校。（pp.29–30）
+> - **试点创办特许学校** 设立特许学校（[[Partnership Schools Kura Hourua]], PSKH），由亲市场商业智库[[New Zealand Initiative|新西兰倡议]]（New Zealand Initiative, NZI）等[[Policy Network|政策网络]]强力推动立法，允许私营营利和非营利机构依商业合同直接运营由公帑资助的学校。（pp.29–30, 52–53）
 > - **公私合资建设校舍** 引入政府与社会资本合作（[[Public-Private Partnership]], PPP）模式，将多所新建公立学校的规划、施工与日常物业长期外包给私营财团。（p.30）
 > - **企业赞助学生早餐** 恒天然与食品公司以企业社会责任为名向学校赞助早餐牛奶和谷物，随后政府出资跟进，将学生基础营养保障托付给企业善举。（p.30）
 > - **条约赔偿资金办学** 毛利部族将怀唐伊条约赔偿所得的商业资产投入教育，建立自主特许学校。（pp.31, 39–40）
@@ -268,13 +271,13 @@ citation_aliases:
 
 #### 3. 跨界董事网络推动了教师培养体系的私有化改革
 
-[[Policy Network|政策网络]]不仅运作商业培训，还深度介入教育政策制定。以引进美英模式的新西兰先行者教育（TFNZ）为例，该机构高度依赖跨界董事网络推动政策突破。
+[[Policy Network|政策网络]]不仅运作商业培训，还深度介入教育政策制定。以由[[Business Roundtable|商业圆桌会]]议演变而来、汇聚数十家跨国企业资助的亲市场智库[[New Zealand Initiative|新西兰倡议]]（NZI），以及引进美英模式的新西兰先行者教育（TFNZ）为例，这些实体高度依赖跨界董事与企业资本网络推动政策突破与立法游说。（pp.52–55, 70–74）
 
 > [!person-network] 新西兰先行者教育（TFNZ）治理网络的四大关键节点
 > - **政府行政网络** 前教育部教师队伍总经理（Fiona McTavish），协调政策准入与教师资格认证支持。（p.74）
 > - **金融资本网络** 海外对冲基金创始人兼合伙人（Alistair Nicholson），主导商业化运营与财务结构设计。（p.74）
 > - **商业营销网络** 跨国广告公司前首席执行官（David Glover），负责公共品牌传播与企业募资筹划。（p.73）
-> - **地方协调网络** 奥克兰社区[[The Education Trust|教育信托]]前首席执行官（Bernadine Vester），协助开拓薄弱学校生源网络。（p.73）
+> - **地方协调网络** 奥克兰社区教育信托前首席执行官（Bernadine Vester），协助开拓薄弱学校生源网络。（p.73）
 
 这一跨界治理网络为其吸纳外部基金会资助并承接教育部项目提供了组织基础：
 
@@ -308,7 +311,7 @@ citation_aliases:
 > |---|---|---|---|---|---|
 > | **Pearson plc** | 跨国上市集团；NZ 由本地公司 Edify 代理 | 标准化测试、数字化教材、Open Ideas 智库出版 | 全球营收 £44.68 亿；NZ 代理商业绩未单列 | 商业利润回流全球股东；基金会慈善支出仅占税前利润 2% | [[Michael Barber\|迈克尔·巴伯]]爵士、全球测试联盟、培生廉价学习基金（PALF） |
 > | **[[Cognition Education]]** | 慈善信托 100% 控股商业咨询有限公司 | 教师研修合同、中东教育出口、Visible Learningplus | 集团营收 NZD 2809 万（峰值 6915 万） | 商业利润免税转入信托；2015 外部捐赠仅 25.1 万（占营收 0.9%） | 约翰·海蒂、教育部评审专家、各大区公立学校校长协会 |
-> | **CORE Education** | 慈善信托全资控股商业有限责任公司 | 数字化学习研发、ULearn 研讨会、NPDL 跨国特许 | 集团营收 NZD 2277 万；员工 180 人 | 营收高度依赖政府合同；对外慈善捐赠仅占总收入 1.3% | 德里克·温莫斯、坎特伯雷大学、教育部[[Informationalization\|信息化]]司 |
+> | **CORE Education** | 慈善信托全资控股商业有限责任公司 | 数字化学习研发、ULearn 研讨会、[[New Pedagogies for Deep Learning\|NPDL]] 跨国特许 | 集团营收 NZD 2277 万；员工 180 人 | 营收高度依赖政府合同；对外慈善捐赠仅占总收入 1.3% | 德里克·温莫斯、坎特伯雷大学、教育部[[Informationalization\|信息化]]司 |
 > | **[[Foundation North Māori and Pasifika Education Initiative\|Foundation North]]** | 依据 1957 年法案设立的永久性社区信托 | 战略性[[Venture Philanthropy\|风险慈善]]、社会影响力投资、MPEI 专项 | 年投资收益 NZD 1.37 亿；净资产 NZD 12.15 亿 | 2010–2015 年均仅将 23.3% 投资收益用于捐赠；76% 留存滚存 | 奥克兰商界领袖、星径项目、社会影响力中心 |
 > | **COMET Auckland** | 地方政府控制机构（CCO）暨注册慈善信托 | 教育政策倡导、南区技能提升、跨界联盟孵化 | 财政拨款与项目营收约 NZD 89 万 | 零资产沉淀；以 20 万议会启动资金撬动 180 万外部政府与慈善资助 | 奥克兰市议会、工会代表、毛利部族机构、企业雇主联盟 |
 > | **KidsCan** | 创始人发起的民间注册慈善信托 | 贫困学区雨衣、鞋袜、食品与卫生用品直供 | 依靠大众募捐与企业赞助，年营收 NZD 1248 万 | 净资产从 0 增至 455 万；高额公关营销与全职管理雇员（58人） | 商业媒体（TV3）、大型零售财团、食品饮料巨头 |
@@ -368,7 +371,7 @@ citation_aliases:
 
 > [!case] 案例三：CORE Education——教育技术外包、全景教研垄断与微量慈善支出
 > - **高度依赖政府采购** 核心教育的营收从 2010 年的 776 万新西兰元增至 2015 年的 2274 万，全职员工从 55 人扩张至 180 人。其收入绝大部分直接来自教育部的信息化与教师专业发展采购合同。
-> - **深度学习新教学法（NPDL）特许推广** 绑定加拿大教育学者迈克尔·富兰（Michael Fullan），主导在新西兰推行深度学习新教学法（New Pedagogies for Deep Learning, NPDL），通过集群收费模式将专有培训项目植入逾百所公立中小学。
+> - **深度学习新教学法（NPDL）特许推广** 绑定加拿大教育学者[[Michael Fullan|迈克尔·富兰]]（Michael Fullan），主导在新西兰推行[[New Pedagogies for Deep Learning|深度学习新教学法]]（New Pedagogies for Deep Learning, NPDL），通过集群收费模式将专有培训项目植入逾百所公立中小学。（pp.24–25, 41–43, 94–103）
 > - **微薄的公益回馈** 2015 年全集团总收入超过 2277 万新西兰元，但对外发放的教育资助仅为 295,814 新西兰元（占总收入 1.3%），而当年支付的高管与董事薪酬则接近百万新西兰元。（pp.94–103）
 
 > [!table] 表9–10：核心教育集团财务状况与治理报酬（2010–2015）

@@ -7,9 +7,9 @@ summary: "美国电机工程师、科技管理者与战后科技政策奠基人�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 69
-person_related_level: 6
-person_related_stars: "💎💎"
+person_related_count: 70
+person_related_level: 7
+person_related_stars: "💎💎⭐"
 person_related_color: "#fef3c7"
 born: "1890"
 died: "1974"
@@ -58,6 +58,7 @@ related_theories:
 related_methods: []
 related_instruments: []
 related_persons:
+  - "[[Michael Fullan]]"
   - "[[Franklin D. Roosevelt]]"
   - "[[J. Robert Oppenheimer]]"
   - "[[Chris Freeman]]"
@@ -110,7 +111,7 @@ created: 2026-10-02
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** 美国电机工程师、发明家、科学管理者与战后国家科技政策奠基人；麻省理工学院（MIT）副校长兼工学院院长（1932–1938）、卡内基科学研究所所长（1939–1955）；二战期间出任美国科学研究与开发署（[[Office of Scientific Research and Development|OSRD]]）署长，直接向富兰克林·[[Franklin D. Roosevelt|罗斯福总统]]汇报。
+> - **身份位置** 美国电机工程师、发明家、科学管理者与战后国家科技政策奠基人；麻省理工学院（MIT）副校长兼工学院院长（1932–1938）、卡内基科学研究所所长（1939–1955）；二战期间出任美国科学研究与开发署（[[Office of Scientific Research and Development|OSRD]]）署长，直接向[[Michael Fullan|富兰]]克林·[[Franklin D. Roosevelt|罗斯福总统]]汇报。
 > - **核心角色** 战后美国国家科研资助契约的总缔造者与[[Technological Republic|技术共和国]]的制度原型奠基人；在 1945 年具有里程碑意义的国情咨询报告《科学——[[Science, The Endless Frontier 1945|无尽的前沿]]》中，成功确立了联邦政府全额资助大学自由学术探索的合法性，推动了国家科学基金会（[[National Science Foundation|NSF]]）的创立；其报告制度化了[[Basic-Applied Research Dichotomy|基础/应用研究二分法]]与单向[[Linear Model of Innovation|线性创新模型]]。[[Argument_Narayanamurti_2013_IST|(Narayanamurti et al., 2013, pp. 31–32)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4–5)]]
 > - **代表贡献** 提出并起草《科学——无尽的前沿》；战时统筹动员全美科研资源推进微波雷达、近炸引信与原子弹（[[Manhattan Project|曼哈顿工程]]）攻关；发明机械式连续微分分析仪（早期模拟计算机原型）；在 1945 年论文《诚如所思》（*As We May Think*）中构想了微缩胶片信息检索系统 Memex（超文本与现代互联网概念先驱）。
 
@@ -194,7 +195,7 @@ created: 2026-10-02
 ## 关系网络
 
 > [!person-network] 关系网络
-> - **政治委托人** 富兰克林·罗斯福（[[Franklin D. Roosevelt]]）、哈里·杜鲁门（Harry S. Truman） — 报告的委托总统与接收总统。
+> - **政治委托人** [[Michael Fullan|富兰]]克林·罗斯福（[[Franklin D. Roosevelt]]）、哈里·杜鲁门（Harry S. Truman） — 报告的委托总统与接收总统。
 > - **战时科学指挥协同者** [[J. Robert Oppenheimer]] — 布什支持并委任奥本海默领导洛斯阿拉莫斯实验室，二人共同开创了[[Manhattan Project|曼哈顿工程]][[Big Science|大科学]]攻坚[[Paradigm|范式]]。
 > - **当代历史对话者与改革者** [[Michael Kratsios|迈克尔·克拉齐奥斯]]（Michael Kratsios） — 2026 年主持起草《[[Science A New Golden Age 2026|科学：新的黄金时代]]》，在全面对照[[Science, The Endless Frontier 1945|布什报告]]的基础上重构战后科技资助与制造承接体系。
 > - **地缘战略与技术动员反思者** [[Alexander Karp|亚历山大·卡普]]、[[Nicholas Zamiska|尼古拉斯·扎米斯卡]] — 2025 年在《[[Technological Republic|技术共和国]]》中回顾布什主导 [[Office of Scientific Research and Development|OSRD]] 时期科学界与国家安全机构的高度互信与战略结盟，呼唤在新一代人工智能竞争与破除[[Big Idea Famine|大构想饥荒]]中重振这一动员传统。

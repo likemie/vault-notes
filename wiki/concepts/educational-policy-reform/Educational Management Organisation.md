@@ -8,7 +8,7 @@ aliases:
 summary: "参与公立学校教育政策制定、管理运营支持与核心教育服务交付的私营部门实体，兼具营利与非营利形式。在英美多以特许学校或学院连锁运营，在新西兰则演化为母体慈善信托与全资营利公司构成的双层混合法人架构，借助官方信息法豁免构筑民主问责屏障并实现免税套利。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 25
+related_count: 26
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -34,6 +34,7 @@ related_concepts:
   - "[[New Public Management]]"
   - "[[Policy Entrepreneur]]"
   - "[[Bureaucracy]]"
+  - "[[New Pedagogies for Deep Learning]]"
   - "[[Analytical Stance]]"
 related_theories: []
 related_methods:
@@ -249,7 +250,7 @@ updated: 2026-10-16
 > > [!axis] 市场外包效率假说 vs 依赖型准垄断寻租
 > > 探讨将公共教育管理与培训外包给 EMO，究竟是带来了更具成本效益的专业创新，还是制造了尾大不掉的利益集团。
 > >
-> > - **[[New Public Management|新公共管理]]与[[Policy Entrepreneur|政策创业者]]立场** 主张私营 EMO 机制灵活、创新能力强，能够跨越[[Bureaucracy|科层制]]官僚主义，迅速引入全球前沿的教学测评工具与数字化技术（如 Hobsonville Point [[Public-Private Partnership|PPP]] 与 NPDL 联盟）。
+> > - **[[New Public Management|新公共管理]]与[[Policy Entrepreneur|政策创业者]]立场** 主张私营 EMO 机制灵活、创新能力强，能够跨越[[Bureaucracy|科层制]]官僚主义，迅速引入全球前沿的教学测评工具与数字化技术（如 Hobsonville Point [[Public-Private Partnership|PPP]] 与 [[New Pedagogies for Deep Learning|NPDL]] 联盟）。
 > > - **制度分析[[Analytical Stance|批判立场]]** 缺乏公开竞标与严格对照评估表明，EMO 提供的外包产品并不比公共部门直接提供更具成本效益，反而因其与政界的旋转门纽带形成了排他性的准垄断利益共谋（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. xvii]]）。
 
 ---

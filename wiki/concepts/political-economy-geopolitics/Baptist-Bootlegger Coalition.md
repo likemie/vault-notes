@@ -9,7 +9,7 @@ aliases:
 summary: "公共规制与历史制度主义中解释奇特跨阵营政治同盟的经典机制；指出于崇高道德信念的规范性支持者与出于自私利益进行违规套利的投机者不可思议地联合捍卫同一项规约，共同抵御系统性制度改革"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 16
+related_count: 17
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -38,6 +38,7 @@ related_methods:
 related_persons:
   - "[[James Mahoney]]"
   - "[[Kathleen Thelen]]"
+  - "[[Michael Fullan]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change]]"
@@ -159,7 +160,7 @@ updated: 2026-10-16
 > 布鲁斯·扬德尔（Bruce Yandle, 1983）对美国各州禁酒令与周日禁售酒精饮料法律（Blue Laws）的研究，提炼出了该理论的经典原型。基督教浸礼会教徒出于虔诚的清教道德信仰，坚决要求维持严厉禁售法律以净化社会风气；与此同时，地下黑帮与走私私酒贩（Bootleggers）则通过黑市暴利大发横财，因为一旦解除禁令让正规企业合法酿酒缴税，私酒贩的高额垄断溢价将瞬间清零。私酒贩暗中动用黑钱资助浸礼会的道德游说与反酗酒宣传，双方共同击败了呼吁将酒精合法化并征收合理税收的理性经济温和派。
 
 > [!case] 美国 1950 年代社会保障缴费型融资保卫战（Jacobs 案例）
-> 艾伦·雅各布斯（Alan Jacobs）发现，富兰克林·罗斯福在 1935 年设计《社会保障法》时坚持建立“缴费型工薪税融资”（Contributory Financing），其政治智慧在 1950 年代展现得淋漓尽致。在制度面临重构的动荡期，社会进步派（希望保障人民享有神圣不可剥夺的福利权利）与财政保守派（极度恐惧政府滥用普通税收赤字导致福利漫无边际扩张）形成了典型的“浸礼会与私酒贩同盟”。进步派视缴费账户为公民契约的道德圣物，保守派视缴费预算为约束政府支出的刚性财务铁笼；两派联合击退了激进福利补贴方案与直接取消养老金的极端自由派，使美国社保稳稳立足于缴费型基石上（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, p. 31]]）。
+> 艾伦·雅各布斯（Alan Jacobs）发现，[[Michael Fullan|富兰]]克林·罗斯福在 1935 年设计《社会保障法》时坚持建立“缴费型工薪税融资”（Contributory Financing），其政治智慧在 1950 年代展现得淋漓尽致。在制度面临重构的动荡期，社会进步派（希望保障人民享有神圣不可剥夺的福利权利）与财政保守派（极度恐惧政府滥用普通税收赤字导致福利漫无边际扩张）形成了典型的“浸礼会与私酒贩同盟”。进步派视缴费账户为公民契约的道德圣物，保守派视缴费预算为约束政府支出的刚性财务铁笼；两派联合击退了激进福利补贴方案与直接取消养老金的极端自由派，使美国社保稳稳立足于缴费型基石上（[[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney & Thelen, 2009, p. 31]]）。
 
 > [!case] 现代环境排放规制中的环保 NGO 与老牌石化巨头同盟
 > 在当代环境与能源政策中，严格的新建工厂排污技术标准（New Source Review）经常催生类似的异质同盟：激进环保组织出于纯粹的生态保护信念坚决支持制定极其严苛的技术准入标准；在位的老牌石化与重工业垄断寡头同样大力支持该项法规，因为严苛标准为潜在的新进入者设立了不可逾越的资金技术门槛，有效地消灭了潜在的市场竞争者，巩固了在位寡头的既得市场份额。

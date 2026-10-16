@@ -10,7 +10,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 24
+fact_related_count: 25
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#dcfce7"
@@ -36,6 +36,7 @@ related_concepts:
 related_theories:
   - "[[Pool of Knowledge]]"
 related_persons:
+  - "[[Michael Fullan]]"
   - "[[Franklin D. Roosevelt]]"
   - "[[Vannevar Bush]]"
 related_facts:
@@ -67,7 +68,7 @@ updated: 2026-10-16
 > 科学研究与开发办公室（Office of Scientific Research and Development, OSRD）是第二次世界大战期间直接隶属于美国总统执行办公室的最高科技动员中枢。其核心法定职能在于统筹军民科技力量并直接对外订立武器装备与军事医学研发合同，从根本上打破了联邦政府不资助大学科研的战前传统，确立了国家安全需求与大学前沿探索紧密结盟的现代科研[[Paradigm|范式]]，成为战后美国[[Technological Republic|技术共和国]]政产学研协同体制的制度原型。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–35)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4–5)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 1941 年 6 月 28 日由富兰克林·[[Franklin D. Roosevelt|罗斯福总统]]颁布行政命令正式设立，由[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）领衔；其前身为 1940 年 6 月成立的国家国防研究委员会（National Defense Research Committee, NDRC），旨在应对[[Total War|全面战争]]威胁下常规国防装备与军事医学的严峻挑战。
+> - **成立时间 / 创设背景** 1941 年 6 月 28 日由[[Michael Fullan|富兰]]克林·[[Franklin D. Roosevelt|罗斯福总统]]颁布行政命令正式设立，由[[Vannevar Bush|万尼瓦尔·布什]]（Vannevar Bush）领衔；其前身为 1940 年 6 月成立的国家国防研究委员会（National Defense Research Committee, NDRC），旨在应对[[Total War|全面战争]]威胁下常规国防装备与军事医学的严峻挑战。
 > - **总部地点 / 业务辐射** 总部设于美国华盛顿特区，业务辐射全美主要顶尖[[Research Universities|研究型大学]]与私营工业研究实验室，深度主导了雷达、战时医学救治及[[Manhattan Project|曼哈顿计划]]核武研发的组织协调。
 > - **法人属性与经费基础** 隶属于总统执行办公室的联邦战时特设行政机构；由联邦战时特别预算全额拨款，享有高度独立且灵活的联邦研发合同签署与预算划拨权限。
 > - **核心宗旨与法定职责** 动员全美最优秀的科学家和工程师，将其智力资源迅速转化为服务盟军作战的先进军事技术与前沿医学解决方案；确保科学界在最大程度保持学术探索惯常环境的同时，全方位服务国家安全最高目标。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–35)]]
@@ -86,7 +87,7 @@ updated: 2026-10-16
 ## 治理架构与运行机制
 
 > [!actor-grid] 组织治理架构
-> - **决策中枢（行政办公室与领导层）** 由主任[[Vannevar Bush|万尼瓦尔·布什]]统筹全盘，直接向富兰克林·[[Franklin D. Roosevelt|罗斯福总统]]汇报，拥有极高行政调配权与总统政治互信。
+> - **决策中枢（行政办公室与领导层）** 由主任[[Vannevar Bush|万尼瓦尔·布什]]统筹全盘，直接向[[Michael Fullan|富兰]]克林·[[Franklin D. Roosevelt|罗斯福总统]]汇报，拥有极高行政调配权与总统政治互信。
 > - **核心科学统领阵营** 深度汇聚全美顶尖学术与工业研究领袖：哈佛[[Grandes Ecoles|大学校]]长詹姆斯·科南特（James B. Conant）、麻省理工学院校长卡尔·康普顿（Karl T. Compton）及[[Bell Labs|贝尔实验室]]总裁弗兰克·朱厄特（Frank B. Jewett）形成稳固的领导铁三角。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 34)]]
 > - **双核业务机构** 设立两大下属专业部门：一是科南特主持的武器研发部门（NDRC），二是专门设立的医学研究委员会（Committee on Medical Research, CMR），全面协调盘尼西林规模化提纯、疟疾防治与战伤救护。
 > - **大学与工业界网络** 不设庞大的自建官僚实验室，而是直接作为发包方，将研发任务通过合同精准分包至全美数十所大学实验室与工业研发中心。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, pp. 34–35)]]
@@ -107,7 +108,7 @@ updated: 2026-10-16
 > - **《科学：[[Science, The Endless Frontier 1945|无尽的前沿]]》政策蓝图** 1944 年底罗斯福致信布什要求总结 OSRD 经验，布什于 1945 年提交报告，将 OSRD 的成功经验提炼为由国家长效资助大学基础研究的战后科技宪章。[[Argument_Atkinson_2008_TIS|(Atkinson & Blanpied, 2008, p. 35)]]; [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4–5)]]
 
 > [!citation-card] 国家与科学界的高度互信与使命托付
-> 1942年，随着战火在欧洲和太平洋蔓延，《科利尔》（Collier's）杂志向近三百万读者介绍了[[Vannevar Bush|万尼瓦尔·布什]]这位当时鲜为人知的工程师和政府官员，并直称其为“可能赢得这场战争的人”。1944年11月，富兰克林·[[Franklin D. Roosevelt|罗斯福总统]]在信中要求布什总结战时动员经验，筹划如何将那些被战事剧烈打乱研究轨迹的物理学家和工程师导向和平时期的民用科学进步。这一系列历史事实表明，科学家在国家最高决策层享有无与伦比的信任与崇高地位。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4, 7)]]
+> 1942年，随着战火在欧洲和太平洋蔓延，《科利尔》（Collier's）杂志向近三百万读者介绍了[[Vannevar Bush|万尼瓦尔·布什]]这位当时鲜为人知的工程师和政府官员，并直称其为“可能赢得这场战争的人”。1944年11月，[[Michael Fullan|富兰]]克林·[[Franklin D. Roosevelt|罗斯福总统]]在信中要求布什总结战时动员经验，筹划如何将那些被战事剧烈打乱研究轨迹的物理学家和工程师导向和平时期的民用科学进步。这一系列历史事实表明，科学家在国家最高决策层享有无与伦比的信任与崇高地位。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 4, 7)]]
 >
 > *In 1942, an article in Collier's introduced Vannevar Bush... describing Bush as 'the man who may win the war.' In November 1944, Roosevelt sent a letter to Vannevar Bush... The challenge was to ensure that the engineers and researchers who had directed their attention to the industry of war—and particularly the physicists, who as Bush noted had 'been thrown most violently off stride'—could shift their efforts back to civilian advances.*
 

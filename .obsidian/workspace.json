@@ -305,6 +305,9 @@
   },
   "active": "234d452edd1bdd48",
   "lastOpenFiles": [
+    "wiki/facts/new-zealand/New Zealand Initiative.md",
+    "wiki/concepts/instruction-pedagogy/New Pedagogies for Deep Learning.md",
+    "wiki/persons/canada/Michael Fullan.md",
     "wiki/facts/us/The Education Trust.md",
     "wiki/arguments/reports-policy-documents/Argument_ONeill_2016_Report.md",
     "tests/test_yaml_duplicate_keys.py",
@@ -347,9 +350,6 @@
     "wiki/arguments/journal-articles/Zeitschrift für Erziehungswissenschaft/Argument_Wecker_2016_ZfE.md",
     "sources/Simpson_2017_JEdPolicy.md",
     "sources/Helgetun_2022_JEdPolicy.md",
-    "sources/Metli_2022_IJEdReform.md",
-    "sources/Schulze-Cleven_2017_HE.md",
-    "sources/Berk_2011_EvalRev.md",
-    "sources/Nelson_2017_EducRes.md"
+    "sources/Metli_2022_IJEdReform.md"
   ]
 }

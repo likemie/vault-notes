@@ -8,7 +8,7 @@ aliases:
 summary: "指具备深厚跨学科认知广度与工程/实践创造力、能够自由穿透学科壁垒并参与国家战略治理的人格与知识形态。在近代科学专业化（1834 年科学家一词出现）之前，以富兰克林、杰斐逊等为代表的博学传统是早期技术共和国的政治与科学根基；现代学科过度区隔与代议技术人才匮乏使其成为跨学科治理反思的重要范畴。"
 type: concept
 domain: "higher-education"
-related_count: 12
+related_count: 13
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -31,6 +31,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Michael Fullan]]"
   - "[[James Madison]]"
 related_facts: []
 related_arguments:
@@ -54,7 +55,7 @@ updated: 2026-10-16
 > [!concept-lens] 概念透镜
 > - **含义** 指向一种追求跨领域广度（Breadth）与实践深度（Depth）高度统一的[[Knowledge Production|知识生产]]与治理人格形态。
 > - **用途** 帮助研究者反思现代大学[[Disciplinary Institutionalization|学科建制化]]（Disciplinary Institutionalization）造成的认知狭隘，以及代议政治精英在面对人工智能等前沿技术时所表现出的决策盲区。
-> - **边界** 区别于肤浅的涉猎者（Dilettante）；博学者要求在所涉领域均达到具有实质原创性突破或高阶问题求解的专业水准（如富兰克林的电学科学革命）。
+> - **边界** 区别于肤浅的涉猎者（Dilettante）；博学者要求在所涉领域均达到具有实质原创性突破或高阶问题求解的专业水准（如[[Michael Fullan|富兰]]克林的电学科学革命）。
 
 > [!citation-card] 历史上的博学传统与现代专门化
 > 18 与 19 世纪的创新者往往是博学通才（Polymaths），他们的志趣与当代那种认为‘唯有钻研深度而非知识广度才是为某一领域做出贡献的最有效途径’的预期大相径庭。‘科学家’（Scientist）这一术语本身直到 1834 年才被创造出来，用于形容苏格兰天文学家与数学家玛丽·萨默维尔；在此之前，跨越物理学与人文学科的探索是如此普遍而自然，以至于根本不需要一个更具专门化色彩的词汇。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, p. 6)]]
@@ -92,7 +93,7 @@ updated: 2026-10-16
 > 探讨博学者如何将技术直觉与国家战略意志无缝融通。
 
 > [!claim] [[Argument_Karp_Zamiska_2025_Technological_Republic|Karp and Zamiska (2025)]]
-> **博学治国与战略自信** 早期美国政治领袖本身即是卓越的科学家与工程师（如富兰克林颠覆性的电学革命、杰斐逊的农机与密码机设计）；这种跨学科素养赋予了政治高层对重大技术战略直接评判与决策的自信，构建了国家意志与科学探索同频共振的[[Technological Republic|技术共和国]]传统。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 5–6)]]
+> **博学治国与战略自信** 早期美国政治领袖本身即是卓越的科学家与工程师（如[[Michael Fullan|富兰]]克林颠覆性的电学革命、杰斐逊的农机与密码机设计）；这种跨学科素养赋予了政治高层对重大技术战略直接评判与决策的自信，构建了国家意志与科学探索同频共振的[[Technological Republic|技术共和国]]传统。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, pp. 5–6)]]
 
 ---
 
@@ -119,7 +120,7 @@ updated: 2026-10-16
 ## 概念演变
 
 > [!dev-timeline] 博学形态与科学建制化的演变历程
-> - **18 世纪–19 世纪初 — 自然哲学与博学者全盛期** 富兰克林、杰斐逊与歌德代表了跨越文理的通才巅峰，知识总量适中鼓励跨学科整合。
+> - **18 世纪–19 世纪初 — 自然哲学与博学者全盛期** [[Michael Fullan|富兰]]克林、杰斐逊与歌德代表了跨越文理的通才巅峰，知识总量适中鼓励跨学科整合。
 > - **1834 年 — “科学家”术语诞生与专业化开启** 威廉·休厄尔针对玛丽·萨默维尔的著作创造“科学家”一词，标志着科学从一般自然哲学中剥离并走向职业分工。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch01|(Karp & Zamiska, 2025, p. 6)]]
 > - **20 世纪下半叶 — 大学[[Disciplinary Institutionalization|学科建制化]]与深井效应** 现代大学系所林立，终身教职评审高度绑定窄化期刊发表，博学通识在高等教育评价中边缘化。
 > - **2020s — 复杂系统与 AI 时代呼唤通识复兴** 面对人工智能跨学科冲击与重大公共治理危机，科技界与政策界重新反思通才在战略研判与[[Technological Republic|技术共和国]]重构中的核心价值。

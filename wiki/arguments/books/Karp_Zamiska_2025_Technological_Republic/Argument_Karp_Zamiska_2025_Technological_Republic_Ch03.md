@@ -11,7 +11,7 @@ title: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch03"
 argument_key: "Argument_Karp_Zamiska_2025_Technological_Republic_Ch03"
 argument_display_title: "The winner's fallacy"
 argument_kind: "book-chapter"
-argument_related_count: 30
+argument_related_count: 31
 argument_related_level: 3
 argument_related_stars: "💎"
 argument_related_color: "#fef3c7"
@@ -53,6 +53,7 @@ related_persons:
   - "[[Francis Fukuyama]]"
   - "[[Thomas Schelling]]"
   - "[[Leo Szilard]]"
+  - "[[Michael Fullan]]"
   - "[[Franklin D. Roosevelt]]"
   - "[[Allan Bloom]]"
   - "[[Joseph S. Nye Jr.]]"
@@ -98,7 +99,7 @@ updated: 2026-10-16
 >
 > - **重温1939年科学信函传统与时代决断**
 >
->   回顾1939年阿尔伯特·爱因斯坦与[[Leo Szilard|利奥·西拉德]]致信富兰克林·D. [[Franklin D. Roosevelt|罗斯福总统]]推动研制原子武器并建立政产研常态化联络的历史[[Paradigm|范式]]，强调人工智能与前沿软件虽然不像核爆那样具备显见物理形态，但其决定大国命运的战略潜力毫不逊色，呼吁国家与科技界建立更加紧密的战略伙伴关系（pp. 35–36）。
+>   回顾1939年阿尔伯特·爱因斯坦与[[Leo Szilard|利奥·西拉德]]致信[[Michael Fullan|富兰]]克林·D. [[Franklin D. Roosevelt|罗斯福总统]]推动研制原子武器并建立政产研常态化联络的历史[[Paradigm|范式]]，强调人工智能与前沿软件虽然不像核爆那样具备显见物理形态，但其决定大国命运的战略潜力毫不逊色，呼吁国家与科技界建立更加紧密的战略伙伴关系（pp. 35–36）。
 
 ---
 
@@ -223,7 +224,7 @@ updated: 2026-10-16
 
 > [!timeline] 1939年爱因斯坦信函促成顶尖科学家与国家行政当局的常态化结盟
 > - **1939-08-02 — 佩科尼克密信与战略预警**
->   流亡美国的物理学家阿尔伯特·爱因斯坦与[[Leo Szilard|利奥·西拉德]]在纽约长岛佩科尼克起草密信，呈送美国总统富兰克林·D. 罗斯福。罗斯福[[Refined Mastery|精通]]德语并深知纳粹威胁，双方建立了深厚的互信基础（pp. 35–36）。
+>   流亡美国的物理学家阿尔伯特·爱因斯坦与[[Leo Szilard|利奥·西拉德]]在纽约长岛佩科尼克起草密信，呈送美国总统[[Michael Fullan|富兰]]克林·D. 罗斯福。罗斯福[[Refined Mastery|精通]]德语并深知纳粹威胁，双方建立了深厚的互信基础（pp. 35–36）。
 > - **呼吁建立政府与科学家的常态化接触机制**
 >   信函明确指出铀核裂变极可能制造出具有毁灭性威力的新型炸弹，呼吁政府保持高度警惕并迅速采取行动，特别强调在行政部门与从事链式反应前沿研究的物理学家之间建立长期的持续联络（p. 35）。
 > - **战略决断成就历史性技术优势**

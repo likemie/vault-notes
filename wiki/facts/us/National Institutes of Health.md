@@ -11,7 +11,7 @@ subtype: organization
 region: us
 fact_region: "us"
 fact_kind: "organization"
-fact_related_count: 43
+fact_related_count: 44
 fact_related_level: 4
 fact_related_stars: "💎⭐"
 fact_related_color: "#dcfce7"
@@ -52,6 +52,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons:
+  - "[[Michael Fullan]]"
   - "[[Franklin D. Roosevelt]]"
   - "[[Mariana Mazzucato]]"
   - "[[Fred Block]]"
@@ -101,7 +102,7 @@ updated: 2026-10-16
 
 > [!dev-timeline] 组织发展与治理演变历程
 > - **1887–1937 — 传染病控制与中央实验室初创期** 早期专注于霍乱、黄热病等跨国烈性传染病的病原微生物分离与检疫，奠定了美国现代公共卫生微观科学基础。
-> - **1937–1948 — 癌症法案与专业研究所矩阵成型** 1937 年富兰克林·[[Franklin D. Roosevelt|罗斯福总统]]签署法案设立国家癌症研究所（NCI）；二战后迅速吸纳战时医学动员遗产，相继设立心肺血液研究所（NHLBI）等分支，正式形成国立卫生研究院群（Institutes of Health）的多中心格局。
+> - **1937–1948 — 癌症法案与专业研究所矩阵成型** 1937 年[[Michael Fullan|富兰]]克林·[[Franklin D. Roosevelt|罗斯福总统]]签署法案设立国家癌症研究所（NCI）；二战后迅速吸纳战时医学动员遗产，相继设立心肺血液研究所（NHLBI）等分支，正式形成国立卫生研究院群（Institutes of Health）的多中心格局。
 > - **1948–1960s — 战后主动动员与院外资助体系确立** 1948 年资助约 120 所高校（前 10 位医学院占据约 75% 经费）；高级官员弗雷德·斯通差旅逾 20 万英里动员学者申报，确立了以独立同行评审委员会（Study Sections）为核心的 R01 独立研究员资助机制与薪资报销渠道，奠定了分布式资助支柱地位。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 7–8, 14)]]; [[Argument_Fan_2026_BCAS|(樊春良, 2026, p. 1058)]]
 > - **1970s–1990s — 资助机制转向、法定[[Technology Transfer|技术转移]]与[[Human Genome Project|人类基因组计划]]** 独立培训项目缩减，研究生与博士后普遍依赖课题助研津贴；1980 年《[[Bayh-Dole Act of 1980|拜杜法案]]》与 1986 年《联邦技术转移法》（FTTA）赋予 NIH 及其科研人员通过[[Cooperative Research and Development Agreement|合作研究与开发协议]]（CRADA）将公共资助专利直接授权私营药企商业化的法定权力，促使 NIH 全面嵌入生物医药商业化网络；联合能源部（[[Department of Energy]], DOE）启动并攻克[[Human Genome Project|人类基因组计划]]（HGP）。[[Argument_Block_2008_PS|(Block, 2008, pp. 176–178)]]; [[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 18, 20)]]
 > - **1998–2002 — 国会预算翻倍计划及其体制后遗症** 国会推行五年预算翻倍（从 1998 年约 130 亿美元增至 2002 年 270 余亿美元）；刺激高校大举借债扩建科研大楼与设立软钱教职，但在翻倍结束后引发课题立项率暴跌（跌破 20%）、项目负责人显著老龄化与医学院偿债危机。[[Argument_Stephan_2013_NBER|(Stephan, 2013, pp. 27–28, 33–34)]]

@@ -8,7 +8,7 @@ summary: "美籍匈牙利裔物理学家与发明家，核链式反应概念的�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 10
+person_related_count: 11
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -30,6 +30,7 @@ related_methods: []
 related_instruments: []
 related_persons:
   - "[[Max Planck]]"
+  - "[[Michael Fullan]]"
   - "[[Franklin D. Roosevelt]]"
 related_facts:
   - "[[Einstein-Szilard Letter]]"
@@ -67,7 +68,7 @@ updated: 2026-10-16
 > - **1898** 出生于奥匈帝国布达佩斯，后赴德国柏林工业大学与柏林大学深造，师从[[Max Planck|马克斯·普朗克]]与阿尔伯特·爱因斯坦。
 > - **1933** 纳粹掌权后流亡英国，受欧内斯特·卢瑟福演讲启发，在伦敦穿越红绿灯时率先构想出中子引发核裂变自持链式反应（Nuclear Chain Reaction）的物理机制并申请秘密专利。
 > - **1938** 移居美国，在哥伦比亚大学确认铀裂变释放出多余中子，证实原子弹制造的物理可行性。
-> - **1939** 意识到纳粹德国抢先制造核武器的毁灭性风险，前往长岛说服爱因斯坦共同签署致富兰克林·D. [[Franklin D. Roosevelt|罗斯福总统]]的密信（[[Einstein-Szilard Letter]]），推动美国启动铀顾问委员会与后续的 [[Manhattan Project|曼哈顿工程]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 35–36)]]
+> - **1939** 意识到纳粹德国抢先制造核武器的毁灭性风险，前往长岛说服爱因斯坦共同签署致[[Michael Fullan|富兰]]克林·D. [[Franklin D. Roosevelt|罗斯福总统]]的密信（[[Einstein-Szilard Letter]]），推动美国启动铀顾问委员会与后续的 [[Manhattan Project|曼哈顿工程]]。[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch03|(Karp & Zamiska, 2025, pp. 35–36)]]
 > - **1942–1945** 在芝加哥大学冶金实验室与恩里科·费米合作建成人类首座可控核反应堆“芝加哥一号堆”（Chicago Pile-1）。
 > - **1945** 二战尾声起草《西拉德请愿书》（Szilard Petition），反对对日本直接使用原子弹，主张先进行公开技术展示并建立国际核军控体制。
 > - **1964** 逝世于美国加利福尼亚州拉霍亚。
@@ -108,7 +109,7 @@ updated: 2026-10-16
 
 > [!person-network] 关系网络
 > - **合作者** 阿尔伯特·爱因斯坦 — 共同起草1939年佩科尼克致[[Franklin D. Roosevelt|罗斯福总统]]信函，促成国家核计划立项。
-> - **国家首脑** 富兰克林·D. 罗斯福 — 信函接收人，决断开启国家级常态化科学动员与[[Manhattan Project|曼哈顿工程]]。
+> - **国家首脑** [[Michael Fullan|富兰]]克林·D. 罗斯福 — 信函接收人，决断开启国家级常态化科学动员与[[Manhattan Project|曼哈顿工程]]。
 > - **重大工程** [[Manhattan Project|曼哈顿工程]] — 科学发起人之一，在芝加哥一号堆中实现链式反应工程化突破。
 
 ---

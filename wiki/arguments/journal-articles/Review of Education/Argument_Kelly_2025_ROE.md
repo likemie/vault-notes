@@ -69,6 +69,7 @@ related_instruments: []
 related_persons:
   - "[[John Hattie]]"
   - "[[Dylan Wiliam]]"
+  - "[[Michael Fullan]]"
 related_facts:
   - "[[OECD]]"
   - "[[Education Endowment Foundation]]"
@@ -92,7 +93,7 @@ title: "Argument_Kelly_2025_ROE"
 argument_key: "Argument_Kelly_2025_ROE"
 argument_display_title: "Comparing school leaders' experiences of research use in England, Scotland and Germany"
 argument_kind: "journal-article"
-argument_related_count: 53
+argument_related_count: 54
 argument_related_level: 5
 argument_related_stars: "💎⭐⭐"
 argument_related_color: "#fecdd3"
@@ -243,7 +244,7 @@ issuing_organization: ""
 > - **跟风引入与同侪模仿** 校长高度依赖熟人网络推荐与区域大会交流，跟风采购构建学习力（Building Learning Power, BLP）、Thrive 行为干预、Ark 课程方案及跨越鸿沟挑战（Challenge the Gap）等项目。（pp. 16–17）
 
 > [!line-b] 苏格兰：地方当局行政缓冲与专业裁量探索
-> - **地方行政过滤与知名学者研训** 地方当局承担了主要证据筛选职能，通过 Tapestry Partnership 邀请 Andy Hargreaves、[[John Hattie]]、[[Dylan Wiliam]] 与 Michael Fullan 等学者作报告并开展研训。（pp. 14–15）
+> - **地方行政过滤与知名学者研训** 地方当局承担了主要证据筛选职能，通过 Tapestry Partnership 邀请 Andy Hargreaves、[[John Hattie]]、[[Dylan Wiliam]] 与 [[Michael Fullan]] 等学者作报告并开展研训。（pp. 14–15）
 > - **指令性项目与自主采购平衡** 地方当局对特定项目设定硬性指标（如 Leader G 反映高退学率学校必须执行促进替代思维策略（Promoting Alternative Thinking Strategies, PATHS）），但校长可运用 PEF 资金自主采购康奈尔大学危机治疗干预（Therapeutic Crisis Intervention, TCI）项目。（pp. 14, 18）
 > - **官方平台资源与行业媒体跟踪** [[General Teaching Council for Scotland\|苏格兰通用教学总署]]（General Teaching Council for Scotland, GTCS）提供 Education Source 数据库，苏格兰教育署（Education Scotland）提供《公平干预库》（*Interventions for Equity*），EEF 仅作末尾参考，实践者常通过泰晤士报教育增刊（Times Educational Supplement, TES）追踪前沿讨论。（pp. 14–15, 18–19）
 
