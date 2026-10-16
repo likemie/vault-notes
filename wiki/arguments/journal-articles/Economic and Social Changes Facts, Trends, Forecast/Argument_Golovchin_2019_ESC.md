@@ -9,9 +9,9 @@ title: "Argument_Golovchin_2019_ESC"
 argument_key: "Argument_Golovchin_2019_ESC"
 argument_display_title: "What kind of teacher does the 'school of the future' need? Possibility of using John Hattie's approach in Russian education"
 argument_kind: "journal-article"
-argument_related_count: 37
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 40
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dbeafe"
 journal: 'Economic and Social Changes: Facts, Trends, Forecast'
 citation: "Golovchin M.A. (2019). What kind of teacher does the 'school of the future' need? Possibility of using John Hattie's approach in Russian education. *Economic and Social Changes: Facts, Trends, Forecast*, 12(5), 229–242."

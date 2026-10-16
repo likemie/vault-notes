@@ -56,6 +56,7 @@ related_methods:
   - "[[Correlational Research]]"
 related_persons:
   - "[[Christof Wecker]]"
+  - "[[John Hattie]]"
 related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Creation of REES]]"
@@ -68,10 +69,12 @@ related_arguments:
   - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Argument_Zhao_2025_JIntell]]"
   - "[[Argument_Higgins_2016_ROE]]"
+  - "[[Argument_Snook_2009_NZJES]]"
+  - "[[Argument_Hattie_2010_NZJES]]"
 confidence: high
 status: active
 created: 2026-05-02
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Publication Bias
@@ -120,6 +123,7 @@ updated: 2026-10-16
 > [[Argument_Wolf_2020_JREE\|Wolf et al. (2020, p. 429)]] 与 [[Argument_Revai_2022_ChangingLandscape\|Révai (2022, p. 22)]] 揭示了教育研究中发表偏倚的多重动因及其系统性危害：
 > - **学术发表压力与期刊偏好** 研究者面临晋升与学术考评压力，商业学术期刊系统性偏爱“引人注目、反常识、显著”的理论证实性研究，零效应与复现研究往往被拒稿。
 > - **资助者与开发者的利益驱动** 商业教学产品提供方与项目方有极强动机压制负面评估；即使是受雇的评估团队，也容易因顾及委托方关系而弱化不利结论。
+> - **商业化教改热潮与药企式偏倚镜像（Commercial Educational Fads）** [[Argument_Snook_2009_NZJES|Snook et al. (2009, p. 97)]] 指出，教育实证元分析严重依赖公开发表文献，其偏倚机制与医药工业中药企资助试验如出一辙：在利润丰厚的商业化教改热潮中（如商业包装的“学习风格”测评、咨询方案与特定教材），未能证实预期积极效果的独立研究往往被束之高阁（文件抽屉效应），而公开见刊的大多是带有商业或理论偏好的正面成果。这种出版过滤致使元分析纳入的文献天然带有系统性正向偏差，进而诱导政策制定者做出盲目采纳昂贵商业项目的错误决策。
 > - **阻滞[[Cumulative Knowledge Base\|累积性知识库]]建构** 出版生态对显著正向结果的偏爱导致实证证据碎片化，排斥了零结果与情境复现研究，阻碍了教学改进所需[[Cumulative Knowledge Base\|累积性知识库]]（Cumulative Knowledge Base）的生成，使循证决策者难以辨识真实可靠的有效实践（Burkhardt & Schoenfeld, 2003）。
 
 ### 2. 诊断与统计校正方法族
@@ -151,6 +155,9 @@ updated: 2026-10-16
 > [!claim] Wolf, R., et al.
 > **发表偏倚对[[Developer Effect\|开发者效应]]的实质驱动** 运用权重函数模型检验 [[What Works Clearinghouse\|WWC]] 实证库证实，发表偏倚解释了约 66% 的开发者效应。商业出版生态对显著正面结果的选择性接收，使得独立评估的零效应更难见刊，在未经严密校正的情况下，单纯依赖公开文献综合得出的教育干预决策潜藏巨大的虚假有效性风险。[[Argument_Wolf_2020_JREE\|(Wolf et al., 2020, p. 442)]]
 
+> [!claim] [[Argument_Snook_2009_NZJES|Snook et al. (2009, p. 97)]]; [[Argument_Hattie_2010_NZJES|Hattie (2010, p. 88)]]
+> **商业偏倚镜像与宏观二阶综合的偏倚继承** 约翰·斯努克等学者指出，商业学术出版对正向结果的偏好与医药研发中的药企偏倚高度相似；当缺乏对未发表文献的严格检索与事后统计校正时，进入元分析的公开文献天然带有正向偏向。哈蒂在《可见的学习》中直接对 800 余项元分析进行二阶合并，却未能对这些元分析是否经过漏斗图或剪补法校正进行系统审查。尽管哈蒂（2010）抗辩称同行评审本身就是一种质量控制，但批评者指出同行评审机制恰恰是优先发表显著正向结果、加剧文件抽屉效应的制度源头；二阶综合非但未能消除发表偏倚，反而使底层文献池的系统性虚高在宏观排行榜中被固化和合法化。
+
 ---
 
 ### 命题二　多重统计校正与剪补模型可有效检验结论稳健性并还原真实因果边界
@@ -178,7 +185,7 @@ updated: 2026-10-16
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **证据扭曲命题** | 出版与资助生态对显著正面结果的偏好导致文献库效应量系统性虚夸，掩盖真实失败率 | 元分析效应量解释、循证政策审查 | [[Argument_Wolf_2020_JREE\|Wolf et al. (2020)]]; [[Argument_Kraft_2023_ER\|Kraft (2023)]] |
+> | **证据扭曲命题** | 出版与资助生态对显著正面结果的偏好导致文献库效应量系统性虚夸，掩盖真实失败率；二阶综合面临直接继承并复合放大发表偏倚的制度风险 | 元分析效应量解释、宏观证据库审查、循证政策评估 | [[Argument_Wolf_2020_JREE|Wolf et al. (2020)]]; [[Argument_Kraft_2023_ER|Kraft (2023)]]; [[Argument_Snook_2009_NZJES|Snook et al. (2009)]]; [[Argument_Hattie_2010_NZJES|Hattie (2010)]] |
 > | **稳健性检验命题** | 结合剪补法、失安全数与回归检验可量化偏倚下调幅度，确立核心因果推论的稳健性边界 | 元分析偏倚审计、敏感性分析与稳健性报告 | [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]]; [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] |
 > | **基础设施解耦命题** | 商业出版篇幅与显著性偏爱剥离原始统计量，二阶元分析复合放大偏倚；需建立解耦出版的中央数据基础设施实现全量归档 | 循证证据库建设、科研数据治理与动态一阶元分析 | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] |
 

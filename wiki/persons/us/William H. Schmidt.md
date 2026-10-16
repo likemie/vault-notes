@@ -8,7 +8,7 @@ summary: "密歇根州立大学杰出教授、国际数学与科学趋势研究�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 19
+person_related_count: 18
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -50,7 +50,7 @@ related_arguments:
 confidence: high
 status: stable
 created: 2026-09-26
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # William H. Schmidt

@@ -6,7 +6,7 @@ aliases:
 summary: "执行功能的核心成分，指在必要时故意抑制主导性或自动化反应的能力，用于支持自我控制、选择性注意和目标导向行为。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 3
+related_count: 4
 related_level: 0
 related_stars: "☆"
 related_color: "#e5e7eb"
@@ -28,7 +28,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-04'
-updated: '2026-05-18'
+updated: 2026-10-17
 ---
 
 ## 定义

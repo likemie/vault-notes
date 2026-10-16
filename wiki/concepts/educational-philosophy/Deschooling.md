@@ -8,10 +8,10 @@ aliases:
 summary: "20世纪下半叶兴起的激进教育批判思潮，主张废除制度化学校的垄断地位，倡导以学习网络与生活化非正式社群替代强制性学校规训"
 type: concept
 domain: "educational-philosophy"
-related_count: 10
-related_level: 1
-related_stars: "⭐"
-related_color: "#bfdbfe"
+related_count: 22
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
 - deschooling
 - unschooling
@@ -51,7 +51,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-10-16'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Deschooling

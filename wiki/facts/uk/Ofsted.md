@@ -9,7 +9,7 @@ subtype: organization
 region: uk
 fact_region: "uk"
 fact_kind: "organization"
-fact_related_count: 52
+fact_related_count: 51
 fact_related_level: 5
 fact_related_stars: "💎⭐⭐"
 fact_related_color: "#fecdd3"
@@ -83,7 +83,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-05-07
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Ofsted

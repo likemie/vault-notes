@@ -7,7 +7,7 @@ aliases:
 summary: "冷战史学家约翰·刘易斯·加迪斯（John Lewis Gaddis）提出的国际关系核心概念，指第二次世界大战结束以来大国之间长达近一个世纪未发生直接全面战争的相对稳定时期；主要由核战略威慑、两极均势与美国军事优势所维系，但其诱发的和平自满在软件世纪正面临技术形态转型与威慑重构的严峻考验。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 18
+related_count: 19
 related_level: 1
 related_stars: "⭐"
 related_color: "#bfdbfe"
@@ -46,7 +46,7 @@ related_arguments:
 confidence: high
 status: active
 created: 2026-10-08
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Long Peace

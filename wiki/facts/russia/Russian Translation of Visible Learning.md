@@ -10,9 +10,9 @@ subtype: event
 region: russia
 fact_region: "russia"
 fact_kind: "event"
-fact_related_count: 16
-fact_related_level: 1
-fact_related_stars: "⭐"
+fact_related_count: 27
+fact_related_level: 2
+fact_related_stars: "⭐⭐"
 fact_related_color: "#fef3c7"
 tags:
 - visible-learning
@@ -56,7 +56,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Russian Translation of Visible Learning

@@ -8,10 +8,10 @@ summary: "美国教育学者，循证教育与教学改革先驱，首创将元�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 12
-person_related_level: 1
-person_related_stars: "⭐"
-person_related_color: "#dbeafe"
+person_related_count: 21
+person_related_level: 2
+person_related_stars: "⭐⭐"
+person_related_color: "#e0e7ff"
 born: "1946"
 died: ""
 lifespan: "1946–至今"
@@ -53,7 +53,7 @@ related_arguments:
 confidence: medium
 status: draft
 created: '2026-06-08'
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Robert Marzano

@@ -68,6 +68,7 @@ related_instruments: []
 related_persons:
   - "[[Gene Glass]]"
   - "[[Christof Wecker]]"
+  - "[[John Hattie]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Higgins_2016_ROE]]"
@@ -77,10 +78,12 @@ related_arguments:
   - "[[Argument_Chen_Cheung_2025_ERR]]"
   - "[[Argument_Lei_Ding_Chiu_2026_ERR]]"
   - "[[Argument_Zhao_2025_JIntell]]"
+  - "[[Argument_Snook_2009_NZJES]]"
+  - "[[Argument_Hattie_2010_NZJES]]"
 confidence: high
 status: completed
 created: 2026-06-08
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # Random-Effects Model
@@ -185,7 +188,7 @@ updated: 2026-10-16
 
 > [!math-principle] 随机效应模型的数理机制与小研究放大警示
 > - **权重再平衡机制（Weight Leveling Effect）** 当跨研究异质性极大（$\tau^2 \gg v_i$）时，$w_i^* = \frac{1}{v_i + \tau^2} \to \frac{1}{\tau^2}$。此时所有研究不论[[Sample Size Determination|样本量]]大小，其权重几乎完全相等，[[Fixed-Effect Model|固定效应模型]]下的大样本垄断被打破。
-> - **小研究[[Publication Bias|发表偏倚]]放大警示** 若文献库中存在显著的[[Publication Bias|发表偏倚]]（小样本研究往往因显著的正向极端效应才得以发表），权重再平衡会大幅提升这些劣质小研究在总分中的比重，导致随机效应合并均值 $\hat{\mu}_{\text{RE}}$ 反而显著高于固定效应估计值 $\hat{\theta}_{\text{FE}}$。因此报告随机效应模型必须强制配合[[Funnel Plot|漏斗图]]、Egger 检验与[[Trim and Fill Method|剪补法]]。
+> - **小研究[[Publication Bias|发表偏倚]]放大警示** 若文献库中存在显著的[[Publication Bias|发表偏倚]]（小样本研究往往因显著的正向极端效应才得以发表），权重再平衡会大幅提升这些劣质小研究在总分中的比重，导致随机效应合并均值 $\hat{\mu}_{\text{RE}}$ 反而显著高于固定效应估计值 $\hat{\theta}_{\text{FE}}$。例如[[John Hattie|约翰·哈蒂]]（John Hattie）在《[[Visible Learning|可见的学习]]》讨论课外活动时，曾明确提醒读者慎重对待 $d = 0.47$ 的结论，因其基于随机效应模型计算，极易赋予小样本研究过多权重而虚增效应量（Hattie, 2009; 引自 [[Argument_Snook_2009_NZJES|Snook et al., 2009, p. 95]]）。因此报告随机效应模型必须强制配合[[Funnel Plot|漏斗图]]、Egger 检验与[[Trim and Fill Method|剪补法]]。
 > - **小样本 $k$ 估计瘫痪** 当纳入的研究数量过少（$k < 5$）时，$\tau^2$ 的[[Sampling Error|抽样分布]]极度偏斜，点估计极易落入 0 或产生极大方差，导致置信区间产生严重误导。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 32–33)]]
 
 ---
@@ -203,6 +206,11 @@ updated: 2026-10-16
 > [!critique-logic] 单一均值抹平教学情境与德甲联赛[[Category Mistake|范畴错误]]
 > - **情境[[Heterogeneity|异质性]]抹平危机** 以 Fisher (1992, p. 175) 游戏元分析为例，社会[[Role-playing|角色扮演]]游戏效应高达 $d = 1.48$，纯想象主题游戏仅为 $d = 0.28$。随机效应模型虽然在数学上容纳了方差，但其最终输出的单一均值 $0.74$ 仍将具体实践机制抹平，使一线教师无法判断哪种具体形式有效。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 30–31)]]
 > - **跨本体范畴的强行比较** 德甲联赛隐喻表明，教育因素跨越了制度框架条件、个体心理特征、综合教学方案与微观设计变体四大基线不可[[Commensuration|通约]]的本体范畴。随机效应模型可以平衡统计权重，但无法消除将微观 1.5 小时实验（如样例学习）与宏观全年改革（[[Direct Instruction|直接教学]]）放在同一排行榜上的范畴错误。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 33–34)]]
+
+> [!critique-logic] 随机效应模型效应虚增警示与元分析质量审查的随意性
+> 约翰·斯努克（Ivan Snook）等学者从方法论一致性视角，指出了宏观二阶综合在运用随机效应模型时暴露出的标准双标问题：
+> - **模型的选择性警示** 哈蒂在《可见的学习》前言中公开声明不对原始研究开展质量批评；然而在具体章节中，他在课外活动（报告 $d = 0.47$）中明确警示随机效应模型容易人为抬高小研究权重并虚增效应量，在特许学校研究中指出剔除低质量研究后效应量从 $0.2$ 归零（p. 66），在学习风格（$d = 0.41$）中以研究动机可疑为由断然拒绝采信结论（pp. 195–197）。
+> - **方法论一致性的瓦解** 斯努克等（[[Argument_Snook_2009_NZJES|Snook et al., 2009, p. 95]]）指出，哈蒂对随机效应模型放大效应量的敏感性本身表明，单纯依赖效应量数值而不审查底层研究质量在认识论上无法自洽；但在大多数其他领域（如班级规模、家庭背景、教师效能），他又放弃了对随机效应模型敏感度与研究质量的审查。哈蒂（[[Argument_Hattie_2010_NZJES|Hattie, 2010, p. 88]]）辩护称，凡已知质量或模型属性对结果产生实质影响之处均已作标注，但批评者认为这种非系统性的局部警示破坏了二阶综合的客观性准绳。
 
 ---
 
@@ -262,6 +270,8 @@ updated: 2026-10-16
 > | [[Robust Variance Estimation]] | 补救方法 | 在文献重叠与复杂相关依赖下提供渐近无偏的稳健[[Standard Error\|标准误]]推断。 |
 > | [[Argument_Higgins_2016_ROE\|Higgins (2016)]] | 论证 | 系统阐述随机效应模型在面向广义超总体推论中的方法论优越性与历史演进。 |
 > | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | 论证 | 揭示二级随机效应模型因[[Meta-analysis\|元分析]]数量过少（平均约 5.8 项）导致的双重不可行性困境。 |
+> | [[Argument_Snook_2009_NZJES]] | 方法批评 | 揭示二阶综合中对随机效应模型虚增效应量警示的选择性援引，批判研究质量审查的随意性。 |
+> | [[Argument_Hattie_2010_NZJES]] | 方法辩护 | 回应 Snook et al. 批评，辩护元分析模型属性与质量控制的局部标注策略。 |
 
 ---
 
@@ -275,3 +285,5 @@ updated: 2026-10-16
 > - [[Argument_Lei_Ding_Chiu_2026_ERR|Lei et al. (2026)]] — 运用随机效应模型综合 66 项[[Graphic Organizer|图形组织器]]研究，以 Wald 检验与元回归系统解释异质性变异来源。
 > - [[Argument_Zhao_2025_JIntell|Zhao et al. (2025)]] — 运用随机效应模型综合 29 项生成式 AI 对[[Higher-Order Thinking Skills|高阶思维]]影响的实证研究，检验多维情境调节[[Variable|变量]]。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen, Manion & Morrison (2011, Ch. 17)]] — 系统介绍随机效应模型加权机制、$\tau^2$ 估计方法与[[Prediction Interval|预测区间]]解读规程。
+> - [[Argument_Snook_2009_NZJES|Snook et al. (2009, p. 95)]] — 援引 Hattie 在课外活动中对随机效应模型导致效应量虚增的论述，批判宏观二阶综合在模型选择与研究质量审查上的随意性与双重标准。
+> - [[Argument_Hattie_2010_NZJES|Hattie (2010, p. 88)]] — 回应 Snook et al. 批评，辩护元分析处理异质性与质量控制的方法论权能，澄清对模型属性与调节变量的报告策略。

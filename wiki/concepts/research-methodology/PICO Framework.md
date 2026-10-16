@@ -8,10 +8,10 @@ aliases:
 summary: "用于循证医学、系统评价与循证教育研究中明确界定实证研究问题与纳入排除标准的结构化范式，通过解构人群、干预、对照与结局确保证据综合的内部同质性与因果可比性。"
 type: concept
 domain: "research-methodology"
-related_count: 9
-related_level: 0
-related_stars: "☆"
-related_color: "#e5e7eb"
+related_count: 29
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - concept/research-methodology
   - theme/evidence-based-education
@@ -57,7 +57,7 @@ related_arguments:
 confidence: high
 status: draft
 created: 2026-10-16
-updated: 2026-10-16
+updated: 2026-10-17
 ---
 
 # PICO Framework
