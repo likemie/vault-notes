@@ -53,11 +53,11 @@ related_facts:
   - "[[Research Learning Communities]]"
 related_arguments:
   - "[[Argument_Brown_Greany_2018_LPS]]"
-  - "[[Argument_Helgetun_2022_JEP]]"
+  - "[[Argument_Helgetun_2022_JEdPolicy]]"
 confidence: high
 status: draft
 created: 2026-09-15
-updated: 2026-09-22
+updated: 2026-10-16
 ---
 
 # Teaching Schools
@@ -65,12 +65,12 @@ updated: 2026-09-22
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> 教学学校（Teaching Schools）是英格兰被指定承担系统改进职责的优秀中小学校，在由其牵头组成的教学学校联盟（Teaching School Alliances，[[Thinking Skills Assessment\|TSA]]）内统筹职前[[Initial Teacher Training\|初始教师培训]]（Initial Teacher Training，ITT）、在职持续专业发展（Continuing Professional Development，CPD）、校际支持以及研究与发展（R&D）。这一安排将优秀学校的影响力制度化，是[[Self-Improving School System\|自我改进学校系统]]在专业发展与[[Research Utilization\|证据使用]]方面的主要组织载体；其全国性代表机构教学学校理事会（Teaching Schools Council，TSC）被英国教育部赋予核心政策咨询地位（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, p. 120]]；[[Argument_Helgetun_2022_JEP\|Helgetun & Menter, 2022, p. 93]]）。
+> 教学学校（Teaching Schools）是英格兰被指定承担系统改进职责的优秀中小学校，在由其牵头组成的教学学校联盟（Teaching School Alliances，[[Thinking Skills Assessment\|TSA]]）内统筹职前[[Initial Teacher Training\|初始教师培训]]（Initial Teacher Training，ITT）、在职持续专业发展（Continuing Professional Development，CPD）、校际支持以及研究与发展（R&D）。这一安排将优秀学校的影响力制度化，是[[Self-Improving School System\|自我改进学校系统]]在专业发展与[[Research Utilization\|证据使用]]方面的主要组织载体；其全国性代表机构教学学校理事会（Teaching Schools Council，TSC）被英国教育部赋予核心政策咨询地位（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, p. 120]]；[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, p. 93]]）。
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2010 年起在英格兰大规模推行，与同一时期推进的学院化（[[Academy Programme in England]]）共同构成自我改进取向的组织基础；2021 年起重组过渡为教学学校枢纽（Teaching School Hubs，TSH）。
 > - **发起方与资助机制** 由英国教育部（Department for Education，DfE）及国家教学与领导力学院（National College for Teaching and Leadership，NCTL）指定并赋予职责，牵头学校获得专项核心拨款，并在联盟协作框架内承担工作（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, pp. 120–122]]）。
-> - **覆盖范围与对象** 模仿医学“教学医院”（Teaching Hospitals）模式，至 2015 年 10 月已有 692 所教学学校；至 2014 年 10 月至少 7,144 所学校与某所教学学校建立了联系，占英格兰全部学校的 32%（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, p. 120]]；[[Argument_Helgetun_2022_JEP\|Helgetun & Menter, 2022, p. 90]]）。
+> - **覆盖范围与对象** 模仿医学“教学医院”（Teaching Hospitals）模式，至 2015 年 10 月已有 692 所教学学校；至 2014 年 10 月至少 7,144 所学校与某所教学学校建立了联系，占英格兰全部学校的 32%（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, p. 120]]；[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, p. 90]]）。
 > - **核心问题导向** 针对前一时期由中央行政指令统一推行改进方案所造成的僵化问题，改由系统内部的优秀学校向外扩散有效实践，并将教师职前培训重心从大学高等教育机构转向中小学一线（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, pp. 119–120]]）。
 
 ---
@@ -88,8 +88,8 @@ updated: 2026-09-22
 
 > [!actor-grid] 实施角色分工与[[Policy Network\|政策网络]]位置
 > - **指定与政策主体** 英国教育部（DfE），负责教学学校资格指定、考核评价与宏观政策导向。
-> - **教学学校理事会（TSC）** 由教学学校杰出领导者组成，受教育部大力支持并赋予核心政策咨询地位，作为连接中央政策意图与学校基层的制度化代理人（[[Argument_Helgetun_2022_JEP\|Helgetun & Menter, 2022, p. 93]]）。
-> - **牵头教学学校与多学院信托（MAT）** 被指定的杰出学校及大型 MAT，负责组建联盟并统筹 ITT、CPD 与 R&D 全部工作（[[Argument_Helgetun_2022_JEP\|Helgetun & Menter, 2022, pp. 91, 94]]）。
+> - **教学学校理事会（TSC）** 由教学学校杰出领导者组成，受教育部大力支持并赋予核心政策咨询地位，作为连接中央政策意图与学校基层的制度化代理人（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, p. 93]]）。
+> - **牵头教学学校与多学院信托（MAT）** 被指定的杰出学校及大型 MAT，负责组建联盟并统筹 ITT、CPD 与 R&D 全部工作（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, pp. 91, 94]]）。
 > - **[[Partnership Schools Kura Hourua\|伙伴学校]]** 与教学学校建立联系的中小学，至 2014 年 10 月已达至少 7,144 所，占全英学校的 32%（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, p. 120]]）。
 > - **研究与发展承担者** 联盟内负责 R&D 职能的教师与领导者；该职能在实践中面临工作量与经费的双重约束（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, pp. 121–122]]）。
 
@@ -101,9 +101,9 @@ updated: 2026-09-22
 > - **2010 — 制度设立** 联合政府白皮书[[The Importance of Teaching\|《教学的重要性》]]确立教学学校制度，作为[[Self-Improving School System\|自我改进学校系统]]与校本化培训的基石。
 > - **2011 — 首批指定** 第一批 100 所教学学校正式获批并启动联盟运作。
 > - **2014 年 10 月 — 网络规模成型** 至少 7,144 所学校与教学学校建立合作联系，占英格兰全部学校的 32%。
-> - **2014–2015 — 深度参与国家政策审查** 教学学校杰出代表安德鲁·卡特爵士受命主持全国[[Initial Teacher Training\|初始教师培训]]审查（[[Carter Review of Initial Teacher Training\|卡特审查]]），确立全国循证核心课程框架（[[Argument_Helgetun_2022_JEP\|Helgetun & Menter, 2022, p. 90]]）。
+> - **2014–2015 — 深度参与国家政策审查** 教学学校杰出代表安德鲁·卡特爵士受命主持全国[[Initial Teacher Training\|初始教师培训]]审查（[[Carter Review of Initial Teacher Training\|卡特审查]]），确立全国循证核心课程框架（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, p. 90]]）。
 > - **2015 年 10 月 — 指定数量达到 692 所** 教学学校数量持续扩张，成为英格兰校际专业发展与校本 ITT 的主导渠道（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, p. 120]]）。
-> - **2014–2016 — 研发职能分化与政策咨询制度化** [[Evaluation Research\|评估研究]]揭示 R&D 职能受制于不可持续的工作量与经费短缺（Gu et al., 2014, 2015）；与此同时，2016 年白皮书《处处卓越的教育》进一步将 TSC 确立为国家级政策咨询与质量保障支柱（[[Argument_Helgetun_2022_JEP\|Helgetun & Menter, 2022, p. 93]]）。
+> - **2014–2016 — 研发职能分化与政策咨询制度化** [[Evaluation Research\|评估研究]]揭示 R&D 职能受制于不可持续的工作量与经费短缺（Gu et al., 2014, 2015）；与此同时，2016 年白皮书《处处卓越的教育》进一步将 TSC 确立为国家级政策咨询与质量保障支柱（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, p. 93]]）。
 > - **2021 — 枢纽化重组（Teaching School Hubs）** 英国教育部将 800 余所零散教学学校精简整合为 87 所区域性“教学学校枢纽”（TSH），专门对接《早期职业框架》（ECF）与国家专业资格（NPQs）的标准化交付。
 
 ---
@@ -111,9 +111,9 @@ updated: 2026-09-22
 ## 效果与评价
 
 > [!finding-cards] 效果与评价
-> - **网络覆盖规模可观与校本培训重心转移** 至 2014 年 10 月已有至少 7,144 所学校建立联系（占 32%），成功将大量 [[Initial Teacher Training\|ITT]] 配额从大学转移至学校主导的 School Direct 和 SCITT 路径（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, p. 120]]；[[Argument_Helgetun_2022_JEP\|Helgetun & Menter, 2022, p. 90]]）。
+> - **网络覆盖规模可观与校本培训重心转移** 至 2014 年 10 月已有至少 7,144 所学校建立联系（占 32%），成功将大量 [[Initial Teacher Training\|ITT]] 配额从大学转移至学校主导的 School Direct 和 SCITT 路径（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, p. 120]]；[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, p. 90]]）。
 > - **研究与发展（R&D）职能实施不均与边缘化** 该职能在部分联盟被视作基础性工作，但在多数联盟中因面临极度繁重的考核指标与缺乏专属经费支持，在实践中往往被弱化为附带工作（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, pp. 121–122]]）。
-> - **[[Policy Network\|政策网络]]中的政治吸纳与落地偏好** [[Elite Interview\|精英访谈]]揭示，教学[[School Leadership\|学校领导]]者作为“系统领袖”（System Leaders）被深度吸纳进教育部咨询网络，其在参与政策审查与圆桌讨论时，首要考量往往并非学术严谨性，而是方案能否在部长手中顺利“落地”（Landing）（[[Argument_Helgetun_2022_JEP\|Helgetun & Menter, 2022, pp. 93–94]]）。
+> - **[[Policy Network\|政策网络]]中的政治吸纳与落地偏好** [[Elite Interview\|精英访谈]]揭示，教学[[School Leadership\|学校领导]]者作为“系统领袖”（System Leaders）被深度吸纳进教育部咨询网络，其在参与政策审查与圆桌讨论时，首要考量往往并非学术严谨性，而是方案能否在部长手中顺利“落地”（Landing）（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, pp. 93–94]]）。
 
 > [!stat-cards]- 核心数据
 > - **692 所** 至 2015 年 10 月已指定的教学学校数量（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018, p. 120]]）。
@@ -130,7 +130,7 @@ updated: 2026-09-22
 > > 争论焦点在于教学学校究竟是自下而上的专业自主网络，还是中央政府强化控制的[[Governing at a Distance\|远程治理]]工具。
 > >
 > > - **官方政策设想** 优秀学校自发组成生态联盟，将[[Phronesis\|实践智慧]]横向扩散至薄弱学校，摆脱中央指令与官僚干预。
-> > - **批判制度主义视角（[[Argument_Helgetun_2022_JEP\|Helgetun & Menter, 2022]]）** 教学学校及其理事会（TSC）虽然在名义上属于去中心化的学校网络，但在实际运作中被教育部严密把关。政府通过定向赋予 TSC 咨询职能与项目资源，将校本实践者重构为推行去大学化改革、宣扬[[Rationalized Myth\|合理化神话]]的政策代言人，体现了[[New Public Management\|新公共管理]]下通过代理机构进行远程控制的典型逻辑。
+> > - **批判制度主义视角（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022]]）** 教学学校及其理事会（TSC）虽然在名义上属于去中心化的学校网络，但在实际运作中被教育部严密把关。政府通过定向赋予 TSC 咨询职能与项目资源，将校本实践者重构为推行去大学化改革、宣扬[[Rationalized Myth\|合理化神话]]的政策代言人，体现了[[New Public Management\|新公共管理]]下通过代理机构进行远程控制的典型逻辑。
 >
 > > [!axis] 研究与发展是基础工作还是额外负担
 > > 争论的焦点在于研究与发展究竟应被视为联盟的核心职能，还是被当作可以附加在既有工作之上的项目。

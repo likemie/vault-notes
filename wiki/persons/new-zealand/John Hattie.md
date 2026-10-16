@@ -137,7 +137,7 @@ related_arguments:
   - "[[Argument_OConnor_2020_AJLL]]"
   - "[[Argument_Eacott_2017_SLM]]"
   - "[[Argument_ONeill_2012_NZJES]]"
-  - "[[Argument_Johnson_2023_CE]]"
+  - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Nielsen_2021_IRTP]]"
   - "[[Argument_Rømer_2018_EPT]]"
   - "[[Argument_Larsen_2019_EducSci]]"
@@ -326,7 +326,7 @@ updated: 2026-10-16
 > > 批判其对教师专业主体的贬低、商业化利益冲突以及在国家硬性规制中的制度穿透力不足。
 > >
 > > - **Eacott 以及 McKnight 与 Whitburn** 定性其为新泰勒主义监控与“[[Cult of the Guru\|大师崇拜]]”，将教学拆解为最小可测量单元，以进步主义修辞包装[[Positivism\|实证主义]]与新自由主义监控。[[Argument_Eacott_2017_SLM\|(Eacott, 2017)]]; [[Argument_McKnight_2020_Discourse\|(McKnight & Whitburn, 2020)]]
-> > - **O'Neill 等人以及 Johnson 与 Janzen** 揭示政策制定者脱离语境滥用证据，追踪其从 [[Assessment Tools for Teaching and Learning\|asTTle]] 到商业咨询的利益网络与政策创业。[[Argument_ONeill_2012_NZJES\|(O'Neill, 2012)]]; [[Argument_ONeill_2016_Report\|(O'Neill et al., 2016)]]; [[Argument_Johnson_2023_CE\|(Johnson & Janzen, 2023)]]
+> > - **O'Neill 等人以及 Johnson 与 Janzen** 揭示政策制定者脱离语境滥用证据，追踪其从 [[Assessment Tools for Teaching and Learning\|asTTle]] 到商业咨询的利益网络与政策创业。[[Argument_ONeill_2012_NZJES\|(O'Neill, 2012)]]; [[Argument_ONeill_2016_Report\|(O'Neill et al., 2016)]]; [[Argument_Johnson_2023_CritEduc\|(Johnson & Janzen, 2023)]]
 > > - **Steiner-Khamsi 等人** 实证表明在北欧政策咨询网络中，专家报告虽海量引用 Hattie，但在法定行政法令阶段被清洗过滤超 95%，个体明星威权远逊于[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD）等跨国治理复合体。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
 >
 > > [!axis] 教育哲学审视：[[Technical Rationality\|技术理性]]、盲视框架与 [[Bildung]] 替代
@@ -349,7 +349,7 @@ updated: 2026-10-16
 > - [[Argument_McKnight_2020_Discourse\|McKnight & Whitburn, 2020]] — 女性主义与能力批判视角下的文化政治七点批判。
 > - [[Argument_Nielsen_2021_IRTP\|Nielsen & Klitmøller, 2021b]] — 哈贝马斯合法化危机视角：技术理性内核满足政治合法化需求。
 > - [[Argument_Nielsen_2021_NordPsych\|Nielsen & Klitmøller, 2021a]] — 行为主义理论谱系审查：反馈效应核心元分析概念偷换。
-> - [[Argument_Johnson_2023_CE\|Johnson & Janzen, 2023]] — [[Cargo Cult Science\|货物崇拜科学]]批判：方法不透明与新自由主义私有化循环。
+> - [[Argument_Johnson_2023_CritEduc\|Johnson & Janzen, 2023]] — [[Cargo Cult Science\|货物崇拜科学]]批判：方法不透明与新自由主义私有化循环。
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024]] — 跨国政策中介分析：法定行政法令起草阶段对个体学术明星引文的断崖式过滤。
 > - [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025]] — 首个针对全库 322 个影响因素的预注册元科学审计：实证证实仅 19% 满足 PICO 标准且数据提取复现率仅 0.66%，系统性瓦解了其证据基础。
 > - [[Argument_Jansen_2026_EPR\|Jansen et al., 2026]] — 大模型[[Automated Data Extraction\|自动化数据提取]]准确性评测：揭示 Hattie 既有数据库历史人工录入存在 57 处独有偏离（[[Intraclass Correlation Coefficient\|ICC]] = 0.81）。

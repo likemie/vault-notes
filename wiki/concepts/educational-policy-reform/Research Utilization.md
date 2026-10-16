@@ -129,20 +129,20 @@ related_facts:
 related_arguments:
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
   - "[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO]]"
-  - "[[Argument_McDonnell_2013_AJE]]"
-  - "[[Argument_Rickinson_2022_ER]]"
+  - "[[Argument_McDonnell_2013_AmJE]]"
+  - "[[Argument_Rickinson_2022_EducRes]]"
   - "[[Argument_Torres_2022_KMModels]]"
   - "[[Argument_Brown_Greany_2018_LPS]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Hill_2022_FacilitatingActors]]"
   - "[[Argument_Gough_2022_EvidenceOnEIPP]]"
   - "[[Argument_Bangs_2022_PerspectivesOnResearch]]"
-  - "[[Argument_Helgetun_2022_JEP]]"
+  - "[[Argument_Helgetun_2022_JEdPolicy]]"
   - "[[Argument_Kelly_2025_ROE]]"
   - "[[Argument_Mausethagen_2025_ERR]]"
-  - "[[Argument_Nelson_2017_ER]]"
+  - "[[Argument_Nelson_2017_EducRes]]"
   - "[[Argument_Torres_2022_BarriersMechanisms]]"
-  - "[[Argument_Slavin_2019_EP]]"
+  - "[[Argument_Slavin_2019_EducPsychol]]"
 confidence: high
 status: draft
 created: 2026-06-17
@@ -156,7 +156,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **研究利用（Research Utilization / Research Use，亦称研究使用、知识利用、证据使用）** 指科学研究产出（包括理论概念、实证数据、教学策略、评估工具与方法论程序）以不同路径和形式进入公共教育政策制定、学校组织治理以及一线课堂教学实践的动态转化过程与交互机制。它不仅包含将科研结论直接转化为操作决策的[[Conceptual, Instrumental, and Symbolic Use of Research|工具性使用]]，更包含通过知识渗透重构行动者心智的概念性使用、为既定立场护航的象征性使用与去政治化护盾；在宏观政策全生命周期中呈现清晰的阶段依随性（Stage-contingent），在微观教学中表现为基于育人伦理与多源知识的能动整合。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p. 4)]]; [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, pp. 3–5)]]; [[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 11–16, 19)]]
+> **研究利用（Research Utilization / Research Use，亦称研究使用、知识利用、证据使用）** 指科学研究产出（包括理论概念、实证数据、教学策略、评估工具与方法论程序）以不同路径和形式进入公共教育政策制定、学校组织治理以及一线课堂教学实践的动态转化过程与交互机制。它不仅包含将科研结论直接转化为操作决策的[[Conceptual, Instrumental, and Symbolic Use of Research|工具性使用]]，更包含通过知识渗透重构行动者心智的概念性使用、为既定立场护航的象征性使用与去政治化护盾；在宏观政策全生命周期中呈现清晰的阶段依随性（Stage-contingent），在微观教学中表现为基于育人伦理与多源知识的能动整合。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR|(Hagevold et al., 2026, p. 4)]]; [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|(Kazancı Tınmaz & Sezgin, 2023, pp. 3–5)]]; [[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 11–16, 19)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向科研成果从学术生产端向决策与教学实践端流动的多元非线性转化机制，涵盖微观教师教学整合、中观学校治理生态与宏观政策各阶段的动态功能演进。
@@ -166,7 +166,7 @@ updated: 2026-10-16
 > [!citation-card] 政策研制中的去政治化护盾与多源知识协同
 > 实证研究表明，政策制定者在方案设计中诉诸科研证据，首要目的往往在于构建抵御政治利益集团施压的去政治化护盾：
 > 
-> “决策者倾向于在政策研制阶段运用研究证据作为防范政治争议的‘去政治化护盾’，将自身价值偏好包裹在科学严谨性的[[Discourse|话语]]之下。然而，由于学术实证在操作细节上往往存在知识盲区，真正促成方案落地的关键在于将有限的研究证据、学科内在结构逻辑与一线实践者的[[Professional Judgment|专业判断]]紧密协同起来。”（[[Argument_McDonnell_2013_AJE|McDonnell & Weatherford, 2013, pp. 13–15, 19]]）
+> “决策者倾向于在政策研制阶段运用研究证据作为防范政治争议的‘去政治化护盾’，将自身价值偏好包裹在科学严谨性的[[Discourse|话语]]之下。然而，由于学术实证在操作细节上往往存在知识盲区，真正促成方案落地的关键在于将有限的研究证据、学科内在结构逻辑与一线实践者的[[Professional Judgment|专业判断]]紧密协同起来。”（[[Argument_McDonnell_2013_AmJE|McDonnell & Weatherford, 2013, pp. 13–15, 19]]）
 > 
 > *“Evidence can serve as a shield against political controversies, providing legitimacy for policy designs... yet because empirical evidence rarely answers all operational questions, wise policy requires combining research evidence with disciplinary expert deduction and professional judgment about how best to Teach students.”*
 
@@ -176,7 +176,7 @@ updated: 2026-10-16
 > *Research use in professional practice involves actively incorporating scientific findings into curriculum planning, instructional design, pedagogical knowledge updating, and collaborative reflection, acting as the behavioral manifestation of [[Research Literacy]].*
 
 > [!citation-card] 高质量研究证据使用的双核界定
-> 教育中的高质量研究证据使用是指：在复杂系统内，由个体与组织使能构件协同支持的、对适切研究证据的审慎参与和实施。适切研究证据强调优质证据的情境特异性。从使用视角来看，优质研究证据不仅需要在方法学上保持严谨，更必须切合具体教育问题、情境脉络及既定用途。审慎参与和实施则体现了教育者对研究证据的批判性研读、对其内涵的共同审议，以及将证据要素有效整合进日常专业实践的过程。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, pp. 140–141)]]
+> 教育中的高质量研究证据使用是指：在复杂系统内，由个体与组织使能构件协同支持的、对适切研究证据的审慎参与和实施。适切研究证据强调优质证据的情境特异性。从使用视角来看，优质研究证据不仅需要在方法学上保持严谨，更必须切合具体教育问题、情境脉络及既定用途。审慎参与和实施则体现了教育者对研究证据的批判性研读、对其内涵的共同审议，以及将证据要素有效整合进日常专业实践的过程。[[Argument_Rickinson_2022_EducRes|(Rickinson et al., 2022a, pp. 140–141)]]
 >
 > *“[[Quality Use of Research Evidence Framework|Quality Use of Research Evidence]] in education as: the thoughtful engagement with and implementation of appropriate research evidence, supported by a blend of individual and organisational enabling components within a complex system. Appropriate research evidence is about the quality and the context-specific nature of research evidence... thoughtful engagement and implementation reflect critical engagement with the research evidence, shared deliberation about its meaning and effective integration of aspects of the evidence within practice.”*
 
@@ -207,8 +207,8 @@ updated: 2026-10-16
 > - **三种基本使用形态（Weiss, 1979）** [[Conceptual, Instrumental, and Symbolic Use of Research|概念性使用]]（启发思维与更新观念）、[[Conceptual, Instrumental, and Symbolic Use of Research|工具性使用]]（直接指导具体决策）与象征性使用（为既定立场背书）。
 > - **四种经典过程模型（Weiss, 1991b）** 研发模型（线性流水线转化）、[[Problem Solving|问题解决]]模型（按需调用工具箱）、互动模型（研究者与决策者多边对话）与战术模型（政治推诿与辩护）。
 > - **三代知识到行动演进模型（Best & Holmes, 2010）** 第一代关注线性单向的“知识推送”（Push model）；第二代强调生产者与使用者的关系型“[[Knowledge Co-production|协同生产]]”（Co-production）；第三代迈向“系统与程序路径”（Systems and procedural approach），拆解政策各阶段的证据利用能力与支持生态。
-> - **政策全生命周期阶段依随型证据利用模型（Stage-Contingent Utilization Model; [[Argument_McDonnell_2013_AJE|McDonnell & Weatherford, 2013]]）** 破除线性[[Technical Rationality|技术理性]]转化假定，实证揭示研究在政策不同阶段扮演截然不同的功能形态：① **议程设置（Agenda Setting）**，概念性启发与象征性动员，利用跨国评估数据（如 [[TIMSS]]、[[National Assessment of Educational Progress|NAEP]]）将教育短板包装为关乎国家经济[[Competitiveness|竞争力]]的生存危机；② **方案研制（Policy Formulation）**，去政治化护盾与知识补位，研究证据提供政治避风港以抵御利益集团压力，在因果实证断层处由学科专家逻辑演绎与一线教师[[Professional Judgment|专业判断]]协同补位；③ **政策采纳（Policy Adoption）**，微观工具性比对与同行信任代理，依托交叉比对分析（Crosswalks）证明合规性，并通过多学科专家验证委员会的同行声誉完成[[Epistemology|认识论]]信任委托。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 11–16, 19)]]
-> - **研究证据质量使用（[[Quality Use of Research Evidence Framework|QURE]]）双核构件** 马克·里克森（[[Mark Rickinson]]）等基于跨四大实践领域 112 篇核心文献的[[Systematic Review|系统综述]]，打破侧重“证据生产质量”或二元采纳的局限，确立高质量使用的双核心构件：① **适切研究证据（Appropriate Research Evidence）**，要求研究证据兼具方法学严谨性与针对具体教育问题、现场情境脉络及预期用途的三维适配（Nutley et al., 2013）；② **审慎参与和实施（Thoughtful Engagement and Implementation）**，要求教育者克服证据自行发声的幻想（Coburn et al., 2009），能动地开展批判研读、集体审议与日常情境化整合（Sharples, 2013）。[[Argument_Rickinson_2022_ER|(Rickinson et al., 2022a, pp. 140–145)]]
+> - **政策全生命周期阶段依随型证据利用模型（Stage-Contingent Utilization Model; [[Argument_McDonnell_2013_AmJE|McDonnell & Weatherford, 2013]]）** 破除线性[[Technical Rationality|技术理性]]转化假定，实证揭示研究在政策不同阶段扮演截然不同的功能形态：① **议程设置（Agenda Setting）**，概念性启发与象征性动员，利用跨国评估数据（如 [[TIMSS]]、[[National Assessment of Educational Progress|NAEP]]）将教育短板包装为关乎国家经济[[Competitiveness|竞争力]]的生存危机；② **方案研制（Policy Formulation）**，去政治化护盾与知识补位，研究证据提供政治避风港以抵御利益集团压力，在因果实证断层处由学科专家逻辑演绎与一线教师[[Professional Judgment|专业判断]]协同补位；③ **政策采纳（Policy Adoption）**，微观工具性比对与同行信任代理，依托交叉比对分析（Crosswalks）证明合规性，并通过多学科专家验证委员会的同行声誉完成[[Epistemology|认识论]]信任委托。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 11–16, 19)]]
+> - **研究证据质量使用（[[Quality Use of Research Evidence Framework|QURE]]）双核构件** 马克·里克森（[[Mark Rickinson]]）等基于跨四大实践领域 112 篇核心文献的[[Systematic Review|系统综述]]，打破侧重“证据生产质量”或二元采纳的局限，确立高质量使用的双核心构件：① **适切研究证据（Appropriate Research Evidence）**，要求研究证据兼具方法学严谨性与针对具体教育问题、现场情境脉络及预期用途的三维适配（Nutley et al., 2013）；② **审慎参与和实施（Thoughtful Engagement and Implementation）**，要求教育者克服证据自行发声的幻想（Coburn et al., 2009），能动地开展批判研读、集体审议与日常情境化整合（Sharples, 2013）。[[Argument_Rickinson_2022_EducRes|(Rickinson et al., 2022a, pp. 140–145)]]
 
 基础形态学确立了研究利用的分类基础与历史范式；然而，研究成果能否真正转化为实践效能，关键取决于微观一线专业人员的心理认知驱动与教学行为情境。
 
@@ -282,14 +282,14 @@ updated: 2026-10-16
 > [!claim] [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]]
 > **政策周期的两阶段证据断层与选择性吸纳** 实证研究表明政策过程不同阶段的证据使用存在程序性断层：独立专家咨询委员会在[[Problem Finding\|问题界定]]阶段广泛调动本土与跨国研究证据，但行政首脑机关在出台法定政令时，往往跳过专家报告中的海量文献，仅高度选择性地引用极少数契合既定改革导向、且能提供外部权威的国际组织证据，呈现从海量备选到政治过滤的漏斗效应。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 546–547)]]
 
-> [!claim] [[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]]
-> **[[Evidence Era\|证据时代]]下的合理化修辞与[[Policy-Based Evidence-Making\|逆向证据生产]]** 宏观政策层面的研究利用已演化为以密集学术引文为特征的[[Evidence Era\|证据时代]]表象。然而，政府通过充当[[Gatekeepers\|守门人]]筛选顾问并扶植官方代言机构，使研究利用受制于适宜性逻辑与落地考量；当既定政治意图主导决策时，研究利用便异化为反向定制与裁剪证据的[[Policy-Based Evidence-Making\|基于政策的证据制造]]（PBEM），削弱了学术研究的[[Epistemology\|认识论]]连贯性。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 91–96)]]
+> [!claim] [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]]
+> **[[Evidence Era\|证据时代]]下的合理化修辞与[[Policy-Based Evidence-Making\|逆向证据生产]]** 宏观政策层面的研究利用已演化为以密集学术引文为特征的[[Evidence Era\|证据时代]]表象。然而，政府通过充当[[Gatekeepers\|守门人]]筛选顾问并扶植官方代言机构，使研究利用受制于适宜性逻辑与落地考量；当既定政治意图主导决策时，研究利用便异化为反向定制与裁剪证据的[[Policy-Based Evidence-Making\|基于政策的证据制造]]（PBEM），削弱了学术研究的[[Epistemology\|认识论]]连贯性。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 91–96)]]
 
 > [!claim] [[Argument_Hill_2022_FacilitatingActors|Hill (2022)]]
 > **技术方案采购偏好与交往审议功能弱化** 在公共教育政策全生命周期中，研究证据的应用呈现功能两极分化：高频或系统化使用主要集中于[[Technical Rationality|技术理性]]环节（方案设计、系统问题诊断与成效评估）；而在涉及多方协商、凝聚共识与跨界协作的政治审议维度（激发利益相关方对话、建立信任、推动政治议程），使用频度明显偏低。决策部门倾向于将研究者视作现成方案的供应商，在遭遇操作瓶颈时采买实证数据用于内部论证，导致教育研究主要发挥去政治化的技术修补功能，而较少在公共政治[[Champ|场域]]中承担促进平等对话与化解价值分歧的交往功能。[[Argument_Hill_2022_FacilitatingActors|(Hill, 2022, pp. 93–96)]]
 
-> [!claim] [[Argument_McDonnell_2013_AJE|McDonnell and Weatherford (2013)]]
-> **阶段依随型功能分化与去政治化护盾机制** 政策全生命周期实证表明，研究证据的利用呈现清晰的阶段依随性（Stage-contingent）：在议程设置阶段主要发挥概念启发与象征动员功能（如利用 [[TIMSS]] 数据诊断课程“一英里宽、一英寸深”并关联经济危机）；在方案研制阶段，研究被用作抵御外部意识形态与利益集团施压的去政治化护盾（De-politicization shield），但面对实证研究的客观盲区，必须与学科专家逻辑演绎及一线教师[[Professional Judgment|专业判断]]深度协同；在政策采纳阶段，[[Research Translation|研究转化]]为微观交叉比对分析（Crosswalks）与同行信任代理，促成跨党派立法采纳。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 11–16, 19)]]
+> [!claim] [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]]
+> **阶段依随型功能分化与去政治化护盾机制** 政策全生命周期实证表明，研究证据的利用呈现清晰的阶段依随性（Stage-contingent）：在议程设置阶段主要发挥概念启发与象征动员功能（如利用 [[TIMSS]] 数据诊断课程“一英里宽、一英寸深”并关联经济危机）；在方案研制阶段，研究被用作抵御外部意识形态与利益集团施压的去政治化护盾（De-politicization shield），但面对实证研究的客观盲区，必须与学科专家逻辑演绎及一线教师[[Professional Judgment|专业判断]]深度协同；在政策采纳阶段，[[Research Translation|研究转化]]为微观交叉比对分析（Crosswalks）与同行信任代理，促成跨党派立法采纳。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 11–16, 19)]]
 
 ---
 
@@ -337,8 +337,8 @@ updated: 2026-10-16
 > [!concept-lens] 研究使用质量评价与跨界合作[[Paradigm\|范式]]
 > 探讨从单纯关注证据方法学严谨性转向关注实践使用质量的理论演进，论证跨界合作与知识共有对深化研究利用的作用。
 
-> [!claim] [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]]
-> **从证据生产质量转向实践使用质量** [[International Education\|国际教育]]研究长期侧重于“何谓高质量证据”（如因果实验等级）或二元采纳考核；[[Systematic Review\|系统综述]]表明，高质量证据利用关键依赖专业人员在复杂系统中的能动调适。[[Quality Use of Research Evidence Framework\|高质量研究使用]]包含“适切研究证据”（方法严谨且切合具体问题、情境与用途）与“审慎参与和实施”（批判研读、集体审议与日常整合）两个核心构件，确立了使用质量的独立评价维度。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 133–134, 138–142)]]
+> [!claim] [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a)]]
+> **从证据生产质量转向实践使用质量** [[International Education\|国际教育]]研究长期侧重于“何谓高质量证据”（如因果实验等级）或二元采纳考核；[[Systematic Review\|系统综述]]表明，高质量证据利用关键依赖专业人员在复杂系统中的能动调适。[[Quality Use of Research Evidence Framework\|高质量研究使用]]包含“适切研究证据”（方法严谨且切合具体问题、情境与用途）与“审慎参与和实施”（批判研读、集体审议与日常整合）两个核心构件，确立了使用质量的独立评价维度。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 133–134, 138–142)]]
 
 > [!claim] Tseng, V.; Prøitz, T. S.; Bangs, J.; Nagy, E. K.
 > **跨界伙伴关系、中介对话与实践者主体地位** 针对教育研究利用长期受制于单向输出与技术专家垄断的局限：
@@ -353,27 +353,27 @@ updated: 2026-10-16
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **宏观政策约束与功能分化** | 研究采纳受政治可行性与议程制约，政策端偏重技术方案采购而弱化交往审议；呈现阶段依随性与去政治化护盾机制 | 宏观教育政策制定、立法论证与行政决策 | Thomas (1991); [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]]; [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]]; [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013)]] |
+> | **宏观政策约束与功能分化** | 研究采纳受政治可行性与议程制约，政策端偏重技术方案采购而弱化交往审议；呈现阶段依随性与去政治化护盾机制 | 宏观教育政策制定、立法论证与行政决策 | Thomas (1991); [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]]; [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]]; [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] |
 > | **知识传播与行为机制** | 单向推送无法克服信息赤字，研究利用依赖基于能力、机会与动机的行为改变支撑 | 证据中介干预设计、教师研修与成果转化 | Caplan (1991); [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]]; Lord et al. (2017) |
 > | **组织治理与制度塑造** | 跨层治理机制协同影响学校证据使用，高利害问责诱发表演性合规而低利害生态支持反思探究 | 学校组织改进、问责督导制度评估与比较教育治理 | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]]; [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] |
 > | **微观知行与多源整合** | 克服知行脱节需加强技能与阅读输入，教学决策本质是结合育人伦理的多源知识整合 | 教师专业发展、课堂教学决策与校本教研 | [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]]; [[Argument_Mausethagen_2025_ERR\|Mausethagen et al. (2025)]] |
-> | **使用质量与伙伴范式** | 评价重心从证据生产质量转向适切与审慎的使用质量，依托跨界伙伴关系推进知识共有 | 循证实践评价、研究-实践伙伴关系（RPP）与教师专业赋权 | [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]]; Tseng (2022); [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022)]] |
+> | **使用质量与伙伴范式** | 评价重心从证据生产质量转向适切与审慎的使用质量，依托跨界伙伴关系推进知识共有 | 循证实践评价、研究-实践伙伴关系（RPP）与教师专业赋权 | [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a)]]; Tseng (2022); [[Argument_Bangs_2022_PerspectivesOnResearch\|Bangs et al. (2022)]] |
 
 ---
 
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1970s–1990s — 宏观政策[[Research Utilization Models|研究利用模型]]与三分类确立** Weiss（1979, 1991b）与 Caplan（1979, 1991）等提出研发、[[Problem Solving|问题解决]]、互动与战术模型，Pelz (1978) 与 Beyer and Trice (1982) 奠定工具性、概念性与[[Conceptual, Instrumental, and Symbolic Use of Research|象征性使用]]三元分类。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 132)]]
+> - **1970s–1990s — 宏观政策[[Research Utilization Models|研究利用模型]]与三分类确立** Weiss（1979, 1991b）与 Caplan（1979, 1991）等提出研发、[[Problem Solving|问题解决]]、互动与战术模型，Pelz (1978) 与 Beyer and Trice (1982) 奠定工具性、概念性与[[Conceptual, Instrumental, and Symbolic Use of Research|象征性使用]]三元分类。[[Argument_Nelson_2017_EducRes|(Nelson & Campbell, 2017, p. 132)]]
 > - **2000s–2010s — [[Evidence-Based Education|循证教育]]运动与实证调查浪潮** 伴随循证教育兴起，大量实证研究聚焦教师与校长对研究的接触、态度与技能障碍（Williams & Coles, 2007; Dagenais et al., 2012）。
 > - **2010s — 知识到行动三代模型演进** Best and Holmes (2010) 系统梳理知识到行动（KTA）的三代模型演进（线性推送 $\rightarrow$ 关系型[[Knowledge Co-production|协同生产]] $\rightarrow$ 系统程序性生态），为理解复杂政策环境下的证据利用提供了全景透镜。
-> - **2013 — 政策生命周期阶段依随型利用与去政治化护盾** [[Argument_McDonnell_2013_AJE|McDonnell and Weatherford (2013)]] 结合美国州[[Common Core State Standards|共同核心标准]]（[[Common Core State Standards|CCSS]]）全流程实证，确立研究证据在政策不同阶段的功能演化（议程设置的概念动员 $\to$ 方案研制的去政治化护盾与[[Professional Judgment|专业判断]]补位 $\to$ 政策采纳的微观工具与同行信任代理），深刻批判线性[[Technical Rationality|技术理性模型]]。
+> - **2013 — 政策生命周期阶段依随型利用与去政治化护盾** [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] 结合美国州[[Common Core State Standards|共同核心标准]]（[[Common Core State Standards|CCSS]]）全流程实证，确立研究证据在政策不同阶段的功能演化（议程设置的概念动员 $\to$ 方案研制的去政治化护盾与[[Professional Judgment|专业判断]]补位 $\to$ 政策采纳的微观工具与同行信任代理），深刻批判线性[[Technical Rationality|技术理性模型]]。
 > - **2018 — 自发改善学校系统（[[Self-Improving School System|SISS]]）中的组织准备度与“[[Activity Traps|活动陷阱]]”批判** [[Argument_Brown_Greany_2018_LPS|Brown and Greany (2018)]] 聚焦英格兰小学系统，揭示高意愿（76%–86%）与结构性准备不足（评价机制缺失 67%、假设反思匮乏 55%、分享平台缺乏 61%）之间的结构性割裂，并指出高利害问责导致学校陷入缺乏反思的“活动陷阱”。
 > - **2020s — 跨层治理机制、行为因果链条与程序性过滤** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] 提炼出跨越个体、组织与系统的四类治理机制；Kazancı Tınmaz & Sezgin (2023) 将[[Theory of Planned Behavior|计划行为理论]]（TPB）融入研究利用量化测评，开发出包含研究使用子维度的 20 题 [[Research Literacy Scale for Teachers|RLS]] 工具；[[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] 开启程序性证据利用（Procedural research use）研究，实证揭示北欧五国政策制定中专家咨询与行政决策两阶段的剧烈证据过滤机制；[[Argument_Torres_2022_KMModels|Torres (2022b)]] 综合梳理微观行为改变框架（Langer et al., 2016）与教师三种声音冲突（Cain, 2015）。
 > - **2022 — [[OECD|经合组织]]跨国实证调查揭示促成机制与结构障壁的错配断裂** [[OECD]] [[Strengthening the Impact of Education Research Project|强化教育研究影响力项目]]（[[Argument_Hill_2022_FacilitatingActors|Hill, 2022]]; [[Argument_Torres_2022_BarriersMechanisms|Torres, 2022a]]）全面测度 29 国 37 个教育系统教育部委在政策与实践维度的促成机制、结构性障壁与利用形态，实证揭示方案设计高频使用（70%）与多方审议对话萎缩（47%）的交易型病理，并诊断机制数量与障壁感知的错配悖论，倡导从碎片化单一项目走向高位系统协调与科研动力学管理。
 > - **2022 — 研究利用之科学与多臂因果试验裁决** [[Argument_Gough_2022_EvidenceOnEIPP|Gough et al. (2022)]] 提出“研究利用之科学”（Science of Using Science）元治理框架，确立以需求为牵引的生态拓扑模型（Figure 7.1）；依托全英[[What Works Network|有效性网络]]实践与[[Literacy Octopus|识字八爪鱼试验]]（Lord et al., 2017）多臂 [[Randomised Controlled Trials|RCT]] 因果实证，彻底推翻单向推送的信息赤字假说，确立了基于行为改变科学（[[COM-B Model|COM-B]]）与外部高利害问责制度咬合的研究利用新[[Paradigm|范式]]。[[Argument_Gough_2022_EvidenceOnEIPP|(Gough et al., 2022, pp. 148–153; Lord et al., 2017)]]
 > - **2022 — 七大利益相关者全景论辩与[[Democratising Evidence|证据民主化]]转向** [[OECD|经合组织]] [[Centre for Educational Research and Innovation|CERI]] 50 周年专著（[[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al., 2022]]）汇聚来自资助机构、政府首脑、学术中介与教师组织的多元视角，全面反思[[Technical Rationality|技术理性]]下单一[[Evidence Standards|证据标准]]的霸权，正式确立以[[Democratising Evidence|证据民主化]]、研究与实践伙伴关系（[[Research-Practice Partnership|RPP]]）、[[Third Space Discourse|第三空间话语]]与教师专业主权为支柱的深层关系型研究利用进路。
-> - **2022 — 从证据质量向使用质量的范式跨越与 [[Quality Use of Research Evidence Framework|QURE]] 框架建构** [[Argument_Rickinson_2022_ER|Rickinson et al. (2022a)]] 在《教育研究》（*Educational Research*）发表里程碑论文，[[Systematic Review|系统综述]]跨卫生、社工、教育与政策四大领域 112 篇核心文献，正式提出“教育研究证据质量使用框架”（QURE），确立适切证据与审慎实施双核构件及个体-组织-系统三层使能机制，开辟了从二元采纳走向质态卓越的全新范式。
+> - **2022 — 从证据质量向使用质量的范式跨越与 [[Quality Use of Research Evidence Framework|QURE]] 框架建构** [[Argument_Rickinson_2022_EducRes|Rickinson et al. (2022a)]] 在《教育研究》（*Educational Research*）发表里程碑论文，[[Systematic Review|系统综述]]跨卫生、社工、教育与政策四大领域 112 篇核心文献，正式提出“教育研究证据质量使用框架”（QURE），确立适切证据与审慎实施双核构件及个体-组织-系统三层使能机制，开辟了从二元采纳走向质态卓越的全新范式。
 > - **2025 — 迈向第四代专业敏感型概念化** [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] 批判 30 年文献的赤字[[Discourse|话语]]，正式确立以教师多源[[Knowledge Integration|知识整合]]与专业规范为支柱的第四代研究使用理论。
 > - **2025 — 治理体制比较与专长社会学视角的证据使用异化** [[Argument_Kelly_2025_ROE|Kelly et al. (2025)]] 首次将专长社会学与治理体制理论引入英德苏三国基础教育研究使用比较，揭示高利害市场化问责异化证据为[[Performativity|表演性]]辩护工具，而低利害与专业自主环境为基于[[Contributory Expertise|贡献型专长]]的合作探究提供了制度庇护。
 
@@ -393,13 +393,13 @@ updated: 2026-10-16
 > > 争论政策制定能否完全遵循从学术因果实证到法定政策的线性推导。
 > >
 > > - **线性工程模型立场** 预设严谨实证研究应当直接驱动政策方案生成，视政策妥协与非实证考量为非理性噪音。
-> > - **阶段依随协同立场（[[Argument_McDonnell_2013_AJE|McDonnell & Weatherford, 2013]]）** 指出实证研究在政策全生命周期各阶段扮演动态演进的战略角色；由于实证知识常有盲区，政策制定必然是将实证证据、学科内在逻辑与实践[[Professional Judgment|专业判断]]深度杂合的政治与认知协商过程。
+> > - **阶段依随协同立场（[[Argument_McDonnell_2013_AmJE|McDonnell & Weatherford, 2013]]）** 指出实证研究在政策全生命周期各阶段扮演动态演进的战略角色；由于实证知识常有盲区，政策制定必然是将实证证据、学科内在逻辑与实践[[Professional Judgment|专业判断]]深度杂合的政治与认知协商过程。
 >
 > > [!axis] 证据生产质量优先 vs 证据使用质量优先
 > > 争论聚焦于循证改革的战略重心究竟应放在生产更高因果严谨度的研究证据，还是提升实践者在复杂情境中用好证据的实践质量。
 > >
-> > - **证据生产严谨派（Cook & Gorard, 2007; [[Argument_Slavin_2019_EP|Slavin, 2019]]）** 认为优质证据是有效决策的前提，若证据本身缺乏[[Internal Validity|内部效度]]，再好的使用也是无源之水，因此重心在于建立高标准证据库与[[Multi-Arm Trial|多臂试验]]。
-> > - **使用质量建构派（[[Argument_Rickinson_2022_ER|Rickinson et al., 2022a]]）** 指出高质量证据并不会自动带来高质量决策，严谨证据若不契合具体教育问题与学校脉络，或缺乏批判审议，极易导致实践异化；循证改革的突破口在于系统提升证据使用的质量。
+> > - **证据生产严谨派（Cook & Gorard, 2007; [[Argument_Slavin_2019_EducPsychol|Slavin, 2019]]）** 认为优质证据是有效决策的前提，若证据本身缺乏[[Internal Validity|内部效度]]，再好的使用也是无源之水，因此重心在于建立高标准证据库与[[Multi-Arm Trial|多臂试验]]。
+> > - **使用质量建构派（[[Argument_Rickinson_2022_EducRes|Rickinson et al., 2022a]]）** 指出高质量证据并不会自动带来高质量决策，严谨证据若不契合具体教育问题与学校脉络，或缺乏批判审议，极易导致实践异化；循证改革的突破口在于系统提升证据使用的质量。
 >
 > > [!axis] 单向信息推送假设 vs 情境化行为改变机制
 > > 探讨促成研究利用的核心机制究竟是降低信息获取门槛，还是重塑使用者的能力、机会与动机。
@@ -414,7 +414,7 @@ updated: 2026-10-16
 > > - **证据民主化与实践者主权立场（Tseng, 2022; [[Argument_Bangs_2022_PerspectivesOnResearch|Bangs et al., 2022]]）** 批判外部研究者的采矿式数据索取与技术专家治理对一线专业自主权的侵蚀，主张通过 [[Research-Practice Partnership|RPP]] 共享[[Knowledge Production|知识生产]]权力，确立教师作为证据所有者而非被动消费者的主体地位。
 
 > [!tension] 核心张力：工具性处方套用 vs 专业[[Phronesis|实践智慧]]整合
-> - **外源处方执行立场（蓝方）** 主张教师应当严格依据高质量实证证据（如 [[Randomised Controlled Trials|RCT]] 与[[Meta-analysis|元分析]]处方）标准化重构教学流程，视偏差为忠实度不足。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 131)]]
+> - **外源处方执行立场（蓝方）** 主张教师应当严格依据高质量实证证据（如 [[Randomised Controlled Trials|RCT]] 与[[Meta-analysis|元分析]]处方）标准化重构教学流程，视偏差为忠实度不足。[[Argument_Nelson_2017_EducRes|(Nelson & Campbell, 2017, p. 131)]]
 > - **专业敏感裁决立场（红方）** 主张科研证据仅是多元信息输入之一，教师必须结合具体学情、育人伦理与实践智慧进行审慎整合与情境化重构。[[Argument_Mausethagen_2025_ERR|(Mausethagen et al., 2025, p. 7)]]
 
 > [!critique] 外部批评
@@ -444,7 +444,7 @@ updated: 2026-10-16
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|---|
-> | [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013, pp. 11–16)]] | 美国 50 州共同核心标准（[[Common Core State Standards\|CCSS]]）全生命周期立法研制 | [[Policy Network\|政策网络]]追踪与关键利益攸关者[[In-depth Interview\|深度访谈]] | 研究证据在政策各阶段的应用形态与功能配置 | 议程设置依托 [[TIMSS]] 课程比较诊断；方案研制利用研究作为去政治化护盾，在实证不足处依托数学家演绎与 AFT 教师剪贴审查补位；采纳阶段依托交叉比对分析（Crosswalks）与验证委员会 25/29 专家信任背书 | — | 首次在教育政策实证中系统确立研究利用的阶段依随模型与多源知识协同机制 |
+> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013, pp. 11–16)]] | 美国 50 州共同核心标准（[[Common Core State Standards\|CCSS]]）全生命周期立法研制 | [[Policy Network\|政策网络]]追踪与关键利益攸关者[[In-depth Interview\|深度访谈]] | 研究证据在政策各阶段的应用形态与功能配置 | 议程设置依托 [[TIMSS]] 课程比较诊断；方案研制利用研究作为去政治化护盾，在实证不足处依托数学家演绎与 AFT 教师剪贴审查补位；采纳阶段依托交叉比对分析（Crosswalks）与验证委员会 25/29 专家信任背书 | — | 首次在教育政策实证中系统确立研究利用的阶段依随模型与多源知识协同机制 |
 > | [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] | 英格兰 79 所公立小学，696 名在职教职员工（58 位校长、91 位高管、117 位中层、430 位教师） | 基于四要素 14 题量表的横断面基线调查 | 学校循证组织准备度四维度指标 | 研究价值认同 76%–86% vs 缺乏正式实践评价流程 67%、缺乏底层假设反思 55%、缺乏正式分享论坛 61%、缺乏文献研读时间保障 52% | — | 实证揭示英格兰小学高研究认同与反思/评价制度结构匮乏的结构性脱节（pp. 129–132） |
 > | [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] | 29 个 [[OECD]] 国家/地区，37 个教育系统 | 跨国政策[[Questionnaire\|问卷调查]]与[[In-depth Interview\|深度访谈]] | 政策制定中教育研究应用形态分布（高频/系统化采用率） | 方案设计 70%、问题诊断 65%、既有评估 61%、干预遴选 57% vs 激发利益相关方[[Dialogue in Education\|对话]] 47%、赢得信任 42%、撬动政治议程 33% | — | 揭示政策端证据利用呈现[[Technical Rationality\|技术理性]]环节集聚与交往审议功能萎缩的结构性两极化（pp. 94–95） |
 > | 同上 | 同上 | 同上 | 政策制定者获取教育研究的主要途径普及率 | 咨询外部专家 92%、咨询内部研究员 84%、参加学术会议 84%、定向委托课题 78% vs 检索学术数据库 57%、查阅质量研究库 59% | — | 证实决策官员对熟人人际口头转译的重度依附及[[Primary and Secondary Documents\|原始文献]]检索的制度短板（p. 94） |
@@ -457,14 +457,14 @@ updated: 2026-10-16
 > | [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] | 挪威教育改革政策制定（5 个政府专家委员会报告 vs 教育部法定法令，北欧五国政策系统） | 跨文本两阶段引用追踪与文献计量对比（绿色咨询报告与白皮书政令对比） | 专家委员会与教育部政令的证据继承率及来源分布 | 5 个专家委员会共引用 464 篇文献，教育部政令仅引用 22 篇（转化率仅 4.7%）；其中 20 篇（90.9%）仅源于审议 [[OECD]] DeSeCo 项目的单一委员会，OECD 引用频次碾压其他一切机构及知名学者 | $p$ 未报告（全样本追踪） | 证实宏观政策层面的证据利用存在严重的阶段性政治过滤断层，行政首脑机关仅高度倾向于吸纳能够赋权其施政意志的特定超国家中介证据 |
 > | [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] | 英格兰、苏格兰与德国汉堡 9 位中小学与特教[[School Leadership\|学校领导]]者；49 份政策与中介文献 | 跨国比较[[Qualitative Research\|质性研究]]（[[Documentary Analysis\|文献分析]]＋半结构化访谈） | 治理机制对证据中介形态、校长接触负荷与使用功能的影响 | 英格兰高利害市场竞争导致中介泛滥与校长表演性自保使用（压缩反思）；苏格兰地方当局缓冲与[[Practitioner Enquiry\|实践者探究]]促进校本批判整合；德国汉堡官僚监测与同侪咨询促成去魅化反思使用 | — | 实证确立国家治理体制对微观证据利用性质的决定性规约，揭示表演性依从与[[Reflective Thinking\|反思性探究]]的制度分野 |
 > | [[Argument_Gough_2022_EvidenceOnEIPP\|Lord et al. (2017; Gough et al., 2022, p. 152)]] | 英格兰 800 余所公立小学、数千名五年级与六年级语文教师及数万名学童 | 大规模多臂[[Randomised Controlled Trials\|随机对照试验]]（Multi-armed RCT，[[Education Endowment Foundation\|EEF]] “识字八爪鱼”试验），由英国国家教育研究基金会（NFER）独立实施 | 精编纸质手册、数字化通讯、专业期刊专栏、低交互网络资源库四类单向传播干预臂对小学毕业统考 Key Stage 2（KS2）阅读写作标准化成绩及教师教学行为的影响 | 经过严格意向性分析（ITT），四类单一信息传播策略在改善学童 KS2 识字成绩上均未达到统计学显著性（[[Effect Size\|效应量]]接近于 0）；教师课堂教学行为亦未见可识别的系统性转变 | 统计学不显著（p > 0.05，效应量接近于 0） | 大规模严谨因果多臂 RCT，确证单纯单向信息推送在改变教学行为与学业产出上的因果无效性，从实证上[[Falsification\|证伪]]了信息赤字假设 |
-> | [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]] | 卫生保健、社会关照、教育与公共政策四大实践领域 | 跨领域[[Systematic Review\|系统综述]]与叙事综合（PRISMA 规程） | 跨学科数据库检索检出与最终纳入篇数分布 | 初检 10,813 篇，查重后 10,634 篇，初筛剔除 9,837 篇，评估 797 篇全文，最终精选 112 篇核心文献（卫生 30 篇、社工 29 篇、教育 31 篇、政策 22 篇）撰写 6,000–12,000 词综述 | — | 首次跨领域系统检视使用质量文献，实证揭示各领域对使用质量显性定义的普遍匮乏，并确立[[Professional Judgment\|专业判断]]与系统动态性两大跨界共识（pp. 135–140） |
+> | [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a)]] | 卫生保健、社会关照、教育与公共政策四大实践领域 | 跨领域[[Systematic Review\|系统综述]]与叙事综合（PRISMA 规程） | 跨学科数据库检索检出与最终纳入篇数分布 | 初检 10,813 篇，查重后 10,634 篇，初筛剔除 9,837 篇，评估 797 篇全文，最终精选 112 篇核心文献（卫生 30 篇、社工 29 篇、教育 31 篇、政策 22 篇）撰写 6,000–12,000 词综述 | — | 首次跨领域系统检视使用质量文献，实证揭示各领域对使用质量显性定义的普遍匮乏，并确立[[Professional Judgment\|专业判断]]与系统动态性两大跨界共识（pp. 135–140） |
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_McDonnell_2013_AJE|McDonnell and Weatherford (2013)]] — 追踪美国[[Common Core State Standards|共同核心标准]]（CCSS）政策全生命周期，提出阶段依随型证据利用模型，系统论证研究证据在议程设置、方案研制与政策采纳中的功能分化，以及去政治化护盾与[[Professional Judgment|专业判断]]补位机制。
+> - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 追踪美国[[Common Core State Standards|共同核心标准]]（CCSS）政策全生命周期，提出阶段依随型证据利用模型，系统论证研究证据在议程设置、方案研制与政策采纳中的功能分化，以及去政治化护盾与[[Professional Judgment|专业判断]]补位机制。
 > - [[Argument_Brown_Greany_2018_LPS|Brown and Greany (2018)]] — 基于英格兰 79 所小学 696 名教职员工基线数据，构建 [[Self-Improving School System|SISS]] 循证组织准备度四要素模型，实证揭示研究价值高认同与正式反思/评价结构匮乏的结构性割裂，并批判高利害问责导致教师陷入“[[Activity Traps|活动陷阱]]”。
 > - [[Argument_Torres_2022_BarriersMechanisms|Torres (2022a)]] — 基于[[OECD|经合组织]] 29 国 37 个教育系统的政策调查数据，构建涵盖信息、互动、个体、结构和文化的五维影响因素类型学，量化测度促成机制与阻碍障壁的跨国分布，揭示机制孤立碎片化导致的“机制短缺悖论”，并剖析科研生产统筹机制与宏观系统战略的制度性断层。
 > - [[Argument_Hill_2022_FacilitatingActors|Hill (2022)]] — 全面测度 29 国 37 个教育系统教育部委在政策制定中的研究使用形态，实证揭示方案设计（70%）与多方审议（47%）的两极化分化，诊断决策端证据利用退化为短视原料采买的交易型病理机制，并揭示熟人人际咨询依附与政学信任赤字。
@@ -474,8 +474,8 @@ updated: 2026-10-16
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO|Kazancı Tınmaz & Sezgin (2023)]] — 基于行为科学与 Weiss 模型将研究使用[[Operationalization|操作化]]为 7 维测量工具，实证揭示教师[[Research Literacy|研究素养]]的知行断层，并证实追踪期刊（$\eta^2=.046$）是直接驱动日常教学使用的最强独立引擎。
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR|Hagevold et al. (2026)]] — 综合 109 项学校研究使用实证研究，识别出文献的个体偏向，并提出信任、技能发展、可持续结构与关系四类跨层治理机制。
 > - [[Argument_Mausethagen_2025_ERR|Mausethagen et al. (2025)]] — 批判性解构 34 篇文献，揭示 30 年来[[Deficit Framing|赤字框架]]对研究使用文献的统治，正式确立以教师多源[[Knowledge Integration|知识整合]]与专业规范为支柱的第四代专业敏感型理论。
-> - [[Argument_Nelson_2017_ER|Nelson and Campbell (2017)]] — 系统梳理[[Evidence-Informed Practice|证据知情实践]]（EIP）思想史，将 Weiss (1979) 的研究利用谱系确立为知证教育理论的基石。
-> - [[Argument_Rickinson_2022_ER|Rickinson et al. (2022a)]] — 基于跨领域 112 篇文献的[[Systematic Review|系统综述]]提出 QURE 框架，以适切证据与审慎实施为核心构件、个体-组织-系统三层使能，推动从是否采纳转向使用质量。
+> - [[Argument_Nelson_2017_EducRes|Nelson and Campbell (2017)]] — 系统梳理[[Evidence-Informed Practice|证据知情实践]]（EIP）思想史，将 Weiss (1979) 的研究利用谱系确立为知证教育理论的基石。
+> - [[Argument_Rickinson_2022_EducRes|Rickinson et al. (2022a)]] — 基于跨领域 112 篇文献的[[Systematic Review|系统综述]]提出 QURE 框架，以适切证据与审慎实施为核心构件、个体-组织-系统三层使能，推动从是否采纳转向使用质量。
 > - [[Argument_Kelly_2025_ROE|Kelly et al. (2025)]] — 比较英格兰、苏格兰与德国基础教育体系，首次从专长社会学与治理体制视角剖析[[School Leadership|学校领导]]者的研究使用经验，揭示高利害市场问责导致证据被[[Performativity|表演性]]利用以维持合法性，而低利害环境为[[Contributory Expertise|贡献型专长]]与合作校本探究保留了关键空间。
 
 ---

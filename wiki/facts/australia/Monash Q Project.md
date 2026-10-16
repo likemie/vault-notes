@@ -64,7 +64,7 @@ related_facts:
   - "[[Australian Education Research Organisation]]"
 related_arguments:
   - "[[Argument_Rickinson_2022_UsingResearchWell]]"
-  - "[[Argument_Rickinson_2022_ER]]"
+  - "[[Argument_Rickinson_2022_EducRes]]"
   - "[[Argument_Kelly_2025_ROE]]"
 related_instruments:
   - "[[PRISMA]]"
@@ -112,7 +112,7 @@ updated: 2026-10-16
 ## 推进历程与阶段演进
 
 > [!dev-timeline] 项目推进历程
-> - **2019 — 概念框架研制期** 对卫生、社会关照、政策与教育四大领域开展跨界 [[PRISMA]] [[Systematic Review\|系统综述]]与[[Narrative Synthesis\|叙事综合]]（初检 10,813 篇 $\to$ 纳入 112 篇核心文献），由 4 位研究员多轮交叉质评，并邀请包括 [[Centre for Evidence and Implementation]]（CEI）在内的跨部门专家网络研讨，确立[[Quality Use of Research Evidence Framework\|高质量研究证据使用框架]]（QURE），奠定跨[[Discipline-Based Theory\|学科理论]]基石。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 133–158)]]
+> - **2019 — 概念框架研制期** 对卫生、社会关照、政策与教育四大领域开展跨界 [[PRISMA]] [[Systematic Review\|系统综述]]与[[Narrative Synthesis\|叙事综合]]（初检 10,813 篇 $\to$ 纳入 112 篇核心文献），由 4 位研究员多轮交叉质评，并邀请包括 [[Centre for Evidence and Implementation]]（CEI）在内的跨部门专家网络研讨，确立[[Quality Use of Research Evidence Framework\|高质量研究证据使用框架]]（QURE），奠定跨[[Discipline-Based Theory\|学科理论]]基石。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 133–158)]]
 > - **2020–2021 — 学校实证调查期** 开展两轮大规模标准化[[Questionnaire\|问卷调查]]（Survey 1 样本 492 人，聚焦认知与使用行为；Survey 2 样本 414 人，聚焦促成与阻碍因素）以及 27 场深入访谈（29 位教育工作者），深入剖析一线使用质量的实际表征与制度瓶颈。（[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al., 2022b, pp. 184, 199]]）
 > - **2022–2024 — 工具开发与系统辐射期** 与[[OECD\|经合组织]]（[[OECD]]）合作发布国际专著章节，面向全澳学校推广[[Research Utilization\|研究使用]]质量诊断量表与专业发展支持工具，推动系统层减负与政策支持。（[[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al., 2022b, pp. 182–199]]）
 
@@ -124,7 +124,7 @@ updated: 2026-10-16
 > - **发起与资助方** 保罗·拉姆齐基金会（Paul Ramsay Foundation）提供全额战略资助与治理监管。
 > - **研发与学术中心** 莫纳什大学教育学院 Q 项目跨学科研究团队（[[Mark Rickinson]]、Lucas Walsh、Joanne Gleeson 等）负责研究设计、调查执行与框架开发。
 > - **一线合作网络** 新南威尔士、维多利亚、昆士兰与南澳的公立、天主教与独立私立中小学，校长与骨干教师作为实践伙伴参与试验。
-> - **政策与中介伙伴** [[Australian Education Research Organisation\|澳大利亚教育研究组织]]（AERO）、循证与实施中心（[[Centre for Evidence and Implementation\|CEI]]，咨询顾问机构）、各州教育部及智库机构作为外部咨询网络提供专业转化与政策对接支持。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, p. 138)]]
+> - **政策与中介伙伴** [[Australian Education Research Organisation\|澳大利亚教育研究组织]]（AERO）、循证与实施中心（[[Centre for Evidence and Implementation\|CEI]]，咨询顾问机构）、各州教育部及智库机构作为外部咨询网络提供专业转化与政策对接支持。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, p. 138)]]
 
 > [!pathways] 实施路径与管理
 > - **多领域概念整合路径** 吸收卫生与公共政策循证经验，建构兼具适切证据与审慎实施双核的 [[Quality Use of Research Evidence Framework\|QURE]] [[Analytic Framework\|分析框架]]。
@@ -195,7 +195,7 @@ updated: 2026-10-16
 > | [[Mark Rickinson]] | Person | 莫纳什大学 Q 项目首席研究员与项目负责人 |
 > | [[OECD]] | Fact (Organization) | 项目联合发布成果并推动国际政策辐射的跨国合作方 |
 > | [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] | 关键论证 | 全澳 906 名教育者调查与[[In-depth Interview\|深度访谈]]，确立高质量使用六大特征与组织使能条件 |
-> | [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]] | 关键论证 | 跨领域 112 篇核心文献[[Systematic Review\|系统综述]]，建构高质量研究[[Research Utilization\|证据使用]] QURE 理论框架 |
+> | [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a)]] | 关键论证 | 跨领域 112 篇核心文献[[Systematic Review\|系统综述]]，建构高质量研究[[Research Utilization\|证据使用]] QURE 理论框架 |
 > | [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] | 关键论证 | 从专长社会学视阈批判 Q 项目等系统性循证模型的[[Rationalism in International Relations\|理性主义]]假定，揭示治理体制对证据使用的表演性异化 |
 
 ---
@@ -204,5 +204,5 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] — 结合全澳 906 名教育者调查与[[In-depth Interview\|深度访谈]]，系统揭示从证据质量向使用质量跃迁的实践机制，确立高质量使用六大特征并量化检验榜样领导与时间赤字的决定性影响。
-> - [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]] — 跨卫生、社工、教育与政策四领域 112 篇核心文献[[Systematic Review\|系统综述]]，正式确立适切证据与审慎实施双核互构的 [[Quality Use of Research Evidence Framework\|QURE]] [[Analytic Framework\|分析框架]]。
+> - [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a)]] — 跨卫生、社工、教育与政策四领域 112 篇核心文献[[Systematic Review\|系统综述]]，正式确立适切证据与审慎实施双核互构的 [[Quality Use of Research Evidence Framework\|QURE]] [[Analytic Framework\|分析框架]]。
 > - [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] — 运用专长社会学框架，对英格兰、苏格兰与德国汉堡基础教育[[Research Utilization\|研究使用]]展开跨国比较，批判 Q 项目等系统性模型所预设的理性乌托邦假定，揭示高利害市场化治理如何将证据异化为[[Performativity|表演性]]合规工具。

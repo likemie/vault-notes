@@ -46,7 +46,7 @@ related_facts:
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Torres_2022_KMModels]]"
-  - "[[Argument_Nelson_2017_ER]]"
+  - "[[Argument_Nelson_2017_EducRes]]"
 confidence: high
 status: active
 created: '2026-09-12'
@@ -87,7 +87,7 @@ updated: 2026-10-16
 > | **核心适用主体** | 教育行政官员、政策制定者、项目规划者 | 学校管理者、教研组长、一线教师 | 课堂任课教师、[[Professional Learning Community\|专业学习共同体]] |
 > | **主要证据来源** | 外部学术实证文献、[[Systematic Review\|系统综述]]与循证评估报告 | 内部管理数据、标准化测试成绩、课堂形成性记录 | 外部发表的教学法实证研究、[[Meta-analysis\|元分析]]与教师实践证据 |
 > | **核心解释目标** | 解释政策规划与干预背后的**决策者行为改变**因果链 | 解释校本问题诊断与基于指标的精准干预流程 | 解释外部研究在课堂日常教学中的审议转化与三种声音[[Dialogue in Education\|对话]] |
-> | **关键理论代表** | Langer et al. (2016); [[Argument_Torres_2022_KMModels\|Torres (2022b)]] | Schildkamp et al. (2017) | Cain (2015); [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]] |
+> | **关键理论代表** | Langer et al. (2016); [[Argument_Torres_2022_KMModels\|Torres (2022b)]] | Schildkamp et al. (2017) | Cain (2015); [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] |
 
 ---
 
@@ -197,4 +197,4 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 系统引入 Langer 等人的 EIDM 行为改变框架，横向阐明其对突破[[Knowledge Mobilisation\|知识动员]]供给侧偏误的理论突破。
-> - [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]] — 探讨[[Evidence-Informed Practice\|证据知情实践]]在教育系统中的多源拼图架构与中介网络支撑。
+> - [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] — 探讨[[Evidence-Informed Practice\|证据知情实践]]在教育系统中的多源拼图架构与中介网络支撑。

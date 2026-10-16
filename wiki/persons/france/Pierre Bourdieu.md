@@ -75,7 +75,7 @@ related_arguments:
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Eacott_2015_EPT]]"
   - "[[Argument_Eacott_2011_JEAH]]"
-  - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
+  - "[[Argument_Schulze-Cleven_2017_HE]]"
   - "[[Argument_Teng_2025_CE]]"
 related_facts:
   - "[[CNRS]]"
@@ -189,7 +189,7 @@ updated: 2026-10-16
 > - **中国精英大学的出路资本化与习性变现**
 >   中国高等教育研究通过[[Going Native\|本土化]]改造，将工具应用到了精英大学情境。[[Argument_Zheng_2023_ShanghaiSanlian\|郑雅君 (2023)]] 指出，家庭不平等通过资本化过程转译为新生的初始习性差异。优势家庭学生展现出 **[[Goal-Controlled Mode\|目标掌控模式]]**，主动变现[[Cultural Capital\|文化资本]]；弱势家庭学生则陷入 **[[Intuition-Dependent Mode\|直觉依赖模式]]**，面临 **[[Cultural Disembedding\|文化脱嵌]]** 与 **[[Cultural Disorientation\|文化迷失]]**。
 > - **当代高等教育的新封建主义政治经济学**
->   在高等教育全球政治经济学分析中，[[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al. (2017, pp. 797–799)]] 借助布迪厄工具分析了学术劳动的重构，包括排名与引用的 **[[Non-monetary Competition\|非货币竞争]]**，学术资本与行政权力的学者分数分化，以及为了在不稳定劳动力市场中获取资源而产生的个人化依附，形成了学术界内部的[[Neo-feudalism in Higher Education\|高等教育新封建主义]]。
+>   在高等教育全球政治经济学分析中，[[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al. (2017, pp. 797–799)]] 借助布迪厄工具分析了学术劳动的重构，包括排名与引用的 **[[Non-monetary Competition\|非货币竞争]]**，学术资本与行政权力的学者分数分化，以及为了在不稳定劳动力市场中获取资源而产生的个人化依附，形成了学术界内部的[[Neo-feudalism in Higher Education\|高等教育新封建主义]]。
 > - **中国县域城镇化进程中的资本分层筛选**
 >   基础教育[[School Choice\|择校]]研究通过资本理论解释户籍限制放开后的阶层筛选。[[Argument_Teng_2025_CE\|Teng and Wang (2025, p. 310)]] 在县域研究中表明，择校迁移折叠为家庭资本比拼：经济资本是[[Peidu\|陪读]]门槛，社会资本是截留学位（动员熟人关系）的关键，而文化资本在熟人关系中被边缘化并发生妥协，制度隔离被隐性阶级筛选置换。
 > - **全球化话语与跨国教育政策的批判性解构**
@@ -211,7 +211,7 @@ updated: 2026-10-16
 > - [[Argument_Teng_2025_CE\|Teng and Wang (2025)]] — 证明了在中国县域择校迁移中，由于选拔机制简化，家庭资本展现出垂直阶梯分层筛选，户籍行政限制被置换为隐性阶级筛选，文化资本不得不退让并折算为社会资本关系。
 > - [[Argument_Eacott_2011_JEAH\|Eacott (2011)]] — 将场域和 [[Doxa]] 运用于澳大利亚[[School Leadership\|学校领导力]]培养体系研究，剖析了管理主义绩效体制如何掏空学校管理者的自主实践空间。
 > - [[Argument_Eacott_2015_EPT\|Eacott (2015)]] — 聚焦[[Epistemological Break\|认识论断裂]]和警觉，反思了教育行政研究中对 Bourdieu 理论工具的生硬套用，强调研究者必须对自身的行业凝视保持警惕。
-> - [[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al. (2017)]] — 运其符号商品与学术阶级分数分析当代高等教育，指出绩效问责的无休止竞争正在学术界内部催生出新封建主义依附秩序。
+> - [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al. (2017)]] — 运其符号商品与学术阶级分数分析当代高等教育，指出绩效问责的无休止竞争正在学术界内部催生出新封建主义依附秩序。
 
 ---
 

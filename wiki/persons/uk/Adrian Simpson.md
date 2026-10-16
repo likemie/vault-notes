@@ -40,7 +40,7 @@ related_methods:
   - "[[Meta-meta-analysis]]"
 related_persons: []
 related_arguments:
-  - "[[Argument_Simpson_2017_JEP]]"
+  - "[[Argument_Simpson_2017_JEdPolicy]]"
   - "[[Argument_Simpson_2019_ERE]]"
   - "[[Argument_Kraft_2023_ER]]"
   - "[[Argument_Wrigley_2019_ERE]]"
@@ -58,13 +58,13 @@ updated: 2026-10-16
 ## 简介
 
 > [!person-profile] 人物档案
-> - **身份位置** Adrian Simpson 是英国杜伦大学（Durham University）数学教育教授、Josephine Butler College 院长。他的研究兴趣横跨数学教育（推理与证明、中学到大学的过渡）和教育研究方法论（人们如何使用证据），但以对[[Effect Size\|效应量]]概念在[[Evidence-Based Education\|证据本位教育]]中应用的**系统技术批判**而获得最广泛的学术影响([[Argument_Simpson_2017_JEP\|Simpson, 2017, p.15]]; [[Argument_Simpson_2019_ERE\|Simpson, 2019, p.109]])。 > "Adrian Simpson is Professor of Mathematics Education and the Principal of Josephine Butler College, one of the constituent colleges of Durham University. His research interests include reasoning and proof, the transition from school to university and how people make use of evidence."
+> - **身份位置** Adrian Simpson 是英国杜伦大学（Durham University）数学教育教授、Josephine Butler College 院长。他的研究兴趣横跨数学教育（推理与证明、中学到大学的过渡）和教育研究方法论（人们如何使用证据），但以对[[Effect Size\|效应量]]概念在[[Evidence-Based Education\|证据本位教育]]中应用的**系统技术批判**而获得最广泛的学术影响([[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017, p.15]]; [[Argument_Simpson_2019_ERE\|Simpson, 2019, p.109]])。 > "Adrian Simpson is Professor of Mathematics Education and the Principal of Josephine Butler College, one of the constituent colleges of Durham University. His research interests include reasoning and proof, the transition from school to university and how people make use of evidence."
 
 ## 生平与职涯
 
 > [!note-] 生平与职涯
-> - **现任** — 杜伦大学（Durham University）数学教育教授、Josephine Butler College 院长（Principal）([[Argument_Simpson_2017_JEP\|Simpson, 2017, p.15]])
-> - **2017** — 在 *Journal of Education Policy* 发表"The misdirection of public policy"，通过农场肥料思想实验和真实教育研究案例系统论证[[Effect Size\|效应量]]的三大系统性偏差，奠定其效应量技术批判的方法论基础([[Argument_Simpson_2017_JEP\|Simpson, 2017]])
+> - **现任** — 杜伦大学（Durham University）数学教育教授、Josephine Butler College 院长（Principal）([[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017, p.15]])
+> - **2017** — 在 *Journal of Education Policy* 发表"The misdirection of public policy"，通过农场肥料思想实验和真实教育研究案例系统论证[[Effect Size\|效应量]]的三大系统性偏差，奠定其效应量技术批判的方法论基础([[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017]])
 > - **2018** — 在 *British Educational Research Journal* 发表"Princesses are bigger than elephants"，将效应量误用定性为**类别错误（category error）（Simpson, 2018; 引自 Wrigley & McCusker, 2019, p.126）**
 > - **2019** — 在 *Educational Research and Evaluation* 特刊发表"Separating arguments from conclusions"，以"教一个匈牙利单词"思想实验和 [[Evidence-Based Education\|EBE]] 支持者防御策略分析，将[[Critique of Effect Size\|效应量批判]]推进为完整的[[Epistemology\|认识论]]论证([[Argument_Simpson_2019_ERE\|Simpson, 2019]])
 > - **2021** — 以技术评论"Benchmarking a Misnomer"批评 Kraft（2020）的效应量基准，核心批评包括跨研究效应量本质不可比、经验基准过低；[[Argument_Kraft_2023_ER\|Kraft (2023)]]回应称两人共同警惕按效应量强弱制作教育干预"联盟表"，但仍在基准是否有政策解释价值上存在分歧([[Argument_Kraft_2023_ER\|Kraft, 2023, p.184]])
@@ -72,7 +72,7 @@ updated: 2026-10-16
 ## 主要著作
 
 > [!abstract] 主要著作
-> - Simpson, A. (2017). The misdirection of public policy: Comparing and combining standardised effect sizes. *Journal of Education Policy*, 32(4), 450–466. — 通过农场肥料思想实验和真实研究案例，系统论证[[Effect Size\|效应量]]三大系统性偏差（比较组不对等、范围限制、测量设计）使[[Meta-analysis\|元分析]]联盟表成为"研究设计操纵开放程度的等级"而非教育有效性排名。详见 [[Argument_Simpson_2017_JEP|Simpson (2017)]]。
+> - Simpson, A. (2017). The misdirection of public policy: Comparing and combining standardised effect sizes. *Journal of Education Policy*, 32(4), 450–466. — 通过农场肥料思想实验和真实研究案例，系统论证[[Effect Size\|效应量]]三大系统性偏差（比较组不对等、范围限制、测量设计）使[[Meta-analysis\|元分析]]联盟表成为"研究设计操纵开放程度的等级"而非教育有效性排名。详见 [[Argument_Simpson_2017_JEdPolicy|Simpson (2017)]]。
 > - Simpson, A. (2018). Princesses are bigger than elephants: Effect size as a category error in [[Evidence-Based Education]]. *British Educational Research Journal*, 44(5), 897–913. — 论证将效应量视为干预有效性的测量是一个**类别错误**——类似于将图片中公主比大象大的尺寸差异误认为所指对象实际大小的差异([[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, p.126]])。
 > - Simpson, A. (2019). Separating arguments from conclusions: The mistaken role of effect size in educational policy research. *Educational Research and Evaluation*, 25(1-2), 99–109. — 以"教一个匈牙利单词"思想实验系统证明效应量是**试验清晰度（experimental clarity）** 而非教育有效性的测量；以 Corncrake 寓言开篇说明论证有效性与结论正确性必须被区分；运用 Freedman (2009) 框架分析 EBE 支持者对批评的六种防御策略。详见 Argument_Simpson_2019_ERE。
 
@@ -83,23 +83,23 @@ updated: 2026-10-16
 
 
 > [!info] 三大系统性偏差：效应量是试验灵敏度而非有效性（2017）
-> [[Argument_Simpson_2017_JEP\|Simpson (2017)]]的核心论证是：效应量不是干预有效性的测量，而是"试验设计得如何使效应可见"的指标。这一区分对EBT方法论基础构成根本性挑战——如果效应量测量的是研究设计特征而非干预效果，那么基于效应量比较的整个证据等级体系（Hattie 的 [[Visible Learning]]、[[EEF Teaching and Learning Toolkit]]）就失去了有效性基础([[Argument_Simpson_2017_JEP\|Simpson, 2017, pp.5, 14–15]])。
+> [[Argument_Simpson_2017_JEdPolicy\|Simpson (2017)]]的核心论证是：效应量不是干预有效性的测量，而是"试验设计得如何使效应可见"的指标。这一区分对EBT方法论基础构成根本性挑战——如果效应量测量的是研究设计特征而非干预效果，那么基于效应量比较的整个证据等级体系（Hattie 的 [[Visible Learning]]、[[EEF Teaching and Learning Toolkit]]）就失去了有效性基础([[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017, pp.5, 14–15]])。
 >
-> > "Good experimenters legitimately manipulate d (as they might manipulate [[Sample Size Determination\|sample size]]) to enhance the sensitivity of their experiments to the impact of the interventions, but their freedom to do so varies between educational contexts." ([[Argument_Simpson_2017_JEP\|Simpson, 2017, p.5]])
+> > "Good experimenters legitimately manipulate d (as they might manipulate [[Sample Size Determination\|sample size]]) to enhance the sensitivity of their experiments to the impact of the interventions, but their freedom to do so varies between educational contexts." ([[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017, p.5]])
 >
 > Simpson 通过一系列逐步复杂化的农场肥料思想实验（非教育情境中的简化类比）和真实教育研究案例，详细论证了三个系统性偏差来源：
 >
-> **比较组的不对等性([[Argument_Simpson_2017_JEP\|Simpson, 2017, pp.5–7]])** 两位农民比较同一肥料但使用不同对照（无肥料 vs 粪肥）→ 不同效应量——不是因为肥料效果不同，而是因为比较基线不同。教育中同一[[Meta-analysis\|元分析]]（Graham, Hebert & Harris, 2015）合并了图形反馈 vs 长度反馈、同伴反馈 vs 教师拼写反馈、课程本位评估 vs 标准目标设定的研究——这些"反馈"概念完全不同。关键洞察：某些元分析的**实验条件**在另一些元分析中是对照条件。
+> **比较组的不对等性([[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017, pp.5–7]])** 两位农民比较同一肥料但使用不同对照（无肥料 vs 粪肥）→ 不同效应量——不是因为肥料效果不同，而是因为比较基线不同。教育中同一[[Meta-analysis\|元分析]]（Graham, Hebert & Harris, 2015）合并了图形反馈 vs 长度反馈、同伴反馈 vs 教师拼写反馈、课程本位评估 vs 标准目标设定的研究——这些"反馈"概念完全不同。关键洞察：某些元分析的**实验条件**在另一些元分析中是对照条件。
 >
-> **范围限制([[Argument_Simpson_2017_JEP\|Simpson, 2017, pp.7–11]])** 第一位农民从豆子长度均匀的植株中选择（限制范围），第二位随机选择 → 相同肥料下第一位效应量更大，因为限制范围减小方差（分母）。10,000 次模拟显示中等能力组效应量膨胀约 40%（Figure 1）；英国 14 岁数学与 16 岁 GCSE r≈0.85 时效应量膨胀 50–75%（Figure 2）。
+> **范围限制([[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017, pp.7–11]])** 第一位农民从豆子长度均匀的植株中选择（限制范围），第二位随机选择 → 相同肥料下第一位效应量更大，因为限制范围减小方差（分母）。10,000 次模拟显示中等能力组效应量膨胀约 40%（Figure 1）；英国 14 岁数学与 16 岁 GCSE r≈0.85 时效应量膨胀 50–75%（Figure 2）。
 >
-> **测量设计——聚焦度与精确度([[Argument_Simpson_2017_JEP\|Simpson, 2017, pp.11–14]])** 聚焦度——假设肥料仅对阳光下豆子有效，测量阳光下的豆子 → 更大效应量。精确度——选 5 颗 vs 10 颗豆子测量 → 后者效应量可达前者的 140%。教育中非标准化测试平均比标准化测试高约 40%（[[Education Endowment Foundation\|EEF]] Toolkit 14 项元分析）；对 α=0.75 的测试，20 题使效应量翻倍以上（Figure 3）。
+> **测量设计——聚焦度与精确度([[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017, pp.11–14]])** 聚焦度——假设肥料仅对阳光下豆子有效，测量阳光下的豆子 → 更大效应量。精确度——选 5 颗 vs 10 颗豆子测量 → 后者效应量可达前者的 140%。教育中非标准化测试平均比标准化测试高约 40%（[[Education Endowment Foundation\|EEF]] Toolkit 14 项元分析）；对 α=0.75 的测试，20 题使效应量翻倍以上（Figure 3）。
 >
 > **核心洞察** 好的实验者**合法地操纵 d** 来增强实验灵敏度——这是良好实验设计的体现。但操纵自由度因教育领域而异：反馈和[[Metacognition\|元认知]]研究可限制样本、设计聚焦测试、选择无干预比较；延长学校日或校服研究无法如此。"联盟表"排名较高的领域仅是研究者**更容易设计敏感试验**的领域，而非干预更有效的领域。
 >
-> **效应量应更名为"效应清晰度"([[Argument_Simpson_2017_JEP\|Simpson, 2017, p.14]])** 效应量"名字起得不好"——应称为 effect clarity。大 d 表示差异"非常清晰"，但并不意味着差异大、重要或具有教育显著性。研究者通过减少干预以外来源的方差来放大效应量——正如 Lipsey and Hurley (2009) 推荐的最小化组内变异——但这与干预的教育价值无关。
+> **效应量应更名为"效应清晰度"([[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017, p.14]])** 效应量"名字起得不好"——应称为 effect clarity。大 d 表示差异"非常清晰"，但并不意味着差异大、重要或具有教育显著性。研究者通过减少干预以外来源的方差来放大效应量——正如 Lipsey and Hurley (2009) 推荐的最小化组内变异——但这与干预的教育价值无关。
 >
-> 详见 [[Effect Size#Simpson (2017) 的三大系统性偏差：原始论证]]、[[Argument_Simpson_2017_JEP|Simpson (2017)]]。
+> 详见 [[Effect Size#Simpson (2017) 的三大系统性偏差：原始论证]]、[[Argument_Simpson_2017_JEdPolicy|Simpson (2017)]]。
 
 
 > [!info] 效应量作为类别错误（2018）
@@ -132,17 +132,17 @@ updated: 2026-10-16
 ## 主要贡献
 
 > [!success] 主要贡献
-> - [[Effect Size]] — 提供了[[Critique of Effect Size\|效应量批判]]的技术核心：效应量不是有效性的测量而是试验灵敏度（effect clarity）的指标（[[Argument_Simpson_2017_JEP\|Simpson, 2017]], 2019）
+> - [[Effect Size]] — 提供了[[Critique of Effect Size\|效应量批判]]的技术核心：效应量不是有效性的测量而是试验灵敏度（effect clarity）的指标（[[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017]], 2019）
 > - [[Evidence-Based Education]] — 对 EBE 方法论的核心分析工具（效应量和[[Meta-analysis\|元分析]]）提供最详细的技术批判
-> - [[Meta-analysis]] — 论证元分析的两项核心假设（可比较性、可合并性）被系统性地违背，且偏差随研究领域变化而非随机([[Argument_Simpson_2017_JEP\|Simpson, 2017, pp.4–5]])
-> - [[Meta-meta-analysis]] — 论证效应量排名表是"对研究设计操纵开放程度的等级"而非教育有效性排名，以这些排名驱动公共政策是"误导"([[Argument_Simpson_2017_JEP\|Simpson, 2017, p.15]])
+> - [[Meta-analysis]] — 论证元分析的两项核心假设（可比较性、可合并性）被系统性地违背，且偏差随研究领域变化而非随机([[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017, pp.4–5]])
+> - [[Meta-meta-analysis]] — 论证效应量排名表是"对研究设计操纵开放程度的等级"而非教育有效性排名，以这些排名驱动公共政策是"误导"([[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017, p.15]])
 > - [[EEF Teaching and Learning Toolkit]] — 论证 Toolkit 以效应量为基本[[Unit of Analysis\|分析单位]]，而效应量本身已被证明不可靠
-> - [[Visible Learning]] — 论证 Hattie 的"影响气压计"排名反映的是各领域研究者设计敏感试验的难易程度([[Argument_Simpson_2017_JEP\|Simpson, 2017, p.2]])
+> - [[Visible Learning]] — 论证 Hattie 的"影响气压计"排名反映的是各领域研究者设计敏感试验的难易程度([[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017, p.2]])
 
 ## 思想发展与影响
 
 > [!note-] 思想发展与影响
-> **思想的内部演进（2017→2018→2019）** Simpson 的[[Effect Size\|效应量]]批判经历了从技术到概念的逐级深化。2017 年 JEP 论文以思想实验和案例识别了**三大技术偏差**及其系统性；2018 年 BERJ 论文将其定性为**类别错误**——不仅效度量得不好，它测量的是另一个东西；2019 年 ERE 论文以"教一个匈牙利单词"将论证精炼为**最简思想实验**，并开创性地分析了 [[Evidence-Based Education\|EBE]] 支持者的**防御策略**——使批判从前提到方法论再到论证修辞形成闭环（[[Argument_Simpson_2017_JEP\|Simpson, 2017]], 2018, 2019）。
+> **思想的内部演进（2017→2018→2019）** Simpson 的[[Effect Size\|效应量]]批判经历了从技术到概念的逐级深化。2017 年 JEP 论文以思想实验和案例识别了**三大技术偏差**及其系统性；2018 年 BERJ 论文将其定性为**类别错误**——不仅效度量得不好，它测量的是另一个东西；2019 年 ERE 论文以"教一个匈牙利单词"将论证精炼为**最简思想实验**，并开创性地分析了 [[Evidence-Based Education\|EBE]] 支持者的**防御策略**——使批判从前提到方法论再到论证修辞形成闭环（[[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017]], 2018, 2019）。
 >
 > **对[[Critique of Effect Size\|效应量批判]]文献的影响** Simpson 的论证被后续 EBE 批判广泛引用，构成方法论批判的技术支柱：
 >

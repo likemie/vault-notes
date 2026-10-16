@@ -47,7 +47,7 @@ related_facts:
   - "[[National Governors Association]]"
   - "[[Achieve]]"
 related_arguments:
-  - "[[Argument_McDonnell_2013_AJE]]"
+  - "[[Argument_McDonnell_2013_AmJE]]"
 confidence: high
 status: stable
 created: 2026-09-26
@@ -61,7 +61,7 @@ updated: 2026-10-16
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> 全国教育进展评估（National Assessment of Educational Progress, NAEP）是美国由联邦国会立法授权实施的全国唯一连续性、具有全国代表性的中小学生[[Academic Achievement|学业成就]]监测项目，在公共舆论与学术界被广泛公认为“国家成绩单”（The Nation's Report Card）。该项目由美国联邦教育部下属的国家教育统计中心（National Center for Education Statistics, NCES）负责运营，并在独立的全国评估管理委员会（National Assessment Governing Board, NAGB）监督下开展，为衡量各州学生真实认知水平提供了不可替代的客观公尺。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 9–10)]]
+> 全国教育进展评估（National Assessment of Educational Progress, NAEP）是美国由联邦国会立法授权实施的全国唯一连续性、具有全国代表性的中小学生[[Academic Achievement|学业成就]]监测项目，在公共舆论与学术界被广泛公认为“国家成绩单”（The Nation's Report Card）。该项目由美国联邦教育部下属的国家教育统计中心（National Center for Education Statistics, NCES）负责运营，并在独立的全国评估管理委员会（National Assessment Governing Board, NAGB）监督下开展，为衡量各州学生真实认知水平提供了不可替代的客观公尺。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 9–10)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 始创于 1969 年。历经半个多世纪的常态化周期性实施，通常每两年对全美四年级和八年级学生进行数学与阅读的核心测评，并按更长周期测查科学、历史、公民等学科及十二年级综合表现。
@@ -84,7 +84,7 @@ updated: 2026-10-16
 > [!citation-card] 刻度映射研究揭示的各州自设虚高及格率
 > 针对评估与表现标准所呈现出的巨大跨州差异，美国国家教育统计中心（NCES, 2007）将四年级与八年级各州自设的数学与阅读合格标准映射到全国教育进展评估（NAEP）的统一量表上。研究人员发现，各州自评达到“熟练水平”的学生百分比差异，根本不代表 NAEP 所测量的真实[[Academic Achievement|学业成就]]差异，而完全取决于该州把及格切分点设得有多低。绝大多数州的切分点不仅低于 NAEP 的熟练级标准，甚至直接跌破了 NAEP 的基础级底线。
 >
-> *Mapping state proficiency standards in mathematics and reading for grades 4 and 8 onto the appropriate National Assessment of Educational Progress (NAEP) scale, researchers found that state differences in the percentage of students scoring at the proficient level on state assessments did not represent real differences in achievement as measured by NAEP but reflected where a state set its proficiency levels. Most state cut points, moreover, fell below the equivalent of the NAEP proficient standard, and some even fell below the NAEP basic standard.* [[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 9–10)]]
+> *Mapping state proficiency standards in mathematics and reading for grades 4 and 8 onto the appropriate National Assessment of Educational Progress (NAEP) scale, researchers found that state differences in the percentage of students scoring at the proficient level on state assessments did not represent real differences in achievement as measured by NAEP but reflected where a state set its proficiency levels. Most state cut points, moreover, fell below the equivalent of the NAEP proficient standard, and some even fell below the NAEP basic standard.* [[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 9–10)]]
 
 ---
 
@@ -111,13 +111,13 @@ updated: 2026-10-16
 ## 成效评估与实证发现
 
 > [!finding-cards] 核心实证贡献与政策冲击
-> - **击穿虚假及格率的“诚信鸿沟（Honesty Gap）”** 2007 年 NCES 映射研究成为打响全国标准改革的第一枪：田纳西州自评有高达 90% 的学生阅读合格，但在 NAEP 统一公尺下仅有 28% 达到熟练水平；各州为了逃避 [[No Child Left Behind Act 2001|NCLB]] 惩罚而展开的“逐底竞争（Race to the bottom）”被彻底公之于众。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 9–10, 17–18)]]
+> - **击穿虚假及格率的“诚信鸿沟（Honesty Gap）”** 2007 年 NCES 映射研究成为打响全国标准改革的第一枪：田纳西州自评有高达 90% 的学生阅读合格，但在 NAEP 统一公尺下仅有 28% 达到熟练水平；各州为了逃避 [[No Child Left Behind Act 2001|NCLB]] 惩罚而展开的“逐底竞争（Race to the bottom）”被彻底公之于众。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 9–10, 17–18)]]
 > - **提供跨世纪的教育公平追踪数据** 积累了美国长达半个世纪关于种族学业差距（White-Black / White-Hispanic achievement gaps）与贫富差距演变的连续数据，成为社会流动性研究不可或缺的底层数据源。
-> - **充当州级测评有效性的黄金校验计** 各州在采纳 [[Common Core State Standards|CCSS]] 前后均以 NAEP 作为最终校正标尺，例如马萨诸塞州在全美 NAEP 榜首的优异表现，直接成为该州在 CCSS 审议中衡量自身课程水准的核心证据源。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 18)]]
+> - **充当州级测评有效性的黄金校验计** 各州在采纳 [[Common Core State Standards|CCSS]] 前后均以 NAEP 作为最终校正标尺，例如马萨诸塞州在全美 NAEP 榜首的优异表现，直接成为该州在 CCSS 审议中衡量自身课程水准的核心证据源。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 18)]]
 
 > [!stat-cards]- 标志性指标反差（NCES 2007 映射数据）
-> - **90% vs. 28%** 田纳西州原考卷自称阅读及格率（90%）与 NAEP 实际熟练率（28%）的极端悬殊反差。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 9)]]
-> - **全美绝大多数州** 自设合格切分点全面跌破 NAEP “熟练级”标准，部分甚至低于“基础级”。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 10)]]
+> - **90% vs. 28%** 田纳西州原考卷自称阅读及格率（90%）与 NAEP 实际熟练率（28%）的极端悬殊反差。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 9)]]
+> - **全美绝大多数州** 自设合格切分点全面跌破 NAEP “熟练级”标准，部分甚至低于“基础级”。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 10)]]
 
 ---
 
@@ -141,4 +141,4 @@ updated: 2026-10-16
 > | [[PISA]] | 国际测评 | 国际学业测验，与 NAEP 一道揭示美国学生在应用型推理上的薄弱。 |
 > | [[National Governors Association]] | 组织机构 | 动员 NAEP 差距数据促使各州州长同意建立统一标准的最高行政联盟。 |
 > | [[Achieve]] | 智库机构 | 动员 NAEP 危机数据向公众和州议会进行游说推进的核心智库。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013)]] | 实证文献 | 深度剖析 NCES 的 NAEP 映射报告如何被[[Policy Entrepreneur\|政策企业家]]转化为议程工具的研究。 |
+> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | 实证文献 | 深度剖析 NCES 的 NAEP 映射报告如何被[[Policy Entrepreneur\|政策企业家]]转化为议程工具的研究。 |

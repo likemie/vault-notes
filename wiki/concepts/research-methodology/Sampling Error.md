@@ -7,6 +7,10 @@ aliases:
 summary: "从同一总体中多次随机抽样时样本统计量围绕总体真实参数的理论波动；度量从样本推断总体的随机不确定性，在元分析中作为研究内抽样方差与研究间真实异质性相对立，其准确估计依赖于样本独立性假设与逆方差加权机制"
 type: concept
 domain: "research-methodology"
+related_count: 21
+related_level: 2
+related_stars: "⭐⭐"
+related_color: "#99f6e4"
 tags:
   - method/sampling
   - quantitative-research
@@ -14,43 +18,32 @@ tags:
   - meta-analysis
   - evidence-synthesis
 related_concepts:
-  - "[[Standard Error]]"
-  - "[[Sampling Frame]]"
-  - "[[Sample Size Determination]]"
-  - "[[Confidence Interval]]"
-  - "[[Central Limit Theorem]]"
-  - "[[Effect Size]]"
   - "[[Heterogeneity]]"
-  - "[[Between-Study Variance]]"
-  - "[[Fixed-Effect Model]]"
-  - "[[Random-Effects Model]]"
-  - "[[Inverse-Variance Weighting]]"
-  - "[[Response Bias]]"
   - "[[Variable]]"
-  - "[[Statistical Significance]]"
   - "[[Visible Learning]]"
 related_theories:
   - "[[Central Limit Theorem]]"
 related_methods:
-  - "[[Sample Size Determination]]"
-  - "[[Confidence Interval]]"
+  - "[[Effect Size]]"
   - "[[Standard Error]]"
+  - "[[Sample Size Determination]]"
   - "[[Meta-analysis]]"
-  - "[[Meta-meta-analysis]]"
+  - "[[Between-Study Variance]]"
+  - "[[Random Sampling]]"
+  - "[[Confidence Interval]]"
+  - "[[Inverse-Variance Weighting]]"
+  - "[[Sampling Frame]]"
   - "[[Fixed-Effect Model]]"
   - "[[Random-Effects Model]]"
-  - "[[Inverse-Variance Weighting]]"
-  - "[[Correlational Research]]"
-  - "[[Random Sampling]]"
+  - "[[Statistical Significance]]"
 related_persons:
   - "[[Gene Glass]]"
-  - "[[John Hattie]]"
 related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
   - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Argument_Higgins_2016_ROE]]"
-  - "[[Argument_Johnson_2023_CE]]"
+  - "[[Argument_Johnson_2023_CritEduc]]"
 confidence: high
 status: completed
 created: 2026-06-21
@@ -64,7 +57,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **抽样误差（Sampling Error）** 指从同一目标总体中反复抽取样本时，样本统计量（如均值、比例、回归系数或标准化均数差[[Effect Size|效应量]]）围绕总体真实参数所产生的理论随机波动与离散程度。抽样误差并非操作疏失或实验失误的产物，而是由有限经验样本推断广义总体时固有的概率不确定性所致；其离散程度以[[Standard Error|标准误]]（Standard Error, SE）度量，受制于总体的变异性（$\sigma$ 或 $SD_{pop}$）与[[Sample Size Determination|样本容量]]（$N$）。在现代证据综合与[[Meta-analysis|元分析]]中，抽样误差被形式化界定为**“研究内抽样方差”（Within-study sampling variance, $v_i$）**，与反映真实情境变异的**“[[Between-Study Variance|研究间真实方差]]”（Between-study variance, $\tau^2$）** 共同构成元分析双层方差分解的核心基石。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|(Cohen et al., 2011, Ch. 8, pp. 149–151)]]; [[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–25)]]
+> **抽样误差（Sampling Error）** 指从同一目标总体中反复抽取样本时，样本统计量（如均值、比例、回归系数或标准化均数差[[Effect Size|效应量]]）围绕总体真实参数所产生的理论随机波动与离散程度。抽样误差并非操作疏失或实验失误的产物，而是由有限经验样本推断广义总体时固有的概率不确定性所致；其离散程度以[[Standard Error|标准误]]（Standard Error, SE）度量，受制于总体的变异性（$\sigma$ 或 $SD_{pop}$）与[[Sample Size Determination|样本容量]]（$N$）。在现代证据综合与[[Meta-analysis|元分析]]中，抽样误差被形式化界定为 **“研究内抽样方差”（Within-study sampling variance, $v_i$）**，与反映真实情境变异的 **“[[Between-Study Variance|研究间真实方差]]”（Between-study variance, $\tau^2$）** 共同构成元分析双层方差分解的核心基石。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|(Cohen et al., 2011, Ch. 8, pp. 149–151)]]; [[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–25)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 抽样误差度量的是无偏[[Random Sampling|随机抽样]]所产生的不可避免的偶然涨落，体现了经验科学对客观规律渐近逼近的概率特征。
@@ -147,7 +140,7 @@ updated: 2026-10-16
 > 探讨主要研究重复纳入如何破坏抽样分布方差的计算基石，制造出虚假精确的统计幻觉。
 
 > [!claim] Wecker et al.; Johnson & Janzen
-> **协方差未校正导致的假性精确与假阳性灾难** 二级元分析经典方差公式 $\text{Var}(D) = 1/\sum W_j$ 的严格数理前提是各一阶元分析收录的主要研究互不重叠、协方差为 0。韦克尔等人审计证实，哈蒂《[[Visible Learning|可见的学习]]》容忍不同一阶元分析之间高达 93% 的主要研究相互重叠。由于重叠研究引入了高度正相关的协方差项（$\text{Cov} > 0$），若仍按独立抽样误差公式相加，会导致分母被虚假人为放大，从而使合并效应量的真实抽样误差（标准误）被大幅低估，计算出的 $z$ 值虚高，造成第一类错误率（伪阳性）严重失控。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 25, 29–30)]]; [[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 25–26)]]
+> **协方差未校正导致的假性精确与假阳性灾难** 二级元分析经典方差公式 $\text{Var}(D) = 1/\sum W_j$ 的严格数理前提是各一阶元分析收录的主要研究互不重叠、协方差为 0。韦克尔等人审计证实，哈蒂《[[Visible Learning|可见的学习]]》容忍不同一阶元分析之间高达 93% 的主要研究相互重叠。由于重叠研究引入了高度正相关的协方差项（$\text{Cov} > 0$），若仍按独立抽样误差公式相加，会导致分母被虚假人为放大，从而使合并效应量的真实抽样误差（标准误）被大幅低估，计算出的 $z$ 值虚高，造成第一类错误率（伪阳性）严重失控。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 25, 29–30)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 25–26)]]
 
 ---
 
@@ -168,7 +161,7 @@ updated: 2026-10-16
 > |:---|:---|:---|:---|
 > | **样本量边际收益递减** | 样本量以 $1/\sqrt{N}$ 压缩抽样误差，存在 30 例警戒线与 80 例递减拐点 | 均值抽样分布方差衰减、中心极限定理、统计功效保障 | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08\|Cohen et al. (2011)]]; Gorard (2003) |
 > | **模型假定与误差二元分解** | 区分研究内抽样误差与研究间真实异质性，固定效应模型在此存在根本盲区 | 方差分解模型（$v_i$ vs $\tau^2$）、同质性假设检验 | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]; [[Argument_Higgins_2016_ROE\|Higgins (2016)]] |
-> | **独立性破坏与误差低估** | 文献重叠引入正协方差，未加校正使抽样误差严重低估并诱发假阳性失控 | 协方差交叉项缺失、逆方差加权膨胀、伪精确诊断 | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]; [[Argument_Johnson_2023_CE\|Johnson & Janzen (2023)]] |
+> | **独立性破坏与误差低估** | 文献重叠引入正协方差，未加校正使抽样误差严重低估并诱发假阳性失控 | 协方差交叉项缺失、逆方差加权膨胀、伪精确诊断 | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]; [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] |
 > | **除数混淆与效应量虚增** | 误将标准误（SE）当标准差（SD）计算效应量，导致数值虚假放大 $\sqrt{N}$ 倍 | 标准化均数差分母混淆、数据逆向还原取证 | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] |
 
 ---
@@ -198,7 +191,7 @@ updated: 2026-10-16
 > > 探讨在二级综合中是否允许跨过抽样误差悬殊的现实直接进行简单平均。
 > >
 > > - **算术平均操作主义（Hattie, 2009）** 对各一级元分析进行无权简单算术平均，声称宏观效应足够大时微观抽样差异可以忽略。
-> > - **数理加权规范（Wecker et al., 2016; Johnson & Janzen, 2023）** 指出只有严格以一级元分析抽样误差倒数（$W_j = 1/v_{d_j}$）赋权，二级汇总才具有代数合法性；无权简单平均彻底剥夺了大样本抵消抽样误差的基本统计功能。
+> > - **数理加权规范（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）** 指出只有严格以一级元分析抽样误差倒数（$W_j = 1/v_{d_j}$）赋权，二级汇总才具有代数合法性；无权简单平均彻底剥夺了大样本抵消抽样误差的基本统计功能。
 
 > [!warning] 抽样误差掩蔽下的系统性发表偏倚
 > 统计学家长期警示，抽样误差是无方向的随机正负波动，而现实发表生态充斥着对微弱或负向效应量的系统性过滤。小样本由于抽样误差极大，极易因偶然波动产生极大的伪阳性效应量；若这些异常值因跨过显著性门槛而获得优先发表，便会形成经典的“小研究效应”（Small-Study Effects），将原本对称的抽样误差异化为极度右偏的学术偏倚。
@@ -244,7 +237,7 @@ updated: 2026-10-16
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08|Cohen, Manion & Morrison (2011, Ch. 8)]] — 系统阐明教育研究中抽样误差、均值标准误、分类比例标准误、[[Central Limit Theorem|中心极限定理]]及样本容量边际递减法则，提供比例标准误的递进计算数值实例。
 > - [[Argument_Wecker_2016_ZfE|Wecker, Hetmanek & Fischer (2016)]] — 系统推导两级元分析成立的代数等价性定理；法医式揭露文献重叠导致抽样误差低估的假阳性膨胀机制，以及误将标准误当标准差计算导致效应量虚增近十倍的重大计量事故。
 > - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 阐明元分析中抽样误差（研究内方差）与研究间真实异质性的二元方差分解，辨析固定效应与随机效应模型在处理抽样波动时的根本分歧。
-> - [[Argument_Johnson_2023_CE|Johnson & Janzen (2023)]] — 解构二阶元分析中忽视抽样误差差异的无权简单算术平均弊端，论证样本量加权对于消除随机抽样偏差的必要性。
+> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 解构二阶元分析中忽视抽样误差差异的无权简单算术平均弊端，论证样本量加权对于消除随机抽样偏差的必要性。
 
 ---
 

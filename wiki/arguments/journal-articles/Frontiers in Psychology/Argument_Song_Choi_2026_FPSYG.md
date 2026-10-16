@@ -94,7 +94,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Greene_2018_JEP]]"
   - "[[Argument_Hofer_1997_RER]]"
-  - "[[Argument_Chinn_2011_EP]]"
+  - "[[Argument_Chinn_2011_EducPsychol]]"
   - "[[Argument_Cartiff_2021_JEP]]"
 sources:
   - "[[sources/Song_Choi_2026_FPSYG/Song_Choi_2026_FPSYG|Song_Choi_2026_FPSYG]]"
@@ -143,7 +143,7 @@ issuing_organization: ""
 > - **多维[[Epistemological Beliefs\|认识论信念]]模型 (Multidimensional Models)**
 >   发端于 Schommer (1990)。打破单向线性发展阶段论，提出[[Epistemology\|认识论]]是由确定性、简单性、来源、学习速度与学习能力五个相对独立的信念维度构成的系统，允许不同[[Construct\|构念]]异步演进。
 > - **知识与认识性质重构框架 (Nature of Knowledge & Knowing)**
->   发端于 [[Argument_Hofer_1997_RER|Hofer and Pintrich (1997)]]。将核心认识论认知划分为**知识本质**（确定性、简单性）与**认识本质**（来源、确证），并将学习本质（速度、能力）划为外围构念；[[Argument_Chinn_2011_EP\|Chinn et al. (2011)]] 进一步扩展至[[Epistemic Aims\|认识目标]]、理想与[[Reliable Epistemic Processes\|可靠过程]]。
+>   发端于 [[Argument_Hofer_1997_RER|Hofer and Pintrich (1997)]]。将核心认识论认知划分为**知识本质**（确定性、简单性）与**认识本质**（来源、确证），并将学习本质（速度、能力）划为外围构念；[[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] 进一步扩展至[[Epistemic Aims\|认识目标]]、理想与[[Reliable Epistemic Processes\|可靠过程]]。
 > - **文化情境与[[Constructivist Paradigm\|建构主义]]学习观 (Situative & Cultural Perspectives)**
 >   受[[Situative Perspective\|情境认知]]启发（Bang & Medin, 2010）。主张认识论认知并非脱域特质，而是社会文化与课堂生态互动的产物；[[Constructivist Instruction\|建构主义教学]]情境激活成熟认知，而机械应试情境则会压制其效能转化。
 > - **认知与动机行为中介模型 (Cognitive-Motivational Models)**
@@ -417,7 +417,7 @@ issuing_organization: ""
 > | **知识确定性 (Certainty)** | 93 | **0.122** | [.036, .206] | 知识本质（远端世界观） |
 
 > [!contrast-table] 构念层级机制剖析（学习本质 vs 认识本质 vs 知识本质）
-> | 构念层级 | 包含维度 | 加权效应量 $r$ | 理论定位（[[Argument_Hofer_1997_RER\|Hofer & Pintrich, 1997]]; [[Argument_Chinn_2011_EP\|Chinn et al., 2011]]） | 心理与行为中介机制 |
+> | 构念层级 | 包含维度 | 加权效应量 $r$ | 理论定位（[[Argument_Hofer_1997_RER\|Hofer & Pintrich, 1997]]; [[Argument_Chinn_2011_EducPsychol\|Chinn et al., 2011]]） | 心理与行为中介机制 |
 > |---|---|---|---|---|
 > | **学习本质（Nature of learning）** | 学习速度、学习能力 | **$r = 0.174 \sim 0.207$** | 传统分类视其为外围构念，但具有极高的动机与自我效能属性。 | 充当认识论信念与实际学习行为之间的**近端心理桥梁**，增量智力观直接激发坚持性（Blackwell et al., 2007）。 |
 > | **认识本质（Nature of knowing）** | 知识确证、知识来源 | **$r = 0.185 \sim 0.187$** | 认识论认知的核心支柱，涉及知识如何被验证与采信。 | 直接指导学习者在复杂信息中**评估多方证据与来源[[Reliability\|可靠性]]**，促进概念重构与深层加工。 |

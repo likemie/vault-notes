@@ -71,7 +71,7 @@ related_arguments:
   - "[[Argument_QiMei_2015_EducationalResearchMethods]]"
   - "[[Argument_Gorard_2020_ROE]]"
   - "[[Argument_Rust_2009_Reflections]]"
-  - "[[Argument_Brown_2017_ER]]"
+  - "[[Argument_Brown_2017_EducRes]]"
 confidence: high
 status: draft
 created: 2026-06-24
@@ -191,7 +191,7 @@ updated: 2026-10-16
 >
 > > [!axis] 二手二次转译 vs 直接研读一手原著
 > > - **一手文献坚守者** 担忧二手改写会稀释原始研究的方法学严谨性、情境细节与效度边界。
-> > - **二手转译倡导者** 强调一线教师面临压倒性的时间赤字，结构化转译简报是实现证据规模化通达的现实阶梯。[[Argument_Brown_2017_ER\|(Brown et al., 2017, pp. 161–162)]]
+> > - **二手转译倡导者** 强调一线教师面临压倒性的时间赤字，结构化转译简报是实现证据规模化通达的现实阶梯。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, pp. 161–162)]]
 >
 > > [!axis] 文本转译局限 vs 工件工程化破局
 > > - **文本转译路径** 寄希望于通过优化简报、信息图与在线工具包改善教师认知。
@@ -208,6 +208,6 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Gorard_2020_ROE\|Gorard et al. (2020)]] — 系统检验证据利用中一手原始文献与二手改写文本的实证成效，揭示直接研读一手文献的致命变异与二手改写的被动失效，提出[[Engineered Evidence\|证据工程化]]出路。
-> - [[Argument_Brown_2017_ER\|Brown et al. (2017)]] — 探讨[[Research Learning Communities\|研究学习共同体]]（RLC）中大学研究者为教师提供二手转译简报的运行机制与现实合理性。
+> - [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] — 探讨[[Research Learning Communities\|研究学习共同体]]（RLC）中大学研究者为教师提供二手转译简报的运行机制与现实合理性。
 > - [[Argument_QiMei_2015_EducationalResearchMethods\|齐梅 (2015)]] — 系统阐述教育研究中一手与二手文献的界定、分类及[[Literature Review\|文献综述]]检索方法。
 > - [[Argument_Rust_2009_Reflections\|Rust et al. (2009, pp. 130–131)]] — 考证比较教育学科数据搜集策略的演化，剖析早期研究依托二手文献（secondary literature）撰写诠释性论文的局限，以及战后逐步融入一手[[Fieldwork|田野调查]]、[[Questionnaire|问卷]]与人口普查数据库的多元实证转型。

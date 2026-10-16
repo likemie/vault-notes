@@ -31,7 +31,7 @@ related_methods:
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Glitz_2020_AER]]"
+  - "[[Argument_Glitz_2020_AmEconRev]]"
 confidence: medium
 status: draft
 created: 2026-06-26
@@ -85,7 +85,7 @@ updated: 2026-10-16
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 国民经济核算、行业生产率比较、增长核算——只要存在可靠的投资流量数据和适当的折旧率校准。[[Argument_Glitz_2020_AER\|Glitz and Meyersson (2020, p.1075)]]
+> - **适合使用** 国民经济核算、行业生产率比较、增长核算——只要存在可靠的投资流量数据和适当的折旧率校准。[[Argument_Glitz_2020_AmEconRev\|Glitz and Meyersson (2020, p.1075)]]
 > - **谨慎使用** 投资序列较短时初始存量估算对稳态假设较敏感；转型经济体或结构性断裂时期（如战争、制度变革）的稳态假设可能不成立。
 > - **不适合使用** 缺少投资流量数据；资产构成高度异质且折旧率差异很大但无法区分资产类型的情况。
 
@@ -114,4 +114,4 @@ updated: 2026-10-16
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Glitz_2020_AER\|Glitz and Meyersson (2020)]] — 使用 PIM 对 16 个行业 1950–1989 年的两德资本存量进行递推估算（基线 $\delta = 0.06$），并检验了 $\delta = 0.04$ 到 0.08 范围内的敏感性。
+> - [[Argument_Glitz_2020_AmEconRev\|Glitz and Meyersson (2020)]] — 使用 PIM 对 16 个行业 1950–1989 年的两德资本存量进行递推估算（基线 $\delta = 0.06$），并检验了 $\delta = 0.04$ 到 0.08 范围内的敏感性。

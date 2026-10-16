@@ -69,7 +69,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_DeJong_2023_ERR]]"
-  - "[[Argument_Simpson_2017_JEP]]"
+  - "[[Argument_Simpson_2017_JEdPolicy]]"
   - "[[Argument_Zhang_2022_SE]]"
 confidence: high
 status: active
@@ -132,7 +132,7 @@ updated: 2026-10-16
 
 > [!feature] 核心要素
 > - **动态高基线属性** 公立学校的常态教学并非落后低效的真空，而是包含了受过专业师范培训教师的日常讲授、校本教研、课后答疑与国家统考准备（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）。任何外部干预必须在这一高起点基线上展示增量增益。
-> - **反事实黑箱与情境[[Heterogeneity\|异质性]]** 各学校与班级之间的常态教学千差万别。若研究者在报告中仅笼统声明“对照组维持常态教学”，会掩盖两组之间的真实差异，导致跨试验[[Effect Size\|效应量]]缺乏可解释性与[[External Validity\|外部效度]]（[[Argument_Simpson_2017_JEP\|Simpson, 2017, p. 113]]）。
+> - **反事实黑箱与情境[[Heterogeneity\|异质性]]** 各学校与班级之间的常态教学千差万别。若研究者在报告中仅笼统声明“对照组维持常态教学”，会掩盖两组之间的真实差异，导致跨试验[[Effect Size\|效应量]]缺乏可解释性与[[External Validity\|外部效度]]（[[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017, p. 113]]）。
 > - **[[Direct Instruction\|直接讲授]]的深厚经验沉淀** 在大多数真实学科课堂中，常态教学主要由传统直接教学构成。对照组教师操练该教法数年乃至数十年，教学流程高度熟练，学生规程适应性极强，形成了稳固的教学惯性（[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 6]]）。
 > - **竞品污染与补偿性竞争敏感性** 对照组教师在知晓处于实验中后，可能自发借助网络资源、采购类似教具或加大课外辅导，从而在无意中抬高对照基线并缩小干预组与对照组的观测差距。
 > - **公共教育财政机会成本** 任何商业化或外部引进的干预方案若无法在实证检验中显著胜过零边际成本的常态教学，其采购、培训与运维支出即构成公共教育财政的净浪费（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]）。
@@ -189,7 +189,7 @@ updated: 2026-10-16
 > 剖析对照组报告模糊对[[Causality\|因果推断]][[External Validity\|外部效度]]与效应量解释力造成的结构性损害。
 
 > [!claim] [[Adrian Simpson\|Simpson, A.]]
-> **反事实黑箱化对因果推断可解释性的侵蚀** 许多教育试验在报告中仅笼统声明对照组维持“常态教学”，却未对对照组实际开展的课程内容、师生配比与资源投入进行实质测量。这种未界定的反事实对照在不同学校和学区中含义截然不同，导致读者无法确认干预组与对照组之间究竟存在何种实质性实践差异。缺乏对照组具体行为的透明报告，会使得效应量的因果归因失去扎实的实证根基，严重动摇教育试验的可重复性与政策指导价值。（[[Argument_Simpson_2017_JEP\|Simpson, 2017, p. 113]]）
+> **反事实黑箱化对因果推断可解释性的侵蚀** 许多教育试验在报告中仅笼统声明对照组维持“常态教学”，却未对对照组实际开展的课程内容、师生配比与资源投入进行实质测量。这种未界定的反事实对照在不同学校和学区中含义截然不同，导致读者无法确认干预组与对照组之间究竟存在何种实质性实践差异。缺乏对照组具体行为的透明报告，会使得效应量的因果归因失去扎实的实证根基，严重动摇教育试验的可重复性与政策指导价值。（[[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017, p. 113]]）
 
 > [!claim] Edovald, K. & Nevill, C.
 > **[[Implementation and Process Evaluation\|过程评估]]同步追踪对照组行为规约** 为解决常态教学黑箱化带来的反事实偏倚，现代教育评估规范强制要求将对照组常态活动纳入[[Implementation and Process Evaluation\|实施与过程评估]]（IPE）的核心监测框架。评估团队必须通过对照组教师专项[[Questionnaire\|问卷调查]]、课程表核查与[[Semi-structured Interview\|半结构化访谈]]，详尽记录对照组学校在试验期间是否自发引入了相似的辅导资源或教改活动，以准确识别可能发生的竞品污染并客观判定干预方案的净差异。（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 53]]）
@@ -226,7 +226,7 @@ updated: 2026-10-16
 
 > [!dev-timeline] 概念演变
 > - **2002 — 因果评估默认对照条件的制度化确立** 随着美国《不让一个孩子掉队法》（[[No Child Left Behind Act 2001\|NCLB]]）与[[Institute of Education Sciences\|教育科学研究院]]（IES）的成立，常态教学被正式确立为教育现场因果试验的法定[[Counterfactual\|反事实对照]]基准。
-> - **2016–2017 — 反事实黑箱批判与透明度治理呼吁** 方法论学者对教育试验报告中对照组描述的严重匮乏发起集中批判，强调“未界定的常态教学”构成了因果推断可解释性与[[External Validity\|外部效度]]的系统性威胁。（[[Argument_Simpson_2017_JEP\|Simpson, 2017, p. 113]]）
+> - **2016–2017 — 反事实黑箱批判与透明度治理呼吁** 方法论学者对教育试验报告中对照组描述的严重匮乏发起集中批判，强调“未界定的常态教学”构成了因果推断可解释性与[[External Validity\|外部效度]]的系统性威胁。（[[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017, p. 113]]）
 > - **2019 — 英美大型试验微弱[[Effect Size\|效应量]]现象引发基线大讨论** 针对英美 141 项中介资助现场 [[Randomised Controlled Trials\|RCT]] 的元评估揭示中位效应量仅 $d = 0.06$，引发学界对公立学校常态基线水准与试验信息量的大规模反思。（Lortie-Forgues & Inglis, 2019）
 > - **2021 — 高基线[[Epistemology\|认识论]]确立与[[Implementation and Process Evaluation\|过程评估]]规约法定化** 英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）学者系统确立常态教学高基线理论，强制要求在方案[[Preregistration\|预注册]]与实施过程评估中对对照组日常活动展开多源实证追踪，确立证明“何者未超越常态教学”的治理价值。（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 56–57]]）
 > - **2023 — 课程改革实验中常态[[Direct Instruction\|直接讲授]][[Ecological Validity\|生态效度]]辩护** 针对直接教学派对宏观课程实验缺乏实验室对照的抨击，De Jong et al. 明确指出真实学校中常态教学具有资深师资熟练讲授的深厚基线属性，证实超越或等价于常态讲授的探究课程具备极高生态效度。（[[Argument_DeJong_2023_ERR\|De Jong et al., 2023, p. 6]]）
@@ -248,11 +248,11 @@ updated: 2026-10-16
 > > [!axis] 对照组[[Rich and Thick Description\|深描]]追踪 vs 评估实施成本与可行性
 > > 探讨在实地评估中将常态教学解构到何种精细程度才是合理且可负担的。
 > >
-> > - **方法论纯粹立场（[[Argument_Simpson_2017_JEP\|Simpson, 2017]]）** 坚持所有试验必须详尽汇报对照组每一教学环节、教材投入与课时细节，否则[[Effect Size\|效应量]]毫无实质科学意义。
+> > - **方法论纯粹立场（[[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017]]）** 坚持所有试验必须详尽汇报对照组每一教学环节、教材投入与课时细节，否则[[Effect Size\|效应量]]毫无实质科学意义。
 > > - **实务评估立场** 认为过度密集的对照组调查会增加基层学校配合负担甚至引发生态干扰，主张通过轻量化[[Questionnaire\|问卷]]与关键指标抽检建立务实的监测机制。
 
 > [!critique] 外部批评
-> - **[[Counterfactual\|反事实]]未界定黑箱** 大量早期教育试验仅报告干预组措施，将对照组轻率标注为“常态教学”，使不同研究之间的效应量彻底失去可比性（[[Argument_Simpson_2017_JEP\|Simpson, 2017]]）。
+> - **[[Counterfactual\|反事实]]未界定黑箱** 大量早期教育试验仅报告干预组措施，将对照组轻率标注为“常态教学”，使不同研究之间的效应量彻底失去可比性（[[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017]]）。
 > - **忽视对照组补偿性竞争心理** 对照组教师若意识到自己被分配至对照组，可能产生约翰·亨利效应（John Henry effect）或自发借用外部学习资源，从而导致对照基线异常抬高并掩盖真实的干预价值。
 
 > [!warning] 适用局限
@@ -310,5 +310,5 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 阐发常态教学高水准基线假说，论证证明干预无法超越常态教学对保护公共财政与防止商业营销绑架的重要治理价值。
-> - [[Argument_Simpson_2017_JEP\|Simpson (2017)]] — 深入剖析教育实验中未界定的常态教学黑箱对[[Counterfactual\|反事实]][[Causality\|因果推断]]可解释性与[[External Validity\|外部效度]]的严重损害。
+> - [[Argument_Simpson_2017_JEdPolicy\|Simpson (2017)]] — 深入剖析教育实验中未界定的常态教学黑箱对[[Counterfactual\|反事实]][[Causality\|因果推断]]可解释性与[[External Validity\|外部效度]]的严重损害。
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统辩护真实学校宏观课程实验的对照效度，指出常态教学由资深教师熟练实施[[Direct Instruction\|直接讲授]]，超越或打平该基线具备极高[[Ecological Validity\|生态效度]]。

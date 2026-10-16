@@ -110,7 +110,7 @@ related_facts:
   - "[[What Works Network]]"
 related_arguments:
   - "[[Argument_Revai_2022_ChangingLandscape]]"
-  - "[[Argument_Rickinson_2022_ER]]"
+  - "[[Argument_Rickinson_2022_EducRes]]"
   - "[[Argument_Hill_2022_FacilitatingActors]]"
   - "[[Argument_Torres_2022_KMModels]]"
   - "[[Argument_Gough_2022_EvidenceOnEIPP]]"
@@ -129,7 +129,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> 证据生态系统（Evidence Ecosystem）指由教育研究者、政策制定者、[[School Leadership\|学校领导]]者、一线教师、中介机构（Brokerage Agencies）及资助主体共同构成的复杂自适应网络。在该系统中，研究证据的产生、综合评价、转译包装、传播流动与实践采纳不再是孤立的单向链条，而是通过多节点互动、自组织网络和非线性反馈回路协同演化的全系统生态；其健康运转高度依赖宏观治理从单纯的结果问责转向过程透明度与形成性自我监控。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 18–20)]]; [[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 140, 144–145)]]
+> 证据生态系统（Evidence Ecosystem）指由教育研究者、政策制定者、[[School Leadership\|学校领导]]者、一线教师、中介机构（Brokerage Agencies）及资助主体共同构成的复杂自适应网络。在该系统中，研究证据的产生、综合评价、转译包装、传播流动与实践采纳不再是孤立的单向链条，而是通过多节点互动、自组织网络和非线性反馈回路协同演化的全系统生态；其健康运转高度依赖宏观治理从单纯的结果问责转向过程透明度与形成性自我监控。[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 18–20)]]; [[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 140, 144–145)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 证据生态系统将证据利用确立为整体生态现象，聚焦多元异质主体在复杂系统中的互动质量、反馈调节与自组织适应。
@@ -142,7 +142,7 @@ updated: 2026-10-16
 > *Early conceptualisations of knowledge transfer as a linear process have evolved into an understanding of research ecosystems that recognise complexity... In this model, evaluation, synthesis, translation, use of research, and innovation are explicitly linked.*
 
 > [!citation-card] 宏观生态治理从结果问责转向过程透明度与自我监控
-> “在宏观系统层面，理解与改进证据使用要求建立持续的评估与反馈机制。传统的治理考评聚焦于下游结果的刚性问责，而全系统的长效变革呼唤个体与学校对证据使用展开持续的自我监控与反思，涵盖对连接证据生产与利用全过程结构与机制的动态评估。”（[[Argument_Rickinson_2022_ER\|Rickinson et al., 2022a, pp. 144–145]]）
+> “在宏观系统层面，理解与改进证据使用要求建立持续的评估与反馈机制。传统的治理考评聚焦于下游结果的刚性问责，而全系统的长效变革呼唤个体与学校对证据使用展开持续的自我监控与反思，涵盖对连接证据生产与利用全过程结构与机制的动态评估。”（[[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a, pp. 144–145]]）
 >
 > *"To understand and improve evidence use in systems, then, there is a need for ongoing evaluation and [[Feedback]] mechanisms... Where traditional measures focus on accountability through outcomes, sustained system-wide changes call for the continuous self-monitoring of individual and school [[Engagement in and with Research\|Engagement in Research]] use."*
 
@@ -182,7 +182,7 @@ updated: 2026-10-16
 > - **协同型系统领导力（Collaborative Leadership）** 放弃自上而下的刚性行政控制命令，转向激发基层自组织活力、参与式行动反思与持续[[Formative Assessment\|形成性评估]]。
 > - **跨组织协同网络（Effective Networks）** 打破大学象牙塔与中小学的组织制度壁垒，将学校集群、高校研究团队与地方决策层编织进具有共同变革目标的协作网络中。
 > - **战略性价值沟通（Strategic Communications）** 超越简单的信息转译与文本摘要分发，深入探寻不同群体的利益关切与深层相互依赖，在多方对话中达成价值共识。[[Argument_Revai_2022_ChangingLandscape\|(Best & Holmes, 2010; Révai, 2022, p. 19)]]
-> - **系统级使能与治理机制（System-Level Enabling Influences）** 涵盖领导层在全系统层面确立[[Research Utilization\|研究使用]]的战略优先地位（Farley-Ripple et al., 2018; EEF, 2019）、为学校循证文化与基础架构提供持续专项经费资助（Nelson & Campbell, 2019），以及建立超越下游惩戒性问责的形成性反馈与持续自我监控机制（Bannigan, 2007; Senge et al., 2012; [[Argument_Rickinson_2022_ER\|Rickinson et al., 2022a]]）。
+> - **系统级使能与治理机制（System-Level Enabling Influences）** 涵盖领导层在全系统层面确立[[Research Utilization\|研究使用]]的战略优先地位（Farley-Ripple et al., 2018; EEF, 2019）、为学校循证文化与基础架构提供持续专项经费资助（Nelson & Campbell, 2019），以及建立超越下游惩戒性问责的形成性反馈与持续自我监控机制（Bannigan, 2007; Senge et al., 2012; [[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a]]）。
 
 > [!figure]- 需求拉动的证据生态系统双层嵌套拓扑模型（Figure 7.1; Gough et al., 2011, 2018, 2022, p. 148）
 > ![](https://img.mylikemie.icu/books/Revai(Ed.)_2022_OECD/figures/Figure_7-1_Evidence_ecosystem.jpg)
@@ -371,8 +371,8 @@ updated: 2026-10-16
 > [!concept-lens] 宏观治理转向与形成性过程监控
 > 针对传统治理侧重于基于量化结果指标的刚性审查，跨领域证据表明，健康生态的维系高度依赖决策过程的透明度、可辩驳性与长效自我监测。
 
-> [!claim] [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]]; Parkhurst (2017); Senge et al. (2012)
-> **决策过程问责与形成性反馈机制** 跨卫生、社会关照、教育与公共政策领域的[[Systematic Review\|系统综述]]表明，促进[[Research Utilization\|证据使用]]的宏观政策环境并不取决于单向问责考核所生产的表层“成效（effectiveness）”，而取决于决策与实施过程本身的问责制、透明度与可争辩性（accountability, transparency and contestability of processes, Boswell, 2014; Parkhurst, 2017; Rutter & Gold, 2015）。若宏观治理仅依赖下游结果审计，极易促成规避风险与象征性应付；全系统长效变革必须依赖跨越研究生产、中介转译与实践终端的[[Formative Assessment\|形成性评估]]与反馈机制（Bannigan, 2007; Meadows, 2014; Senge et al., 2012），依靠学校与个体在日常实践中开展持续的自我监控与集体反思（Brown & Rogers, 2015; Stoll et al., 2018），方能构筑起支持[[Quality Use of Research Evidence Framework\|高质量研究使用]]的宏观系统使能环境。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 140, 144–145)]]
+> [!claim] [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a)]]; Parkhurst (2017); Senge et al. (2012)
+> **决策过程问责与形成性反馈机制** 跨卫生、社会关照、教育与公共政策领域的[[Systematic Review\|系统综述]]表明，促进[[Research Utilization\|证据使用]]的宏观政策环境并不取决于单向问责考核所生产的表层“成效（effectiveness）”，而取决于决策与实施过程本身的问责制、透明度与可争辩性（accountability, transparency and contestability of processes, Boswell, 2014; Parkhurst, 2017; Rutter & Gold, 2015）。若宏观治理仅依赖下游结果审计，极易促成规避风险与象征性应付；全系统长效变革必须依赖跨越研究生产、中介转译与实践终端的[[Formative Assessment\|形成性评估]]与反馈机制（Bannigan, 2007; Meadows, 2014; Senge et al., 2012），依靠学校与个体在日常实践中开展持续的自我监控与集体反思（Brown & Rogers, 2015; Stoll et al., 2018），方能构筑起支持[[Quality Use of Research Evidence Framework\|高质量研究使用]]的宏观系统使能环境。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 140, 144–145)]]
 
 ---
 ---
@@ -391,7 +391,7 @@ updated: 2026-10-16
 > | **实践者客体化** | 实践端中介岗位与外在激励匮乏，导致一线教师沦为被动数据收集客体 | 教师科研工时保障、职级晋升改革与共创机制 | [[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 93–94)]] |
 > | **生态摸排与外层整合** | 证据生态介入需前置诊断既有供需网络并与外部问责拨款大系统深度咬合 | 中介机构战略规划、全系统证据治理政策设计 | [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 148–151)]] |
 > | **行为变革驱动** | 单向传播无法克服信息赤字，必须扎根能力、机会与动机驱动实践行为改变 | 证据中介干预方案设计、教师专业发展与行为干预评估 | [[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 152–153)]]; Lord et al. (2017) |
-> | **宏观过程治理** | 宏观治理须从终结性结果问责转向决策过程透明度与贯穿全流程的形成性自我监控 | 全系统证据生态顶层设计、跨部门监控与反思机制 | [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]]; Parkhurst (2017) |
+> | **宏观过程治理** | 宏观治理须从终结性结果问责转向决策过程透明度与贯穿全流程的形成性自我监控 | 全系统证据生态顶层设计、跨部门监控与反思机制 | [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a)]]; Parkhurst (2017) |
 
 ---
 
@@ -407,7 +407,7 @@ updated: 2026-10-16
 > - **2022 — 跨国证据生态组织图景与政务联结实证测度** [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] 基于 OECD 调查对 29 国 37 个教育系统开展系统性实证诊断，首次绘制出 17 类组织生态位分布、部委网络规模与强度非线性解耦、专业中介角色的行政端集聚，确证了“学术供给过剩、微观转化贫瘠”的中心—外围失衡结构。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 78–96)]]
 > - **2022 — 跨领域知识动员模型生态演进比较** [[Argument_Torres_2022_KMModels\|Torres (2022b)]] 横向比照卫生、公共治理与教育领域主流知识动员模型，提炼出构件交互从孤立管道走向双层嵌套生态、行动者定位从一维标签走向多维功能复合体的深层演化轨迹，并提出兼具自适应机制与崇高教育目标的下一代生态构建路径。[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 43–46, 51–52)]]
 > - **2022 — 生态需求摸排、外层大系统整合与行为改变视阈确立** [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] 系统阐述中介机构在证据生态系统中的自我循证进路，提出重构后的需求拉动双层嵌套构图（Figure 7.1），揭示官方治理模型遗漏外部政治问责大系统的结构性盲区，制定生态需求诊断（Box 7.2）与外层制度自省（Box 7.3）评估框架，并依托英国[[What Works Network\|有效性网络]]（WWN）实践与[[Literacy Octopus\|识字八爪鱼试验]]（Literacy Octopus Trial）因果实证，彻底推翻单向推送的信息赤字假设，推动证据生态学扎根于行为改变科学。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 148–153; Lord et al., 2017)]]
-> - **2022 — [[Quality Use of Research Evidence Framework\|QURE]] 框架阐明证据生态的系统使能支柱与过程监控治理转向** [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]] 基于跨卫生、社会关照、教育与政策四大领域的[[Systematic Review\|系统综述]]（[[PRISMA]] 10,813 $\to$ 112 篇核心文献），将宏观系统影响（System Influences）解构为战略优先性确立、文化与基础设施专项资助、以及贯通全生态链条的形成性自我监控与反馈机制，主张宏观治理从下游结果审计转向决策过程本身的问责制、透明度与可争辩性。
+> - **2022 — [[Quality Use of Research Evidence Framework\|QURE]] 框架阐明证据生态的系统使能支柱与过程监控治理转向** [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a)]] 基于跨卫生、社会关照、教育与政策四大领域的[[Systematic Review\|系统综述]]（[[PRISMA]] 10,813 $\to$ 112 篇核心文献），将宏观系统影响（System Influences）解构为战略优先性确立、文化与基础设施专项资助、以及贯通全生态链条的形成性自我监控与反馈机制，主张宏观治理从下游结果审计转向决策过程本身的问责制、透明度与可争辩性。
 
 ---
 
@@ -462,7 +462,7 @@ updated: 2026-10-16
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |:---|:---|:---|:---|:---|:---|:---|
-> | [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a, pp. 140, 144–145)]] | 跨卫生、社会关照、教育与公共政策四大领域文献库 | PRISMA [[Systematic Review\|系统综述]]（初检 10,813 篇 $\to$ 纳入 112 篇核心文献） | 宏观系统影响构件与跨部门治理特征 | 证实高质量[[Research Utilization\|证据使用]]依赖系统领导力战略优先性、专项资金支持以及基于决策过程透明度与自我监控的反馈循环 | 定性[[Narrative Synthesis\|叙事综合]]证实 | 为宏观证据生态超越单纯中介网络走向系统使能治理提供跨领域实证支撑 |
+> | [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a, pp. 140, 144–145)]] | 跨卫生、社会关照、教育与公共政策四大领域文献库 | PRISMA [[Systematic Review\|系统综述]]（初检 10,813 篇 $\to$ 纳入 112 篇核心文献） | 宏观系统影响构件与跨部门治理特征 | 证实高质量[[Research Utilization\|证据使用]]依赖系统领导力战略优先性、专项资金支持以及基于决策过程透明度与自我监控的反馈循环 | 定性[[Narrative Synthesis\|叙事综合]]证实 | 为宏观证据生态超越单纯中介网络走向系统使能治理提供跨领域实证支撑 |
 > | [[Argument_Hill_2022_FacilitatingActors\|Hill (2022, pp. 78–86)]] | 涵盖 29 个[[OECD\|经合组织]]国家的 37 个国家或地方教育部委 | 跨国政策[[Questionnaire\|问卷调查]]（5 点量表活跃度与 6 点量表网络强度） | 17 类组织在三大维度的活跃度分布及部委联结相关性 | 大学与教育学院（生产活跃 30 系统、促成 32 系统）与教育部委（26/32 系统）构成双核心;智库（6/10 系统）与工会（4/13 系统）边缘化;逾 85% 系统的生产活跃类别显著多于实践促成;部委对纯转化中介定期征询率极低（仅哥伦比亚、斯洛文尼亚保持常规联系） | — | 宏观横截面自陈调查，确证学术供给过剩与实践转化贫瘠的中心—外围结构及生产依附偏误 |
 > | [[Argument_Hill_2022_FacilitatingActors\|Hill (2022, pp. 87–92)]] | 涵盖 29 个国家的 37 个教育系统 | 跨国政策问卷与典型国家案例考证 | 专业中介岗位设立比例、个体在 7 阶段的参与分布及激励机制 | [[Embedded Researcher\|嵌入式研究者]]政策端 73% vs 实践端 32%;高校科研人员在 7 个阶段均处于绝对主导地位（各阶段 18–20 系统卷入），一线教师高度窄化于数据收集（18 系统），提出问题（5 系统）与方案设计（4 系统）极度缺位;科研人员内外激励双充沛，教师外在硬性激励近乎空白 | — | 反映跨国制度配置上的行政集聚与实践赤字，揭示一线教师沦为被动数据苦力的客体化异化 |
 > | [[Argument_Hill_2022_FacilitatingActors\|Hill (2022, pp. 92–96)]] | 涵盖 29 个国家的 37 个教育系统 | 跨国政策问卷调查（5 点[[Likert Scale\|李克特量表]]认同度与频度统计） | 决策者循证文化心态、获取渠道与政策过程具体应用场景 | 理念重要性认同（均分 4.46）显著高于对研究人员信任（3.40）与共识理解（3.10）;获取渠道高度依赖外部专家（92%）与内部研究员（84%），自主学术检索仅 57%;应用高度集中于方案设计（70%）与问题诊断（65%），审议[[Dialogue in Education\|对话]]（47%）与赢得信任（42%）严重萎缩 | — | 确证表面[[Scientism\|科学主义]]拥护下的政学深层信任赤字，诊断证据应用的交易型短视病理 |
@@ -477,7 +477,7 @@ updated: 2026-10-16
 ## [[Correlational Research|相关研究]]
 
 > [!evidence-grid-a] 相关研究索引
-> - [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]] — 跨四大领域[[Systematic Review\|系统综述]]提出 [[Quality Use of Research Evidence Framework\|QURE]] 框架，系统界定宏观证据生态的系统级使能影响（战略优先、资源保障、过程监控），论证治理从下游结果问责转向决策过程透明度的制度转向。
+> - [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a)]] — 跨四大领域[[Systematic Review\|系统综述]]提出 [[Quality Use of Research Evidence Framework\|QURE]] 框架，系统界定宏观证据生态的系统级使能影响（战略优先、资源保障、过程监控），论证治理从下游结果问责转向决策过程透明度的制度转向。
 > - [[Argument_Hill_2022_FacilitatingActors\|Hill, D. (2022)]] — 跨国摸排 29 国 37 个教育系统证据中介组织生态位、部委政务网络、专业角色设立及微观决策心智，实证确证证据生态的中心—外围结构与交易型病理。
 > - [[Argument_Revai_2022_ChangingLandscape\|Révai, N. (2022)]] — 梳理国际循证政策二十年演变历程，系统构建线性-关系-系统嵌套模型与五维[[Analytic Framework\|分析框架]]，奠定跨国证据生态治理实证基底。
 > - [[Argument_Revai(Ed.)_2022_OECD\|Révai, N. (Ed.) (2022)]] — [[OECD]] [[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]全景研究成果，基于 29 国 37 个教育系统调查摸排证据生态治理机制。

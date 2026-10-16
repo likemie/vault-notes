@@ -62,8 +62,8 @@ related_persons: []
 related_facts:
   - "[[Common Core State Standards]]"
 related_arguments:
-  - "[[Argument_Helgetun_2022_JEP]]"
-  - "[[Argument_McDonnell_2013_AJE]]"
+  - "[[Argument_Helgetun_2022_JEdPolicy]]"
+  - "[[Argument_McDonnell_2013_AmJE]]"
 confidence: high
 status: draft
 created: 2026-09-16
@@ -77,7 +77,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 方法定义
-> 精英访谈（Elite Interview）是[[Qualitative Research\|质性研究]]与[[Policy Science in Comparative Education\|政策科学]]中的专门化访谈方法（Aberbach & Rockman, 2002; Berry, 2002），指研究者针对在政治、行政、专业或学术组织中占据关键决策位置、拥有排他性内部准入资格的高层行动者（如政府高级官员、政策顾问、智库负责人、学术领袖）所进行的深度[[Qualitative Interview\|质性访谈]]。该方法旨在探究政策文本背后的权力博弈、幕后协商、议程设置与隐性决策逻辑。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, p. 91)]]
+> 精英访谈（Elite Interview）是[[Qualitative Research\|质性研究]]与[[Policy Science in Comparative Education\|政策科学]]中的专门化访谈方法（Aberbach & Rockman, 2002; Berry, 2002），指研究者针对在政治、行政、专业或学术组织中占据关键决策位置、拥有排他性内部准入资格的高层行动者（如政府高级官员、政策顾问、智库负责人、学术领袖）所进行的深度[[Qualitative Interview\|质性访谈]]。该方法旨在探究政策文本背后的权力博弈、幕后协商、议程设置与隐性决策逻辑。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 91)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 占据关键决策职位的政治家、高级公务员、政策顾问、专业学会领袖与顶尖学者等关键知情人。
@@ -86,7 +86,7 @@ updated: 2026-10-16
 > - **输出形式** 决策动机主题、非正式协商网络图景、政策工具化因果机制模型与制度变迁微观解释。
 
 > [!citation-card]- 关键定义
-> 在教育政策研究中，精英访谈使研究者能够跨越公开官方文件的表象，深入探究那些直接参与政策塑造的行动者如何在适宜性逻辑、政治生存考量与专业证据之间展开权衡。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, p. 91)]]
+> 在教育政策研究中，精英访谈使研究者能够跨越公开官方文件的表象，深入探究那些直接参与政策塑造的行动者如何在适宜性逻辑、政治生存考量与专业证据之间展开权衡。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 91)]]
 >
 > *Elite interviewing allows researchers to probe the [[Accounts]] of key actors with inside access to the policy process, unpacking the implicit rationales that cannot be observed from published texts alone.*
 
@@ -141,7 +141,7 @@ updated: 2026-10-16
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 探究不透明或高度政治化的政策决策过程、非正式权力网络运作、改革方案的深层出台背景及行动者对制度环境的微观感知。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, p. 91)]]
+> - **适合使用** 探究不透明或高度政治化的政策决策过程、非正式权力网络运作、改革方案的深层出台背景及行动者对制度环境的微观感知。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 91)]]
 > - **谨慎使用** 受访者处于政治风口或高度敏感的职业审查期时，易产生较强的防备心理与公关修辞，需配合严格的匿名协议与交叉质证。
 > - **不适合使用** 评估政策在全人群中的平均干预效果或测量大样本微观行为频率分布。
 
@@ -173,6 +173,6 @@ updated: 2026-10-16
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]] — 对 20 位具备英格兰教育政策内部准入资格的高级官员、政府顾问与学者展开精英访谈，揭示了[[Evidence Era\|证据时代]]教师教育治理中政府守门与[[Policy-Based Evidence-Making\|逆向证据生产]]机制。
-> - [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013)]] — 结构化访谈全美及四州 111 位政策制定者、标准起草者、工会领袖与批评者，结合档案做[[Process Tracing|过程追踪]]，阐明[[Common Core State Standards|共同核心]]各阶段对研究证据与政治价值的整合。
+> - [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] — 对 20 位具备英格兰教育政策内部准入资格的高级官员、政府顾问与学者展开精英访谈，揭示了[[Evidence Era\|证据时代]]教师教育治理中政府守门与[[Policy-Based Evidence-Making\|逆向证据生产]]机制。
+> - [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] — 结构化访谈全美及四州 111 位政策制定者、标准起草者、工会领袖与批评者，结合档案做[[Process Tracing|过程追踪]]，阐明[[Common Core State Standards|共同核心]]各阶段对研究证据与政治价值的整合。
 

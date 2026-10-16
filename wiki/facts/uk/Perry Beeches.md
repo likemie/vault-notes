@@ -48,7 +48,7 @@ related_facts:
   - "[[Every Student Succeeds Act]]"
   - "[[Reach]]"
 related_arguments:
-  - "[[Argument_Slavin_2019_EP]]"
+  - "[[Argument_Slavin_2019_EducPsychol]]"
 confidence: high
 status: active
 created: 2026-09-17
@@ -62,7 +62,7 @@ updated: 2026-10-16
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **Perry Beeches（佩里比奇斯辅导项目，全称 Perry Beeches Coaching Programme）** 是由英国伯明翰著名的佩里比奇斯学院（Perry Beeches The Academy Trust）创设、由英国国家教育研究基金会（NFER）受英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）委托开展独立评估的小学升初中关键期助教一对一辅导方案；其核心战略是针对小学六年级（UK Year 6，约 10–11 岁）在毕业统考（Key Stage 2 SATS）中处于未达标风险边缘的学困生，由学校专职聘用的资深教学助教实施为期一学期的高频个性化一对一辅导，抢抓初中分流前的最后关键期。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> **Perry Beeches（佩里比奇斯辅导项目，全称 Perry Beeches Coaching Programme）** 是由英国伯明翰著名的佩里比奇斯学院（Perry Beeches The Academy Trust）创设、由英国国家教育研究基金会（NFER）受英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）委托开展独立评估的小学升初中关键期助教一对一辅导方案；其核心战略是针对小学六年级（UK Year 6，约 10–11 岁）在毕业统考（Key Stage 2 SATS）中处于未达标风险边缘的学困生，由学校专职聘用的资深教学助教实施为期一学期的高频个性化一对一辅导，抢抓初中分流前的最后关键期。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 2013 年获 EEF 重点资助启动多中心[[Randomised Controlled Trials\|随机对照试验]]，2015 年发布终期因果评估报告。
@@ -75,7 +75,7 @@ updated: 2026-10-16
 ## 方案设计与运行机制
 
 > [!claim] 核心干预假说
-> 教学助教在接受为期数周的强化教学教练培训后，对六年级学困儿童开展每周 3 次、每次 45 分钟的一对一针对性精读、词汇[[Decodification\|解码]]与阅读理解辅导，能够产生接近半个学年的额外学业增益，使学生平稳跨越升学门槛。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> 教学助教在接受为期数周的强化教学教练培训后，对六年级学困儿童开展每周 3 次、每次 45 分钟的一对一针对性精读、词汇[[Decodification\|解码]]与阅读理解辅导，能够产生接近半个学年的额外学业增益，使学生平稳跨越升学门槛。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 > [!policy-design] 方案设计与教学规程
 > - **全要素阅读结构整合** 辅导聚焦学生在统考中的薄弱题型，将长篇论说文段落分析、高级学术词汇拆解与解题应对应答紧密结合。
@@ -83,7 +83,7 @@ updated: 2026-10-16
 > - **校级[[School Inspection\|教学督导]]严格把关** 资深阅读学科主管每周抽检助教个案档案，动态调整辅导策略。
 
 > [!citation-card] 斯莱文论 Perry Beeches 助教辅导的稳健增益
-> 在初等阅读高年级（六年级）助教辅导中，Perry Beeches 方案在经过英国 [[Education Endowment Foundation\|EEF]] 严格的[[Randomised Controlled Trials\|随机对照试验]]评估[[Pre-test and Post-test\|后测]]得了 +0.36 的学业[[Effect Size\|效应量]]，完全达到了《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）强[[Evidence Standards\|证据标准]]。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> 在初等阅读高年级（六年级）助教辅导中，Perry Beeches 方案在经过英国 [[Education Endowment Foundation\|EEF]] 严格的[[Randomised Controlled Trials\|随机对照试验]]评估[[Pre-test and Post-test\|后测]]得了 +0.36 的学业[[Effect Size\|效应量]]，完全达到了《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）强[[Evidence Standards\|证据标准]]。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 >
 > *Tutoring provided by paraprofessionals in one-to-one formats was effective in Grade 6. Perry Beeches, evaluated in England, produced an effect size of +0.36, qualifying for the Strong rating under ESSA.*
 
@@ -94,7 +94,7 @@ updated: 2026-10-16
 > [!dev-timeline] Perry Beeches 发展历程
 > - **2013–2014 — NFER 独立整群[[Randomised Controlled Trials\|随机对照试验]]** 洛德等学者（Lord, Bradshaw, Stevens, & Styles, 2015）在英格兰数十所小学开展大规模多中心试验。
 > - **2015 — 独立评估报告发布** 试验表明干预组学生在毕业阅读统考中获得了平均 4 个月的额外净进步（[[Effect Size\|效应量]] $+0.36$），获 [[Education Endowment Foundation\|EEF]] 极高[[EEF Padlock Security Rating\|证据安全性评级]]。
-> - **2016–至今 — 确立为 [[Every Student Succeeds Act\|ESSA]] 强证据方案** 被斯莱文团队列入 Table 1，成为英美早期阅读循证干预的跨国经典案例。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> - **2016–至今 — 确立为 [[Every Student Succeeds Act\|ESSA]] 强证据方案** 被斯莱文团队列入 Table 1，成为英美早期阅读循证干预的跨国经典案例。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 ---
 
@@ -111,11 +111,11 @@ updated: 2026-10-16
 ## 成效评估与实证发现
 
 > [!finding-cards] 核心实证结论
-> - **显著的全国标准化因果[[Effect Size\|效应量]]** 在独立 [[Randomised Controlled Trials\|RCT]] 中测得平均 $+0.36$ 的显著阅读效应量（相当于额外多获得约 4 个月的学业进步），达 [[Every Student Succeeds Act\|ESSA]] 强证据最高评级。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> - **显著的全国标准化因果[[Effect Size\|效应量]]** 在独立 [[Randomised Controlled Trials\|RCT]] 中测得平均 $+0.36$ 的显著阅读效应量（相当于额外多获得约 4 个月的学业进步），达 [[Every Student Succeeds Act\|ESSA]] 强证据最高评级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 > - **对升学考试通过率的强力拉动** 评估显示，原本被预测极可能无法达到国家 KS2 达标线的学生中，超过半数在接受辅导后顺利达标。
 
 > [!stat-cards]- 关键实证数据
-> - **+0.36** 独立[[Cluster Randomized Trials\|整群随机试验]]测得的综合平均阅读效应量（$ES$），获 ESSA Strong 最高等级。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> - **+0.36** 独立[[Cluster Randomized Trials\|整群随机试验]]测得的综合平均阅读效应量（$ES$），获 ESSA Strong 最高等级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 > - **1:1** 师生辅导比。
 > - **4 个月** [[Education Endowment Foundation\|EEF]] 测算的学生相比[[Business as Usual\|常规对照组]]获得的额外净进步月数。
 
@@ -124,6 +124,6 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 Perry Beeches 列为初等阅读高年级 Tier 3 助教辅导代表性强证据方案。
+> - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 Perry Beeches 列为初等阅读高年级 Tier 3 助教辅导代表性强证据方案。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，展示如何依托助教在高年级升学节点筑牢最后防线。
 > - [[Reach]] — 同属英国 [[Education Endowment Foundation\|EEF]] 资助的小初衔接助教一对一阅读方案。

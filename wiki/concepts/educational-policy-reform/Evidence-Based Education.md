@@ -148,10 +148,10 @@ related_facts:
 related_arguments:
   - "[[Argument_Biesta_2010_SPE]]"
   - "[[Argument_Slavin_2002_ER]]"
-  - "[[Argument_Slavin_2019_EP]]"
+  - "[[Argument_Slavin_2019_EducPsychol]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
   - "[[Argument_Wiliam_2019_ERE]]"
-  - "[[Argument_Nelson_2017_ER]]"
+  - "[[Argument_Nelson_2017_EducRes]]"
   - "[[Argument_Manitius_vanHolt_2019_BzS]]"
   - "[[Argument_Zhao_2017_JEC]]"
   - "[[Argument_Cowen_2015_CHESS]]"
@@ -174,6 +174,7 @@ related_arguments:
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
   - "[[Argument_Sarbiewska_2019_JSR]]"
   - "[[Argument_Dedering_2009_EERJ]]"
+  - "[[Argument_Wecker_2016_ZfE]]"
 confidence: high
 status: active
 created: '2026-05-01'
@@ -191,7 +192,7 @@ updated: 2026-10-16
 
 > [!concept-lens] 概念透镜
 > - **含义** 专业决策和日常教学实践应基于系统性实证研究（尤其是 [[Randomised Controlled Trials\|RCT]] 实验和[[Systematic Review\|系统综述]]）产生的证据，而非传统或直觉。[[Argument_Slavin_2002_ER\|Slavin, 2002, pp. 15–16]]
-> - **用途** 推广经过严格科学检验的教育干预方案以提升教育系统的绩效，解决研究与实践脱节的问题。[[Argument_Slavin_2019_EP\|Slavin, 2019, pp. 5–6]]
+> - **用途** 推广经过严格科学检验的教育干预方案以提升教育系统的绩效，解决研究与实践脱节的问题。[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019, pp. 5–6]]
 > - **边界** 极易退化为追求"去情境化"的统计平均排行，在哲学上忽视受试者能动推理和教育价值反思。[[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, pp. 4, 7]]
 
 > [!boundary] 概念边界
@@ -220,7 +221,7 @@ updated: 2026-10-16
 > | **适用范围** | 标准化项目推广、系统清算、政策合规评估 | 教师日常教学改进、学校探究网络、课堂设计 | 教育目的论证、课程大纲与政治抉择 | 具备生理机制一致性的病患护理与药物开发 | 复杂的课堂交互、偶发性教育情境的应对 |
 
 > [!info] 邻近概念辨析
-> - **vs [[Evidence-Informed Practice]]** — 这是与 EBE 最紧密的邻近概念。EBE 将研究证据作为实践决策的核心依据；EIP 将证据定位为多种因素之一，由 [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]] 系统阐述。
+> - **vs [[Evidence-Informed Practice]]** — 这是与 EBE 最紧密的邻近概念。EBE 将研究证据作为实践决策的核心依据；EIP 将证据定位为多种因素之一，由 [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] 系统阐述。
 > - **vs 循证医学（Evidence-Based Medicine, EBM）** — 循证医学是 EBE 的直接起源与最强类比。但 [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] 指出，真实的循证医学高度强调个性化伦理关怀、专家临床经验和病患意愿，而教育学 EBE 常将医学简化为单一的药效 RCT 实验，抹杀了专业判断力。此外，医学 RCT 建立在丰富的因果机制理论之上，教育 RCT 往往是跳过机制的“黑箱测量”。德国教育学界在分析[[Knowledge Transfer|知识转移]]时进一步提出[[Ontology|本体论]]依据，批判将循证医学研究成果机械套用于教育领域是极不合理的（unplausibel）：医学研究对象（人体生理机制）通常具备较高的[[External Validity|可推广性]]（Generalisierbarkeit），而教育科学面对的是高度特殊、情境化且复杂的具体研究对象——教育实践（Bildungspraxis），这种复杂的本体论特征从根本上阻碍了简单的医学式类比与标准化推论。[[Argument_Manitius_vanHolt_2019_BzS\|(Manitius & van Holt, 2019, p. 11)]]
 > - **vs [[Local Knowledge in Evidence-Based Policy]]** — 本地知识是 EBE 实施中被忽视但不可或缺的互补性[[Source of Knowledge\|知识来源]]。
 > - **vs [[Side Effects]]** — [[Argument_Zhao_2017_JEC\|Zhao (2017)]] 论证 EBE 从医学借鉴了 RCT 却忽略了对副作用的系统性研究，效果与副作用是同一干预不可分离的双重结果。
@@ -243,7 +244,7 @@ updated: 2026-10-16
 1. **教育决策应基于关于"什么有效"的科学证据**
 
    > [!info] 政策建制与数量瓶颈
-   > [[Argument_Slavin_2019_EP\|Slavin (2019, pp. 5–6)]] 描述了 [[Every Student Succeeds Act\|ESSA]] [[Evidence Standards\|证据标准]]如何将此主张制度化——美国联邦政府要求接受特定拨款的学校必须选择至少一项符合"强证据"或"中等证据"标准的项目。但 [[Argument_Wiliam_2019_ERE\|Wiliam (2019, p. 2)]] 指出，即使接受 [[Randomised Controlled Trials\|RCT]] 是产生可靠知识的最佳方式，目前此类试验的数量如此之少，以至于它们无法为一系列重要问题提供有用的洞见，并引用 Slavin (1987, p. 347) 的质问："在我们知道一切之前我们真的什么都不知道吗？"
+   > [[Argument_Slavin_2019_EducPsychol\|Slavin (2019, pp. 5–6)]] 描述了 [[Every Student Succeeds Act\|ESSA]] [[Evidence Standards\|证据标准]]如何将此主张制度化——美国联邦政府要求接受特定拨款的学校必须选择至少一项符合"强证据"或"中等证据"标准的项目。但 [[Argument_Wiliam_2019_ERE\|Wiliam (2019, p. 2)]] 指出，即使接受 [[Randomised Controlled Trials\|RCT]] 是产生可靠知识的最佳方式，目前此类试验的数量如此之少，以至于它们无法为一系列重要问题提供有用的洞见，并引用 Slavin (1987, p. 347) 的质问："在我们知道一切之前我们真的什么都不知道吗？"
 
 2. **最可靠的证据产生于[[Experimental Research|实验研究]]，特别是随机对照试验（RCT）**
 
@@ -263,7 +264,7 @@ updated: 2026-10-16
 ---
 
 > [!claim] 核心方法论主张：RCT 是确立教育"什么有效"的黄金标准
-> 教育实践决策必须依赖于通过随机分配与控制[[Variable\|变量]]确立的实验证据，以排除外部偏误，证明干预项目的可复制效果。[[Argument_Slavin_2002_ER\|Slavin (2002, p. 15)]]; [[Argument_Slavin_2019_EP\|Slavin (2019, pp. 5–6)]].
+> 教育实践决策必须依赖于通过随机分配与控制[[Variable\|变量]]确立的实验证据，以排除外部偏误，证明干预项目的可复制效果。[[Argument_Slavin_2002_ER\|Slavin (2002, p. 15)]]; [[Argument_Slavin_2019_EducPsychol\|Slavin (2019, pp. 5–6)]].
 
 > [!warrant]- 支撑理由与反驳
 > 随机对照试验通过随机化将未测量的混淆变量均匀分配在干预组与对照组中，是目前社会科学确立因果推断[[Internal Validity\|内部效度]]最强大的工具，能防止因"相关性不等于因果性"导致的无效改革。[[Argument_Slavin_2002_ER\|Slavin (2002, pp. 15–16)]].
@@ -305,7 +306,7 @@ Fitz-Gibbon 同时指出，Anderson and Biddle（1991）已观察到政策制定
 
 > [!tension] 证据本位（evidence-based）vs. 证据知情（evidence-informed）
 > - **强版本：以 RCT 证据为核心依据** 专业人士只应被允许做有正面研究证据支持的事，RCT 证据作为实践决策的核心或唯一依据。
-> - **弱版本：证据作为信息之一** 证据与[[Professional Judgment\|专业判断]]、情境理解并列，教育者运用专业判断来整合证据，而非被证据驱动。[[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]] 明确站在 [[Evidence-Informed Practice\|EIP]] 一侧；[[Argument_Wiliam_2019_ERE\|Wiliam (2019)]] 将"教师是技术人员还是专业人员"定位为可检验的实证问题。
+> - **弱版本：证据作为信息之一** 证据与[[Professional Judgment\|专业判断]]、情境理解并列，教育者运用专业判断来整合证据，而非被证据驱动。[[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] 明确站在 [[Evidence-Informed Practice\|EIP]] 一侧；[[Argument_Wiliam_2019_ERE\|Wiliam (2019)]] 将"教师是技术人员还是专业人员"定位为可检验的实证问题。
 
 ---
 
@@ -341,7 +342,7 @@ Fitz-Gibbon 同时指出，Anderson and Biddle（1991）已观察到政策制定
 #### 实践转化的前提条件与评估框架
 
 > [!pathways] 证据知情实践的动员策略
-> [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]] 提出"肥沃土壤"隐喻（研究证据生根需要教育者准备度、评估技能、组织中介和实践—研究整合意识四大前提）和[[Knowledge Mobilisation\|知识动员]]四策略（传播、能力建设、伙伴关系、系统化支持）。
+> [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] 提出"肥沃土壤"隐喻（研究证据生根需要教育者准备度、评估技能、组织中介和实践—研究整合意识四大前提）和[[Knowledge Mobilisation\|知识动员]]四策略（传播、能力建设、伙伴关系、系统化支持）。
 >
 > [[Argument_Wiliam_2019_ERE\|Wiliam (2019)]] 补充了实践者的四个决策评估维度——问题匹配度、改进幅度、成本效益和本地适用性——以及 [[Argument_Blass_2020_JESP\|Blass (2020)]] 的五要素框架（方法论、情境、假设、领导力、时效性），构成 EBE 证据向实践转化的完整评估链。
 
@@ -465,34 +466,43 @@ Fitz-Gibbon 同时指出，Anderson and Biddle（1991）已观察到政策制定
 
 ## EBE 的改革与替代方案
 
-> [!tension] 改革与替代的两种路径
-> - **内部改革（从黑箱因果到[[Realist Evaluation\|现实主义试验]]与过程融合）** 接受 [[Randomised Controlled Trials\|RCT]] 作为因果识别基石，但深刻反思[[Business as Usual\|常态教学]]基线高企与商业干预微弱效应（平均 $d=0.06$）的方法学挑战：主张将量化试验与[[Implementation and Process Evaluation\|实施与过程评估]]（IPE）刚性绑定以区分实施失败与理论无效；倡导多臂[[Factorial Design\|析因设计]]与现实主义试验（Realist Trials）以探索因果中介机制；拓展研究[[School Choice\|学校选择]]（[[Quasi-Experimental Designs\|QED]]）与[[Teacher Choices\|教师选择]]微型试验以回应一线实践关切（[[Argument_Peterson_2016_IJRME\|Peterson, 2016]]；[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 53–57]]）。
-> - **[[Paradigm\|范式]]替代（从 EBE 到 [[Evidence-Informed Practice\|EIP]]）** 将证据从决策核心降为信息来源之一，把能动性从政策端重新分配给教师和学习者。方向从"什么有效"转向"什么对谁有效、通过什么方式、在什么情境下"（[[Argument_Pampaka_2016_IJRME\|Pampaka et al., 2016]]）。
+> [!tension] 改革与替代的理论与制度路径
+> - **内部方法学改革（从黑箱因果到[[Realist Evaluation\|现实主义试验]]与过程融合）** 接受 [[Randomised Controlled Trials\|RCT]] 作为因果识别基石，但深刻反思[[Business as Usual\|常态教学]]基线高企与商业干预微弱效应（平均 $d=0.06$）的方法学挑战：主张将量化试验与[[Implementation and Process Evaluation\|实施与过程评估]]（IPE）刚性绑定以区分实施失败与理论无效；倡导多臂[[Factorial Design\|析因设计]]与现实主义试验（Realist Trials）以探索因果中介机制；拓展研究[[School Choice\|学校选择]]（[[Quasi-Experimental Designs\|QED]]）与[[Teacher Choices\|教师选择]]微型试验以回应一线实践关切（[[Argument_Peterson_2016_IJRME\|Peterson, 2016]]；[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 53–57]]）。
+> - **范式替代（从 EBE 到 [[Evidence-Informed Practice\|EIP]]）** 将证据从决策核心降为信息来源之一，把能动性从政策端重新分配给教师和学习者。方向从“什么有效”转向“什么对谁有效、通过什么方式、在什么情境下”（[[Argument_Pampaka_2016_IJRME\|Pampaka et al., 2016]]）。
+> - **底层数据基础设施重构（建立中央标准化证据数据库与初级数据直接综合）** 克里斯托夫·韦克尔（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016, pp. 33–34]]）指出，EBE 运动依赖商业期刊发表的孤立元分析与二级汇总，存在严重的发表偏倚、方法学黑箱与数据不可复核性。真正的制度出路在于建立受公共资助、独立于商业利益的**中央初级研究与证据数据库（Zentrale evidenzbasierte Datenbank）**，收录完整的一级效应量原始统计参数；循证教育应终结对粗暴二级元分析的依赖，转向基于中央数据池对初级研究进行的单级多水平直接综合（One-stage direct synthesis），从根本上消除文献重叠与假性精确。
 
 > [!implication] 整合方向
-> 以实在论因果命题为出发点，运用[[Mixed Methods Research\|混合方法]]进行多方法跨情境验证，教师的[[Professional Judgment\|专业判断]]从证据的被动接受者上升为共同生产者（[[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019]]；[[Argument_Nelson_2017_ER\|Nelson & Campbell, 2017]]）。
+> 以实在论因果命题为出发点，运用[[Mixed Methods Research\|混合方法]]进行多方法跨情境验证，教师的[[Professional Judgment\|专业判断]]从证据的被动接受者上升为共同生产者（[[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019]]；[[Argument_Nelson_2017_EducRes\|Nelson & Campbell, 2017]]）。
 
 > [!warning] [[Conceptual, Instrumental, and Symbolic Use of Research\|象征性使用]]的系统证据
-> Hagevold 等（2026）对 109 项学校研究的[[Systematic Review\|系统综述]]显示，标准化证据本位实践在问责驱动的时代容易导致对研究证据的象征性使用，把新实践浅层叠加在传统思维方式之上；"什么有效"运动的假设（识别并传播有效干预本身就会带来有意义的实践变化）并未如愿实现。摆脱象征性使用需要经由信任、技能发展、可持续结构与关系四类跨层机制培育专业能动性，而非依靠工具性指令（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al., 2026, pp.1]], 17–18）。
+> Hagevold 等（2026）对 109 项学校研究的[[Systematic Review\|系统综述]]显示，标准化证据本位实践在问责驱动的时代容易导致对研究证据的象征性使用，把新实践浅层叠加在传统思维方式之上；“什么有效”运动的假设（识别并传播有效干预本身就会带来有意义的实践变化）并未如愿实现。摆脱象征性使用需要经由信任、技能发展、可持续结构与关系四类跨层机制培育专业能动性，而非依靠工具性指令（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al., 2026, pp.1]], 17–18）。
 
 ---
+
 ## 关键引用
 
-> [!citation-card]- [[Argument_Biesta_2010_SPE\|Biesta (2010, p. 491)]]
-> "The idea that professional practices such as education should be based upon or at least be informed by evidence continues to capture the imagination of many politicians, policy makers, practitioners and researchers."
+> [!citation-card] 证据本位教育的全球政策吸引力
+> 诸如教育等专业实践应当建立在证据之上或至少受其指导的理念，持续吸引着众多政治家、政策制定者、实践者和研究者的想象力。[[Argument_Biesta_2010_SPE|(Biesta, 2010, p. 491)]]
+>
+> *The idea that professional practices such as education should be based upon or at least be informed by evidence continues to capture the imagination of many politicians, policy makers, practitioners and researchers.*
 
+> [!citation-card] 实验因果识别与循证政策基石
+> 证据本位教育政策的核心是依赖随机分配和严格匹配实验作为政策和实践的基础，将可复制的教育项目和有前景的实践置于严格评估之下，仅推广那些被证明有效的干预方案。[[Argument_Slavin_2002_ER|(Slavin, 2002, p. 15)]]
+>
+> *Evidence-based education policy relies on randomized and rigorous matched experiments as the foundation for policy and practice.*
 
-> [!citation-card]- [[Argument_Slavin_2002_ER\|Slavin (2002, p. 15)]]
-> 证据本位教育政策是"依赖[[Random Assignment\|随机化]]和严格匹配实验作为政策和实践的基础"——将可复制的教育项目和有前景的实践置于严格评估之下，仅推广那些被证明有效的。
+> [!citation-card] 英国官方对合规循证来源的行政规训
+> 英国教育部明确将 Sutton Trust、EEF 和 John Hattie 列为官方核准的证据来源，同时排除了地方督导与议会报告，强调创新必须是建立在“什么有效以及为什么”的已有知识之上的被规训创新。[[Argument_Bainbridge_2022_ROE|(Bainbridge et al., 2022, p. 4)]]
 
-
-> [!citation-card]- Coldwell et al. (2017) — 英国官方定义
-> 英国教育部明确将 [[Sutton Trust]]、[[Education Endowment Foundation\|EEF]] 和 [[John Hattie]] 列为"approved"证据来源，同时排除了 [[Ofsted]] 报告和议会内部报告，强调创新必须是"被[[Disciplina and Doctrina\|规训]]的"（disciplined）——建立在"什么有效以及为什么"的已有知识之上([[Argument_Bainbridge_2022_ROE\|Bainbridge et al., 2022, p.4]])。
-
-> [!citation-card]- [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, p. 11)]] — 拒斥机械循证医学类比的[[Ontology|本体论]]依据
-> 将医学领域的研究成果简单套用于教育领域的转移活动是极不合理的——原因之一在于，医学领域的实证研究相比教育科学通常具备更高的[[External Validity|可推广性]]；而在教育科学中，教育实践这一高度特殊且复杂的具体研究对象，使得类似的推论与概括变得极其困难。
+> [!citation-card] 拒斥机械循证医学类比的本体论依据
+> 将医学领域的研究成果简单套用于教育领域的转移活动是极不合理的。原因之一在于，医学领域的实证研究相比教育科学通常具备更高的可推广性；而在教育科学中，教育实践这一高度特殊且复杂的具体研究对象，使得类似的推论与概括变得极其困难。[[Argument_Manitius_vanHolt_2019_BzS|(Manitius & van Holt, 2019, p. 11)]]
 >
 > *Gleichzeitig ist ein einfacher Übertrag von Erkenntnissen der Forschungen aus der Medizin auf Transferaktivitäten im Bildungsbereich unplausibel – unter anderem, weil Forschungen in der Medizin häufiger generalisierbar sind als in der Erziehungswissenschaft, wo der spezifische und komplexe Forschungsgegenstand Bildungspraxis analoge Generalisierungsmöglichkeiten erschwert.*
+
+> [!citation-card] 从可见实践走向有依据的实践：中央证据库倡议
+> 唯有建立数据完全公开透明、受公共资助的中央初级证据数据库，循证教育才能摆脱商业期刊发表偏倚与二阶粗暴汇总的误导。与其依赖充满文献重叠与方法学黑箱的二级元分析，不如在统一数据基础设施上直接开展一级初级研究的多水平证据综合，真正实现从“可见的实践”走向“有依据的实践”。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 33–34)]]
+>
+> *Von der sichtbaren zur fundierten Praxis bedarf es einer zentralen, öffentlich geförderten Datenbank für Primärstudien, die direkte Synthesen ermöglicht und die Abhängigkeit von undurchsichtigen Meta-Metaanalysen überwindet.*
 
 ---
 ## 应用案例

@@ -52,7 +52,7 @@ related_facts:
   - "[[Evidence for ESSA]]"
   - "[[Galaxy Math]]"
 related_arguments:
-  - "[[Argument_Slavin_2019_EP]]"
+  - "[[Argument_Slavin_2019_EducPsychol]]"
 confidence: high
 status: active
 created: 2026-09-17
@@ -66,7 +66,7 @@ updated: 2026-10-16
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **Tutor-Assisted Math [[Problem Solving]]（助教辅助数学问题解决，简称 TAMPS）** 是由范德堡大学（Vanderbilt University）林恩·富克斯（Lynn S. Fuchs）与[[Jack Douglas\|道格拉斯]]·富克斯（Douglas Fuchs）等知名特殊教育学者研发的小学三年级数学文字应用题 Tier 3 个别化干预方案；其核心目标是针对三年级在文字题理解与逻辑推理上面临严重障碍的高危儿童，由受训教学助教开展高度结构化的一对一认知基模策略辅导，阻断学困儿童在初等数学高阶认知任务上的学业失败。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> **Tutor-Assisted Math [[Problem Solving]]（助教辅助数学问题解决，简称 TAMPS）** 是由范德堡大学（Vanderbilt University）林恩·富克斯（Lynn S. Fuchs）与[[Jack Douglas\|道格拉斯]]·富克斯（Douglas Fuchs）等知名特殊教育学者研发的小学三年级数学文字应用题 Tier 3 个别化干预方案；其核心目标是针对三年级在文字题理解与逻辑推理上面临严重障碍的高危儿童，由受训教学助教开展高度结构化的一对一认知基模策略辅导，阻断学困儿童在初等数学高阶认知任务上的学业失败。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 研发始于 2000 年代中后期，受美国联邦教育部国家[[Institute of Education Sciences\|教育科学研究院]]（IES）重大[[Intervention Research\|干预研究]]资助，经多项随机试验检验后，其核心基模教学模式衍生并融入后续 [[Pirate Math]] 等方案。
@@ -79,7 +79,7 @@ updated: 2026-10-16
 ## 方案设计与运行机制
 
 > [!claim] 核心干预假说
-> 通过向教学助教提供显性脚本化教案，指导学困儿童系统识别合并（Combine）、比较（Compare）与变化（Change）三大核心语义基模，并运用代数符号将文字情境表征化为方程式，能够显著消除计算背景干扰，产生大幅超越常规补救教学的高额学业净增益。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> 通过向教学助教提供显性脚本化教案，指导学困儿童系统识别合并（Combine）、比较（Compare）与变化（Change）三大核心语义基模，并运用代数符号将文字情境表征化为方程式，能够显著消除计算背景干扰，产生大幅超越常规补救教学的高额学业净增益。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 > [!policy-design] 方案设计与教学规程
 > - **基模教学法（Schema-Based Instruction, SBI）规程**
@@ -89,7 +89,7 @@ updated: 2026-10-16
 > - **助教 1:1 密集递送** 教学助教接受 1–2 天集中培训，每周开展 3 次、每次 30 分钟的一对一个别化辅导，共持续 12–16 周。
 
 > [!citation-card] 斯莱文论 TAMPS 助教辅导的高额实证效能
-> 在初等数学应用题个别化辅导领域，助教辅导方案展现出极为惊人的因果效益。由教学助教针对三年级学困儿童开展的一对一 Tutor-Assisted Math [[Problem Solving]] 方案，在严格[[Randomised Controlled Trials\|随机对照试验]]中取得了高达 +0.42 的学业[[Effect Size\|效应量]]，完全达到了《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）的强[[Evidence Standards\|证据标准]]。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> 在初等数学应用题个别化辅导领域，助教辅导方案展现出极为惊人的因果效益。由教学助教针对三年级学困儿童开展的一对一 Tutor-Assisted Math [[Problem Solving]] 方案，在严格[[Randomised Controlled Trials\|随机对照试验]]中取得了高达 +0.42 的学业[[Effect Size\|效应量]]，完全达到了《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）的强[[Evidence Standards\|证据标准]]。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 >
 > *Tutor-Assisted Math Problem Solving, delivered by [[Teaching Assistant|Teaching Assistants]] to third graders in 1:1 sessions, produced an effect size of +0.42, qualifying for the Strong rating under ESSA.*
 
@@ -100,7 +100,7 @@ updated: 2026-10-16
 > [!dev-timeline] TAMPS 发展历程
 > - **2008–2010 — 方案研发与严谨 [[Randomised Controlled Trials\|RCT]] 验证** 范德堡大学 Fuchs 团队（Fuchs et al., 2008）在公立小学开展整群随机对照试验，测得 1.42$ 的显著因果[[Effect Size\|效应量]]，论文发表于应用心理学与教育学权威期刊。
 > - **2010–2015 — 迭代演化为主题化[[Pirate Math\|海盗数学]]** 团队在 TAMPS 严谨基模策略基础上，引入海盗寻宝[[Gamification\|游戏化]]情境包装，发展出后续广泛知名的 Pirate Math 方案。
-> - **2016–至今 — 确立为 [[Every Student Succeeds Act\|ESSA]] 强证据经典案例** 在斯莱文桑代克奖演说论著与 [[Evidence for ESSA]] 库中被正式收录为初等数学 Tier 3 助教辅导高成效的典范实证。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> - **2016–至今 — 确立为 [[Every Student Succeeds Act\|ESSA]] 强证据经典案例** 在斯莱文桑代克奖演说论著与 [[Evidence for ESSA]] 库中被正式收录为初等数学 Tier 3 助教辅导高成效的典范实证。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 ---
 
@@ -117,12 +117,12 @@ updated: 2026-10-16
 ## 成效评估与实证发现
 
 > [!finding-cards] 核心实证结论
-> - **卓越的标准化[[Problem Solving\|问题解决]][[Effect Size\|效应量]]** 在独立[[Randomised Controlled Trials\|随机对照试验]]中，接受辅导的学生在爱荷华基本技能测验（ITBS）应用题分测验与研究者独立标准化测验上取得了平均 1.42$ 的显著效应量，达到 [[Every Student Succeeds Act\|ESSA]] Strong 强证据等级。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> - **卓越的标准化[[Problem Solving\|问题解决]][[Effect Size\|效应量]]** 在独立[[Randomised Controlled Trials\|随机对照试验]]中，接受辅导的学生在爱荷华基本技能测验（ITBS）应用题分测验与研究者独立标准化测验上取得了平均 1.42$ 的显著效应量，达到 [[Every Student Succeeds Act\|ESSA]] Strong 强证据等级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 > - **打破[[Higher-Order Thinking Skills\|高阶思维]]只能由专任教师传授的迷思** 实证数据表明，通过高度结构化的基模教学脚本，非专业教学助教同样能够成功指导学生进行抽象概念表征转换与高阶逻辑推理。
 > - **显著的跨题型迁移效益** 追踪显示，学生不仅能熟练解决直接练习过的题型，在面对包含干扰信息和复合结构的迁移题目时，解题正确率同样显著优于常规控制组。
 
 > [!stat-cards]- 关键实证数据
-> - **+0.42** 随机对照试验测得的综合平均数学应用题效应量（$），获 ESSA 强证据最高评级。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> - **+0.42** 随机对照试验测得的综合平均数学应用题效应量（$），获 ESSA 强证据最高评级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 > - **1:1** 助教与学生个别化辅导。
 > - **3 年级** 重点干预学段。
 
@@ -131,7 +131,7 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 TAMPS 列为初等数学 Tier 3 助教个别辅导代表性强证据方案。
+> - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 TAMPS 列为初等数学 Tier 3 助教个别辅导代表性强证据方案。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，阐释如何依托高阶基模辅导在 Tier 3 阶段彻底阻断应用题学业失败。
 > - [[Pirate Math]] — TAMPS 的主题化演化形态，二者共享同源基模认知干预内核。
 > - [[Galaxy Math]] — 范德堡大学针对一年级基础运算的强证据助教方案，与 TAMPS 形成阶梯衔接。

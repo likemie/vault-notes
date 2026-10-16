@@ -51,11 +51,11 @@ related_facts:
   - "[[Title I of the Elementary and Secondary Education Act]]"
   - "[[Education Endowment Foundation]]"
 related_arguments:
-  - "[[Argument_Ginsberg_2024_EP]]"
+  - "[[Argument_Ginsberg_2024_EducPolicy]]"
 confidence: high
 status: stable
 created: 2026-09-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Education Resources Information Center
@@ -65,13 +65,13 @@ updated: 2026-10-15
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 教育资源信息中心（Education Resources Information Center, ERIC）是由美国联邦教育部（U.S. Department of Education）所属[[Institute of Education Sciences\|教育科学研究院]]（Institute of Education Sciences, IES）出资赞助并维护的国家级、公益性教育文献数字图书馆与检索系统，是全球规模最大、历史最悠久的教育学专业文献索引与全文存储枢纽。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, p. 171)]]
+> 教育资源信息中心（Education Resources Information Center, ERIC）是由美国联邦教育部（U.S. Department of Education）所属[[Institute of Education Sciences\|教育科学研究院]]（Institute of Education Sciences, IES）出资赞助并维护的国家级、公益性教育文献数字图书馆与检索系统，是全球规模最大、历史最悠久的教育学专业文献索引与全文存储枢纽。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, p. 171)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1964 年由美国联邦教育署（U.S. Office of Education）立项设立，作为肯尼迪与约翰逊政府“向贫困宣战”与《1965 年[[Elementary and Secondary Education Act of 1965\|初等与中等教育法]]》实施的配套信息基础设施，旨在集中整理并向全国开放未正式出版的教育科研报告、政府资助课题与课程实验材料。
 > - **总部地点 / 业务辐射** 总部设于美国华盛顿特区，依托数字化网络向全球研究者、政策制定者、中小学校长及教师提供完全免费开放的在线检索服务。
 > - **法人属性与经费基础** 属于美国联邦政府资助的公共数字文献服务实体，由联邦教育部 IES 提供全额财政预算拨款并向社会专业机构招标运维。
-> - **核心宗旨与法定职责** 搜集、筛选、索引并提供高质量教育研究与实践文献，打破学术期刊商业付费墙垄断，为[[Evidence-Based Education\|循证教育]]决策、[[Systematic Review\|系统综述]]与实践教学提供权威可溯源的文献基底。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, p. 171)]]
+> - **核心宗旨与法定职责** 搜集、筛选、索引并提供高质量教育研究与实践文献，打破学术期刊商业付费墙垄断，为[[Evidence-Based Education\|循证教育]]决策、[[Systematic Review\|系统综述]]与实践教学提供权威可溯源的文献基底。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, p. 171)]]
 
 ---
 
@@ -81,7 +81,7 @@ updated: 2026-10-15
 > - **1964–1970 年代 — 分散清算所网络奠基期** 初期采取分布式网络架构，在全美知名大学与科研机构设立十余个专业分科清算所（Clearinghouses，如阅读、初等教育、测试评价、高等教育等），负责分头采集并加工特定学科领域的学术文献与灰色报告。
 > - **1980–1990 年代 — 光盘索引向互联网检索转型** 引入计算机微缩胶片与光盘检索（CD-ROM），随后全面接入万维网，发布《ERIC 叙词表》（Thesaurus of ERIC Descriptors），成为[[International Education\|国际教育]]实证研究通用的受控标引规范。
 > - **2002–2004 年 — [[Institute of Education Sciences\|IES]] 成立与中央集权化重构** 随着美国通过《2002 年[[Education Sciences Reform Act 2002|教育科学改革法]]》设立 IES，联邦政府撤并了分散在各大学的 16 个专业清算所，将采购、编目与网络运维集中化，建立了统一管理的单点在线门户与更严格的同行评议文献遴选标准。
-> - **2015 年至今 — [[Every Student Succeeds Act\|ESSA]] 循证浪潮下的公共证据中枢** 作为免费公开的国家公共数字文献库，与 [[What Works Clearinghouse\|WWC]]、[[Evidence for ESSA]] 等专用证据分级平台相互补充，成为学区管理者与科研人员检索因果[[Experimental Research\|实验研究]]与全量证据体的基础平台。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, p. 171)]]
+> - **2015 年至今 — [[Every Student Succeeds Act\|ESSA]] 循证浪潮下的公共证据中枢** 作为免费公开的国家公共数字文献库，与 [[What Works Clearinghouse\|WWC]]、[[Evidence for ESSA]] 等专用证据分级平台相互补充，成为学区管理者与科研人员检索因果[[Experimental Research\|实验研究]]与全量证据体的基础平台。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, p. 171)]]
 
 ---
 
@@ -105,7 +105,7 @@ updated: 2026-10-15
 > - **全球最大教育文献索引库** 汇集超过 170 万条教育学领域文献书目记录，覆盖 1,000 余种主流教育同行评议学术期刊。
 > - **灰色文献与政府委托评估档案库** 系统保存美国各级政府、州教育厅、学区及第三方科研智库公开发布的非正式出版研究报告（ERIC Documents, ED），有效平抑学术[[Publication Bias\|发表偏倚]]。
 > - **《ERIC 叙词表》（Thesaurus of ERIC Descriptors）** 研制包含上万条教育学受控词汇的权威叙词系统，为全球教育信息分类、精准检索与知识图谱构建提供标准化语义基准。
-> - **公共证据检索基石** 作为美国唯一完全由联邦全额补贴、零商业门槛开放的[[Comprehensive Education|综合教育]]数据库，成为地方教育机构（LEA）在面对循证采购法定义务时最易获取的文献源。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, p. 171)]]
+> - **公共证据检索基石** 作为美国唯一完全由联邦全额补贴、零商业门槛开放的[[Comprehensive Education|综合教育]]数据库，成为地方教育机构（LEA）在面对循证采购法定义务时最易获取的文献源。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, p. 171)]]
 
 ---
 
@@ -116,7 +116,7 @@ updated: 2026-10-15
 > > [!axis] 通用文献索引 vs 专用证据分级清算
 > > 关于 ERIC 与 [[What Works Clearinghouse\|WWC]] / [[Evidence for ESSA]] 等专用证据平台职能定位的辨析。
 > >
-> > - **证据库广度优势（文献发现中枢）** [[Mark Ginsburg|金斯伯格]]等（[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024, p. 171]]）在审计学区 [[Title I of the Elementary and Secondary Education Act\|Title I]] 采购实践时，将 ERIC 与 WWC、Evidence for [[Every Student Succeeds Act\|ESSA]] 及 [[Education Endowment Foundation\|EEF]] 并列为 4 个核心检索来源。相比后三者只收录经过严格因果质评过滤的少数标准化项目，ERIC 能够提供跨越各细分学科与边缘形态的更广泛实证文献。
+> > - **证据库广度优势（文献发现中枢）** [[Mark Ginsburg|金斯伯格]]等（[[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024, p. 171]]）在审计学区 [[Title I of the Elementary and Secondary Education Act\|Title I]] 采购实践时，将 ERIC 与 WWC、Evidence for [[Every Student Succeeds Act\|ESSA]] 及 [[Education Endowment Foundation\|EEF]] 并列为 4 个核心检索来源。相比后三者只收录经过严格因果质评过滤的少数标准化项目，ERIC 能够提供跨越各细分学科与边缘形态的更广泛实证文献。
 > > - **证据评级缺位（实践筛选门槛高）** ERIC 本质上是[[Literature Search\|文献检索]]与索引系统，不提供类似 WWC 的因果[[Effect Size\|效应量]]、挂锁评级或 ESSA Tier I–IV 官方认证标志。一线中小学管理者若缺乏足够的科研素养，极难从数千篇相互冲突的检索结果中辨析研究设计的[[Internal Validity\|内部效度]]与偏倚风险。
 
 ---

@@ -71,7 +71,7 @@ related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
-  - "[[Argument_Ginsberg_2024_EP]]"
+  - "[[Argument_Ginsberg_2024_EducPolicy]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch13]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
 related_facts:
@@ -200,8 +200,8 @@ Schofield (1990) 精准刻画了这一分裂：对于一派，通过剥离情境
 > [!concept-lens] 政策执行生态下的因果结论外推异化
 > 探讨当法定循证要求进入地方教育采办场景时，证据结论如何在目标群体与学段错配中发生效度瓦解。
 
-> [!claim] [[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]]
-> **微观情境过度特异与学段供给空白诱发虚假外部概化** 在[[Evidence-Based Education\|循证教育]]政策落地中，教育干预的外部效度面临双重体制性破坏：其一是**证据情境迁移衰减（Transferability Decay）**，严格受控因果试验往往依托高度同质且狭窄的微观样本（如特定年级伴有特定障碍的儿童群体），其实施成效与干预人员的专门指导深度绑定，无法被自然外推至常规学校的全样本、其他学科或高低学段；其二是**跨学段降维推断（Cross-Grade Downgraded Inferences）**，当[[Educational Evidence Clearinghouses\|证据清算中心]]在某些学段面临严重的实证研究供给空白时，行政管理人员为满足法定合规要求，往往援引中学阶段的因果研究为小学阶段的同类采购提供依据，将未经验证的[[Heterogeneity\|异质性]]假设当作既定事实。这种在政策问责压力下发生的证据外推异化，实质上架空了因果实验所追求的外部概化保障。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, pp. 177–178)]]
+> [!claim] [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]]
+> **微观情境过度特异与学段供给空白诱发虚假外部概化** 在[[Evidence-Based Education\|循证教育]]政策落地中，教育干预的外部效度面临双重体制性破坏：其一是**证据情境迁移衰减（Transferability Decay）**，严格受控因果试验往往依托高度同质且狭窄的微观样本（如特定年级伴有特定障碍的儿童群体），其实施成效与干预人员的专门指导深度绑定，无法被自然外推至常规学校的全样本、其他学科或高低学段；其二是**跨学段降维推断（Cross-Grade Downgraded Inferences）**，当[[Educational Evidence Clearinghouses\|证据清算中心]]在某些学段面临严重的实证研究供给空白时，行政管理人员为满足法定合规要求，往往援引中学阶段的因果研究为小学阶段的同类采购提供依据，将未经验证的[[Heterogeneity\|异质性]]假设当作既定事实。这种在政策问责压力下发生的证据外推异化，实质上架空了因果实验所追求的外部概化保障。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 177–178)]]
 
 ---
 
@@ -224,7 +224,7 @@ Campbell and Stanley (1963)、Bracht and Glass (1968) 和 Lewis-Beck (1993) 建�
 > | **Creswell** | 选择 × 处理交互 | 受试者特征范围过窄（如仅限高动机自愿者）限制推广 |
 > | | 情境 × 处理交互 | 实验所在特殊学校环境（如特权资源学校）限制向薄弱校推广 |
 > | | 历史 × 处理交互 | 特定时空节点（如政策改革或疫情期）限制向其他历史时期推广 |
-> | **政策采办生态（[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024]]）** | 证据情境迁移衰减 | 针对极窄特殊亚群的因果有效性（如三年级数学障碍辅导）无法直接外推至常态全样本或其他学科 |
+> | **政策采办生态（[[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024]]）** | 证据情境迁移衰减 | 针对极窄特殊亚群的因果有效性（如三年级数学障碍辅导）无法直接外推至常态全样本或其他学科 |
 > | | 跨学段降维推断 | 目标学段实证研究空白导致将初中/高中结论强行套用于小学采购的虚假概化 |
 
 > [!challenges] [[Survey Research\|调查研究]]可推广性的三重独特威胁

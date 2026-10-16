@@ -65,10 +65,10 @@ related_facts:
   - "[[CREATES Project]]"
 related_arguments:
   - "[[Argument_Higgins_2016_ROE]]"
-  - "[[Argument_Simpson_2017_JEP]]"
+  - "[[Argument_Simpson_2017_JEdPolicy]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Snook_2009_NZJES]]"
-  - "[[Argument_Johnson_2023_CE]]"
+  - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Du_Yuan_2026_AIS]]"
 related_persons:
@@ -91,7 +91,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **家庭作业（Homework）** 指由学校教师布置、要求学生在校外非正规教学时段（通常在家中或课后辅导托管情境）独立或在成人支持下完成的学术性学习任务。在实证教育研究中，家庭作业被普遍假设为延伸课堂学习时间、巩固学科知识技能以及发展学生[[Self-Regulated Learning\|自主调节学习]]习惯的核心教学干预。然而，由于该术语在不同历史时期、不同国家学制及不同实证研究中涵盖了[[Heterogeneity\|异质性]]极高的活动形态，使得关于其有效性的[[Meta-analysis\|元分析]]聚合长期陷入“苹果与橙子”的[[Construct\|构念]]混淆困境。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, pp. 37–38)]]; [[Argument_Simpson_2017_JEP\|(Simpson, 2017, p. 7)]]
+> **家庭作业（Homework）** 指由学校教师布置、要求学生在校外非正规教学时段（通常在家中或课后辅导托管情境）独立或在成人支持下完成的学术性学习任务。在实证教育研究中，家庭作业被普遍假设为延伸课堂学习时间、巩固学科知识技能以及发展学生[[Self-Regulated Learning\|自主调节学习]]习惯的核心教学干预。然而，由于该术语在不同历史时期、不同国家学制及不同实证研究中涵盖了[[Heterogeneity\|异质性]]极高的活动形态，使得关于其有效性的[[Meta-analysis\|元分析]]聚合长期陷入“苹果与橙子”的[[Construct\|构念]]混淆困境。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, pp. 37–38)]]; [[Argument_Simpson_2017_JEdPolicy\|(Simpson, 2017, p. 7)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向连接学校正规教学与家庭私人空间的学习中介任务，承担着知识巩固、预习铺垫、习惯养成与学业诊断的多重功能。
@@ -116,7 +116,7 @@ updated: 2026-10-16
 > | **效应评估属性** | **干预效果（Intervention Effect）**<br>实验组布置作业 vs 对照组不布置作业 | **相关效果（Correlational Effect）**<br>自然状态下完成作业时长与考分的统计相关 | 前者回答作业能否导致学业提升，后者极易混杂学生初始智力、家庭背景与学业动机（做更多作业的优等生原本成绩就更好），两种[[Effect Size\|效应量]]不可混为一谈。 | [[Argument_Higgins_2016_ROE\|Higgins (2016, p. 44)]] |
 > | **认知发展阶段** | **小学家庭作业（Primary Homework）**<br>以行为习惯、阅读兴趣与规则适应为主 | **中学家庭作业（Secondary Homework）**<br>以学科深度理解、长时记忆提取与独立探究为主 | 小学生[[Metacognition\|元认知监控]]与[[Working Memory\|工作记忆]]有限，过度作业收益微弱且易诱发家庭冲突；中学生具备[[Learner Autonomy\|自主学习]]策略，作业带来实质学业附加值。 | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]; [[EEF Teaching and Learning Toolkit\|EEF Toolkit]] |
 > | **[[Feedback\|教学反馈]]机制** | **逐本细致批改（Marking Books）**<br>教师在每本作业上逐一核查、打分并手写批语 | **全班集中反馈（Whole-Class Feedback）**<br>快速通览识别共性漏洞，课堂针对性点拨重构 | 逐本批改耗费巨量非教学时间但循证学业收益微弱；全班集中反馈大幅解放教师精力，在短周期内实现更高教学诊断效能。 | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021, p. 56)]] |
-> | **[[Meta-analysis\|元分析]]比较基线** | **有作业 vs 无作业（Baseline A）**<br>绝对干预有无对比 | **丰富拓展作业 vs 常规作业（Baseline B）**<br>不同作业质量或批改密度的相对对比 | 元分析若将 Baseline A 与 Baseline B 粗暴合并，会导致某些研究的处理条件在另一些研究中沦为对照基准，彻底瓦解[[Counterfactual\|反事实]]有效性。 | [[Argument_Simpson_2017_JEP\|Simpson (2017, p. 7)]] |
+> | **[[Meta-analysis\|元分析]]比较基线** | **有作业 vs 无作业（Baseline A）**<br>绝对干预有无对比 | **丰富拓展作业 vs 常规作业（Baseline B）**<br>不同作业质量或批改密度的相对对比 | 元分析若将 Baseline A 与 Baseline B 粗暴合并，会导致某些研究的处理条件在另一些研究中沦为对照基准，彻底瓦解[[Counterfactual\|反事实]]有效性。 | [[Argument_Simpson_2017_JEdPolicy\|Simpson (2017, p. 7)]] |
 
 ---
 
@@ -153,12 +153,12 @@ updated: 2026-10-16
 > [!concept-lens] 宏观合成的[[Construct|构念]]模糊性与算法不透明性
 > 将[[Heterogeneity|异质性]]极高的一级研究通过隐匿数学公式的简单算术平均粗暴合并，不仅掩盖了[[Sample Size Determination|样本量]]差异与学段鸿沟，更制造出缺乏实践指导意义的方法学泡沫。
 
-> [!claim] [[Argument_Johnson_2023_CE|Johnson and Janzen (2023, pp. 25–27)]]; [[Argument_Higgins_2016_ROE|Higgins (2016, pp. 37–38)]]; [[Argument_Terhart_2011_JCS|Terhart (2011, p. 427)]]
+> [!claim] [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023, pp. 25–27)]]; [[Argument_Higgins_2016_ROE|Higgins (2016, pp. 37–38)]]; [[Argument_Terhart_2011_JCS|Terhart (2011, p. 427)]]
 > **总体平均效应量 $d = 0.29$ 的算法解构与实质偏误** [[John Hattie|约翰·哈蒂]]（John Hattie）在其[[Visible Learning|可见的学习]][[Meta-meta-analysis|元综合]]中声称汇总了 5 项作业[[Meta-analysis|元分析]]（涵盖 161 项研究与逾 10 万名学生），得出总体合并效应量 $d = 0.29$（全书排名第 88 位，处于所谓的“教师常态效应区”），常被决策者援引为家庭作业总体处于平庸低效区的实证铁证。然而方法学法医核查与批判解构揭示：
-> 1. **隐匿公式与简单算术平均法医逆向（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）** 哈蒂在正文中只字未提元-元分析的核心计算公式。核查附录 A 的元分析总表可知，其纳入的 5 项一级作业元分析报告的 Cohen's $d$ 分别为：$0.36$、$0.21$、$0.39$、$0.21$、$0.28$。哈蒂正是将这 5 个数值直接相加后除以 5，得出 $d = 0.29$：
+> 1. **隐匿公式与简单算术平均法医逆向（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）** 哈蒂在正文中只字未提元-元分析的核心计算公式。核查附录 A 的元分析总表可知，其纳入的 5 项一级作业元分析报告的 Cohen's $d$ 分别为：$0.36$、$0.21$、$0.39$、$0.21$、$0.28$。哈蒂正是将这 5 个数值直接相加后除以 5，得出 $d = 0.29$：
 >    $$d = \frac{0.36 + 0.21 + 0.39 + 0.21 + 0.28}{5} = 0.29$$
 >    这 5 项元分析各自包含的研究数量介于 15 项到 77 项之间，被试规模极其悬殊；但计算完全无视被试量与方差反比加权原则，赋予样本量差异巨大的文献完全相同的权重，违背了元分析最基础的统计学规范。
-> 2. **单一均值对学段断层的致命抹杀（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）** 笼统合并的单一均值抹杀了关键学段差异：小学生作业效应量仅为 $d = 0.15$，而高中生作业效应量高达 $d = 0.64$。若将高中作业单独列出，其可跃居全书第 17 位的高效行列；全书第 88 位的笼统低排名，极易诱导政策制定者全盘贬低作业价值，或反向在小学阶段盲目推行无效的机械作业。此外，哈蒂宣称的 $d = 0.40$“[[Zone of Desired Effects|期望效应区分水岭]]（Zone of Desired Effects）”，并无任何客观测量学基准，纯粹是全书 138 个影响因素的简单算术均值产物。
+> 2. **单一均值对学段断层的致命抹杀（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）** 笼统合并的单一均值抹杀了关键学段差异：小学生作业效应量仅为 $d = 0.15$，而高中生作业效应量高达 $d = 0.64$。若将高中作业单独列出，其可跃居全书第 17 位的高效行列；全书第 88 位的笼统低排名，极易诱导政策制定者全盘贬低作业价值，或反向在小学阶段盲目推行无效的机械作业。此外，哈蒂宣称的 $d = 0.40$“[[Zone of Desired Effects|期望效应区分水岭]]（Zone of Desired Effects）”，并无任何客观测量学基准，纯粹是全书 138 个影响因素的简单算术均值产物。
 > 3. **实质影响的微弱性与身高类比（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）** 埃瓦尔德·特哈特（Ewald Terhart）通过统计具象化指出，$d = 0.29$ 在身高类比中仅相当于 180cm 与 182cm 之间的细微差别；在纳入的 161 项研究中，有多达 35% 显示出中性或负向效应；若在 100 个此前没有作业的常态班级中引入作业，仅有 21 个班级能够观察到学生成绩的实质提升。
 > 4. **苹果与橙子的构念混淆（[[Argument_Higgins_2016_ROE|Higgins, 2016]]）** [[Steve Higgins|史蒂夫·希金斯]]（Steve Higgins）指出，元分析将五岁儿童亲子共读、中学生备考复习、单词[[Rote Learning|死记硬背]]以及校内作业俱乐部等截然不同的活动粗暴拼盘，得出“作业有效”并不能为一线教师提供任何具体的实践指南；脱离任务类型、指导密度、时长上限与学科特征的抽象数字，反而制造了教条化的政策执念。
 
@@ -177,7 +177,7 @@ updated: 2026-10-16
 > [!concept-lens] [[Causality|因果推断]]的方法论基线混淆
 > 元分析中不同研究对照基线的非同质性，会导致处理条件与对照条件发生逻辑倒错，瓦解[[Counterfactual|反事实]]有效性。
 
-> [!claim] [[Argument_Simpson_2017_JEP|Simpson (2017, pp. 5–7)]]
+> [!claim] [[Argument_Simpson_2017_JEdPolicy|Simpson (2017, pp. 5–7)]]
 > **对照组生态混淆与条件倒错** [[Adrian Simpson|阿德里安·辛普森]]（Adrian Simpson）以经典家庭作业元分析（如 Paschal, Weinstein & Walberg, 1984）为例，尖锐指出了元分析因果推断中的基线坍塌：
 > 1. **控制基线的异质性拼合** 原始实证文献中存在截然不同的比较架构：部分研究对比“布置作业 vs 完全不布置作业”，另一些研究对比“布置富含探究特征的丰富作业 vs 照本宣科的常规作业”，还有研究对比“教师全额批改作业 vs 随机抽批一半作业”。
 > 2. **条件倒错与意义丧失** 当元分析将这些研究合流计算单一效应量时，某些研究中被视为“处理条件（Treatment）”的[[Independent Variable|自变量]]状态（如常规普通作业），在另一项研究中却充当着“对照条件（Control）”。这种混杂使计算出的平均效应量丧失了明确的[[Counterfactual|反事实]]物理意义，严重误导了教育干预的因果归因。
@@ -213,9 +213,9 @@ updated: 2026-10-16
 > - **20 世纪初至中叶 — [[Disciplina and Doctrina|规训]]心智操练论与惩罚工具** 家庭作业长期被视作训练儿童意志力、服从权威与惩治违纪的道德惩戒手段，缺乏明确的认知建构设计。
 > - **冷战与 1960 年代 — [[Competitiveness|国家竞争力]]与学科知识强化** 随着人造卫星危机（[[Sputnik Shock 1957|Sputnik]] Crisis）爆发，家庭作业被迅速政治化，演变为提升数学与科学国家学术竞争力的硬性教学指标。
 > - **1980–2000 年代初 — 早期量化[[Meta-analysis|元分析]]与“越多越好”迷思** 随着教育实证量化兴起，哈里斯·库珀（Harris Cooper）与沃尔伯格（Walberg）等团队开展第一代元分析，确立了作业量与[[Academic Achievement|学业成绩]]的正相关，但在实践中催生了机械刷题与作业过量的功利倾向。
-> - **2000 年代末至 2010 年代中 — [[Meta-meta-analysis|元综合]]反思与[[Construct|构念]][[Heterogeneity|异质性]]批判** [[John Hattie|约翰·哈蒂]]（John Hattie）发布元综合（$d = 0.29$）后，学界掀起对平均[[Effect Size|效应量]]的方法学大反思：特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）揭示 21% 班级提分的微弱实质；斯努克等（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）确立小学与中学学段断层；希金斯（[[Argument_Higgins_2016_ROE|Higgins, 2016]]）与辛普森（[[Argument_Simpson_2017_JEP|Simpson, 2017]]）系统批判“苹果与橙子”构念混淆及基线不对等性。
+> - **2000 年代末至 2010 年代中 — [[Meta-meta-analysis|元综合]]反思与[[Construct|构念]][[Heterogeneity|异质性]]批判** [[John Hattie|约翰·哈蒂]]（John Hattie）发布元综合（$d = 0.29$）后，学界掀起对平均[[Effect Size|效应量]]的方法学大反思：特哈特（[[Argument_Terhart_2011_JCS|Terhart, 2011]]）揭示 21% 班级提分的微弱实质；斯努克等（[[Argument_Snook_2009_NZJES|Snook et al., 2009]]）确立小学与中学学段断层；希金斯（[[Argument_Higgins_2016_ROE|Higgins, 2016]]）与辛普森（[[Argument_Simpson_2017_JEdPolicy|Simpson, 2017]]）系统批判“苹果与橙子”构念混淆及基线不对等性。
 > - **2018 年至今 — 因果循证时代教师微观决策与微型试验转向** [[Education Endowment Foundation|EEF]] 在 2018 年审议资助机制时，推动因果研究从宏观外部商业项目走向“教师微观选择（[[Teacher Choices]]）”，针对“逐本批改 vs 全班集中反馈”等日常作业反馈决策，探索被试内微型试验与形成性诊断支持。[[Argument_Edovald_Nevill_2021_ECNUROE|(Edovald & Nevill, 2021, p. 56)]]
-> - **2023 — 算法法医核查与无加权简单平均黑箱解构** [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]] 对哈蒂元-元分析展开统计算法还原，揭示其 $d=0.29$ 仅是 5 项元分析的无加权简单算术平均，无视 15 至 77 项研究的[[Sample Size Determination|样本量]]权重鸿沟，并以单一均值抹杀高中作业（$d=0.64$）与小学作业（$d=0.15$）的学段分水岭（pp. 25–27）。
+> - **2023 — 算法法医核查与无加权简单平均黑箱解构** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] 对哈蒂元-元分析展开统计算法还原，揭示其 $d=0.29$ 仅是 5 项元分析的无加权简单算术平均，无视 15 至 77 项研究的[[Sample Size Determination|样本量]]权重鸿沟，并以单一均值抹杀高中作业（$d=0.64$）与小学作业（$d=0.15$）的学段分水岭（pp. 25–27）。
 > - **2026 — 智能时代作业[[Paradigm|范式]]危机与可恢复性考评转向** [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] 揭示大语言模型一键交付功能导致传统静态成品作业效度坍塌，诊断“唯成品论”考评如何诱导学生剥离中间认识动作，倡导将作业重心前移至全流程思维追踪、对抗性质询日志与脱离工具后的独立推导可恢复性测试。
 
 ---
@@ -258,7 +258,7 @@ updated: 2026-10-16
 > |---|---|---|---|---|---|---|
 > | [[Argument_Higgins_2016_ROE\|Higgins (2016)]]（引述 Hattie, 2009） | 教学干预：家庭作业对[[Academic Achievement\|学业成绩]]的综合促进效应 | 涵盖 5 项元分析与 161 项原始研究 | Cohen's $d$ / 随机效应模型 | $d = 0.29$ | 处于教师常态效应区（$0.15 \sim 0.40$） | 粗放合并各类活动形态，掩盖了巨大内部方差；35% 原始研究呈中性或负效应 |
 > | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 教学干预：学段对家庭作业学业效应的调节比较 | Hattie 数据集学段亚组 | Cohen's $d$ | 小学 $d = 0.15$；中学 $d = 0.64$ | 组间差异极其显著 | 证实作业效益在不同学段具有质的分野，平均值会掩盖高中作业的高价值与小学作业的低产出 |
-> | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]]（核查 Hattie 2009） | [[Meta-meta-analysis\|元-元分析]]算法逆向还原：5 项作业元分析的简单算术平均 | 5 项元分析 / 161 项研究 / 逾 10 万名被试 | 简单算术平均与权重均等化 | $d = 0.29$（5 个 $d$ 值直接求和除以 5） | 5 项元分析 $d$ 值分别为 $0.36, 0.21, 0.39, 0.21, 0.28$；研究数介于 15 至 77 项 | 证实[[John Hattie\|哈蒂]]隐匿公式并违背方差反比加权原则，以简单算术平均抹杀[[Sample Size Determination\|样本量]]差异与学段鸿沟 |
+> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]（核查 Hattie 2009） | [[Meta-meta-analysis\|元-元分析]]算法逆向还原：5 项作业元分析的简单算术平均 | 5 项元分析 / 161 项研究 / 逾 10 万名被试 | 简单算术平均与权重均等化 | $d = 0.29$（5 个 $d$ 值直接求和除以 5） | 5 项元分析 $d$ 值分别为 $0.36, 0.21, 0.39, 0.21, 0.28$；研究数介于 15 至 77 项 | 证实[[John Hattie\|哈蒂]]隐匿公式并违背方差反比加权原则，以简单算术平均抹杀[[Sample Size Determination\|样本量]]差异与学段鸿沟 |
 
 > [!ref-table]- 循证清算与微观试验实证结果
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
@@ -277,7 +277,7 @@ updated: 2026-10-16
 本条目所依托的家庭作业实证解构与方法学反思的关键引文如下。
 
 > [!citation-card] 作业[[Meta-analysis|元分析]]中的无加权简单平均与[[Sample Size Determination|样本量]]抹杀
-> [[John Hattie|哈蒂]]在附录中列出的 5 项作业元分析各自包含 15 到 77 项研究，但他在计算时却将包含 15 项研究的文献与包含 77 项研究的文献赋予了完全相同的权重。这种直接相加求平均（$d=0.29$）的算法不仅完全隐匿在正文之外，更彻底抹杀了小学生的低效应（$d=0.15$）与高中生的高效应（$d=0.64$）之间的真实分水岭。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 25–26)]]
+> [[John Hattie|哈蒂]]在附录中列出的 5 项作业元分析各自包含 15 到 77 项研究，但他在计算时却将包含 15 项研究的文献与包含 77 项研究的文献赋予了完全相同的权重。这种直接相加求平均（$d=0.29$）的算法不仅完全隐匿在正文之外，更彻底抹杀了小学生的低效应（$d=0.15$）与高中生的高效应（$d=0.64$）之间的真实分水岭。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 25–26)]]
 >
 > *The five homework meta-analyses listed in Hattie’s appendix contained between 15 and 77 studies, yet his calculation assigned identical weight to a meta-analysis of 15 studies and one of 77 studies. This unweighted simple average (d=0.29), entirely concealed from the main text, obliterated the profound division between primary school homework (d=0.15) and secondary school homework (d=0.64).*
 
@@ -298,11 +298,11 @@ updated: 2026-10-16
 本 vault 中针对家庭作业的[[Effect Size|效应量]]争议、学段机制、反馈路径与 AI 重构展开实证考察的核心文献如下。
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]] — 还原[[John Hattie|哈蒂]]《[[Visible Learning|可见的学习]]》作业效应量计算公式，证实其采用简单算术平均（$d=0.29$）掩盖[[Sample Size Determination|样本量]]权重与高中作业（$d=0.64$）与小学作业（$d=0.15$）的巨大鸿沟（pp. 25–27）。
+> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 还原[[John Hattie|哈蒂]]《[[Visible Learning|可见的学习]]》作业效应量计算公式，证实其采用简单算术平均（$d=0.29$）掩盖[[Sample Size Determination|样本量]]权重与高中作业（$d=0.64$）与小学作业（$d=0.15$）的巨大鸿沟（pp. 25–27）。
 > - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 系统批判家庭作业在实证研究中的定义模糊性与“苹果和橙子”[[Construct|构念]]混淆，剖析干预效果与相关效果的本质区别（pp. 37–38, 44）。
 > - [[Argument_Snook_2009_NZJES|Snook et al. (2009)]] — 解构家庭作业的学段断层（小学 $d = 0.15$ vs 中学 $d = 0.64$），警示单一合并效应量对教育决策与教学实践的严重误导（p. 97）。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 通过身高类比与 21% 班级提分概率换算，具象化解构 Hattie $d = 0.29$ 效应量背后的真实微弱性与 35% 负面/中性研究事实（p. 427）。
-> - [[Argument_Simpson_2017_JEP|Simpson (2017)]] — 深入揭示不同家庭作业[[Meta-analysis|元分析]]中对照组基线定义的混乱倒错，论证基线不对等性对合成因果效应量的破坏（pp. 5–7）。
+> - [[Argument_Simpson_2017_JEdPolicy|Simpson (2017)]] — 深入揭示不同家庭作业[[Meta-analysis|元分析]]中对照组基线定义的混乱倒错，论证基线不对等性对合成因果效应量的破坏（pp. 5–7）。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE|Edovald and Nevill (2021)]] — 记录英国 [[Education Endowment Foundation|EEF]] 启动的“[[Teacher Choices|教师选择]]”新型微型试验，探索以全班集中反馈替代教师逐本逐页批改作业的微观因果实证（p. 56）。
 > - [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] — 阐明[[Generative Artificial Intelligence|生成式人工智能]]对静态成品作业的颠覆性冲击，提出向全流程思维追踪、反思决策日志与无技术迁移测试转型的作业重构方案。
 
@@ -321,7 +321,7 @@ updated: 2026-10-16
 > | [[Class Size]] | 政策对照 | 与班级规模同为被《[[Visible Learning\|可见的学习]]》高度关注却被简单平均扭曲解释的核心[[Variable\|变量]]。 |
 > | [[Epistemic Agency\|认识主体性]] | 评价危机 | 唯成品作业导致学生直接向算法委托认知动作，剥夺了自主负责的认识主体性。 |
 > | [[Epistemic Friction\|思维摩擦]] | 认知机理 | 过程性作业设计通过对抗查错与思维日志，强行保留必要的思维摩擦。 |
-> | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] | 算法解构 | 提供隐藏公式还原与简单算术平均法医核查，证实[[Sample Size Determination\|样本量]]权重被粗暴抹杀。 |
+> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 算法解构 | 提供隐藏公式还原与简单算术平均法医核查，证实[[Sample Size Determination\|样本量]]权重被粗暴抹杀。 |
 > | [[Argument_Higgins_2016_ROE\|Higgins (2016)]] | [[Construct\|构念]]批判 | 揭露家庭作业元分析中将异质活动粗暴合并的“苹果与橙子”构念混淆。 |
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] | 实践试验 | 记录全班集中反馈替代逐本批改内卷的教师微观因果试验。 |
 > | [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] | 智能重构 | 揭示大模型导致成品作业效度崩塌，主张转向可恢复性与过程思维考核。 |

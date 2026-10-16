@@ -82,8 +82,8 @@ related_arguments:
   - "[[Argument_Ross_Morrison_2021_ECNUROE]]"
   - "[[Argument_Edmondson_2005_EPAA]]"
   - "[[Argument_Eisenhart_Towne_2003_ER]]"
-  - "[[Argument_Slavin_2019_EP]]"
-  - "[[Argument_Serpell_2020_EP]]"
+  - "[[Argument_Slavin_2019_EducPsychol]]"
+  - "[[Argument_Serpell_2020_EducPsychol]]"
   - "[[Argument_Revai_2022_ChangingLandscape]]"
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
 confidence: high
@@ -142,7 +142,7 @@ updated: 2026-10-16
 > - **法定立法源流与术语演变（Statutory Lineage & Term Evolution）** 该标准的成文法表述源自 1998 年《[[Reading Excellence Act|卓越阅读法案]]》在国会参众两院的立法博弈：众议院初版曾试图推行更为狭隘的“可靠且可复制的研究”（Reliable, replicable research），后在参议院经专业组织游说与多方妥协，正式确立为“科学本位阅读研究”（Scientifically based reading research, SBRR），并为后续 [[No Child Left Behind Act 2001|NCLB]] 的通盘移植提供了标准法律文本模板。[[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4–5)]]
 > - **程序系统性与客观性（Rigorous & Objective Procedures）** 要求研究采用严密的经验证据收集与量化分析技术，确保研究结论具备可重复性与跨情境统计效度。[[Argument_Slavin_2002_ER\|(Slavin, 2002, p. 16)]]
 > - **实验[[Causality\|因果推断]]偏好（Preference for Experimental Designs）** 在法典中明确确立了因果推断方法学等级，优先资助和采纳采用[[Random Assignment\|随机分配]]实验与[[Pre-test and Post-test\|前测]]对照准实验的方案。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, p. 109)]]
-> - **联邦财政资助准入杠杆（Statutory Funding Leverage）** 将符合 SBR 标准作为学区获取 [[Title I of the Elementary and Secondary Education Act\|Title I]] 补偿教育资助、阅读优先计划（Reading First）等数百亿美元联邦专项拨款的法定义务。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 22–24)]]
+> - **联邦财政资助准入杠杆（Statutory Funding Leverage）** 将符合 SBR 标准作为学区获取 [[Title I of the Elementary and Secondary Education Act\|Title I]] 补偿教育资助、阅读优先计划（Reading First）等数百亿美元联邦专项拨款的法定义务。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–24)]]
 > - **抽象原理掩护漏洞（Theoretical Principle Shielding）** 因缺乏对具体方案的独立实证审查，厂商与开发者普遍借用流体力学式的基础心理学原理作为包装，导致低效方案轻易通过合规审查。[[Argument_Slavin_2002_ER\|(Slavin, 2002, pp. 18–19)]]
 
 > [!logic-map]- 科学本位研究规制逻辑与异化传导图
@@ -166,8 +166,8 @@ updated: 2026-10-16
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **评估对象错位命题** | 抽象科学原理包装无法替代具体干预项目在真实课堂的因果实证检验 | 教育项目采购、循证准入审核、干预方案设计 | [[Argument_Slavin_2002_ER\|Slavin (2002, pp. 18–19)]] |
-> | **研发管线脱节命题** | 法定证据口号若缺乏公共研发基础设施与存量支撑则易沦为空洞符号 | 国家科研资助、智库建设、中介平台运营 | [[Argument_Slavin_2019_EP\|Slavin (2019, pp. 22–24)]] |
-> | **规制反噬异化命题** | 死板的[[Technical Rationality\|技术理性]]指标规制必然引发自上而下的教学异化与治理危机 | 高利害问责政策评估、[[Performance Pay\|绩效工资]]改革、行政规章制定 | [[Argument_Serpell_2020_EP\|Serpell (2020, pp. 41–42)]] |
+> | **研发管线脱节命题** | 法定证据口号若缺乏公共研发基础设施与存量支撑则易沦为空洞符号 | 国家科研资助、智库建设、中介平台运营 | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019, pp. 22–24)]] |
+> | **规制反噬异化命题** | 死板的[[Technical Rationality\|技术理性]]指标规制必然引发自上而下的教学异化与治理危机 | 高利害问责政策评估、[[Performance Pay\|绩效工资]]改革、行政规章制定 | [[Argument_Serpell_2020_EducPsychol\|Serpell (2020, pp. 41–42)]] |
 > | **分级进化替代命题** | 二元模糊的科学准入必然走向[[Operationalization\|操作化]]、包容性更强的多层级证据治理 | 教育法律重新授权、[[Evidence Standards\|证据标准]]迭代、政策工具转型 | [[Argument_Ross_Morrison_2021_ECNUROE\|Ross and Morrison (2021, p. 109)]] |
 > | **利益同盟建构命题** | 法定科学标准本质上是次政府铁三角垄断学术[[Discourse\|话语]]与商业利益的制度化建构 | 政策制定政治学分析、循证立法批判、政商联盟审议 | [[Argument_Edmondson_2005_EPAA\|Edmondson (2005, pp. 8–11)]] |
 > | **功能分野与审议演进命题** | 法定科学标准区分服务支出合规与科研资助划定，且在学界公共审议与国会质证中保持动态演进空间 | 联邦教育科研立法、资助标准制定、多元[[Paradigm\|范式]]合法性辩护 | [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart and Towne (2003, pp. 31–37)]] |
@@ -190,7 +190,7 @@ updated: 2026-10-16
 > 考察国家立法在强制推行高门槛实证标准时，若没有同步建立高质量公共研发资助与项目孵化管线，会导致怎样的实践供给困境。
 
 > [!claim] Slavin, R. E.
-> **证据供给存量断层与制度闭环滞后** [[Argument_Slavin_2019_EP\|Slavin (2019)]] 追踪全美因果[[Intervention Research\|干预研究]]库指出，在 NCLB 颁布实施的前期（1988–2003 年），全美中小学领域每两年仅产出 0–2 项符合严谨因果标准的合格研究；政策虽然在法律上强制要求采用科学本位研究，但市场上根本不存在足以支撑全国各学区采购的高质量实证项目储备。单纯颁布规制口号毫无实效，唯有在 2002 年通过《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA）成立[[Institute of Education Sciences\|教育科学研究院]]（IES）与 [[What Works Clearinghouse\|WWC]]，并在后续推行创新投资（i3）与教育创新研究（[[Education Innovation and Research\|EIR]]）建立长期公共研发孵化管线后，合格干预项目才跃升至每两年 20 项以上，方才勉强填补了实践供给的巨大缺口。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 22–24)]]
+> **证据供给存量断层与制度闭环滞后** [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] 追踪全美因果[[Intervention Research\|干预研究]]库指出，在 NCLB 颁布实施的前期（1988–2003 年），全美中小学领域每两年仅产出 0–2 项符合严谨因果标准的合格研究；政策虽然在法律上强制要求采用科学本位研究，但市场上根本不存在足以支撑全国各学区采购的高质量实证项目储备。单纯颁布规制口号毫无实效，唯有在 2002 年通过《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA）成立[[Institute of Education Sciences\|教育科学研究院]]（IES）与 [[What Works Clearinghouse\|WWC]]，并在后续推行创新投资（i3）与教育创新研究（[[Education Innovation and Research\|EIR]]）建立长期公共研发孵化管线后，合格干预项目才跃升至每两年 20 项以上，方才勉强填补了实践供给的巨大缺口。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–24)]]
 
 ---
 
@@ -200,7 +200,7 @@ updated: 2026-10-16
 > 分析将科学本位研究与单一标准化统考量化达标紧密绑定的高利害问责，如何反向扭曲微观教学实践并引发系统性道德风险。
 
 > [!claim] [[Zewelanji N. Serpell\|Serpell, Z. N.]]
-> **技术理性规制的异化与舞弊危机** 泽韦兰吉·N·塞佩尔（Zewelanji N. Serpell, 2020）考证指出，NCLB 试图依托科学本位研究建立起绝对线性的自上而下规制体系，将学生统考成绩与教师人事考核、绩效工资乃至学校关停直接挂钩；然而这种忽视复杂教育生态的死板[[Technical Rationality\|技术理性]]规制迅速引发灾难性反噬：学校陷入全盘“为考而教”的焦虑操练，科学、艺术与体育等非统考科目被残酷挤占，部分学区为达成法定指标甚至将弱势学生系统性排斥在考试之外，并在佐治亚州亚特兰大等地爆发了特大有组织集体篡改考卷答案的舞弊丑闻，宣告了纯规制型[[Positivism\|实证主义]]路线的破产。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 41–42)]]
+> **技术理性规制的异化与舞弊危机** 泽韦兰吉·N·塞佩尔（Zewelanji N. Serpell, 2020）考证指出，NCLB 试图依托科学本位研究建立起绝对线性的自上而下规制体系，将学生统考成绩与教师人事考核、绩效工资乃至学校关停直接挂钩；然而这种忽视复杂教育生态的死板[[Technical Rationality\|技术理性]]规制迅速引发灾难性反噬：学校陷入全盘“为考而教”的焦虑操练，科学、艺术与体育等非统考科目被残酷挤占，部分学区为达成法定指标甚至将弱势学生系统性排斥在考试之外，并在佐治亚州亚特兰大等地爆发了特大有组织集体篡改考卷答案的舞弊丑闻，宣告了纯规制型[[Positivism\|实证主义]]路线的破产。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 41–42)]]
 
 ---
 
@@ -285,7 +285,7 @@ updated: 2026-10-16
 
 > [!boundary] 适用边界与制度条件
 > - **规制型法制土壤依赖** 该概念作为硬性法律准入门槛，仅适用于联邦及州政府拥有明确财政专项拨款转移支付与集中问责权力的治理情境；在高度地方分权、依靠专业行会自律的教育体制中无法直接推行。
-> - **[[Causality|因果推断]]研究储备约束** 当全美或区域内合格的高质量实验干预方案存量过低时，强制推行 SBR 会导致制度空转，迫使学校在“违规无方案可用”与“借用理论包装形式主义过关”之间艰难妥协。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 22–24)]]
+> - **[[Causality|因果推断]]研究储备约束** 当全美或区域内合格的高质量实验干预方案存量过低时，强制推行 SBR 会导致制度空转，迫使学校在“违规无方案可用”与“借用理论包装形式主义过关”之间艰难妥协。[[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, pp. 22–24)]]
 > - **微观教学本土情境张力** 即使方案完全满足 SBR 的统计学因果标准，当其移植到生源[[Heterogeneity|异质性]]极高、师资流失严重或资源匮乏的弱势学校时，若缺乏情境适配性调试，极易遭遇[[Implementation Fidelity|实施保真度]]崩溃。
 
 ---

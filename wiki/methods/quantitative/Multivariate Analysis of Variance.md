@@ -57,7 +57,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO]]"
-  - "[[Argument_Lodewyk_2007_EP]]"
+  - "[[Argument_Lodewyk_2007_EducPsych]]"
 confidence: high
 status: draft
 created: 2026-08-29
@@ -218,7 +218,7 @@ updated: 2026-10-16
 > - **适合使用**
 >   1. **多维度[[Construct\|构念]]评估** 当[[Dependent Variable\|因变量]]是同一心理构念（如[[Research Literacy\|研究素养]]的意识、态度、技能、使用）或学习成果的多个紧密关联子维度时。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, p. 12)]]
 >   2. **控制整体一类错误** 避免针对 $p$ 个因[[Variable\|变量]]分别做独立 [[Analysis of Variance\|ANOVA]] 导致名义假阳性率从 $\alpha$ 急剧膨胀为 $1 - (1-\alpha)^p$。
->   3. **发现潜在协同效应** 两个组别在每个单项因变量上的微弱差异均未达显著性，但其在联合空间中的向量距离极其显著。[[Argument_Lodewyk_2007_EP\|(Lodewyk, 2007, p. 318)]]
+>   3. **发现潜在协同效应** 两个组别在每个单项因变量上的微弱差异均未达显著性，但其在联合空间中的向量距离极其显著。[[Argument_Lodewyk_2007_EducPsych\|(Lodewyk, 2007, p. 318)]]
 > - **谨慎使用**
 >   - 因变量之间几乎不相关（$r < .20$，此时联合检验不增加统计效能，直接做独立 ANOVA 即可）。
 >   - 因变量之间极度高度相关（$r > .85$，存在多重共线性，提示指标冗余，应先进行因子降维）。
@@ -258,5 +258,5 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 在教师[[Research Literacy\|研究素养]]研究中建立 2×2 MANOVA 模型，同时检验期刊追踪与亲身做研究对教师研究素养 4 个分维度的独立赋能主效应与[[Interaction Effect\|交互效应]]。
-> - [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] — 在高中生科学学习研究中运用 MANOVA 检验不同[[Academic Achievement\|学业成就]]组（高/中/低）与性别在固定能力观、知识简单性等[[Epistemological Beliefs\|认识论信念]]三因子上的多维显著差异。
+> - [[Argument_Lodewyk_2007_EducPsych\|Lodewyk (2007)]] — 在高中生科学学习研究中运用 MANOVA 检验不同[[Academic Achievement\|学业成就]]组（高/中/低）与性别在固定能力观、知识简单性等[[Epistemological Beliefs\|认识论信念]]三因子上的多维显著差异。
 > - [[Argument_Creswell_2022_SAGE\|Creswell & Guetterman (2022, Ch. 11)]] — 详细阐述量化实验与组间比较设计中 [[Analysis of Variance\|ANOVA]]、[[Analysis of Covariance\|ANCOVA]] 与 MANOVA 的方法选择矩阵及错误率控制机制。

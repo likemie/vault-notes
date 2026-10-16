@@ -70,7 +70,7 @@ related_facts:
   - "[[Victorian HITS and Literacy Toolkit]]"
 related_arguments:
   - "[[Argument_Schaffar_2024_CogentEdu]]"
-  - "[[Argument_Johnson_2023_CE]]"
+  - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
@@ -91,7 +91,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **Disciplina and Doctrina** 是西方教育史与知识社会学中用于界定知识传递与教育取向的一对经典二元概念。**Disciplina（规训/教规）** 关注对既有、已发现知识的灌输与巩固，侧重维持秩序、行为约束与正误纠正；**Doctrina（教学/教义/更新）** 则是指发展、质疑、调整与更新人类知识系统的动态实践（Stichweh, 2001, cited in [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]）。在现代教育政策与循证批判中，这对概念被用于剖析以量化指标为导向的技术官僚控制如何压制教育的开放反思面向（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]; [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024]]）。
+> **Disciplina and Doctrina** 是西方教育史与知识社会学中用于界定知识传递与教育取向的一对经典二元概念。**Disciplina（规训/教规）** 关注对既有、已发现知识的灌输与巩固，侧重维持秩序、行为约束与正误纠正；**Doctrina（教学/教义/更新）** 则是指发展、质疑、调整与更新人类知识系统的动态实践（Stichweh, 2001, cited in [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]）。在现代教育政策与循证批判中，这对概念被用于剖析以量化指标为导向的技术官僚控制如何压制教育的开放反思面向（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]; [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** `disciplina` 指向知识被发现后在学科库中的沉淀、外部规训灌输与标准化控制；`doctrina` 指向知识系统的自我更新、探索研究与师生主体间的人文交往。
@@ -121,10 +121,10 @@ updated: 2026-10-16
 > [!feature] 核心要素
 > - **Disciplina 的静态存储与秩序维护** 扮演存放已发现知识场所的角色，将知识结构化为严密的科目，主要执行代际间的社会化与生产关系再生产职能（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, p. 5]]）。
 > - **Doctrina 的动态生成与主体批判** 视知识为动态演化的体系，承认过去的知识无法完全涵盖未来的可能性，教学过程必须向学生的自主提问、道德反思与共同体建构开放。
-> - **绩效与循证时代的结构性失衡** 当代全球教育行业过度追求可测量结果与横向绩效评估，通过技能原子化技术与管理清单，强行将具备 doctrina 特质的探究活动塞入 disciplina 的流水线框架，严重损害了教育作为人格转变与民主反思的过程（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]; [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024]]）。
+> - **绩效与循证时代的结构性失衡** 当代全球教育行业过度追求可测量结果与横向绩效评估，通过技能原子化技术与管理清单，强行将具备 doctrina 特质的探究活动塞入 disciplina 的流水线框架，严重损害了教育作为人格转变与民主反思的过程（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]; [[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024]]）。
 > - **科研体制中的规训压力** 超国家机构与国家科研资助体系对学术研究施加规训压力（disciplining pressure），迫使具有探索性与批判性的[[Knowledge Production|知识生产]]（doctrina）屈从于[[Performance Indicators|绩效指标]]与[[Human Capital Theory|人力资本]]政策需求（disciplina）（[[Argument_Mitter_2009_Europe|Mitter, 2009, p. 96]]）。
 > - **跨国数字排位赛对主权国家学制的远处规训** 跨国标准化测评通过建构全球等价空间与发布绩效联赛榜，使教育质量被收窄为受测技能常模，迫使本土课程从开放探索转向应试对齐（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, pp. 447–448]]）。
-> - **[[Neo-Taylorism|新泰勒主义]]数字监控对教师主体性的剥夺** 管理软件（如 [[Assessment Tools for Teaching and Learning|asTTle]]）与气压计仪表盘将教学拆解为技术性动作，把教师贬抑为缺乏[[Scientific Literacy|科学素养]]的劳动力，通过外在清单实施全景式规训，消解了教师在真实课堂情境中的[[Reflexivity|反思性]][[Professional Judgment|专业判断]]（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 28–29]]）。
+> - **[[Neo-Taylorism|新泰勒主义]]数字监控对教师主体性的剥夺** 管理软件（如 [[Assessment Tools for Teaching and Learning|asTTle]]）与气压计仪表盘将教学拆解为技术性动作，把教师贬抑为缺乏[[Scientific Literacy|科学素养]]的劳动力，通过外在清单实施全景式规训，消解了教师在真实课堂情境中的[[Reflexivity|反思性]][[Professional Judgment|专业判断]]（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 28–29]]）。
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -211,8 +211,8 @@ updated: 2026-10-16
 > [!concept-lens] [[Neo-Taylorism|新泰勒主义]]监控与清单规训维度
 > 剖析[[Evidence-Based Education|循证教育]]倡导者如何通过行政监控软件、气压计指标与外科手术式核查清单，将一线教学降格为可直接管制的机械技术操作，剥夺教师在具体情境中的伦理审议与关系建构权力。
 
-> [!claim] [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]]
-> **新泰勒主义监控与教学人文关系维度的剥夺** 约翰逊与詹岑（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）揭示，《[[Visible Learning|可见的学习]]》对“科学管理”的狂热追求在本质上延续了泰勒制（Taylorism）工时与动作拆解的工业流水线逻辑（[[Argument_Eacott_2017_SLM|Eacott, 2017]]; Taylor, 1911）。在该[[Paradigm|范式]]中，[[John Hattie|约翰·哈蒂]]将一线教师的经验交流斥为缺乏科学依据的“轶事传闻”，甚至援引保守派智库[[Thomas B. Fordham Institute|福特汉姆研究所]]的论调将教学贬抑为“不成熟的职业”（immature profession），从而为建立自上而下的技术规训（disciplina）确立合法性。哈蒂不仅主持开发了具备全景监控潜力的 [[Assessment Tools for Teaching and Learning|asTTle]] 计算机网络系统，更将该系统的[[Barometer of Achievement|气压计图表]]迁移至专著中，主张教学应当向外科手术与高山救援看齐。这种粗暴类比严重混淆了机械技术操作与复杂育人实践的本质边界：外科手术依赖固定清单与标准打结，而真正的教学（doctrina）是在特定社区与充满差异的班级中建设师生学习共同体的复杂人际与伦理过程。当学校被改造成由外部标准清单管制的加盟连锁店时，教师被异化为全景受控的技术操作工，学生被降格为未来测验的数据产出点，教育本身的人文关怀、民主价值与批判探索被技术规训彻底摧毁。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 28–30)]]
+> [!claim] [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]
+> **新泰勒主义监控与教学人文关系维度的剥夺** 约翰逊与詹岑（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）揭示，《[[Visible Learning|可见的学习]]》对“科学管理”的狂热追求在本质上延续了泰勒制（Taylorism）工时与动作拆解的工业流水线逻辑（[[Argument_Eacott_2017_SLM|Eacott, 2017]]; Taylor, 1911）。在该[[Paradigm|范式]]中，[[John Hattie|约翰·哈蒂]]将一线教师的经验交流斥为缺乏科学依据的“轶事传闻”，甚至援引保守派智库[[Thomas B. Fordham Institute|福特汉姆研究所]]的论调将教学贬抑为“不成熟的职业”（immature profession），从而为建立自上而下的技术规训（disciplina）确立合法性。哈蒂不仅主持开发了具备全景监控潜力的 [[Assessment Tools for Teaching and Learning|asTTle]] 计算机网络系统，更将该系统的[[Barometer of Achievement|气压计图表]]迁移至专著中，主张教学应当向外科手术与高山救援看齐。这种粗暴类比严重混淆了机械技术操作与复杂育人实践的本质边界：外科手术依赖固定清单与标准打结，而真正的教学（doctrina）是在特定社区与充满差异的班级中建设师生学习共同体的复杂人际与伦理过程。当学校被改造成由外部标准清单管制的加盟连锁店时，教师被异化为全景受控的技术操作工，学生被降格为未来测验的数据产出点，教育本身的人文关怀、民主价值与批判探索被技术规训彻底摧毁。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–30)]]
 
 ---
 
@@ -226,7 +226,7 @@ updated: 2026-10-16
 > | **命题三：学术规训压力** | 超国家治理与资助机制对学术研究施加规训压力，约束批判知识生产 | 比较教育学术史、科研体制批判 | [[Argument_Mitter_2009_Europe\|Mitter (2009)]] |
 > | **命题四：国家与学校规训博弈** | 学校兼具劳动力规训再生产（disciplina）与底层民主化赋权（doctrina）双重张力 | 批判政治经济学、国家转型理论 | Carnoy (1985)；[[Argument_Kazamias_2009_HistoricalReflections\|Kazamias (2009a)]] |
 > | **命题五：跨国排位远处规训** | 跨国等价空间与联赛榜对课程施加远处规训，压制教育目的民主审议 | 超国家数字治理、比较政策社会学 | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] |
-> | **命题六：新泰勒主义清单规训** | 监控软件与清单崇拜将教师降格为流水线操作工，剥夺教学的人文关系面向 | [[Critique of Evidence-Based Education\|循证教育批判]]、[[Performativity\|表演性]]困境、教师[[Professional Judgment\|专业判断]] | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] |
+> | **命题六：新泰勒主义清单规训** | 监控软件与清单崇拜将教师降格为流水线操作工，剥夺教学的人文关系面向 | [[Critique of Evidence-Based Education\|循证教育批判]]、[[Performativity\|表演性]]困境、教师[[Professional Judgment\|专业判断]] | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] |
 
 ---
 
@@ -239,7 +239,7 @@ updated: 2026-10-16
 > - **2000s — 学术体制批判：Mitter 论规训压力的[[Externalization|外部化]]** 米特（[[Argument_Mitter_2009_Europe|Mitter, 2009]]）将“规训”（disciplina）范畴延伸至跨国教育研究体制，揭示超国家机构与国家资助方如何通过[[Performance Indicators|绩效指标]]对学者施加规训压力，迫使自由探究（doctrina）向实用政策合规让步。
 > - **21世纪初 — 课程政策批判应用** 该二元概念被引入针对[[OECD|经合组织]]/[[PISA]] 测量风暴的政策批判，用以解释为何[[Phenomenon-Based Learning|现象本位学习]]（PhBL）在吸纳进课程政策时会发生技能原子化（[[Argument_Schaffar_2024_CogentEdu|Schaffar & Wolff, 2024, pp. 9–10]]）。
 > - **2009 — [[Governing by Numbers|数字治理]]与跨国规训装置：Rizvi & Lingard 论 PISA 联赛排位的[[Governing at a Distance|远处治理]]** 里兹维与林加德（[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|Rizvi & Lingard, 2009, pp. 447–448]]）揭示 PISA 通过建构全球等价空间与发布绩效联赛榜，使“数字政策”成为超国家机构远处规训主权国家课程的主导工具，压制了本土教育共同体对教育目的的批判性审议（doctrina）。
-> - **2023 — [[Neo-Taylorism|新泰勒主义]]管理与清单规训：Johnson & Janzen 论技术清单对人文关系的瓦解** 约翰逊与詹岑（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）剖析[[Evidence-Based Education|循证教育]]如何通过开发监控软件（如 [[Assessment Tools for Teaching and Learning|asTTle]]）、绘制气压计仪表盘以及推行强制教学清单，在微观课堂层面建立起新泰勒主义全景规训（disciplina），彻底剥夺了教师的[[Professional Judgment|专业判断]]与教育的人文关系属性（doctrina）。
+> - **2023 — [[Neo-Taylorism|新泰勒主义]]管理与清单规训：Johnson & Janzen 论技术清单对人文关系的瓦解** 约翰逊与詹岑（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）剖析[[Evidence-Based Education|循证教育]]如何通过开发监控软件（如 [[Assessment Tools for Teaching and Learning|asTTle]]）、绘制气压计仪表盘以及推行强制教学清单，在微观课堂层面建立起新泰勒主义全景规训（disciplina），彻底剥夺了教师的[[Professional Judgment|专业判断]]与教育的人文关系属性（doctrina）。
 
 ---
 
@@ -257,7 +257,7 @@ updated: 2026-10-16
 > > 聚焦微观教学层面，技术官僚清单与人文主义教育观在教师角色上的对立。
 > >
 > > - **循证管理与技术官僚阵营（Hattie, 2009; Carnine, 2000）** 主张将教学向外科手术与工业工程看齐，通过标准化核查清单、气压计仪表刻度与固定教学策略（如 [[Victorian HITS and Literacy Toolkit|HITS]]）消除教师主观偏差，提高生产效率。
-> > - **[[Critical Pedagogy|批判教育学]]者（[[Argument_Biesta_2010_SPE|Biesta, 2010]]; [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 28–30]]）** 强调教学绝非机械手术缝合或打结，而是在具体社区建设师生学习共同体的复杂伦理关怀过程；强推技术清单只会催生虚伪的[[Performativity|表演性]]合规与专业[[Cognitive Deskilling|去技能化]]。
+> > - **[[Critical Pedagogy|批判教育学]]者（[[Argument_Biesta_2010_SPE|Biesta, 2010]]; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 28–30]]）** 强调教学绝非机械手术缝合或打结，而是在具体社区建设师生学习共同体的复杂伦理关怀过程；强推技术清单只会催生虚伪的[[Performativity|表演性]]合规与专业[[Cognitive Deskilling|去技能化]]。
 
 ---
 
@@ -268,7 +268,7 @@ updated: 2026-10-16
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计与实证发现 | 解释边界 |
 > |---|---|---|---|---|---|
-> | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] | 澳大利亚维多利亚州公立中小学校教师群体（基于 Lilley, 2022 与 Wescott, 2022 实地调研） | 政策文本分析与批判性案例追踪 | 高影响教学策略（[[Victorian HITS and Literacy Toolkit\|HITS]]）政策落地、白板[[Learning Intentions\|学习意图]]强制书写、教师自主权与职业倦怠感 | 维州推行基于 VL 的 10 项 HITS 刚性指标后，管理层将白板打卡与教案格式列为强制考核项；实证访谈显示教师课堂灵活变通权大幅萎缩，同行信任度与执教热情显著下降，滋生严重的合规[[Performativity\|表演性]] | 揭示了在微观课堂推行技术规训清单所伴随的教师去专业化副作用，为规训挤占教学反思提供了政策田野证据 |
+> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 澳大利亚维多利亚州公立中小学校教师群体（基于 Lilley, 2022 与 Wescott, 2022 实地调研） | 政策文本分析与批判性案例追踪 | 高影响教学策略（[[Victorian HITS and Literacy Toolkit\|HITS]]）政策落地、白板[[Learning Intentions\|学习意图]]强制书写、教师自主权与职业倦怠感 | 维州推行基于 VL 的 10 项 HITS 刚性指标后，管理层将白板打卡与教案格式列为强制考核项；实证访谈显示教师课堂灵活变通权大幅萎缩，同行信任度与执教热情显著下降，滋生严重的合规[[Performativity\|表演性]] | 揭示了在微观课堂推行技术规训清单所伴随的教师去专业化副作用，为规训挤占教学反思提供了政策田野证据 |
 > | [[Argument_Rizvi_Lingard_2009_OECDEducationPolicy\|Rizvi and Lingard (2009)]] | [[OECD]] 成员国教育政策决策体系及媒体公开反应 | 跨国[[Comparative Policy Analysis\|比较政策分析]]与文件[[Discourse\|话语]]考古 | [[PISA]] 绩效排位联赛榜发布后的各国内部政策收敛度与国家教育恐慌指数 | PISA 成绩公布后绝大多数成员国媒体与政府主要聚焦排名本身（[[Global Universities Rankings\|league tables]]），直接诱发诸如德国“PISA 震荡”等国家级政策重组；多国课程改革迅速转向对齐经合组织技能基准 | 证实了跨国等价空间与排位联赛榜作为远处规训装置的实际政策效力，展现了制度化规训对本土[[Democratic Education\|民主教育]]审议的挤压 |
 
 ---
@@ -281,7 +281,7 @@ updated: 2026-10-16
 > *PISA regards as crucially important its claim to comparability and a commensurate space of international comparison... most of the national and international media and political responses to PISA results are about the league tables of performance and comparative national positioning... policy as numbers tends to do this – the power of numbers is such that they 'render invisible and hence incontestable – the complex array of judgements and decisions that go into a measurement, a scale, a number'.*
 
 > [!citation-card] 约翰逊与詹岑论泰勒制监控、医学化贬抑与育人关系的解构
-> 在《[[Visible Learning|可见的学习]]》中，[[John Hattie|哈蒂]]将外科手术与高山救援列为教学应当效仿的“科学”职业。这类职业具有显而易见的可测量维度、明确的对错路径以及违背最佳实践的严重后果。外科医生确实应当参考最佳手术数据，登山者也必须打好正确的绳结；教学同样包含某些技术要素，如合理安排时间或纠正书写姿势。然而，教学的核心绝不能在清单或标准[[Homework|作业]]程序中寻得。教学关乎在具体的社区、特定的学校和充满差异的班级中良心建构一个学习共同体。这是一项复杂的伦理与人际挑战，需要广博的人文素养与技术技能，与医学核查清单、缝合血管或打绳结几乎毫无共通之处。任何滥用医学研究术语、统计筛选或一厢情愿的幻觉，都无法改变这一事实。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 29)]]
+> 在《[[Visible Learning|可见的学习]]》中，[[John Hattie|哈蒂]]将外科手术与高山救援列为教学应当效仿的“科学”职业。这类职业具有显而易见的可测量维度、明确的对错路径以及违背最佳实践的严重后果。外科医生确实应当参考最佳手术数据，登山者也必须打好正确的绳结；教学同样包含某些技术要素，如合理安排时间或纠正书写姿势。然而，教学的核心绝不能在清单或标准[[Homework|作业]]程序中寻得。教学关乎在具体的社区、特定的学校和充满差异的班级中良心建构一个学习共同体。这是一项复杂的伦理与人际挑战，需要广博的人文素养与技术技能，与医学核查清单、缝合血管或打绳结几乎毫无共通之处。任何滥用医学研究术语、统计筛选或一厢情愿的幻觉，都无法改变这一事实。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 29)]]
 >
 > *In Visible Learning, Hattie points to surgery and mountain rescue as "scientific" occupations for teaching to emulate. These occupations have obvious measurable elements with "right" and "wrong" approaches and stark consequences for failure to observe best practice. We concur that surgeons should consult data on best techniques, and mountaineers must use correct knots. Indeed, there are technical aspects to teaching as well, efficiently organizing a classroom schedule, or the best techniques for teaching handwriting. However, teaching's main concern is not to be found in checklists or standard operations. Teaching is about conscientiously building a learning community in a distinct classroom, in a unique school, in a particular neighborhood. This is a complex relational challenge, requiring a wide humanistic and technical skillset; with little in common with medical checklists, sutures, or knot tying. No amount of misplaced medical research terminology, statistical sifting, or wishful thinking can make it otherwise.*
 
@@ -295,7 +295,7 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] 相关论证索引
-> - [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]] — 结合[[Neo-Taylorism|新泰勒主义]]与全景监控理论，深入剖析《[[Visible Learning|可见的学习]]》如何借助 [[Assessment Tools for Teaching and Learning|asTTle]] 系统与气压计仪表刻度将教师降格为技术规训对象，驱逐教学的人文共同体属性。
+> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 结合[[Neo-Taylorism|新泰勒主义]]与全景监控理论，深入剖析《[[Visible Learning|可见的学习]]》如何借助 [[Assessment Tools for Teaching and Learning|asTTle]] 系统与气压计仪表刻度将教师降格为技术规训对象，驱逐教学的人文共同体属性。
 > - [[Argument_Schaffar_2024_CogentEdu|Schaffar and Wolff (2024)]] — 运用这一[[Paradigm|范式]]剖析了芬兰[[Phenomenon-Based Learning|现象本位学习]]在绩效评估压力下被技能原子化收纳的本质。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009, p. 96)]] — 揭示超国家治理与科研资助体系如何对比较教育学者施加规训压力，促使学术[[Knowledge Production|知识生产]]向政策问责与技术官僚规训屈从。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a, pp. 153–154)]] — 在第四阶段[[Discourse|话语]]梳理中引介卡诺伊批判国家理论，阐明学校在生产关系规训再生产与大众民主诉求之间的辩证张力。
@@ -314,4 +314,4 @@ updated: 2026-10-16
 > | [[Critique of Evidence-Based Education]] | 批判[[Paradigm\|范式]] | 循证教育批判直接指出证据等级制如何将教学窄化为可复制的技术规训操作。 |
 > | [[Victorian HITS and Literacy Toolkit]] | 政策事实 | 澳大利亚维多利亚州将 VL [[Effect Size\|效应量]]转化为刚性清单，成为微观技术规训的典型制度样本。 |
 > | [[Thomas B. Fordham Institute]] | 智库机构 | 保守派智库通过兜售教育医学化比附与贬低教师专业性，为自上而下的技术规训构建意识形态合法性。 |
-> | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] | 实证文献 | 详细解构了可见学习的技术监控逻辑与清单拜物教对教师专业性的解构。 |
+> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 实证文献 | 详细解构了可见学习的技术监控逻辑与清单拜物教对教师专业性的解构。 |

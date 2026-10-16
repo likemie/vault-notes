@@ -52,7 +52,7 @@ related_facts:
   - "[[American Educational Research Association]]"
   - "[[Achieve]]"
 related_arguments:
-  - "[[Argument_Johnson_2023_CE]]"
+  - "[[Argument_Johnson_2023_CritEduc]]"
 confidence: high
 status: draft
 created: "2026-10-16"
@@ -71,7 +71,7 @@ updated: 2026-10-16
 > - **代表贡献** 创立“教育鉴赏”（Educational Connoisseurship）与“教育批评”（Educational Criticism）质性评价方法；著有《教育想象》（*The Educational Imagination*）与《艺术与智力创造》（*The Arts and the Creation of Mind*）；系统揭示自然科学实验室控制[[Paradigm|范式]]移植至教育领域的生态破坏性。
 
 > [!citation-card] 教学作为一门艺术与工艺的经典界定
-> 艾斯纳强调，教学是一门充满动态[[Creativity|创造力]]、情境敏感性与人际直觉的人文艺术。优秀的教学绝非按部就班对照行为清单执行标准动作，而是在无法预设的复杂人际互动中，像经验丰富的艺术家那样洞察细节、灵动回应，其深远结果远远超出了任何事先划定的狭隘行为目标所能概括的范围。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 35, citing Eisner, 1983)]]
+> 艾斯纳强调，教学是一门充满动态[[Creativity|创造力]]、情境敏感性与人际直觉的人文艺术。优秀的教学绝非按部就班对照行为清单执行标准动作，而是在无法预设的复杂人际互动中，像经验丰富的艺术家那样洞察细节、灵动回应，其深远结果远远超出了任何事先划定的狭隘行为目标所能概括的范围。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 35, citing Eisner, 1983)]]
 >
 > *Eisner argued that teaching is an art and craft characterized by dynamic unpredictability and human complexity, yielding outcomes far richer and more profound than any predefined behavioral checklists could ever encompass.*
 
@@ -82,9 +82,9 @@ updated: 2026-10-16
 > [!timeline] 生平与职涯
 > - **1950–1960 年代** 在芝加哥大学师从本杰明·布卢姆（Benjamin Bloom）与约瑟夫·施瓦布（Joseph Schwab），深受芝加哥学派人文课程传统熏陶。
 > - **1965 年** 加盟斯坦福大学教育学院，开创艺术教育与质性课程研究方向。
-> - **1970–1980 年代** 针对全美盛行的行为目标模式与[[Positivism|实证主义]]标准化测验垄断，系统构想教育鉴赏与批评[[Qualitative Research|质性研究]][[Paradigm|范式]]，发表经典论文《教学的艺术与工艺》（Eisner, 1983）。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 35)]]
+> - **1970–1980 年代** 针对全美盛行的行为目标模式与[[Positivism|实证主义]]标准化测验垄断，系统构想教育鉴赏与批评[[Qualitative Research|质性研究]][[Paradigm|范式]]，发表经典论文《教学的艺术与工艺》（Eisner, 1983）。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 35)]]
 > - **1992–1993 年** 当选美国教育研究协会（[[American Educational Research Association|AERA]]）主席，推动质性[[Narrative Research|叙事探究]]、艺术本位研究（Arts-Based Research）与批判质性方法进入主流学术殿堂。
-> - **2000 年代至今** 其反思实验室控制范式、强调[[Ecological Validity|生态效度]]的经典论述被广泛用于批判《可见学习》等[[Meta-meta-analysis|二阶元分析]]还原主义。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 35–36)]]
+> - **2000 年代至今** 其反思实验室控制范式、强调[[Ecological Validity|生态效度]]的经典论述被广泛用于批判《可见学习》等[[Meta-meta-analysis|二阶元分析]]还原主义。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 35–36)]]
 
 ---
 
@@ -92,7 +92,7 @@ updated: 2026-10-16
 
 > [!work-line] 主要著作
 > - **1979 / 1994 — *The Educational Imagination: On the Design and Evaluation of School Programs*** 奠定其课程与评价理论大厦的经典专著，系统提出显性课程、[[Hidden Curriculum|隐性课程]]与虚无课程（Null Curriculum）的三维划分，提出教育批评框架。
-> - **1983 — *The Art and Craft of Teaching*** 论证教学是一门动态、非线性的艺术实践，批判狭隘行为主义对课堂丰富人文可能性的粗暴剪裁。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 35)]]
+> - **1983 — *The Art and Craft of Teaching*** 论证教学是一门动态、非线性的艺术实践，批判狭隘行为主义对课堂丰富人文可能性的粗暴剪裁。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 35)]]
 > - **1991 — *The Enlightened Eye: Qualitative Inquiry and the Enhancement of Educational Practice*** 详述教育鉴赏者如何以敏锐洞察力捕捉教育微观情境中的微妙质感。
 > - **2002 — *The Arts and the Creation of Mind*** 论证艺术感知对人类高阶认知、批判性反思与整体性理解的不可替代价值。
 
@@ -101,10 +101,10 @@ updated: 2026-10-16
 ## 核心思想
 
 > [!claim] 核心主张
-> 艾斯纳认为，自然科学与工程技术之所以能够取得高度确定性的因果预测，前提在于其能在人工建造的封闭实验室中严密隔离外界环境干扰，通过单[[Variable|变量]]操纵得出确定法则。然而，教育发生在开放、充满[[Heterogeneity|异质性]]且富有历史文化脉络的真实生活世界中。在真实的课堂里，师生的个性、情感起伏、家庭背景与微观互动不仅不是应当被隔离排除的噪音变量，反而恰恰是育人过程的本体内核。强行在教育研究中照搬物理学实验室控制[[Paradigm|范式]]，必然会彻底摧毁教育的[[Ecological Validity|生态效度]]，导致生产出一堆看似精密实则丧失现实生命力的伪科学结论。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 35–36)]]
+> 艾斯纳认为，自然科学与工程技术之所以能够取得高度确定性的因果预测，前提在于其能在人工建造的封闭实验室中严密隔离外界环境干扰，通过单[[Variable|变量]]操纵得出确定法则。然而，教育发生在开放、充满[[Heterogeneity|异质性]]且富有历史文化脉络的真实生活世界中。在真实的课堂里，师生的个性、情感起伏、家庭背景与微观互动不仅不是应当被隔离排除的噪音变量，反而恰恰是育人过程的本体内核。强行在教育研究中照搬物理学实验室控制[[Paradigm|范式]]，必然会彻底摧毁教育的[[Ecological Validity|生态效度]]，导致生产出一堆看似精密实则丧失现实生命力的伪科学结论。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 35–36)]]
 
 > [!citation-card] 实验室控制范式对教育生态效度的摧毁
-> 艾斯纳与科学哲学家菲利普斯指出，自然[[Scientific Paradigm|科学范式]]的核心在于排除干扰以做精确预测。若将这一套手段强搬到学校，把活生生的学生和教师当成流水线车间里的实验原料进行机械控制，不仅背离了育人的伦理宗旨，而且从根本上破坏了教育赖以发生的情境土壤。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 35–36, citing Eisner, 1983)]]
+> 艾斯纳与科学哲学家菲利普斯指出，自然[[Scientific Paradigm|科学范式]]的核心在于排除干扰以做精确预测。若将这一套手段强搬到学校，把活生生的学生和教师当成流水线车间里的实验原料进行机械控制，不仅背离了育人的伦理宗旨，而且从根本上破坏了教育赖以发生的情境土壤。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 35–36, citing Eisner, 1983)]]
 >
 > *Eisner and Phillips emphasized that while natural sciences isolate variables to [[Achieve]] precision, applying such laboratory control mechanisms to dynamic classrooms obliterates the ecological validity indispensable to genuine human education.*
 
@@ -115,7 +115,7 @@ updated: 2026-10-16
 > [!influence-path] 影响路径
 > - **课程理论革新** 彻底颠覆了[[Tyler Rationale|泰勒原理]]（Tyler Rationale）自上而下线性的行为目标统治，使课程成为充满探究、意义创生与审美体验的生成性领域。
 > - **质性评价奠基** 开创教育鉴赏与[[Qualitative Observation|质性观察]]方法，使[[Classroom Observation|课堂观察]]摆脱了机械勾画行为频次的死板格式，转向对[[Student-Teacher Relationship|师生关系]]张力与文化氛围的深度阐释。
-> - **反[[Scientism|科学主义]]批评传统** 为当代学者（如 Johnson & Janzen, 2023）抵制《可见学习》等[[Meta-meta-analysis|二阶元分析]]将教学简化为仪表盘读数与统一清单提供了坚实的人文哲学武器。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 35–36)]]
+> - **反[[Scientism|科学主义]]批评传统** 为当代学者（如 Johnson & Janzen, 2023）抵制《可见学习》等[[Meta-meta-analysis|二阶元分析]]将教学简化为仪表盘读数与统一清单提供了坚实的人文哲学武器。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 35–36)]]
 
 ---
 
@@ -124,7 +124,7 @@ updated: 2026-10-16
 > [!person-network] 关系网络
 > - **思想渊源** [[John Dewey]] — 继承杜威经验自然主义、艺术即经验的哲学精髓。
 > - **学术论敌** 行为主义目标派（如 Mager, Popham）及[[Positivism|实证主义]]技术[[Disciplina and Doctrina|规训]]论者（如 [[David Carnine]]） — 围绕课程目标能否被预先行为化、教学是否属于流水线技术操作展开深刻论战。
-> - **当代呼应者** [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]] — 援引其 1983 年经典文献，直击[[Meta-meta-analysis|二阶元分析]]还原论对教育[[Ecological Validity|生态效度]]的破坏。
+> - **当代呼应者** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 援引其 1983 年经典文献，直击[[Meta-meta-analysis|二阶元分析]]还原论对教育[[Ecological Validity|生态效度]]的破坏。
 
 ---
 

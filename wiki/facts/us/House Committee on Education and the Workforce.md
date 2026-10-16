@@ -52,7 +52,7 @@ related_facts:
   - "[[Every Student Succeeds Act]]"
   - "[[Open Court Reading]]"
 related_arguments:
-  - "[[Argument_Serpell_2020_EP]]"
+  - "[[Argument_Serpell_2020_EducPsychol]]"
   - "[[Argument_Eisenhart_Towne_2003_ER]]"
   - "[[Argument_Edmondson_2005_EPAA]]"
 confidence: high
@@ -68,7 +68,7 @@ updated: 2026-10-16
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> **美国众议院教育与劳动力委员会（House Committee on Education and the Workforce）** 是美国国会众议院常设委员会（Standing Committee），对全美所有涉及联邦教育财政拨款、初等与中等教育、高等教育、学前启蒙、特殊教育及劳工权益的立法拥有排他性初审管辖权。作为联邦教育立法的政治中枢，该委员会不仅主导制定和重新授权国家教育基石法案，其常设专业幕僚（Committee Staff）更是筛选、吸纳与将学术实证证据转化为法定条文的制度化[[Gatekeepers\|守门人]]。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 45)]]
+> **美国众议院教育与劳动力委员会（House Committee on Education and the Workforce）** 是美国国会众议院常设委员会（Standing Committee），对全美所有涉及联邦教育财政拨款、初等与中等教育、高等教育、学前启蒙、特殊教育及劳工权益的立法拥有排他性初审管辖权。作为联邦教育立法的政治中枢，该委员会不仅主导制定和重新授权国家教育基石法案，其常设专业幕僚（Committee Staff）更是筛选、吸纳与将学术实证证据转化为法定条文的制度化[[Gatekeepers\|守门人]]。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 45)]]
 
 > [!org-context] 机构背景
 > - **成立时间与创设背景** 创设于 1867 年（美国内战结束后的南方重建时期），最初设立教育委员会（Committee on Education）旨在统筹战后被解放奴隶与贫困平民的公共教育普及；后与劳工委员会合并演变为教育与劳工委员会（Committee on Education and Labor），在共和党主导时期常更名为教育与劳动力委员会。
@@ -85,7 +85,7 @@ updated: 2026-10-16
 > - **1965–1996 — 伟大社会民权立法与大发展** 在林登·约翰逊总统“伟大社会”计划推动下，委员会主导起草并审议了奠定当代联邦教育治理格局的两大基石：《1965 年[[Elementary and Secondary Education Act of 1965\|初等与中等教育法]]》（ESEA）和《[[Higher Education Act of 1965\|高等教育法]]》（HEA），确立了联邦支持贫困儿童受教育权的民权导向。
 > - **1997–1998 — 主导《[[Reading Excellence Act|卓越阅读法案]]》确立科研规制先例** 委员会主席比尔·古德林（Bill Goodling）急于建立科研与政策的纽带，资深多数党幕僚罗伯特·斯威特（Robert Sweet）查阅华盛顿研究机构网站并咨询 20–25 位认知心理学学者草拟了“科学本位阅读研究”（SBRR）的初始法定定义；委员会全面采信 [[National Institute of Child Health and Human Development|NICHD]] 行政官员[[G. Reid Lyon|里德·里昂]]的实验[[Paradigm|范式]]听证证词，以口头表决强推法案（P.L. 105-277），开创了以方法学清单规制联邦服务支出的立法先例。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, p. 32)]]; [[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 4, 6–8)]]
 > - **2000–2002 — 主导 [[Office of Educational Research and Improvement|OERI]] 改革与《[[Education Sciences Reform Act 2002|教育科学改革法]]》（ESRA）立法博弈** 委员会资深成员迈克尔·卡斯尔（Michael Castle）提出 H.R. 4875，试图确立量化实验与质性初步探索的二元割裂标准；经[[National Research Council|国家研究委员会]]（[[National Research Council]], NRC）代表[[Richard J. Shavelson|理查德·沙维尔森]]（Richard Shavelson）在教育改革小组委员会听证会上的严正质证，委员会最终摒弃预设方法清单，主导通过了确立“方法契合[[Research Question|研究问题]]”的《[[Education Sciences Reform Act 2002|教育科学改革法]]》（H.R. 3801 / P.L. 107-279），正式设立 [[Institute of Education Sciences|IES]]。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–34)]]
-> - **2001–至今 — 循证问责与现代联邦再平衡** 主导了 2001 年《不让一个孩子掉队法》（[[No Child Left Behind Act 2001\|NCLB]]）的剧烈两党辩论，将“科学基础研究”与高利害问责写入法典；并在 2015 年主导起草并全票通过《[[Every Student Succeeds Act\|每个学生成功法]]》（ESSA），实现了联邦强权与州级自主的再平衡。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 43–45)]]
+> - **2001–至今 — 循证问责与现代联邦再平衡** 主导了 2001 年《不让一个孩子掉队法》（[[No Child Left Behind Act 2001\|NCLB]]）的剧烈两党辩论，将“科学基础研究”与高利害问责写入法典；并在 2015 年主导起草并全票通过《[[Every Student Succeeds Act\|每个学生成功法]]》（ESSA），实现了联邦强权与州级自主的再平衡。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 43–45)]]
 
 ---
 
@@ -94,11 +94,11 @@ updated: 2026-10-16
 > [!actor-grid] 组织治理架构
 > - **委员会领导层（Leadership）** 由多数党推选的委员会主席（Chair）与少数党首席议员（Ranking Member）共同执掌，负责排定立法日程、指定听证会议题并掌控法案表决节奏。
 > - **专门小组委员会（Subcommittees）** 下设早期教育、初等与中等教育小组委员会（Early Childhood, Elementary, and Secondary Education）、教育改革小组委员会（Subcommittee on Education Reform）、高等教育与[[Workforce Development|劳动力发展]]小组委员会等，承担具体法案的逐条质询与证据审查。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, p. 34)]]
-> - **常设专业幕僚团队（Committee Staff）** 包括两党各自聘任的高级政策主任、立法法律顾问（Counsel）与资深研究分析员。这些幕僚多拥有法学博士或教育政策顶尖博士学位，任期稳定，是立法语言与学术证据的核心[[Gatekeepers\|把关人]]。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 45)]] 与此同时，部分资深多数党幕僚（如罗伯特·斯威特 / Robert Sweet）受主席委派在数月内独立草拟法定科学定义，同时兼任全国正确阅读基金会（NRRF）主席并深度关联教科书出版巨头，其通过政商旋转门直接影响了法案中具有商业排他性的条文定义。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, p. 32)]]; [[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 6, 8)]]
+> - **常设专业幕僚团队（Committee Staff）** 包括两党各自聘任的高级政策主任、立法法律顾问（Counsel）与资深研究分析员。这些幕僚多拥有法学博士或教育政策顶尖博士学位，任期稳定，是立法语言与学术证据的核心[[Gatekeepers\|把关人]]。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 45)]] 与此同时，部分资深多数党幕僚（如罗伯特·斯威特 / Robert Sweet）受主席委派在数月内独立草拟法定科学定义，同时兼任全国正确阅读基金会（NRRF）主席并深度关联教科书出版巨头，其通过政商旋转门直接影响了法案中具有商业排他性的条文定义。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, p. 32)]]; [[Argument_Edmondson_2005_EPAA|(Edmondson, 2005, pp. 6, 8)]]
 > - **专家证人与咨询网络** 在举行重大听证会时，依法由多数党和少数党分别延请权威学者、智库领袖及一线实践者到场作证。
 
 > [!pathways]- 业务运行机制
-> - **立法听证与专家质询（Hearings）** 就法案草案组织公开听证会，邀请学者（如 [[Russell J. Skiba]]）就特定证据出具书面证词并接受议员质询，证词将被记录在国会正式听证卷宗中，构成法案立法原意（Legislative Intent）的法定证据。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 45)]]
+> - **立法听证与专家质询（Hearings）** 就法案草案组织公开听证会，邀请学者（如 [[Russell J. Skiba]]）就特定证据出具书面证词并接受议员质询，证词将被记录在国会正式听证卷宗中，构成法案立法原意（Legislative Intent）的法定证据。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 45)]]
 > - **法案标记与修正会议（Markup Sessions）** 委员会成员对法案条文进行逐字审议、辩论与投票修改。此时，由学者和智库起草的示范法定条文（Model Statutory Language）最容易被两党议员直接吸纳为法案修正案。
 > - **常态化监督机制（Oversight）** 即使在无重大立法的非周期年份，委员会仍高频举行监督听证，审查现行法案执行绩效并传唤教育部官员质询，为学术评估成果介入行政改良提供了持续通道。
 
@@ -117,8 +117,8 @@ updated: 2026-10-16
 ## 影响与学术利用机制
 
 > [!finding-cards] 学者介入与[[Research Utilization\|知识利用]]机制
-> - **委员会幕僚相较于议员个人办公室具有压倒性的研究接纳意愿** 正如 [[Argument_Serpell_2020_EP\|Serpell (2020)]] 与 Weiss (1989) 所强调，个人议员忙于选区事务与日常连任，对学术细节缺乏兴趣；而委员会幕僚常年专注于单一领域，不仅理解[[Causality\|因果推断]]方法，而且迫切需要实证数据为两党辩论提供弹药，是教育学者应首要对接的政策用户。
-> - **听证会专家证词作为实证进入法律条文的直通梯** 众议院教育委员会的听证记录在法律上具有至高无上的宣示效能。通过该平台，诸如学校纪律种族差距、阅读科学、学生资助公式等严谨学术发现得以被正式转化为具有约束力的联邦法案条款。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 45)]]
+> - **委员会幕僚相较于议员个人办公室具有压倒性的研究接纳意愿** 正如 [[Argument_Serpell_2020_EducPsychol\|Serpell (2020)]] 与 Weiss (1989) 所强调，个人议员忙于选区事务与日常连任，对学术细节缺乏兴趣；而委员会幕僚常年专注于单一领域，不仅理解[[Causality\|因果推断]]方法，而且迫切需要实证数据为两党辩论提供弹药，是教育学者应首要对接的政策用户。
+> - **听证会专家证词作为实证进入法律条文的直通梯** 众议院教育委员会的听证记录在法律上具有至高无上的宣示效能。通过该平台，诸如学校纪律种族差距、阅读科学、学生资助公式等严谨学术发现得以被正式转化为具有约束力的联邦法案条款。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 45)]]
 
 ---
 

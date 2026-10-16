@@ -57,7 +57,7 @@ related_facts:
 related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
   - "[[Argument_Bates_2017_CognitionEducationTrust]]"
-  - "[[Argument_Johnson_2023_CE]]"
+  - "[[Argument_Johnson_2023_CritEduc]]"
 confidence: high
 status: stable
 created: "2026-05-23"
@@ -71,13 +71,13 @@ updated: 2026-10-16
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> Cognition Education（认知教育；前身为 Multi Serve）是伴随 1989 年新西兰《明日学校》（[[Tomorrow's Schools Reforms|Tomorrow's Schools]]）改革而诞生的高校教育后勤承包商与跨国[[Educational Management Organisation|教育管理组织]]（EMO）。该机构横跨慈善信托与营利性商业咨询公司双重实体，核心业务涵盖学校行政承包、教师专业发展、跨国建校咨询以及《[[Visible Learning|可见的学习]]》（[[Visible Learning Branding and Global Influences|Visible Learningplus]]）全球知识产权专营，是新自由主义教育准市场、跨国咨询资本与[[Policy Network|政策网络]]深度交织的代表性枢纽。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 65)]]; [[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 11–12)]]; [[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 30–31)]]
+> Cognition Education（认知教育；前身为 Multi Serve）是伴随 1989 年新西兰《明日学校》（[[Tomorrow's Schools Reforms|Tomorrow's Schools]]）改革而诞生的高校教育后勤承包商与跨国[[Educational Management Organisation|教育管理组织]]（EMO）。该机构横跨慈善信托与营利性商业咨询公司双重实体，核心业务涵盖学校行政承包、教师专业发展、跨国建校咨询以及《[[Visible Learning|可见的学习]]》（[[Visible Learning Branding and Global Influences|Visible Learningplus]]）全球知识产权专营，是新自由主义教育准市场、跨国咨询资本与[[Policy Network|政策网络]]深度交织的代表性枢纽。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 65)]]; [[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 11–12)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 30–31)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1989 年 10 月新西兰推行明日学校改革，撤销原有区域教育委员会，将原本由公共部门承担的学校工资发放与校车运输等行政后勤职能从教育部剥离，交由新设的自负盈亏教育服务中心承接，Multi Serve Education Trust 由此应运而生。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 11–12)]]
 > - **总部地点 / 业务辐射** 总部位于新西兰奥克兰（Auckland），业务辐射跨越新西兰本土、文莱、海湾地区（卡塔尔、阿布扎比）、澳大利亚、英国以及美国等多个国家和地区。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 21–23, 47–48)]]
 > - **法人属性与经费基础** 采用双层法人架构；母实体为免税的慈善信托（Cognition Education Trust），下设全资营利性商业运营子公司（Cognition Education Limited）；收入来源涵盖政府竞标合同、国际咨询服务费、企业并购款项及知识产权特许权使用费（Royalties）。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 66–68)]]
-> - **核心宗旨与法定职责** 机构官方宣称致力于将学习科学（Learning Science）转译为面向学校、社区与政府的专业实践服务，推动全球教育改进；在批判学者视阈下，其实质扮演了将公共教育资产私有化、推动新自由主义教育治理与知识商品化的商业先锋。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 65)]]; [[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 30)]]
+> - **核心宗旨与法定职责** 机构官方宣称致力于将学习科学（Learning Science）转译为面向学校、社区与政府的专业实践服务，推动全球教育改进；在批判学者视阈下，其实质扮演了将公共教育资产私有化、推动新自由主义教育治理与知识商品化的商业先锋。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 65)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 30)]]
 
 ---
 
@@ -100,14 +100,14 @@ updated: 2026-10-16
 >
 > - **2010–2017 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 知识变现与专营扩张期**
 >
->   在中东国际咨询合同利润缩水与国内工资业务彻底终结的背景下，抓住学术畅销书《[[Visible Learning|可见的学习]]》知识变现契机，建立 Visible Learningplus 事业部；通过区域总代理授权模式（Licensor Model）向欧美英澳快速辐射，营收规模与利润率跃升至历史高位。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 55–63)]]; [[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 30)]]
+>   在中东国际咨询合同利润缩水与国内工资业务彻底终结的背景下，抓住学术畅销书《[[Visible Learning|可见的学习]]》知识变现契机，建立 Visible Learningplus 事业部；通过区域总代理授权模式（Licensor Model）向欧美英澳快速辐射，营收规模与利润率跃升至历史高位。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 55–63)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 30)]]
 >
 >   - **2010** 集团年营收攀升至 6,900 万新西兰元历史峰值；同年底引入[[John Hattie|约翰·哈蒂]]的 Visible Learning 商业运营平台。
 >   - **2011–2012** Visible Learningplus 第一年产生近 200 万新西兰元营收，次年攀升至近 270 万，利润率远超传统工资承包业务。
 >
 > - **2018–至今 跨国资本并购与编织河道重组期**
 >
->   将 Visible Learningplus 全球知识产权独家许可转让给跨国出版巨头[[Corwin Press|考文出版社]]（Corwin Press），自身转型为编织河道（Braided River）式的多支流运营模式，通过微型咨询项目、地方教学联合体（Consortium）与教育投资基金维系组织运转。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 55–63)]]; [[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 31)]]
+>   将 Visible Learningplus 全球知识产权独家许可转让给跨国出版巨头[[Corwin Press|考文出版社]]（Corwin Press），自身转型为编织河道（Braided River）式的多支流运营模式，通过微型咨询项目、地方教学联合体（Consortium）与教育投资基金维系组织运转。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 55–63)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 31)]]
 >
 >   - **2018** 考文出版社（Corwin Press）从 Cognition 手中全面收购 Visible Learningplus 咨询专营权，进一步将其推向全球化商业流水线。
 
@@ -118,7 +118,7 @@ updated: 2026-10-16
 > [!actor-grid] 组织治理架构
 > - **决策机构（Cognition Education Trust 理事会）** 慈善信托理事会作为最高控股方，拥有营利性运营公司的 100% 股权，负责任命董事、审定年度公益捐赠与战略方向。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 66)]]
 > - **执行机构（Cognition Education Limited 商业实体）** 独立注册的营利性有限责任公司，负责全球咨询合同招标、[[Visible Learning Branding and Global Influences|Visible Learningplus]] 知识产品开发与跨国特许经营。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 66–67)]]
-> - **学术纽带与旋转门（学者兼任董事）** 知名学者[[John Hattie|约翰·哈蒂]]兼任 Cognition Education Trust 理事会董事，深度参与组织战略，同时通过知识产权授权合同从商业实体获取巨额版税与服务酬金。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 31)]]
+> - **学术纽带与旋转门（学者兼任董事）** 知名学者[[John Hattie|约翰·哈蒂]]兼任 Cognition Education Trust 理事会董事，深度参与组织战略，同时通过知识产权授权合同从商业实体获取巨额版税与服务酬金。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 31)]]
 > - **全球特许授权网络（Licensor Network）** 摒弃重资产海外自建分公司模式，与澳大利亚麦克米兰（Macmillan）、英国 Osiris Educational、James Nottingham Associates 及美国[[Corwin Press|考文出版社]]（Corwin Press）缔结区域排他性分销授权同盟。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, p. 60)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 67)]]
 
 > [!pathways]- 业务运行机制
@@ -166,7 +166,7 @@ updated: 2026-10-16
 > [!finding-cards] 核心业务与知识专营矩阵
 > - **学校支持与行政外包** 长期承包新西兰中小学教职工工资发放（Payroll）系统与校车运输统筹，并承接教育部中央资助的校董会治理培训与教学改进合同。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 11–13, 25–28)]]
 > - **跨国建校与系统咨询** 承担海外政府（如文莱、卡塔尔、阿布扎比）的高规格[[International Schools|国际学校]]筹建、课程标准重塑、学区督导评估体系搭建与双语教师能力建设项目。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 21–23, 35–42)]]
-> - **[[Visible Learning Branding and Global Influences|Visible Learningplus]] 认证培训** 将[[John Hattie|哈蒂]][[Meta-analysis|元分析]]结论转变为面向[[School Leadership|学校领导]]与骨干教师的分级研习营、[[Classroom Observation|课堂观察]]量表与可见学习认证学校标准，开辟全球化教师专业学习市场。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 59–60)]]; [[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 30)]]
+> - **[[Visible Learning Branding and Global Influences|Visible Learningplus]] 认证培训** 将[[John Hattie|哈蒂]][[Meta-analysis|元分析]]结论转变为面向[[School Leadership|学校领导]]与骨干教师的分级研习营、[[Classroom Observation|课堂观察]]量表与可见学习认证学校标准，开辟全球化教师专业学习市场。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 59–60)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 30)]]
 > - **教育科研基金与公益资助** 设立 Cognition Education Research Trust 专项基金，向新西兰教育学者提供竞争性研究资助，以此维系组织与学术界的紧密互动与正向声誉。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 69–73)]]
 
 ---
@@ -176,13 +176,13 @@ updated: 2026-10-16
 > [!indicators] 业务规模与辐射范围
 > - **本土市场垄断力** 长期掌控新西兰最大的中小学校车网络与工资清算业务，被学界定性为新西兰本土最大的[[Educational Management Organisation|教育管理组织]]（EMO）。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 65)]]
 > - **跨国[[Policy Network|政策网络]]节点** 作为新西兰教育服务业对外输出的旗舰，深度嵌入英联邦、海湾合作委员会国家及[[OECD|经合组织]]（OECD）成员国的教育决策链条。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 35–48)]]
-> - **知识标准化推手** 推动 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 覆盖欧美数千所学校，成为[[Global Education Reform Movement|全球教育改革运动]]（GERM）中教师效能标准化评定的重要推手。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 24–25)]]
+> - **知识标准化推手** 推动 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 覆盖欧美数千所学校，成为[[Global Education Reform Movement|全球教育改革运动]]（GERM）中教师效能标准化评定的重要推手。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 24–25)]]
 
 > [!stat-cards] 核心规模与财务审计数据
 > - **6,900 万新西兰元** 2010 年集团年度总营收突破 6,900 万新西兰元，创下新西兰本土教育咨询机构的商业规模峰值。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 71–73)]]
-> - **869,453 新西兰元** 2011 至 2015 年间，认知教育商业实体累计向董事学者[[John Hattie|哈蒂]]支付的第三方版税与顾问酬金至少达 869,453 新西兰元。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 31)]]
+> - **869,453 新西兰元** 2011 至 2015 年间，认知教育商业实体累计向董事学者[[John Hattie|哈蒂]]支付的第三方版税与顾问酬金至少达 869,453 新西兰元。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 31)]]
 > - **0.9% 慈善支出占比** 2015 年 Trust 实际用于公共教育资助的慈善捐赠仅约 25.1 万新西兰元，不足当年集团总营收的 0.9%。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 71–73)]]
-> - **5,000 万美元企业体量** 2018 年接盘 Visible Learningplus 全球专营权的美国[[Corwin Press|考文出版社]]年营业额估算达 5,000 万美元。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 25, 31)]]
+> - **5,000 万美元企业体量** 2018 年接盘 Visible Learningplus 全球专营权的美国[[Corwin Press|考文出版社]]年营业额估算达 5,000 万美元。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 25, 31)]]
 
 ---
 
@@ -194,10 +194,10 @@ updated: 2026-10-16
 > > 批判学者依据新西兰慈善服务局（Charities Services）公开财务报表指出，Cognition Group 通过设立非营利 Trust 控股营利 Limited，在 2012 至 2014 年间利用大额关联交易使得商业实体连续多年呈现账面亏损、免缴企业所得税；而 Trust 每年反哺公共教育的实际慈善赠款仅占总营收的 0.9% 左右。这种以慈善之名行避税之实的法人结构，严重背离了公益免税法人的立法初衷。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 71–73)]]
 >
 > > [!axis] 学者兼职、利益冲突与政商旋转门争议
-> > 学者[[John Hattie|约翰·哈蒂]]在新西兰教育界享有崇高声誉，长期担任教育部高级顾问与重大政策委员会主席；然而哈蒂在担任 Cognition Trust 董事会成员的同时，又通过 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 的商业专营直接从 Cognition 营利实体领取巨额版税分红（5 年间超 86.9 万新西兰元）。即使这在法律形式上未被认定为违法违规，但学者公信力与商业利益链条的深度绑定，在学术伦理上存在重大的利益冲突与道义模糊性。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 31)]]
+> > 学者[[John Hattie|约翰·哈蒂]]在新西兰教育界享有崇高声誉，长期担任教育部高级顾问与重大政策委员会主席；然而哈蒂在担任 Cognition Trust 董事会成员的同时，又通过 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 的商业专营直接从 Cognition 营利实体领取巨额版税分红（5 年间超 86.9 万新西兰元）。即使这在法律形式上未被认定为违法违规，但学者公信力与商业利益链条的深度绑定，在学术伦理上存在重大的利益冲突与道义模糊性。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 31)]]
 >
 > > [!axis] 公共教育资产私有化与新自由主义资本化
-> > 从《明日学校》推行以来，Cognition 的演进揭示了新自由主义准市场如何将国家原本应当无偿提供的公共教育服务与知识资源逐步打包为昂贵的商品。通过将原本由大学公共资金资助的学术研究转变为受版权严密保护的商业专营品牌，排除了无力支付高昂咨询费的弱势学区，加剧了教育资源分配的市场化不公。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 30–31)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 65)]]
+> > 从《明日学校》推行以来，Cognition 的演进揭示了新自由主义准市场如何将国家原本应当无偿提供的公共教育服务与知识资源逐步打包为昂贵的商品。通过将原本由大学公共资金资助的学术研究转变为受版权严密保护的商业专营品牌，排除了无力支付高昂咨询费的弱势学区，加剧了教育资源分配的市场化不公。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 30–31)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 65)]]
 
 ---
 
@@ -209,7 +209,7 @@ updated: 2026-10-16
 > *During the 2012–2014 period, the donations to the Trust eliminated the taxable income of Cognition Education Limited and its subsidiaries... in 2015, the Trust's charitable distributions to beneficiaries were only \$251,000, representing a mere 0.9% of the Group's total revenue. Whether this organisation should continue to enjoy tax-exempt charitable trust status while operating primarily as a commercial conglomerate raises severe public benefit concerns.*
 
 > [!citation-card] 学者董事身份与商业版税分红的伦理困境
-> [[John Hattie|哈蒂]]不仅是新西兰教育体系极具权势的政策顾问，同时还担任认知[[The Education Trust|教育信托]]理事会董事，并在 2011 至 2015 年间从认知教育商业实体收取了至少 869,453 新西兰元的版税与顾问费……即便这在法律技术层面规避了违规认定，但学者将公共政策影响力转化为私人特许经营收益的旋转门安排，在伦理观感上极其成问题。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 31)]]
+> [[John Hattie|哈蒂]]不仅是新西兰教育体系极具权势的政策顾问，同时还担任认知[[The Education Trust|教育信托]]理事会董事，并在 2011 至 2015 年间从认知教育商业实体收取了至少 869,453 新西兰元的版税与顾问费……即便这在法律技术层面规避了违规认定，但学者将公共政策影响力转化为私人特许经营收益的旋转门安排，在伦理观感上极其成问题。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 31)]]
 >
 > *Hattie served on the board of the Cognition Education Trust while simultaneously receiving substantial third-party royalties and fees totaling at least \$869,453 NZD between 2011 and 2015 from Cognition's commercial operations... Even if this does not technically constitute a formal breach of conflict-of-interest regulations, the optics of converting academic stature into privatized commercial consulting royalties are deeply troubling.*
 
@@ -225,7 +225,7 @@ updated: 2026-10-16
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Bates_2017_CognitionEducationTrust|Bates (2017)]] — 详尽梳理 Cognition Education 从 1989 年 Multi Serve 建立、中东建校扩张、引入 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 到编织河道模式转型的官方受托组织史专著。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统审计新西兰学校市场化生态的研究报告，深度解剖 Cognition Group 慈善信托与营利公司双层架构中的税负消除策略与 0.9% 公益支出失衡问题（pp. 65–73）。
-> - [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]] — 运用[[Critical Policy Analysis|批判性政策分析]]，揭露 Cognition 专营 [[Visible Learning]] 知识品牌、向[[John Hattie|哈蒂]]支付超 86.9 万新西兰元版税以及向[[Corwin Press|考文出版社]]（Corwin）转让专营权的政商旋转门资本运作（pp. 30–31）。
+> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 运用[[Critical Policy Analysis|批判性政策分析]]，揭露 Cognition 专营 [[Visible Learning]] 知识品牌、向[[John Hattie|哈蒂]]支付超 86.9 万新西兰元版税以及向[[Corwin Press|考文出版社]]（Corwin）转让专营权的政商旋转门资本运作（pp. 30–31）。
 
 ---
 
@@ -247,4 +247,4 @@ updated: 2026-10-16
 > | [[John Hattie]] | 人物 | 关键董事 | 兼任 Cognition Trust 理事会董事，并将自身研究专营权授予该机构以换取长期大额版税。 |
 > | [[Argument_Bates_2017_CognitionEducationTrust\|Bates (2017)]] | 论证 | 历史来源 | 提供组织创设、三次转型危机及编织河道经营模式的详尽经验实证史料。 |
 > | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] | 论证 | 审计来源 | 提供集团双层法人治理、关联交易免税与 0.9% 慈善支出占比的实证审计证据。 |
-> | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] | 论证 | 批判来源 | 提供 86.9 万新西兰元董事酬金明细、考文并购数据与[[Neo-Taylorism\|新泰勒主义]]知识商品化批判。 |
+> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 论证 | 批判来源 | 提供 86.9 万新西兰元董事酬金明细、考文并购数据与[[Neo-Taylorism\|新泰勒主义]]知识商品化批判。 |

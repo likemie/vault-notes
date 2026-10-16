@@ -61,7 +61,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Moisio_2022_Springer]]"
   - "[[Argument_Reynolds_2024_JICT]]"
-  - "[[Argument_Bown_2024_JEP]]"
+  - "[[Argument_Bown_2024_JEconPersp]]"
 confidence: high
 status: active
 created: 2026-05-07
@@ -159,8 +159,8 @@ updated: 2026-10-16
 > [!concept-lens] [[Agglomeration Externalities|集聚外部性]]与地缘安全韧性的权衡
 > 探讨国家在构建安全自主的供应链时所付出的经济效率代价。
 
-> [!claim] [[Argument_Bown_2024_JEP|Bown and Wang (2024)]]
-> **集聚外部性稀释与国家安全溢价** 查德·博恩（Chad P. Bown）与汪智（Zhi Wang）指出，波特理论所强调的竞争优势高度依存于紧密的地理集聚（如东亚高度集中的半导体制造生态）；然而，当国家为了防范地缘对抗与断链风险，通过产业政策强行将产能分散至本土各州或多个友好盟国（友岸外包）时，不可避免地牺牲了[[Agglomeration Externalities|集聚外部性]]并承担了更高的单位制造成本。这一空间重组表明，当代国家竞争优势的构建已由单纯追求效率最优化转向支付“国家安全与韧性保险溢价”。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 102–103)]]
+> [!claim] [[Argument_Bown_2024_JEconPersp|Bown and Wang (2024)]]
+> **集聚外部性稀释与国家安全溢价** 查德·博恩（Chad P. Bown）与汪智（Zhi Wang）指出，波特理论所强调的竞争优势高度依存于紧密的地理集聚（如东亚高度集中的半导体制造生态）；然而，当国家为了防范地缘对抗与断链风险，通过产业政策强行将产能分散至本土各州或多个友好盟国（友岸外包）时，不可避免地牺牲了[[Agglomeration Externalities|集聚外部性]]并承担了更高的单位制造成本。这一空间重组表明，当代国家竞争优势的构建已由单纯追求效率最优化转向支付“国家安全与韧性保险溢价”。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 102–103)]]
 
 ---
 
@@ -172,7 +172,7 @@ updated: 2026-10-16
 > | **命题一｜本地化[[Innovation Ecosystem\|创新生态]]** | 国家竞争优势源于本地化制度、集群与生产率升级能力 | 破除静态先天要素禀赋论，确立动态生产率模型 | [[Michael Porter\|Porter (1990)]] |
 > | **命题二｜地缘政治想象** | 竞争力叙事驱动国家资源向核心枢纽倾斜并诱发空间极化 | 揭示国家竞争优势理论作为空间政治意识形态的建构性 | [[Argument_Moisio_2022_Springer\|Moisio (2022)]] |
 > | **命题三｜现代产业战略重构** | 通过战略注资、过程治理与附加条件重塑国家制造竞争力 | 克服传统产业政策挑选赢家与政治寻租失灵 | [[Argument_Reynolds_2024_JICT\|Reynolds (2024)]] |
-> | **命题四｜安全与集聚权衡** | 地缘安全驱动的供应链分散以牺牲传统集聚经济为代价 | 阐明国家在效率与安全韧性之间的结构性战略权衡 | [[Argument_Bown_2024_JEP\|Bown and Wang (2024)]] |
+> | **命题四｜安全与集聚权衡** | 地缘安全驱动的供应链分散以牺牲传统集聚经济为代价 | 阐明国家在效率与安全韧性之间的结构性战略权衡 | [[Argument_Bown_2024_JEconPersp\|Bown and Wang (2024)]] |
 
 ---
 
@@ -182,7 +182,7 @@ updated: 2026-10-16
 > - **1990 年 — 《国家竞争优势》出版与钻石模型确立** [[Michael Porter|迈克尔·波特]]出版奠基巨著，提出由要素条件、需求条件、相关支持产业与企业战略构成的“钻石模型”，开创战略管理与经济地理学新[[Paradigm|范式]]。
 > - **1990 年代中后期 — 经济地理学空间化与区域集群热潮** 斯托珀（Storper）与斯科特（Scott）等学者将波特理论应用于[[Post-Fordism|后福特主义]]区域[[Network Analysis|网络分析]]，推动了全球范围内以高科技集群、创业城市与“[[Innovation Hub|创新枢纽]]”为导向的城市空间政策。
 > - **2010 年代 — [[Critical Geopolitics|批判地缘政治学]]转向与[[Knowledge-Based Economization|知识经济化]]解析** 莫伊西奥等学者将波特理论解构为推动知识经济化与空间极化的核心地缘政治想象，批判其诱发的区域间发展断裂。
-> - **2020 年代至今 — 现代产业战略与大国地缘科技竞争重塑** 在全球大国科技竞争与供应链断链危机下，美欧等主要经济体通过直接立法干预（如《芯片与科学法》《[[Inflation Reduction Act|通胀削减法]]》），将国家竞争优势从自由市场集群自发培育推进为由国家战略资本主导、兼具供应链韧性与地缘安全防御的复合治理实践。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 1–6)]]; [[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 101–103)]]
+> - **2020 年代至今 — 现代产业战略与大国地缘科技竞争重塑** 在全球大国科技竞争与供应链断链危机下，美欧等主要经济体通过直接立法干预（如《芯片与科学法》《[[Inflation Reduction Act|通胀削减法]]》），将国家竞争优势从自由市场集群自发培育推进为由国家战略资本主导、兼具供应链韧性与地缘安全防御的复合治理实践。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 1–6)]]; [[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 101–103)]]
 
 ---
 
@@ -240,4 +240,4 @@ updated: 2026-10-16
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Moisio_2022_Springer|Moisio (2022)]] — 从[[Critical Geopolitics|批判地缘政治学]]视角解构波特国家竞争优势理论，系统阐明其作为[[Knowledge-Based Economization|知识经济化]]地缘政治想象的构成性功能与空间极化效应。
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 结合美国现代产业战略实证阐述如何通过直接投资、过程治理与附加条件重构 21 世纪国家在先进制造与绿色技术领域的竞争优势。
-> - [[Argument_Bown_2024_JEP|Bown and Wang (2024)]] — 论证全球[[Vertical Disintegration|纵向离散]]网络下大国产业竞争中的[[Agglomeration Externalities|集聚经济]]效益与地缘安全韧性之间的结构性权衡。
+> - [[Argument_Bown_2024_JEconPersp|Bown and Wang (2024)]] — 论证全球[[Vertical Disintegration|纵向离散]]网络下大国产业竞争中的[[Agglomeration Externalities|集聚经济]]效益与地缘安全韧性之间的结构性权衡。

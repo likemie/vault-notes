@@ -64,7 +64,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Higgins_2016_ROE]]"
-  - "[[Argument_Simpson_2017_JEP]]"
+  - "[[Argument_Simpson_2017_JEdPolicy]]"
 confidence: high
 status: completed
 created: 2026-09-15
@@ -97,14 +97,14 @@ updated: 2026-10-16
 > - **2011–2016** 伴随英国[[Education Endowment Foundation\|教育捐赠基金会]]（[[Education Endowment Foundation\|EEF]]）设立，担任[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]首席主持学者，开创了将抽象标准化[[Effect Size\|效应量]]转化为通俗“进展月数”的循证决策转译[[Paradigm\|范式]]。
 > - **2016** 在 *Review of Education* 发表专题长文，系统阐述[[Meta-meta-analysis\|元综合]]与跨元分析比较的方法论风险与决策价值，为工具包的整合逻辑构建了辩护框架（[[Argument_Higgins_2016_ROE\|Higgins, 2016]]）。
 > - **2016** 与齐·肖（ZhiMin Xiao）及阿迪特·卡西姆（Adetayo Kasim）利用[[National Pupil Database\|国家学生数据库]]微观数据，全量复算 17 项 EEF 试验，揭示[[Model Dependency\|模型依赖性]]现象，成果直接转化为《EEF 评估统计分析指南》（*Statistical Analysis Guidance for EEF Evaluations*; The EEF, 2018）的制度约束（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 52]]）。
-> - **2017** 其领衔的工具包受到杜伦大学同僚[[Adrian Simpson\|阿德里安·辛普森]]（Adrian Simpson）在 *Journal of Education Policy* 上的尖锐技术批判，引发关于效应量灵敏度操纵与干预联盟表有效性的广泛方法论大讨论（[[Argument_Simpson_2017_JEP\|Simpson, 2017]]）。
+> - **2017** 其领衔的工具包受到杜伦大学同僚[[Adrian Simpson\|阿德里安·辛普森]]（Adrian Simpson）在 *Journal of Education Policy* 上的尖锐技术批判，引发关于效应量灵敏度操纵与干预联盟表有效性的广泛方法论大讨论（[[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017]]）。
 
 ---
 
 ## 主要著作与思想发展
 
 > [!work-line] 主要著作
-> - **2013 — *[[Sutton Trust\|The Sutton Trust]]-[[EEF Teaching and Learning Toolkit]]*** 领衔编制覆盖 30 余类通用教学策略的[[Meta-meta-analysis\|二阶元分析]]决策工具，首创结合学习进展月数、实施成本与证据安全性星级的三维呈现框架。[[Argument_Simpson_2017_JEP\|(Simpson, 2017, p. 450)]]
+> - **2013 — *[[Sutton Trust\|The Sutton Trust]]-[[EEF Teaching and Learning Toolkit]]*** 领衔编制覆盖 30 余类通用教学策略的[[Meta-meta-analysis\|二阶元分析]]决策工具，首创结合学习进展月数、实施成本与证据安全性星级的三维呈现框架。[[Argument_Simpson_2017_JEdPolicy\|(Simpson, 2017, p. 450)]]
 > - **2016 — *Meta-synthesis and comparative metaanalysis of education research findings: some risks and benefits*** 追溯从皮尔逊 1904 年到现代元综合的演进，系统论证跨[[Meta-analysis\|元分析]]比较虽然面临“苹果与橙子”不可比的技术风险，但在控制[[Heterogeneity\|异质性]]前提下仍是回答教育干预相对成效的最佳可用手段。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, pp. 31–53)]]
 > - **2016 — *A re-analysis of 17 [[Education Endowment Foundation]] evaluations*** 对 17 项教育[[Randomised Controlled Trials\|随机对照试验]]微观数据应用 4 种主流统计模型进行并行复算，证实 12 项试验存在严重的[[Model Dependency\|模型依赖性]]漂移，为国际循证试验规范提供了关键实证预警。[[Argument_Edovald_Nevill_2021_ECNUROE\|(Edovald & Nevill, 2021, p. 52)]]
 
@@ -137,7 +137,7 @@ updated: 2026-10-16
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
 > - [[Argument_Higgins_2016_ROE\|Higgins (2016)]] — 系统阐述[[Meta-analysis\|元分析]]综合的方法论风险与政策转译价值，奠定工具包的学理基础。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 记录 Higgins 等对 17 项早期试验的复算如何揭示模型依赖性，并催生《EEF 评估统计分析指南》（2018）。
-> - [[Argument_Simpson_2017_JEP\|Simpson (2017)]] — 杜伦大学同僚 Simpson 对 Higgins 领衔的工具包提出尖锐批判，指责[[Effect Size\|效应量]]排序混淆了试验敏感度操纵与教学有效性。
+> - [[Argument_Simpson_2017_JEdPolicy\|Simpson (2017)]] — 杜伦大学同僚 Simpson 对 Higgins 领衔的工具包提出尖锐批判，指责[[Effect Size\|效应量]]排序混淆了试验敏感度操纵与教学有效性。
 
 ---
 
@@ -157,7 +157,7 @@ updated: 2026-10-16
 > > [!axis] 通用[[Effect Size\|效应量]]联盟表 vs 试验设计灵敏度操纵（Simpson vs Higgins）
 > > 争论焦点在于[[Meta-meta-analysis\|二阶元分析]]工具包是否能真实反映不同教学策略的优劣，还是沦为研究者操纵实验设计的虚假排位。
 > >
-> > - **[[Adrian Simpson]]（阿德里安·辛普森）（2017）** 认为效应量高度受对照组选择、样本方差缩减与非标准化测试灵敏度的操纵，工具包联盟表实质是“研究设计对操纵开放程度的排名”，跨策略比较属于类别错误。[[Argument_Simpson_2017_JEP\|(Simpson, 2017, pp. 450–466)]]
+> > - **[[Adrian Simpson]]（阿德里安·辛普森）（2017）** 认为效应量高度受对照组选择、样本方差缩减与非标准化测试灵敏度的操纵，工具包联盟表实质是“研究设计对操纵开放程度的排名”，跨策略比较属于类别错误。[[Argument_Simpson_2017_JEdPolicy\|(Simpson, 2017, pp. 450–466)]]
 > > - **Steve [[Argument_Higgins_2016_ROE|Higgins (2016)]]** 承认跨[[Meta-analysis\|元分析]]比较存在局限，但辩护称在真实决策环境中，结合挂锁证据星级与成本估计的二阶综合，是防止政策制定者受商业噱头蒙蔽的最优务实方案。[[Argument_Higgins_2016_ROE\|(Higgins, 2016, pp. 31–53)]]
 
 > [!critique] 外部批评

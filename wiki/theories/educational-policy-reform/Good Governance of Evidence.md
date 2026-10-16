@@ -51,11 +51,11 @@ related_persons:
   - "[[Mark Rickinson]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Rickinson_2022_ER]]"
+  - "[[Argument_Rickinson_2022_EducRes]]"
 confidence: high
 status: draft
 created: 2026-09-18
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Good Governance of Evidence
@@ -71,10 +71,10 @@ updated: 2026-10-07
 > - **知识位置** 根植于公共行政学、政策政治学与科学知识社会学；由英国政策学者[[Justin Parkhurst\|贾斯汀·帕克赫斯特]]（Justin Parkhurst）于 2017 年在其专著《The Politics of Evidence》中系统阐发，并被跨领域证据生态与教育[[Research Utilization Models\|研究使用模型]]深度吸纳。
 
 > [!claim] 核心主张
-> 证据在公共决策中的运用本质上是兼具经验事实与价值权衡的政治过程；[[Research Utilization\|证据使用]]的质量并不取决于特定决策最终产出何种既定结果，而取决于决策制定与实施过程本身的程序正当性、透明度与可争辩性，良好治理必须在科学严谨性与民主审议之间建立制度化平衡。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 140, 146–147)]]
+> 证据在公共决策中的运用本质上是兼具经验事实与价值权衡的政治过程；[[Research Utilization\|证据使用]]的质量并不取决于特定决策最终产出何种既定结果，而取决于决策制定与实施过程本身的程序正当性、透明度与可争辩性，良好治理必须在科学严谨性与民主审议之间建立制度化平衡。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 140, 146–147)]]
 
 > [!citation-card] 证据良好治理的制度原则
-> 证据的良好治理并非要求排除政治对证据的干预，而是要求建立健全的制度程序，确保技术严谨性与社会价值诉求在透明、负责且具备可争辩性的机制中展开审议。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, p. 140)]]
+> 证据的良好治理并非要求排除政治对证据的干预，而是要求建立健全的制度程序，确保技术严谨性与社会价值诉求在透明、负责且具备可争辩性的机制中展开审议。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, p. 140)]]
 >
 > *Good governance of evidence represents the institutionalisation of principles that ensure rigorous, transparent, and contestable processes of evidence use within democratic policymaking.*
 
@@ -97,14 +97,14 @@ updated: 2026-10-07
 ## 核心命题与机制
 
 > [!proposition-chain] 核心命题一｜证据在公共政策与教育决策中的利用本质上属于政治与规范过程，无法通过纯粹的[[Technical Rationality\|技术官僚理性]]去政治化
-> - **前提一** 科学研究证据能够揭示某种干预或政策在特定条件下的经验效应，但无法直接裁决哪种社会目标、价值取向或资源分配更具正当性。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, p. 140)]]
+> - **前提一** 科学研究证据能够揭示某种干预或政策在特定条件下的经验效应，但无法直接裁决哪种社会目标、价值取向或资源分配更具正当性。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, p. 140)]]
 > - **前提二** 公共教育决策必然牵涉教师、学生、家长及纳税人等多方主体的利益博弈与价值竞争，不存在[[Value Neutrality\|价值中立]]的技术最优解。
 > - **推导** 试图将循证决策还原为纯粹的实证有效性指标，实质是将特定群体的规范立场隐藏于技术官僚的专业[[Discourse|话语]]之下；唯有承认政策过程的政治属性，才能建立正当的证据治理规则。
 
 > [!proposition-chain] 核心命题二｜评价[[Research Utilization\|证据使用]]质量的核心基准在于决策过程的程序正当性、透明度与可争辩性，而非单一的下游既定成效
 > - **前提一** 下游成效指标易受宏观经济、社会阶层变迁与偶发环境因素的扰动，单一以结果问责极易诱发被考核者的指标合谋与象征性应对。
 >   > [!evidence-grid]- 证据
->   > - **跨领域综述证据** 英国与澳大利亚在公共卫生与教育领域的综述表明，过度依赖下游结果审计促使机构选择性汇报有利于自身的数据，损害了全系统的信任机制。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, p. 140)]]
+>   > - **跨领域综述证据** 英国与澳大利亚在公共卫生与教育领域的综述表明，过度依赖下游结果审计促使机构选择性汇报有利于自身的数据，损害了全系统的信任机制。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, p. 140)]]
 > - **前提二** 健全的治理框架要求决策主体公开证据采纳逻辑，允许相左的研究结论与一线实践者的反向证据进入审议渠道。
 > - **推导** 证据的高质量使用应被界定为一种制度化德性：通过保障证据源头的多元性、决策依据的透明度以及异议质询的可行性，确保公共决策经得起严谨性与合法性的双重检验。
 
@@ -186,9 +186,9 @@ updated: 2026-10-07
 ## 发展脉络
 
 > [!dev-timeline] 发展脉络
-> - **2017 — 专著奠基** [[Justin Parkhurst]] 出版专著《The Politics of Evidence: From Evidence-based Policy to the Good Governance of Evidence》，系统批判技术主义弊端并确立良好治理架构。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, p. 147)]]
+> - **2017 — 专著奠基** [[Justin Parkhurst]] 出版专著《The Politics of Evidence: From Evidence-based Policy to the Good Governance of Evidence》，系统批判技术主义弊端并确立良好治理架构。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, p. 147)]]
 > - **2018–2021 — 跨领域扩展** 理论广泛渗透至卫生政策、发展经济学及环境治理领域，引发政策界对证据政治学与审议问责的广泛研讨。
-> - **2022 — 教育证据生态吸纳** [[Mark Rickinson]] 等人在探讨教育证据高质量使用框架（[[Quality Use of Research Evidence Framework\|QURE]]）时，将证据良好治理引入宏观系统影响维度，确立其在教育科研转化治理中的理论地位。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 140, 146–147)]]
+> - **2022 — 教育证据生态吸纳** [[Mark Rickinson]] 等人在探讨教育证据高质量使用框架（[[Quality Use of Research Evidence Framework\|QURE]]）时，将证据良好治理引入宏观系统影响维度，确立其在教育科研转化治理中的理论地位。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 140, 146–147)]]
 
 ---
 
@@ -200,20 +200,20 @@ updated: 2026-10-07
 > > 批评者质疑复杂严密的程序透明、多元质询与可争辩性审议会显著拉长决策周期，在应对突发性公共教育危机（如疫情期间紧急远程教学部署）时可能延误关键行动时机。
 > >
 > > - **技术效率论者（2019）** 认为危机时刻需要专业官僚依据最快速的证据直接定策，过度程序化会瘫痪应急机制。
-> > - **Justin Parkhurst（2017）** 强调即便在危机状态下，缺乏透明度与可争辩性的武断决策更易造成不可逆的系统性创伤与公众信任瓦解。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, p. 140)]]
+> > - **Justin Parkhurst（2017）** 强调即便在危机状态下，缺乏透明度与可争辩性的武断决策更易造成不可逆的系统性创伤与公众信任瓦解。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, p. 140)]]
 >
 > > [!axis] 资源分配与专业审议门槛不平等
 > > 证据的可争辩性前提是各方具备平等的证据解读与学术质询能力；然而处于边缘地位的学校与社区往往缺乏足够的[[Research Literacy\|研究素养]]参与高层审议。
 > >
 > > - **批判教育学者（2020）** 认为缺乏底层赋权配套的审议机制仍将沦为精英知识分子的独白。
-> > - **Rickinson 等人（2022）** 呼吁在系统层面内置专业支持与研究素养培育，填补参与能力鸿沟。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 142–143)]]
+> > - **Rickinson 等人（2022）** 呼吁在系统层面内置专业支持与研究素养培育，填补参与能力鸿沟。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 142–143)]]
 
 > [!critique]- 批评索引
-> - [[Argument_Rickinson_2022_ER\|Rickinson et al., 2022a]] — 提示治理原则需进一步下沉至学区与中小学校本情境，强化微观层面的实践可操作性。
+> - [[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a]] — 提示治理原则需进一步下沉至学区与中小学校本情境，强化微观层面的实践可操作性。
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Rickinson_2022_ER\|Rickinson et al., 2022a]] — 将良好治理理论引申为 [[Quality Use of Research Evidence Framework\|QURE]] 框架宏观系统支持构件的[[Epistemology\|认识论]]基石。
+> - [[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a]] — 将良好治理理论引申为 [[Quality Use of Research Evidence Framework\|QURE]] 框架宏观系统支持构件的[[Epistemology\|认识论]]基石。

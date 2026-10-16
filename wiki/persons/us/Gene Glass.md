@@ -58,7 +58,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
-  - "[[Argument_Johnson_2023_CE]]"
+  - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
 confidence: high
 status: active
@@ -91,7 +91,7 @@ updated: 2026-10-16
 > - **1965 年** 获得威斯康星大学[[James Madison|麦迪逊]]分校（University of Wisconsin-Madison）教育心理学博士学位，师从统计学专家从事量化测量研究。
 > - **1975–1976 年** 当选美国教育研究协会（[[American Educational Research Association|AERA]]）主席；在 1976 年主席就职演说中首次创造“[[Meta-analysis|元分析]]”一词，将其界定为“对大量个别研究的统计分析结果进行再分析，以整合其实证发现”。
 > - **1977 年** 与玛丽·李·史密斯（Mary Lee Smith）合作发表关于心理治疗效果的里程碑元分析，发现治疗组平均[[Effect Size|效应量]]为 0.6 个标准差（$d=0.60$），有力反驳了 Hans Eysenck 所谓心理治疗无效的学术垄断共识。[[Argument_Higgins_2016_ROE|(Higgins, 2016, pp. 36–37)]]
-> - **1979 年** 与玛丽·李·史密斯联合发表关于[[Class Size|班级规模]]与[[Academic Achievement|学业成就]]关系的开创性元分析，绘制出班额缩减对学生[[Academic Achievement|学业成绩]]非线性提升的经典斜率曲线。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch. 17)]]; [[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 32)]]
+> - **1979 年** 与玛丽·李·史密斯联合发表关于[[Class Size|班级规模]]与[[Academic Achievement|学业成就]]关系的开创性元分析，绘制出班额缩减对学生[[Academic Achievement|学业成绩]]非线性提升的经典斜率曲线。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|(Cohen et al., 2011, Ch. 17)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 32)]]
 > - **2000 年** 发表名篇 *Meta-analysis at 25*，回顾元分析诞生四分之一世纪的成就与异化，严厉批评后继者将丰富多维的元分析退化为追求单一均值排行的工具主义倾向。
 
 ---
@@ -101,7 +101,7 @@ updated: 2026-10-16
 > [!work-line] 主要著作
 > - **1976 — *Primary, Secondary, and [[Meta-analysis]] of Research*** 首次确立初级分析、二级分析与元分析的三分法架构，正式确立元分析的学科合法性与统计学规程。
 > - **1977 — *[[Meta-analysis]] of Psychotherapy Outcome Studies***（与 Mary Lee Smith 合著） 首次在大规模临床实证中应用元分析，以 $d=0.60$ [[Effect Size|效应量]]证实心理治疗的积极效能。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 37)]]
-> - **1979 — *Meta-Analysis of Research on [[Class Size]] and Achievement***（与 Mary Lee Smith 合著） 经典班级规模元分析，在严密控制质量的[[Experimental Research|实验研究]]中证实班级规模从 40 人压减至 1 人时[[Academic Achievement|学业成绩]]提升超过 30 个百分位点。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 32)]]
+> - **1979 — *Meta-Analysis of Research on [[Class Size]] and Achievement***（与 Mary Lee Smith 合著） 经典班级规模元分析，在严密控制质量的[[Experimental Research|实验研究]]中证实班级规模从 40 人压减至 1 人时[[Academic Achievement|学业成绩]]提升超过 30 个百分位点。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 32)]]
 > - **1981 — *Meta-Analysis in Social Research***（与 McGaw 及 Smith 合著） 系统阐述社会科学元分析的统计学规范、效应量变换公式与[[Publication Bias|发表偏倚]]矫正方案。
 > - **2000 — *Meta-Analysis at 25*** 25 周年反思力作，强调探索[[Heterogeneity|异质性]]（[[Heterogeneity]]）与分布特征是元分析的灵魂，警示不可用均值抹杀图表。
 
@@ -123,7 +123,7 @@ updated: 2026-10-16
 > *The result of a meta-analysis should never be an average; it should be a graph.*
 
 > [!citation-card] [[Class Size|班级规模]]实验曲线的显著增益（Glass & Smith, 1979）
-> 在控制良好的[[Experimental Research|实验研究]]中，班级规模从 40 人减少到 1 人个别辅导时，学生成绩百分位从 50% 显著上升至 80% 以上，差异超过 30 个百分位点。在其他条件相同时，小班学到的东西明显更多。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 32, citing Glass & Smith, 1979, p. 15)]]
+> 在控制良好的[[Experimental Research|实验研究]]中，班级规模从 40 人减少到 1 人个别辅导时，学生成绩百分位从 50% 显著上升至 80% 以上，差异超过 30 个百分位点。在其他条件相同时，小班学到的东西明显更多。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 32, citing Glass & Smith, 1979, p. 15)]]
 >
 > *In well-controlled experimental studies, reducing class size from 40 to 1 person moved student achievement from the 50th percentile to above the 80th percentile, a difference of more than 30 percentile points... all else being equal, more is learned in smaller classes.*
 
@@ -154,7 +154,7 @@ updated: 2026-10-16
 > - **核心合作者** 玛丽·李·史密斯（Mary Lee Smith） — 共同开创心理治疗与[[Class Size|班级规模]]两大里程碑[[Meta-analysis|元分析]]，确立元分析的操作规程与图表规范。
 > - **思想渊源** 本杰明·布鲁姆（Benjamin Bloom） — 影响了其将标准差单位作为跨测验[[Effect Size|效应量]]统一维度的统计学思考。
 > - **争议性继承者** [[John Hattie|约翰·哈蒂]]（John Hattie） — 将元分析进一步聚合为[[Meta-meta-analysis|元-元分析]]，但在操作中走向了简单平均与单一效应量排行榜，被学界指责背离了格拉斯的初衷。
-> - **当代批判审视者** [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]]、[[Argument_Higgins_2016_ROE|Higgins (2016)]]、[[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 援引格拉斯原始曲线与警示名言，批判现代[[Evidence-Based Education|循证教育]]运动对元分析的教条化篡改。
+> - **当代批判审视者** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]、[[Argument_Higgins_2016_ROE|Higgins (2016)]]、[[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 援引格拉斯原始曲线与警示名言，批判现代[[Evidence-Based Education|循证教育]]运动对元分析的教条化篡改。
 
 ---
 
@@ -166,7 +166,7 @@ updated: 2026-10-16
 > > 方法论与[[Positivism|实证主义]]学者质疑[[Meta-analysis|元分析]]将不同测量指标、不同教学法和不同人群的研究混为一谈属于统计炼金术。格拉斯反驳指出，研究水果整体必然包含苹果与橙子，关键在于展现不同条件下的分布差异，而不是机械输出一个毫无指导意义的单一均值。[[Argument_Higgins_2016_ROE|(Higgins, 2016, p. 37)]]
 >
 > > [!axis] 元分析成果遭政策工具化与断章取义截取争议
-> > 批判学者指出，格拉斯与史密斯（1979）原本清晰证实了[[Class Size|班级规模]]减少具有超过 30 个百分位点的巨大增益，但后世政策倡导者（如[[John Hattie|哈蒂]]）却宣称从中提取出 $d=0.09$ 的极低[[Effect Size|效应量]]。格拉斯的严谨实验曲线被剥离上下文，局部极平缓尾端被断章取义截取，充当了政府削减教育经费、推卸增编责任的实证借口。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 32–33)]]
+> > 批判学者指出，格拉斯与史密斯（1979）原本清晰证实了[[Class Size|班级规模]]减少具有超过 30 个百分位点的巨大增益，但后世政策倡导者（如[[John Hattie|哈蒂]]）却宣称从中提取出 $d=0.09$ 的极低[[Effect Size|效应量]]。格拉斯的严谨实验曲线被剥离上下文，局部极平缓尾端被断章取义截取，充当了政府削减教育经费、推卸增编责任的实证借口。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 32–33)]]
 
 ---
 
@@ -180,7 +180,7 @@ updated: 2026-10-16
 > *Synthesizing evidence across research boundaries is not aimed at erasing differences between studies, but at understanding what conditions produce fluctuations in effects. Exploring the distribution of variability itself is the irreplaceable epistemological value of meta-analysis.*
 
 > [!citation-card] [[Class Size|班级规模]]实验证据的政策篡改
-> 哈蒂声称从格拉斯与史密斯（1979）的元分析中提取出 $d=0.09$ 的极低[[Effect Size|效应量]]，但 Glass 与 Smith 在该文献正文中根本没有报告过该数值……[[John Hattie|哈蒂]]极有可能是单独截取了曲线最右端极其平缓的局部尾部，从而将班级规模在小班阶段呈现的急剧攀升收益完全抹杀。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 32–33)]]
+> 哈蒂声称从格拉斯与史密斯（1979）的元分析中提取出 $d=0.09$ 的极低[[Effect Size|效应量]]，但 Glass 与 Smith 在该文献正文中根本没有报告过该数值……[[John Hattie|哈蒂]]极有可能是单独截取了曲线最右端极其平缓的局部尾部，从而将班级规模在小班阶段呈现的急剧攀升收益完全抹杀。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 32–33)]]
 >
 > *Hattie claimed to extract a meager effect size of d=0.09 from Glass and Smith's (1979) meta-analysis, yet Glass and Smith never reported this figure in their text... Hattie most likely isolated the far right, extremely flat tail of the curve, completely erasing the dramatic gains achieved when reducing class sizes to smaller levels.*
 
@@ -192,7 +192,7 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 详尽追溯元分析的起源，阐明格拉斯如何开创心理治疗效果的元分析并确立通用[[Effect Size|效应量]]尺度，同时引述其关于苹果与橙子辩护及图表警示的名言。
-> - [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]] — 引用格拉斯与史密斯（1979）关于[[Class Size|班级规模]]从 40 人缩至 1 人提升 30 个百分位的原始实验曲线，揭露《[[Visible Learning|可见的学习]]》将[[Primary and Secondary Documents|原始文献]]篡改为 $d=0.09$ 的断章取义行径（pp. 32–33）。
+> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 引用格拉斯与史密斯（1979）关于[[Class Size|班级规模]]从 40 人缩至 1 人提升 30 个百分位的原始实验曲线，揭露《[[Visible Learning|可见的学习]]》将[[Primary and Secondary Documents|原始文献]]篡改为 $d=0.09$ 的断章取义行径（pp. 32–33）。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 引用格拉斯关于“元分析结果应是图表而非均值”的警告，批判[[Evidence-Based Education|证据本位教育]]对[[Heterogeneity|异质性]]研究的强制平均与情境剥离（p. 9）。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen et al. (2011, Ch. 17)]] — 教育研究方法经典教材，详尽解析格拉斯与史密斯 1979 年班级规模元分析的开创性设计及其方法学里程碑地位。
 
@@ -212,5 +212,5 @@ updated: 2026-10-16
 > | [[Heterogeneity]] | 概念 | 理论警示 | 坚称元分析的宗旨在于通过图表呈现变异与异质性，而非追求单一均值。 |
 > | [[John Hattie]] | 人物 | 演变对照 | 进一步将元分析推广至政策大众层面，但在操作中走向了格拉斯所反对的均值排行。 |
 > | [[Evidence-Based Education]] | 概念 | 间接奠基 | 其开创的量化证据综合逻辑构成了全球循证教育运动的底层方法学基础设施。 |
-> | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] | 论证 | 批判来源 | 提供格拉斯 1979 年班级规模原始曲线证据，揭露当代畅销书断章取义的实[[Falsification\|证伪]]造。 |
+> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 论证 | 批判来源 | 提供格拉斯 1979 年班级规模原始曲线证据，揭露当代畅销书断章取义的实[[Falsification\|证伪]]造。 |
 > | [[Argument_Higgins_2016_ROE\|Higgins (2016)]] | 论证 | 思想史源 | 提供格拉斯开创元分析的思想演进史料与关于水果和图表的关键学术引文。 |

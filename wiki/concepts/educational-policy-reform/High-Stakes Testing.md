@@ -9,7 +9,7 @@ aliases:
 summary: "测验结果对受试者、教师或学校产生重大后果的评估情境，风险程度与不伦理行为发生率正相关，表现为从回冲效应到直接泄题的准备方式连续体；在读写教育中诱发套路化公式写作并驱逐主观阐释，与生成式人工智能合谋加剧成长性认识不正义。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 23
+related_count: 24
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -44,6 +44,7 @@ related_theories:
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch24]]"
   - "[[Argument_Smith_2026_SPE]]"
+  - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_methods:
   - "[[Correlational Research]]"
 confidence: high

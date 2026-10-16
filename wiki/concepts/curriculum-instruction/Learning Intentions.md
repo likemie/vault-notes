@@ -51,7 +51,7 @@ related_facts:
   - "[[Corwin Press]]"
   - "[[Visible Learning Branding and Global Influences]]"
 related_arguments:
-  - "[[Argument_Johnson_2023_CE]]"
+  - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Hattie_2005_ACER]]"
   - "[[Argument_OConnor_2020_AJLL]]"
   - "[[Argument_Biesta_2010_SPE]]"
@@ -68,7 +68,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> 学习意图（Learning Intentions，又称认知学习意图）指教师与学生在教学活动开始前共同明晰并共享的核心认知目标、深层概念理解与能力发展指向。它明确回答了“学生在认知层面应当理解什么、能够运用什么以及为何要学习这一内容”，旨在将课堂重心从表面化的“活动任务完成（Task Completion）”转向深层的“认知意义建构（Cognitive Construction）”（Clarke, Timperley, & Hattie, 2003；Hattie, 2005, p. 17）。然而，在当代循证政策的刚性推行中，学习意图亦面临被异化为行政检查清单与白板打卡表演的制度风险（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p. 29]]）。
+> 学习意图（Learning Intentions，又称认知学习意图）指教师与学生在教学活动开始前共同明晰并共享的核心认知目标、深层概念理解与能力发展指向。它明确回答了“学生在认知层面应当理解什么、能够运用什么以及为何要学习这一内容”，旨在将课堂重心从表面化的“活动任务完成（Task Completion）”转向深层的“认知意义建构（Cognitive Construction）”（Clarke, Timperley, & Hattie, 2003；Hattie, 2005, p. 17）。然而，在当代循证政策的刚性推行中，学习意图亦面临被异化为行政检查清单与白板打卡表演的制度风险（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 29]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向教学设计的认知内核与能力本质，界定学生思维需要达到的深度与广度，而非学生手头所做的具体操作步骤。
@@ -102,7 +102,7 @@ updated: 2026-10-16
 > - **师生显性共享（Explicit Shared Ownership）** 改变教师单向掌控教学意图的黑箱状态，在任务初始阶段即用学生可理解的语言公布并研讨意图，建立透明的师生认知契约。
 > - **进阶锚定性（Progression Anchoring）** 学习意图直接锚定学科的[[Learning Progression|学业进阶]]阶梯，明确指示学生从基础知识再认向关系推理与拓展迁移的跃升路径（[[Argument_Hattie_2005_ACER|Hattie, 2005, pp. 14–17]]）。
 > - **[[Metacognition|元认知]]导向（Metacognitive Orientation）** 促使学生在学习过程中持续进行自我提问与监控，培育自主调节能力。
-> - **制度化异化风险（Institutional Degeneration Risk）** 当学习意图被外部政策刚性量化为行政检查指标时，极易退化为追求形式合规的白板标语，扼杀师生的生成性对话与情境裁量权（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 29–30]]）。
+> - **制度化异化风险（Institutional Degeneration Risk）** 当学习意图被外部政策刚性量化为行政检查指标时，极易退化为追求形式合规的白板标语，扼杀师生的生成性对话与情境裁量权（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 29–30]]）。
 
 > [!logic-map]- 学习意图的理想教学循环与管理主义异化分流
 > ```mermaid
@@ -157,8 +157,8 @@ updated: 2026-10-16
 > [!concept-lens] 管理[[Disciplina and Doctrina|规训]]与[[Performativity|表演性]]异化维度
 > 剖析新自由主义绩效问责与循证政策如何将原本指向深层思维建构的专业概念收割为机械巡查清单，导致[[Teacher Professional Agency|教师专业自主权]]萎缩与教学的人文关系异化。
 
-> [!claim] [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]]
-> **管理主义清单化与表演性白板打卡** 约翰逊与詹岑（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）揭示，当学习意图被新自由主义教育改革（如澳大利亚维多利亚州推行的高影响教学策略 [[Victorian HITS and Literacy Toolkit|HITS]]）纳为自上而下的刚性行政规训指标时，其原初的认知启发功能发生了严重的制度异化。在基层学校中，原本旨在促进深层理解的教学意图，被技术官僚退化为一种[[Neo-Taylorism|新泰勒主义]]式的外在核查清单：教师被硬性规定在上课铃响前，必须在白板上端正书写当堂课题与“学习意图”，否则在校级常规巡查（Learning Walks）中便会被扣分并记为违规（Lilley, 2022; Wescott, 2022）。这种极端形式主义的打卡要求剥夺了教师根据课堂偶发氛围灵活调整教学的专业直觉，将复杂的伦理育人实践降格为应付巡查的合规表演（Performativity），直接导致教师职业倦怠感上升与同行互信瓦解。学生在这种规训环境中不再被视为鲜活的主体，而被物化为需要被赋予应试能力、不断产出测验分数的数据点。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 29–30)]]
+> [!claim] [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]
+> **管理主义清单化与表演性白板打卡** 约翰逊与詹岑（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）揭示，当学习意图被新自由主义教育改革（如澳大利亚维多利亚州推行的高影响教学策略 [[Victorian HITS and Literacy Toolkit|HITS]]）纳为自上而下的刚性行政规训指标时，其原初的认知启发功能发生了严重的制度异化。在基层学校中，原本旨在促进深层理解的教学意图，被技术官僚退化为一种[[Neo-Taylorism|新泰勒主义]]式的外在核查清单：教师被硬性规定在上课铃响前，必须在白板上端正书写当堂课题与“学习意图”，否则在校级常规巡查（Learning Walks）中便会被扣分并记为违规（Lilley, 2022; Wescott, 2022）。这种极端形式主义的打卡要求剥夺了教师根据课堂偶发氛围灵活调整教学的专业直觉，将复杂的伦理育人实践降格为应付巡查的合规表演（Performativity），直接导致教师职业倦怠感上升与同行互信瓦解。学生在这种规训环境中不再被视为鲜活的主体，而被物化为需要被赋予应试能力、不断产出测验分数的数据点。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 29–30)]]
 
 ---
 
@@ -169,7 +169,7 @@ updated: 2026-10-16
 > |---|---|---|---|
 > | **命题一：认知透明与概念深化** | 显性共享学习意图能打破学生对任务外在形式的盲目依赖，激活深层因果理解 | 单元教学初始设计、探究任务解构 | Clarke, Timperley, & Hattie (2003) |
 > | **命题二：形成性反馈基准坐标** | 学习意图为识别[[Learning Gap\|学习差距]]与制定下一步教学行动提供首要参照基准 | 课堂提问、练习诊断与形成性反馈循环 | [[Argument_Hattie_2005_ACER\|Hattie (2005)]]；Black and Wiliam (1998) |
-> | **命题三：管理主义清单异化** | 政策刚性推行将学习意图降格为课前白板打卡，滋生表演性合规与专业[[Cognitive Deskilling\|去技能化]] | 维州 HITS 落地、新泰勒主义巡课、教师专业自主权批判 | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]]；Lilley (2022) |
+> | **命题三：管理主义清单异化** | 政策刚性推行将学习意图降格为课前白板打卡，滋生表演性合规与专业[[Cognitive Deskilling\|去技能化]] | 维州 HITS 落地、新泰勒主义巡课、教师专业自主权批判 | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]；Lilley (2022) |
 
 ---
 
@@ -179,7 +179,7 @@ updated: 2026-10-16
 > - **1990s — [[Formative Assessment|形成性评价]]奠基** 布莱克与威廉（Black & Wiliam, 1998）指出清晰的目标界定是形成性评价有效运转的前提，奠定了将目标从静态考卷转移到动态课堂的理论基础。
 > - **2003–2005 — 概念界定与可见学习吸纳** 克拉克、廷珀利与[[John Hattie|哈蒂]]（Clarke, Timperley, & Hattie, 2003; [[Argument_Hattie_2005_ACER|Hattie, 2005]]）在[[NZ Curriculum Refresh 2021-2026|新西兰课程改革]]中系统阐释 Learning Intentions，明确将其与任务完成区分开来，作为可见学习模型中“清晰教学”（Teacher Clarity）的关键抓手。
 > - **2016–2019 — 商业培训与跨国扩张** 伴随 [[Corwin Press|Corwin]] 出版社对 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 的推广，学习意图与[[Success Criteria|成功标准]]被打包为全球教师培训认证的标准操作程序（SOP），成为各国循证教学改革的通用术语。
-> - **2020–2023 — 政策制度化与批判性反思** 澳大利亚维州将学习意图作为 [[Victorian HITS and Literacy Toolkit|HITS]] 刚性指标后，基层遭遇白板打卡与行政扣分的形式主义困境；奥康纳（[[Argument_OConnor_2020_AJLL|O'Connor, 2020]]）与约翰逊与詹岑（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）从统计学和政治经济学角度展开批判，揭露技术清单对教师[[Professional Judgment|专业判断]]的剥夺。
+> - **2020–2023 — 政策制度化与批判性反思** 澳大利亚维州将学习意图作为 [[Victorian HITS and Literacy Toolkit|HITS]] 刚性指标后，基层遭遇白板打卡与行政扣分的形式主义困境；奥康纳（[[Argument_OConnor_2020_AJLL|O'Connor, 2020]]）与约翰逊与詹岑（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）从统计学和政治经济学角度展开批判，揭露技术清单对教师[[Professional Judgment|专业判断]]的剥夺。
 
 ---
 
@@ -191,13 +191,13 @@ updated: 2026-10-16
 > > 探讨课前预设学习意图与课堂情境生成性之间的张力。
 > >
 > > - **标准化循证取向（[[Argument_Hattie_2005_ACER|Hattie, 2005]]; Almarode & Vandas, 2019）** 强调每节课必须有清晰且明确公布的学习意图，唯有如此才能确保教学对齐核心标准，消除课堂无效漫游。
-> > - **生成性探究与批判学者（[[Argument_Biesta_2010_SPE|Biesta, 2010]]; [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）** 指出过于刻板地恪守预设意图会扼杀课堂意外生成的思维火花与民主讨论，将生动的求知过程窄化为预设答案的封闭灌输。
+> > - **生成性探究与批判学者（[[Argument_Biesta_2010_SPE|Biesta, 2010]]; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）** 指出过于刻板地恪守预设意图会扼杀课堂意外生成的思维火花与民主讨论，将生动的求知过程窄化为预设答案的封闭灌输。
 >
 > > [!axis] 认知清晰度促进 vs [[Neo-Taylorism|新泰勒主义]]白板打卡与[[Performativity|表演性]][[Disciplina and Doctrina|规训]]
 > > 聚焦微观日常实践，分析教学启发工具如何沦为管理主义监控杠杆。
 > >
 > > - **技术官僚与行政督导（DET Victoria, 2017）** 主张将板书学习意图列为巡课硬性考核指标，以此作为保障全校教学合规与问责透明的客观证据。
-> > - **批判教育政策研究者（Lilley, 2022; Wescott, 2022; [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 29–30]]）** 批评将学习意图物化为课前白板打卡是低幼化的技术规训，它诱发了虚假的表演性合规，严重削弱了教师的专业认同与执教热情。
+> > - **批判教育政策研究者（Lilley, 2022; Wescott, 2022; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 29–30]]）** 批评将学习意图物化为课前白板打卡是低幼化的技术规训，它诱发了虚假的表演性合规，严重削弱了教师的专业认同与执教热情。
 
 ---
 
@@ -209,7 +209,7 @@ updated: 2026-10-16
 > | 研究 | 样本与情境 | 研究设计 | 核心指标 | 原始发现与统计结果 | 解释边界 |
 > |---|---|---|---|---|---|
 > | [[Argument_Hattie_2005_ACER\|Hattie (2005)]] / Clarke et al. (2003) | 新西兰中小学历史与社会研究课堂学生群体 | 质性[[Classroom Observation\|课堂观察]]与干预前后认知图式对比 | 任务完成导向 vs 概念深度理解导向 | 在明确引入历史因果学习意图后，学生评判自身表现的依据从字数与卷面整洁度转向殖民冲击与人口变迁的因果推理，深层概念理解显著提升 | 证实了显性学习意图在破除形式化伪装、引导[[Higher-Order Thinking Skills\|高阶思维]]方面的积极认知效能 |
-> | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] / Lilley (2022) | 澳大利亚维多利亚州全面推行 [[Victorian HITS and Literacy Toolkit\|HITS]] 的公立学校教师群 | 政策[[Discourse Analysis\|话语分析]]与教师深度[[Qualitative Interview\|质性访谈]] | 白板板书合规要求、行政巡检（Learning Walks）、教师自主感与倦怠指数 | 教师被硬性要求在上课铃响前在白板上书写学习意图，巡视未达标直接扣分；受访教师普遍反映专业裁量权被剥夺，同行互信下降，滋生严重的表面[[Performativity\|表演性]]合规 | 揭示了当认知工具被官僚体系转化为强制打卡清单时对专业生态造成的破坏性后果 |
+> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] / Lilley (2022) | 澳大利亚维多利亚州全面推行 [[Victorian HITS and Literacy Toolkit\|HITS]] 的公立学校教师群 | 政策[[Discourse Analysis\|话语分析]]与教师深度[[Qualitative Interview\|质性访谈]] | 白板板书合规要求、行政巡检（Learning Walks）、教师自主感与倦怠指数 | 教师被硬性要求在上课铃响前在白板上书写学习意图，巡视未达标直接扣分；受访教师普遍反映专业裁量权被剥夺，同行互信下降，滋生严重的表面[[Performativity\|表演性]]合规 | 揭示了当认知工具被官僚体系转化为强制打卡清单时对专业生态造成的破坏性后果 |
 
 ---
 
@@ -221,7 +221,7 @@ updated: 2026-10-16
 > *Students need to know the learning intentions and the success criteria of the tasks... Too often students think that completing the activity or writing neatly is the goal, rather than understanding the underlying concepts and causal relationships.*
 
 > [!citation-card] 约翰逊与詹岑论学习意图沦为白板打卡与形式主义表演
-> 在澳大利亚部分推行了基于《[[Visible Learning|可见的学习]]》的高影响教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]）的学区中，教师被迫卷入极其肤浅的[[Performativity|表演性]]技术操作，例如在上课前必须在白板上端正写出当堂课程的课题与学习意图。随着证据本位最佳实践取代了原本存在于教师专业决策中的信任，教师的自主权、对职业的热爱以及同行间的专业共同体发展显著萎缩（Lilley, 2022）。规定式的教学不再是一门关乎伦理与人际关系的崇高事业。学校被重塑为管理森严的特许加盟店，由沦为技术操作工的教师提供一套标准化的教学核查清单。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 29–30)]]
+> 在澳大利亚部分推行了基于《[[Visible Learning|可见的学习]]》的高影响教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]）的学区中，教师被迫卷入极其肤浅的[[Performativity|表演性]]技术操作，例如在上课前必须在白板上端正写出当堂课程的课题与学习意图。随着证据本位最佳实践取代了原本存在于教师专业决策中的信任，教师的自主权、对职业的热爱以及同行间的专业共同体发展显著萎缩（Lilley, 2022）。规定式的教学不再是一门关乎伦理与人际关系的崇高事业。学校被重塑为管理森严的特许加盟店，由沦为技术操作工的教师提供一套标准化的教学核查清单。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 29–30)]]
 >
 > *In Australian districts where High Impact Teaching Strategies (HITS) based on Visible Learning have been implemented, teachers are forced into simplistic performative technical actions such as writing the topic of a class on the board before beginning a lesson. Teacher autonomy, enjoyment of the profession, and collegial professional development decrease (Lilley, 2022) as "evidence based best practices" replace the trust that once existed in their professional decision making. Prescriptive teaching ceases to be an ethical, relational profession. Schools are recast as tightly managed franchises, staffed by teacher technicians, delivering a checklist of best practice teaching strategies.*
 
@@ -231,7 +231,7 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Hattie_2005_ACER|Hattie (2005)]] — 结合克拉克、廷珀利与[[John Hattie|哈蒂]]（Clarke, Timperley, & Hattie, 2003）的教学实验，论述显性学习意图与[[Success Criteria|成功标准]]如何打破学生的形式化迷思、激活深层因果理解。
-> - [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]] — 从[[Critical Pedagogy|批判教育学]]视角剖析维多利亚州 [[Victorian HITS and Literacy Toolkit|HITS]] 政策落地过程中，学习意图如何被[[Neo-Taylorism|新泰勒主义]]行政[[Disciplina and Doctrina|规训]]异化为白板打卡与[[Performativity|表演性]]考核，摧毁[[Teacher Professional Agency|教师专业自主权]]。
+> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 从[[Critical Pedagogy|批判教育学]]视角剖析维多利亚州 [[Victorian HITS and Literacy Toolkit|HITS]] 政策落地过程中，学习意图如何被[[Neo-Taylorism|新泰勒主义]]行政[[Disciplina and Doctrina|规训]]异化为白板打卡与[[Performativity|表演性]]考核，摧毁[[Teacher Professional Agency|教师专业自主权]]。
 
 ---
 
@@ -248,4 +248,4 @@ updated: 2026-10-16
 > | [[Disciplina and Doctrina]] | 哲学[[Paradigm\|范式]] | 反映了管理主义技术规训（disciplina）对课堂生成性探究（doctrina）的压制。 |
 > | [[Victorian HITS and Literacy Toolkit]] | 政策事实 | 澳大利亚维多利亚州推行 HITS、将白板书写学习意图硬性化的典型政策案例。 |
 > | [[Visible Learning Branding and Global Influences]] | 事实条目 | 记录了学习意图与清晰教学作为商业培训模块被推向全球的历史轨迹。 |
-> | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] | 实证文献 | 提供了维州基层教师白板打卡规训与专业自主权流失的批判论据。 |
+> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 实证文献 | 提供了维州基层教师白板打卡规训与专业自主权流失的批判论据。 |

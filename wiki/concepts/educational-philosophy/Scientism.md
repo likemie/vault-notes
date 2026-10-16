@@ -70,7 +70,7 @@ related_facts:
   - "[[New Culture Movement]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
-  - "[[Argument_Johnson_2023_CE]]"
+  - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Rust_2009_Reflections]]"
   - "[[Argument_Zemplen_2007_SciEduc]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
@@ -88,7 +88,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> 科学主义是一种将自然科学的方法与权威过度外推至人类精神、社会文化与教育探究领域的排他性[[Epistemic Stances|认识论立场]]。马克斯·霍克海默（Max Horkheimer, 1972）将其界定为“科学对自身的迷信”——深信实证科学是开展探究与解释现象的唯一合法途径，并将关于自然的概念全面数学化；[[Jürgen Habermas|尤尔根·哈贝马斯]]（Jürgen Habermas, 1972）进一步揭示科学心态已演变为当代西方社会的新宗教，将全部人类知识窄化为实证科学，扼杀了伦理、价值与审美维度的理性审议（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。在当代教育领域，科学主义表现为对数字、[[Effect Size|效应量]]与工业研发（R&D）管理逻辑的狂热崇拜（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p. 34]]）。
+> 科学主义是一种将自然科学的方法与权威过度外推至人类精神、社会文化与教育探究领域的排他性[[Epistemic Stances|认识论立场]]。马克斯·霍克海默（Max Horkheimer, 1972）将其界定为“科学对自身的迷信”——深信实证科学是开展探究与解释现象的唯一合法途径，并将关于自然的概念全面数学化；[[Jürgen Habermas|尤尔根·哈贝马斯]]（Jürgen Habermas, 1972）进一步揭示科学心态已演变为当代西方社会的新宗教，将全部人类知识窄化为实证科学，扼杀了伦理、价值与审美维度的理性审议（[[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al., 2011]], Ch. 1）。在当代教育领域，科学主义表现为对数字、[[Effect Size|效应量]]与工业研发（R&D）管理逻辑的狂热崇拜（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 34]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 科学主义是一种排他性的认识论立场与意识形态，它将自然科学的经验观察、量化测定与受控实验神化为唯一合法的求真法则，否认诠释、批判、伦理与审美等其他[[Ways of Knowing|认知方式]]的独立合法性。
@@ -118,8 +118,8 @@ updated: 2026-10-16
 > [!feature] 核心要素
 > - **还原主义（Reductionism）** 将复杂立体的人类教育现象简化为可测量的少数[[Variable|变量]]，忽视无法量化的精神、意向与生命经验（Hayek, 1942; Sergiovanni, 1989）。
 > - **过度重视经验数据** 将实证量化数据视为唯一或最高形态的知识，排斥诠释学、审美体验、批判自省、道德伦理和[[Creativity|创造性]]等其他[[Ways of Knowing|认知方式]]（O'Mahony, 2017）。
-> - **企业研发管理主义的历史源流** 源于二战后科学与工程技术结合催生的工业研发（R&D）体制；技术官僚与工程师将技术[[Determinism|决定论]]、社会工程与自由市场计量理念输入公共治理，成为新自由主义教育改革的意识形态基石（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p. 34]]）。
-> - **催生[[Cargo Cult Science|草包族科学]]（Cargo Cult Science）** 科学主义往往滑向费曼所指出的草包族科学：表面上拥有严整的统计公式、[[Effect Size|效应量]]排行榜与可视化气压计仪表盘，却完全丧失了竭尽全力暴露自身错误、接受严格检验的科学良知（Feynman, 1974; [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 34–35]]）。
+> - **企业研发管理主义的历史源流** 源于二战后科学与工程技术结合催生的工业研发（R&D）体制；技术官僚与工程师将技术[[Determinism|决定论]]、社会工程与自由市场计量理念输入公共治理，成为新自由主义教育改革的意识形态基石（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 34]]）。
+> - **催生[[Cargo Cult Science|草包族科学]]（Cargo Cult Science）** 科学主义往往滑向费曼所指出的草包族科学：表面上拥有严整的统计公式、[[Effect Size|效应量]]排行榜与可视化气压计仪表盘，却完全丧失了竭尽全力暴露自身错误、接受严格检验的科学良知（Feynman, 1974; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 34–35]]）。
 > - **自然情境与[[Dissimilar Units|非同质单位]]约束** 比较探究与社会科学无法像自然科学那样在无菌实验室对社会体系实施隔离操纵，探究必须完全依托真实社会历史自然情境中的变异；强行[[Commensuration|通约]]异质文化属于典型的科学主义降维谬误（[[Argument_Rust_2009_Reflections|Rust et al., 2009, pp. 128–129]]）。
 
 > [!logic-map]- 科学主义的系统运作机制
@@ -155,11 +155,11 @@ updated: 2026-10-16
 > [!concept-lens] 测量中心的科学主义机制
 > 探讨教育研究与政策治理中最显著的科学主义形态：通过将量化指标等同于存在价值、以技术层级替代价值判断来运作。
 
-> [!claim] [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]]
-> **量化包装对[[Ecological Validity|生态效度]]的摧毁** 约翰逊与詹岑（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）指出，[[John Hattie|约翰·哈蒂]]的《[[Visible Learning|可见的学习]]》以海量数据库、精美图表与[[Meta-analysis|元分析]]统计营造出无可挑剔的科学外观，底层方法论却存在不透明与不可检验的缺陷。丹尼斯·菲利普斯（D. C. Phillips, 2014）指出，物理科学受控实验的方法论假设根本无法机械移植到充满多元[[Variable|变量]]的真实课堂之中：物理实验可以通过人工隔离排除干扰变量，但在教室环境中，情境变量本身就是承载师生主体意义与教育价值的核心要素——人为控制或滤除变量将彻底摧毁探究的生态效度（Ecological Validity）。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 34–35)]]
+> [!claim] [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]
+> **量化包装对[[Ecological Validity|生态效度]]的摧毁** 约翰逊与詹岑（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）指出，[[John Hattie|约翰·哈蒂]]的《[[Visible Learning|可见的学习]]》以海量数据库、精美图表与[[Meta-analysis|元分析]]统计营造出无可挑剔的科学外观，底层方法论却存在不透明与不可检验的缺陷。丹尼斯·菲利普斯（D. C. Phillips, 2014）指出，物理科学受控实验的方法论假设根本无法机械移植到充满多元[[Variable|变量]]的真实课堂之中：物理实验可以通过人工隔离排除干扰变量，但在教室环境中，情境变量本身就是承载师生主体意义与教育价值的核心要素——人为控制或滤除变量将彻底摧毁探究的生态效度（Ecological Validity）。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 34–35)]]
 
 > [!claim] Hayek (1942)
-> **反思机械移植与捍卫行动者自由意志** 弗里德里希·哈耶克（Friedrich Hayek）系统批判了近代思想界的科学主义取向。哈耶克强调，批判科学主义的核心绝非反对科学本身，而是坚决反对将自然科学的物理因果模型机械套用于社会与人类行动。人类是具有自由意志与能动诠释能力的行动者，其行为建立在个体对情境信息的独特主观理解之上，绝不可能被还原为遵循恒常不变物理铁律的客体。[[Argument_Johnson_2023_CE|(Hayek, 1942, cited in Johnson & Janzen, 2023, p. 27)]]
+> **反思机械移植与捍卫行动者自由意志** 弗里德里希·哈耶克（Friedrich Hayek）系统批判了近代思想界的科学主义取向。哈耶克强调，批判科学主义的核心绝非反对科学本身，而是坚决反对将自然科学的物理因果模型机械套用于社会与人类行动。人类是具有自由意志与能动诠释能力的行动者，其行为建立在个体对情境信息的独特主观理解之上，绝不可能被还原为遵循恒常不变物理铁律的客体。[[Argument_Johnson_2023_CritEduc|(Hayek, 1942, cited in Johnson & Janzen, 2023, p. 27)]]
 
 ---
 
@@ -204,8 +204,8 @@ updated: 2026-10-16
 > [!concept-lens] 企业研发模式与[[Cargo Cult Science|草包族科学]]批判
 > 深入剖析二战后工业研发（R&D）体制与企业管理主义如何将自然科学受控实验形式外推至教育，催生缺乏科学诚实性的草包族科学。
 
-> [!claim] [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]]
-> **企业研发体制渗透与草包族科学异化** 约翰逊与詹岑（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）系统考证了当代教育科学主义的工业技术史源流：二战后，基础科学与技术工程的深度捆绑催生了全新的社会建制——研发（R&D）。研发工程师随后大量进入企业与政府管理层，将其特有的技术[[Determinism|决定论]]、社会工程与计量控制逻辑确立为新自由主义国家治理的常态哲学（Aikenhead, 2005; Barnes, 1985）。在这一背景下，以《可见的学习》为代表的[[Evidence-Based Education|循证教育]]产品，展现出典型的草包族科学（Cargo Cult Science, Feynman, 1974）特质：其表面充斥着精密庞大的元分析数据库、[[Effect Size|效应量]]排行与[[Barometer of Achievement|气压计图表]]，形式上极像严肃科学，但却彻底丧失了真正科学所必备的认识论严谨性——即费曼所强调的科学家必须竭尽全力去展示自己可能是错的求真诚实度。更严重的是，这种范式盲目仿效物理学实验室的因果预测模型（Phillips, 2014），企图将复杂的课堂教学还原为可受控隔离的单一因果链；然而在真实的教育情境中，多元的学生背景、文化脉络与人际关系并非物理学意义上的噪声杂质，而是教育实践本身的生命所在。企图在教室中排除这些情境变量，不仅摧毁了探究的生态效度（Ecological Validity），而且促使学校退化为企业研发外包的数据生产流水线，彻底遮蔽了教育作为立德树人的人文理想。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 34–36)]]
+> [!claim] [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]
+> **企业研发体制渗透与草包族科学异化** 约翰逊与詹岑（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）系统考证了当代教育科学主义的工业技术史源流：二战后，基础科学与技术工程的深度捆绑催生了全新的社会建制——研发（R&D）。研发工程师随后大量进入企业与政府管理层，将其特有的技术[[Determinism|决定论]]、社会工程与计量控制逻辑确立为新自由主义国家治理的常态哲学（Aikenhead, 2005; Barnes, 1985）。在这一背景下，以《可见的学习》为代表的[[Evidence-Based Education|循证教育]]产品，展现出典型的草包族科学（Cargo Cult Science, Feynman, 1974）特质：其表面充斥着精密庞大的元分析数据库、[[Effect Size|效应量]]排行与[[Barometer of Achievement|气压计图表]]，形式上极像严肃科学，但却彻底丧失了真正科学所必备的认识论严谨性——即费曼所强调的科学家必须竭尽全力去展示自己可能是错的求真诚实度。更严重的是，这种范式盲目仿效物理学实验室的因果预测模型（Phillips, 2014），企图将复杂的课堂教学还原为可受控隔离的单一因果链；然而在真实的教育情境中，多元的学生背景、文化脉络与人际关系并非物理学意义上的噪声杂质，而是教育实践本身的生命所在。企图在教室中排除这些情境变量，不仅摧毁了探究的生态效度（Ecological Validity），而且促使学校退化为企业研发外包的数据生产流水线，彻底遮蔽了教育作为立德树人的人文理想。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 34–36)]]
 
 ---
 
@@ -214,11 +214,11 @@ updated: 2026-10-16
 > [!contrast-table] 五大命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **命题一：测量中心的科学主义** | 以量化霸权排斥多元认识论，将方法论层级篡夺为价值层级 | 教育政策制定、量化绩效问责、科研成果评价 | Hayek (1942); [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] |
+> | **命题一：测量中心的科学主义** | 以量化霸权排斥多元认识论，将方法论层级篡夺为价值层级 | 教育政策制定、量化绩效问责、科研成果评价 | Hayek (1942); [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] |
 > | **命题二：课程框架载体的科学主义** | 以评估术语和考核标准暗中规训学生认同科学至上特权 | 课程哲学设计、批判性思维教材分析、跨学科评估 | [[Argument_Zemplen_2007_SciEduc\|Zemplén (2007)]] |
 > | **命题三：工具理性质疑与去人化危机** | 揭露科学主义扼杀公共伦理辩论、消解道德反思与诱发去个性化异化 | 社会[[Critical Theory\|批判理论]]、教育治理伦理反思、质性范式辩护 | Habermas and Horkheimer (1972); Ions (1977); Wittgenstein (1974) |
 > | **命题四：学科科学化狂热与认识论边界** | 揭露照搬自然[[Scientific Paradigm\|科学范式]]无视自然情境与非同质单位约束，论证健康多元主义必然性 | 比较[[Disciplinary Institutionalization\|学科建制化]]、跨国跨文化量化比较、学术范式论辩 | Noah and Eckstein (1969); [[Argument_Rust_2009_Reflections\|Rust et al. (2009)]]; Smelser (1976) |
-> | **命题五：研发管理主义与草包族科学** | 揭示企业研发逻辑渗透公共教育，以物理学实验假象摧毁课堂生态效度 | [[Critique of Evidence-Based Education\|循证教育批判]]、[[Meta-meta-analysis\|二阶元分析]]审查、科学哲学反思 | Feynman (1974); Phillips (2014); [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] |
+> | **命题五：研发管理主义与草包族科学** | 揭示企业研发逻辑渗透公共教育，以物理学实验假象摧毁课堂生态效度 | [[Critique of Evidence-Based Education\|循证教育批判]]、[[Meta-meta-analysis\|二阶元分析]]审查、科学哲学反思 | Feynman (1974); Phillips (2014); [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] |
 
 ---
 
@@ -230,7 +230,7 @@ updated: 2026-10-16
 > - **1970s — 法兰克福学派与人本主义批判** [[Jürgen Habermas|哈贝马斯]]（Habermas, 1972）与霍克海默（Horkheimer, 1972）确立社会[[Critical Theory|批判理论]]框架，揭示科学主义作为西方新宗教的技术极权危险；费曼（Feynman, 1974）提出[[Cargo Cult Science|草包族科学]]以警示缺乏[[Epistemology|认识论]]诚实性的伪科学。
 > - **2000s — 实证单一垄断瓦解与[[Pluralism|健康多元主义]]的确立** 拉斯特等学者（[[Argument_Rust_2009_Reflections|Rust et al., 2009]]）依托文献计量实证揭示战后单一[[Positivism|实证主义]]垄断解体，学科演化出涵盖 26 种理论传统的健康多元主义格局。
 > - **2007 — 课程评估层面的隐性[[Disciplina and Doctrina|规训]]揭示** 赞普伦（[[Argument_Zemplen_2007_SciEduc|Zemplén, 2007]]）揭示科学主义已从粗放的量化指标下沉至[[Critical Thinking|批判性思维]]与认识论课程的细部评估规程中。
-> - **2023 — 企业研发模式与草包族循证清算** 约翰逊与詹岑（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）追溯二战后企业 R&D 管理主义对教育的侵蚀，结合费曼草包族科学与菲利普斯物理实验局限，对《[[Visible Learning|可见的学习]]》等循证商业产品的科学主义伪装展开全面批判。
+> - **2023 — 企业研发模式与草包族循证清算** 约翰逊与詹岑（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）追溯二战后企业 R&D 管理主义对教育的侵蚀，结合费曼草包族科学与菲利普斯物理实验局限，对《[[Visible Learning|可见的学习]]》等循证商业产品的科学主义伪装展开全面批判。
 
 ---
 
@@ -245,10 +245,10 @@ updated: 2026-10-16
 > > 反对科学主义绝非支持反智主义或反科学。舒尔特（[[Argument_Schulte_2009_EncuentrosEducacion|Schulte, 2009]]）指出，在 20 世纪初的[[New Culture Movement|新文化运动]]时期，[[Hu Shi|胡适]]等中国启蒙思想家并未担忧科学主义，因为在迷信盛行的语境中现代科学亟待确立合法权威；而[[John Dewey|杜威]]在美国语境中批判科学主义，是因为科学在美国已处于不容置疑的垄断地位。科学主义批判的激进程度取决于特定社会中科学相对于其他认知权威的实际地缘权力对比。
 >
 > > [!axis] 物理学实验室受控因果 vs 真实课堂情境的[[Ecological Validity|生态效度]]
-> > 争论焦点在于自然科学的受控因果推论是否能够无损移植于教育实践（Phillips, 2014; [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）。
+> > 争论焦点在于自然科学的受控因果推论是否能够无损移植于教育实践（Phillips, 2014; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）。
 > >
 > > - **循证科学主义阵营（Hattie, 2009; Carnine, 2000）** 主张将课堂[[Variable|变量]]严格标准化并测量单一[[Effect Size|效应量]]，认为只有将教育向物理学与现代医学看齐，才能摆脱[[Empiricism|经验主义]]的模糊性。
-> > - **批判教育哲学家与生态效度论者（Eisner, 1983; Phillips, 2014; [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）** 指出学校变量具有极其深厚的育人伦理与文化意义，在无菌实验室式的人为控制下，课堂固有的生态效度将荡然无存；企图以单一数字总结复杂育人过程是对科学精神的真正背叛。
+> > - **批判教育哲学家与生态效度论者（Eisner, 1983; Phillips, 2014; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）** 指出学校变量具有极其深厚的育人伦理与文化意义，在无菌实验室式的人为控制下，课堂固有的生态效度将荡然无存；企图以单一数字总结复杂育人过程是对科学精神的真正背叛。
 
 ---
 
@@ -271,12 +271,12 @@ updated: 2026-10-16
 > *Positivism is the mathematization of concepts about nature, and scientism is science's belief in itself as the only way of conducting research and explaining phenomena... The scientific mentality has been elevated to an almost unassailable position – almost to the level of a religion (scientism) – as being the only epistemology of the west. In this view all knowledge becomes equated with scientific knowledge. This neglects hermeneutic, aesthetic, critical, moral, creative and other forms of knowledge. It reduces behaviour to technicism.*
 
 > [!citation-card] 约翰逊与詹岑论企业研发体制、[[Cargo Cult Science|草包族科学]]与教师专业直觉的恐吓
-> 科学主义往往孕育出伪科学，即把不科学的方法包装成科学呈现出来。著名物理学家理查德·费曼称之为‘草包族科学’——看起来像科学、感觉像科学，但却缺乏真正科学所具备的认识论良知……费曼指出：‘我认为普通人被这种伪科学吓住了。一位对如何教孩子阅读很有见地的教师，却被学校系统强迫采用另外一种方式——甚至被学校系统愚弄，误以为自己的方法必定不够好。’费曼当年对伪科学的警示，完全适用于当代的可见学习产品以及其他教育万灵丹。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 34–35)]]
+> 科学主义往往孕育出伪科学，即把不科学的方法包装成科学呈现出来。著名物理学家理查德·费曼称之为‘草包族科学’——看起来像科学、感觉像科学，但却缺乏真正科学所具备的认识论良知……费曼指出：‘我认为普通人被这种伪科学吓住了。一位对如何教孩子阅读很有见地的教师，却被学校系统强迫采用另外一种方式——甚至被学校系统愚弄，误以为自己的方法必定不够好。’费曼当年对伪科学的警示，完全适用于当代的可见学习产品以及其他教育万灵丹。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 34–35)]]
 >
 > *Scientism often begets pseudoscience, the presentation of unscientific approaches as if they were scientific... The famous physicist Richard Feynman called this "cargo-cult" science; something that looks and feels like science but lacks the epistemic conscientiousness of true science... Feynman continues: "I think ordinary people with commonsense ideas are intimidated by this pseudoscience. A teacher who has some good idea of how to teach her children to read is forced by the school system to do it some other way – or is even fooled by the school system into thinking that her method is not necessarily a good one." Feynman's words from the past could easily apply to [[Visible Learning]] products (and many other educational "magic bullets").*
 
 > [!citation-card] 菲利普斯论物理学实验模型在教育情境中的[[Ecological Validity|生态效度]]破产
-> 菲利普斯（Phillips, 2014）指出，物理科学的惊人进步源于其能够做出精确预测并接受经验检验或反驳。然而，物理实验室的方法根本无法转移到学校课堂的多[[Variable|变量]]环境中。在物理科学中变量可以被严格控制，但在学校环境中，这些变量绝非烦人的杂质，而是具有巨大的育人与人文意义——在这里进行人为控制将彻底剥夺生态效度的所有表象。学生在身份、历史和社会背景上是多元的，这使得课堂教学本质上是一项复杂的人际互动。[[Argument_Johnson_2023_CE|(Phillips, 2014, p. 10, cited in Johnson & Janzen, 2023, p. 35)]]
+> 菲利普斯（Phillips, 2014）指出，物理科学的惊人进步源于其能够做出精确预测并接受经验检验或反驳。然而，物理实验室的方法根本无法转移到学校课堂的多[[Variable|变量]]环境中。在物理科学中变量可以被严格控制，但在学校环境中，这些变量绝非烦人的杂质，而是具有巨大的育人与人文意义——在这里进行人为控制将彻底剥夺生态效度的所有表象。学生在身份、历史和社会背景上是多元的，这使得课堂教学本质上是一项复杂的人际互动。[[Argument_Johnson_2023_CritEduc|(Phillips, 2014, p. 10, cited in Johnson & Janzen, 2023, p. 35)]]
 >
 > *Phillips (2014) argues that the astounding progress of the physical sciences has come by the fact that they make "...precise predictions that can then be subjected to empirical verification or refutation" (p. 10). Unfortunately, the methods of a physics laboratory do not transfer to the multivariate educational environment of a classroom... in the physical sciences variables can be controlled, but in school settings, these variables are "not nuisances but are of great human and educational significance—control here removes all semblance of ecological validity".*
 
@@ -286,7 +286,7 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01|Cohen et al. (2011, Ch. 1)]] — 在经典研究方法教科书中系统梳理了法兰克福学派[[Jürgen Habermas|哈贝马斯]]与霍克海默、扬斯及维特根斯坦对科学主义与量化迷思的批判脉络。
-> - [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]] — 结合二战后企业研发管理体制与费曼[[Cargo Cult Science|草包族科学]]理论，深入解构以《[[Visible Learning|可见的学习]]》为代表的测量中心主义与[[Ecological Validity|生态效度]]丧失危机。
+> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 结合二战后企业研发管理体制与费曼[[Cargo Cult Science|草包族科学]]理论，深入解构以《[[Visible Learning|可见的学习]]》为代表的测量中心主义与[[Ecological Validity|生态效度]]丧失危机。
 > - [[Argument_Zemplen_2007_SciEduc|Zemplén (2007)]] — 以 IB [[Theory of Knowledge|TOK]] 课程为解剖对象，揭示科学主义如何通过课程评价框架与评分细则实施隐性[[Paradigm|范式]][[Disciplina and Doctrina|规训]]。
 > - [[Argument_Rust_2009_Reflections|Rust et al. (2009)]] — 梳理比较教育学自 1960 年代追求科学化的历程，分析自然情境与[[Dissimilar Units|非同质单位]]带来的[[Epistemology|认识论]]约束，实证展示单一科学主义向[[Pluralism|健康多元主义]]转型的知识轨迹。
 > - [[Argument_Schulte_2009_EncuentrosEducacion|Schulte (2009)]] — 阐明科学主义批判的高度情境依赖性，揭示科学在不同地缘文明与历史时期的权力[[Heterogeneity|异质性]]。
@@ -305,4 +305,4 @@ updated: 2026-10-16
 > | [[Ecological Validity]] | 方法概念 | 科学主义盲目套用物理学控制[[Variable\|变量]]方法，彻底摧毁了课堂情境固有的生态效度。 |
 > | [[Karl Popper]] | 学术人物 | 波普尔强调[[Falsification\|可证伪性]]与猜想试错，其理论常被循证学者断章取义用作科学主义包装。 |
 > | [[Visible Learning]] | 核心专著 | 当代教育科学主义的最典型产物，以海量数据包装缺乏验证的商业主张。 |
-> | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] | 实证文献 | 系统批判二战后 R&D 逻辑、草包族科学以及物理实验对教育复杂性的遮蔽。 |
+> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 实证文献 | 系统批判二战后 R&D 逻辑、草包族科学以及物理实验对教育复杂性的遮蔽。 |

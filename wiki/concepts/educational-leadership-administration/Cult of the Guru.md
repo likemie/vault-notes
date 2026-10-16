@@ -57,7 +57,7 @@ related_arguments:
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Rømer_2018_EPT]]"
   - "[[Argument_Larsen_2019_EducSci]]"
-  - "[[Argument_Johnson_2023_CE]]"
+  - "[[Argument_Johnson_2023_CritEduc]]"
 confidence: medium
 status: draft
 created: 2026-05-03
@@ -153,7 +153,7 @@ updated: 2026-10-16
 
 
 > [!warning] Hattie 回应的逻辑问题
-> - Hattie 声称 VL 的核心猜想"未被任何批评者证伪"——但 [[Argument_Snook_2009_NZJES|Snook et al.（2009）]]、[[Argument_Rømer_2018_EPT\|Rømer (2018)]]、[[Argument_Larsen_2019_EducSci\|Larsen (2019)]]和多位批评者已深入质疑其[[Epistemology\|认识论]]前提。Hattie 以 Popper 的证伪主义为哲学旗帜，但 Popper 的 fallibilism 旨在区分科学与伪科学——[[Argument_Johnson_2023_CE\|Johnson and Janzen (2023, p.35)]]指出"Popper 当然不意味着科学由做出完全没有根据的主张供他人反驳构成"
+> - Hattie 声称 VL 的核心猜想"未被任何批评者证伪"——但 [[Argument_Snook_2009_NZJES|Snook et al.（2009）]]、[[Argument_Rømer_2018_EPT\|Rømer (2018)]]、[[Argument_Larsen_2019_EducSci\|Larsen (2019)]]和多位批评者已深入质疑其[[Epistemology\|认识论]]前提。Hattie 以 Popper 的证伪主义为哲学旗帜，但 Popper 的 fallibilism 旨在区分科学与伪科学——[[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023, p.35)]]指出"Popper 当然不意味着科学由做出完全没有根据的主张供他人反驳构成"
 > - Hattie 将"有五个人通过了认证"和"教师被禁止在培训中分享自身经验"的实践与"教育者不是不加批判的信徒"的主张并列——[[Argument_Eacott_2019_IJLE\|Eacott (2019)]]指出这种并列本身揭示了 VL 论述中的内在矛盾
 
 ## 相关案例／政策
@@ -164,6 +164,6 @@ updated: 2026-10-16
 > - [[Melbourne Declaration]] of Educational Goals for Young Australians（MCEETYA, 2008）— 国家政策文件的抱负性语调与"需要知道什么最有效"的理性/控制需求之间的张力
 
 
-> [!example] [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] 对大师崇拜商业维度的补充
-> Johnson & Janzen补充了大师崇拜的经济维度：截至论文写作时，[[Corwin Press|Corwin]] 网店搜索"[[Visible Learning]]"返回大量书籍、指南和套装（USD 9.95 至 USD 285），产品线包括在线 VL+ 专业发展系列、学校奖项系统、年度学院（USD 369/人）、认证（USD 2750/座）、网络研讨会和 App。2023 年 VL 续作（USD 29.95）的发布标志着品牌持续扩张。Johnson & Janzen 将 Hattie 描述为"a charismatic and self-assured spokesman for the work, and the Hattie name has become as famous as the body of work itself"([[Argument_Johnson_2023_CE\|Johnson & Janzen, 2023, p.25]])。
+> [!example] [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] 对大师崇拜商业维度的补充
+> Johnson & Janzen补充了大师崇拜的经济维度：截至论文写作时，[[Corwin Press|Corwin]] 网店搜索"[[Visible Learning]]"返回大量书籍、指南和套装（USD 9.95 至 USD 285），产品线包括在线 VL+ 专业发展系列、学校奖项系统、年度学院（USD 369/人）、认证（USD 2750/座）、网络研讨会和 App。2023 年 VL 续作（USD 29.95）的发布标志着品牌持续扩张。Johnson & Janzen 将 Hattie 描述为"a charismatic and self-assured spokesman for the work, and the Hattie name has become as famous as the body of work itself"([[Argument_Johnson_2023_CritEduc\|Johnson & Janzen, 2023, p.25]])。
 

@@ -53,7 +53,7 @@ related_arguments:
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
   - "[[Argument_Mody_2017_MOH]]"
   - "[[Argument_Block_2008_PS]]"
-  - "[[Argument_Bown_2024_JEP]]"
+  - "[[Argument_Bown_2024_JEconPersp]]"
 related_facts:
   - "[[VLSI Project]]"
   - "[[DARPA]]"
@@ -129,10 +129,10 @@ aliases:
 
 > [!stat-cards]- [[VLSI Project|VLSI]] 项目核心数据
 > - **1976–1979 年** 超大规模集成电路（Very Large Scale Integration，VLSI）国家攻坚计划实施期间，MITI 主导下五大企业联合运营共享研发设施。
-> - **五家** 联合参与 VLSI 计划的骨干企业：富士通（Fujitsu）、日立（Hitachi）、三菱电机（Mitsubishi Electric）、日本电气（NEC）和东芝（Toshiba）——横跨市场激烈竞争的对手，被强制共享基础研发资源。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 83–84)]]
+> - **五家** 联合参与 VLSI 计划的骨干企业：富士通（Fujitsu）、日立（Hitachi）、三菱电机（Mitsubishi Electric）、日本电气（NEC）和东芝（Toshiba）——横跨市场激烈竞争的对手，被强制共享基础研发资源。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 83–84)]]
 > - **2.33 亿美元** MITI 在四年内对 VLSI 联合攻关计划投入的研发预算总额，成为引发美国朝野震动并推动大学与产业界重构多边研发平台的关键外生冲击。[[Argument_Mody_2017_MOH|(Mody, 2017, p. 292)]]
 > - **70%+** 1980 年代初日本企业在全球动态随机存取存储器（Dynamic Random Access Memory，DRAM）市场的份额峰值，标志着第一代使命政策追赶成效。
-> - **1986 年** [[1986 U.S.-Japan Semiconductor Trade Agreement|美日半导体贸易协定]]签署，要求日本保证外国芯片厂商在日市场份额不低于 20%，标志着追赶型使命政策高峰期终结。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 84–86)]]
+> - **1986 年** [[1986 U.S.-Japan Semiconductor Trade Agreement|美日半导体贸易协定]]签署，要求日本保证外国芯片厂商在日市场份额不低于 20%，标志着追赶型使命政策高峰期终结。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 84–86)]]
 
 ---
 
@@ -161,7 +161,7 @@ aliases:
 > | [[Public Dynamic Capabilities]] | 概念 | 展现了公共机构在国家战略与政策协调层级主动塑造产业结构的动态能力。 |
 > | [[Market Shaping and Creating]] | 概念 | MITI 通过 [[VLSI Project\|VLSI]] 等国家工程主动塑造了全球半导体微电子市场的竞争格局。 |
 > | [[Directionality of Innovation]] | 概念 | MITI 的产业愿景为日本技术演进设定了明确的高附加值方向。 |
-> | [[Modern Industrial Policy]] | 概念 | VLSI 计划是 [[Argument_Bown_2024_JEP\|Bown and Wang（2024）]]分析现代产业政策历史前身的核心案例，骆驼形态第一代使命政策的制度实例。 |
+> | [[Modern Industrial Policy]] | 概念 | VLSI 计划是 [[Argument_Bown_2024_JEconPersp\|Bown and Wang（2024）]]分析现代产业政策历史前身的核心案例，骆驼形态第一代使命政策的制度实例。 |
 > | [[Vertical Disintegration]] | 概念 | 日本国家冠军集成模式在 1990 年代后全球产业分散化浪潮中的历史对照案例。 |
 > | [[National Research and Resource Facility for Submicron Structures]] | 事实（机构） | MITI 推进 VLSI 计划引发的地缘竞争危机，直接促使 [[National Science Foundation\|NSF]] 批准资助康奈尔建立该国家微电子用户设施。 |
 > | [[Fred Block]] | 人物 | 比较分析战后东亚科层模式与欧美网络模式、揭示 MITI 后工业局限的经济社会学家。 |

@@ -72,7 +72,7 @@ related_facts:
   - "[[Visible Learning Meta-X]]"
 related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
-  - "[[Argument_Johnson_2023_CE]]"
+  - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Knudsen_2017_NordSTEP]]"
   - "[[Argument_Hattie_2010_NZJES]]"
   - "[[Argument_Bates_2017_CognitionEducationTrust]]"
@@ -100,12 +100,12 @@ updated: 2026-10-16
 ## 背景与历史成因
 
 > [!claim] 核心定性
-> 《[[Visible Learning|可见的学习]]》（Visible Learning, VL）不仅是一项基于海量[[Meta-analysis|元分析]]的教育学术综合，更是当代教育史上规模最大的将公共科研成果转化为跨国商业培训特许、量化绩效认证与国家政策治理标准的知识商业化事件。其通过轻资产跨国授权与政策创业网络，深刻重塑了多国基础教育的治理[[Discourse|话语]]与教研生态。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. viii–ix)]]; [[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 30)]]
+> 《[[Visible Learning|可见的学习]]》（Visible Learning, VL）不仅是一项基于海量[[Meta-analysis|元分析]]的教育学术综合，更是当代教育史上规模最大的将公共科研成果转化为跨国商业培训特许、量化绩效认证与国家政策治理标准的知识商业化事件。其通过轻资产跨国授权与政策创业网络，深刻重塑了多国基础教育的治理[[Discourse|话语]]与教研生态。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. viii–ix)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 30)]]
 
 > [!event-context] 事件背景
 > - **时间跨度 / 空间地理** 2006 年商标申请启动，2009 年专著出版后迅速扩张，2018 年被 [[Corwin Press|Corwin]] 全面收购，持续影响至今；发源于新西兰，扩散至澳大利亚、英国、斯堪的纳维亚、北美及俄罗斯等 23 个以上国家。[[Argument_Knudsen_2017_NordSTEP|(Knudsen, 2017, p. 254)]]
 > - **核心当事主体** [[John Hattie|约翰·哈蒂]]（John Hattie）、[[Cognition Education]]（原 Multi Serve Trust）、Corwin（[[Sage]] 集团）、澳大利亚教学与[[School Leadership|学校领导力]]研究院（[[Australian Institute for Teaching and School Leadership|AITSL]]）、新西兰教育部及各国政策机构。
-> - **深层制度与社会背景** 新西兰 1989 年[[Tomorrow's Schools Reforms|明日学校改革]]开启的[[Endogenous and Exogenous Privatisation|教育私有化]]与外包服务体制，以及[[Global Education Reform Movement|全球教育改革运动]]（GERM）对量化绩效问责与循证标准（What Works）的强烈治理渴求。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 31–32)]]
+> - **深层制度与社会背景** 新西兰 1989 年[[Tomorrow's Schools Reforms|明日学校改革]]开启的[[Endogenous and Exogenous Privatisation|教育私有化]]与外包服务体制，以及[[Global Education Reform Movement|全球教育改革运动]]（GERM）对量化绩效问责与循证标准（What Works）的强烈治理渴求。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 31–32)]]
 > - **直接导火索 / 触发事件** 2009 年 1 月新西兰《星期日星报》（*Sunday STAR Times*）头版报道引发公众风暴，紧随其后的全球图书畅销促成学术 IP 与商业培训生态的全面对接。[[Argument_Hattie_2010_NZJES|(Hattie, 2010, pp. 86–87)]]
 
 ---
@@ -127,7 +127,7 @@ Visible Learning 的跨国扩张没有采取重资产自建模式，而是依托
 
 > [!feature] 商业化运营核心机制
 > - **培训产品与认证矩阵** 形成 Foundation（基础概念）、Inside（深入实践）与 Collaborative Impact（学校整体改进）三大系列共 16 个工作坊；建立“可见学习成效认证学校”（Visible Learning Impact Certified School）评价体系，向学校颁发权威认证。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 67)]]
-> - **[[Corwin Press|Corwin]] 跨国收购与全方位变现（2018 年后）** 2018 年 Corwin（[[Sage]] 集团旗下，年收入约 5,000 万美元）全资收购 Visible Learningplus。产品线迅速扩展至在线培训、学校奖项评比、年度学院（369 美元/人）、高级认证（2,750 美元/席）以及海量衍生图书。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 24–25)]]
+> - **[[Corwin Press|Corwin]] 跨国收购与全方位变现（2018 年后）** 2018 年 Corwin（[[Sage]] 集团旗下，年收入约 5,000 万美元）全资收购 Visible Learningplus。产品线迅速扩展至在线培训、学校奖项评比、年度学院（369 美元/人）、高级认证（2,750 美元/席）以及海量衍生图书。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 24–25)]]
 > - **轻资产区域授权网络** 通过六大区域核心伙伴网络交付：Osiris Educational（英国）、JN Partnership（斯堪的纳维亚）、Corwin（澳大利亚与北美）、Bazalt（荷兰），以零自建实体成本迅速占领欧美市场。
 > - **衍生子品牌裂变** 从单本图书演化为庞大的品牌家族，涵盖读写（Visible Learning for Literacy）、数学（Visible Learning for Mathematics）、行动案例（Visible Learning into Action）及学生福祉（Visible Wellbeing）等领域，促使多国学校自我标识为“Hattie 学校”。[[Argument_Eacott_2017_SLM|(Eacott, 2017, p. 419)]]
 > - **Visible Classroom 实时监控 App** Hattie 团队与 Ai-Media 联合研发，获英国 [[Education Endowment Foundation|EEF]] 资助 36 万英镑试点并在 140 所学校开展试验。教师自我录制课堂音频由后台专家对照量规按次收费反馈，将[[Technical Rationality|技术理性]]推进至微观课堂劳动的直接监控。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 49–50)]]
@@ -186,8 +186,8 @@ Visible Learning 凭借其高度简化的[[Effect Size|效应量]]排名图表�
 > > [!axis] 新自由主义商业化与利益冲突疑云
 > > 批判学者聚焦 Hattie 身兼公共政策顾问、大学教授、商业信托董事与版税受益者的多重身份重叠。
 > >
-> > - **制度伦理审查（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）** 指出 Hattie 在 Cognition 董事会任职同时通过商业化获取版税，外观上存在严重的利益冲突；且 Cognition 慈善信托的实际捐赠支出仅占集团总收入的 0.9%，实质沦为新自由主义市场化运作的壳机构。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 31)]]
-> > - **“饥饿-危机-私有化”治理循环** 论证 VL 刻意贬低[[Class Size|班级规模]]（词频出现 95 次）与硬件投资的重要性，实质契合了紧缩时期的公共财政削减议程，通过制造学校低效危机推动培训业务私有化。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 31–35)]]
+> > - **制度伦理审查（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）** 指出 Hattie 在 Cognition 董事会任职同时通过商业化获取版税，外观上存在严重的利益冲突；且 Cognition 慈善信托的实际捐赠支出仅占集团总收入的 0.9%，实质沦为新自由主义市场化运作的壳机构。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 31)]]
+> > - **“饥饿-危机-私有化”治理循环** 论证 VL 刻意贬低[[Class Size|班级规模]]（词频出现 95 次）与硬件投资的重要性，实质契合了紧缩时期的公共财政削减议程，通过制造学校低效危机推动培训业务私有化。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 31–35)]]
 >
 > > [!axis] [[Cult of the Guru|大师崇拜]]与[[Neo-Taylorism|新泰勒主义]][[Disciplina and Doctrina|规训]]
 > > [[Critical Pedagogy|批判教育学]]者警示 VL 异化为规训教师日常劳动的行政监控工具。
@@ -229,7 +229,7 @@ Visible Learning 凭借其高度简化的[[Effect Size|效应量]]排名图表�
 > *Hattie's present modus operandi in global networking might reasonably be characterised as a seamless blend of public good, not-for-profit and for-profit policy entrepreneurship and advocacy.*
 
 > [!citation-card] 约翰逊与詹岑论跨国出版巨头收购与公立学校特许加盟化
-> 2018 年，年营业额估算达 5000 万美元的跨国出版巨头[[Corwin Press|考文出版社]]从认知教育手中全面收购了 Visible Learningplus 的专营权，进一步将可见学习推向全球化的商业变现流水线。学校被重塑为管理森严的特许加盟店，由沦为技术操作工的教师提供一套标准化的教学核查清单。针对测验成绩下滑的人为恐慌，可见学习承诺提供简单廉价的微观处方，却完全漠视了关于教育崇高宗旨的更[[Grand Theory|宏大叙事]]。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 24–25, 29–31)]]
+> 2018 年，年营业额估算达 5000 万美元的跨国出版巨头[[Corwin Press|考文出版社]]从认知教育手中全面收购了 Visible Learningplus 的专营权，进一步将可见学习推向全球化的商业变现流水线。学校被重塑为管理森严的特许加盟店，由沦为技术操作工的教师提供一套标准化的教学核查清单。针对测验成绩下滑的人为恐慌，可见学习承诺提供简单廉价的微观处方，却完全漠视了关于教育崇高宗旨的更[[Grand Theory|宏大叙事]]。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 24–25, 29–31)]]
 >
 > *In 2018, Corwin Press, a publishing powerhouse with estimated annual revenues of \$50 million, acquired Visible Learningplus from Cognition Education... Prescriptive teaching ceases to be an ethical, relational profession. Schools are recast as tightly managed franchises, staffed by teacher technicians, delivering a checklist of best practice teaching strategies... It promises simple, cheap, classroom level fixes to manufactured alarm surrounding achievement scores.*
 
@@ -256,5 +256,5 @@ Visible Learning 凭借其高度简化的[[Effect Size|效应量]]排名图表�
 > | [[Russian Translation of Visible Learning]] | Fact (Event) | 记录 VL 俄文版翻译出版及俄罗斯学界关于跨文化适用性与方法论的学术争论。 |
 > | [[Critiques of Visible Learning]] | Concept | 汇总学界对 VL 统计方法、[[Neo-Taylorism\|新泰勒主义]]与商业化利益冲突的系统性学术批判入口。 |
 > | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] | Argument | 详尽调查揭露 Hattie、奥克兰大学与 Cognition 之间商业化利益网络与财务轨迹的权威报告。 |
-> | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] | Argument | 从新自由主义[[Global Education Reform Movement\|全球教育改革运动]]（GERM）视角深度批判 VL 商业化与利益冲突的代表性论文。 |
+> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | Argument | 从新自由主义[[Global Education Reform Movement\|全球教育改革运动]]（GERM）视角深度批判 VL 商业化与利益冲突的代表性论文。 |
 > | [[Argument_Jansen_2026_EPR\|Jansen et al. (2026)]] | Argument | 针对 Meta-X 数据库开展实证评测、揭示早期历史人工录入局限并确立人机验证[[Paradigm\|范式]]的最新研究。 |

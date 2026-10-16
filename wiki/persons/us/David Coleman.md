@@ -44,7 +44,7 @@ related_facts:
   - "[[Gaokao]]"
   - "[[Bill & Melinda Gates Foundation]]"
 related_arguments:
-  - "[[Argument_McDonnell_2013_AJE]]"
+  - "[[Argument_McDonnell_2013_AmJE]]"
 confidence: high
 status: stable
 created: 2026-09-26
@@ -65,7 +65,7 @@ updated: 2026-10-16
 > [!citation-card] 科尔曼作为通用标准核心起草者的制度定性
 > 洛兰·M·麦克唐纳（Lorraine M. McDonnell）与M·斯蒂芬·韦瑟福德（M. Stephen Weatherford）在记录共同核心标准方案研制过程时明确指出，[[National Governors Association|全国州长协会]]与[[Council of Chief State School Officers|州首席教育官理事会]]委托了极具实干声望的专业团队主持起草，其中负责英语语言艺术（ELA）标准统稿的核心牵头人，正是学生成就伙伴组织创始人戴维·科尔曼与标准工作组织联合创始人休·皮门特尔。
 >
-> *Those responsible for drafting the ELA standards were David Coleman, the founder of Student Achievement Partners, and Sue Pimentel, the cofounder of Standards Work. Each set of standards writers was assisted by a large work team... that included educators, researchers, and others with expertise in curriculum and assessment design.* [[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 22)]]
+> *Those responsible for drafting the ELA standards were David Coleman, the founder of Student Achievement Partners, and Sue Pimentel, the cofounder of Standards Work. Each set of standards writers was assisted by a large work team... that included educators, researchers, and others with expertise in curriculum and assessment design.* [[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 22)]]
 
 ---
 
@@ -75,7 +75,7 @@ updated: 2026-10-16
 > - **1990年代** 毕业于耶鲁大学获得历史与英国文学学士学位，荣获罗德学者奖学金前往牛津大学与剑桥大学深造英国古典文学，深受西方经典文本细读与公理化论证传统浸润。
 > - **2000年** 创立成长网络公司（The Grow Network），开发将大规模标准化统考数据转化为教师日常教学诊断报告的信息系统，该公司后被麦格劳-希尔教育集团收购。
 > - **2007年** 联合贾森·津巴（Jason Zimba）与休·皮门特尔创立非营利智库学生成就伙伴组织（Student Achievement Partners），专注于研究如何提升全美弱势学生的大学与就业[[Competitiveness|竞争力]]。
-> - **2009–2010年** 受[[National Governors Association|全国州长协会]]（NGA）与[[Council of Chief State School Officers|州首席教育官理事会]]（CCSSO）正式聘任，出任 [[Common Core State Standards|CCSS]] 英语语言艺术与读写标准首席起草人，全美巡回向各州政要宣讲标准的教学转向。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 13, 22)]]
+> - **2009–2010年** 受[[National Governors Association|全国州长协会]]（NGA）与[[Council of Chief State School Officers|州首席教育官理事会]]（CCSSO）正式聘任，出任 [[Common Core State Standards|CCSS]] 英语语言艺术与读写标准首席起草人，全美巡回向各州政要宣讲标准的教学转向。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 13, 22)]]
 > - **2012年–至今** 出任美国大学理事会（College Board）总裁，强力推进全美大学入学考试 SAT 的百年重大改版，使 SAT 考查重点彻底转向深阅读、证据分析与核心词汇，与 CCSS 形成无缝衔接。
 
 ---
@@ -102,7 +102,7 @@ updated: 2026-10-16
 > [!citation-card] 文本复杂度作为英语标准支柱的实证依托与局限
 > 麦克唐纳与韦瑟福德指出，科尔曼主持起草的 ELA 标准将“文本复杂度”列为最核心的立论支柱，其依据主要来自美国大学考试机构（ACT, 2006）的研究报告，该报告证实能否驾驭逐级递增的复杂文本是预测学生大学与职场成功的最关键指标。然而，读写研究学者皮尔森与希伯特（Pearson & Hiebert, 2012）指出，当时学界关于文本复杂度的底层基础理论与实证测量工具极度匮乏；科尔曼团队在缺乏充分课堂微观实验的情况下，将定性[[Professional Judgment|专业判断]]与定量指标相结合，迅速确立了全美年级进阶标准。
 >
-> *An ACT report (2006) and other research highlight the significance of students being able to master texts of increasing complexity as a predictor of their academic success in college and the workplace. Consequently, text complexity became one of the pillars of the ELA standards. While acknowledging its importance... literacy researchers note that 'the underlying theory and research on text complexity that would support creation of state and district curricula is in short supply' (Pearson & Hiebert 2012).* [[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 22)]]
+> *An ACT report (2006) and other research highlight the significance of students being able to master texts of increasing complexity as a predictor of their academic success in college and the workplace. Consequently, text complexity became one of the pillars of the ELA standards. While acknowledging its importance... literacy researchers note that 'the underlying theory and research on text complexity that would support creation of state and district curricula is in short supply' (Pearson & Hiebert 2012).* [[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 22)]]
 
 ---
 
@@ -111,7 +111,7 @@ updated: 2026-10-16
 > [!influence-path] 影响路径
 > - **标准研制路径** 直接塑造了全美 45 个州采纳的 [[Common Core State Standards|CCSS]] 英语语言艺术大纲，重新定义了全美 K-12 阶段的阅读书单与写作教学[[Paradigm|范式]]。
 > - **教材与出版重塑** 其倡导的三大转向迫使培生（Pearson）、麦格劳-希尔（McGraw-Hill）等全美大型教科书出版商全面下架传统虚构文学选本，按非虚构比例与复杂度指标重印全套教材。
-> - **高利害考试重构** 在出任大学理事会总裁后，科尔曼直接废除了 SAT 考试中偏门冷僻词汇记忆题和主观猜谜题，将其改造为严格基于历史文献精读与数学实际应用的全新测评体系。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 13, 22)]]
+> - **高利害考试重构** 在出任大学理事会总裁后，科尔曼直接废除了 SAT 考试中偏门冷僻词汇记忆题和主观猜谜题，将其改造为严格基于历史文献精读与数学实际应用的全新测评体系。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 13, 22)]]
 
 ---
 
@@ -119,7 +119,7 @@ updated: 2026-10-16
 
 > [!person-network] 关系网络
 > - **标准研制联合主持者** 休·皮门特尔（Sue Pimentel） — 共同统稿并起草 [[Common Core State Standards|CCSS]] 英语语言艺术标准。
-> - **标准研制数学同行** 菲尔·达罗（Phil Daro）、威廉·麦卡勒姆（William McCallum）与贾森·津巴（Jason Zimba） — 共同组成 CCSS 方案设计的核心起草团队。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 22)]]
+> - **标准研制数学同行** 菲尔·达罗（Phil Daro）、威廉·麦卡勒姆（William McCallum）与贾森·津巴（Jason Zimba） — 共同组成 CCSS 方案设计的核心起草团队。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 22)]]
 > - **资助与推动实体** [[Bill & Melinda Gates Foundation|比尔与梅琳达·盖茨基金会]] — 为科尔曼创立的学生成就伙伴组织提供数千万美元核心推进资金。
 > - **行政委托机构** [[National Governors Association|全国州长协会]]与[[Council of Chief State School Officers|州首席教育官理事会]] — 聘任科尔曼主持起草的州级权力机构。
 
@@ -133,7 +133,7 @@ updated: 2026-10-16
 > > 科尔曼高调倡导压缩虚构文学比例并排斥个人主观感悟的激进言论，在全美语文教师与人文学者中引发轩然大波。
 > >
 > > - **传统文学学者与教师工会（NCTE, 2012; Ravitch, 2013）** 批评科尔曼将充满人道主义熏陶与审美情操的文学教学，矮化为冷冰冰的“提取信息”与“商业公文阅读”技术；过分排斥学生的情感投入与个人经验共鸣，扼杀了青少年的想象力与批判性审美。
-> > - **科研实证不足与资本垄断质疑（Pearson & Hiebert, 2012; [[Argument_McDonnell_2013_AJE|McDonnell & Weatherford, 2013]]）** 批评派指出，科尔曼起草的文本复杂度分级在当时缺乏坚实的认知神经科学与课堂教学实验支撑；其在起草标准后迅速跳槽至垄断全国考试的大学理事会，被部分公立教育倡导者批评为“旋转门式的教育商业垄断”。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 22)]]
+> > - **科研实证不足与资本垄断质疑（Pearson & Hiebert, 2012; [[Argument_McDonnell_2013_AmJE|McDonnell & Weatherford, 2013]]）** 批评派指出，科尔曼起草的文本复杂度分级在当时缺乏坚实的认知神经科学与课堂教学实验支撑；其在起草标准后迅速跳槽至垄断全国考试的大学理事会，被部分公立教育倡导者批评为“旋转门式的教育商业垄断”。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 22)]]
 
 ---
 
@@ -147,6 +147,6 @@ updated: 2026-10-16
 > | [[College and Career Readiness]] | 核心理念 | 将大学与职业就绪[[Operationalization\|操作化]]为以文本证据和文本复杂度为核心的起草规则。 |
 > | [[Achieve]] | 智库机构 | 深度协作其主持的[[American Diploma Project\|美国文凭项目]]并将成果输入通用标准草案。 |
 > | [[National Governors Association]] | 组织机构 | 接受其正式委托开展全国统一标准方案的文本研制与多轮修订。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013)]] | 实证文献 | 详细记录科尔曼主导起草团队如何调用 ACT 数据与填补科研实证空白的研究。 |
+> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | 实证文献 | 详细记录科尔曼主导起草团队如何调用 ACT 数据与填补科研实证空白的研究。 |
 
 ---

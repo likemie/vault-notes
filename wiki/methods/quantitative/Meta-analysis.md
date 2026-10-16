@@ -128,15 +128,15 @@ related_arguments:
   - "[[Argument_Lei_Ding_Chiu_2026_ERR]]"
   - "[[Argument_Abrami_2015_RER]]"
   - "[[Argument_Greene_2018_JEP]]"
-  - "[[Argument_Simpson_2017_JEP]]"
+  - "[[Argument_Simpson_2017_JEdPolicy]]"
   - "[[Argument_Hattie_2015_Paideia]]"
-  - "[[Argument_Berk_2011_ER]]"
+  - "[[Argument_Berk_2011_EvalRev]]"
   - "[[Argument_Liu_2026_CHBR]]"
   - "[[Argument_Park_2026_TSC]]"
   - "[[Argument_Song_Choi_2026_FPSYG]]"
   - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
-  - "[[Argument_Johnson_2023_CE]]"
+  - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
   - "[[Argument_Knogler_2025_BB]]"
   - "[[Argument_Zhao_2025_JIntell]]"
@@ -212,10 +212,10 @@ updated: 2026-10-16
 > | **[[Fixed-Effect and Random-Effects Models\|固定与随机效应模型]]** | 固定：$\theta_i = \theta + \epsilon_i,\ \epsilon_i \sim N(0, v_i)$<br>随机：$\theta_i = \mu + u_i + \epsilon_i,\ u_i \sim N(0, \tau^2)$ | 固定模型假定所有研究共享单一恒定真实效应；随机模型纳入跨人群与情境的研究间异质性方差 $\tau^2$，外推至广义总体。 | $Q$ 检验显著（$p < .10$）或 $I^2 > 25\%$ 时必须优先采用随机效应模型；教育干预生态多样化时随机效应为通用默认模型。 | 🔗 [[Fixed-Effect Model]] / [[Random-Effects Model]]<br>📚 [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] |
 > | **[[Between-Study Variance\|研究间方差（Tau² / τ²）]]** | $\hat{\tau}^2 = \max\left(0, \frac{Q - (k-1)}{\sum w_i - \frac{\sum w_i^2}{\sum w_i}}\right)$<br>（DerSimonian-Laird 矩估计或 REML 估计） | 绝对尺度衡量超出[[Sampling Error\|抽样误差]]之外的跨研究真实效应离散度，为随机效应逆方差加权提供加项。 | $\tau^2 = 0$ 退化为固定效应；$\tau = \sqrt{\tau^2}$ 反映真实效应量在广义情境总体中的标准差离散尺度。 | 🔗 [[Between-Study Variance]]<br>📚 [[Argument_Greene_2018_JEP\|Greene et al. (2018)]] |
 > | **[[Cochran's Q Test\|Cochran's Q 检验]]** | $Q = \sum_{i=1}^k w_i (y_i - \bar{y})^2 \sim \chi^2(k-1)$ | 推断统计检验各初级研究真实效应量是否完全同质（$H_0: \tau^2 = 0$），判别效应量离散是否超出抽样随机误差。 | 因纳入研究数量较少时检验效力不足，常规设定 $\alpha = .10$；若 $p < .10$（或 $p < .05$），拒绝同质性假设，确证存在实质性异质性。 | 🔗 [[Cochran's Q Test]]<br>📚 [[Argument_Wiliam_2019_ERE\|Wiliam (2019)]] |
-> | **[[I-squared Statistic\|I² 统计量（异质性比率）]]** | $I^2 = \max\left(0, \frac{Q - (k-1)}{Q}\right) \times 100\%$ | 相对尺度量化跨研究总变异中由真实[[Heterogeneity\|异质性]]而非抽样误差所解释的百分比，克服 $Q$ 统计量受样本量膨胀的缺陷。 | Higgins 经验门槛：$25\%$（低）、$50\%$（中）、$75\%$（高异质性）；$I^2 > 50\%$ 强烈提示必须启动亚组调节分析与元回归以解释变异。 | 🔗 [[I-squared Statistic]]<br>📚 [[Argument_Simpson_2017_JEP\|Simpson (2017)]] |
+> | **[[I-squared Statistic\|I² 统计量（异质性比率）]]** | $I^2 = \max\left(0, \frac{Q - (k-1)}{Q}\right) \times 100\%$ | 相对尺度量化跨研究总变异中由真实[[Heterogeneity\|异质性]]而非抽样误差所解释的百分比，克服 $Q$ 统计量受样本量膨胀的缺陷。 | Higgins 经验门槛：$25\%$（低）、$50\%$（中）、$75\%$（高异质性）；$I^2 > 50\%$ 强烈提示必须启动亚组调节分析与元回归以解释变异。 | 🔗 [[I-squared Statistic]]<br>📚 [[Argument_Simpson_2017_JEdPolicy\|Simpson (2017)]] |
 > | **[[Prediction Interval\|95% 预测区间（PI）]]** | $\bar{\mu} \pm t_{k-2, 0.975} \sqrt{SE(\bar{\mu})^2 + \hat{\tau}^2}$ | 估计在未来单项同类新情境研究中观察到的真实效应可能范围，揭示平均效应掩盖下的极端负效应或干预损害风险。 | 即使合并效应量 95% CI 全部落在正向显著区间，若 95% PI 跨越 0，表明干预在部分特定真实情境中可能无效甚至有害。 | 🔗 [[Prediction Interval]]<br>📚 [[Argument_Higgins_2016_ROE\|Higgins (2016)]] |
 > | **[[Forest Plot\|森林图（Forest Plot）]]** | 初级研究：$y_i \pm 1.96\sqrt{v_i}$，方块面积 $\propto w_i^*$<br>合并效应菱形：$\bar{\mu} \pm 1.96 \times SE(\bar{\mu})$ | 全景几何集成与直观展示各项纳入研究的[[Effect Size\|效应量]]点估计、[[Confidence Interval\|置信区间]]线段、权重占比及总体汇总菱形。 | 观察线段重叠度（直观判读异质性离散度）、菱形中心顶点（总体效应方向与大小）与水平跨度（估计精度）。 | 🔗 [[Forest Plot]]<br>📚 [[Argument_Hattie_2015_Paideia\|Hattie (2015a)]] |
-> | **[[Funnel Plot\|漏斗图（Funnel Plot）]]** | 横轴效应量 $y_i$，纵轴标准误 $SE_i$（倒置）<br>伪 95% 置信边界：$\bar{\theta} \pm 1.96 \times SE_i$ | 几何图形化诊断[[Publication Bias\|发表偏倚]]、[[Small Study Effects\|小研究效应]]与系统误差；高精度大样本聚集顶部，小样本对称分散于底部。 | 对称倒置漏斗提示无显著偏倚；底部小样本一角缺失（不对称偏斜，如缺乏负效应小研究）强烈提示潜在发表偏倚。 | 🔗 [[Funnel Plot]]<br>📚 [[Argument_Berk_2011_ER\|Berk (2011)]] |
+> | **[[Funnel Plot\|漏斗图（Funnel Plot）]]** | 横轴效应量 $y_i$，纵轴标准误 $SE_i$（倒置）<br>伪 95% 置信边界：$\bar{\theta} \pm 1.96 \times SE_i$ | 几何图形化诊断[[Publication Bias\|发表偏倚]]、[[Small Study Effects\|小研究效应]]与系统误差；高精度大样本聚集顶部，小样本对称分散于底部。 | 对称倒置漏斗提示无显著偏倚；底部小样本一角缺失（不对称偏斜，如缺乏负效应小研究）强烈提示潜在发表偏倚。 | 🔗 [[Funnel Plot]]<br>📚 [[Argument_Berk_2011_EvalRev\|Berk (2011)]] |
 > | **[[Egger Regression Test\|Egger 线性回归检验]]** | $\frac{y_i}{SE_i} = \beta_0 + \beta_1 \left(\frac{1}{SE_i}\right) + \epsilon_i$<br>（$SND_i = \beta_0 + \beta_1 \text{Prec}_i$） | 定量参数化检验漏斗图不对称性；截距项 $\beta_0$ 度量漏斗图不对称度，斜率项 $\beta_1$ 代表规模加权无偏效应量。 | 对截距 $\beta_0$ 进行 $t$ 检验：若 $p < .05$ 且截距显著偏离 0，确认存在显著发表偏倚与小研究效应；反之未检出偏倚。 | 🔗 [[Egger Regression Test]]<br>📚 [[Argument_Wrigley_2019_ERE\|Wrigley and McCusker (2019)]] |
 > | **[[Begg and Mazumdar Rank Correlation\|Begg 秩相关检验]]** | $z_i^* = \frac{y_i - \bar{y}^*}{\sqrt{v_i - \tilde{v}}},\quad \tau = \frac{P - Q}{\frac{1}{2} k (k-1)}$ | 基于 Kendall's $\tau$ 检验标准化效应量与方差的等级相关，提供不受正态性假设限制的非参数小研究偏倚诊断。 | 若等级相关检验 $p < .05$ 且 $\tau > 0$，表明效应量大小与抽样方差存在单调依赖，印证发表偏倚存在。 | 🔗 [[Begg and Mazumdar Rank Correlation]] |
 > | **[[Trim and Fill Method\|剪补法（Trim & Fill）]]** | $L_0 = \frac{4S - k(k+1)}{2k - 1},\quad R_0 = k - r_*$<br>（对侧镜像虚拟填补并重拟合模型） | 估算漏斗图不对称导致的缺失研究篇数，在对侧虚拟填补缺失点，重新计算校正后的真实效应量与置信区间。 | 比较填补后效应量点估计降幅与 95% CI：若填补后效应量大幅稀释或不再显著，表明原始研究结论高度依赖发表偏倚。 | 🔗 [[Trim and Fill Method]] |
@@ -329,13 +329,13 @@ updated: 2026-10-16
 > [!warning] 核心批判维度导览
 > 1. **研究可比性危机（“苹果与橙子”问题）** 将不同干预定义、测量工具与实施情境的研究强行平均，产生无意义的统计噪音（Eysenck, 1978; [[Argument_Higgins_2016_ROE\|Higgins, 2016]]）。
 >    - *[[PICO Framework|PICO]] 准入红线与[[Construct|构念]]混淆* [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] 针对二阶综合的[[Metascience|元科学]]审计表明，若缺乏对初级元分析 [[PICO Framework|PICO]] 四要素（尤其是干预措施与对照组性质）的严格准入筛选，会导致严重异质的干预（如探究教学 vs 传统讲授、翻转课堂 vs 课后阅读）被机械混装，使合成结果沦为假性精确的宏观数字游戏。
-> 2. **输入质量[[Determinism\|决定论]]（“垃圾进，垃圾出”）** 低质量、高偏倚的初级研究合并后不仅不能相互抵消，反而会产生虚假的“高精度错误估计”（Slavin, 1984; [[Argument_Berk_2011_ER\|Berk, 2011]]）。
+> 2. **输入质量[[Determinism\|决定论]]（“垃圾进，垃圾出”）** 低质量、高偏倚的初级研究合并后不仅不能相互抵消，反而会产生虚假的“高精度错误估计”（Slavin, 1984; [[Argument_Berk_2011_EvalRev\|Berk, 2011]]）。
 >    - *现代破局防线* 当代循证元分析（如 [[Argument_Chen_Cheung_2025_ERR\|Chen & Cheung, 2025]]）通过确立严格的前端实验设计准入门槛（[[Sample Size Determination\|样本量]]每组 $\ge 15$、设立对照组、[[Baseline Standardized Mean Difference\|基线等效性]] $d_{\text{baseline}} < 0.25$），构建了抵御低质偏倚的方法学防火墙；实证研究证实该门槛能有效消除准实验与 RCT 之间的系统性效应差异（$Q_B$ 组间异质性检验不显著），实现证据池的源头净化。
 >    - *商业学术出版体制与数据黑箱* [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, pp. 34–35)]] 实证指出，商业学术期刊体制构成了科学综合的制度性阻碍：强烈的[[Publication Bias|发表偏倚]]与抽屉效应导致大量零效应或负效应被隐藏；版面限制迫使初级研究普遍省略实验组与对照组的精确样本量（$n_E, n_C$）与标准差，形成不可查证的数据黑箱，导致后续元分析在提取端即遭系统性数据污染。
 > 3. **统计独立性假设违背** 同一研究提供多重结局测量造成数据嵌套依赖，人为虚窄[[Standard Error\|标准误]]（Wolf, 1986; Cheung, 2014）。
 > 4. **平均效应掩盖[[Heterogeneity\|异质性]]与因果机制** 平均[[Effect Size\|效应量]]无法回答“干预对谁有效、在何种情境下有效”，可能掩盖高达 38% 的负向效应子群（Kluger & DeNisi, 1996; [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019]]）。
-> 5. **政策工具排名的伪精确性与二阶[[Replication in Education Research|复现危机]]** 将效应量简化为《[[Visible Learning\|可见的学习]]》气压计或排行榜，误导教育资源配置（[[Argument_Wiliam_2019_ERE\|Wiliam, 2019]]; [[Argument_Simpson_2017_JEP\|Simpson, 2017]]）；全库数据审计证实粗放二阶[[Meta-meta-analysis|元综合]]的数据提取可复现率不足 1%，且存在严重的选择性报告（[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025]]）。
->    - *隐藏公式与无加权简单算术平均陷阱* [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]] 进一步揭示，当元综合脱离严格的[[Inverse-Variance Weighting|逆方差加权]]规范，将样本量悬殊的一级元分析进行无加权简单算术平均并隐去数学公式时（如以 5 项一级文献简单均值得出[[Homework|家庭作业]] $d=0.29$），不仅抹杀了关键学段差异（小学 $d=0.15$ vs. 高中 $d=0.64$），更演变为披着科学外衣的[[Cargo Cult Science|货物崇拜科学]]（Cargo Cult Science），对教育实践构成数字霸凌。
+> 5. **政策工具排名的伪精确性与二阶[[Replication in Education Research|复现危机]]** 将效应量简化为《[[Visible Learning\|可见的学习]]》气压计或排行榜，误导教育资源配置（[[Argument_Wiliam_2019_ERE\|Wiliam, 2019]]; [[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017]]）；全库数据审计证实粗放二阶[[Meta-meta-analysis|元综合]]的数据提取可复现率不足 1%，且存在严重的选择性报告（[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025]]）。
+>    - *隐藏公式与无加权简单算术平均陷阱* [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] 进一步揭示，当元综合脱离严格的[[Inverse-Variance Weighting|逆方差加权]]规范，将样本量悬殊的一级元分析进行无加权简单算术平均并隐去数学公式时（如以 5 项一级文献简单均值得出[[Homework|家庭作业]] $d=0.29$），不仅抹杀了关键学段差异（小学 $d=0.15$ vs. 高中 $d=0.64$），更演变为披着科学外衣的[[Cargo Cult Science|货物崇拜科学]]（Cargo Cult Science），对教育实践构成数字霸凌。
 >    - *两级[[Fixed-Effect Model|固定效应]]代数等价性崩溃与文献重叠陷阱* [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016, pp. 25, 29–30)]] 从数学公理证明，元分析合成有效性的充要条件是初级研究互不重叠；当不同元分析高度共享底层文献（如 Olson & Wisher 与 Sitzmann et al. 存在 93.3% 重叠）时，经典方差公式彻底失效，导致联合标准误虚假收缩与排名剧烈波动（网络学习去重加权后 $d$ 自 $0.59$ 暴跌至 $0.23$，排名从第 26 位骤降至第 98 位并跌破 $d = 0.40$ 关节点）。
 > 6. **微弱效应量与常态对照基线（Micro-effects & High-Quality Control Baseline）** Lortie-Forgues and Inglis (2019) 重新分析 141 项英美大型教育 [[Randomised Controlled Trials\|RCT]]（涵盖逾 120 万名学生），指出平均合并效应量仅为 $d = 0.06$（[[Confidence Interval\|置信区间]]平均宽度达 $0.30$ SD），据此质疑试验“缺乏信息量”。然而，超大样本量极大提升了统计推断精度，微弱效应量实质映射出学校现存[[Business as Usual\|常态教学]]（business as usual）的高水准专业基线；元分析在合成证据时不仅要识别正向效应，更必须重视“证明何者无效”对破除商业噱头与保护紧缺公共资金的去魅价值（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 56–57]]）。
 >
@@ -356,7 +356,7 @@ updated: 2026-10-16
 >
 > 关键方法学发现：实验控制质量是调节曲线斜率的唯一关键因素。良好控制的研究显示出更陡峭的收益曲线，而不充分控制的研究曲线较为平缓。Glass et al. 据此按研究质量分层报告效应量，奠定了按方法学质量开展亚组分析的规范。（[[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]], Ch. 17, pp. 357–360）
 >
-> **二阶综合中的截取与失真争议** 格拉斯与史密斯原文献证实，在控制良好的实验中，班级规模从 40 人压减至 1 人个别辅导时，学业成绩百分位从 50% 显著上升至 80% 以上（差距达 30 多个百分位点），且班额低于 20 人时斜率急剧变陡。然而，该经典发现在后续的宏观[[Meta-meta-analysis|元综合]]中遭遇了严重的断章取义与数据提取扭曲：[[John Hattie|哈蒂]]在《[[Visible Learning|可见的学习]]》中将其压缩为微弱的线性值 $d=0.09$，不仅疑似单独截取了曲线最右端平缓的局部尾部，更混入了大学 100 人大阶梯教室讲座的文献，将高等教育现象不当套用于中小学，暴露出元分析证据在二次提取与跨情境转译中容易被政策偏好策略性裁剪的脆弱性（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 32–33]]）。
+> **二阶综合中的截取与失真争议** 格拉斯与史密斯原文献证实，在控制良好的实验中，班级规模从 40 人压减至 1 人个别辅导时，学业成绩百分位从 50% 显著上升至 80% 以上（差距达 30 多个百分位点），且班额低于 20 人时斜率急剧变陡。然而，该经典发现在后续的宏观[[Meta-meta-analysis|元综合]]中遭遇了严重的断章取义与数据提取扭曲：[[John Hattie|哈蒂]]在《[[Visible Learning|可见的学习]]》中将其压缩为微弱的线性值 $d=0.09$，不仅疑似单独截取了曲线最右端平缓的局部尾部，更混入了大学 100 人大阶梯教室讲座的文献，将高等教育现象不当套用于中小学，暴露出元分析证据在二次提取与跨情境转译中容易被政策偏好策略性裁剪的脆弱性（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 32–33]]）。
 
 > [!case] 证据合成与活态数据库：[[Education Endowment Foundation\|EEF]] 对万项试验元分析[[Heterogeneity\|异质性]]的二次解构与通俗转化（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）
 > - **二阶合成的决策转化** 单一试验的内部有效性不足以直接推论出广泛的[[External Validity\|外部效度]]，[[Systematic Review\|系统综述]]与元分析构成了外推基石（Shadish et al., 2002）。英国教育捐赠基金会（EEF）在《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》中综合了 30 余类通用教学策略底层的数千项元分析与实证研究，将复杂的统计量转化为额外学习月数（[[Months of Progress]]）、实施成本与[[EEF Padlock Security Rating\|挂锁安全评级]]，成为全英格兰超 70% 中学校长配置资源的法定参考指南。
@@ -413,5 +413,5 @@ updated: 2026-10-16
 > - [[Argument_Wrigley_2019_ERE\|Wrigley and McCusker (2019)]] 运用[[Realist Evaluation\|实在论综合]]与[[Critical Realism\|批判实在论]]反思元分析的局限性。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] 探讨[[Meta-meta-analysis\|二阶元分析]]与证据合成在英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）实践中的制度化应用；系统回应 Lortie-Forgues and Inglis (2019) 对 141 项大型教育 [[Randomised Controlled Trials\|RCT]] 平均微弱效应量（$d = 0.06$）的批评，阐明大样本精度、[[Business as Usual\|常态教学]]高基线以及实时动态数据库对消解元分析证据异质性（Heterogeneity）的治理机制。
 > - [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] 依据 [[PICO Framework|PICO]] 框架对教育元分析证据库开展首个[[Preregistration|预注册]]质量审计，剖析了对照组性质混淆（活跃对照 vs 照常对照）、组内与组间设计直接混用（Morris & DeShon 难题）对效应量可比性的破坏，确立了元分析[[Access and Acceptance in Research|研究准入]]与效应量提取透明度的[[Metascience|元科学]]标准。
-> - [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] 从元分析的方法论透明度与计算规范出发，系统解构了《[[Visible Learning|可见的学习]]》所运用的二阶元综合技术，深入揭露其隐藏计算公式、对异质性元分析实施无加权简单算术平均、以及对 Glass and Smith (1979) [[Class Size|班级规模]]经典元分析进行失真提取的[[Cargo Cult Science|货物崇拜科学]]特征。
+> - [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] 从元分析的方法论透明度与计算规范出发，系统解构了《[[Visible Learning|可见的学习]]》所运用的二阶元综合技术，深入揭露其隐藏计算公式、对异质性元分析实施无加权简单算术平均、以及对 Glass and Smith (1979) [[Class Size|班级规模]]经典元分析进行失真提取的[[Cargo Cult Science|货物崇拜科学]]特征。
 > - [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] 从[[Fixed-Effect Model|固定效应]]数学公理推导出两级元分析代数等价性定理（$D = \bar{d}, v_D = v_{\bar{d}}$），系统剖析了一级元分析中[[Standard Error|标准误]]误作标准差导致效应量虚增十倍（Eisenstaedt 案例）、未加权平均以及严重文献重叠（Olson & Wisher 93.3% 重叠）对综合推断的破坏机制，提出建立中央标准化证据数据库并转向基于原始主要研究的一级大样本直接综合。（pp. 24–30, 35–36）

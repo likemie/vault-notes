@@ -43,7 +43,7 @@ related_persons:
 related_facts:
   - "[[Victorian HITS and Literacy Toolkit]]"
 related_arguments:
-  - "[[Argument_Johnson_2023_CE]]"
+  - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_McKnight_2020_Discourse]]"
 confidence: high
@@ -97,7 +97,7 @@ updated: 2026-10-16
 
 #### 评估软件的原型监视架构与管理图表视觉迁移
 
-> [!proc] [[Assessment Tools for Teaching and Learning|asTTle]] 监控原型向可见学习[[Barometer of Achievement|气压计图表]]的演化链条（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p. 28]]）
+> [!proc] [[Assessment Tools for Teaching and Learning|asTTle]] 监控原型向可见学习[[Barometer of Achievement|气压计图表]]的演化链条（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 28]]）
 > 1. **行政实时追踪软件研发** [[John Hattie|哈蒂]]在出版《[[Visible Learning|可见的学习]]》前主持开发了新西兰国家级 [[Assessment Tools for Teaching and Learning|asTTle]] 计算机系统，在技术文档中明确写入支持管理层对全校 6 个科目的软件使用情况进行全网实时追踪，构建了典型的行政数字全景监视网络。
 > 2. **管理仪表界面的视觉殖民** 可见学习书中反复出现的标志性影响气压计图表（Barometer graphics）并非源自教学论思辨，而是直接截取自 asTTle 系统的管理界面，继承了将复杂师生交互压缩为管理仪表盘刻度的全景控制逻辑。
 > 3. **专业自主权剥离** 该工具通过全景监控与标准化指标，将一线教学贬低为缺乏证据支持的不成熟职业，为外部商业资本和咨询套件长驱直入铺平道路。
@@ -110,7 +110,7 @@ updated: 2026-10-16
 
 #### 刚性打卡考核诱发的表演性异化
 
-> [!case] 维多利亚州 [[Victorian HITS and Literacy Toolkit|HITS]] 教学策略中的白板打卡困境（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 29–30]]）
+> [!case] 维多利亚州 [[Victorian HITS and Literacy Toolkit|HITS]] 教学策略中的白板打卡困境（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 29–30]]）
 > 澳大利亚维多利亚州依据可见学习推行高影响力教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]），将全景敞视[[Disciplina and Doctrina|规训]]推向极致：
 > - 教师被硬性规定在上课铃响前必须在白板上端正写出当堂课题与[[Learning Intentions|学习意图]]，以备巡堂管理人员随时抽检问责。
 > - 僵化的白板展示剥夺了教师根据现场生发情境施教的自由度，将丰富的人际育人过程窄化为应付全景检查的形式主义表演。
@@ -137,6 +137,6 @@ updated: 2026-10-16
 > *“The major effect of the Panopticon: to induce in the inmate a state of conscious and permanent visibility that assures the automatic functioning of power. Bentham laid down the principle that power should be visible and unverifiable... he must be sure that he may always be so.”*
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]] — 结合福柯全景敞视理论，解剖 [[Assessment Tools for Teaching and Learning|asTTle]] 监控软件如何演化为可见学习[[Barometer of Achievement|气压计图表]]并压缩[[Teacher Professional Agency|教师能动性]]。
+> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 结合福柯全景敞视理论，解剖 [[Assessment Tools for Teaching and Learning|asTTle]] 监控软件如何演化为可见学习[[Barometer of Achievement|气压计图表]]并压缩[[Teacher Professional Agency|教师能动性]]。
 > - [[Argument_McKnight_2020_Discourse|McKnight and Whitburn (2020)]] — 从文化政治学解构视觉霸权构建的全景监控生态及其诱发的[[Ontology|本体论]]不安全。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 诊断可见学习将互见互视置于核心，把传统公开支配转变为精致现代全景统治。

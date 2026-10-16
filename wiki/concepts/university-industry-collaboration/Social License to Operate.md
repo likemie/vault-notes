@@ -41,11 +41,11 @@ related_facts:
   - "[[World Bank]]"
 related_arguments:
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06]]"
-  - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
+  - "[[Argument_Schulze-Cleven_2017_HE]]"
 confidence: high
 status: draft
 created: 2026-09-04
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Social License to Operate
@@ -181,4 +181,4 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|The Royal Society (2026)]] — 将社会运营许可（Licence to Operate）正式确立为大学开展[[Public Engagement with Science\|公众科学参与]]的核心制度动因，系统论证维系大学存续的六大基石，指出在财政紧缩与合法性争议时代公众参与是高校的战略性生命线投资。
-> - [[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al. (2017)]] — 从[[Quasi-markets in Higher Education\|高等教育准市场]]与社会契约变迁视角，分析英美大学在公共财政削减下重新界定公共合法性与多元利益相关者关系的机制。
+> - [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al. (2017)]] — 从[[Quasi-markets in Higher Education\|高等教育准市场]]与社会契约变迁视角，分析英美大学在公共财政削减下重新界定公共合法性与多元利益相关者关系的机制。

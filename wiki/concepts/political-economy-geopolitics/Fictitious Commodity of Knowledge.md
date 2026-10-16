@@ -32,7 +32,7 @@ related_persons: []
 related_facts:
   - "[[Research Excellence Framework]]"
 related_arguments:
-  - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
+  - "[[Argument_Schulze-Cleven_2017_HE]]"
 confidence: medium
 status: draft
 created: 2026-06-01
@@ -44,12 +44,12 @@ updated: 2026-10-16
 ## 定义
 
 > [!info]
-> 知识的虚拟商品（Fictitious Commodity of Knowledge）是 Jessop（2007）在 Polanyi 的理论框架下提出的概念。Polanyi 在 The Great Transformation（1944）中论证，土地、劳动力和货币本质上是"虚拟商品"，它们被当作商品在市场上买卖，但它们并不是为市场交换而生产的，将其完全商品化将摧毁社会本身。Jessop 将这一分析延伸至知识：在当代[[Knowledge Capitalism\|知识资本主义]]中，知识被当作可交易的商品来处理，被定价、被交换、被赋予市场价值，但知识固有的社会性质（非竞争性使用、非排他性、嵌入社会关系和制度中）使其无法被完整地商品化([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, pp.799, 804–805]])。
+> 知识的虚拟商品（Fictitious Commodity of Knowledge）是 Jessop（2007）在 Polanyi 的理论框架下提出的概念。Polanyi 在 The Great Transformation（1944）中论证，土地、劳动力和货币本质上是"虚拟商品"，它们被当作商品在市场上买卖，但它们并不是为市场交换而生产的，将其完全商品化将摧毁社会本身。Jessop 将这一分析延伸至知识：在当代[[Knowledge Capitalism\|知识资本主义]]中，知识被当作可交易的商品来处理，被定价、被交换、被赋予市场价值，但知识固有的社会性质（非竞争性使用、非排他性、嵌入社会关系和制度中）使其无法被完整地商品化([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, pp.799, 804–805]])。
 
-在 [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al.（2017）]]对高等教育新政治经济学的分析中，这一概念被用于揭示"[[Academic Capitalism|学术资本主义]]"[[Discourse|话语]]的一个核心矛盾：大学被说成在市场化，但大学的核心产品，知识，从根本上抗拒完全的市场化。国家安排的竞争（state-arranged competitions），排名、评估、竞争性拨款，可能正是促进知识向虚拟商品转化的制度机制（p.799）。
+在 [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al.（2017）]]对高等教育新政治经济学的分析中，这一概念被用于揭示"[[Academic Capitalism|学术资本主义]]"[[Discourse|话语]]的一个核心矛盾：大学被说成在市场化，但大学的核心产品，知识，从根本上抗拒完全的市场化。国家安排的竞争（state-arranged competitions），排名、评估、竞争性拨款，可能正是促进知识向虚拟商品转化的制度机制（p.799）。
 
 > [!quote]
-> "国家安排的竞争可能促进知识向'虚拟商品'（Jessop, 2007）的转化。"([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, p.799]])
+> "国家安排的竞争可能促进知识向'虚拟商品'（Jessop, 2007）的转化。"([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, p.799]])
 
 ## 概念辨析
 
@@ -61,7 +61,7 @@ updated: 2026-10-16
 ## 核心逻辑：为什么知识只能是虚拟商品
 
 > [!abstract]
-> 知识的三个固有特征使其抗拒完全商品化([[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, pp.804–805]])：
+> 知识的三个固有特征使其抗拒完全商品化([[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, pp.804–805]])：
 
 ### 非竞争性使用
 
@@ -83,7 +83,7 @@ updated: 2026-10-16
 ## 与新封建等级的关系
 
 > [!note]-
-> 为什么知识的虚拟商品地位会导致新封建式的等级？[[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al. (2017, pp.798–799, 804–805)]]提供了连接逻辑：
+> 为什么知识的虚拟商品地位会导致新封建式的等级？[[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al. (2017, pp.798–799, 804–805)]]提供了连接逻辑：
 >
 > 因为知识无法通过市场供需自动产生价格信号（一项数学定理的市场价格是多少？没有答案），所以需要学术界的评估机制，排名、影响因子、同行评审，来为知识"赋值"。但这些评估机制本身由精英机构控制，顶尖大学的教授编辑顶级期刊、主导同行评审委员会、制定学科的评价标准。结果是一个自我再生产的等级：精英机构控制知识的价值定义权 → 价值定义偏向精英机构的知识类型 → 精英机构在评估中获得更高分数 → 精英机构获得更多资源和声誉 → 精英机构更牢固地控制价值定义权。
 >

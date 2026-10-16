@@ -39,11 +39,11 @@ related_facts:
   - "[[What Works Network]]"
 related_arguments:
   - "[[Argument_Skourdoumbis_2024_AER]]"
-  - "[[Argument_Rickinson_2022_ER]]"
+  - "[[Argument_Rickinson_2022_EducRes]]"
 confidence: high
 status: completed
 created: 2026-06-16
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Centre for Evidence and Implementation
@@ -63,7 +63,7 @@ updated: 2026-10-15
 ## 经过
 
 > [!timeline] 机构发展与关键活动
-> - **2019–2022 — 参与 [[Quality Use of Research Evidence Framework\|QURE]] 框架前沿研制与利益相关方咨询** 莫纳什大学开展旨在构建研究证据高质量使用框架（QURE 框架）的大规模跨部门[[Systematic Review\|系统综述]]期间，CEI 作为核心研究中介机构专家团队，深度卷入针对澳大利亚新南威尔士、维多利亚等州教育系统领导者与方法学专家的多轮咨询网络，为[[Research Utilization\|证据使用]]的实施维度与中介机制提供专业输入。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, p. 138)]]
+> - **2019–2022 — 参与 [[Quality Use of Research Evidence Framework\|QURE]] 框架前沿研制与利益相关方咨询** 莫纳什大学开展旨在构建研究证据高质量使用框架（QURE 框架）的大规模跨部门[[Systematic Review\|系统综述]]期间，CEI 作为核心研究中介机构专家团队，深度卷入针对澳大利亚新南威尔士、维多利亚等州教育系统领导者与方法学专家的多轮咨询网络，为[[Research Utilization\|证据使用]]的实施维度与中介机制提供专业输入。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, p. 138)]]
 > - **2021 — 受托开展澳大利亚教育循证实践桌面审查** 受官方证据机构[[Australian Education Research Organisation\|澳大利亚教育研究组织]]（AERO）委托，针对全澳学校采纳[[Evidence-Informed Practice\|证据知情实践]]的现状开展全面桌面审查（Desktop Review），并于当年 12 月完成撰写并上线发布。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024, p. 8)]]
 > - **2023 — 审查结论被采纳为全国教师教育改革大纲依据** 该桌面审查报告（Abdo et al., 2021）被教师教育专家小组（TEEP）全盘采纳，成为起草《强劲开端》（[[Strong Beginnings Report]]）全国教师教育“大脑与学习”核心内容强制标准的底层论证基础。
 
@@ -82,7 +82,7 @@ updated: 2026-10-15
 
 > [!finding-cards] 影响与政策成效
 > - **自足式[[Policy Science in Comparative Education\|政策科学]]大纲的构建** 其桌面审查报告虽然明确指出本地经验证据极为有限，但仍被官方机构 [[Australian Education Research Organisation\|AERO]] 采纳为推行全国统一“脑科学与认知负荷”核心课程标准的政策科学底座。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024, p. 8)]]
-> - **跨部门[[Evidence Network\|证据网络]]与框架奠基** 深度参与 [[Quality Use of Research Evidence Framework\|QURE]] 框架研制，协同确立了超越单纯证据供给、聚焦实践者深思熟虑参与的[[Research Utilization\|证据使用]]质量评价共识。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, p. 138)]]
+> - **跨部门[[Evidence Network\|证据网络]]与框架奠基** 深度参与 [[Quality Use of Research Evidence Framework\|QURE]] 框架研制，协同确立了超越单纯证据供给、聚焦实践者深思熟虑参与的[[Research Utilization\|证据使用]]质量评价共识。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, p. 138)]]
 > - **证据决策垄断与同行评审绕过** 作为外部中介智库，其委托审查报告直接向政策决策层输送，绕过了学术共同体与大学教师教育者的常规双盲同行评审，却依靠[[Policy Network\|政策网络]]在国家法定课程改革中获得了准真理的特权地位。
 
 ---
@@ -90,7 +90,7 @@ updated: 2026-10-15
 ## 争议与评论
 
 > [!actor-grid] 评论视角图
-> - **实施科学与中介转化视角** 强调其专业实施科学（Implementation Science）方法论，致力于打破象牙塔科研生产与中小学校园一线行动之间的转化壁垒，为[[Systematic Review\|系统综述]]与使用质量框架提供扎实的落地支持。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, p. 138)]]
+> - **实施科学与中介转化视角** 强调其专业实施科学（Implementation Science）方法论，致力于打破象牙塔科研生产与中小学校园一线行动之间的转化壁垒，为[[Systematic Review\|系统综述]]与使用质量框架提供扎实的落地支持。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, p. 138)]]
 > - **批判社会学视角** 批评 CEI 作为公私合营[[Educational Brokerage Agency\|证据经纪人]]，协助官方机构垄断了什么是合法有效证据的解释权，将复杂的公共育人审议重构为自洽的[[Technical Rationality\|技术理性]]操作。[[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024, p. 8)]]
 > - **方法学与文献独立性视角** 指出其桌面审查未经广泛学术共同体的严格同行评审，且文献引用高度聚焦于自身阵营期刊，中立性与客观代表性面临拷问。
 
@@ -107,5 +107,5 @@ updated: 2026-10-15
 > |---|---|---|
 > | [[Australian Education Research Organisation]] | 委托 CEI 进行桌面审查，并在[[Policy Network\|政策网络]]中推广其报告的官方教育证据机构。 | [[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024, p. 8)]] |
 > | [[Strong Beginnings Report]] | 强制指定核心课程附表、以 CEI 桌面审查作为底层科学证据支撑的全国教师教育改革文本。 | [[Argument_Skourdoumbis_2024_AER\|(Skourdoumbis & Rowe, 2024, p. 11)]] |
-> | [[Quality Use of Research Evidence Framework]] | CEI 专家深度参与利益相关方咨询网络、共同奠基[[Research Utilization\|证据使用]]质量理论框架。 | [[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, p. 138)]] |
+> | [[Quality Use of Research Evidence Framework]] | CEI 专家深度参与利益相关方咨询网络、共同奠基[[Research Utilization\|证据使用]]质量理论框架。 | [[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, p. 138)]] |
 > | [[What Works Movement]] | CEI 与 AERO 共同隶属并推动的跨国标准化教学证据评级与转化运动。 | — |

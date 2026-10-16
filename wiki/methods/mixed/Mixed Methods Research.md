@@ -97,7 +97,7 @@ related_arguments:
   - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
   - "[[Argument_Teng_2025_CE]]"
   - "[[Argument_Cole_2015_AJE]]"
-  - "[[Argument_Metli_2022_IJER]]"
+  - "[[Argument_Metli_2022_IJEdReform]]"
   - "[[Argument_Bergeron_2015_TeachingTOK]]"
 related_instruments: []
 confidence: high
@@ -351,6 +351,6 @@ updated: 2026-10-16
 > - [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso & Hall, 2025b, p. 55]] — 综合运用理论框架建构、65 所大学[[Website Content Analysis\|网站内容分析]]与[[Questionnaire\|问卷调查]]三步混合设计，透视大学[[University-Industry Collaboration\|产学参与]]模式。
 > - [[Argument_Teng_2025_CE\|Teng & Wang, 2025, p. 305]] — 采用解释性混合设计，先通过问卷回归识别[[Peidu\|陪读]]社会分层梯度，再依托[[In-depth Interview\|深度访谈]]阐释微观运作机制。
 > - [[Argument_Cole_2015_AJE\|Cole et al., 2015, p. 30]] — 运用三阶段[[Convergent Design\|聚敛式设计]]，结合大样本问卷量表与多校[[Classroom Observation|课堂观察]]/访谈质性数据，检验[[International Baccalaureate\|国际文凭]] [[Theory of Knowledge\|TOK]] 课程对[[Critical Thinking\|批判性思维]]的培育效应。
-> - [[Argument_Metli_2022_IJER\|Metli & Akış, 2022, p. 222]] — 结合问卷调查与[[Focus Group\|焦点小组]]访谈，质性阐释[[Concurrency of Learning\|并发学习]]认知挑战，量化统计印证定性发现。
+> - [[Argument_Metli_2022_IJEdReform\|Metli & Akış, 2022, p. 222]] — 结合问卷调查与[[Focus Group\|焦点小组]]访谈，质性阐释[[Concurrency of Learning\|并发学习]]认知挑战，量化统计印证定性发现。
 > - [[Argument_Bergeron_2015_TeachingTOK\|Bergeron & Rogers, 2015, p. 10]] — 采用[[Explanatory Sequential Design\|解释性序列设计]]，结合大规模问卷与焦点[[Group Interview\|小组访谈]]评估 TOK 课程实施影响。
 

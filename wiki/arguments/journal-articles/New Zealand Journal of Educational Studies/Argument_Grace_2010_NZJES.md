@@ -9,7 +9,7 @@ title: "Argument_Grace_2010_NZJES"
 argument_key: "Argument_Grace_2010_NZJES"
 argument_display_title: "Reflection on the University and the Academic as 'Critic and Conscience of Society'"
 argument_kind: "journal-article"
-argument_related_count: 6
+argument_related_count: 7
 argument_related_level: 0
 argument_related_stars: "☆"
 argument_related_color: "#dbeafe"
@@ -31,7 +31,8 @@ related_methods: []
 related_persons:
   - "[[Basil Bernstein]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Hattie_2010_NZJES]]"
 sources:
   - "[[sources/Grace_2010_NZJES|Grace_2010_NZJES]]"
 part_of: ''

@@ -80,7 +80,7 @@ related_facts:
   - "[[Reach]]"
 related_arguments:
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
-  - "[[Argument_Rickinson_2022_ER]]"
+  - "[[Argument_Rickinson_2022_EducRes]]"
 confidence: high
 status: completed
 created: 2026-09-14
@@ -94,7 +94,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 方法定义
-> **实施与过程评估（Implementation and Process Evaluation，IPE）**，亦称**过程评估**，是指在教育干预、公共卫生及社会政策的成效检验中，与量化结果评估（如 [[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trials，RCT））并行实施的一种复杂[[Mixed Methods Evaluation Design\|混合方法评估设计]]。该方法通过系统收集质性与量化多源数据，深入追踪干预在现场的递送质量、保真度、参与者依从性、对照组常态活动以及情境与因果机制的中介作用，旨在打开干预成效的黑箱，准确解释干预项目为何有效、为何无效或在何种情境下有效([[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 53–54]])。在复杂教育生态与[[Research Utilization\|证据使用]]评估视域下，IPE 进一步拓展为对证据落地全流程、专业审议深度与组织使能条件的形成性诊断机制（[[Argument_Rickinson_2022_ER\|Rickinson et al., 2022a, p. 145]]）。
+> **实施与过程评估（Implementation and Process Evaluation，IPE）**，亦称**过程评估**，是指在教育干预、公共卫生及社会政策的成效检验中，与量化结果评估（如 [[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trials，RCT））并行实施的一种复杂[[Mixed Methods Evaluation Design\|混合方法评估设计]]。该方法通过系统收集质性与量化多源数据，深入追踪干预在现场的递送质量、保真度、参与者依从性、对照组常态活动以及情境与因果机制的中介作用，旨在打开干预成效的黑箱，准确解释干预项目为何有效、为何无效或在何种情境下有效([[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 53–54]])。在复杂教育生态与[[Research Utilization\|证据使用]]评估视域下，IPE 进一步拓展为对证据落地全流程、专业审议深度与组织使能条件的形成性诊断机制（[[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a, p. 145]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 现场试验中的复杂干预方案、教师与管理者培训过程、课堂实施行为、对照组[[Business as Usual\|常态教学]]活动、参与者互动及制度情境。
@@ -108,7 +108,7 @@ updated: 2026-10-16
 > *A good theoretical understanding is needed of how the intervention causes change... lack of effect may reflect implementation failure (or teething problems) rather than genuine ineffectiveness.*
 
 > [!citation-card] Rickinson et al. 论证据使用质量的过程评估与形成性诊断
-> 高质量研究证据使用的评估不能仅停留在下游学生学习结果的孤立产出端，而必须聚焦证据在复杂系统中的落地过程。通过实施与过程评估（IPE），系统追踪学校[[Organizational Culture\|组织文化]]、专业审议过程与使能构件的动态互动，才能精准诊断证据落地中的结构性瓶颈，推动循证实践从静态合规走向深层组织探究。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, p. 145)]]
+> 高质量研究证据使用的评估不能仅停留在下游学生学习结果的孤立产出端，而必须聚焦证据在复杂系统中的落地过程。通过实施与过程评估（IPE），系统追踪学校[[Organizational Culture\|组织文化]]、专业审议过程与使能构件的动态互动，才能精准诊断证据落地中的结构性瓶颈，推动循证实践从静态合规走向深层组织探究。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, p. 145)]]
 >
 > *Evaluating quality evidence use requires continuous, diagnostic, and formative implementation and process evaluations that capture the dynamic interplay among organizational cultures, professional deliberation, and systemic enablers.*
 
@@ -166,7 +166,7 @@ updated: 2026-10-16
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 涉及人际多层级复杂互动、[[Organizational Culture\|组织文化]]变革或教师教学法重构的教育与社会政策试验；需要同时回答干预在何种情境下有效以及如何发挥作用（Why and How）的重大政策决策评估；具有大规模推广意向并需建立标准化操作规范的项目（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 53–54]]）；以及旨在提升全校[[Research Utilization\|证据使用]]素养与优化[[Evidence Ecosystem\|证据生态系统]]的深层形成性诊断（[[Argument_Rickinson_2022_ER\|Rickinson et al., 2022a, p. 145]]）。
+> - **适合使用** 涉及人际多层级复杂互动、[[Organizational Culture\|组织文化]]变革或教师教学法重构的教育与社会政策试验；需要同时回答干预在何种情境下有效以及如何发挥作用（Why and How）的重大政策决策评估；具有大规模推广意向并需建立标准化操作规范的项目（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 53–54]]）；以及旨在提升全校[[Research Utilization\|证据使用]]素养与优化[[Evidence Ecosystem\|证据生态系统]]的深层形成性诊断（[[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a, p. 145]]）。
 > - **谨慎使用** 试验周期极短、[[Sample Size Determination\|样本量]]极小且缺乏理论准备的探索性微型干预；学校行政与教学压力极其沉重、受试者面临高度评估疲劳与高流失风险的紧张[[Champ\|场域]]。
 > - **不适合使用** 仅用于项目验收或结项造势的事后质性拼凑；在缺乏明确因果假设对照或缺乏基础量化结果指标验证的情境下单列主观感受调查。
 
@@ -189,7 +189,7 @@ updated: 2026-10-16
 > |:-----|:-----|:-----|
 > | [[Theory of Change]] | 理论 | 为 IPE 提供前期因果[[Logic Model\|逻辑模型]]，用于界定干预的核心活性成分与预期中介机制。 |
 > | [[Realist Evaluation]] | 理论 | 为 IPE 提供情境-机制-结果（CMO）构型的[[Epistemology\|认识论]]指引，突破单纯输入-输出黑箱思维。 |
-> | [[Quality Use of Research Evidence Framework\|高质量研究证据使用框架]] | 理论/框架 | 将 IPE 拓展为评估复杂教育生态中证据落地、专业审议与组织使能构件的形成性诊断工具。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, p. 145)]] |
+> | [[Quality Use of Research Evidence Framework\|高质量研究证据使用框架]] | 理论/框架 | 将 IPE 拓展为评估复杂教育生态中证据落地、专业审议与组织使能构件的形成性诊断工具。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, p. 145)]] |
 > | [[Evidence Ecosystem\|证据生态系统]] | 理论/概念 | 为 IPE 提供了超越微观课堂的宏观分析视域，涵盖[[Knowledge Mobilisation\|知识动员]]、中介机构与多层使能环境。 |
 > | [[Randomised Controlled Trials]] | 互补方法 | 提供高[[Internal Validity\|内部效度]]的净因果效应量估计，IPE 为其提供过程解释与机制归因。 |
 > | [[Quasi-Experimental Designs]] | 互补方法 | 在无法硬性[[Random Assignment\|随机分配]]的宏观决策评估中，与 IPE 协同追踪基层自然变异与执行质量。 |
@@ -202,4 +202,4 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 回顾 [[Education Endowment Foundation\|EEF]] 在 [[Randomised Controlled Trials\|RCT]] 中规范实施与过程评估（IPE）的历程，从早期缺乏机制解释到发布 IPE 指南（2019），确立 [[TIDieR]] 等规范。
-> - [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]] — 在提出[[Quality Use of Research Evidence Framework\|高质量研究证据使用框架]]的同时，倡导将实施与过程评估拓展应用于学校组织[[Research Utilization\|证据使用]]的[[Formative Assessment\|形成性评价]]，主张超越静态产出指标，系统追踪专业审议、探究心智与[[Reflexivity\|反思性]][[Organizational Culture\|组织文化]]等深层动态机制（p. 145）。
+> - [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a)]] — 在提出[[Quality Use of Research Evidence Framework\|高质量研究证据使用框架]]的同时，倡导将实施与过程评估拓展应用于学校组织[[Research Utilization\|证据使用]]的[[Formative Assessment\|形成性评价]]，主张超越静态产出指标，系统追踪专业审议、探究心智与[[Reflexivity\|反思性]][[Organizational Culture\|组织文化]]等深层动态机制（p. 145）。

@@ -71,7 +71,7 @@ related_facts:
   - "[[Inflation Reduction Act]]"
   - "[[American Federation of Teachers]]"
 related_arguments:
-  - "[[Argument_McDonnell_2013_AJE]]"
+  - "[[Argument_McDonnell_2013_AmJE]]"
   - "[[Argument_Streeck_Thelen_2005_OUP]]"
   - "[[Argument_VanDerHeijden_2011_Politics]]"
   - "[[Argument_Mazzucato_2018_ICC]]"
@@ -95,7 +95,7 @@ updated: 2026-10-16
 > - **知识位置** 政治学政策过程理论（Policy Process Theories）三大经典支柱之一（与多流模型、倡导联盟框架并列），融合了[[Bounded Rationality|有限理性]]、注意力分配与[[Complexity Theory|复杂适应系统]]视角；在比较政治经济学与[[Theory of Gradual Institutional Change|制度变迁理论]]脉络中，间断均衡模型构成了理解制度连续性与断裂性关系的基准靶子，与[[Theory of Gradual Institutional Change|渐进制度变迁理论]]形成直接学术对话。
 
 > [!claim] 核心判断
-> 政治体制的制度设计天然偏向维持现状，形成了由特定利益集团把守的政策垄断（Policy Monopoly）；但当外部环境变化诱发宏观注意力聚焦时，[[Policy Entrepreneur|政策企业家]]通过重塑[[Policy Image|政策形象]]（Policy Image）瓦解垄断合法性，并积极开辟新的制度场所（[[Venue Shopping|场所转换]]），原本封闭的子系统将被迅速击穿，推动政策系统由渐进稳态进入间断剧变期。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 3–5)]]
+> 政治体制的制度设计天然偏向维持现状，形成了由特定利益集团把守的政策垄断（Policy Monopoly）；但当外部环境变化诱发宏观注意力聚焦时，[[Policy Entrepreneur|政策企业家]]通过重塑[[Policy Image|政策形象]]（Policy Image）瓦解垄断合法性，并积极开辟新的制度场所（[[Venue Shopping|场所转换]]），原本封闭的子系统将被迅速击穿，推动政策系统由渐进稳态进入间断剧变期。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 3–5)]]
 
 ---
 
@@ -114,7 +114,7 @@ updated: 2026-10-16
 > - **2005 年 — 跨国比较议程项目（[[Industry Affiliate Program|CAP]]）扩展** 琼斯与鲍姆加特纳等人将研究推向比较议程项目（Comparative Agendas Project, CAP），在西欧多国检验间断均衡的普遍性，证实信息处理摩擦是导致所有民主体制预算与立法呈现厚尾分布（Kurtosis）与间断跳跃的根本成因。
 > - **2005 年 — 比较政治经济学的二元批判（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005]]）** [[Wolfgang Streeck|施特雷克]]与希伦系统审视了间断均衡模型将制度演进二元划分为静态适应与外生突变的偏误，提出过程维度（渐进与突变）与结果维度（连续与非连续）交叉的变迁矩阵，论证渐进内生演化同样能够带来根本性的系统转型，突破了间断均衡论对制度稳态的机械设定。
 > - **2011 年 — [[Epistemology|认识论]]审视与微观机制桥接** [[Jeroen van der Heijden|范德海登]]（[[Argument_VanDerHeijden_2011_Politics|Van der Heijden, 2011]]）系统反思间断均衡论缺乏客观变迁幅度与时间尺度标尺的局限，论证宏观外生危机要落地为持久制度现实必须依赖微观新行动者与新规制工具的层叠，确立分层作为弥合突变论与渐进论鸿沟的关键桥梁。[[Argument_VanDerHeijden_2011_Politics|(Van der Heijden, 2011, pp. 10, 16)]]
-> - **2013 年 — 教育政策生命周期应用** 洛兰·M·麦克唐奈（Lorraine M. McDonnell）与 M·斯蒂芬·韦瑟福德（M. Stephen Weatherford）将理论引入全美[[Common Core State Standards|共同核心州立标准]]（Common Core State Standards, CCSS）运动研究，阐明[[Policy Entrepreneur|政策企业家]]如何在政策生命周期中将实证差距指标与两党规范价值相结合，摧毁各州分散割裂的百年政策垄断。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–10)]]
+> - **2013 年 — 教育政策生命周期应用** 洛兰·M·麦克唐奈（Lorraine M. McDonnell）与 M·斯蒂芬·韦瑟福德（M. Stephen Weatherford）将理论引入全美[[Common Core State Standards|共同核心州立标准]]（Common Core State Standards, CCSS）运动研究，阐明[[Policy Entrepreneur|政策企业家]]如何在政策生命周期中将实证差距指标与两党规范价值相结合，摧毁各州分散割裂的百年政策垄断。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–10)]]
 > - **2018 年至今 — 科技与产业创新[[Paradigm|范式]]拓展** 间断均衡逻辑被广泛引入科技创新政策研究，解释二战后主流“[[Market Failure|市场失灵]]修补/研发税收减免”政策垄断如何在气候危机与地缘竞争冲击下被打破，进而间断式跃升为[[Mission-Oriented Innovation Policy|使命导向创新政策]]（Frame 3 范式）。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–805)]]
 
 ---
@@ -136,22 +136,22 @@ updated: 2026-10-16
 ## 核心命题
 
 > [!theory-proposition] 命题一｜政策垄断依赖排他性制度场所与积极[[Policy Image|政策形象]]的双重维系
-> **解释** 在常规政治时期，政策子系统呈现极强的制度惯性。特定利益联盟通过将自身权力锚定在排他性的制度场所内，并对外输出符合主流价值观的正面政策形象，能够有效将外部反对意见隔绝在正式决策议程之外，形成稳固的政策垄断。在教育领域，美国各州教育厅与地方学区依据宪法第十修正案形成的地方分权格局，长期维系着各自制定标准的政策垄断，其正面形象正是崇高的地方民主与防止联邦干预。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–9)]]
+> **解释** 在常规政治时期，政策子系统呈现极强的制度惯性。特定利益联盟通过将自身权力锚定在排他性的制度场所内，并对外输出符合主流价值观的正面政策形象，能够有效将外部反对意见隔绝在正式决策议程之外，形成稳固的政策垄断。在教育领域，美国各州教育厅与地方学区依据宪法第十修正案形成的地方分权格局，长期维系着各自制定标准的政策垄断，其正面形象正是崇高的地方民主与防止联邦干预。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–9)]]
 >
 > **应用实例** 美国长期以来各州自主制定课程标准的格局：1990 年代联邦自上而下推行国家标准的尝试遭遇惨败，保守派指责其侵蚀州权，自由派指责其加剧考试不公，促使分散割裂的各州标准垄断进一步固化。
 
 > [!theory-proposition] 命题二｜政策形象的负面重构能够击穿制度防线并唤醒宏观政治注意力
-> **解释** 瓦解政策垄断的前提并非单纯等待客观危机的降临，而是[[Policy Entrepreneur|政策企业家]]策略性地重新界定议题形象。企业家通过动员具有震撼力的实证指标与宏观核心价值叙事，将原本象征正面价值的现状重构为引发公众恐慌的治理灾难。当政策形象发生根本翻转时，长期对该领域保持冷漠的高层政治领袖（如州长、总统、跨党派领袖）将分配宏观注意力，从而瓦解垄断子系统的封闭防御。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 4–5, 9–11)]]
+> **解释** 瓦解政策垄断的前提并非单纯等待客观危机的降临，而是[[Policy Entrepreneur|政策企业家]]策略性地重新界定议题形象。企业家通过动员具有震撼力的实证指标与宏观核心价值叙事，将原本象征正面价值的现状重构为引发公众恐慌的治理灾难。当政策形象发生根本翻转时，长期对该领域保持冷漠的高层政治领袖（如州长、总统、跨党派领袖）将分配宏观注意力，从而瓦解垄断子系统的封闭防御。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 4–5, 9–11)]]
 >
 > **应用实例** 在 [[Common Core State Standards|CCSS]] 议程设置中，政策企业家动员美国国家教育统计中心（National Center for Education Statistics, NCES, 2007）实证映射研究，揭露各州为应付统考考核竞相调低及格切分点（Race to the bottom）的丑闻，并援引 [[TIMSS]] 跨国数据批判美国课程“宽一英里、深一英寸”，成功将“各州地方自主”的正向形象摧毁并重塑为“削弱全美[[Knowledge-Based Economy|知识经济]]国际[[Competitiveness|竞争力]]与拉大社会阶层不平等”的危机叙事。
 
 > [!theory-proposition] 命题三｜[[Venue Shopping|制度场所转换]]能够突破既有政策子系统的否决壁垒实现间断突变
-> **解释** 当既有决策场所由保守势力把持且充斥否决点时，政策企业家会主动开展场所转换（Venue Shopping），在传统管辖边界之外开辟具有替代性裁决权的新制度通道。新场所往往带来不同的参与规则、利益相关者构成与选民压力，从而绕过垄断联盟的阻挠，在极短时间内推动系统性政策突变。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 5–6, 8–9, 16–18)]]
+> **解释** 当既有决策场所由保守势力把持且充斥否决点时，政策企业家会主动开展场所转换（Venue Shopping），在传统管辖边界之外开辟具有替代性裁决权的新制度通道。新场所往往带来不同的参与规则、利益相关者构成与选民压力，从而绕过垄断联盟的阻挠，在极短时间内推动系统性政策突变。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 5–6, 8–9, 16–18)]]
 >
 > **应用实例** 面对联邦国会立法场所的政治死局，CCSS 倡导者将行动阵地战略性地转移至[[National Governors Association|全国州长协会]]（National Governors Association, NGA）与[[Council of Chief State School Officers|州首席教育官理事会]]（Council of Chief State School Officers, CCSSO）构成的横向州际自愿联盟这一全新场所；随后更借助联邦教育部[[Race to the Top|力争上游计划]]（Race to the Top, RTTT）43.5 亿美元竞争性资助杠杆，迫使各州教育委员会在数月内打破分散垄断，促成 45 个州的历史性跨越。
 
 > [!theory-proposition] 命题四｜制度摩擦与有限注意力导致政策产出呈现厚尾与非线性跳跃
-> **解释** 政府系统的信息处理能力高度受制于认知与制度摩擦（Institutional Friction）。由于决策者无法对环境中所有的微小信号做出连续边际调整，政策压力在子系统中长期积累直至压垮制度门槛；一旦宏观注意力被外部危机或颠覆性叙事激活，政策系统将迅速从完全不反应（Under-reaction）切换为过度反应（Over-reaction），在实证分布上呈现出显著的尖峰厚尾特征（Leptokurtosis）与间断跳跃。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 3–5)]]；[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–805)]]
+> **解释** 政府系统的信息处理能力高度受制于认知与制度摩擦（Institutional Friction）。由于决策者无法对环境中所有的微小信号做出连续边际调整，政策压力在子系统中长期积累直至压垮制度门槛；一旦宏观注意力被外部危机或颠覆性叙事激活，政策系统将迅速从完全不反应（Under-reaction）切换为过度反应（Over-reaction），在实证分布上呈现出显著的尖峰厚尾特征（Leptokurtosis）与间断跳跃。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 3–5)]]；[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 803–805)]]
 >
 > **应用实例** 创新政策在长达四十年间深陷新古典“[[Market Failure|市场失灵]]/研发税收间接激励”的修补垄断；然而面对气候变化危机与清洁能源转型挑战，宏观注意力迅速转向，推动欧美在数年内出台《欧洲绿色协议》（European Green Deal）与《[[Inflation Reduction Act|通胀削减法案]]》（Inflation Reduction Act），实现向[[Mission-Oriented Innovation Policy|使命导向创新政策]]（Frame 3）的间断跃升。
 
@@ -181,7 +181,7 @@ updated: 2026-10-16
 > [!theory-boundary] 局限性与适用边界
 > - **适合分析** 宏观国家尺度或州/省尺度的立法重大转折、打破历史垄断的制度破局与跨阶段议程设置动力学。
 > - **成立条件** 需要决策系统具备多元制度场所的可选性，以及存在具备高度政治敏锐度的[[Policy Entrepreneur|政策企业家]]群体。
-> - **解释不足** 理论擅长解释宏观议程设置与政策采纳的“突变时刻”，但对政策通过后的微观学区与课堂日常实施（Implementation）解释力较弱；无法推演基层教师在面对激进标准时的实践阻力。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 7, 20)]]
+> - **解释不足** 理论擅长解释宏观议程设置与政策采纳的“突变时刻”，但对政策通过后的微观学区与课堂日常实施（Implementation）解释力较弱；无法推演基层教师在面对激进标准时的实践阻力。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 7, 20)]]
 > - **不能直接推出** 打破政策垄断与实现[[Policy Mobility|快速政策]]采纳，绝不自动等于教育教学质量与学生实际学业产出的改善。
 
 ---
@@ -200,14 +200,14 @@ updated: 2026-10-16
 > > 争议聚焦于打破政策垄断的根本动力究竟是外生宏观环境震荡，还是微观主体的策略性运作。
 > >
 > > - **结构[[Determinism|决定论]]立场** 认为 2008 年金融大衰退与执政党更迭等外生大环境才是打破垄断的决定性动力，宏观政治窗口提供了不可抗拒的外部推力。
-> > - **行动者网络立场** 强调若无[[Policy Entrepreneur|政策企业家]]前期长达数年的指标准备、[[Discourse|话语]]建构与场所铺垫，外部[[Policy Window|政策窗口]]根本无法转化为实际制度突破。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–10)]]
+> > - **行动者网络立场** 强调若无[[Policy Entrepreneur|政策企业家]]前期长达数年的指标准备、[[Discourse|话语]]建构与场所铺垫，外部[[Policy Window|政策窗口]]根本无法转化为实际制度突破。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–10)]]
 
 ---
 
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_McDonnell_2013_AJE|McDonnell and Weatherford (2013)]] — 明确将间断均衡理论与政策垄断框架应用于全美[[Common Core State Standards|共同核心州立标准]]（CCSS）推进的全[[Process Tracing|过程追踪]]。
+> - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 明确将间断均衡理论与政策垄断框架应用于全美[[Common Core State Standards|共同核心州立标准]]（CCSS）推进的全[[Process Tracing|过程追踪]]。
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 批判间断均衡理论将制度变迁窄化为外生突变模型的比较政治经济学经典文献，提出区分变迁过程与结果维度的四象限[[Analytic Framework|分析框架]]。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 探讨[[Mission-Oriented Innovation Policy|使命导向创新政策]]如何打破传统新古典[[Market Failure|市场失灵]]垄断并重塑国家能力的代表性文献。
 > - [[Argument_Mahoney_Thelen_2009_Gradual_Institutional_Change|Mahoney and Thelen (2009)]] — 批判间断均衡理论将常规历史简化为静态稳态的教条，建构解释长周期累积质变的渐进演化模型。
@@ -233,7 +233,7 @@ updated: 2026-10-16
 > | [[Common Core State Standards]] | Fact (Policy) | 间断均衡理论在当代教育研究中最为经典的实证案例之一，展现各州标准垄断的破局过程。 |
 > | [[Race to the Top]] | Fact (Program) | 政策倡导者开展场所转换与动员外生财政杠杆、将采纳进程急剧压缩为间断突变的核心国家工程。 |
 > | [[American Federation of Teachers]] | Fact (Organization) | 方案制定阶段行使把关权、影响政策垄断重塑的重要专业利益共同体。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013)]] | Argument | 明确将断裂平衡理论与政策垄断框架应用于全美 CCSS 推进全[[Process Tracing\|过程追踪]]的核心文献。 |
+> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | Argument | 明确将断裂平衡理论与政策垄断框架应用于全美 CCSS 推进全[[Process Tracing\|过程追踪]]的核心文献。 |
 > | [[Argument_Streeck_Thelen_2005_OUP\|Streeck and Thelen (2005)]] | Argument | 提出过程与结果二元变迁类型学并深刻反思断裂平衡论局限的经典导论文献。 |
 > | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] | Argument | 探讨使命导向创新政策如何打破传统新古典垄断并重塑国家能力的代表性文献。 |
 > | [[Argument_VanDerHeijden_2011_Politics\|Van der Heijden (2011)]] | Argument | 评述制度层叠概念并论证其在行动者与工具变量层面弥合间断均衡与渐进演变理论分歧的分析文献。 |

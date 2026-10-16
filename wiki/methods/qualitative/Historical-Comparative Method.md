@@ -113,7 +113,7 @@ related_arguments:
   - "[[Argument_Freeman_1995_CJE]]"
   - "[[Argument_Atkinson_2008_TIS]]"
   - "[[Argument_Fabrizio_Mowery_2005_REI]]"
-  - "[[Argument_Bown_2024_JEP]]"
+  - "[[Argument_Bown_2024_JEconPersp]]"
   - "[[Argument_Streeck_Thelen_2005_OUP]]"
   - "[[Argument_Kaloyannaki_Kazamias_2009_ModernistBeginnings]]"
   - "[[Argument_Cowen_2009_HistoryCreation]]"
@@ -179,7 +179,7 @@ updated: 2026-10-16
 > | 维度 | 信息 |
 > |---|---|
 > | **材料来源** | 官方档案（特别调查报告 Special Reports、皇家委员会调查白皮书 Bryce Commission、议会立法案卷）、各国内政与教育部公报、国家科学与工业委员会历史报告、视察专员历史考察手札、哲人经典著述与历史统计年鉴。 |
-> | **抽样或选案** | [[Theoretical Sampling\|理论抽样]]与关键制度案例（如普鲁士中等教育报告、英国文法公学体系、法国国家中央集权督学系统）；国家创新体系与赶超型制度对照（19 世纪英国自发工业化 vs 普鲁士国家协调技校学徒制；冷战时期美日民用技术集成创新 vs 前苏联军工院所分割体制；20 世纪 80 年代韩国外向型吸收能力积累 vs 巴西外债危机下制度停滞，[[Argument_Freeman_1995_CJE\|(Freeman, 1995, pp. 6–15)]]）；最大变异比较（英美自由地方分权体系 vs 法德苏国家主义集权体系；美国非集权分层大学体系 vs 欧亚集权部属科研院所分立体系，[[Argument_Atkinson_2008_TIS\|(Atkinson & Blanpied, 2008, pp. 42–43)]]；美国需求侧先导采购与第二货源机制 vs 西欧绑定传统垄断电气巨头的国家资助模式，[[Argument_Fabrizio_Mowery_2005_REI\|(Fabrizio & Mowery, 2005, pp. 33–34, 38–40)]]）；跨意识形态阵营分裂对照案例（如[[Oskar Anweiler\|奥斯卡·安韦勒]]主持的西德与东德跨制度教育长周期历史比较，[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 91–92, 97–98)]]）；长周期跨代际国家能力与创新体制抽样（19 世纪末德日追赶型发展国家 vs 20 世纪中叶美欧大科学技术攻关 vs 21 世纪敏捷公共创新特区，[[Argument_Kattel_Mazzucato_2018_ICC\|(Kattel & Mazzucato, 2018, pp. 792–796)]]）；跨时期产业政策浪潮抽样（20 世纪 80 年代美日半导体贸易摩擦与纵向一体化财团模式 vs 2020 年代中美高科技地缘博弈与全球[[Vertical Disintegration\|纵向离散]]网络模式，[[Argument_Bown_2024_JEP\|(Bown & Wang, 2024, pp. 83–86, 97–103)]]）；发达资本主义体制制度变迁长周期跨国抽样（战后三十年协调黄金期 vs 1970 年代后新自由主义浪潮中美、德、日、英、法等国在劳资关系、社会保障与技能形成体系中的演化轨迹，通过纵向过程追踪与横向比较揭示隐蔽的渐进变迁形态，[[Argument_Streeck_Thelen_2005_OUP\|(Streeck & Thelen, 2005, pp. 4–7, 18–30)]]）。 |
+> | **抽样或选案** | [[Theoretical Sampling\|理论抽样]]与关键制度案例（如普鲁士中等教育报告、英国文法公学体系、法国国家中央集权督学系统）；国家创新体系与赶超型制度对照（19 世纪英国自发工业化 vs 普鲁士国家协调技校学徒制；冷战时期美日民用技术集成创新 vs 前苏联军工院所分割体制；20 世纪 80 年代韩国外向型吸收能力积累 vs 巴西外债危机下制度停滞，[[Argument_Freeman_1995_CJE\|(Freeman, 1995, pp. 6–15)]]）；最大变异比较（英美自由地方分权体系 vs 法德苏国家主义集权体系；美国非集权分层大学体系 vs 欧亚集权部属科研院所分立体系，[[Argument_Atkinson_2008_TIS\|(Atkinson & Blanpied, 2008, pp. 42–43)]]；美国需求侧先导采购与第二货源机制 vs 西欧绑定传统垄断电气巨头的国家资助模式，[[Argument_Fabrizio_Mowery_2005_REI\|(Fabrizio & Mowery, 2005, pp. 33–34, 38–40)]]）；跨意识形态阵营分裂对照案例（如[[Oskar Anweiler\|奥斯卡·安韦勒]]主持的西德与东德跨制度教育长周期历史比较，[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 91–92, 97–98)]]）；长周期跨代际国家能力与创新体制抽样（19 世纪末德日追赶型发展国家 vs 20 世纪中叶美欧大科学技术攻关 vs 21 世纪敏捷公共创新特区，[[Argument_Kattel_Mazzucato_2018_ICC\|(Kattel & Mazzucato, 2018, pp. 792–796)]]）；跨时期产业政策浪潮抽样（20 世纪 80 年代美日半导体贸易摩擦与纵向一体化财团模式 vs 2020 年代中美高科技地缘博弈与全球[[Vertical Disintegration\|纵向离散]]网络模式，[[Argument_Bown_2024_JEconPersp\|(Bown & Wang, 2024, pp. 83–86, 97–103)]]）；发达资本主义体制制度变迁长周期跨国抽样（战后三十年协调黄金期 vs 1970 年代后新自由主义浪潮中美、德、日、英、法等国在劳资关系、社会保障与技能形成体系中的演化轨迹，通过纵向过程追踪与横向比较揭示隐蔽的渐进变迁形态，[[Argument_Streeck_Thelen_2005_OUP\|(Streeck & Thelen, 2005, pp. 4–7, 18–30)]]）。 |
 > | **研究者位置** | 跨文化历史诠释者。深入历史当事人的思想地平线内部，严格防范[[Whiggism\|辉格史观]]（以现代价值观剪裁历史）与当下主义偏见，反思研究者自身的民族国家与意识形态前设。 |
 > | **资料边界** | 聚焦国家制度奠基期、关键立法节点、工业与科学战略重构期以及文明转型危机期；严格划分一手文献（[[Primary and Secondary Documents\|Primary Documents]]）与后世二手研究（Secondary Literature）。 |
 
@@ -293,6 +293,6 @@ updated: 2026-10-16
 > - [[Argument_Atkinson_2008_TIS|Atkinson and Blanpied (2008)]] — 运用历史比较法梳理美德欧大学转型轨迹，对比非集权竞争与同行评议机制，揭示研究生教育科研共生如何奠定美国[[Research Universities|研究型大学]]核心地位。
 > - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 运用历史制度分析与跨部门比较，剖析战后美国半导体与计算机产业中联邦资助、采购合同与[[Disciplinary Institutionalization|学科建制]]协同机制，评判[[Innovation Policy Paradigms|创新政策范式]]边界。
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio and Mowery (2005)]] — 运用历史制度与跨国比较方法，梳理战后美国国防研发投资与采购对半导体及计算机产业的催化作用及其向商业市场的逆向溢出规律。
-> - [[Argument_Bown_2024_JEP|Bown and Wang (2024)]] — 运用历史比较法对照 1980 年代美日贸易摩擦与当代中美科技竞争，揭示[[Vertical Disintegration|纵向离散]]如何重塑[[Modern Industrial Policy|现代产业政策]]工具与地缘安全边界。
+> - [[Argument_Bown_2024_JEconPersp|Bown and Wang (2024)]] — 运用历史比较法对照 1980 年代美日贸易摩擦与当代中美科技竞争，揭示[[Vertical Disintegration|纵向离散]]如何重塑[[Modern Industrial Policy|现代产业政策]]工具与地缘安全边界。
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 运用历史比较分析与跨国经验案例考据，打破间断均衡范式，系统建构现代资本主义政治经济体制中[[Theory of Gradual Institutional Change|渐进制度变迁]]的五类形态学。
 

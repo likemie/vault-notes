@@ -7,9 +7,9 @@ summary: "通过跨元分析比较来得出推论的综合方法，旨在回答�
 type: method
 method_type: qualitative
 method_family: "qualitative"
-method_related_count: 15
-method_related_level: 1
-method_related_stars: "⭐"
+method_related_count: 16
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dbeafe"
 tags:
   - method/meta-synthesis
@@ -37,6 +37,7 @@ related_methods:
 related_persons: []
 related_arguments:
   - "[[Argument_Higgins_2016_ROE]]"
+  - "[[Argument_Håkansson_2015_TT]]"
 related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
 confidence: medium

@@ -25,9 +25,9 @@ related_concepts:
   - "[[Implementation Fidelity]]"
   - "[[Comprehensive Education]]"
   - "[[Heterogeneity]]"
+  - "[[PICO Framework]]"
   - "[[Determinism]]"
   - "[[Evidence-Based Reform]]"
-  - "[[PICO Framework]]"
 related_methods:
   - "[[Effect Size]]"
   - "[[Cohort Study]]"
@@ -59,9 +59,9 @@ related_facts:
   - "[[Pirate Math]]"
   - "[[Tutor-Assisted Math Problem Solving]]"
 related_arguments:
-  - "[[Argument_Slavin_2019_EP]]"
-  - "[[Argument_Biesta_2010_SPE]]"
+  - "[[Argument_Slavin_2019_EducPsychol]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
+  - "[[Argument_Biesta_2010_SPE]]"
 confidence: high
 status: draft
 created: 2026-09-17
@@ -75,7 +75,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **干预反应模型（Response to Intervention, RTI）** 是起源于美国《个体残疾人教育法》（Individuals with Disabilities Education Act, IDEA 2004）的多层级学业与行为支持框架。该框架主张在将学业困难学生转介至特殊教育之前，先在普通班级生态内提供多层递进的预防性与补救性干预：全班核心通用教学（TIER 1）、针对轻度落后学生的小组补充辅导（Tier 2），以及针对重度落后学生的高强度个别辅导（Tier 3），以此根据学生对科学干预的动态反应进行差异化支持与特教准入判定。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 27)]]
+> **干预反应模型（Response to Intervention, RTI）** 是起源于美国《个体残疾人教育法》（Individuals with Disabilities Education Act, IDEA 2004）的多层级学业与行为支持框架。该框架主张在将学业困难学生转介至特殊教育之前，先在普通班级生态内提供多层递进的预防性与补救性干预：全班核心通用教学（TIER 1）、针对轻度落后学生的小组补充辅导（Tier 2），以及针对重度落后学生的高强度个别辅导（Tier 3），以此根据学生对科学干预的动态反应进行差异化支持与特教准入判定。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 27)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 结合了普遍预防、早期筛查、梯度干预与动态反应监测的系统性教学与特教分流框架。
@@ -83,7 +83,7 @@ updated: 2026-10-16
 > - **边界** 传统的 RTI 仅是通用组织架构原则；若各层级缺乏经过实验验证的具体项目与规程支撑，极易退化为形式主义的行政打勾，无法实质改善后进生成绩。
 
 > [!citation-card] [[Response to Proven Instruction\|循证干预反应]]方案
-> 传统干预反应模型之所以在大规模评估中未能显现预期成效，根源在于学校仅依凭抽象原则而未在各个层级部署经过严格实验检验的具体方案。若以达到《[[Every Student Succeeds Act\|每一个学生成功法]]》（Every Student Succeeds Act, ESSA）强[[Evidence Standards\|证据标准]]的项目分别充实 Tier 1（全校优质教学）、Tier 2（助教/教师小组辅导）与 Tier 3（一对一个别辅导），学生将几乎必然获得学业成功。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 27)]]
+> 传统干预反应模型之所以在大规模评估中未能显现预期成效，根源在于学校仅依凭抽象原则而未在各个层级部署经过严格实验检验的具体方案。若以达到《[[Every Student Succeeds Act\|每一个学生成功法]]》（Every Student Succeeds Act, ESSA）强[[Evidence Standards\|证据标准]]的项目分别充实 Tier 1（全校优质教学）、Tier 2（助教/教师小组辅导）与 Tier 3（一对一个别辅导），学生将几乎必然获得学业成功。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 27)]]
 >
 > *Traditional RTI failed to produce effects because its principles are rarely fully implemented. Outfitting each tier with proven strategies according to ESSA Evidence Standards could virtually assure student success.*
 
@@ -102,16 +102,16 @@ updated: 2026-10-16
 > | **核心假设** | 学业失败源于学生内部神经或认知缺陷 | 学业失败可能源于教学不当，需提供多层支持 | 学业失败可通过各层级部署经严格验证的循证项目完全预防 |
 > | **干预时机** | 等待学业落后达到与智商显著不匹配时（等待失败） | 在发现学业早期困难时即刻启动通用辅导 | 贯穿学前至高年级，以强证据方案开展全员常态预防 |
 > | **各层内容** | 无结构化梯级干预，直接转介特教班隔离教学 | 依靠教师自行设计的常规补习、抽象原则或软件 | 严格采用达到 [[Every Student Succeeds Act\|ESSA]] 强/中[[Evidence Standards\|证据标准]]的标准化课程与辅导方案 |
-> | **代表学者** | Bateman; Kavale | Fuchs & Fuchs; Gresham | [[Argument_Slavin_2019_EP\|Slavin (2019)]] |
+> | **代表学者** | Bateman; Kavale | Fuchs & Fuchs; Gresham | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] |
 
 ---
 
 ## 核心要素
 
 > [!feature] RTI / [[Response to Proven Instruction\|RTPI]] 的三层递进架构
-> - **TIER 1 — 全员核心通用教学（Core Classroom Instruction）** 面向全体学生的日常高质量课堂教学。在 RTPI 中，要求采用达到 [[Every Student Succeeds Act\|ESSA]] 强[[Evidence Standards\|证据标准]]的全校/全班改革方案（如 [[Success for All]]、[[Peer-Assisted Learning Strategies\|同伴辅助学习策略]]（Peer-Assisted Learning Strategies, PALS）），有效预防 80% 以上学生的学业困难。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 27)]]
+> - **TIER 1 — 全员核心通用教学（Core Classroom Instruction）** 面向全体学生的日常高质量课堂教学。在 RTPI 中，要求采用达到 [[Every Student Succeeds Act\|ESSA]] 强[[Evidence Standards\|证据标准]]的全校/全班改革方案（如 [[Success for All]]、[[Peer-Assisted Learning Strategies\|同伴辅助学习策略]]（Peer-Assisted Learning Strategies, PALS）），有效预防 80% 以上学生的学业困难。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 27)]]
 > - **Tier 2 — 小组针对性补充辅导（Targeted Small-Group Tutoring）** 面向在 Tier 1 中仍存在轻度落后的约 10%–15% 处境不利学生。采用结构化的小组辅导方案（如 1 对 2 至 1 对 6），由认证教师或经过系统培训的教学助教（[[Teaching Assistant]], TA）实施，加权[[Effect Size\|效应量]]达 +0.20 至 +0.64。
-> - **Tier 3 — 密集型一对一个别辅导（Intensive One-to-One Tutoring）** 面向经历 Tier 2 后仍有严重阅读或数学障碍的 2%–5% 高危学生。由专业教师或资深助教提供每日高强度 1 对 1 辅导（如 [[Reading Recovery]]、[[Sound Partners]]），加权效应量最高达 +0.86，以此作为替代特教转介的最后强效防线。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> - **Tier 3 — 密集型一对一个别辅导（Intensive One-to-One Tutoring）** 面向经历 Tier 2 后仍有严重阅读或数学障碍的 2%–5% 高危学生。由专业教师或资深助教提供每日高强度 1 对 1 辅导（如 [[Reading Recovery]]、[[Sound Partners]]），加权效应量最高达 +0.86，以此作为替代特教转介的最后强效防线。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 > [!logic-map]- 循证干预反应（RTPI）的梯级分流金字塔
 > ```mermaid
@@ -145,8 +145,8 @@ updated: 2026-10-16
 > [!concept-lens] [[Implementation Fidelity\|实施保真度]]与方案具体性
 > 探讨组织流程与教学内容脱节如何导致大型政策干预在大规模实施中流于形式。
 
-> [!claim] [[Argument_Slavin_2019_EP\|Slavin (2019)]]
-> **抽象原则无法转化为课堂效能** 联邦政府虽然在《个体残疾人教育法》（IDEA 2004）中确立了 RTI 框架，但美国[[National Center for Education Evaluation and Regional Assistance\|国家教育评估与区域援助中心]]（National Center for Education Evaluation and Regional Assistance, NCEE）的全国[[Cohort Study\|追踪研究]]显示，RTI 未能显著提高后进学生的阅读成绩。其根本原因在于政策仅提供了分层筛选的抽象原则，而未提供具体可操作、有教材和培训配套的循证方案；一线教师因缺乏结构化工具支持，往往退回传统无效的教学惯性中。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 27)]]
+> [!claim] [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]]
+> **抽象原则无法转化为课堂效能** 联邦政府虽然在《个体残疾人教育法》（IDEA 2004）中确立了 RTI 框架，但美国[[National Center for Education Evaluation and Regional Assistance\|国家教育评估与区域援助中心]]（National Center for Education Evaluation and Regional Assistance, NCEE）的全国[[Cohort Study\|追踪研究]]显示，RTI 未能显著提高后进学生的阅读成绩。其根本原因在于政策仅提供了分层筛选的抽象原则，而未提供具体可操作、有教材和培训配套的循证方案；一线教师因缺乏结构化工具支持，往往退回传统无效的教学惯性中。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 27)]]
 
 ---
 
@@ -155,8 +155,8 @@ updated: 2026-10-16
 > [!concept-lens] 辅导干预的因果效能与成本效益
 > 分析不同师资类型（教师、助教、有偿志愿者）在一对一与小组辅导中的实证效能矩阵。
 
-> [!claim] [[Argument_Slavin_2019_EP\|Slavin (2019)]]
-> **经过专业培训的助教辅导效能逼近认证教师** 在阅读和数学领域，由经过系统培训并使用高度结构化材料的教学助教开展的小组辅导（TIER 2）和一对一辅导（Tier 3），其[[Effect Size\|效应量]]（+0.22 至 +0.81）与高成本的认证专业教师相当；这使得公立学校在现有财政约束下，完全有能力常态化铺设覆盖全员的高强度个别化辅导网络。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> [!claim] [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]]
+> **经过专业培训的助教辅导效能逼近认证教师** 在阅读和数学领域，由经过系统培训并使用高度结构化材料的教学助教开展的小组辅导（TIER 2）和一对一辅导（Tier 3），其[[Effect Size\|效应量]]（+0.22 至 +0.81）与高成本的认证专业教师相当；这使得公立学校在现有财政约束下，完全有能力常态化铺设覆盖全员的高强度个别化辅导网络。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 ---
 
@@ -165,7 +165,7 @@ updated: 2026-10-16
 > [!contrast-table] RTI 理论发展核心命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **具体方案填充命题** | 揭示抽象流程原则导致实施落空的机制，主张以强证据方案武装各层级 | 区域学区改革、全校改进规划、特殊教育分流评估 | [[Argument_Slavin_2019_EP\|Slavin (2019)]]; Fuchs |
+> | **具体方案填充命题** | 揭示抽象流程原则导致实施落空的机制，主张以强证据方案武装各层级 | 区域学区改革、全校改进规划、特殊教育分流评估 | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]]; Fuchs |
 > | **助教结构化辅导效能命题** | 论证经培训助教使用结构化规程能够产生与认证教师相当的高额效应量 | 弱势学校资源配置、个别化阅读/数学辅导方案设计 | Slavin; Baye et al. |
 
 ---
@@ -176,7 +176,7 @@ updated: 2026-10-16
 > - **2004 年 — 联邦法案法定确立** 美国国会修订《个体残疾人教育法》（IDEA 2004），正式将 RTI 确立为各州判定特定学习障碍（Specific Learning Disabilities, SLD）的法定替代途径。
 > - **2006–2014 年 — 全国推广与评估争议** 全美绝大多数学区相继出台 RTI 指南；然而 2015 年 [[National Center for Education Evaluation and Regional Assistance\|NCEE]] 全国评估报告指出，早期实施由于缺乏保真度与具体方案，干预效果微弱甚至产生负向效应。
 > - **2015 年 — [[Every Student Succeeds Act\|ESSA]] [[Evidence Standards\|证据标准]]注入** 《每一个学生成功法》（ESSA）通过，正式建议学校在实施 RTI 时，各层级所采用的教学方案必须符合国家四级证据标准。
-> - **2019 年 — [[Response to Proven Instruction\|RTPI]] 循证升级方案成型** [[Robert Slavin\|罗伯特·斯莱文]]正式提出 RTPI（Response to Proven Instruction），系统整合近百项符合 ESSA 强/中标准的阅读与数学干预项目，将 RTI 改造为以循证产品为底座的[[Comprehensive Education|综合教育]]改革方案。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 27–28)]]
+> - **2019 年 — [[Response to Proven Instruction\|RTPI]] 循证升级方案成型** [[Robert Slavin\|罗伯特·斯莱文]]正式提出 RTPI（Response to Proven Instruction），系统整合近百项符合 ESSA 强/中标准的阅读与数学干预项目，将 RTI 改造为以循证产品为底座的[[Comprehensive Education|综合教育]]改革方案。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 27–28)]]
 
 ---
 
@@ -187,7 +187,7 @@ updated: 2026-10-16
 > > [!axis] 结构化方案刚性规程 vs 教师专业情境裁剪
 > > 关于 RTI 各层级究竟应当严格执行标准化、有知识产权的商业化循证方案，还是赋予教师根据课堂情境自主调整的自由。
 > >
-> > - **循证规范派（Slavin）** 强调必须严格遵循原实验验证的教学规程与时长剂量，任何非标准化裁剪都会大幅削弱干预效能。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 27)]]
+> > - **循证规范派（Slavin）** 强调必须严格遵循原实验验证的教学规程与时长剂量，任何非标准化裁剪都会大幅削弱干预效能。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 27)]]
 > > - **情境生态派（Bryk）** 认为标准化方案忽略了学校组织内部的微观[[Heterogeneity\|异质性]]，应当通过网络化改进社区（Networked Improvement Communities, NICs）发展本地化自适应方案。
 >
 > > [!axis] 二阶证据综合中的结局指标与设计混淆（基于 Kalmendal et al., 2025）
@@ -201,11 +201,11 @@ updated: 2026-10-16
 ## 实证数据
 
 > [!finding-cards] 核心实证结论
-> 1. **全员全校改革方案（TIER 1）稳固基础** [[Success for All]] 等全校阅读项目在 5 项独立大规模试验中获得加权平均[[Effect Size\|效应量]] +0.41（[[Every Student Succeeds Act\|ESSA]] 强证据评级）。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 27)]]
+> 1. **全员全校改革方案（TIER 1）稳固基础** [[Success for All]] 等全校阅读项目在 5 项独立大规模试验中获得加权平均[[Effect Size\|效应量]] +0.41（[[Every Student Succeeds Act\|ESSA]] 强证据评级）。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 27)]]
 > 2. **小组辅导（Tier 2）效能显著** 教师主导的 [[Lindamood Phoneme Sequencing\|LiPS]] 小组辅导效应量达 +0.64；助教主导的 [[Lightning Squad]] 效应量达 +0.34（3 项研究合成）。
 > 3. **一对一密集辅导（Tier 3）产生超额收益** [[Early Steps]]/Next Steps（教师 1:1）效应量达 +0.86；[[Reading Rescue]]（助教 1:1）效应量达 +0.81。
 
-> [!contrast-table] 符合 ESSA 强/中[[Evidence Standards\|证据标准]]的典型阅读干预方案（[[Argument_Slavin_2019_EP\|Slavin, 2019, Table 1]]）
+> [!contrast-table] 符合 ESSA 强/中[[Evidence Standards\|证据标准]]的典型阅读干预方案（[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019, Table 1]]）
 > | 层级与模式 | 代表项目名称 | 验证学段 | 验证研究数 | 平均效应量（$ES$） | ESSA 证据等级 |
 > |---|---|---|---|---|---|
 > | **多层全校（Tier 1+辅导）** | [[Success for All]] | K–2 年级 | 5 项 | $+0.41$ | 强证据（Strong） |
@@ -218,7 +218,7 @@ updated: 2026-10-16
 > | **一对一辅导：助教（Tier 3）** | [[Reading Rescue]] | 1 年级 | 1 项 | $+0.81$ | 中等证据（Moderate） |
 > | **一对一辅导：志愿者（Tier 3）** | [[SPARK Literacy]] | K–2 年级 | 1 项 | $+0.51$ | 强证据（Strong） |
 
-> [!contrast-table] 符合 ESSA 强/中证据标准的典型初等数学干预方案（[[Argument_Slavin_2019_EP\|Slavin, 2019, Table 2]]）
+> [!contrast-table] 符合 ESSA 强/中证据标准的典型初等数学干预方案（[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019, Table 2]]）
 > | 层级与模式 | 代表项目名称 | 验证学段 | 验证研究数 | 平均效应量（$ES$） | ESSA 证据等级 |
 > |---|---|---|---|---|---|
 > | **小组辅导：教师（Tier 2）** | [[Number Rockets]] | 1 年级 | 1 项 | $+0.34$ | 强证据（Strong） |
@@ -237,7 +237,7 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 桑代克终身成就奖演说论著，系统诊断传统 RTI 的执行困境并提出 [[Response to Proven Instruction\|RTPI]] 循证干预反应方案及阅读与数学实证效果矩阵。
+> - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 桑代克终身成就奖演说论著，系统诊断传统 RTI 的执行困境并提出 [[Response to Proven Instruction\|RTPI]] 循证干预反应方案及阅读与数学实证效果矩阵。
 > - [[Argument_Biesta_2010_SPE\|Biesta (2010)]] — 对将教育简化为分层技术干预的工具理性与[[Determinism\|因果决定论]]提供批判视角。
 > - [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] — 针对宏观证据库中 RTI 影响因素开展预注册元科学审计，揭示一阶元分析收录非学业测量（智商与行为）及大学生样本直接违背 PICO 准入标准的问题。
 > - [[Evidence-Based Reform]] — 循证改革主条目，包含政府资助、证据审查与政策激励的三条件模型。

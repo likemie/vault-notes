@@ -59,7 +59,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Jansen_2026_EPR]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
-  - "[[Argument_Johnson_2023_CE]]"
+  - "[[Argument_Johnson_2023_CritEduc]]"
 confidence: medium
 status: draft
 created: 2026-09-18
@@ -136,10 +136,10 @@ updated: 2026-10-16
 > > 数据库由商业培训平台 [[Visible Learning Branding and Global Influences|Visible Learningplus]]（[[Corwin Press|Corwin]] 授权）共同维护，研究者对其在商业激励下的筛选偏向、更新透明度及独立复现性存有质疑。参见品牌化与全球影响条目。
 >
 > > [!axis] 均值稀释效应与缺乏淘汰机制批判
-> > 数据库收录文献从最初的 800 余项暴增至 2,100+ 项，考察的影响因素从 138 项膨胀至 350+ 项。批判学者指出，由于采用无权简单算术平均，向庞大分母中追加新 $d$ 值产生的边际影响极速递减；极具[[Paradigm|范式]]突破性的前沿研究在庞大分母中被严重稀释，且数据库完全缺乏对陈旧、低质或已被学界推翻文献的淘汰机制，只是新旧数据不加甄别的机械堆积，导致作为客观基准的[[Zone of Desired Effects|期望效应区分水岭]]（$d = 0.40$）随[[Variable|变量]]增加而任意漂移。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 27)]]
+> > 数据库收录文献从最初的 800 余项暴增至 2,100+ 项，考察的影响因素从 138 项膨胀至 350+ 项。批判学者指出，由于采用无权简单算术平均，向庞大分母中追加新 $d$ 值产生的边际影响极速递减；极具[[Paradigm|范式]]突破性的前沿研究在庞大分母中被严重稀释，且数据库完全缺乏对陈旧、低质或已被学界推翻文献的淘汰机制，只是新旧数据不加甄别的机械堆积，导致作为客观基准的[[Zone of Desired Effects|期望效应区分水岭]]（$d = 0.40$）随[[Variable|变量]]增加而任意漂移。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 27)]]
 >
 > > [!axis] [[Corporate R&D Labs|企业研发实验室]]异化与课堂非人化批判
-> > Meta-X 数据库呈现为典型科学数据集的外观，但对其具体数字的抽取情境缺乏阐释。批判研究指出，该数据库以冷酷非人化的方式将中小学课堂重新构想为数据生产车间，其运作形态契合了现代企业研发实验室（R&D Lab）体制与新泰勒制逻辑，向政策部门兜售廉价的提分技术处方，背离了教育丰富的人文育人宗旨。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 35–36)]]
+> > Meta-X 数据库呈现为典型科学数据集的外观，但对其具体数字的抽取情境缺乏阐释。批判研究指出，该数据库以冷酷非人化的方式将中小学课堂重新构想为数据生产车间，其运作形态契合了现代企业研发实验室（R&D Lab）体制与新泰勒制逻辑，向政策部门兜售廉价的提分技术处方，背离了教育丰富的人文育人宗旨。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 35–36)]]
 
 > [!warning]
 > - **访问限制** 完整字段数据库不公开，仅限合作机构[[Research Utilization|研究使用]]，影响独立复现与元研究；公开出版物提供的汇总数据不包含原始提取字段。
@@ -150,12 +150,12 @@ updated: 2026-10-16
 ## 关键引用
 
 > [!citation-card] 均值稀释效应与缺乏淘汰机制批判
-> 自 2009 年以来，可见学习数据库大幅扩充，纳入研究从最初的 800 项激增至 2,100 余项，影响因素从 138 项膨胀至 350 余项。由于平均数计算的内在属性，向某类因素中追加新的 $d$ 值只会对其产生极其微弱的边际改变；新增的极具[[Paradigm|范式]]转变意义的研究，其权重并不比库中既有研究更高。加之数据库完全缺乏淘汰机制，陈旧研究即使已被学界推翻依然长期留存。这根本不是对深层真理的提炼，而是陈旧效应与新增效应永无休止的机械拼凑。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 27)]]
+> 自 2009 年以来，可见学习数据库大幅扩充，纳入研究从最初的 800 项激增至 2,100 余项，影响因素从 138 项膨胀至 350 余项。由于平均数计算的内在属性，向某类因素中追加新的 $d$ 值只会对其产生极其微弱的边际改变；新增的极具[[Paradigm|范式]]转变意义的研究，其权重并不比库中既有研究更高。加之数据库完全缺乏淘汰机制，陈旧研究即使已被学界推翻依然长期留存。这根本不是对深层真理的提炼，而是陈旧效应与新增效应永无休止的机械拼凑。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 27)]]
 >
 > *Due to the nature of averages, adding new d values to an effect changes them by only a single share of the total (declining in impact as a category grows). The addition of new, potentially paradigm-shifting work carries no more weight than what is already there; and since there is no mechanism for removal, old data, even if superseded, remains. This is not a whittling down to some finer truth... It is the perpetual combination and shuffling of old with new effects.*
 
 > [!citation-card] [[Corporate R&D Labs|企业研发实验室]]异化与课堂非人化
-> 扩充后的可见学习数据库以 MetaX 为商业品牌，呈现出典型硬科学数据集的外观，但对其数字来源的具体情境缺乏阐述。[[Effect Size|效应量]]被粉饰为中立客观的测量结果。MetaX 由此以非人化的方式将学校课堂构想为数据生产者，完全契合了现代企业商业伦理与研发实验室（R&D Lab）科学观，向外界承诺能以廉价微观手段解决人为制造的成绩焦虑。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 35–36)]]
+> 扩充后的可见学习数据库以 MetaX 为商业品牌，呈现出典型硬科学数据集的外观，但对其数字来源的具体情境缺乏阐述。[[Effect Size|效应量]]被粉饰为中立客观的测量结果。MetaX 由此以非人化的方式将学校课堂构想为数据生产者，完全契合了现代企业商业伦理与研发实验室（R&D Lab）科学观，向外界承诺能以廉价微观手段解决人为制造的成绩焦虑。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 35–36)]]
 >
 > *The expanded [[Visible Learning]] database, branded Metax, presents itself as a typical scientific data set, with little elaboration on the source of its numbers... Metax thus dehumanizingly frames classrooms as data producers, in the mold of R&D labs at work on practices commensurate with modern business ethics and an R&D conception of science.*
 
@@ -170,4 +170,4 @@ updated: 2026-10-16
 > - [[Meta-meta-analysis]] — 以 Meta-X 数据库为数据来源的二阶[[Meta-analysis|元分析]]方法。
 > - [[Automated Data Extraction]] — 以 Meta-X 数据库[[Random Sampling|随机样本]]为评测平台的自动化数据提取方法学研究。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 对 Meta-X 数据库开展全库 322 个影响因素[[Metascience|元科学]]质量评估与独立复现检验的代表作。
-> - [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]] — 系统批判 Meta-X 数据库的均值稀释机制、缺乏文献淘汰机制以及将课堂降格为研发实验室车间的新自由主义商业运作。
+> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 系统批判 Meta-X 数据库的均值稀释机制、缺乏文献淘汰机制以及将课堂降格为研发实验室车间的新自由主义商业运作。

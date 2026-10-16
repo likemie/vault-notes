@@ -68,7 +68,7 @@ related_facts:
   - "[[Corwin Press]]"
 related_arguments:
   - "[[Argument_Edmondson_2005_EPAA]]"
-  - "[[Argument_Johnson_2023_CE]]"
+  - "[[Argument_Johnson_2023_CritEduc]]"
 confidence: high
 status: active
 created: 2026-09-24
@@ -131,9 +131,9 @@ updated: 2026-10-16
 > 2. **话语权力谱系编码** 编码谁的证词被完整照搬为立法辩论要点，谁的研究成果被直接定性为“非科学”或“意识形态偏见”。
 > 3. **隐喻洞察与意识形态[[Rich and Thick Description|深描]]** 引入[[Plato|柏拉图]]“洞穴囚徒”隐喻，探究投射在洞穴墙壁上的幻影（如“阅读危机”、“唯一科学拼读法”）是由何种政治经济结构所制造（Parker, 2003; [[Argument_Edmondson_2005_EPAA|Edmondson, 2005, p. 12]]）。
 > 4. **[[Triangulation|三角互证]]检验** 将国会记录、督察长调查报告、学者公开质询与商业出版商年报进行跨文本勾连验证。
-> 5. **词频量化与话语偏向统计（Word Frequency Forensics）** 利用计量文本挖掘统计政策或学术畅销书中核心议题的出现频次（例如 95 次[[Class Size|班级规模]] vs 6 次自我报告成绩），揭示官方将特定高成本议题反复矮化、将低成本个体干预过度神话的话语偏向（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 31–32]]）。
-> 6. **公式与算法逆向工程解构（Statistical Forensics & Formula Reverse Engineering）** 深入被奉为政策圭臬的统计指标底层（如[[Meta-analysis|元分析]]综合[[Effect Size|效应量]]），逆向核查公式运算逻辑，核验其是否用简单算术平均掩盖研究[[Heterogeneity|异质性]]、是否从非线性递增曲线中武断剥离出极小斜率作为财政紧缩护盾（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 25–26, 32]]）。
-> 7. **政商旋转门与财务流向取证（Financial & Corporate Network Tracing）** 调取商业咨询公司审计报表、慈善信托纳税申报、学区政府采购合同，追踪学者兼职董事薪酬、专营特许权版税（Royalties）与公共教育资金的民营化资本流转（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 30–31]]）。
+> 5. **词频量化与话语偏向统计（Word Frequency Forensics）** 利用计量文本挖掘统计政策或学术畅销书中核心议题的出现频次（例如 95 次[[Class Size|班级规模]] vs 6 次自我报告成绩），揭示官方将特定高成本议题反复矮化、将低成本个体干预过度神话的话语偏向（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 31–32]]）。
+> 6. **公式与算法逆向工程解构（Statistical Forensics & Formula Reverse Engineering）** 深入被奉为政策圭臬的统计指标底层（如[[Meta-analysis|元分析]]综合[[Effect Size|效应量]]），逆向核查公式运算逻辑，核验其是否用简单算术平均掩盖研究[[Heterogeneity|异质性]]、是否从非线性递增曲线中武断剥离出极小斜率作为财政紧缩护盾（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 25–26, 32]]）。
+> 7. **政商旋转门与财务流向取证（Financial & Corporate Network Tracing）** 调取商业咨询公司审计报表、慈善信托纳税申报、学区政府采购合同，追踪学者兼职董事薪酬、专营特许权版税（Royalties）与公共教育资金的民营化资本流转（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 30–31]]）。
 
 ---
 
@@ -182,7 +182,7 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Edmondson_2005_EPAA|Edmondson (2005)]] — 运用批判性政策分析系统剖析美国《[[Reading Excellence Act|卓越阅读法案]]》的立法演进，揭示[[Pluralism|多元主义]]、[[Neocorporatism|法团主义]]、次政府与[[Elite Theory|精英理论]]对[[Evidence Standards|证据标准]]的法定重塑（pp. 11–14）。
-> - [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]] — 综合运用批判性政策分析、计量文本法医解构与[[Ideology Critique|意识形态批判]]，剖析新西兰权力下放后 [[Visible Learning]] 品牌的政商旋转门资本化、[[Neo-Taylorism|新泰勒主义]]教师监控及[[Global Education Reform Movement|全球教育改革运动]]（GERM）紧缩议程（pp. 23–36）。
+> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 综合运用批判性政策分析、计量文本法医解构与[[Ideology Critique|意识形态批判]]，剖析新西兰权力下放后 [[Visible Learning]] 品牌的政商旋转门资本化、[[Neo-Taylorism|新泰勒主义]]教师监控及[[Global Education Reform Movement|全球教育改革运动]]（GERM）紧缩议程（pp. 23–36）。
 
 ### Edmondson (2005)　法案立法博弈与科学证据标准的政治塑造
 
@@ -192,7 +192,7 @@ updated: 2026-10-16
 ### Johnson and Janzen (2023)　学术畅销书解构、元分析黑箱与商业教育政商旋转门
 
 > [!claim] 核心发现
-> 批判性政策分析不应局限于官方立法文本，更应拓展至主导公共政策议程的学术畅销书与商业教育咨询帝国。通过对《[[Visible Learning|可见的学习]]》进行简单平均公式逆向核验、95 次对 6 次词频偏向挖掘，以及对 [[Cognition Education]] 与 [[Corwin Press|Corwin]] 出版社兼任董事薪酬（逾 86.9 万新西兰元）的财务追踪，揭示了将复杂教育实践降维为标准化监控代码、借“[[Class Size|班级规模]]无效论”为政府紧缩政策提供实证掩护的新自由主义掠夺机制。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 25–33)]]
+> 批判性政策分析不应局限于官方立法文本，更应拓展至主导公共政策议程的学术畅销书与商业教育咨询帝国。通过对《[[Visible Learning|可见的学习]]》进行简单平均公式逆向核验、95 次对 6 次词频偏向挖掘，以及对 [[Cognition Education]] 与 [[Corwin Press|Corwin]] 出版社兼任董事薪酬（逾 86.9 万新西兰元）的财务追踪，揭示了将复杂教育实践降维为标准化监控代码、借“[[Class Size|班级规模]]无效论”为政府紧缩政策提供实证掩护的新自由主义掠夺机制。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 25–33)]]
 
 ---
 
@@ -206,12 +206,12 @@ updated: 2026-10-16
 > *Policies are the articulation of some one or some group’s vision for the way something should be, and they are revealed through various texts, practices, and discourses that define and deliver these values... they always begin with their authors’ images of an ideal society... Without critical policy study, the histories and social attachments of policy are not considered.*
 
 > [!citation-card] 方法论不透明性：游离于科学探究精神之外
-> 与全书的庞大篇幅以及书中用于讨论既定[[Meta-analysis|元分析]]技术之价值和技术细节的页数相比，书中为[[John Hattie|哈蒂]]自身的[[Meta-meta-analysis|元-元分析]]方程式所提供的极简说明显得尤为刺眼……我们认为，这种不透明的方法论阐述完全游离于科学探究的精神之外。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 25–26)]]
+> 与全书的庞大篇幅以及书中用于讨论既定[[Meta-analysis|元分析]]技术之价值和技术细节的页数相比，书中为[[John Hattie|哈蒂]]自身的[[Meta-meta-analysis|元-元分析]]方程式所提供的极简说明显得尤为刺眼……我们认为，这种不透明的方法论阐述完全游离于科学探究的精神之外。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 25–26)]]
 >
 > *In contrast to the size of the book and the pages dedicated to discussing the merits and technicalities of the established meta-analysis technique, the meager description provided for Hattie’s meta-meta-analysis equation stands out... We view this opaque exposition of methodology as outside the spirit of scientific inquiry.*
 
 > [!citation-card] 新自由主义意识形态功能：为制造出来的恐慌提供廉价修补
-> 它在哲学上与现代商业伦理以及研发（R&D）式的科学概念完全契合。它承诺针对围绕[[Academic Achievement|学业成绩]]分数所制造出的社会恐慌，提供简单、廉价且局限在课堂层面的修复方案。《[[Visible Learning|可见的学习]]》漠视了关于教育应当是什么的宏大理念，抹杀了从事教育实践之人的智慧，并将环绕在教育周围的更广阔叙事边缘化。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 36)]]
+> 它在哲学上与现代商业伦理以及研发（R&D）式的科学概念完全契合。它承诺针对围绕[[Academic Achievement|学业成绩]]分数所制造出的社会恐慌，提供简单、廉价且局限在课堂层面的修复方案。《[[Visible Learning|可见的学习]]》漠视了关于教育应当是什么的宏大理念，抹杀了从事教育实践之人的智慧，并将环绕在教育周围的更广阔叙事边缘化。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 36)]]
 >
 > *It is philosophically commensurate with modern business ethics and an R&D conception of science. It promises simple, cheap, classroom level fixes to manufactured alarm surrounding achievement scores. Visible Learning disregards the grander notions of what education should be, dismisses the wisdom of the people engaged in the practice of it, and minimizes the larger stories surrounding it.*
 

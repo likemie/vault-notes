@@ -7,7 +7,7 @@ summary: "英国教育评估学者，形成性评价研究代表人物和教育�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 14
+person_related_count: 15
 person_related_level: 1
 person_related_stars: "⭐"
 person_related_color: "#dbeafe"
@@ -38,6 +38,7 @@ related_methods:
 related_persons: []
 related_arguments:
   - "[[Argument_Wiliam_2019_ERE]]"
+  - "[[Argument_Cowen_2019_ERE]]"
 related_facts:
   - "[[Education Endowment Foundation]]"
 confidence: medium

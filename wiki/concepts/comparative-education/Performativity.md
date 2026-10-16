@@ -70,7 +70,7 @@ related_facts:
   - "[[Ofsted]]"
 related_arguments:
   - "[[Argument_Beech_2009_CE]]"
-  - "[[Argument_Johnson_2023_CE]]"
+  - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_McKnight_2020_Discourse]]"
   - "[[Argument_Partaken_2022_Springer]]"
 confidence: high
@@ -86,11 +86,11 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **表演性／操演性／绩效性（Performativity）** 最初是由法国哲学家[[Jean-François Lyotard|让-弗朗索瓦·利奥塔]]（[[Jean-François Lyotard]]，1984）提出的一种以输入/输出效率为核心的后现代知识合法化与社会运作原则。在批判教育社会学与政策研究中，该概念经由英国教育学者[[Stephen Ball|斯蒂芬·鲍尔]]（[[Stephen Ball]]，2003）等人发展为一种**国家治理、问责与微观[[Disciplina and Doctrina|规训]]技术** 它通过运用对比、衡量、考核指标与外部审查奖惩，强迫教育机构与一线教师将自身价值转化为可度量、可[[Commensuration|通约]]的数字证据；为了在竞争性评价中生存，教师与学校被迫将大量精力投入到展示合规的表演中，导致教育实践蜕变为虚构与捏造（Fabrications），造成教师专业道德的空心化与[[Ontology|本体论]]不安全感（[[Argument_Beech_2009_CE|Beech, 2009a, pp. 352–353]]；Ball, 2003, pp. 215–217；[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p. 29]]）。
+> **表演性／操演性／绩效性（Performativity）** 最初是由法国哲学家[[Jean-François Lyotard|让-弗朗索瓦·利奥塔]]（[[Jean-François Lyotard]]，1984）提出的一种以输入/输出效率为核心的后现代知识合法化与社会运作原则。在批判教育社会学与政策研究中，该概念经由英国教育学者[[Stephen Ball|斯蒂芬·鲍尔]]（[[Stephen Ball]]，2003）等人发展为一种**国家治理、问责与微观[[Disciplina and Doctrina|规训]]技术** 它通过运用对比、衡量、考核指标与外部审查奖惩，强迫教育机构与一线教师将自身价值转化为可度量、可[[Commensuration|通约]]的数字证据；为了在竞争性评价中生存，教师与学校被迫将大量精力投入到展示合规的表演中，导致教育实践蜕变为虚构与捏造（Fabrications），造成教师专业道德的空心化与[[Ontology|本体论]]不安全感（[[Argument_Beech_2009_CE|Beech, 2009a, pp. 352–353]]；Ball, 2003, pp. 215–217；[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 29]]）。
 
 > [!concept-lens] 双层分析透镜
 > - **宏观系统与全球网络层面** 操演性表现为后工业系统与[[Policy Network|全球政策网络]]的准入与存续法则：凡是不能用输入/输出指标与可见成果证明自身效能的机构都面临被网络边缘化排除的系统恐怖，促使国际组织（如 [[OECD]]、[[World Bank|世界银行]]）超越意识形态分歧结成[[Pragmatic Paradigm|实用主义]]同盟，竞相生产高度抽象、去情境化的政策报告（[[Argument_Beech_2009_CE|Beech, 2009a]]）。
-> - **中观学校与微观劳动过程层面** 操演性表现为[[New Managerialism|新管理主义]]与[[Neo-Taylorism|新泰勒主义]]的控制工具：将复杂的师生育人过程降格为对照核查清单的操作（如强制白板张贴[[Learning Intentions|学习意图]]），使教师从具有情境判断力的专业主体异化为应付督导检查的流水线演员（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 28–30]]）。
+> - **中观学校与微观劳动过程层面** 操演性表现为[[New Managerialism|新管理主义]]与[[Neo-Taylorism|新泰勒主义]]的控制工具：将复杂的师生育人过程降格为对照核查清单的操作（如强制白板张贴[[Learning Intentions|学习意图]]），使教师从具有情境判断力的专业主体异化为应付督导检查的流水线演员（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 28–30]]）。
 
 ---
 
@@ -150,7 +150,7 @@ updated: 2026-10-16
 
 ### 命题三：工业清单移植与形式主义打卡诱发的基层表演性危机
 
-> [!critique-logic] [[Neo-Taylorism|新泰勒主义]]与形式主义板书打卡的实践异化（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 28–30]]）
+> [!critique-logic] [[Neo-Taylorism|新泰勒主义]]与形式主义板书打卡的实践异化（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 28–30]]）
 > 约翰逊与詹岑结合澳大利亚维多利亚州推行《[[Visible Learning|可见的学习]]》高影响力教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]）的实证案例，揭示了表演性在当代[[Evidence-Based Education|循证教育]]改革中的具体变体：
 > - **白板打卡与巡检问责** 教师被行政命令强制要求在上课铃响前必须在教室白板上端正抄写当堂课题与[[Learning Intentions|学习意图]]（Learning Intentions and [[Success Criteria]]），否则在行政巡堂中便会被扣分问责。这一规定将丰富的教学导入矮化为僵化的形式主义打卡。
 > - **同行信任瓦解与教师倦怠** 当教学质量被等同于是否执行了规定清单时，教师根据课堂现场氛围机智施教的专业能动性被彻底剥夺，学校内部的同僚合作信任让位于对合规证据的防卫性自保，诱发大面积的教师流失与职业倦怠（Lilley, 2022; Wescott, 2022）。
@@ -169,7 +169,7 @@ updated: 2026-10-16
 > |---|---|---|---|
 > | **命题一：系统恐怖与网络排除** | 操演性作为系统准入指令，将不可[[Commensuration\|通约]]的教育价值系统性排除在网络之外 | 输入/输出效率法则、网络节点二元排除、通约化暴力 | [[Jean-François Lyotard\|Lyotard (1984)]]；[[Manuel Castells\|Castells (2000)]] |
 > | **命题二：灵魂侵蚀与数据捏造** | 绩效审计文化迫使教师生产合规证明，导致专业道德空心化与自我撕裂 | 恐怖与捏造（Fabrications）、多重评价凝视、专业灵魂账本 | [[Stephen Ball\|Ball (2003)]] |
-> | **命题三：清单管理与打卡异化** | 机械清单与行政监控软件将复杂育人活动矮化为白板打卡与表演性过关 | [[Victorian HITS and Literacy Toolkit\|HITS]] 策略强制打卡、[[Assessment Tools for Teaching and Learning\|asTTle]] 监控原型、专业自主权剥离 | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]]；Lilley (2022) |
+> | **命题三：清单管理与打卡异化** | 机械清单与行政监控软件将复杂育人活动矮化为白板打卡与表演性过关 | [[Victorian HITS and Literacy Toolkit\|HITS]] 策略强制打卡、[[Assessment Tools for Teaching and Learning\|asTTle]] 监控原型、专业自主权剥离 | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]；Lilley (2022) |
 > | **命题四：视觉霸权与数据成瘾** | 视觉中心主义使教育系统陷入追逐极端量化指标的数据成瘾与[[Ontology\|本体论]]危机 | [[Panopticism\|全景敞视]]目光、本体论不安全、不可度量情感关怀边缘化 | [[Argument_McKnight_2020_Discourse\|McKnight and Whitburn (2020)]] |
 > | **命题五：[[Discourse\|话语]]空洞与[[Pragmatic Paradigm\|实用主义]]** | 影响力广度导向促使组织结成去意识形态的绩效联盟，生产通用[[Floating Signifier\|漂浮能指]] | [[Policy Network\|政策网络]][[Space of Flows\|流动空间]]、漂浮能指拼接、无实质内涵联盟 | [[Argument_Beech_2009_CE\|Beech (2009a)]] |
 
@@ -178,7 +178,7 @@ updated: 2026-10-16
 ## 典型应用案例
 
 > [!case] 澳大利亚维多利亚州：[[Victorian HITS and Literacy Toolkit|HITS]] 政策与课堂白板打卡异化
-> 维多利亚州教育部依据《[[Visible Learning|可见的学习]]》编制了高影响力教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]），要求全州公立中小学严格对照执行。许多学校管理层为了应对区域绩效评估，出台了硬性规定：教师进教室第一件事必须在白板张贴标准化格式的学习目标，并向巡课视导人员出示对应的量化核查表。教师将此形容为把活生生的教学异化为舞台杂耍，一线教师被迫在形式主义表演与真实学生关怀之间疲于奔命（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 29–30]]）。
+> 维多利亚州教育部依据《[[Visible Learning|可见的学习]]》编制了高影响力教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]），要求全州公立中小学严格对照执行。许多学校管理层为了应对区域绩效评估，出台了硬性规定：教师进教室第一件事必须在白板张贴标准化格式的学习目标，并向巡课视导人员出示对应的量化核查表。教师将此形容为把活生生的教学异化为舞台杂耍，一线教师被迫在形式主义表演与真实学生关怀之间疲于奔命（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 29–30]]）。
 
 > [!case] 英国：[[Ofsted]] [[School Inspection|学校督导]]与捏造文化的制度化
 > 英国教育标准局（[[Ofsted]]）的高利害学校督导与学校绩效排名表（[[Global Universities Rankings|league tables]]）是全球表演性治理的典型温床。[[Stephen Ball|斯蒂芬·鲍尔]]的研究记录了学校在面临督导检查时全员进入战备表演状态：教师通宵改写教案、统一制作符合督导标准的评语模板、将学习困难学生调离公开视察课堂。学校投入巨量公共资源生产光鲜的合规幻象，教学的实质价值却遭到系统性破坏（Ball, 2003）。
@@ -201,7 +201,7 @@ updated: 2026-10-16
 > *“Performativity is a technology, a culture and a mode of regulation that employs judgements, comparisons and displays as means of incentive, control, [[Attrition]] and change... The terrors of performativity produce fabrications—spectacles of [[Strategic Compliance|compliance]] produced for external consumption.”*
 
 > [!citation-card] Johnson & Janzen 论维多利亚州 [[Victorian HITS and Literacy Toolkit|HITS]] 策略诱发的表演性打卡危机
-> 当教学策略被强制固化为机械的核查清单时，一线教育不可避免地滑向鲍尔所指出的表演性危机。在澳大利亚维多利亚州，教师被硬性要求在上课铃响前必须在白板上完整写出[[Learning Intentions|学习意图]]，否则在行政常规检查中便会遭受批评。这种僵化的量化打卡不仅摧毁了教师根据现场生发灵感教学的自主权，更使教学实践彻底异化为追求形式主义合规的技术表演。（[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 29–30)]]）
+> 当教学策略被强制固化为机械的核查清单时，一线教育不可避免地滑向鲍尔所指出的表演性危机。在澳大利亚维多利亚州，教师被硬性要求在上课铃响前必须在白板上完整写出[[Learning Intentions|学习意图]]，否则在行政常规检查中便会遭受批评。这种僵化的量化打卡不仅摧毁了教师根据现场生发灵感教学的自主权，更使教学实践彻底异化为追求形式主义合规的技术表演。（[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 29–30)]]）
 >
 > *“The reliance on rigid checklists inevitably induces what [[Stephen Ball]] termed the crisis of performativity. In Victoria, Australia, teachers face punitive administrative monitoring if learning intentions and [[Success Criteria]] are not displayed on whiteboards before the bell rings, reducing the nuanced art of pedagogy into a hollow spectacle of compliance.”*
 
@@ -211,7 +211,7 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Beech_2009_CE|Beech (2009a)]] — 结合 Castells 的网络理论，分析了操演性原则作为驱动全球教育组织[[Discourse|话语]]生产与临时联盟的底层逻辑。
-> - [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]] — 揭露可见学习商业体系如何依托新泰勒制清单与 [[Assessment Tools for Teaching and Learning|asTTle]] 监控软件，在课堂一线诱发白板打卡等表演性危机。
+> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 揭露可见学习商业体系如何依托新泰勒制清单与 [[Assessment Tools for Teaching and Learning|asTTle]] 监控软件，在课堂一线诱发白板打卡等表演性危机。
 > - [[Argument_McKnight_2020_Discourse|McKnight and Whitburn (2020)]] — 从文化政治学视角解构可见学习对量化结果的数据成瘾与教师的[[Ontology|本体论]]不安全感。
 > - [[Argument_Partaken_2022_Springer|Partaken (2022)]] — 在全球[[Geopolitics of Knowledge|知识地缘政治]]语境中，运用操演性与效率逻辑，分析科学知识通过产业赞助合法化的深层机制。
 > - [[Victorian HITS and Literacy Toolkit]] — 维多利亚州推行高影响力教学策略（HITS）并导致白板形式主义打卡的经典政策实践案例。

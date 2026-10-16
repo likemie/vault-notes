@@ -43,14 +43,14 @@ related_facts:
   - "[[Australian Institute for Teaching and School Leadership]]"
 related_arguments:
   - "[[Argument_Snook_2009_NZJES]]"
-  - "[[Argument_Simpson_2017_JEP]]"
+  - "[[Argument_Simpson_2017_JEdPolicy]]"
   - "[[Argument_Biesta_2010_SPE]]"
 sources:
   - "[[sources/Knudsen_2017_NordSTEP|Knudsen_2017_NordSTEP]]"
 part_of: ''
 status: draft
 created: '2026-05-07'
-updated: '2026-06-08'
+updated: 2026-10-16
 year: 2017
 doi: ""
 citation_aliases:
@@ -87,7 +87,7 @@ citation_aliases:
 ## 论证结构
 
 > [!example] 论证结构
-> 论文以引言-访谈-参考文献的结构呈现。引言部分(p.253–254)阐述了四个[[Research Question\|研究问题]]的背景：丹麦 VL 实施现状、现有批评文献([[Argument_Snook_2009_NZJES\|Snook et al., 2009]]; [[Argument_Simpson_2017_JEP\|Simpson, 2017]]; [[Argument_Biesta_2010_SPE\|Biesta, 2010]])、以及 Knudsen 自己的 [[Science and Technology Studies\|STS]] 研究取向。访谈正文分为五个主题板块：(1) 规模化与翻译；(2) 丹麦批评；(3) 儿童与基本假设；(4) 可见性与基本假设；(5) 证据与理论；(6) 政策、研究与商业。
+> 论文以引言-访谈-参考文献的结构呈现。引言部分(p.253–254)阐述了四个[[Research Question\|研究问题]]的背景：丹麦 VL 实施现状、现有批评文献([[Argument_Snook_2009_NZJES\|Snook et al., 2009]]; [[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017]]; [[Argument_Biesta_2010_SPE\|Biesta, 2010]])、以及 Knudsen 自己的 [[Science and Technology Studies\|STS]] 研究取向。访谈正文分为五个主题板块：(1) 规模化与翻译；(2) 丹麦批评；(3) 儿童与基本假设；(4) 可见性与基本假设；(5) 证据与理论；(6) 政策、研究与商业。
 >
 
 ## 主要发现

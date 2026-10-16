@@ -52,12 +52,12 @@ related_facts:
 related_arguments:
   - "[[Argument_Peterson_1987_OpenCourt_Ch03]]"
   - "[[Argument_Darwish_2009_Queens]]"
-  - "[[Argument_Metli_2022_IJER]]"
+  - "[[Argument_Metli_2022_IJEdReform]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch07]]"
 confidence: high
 status: active
 created: 2026-07-26
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Extended Essay
@@ -77,7 +77,7 @@ updated: 2026-10-15
 > [!boundary]- 概念边界
 > - **有指导的独立研究** 导师提供选题和研究过程指导，论文仍由学生独立完成。指导程度在早期学校之间存在差异。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, p. 45)]]
 > - **区别于常规课程论文** EE 通常横跨两年课程中段的四至六个月，由学生在自己的时间内持续完成，研究跨度超过单次课堂[[Homework\|作业]]。
-> - **独立但不孤立** EE 可以与 TOK 的证据审查及 CAS 的现实经验发生联系；跨组件联系需要学校主动安排，不能仅凭三项核心同时存在便自动形成。[[Argument_Metli_2022_IJER\|Metli & Akış (2022, pp. 226–229)]]
+> - **独立但不孤立** EE 可以与 TOK 的证据审查及 CAS 的现实经验发生联系；跨组件联系需要学校主动安排，不能仅凭三项核心同时存在便自动形成。[[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022, pp. 226–229)]]
 
 ---
 
@@ -133,7 +133,7 @@ updated: 2026-10-15
 > TOK 提供审查知识主张的语言，EE 把这些原则用于具体研究，[[Chinese Academy of Sciences|CAS]] 则提供现实经验和行动情境。连贯性来自问题、证据与行动在三项核心之间迁移。
 
 > [!claim] Metli, A. & Akış, D.
-> **[[Epistemology\|认识论]]工具在研究中获得具体对象** TOK 的[[Knowledge Framework\|知识框架]]可以帮助学生界定 EE 的问题，并在[[Literature Review\|文献综述]]中检查信源[[Reliability\|可靠性]]、证据效力与方法限制。CAS 经验可以提供[[Research Question\|研究问题]]，EE 结论也可以转化为社区项目。EE 由此位于反思、探究和行动之间，而非只承担长篇写作训练。这样的连接需要图书馆员研讨、共同词汇和教师协作来显性推动。[[Argument_Metli_2022_IJER\|Metli & Akış (2022, pp. 226–229)]]
+> **[[Epistemology\|认识论]]工具在研究中获得具体对象** TOK 的[[Knowledge Framework\|知识框架]]可以帮助学生界定 EE 的问题，并在[[Literature Review\|文献综述]]中检查信源[[Reliability\|可靠性]]、证据效力与方法限制。CAS 经验可以提供[[Research Question\|研究问题]]，EE 结论也可以转化为社区项目。EE 由此位于反思、探究和行动之间，而非只承担长篇写作训练。这样的连接需要图书馆员研讨、共同词汇和教师协作来显性推动。[[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022, pp. 226–229)]]
 
 ---
 
@@ -143,7 +143,7 @@ updated: 2026-10-15
 > 大学准备不仅包括已经掌握的学科内容，也包括能否管理长期任务、独立判断资料、维持论证并完成规范写作。
 
 > [!claim] Metli, A. & Akış, D.
-> **研究经验支持高等教育过渡** 既有研究把 EE 与[[Critical Thinking\|批判性思维]]、独立思考、自我调节和[[Inquiry-Based Learning\|探究式学习]]联系起来。学生借此熟悉大学所需的研究与写作方法；与[[Advanced Placement Program\|大学先修课程]]（[[Advanced Placement Program\|Advanced Placement]]，AP）学生的比较还发现，EE 成绩与大学平均绩点（Grade Point Average，[[Academic Achievement\|GPA]]）存在显著正相关。早期参与者也曾把 EE 评价为进入大学后最有帮助的 [[IB Diploma Programme\|IBDP]] 经历之一。Wray、Aulls 与 Lemay、Inkelas 等研究见 [[Argument_Metli_2022_IJER\|Metli & Akış (2022, p. 220)]]；早期学生反馈见 [[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, p. 45)]]。
+> **研究经验支持高等教育过渡** 既有研究把 EE 与[[Critical Thinking\|批判性思维]]、独立思考、自我调节和[[Inquiry-Based Learning\|探究式学习]]联系起来。学生借此熟悉大学所需的研究与写作方法；与[[Advanced Placement Program\|大学先修课程]]（[[Advanced Placement Program\|Advanced Placement]]，AP）学生的比较还发现，EE 成绩与大学平均绩点（Grade Point Average，[[Academic Achievement\|GPA]]）存在显著正相关。早期参与者也曾把 EE 评价为进入大学后最有帮助的 [[IB Diploma Programme\|IBDP]] 经历之一。Wray、Aulls 与 Lemay、Inkelas 等研究见 [[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022, p. 220)]]；早期学生反馈见 [[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, p. 45)]]。
 
 ### 命题总览
 
@@ -165,7 +165,7 @@ updated: 2026-10-15
 > - **早期调整　提交期限因学生过度投入而提前** 一些学生沉浸于自选题目，开始忽视其他课程并危及文凭考试。[[International Baccalaureate\|国际文凭]]办公室（International Baccalaureate Office，IBO）把截止日期提前到课程结束前数月，为六学科恢复学习时间。
 > - **1970 年代至 1985 年　选题指导与外部评价逐步成熟** 学生需要避免过宽、资料不可得和超过 4,000 字的题目，并形成学术态度。历史论文从集中于政治强人逐步扩展到地方史，科学论文常使用长期田野或实验，少数成果进入学术期刊。外部考官结合导师报告评分，可奖励 1–2 分，严重缺乏投入则扣 1 分。1985 年有 1,471 人获 1 分、310 人获 2 分、234 人被扣 1 分。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 181–182)]]
 > - **2009 年所记录的制度　EE 与 [[Theory of Knowledge\|TOK]] 共同进入核心奖励分矩阵** 两项外部评价等级交叉换算零至三分奖励分，EE 的最低等级还与文凭资格直接相连。[[Argument_Darwish_2009_Queens\|Darwish (2009, pp. 18–19)]]
-> - **2022 年　EE 被进一步理解为核心组件之间的连接点** TOK 的知识审查可以进入 EE 的研究设计和文献评价，[[Chinese Academy of Sciences|CAS]] 的经验可以生成[[Research Question\|研究问题]]，EE 的发现也可以转化为 CAS 行动。学校实践中的连接仍经常停留在表层。[[Argument_Metli_2022_IJER\|Metli & Akış (2022, pp. 226–230)]]
+> - **2022 年　EE 被进一步理解为核心组件之间的连接点** TOK 的知识审查可以进入 EE 的研究设计和文献评价，[[Chinese Academy of Sciences|CAS]] 的经验可以生成[[Research Question\|研究问题]]，EE 的发现也可以转化为 CAS 行动。学校实践中的连接仍经常停留在表层。[[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022, pp. 226–230)]]
 
 ---
 
@@ -176,7 +176,7 @@ updated: 2026-10-15
 >
 > | 研究 | 样本与情境 | 研究设计 | 与 EE 相关的关键结果 | 解释边界 |
 > |---|---|---|---|---|
-> | [[Argument_Metli_2022_IJER\|Metli & Akış (2022)]] | 土耳其 15 所国际文凭授权学校，[[Questionnaire\|问卷]] N=40；[[Focus Group\|焦点小组]] N=7 | [[Mixed Methods Research\|混合方法]]问卷、开放题与焦点小组 | 参与者普遍认可核心课程连贯性的价值，超过半数仍承认组件经常孤立运行；[[Theory of Knowledge\|TOK]] 至 EE 的证据审查迁移、[[Creativity, Action, Service\|CAS]] 与 EE 的问题和行动转化被识别为可行路径。 | 结果主要反映土耳其双轨课程和大学入学考试压力下的学校实施，不能直接推及所有地区。 |
+> | [[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022)]] | 土耳其 15 所国际文凭授权学校，[[Questionnaire\|问卷]] N=40；[[Focus Group\|焦点小组]] N=7 | [[Mixed Methods Research\|混合方法]]问卷、开放题与焦点小组 | 参与者普遍认可核心课程连贯性的价值，超过半数仍承认组件经常孤立运行；[[Theory of Knowledge\|TOK]] 至 EE 的证据审查迁移、[[Creativity, Action, Service\|CAS]] 与 EE 的问题和行动转化被识别为可行路径。 | 结果主要反映土耳其双轨课程和大学入学考试压力下的学校实施，不能直接推及所有地区。 |
 
 ---
 
@@ -192,10 +192,10 @@ updated: 2026-10-15
 > 罗伯特·布恩（R. S. Bourne）检视的 81 篇历史 EE 中，15 篇研究希特勒或纳粹主义，16 篇研究俄国革命者，11 篇研究其他强人，合计 42 篇，约占 51.9%。题目聚集说明自主选题不会自动带来多样性。诸以俄国外交政策在二十世纪的发展为题之类的设计又过于宽泛，难以在 4,000 字内形成有效论证。相比之下，法国大革命时期的戛纳这类依托本地可得材料的题目，更容易建立可操作的证据边界。比例由章内数据计算，不代表所有学科或年份的 EE 分布。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, p. 181)]]
 
 > [!case] 涂鸦主题连接经验、知识判断与学科研究
-> 学生可以先在 [[Chinese Academy of Sciences|CAS]] 中参与涂鸦相关的创作或社区项目，再在 [[Theory of Knowledge\|TOK]] 中讨论艺术定义、艺术家的伦理权利及艺术与法律的关系，最后把问题收束为视觉艺术 EE，研究涂鸦如何影响社会视觉文化。同一主题经过经验、[[Epistemology\|认识论]]反思和独立研究三次转化，避免三项核心成为相互隔离的任务。[[Argument_Metli_2022_IJER\|Metli & Akış (2022, pp. 228–229)]]
+> 学生可以先在 [[Chinese Academy of Sciences|CAS]] 中参与涂鸦相关的创作或社区项目，再在 [[Theory of Knowledge\|TOK]] 中讨论艺术定义、艺术家的伦理权利及艺术与法律的关系，最后把问题收束为视觉艺术 EE，研究涂鸦如何影响社会视觉文化。同一主题经过经验、[[Epistemology\|认识论]]反思和独立研究三次转化，避免三项核心成为相互隔离的任务。[[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022, pp. 228–229)]]
 
 > [!case] 生态研究由论文返回社区行动
-> 一项关于城市化如何影响安纳托利亚黄鼠种群的 EE，可以继续转化为 CAS 全球问题倡导。学生整理科学报告，向地方机构展示研究发现，并设计社区保护活动。研究提供行动所需的证据，行动又使论文问题进入具体环境。[[Argument_Metli_2022_IJER\|Metli & Akış (2022, p. 229)]]
+> 一项关于城市化如何影响安纳托利亚黄鼠种群的 EE，可以继续转化为 CAS 全球问题倡导。学生整理科学报告，向地方机构展示研究发现，并设计社区保护活动。研究提供行动所需的证据，行动又使论文问题进入具体环境。[[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022, p. 229)]]
 
 ---
 
@@ -204,7 +204,7 @@ updated: 2026-10-15
 > [!warning] 适用局限
 > - **投入程度差异** 早期成果既包括高度投入的研究，也包括只为满足要求而提交的平淡论文。正式要求能够创造机会，不能保证每名学生都形成个人热情。[[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987, p. 45)]]
 > - **整体课业失衡** 长期研究可能挤压六学科时间；截止日期、导师进度管理和学校协调是维持整体课程平衡的[[Necessary and Sufficient Conditions\|必要条件]]。
-> - **跨组件联系不足** 时间限制、缺少协同备课、官方操作指引不足及教师对[[Concurrency of Learning\|并发学习]]认识有限，会使 EE、[[Theory of Knowledge\|TOK]] 和 [[Chinese Academy of Sciences|CAS]] 各自运行。[[Argument_Metli_2022_IJER\|Metli & Akış (2022, pp. 226–230)]]
+> - **跨组件联系不足** 时间限制、缺少协同备课、官方操作指引不足及教师对[[Concurrency of Learning\|并发学习]]认识有限，会使 EE、[[Theory of Knowledge\|TOK]] 和 [[Chinese Academy of Sciences|CAS]] 各自运行。[[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022, pp. 226–230)]]
 > - **大学准备证据的范围** EE 与大学学习结果的关联支持其准备价值，不能单独证明 EE 导致更高成绩；学生选择、学校环境和既有能力仍可能共同影响结果。
 
 ---
@@ -214,4 +214,4 @@ updated: 2026-10-15
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Peterson_1987_OpenCourt_Ch03\|Peterson (1987)]] 记录 EE 从六学科课程缺口中产生的原因、早期四至六个月研究形态、外部评价、学生反馈及期限调整。 [[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 181–182)]] 记录成熟期 EE 的选题问题、地方史与科学研究案例、外部评分规则及 1985 年奖励分分布。
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] 说明 [[IB Diploma Programme\|IBDP]] 核心结构以及 EE 与 [[Theory of Knowledge\|TOK]] 的奖励分转换矩阵。
-> - [[Argument_Metli_2022_IJER\|Metli & Akış (2022)]] 分析 EE 如何通过[[Concurrency of Learning\|并发学习]]与 TOK 和 [[Chinese Academy of Sciences|CAS]] 形成证据审查、[[Research Question\|研究问题]]与现实行动的双向联系，并记录学校实施障碍。
+> - [[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022)]] 分析 EE 如何通过[[Concurrency of Learning\|并发学习]]与 TOK 和 [[Chinese Academy of Sciences|CAS]] 形成证据审查、[[Research Question\|研究问题]]与现实行动的双向联系，并记录学校实施障碍。

@@ -48,11 +48,11 @@ related_facts:
   - "[[Ofsted]]"
   - "[[Chartered College of Teaching]]"
 related_arguments:
-  - "[[Argument_Helgetun_2022_JEP]]"
+  - "[[Argument_Helgetun_2022_JEdPolicy]]"
 confidence: high
 status: draft
 created: 2026-09-16
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Carter Review of Initial Teacher Training
@@ -60,7 +60,7 @@ updated: 2026-10-15
 ## 背景
 
 > [!policy-context] 政策背景
-> - **发布时间 / 发布主体** 2014 年 5 月由英国教育大臣[[Michael Gove\|迈克尔·戈夫]]（[[Michael Gove]]）发起委任，由安德鲁·卡特爵士（Sir Andrew Carter，著名[[Teaching Schools\|教学学校]]校长兼多学院信托首席执行官）主持独立专家组，2015 年 1 月由英国教育部（Department for Education，DfE）正式发布审查报告（[[Argument_Helgetun_2022_JEP\|Helgetun & Menter, 2022, p. 90]]）。
+> - **发布时间 / 发布主体** 2014 年 5 月由英国教育大臣[[Michael Gove\|迈克尔·戈夫]]（[[Michael Gove]]）发起委任，由安德鲁·卡特爵士（Sir Andrew Carter，著名[[Teaching Schools\|教学学校]]校长兼多学院信托首席执行官）主持独立专家组，2015 年 1 月由英国教育部（Department for Education，DfE）正式发布审查报告（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, p. 90]]）。
 > - **适用地区 / 对象** 英格兰全境所有[[Initial Teacher Training\|初始教师培训]]（Initial Teacher Training，ITT）提供机构（包括大学高等教育机构 Higher Education Institutions，HEIs、学校直接培训 School Direct 与校本初始教师培训中心 School-Centred Initial Teacher Training，SCITT）。
 > - **问题背景** 在英格兰教师培训体系加速向中小学校本化分权背景下，各培训路径质量参差不齐、课程碎片化加剧，政府亟需借助外部专家审查确立国家层面的循证培训核心标准。
 > - **制度位置** 构成了 2010 年白皮书[[The Importance of Teaching\|《教学的重要性》]]与后续 2019 年《早期职业框架》（Early Career Framework，ECF）和《[[Initial Teacher Training Core Content Framework\|初始教师培训核心内容框架]]》（ITT Core Content Framework，CCF）之间的承上启下关键政策枢纽。
@@ -70,7 +70,7 @@ updated: 2026-10-15
 ## 政策文本摘要
 
 > [!claim] 政策核心
-> 卡特审查旨在系统评估英格兰[[Initial Teacher Training\|初始教师培训]]的质量与有效性，主张在培训中确立以严谨学术研究和实证证据为支撑的核心课程框架，重点强化循证教学法、学科教学知识、行为管理、特殊教育需要（Special Educational Needs and Disabilities，SEND）技能以及以研究为导向的临床实践（[[Argument_Helgetun_2022_JEP\|Helgetun & Menter, 2022, pp. 90, 95]]）。
+> 卡特审查旨在系统评估英格兰[[Initial Teacher Training\|初始教师培训]]的质量与有效性，主张在培训中确立以严谨学术研究和实证证据为支撑的核心课程框架，重点强化循证教学法、学科教学知识、行为管理、特殊教育需要（Special Educational Needs and Disabilities，SEND）技能以及以研究为导向的临床实践（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, pp. 90, 95]]）。
 
 > [!policy-design]- 政策设计
 > - **政策目标** 确立国家层面统一的 ITT 核心课程框架，提高证据与实证研究在教师职前培训中的使用水平。
@@ -79,7 +79,7 @@ updated: 2026-10-15
 > - **约束机制** 结合英国教育标准局（[[Ofsted]]）的专项督导评级，并将核心内容达标与培训机构办学资质认证挂钩。
 
 > [!citation-card] 审查对研究导向临床实践的吸纳与转译
-> 卡特审查明确吸纳了牛津大学学者关于“以研究为导向的临床实践”的学术文献，但该研究在政府部门内部的传播主要依赖[[Policy Brokerage\|政策中介]]的口口相传与审查文本的引介，而非公务员直接阅读原著。[[Argument_Helgetun_2022_JEP\|Helgetun & Menter, 2022, p. 95]]
+> 卡特审查明确吸纳了牛津大学学者关于“以研究为导向的临床实践”的学术文献，但该研究在政府部门内部的传播主要依赖[[Policy Brokerage\|政策中介]]的口口相传与审查文本的引介，而非公务员直接阅读原著。[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, p. 95]]
 >
 > *While we interviewed a government employee, she spoke about the influence of an article by two members of Oxford University academic staff on clinical practices, following a citation of their work in the Carter Review.*
 
@@ -88,10 +88,10 @@ updated: 2026-10-15
 ## 时间线
 
 > [!timeline] 政策时间线
-> - **2014 年 5 月** 英国教育部委任安德鲁·卡特爵士启动全国 [[Initial Teacher Training\|ITT]] 独立审查（[[Argument_Helgetun_2022_JEP\|Helgetun & Menter, 2022, p. 90]]）。
+> - **2014 年 5 月** 英国教育部委任安德鲁·卡特爵士启动全国 [[Initial Teacher Training\|ITT]] 独立审查（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, p. 90]]）。
 > - **2015 年 1 月** 正式发布《卡特初始教师培训独立审查报告》（*Carter Review of Initial Teacher Training*）。
 > - **2016 年** 专家组跟进制定 ITT 行为管理与核心内容标准框架。
-> - **2019 年** 英国教育部依据卡特审查倡导的证据框架正式发布《[[Initial Teacher Training Core Content Framework\|初始教师培训核心内容框架]]》（CCF）与《早期职业框架》（ECF）（[[Argument_Helgetun_2022_JEP\|Helgetun & Menter, 2022, p. 94]]）。
+> - **2019 年** 英国教育部依据卡特审查倡导的证据框架正式发布《[[Initial Teacher Training Core Content Framework\|初始教师培训核心内容框架]]》（CCF）与《早期职业框架》（ECF）（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022, p. 94]]）。
 
 ---
 
@@ -117,7 +117,7 @@ updated: 2026-10-15
 > > 争论焦点在于卡特审查究竟是纯粹客观的[[Technical Rationality\|技术理性]]评估，还是为既定政治路线定制合法性外衣的政策工具。
 > >
 > > - **官方政策叙事** 强调审查由经验丰富的一线卓越校长独立主持，全面听取各方证据以提升培训质量与证据意识。
-> > - **批判制度主义视角（[[Argument_Helgetun_2022_JEP\|Helgetun & Menter, 2022]]）** 教育部通过委任特定政治立场的校本改革代言人主持审查，牢牢掌握了[[Policy Network\|政策网络]]的把关权。审查报告的首要考量并非探索不同培训模式的多元因果效力，而是确保结论能够在部长和教育部那里顺利“落地”（Landing）。这一过程演化为典型的[[Policy-Based Evidence-Making\|基于政策的证据制造]]（PBEM），即通过选择性引证和包装证据，为推进校本化分权与削弱大学传统地位提供预设的科学背书（pp. 90, 93–94）。
+> > - **批判制度主义视角（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022]]）** 教育部通过委任特定政治立场的校本改革代言人主持审查，牢牢掌握了[[Policy Network\|政策网络]]的把关权。审查报告的首要考量并非探索不同培训模式的多元因果效力，而是确保结论能够在部长和教育部那里顺利“落地”（Landing）。这一过程演化为典型的[[Policy-Based Evidence-Making\|基于政策的证据制造]]（PBEM），即通过选择性引证和包装证据，为推进校本化分权与削弱大学传统地位提供预设的科学背书（pp. 90, 93–94）。
 >
 > > [!axis] 证据引证的脱语境化与口口相传扩散
 > > 争论焦点在于审查所引用的实证文献在政策制定体系中是否得到了审慎的科学理解。

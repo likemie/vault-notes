@@ -53,7 +53,7 @@ related_theories:
 related_arguments:
   - "[[Argument_Duncan_2025_CI]]"
   - "[[Argument_DeJong_2023_ERR]]"
-  - "[[Argument_Chinn_2011_EP]]"
+  - "[[Argument_Chinn_2011_EducPsychol]]"
   - "[[Argument_Du_Yuan_2026_AIS]]"
 related_facts:
   - "[[PRACCIS]]"
@@ -98,7 +98,7 @@ updated: 2026-10-16
 > - **1990 年代** 于伊利诺伊大学厄巴纳-香槟分校（UIUC）师从著名认知心理学家 Richard C. Anderson 获得博士学位，深耕儿童协作推理（Collaborative Reasoning）与论证对话。
 > - **2000 年代初** 进入罗格斯大学教育研究生院任教，系统聚焦科学探究、[[Reflexivity\|反思性]]论证与概念转变教学。
 > - **2007** 与 [[Cindy E. Hmelo-Silver]] 及 Ravit Golan Duncan 联合发表对 Kirschner, Sweller, & Clark (2006) 的里程碑式反驳论文，开启学习科学界捍卫[[Inquiry-Based Learning\|指导式探究]]与问题导向学习的国际辩论。
-> - **2011** 在《教育心理学家》发表纲领性论文，系统提出扩展[[Epistemic Cognition\|认识论认知]][[Analytic Framework\|分析框架]]，推动教育[[Epistemology\|认识论]]从发展心理学向[[Practical Epistemology\|实践认识论]]转型。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011)]]
+> - **2011** 在《教育心理学家》发表纲领性论文，系统提出扩展[[Epistemic Cognition\|认识论认知]][[Analytic Framework\|分析框架]]，推动教育[[Epistemology\|认识论]]从发展心理学向[[Practical Epistemology\|实践认识论]]转型。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011)]]
 > - **2014–2020** 进一步提炼出著名的 [[AIR Model of Epistemic Cognition\|AIR]] 认识论认知模型；主持研发[[National Science Foundation\|美国国家科学基金会]]资助的“促进情境化科学探究推理项目”（[[PRACCIS]]）；与 Duncan 提炼出探究学习六要素分析框架。
 > - **2023** 与 [[Ton de Jong]] 等国际学者联合发表反击[[Direct Instruction\|直接教学]]绝对优越论的综述，系统捍卫指导式探究在深层概念建构中的实证基石。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023)]]
 > - **2025** 与 Duncan 在《认知与教学》（*Cognition and Instruction*）联合发表论证质量评价专论，确立超越图尔敏句法形式、直达因果机制与[[Epistemic Ideals\|认识论理想]]的新[[Paradigm\|范式]]。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025)]]
@@ -134,7 +134,7 @@ updated: 2026-10-16
 > *[[Inquiry-Based Learning\|inquiry-based instruction]] is defined by six essential elements: generating knowledge, active intellectual work, using evidence, exercising epistemic agency, complex reasoning, and engaging in collaborative communities.*
 
 > [!citation-card] 论[[Epistemic Cognition\|认识论认知]]的 [[AIR Model of Epistemic Cognition\|AIR]] 三元构架
-> 认识论认知不是静止的心理特质，而是学习者在特定情境中对[[Epistemic Aims\|认识目标]]（寻求真理或理解）、[[Epistemic Ideals\|认识论理想]]（评估知识质量的标准，如因果机制、预测力与观察[[Reliability\|可靠性]]）以及可靠认识过程（生成符合理想的知识主张的程序与方法）的协调与反思。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 222–223)]]; [[Argument_Chinn_2011_EP\|(Chinn et al., 2011, pp. 142–144)]]
+> 认识论认知不是静止的心理特质，而是学习者在特定情境中对[[Epistemic Aims\|认识目标]]（寻求真理或理解）、[[Epistemic Ideals\|认识论理想]]（评估知识质量的标准，如因果机制、预测力与观察[[Reliability\|可靠性]]）以及可靠认识过程（生成符合理想的知识主张的程序与方法）的协调与反思。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 222–223)]]; [[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, pp. 142–144)]]
 >
 > *The AIR model conceptualizes epistemic cognition as comprised of epistemic aims, epistemic ideals used to evaluate epistemic products, and [[Reliable Epistemic Processes]] used to [[Achieve]] those aims.*
 
@@ -151,7 +151,7 @@ updated: 2026-10-16
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 作为核心作者之一，提出探究学习六要素[[Analytic Framework\|分析框架]]，运用详实实证反驳[[Direct Instruction\|直接教学]]绝对优越论，确立指导式探究的循证优越性与时序协同模型。
 > - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 联合提出基于 AIR 模型的科学论证质量评价新范式，论证初中生如何在真实生态探究中行使[[Epistemic Agency\|认识能动性]]并协同建构可靠性规范。
-> - [[Argument_Chinn_2011_EP\|Chinn et al. (2011)]] — 奠基性论文，系统引入当代哲学认识论，确立扩展认识论认知分析维度，为后续 AIR 模型的诞生奠定理论基础。
+> - [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] — 奠基性论文，系统引入当代哲学认识论，确立扩展认识论认知分析维度，为后续 AIR 模型的诞生奠定理论基础。
 > - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 引证 Chinn 等人（2011）的认识论认知理论，论证学习者关于知识、证据与确证的认知信念如何塑造其与生成式 AI 交互时的[[Epistemic Dependence\|认识依赖]]与[[Evaluative Judgement\|评价性判断]]。
 
 ---

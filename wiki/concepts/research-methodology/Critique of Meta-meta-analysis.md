@@ -64,14 +64,14 @@ related_facts:
   - "[[Playing for Success]]"
 related_arguments:
   - "[[Argument_Terhart_2011_JCS]]"
-  - "[[Argument_Simpson_2017_JEP]]"
+  - "[[Argument_Simpson_2017_JEdPolicy]]"
   - "[[Argument_Wiliam_2019_ERE]]"
   - "[[Argument_Simpson_2019_ERE]]"
   - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Argument_Allerup_2015_Paideia]]"
   - "[[Argument_Bergeron_2017_MJE]]"
   - "[[Argument_OConnor_2020_AJLL]]"
-  - "[[Argument_Johnson_2023_CE]]"
+  - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
   - "[[Argument_Wrigley_2019_ERE]]"
@@ -89,7 +89,7 @@ updated: 2026-10-16
 ## 核心定义
 
 > [!def] 核心定义
-> [[Critique of Meta-meta-analysis\|元-元分析批判]]（Critique of [[Meta-meta-analysis]]）指教育学、统计学与科学哲学界对将多个已发表[[Meta-analysis\|元分析]]结果在更高层级进行二次聚合（如 *[[Visible Learning]]* 与政策联盟表）所提出的系统性反思与方法论质疑。批判核心集中于：二级聚合脱离了因果机制、将试验灵敏度误读为教育有效性、低质量一阶研究导致的偏倚逐级放大、以及以脱离情境的简单排名驱动公共政策决策的合法性危机。[[Argument_Terhart_2011_JCS\|(Terhart, 2011, p. 436)]]; [[Argument_Simpson_2017_JEP\|(Simpson, 2017, p. 15)]]; [[Argument_Wiliam_2019_ERE\|(Wiliam, 2019, p. 11)]]
+> [[Critique of Meta-meta-analysis\|元-元分析批判]]（Critique of [[Meta-meta-analysis]]）指教育学、统计学与科学哲学界对将多个已发表[[Meta-analysis\|元分析]]结果在更高层级进行二次聚合（如 *[[Visible Learning]]* 与政策联盟表）所提出的系统性反思与方法论质疑。批判核心集中于：二级聚合脱离了因果机制、将试验灵敏度误读为教育有效性、低质量一阶研究导致的偏倚逐级放大、以及以脱离情境的简单排名驱动公共政策决策的合法性危机。[[Argument_Terhart_2011_JCS\|(Terhart, 2011, p. 436)]]; [[Argument_Simpson_2017_JEdPolicy\|(Simpson, 2017, p. 15)]]; [[Argument_Wiliam_2019_ERE\|(Wiliam, 2019, p. 11)]]
 
 > [!concept-lens] 概念透镜
 > - **[[Epistemological Break\|认识论断裂]]** [[Critical Realism\|批判实在论]]指出，元-元分析停留在经验层面的第三级抽象聚合，使研究证据彻底脱离了实在层面的结构性因果机制。
@@ -105,7 +105,7 @@ updated: 2026-10-16
 > > [!axis] 维度一：概念基础与测量对象错位（试验灵敏度 vs 教育有效性）
 > > 质疑二阶聚合所依赖的[[Effect Size\|效应量]]指标是否真正测量了教育干预的实质效能。
 > >
-> > - **[[Argument_Simpson_2017_JEP\|Simpson (2017)]]** 论证效应量联盟表是对研究设计操纵开放程度的排名。反馈与[[Metacognition\|元认知]]等领域高效应量源于易于设计低噪声聚焦测验（反馈研究中仅 9/68 个效应量使用标准化测验），而早期[[Intervention Research\|干预研究]]几乎必须使用标准化测验（37/39 个效应量）；标准化效应量是研究工具而非公共预算政策工具。（pp. 2, 13–15）
+> > - **[[Argument_Simpson_2017_JEdPolicy\|Simpson (2017)]]** 论证效应量联盟表是对研究设计操纵开放程度的排名。反馈与[[Metacognition\|元认知]]等领域高效应量源于易于设计低噪声聚焦测验（反馈研究中仅 9/68 个效应量使用标准化测验），而早期[[Intervention Research\|干预研究]]几乎必须使用标准化测验（37/39 个效应量）；标准化效应量是研究工具而非公共预算政策工具。（pp. 2, 13–15）
 > > - **[[Argument_Simpson_2019_ERE\|Simpson (2019)]]** 提出教匈牙利单词思想实验，展示同一干预可因测试设计产生从 0 到无穷大的效应量；论证效应量测量的是试验清晰度，元-[[Meta-analysis\|元分析]]是对已经无效的指标进行更高级的统计操作。（pp. 105–106）
 >
 > > [!axis] 维度二：技术方法论缺陷与数学模型违背
@@ -119,7 +119,7 @@ updated: 2026-10-16
 > > [!axis] 维度三：透明度缺失、数据重构困难与[[Cargo Cult Science|草包族科学]]倾向
 > > 审查二阶综合在数据提取、附录公开及证据筛选上的不透明性与证实偏差。
 > >
-> > - **[[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]]** 逐步重构[[Homework\|家庭作业]]（附录中 5 个隐藏值 0.36, 0.21, 0.39, 0.21, 0.28 算术平均为 0.29，声称的 161 项研究与 10 万学生并不构成计算基础）与[[Class Size\|班级规模]]效应量（Glass & Smith 1979 提取的 $d=0.09$ 并非原始报告值），指出方法论不透明阻碍了一线教育者验证，呈现伪科学特征。（pp. 25–26, 32–33）
+> > - **[[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]** 逐步重构[[Homework\|家庭作业]]（附录中 5 个隐藏值 0.36, 0.21, 0.39, 0.21, 0.28 算术平均为 0.29，声称的 161 项研究与 10 万学生并不构成计算基础）与[[Class Size\|班级规模]]效应量（Glass & Smith 1979 提取的 $d=0.09$ 并非原始报告值），指出方法论不透明阻碍了一线教育者验证，呈现伪科学特征。（pp. 25–26, 32–33）
 > > - **[[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]** 强调质量就是一切，指出 Evidence Informed [[Policy Network]] 明确要求研究综合必须具备质量标准；声称不关心纳入研究质量的做法违背了综合的基本定义，对政策具有破坏性。（p. 94）
 > > - **[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]]** 对《可见的学习》全库 322 个影响因素开展独立复现检验，发现仅 19% 满足 [[PICO Framework|PICO]] 纳入标准，301 项可查证因素中仅 2 项能够成功复现数据提取（<1% 复现率），44% 的效应量在原文中完全无法找到，以全量元科学实证揭示了底层数据链条的彻底崩溃。（pp. 14, 18–19）
 >

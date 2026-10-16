@@ -39,7 +39,7 @@ related_facts:
   - "[[National Assessment of Educational Progress]]"
   - "[[TIMSS]]"
 related_arguments:
-  - "[[Argument_McDonnell_2013_AJE]]"
+  - "[[Argument_McDonnell_2013_AmJE]]"
 confidence: high
 status: stable
 created: 2026-09-26
@@ -53,7 +53,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> 政策形象（Policy Image，亦称政策意象）是弗兰克·R·鲍姆加特纳（Frank R. Baumgartner）与布赖恩·D·琼斯（Bryan D. Jones）在[[Punctuated Equilibrium Theory|断裂平衡理论]]中提出的核心分析概念。该概念指特定公共政策议题在广大公众、大众传媒以及政治精英心目中的符号化表征、价值框架与综合认知建构。一个政策形象兼具经验实证信息（Empirical Information）与情感规范评价（Emotive/Normative Valences），决定了该议题是被界定为平稳运行且值得信赖的“专业自治领域”，还是被认知为失控破产、亟待外部宏观政治权力强势介入的“治理灾难”。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–9)]]
+> 政策形象（Policy Image，亦称政策意象）是弗兰克·R·鲍姆加特纳（Frank R. Baumgartner）与布赖恩·D·琼斯（Bryan D. Jones）在[[Punctuated Equilibrium Theory|断裂平衡理论]]中提出的核心分析概念。该概念指特定公共政策议题在广大公众、大众传媒以及政治精英心目中的符号化表征、价值框架与综合认知建构。一个政策形象兼具经验实证信息（Empirical Information）与情感规范评价（Emotive/Normative Valences），决定了该议题是被界定为平稳运行且值得信赖的“专业自治领域”，还是被认知为失控破产、亟待外部宏观政治权力强势介入的“治理灾难”。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–9)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 政策议题在社会与政治网络中的主导性象征表征与[[Discourse|话语]]叙事结构。
@@ -63,7 +63,7 @@ updated: 2026-10-16
 > [!citation-card] 政策形象的重构与政策垄断的破裂
 > 断裂平衡理论指出，公共政策子系统长期被利益集团所把持的稳态垄断所统治。倡导改革的[[Policy Entrepreneur|政策企业家]]若要打破既有政策垄断，必须从两个维度协同发力：第一是开展[[Venue Shopping|制度场所转换]]，寻找对新理念更友好的决策机构；第二是重塑政策形象，通过动员危机指标与核心价值，将原有政策正面崇高的社会形象彻底颠覆。在[[Common Core State Standards|共同核心标准]]运动中，改革倡导者将以往象征“地方民主自治”的分权标准成功重塑为“危害国家全球[[Competitiveness|竞争力]]与拉大社会不公”的负面形象。
 >
-> *Policy entrepreneurs alter well-established policy monopolies by creating a new policy image and by engaging in 'venue shopping' to find alternative decision-making arenas that are more receptive to their arguments. In the CCSS case, proponents created a negative policy image of current state standards, showing they were weak and fragmented, which challenged the long-standing monopoly of state and local control.* [[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–9)]]
+> *Policy entrepreneurs alter well-established policy monopolies by creating a new policy image and by engaging in 'venue shopping' to find alternative decision-making arenas that are more receptive to their arguments. In the CCSS case, proponents created a negative policy image of current state standards, showing they were weak and fragmented, which challenged the long-standing monopoly of state and local control.* [[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–9)]]
 
 > [!boundary]- 概念边界
 > - 不等于 公关舆论宣传（[[Participatory Research|PR]] Propaganda） — 公关宣传侧重短期的形象修饰与包装；政策形象是决定政策管辖权归属与制度场所门槛的底层因果叙事架构。
@@ -74,7 +74,7 @@ updated: 2026-10-16
 ## 核心要素
 
 > [!feature] 核心要素
-> - **经验事实与量化指标支撑** 具有震撼力且易于传播的统计反差数据（如各州统考通过率与 [[National Assessment of Educational Progress|NAEP]] 成绩的悬殊断层），充当重塑形象的事实骨架。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–10)]]
+> - **经验事实与量化指标支撑** 具有震撼力且易于传播的统计反差数据（如各州统考通过率与 [[National Assessment of Educational Progress|NAEP]] 成绩的悬殊断层），充当重塑形象的事实骨架。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–10)]]
 > - **两党普适性核心价值绑定** 将议题同国家经济安全、全球科技霸权、公平正义及劳动力技能优势等无争议的核心社会价值观深度缝合。
 > - **生动的象征符号与隐喻修辞** 提炼直击人心的符号化定性（如美国课程“宽一英里、深一英寸”以及各州为了达标“竞相向下沉沦”），制造全社会的危机共识。
 
@@ -110,7 +110,7 @@ updated: 2026-10-16
 > 当[[Policy Entrepreneur|政策企业家]]通过事实证据与价值叙事成功瓦解原有正面形象并重塑为负面危机时，将引发媒体曝光与非专业政治领袖的强势介入，形成制度雪崩。
 
 > [!claim] McDonnell, L. M. & Weatherford, M. S.
-> **实证指标动员对百年分权垄断的颠覆** 麦克唐纳与韦瑟福德指出，美国各州各学区自主制定课程大纲的政策垄断之所以在 2000 年代末被迅速击穿，核心在于政策企业家策略性地摧毁了旧有形象。他们不再抽象争辩联邦干涉与地方自由的哲学优劣，而是密集动员实证指标：以国家教育统计中心的映射数据揭露各州自设合格线制造虚假及格率的丑闻，以 [[TIMSS]] 跨国数据批判课程浅薄涣散。这一全新的负面形象成功将地方自主重构为“各州为应付考核竞相造假，严重危害美国[[Knowledge-Based Economy|知识经济]]国际[[Competitiveness|竞争力]]”的道德与安全危机，迅速唤醒了两党州长的宏观注意力，最终瓦解了各州长达一个世纪的分权垄断。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–11)]]
+> **实证指标动员对百年分权垄断的颠覆** 麦克唐纳与韦瑟福德指出，美国各州各学区自主制定课程大纲的政策垄断之所以在 2000 年代末被迅速击穿，核心在于政策企业家策略性地摧毁了旧有形象。他们不再抽象争辩联邦干涉与地方自由的哲学优劣，而是密集动员实证指标：以国家教育统计中心的映射数据揭露各州自设合格线制造虚假及格率的丑闻，以 [[TIMSS]] 跨国数据批判课程浅薄涣散。这一全新的负面形象成功将地方自主重构为“各州为应付考核竞相造假，严重危害美国[[Knowledge-Based Economy|知识经济]]国际[[Competitiveness|竞争力]]”的道德与安全危机，迅速唤醒了两党州长的宏观注意力，最终瓦解了各州长达一个世纪的分权垄断。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–11)]]
 
 ---
 
@@ -129,7 +129,7 @@ updated: 2026-10-16
 > [!dev-timeline] 概念演变
 > - **1993年 — 鲍姆加特纳与琼斯创立概念** 在《美国政治中的议程与不稳定性》中确立政策形象与制度场所并行的双轨动力学，分析烟草、核能与杀虫剂政策变迁。
 > - **2000年代 — 跨国比较议程项目（[[Industry Affiliate Program|CAP]]）深化** 学界将政策形象编码技术应用于欧洲多国议会与媒体报道的大规模文本挖掘，量化证实形象的情感极性翻转是导致法案间断突变的先导指标。
-> - **2013年 — 教育治理与证据利用生命周期扩展** 麦克唐纳与韦瑟福德将政策形象应用于跨州教育政策研究，展示了[[Policy Entrepreneur|政策企业家]]如何借助跨国测评实证数据战略性重构政策形象以推动国家级改革。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–11)]]
+> - **2013年 — 教育治理与证据利用生命周期扩展** 麦克唐纳与韦瑟福德将政策形象应用于跨州教育政策研究，展示了[[Policy Entrepreneur|政策企业家]]如何借助跨国测评实证数据战略性重构政策形象以推动国家级改革。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–11)]]
 
 ---
 
@@ -141,7 +141,7 @@ updated: 2026-10-16
 > > 唯物主义政策分析学者与[[Constructivist Paradigm|建构主义]]学者围绕政策形象的本质展开了辩论。
 > >
 > > - **实证唯物派学者** 认为政策形象的变迁归根结底是由客观物质危机所决定的（如切尔诺贝利核事故或经济长期衰退），修辞包装只是滞后的附属物。
-> > - **断裂平衡与修辞学派学者（Stone, 2012; Baumgartner & Jones, 1993）** 反驳指出，相同的客观数据可以被编织成截然相反的形象故事；危机从来不会自动发声，唯有当[[Policy Entrepreneur|政策企业家]]通过精巧的[[Discourse|话语]]符号对数据进行战略性表征并赋予价值意义时，具有政治杀伤力的政策形象才得以成型。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 3–5)]]
+> > - **断裂平衡与修辞学派学者（Stone, 2012; Baumgartner & Jones, 1993）** 反驳指出，相同的客观数据可以被编织成截然相反的形象故事；危机从来不会自动发声，唯有当[[Policy Entrepreneur|政策企业家]]通过精巧的[[Discourse|话语]]符号对数据进行战略性表征并赋予价值意义时，具有政治杀伤力的政策形象才得以成型。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 3–5)]]
 
 ---
 
@@ -155,6 +155,6 @@ updated: 2026-10-16
 > | [[Venue Shopping]] | 概念 | 与场所转换构成打破政策垄断的“一硬一软”双轮驱动策略。 |
 > | [[Policy Entrepreneur]] | 概念 | 政策形象重塑的能动策划者与危机叙事动员主体。 |
 > | [[Common Core State Standards]] | 政策事实 | 政策形象从“地方自主”翻转为“经济危机”从而促成国家改革的标志性案例。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013)]] | 实证文献 | 详细记录政策企业家动员实证指标重塑各州标准形象以摧毁政策垄断的研究。 |
+> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | 实证文献 | 详细记录政策企业家动员实证指标重塑各州标准形象以摧毁政策垄断的研究。 |
 
 ---

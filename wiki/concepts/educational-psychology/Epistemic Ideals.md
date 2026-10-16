@@ -63,7 +63,7 @@ related_arguments:
   - "[[Argument_Du_Yuan_2026_AIS]]"
   - "[[Argument_Sandoval_2005_SE]]"
   - "[[Argument_Han_Gutierez_2026_IJSE]]"
-  - "[[Argument_Chinn_2011_EP]]"
+  - "[[Argument_Chinn_2011_EducPsychol]]"
 related_instruments:
   - "[[Framework for Teaching]]"
 confidence: high
@@ -201,7 +201,7 @@ updated: 2026-10-16
 
 > [!dev-timeline] 概念演变
 > - **1990–1997 — 信念维度阶段** [[Epistemic Cognition\|认识论认知]]被分解为知识确定性、[[Source of Knowledge\|知识来源]]与[[Justificatory Standards\|确证标准]]等维度，确证准则多被视为个体内部持有的静态信念。
-> - **2011 — 扩展构件模型提出** Chinn 等学者提出扩展认识论认知五构件框架，将确证标准明确置于探究目标与[[Causal Processes\|因果过程]]的网络之中。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011)]]
+> - **2011 — 扩展构件模型提出** Chinn 等学者提出扩展认识论认知五构件框架，将确证标准明确置于探究目标与[[Causal Processes\|因果过程]]的网络之中。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011)]]
 > - **2014 — [[AIR Model of Epistemic Cognition\|AIR]] 理论模型确立** Chinn, Rinehart & Buckland 正式提出 AIR 理论架构，将[[Epistemology\|认识论]]理想（Ideals）确立为与[[Epistemic Aims\|认识目标]]（Aims）及[[Reliable Epistemic Processes\|可靠过程]]（Reliable Processes）并列的三大核心构件。
 > - **2025 — 论证评价中位模板与实质转向** Duncan & Chinn 建立观察与证据整合的规范性理想模板，系统论证了认识论理想在科学论证质性评价中的不可替代性，推动论证评价由外在句法转向认识论实质。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025)]]
 > - **2026 — 算法均质化危机与关系性规范理想转向** Du & Yuan 揭示大语言模型的表层综合语调严重抹平历史学、实证科学与哲学等不同学科固有的认识论理想，提出在人工智能深度中介环境下，规范性认识理想应由“孤立自足的认知者”转向“敢于质疑、对最终论断负责的关系性认识主体”。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026)]] 与此同时，[[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] 实证确立了显性[[Scientific Explanation|科学解释]]标准作为认识论理想在[[Man-Computer Symbiosis|人机协同]]探究中指导微观因果核验与图文重构的操作路径。
@@ -257,7 +257,7 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Han_Gutierez_2026_IJSE\|Han and Gutierez (2026)]] — 将 Sandoval 四项[[Scientific Explanation|科学解释]]标准[[Operationalization|操作化]]为显性[[Epistemology|认识论]]理想，实证揭示其在[[Man-Computer Symbiosis|人机协同]]科学探究中指导微观因果核验与图文重构的支架机制。
-> - [[Argument_Chinn_2011_EP\|Chinn et al. (2011)]] — 提出包含[[Justificatory Standards\|确证标准]]与[[Epistemic Value\|认识价值]]在内的扩展[[Epistemic Cognition\|认识论认知]]构件，为[[Epistemology\|认识论]]理想的界定奠定理论基石。
+> - [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] — 提出包含[[Justificatory Standards\|确证标准]]与[[Epistemic Value\|认识价值]]在内的扩展[[Epistemic Cognition\|认识论认知]]构件，为[[Epistemology\|认识论]]理想的界定奠定理论基石。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 首个认识论干预因果[[Meta-analysis\|元分析]]，从量化层面证实聚焦认识论理想的显性教学能够带来中等偏上的[[Academic Achievement\|学业成就]]因果效应（$d = 0.509$），尤其对高阶论证表现（$d = 1.047$）效果突出，提供了认识论理想可教导性的实验证据。
 > - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 将认识论理想作为论证质量评价的双轴核心之一，构建了核心科学实践的基准规范模板，并在初中课堂中实证检验其运作机制。
 > - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 分析[[Generative Artificial Intelligence\|生成式人工智能]]抹平各学科认识论理想的表层假答案机制，提出确立关系性[[Epistemic Agency\|认识主体性]]以重塑[[Man-Computer Symbiosis|人机共生]]环境下的规范性认识标准。

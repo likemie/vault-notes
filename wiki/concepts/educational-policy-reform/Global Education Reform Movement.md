@@ -72,7 +72,7 @@ related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[Rose Report]]"
 related_arguments:
-  - "[[Argument_Johnson_2023_CE]]"
+  - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Li_2025_HSSC]]"
   - "[[Argument_ONeill_2016_Report]]"
 confidence: medium
@@ -88,7 +88,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> 全球教育改革运动（Global Education Reform Movement, GERM）是由芬兰教育学者[[Pasi Sahlberg|帕西·萨尔伯格]]（Pasi Sahlberg, 2012）提出的批判性学术术语，用于概括自 1980 年代以来在全球范围内蔓延的新自由主义学校教育改革浪潮。该运动主张将私营部门的市场逻辑、工业管理模式、高度统一的课程标准以及高利害测试问责强加于公共教育系统，试图通过制造学校间竞争、削减公共财政投入与推进教育服务私有化来重塑学校教育治理（p. 141; [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 30–31]]）。
+> 全球教育改革运动（Global Education Reform Movement, GERM）是由芬兰教育学者[[Pasi Sahlberg|帕西·萨尔伯格]]（Pasi Sahlberg, 2012）提出的批判性学术术语，用于概括自 1980 年代以来在全球范围内蔓延的新自由主义学校教育改革浪潮。该运动主张将私营部门的市场逻辑、工业管理模式、高度统一的课程标准以及高利害测试问责强加于公共教育系统，试图通过制造学校间竞争、削减公共财政投入与推进教育服务私有化来重塑学校教育治理（p. 141; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 30–31]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** GERM 将复杂的育人过程还原为类似工业流水线的投入—产出模型，将学校视作企业组织，教师视作执行标准化操作清单的生产线装配工，学生测验分数视作企业增值增量的[[Performance Indicators|绩效指标]]（Sahlberg, 2012, pp. 141, 149）。
@@ -125,11 +125,11 @@ updated: 2026-10-16
 > 5. **基于测试的强力问责制（[[Test-Based Accountability]] Policies）** 将教师绩效、聘用留任与学校声誉生存直接同高利害标准化测验结果深度绑定。
 
 > [!theory-components] GERM 的政治经济学与意识形态结盟机制
-> GERM 的全球扩散并非单纯的[[Technical Rationality|技术理性]]演进，而是新自由主义与新保守主义在政治、经济与知识层面的深度共谋（Soler, 2016; [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）：
+> GERM 的全球扩散并非单纯的[[Technical Rationality|技术理性]]演进，而是新自由主义与新保守主义在政治、经济与知识层面的深度共谋（Soler, 2016; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）：
 > - **新保守主义的确定性知识观** 强调基础拼读法与技能切片，迎合了保守主义对传统确定性知识与中央统一课程交付的偏好（Soler, 2016, p. 149）。
-> - **新自由主义的公共财政撤资议程** 借[[Evidence-Based Education|循证教育]]与高效教学之名，刻意掩盖社会阶层、家庭贫困与社区环境对[[Academic Achievement|学业成绩]]的决定性影响，为政府压缩生均拨款与削减师资编制构筑实证挡箭牌（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 27–28]], 31–32）。
-> - **技术理性的去政治化包装** 假借大规模[[Meta-analysis|元分析]]与数据科学名义，将复杂的社会文化交往还原为单一维度的可度量指标，掩饰资源分配不公的制度根源（Soler, 2016; [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）。
-> - **跨国教育资本的牟利网络** 改革催生了庞大的校本咨询、测试软件、教师认证与配套出版市场，跨国资本与商业出版集团（如世哲旗下[[Corwin Press|考文出版社]]）通过承接政府外包服务实现巨额利润变现（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 30–31]]）。
+> - **新自由主义的公共财政撤资议程** 借[[Evidence-Based Education|循证教育]]与高效教学之名，刻意掩盖社会阶层、家庭贫困与社区环境对[[Academic Achievement|学业成绩]]的决定性影响，为政府压缩生均拨款与削减师资编制构筑实证挡箭牌（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 27–28]], 31–32）。
+> - **技术理性的去政治化包装** 假借大规模[[Meta-analysis|元分析]]与数据科学名义，将复杂的社会文化交往还原为单一维度的可度量指标，掩饰资源分配不公的制度根源（Soler, 2016; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）。
+> - **跨国教育资本的牟利网络** 改革催生了庞大的校本咨询、测试软件、教师认证与配套出版市场，跨国资本与商业出版集团（如世哲旗下[[Corwin Press|考文出版社]]）通过承接政府外包服务实现巨额利润变现（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 30–31]]）。
 
 > [!logic-map]- GERM 的政治经济运作循环（饥饿—危机—私有化）
 > ```mermaid
@@ -177,11 +177,11 @@ updated: 2026-10-16
 > [!concept-lens] 政治经济学动因与财政卸责
 > 探讨 GERM 如何通过制造数字霸凌为政府财政紧缩提供实证掩护，并通过公共危机推动私有化资本进驻。
 
-> [!claim] [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]]
-> **饥饿—危机—私有化治理循环** [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]]揭示新自由主义改革者惯常采用制造财政饥饿的手法：削减公共拨款并同步提高测验问责要求，使公立学校陷入混乱与服务质量下滑；随后以拯救危机为借口，将责任推卸给基层教师的教学技能不足，借机引入特许经营、商业培训与咨询外包等私有化方案，促使国家从公共教育的财政托底职责中全面抽身（pp. 30–31）。
+> [!claim] [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]
+> **饥饿—危机—私有化治理循环** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]揭示新自由主义改革者惯常采用制造财政饥饿的手法：削减公共拨款并同步提高测验问责要求，使公立学校陷入混乱与服务质量下滑；随后以拯救危机为借口，将责任推卸给基层教师的教学技能不足，借机引入特许经营、商业培训与咨询外包等私有化方案，促使国家从公共教育的财政托底职责中全面抽身（pp. 30–31）。
 
-> [!claim] [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]]
-> **[[Class Size|班级规模]]数据的实证护盾功能** [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]]指出《[[Visible Learning|可见的学习]]》将[[Class Size|班级规模]][[Effect Size|效应量]]压低至 $d=0.21$ 并全书高频提及 95 次（反差于自我报告成绩仅 6 次），其政治经济学实质是迎合新自由主义财政紧缩需求；通过宣称缩减班额对提升成绩毫无价值，为公共部门拒绝增资扩编、抵制教师工会诉求提供了[[Social Science as Legitimation Alibi|科学借口]]（pp. 31–33）。
+> [!claim] [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]
+> **[[Class Size|班级规模]]数据的实证护盾功能** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]指出《[[Visible Learning|可见的学习]]》将[[Class Size|班级规模]][[Effect Size|效应量]]压低至 $d=0.21$ 并全书高频提及 95 次（反差于自我报告成绩仅 6 次），其政治经济学实质是迎合新自由主义财政紧缩需求；通过宣称缩减班额对提升成绩毫无价值，为公共部门拒绝增资扩编、抵制教师工会诉求提供了[[Social Science as Legitimation Alibi|科学借口]]（pp. 31–33）。
 
 ---
 
@@ -192,17 +192,17 @@ updated: 2026-10-16
 > |---|---|---|---|
 > | **超国家制度载体命题** | PISA 通过三层运作机制将 GERM 五大支柱制度化为全球规范 | 跨国教育治理、国家教育评估体系与比较教育政策借用 | [[Argument_Li_2025_HSSC\|Li et al. (2025)]]; Rautalin and Alasuutari (2009) |
 > | **技术官僚规训命题** | 标准化测验与技能切片教学构成对[[Teacher Professional Agency\|教师专业自主权]]的工业化剥夺 | 课程改革、教师绩效审计与国家读写评估规程 | Sahlberg (2012); Soler (2016) |
-> | **财政紧缩与私有化命题** | 制造公共教育饥饿引发危机，借由班额无效论推卸责任并完成商业资本变现 | 公立学校私有化改制、教育经费削减、商业咨询与培训外包 | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]]; [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] |
+> | **财政紧缩与私有化命题** | 制造公共教育饥饿引发危机，借由班额无效论推卸责任并完成商业资本变现 | 公立学校私有化改制、教育经费削减、商业咨询与培训外包 | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]; [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] |
 
 ---
 
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1980 年代–1989 — 新自由主义制度实验** 新西兰推行明日学校（[[Tomorrow's Schools Reforms|Tomorrow's Schools]]）权力下放，将原有教育局服务部门改制为商业化自负盈亏实体，开启了公共教育市场化治理的制度试验（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p. 30]]）。
+> - **1980 年代–1989 — 新自由主义制度实验** 新西兰推行明日学校（[[Tomorrow's Schools Reforms|Tomorrow's Schools]]）权力下放，将原有教育局服务部门改制为商业化自负盈亏实体，开启了公共教育市场化治理的制度试验（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 30]]）。
 > - **2012 — 概念的正式命名** 芬兰学者 [[Pasi Sahlberg]] 在 *Finnish Lessons* 中首次提出 GERM 术语，对比芬兰坚持的平等、信任与教师专业化道路，提炼出标准化、问责与商业管理的五大特征。
 > - **2012–2016 — 意识形态结盟分析** 学界广泛引入 GERM 解构英美澳等国的标准化改革，Soler (2016) 揭示了新保守主义确定性知识观与新自由主义中央集权控制在拼读法改革中的结盟机制。
-> - **2016 年至今 — 跨国载体实证确认与政商利益批判** [[Argument_Li_2025_HSSC|Li et al. (2025)]]通过[[Systematic Review|系统综述]]确认 [[PISA]] 是 GERM 的核心全球载体；[[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]]进一步从政商旋转门、知识产权变现与财政紧缩借口等政治经济学维度，完成了对 [[Visible Learning]] 商业化帝国的深层批判。
+> - **2016 年至今 — 跨国载体实证确认与政商利益批判** [[Argument_Li_2025_HSSC|Li et al. (2025)]]通过[[Systematic Review|系统综述]]确认 [[PISA]] 是 GERM 的核心全球载体；[[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]进一步从政商旋转门、知识产权变现与财政紧缩借口等政治经济学维度，完成了对 [[Visible Learning]] 商业化帝国的深层批判。
 
 ---
 
@@ -210,11 +210,11 @@ updated: 2026-10-16
 
 > [!tension] 核心张力：工业效率宣称 vs 育人本质属性
 > - **工业效率与技术官僚立场（蓝方）** 倡导者主张标准化评估与量化[[Performance Indicators|绩效指标]]提供了跨地区、跨国界的可比基准，企业管理模式和合同驱动显著提升了财政资源的配置效率，市场竞争与优胜劣汰机制激发了学校改进的内在动力（Sahlberg, 2012）。
-> - **[[Critical Pedagogy|批判教育学]]与育人本体立场（红方）** 批评者指出教育是关涉社区认同、民主公民素养与深层师生情感交往的复杂人际实践，不可等同于工业制造；GERM 强行实施工业泰勒制监控，诱发严重的[[Performativity|表演性]]危机与教师职业倦怠，且将结构性不平等去政治化为个体教学技术问题（Sahlberg, 2012; [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）。
+> - **[[Critical Pedagogy|批判教育学]]与育人本体立场（红方）** 批评者指出教育是关涉社区认同、民主公民素养与深层师生情感交往的复杂人际实践，不可等同于工业制造；GERM 强行实施工业泰勒制监控，诱发严重的[[Performativity|表演性]]危机与教师职业倦怠，且将结构性不平等去政治化为个体教学技术问题（Sahlberg, 2012; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）。
 
 > [!critique] 外部批评
-> - **去情境化指标剥夺教师专业裁量权** 强行推行如澳大利亚维多利亚州 [[Victorian HITS and Literacy Toolkit|HITS]] 等固定技术清单，迫使教师在课堂白板上开展形式主义打卡，严重挫伤了教学的即兴[[Creativity|创造力]]与教育直觉（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 29–30]]）。
-> - **制造虚假的学术合法性** 借用不可[[Falsification|证伪]]的[[Cargo Cult Science|货物崇拜科学]]为政府削减教育经费推脱责任，掩饰校外社会经济背景对学业差距高达 80% 的解释力（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 27–28]], 34–36）。
+> - **去情境化指标剥夺教师专业裁量权** 强行推行如澳大利亚维多利亚州 [[Victorian HITS and Literacy Toolkit|HITS]] 等固定技术清单，迫使教师在课堂白板上开展形式主义打卡，严重挫伤了教学的即兴[[Creativity|创造力]]与教育直觉（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 29–30]]）。
+> - **制造虚假的学术合法性** 借用不可[[Falsification|证伪]]的[[Cargo Cult Science|货物崇拜科学]]为政府削减教育经费推脱责任，掩饰校外社会经济背景对学业差距高达 80% 的解释力（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 27–28]], 34–36）。
 
 > [!warning] 适用局限
 > GERM 作为批判性概念，主要适用于分析追求测验问责、市场竞争与财政紧缩的新自由主义教育体制；在注重社群共建、非竞争性均质发展及高度信任教师专业的体系中（如芬兰基础教育），该[[Analytic Framework|分析框架]]的解释力存在边界。
@@ -229,19 +229,19 @@ updated: 2026-10-16
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Li_2025_HSSC\|Li et al. (2025)]] | 85 篇实证文献，跨越 [[OECD]] 与非 OECD 国家 | [[Systematic Review\|系统综述]] | [[PISA]] 对国家教育政策的三层决策影响 | 宏观政策受影响研究占绝大多数；中观监测建立与微观课程改革在多国同步落地 | 质性综合与跨国文献对比 | 揭示了政策文本借用与[[Discourse\|话语]]层面的全球同构，未测量微观教学质量的因果净效益 |
-> | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] | 《[[Visible Learning\|可见的学习]]》全书文本及附录 A [[Meta-analysis\|元分析]]总表 | 词频统计与文献核查 | [[Class Size\|班级规模]]提及频次与排位对比 | 班级规模全书提及 95 次，涉及 16 个章节；第一名自我报告成绩仅提 6 次（频次比 16:1） | 统计差异显著 | 证实全书存在对财政敏感议题的单向集中轰炸，服务于削减预算的政策偏好 |
-> | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] | 新西兰官方财务档案与第三方支付明细（2011–2015） | 机构财务审计核查 | 认知教育公司支付给学者[[John Hattie\|哈蒂]]的劳务报酬 | 5 年间累计支付第三方报酬达 \$869,453 NZD；考文出版社年营收估算达 \$50,000,000 USD | 档案财务实录 | 揭示了学术声誉转化为商业垄断资本的收益链条，确立学者与商业利益的深度捆绑 |
-> | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] | Glass and Smith (1979) 班级规模实验元分析原图 | 图表曲线复核与数据回溯 | 40 人大班与 1 人个别辅导的[[Academic Achievement\|学业成就]]差距 | 控制良好的[[Experimental Research\|实验研究]]中，班级从 40 人缩减至 1 人，学生成绩百分位提升超过 30 个百分位点 | $d=0.09$ 纯属断章取义 | 澄清了班额有效性的真实证据，揭露了 GERM 文献对原始经典文献的片面剪裁 |
+> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 《[[Visible Learning\|可见的学习]]》全书文本及附录 A [[Meta-analysis\|元分析]]总表 | 词频统计与文献核查 | [[Class Size\|班级规模]]提及频次与排位对比 | 班级规模全书提及 95 次，涉及 16 个章节；第一名自我报告成绩仅提 6 次（频次比 16:1） | 统计差异显著 | 证实全书存在对财政敏感议题的单向集中轰炸，服务于削减预算的政策偏好 |
+> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 新西兰官方财务档案与第三方支付明细（2011–2015） | 机构财务审计核查 | 认知教育公司支付给学者[[John Hattie\|哈蒂]]的劳务报酬 | 5 年间累计支付第三方报酬达 \$869,453 NZD；考文出版社年营收估算达 \$50,000,000 USD | 档案财务实录 | 揭示了学术声誉转化为商业垄断资本的收益链条，确立学者与商业利益的深度捆绑 |
+> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | Glass and Smith (1979) 班级规模实验元分析原图 | 图表曲线复核与数据回溯 | 40 人大班与 1 人个别辅导的[[Academic Achievement\|学业成就]]差距 | 控制良好的[[Experimental Research\|实验研究]]中，班级从 40 人缩减至 1 人，学生成绩百分位提升超过 30 个百分位点 | $d=0.09$ 纯属断章取义 | 澄清了班额有效性的真实证据，揭露了 GERM 文献对原始经典文献的片面剪裁 |
 
 ---
 
 ## 应用案例
 
 > [!case] 新西兰：明日学校改制至[[Corwin Press|考文出版社]]商业专营
-> 新西兰 1989 年推行明日学校改制，将奥克兰教育局后勤行政部门私有化转变为[[Cognition Education|认知教育]]公司（[[Cognition Education]]）。[[John Hattie|哈蒂]]在担任该机构董事期间，将《[[Visible Learning|可见的学习]]》商业推广权独家授权成立 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 品牌，按营收比例抽取高额版税；2018 年国际出版巨头世哲旗下考文出版社以估算 5000 万美元的年营业规模全资收购该品牌，完成了从公立服务改制到跨国资本专营的典型 GERM 变现循环（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 30–31]]）。
+> 新西兰 1989 年推行明日学校改制，将奥克兰教育局后勤行政部门私有化转变为[[Cognition Education|认知教育]]公司（[[Cognition Education]]）。[[John Hattie|哈蒂]]在担任该机构董事期间，将《[[Visible Learning|可见的学习]]》商业推广权独家授权成立 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 品牌，按营收比例抽取高额版税；2018 年国际出版巨头世哲旗下考文出版社以估算 5000 万美元的年营业规模全资收购该品牌，完成了从公立服务改制到跨国资本专营的典型 GERM 变现循环（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 30–31]]）。
 
 > [!case] 澳大利亚维多利亚州：[[Victorian HITS and Literacy Toolkit|HITS]] 教学策略与[[Performativity|表演性危机]]
-> 维多利亚州教育部强制推行基于 Visible Learning 提炼的高影响力教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]），要求公立学校教师上课前必须在白板上规范书写当堂[[Learning Intentions|学习意图]]与[[Success Criteria|成功标准]]。教学常规检查将板书打卡作为考核指标，导致一线教师陷入形式主义合规，丧失了应对复杂学情的专业裁量权（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 29–30]]）。
+> 维多利亚州教育部强制推行基于 Visible Learning 提炼的高影响力教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]），要求公立学校教师上课前必须在白板上规范书写当堂[[Learning Intentions|学习意图]]与[[Success Criteria|成功标准]]。教学常规检查将板书打卡作为考核指标，导致一线教师陷入形式主义合规，丧失了应对复杂学情的专业裁量权（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 29–30]]）。
 
 > [!case] 德国：[[PISA]] 冲击与产出导向[[Paradigm|范式]]转换
 > 2001 年首届 PISA 测试德国成绩落后，引发社会震荡。联邦与各州迅速达成共识，放弃传统的投入导向教育治理，全面转向产出导向的国家教育标准与跨州集中质量监测体系，推动德国基础教育全盘融入以测验数据驱动改进的 GERM 治理轨道（[[Argument_Li_2025_HSSC|Li et al., 2025]]; Niemann et al., 2017）。
@@ -262,12 +262,12 @@ updated: 2026-10-16
 > *“Since the 1980s, a Global Education Reform Movement (GERM) has increasingly become the dominant approach to educational change. It is built upon five core pillars: standardization of teaching and learning; a focus on core subjects (literacy and numeracy); search for low-risk ways to [[Reach]] learning goals; use of corporate management models; and [[Test-Based Accountability]] policies. These reforms reduce the complex process of education to industrial production, treating schools as factories and teachers as assembly-line workers.”*
 
 > [!citation-card] 新自由主义意识形态功能：为制造出来的恐慌提供廉价修补
-> 它在哲学上与现代商业伦理以及研发（R&D）式的科学概念完全契合。它承诺针对围绕[[Academic Achievement|学业成绩]]分数所制造出的社会恐慌，提供简单、廉价且局限在课堂层面的修复方案。《[[Visible Learning|可见的学习]]》漠视了关于教育应当是什么的宏大理念，抹杀了从事教育实践之人的智慧，并将环绕在教育周围的更广阔叙事边缘化。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 36)]]
+> 它在哲学上与现代商业伦理以及研发（R&D）式的科学概念完全契合。它承诺针对围绕[[Academic Achievement|学业成绩]]分数所制造出的社会恐慌，提供简单、廉价且局限在课堂层面的修复方案。《[[Visible Learning|可见的学习]]》漠视了关于教育应当是什么的宏大理念，抹杀了从事教育实践之人的智慧，并将环绕在教育周围的更广阔叙事边缘化。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 36)]]
 >
 > *“It is philosophically commensurate with modern business ethics and an R&D conception of science. It promises simple, cheap, classroom level fixes to manufactured alarm surrounding achievement scores. Visible Learning disregards the grander notions of what education should be, dismisses the wisdom of the people engaged in the practice of it, and minimizes the larger stories surrounding it.”*
 
 > [!citation-card] 新自由主义饥饿疗法与私有化策略
-> 新自由主义改革者的一贯策略是让公共系统资金匮乏，随后在系统运转失灵时归咎于低效、懒惰与无能。问责要求（如评估改进）与资金削减往往同时推行，制造出无法维系的工作困境。这导致公共服务水准下降并在系统内部引发混乱。随着公众不满加剧，改革者便以拯救陷入危机的系统、提供更多选择和实现更高资金价值为借口，提出有限私有化。通过这种方式，新自由主义政府逐渐在财政上推卸对公共领域的责任。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 30–31)]]
+> 新自由主义改革者的一贯策略是让公共系统资金匮乏，随后在系统运转失灵时归咎于低效、懒惰与无能。问责要求（如评估改进）与资金削减往往同时推行，制造出无法维系的工作困境。这导致公共服务水准下降并在系统内部引发混乱。随着公众不满加剧，改革者便以拯救陷入危机的系统、提供更多选择和实现更高资金价值为借口，提出有限私有化。通过这种方式，新自由主义政府逐渐在财政上推卸对公共领域的责任。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 30–31)]]
 >
 > *“A tactic of neoliberal reformers is to underfund public systems, and then blame inefficiency, laziness, and incompetence as systems fail. Accountability demands (like assessment improvements), and funding cuts are often simultaneously imposed, creating an untenable working situation. This results in service declines and [[CREATES Project|CREATES]] chaos within systems. As the public outcry grows, ‘limited’ privatization is proposed, in the name of rescuing systems in crisis, more choice, and better ‘value for money’. In this manner, neoliberal governments slowly recuse themselves financially from responsibility to the public sphere.”*
 
@@ -276,7 +276,7 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]] — 结合新西兰公共教育市场化改制、企业财报与词频统计，系统解构了《[[Visible Learning|可见的学习]]》如何充当 GERM 的政治经济工具与财政紧缩挡箭牌（pp. 23–41）。
+> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 结合新西兰公共教育市场化改制、企业财报与词频统计，系统解构了《[[Visible Learning|可见的学习]]》如何充当 GERM 的政治经济工具与财政紧缩挡箭牌（pp. 23–41）。
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — [[Systematic Review|系统综述]]了 [[PISA]] 如何作为 GERM 的核心驱动力运作，揭示了 PISA 在宏观、中观与微观三层决策上推动 GERM 全球扩散的具体机制和国别案例。
 > - [[Victorian HITS and Literacy Toolkit]] — 澳大利亚维多利亚州教育部推行 10 项标准化教学策略并实施白板检查，展现了 GERM 在地方教育系统中的技术官僚控制。
 > - [[No Child Left Behind Act 2001]] — 引入高利害标准化测试与惩罚性问责的美国联邦立法，构成 GERM 在北美的标志性实践。

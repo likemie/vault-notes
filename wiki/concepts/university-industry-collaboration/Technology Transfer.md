@@ -89,7 +89,7 @@ related_arguments:
   - "[[Argument_Mody_2017_MOH]]"
   - "[[Argument_Block_2008_PS]]"
   - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
-  - "[[Argument_Glitz_2020_AER]]"
+  - "[[Argument_Glitz_2020_AmEconRev]]"
   - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
 confidence: high
 status: active
@@ -284,7 +284,7 @@ updated: 2026-10-16
 
 > [!critique] 外部批评
 > - **大学“[[Academic Capitalism|学术资本主义]]”异化批评** 批评者指出高校对专利许可收益和版税分成的过度追逐，扭曲了大学作为公共知识灯塔的崇高使命，诱发利益冲突、科研保密增加以及本科基础教学被边缘化。[[Argument_Gilison_Wilson_2025_UniversityStartups|(Gilison & Wilson, 2025, p. 144)]]
-> - **跨国技术转移的非法情报与安全摩擦** 国家间技术转移并不完全通过公开透明的市场与法定渠道进行；冷战时期的大规模工业间谍活动证实了非正式秘密转移的客观存在，而在当代地缘政治竞争中，跨国技术转移日益面临更严苛的[[Research Security|科研安全]]审查与合规摩擦。[[Argument_Glitz_2020_AER|(Glitz & Meyersson, 2020, pp. 1056, 1096)]]
+> - **跨国技术转移的非法情报与安全摩擦** 国家间技术转移并不完全通过公开透明的市场与法定渠道进行；冷战时期的大规模工业间谍活动证实了非正式秘密转移的客观存在，而在当代地缘政治竞争中，跨国技术转移日益面临更严苛的[[Research Security|科研安全]]审查与合规摩擦。[[Argument_Glitz_2020_AmEconRev|(Glitz & Meyersson, 2020, pp. 1056, 1096)]]
 
 > [!warning] 适用局限
 > 技术转移制度框架在很大程度上建立在发达经济体完善的产权法治与风险投资市场环境之上；在制度环境不健全或[[Absorptive Capacity|吸收能力]]薄弱的发展中地区，单纯复制[[Bayh-Dole Act of 1980|拜杜法案]]往往无法激活产业需求，反而导致高校专利大量沉睡闲置。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, p. 44)]]
@@ -298,7 +298,7 @@ updated: 2026-10-16
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Glitz_2020_AER\|Glitz and Meyersson (2020)]] | 1970–1989年东德斯塔西（Stasi）在西方针对37个工业部门收集的情报 | 历史计量与[[Fixed-Effect Model\|固定效应]]面板回归 | 科技间谍情报数与[[Total Factor Productivity\|全要素生产率]]（TFP）差距 | 斯塔西累计收集 189,725 条科技情报，显著缩小了两德行业 TFP 差距 | $p < 0.01$ | 揭示非法/秘密技术转移渠道对吸收能力较强的追赶国产业的技术追赶效应 |
+> | [[Argument_Glitz_2020_AmEconRev\|Glitz and Meyersson (2020)]] | 1970–1989年东德斯塔西（Stasi）在西方针对37个工业部门收集的情报 | 历史计量与[[Fixed-Effect Model\|固定效应]]面板回归 | 科技间谍情报数与[[Total Factor Productivity\|全要素生产率]]（TFP）差距 | 斯塔西累计收集 189,725 条科技情报，显著缩小了两德行业 TFP 差距 | $p < 0.01$ | 揭示非法/秘密技术转移渠道对吸收能力较强的追赶国产业的技术追赶效应 |
 > | [[Argument_Susalka_Carbone_2025_IP_Web\|Susalka and Carbone (2025)]] | 2023年美国全美大学[[University-Industry Collaboration\|产学合作]]资助与技术转移 | 行业统计调查（AUTM） | 产学合作研究资助总额与联邦资助份额演变 | 2023年全美产学合作科研资助超 71 亿美元；联邦资助占大学研发支出比例由 1991 年约 70% 降至 2021 年不足 60% | — | 说明大学研发资金来源多元化趋势以及正式技术转移合同谈判在财务上的关键权重 |
 > | [[Argument_Mody_2017_MOH\|Mody (2017)]] | 1970–1990 年代美国微电子产学中心（[[Silicon Structures Project\|SSP]]、[[National Research and Resource Facility for Submicron Structures\|NRRFSS]]、CIS）与生物医疗跨界转化 | 历史档案考证与比较[[Process Tracing\|过程追踪]] | 外部用户占比、咨询辐射机构数与跨界专利许可成效 | 康奈尔 NRRFSS 外部用户达 60%（12% 工业界），为 40 余家机构提供微细加工建设咨询；基因枪成为康奈尔史上最高额专利版税技术转移；斯坦福 CIS 孵化出 Affymetrix DNA 微阵列芯片 | 定性历史档案证据分析 | 适用于重资产微纳加工平台型技术转移与向生命科学跨界转化情境 |
 
@@ -312,7 +312,7 @@ updated: 2026-10-16
 > - [[Argument_Susalka_Carbone_2025_IP_Web|Susalka and Carbone (2025)]] — 详尽剖析大学[[University-Industry Collaboration|产学合作]]合同中的知识产权条款谈判、[[Freedom to Operate|自由实施权]]规制与发表延迟纠纷防范。
 > - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] — 梳理大学-产业技术转移从早期线性许可到现代广义[[Knowledge Exchange|知识交流]]的历史演变与国际制度差异。
 > - [[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison and Wilson (2025)]] — 剖析[[Sponsored Research Agreement|赞助研究协议]]中企业知识产权捆绑对[[University Spin-Out|大学衍生企业]]形成的“创业毒丸”效应与治理约束。
-> - [[Argument_Glitz_2020_AER|Glitz and Meyersson (2020)]] — 利用东德历史档案实证评估跨国技术转移中的工业间谍机制对行业[[Total Factor Productivity|全要素生产率]]的深远影响。
+> - [[Argument_Glitz_2020_AmEconRev|Glitz and Meyersson (2020)]] — 利用东德历史档案实证评估跨国技术转移中的工业间谍机制对行业[[Total Factor Productivity|全要素生产率]]的深远影响。
 > - [[Argument_OxfordUIDP_2019_UIPartnerships|Oxford and UIDP (2019)]] — 审查英、美、欧等国家在技术转移宏观度量与监管障碍清除方面的政策创新实践。
 > - [[Argument_Mody_2017_MOH|Mody (2017)]] — 从管理史视阈剖析微电子学术中心与产业联合体通过驻场研究员、国家开放设施咨询及多学科生态完成的平台型技术转移与跨界二次再造。
 

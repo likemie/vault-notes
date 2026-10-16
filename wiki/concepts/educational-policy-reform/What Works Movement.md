@@ -83,7 +83,7 @@ related_persons:
 related_arguments:
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Skourdoumbis_2024_AER]]"
-  - "[[Argument_Slavin_2019_EP]]"
+  - "[[Argument_Slavin_2019_EducPsychol]]"
   - "[[Argument_Wadhwa_2024_RER]]"
 confidence: high
 status: active
@@ -167,8 +167,8 @@ updated: 2026-10-16
 > [!concept-lens] 政策正当性与[[Causality\|因果推断]]
 > 循证运动主张，公共教育开支不应依附于政治偏好或未经检验的商业炒作，[[Counterfactual\|反事实]]因果设计是评估干预成效与保障[[Return on Investment\|投资回报]]的伦理基石。
 
-> [!claim] [[Argument_Slavin_2019_EP\|Slavin (2019)]]
-> **循证标准的法定化与投资重塑** 将严密科学研究证据写入教育法案（如美国《不让一个孩子掉队法》[[No Child Left Behind Act 2001\|NCLB]] 及《每一个学生成功法》ESSA），打破了教育界长期存在的“经验自负”。只有具备高安全等级因果证据的项目才能获得最高阶联邦资金支持，从而驱动教育研发从虚构理论转向扎实的实证迭代（[[Argument_Slavin_2019_EP\|Slavin, 2019, pp. 175–178]]）。
+> [!claim] [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]]
+> **循证标准的法定化与投资重塑** 将严密科学研究证据写入教育法案（如美国《不让一个孩子掉队法》[[No Child Left Behind Act 2001\|NCLB]] 及《每一个学生成功法》ESSA），打破了教育界长期存在的“经验自负”。只有具备高安全等级因果证据的项目才能获得最高阶联邦资金支持，从而驱动教育研发从虚构理论转向扎实的实证迭代（[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019, pp. 175–178]]）。
 
 ---
 
@@ -268,7 +268,7 @@ updated: 2026-10-16
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]] — 英国 [[Education Endowment Foundation\|EEF]] 评估决策者回顾十年循证试验治理历程，总结三方协议、[[Implementation and Process Evaluation\|IPE]] 绑定、客观统考及“证明无效”的重大价值。
 > - [[Argument_Skourdoumbis_2024_AER\|Skourdoumbis & Rowe, 2024]] — 深度审思澳大利亚 [[Australian Education Research Organisation\|AERO]] 与英美循证运动的技术治理逻辑，揭示私人资本合谋与[[Teacher Professional Agency\|教师专业自主权]]受抑的困境。
-> - [[Argument_Slavin_2019_EP\|Slavin, 2019]] — 梳理美国 [[Every Student Succeeds Act\|ESSA]] 时代[[Evidence Standards\|证据标准]]的建立过程，辩护循证改革对提升全校改进项目实证水平的驱动作用。
+> - [[Argument_Slavin_2019_EducPsychol\|Slavin, 2019]] — 梳理美国 [[Every Student Succeeds Act\|ESSA]] 时代[[Evidence Standards\|证据标准]]的建立过程，辩护循证改革对提升全校改进项目实证水平的驱动作用。
 > - [[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024]] — 元评估跨国循证清算中心在[[Evaluator Independence\|评估者独立性]]上的规约差异，揭示自评偏倚对循证推荐的扭曲。
 
 

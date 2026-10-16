@@ -77,7 +77,7 @@ related_arguments:
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Wadhwa_2024_RER]]"
   - "[[Argument_Song_Choi_2026_FPSYG]]"
-  - "[[Argument_Slavin_2019_EP]]"
+  - "[[Argument_Slavin_2019_EducPsychol]]"
 confidence: high
 status: active
 created: 2026-09-15
@@ -282,5 +282,5 @@ updated: 2026-10-16
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 肖（ZhiMin Xiao）等对 17 项 [[Education Endowment Foundation\|EEF]] 试验做多层模型复算，证明 HLM 校正集群效应不可替代，推动《EEF 评估统计分析指南》（2018）出台。
 > - [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] — 批评了[[International Education\|国际教育]]证据清算机构忽视[[Cluster Randomized Trials\|集群随机试验]]中的 HLM 与 [[Intraclass Correlation Coefficient\|ICC]] 校正，指出未做多层校正会导致[[Standard Error\|标准误]]严重低估与虚假显著性。
 > - [[Argument_Song_Choi_2026_FPSYG\|Song and Choi (2026)]] — 运用三层多层线性模型架构将[[Meta-analysis\|元分析]]总变异分解为[[Sampling Error\|抽样误差]]、研究内[[Effect Size\|效应量]]变异与[[Heterogeneity\|研究间异质性]]三层方差。
-> - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 论证学校层级干预必须强制采用 HLM 进行[[Cluster Analysis\|聚类分析]]，阐明纳入 40–50 所学校的多层试验在消除聚类假阳性（[[Internal Validity\|内部效度]]）的同时大幅平滑了单个学校异质性（[[External Validity\|外部效度]]）。
+> - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 论证学校层级干预必须强制采用 HLM 进行[[Cluster Analysis\|聚类分析]]，阐明纳入 40–50 所学校的多层试验在消除聚类假阳性（[[Internal Validity\|内部效度]]）的同时大幅平滑了单个学校异质性（[[External Validity\|外部效度]]）。
 

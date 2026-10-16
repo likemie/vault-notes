@@ -53,7 +53,7 @@ related_facts:
   - "[[National Dropout Prevention Center]]"
   - "[[Every Student Succeeds Act]]"
 related_arguments:
-  - "[[Argument_Serpell_2020_EP]]"
+  - "[[Argument_Serpell_2020_EducPsychol]]"
   - "[[Argument_Zhao_2017_JEC]]"
   - "[[Argument_Wadhwa_2024_RER]]"
   - "[[Argument_Hattie_2005_ACER]]"
@@ -70,7 +70,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> 学业流失（Academic [[Attrition]]），亦称**学生流失（Student Attrition）** 或**学业脱落**，是指注册在读的学生在完成法定学段、达到毕业标准或获取既定学位之前，非自愿（如遭学校停课、开除劝退或行政推挤）或自愿（如因学业挫败、经济压力、家庭变故或心理脱嵌主动辍学）过早离开正规教育系统并中断学业的实质性教育现象。该指标是衡量教育系统公平性、学生留存率（Student Retention）以及制度包容性的关键逆向评价指标。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 45)]]; [[Argument_Zhao_2017_JEC\|(Zhao, 2017, pp. 13–15)]]
+> 学业流失（Academic [[Attrition]]），亦称**学生流失（Student Attrition）** 或**学业脱落**，是指注册在读的学生在完成法定学段、达到毕业标准或获取既定学位之前，非自愿（如遭学校停课、开除劝退或行政推挤）或自愿（如因学业挫败、经济压力、家庭变故或心理脱嵌主动辍学）过早离开正规教育系统并中断学业的实质性教育现象。该指标是衡量教育系统公平性、学生留存率（Student Retention）以及制度包容性的关键逆向评价指标。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 45)]]; [[Argument_Zhao_2017_JEC\|(Zhao, 2017, pp. 13–15)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向真实受教育者与学校机构之间教育关系的实质性破裂与过早中断。
@@ -78,7 +78,7 @@ updated: 2026-10-16
 > - **边界** 严格区别于方法学层面的实验样本流失（Experimental Attrition / Sample Attrition）；亦不同于因未达升学标准而在校继续留读的学业[[Grade Retention\|留级]]（Grade Retention）。
 
 > [!citation-card] 排斥性管教政策对学生流失的催化效应
-> [[Russell J. Skiba\|斯基巴]]（Russell J. Skiba）向国会委员会呈递的实证数据揭示了非裔学生在校园中面临着严重不成比例的管教处分，力证零容忍纪律政策不仅未能提升校园安全，反而显著加剧了学生的学业流失（student attrition），并将弱势青少年进一步推向司法卷入边缘。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 45)]]
+> [[Russell J. Skiba\|斯基巴]]（Russell J. Skiba）向国会委员会呈递的实证数据揭示了非裔学生在校园中面临着严重不成比例的管教处分，力证零容忍纪律政策不仅未能提升校园安全，反而显著加剧了学生的学业流失（student attrition），并将弱势青少年进一步推向司法卷入边缘。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 45)]]
 >
 > *Skiba presented data on the disproportionate discipline of Black students in schools, providing evidence that zero tolerance disciplinary policies do not improve school safety and actually increase student attrition.*
 
@@ -105,7 +105,7 @@ updated: 2026-10-16
 ## 核心要素
 
 > [!feature] 核心要素
-> - **制度性惩戒推挤（Exclusionary Pushout）** 学校将校规处置机械泛化为停课、转学与开除等排斥性管教措施，直接剥夺在读机会并将学生推入“学校到监狱管道”。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 45)]]
+> - **制度性惩戒推挤（Exclusionary Pushout）** 学校将校规处置机械泛化为停课、转学与开除等排斥性管教措施，直接剥夺在读机会并将学生推入“学校到监狱管道”。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 45)]]
 > - **问责压力下的生源筛选（Accountability-Induced Cream-Skimming）** 在外部高风险达标重压下，部分学校通过提高缺勤门槛或劝退后进生以保全整体测试达标率。[[Argument_Zhao_2017_JEC\|(Zhao, 2017, p. 15)]]
 > - **多维早期预警表征（ABC Early Warning Indicators）** 缺勤率（Attendance）、行为处分（Behavior）与基础学科不及格门数（Course Performance）构成判定学生学业脱落的核心前瞻表征。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, p. 223)]]
 > - **[[Grade Retention\|留级]]污名化催化（Retention-Induced Alienation）** 遭受学业留级的学生因生理年龄与同伴脱节及社会学标签效应，其后续完全脱离学校的概率成倍上升。[[Argument_Hattie_2005_ACER\|(Hattie, 2005, p. 12)]]
@@ -147,7 +147,7 @@ updated: 2026-10-16
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **惩戒推挤异化命题** | 零容忍排斥性惩戒并未增进校园安全，反而系统性加速边缘族裔学生的学业流失 | 校园安全治理、惩戒规程修订、国会立法听证 | [[Argument_Serpell_2020_EP\|Serpell (2020, p. 45)]]; Skiba (2014) |
+> | **惩戒推挤异化命题** | 零容忍排斥性惩戒并未增进校园安全，反而系统性加速边缘族裔学生的学业流失 | 校园安全治理、惩戒规程修订、国会立法听证 | [[Argument_Serpell_2020_EducPsychol\|Serpell (2020, p. 45)]]; Skiba (2014) |
 > | **问责逆向淘汰命题** | 高利害问责指标倒逼学校制度化排斥后进生以维护达标率，推高隐性学业流失 | 联邦及州绩效问责评估、学校评价体系重构 | [[Argument_Zhao_2017_JEC\|Zhao (2017, pp. 13–15)]] |
 > | **[[Grade Retention\|留级]]负向催化命题** | 学业留级惩戒破坏了学生的同伴纽带与[[Self-Efficacy\|自我效能感]]，是中途辍学最强烈的预测源 | K–12 留级政策制定、早期阅读法案审查 | [[Argument_Hattie_2005_ACER\|Hattie (2005, p. 12)]]; Jimerson (2001) |
 > | **多元留存干预命题** | 基于预警大数据的综合干预与导师连接能显著阻断学业脱落进程 | 区域教育治理、预防辍学中心运营、循证项目采纳 | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024, pp. 223, 263)]] |
@@ -160,7 +160,7 @@ updated: 2026-10-16
 > 探讨机械性刚性惩戒（停课、开除）对校园整体生态与被惩戒群体学业轨迹产生的因果后果。
 
 > [!claim] Skiba, R. J. & [[Zewelanji N. Serpell\|Serpell, Z. N.]]
-> **零容忍政策的反噬与结构性推挤** [[Russell J. Skiba\|拉塞尔·斯基巴]]（Russell J. Skiba）与泽韦兰吉·N·塞佩尔（Zewelanji N. Serpell, 2020）基于大量全国性实证数据论证指出，将刑事司法逻辑照搬至校园的“零容忍”排斥性纪律处分，不仅未能如立法者预期那样威慑不良行为或净化校园环境，反而呈现显著的种族与阶层不成比例性；非裔与残障学生因主观界定轻微违规而遭受停课开除的概率远高于白人同伴。这种排斥性管教强行斩断了学生与课堂教学的常态接触，剥夺了其受教育机会，直接加速了弱势青少年的学业流失（student [[Attrition]]），成为将青年推入刑事司法系统的“学校到监狱管道”的核心制度诱因。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 45)]]
+> **零容忍政策的反噬与结构性推挤** [[Russell J. Skiba\|拉塞尔·斯基巴]]（Russell J. Skiba）与泽韦兰吉·N·塞佩尔（Zewelanji N. Serpell, 2020）基于大量全国性实证数据论证指出，将刑事司法逻辑照搬至校园的“零容忍”排斥性纪律处分，不仅未能如立法者预期那样威慑不良行为或净化校园环境，反而呈现显著的种族与阶层不成比例性；非裔与残障学生因主观界定轻微违规而遭受停课开除的概率远高于白人同伴。这种排斥性管教强行斩断了学生与课堂教学的常态接触，剥夺了其受教育机会，直接加速了弱势青少年的学业流失（student [[Attrition]]），成为将青年推入刑事司法系统的“学校到监狱管道”的核心制度诱因。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 45)]]
 
 ---
 

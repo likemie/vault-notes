@@ -70,7 +70,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Wadhwa_2024_RER]]"
-  - "[[Argument_Slavin_2019_EP]]"
+  - "[[Argument_Slavin_2019_EducPsychol]]"
   - "[[Argument_Slavin_2002_ER]]"
 confidence: high
 status: active
@@ -106,7 +106,7 @@ updated: 2026-10-16
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
 > - **认识论取向** 承认学校教育系统具有嵌套性（Nested Structure）与生态学特征，认为将学生个体从其所属班级与同伴生态中生硬剥离[[Random Assignment\|随机分配]]是不切实际的还原主义。
-> - **内部因果效度与外部概化力双重保障** 批评者常担忧实验结论无法跨情境推广（[[Threats to External Validity\|外部效度威胁]]）。[[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin）指出，现代方法学要求必须在集群层级开展多层建模（[[Hierarchical Linear Model\|HLM]]）以消除忽略 [[Intraclass Correlation Coefficient\|ICC]] 造成的假阳性，这通常迫使研究必须招募 **40 至 50 所学校（如 25 所实验校 vs 25 所对照校）** 以满足统计功效。这种大样本学校池的随机分配在技术上产生了一个关键附带收益：个别学校的极端背景（如卓越校长或异常骨干师资）被有效平滑与平均化，使得实验样本具备高度的宏观代表性，从而在捍卫[[Internal Validity\|内部效度]]的同时有力确立了[[External Validity\|外部效度]]（概化力）。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 8, 10)]]
+> - **内部因果效度与外部概化力双重保障** 批评者常担忧实验结论无法跨情境推广（[[Threats to External Validity\|外部效度威胁]]）。[[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin）指出，现代方法学要求必须在集群层级开展多层建模（[[Hierarchical Linear Model\|HLM]]）以消除忽略 [[Intraclass Correlation Coefficient\|ICC]] 造成的假阳性，这通常迫使研究必须招募 **40 至 50 所学校（如 25 所实验校 vs 25 所对照校）** 以满足统计功效。这种大样本学校池的随机分配在技术上产生了一个关键附带收益：个别学校的极端背景（如卓越校长或异常骨干师资）被有效平滑与平均化，使得实验样本具备高度的宏观代表性，从而在捍卫[[Internal Validity\|内部效度]]的同时有力确立了[[External Validity\|外部效度]]（概化力）。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 8, 10)]]
 > - **统计功效代价** 相同[[Sample Size Determination\|样本量]]下，集群 [[Randomised Controlled Trials\|RCT]] 的统计功效（Statistical Power）远低于个体级 RCT。决定检验力高低的关键在于**集群数量（Number of Clusters, $K$）**，而非集群内的学生个体数（$m$）。
 
 > [!method-stack] 方法层级
@@ -200,4 +200,4 @@ updated: 2026-10-16
 > - [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] — 详析集群处理在 12 所清算中心审查中的系统性分化，揭示未校正 [[Intraclass Correlation Coefficient\|ICC]] 与[[Unit of Analysis\|分析单位]]错位是导致虚假显著性评级的核心技术根源(pp. 8–11)。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al. (2011)]] — 阐释班级与学校层面的集群[[Random Assignment\|随机分配]]操作逻辑、组织污染防范及与准实验的转化界限(Ch. 16, pp. 316–318)。
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 规范群组随机分配在教育现场实验中的研究设计程序与多层数据收集要求(Ch. 8, p. 1327)。
-> - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 论证大样本（40–50 所学校）集群随机分配配合 [[Hierarchical Linear Model\|HLM]] 分析如何有效消除假阳性偏倚，同时通过学校池均质化提升外部概化力，实现内部与[[External Validity\|外部效度]]的技术统一(pp. 8, 10)。
+> - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 论证大样本（40–50 所学校）集群随机分配配合 [[Hierarchical Linear Model\|HLM]] 分析如何有效消除假阳性偏倚，同时通过学校池均质化提升外部概化力，实现内部与[[External Validity\|外部效度]]的技术统一(pp. 8, 10)。

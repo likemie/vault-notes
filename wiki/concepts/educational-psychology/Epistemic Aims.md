@@ -54,7 +54,7 @@ related_methods:
 related_persons:
   - "[[Clark A. Chinn]]"
 related_arguments:
-  - "[[Argument_Chinn_2011_EP]]"
+  - "[[Argument_Chinn_2011_EducPsychol]]"
   - "[[Argument_Duncan_2025_CI]]"
   - "[[Argument_Cartiff_2021_JEP]]"
   - "[[Argument_Naeem_2026_Episteme]]"
@@ -71,7 +71,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> [[Epistemology\|认识论]]目标（Epistemic Aims）是个体或共同体在探究、发现事物以及形成信念过程中所采纳的、指引具体认知活动并追求特定认识成就（epistemic achievements，如真理、深层因果理解或经验模型）的意图与目标。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011, p. 142)]]; [[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 206–207)]]
+> [[Epistemology\|认识论]]目标（Epistemic Aims）是个体或共同体在探究、发现事物以及形成信念过程中所采纳的、指引具体认知活动并追求特定认识成就（epistemic achievements，如真理、深层因果理解或经验模型）的意图与目标。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, p. 142)]]; [[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 206–207)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 个体在认知活动中所追求的终极认识产出状态，包括获取真实信念、把握深层机制理解、产出高可信科学论证或仅仅满足于应对测试的最低限度记忆。
@@ -104,10 +104,10 @@ updated: 2026-10-16
 ## 核心要素
 
 > [!feature] 核心[[Epistemology\|认识论]]目标与成就类型
-> - **真理与避错（Truth and Error Avoidance）** 追求获取真实或高度接近真实的信念，表现为注重保守谨慎以规避错误的防御倾向，或承担试错成本以获取重大真理的探索倾向。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011, pp. 143–144)]]
-> - **深层因果理解与解释（Deep Understanding and Explanation）** 把握系统内部的因果连接、机制构造与解释逻辑，而非孤立事实的机械识记。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011, p. 144)]]
+> - **真理与避错（Truth and Error Avoidance）** 追求获取真实或高度接近真实的信念，表现为注重保守谨慎以规避错误的防御倾向，或承担试错成本以获取重大真理的探索倾向。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, pp. 143–144)]]
+> - **深层因果理解与解释（Deep Understanding and Explanation）** 把握系统内部的因果连接、机制构造与解释逻辑，而非孤立事实的机械识记。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, p. 144)]]
 > - **广义认识成就（Expanded Epistemic Achievements）** 建构因果预测模型、评估多源经验证据的合法性、识别反例以及撰写具备因果确证力的论证。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 206–207)]]
-> - **情境特异性（Context Specificity）** 同一个体在不同任务情境下激活截然不同的认识目标（如在专业科研中追求深层机制理解，在应试冲刺中降级为最低限度记忆）。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011, p. 147)]]
+> - **情境特异性（Context Specificity）** 同一个体在不同任务情境下激活截然不同的认识目标（如在专业科研中追求深层机制理解，在应试冲刺中降级为最低限度记忆）。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, p. 147)]]
 
 > [!logic-map]- 认识目标在认知架构中的层级与导向作用
 > ```mermaid
@@ -134,7 +134,7 @@ updated: 2026-10-16
 > 解释为何持有相同[[Epistemological Beliefs\|认识论信念]]的学习者在实际任务中展现出完全相悖的探究行为，确立目标对认知策略的决定性。
 
 > [!claim] [[Clark A. Chinn\|Chinn, C. A.]] et al.
-> **目标调控策略选取** 单纯测量学习者关于知识复杂性的抽象信念无法可靠预测其实际学习行为。即便学习者深信知识具备高度复杂性，若其当下的认识目标仅为通过考试，机械背诵依然会被作为首选策略；若其感知深层理解的认知成本过高，亦会主动放弃深层探究。唯有将认识目标与[[Epistemic Value\|认识价值]]作为首要构件纳入模型，才能准确预测个体何时采纳深层对比或表层应试策略。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011, pp. 147–148)]]
+> **目标调控策略选取** 单纯测量学习者关于知识复杂性的抽象信念无法可靠预测其实际学习行为。即便学习者深信知识具备高度复杂性，若其当下的认识目标仅为通过考试，机械背诵依然会被作为首选策略；若其感知深层理解的认知成本过高，亦会主动放弃深层探究。唯有将认识目标与[[Epistemic Value\|认识价值]]作为首要构件纳入模型，才能准确预测个体何时采纳深层对比或表层应试策略。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, pp. 147–148)]]
 
 ---
 
@@ -184,7 +184,7 @@ updated: 2026-10-16
 
 > [!dev-timeline] 概念演变
 > - **1986–2003 — 哲学[[Epistemology\|认识论]]奠基** Goldman (1986) 与 Kvanvig (2003) 阐述认识论的核心是达成真理与深层理解等认识成就，奠定了认识论目标的规范哲学底座。
-> - **2011 — 扩展[[Epistemic Cognition\|认识论认知]]首要构件** Chinn 等学者将认识目标确立为扩展认识论认知五构件的第一组件，用以划定认识论认知与非认识论倾向的边界。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011)]]
+> - **2011 — 扩展[[Epistemic Cognition\|认识论认知]]首要构件** Chinn 等学者将认识目标确立为扩展认识论认知五构件的第一组件，用以划定认识论认知与非认识论倾向的边界。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011)]]
 > - **2014 — [[AIR Model of Epistemic Cognition\|AIR]] 理论模型核心支柱** Chinn, Rinehart & Buckland 提出 AIR 模型，将认识目标（Aims）与理想（Ideals）、[[Reliable Epistemic Processes\|可靠过程]]（Reliable Processes）整合为三元微观动态网络。
 > - **2021 — 任务对齐与因果干预效应的量化确立** [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 通过[[Meta-analysis\|元分析]][[Interaction Effect\|调节效应]]检验，量化证实了任务认识目标与评价测验对齐在调节认识论干预成效中的关键机制。
 > - **2025 — 广义认识成就与论证实践拓展** Duncan & Chinn 将认识目标系统拓展至科学建模、证据评估与论证产出等[[Authentic Science Practices|真实科学实践]]范畴。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025)]]
@@ -196,7 +196,7 @@ updated: 2026-10-16
 
 > [!tension] 核心张力：求真目标还是胜任功利目标？
 > - **[[Epistemology\|认识论]]纯粹论（蓝方）** 坚持认识目标必须直接锁定在获取真理、消除误解与因果机制理解等纯粹认识成就上，排除外部功利干扰。
-> - **[[Pragmatic Paradigm\|实用主义]]整合论（红方）** 指出在学校教育真实情境中，求真目标不可避免地与外部评价、[[Academic Achievement\|学业成绩]]及同伴认同等社会动机深度交织，难以孤立剥离。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011)]]
+> - **[[Pragmatic Paradigm\|实用主义]]整合论（红方）** 指出在学校教育真实情境中，求真目标不可避免地与外部评价、[[Academic Achievement\|学业成绩]]及同伴认同等社会动机深度交织，难以孤立剥离。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011)]]
 
 > [!warning] 适用局限
 > - **教学任务预设导致目标变异缺失** 在多数结构化科学探究实验中，认识目标常由教材或教师直接硬性下达（如“在模型A与模型B之间进行裁决”），使得研究者难以独立观测学习者自发展开的目标设定与动态调整过程。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, p. 208)]]
@@ -218,7 +218,7 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Chinn_2011_EP\|Chinn et al. (2011)]] — 系统论证认识目标作为[[Epistemic Cognition\|认识论认知]]首要构件的必然性，揭示其在解释同信念不同行为中的关键中介作用。
+> - [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] — 系统论证认识目标作为[[Epistemic Cognition\|认识论认知]]首要构件的必然性，揭示其在解释同信念不同行为中的关键中介作用。
 > - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 在 [[AIR Model of Epistemic Cognition\|AIR]] 模型下将认识目标拓展为包含模型建构与证据评估的广义认识成就，奠定科学论证评价体系。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 认识论认知干预因果[[Meta-analysis\|元分析]]，实证证实了[[Epistemology\|认识论]]干预对指向深层理解与高阶论证的认识目标具有显著促进效应，并量化揭示了测验目标对齐的调节机制。
 > - [[Argument_Naeem_2026_Episteme\|Naeem (2026)]] — 立足[[Virtue Epistemology|美德认识论]]提出教育的三重认识论目标体系（内生机能、智力技能与理智品格），系统阐明生成式 AI 依赖引发的[[Cognitive Deskilling|去技能化]]危机对育人目标的侵蚀机制。

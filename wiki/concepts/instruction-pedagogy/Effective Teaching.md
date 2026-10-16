@@ -85,8 +85,8 @@ related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
 related_arguments:
   - "[[Argument_Laursen_2015_Paideia]]"
-  - "[[Argument_Slavin_2019_EP]]"
-  - "[[Argument_Johnson_2023_CE]]"
+  - "[[Argument_Slavin_2019_EducPsychol]]"
+  - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_WorldBank_2019_Teach]]"
   - "[[Argument_Cartiff_2021_JEP]]"
   - "[[Argument_Terhart_2011_JCS]]"
@@ -106,7 +106,7 @@ updated: 2026-10-16
 > [!def] 核心定义
 > 有效教学（Effective Teaching / God Undervisning）是一个旨在揭示高品质课堂教学通用规律的综合性概念，指教师通过明确领导、清晰目标、即时反馈、学习导向气氛以及与学生先验知识和认知前提的高度适配，从而最大化促进学生学科理解与学业成长的教学过程。[[Argument_Laursen_2015_Paideia|(Laursen, 2015, pp. 35–36)]]
 >
-> 有效教学的核心重心不在于单一教学法标签的优劣排名，而在于教学行为背后的质量条件：教学方法是否适配学科内容与目标、学生是否明晰学习路径与[[Success Criteria|成功标准]]，以及课堂是否兼具心理安全感与学术高挑战。在当代[[Evidence-Based Education|循证教育]]改革视野中，有效教学正经历从抽象通用原则向经过因果检验的具体课程方案与实施支架的实践[[Paradigm|范式]]转向。[[Argument_Laursen_2015_Paideia|(Laursen, 2015, pp. 35–40)]]; [[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 22–23)]]
+> 有效教学的核心重心不在于单一教学法标签的优劣排名，而在于教学行为背后的质量条件：教学方法是否适配学科内容与目标、学生是否明晰学习路径与[[Success Criteria|成功标准]]，以及课堂是否兼具心理安全感与学术高挑战。在当代[[Evidence-Based Education|循证教育]]改革视野中，有效教学正经历从抽象通用原则向经过因果检验的具体课程方案与实施支架的实践[[Paradigm|范式]]转向。[[Argument_Laursen_2015_Paideia|(Laursen, 2015, pp. 35–40)]]; [[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, pp. 22–23)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 概括跨学科、跨学段促进深度学习的课堂微观教学质量特征，强调教师作为主动激活者（Activator）与[[Scaffolding|认知脚手架]]搭建者的关键职能。
@@ -117,7 +117,7 @@ updated: 2026-10-16
 > - **不等于单一特定教学法（Specific Teaching Method）** 有效教学不是某套固定操作模版（如讲授法、小组合作或探究法）；[[Meta-analysis|元分析]]表明各类常见教学形式平均效应差异不大，关键在于实施中的质量特征与情境适配。
 > - **不等于可见学习项目（[[Visible Learning]]）** 可见学习是 [[John Hattie]] 基于元分析构建的特定实证品牌与商业推广体系；有效教学则是英美与[[Didaktik|欧陆教学论]]长期共同探索的广泛理论与实证范畴。
 > - **不等于抽象的有效性口号（[[Abstract]] Principles）** 仅宣讲促进[[Active Learning|主动学习]]、因材施教等抽象口号无法直接改善课堂，若无具体教材与培训支撑，原则极易沦为空谈。
-> - **不等于工业流水线式的标准化技术清单（Checklist Pedagogy）** 有效教学绝非外科手术缝合或流水线机械打卡般的标准操作规程；其核心关切在于在具体社区、特定学校与独特班级中建设有温度的学习共同体，依赖教师的情境化专业判断与伦理关怀。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 28–30)]]
+> - **不等于工业流水线式的标准化技术清单（Checklist Pedagogy）** 有效教学绝非外科手术缝合或流水线机械打卡般的标准操作规程；其核心关切在于在具体社区、特定学校与独特班级中建设有温度的学习共同体，依赖教师的情境化专业判断与伦理关怀。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–30)]]
 
 ---
 
@@ -200,7 +200,7 @@ updated: 2026-10-16
 > 仅向教师传播抽象的有效教学原则会因转化负担过重而失效，循证改革必须将有效原则内嵌于具体的教材、技术与培训方案中。
 
 > [!claim] [[Robert Slavin|Slavin, R.]] E.
-> **从抽象有效原则向具体经验证方案的[[Paradigm|范式]]转向** 长期以来，教育政策倾向于向学校推广有效教学的抽象原则（如[[Active Learning|主动学习]]、[[Formative Assessment|形成性评价]]、差异化教学），但一线教师在繁重工作中极难独立将其转化为成套的教案、练习与测评工具，导致尝试遭遇挫折后迅速回退至传统教条。真正的教育效能提升必须依托在真实课堂中经过[[Randomised Controlled Trials|随机对照试验]]（RCT）验证的具体课程方案与结构化干预（如 [[Success for All|SFA]]、[[Cooperative Integrated Reading and Composition|CIRC]]、[[Direct Instruction]]）。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 22–23)]]
+> **从抽象有效原则向具体经验证方案的[[Paradigm|范式]]转向** 长期以来，教育政策倾向于向学校推广有效教学的抽象原则（如[[Active Learning|主动学习]]、[[Formative Assessment|形成性评价]]、差异化教学），但一线教师在繁重工作中极难独立将其转化为成套的教案、练习与测评工具，导致尝试遭遇挫折后迅速回退至传统教条。真正的教育效能提升必须依托在真实课堂中经过[[Randomised Controlled Trials|随机对照试验]]（RCT）验证的具体课程方案与结构化干预（如 [[Success for All|SFA]]、[[Cooperative Integrated Reading and Composition|CIRC]]、[[Direct Instruction]]）。[[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, pp. 22–23)]]
 
 ---
 
@@ -210,7 +210,7 @@ updated: 2026-10-16
 > 围绕有效教学究系自上而下的标准化清单与外部监视操作，还是根植于特定社区与班级情境的人际伦理实践展开。
 
 > [!claim] Johnson & Janzen; Ball; Carnine
-> **清单化规训解构专业自主性与伦理育人内核** 以可见学习为代表的实证效能[[Discourse|话语]]，往往依托[[Neo-Taylorism|新泰勒主义]]工业管理逻辑，将有效教学规约为外显指标、标准化清单（如高影响力教学策略，[[Victorian HITS and Literacy Toolkit|HITS]]）与气压计式监控（源自 [[Assessment Tools for Teaching and Learning|asTTle]] 问责系统）。该取向援引保守派智库[[Thomas B. Fordham Institute|福特汉姆研究所]]学者（Carnine, 2000）的论调，将教师的[[Phronesis|实践智慧]]贬损为缺乏科学依据的战地传闻与轶事，把教学定性为不成熟职业，并极力将教学比附为外科手术缝合与高山救援打结等具备明确正误标准的机械技术工种。然而，教学的主要关切绝非标准化核查清单或操作规程，而是在具体社区、特定学校与差异化班级中，认真负责地建设具有深厚人际交往与伦理关怀的师生学习共同体。过度迷恋量化清单不仅无助于提升真实课堂质量，反而在公立学校诱发严重的[[Performativity|表演性]]危机与职业倦怠，使教师沦为听令行事的流水线操作工，削弱[[Teacher Professional Agency|教师专业自主权]]与执教热情，最终将学生异化为孤立的应试数据点。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 28–30)]]
+> **清单化规训解构专业自主性与伦理育人内核** 以可见学习为代表的实证效能[[Discourse|话语]]，往往依托[[Neo-Taylorism|新泰勒主义]]工业管理逻辑，将有效教学规约为外显指标、标准化清单（如高影响力教学策略，[[Victorian HITS and Literacy Toolkit|HITS]]）与气压计式监控（源自 [[Assessment Tools for Teaching and Learning|asTTle]] 问责系统）。该取向援引保守派智库[[Thomas B. Fordham Institute|福特汉姆研究所]]学者（Carnine, 2000）的论调，将教师的[[Phronesis|实践智慧]]贬损为缺乏科学依据的战地传闻与轶事，把教学定性为不成熟职业，并极力将教学比附为外科手术缝合与高山救援打结等具备明确正误标准的机械技术工种。然而，教学的主要关切绝非标准化核查清单或操作规程，而是在具体社区、特定学校与差异化班级中，认真负责地建设具有深厚人际交往与伦理关怀的师生学习共同体。过度迷恋量化清单不仅无助于提升真实课堂质量，反而在公立学校诱发严重的[[Performativity|表演性]]危机与职业倦怠，使教师沦为听令行事的流水线操作工，削弱[[Teacher Professional Agency|教师专业自主权]]与执教热情，最终将学生异化为孤立的应试数据点。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–30)]]
 
 ---
 
@@ -234,9 +234,9 @@ updated: 2026-10-16
 > - **2009 年 — 可见学习[[Meta-analysis|元分析]]综合（[[Visible Learning]]）** [[John Hattie]] 出版《可见学习》，综合 800+ 项元分析，提出教师作为主动激活者（$d = 0.60$）远优于促进者（$d = 0.17$）的论断。[[Argument_Laursen_2015_Paideia|(Laursen, 2015, p. 35)]]
 > - **2015 年 — 跨文化检验与社会背景调节深化** Per Fibæk Laursen 结合丹麦 [[Science Foundation Ireland|SFI]] 报告检验国际综合，揭示有效教学质量的跨文化普适性及学生社会背景对开放教学效果的深度调节。[[Argument_Laursen_2015_Paideia|(Laursen, 2015, pp. 38–40)]]
 > - **2019 年 — 跨国观察规程与社会情感整合（Teach 范式）** [[World Bank|世界银行]]发布 Teach [[Classroom Observation|课堂观察]]框架，针对低收入与中等收入国家确立了有效教学四维测量架构（在任务时间、课堂文化、教学指导、社会情感技能），推动有效教学评估从高收入国家传统工具向全球普适性田野规程拓展。[[Argument_WorldBank_2019_Teach|(World Bank Group, 2019)]]
-> - **2019 年至今 — 循证改革批判与具体方案转向** [[Robert Slavin]] 系统指出抽象通用原则的实践失效，倡导将有效教学内嵌于达到 [[Every Student Succeeds Act|ESSA]] 强[[Evidence Standards|证据标准]]的成套课程与干预产品中。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 22–23)]]
+> - **2019 年至今 — 循证改革批判与具体方案转向** [[Robert Slavin]] 系统指出抽象通用原则的实践失效，倡导将有效教学内嵌于达到 [[Every Student Succeeds Act|ESSA]] 强[[Evidence Standards|证据标准]]的成套课程与干预产品中。[[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, pp. 22–23)]]
 > - **2021 年 — [[Epistemology|认识论]]因果干预对有效教学核心要素的量化提炼** [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] 开展首个认识论教学元分析，实证确立了有效教学的四大循证支柱：显性[[Inquiry-Based Learning|指导式探究]]与[[Source Evaluation|信源评估]]的机制优势、1–4 周高浓度聚焦实施、[[Formative Assessment|形成性评价]]反馈撬动延时内化反弹，以及评价工具与深层[[Higher-Order Thinking Skills|高阶思维]]的精准对齐。
-> - **2023 年 — 批判性解构与关系型共同体反思** [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]] 系统解构了商业化有效教学运动（如 Visible Learning、[[Victorian HITS and Literacy Toolkit|HITS]]）的技术拜物教与[[Neo-Taylorism|新泰勒主义]]底色，揭示其将有效教学窄化为清单考核与监控工具对[[Teacher Professional Agency|教师专业自主权]]的侵蚀，重申有效教学的[[Ontology|本体论]]核心在于特定情境中师生人际关怀与伦理学习共同体的建构。
+> - **2023 年 — 批判性解构与关系型共同体反思** [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] 系统解构了商业化有效教学运动（如 Visible Learning、[[Victorian HITS and Literacy Toolkit|HITS]]）的技术拜物教与[[Neo-Taylorism|新泰勒主义]]底色，揭示其将有效教学窄化为清单考核与监控工具对[[Teacher Professional Agency|教师专业自主权]]的侵蚀，重申有效教学的[[Ontology|本体论]]核心在于特定情境中师生人际关怀与伦理学习共同体的建构。
 
 ---
 
@@ -247,14 +247,14 @@ updated: 2026-10-16
 > > [!axis] 技术化标准清单（[[Neo-Taylorism]]） vs 关系型学习共同体（Relational Ethics）
 > > 探讨有效教学应当被视为依据外部循证清单执行的标准化技术操作，还是立足微观情境的复杂人际伦理建构。
 > >
-> > - **技术控制派（Carnine, 2000; Hattie, 2009）** 主张教学应向外科手术与高山救援看齐，依据严格的循证清单（如 [[Victorian HITS and Literacy Toolkit|HITS]]）与气压计指标消除教师个体差异与不规范教学。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 28–29)]]
-> > - **关系伦理派（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]; Ball, 2003）** 强调教学的核心是在具体学校与社区建设充满信任的师生学习共同体，依赖教师的[[Professional Judgment|专业判断]]；强制推行标准化打卡清单会催生形式主义[[Performativity|表演性]]，损害教育的情感与民主价值。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 29–30)]]
+> > - **技术控制派（Carnine, 2000; Hattie, 2009）** 主张教学应向外科手术与高山救援看齐，依据严格的循证清单（如 [[Victorian HITS and Literacy Toolkit|HITS]]）与气压计指标消除教师个体差异与不规范教学。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 28–29)]]
+> > - **关系伦理派（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]; Ball, 2003）** 强调教学的核心是在具体学校与社区建设充满信任的师生学习共同体，依赖教师的[[Professional Judgment|专业判断]]；强制推行标准化打卡清单会催生形式主义[[Performativity|表演性]]，损害教育的情感与民主价值。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 29–30)]]
 >
 > > [!axis] 抽象教学通用原则 vs 结构化具体课程方案
 > > 探讨提升教育质量究竟应当依赖培训教师掌握通用教学原则，还是向学校提供经过实验验证的具体课程产品。
 > >
 > > - **原则派（Hattie, Meyer）** 强调教师是专业反思者，只要掌握目标、反馈与激活等通用原则，便能根据学情自主生成有效教学。
-> > - **方案派（Slavin）** 指出教师日常备课精力有限，要求教师自行转化抽象原则是不切实际的幻想，只有经验证的具体方案才能实现规模化托底。[[Argument_Slavin_2019_EP|(Slavin, 2019, pp. 22–23)]]
+> > - **方案派（Slavin）** 指出教师日常备课精力有限，要求教师自行转化抽象原则是不切实际的幻想，只有经验证的具体方案才能实现规模化托底。[[Argument_Slavin_2019_EducPsychol|(Slavin, 2019, pp. 22–23)]]
 >
 > > [!axis] 教师显性控制（Direct Leadership） vs 学生自主探究（Constructivism）
 > > 争论有效课堂应当以教师清晰讲授主导为主，还是以学生自组织探究为主。
@@ -291,9 +291,9 @@ updated: 2026-10-16
 > |---|---|---|---|---|---|
 > | [[SFI Report\|SFI 报告 (2015)]]，引自 [[Argument_Laursen_2015_Paideia\|Laursen (2015, pp. 37–38)]] | 丹麦全国公立中小学样本 | 大规模量化调查与毕业统考成绩回归分析 | [[Classroom Management\|课堂管理]]、清晰目标、高期望、差异化教学及开放教学 | 明确课堂管理、清晰目标和高学业要求与优异成绩显著正相关；教学差异化未显显著效应；开放教学效果显著受学生家庭 SES 调节 | 证实有效教学基本质量在北欧情境下的普适性与阶层调节特征 |
 > | Mehlbye (2004, 2010)，引自 [[Argument_Laursen_2015_Paideia\|Laursen (2015, pp. 38–39)]] | 丹麦高绩效学校追踪样本 | [[School Effectiveness\|学校效能]]案例对比与纵向质性/量化追踪 | [[School Leadership\|学校领导力]]、学业导向、测试频率与课堂规范 | 高绩效学校普遍具备高学业期待、严格课堂管理与频繁诊断性测试机制 | 确立了学校层面对有效教学实践的组织支撑规律 |
-> | [[Argument_Slavin_2019_EP\|Slavin (2019)]] | 全美中小学阅读与数学实证干预项目库 | 政策综述与[[Best Evidence Synthesis\|最佳证据综合]] | 抽象有效教学原则推广 vs 具体成套方案实施 | 单纯培训抽象有效原则极少在独立 RCT 中产生显著学业增益；而成套结构化方案（如 SFA $ES=+0.41$）产生稳健因果效应 | 确立了从抽象原则向具体实验验证方案转型的政策与实践依据 |
+> | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | 全美中小学阅读与数学实证干预项目库 | 政策综述与[[Best Evidence Synthesis\|最佳证据综合]] | 抽象有效教学原则推广 vs 具体成套方案实施 | 单纯培训抽象有效原则极少在独立 RCT 中产生显著学业增益；而成套结构化方案（如 SFA $ES=+0.41$）产生稳健因果效应 | 确立了从抽象原则向具体实验验证方案转型的政策与实践依据 |
 > | [[Argument_WorldBank_2019_Teach\|World Bank Group (2019)]] | 莫桑比克、巴基斯坦、菲律宾、乌拉圭四国课堂样本 | 大规模视频盲测[[Reliability\|信度]]检验与两段式观察回归分析 | 10 项核心教学要素、[[Inter-Rater Reliability\|评分者间信度]]、两段式测量方差捕捉率 | 评分者认证通过率达 74%–100%；两段式各 15 分钟连续观察可稳定捕捉教学效能方差，同时揭示[[Critical Thinking\|批判性思维]]普遍处于得分最低洼地 | 证实有效教学四维测量架构在跨语境低资源环境下的信度收敛与测量敏感度 |
-> | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]]（引自 Lilley, 2022; Wescott, 2022） | 澳大利亚维多利亚州公立中小学推行 [[Victorian HITS and Literacy Toolkit\|HITS]] 区域样本 | 批判性政策质性调查与文献核查 | [[Victorian HITS and Literacy Toolkit\|HITS]] 清单实施、形式主义板书打卡、[[Teacher Professional Agency\|教师专业自主权]] | 刚性推行有效教学策略清单导致教师必须在铃响前于白板抄写[[Learning Intentions\|学习意图]]，引发普遍的[[Performativity\|表演性]]应付，教师专业自主感与同行信任度显著下降 | 揭示将有效教学降格为标准化行政打卡清单对基层教学实践与教师心态的负面挤压效应 |
+> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]（引自 Lilley, 2022; Wescott, 2022） | 澳大利亚维多利亚州公立中小学推行 [[Victorian HITS and Literacy Toolkit\|HITS]] 区域样本 | 批判性政策质性调查与文献核查 | [[Victorian HITS and Literacy Toolkit\|HITS]] 清单实施、形式主义板书打卡、[[Teacher Professional Agency\|教师专业自主权]] | 刚性推行有效教学策略清单导致教师必须在铃响前于白板抄写[[Learning Intentions\|学习意图]]，引发普遍的[[Performativity\|表演性]]应付，教师专业自主感与同行信任度显著下降 | 揭示将有效教学降格为标准化行政打卡清单对基层教学实践与教师心态的负面挤压效应 |
 
 ---
 
@@ -305,12 +305,12 @@ updated: 2026-10-16
 > *Effective teaching is not about ranking specific teaching methods, but about the underlying quality conditions: clarity of goals, active teacher leadership, formative [[Feedback]], and adaptive support for diverse student prerequisites.*
 
 > [!citation-card] 教学的育人本质：关系型学习共同体建构超越技术清单
-> 教学的主要关切不在于核查清单或标准操作规程。教学在于在具体的班级、特定的学校与独特的社区中，认真负责地建设学习共同体。这是一项复杂的关系型挑战，需要广泛的人文与专业技能，这与医学核查清单、缝合伤口或打绳结几乎毫无共通之处。任何不当借用的医学研究术语、统计筛选或一厢情愿，都无法改变这一事实。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 29)]]
+> 教学的主要关切不在于核查清单或标准操作规程。教学在于在具体的班级、特定的学校与独特的社区中，认真负责地建设学习共同体。这是一项复杂的关系型挑战，需要广泛的人文与专业技能，这与医学核查清单、缝合伤口或打绳结几乎毫无共通之处。任何不当借用的医学研究术语、统计筛选或一厢情愿，都无法改变这一事实。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 29)]]
 >
 > *Teaching’s main concern is not to be found in checklists or standard operations. Teaching is about conscientiously building a learning community in a distinct classroom, in a unique school, in a particular neighborhood. This is a complex relational challenge, requiring a wide humanistic and technical skillset; with little in common with medical checklists, sutures, or knot tying. No amount of misplaced medical research terminology, statistical sifting, or wishful thinking can make it otherwise.*
 
 > [!citation-card] 伪科学方案对教师常识判断与有效教学的冲击
-> 物理学家理查德·费曼曾指出，许多本已形成有效教学方式的教师，在包装着科学光环的伪科学方案面前常感到无所适从，甚至怀疑自身的专业经验与常识直觉。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 34)]]
+> 物理学家理查德·费曼曾指出，许多本已形成有效教学方式的教师，在包装着科学光环的伪科学方案面前常感到无所适从，甚至怀疑自身的专业经验与常识直觉。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 34)]]
 >
 > *Feynman observed that many teachers who had already developed effective teaching methods were often left bewildered by pseudoscientific schemes cloaked in scientific authority, leading them to second-guess their own professional experience and common-sense intuition.*
 
@@ -320,11 +320,11 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Laursen_2015_Paideia|Laursen (2015)]] — 比较 Hattie、Meyer 与 Helmke 国际综合与丹麦 [[Science Foundation Ireland|SFI]] 报告，系统论证有效教学核心质量的普适性及其受学生社会背景的调节。
-> - [[Argument_Slavin_2019_EP|Slavin (2019)]] — 从循证改革与实施科学视角，批判抽象有效教学原则的实践困境，论证具体结构化方案对课堂质量提升的决定性支撑。
+> - [[Argument_Slavin_2019_EducPsychol|Slavin (2019)]] — 从循证改革与实施科学视角，批判抽象有效教学原则的实践困境，论证具体结构化方案对课堂质量提升的决定性支撑。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 对比英美实证有效教学[[Paradigm|范式]]与欧陆经典教学论（[[Didaktik]]）的[[Epistemology|认识论]]差异。
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 实证检验[[Direct Instruction|显性直接教学]]与情境探究融合对培养高阶[[Critical Thinking|批判性思维]]的最优效能。
 > - [[Argument_Cartiff_2021_JEP|Cartiff et al. (2021)]] — 开展认识论干预[[Meta-analysis|元分析]]，实证确立[[Inquiry-Based Learning|指导式探究]]与[[Source Evaluation|信源评估]]的机制优势、短周期高浓度教学特征与[[Formative Assessment|形成性评价]]反馈对[[Academic Achievement|学业成就]]的因果促进作用，提炼出有效教学的循证关键支柱。
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — 确立全球基础教育有效教学四维架构（在任务时间、课堂文化、教学指导、社会情感技能），提供跨国大样本[[Classroom Observation|课堂观察]]测量基准。
-> - [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]] — 从[[Neo-Taylorism|新泰勒主义]]批判与科学哲学视角，解构将有效教学降格为标准化清单与监控工具的技术[[Disciplina and Doctrina|规训]]弊端，论证有效教学作为情境化关系型学习共同体的伦理本质。
+> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 从[[Neo-Taylorism|新泰勒主义]]批判与科学哲学视角，解构将有效教学降格为标准化清单与监控工具的技术[[Disciplina and Doctrina|规训]]弊端，论证有效教学作为情境化关系型学习共同体的伦理本质。
 
 

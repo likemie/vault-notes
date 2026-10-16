@@ -76,7 +76,7 @@ related_facts:
   - "[[What Works Clearinghouse]]"
 related_arguments:
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
-  - "[[Argument_Nelson_2017_ER]]"
+  - "[[Argument_Nelson_2017_EducRes]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03]]"
   - "[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO]]"
 confidence: high
@@ -101,7 +101,7 @@ updated: 2026-10-16
 > 研究并非通过直接的“证据输入 $\rightarrow$ 决策产出”工程式闭环进入实践，而是沿着知识驱动、[[Problem Solving\|问题解决]]、持续互动、政治辩护、战术拖延、概念启蒙与社会智识涵育等多重路径展开；其中最深远的影响是通过“知识渗透”（knowledge creep）与“决策累积”（decision accretion）潜移默化地重塑实践者的概念视界与[[Problem Finding\|问题界定]]方式。[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, p. 3)]]
 
 > [!citation-card]- 关键表述
-> [[Research Utilization\|研究利用]]并不总是意味着做出具体决策时的直接依据。更常见的情况是，研究的概念和理论逐渐扩散并渗透到决策者的日常思考中，以缓慢而累积的方式重构他们理解问题、定义优先级与评价备选方案的整体智识地图。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 132)]]
+> [[Research Utilization\|研究利用]]并不总是意味着做出具体决策时的直接依据。更常见的情况是，研究的概念和理论逐渐扩散并渗透到决策者的日常思考中，以缓慢而累积的方式重构他们理解问题、定义优先级与评价备选方案的整体智识地图。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 132)]]
 >
 > *Research use is not a single, monolithic act of direct implementation. Instead, it encompasses multiple diffuse pathways through which research evidence, theoretical perspectives, and empirical concepts percolate into the policy and professional [[Discourse]], gradually reshaping how problems are understood and framed.*
 
@@ -149,7 +149,7 @@ updated: 2026-10-16
 
 > [!proposition-chain] 核心命题二｜概念性启蒙通过“知识渗透”与“决策累积”发挥最深远的塑造作用
 > - **前提一** 大量实证调查表明，决策者和教师极少能明确回忆起某项具体决策是基于哪一篇特定论文的哪组统计数据（[[Conceptual, Instrumental, and Symbolic Use of Research\|工具性使用]]发生率低）。[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|(Kazancı Tınmaz & Sezgin, 2023, p. 3, p. 14)]]
-> - **前提二** 决策者和教师却广泛运用了源自学术研究的概念（如“多元智能”、“认知负荷”、“[[Formative Assessment\|形成性评价]]”、“[[Constructivist Paradigm\|建构主义]]”）来思考与组织日常教学。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 130)]]
+> - **前提二** 决策者和教师却广泛运用了源自学术研究的概念（如“多元智能”、“认知负荷”、“[[Formative Assessment\|形成性评价]]”、“[[Constructivist Paradigm\|建构主义]]”）来思考与组织日常教学。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 130)]]
 > - **推导** Weiss (1980) 阐明了研究发挥影响的核心微观机制：
 >   ① **知识渗透（Knowledge Creep）** 研究概念、概括性结论与[[Theoretical Perspective\|理论视角]]通过期刊、培训、大众媒体与同行交流非正式地弥散开来，在未被明确察觉来源的情况下融入实践者的背景认知；
 >   ② **决策累积（Decision Accretion）** 政策与教学决策通常不是在某一特定时刻做出的单一孤立抉择，而是在日常无数微小调整与常规重构中逐渐固化定型的，渗透进心智的知识在此过程中潜移默化地指导了选择取向。
@@ -257,7 +257,7 @@ updated: 2026-10-16
 
 > [!critique]- 批评索引
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] — 指出既有研究利用模型多聚焦于个体决策者的认知与态度，对“[[New Public Management\|新公共管理]]”等宏观问责体制如何系统性诱发“象征性使用”和“合规表演”缺乏足够的制度权力分析。
-> - [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]] — 指出早期的启蒙模型虽然概念解释力强，但在实证测评中由于其隐蔽与扩散性特征，极难进行量化因果归因与效果分离。
+> - [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] — 指出早期的启蒙模型虽然概念解释力强，但在实证测评中由于其隐蔽与扩散性特征，极难进行量化因果归因与效果分离。
 
 ---
 
@@ -266,5 +266,5 @@ updated: 2026-10-16
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 将[[Research Utilization\|研究利用]]模型与[[Theory of Planned Behavior\|计划行为理论]]结合，开发并验证 20 题 4 维度的[[Research Literacy Scale for Teachers\|教师研究素养量表]]，证实研究技能是连接积极态度与实际使用的关键知觉控制枢纽，且做研究与读期刊具有双轨赋能效应。
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] — 在关于教师协作参与科研的[[Framework Synthesis\|框架综合]]中，运用 Weiss 的研究利用分类区分深度整合与浅层象征性合规，揭示信任与制度支持在促成互动模型中的决定性作用。
-> - [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]] — 梳理 Weiss (1979) 以来研究利用文献对国际[[Evidence-Informed Practice\|证据知情实践]]（EIP）的奠基作用，探讨[[Knowledge Mobilisation\|知识动员]]条件与系统性落地瓶颈。
+> - [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] — 梳理 Weiss (1979) 以来研究利用文献对国际[[Evidence-Informed Practice\|证据知情实践]]（EIP）的奠基作用，探讨[[Knowledge Mobilisation\|知识动员]]条件与系统性落地瓶颈。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch03\|Cohen, Manion & Morrison (2011, Ch. 3)]] — 系统评述 Weiss (1991b) 的政策研究利用四模型（研发、[[Problem Solving\|问题解决]]、互动、战术），探讨教育研究与政策制定之间的多重复杂关系。

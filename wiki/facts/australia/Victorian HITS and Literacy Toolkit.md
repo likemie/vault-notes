@@ -58,7 +58,7 @@ related_facts:
   - "[[Thomas B. Fordham Institute]]"
 related_arguments:
   - "[[Argument_OConnor_2020_AJLL]]"
-  - "[[Argument_Johnson_2023_CE]]"
+  - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Bates_2017_CognitionEducationTrust]]"
   - "[[Argument_ONeill_2016_Report]]"
 part_of: ""
@@ -80,7 +80,7 @@ citation_aliases: []
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2017 年由澳大利亚维多利亚州教育部（Department of Education and Training Victoria, DET Victoria）正式发布实施（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 141]]）。
 > - **适用地区 / 对象** 覆盖维多利亚州全境公立中小学校，规范对象为公立系统内的全体 K-12 教师、学科协调员与[[School Leadership|学校领导]]团队。
-> - **问题背景** 在新自由主义[[Global Education Reform Movement|全球教育改革运动]]（GERM）与澳大利亚全国学生评估项目（NAPLAN）标准化考核压力下，维州教育部急需推行一套能够展现循证问责成效、可大范围低成本复制且便于行政监管的教学标准方案；[[John Hattie|约翰·哈蒂]]（John Hattie）的《[[Visible Learning|可见的学习]]》（Visible Learning）及其团队的[[Effect Size|效应量]]排行榜被决策层直接采纳为最高科学证据支持（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 141]]; [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p. 29]]）。
+> - **问题背景** 在新自由主义[[Global Education Reform Movement|全球教育改革运动]]（GERM）与澳大利亚全国学生评估项目（NAPLAN）标准化考核压力下，维州教育部急需推行一套能够展现循证问责成效、可大范围低成本复制且便于行政监管的教学标准方案；[[John Hattie|约翰·哈蒂]]（John Hattie）的《[[Visible Learning|可见的学习]]》（Visible Learning）及其团队的[[Effect Size|效应量]]排行榜被决策层直接采纳为最高科学证据支持（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 141]]; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 29]]）。
 > - **制度位置** 政策作为维多利亚州“教育之州”（Education State）学校改进核心议程的支柱性抓手，直接与教师专业绩效评估、校级发展规划及日常督导巡查深度绑定。
 
 ---
@@ -88,7 +88,7 @@ citation_aliases: []
 ## 政策文本摘要
 
 > [!claim] 政策核心
-> 维州 HITS 与读写教学工具包将[[John Hattie|哈蒂]]《[[Visible Learning|可见的学习]]》提炼为 10 项“高影响教学策略”（High Impact Teaching Strategies, HITS）以及阶梯式读写指南，以此作为全州公立中小学日常课堂督导与合规考核的硬性标准，将立体的教学育人活动退化为可管制的机械核查清单与外在[[Performativity|表演性]]数据产出（[[Argument_OConnor_2020_AJLL|O'Connor, 2020]]; [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）。
+> 维州 HITS 与读写教学工具包将[[John Hattie|哈蒂]]《[[Visible Learning|可见的学习]]》提炼为 10 项“高影响教学策略”（High Impact Teaching Strategies, HITS）以及阶梯式读写指南，以此作为全州公立中小学日常课堂督导与合规考核的硬性标准，将立体的教学育人活动退化为可管制的机械核查清单与外在[[Performativity|表演性]]数据产出（[[Argument_OConnor_2020_AJLL|O'Connor, 2020]]; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）。
 
 > [!policy-design]- 政策设计
 > - **政策目标** 旨在通过推广国际证据本位的优质教学策略，快速提升维多利亚州公立学校学生的学业达标率与儿童识字率表现（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 141]]）。
@@ -137,7 +137,7 @@ citation_aliases: []
 > - **2017年** 维多利亚州教育部正式发布 10 项 HITS 指南与《读写教学工具包》，宣布全州公立中小学全面启动循证教学改进（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 141]]）。
 > - **2020年** 维州一线教师与学者帕特里克·奥康纳（Patrick O'Connor, 2020）在《澳大利亚语言与识字学报》发表细读研究，揭露 HITS 所依据的[[John Hattie|哈蒂]][[Meta-analysis|元分析]]存在严重的分类错误与数据计算失误，政策[[Chain of Evidence|证据链]]底部存在重大漏洞。
 > - **2022年** 莉莉（Lilley, 2022）与韦斯科特（Wescott, 2022）的[[Fieldwork|田野调查]]揭示，HITS 在基层学区演化为极端的[[Performativity|表演性]]白板打卡与形式主义常规检查，导致教师执教热情骤降。
-> - **2023年** 约翰逊与詹岑（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）系统批判维州 HITS 政策，指出其代表了[[Neo-Taylorism|新泰勒主义]]全景监控与教育特许加盟化对[[Teacher Professional Agency|教师专业自主权]]的系统性侵蚀。
+> - **2023年** 约翰逊与詹岑（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）系统批判维州 HITS 政策，指出其代表了[[Neo-Taylorism|新泰勒主义]]全景监控与教育特许加盟化对[[Teacher Professional Agency|教师专业自主权]]的系统性侵蚀。
 
 ---
 
@@ -151,7 +151,7 @@ citation_aliases: []
 
 > [!pathways]- 实施路径与异化表象
 > - **顶层行政设计与指令下达** 维州教育部将 10 项策略定位为“每一间教室都应发生的高质量教学”，通过全州校长研讨会与区域培训网络进行自上而下的政策渗透。
-> - **基层执行中的打卡清单化** 为满足行政检查的客观可视化要求，学校管理层将原本灵活的教学原则转化为生硬的机械打卡指标。最典型的实践要求是：任课教师必须在上课铃响前，在白板上端正书写当堂课题与明确的[[Learning Intentions|学习意图]]（Learning Intentions），否则在教学常规检查中便会被扣分（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p. 29]]）。
+> - **基层执行中的打卡清单化** 为满足行政检查的客观可视化要求，学校管理层将原本灵活的教学原则转化为生硬的机械打卡指标。最典型的实践要求是：任课教师必须在上课铃响前，在白板上端正书写当堂课题与明确的[[Learning Intentions|学习意图]]（Learning Intentions），否则在教学常规检查中便会被扣分（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 29]]）。
 > - **读写教学中的技术主义收紧** 在每日固定开展的读写课（Literacy Hour）上，教师被硬性要求严格依照工具包指定的阅读实操步骤进行教学，过度强化单一[[Decodification|解码]]拼读法，排挤了儿童对阅读文本的整体性文化理解（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 149]]）。
 
 ---
@@ -161,7 +161,7 @@ citation_aliases: []
 > [!actor-grid] 权力—利益矩阵
 > - **高权力 · 高利益 — 维州教育部技术官僚** 将 HITS 视作展现政绩与回应公共问责的核心治理工具，强调政策的标准化与可控性。
 > - **高权力 · 高利益 — 商业出版与咨询网络（[[Corwin Press|Corwin]] / Cognition）** 借助官方政策背书，将《[[Visible Learning|可见的学习]]》系列图书与教师培训服务大举导入公立教育体系，获取巨额品牌特许与版税收益（[[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017]]; [[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）。
-> - **低权力 · 高利益 — 一线中小学教师群体** 承受最直接的管理[[Disciplina and Doctrina|规训]]压力，课堂自主裁量权受到严格压制，面临繁重且虚妄的[[Performativity|表演性]]合规劳动（Lilley, 2022; [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）。
+> - **低权力 · 高利益 — 一线中小学教师群体** 承受最直接的管理[[Disciplina and Doctrina|规训]]压力，课堂自主裁量权受到严格压制，面临繁重且虚妄的[[Performativity|表演性]]合规劳动（Lilley, 2022; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）。
 > - **低权力 · 低利益 — 批判性教育研究学者** 独立发表同行评议论文指出其数据算错与政策偏误，但长期被官方行政决策机制边缘化（[[Argument_OConnor_2020_AJLL|O'Connor, 2020]]）。
 
 > [!prop-table]- 关键行动者属性
@@ -190,8 +190,8 @@ citation_aliases: []
 
 > [!finding-cards] 效果与评价
 > - **伪科学数据驱动的政策偏误（奥康纳审查）** 奥康纳（[[Argument_OConnor_2020_AJLL|O'Connor, 2020]]）深入拆解[[John Hattie|哈蒂]][[Whole Language|全语言]]与语音教学[[Meta-analysis|元分析]]后发现，哈蒂不仅混淆了研究属性、犯下致命的样本加总错误，而且存在选择性剔除支持全语言研究的严重先验偏见。维州教育部在未经二次同行评审的情况下直接将充满瑕疵的[[Effect Size|效应量]]转化为政策刚性指导，导致公立学校过激压缩全语言阅读空间，损害了儿童整体性阅读能力的发展。
-> - **形式主义表演与专业自主性萎缩** 实地调研（Lilley, 2022; Wescott, 2022; [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）表明，将 HITS 刚性化的制度设计直接催生了严重的[[Performativity|表演性]]困境：教师被迫将大量精力用于应付上课前在白板上端正书写学习意图等琐碎外在动作，同行间的真诚研讨被流水线教案对标取代，教师对职业的热爱与[[Professional Judgment|专业判断力]]遭到严重侵蚀。
-> - **育人关系的物化与特许加盟化** 约翰逊与詹岑（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）指出，HITS 的制度遗产在于将公立学校重塑为由外部清单统一管制的商业加盟店，教师蜕变为缺乏裁量权的操作技工，学生则沦为单纯生产测验分数的指标载体。
+> - **形式主义表演与专业自主性萎缩** 实地调研（Lilley, 2022; Wescott, 2022; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）表明，将 HITS 刚性化的制度设计直接催生了严重的[[Performativity|表演性]]困境：教师被迫将大量精力用于应付上课前在白板上端正书写学习意图等琐碎外在动作，同行间的真诚研讨被流水线教案对标取代，教师对职业的热爱与[[Professional Judgment|专业判断力]]遭到严重侵蚀。
+> - **育人关系的物化与特许加盟化** 约翰逊与詹岑（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）指出，HITS 的制度遗产在于将公立学校重塑为由外部清单统一管制的商业加盟店，教师蜕变为缺乏裁量权的操作技工，学生则沦为单纯生产测验分数的指标载体。
 
 ---
 
@@ -209,13 +209,13 @@ citation_aliases: []
 > > 聚焦微观日常实践，技术监控与教师情境化裁量权的剧烈碰撞。
 > >
 > > - **循证管理倡导者（Hattie, 2009; Fisher et al., 2016）** 认为统一的核查清单与[[Learning Intentions|学习意图]]显性化是确保教学质量底线、克服教师个人[[Empiricism|经验主义]]的必要手段。
-> > - **[[Critical Pedagogy|批判教育学]]者（Lilley, 2022; [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 29–30]]）** 指责强制板书打卡等要求是极其低幼化且去专业化的新泰勒主义规训，彻底摧毁了教师基于课堂现场变化的[[Professional Judgment|专业判断]]与同行互信。
+> > - **[[Critical Pedagogy|批判教育学]]者（Lilley, 2022; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 29–30]]）** 指责强制板书打卡等要求是极其低幼化且去专业化的新泰勒主义规训，彻底摧毁了教师基于课堂现场变化的[[Professional Judgment|专业判断]]与同行互信。
 >
 > > [!axis] 公共财政转化与跨国商业特许经营
 > > 揭示公共教育预算如何借助政策转化流向特定私人企业与商业出版网络。
 > >
 > > - **政策推进部门（DET Victoria）** 坚称引入知名学者与国际出版成果能够快速实现优质教育资源的集约化供给。
-> > - **政治经济学学者（[[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017]]; [[Argument_ONeill_2016_Report|O'Neill et al., 2016]]; [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）** 揭露维州政策实质上成为了 [[Corwin Press|Corwin]] 出版社与 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 商业特许网络的超级分销渠道，公立教育预算源源不断地转化为商业品牌专利使用费与版税。
+> > - **政治经济学学者（[[Argument_Bates_2017_CognitionEducationTrust|Bates, 2017]]; [[Argument_ONeill_2016_Report|O'Neill et al., 2016]]; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）** 揭露维州政策实质上成为了 [[Corwin Press|Corwin]] 出版社与 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 商业特许网络的超级分销渠道，公立教育预算源源不断地转化为商业品牌专利使用费与版税。
 
 ---
 
@@ -227,7 +227,7 @@ citation_aliases: []
 > *The Victorian Department of Education and Training has published a Literacy Teaching Toolkit and High Impact Teaching Strategies (HITS), referencing Visible Learning as the highest level of evidence... However, close scrutiny reveals category errors, asymmetrical scrutiny, and selective exclusion of evidence in Hattie's meta-analyses. Policy makers have uncritically translated flawed statistical claims into rigid pedagogical prescriptions.*
 
 > [!citation-card] 约翰逊与詹岑论维州 HITS 的清单[[Disciplina and Doctrina|规训]]与教师去专业化
-> 在澳大利亚部分推行了基于《可见的学习》的高影响教学策略（HITS）的学区中，教师被迫卷入极其肤浅的[[Performativity|表演性]]技术操作，例如在上课前必须在白板上端正写出当堂课程的课题与[[Learning Intentions|学习意图]]。随着‘证据本位最佳实践’取代了原本存在于教师专业决策中的信任，教师的自主权、对职业的热爱以及同行间的专业共同体发展显著萎缩（Lilley, 2022）。规定式的教学不再是一门关乎伦理与人际关系的崇高事业。学校被重塑为管理森严的特许加盟店，由沦为技术操作工的教师提供一套标准化的教学核查清单。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 29–30)]]
+> 在澳大利亚部分推行了基于《可见的学习》的高影响教学策略（HITS）的学区中，教师被迫卷入极其肤浅的[[Performativity|表演性]]技术操作，例如在上课前必须在白板上端正写出当堂课程的课题与[[Learning Intentions|学习意图]]。随着‘证据本位最佳实践’取代了原本存在于教师专业决策中的信任，教师的自主权、对职业的热爱以及同行间的专业共同体发展显著萎缩（Lilley, 2022）。规定式的教学不再是一门关乎伦理与人际关系的崇高事业。学校被重塑为管理森严的特许加盟店，由沦为技术操作工的教师提供一套标准化的教学核查清单。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 29–30)]]
 >
 > *In Australian districts where High Impact Teaching Strategies (HITS) based on Visible Learning have been implemented, teachers are forced into simplistic performative technical actions such as writing the topic of a class on the board before beginning a lesson. Teacher autonomy, enjoyment of the profession, and collegial professional development decrease (Lilley, 2022) as "evidence based best practices" replace the trust that once existed in their professional decision making. Prescriptive teaching ceases to be an ethical, relational profession. Schools are recast as tightly managed franchises, staffed by teacher technicians, delivering a checklist of best practice teaching strategies.*
 
@@ -247,4 +247,4 @@ citation_aliases: []
 > | [[Whole Language]] | [[Didaktik\|教学理论]] | 在维州读写工具包中因被[[John Hattie\|哈蒂]]错误低估而遭到边缘化的阅读教学哲学。 |
 > | [[Global Education Reform Movement]] | 宏观运动 | 驱动维多利亚州教育部推行标准化、商业化与可审计问责政策的宏观背景。 |
 > | [[Argument_OConnor_2020_AJLL\|O'Connor (2020)]] | 实证文献 | 维州教师帕特里克·奥康纳审查 HITS [[Chain of Evidence\|证据链]]漏洞与[[Meta-analysis\|元分析]]假科学的研究。 |
-> | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] | 批判文献 | 揭示维州 HITS 如何演变为破坏教师专业互信、打造加盟连锁学校的技术规训工具。 |
+> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 批判文献 | 揭示维州 HITS 如何演变为破坏教师专业互信、打造加盟连锁学校的技术规训工具。 |

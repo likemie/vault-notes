@@ -65,7 +65,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Allerup_2015_Paideia]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
-  - "[[Argument_Berk_2011_ER]]"
+  - "[[Argument_Berk_2011_EvalRev]]"
 confidence: high
 status: active
 created: 2026-05-05
@@ -102,7 +102,7 @@ updated: 2026-10-16
 
 > [!method-position] [[Epistemology\|认识论]]与因果识别定位
 > - **知识观** 承认教育真实世界中[[Variable\|变量]]的高度纠缠性。一个表面上由教师教学行为或学校政策带来的成绩差异，极可能大部分源自学生家庭背景或既有学业基础；未控制协变量的边际[[Effect Size\|效应量]]绝不能被轻率等同于净因果贡献（[[Argument_Allerup_2015_Paideia\|Allerup, 2015]]）。
-> - **实验与观察的[[Paradigm\|范式]]分野** 在[[Observation Method\|观察研究]]中，控制可观测协变量无法保证不可观测变量的平衡（[[Argument_Berk_2011_ER\|Berk, 2011]]）；而在真正[[Random Assignment\|随机分配]]的 [[Randomised Controlled Trials\|RCT]] 中，协变量调整是一种纯粹提升测量精度的技术手段。
+> - **实验与观察的[[Paradigm\|范式]]分野** 在[[Observation Method\|观察研究]]中，控制可观测协变量无法保证不可观测变量的平衡（[[Argument_Berk_2011_EvalRev\|Berk, 2011]]）；而在真正[[Random Assignment\|随机分配]]的 [[Randomised Controlled Trials\|RCT]] 中，协变量调整是一种纯粹提升测量精度的技术手段。
 > - **有效性标准** [[Internal Validity\|内部效度]]提升（观察研究中消除遗漏变量偏差）；统计结论效度提升（[[Experimental Research\|实验研究]]中降低 II 型错误概率）。
 > - **不声称回答的问题** 观察研究中的协变量调整绝不能自动创造完美的[[Causality\|因果推断]]（若存在严重未观测遗漏变量，模型估计值依然有偏）。
 
@@ -112,7 +112,7 @@ updated: 2026-10-16
 > | **首要建模动机** | **消除选择偏差（Deconfounding）** | **提高估计精度与功效（Precision & Power）** |
 > | **随机化基线假定** | 不成立（组别间存在内在系统性差异） | 严格成立（$\mathbb{E}[\mathbf{X} \mid Z=1] = \mathbb{E}[\mathbf{X} \mid Z=0]$） |
 > | **协变量首选类型** | 影响“进入处理”与“产出”的共同混杂变量 | 与“产出”高度相关的基线[[Pre-test and Post-test\|前测]]成绩（预后变量） |
-> | **未观测变量威胁** | **存在不可观测选择偏误的致命威胁**（[[Argument_Berk_2011_ER\|Berk, 2011]]） | **无威胁**（随机分配已保证期望均衡） |
+> | **未观测变量威胁** | **存在不可观测选择偏误的致命威胁**（[[Argument_Berk_2011_EvalRev\|Berk, 2011]]） | **无威胁**（随机分配已保证期望均衡） |
 > | **模型自由度风险** | 研究者易通过尝试不同变量组合从事后操纵（p-hacking） | 必须在[[Statistical Analysis Plan\|统计分析计划（SAP）]]中前置锁定协变量集 |
 
 > [!method-stack] 方法层级
@@ -186,7 +186,7 @@ updated: 2026-10-16
 
 > [!method-limits] 方法局限
 > - **偏误来源**
->   - **不可观测[[Variable\|变量]]遗漏偏差** 在观察性数据中，控制再多的可观测协变量也无法保证未观测变量的对称，不可盲目推断因果（[[Argument_Berk_2011_ER\|Berk, 2011]]）。
+>   - **不可观测[[Variable\|变量]]遗漏偏差** 在观察性数据中，控制再多的可观测协变量也无法保证未观测变量的对称，不可盲目推断因果（[[Argument_Berk_2011_EvalRev\|Berk, 2011]]）。
 >   - **对撞分流偏误（Collider Bias）** 若错误控制了作为因果网络中对撞结点的第三变量，反而会在处理与结果之间凭空制造出虚假的统计关联。
 > - **适用边界** 调整后的[[Effect Size\|效应量]]数值与残差结构密切依赖于纳入模型的协变量集合，模型微调可能导致效应量排序颠覆（[[Argument_Allerup_2015_Paideia\|Allerup, 2015]]）。
 > - **误用风险** 在试验后根据 $p$ 值大小反复增删协变量（钓鱼式建模）；未在方案中[[Preregistration\|预注册]]协变量集合。
@@ -208,7 +208,7 @@ updated: 2026-10-16
 > > 观察性数据能否仅靠加入海量控制变量宣告因果确立。
 > >
 > > - **回归控制乐观论** 认为只要在大数据中控制了数十项学生、家庭与社区指标，选择偏差已被基本吸收。
-> > - **批判实证论警示** [[Argument_Berk_2011_ER\|Berk (2011)]] 强调，未观测到的进取动机、学校隐性文化永远无法被代理变量完全清除，观察性协变量调整得出的[[Causality\|因果推断]]始终是脆弱的假说。
+> > - **批判实证论警示** [[Argument_Berk_2011_EvalRev\|Berk (2011)]] 强调，未观测到的进取动机、学校隐性文化永远无法被代理变量完全清除，观察性协变量调整得出的[[Causality\|因果推断]]始终是脆弱的假说。
 
 ---
 
@@ -239,4 +239,4 @@ updated: 2026-10-16
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 阐述英国 [[Education Endowment Foundation\|EEF]] 在大规模两级整群 [[Randomised Controlled Trials\|RCT]] 中将基线[[Pre-test and Post-test\|前测]]协[[Variable\|变量]]调整常态化，实现[[Effective Sample Size\|有效样本量]]翻倍与微弱效应精准识别的方法学实践。
 > - [[Argument_Allerup_2015_Paideia\|Allerup (2015)]] — 丹麦教师效能实证研究，证明控制学生家庭背景协变量后教师学科资质效应大幅缩水，揭示观察性协变量控制的敏感性。
-> - [[Argument_Berk_2011_ER\|Berk (2011)]] — 观察性[[Causality\|因果推断]]方法论反思，警示控制可观测协变量无法消除未观测混杂的内在局限。
+> - [[Argument_Berk_2011_EvalRev\|Berk (2011)]] — 观察性[[Causality\|因果推断]]方法论反思，警示控制可观测协变量无法消除未观测混杂的内在局限。

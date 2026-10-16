@@ -40,7 +40,7 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Kazanci_Tinmaz_Sezgin_2023_SO]]"
-  - "[[Argument_Lodewyk_2007_EP]]"
+  - "[[Argument_Lodewyk_2007_EducPsych]]"
 confidence: high
 status: draft
 created: 2026-08-29
@@ -133,4 +133,4 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Kazanci_Tinmaz_Sezgin_2023_SO\|Kazancı Tınmaz & Sezgin (2023)]] — 在样本 1（$N=310$）执行 EFA 前，检验并报告 KMO $= .92$ 且 Bartlett 球形检验达到极显著水平（$\chi^2 = 3450.21, p < .001$），确立因子分析的充分合法性。
-> - [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] — 在中学生科学[[Epistemological Beliefs\|认识论信念]][[Questionnaire\|问卷]]（[[Schommer's Modified Epistemological Questionnaire\|SMEQ]]）因子分析前，通过 KMO 与 Bartlett 检验确立[[Epistemology\|认识论]] 3 维度的提取前提。
+> - [[Argument_Lodewyk_2007_EducPsych\|Lodewyk (2007)]] — 在中学生科学[[Epistemological Beliefs\|认识论信念]][[Questionnaire\|问卷]]（[[Schommer's Modified Epistemological Questionnaire\|SMEQ]]）因子分析前，通过 KMO 与 Bartlett 检验确立[[Epistemology\|认识论]] 3 维度的提取前提。

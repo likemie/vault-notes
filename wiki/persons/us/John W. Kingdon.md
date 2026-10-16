@@ -49,7 +49,7 @@ related_facts:
   - "[[Chinese Academy of Sciences]]"
   - "[[Common Core State Standards]]"
 related_arguments:
-  - "[[Argument_McDonnell_2013_AJE]]"
+  - "[[Argument_McDonnell_2013_AmJE]]"
 confidence: high
 status: stable
 created: 2026-09-26
@@ -70,7 +70,7 @@ updated: 2026-10-16
 > [!citation-card] 金登关于议程设置与政策企业家理论的奠基性定性
 > 洛兰·M·麦克唐纳（Lorraine M. McDonnell）与M·斯蒂芬·韦瑟福德（M. Stephen Weatherford）指出，约翰·W·金登在其关于议程设置的开创性著作中，详尽阐述了分散事实与主观解释在将特定情境界定为政策问题时的复杂互动。金登揭示出，尽管统计指标或科研文献能够指认出客观现状，但在界定政策问题时始终存在着认知解释要素，这一要素鲜明体现在哪些数据被突出强调、如何被解释以及何种因素被认定为危机的根源。
 >
-> *In his seminal work on agenda setting, John Kingdon (1995) details the interplay between disparate facts and their interpretation in the process of defining a given situation as a policy problem. Indicator data or a body of research may identify a problem... At the same time, 'there is a perceptual interpretative element' in defining policy problems (Kingdon 1995, 110). That element is manifested in what data are highlighted, how they are interpreted, and in what factors are identified as causing the problem.* [[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 4)]]
+> *In his seminal work on agenda setting, John Kingdon (1995) details the interplay between disparate facts and their interpretation in the process of defining a given situation as a policy problem. Indicator data or a body of research may identify a problem... At the same time, 'there is a perceptual interpretative element' in defining policy problems (Kingdon 1995, 110). That element is manifested in what data are highlighted, how they are interpreted, and in what factors are identified as causing the problem.* [[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 4)]]
 
 ---
 
@@ -81,7 +81,7 @@ updated: 2026-10-16
 > - **1973年** 出版《国会议员的投票决策》（*Congressmen's Voting Decisions*），深入国会大厦通过大范围[[In-depth Interview|深度访谈]]追踪议员在信息过载环境下的决策启发式策略。
 > - **1970年代末–1980年代初** 依托对美国联邦交通与卫生健康政策长达四年的密集追踪，访谈数百名联邦官员、国会议员、学者与利益集团领袖，系统构建政策议程演化的非线性模型。
 > - **1984年** 出版代表作《议程、备选方案与公共政策》（*Agendas, Alternatives, and Public Policies*），正式提出[[Multiple Streams Framework|多源流分析框架]]，荣获美国政治学会公共政策杰出著作奖。
-> - **1990年代–2010年代** 持续修订经典著作，其理论被跨国比较政治学、环境政策与教育政策等诸多领域广泛引申为解释重大制度改革突变的通用分析工具。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 2–6)]]
+> - **1990年代–2010年代** 持续修订经典著作，其理论被跨国比较政治学、环境政策与教育政策等诸多领域广泛引申为解释重大制度改革突变的通用分析工具。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 2–6)]]
 
 ---
 
@@ -107,7 +107,7 @@ updated: 2026-10-16
 > [!citation-card] 政策企业家的资源投入与倡导动机
 > 金登指出，政策企业家是政策体系中最具决定性的能动主体。他们愿意投入时间、精力、声誉与资金等关键资源，其动机既可能是出于对特定公共利益理念的真诚追求，也可能是为了捍卫自身官僚机构的扩张利益，抑或是寻求个人专业成就与职业声望。他们拥有高超的谈判协调技巧，并能在漫长的政治相持期保持持久的战略韧性。
 >
-> *Policy entrepreneurs are advocates who are willing to invest their resources—time, energy, reputation, money—to promote a position in return for anticipated future gain in the form of material, purposive, or solidary benefits (Kingdon 1995, 179). They can occupy a variety of formal positions... have political connections and negotiating skills, and are persistent.* [[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 3)]]
+> *Policy entrepreneurs are advocates who are willing to invest their resources—time, energy, reputation, money—to promote a position in return for anticipated future gain in the form of material, purposive, or solidary benefits (Kingdon 1995, 179). They can occupy a variety of formal positions... have political connections and negotiating skills, and are persistent.* [[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 3)]]
 
 ---
 
@@ -116,7 +116,7 @@ updated: 2026-10-16
 > [!influence-path] 影响路径
 > - **理论路径** 彻底终结了“问题识别—方案制定—法律采纳—政策执行”的单向线性迷思，与鲍姆加特纳和琼斯的[[Punctuated Equilibrium Theory|断裂平衡理论]]、萨巴[[Peter Thiel|蒂尔]]的支持联盟框架并列为当代政策过程理论的三大基石。
 > - **方法路径** 推动[[Policy Science in Comparative Education|政策科学]]从静态制度规章文本分析转向动态历时性的[[Process Tracing|过程追踪]]，聚焦政策注意力的分配瓶颈、时机把握（Timing）与[[Discourse|话语]]叙事策略。
-> - **政策与教育应用** 广泛应用于分析全美教育标准的突破性立法（如 [[Common Core State Standards|CCSS]] 运动）。麦克唐纳与韦瑟福德将其理论引入教育政策生命周期研究，展示了[[Policy Entrepreneur|政策企业家]]如何借助全美统考危机数据撬开[[Policy Window|政策之窗]]。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 2–6)]]
+> - **政策与教育应用** 广泛应用于分析全美教育标准的突破性立法（如 [[Common Core State Standards|CCSS]] 运动）。麦克唐纳与韦瑟福德将其理论引入教育政策生命周期研究，展示了[[Policy Entrepreneur|政策企业家]]如何借助全美统考危机数据撬开[[Policy Window|政策之窗]]。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 2–6)]]
 
 ---
 
@@ -125,7 +125,7 @@ updated: 2026-10-16
 > [!person-network] 关系网络
 > - **理论学术渊源** 迈克尔·D·科恩（Michael D. Cohen）、詹姆斯·G·马奇（James G. March）与约翰·P·奥尔森（Johan P. Olsen） — 金登直接继承并拓展了其组织决策“垃圾桶模型”（Garbage Can Model）。
 > - **理论学术拓展者** 尼古拉斯·扎哈利亚迪斯（Nikolaos Zahariadis） — 将金登的[[Multiple Streams Framework|多源流理论]]推向国际比较政治与欧洲一体化政策分析。
-> - **理论学术应用者** 洛兰·M·麦克唐纳（Lorraine M. McDonnell）与M·斯蒂芬·韦瑟福德（M. Stephen Weatherford） — 将金登模型与政策生命周期相结合，实证拓展其在[[Evidence-Based Education|循证教育]]改革中的应用边界。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 2–6)]]
+> - **理论学术应用者** 洛兰·M·麦克唐纳（Lorraine M. McDonnell）与M·斯蒂芬·韦瑟福德（M. Stephen Weatherford） — 将金登模型与政策生命周期相结合，实证拓展其在[[Evidence-Based Education|循证教育]]改革中的应用边界。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 2–6)]]
 
 ---
 
@@ -137,7 +137,7 @@ updated: 2026-10-16
 > > 学界围绕多源流框架中问题流、政策流与政治流是否真正具备“彼此独立演进”的特性展开了持久辩论。
 > >
 > > - **批评派学者（Sabatier, 1991; Zahariadis, 2003）** 认为金登过分强调了三流的分立与偶发性，在实际政治运作中，政策方案往往直接根据政治势力的喜好量身定制，三流之间存在深度的结构性共生与相互渗透。
-> > - **教育政策生命周期的理论拓展（[[Argument_McDonnell_2013_AJE|McDonnell & Weatherford, 2013]]）** 指出金登虽然敏锐揭示了[[Policy Entrepreneur|政策企业家]]在议程设置阶段的动力功能，但未详尽刻画企业家如何处理证据的内在[[Heterogeneity|异质性]]；在真实决策中，企业家必须在政策生命周期的不同关口因地制宜地调配学术论文、教师常识与政治价值。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 3–6, 18–19)]]
+> > - **教育政策生命周期的理论拓展（[[Argument_McDonnell_2013_AmJE|McDonnell & Weatherford, 2013]]）** 指出金登虽然敏锐揭示了[[Policy Entrepreneur|政策企业家]]在议程设置阶段的动力功能，但未详尽刻画企业家如何处理证据的内在[[Heterogeneity|异质性]]；在真实决策中，企业家必须在政策生命周期的不同关口因地制宜地调配学术论文、教师常识与政治价值。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 3–6, 18–19)]]
 
 ---
 
@@ -151,6 +151,6 @@ updated: 2026-10-16
 > | [[Policy Window]] | 概念 | 提出政策之窗概念，系统揭示重大[[Theories of Policy Change\|政策变革]]发生的时间压缩与时机机制。 |
 > | [[Policy Entrepreneur]] | 概念 | 提出政策企业家概念，阐明改革倡导者的资源投入与战略性[[Policy Brokerage\|政策经纪]]功能。 |
 > | [[Policy Ambiguity]] | 概念 | 剖析决策中的目标歧义性，打破信息增加必然促进理性决策的教条。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013)]] | 实证文献 | 将金登议程设置理论与政策生命周期相结合，拓展了其证据动员的微观解释力。 |
+> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | 实证文献 | 将金登议程设置理论与政策生命周期相结合，拓展了其证据动员的微观解释力。 |
 
 ---

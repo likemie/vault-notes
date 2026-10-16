@@ -78,7 +78,7 @@ related_facts:
   - "[[Educational Services Australia]]"
   - "[[Graduate Outcomes Survey]]"
 related_arguments:
-  - "[[Argument_Helgetun_2022_JEP]]"
+  - "[[Argument_Helgetun_2022_JEdPolicy]]"
 sources:
   - "[[sources/Skourdoumbis_2024_AER|Skourdoumbis_2024_AER]]"
 part_of: ''
@@ -338,7 +338,7 @@ citation_aliases:
 >   - 他们强调的是：“刻板的[[Positivism\|实证主义]]原则和机械论的世界观，无法解释构成人类经验的多维度人类行动”（p. 10）。
 > - **呼吁[[Epistemology\|认识论]]的多元性与证据批判性**
 >   - 承认学校和课堂的社会学和复杂人际特征，需要一个更广泛的认识论（epistemological）基础。
->   - 在“[[Evidence Era\|证据时代]]”下，必须对“证据是如何被建构的”保持高度的警惕和批判性审视（[[Argument_Helgetun_2022_JEP\|Helgetun & Menter, 2022]]; 引自 p. 10）。
+>   - 在“[[Evidence Era\|证据时代]]”下，必须对“证据是如何被建构的”保持高度的警惕和批判性审视（[[Argument_Helgetun_2022_JEdPolicy\|Helgetun & Menter, 2022]]; 引自 p. 10）。
 > - **跨国政策外推与[[Paradigm\|范式]]破坏警告**
 >   - 作者提醒，这一政策范式在英格兰等地的临床化、学校主导化实践已经对传统的基于大学的教师教育在[[Ontology\|本体论]]（ontology）、[[Axiology\|价值论]]（axiology）和实践论上造成了“积极的破坏和推翻”，应当引起全球教育界的警惕。
 >   - 过度依赖“什么有效”的确定性将直接导致教师日常教学实践中其他形式“非科学、经验性”证据与[[Tacit Knowledge|默会知识]]的边缘化，加重教师的“举证负担”（Wescott, 2022; 引自 p. 10）。

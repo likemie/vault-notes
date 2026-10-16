@@ -56,7 +56,7 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
-  - "[[Argument_Johnson_2023_CE]]"
+  - "[[Argument_Johnson_2023_CritEduc]]"
 confidence: high
 status: draft
 created: 2026-09-28
@@ -70,7 +70,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **后福特制（Post-Fordism）** 是指 20 世纪晚期伴随资本主义全球化与信息技术革命而兴起的新型资本积累与生产组织[[Paradigm|范式]]，用以指称相对于经典福特制（Fordism）集中大工业、标准化流水线与凯恩斯福利国家模式的结构性断裂。在教育社会学与政治经济学视阈中，后福特制体现为生产网络从集中离散化转向跨国弹性布局，驱动教育体系由培养循规遵纪的均质产业工人和统一部署的公共学制，重构为追求灵活转岗、自我[[Disciplina and Doctrina|规训]]与终身流动能力的模块化劳动力供给体系，并伴随着国家退出直接兜底、全面引入数字化全景监视、市场竞争与绩效考评机制。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79, 82)]]; [[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 28)]]
+> **后福特制（Post-Fordism）** 是指 20 世纪晚期伴随资本主义全球化与信息技术革命而兴起的新型资本积累与生产组织[[Paradigm|范式]]，用以指称相对于经典福特制（Fordism）集中大工业、标准化流水线与凯恩斯福利国家模式的结构性断裂。在教育社会学与政治经济学视阈中，后福特制体现为生产网络从集中离散化转向跨国弹性布局，驱动教育体系由培养循规遵纪的均质产业工人和统一部署的公共学制，重构为追求灵活转岗、自我[[Disciplina and Doctrina|规训]]与终身流动能力的模块化劳动力供给体系，并伴随着国家退出直接兜底、全面引入数字化全景监视、市场竞争与绩效考评机制。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 79, 82)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 28)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向全球资本积累弹性化转型与国家公共教育供给模式重组之间的结构性对应关系。
@@ -109,7 +109,7 @@ updated: 2026-10-16
 > - **弹性技能与[[Cognitive Deskilling|去技能化]]/再技能化辩证法** 资本不再保障长周期终身雇佣，要求学校破除传统人文知识体系，拆解出高度可拆卸、即插即用的模块化技能；在此过程中，劳动者对生产过程的整体理解力被剥离（去技能化），同时被要求持续学习碎片化软件与操作规程（再技能化）。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 79)]]
 > - **课程形式的技术控制逻辑** 遵循[[Michael W. Apple|迈克尔·阿普尔]]（Michael Apple, 1982）的批判分析，后福特制将[[Technical Rationality|技术理性]]内置于课程设计中，通过标准化测试、行为目标量规与教案脚本化，剥夺一线教师的专业自主权，将其降格为课程生产流水线的[[Assemblage|组装]]工。
 > - **公共性收缩与市场化准则注入** 伴随跨国资本对公共财政支出的挤压，国家逐步削减基础教育与高等教育的无偿转移支付，引入使用者付费（User Fees）、教育券制度与院校绩效竞争，将教育转变为个体积累竞争优势的私人商品。
-> - **微观车间级数字化信息收集与全景监视渗透** 伴随工业生产由泰勒制、福特制向后福特制演进，现代工作场所的核心特征从实体传送带控制转向无处不在的数字化信息收集与全景监视（Portnoi, 2016; Rosenblat et al., 2014）。这一逻辑在教育领域的投射，体现为通过网络化评估软件（如 [[Assessment Tools for Teaching and Learning|asTTle]]）与气压计式绩效仪表盘（如 [[Barometer of Achievement|成就气压计]]），支持行政管理层对教师的软件使用、测试进度及[[Effect Size|效应量]]产出进行全网实时追踪，将学校微观课堂重构为受[[Panopticism|全景敞视]]技术控制的数据车间。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 28)]]
+> - **微观车间级数字化信息收集与全景监视渗透** 伴随工业生产由泰勒制、福特制向后福特制演进，现代工作场所的核心特征从实体传送带控制转向无处不在的数字化信息收集与全景监视（Portnoi, 2016; Rosenblat et al., 2014）。这一逻辑在教育领域的投射，体现为通过网络化评估软件（如 [[Assessment Tools for Teaching and Learning|asTTle]]）与气压计式绩效仪表盘（如 [[Barometer of Achievement|成就气压计]]），支持行政管理层对教师的软件使用、测试进度及[[Effect Size|效应量]]产出进行全网实时追踪，将学校微观课堂重构为受[[Panopticism|全景敞视]]技术控制的数据车间。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 28)]]
 
 > [!logic-map]- 后福特制生产[[Paradigm|范式]]对教育系统的结构重组机制
 > ```mermaid
@@ -157,7 +157,7 @@ updated: 2026-10-16
 > 探讨后福特制信息收集与监控技术如何渗透至学校，将教学实践压缩为实时数据产出的受控劳动。
 
 > [!claim] Johnson & Janzen; Portnoi; Rosenblat et al.
-> **后福特制数字化全景监视与劳动规训** 批判学者指出，提高生产率与可预测性的管理诉求，从泰勒制工时测定、福特制流水线一路延续至依托信息收集的后福特制，使问责与全景监视方案在现代工作场所中确立了绝对霸权（Manokha, 2020; Rosenblat et al., 2014）。在教育领域，后福特制并不意味着教师摆脱了科层束缚，而是规训技术变得更为隐蔽与数字化。以[[John Hattie|哈蒂]]主导开发的 [[Assessment Tools for Teaching and Learning|asTTle]] 系统及《可见学习》[[Barometer of Achievement|气压计图表]]为例，其最初正是作为跨 6 个学科全网实时监控教师行为的行政软件而设计的。后福特制监视技术将基层教师视作迟钝、缺乏自律的劳工，必须由上级通过外显数据实施全景监控；其结果是将丰富的育人关系降格为外在数据生产，诱发严重的[[Performativity|表演性]]危机，深刻削弱了[[Teacher Professional Agency|教师专业自主权]]。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 28)]]
+> **后福特制数字化全景监视与劳动规训** 批判学者指出，提高生产率与可预测性的管理诉求，从泰勒制工时测定、福特制流水线一路延续至依托信息收集的后福特制，使问责与全景监视方案在现代工作场所中确立了绝对霸权（Manokha, 2020; Rosenblat et al., 2014）。在教育领域，后福特制并不意味着教师摆脱了科层束缚，而是规训技术变得更为隐蔽与数字化。以[[John Hattie|哈蒂]]主导开发的 [[Assessment Tools for Teaching and Learning|asTTle]] 系统及《可见学习》[[Barometer of Achievement|气压计图表]]为例，其最初正是作为跨 6 个学科全网实时监控教师行为的行政软件而设计的。后福特制监视技术将基层教师视作迟钝、缺乏自律的劳工，必须由上级通过外显数据实施全景监控；其结果是将丰富的育人关系降格为外在数据生产，诱发严重的[[Performativity|表演性]]危机，深刻削弱了[[Teacher Professional Agency|教师专业自主权]]。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 28)]]
 
 ---
 
@@ -180,7 +180,7 @@ updated: 2026-10-16
 > - **1980 年代 — 文化与[[Ideology Critique|意识形态批判]]** [[Michael W. Apple|迈克尔·阿普尔]]（Apple, 1982）将后福特制劳动过程分析引入教育学，揭示课程编码中的技术控制逻辑。
 > - **1990 年代 — 教育市场化与比较研究** 布朗与劳德（Brown & Lauder, 1992, 1996）系统辨析福特制与后福特制教育路线分歧；鲍尔（Ball, 1993）指出教育市场化实质是后福特资本主义下维系优势阶层特权的新阶级策略。
 > - **2000 年代 — 全球化与外围批判** [[Liliana Esther Olmos|奥尔莫斯]]与托雷斯（[[Argument_Olmos_Torres_2009_StateTheories|Olmos & Torres, 2009]]）将后福特制置于世界体系与拉美外围国家依附发展情境，揭示跨国金融机构如何通过后福特制修辞将教育剥削机制输出至全球南方。
-> - **2014–2023 年 — 数字化职场监视与微观教学劳动[[Disciplina and Doctrina|规训]]** Rosenblat et al. (2014) 系统考察现代职场数字化监控；[[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]] 将后福特制信息收集与福柯[[Panopticism|全景敞视]]理论结合，揭露网络化测评系统（如 [[Assessment Tools for Teaching and Learning|asTTle]]）与[[Effect Size|效应量]]仪表盘对教师日常教学劳动的车间级技术控制。
+> - **2014–2023 年 — 数字化职场监视与微观教学劳动[[Disciplina and Doctrina|规训]]** Rosenblat et al. (2014) 系统考察现代职场数字化监控；[[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] 将后福特制信息收集与福柯[[Panopticism|全景敞视]]理论结合，揭露网络化测评系统（如 [[Assessment Tools for Teaching and Learning|asTTle]]）与[[Effect Size|效应量]]仪表盘对教师日常教学劳动的车间级技术控制。
 
 ---
 
@@ -198,14 +198,14 @@ updated: 2026-10-16
 > > 争论教育[[Informationalization|信息化]]与实时数据分析究竟是赋予了教师自主调节教学的工具，还是强化了行政全景监视。
 > >
 > > - **管理主义倡导者** 宣称后福特信息收集与仪表板数据能让教学更加透明，帮助教师精准自我改进。
-> > - **批判学者（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）** 指出实时数据监控承袭泰勒制对工人的猜忌逻辑，将教师置于被怀疑与被审查的境地，诱发形式主义表演与专业主体性萎缩。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 28)]]
+> > - **批判学者（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）** 指出实时数据监控承袭泰勒制对工人的猜忌逻辑，将教师置于被怀疑与被审查的境地，诱发形式主义表演与专业主体性萎缩。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 28)]]
 
 ---
 
 ## 关键引用
 
 > [!citation-card] 泰勒制、福特制至后福特制监视体系的演进
-> 工业生产由于泰勒制、福特制以及如今依托信息收集的后福特制（post-Fordism）的发展，使得生产效率与可预测性大幅提高，进而将问责制与监视机制牢固确立于现代工作场所之中。受到严密监视的工厂车间在一定程度上启发了福柯关于[[Panopticism|全景敞视]]的隐喻——只要意识到自己可能处于被观察之中，个体的行为就会受到深刻影响。那种认为教育也应当受到类似科学管理的观念，数代以来吸引了形形色色的改革议程。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 28)]]
+> 工业生产由于泰勒制、福特制以及如今依托信息收集的后福特制（post-Fordism）的发展，使得生产效率与可预测性大幅提高，进而将问责制与监视机制牢固确立于现代工作场所之中。受到严密监视的工厂车间在一定程度上启发了福柯关于[[Panopticism|全景敞视]]的隐喻——只要意识到自己可能处于被观察之中，个体的行为就会受到深刻影响。那种认为教育也应当受到类似科学管理的观念，数代以来吸引了形形色色的改革议程。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 28)]]
 >
 > *Increases in productivity and predictability owing to Taylorism, the related concept of Fordism, and now post-Fordism, with its information gathering (Portnoi, 2016), have enshrined accountability and surveillance schemes into modern workplaces (Manokha, 2020; Rosenblat et al., 2014). Highly surveilled workshops partially inspired Foucault in his panopticon metaphor (Foucault, 1977)... The idea that education should be similarly scientifically managed has appealed to various reform agendas for generations.*
 
@@ -231,4 +231,4 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Olmos_Torres_2009_StateTheories|Olmos and Torres (2009)]] — 从[[Dependency Theory|依附理论]]与批判政治经济学视角，系统分析后福特制生产方式转型对国家教育供给目标与课程技术控制的重构。
-> - [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]] — 结合福柯[[Panopticism|全景敞视]]理论与职场监视文献，剖析后福特制数字化信息收集如何通过 [[Assessment Tools for Teaching and Learning|asTTle]] 监控软件与可见学习气压计渗透至日常教学，解构其新泰勒制[[Disciplina and Doctrina|规训]]实质。
+> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 结合福柯[[Panopticism|全景敞视]]理论与职场监视文献，剖析后福特制数字化信息收集如何通过 [[Assessment Tools for Teaching and Learning|asTTle]] 监控软件与可见学习气压计渗透至日常教学，解构其新泰勒制[[Disciplina and Doctrina|规训]]实质。

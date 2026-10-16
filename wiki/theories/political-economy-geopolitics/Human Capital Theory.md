@@ -102,7 +102,7 @@ related_arguments:
   - "[[Argument_Beech_2009_GlobalGarden]]"
   - "[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy]]"
   - "[[Argument_Fabrizio_Mowery_2005_REI]]"
-  - "[[Argument_Bown_2024_JEP]]"
+  - "[[Argument_Bown_2024_JEconPersp]]"
   - "[[Argument_Li_2025_HSSC]]"
 confidence: high
 status: completed
@@ -310,8 +310,8 @@ updated: 2026-10-16
 > > [!axis] [[Modern Industrial Policy|现代产业政策]]竞争中工程人力资本的战略集聚 vs 跨国空间分散的供给断链
 > > 围绕先进制程制造对高密度专门 [[STEM Education|STEM]] 劳动力池的极度依赖，以及现代产业政策跨国分散设厂是否会遭遇人力资本短缺瓶颈展开争论。
 > >
-> > - **人力资本集聚与战略招募学派（[[Argument_Bown_2024_JEP|Bown & Wang, 2024]]）** 强调半导体制造等尖端高科技产业具有极高的人力资本专业化门槛；东亚集群的优势很大程度上源于数十年积累的高素质工程师劳动力池，中国等后发国家亦通过国家级海外人才招募计划定向引进台湾与韩国成熟工程师；美国《[[CHIPS and Science Act|芯片与科学法案]]》特设 130 亿美元用于研发与[[Workforce Development|劳动力发展]]（借鉴欧洲 IMEC 模式），并捆绑托儿服务条款以激活本地劳动力。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 93–94, 97–98)]]
-> > - **空间分散引发的技能断链与成本溢价批评** 经济学家指出，工程技术人员的[[Tacit Knowledge|隐性知识]]积累依赖高密度的本地实体集群；出于地缘安全考量强制企业在欧美多地分散建厂，由于缺乏配套的熟练劳动力池与工程师储备，极易引发熟练技工短缺、文化冲突与工期严重延宕，暴露出人力资本供给无法随物理资本投资瞬间复制的制度性刚性。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 102–103)]]
+> > - **人力资本集聚与战略招募学派（[[Argument_Bown_2024_JEconPersp|Bown & Wang, 2024]]）** 强调半导体制造等尖端高科技产业具有极高的人力资本专业化门槛；东亚集群的优势很大程度上源于数十年积累的高素质工程师劳动力池，中国等后发国家亦通过国家级海外人才招募计划定向引进台湾与韩国成熟工程师；美国《[[CHIPS and Science Act|芯片与科学法案]]》特设 130 亿美元用于研发与[[Workforce Development|劳动力发展]]（借鉴欧洲 IMEC 模式），并捆绑托儿服务条款以激活本地劳动力。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 93–94, 97–98)]]
+> > - **空间分散引发的技能断链与成本溢价批评** 经济学家指出，工程技术人员的[[Tacit Knowledge|隐性知识]]积累依赖高密度的本地实体集群；出于地缘安全考量强制企业在欧美多地分散建厂，由于缺乏配套的熟练劳动力池与工程师储备，极易引发熟练技工短缺、文化冲突与工期严重延宕，暴露出人力资本供给无法随物理资本投资瞬间复制的制度性刚性。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 102–103)]]
 >
 > > [!axis] 国家重大科技工程对科技人力资源的孵化溢出 vs. 结构性挤出与供给失衡
 > > 围绕国家级空间与国防公共大项目究竟是培育了全社会的工程人才库，还是造成了全国科技人力资源的结构性失衡展开争论。
@@ -357,7 +357,7 @@ updated: 2026-10-16
 > - [[Argument_Li_2025_HSSC|Li et al. (2025)]] — 揭示当代全球治理中人力资本[[Discourse|话语]]如何与 [[PISA]] 测评机制紧密咬合，驱动教育系统按照资本回报逻辑重组。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 梳理[[OECD|经合组织]]与[[World Bank|世界银行]]七十五年历时制度演变，揭示冷战[[Sputnik Shock 1957|斯普特尼克冲击]]后国际组织如何将人力资本理论、控制论规划与教育收益率数据库工具化，打造出跨国放贷与指标治理帝国的历史轨迹。
 > - [[Argument_Schnee_1978_RP|Schnee (1978)]] — 系统剖析美国半导体与计算机产业发展史，揭示重大公共战略工程如何培育高技术专门工程人力资本，并通过企业间衍生创业网络与企业内部跨部门平移双重机制驱动民用产业升级。
-> - [[Argument_Bown_2024_JEP|Bown and Wang (2024)]] — 从[[Modern Industrial Policy|现代产业政策]]与大国半导体竞争视角，阐明高科技先进制程对高密度专门工程劳动力池的刚性依赖、跨国战略人才招募竞争，以及补贴法案中[[Workforce Development|劳动力发展]]（IMEC 产学模式与托儿服务配套）的制度设计。
+> - [[Argument_Bown_2024_JEconPersp|Bown and Wang (2024)]] — 从[[Modern Industrial Policy|现代产业政策]]与大国半导体竞争视角，阐明高科技先进制程对高密度专门工程劳动力池的刚性依赖、跨国战略人才招募竞争，以及补贴法案中[[Workforce Development|劳动力发展]]（IMEC 产学模式与托儿服务配套）的制度设计。
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio and Mowery (2005)]] — 实证阐明战后美国国防科研对大学计算机系所的长期资助如何孵化新兴科技人力资本，并通过受训研究生的跨界流动构筑信息技术向产业界转移的核心载体。
 > - [[Argument_WorldBank_2019_Teach|World Bank Group (2019)]] — [[Learning Crisis|全球学习危机]]与教师教学质量观察工具手册，揭示初等教育入学率扩张与实质人力资本积累脱节的“学习贫困”机制，确立微观课堂[[Effective Teaching|有效教学]]行为对打破发展中国家学业鸿沟的核心决定作用。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 考察世行等国际组织如何以人力资本理论及社会收益率测算为无可替代的理论正统，将教学有效性窄化为成本效益，引发[[UNESCO|教科文组织]]人本主义反弹。

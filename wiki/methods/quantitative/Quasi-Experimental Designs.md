@@ -107,7 +107,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
   - "[[Argument_Ross_Morrison_2021_ECNUROE]]"
   - "[[Argument_Wadhwa_2024_RER]]"
-  - "[[Argument_Ginsberg_2024_EP]]"
+  - "[[Argument_Ginsberg_2024_EducPolicy]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Eisenhart_Towne_2003_ER]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
@@ -127,7 +127,7 @@ updated: 2026-10-16
 > [!def] 方法定义
 > **准实验设计（Quasi-Experimental Designs, QED）** 是指在无法实施完全[[Random Assignment\|随机分配]]（Random Assignment）的真实教育与社会情境中，通过选用非等对自然组别（Non-equivalent Groups）、构建间断时间序列（[[Time Series Design\|interrupted time series]]）或设定断点赋值规则（[[Regression Discontinuity Design\|regression discontinuity]]），系统操纵[[Independent Variable\|自变量]]以检验因果假设的量化实验设计方法（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16\|Cohen et al., 2011, pp. 317–318]]）。
 >
-> 在当代[[Evidence-Based Education\|循证教育]]体系中，QED 构成了连接完全[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT）与纯[[Correlational Research\|相关性研究]]的关键方法桥梁；在 2015 年《每个学生都成功法案》（[[Every Student Succeeds Act]], ESSA）中对应**中等证据（Moderate Evidence / Tier II）** 法定层级，在[[What Works Clearinghouse\|有效干预清算中心]]（What Works [[Educational Evidence Clearinghouses\|Clearinghouse]], WWC）中对应**有保留达标（Meets Standards With Reservations）** 标准（[[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p. 109]]；[[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 8–10]]；[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024, pp. 162–163]]）。
+> 在当代[[Evidence-Based Education\|循证教育]]体系中，QED 构成了连接完全[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trial, RCT）与纯[[Correlational Research\|相关性研究]]的关键方法桥梁；在 2015 年《每个学生都成功法案》（[[Every Student Succeeds Act]], ESSA）中对应**中等证据（Moderate Evidence / Tier II）** 法定层级，在[[What Works Clearinghouse\|有效干预清算中心]]（What Works [[Educational Evidence Clearinghouses\|Clearinghouse]], WWC）中对应**有保留达标（Meets Standards With Reservations）** 标准（[[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p. 109]]；[[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 8–10]]；[[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024, pp. 162–163]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象** 嵌入在自然班级、完整学校或行政区划中的具名教育干预方案、教学模式、课程改革与教育政策。
@@ -148,7 +148,7 @@ updated: 2026-10-16
 > - **认识论取向** 秉承[[Postpositivism\|后实证主义]]与[[Pragmatic Paradigm\|实用主义]]哲学取向，承认学校系统具有[[Open-Mindedness|开放性]]、社会关系复杂性与情境嵌套性，在坚持[[Causality\|因果推断]]逻辑的同时，以妥协性控制技术换取更高的[[Ecological Validity\|生态效度]]（Ecological Validity）。
 > - **因果识别定位** 采用[[Counterfactual\|反事实]]潜在结果逻辑，但因果识别依赖于**条件独立性假设（Conditional Independence Assumption, CIA）**——即假定在控制了基线[[Pre-test and Post-test\|前测]]和关键可观察协[[Variable\|变量]]后，组别分配与潜在结果在统计上条件独立。
 > - **与[[Randomised Controlled Trials\|随机对照试验]]的互补关系** 当出于伦理考量（如不能剥夺弱势学生的必要辅导）、行政限制（学校拒绝打破现有班级建制）、政策可行性，或学校拒绝被[[Random Assignment\|随机分配]]宏观组织决策（如混合[[Tracking\|能力分组]]分流、作息时间变革）而无法实施 RCT 时，QED 提供唯一合法的因果证据替代路径（[[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p. 109]]；[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 55–56]]）。
-> - **法定证据体系的演进定位** 相较于 2001 年《[[No Child Left Behind Act 2001\|不让一个孩子掉队法案]]》（No Child Left Behind Act, NCLB）笼统要求的“[[Scientifically Based Research\|基于科学的研究]]”（scientifically based research），[[Every Student Succeeds Act\|ESSA]] 将 QED 正式制度化为 Tier II 中等[[Evidence Standards\|证据标准]]，要求试验方案具备严密的前测基线控制与统计调整模型（[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024, pp. 162–163]]）。
+> - **法定证据体系的演进定位** 相较于 2001 年《[[No Child Left Behind Act 2001\|不让一个孩子掉队法案]]》（No Child Left Behind Act, NCLB）笼统要求的“[[Scientifically Based Research\|基于科学的研究]]”（scientifically based research），[[Every Student Succeeds Act\|ESSA]] 将 QED 正式制度化为 Tier II 中等[[Evidence Standards\|证据标准]]，要求试验方案具备严密的前测基线控制与统计调整模型（[[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024, pp. 162–163]]）。
 
 > [!method-stack] 数据、变量与方法层级
 > - **数据结构** 重复截面数据、面板数据（Panel Data）、多时间点追踪序列、多层嵌套行政数据（学生-班级-学校）。
@@ -246,7 +246,7 @@ updated: 2026-10-16
 > | **[[National Dropout Prevention Center\|国家预防辍学中心（National Dropout Prevention Center, NDPC）]]** | 1 级 (宽松包容) | **Strong Evidence** (允许 QED 获评最高级) | 准入门槛包容，仅要求存在显著正向 QED 证据且方案在学校现场实际运行满 3 年。 |
 
 > [!critique] 单项 QED 法定门槛下的合规假象与科研供给断层（基于 Ginsberg et al., 2024）
-> 约娜·[[Mark Ginsburg|金斯伯格]]（Yona Ginsberg）等学者对全美大型城市学区三年总计 2.88 亿美元联邦 [[Title I of the Elementary and Secondary Education Act\|Title I]] 支出流水与四大公共证据库（WWC、[[Evidence for ESSA]]、[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）、[[Education Resources Information Center\|教育资源信息中心]]（Education Resources Information Center, ERIC））的实证审计，揭示了 QED 在当代证据治理中的制度困境（[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024, pp. 162–165, 174–178]]）：
+> 约娜·[[Mark Ginsburg|金斯伯格]]（Yona Ginsberg）等学者对全美大型城市学区三年总计 2.88 亿美元联邦 [[Title I of the Elementary and Secondary Education Act\|Title I]] 支出流水与四大公共证据库（WWC、[[Evidence for ESSA]]、[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）、[[Education Resources Information Center\|教育资源信息中心]]（Education Resources Information Center, ERIC））的实证审计，揭示了 QED 在当代证据治理中的制度困境（[[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024, pp. 162–165, 174–178]]）：
 > 1. **法定单项 QED 门槛下的形式化合规偏差** 《每个学生都成功法案》（[[Every Student Succeeds Act\|ESSA]]）法定规则允许“仅凭单项设计良好的实验（Tier I）或准实验（Tier II）研究呈现显著正向效应”，即可认定整笔教育采购合法合规。实证发现，基于单项合格研究门槛，学区超过 95%（直接按全校项目计达 99%）的资金均符合法定标准；然而，一旦引入“全量证据体综合评价[[Paradigm\|范式]]”（Full Body of Evidence Paradigm），全面审视同一实践在各数据库中的所有 QED 与 RCT 结果，获稳定积极实证支持的资金比重降至 49%–58%，表明单项 QED 门槛极易被学区用作挑选樱桃（cherry-picking）的合规工具。
 > 2. **目标学段 QED 实证研究供给不足** 基础教育科研界在大规模 QED 生产上存在明显的学段断层。实证发现，样本学校采购的教育实践中，有多达 26 项实践在相关目标学段（如高中国语或特定小学学段）根本不存在任何 QED 或 RCT 因果证据；学区被迫在缺乏目标学段因果支持的情况下进行跨学段推论。
 > 3. **微观复合实践的因果识别局限** 现有 QED 研究大多针对宏观打包课程方案（如全校性数学项目或青少年综合发展计划），而极少对学区实际采购的微观交付构件（如面对面微课辅导、驻校咨询、实地考察 [[Champ\|field]] trips）进行独立的准实验因果识别，导致大量财政资金投入到未经因果检验的细分环节之中。
@@ -268,7 +268,7 @@ updated: 2026-10-16
 
 > [!method-fit] 适用判断
 > - **适合使用** 自然班级和完整学校建制不可随意打散拆分时；学校强烈抵制被[[Random Assignment\|随机分配]]宏观组织决策（如[[Tracking\|能力分组]]分流、作息制度变革、校历调整）时；利用行政区划、政策试点边界或考试录取分数线开展回溯性因果评估时；弱势群体补偿性项目（伦理上不允许设立无支持的空白对照组）（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 55–56]]；[[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, p. 109]]）。
-> - **谨慎使用** 候选对照组与干预组在学区财政、生源社会经济地位上存在系统性鸿沟且无法通过统计匹配消除时；[[Attrition\|样本流失]]率极高且存在严重差异性流失时；需要向目标学段之外进行跨学段外推时（[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024, pp. 177–178]]）。
+> - **谨慎使用** 候选对照组与干预组在学区财政、生源社会经济地位上存在系统性鸿沟且无法通过统计匹配消除时；[[Attrition\|样本流失]]率极高且存在严重差异性流失时；需要向目标学段之外进行跨学段外推时（[[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024, pp. 177–178]]）。
 > - **不适合使用** 完全缺乏基线[[Pre-test and Post-test\|前测]]数据、无法通过历史档案构建可信对照的单组事后研究；旨在推断复杂教育系统内深层主观体验、文化生态或哲学意义的[[Qualitative Research\|质性研究]]。
 
 ---
@@ -280,7 +280,7 @@ updated: 2026-10-16
 > - **不可测混杂与遗漏[[Variable\|变量]]偏倚（Omitted Variable Bias）** [[Propensity Score Matching\|倾向得分匹配]]（PSM）与回归控制仅能平衡已观测到的协变量，无法控制教师教学热情、学生求知动机与家庭教养风格等不可测潜变量。
 > - **均值回归假象（Regression to the Mean）** 当依据前测极端低分筛选补救干预对象时，后测成绩的提高往往部分源于极端测验误差的统计回归，而非干预方案的纯因果实效。
 > - **设计参数[[Incommensurability|不可通约性]]与跨设计混杂（Design Parameter Incommensurability）** 比较独立两组的组间准实验与追踪同一受试群体的组内前后测设计估计的是完全不同的总体参数（Morris & DeShon, 2002）。二阶[[Metascience|元科学]]审计证实，《[[Visible Learning|可见的学习]]》等宏观证据库存在严重的方法学违规——全库多达 17% 的因素直接混合组间与组内前后测，21% 混合组间实验与[[Correlational Research|相关研究]]，彻底摧毁了[[Effect Size|效应量]]的可[[Commensuration|通约]]性与因果解释力（[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025, pp. 15–16]]）。
-> - **法定单项合规掩盖全量证据赤字** 在证据治理中，单项 QED 易被异化为合规工具，掩盖同一实践在全量证据库中高达 42%–51% 的无支持或负效应现实（[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024, p. 177]]）。
+> - **法定单项合规掩盖全量证据赤字** 在证据治理中，单项 QED 易被异化为合规工具，掩盖同一实践在全量证据库中高达 42%–51% 的无支持或负效应现实（[[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024, p. 177]]）。
 > - **实践维度的信息遮蔽** QED 同 [[Randomised Controlled Trials\|RCT]] 一样，若仅报告平均[[Effect Size\|效应量]]，会系统性遗漏学校采纳最急需的微观实施成本、师生满意度与本地适配指南（[[Argument_Ross_Morrison_2021_ECNUROE\|Ross & Morrison, 2021, pp. 120–122]]）。
 
 ---
@@ -316,6 +316,6 @@ updated: 2026-10-16
 > - [[Argument_Ross_Morrison_2021_ECNUROE\|Ross and Morrison (2021)]] — 深入探讨 QED 在 [[Every Student Succeeds Act\|ESSA]] Tier 2 政策证据层级中的应用，提出[[Counterfactual\|反事实]]可行性（Counterfactual Viability）与对照组生态报告的必要性（pp. 109–112）。
 > - [[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015)]] — 论证准实验、[[Single-Subject Design\|单一被试设计]]与组间 [[Randomised Controlled Trials\|RCT]] 在排除历史与成熟威胁上的同构逻辑与效度门控机制（pp. 461–464）。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 总结英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）在学校拒绝[[Random Assignment\|随机分配]]宏观政策背景下，设立“[[Researching School Choices\|研究学校选择]]”资助序列、利用系统自然变异推进准实验因果评估的方法学制度演进（pp. 55–56）。
-> - [[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]] — 审计大型城市学区 2.88 亿美元支出流水，实证揭示单项 QED 法定中等证据门槛下超过 95% 的名义合规假象、学段科研供给断层及微观复合实践归因局限（pp. 162–165, 174–178）。
+> - [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] — 审计大型城市学区 2.88 亿美元支出流水，实证揭示单项 QED 法定中等证据门槛下超过 95% 的名义合规假象、学段科研供给断层及微观复合实践归因局限（pp. 162–165, 174–178）。
 > - [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart and Towne (2003)]] — 考证联邦立法从 NCLB 优先青睐随机分配实验向 ESRA（2002）法定承认准实验在排除竞争性解释时具备[[Causality|因果推断]]合法性的制度转折，记录 WWC 在公众评议下将准实验从实验模板中独立拆分的规程变革（pp. 34–36）。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 针对教育宏观二阶证据库开展系统性质量审计，揭示组间准实验、组内前[[Pre-test and Post-test|后测]]与相关性[[Observation Method|观察研究]]被随意机械混杂（全库仅 30% 纯粹基于组间实验，51 项混杂组间与组内设计），实证证明跨设计总体参数[[Incommensurability|不可通约性]]违背对因果解释力造成的毁灭性冲击。

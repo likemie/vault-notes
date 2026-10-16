@@ -58,7 +58,7 @@ related_arguments:
   - "[[Argument_Gorur_2014_Discourse]]"
   - "[[Argument_Møller_2017_EERJ]]"
   - "[[Argument_McKnight_2020_Discourse]]"
-  - "[[Argument_Johnson_2023_CE]]"
+  - "[[Argument_Johnson_2023_CritEduc]]"
 confidence: high
 status: draft
 created: '2026-05-01'
@@ -174,12 +174,12 @@ updated: 2026-10-16
 > > 例：维多利亚州教育部要求职前教师进入教室后立即走向白板张贴[[Learning Intentions\|学习意图]]（learning intentions），学校管理层禁止以任何其他方式开始上课（McKnight, 2016，引自）。这不是因为研究表明这一做法最有效，而是因为"可见性"的施行逻辑要求学习必须是可展示的——测量的存在（学习意图的可见证据）改变了教学行为本身。
 
 
-> [!success] 澳大利亚 [[Victorian HITS and Literacy Toolkit\|HITS]] 中的施行性([[Argument_Johnson_2023_CE\|Johnson & Janzen, 2023]])
+> [!success] 澳大利亚 [[Victorian HITS and Literacy Toolkit\|HITS]] 中的施行性([[Argument_Johnson_2023_CritEduc\|Johnson & Janzen, 2023]])
 > Johnson & Janzen记录了 Ball（2003）的 performativity 概念在澳大利亚基于 VL 的 HITS（High Impact Teaching Strategies）实施中的具体表现：
 >
-> - 在实施 HITS 的澳大利亚学区，教师被强迫执行"simplistic performative technical actions"——如在课前将课题写在白板上([[Argument_Johnson_2023_CE\|Johnson & Janzen, 2023, p.29-30]])
-> - 结果：教师自主性、职业乐趣和同行专业发展均下降（Lilley, 2022），"evidence based best practices"取代了曾存在于专业决策中的信任([[Argument_Johnson_2023_CE\|Johnson & Janzen, 2023, p.30]])
-> - Johnson & Janzen 将此定性为 VL 如何将教学从"an ethical, relational profession"重塑为"tightly managed franchises, staffed by teacher technicians, delivering a checklist of best practice teaching strategies"([[Argument_Johnson_2023_CE\|Johnson & Janzen, 2023, p.29]])
+> - 在实施 HITS 的澳大利亚学区，教师被强迫执行"simplistic performative technical actions"——如在课前将课题写在白板上([[Argument_Johnson_2023_CritEduc\|Johnson & Janzen, 2023, p.29-30]])
+> - 结果：教师自主性、职业乐趣和同行专业发展均下降（Lilley, 2022），"evidence based best practices"取代了曾存在于专业决策中的信任([[Argument_Johnson_2023_CritEduc\|Johnson & Janzen, 2023, p.30]])
+> - Johnson & Janzen 将此定性为 VL 如何将教学从"an ethical, relational profession"重塑为"tightly managed franchises, staffed by teacher technicians, delivering a checklist of best practice teaching strategies"([[Argument_Johnson_2023_CritEduc\|Johnson & Janzen, 2023, p.29]])
 >
 > 参见 [[Victorian HITS and Literacy Toolkit]]、[[Visible Learning Branding and Global Influences]]。
 
@@ -208,7 +208,7 @@ updated: 2026-10-16
 > [!example] 相关案例／政策
 > - [[Visible Learning]] — [[Argument_McKnight_2020_Discourse\|McKnight and Whitburn (2020)]] 论证 VL 是"新管理全景监狱主义"的完美工具，其隐喻本身就是施行性装置
 > - [[Visible Learning Branding and Global Influences]] — VL 商业产品（workshops、认证、Visible Classroom App）是 [[Performativity]] 在商业层面的制度化体现
-> - [[Victorian HITS and Literacy Toolkit]] — [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] 记录的澳大利亚 HITS 实施中教师被迫执行"simplistic performative technical actions"
+> - [[Victorian HITS and Literacy Toolkit]] — [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] 记录的澳大利亚 HITS 实施中教师被迫执行"simplistic performative technical actions"
 > - [[Education at a Glance]] — [[Argument_Gorur_2014_Discourse\|Gorur (2014)]] 的核心案例，[[OECD]] 指标的 performativity 如何在政策层面制造世界
 > - [[Neo-Taylorism]] — 测量施行性与新泰勒主义共享全景监狱逻辑
 > - [[New Public Management]] — NPM 的绩效问责制是 performativity 在公共部门扩散的制度载体

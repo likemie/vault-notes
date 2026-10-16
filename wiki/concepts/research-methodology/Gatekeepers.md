@@ -92,7 +92,7 @@ related_arguments:
   - "[[Argument_Kelly_2025_ROE]]"
   - "[[Argument_Gough_2022_EvidenceOnEIPP]]"
   - "[[Argument_Brown_Greany_2018_LPS]]"
-  - "[[Argument_McDonnell_2013_AJE]]"
+  - "[[Argument_McDonnell_2013_AmJE]]"
   - "[[Argument_Beech_2009_GlobalGarden]]"
 related_persons:
   - "[[William Foote Whyte]]"
@@ -393,7 +393,7 @@ Bogdan and Biklen（1992）提出了把关人在审查研究方案时核心关�
 ### 3.1 核心定义与概念透镜
 
 > [!def] 核心定义
-> **宏观政策制度把关人（Macro-Policy Institutional Gatekeepers）** 指在公共政策制定与立法周期的关键关口（议程设置、方案设计、法定采纳）掌控政策选项通行动量与合法性授权的核心权威主体（涵盖民选行政首长、立法专委会主席、学科技术验证委员会、教师专业利益组织领袖与法定教育委员会）。政策并非在真空中自我推进，各阶段的制度把关人依据迥异的政治激励、问责风险与合法性逻辑对政策方案及其实证证据实施严格筛选；[[Policy Entrepreneur|政策企业家]]必须针对把关人的诉求形态提供权变证据（由宏观危机象征证据转向微观可行性证据与州级对照工具），方能打破既有[[Punctuated Equilibrium Theory|政策垄断]]、通过专业可行性审查并最终实现法定采纳。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 2–6, 18–19)]]
+> **宏观政策制度把关人（Macro-Policy Institutional Gatekeepers）** 指在公共政策制定与立法周期的关键关口（议程设置、方案设计、法定采纳）掌控政策选项通行动量与合法性授权的核心权威主体（涵盖民选行政首长、立法专委会主席、学科技术验证委员会、教师专业利益组织领袖与法定教育委员会）。政策并非在真空中自我推进，各阶段的制度把关人依据迥异的政治激励、问责风险与合法性逻辑对政策方案及其实证证据实施严格筛选；[[Policy Entrepreneur|政策企业家]]必须针对把关人的诉求形态提供权变证据（由宏观危机象征证据转向微观可行性证据与州级对照工具），方能打破既有[[Punctuated Equilibrium Theory|政策垄断]]、通过专业可行性审查并最终实现法定采纳。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 2–6, 18–19)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 宏观政策[[Champ|场域]]中拥有议程否决权、专业合规审查权或法定表决权的制度枢纽节点。
@@ -401,7 +401,7 @@ Bogdan and Biklen（1992）提出了把关人在审查研究方案时核心关�
 > - **边界** 区别于无制度授权的普通游说者或纯粹外部学者；把关人拥有法定的准入许可权、技术否决权或投票表决权。
 
 > [!citation-card] 制度把关人与政策任务的阶段权变
-> 在议程设置、方案制定和法定表决各个关口，决策者面对的制度把关人、博弈目标和时间限制完全不同，对证据的需求也截然不同；政策企业家必须对不同阶段把关人所需的证据形态保持高度敏锐。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 2–3, 6)]]
+> 在议程设置、方案制定和法定表决各个关口，决策者面对的制度把关人、博弈目标和时间限制完全不同，对证据的需求也截然不同；政策企业家必须对不同阶段把关人所需的证据形态保持高度敏锐。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 2–3, 6)]]
 >
 > *"Policy makers face different institutional gatekeepers, game goals, and time constraints at the agenda-setting, design, and enactment stages... Policy entrepreneurs have to be sensitive to the differing types of evidence needed throughout the policy development cycle."*
 
@@ -421,8 +421,8 @@ Bogdan and Biklen（1992）提出了把关人在审查研究方案时核心关�
 > [!concept-lens] 制度把关人与证据形态演化机制
 > 探讨政策生命周期中不同权力节点的制度把关人如何迫使科学证据从宏观象征符号向微观技术工具发生功能质变。
 
-> [!claim] [[Argument_McDonnell_2013_AJE|McDonnell and Weatherford (2013)]]
-> **政策生命周期把关人驱动证据权变假说** 麦克唐奈与韦瑟福德剖析了全美[[Common Core State Standards|共同核心州立标准]]（CCSS）跨越三阶段的推进历程，指出政策能否成功破局取决于能否有效回应不同阶段制度把关人（Institutional Gatekeepers）的[[Heterogeneity|异质性]]博弈诉求。在议程设置阶段，面对守卫现状的政策垄断把关人，政策企业家必须动员具有震撼力的宏观指标（[[National Assessment of Educational Progress|NAEP]]/TIMSS）与两党核心价值[[Discourse|话语]]撬开[[Policy Window|政策之窗]]；在方案设计阶段，面对手握技术与教学否决权的专家及教师工会把关人，证据形态从宏观符号收敛为学科逻辑演绎与物理实操审读（AFT/NEA）；在法定采纳阶段，面对警惕联邦集权与地方主权受损的州立表决把关人，宏观学术文献完全隐退，高度[[Operationalization|操作化]]的州级逐条比对（Crosswalks）成为决定政策能否落地的决定性证据。这表明[[Research Utilization|证据使用]]并非单向[[Technical Rationality|技术理性]]过程，而是受制度把关人的权力结构与政治任务深度塑造的权变互动。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 2–6, 18–19)]]
+> [!claim] [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]]
+> **政策生命周期把关人驱动证据权变假说** 麦克唐奈与韦瑟福德剖析了全美[[Common Core State Standards|共同核心州立标准]]（CCSS）跨越三阶段的推进历程，指出政策能否成功破局取决于能否有效回应不同阶段制度把关人（Institutional Gatekeepers）的[[Heterogeneity|异质性]]博弈诉求。在议程设置阶段，面对守卫现状的政策垄断把关人，政策企业家必须动员具有震撼力的宏观指标（[[National Assessment of Educational Progress|NAEP]]/TIMSS）与两党核心价值[[Discourse|话语]]撬开[[Policy Window|政策之窗]]；在方案设计阶段，面对手握技术与教学否决权的专家及教师工会把关人，证据形态从宏观符号收敛为学科逻辑演绎与物理实操审读（AFT/NEA）；在法定采纳阶段，面对警惕联邦集权与地方主权受损的州立表决把关人，宏观学术文献完全隐退，高度[[Operationalization|操作化]]的州级逐条比对（Crosswalks）成为决定政策能否落地的决定性证据。这表明[[Research Utilization|证据使用]]并非单向[[Technical Rationality|技术理性]]过程，而是受制度把关人的权力结构与政治任务深度塑造的权变互动。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 2–6, 18–19)]]
 
 ---
 
@@ -431,7 +431,7 @@ Bogdan and Biklen（1992）提出了把关人在审查研究方案时核心关�
 > [!case] 美国 CCSS 运动中三类制度把关人的博弈与应对
 > - **突破政治把关人** 在议程设置阶段，政策企业家动员美国国家教育统计中心（National Center for Education Statistics, NCES, 2007）实证映射研究，揭露各州为应对 [[No Child Left Behind Act 2001|NCLB]] 考核导致的“向下沉沦”，说服各州州长打破分权壁垒，形成跨州自愿联盟。
 > - **满足专业与技术把关人** 在方案设计阶段，NGA 与 CCSSO 组建由 29 名跨领域学者与实践者构成的独立验证委员会（Validation Committee），对研制过程的循证严密性实施同行监督；同时为 AFT 与 NEA 等教师工会提供多轮草案闭门审读通道，吸纳一线教师关于技能界定与表述通俗化的关键修正，以专业信任换取工会对标准的公开背书。
-> - **说服法定表决把关人** 在法定采纳阶段，针对各州教育委员会关注的州权自主疑虑，政策倡导者制作精准的州级差异对照表（Crosswalks），证实 CCSS 较各州原标准具备更优的深度与聚焦度，最终顺利促成 45 个州及哥伦比亚特区完成法定采纳。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 6–18)]]
+> - **说服法定表决把关人** 在法定采纳阶段，针对各州教育委员会关注的州权自主疑虑，政策倡导者制作精准的州级差异对照表（Crosswalks），证实 CCSS 较各州原标准具备更优的深度与聚焦度，最终顺利促成 45 个州及哥伦比亚特区完成法定采纳。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 6–18)]]
 
 ---
 
@@ -468,7 +468,7 @@ Bogdan and Biklen（1992）提出了把关人在审查研究方案时核心关�
 > | **把关主体** | 校长、机构主管、社区首领 | 中小学校长、[[School Leadership\|学校领导]]团队 | 政治首长、验证专委会、工会领袖 | 穿梭于国际组织、教育部与名校的精英学者 |
 > | **核心裁量对象** | 研究者现场准入与数据带出权 | 外部政策工具与循证指南的校本转译 | 政策草案合法性与立法通行权 | 国家教育知识生产与改革议程正统性 |
 > | **主要运作机制** | 条件协商、视线引导、审查防卫 | 价值认知过滤、路径裁量、工时配置 | 政治危机动员、技术实操审读、跨州比对 | 身份重叠模糊、课题资助捆绑、可思空间闭合 |
-> | **代表文献** | [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]]; [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] | [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013)]] | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] |
+> | **代表文献** | [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] | [[Argument_Altrichter_2019_ZfB\|Altrichter et al. (2019)]]; [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b)]] |
 
 ---
 
@@ -514,7 +514,7 @@ Bogdan and Biklen（1992）提出了把关人在审查研究方案时核心关�
 > | **准入互动的数据生成机制** | 把关门槛、审查阻力与防御互动本身构成揭示场域权力文化的一手经验数据 | 田野准入谈判、机构阻力分析与研究方法论反思 | Hammersley & Atkinson |
 > | **组织变革的价值认知过滤** | 学校领导者作为宏观政策下沉的组织把关人，其价值信念决定了外部改革工具能否转化为微观实践 | [[Output-Oriented Governance\|产出导向治理]]落地、[[Evidence-Based School Development\|循证学校发展]]与校长角色调适 | [[Helmut Fend\|Fend]]; [[Herbert Altrichter\|Altrichter et al.]] |
 > | **外部问责对循证把关的塑造** | 治理问责体制的利害属性（高利害 vs 低利害）决定了学校把关人对研究证据的吸收模式与教师专长形态 | 跨国教育治理督导体制、表演性合规与[[Reflexivity\|反思性]]同侪会商 | Kelly et al.; Gough et al.; Brown & Greany |
-> | **政策生命周期证据权变机制** | 宏观政策生命周期中不同权力节点的制度把关人迫使科学证据从宏观象征符号向微观技术工具发生阶段权变演化 | 宏观政策议程设置、标准研制与法定表决全周期 | [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013)]] |
+> | **政策生命周期证据权变机制** | 宏观政策生命周期中不同权力节点的制度把关人迫使科学证据从宏观象征符号向微观技术工具发生阶段权变演化 | 宏观政策议程设置、标准研制与法定表决全周期 | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] |
 > | **边缘依附把关与话语闭合** | 边缘国家多重制度身份重叠的把关人群体通过垄断科研资金与政策通道闭合国家可思空间 | 跨国教育治理、全球教育话语流通与半外围国家政策依附 | [[Jason Beech\|Beech (2009b)]] |
 
 ---
@@ -558,7 +558,7 @@ Bogdan and Biklen（1992）提出了把关人在审查研究方案时核心关�
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al., 2011]] | Argument | 全面探讨田野准入谈判原则、敏感研究守门人风险控制与担保人演进的权威著作。 |
 > | [[Argument_Altrichter_2019_ZfB\|Altrichter et al., 2019]] | Argument | 实证检验校长作为[[Theories of Policy Change\|政策变革]]把关人的聚类态度及其对教学改进投入影响的核心文献。 |
 > | [[Argument_Kelly_2025_ROE\|Kelly et al., 2025]] | Argument | 跨国实证揭示英德两国不同问责体制下学校把关人证据转译与专长发展分化的文献。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell & Weatherford, 2013]] | Argument | 提出政策生命周期把关人驱动证据权变假说，系统揭示 CCSS 三阶段中制度把关人诉求对证据形态的塑造机制。 |
+> | [[Argument_McDonnell_2013_AmJE\|McDonnell & Weatherford, 2013]] | Argument | 提出政策生命周期把关人驱动证据权变假说，系统揭示 CCSS 三阶段中制度把关人诉求对证据形态的塑造机制。 |
 > | [[Argument_Beech_2009_GlobalGarden\|Beech, 2009b]] | Argument | 经典文献，系统阐述拉美把关人群体在跨国知识流动与国家政策空间中的闭合与垄断功能。 |
 
 ---
@@ -570,7 +570,7 @@ Bogdan and Biklen（1992）提出了把关人在审查研究方案时核心关�
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统探讨质性与[[Sensitive Research|敏感研究]]中的把关人机制，阐明准入谈判原则、非对称利害关系、六种风险防卫行为及担保人角色演变。
 > - [[Argument_Altrichter_2019_ZfB|Altrichter et al. (2019)]] — 将学校校长定性为教育变革把关人，实证检验其对 22 项治理工具的过滤态度，证实把关人价值认同对学校改进活动与微观工时配置具有强烈的塑造效应。
 > - [[Argument_Kelly_2025_ROE|Kelly et al. (2025)]] — 开展英德两国 20 所学校跨国质性比较，揭示外部高利害（[[Ofsted]]）与低利害（[[Institute for Educational Monitoring and Quality Improvement|IfBQ]]）治理问责体制如何决定学校把关人对研究证据的采纳模式（[[Performativity|表演性]]合规 vs [[Reflexivity|反思性]]同侪会商）及教师专长发展。
-> - [[Argument_McDonnell_2013_AJE|McDonnell and Weatherford (2013)]] — 提出政策生命周期把关人驱动证据权变假说，通过全美 [[Common Core State Standards|CCSS]] 政策推进的三阶段追踪，阐明议程设置、方案设计与法定采纳中政治领袖、专家工会与法定表决机构等制度把关人如何迫使实证证据从宏观象征符号向微观技术工具演化。
+> - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 提出政策生命周期把关人驱动证据权变假说，通过全美 [[Common Core State Standards|CCSS]] 政策推进的三阶段追踪，阐明议程设置、方案设计与法定采纳中政治领袖、专家工会与法定表决机构等制度把关人如何迫使实证证据从宏观象征符号向微观技术工具演化。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 构建全球教育五位置模型，揭示半外围国家身份重叠的跨国把关人群体如何通过科研资助与议程垄断闭合国家教育可思空间。
 
 

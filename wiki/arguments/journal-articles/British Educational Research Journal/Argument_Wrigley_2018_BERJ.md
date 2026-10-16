@@ -77,7 +77,7 @@ related_facts:
   - "[[EEF Teaching and Learning Toolkit]]"
   - "[[ResearchED]]"
 related_arguments:
-  - "[[Argument_Simpson_2017_JEP]]"
+  - "[[Argument_Simpson_2017_JEdPolicy]]"
   - "[[Argument_Biesta_2010_SPE]]"
 sources:
   - "[[sources/Wrigley_2018_BERJ|Wrigley_2018_BERJ]]"
@@ -137,7 +137,7 @@ citation_aliases:
 > | 样本层面 | 构成 |
 > |----------|------|
 > | **评估报告样本** | [[Education Endowment Foundation\|EEF]]“新起点”评估报告（EEF, 2015）及其学术发表版本（葛拉德等, 2016）；EEF 项目制学习（Project-based Learning）评估报告（EEF, 2016）。 |
-> | **聚合工具样本** | [[John Hattie\|Hattie]] (2009)《[[Visible Learning\|VL]]》所含 800 项元分析及 50,000 项研究；EEF 发布的《教学与学习工具包》；[[Argument_Simpson_2017_JEP\|Simpson (2017)]] 对该工具包效应量偏差的测量学分析；Blatchford et al. (2012) 关于课堂教学助理（Teaching Assistants, TA）的大型实证研究。 |
+> | **聚合工具样本** | [[John Hattie\|Hattie]] (2009)《[[Visible Learning\|VL]]》所含 800 项元分析及 50,000 项研究；EEF 发布的《教学与学习工具包》；[[Argument_Simpson_2017_JEdPolicy\|Simpson (2017)]] 对该工具包效应量偏差的测量学分析；Blatchford et al. (2012) 关于课堂教学助理（Teaching Assistants, TA）的大型实证研究。 |
 > | **理论文献样本** | Greenhalgh (2014, 2015) 的循证医学危机文献；[[Roy Bhaskar\|Bhaskar]] (1978)、[[Ray Pawson\|Pawson]] (2006) 的社会 [[Scientific Method\|科学方法论（Scientific Method）]]论著。 |
 
 ---
@@ -221,7 +221,7 @@ citation_aliases:
 >    - **数据老化与地域局限** 数据源绝大多数集中于美国，且许多研究已过时半个世纪。
 >    - **测量工具窄化** 大量采用与学习目标脱节的窄化结果测试（例如用朗读单个单词来代表阅读能力） (p. 11)。
 >    - **铰链点（0.40）逻辑漏洞** 无视干预时长（短期强化干预的效应量系统性高于长期项目）、学生年龄（平均效应量随学生年龄增长而呈非线性递减）以及计算基准（混用对照组比较法与前-后测比较法）。
-> 2. **EEF《教学与学习工具包》的三大系统偏差([[Argument_Simpson_2017_JEP\|Simpson, 2017]])**
+> 2. **EEF《教学与学习工具包》的三大系统偏差([[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017]])**
 >    - **对照组设计（Comparison groups）** 控制组如果处于“零干预”状态，测出的效应量会被系统性放大。
 >    - **范围限制（[[Floor and Ceiling Effects\|range restriction]]）** 如果研究对象局限于窄化人群（如11岁阅读障碍男孩），由于其标准差（分母）急剧缩小，计算出的效应量会急剧膨胀，这并非项目本身效果更好 (p. 12)。
 >    - **测量设计（Measure design）** 开发者自行设计的、与干预内容高度契合的测试（如特定代数测验），其测得的效应量远大于第三方标准测试。

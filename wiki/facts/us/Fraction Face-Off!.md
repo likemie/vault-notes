@@ -48,7 +48,7 @@ related_facts:
   - "[[Evidence for ESSA]]"
   - "[[Catch Up Numeracy]]"
 related_arguments:
-  - "[[Argument_Slavin_2019_EP]]"
+  - "[[Argument_Slavin_2019_EducPsychol]]"
 confidence: high
 status: active
 created: 2026-09-17
@@ -62,7 +62,7 @@ updated: 2026-10-16
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **Fraction Face-Off!（分数对决）** 是由范德堡大学（Vanderbilt University）著名特殊教育与数学认知学者林恩·富克斯（Lynn S. Fuchs）与[[Jack Douglas\|道格拉斯]]·富克斯（Douglas Fuchs）研究团队研发、全美公立学校广泛采用的小学四年级数学分数专项干预项目；其核心使命是通过将数轴测量模型与动机竞赛深度融合，依托低成本的教学助教开展双人小组（1:2）密集补救，攻克阻碍弱势儿童向中等代数进阶的“分数鸿沟”。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> **Fraction Face-Off!（分数对决）** 是由范德堡大学（Vanderbilt University）著名特殊教育与数学认知学者林恩·富克斯（Lynn S. Fuchs）与[[Jack Douglas\|道格拉斯]]·富克斯（Douglas Fuchs）研究团队研发、全美公立学校广泛采用的小学四年级数学分数专项干预项目；其核心使命是通过将数轴测量模型与动机竞赛深度融合，依托低成本的教学助教开展双人小组（1:2）密集补救，攻克阻碍弱势儿童向中等代数进阶的“分数鸿沟”。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 依托[[Institute of Education Sciences\|美国教育部教育科学研究院]]（IES）数学与科学认知资助课题于 2010 年代初立项研发，经多轮大规模多学区[[Randomised Controlled Trials\|随机对照试验]]验证，常态化推广至今。
@@ -83,7 +83,7 @@ updated: 2026-10-16
 > - **双人竞赛动机系统（Face-Off Challenge）** 每节课后半段设置快节奏的分数卡牌比拼（如比较大小、快速通分），将沉闷的计算操练转化为同伴良性竞争，极大激发弱势学生的学习专注力。
 
 > [!citation-card] 斯莱文论 Fraction Face-Off! 在初等数学干预中的突出效能
-> 在初等数学方案中，Fraction Face-Off! 展现出令人瞩目的实证成效。由教学助教主导的双人小组辅导（Tier 2，4 年级，2 项严格研究）中，其平均学业[[Effect Size\|效应量]]高达 +0.51，达到了 [[Every Student Succeeds Act\|ESSA]] 的强证据最高等级。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> 在初等数学方案中，Fraction Face-Off! 展现出令人瞩目的实证成效。由教学助教主导的双人小组辅导（Tier 2，4 年级，2 项严格研究）中，其平均学业[[Effect Size\|效应量]]高达 +0.51，达到了 [[Every Student Succeeds Act\|ESSA]] 的强证据最高等级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 >
 > *Fraction Face-Off! evaluated in two randomized studies with [[Teaching Assistant|Teaching Assistants]] working with pairs of fourth graders (Tier 2) yielded a mean effect size of +0.51, meeting the strong evidence standard of ESSA.*
 
@@ -94,7 +94,7 @@ updated: 2026-10-16
 > [!dev-timeline] Fraction Face-Off! 发展历程
 > - **2010–2013 — 认知模型开发与先导[[Efficacy Trial\|效力试验]]** 富克斯团队系统对比数轴模型与传统面积模型，完成 36 课时高度结构化辅导手册与助教培训指南编制。
 > - **2013–2016 — 大样本多中心[[Randomised Controlled Trials\|随机对照试验]]** 在数十所公立学校连续开展严格的多学区 RCT（Fuchs et al., 2016），证实助教主导的干预组在概念理解与统考应用题中均大幅超越[[Business as Usual\|常规对照组]]，[[Effect Size\|效应量]]高达 $+0.51$。
-> - **2016–至今 — 确立为全美数学 Tier 2 黄金金标准** 被美国教育部 [[What Works Clearinghouse\|WWC]] 与 [[Evidence for ESSA]] 一致评定为初等数学强证据标杆方案，并被斯莱文纳入[[Response to Proven Instruction\|循证干预反应]]（RTPI）数学支持矩阵的核心支柱。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> - **2016–至今 — 确立为全美数学 Tier 2 黄金金标准** 被美国教育部 [[What Works Clearinghouse\|WWC]] 与 [[Evidence for ESSA]] 一致评定为初等数学强证据标杆方案，并被斯莱文纳入[[Response to Proven Instruction\|循证干预反应]]（RTPI）数学支持矩阵的核心支柱。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 ---
 
@@ -111,12 +111,12 @@ updated: 2026-10-16
 ## 成效评估与实证发现
 
 > [!finding-cards] 核心实证结论
-> - **初等数学领域的超高因果[[Effect Size\|效应量]]** 在包含两项独立[[Randomised Controlled Trials\|随机对照试验]]的[[Meta-analysis\|元分析]]综合评估中（Fuchs et al., 2016），Fraction Face-Off! 取得了平均 $+0.51$ 的巨大加权学业[[Effect Size\|效应量]]，在概念性分数测验与全美标准化数学成就考试中均表现出极强的因果增益。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> - **初等数学领域的超高因果[[Effect Size\|效应量]]** 在包含两项独立[[Randomised Controlled Trials\|随机对照试验]]的[[Meta-analysis\|元分析]]综合评估中（Fuchs et al., 2016），Fraction Face-Off! 取得了平均 $+0.51$ 的巨大加权学业[[Effect Size\|效应量]]，在概念性分数测验与全美标准化数学成就考试中均表现出极强的因果增益。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 > - **攻克深层数学认知障碍** 实证结果表明，该方案不仅提升了机械分数的计算能力，更显著提升了处境不利学生在代数预备、分数估计及多步骤词汇应用题上的高阶推理表现。
-> - **助教双人小组的极致性价比** 斯莱文（[[Argument_Slavin_2019_EP\|Slavin, 2019]]）高度评价该方案证实了 1:2 双人小组相比 1:1 个别辅导大幅节约了师资工时，且由低成本助教执教，展现出在全美公立学区大规模低成本推广的极大现实可行性。
+> - **助教双人小组的极致性价比** 斯莱文（[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019]]）高度评价该方案证实了 1:2 双人小组相比 1:1 个别辅导大幅节约了师资工时，且由低成本助教执教，展现出在全美公立学区大规模低成本推广的极大现实可行性。
 
 > [!stat-cards]- 关键实证数据
-> - **+0.51** 严格随机对照试验测得的四年级数学平均效应量（$ES$），获 [[Every Student Succeeds Act\|ESSA]] 强证据（Strong）最高评级。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> - **+0.51** 严格随机对照试验测得的四年级数学平均效应量（$ES$），获 [[Every Student Succeeds Act\|ESSA]] 强证据（Strong）最高评级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 > - **1:2** 辅导师生比（双人微小组），由受训助教执教。
 > - **36** 标准干预课程总节数（持续 12 周，每周 3 次，每次 35 分钟）。
 
@@ -125,7 +125,7 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 Fraction Face-Off! 列为初等数学 Tier 2 小组辅导达到 [[Every Student Succeeds Act\|ESSA]] 强[[Evidence Standards\|证据标准]]的标志性学术方案（[[Effect Size\|效应量]] $+0.51$）。
+> - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 Fraction Face-Off! 列为初等数学 Tier 2 小组辅导达到 [[Every Student Succeeds Act\|ESSA]] 强[[Evidence Standards\|证据标准]]的标志性学术方案（[[Effect Size\|效应量]] $+0.51$）。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，展示如何以 Fraction Face-Off! 等强证据工具充实数学多层干预体系。
 > - [[Catch Up Numeracy]] — 同属初等数学强证据辅导方案，侧重 1:1 个别辅导；两者共同构成初等数学低成本助教干预的核心矩阵。
 > - [[Teaching Assistant]] — 教学助教主条目，阐释在初等数学结构化辅导中助教展现出的高因果效能。

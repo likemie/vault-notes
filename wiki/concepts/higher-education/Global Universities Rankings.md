@@ -79,7 +79,7 @@ related_arguments:
   - "[[Argument_Zapp_2022_Springer]]"
   - "[[Argument_Thompson_2022_Promising_Student]]"
   - "[[Argument_Marginson_2025_ECNUROE]]"
-  - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
+  - "[[Argument_Schulze-Cleven_2017_HE]]"
 confidence: medium
 status: stable
 created: '2026-05-11'
@@ -206,13 +206,13 @@ updated: 2026-10-16
 > [!concept-lens] 政治经济学[[Analytic Framework|分析框架]]
 > 排名在[[Academic Capitalism|学术资本主义]][[Champ|场域]]中充当价值通货、双重经济分配轴线以及制度化马太效应的放大器。
 
-> [!claim] [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017)]]
-> **[[Non-monetary Competition|非货币竞争]]的核心通货与双重经济** 在学术界的[[Non-monetary Competition|非货币竞争]]中，排名扮演了核心通货的角色。它将模糊的学术声誉压缩为连续的数字价格信号，为学生、雇主与资助方提供即时决策依据。排名塑造了兼具物质与[[Discourse|话语]]维度的双重经济：在物质层面直接牵引政府专项拨款、科研资助与社会捐赠流向；在话语层面垄断卓越的定义权并赋予符号权力，促成两种资本形态的互为强化（[[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017, pp. 797–802]]）。
+> [!claim] [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al. (2017)]]
+> **[[Non-monetary Competition|非货币竞争]]的核心通货与双重经济** 在学术界的[[Non-monetary Competition|非货币竞争]]中，排名扮演了核心通货的角色。它将模糊的学术声誉压缩为连续的数字价格信号，为学生、雇主与资助方提供即时决策依据。排名塑造了兼具物质与[[Discourse|话语]]维度的双重经济：在物质层面直接牵引政府专项拨款、科研资助与社会捐赠流向；在话语层面垄断卓越的定义权并赋予符号权力，促成两种资本形态的互为强化（[[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al., 2017, pp. 797–802]]）。
 
-> [!claim] [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017)]]
+> [!claim] [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al. (2017)]]
 > **[[Matthew Effect in Academia|制度化的马太效应]]与新封建声望世袭** 排名构成了[[Matthew Effect in Academia|学术马太效应]]的体制化管道。排名系统性偏爱历史老牌院校与资源富集机构，通过每一轮榜单发布持续再确认其优势，使既有精英地位免于受到实质性挑战。从新封建主义视角观察，高位排名宛如当代学术等级中的贵族纹章，使学术声望在时间维度上被世袭化，并在学术劳动力市场上转化为脱离个体实际科研能力的符号资本准入壁垒（pp. 798–802）。
 
-> [!claim] [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017)]]
+> [!claim] [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al. (2017)]]
 > **多价合法性装置** 排名的社会运作兼具符号分配、物质分配与合法性制造三重功能。当高等教育资源极化与阶层再生产的不平等结果显现时，排名为资源寡头化提供了看似客观、中立且基于功绩的合法化解释，满足了政界问责与市场准入的心理需求（p. 809）。
 
 ---

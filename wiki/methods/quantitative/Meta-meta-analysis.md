@@ -122,10 +122,10 @@ related_arguments:
   - "[[Argument_Erdem_2026_SHE]]"
   - "[[Argument_Unal_2026_JECR]]"
   - "[[Argument_Jansen_2026_EPR]]"
-  - "[[Argument_Simpson_2017_JEP]]"
+  - "[[Argument_Simpson_2017_JEdPolicy]]"
   - "[[Argument_Allerup_2015_Paideia]]"
   - "[[Argument_Bergeron_2017_MJE]]"
-  - "[[Argument_Johnson_2023_CE]]"
+  - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_OConnor_2020_AJLL]]"
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Wiliam_2019_ERE]]"
@@ -457,9 +457,9 @@ updated: 2026-10-16
 
 > [!warning] 方法学局限与争议提示
 > 二阶[[Meta-analysis\|元分析]]虽然在统计技术上通过[[Robust Variance Estimation\|三明治估计量]]实现了多水平稳健化，但在[[Epistemology\|认识论]]和证据应用层面仍面临多重系统性挑战：
-> 1. **试验灵敏度混淆** [[Effect Size\|效应量]]大小可能反映研究者操纵试验灵敏度的难易程度而非干预本身有效性（[[Argument_Simpson_2017_JEP\|Simpson, 2017]], 2019）；
+> 1. **试验灵敏度混淆** [[Effect Size\|效应量]]大小可能反映研究者操纵试验灵敏度的难易程度而非干预本身有效性（[[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017]], 2019）；
 > 2. **偏倚逐级复合** 一阶元分析中的未加权、SE/SD 混淆与公式不可比性无法在二阶统计中被自动消除（[[Argument_Allerup_2015_Paideia\|Allerup, 2015]]; [[Argument_Bergeron_2017_MJE\|Bergeron & Rivard, 2017]]; [[Argument_Wecker_2016_ZfE\|Wecker et al., 2016]]）；
-> 3. **透明度与数据重构危机** 粗放元综合常存在数据提取不透明与证实偏差（[[Argument_Johnson_2023_CE\|Johnson & Janzen, 2023]]; [[Argument_OConnor_2020_AJLL\|O'Connor, 2020]]）；
+> 3. **透明度与数据重构危机** 粗放元综合常存在数据提取不透明与证实偏差（[[Argument_Johnson_2023_CritEduc\|Johnson & Janzen, 2023]]; [[Argument_OConnor_2020_AJLL\|O'Connor, 2020]]）；
 > 4. **因果机制距离与政策角色争议** 宏观抽象聚合远离了实在层面的因果机制，知识的局部性与临时性使其难以直接指导政策决策（[[Argument_Snook_2009_NZJES\|Snook et al., 2009]]; [[Argument_Terhart_2011_JCS\|Terhart, 2011]]; [[Argument_Wiliam_2019_ERE\|Wiliam, 2019]]; [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019]]）。
 >
 > [!bias-audit] 商业学术出版体制对知识综合的三重结构性阻碍（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）

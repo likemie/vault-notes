@@ -68,7 +68,7 @@ related_facts:
   - "[[1986 U.S.-Japan Semiconductor Trade Agreement]]"
 related_arguments:
   - "[[Argument_Grindley_1994_JPAM]]"
-  - "[[Argument_Bown_2024_JEP]]"
+  - "[[Argument_Bown_2024_JEconPersp]]"
   - "[[Argument_Block_2008_PS]]"
   - "[[Argument_Macher_1998_CMR]]"
   - "[[Argument_Mody_2017_MOH]]"
@@ -85,7 +85,7 @@ updated: 2026-10-16
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> 日本超大规模集成电路项目（Very Large Scale Integration Project, VLSI Project）是 1976 年至 1980 年间由[[Ministry of International Trade and Industry|日本通商产业省]]（Ministry of International Trade and Industry, MITI）发起并主导的国家级高技术[[Precompetitive Research|前竞争研发]]联盟项目，旨在应对美国 IBM 推出“未来系统”（Future System, FS）及半导体先进制程领跑的严峻挑战，通过官产协同整合国内企业研发资源以避免重复研发投入，攻克微米级超大规模集成电路共性制造工艺与关键光刻装备瓶颈。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 726–728)]]; [[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 84)]]; [[Argument_Block_2008_PS|(Block, 2008, pp. 171–172)]]
+> 日本超大规模集成电路项目（Very Large Scale Integration Project, VLSI Project）是 1976 年至 1980 年间由[[Ministry of International Trade and Industry|日本通商产业省]]（Ministry of International Trade and Industry, MITI）发起并主导的国家级高技术[[Precompetitive Research|前竞争研发]]联盟项目，旨在应对美国 IBM 推出“未来系统”（Future System, FS）及半导体先进制程领跑的严峻挑战，通过官产协同整合国内企业研发资源以避免重复研发投入，攻克微米级超大规模集成电路共性制造工艺与关键光刻装备瓶颈。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 726–728)]]; [[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 84)]]; [[Argument_Block_2008_PS|(Block, 2008, pp. 171–172)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 1976 年正式启动，1980 年结项，历时 4 年。
@@ -150,7 +150,7 @@ updated: 2026-10-16
 > [!finding-cards] 核心实证结论
 > 1. **奠定日本半导体制造与存储器全球优势** 项目期间取得约 1200 项发明专利，打通了从材料、设备到晶圆制造的完整链条，使日本在 1980 年代上半叶超越美国成为全球最大的芯片与存储器生产国。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 727, 736–738)]]
 > 2. **成为全球高技术研发联盟的制度标杆与美国学术中心同源共生的催化剂** 树立了政府引导、企业共担、[[Precompetitive Research|前竞争研发]]共享的产业政策[[Paradigm|范式]]，不仅直接触发了美国（[[Sematech]]、MCC）与欧洲（[[ESPRIT]]、[[JESSI]]）的大规模产业联合体，更成为美国工程学者在高校发起[[Academic Entrepreneurship|学术制度创业]]（创建加州理工学院 [[Silicon Structures Project|SSP]]、康奈尔大学 [[National Research and Resource Facility for Submicron Structures|NRRFSS]] 与斯坦福大学 CIS）的核心危机动员合法性[[Discourse|话语]]。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 725–728)]]; [[Argument_Mody_2017_MOH|(Mody, 2017, pp. 286–287, 291–292)]]
-> 3. **开创[[Modern Industrial Policy|现代产业政策]]史前身与第一代使命政策原型** Bown 与 Wang（2024）指出，VLSI 项目代表了 20 世纪后半叶以纵向一体化国家冠军、集中式共性研发和廉价资本配给为特征的传统追赶型产业政策顶峰；该项目与日本系列（Keiretsu）企业网络相结合，促成日本在 1980 年代全球前十大芯片厂商中占据半壁江山（NEC、东芝、日立、富士通、三菱），并成为引发后续美日贸易冲突的制度根源。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 83–85)]]
+> 3. **开创[[Modern Industrial Policy|现代产业政策]]史前身与第一代使命政策原型** Bown 与 Wang（2024）指出，VLSI 项目代表了 20 世纪后半叶以纵向一体化国家冠军、集中式共性研发和廉价资本配给为特征的传统追赶型产业政策顶峰；该项目与日本系列（Keiretsu）企业网络相结合，促成日本在 1980 年代全球前十大芯片厂商中占据半壁江山（NEC、东芝、日立、富士通、三菱），并成为引发后续美日贸易冲突的制度根源。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 83–85)]]
 > 4. **[[Tacit Knowledge|隐性知识]]跨企业扩散机制验证** 证明了人员集中借调与实体联合实验室对于复杂工程技术知识扩散的关键价值。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 752–753)]]
 > 5. **本土装备与材料产业链的协同突破** 助力尼康（Nikon）与佳能（Canon）在步进式光刻机领域实现技术跨越，终结了美国企业在半导体光刻装备上的长期垄断。[[Argument_Grindley_1994_JPAM|(Grindley et al., 1994, pp. 739–741)]]
 > 6. **大宗存储芯片代际演进与工艺积累** 提供了从 16K 到 4M DRAM 持续领先的微细加工共性工艺，直接促成了日本企业在 1980 年代对全球大宗存储器市场的绝对统治。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 109–111)]]
@@ -202,7 +202,7 @@ updated: 2026-10-16
 > > VLSI 项目依托国家资助取得压倒性制造优势，是否必然在国际经贸体系中引发贸易伙伴强烈的报复性产业干预与管理贸易反制？
 > >
 > > - **合法战略追赶论** 认为后发国家在面临外国技术封锁与外部垄断（如 IBM 推出未来系统）时，由政府资助组织共性攻关是克服[[Market Failure|市场失灵]]与赶超技术前沿的合理产业政策工具。
-> > - **地缘贸易冲突与管理贸易反弹论** Bown 与 Wang（2024）指出，日本 VLSI 项目结合廉价资本对美国本土半导体制造构成的毁灭性挤压，直接诱发了美国依据 301 条款出台[[1986 U.S.-Japan Semiconductor Trade Agreement|1986年美日半导体贸易协定]]并动用政府补贴设立 [[Sematech]]，由此拉开了大国间以贸易制裁与制造补贴相呼应的半导体产业政策竞争序幕。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 83–86)]]
+> > - **地缘贸易冲突与管理贸易反弹论** Bown 与 Wang（2024）指出，日本 VLSI 项目结合廉价资本对美国本土半导体制造构成的毁灭性挤压，直接诱发了美国依据 301 条款出台[[1986 U.S.-Japan Semiconductor Trade Agreement|1986年美日半导体贸易协定]]并动用政府补贴设立 [[Sematech]]，由此拉开了大国间以贸易制裁与制造补贴相呼应的半导体产业政策竞争序幕。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 83–86)]]
 >
 > > [!axis] 集权型官僚发展型国家（DBS）赶超 vs 去中心化[[Developmental Network State|发展型网络国家]]（DNS）前沿突破
 > > 探讨东亚集权型官僚发展型国家模式与美国去中心化发展型网络国家在不同技术生命周期与创新形态下的适应性边界。
@@ -240,7 +240,7 @@ updated: 2026-10-16
 > | [[Comparative Case Study]] | Method | 剖析美日欧产业研发联盟治理异同的核心研究设计。 |
 > | [[Argument_Grindley_1994_JPAM\|Grindley et al. (1994)]] | Argument | 系统评估日本 VLSI 研发联盟双层治理架构与共性工艺共享机制的奠基研究。 |
 > | [[Argument_Macher_1998_CMR\|Macher et al. (1998)]] | Argument | 结合微观晶圆厂标杆数据论证美日半导体竞争逆转与垂直专业化分工的权威文献。 |
-> | [[Argument_Bown_2024_JEP\|Bown and Wang (2024)]] | Argument | 将日本 VLSI 项目定性为 20 世纪传统追赶型现代产业政策顶峰与美日贸易争端根源的研究。 |
+> | [[Argument_Bown_2024_JEconPersp\|Bown and Wang (2024)]] | Argument | 将日本 VLSI 项目定性为 20 世纪传统追赶型现代产业政策顶峰与美日贸易争端根源的研究。 |
 > | [[Argument_Mody_2017_MOH\|Mody (2017)]] | Argument | 探讨日本 VLSI 项目如何直接催生美国微电子学术中心与[[Industry Affiliate Program\|产业联盟]]同源共生的历史研究。 |
 > | [[Argument_Block_2008_PS\|Block (2008)]] | Argument | 比较集权 DBS 赶超与去中心化 DNS 前沿创新，揭示日本半导体挑战倒逼美国科技体制重塑的理论文献。 |
 
@@ -252,5 +252,5 @@ updated: 2026-10-16
 > - [[Argument_Block_2008_PS|Block (2008)]] — 对比东亚集权官僚发展型国家（DBS）在标准化产品追赶中的高效与在未知前沿突破中的失灵，阐明日本 VLSI 挑战如何直接倒逼美国构建去中心化[[Developmental Network State|发展型网络国家]]（DNS）并通过 [[MOSIS]] 与 [[Sematech]] 扭转竞争格局。
 > - [[Argument_Grindley_1994_JPAM|Grindley et al. (1994)]] — 系统评估日本 VLSI 联盟在中央联合实验室攻关共性微细加工工艺、在企业内部独立开展专有产品开发的分工机制，以及对全球高技术研发联盟的制度示范。
 > - [[Argument_Macher_1998_CMR|Macher et al. (1998)]] — 结合微观晶圆厂标杆数据，实证分析日本 VLSI 带来的 DRAM 统治优势如何因大宗商品锁定而在 1990 年代被美国无晶圆设计与垂直专业化代工网络反超。
-> - [[Argument_Bown_2024_JEP|Bown and Wang (2024)]] — 从全球产业政策演进史视角，将日本 VLSI 项目定性为 20 世纪传统追赶型产业政策（纵向一体化冠军、集中共性研发与资本配给）的巅峰形态。
+> - [[Argument_Bown_2024_JEconPersp|Bown and Wang (2024)]] — 从全球产业政策演进史视角，将日本 VLSI 项目定性为 20 世纪传统追赶型产业政策（纵向一体化冠军、集中共性研发与资本配给）的巅峰形态。
 > - [[Argument_Mody_2017_MOH|Mody (2017)]] — 揭示美国工程学者如何利用日本[[Ministry of International Trade and Industry|通产省]]斥巨资开展 VLSI 攻关的外部威胁，成功游说五角大楼与 [[National Science Foundation|NSF]] 资助设立国家级微细加工用户设施与产学联合中心。

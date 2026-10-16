@@ -137,7 +137,7 @@ related_arguments:
   - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01]]"
   - "[[Argument_Li_2025_HSSC]]"
-  - "[[Argument_McDonnell_2013_AJE]]"
+  - "[[Argument_McDonnell_2013_AmJE]]"
   - "[[Argument_DeJong_2023_ERR]]"
 related_theories:
   - "[[Human Capital Theory]]"
@@ -230,7 +230,7 @@ updated: 2026-10-16
 > - **加剧教育作为[[Positional Good|位置性商品]]的全球排位竞争** 跨国联赛排名的持续炒作强化了劳动力市场的文凭筛选预期，将教育从培育民主公民的公共福祉降解为争夺相对优势的[[Positional Good|位置性商品]]，不仅驱动了中产阶级家长对私立[[School Choice|择校]]与课外补习的军备竞赛，也诱发各国陷入追求相对位次提升的宏观内耗博弈。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 446, 451–452)]]
 > - **重塑基础科学课程哲学** 推动英、德、日、法等数十个国家修订国家科学课程大纲，显著增加[[Nature of Science|科学本质]]、社会科学争议（[[Socioscientific Issues|SSI]]）与证据评估内容。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01|(The Royal Society, 2026, p. 31)]]
 > - **双向多层驱动** [[Argument_Li_2025_HSSC|Li et al. (2025)]][[Systematic Review|系统综述]]指出，PISA 影响在质量与公平双重路径上展开，通过超国家软治理、国家转译与国内行动者博弈三层机制深刻重塑全球教育格局。
-> - **动员国内危机叙事与驱动国家课程对标（美国 [[Common Core State Standards|CCSS]] 运动）** 跨国评估数据常被国内[[Policy Entrepreneur|政策企业家]]作为打破地方分权阻力与构建国家标准的政治弹药。例如在美国，政策企业家（国家州长协会 [[National Governors Association|NGA]]、[[Council of Chief State School Officers|州首席教育官理事会]] CCSSO）将 PISA 和 [[TIMSS]] 展现的跨国差距转化为核心实证指标，论证美国学生在应对全球[[Knowledge-Based Economy|知识经济]]竞争中存在严峻素养赤字，各州现行课程标准浅薄碎片，以此为自愿性统一国家标准（[[Common Core State Standards|CCSS]]）的制定确立了不可动摇的合法性。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 9–10)]]
+> - **动员国内危机叙事与驱动国家课程对标（美国 [[Common Core State Standards|CCSS]] 运动）** 跨国评估数据常被国内[[Policy Entrepreneur|政策企业家]]作为打破地方分权阻力与构建国家标准的政治弹药。例如在美国，政策企业家（国家州长协会 [[National Governors Association|NGA]]、[[Council of Chief State School Officers|州首席教育官理事会]] CCSSO）将 PISA 和 [[TIMSS]] 展现的跨国差距转化为核心实证指标，论证美国学生在应对全球[[Knowledge-Based Economy|知识经济]]竞争中存在严峻素养赤字，各州现行课程标准浅薄碎片，以此为自愿性统一国家标准（[[Common Core State Standards|CCSS]]）的制定确立了不可动摇的合法性。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 9–10)]]
 
 ### [[Argument_Li_2025_HSSC|Li et al. (2025)]] 综述：质量与公平双轨决策路径
 

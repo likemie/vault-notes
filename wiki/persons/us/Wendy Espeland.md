@@ -51,7 +51,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Thompson_2022_Promising_Student]]"
-  - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
+  - "[[Argument_Schulze-Cleven_2017_HE]]"
 confidence: high
 status: active
 created: 2026-09-12
@@ -95,7 +95,7 @@ updated: 2026-10-16
 >   - **关键概念／方法** 通约化（Commensuration）、制度理性、质性[[Case Study\|案例研究]]。
 >   - **阶段转向** 突破传统经济学将度量视作中立信息收集工具的[[Positivism\|实证主义]]假定，开辟将度量本身视为社会互动与权力建构过程的社会学视阈。
 > - **2000–2010年代 — 排名、问责制与反应性动力学** 转向高等教育与专业领域的定量问责制，追踪法学院 rankings 对院系招生、预算分配、教学实践与学生心理的深度[[Disciplina and Doctrina\|规训]]。
->   - **代表著作** *Rankings and Reactivity: How Public Measures Recreate Social Worlds* (2007, with M. Sauder); *Engines of Anxiety: Academic Rankings, Reputation, and Accountability* (2016)。转引自 [[Argument_Schulze-Cleven_2017_HighEduc\|(Schulze-Cleven et al., 2017, p. 797)]]
+>   - **代表著作** *Rankings and Reactivity: How Public Measures Recreate Social Worlds* (2007, with M. Sauder); *Engines of Anxiety: Academic Rankings, Reputation, and Accountability* (2016)。转引自 [[Argument_Schulze-Cleven_2017_HE\|(Schulze-Cleven et al., 2017, p. 797)]]
 >   - **关键概念／方法** 反应性（Reactivity）、自证预言（Self-Fulfilling Prophecy）、硬指标焦虑。
 >   - **阶段转向** 从静态的指标设计批判，深化为对指标发布后行动者动态反思、逆向博弈与组织行为异化的闭环反馈机制解剖。
 > - **2015年至今 — 全球指标治理、[[Façade of Rationality\|理性表象]]与数字叙事** 参与国际指标社会学前沿论辩，探索超国家治理与跨国组织[[Policy Brokerage\|政策中介]]中数字与叙事的共生辩证法。
@@ -116,7 +116,7 @@ updated: 2026-10-16
 > *Commensuration is the transformation of different qualities into a common metric. It establishes relations between things that are fundamentally different by simplifying information and discarding the contextual nuances.*
 
 > [!citation-card] 排名的反应性机制与社会世界的再造
-> 公共测量会[[Reflexivity\|反身性]]地再造社会世界。当人们知晓自己被衡量并根据指标受到奖惩时，他们会主动改变自身的认知与行动，从而使测量指标反客为主地塑造其本意仅是去测量的制度现实。转引自 [[Argument_Schulze-Cleven_2017_HighEduc\|(Schulze-Cleven et al., 2017, p. 797)]]
+> 公共测量会[[Reflexivity\|反身性]]地再造社会世界。当人们知晓自己被衡量并根据指标受到奖惩时，他们会主动改变自身的认知与行动，从而使测量指标反客为主地塑造其本意仅是去测量的制度现实。转引自 [[Argument_Schulze-Cleven_2017_HE\|(Schulze-Cleven et al., 2017, p. 797)]]
 >
 > *Reactivity refers to the idea that people change their behavior in reaction to being evaluated, observed, or measured. Public measures do not merely register qualities; they actively recreate social worlds.*
 
@@ -132,7 +132,7 @@ updated: 2026-10-16
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al., 2024]] — 引用 Espeland (2015) 论证数字指标在教育公共政策中如何构筑理性客观表象，并为中介机构和决策者阐释“指标故事”保留政治叙事自由。
-> - [[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017]] — 运用 Espeland and Sauder (2007) 的排名履行性与反应性机制，批判全球高等教育政治经济学中的市场化与象征资本锦标赛。
+> - [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017]] — 运用 Espeland and Sauder (2007) 的排名履行性与反应性机制，批判全球高等教育政治经济学中的市场化与象征资本锦标赛。
 > - [[Argument_Thompson_2022_Promising_Student\|Thompson et al., 2022]] — 援引 Espeland and Stevens (2008) 论证教育量化技术对学习者“[[Digital Self\|数字自我]]”的统计构建，揭示数据测量绝非通向真实客观的特权通道。
 
 ---

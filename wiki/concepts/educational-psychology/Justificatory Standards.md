@@ -54,7 +54,7 @@ related_persons:
   - "[[Clark A. Chinn]]"
   - "[[William A. Sandoval]]"
 related_arguments:
-  - "[[Argument_Chinn_2011_EP]]"
+  - "[[Argument_Chinn_2011_EducPsychol]]"
   - "[[Argument_Sandoval_2016_RRE]]"
   - "[[Argument_Duncan_2025_CI]]"
   - "[[Argument_Hofer_1997_RER]]"
@@ -74,7 +74,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> 确证标准（Justificatory Standards）是个体或学术共同体在评价知识主张、理论解释或经验证据的充分性与合法性时所依据的细粒度评价准则（fine-grained criteria）。它既表现为个体心智中评估实证数据与逻辑理论的内部试探法，[[Argument_Chinn_2011_EP\|(Chinn et al., 2011, pp. 154–155)]] 也是特定学科社群在具体探究活动中动态协商、共同达成的社会实践规范。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016, p. 471)]]; [[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, p. 208)]]
+> 确证标准（Justificatory Standards）是个体或学术共同体在评价知识主张、理论解释或经验证据的充分性与合法性时所依据的细粒度评价准则（fine-grained criteria）。它既表现为个体心智中评估实证数据与逻辑理论的内部试探法，[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, pp. 154–155)]] 也是特定学科社群在具体探究活动中动态协商、共同达成的社会实践规范。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016, p. 471)]]; [[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, p. 208)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 评估知识与论证辩护力的微观质性标尺（如“是否需要多源独立印证”、“是否排除竞争性反例”、“是否具备机制解释力”）。
@@ -82,7 +82,7 @@ updated: 2026-10-16
 > - **边界** 确证标准属于微观操作化准则，区别于“知识是否绝对确定”等宏观抽象的[[Epistemological Beliefs\|认识论信念]]（[[Epistemological Beliefs]]），也区别于探究追求的终极指向（[[Epistemic Aims]]）。
 
 > [!citation-card] 确证标准的微观操作化与情境社会性
-> 确证标准在[[Epistemic Cognition\|认识论认知]]中具有高度的微观操作化特征。粗略询问学生是否信任权威或证据毫无意义，关键在于他们基于何种细粒度的确证标准来赋予信任……在科学课堂与探究共同体中，确证准则不是脱域的抽象法则，而是在社会互动中经过持续辩驳与协商而确立的公共规范。（[[Argument_Chinn_2011_EP\|Chinn et al., 2011, pp. 154–155]]; [[Argument_Sandoval_2016_RRE\|Sandoval et al., 2016, p. 471]]; [[Argument_Duncan_2025_CI\|Duncan & Chinn, 2025, p. 208]]）
+> 确证标准在[[Epistemic Cognition\|认识论认知]]中具有高度的微观操作化特征。粗略询问学生是否信任权威或证据毫无意义，关键在于他们基于何种细粒度的确证标准来赋予信任……在科学课堂与探究共同体中，确证准则不是脱域的抽象法则，而是在社会互动中经过持续辩驳与协商而确立的公共规范。（[[Argument_Chinn_2011_EducPsychol\|Chinn et al., 2011, pp. 154–155]]; [[Argument_Sandoval_2016_RRE\|Sandoval et al., 2016, p. 471]]; [[Argument_Duncan_2025_CI\|Duncan & Chinn, 2025, p. 208]]）
 >
 > *Justificatory standards are the fine-grained criteria used to evaluate knowledge claims and evidence... Rather than viewing justification as a static, decontextualized belief, standards are deeply embedded in disciplinary practices and socially negotiated through collective inquiry.*
 
@@ -107,9 +107,9 @@ updated: 2026-10-16
 ## 核心要素
 
 > [!feature] 确证标准的核心维度与分类
-> - **实证确证标准（Evidential Standards）** 涉及如何利用经验材料与实验数据确证信念，如要求全域证据契合、无重大反例、推论直接性以及大规模多源收敛印证。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011, pp. 154–155)]]; [[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 209–211)]]
-> - **非实证确证标准（Nonevidential Standards）** 涉及理论美学与形式逻辑的要求，包括[[Internal Consistency\|内部一致性]]（internal consistency）、解释简洁性（simplicity）、模型优雅性以及启发未来研究的能力（fruitfulness）。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011, p. 155)]]
-> - **证词与权威确证标准（Testimonial Standards）** 评估他人报告与专家证词的细粒度理由，区分盲目盲信与基于科学共同体同行评议、方法透明度及利益冲突审查的理性校准信任（[[Trust Calibration|Calibrated Trust]]）。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011, pp. 151–153)]]
+> - **实证确证标准（Evidential Standards）** 涉及如何利用经验材料与实验数据确证信念，如要求全域证据契合、无重大反例、推论直接性以及大规模多源收敛印证。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, pp. 154–155)]]; [[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 209–211)]]
+> - **非实证确证标准（Nonevidential Standards）** 涉及理论美学与形式逻辑的要求，包括[[Internal Consistency\|内部一致性]]（internal consistency）、解释简洁性（simplicity）、模型优雅性以及启发未来研究的能力（fruitfulness）。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, p. 155)]]
+> - **证词与权威确证标准（Testimonial Standards）** 评估他人报告与专家证词的细粒度理由，区分盲目盲信与基于科学共同体同行评议、方法透明度及利益冲突审查的理性校准信任（[[Trust Calibration|Calibrated Trust]]）。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, pp. 151–153)]]
 > - **动态情境敏感性与社会协商（Situational Sensitivity & Social Negotiation）** 确证标准随任务情境动态调整，并在课堂[[Discourse|话语]]互动流中由师生共同体持续辩驳协商而成。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016, p. 471)]]
 
 > [!logic-map]- 双重视角下确证标准的构成与运作机制
@@ -138,7 +138,7 @@ updated: 2026-10-16
 > 探讨为何抽象的[[Epistemological Beliefs\|认识论信念]]无法预测行为，揭示细粒度确证标准对证据采信与信息甄别的直接决定作用。
 
 > [!claim] [[Clark A. Chinn\|Chinn, C. A.]] et al.
-> **细粒度标准决定行为分野** 粗放地测量个体“是否相信证据”或“是否信任权威”无法解释真实探究行为。两名在[[Questionnaire\|问卷]]上同样标榜相信权威的学习者，面对冲突材料时会表现出完全相反的加工策略：依赖盲信标准者无视方法缺陷直接采信，而持有理性共识标准者则深入审查作者的研究设计与[[Sample Size Determination\|样本量]]。决定学习者能否识破伪科学的不是抽象信念，而是其头脑中调动的细粒度确证标准。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011, pp. 151–155)]]
+> **细粒度标准决定行为分野** 粗放地测量个体“是否相信证据”或“是否信任权威”无法解释真实探究行为。两名在[[Questionnaire\|问卷]]上同样标榜相信权威的学习者，面对冲突材料时会表现出完全相反的加工策略：依赖盲信标准者无视方法缺陷直接采信，而持有理性共识标准者则深入审查作者的研究设计与[[Sample Size Determination\|样本量]]。决定学习者能否识破伪科学的不是抽象信念，而是其头脑中调动的细粒度确证标准。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, pp. 151–155)]]
 
 ---
 
@@ -177,7 +177,7 @@ updated: 2026-10-16
 
 > [!dev-timeline] 概念演变
 > - **1990–1997 — 宏观多维信念归并** Schommer (1990) 与 [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] 将“知识的证成（Justification of knowledge）”列为[[Epistemological Beliefs\|认识论信念]]的核心维度之一，但测量多停留在脱域的抽象[[Questionnaire\|问卷]]题项。
-> - **2011 — 扩展[[Epistemic Cognition\|认识论认知]]与细粒度转向** Chinn 等学者解构了粗放的证成信念，提出实证、非实证与证词三大类细粒度确证标准，确立了其微观黑盒地位。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011)]]
+> - **2011 — 扩展[[Epistemic Cognition\|认识论认知]]与细粒度转向** Chinn 等学者解构了粗放的证成信念，提出实证、非实证与证词三大类细粒度确证标准，确立了其微观黑盒地位。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011)]]
 > - **2016 — 社会情境转向与多层整合** Sandoval 等学者强调确证标准的[[Domain Specificity\|学科特异性]]、情境动态切换性以及在群体互动流中的社会协商本质。[[Argument_Sandoval_2016_RRE\|(Sandoval et al., 2016)]]
 > - **2021 — 干预实证层面的因果验证** [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 的首个[[Epistemology\|认识论]]干预因果[[Meta-analysis\|元分析]]（$k = 28, N = 4{,}373$）从实证角度为确证标准的可教导性提供了关键证据：针对知识如何确证与证据如何检验等核心环节的显性教学干预，对[[Academic Achievement\|学业成就]]具有中等偏上因果效应（$d = 0.509$）；同时，元分析揭示了测验对齐对结果的强力调节——采用高度贴合干预目标的自编测验时[[Effect Size\|效应量]]（$d = 0.808$）是常规学科期末统考（$d \approx 0$）的数十倍，进一步印证了确证标准的作用是精准而非泛化的。
 > - **2025 — 论证评价具象化与[[Epistemology\|认识论]]实质确立** Duncan & Chinn 将确证标准进一步[[Operationalization\|操作化]]为观察与证据整合实践中的规范[[Epistemic Ideals\|认识论理想]]模板，完成了从脱域信念描述到学科探究实践质性评价的理论深化与操作化拓展。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025)]]
@@ -220,7 +220,7 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Chinn_2011_EP\|Chinn et al. (2011)]] — 提出在微观细粒度上测量确证标准，打破粗放质疑即高阶的假象，奠定合理校准信任理论。
+> - [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] — 提出在微观细粒度上测量确证标准，打破粗放质疑即高阶的假象，奠定合理校准信任理论。
 > - [[Argument_Sandoval_2016_RRE\|Sandoval et al. (2016)]] — 将确证标准界定为多层系统中的分布式社会协商实践，揭示职业标准向公民生活迁移的断层危机。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 首个[[Epistemology\|认识论]]干预因果[[Meta-analysis\|元分析]]，证实聚焦确证标准的显性教学对[[Academic Achievement\|学业成就]]有中等偏上的因果效应（$d = 0.509$），并揭示测验对齐是[[Effect Size\|效应量]]的核心调节[[Variable\|变量]]。
 > - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 将确证标准[[Operationalization\|操作化]]为科学论证评价体系中的规范[[Epistemic Ideals\|认识论理想]]（Table 1 & Table 2），实证揭示学生在模型裁决中调用确证标准的运作机制。

@@ -85,7 +85,7 @@ related_arguments:
   - "[[Argument_Mowery_2011_NBER]]"
   - "[[Argument_Schnee_1978_RP]]"
   - "[[Argument_Macher_1998_CMR]]"
-  - "[[Argument_Bown_2024_JEP]]"
+  - "[[Argument_Bown_2024_JEconPersp]]"
   - "[[Argument_Logar_2014_Minerva]]"
 confidence: high
 status: active
@@ -172,7 +172,7 @@ updated: 2026-10-16
 > - **开创硅谷产业基因与高频企业间人才流动** 肖克利等贝尔实验室核心成员离开后前往加州创办肖克利半导体实验室，随后衍生出[[Fairchild Semiconductor|仙童半导体]]与英特尔等芯片巨头。1952 至 1967 年间，至少有 15 家独立半导体新创企业直接追溯至贝尔实验室离职人员（包括 1952 年的 Transitron 与 1955 年的肖克利半导体），其人才持续流入德州仪器与西尔瓦尼亚；AT&T 在反垄断约束与宽松许可政策下对核心技术人员离职创业确立的宽容态度，奠定了全行业高频企业间人才流动的制度范式。[[Argument_Schnee_1978_RP|(Schnee, 1978, pp. 18–19)]]
 > - **打破老牌电子真空管巨头[[Path Dependence|技术锁定]]** 尽管国防部与 AEC 在 1950 年代末将 25% 的全美半导体研发经费投向西电/贝尔实验室等既有真空管制造商，但随后的重大技术突破（如硅晶体管与平面工艺）并非来自贝尔实验室内部商业化，而是由德州仪器与仙童等新兴独立商用厂商主导完成；反垄断同意令对贝尔实验室商业扩张的制度性限制，防止了老牌寡头压制颠覆性新兴架构。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, p. 30)]]
 > - **重塑[[Knowledge Production|知识生产]]分工与现代[[University-Industry Collaboration|产学合作]]** 贝尔实验室的收缩倒逼大企业削减内部基础科研，被迫转向外部寻求[[Source of Knowledge|知识来源]]，从而直接促使大学从以往相对脱钩的状态重新嵌入国家[[Systems of Innovation|创新系统]]，成为当代最大规模的知识供给方。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 36–37, 41–42)]]
-> - **重塑产业组织形态，催生[[Modern Industrial Policy|现代产业政策]]困境** 1984 年 AT&T 被司法部强制拆分后，贝尔实验室纵向一体化的大企业覆盖全产业链研发模式随之瓦解。Bown 与 Wang（2024）指出，这一转折是美国半导体产业从单一垂直整合体演进为设计与代工相互分离的[[Vertical Disintegration|纵向离散]]网络的关键制度起点。当产业中不再存在贝尔实验室这样能够独自承担全链条研发的国家冠军时，协调失灵与战略产能外流等[[Market Failure|市场失灵]]问题开始日益突出；现代产业政策须在这一无国家冠军的分散结构中寻找新的干预支点。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 83, 86–90)]]
+> - **重塑产业组织形态，催生[[Modern Industrial Policy|现代产业政策]]困境** 1984 年 AT&T 被司法部强制拆分后，贝尔实验室纵向一体化的大企业覆盖全产业链研发模式随之瓦解。Bown 与 Wang（2024）指出，这一转折是美国半导体产业从单一垂直整合体演进为设计与代工相互分离的[[Vertical Disintegration|纵向离散]]网络的关键制度起点。当产业中不再存在贝尔实验室这样能够独自承担全链条研发的国家冠军时，协调失灵与战略产能外流等[[Market Failure|市场失灵]]问题开始日益突出；现代产业政策须在这一无国家冠军的分散结构中寻找新的干预支点。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 83, 86–90)]]
 > - **催生新型科研组织（[[Focused Research Organization|FRO]]）与公共资助机制创新** 贝尔实验室衰落后留下的中等规模工程科学缺口，直接启发了[[Focused Research Organization|聚焦研究组织]]（FRO）的创立以及[[National Science Foundation|美国国家科学基金会]]技术、创新与伙伴关系（[[Directorate for Technology, Innovation and Partnerships|TIP]]）理事会对 X 实验室的探索，旨在以全职工程师团队与明确技术里程碑再现跨学科大攻关。[[Argument_Kratsios_2026_OSTP|(Kratsios, 2026, pp. 22–26)]]
 
 > [!stat-cards]- 核心规模数据
@@ -251,7 +251,7 @@ updated: 2026-10-16
 > - [[Argument_Schnee_1978_RP|Schnee (1978)]] — 详尽考据贝尔实验室如何通过 1951 年晶体管研讨会、宽松的员工离职创业政策以及 15 家直接衍生企业，成为全美半导体产业技术扩散与[[Human Capital Theory|人力资本]]培育的最关键母体。
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio and Mowery (2005)]] — 实证分析 1950 年代军方大额半导体研发资助与 1956 年联邦反垄断同意令（零版税强制许可）的制度合力，揭示贝尔实验室如何客观上向全美半导体新创企业开放技术公地并催生仙童与德州仪器的崛起。
 > - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] — 系统梳理 20 世纪下半叶企业中央实验室衰落后，[[Knowledge Production|知识生产]]分工从企业内部向大学-产业合作网络转移的历史演进过程，并反思现代[[University-Industry Collaboration|产学合作]]网络在系统性工程整合能力上的局限性。
-> - [[Argument_Bown_2024_JEP|Bown and Wang (2024)]] — 从产业组织演变视角，论述 1984 年 AT&T 拆分及贝尔实验室模式瓦解如何推动半导体产业由垂直整合走向设计与代工的[[Vertical Disintegration|纵向离散]]，并探讨[[Modern Industrial Policy|现代产业政策]]在无国家冠军结构下的协调困境。
+> - [[Argument_Bown_2024_JEconPersp|Bown and Wang (2024)]] — 从产业组织演变视角，论述 1984 年 AT&T 拆分及贝尔实验室模式瓦解如何推动半导体产业由垂直整合走向设计与代工的[[Vertical Disintegration|纵向离散]]，并探讨[[Modern Industrial Policy|现代产业政策]]在无国家冠军结构下的协调困境。
 > - [[Argument_Mowery_2011_NBER|Mowery (2011)]] — 梳理美国联邦军工采购与反垄断政策对战后贝尔实验室[[Technology Transfer|技术转移]]与商业化路径的深远影响。
 > - [[Argument_Macher_1998_CMR|Macher et al. (1998)]] — 深入考察冷战后美国半导体与通信工业从大企业中央实验室向敏捷初创及全球化外包转型的制度与战略轨迹。
 > - [[Argument_Logar_2014_Minerva|Logar et al. (2014)]] — 以贝尔实验室解体后半导体产业寻求替代性研发组织为背景，系统对比[[Semiconductor Research Corporation|半导体研究公司]]（SRC）产学联合体与国家实验室的治理机制与成效差异。

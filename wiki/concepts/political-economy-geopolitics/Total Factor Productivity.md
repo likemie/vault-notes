@@ -52,9 +52,9 @@ related_facts:
   - "[[International Reading Association]]"
   - "[[CHIPS and Science Act]]"
 related_arguments:
-  - "[[Argument_Glitz_2020_AER]]"
+  - "[[Argument_Glitz_2020_AmEconRev]]"
   - "[[Argument_Reynolds_2024_JICT]]"
-  - "[[Argument_Bogliacino_Pianta_2016_EP]]"
+  - "[[Argument_Bogliacino_Pianta_2016_EconPol]]"
   - "[[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04]]"
 related_instruments: []
 confidence: high
@@ -70,15 +70,15 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **全要素生产率（Total Factor Productivity, TFP / 索洛残差）** 是宏观与产业经济学中衡量生产效率的核心指标，指在总产出增长中扣除资本存量与劳动投入等有形要素增长贡献后的剩余部分（Residual）。在柯布-[[Jack Douglas|道格拉斯]]（Cobb-Douglas）生产函数框架下，全要素生产率通常表述为索洛残差（Solow residual）：$\ln A_{jt} = \ln y_{jt} - \alpha_j \ln k_{jt}$（其中 $y_{jt}$ 为人均产出，$k_{jt}$ 为资本劳动比，$\alpha_j$ 为资本产出弹性）。它综合反映了前沿技术进步、工艺改进、组织管理创新、资源重置效率及[[Learning by Doing|干中学]]经验积累对经济增长的总体贡献。在跨国经济竞争与现代产业战略中，先进制造业由于其极高的研发密集度与跨行业外溢性，被公认为驱动全社会全要素生产率持续增长的战略引擎。[[Argument_Glitz_2020_AER|(Glitz & Meyersson, 2020, pp. 1075–1078)]]; [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 1–3, 14–15)]]
+> **全要素生产率（Total Factor Productivity, TFP / 索洛残差）** 是宏观与产业经济学中衡量生产效率的核心指标，指在总产出增长中扣除资本存量与劳动投入等有形要素增长贡献后的剩余部分（Residual）。在柯布-[[Jack Douglas|道格拉斯]]（Cobb-Douglas）生产函数框架下，全要素生产率通常表述为索洛残差（Solow residual）：$\ln A_{jt} = \ln y_{jt} - \alpha_j \ln k_{jt}$（其中 $y_{jt}$ 为人均产出，$k_{jt}$ 为资本劳动比，$\alpha_j$ 为资本产出弹性）。它综合反映了前沿技术进步、工艺改进、组织管理创新、资源重置效率及[[Learning by Doing|干中学]]经验积累对经济增长的总体贡献。在跨国经济竞争与现代产业战略中，先进制造业由于其极高的研发密集度与跨行业外溢性，被公认为驱动全社会全要素生产率持续增长的战略引擎。[[Argument_Glitz_2020_AmEconRev|(Glitz & Meyersson, 2020, pp. 1075–1078)]]; [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 1–3, 14–15)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** TFP 刻画了生产函数中无法由可观测有形要素投入直接解释的部分——经济学史中常被称为“对无知程度的度量”（Abramovitz, 1956），囊括了技术发明、组织效率、[[Human Capital Theory|人力资本]]质量提升与网络外溢红利。
-> - **用途** 在宏观经济学中用于增长核算（[[Growth]] Accounting）与跨国生产率收敛检验；在实证微观与地缘经济研究中，TFP 差距常被作为技术差距与[[Technological Catch-up|技术追赶]]成效的因[[Variable|变量]]（[[Argument_Glitz_2020_AER|Glitz & Meyersson, 2020]]）；在产业政策制定中用于评估重振制造业对全要素生产率增长的拉动潜力（[[Argument_Reynolds_2024_JICT|Reynolds, 2024]]）。
+> - **用途** 在宏观经济学中用于增长核算（[[Growth]] Accounting）与跨国生产率收敛检验；在实证微观与地缘经济研究中，TFP 差距常被作为技术差距与[[Technological Catch-up|技术追赶]]成效的因[[Variable|变量]]（[[Argument_Glitz_2020_AmEconRev|Glitz & Meyersson, 2020]]）；在产业政策制定中用于评估重振制造业对全要素生产率增长的拉动潜力（[[Argument_Reynolds_2024_JICT|Reynolds, 2024]]）。
 > - **边界** TFP 本身是核算剩余，无法直接分离内生自主创新与外部技术引进的各自比重；其测算结果高度依赖价格指数折算、资本存量折旧率设定与要素份额校准。
 
 > [!citation-card] 技术差距与全要素生产率测算
-> 在两德比较中，对数全要素生产率差距的变动（$\Delta \ln A_{Wjt} - \Delta \ln A_{Ejt}$）可以作为工业间谍[[Technology Transfer|技术转移]]效果的度量——来自西德的间谍情报流入显著缩小了东德行业与西德的 TFP 差距，加速了东德在制造业特定部门的技术追赶进程。[[Argument_Glitz_2020_AER|(Glitz & Meyersson, 2020, pp. 1075–1078)]]
+> 在两德比较中，对数全要素生产率差距的变动（$\Delta \ln A_{Wjt} - \Delta \ln A_{Ejt}$）可以作为工业间谍[[Technology Transfer|技术转移]]效果的度量——来自西德的间谍情报流入显著缩小了东德行业与西德的 TFP 差距，加速了东德在制造业特定部门的技术追赶进程。[[Argument_Glitz_2020_AmEconRev|(Glitz & Meyersson, 2020, pp. 1075–1078)]]
 >
 > *In the German-German comparison, changes in the log TFP gap can serve as a measure of the economic returns to [[Economic and Industrial Espionage|industrial espionage]]: the inflow of Western technological intelligence significantly narrowed the sectoral TFP gap, accelerating East Germany's technological catch-up.*
 
@@ -109,11 +109,11 @@ updated: 2026-10-16
 ## 核心要素
 
 > [!feature] 全要素生产率的核心核算要素与驱动构件
-> - **总产出度量（Gross Output & Value Added）** 使用行业总增加值（Value Added），并通过精细的行业平减指数转换为不变价格序列，剔除通货膨胀与名义价格波动干扰。[[Argument_Glitz_2020_AER|(Glitz & Meyersson, 2020, p. 1076)]]
+> - **总产出度量（Gross Output & Value Added）** 使用行业总增加值（Value Added），并通过精细的行业平减指数转换为不变价格序列，剔除通货膨胀与名义价格波动干扰。[[Argument_Glitz_2020_AmEconRev|(Glitz & Meyersson, 2020, p. 1076)]]
 > - **资本存量估算（Capital Stock Estimation）** 采用[[Perpetual Inventory Method|永续盘存法]]（[[Perpetual Inventory Method]]）根据固定资产历史投资流 $I_{jt}$ 与折旧率 $\delta$ 进行动态推算：$K_{jt} = I_{jt} + (1-\delta) K_{j,t-1}$。
 > - **劳动投入质量调整（Labor Input & [[Human Capital Theory|human capital]]）** 将就业人数与工时结合[[Educational Level|受教育年限]]、技能结构进行加权调整，反映[[Human Capital Theory|人力资本]]提升对生产率的实质贡献。
 > - **制造业研发溢出与生产率引擎（Manufacturing R&D Spillovers）** 制造业具备全行业最高的研发密集度、深度跨行业供应链纽带以及密集的[[Learning by Doing|干中学]]效应；先进制造工艺突破能够向物流、通信及现代服务业产生广泛的 TFP 赋能外溢。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 2–3)]]
-> - **企业微观[[Heterogeneity|异质性]]与资源再配置（Micro-heterogeneity & Reallocation）** 行业内部不同企业间的 TFP 存在显著离散度；市场竞争与产业政策通过淘汰低效组织、激励前沿企业扩张实现宏观 TFP 的整体跃升。[[Argument_Bogliacino_Pianta_2016_EP|(Bogliacino & Pianta, 2016, pp. 153–155)]]
+> - **企业微观[[Heterogeneity|异质性]]与资源再配置（Micro-heterogeneity & Reallocation）** 行业内部不同企业间的 TFP 存在显著离散度；市场竞争与产业政策通过淘汰低效组织、激励前沿企业扩张实现宏观 TFP 的整体跃升。[[Argument_Bogliacino_Pianta_2016_EconPol|(Bogliacino & Pianta, 2016, pp. 153–155)]]
 
 > [!logic-map]- 全要素生产率构成与[[Modern Industrial Policy|现代产业政策]]驱动逻辑
 > ```mermaid
@@ -171,8 +171,8 @@ updated: 2026-10-16
 > [!concept-lens] 跨国生产率收敛与技术扩散
 > 探讨如何利用行业层面的 TFP 差距精准捕捉非正式[[Technology Transfer|技术转移]]与[[Technological Catch-up|技术赶超]]轨迹。
 
-> [!claim] [[Argument_Glitz_2020_AER|Glitz and Meyersson (2020)]]
-> **行业 TFP 差距作为技术追赶的度量工具** 在冷战时期东德对西德的经济追赶研究中，对数 TFP 差距（$\ln A_{Wjt} - \ln A_{Ejt}$）的动态收窄直接反映了来自西方的技术情报转移效应。通过精细校准非市场计划价格体系下的资本与劳动份额，实证检验表明工业间谍获取的情报显著缩小了东德在计算机、化工等关键制造业领域与西德的 TFP 差距，证实了跨国技术溢出能够直接转化为后发经济体的全要素生产率追赶。[[Argument_Glitz_2020_AER|(Glitz & Meyersson, 2020, pp. 1075–1078, 1097)]]
+> [!claim] [[Argument_Glitz_2020_AmEconRev|Glitz and Meyersson (2020)]]
+> **行业 TFP 差距作为技术追赶的度量工具** 在冷战时期东德对西德的经济追赶研究中，对数 TFP 差距（$\ln A_{Wjt} - \ln A_{Ejt}$）的动态收窄直接反映了来自西方的技术情报转移效应。通过精细校准非市场计划价格体系下的资本与劳动份额，实证检验表明工业间谍获取的情报显著缩小了东德在计算机、化工等关键制造业领域与西德的 TFP 差距，证实了跨国技术溢出能够直接转化为后发经济体的全要素生产率追赶。[[Argument_Glitz_2020_AmEconRev|(Glitz & Meyersson, 2020, pp. 1075–1078, 1097)]]
 
 ---
 
@@ -183,8 +183,8 @@ updated: 2026-10-16
 > |---|---|---|---|
 > | **技术剩余度量命题** | TFP 索洛残差揭示了超越物质要素投入的技术与效率贡献 | 宏观增长核算、长期经济增长模型 | Solow (1957); Abramovitz (1956) |
 > | **制造业生产率引擎命题** | 先进制造业研发密集度高、外溢性强，是驱动全社会 TFP 增长的核心载体 | [[Modern Industrial Policy\|现代产业政策]]、制造业回流、去工业化反思 | [[Argument_Reynolds_2024_JICT\|Reynolds (2024)]] |
-> | **技术追赶测度命题** | 跨国行业 TFP 差距可作为量化评估技术转移与追赶效果的[[Dependent Variable\|因变量]] | 国际技术扩散、冷战两德比较、地缘技术博弈 | [[Argument_Glitz_2020_AER\|Glitz and Meyersson (2020)]] |
-> | **微观[[Heterogeneity\|异质性]]演化命题** | 行业内部企业间 TFP 异质性是市场演化筛选与生产率提升的前提 | [[Evolutionary Economics\|演化经济学]]实证、Pavitt 产业分类分析 | [[Argument_Bogliacino_Pianta_2016_EP\|Bogliacino and Pianta (2016)]] |
+> | **技术追赶测度命题** | 跨国行业 TFP 差距可作为量化评估技术转移与追赶效果的[[Dependent Variable\|因变量]] | 国际技术扩散、冷战两德比较、地缘技术博弈 | [[Argument_Glitz_2020_AmEconRev\|Glitz and Meyersson (2020)]] |
+> | **微观[[Heterogeneity\|异质性]]演化命题** | 行业内部企业间 TFP 异质性是市场演化筛选与生产率提升的前提 | [[Evolutionary Economics\|演化经济学]]实证、Pavitt 产业分类分析 | [[Argument_Bogliacino_Pianta_2016_EconPol\|Bogliacino and Pianta (2016)]] |
 
 ---
 
@@ -193,7 +193,7 @@ updated: 2026-10-16
 > [!dev-timeline] 概念演变
 > - **1950年代 — 新古典增长核算奠基** 罗伯特·索洛（Robert Solow, 1957）与摩西·阿布拉莫维茨（Moses Abramovitz, 1956）建立总量生产函数与索洛残差[[Analytic Framework|分析框架]]，确立全要素生产率在经济增长理论中的核心地位。
 > - **1980–1990年代 — [[New Growth Theory|内生增长理论]]与研发模型** 保罗·罗默（Paul Romer, 1986, 1990）与阿吉翁-霍伊特（Aghion & Howitt, 1992）将 TFP 内生化为企业研发投资、知识积累与[[Creative Destruction|创造性破坏]]的结果。
-> - **2010年代 — 企业微观[[Heterogeneity|异质性]]与演化分析** [[Argument_Bogliacino_Pianta_2016_EP|Bogliacino and Pianta (2016)]] 利用跨国微观数据证实行业内持久存在 2–9 倍的 TFP 差距，打破代表性企业假设，揭示创新模式与[[Technological Trajectories|技术轨迹]]对 TFP 演化的决定作用。
+> - **2010年代 — 企业微观[[Heterogeneity|异质性]]与演化分析** [[Argument_Bogliacino_Pianta_2016_EconPol|Bogliacino and Pianta (2016)]] 利用跨国微观数据证实行业内持久存在 2–9 倍的 TFP 差距，打破代表性企业假设，揭示创新模式与[[Technological Trajectories|技术轨迹]]对 TFP 演化的决定作用。
 > - **2020年代 — 现代产业战略与供给侧 TFP 重建** 伊丽莎白·雷诺兹（[[Argument_Reynolds_2024_JICT|Reynolds, 2024]]）等学者将全要素生产率置于大国产业转型核心，强调通过国家[[Modern Industrial Policy|现代产业政策]]重塑先进制造产能、攻克核心供应链瓶颈，从供给侧恢复长期 TFP 增长动能。
 
 ---
@@ -221,7 +221,7 @@ updated: 2026-10-16
 
 ## 实证数据
 
-> [!stat-cards]- 两德行业 TFP 数据（[[Argument_Glitz_2020_AER|Glitz & Meyersson, 2020]]）
+> [!stat-cards]- 两德行业 TFP 数据（[[Argument_Glitz_2020_AmEconRev|Glitz & Meyersson, 2020]]）
 > - **1.490** 两德对数 TFP 的非加权平均差距（1970–1989）。（p. 1077, Table 1）
 > - **21.8%** 1989 年东德 TFP 相对于西德的比率（就业加权平均）。（p. 1097）
 > - **19.2%** 1979 年东德相对西德的 TFP 比率——1970 年代持续处于低位。（p. 1097）
@@ -233,8 +233,8 @@ updated: 2026-10-16
 > |:---|:---|:---|:---|:---|
 > | 美国制造业部门整体 | 占全美企业研发支出 >55%，产出绝大部分商业专利 | 高度依赖车间工艺改进与[[Learning by Doing\|干中学]]良率爬坡，产生广泛技术外溢 | 去工业化削弱创新链条，[[Modern Industrial Policy\|现代产业政策]]（CHIPS/[[International Reading Association\|IRA]]）旨在重筑供给侧生产率基石 | [[Argument_Reynolds_2024_JICT\|(Reynolds, 2024, pp. 1–3, 14–15)]] |
 > | 美国跨世纪 TFP 增长变迁（1900–2014） | 1920–1970 黄金期 TFP 年均复合增速达 2.0% 以上，1970 年后大幅降至约 0.5% | 1970 年后第三次工业革命局限于信息娱乐通信领域，未能扭转全要素生产率长期放缓 | 揭示科技资本过度沉溺于浅层消费软件、放弃重大物理工程导致的[[Big Idea Famine\|大构想饥荒]] | [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04\|(Gordon, 2016; Karp & Zamiska, 2025, pp. 48–49)]] |
-> | 冷战时期东德重点制造业 | 依靠外来科技情报（工业间谍）推动制程改造 | 关键部门情报流入显著缩小行业对数 TFP 差距达数个百分点 | 证明后发经济体能够依托外部工艺[[Technology Transfer\|技术转移]]加速 TFP 收敛 | [[Argument_Glitz_2020_AER\|(Glitz & Meyersson, 2020, pp. 1075–1078)]] |
-> | 欧洲多国制造与服务业微观企业 | 科学驱动型与专业供应商型产业具备最高 TFP 增速 | 企业间 TFP 差距达 2–9 倍，[[Heterogeneity\|异质性]]贯穿整个经济周期 | 证实创新模式与[[Technological Trajectories\|技术轨迹]]对企业生产率分化的决定性作用 | [[Argument_Bogliacino_Pianta_2016_EP\|(Bogliacino & Pianta, 2016, pp. 153–156)]] |
+> | 冷战时期东德重点制造业 | 依靠外来科技情报（工业间谍）推动制程改造 | 关键部门情报流入显著缩小行业对数 TFP 差距达数个百分点 | 证明后发经济体能够依托外部工艺[[Technology Transfer\|技术转移]]加速 TFP 收敛 | [[Argument_Glitz_2020_AmEconRev\|(Glitz & Meyersson, 2020, pp. 1075–1078)]] |
+> | 欧洲多国制造与服务业微观企业 | 科学驱动型与专业供应商型产业具备最高 TFP 增速 | 企业间 TFP 差距达 2–9 倍，[[Heterogeneity\|异质性]]贯穿整个经济周期 | 证实创新模式与[[Technological Trajectories\|技术轨迹]]对企业生产率分化的决定性作用 | [[Argument_Bogliacino_Pianta_2016_EconPol\|(Bogliacino & Pianta, 2016, pp. 153–156)]] |
 
 ---
 
@@ -258,7 +258,7 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Glitz_2020_AER|Glitz and Meyersson (2020)]] — 利用两德行业 TFP 差距变化评估工业间谍与[[Technology Transfer|技术转移]]的生产率效应，系统展示了非市场环境下校准 TFP 的方法论与实证发现。
+> - [[Argument_Glitz_2020_AmEconRev|Glitz and Meyersson (2020)]] — 利用两德行业 TFP 差距变化评估工业间谍与[[Technology Transfer|技术转移]]的生产率效应，系统展示了非市场环境下校准 TFP 的方法论与实证发现。
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 阐述先进制造业在全社会研发创新与全要素生产率增长中的战略支柱地位，揭示美国[[Modern Industrial Policy|现代产业政策]]重塑供给侧生产率动能的核心逻辑。
 > - [[Argument_Karp_Zamiska_2025_Technological_Republic_Ch04|Karp & Zamiska (2025)]] — 援引[[Robert J. Gordon|罗伯特·J. 戈登]]的百年 TFP 增长实证序列，批判当代硅谷向浅层消费与广告算法退缩造成的[[Big Idea Famine|科技野心衰退]]与生产率长期停滞。
-> - [[Argument_Bogliacino_Pianta_2016_EP|Bogliacino and Pianta (2016)]] — 基于跨国微观数据证实企业全要素生产率与创新强度的微观[[Heterogeneity|异质性]]，构建基于 Pavitt 产业分类的动态[[Analytic Framework|分析框架]]。
+> - [[Argument_Bogliacino_Pianta_2016_EconPol|Bogliacino and Pianta (2016)]] — 基于跨国微观数据证实企业全要素生产率与创新强度的微观[[Heterogeneity|异质性]]，构建基于 Pavitt 产业分类的动态[[Analytic Framework|分析框架]]。

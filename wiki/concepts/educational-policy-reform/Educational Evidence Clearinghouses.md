@@ -174,7 +174,7 @@ related_arguments:
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
   - "[[Argument_Ross_Morrison_2021_ECNUROE]]"
   - "[[Argument_Dachet_2021_ECNUROE]]"
-  - "[[Argument_Slavin_2019_EP]]"
+  - "[[Argument_Slavin_2019_EducPsychol]]"
   - "[[Argument_Knogler_2025_BB]]"
   - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Pellegrini_2021_ECNUROE]]"
@@ -244,12 +244,12 @@ updated: 2026-10-16
 
 ### 1.5. 面向实践者的证据转译平台：美国三大代表性平台的功能分工
 
-> [!claim] [[Argument_Slavin_2019_EP\|Slavin (2019)]]
-> **清算机构作为循证改革三条件框架的不可或缺支柱** [[Robert Slavin\|罗伯特·斯莱文]]指出，任何自称“基于证据”的政策法案若要真正重塑实践，必须同时满足三大[[Necessary and Sufficient Conditions\|必要条件]]：已验证具体项目存量、**可信且面向实践者的独立证据清算机构（Educational Evidence Clearinghouses, EEC）**，以及将资源分配与证据等级挂钩的政府政策。清算机构不仅承担着剔除[[Developer-Made Measures\|开发者自编测验]]与利益冲突研究的方法学守门职能，更必须实现从“面向学术界的厚重因果技术报告”向“面向学区采购的轻量级决策转译工具”的功能转变；缺乏具有高度公信力和快速响应机制的清算平台，学术界的因果发现与基层学校的采购决策将永远处于脱节状态。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 24–25)]]
+> [!claim] [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]]
+> **清算机构作为循证改革三条件框架的不可或缺支柱** [[Robert Slavin\|罗伯特·斯莱文]]指出，任何自称“基于证据”的政策法案若要真正重塑实践，必须同时满足三大[[Necessary and Sufficient Conditions\|必要条件]]：已验证具体项目存量、**可信且面向实践者的独立证据清算机构（Educational Evidence Clearinghouses, EEC）**，以及将资源分配与证据等级挂钩的政府政策。清算机构不仅承担着剔除[[Developer-Made Measures\|开发者自编测验]]与利益冲突研究的方法学守门职能，更必须实现从“面向学术界的厚重因果技术报告”向“面向学区采购的轻量级决策转译工具”的功能转变；缺乏具有高度公信力和快速响应机制的清算平台，学术界的因果发现与基层学校的采购决策将永远处于脱节状态。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 24–25)]]
 
 斯莱文从[[Evidence-Based Education|循证教育]]改革实践的视角，对美国三大核心证据审查平台在目标受众、审查取向与更新响应周期上的功能分化作出了明确区分：（pp. 24–25）
 
-> [!row-contrast] 美国三大循证教育证据平台功能分工对比（[[Argument_Slavin_2019_EP\|Slavin, 2019, pp. 24–25]]）
+> [!row-contrast] 美国三大循证教育证据平台功能分工对比（[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019, pp. 24–25]]）
 > | 平台名称 | 主管/运营机构 | 核心目标受众 | 审查标准与定位特征 | 响应与更新周期 |
 > |---|---|---|---|---|
 > | **[[What Works Clearinghouse\|强效清算中心（WWC）]]** | 美国教育部 [[Institute of Education Sciences\|IES]] | 政策制定者、研究者 | 官方权威基准；侧重因果效度评级；未直接对齐 [[Every Student Succeeds Act\|ESSA]] 拨款法条文本 | 较慢（更新周期常以年计） |
@@ -411,7 +411,7 @@ updated: 2026-10-16
 > - **2007 — [[OECD\|经合组织]]首份标志性报告确立全球中介样本** OECD 发布《教育中的证据：连接研究与政策》，横向剖析美、英、新西兰、丹麦、荷兰、加拿大等国的首批标杆性中介机构，将[[Knowledge Mediation\|知识中介]]确立为连接研究与政策的核心制度命题([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 55–57]])。
 > - **2010–2013 — 欧洲跨国协作网络开启实践维度扩展** [[EU|欧盟]]委员会资助建立 EIPEE 至 [[EU Evidence-Informed Education Policy Initiatives\|EIPPEE]] 跨国网络，汇聚 23 国 36 家机构，正式将知识中介重心由单纯面向政策界拓展至基层课堂教学实践，试验跨国元协调模式([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 67–68]])。
 > - **2011 — 英国 [[Education Endowment Foundation\|EEF]] 设立与实践工具箱下沉** 英国教育部注资 1.25 亿英镑设立教育捐赠基金会（EEF），推出教学与学习工具箱，以额外进展月数与成本为核心指标，开创了面向教师与[[School Leadership\|学校领导]]的实践中介模式([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 142]])。
-> - **2015 — [[Every Student Succeeds Act\|ESSA]] 四级[[Evidence Standards\|证据标准]]驱动平台多元化** 美国《每个学生都成功法案》（ESSA）正式出台四级证据框架，推动清算中心评级深度嵌入全美学区采购；约翰斯·霍普金斯大学推出 [[Evidence for ESSA]] 等实践平台，形成多中心格局——WWC 服务政策研究者、[[Best Evidence Encyclopedia\|BEE]] 面向学术界、Evidence for ESSA 则专为校长学区直接采购设计，月活跃用户超 7 万（[[Argument_Slavin_2019_EP\|Slavin, 2019, pp. 24–25]]）。
+> - **2015 — [[Every Student Succeeds Act\|ESSA]] 四级[[Evidence Standards\|证据标准]]驱动平台多元化** 美国《每个学生都成功法案》（ESSA）正式出台四级证据框架，推动清算中心评级深度嵌入全美学区采购；约翰斯·霍普金斯大学推出 [[Evidence for ESSA]] 等实践平台，形成多中心格局——WWC 服务政策研究者、[[Best Evidence Encyclopedia\|BEE]] 面向学术界、Evidence for ESSA 则专为校长学区直接采购设计，月活跃用户超 7 万（[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019, pp. 24–25]]）。
 > - **2016–2018 — 动态元数据库上线与跨国商业转化机制** [[John Hattie\|约翰·哈蒂]]团队上线 [[Visible Learning]] MetaX 全球动态数据库，汇聚数千项[[Meta-analysis\|元分析]]与超 3 亿学生样本，以 $d \ge 0.40$ 为[[Zone of Desired Effects|铰接点]]发布影响因素气压计，并通过 [[Corwin Press|Corwin]] 商业网络实现全球培训转化。
 > - **2017–2019 — 政治周期冲击与体制调整分化** 丹麦清算中心因政府短期合同未续签被迫关停；新西兰 BES 停止资助新综述并转向视频；[[Kunnskapssenter for utdanning|挪威知识中心]]下放至斯塔万格大学开展平行评审改革；荷兰创设 [[Netherlands Initiative for Education Research\|NRO]] 知识问答环岛([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, pp. 62–65]])。
 > - **2018 — 私人资本注资与全球生态复制（[[Evidence for Learning\|E4L]] 落地）** 英国 EEF 获得[[BHP Foundation\|必和必拓基金会]]资助启动全球教育证据生态计划，联合[[Social Ventures Australia\|澳大利亚社会创投]]基金（SVA）正式成立澳大利亚有效学习组织（Evidence for Learning, E4L），将教学工具箱深度[[Going Native\|本土化]]引入大洋洲公立与原住民学校系统([[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 49]])。
@@ -488,6 +488,6 @@ updated: 2026-10-16
 > - [[Argument_Dachet_2021_ECNUROE\|Dachet and Baye (2021)]] — 批判直接照搬美英清算中心最高门槛对本地工具的过度排除效应，提出[[Inclusive Evidence Validation Typology\|包容性证据验证类型学]]以支持本土创新工具的分阶孵化。
 > - [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] — 考察英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）及其工具箱在欧洲[[Evidence-Based Education\|循证教育]]治理中的制度化角色与转化机制。
 > - [[Argument_Hitchcock_2015_JBE\|Hitchcock et al. (2015)]] — 详细解析 WWC 在组间实验与[[Single-Subject Design\|单一被试设计]]（[[Single-Case Design\|SCD]]）中采用的[[Internal Validity\|内部效度]]门控规程与 5-3-20 证据综合门槛。
-> - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 从循证教育改革实践者视角，对[[What Works Clearinghouse\|WWC]]、[[Best Evidence Encyclopedia\|BEE]]、[[Evidence for ESSA]] 三大美国平台的目标受众、审查取向与更新响应周期作出功能性比较，并系统论证以 ESSA 强证据方案填充[[Response to Proven Instruction\|循证干预反应]]（RTPI）三层谱系的改革路径。
+> - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 从循证教育改革实践者视角，对[[What Works Clearinghouse\|WWC]]、[[Best Evidence Encyclopedia\|BEE]]、[[Evidence for ESSA]] 三大美国平台的目标受众、审查取向与更新响应周期作出功能性比较，并系统论证以 ESSA 强证据方案填充[[Response to Proven Instruction\|循证干预反应]]（RTPI）三层谱系的改革路径。
 
 ---

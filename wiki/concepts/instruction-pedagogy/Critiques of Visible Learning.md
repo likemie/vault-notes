@@ -139,7 +139,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Snook_2009_NZJES]]"
   - "[[Argument_Terhart_2011_JCS]]"
-  - "[[Argument_Johnson_2023_CE]]"
+  - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
   - "[[Argument_Wecker_2016_ZfE]]"
   - "[[Argument_Bergeron_2017_MJE]]"
@@ -179,7 +179,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **对可见学习的批评（Critiques of [[Visible Learning]]）** 指围绕新西兰教育学者[[John Hattie|约翰·哈蒂]]（John Hattie）及其《[[Visible Learning|可见的学习]]》体系所形成的跨学科、多维度学术批判网络。该批评谱系不仅质疑特定[[Effect Size|效应量]]数值的准确性或排名顺序，更从统计计量学、[[Didaktik|教学理论]]、教育哲学、可见性权力政治、劳动过程监控、政商利益网络与科学哲学划界等层面，系统解构该框架如何将复杂的教育活动压缩为可度量、可排序、可监控的技术指标，揭示其披着[[Positivism|实证主义]]外衣服务于新自由主义紧缩治理与商业变现的实质。[[Argument_Snook_2009_NZJES|(Snook et al., 2009)]]; [[Argument_Terhart_2011_JCS|(Terhart, 2011)]]; [[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023)]]; [[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025)]]
+> **对可见学习的批评（Critiques of [[Visible Learning]]）** 指围绕新西兰教育学者[[John Hattie|约翰·哈蒂]]（John Hattie）及其《[[Visible Learning|可见的学习]]》体系所形成的跨学科、多维度学术批判网络。该批评谱系不仅质疑特定[[Effect Size|效应量]]数值的准确性或排名顺序，更从统计计量学、[[Didaktik|教学理论]]、教育哲学、可见性权力政治、劳动过程监控、政商利益网络与科学哲学划界等层面，系统解构该框架如何将复杂的教育活动压缩为可度量、可排序、可监控的技术指标，揭示其披着[[Positivism|实证主义]]外衣服务于新自由主义紧缩治理与商业变现的实质。[[Argument_Snook_2009_NZJES|(Snook et al., 2009)]]; [[Argument_Terhart_2011_JCS|(Terhart, 2011)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023)]]; [[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025)]]
 
 > [!concept-lens] 概念透镜
 > - **核心指向** 对《可见的学习》所宣称的“硬核实证证据”、“[[Meta-meta-analysis|二阶元分析]]科学性”与“以证据为本改进教学”之神话开展跨[[Paradigm|范式]]学理审视与实证审计。
@@ -187,7 +187,7 @@ updated: 2026-10-16
 > - **适用边界** 聚焦于对 VL 体系外在学理批判、统计方法缺陷、制度扩散风险与商业化网络的研究；不负责替代 VL 理论本体的建构性论述（见 [[Visible Learning]]），亦不否定一线教师在教学实践中追求反馈透明与自主反思的合理努力。
 
 > [!citation-card] 商业化热潮下的货物崇拜产物与方法论不透明性批判
-> 《可见的学习》是一个存在于由教育大师与万能药时尚所构成的市场化世界中的产品，与严谨实验和同行评审的学术传统相去甚远……它是一个由质量未知的研究、统计把戏与作者自以为是的观点拼凑而成的可疑大杂烩。与全书庞大篇幅相比，书中为哈蒂自创的元-[[Meta-analysis|元分析]]方程式所提供的极简说明显得尤为刺眼——这种不透明的方法论阐述完全游离于科学探究的精神之外。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 25–26, 30, 35)]]
+> 《可见的学习》是一个存在于由教育大师与万能药时尚所构成的市场化世界中的产品，与严谨实验和同行评审的学术传统相去甚远……它是一个由质量未知的研究、统计把戏与作者自以为是的观点拼凑而成的可疑大杂烩。与全书庞大篇幅相比，书中为哈蒂自创的元-[[Meta-analysis|元分析]]方程式所提供的极简说明显得尤为刺眼——这种不透明的方法论阐述完全游离于科学探究的精神之外。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 25–26, 30, 35)]]
 >
 > *“Visible Learning is a product that exists in the marketized world of educational gurus and magic bullet fads. This is far from the tradition of careful experimentation and peer review... Visible Learning is a dubious mishmash of research of unknown quality, statistical juggling, and the author’s self-assured opinion... We view this opaque exposition of methodology as outside the spirit of scientific inquiry.”*
 
@@ -201,7 +201,7 @@ updated: 2026-10-16
 > | 比较维度 | 内部计量与[[Metascience\|元科学]]复现审计 | 外部学理与[[Epistemology\|认识论]]/哲学批判 | 政治经济学与批判政策分析 |
 > |---|---|---|---|
 > | **核心视角** | 统计学、计量经济学、[[Metascience\|元科学]]审计 | 欧陆[[Didaktik\|教学论]]、科学哲学、分析哲学、现象学 | [[Critical Pedagogy\|批判教育学]]、教育社会学、劳动过程理论、政策[[Discourse Analysis\|话语分析]] |
-> | **代表文献** | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]；[[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]]；[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | [[Argument_Terhart_2011_JCS\|Terhart (2011)]]；[[Argument_Rømer_2018_EPT\|Rømer (2018)]]；[[Argument_Larsen_2019_EducSci\|Larsen (2019)]] | [[Argument_Grace_2010_NZJES\|Grace (2010)]]；[[Argument_Eacott_2019_IJLE\|Eacott (2019)]]；[[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] |
+> | **代表文献** | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]；[[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]]；[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | [[Argument_Terhart_2011_JCS\|Terhart (2011)]]；[[Argument_Rømer_2018_EPT\|Rømer (2018)]]；[[Argument_Larsen_2019_EducSci\|Larsen (2019)]] | [[Argument_Grace_2010_NZJES\|Grace (2010)]]；[[Argument_Eacott_2019_IJLE\|Eacott (2019)]]；[[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] |
 > | **审查焦点** | 计算公式透明度、样本量加权、[[PICO Framework\|PICO]] 合规率、方差失控与数据复现率 | 概念空洞化、学科内容缺席、评价技术殖民教育目的、[[Bildung]] 遮蔽 | 排除社会不平等、新泰勒制监控、政商旋转门利益输送、[[Class Size\|班额]]无效论服务于财政紧缩 |
 > | **批评终局判定** | “在当前学术发表条件下不可行”；数据复现率 <1%，不可作为决策依据 | “未找到教育圣杯”；以工具理性替代生命价值，造成严重的“观看中的盲视” | 充当新自由主义治理与跨国咨询资本推销廉价修补方案的意识形态武器 |
 
@@ -211,17 +211,17 @@ updated: 2026-10-16
 
 > [!dimension] 可见学习外部学理批评的六大核心维度
 > - **方法论假性精确与统计无效性（Methodological Pseudo-Precision & Statistical Invalidity）**
->   解构其自创的[[Meta-meta-analysis|二级元分析]]算法：隐藏核心计算公式、采用无加权简单算术平均、混淆[[Effect Size|效应量]]类型、忽视一阶研究重叠样本与极端[[Heterogeneity|异质性]]、数据提取失真，最终导致产出的排名与 $d=0.40$ 阈值缺乏统计实体意义。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016)]]; [[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025)]]; [[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023)]]
+>   解构其自创的[[Meta-meta-analysis|二级元分析]]算法：隐藏核心计算公式、采用无加权简单算术平均、混淆[[Effect Size|效应量]]类型、忽视一阶研究重叠样本与极端[[Heterogeneity|异质性]]、数据提取失真，最终导致产出的排名与 $d=0.40$ 阈值缺乏统计实体意义。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016)]]; [[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023)]]
 > - **[[Didaktik|教学理论]]空洞化与学科异质性抹杀（Didaktic Emptiness & De-contextualization）**
 >   批判其将丰富的课堂教学抽离出学科内容体系、教学法情境与师生主体意向，将育人过程矮化为“投入-产出”式的机械操作，陷入盲目的教育技术乐观主义与教师角色浪漫化。[[Argument_Terhart_2011_JCS|(Terhart, 2011)]]
 > - **教育哲学偏狭与自由教养遮蔽（Philosophical Reductionism & Colonization of [[Bildung]]）**
->   揭示评价理论与[[Technical Rationality|技术理性]]对教育哲学的全面殖民：将教育目的彻底等同于可测量的考试分数，误读波普尔世界理论，以[[Radical Constructivism|激进建构主义]]消解客观知识，系统遮蔽了学生作为道德与文化主体的自由教养（Bildung）。[[Argument_Rømer_2018_EPT|(Rømer, 2018)]]; [[Argument_Larsen_2019_EducSci|(Larsen, 2019)]]; [[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023)]]
+>   揭示评价理论与[[Technical Rationality|技术理性]]对教育哲学的全面殖民：将教育目的彻底等同于可测量的考试分数，误读波普尔世界理论，以[[Radical Constructivism|激进建构主义]]消解客观知识，系统遮蔽了学生作为道德与文化主体的自由教养（Bildung）。[[Argument_Rømer_2018_EPT|(Rømer, 2018)]]; [[Argument_Larsen_2019_EducSci|(Larsen, 2019)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023)]]
 > - **可见性全景监控与新泰勒制[[Disciplina and Doctrina|规训]]（[[Panopticism|panoptic surveillance]] & [[Neo-Taylorism]]）**
->   揭露将教学比附为外科手术等流水线技术的工业管理逻辑：依托 [[Assessment Tools for Teaching and Learning|asTTle]] 监控软件与指标化气压计剥夺[[Teacher Professional Agency|教师专业能动性]]，推行白板打卡等形式主义表演，诱发基层教师严重的职业倦怠。[[Argument_Eacott_2019_IJLE|(Eacott, 2019)]]; [[Argument_McKnight_2020_Discourse|(McKnight & Whitburn, 2020)]]; [[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023)]]
+>   揭露将教学比附为外科手术等流水线技术的工业管理逻辑：依托 [[Assessment Tools for Teaching and Learning|asTTle]] 监控软件与指标化气压计剥夺[[Teacher Professional Agency|教师专业能动性]]，推行白板打卡等形式主义表演，诱发基层教师严重的职业倦怠。[[Argument_Eacott_2019_IJLE|(Eacott, 2019)]]; [[Argument_McKnight_2020_Discourse|(McKnight & Whitburn, 2020)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023)]]
 > - **新自由主义商业化与财政紧缩借口（Neoliberal Commercialization & Fiscal Austerity）**
->   追踪其自诞生之初即深度嵌入的新西兰公共教育外包改制：学者身兼咨询机构董事并获取巨额版税，高频鼓吹“[[Class Size|班级规模]]不影响学业”，精准迎合了政府削减教育经费、推卸公共财政责任的紧缩政策诉求。[[Argument_Grace_2010_NZJES|(Grace, 2010)]]; [[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017)]]; [[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023)]]
+>   追踪其自诞生之初即深度嵌入的新西兰公共教育外包改制：学者身兼咨询机构董事并获取巨额版税，高频鼓吹“[[Class Size|班级规模]]不影响学业”，精准迎合了政府削减教育经费、推卸公共财政责任的紧缩政策诉求。[[Argument_Grace_2010_NZJES|(Grace, 2010)]]; [[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023)]]
 > - **[[Cargo Cult Science|货物崇拜科学]]与伪科学划界（Cargo Cult Science & Epistemic Demarcation）**
->   运用费曼科学哲学辨析其伪科学特质：外表高度模仿自然科学的图表、公式与海量数据，实质却回避同行评议、缺乏竭尽全力证明自己可能出错的求真品格，在闭环商业运作中构建不可[[Falsification|证伪]]的数字教条。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023)]]
+>   运用费曼科学哲学辨析其伪科学特质：外表高度模仿自然科学的图表、公式与海量数据，实质却回避同行评议、缺乏竭尽全力证明自己可能出错的求真品格，在闭环商业运作中构建不可[[Falsification|证伪]]的数字教条。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023)]]
 
 ---
 
@@ -231,7 +231,7 @@ updated: 2026-10-16
 > - **2009–2010 年 — 起源反弹与政策警示期** 《[[Visible Learning|可见的学习]]》出版同年，新西兰梅西大学学者（[[Argument_Snook_2009_NZJES\|Snook et al., 2009]]）即从垃圾进垃圾出、阈值武断与排斥社会因素等维度敲响警钟；[[Argument_Grace_2010_NZJES\|Grace (2010)]] 从学者社会良知出发批判其排除贫困与社会不平等，预示了方法论与社会学批判的基本分野。
 > - **2011–2016 年 — 德语学理深化与逐步技术审计期** 德国教学论权威 [[Argument_Terhart_2011_JCS\|Terhart (2011)]] 首次系统提出[[Meta-meta-analysis|元-元分析]]的双重困境、教学论内容空洞与福柯式可见性支配；随后 [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] 开展了长达 6 步的全面统计技术审计，从[[Fixed-Effect Model|固定效应]]违反、加权缺失到方差失控，实证判定该方法在科学上不可行。
 > - **2017–2020 年 — 政治哲学批判、新泰勒制解构与质性案例审查期** 丹麦与澳洲学者全面转向哲学与微观权力批判：[[Argument_Rømer_2018_EPT\|Rømer (2018)]] 论证评价理论殖民教育理论，[[Argument_Larsen_2019_EducSci\|Larsen (2019)]] 提出“观看中的盲视”；[[Argument_Eacott_2019_IJLE\|Eacott (2019)]] 与 [[Argument_McKnight_2020_Discourse\|McKnight and Whitburn (2020)]] 揭露[[Cult of the Guru|大师崇拜]]与新泰勒制监控；[[Argument_OConnor_2020_AJLL\|O'Connor (2020)]] 通过[[Whole Language|全语言]]案例实证揭露先验立场对数据提取的扭曲。
-> - **2021–2026 年 — 深度意识形态解构与[[Metascience|元科学]]可复现性审计期** 批判深化为整体性科学划界与实证审计：Nielsen and Klitmøller (2021) 揭示[[Technical Rationality|技术理性]]满足[[Legitimation Crisis|合法化危机]]；[[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] 系统运用[[Cargo Cult Science|货物崇拜科学]]、[[Neo-Taylorism|新泰勒主义]]、简单算术平均与商业利益追踪实施四位一体解构；[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] 开展首个[[Preregistration|预注册]]元科学全库审计，以不足 1% 的数据复现率在实证上彻底确立了其不可作为决策依据的定论。
+> - **2021–2026 年 — 深度意识形态解构与[[Metascience|元科学]]可复现性审计期** 批判深化为整体性科学划界与实证审计：Nielsen and Klitmøller (2021) 揭示[[Technical Rationality|技术理性]]满足[[Legitimation Crisis|合法化危机]]；[[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] 系统运用[[Cargo Cult Science|货物崇拜科学]]、[[Neo-Taylorism|新泰勒主义]]、简单算术平均与商业利益追踪实施四位一体解构；[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] 开展首个[[Preregistration|预注册]]元科学全库审计，以不足 1% 的数据复现率在实证上彻底确立了其不可作为决策依据的定论。
 
 ---
 
@@ -265,7 +265,7 @@ updated: 2026-10-16
 
 #### 二阶聚合中的加权缺失与简单平均算法黑箱
 
-> [!case] [[Homework|家庭作业]]效应量的逆向还原与加权缺失（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 25–26]]）
+> [!case] [[Homework|家庭作业]]效应量的逆向还原与加权缺失（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 25–26]]）
 > [[John Hattie|哈蒂]]仅用一段文字交代方法，综合 5 项元分析（涵盖 161 项研究、逾 10 万名学生）得出典型效应量 $d=0.29$。然而正文中完全未公布具体计算公式：
 > - **挖掘隐藏数值** 查阅附录 A 的元分析总表，找到 5 项作业元分析报告的 Cohen's $d$ 分别为：$0.36, 0.21, 0.39, 0.21, 0.28$。
 > - **简单算术平均与无权重相加** 将这 5 个数值直接相加除以 5，恰好等于报告的 $0.29$：
@@ -287,7 +287,7 @@ updated: 2026-10-16
 > - **简单平均替代精度加权** 在多数情况下直接以权重相等的简单算术平均代替反方差加权。
 > - **标准误无效汇总** 多个标准误可用时直接取算术平均（如基于探究的学习案例），在数理统计上属于无效的精度合并操作。
 
-> [!tension-table] 总体单一平均值对细分层级真实情况的抹杀（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 26–27]]；[[Argument_Snook_2009_NZJES|Snook et al., 2009, p. 97]]）
+> [!tension-table] 总体单一平均值对细分层级真实情况的抹杀（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 26–27]]；[[Argument_Snook_2009_NZJES|Snook et al., 2009, p. 97]]）
 > | 分析维度 | 汇总量化数值 | 细分层级的真实情况 | 对实践与政策的误导 |
 > |---|---|---|---|
 > | **家庭作业的学段差异** | 总体效应量：<br>$d=0.29$（排第 88 名） | 小学生课外作业：<br>$d=0.15$<br>高中生课外作业：<br>$d=0.64$ | 高中作业若单独列出可排在全书第 17 名；笼统的单一平均值容易诱导政策制定者全盘否定作业价值，或在小学阶段盲目推行。同时抹杀了数学（高效应）与科学、社会科（低效应）的学科差异。 |
@@ -400,7 +400,7 @@ updated: 2026-10-16
 > [!critique-logic] 故事优先主观镜头背离客观统计承诺（[[Argument_OConnor_2020_AJLL|O'Connor, 2020, p. 142]]）
 > 哈蒂自述当前对证据本位的痴迷往往忽视了研究者用来组织证据讲述故事的镜头，坚称故事才是最具说服力的贡献。[[Gene Glass]] (1976) 创立元分析旨在提供客观统计整合工具以消除传统[[Literature Review|文献综述]]的主观叙事偏见。哈蒂将个人主观镜头凌驾于数据清洗之上，彻底违背了元分析消除研究者偏见的方法论初衷。
 
-> [!critique-method] Glass and Smith (1979) [[Class Size|班级规模]]效应量提取的严重失真（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 32–33]]）
+> [!critique-method] Glass and Smith (1979) [[Class Size|班级规模]]效应量提取的严重失真（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 32–33]]）
 > 哈蒂声称从 Glass and Smith (1979) 经典研究中提取出 $d=0.09$ 的极微弱效应量，但 Glass 与 Smith 原文正文根本未报告该数值。原文实验证实：班级规模从 40 人减至 1 人时，[[Academic Achievement|学业成绩]]百分位从 50% 显著跃升至 80% 以上，差异超过 30 个百分位点。哈蒂通过截取曲线平缓尾部并混入高校大课数据，刻意平坦化了班额缩减的实证红利。
 
 ---
@@ -484,7 +484,7 @@ updated: 2026-10-16
 
 #### 机械职业清单比附与技术乐观主义对育人复杂性的矮化
 
-> [!row-contrast] 机械技术职业与学校育人实践的本质差异（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p. 29]]）
+> [!row-contrast] 机械技术职业与学校育人实践的本质差异（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 29]]）
 > | 比较维度 | 机械技术职业（外科手术 / 高山救援） | 真实的学校教育实践（教学育人） |
 > |---|---|---|
 > | **主要任务** | 严格对照核查清单、缝合特定血管、打紧标准安全绳结。 | 在具体的社区、特定的学校和充满差异的班级中建设师生学习共同体。 |
@@ -495,7 +495,7 @@ updated: 2026-10-16
 > Terhart 注意到可见学习中奇特的双重风格：一方面是相当枯燥、几乎机械化书写的关于 138 个影响因素的段落；另一方面是文学化、强调性乐观构建的关于好教学的段落。这种压倒性的旺盛乐观主义被诊断为现代版浪漫化天生教师理想，建立在科学证据和高涨的教育精神之上，却与数据中常常相当怀疑和悲观的意涵形成尖锐矛盾。
 
 > [!warrant] 拒绝工业流水线比附以捍卫教育人文底色
-> 将复杂的师生交互与道德成长矮化为对照核查清单的流水线工序，不仅抽离了教书育人的伦理深度，更在根本上消解了一线教师的情境化[[Professional Judgment|专业判断]]（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p. 29]]）。
+> 将复杂的师生交互与道德成长矮化为对照核查清单的流水线工序，不仅抽离了教书育人的伦理深度，更在根本上消解了一线教师的情境化[[Professional Judgment|专业判断]]（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 29]]）。
 
 ---
 
@@ -594,19 +594,19 @@ updated: 2026-10-16
 
 #### 避开学术检验的商业闭环与不可证伪的货物崇拜科学
 
-> [!critique-logic] 研发体制与盲目崇拜数字的[[Scientism|科学主义]]倾向（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 34–36]]）
+> [!critique-logic] 研发体制与盲目崇拜数字的[[Scientism|科学主义]]倾向（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 34–36]]）
 > 二战后催生的研发（R&D）体制将工程技术与自然[[Scientific Paradigm|科学范式]]奉为圭臬：
 > - **自然科学[[Paradigm|范式]]的机械移植** 部分学者盲目将受控实验与数学模型移植到复杂人文领域，产生深度的[[Scientism|科学主义]]倾向。
 > - **极端简化论与唯数据论** 强行过滤掉道德情感、师生关系与微观情境，将鲜活课堂等同于工业试验车间。
 > - **常识专业判断在数据面前失语** 费曼曾指出，包装着科学数据光环的伪科学方案常常导致一线实践者怀疑自身的专业经验与常识直觉。
 
-> [!tension] 波普尔科学划界标准与可见学习的不可证伪商业闭环（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 34–35]]）
+> [!tension] 波普尔科学划界标准与可见学习的不可证伪商业闭环（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 34–35]]）
 > - **波普尔关于科学划界的本意** 提出可错论旨在区分能够通过严谨实验被证伪的科学理论与永远可以通过事后自圆其说免遭反驳的伪科学。
 > - **哈蒂面对学理批评的回避表态** 哈蒂在出版十年后依然宣称迄今无人挑战过其理论框架，只有提出新解释时事情才令人兴奋（Toscano & Hattie, 2018），回避针对底层数学错误与数据缺陷的严正质询。
 > - **规避学术检验的商业闭环** 可见学习从未提出过可在实验中被证伪的严密假设；其自创算法未经专业同行评审直接进入商业出版，严肃学术批评被隔绝于公众视线之外，其自身则在咨询市场上获取商业利润。
 
 > [!warrant] 复杂教育情境对实验室控制模式的生态抗拒
-> 艾斯纳（[[Elliott Eisner]]）与菲利普斯（Denis Phillips）指出，自然科学之所以成功在于其能在受控实验室中隔离干扰；但真实的课堂中，学生的差异个性、人际交往与即时情绪不是干扰变量，而是育人核心。强行推行实验室控制手段，必然彻底摧毁教育的[[Ecological Validity|生态效度]]（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 35–36]]）。
+> 艾斯纳（[[Elliott Eisner]]）与菲利普斯（Denis Phillips）指出，自然科学之所以成功在于其能在受控实验室中隔离干扰；但真实的课堂中，学生的差异个性、人际交往与即时情绪不是干扰变量，而是育人核心。强行推行实验室控制手段，必然彻底摧毁教育的[[Ecological Validity|生态效度]]（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 35–36]]）。
 
 ---
 
@@ -653,17 +653,17 @@ updated: 2026-10-16
 > - **话语桥梁** Robinson 等（2008）向教育行政社群引入效应量话语，但仍缺乏微观操作细节。
 > - **权威填补** 哈蒂提供了完全契合行政语言的量化数据清单，填补了管理层的问责需求。
 
-> [!policy-context] 贬抑教师专业性的意识形态功能（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 28–29]]）
+> [!policy-context] 贬抑教师专业性的意识形态功能（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 28–29]]）
 > 哈蒂在书中将教学定性为不成熟的职业，将一线教师的经验交流贬低为战争故事和轶事传闻。当教学被成功塑造为缺乏专业素养的机械性工序时，公众对教师群体的专业信任便会动摇，私人商业咨询资本便得以凭借廉价解决方案长驱直入。
 
 #### 行政监控软件原型与硬性打卡考核诱发的表演性危机
 
-> [!proc] 泰勒制监控逻辑从软件原型向理论图表的迁移路径（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p. 28]]）
+> [!proc] 泰勒制监控逻辑从软件原型向理论图表的迁移路径（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 28]]）
 > 1. **工业流水线原型** 泰勒于 1911 年开展工时测定，主张通过标准化动作实施直接管控。
 > 2. **行政监控软件开发** 哈蒂在出版前主持开发了 [[Assessment Tools for Teaching and Learning|asTTle]] 计算机系统，在技术文档中明确写入支持管理层对全校多个科目的软件使用情况进行全网实时追踪。
 > 3. **管理图表视觉迁移** 可见学习中标志性的影响[[Barometer of Achievement|气压计图表]]（Barometer graphics）直接取自 asTTle 系统的管理界面，继承了将丰富复杂的育人活动压缩为仪表刻度的监控逻辑。
 
-> [!case] 维多利亚州推行高影响力教学策略的实践异化（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 29–30]]）
+> [!case] 维多利亚州推行高影响力教学策略的实践异化（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 29–30]]）
 > 澳大利亚维多利亚州依据可见学习强制推行高影响力教学策略（[[Victorian HITS and Literacy Toolkit|HITS]]），产生严重的表演性危机：
 > - **形式主义板书打卡** 教师被硬性规定在上课铃响前必须在白板上端正写出当堂课题与学习意图，否则在常规行政检查中便会被扣分问责。
 > - **专业自主权萎缩与职业倦怠** 僵化的打卡清单压制了教师根据现场氛围灵活施教的专业直觉，同行间的合作信任和教学热情显著下降（Lilley, 2022; Wescott, 2022）。
@@ -687,12 +687,12 @@ updated: 2026-10-16
 
 #### 班额无效论高频宣扬与公立教育资源饥饿化
 
-> [!stat-cards] 词频反差揭示的政策服务意图（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 31–32]]）
+> [!stat-cards] 词频反差揭示的政策服务意图（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 31–32]]）
 > - **95 次** 全书中班级规模（Class Size）一词被高频提及 95 次，遍布 16 个章节，反反复复论证缩班无效。
 > - **1600%** 班级规模的出现频次，是全书效应量排名第一的学生自我报告成绩（仅提及 6 次）的整整 16 倍，显露出极不寻常的政策聚焦。
 > - **d = 0.21** 将班级规模放在第 108 位的边缘位置，为财政部门拒绝增加生均经费、拒绝扩招师资提供了权威盾牌。
 
-> [!policy-context] 饥饿-危机-私有化循环的制度运作（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 33–34]]）
+> [!policy-context] 饥饿-危机-私有化循环的制度运作（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 33–34]]）
 > 这一运作完全符合[[Global Education Reform Movement|全球教育改革运动]]（GERM）的经典逻辑：首先通过持续宣称硬件投资与班级规模缩减无效，合理化政府对公立教育预算的削减（制造公共资源的饥饿）；随后导致公立学校陷入资源短缺与质量危机；最终由政府出资引入[[Corwin Press|考文出版社]]与[[Cognition Education|认知教育]]公司价格昂贵的咨询培训包进行私有化拯救。
 
 #### 公共教育外包改制、专营品牌垄断与政商旋转门
@@ -702,7 +702,7 @@ updated: 2026-10-16
 > - **中介：学者身兼董事与知识产权授权** 哈蒂于 2006 年进入 Multiserve 董事会，2008 年继续担任认知教育公司董事，将可见学习商业推广权授予该公司，设立 [[Visible Learning Branding and Global Influences|Visible Learningplus]] 专营品牌并按比例提取版税。
 > - **落地：跨国资本收购形成全球垄断** 2018 年，国际出版巨头世哲（[[Sage]]）旗下的考文出版社（Corwin Press）买断该品牌，形成年营收估算达 5000 万美元的咨询培训体系，单人认证培训收费高达数千美元。
 
-> [!ref-table] 认知教育公司向哈蒂支付的第三方劳务报酬明细（2010–2015）（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. 48]]；[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）
+> [!ref-table] 认知教育公司向哈蒂支付的第三方劳务报酬明细（2010–2015）（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. 48]]；[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）
 > 依据新西兰官方档案披露的支付记录，哈蒂在数年间累计获取超过 **86.9 万新西兰元（NZD）** 的巨额酬劳：
 >
 > | 支付年份 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 |
@@ -737,7 +737,7 @@ updated: 2026-10-16
 > 尽管极少数辩护者试图在系统论层面构筑认识论正当性，但跨学科的系统批评已形成压倒性定论：
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] 定性其事实上从未找到教育圣杯；
 > - [[Argument_Wecker_2016_ZfE|Wecker et al. (2016)]] 判定该二阶元分析在方法学上不可行；
-> - [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]] 定性其为充斥着统计把戏与商业大师崇拜的货物崇拜科学；
+> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] 定性其为充斥着统计把戏与商业大师崇拜的货物崇拜科学；
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] 以全库不足 1% 的数据复现率证实其彻底不可作为教育决策与政策制定的可靠依据。
 
 ---
@@ -747,11 +747,11 @@ updated: 2026-10-16
 > [!contrast-table] 六大核心批评命题与学术谱系归纳
 > | 命题类型 | 核心理论判定 | 关键分析机制与工具 | 代表学者 |
 > |---|---|---|---|
-> | **命题一：方法论假性精确与统计无效性** | 跨层二阶聚合与无加权简单平均制造了虚假的精确数字霸凌 | 6 步统计技术检验、Fisher $z$ 缺失、样本重叠 93%、数据复现率 <1% | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]；[[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]；[[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]]；[[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]]；[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] |
-> | **命题二：教学理论空洞化与学科异质性抹杀** | 将复杂教学拆解为[[General Purpose Technology\|通用技术]]清单消解了学科教学理论与人文交往 | 教学论内容真空、常模工具表层偏向、外科手术与救援机械比附解构 | [[Argument_Terhart_2011_JCS\|Terhart (2011)]]；[[Argument_Qvortrup_2015_Paideia\|Qvortrup (2015)]]；[[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] |
-> | **命题三：教育哲学偏狭与货物崇拜伪科学** | 技术理性与评价理论殖民教育目的，以封闭系统满足合法化危机 | 评价理论殖民、教养（Bildung）遮蔽、合法化危机、货物崇拜科学划界 | [[Argument_Rømer_2018_EPT\|Rømer (2018)]]；[[Argument_Larsen_2019_EducSci\|Larsen (2019)]]；[[Argument_Nielsen_2021_IRTP\|Nielsen and Klitmøller (2021b)]]；[[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] |
-> | **命题四：可见性全景监控与新泰勒制规训** | 可见性全景监控与标准化清单剥夺[[Teacher Professional Agency\|教师能动性]]并诱发表演性危机 | 福柯全景权力、新泰勒制三维同源性、asTTle 监控原型、HITS 白板打卡 | [[Argument_Terhart_2011_JCS\|Terhart (2011)]]；[[Argument_Eacott_2019_IJLE\|Eacott (2019)]]；[[Argument_McKnight_2020_Discourse\|McKnight and Whitburn (2020)]]；[[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] |
-> | **命题五：政治经济学商业化与紧缩共谋** | 排除非学校因素与班额无效论精准迎合新自由主义财政削支与咨询牟利 | 70–80% 非学校方差排除、财政部证据断裂、86.9 万第三方酬金、GERM 循环 | [[Argument_Grace_2010_NZJES\|Grace (2010)]]；[[Argument_ONeill_2012_NZJES\|O'Neill (2012)]]；[[Argument_Bates_2017_CognitionEducationTrust\|Bates (2017)]]；[[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] |
+> | **命题一：方法论假性精确与统计无效性** | 跨层二阶聚合与无加权简单平均制造了虚假的精确数字霸凌 | 6 步统计技术检验、Fisher $z$ 缺失、样本重叠 93%、数据复现率 <1% | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]]；[[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]；[[Argument_Bergeron_2017_MJE\|Bergeron and Rivard (2017)]]；[[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]；[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] |
+> | **命题二：教学理论空洞化与学科异质性抹杀** | 将复杂教学拆解为[[General Purpose Technology\|通用技术]]清单消解了学科教学理论与人文交往 | 教学论内容真空、常模工具表层偏向、外科手术与救援机械比附解构 | [[Argument_Terhart_2011_JCS\|Terhart (2011)]]；[[Argument_Qvortrup_2015_Paideia\|Qvortrup (2015)]]；[[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] |
+> | **命题三：教育哲学偏狭与货物崇拜伪科学** | 技术理性与评价理论殖民教育目的，以封闭系统满足合法化危机 | 评价理论殖民、教养（Bildung）遮蔽、合法化危机、货物崇拜科学划界 | [[Argument_Rømer_2018_EPT\|Rømer (2018)]]；[[Argument_Larsen_2019_EducSci\|Larsen (2019)]]；[[Argument_Nielsen_2021_IRTP\|Nielsen and Klitmøller (2021b)]]；[[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] |
+> | **命题四：可见性全景监控与新泰勒制规训** | 可见性全景监控与标准化清单剥夺[[Teacher Professional Agency\|教师能动性]]并诱发表演性危机 | 福柯全景权力、新泰勒制三维同源性、asTTle 监控原型、HITS 白板打卡 | [[Argument_Terhart_2011_JCS\|Terhart (2011)]]；[[Argument_Eacott_2019_IJLE\|Eacott (2019)]]；[[Argument_McKnight_2020_Discourse\|McKnight and Whitburn (2020)]]；[[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] |
+> | **命题五：政治经济学商业化与紧缩共谋** | 排除非学校因素与班额无效论精准迎合新自由主义财政削支与咨询牟利 | 70–80% 非学校方差排除、财政部证据断裂、86.9 万第三方酬金、GERM 循环 | [[Argument_Grace_2010_NZJES\|Grace (2010)]]；[[Argument_ONeill_2012_NZJES\|O'Neill (2012)]]；[[Argument_Bates_2017_CognitionEducationTrust\|Bates (2017)]]；[[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] |
 > | **命题六：支持者的学理辩护反思与全景共识** | 理论辩护难以弥合封闭商业专营与机械落地的脱节，学界形成否定定论 | 解释社群二分法、认识论互补、鲁曼结构耦合、全库元科学不可复现定论 | [[Argument_Qvortrup_2019_NordSTEP\|Qvortrup (2019)]]；[[Argument_Terhart_2011_JCS\|Terhart (2011)]]；[[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]]；[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] |
 
 ---
@@ -759,7 +759,7 @@ updated: 2026-10-16
 ## 关键引用
 
 > [!citation-card] Johnson & Janzen 论商业化热潮下的货物崇拜产物与方法论不透明性
-> 可见学习是存在于教育大师与灵丹妙药风潮所构成的商业化世界中的产物……其自创的统计算法未经专业学术刊物的同行评审便直接进入商业出版渠道，严肃期刊上的学理批评被阻隔在普通读者视线之外，其自身则在商业咨询市场上稳固发展。（[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 25–26, 35)]]）
+> 可见学习是存在于教育大师与灵丹妙药风潮所构成的商业化世界中的产物……其自创的统计算法未经专业学术刊物的同行评审便直接进入商业出版渠道，严肃期刊上的学理批评被阻隔在普通读者视线之外，其自身则在商业咨询市场上稳固发展。（[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 25–26, 35)]]）
 >
 > *“[[Visible Learning]] is a product that exists in the marketized world of educational gurus and magic bullet fads... Its self-created statistical algorithms entered commercial publishing channels directly without peer review in professional academic journals, keeping scholarly critiques in serious journals out of ordinary readers’ sight while it firmly thrived in the commercial consultancy market.”*
 
@@ -836,10 +836,10 @@ updated: 2026-10-16
 > | [[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al. (2025)]] | 《[[Visible Learning\|可见的学习]]》（1.2 版）全库 301 个影响因素（1,369 篇一阶[[Meta-analysis\|元分析]]） | [[Preregistration\|预注册]]全量元科学系统审计 | [[PICO Framework\|PICO]] 合规率；数据复现率；效应量缺失率 | 仅 **19%** 完全合规；仅 **2 项**（<1%）可复现数据；**44%** 效应量在一阶文献中完全缺失 | 样本量报告错误率达 72%；技术类研究停滞于 1980 年代 | 全面判定其数据提取链彻底崩溃，严禁作为决策依据 |
 > | [[Argument_Wecker_2016_ZfE\|Wecker et al. (2016)]] | VL [[Effect Size\|效应量]]提取与计算程序 | 计量统计学 6 步检验模型 | 固定效应假设、样本重叠、加权算法、[[Confidence Interval\|置信区间]] | 6 项方法论要求全部遭到系统性违反；混用不可[[Commensuration\|通约]]的效应量公式 | 统计学上完全无效 | 证实其[[Meta-meta-analysis\|二阶元分析]]在当前学术发表条件下在科学上不可行 |
 > | [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] | VL 全部 138 个影响因素的效应量分布 | 统计离散度与变差系数（CV）检验 | 综合效应量变异程度；总体分布方差 | 变差系数高达 **217.4%**（严重超越 33% 的同质性门槛） | 数据方差极度失控 | 证实 138 个因素的效应量分布极其异质，排名缺乏统计比较意义 |
-> | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] | 附录 A 中 5 项[[Homework\|家庭作业]]元分析（161 项研究、逾 10 万人） | 数学逆向还原与加权算法检验 | 算法公式透明度；简单平均 vs. 加权平均 | 5 个隐藏 $d$ 值（0.36, 0.21, 0.39, 0.21, 0.28）直接相加除以 5 等于报告的 $0.29$ | 包含 15 项与 77 项研究的文献被赋予相同权重 | 确证核心效应量为无权简单算术平均，掩盖小学（0.15）与高中（0.64）关键差异 |
-> | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] | Glass and Smith (1979) [[Class Size\|班级规模]]经典元分析 | 原始文献溯源与曲线截取核查 | 班额与成绩收益曲线；提取数值比对 | Glass 与 Smith 证实 40 人与 1 人存在超 **30 个百分位点** 差距；Hattie 提取为 $d=0.09$ | 正文中完全不存在 $d=0.09$ 数值 | 证实其为得出小班无效预设立场，实施严重截取平坦化与失真提取 |
-> | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] | VL 全书核心词频统计 | 文本词频与章节分布统计 | 班级规模 vs. 自我报告成绩提及频次 | 班级规模提及 **95 次**（分布于 16 个章节）；排名第一的自我报告成绩仅提及 **6 次** | 频次反差高达近 16 倍（1600%） | 揭示其关注度失衡服务于政府财政紧缩意图，而非基于统计均衡性 |
-> | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]]（[[Argument_ONeill_2016_Report\|O'Neill et al., 2016]]） | 新西兰官方财务档案（2011–2015） | 机构审计与第三方酬金明细追踪 | 商业咨询机构向学者支付的劳务报酬总额 | 2011 年 1.0 万；2012 年 9.3 万；2013 年 27.2 万；2014 年 27.1 万；2015 年 22.3 万；累计超 **86.9 万新西兰元** | 2010 年因保密协议未披露金额 | 实证揭露学者身兼商业机构董事并抽取大额版税的政商旋转门网络 |
+> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 附录 A 中 5 项[[Homework\|家庭作业]]元分析（161 项研究、逾 10 万人） | 数学逆向还原与加权算法检验 | 算法公式透明度；简单平均 vs. 加权平均 | 5 个隐藏 $d$ 值（0.36, 0.21, 0.39, 0.21, 0.28）直接相加除以 5 等于报告的 $0.29$ | 包含 15 项与 77 项研究的文献被赋予相同权重 | 确证核心效应量为无权简单算术平均，掩盖小学（0.15）与高中（0.64）关键差异 |
+> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | Glass and Smith (1979) [[Class Size\|班级规模]]经典元分析 | 原始文献溯源与曲线截取核查 | 班额与成绩收益曲线；提取数值比对 | Glass 与 Smith 证实 40 人与 1 人存在超 **30 个百分位点** 差距；Hattie 提取为 $d=0.09$ | 正文中完全不存在 $d=0.09$ 数值 | 证实其为得出小班无效预设立场，实施严重截取平坦化与失真提取 |
+> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | VL 全书核心词频统计 | 文本词频与章节分布统计 | 班级规模 vs. 自我报告成绩提及频次 | 班级规模提及 **95 次**（分布于 16 个章节）；排名第一的自我报告成绩仅提及 **6 次** | 频次反差高达近 16 倍（1600%） | 揭示其关注度失衡服务于政府财政紧缩意图，而非基于统计均衡性 |
+> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]]（[[Argument_ONeill_2016_Report\|O'Neill et al., 2016]]） | 新西兰官方财务档案（2011–2015） | 机构审计与第三方酬金明细追踪 | 商业咨询机构向学者支付的劳务报酬总额 | 2011 年 1.0 万；2012 年 9.3 万；2013 年 27.2 万；2014 年 27.1 万；2015 年 22.3 万；累计超 **86.9 万新西兰元** | 2010 年因保密协议未披露金额 | 实证揭露学者身兼商业机构董事并抽取大额版税的政商旋转门网络 |
 > | [[Argument_Snook_2009_NZJES\|Snook et al. (2009)]] | 新西兰与[[International Schools\|国际学校]]效能多层实证研究 | 社会学与计量经济学方差分解比对 | 校外社会背景 vs. 校内因素方差解释率 | 阶级、贫困、家庭资源与健康营养解释学生成绩方差的 **70–80%** | 校内可控变量仅占剩余 20–30% | 证实其排除非学校因素的假说严重脱离教育现实 |
 > | [[Argument_OConnor_2020_AJLL\|O'Connor (2020)]] | VL [[Whole Language\|全语言]]阅读教学元分析处理流程 | 原始引文核验与效应量溯源 | 审查偏倚；删除标准；手动修正方向 | 800+ 项元分析中唯一被手动修正效应量的案例；选择性删除支持全语言的原始研究 | 修正方向完全契合[[John Hattie\|哈蒂]]先验立场 | 证实先验理论偏见直接驱动了次级文献的选择性筛选与篡改 |
 > | [[Argument_Nielsen_2021_IRTP\|Nielsen and Klitmøller (2021b)]] | 反馈（$d=0.73$）项下贡献最大的 5 项元分析（62,761 人，占 92%） | 概念同质性与基础研究逐项审查 | 反馈定义合规性；核心干预类型 | 仅 1 项（Kluger & DeNisi, 1996，且 $d=0.38$）符合定义；其余 4 项为强化、线索、即时性与考官辅助 | 贡献最大的 Witt 样本达 2.4 万人但全文未提及反馈 | 证实其高排名效应量建立在混淆概念标签的概念[[Heterogeneity\|异质性]]之上 |

@@ -48,7 +48,7 @@ related_facts:
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Snook_2009_NZJES]]"
-  - "[[Argument_Simpson_2017_JEP]]"
+  - "[[Argument_Simpson_2017_JEdPolicy]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
   - "[[Argument_Qvortrup_2015_Paideia]]"
   - "[[Argument_Hansen_2015_Paideia]]"
@@ -86,7 +86,7 @@ citation_aliases:
 > [!example] 核心论证
 > ### 1. VL 的流行无法用经验质量解释
 >
-> 作者与多位研究者([[Argument_Snook_2009_NZJES\|Snook et al., 2009]]; Bergeron, 2017; [[Argument_Simpson_2017_JEP\|Simpson, 2017]]; Terhart, 2012; [[Argument_Wrigley_2018_BERJ\|Wrigley, 2018]])一致记录了 VL 的重大方法论缺陷(pp. 80-81, Table 1)：
+> 作者与多位研究者([[Argument_Snook_2009_NZJES\|Snook et al., 2009]]; Bergeron, 2017; [[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017]]; Terhart, 2012; [[Argument_Wrigley_2018_BERJ\|Wrigley, 2018]])一致记录了 VL 的重大方法论缺陷(pp. 80-81, Table 1)：
 >
 > - 复杂性还原：将因果聚焦于单一因素而忽略[[Interaction Effect\|交互效应]]
 > - 消除调节因素：如学生 SES

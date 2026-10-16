@@ -118,10 +118,10 @@ related_arguments:
   - "[[Argument_Eisenhart_Towne_2003_ER]]"
   - "[[Argument_Hitchcock_2015_JBE]]"
   - "[[Argument_Chen_Cheung_2025_ERR]]"
-  - "[[Argument_Slavin_2019_EP]]"
+  - "[[Argument_Slavin_2019_EducPsychol]]"
   - "[[Argument_Wolf_2020_JREE]]"
   - "[[Argument_Manitius_vanHolt_2019_BzS]]"
-  - "[[Argument_Ginsberg_2024_EP]]"
+  - "[[Argument_Ginsberg_2024_EducPolicy]]"
 confidence: high
 status: active
 created: 2026-05-05
@@ -264,7 +264,7 @@ updated: 2026-10-16
 > > [!axis] 审查响应迟滞与微观分域过载 vs 敏捷全景决策支持
 > > 争论官方清算中心冗长的更新周期与微观碎片化评级是否削弱了其政策实用性。
 > >
-> > - **[[Argument_Slavin_2019_EP\|Slavin (2019, pp. 22–26)]] 循证改革视角** WWC 的官方指南与干预报告往往滞后数年方能完成更新，且将同一干预拆解为阅读理解、流利度、词汇等微观细分领域分别发布不同评级，造成一线学校决策者的严重认知过载；同时，WWC 历史上未严厉限制[[Developer-Made Measures\|开发者自编测验]]，导致部分过度对齐项目的[[Effect Size\|效应量]]被人为虚夸 50% 至 100%。这一局限直接促成了 [[Evidence for ESSA]] 等敏捷公益平台的创设。
+> > - **[[Argument_Slavin_2019_EducPsychol\|Slavin (2019, pp. 22–26)]] 循证改革视角** WWC 的官方指南与干预报告往往滞后数年方能完成更新，且将同一干预拆解为阅读理解、流利度、词汇等微观细分领域分别发布不同评级，造成一线学校决策者的严重认知过载；同时，WWC 历史上未严厉限制[[Developer-Made Measures\|开发者自编测验]]，导致部分过度对齐项目的[[Effect Size\|效应量]]被人为虚夸 50% 至 100%。这一局限直接促成了 [[Evidence for ESSA]] 等敏捷公益平台的创设。
 > > - **官方审查机构立场** 坚持详尽的多中心微观评级与严格程序是捍卫国家级证据科学性的必要代价，旨在防范对复杂干预成效的粗暴过度概括。
 >
 > > [!axis] 开发者利益冲突（[[Conflict of Interest in Research\|conflict of interest]]）与[[Preregistration\|预注册]]准入门槛缺失
@@ -284,9 +284,9 @@ updated: 2026-10-16
 > > [!axis] 单研究法定合规漏洞与证据体整合的结构性断裂
 > > 争论 [[Every Student Succeeds Act\|ESSA]] 仅要求单项符合 WWC 标准的研究即可申领联邦拨款，是否制造了系统性的循证采购虚假性。
 > >
-> > - **[[Mark Ginsburg|金斯伯格]]等（[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024]]）财务审计视角** 对美国南方联合学区（SUD）2.88 亿美元教育经费支出开展实证审计，在 4 个核心公共证据库（WWC、Evidence for ESSA、EEF、[[Education Resources Information Center\|ERIC]]）中检索 129 项采购实践所对应的 4,000 余条证据记录，发现了两类结构性漏洞：其一，学区在法律上完全可以援引来自 WWC 或其他单一库的单项研究（即 ESSA 所谓"强证据"的最低要求，Tier I–III）为采购辩护，却对本库内及其他清算中心平行存在的大量反驳证据视而不见；其二，有 26 项采购实践在 WWC 等任一库中均找不到**任何**针对目标学段的研究（"全面证据匮乏"），仍被合规采购（[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024, pp. 173–174]]）。
-> > - **跨学段降维推断的系统性风险** 审计中发现典型案例：以"校外实地考察"为例，WWC 库中仅有一项针对初中青少年项目的研究（Whitesell, 2016），却被用于为小学阶段的采购提供证据背书，形成跨学段降维推断。此类"降维引用"在被审计的支出项目中普遍存在，揭示了以单一清算中心数据为基准的合规体系在年级与[[Domain Specificity\|学科特异性]]上的系统性盲区（[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024, pp. 170–171]]）。
-> > - **单清算中心合规 vs 多库整合证据的合规率差** 基于单库单研究门槛，被审计学区 95%–99% 的采购实践可找到至少一项符合 ESSA Tier I–III 的合规研究；但若切换至跨 4 库证据体综合的视角，合规率骤降至 49%–58%（保守敏感性分析下进一步压缩至 20%），揭示了现行 ESSA 法定证据门槛与真实循证采购标准之间的结构性鸿沟（[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024, p. 173]]）。
+> > - **[[Mark Ginsburg|金斯伯格]]等（[[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024]]）财务审计视角** 对美国南方联合学区（SUD）2.88 亿美元教育经费支出开展实证审计，在 4 个核心公共证据库（WWC、Evidence for ESSA、EEF、[[Education Resources Information Center\|ERIC]]）中检索 129 项采购实践所对应的 4,000 余条证据记录，发现了两类结构性漏洞：其一，学区在法律上完全可以援引来自 WWC 或其他单一库的单项研究（即 ESSA 所谓"强证据"的最低要求，Tier I–III）为采购辩护，却对本库内及其他清算中心平行存在的大量反驳证据视而不见；其二，有 26 项采购实践在 WWC 等任一库中均找不到**任何**针对目标学段的研究（"全面证据匮乏"），仍被合规采购（[[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024, pp. 173–174]]）。
+> > - **跨学段降维推断的系统性风险** 审计中发现典型案例：以"校外实地考察"为例，WWC 库中仅有一项针对初中青少年项目的研究（Whitesell, 2016），却被用于为小学阶段的采购提供证据背书，形成跨学段降维推断。此类"降维引用"在被审计的支出项目中普遍存在，揭示了以单一清算中心数据为基准的合规体系在年级与[[Domain Specificity\|学科特异性]]上的系统性盲区（[[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024, pp. 170–171]]）。
+> > - **单清算中心合规 vs 多库整合证据的合规率差** 基于单库单研究门槛，被审计学区 95%–99% 的采购实践可找到至少一项符合 ESSA Tier I–III 的合规研究；但若切换至跨 4 库证据体综合的视角，合规率骤降至 49%–58%（保守敏感性分析下进一步压缩至 20%），揭示了现行 ESSA 法定证据门槛与真实循证采购标准之间的结构性鸿沟（[[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024, p. 173]]）。
 
 > [!critique] 局限性总结
 > - **微观分域导致的认知过载** WWC 针对同一项目在不同结果域分别发布独立评级，使得非专业用户难以获得一目了然的“整体推荐”信号。
@@ -303,9 +303,9 @@ updated: 2026-10-16
 > |---|---|---|---|---|---|---|
 > | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] | 全美 12 所[[Educational Evidence Clearinghouses\|教育证据清算中心]]汇总的 1,359 个去重教育干预项目池 | 清算机构跨案例比较与跨中心[[Network Analysis\|网络分析]] | 项目收录规模（537 项）、重叠项目数（131 项）、跨机构评级一致率与极端冲突率 | WWC 占全美去重项目总量的 39.5%（规模居首）；与其它清算中心评级一致率仅 24.1%，极端冲突率达 35.7% | — | 实证揭示官方清算中心在评级标准与微观分域上的独特严格性及其与其它机构的分歧（pp. 16–20） |
 > | [[Argument_Wolf_2020_JREE\|Wolf et al. (2020)]] | WWC 数据库收录的教育干预[[Evaluation Research\|评估研究]]全样本 | 开发者利益冲突[[Meta-regression\|元回归]]与偏差审查 | 开发者主导 vs 独立第三方评估效应量差异、自编测验使用率（29% vs 8%） | 开发者实施或[[Categorical Funding\|委托研究]]效应量平均高出 0.141 个标准差（约为独立研究的 1.8 倍） | $p < 0.01$ | 实证确立清算机构建立独立评估防火墙与强制方案预注册的紧迫性（pp. 430–443） |
-> | [[Argument_Slavin_2019_EP\|Slavin (2019)]] | 全美中小学阅读与数学干预项目三十年因果评估库 | 宏观政策综述与清算机制比较 | WWC 审查更新周期、微观分域认知负荷、独立测验过滤与 [[Evidence for ESSA]] 互补效应 | 揭示 WWC 更新滞后数年与微观分域导致学校采购决策困难；促使敏捷平台 Evidence for [[Every Student Succeeds Act\|ESSA]] 诞生并在 6 州落地 | — | 说明官方因果标准需与敏捷实践决策支持机制相结合方能释放循证效能（pp. 22–26） |
+> | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | 全美中小学阅读与数学干预项目三十年因果评估库 | 宏观政策综述与清算机制比较 | WWC 审查更新周期、微观分域认知负荷、独立测验过滤与 [[Evidence for ESSA]] 互补效应 | 揭示 WWC 更新滞后数年与微观分域导致学校采购决策困难；促使敏捷平台 Evidence for [[Every Student Succeeds Act\|ESSA]] 诞生并在 6 州落地 | — | 说明官方因果标准需与敏捷实践决策支持机制相结合方能释放循证效能（pp. 22–26） |
 > | [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart and Towne (2003)]] | 联邦初创期 [[Study Design and Implementation Assessment Device\|WWC Study DIAD]] 规程草案与 47 项公众反馈 | 政策文本追踪与公共评议质评分析 | 初始合同金额（1850 万美元）、公众评议条数（47 条）、规程修正要点（澄清量化非唯一科学、增设 [[Regression Discontinuity Design\|RDD]]、30+ 调节变量） | 初版 Study DIAD 在 47 项公共评议推动下大幅重构，打破实验排他垄断并设立准实验专章 | — | 证实官方清算机构的因果标准在初创期具备可变性，学界民主质证能成为反制行政狭隘化的关键杠杆（pp. 34–36） |
-> | [[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]] | 美国南方联合学区（SUD）2.88 亿美元《[[Title I of the Elementary and Secondary Education Act\|每一个学生成功法]]》Title I 教育经费，跨 129 项采购实践、4 个公共证据库（WWC、Evidence for ESSA、EEF、ERIC） | 跨库证据审计与财务合规分析 | 单库单研究合规率 vs 四库证据体综合合规率；26 项无目标学段研究实践数；跨学段降维推断案例 | 单研究合规视角下合规率达 95%–99%；切换至四库证据体综合视角后骤降至 49%–58%（保守敏感性分析：20%）；26 项实践在任一库中均无目标学段研究 | — | 揭示 ESSA 法定单研究合规门槛制造的循证采购虚假性，以及 WWC 作为单一来源不足以支撑完整体证据评估的结构性局限（pp. 170–174） |
+> | [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] | 美国南方联合学区（SUD）2.88 亿美元《[[Title I of the Elementary and Secondary Education Act\|每一个学生成功法]]》Title I 教育经费，跨 129 项采购实践、4 个公共证据库（WWC、Evidence for ESSA、EEF、ERIC） | 跨库证据审计与财务合规分析 | 单库单研究合规率 vs 四库证据体综合合规率；26 项无目标学段研究实践数；跨学段降维推断案例 | 单研究合规视角下合规率达 95%–99%；切换至四库证据体综合视角后骤降至 49%–58%（保守敏感性分析：20%）；26 项实践在任一库中均无目标学段研究 | — | 揭示 ESSA 法定单研究合规门槛制造的循证采购虚假性，以及 WWC 作为单一来源不足以支撑完整体证据评估的结构性局限（pp. 170–174） |
 
 ---
 
@@ -326,6 +326,6 @@ updated: 2026-10-16
 > | [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] | 前沿实证迁移 | 将 WWC 2022 基线等效标准系统应用于高等教育生成式 AI 实验[[Meta-analysis\|元分析]]的代表作。 |
 > | [[Education Endowment Foundation]] | 机构事实 | 英国准独立慈善证据旗舰，与 WWC 并列为国际循证教育两大巨头。 |
 > | [[EPPI-Centre]] | 机构事实 | 英国大学依托型[[Systematic Review\|系统综述]]先驱，与 WWC 共同构成 [[OECD]] 十五年完全活跃的二元标杆。 |
-> | [[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]] | 关键论证 | 以 2.88 亿美元财务审计揭示 WWC 单库单研究合规门槛的系统性局限，为多库整合证据评估范式提供实证依据。 |
+> | [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] | 关键论证 | 以 2.88 亿美元财务审计揭示 WWC 单库单研究合规门槛的系统性局限，为多库整合证据评估范式提供实证依据。 |
 > | [[Argument_Eisenhart_Towne_2003_ER\|Eisenhart and Towne (2003)]] | 历史与政策论证 | 系统考证 WWC 创设初期的 1850 万美元合同及 [[Study Design and Implementation Assessment Device\|Study DIAD]] 规程在 47 项公共评议推动下的制度调整。 |
 > | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019)]] | 外部论证 | 批判以 WWC 为首的国际清算中心底层转移模型与因果作用假设的反思贫困及实证检验赤字。 |

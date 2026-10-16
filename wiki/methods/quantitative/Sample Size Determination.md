@@ -10,9 +10,9 @@ summary: "研究设计中确定样本大小的决策过程，权衡统计功效�
 type: method
 method_type: quantitative
 method_family: "quantitative"
-method_related_count: 25
-method_related_level: 3
-method_related_stars: "⭐⭐⭐"
+method_related_count: 16
+method_related_level: 2
+method_related_stars: "⭐⭐"
 method_related_color: "#dcfce7"
 tags:
   - method/sampling
@@ -23,31 +23,22 @@ tags:
 related_concepts:
   - "[[Research Purpose]]"
   - "[[Heterogeneity]]"
-  - "[[Variable]]"
-  - "[[Independent Variable]]"
-  - "[[Effective Sample Size]]"
-  - "[[Statistical Significance]]"
   - "[[Unit of Analysis]]"
-  - "[[Metascience]]"
+  - "[[Attrition]]"
+  - "[[Visible Learning]]"
+  - "[[Effective Sample Size]]"
 related_theories: []
 related_methods:
-  - "[[Power Analysis]]"
-  - "[[Survey Research]]"
-  - "[[Ethnography]]"
-  - "[[Qualitative Research]]"
-  - "[[Correlational Research]]"
-  - "[[Confidence Interval]]"
-  - "[[Chi-Squared Test]]"
-  - "[[Multiple Regression]]"
-  - "[[Random Sampling]]"
-  - "[[Meta-regression]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Inverse-Variance Weighting]]"
-  - "[[Randomised Controlled Trials]]"
+  - "[[Chi-Squared Test]]"
+  - "[[Multiple Regression]]"
+  - "[[Power Analysis]]"
+  - "[[Random Sampling]]"
 related_persons: []
-related_facts:
-  - "[[Visible Learning]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch08]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"

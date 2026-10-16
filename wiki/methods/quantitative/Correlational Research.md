@@ -78,7 +78,7 @@ related_methods:
 related_persons: []
 related_arguments:
   - "[[Argument_Brady_2023_EPR]]"
-  - "[[Argument_Ginsberg_2024_EP]]"
+  - "[[Argument_Ginsberg_2024_EducPolicy]]"
   - "[[Argument_Lekhal_2015_Paideia]]"
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
 related_facts:
@@ -99,7 +99,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 方法定义
-> **相关性研究（Correlational Research）** 是指研究者在不主动操纵[[Independent Variable\|自变量]]且不施加外在实验干预的情境下，通过量化测量两个或多个[[Variable\|变量]]，运用统计技术测度变量间的关联强度、共变方向与预测模式的[[Non-intervention Research\|非干预研究]]设计。[[Argument_Brady_2023_EPR\|Brady et al. (2023, pp. 3–4)]] 在对教育心理学实证期刊进行元研究编码时，将所有未操纵自变量且包含量化数据的实证研究统合归入事后回溯（ex post facto）观察与相关设计范畴；而在美国联邦《[[Every Student Succeeds Act\|每个学生成功法]]》（Every Student Succeeds Act, ESSA Section 8101(21)(A)）法定证据框架下，对混杂因素实施统计控制的相关性研究则专门构成了 **Tier III 有希望证据（Promising Evidence）** 的法定实体。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, pp. 162–163)]]
+> **相关性研究（Correlational Research）** 是指研究者在不主动操纵[[Independent Variable\|自变量]]且不施加外在实验干预的情境下，通过量化测量两个或多个[[Variable\|变量]]，运用统计技术测度变量间的关联强度、共变方向与预测模式的[[Non-intervention Research\|非干预研究]]设计。[[Argument_Brady_2023_EPR\|Brady et al. (2023, pp. 3–4)]] 在对教育心理学实证期刊进行元研究编码时，将所有未操纵自变量且包含量化数据的实证研究统合归入事后回溯（ex post facto）观察与相关设计范畴；而在美国联邦《[[Every Student Succeeds Act\|每个学生成功法]]》（Every Student Succeeds Act, ESSA Section 8101(21)(A)）法定证据框架下，对混杂因素实施统计控制的相关性研究则专门构成了 **Tier III 有希望证据（Promising Evidence）** 的法定实体。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 162–163)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 学生认知与情感特征、家庭社会经济地位、学校组织氛围、教师教学行为、微观[[Academic Achievement\|学业成绩]]等在自然常态情境下自然分布的量化指标。
@@ -120,7 +120,7 @@ updated: 2026-10-16
 >   - 相比之下，**相关性研究（Correlational Research）** 是量化非实验设计中的一个**具体类型（Specific Design）**，侧重于直接测量变量间的共变关系（Covariation）与统计关联，通常采用[[Ordinary Least Squares\|普通最小二乘法]]（Ordinary Least Squares, OLS）[[Multiple Regression\|多元回归]]或[[Causal Modeling\|结构方程建模]]，并不依赖准实验的外生断点或政策冲击。
 > - **教育研究实践中的双重语境**
 >   - 在微观课堂教学研究中，“观察”（Observation）常被用作资料收集技术的代称（如课堂编码规程、[[Qualitative Observation\|质性观察]]法、结构化行为观察）。
->   - 在宏观政策证据学与期刊编码中（如 [[Argument_Brady_2023_EPR\|Brady et al., 2023]]），“观察/相关研究”常被并列作为非实验[[Quantitative Research\|量化研究]]的统称，用以对应无需操纵[[Independent Variable\|自变量]]的经验常态数据。而在 [[Every Student Succeeds Act\|ESSA]] 法定分级中，政策条文明确将 Tier III 锁定为“具备选择偏误统计控制的相关性研究”，确立了其规范的定量方法学界标。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, pp. 162–163)]]
+>   - 在宏观政策证据学与期刊编码中（如 [[Argument_Brady_2023_EPR\|Brady et al., 2023]]），“观察/相关研究”常被并列作为非实验[[Quantitative Research\|量化研究]]的统称，用以对应无需操纵[[Independent Variable\|自变量]]的经验常态数据。而在 [[Every Student Succeeds Act\|ESSA]] 法定分级中，政策条文明确将 Tier III 锁定为“具备选择偏误统计控制的相关性研究”，确立了其规范的定量方法学界标。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 162–163)]]
 
 > [!method-position] [[Epistemology\|认识论]]与因果梯级定位
 > - **知识观** 遵循[[Positivism\|实证主义]]与[[Postpositivism\|后实证主义]]认识论，认为教育现象中的各属性能够被客观量化测量，通过大样本统计分布可揭示变量间的稳定协变规律。
@@ -187,7 +187,7 @@ updated: 2026-10-16
 >
 > **结果怎么读** $\beta_1$ 表示在其他控制变量保持不变的前提下，自变量 $X$ 每变动 1 个单位时，因变量 $Y$ 的预期平均变动量。判定系数 $R^2$ 衡量了模型所能解释的因变量总方差变异比例。
 >
-> **注意事项** 该模型满足 ESSA Tier III（有希望证据）的充要条件是必须纳入严格的前测成绩基线与人口特征控制。但该模型仅能排除**可观测变量（Observables）** 的选择偏误，无法消除未被测量的隐性混杂因素（Unobservables）造成的内生性偏误。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, pp. 162–163)]]
+> **注意事项** 该模型满足 ESSA Tier III（有希望证据）的充要条件是必须纳入严格的前测成绩基线与人口特征控制。但该模型仅能排除**可观测变量（Observables）** 的选择偏误，无法消除未被测量的隐性混杂因素（Unobservables）造成的内生性偏误。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 162–163)]]
 
 > [!software-impl] 软件实现与建模命令
 > - **R 语言**
@@ -208,7 +208,7 @@ updated: 2026-10-16
 
 > [!eval-framework] 法定分级与审评准则对比
 > - **[[Every Student Succeeds Act\|ESSA]] Tier III（Promising Evidence，有希望证据）法定准则**
->   - 根据 ESSA 联邦法案规定，合规的 Tier III 相关性研究必须是 **“设计良好且实施良好、具备统计控制选择偏误的相关研究（Well-designed and well-implemented correlational study with statistical controls for selection bias）”**。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, p. 162)]]
+>   - 根据 ESSA 联邦法案规定，合规的 Tier III 相关性研究必须是 **“设计良好且实施良好、具备统计控制选择偏误的相关研究（Well-designed and well-implemented correlational study with statistical controls for selection bias）”**。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, p. 162)]]
 >   - **底线控制要求** 必须在统计模型中强制控制学习者的**基线先前[[Academic Achievement\|学业成绩]]（Prior Achievement/Pre-test）** 以及核心人口统计学[[Variable\|变量]]（如贫困状态、特殊教育资格等），未作基线控制的粗糙横截面相关研究不符合 Tier III 资质。
 >   - **样本要求** 需具备大样本或多地点分布，以保证足够的统计检出力与生态代表性。
 > - **[[What Works Clearinghouse\|有效干预清算中心]]（What Works [[Educational Evidence Clearinghouses\|Clearinghouse]], WWC）审评边界**
@@ -247,8 +247,8 @@ updated: 2026-10-16
 > - **误导教学改进优先级** 相关性研究仅能描述常态伴随特征（如家庭社会经济地位、学生自我概念或欺凌发生率），无法分离反向因果与第三变量混杂。将其直接与拼读教学、课堂反馈等因果干预并列排榜，导致教师误以为改变某些表面伴随现象（如通过口头夸奖拔高自我概念）就能自动提升学业成绩，制造了严重的循证政策误导。[[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, pp. 15–16)]]
 
 > [!critique] 单项相关研究门槛下的合规漏洞与虚假繁荣（基于 Ginsberg et al., 2024）
-> - **单一研究支持下的采购盲区** [[Every Student Succeeds Act\|ESSA]] 法定将 Tier III 设为合格门槛且仅需“至少一项”研究支持。[[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]] 穿透式财务审计发现，大量耗费数千万美元公共教育资金的商业采购项目，全库仅能检索到单一项控制不全的相关性研究（例如针对实地考察 [[Champ\|field]] trips 的单一相关性研究，或 Stoeger 等人关于[[Self-Regulated Learning\|自我调节学习]]的单篇报告）。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, pp. 174, 180)]]
-> - **全量证据矛盾下的合规假象** 学区依托单一相关性报告合法合规地进行大规模采购，掩盖了该方案在因果识别下可能毫无提分实效、甚至在其他独立评估中呈现零效应或负效应的事实。过度放宽对相关性研究的政策依赖，导致公共教育财政巨额资金被锁定在缺乏稳健学业成效支持的常规项目之中。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, pp. 176–178)]]
+> - **单一研究支持下的采购盲区** [[Every Student Succeeds Act\|ESSA]] 法定将 Tier III 设为合格门槛且仅需“至少一项”研究支持。[[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] 穿透式财务审计发现，大量耗费数千万美元公共教育资金的商业采购项目，全库仅能检索到单一项控制不全的相关性研究（例如针对实地考察 [[Champ\|field]] trips 的单一相关性研究，或 Stoeger 等人关于[[Self-Regulated Learning\|自我调节学习]]的单篇报告）。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 174, 180)]]
+> - **全量证据矛盾下的合规假象** 学区依托单一相关性报告合法合规地进行大规模采购，掩盖了该方案在因果识别下可能毫无提分实效、甚至在其他独立评估中呈现零效应或负效应的事实。过度放宽对相关性研究的政策依赖，导致公共教育财政巨额资金被锁定在缺乏稳健学业成效支持的常规项目之中。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 176–178)]]
 
 ---
 
@@ -272,6 +272,6 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] 相关研究索引
 > - [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] — 对 2000–2020 年五本顶级教育心理学期刊进行系统[[Content Analysis\|内容分析]]，量化揭示了相关性研究中[[Recommendations for Practice\|实践建议]]（RFP）从 41% 激增至 66% 的方法学异化现象。
-> - [[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]] — 跨源检索四大公共证据库，揭示了依赖单项相关性研究达到 [[Every Student Succeeds Act\|ESSA]] Tier III 门槛给学区带来的公共教育资金配置合规漏洞。
+> - [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] — 跨源检索四大公共证据库，揭示了依赖单项相关性研究达到 [[Every Student Succeeds Act\|ESSA]] Tier III 门槛给学区带来的公共教育资金配置合规漏洞。
 > - [[Argument_Lekhal_2015_Paideia\|Lekhal et al. (2015)]] — 运用大规模双信息源调查数据与分层[[Multiple Regression\|多元回归]]分析，检验学校人际关系与行为[[Variable\|变量]]对[[Gender Differences in Academic Achievement\|学业成就性别差异]]的解释路径。
 > - [[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al. (2025)]] — 针对教育宏观二阶证据库开展系统性质量审计，揭示相关性研究被普遍与实验研究直接算术平均（27% 混杂实验与相关，10% 混杂三类设计），剖析了非操纵相关性对课堂因果干预建议造成的虚假确定性污染。

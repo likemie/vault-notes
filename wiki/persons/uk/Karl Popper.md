@@ -62,7 +62,7 @@ related_persons:
 related_facts: []
 related_arguments:
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
-  - "[[Argument_Johnson_2023_CE]]"
+  - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 related_instruments: []
 confidence: high
@@ -161,7 +161,7 @@ updated: 2026-10-16
 > - **学生与学派继承者** 伊姆雷·拉卡托斯（Imre Lakatos）、保罗·费耶阿本德（Paul Feyerabend）— 继承并激进化其反归纳与证伪思想。
 > - **比较教育学核心转化者** [[Brian Holmes|布赖恩·霍姆斯]]（Brian Holmes）— 深受其批判理性主义与[[Critical Dualism|批判二元论]]熏陶，将其方法论化为比较教育[[Problem Approach|问题法]]。
 > - **社会哲学批判对象** [[Plato|柏拉图]]、[[Georg Wilhelm Friedrich Hegel|黑格尔]]、卡尔·马克思 — 被其在《开放社会及其敌人》中定性为历史主义与极权乌托邦工程的思想源头。
-> - **当代循证引述者** [[John Hattie|约翰·哈蒂]]（John Hattie）— 在《[[Visible Learning|可见的学习]]》中直接引用波普尔的大胆猜想论述，以此为自身理论的科学性辩护，引发批判学者的系统质疑（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）。
+> - **当代循证引述者** [[John Hattie|约翰·哈蒂]]（John Hattie）— 在《[[Visible Learning|可见的学习]]》中直接引用波普尔的大胆猜想论述，以此为自身理论的科学性辩护，引发批判学者的系统质疑（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）。
 
 ---
 
@@ -182,10 +182,10 @@ updated: 2026-10-16
 > > - **Thomas Kuhn（1970）** 批评波普尔描绘的是一种虚妄的乌托邦，科学史表明绝大多数时期的研究者皆在既定范式约束下开展日常解谜活动，只有在危机积累到无法遏制时才会发生范式革命。
 >
 > > [!axis] 证伪主义被新自由主义[[Disciplina and Doctrina|规训]]与商业循证包装所挪用之辩
-> > 探讨波普尔的可错论与反建制[[Epistemology|认识论]]在冷战后如何被新自由主义智库及循证产业所工具化（Sleigh, 2021; [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）。
+> > 探讨波普尔的可错论与反建制[[Epistemology|认识论]]在冷战后如何被新自由主义智库及循证产业所工具化（Sleigh, 2021; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）。
 > >
 > > - **新自由主义批判学者（Sleigh, 2021）** 揭示波普尔的可错论（fallibilism）在冷战背景下与朝圣山学社（Mont Pèlerin Society）的自由放任经济学深度融合，将认识论怀疑主义武器化，用来瓦解国家对社会福利与公立教育的公共规划，为新自由主义去规制化与私有化提供了认识论合法性。
-> > - **批判教育政策分析学者（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, p. 35]]）** 揭露[[John Hattie|约翰·哈蒂]]等循证学者断章取义引用波普尔“大胆猜测与甘冒反驳危险”的论述，企图以此包装自身缺乏同行评审、闭门研发的商业[[Meta-analysis|元分析]]产品。波普尔提出可证伪性旨在划定科学与伪科学的界限，绝非赋予商业机构任意抛出毫无依据的数据宣称、却要求批评者承担举证反驳责任的认识论特权；将实验室假说移植到多[[Variable|变量]]的教育情境中，往往沦为掩盖商业利益的伪科学修辞。
+> > - **批判教育政策分析学者（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, p. 35]]）** 揭露[[John Hattie|约翰·哈蒂]]等循证学者断章取义引用波普尔“大胆猜测与甘冒反驳危险”的论述，企图以此包装自身缺乏同行评审、闭门研发的商业[[Meta-analysis|元分析]]产品。波普尔提出可证伪性旨在划定科学与伪科学的界限，绝非赋予商业机构任意抛出毫无依据的数据宣称、却要求批评者承担举证反驳责任的认识论特权；将实验室假说移植到多[[Variable|变量]]的教育情境中，往往沦为掩盖商业利益的伪科学修辞。
 
 ---
 
@@ -197,7 +197,7 @@ updated: 2026-10-16
 > *The criterion of the scientific status of a theory is its falsifiability, or refutability, or testability... Theories that are not testable by any conceivable event are non-scientific.*
 
 > [!citation-card] 约翰逊与詹岑论循证商业包装对波普尔可错论的曲解
-> [[John Hattie|哈蒂]]在书中引用著名科学哲学家卡尔·波普尔的论述以增强其著作的科学公信力：‘大胆的想法、未经证实的预判和推测性思想，是我们解释自然的唯一手段……我们中那些不愿让自己的想法冒被反驳之险的人，就没有参与科学这场游戏’（Popper, 1968, in Hattie, 2009, p. 4）。具讽刺意味的是，波普尔提出可错论，旨在通过对比爱因斯坦与弗洛伊德来严格区分科学与伪科学：爱因斯坦的理论做出了可被实验证伪的精确预测，而弗洛伊德的解释却总能在新证据面前事后修补。波普尔绝非意味着科学就是信口开河提出毫无根据的宣称并让其他人来证伪。可见学习并没有提出任何能够经受实验证伪的理论，它采用了未经验证的私有方法论，并直接付诸商业出版。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 35)]]
+> [[John Hattie|哈蒂]]在书中引用著名科学哲学家卡尔·波普尔的论述以增强其著作的科学公信力：‘大胆的想法、未经证实的预判和推测性思想，是我们解释自然的唯一手段……我们中那些不愿让自己的想法冒被反驳之险的人，就没有参与科学这场游戏’（Popper, 1968, in Hattie, 2009, p. 4）。具讽刺意味的是，波普尔提出可错论，旨在通过对比爱因斯坦与弗洛伊德来严格区分科学与伪科学：爱因斯坦的理论做出了可被实验证伪的精确预测，而弗洛伊德的解释却总能在新证据面前事后修补。波普尔绝非意味着科学就是信口开河提出毫无根据的宣称并让其他人来证伪。可见学习并没有提出任何能够经受实验证伪的理论，它采用了未经验证的私有方法论，并直接付诸商业出版。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 35)]]
 >
 > *Hattie attempts to bolster the scientific credibility of his work by referring to it as a theory, and by quoting famous philosopher of science Karl Popper... Ironically, with fallibilism, Popper was attempting to differentiate between science and pseudoscience, illustrated by comparing Freud to Einstein... Whatever one thinks of fallibilism (Kuhn, 2012; Sleigh, 2021), Popper was certainly not implying that science consists of making completely unfounded claims for others to disprove... [[Visible Learning]] presents no theory capable of experimental falsification. It uses a proprietary, unvetted methodology, and went straight to commercial publication.*
 
@@ -218,7 +218,7 @@ updated: 2026-10-16
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 系统考证波普尔[[Falsification|证伪主义]]、推测性知识与理论负荷概念对教育研究方法论[[Postpositivism|后实证主义]]转型的奠基贡献。
 > - [[Argument_Mattheou_2009_ScientificParadigm|Mattheou (2009)]] — 详细评析波普尔[[Critical Dualism|批判二元论]]与反归纳主义[[Epistemology|认识论]]如何被霍姆斯直接吸纳，成为战后[[Scientific Paradigm|比较教育科学范式]]中对抗普遍必然因果律的理论基石。
-> - [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]] — 剖析波普尔证伪主义与可错论在当代[[Evidence-Based Education|循证教育]]商业化中被[[John Hattie|哈蒂]]断章取义借用的现象，揭露其作为伪科学修辞的认识论本质。
+> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 剖析波普尔证伪主义与可错论在当代[[Evidence-Based Education|循证教育]]商业化中被[[John Hattie|哈蒂]]断章取义借用的现象，揭露其作为伪科学修辞的认识论本质。
 
 ---
 
@@ -235,4 +235,4 @@ updated: 2026-10-16
 > | [[Scientism]] | 概念 | 波普尔批判归纳[[Positivism\|实证主义]]与机械决定论，但其理论近年亦被用于反思科学主义与伪科学的界限。 |
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge\|Cohen et al. (2011)]] | 论证 | 考据波普尔证伪主义、推测性知识对现代教育研究方法论范式划分的奠基贡献。 |
 > | [[Argument_Mattheou_2009_ScientificParadigm\|Mattheou (2009)]] | 论证 | 系统阐述波普尔批判二元论如何作为[[Epistemology\|认识论]]基石被霍姆斯用于重构比较教育学。 |
-> | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] | 论证 | 批判性分析波普尔在《[[Visible Learning\|可见的学习]]》中被断章取义引述以规避同行评议的现象。 |
+> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 论证 | 批判性分析波普尔在《[[Visible Learning\|可见的学习]]》中被断章取义引述以规避同行评议的现象。 |

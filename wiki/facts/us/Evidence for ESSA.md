@@ -61,10 +61,10 @@ related_facts:
   - "[[Open Court Reading]]"
   - "[[Investing in Innovation Program]]"
 related_arguments:
-  - "[[Argument_Slavin_2019_EP]]"
+  - "[[Argument_Slavin_2019_EducPsychol]]"
   - "[[Argument_Ross_Morrison_2021_ECNUROE]]"
   - "[[Argument_Slavin_2021_ECNUROE]]"
-  - "[[Argument_Ginsberg_2024_EP]]"
+  - "[[Argument_Ginsberg_2024_EducPolicy]]"
 confidence: high
 status: active
 created: 2026-09-17
@@ -78,22 +78,22 @@ updated: 2026-10-16
 ## 机构与平台定位
 
 > [!claim] 核心定位
-> **Evidence for [[Every Student Succeeds Act\|ESSA]]** 是由约翰斯·霍普金斯大学（Johns Hopkins University, JHU）教育研究与改革中心（Center for Research and Reform in Education, CRRE）在[[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin）领导下建立的公益性[[Evidence-Based Education\|循证教育]]决策支持与证据清算平台。该平台专为学校校长、学区总监与州教育官员设计，以《[[Every Student Succeeds Act\|每一个学生成功法]]》（Every Student Succeeds Act, ESSA 2015）法定[[Evidence Standards\|证据标准]]为基准，对全美 K-12 阅读与数学教学方案进行快速严格审查、成本核算与直观可视化呈现。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 23–24)]]
+> **Evidence for [[Every Student Succeeds Act\|ESSA]]** 是由约翰斯·霍普金斯大学（Johns Hopkins University, JHU）教育研究与改革中心（Center for Research and Reform in Education, CRRE）在[[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin）领导下建立的公益性[[Evidence-Based Education\|循证教育]]决策支持与证据清算平台。该平台专为学校校长、学区总监与州教育官员设计，以《[[Every Student Succeeds Act\|每一个学生成功法]]》（Every Student Succeeds Act, ESSA 2015）法定[[Evidence Standards\|证据标准]]为基准，对全美 K-12 阅读与数学教学方案进行快速严格审查、成本核算与直观可视化呈现。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 23–24)]]
 
 > [!program-context] 平台背景与立项契机
 > - **上线时间 / 运营周期** 2017 年初正式上线，持续高频动态更新，官方网址为 [evidenceforessa.org](https://www.evidenceforessa.org)。
 > - **发起方与经费基础** 由 JHU CRRE 团队自主创建与维护，获得多家慈善基金会资助，面向全球教育决策者与公众完全免费开放。
-> - **覆盖学段与学科领域** 覆盖学前（Pre-K）至 12 年级全部英语阅读、数学以及[[Social-Emotional Learning\|社会情感学习]]干预项目，月度独立访问用户超过 70,000 人。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 24)]]
-> - **核心痛点破局** 针对官方[[What Works Clearinghouse\|有效干预清算中心]]（What Works [[Educational Evidence Clearinghouses\|Clearinghouse]], WWC）更新周期冗长（往往滞后数年）、技术条文繁复晦涩且未直接提供对齐 ESSA 拨款法条标签的痛点，提供敏捷、透明且面向一线采购的循证决策支持。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 24–25)]]
+> - **覆盖学段与学科领域** 覆盖学前（Pre-K）至 12 年级全部英语阅读、数学以及[[Social-Emotional Learning\|社会情感学习]]干预项目，月度独立访问用户超过 70,000 人。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]]
+> - **核心痛点破局** 针对官方[[What Works Clearinghouse\|有效干预清算中心]]（What Works [[Educational Evidence Clearinghouses\|Clearinghouse]], WWC）更新周期冗长（往往滞后数年）、技术条文繁复晦涩且未直接提供对齐 ESSA 拨款法条标签的痛点，提供敏捷、透明且面向一线采购的循证决策支持。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 24–25)]]
 
 ---
 
 ## 历史沿革与演变脉络
 
 > [!dev-timeline]- 平台发展历程
-> - **2015 — [[Every Student Succeeds Act\|ESSA]] 法案颁布催生法定证据需求** 美国国会通过 ESSA，首次将联邦每年数十亿美元的 [[Title I of the Elementary and Secondary Education Act\|Title I]] 一类学校改进经费与四级法定[[Evidence Standards\|证据标准]]严格挂钩，全美学区急需能够快速判别合规干预项目的工具。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 23)]]
+> - **2015 — [[Every Student Succeeds Act\|ESSA]] 法案颁布催生法定证据需求** 美国国会通过 ESSA，首次将联邦每年数十亿美元的 [[Title I of the Elementary and Secondary Education Act\|Title I]] 一类学校改进经费与四级法定[[Evidence Standards\|证据标准]]严格挂钩，全美学区急需能够快速判别合规干预项目的工具。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 23)]]
 > - **2017 — Evidence for ESSA 平台正式上线** JHU CRRE 团队依托[[Best Evidence Encyclopedia\|最佳证据百科全书]]（BEE）三十年学术积累，正式推出 Evidence for ESSA 交互式平台，首期发布 K-12 阅读与数学经过严格审查的项目清单。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, p. 110)]]
-> - **2018–2019 — 州级教育政策采纳与用户规模激增** 亚利桑那、路易斯安那、内华达、明尼苏达、北卡罗来纳与罗德岛等州教育厅直接将平台列为学区编制联邦拨款申请的官方参考基准；月度活跃教育者突破 70,000 人。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 24–25)]]
+> - **2018–2019 — 州级教育政策采纳与用户规模激增** 亚利桑那、路易斯安那、内华达、明尼苏达、北卡罗来纳与罗德岛等州教育厅直接将平台列为学区编制联邦拨款申请的官方参考基准；月度活跃教育者突破 70,000 人。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 24–25)]]
 > - **2021–至今 — 持续扩展与常态化运营** 在斯莱文逝世后，CRRE 团队持续维持平台的常态化运营与学科扩展，进一步纳入中等教育与全校综合改革方案。[[Argument_Slavin_2021_ECNUROE\|(Slavin et al., 2021, pp. 19–21)]]
 
 ---
@@ -114,7 +114,7 @@ updated: 2026-10-16
 
 ## 方案设计与审查体系
 
-> [!feature] Evidence for [[Every Student Succeeds Act\|ESSA]] 五大方法学硬约束（[[Argument_Slavin_2019_EP\|Slavin, 2019, pp. 22–26]]）
+> [!feature] Evidence for [[Every Student Succeeds Act\|ESSA]] 五大方法学硬约束（[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019, pp. 22–26]]）
 > - **高质量独立标准化测量** 强制使用第三方成熟标准化测验，坚决排除研究者或[[Developer-Made Measures\|开发者自编测验]]，防止[[Effect Size\|效应量]]被夸大 50% 至 100%。
 > - **干预实施周期刚性门槛** 要求干预与评估周期至少达到 12 周（1 学期至 1–3 年），排除超短期受控实验对长期成效的虚假夸大。
 > - **独立第三方评估要求** 优先采纳无利益关联的独立评估，严密审查开发者自评研究中的潜在偏倚。
@@ -129,10 +129,10 @@ updated: 2026-10-16
 > | **有前景证据（Tier 3: Promising Evidence）** | 具有合理理论假说并在控制选择偏差后展现正向统计关联的相关性或观察性研究 | 控制关键协[[Variable\|变量]]的大规模纵向回归研究 |
 
 > [!finding-cards] 多库审计视角下的 Evidence for ESSA 年级与[[Domain Specificity\|学科特异性]]问题
-> [[Mark Ginsburg|金斯伯格]]等（[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024]]）对美国南方联合学区（SUD）2.88 亿美元《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）[[Title I of the Elementary and Secondary Education Act\|Title I]] 经费的跨库审计，将 Evidence for ESSA 列为 4 个核心公共证据库之一，与[[What Works Clearinghouse\|有效干预清算中心]]（WWC）、英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）及[[Education Resources Information Center\|教育资源信息中心]]（Education Resources Information Center，ERIC）并列，系统评估 129 项采购实践所对应的证据状态。审计结果揭示了该平台在实际运用中的两项结构性局限：
+> [[Mark Ginsburg|金斯伯格]]等（[[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024]]）对美国南方联合学区（SUD）2.88 亿美元《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）[[Title I of the Elementary and Secondary Education Act\|Title I]] 经费的跨库审计，将 Evidence for ESSA 列为 4 个核心公共证据库之一，与[[What Works Clearinghouse\|有效干预清算中心]]（WWC）、英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）及[[Education Resources Information Center\|教育资源信息中心]]（Education Resources Information Center，ERIC）并列，系统评估 129 项采购实践所对应的证据状态。审计结果揭示了该平台在实际运用中的两项结构性局限：
 >
-> - **年级与学科特异性的跨级降维推断** 部分学区援引 Evidence for ESSA 已评级的中学阶段研究，为小学阶段同类实践的采购提供证据支撑。然而 Evidence for ESSA 的评级结论与所依据研究的目标学段高度绑定，跨学段借用本质上构成对证据适用范围的扩张引用，在平台并未明确限制此类做法的情况下，仍可能导致证据与实践情境的系统性错配（[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024, pp. 170–171]]）。
-> - **单库单研究合规与多库证据体的合规率鸿沟** 仅依托 Evidence for ESSA 的单项评级记录，被审计学区 95%–99% 的采购可找到至少一项 ESSA Tier I–III 合规证据；跨 4 库综合评估后合规率降至 49%–58%（保守估算：20%），揭示任一单一清算中心均不足以支撑完整的证据体评估（[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024, p. 173]]）。
+> - **年级与学科特异性的跨级降维推断** 部分学区援引 Evidence for ESSA 已评级的中学阶段研究，为小学阶段同类实践的采购提供证据支撑。然而 Evidence for ESSA 的评级结论与所依据研究的目标学段高度绑定，跨学段借用本质上构成对证据适用范围的扩张引用，在平台并未明确限制此类做法的情况下，仍可能导致证据与实践情境的系统性错配（[[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024, pp. 170–171]]）。
+> - **单库单研究合规与多库证据体的合规率鸿沟** 仅依托 Evidence for ESSA 的单项评级记录，被审计学区 95%–99% 的采购可找到至少一项 ESSA Tier I–III 合规证据；跨 4 库综合评估后合规率降至 49%–58%（保守估算：20%），揭示任一单一清算中心均不足以支撑完整的证据体评估（[[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024, p. 173]]）。
 
 
 ---
@@ -153,7 +153,7 @@ updated: 2026-10-16
 ## 典型案例与实证表现
 
 > [!case] 标杆项目在 Evidence for [[Every Student Succeeds Act\|ESSA]] 的评级表现
-> - [[Success for All]]（SFA）— 凭借多项独立大型多中心整群 [[Randomised Controlled Trials\|RCT]] 评估，在小学阅读全域稳居 **TIER 1 (Strong Evidence)**，详细列出每生每年耗材成本与全校教研辅导员配置需求。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 24)]]
+> - [[Success for All]]（SFA）— 凭借多项独立大型多中心整群 [[Randomised Controlled Trials\|RCT]] 评估，在小学阅读全域稳居 **TIER 1 (Strong Evidence)**，详细列出每生每年耗材成本与全校教研辅导员配置需求。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]]
 > - [[Open Court Reading]]（OCR）— 评为 **Tier 2 (Moderate Evidence)**，基于多项准[[Experimental Research\|实验研究]]数据，清晰标明其在基础自然拼读与词汇教学中的适用情境。
 > - 数字化个性化学习软件 — 多数商业自适应学习软件因缺乏 12 周以上独立标准化测验，被归入 Tier 4（未达标/评估中），推动出版商主动委托第三方开展大样本 RCT。
 
@@ -166,7 +166,7 @@ updated: 2026-10-16
 > > [!axis] 平台独立性与创办者利益冲突
 > > 争论平台创办者拥有知名商业课程版权是否会损害第三方评级的客观公信力。
 > >
-> > - **学术批评者** 指出[[Robert Slavin\|罗伯特·斯莱文]]既是 [[Success for All\|SFA]] 的创设人，又是 Evidence for [[Every Student Succeeds Act\|ESSA]] 的主管，存在潜在的利益冲突（[[Conflict of Interest in Research\|conflict of interest]]）。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 27)]]
+> > - **学术批评者** 指出[[Robert Slavin\|罗伯特·斯莱文]]既是 [[Success for All\|SFA]] 的创设人，又是 Evidence for [[Every Student Succeeds Act\|ESSA]] 的主管，存在潜在的利益冲突（[[Conflict of Interest in Research\|conflict of interest]]）。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 27)]]
 > > - **平台辩护立场** 强调审查标准完全公开，执行严格的双盲复核编码程序；入选项目必须基于已发表的第三方独立 [[Randomised Controlled Trials\|RCT]] 数据，且该标准同样使大量未经检验的流行模式被公正排除。
 
 ---
@@ -178,9 +178,9 @@ updated: 2026-10-16
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Slavin_2019_EP\|Slavin (2019)]] | 全美 K-12 阅读与数学全部可获取的教育干预方案实证研究池 | 平台审查数据统计与政策渗透分析 | [[Every Student Succeeds Act\|ESSA]] 证据层级评定、月度独立用户数、采纳州数量与合格项目数 | 收录近 100 个达到 ESSA [[Top Institute for Evidence-Based Education Research\|TIER]] 1–3 的项目（强证据项目占比居首）；月度活跃教育者超 70,000 人（周增 ≈1,000 人）；至少 6 州将平台纳入官方拨款指南 | — | 实证说明以五大硬约束构建的敏捷清算平台能够有效激活学校层面的循证采购（pp. 23–26） |
+> | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | 全美 K-12 阅读与数学全部可获取的教育干预方案实证研究池 | 平台审查数据统计与政策渗透分析 | [[Every Student Succeeds Act\|ESSA]] 证据层级评定、月度独立用户数、采纳州数量与合格项目数 | 收录近 100 个达到 ESSA [[Top Institute for Evidence-Based Education Research\|TIER]] 1–3 的项目（强证据项目占比居首）；月度活跃教育者超 70,000 人（周增 ≈1,000 人）；至少 6 州将平台纳入官方拨款指南 | — | 实证说明以五大硬约束构建的敏捷清算平台能够有效激活学校层面的循证采购（pp. 23–26） |
 > | [[Argument_Slavin_2021_ECNUROE\|Slavin et al. (2021)]] | 全美中小学阅读与数学干预项目库追踪 | 循证平台长期运营与学科覆盖评估 | 学科覆盖率、审查项目通过率与开发者测验过滤效应 | 严格执行独立测验与 12 周门槛过滤掉 90% 以上低质自发研究，推动教育市场向合规方案收敛 | — | 证实方法学硬约束在规范教育干预市场供给侧方面的治理效能（pp. 19–21） |
-> | [[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]] | 美国南方联合学区（SUD）2.88 亿美元 ESSA [[Title I of the Elementary and Secondary Education Act\|Title I]] 经费，覆盖 129 项采购实践、4 个公共证据库 | 跨库财务审计与证据合规分析 | 平台在多库审计中的年级特异性评级与合规率对比 | 单库合规率 95%–99%；跨 4 库综合后降至 49%–58%（保守估算：20%）；证实单一清算中心不足以支撑完整证据体评估 | — | 揭示 Evidence for ESSA 在跨学段降维推断场景中的适用边界，论证多库整合评估的必要性（pp. 170–174） |
+> | [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] | 美国南方联合学区（SUD）2.88 亿美元 ESSA [[Title I of the Elementary and Secondary Education Act\|Title I]] 经费，覆盖 129 项采购实践、4 个公共证据库 | 跨库财务审计与证据合规分析 | 平台在多库审计中的年级特异性评级与合规率对比 | 单库合规率 95%–99%；跨 4 库综合后降至 49%–58%（保守估算：20%）；证实单一清算中心不足以支撑完整证据体评估 | — | 揭示 Evidence for ESSA 在跨学段降维推断场景中的适用边界，论证多库整合评估的必要性（pp. 170–174） |
 
 ---
 
@@ -197,4 +197,4 @@ updated: 2026-10-16
 > | [[What Works Clearinghouse]] | 机构事实 | 联邦官方清算机构，与 Evidence for ESSA 构成互补共生关系。 |
 > | [[Success for All]] | 干预项目 | 平台收录的代表性 [[Top Institute for Evidence-Based Education Research\|TIER]] 1 强证据全校综合改革方案。 |
 > | [[Investing in Innovation Program]] | 项目事实 | 联邦教育创新资助计划，为分级证据框架提供资助实践检验。 |
-> | [[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]] | 关键论证 | 以跨库财务审计揭示 Evidence for ESSA 的年级特异性局限，为多库整合评估体系提供实证支撑。 |
+> | [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] | 关键论证 | 以跨库财务审计揭示 Evidence for ESSA 的年级特异性局限，为多库整合评估体系提供实证支撑。 |

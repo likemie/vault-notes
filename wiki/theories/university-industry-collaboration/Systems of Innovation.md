@@ -104,7 +104,7 @@ related_arguments:
   - "[[Argument_Freeman_1995_CJE]]"
   - "[[Argument_Caraca_2009_TFSC]]"
   - "[[Argument_Moisio_2022_Springer]]"
-  - "[[Argument_Bogliacino_Pianta_2016_EP]]"
+  - "[[Argument_Bogliacino_Pianta_2016_EconPol]]"
   - "[[Argument_Lester_2005_MIT]]"
   - "[[Argument_Fabrizio_Mowery_2005_REI]]"
   - "[[Argument_Mazzucato_2018_ICC]]"
@@ -149,7 +149,7 @@ updated: 2026-10-16
 > - **1980s–1990s — 宏观[[Paradigm|范式]]奠基** 弗里曼（1987）、伦德瓦尔（1992）与纳尔逊（1993）系统成型[[National Innovation System|国家创新系统]]（NIS），彻底打破二战后[[Vannevar Bush|万尼瓦尔·布什]]确立的“科学促增长”（Science for [[Growth]]）线性范式，确立“[[Market Failure|市场失灵]]转向系统失灵”的政策哲学。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 28–30)]]
 > - **1995 — 全球化辨析与母国锚固论** 弗里曼（[[Argument_Freeman_1995_CJE|Freeman, 1995]]）在《剑桥经济学杂志》系统反驳[[Kenichi Ohmae|大前研一]]等学者宣称跨国公司让民族国家过时的神话，证实美日跨国企业核心研发逾九成扎根母国，阐明上层跨国贸易区域与下层产业集聚区域均依赖国家创新系统作为制度核心。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 15–21)]]
 > - **1990s–2000s — 多层级与部门维度拓展** 
->   - **部门创新系统（Sectoral Innovation Systems, SIS）** 马莱尔巴（Franco Malerba, 2002）基于帕维特产业分类（[[Argument_Bogliacino_Pianta_2016_EP|Bogliacino & Pianta, 2016]]），指出不同产业部门在知识基础、技术机会与专有性机制上存在根本差异，创新系统呈现部门异质性。
+>   - **部门创新系统（Sectoral Innovation Systems, SIS）** 马莱尔巴（Franco Malerba, 2002）基于帕维特产业分类（[[Argument_Bogliacino_Pianta_2016_EconPol|Bogliacino & Pianta, 2016]]），指出不同产业部门在知识基础、技术机会与专有性机制上存在根本差异，创新系统呈现部门异质性。
 >   - **[[Regional Innovation System|区域创新系统]]（Regional Innovation Systems, RIS）** 库克（Cooke, 1992）与阿斯海姆等（Asheim & Gertler, 2004）强调地理邻近性、[[Tacit Knowledge|隐性知识]]面对面传播与地方制度厚度对区域创新集群的塑造。[[Argument_Caraca_2009_TFSC|(Caraça et al., 2009, p. 865)]]; [[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 20–21)]]
 > - **2005 — 本地创新系统与大学转型匹配模型** 麻省理工学院莱斯特（Richard K. Lester）团队通过 6 国 22 个地区（714 次[[In-depth Interview|深度访谈]]）的[[Local Innovation Systems Project|本地创新系统项目]]（LIS），打破大学必须追逐硅谷式“重磅专利许可”的一刀切迷思，提出大学支撑本地系统四大产业转型（新产业形成、产业移植、产业多元化、既有产业升级）的差异化匹配模型。[[Argument_Lester_2005_MIT|(Lester, 2005, pp. 11–24)]]
 > - **2005 — 军民协同创新系统与采购生命周期规律** 法布里奇奥与莫厄里（[[Argument_Fabrizio_Mowery_2005_REI|Fabrizio & Mowery, 2005]]）从国家创新系统历史演进切入，揭示美国战后以国防部（DoD）为核心的非集中式联邦研发资助与先导采购如何通过[[University-Based Research Infrastructure|大学科研基础设施]]、早期技术衍生与第二货源（[[Second-Sourcing]]）三大渠道孵化出全美 IT 产业集群，并系统确立了从萌芽期军品外溢到成熟期由民向军“逆向技术溢出”（Reverse Spillovers）的创新系统生命周期规律。[[Argument_Fabrizio_Mowery_2005_REI|(Fabrizio & Mowery, 2005, pp. 27–44)]]
@@ -167,7 +167,7 @@ updated: 2026-10-16
 > |:-----|:-----|:--------------|
 > | **[[National Innovation System\|国家创新系统（NIS）]]** | 宏观空间层级 | 统摄国家主权法律、公共教育培训体系、宏观科技政策与技术基础设施的制度母体。[[Argument_Freeman_1995_CJE\|(Freeman, 1995, pp. 5, 20–21)]] |
 > | **[[Regional Innovation System\|区域创新系统（RIS）]]** | 中观空间层级 | 依托地理邻近性、面对面隐性知识溢出与地方制度厚度的次国家微观产业集聚底座。[[Argument_Freeman_1995_CJE\|(Freeman, 1995, pp. 20–21)]]; [[Argument_Lester_2005_MIT\|(Lester, 2005, pp. 11–24)]] |
-> | **部门创新系统（SIS）** | 产业结构层级 | 跨越地理边界、由特定技术体制、知识池和专有性机制界定的部门产业网络。[[Argument_Bogliacino_Pianta_2016_EP\|(Bogliacino & Pianta, 2016, pp. 156–158)]] |
+> | **部门创新系统（SIS）** | 产业结构层级 | 跨越地理边界、由特定技术体制、知识池和专有性机制界定的部门产业网络。[[Argument_Bogliacino_Pianta_2016_EconPol\|(Bogliacino & Pianta, 2016, pp. 156–158)]] |
 > | **行动者网络（Actors & Networks）** | 结构单元 | 涵盖大学、企业、政府科研所、金融中介与中介组织，构成知识创造与扩散的实体支柱。 |
 > | **制度环境（Institutional Setup）** | 规则构件 | 包含硬性正式制度（法律法规、专利制度、税收政策）与软性非正式制度（文化惯例、信任网络、风险偏好），界定系统互动的博弈规则。 |
 > | **[[Absorptive Capacity\|吸收能力]]（Absorptive Capacity）** | 核心机制 | 行动者（特别是企业与地方产业）识别、消化、转译并商业化利用系统外部知识的内生能力基石。[[Argument_Ulrichsen_2025_UIR_Evolution\|(Ulrichsen, 2025, p. 29)]] |
@@ -260,7 +260,7 @@ updated: 2026-10-16
 >       - **判读规则** 缺乏充足工科人才储备的国家，即便引进最先进技术设备，亦无法形成内生吸收能力。
 >       - **归属与出处** [[Argument_Freeman_1995_CJE|Freeman (1995, p. 14)]]。
 > - **D2｜中观区域与部门创新系统（RIS / SIS）**
->   考察特定地理区域或产业集群内部的网络连接度与知识互动生态。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 20–21)]]; [[Argument_Lester_2005_MIT|(Lester, 2005, pp. 11–13)]]; [[Argument_Bogliacino_Pianta_2016_EP|(Bogliacino & Pianta, 2016, pp. 156–158)]]
+>   考察特定地理区域或产业集群内部的网络连接度与知识互动生态。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 20–21)]]; [[Argument_Lester_2005_MIT|(Lester, 2005, pp. 11–13)]]; [[Argument_Bogliacino_Pianta_2016_EconPol|(Bogliacino & Pianta, 2016, pp. 156–158)]]
 >   - **D2.1｜部门技术体制与产业分类**
 >     - **D2.1.1｜帕维特部门创新属性**
 >       - **含义** 依据科学基础型、专业供应商型、规模密集型或供应商主导型识别产业的[[Technological Trajectories|技术轨道]]。
@@ -347,5 +347,5 @@ updated: 2026-10-16
 > - [[Argument_Caraca_2009_TFSC|Caraça et al., 2009]] — 提出[[Multi-channel Interactive Learning Model|多通道互动学习模型]]，整合部门、区域与国家创新系统，论证三类知识池互动及微观/宏观制度滞后造成的阻尼效应。
 > - [[Argument_Lester_2005_MIT|Lester, 2005]] — 依托 MIT [[Local Innovation Systems Project|本地创新系统项目]]（LIS）对 6 国 22 个地区的实证调研，系统构建大学匹配四种本地产业转型路径的差异化支持模型。
 > - [[Argument_Moisio_2022_Springer|Moisio, 2022]] — 从[[Cultural Political Economy|文化政治经济学]]与地缘政治学视角追溯国家创新系统的[[Friedrich List|李斯特]]渊源，揭示[[Knowledge-Based Economization|知识经济化]]如何将知识、创新与国家竞争实力深度绑定。
-> - [[Argument_Bogliacino_Pianta_2016_EP|Bogliacino & Pianta, 2016]] — 运用修订版帕维特产业分类法，实证阐明科学基础型、专业供应商型、规模密集型等不同部门创新系统的[[Heterogeneity|异质性]]机制。
+> - [[Argument_Bogliacino_Pianta_2016_EconPol|Bogliacino & Pianta, 2016]] — 运用修订版帕维特产业分类法，实证阐明科学基础型、专业供应商型、规模密集型等不同部门创新系统的[[Heterogeneity|异质性]]机制。
 > - [[Argument_Atkinson_2008_TIS|Atkinson & Blanpied, 2008]] — 梳理美国国家科技体制变迁，印证联邦竞争性拨款与《[[Bayh-Dole Act of 1980|拜杜法案]]》如何激活国家创新系统内部大学与产业的动态联结。

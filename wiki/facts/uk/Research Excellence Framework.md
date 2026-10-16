@@ -50,7 +50,7 @@ related_persons: []
 related_facts:
   - "[[Education Endowment Foundation]]"
 related_arguments:
-  - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
+  - "[[Argument_Schulze-Cleven_2017_HE]]"
   - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
   - "[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06]]"
   - "[[Argument_Revai_2022_ChangingLandscape]]"
@@ -82,7 +82,7 @@ updated: 2026-10-16
 
 > [!phase] 评估机制与政策导向的演变
 > - **RAE 奠基阶段（1986年—2008年）**
->   研究评估考核（Research Assessment Exercise，RAE）创立并运行。评估主要聚焦于研究产出质量（outputs），奠定了根据同行评审等级直接划拨 QR 财政经费的资源分配规则，促使绩效测量逻辑从单纯的信息反馈工具升级为国家资源的直接分配逻辑（[[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, pp. 801–802]]）。
+>   研究评估考核（Research Assessment Exercise，RAE）创立并运行。评估主要聚焦于研究产出质量（outputs），奠定了根据同行评审等级直接划拨 QR 财政经费的资源分配规则，促使绩效测量逻辑从单纯的信息反馈工具升级为国家资源的直接分配逻辑（[[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, pp. 801–802]]）。
 > - **REF 转型阶段与影响引入（2014年—2021年）**
 >   2014年起，研究卓越框架（Research Excellence Framework，REF）正式取代 RAE。在评估维度上引入重大改革，不仅评估学术质量，还要求[[Evaluation Research\|评估研究]]组合的“[[Research Impact\|社会经济影响]]”（impact）。评估维度固定为：研究产出质量（Outputs，60%）、研究影响（Impact，25%）与研究环境（Environment，15%）（[[Argument_OxfordUIDP_2019_UIPartnerships\|Oxford & UIDP, 2019, pp. 5–6]]）。
 > - **“催化影响”主导阶段（2020s后期）**
@@ -96,9 +96,9 @@ updated: 2026-10-16
 
 > [!theory-components] REF/RAE 驱动的资源与行为重塑
 > - **准市场的强力资源分配机制**
->   REF 是[[Quasi-markets in Higher Education\|高等教育准市场]]最成熟也最具影响力的制度实践。它通过量化考核直接决定数亿英镑 QR 拨款的流向，将[[New Public Management\|新公共管理]]（NPM）的[[Performance Indicators\|绩效指标]]与物质激励强力挂钩，实现了以行政和审计指标调控学术资源的准市场机制（[[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, p. 801]]）。
+>   REF 是[[Quasi-markets in Higher Education\|高等教育准市场]]最成熟也最具影响力的制度实践。它通过量化考核直接决定数亿英镑 QR 拨款的流向，将[[New Public Management\|新公共管理]]（NPM）的[[Performance Indicators\|绩效指标]]与物质激励强力挂钩，实现了以行政和审计指标调控学术资源的准市场机制（[[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, p. 801]]）。
 > - **制度化的[[Matthew Effect in Academia\|学术马太效应]]**
->   评估逻辑严重倾向于已有资源和历史积累优势的精英机构。 Russell Group（罗素大学集团）大学凭借拥有更多科研岗位、博士生后以及雄厚的发表资源，持续垄断评估得分顶端，获取最大份额的 QR 拨款，进一步拉大了与非精英大学的经费差距（[[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al., 2017, p. 809]]）。
+>   评估逻辑严重倾向于已有资源和历史积累优势的精英机构。 Russell Group（罗素大学集团）大学凭借拥有更多科研岗位、博士生后以及雄厚的发表资源，持续垄断评估得分顶端，获取最大份额的 QR 拨款，进一步拉大了与非精英大学的经费差距（[[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al., 2017, p. 809]]）。
 > - **多价的合法性与分层装置**
 >   REF 同时运作三种功能：**符号分配**（赋予大学“世界领先”或“国际卓越”的声誉等级）、**物质分配**（决定质量相关财政拨款）、以及**合法性制造**（声称评估基于中立专家的研究质量评审）。相同的评分结果在 Russell Group 精英大学（作为扩张的公关资本）与 1992 年后升格大学（作为削减预算的合理化备忘录）产生了截然相反的合法性与生存后果。
 > - **大学及学者的行为性优化**
@@ -132,7 +132,7 @@ updated: 2026-10-16
 
 > [!evidence-grid] 学术审计与 REF 影响研究
 > - **[[Argument_Cowen_2009_CE\|Cowen (2009b)]]** 批判性揭示了以 RAE/REF 为代表的数值化外部评估如何侵蚀大学自治自治边界，迫使大学转向管理主义公司并剥离[[Blue Skies Research\|蓝天研究]]。
-> - **[[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al. (2017)]]** 将 REF 定位为[[Quasi-markets in Higher Education\|高等教育准市场]]最成熟的制度形式，系统分析了其将[[Performance Indicators\|绩效指标]]与财政拨款挂钩所带来的制度效应与行为重塑。
+> - **[[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al. (2017)]]** 将 REF 定位为[[Quasi-markets in Higher Education\|高等教育准市场]]最成熟的制度形式，系统分析了其将[[Performance Indicators\|绩效指标]]与财政拨款挂钩所带来的制度效应与行为重塑。
 > - **[[Argument_OxfordUIDP_2019_UIPartnerships\|Oxford and UIDP (2019)]]** 阐述了 REF 框架下“[[Research Impact\|社会经济影响]]（impact）”评估指标的引入，探讨其对大学科研成果向社会成果转化的催化作用与政策张力。
 > - **[[Argument_RoyalSociety_2026_ScienceForSociety_Ch06\|The Royal Society (2026, Ch. 6)]]** 系统解构了 REF 影响力评估机制对大学[[Public Engagement with Science\|公众科学参与]]的双重效应，揭示约 50% 案例涉及参与背后的微观量化困境，并阐释 REF 2029 设立独立“参与与影响”维度的制度改革意涵。
 > - **[[Argument_Revai_2022_ChangingLandscape\|Révai (2022, p. 22)]]** 揭示了 REF 等国家科研卓越评估框架下学术激励与实践需求的结构性错位：尽管政策要求论证研究影响，但大学考评依然高度向高影响因子学术期刊发表倾斜，导致学者缺乏投身[[Evidence-Based Education\|循证教育]][[Knowledge Co-production\|知识共创]]（co-production）与跨界协作的实质性制度支持。

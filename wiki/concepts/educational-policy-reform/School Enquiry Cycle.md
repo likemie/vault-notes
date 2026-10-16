@@ -70,8 +70,8 @@ related_facts:
   - "[[Data Team Intervention]]"
 related_arguments:
   - "[[Argument_Brown_Greany_2018_LPS]]"
-  - "[[Argument_Brown_2017_ER]]"
-  - "[[Argument_Nelson_2017_ER]]"
+  - "[[Argument_Brown_2017_EducRes]]"
+  - "[[Argument_Nelson_2017_EducRes]]"
 confidence: medium
 status: draft
 created: 2026-09-02
@@ -85,7 +85,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> 学校[[Inquiry Cycle\|探究循环]]（School Enquiry Cycle，原作者统称为“证据知情学校与教师改进模型”，Evidence-informed School and Teacher Improvement, ESTI；在后续研究系统中亦概括为 Cycle of Inquiry）指由 [[Chris Brown]]、[[Kim Schildkamp]] 与 Mireille D. Hubers（2017）构建、并在证据知情学校系统（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018]]）中进一步深化的证据知情学校改进操作模型。该模型致力于打破[[Data-Based Decision Making\|基于数据的决策]]（Data-Based Decision Making, DBDM）与[[Research-Informed Teaching Practice\|研究知情教学实践]]（Research-Informed Teaching Practice, RITP）在现实学校中的割裂状态，将校内学情数据的严谨诊断与校外学术研究的实证干预整合为连续迭代的校本探究闭环，引导教师团队在具体情境中行使[[Professional Judgment\|专业判断]]以持续提升教学质量。[[Argument_Brown_2017_ER\|(Brown et al., 2017, pp. 154–156, 165–167)]]
+> 学校[[Inquiry Cycle\|探究循环]]（School Enquiry Cycle，原作者统称为“证据知情学校与教师改进模型”，Evidence-informed School and Teacher Improvement, ESTI；在后续研究系统中亦概括为 Cycle of Inquiry）指由 [[Chris Brown]]、[[Kim Schildkamp]] 与 Mireille D. Hubers（2017）构建、并在证据知情学校系统（[[Argument_Brown_Greany_2018_LPS\|Brown & Greany, 2018]]）中进一步深化的证据知情学校改进操作模型。该模型致力于打破[[Data-Based Decision Making\|基于数据的决策]]（Data-Based Decision Making, DBDM）与[[Research-Informed Teaching Practice\|研究知情教学实践]]（Research-Informed Teaching Practice, RITP）在现实学校中的割裂状态，将校内学情数据的严谨诊断与校外学术研究的实证干预整合为连续迭代的校本探究闭环，引导教师团队在具体情境中行使[[Professional Judgment\|专业判断]]以持续提升教学质量。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, pp. 154–156, 165–167)]]
 
 > [!concept-lens] 概念透镜
 > - **核心功能** 破解“DBDM 知问题而无良策”与“RITP 有策略而无靶向”的双向脱节，提供从数据诊断到实证干预的系统化操作路径。
@@ -93,7 +93,7 @@ updated: 2026-10-16
 > - **边界限定** 区别于无证据支撑的经验性教研，也区别于机械套用外部处方的[[Technical Rationality\|技术理性]]操作；它要求校内诊断数据与校外研究证据在探究循环中双向验证。
 
 > [!citation-card] 布朗等人论整合两界优势的证据知情改进
-> 将基于数据的决策与研究知情实践系统结合，融通两界之长，能够帮助学校既精准洞察阻碍卓越绩效的核心障碍，又识别出能够引领学校达成预期目标的循证干预举措。[[Argument_Brown_2017_ER\|(Brown et al., 2017, p. 167)]]
+> 将基于数据的决策与研究知情实践系统结合，融通两界之长，能够帮助学校既精准洞察阻碍卓越绩效的核心障碍，又识别出能够引领学校达成预期目标的循证干预举措。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, p. 167)]]
 >
 > *Systematically combined, DBDM and RITP bring together the 'best of both worlds\: providing an approach that gets to the heart of what is preventing outstanding performance as well as identifying interventions that might lead schools to their desired goals.*
 
@@ -132,7 +132,7 @@ updated: 2026-10-16
 > - **步骤五：综合论证并得出成因结论（Drawing Conclusions）** 将分析结果与教师专业理解深度融合，明确引发学情问题的确切根因。
 > - **步骤六：依托实证文献搜寻解决方案（Seeking Solutions）** 针对已证实的根本原因，借助[[Research Learning Communities\|研究学习共同体]]（RLC）等中介协议与工具，检索并筛选经过验证的外部实证干预策略。
 > - **步骤七：研制情境化校本行动计划（Develop an Action Plan）** 结合校本数据、本土教师经验与学校文化价值观，对外部研究策略进行情境化改编，研制具体行动方案。
-> - **步骤八：试验、微调与全校推广评估（Evaluation & Scaling）** 经历班级试点、动态微调与全校规模化推广过程，评估行动方案是否真正解决了步骤一确立的核心问题。[[Argument_Brown_2017_ER\|(Brown et al., 2017, p. 166)]]
+> - **步骤八：试验、微调与全校推广评估（Evaluation & Scaling）** 经历班级试点、动态微调与全校规模化推广过程，评估行动方案是否真正解决了步骤一确立的核心问题。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, p. 166)]]
 
 > [!logic-map]- ESTI 证据知情学校探究循环流程图
 > ```mermaid
@@ -164,8 +164,8 @@ updated: 2026-10-16
 > [!concept-lens] 诊断力与干预力的结构性互补
 > 数据能指出“哪里出了问题”，研究能提供“如何解决问题”，二者唯有在[[Inquiry Cycle\|探究循环]]中融合才能产生实质教学效益。
 
-> [!claim] [[Argument_Brown_2017_ER\|Brown et al. (2017)]] / [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]]
-> **双轮驱动与有效改进闭环** 长期以来，学校改进面临两大孤立陷阱：一方面，单纯推行 [[Data-Based Decision Making\|DBDM]] 的学校沉迷于制作成绩报表与差距分析，但由于缺乏对外部[[Effective Teaching\|有效教学]]规律的了解，教师往往只能靠拍脑袋提出干预措施；另一方面，孤立推行 [[Research-Informed Teaching Practice\|RITP]] 的学校研读大量理论文献，却因未精准锚定本校真实学情而沦为盲目套用。学校探究循环确立了内部数据与外部研究的协同机制：以校本数据为问题靶向，以学术实证为干预武器，使数据诊断与科学干预在同一工作流中形成严密的逻辑闭环。[[Argument_Brown_2017_ER\|(Brown et al., 2017, pp. 154–156, 165–167)]]
+> [!claim] [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] / [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]]
+> **双轮驱动与有效改进闭环** 长期以来，学校改进面临两大孤立陷阱：一方面，单纯推行 [[Data-Based Decision Making\|DBDM]] 的学校沉迷于制作成绩报表与差距分析，但由于缺乏对外部[[Effective Teaching\|有效教学]]规律的了解，教师往往只能靠拍脑袋提出干预措施；另一方面，孤立推行 [[Research-Informed Teaching Practice\|RITP]] 的学校研读大量理论文献，却因未精准锚定本校真实学情而沦为盲目套用。学校探究循环确立了内部数据与外部研究的协同机制：以校本数据为问题靶向，以学术实证为干预武器，使数据诊断与科学干预在同一工作流中形成严密的逻辑闭环。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, pp. 154–156, 165–167)]]
 
 ---
 
@@ -174,8 +174,8 @@ updated: 2026-10-16
 > [!concept-lens] 中介领导力与[[Professional Learning Community\|专业学习共同体]]的组织赋能
 > 探究循环无法靠普通教师自发完成，需要中层领导搭建制度化[[Scaffolding\|脚手架]]与心理安全环境。
 
-> [!claim] Danielle LaPointe-McEwan et al. (2017) / [[Argument_Brown_2017_ER\|Brown et al. (2017)]] / [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]]
-> **中层领导作为探究催化者** 学校探究循环的推行门槛较高，涉及数据解读、文献批判与教学试验等多重素养。中层领导（如年级组长、教研室主任、教学指导员）是激活探究循环的关键枢纽。他们一方面担任[[Boundary Spanner\|跨界中介者]]，为一线教师提供文献筛选与数据分析的专业支持；另一方面建立定期研讨制度与容错机制，将教师从单兵作战的孤岛状态转变为彼此信赖的探究共同体。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, pp. 129–130)]]
+> [!claim] Danielle LaPointe-McEwan et al. (2017) / [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] / [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]]
+> **中层领导作为探究催化者** 学校探究循环的推行门槛较高，涉及数据解读、文献批判与教学试验等多重素养。中层领导（如年级组长、教研室主任、教学指导员）是激活探究循环的关键枢纽。他们一方面担任[[Boundary Spanner\|跨界中介者]]，为一线教师提供文献筛选与数据分析的专业支持；另一方面建立定期研讨制度与容错机制，将教师从单兵作战的孤岛状态转变为彼此信赖的探究共同体。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, pp. 129–130)]]
 
 ---
 
@@ -184,8 +184,8 @@ updated: 2026-10-16
 > [!concept-lens] 抵御照搬脚本与捍卫情境敏感性
 > 研究证据不能直接作为操作指令，必须经过教师专业审议的情境化过滤。
 
-> [!claim] Jonathan Sharples (2013) / [[Argument_Brown_2017_ER\|Brown et al. (2017)]] / [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]]
-> **专业审议作为转译核心** 学校探究循环决非机械照搬研究结论的执行程序。外部[[Experimental Research\|实验研究]]所验证的干预措施只代表统计意义上的概率性规律，并不自动适用于所有班级。在探究循环的情境化设计阶段，教师必须结合班级师生特质、课程进度与文化背景，对研究方案的适用边界、干预强度与实施方式进行审慎权衡与二次开发，确保教学行动兼具科学严谨性与情境生命力。[[Argument_Brown_2017_ER\|(Brown et al., 2017, pp. 165–167)]]
+> [!claim] Jonathan Sharples (2013) / [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] / [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]]
+> **专业审议作为转译核心** 学校探究循环决非机械照搬研究结论的执行程序。外部[[Experimental Research\|实验研究]]所验证的干预措施只代表统计意义上的概率性规律，并不自动适用于所有班级。在探究循环的情境化设计阶段，教师必须结合班级师生特质、课程进度与文化背景，对研究方案的适用边界、干预强度与实施方式进行审慎权衡与二次开发，确保教学行动兼具科学严谨性与情境生命力。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, pp. 165–167)]]
 
 ---
 
@@ -204,9 +204,9 @@ updated: 2026-10-16
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **系统互补命题** | 阐明 DBDM 诊断与 RITP 实证干预在探究循环中的双轮闭环机制 | 校本教研改革、学校诊断改进、循证教学设计 | [[Argument_Brown_2017_ER\|Brown et al. (2017)]]; [[Julie Nelson\|Nelson]] 等 |
+> | **系统互补命题** | 阐明 DBDM 诊断与 RITP 实证干预在探究循环中的双轮闭环机制 | 校本教研改革、学校诊断改进、循证教学设计 | [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]]; [[Julie Nelson\|Nelson]] 等 |
 > | **组织领导命题** | 论证中层领导与协作网络对维持探究循环运作的决定性支撑功能 | 专业学习共同体（PLC）建设、中层领导力培训 | LaPointe-McEwan 等 (2017); [[Carol Campbell\|Campbell]] 等 |
-> | **专业审议命题** | 强调教师[[Professional Judgment\|专业判断]]在探究循环方案情境化改编中的枢纽地位 | 循证策略本地化转译、反对脚本化教学倡导 | [[Jonathan Sharples]] (2013); [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]] |
+> | **专业审议命题** | 强调教师[[Professional Judgment\|专业判断]]在探究循环方案情境化改编中的枢纽地位 | 循证策略本地化转译、反对脚本化教学倡导 | [[Jonathan Sharples]] (2013); [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] |
 > | **评价防陷命题** | 揭示评价环节缺失导致探究循环断裂并滑入[[Activity Traps\|活动陷阱]]的组织病理 | 探究循环终期评估、循证干预退出机制设计 | [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]]; Datnow and Hubbard (2015) |
 
 ---
@@ -216,7 +216,7 @@ updated: 2026-10-16
 > [!dev-timeline] 学校[[Inquiry Cycle\|探究循环]]的理论演化
 > - **2000s — 数据驱动决策（[[Data-Based Decision Making\|DBDM]]）的兴起与瓶颈** 伴随欧美教育问责制，学校广泛开展数据驱动分析，但很快遭遇“知道问题却缺乏解决工具”的实践困境。
 > - **2010s — 循证教学与外部证据转译探索** 英国 [[Education Endowment Foundation\|EEF]] 等机构大量推出循证工具包，但一线学校面临“文献丰富却缺乏校本针对性”的新挑战。
-> - **2017 — 特刊提出整合性学校探究循环** [[Argument_Brown_2017_ER\|Brown et al. (2017)]] 在《Educational Research》特刊发表奠基性论文，正式提出将内部 DBDM 与外部 [[Research-Informed Teaching Practice\|RITP]] 整合为“证据知情学校与教师改进”（ESTI）八步探究循环，并在英格兰与荷兰学校广泛实验。
+> - **2017 — 特刊提出整合性学校探究循环** [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] 在《Educational Research》特刊发表奠基性论文，正式提出将内部 DBDM 与外部 [[Research-Informed Teaching Practice\|RITP]] 整合为“证据知情学校与教师改进”（ESTI）八步探究循环，并在英格兰与荷兰学校广泛实验。
 > - **2018 — [[Self-Improving School System\|SISS]] 实证基线诊断与评价环节断裂预警** [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] 在英格兰 79 所小学的实证调查中，将探究循环（Cycles of Inquiry）明确定位为自我改进学校系统中贯通 [[Professional Learning Community\|PLC]] 与 [[Joint Practice Development\|JPD]] 的核心运作引擎；同时实证诊断出探究循环存在“前端尝试活跃（82%）但末端成效评价缺失（仅 67% 具备正式评价机制）”的制度性短板，揭示了探究规程缺位诱发[[Activity Traps\|活动陷阱]]的病理机制。
 > - **2020s — 网络化探究共同体（NICs）与全系统融合** 学校探究循环进一步与卡内基网络化改进共同体（NICs）及全系统[[Knowledge Mobilisation\|知识动员]]战略相结合，成为跨校教研与循证督导的标准模型。
 
@@ -253,11 +253,11 @@ updated: 2026-10-16
 
 ## 应用案例
 
-> [!case] 案例：英格兰与荷兰中小学证据知情探究实验（[[Argument_Brown_2017_ER\|Brown et al., 2017]]）
-> Brown, Schildkamp, & Hubers (2017) 在英格兰和荷兰的多所中小学推行学校[[Inquiry Cycle\|探究循环]]项目。项目由学科组长担任中层促进者，首先带领组内教师分析学生数学形成性测评中的常见错误类型（[[Data-Based Decision Making\|DBDM]]）；随后指导教师检索 [[Education Endowment Foundation\|EEF]] 工具包中关于“[[Metacognition\|元认知]]与自我调节”的实证文献（[[Research-Informed Teaching Practice\|RITP]]）；教师团队共同设计了“数学解题自我提问单”，并在为期 8 周的课堂试验中收集[[Homework\|作业]]反馈；期末复盘显示实验班学生解题准确率显著提升，该探究循环模式随后被推广至全校各学科组。[[Argument_Brown_2017_ER\|(Brown et al., 2017, pp. 158, 161, 165–167)]]
+> [!case] 案例：英格兰与荷兰中小学证据知情探究实验（[[Argument_Brown_2017_EducRes\|Brown et al., 2017]]）
+> Brown, Schildkamp, & Hubers (2017) 在英格兰和荷兰的多所中小学推行学校[[Inquiry Cycle\|探究循环]]项目。项目由学科组长担任中层促进者，首先带领组内教师分析学生数学形成性测评中的常见错误类型（[[Data-Based Decision Making\|DBDM]]）；随后指导教师检索 [[Education Endowment Foundation\|EEF]] 工具包中关于“[[Metacognition\|元认知]]与自我调节”的实证文献（[[Research-Informed Teaching Practice\|RITP]]）；教师团队共同设计了“数学解题自我提问单”，并在为期 8 周的课堂试验中收集[[Homework\|作业]]反馈；期末复盘显示实验班学生解题准确率显著提升，该探究循环模式随后被推广至全校各学科组。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, pp. 158, 161, 165–167)]]
 
 > [!case] 案例：从“他人应该做”到“我们能做什么”的实践者认知重塑（Timperley et al. / Schildkamp et al.）
-> 在推进探究循环初期，教师往往持有将学业问题归咎于学生家庭背景或外部因素的防御性心理（deficit thinking）。ESTI 模型的关键机制在于引导教师将主观臆断转化为可检验的实证假设，并借助校本多源数据进行严格审验。在荷兰[[Data Team Intervention\|数据团队]]的多所学校实践中，多源数据客观推翻了“学生不努力”的刻板印象，促使教师群体直面课堂教学法单一等内部根因，实现了从被动推诿“他人应该怎么做”向主动反思“我们能在本校教学中做些什么来促进学生学习”的心态重塑。[[Argument_Brown_2017_ER\|(Brown et al., 2017, pp. 166–167)]]
+> 在推进探究循环初期，教师往往持有将学业问题归咎于学生家庭背景或外部因素的防御性心理（deficit thinking）。ESTI 模型的关键机制在于引导教师将主观臆断转化为可检验的实证假设，并借助校本多源数据进行严格审验。在荷兰[[Data Team Intervention\|数据团队]]的多所学校实践中，多源数据客观推翻了“学生不努力”的刻板印象，促使教师群体直面课堂教学法单一等内部根因，实现了从被动推诿“他人应该怎么做”向主动反思“我们能在本校教学中做些什么来促进学生学习”的心态重塑。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, pp. 166–167)]]
 
 ---
 
@@ -280,7 +280,7 @@ updated: 2026-10-16
 ## 包含此概念的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Brown_2017_ER\|Brown et al. (2017)]] — 奠基性论文，提出整合 [[Data-Based Decision Making\|DBDM]] 与 [[Research-Informed Teaching Practice\|RITP]] 的“证据知情学校与教师改进”（ESTI）八步探究模型与理论框架。
-> - [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]] — 系统评述 Brown 等的学校[[Inquiry Cycle\|探究循环模型]]，确立其在多源[[Evidence-Informed Practice\|证据知情实践]]中的核心操作地位。
+> - [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] — 奠基性论文，提出整合 [[Data-Based Decision Making\|DBDM]] 与 [[Research-Informed Teaching Practice\|RITP]] 的“证据知情学校与教师改进”（ESTI）八步探究模型与理论框架。
+> - [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] — 系统评述 Brown 等的学校[[Inquiry Cycle\|探究循环模型]]，确立其在多源[[Evidence-Informed Practice\|证据知情实践]]中的核心操作地位。
 > - [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] — 在英格兰 79 所小学调查中实证诊断探究循环的四因素支撑生态，揭示末端评价环节（67%）的制度性断裂与诱发[[Activity Traps\|活动陷阱]]的内在机制。
 > - LaPointe-McEwan, DeLuca, & Klinger (2017) — 研究中层领导在构建证据知情协作探究文化中的促进机制。

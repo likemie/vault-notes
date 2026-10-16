@@ -46,11 +46,11 @@ related_facts:
   - "[[Sound Partners]]"
   - "[[Reading Recovery]]"
 related_arguments:
-  - "[[Argument_Slavin_2019_EP]]"
+  - "[[Argument_Slavin_2019_EducPsychol]]"
 confidence: high
 status: active
 created: 2026-09-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Lindamood Phoneme Sequencing
@@ -60,7 +60,7 @@ updated: 2026-10-15
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **Lindamood Phoneme Sequencing（LiPS，林达穆德音素序列项目）**，原名深入听觉辨别训练（Auditory Discrimination in Depth, ADD），是由语言病理学家帕特里夏·林达穆德（Patricia Lindamood）与查尔斯·林达穆德（Charles Lindamood）创立、由著名阅读心理学家约瑟夫·托尔格森（Joseph Torgesen）等学者展开严格因果评估的经典多感官早期读写干预方案；其核心目标是通过发音动作的动觉与本体感觉反馈，帮助普通拼读教学无法奏效的严重阅读困难与阅读障碍（Dyslexia）学生掌握基础音素感知与正字法[[Decodification\|解码]]。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> **Lindamood Phoneme Sequencing（LiPS，林达穆德音素序列项目）**，原名深入听觉辨别训练（Auditory Discrimination in Depth, ADD），是由语言病理学家帕特里夏·林达穆德（Patricia Lindamood）与查尔斯·林达穆德（Charles Lindamood）创立、由著名阅读心理学家约瑟夫·托尔格森（Joseph Torgesen）等学者展开严格因果评估的经典多感官早期读写干预方案；其核心目标是通过发音动作的动觉与本体感觉反馈，帮助普通拼读教学无法奏效的严重阅读困难与阅读障碍（Dyslexia）学生掌握基础音素感知与正字法[[Decodification\|解码]]。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 方案雏形形成于 1970 年代初，经历 Lindamood-Bell 专业机构数十年的临床打磨与公立学校多中心试验，长盛不衰至今。
@@ -81,7 +81,7 @@ updated: 2026-10-15
 > - **字母符号与正字法映射** 在学生完全掌握口语动觉序列感知后，将发音动作精准映射到对应的正规印刷英文字母，进阶到假词与真实词汇的快速连贯拼读。
 
 > [!citation-card] 斯莱文论 LiPS 在多层支持系统中的突出效能
-> 在针对面临学业困境学生的阅读方案中，LiPS 展现出极为强劲的实证证据。在教师主导的小组辅导（Tier 2，1 年级，1 项研究）中其[[Effect Size\|效应量]]达到 +0.64，在教师主导的一对一密集个别辅导（Tier 3，K–2 年级，1 项研究）中其效应量更是高达 +0.69，在两层架构中均斩获了 [[Every Student Succeeds Act\|ESSA]] 的强证据评级。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> 在针对面临学业困境学生的阅读方案中，LiPS 展现出极为强劲的实证证据。在教师主导的小组辅导（Tier 2，1 年级，1 项研究）中其[[Effect Size\|效应量]]达到 +0.64，在教师主导的一对一密集个别辅导（Tier 3，K–2 年级，1 项研究）中其效应量更是高达 +0.69，在两层架构中均斩获了 [[Every Student Succeeds Act\|ESSA]] 的强证据评级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 >
 > *LiPS meets the ESSA strong evidence rating across both one-to-small-group tutoring (Tier 2, effect size +0.64) and one-to-one tutoring (Tier 3, effect size +0.69).*
 
@@ -93,7 +93,7 @@ updated: 2026-10-15
 > - **1970–1980 年代 — 临床创立与 ADD [[Paradigm\|范式]]成型** 林达穆德夫妇在临床言语矫正中提炼出“动作—听觉—视觉”多感官语音感知体系，出版《深入听觉辨别训练》手册。
 > - **1990 年代 — [[National Institute of Child Health and Human Development|NICHD]] 国家阅读认知危机攻关** 托尔格森团队在佛罗里达州开展里程碑式的长期追踪 [[Randomised Controlled Trials\|RCT]]（Torgesen et al., 1997），证实 LiPS 在一年级严重阅读障碍儿童中取得了突破性的[[Decodification\|解码]]增益（[[Effect Size\|效应量]]超 $+0.60$），确立了其全美学术声誉。
 > - **2000–2010 年代 — 计算机辅助与多学段评估** 托尔格森等学者进一步开发结合计算机软件的综合干预（Torgesen et al., 2010），在 K–2 年级多中心实验中再次验证了 $+0.69$ 的超额效应量。
-> - **2015–至今 — 法定 [[Every Student Succeeds Act\|ESSA]] 强证据金标准** 在《每一个学生成功法》（ESSA）证据分级中，LiPS 作为极少数在 Tier 2 与 Tier 3 均达到 Strong 评级的经典方案，被全美各州学区广泛采纳为特殊教育分流前的最后拦截屏障。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> - **2015–至今 — 法定 [[Every Student Succeeds Act\|ESSA]] 强证据金标准** 在《每一个学生成功法》（ESSA）证据分级中，LiPS 作为极少数在 Tier 2 与 Tier 3 均达到 Strong 评级的经典方案，被全美各州学区广泛采纳为特殊教育分流前的最后拦截屏障。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 ---
 
@@ -110,12 +110,12 @@ updated: 2026-10-15
 ## 成效评估与实证发现
 
 > [!finding-cards] 核心实证结论
-> - **超大因果学业[[Effect Size\|效应量]]** 在托尔格森等（Torgesen et al., 1997, 2010）主导的独立 [[Randomised Controlled Trials\|RCT]] 实验中，无论是以 1:2–3 形式开展的小组辅导（Tier 2，效应量 $+0.64$）还是 1:1 个别辅导（Tier 3，效应量 $+0.69$），LiPS 均测得远高于常规教育干预的超大效应量，显著消除虚假音素障碍。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> - **超大因果学业[[Effect Size\|效应量]]** 在托尔格森等（Torgesen et al., 1997, 2010）主导的独立 [[Randomised Controlled Trials\|RCT]] 实验中，无论是以 1:2–3 形式开展的小组辅导（Tier 2，效应量 $+0.64$）还是 1:1 个别辅导（Tier 3，效应量 $+0.69$），LiPS 均测得远高于常规教育干预的超大效应量，显著消除虚假音素障碍。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 > - **从根源阻断特殊教育转介** 实证追踪表明，经过 LiPS 密集干预的高危一年级儿童中，超过 85% 成功恢复至年级正常阅读流利度常模，极大地减少了因阅读困难而被迫贴上“[[Lifelong Learning\|终身学习]]失能（Learning Disability）”标签的儿童比例。
-> - **双层架构的强证据覆盖** 斯莱文（[[Argument_Slavin_2019_EP\|Slavin, 2019]]）特别指出，绝大多数教育方案往往仅在单一层级有效，而 LiPS 在 Tier 2 和 Tier 3 均通过了严苛的第三方标准化测试审查，是保障[[Response to Proven Instruction\|RTPI]]整体系统效能的关键支柱。
+> - **双层架构的强证据覆盖** 斯莱文（[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019]]）特别指出，绝大多数教育方案往往仅在单一层级有效，而 LiPS 在 Tier 2 和 Tier 3 均通过了严苛的第三方标准化测试审查，是保障[[Response to Proven Instruction\|RTPI]]整体系统效能的关键支柱。
 
 > [!stat-cards]- 关键实证数据
-> - **+0.64** Tier 2 小组辅导（1 年级，1:2–3）测得的平均阅读效应量（$ES$），获 [[Every Student Succeeds Act\|ESSA]] Strong 强证据等级。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> - **+0.64** Tier 2 小组辅导（1 年级，1:2–3）测得的平均阅读效应量（$ES$），获 [[Every Student Succeeds Act\|ESSA]] Strong 强证据等级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 > - **+0.69** Tier 3 个别辅导（K–2 年级，1:1）测得的平均阅读效应量（$ES$），获 ESSA Strong 强证据等级。
 > - **85%+** 接受早期密集干预后成功脱离特殊教育转介风险的高危学生比例。
 
@@ -124,7 +124,7 @@ updated: 2026-10-15
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 LiPS 列为初等阅读 Tier 2（[[Effect Size\|效应量]] $+0.64$）与 Tier 3（效应量 $+0.69$）双双达到 [[Every Student Succeeds Act\|ESSA]] 强[[Evidence Standards\|证据标准]]的标志性学术方案。
+> - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 LiPS 列为初等阅读 Tier 2（[[Effect Size\|效应量]] $+0.64$）与 Tier 3（效应量 $+0.69$）双双达到 [[Every Student Succeeds Act\|ESSA]] 强[[Evidence Standards\|证据标准]]的标志性学术方案。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，展示如何以 LiPS 等强证据工具充实 [[Response to Intervention\|RTI]] 多层防线。
 > - [[Sound Partners]] — 同属早期语音阅读强证据代表方案，侧重受训助教递送；与 LiPS 形成专业教师 vs 助教辅导的双璧矩阵。
 > - [[Reading Recovery]] — 经典一对一专业教师辅导代表方案，共同构成全美早期个别化干预的公认标杆。

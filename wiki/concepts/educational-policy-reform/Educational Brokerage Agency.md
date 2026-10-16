@@ -161,7 +161,7 @@ related_arguments:
   - "[[Argument_Gough_2022_EvidenceOnEIPP]]"
   - "[[Argument_Hill_2022_FacilitatingActors]]"
   - "[[Argument_Manitius_vanHolt_2019_BzS]]"
-  - "[[Argument_Serpell_2020_EP]]"
+  - "[[Argument_Serpell_2020_EducPsychol]]"
   - "[[Argument_Kelly_2025_ROE]]"
   - "[[Argument_Torres_2022_KMModels]]"
   - "[[Argument_Pellegrini_2021_ECNUROE]]"
@@ -320,7 +320,7 @@ updated: 2026-10-16
 > **业务版图扩张与法定系统统筹的两大战略[[Paradigm\|范式]]** 中介机构深嵌于外部政治问责大系统（如英格兰 [[Ofsted]] 督导）中，若外层体制缺乏证据协调机制，中介机构面临两大战略抉择：一是如英国教育捐赠基金会（EEF）采取“功能拓展范式”（Broad Remit），面对宏观统筹缺位主动下沉，从发布工具包走向建立由一线教师担纲大使的区域[[Research Schools Network\|研究学校网络]]（RSN）与助教推广战役，由机构自身弥补系统协同不足；二是如[[National Institute for Health and Care Excellence\|英国国家卫生与临床优化研究所]]（NICE）采取“紧凑聚焦范式”（Focused & Integrated），自身保持紧凑职能，直接嵌入国家卫生体系（NHS）法定高位统筹体系与准入支付规程。中介机构必须明晰自身生态定位，审慎权衡业务扩张的管理成本与依附体制的自主权风险。[[Argument_Gough_2022_EvidenceOnEIPP\|(Gough et al., 2022, pp. 150–151)]]
 
 > [!claim] [[Zewelanji N. Serpell\|Serpell, Z. N.]]
-> **立法智库转译、选民赋权与学会敏捷应急战略** 瑟佩尔（[[Argument_Serpell_2020_EP\|Serpell, 2020]]）基于美国国会众议院常设委员会全职沉浸经历指出，宏观代议制立法生态要求中介机构兼具多重转译与动员功能：其一是编制包含专业示范条文（Model Statutory Language）的[[Legislative Policy Brief\|立法政策简报]]，直接为国会委员会法律顾问提供可吸纳的法案草案；其二是“选民赋权式知识经纪”，将脑科学证据通俗化赋权给家长以自下而上游说议员；其三是设立“[[Rapid Assessment and Response Strategy\|快速评估与响应战略]]”（Rapid Assessment and Response Strategy, RARS），在突发公共危机时以极速专家动员凝聚共识发布官方声明，打破同行评议长周期与国会立法时间窗口的脱节。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 43–47)]]
+> **立法智库转译、选民赋权与学会敏捷应急战略** 瑟佩尔（[[Argument_Serpell_2020_EducPsychol\|Serpell, 2020]]）基于美国国会众议院常设委员会全职沉浸经历指出，宏观代议制立法生态要求中介机构兼具多重转译与动员功能：其一是编制包含专业示范条文（Model Statutory Language）的[[Legislative Policy Brief\|立法政策简报]]，直接为国会委员会法律顾问提供可吸纳的法案草案；其二是“选民赋权式知识经纪”，将脑科学证据通俗化赋权给家长以自下而上游说议员；其三是设立“[[Rapid Assessment and Response Strategy\|快速评估与响应战略]]”（Rapid Assessment and Response Strategy, RARS），在突发公共危机时以极速专家动员凝聚共识发布官方声明，打破同行评议长周期与国会立法时间窗口的脱节。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 43–47)]]
 
 ---
 
@@ -368,7 +368,7 @@ updated: 2026-10-16
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **政治治理与制度脆弱性命题** | 中介存续受制于政党更迭与短期预算考核，且面临部委联结断裂与资本渗透挑战 | 政府资助的各类国家级与地方教育中介机构、公私政策网络 | [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]]; Blanchenay et al. (2014); [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]]; [[Argument_Rowe_2022_IJER\|Rowe (2022)]] |
-> | **元中介协作与宏观系统整合命题** | 超越机构孤岛推进跨国元中介治理，结合立法示范条文转译与外部问责体制衔接 | 跨域证据中介协作、二阶[[Systematic Review\|系统综述]]、宏观立法审议与国家高位统筹 | [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]]; [[Argument_Serpell_2020_EP\|Serpell (2020)]]; Gough et al. (2011) |
+> | **元中介协作与宏观系统整合命题** | 超越机构孤岛推进跨国元中介治理，结合立法示范条文转译与外部问责体制衔接 | 跨域证据中介协作、二阶[[Systematic Review\|系统综述]]、宏观立法审议与国家高位统筹 | [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]]; [[Argument_Serpell_2020_EducPsychol\|Serpell (2020)]]; Gough et al. (2011) |
 > | **循证异化批判与中介自我循证命题** | 警惕中介规程技术化对专业智慧的剥离与商业操纵，中介自身须构筑五大循证支柱 | 中介工具包推广、教育市场化治理、中介机构制度设计与功效主张审查 | [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]]; Greenhalgh et al. (2014); Lubienski (2019) |
 > | **骨干乘数辐射与多媒介共创命题** | 单向推送因果效应为零，中介需转向师资骨干辐射、多媒介协同与学术成果制度激励 | 区域教师教育体系、二阶学术中介服务、传播媒介组合与学术评价改革 | [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]]; [[Argument_Besa_2024_UW\|Besa (2024)]]; Lord et al. (2017); Kerres et al. (2022) |
 
@@ -467,7 +467,7 @@ updated: 2026-10-16
 > - [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 比较跨领域四大主流[[Knowledge Mobilisation\|知识动员]]模型，解析[[Knowledge Mediation\|知识中介]]在系统模型中作为连接[[Knowledge Production\|知识生产]]与知识使用核心纽带的职能定位。
 > - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 针对知识中介机构缺乏实证依据的“循证赤字”展开元研究批判，提出涵盖需求分析、外层系统整合、[[Theory of Change\|变革理论]]、[[Evidence Standards\|证据标准]]与自我成效评估的知识中介五大支柱框架。
 > - [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] — 评估欧美主要[[Educational Evidence Clearinghouses\|教育证据清算机构]]（包括 [[What Works Clearinghouse\|WWC]]、[[Education Endowment Foundation\|EEF]]、BEP 等）的[[Systematic Review\|系统综述]]标准与评级一致性，证实中介审查门槛的差异对政策采纳产生直接影响。
-> - [[Argument_Serpell_2020_EP\|Serpell (2020)]] — 基于美国国会常设委员会全职沉浸经历，剖析智库中介（如新美国、[[The Education Trust\|EdTrust]]、[[American Council on Education\|ACE]]、[[American Association of Colleges for Teacher Education\|AACTE]]）运用包含法定示范条文的[[Legislative Policy Brief\|立法政策简报]]向立法幕僚转译实证证据的运作机制，揭示研究者作为[[Boundary Spanner\|知识经纪人]]赋权选民游说以及专业学会设立极速应急响应战略（[[Rapid Assessment and Response Strategy\|RARS]]）的制度效能。
+> - [[Argument_Serpell_2020_EducPsychol\|Serpell (2020)]] — 基于美国国会常设委员会全职沉浸经历，剖析智库中介（如新美国、[[The Education Trust\|EdTrust]]、[[American Council on Education\|ACE]]、[[American Association of Colleges for Teacher Education\|AACTE]]）运用包含法定示范条文的[[Legislative Policy Brief\|立法政策简报]]向立法幕僚转译实证证据的运作机制，揭示研究者作为[[Boundary Spanner\|知识经纪人]]赋权选民游说以及专业学会设立极速应急响应战略（[[Rapid Assessment and Response Strategy\|RARS]]）的制度效能。
 > - [[Argument_Rowe_2022_IJER\|Rowe (2022)]] — 以[[Network Ethnography\|网络民族志]]与[[Actor-Network Theory\|行动者网络理论]]解构 [[Australian Education Research Organisation\|AERO]] 的[[Assemblage\|政策装配]]，揭示中立表象下的[[Venture Philanthropy\|风险慈善]]游说与[[Network Governance\|网络治理]]。
 
 ---

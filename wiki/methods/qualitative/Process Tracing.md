@@ -54,7 +54,7 @@ related_facts:
   - "[[Higher Education and Research Plan]]"
   - "[[Common Core State Standards]]"
 related_arguments:
-  - "[[Argument_McDonnell_2013_AJE]]"
+  - "[[Argument_McDonnell_2013_AmJE]]"
 confidence: high
 status: stable
 created: 2026-09-26
@@ -68,7 +68,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 方法定义
-> 过程追踪法（Process Tracing）是政治学、历史社会学与公共政策分析中用于案例内[[Causality|因果推断]]的核心[[Qualitative Research|质性研究]]方法。该方法不依赖大样本统计控制，而是深入单一案例或少量比较案例的内部历程，通过对时间序列档案、口述证词与决策现场材料的密集挖掘，追踪连接初始条件（[[Independent Variable|自变量]]）与最终政策产出（[[Dependent Variable|因变量]]）之间的微观中介[[Causal Processes|因果过程]]（Intervening causal processes）与因果机制（Causal mechanisms）。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 7–8)]]
+> 过程追踪法（Process Tracing）是政治学、历史社会学与公共政策分析中用于案例内[[Causality|因果推断]]的核心[[Qualitative Research|质性研究]]方法。该方法不依赖大样本统计控制，而是深入单一案例或少量比较案例的内部历程，通过对时间序列档案、口述证词与决策现场材料的密集挖掘，追踪连接初始条件（[[Independent Variable|自变量]]）与最终政策产出（[[Dependent Variable|因变量]]）之间的微观中介[[Causal Processes|因果过程]]（Intervening causal processes）与因果机制（Causal mechanisms）。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 7–8)]]
 
 > [!method-scope] 方法范围
 > - **研究对象** 复杂的历史转折、重大制度变迁、公共政策制定与采纳全流程、多方利益博弈的决策因果链条。
@@ -79,7 +79,7 @@ updated: 2026-10-16
 > [!citation-card] 过程追踪的机制解释本质
 > 因为我们的首要兴趣在于测绘该项政策发展全周期中研究证据的利用轨迹，所以我们采用了政治学中案例内质性因果分析的主导方法——过程追踪法。过程追踪的目标在于搜集具体事件与产出的详尽信息，尤其是通过严密审视将因果链条所涉多元特征与个体行动者连接起来的中介过程。
 >
-> *Because our primary interest is in mapping the use of evidence over the development of this policy, we employ the predominant approach to within-case qualitative causal analysis in political science—process tracing (Bennett and Elman 2006; George and Bennett 2005; Mahoney 2000). The goal of process tracing is to gather information about specific events and outcomes, especially through a close examination of the intervening processes that link the multiple features and individual actors involved in the causal chain.* [[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 7–8)]]
+> *Because our primary interest is in mapping the use of evidence over the development of this policy, we employ the predominant approach to within-case qualitative causal analysis in political science—process tracing (Bennett and Elman 2006; George and Bennett 2005; Mahoney 2000). The goal of process tracing is to gather information about specific events and outcomes, especially through a close examination of the intervening processes that link the multiple features and individual actors involved in the causal chain.* [[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 7–8)]]
 
 ---
 
@@ -115,14 +115,14 @@ updated: 2026-10-16
 > | 维度 | 信息 |
 > |---|---|
 > | 材料来源 | 涵盖政策制定核心层的高层访谈[[Transcription in Qualitative Research\|转录]]、各轮闭门起草草案、公开征询意见备忘录、第三方智库评估简报与联邦拨款指南。 |
-> | 抽样或选案 | 典型案例或极化案例分析；选取具有重大制度突破意义且最有利于理论假说检验的“理想案例（Best-case scenario）”。[[Argument_McDonnell_2013_AJE\|(McDonnell & Weatherford, 2013, p. 19)]] |
+> | 抽样或选案 | 典型案例或极化案例分析；选取具有重大制度突破意义且最有利于理论假说检验的“理想案例（Best-case scenario）”。[[Argument_McDonnell_2013_AmJE\|(McDonnell & Weatherford, 2013, p. 19)]] |
 > | 研究者位置 | 独立学术评估者；通常采用匿名机制（Personal interviews）保护受访政客与起草专家的职业安全，以获取排除公关辞令的深层决策内幕。 |
 > | 资料边界 | 覆盖政策生命周期始末的完整时间跨度（如 McDonnell & Weatherford 追踪的 2006 至 2011 五年全程）。 |
 
 > [!proc] 质性分析与机制验证程序
 > 1. **时间序列编目** 建立详尽的时间序列事件矩阵，将政策演进解构为议程设置、方案研制与法定采纳等制度阶段。
 > 2. **因果机制映射** 比对各阶段行动者的实际行为、官方宣称理由与内部会议记录，识别行动者动员不同资源的真实动机。
-> 3. **多源[[Triangulation|三角互证]]** 将口述证词与同期档案文本进行严格交叉核验，排除受访者记忆偏差、后见之明与自我美化偏误。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 20)]]
+> 3. **多源[[Triangulation|三角互证]]** 将口述证词与同期档案文本进行严格交叉核验，排除受访者记忆偏差、后见之明与自我美化偏误。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 20)]]
 > 4. **替代性假说排除** 检验外部外生[[Variable|变量]]（如突发财政危机、选举更替、高额财政奖励资金）是否才是决定性驱动力，精准厘清研究证据等核心变量的真实权重。
 
 ---
@@ -130,7 +130,7 @@ updated: 2026-10-16
 ## 适用场景
 
 > [!method-fit] 适用判断
-> - **适合使用** 适合回答“政策是如何被一步步制定出来的”、“为什么看似完美的科学改革方案在实践中变质”、“行动者如何在复杂制度结构中策略性博弈”等纵深因果机制问题。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 7–8)]]
+> - **适合使用** 适合回答“政策是如何被一步步制定出来的”、“为什么看似完美的科学改革方案在实践中变质”、“行动者如何在复杂制度结构中策略性博弈”等纵深因果机制问题。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 7–8)]]
 > - **谨慎使用** 当政策决策发生在高度保密、档案缺失且当事人拒绝接受访谈的封闭场景中时，因[[Chain of Evidence|证据链]]极易产生断裂，需谨慎运用。
 > - **不适合使用** 不适合用于评估大规模人群干预的处理效应平均数值，亦不适合在缺乏具体决策过程细节的大样本[[Cross-sectional Study|横截面研究]]中使用。
 
@@ -163,4 +163,4 @@ updated: 2026-10-16
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_McDonnell_2013_AJE|McDonnell and Weatherford (2013)]] — 麦克唐纳与韦瑟福德通过过程追踪法追踪[[Common Core State Standards|共同核心标准]] 5 年生命周期，揭示出实证研究如何与[[Professional Judgment|专业判断]]及政治价值发生阶段权变性整合。
+> - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 麦克唐纳与韦瑟福德通过过程追踪法追踪[[Common Core State Standards|共同核心标准]] 5 年生命周期，揭示出实证研究如何与[[Professional Judgment|专业判断]]及政治价值发生阶段权变性整合。

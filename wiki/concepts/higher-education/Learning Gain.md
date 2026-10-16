@@ -71,7 +71,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Bouckaert_2023_OECD]]"
   - "[[Argument_DeJong_2023_ERR]]"
-  - "[[Argument_Serpell_2020_EP]]"
+  - "[[Argument_Serpell_2020_EducPsychol]]"
 created: 2026-08-26
 updated: 2026-10-16
 ---
@@ -122,7 +122,7 @@ updated: 2026-10-16
 > - **实验干预的净因果增益识别** 在教学对比实验中，通过严格的[[Pre-test and Post-test\|前测]]基线控制与后测延迟测试，剔除先验知识与自然成长影响，精准度量特定教学法诱发的认知结构变化。[[Argument_DeJong_2023_ERR\|(De Jong et al., 2023, pp. 4, 8)]]
 > - **标准化通用认知测试（Standardized Cognitive Assessments）** 运用脱离具体专业事实的[[Higher-Order Thinking Skills\|高阶思维]]测评工具（如 [[Collegiate Learning Assessment\|CLA+]]、[[Collegiate Assessment of Academic Proficiency\|CAAP]]、[[Educational Testing Service\|ETS]] 档案），追踪[[Critical Thinking\|批判性思维]]、因果推理与[[Problem Solving\|问题解决]]的跨周期进阶。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, p. 17)]]
 > - **质性表现性量规与课程真实作品（Authentic Rubrics）** 追踪学生在学术论文、设计项目及毕业设计中基于表现性量规（如 [[VALUE Rubrics]]）的水平跨越，弥补客观测试对复杂学科素养的简化。
-> - **多层统计模型与残差剥离** 依托增值建模（Value-Added Modeling, VAM）控制学生社会经济背景（SES）、先验基础与同伴效应，提取纯净的教学增值量。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 42)]]
+> - **多层统计模型与残差剥离** 依托增值建模（Value-Added Modeling, VAM）控制学生社会经济背景（SES）、先验基础与同伴效应，提取纯净的教学增值量。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 42)]]
 
 > [!logic-map]- 学习增益的测量与转化逻辑链
 > ```mermaid
@@ -166,8 +166,8 @@ updated: 2026-10-16
 > [!concept-lens] 心理测量效度与宏观制度生态
 > 剖析增值测量在微观施测动机与宏观政策转化中面临的方法学与制度悖论。
 
-> [!claim] [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]]; [[Argument_Serpell_2020_EP\|Serpell (2020)]]
-> **动机涣散与[[Technical Rationality\|技术理性]]规制的制度反噬** 学习增益测量在实践中面临内外部双重制约：在微观测试层面，若测试缺乏利益挂钩（Low-stakes），高年级学生往往缺乏全力作答的动机，极易产生低估与[[Attrition\|样本流失]]；在宏观治理层面，Stephen Raudenbush 指出，增值指标在技术上的统计有效性绝不等于可以直接转化为解雇教师或关闭专业的治理依据。若机械将增值模型（VAM）异化为惩戒性规制工具，将彻底瓦解教师间的专业信任，诱发应试投机，破坏学校组织的良性生态。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 17, 24–26)]]; [[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 42)]]
+> [!claim] [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]]; [[Argument_Serpell_2020_EducPsychol\|Serpell (2020)]]
+> **动机涣散与[[Technical Rationality\|技术理性]]规制的制度反噬** 学习增益测量在实践中面临内外部双重制约：在微观测试层面，若测试缺乏利益挂钩（Low-stakes），高年级学生往往缺乏全力作答的动机，极易产生低估与[[Attrition\|样本流失]]；在宏观治理层面，Stephen Raudenbush 指出，增值指标在技术上的统计有效性绝不等于可以直接转化为解雇教师或关闭专业的治理依据。若机械将增值模型（VAM）异化为惩戒性规制工具，将彻底瓦解教师间的专业信任，诱发应试投机，破坏学校组织的良性生态。[[Argument_Bouckaert_2023_OECD\|(Bouckaert, 2023, pp. 17, 24–26)]]; [[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 42)]]
 
 ---
 
@@ -178,7 +178,7 @@ updated: 2026-10-16
 > |---|---|---|---|
 > | **质量范式重塑** | 关注学生认知净位移以打破名校声誉与生源选拔偏误 | 高等教育质量保障、院校评估与课程改革 | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] |
 > | **探究机制归因** | 学习增益源于支架卸载工作记忆负荷，六类指导形态功能等价 | 理科教学干预、[[Inquiry-Based Learning\|指导式探究]]与实验设计 | Lazonder & Harmsen; [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] |
-> | **治理生态制约** | 低利害作答动机衰退与机械惩戒性人事转化的制度反噬 | 增值评价模型（VAM）、政策问责与绩效监测 | Raudenbush; [[Argument_Serpell_2020_EP\|Serpell (2020)]] |
+> | **治理生态制约** | 低利害作答动机衰退与机械惩戒性人事转化的制度反噬 | 增值评价模型（VAM）、政策问责与绩效监测 | Raudenbush; [[Argument_Serpell_2020_EducPsychol\|Serpell (2020)]] |
 
 ---
 
@@ -228,7 +228,7 @@ updated: 2026-10-16
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] | 英国 [[Higher Education Funding Council for England\|HEFCE]] 学习增益项目涵盖数十所高校、数万名本科生 | 纵向准实验追踪与试点评价 | [[Collegiate Learning Assessment\|CLA+]] 与表现性量规在各专业中的跨期配对率与作答完成度 | 绝大多数试点项目面临极为严重的第二轮追踪[[Attrition\|样本流失]]与作答动机不足 | 跨校差异显著 | 证实通用客观化增值测试在低利害大学情境下面临严重的实施与测量效度挑战 |
-> | Raudenbush (2015) (引自 [[Argument_Serpell_2020_EP\|Serpell, 2020, p. 42]]) | 美国公立学区教师与学生纵向统考数据 | 多层线性增值回归建模（VAM） | 教师年度增值分数在不同学年间的重测稳定性 | 教师个人增值排位在连续年份间呈现大幅波动，存在高比例因非教学因素造成的误判 | 误差范围较大 | 实证确立不能机械将微观统计增值模型作为解雇教师的高利害行政裁决依据 |
+> | Raudenbush (2015) (引自 [[Argument_Serpell_2020_EducPsychol\|Serpell, 2020, p. 42]]) | 美国公立学区教师与学生纵向统考数据 | 多层线性增值回归建模（VAM） | 教师年度增值分数在不同学年间的重测稳定性 | 教师个人增值排位在连续年份间呈现大幅波动，存在高比例因非教学因素造成的误判 | 误差范围较大 | 实证确立不能机械将微观统计增值模型作为解雇教师的高利害行政裁决依据 |
 
 ---
 
@@ -237,4 +237,4 @@ updated: 2026-10-16
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统评析探究与[[Direct Instruction\|直接教学]]的实证全景，引用 Lazonder and Harmsen (2016) 确证指导[[Scaffolding\|脚手架]]带来 $d = 0.50$ 的学习增益及六类指导类型的促学等价性。
 > - [[Argument_Bouckaert_2023_OECD\|Bouckaert (2023)]] — 梳理 [[OECD]] 国家支持学习增益与[[Higher-Order Thinking Skills\|高阶思维]]评价的政策项目（英国 [[Higher Education Funding Council for England\|HEFCE]]、德国 [[KoKoHs Program\|KoKoHs]]、意大利 [[TECO Project\|TECO]]），辨析不同测度方法的优劣与实施挑战。
-> - [[Argument_Serpell_2020_EP\|Serpell (2020)]] — 援引 Raudenbush (2015) 剖析增值评价模型（VAM）在宏观政策应用中的局限，揭示微观[[Technical Rationality\|技术理性]]与宏观学校治理生态之间的深层张力。
+> - [[Argument_Serpell_2020_EducPsychol\|Serpell (2020)]] — 援引 Raudenbush (2015) 剖析增值评价模型（VAM）在宏观政策应用中的局限，揭示微观[[Technical Rationality\|技术理性]]与宏观学校治理生态之间的深层张力。

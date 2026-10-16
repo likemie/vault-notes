@@ -7,7 +7,7 @@ summary: "芬兰政治地理学者，知识经济化与知识经济地缘政治�
 type: person
 nationality: finland
 person_region: "finland"
-person_related_count: 27
+person_related_count: 28
 person_related_level: 3
 person_related_stars: "⭐⭐⭐"
 person_related_color: "#ede9fe"
@@ -48,6 +48,7 @@ related_arguments:
   - "[[Argument_Moisio_2022_Springer]]"
   - "[[Argument_Hartmann_2022_CorporateEducation]]"
   - "[[Argument_Zapp_2022_Springer]]"
+  - "[[Argument_Parreira do Amaral_2022_Springer]]"
 related_facts:
   - "[[OECD]]"
   - "[[World Bank]]"

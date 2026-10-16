@@ -75,7 +75,7 @@ related_arguments:
   - "[[Argument_Olmos_Torres_2009_StateTheories]]"
   - "[[Argument_ONeill_2016_Report]]"
   - "[[Argument_Beech_2009_GlobalGarden]]"
-  - "[[Argument_Johnson_2023_CE]]"
+  - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Ball_2008_SR]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
 confidence: high
@@ -117,7 +117,7 @@ updated: 2026-10-16
 > - **1998 — *Big policies/small world: An introduction to international perspectives in education policy*** 开拓全球教育[[Policy Mobility|政策流动]]视角，指出由跨国机构提炼的宏观政策[[Discourse|话语]]因其高度简约性对渴望速效改革的民族国家产生巨大吸引力。[[Argument_Beech_2009_GlobalGarden|(Ball, 1998, cited in Beech, 2009b, p. 352)]]
 > - **2000 — *What is policy? Texts, trajectories and toolboxes*** 提出政策文本（Text）与政策执行（Enactment）的经典张力，阐明去情境化的普遍政策模板无法直接推导出各国的微观实践结果。[[Argument_Beech_2009_GlobalGarden|(Ball, 2000, cited in Beech, 2009b, p. 352)]]
 > - **2001 — *'You've been NERFed!' Dumbing down the academy: National Educational Research Forum*** 尖锐批判英国国家教育研究论坛推行的实用问责导向，揭示分类委托合同研究对大学基础研究自主逻辑的侵蚀与学术降维（Dumbing Down）。[[Argument_Beech_2009_GlobalGarden|(Ball, 2001, cited in Beech, 2009b, pp. 355–356)]]
-> - **2003 — *The teacher's soul and the terrors of [[Performativity]]*** 确立[[Performativity|表演性]]理论范式，剖析以指标生产和外在审计为核心的管理主义技术如何重塑教师灵魂，诱发伦理精神分裂与职业异化。[[Argument_Johnson_2023_CE|(Ball, 2003, cited in Johnson & Janzen, 2023, p. 29)]]
+> - **2003 — *The teacher's soul and the terrors of [[Performativity]]*** 确立[[Performativity|表演性]]理论范式，剖析以指标生产和外在审计为核心的管理主义技术如何重塑教师灵魂，诱发伦理精神分裂与职业异化。[[Argument_Johnson_2023_CritEduc|(Ball, 2003, cited in Johnson & Janzen, 2023, p. 29)]]
 > - **2008 — *Hidden Privatisation in Public Education*** （与 Deborah Youdell 合著）系统提出[[Endogenous and Exogenous Privatisation|内生与外生私有化]]分析范式，成为国际比较教育政策研究的奠基文献。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 4)]]
 > - **2008 — *Some sociologies of education: A history of problems and places, and segments and gazes*** 批判性总结教育社会学史，揭示量化审计指标如何将学校重构为可[[Disciplina and Doctrina|规训]]的[[Governing by Numbers|数字治理]]组织。[[Argument_Ball_2008_SR|(Ball, 2008, pp. 650–669)]]
 > - **2012 — *Global Education Inc.: New [[Policy Network|policy networks]] and the Neoliberal Imaginary*** 聚焦跨国教育商业化与[[Policy Entrepreneur|政策企业家]]网络。
@@ -132,10 +132,10 @@ updated: 2026-10-16
 ### 核心命题
 
 > [!claim] 表演性与教师灵魂的规训重塑（Performativity & The Teacher's Soul）
-> 鲍尔指出，在过度迷恋数据考核与审计文化的教育系统中，一种名为[[Performativity|表演性]]（Performativity）的规训机制应运而生。在这一机制下，个人的价值完全被可测量、可观察的产出指标所代表；教师被迫耗费海量精力生产各种书面证据来证明自身合规，将真实的师生人际交往转变为迎合外部检查的技术表演。这种治理技术不仅造成教师主观认同的异化和价值观分裂（在专业良心与绩效造假之间撕裂），而且剥夺了教师根据复杂学情做出的[[Professional Judgment|专业判断]]（Ball, 2003; [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023, pp. 29–30]]）。
+> 鲍尔指出，在过度迷恋数据考核与审计文化的教育系统中，一种名为[[Performativity|表演性]]（Performativity）的规训机制应运而生。在这一机制下，个人的价值完全被可测量、可观察的产出指标所代表；教师被迫耗费海量精力生产各种书面证据来证明自身合规，将真实的师生人际交往转变为迎合外部检查的技术表演。这种治理技术不仅造成教师主观认同的异化和价值观分裂（在专业良心与绩效造假之间撕裂），而且剥夺了教师根据复杂学情做出的[[Professional Judgment|专业判断]]（Ball, 2003; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 29–30]]）。
 
 > [!citation-card] 鲍尔论表演性：规训、度量与灵魂的恐怖撕裂
-> 表演性是一种规训、控制与归位的技术，它将判断、对比和展示作为控制、消耗与改造手段。个体或组织在这些展示中的表现充当了价值或质量的度量……表演性涉及对教师灵魂的殖民——一种关于教师应是什么、应相信什么以及如何思考自身的深刻[[Ontology|本体论]]重塑。[[Argument_Johnson_2023_CE|(Ball, 2003, cited in Johnson & Janzen, 2023, p. 29)]]
+> 表演性是一种规训、控制与归位的技术，它将判断、对比和展示作为控制、消耗与改造手段。个体或组织在这些展示中的表现充当了价值或质量的度量……表演性涉及对教师灵魂的殖民——一种关于教师应是什么、应相信什么以及如何思考自身的深刻[[Ontology|本体论]]重塑。[[Argument_Johnson_2023_CritEduc|(Ball, 2003, cited in Johnson & Janzen, 2023, p. 29)]]
 >
 > *“Performativity is a technology, a culture and a mode of regulation that employs judgements and comparisons and displays of ‘output’ as means of control, [[Attrition]] and change. The performances (of individual subjects or of organizations) serve as measures of productivity or output, or displays of ‘quality’... It involves the colonisation of the teacher’s soul – a profound ontological reshaping of what it means to be a teacher.”*
 
@@ -171,11 +171,11 @@ updated: 2026-10-16
 > [!influence-path] 影响路径
 > - **理论路径** 将福柯的政府[[Governmentality|治理术]]与[[Basil Bernstein|伯恩斯坦]]的符号[[Societies of Control|控制社会]]学引入政策分析，开辟了批判性教育政策社会学研究传统；其提出的[[Performativity|表演性]]与内生/外生私有化模型成为当代解构新自由主义教育改革的基础词汇。
 > - **方法路径** 推广[[Policy Network|政策网络]]拓扑学与社会网络地图绘制方法，为后继学者解构跨国教育商业化与[[Policy Entrepreneur|政策企业家]]的利益网络提供了有力工具。
-> - **政策批判路径** 为全球教师工会（如教育国际）抵制新自由主义私有化改革、反思以数据为主导的数字问责提供了坚实的理论武器；[[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]]等学者直接继承其表演性批判，深入剖析 [[Visible Learning]] 与高影响力教学策略对一线教师的[[Disciplina and Doctrina|规训]]。
+> - **政策批判路径** 为全球教师工会（如教育国际）抵制新自由主义私有化改革、反思以数据为主导的数字问责提供了坚实的理论武器；[[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]等学者直接继承其表演性批判，深入剖析 [[Visible Learning]] 与高影响力教学策略对一线教师的[[Disciplina and Doctrina|规训]]。
 > - **跨国扩展** 其关于市场化作为阶级策略与内生/外生私有化的[[Analytic Framework|分析框架]]被比较教育学者广泛运用于欧美、大洋洲及拉美等外围[[Conditioned State Theory|受限国家]]的教育重构分析；其关于私营部门介入公共教育的论断与政策文本/执行张力分析，直接启发了[[Jason Beech]]构建全球教育[[Champ|场域]]五位置[[Discourse|话语]]流通模型。
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]] — 运用鲍尔关于表演性（Performativity）的规训理论，深入解构 Visible Learning 及其商业认证体系如何将教师异化为流水线操作工与数据生产工具（pp. 28–30）。
+> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 运用鲍尔关于表演性（Performativity）的规训理论，深入解构 Visible Learning 及其商业认证体系如何将教师异化为流水线操作工与数据生产工具（pp. 28–30）。
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 运用鲍尔关于内生/外生私有化及跨国政策创业理论，实证剖析新西兰公立学校政策网络的商业化与治理重构。
 > - [[Argument_Ball_2008_SR|Ball (2008)]] — 自行阐述教育社会学史与治理目光的变迁，解构绩效技术对现代学校的主导机制。
 > - [[Argument_Wrigley_2018_BERJ|Wrigley (2018)]] — 引用鲍尔对新自由主义审计社会的剖析，批判[[Evidence-Based Education|循证教育]]运动如何用[[Governing by Numbers|数字治理]]代替教育的民主目的与教师的[[Professional Judgment|专业判断]]。
@@ -218,7 +218,7 @@ updated: 2026-10-16
 > | [[Conditioned State Theory]] | 理论 | 鲍尔的私有化阶级策略被托雷斯与[[Liliana Esther Olmos\|奥尔莫斯]]运用于剖析受限国家的新自由主义转型。 |
 > | [[Categorical Funding]] | 概念 | 鲍尔批判定向委托研究迫使学者沦为短期合同工、侵蚀大学基础学术逻辑的核心概念。 |
 > | [[Global Educational Discourse]] | 概念 | 鲍尔揭示跨国机构生产的宏观政策[[Discourse\|话语]]因高度简约而对民族国家产生强大诱惑力。 |
-> | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] | 论证 | 引用鲍尔表演性理论解构 [[Visible Learning]] 将教师异化为流水线操作工的核心批判文献。 |
+> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 论证 | 引用鲍尔表演性理论解构 [[Visible Learning]] 将教师异化为流水线操作工的核心批判文献。 |
 > | [[Jason Beech]] | 人物 | 吸收鲍尔政策社会学与私营部门参与论断，构建全球教育[[Champ\|场域]]五位置话语流通模型。 |
 > | [[Carlos Alberto Torres]] | 人物 | 批判教育社会学同道，共同关注新自由主义全球化与市场化对公共教育的重塑。 |
 > | [[Liliana Esther Olmos]] | 人物 | 在国家理论与教育扩张研究中系统吸收并引申鲍尔的市场化阶级策略论断。 |

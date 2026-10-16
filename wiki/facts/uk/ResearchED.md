@@ -47,7 +47,7 @@ related_facts:
   - "[[Chartered College of Teaching]]"
 related_arguments:
   - "[[Argument_Wrigley_2018_BERJ]]"
-  - "[[Argument_Nelson_2017_ER]]"
+  - "[[Argument_Nelson_2017_EducRes]]"
   - "[[Argument_Wrigley_2019_ERE]]"
 confidence: high
 status: draft
@@ -64,7 +64,7 @@ updated: 2026-10-16
 > [!event-context] 事件背景
 > - **时间 / 地点** 2013 年发起于英国伦敦，后续发展为国际性的教育会议网络。
 > - **关键主体** 英国中学教师汤姆·贝内特（ToM Bennett，发起人）、时任英国教育部学校部长尼克·吉布（Nick Gibb，政府官方背书者）([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 3]])。
-> - **制度背景** 英国教育系统长期处于“自上而下”的政策驱动与“技术-理性”（technical-rational）研究灌输语境中。一方面，教育部强力推动“[[Evidence-Based Education\|循证教育]]改革”与“黄金标准”[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trials, RCT）方法论；另一方面，教师群体对证据的草根需求日益增长，呼唤摆脱纯粹被动执行者的角色([[Argument_Nelson_2017_ER\|Nelson & Campbell, 2017, p. 127]])。
+> - **制度背景** 英国教育系统长期处于“自上而下”的政策驱动与“技术-理性”（technical-rational）研究灌输语境中。一方面，教育部强力推动“[[Evidence-Based Education\|循证教育]]改革”与“黄金标准”[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trials, RCT）方法论；另一方面，教师群体对证据的草根需求日益增长，呼唤摆脱纯粹被动执行者的角色([[Argument_Nelson_2017_EducRes\|Nelson & Campbell, 2017, p. 127]])。
 > - **触发条件** 教师群体对脑体操（Brain Gym）、学习风格（Learning Styles）等缺乏证据支持的“教育时尚”（educational fads）感到厌倦，自发寻求更具科学确定性与实践相关性的教学改进依据。
 
 ---
@@ -74,7 +74,7 @@ updated: 2026-10-16
 > [!dev-timeline]- 事件经过
 > - **2013 — 创立与思想奠定** 教师 ToM Bennett 出版著作《防教师计划》（*Teacher Proof*），痛陈“学习风格”等假科学，提倡以 [[Randomised Controlled Trials\|RCT]] 作为唯一可靠的教育科学标准；同年创立 ResearchED 会议网络，标榜为教师主导、弥合研究与实践鸿沟的草根运动([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 3]])。
 > - **2015 — 官方背书与政治绑定** ResearchED 迅速得到英国保守党政府学校部长 Nick Gibb 的强力背书，Gibb 在主旨演讲中甚至声称 ResearchED 的存在归功于他的政策倡导，标志着该运动与政府教育改革议程的深度绑定。
-> - **2016–至今 — 国际扩张与草根诉求共振** ResearchED 在澳大利亚、新西兰、美国等国建立国际分支网络。其在英国的政策活动中，频繁将[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）发布的《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》（Teaching and Learning Toolkit）引为权威。正如 [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017, p. 127)]] 所分析，该运动与[[Chartered College of Teaching\|英国特许教师学院]]（Chartered College of Teaching）的设立以及国际上“颠覆系统”（Flip the System）的呼声形成呼应，标志着全球范围内教师群体对自下而上掌握[[Research Utilization\|证据使用]]权的草根诉求不断扩散；但其在方法论层面仍频繁面临去情境化科学观的系统性批评。
+> - **2016–至今 — 国际扩张与草根诉求共振** ResearchED 在澳大利亚、新西兰、美国等国建立国际分支网络。其在英国的政策活动中，频繁将[[Education Endowment Foundation\|教育捐赠基金会]]（Education Endowment Foundation, EEF）发布的《[[EEF Teaching and Learning Toolkit\|教学与学习工具包]]》（Teaching and Learning Toolkit）引为权威。正如 [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017, p. 127)]] 所分析，该运动与[[Chartered College of Teaching\|英国特许教师学院]]（Chartered College of Teaching）的设立以及国际上“颠覆系统”（Flip the System）的呼声形成呼应，标志着全球范围内教师群体对自下而上掌握[[Research Utilization\|证据使用]]权的草根诉求不断扩散；但其在方法论层面仍频繁面临去情境化科学观的系统性批评。
 
 ---
 
@@ -99,7 +99,7 @@ updated: 2026-10-16
 ## 影响与后果
 
 > [!finding-cards] 影响与后果
-> - **激发草根证据需求与[[Teacher Professional Agency\|教师能动性]]** 促进了教师群体对实证研究的自发关注与讨论热情，打破了大学研究单向灌输的传统壁垒，成为英国及国际上教师主导教育改进运动（Flip the System）的重要载体([[Argument_Nelson_2017_ER\|Nelson & Campbell, 2017, p. 127]])。
+> - **激发草根证据需求与[[Teacher Professional Agency\|教师能动性]]** 促进了教师群体对实证研究的自发关注与讨论热情，打破了大学研究单向灌输的传统壁垒，成为英国及国际上教师主导教育改进运动（Flip the System）的重要载体([[Argument_Nelson_2017_EducRes\|Nelson & Campbell, 2017, p. 127]])。
 > - **教师专业视野的窄化** 通过在 [[Randomised Controlled Trials\|RCT]] 与其他研究（定性、案例、[[Action Research\|行动研究]]）之间划定严格的科学二分法，诱使教师将复杂的课堂因果简化为单一的实验数据，过滤掉教师对社会阶层、公平及本地情境的政治性反思([[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, p. 124]])。
 > - **对政府保守议程的护航** ResearchED 标榜的“证据[[Paradigm\|范式]]”在事实上为政府强推的“合成拼读法”（systematic synthetic phonics）等特定课程项目提供了合法性背书，削弱了大学本位的批判性研究([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 3]])。
 > - **传输式教育模式的固化** 将研究简化为“开箱即用”的干预证据，在实质上配合了高利害问责制，固化了将知识单向输送给学生的“灌输式教育”。
@@ -109,7 +109,7 @@ updated: 2026-10-16
 ## 争议与评论
 
 > [!actor-grid] 评论视角
-> - **当事方 / 草根赋权视角** ToM Bennett 等倡导者与 [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017, p. 127)]] 指出，ResearchED 代表了教师社群内部自发增长的证据需求，旨在打破大学学术界对教育研究的权力垄断，让教师能够独立评估和识别“什么有效”，以科学证据赋能课堂教学。
+> - **当事方 / 草根赋权视角** ToM Bennett 等倡导者与 [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017, p. 127)]] 指出，ResearchED 代表了教师社群内部自发增长的证据需求，旨在打破大学学术界对教育研究的权力垄断，让教师能够独立评估和识别“什么有效”，以科学证据赋能课堂教学。
 > - **学术 / 方法视角** [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] 与 [[Gary Thomas]] 等学者指出，ResearchED 奉行的“唯 [[Randomised Controlled Trials\|RCT]] 论”在[[Ontology\|本体论]]上犯了层次混淆的错误。许多重[[Big Science|大科学]]发现（如进化论、天文学）并不依赖实验，而是源于密切观察与最佳解释推理（inference to the best explanation）([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 3]])。
 > - **政策 / 制度视角** [[Stephen Ball]] 与 Carol Black 等学者认为，标榜“草根”的 ResearchED 遭到保守党政客的迅速背书，实质上沦为政府推行新自由主义审计文化、对教师队伍实施技术化控制、并打击大学批判性研究力量的修辞工具([[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, p. 124]])。
 

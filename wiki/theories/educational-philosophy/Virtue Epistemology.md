@@ -67,12 +67,12 @@ related_persons:
   - "[[Socrates]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Chinn_2011_EP]]"
+  - "[[Argument_Chinn_2011_EducPsychol]]"
   - "[[Argument_Naeem_2026_Episteme]]"
 confidence: high
 status: draft
 created: 2026-08-17
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Virtue Epistemology
@@ -85,10 +85,10 @@ updated: 2026-10-07
 > - **解释对象** 认识主体的理智品格、认知能力、求真动机与探究行为对知识获取、深层理解达成及信念辩护的影响。
 > - **理论问题** 传统[[Epistemology\|认识论]]过于偏重命题信念本身的静态辩护与形式逻辑，忽视了探究者本人的理智特质、情感动力、探究规范与[[Epistemic Responsibility\|认识论责任]]。
 > - **理论类型** 规范[[Epistemological Theories\|认识论理论]]、认知哲学[[Paradigm|范式]]与教育认识论[[Analytic Framework\|分析框架]]。
-> - **知识位置** 吸收[[Aristotle\|亚里士多德]]的德性伦理学与[[John Dewey\|杜威]]的[[Reflective Thinking|反思性探究]]思想，当代演化为两大主要分支：德性可靠论（Virtue [[Reliabilism]]，聚焦认知官能的技术[[Reliability\|可靠性]]）与德性责任论（Virtue Responsibilism，聚焦受求真动机驱动的理智品格）；近期在认知科学（[[Argument_Chinn_2011_EP\|Chinn et al., 2011]]）与人工智能教育哲学（[[Argument_Naeem_2026_Episteme\|Naeem, 2026]]）中获得关键拓展。
+> - **知识位置** 吸收[[Aristotle\|亚里士多德]]的德性伦理学与[[John Dewey\|杜威]]的[[Reflective Thinking|反思性探究]]思想，当代演化为两大主要分支：德性可靠论（Virtue [[Reliabilism]]，聚焦认知官能的技术[[Reliability\|可靠性]]）与德性责任论（Virtue Responsibilism，聚焦受求真动机驱动的理智品格）；近期在认知科学（[[Argument_Chinn_2011_EducPsychol\|Chinn et al., 2011]]）与人工智能教育哲学（[[Argument_Naeem_2026_Episteme\|Naeem, 2026]]）中获得关键拓展。
 
 > [!claim] 核心主张
-> 知识、深层理解与认知成功的达成，在根本上依赖于认识主体所具备的[[Epistemic Virtues and Vices|理智美德]]（Intellectual Virtues）。德性认识论主张将“对信念性质的评价”还原或奠基于“对行动者理智品质的评价”：真正的认知主体不仅拥有敏锐的思维技能，更具备对真理与理解等认知善品（Epistemic Goods）的内在热爱与追求动机；与之相对，思想封闭、教条主义与理智怠惰等恶德将系统性阻断深层理解的建构。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011, p. 156)]]; [[Argument_Naeem_2026_Episteme\|(Naeem, 2026, pp. 272–274)]]
+> 知识、深层理解与认知成功的达成，在根本上依赖于认识主体所具备的[[Epistemic Virtues and Vices|理智美德]]（Intellectual Virtues）。德性认识论主张将“对信念性质的评价”还原或奠基于“对行动者理智品质的评价”：真正的认知主体不仅拥有敏锐的思维技能，更具备对真理与理解等认知善品（Epistemic Goods）的内在热爱与追求动机；与之相对，思想封闭、教条主义与理智怠惰等恶德将系统性阻断深层理解的建构。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, p. 156)]]; [[Argument_Naeem_2026_Episteme\|(Naeem, 2026, pp. 272–274)]]
 
 > [!citation-card] 德性责任论视域下的教育与人工智能重构
 > 德性责任论认为，理智美德由动机成分（对真理与理解的内在热爱）与技能成分（如提问、[[Divergent Thinking|发散思维]]与证据权衡）双重构成。在[[Generative Artificial Intelligence|生成式人工智能]]时代，教育的根本目的不能停留在操作性技能的操练，而必须防范技术替代带来的[[Cognitive Deskilling|去技能化]]，通过[[Socratic Dialogue|苏格拉底式对话]]与情感唤起，将人工智能转化为培育[[Open-Mindedness|思想开放]]与[[Creativity\|创造力]]等理智品格的功能性[[Scaffolding|脚手架]]。[[Argument_Naeem_2026_Episteme\|(Naeem, 2026, pp. 270, 273–274)]]
@@ -103,7 +103,7 @@ updated: 2026-10-07
 > - **古典源流 — 德性论与反思探究奠基** [[Aristotle\|亚里士多德]]在《尼各马可伦理学》中系统界定[[Epistemic Virtues and Vices|理智美德]]（如[[Phronesis|实践智慧]] Phronesis、直觉理性 Nous 与科学知识 Episteme）；[[John Dewey\|杜威]]将探究确立为主体主动克服怀疑、追求融贯理解的反思过程。
 > - **1980 年代 — 德性认识论转向肇始** Ernest Sosa 发表《德性认识论的漂流木》（The Raft and the Pyramid），首次正式引入“智识德性（Intellectual Virtue）”概念化解基础论与融贯论的百年争端，开创德性可靠论。
 > - **1990 年代 — 德性责任论确立** Lorraine Code 与 Linda Zagzebski（1996）发表《心智的美德》（Virtues of the Mind），将伦理学概念全面引入认识论，主张理智美德是受动机引导的可赞赏品格特质，奠定德性责任论大厦。
-> - **2010 年代 — [[Epistemic Cognition|认识论认知]]与品格教育融合** [[Argument_Chinn_2011_EP\|Chinn et al. (2011)]] 将理智美德与恶德正式纳入教育心理学“[[Expanded Framework of Epistemic Cognition|扩展的认识论认知框架]]”，开启德性认识论在科学教育与[[Inquiry-Based Learning|探究式学习]]中的实证化应用。
+> - **2010 年代 — [[Epistemic Cognition|认识论认知]]与品格教育融合** [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] 将理智美德与恶德正式纳入教育心理学“[[Expanded Framework of Epistemic Cognition|扩展的认识论认知框架]]”，开启德性认识论在科学教育与[[Inquiry-Based Learning|探究式学习]]中的实证化应用。
 > - **2026 年 — 智能时代与[[Man-Computer Symbiosis|人机共生]]德性认识论** [[Argument_Naeem_2026_Episteme\|Naeem (2026)]] 将德性责任论拓展至生成式 AI 交互与教育技术哲学，提出通过[[Socrates|苏格拉底]]式提问导师（Q-Tutor）与[[Intellectual Emotions|理智情感]]激发防范[[Cognitive Deskilling|去技能化]]，重塑人机分布式智能生态下的理智品格培育路径。
 
 ---
@@ -145,7 +145,7 @@ updated: 2026-10-07
 > 探讨德性认识论如何颠覆以孤立命题为核心的传统认识论，确立认知主体理智品格的首要地位。
 
 > [!claim] Zagzebski; Chinn et al.
-> **知识辩护向主体理智品格的奠基还原** 传统认识论将知识窄化为“得到辩护的真信念”（Justified True Belief），陷入无穷后退或循环论证。德性认识论指出，信念之所以具备[[Epistemic Value|认识论价值]]，是因为它是由具备优良理智品格的主体在负责任的探究过程中生成的。缺乏求真动机与谨慎审慎美德的偶然猜中不能构成真正的知识。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011, p. 156)]]
+> **知识辩护向主体理智品格的奠基还原** 传统认识论将知识窄化为“得到辩护的真信念”（Justified True Belief），陷入无穷后退或循环论证。德性认识论指出，信念之所以具备[[Epistemic Value|认识论价值]]，是因为它是由具备优良理智品格的主体在负责任的探究过程中生成的。缺乏求真动机与谨慎审慎美德的偶然猜中不能构成真正的知识。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, p. 156)]]
 
 ---
 
@@ -174,7 +174,7 @@ updated: 2026-10-07
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **行动者中心奠基** | 认识辩护与成功取决于认知主体的理智美德，打破传统静态命题确证局限 | 认识论基础理论、科学探究规范与哲学方法论 | Sosa (1980); Zagzebski (1996); [[Argument_Chinn_2011_EP\|Chinn et al. (2011)]] |
+> | **行动者中心奠基** | 认识辩护与成功取决于认知主体的理智美德，打破传统静态命题确证局限 | 认识论基础理论、科学探究规范与哲学方法论 | Sosa (1980); Zagzebski (1996); [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] |
 > | **双重责任论结构** | 理智美德由内在求真动机与认知操作技能双重构成，批判纯技术工具主义 | 课程设计、[[Critical Thinking\|批判性思维]]教育与品格德育 | Code (1987); Baehr (2011); [[Argument_Naeem_2026_Episteme\|Naeem (2026)]] |
 > | **人机共生与去技能化防范** | AI 须定位于激发理智情感与训练探究技能的功能性支架，防范心智外包与去技能化 | 生成式 AI 教学整合、人机协同探究与数智教育伦理 | Alfano (2020); 同上 |
 
@@ -208,7 +208,7 @@ updated: 2026-10-07
 
 > [!example] 典型实践应用场景
 > - **生成式 AI 中的[[Socrates|苏格拉底]]提问导师（Q-Tutor）** [[Argument_Naeem_2026_Episteme\|Naeem (2026)]] 基于德性责任论构建了 Q-Tutor 系统，通过在底层设立“直接答案拦截规则”（拒绝直接给出结论）、实施封闭到开放的问题序列演进、提供[[Counterfactual|反事实]]“假若”设问及个性化叙事隐喻，促使学生在人机交互中经历认知挣扎，有效将 AI 转化为训练[[Skill of Questioning\|提问技能]]与培育[[Open-Mindedness|思想开放]]、[[Creativity\|创造力]]美德的功能性榜样。
-> - **科学教育中的[[Epistemic Cognition|认识论认知]]干预** [[Argument_Chinn_2011_EP\|Chinn et al. (2011)]] 将[[Epistemic Virtues and Vices|理智美德]]应用于中小学探究式科学教学，通过引导学生识别自身认知偏见、评估反常证据与接纳同伴异见，系统纠正教条主义与盲目信奉权威的理智恶德。
+> - **科学教育中的[[Epistemic Cognition|认识论认知]]干预** [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] 将[[Epistemic Virtues and Vices|理智美德]]应用于中小学探究式科学教学，通过引导学生识别自身认知偏见、评估反常证据与接纳同伴异见，系统纠正教条主义与盲目信奉权威的理智恶德。
 
 ---
 
@@ -216,4 +216,4 @@ updated: 2026-10-07
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Naeem_2026_Episteme\|Naeem (2026)]] — 将德性责任论框架系统引入[[Generative Artificial Intelligence|生成式人工智能]]教育哲学，论证 AI 应当通过双模态对话、直接答案拦截规则及个性化故事模式唤起[[Intellectual Emotions|理智情感]]，服务于培育[[Open-Mindedness|思想开放]]与[[Creativity|创造力]]等[[Epistemic Virtues and Vices|理智美德]]的根本教育目标。
-> - [[Argument_Chinn_2011_EP\|Chinn et al. (2011)]] — 整合德性[[Epistemology|认识论]]的核心洞见，将理智美德与恶德作为第四大组件纳入扩展的[[Epistemic Cognition|认识论认知]][[Analytic Framework|分析框架]]，系统阐述其在科学教育与[[Inquiry-Based Learning|探究式学习]]中的应用。
+> - [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] — 整合德性[[Epistemology|认识论]]的核心洞见，将理智美德与恶德作为第四大组件纳入扩展的[[Epistemic Cognition|认识论认知]][[Analytic Framework|分析框架]]，系统阐述其在科学教育与[[Inquiry-Based Learning|探究式学习]]中的应用。

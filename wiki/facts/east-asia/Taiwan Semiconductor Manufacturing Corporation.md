@@ -55,7 +55,7 @@ related_facts:
   - "[[EU]]"
   - "[[October 2022 US Semiconductor Export Controls]]"
 related_arguments:
-  - "[[Argument_Bown_2024_JEP]]"
+  - "[[Argument_Bown_2024_JEconPersp]]"
   - "[[Argument_Bulfone_2024_IAI]]"
   - "[[Argument_Reynolds_2024_JICT]]"
   - "[[Argument_NIST_2023_NSTC]]"
@@ -73,10 +73,10 @@ updated: 2026-10-16
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> **台湾积体电路制造公司（Taiwan Semiconductor Manufacturing Corporation, TSMC，简称台积电）** 是 1987 年设立于台湾新竹科学园区的全球半导体晶圆代工巨擘。作为纯晶圆代工（Pure-play Foundry）模式的开创者，台积电从根本上重塑了全球半导体产业分工，推动产业从一体化（IDM）演进为无晶圆厂设计（Fabless）与代工制造相互分离的[[Vertical Disintegration|纵向离散]]网络；当代更以控制全球超过半数代工市场份额与 92% 全球尖端先进制程产能的绝对优势，成为大国地缘政治博弈与[[Modern Industrial Policy|现代产业政策]]跨国建厂补贴的核心争夺标的。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 86–92, 97–100)]]; [[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 7, 10–11)]]
+> **台湾积体电路制造公司（Taiwan Semiconductor Manufacturing Corporation, TSMC，简称台积电）** 是 1987 年设立于台湾新竹科学园区的全球半导体晶圆代工巨擘。作为纯晶圆代工（Pure-play Foundry）模式的开创者，台积电从根本上重塑了全球半导体产业分工，推动产业从一体化（IDM）演进为无晶圆厂设计（Fabless）与代工制造相互分离的[[Vertical Disintegration|纵向离散]]网络；当代更以控制全球超过半数代工市场份额与 92% 全球尖端先进制程产能的绝对优势，成为大国地缘政治博弈与[[Modern Industrial Policy|现代产业政策]]跨国建厂补贴的核心争夺标的。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 86–92, 97–100)]]; [[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 7, 10–11)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 1987 年由张忠谋在台湾工业技术研究院（ITRI，工研院）衍生项目与荷兰飞利浦（Philips）支持下创立，依托政策注资与产业基础设施扶植起步。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 88)]]
+> - **成立时间 / 创设背景** 1987 年由张忠谋在台湾工业技术研究院（ITRI，工研院）衍生项目与荷兰飞利浦（Philips）支持下创立，依托政策注资与产业基础设施扶植起步。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 88)]]
 > - **总部地点 / 业务辐射** 总部位于台湾新竹科学园区，在台中、台南建有超大型晶圆制造集群（GigaFabs）；近年来在美国亚利桑那州（菲尼克斯）、日本熊本县及德国德累斯顿投资扩建跨国先进制程制造基地。
 > - **法人属性与业务模式** 全球公开上市的半导体制造企业；恪守“不设计、不销售自有品牌芯片，不与客户竞争”的纯代工经营铁律，为全球顶尖芯片设计巨头（苹果、英伟达、AMD、高通）提供最尖端晶圆代工服务。
 > - **核心使命与战略定位** 成为全球先进逻辑芯片设计公司最信赖的技术与制造代工基础设施，维系在摩尔定律微细加工工艺物理极限前沿的绝对制程领跑地位。
@@ -88,10 +88,10 @@ updated: 2026-10-16
 > [!dev-timeline] 组织发展历程
 > - **1987–1990 年代初 — 代工[[Paradigm|范式]]创立与微电子创业潮赋能**
 >   - 1987 年张忠谋洞察到晶圆厂建厂成本攀升将抑制芯片设计创业的趋势，创立纯晶圆代工模式；飞利浦持有早期重要股份。
->   - 该模式大幅削减了半导体行业的创业门槛，推动高通、英伟达等无晶圆厂（Fabless）芯片设计公司如雨后春笋般崛起，促成了全球芯片产业的[[Vertical Disintegration|纵向离散]]大分工。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 86–88)]]
+>   - 该模式大幅削减了半导体行业的创业门槛，推动高通、英伟达等无晶圆厂（Fabless）芯片设计公司如雨后春笋般崛起，促成了全球芯片产业的[[Vertical Disintegration|纵向离散]]大分工。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 86–88)]]
 > - **1990 年代末–2010 年代 — 制程[[Technological Catch-up|技术赶超]]与先进制程垄断确立**
 >   - 凭借台湾高度密集的高素质工程师队伍、超长工时与精益良率控制，台积电在 28nm、16nm FinFET 等关键节点上全面超越联电与格芯，并在 7nm、5nm 节点上一举超越英特尔与三星。
->   - 深度绑定苹果（iPhone A 系列与 Mac M 系列处理器）与英伟达（GPU 与 AI 加速计算），实现天量商业订单对极紫外（EUV）光刻研发投入的正向反哺。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 88–90)]]
+>   - 深度绑定苹果（iPhone A 系列与 Mac M 系列处理器）与英伟达（GPU 与 AI 加速计算），实现天量商业订单对极紫外（EUV）光刻研发投入的正向反哺。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 88–90)]]
 > - **2020 年代至今 — 地缘政治暴风眼与跨国现代产业战略重构**
 >   - 伴随中美科技博弈与全球芯片短缺，台积电先进制程高度集中于台海的地理格局被美欧视作重大供应链安全隐患。
 >   - 在美国《[[CHIPS and Science Act|芯片与科学法案]]》直接补贴激励下，台积电将亚利桑那州凤凰城投资由 400 亿美元大幅追加至 650 亿美元，规划建设 3 座晶圆厂（分别引入 4nm、3nm 及 2nm 工艺），获得联邦政府 66 亿美元直接资助与至多 50 亿美元贷款，成为全美吸纳产业资金规模最大的标志性外资项目。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 10–11)]]
@@ -110,7 +110,7 @@ updated: 2026-10-16
 > [!pathways]- 业务运行机制
 > - **纯代工客户信任基石** 坚决不涉足芯片终端设计，彻底消除苹果、英伟达等客户关于核心设计架构与商业机密外泄的顾虑。
 > - **开放创新平台（Open Innovation Platform, OIP）** 联合 EDA 巨头（新思科技、铿腾电子）、IP 供应商（Arm）与设备材料商，为全球设计公司提供标准化的先进制程[[Process Design Kit|工艺设计套件]]（PDK），构建起强大的软件与生态护城河。在《[[CHIPS and Science Act|芯片与科学法案]]》下，美国[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）的共享中试产线与设计赋能网关（DEG）亦以台积电等主流商业晶圆厂的 PDK 基准与工艺流程为参照，确保大学和初创团队在中试线验证的原型能无缝导入商业代工厂进行规模化量产。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 14–22)]]
-> - **良率与规模的正反馈飞轮** 庞大的客户代工规模为台积电提供了海量晶圆缺陷数据，使其[[Learning by Doing|在做中学]]的学习曲线斜率远陡于同行，持续巩固“良率领先 $\to$ 成本更低 $\to$ 利润更厚 $\to$ 研发开支更大 $\to$ 新制程再次领跑”的垄断闭环。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 81, 88)]]
+> - **良率与规模的正反馈飞轮** 庞大的客户代工规模为台积电提供了海量晶圆缺陷数据，使其[[Learning by Doing|在做中学]]的学习曲线斜率远陡于同行，持续巩固“良率领先 $\to$ 成本更低 $\to$ 利润更厚 $\to$ 研发开支更大 $\to$ 新制程再次领跑”的垄断闭环。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 81, 88)]]
 
 ---
 
@@ -135,13 +135,13 @@ updated: 2026-10-16
 > - **资本开支规模** 年均资本支出（Capex）高达 300 亿至 400 亿美元，占全球半导体设备总采购量的相当大比重。
 
 > [!finding-cards] 关键成效与辐射影响
-> 1. **开创[[Vertical Disintegration|纵向离散]]分工，催生全球无晶圆厂芯片产业繁荣** 台积电纯代工模式打破了巨额晶圆厂资产对芯片创新的资金垄断，使得仅有数十人的小型初创设计公司也能凭借优秀算法与微架构直接参与全球竞争，促成了无晶圆厂设计（Fabless）的黄金时代。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 86–88)]]
-> 2. **成为大国先进制程竞争的战略基石** 台积电所掌握的 3nm/2nm 先进逻辑制造工艺与 CoWoS 先进封装产能，是训练尖端大语言模型、构建人工智能超级计算集群以及研制尖端国防微电子系统的底层唯一硬件供给载体。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 98–101)]]
+> 1. **开创[[Vertical Disintegration|纵向离散]]分工，催生全球无晶圆厂芯片产业繁荣** 台积电纯代工模式打破了巨额晶圆厂资产对芯片创新的资金垄断，使得仅有数十人的小型初创设计公司也能凭借优秀算法与微架构直接参与全球竞争，促成了无晶圆厂设计（Fabless）的黄金时代。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 86–88)]]
+> 2. **成为大国先进制程竞争的战略基石** 台积电所掌握的 3nm/2nm 先进逻辑制造工艺与 CoWoS 先进封装产能，是训练尖端大语言模型、构建人工智能超级计算集群以及研制尖端国防微电子系统的底层唯一硬件供给载体。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 98–101)]]
 > 3. **作为[[Modern Industrial Policy|现代产业政策]]投资风向标与城市[[Innovation Ecosystem|创新生态]]磁石** 在美国《[[CHIPS and Science Act|芯片法案]]》推动下，台积电在亚利桑那州投资追加至 650 亿美元；依托亚利桑那州立大学（ASU）作为[[Anchor Institution|锚定机构]]（Anchor Institution）的人才与科研网络扩张，台积电与英特尔等 24 家半导体相关企业集聚入驻，助推凤凰城跃升为全美前列高技术驱动型创新城市。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 10–11)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 23)]]
 > 4. **与上游设备垄断巨头构建跨国共生依附** 台积电虽然垄断了全球 92% 的先进代工制造，但其尖端产线完全依赖荷兰阿斯麦尔（ASML）极紫外光刻设备的独家供应，构成了“上游设备单向垄断 vs. 中游制造单向代工”的深层相互依赖网络。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 7)]]
 
 > [!stat-cards]- 核心规模数据
-> - **1987 年** 台积电成立年份。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 81, 88)]]
+> - **1987 年** 台积电成立年份。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 81, 88)]]
 > - **50%+** 台积电在全球晶圆代工总收入中的市场占有率。
 > - **92%** 台积电在全球先进半导体制造产能中所占垄断比例，但尖端生产高度依赖荷兰 ASML 的设备。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 7)]]
 > - **650 亿美元** 台积电在亚利桑那州凤凰城规划建设 3 座晶圆厂的计划投资总额（获得美联邦政府 66 亿美元直接资助与至多 50 亿美元低息贷款）。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 10)]]
@@ -157,13 +157,13 @@ updated: 2026-10-16
 > > 尖端产能高度集中于台海究竟是保障台湾地缘安全的护身符，还是全球经济的致命阿喀琉斯之踵？
 > >
 > > - **“硅盾”论立场** 认为全球经济对台积电芯片的极端依赖迫使欧美大国必须不惜一切代价维护台海和平稳定，强大的半导体产业充当了关键的地缘政治防卫屏障。
-> > - **供应链去风险与断链危机论** 全球超过九成尖端计算芯片系于一役，一旦因地缘冲突或自然灾害停摆，将引发全球万亿美元级经济灾难；这迫使美欧政府将台积电产能过度集中定性为不可承受的国家安全威胁，从而强势要求其跨国空间分散。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 88–92, 97–100)]]; [[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 7)]]
+> > - **供应链去风险与断链危机论** 全球超过九成尖端计算芯片系于一役，一旦因地缘冲突或自然灾害停摆，将引发全球万亿美元级经济灾难；这迫使美欧政府将台积电产能过度集中定性为不可承受的国家安全威胁，从而强势要求其跨国空间分散。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 88–92, 97–100)]]; [[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 7)]]
 >
 > > [!axis] 跨国分散建厂的文化冲突、技工短缺与集聚稀释阵痛
 > > 离开台湾母体集聚环境的跨国晶圆厂能否克服高成本与运营磨合障碍？
 > >
 > > - **政策驱动与全球化乐观派** 认为依托美国强大的半导体研发底蕴、数百亿联邦直接资金支持与地方高校联动，跨国晶圆厂能够成功在新大陆扎根并建立次级生态圈。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 7, 13)]]
-> > - **[[Agglomeration Externalities|集聚外部性]]稀释与高成本批评** 台积电在亚利桑那早期遭遇严重的洁净室高技能建筑工匠短缺、工会劳资摩擦、许可审批滞后与化学品供应链配套不足，揭示了脱离成熟本土产业生态所必须承受的巨大摩擦成本与生产率折损。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 102–103)]]; [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 7, 13–14)]]
+> > - **[[Agglomeration Externalities|集聚外部性]]稀释与高成本批评** 台积电在亚利桑那早期遭遇严重的洁净室高技能建筑工匠短缺、工会劳资摩擦、许可审批滞后与化学品供应链配套不足，揭示了脱离成熟本土产业生态所必须承受的巨大摩擦成本与生产率折损。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 102–103)]]; [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 7, 13–14)]]
 
 ---
 
@@ -192,7 +192,7 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Bown_2024_JEP|Bown and Wang (2024)]] — 详尽剖析台积电开创晶圆代工模式重塑全球半导体分工的经济史，揭示其先进制程垄断地位及大国产业政策争夺背后的供应链安全逻辑。
+> - [[Argument_Bown_2024_JEconPersp|Bown and Wang (2024)]] — 详尽剖析台积电开创晶圆代工模式重塑全球半导体分工的经济史，揭示其先进制程垄断地位及大国产业政策争夺背后的供应链安全逻辑。
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 从现代产业战略实施过程与[[Policy Conditionalities|政策附加条件]]视角，分析台积电亚利桑那 650 亿美元建厂面临的技能短缺、工会协商与生态重构挑战。
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 比较分析台积电在美（650 亿美元独资）与在欧（100 亿欧元合资）的设厂决策、受助机制与制度约束，揭示其 92% 先进制程垄断与对 ASML 设备外部依赖的跨国相互依存网络。
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 从高等教育与[[National Innovation System|国家创新体系]]重构视角，阐释[[Research Universities|研究型大学]]（如 ASU）作为[[Anchor Institution|锚定机构]]如何重塑城市空间并吸引台积电等龙头企业形成高技术产业集聚。

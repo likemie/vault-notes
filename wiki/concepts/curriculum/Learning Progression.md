@@ -41,7 +41,7 @@ related_facts:
   - "[[American Federation of Teachers]]"
 related_arguments:
   - "[[Argument_Hattie_2005_ACER]]"
-  - "[[Argument_McDonnell_2013_AJE]]"
+  - "[[Argument_McDonnell_2013_AmJE]]"
 confidence: high
 status: active
 created: '2026-09-16'
@@ -55,7 +55,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **学业进阶（Learning Progression / Achievement Progression）** 指学生在特定学科领域、核心观念或实践能力上，随着教学干预与认知发展，从朴素直觉与浅层理解逐步走向复杂、严密与[[Reflexivity|反思性]]专家水平的阶梯式发展序列。它将离散孤立的知识点重构为具备内在逻辑递进关系的连续统，为教师研判学情、设定挑战性目标与选择评价工具提供共同语言。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 14)]]; [[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 14)]]
+> **学业进阶（Learning Progression / Achievement Progression）** 指学生在特定学科领域、核心观念或实践能力上，随着教学干预与认知发展，从朴素直觉与浅层理解逐步走向复杂、严密与[[Reflexivity|反思性]]专家水平的阶梯式发展序列。它将离散孤立的知识点重构为具备内在逻辑递进关系的连续统，为教师研判学情、设定挑战性目标与选择评价工具提供共同语言。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 14)]]; [[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 14)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向学科核心[[Construct|构念]]在学习者认知结构中演进的纵向发展路径与质性跃变阶段。
@@ -91,8 +91,8 @@ updated: 2026-10-16
 > - **初始锚点（Lower Anchor）** 学习者进入正式教学前持有的朴素直觉、前科学概念或日常经验表征。
 > - **中间阶梯水平（Progress Levels）** 描述从初始到终极理解过程中具有典型质性特征的发展阶段、认知跳跃与常见迷思。[[Argument_Hattie_2005_ACER|(Hattie, 2005, p. 14)]]
 > - **进阶测评任务（Progression Assessments）** 具有诊断敏感度的标准化试题或表现性任务，用于精准定位学生当前所在台阶并提示后续教学方向。[[Argument_Hattie_2005_ACER|(Hattie, 2005, pp. 15–16)]]
-> - **发展轨迹的实证心理学基础（Empirical Trajectories）** 早期学段（如 K–2 数学）依托儿童认知发展实证研究，测绘出精细的自然学习路径与概念里程碑。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 14)]]
-> - **学科逻辑演进与实践可行性校准（Deductive Progression & Practical Feasibility）** 高学段因缺乏经验性发展数据，进阶设计依托学科公理演绎建立假说性序列，并必须通过一线教师的具身物理审读进行可行性校验。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 15, 22–23)]]
+> - **发展轨迹的实证心理学基础（Empirical Trajectories）** 早期学段（如 K–2 数学）依托儿童认知发展实证研究，测绘出精细的自然学习路径与概念里程碑。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 14)]]
+> - **学科逻辑演进与实践可行性校准（Deductive Progression & Practical Feasibility）** 高学段因缺乏经验性发展数据，进阶设计依托学科公理演绎建立假说性序列，并必须通过一线教师的具身物理审读进行可行性校验。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 15, 22–23)]]
 
 > [!logic-map]- 学习进阶的证据形态与实践校准分化
 > ```mermaid
@@ -139,8 +139,8 @@ updated: 2026-10-16
 > [!concept-lens] 学习进阶的跨学段证据[[Heterogeneity|异质性]]与方法学基础
 > 探讨学习进阶在不同教育阶段构建时的证据来源差异，以及高阶推论性进阶如何通过一线教师同行审读获得实践有效性。
 
-> [!claim] [[Argument_McDonnell_2013_AJE|McDonnell and Weatherford (2013)]]
-> **学段间证据基础的分化与实践校准必要性** 全美[[Common Core State Standards|共同核心州立标准]]（CCSS）数学标准研制经验表明，学习进阶并非拥有均质的实证支撑。小学低段（K–2）依托道格·克莱门茨（Doug Clements, 2011）等儿童认知心理学实证研究，拥有清晰且经严格验证的自然学习轨迹；然而初高中高阶数学几乎完全缺乏实证学习进阶数据，进阶序列本质上是基于数学学科公理体系的推论性假说。为防止学术推演脱离课堂现实，必须依托[[American Federation of Teachers|全美教师联盟]]（AFT）等一线骨干教师的“物理剪裁审查”，通过逐条比对草案与真实课堂教学规律，方能将推论性进阶修正为具有可行性的教学进阶序列。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 14–15, 22–23)]]
+> [!claim] [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]]
+> **学段间证据基础的分化与实践校准必要性** 全美[[Common Core State Standards|共同核心州立标准]]（CCSS）数学标准研制经验表明，学习进阶并非拥有均质的实证支撑。小学低段（K–2）依托道格·克莱门茨（Doug Clements, 2011）等儿童认知心理学实证研究，拥有清晰且经严格验证的自然学习轨迹；然而初高中高阶数学几乎完全缺乏实证学习进阶数据，进阶序列本质上是基于数学学科公理体系的推论性假说。为防止学术推演脱离课堂现实，必须依托[[American Federation of Teachers|全美教师联盟]]（AFT）等一线骨干教师的“物理剪裁审查”，通过逐条比对草案与真实课堂教学规律，方能将推论性进阶修正为具有可行性的教学进阶序列。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 14–15, 22–23)]]
 
 ---
 
@@ -151,7 +151,7 @@ updated: 2026-10-16
 > |---|---|---|---|
 > | **组织协同命题** | 共享进阶语言是克服教师内隐孤立与教学断层的制度基石 | 校本教研共同体建设、纵向表现标尺统一 | [[Argument_Hattie_2005_ACER\|Hattie (2005)]] |
 > | **评价功能命题** | 进阶标尺必须深度嵌入形成性反馈“三核心提问”闭环 | 课堂诊断测评、个性化学习目标定位 | 同上（Hattie） |
-> | **证据异质命题** | 进阶建构由低段心理学实证测绘向高段学科逻辑推演分化 | 跨学段课程标准编制与实证证据空白应对 | [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013)]] |
+> | **证据异质命题** | 进阶建构由低段心理学实证测绘向高段学科逻辑推演分化 | 跨学段课程标准编制与实证证据空白应对 | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] |
 
 ---
 
@@ -161,14 +161,14 @@ updated: 2026-10-16
 > | 研究来源 | 样本特征 | 测量工具 | 进阶指标 / [[Variable\|变量]] | 主要统计发现 | 证据等级与解释边界 |
 > |---|---|---|---|---|---|
 > | [[Argument_Hattie_2005_ACER\|Hattie (2005)]] | 新西兰 5–12 年级学生常模样本（约 25,000 名） | [[Assessment Tools for Teaching and Learning\|asTTle]] 数学题库（1,500 余道试题） | 数学运算策略 vs 几何知识纵向增长曲线 | 数运算策略在 5–12 年级呈现陡峭连续增长曲线；几何知识在小学阶段起步不稳且 5–7 年级出现停滞平台期（pp. 15–16） | 大规模常模数据揭示出不同学科维度的认知进阶并非完全同步均速，证实进阶需[[Domain Specificity\|学科特异性]]建模 |
-> | Clements (2011); Daro et al. (2011)，引自 [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013, pp. 14, 22)]] | 全美幼儿及小学低段（K–2）学生 | 认知发展心理学实验与学习轨迹测绘工具 | 数感发展、基数概念、早期算术加减法策略 | 证实儿童早期数学认知遵循高度稳健的自然发展轨迹（Learning Trajectories），构成 [[Common Core State Standards\|CCSS]] K–2 进阶设计的坚实实证基础 | 早期数学进阶具有高[[Internal Validity\|内部效度]]，但高年级数学缺乏对应因果实证轨迹 |
+> | Clements (2011); Daro et al. (2011)，引自 [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013, pp. 14, 22)]] | 全美幼儿及小学低段（K–2）学生 | 认知发展心理学实验与学习轨迹测绘工具 | 数感发展、基数概念、早期算术加减法策略 | 证实儿童早期数学认知遵循高度稳健的自然发展轨迹（Learning Trajectories），构成 [[Common Core State Standards\|CCSS]] K–2 进阶设计的坚实实证基础 | 早期数学进阶具有高[[Internal Validity\|内部效度]]，但高年级数学缺乏对应因果实证轨迹 |
 
 ---
 
 ## 应用示例
 
 > [!case] 全美 [[Common Core State Standards|CCSS]] 数学标准研制中的 K–2 实证轨迹与 [[American Federation of Teachers|AFT]] 物理剪裁审读
-> 在研制全美[[Common Core State Standards|共同核心州立标准]]（CCSS）数学标准时，设计团队在 K–2 年级直接采纳了儿童认知发展心理学的成熟学习轨迹，确保了早期数感与运算法则进阶的实证科学性；而在高中阶段因缺乏实证数据，编写组依靠学科逻辑演绎生成假说性进阶，并交由全美教师联盟（AFT）教师团队将标准打印剪贴在墙面上进行整整两天的物理可行性审查，对衔接断层与脱节表述进行纠偏。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 14–15, 22–23)]]
+> 在研制全美[[Common Core State Standards|共同核心州立标准]]（CCSS）数学标准时，设计团队在 K–2 年级直接采纳了儿童认知发展心理学的成熟学习轨迹，确保了早期数感与运算法则进阶的实证科学性；而在高中阶段因缺乏实证数据，编写组依靠学科逻辑演绎生成假说性进阶，并交由全美教师联盟（AFT）教师团队将标准打印剪贴在墙面上进行整整两天的物理可行性审查，对衔接断层与脱节表述进行纠偏。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 14–15, 22–23)]]
 
 ---
 
@@ -186,4 +186,4 @@ updated: 2026-10-16
 > | [[Common Core State Standards]] | Fact | 早期学段采用实证学习轨迹、高年级采用逻辑推演并经同行审读校准学习进阶的典型案例。 |
 > | [[John Hattie]] | Person | 主张将学业进阶共同语言作为学校问责与教学改进核心支柱的代表学者。 |
 > | [[Argument_Hattie_2005_ACER\|Hattie (2005)]] | Argument | 系统阐释学业进阶对于打破学校数据过载与提升教学效能的关键论证。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013)]] | Argument | 考证 CCSS 标准研制中学习进阶在不同学段的实证基础分化与同行审查校准机制。 |
+> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | Argument | 考证 CCSS 标准研制中学习进阶在不同学段的实证基础分化与同行审查校准机制。 |

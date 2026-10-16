@@ -64,7 +64,7 @@ related_arguments:
   - "[[Argument_Trautwein_2007_CEP]]"
   - "[[Argument_Cartiff_2021_JEP]]"
   - "[[Argument_Greene_2010_JEP]]"
-  - "[[Argument_Lodewyk_2007_EP]]"
+  - "[[Argument_Lodewyk_2007_EducPsych]]"
 status: active
 created: 2026-08-13
 updated: 2026-10-16
@@ -216,7 +216,7 @@ updated: 2026-10-16
 > | 研究 | 样本与设计 | 测量工具 | 控制[[Variable\|变量]] | 核心结果 |
 > |---|---|---|---|---|
 > | [[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]] | 德国巴登-符腾堡州高中毕业生纵向追踪（TOSCA 项目，T1 $N = 2854$；大学追踪 T2 $N = 1094$） | 7 题全局确定性量表（4 点李克特计分，T1 $\alpha = .75$；T2 $\alpha = .73$） | 认知推理能力（KFT 4-13+R [[Item Response Theory\|IRT]] 分数）、家庭 SES（ISEI）、[[Cultural Capital\|文化资本]]（藏书量）、性别、年龄 | 确定性信念显著负向预测毕业总评成绩（$\beta = -0.15, p < .001$）；工科（$b = 0.38$）、商科（$b = 0.33$）学生在高中阶段已持有更高确定性（自我选择），大学阶段工科（$\Delta b = 0.40$）与商科（$\Delta b = 0.22$）确定性进一步上升，社科显著下降（$\Delta b = -0.26$）（社会化效应） |
-> | [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] | 447名加拿大十年级中学生（公立与独立教会学校，横截面与组内任务对比） | 52题 [[Schommer's Modified Epistemological Questionnaire\|SMEQ]]（5点李克特计分，提取 FQAL、SK、CK 三因子） | 确定知识（CK，控制学校宗教导向差异）、性别、任务顺序 | FQAL（$R^2 = .04, p < .001$）与 SK（$R^2 = .05, p < .001$）显著负向预测学生总体学业成就预估值（整体模型 $R^2 = .08$）；在学术任务中，SK 显著负向预测劣构任务总分（$R^2 = .06, p = .02$）及反思性判断得分（$R^2 = .06, p = .02$），但在良构任务中无显著预测力（$R^2 = .002, p = .69$）；女生在 FQAL 与 CK 上的信念成熟度显著高于男生 |
+> | [[Argument_Lodewyk_2007_EducPsych\|Lodewyk (2007)]] | 447名加拿大十年级中学生（公立与独立教会学校，横截面与组内任务对比） | 52题 [[Schommer's Modified Epistemological Questionnaire\|SMEQ]]（5点李克特计分，提取 FQAL、SK、CK 三因子） | 确定知识（CK，控制学校宗教导向差异）、性别、任务顺序 | FQAL（$R^2 = .04, p < .001$）与 SK（$R^2 = .05, p < .001$）显著负向预测学生总体学业成就预估值（整体模型 $R^2 = .08$）；在学术任务中，SK 显著负向预测劣构任务总分（$R^2 = .06, p = .02$）及反思性判断得分（$R^2 = .06, p = .02$），但在良构任务中无显著预测力（$R^2 = .002, p = .69$）；女生在 FQAL 与 CK 上的信念成熟度显著高于男生 |
 
 ---
 
@@ -239,6 +239,6 @@ updated: 2026-10-16
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Wu_2025_ER\|Wu et al. (2025)]] — 提出[[Man-Computer Symbiosis|人机共生]]自适应[[Epistemic Stances\|认识立场]]框架，阐明[[Epistemology\|认识论]]信念在智能技术中介学习中的调节与重塑机制，并构建双轨支架干预矩阵。
 > - [[Argument_Trautwein_2007_CEP\|Trautwein and Lüdtke (2007)]] — 追踪德国高中毕业生进入大学后的确定性[[Epistemology\|认识论]]信念，揭示[[Disciplinary Socialization\|学科社会化]]与自我选择机制。
-> - [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] — 检验加拿大中学生在不同[[Task Structure\|任务结构]]（良构与劣构）下认识论信念对任务表现和[[Reflexivity\|反思性]]判断的差异化预测作用。
+> - [[Argument_Lodewyk_2007_EducPsych\|Lodewyk (2007)]] — 检验加拿大中学生在不同[[Task Structure\|任务结构]]（良构与劣构）下认识论信念对任务表现和[[Reflexivity\|反思性]]判断的差异化预测作用。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 认识论干预[[Meta-analysis\|元分析]]，对比了不同理论模型指导下的干预效果，实证证实聚焦知识与确证维度的现代模型显著优于混入一般学习信念的传统模型。
 

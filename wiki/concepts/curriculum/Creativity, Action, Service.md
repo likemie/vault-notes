@@ -47,7 +47,7 @@ related_arguments:
   - "[[Argument_Peterson_1987_OpenCourt_Ch03]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch04]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch06]]"
-  - "[[Argument_Metli_2022_IJER]]"
+  - "[[Argument_Metli_2022_IJEdReform]]"
   - "[[Argument_Peterson_1987_OpenCourt]]"
 confidence: high
 status: active
@@ -157,7 +157,7 @@ updated: 2026-10-16
 
 > [!claim] Metli, A. & Akış, D.
 > **作为[[Epistemology|认识论]]现实锚点与实践出口的 CAS** 
-> CAS 提供的实践经验能够直接成为 TOK 中反思的素材，而 TOK 中讨论的伦理判断又能反向激发 CAS 行动。例如，利用 TOK 的核心[[Knowledge Questions\|知识问题]]“你的个人经验如何创造知识”可以极大地深化学生在 CAS 活动中的反思维度。同时，学生的 CAS 社区服务与志愿活动可以直接催生出具有全球视野的 EE [[Research Question\|研究问题]]，并在完成 EE 学术研究后回到 CAS（如发起环保俱乐部倡导活动）中将研究成果落地，从而实现[[Concurrency of Learning\|并发学习]]。[[Argument_Metli_2022_IJER\|(Metli & Akış, 2022, pp. 228–229)]]
+> CAS 提供的实践经验能够直接成为 TOK 中反思的素材，而 TOK 中讨论的伦理判断又能反向激发 CAS 行动。例如，利用 TOK 的核心[[Knowledge Questions\|知识问题]]“你的个人经验如何创造知识”可以极大地深化学生在 CAS 活动中的反思维度。同时，学生的 CAS 社区服务与志愿活动可以直接催生出具有全球视野的 EE [[Research Question\|研究问题]]，并在完成 EE 学术研究后回到 CAS（如发起环保俱乐部倡导活动）中将研究成果落地，从而实现[[Concurrency of Learning\|并发学习]]。[[Argument_Metli_2022_IJEdReform\|(Metli & Akış, 2022, pp. 228–229)]]
 
 ---
 
@@ -188,7 +188,7 @@ updated: 2026-10-16
 ## 争议与批评
 
 > [!warning] 适用局限
-> - **系统性实践脱节** 在国家课程、高利害大学入学考试和 [[IB Diploma Programme|IBDP]] 并行的学校中，课业压力、课表僵化、教师协作时间不足和反思机制单一，容易使 [[Chinese Academy of Sciences|CAS]] 退化为孤立任务，未能与学科教学、[[Theory of Knowledge|TOK]] 和 EE 形成连贯。[[Argument_Metli_2022_IJER\|Metli & Akış (2022, pp. 221, 226)]]
+> - **系统性实践脱节** 在国家课程、高利害大学入学考试和 [[IB Diploma Programme|IBDP]] 并行的学校中，课业压力、课表僵化、教师协作时间不足和反思机制单一，容易使 [[Chinese Academy of Sciences|CAS]] 退化为孤立任务，未能与学科教学、[[Theory of Knowledge|TOK]] 和 EE 形成连贯。[[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022, pp. 221, 226)]]
 > - **强制参与的反作用** 若文凭资格依赖学生形式上完成活动，少数抵制者可能只做最低动作，并损害真正参与者的共同经验；[[International Baccalaureate|IBO]] 又没有督学体系独立验证个人参与。[[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7, pp. 182–183)]]
 > - **服务可能复制不平等** 若项目只从学生需要成长出发，而不让社区成员定义需求、反馈效果和调整关系，服务容易转为家长主义。
 > - **章内案例不等于效果证明** 海上救援、自然保护和日常陪伴展示了可能形态，但原文没有对学生或社区结果做系统前[[Pre-test and Post-test|后测]]量。
@@ -200,4 +200,4 @@ updated: 2026-10-16
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Peterson_1987_OpenCourt\|Peterson (1987)]] — 追溯 CASS 从最低制度要求（Ch. 3）到莫希[[International Schools|国际学校]]的社区服务（Ch. 4）与 Bellaire 高中路径（Ch. 6）；定义与评价争议见 [[Argument_Peterson_1987_OpenCourt_Ch07|Ch. 7]]。
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 分析 [[Chinese Academy of Sciences|CAS]] 在 IB 课程架构中的定位及其与 [[Theory of Knowledge\|TOK]] 的跨领域印证机制。
-> - [[Argument_Metli_2022_IJER\|Metli & Akış (2022)]] — 探讨在 [[IB Diploma Programme|IBDP]] 中促进 CAS、TOK 与 EE 之间[[Concurrency of Learning\|并发学习]]的整合策略，主张通过[[Experiential Learning\|经验学习]]将[[Epistemology\|认识论]]思考转化为本地社区服务行动。
+> - [[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022)]] — 探讨在 [[IB Diploma Programme|IBDP]] 中促进 CAS、TOK 与 EE 之间[[Concurrency of Learning\|并发学习]]的整合策略，主张通过[[Experiential Learning\|经验学习]]将[[Epistemology\|认识论]]思考转化为本地社区服务行动。

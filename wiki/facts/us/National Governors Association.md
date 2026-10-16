@@ -44,7 +44,7 @@ related_facts:
   - "[[Race to the Top]]"
   - "[[National Assessment of Educational Progress]]"
 related_arguments:
-  - "[[Argument_McDonnell_2013_AJE]]"
+  - "[[Argument_McDonnell_2013_AmJE]]"
 confidence: high
 status: stable
 created: 2026-09-26
@@ -58,7 +58,7 @@ updated: 2026-10-16
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 全国州长协会（National Governors Association, NGA）是代表美国 50 个州、3 个美属领地及 2 个自由联邦最高行政首脑（州长）的无党派公共政策与政府间协调组织。作为美国联邦制下州际横向联合与纵向博弈的核心平台，该机构在教育改革中致力于通过跨州自愿合作汇聚地方共识，并在宪法未赋予联邦政府直接教育事权的体制框架内，充当发起、研制并合法化国家级学术标准的主导政治力量。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–11)]]
+> 全国州长协会（National Governors Association, NGA）是代表美国 50 个州、3 个美属领地及 2 个自由联邦最高行政首脑（州长）的无党派公共政策与政府间协调组织。作为美国联邦制下州际横向联合与纵向博弈的核心平台，该机构在教育改革中致力于通过跨州自愿合作汇聚地方共识，并在宪法未赋予联邦政府直接教育事权的体制框架内，充当发起、研制并合法化国家级学术标准的主导政治力量。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–11)]]
 
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 创设于 1908 年。由时任美国总统西奥多·罗斯福（Theodore Roosevelt）召集的白宫自然资源保护会议催生，旨在建立州长定期磋商机制以应对跨州公共治理挑战。
@@ -82,12 +82,12 @@ updated: 2026-10-16
 > [!actor-grid] 组织治理架构
 > - **决策机构（执行委员会）** 由 9 位州长组成两党平衡的执行委员会（5 位多数党州长与 4 位少数党州长），主席与副主席由民主党与共和党轮流担任，确保重大政策倡议具备两党共识基础。
 > - **执行机构（秘书处与专业团队）** 由执行总监领导常设专业行政体系，下设教育、经济发展、卫生医疗等多学科政策处室，负责方案草拟与会员沟通。
-> - **研发核心（NGA 最佳实践中心）** 专门从事政策研发与技术援助的实体，直接承接基金会资助并雇佣政策分析师，负责起草跨州标准指南与评估报告。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 8)]]
-> - **专家审议与验证机构** 在重大改革中联合外部组建独立专家机构，如在 [[Common Core State Standards|CCSS]] 运动中联合 [[Council of Chief State School Officers|CCSSO]] 遴选 29 位学者与一线校长组成的独立验证委员会（Validation Committee），实施学术把关。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 15–16)]]
+> - **研发核心（NGA 最佳实践中心）** 专门从事政策研发与技术援助的实体，直接承接基金会资助并雇佣政策分析师，负责起草跨州标准指南与评估报告。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 8)]]
+> - **专家审议与验证机构** 在重大改革中联合外部组建独立专家机构，如在 [[Common Core State Standards|CCSS]] 运动中联合 [[Council of Chief State School Officers|CCSSO]] 遴选 29 位学者与一线校长组成的独立验证委员会（Validation Committee），实施学术把关。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 15–16)]]
 
 > [!pathways]- 业务运行机制
-> - **两党议程设定机制** 重大跨州政策动议必须由两党资深州长共同领衔（例如在 CCSS 发起期，由亚利桑那州民主党州长纳波利塔诺与佐治亚州共和党州长珀杜联合主持咨询委员会），以价值融合抵御党派极化分裂。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 11)]]
-> - **自愿联合与规避违宪程序** 严格恪守美国宪法第十修正案边界，在文本研制与各州采纳中坚决避免使用“联邦指令（Federal mandate）”字眼，通过州际自愿契约（Interstate compacts）形式运作。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8, 17)]]
+> - **两党议程设定机制** 重大跨州政策动议必须由两党资深州长共同领衔（例如在 CCSS 发起期，由亚利桑那州民主党州长纳波利塔诺与佐治亚州共和党州长珀杜联合主持咨询委员会），以价值融合抵御党派极化分裂。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 11)]]
+> - **自愿联合与规避违宪程序** 严格恪守美国宪法第十修正案边界，在文本研制与各州采纳中坚决避免使用“联邦指令（Federal mandate）”字眼，通过州际自愿契约（Interstate compacts）形式运作。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8, 17)]]
 > - **微观对标与府际协商** 组织专业智库为各州量身定制新老标准转换评估工具，协助各州州长向州教育委员会（State Board of Education, SBE）提出采纳议案。
 
 ---
@@ -95,22 +95,22 @@ updated: 2026-10-16
 ## 核心业务与旗舰产出
 
 > [!finding-cards] 核心产品与业务矩阵
-> - **[[Common Core State Standards|共同核心州立标准]]（CCSS 共同版权方）** 与 [[Council of Chief State School Officers|CCSSO]] 联合拥有 CCSS 的知识产权与官方发布权，主导了英语语言艺术与数学标准的研制、发布与推广。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 1)]]
-> - **《迈向成功的基准》旗舰政策报告** 2008 年联合 CCSSO 与 [[Achieve]] 发布《迈向成功的基准：确保美国学生获得世界一流教育》（*Benchmarking for Success*），动员 [[PISA]] 与 [[TIMSS]] 等跨国数据为制定全美学术标准立论。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 10)]]
+> - **[[Common Core State Standards|共同核心州立标准]]（CCSS 共同版权方）** 与 [[Council of Chief State School Officers|CCSSO]] 联合拥有 CCSS 的知识产权与官方发布权，主导了英语语言艺术与数学标准的研制、发布与推广。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 1)]]
+> - **《迈向成功的基准》旗舰政策报告** 2008 年联合 CCSSO 与 [[Achieve]] 发布《迈向成功的基准：确保美国学生获得世界一流教育》（*Benchmarking for Success*），动员 [[PISA]] 与 [[TIMSS]] 等跨国数据为制定全美学术标准立论。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 10)]]
 > - **全美州长教育峰会** 周期性召开由各州州长、大企业高管与高校领袖参与的最高规格政策会议，重塑跨期教育改革议程。
 > - **各州政策实施技术简报** 针对课程过渡、测试转换与教师培训发布大量实操性操作规程。
 
 > [!citation-card] 跨州标准的自愿联合定性
 > 共同标准的合理性在全美州长协会（NGA）、州首席教育官理事会（CCSSO）以及阿奇夫（Achieve）联合发布的报告中得以明确阐发。由当时担任亚利桑那州州长的纳波利塔诺、佐治亚州州长珀杜以及英特尔公司董事会主席克雷格·巴雷特共同主持的国际基准咨询小组，将国际对标的立论基础深植于关于 TIMSS 的跨国实证研究。
 >
-> *The case for common standards was crystallized in a report published by the National Governors Association (NGA), the Council of Chief State School Officers (CCSSO), and Achieve (NGA et al. 2008). Authored by an International Benchmarking Advisory Group, chaired by then-Governor Janet Napolitano (AZ), then-Governor Sonny Perdue (GA), and Craig R. Barrett, the chairman of the Intel Corporation board, the report drew heavily on research [[Using Data Intervention|Using Data]] from the Programme for International Student Assessment (PISA) and Trends in International Mathematics and Science Study (TIMSS).* [[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 10–11)]]
+> *The case for common standards was crystallized in a report published by the National Governors Association (NGA), the Council of Chief State School Officers (CCSSO), and Achieve (NGA et al. 2008). Authored by an International Benchmarking Advisory Group, chaired by then-Governor Janet Napolitano (AZ), then-Governor Sonny Perdue (GA), and Craig R. Barrett, the chairman of the Intel Corporation board, the report drew heavily on research [[Using Data Intervention|Using Data]] from the Programme for International Student Assessment (PISA) and Trends in International Mathematics and Science Study (TIMSS).* [[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 10–11)]]
 
 ---
 
 ## 影响与体系成效
 
 > [!finding-cards] 关键成效与辐射影响
-> - **突破百年分权垄断** 成功瓦解了自 19 世纪以来美国各州在学术课程标准上各自为政、互不相通的体制壁垒，在不到两年时间内推动 45 个州与特区完成法定采纳。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 1, 16)]]
+> - **突破百年分权垄断** 成功瓦解了自 19 世纪以来美国各州在学术课程标准上各自为政、互不相通的体制壁垒，在不到两年时间内推动 45 个州与特区完成法定采纳。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 1, 16)]]
 > - **确立[[College and Career Readiness|大学与职业就绪]]新标杆** 将全美公立中小学的办学目标从简单的“最低及格”全面拉升至[[College and Career Readiness|大学与职业就绪]]（CCR）的深层思维高度。
 > - **重塑联邦-州教育权力平衡** 开创了通过州际自愿联合制定行业准则、再借助联邦竞争性财政拨款（如[[Race to the Top|力争上游]]）规模化撬动地方采纳的新型府际治理[[Paradigm|范式]]。
 
@@ -134,4 +134,4 @@ updated: 2026-10-16
 > | [[Common Core State Standards]] | 政策事实 | NGA 发起、研制并推广的核心旗舰课程标准项目。 |
 > | [[Achieve]] | 智库机构 | 为 NGA 提供标准研制、国际对标与技术比对支持的核心智库。 |
 > | [[National Assessment of Educational Progress]] | 评估事实 | NGA 用于论证各州自设标准存在严重水分的核心国家基准指标。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013)]] | 实证文献 | 系统剖析 NGA 在政策生命周期中动员研究证据打破[[Punctuated Equilibrium Theory\|政策垄断]]的[[Process Tracing\|过程追踪研究]]。 |
+> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] | 实证文献 | 系统剖析 NGA 在政策生命周期中动员研究证据打破[[Punctuated Equilibrium Theory\|政策垄断]]的[[Process Tracing\|过程追踪研究]]。 |

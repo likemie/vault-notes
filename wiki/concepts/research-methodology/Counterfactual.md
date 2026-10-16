@@ -65,7 +65,7 @@ related_facts:
   - "[[ISRCTN]]"
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]"
-  - "[[Argument_Slavin_2019_EP]]"
+  - "[[Argument_Slavin_2019_EducPsychol]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
 related_instruments:
   - "[[EEF Padlock Security Rating]]"
@@ -82,7 +82,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> 反事实（Counterfactual）是[[Causality\|因果推断]]中通过设想与构建“若假设的原因不存在，效果是否还会发生或呈现何种状态”来判定因果效应的核心推理机制：如果假设原因 $X$ 发生时产生结果 $Y(1)$，而在 $X$ 不发生的替代可能世界中结果为 $Y(0)$，则因果效应即定义为 $Y(1) - Y(0)$。由此提出的检验问题是：“如果那个假设的原因不存在，效果还会发生或还是原来的样子吗？”如果答案是否定的，方可确证 $X$ 对 $Y$ 具有实质促成作用（Mackie, 1993; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al., 2011, pp. 55–56]]）。在实证教育研究中，反事实主要依托[[Random Assignment\|随机分配]]设立的控制组来构建无偏的反事实代理（[[Argument_Slavin_2019_EP\|Slavin, 2019, pp. 22–23]]）。
+> 反事实（Counterfactual）是[[Causality\|因果推断]]中通过设想与构建“若假设的原因不存在，效果是否还会发生或呈现何种状态”来判定因果效应的核心推理机制：如果假设原因 $X$ 发生时产生结果 $Y(1)$，而在 $X$ 不发生的替代可能世界中结果为 $Y(0)$，则因果效应即定义为 $Y(1) - Y(0)$。由此提出的检验问题是：“如果那个假设的原因不存在，效果还会发生或还是原来的样子吗？”如果答案是否定的，方可确证 $X$ 对 $Y$ 具有实质促成作用（Mackie, 1993; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al., 2011, pp. 55–56]]）。在实证教育研究中，反事实主要依托[[Random Assignment\|随机分配]]设立的控制组来构建无偏的反事实代理（[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019, pp. 22–23]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 反事实是对“如果情境不同，替代结果会怎样”的严密潜在结果（Potential Outcomes）界定，追问干预缺失状态下的真实基线。
@@ -120,7 +120,7 @@ updated: 2026-10-16
 > - **潜在结果界定（Potential Outcomes）** 设定研究对象在接受干预下的潜在结果 $Y(1)$ 与在未接受干预下的潜在结果 $Y(0)$。
 > - **反事实观测困境（Unobservability）** 承认任何个体在特定时空只能处于一种现实状态，反事实状态在个体层面上具有不可直接观测性。
 > - **实体代理对照构建（Counterfactual Proxy）** 通过[[Random Assignment\|随机分配]]设立控制组，以控制组的群体平均结局作为实验组反事实状态的无偏估计。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|(Cohen et al., 2011, p. 56)]]
-> - **真实生态常态对照（Business-as-Usual Contrast）** 在教育实地实验中，反事实不仅指“零干预”，更指控制组学校所接受的常规标准教学（[[Business as Usual]], BAU），反映真实实践反差。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 22–23)]]
+> - **真实生态常态对照（Business-as-Usual Contrast）** 在教育实地实验中，反事实不仅指“零干预”，更指控制组学校所接受的常规标准教学（[[Business as Usual]], BAU），反映真实实践反差。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–23)]]
 
 > [!logic-map]- 反事实因果推断与代理构建逻辑
 > ```mermaid
@@ -183,7 +183,7 @@ updated: 2026-10-16
 > 探讨教育改革如何突破微观个体反事实的局限，在学校与班级整群层面构建具有政策意义的常态对照基准。
 
 > [!claim] [[Robert Slavin\|Slavin, R.]] E.
-> **整群试验中常规教学对照（[[Business as Usual\|BAU]]）的反事实实质与多层嵌套校正** 教育政策改革中的因果验证不能依赖抽象教学原则，而必须依托整校层面的整群[[Randomised Controlled Trials\|随机对照试验]]。在整校改革中，控制组所代表的反事实并非虚无真空，而是各校正在实施的真实常规教学（[[Business as Usual]], BAU）。由于学生嵌套于班级、班级嵌套于学校，反事实比较必须采用[[Hierarchical Linear Model\|多层线性模型]]（Hierarchical Linear Modeling, HLM）进行方差分解，纠正群聚效应导致的自由度虚高；只有在全校生态中经受住与 BAU 的反事实对照检验，干预措施才具备真正向全美学校规模化推广的有效性。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 22–23, 26–27)]]
+> **整群试验中常规教学对照（[[Business as Usual\|BAU]]）的反事实实质与多层嵌套校正** 教育政策改革中的因果验证不能依赖抽象教学原则，而必须依托整校层面的整群[[Randomised Controlled Trials\|随机对照试验]]。在整校改革中，控制组所代表的反事实并非虚无真空，而是各校正在实施的真实常规教学（[[Business as Usual]], BAU）。由于学生嵌套于班级、班级嵌套于学校，反事实比较必须采用[[Hierarchical Linear Model\|多层线性模型]]（Hierarchical Linear Modeling, HLM）进行方差分解，纠正群聚效应导致的自由度虚高；只有在全校生态中经受住与 BAU 的反事实对照检验，干预措施才具备真正向全美学校规模化推广的有效性。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–23, 26–27)]]
 
 ---
 
@@ -194,7 +194,7 @@ updated: 2026-10-16
 > |---|---|---|---|
 > | **因果识别判准命题** | 反事实是超越时间先后、确证真正因果关系的必要识别标志 | 哲学因果分析、教育质性与量化因果推论 | 约翰·麦基（John L. Mackie）; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al. (2011)]] |
 > | **实验代理构建命题** | 随机分配通过群体平衡克服不可观测性，构建无偏反事实代理 | [[Clinical Trial\|临床试验]]、心理与教育随机对照试验（RCTs） | 保罗·霍兰德（Paul Holland）; [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] |
-> | **生态常态与多层校正命题** | 学校整群试验中反事实体现为常规教学（BAU），需依托 HLM 确保宏观推论效度 | 全校性教育改革、政府循证政策评估与规模化推广 | [[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin）; [[Argument_Slavin_2019_EP\|Slavin (2019)]] |
+> | **生态常态与多层校正命题** | 学校整群试验中反事实体现为常规教学（BAU），需依托 HLM 确保宏观推论效度 | 全校性教育改革、政府循证政策评估与规模化推广 | [[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin）; [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] |
 
 ---
 
@@ -206,7 +206,7 @@ updated: 2026-10-16
 > - **1986 — 霍兰德提出因果推断基本问题** 保罗·霍兰德（Paul Holland, 1986）发表里程碑论文《统计学与因果推断》，明确断定因果推断的本质困难在于反事实不可直接观测，确立[[Random Assignment\|随机化]]实验作为群体反事实代理的基准地位。
 > - **1993 — 麦基系统化因果条件与反事实** 约翰·麦基（John L. Mackie, 1993）在《世界的隐秘结构》中深入阐述 INUS 条件与反事实检验，为社会科学因果分析提供[[Epistemology\|认识论]]工具。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|(Cohen et al., 2011, p. 55)]]
 > - **2002–2015 — [[Evidence-Based Education\|循证教育]]改革确立反事实实证标准** 美国成立[[What Works Clearinghouse\|有效干预清算中心]]（WWC），出台严格因果[[Evidence Standards\|证据标准]]，要求有效性主张必须基于具备同质反事实对照组的高质量 [[Randomised Controlled Trials\|RCT]] 或 [[Quasi-Experimental Designs\|QED]]。
-> - **2019 — 斯莱文推进整群生态反事实与规模化标准** [[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin, 2019）总结三十年循证改革经验，强调全校改革必须在真实学校生态中进行[[Cluster Randomized Trials\|整群随机试验]]，以常规教学（[[Business as Usual\|BAU]]）为反事实基准，并结合 [[Hierarchical Linear Model\|HLM]] 纠正层级嵌套偏倚。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 22–27)]]
+> - **2019 — 斯莱文推进整群生态反事实与规模化标准** [[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin, 2019）总结三十年循证改革经验，强调全校改革必须在真实学校生态中进行[[Cluster Randomized Trials\|整群随机试验]]，以常规教学（[[Business as Usual\|BAU]]）为反事实基准，并结合 [[Hierarchical Linear Model\|HLM]] 纠正层级嵌套偏倚。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–27)]]
 
 ---
 
@@ -218,7 +218,7 @@ updated: 2026-10-16
 > > 争论聚焦于教育实验中的反事实对照应当追求高度受控的人工“安慰剂”状态，还是采纳学校日常真实发生的教学常态。
 > >
 > > - **人工严格受控派（传统实验心理学）** 坚持反事实控制组必须剔除所有非特异性干预成分，追求因果解释的纯洁性与高[[Internal Validity\|内部效度]]。
-> > - **生态常态对照派（[[Argument_Slavin_2019_EP\|Slavin, 2019, pp. 22–23]]）** 指出教育并非医学给药，控制组教师绝不可能处于“零教学”真空；教育反事实必须定义为常规教学对照（[[Business as Usual\|BAU]]），唯有超越现存真实实践的干预才具备推广价值。
+> > - **生态常态对照派（[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019, pp. 22–23]]）** 指出教育并非医学给药，控制组教师绝不可能处于“零教学”真空；教育反事实必须定义为常规教学对照（[[Business as Usual\|BAU]]），唯有超越现存真实实践的干预才具备推广价值。
 >
 > > [!axis] 平均处理效应（[[Advanced Technological Education|ATE]]）的反事实充分性 vs 异质性机制黑箱
 > > 争论围绕量化反事实推导出的群体平均效应是否足以指导复杂的教育决策。
@@ -239,7 +239,7 @@ updated: 2026-10-16
 > 如果人行道上没有结冰，我就不会滑倒摔断手臂——因此冰的存在是骨折的促成原因之一（通过了反事实检验）。然而，冰并不是导致骨折的充分原因：即使路面结冰，若当事人具备出色的平衡能力、视力良好、光线充足、穿着高抓地力防滑鞋且骨质健康，骨折也不会发生。该案例生动说明了反事实推理在多重因果交织网络中识别促成因素的有效性及其解释边界。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|(Cohen et al., 2011, pp. 55–56)]]
 
 > [!case] 全员成功（[[Success for All\|SFA]]）与常规教学（[[Business as Usual\|BAU]]）的整群反事实检验
-> 在全员成功（Success for All, SFA）全校综合改革项目的大规模实证评估中，研究团队将数十所处境不利小学整群[[Random Assignment\|随机分配]]为 SFA 实验组与 BAU 控制组。控制组学校继续沿用学区原有常规阅读教材与教法（作为真实的政策反事实）。在持续多年的追踪测试中，SFA 学校在独立标准化阅读测验上显著超越了 BAU 控制组，从而确证了结构化全校改革相对于日常分散教学的因果净增益。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 22–24)]]
+> 在全员成功（Success for All, SFA）全校综合改革项目的大规模实证评估中，研究团队将数十所处境不利小学整群[[Random Assignment\|随机分配]]为 SFA 实验组与 BAU 控制组。控制组学校继续沿用学区原有常规阅读教材与教法（作为真实的政策反事实）。在持续多年的追踪测试中，SFA 学校在独立标准化阅读测验上显著超越了 BAU 控制组，从而确证了结构化全校改革相对于日常分散教学的因果净增益。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–24)]]
 
 ---
 
@@ -251,7 +251,7 @@ updated: 2026-10-16
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al. (2011)]] | 教育研究方法论[[Causality\|因果推断]][[Paradigm\|范式]]与逻辑分析 | [[Epistemology\|认识论]]与方法论概念梳理 | 因果条件识别、反事实存在性检验与实验控制 | 系统辨析休谟时间先后性、麦基反事实判准与控制组代理机制 | — | 确立反事实推理在教育实验与[[Quasi-Experimental Designs\|准实验设计]]中的方法学基石地位（pp. 55–56） |
-> | [[Argument_Slavin_2019_EP\|Slavin (2019)]] | 全美教育循证改革三十年经验与多项大型整校改革评估（如 [[Success for All\|SFA]]、[[Cooperative Integrated Reading and Composition\|CIRC]]、DI） | 宏观政策综述与整群 [[Randomised Controlled Trials\|RCT]] 方法学评析 | 整校改革干预 vs 常规教学（BAU）反事实对照；标准化独立测验与 [[Hierarchical Linear Model\|HLM]] 方差校正 | 证实缺乏严格 [[Business as Usual\|BAU]] 反事实对照的非实验项目极易高估成效；严格整群 RCT 确立了可复制全校模式的真实因果效度 | — | 说明反事实在真实学校生态中必须依托整群[[Random Assignment\|随机化]]与多层模型方能保障政策外推效度（pp. 22–27） |
+> | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | 全美教育循证改革三十年经验与多项大型整校改革评估（如 [[Success for All\|SFA]]、[[Cooperative Integrated Reading and Composition\|CIRC]]、DI） | 宏观政策综述与整群 [[Randomised Controlled Trials\|RCT]] 方法学评析 | 整校改革干预 vs 常规教学（BAU）反事实对照；标准化独立测验与 [[Hierarchical Linear Model\|HLM]] 方差校正 | 证实缺乏严格 [[Business as Usual\|BAU]] 反事实对照的非实验项目极易高估成效；严格整群 RCT 确立了可复制全校模式的真实因果效度 | — | 说明反事实在真实学校生态中必须依托整群[[Random Assignment\|随机化]]与多层模型方能保障政策外推效度（pp. 22–27） |
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] | 英国 [[Education Endowment Foundation\|EEF]] 前 8 年资助的 190+ 项大规模学校实地试验（涉及万所学校） | 大规模教育随机对照试验（RCT）元评估 | 试验[[Preregistration\|预注册]]（[[ISRCTN]]）、方案锁定（[[Statistical Analysis Plan\|SAP]]）、国家统考（NPD）对照与[[EEF Padlock Security Rating\|挂锁安全评级]] | 严格大样本随机化有效保障了控制组反事实基线同质性；强调[[Measurement Alignment\|测量对齐]]偏差（自编测验）会人为扭曲反事实反差 50%–100% | — | 实证揭示教育实地试验中维护反事实纯洁性所面临的实施流失与测量工具硬约束（pp. 50–55） |
 
 ---
@@ -260,6 +260,6 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al. (2011)]] — 阐述教育研究中[[Causality\|因果推断]]的[[Epistemology\|认识论]]演进，系统辨析休谟时间先后性与麦基反事实判准，界定实验控制组作为反事实代理的操作逻辑。
-> - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 论证全校教育改革在真实学校生态中以常规教学（[[Business as Usual\|BAU]]）为反事实基准的重要性，确立整群[[Randomised Controlled Trials\|随机对照试验]]与[[Hierarchical Linear Model\|多层线性模型]]在循证改革中的方法学支柱地位。
+> - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 论证全校教育改革在真实学校生态中以常规教学（[[Business as Usual\|BAU]]）为反事实基准的重要性，确立整群[[Randomised Controlled Trials\|随机对照试验]]与[[Hierarchical Linear Model\|多层线性模型]]在循证改革中的方法学支柱地位。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 解构英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）大规模学校实地试验中的反事实构建与质量规约，实证分析自编测验扭曲反事实反差的风险及独立标准化测量的治理价值。
 

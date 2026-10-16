@@ -81,7 +81,7 @@ related_arguments:
   - "[[Argument_Zhao_2017_JEC]]"
   - "[[Argument_Abrami_2015_RER]]"
   - "[[Argument_Terhart_2011_JCS]]"
-  - "[[Argument_Slavin_2019_EP]]"
+  - "[[Argument_Slavin_2019_EducPsychol]]"
   - "[[Argument_DeJong_2023_ERR]]"
   - "[[Argument_Park_2026_TSC]]"
   - "[[Argument_Cole_2015_AJE]]"
@@ -102,7 +102,7 @@ updated: 2026-10-16
 >
 > 在学术传统中，直接教学存在广义与狭义之分：
 > 1. **狭义的大写 DI（Direct Instruction）** 专指 Siegfried Engelmann 与 Wes Becker 开发的高度脚本化（Scripted）、基于精细行为分析与快速口头响应的标准化课程补救项目（如美国 Project Follow Through 研究）；
-> 2. **广义的小写 di（direct instruction / explicit instruction）** 泛指以 Barak Rosenshine 的教学原则为代表的、以教师清晰讲解和显性结构为特征的一般性教学取向。在当代教育综合研究与循证改革实践中，多在此广义框架下探讨。[[Argument_Zhao_2017_JEC\|(Zhao, 2017, pp. 7–8)]]; [[Argument_Terhart_2011_JCS\|(Terhart, 2011, p. 433)]]; [[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 24)]]
+> 2. **广义的小写 di（direct instruction / explicit instruction）** 泛指以 Barak Rosenshine 的教学原则为代表的、以教师清晰讲解和显性结构为特征的一般性教学取向。在当代教育综合研究与循证改革实践中，多在此广义框架下探讨。[[Argument_Zhao_2017_JEC\|(Zhao, 2017, pp. 7–8)]]; [[Argument_Terhart_2011_JCS\|(Terhart, 2011, p. 433)]]; [[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 强调教师作为[[Scaffolding\|认知脚手架]]的“主动激活者（Activator）”，通过将复杂认知过程外显化与结构化，降低学习者的外在认知负荷。
@@ -229,7 +229,7 @@ updated: 2026-10-16
 > [!dev-timeline] 概念演变
 > - **1960–1970 年代 — 脚本化 DI 奠基与 Follow Through 试验** Siegfried Engelmann 与 Wes Becker 开发高度脚本化的直接教学模式（DI），并在美国“追踪项目（Project Follow Through）”中横扫 20 余种教学法，奠定了在弱势儿童基础学业补救中的实证基石。[[Argument_Zhao_2017_JEC\|(Zhao, 2017, p. 7)]]
 > - **1980 年代 — 显性教学原则提炼与普及** Barak Rosenshine 系统提炼出小步子示范、指导练习与即时反馈等 10 项显性教学原则，直接教学从专门补救课程扩展为通用[[Effective Teaching\|有效教学]][[Paradigm\|范式]]。
-> - **1990–2000 年代 — [[Cognitive Load Theory\|认知负荷理论]]支撑与 CSR 全校改革采纳** 认知负荷理论从[[Working Memory\|工作记忆]]局限性为显性指导提供认知[[Scientific Explanation\|科学解释]]；美国全面学校改革计划（Comprehensive School Reform, CSR）将 Direct Instruction 列为受联邦资助的标杆全校方案之一。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 24)]]
+> - **1990–2000 年代 — [[Cognitive Load Theory\|认知负荷理论]]支撑与 CSR 全校改革采纳** 认知负荷理论从[[Working Memory\|工作记忆]]局限性为显性指导提供认知[[Scientific Explanation\|科学解释]]；美国全面学校改革计划（Comprehensive School Reform, CSR）将 Direct Instruction 列为受联邦资助的标杆全校方案之一。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]]
 > - **2010 年代至今 — 可见学习综合、副作用反思与时序协同模型** Hattie（$d=0.59$）确立其教师激活地位；[[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 确立其在高阶[[Critical Thinking\|批判性思维]]中的显性混合模式；[[Argument_Zhao_2017_JEC\|Zhao (2017)]] 提出教育副作用理论；[[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] 系统反思直接教学绝对优越论，提出直接教学与[[Inquiry-Based Learning\|探究式学习]]的时序协同模型。
 
 ---
@@ -294,7 +294,7 @@ updated: 2026-10-16
 > |---|---|---|---|---|---|---|
 > | [[Argument_Zhao_2017_JEC\|Zhao (2017, p. 7)]] | 美国联邦 Project Follow Through（史上最大规模教育实验，涵盖数万名弱势儿童） | 大规模准实验长期追踪对比（20余种教学模式） | 基础技能、认知理解与自尊情感 | 脚本化直接教学（DI）在基础学业技能上显著夺冠，但在自主探索与情感维度未显优势 | 跨学区一致显著 | 奠定了直接教学在基础技能补救教学中的历史标杆地位 |
 > | [[Argument_Zhao_2017_JEC\|Zhao (2017, p. 8)]] | 可见学习综合实证数据库（涵盖数百项元分析） | [[Meta-meta-analysis\|二阶元分析]]汇总 | 直接教学对综合[[Academic Achievement\|学业成就]]的影响 | $d = 0.59$（排名前列） | 远超发展铰接点 $d = 0.40$ | 主要反映标准化知识与常规学科考试成绩，未能测查创造力与非认知副作用 |
-> | [[Argument_Slavin_2019_EP\|Slavin (2019)]] | 美国全面学校改革计划（Comprehensive School Reform, CSR）及 [[Every Student Succeeds Act\|ESSA]] 项目库 | 联邦政策实证审查 | 达到联邦法定强/中[[Evidence Standards\|证据标准]]的全校与学科方案 | Direct Instruction 作为全美少数经受住长期实验检验的 [[Top Institute for Evidence-Based Education Research\|TIER]] 1 全班核心方案之一 | 经受住多轮独立审查 | 证实其在全美规模化推广中的因果有效性 |
+> | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | 美国全面学校改革计划（Comprehensive School Reform, CSR）及 [[Every Student Succeeds Act\|ESSA]] 项目库 | 联邦政策实证审查 | 达到联邦法定强/中[[Evidence Standards\|证据标准]]的全校与学科方案 | Direct Instruction 作为全美少数经受住长期实验检验的 [[Top Institute for Evidence-Based Education Research\|TIER]] 1 全班核心方案之一 | 经受住多轮独立审查 | 证实其在全美规模化推广中的因果有效性 |
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, p. 4)]]<br>（引述 Stockard et al., 2018） | 328 项阅读、数学与拼写[[Intervention Research\|干预研究]]（非 STEM 领域） | 元分析与[[Critical Review\|批判性综述]]审查 | 直接教学对比常规或其他教学课程 | 直接教学在基础读写算技能上表现出正向效应，但对照组仅区分为常规课程而未具体界定教学类型 | — | 该元分析未覆盖科学概念探究领域，其对照组特征模糊导致无法推导出直接教学对探究教学的全面优越性 |
 > | [[Argument_DeJong_2023_ERR\|De Jong et al. (2023, pp. 5–6)]]<br>（引述 PISA 2015 / Chen et al., 2017; Oliver et al., 2021） | [[PISA\|国际学生评估项目]]（PISA）2015 跨国大规模数据（数十万学生） | 多层非线性多项式回归分析 | 教师直接指导与学生探究对科学成绩的[[Interaction Effect\|交互作用]] | 教师直接指导与探究活动呈显著倒 U 型交互增益；单一孤立的超高强度直接讲授呈现收益递减甚至负向关联 | 跨国分析高度一致 | 证明直接教学的最优效能取决于其与探究实践的动态结合（Sweet Spot） |
 
@@ -308,5 +308,5 @@ updated: 2026-10-16
 > - [[Argument_Terhart_2011_JCS\|Terhart (2011)]] — 对比英美[[Positivism\|实证主义]]直接教学论与欧陆经典教学论（[[Didaktik]]）的[[Paradigm\|范式]]差异。
 > - [[Argument_Park_2026_TSC\|Park et al. (2026)]] — 多水平[[Meta-analysis\|元分析]]证实显性直接教学在[[Creativity Training\|创造力干预]]中的关键效能。
 > - [[Argument_Cole_2015_AJE\|Cole et al. (2015)]] — 比较[[Australian Curriculum\|澳大利亚课程]]体系中显性教学与隐性期望对批判性思维的差异化影响。
-> - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 梳理 Direct Instruction 在联邦 CSR 计划与 [[Every Student Succeeds Act\|ESSA]] TIER 1 核心通用教学中的实证定位。
+> - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 梳理 Direct Instruction 在联邦 CSR 计划与 [[Every Student Succeeds Act\|ESSA]] TIER 1 核心通用教学中的实证定位。
 > - [[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]] — 系统检视直接教学在科学教育中的适用边界，指出脱离探究练习的单一直接讲授无法保障长效保持与迁移，主张将直接教学适时嵌入探究全周期。

@@ -73,7 +73,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Peterson_1987_OpenCourt_Ch07]]"
   - "[[Argument_Slethaug_2010_InternationalEducation]]"
-  - "[[Argument_Metli_2022_IJER]]"
+  - "[[Argument_Metli_2022_IJEdReform]]"
   - "[[Argument_Peterson_1987_OpenCourt]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch04]]"
   - "[[Argument_Peterson_1987_OpenCourt_Ch08]]"
@@ -116,9 +116,9 @@ updated: 2026-10-16
 ## 核心要素
 
 > [!feature] 课程体系通过四个相互依赖的要素运行
-> - **价值与学习者目标** IB [[IB Learner Profile|学习者培养目标]]把国际理解、探究、反思与责任等使命转化为可贯穿课程的学习者特征。[[Argument_Metli_2022_IJER|(Metli & Akış, 2022, pp. 210–213)]]
+> - **价值与学习者目标** IB [[IB Learner Profile|学习者培养目标]]把国际理解、探究、反思与责任等使命转化为可贯穿课程的学习者特征。[[Argument_Metli_2022_IJEdReform|(Metli & Akış, 2022, pp. 210–213)]]
 > - **广度与深度并存的课程结构** [[IB Diploma Programme|IBDP]] 以六个学科组维持学习广度，并用高级与标准层级保留专门化空间。[[Theory of Knowledge|TOK]]、EE 与 [[Chinese Academy of Sciences|CAS]] 把知识反思、自主研究和校外行动纳入共同核心。[[Argument_Peterson_1987_OpenCourt|Peterson (1987, Ch. 2, pp. 28–31)]]
-> - **[[Concurrency of Learning|并发学习]]** 学科组与核心组件需要在同一学习阶段相互联系。教师借助[[Approaches to Teaching and Learning|教学与学习方法]]（Approaches to Teaching and Learning，ATL）促进跨学科迁移，避免学生把六科和三项核心体验理解为彼此分离的任务。[[Argument_Metli_2022_IJER|(Metli & Akış, 2022, pp. 211–213)]]
+> - **[[Concurrency of Learning|并发学习]]** 学科组与核心组件需要在同一学习阶段相互联系。教师借助[[Approaches to Teaching and Learning|教学与学习方法]]（Approaches to Teaching and Learning，ATL）促进跨学科迁移，避免学生把六科和三项核心体验理解为彼此分离的任务。[[Argument_Metli_2022_IJEdReform|(Metli & Akış, 2022, pp. 211–213)]]
 > - **共同标准与多种评价技术** 学科考试、TOK 外部调节、EE 外部评分和 CAS 活动指导处理的学习对象不同。共同标准来自相匹配的评价办法、教师培训和课程复审，而非全部采用同一种外部考试。[[Argument_Peterson_1987_OpenCourt_Ch07|Peterson (1987, Ch. 7, pp. 178–185)]]
 
 > [!logic-map]- 要素关系
@@ -202,7 +202,7 @@ updated: 2026-10-16
 > [[Correlational Research|相关研究]]把 [[Theory of Knowledge|TOK]]、EE 与 [[Chinese Academy of Sciences|CAS]] 视为连接学术学习、反思、自主研究和社会参与的机制。现有结果多为观察性比较或参与者报告，能够说明关联和可能机制，不能把差异全部归因于课程。
 
 > [!claim] Metli, A. & Akış, D.
-> **核心组件承担不同但互补的教育功能** EE 与独立思考、[[Inquiry-Based Learning|探究学习]]和大学平均绩点（Grade Point Average，[[Academic Achievement|GPA]]）相关；TOK 帮助学生反思[[Knowledge Building Theory|知识建构]]并练习[[Critical Thinking|批判性思维]]；CAS 经验则与服务伦理、自信和公民责任感相关。三者需要相互联系，单独完成任务不等于形成整体学习。[[Argument_Metli_2022_IJER|(Metli & Akış, 2022, pp. 220–221)]]
+> **核心组件承担不同但互补的教育功能** EE 与独立思考、[[Inquiry-Based Learning|探究学习]]和大学平均绩点（Grade Point Average，[[Academic Achievement|GPA]]）相关；TOK 帮助学生反思[[Knowledge Building Theory|知识建构]]并练习[[Critical Thinking|批判性思维]]；CAS 经验则与服务伦理、自信和公民责任感相关。三者需要相互联系，单独完成任务不等于形成整体学习。[[Argument_Metli_2022_IJEdReform|(Metli & Akış, 2022, pp. 220–221)]]
 
 > [!claim] Cole, D. R. et al.
 > **年级和项目组之间存在表现差异** 澳大利亚样本中，12 年级学生的[[Critical Thinking Strategies Scale|批判性思维策略量表]]（Critical Thinking Strategies Scale，CTSS）得分显著高于 11 年级学生；DP 毕业生的澳大利亚高等教育入学排名（Australian Tertiary Admission Rank，ATAR）与[[Academic Self-Concept|学术自我概念]]也高于非 DP 毕业生。横断比较和便利样本无法排除学生选择、学校差异及整个 DP 的共同作用，结果不能单独证明 TOK 的因果效果。[[Argument_Cole_2015_AJE|(Cole et al., 2015, pp. 254–258)]]
@@ -270,7 +270,7 @@ updated: 2026-10-16
 > [!row-contrast] IB 的核心命题
 > | 命题类型 | 核心指向 | 条件与边界 | 代表研究 |
 > |---|---|---|---|
-> | **核心组件与学习结果** | TOK、EE 与 CAS 分别连接知识反思、自主研究和社会参与 | 现有比较多为观察性证据，不能排除学生选择和学校差异 | [[Argument_Metli_2022_IJER\|Metli & Akış (2022)]]；[[Argument_Cole_2015_AJE\|Cole et al. (2015)]] |
+> | **核心组件与学习结果** | TOK、EE 与 CAS 分别连接知识反思、自主研究和社会参与 | 现有比较多为观察性证据，不能排除学生选择和学校差异 | [[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022)]]；[[Argument_Cole_2015_AJE\|Cole et al. (2015)]] |
 > | **跨文化课程移植** | 统一课程原则需要转化为当地可参与的课堂任务 | 知识权威、语言和课堂互动规范可能改变实施 | [[Argument_Slethaug_2010_InternationalEducation\|Slethaug (2010)]] |
 > | **跨国制度运行** | 功能分权、教师培训、共同评价与政府参与共同维持标准 | 分权可能带来服务差异，公共治理受稳定出资限制 | [[Argument_Peterson_1987_OpenCourt_Ch07\|Peterson (1987, Ch. 7)]] |
 > | **全人教育与课程用途** | 辅助层级重视最后一次正式学习的应用、兴趣与社会理解 | 保留高级学科深度及大学资格可接受性 | [[Argument_Peterson_1987_OpenCourt_Ch08\|Peterson (1987, pp. 199–204)]] |
@@ -363,7 +363,7 @@ updated: 2026-10-16
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Metli_2022_IJER\|Metli & Akış (2022)]] | 该文回顾的 [[IB Diploma Programme\|IBDP]] 学生、毕业生和教师研究 | 观察性比较、追踪调查与教师调查 | EE 与大学 [[Academic Achievement\|GPA]]；探究和自我调节；TOK 跨学科联系；CAS 公民责任感 | Inkelas et al. (2012) 报告 EE 成绩与大学 GPA 正相关；Wray (2013) 与 Aulls (2013) 报告大学阶段的独立思考和自我调节表现；Bergeron (2016) 的教师报告强调 TOK 的跨学科联系；Billig and Good (2013) 把 CAS 与成熟和[[Open-Mindedness\|思想开放]]联系起来 | 原综述未在条目中保留具体统计 | 二手综述把多项研究并列为核心组件的可能效益；原始样本、统计和因果边界仍需回到各项原研究核验 |
+> | [[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022)]] | 该文回顾的 [[IB Diploma Programme\|IBDP]] 学生、毕业生和教师研究 | 观察性比较、追踪调查与教师调查 | EE 与大学 [[Academic Achievement\|GPA]]；探究和自我调节；TOK 跨学科联系；CAS 公民责任感 | Inkelas et al. (2012) 报告 EE 成绩与大学 GPA 正相关；Wray (2013) 与 Aulls (2013) 报告大学阶段的独立思考和自我调节表现；Bergeron (2016) 的教师报告强调 TOK 的跨学科联系；Billig and Good (2013) 把 CAS 与成熟和[[Open-Mindedness\|思想开放]]联系起来 | 原综述未在条目中保留具体统计 | 二手综述把多项研究并列为核心组件的可能效益；原始样本、统计和因果边界仍需回到各项原研究核验 |
 
 ---
 
@@ -389,4 +389,4 @@ updated: 2026-10-16
 > - [[Argument_Peterson_1987_OpenCourt_Ch08|Peterson (1987, pp. 199–217)]] — 分析课程复审、终结性学习、创新实施、平衡扩张与公共援助；区分已采用课程、仍在试验的方案及无法由网络规模证明的宏观和平效果。
 > - [[Argument_Slethaug_2010_InternationalEducation|Slethaug (2010)]] — 分析了 IB 在[[International Education|国际教育]]中的扩张，并讨论了其质量保障机制及被引入非西方语境时的文化张力。
 > - [[Argument_Cole_2015_AJE|Cole et al. (2015)]] — 提供了澳大利亚 IB 毕业生在[[Critical Thinking|批判性思维]]和学术成就上的大规模量化实证数据。
-> - [[Argument_Metli_2022_IJER|Metli & Akış (2022)]] — 聚焦 [[IB Diploma Programme|IBDP]] 核心组件，说明[[Concurrency of Learning|并发学习]]如何把学科与 [[Theory of Knowledge|TOK]]、EE、[[Chinese Academy of Sciences|CAS]] 连接为整体学习经验。
+> - [[Argument_Metli_2022_IJEdReform|Metli & Akış (2022)]] — 聚焦 [[IB Diploma Programme|IBDP]] 核心组件，说明[[Concurrency of Learning|并发学习]]如何把学科与 [[Theory of Knowledge|TOK]]、EE、[[Chinese Academy of Sciences|CAS]] 连接为整体学习经验。

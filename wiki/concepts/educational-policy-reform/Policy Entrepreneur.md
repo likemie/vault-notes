@@ -72,7 +72,7 @@ related_facts:
   - "[[Foundation North Māori and Pasifika Education Initiative]]"
 related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
-  - "[[Argument_McDonnell_2013_AJE]]"
+  - "[[Argument_McDonnell_2013_AmJE]]"
   - "[[Argument_Klerides_2023_CE]]"
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
@@ -89,7 +89,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> 政策企业家（Policy Entrepreneur，又称政策创业者）是指在教育系统内外，愿意投入自身时间、精力、声望与资金等关键资源，通过建立跨界社交网络、识别并捕捉政策机会窗口（[[Policy Window]]），策略性整合实证证据与价值[[Discourse|话语]]，以实质性影响公共政策议程设置、方案设计与法定采纳的能动行动者。该概念由[[John W. Kingdon|约翰·W·金登]]（John W. Kingdon）引入公共政策分析，迈克尔·明特罗姆（Michael Mintrom, 2000）进一步阐释了其在教育系统内推动[[School Autonomy|学校自主]]的自下而上创业过程；斯蒂芬·J·鲍尔（Stephen J. Ball, 2012）将其扩展至全球[[Network Governance|网络治理]]与私有化流动维度；洛兰·M·麦克唐纳与M·斯蒂芬·韦瑟福德（Lorraine M. McDonnell & M. Stephen Weatherford, 2013）则将其拓展为在政策生命周期中动态动员多源证据以打破既有制度垄断的政治中介理论。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. viii, 47)]]; [[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 2–5)]]
+> 政策企业家（Policy Entrepreneur，又称政策创业者）是指在教育系统内外，愿意投入自身时间、精力、声望与资金等关键资源，通过建立跨界社交网络、识别并捕捉政策机会窗口（[[Policy Window]]），策略性整合实证证据与价值[[Discourse|话语]]，以实质性影响公共政策议程设置、方案设计与法定采纳的能动行动者。该概念由[[John W. Kingdon|约翰·W·金登]]（John W. Kingdon）引入公共政策分析，迈克尔·明特罗姆（Michael Mintrom, 2000）进一步阐释了其在教育系统内推动[[School Autonomy|学校自主]]的自下而上创业过程；斯蒂芬·J·鲍尔（Stephen J. Ball, 2012）将其扩展至全球[[Network Governance|网络治理]]与私有化流动维度；洛兰·M·麦克唐纳与M·斯蒂芬·韦瑟福德（Lorraine M. McDonnell & M. Stephen Weatherford, 2013）则将其拓展为在政策生命周期中动态动员多源证据以打破既有制度垄断的政治中介理论。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. viii, 47)]]; [[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 2–5)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 这个概念指向一种能够跨越公共行政、智库非营利组织与商业资本等传统分立界限，具有高超政治技巧与资源整合能力的跨界网络能动者。
@@ -97,7 +97,7 @@ updated: 2026-10-16
 > - **边界** 不应将所有普通游说团体、执行层校长或纯粹学者均视为政策企业家；它特指那些主动制造或敏锐捕捉政策窗口、构建跨界战略联盟并策略性动员多元证据的创业型主体。
 
 > [!citation-card] 政策企业家的资源投入与窗口捕捉
-> 政策企业家愿意投入自己的资源——时间、精力、声誉乃至金钱——来促进他们所偏好的政策主张。他们密切注视政策环境，等待时机成熟，在问题、方案与政治三条溪流汇合的短暂机会窗口期，果断促成议题的突破。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 4)]]
+> 政策企业家愿意投入自己的资源——时间、精力、声誉乃至金钱——来促进他们所偏好的政策主张。他们密切注视政策环境，等待时机成熟，在问题、方案与政治三条溪流汇合的短暂机会窗口期，果断促成议题的突破。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 4)]]
 >
 > *Policy entrepreneurs are willing to invest their resources—time, energy, reputation, and sometimes money—in the hope of a future return. They lie in wait for a window to open, ready to attach their solutions to problems or to hitch them to political momentum.*
 
@@ -121,10 +121,10 @@ updated: 2026-10-16
 ## 核心要素
 
 > [!feature] 核心要素
-> - **政策机会窗口敏锐捕捉（[[Policy Window]] Coupling）** 密切监控社会问题、政治动向与财政激励，在危机爆发或联邦资助开启的短暂窗口期，迅速将既有改革方案与痛点问题精确耦合。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 2–5)]]
-> - **跨界网络协同与联盟构建（Cross-Sector Networked Agency）** 依托资深政客声望、智库专业知识与学术领袖公信力，绕过科层阻隔，建立涵盖两党官员、企业界与教师工会的多边战略同盟。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9, 21)]]
-> - **实证证据与两党价值策略性打包（Strategic Framing & Evidence Packaging）** 将冰冷的量化差距指标（如 [[National Assessment of Educational Progress|NAEP]] 鸿沟、[[TIMSS]] 课程落差）与国家经济安全、阶层向上流动等两党根本价值符号深度绑定，制造危机共识。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 10–12)]]
-> - **诉诸实证研究的技术性防卫（Technocratic Shielding）** 高举以证据为基础的大旗，将争议极大的方案设计定义为中立的学术与技术[[Homework|作业]]，以此作为抵御外部意识形态干预的制度盾牌。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 13, 19)]]
+> - **政策机会窗口敏锐捕捉（[[Policy Window]] Coupling）** 密切监控社会问题、政治动向与财政激励，在危机爆发或联邦资助开启的短暂窗口期，迅速将既有改革方案与痛点问题精确耦合。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 2–5)]]
+> - **跨界网络协同与联盟构建（Cross-Sector Networked Agency）** 依托资深政客声望、智库专业知识与学术领袖公信力，绕过科层阻隔，建立涵盖两党官员、企业界与教师工会的多边战略同盟。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–9, 21)]]
+> - **实证证据与两党价值策略性打包（Strategic Framing & Evidence Packaging）** 将冰冷的量化差距指标（如 [[National Assessment of Educational Progress|NAEP]] 鸿沟、[[TIMSS]] 课程落差）与国家经济安全、阶层向上流动等两党根本价值符号深度绑定，制造危机共识。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 10–12)]]
+> - **诉诸实证研究的技术性防卫（Technocratic Shielding）** 高举以证据为基础的大旗，将争议极大的方案设计定义为中立的学术与技术[[Homework|作业]]，以此作为抵御外部意识形态干预的制度盾牌。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 13, 19)]]
 > - **跨公私载体无缝切换与知识商业化（Seamless Straddling & Monetisation）** 在公共福利（提供学术测试）、非营利信托与营利性商业公司之间灵活流转，实现学术成果的品牌化运作与全球[[Governing at a Distance|远处治理]]。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. viii–ix)]]
 
 > [!logic-map]- 要素关系与运作双轨
@@ -166,7 +166,7 @@ updated: 2026-10-16
 > 关注政策企业家如何在不同决策阶段，将科学研究、实证指标与规范性价值诉求策略性组合，打破僵化的既有体制并构建改革支持联盟。
 
 > [!claim] McDonnell, L. M. & Weatherford, M. S.
-> **阶段权变的证据整合与去政治化倡导** 论证了政策企业家在推动重大制度变迁时，并非单向依凭纯粹学术证据，而是依据政策周期各阶段的政治目标灵活整合多元证据：在[[Problem Finding|问题界定]]阶段，策略性筛选国际测评与州际落差指标，将其与[[Human Capital Theory|人力资本]][[Competitiveness|竞争力]]价值框架结合以打破分散标准的[[Punctuated Equilibrium Theory|政策垄断]]；在方案设计阶段，将诉诸实证研究作为去政治化策略以规避意识形态争端，并在研究证据有限处以专家和一线教师的专业经验填补空白；在采纳阶段，重构共识叙事并注入州级细分对标数据（Crosswalks）以构建法定通过联盟。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 1–4, 18–19)]]
+> **阶段权变的证据整合与去政治化倡导** 论证了政策企业家在推动重大制度变迁时，并非单向依凭纯粹学术证据，而是依据政策周期各阶段的政治目标灵活整合多元证据：在[[Problem Finding|问题界定]]阶段，策略性筛选国际测评与州际落差指标，将其与[[Human Capital Theory|人力资本]][[Competitiveness|竞争力]]价值框架结合以打破分散标准的[[Punctuated Equilibrium Theory|政策垄断]]；在方案设计阶段，将诉诸实证研究作为去政治化策略以规避意识形态争端，并在研究证据有限处以专家和一线教师的专业经验填补空白；在采纳阶段，重构共识叙事并注入州级细分对标数据（Crosswalks）以构建法定通过联盟。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 1–4, 18–19)]]
 
 ---
 
@@ -177,7 +177,7 @@ updated: 2026-10-16
 > |---|---|---|---|
 > | **远处治理命题** | 关注政策企业家在分散的全球网络中如何以中立数据为名，协调并执行远处治理。 | 全球多行动者[[Policy Network\|政策网络]]及基准数据比较。 | [[Argument_Klerides_2023_CE\|Klerides (2023)]]; Ball (2012) |
 > | **混合私有化命题** | 关注政策企业家如何通过无缝跨界运作，将公共教育资源与商业利润网络对接。 | 国家私有化改革、慈善资本运作与学校商业化服务。 | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]]; Mintrom (2000) |
-> | **阶段证据整合命题** | 关注政策企业家如何在政策各阶段策略性组合实证研究、专业经验与价值诉求，破解政策垄断。 | 课程标准改革、多阶段公共决策倡导与联盟构建。 | [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013)]]; Stone (2012) |
+> | **阶段证据整合命题** | 关注政策企业家如何在政策各阶段策略性组合实证研究、专业经验与价值诉求，破解政策垄断。 | 课程标准改革、多阶段公共决策倡导与联盟构建。 | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]]; Stone (2012) |
 
 ---
 
@@ -185,10 +185,10 @@ updated: 2026-10-16
 
 > [!example] 典型案例一：[[Common Core State Standards|共同核心标准]]运动中的跨界政策企业家联合网络
 > 在美国[[Common Core State Standards|共同核心州立标准]]（CCSS）推进过程中，跨界政策企业家组建了高度协同的行动者矩阵，瓦解了各州标准的百年割裂局面：
-> - **资深政界领袖穿梭协调** 前州长詹姆斯·B·亨特（James B. Hunt Jr.）与鲍勃·怀斯（Bob Wise）凭借跨党派人脉，主动邀请[[National Research Council|美国国家科学研究委员会]]（NRC）召开研讨会起草《教育领导力蓝图》，为两党州长确立国家标准改革合法性。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9, 21)]]
-> - **倡导机构与智库研制工具** [[Achieve|阿奇夫]]（Achieve）长期主持[[American Diploma Project|美国文凭项目]]（ADP），联合[[The Education Trust|教育信托]]发布各州标准虚假及格率报告，并为各州立法表决量身定制逐条对标分析（Crosswalks）。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9, 17–18)]]
-> - **学术领军者巡回游说** 密歇根州立大学[[William H. Schmidt|威廉·H·施密特]]（William H. Schmidt）教授兼具学者与倡导者双重身份，以 [[TIMSS]] 跨国数据在各州巡回宣讲美国课程宽一英里深一英寸的危机。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 9–10)]]
-> - **慈善资本构建全国网络** [[Bill & Melinda Gates Foundation|盖茨基金会]]投入 8,900 万美元，为 18 家国家组织、10 家技术服务商和 20 个州教育局提供经费，[[Hunt Institute|亨特研究所]]每周召开例行协调会，统领全美推进节奏。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 20, 22)]]
+> - **资深政界领袖穿梭协调** 前州长詹姆斯·B·亨特（James B. Hunt Jr.）与鲍勃·怀斯（Bob Wise）凭借跨党派人脉，主动邀请[[National Research Council|美国国家科学研究委员会]]（NRC）召开研讨会起草《教育领导力蓝图》，为两党州长确立国家标准改革合法性。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–9, 21)]]
+> - **倡导机构与智库研制工具** [[Achieve|阿奇夫]]（Achieve）长期主持[[American Diploma Project|美国文凭项目]]（ADP），联合[[The Education Trust|教育信托]]发布各州标准虚假及格率报告，并为各州立法表决量身定制逐条对标分析（Crosswalks）。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–9, 17–18)]]
+> - **学术领军者巡回游说** 密歇根州立大学[[William H. Schmidt|威廉·H·施密特]]（William H. Schmidt）教授兼具学者与倡导者双重身份，以 [[TIMSS]] 跨国数据在各州巡回宣讲美国课程宽一英里深一英寸的危机。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 9–10)]]
+> - **慈善资本构建全国网络** [[Bill & Melinda Gates Foundation|盖茨基金会]]投入 8,900 万美元，为 18 家国家组织、10 家技术服务商和 20 个州教育局提供经费，[[Hunt Institute|亨特研究所]]每周召开例行协调会，统领全美推进节奏。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 20, 22)]]
 
 > [!example] 典型案例二：约翰·海蒂与 [[Visible Learning]] 的品牌商业化
 > 约翰·海蒂（[[John Hattie]]）被 O'Neill 等描述为新西兰公立学校政策行动者的典型。其轨迹呈现为公共福利、非营利与营利创业的无缝融合：
@@ -204,7 +204,7 @@ updated: 2026-10-16
 > - **1984 — 议程设置与政策溪流模型** [[John W. Kingdon|约翰·W·金登]]（John W. Kingdon, 1984）在其经典著作中首创政策企业家概念，描述其如何将问题、方案与政治溪流耦合。
 > - **2000 — 教育系统内政策创业** 迈克尔·明特罗姆（Michael Mintrom, 2000）首次系统化探讨教育系统内部自下而上的政策创业行为，关注其打破行政僵化、促进学校[[School Choice|择校]]创新的机制。
 > - **2012 — 跨国[[Policy Network|政策网络]]拓展** 斯蒂芬·J·鲍尔（Stephen J. Ball, 2012）将概念拓展至全球[[Network Governance|网络化治理]]维度，揭示商业资本与智库如何穿透国家主权边界。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. viii)]]
-> - **2013 — 政策周期中的证据利用与去政治化** 洛兰·M·麦克唐纳与M·斯蒂芬·韦瑟福德（[[Argument_McDonnell_2013_AJE|McDonnell & Weatherford, 2013]]）将政策企业家理论与多阶段证据利用相结合，揭示其如何在各阶段将实证研究、指标数据与价值叙事策略性打包装配，以突破[[Punctuated Equilibrium Theory|政策垄断]]并推进[[Common Core State Standards|共同核心标准]]采纳。
+> - **2013 — 政策周期中的证据利用与去政治化** 洛兰·M·麦克唐纳与M·斯蒂芬·韦瑟福德（[[Argument_McDonnell_2013_AmJE|McDonnell & Weatherford, 2013]]）将政策企业家理论与多阶段证据利用相结合，揭示其如何在各阶段将实证研究、指标数据与价值叙事策略性打包装配，以突破[[Punctuated Equilibrium Theory|政策垄断]]并推进[[Common Core State Standards|共同核心标准]]采纳。
 > - **2016 — 混合政策创业诊断** [[John O'Neill|约翰·奥尼尔]]等人（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）通过对新西兰公立学校改革的研究，细化了政策企业家在公共福利、非营利与营利动机间无缝融合的微观运作机制。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 47–64)]]
 
 ---
@@ -222,8 +222,8 @@ updated: 2026-10-16
 > > [!axis]- 去政治化技术防护 vs 宪法代议制民主问责
 > > 争论政策企业家运用中立科学证据绕过公众辩论的做法，是否侵蚀了代议制民主的合法性根基。
 > >
-> > - **公法与地方分权批评者（2013）** 指责政策企业家依托未受民选监督的跨州非营利机构（[[National Governors Association|NGA]]/[[Council of Chief State School Officers|CCSSO]]）与私人基金会注资制定统一规则，实质架空了各州宪法赋予立法机关与地方学区的教育决策权。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 16–17)]]
-> > - **政策企业家与倡导联盟（2013）** 坚称诉诸实证研究是克服党派政治极化、避免全国教育标准沦落为无休止意识形态讨价还价的必要护栏。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 13, 19)]]
+> > - **公法与地方分权批评者（2013）** 指责政策企业家依托未受民选监督的跨州非营利机构（[[National Governors Association|NGA]]/[[Council of Chief State School Officers|CCSSO]]）与私人基金会注资制定统一规则，实质架空了各州宪法赋予立法机关与地方学区的教育决策权。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 16–17)]]
+> > - **政策企业家与倡导联盟（2013）** 坚称诉诸实证研究是克服党派政治极化、避免全国教育标准沦落为无休止意识形态讨价还价的必要护栏。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 13, 19)]]
 
 > [!critique] 外部批评
 > - **公共利益的非民主蚕食** 批评者指出，政策企业家由于不具备民主选举的政治代表性，其通过个人化的契约网络影响政策制定，在事实上蚕食了公立教育的公共治理基础，损害了公共决策过程的民主参与度和透明度。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 82)]]
@@ -243,7 +243,7 @@ updated: 2026-10-16
 > |---|---|---|---|---|---|---|
 > | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016, p. xv)]] | 新西兰注册慈善机构数据库（包含 6,059 个教育慈善组织） | 数据库财务与结构统计分析 | 政府拨款依赖度与贸易收入占比 | 仅 4.5% 机构主要依赖政府拨款，仅 3.9% 依赖服务与贸易收入 | — | 表明绝大多数所谓教育慈善组织在运营资金结构上并非传统的政府承包商，具有高度的非官方独立运作和潜在的政策创业自由度。 |
 > | [[Argument_ONeill_2016_Report\|O'Neill et al. (2016, pp. 47–51)]] | 新西兰[[Educational Management Organisation\|教育管理组织]]与慈善基金会财务数据（2007–2015） | 财务报表个案审计研究 | 慈善性直接捐赠占集团总收入或投资收益的比例 | Cognition Education (2015) 直接捐赠比例仅占集团收入 0.9%；[[Foundation North Māori and Pasifika Education Initiative\|Foundation North]] (2010–2015) 投资收益分配为捐赠的比例仅为 23.3% | — | 说明所谓非营利性政策创业主体以慈善或利他[[Discourse\|话语]]运作，但在实际财务流动中，其大部分盈余流向了集团权益积累或运营费用，向学校返还的慈善价值微乎其微。 |
-> | [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013, pp. 7, 22)]] | 全美及 4 个重点州（加州、印第安纳、马萨诸塞、田纳西）政策精英与关键中介 | 过程追踪与 111 场[[In-depth Interview\|深度访谈]] | 政策企业家资金动员与联盟覆盖规模 | [[Bill & Melinda Gates Foundation\|盖茨基金会]]向 18 个全国组织注资 5,000 万美元，向 10 家服务商与 20 个州注资 3,900 万美元；[[Hunt Institute\|亨特研究所]]每周召集 7–14 家机构协同 | — | 实证揭示出政策企业家通过巨额私人资本与例行协调机制，能够在极短时间内跨越分权体制障碍，动员全美范围的政策采纳网络。 |
+> | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013, pp. 7, 22)]] | 全美及 4 个重点州（加州、印第安纳、马萨诸塞、田纳西）政策精英与关键中介 | 过程追踪与 111 场[[In-depth Interview\|深度访谈]] | 政策企业家资金动员与联盟覆盖规模 | [[Bill & Melinda Gates Foundation\|盖茨基金会]]向 18 个全国组织注资 5,000 万美元，向 10 家服务商与 20 个州注资 3,900 万美元；[[Hunt Institute\|亨特研究所]]每周召集 7–14 家机构协同 | — | 实证揭示出政策企业家通过巨额私人资本与例行协调机制，能够在极短时间内跨越分权体制障碍，动员全美范围的政策采纳网络。 |
 
 ---
 
@@ -252,4 +252,4 @@ updated: 2026-10-16
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_ONeill_2016_Report\|O'Neill et al. (2016)]] — 系统使用并细化了该概念，深入剖析了新西兰公立教育体系中 [[John Hattie]] 等政策企业家在公共福利、非营利与营利三种运作动机间无缝跨界运作的路径与后果。
 > - [[Argument_Klerides_2023_CE\|Klerides (2023)]] — 将政策企业家概念引入理性主义比较教育发展的第三阶段，用以解释数据[[Governing at a Distance|远处治理]]与分散权威空间的多行动者协调机制。
-> - [[Argument_McDonnell_2013_AJE\|McDonnell and Weatherford (2013)]] — 将政策企业家理论与多阶段证据利用相结合，系统揭示了跨界行动者如何动员差距指标、筑牢技术护栏并提供对标工具，突破[[Punctuated Equilibrium Theory|政策垄断]]并推动 [[Common Core State Standards|CCSS]] 法定采纳。
+> - [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]] — 将政策企业家理论与多阶段证据利用相结合，系统揭示了跨界行动者如何动员差距指标、筑牢技术护栏并提供对标工具，突破[[Punctuated Equilibrium Theory|政策垄断]]并推动 [[Common Core State Standards|CCSS]] 法定采纳。

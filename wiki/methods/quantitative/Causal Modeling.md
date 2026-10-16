@@ -47,7 +47,7 @@ related_methods:
 related_persons:
   - "[[Herbert Blalock]]"
 related_arguments:
-  - "[[Argument_Berk_2011_ER]]"
+  - "[[Argument_Berk_2011_EvalRev]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04]]"
   - "[[Argument_Creswell_2022_SAGE]]"
   - "[[Argument_Brady_2023_EPR]]"
@@ -63,7 +63,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 方法定义
-> 因果建模（Causal Modeling），也称为结构方程建模（Structural Equation Modeling, SEM），是随机实验之外最常用的[[Causality\|因果推断]]替代方法。其目标是对观察性研究施加一个关于"自然如何生成数据"的模型，然后从数据中估计自然使用的参数值。它于 1970 年代进入社会科学领域，承诺将实质性社会科学理论与统计学进行形式上的整合（[[Argument_Berk_2011_ER\|Berk, 2011, p.196]]）。
+> 因果建模（Causal Modeling），也称为结构方程建模（Structural Equation Modeling, SEM），是随机实验之外最常用的[[Causality\|因果推断]]替代方法。其目标是对观察性研究施加一个关于"自然如何生成数据"的模型，然后从数据中估计自然使用的参数值。它于 1970 年代进入社会科学领域，承诺将实质性社会科学理论与统计学进行形式上的整合（[[Argument_Berk_2011_EvalRev\|Berk, 2011, p.196]]）。
 
 > [!method-scope] 方法范围
 > - **研究对象**[[Variable\|变量]]之间的因果路径和结构关系，通常基于理论假设构建模型。
@@ -72,16 +72,16 @@ updated: 2026-10-16
 > - **输出形式** 路径系数、[[Model Fit Indices in SEM and CFA\|模型拟合指数]]、直接效应与间接效应估计、总效应分解。
 
 > [!citation-card]- 关键定义
-> Its aim is to impose on an observational study a model of how nature generated the data and then from the data, to estimate the values of the parameters nature employed. [[Argument_Berk_2011_ER\|(Berk, 2011, p.196)]]
+> Its aim is to impose on an observational study a model of how nature generated the data and then from the data, to estimate the values of the parameters nature employed. [[Argument_Berk_2011_EvalRev\|(Berk, 2011, p.196)]]
 
 ---
 
 ## 方法定位
 
 > [!method-position] [[Epistemology\|认识论]]与方法定位
-> - **知识观**因果建模隐含一种强假设——研究者可以通过统计模型捕捉数据生成过程的结构性特征。这与[[Potential Outcomes Framework\|潜在结果框架]]形成对比——后者从假设性比较出发定义因果效应，而非从模型假设出发估计因果参数。[[Argument_Berk_2011_ER\|Berk (2011, p.196)]] 认为因果建模对[[Evaluation Research\|评估研究]]的影响"最好说是好坏参半的"（mixed at best）。
+> - **知识观**因果建模隐含一种强假设——研究者可以通过统计模型捕捉数据生成过程的结构性特征。这与[[Potential Outcomes Framework\|潜在结果框架]]形成对比——后者从假设性比较出发定义因果效应，而非从模型假设出发估计因果参数。[[Argument_Berk_2011_EvalRev\|Berk (2011, p.196)]] 认为因果建模对[[Evaluation Research\|评估研究]]的影响"最好说是好坏参半的"（mixed at best）。
 > - **研究者角色** 研究者基于理论构建模型结构（指定[[Variable\|变量]]间的因果路径和方向），然后从数据中估计参数。研究者的理论判断决定了模型的形式——模型的力量不可能强大过支撑它的因果假设。
-> - **有效性标准** 模型拟合优度（[[Model Fit Indices in SEM and CFA\|CFI]]、RMSEA、SRMR 等）、路径系数的[[Statistical Significance\|统计显著性]]、理论模型与竞争模型的比较。但模型拟合良好不等于因果结构正确——"模型'足够接近正确'与模型'不正确'之间没有明确的经验界限"（[[Argument_Berk_2011_ER\|Berk, 2011, p.197]]）。
+> - **有效性标准** 模型拟合优度（[[Model Fit Indices in SEM and CFA\|CFI]]、RMSEA、SRMR 等）、路径系数的[[Statistical Significance\|统计显著性]]、理论模型与竞争模型的比较。但模型拟合良好不等于因果结构正确——"模型'足够接近正确'与模型'不正确'之间没有明确的经验界限"（[[Argument_Berk_2011_EvalRev\|Berk, 2011, p.197]]）。
 > - **不声称回答的问题** 因果建模本身不能证明因果方向——它只能检验预设的因果结构是否与数据一致。它不能替代随机实验来确立[[Causality\|因果关系]]。统计工具"可能只是强化已有假设和模型而非识别实际因果性"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al., 2011, p. 71]]）。
 
 ---
@@ -95,7 +95,7 @@ updated: 2026-10-16
 > 4. 如有必要，修改模型并重复步骤 2–3（模型选择）
 
 > [!warning] 模型选择的危险
-> [[Argument_Berk_2011_ER\|Berk (2011, p.197)]] 特别警告最后一步：许多因果模型是**模型选择**的产物——"在一组数据上使用一系列模型，并选择一个'最佳'模型。结果是使用该数据集的后续所有统计推断都很可能是错误的，常常是严重错误的"（Leeb & Pötscher, 2005, 2006; Berk, Brown, & Zhao, 2010）。
+> [[Argument_Berk_2011_EvalRev\|Berk (2011, p.197)]] 特别警告最后一步：许多因果模型是**模型选择**的产物——"在一组数据上使用一系列模型，并选择一个'最佳'模型。结果是使用该数据集的后续所有统计推断都很可能是错误的，常常是严重错误的"（Leeb & Pötscher, 2005, 2006; Berk, Brown, & Zhao, 2010）。
 
 ---
 
@@ -124,7 +124,7 @@ updated: 2026-10-16
 >    - 1973 — Goldberger 发表 "Structural Equation Models: An Overview"
 >    - 1975 — Duncan 出版 *Introduction to Structural Equation Models*
 > 2. **批评与反思（1983–2005）**
->    - 1983 — Ed Leamer 发表著名批评文章 "Let's Take the Con Out of Econometrics"（[[Argument_Berk_2011_ER\|Berk, 2011, p.196]]）
+>    - 1983 — Ed Leamer 发表著名批评文章 "Let's Take the Con Out of Econometrics"（[[Argument_Berk_2011_EvalRev\|Berk, 2011, p.196]]）
 >    - 2004 — Berk 出版 *Regression Analysis: A Constructive Critique*
 > - 2005 — David Freedman 出版 *Statistical Models: Theory and Practice*，基于二十年的批判性关切提供了对因果建模"可能最彻底的处理"
 > 3. **当代定位（2011–至今）**
@@ -138,23 +138,23 @@ updated: 2026-10-16
 ### 模型选择与假设依赖
 
 > [!method-limits] 模型选择的根本性局限
-> [[Argument_Berk_2011_ER\|Berk (2011, p.197)]] 识别的最核心问题：因果建模的常见实践涉及在多个模型中选择"最佳"模型，但这使得基于同一数据集的统计推断变得无效（Leeb & Pötscher, 2005, 2006; Berk, Brown, & Zhao, 2010）。
+> [[Argument_Berk_2011_EvalRev\|Berk (2011, p.197)]] 识别的最核心问题：因果建模的常见实践涉及在多个模型中选择"最佳"模型，但这使得基于同一数据集的统计推断变得无效（Leeb & Pötscher, 2005, 2006; Berk, Brown, & Zhao, 2010）。
 
 > [!critique-logic] 假设先于统计——模型无法超越其前提
 > 因果建模的力量不可能强大过支撑它的因果假设。统计——即使是 SEM、[[Multiple Regression\|多元回归]]和多[[Variable\|变量]]分析——"可能只是强化已有假设和模型而非识别实际[[Causality\|因果性]]"。在追求简洁清晰模型的过程中，它们经常"严重简化了情境中原因的数量或范围"（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch04\|Cohen et al., 2011, p. 71]]）。
 
 > [!critique-logic] 缺乏明确的经验边界
-> "因果建模的错误是程度问题。模型'足够接近正确'与模型'不正确'之间没有明确的经验界限。结果之一就是大量的回旋余地"（[[Argument_Berk_2011_ER\|Berk, 2011, p.197]]）。
+> "因果建模的错误是程度问题。模型'足够接近正确'与模型'不正确'之间没有明确的经验界限。结果之一就是大量的回旋余地"（[[Argument_Berk_2011_EvalRev\|Berk, 2011, p.197]]）。
 
 ---
 
 ### 操作与修辞问题
 
 > [!critique-method] 点按软件使因果建模"看似容易"
-> [[Argument_Berk_2011_ER\|Berk (2011, p.197)]] 提供了一个更具批判性的解释：广泛可用的点按式统计软件包使因果建模看似容易——"不需要深入理解"。他观察到许多论文"所使用的统计建模程序被以软件包的名称来引用（如'进行了一项 LISREL 分析'）"——"稍微不那么虔诚的关切是引用所使用的软件，仿佛这就是全部需要知道的（如'使用 proc mixed 进行分析'）"。
+> [[Argument_Berk_2011_EvalRev\|Berk (2011, p.197)]] 提供了一个更具批判性的解释：广泛可用的点按式统计软件包使因果建模看似容易——"不需要深入理解"。他观察到许多论文"所使用的统计建模程序被以软件包的名称来引用（如'进行了一项 LISREL 分析'）"——"稍微不那么虔诚的关切是引用所使用的软件，仿佛这就是全部需要知道的（如'使用 proc mixed 进行分析'）"。
 
 > [!critique] 对批评的修辞性回应
-> [[Argument_Berk_2011_ER\|Berk (2011, p.197)]] 引用了 Freedman (2005, p.195) 编纂的一份"有启发性但不完整"的清单，列举了因果建模支持者对批评的常见修辞性回应：
+> [[Argument_Berk_2011_EvalRev\|Berk (2011, p.197)]] 引用了 Freedman (2005, p.195) 编纂的一份"有启发性但不完整"的清单，列举了因果建模支持者对批评的常见修辞性回应：
 >
 > > "我们都知道。没有什么是完美的。线性必须是一个好的第一近似。对数线性必须是一个好的第一近似。假设是合理的。假设不重要。假设是保守的。你无法证明假设是错误的。偏误会相互抵消。我们可以对偏误建模。我们只是在做其他人都在做的事。现在我们将使用更复杂的技术。如果我们不做，其他人会做。你会怎么做？决策者有了我们比没有我们更好。我们都有心智模型，不使用模型仍然是一个模型。模型并非完全无用。你必须尽可能利用数据。你必须做出假设才能取得进展。你必须给模型怀疑的好处。这有什么害处？"
 
@@ -168,7 +168,7 @@ updated: 2026-10-16
 > | 假设依赖 | 较多——依赖不可检验的模型假设 | 较少——更多受实证诊断约束 |
 > | 模型选择 | 面临模型选择问题 | 匹配[[Variable\|变量]]在不参考结果变量的情况下确定 |
 > | 透明度 | 模型修改过程可能不透明 | 协变量平衡可通过标准化均值差等诊断评估 |
-> | Berk 的推荐 | — | **推荐替代策略（[[Argument_Berk_2011_ER\|Berk, 2011, pp.197–198]]）** |
+> | Berk 的推荐 | — | **推荐替代策略（[[Argument_Berk_2011_EvalRev\|Berk, 2011, pp.197–198]]）** |
 
 ---
 
@@ -205,7 +205,7 @@ updated: 2026-10-16
 > | 方法 | 关系 | 说明 |
 > |------|------|------|
 > | [[Correlational Research]] | 数据来源 | 因果建模通常在此类数据中估计因果路径，推论风险直接相关 |
-> | [[Matching]] | 替代策略 | [[Argument_Berk_2011_ER\|Berk (2011)]] 推荐的替代方法，以协变量平衡降低混杂风险 |
+> | [[Matching]] | 替代策略 | [[Argument_Berk_2011_EvalRev\|Berk (2011)]] 推荐的替代方法，以协变量平衡降低混杂风险 |
 > | [[Covariate Adjustment]] | 配套技术 | 通过纳入协变量调整效应估计，变量选择影响[[Effect Size\|效应量]]与显著性 |
 > | [[Multiple Regression]] | 基本构件 | 估计单个路径系数；[[Standard Error\|SEM]] 扩展了多元回归以同时处理多方程系统 |
 > | [[Recommendations for Practice]] | 风险关联 | [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] 关注建模语汇推动越界实践建议的风险 |

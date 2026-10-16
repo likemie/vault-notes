@@ -56,7 +56,7 @@ related_arguments:
   - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17]]"
   - "[[Argument_Wecker_2016_ZfE]]"
-  - "[[Argument_Simpson_2017_JEP]]"
+  - "[[Argument_Simpson_2017_JEdPolicy]]"
   - "[[Argument_Abrami_2015_RER]]"
 confidence: high
 status: completed
@@ -178,7 +178,7 @@ updated: 2026-10-16
 ## 方法学批判与局限性
 
 > [!warning] 固定效应模型在教育研究中的系统性失配
-> 1. **教育现实[[Heterogeneity|异质性]]导致核心假设破产** 教学研究涉及不同年级、学科、教师能力与课堂文化，真实[[Effect Size|效应量]]天然处于动态离散状态。强行套用固定效应模型假定“单一恒定真值”，必然严重低估实际[[Standard Error|标准误]]，产生虚假的极窄[[Confidence Interval|置信区间]]与高假阳性率（[[Argument_Simpson_2017_JEP|Simpson, 2017]]；[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）。
+> 1. **教育现实[[Heterogeneity|异质性]]导致核心假设破产** 教学研究涉及不同年级、学科、教师能力与课堂文化，真实[[Effect Size|效应量]]天然处于动态离散状态。强行套用固定效应模型假定“单一恒定真值”，必然严重低估实际[[Standard Error|标准误]]，产生虚假的极窄[[Confidence Interval|置信区间]]与高假阳性率（[[Argument_Simpson_2017_JEdPolicy|Simpson, 2017]]；[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）。
 > 2. **两级综合中文献重叠导致数理崩溃** 在大型[[Meta-meta-analysis|二级元分析]]中，多个一级[[Meta-analysis|元分析]]高度共享经典底层文献（例如 Olson & Wisher 与 Sitzmann 存在 93.3% 重叠），抽样独立性充要条件荡然无存，导致固定效应等价性定理彻底失效。
 > 3. **大样本研究独裁偏差** 由于权重正比于[[Sample Size Determination|样本量]]（$w_i \propto N_i$），少数超大规模研究（即使其[[Implementation Fidelity|实施保真度]]较差）往往垄断整个合并结果，压制小样本但高质量的创新性试验。
 > 4. **实践中的简单平均退化** 许多粗放综合项目（如[[John Hattie|哈蒂]]早期工作及部分传统综述）宣称采用固定效应模型，但在实际操作中却违背[[Inverse-Variance Weighting|逆方差加权]]规则，直接对不同效应量甚至标准误取简单算术平均，造成双重方法学失范。
@@ -246,4 +246,4 @@ updated: 2026-10-16
 > - [[Argument_Higgins_2016_ROE|Higgins (2016)]] — 比较固定效应与[[Random-Effects Model|随机效应模型]]的哲学假设，指出固定效应模型假定存在唯一的单一真值，其推论严格封闭于纳入研究集合。
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch17|Cohen, Manion & Morrison (2011, Ch. 17)]] — 系统介绍元分析[[Inverse-Variance Weighting|逆方差加权]]固定效应合成规程与[[Heterogeneity|异质性]]检验决策门槛。
 > - [[Argument_Abrami_2015_RER|Abrami et al. (2015)]] — 在[[Critical Thinking|批判性思维]]教学干预综合中对比固定与随机效应模型，因真实情境异质性显著而全面转向随机效应模型。
-> - [[Argument_Simpson_2017_JEP|Simpson (2017)]] — 批判在异质性教育干预中机械套用固定效应模型导致的[[Confidence Interval|置信区间]]虚窄与假阳性检验膨胀。
+> - [[Argument_Simpson_2017_JEdPolicy|Simpson (2017)]] — 批判在异质性教育干预中机械套用固定效应模型导致的[[Confidence Interval|置信区间]]虚窄与假阳性检验膨胀。

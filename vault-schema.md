@@ -161,7 +161,7 @@ wiki/
 
 `<JournalAbbrev>` 以 `citation/journals.json` 为唯一命名依据。该文件只存 `{期刊全名: 库内唯一代码}`，无期刊介绍、数量、条目路径、历史缩写或人类可读页面；代码按不区分大小写全库唯一，可使用较长代码消歧。AI 先查表，未登记时用 `.venv/bin/python3 scripts/journal_index.py --register "<期刊全名>" <代码>` 显式登记，脚本不根据新论文文件名自动生成代码，也不覆盖已登记代码。
 
-旧文件名保留，不因新增注册表批量改名。新建或改名的期刊 Argument 必须使用登记代码；已有文件只在 `journal` 全名保持原值时兼容旧名称，修改期刊归属后重新校验。日常以 HEAD 判断旧文件，CI 以 PR 基线或推送前提交判断，防止错误名称随提交后被当作旧名放行。
+旧文件名默认保留，不因新增注册表自动批量改名；用户要求统一旧名称时，按注册表迁移 Argument、source record、本地 PDF 和配套目录，更新正文引用，再由脚本重建索引与关系。新建或改名的期刊 Argument 必须使用登记代码；已有文件只在 `journal` 全名保持原值时兼容旧名称，修改期刊归属后重新校验。日常以 HEAD 判断旧文件，CI 以 PR 基线或推送前提交判断，防止错误名称随提交后被当作旧名放行。
 
 基础索引先运行 `journal_index.py --check`；lint 报告 `JOURNAL_NAMING` / `JOURNAL_REGISTRY_INVALID`，同一规则已接入 CI。`source_record.py article` 新建期刊来源时传入 `--journal "<期刊全名>"`，在移动 PDF 前校验最终 `--record-name`；`finalize` 也校验对应 Argument。书籍与报告不受期刊代码表约束。
 
@@ -373,6 +373,7 @@ Source record 不是完整文献数据库条目，而是来源入口页。
 - `extracted_to` 始终由 `wiki_relations.py` 反向同步，AI 和 `source_record.py finalize` 不手动维护。
 - source record 文件名、一级标题、PDF / EPUB 文件名应保持一致；本地文件保留给 Obsidian 阅读，但不进入 git。
 - NAS 在线地址统一按 vault 相对路径映射到 `https://img.mylikemie.icu/`：例如 `sources/A.pdf` → `https://img.mylikemie.icu/sources/A.pdf`，`books/B/Book.pdf` → `https://img.mylikemie.icu/books/B/Book.pdf`。
+- 仅迁移本地文件名而未迁移 NAS 时，允许保留已发布的 PDF / 图片 URL。使用 `source_record.py finalize --rename --preserve-remote-url` 保留原 PDF iframe 地址；正文图片 URL 同样保留。后续仅回填 citation、未再次改本地 PDF 名称时，finalize 会继续保留来源页中的显式在线地址。不要把在线地址改为尚未发布的新路径，也不新增重复的来源字段。
 - source record 不是普通 wiki 条目，不写 `type`、`subtype`、`tags`、`status`、`related_*`。
 
 ### Source Record Commands

@@ -8,10 +8,10 @@ aliases:
 summary: "用于循证医学、系统评价与循证教育研究中明确界定实证研究问题与纳入排除标准的结构化范式，通过解构人群、干预、对照与结局确保证据综合的内部同质性与因果可比性。"
 type: concept
 domain: "research-methodology"
-related_count: 23
-related_level: 2
-related_stars: "⭐⭐"
-related_color: "#99f6e4"
+related_count: 9
+related_level: 0
+related_stars: "☆"
+related_color: "#e5e7eb"
 tags:
   - concept/research-methodology
   - theme/evidence-based-education
@@ -19,33 +19,19 @@ tags:
   - theme/meta-analysis
   - methodology
 related_concepts:
-  - "[[Variable]]"
-  - "[[Construct]]"
   - "[[Operationalization]]"
-  - "[[Internal Validity]]"
-  - "[[External Validity]]"
-  - "[[Heterogeneity]]"
-  - "[[Study Population and Sample]]"
-  - "[[Dependent Variable]]"
   - "[[Independent Variable]]"
-  - "[[Control Group]]"
+  - "[[Dependent Variable]]"
   - "[[Visible Learning]]"
-  - "[[Critiques of Visible Learning]]"
-  - "[[Critique of Meta-meta-analysis]]"
 related_theories: []
 related_methods:
   - "[[Systematic Review]]"
   - "[[Meta-analysis]]"
   - "[[Meta-meta-analysis]]"
-  - "[[Randomised Controlled Trials]]"
-  - "[[Quasi-Experimental Designs]]"
-  - "[[Thematic Synthesis]]"
-related_instruments:
-  - "[[PRISMA]]"
-  - "[[AMSTAR]]"
+  - "[[Effect Size]]"
+related_instruments: []
 related_persons: []
-related_facts:
-  - "[[Campbell Collaboration]]"
+related_facts: []
 related_arguments:
   - "[[Argument_Kalmendal_2025_PsyArXiv]]"
 confidence: high

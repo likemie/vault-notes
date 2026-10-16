@@ -79,7 +79,7 @@ related_persons:
   - "[[Rainer Kattel]]"
 related_facts: []
 related_arguments:
-  - "[[Argument_Bogliacino_Pianta_2016_EP]]"
+  - "[[Argument_Bogliacino_Pianta_2016_EconPol]]"
   - "[[Argument_Mazzucato_2018_ICC]]"
   - "[[Argument_Kattel_Mazzucato_2018_ICC]]"
   - "[[Argument_Freeman_1995_CJE]]"
@@ -99,13 +99,13 @@ updated: 2026-10-16
 ## 理论定位
 
 > [!theory-position] 理论定位
-> - **解释对象** 解释技术创新、产业演进、企业行为差异与宏观经济长期动态变迁的内在机理，重点解构经济系统中的多样性产生、组织惯例变异、[[Path Dependence|路径依赖]]与动态选择机制。[[Argument_Bogliacino_Pianta_2016_EP|(Bogliacino & Pianta, 2016, pp. 153–156)]]
+> - **解释对象** 解释技术创新、产业演进、企业行为差异与宏观经济长期动态变迁的内在机理，重点解构经济系统中的多样性产生、组织惯例变异、[[Path Dependence|路径依赖]]与动态选择机制。[[Argument_Bogliacino_Pianta_2016_EconPol|(Bogliacino & Pianta, 2016, pp. 153–156)]]
 > - **理论问题** 回应并打破新古典经济学关于完全理性、代表性企业（Representative Agent）、边际最优化行为与静态市场均衡的刚性假设，揭示现实经济如何在极度不确定性与非线性互动中演进。[[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 806–807)]]
 > - **理论类型** 异端经济学理论体系、中观产业演进理论与宏观创新治理哲学。
 > - **知识位置** 承接[[Joseph Schumpeter|熊彼特]]创新理论与西蒙[[Bounded Rationality|有限理性]]假说，是Pavitt 产业分类法、[[Technological Trajectories|技术轨迹]]理论、国家[[Systems of Innovation|创新系统理论]]以及现代[[Market Shaping and Creating|市场塑造]]、[[Public Dynamic Capabilities|公共动态能力]]与使命导向政策的底层基石。
 
 > [!claim] 核心判断
-> 经济系统本质上是一个充满多样性（Variety）、持续[[Heterogeneity|异质性]]（Heterogeneity）、路径依赖与累积性学习（Cumulative Learning）的动态演化复杂网络。市场绝非先验给定的自发均衡实体，而是由公共制度、企业策略与社会需求共同演化塑造的结果；公共政策的根本使命不是被动修补[[Market Failure|市场失灵]]，而是主动设定战略方向、培育公共探索与动态能力，推动治理从被动的“支持与衡量”向主动的“[[Lead-and-Learn Paradigm|引领与学习]]”[[Paradigm|范式]]转变。[[Argument_Bogliacino_Pianta_2016_EP|(Bogliacino & Pianta, 2016, pp. 153–156)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 806–808)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–790)]]
+> 经济系统本质上是一个充满多样性（Variety）、持续[[Heterogeneity|异质性]]（Heterogeneity）、路径依赖与累积性学习（Cumulative Learning）的动态演化复杂网络。市场绝非先验给定的自发均衡实体，而是由公共制度、企业策略与社会需求共同演化塑造的结果；公共政策的根本使命不是被动修补[[Market Failure|市场失灵]]，而是主动设定战略方向、培育公共探索与动态能力，推动治理从被动的“支持与衡量”向主动的“[[Lead-and-Learn Paradigm|引领与学习]]”[[Paradigm|范式]]转变。[[Argument_Bogliacino_Pianta_2016_EconPol|(Bogliacino & Pianta, 2016, pp. 153–156)]]; [[Argument_Mazzucato_2018_ICC|(Mazzucato, 2018, pp. 806–808)]]; [[Argument_Kattel_Mazzucato_2018_ICC|(Kattel & Mazzucato, 2018, pp. 787–790)]]
 
 ---
 
@@ -124,7 +124,7 @@ updated: 2026-10-16
 > - **1982 — 演化经济学正式成型** Nelson and Winter（1982）发表奠基作，建立基于有限理性、搜寻规则与组织惯例的微观演化建模体系。
 > - **1984–1988 — 技术范式与产业分类学确立** [[Argument_Pavitt_1984_RP|Pavitt (1984)]] 提出创新模式分类；Dosi（1982, 1988）确立技术范式与技术轨迹理论。
 > - **1987/1995 — [[National Innovation System|国家创新系统]]与长波范式演进** Freeman（1987, 1995）与 Lundvall 将演化视角注入国家与[[Regional Innovation System|区域创新系统]]；[[Argument_Freeman_1995_CJE|Freeman (1995)]]系统论证[[General Purpose Technology|通用技术]]范式引发的制度滞后，确立制度多样性试错避免路径锁定的演化价值。[[Argument_Freeman_1995_CJE|(Freeman, 1995, pp. 17–19)]]
-> - **2016 — 跨国经验微观[[Heterogeneity|异质性]]再验证** [[Argument_Bogliacino_Pianta_2016_EP|Bogliacino and Pianta (2016)]] 利用大样本微观数据证实产业间与产业内部持久存在的异质性规律。
+> - **2016 — 跨国经验微观[[Heterogeneity|异质性]]再验证** [[Argument_Bogliacino_Pianta_2016_EconPol|Bogliacino and Pianta (2016)]] 利用大样本微观数据证实产业间与产业内部持久存在的异质性规律。
 > - **2018 — 市场塑造与 ROAR 政策框架** [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] 将演化经济学推进为超越[[Market Failure|市场失灵]]修补的主动市场共创与 ROAR 政策框架。
 > - **2018 — 公共部门动态能力与引领学习范式** [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] 突破传统私营企业能力局限，建立国家、政策与行政三层[[Public Dynamic Capabilities|公共部门动态能力]]矩阵，确立演化政策的[[Lead-and-Learn Paradigm|引领与学习范式]]。
 
@@ -184,7 +184,7 @@ updated: 2026-10-16
 > 传统新古典模型将企业间的生产率与策略差异视为围绕代表性均值波动的随机噪音，演化经济学则将其确立为核心分析本体。
 
 > [!claim] Bogliacino & Pianta
-> **微观异质性常态命题** 企业在生产率、研发强度与组织能力上的差异是经济体系演化选择的前提条件与内生驱动力。实证证据表明，法国与意大利制造业同一细分行业内企业生产率差距可达 2–9 倍，美国制造业同一四位数行业内[[Total Factor Productivity|全要素生产率]]差距平均达 2 倍，且这种异质性跨越国家和历史周期持久存在，证明了代表性企业假设的理论虚妄。[[Argument_Bogliacino_Pianta_2016_EP|(Bogliacino & Pianta, 2016, pp. 153–155)]]
+> **微观异质性常态命题** 企业在生产率、研发强度与组织能力上的差异是经济体系演化选择的前提条件与内生驱动力。实证证据表明，法国与意大利制造业同一细分行业内企业生产率差距可达 2–9 倍，美国制造业同一四位数行业内[[Total Factor Productivity|全要素生产率]]差距平均达 2 倍，且这种异质性跨越国家和历史周期持久存在，证明了代表性企业假设的理论虚妄。[[Argument_Bogliacino_Pianta_2016_EconPol|(Bogliacino & Pianta, 2016, pp. 153–155)]]
 
 ---
 
@@ -194,7 +194,7 @@ updated: 2026-10-16
 > 产业层面的创新规律并非杂乱无章，而是受制于底层[[Source of Knowledge|知识来源]]与技术机会的轨迹约束。
 
 > [!claim] Pavitt & Dosi
-> **[[Technological Trajectories|技术轨迹]]决定命题** 产业之间的创新模式差异源于其所处的技术范式与技术轨迹约束。科学基础型产业沿“科学驱动”轨迹演进，供应商主导型产业沿“外部技术采用”轨迹演进；Pavitt 产业分类法在“假定所有行业同质”与“为每个企业单独建模”之间构建了极具解释力的中观[[Operationalization|操作化]]分析工具。[[Argument_Pavitt_1984_RP|(Pavitt, 1984, pp. 343–373)]]; [[Argument_Bogliacino_Pianta_2016_EP|(Bogliacino & Pianta, 2016, pp. 155–156)]]
+> **[[Technological Trajectories|技术轨迹]]决定命题** 产业之间的创新模式差异源于其所处的技术范式与技术轨迹约束。科学基础型产业沿“科学驱动”轨迹演进，供应商主导型产业沿“外部技术采用”轨迹演进；Pavitt 产业分类法在“假定所有行业同质”与“为每个企业单独建模”之间构建了极具解释力的中观[[Operationalization|操作化]]分析工具。[[Argument_Pavitt_1984_RP|(Pavitt, 1984, pp. 343–373)]]; [[Argument_Bogliacino_Pianta_2016_EconPol|(Bogliacino & Pianta, 2016, pp. 155–156)]]
 
 ---
 
@@ -243,7 +243,7 @@ updated: 2026-10-16
 > [!contrast-table] 命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者与文献 |
 > |---|---|---|---|
-> | **微观异质性常态命题** | 论证企业生产率与创新能力差异是经济演化的本体性驱动力 | 产业经济学实证建模、全要素生产率测算与异质性分析 | [[Argument_Bogliacino_Pianta_2016_EP\|Bogliacino and Pianta (2016)]]; Nelson and Winter (1982) |
+> | **微观异质性常态命题** | 论证企业生产率与创新能力差异是经济演化的本体性驱动力 | 产业经济学实证建模、全要素生产率测算与异质性分析 | [[Argument_Bogliacino_Pianta_2016_EconPol\|Bogliacino and Pianta (2016)]]; Nelson and Winter (1982) |
 > | **技术轨迹决定命题** | 阐明不同产业因知识基础与搜寻模式差异形成稳定的分类模式 | 产业技术政策制定、创新模式分类与跨国[[Competitiveness\|竞争力]]比较 | [[Argument_Pavitt_1984_RP\|Pavitt (1984)]]; Dosi (1982, 1988) |
 > | **激进不确定性与路径依赖** | 揭示颠覆性创新在技术与制度空间中的历史锁定与失败必然性 | 国家重大科技专项论证、清洁能源转型与风险投资管理 | 纳尔逊–温特演化学派; [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] |
 > | **主动市场塑造与共创命题** | 论证国家作为前瞻引领者和市场共创者在推动系统转型中的关键角色 | [[Mission-Oriented Innovation Policy\|使命导向创新政策]]、公共开发性金融投资与公私合作契约设计 | [[Mariana Mazzucato\|马祖卡托（市场塑造理论）]]; Perez (2002) |
@@ -255,7 +255,7 @@ updated: 2026-10-16
 ## 理论应用与操作化
 
 > [!feature] 演化经济学在创新与公共政策领域的关键[[Operationalization|操作化]]应用
-> - **中观产业分类与[[Heterogeneity|异质性]]测度** [[Argument_Bogliacino_Pianta_2016_EP|Bogliacino and Pianta (2016)]] 基于演化经济学对异质性的理论强调，利用多国制造业与服务业微观数据，通过主成分分析与计量回归验证了 [[Pavitt Taxonomy|Pavitt 分类法]]在解释技术创新投入与经济绩效转化上的稳健因果力。（pp. 170–175）
+> - **中观产业分类与[[Heterogeneity|异质性]]测度** [[Argument_Bogliacino_Pianta_2016_EconPol|Bogliacino and Pianta (2016)]] 基于演化经济学对异质性的理论强调，利用多国制造业与服务业微观数据，通过主成分分析与计量回归验证了 [[Pavitt Taxonomy|Pavitt 分类法]]在解释技术创新投入与经济绩效转化上的稳健因果力。（pp. 170–175）
 > - **创新与就业动态机制分析** Bogliacino & Pianta（2010, 2011, 2013）基于演化框架区分了“技术[[Competitiveness|竞争力]]”（以产品创新开辟新市场、带动高质量就业）与“成本竞争力”（以流程创新压缩用工成本）两条异质演化路径。
 > - **国家[[Systems of Innovation|创新系统]]（[[National Innovation System|NIS]]）治理** Lundvall（1992）与 Nelson（1993）将演化视角落地为对大学、企业、政府与中介机构间网络交互与制度适配性的诊断，推动政策从资助单一主体转向修补系统失灵。[[Argument_Ulrichsen_2025_UIR_Evolution|(Ulrichsen, 2025, pp. 29–31)]]
 > - **[[Mission-Oriented Innovation Policy|使命导向创新政策]]与 ROAR 框架** [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] 将演化经济学发展为应对重大社会挑战的操作工具，建立涵盖战略路径（Routes）、组织能力（Organizations）、动态评估（Assessment）与风险收益共享（Risks and rewards）的系统工具箱。
@@ -319,7 +319,7 @@ updated: 2026-10-16
 > - [[Argument_Kattel_Mazzucato_2018_ICC|Kattel and Mazzucato (2018)]] — 综合演化动态能力与韦伯国家能力，提出三层[[Public Dynamic Capabilities|公共部门动态能力]]分析矩阵与引领和学习治理[[Paradigm|范式]]。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 将演化经济学推进为超越[[Market Failure|市场失灵]]修补的主动[[Market Shaping and Creating|市场塑造]]理论与 ROAR 政策[[Analytic Framework|分析框架]]。
 > - [[Argument_Reynolds_2024_JICT|Reynolds (2024)]] — 阐释演化经济学在 21 世纪美国现代产业战略中的制度实践，提炼保障产业政策有效落地与组织动态适应的七项过程准则。
-> - [[Argument_Bogliacino_Pianta_2016_EP|Bogliacino and Pianta (2016)]] — 基于大样本微观数据实证检验微观[[Heterogeneity|异质性]]常态与 Pavitt 四大[[Technological Trajectories|技术轨迹]]。
+> - [[Argument_Bogliacino_Pianta_2016_EconPol|Bogliacino and Pianta (2016)]] — 基于大样本微观数据实证检验微观[[Heterogeneity|异质性]]常态与 Pavitt 四大[[Technological Trajectories|技术轨迹]]。
 > - [[Argument_Pavitt_1984_RP|Pavitt (1984)]] — 提出塑造技术轨迹的三大核心要素，奠定演化经济学中观产业分类学的经典基石。
 > - [[Argument_Ulrichsen_2025_UIR_Evolution|Ulrichsen (2025)]] — 梳理演化经济学与[[Innovation Policy Paradigms|创新政策三范式]]演进脉络，分析国家[[Systems of Innovation|创新系统]]中大学角色的转变。
 

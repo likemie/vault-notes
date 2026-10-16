@@ -90,7 +90,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Brint_2023_IHE]]"
   - "[[Argument_Reynolds_2024_JICT]]"
-  - "[[Argument_Bown_2024_JEP]]"
+  - "[[Argument_Bown_2024_JEconPersp]]"
   - "[[Argument_Zhuo_2026_ICE]]"
   - "[[Argument_Bulfone_2024_IAI]]"
   - "[[Argument_Byrne_2025_InnovationCenters]]"
@@ -116,11 +116,11 @@ updated: 2026-10-16
 > [!policy-context] 政策背景
 > - **发布时间 / 发布主体** 2022 年 8 月 9 日由美国国会两党表决通过并由总统乔·拜登正式签署生效（公法第 117-167 号）。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]; [[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 2)]]
 > - **适用地区 / 对象** 全球半导体制造与设计领军企业（[[Taiwan Semiconductor Manufacturing Corporation|台积电]]、三星、美光、英特尔等）、美国[[Research Universities|研究型大学]]、各州区域创新联合体及关键盟友伙伴。
-> - **核心问题导向** 应对制造产能流失、先进制程高度依赖东亚、价值链晶圆制造软肋、半导体高技能人才断层及地缘科技安全竞争。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 91–92)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 18)]]
+> - **核心问题导向** 应对制造产能流失、先进制程高度依赖东亚、价值链晶圆制造软肋、半导体高技能人才断层及地缘科技安全竞争。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 91–92)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 18)]]
 > - **制度位置** 标志着美国冷战后最大规模的联邦直接产业干预转向，与《[[Inflation Reduction Act|通胀削减法案]]》（[[International Reading Association|IRA]]）、《[[Infrastructure Investment and Jobs Act|基础设施投资与就业法案]]》（IIJA）及 2022 年 10 月出口管制新规共同构成了美国现代科技与国家安全治理的支柱体系。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 2–3)]]
 
 > [!factors] 立法动因与深层危机背景
-> - **制造产能流失与先进制程断链危机** 美国在全球半导体制造产能中的份额从 1990 年的 37% 骤降至 2020 年的 12%（2022 年约为 10%），在 10nm 以下尖端先进制程制造上完全依赖东亚（台湾占 90%+、韩国占其余），2020–2022 年新冠疫情引发的芯片大短缺重创美国汽车与工业制造。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 91–92, 95)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 18)]]
+> - **制造产能流失与先进制程断链危机** 美国在全球半导体制造产能中的份额从 1990 年的 37% 骤降至 2020 年的 12%（2022 年约为 10%），在 10nm 以下尖端先进制程制造上完全依赖东亚（台湾占 90%+、韩国占其余），2020–2022 年新冠疫情引发的芯片大短缺重创美国汽车与工业制造。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 91–92, 95)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 18)]]
 > - **两党政治结盟与地缘大国博弈靶标** 在国会两党高度极化的政治生态中，法案成为罕见获得参议院 60% 绝对多数支持的里程碑；拜登政府的发展主义平台与共和党捍卫本土产业的保护主义诉求形成公分母，将遏制技术外流与维护[[Securitization of Technology|技术安全化]]确立为具有强动员力的地缘战略靶标。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 8)]]
 > - **价值链晶圆制造软肋与终端贸易逆差** 美国虽掌控全球 65% 芯片设计份额与 46% 贸易额，但在未加工晶圆制造上高度依赖外部进口，且在下游计算机与通信设备上的贸易逆差持续扩大，面临“微笑曲线”两端强而中间制造中空的结构性脆弱。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 5–6)]]
 > - **区域创新极化与大学产学断层** 传统联邦研发资源高度集中于东西两岸，中西部与内陆地区产业基础薄弱，面临 6.7 万名专业岗位缺口与基础研究向 [[Technology Readiness Level|TRL]] 4–6 中试转化断层，迫切需要通过国家级立法重塑[[Innovation Ecosystem|区域创新生态]]并重构[[Research Universities|研究型大学]]在国家半导体体系中的功能。[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 133–138)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 19–22)]]
@@ -130,14 +130,14 @@ updated: 2026-10-16
 ## 政策文本摘要
 
 > [!claim] 政策核心
-> 《芯片与科学法案》（CHIPS and Science Act）授权总计 2800 亿美元新资金，其中包含 527 亿美元直接资金用于半导体制造补贴与先进研发、25% 制造投资税收抵免，并在科学部分圈定二十项前沿技术清单，授权大幅扩充两大核心科学资助机构预算并设立[[Research Translation|技术转化]]部门，旨在重振美国本土半导体制造能力、重塑[[Research Universities|研究型大学]]研发育人功能并全面强化国家战略科技纵深。[[Argument_Brint_2023_IHE|(Brint, 2023, pp. 9–10)]]; [[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 97–98)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 19–20)]]
+> 《芯片与科学法案》（CHIPS and Science Act）授权总计 2800 亿美元新资金，其中包含 527 亿美元直接资金用于半导体制造补贴与先进研发、25% 制造投资税收抵免，并在科学部分圈定二十项前沿技术清单，授权大幅扩充两大核心科学资助机构预算并设立[[Research Translation|技术转化]]部门，旨在重振美国本土半导体制造能力、重塑[[Research Universities|研究型大学]]研发育人功能并全面强化国家战略科技纵深。[[Argument_Brint_2023_IHE|(Brint, 2023, pp. 9–10)]]; [[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 97–98)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 19–20)]]
 
 > [!policy-design]- 政策设计
 > - **政策目标** 夺回美国在先进制程半导体制造领域的领导地位、吸引先进制程晶圆厂回流本土、圈定前沿技术重点突破、构建跨[[Innovation Ecosystem|区域创新生态]]、保障国家安全芯片供给，并在地缘科技竞争中确立领先优势。[[Argument_Brint_2023_IHE|(Brint, 2023, pp. 9–10)]]
 > - **适用对象** 晶圆制造巨头、先进封装商、材料设备供应商、研究型大学科研团队、区域创新联盟及劳动力培训机构。
 > - **政策工具**
 >   - **直接制造建厂补贴（390 亿美元）** 由联邦商务部集中裁决发放，单项目补贴最高可达资本支出的 15%，用于新建或扩建半导体制造、[[Assemblage|组装]]与封装设施（其中专门划拨 20 亿美元用于保障汽车与军工成熟制程）；[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 7–8)]]
->   - **先进制造投资税收抵免（25% ITC）** 提供为期四年的 25% 联邦投资税收抵免（Section 48D），预估支持规模达 240 亿美元，辅以行政审批提速；[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 97–98)]]
+>   - **先进制造投资税收抵免（25% ITC）** 提供为期四年的 25% 联邦投资税收抵免（Section 48D），预估支持规模达 240 亿美元，辅以行政审批提速；[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 97–98)]]
 >   - **国家科研机构扩容与大学角色重塑** 为[[National Science Foundation|美国国家科学基金会]]（NSF）授权 810 亿美元预算并增设[[Directorate for Technology, Innovation and Partnerships|技术、创新与伙伴关系理事会]]（TIP），专门加速[[Use-Inspired Basic Research|应用启发的基础研究]]与成果转化；为[[Department of Energy|美国能源部]]（DOE）科学办公室授权 305 亿美元增量预算支持前沿技术攻关；[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 19–20)]]
 >   - **先进研发四大支柱专项（110 亿美元直接研发拨款）** 由商务部与国防部联合统筹，构建贯通从基础科学到规模化量产的中试转化体系：
 >     1. **[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）** 研发预算核心中枢，依托独立非营利运营商 [[Natcast]] 运营，布局 300 毫米先进 CMOS 基线线、极紫外（EUV）光刻机时共享、全国[[Multi-Project Wafer|多项目晶圆]]（MPW）流片、云端设计网关（DEG）与劳动力卓越中心（WCoE）；[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–5, 14–20)]]
@@ -145,14 +145,14 @@ updated: 2026-10-16
 >     3. **[[Microelectronics Commons|微电子共用体]]（20 亿美元）** 国防部在全美设立 8 大[[Innovation Hub|区域创新枢纽]]，专攻射频、量子、安全边缘计算及 AI 原型验证，构建军民两用转化走廊；[[Argument_NIST_2023_NSTC|(NIST, 2023, p. 11)]]
 >     4. **芯片计量与制造创新机构（NIST Metrology & [[Manufacturing USA]]）** 研发先进测量标准、数字孪生与智能制造工艺模型；[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 9–10)]]
 >   - **区域技术枢纽（[[Regional Technology and Innovation Hubs|Tech Hubs]] 计划，超 100 亿美元）** 在传统研发落后地区设立国家级技术与[[Innovation Hub|创新中心]]，推动形成多极分布式空间网络；[[Argument_Byrne_2025_InnovationCenters|(Byrne & Clements, 2025, pp. 133–134)]]
->   - **国防与友岸外包专项基金** 设立 20 亿美元国防专用半导体基金与 5 亿美元国际技术安全与创新基金（ITSI Fund）。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 98)]]
+>   - **国防与友岸外包专项基金** 设立 20 亿美元国防专用半导体基金与 5 亿美元国际技术安全与创新基金（ITSI Fund）。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 98)]]
 > - **全流程刚性约束机制（[[Policy Conditionalities]]）**
->   - **国家安全十年护栏条款（National Security Guardrails）** 凡接受直接补贴的企业，在获得资金后 10 年内严禁在关切国家（特别是中国）大幅扩建或新建先进制程制造产能（扩产上限 5%），违者全额追回联邦补贴；[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 97)]]
+>   - **国家安全十年护栏条款（National Security Guardrails）** 凡接受直接补贴的企业，在获得资金后 10 年内严禁在关切国家（特别是中国）大幅扩建或新建先进制程制造产能（扩产上限 5%），违者全额追回联邦补贴；[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 97)]]
 >   - **社会政策附加条款与[[Public Value|公共价值]]护栏** 申请直接补贴超过 1.5 亿美元的企业必须提交为员工及施工人员提供可负担高质量托儿服务的方案；必须遵守法定劳工标准并全额支付符合《戴维斯-培根法》（Davis-Bacon Act）的现行体面工资（Prevailing Wages）；[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 8–9)]]
 >   - **资本再分配纪律与超额利润分享** 严禁将联邦补贴资金用于股票回购（Share buybacks）或向股东发放股息分红；要求受助企业与联邦政府分享超出预定门槛的超额商业利润；由美国国家标准与技术研究院（NIST）行使全周期合规监督、中止拨付与资金追缴权力。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 14–15)]]
 
 > [!citation-card] 芯片法案的资金规模与护栏约束
-> 2022 年《芯片与科学法案》包含 527 亿美元直接资金，其中 390 亿美元用于制造业激励，110 亿美元用于研发和[[Workforce Development|劳动力发展]]；此外还提供 25% 的先进制造投资税收抵免。为了确保国家安全，法案设定了严格的护栏条款：禁止获得补贴的公司在未来 10 年内在被界定为关切国家（特别是中国）大幅扩大先进制程制造产能。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 97)]]
+> 2022 年《芯片与科学法案》包含 527 亿美元直接资金，其中 390 亿美元用于制造业激励，110 亿美元用于研发和[[Workforce Development|劳动力发展]]；此外还提供 25% 的先进制造投资税收抵免。为了确保国家安全，法案设定了严格的护栏条款：禁止获得补贴的公司在未来 10 年内在被界定为关切国家（特别是中国）大幅扩大先进制程制造产能。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 97)]]
 >
 > *The CHIPS and Science Act of 2022 includes \$52.7 billion in direct funding, including \$39 billion for manufacturing incentives and \$11 billion for R&D and workforce development... It also provides a 25 percent advanced manufacturing investment tax credit. To protect national security, the act includes 'guardrails' that prohibit recipients of funding from expanding advanced semiconductor manufacturing capacity in countries of concern, notably China, for 10 years.*
 
@@ -161,7 +161,7 @@ updated: 2026-10-16
 ## 时间线
 
 > [!timeline] 政策演进时间线
-> - **2022-08-09** 拜登总统正式签署《2022 年芯片与科学法案》（公法第 117-167 号）。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 97)]]
+> - **2022-08-09** 拜登总统正式签署《2022 年芯片与科学法案》（公法第 117-167 号）。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 97)]]
 > - **2022-12** [[Taiwan Semiconductor Manufacturing Corporation|台积电]]宣布在亚利桑那州凤凰城投资 400 亿美元兴建前沿晶圆厂。
 > - **2023-01** 国防部高级研究计划局（[[DARPA]]）与半导体研究联盟（[[Semiconductor Research Corporation|SRC]]）依托芯片法案研发战略正式启动 [[Joint University Microelectronics Program 2.0|JUMP 2.0]] 计划，统筹全美顶尖高校成立跨校协同中心。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 23)]]
 > - **2023-02** 美国商务部正式启动首轮 390 亿美元商业制造设施补贴申请流程，同步发布托儿服务、现行工资与超额利润分享细则。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 8–9)]]
@@ -194,7 +194,7 @@ updated: 2026-10-16
 ## 行动者与利益相关者
 
 > [!actor-grid] 权力—利益矩阵
-> - **高权力 · 高利益 — 核心决策与执行者** 美国商务部、国防部、英特尔与[[Taiwan Semiconductor Manufacturing Corporation|台积电]] — 掌控资金分配与先进制程重资产落地。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 100)]]
+> - **高权力 · 高利益 — 核心决策与执行者** 美国商务部、国防部、英特尔与[[Taiwan Semiconductor Manufacturing Corporation|台积电]] — 掌控资金分配与先进制程重资产落地。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 100)]]
 > - **高权力 · 低利益 — 潜在制约者** 国会财政保守派与环境监管机构 — 关注财政赤字与联邦环境审查（NEPA）合规。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, p. 14)]]
 > - **低权力 · 高利益 — 关键受益与执行群体** 美国[[Research Universities|研究型大学]]、[[STEM Education|STEM]] 劳动力、制造工人家长与地方[[Innovation Park|创新园区]] — 获得长期科研拨款、高薪就业岗位与托儿支持。[[Argument_Reynolds_2024_JICT|(Reynolds, 2024, pp. 8–9)]]; [[Argument_Zhuo_2026_ICE|(卓泽林, 2026, pp. 20–22)]]
 > - **低权力 · 低利益 — 边缘受影响群体** 传统无晶圆厂小型初创设计商 — 受益于本土供应链韧性，但直接获得补贴极少。
@@ -215,19 +215,19 @@ updated: 2026-10-16
 > | 利益框架 | 将芯片视为国家生存资产，强调供应链韧性与地缘安全第一 | 强调自由贸易与比较优势，担忧补贴内耗与政府失灵 |
 > | 主要策略 | 巨额直接资助、护栏条款排他性脱钩、友岸外包网络 | 批评生产成本过高、揭露补贴附加社会政策的扭曲 |
 >
-> **关键分歧** 是否应以巨大的纳税人成本和效率损失为代价，强行将高度[[Vertical Disintegration|纵向离散]]与全球分工的制造业拉回本土。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 102–103)]]
+> **关键分歧** 是否应以巨大的纳税人成本和效率损失为代价，强行将高度[[Vertical Disintegration|纵向离散]]与全球分工的制造业拉回本土。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 102–103)]]
 
 ---
 
 ## 效果与评价
 
 > [!indicators]- 评价指标
-> - **投入指标** 527 亿美元直接资金、预估 240 亿美元税收抵免、吸引私人部门超 2000 亿美元配套建厂承诺。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 97–98)]]
+> - **投入指标** 527 亿美元直接资金、预估 240 亿美元税收抵免、吸引私人部门超 2000 亿美元配套建厂承诺。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 97–98)]]
 > - **过程指标** 晶圆厂开工率、环境评估审批速度、[[National Science and Technology Council|NSTC]] 产学联盟会员数与 [[Directorate for Technology, Innovation and Partnerships|TIP]] 资助覆盖率。
 > - **结果指标** 美国先进制程全球制造份额、本土半导体高技能就业增长、对东亚单一节点依赖度下降。
 
 > [!finding-cards] 实施成效与结构反响
-> - **重塑全球先进制程投资流向** 成功吸引[[Taiwan Semiconductor Manufacturing Corporation|台积电]]（亚利桑那州凤凰城超级晶圆厂追加至 650 亿美元）、三星（德州泰勒）、英特尔（俄亥俄与亚利桑那州）及美光（纽约州超级 DRAM 厂）落地，锁定了未来 2nm–4nm 先进产能。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 100)]]; [[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 10)]]
+> - **重塑全球先进制程投资流向** 成功吸引[[Taiwan Semiconductor Manufacturing Corporation|台积电]]（亚利桑那州凤凰城超级晶圆厂追加至 650 亿美元）、三星（德州泰勒）、英特尔（俄亥俄与亚利桑那州）及美光（纽约州超级 DRAM 厂）落地，锁定了未来 2nm–4nm 先进产能。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 100)]]; [[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 10)]]
 > - **开创三代公私研发合作新格局** 推动建立[[National Semiconductor Technology Center|国家半导体技术中心]]（NSTC）与独立非营利受托实体 [[Natcast]]，使[[University-Industry Collaboration|产学合作]]从公司自发投资跃升为国家战略级法定公私合作创新基础设施。[[Argument_Ramming_2025_CorporateSupport|(Ramming, 2025, pp. 235–236)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–5, 21–23)]]
 > - **全流程[[Policy Conditionalities|制度化附加条件]]确立国家权威** 法案开创性地将国家安全护栏（10 年中国扩产限制）、劳工体面工资标准、员工托儿福利、禁止股票回购及超额利润分享等条件作为资金转移契约的前置要求，确保公共资本干预服务于公共战略价值。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 14–15)]]
 > - **联邦集中治理与投资地理高度集聚** 法案依托中央财政直投的高集中度治理实现高效筛选与快速资金下达；2022 年 8 月至 2024 年 2 月全美录得 28 项重大制造投资公告，除台积电（扩建至 650 亿美元）与博世外主要响应者均为美资科技龙头（美光 350 亿、英特尔 300 亿、IBM 200 亿、德州仪器 110 亿、Wolfspeed 55 亿、应用材料 40 亿），且增量投资与新增岗位极度集聚于亚利桑那州与纽约州。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, pp. 9–11)]]
@@ -235,14 +235,14 @@ updated: 2026-10-16
 
 > [!stat-cards]- 核心数据
 > - **2800 亿美元** 《芯片与科学法案》授权的新增科技支出总额（含 [[National Science Foundation|NSF]] 五年 810 亿及能源部科学办公室 305 亿）。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 9)]]
-> - **527 亿美元** 联邦直接预算总额（390 亿制造补贴 + 110 亿研发中枢与设施 + 20 亿国防 + 5 亿 ITSI）。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 97–98)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–3)]]
+> - **527 亿美元** 联邦直接预算总额（390 亿制造补贴 + 110 亿研发中枢与设施 + 20 亿国防 + 5 亿 ITSI）。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 97–98)]]; [[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 2–3)]]
 > - **30 亿美元** 《芯片法案》专门拨付用于[[National Advanced Packaging Manufacturing Program|国家先进封装制造计划]]（NAPMP）的专项资金。[[Argument_NIST_2023_NSTC|(NIST, 2023, p. 26)]]
 > - **20 亿美元** 国防部[[Microelectronics Commons|微电子共用体]]建立 8 个区域中试枢纽的专项拨款。[[Argument_NIST_2023_NSTC|(NIST, 2023, pp. 8, 11)]]
 > - **6.7 万名与 140 万** 预计至 2030 年美国半导体产业面临的专业技术岗位缺口，以及全美面临的高技能技术工人宏观短缺总数。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 20)]]
 > - **28 项与 650 亿美元** 2022 年 8 月至 2024 年 2 月全美因法案激励宣布的制造投资项目数；台积电在亚利桑那州凤凰城晶圆厂扩建后的总投资承诺（获美联邦 66 亿美元补助与至多 50 亿美元贷款）。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 10)]]
 > - **14 所顶尖大学** [[DARPA]] 与 [[Semiconductor Research Corporation|SRC]] 在 JUMP 2.0 框架下由宾夕法尼亚州立大学牵头共建[[Heterogeneous Integration|异构集成]]中心的高校网络规模。[[Argument_Zhuo_2026_ICE|(卓泽林, 2026, p. 23)]]
 > - **25%** 先进半导体制造设施投资税收抵免（ITC）比例。
-> - **5% 上限** 受资助企业 10 年内在中国扩产先进制程（$\le 28\text{nm}$）的严格上限。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 97)]]
+> - **5% 上限** 受资助企业 10 年内在中国扩产先进制程（$\le 28\text{nm}$）的严格上限。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 97)]]
 > - **亚利桑那与纽约州** 吸收法案宣布制造投资额与创造就业岗位最多的前两大受益州。[[Argument_Bulfone_2024_IAI|(Bulfone et al., 2024, p. 11)]]
 > - **1 / 28** 历史同类立法中最终拿到全额拨款并落实的新项目比例。[[Argument_Brint_2023_IHE|(Brint, 2023, p. 10)]]
 > - **30%–50%** 美国本土建设和运营晶圆厂相比东亚（台湾/韩国）高出的额外成本溢价。
@@ -256,8 +256,8 @@ updated: 2026-10-16
 > > [!axis] 补贴有效性 vs 本土高昂制造成本劣势
 > > 争论直接补贴能否弥补美国在劳动力成本、施工周期与上游供应链集聚上的长期劣势。
 > >
-> > - **政府支持派** 认为数十亿美元补贴是启动本土生态重建与克服[[Learning by Doing|干中学]]壁垒的必要催化剂。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 102)]]
-> > - **产业经济学者研判** 指出美国本土晶圆厂运营成本显著高于东亚，一旦联邦补贴耗尽，新厂可能面临持续的长期亏损与市场[[Competitiveness|竞争力]]不足。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 102–103)]]
+> > - **政府支持派** 认为数十亿美元补贴是启动本土生态重建与克服[[Learning by Doing|干中学]]壁垒的必要催化剂。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 102)]]
+> > - **产业经济学者研判** 指出美国本土晶圆厂运营成本显著高于东亚，一旦联邦补贴耗尽，新厂可能面临持续的长期亏损与市场[[Competitiveness|竞争力]]不足。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 102–103)]]
 >
 > > [!axis] 战略聚焦 vs 繁苛社会政策捆绑
 > > 争论补贴申请附加托儿服务、工会用工与利润分享等多元社会目标是否会拖累建厂效率。
@@ -322,7 +322,7 @@ updated: 2026-10-16
 > - [[Argument_NIST_2023_NSTC|NIST (2023)]] — 美国商务部与 NIST 发布的法定研发中枢顶层愿景与战略白皮书，系统解构 110 亿美元研发资金在[[National Semiconductor Technology Center|国家半导体技术中心]]（[[National Science and Technology Council|NSTC]]）共享技术中心、30 亿美元先进封装计划（[[National Advanced Packaging Manufacturing Program|NAPMP]]）、20 亿美元国防部[[Microelectronics Commons|微电子共用体]]及云端设计网关的制度化布局与多元造血治理机制。
 > - [[Argument_NSTC_2024_MicroelectronicsResearch|NSTC (2024)]] — 白宫国家科学技术委员会微电子领导小组依据法案授权发布的《[[National Strategy on Microelectronics Research|国家微电子研究战略]]》，系统阐述四大战略支柱（前沿发现、联邦化中试设施、全谱系劳动力、转化生态）与全政府协同机制。
 > - [[Argument_Brint_2023_IHE|Brint (2023)]] — 分析《芯片与科学法案》对[[Research Universities|研究型大学]]科技研发与理工人才培养的红利，并指出两阶段拨款脱节的制度性风险。
-> - [[Argument_Bown_2024_JEP|Bown and Wang (2024)]] — 评估《芯片与科学法案》对半导体供应链各环节补贴的精准度、经济成本溢价与国家安全护栏条款。
+> - [[Argument_Bown_2024_JEconPersp|Bown and Wang (2024)]] — 评估《芯片与科学法案》对半导体供应链各环节补贴的精准度、经济成本溢价与国家安全护栏条款。
 > - [[Argument_Bulfone_2024_IAI|Bulfone et al. (2024)]] — 采用五维比较产业政策框架对比美欧芯片法案的治理模式、财政承诺与制度化约束。
 > - [[Argument_Murphy_2026_JTS|Murphy Jr. et al. (2026)]] — 实证研究高水平研究型大学在《芯片与科学法案》激励下通过专班机制与工作坊动员跨学科科研团队的微观过程。
 > - [[Argument_Zhuo_2026_ICE|卓泽林 (2026)]] — 系统剖析《芯片与科学法案》统筹推进下美国研究型大学在国家半导体体系中的角色重构、人才梯队培养模式及[[Securitization of Technology|技术安全化]]张力。

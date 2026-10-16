@@ -47,11 +47,11 @@ related_facts:
   - "[[Top Institute for Evidence-Based Education Research]]"
 related_arguments:
   - "[[Argument_Gungor_2026_CP]]"
-  - "[[Argument_Slavin_2019_EP]]"
+  - "[[Argument_Slavin_2019_EducPsychol]]"
 confidence: high
 status: draft
 created: 2026-08-24
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 
 # Cooperative Integrated Reading and Composition
@@ -61,7 +61,7 @@ updated: 2026-09-17
 ## 定义
 
 > [!def] 核心定义
-> 合作整合阅读与写作（Cooperative Integrated Reading and Composition, CIRC）是由 [[Robert Slavin]]、Robert Stevens 与 [[Nancy Madden]] 于 1987 年在约翰霍普金斯大学系统开发的一种针对中小学语言与读写教育的综合性[[Cooperative Learning\|合作学习]]教学模式。该模式将教师主导的显性阅读理解策略精讲与[[Heterogeneity\|异质性]]同伴协作深度融合，通过配对朗读、生字词汇协商、故事语法图解、同伴审阅修改及读写一体化迁移，构建语言输入与输出高频互动的教学流程。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 3)]]; [[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 24)]]
+> 合作整合阅读与写作（Cooperative Integrated Reading and Composition, CIRC）是由 [[Robert Slavin]]、Robert Stevens 与 [[Nancy Madden]] 于 1987 年在约翰霍普金斯大学系统开发的一种针对中小学语言与读写教育的综合性[[Cooperative Learning\|合作学习]]教学模式。该模式将教师主导的显性阅读理解策略精讲与[[Heterogeneity\|异质性]]同伴协作深度融合，通过配对朗读、生字词汇协商、故事语法图解、同伴审阅修改及读写一体化迁移，构建语言输入与输出高频互动的教学流程。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, p. 3)]]; [[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 通过高度结构化的读写任务链，将个体的语言[[Decodification\|解码]]、语义建构与书面表达嵌入[[Peer-Supported Learning\|同伴互助]]与个体责任考核之中。
@@ -132,7 +132,7 @@ updated: 2026-09-17
 > CIRC 不仅是单项课堂教学法，更作为全美标志性全校改革方案的核心读写引擎，经受住了长期大规模实验的严苛检验。
 
 > [!claim] [[Robert Slavin\|Slavin, R.]] E.
-> **作为全校性改革项目的全班核心课程** 在全员成功（[[Success for All]], SFA）方案中，CIRC 被深度整合为小学中高年级（2–6 年级）的全班核心阅读与写作教学体系（TIER 1）。通过全校每天固定 90 分钟的结构化读写操练，配合 80% 教师匿名投票准入与全员专业发展培训，CIRC 支撑了 SFA 在全美 1,000 余所学校的规模化成功落地，并在联邦全面学校改革计划（Comprehensive School Reform, CSR）和《让每个学生都成功法案》（[[Every Student Succeeds Act]], ESSA）中获得最高等级的强有力实证评价（Strong Evidence, $ES = +0.41$）。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 24–25, 27)]]
+> **作为全校性改革项目的全班核心课程** 在全员成功（[[Success for All]], SFA）方案中，CIRC 被深度整合为小学中高年级（2–6 年级）的全班核心阅读与写作教学体系（TIER 1）。通过全校每天固定 90 分钟的结构化读写操练，配合 80% 教师匿名投票准入与全员专业发展培训，CIRC 支撑了 SFA 在全美 1,000 余所学校的规模化成功落地，并在联邦全面学校改革计划（Comprehensive School Reform, CSR）和《让每个学生都成功法案》（[[Every Student Succeeds Act]], ESSA）中获得最高等级的强有力实证评价（Strong Evidence, $ES = +0.41$）。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 24–25, 27)]]
 
 ---
 
@@ -142,7 +142,7 @@ updated: 2026-09-17
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **读写整合高效益** | 配对朗读与清单互评打破读写割裂，干预成效居合作学习各具体技术之首（$ES = 2.04$） | 中小学语言、母语及第二语言读写教学 | Stevens et al. (1987); Slavin (1995); [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] |
-> | **循证全校改革基座** | 作为 SFA 项目核心 Tier 1 读写课程，依托结构化流程与教师培训支撑全校规模化提质 | 弱势学校全校性综合改革、补偿教育与循证政策推广 | [[Argument_Slavin_2019_EP\|Slavin (2019)]]; Borman et al. (2007) |
+> | **循证全校改革基座** | 作为 SFA 项目核心 Tier 1 读写课程，依托结构化流程与教师培训支撑全校规模化提质 | 弱势学校全校性综合改革、补偿教育与循证政策推广 | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]]; Borman et al. (2007) |
 
 ---
 
@@ -151,7 +151,7 @@ updated: 2026-09-17
 > [!dev-timeline] 概念演变
 > - **1987 年 — 原型创立与实证验证** Robert Stevens、[[Robert Slavin]] 与 [[Nancy Madden]] 在约翰霍普金斯大学完成 CIRC 的原型开发与首批对照实验，发表里程碑研究。
 > - **1990 年代 — 全校性综合改革整合** CIRC 被深度整合进全员成功（[[Success for All]]，SFA）全校性教育改革项目中，成为全美数百所小学 2–6 年级阅读写作教学的标准化架构。
-> - **2000–2010 年代 — 联邦 CSR 计划与大规模 [[Randomised Controlled Trials\|RCT]] 检验** 随着美国全面学校改革计划（CSR）的推行与 Borman et al. (2007) 等全国多学区整群随机对照试验的实施，CIRC 随 SFA 项目确立了在循证改革中的标杆地位。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 24)]]
+> - **2000–2010 年代 — 联邦 CSR 计划与大规模 [[Randomised Controlled Trials\|RCT]] 检验** 随着美国全面学校改革计划（CSR）的推行与 Borman et al. (2007) 等全国多学区整群随机对照试验的实施，CIRC 随 SFA 项目确立了在循证改革中的标杆地位。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 24)]]
 > - **2020 年代至今 — 全球跨语言推广与[[Meta-meta-analysis\|二阶元分析]]确证** CIRC 进一步推广至印尼语、土耳其语等多语种教学；[[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] 二阶[[Meta-analysis\|元分析]]确证其干预效应在[[Cooperative Learning\|合作学习]]技术中位居首位（$ES = 2.04$）。[[Argument_Gungor_2026_CP\|(Güngör et al., 2026, pp. 3–5)]]
 
 ---
@@ -163,7 +163,7 @@ updated: 2026-09-17
 > > [!axis] 高结构化脚本规程 vs [[Teacher Professional Agency\|教师专业自主权]]
 > > 探讨高度标准化的教学步骤与清单是否会限制教师的个性化创造空间。
 > >
-> > - **标准化支持派（Slavin, Stevens）** 认为严格的规程是保障教学保真度（[[Implementation Fidelity\|fidelity of implementation]]）与弱势学生托底的关键，确保每位学生都能获得高质量的读写支架。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 25)]]
+> > - **标准化支持派（Slavin, Stevens）** 认为严格的规程是保障教学保真度（[[Implementation Fidelity\|fidelity of implementation]]）与弱势学生托底的关键，确保每位学生都能获得高质量的读写支架。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 25)]]
 > > - **自主权批评派** 认为机械执行故事语法表格与打勾清单容易导致课堂形式主义，可能压制教师根据突发学情灵活调整的专业直觉。
 >
 > > [!axis] 读写一体化系统负担 vs 模块化分离教学
@@ -200,7 +200,7 @@ updated: 2026-09-17
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | Stevens et al. (1987) | 美国小学 3–4 年级语文课堂（涵盖常规班级与融合特殊教育学生） | 准实验对照设计（两学年追踪） | 标准化阅读理解、语言词汇与书面表达写作测试 | CIRC 实验组在标准化阅读理解和写作表达上显著超越传统全班讲读对照组 | $p < .05$，效应稳定 | 奠定了 CIRC 作为独立读写合作学习模式的奠基性实证基础 |
-> | [[Argument_Slavin_2019_EP\|Slavin (2019)]]（汇总 SFA 大规模评估） | 全美千余所薄弱小学（涵盖高比例弱势族裔与贫困儿童） | 多项全国整群 RCT 与长期追踪评估（涵盖 Borman et al. 2007 等 5 项大型研究） | 阅读总分及阶段性读写达标率 | 作为 SFA 核心读写课程，助力项目达成 $ES = +0.41$ 的强效综合阅读增益 | 经受住多轮独立审查 | 确立其在全美联邦循证改革与 [[Top Institute for Evidence-Based Education Research\|TIER]] 1 核心教学中的标杆地位 |
+> | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]]（汇总 SFA 大规模评估） | 全美千余所薄弱小学（涵盖高比例弱势族裔与贫困儿童） | 多项全国整群 RCT 与长期追踪评估（涵盖 Borman et al. 2007 等 5 项大型研究） | 阅读总分及阶段性读写达标率 | 作为 SFA 核心读写课程，助力项目达成 $ES = +0.41$ 的强效综合阅读增益 | 经受住多轮独立审查 | 确立其在全美联邦循证改革与 [[Top Institute for Evidence-Based Education Research\|TIER]] 1 核心教学中的标杆地位 |
 
 ---
 
@@ -208,5 +208,5 @@ updated: 2026-09-17
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Gungor_2026_CP\|Güngör et al. (2026)]] — [[Meta-meta-analysis\|二阶元分析]]，将 CIRC 作为独立[[Cooperative Learning\|合作学习]]技术亚组进行二阶综合，确认其总体[[Effect Size\|效应量]]达到 $ES = 2.04$（显著高于[[Jigsaw\|拼图法]] $0.72$ 与一般合作模式 $0.61$），确立了读写一体化同伴合作教学在教育干预中的标杆地位。
-> - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 梳理 CIRC 作为全员成功（[[Success for All\|SFA]]）旗舰课程基座在全美全校改革与 [[Every Student Succeeds Act\|ESSA]] 循证改革中的实证轨迹与规模化成效。
+> - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 梳理 CIRC 作为全员成功（[[Success for All\|SFA]]）旗舰课程基座在全美全校改革与 [[Every Student Succeeds Act\|ESSA]] 循证改革中的实证轨迹与规模化成效。
 

@@ -43,11 +43,11 @@ related_facts:
   - "[[My School Website]]"
   - "[[Achieve]]"
 related_arguments:
-  - "[[Argument_Metli_2022_IJER]]"
+  - "[[Argument_Metli_2022_IJEdReform]]"
 confidence: high
 status: draft
 created: 2026-08-11
-updated: 2026-10-02
+updated: 2026-10-16
 ---
 
 # Concurrency of Learning in the Core Questionnaire
@@ -58,7 +58,7 @@ updated: 2026-10-02
 
 > [!instrument-profile] [[Concurrency of Learning]] in the Core [[Questionnaire]]
 > - **工具类型** 问卷 / 量表
-> - **开发者与年份** [[Argument_Metli_2022_IJER\|Metli & Akış (2022)]]
+> - **开发者与年份** [[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022)]]
 > - **测量目的** 测量 IB 教师与协调员对学校层面核心组件（[[Theory of Knowledge\|TOK]]、[[Chinese Academy of Sciences|CAS]]、EE）之间并发学习（Concurrency of Learning）状态及其连贯性（Coherence）的感知、实践策略与挑战。
 > - **实施方式** 自陈（由研究者设计并经过外部[[International Education\|国际教育]]专家审查）
 
@@ -127,7 +127,7 @@ updated: 2026-10-02
 >
 > | 研究 | 工具版本 | 样本与用途 | 测量属性 | 关键结果 |
 > |---|---|---|---|---|
-> | [[Argument_Metli_2022_IJER\|Metli & Akış (2022)]] | 原始英文版 | N=40，包括来自土耳其连续与非连续 [[International Baccalaureate\|IB]] 授权学校的 DP 协调员、核心组件教师和学校管理者。用于探讨核心组件连贯性的实现现状。 | 经过熟悉 IB 事务的[[International Education\|国际教育]]专家审查[[Face Validity\|表面效度]]，使用[[Descriptive Analysis\|描述性统计分析]]定量部分。 | 大多数受访者认可核心连贯性对跨学科学习的价值，但在具体联结策略上呈现表面化；超过一半受访者认为核心组件在学校中实际上是孤立运行的（题项7）；学校在发现核心组件联系（题项10）及时间规划上面临显著挑战。 |
+> | [[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022)]] | 原始英文版 | N=40，包括来自土耳其连续与非连续 [[International Baccalaureate\|IB]] 授权学校的 DP 协调员、核心组件教师和学校管理者。用于探讨核心组件连贯性的实现现状。 | 经过熟悉 IB 事务的[[International Education\|国际教育]]专家审查[[Face Validity\|表面效度]]，使用[[Descriptive Analysis\|描述性统计分析]]定量部分。 | 大多数受访者认可核心连贯性对跨学科学习的价值，但在具体联结策略上呈现表面化；超过一半受访者认为核心组件在学校中实际上是孤立运行的（题项7）；学校在发现核心组件联系（题项10）及时间规划上面临显著挑战。 |
 
 ---
 
@@ -138,4 +138,4 @@ updated: 2026-10-02
 >
 > | 版本 | 语言与地区 | 目标人群 | 题项数 | 主要变化 | 来源 |
 > |---|---|---|---|---|---|
-> | 原始版 | 英文，土耳其 | [[IB Diploma Programme\|IB DP]] 管理者与教师 | 20 | 由研究者自编并经过专家审阅 | [[Argument_Metli_2022_IJER\|Metli & Akış (2022)]] |
+> | 原始版 | 英文，土耳其 | [[IB Diploma Programme\|IB DP]] 管理者与教师 | 20 | 由研究者自编并经过专家审阅 | [[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022)]] |

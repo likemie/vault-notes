@@ -38,7 +38,7 @@ related_facts:
   - "[[TIMSS]]"
   - "[[PISA]]"
 related_arguments:
-  - "[[Argument_McDonnell_2013_AJE]]"
+  - "[[Argument_McDonnell_2013_AmJE]]"
 confidence: high
 status: stable
 created: 2026-09-26
@@ -52,7 +52,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> 制度场所转换（Venue Shopping，亦称政策场所搜寻）是弗兰克·R·鲍姆加特纳（Frank R. Baumgartner）与布赖恩·D·琼斯（Bryan D. Jones）在[[Punctuated Equilibrium Theory|断裂平衡理论]]中提出的核心分析概念。该概念指政策行动者在特定决策场所（如国会立法委员会或州议会）面临根深蒂固的既得利益阻碍与制度垄断（Policy Monopoly）时，策略性地脱离原有决策通道，搜寻并转移到对自身主张更具同情心、决策规则更具弹性或门槛更低的替代性制度场所（如司法诉讼、专业行政规制机构、横向政府间联合体或私人慈善资助网络），以此重构[[Policy Image|政策形象]]并打破制度僵局。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–9)]]
+> 制度场所转换（Venue Shopping，亦称政策场所搜寻）是弗兰克·R·鲍姆加特纳（Frank R. Baumgartner）与布赖恩·D·琼斯（Bryan D. Jones）在[[Punctuated Equilibrium Theory|断裂平衡理论]]中提出的核心分析概念。该概念指政策行动者在特定决策场所（如国会立法委员会或州议会）面临根深蒂固的既得利益阻碍与制度垄断（Policy Monopoly）时，策略性地脱离原有决策通道，搜寻并转移到对自身主张更具同情心、决策规则更具弹性或门槛更低的替代性制度场所（如司法诉讼、专业行政规制机构、横向政府间联合体或私人慈善资助网络），以此重构[[Policy Image|政策形象]]并打破制度僵局。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–9)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** [[Policy Entrepreneur|政策企业家]]在分权体制中对不同决策机构进行比较筛选并主动转移博弈主场的行动策略。
@@ -62,7 +62,7 @@ updated: 2026-10-16
 > [!citation-card] 场所转换打破长达百年的分权政策垄断
 > 断裂平衡理论指出，公共政策体系长期处于由主导利益群体把持的制度垄断状态。倡导全面变革的政策企业家若试图打破垄断，必须双管齐下：一方面建立具有强烈危机感的新政策形象以打破原有观念共识，另一方面开展积极的制度场所转换，将决策主场转移到对变革更有利的新制度环境中。在全国课程标准运动中，政策企业家敏锐意识到联邦立法场所充满宪法违宪陷阱，因而果断转换主场至州长协会与专业行政官僚联合体。
 >
-> *Policy entrepreneurs alter well-established policy monopolies by creating a new policy image and by engaging in 'venue shopping' to find alternative decision-making arenas that are more receptive to their arguments. In the [[Common Core State Standards|CCSS]] case, proponents avoided the federal legislative venue and shopped for interstate executive associations to advance voluntary standards.* [[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–9)]]
+> *Policy entrepreneurs alter well-established policy monopolies by creating a new policy image and by engaging in 'venue shopping' to find alternative decision-making arenas that are more receptive to their arguments. In the [[Common Core State Standards|CCSS]] case, proponents avoided the federal legislative venue and shopped for interstate executive associations to advance voluntary standards.* [[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–9)]]
 
 > [!boundary]- 概念边界
 > - 不等于 法律管辖权竞合（Forum Shopping） — 后者主要指诉讼当事人为获取有利于己的判决而在多个有管辖权的法院之间进行诉讼挑选；制度场所转换是广泛发生于行政、立法、司法、跨州联合体及民间资本之间的政治战略转移。
@@ -73,9 +73,9 @@ updated: 2026-10-16
 ## 核心要素
 
 > [!feature] 核心要素
-> - **原有场所的制度僵局识别** 清醒认识到在传统立法场所有强大否决集团（如保守派反对联邦干预、地方学区捍卫自主权）。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, p. 8)]]
+> - **原有场所的制度僵局识别** 清醒认识到在传统立法场所有强大否决集团（如保守派反对联邦干预、地方学区捍卫自主权）。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, p. 8)]]
 > - **替代性场所的筛选与定制** 挑选具备政治声望但无需经历复杂立法辩论的行政联合网络（如[[National Governors Association|全国州长协会]]与[[Council of Chief State School Officers|州首席教育官理事会]]）。
-> - **[[Policy Image|政策形象]]重塑的同步配合** 将原本被界定为“联邦集权削弱地方自治”的争议议题，重新包装为“各州自愿联合维护国家全球经济[[Competitiveness|竞争力]]与教育诚信”的卓越叙事。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–11)]]
+> - **[[Policy Image|政策形象]]重塑的同步配合** 将原本被界定为“联邦集权削弱地方自治”的争议议题，重新包装为“各州自愿联合维护国家全球经济[[Competitiveness|竞争力]]与教育诚信”的卓越叙事。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–11)]]
 
 > [!logic-map]- [[Common Core State Standards|CCSS]] 运动中的制度场所转换路径
 > ```mermaid
@@ -101,7 +101,7 @@ updated: 2026-10-16
 > 传统分权体制中设置了大量否决点，既得利益集团只需守住其中一个节点即可瓦解改革；场所转换的核心功能在于彻底绕开这些预设的关卡。
 
 > [!claim] McDonnell, L. M. & Weatherford, M. S.
-> **规避违宪争议的行政联合转移** 麦克唐纳与韦瑟福德指出，1990 年代美国尝试推行全国统一历史与数学标准在国会惨败的前车之鉴表明，直接通过联邦立法自上而下强推统一标准，必然遭遇联邦侵犯州权的违宪指控与文化战争攻讦。在 [[Common Core State Standards|CCSS]] 运动中，[[Policy Entrepreneur|政策企业家]]实施了极具技巧的场所转换：他们彻底放弃在华盛顿国会寻求立法的传统路径，转而将主场转移至各州州长（[[National Governors Association|NGA]]）与州教育专员（[[Council of Chief State School Officers|CCSSO]]）组成的横向行政联合会，并以私人慈善基金作为推进网络资金源。这一转换使改革得以“各州完全自愿联合”的法律名义运作，有效解除了联邦集权的宪政警报。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–9, 21)]]
+> **规避违宪争议的行政联合转移** 麦克唐纳与韦瑟福德指出，1990 年代美国尝试推行全国统一历史与数学标准在国会惨败的前车之鉴表明，直接通过联邦立法自上而下强推统一标准，必然遭遇联邦侵犯州权的违宪指控与文化战争攻讦。在 [[Common Core State Standards|CCSS]] 运动中，[[Policy Entrepreneur|政策企业家]]实施了极具技巧的场所转换：他们彻底放弃在华盛顿国会寻求立法的传统路径，转而将主场转移至各州州长（[[National Governors Association|NGA]]）与州教育专员（[[Council of Chief State School Officers|CCSSO]]）组成的横向行政联合会，并以私人慈善基金作为推进网络资金源。这一转换使改革得以“各州完全自愿联合”的法律名义运作，有效解除了联邦集权的宪政警报。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–9, 21)]]
 
 ---
 
@@ -111,7 +111,7 @@ updated: 2026-10-16
 > 光换场地并不足以确保成功，新场地必须配套新证据与新话语，以适应新受众的合法性要求。
 
 > [!claim] McDonnell, L. M. & Weatherford, M. S.
-> **以危机数据支撑新制度场所的合法性** 场所转换成功的前提是行动者为议题建构了全新的[[Policy Image|政策形象]]。在转向 NGA 与 CCSSO 的同时，政策企业家迅速抛弃了以往抽象的文化价值辩论，转而动员美国国家教育统计中心（NCES）关于各州自设合格线存在巨大虚假水分的刻度映射数据，以及国际测评（[[TIMSS]]/[[PISA]]）所呈现的[[Competitiveness|国家竞争力]]滑坡指标。这套具有震撼力的实证证据使各州行政首长深信，各州自行其是的百年垄断正在给美国经济制造致命伤害，从而使新场所内的行政协调获得了无可辩驳的合法正当性。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8–11)]]
+> **以危机数据支撑新制度场所的合法性** 场所转换成功的前提是行动者为议题建构了全新的[[Policy Image|政策形象]]。在转向 NGA 与 CCSSO 的同时，政策企业家迅速抛弃了以往抽象的文化价值辩论，转而动员美国国家教育统计中心（NCES）关于各州自设合格线存在巨大虚假水分的刻度映射数据，以及国际测评（[[TIMSS]]/[[PISA]]）所呈现的[[Competitiveness|国家竞争力]]滑坡指标。这套具有震撼力的实证证据使各州行政首长深信，各州自行其是的百年垄断正在给美国经济制造致命伤害，从而使新场所内的行政协调获得了无可辩驳的合法正当性。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8–11)]]
 
 ---
 
@@ -130,7 +130,7 @@ updated: 2026-10-16
 > [!dev-timeline] 概念演变
 > - **1993年 — 鲍姆加特纳与琼斯提出断裂平衡** 在《美国政治中的议程与不稳定性》中首次系统阐发制度场所转换，用于解释美国民权、核能与控烟政策的突变。
 > - **2003年 — 比较政治学与多层治理扩展** 普拉尔（Sarah B. Pralle）等学者将场所转换扩展至加拿大与欧洲的多层级治理网络，探讨地方利益如何游说跨国联盟。
-> - **2013年 — 教育联邦主义与横向治理应用** 麦克唐纳与韦瑟福德将该概念应用于美国跨州教育标准改革，展示了跨州横向行政组织与私人慈善基金如何作为新型场所突破宪政分权壁垒。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–9)]]
+> - **2013年 — 教育联邦主义与横向治理应用** 麦克唐纳与韦瑟福德将该概念应用于美国跨州教育标准改革，展示了跨州横向行政组织与私人慈善基金如何作为新型场所突破宪政分权壁垒。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 3–5, 8–9)]]
 
 ---
 
@@ -140,7 +140,7 @@ updated: 2026-10-16
 >
 > > [!axis] 场所转换是否属于对代议制民主的规避与侵蚀？
 > > - **行政效能论** 认为在极化政治导致国会常年停摆的体制下，通过横向政府间联合开展专业协商是维持国家治理能力的可行创新路径。
-> > - **民主赤字论** 批评指出场所转换本质上是精英阶层利用制度漏洞绕过公开选举与立法听证，将事关重大的公共教育政策变成非民选智库与官僚的闭门共谋。[[Argument_McDonnell_2013_AJE|(McDonnell & Weatherford, 2013, pp. 8, 20)]]
+> > - **民主赤字论** 批评指出场所转换本质上是精英阶层利用制度漏洞绕过公开选举与立法听证，将事关重大的公共教育政策变成非民选智库与官僚的闭门共谋。[[Argument_McDonnell_2013_AmJE|(McDonnell & Weatherford, 2013, pp. 8, 20)]]
 
 > [!warning] 适用局限
 > 场所转换能够高效实现政策文本的起草与表决过关，但在随后的基层实施阶段，原先被绕过的基层利益相关者（如基层学区、一线家长、州议员）往往会在原有场所内发起反击，引发强烈的政策回摆风险。
@@ -150,6 +150,6 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_McDonnell_2013_AJE|McDonnell and Weatherford (2013)]] — 系统记录了 [[Common Core State Standards|CCSS]] [[Policy Entrepreneur|政策企业家]]如何绕开易引发违宪争议的联邦立法场所，转换至各州行政联合会（[[National Governors Association|NGA]]/[[Council of Chief State School Officers|CCSSO]]）与慈善资本场所实现政策突围的[[Process Tracing|过程追踪分析]]。
+> - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 系统记录了 [[Common Core State Standards|CCSS]] [[Policy Entrepreneur|政策企业家]]如何绕开易引发违宪争议的联邦立法场所，转换至各州行政联合会（[[National Governors Association|NGA]]/[[Council of Chief State School Officers|CCSSO]]）与慈善资本场所实现政策突围的[[Process Tracing|过程追踪分析]]。
 
 ---

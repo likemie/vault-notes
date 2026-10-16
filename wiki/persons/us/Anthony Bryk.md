@@ -46,12 +46,12 @@ related_facts:
   - "[[OECD]]"
 related_arguments:
   - "[[Argument_Peterson_2016_IJRME]]"
-  - "[[Argument_Nelson_2017_ER]]"
+  - "[[Argument_Nelson_2017_EducRes]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
 confidence: medium
 status: draft
 created: '2026-05-02'
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Anthony Bryk
@@ -103,7 +103,7 @@ updated: 2026-10-07
 > Bryk 的核心思想在于通过系统视角与网络协作克服传统[[Evidence-Based Education\|循证教育]]（Evidence-Based Education, EBE）中 “什么有效（What Works）” [[Paradigm\|范式]]的机械化与去情境化倾向。他认为，教育改进的科学探索不能依靠一次性的宏观二选一决策，而必须深入教育系统内部，研究实践中的跨情境变异性，依靠由一线教师和研究者协同组成的网络化改进共同体（NICs），在复杂的具体情境中进行小步迭代与持续的局部调整，最终沉淀出 “[[Practice-Based Evidence\|基于实践的证据]]”。
 
 > [!axioms] 核心命题一：基于实践的证据 (Practice-Based Evidence)
-> 教育者在教学一线产生的细粒度、与实践紧密相关的知识，能够形塑性地支持教师的专业学习 and 学生成就。这种基于实践的证据，是连通外部研究证据与学校实际改进之间的关键桥梁，它构成了循证实践（[[Evidence-Informed Practice]], EIP）中超越纯[[Pragmatism in China\|实验主义]]的一条中间道路。([[Argument_Nelson_2017_ER\|Nelson & Campbell, 2017, p. 129]])
+> 教育者在教学一线产生的细粒度、与实践紧密相关的知识，能够形塑性地支持教师的专业学习 and 学生成就。这种基于实践的证据，是连通外部研究证据与学校实际改进之间的关键桥梁，它构成了循证实践（[[Evidence-Informed Practice]], EIP）中超越纯[[Pragmatism in China\|实验主义]]的一条中间道路。([[Argument_Nelson_2017_EducRes\|Nelson & Campbell, 2017, p. 129]])
 
 > [!warning] 核心命题二：反对去情境化的证据包 (Against Decontextualized Evidence Packs)
 > 传统的 “什么有效” 范式（以[[Randomised Controlled Trials\|随机对照试验]]（Randomised Controlled Trials, RCTs）为中心）存在重大局限：它生成的证据通常仅适用于宏观的、非此即彼的二选一决策，易导致学校机械套用去情境化的 “证据包” 却以失败告终。教育情境中各因素相互依赖，学校应当关注具体实践中互动和过程如何产生变革，而非盲目复制无情境的程序性方案。([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 300, 306]])；另见 ([[Argument_Wrigley_2018_BERJ\|Wrigley, 2018, p. 14]])
@@ -121,12 +121,12 @@ updated: 2026-10-07
 ## 影响路径
 
 > [!influence-path] 影响路径
-> - **理论路径** 在 [[Evidence-Informed Practice\|EIP]] 中建立起 “[[Practice-Based Evidence\|基于实践的证据]]” 和 “[[Improvement Science\|改进科学]]” 的[[Discourse|话语]]体系，为超越[[Paradigm Wars\|范式战争]]提供了中间立场。([[Argument_Nelson_2017_ER\|Nelson & Campbell, 2017, p. 129]])；另见 ([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 300]])
+> - **理论路径** 在 [[Evidence-Informed Practice\|EIP]] 中建立起 “[[Practice-Based Evidence\|基于实践的证据]]” 和 “[[Improvement Science\|改进科学]]” 的[[Discourse|话语]]体系，为超越[[Paradigm Wars\|范式战争]]提供了中间立场。([[Argument_Nelson_2017_EducRes\|Nelson & Campbell, 2017, p. 129]])；另见 ([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 300]])
 > - **方法路径** 通过网络反馈循环和小步改变（如计划-执行-研究-行动［Plan-Do-Study-Act, PDSA］循环）将注意力从完整程序协议转向真实变化机制。([[Argument_Peterson_2016_IJRME\|Peterson, 2016, p. 306–307]])
 > - **政策路径** 作为卡内基教学促进基金会的主导议题，推动了美国学校改进的网络化协作模式；同时激发了如[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development, OECD）等国际组织对创新学习系统规模化路径的探讨。
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]
-> - [[Argument_Nelson_2017_ER\|Nelson & Campbell, 2017]] — 将 Bryk 于 2015 年提出的 “基于实践的证据” 定位为 EIP 生态系统中的关键中介与专业支持。
+> - [[Argument_Nelson_2017_EducRes\|Nelson & Campbell, 2017]] — 将 Bryk 于 2015 年提出的 “基于实践的证据” 定位为 EIP 生态系统中的关键中介与专业支持。
 > - [[Argument_Peterson_2016_IJRME\|Peterson, 2016]] — 探讨将实验科学的[[Mechanism Experiments\|机制实验]]与 Bryk 等的改进科学进行双向整合，作为 “什么有效 2.0” 的底层基础。
 > - [[Argument_Wrigley_2018_BERJ\|Wrigley, 2018]] — 引用 NICs 作为超越传统 [[Evidence-Based Education\|EBE]] “单一平均[[Effect Size\|效应量]]” 压制、开展情境化民主探究的重要替代方案。
 

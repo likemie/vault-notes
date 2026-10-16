@@ -40,7 +40,7 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
-  - "[[Argument_Serpell_2020_EP]]"
+  - "[[Argument_Serpell_2020_EducPsychol]]"
 confidence: high
 status: draft
 created: 2026-08-26
@@ -91,9 +91,9 @@ updated: 2026-10-16
 > 研究不是以“研究发现→直接采纳”的线性方式进入政策与实践，而是通过多种路径——直接应用、[[Problem Solving\|问题解决]]、持续互动、策略性引用——并以“知识渗透”般的缓慢方式改变决策者的思维。[[Research Utilization\|研究利用]]因此是扩散性、累积性的，而非即时因果输入。
 
 > [!feature] 政策决策中的证据燃料论、价值本质与委员会吸收机制
-> - **证据作为辩护“燃料”而非变革“引擎”（Research as Fuel, Not Engine）** Weiss（1991）与 Haskins and Baron（2011）深刻洞察到，在突发事件激活的政策时间系统中，政治家通常在数小时内被迫宣布政策立场；在极速立场锁定的关口，议员办公室开始迫切搜寻证据以赋予该立场合法性。因此，实证科学极少能够扮演发起[[Theories of Policy Change\|政策变革]]的首要引擎（driving force），但往往充当着至关重要的辩护燃料（fuel）。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 42)]]
-> - **政策制定本质上关乎价值立场（Policymaking is About Values）** Weiss（1977）指出，政策辩论的核心是价值观念与政治哲学的交锋，而非[[Technical Rationality\|技术理性]]的算计。立法者主要利用研究强化预先存在的政治信念并为其施政口号提供注脚；策略性挑选（cherry-pick）符合立场的文献是政治世界维系选民联盟的理性行为，学者必须理解并合理嵌入立法者的价值框架。（Weiss et al., 2008; [[Argument_Serpell_2020_EP\|Serpell, 2020, pp. 42–43]]）
-> - **国会常设委员会作为实证分析的核心用户（Committees as Users of Analysis）** Weiss（1989）对美国国会的研究证实，相较于议员个人办公室面对选民突发事件的快节奏应付，国会常设委员会的专业幕僚拥有更长远的政策视野、更强的专业知识与更高的实证利用意愿，构成了学术证据实质性嵌入法案文本的最关键制度载体。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 45)]]
+> - **证据作为辩护“燃料”而非变革“引擎”（Research as Fuel, Not Engine）** Weiss（1991）与 Haskins and Baron（2011）深刻洞察到，在突发事件激活的政策时间系统中，政治家通常在数小时内被迫宣布政策立场；在极速立场锁定的关口，议员办公室开始迫切搜寻证据以赋予该立场合法性。因此，实证科学极少能够扮演发起[[Theories of Policy Change\|政策变革]]的首要引擎（driving force），但往往充当着至关重要的辩护燃料（fuel）。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 42)]]
+> - **政策制定本质上关乎价值立场（Policymaking is About Values）** Weiss（1977）指出，政策辩论的核心是价值观念与政治哲学的交锋，而非[[Technical Rationality\|技术理性]]的算计。立法者主要利用研究强化预先存在的政治信念并为其施政口号提供注脚；策略性挑选（cherry-pick）符合立场的文献是政治世界维系选民联盟的理性行为，学者必须理解并合理嵌入立法者的价值框架。（Weiss et al., 2008; [[Argument_Serpell_2020_EducPsychol\|Serpell, 2020, pp. 42–43]]）
+> - **国会常设委员会作为实证分析的核心用户（Committees as Users of Analysis）** Weiss（1989）对美国国会的研究证实，相较于议员个人办公室面对选民突发事件的快节奏应付，国会常设委员会的专业幕僚拥有更长远的政策视野、更强的专业知识与更高的实证利用意愿，构成了学术证据实质性嵌入法案文本的最关键制度载体。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 45)]]
 
 > [!citation-card]- 关键表述
 > Weiss（1980, p. 381）把[[Conceptual, Instrumental, and Symbolic Use of Research\|概念性使用]]称为"知识渗透"（knowledge creep）：研究以复杂而往往间接的方式为实践者提供信息，影响他们对议题的理解与思考（[[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al., 2026, p.3]]）。
@@ -108,11 +108,11 @@ updated: 2026-10-16
 > - **理论路径** 为[[Research Utilization\|研究利用]]研究奠定基础，七种模型与"知识渗透"概念被后续研究使用综述（如 Hagevold et al., 2026）反复援引。
 > - **方法路径** 推动研究者从"研究是否被使用"转向"研究以什么方式被使用"，并影响概念性、工具性与[[Conceptual, Instrumental, and Symbolic Use of Research\|象征性使用]]类型学。
 > - **政策路径** 其思想进入证据本位与证据知情政策的讨论，成为解释"研究为何没有直接被采纳"的常用框架。
-> - **立法实务印证** 其关于政策价值负荷、国会委员会分析利用与适时介入等经典洞见，在后续学者对美国联邦立法实务的研究中得到系统验证。[[Argument_Serpell_2020_EP\|(Serpell, 2020, pp. 40–45)]]
+> - **立法实务印证** 其关于政策价值负荷、国会委员会分析利用与适时介入等经典洞见，在后续学者对美国联邦立法实务的研究中得到系统验证。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, pp. 40–45)]]
 
 > [!evidence-grid-a]- [[Correlational Research\|相关研究]]索引
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] 援引 Weiss（1979, 1980）的[[Research Utilization Models\|研究利用模型]]与知识渗透概念，作为[[Framework Synthesis\|框架综合]]先验框架中"研究使用的多重意义"的来源。
-> - [[Argument_Serpell_2020_EP\|Serpell (2020)]] 援引 Weiss（1977, 1989, 1991）关于政策价值负荷性、国会委员会证据使用以及政策倡导时机的重要论述，为[[Navigational Framework for Educational Researchers\|教育研究者政策导航框架]]提供基础理论依托。
+> - [[Argument_Serpell_2020_EducPsychol\|Serpell (2020)]] 援引 Weiss（1977, 1989, 1991）关于政策价值负荷性、国会委员会证据使用以及政策倡导时机的重要论述，为[[Navigational Framework for Educational Researchers\|教育研究者政策导航框架]]提供基础理论依托。
 
 ---
 

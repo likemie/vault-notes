@@ -65,11 +65,11 @@ related_facts:
 related_arguments:
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
   - "[[Argument_Pellegrini_2021_ECNUROE]]"
-  - "[[Argument_Nelson_2017_ER]]"
+  - "[[Argument_Nelson_2017_EducRes]]"
 confidence: high
 status: active
 created: 2026-05-23
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Centre for the Use of Research and Evidence in Education
@@ -95,7 +95,7 @@ updated: 2026-10-15
 > - **1990 年代末 — 创设与教师学习专注** 菲莉帕·科丁利组建 CUREE，在英国普遍聚焦宏观政策证据的时代，独树一帜地将工作重心锚定在“教师在职专业发展”（CPD）与课堂教学法上。
 > - **2003–2005 — 协作型 CPD [[Systematic Review\|系统综述]]奠基** 联合大学学者开展划时代的教师专业发展系统综述（Cordingley et al., 2003），实证证实“协作型同行专业学习（Collaborative CPD）”相较于传统的单向灌输培训，对改善学生学业与改变教师行为具有决定性优势。
 > - **2007 — [[OECD]] 报告确立为微观实践先驱** 经合组织 2007 年首份报告指出，当时英国 [[EPPI-Centre]]、美国 [[What Works Clearinghouse\|WWC]] 与新西兰 BES 整体严重偏向宏观政策决策，而 CUREE 是极少数专精于学校微观实践的独立中介标杆([[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns & Schuller, 2022, p. 57]])。
-> - **2011 — 实践者参与研究里程碑调查** 受英国综合教师委员会（GTCE）委托发布系统综述，揭示教师参与研究对学校改进具有显著效益，但由于缺乏常态化制度支持，其从个人尝试走向全校文化依然进展缓慢([[Argument_Nelson_2017_ER\|Nelson & Campbell, 2017, p. 130]])。
+> - **2011 — 实践者参与研究里程碑调查** 受英国综合教师委员会（GTCE）委托发布系统综述，揭示教师参与研究对学校改进具有显著效益，但由于缺乏常态化制度支持，其从个人尝试走向全校文化依然进展缓慢([[Argument_Nelson_2017_EducRes\|Nelson & Campbell, 2017, p. 130]])。
 > - **2010 年代至今 — 研究路线图与国家教练框架深化** 研发“研究路线图”（Research Route Maps）交互工具，参与制定英国国家教学辅导与指导框架（National Coaching and Mentoring Framework），常态化通过 [curee.co.uk](http://www.curee.co.uk) 输出微观教学转译资源。
 
 ---
@@ -134,7 +134,7 @@ updated: 2026-10-15
 
 > [!indicators]- 影响力维度与指标
 > - **补足清算中心的“最后一公里”断层** 弥补了传统清算中心（如 [[What Works Clearinghouse\|WWC]]）仅提供宏观[[Effect Size\|效应量]]与达标评级、却无法指导教师微观课堂操作的致命脱节([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, p. 34]])。
-> - **确立[[Practice-Based Evidence\|实践本位证据]]（PBE）的尊严** 坚决捍卫实践者从日常反思中生成的细粒度情境知识，推动学界承认教师不是被动接受外部处方的操作工，而是知识的能动共创者([[Argument_Nelson_2017_ER\|Nelson & Campbell, 2017, p. 129]])。
+> - **确立[[Practice-Based Evidence\|实践本位证据]]（PBE）的尊严** 坚决捍卫实践者从日常反思中生成的细粒度情境知识，推动学界承认教师不是被动接受外部处方的操作工，而是知识的能动共创者([[Argument_Nelson_2017_EducRes\|Nelson & Campbell, 2017, p. 129]])。
 > - **重塑英国教师在职培训标准** 其关于“协作型专业学习”的实证证据被英国教育部直接吸纳为《教师专业发展标准》的核心支柱。
 
 > [!finding-cards] [[Paradigm\|范式]]贡献与专业赋权
@@ -156,7 +156,7 @@ updated: 2026-10-15
 > > 争论面向微观教学的转译工具是否牺牲了方法学严谨性。
 > >
 > > - **因果[[Positivism\|实证主义]]质疑** 批评 CUREE 吸纳的实践研究与教师反思多为小规模[[Qualitative Research\|定性研究]]或[[Action Research\|行动研究]]，[[Sample Size Determination\|样本量]]小且缺乏严密的随机对照控制，可能存在主观偏倚。
-> > - **CUREE 与[[Critical Realism\|批判实在论]]辩护** 盲目追求去情境化的 [[Randomised Controlled Trials\|RCT]] 平均[[Effect Size\|效应量]]无法指导复杂的微观课堂；唯有深入教学细节的“[[Practice-Based Evidence\|实践本位证据]]”（Practice-Based Evidence）与反思审议，才能真正激发深层次学习变革([[Argument_Nelson_2017_ER\|Nelson & Campbell, 2017, pp. 129, 132]])。
+> > - **CUREE 与[[Critical Realism\|批判实在论]]辩护** 盲目追求去情境化的 [[Randomised Controlled Trials\|RCT]] 平均[[Effect Size\|效应量]]无法指导复杂的微观课堂；唯有深入教学细节的“[[Practice-Based Evidence\|实践本位证据]]”（Practice-Based Evidence）与反思审议，才能真正激发深层次学习变革([[Argument_Nelson_2017_EducRes\|Nelson & Campbell, 2017, pp. 129, 132]])。
 
 > [!warning] 运行局限
 > - **无法替代[[External Validity\|外部效度]]评估** 传播与转译工具虽降低了[[Research Utilization\|证据使用]]门槛，但无法自动保障结论在不同学校生态中的普适性，教师依然需要保持对本地情境适配性的独立审慎判断([[Argument_Pellegrini_2021_ECNUROE\|Pellegrini & Vivanet, 2021, pp. 34–36]])。

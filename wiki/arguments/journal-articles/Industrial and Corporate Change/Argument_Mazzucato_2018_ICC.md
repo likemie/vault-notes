@@ -4,6 +4,7 @@ type: argument
 authors:
   - "[[Mariana Mazzucato|Mazzucato, M.]]"
 source_language: en
+journal: Industrial and Corporate Change
 citation: "Mazzucato, M. (2018). Mission-oriented innovation policies: challenges and opportunities. Industrial and Corporate Change, 27(5), 803–815. https://doi.org/10.1093/icc/dty034"
 year: 2018
 doi: "10.1093/icc/dty034"

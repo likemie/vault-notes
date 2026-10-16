@@ -51,7 +51,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
-  - "[[Argument_Johnson_2023_CE]]"
+  - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 confidence: high
 status: draft
@@ -132,7 +132,7 @@ updated: 2026-10-16
 > 探讨硬科学实验室变量操纵范式移植至教育领域时，为何无法提炼出真正的有效规律，反而摧毁了育人本质。
 
 > [!claim] Phillips; Eisner; Johnson & Janzen
-> **控制外部变量消解教育生态效度** 科学哲学家丹尼斯·菲利普斯（Denis Phillips, 2014）与教育学者[[Elliott Eisner|埃利奥特·艾斯纳]]（Elliott Eisner, 1983）深刻指出，物理学等硬科学之所以能取得巨大突破，在于其能在高度隔绝的实验室中控制变量以做出极精确的预测。然而在真实的学校与课堂中，学生的社会阶层、家庭贫困、文化背景、即时情绪与人际关系并非物理实验中应当被清洗掉的噪音（nuisances），而是构成育人实践的人文核心。艾斯纳强调，教学是一项无法被预设为狭隘行为指标的动态艺术；试图通过统计控制或实验操纵手段清洗环境变量以推导所谓普适[[Effective Teaching|有效教学]]清单（如《可见学习》[[Meta-meta-analysis|二阶元分析]]），不仅无法提升教学，反而彻底摧毁了研究的生态效度，蜕变为丧失现实生命力的[[Cargo Cult Science|货物崇拜科学]]。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 35–36)]]
+> **控制外部变量消解教育生态效度** 科学哲学家丹尼斯·菲利普斯（Denis Phillips, 2014）与教育学者[[Elliott Eisner|埃利奥特·艾斯纳]]（Elliott Eisner, 1983）深刻指出，物理学等硬科学之所以能取得巨大突破，在于其能在高度隔绝的实验室中控制变量以做出极精确的预测。然而在真实的学校与课堂中，学生的社会阶层、家庭贫困、文化背景、即时情绪与人际关系并非物理实验中应当被清洗掉的噪音（nuisances），而是构成育人实践的人文核心。艾斯纳强调，教学是一项无法被预设为狭隘行为指标的动态艺术；试图通过统计控制或实验操纵手段清洗环境变量以推导所谓普适[[Effective Teaching|有效教学]]清单（如《可见学习》[[Meta-meta-analysis|二阶元分析]]），不仅无法提升教学，反而彻底摧毁了研究的生态效度，蜕变为丧失现实生命力的[[Cargo Cult Science|货物崇拜科学]]。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 35–36)]]
 
 ---
 
@@ -164,7 +164,7 @@ updated: 2026-10-16
 > - **1983 年 — 教学的人际艺术与反行为[[Disciplina and Doctrina|规训]]** [[Elliott Eisner|埃利奥特·艾斯纳]]发表《教学的艺术与工艺》（Eisner, 1983），指出教育是极其复杂的动态人际过程，预设的行为目标无法概括育人全貌，奠定人文生态评价思想。
 > - **1990 年代 — 教育政策粉笔层面转向** Schofield (1990) 提出去情境化法则与情境[[Rich and Thick Description|厚描述]]之争；Brock-Utne (1996) 正式将生态效度运用于教育政策研究，倡导追踪政策在真实课堂中的变形。
 > - **2008 年 — 教室世界非实验室定性** Hammersley (2008) 论证控制[[Variable|变量]]的实验室试验在原则上歪曲了教室真实生态，在高度控制下发现的效应难以适用于现实情境。
-> - **2014–2023 年 — 科学哲学深化与[[Critique of Meta-meta-analysis|二阶元分析批判]]** 科学哲学家 Phillips (2014) 系统阐述硬科学实验室控制在教育中移除生态效度的机制；[[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]] 结合 Eisner 理论，将生态效度作为核心支架，系统解构了《可见学习》抹杀学校生态情境的[[Neo-Taylorism|新泰勒主义]]技术主义弊端。
+> - **2014–2023 年 — 科学哲学深化与[[Critique of Meta-meta-analysis|二阶元分析批判]]** 科学哲学家 Phillips (2014) 系统阐述硬科学实验室控制在教育中移除生态效度的机制；[[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] 结合 Eisner 理论，将生态效度作为核心支架，系统解构了《可见学习》抹杀学校生态情境的[[Neo-Taylorism|新泰勒主义]]技术主义弊端。
 
 ---
 
@@ -176,7 +176,7 @@ updated: 2026-10-16
 > > 争论教育研究是否应全力追求物理学式的实验单[[Variable|变量]]控制。
 > >
 > > - **实验控制派（Carnine, 2000; Hattie, 2009）** 主张教育必须效仿硬科学消除外部噪音，通过实验操纵或[[Meta-meta-analysis|二阶元分析]]加权剥离混杂变量，提炼普适有效规律。
-> > - **生态情境派（Phillips, 2014; Eisner, 1983; [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）** 强调课堂中的学生背景与人际互动恰恰是育人本体，消除这些变量就彻底消灭了生态效度，生产出无意义的假象。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 35–36)]]
+> > - **生态情境派（Phillips, 2014; Eisner, 1983; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）** 强调课堂中的学生背景与人际互动恰恰是育人本体，消除这些变量就彻底消灭了生态效度，生产出无意义的假象。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 35–36)]]
 >
 > > [!axis] 丰富[[Rich and Thick Description|厚描述]] vs 伦理匿名性
 > > 争论高水平生态效度对情境细节的披露是否危及被研究机构与个体的隐私安全。
@@ -188,12 +188,12 @@ updated: 2026-10-16
 ## 关键引用
 
 > [!citation-card] [[Variable|变量]]控制在教育中消除生态效度
-> 科学哲学家丹尼斯·菲利普斯指出，在物理科学中变量可以被严密控制，但在学校情境中，这些变量绝非干扰噪音，而是具有重大人文与教育意义的本体内容——在这里施加控制，将消除一切生态效度的表象。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 35, citing Phillips, 2014, p. 10)]]
+> 科学哲学家丹尼斯·菲利普斯指出，在物理科学中变量可以被严密控制，但在学校情境中，这些变量绝非干扰噪音，而是具有重大人文与教育意义的本体内容——在这里施加控制，将消除一切生态效度的表象。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 35, citing Phillips, 2014, p. 10)]]
 >
 > *In the physical sciences variables can be controlled, but in school settings, these variables are 'not nuisances but are of great human and educational significance—control here removes all semblance of ecological validity.'*
 
 > [!citation-card] 教学的人文艺术性抗拒行为预设
-> [[Elliott Eisner|埃利奥特·艾斯纳]]曾指出，教育是一项充满活力且复杂的教学过程，其产出的丰富成果远远超出了在事先用行为和内容术语所能确定的范围。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, p. 35, citing Eisner, 1983, p. 554)]]
+> [[Elliott Eisner|埃利奥特·艾斯纳]]曾指出，教育是一项充满活力且复杂的教学过程，其产出的丰富成果远远超出了在事先用行为和内容术语所能确定的范围。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 35, citing Eisner, 1983, p. 554)]]
 >
 > *Education is a 'dynamic and complex process of instruction yield(ing) outcomes far too numerous and complex to be specified in behavioral and content terms in advance.'*
 
@@ -218,4 +218,4 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 跨章节界定生态效度内涵：辨析其与内部及[[External Validity|外部效度]]的关系与[[Variable|变量]]剥离局限（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Ch. 10]]），剖析受控实验对教室生态的歪曲（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Ch. 16]]），并确立质性现场观察的独特优势（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Ch. 23]]）。
-> - [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]] — 引入科学哲学家 Phillips (2014) 与课程学者 Eisner (1983) 理论，批判 [[Visible Learning]] 等[[Meta-meta-analysis|二阶元分析]]试图以硬科学实验室控制手段提炼[[Effective Teaching|有效教学]]清单的做法彻底抹杀了教育的生态效度。
+> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 引入科学哲学家 Phillips (2014) 与课程学者 Eisner (1983) 理论，批判 [[Visible Learning]] 等[[Meta-meta-analysis|二阶元分析]]试图以硬科学实验室控制手段提炼[[Effective Teaching|有效教学]]清单的做法彻底抹杀了教育的生态效度。

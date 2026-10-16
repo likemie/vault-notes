@@ -74,7 +74,7 @@ related_arguments:
   - "[[Argument_Partaken_2022_Springer]]"
   - "[[Argument_Boccanfuso_Hall_2025_OrgStrategy]]"
   - "[[Argument_Torres_2022_KMModels]]"
-  - "[[Argument_Glitz_2020_AER]]"
+  - "[[Argument_Glitz_2020_AmEconRev]]"
   - "[[Argument_Manitius_vanHolt_2019_BzS]]"
   - "[[Argument_Mody_2017_MOH]]"
 confidence: high
@@ -126,7 +126,7 @@ updated: 2026-10-16
 > | **主导理论范式** | [[Critical Geopolitics\|批判地缘政治]]、福柯权力论 | [[Systems of Innovation\|创新系统理论]]（NIS）、组织战略理论 | 循证卫生与公共政策分析、信息传播学 |
 > | **关键流动机制** | 强制灌输、间谍窃取、审查[[Screening Off\|屏蔽]]、网络破坏 | 赞助研究、专利许可、[[Cooperative Education\|合作教育]]、[[Academic Engagement\|学术参与]] | 五问战略受众分析、信息提炼、传播基建 |
 > | **行动者权力预设** | 严重不对等、充满地缘博弈与强制服从 | 互利合同交换、市场导向契约合作 | 供给推动为主、预设受众为被动吸收容器 |
-> | **代表文献与学者** | [[Argument_Partaken_2022_Springer\|Partaken (2022)]]; [[Argument_Glitz_2020_AER\|Glitz and Meyersson (2020)]] | [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso and Hall (2025b)]]; Cohen et al. (2002) | Lavis et al. (2003); [[Argument_Torres_2022_KMModels\|Torres (2022b)]] |
+> | **代表文献与学者** | [[Argument_Partaken_2022_Springer\|Partaken (2022)]]; [[Argument_Glitz_2020_AmEconRev\|Glitz and Meyersson (2020)]] | [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso and Hall (2025b)]]; Cohen et al. (2002) | Lavis et al. (2003); [[Argument_Torres_2022_KMModels\|Torres (2022b)]] |
 
 ---
 
@@ -276,7 +276,7 @@ updated: 2026-10-16
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Glitz_2020_AER\|Glitz and Meyersson (2020)]] | 东德（冷战时期）与西德工业部门 | 历史档案计量分析与行业面板数据 | 国家支持的经济间谍活动与[[Total Factor Productivity\|全要素生产率]]差距 | 间谍获取的工业机密显著缩小了东德与西德之间的技术生产率差距 | $p < 0.01$ | 揭示非对等非法知识转移在地缘技术追赶中的真实效力 |
+> | [[Argument_Glitz_2020_AmEconRev\|Glitz and Meyersson (2020)]] | 东德（冷战时期）与西德工业部门 | 历史档案计量分析与行业面板数据 | 国家支持的经济间谍活动与[[Total Factor Productivity\|全要素生产率]]差距 | 间谍获取的工业机密显著缩小了东德与西德之间的技术生产率差距 | $p < 0.01$ | 揭示非对等非法知识转移在地缘技术追赶中的真实效力 |
 > | Lissoni (2012) 与 Baig (2017)；引于 [[Argument_Partaken_2022_Springer\|Partaken (2022)]] | 欧美大学学术专利（Lissoni）与全球网络安全攻击源（Baig） | 跨国数据库比较与流量监控统计 | 专利归属比例与跨国知识攻击源占比 | 欧洲 60%–81% 专利归工业公司所有；约 27%（重定向达 41%）攻击源自特定来源国 | — | 实证支持产学产权转移与网络空间[[Knowledge Sabotage\|知识破坏]]的地缘现实 |
 > | [[Argument_Manitius_vanHolt_2019_BzS\|Manitius & van Holt (2019, p. 9)]] | 德语区各州全域测评（[[Vergleichsarbeiten\|VERA]]）与[[School Inspection\|外部学校督导]]（SI）反馈系统 | [[Literature Review\|文献综述]]与治理实证评估 | 监测数据回传向单体学校知识转移的微观改进成效 | 外部督导与统考数据回传在单体学校普遍缺乏显著的教学改善成效（mangelnde Effekte） | 质性综述确证 | 确证机械式数据回传无法自动转化为微观教学行动，[[Falsification\|证伪]]线性转移假设 |
 > | [[Argument_Mody_2017_MOH\|Mody (2017, pp. 290–292, 297)]] | 加州理工学院 [[Silicon Structures Project\|SSP]]、康奈尔 [[National Research and Resource Facility for Submicron Structures\|NRRFSS]]、通用电气（GE）与斯坦福 CIS | 历史档案与企业项目档案定性分析 | 轮转科学家机制、驻留工程师、FMA 联合指导小组 | GE 派驻工程师在 NRRFSS 驻留 1 年攻克 GaAs 器件工艺并回厂复制；斯坦福 CIS 依托 FMA 团队制完成博士生与企业导师深度联合研发 | 历史实证确证 | 证实高技术工程制造中隐性学问（Lore）高度依赖人员实体驻留与[[Mentorship\|导师制]]面对面传授 |
@@ -288,7 +288,7 @@ updated: 2026-10-16
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Partaken_2022_Springer|Partaken (2022)]] — 奠定[[Geopolitics of Knowledge|知识地缘政治]]（GPK）中的知识转移概念，系统提出知识在运动中的六大权力模态。
 > - [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso and Hall (2025b)]] — 阐释[[University-Industry Collaboration|产学合作]]中的知识转移全谱系，区分正式知识产权交易与非正式/半正式人际渠道。
-> - [[Argument_Glitz_2020_AER|Glitz and Meyersson (2020)]] — 提供国家支持经济间谍实现强制性知识转移的大规模实证计量证据。
+> - [[Argument_Glitz_2020_AmEconRev|Glitz and Meyersson (2020)]] — 提供国家支持经济间谍实现强制性知识转移的大规模实证计量证据。
 > - [[Argument_Torres_2022_KMModels|Torres (2022b)]] — 梳理[[Knowledge Mobilisation|知识动员]]中的第一代线性知识转移模型（Lavis 五问框架），阐明其向关系协同与自组织生态演进的脉络。
 > - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 审视德语区教育治理中的知识转移与[[Transfer Science|转移科学]]，揭示监测数据回传在单体学校的成效缺失，批判机械套用循证医学临床转化类比。（pp. 9, 11）
 > - [[Argument_Mody_2017_MOH|Mody (2017)]] — 从历史组织学视角剖析大学微电子中心如何通过驻留工程师、轮转科学家及 FMA 校企双[[Mentorship|导师制]]，实现尖端工程制造隐性经验（Lore）与博士人才培养的深度双向转移。

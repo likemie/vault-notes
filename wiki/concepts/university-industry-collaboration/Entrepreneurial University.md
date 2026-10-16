@@ -67,7 +67,7 @@ related_arguments:
   - "[[Argument_Kickert_1995_Governance]]"
   - "[[Argument_Mazzucato_2018_ICC]]"
   - "[[Argument_Gilison_Wilson_2025_UniversityStartups]]"
-  - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
+  - "[[Argument_Schulze-Cleven_2017_HE]]"
 confidence: high
 status: active
 created: 2026-05-27
@@ -168,8 +168,8 @@ updated: 2026-10-16
 > [!concept-lens] 批判高等教育政治经济学与[[Academic Capitalism|学术资本主义]]视阈
 > 剖析[[Global Universities Rankings|全球大学排名]]与绩效量规如何将大学推向符号声望争夺，从而边缘化不可量化的深层[[Public Value|公共价值]]。
 
-> [!claim] [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017)]]
-> **准市场指标崇拜对广义公共价值的挤压与遮蔽** 创业型大学与[[Academic Capitalism|学术资本主义]]的发展使学术界深陷准市场竞争与指标崇拜之中。[[Global Universities Rankings|全球大学排名]]与评价指标普遍以高引论文与大额科研经费为绝对导向，导致大学间的竞争异化为符号声望争夺，反而遮蔽了那些专注于本地社区服务、教学创新与长期公共福祉但难以短期量化的深层[[Public Value|公共价值]]。[[Argument_Schulze-Cleven_2017_HighEduc|(Schulze-Cleven et al., 2017, pp. 797–802)]]
+> [!claim] [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al. (2017)]]
+> **准市场指标崇拜对广义公共价值的挤压与遮蔽** 创业型大学与[[Academic Capitalism|学术资本主义]]的发展使学术界深陷准市场竞争与指标崇拜之中。[[Global Universities Rankings|全球大学排名]]与评价指标普遍以高引论文与大额科研经费为绝对导向，导致大学间的竞争异化为符号声望争夺，反而遮蔽了那些专注于本地社区服务、教学创新与长期公共福祉但难以短期量化的深层[[Public Value|公共价值]]。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, pp. 797–802)]]
 
 ---
 
@@ -200,7 +200,7 @@ updated: 2026-10-16
 > |---|---|---|---|
 > | **文化调适与组织解困命题** | 通过特区架构化解传统象牙塔学术追求与产业参与之间的制度冲突 | 大学[[Technology Transfer Office\|技术转移办公室]]设立、产学研发中心孵化 | [[Argument_Boccanfuso_Hall_2025_OrgStrategy\|Boccanfuso and Hall (2025b)]] |
 > | **早期验证跨越鸿沟命题** | 非稀释性 PoC 资金与驻校[[Mentorship\|导师制]]赋能技术在[[Valley of Death\|死亡之谷]]实现商业化跃迁 | [[University Spin-Out\|大学衍生企业]]孵化、早期原型商业模式验证 | [[Argument_Gilison_Wilson_2025_UniversityStartups\|Gilison and Wilson (2025)]] |
-> | **学术资本主义批判命题** | 准市场竞争与排名崇拜诱发符号声望争夺，遮蔽长远公共价值 | 大学全球排名审计、绩效考核量规批判 | [[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al. (2017)]] |
+> | **学术资本主义批判命题** | 准市场竞争与排名崇拜诱发符号声望争夺，遮蔽长远公共价值 | 大学全球排名审计、绩效考核量规批判 | [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al. (2017)]] |
 > | **使命导向活体实验室命题** | 超越专利创收狭隘诉求，协同多方主体共同开展应对社会挑战系统实验 | 联合国可持续发展目标（SDGs）、欧盟地平线使命攻关 | [[Argument_Mazzucato_2018_ICC\|Mazzucato (2018)]] |
 > | **公共网络拒斥极端市场命题** | 否决大学自主高收费与资本举债的极端企业化方案，坚守公共品底线 | 欧洲高教去管制化改革、高教财政体制与国家间接调控 | [[Argument_Kickert_1995_Governance\|Kickert (1995)]] |
 
@@ -236,7 +236,7 @@ updated: 2026-10-16
 > > 反思[[Global Universities Rankings|全球大学排名]]对创业型大学实践导向的制度扭曲。
 > >
 > > - **指标锦标赛派** 追求在主流排行榜中争夺论文引用率、大额产业资助金额与专利转化率等可量化符号指标。
-> > - **公共价值反思派** 批评主流排名未能建立衡量大学在社区治理、社会公正与生态恢复等广义创业贡献上的评价工具，掩盖了深层公共福祉。[[Argument_Schulze-Cleven_2017_HighEduc|(Schulze-Cleven et al., 2017, pp. 797–802)]]
+> > - **公共价值反思派** 批评主流排名未能建立衡量大学在社区治理、社会公正与生态恢复等广义创业贡献上的评价工具，掩盖了深层公共福祉。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, pp. 797–802)]]
 
 ---
 
@@ -278,5 +278,5 @@ updated: 2026-10-16
 > - [[Argument_Boccanfuso_Hall_2025_OrgStrategy|Boccanfuso and Hall (2025b)]] — 系统论述创业型大学文化调适、组织重构与激励机制的代表性实证文献。
 > - [[Argument_Gilison_Wilson_2025_UniversityStartups|Gilison and Wilson (2025)]] — 详尽剖析[[University Spin-Out|大学衍生企业]]跨越早期转化鸿沟过程中概念验证基金与[[Entrepreneur in Residence|驻校企业家]]（[[Education Innovation and Research|EIR]]）[[Mentorship|导师制]]的实操文献。
 > - [[Argument_Kickert_1995_Governance|Kickert (1995)]] — 记录 20 世纪 80 年代荷兰高教改革在面对财政紧缩时明确否决极端自由市场“企业家型大学”方案，转而探索维系公共任务与“间接[[Steering at a Distance|远距离操纵]]”体制的经典比较行政研究。
-> - [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017)]] — 深入剖析创业型大学与[[Academic Capitalism|学术资本主义]]在符号权力与排名指标盲区上的经典文献。
+> - [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al. (2017)]] — 深入剖析创业型大学与[[Academic Capitalism|学术资本主义]]在符号权力与排名指标盲区上的经典文献。
 > - [[Argument_Mazzucato_2018_ICC|Mazzucato (2018)]] — 探讨高校在使命导向政策与跨界共创网络中向应对全球社会挑战之活体实验室演进的理论文献。

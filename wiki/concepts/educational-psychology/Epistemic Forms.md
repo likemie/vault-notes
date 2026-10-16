@@ -22,7 +22,7 @@ related_instruments: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Chinn_2011_EP]]"
+  - "[[Argument_Chinn_2011_EducPsychol]]"
 confidence: high
 status: draft
 created: 2026-08-18
@@ -36,7 +36,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> [[Epistemology\|认识论]]形式（Epistemic Forms）指知识在特定情境下的微观结构形态（如列表、树状结构、阶段模型、生物学机制等）。它们是指导学习者组织信息、开展探究的标靶结构。该概念由 Collins and Ferguson (1993) 提出。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011, p. 151)]]
+> [[Epistemology\|认识论]]形式（Epistemic Forms）指知识在特定情境下的微观结构形态（如列表、树状结构、阶段模型、生物学机制等）。它们是指导学习者组织信息、开展探究的标靶结构。该概念由 Collins and Ferguson (1993) 提出。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, p. 151)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 知识的具体组织蓝图。
@@ -56,4 +56,4 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Chinn_2011_EP\|Chinn et al. (2011)]] — 强调在[[Epistemology\|认识论]]认知的“知识结构”维度中，测量学生对特定“[[Epistemology\|认识论]]形式”的掌握程度，比测量其对“知识复杂性”的泛泛认同具有强得多的行为预测力。
+> - [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] — 强调在[[Epistemology\|认识论]]认知的“知识结构”维度中，测量学生对特定“[[Epistemology\|认识论]]形式”的掌握程度，比测量其对“知识复杂性”的泛泛认同具有强得多的行为预测力。

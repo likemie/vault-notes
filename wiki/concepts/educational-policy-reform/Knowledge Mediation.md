@@ -61,7 +61,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Torres_2022_KMModels]]"
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
-  - "[[Argument_Nelson_2017_ER]]"
+  - "[[Argument_Nelson_2017_EducRes]]"
   - "[[Argument_Burns_Schuller_2022_BrokerageAgencies]]"
   - "[[Argument_Manitius_vanHolt_2019_BzS]]"
   - "[[Argument_Fabrizio_Mowery_2005_REI]]"
@@ -112,7 +112,7 @@ updated: 2026-10-16
 ## 核心要素
 
 > [!feature] 知识中介的核心功能构件
-> - **跨界沟通与转译（Cross-boundary Translation）** 将晦涩复杂的原始学术统计报告转译为一线教师和决策官员可理解、可操作的实践指南与概念透镜（[[Argument_Nelson_2017_ER|Nelson & Campbell, 2017, p. 130]]）。
+> - **跨界沟通与转译（Cross-boundary Translation）** 将晦涩复杂的原始学术统计报告转译为一线教师和决策官员可理解、可操作的实践指南与概念透镜（[[Argument_Nelson_2017_EducRes|Nelson & Campbell, 2017, p. 130]]）。
 > - **需求诊断与拉力激活（Demand Formulation & Pull）** 协助学校和行政部门诊断实践痛点与学情断层，将模糊的现实困境转化为明确的“外部知识需求”（Révai, 2020; [[Argument_Torres_2022_KMModels|Torres, 2022b, pp. 49–51]]）。
 > - **支持[[Research Utilization|研究使用]]的三大支柱（Three Dimensions of Research Use Support）** 中介功能必须协同涵盖获取（Access，提供易读可用证据）、技能（Skills，培养理解与评判证据的能力）与互动（Interactions，促进多方社群协作）；其中“互动”在维系深度学习与行为改变中发挥关键驱动作用（Langer et al., 2016; [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 59]]）。
 > - **[[Epistemic Governance|知识治理]]的三维全流程覆盖（Three Elements of Knowledge Governance）** 中介功能系统贯穿三大环节：[[Knowledge Production|知识生产]]（引导定向课题基金与政策试验）、知识中介与传播（人员流动与跨组织共享）以及知识利用（将证据与考核及资源配置挂钩）（Burns et al., 2016; [[Argument_Burns_Schuller_2022_BrokerageAgencies|Burns & Schuller, 2022, p. 61]]）。
@@ -251,5 +251,5 @@ updated: 2026-10-16
 > - [[Argument_Torres_2022_KMModels|Torres (2022b)]] — 横向评述跨领域[[Knowledge Mobilisation|知识动员]]框架，系统界定知识中介的概念内涵与其在三代系统演进中的核心功能。
 > - [[Argument_Steiner-Khamsi_2024_CE|Steiner-Khamsi et al. (2024)]] — 剖析国际组织如何运用第三代中介机制设立常设区域枢纽，以缓解全球证据闲置危机。
 > - [[Argument_Fabrizio_Mowery_2005_REI|Fabrizio and Mowery (2005)]] — 阐明[[Research Universities|研究型大学]]如何依托国防研发注资建立的先进科研基础设施与工程人才培养，在公共安全部门与民用高科技产业之间扮演跨界知识中介网络枢纽。
-> - [[Argument_Nelson_2017_ER|Nelson and Campbell (2017)]] — 结合英加实践，阐明一线教师对同行中介网络与[[Practice-Based Evidence|实践本位证据]]的显著偏好。
+> - [[Argument_Nelson_2017_EducRes|Nelson and Campbell (2017)]] — 结合英加实践，阐明一线教师对同行中介网络与[[Practice-Based Evidence|实践本位证据]]的显著偏好。
 > - [[Argument_Manitius_vanHolt_2019_BzS|Manitius & van Holt (2019)]] — 系统剖析德语区中层研训研究所（LIs）与[[School Inspection|学校督导]]（SI）的知识中介枢纽定位，揭示中介平台与机构面临的严峻实证研究赤字及双重脱节风险。（pp. 10–12）

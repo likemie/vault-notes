@@ -56,7 +56,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Macher_1998_CMR]]"
   - "[[Argument_Fuchs_2010_RP]]"
-  - "[[Argument_Bown_2024_JEP]]"
+  - "[[Argument_Bown_2024_JEconPersp]]"
 confidence: high
 status: active
 created: 2026-10-04
@@ -70,7 +70,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **纵向离散（Vertical Disintegration / 垂直专业化分工）** 指现代高科技产业中，原先高度整合在单一大型垄断企业（如[[Bell Labs|贝尔实验室]]、IBM、通用电气）内部的基础研发、核心工具开发、产品设计、工艺制造、封装测试及系统应用等全价值链环节，解构并分散给专业化的基础材料商、[[Electronic Design Automation|电子设计自动化]]（EDA）软件商、无晶圆厂设计公司（Fabless）、专业晶圆代工厂（Foundry）、精密设备制造商与外包封测（OSAT）企业等独立主体的产业组织形态。该形态通过技术接口标准化与模块化解耦大幅降低了进入门槛，赋予产业敏捷响应快速产品创新的适应力；但同时也造成跨环节协调失灵、长周期基础研究萎缩，并在全球化演进中形成了关键工序高度地理集中的单点咽喉依赖（Chokepoints），使单一国家试图建立全栈闭环“国家冠军”的传统产业政策彻底失效。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 108, 118–120)]]; [[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135, 1144–1146)]]; [[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 86–90, 102)]]
+> **纵向离散（Vertical Disintegration / 垂直专业化分工）** 指现代高科技产业中，原先高度整合在单一大型垄断企业（如[[Bell Labs|贝尔实验室]]、IBM、通用电气）内部的基础研发、核心工具开发、产品设计、工艺制造、封装测试及系统应用等全价值链环节，解构并分散给专业化的基础材料商、[[Electronic Design Automation|电子设计自动化]]（EDA）软件商、无晶圆厂设计公司（Fabless）、专业晶圆代工厂（Foundry）、精密设备制造商与外包封测（OSAT）企业等独立主体的产业组织形态。该形态通过技术接口标准化与模块化解耦大幅降低了进入门槛，赋予产业敏捷响应快速产品创新的适应力；但同时也造成跨环节协调失灵、长周期基础研究萎缩，并在全球化演进中形成了关键工序高度地理集中的单点咽喉依赖（Chokepoints），使单一国家试图建立全栈闭环“国家冠军”的传统产业政策彻底失效。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 108, 118–120)]]; [[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135, 1144–1146)]]; [[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 86–90, 102)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向产业价值链从“纵向一体化闭环组织”向“跨企业、跨国界高度专业化网络节点”的空间与组织结构重组。
@@ -105,12 +105,12 @@ updated: 2026-10-16
 ## 核心要素
 
 > [!feature] 现代半导体纵向离散产业生态的六大核心环节与特征
-> - **基础原材料与高纯度化学品（Basic Materials）** 晶圆基板、多晶硅及专用光刻胶等高度依赖日本与德国等少数专业材料巨头。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 87)]]
-> - **核心研发、EDA 软件与 IP 核（Core R&D & Software）** 芯片架构与[[Electronic Design Automation|电子设计自动化]]软件（EDA）被美国新思科技（Synopsys）、楷登电子（Cadence）等寡头垄断，构成设计端咽喉。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 88)]]
-> - **半导体精密制造设备（Manufacturing Equipment）** 极紫外光刻机（EUV）、刻蚀机与薄膜沉积设备分别由荷兰阿斯麦（ASML）、美国应用材料与日本东京电子等极少数企业垄断。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 89)]]
+> - **基础原材料与高纯度化学品（Basic Materials）** 晶圆基板、多晶硅及专用光刻胶等高度依赖日本与德国等少数专业材料巨头。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 87)]]
+> - **核心研发、EDA 软件与 IP 核（Core R&D & Software）** 芯片架构与[[Electronic Design Automation|电子设计自动化]]软件（EDA）被美国新思科技（Synopsys）、楷登电子（Cadence）等寡头垄断，构成设计端咽喉。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 88)]]
+> - **半导体精密制造设备（Manufacturing Equipment）** 极紫外光刻机（EUV）、刻蚀机与薄膜沉积设备分别由荷兰阿斯麦（ASML）、美国应用材料与日本东京电子等极少数企业垄断。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 89)]]
 > - **无晶圆厂设计商（Fabless Design）** 专注于特定架构、算法与微电路创新，彻底剥离重资产制造负担。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 118–120)]]
-> - **纯晶圆代工制造（Foundry Fabrication）** 依托庞大产能、精细良率控制与数百亿美元投资实现极限规模经济，以[[Taiwan Semiconductor Manufacturing Corporation|台积电]]（TSMC）和三星为代表。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 91)]]
-> - **外包封装、[[Assemblage|组装]]与测试（OSAT / [[Advanced Technology Program|ATP]]）** 劳动与资本混合密集型后端工序，高度集中于中国大陆、中国台湾及东南亚地区。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, p. 92)]]
+> - **纯晶圆代工制造（Foundry Fabrication）** 依托庞大产能、精细良率控制与数百亿美元投资实现极限规模经济，以[[Taiwan Semiconductor Manufacturing Corporation|台积电]]（TSMC）和三星为代表。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 91)]]
+> - **外包封装、[[Assemblage|组装]]与测试（OSAT / [[Advanced Technology Program|ATP]]）** 劳动与资本混合密集型后端工序，高度集中于中国大陆、中国台湾及东南亚地区。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, p. 92)]]
 
 > [!logic-map]- 纵向离散供应链六大环节与多边治理网络
 > ```mermaid
@@ -175,8 +175,8 @@ updated: 2026-10-16
 > [!concept-lens] 极端专业化分工对国家[[Strategic Autonomy|战略自主]]政策的刚性约束
 > 探讨现代跨国极度细分与地理集中的分工体系如何瓦解传统封闭式[[Import Substitution Industrialisation|进口替代]]与国家冠军扶持逻辑。
 
-> [!claim] [[Argument_Bown_2024_JEP|Bown and Wang (2024)]]
-> **多阶段离散网络与国家冠军模式的破产** 现代半导体产业已演变为跨越材料、EDA、精密设备、设计、代工与封测六大工序的高阶纵向离散网络；各工序在技术复杂度与资本密度上均达到历史极值，并在特定国家形成不可替代的单点咽喉（如荷兰 ASML 垄断 EUV 光刻、台湾[[Taiwan Semiconductor Manufacturing Corporation|台积电]]垄断尖端先进制程代工）。在如此细分且相互深度锁定的全球网络中，任何单一国家试图通过封闭式产业政策打造全栈自主的“国家冠军”企业均面临无法逾越的技术与资本壁垒；现代战略竞争因而必须转向跨国技术管制联盟与友岸外包协作。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 86–92, 102)]]
+> [!claim] [[Argument_Bown_2024_JEconPersp|Bown and Wang (2024)]]
+> **多阶段离散网络与国家冠军模式的破产** 现代半导体产业已演变为跨越材料、EDA、精密设备、设计、代工与封测六大工序的高阶纵向离散网络；各工序在技术复杂度与资本密度上均达到历史极值，并在特定国家形成不可替代的单点咽喉（如荷兰 ASML 垄断 EUV 光刻、台湾[[Taiwan Semiconductor Manufacturing Corporation|台积电]]垄断尖端先进制程代工）。在如此细分且相互深度锁定的全球网络中，任何单一国家试图通过封闭式产业政策打造全栈自主的“国家冠军”企业均面临无法逾越的技术与资本壁垒；现代战略竞争因而必须转向跨国技术管制联盟与友岸外包协作。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 86–92, 102)]]
 
 ---
 
@@ -188,7 +188,7 @@ updated: 2026-10-16
 > | **技术锁定效应** | 纵向分工导致跨环节协同创新成本过高，加剧渐进改良依赖 | 高科技制造业、先进材料、光电子产业 | [[Erica Fuchs\|Fuchs (2010)]] |
 > | **治理互补机制** | 离散网络要求国家公共部门充当跨价值链整合者与风险吸收池 | [[National Innovation System\|国家创新体系]]、颠覆性前沿技术孵化 | [[Erica Fuchs\|Fuchs (2010)]] |
 > | **敏捷创新与科研隐患** | 纵向解耦将碎片化转化为敏捷设计优势，但伴随基础科研收缩风险 | 模块化高科技生态、无晶圆设计网络与基础科学政策 | [[Argument_Macher_1998_CMR\|Macher, Mowery, & Hodges (1998)]] |
-> | **国家冠军模式失效** | 跨国六大离散工序与单点咽喉依赖使单一国家全栈自主政策失效 | 现代半导体全球供应链、地缘技术联盟与出口管制 | [[Argument_Bown_2024_JEP\|Bown and Wang (2024)]] |
+> | **国家冠军模式失效** | 跨国六大离散工序与单点咽喉依赖使单一国家全栈自主政策失效 | 现代半导体全球供应链、地缘技术联盟与出口管制 | [[Argument_Bown_2024_JEconPersp\|Bown and Wang (2024)]] |
 
 ---
 
@@ -198,7 +198,7 @@ updated: 2026-10-16
 > - **1980年代 — 产业组织理论起源与垂直整合解构** 学界探讨专业化分工如何降低重资产沉没风险，推动半导体产业由 IDM（垂直整合制造）模式逐步向 Fabless-Foundry 模式解耦。
 > - **1990年代 — 硅谷敏捷[[Innovation Ecosystem|创新生态]]崛起** 杰弗里·马赫（Jeffrey T. Macher）与[[David C. Mowery|大卫·莫厄里]]（[[David C. Mowery]]）等实证指出，纵向专业化分工使美国半导体企业在 90 年代依托代工网络实现设计爆发，成功反超日本一体化大财团。[[Argument_Macher_1998_CMR|(Macher et al., 1998, pp. 108, 118–120)]]
 > - **2010年代 — 创新治理反思与协调真空** 埃丽卡·富克斯（[[Erica Fuchs]]）指出纵向离散加剧了跨环节协调失灵与基础研究萎缩，使国家[[Embedded Network Governance|嵌入式网络治理]]成为推动[[Technological Trajectories|技术轨道]]跃迁的关键制度依托。[[Argument_Fuchs_2010_RP|(Fuchs, 2010, pp. 1134–1135)]]
-> - **2020年代 — 全球化咽喉依赖与地缘重组** 查德·鲍恩（Chad P. Bown）与王丹（Dan Wang）系统剖析了纵向离散在全球六大环节的极端地理集中与单点咽喉分布，论证了[[Modern Industrial Policy|现代产业政策]]在离散网络下对跨国联盟与多边管制的必然依赖。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 86–92, 102)]]
+> - **2020年代 — 全球化咽喉依赖与地缘重组** 查德·鲍恩（Chad P. Bown）与王丹（Dan Wang）系统剖析了纵向离散在全球六大环节的极端地理集中与单点咽喉分布，论证了[[Modern Industrial Policy|现代产业政策]]在离散网络下对跨国联盟与多边管制的必然依赖。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 86–92, 102)]]
 
 ---
 
@@ -216,7 +216,7 @@ updated: 2026-10-16
 > > 自由市场学派强调纵向离散在全球范围内实现了极限要素配置效率；地缘政治经济学派则警示核心工序的地理极端集中造成了脆弱的单点断链咽喉。
 > >
 > > - **自由贸易分工论** 认为跨国专业化分工将各环节成本降至最低，推动全球电子消费品的大普及。
-> > - **[[Argument_Bown_2024_JEP|Bown and Wang (2024)]]** 指出尖端制程（[[Taiwan Semiconductor Manufacturing Corporation|台积电]] 90%+）与光刻设备（ASML）的极度地理集中构成了全球系统性断链风险，倒逼各国推行高成本的供应链[[Going Native|本土化]]与友岸分散政策。[[Argument_Bown_2024_JEP|(Bown & Wang, 2024, pp. 91–92, 98–103)]]
+> > - **[[Argument_Bown_2024_JEconPersp|Bown and Wang (2024)]]** 指出尖端制程（[[Taiwan Semiconductor Manufacturing Corporation|台积电]] 90%+）与光刻设备（ASML）的极度地理集中构成了全球系统性断链风险，倒逼各国推行高成本的供应链[[Going Native|本土化]]与友岸分散政策。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 91–92, 98–103)]]
 
 > [!warning] 适用局限
 > 纵向离散模式高度依赖稳定的全球多边规则与无摩擦的跨国贸易物流；一旦遭遇地缘政治冲突、单边技术出口管制或大流行等结构性冲击，其超长分工链条与单点咽喉将被迅速武器化，暴露出严重的系统脆弱性。
@@ -231,7 +231,7 @@ updated: 2026-10-16
 > | 研究 | 样本与情境 | 核心[[Variable\|变量]]/工序阶段 | 原始统计与结构格局 | 解释边界与政策含义 | 来源 |
 > |---|---|---|---|---|---|
 > | [[Argument_Macher_1998_CMR\|Macher et al. (1998)]] | 1980–1997 年美国半导体初创企业与全球市场 | 新成立设计企业数、全球半导体市场份额 | 80 年代末新型无晶圆设计企业爆发式增长；美国半导体全球份额由 1989 年 **37% 反弹至 1997 年 50%+** | 实证确立纵向专业化分工在产品架构创新期的敏捷优势 | [[Argument_Macher_1998_CMR\|(Macher et al., 1998, pp. 118–120)]] |
-> | [[Argument_Bown_2024_JEP\|Bown and Wang (2024)]] | 1990–2020 年全球半导体制造产能与各工序地理分布 | 晶圆制造产能份额、10nm 以下先进制程集中度 | 美国制造份额由 1990 年 **37% 降至 2020 年 12%**，欧洲由 **44% 降至 9%**；东亚占据 **75%+** 制造产能，台湾占据 **90%+** 尖端先进制程产能 | 揭示纵向离散伴随的地理极端集中与单点咽喉脆弱性 | [[Argument_Bown_2024_JEP\|(Bown & Wang, 2024, pp. 88–92)]] |
+> | [[Argument_Bown_2024_JEconPersp\|Bown and Wang (2024)]] | 1990–2020 年全球半导体制造产能与各工序地理分布 | 晶圆制造产能份额、10nm 以下先进制程集中度 | 美国制造份额由 1990 年 **37% 降至 2020 年 12%**，欧洲由 **44% 降至 9%**；东亚占据 **75%+** 制造产能，台湾占据 **90%+** 尖端先进制程产能 | 揭示纵向离散伴随的地理极端集中与单点咽喉脆弱性 | [[Argument_Bown_2024_JEconPersp\|(Bown & Wang, 2024, pp. 88–92)]] |
 
 ---
 
@@ -240,4 +240,4 @@ updated: 2026-10-16
 > [!evidence-grid] [[Correlational Research|相关研究]]索引
 > - [[Argument_Macher_1998_CMR|Macher et al. (1998)]] — 实证揭示纵向专业化分工与无晶圆厂模式如何重构美国半导体产业结构，赋能企业在 1990 年代重获全球竞争优势。
 > - [[Argument_Fuchs_2010_RP|Fuchs (2010)]] — 以美国光电子产业为例，系统论证了纵向离散产业环境下 [[DARPA]] 如何通过[[Embedded Network Governance|嵌入式网络治理]]弥合价值链断裂并引导[[Technological Trajectories|技术轨道]]跃迁。
-> - [[Argument_Bown_2024_JEP|Bown and Wang (2024)]] — 系统拆解了现代半导体全球纵向离散的六大细分工序与单点咽喉依赖，论证了多阶段离散分工对单一国家传统国家冠军政策的刚性瓦解。
+> - [[Argument_Bown_2024_JEconPersp|Bown and Wang (2024)]] — 系统拆解了现代半导体全球纵向离散的六大细分工序与单点咽喉依赖，论证了多阶段离散分工对单一国家传统国家冠军政策的刚性瓦解。

@@ -25,11 +25,11 @@ related_instruments: []
 related_persons: []
 related_facts: []
 related_arguments:
-  - "[[Argument_Chinn_2011_EP]]"
+  - "[[Argument_Chinn_2011_EducPsychol]]"
 confidence: high
 status: draft
 created: 2026-08-18
-updated: 2026-10-07
+updated: 2026-10-16
 ---
 
 # Epistemic Commitments
@@ -39,7 +39,7 @@ updated: 2026-10-07
 ## 定义
 
 > [!def] 核心定义
-> [[Epistemology\|认识论]]承诺（Epistemic Commitments）指学习者在知识获取和评估过程中遵循的隐性倾向或规则。这些承诺往往是默会的（tacit），学习者可能无法用语言清晰表达，但却能在其具体的探究实践中被稳定观察到。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011, p. 146)]]
+> [[Epistemology\|认识论]]承诺（Epistemic Commitments）指学习者在知识获取和评估过程中遵循的隐性倾向或规则。这些承诺往往是默会的（tacit），学习者可能无法用语言清晰表达，但却能在其具体的探究实践中被稳定观察到。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, p. 146)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 行动中体现的认识论预设，而非口头陈述的信念。
@@ -59,4 +59,4 @@ updated: 2026-10-07
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Chinn_2011_EP\|Chinn et al. (2011)]] — 主张使用“[[Epistemology\|认识论]]承诺”代替“隐性信念”，并呼吁研究者通过观察学生如何论证、如何评估来源等实际表现来推断这些承诺。
+> - [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] — 主张使用“[[Epistemology\|认识论]]承诺”代替“隐性信念”，并呼吁研究者通过观察学生如何论证、如何评估来源等实际表现来推断这些承诺。

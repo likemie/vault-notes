@@ -94,7 +94,7 @@ related_arguments:
   - "[[Argument_Cartiff_2021_JEP]]"
   - "[[Argument_Han_Gutierez_2026_IJSE]]"
   - "[[Argument_Zhang_2022_SE]]"
-  - "[[Argument_Chinn_2011_EP]]"
+  - "[[Argument_Chinn_2011_EducPsychol]]"
 confidence: high
 status: active
 created: 2026-09-10
@@ -339,5 +339,5 @@ updated: 2026-10-16
 > - **[[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]]** — 提出关系性认识主体性（Relational Epistemic Agency）作为规范目标，通过六维诊断标准与四条社会技术路径划定生产性依赖与有害性依赖的边界，为智能时代维护学习者的实质认识权能提供理论与设计指引。
 > - **[[Argument_DeJong_2023_ERR\|De Jong et al. (2023)]]** — 将认识能动性确立为有效科学探究的核心要素之一，论证其在协调证据与模型、克服单一[[Direct Instruction\|直接教学]]长效保持脆弱性中的不可替代价值。
 > - **[[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]]** — 针对[[Epistemic Cognition\|认识论认知]]干预的[[Meta-analysis\|元分析]]证实，放任自流式的开放辩论与无指导[[Problem Solving\|问题解决]]效果微弱，唯有依托结构化支架与显性证据确证规则的[[Inquiry-Based Learning\|指导式探究]]，才能实质性保障学生认识能动性的落地与学业促进。
-> - **[[Argument_Chinn_2011_EP\|Chinn et al. (2011)]]** — 提出扩展[[Epistemic Cognition\|认识论认知]]分析维度，为后续将认识能动性落地为 [[AIR Model of Epistemic Cognition\|AIR]] 模型中的[[Reliable Epistemic Processes\|可靠过程]]与[[Epistemic Ideals\|认识论理想]]提供理论基础。
+> - **[[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]]** — 提出扩展[[Epistemic Cognition\|认识论认知]]分析维度，为后续将认识能动性落地为 [[AIR Model of Epistemic Cognition\|AIR]] 模型中的[[Reliable Epistemic Processes\|可靠过程]]与[[Epistemic Ideals\|认识论理想]]提供理论基础。
 

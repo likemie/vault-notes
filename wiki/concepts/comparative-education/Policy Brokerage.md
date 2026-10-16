@@ -52,7 +52,7 @@ related_persons:
   - "[[Ian Menter]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
-  - "[[Argument_Helgetun_2022_JEP]]"
+  - "[[Argument_Helgetun_2022_JEdPolicy]]"
 related_theories:
   - "[[Two-Communities Theory]]"
 related_methods:
@@ -79,7 +79,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> 政策中介（Policy Brokerage）是指在公共政策与教育治理[[Champ\|场域]]中，行动者连接科学研究社群与政治决策系统，通过对繁杂科研成果的选择性提取、包装转化与定向转译，为政策制定提供确定性证据支撑与合法性辩护的制度化治理机制。与侧重技术性信息扩散的中立[[Knowledge Mediation\|知识中介]]不同，政策中介深度嵌入全球与国家治理网络；当特定跨国组织、智库或政府扶植机构在内部自行生产知识、以科学理性包装知识，甚至同时为推介的改革方案提供项目资助或行政授权时，中立中介便异化为兼具议程设置特权与自身制度利益诉求的政治化政策中介，依靠量化指标与[[Façade of Rationality\|理性表象]]施展软性政策规制或推动自上而下的政策落地。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–539)]]; [[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 611–613)]]
+> 政策中介（Policy Brokerage）是指在公共政策与教育治理[[Champ\|场域]]中，行动者连接科学研究社群与政治决策系统，通过对繁杂科研成果的选择性提取、包装转化与定向转译，为政策制定提供确定性证据支撑与合法性辩护的制度化治理机制。与侧重技术性信息扩散的中立[[Knowledge Mediation\|知识中介]]不同，政策中介深度嵌入全球与国家治理网络；当特定跨国组织、智库或政府扶植机构在内部自行生产知识、以科学理性包装知识，甚至同时为推介的改革方案提供项目资助或行政授权时，中立中介便异化为兼具议程设置特权与自身制度利益诉求的政治化政策中介，依靠量化指标与[[Façade of Rationality\|理性表象]]施展软性政策规制或推动自上而下的政策落地。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–539)]]; [[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 611–613)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 揭示知识向政策转化过程中的非中立性，阐明跨国中介机构与国内[[Policy Network\|政策网络]]中的中介主体（官方扶植机构、专家审查组、领袖网络）如何将自身偏好的[[Research Translation\|研究转化]]为不可置疑的决策依据。
@@ -116,9 +116,9 @@ updated: 2026-10-16
 > - **[[Soft Power by Hard Facts\|以硬事实施展软权力]]（[[Soft Power]] by Hard Facts）** 政策中介依靠数字而非叙事构筑理性、精确与普适的制度表象，通过可测量、可比较、标准化的测评指标形成软性比较压力与治理杠杆。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
 > - **差异化中介工具打包（Instrument Bundling）** 各国际组织将核心评测工具与不同辅助产品打包，形成组织利基：[[OECD\|经合组织]]以 [[PISA]] 为核心绑定同行评议与国别经验横向对照；[[World Bank\|世界银行]]则依靠系统性基准工具搭配自指性最佳实践仓库。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 543–545)]]
 > - **政策周期的多阶段介入** 政策中介在政策周期的不同阶段承担异质功能：在议程设置阶段通过国际比较制造危机感并动员资源；在法案起草与决策阶段则面临主权国家行政官僚体系的高度筛选与策略性过滤。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 546–547)]]
-> - **国内[[Policy Network\|政策网络]]中的官方扶植与机构中介（State-Sponsored Insider Brokerage）** 国家行政当局通过财政资助与法规划定创设专属中介机构（如2010年白皮书后成立的[[Chartered College of Teaching\|特许教学学院]]（Chartered College of Teaching, CCT）与[[Teaching Schools\|教学学校]]理事会（Teaching Schools Council, TSC）），将证据转译锁定在官方主导的专业化话语体系内，排斥传统大学等体制外力量。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 611–613)]]
-> - **系统领袖与审查组的定向委托（Selective Commission of System Leaders）** 政府直接委托政治认同度高的体制内系统领袖牵头专项审查（如[[Carter Review of Initial Teacher Training\|卡特初始教师培训审查]]），利用其从业者身份为自上而下的循证政策改革背书并加速落地。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 612–613)]]
-> - **文官流转下的非正式中介与口口相传（Informal Word-of-Mouth Mediation）** 在部门高流动性与高压决策环境中，去情境化的学术结论或单篇论文化为口口相传的口碑传播与社交网络碎片，成为政策中介绕过严谨同行评审的非正式通道。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 614–615)]]
+> - **国内[[Policy Network\|政策网络]]中的官方扶植与机构中介（State-Sponsored Insider Brokerage）** 国家行政当局通过财政资助与法规划定创设专属中介机构（如2010年白皮书后成立的[[Chartered College of Teaching\|特许教学学院]]（Chartered College of Teaching, CCT）与[[Teaching Schools\|教学学校]]理事会（Teaching Schools Council, TSC）），将证据转译锁定在官方主导的专业化话语体系内，排斥传统大学等体制外力量。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 611–613)]]
+> - **系统领袖与审查组的定向委托（Selective Commission of System Leaders）** 政府直接委托政治认同度高的体制内系统领袖牵头专项审查（如[[Carter Review of Initial Teacher Training\|卡特初始教师培训审查]]），利用其从业者身份为自上而下的循证政策改革背书并加速落地。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 612–613)]]
+> - **文官流转下的非正式中介与口口相传（Informal Word-of-Mouth Mediation）** 在部门高流动性与高压决策环境中，去情境化的学术结论或单篇论文化为口口相传的口碑传播与社交网络碎片，成为政策中介绕过严谨同行评审的非正式通道。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 614–615)]]
 
 > [!logic-map]- 政策中介运行机制逻辑图
 > ```mermaid
@@ -182,8 +182,8 @@ updated: 2026-10-16
 > [!concept-lens] 国家[[Policy Network\|政策网络]]与制度化中介
 > 探讨在主权国家内部治理中，行政当局如何通过[[Gatekeepers\|守门人]]机制、官方资助中介机构与非正式口碑网络实现基于政策的证据转译。
 
-> [!claim] [[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]]
-> **官方中介扶植、证据守门与落地偏好** 在国家层面的[[Policy Network\|政策网络]]中，政策中介不仅体现为跨国组织的外部输入，更表现为主权政府[[Gatekeepers\|守门人]]对本土中介生态的主动重塑。英国教育部高级官员与部长通过创设或资助专属专业组织（如[[Chartered College of Teaching\|特许教学学院]]（CCT）、[[Teaching Schools\|教学学校]]理事会（TSC））、任命认同官方路线的系统领袖牵头政策审查（如[[Carter Review of Initial Teacher Training\|卡特审查]]），构建起闭环的内部中介网络；伴随文官系统的频繁流转，中介过程高度依赖口口相传和强烈的“落地偏好”（landing preference），选择性放大符合政治议程的去情境化结论，将研究证据转化为服务于行政合法性的[[Rationalized Myth\|合理化神话]]与[[Policy-Based Evidence-Making\|基于政策的证据制造]]（Policy-Based Evidence-Making, PBEM）。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 611–615)]]
+> [!claim] [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]]
+> **官方中介扶植、证据守门与落地偏好** 在国家层面的[[Policy Network\|政策网络]]中，政策中介不仅体现为跨国组织的外部输入，更表现为主权政府[[Gatekeepers\|守门人]]对本土中介生态的主动重塑。英国教育部高级官员与部长通过创设或资助专属专业组织（如[[Chartered College of Teaching\|特许教学学院]]（CCT）、[[Teaching Schools\|教学学校]]理事会（TSC））、任命认同官方路线的系统领袖牵头政策审查（如[[Carter Review of Initial Teacher Training\|卡特审查]]），构建起闭环的内部中介网络；伴随文官系统的频繁流转，中介过程高度依赖口口相传和强烈的“落地偏好”（landing preference），选择性放大符合政治议程的去情境化结论，将研究证据转化为服务于行政合法性的[[Rationalized Myth\|合理化神话]]与[[Policy-Based Evidence-Making\|基于政策的证据制造]]（Policy-Based Evidence-Making, PBEM）。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 611–615)]]
 
 ---
 
@@ -206,7 +206,7 @@ updated: 2026-10-16
 > - **1979 — [[Two-Communities Theory\|双社群理论]]奠基** Caplan 提出科学社群与政治社群之间存在文化壁垒与认知鸿沟，强调需要桥梁行动者克服知识流动阻碍。
 > - **2010 — 知识-行动联结三代模型** Best & Holmes 梳理[[Research Utilization\|知识利用]]演进阶段：第一代单向推送模式、第二代行动者关系共建模式，以及第三代关注组织生态、制度能力与政策周期的系统性程序模式。
 > - **2018–2021 — 跨国[[Network Governance\|网络治理]]与[[Soft Power by Hard Facts\|硬事实软权力]]** Niemann & Martens 指出以[[OECD\|经合组织]]为代表的国际组织凭借量化指标体系扮演[[Boundary Spanner\|知识经纪人]]，通过 hard facts 行使 soft governance。
-> - **2022 — 国内[[Policy Network\|政策网络]]与制度化政策中介解剖** [[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]] 将政策中介视角引入主权国家内部政策[[Network Analysis\|网络分析]]，基于新制度主义揭示英格兰教育治理从测量时代迈向[[Evidence Era\|证据时代]]后，政府[[Gatekeepers\|守门人]]如何通过扶植专属中介（[[Chartered College of Teaching\|CCT]]、TSC）与非正式人际网络实现[[Policy-Based Evidence-Making\|基于政策的证据制造]]。
+> - **2022 — 国内[[Policy Network\|政策网络]]与制度化政策中介解剖** [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] 将政策中介视角引入主权国家内部政策[[Network Analysis\|网络分析]]，基于新制度主义揭示英格兰教育治理从测量时代迈向[[Evidence Era\|证据时代]]后，政府[[Gatekeepers\|守门人]]如何通过扶植专属中介（[[Chartered College of Teaching\|CCT]]、TSC）与非正式人际网络实现[[Policy-Based Evidence-Making\|基于政策的证据制造]]。
 > - **2024 — [[Governing by Numbers\|数字治理]] 2.0 与政策中介理论成型** [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] 正式提出数字治理 2.0 议程，将研究焦点从去情境化的测验指标推进至信息过载时代的“政策中介”，揭示国际组织自我生产、推销与资助方案的一体化运作。
 
 ---
@@ -223,7 +223,7 @@ updated: 2026-10-16
 
 > [!critique] 外部批评
 > - **自指性与证据垄断** 批判学者指出政策中介机构（尤其是国际组织）倾向于将自身内部生产的知识进行闭环中介与项目资助，极易导致循证决策演变为自圆其说的方案推销与治理技术垄断。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 538–539)]]
-> - **证据异化与[[Epistemology\|认识论]]连贯性断裂** [[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]] 批评国内政策中介机制割裂了严谨学术研究的完整[[Epistemology\|认识论]]链条，在追求政策落地偏好与部长适宜性逻辑的驱使下，将研究证据降格为去情境化的口号与政治辩护工具，导致科学认识论退化为非[[Reflexivity\|反思性]]的教条意见。
+> - **证据异化与[[Epistemology\|认识论]]连贯性断裂** [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] 批评国内政策中介机制割裂了严谨学术研究的完整[[Epistemology\|认识论]]链条，在追求政策落地偏好与部长适宜性逻辑的驱使下，将研究证据降格为去情境化的口号与政治辩护工具，导致科学认识论退化为非[[Reflexivity\|反思性]]的教条意见。
 
 > [!warning] 适用局限
 > 政策中介概念主要解释具备完备数据生产能力与跨国传播网络的超国家组织、大型智库及发达咨询实体；在缺乏成熟[[Data Infrastructure\|数据基础设施]]或高度封闭集权的政策体系中，其分析解释力可能受限。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, p. 550)]]
@@ -245,4 +245,4 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 提出[[Governing by Numbers\|数字治理]] 2.0 框架，系统解构[[OECD\|经合组织]]与[[World Bank\|世界银行]]将政策中介作为全球治理工具的演进逻辑与国家回应机制。
-> - [[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]] — 揭示英格兰教育[[Policy Network\|政策网络]]中政府[[Gatekeepers\|守门人]]、官方扶植中介机构与口口相传转译的运作机制。
+> - [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] — 揭示英格兰教育[[Policy Network\|政策网络]]中政府[[Gatekeepers\|守门人]]、官方扶植中介机构与口口相传转译的运作机制。

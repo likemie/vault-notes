@@ -63,7 +63,7 @@ related_persons:
   - "[[Clark A. Chinn]]"
   - "[[Douglas Walton]]"
 related_arguments:
-  - "[[Argument_Chinn_2011_EP]]"
+  - "[[Argument_Chinn_2011_EducPsychol]]"
   - "[[Argument_Duncan_2025_CI]]"
   - "[[Argument_Cartiff_2021_JEP]]"
 related_instruments:
@@ -86,7 +86,7 @@ updated: 2026-10-16
 > - **解释对象** 个体与共同体在真实情境中开展探究、评价证据、构建科学模型与论证时的[[Epistemic Cognition\|认识论认知]]（[[Epistemic Cognition]]）与实践机制。
 > - **理论问题** 克服早期个人[[Epistemology\|认识论]]（personal epistemology）将认识论认知窄化为个体关于知识抽象本质（确定性、简单性）的脱域信念，缺乏对目标、评价标准、[[Causal Processes\|因果过程]]及学科情境性的解释力。
 > - **理论类型** 整合哲学认识论与认知心理学的中层理论与[[Analytic Framework\|分析框架]]。
-> - **知识位置** 由 [[Clark A. Chinn]] 等学者奠定，经历五组件框架（[[Argument_Chinn_2011_EP\|Chinn et al., 2011]]）后整合为以目标（Aims）、理想（Ideals）与[[Reliable Epistemic Processes\|可靠过程]]（Reliable processes）为核心的 AIR 模型（Chinn et al., 2014; Barzilai & Chinn, 2018; Chinn et al., 2020），并在科学论证质量评价中深化应用。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 206–208)]]
+> - **知识位置** 由 [[Clark A. Chinn]] 等学者奠定，经历五组件框架（[[Argument_Chinn_2011_EducPsychol\|Chinn et al., 2011]]）后整合为以目标（Aims）、理想（Ideals）与[[Reliable Epistemic Processes\|可靠过程]]（Reliable processes）为核心的 AIR 模型（Chinn et al., 2014; Barzilai & Chinn, 2018; Chinn et al., 2020），并在科学论证质量评价中深化应用。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 206–208)]]
 
 > [!claim] 核心主张
 > 认识论认知不是个体抽象、静态的信念特质，而是在特定社会与学科情境中展开的复杂认知与[[Metacognition\|元认知]]实践网络。该网络包含三大相互交织的核心构件：探究追求的终极认知成就（[[Epistemic Aims]]）、评估认识产出质量的规范性标准（[[Epistemic Ideals]]），以及稳定生成有效知识的[[Causality\|因果性]]程序与条件（[[Reliable Epistemic Processes]]）。高阶认识成就必须通过对这三者的协调与元认识论辩护方能达成。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025, pp. 206–208)]]
@@ -183,5 +183,5 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 将 AIR 模型系统拓展至科学论证质量的评估中，提供了书面论证与口头[[Discourse Analysis\|话语分析]]的实证范例。
-> - [[Argument_Chinn_2011_EP\|Chinn et al. (2011)]] — AIR 模型的理论奠基性文献，提出扩展的[[Epistemic Cognition\|认识论认知]]五组件[[Analytic Framework\|分析框架]]。
+> - [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] — AIR 模型的理论奠基性文献，提出扩展的[[Epistemic Cognition\|认识论认知]]五组件[[Analytic Framework\|分析框架]]。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 认识论认知干预因果[[Meta-analysis\|元分析]]，为 AIR 模型关于适切[[Epistemology\|认识论]]表现需依赖显性教学指导与[[Reliable Epistemic Processes\|可靠过程]]示范的理论推论提供了强有力的大[[Sample Size Determination\|样本量]]化实证支撑。

@@ -69,12 +69,12 @@ related_facts:
   - "[[Best Evidence Synthesis]]"
 related_arguments:
   - "[[Argument_Darwish_2009_Queens]]"
-  - "[[Argument_Slavin_2019_EP]]"
+  - "[[Argument_Slavin_2019_EducPsychol]]"
   - "[[Argument_Laursen_2015_Paideia]]"
 confidence: medium
 status: draft
 created: 2026-07-25
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Active Learning
@@ -86,7 +86,7 @@ updated: 2026-10-15
 > [!def] 核心定义
 > 主动学习（Active Learning）是一种以学习者为认知与实践主体、强调通过高频反思、探究与互动建构意义的教学与课程[[Paradigm\|范式]]。在经典教育哲学（[[John Dewey\|杜威]]与[[Paulo Freire\|弗莱雷]]）传统中，主动学习被界定为由促进[[Critical Thinking\|批判性思维]]、开展民主对话，以及指向改造现实不公的实践（[[Praxis]]）与生长构成的三维课程模型。[[Argument_Darwish_2009_Queens\|(Darwish, 2009, pp. 1, 6–10)]]
 >
-> 在现代教学论与[[Evidence-Based Education\|循证教育]]改革视阈中，主动学习被进一步识别为[[Effective Teaching\|有效教学]]的一般性通用原则之一；然而实证研究揭示，单纯倡导抽象的“主动学习”口号极难直接转化为课堂产出，必须通过经过实验检验的具体[[Cooperative Learning\|合作学习]]结构（如 [[Cooperative Integrated Reading and Composition\|CIRC]]、[[Success for All\|SFA]]）或结构化探究支架才能切实落地。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 22–23)]]
+> 在现代教学论与[[Evidence-Based Education\|循证教育]]改革视阈中，主动学习被进一步识别为[[Effective Teaching\|有效教学]]的一般性通用原则之一；然而实证研究揭示，单纯倡导抽象的“主动学习”口号极难直接转化为课堂产出，必须通过经过实验检验的具体[[Cooperative Learning\|合作学习]]结构（如 [[Cooperative Integrated Reading and Composition\|CIRC]]、[[Success for All\|SFA]]）或结构化探究支架才能切实落地。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–23)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 拒绝将学生视作被动接收现成知识的“储蓄容器”，主张学生通过[[Problem Solving\|问题解决]]、对话协商与行动反思主动建构认知图式。
@@ -124,7 +124,7 @@ updated: 2026-10-15
 > - **民主对话与同伴意义协商（Dialogue & Peer Collaboration）** 师生与生生建立平等对话关系，在异质交流中相互辩护、纠偏并达成深层共识。
 > - **具身探究与动手做（Experiential Doing）** 依托项目制作、实验探究或[[Role-playing\|角色扮演]]，将抽象符号知识锚定于具体活动情境中。
 > - **[[Conscientization\|批判意识觉醒]]与实践行动（Conscientization & [[Praxis]]）** 将学习收获转化为改造个人生活、社区与社会现实的行动，实现认知与社会性成长。
-> - **结构化任务支架与具体材料（Structured [[Scaffolding]] & Materials）** 提供标准化的任务清单、问题支架与活动规则，防止认知负荷超载。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 22–23)]]
+> - **结构化任务支架与具体材料（Structured [[Scaffolding]] & Materials）** 提供标准化的任务清单、问题支架与活动规则，防止认知负荷超载。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–23)]]
 
 > [!logic-map]- 主动学习深化闭环
 > ```mermaid
@@ -157,7 +157,7 @@ updated: 2026-10-15
 > 探讨为何在政策层面高调倡导主动学习往往以课堂回退至传统讲授告终。
 
 > [!claim] [[Robert Slavin\|Slavin, R.]] E.
-> **通用原则的转化困境与经验证方案的不可替代性** 教育改革长久以来陷入推广“主动学习”、“[[Cooperative Learning\|合作学习]]”等抽象通用原则的误区。由于缺乏成套的教材、测评工具与课堂组织细则，一线教师在日常备课中无法独自承受巨大的转化负担，遭遇挫折后迅速回退至最熟悉的传统单向讲授。唯有将主动学习机制内嵌于经过[[Randomised Controlled Trials\|随机对照试验]]（RCT）验证的具体课程方案（如 [[Cooperative Integrated Reading and Composition\|CIRC]]、[[Success for All\|SFA]]）中，才能真正实现大规模课堂质量的稳步提升。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 22–23)]]
+> **通用原则的转化困境与经验证方案的不可替代性** 教育改革长久以来陷入推广“主动学习”、“[[Cooperative Learning\|合作学习]]”等抽象通用原则的误区。由于缺乏成套的教材、测评工具与课堂组织细则，一线教师在日常备课中无法独自承受巨大的转化负担，遭遇挫折后迅速回退至最熟悉的传统单向讲授。唯有将主动学习机制内嵌于经过[[Randomised Controlled Trials\|随机对照试验]]（RCT）验证的具体课程方案（如 [[Cooperative Integrated Reading and Composition\|CIRC]]、[[Success for All\|SFA]]）中，才能真正实现大规模课堂质量的稳步提升。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–23)]]
 
 ---
 
@@ -167,7 +167,7 @@ updated: 2026-10-15
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **批判探究与实践生长** | 批判性思维、对话与实践改造三位一体，是实现学习者自由与民主生长的必由之路 | [[Progressive Education\|进步主义教育]]、批判教育学、[[General Education\|通识教育]]与社会探究课程 | [[John Dewey\|Dewey (1916)]]; [[Paulo Freire\|Freire (1970)]]; [[Argument_Darwish_2009_Queens\|Darwish (2009)]] |
-> | **具体循证载体落地** | 抽象主动学习原则存在巨大转化鸿沟，必须内嵌于经实验检验的具体课程方案中 | K–12 课堂教学改革、循证政策推进与教材研发 | [[Robert Slavin\|Slavin (2019)]]; [[Argument_Slavin_2019_EP\|Slavin (2019)]] |
+> | **具体循证载体落地** | 抽象主动学习原则存在巨大转化鸿沟，必须内嵌于经实验检验的具体课程方案中 | K–12 课堂教学改革、循证政策推进与教材研发 | [[Robert Slavin\|Slavin (2019)]]; [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] |
 
 ---
 
@@ -178,7 +178,7 @@ updated: 2026-10-15
 > - **1970 年代 — [[Critical Pedagogy\|批判教育学]]与[[Problem-Posing Education\|提问式教育]]重构** [[Paulo Freire\|保罗·弗莱雷]]在《被压迫者教育学》中提出“提问式教育”，以民主对话和[[Conscientization\|批判意识觉醒]]彻底颠覆“[[Banking Model of Education\|储蓄式教育]]”。
 > - **1980–1990 年代 — [[Constructivist Paradigm\|建构主义]]与认知科学转向** 建构主义心理学将主动学习解释为学习者主动将新知识同化与顺应进认知图式的内部加工过程。
 > - **2010 年代 — 高等教育与 [[STEM Education\|STEM]] 领域实证爆发** 针对高校大班讲授的[[Meta-analysis\|元分析]]（如 Freeman et al., 2014）证实主动学习相比传统讲授显著降低挂科率并提[[Gaokao\|高考]]试成绩。
-> - **2019 年至今 — 循证改革对抽象原则的批判与方案化转型** 斯莱文（[[Argument_Slavin_2019_EP\|Slavin, 2019]]）系统指出抽象主动学习原则在基础教育改革中的落地局限，主张转向经过严格 [[Randomised Controlled Trials\|RCT]] 检验的具体结构化项目。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 22–23)]]
+> - **2019 年至今 — 循证改革对抽象原则的批判与方案化转型** 斯莱文（[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019]]）系统指出抽象主动学习原则在基础教育改革中的落地局限，主张转向经过严格 [[Randomised Controlled Trials\|RCT]] 检验的具体结构化项目。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–23)]]
 
 ---
 
@@ -190,7 +190,7 @@ updated: 2026-10-15
 > > 探讨推动主动学习究竟应当依赖教师培训掌握抽象原则，还是直接采购经过验证的具体课程。
 > >
 > > - **理念派** 强调教师是自主专业人员，应根据学生情境自由设计主动学习活动。
-> > - **方案派（Slavin）** 指出没有结构化教案与教材支持的主动学习大多流于形式，教师极易在压力下放弃并回退。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 22–23)]]
+> > - **方案派（Slavin）** 指出没有结构化教案与教材支持的主动学习大多流于形式，教师极易在压力下放弃并回退。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–23)]]
 >
 > > [!axis] 认知负荷控制 vs 开放自主探究
 > > 争论初学者在主动学习中究竟需要多少教师显性指导。
@@ -212,7 +212,7 @@ updated: 2026-10-15
 > | 研究 / 综述 | 样本与情境 | 研究设计与方法 | 核心[[Variable\|变量]]与考察维度 | 主要统计结果与发现 | 解释边界 |
 > |---|---|---|---|---|---|
 > | [[Argument_Darwish_2009_Queens\|Darwish (2009)]] | [[Critical Pedagogy\|批判教育学]]与[[Pragmatic Paradigm\|实用主义]]课程哲学文献语料 | 理论建构与概念模型推导 | [[Critical Thinking\|批判性思维]]、[[Dialogue in Education\|对话]]与实践[[Growth\|成长]]（[[Praxis]]） | 确立了主动学习由批判思维、民主对话与意识觉醒构成的三维交互课程模型 | 阐明了主动学习在民主社会与教育正义维度的理论内核 |
-> | [[Argument_Slavin_2019_EP\|Slavin (2019)]] | 全美中小学阅读与数学实证干预库（涵盖数十项 [[Randomised Controlled Trials\|RCT]]） | 政策演进分析与[[Best Evidence Synthesis\|最佳证据综合]] | 抽象主动学习原则推广 vs 具体成套结构化方案 | 抽象原则在常态学校推广中极易衰减失效；而内嵌主动合作机制的具体方案（如 CIRC、SFA）取得 $ES = +0.20 \sim +0.41$ 的强效因果增益 | 确立了主动学习向具体循证课程转型的实践依据 |
+> | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | 全美中小学阅读与数学实证干预库（涵盖数十项 [[Randomised Controlled Trials\|RCT]]） | 政策演进分析与[[Best Evidence Synthesis\|最佳证据综合]] | 抽象主动学习原则推广 vs 具体成套结构化方案 | 抽象原则在常态学校推广中极易衰减失效；而内嵌主动合作机制的具体方案（如 CIRC、SFA）取得 $ES = +0.20 \sim +0.41$ 的强效因果增益 | 确立了主动学习向具体循证课程转型的实践依据 |
 
 ---
 
@@ -245,5 +245,5 @@ updated: 2026-10-15
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Darwish_2009_Queens\|Darwish (2009)]] — 融合[[John Dewey\|杜威]]与[[Paulo Freire\|弗莱雷]]思想，提出主动学习的三维课程模型，系统解析[[Critical Thinking\|批判性思维]]、对话与实践生长的内在机理。
-> - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 从循证改革与[[Counterfactual\|反事实]]检验视角，深度反思抽象主动学习原则的实践失效，倡导向经验证的具体课程方案转型。
+> - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 从循证改革与[[Counterfactual\|反事实]]检验视角，深度反思抽象主动学习原则的实践失效，倡导向经验证的具体课程方案转型。
 > - [[Argument_Laursen_2015_Paideia\|Laursen (2015)]] — 探讨主动参与作为[[Effective Teaching\|有效教学]]基本质量在北欧情境下的表现及其受社会背景的调节。

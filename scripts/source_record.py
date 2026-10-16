@@ -334,10 +334,14 @@ def update_source_record_text(
     new_fm = dump_minimal_source_frontmatter(citation, processed_date)
 
     remote_url = asset_url_for_path(pdf_path) if pdf_path else None
+    match = re.search(r'<iframe\b[^>]*\bsrc=["\'](https://img\.mylikemie\.icu/[^"\']+\.pdf)["\']', old_text, re.S)
+    current_embed = re.search(r'!\[\[([^\]]+\.pdf)\]\]', old_text)
     if preserve_remote_url:
-        match = re.search(r'<iframe\b[^>]*\bsrc=["\'](https://img\.mylikemie\.icu/[^"\']+\.pdf)["\']', old_text, re.S)
         if not match:
             raise ValueError("Cannot preserve remote URL: no existing NAS PDF iframe found")
+        remote_url = match.group(1)
+    elif match and current_embed and current_embed.group(1) == pdf_filename:
+        # Subsequent citation refreshes must retain a previously migrated URL.
         remote_url = match.group(1)
 
     # Keep the source record body intentionally minimal. This also removes older complex sections.

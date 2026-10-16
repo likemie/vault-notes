@@ -41,7 +41,7 @@ related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Start Making a Reader Today]]"
 related_arguments:
-  - "[[Argument_Slavin_2019_EP]]"
+  - "[[Argument_Slavin_2019_EducPsychol]]"
 confidence: high
 status: active
 created: 2026-09-17
@@ -55,7 +55,7 @@ updated: 2026-10-16
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **SPARK Literacy（SPARK 读写项目）** 是由威斯康星州大密尔沃基男孩女孩俱乐部（Boys & Girls Clubs of Greater Milwaukee）与全美服务队（AmeriCorps）联合发起运营、密尔沃基公立学区广泛采纳的早期读写一对一辅导干预方案；其核心战略是招募有志于教育公益的大学毕业生与青年全职服务队成员，通过支付基础生活津贴（有偿志愿者）并配备专业读写教练，为学前班至小学二年级处于严重阅读障碍边缘的极度弱势儿童提供高频、密集的校内与课后个别化辅导。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> **SPARK Literacy（SPARK 读写项目）** 是由威斯康星州大密尔沃基男孩女孩俱乐部（Boys & Girls Clubs of Greater Milwaukee）与全美服务队（AmeriCorps）联合发起运营、密尔沃基公立学区广泛采纳的早期读写一对一辅导干预方案；其核心战略是招募有志于教育公益的大学毕业生与青年全职服务队成员，通过支付基础生活津贴（有偿志愿者）并配备专业读写教练，为学前班至小学二年级处于严重阅读障碍边缘的极度弱势儿童提供高频、密集的校内与课后个别化辅导。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 创立于 2010 年，依托联邦服务与社区参与基金（CNCS / AmeriCorps）专项支持，在密尔沃基高贫困城市小学网络深度运行至今逾十余年。
@@ -68,7 +68,7 @@ updated: 2026-10-16
 ## 方案设计与运行机制
 
 > [!claim] 核心干预假说
-> 由经过两周系统脱产培训、全职派驻学校的有偿 AmeriCorps 志愿者依托结构化拼读与流利度操作卡，开展每周 3 次、每次 30 分钟的一对一精准辅导，能够产生比肩资深专业教师的学业成效，实现低成本与高保真度的有机结合。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> 由经过两周系统脱产培训、全职派驻学校的有偿 AmeriCorps 志愿者依托结构化拼读与流利度操作卡，开展每周 3 次、每次 30 分钟的一对一精准辅导，能够产生比肩资深专业教师的学业成效，实现低成本与高保真度的有机结合。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 > [!policy-design] 方案设计与教学规程
 > - **模块化读写技能链条** 30 分钟课程严格涵盖三大核心环节：
@@ -78,7 +78,7 @@ updated: 2026-10-16
 > - **全职校本教练带教机制** 每个项目学校常驻一名专职 SPARK 项目主管（具备教育学背景），每天进行现场巡回看课并抽检辅导记录。
 
 > [!citation-card] 斯莱文论 SPARK 在有偿志愿者辅导中的优异成效
-> 针对有偿志愿者辅导的评估同样测得了显著的积极成果。例如针对幼儿园至二年级弱势儿童实施的 SPARK Literacy 项目，在严格试验中由有偿志愿者实施一对一辅导，取得了高达 +0.51 的平均阅读[[Effect Size\|效应量]]，完全达到了《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）强证据等级。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> 针对有偿志愿者辅导的评估同样测得了显著的积极成果。例如针对幼儿园至二年级弱势儿童实施的 SPARK Literacy 项目，在严格试验中由有偿志愿者实施一对一辅导，取得了高达 +0.51 的平均阅读[[Effect Size\|效应量]]，完全达到了《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）强证据等级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 >
 > *Tutoring by paid volunteers also yielded strong outcomes in reading. SPARK Literacy, delivered to K–2 students in one-to-one sessions by paid volunteers, produced an effect size of +0.51, qualifying for the Strong rating under ESSA.*
 
@@ -89,7 +89,7 @@ updated: 2026-10-16
 > [!dev-timeline] SPARK Literacy 发展历程
 > - **2010–2014 — 体系建立与都市公立学区部署** 男孩女孩俱乐部建立 SPARK 标准化培训体系并在密尔沃基数十所公立学校设立辅导驻点。
 > - **2015 — 标志性[[Randomised Controlled Trials\|随机对照试验]]成果发布** 琼斯（Jones, 2015）完成独立严格实证评估报告，证实该方案对高危儿童阅读流利度与理解力的显著因果拉动作用，测得高达 $+0.51$ 的[[Effect Size\|效应量]]。
-> - **2016–至今 — 确立为 [[Every Student Succeeds Act\|ESSA]] 强证据方案与全国示范** 被 [[What Works Clearinghouse\|WWC]] 与斯莱文列为初等阅读 Tier 3 志愿者辅导领域的标志性强证据方案，成为全美青年志愿服务与学校教育深度联动的典范。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> - **2016–至今 — 确立为 [[Every Student Succeeds Act\|ESSA]] 强证据方案与全国示范** 被 [[What Works Clearinghouse\|WWC]] 与斯莱文列为初等阅读 Tier 3 志愿者辅导领域的标志性强证据方案，成为全美青年志愿服务与学校教育深度联动的典范。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 ---
 
@@ -106,12 +106,12 @@ updated: 2026-10-16
 ## 成效评估与实证发现
 
 > [!finding-cards] 核心实证结论
-> - **优异的标准化因果学业[[Effect Size\|效应量]]** 在独立因果评估中，接受 SPARK 辅导的学生在 STAR Reading 等独立标准化测验上取得了平均 $+0.51$ 的高因果效应量，达 [[Every Student Succeeds Act\|ESSA]] Strong 强证据等级。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> - **优异的标准化因果学业[[Effect Size\|效应量]]** 在独立因果评估中，接受 SPARK 辅导的学生在 STAR Reading 等独立标准化测验上取得了平均 $+0.51$ 的高因果效应量，达 [[Every Student Succeeds Act\|ESSA]] Strong 强证据等级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 > - **出勤稳定性与依从度的质的飞跃** 相比传统纯义务志愿者，有偿服务队成员由于享有官方津贴与组织荣誉感，全年辅导依从度达到 95% 以上，彻底克服了志愿服务普遍存在的流失断档困境。
 > - **城市高贫困社区的双赢效应** 既大幅提升了极度贫困儿童的基础读写能力，又为大批有志于从事教育事业的青年人才提供了高质量的实战浸润平台。
 
 > [!stat-cards]- 关键实证数据
-> - **+0.51** 因果试验测得的综合平均阅读效应量（$ES$），获 ESSA Strong 最高等级。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> - **+0.51** 因果试验测得的综合平均阅读效应量（$ES$），获 ESSA Strong 最高等级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 > - **1:1** 师生个别辅导比。
 > - **95%+** 全职有偿志愿者的干预到岗依从度与排课完成率。
 
@@ -120,6 +120,6 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 SPARK Literacy 评定为初等阅读 Tier 3 志愿者辅导代表性强证据方案。
+> - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 SPARK Literacy 评定为初等阅读 Tier 3 志愿者辅导代表性强证据方案。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，阐释如何通过国家青年志愿服务网络为 Tier 3 个别辅导提供充沛且经济的师资供给。
 > - [[Start Making a Reader Today]] — 同属志愿者一对一读写辅导方案，SMART 采用社会无偿义工伴读，SPARK 采用 AmeriCorps 有偿青年全职辅导。

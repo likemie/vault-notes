@@ -71,7 +71,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Wadhwa_2024_RER]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
-  - "[[Argument_Slavin_2019_EP]]"
+  - "[[Argument_Slavin_2019_EducPsychol]]"
   - "[[Argument_Cartiff_2021_JEP]]"
 confidence: high
 status: active
@@ -86,7 +86,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **效应衰退（Fade-out Effect）**，亦称**效应消退**、**干预后持续性衰减**或**规模化电压降（Voltage Drop）**，是指教育、心理与社会干预方案在干预当期或小范围受控状态下虽然展现出显著的即时正向效应（Immediate Post-test Gains），但随着时间推移、外部密集支持撤除，或从理想小规模试验推向全系统常规运行，该正向因果优势逐步萎缩、衰减甚至完全归零的普遍经验现象（[[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 11–15]]；[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]；[[Argument_Slavin_2019_EP\|Slavin, 2019, p. 28]]）。
+> **效应衰退（Fade-out Effect）**，亦称**效应消退**、**干预后持续性衰减**或**规模化电压降（Voltage Drop）**，是指教育、心理与社会干预方案在干预当期或小范围受控状态下虽然展现出显著的即时正向效应（Immediate Post-test Gains），但随着时间推移、外部密集支持撤除，或从理想小规模试验推向全系统常规运行，该正向因果优势逐步萎缩、衰减甚至完全归零的普遍经验现象（[[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024, pp. 11–15]]；[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, p. 57]]；[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019, p. 28]]）。
 >
 > 效应衰退在现代[[Evidence-Based Education\|循证教育]]中展现为双重视角：其一是**时间维度的后效衰减（Temporal Fade-out）**，即受试者离开干预环境后优势的自发衰减；其二是**空间与组织维度的规模化衰减（Scale-up Voltage Drop）**，即干预由[[Efficacy Trial\|效力试验]]走向大规模[[Effectiveness Trial\|实效试验]]时[[Effect Size\|效应量]]的断崖式缩水。两者共同构成了区分浅层测验提分与实质性重塑发展轨迹的试金石。
 
@@ -110,7 +110,7 @@ updated: 2026-10-16
 ## 理论机制与微观生成动因
 
 > [!theory-foundation] 理论渊源
-> 效应衰退最早由美国学前干预长期追踪（如 Head Start 与 Perry Preschool 项目）确立，贝利等（Bailey et al., 2017）系统提出了三种微观生成机制；随后，世界卫生组织与 ExpandNet 规模化理论（WHO & ExpandNet, 2009）、英国 [[Education Endowment Foundation\|EEF]] 十年大规模试验反思（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）以及[[Robert Slavin\|罗伯特·斯拉文]]（Robert Slavin）的累积剂量理论（[[Argument_Slavin_2019_EP\|Slavin, 2019]]）进一步揭示了时间衰退与规模化递送损耗的深层机制。
+> 效应衰退最早由美国学前干预长期追踪（如 Head Start 与 Perry Preschool 项目）确立，贝利等（Bailey et al., 2017）系统提出了三种微观生成机制；随后，世界卫生组织与 ExpandNet 规模化理论（WHO & ExpandNet, 2009）、英国 [[Education Endowment Foundation\|EEF]] 十年大规模试验反思（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）以及[[Robert Slavin\|罗伯特·斯拉文]]（Robert Slavin）的累积剂量理论（[[Argument_Slavin_2019_EducPsychol\|Slavin, 2019]]）进一步揭示了时间衰退与规模化递送损耗的深层机制。
 
 > [!concept-lens] 效应衰退的五大生成机制
 > - **对照组自发追赶与自然成熟（Control Group [[Technological Catch-up|catch-up]]）** 干预组学生通过高强度专项集训提前掌握了某些低阶可教技能（如特定字母发音或基础算术规则）；但在后续学期中，对照组学生在[[Business as Usual\|常态教学]]中也逐步自然习得，使得两组之间的相对学业差距被自然抹平（Bailey et al., 2017）。
@@ -156,7 +156,7 @@ updated: 2026-10-16
 > 针对单一学年或短周期干预结束后效应不可避免衰退的批评，[[Evidence-Based Education\|循证教育]]学者提出唯有打破单次干预思维、实施跨学段连贯递送的累积剂量方案，才能实现干预效果的实质留存。
 
 > [!claim] [[Robert Slavin\|Slavin, R.]] E.
-> **[[Cumulative Dosage Principle\|累积剂量原则]]（Cumulative Dosage）破解短期衰减困境** 批评者常以学前或小学低段单次干预后出现的效应衰退为由，质疑循证教学干预的长期价值。罗伯特·斯拉文（Robert Slavin）明确反驳指出，学生在接受 1 年强有效干预后重新回到常规低效教学环境，效应发生衰减是完全符合认知规律的正常现象；解决之道绝非放弃循证干预，而是推行“累积剂量原则”——使处于高危风险的学生在学前班（Pre-K）到 12 年级的整个学业生涯中，连年接受经过严格实验验证的高质量教学方案与分层补救辅导。通过年复一年的[[Effective Teaching\|有效教学]]累积，短期测验收益将被固化为深层的学业资本，从根本上阻断效应衰退并终身改变处境不利儿童的学业轨迹。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> **[[Cumulative Dosage Principle\|累积剂量原则]]（Cumulative Dosage）破解短期衰减困境** 批评者常以学前或小学低段单次干预后出现的效应衰退为由，质疑循证教学干预的长期价值。罗伯特·斯拉文（Robert Slavin）明确反驳指出，学生在接受 1 年强有效干预后重新回到常规低效教学环境，效应发生衰减是完全符合认知规律的正常现象；解决之道绝非放弃循证干预，而是推行“累积剂量原则”——使处于高危风险的学生在学前班（Pre-K）到 12 年级的整个学业生涯中，连年接受经过严格实验验证的高质量教学方案与分层补救辅导。通过年复一年的[[Effective Teaching\|有效教学]]累积，短期测验收益将被固化为深层的学业资本，从根本上阻断效应衰退并终身改变处境不利儿童的学业轨迹。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 ---
 
@@ -168,7 +168,7 @@ updated: 2026-10-16
 > | **技能层级分化** | 低阶琐碎技能易于消退，唯有深层元认知与思维习惯具备延时反弹与长期乘数效应 | 早期读写、数学与认知干预方案设计 | Bailey et al. (2017); Cartiff et al. |
 > | **清算随访筛选** | 6–12 个月干预后持续效果门槛是区分表面提分与实质轨迹改变的制度分水岭 | [[Educational Evidence Clearinghouses\|证据清算中心]]评级准入与政策推荐 | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] |
 > | **大数据追踪范式** | 链接国家行政普查数据库（如 NPD）可消除随访高流失，实现全样本终身因果追踪 | 国家级证据中介、长期政策效应评估 | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] |
-> | **累积剂量机制** | 单次短期干预易衰退，唯有在 K–12 全学段连贯实施强证据方案才能固化学业优势 | 处境不利薄弱学校改进、分层预防干预体系 | [[Argument_Slavin_2019_EP\|Slavin (2019)]] |
+> | **累积剂量机制** | 单次短期干预易衰退，唯有在 K–12 全学段连贯实施强证据方案才能固化学业优势 | 处境不利薄弱学校改进、分层预防干预体系 | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] |
 
 ---
 
@@ -179,7 +179,7 @@ updated: 2026-10-16
 > - **1980s–1990s — 认知衰退与非认知潜伏长效的二重性发现** Perry 幼教追踪（Schweinhart et al., 2005）表明，虽然小学中段存在认知 Fade-out，但在成年后重新显现出犯罪率下降、高中毕业率上升的长远“[[Sleeper Effect\|沉睡效应]]”（Sleeper Effect）。
 > - **2000s–2010s — 循证清算中心将持续效果制度化为准入门槛** [[Blueprints for Healthy Youth Development\|Blueprints]] 与 [[California Evidence Based Clearinghouse for Child Social and Economic Welfare\|CEBC]] 正式确立 $\ge 12$ 个月持续效果作为顶级循证标准的刚性红线，倒逼教育试验必须设计多轮延期随访（[[Argument_Wadhwa_2024_RER\|Wadhwa et al., 2024]]）。
 > - **2018–至今 — 规模化电压降反思与国家大数据追踪整合** 英国 [[Education Endowment Foundation\|EEF]] 大规模试验反思（[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021]]）将效应衰退拓展至规模化级联损耗（Efficacy to Effectiveness Drop），并依托国家行政数据库（NPD）开创无感式全纳长期留存监测新[[Paradigm\|范式]]。
-> - **2019 — [[Cumulative Dosage Principle\|累积剂量原则]]确立为抵御衰退的核心理论解法** [[Argument_Slavin_2019_EP\|Slavin (2019)]] 系统论证单纯依靠单一年份或短期干预难以对抗后续[[Business as Usual\|常态教学]]侵蚀，确立在 K–12 全周期推行连续循证教学方案的“累积剂量原则（Cumulative Dosage）”。
+> - **2019 — [[Cumulative Dosage Principle\|累积剂量原则]]确立为抵御衰退的核心理论解法** [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] 系统论证单纯依靠单一年份或短期干预难以对抗后续[[Business as Usual\|常态教学]]侵蚀，确立在 K–12 全周期推行连续循证教学方案的“累积剂量原则（Cumulative Dosage）”。
 > - **2021 — [[Epistemology\|认识论]]干预中的延时效应翻倍与时长衰退解构** [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 针对[[Epistemic Cognition\|认识论认知]]干预展开[[Meta-analysis\|元分析]]，实证发现延时[[Pre-test and Post-test\|后测]][[Effect Size\|效应量]]较即时后测翻倍（$d = 0.966$ vs. $d = 0.451$），揭示高阶认知习惯的内化沉淀机制能够抵御传统消退；同时证实全学期长周期干预由于教学浓度稀释与对照组自然成熟而产生的相对衰减现象。
 
 ---
@@ -231,7 +231,7 @@ updated: 2026-10-16
 > |---|---|---|---|---|---|---|
 > | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] | 全美各大教育清算中心认证的数百项教育项目 | 跨国证据清算元综述 | 干预后随访期（0、6、12 个月）、认证推荐等级 | 缺乏 6–12 个月随访数据的项目在严格机构中淘汰率超 90%；[[Peer-Assisted Learning Strategies\|PALS]] 与 [[Community Innovation Survey\|CIS]] 因无随访数据在 [[Clearinghouse for Military Family Readiness Continuum of Evidence\|CMFR]] 中直接被判为证据不足 | 政策标准严格约束 | 确立了随访期长短是决定干预能否经受住真实世界检验的关键门槛 |
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]]; Hanley et al. (2015); Kitmitto et al. (2018) | 英格兰小学五年级学生（[[Thinking, Doing, Talking Science\|TDTS]] 科学干预） | [[Efficacy Trial\|效力试验]]（42 校）与[[Effectiveness Trial\|实效试验]]（205 校）对比 | 科学学业统考成绩、FSM 弱势学生成绩 | 效力试验即时后测呈现显著成效（$d = +0.22$）；但在扩大规模实效试验中，由于级联中介递送稀释与对照组常态教学提升，主效应降为零 | 规模化阶段效应衰退 | 阐明除了时间衰退外，从效力到实效的规模化也是导致干预效应归零的重大路径 |
-> | [[Argument_Slavin_2019_EP\|Slavin (2019)]] | 全美 K-12 阶段 Title I 薄弱学校与干预响应体系（[[Response to Intervention\|RTI]]/RTPI） | 循证改革质量综述与长效干预模型分析 | 单年干预后效衰减 vs 累积剂量连年干预对[[Academic Achievement\|学业成就]]的维持效应 | 单年干预停止后效应逐步衰减；跨学段连年推行强证据方案能够实现效应持续留存与学业差距消除 | 理论推导与政策模型证实 | 确立“累积剂量原则”为抵御短期效应衰减、保障弱势学[[Growth\|生长]]效发展的根本制度解法 |
+> | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | 全美 K-12 阶段 Title I 薄弱学校与干预响应体系（[[Response to Intervention\|RTI]]/RTPI） | 循证改革质量综述与长效干预模型分析 | 单年干预后效衰减 vs 累积剂量连年干预对[[Academic Achievement\|学业成就]]的维持效应 | 单年干预停止后效应逐步衰减；跨学段连年推行强证据方案能够实现效应持续留存与学业差距消除 | 理论推导与政策模型证实 | 确立“累积剂量原则”为抵御短期效应衰减、保障弱势学[[Growth\|生长]]效发展的根本制度解法 |
 
 ---
 
@@ -255,6 +255,6 @@ updated: 2026-10-16
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] — 系统梳理跨国[[Educational Evidence Clearinghouses\|证据清算中心]]对干预后持续效果的硬性审查标准，揭示效应衰退对政策认证评级的决定性影响。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 深度剖析英国 [[Education Endowment Foundation\|EEF]] 试验从效力到实效演进中的电压降机制，以及依托[[National Pupil Database\|国家学生数据库]]建立长期效应追踪的制度实践。
-> - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 论证单次干预后效应衰减的认知必然性，提出在 K–12 全周期推行强证据方案的“[[Cumulative Dosage Principle\|累积剂量原则]]（Cumulative Dosage）”，系统阐释如何通过连年持续干预克服短期衰退并终身重塑学业轨迹。
+> - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 论证单次干预后效应衰减的认知必然性，提出在 K–12 全周期推行强证据方案的“[[Cumulative Dosage Principle\|累积剂量原则]]（Cumulative Dosage）”，系统阐释如何通过连年持续干预克服短期衰退并终身重塑学业轨迹。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — [[Meta-analysis\|元分析]]实证证实[[Epistemology\|认识论]]教学干预在延时[[Pre-test and Post-test\|后测]]中展现出罕见的效应翻倍（$d = 0.966$ vs. $d = 0.451$），阐明思维习惯随时间具有内化沉淀优势，并解构了全学期长周期干预产生相对衰退的教学稀释机制。
 

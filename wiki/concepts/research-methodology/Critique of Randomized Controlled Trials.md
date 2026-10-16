@@ -100,10 +100,10 @@ related_facts:
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01]]"
   - "[[Argument_Wiliam_2019_ERE]]"
-  - "[[Argument_Ginsberg_2024_EP]]"
+  - "[[Argument_Ginsberg_2024_EducPolicy]]"
   - "[[Argument_Møller_2017_EERJ]]"
-  - "[[Argument_Berk_2011_ER]]"
-  - "[[Argument_Helgetun_2022_JEP]]"
+  - "[[Argument_Berk_2011_EvalRev]]"
+  - "[[Argument_Helgetun_2022_JEdPolicy]]"
   - "[[Argument_Wrigley_2019_ERE]]"
   - "[[Argument_Zhao_2017_JEC]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
@@ -124,7 +124,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> [[Critique of Randomized Controlled Trials\|随机对照试验批判]]（Critique of [[Randomised Controlled Trials\|randomized controlled trials]] / RCT Critique）指围绕随机对照试验在教育学、社会政策与公共治理中被奉为证据“黄金标准”所形成的系统性反思与跨学科批评体系。该批判涵盖三个递进层面：一是**复杂性[[Epistemology\|认识论]]层面**，解构其控制[[Variable\|变量]]假设与机械还原论在动态自组织开放教育系统中的[[Ontology\|本体论]]悖论；二是**真实学校效度层面**，揭示主体间干扰（违背 [[Stable Unit Treatment Value Assumption\|SUTVA]] 假设）、未测量教师质量混淆、[[Business as Usual\|常态教学]]基线[[Heterogeneity\|异质性]]与大规模实效衰减对内部与[[External Validity\|外部效度]]的破坏；三是**政策治理异化层面**，批判将医学试验教条化为[[Rationalized Myth\|合理化神话]]、跨国金融机构技术[[Screening Off\|屏蔽]]宏观政治经济结构，以及法定单项合格门槛所诱发的“合规假象”与科研供给侧结构性赤字（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, pp. 28–30]]；[[Argument_Wiliam_2019_ERE\|Wiliam, 2019, pp. 5–9]]；[[Argument_Ginsberg_2024_EP\|Ginsberg et al., 2024, pp. 11–13]]）。
+> [[Critique of Randomized Controlled Trials\|随机对照试验批判]]（Critique of [[Randomised Controlled Trials\|randomized controlled trials]] / RCT Critique）指围绕随机对照试验在教育学、社会政策与公共治理中被奉为证据“黄金标准”所形成的系统性反思与跨学科批评体系。该批判涵盖三个递进层面：一是**复杂性[[Epistemology\|认识论]]层面**，解构其控制[[Variable\|变量]]假设与机械还原论在动态自组织开放教育系统中的[[Ontology\|本体论]]悖论；二是**真实学校效度层面**，揭示主体间干扰（违背 [[Stable Unit Treatment Value Assumption\|SUTVA]] 假设）、未测量教师质量混淆、[[Business as Usual\|常态教学]]基线[[Heterogeneity\|异质性]]与大规模实效衰减对内部与[[External Validity\|外部效度]]的破坏；三是**政策治理异化层面**，批判将医学试验教条化为[[Rationalized Myth\|合理化神话]]、跨国金融机构技术[[Screening Off\|屏蔽]]宏观政治经济结构，以及法定单项合格门槛所诱发的“合规假象”与科研供给侧结构性赤字（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al., 2011, pp. 28–30]]；[[Argument_Wiliam_2019_ERE\|Wiliam, 2019, pp. 5–9]]；[[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al., 2024, pp. 11–13]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 指向对受控实验在社会开放系统中[[Causality\|因果推断]]合法性、操作严谨性与政策转化有效性的多维度反思，追问在何种边界条件下[[Random Assignment\|随机分配]]能够成立，以及过度崇拜单一实验对公共教育治理造成的制度性扭曲。
@@ -159,8 +159,8 @@ updated: 2026-10-16
 
 > [!feature] [[Randomised Controlled Trials\|随机对照试验]]批判的三大维度
 > - **[[Ontology\|本体论]]与[[Complexity Theory\|复杂性理论]]解构** 揭示真实教育世界作为复杂适应系统（[[Chinese Academy of Sciences|CAS]]）所具备的动态[[Emergence\|涌现]]、自组织与整体共生性，论证单向线性[[Independent Variable\|自变量]]控制假定（ceteris paribus）在开放社会生态中的逻辑悖论。[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|(Cohen et al., 2011, Ch. 1, pp. 28–30)]]
-> - **真实学校生态下的操作与效度困境** 剖析实地学校环境对经典实验假定的结构性破坏，包括主体间干扰（[[Stable Unit Treatment Value Assumption\|SUTVA]] 违背）、未测量教师质量的巨幅混淆、[[Business as Usual\|常态教学]]基线[[Heterogeneity\|异质性]]，以及效力向实效推广的[[Effect Size\|效应量]]断崖衰减。[[Argument_Wiliam_2019_ERE\|(Wiliam, 2019, pp. 5–9)]]；[[Argument_Berk_2011_ER\|(Berk, 2011, pp. 194–195)]]
-> - **证据治理异化与法定门槛合规假象** 批判循证[[Policy Network\|政策网络]]借用临床医学隐喻将 RCT 奉为[[Rationalized Myth\|合理化神话]]，解剖跨国[[Policy Brokerage\|政策中介]]的技术[[Screening Off\|屏蔽]]机制，以及法定单项合格门槛诱发的“合规假象”与科研供给侧断层。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 17–24)]]；[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, pp. 11–13)]]
+> - **真实学校生态下的操作与效度困境** 剖析实地学校环境对经典实验假定的结构性破坏，包括主体间干扰（[[Stable Unit Treatment Value Assumption\|SUTVA]] 违背）、未测量教师质量的巨幅混淆、[[Business as Usual\|常态教学]]基线[[Heterogeneity\|异质性]]，以及效力向实效推广的[[Effect Size\|效应量]]断崖衰减。[[Argument_Wiliam_2019_ERE\|(Wiliam, 2019, pp. 5–9)]]；[[Argument_Berk_2011_EvalRev\|(Berk, 2011, pp. 194–195)]]
+> - **证据治理异化与法定门槛合规假象** 批判循证[[Policy Network\|政策网络]]借用临床医学隐喻将 RCT 奉为[[Rationalized Myth\|合理化神话]]，解剖跨国[[Policy Brokerage\|政策中介]]的技术[[Screening Off\|屏蔽]]机制，以及法定单项合格门槛诱发的“合规假象”与科研供给侧断层。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 17–24)]]；[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 11–13)]]
 
 > [!logic-map]- 批判体系的三层递进推导
 > ```mermaid
@@ -201,7 +201,7 @@ updated: 2026-10-16
 > **教育作为难以完成的科学与本地条件限制** 伯利纳指出教育研究是“难以完成的科学”（hard-to-do-science），因为教育研究者必须处理限制推广的严苛本地条件。学校嵌套在复杂多变的社会关系中，学习过程永远不可能被完全控制，使得药物试验式的组间等价假设在学校中格外脆弱。[[Argument_Møller_2017_EERJ\|(Møller, 2017, p. 379; Berliner, 2002)]]
 
 > [!claim] Berk, R. (2011)
-> **集群[[Random Assignment\|随机化]]与稳定单元处理值假设（[[Stable Unit Treatment Value Assumption\|SUTVA]]）的系统性违背** 当随机分配单位为班级或学校而分析单位为个体时，学生间的互动不可避免地产生主体间干扰，导致稳定单元处理值假设（SUTVA）彻底破裂。在此情况下，单一恒定的因果效应不复存在，且当时尚无有效统计补救方法。此外集群单位数量往往严重不足，无法确保未测量混淆因素的平衡；因果估计若脱离发生机制，在外部迁移上几乎不具信息价值。[[Argument_Berk_2011_ER\|(Berk, 2011, pp. 194–195)]]
+> **集群[[Random Assignment\|随机化]]与稳定单元处理值假设（[[Stable Unit Treatment Value Assumption\|SUTVA]]）的系统性违背** 当随机分配单位为班级或学校而分析单位为个体时，学生间的互动不可避免地产生主体间干扰，导致稳定单元处理值假设（SUTVA）彻底破裂。在此情况下，单一恒定的因果效应不复存在，且当时尚无有效统计补救方法。此外集群单位数量往往严重不足，无法确保未测量混淆因素的平衡；因果估计若脱离发生机制，在外部迁移上几乎不具信息价值。[[Argument_Berk_2011_EvalRev\|(Berk, 2011, pp. 194–195)]]
 
 > [!claim] Wiliam, D. (2019)
 > **教师质量的未测量变异与随机分配的脆弱性** 教师效能间一个标准差差异可带来约 0.15 SD 的学生成就差异。在[[Class Size\|班级规模]]或[[Tracking\|能力分组]]实验中，若最有效教师被非均衡分配，观察到的“干预效应”极可能只是“教师配置效应”。田纳西 STAR 班级规模实验即证明了随机化在实地的脆弱：家长施压迫使大班学生转入小班，富裕学生在小班过度代表，伴随差异性数据缺失，严重侵蚀[[Internal Validity\|内部效度]]。教育研究只能告诉我们“在测试条件下曾经是什么”，而非“将来可能是什么”。[[Argument_Wiliam_2019_ERE\|(Wiliam, 2019, pp. 5–9)]]
@@ -223,7 +223,7 @@ updated: 2026-10-16
 > 该命题从批判政策学与教育政治经济学视角，剖析受控试验如何被权力网络吸纳为脱离教学实际、推卸系统责任与掩饰意识形态决断的治理借口。
 
 > [!claim] Helgetun, R., & Menter, I. (2022)
-> **临床医学隐喻、合理化神话与依策造据（[[Policy-Based Evidence-Making\|PBEM]]）** 官方政策[[Discourse|话语]]借用临床医学试验的科学光环塑造合理化神话，将 RCT 宣称为非政治性的绝对客观真理，为其激进市场化改革确立无可置辩的合法性。然而从[[Problem Finding\|问题界定]]、统计建模直至政策应用的[[Epistemological Coherence\|全流程认识论连贯性]]在实践中彻底断裂，[[Policy Network\|政策网络]]按部长先定政治偏好（Landing Preferences）逆向采选和资助特定实验，使循证决策异化为掩饰意识形态的“依策造据”（PBEM）。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 17–24)]]
+> **临床医学隐喻、合理化神话与依策造据（[[Policy-Based Evidence-Making\|PBEM]]）** 官方政策[[Discourse|话语]]借用临床医学试验的科学光环塑造合理化神话，将 RCT 宣称为非政治性的绝对客观真理，为其激进市场化改革确立无可置辩的合法性。然而从[[Problem Finding\|问题界定]]、统计建模直至政策应用的[[Epistemological Coherence\|全流程认识论连贯性]]在实践中彻底断裂，[[Policy Network\|政策网络]]按部长先定政治偏好（Landing Preferences）逆向采选和资助特定实验，使循证决策异化为掩饰意识形态的“依策造据”（PBEM）。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 17–24)]]
 
 > [!claim] Steiner-Khamsi, G. et al. (2024)
 > **跨国[[Policy Brokerage\|政策中介]]的技术利基与宏观政治经济结构[[Screening Off\|屏蔽]]** [[World Bank\|世界银行]]等国际机构将 RCT 确立为推行结构调整与循证贷款的规制工具。微观 RCT 对单一技术变量（驱虫药片、考勤指纹机、微额奖金）的强行隔离，系统性地“屏蔽”（Screening Off）了宏观财政紧缩、编制削减与殖民历史欠账等深层结构性矛盾，技术上的“黄金标准”沦为推卸公共治理责任的自指性[[Social Science as Legitimation Alibi\|科学借口]]。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 544–548)]]
@@ -232,7 +232,7 @@ updated: 2026-10-16
 > **宏观政策认证割裂与跨机构评级冲突的“RCT 悖论”** 尽管全美各清算中心均推崇 RCT，但实证检视 12 个中心 1,359 项研究发现：基于 RCT 的多中心交叉评级中，完全对立冲突率（Recommended vs Not Recommended）高达 35.4%，一致率仅 30.5%。分歧根源不在于微观单项 RCT 内部效度，而在于跨研究综合标准（是否要求独立外部复制、长期[[Fade-out Effect\|持续效果]]等）的制度割裂。单项 RCT 内部效度达标绝非宏观政策认证的[[Necessary and Sufficient Conditions\|充分条件]]。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, pp. 18–20, 26–27)]]
 
 > [!claim] Ginsberg, R. et al. (2024)
-> **法定单项合格门槛下的合规假象与科研供给侧结构性赤字** 美国联邦《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）Tier I 规则仅要求“至少一项合格 RCT 产生统计显著的正效应”。对 15 个学区 138 项资助项目的实证审计表明：虽然超 95% 的采购资金满足法定单项 RCT 门槛，但按全证据库（Body of Evidence）审视时，获积极支持的资金腰斩至 49%–58%，诱发严重的“合规假象”；基础科研生产存在学段偏好断层，26 项已采购干预在目标学段毫无因果研究（0 数量），迫使学区跨学段盲目降格推论；同时 RCT 普遍将宏观课程包与微观交付方式打包为因果黑箱，导致巨额资金在未经检验的交付环节上沉淀消耗。[[Argument_Ginsberg_2024_EP\|(Ginsberg et al., 2024, pp. 11–13)]]
+> **法定单项合格门槛下的合规假象与科研供给侧结构性赤字** 美国联邦《[[Every Student Succeeds Act\|每一个学生成功法]]》（ESSA）Tier I 规则仅要求“至少一项合格 RCT 产生统计显著的正效应”。对 15 个学区 138 项资助项目的实证审计表明：虽然超 95% 的采购资金满足法定单项 RCT 门槛，但按全证据库（Body of Evidence）审视时，获积极支持的资金腰斩至 49%–58%，诱发严重的“合规假象”；基础科研生产存在学段偏好断层，26 项已采购干预在目标学段毫无因果研究（0 数量），迫使学区跨学段盲目降格推论；同时 RCT 普遍将宏观课程包与微观交付方式打包为因果黑箱，导致巨额资金在未经检验的交付环节上沉淀消耗。[[Argument_Ginsberg_2024_EducPolicy\|(Ginsberg et al., 2024, pp. 11–13)]]
 
 ---
 
@@ -262,7 +262,7 @@ updated: 2026-10-16
 >
 >   *大规模实地评估暴露经典计量假定与真实学校生态的深层冲突。*
 >
->   - 2011 — Richard [[Argument_Berk_2011_ER|Berk (2011)]]在《评估评论》创刊回顾中指出集群试验主体间干扰对 SUTVA 的普遍违背，提出[[Pragmatic Paradigm\|实用主义]]“铜标准”。
+>   - 2011 — Richard [[Argument_Berk_2011_EvalRev|Berk (2011)]]在《评估评论》创刊回顾中指出集群试验主体间干扰对 SUTVA 的普遍违背，提出[[Pragmatic Paradigm\|实用主义]]“铜标准”。
 >   - 2016 — Ginsburg and Smith（2016）全面解剖 [[What Works Clearinghouse\|WWC]] 认证的高评级数学 RCT，披露开发者关联与评估工具偏袒等 12 项致命威胁。
 >   - 2019 — Dylan [[Argument_Wiliam_2019_ERE|Wiliam (2019)]]系统梳理田纳西 STAR 实验中的转组破坏，指出未测量教师质量对[[Class Size\|班级规模]]因果识别的颠覆性混淆。
 >   - 2019 — Lortie-Forgues and Inglis（2019）发表对 141 项大规模教育 RCT 的元再分析，揭示平均效应量仅为 0.06 SD，引发“试验缺乏信息量”危机。
@@ -301,7 +301,7 @@ updated: 2026-10-16
 > |---|---|---|---|---|---|---|
 > | [[Argument_Kraft_2023_ER\|Kraft (2023)]] | 全美 3,426 个教育干预 RCT 效应量 | [[Meta-meta-analysis\|元综合]]与分布基准分析 | 标准化[[Academic Achievement\|学业成就]]测验效应量（Hedges' g） | 效应量中位数仅为 0.10 SD；36% 的研究效应量小于 0.05 SD；94% 的试验属于[[Business as Usual\|常态教学]]（BAU）对照 | 均值约 0.10，经验分布呈重尾特征 | 确立真实学校对照下的因果效应量现实基准，打破了 0.40 的经验神话。 |
 > | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] | 12 所[[Educational Evidence Clearinghouses\|教育证据清算中心]]，1,359 项研究，429 对交叉评级 | 跨机构政策评级元评估 | 多机构因果评级一致率与极端冲突率 | 完全一致率仅 30.5%；完全对立冲突率（推荐 vs 不推荐）高达 35.4% | $\chi^2$ 检验显示跨中心评级高度不收敛 | 单项 RCT [[Internal Validity\|内部效度]]达标绝非宏观政策推荐的[[Necessary and Sufficient Conditions\|充分条件]]，综合标准割裂打破客观收敛假象。 |
-> | [[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]] | 全美 15 个大型城市学区三年间 2.88 亿美元 [[Title I of the Elementary and Secondary Education Act\|Title I]] 联邦经费，138 项干预 | 政策微观实证审计 | 单项合规率、全证据集支持率、学段供给赤字 | 法定单项合规率超 95%；全证据集积极支持率腰斩至 49%–58%；26 项干预在采购学段因果研究数为 0 | 实证审计全部受资助干预清单 | 证实法定单项 RCT 门槛在学区实践中演化为“合规假象”，揭示科研供给侧学段与构件断层。 |
+> | [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] | 全美 15 个大型城市学区三年间 2.88 亿美元 [[Title I of the Elementary and Secondary Education Act\|Title I]] 联邦经费，138 项干预 | 政策微观实证审计 | 单项合规率、全证据集支持率、学段供给赤字 | 法定单项合规率超 95%；全证据集积极支持率腰斩至 49%–58%；26 项干预在采购学段因果研究数为 0 | 实证审计全部受资助干预清单 | 证实法定单项 RCT 门槛在学区实践中演化为“合规假象”，揭示科研供给侧学段与构件断层。 |
 > | [[Argument_Brady_2023_EPR\|Brady et al. (2023)]] | 五本主流教育心理学经验期刊（1983–2020 年跨度） | 期刊抽样文献计量分析 | 经验研究中[[Random Assignment\|随机分配]]实验（RCT）占比 | 随机实验占比从 1983 年的近 50% 持续下滑至 2010 年的 23%，2020 年进一步降至 20% | 描述性统计全样本扫描 | 展现经验学术界从单一[[Pragmatism in China\|实验主义]]向质性与方法多元主义的实质转向。 |
 > | [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] 引述 Lortie-Forgues and Inglis (2019) | 英美两国（[[Education Endowment Foundation\|EEF]] 与 [[National Center for Education Evaluation and Regional Assistance\|NCEE]]）委托的 141 项大规模教育 RCT（覆盖 122 万学生） | 独立试验数据元再分析 | 大规模[[Effectiveness Trial\|实效试验]]平均效应量与[[Confidence Interval\|置信区间]] | 平均效应量仅为 0.06 SD；平均置信区间宽达 0.30 SD | 效应量估计包含 0 的比例极高 | 揭示盲目追求[[Sample Size Determination\|样本量]]扩张在大规模推广阶段无法避免保真度稀释与效应断崖衰减。 |
 > | [[Argument_Wrigley_2019_ERE\|Wrigley and McCusker (2019)]] 引述 Ginsburg and Smith (2016) | 27 项被有效教育清算所（[[What Works Clearinghouse\|WWC]]）高评级的数学课程 RCT | 内部效度逐项威胁审计 | 开发者利益冲突、教学时间非均等、测量偏倚 | 26/27 项存在多重严重问题；单一威胁误差幅度已大于干预平均效应量 | 质性与计量混合威胁核查 | 揭示被权威认证的高等级 RCT 仍普遍充斥着损害内部效度的隐蔽漏洞。 |
@@ -312,10 +312,10 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] 核心研究索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch01\|Cohen et al. (2011)]] — 第 1 章与第 4 章系统阐释[[Complexity Theory\|复杂性理论]]对受控实验的四大解构、Kuhn 五大公理与[[Unit of Analysis\|分析单位]]向生态网络的转向，详述概率因果、[[Counterfactual\|反事实]]、[[Screening Off\|筛选隔离]]及真实课堂复杂性对 [[Randomised Controlled Trials\|RCT]] 的方法论挑战。
-> - [[Argument_Berk_2011_ER\|Berk (2011)]] — 基于 35 年主编经验揭示集群 RCT 对 [[Stable Unit Treatment Value Assumption\|SUTVA]] 假设的违背，提出[[Pragmatic Paradigm\|实用主义]]“铜标准”辩护。
+> - [[Argument_Berk_2011_EvalRev\|Berk (2011)]] — 基于 35 年主编经验揭示集群 RCT 对 [[Stable Unit Treatment Value Assumption\|SUTVA]] 假设的违背，提出[[Pragmatic Paradigm\|实用主义]]“铜标准”辩护。
 > - [[Argument_Wiliam_2019_ERE\|Wiliam (2019)]] — 揭示田纳西 STAR 实验[[Random Assignment\|随机化]]被家长转组与数据缺失破坏的机制，指出未测量教师质量的颠覆性混淆。
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 英国 [[Education Endowment Foundation\|EEF]] 独立评估人机制与十年制度演进，剖析效力向[[Effectiveness Trial\|实效试验]]的[[Fade-out Effect\|效应衰减]]与[[School Choice\|学校选择]]新设计。
-> - [[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]] — 实证解剖英格兰[[Evidence Era\|证据时代]]临床医学 RCT 的[[Rationalized Myth\|合理化神话]]、[[Epistemological Coherence\|全流程认识论连贯性]]断裂及“依策造据”（[[Policy-Based Evidence-Making\|PBEM]]）。
+> - [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] — 实证解剖英格兰[[Evidence Era\|证据时代]]临床医学 RCT 的[[Rationalized Myth\|合理化神话]]、[[Epistemological Coherence\|全流程认识论连贯性]]断裂及“依策造据”（[[Policy-Based Evidence-Making\|PBEM]]）。
 > - [[Argument_Steiner-Khamsi_2024_CE\|Steiner-Khamsi et al. (2024)]] — 揭示[[World Bank\|世界银行]]将 RCT 打造为[[Policy Brokerage\|政策中介]]利基与微观技术[[Variable\|变量]]隔离对宏观政治经济结构的“屏蔽”效应。
 > - [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] — 全景检验 12 个清算中心揭示基于 RCT 的跨机构评级冲突率达 35.4% 的“RCT 悖论”。
-> - [[Argument_Ginsberg_2024_EP\|Ginsberg et al. (2024)]] — 15 个学区实证审计量化揭示 [[Every Student Succeeds Act\|ESSA]] Tier I 法定单项门槛下的“合规假象”、学段科研供给赤字与微观构件黑箱。
+> - [[Argument_Ginsberg_2024_EducPolicy\|Ginsberg et al. (2024)]] — 15 个学区实证审计量化揭示 [[Every Student Succeeds Act\|ESSA]] Tier I 法定单项门槛下的“合规假象”、学段科研供给赤字与微观构件黑箱。

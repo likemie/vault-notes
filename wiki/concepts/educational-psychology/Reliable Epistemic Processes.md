@@ -57,7 +57,7 @@ related_persons:
 related_arguments:
   - "[[Argument_Duncan_2025_CI]]"
   - "[[Argument_Cartiff_2021_JEP]]"
-  - "[[Argument_Chinn_2011_EP]]"
+  - "[[Argument_Chinn_2011_EducPsychol]]"
 related_instruments:
   - "[[Framework for Teaching]]"
 confidence: high
@@ -176,7 +176,7 @@ updated: 2026-10-16
 
 > [!dev-timeline] 概念演变
 > - **1979 — [[Epistemology\|认识论]][[Reliabilism\|可靠主义]]发端** Goldman 提出可靠主义认识论（Reliabilism），主张信念的正当性取决于产生该信念的认知过程是否具有因果[[Reliability\|可靠性]]。
-> - **2011 — 纳入[[Epistemic Cognition\|认识论认知]]五构件** Chinn 等学者将产生信念的可靠与不可靠[[Causal Processes\|因果过程]]确立为认识论认知的微观核心构件之一。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011)]]
+> - **2011 — 纳入[[Epistemic Cognition\|认识论认知]]五构件** Chinn 等学者将产生信念的可靠与不可靠[[Causal Processes\|因果过程]]确立为认识论认知的微观核心构件之一。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011)]]
 > - **2014 — [[AIR Model of Epistemic Cognition\|AIR]] 理论模型中的连续谱界定** Chinn, Rinehart & Buckland 将可靠认识论过程确立为 AIR 模型三大支柱之一，强调过程处于可靠性连续谱之上，受制于特定环境条件。
 > - **2021 — 显性过程干预的因果[[Meta-analysis\|元分析]]确立** [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] 在一阶元分析中量化对比了各类[[Framework for Teaching|教学框架]]，实证确立了[[Inquiry-Based Learning\|指导式探究]]与[[Source Evaluation\|信源评估]]等显性可靠过程教学对[[Academic Achievement\|学业成就]]的显著因果促进效应。
 > - **2025 — 科学实践因果条件细化与论证双轴评价** Duncan & Chinn 提炼出观察实践与证据整合的可靠过程及其因果约束条件模板，系统确立了过程可靠性审视在科学论证评价中的操作性地位。[[Argument_Duncan_2025_CI\|(Duncan & Chinn, 2025)]]
@@ -218,6 +218,6 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Chinn_2011_EP\|Chinn et al. (2011)]] — 系统界定产生信念的[[Causal Processes\|因果过程]]及其在[[Epistemic Cognition\|认识论认知]]中的基础地位。
+> - [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]] — 系统界定产生信念的[[Causal Processes\|因果过程]]及其在[[Epistemic Cognition\|认识论认知]]中的基础地位。
 > - [[Argument_Duncan_2025_CI\|Duncan and Chinn (2025)]] — 提出科学实践中观察与证据整合的可靠过程模板，实证展示初中生对过程因果条件的审视机制。
 > - [[Argument_Cartiff_2021_JEP\|Cartiff et al. (2021)]] — 认识论认知干预因果[[Meta-analysis\|元分析]]，实证检验了显性讲授可靠过程规程对突破非结构化探究瓶颈的因果促进作用，为可靠[[Epistemology\|认识论]]过程的可教性提供了大样本元分析证据。

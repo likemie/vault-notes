@@ -51,7 +51,7 @@ related_facts:
   - "[[PISA]]"
 related_arguments:
   - "[[Argument_Streeck_Thelen_2005_OUP]]"
-  - "[[Argument_Johnson_2023_CE]]"
+  - "[[Argument_Johnson_2023_CritEduc]]"
 confidence: high
 status: completed
 created: 2026-10-11
@@ -65,7 +65,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> **社会规约（Social Regime）** 指在特定社会情境中受到普遍合法性认可、规定预期行为并排除不可欲行为的集体规则体系；其根本特质在于必须由独立于博弈参与者、具备合法强制力保障手段的第三方权威机构（Third-Party Enforcement）提供背书，将微观行动者的权利与义务上升为全社会共同体维护的法定或规范性预期（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005, pp. 9–14]]）。在当代跨国治理与教育政策研究中，该概念被扩展用于分析由国家行政强制力背书的全球标准化绩效与问责规约（Komatsu & Rappleye, 2017; [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）。
+> **社会规约（Social Regime）** 指在特定社会情境中受到普遍合法性认可、规定预期行为并排除不可欲行为的集体规则体系；其根本特质在于必须由独立于博弈参与者、具备合法强制力保障手段的第三方权威机构（Third-Party Enforcement）提供背书，将微观行动者的权利与义务上升为全社会共同体维护的法定或规范性预期（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005, pp. 9–14]]）。在当代跨国治理与教育政策研究中，该概念被扩展用于分析由国家行政强制力背书的全球标准化绩效与问责规约（Komatsu & Rappleye, 2017; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）。
 
 > [!concept-lens] 概念透镜
 > - **含义** 将制度从抽象的中性博弈均衡或主观的文化认知脚本还原为具体的政治支配关系，聚焦规则制定者、规则遵从者与第三方实施机构之间的权力非对称互动。
@@ -98,7 +98,7 @@ updated: 2026-10-16
 > - **结构性非对称分工（Rule Makers vs. Rule Takers）** 类似[[Max Weber|马克斯·韦伯]]的支配组织（*Herrschaftsverband*），规约内部始终存在制定/修改规则的有权者与被动承受/执行规则的遵从者之间的不对称博弈（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005, p. 12]]）。
 > - **社会合法性与公共保护预期（Legitimacy & Public Expectations）** 规则被赋予公共正当性，使其成为受保护的社会权利，即便政策制定者更迭亦不能随意剥夺。
 > - **组织作为特权制度载体（Organizations as Regimes）** 核心组织一旦其垄断地位与职能受到法律与社会价值的排他性保障，便不再是普通科层实体，而是升格为规约本身。
-> - **跨国政策规约的层级嵌套（Transnational Policy Regimes）** 在全球教育治理中，由[[OECD|经合组织]]等超国家机构倡导的量化[[Performance Indicators|绩效指标]]，通过主权国家教育部等第三方实施主体的法定采纳，转化为对微观学校具有强制力的问责规约（Komatsu & Rappleye, 2017; [[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）。
+> - **跨国政策规约的层级嵌套（Transnational Policy Regimes）** 在全球教育治理中，由[[OECD|经合组织]]等超国家机构倡导的量化[[Performance Indicators|绩效指标]]，通过主权国家教育部等第三方实施主体的法定采纳，转化为对微观学校具有强制力的问责规约（Komatsu & Rappleye, 2017; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）。
 
 > [!logic-map]- 社会规约系统结构
 > ```mermaid
@@ -150,8 +150,8 @@ updated: 2026-10-16
 > [!concept-lens] 全球教育治理与跨国政策规约维度
 > 探讨当代[[Global Education Reform Movement|全球教育改革运动]]（GERM）如何将跨国[[Performance Indicators|绩效指标]]塑造为强制性政策规约，剖析基层教师如何在结构性缝隙中通过形式主义合规化解规约控制。
 
-> [!claim] Komatsu and Rappleye (2017) & [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]]
-> **全球政策规约与基层[[Strategic Compliance|策略性合规]]** 小松与拉普利（Komatsu & Rappleye, 2017）以及约翰逊与詹岑（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）揭示，当代基于实证统计与[[Meta-analysis|元分析]][[Effect Size|效应量]]建构的全球教育治理框架，实质上构成了强大的跨国政策规约（Global Policy Regime）。此类规约并非学校自发演化出的教学理性，而是依赖国家教育行政部门作为第三方强制实施机构，借助绩效问责、资格审查与常规巡视（如维多利亚州 [[Victorian HITS and Literacy Toolkit|HITS]] 督查）实施制度化压制。正由于规约体现了规则制定者（技术官僚、跨国机构与商业出版网络）同规则遵从者（一线教师）之间的权力非对称性，基层教师在面对脱离教学实际的硬性指标时，必然在践行缝隙中采取策略性合规（Strategic Compliance）——如上课前在白板上端正板书当堂课题与[[Learning Intentions|学习意图]]以迎合常规巡检。这种博弈导致政策规约发生严重的“[[Institutional Drift|制度漂移]]”（Institutional Drift），使原本宣称提升学习效能的治理规约演变为耗费基层心力的形式主义表演（[[Performativity]]）。[[Argument_Johnson_2023_CE|(Johnson & Janzen, 2023, pp. 29–31)]]
+> [!claim] Komatsu and Rappleye (2017) & [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]
+> **全球政策规约与基层[[Strategic Compliance|策略性合规]]** 小松与拉普利（Komatsu & Rappleye, 2017）以及约翰逊与詹岑（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）揭示，当代基于实证统计与[[Meta-analysis|元分析]][[Effect Size|效应量]]建构的全球教育治理框架，实质上构成了强大的跨国政策规约（Global Policy Regime）。此类规约并非学校自发演化出的教学理性，而是依赖国家教育行政部门作为第三方强制实施机构，借助绩效问责、资格审查与常规巡视（如维多利亚州 [[Victorian HITS and Literacy Toolkit|HITS]] 督查）实施制度化压制。正由于规约体现了规则制定者（技术官僚、跨国机构与商业出版网络）同规则遵从者（一线教师）之间的权力非对称性，基层教师在面对脱离教学实际的硬性指标时，必然在践行缝隙中采取策略性合规（Strategic Compliance）——如上课前在白板上端正板书当堂课题与[[Learning Intentions|学习意图]]以迎合常规巡检。这种博弈导致政策规约发生严重的“[[Institutional Drift|制度漂移]]”（Institutional Drift），使原本宣称提升学习效能的治理规约演变为耗费基层心力的形式主义表演（[[Performativity]]）。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 29–31)]]
 
 ---
 
@@ -162,7 +162,7 @@ updated: 2026-10-16
 > |:---|:---|:---|:---|
 > | **[[Ontology\|本体论]]命题** | 制度是第三方强制力背书的支配组织，依赖外部制裁维系集体预期 | 现代资本主义国家的核心劳资、金融与福利制度分析 | [[Argument_Streeck_Thelen_2005_OUP\|Streeck and Thelen (2005)]] |
 > | **演化论命题** | 规则设计与微观践行脱节构成内生渐进变迁的结构性源泉 | 法律条文未改但实际体制功能发生重大漂移的制度转型 | [[Argument_Streeck_Thelen_2005_OUP\|Streeck and Thelen (2005)]] |
-> | **全球政策规约命题** | 跨国量化绩效规约依赖国家行政强制背书，诱发基层策略性合规与表演性漂移 | 全球教育改革运动（GERM）、循证清单政策（如维州 HITS） | Komatsu and Rappleye (2017); [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] |
+> | **全球政策规约命题** | 跨国量化绩效规约依赖国家行政强制背书，诱发基层策略性合规与表演性漂移 | 全球教育改革运动（GERM）、循证清单政策（如维州 HITS） | Komatsu and Rappleye (2017); [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] |
 
 ---
 
@@ -172,7 +172,7 @@ updated: 2026-10-16
 > - **1922 — 支配组织理论的提出** [[Max Weber|马克斯·韦伯]]在《经济与社会》中系统提出统治联合体／支配组织（*Herrschaftsverband*）概念，将秩序的维系奠立在专门执行人员的强制保障之上。
 > - **1980年代 — 国际规约与产业民主理论的拓展** 国际政治经济学（Krasner）将规约引入跨国原则与决策程序分析；[[Wolfgang Streeck|施特雷克]]在德国劳资关系研究中将共同决定制阐释为约束资本的“有益的社会规约”。
 > - **2005 — 渐进变迁形态学的[[Ontology|本体论]]确立** 施特雷克与希伦在《制度变迁的超越》中正式将社会规约确立为[[Historical Institutionalism|历史制度主义]]分析[[Paradigm|范式]]的基石，以此破除均衡模型的静态偏误（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005, pp. 9–14]]）。
-> - **2017–2023 — 全球教育政策规约与策略性践行批判** 小松与拉普利（Komatsu & Rappleye, 2017）以及约翰逊与詹岑（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）将规约理论引入跨国教育治理分析，揭露全球量化政策规约（Global Policy Regime）如何在国家强制力背书下侵蚀[[Teacher Professional Agency|教师专业自主权]]并诱发[[Performativity|表演性]][[Institutional Drift|制度漂移]]。
+> - **2017–2023 — 全球教育政策规约与策略性践行批判** 小松与拉普利（Komatsu & Rappleye, 2017）以及约翰逊与詹岑（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）将规约理论引入跨国教育治理分析，揭露全球量化政策规约（Global Policy Regime）如何在国家强制力背书下侵蚀[[Teacher Professional Agency|教师专业自主权]]并诱发[[Performativity|表演性]][[Institutional Drift|制度漂移]]。
 
 ---
 
@@ -190,7 +190,7 @@ updated: 2026-10-16
 > > 聚焦公共政策与教育治理领域，探讨外部刚性规约对微观专业自主权的挤压。
 > >
 > > - **[[New Public Management|新公共管理]]与技术官僚** 主张通过国家行政强制设立统一规约与核查清单，确保大规模公共服务系统合规与审计透明。
-> > - **批判制度学者（[[Argument_Johnson_2023_CE|Johnson & Janzen, 2023]]）** 指出强推脱离情境的刚性规约必然招致基层策略性抵制，摧毁原本依靠专业互信维系的育人生态。
+> > - **批判制度学者（[[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）** 指出强推脱离情境的刚性规约必然招致基层策略性抵制，摧毁原本依靠专业互信维系的育人生态。
 
 ---
 
@@ -202,7 +202,7 @@ updated: 2026-10-16
 > *Institutions are not just self-enforcing equilibria or shared cognitive scripts, but social regimes backed by third-party enforcement ... Because institutions embody collective expectations that are inherently contested, [[Strategic Compliance|compliance]] is always a [[Variable]] rather than a constant, making institutional enactment an ongoing political struggle.*
 
 > [!citation-card] 小松与拉普利论基于无效统计建立的全球政策规约
-> [[OECD|经合组织]]（OECD）的 [[PISA]] 排位与计量经济学家的模型结合，在全球范围内建立起一种强大的新型政策规约（Policy Regime）。这一规约声称建立在实证证据之上，但在统计学底层却充斥着因果倒置与有效性缺失的严重缺陷；然而凭借国家行政力量的强制背书，它深刻规制了各国的教育立法与资源分配。[[Argument_Johnson_2023_CE|(Komatsu & Rappleye, 2017, pp. 166–168, cited in Johnson & Janzen, 2023, p. 17)]]
+> [[OECD|经合组织]]（OECD）的 [[PISA]] 排位与计量经济学家的模型结合，在全球范围内建立起一种强大的新型政策规约（Policy Regime）。这一规约声称建立在实证证据之上，但在统计学底层却充斥着因果倒置与有效性缺失的严重缺陷；然而凭借国家行政力量的强制背书，它深刻规制了各国的教育立法与资源分配。[[Argument_Johnson_2023_CritEduc|(Komatsu & Rappleye, 2017, pp. 166–168, cited in Johnson & Janzen, 2023, p. 17)]]
 >
 > *A new global policy regime founded on invalid statistics? Hanushek, Woessmann, PISA, and economic [[Growth]]... The institutional authority of international testing regimes exerts powerful compliance pressures regardless of underlying methodological validity.*
 
@@ -212,7 +212,7 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 提出将制度定义为第三方强制背书的社会规约，为全书五大渐进变迁形态学奠立[[Ontology|本体论]]基石（pp. 9–16）。
-> - [[Argument_Johnson_2023_CE|Johnson and Janzen (2023)]] — 援引小松与拉普利（Komatsu & Rappleye, 2017）的全球政策规约命题，剖析跨国量化规约在国家行政背书下如何异化为基层教师的[[Performativity|表演性]]打卡。
+> - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 援引小松与拉普利（Komatsu & Rappleye, 2017）的全球政策规约命题，剖析跨国量化规约在国家行政背书下如何异化为基层教师的[[Performativity|表演性]]打卡。
 
 ---
 
@@ -227,4 +227,4 @@ updated: 2026-10-16
 > | [[Strategic Compliance]] | 行动者策略 | 规则遵从者在面对第三方强制规约时采取的表面符合、实际变通的策略博弈。 |
 > | [[Performativity]] | 批判概念 | 刚性政策规约过度推行后诱发的基层虚假表演与合规仪式。 |
 > | [[Global Education Reform Movement]] | 宏观政策 | GERM 代表了跨国资本与技术官僚构建的全球量化教育政策规约。 |
-> | [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023)]] | 实证文献 | 提供了全球政策规约在澳大利亚与新西兰落地并诱发基层策略性合规的批判实证。 |
+> | [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023)]] | 实证文献 | 提供了全球政策规约在澳大利亚与新西兰落地并诱发基层策略性合规的批判实证。 |

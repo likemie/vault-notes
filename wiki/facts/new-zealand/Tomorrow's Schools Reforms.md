@@ -34,7 +34,7 @@ related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
   - "[[Argument_Sarbiewska_2019_JSR]]"
   - "[[Argument_Bates_2017_CognitionEducationTrust]]"
-  - "[[Argument_Johnson_2023_CE]]"
+  - "[[Argument_Johnson_2023_CritEduc]]"
 confidence: medium
 status: draft
 created: '2026-05-04'
@@ -79,9 +79,9 @@ updated: 2026-10-16
 > - 由于学校普遍具有强烈价格敏感性，而许多新服务又必须从原先“免费公共服务”改成收费项目，改革初期的学校支持市场并不稳定。以 Multi Serve 为例，学校对财务管理等收费服务的购买远低于预期，这说明[[School Autonomy|学校自主]]化并没有自动带来成熟、可持续的服务需求([[Argument_Bates_2017_CognitionEducationTrust\|Bates, 2017, p.13, p.16]])
 > - 围绕学校工资究竟应由中央还是学校管理的长期政策摇摆，使改革后的治理结构同时包含放权与重新集中两种方向。结果不是简单撤出国家，而是让 Ministry 在合同、平台更新与采购节奏上持续塑造学校支持服务市场([[Argument_Bates_2017_CognitionEducationTrust\|Bates, 2017, p.15]])
 >
-> ### 从 ESCs 到 Cognition Education 的转化链([[Argument_Johnson_2023_CE\|Johnson & Janzen, 2023]])
+> ### 从 ESCs 到 Cognition Education 的转化链([[Argument_Johnson_2023_CritEduc\|Johnson & Janzen, 2023]])
 >
-> [[Argument_Johnson_2023_CE\|Johnson and Janzen (2023, p.30)]]详细记录了改革引发的私营化链条中的关键一环——Cognition Education 的起源：
+> [[Argument_Johnson_2023_CritEduc\|Johnson and Janzen (2023, p.30)]]详细记录了改革引发的私营化链条中的关键一环——Cognition Education 的起源：
 >
 > - 原 Auckland 学校董事会的**交通和工资部门**被改制为一家 ESC，名为 **Multiserve**，后更名为 **Cognition Education**([[Argument_Bates_2017_CognitionEducationTrust\|Bates, 2017]]; [[Argument_ONeill_2016_Report\|O'Neill et al., 2016]])
 > - 受利润驱动，ESCs 多元化其服务产品。Cognition Education 成为一家**由慈善信托 Cognition Education Trust 全资拥有的营利性公司**

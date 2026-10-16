@@ -50,7 +50,7 @@ related_facts:
   - "[[National Center for Research in Policy and Practice]]"
   - "[[PISA]]"
 related_arguments:
-  - "[[Argument_Nelson_2017_ER]]"
+  - "[[Argument_Nelson_2017_EducRes]]"
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
   - "[[Argument_Mattheou_2009_ScientificParadigm]]"
   - "[[Argument_Dedering_2009_EERJ]]"
@@ -67,11 +67,11 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> 概念性、工具性与象征性使用（Conceptual, Instrumental, and Symbolic Use of Research）是对[[Research Utilization\|研究利用]]方式的经典三分类。概念性使用指研究以复杂而往往间接的方式为实践者提供信息，影响他们对各种议题的理解与思考（Nutley et al., 2007），Weiss (1980, p. 381) 称之为"知识渗透"（knowledge creep）；工具性使用指某一项研究直接回应某一具体议题，直接影响政策或实践决策（Nutley et al., 2007）；象征性（或策略性／战术性）使用指研究主要被用来事后为已作出的决策合法化（Knorr, 1977）。这一类型学也被用于[[Categorical Funding\|分类研究]]干预的长期成果：工具性成果对应研究对实践的直接影响，概念性成果对应研究对思维的间接影响，象征性成果对应使用证据合法化做法或说服他人([[Argument_Nelson_2017_ER\|Nelson & Campbell, 2017, p.132]])。
+> 概念性、工具性与象征性使用（Conceptual, Instrumental, and Symbolic Use of Research）是对[[Research Utilization\|研究利用]]方式的经典三分类。概念性使用指研究以复杂而往往间接的方式为实践者提供信息，影响他们对各种议题的理解与思考（Nutley et al., 2007），Weiss (1980, p. 381) 称之为"知识渗透"（knowledge creep）；工具性使用指某一项研究直接回应某一具体议题，直接影响政策或实践决策（Nutley et al., 2007）；象征性（或策略性／战术性）使用指研究主要被用来事后为已作出的决策合法化（Knorr, 1977）。这一类型学也被用于[[Categorical Funding\|分类研究]]干预的长期成果：工具性成果对应研究对实践的直接影响，概念性成果对应研究对思维的间接影响，象征性成果对应使用证据合法化做法或说服他人([[Argument_Nelson_2017_EducRes\|Nelson & Campbell, 2017, p.132]])。
 
 > [!concept-lens] 概念透镜
 > - **含义** 这个类型学把研究是否被使用重构为研究以什么方式被使用，从而区分直接的应用、间接的认知渗透与策略性的合法化。
-> - **用途** 帮助研究者[[Evaluation Research\|评估研究]]影响的性质：象征性使用看似用了研究，但并不构成真正的[[Knowledge Integration\|知识整合]]；它也可作为测量[[Research-Practice Partnership\|研究-实践伙伴关系]]长期成果的分类框架([[Argument_Nelson_2017_ER\|Nelson & Campbell, 2017, p.132]])。
+> - **用途** 帮助研究者[[Evaluation Research\|评估研究]]影响的性质：象征性使用看似用了研究，但并不构成真正的[[Knowledge Integration\|知识整合]]；它也可作为测量[[Research-Practice Partnership\|研究-实践伙伴关系]]长期成果的分类框架([[Argument_Nelson_2017_EducRes\|Nelson & Campbell, 2017, p.132]])。
 > - **边界** 三分类不是价值等级；概念性使用不等于低效，象征性使用也可能伴随其它正当决策因素。它不回答用什么研究的质量问题（见 [[Quality Use of Research Evidence Framework\|研究证据质量使用框架]]（Quality Use of Research Evidence, QURE））。
 
 > [!citation-card]- 关键表述
@@ -92,7 +92,7 @@ updated: 2026-10-16
 > | 时间关系 | 累积、缓慢渗透 | 即时、指向明确问题 | 决策在前、使用在后 |
 > | 典型形态 | 知识渗透（Weiss, 1980） | 用研究解决眼前问题 | 引用研究支持既定立场 |
 > | 与深层使用的关系 | 常被视为合理使用 | 可能浅层或深层次 | 最常见于浅层或策略性使用 |
-> | 作为长期成果 | 概念性成果（影响思维） | 工具性成果（影响实践） | 象征性成果（合法化做法）([[Argument_Nelson_2017_ER\|Nelson & Campbell, 2017, p.132]]) |
+> | 作为长期成果 | 概念性成果（影响思维） | 工具性成果（影响实践） | 象征性成果（合法化做法）([[Argument_Nelson_2017_EducRes\|Nelson & Campbell, 2017, p.132]]) |
 
 ---
 
@@ -109,7 +109,7 @@ updated: 2026-10-16
 > - **概念性成果（Conceptual outcomes）** 研究对思维的间接影响。
 > - **象征性成果（Symbolic outcomes）** 使用证据合法化某种做法或说服他人其价值。
 >
-> [[National Center for Research in Policy and Practice\|NCRPP]] 学者把这三类识别为长期成果，Wentworth et al. 据此测量[[Research-Practice Partnership\|研究-实践伙伴关系]]对教育者证据本位决策的影响([[Argument_Nelson_2017_ER\|Nelson & Campbell, 2017, p.132]])。
+> [[National Center for Research in Policy and Practice\|NCRPP]] 学者把这三类识别为长期成果，Wentworth et al. 据此测量[[Research-Practice Partnership\|研究-实践伙伴关系]]对教育者证据本位决策的影响([[Argument_Nelson_2017_EducRes\|Nelson & Campbell, 2017, p.132]])。
 
 > [!logic-map]- 要素关系
 > ```mermaid
@@ -172,8 +172,8 @@ updated: 2026-10-16
 > [!concept-lens] 从使用到成果
 > 类型学不仅描述如何使用研究，还被用来分类与测量研究干预的长期成果。
 
-> [!claim] [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]]
-> **成果分类的应用** 在[[Evidence-Informed Practice\|证据知情实践]]的成果测量中，[[National Center for Research in Policy and Practice\|NCRPP]] 学者把工具性、概念性与象征性使用识别为长期成果的三类形态：工具性对应研究对实践的直接影响，概念性对应研究对思维的间接影响，象征性对应使用证据合法化做法或说服他人。Wentworth et al. 据此开发[[Questionnaire\|问卷]]，测量美国[[Research-Practice Partnership\|研究-实践伙伴关系]]对教育者证据本位决策的影响。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p.132)]]
+> [!claim] [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]]
+> **成果分类的应用** 在[[Evidence-Informed Practice\|证据知情实践]]的成果测量中，[[National Center for Research in Policy and Practice\|NCRPP]] 学者把工具性、概念性与象征性使用识别为长期成果的三类形态：工具性对应研究对实践的直接影响，概念性对应研究对思维的间接影响，象征性对应使用证据合法化做法或说服他人。Wentworth et al. 据此开发[[Questionnaire\|问卷]]，测量美国[[Research-Practice Partnership\|研究-实践伙伴关系]]对教育者证据本位决策的影响。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p.132)]]
 
 ---
 
@@ -184,7 +184,7 @@ updated: 2026-10-16
 > |---|---|---|---|
 > | **类型学源流** | 从七模型到三分类的收敛与合法化借口演变 | 研究利用与宏观政策规划 | Weiss (1979); Nutley et al. (2007); Mattheou |
 > | **学校中的分布** | 象征与工具性使用为主，深思熟虑参与罕见 | 学校研究使用的实证描述 | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] |
-> | **成果分类应用** | 类型学扩展为长期成果分类 | 研究影响测量 | [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]] |
+> | **成果分类应用** | 类型学扩展为长期成果分类 | 研究影响测量 | [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] |
 
 ---
 
@@ -195,7 +195,7 @@ updated: 2026-10-16
 > - **1979–1980 — 类型学奠基** Weiss 提出七种[[Research Utilization\|研究利用]]模型，并引入"知识渗透"概念（Weiss, 1980）。
 > - **2007 — 三分类系统化** Nutley et al. (2007) 在公共部门证据使用研究中系统化概念性、工具性与象征性三分类。
 > - **2009 — 政策与行政利用历时演进** [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] 依托德国联邦州教育部实证调研，证明数据利用在 [[PISA]] 震荡初期主要表现为战术性合法化（象征性使用），但经历数轮测评后逐渐演进为问题诊断、弱势补偿（工具性使用）以及假设检验式阅读（概念性使用）。
-> - **2017 — 成果分类应用** 在《Educational Research》特刊中，[[National Center for Research in Policy and Practice\|NCRPP]] 学者与 Wentworth et al. 把概念、工具、象征三类使用作为长期成果框架，用于测量[[Research-Practice Partnership\|研究-实践伙伴关系]]的影响([[Argument_Nelson_2017_ER\|Nelson & Campbell, 2017, p.132]])。
+> - **2017 — 成果分类应用** 在《Educational Research》特刊中，[[National Center for Research in Policy and Practice\|NCRPP]] 学者与 Wentworth et al. 把概念、工具、象征三类使用作为长期成果框架，用于测量[[Research-Practice Partnership\|研究-实践伙伴关系]]的影响([[Argument_Nelson_2017_EducRes\|Nelson & Campbell, 2017, p.132]])。
 > - **2018–2022 — 深层使用扩展** Farley-Ripple et al. (2018, 2022) 把类型学与"用什么、如何用"的深层使用框架结合。
 > - **2026 — 学校情境实证检验** [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] 在[[Systematic Review\|系统综述]]中记录学校研究使用以象征性与工具性为主，并据以论证从实施转向整合。
 
@@ -218,7 +218,7 @@ updated: 2026-10-16
 > [!warning] 适用局限
 > - 类型学是描述性分类，不能直接用于评价某项[[Research Utilization\|研究使用]]"好不好"；象征性使用在社会与政治情境中可能具有正当功能，不应一律视为缺陷。
 > - 将类型学当作规范等级会低估概念性使用的长期价值，并高估工具性使用的直接效果。
-> - 作为成果分类使用时，成果是情境化、多层面的，测量需区分中间成果与长期成果、并用多种量化指标与描述性数据([[Argument_Nelson_2017_ER\|Nelson & Campbell, 2017, pp.131–133]])。
+> - 作为成果分类使用时，成果是情境化、多层面的，测量需区分中间成果与长期成果、并用多种量化指标与描述性数据([[Argument_Nelson_2017_EducRes\|Nelson & Campbell, 2017, pp.131–133]])。
 
 ---
 
@@ -226,5 +226,5 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] — 以该类型学为概念透镜记录学校[[Research Utilization\|研究使用]]方式，发现深思熟虑参与比象征性与工具性使用更罕见，并据此提出从实施走向整合。
-> - [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]] — 在特刊导言中把工具、概念、象征三类使用作为长期成果框架，用于测量[[Research-Practice Partnership\|研究-实践伙伴关系]]对教育者证据本位决策的影响。
+> - [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] — 在特刊导言中把工具、概念、象征三类使用作为长期成果框架，用于测量[[Research-Practice Partnership\|研究-实践伙伴关系]]对教育者证据本位决策的影响。
 > - [[Argument_Dedering_2009_EERJ\|Dedering (2009)]] — 考察德国各州教育部对 [[PISA]] 及大规模测评数据的利用方式，揭示数据使用从早期的战术性合法化（象征性使用）向日常治理中的问题诊断（工具性使用）与假设检验（概念性使用）演进的机制路径。

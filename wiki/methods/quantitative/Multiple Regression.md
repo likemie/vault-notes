@@ -39,11 +39,11 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Creswell_2022_SAGE]]"
-  - "[[Argument_Lodewyk_2007_EP]]"
+  - "[[Argument_Lodewyk_2007_EducPsych]]"
 confidence: medium
 status: draft
 created: 2026-05-31
-updated: 2026-09-17
+updated: 2026-10-16
 ---
 
 # Multiple Regression
@@ -99,5 +99,5 @@ updated: 2026-09-17
 ## 使用此方法的研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] — 采用分层与多元线性回归分析，在控制学校导向（确定知识）后检验固定与快速学习能力（FQAL）及[[Simplicity of Knowledge\|简单知识]]（SK）对总体[[Academic Achievement\|学业成就]]、[[Task Structure\|良构与劣构任务]]表现及[[Reflexivity\|反思性]]判断的预测力。
+> - [[Argument_Lodewyk_2007_EducPsych\|Lodewyk (2007)]] — 采用分层与多元线性回归分析，在控制学校导向（确定知识）后检验固定与快速学习能力（FQAL）及[[Simplicity of Knowledge\|简单知识]]（SK）对总体[[Academic Achievement\|学业成就]]、[[Task Structure\|良构与劣构任务]]表现及[[Reflexivity\|反思性]]判断的预测力。
 

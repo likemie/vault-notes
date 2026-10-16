@@ -7,9 +7,9 @@ title: "Argument_Pavitt_1984_RP"
 argument_key: "Argument_Pavitt_1984_RP"
 argument_display_title: "Sectoral patterns of technical change: Towards a taxonomy and a theory"
 argument_kind: "journal-article"
-argument_related_count: 9
+argument_related_count: 10
 argument_related_level: 0
-argument_related_stars: "☆"
+argument_related_stars: ""
 argument_related_color: "#dbeafe"
 journal: "Research Policy"
 authors:
@@ -40,7 +40,8 @@ related_methods:
   - "[[Analytic Framework]]"
 related_persons: []
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Bogliacino_Pianta_2016_EconPol]]"
 sources:
   - "[[sources/Pavitt_1984_RP|Pavitt_1984_RP]]"
 part_of:
@@ -165,7 +166,7 @@ Pavitt 进一步将分类差异归因于三个因素的[[Interaction Effect|交�
 ## 自述局限
 
 > [!warning]
-> Pavitt 本人承认分类法的经验基础主要是英国制造业数据，对服务业的覆盖不足。分类法需要根据产业结构的持续变化进行更新——特别是 ICT 技术的崛起和服务业在经济中占比的持续上升。这些局限在 [[Argument_Bogliacino_Pianta_2016_EP|Bogliacino and Pianta（2016）]]的研究中得到了回应和部分解决。
+> Pavitt 本人承认分类法的经验基础主要是英国制造业数据，对服务业的覆盖不足。分类法需要根据产业结构的持续变化进行更新——特别是 ICT 技术的崛起和服务业在经济中占比的持续上升。这些局限在 [[Argument_Bogliacino_Pianta_2016_EconPol|Bogliacino and Pianta（2016）]]的研究中得到了回应和部分解决。
 
 ---
 ## 来源

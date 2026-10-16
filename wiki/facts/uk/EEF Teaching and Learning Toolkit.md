@@ -100,7 +100,7 @@ related_arguments:
   - "[[Argument_Gorard_2020_ROE]]"
   - "[[Argument_Cowen_2019_ERE]]"
   - "[[Argument_Bainbridge_2022_ROE]]"
-  - "[[Argument_Simpson_2017_JEP]]"
+  - "[[Argument_Simpson_2017_JEdPolicy]]"
   - "[[Argument_Wrigley_2018_BERJ]]"
   - "[[Argument_Wrigley_2019_ERE]]"
 confidence: high
@@ -225,7 +225,7 @@ updated: 2026-10-16
 > - **“[[Months of Progress\|月度进步指标]]”（Months of Progress）的非线性成长缺陷与透明性掩盖** 戈拉德等（[[Argument_Gorard_2020_ROE\|Gorard et al., 2020]]）及贝尔德与佩恩（Baird & Pane, 2019）对 Toolkit 首创的[[Months of Progress\|月度进步指标]]（$0.1 SD pprox 1$ 个月额外进展）提出了尖锐的方法学批判：
 >   1. **常模非线性成长规律被击穿** 假定全年各年龄段学生匀速线性成长是根本错误的；实证常模表明低幼儿童年自然增长可达 $1.0 \sim 1.5 SD$，而高中生年自然增长仅为 $0.2 SD$。使用全局固定的折算率必然导致跨学段干预评估的严重定向误导；
 >   2. **掩盖原始研究质量与真实离散分布** 通俗隐喻在科学交流上缺乏增量优势，反而掩盖了底层试验的[[Attrition\|样本流失]]率、测量工具偏差以及前[[Pre-test and Post-test\|后测]]绝对均值分布。高水平决策必须回归未调整的组别均值、标准差与标准化[[Effect Size\|效应量]]。[[Argument_Gorard_2020_ROE\|(Gorard et al., 2020, p. 584)]]
-> - **统计效应量的三类系统性失真** 辛普森（[[Argument_Simpson_2017_JEP\|Simpson, 2017]]）揭示了 Toolkit 效应量计算无法回避的三重失真：比较组效应（对照组常规教学基线直接左右效应量）、样本范围限制（极窄弱势样本方差缩窄在公式上虚假放大效应量）、测量工具敏感度（定制测验效应系统性高于统考）。[[Argument_Bainbridge_2022_ROE\|(Bainbridge et al., 2022, p. 4 引用)]]
+> - **统计效应量的三类系统性失真** 辛普森（[[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017]]）揭示了 Toolkit 效应量计算无法回避的三重失真：比较组效应（对照组常规教学基线直接左右效应量）、样本范围限制（极窄弱势样本方差缩窄在公式上虚假放大效应量）、测量工具敏感度（定制测验效应系统性高于统考）。[[Argument_Bainbridge_2022_ROE\|(Bainbridge et al., 2022, p. 4 引用)]]
 > - **“关公战秦琼”式的范畴聚合（苹果与橙子问题）** 里格利（[[Argument_Wrigley_2018_BERJ\|Wrigley, 2018]]）批评指出，若干分类将不同学科、学段与理论内涵迥异的研究机械捏合，掩盖了微观课堂中的巨大[[Heterogeneity\|异质性]]。
 > - **体育参与案例：三级聚合中的因果机制蒸发** 里格利与麦卡斯克（[[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019, pp. 120–123]]）通过穿透式个案剖析展示：工具包标定“体育参与”带来 $+2$ 个月学业进步（效应量 $0.17$），但底层最核心支撑来自著名的[[Playing for Success]]项目（数学效应量 $0.80$）；该项目是在英超俱乐部开展的包含专职辅导、尖端设施与球星激励的资源密集型综合干预，与普通校园体育毫无可比性；统计抽象消除了情境因果机制，导致学校误以为增加体育课时即可增进数学成绩。
 
@@ -250,7 +250,7 @@ updated: 2026-10-16
 > - [[Argument_Gough_2022_EvidenceOnEIPP\|Gough et al. (2022)]] — 调查国际 15 个证据门户，将 Toolkit 确立为通用策略类[[Systematic Review\|系统综述]]标杆，剖析单向传播失效（[[Literacy Octopus\|识字八爪鱼]] [[Randomised Controlled Trials\|RCT]]）及向 [[Research Schools Network\|RSN]] 深度护航的演进逻辑。
 > - [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] — 呈现[[OECD\|经合组织]]政策调查中 Toolkit 的 70% 采纳率与信息促成机制，并援引顾青团队（Gu et al., 2021）实证剖析最终学业产出的时间滞后。
 > - [[Argument_Higgins_2016_ROE\|Higgins (2016)]] — 系统拆解 Toolkit 的方法论架构、[[Umbrella Review\|伞状综述]]设计、六维信息结构及与 Hattie、Marzano 传统的渊源。
-> - [[Argument_Simpson_2017_JEP\|Simpson (2017)]] — 批判 Toolkit [[Effect Size\|效应量]]计算在对照组基线、样本范围与定制测验敏感度上的三重系统偏差。
+> - [[Argument_Simpson_2017_JEdPolicy\|Simpson (2017)]] — 批判 Toolkit [[Effect Size\|效应量]]计算在对照组基线、样本范围与定制测验敏感度上的三重系统偏差。
 > - [[Argument_Wrigley_2018_BERJ\|Wrigley (2018)]] — 批评 Toolkit 范畴聚合中的苹果与橙子问题，指出过度抽象抹杀了课堂复杂情境。
 > - [[Argument_Wrigley_2019_ERE\|Wrigley and McCusker (2019)]] — 穿透式剖析“体育参与”条目，揭示[[Meta-meta-analysis\|二阶元分析]]如何抹杀 [[Playing for Success]] 项目的独特因果机制。
 > - [[Argument_Bainbridge_2022_ROE\|Bainbridge et al. (2022)]] — 揭示英国中央政府在选择性[[Grammar School\|文法学校]]争议中绕开 Toolkit 严谨实证的道德侧步策略。

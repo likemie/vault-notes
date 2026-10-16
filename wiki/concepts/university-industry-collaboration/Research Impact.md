@@ -59,7 +59,7 @@ related_arguments:
   - "[[Argument_Torres_2022_BarriersMechanisms]]"
   - "[[Argument_Torres_2022_KMModels]]"
   - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
-  - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
+  - "[[Argument_Schulze-Cleven_2017_HE]]"
 confidence: high
 status: draft
 created: 2026-09-04
@@ -242,4 +242,4 @@ updated: 2026-10-16
 > - [[Argument_Torres_2022_BarriersMechanisms\|Torres (2022a)]] — [[OECD\|经合组织]]编著第五章，系统提出科研影响力评估的三层阶梯，并实证测度跨国教育系统对[[Research Utilization\|研究利用]]的监测机制覆盖率，揭示“有效机构”面临的最终受益人评估赤字。
 > - [[Argument_Torres_2022_KMModels\|Torres (2022b)]] — 系统评析[[Knowledge Mobilisation\|知识动员]]模型，揭示教育科研影响力的间接缓慢渗透属性，提出乌托邦之喻以强化崇高教育终极目标对生态治理的牵引价值。
 > - [[Argument_OxfordUIDP_2019_UIPartnerships\|Oxford and UIDP (2019)]] — 阐述英国研究评估从单纯资助科学向催化社会经济效益转型的国际政策脉络，分析高校在[[Knowledge Exchange\|知识交流]]与产学伙伴中的影响力测度。
-> - [[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al. (2017)]] — 从[[New Public Management\|新公共管理]]与[[Quasi-markets in Higher Education\|高等教育准市场]]视角，剖析国家评估机制通过量化[[Performance Indicators\|绩效指标]]控制高校资源配置的制度后果。
+> - [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al. (2017)]] — 从[[New Public Management\|新公共管理]]与[[Quasi-markets in Higher Education\|高等教育准市场]]视角，剖析国家评估机制通过量化[[Performance Indicators\|绩效指标]]控制高校资源配置的制度后果。

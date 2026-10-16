@@ -85,7 +85,7 @@ related_facts:
   - "[[Monash Q Project]]"
   - "[[Early Steps]]"
 related_arguments:
-  - "[[Argument_Rickinson_2022_ER]]"
+  - "[[Argument_Rickinson_2022_EducRes]]"
   - "[[Argument_Revai_2022_ChangingLandscape]]"
   - "[[Argument_Torres_2022_KMModels]]"
   - "[[Argument_Hill_2022_FacilitatingActors]]"
@@ -107,7 +107,7 @@ updated: 2026-10-16
 > - **解释对象** 教育领域中研究[[Research Utilization\|证据使用]]的质态（Quality of Use），即超越使用与否的二元统计（如文献阅读量、点击率或引用频次），解释何谓高质量使用（即适切证据与审慎实施的双核互构），以及个体素养心智、学校组织生态与宏观系统治理在多大程度上协同促成或阻碍深思熟虑的证据利用。
 > - **理论问题** 突破传统供给驱动（Push）模式将研究使用窄化为单向学术推送的线性偏误，回应一线教育实践者缺乏甄别信心、被动采购外部方案、时间极度匮乏以及研究脱离教学现场的深层实践困境，建构由供给驱动向需求牵引（Pull）转型的系统解释框架。
 > - **理论类型** 跨层使能机制模型（Multi-level Enabling Framework）、中层[[Analytic Framework\|分析框架]]与规范性实践指引。
-> - **知识位置** 源自澳大利亚莫纳什大学 Q 项目，由 Rickinson et al. (2020, 2022) 奠定核心概念基石；在《教育研究》（*Educational Research*）正式发表跨领域[[Systematic Review\|系统综述]]奠基成果（[[Argument_Rickinson_2022_ER\|Rickinson et al., 2022a]]），并被[[OECD\|经合组织]]（Organisation for Economic Co-operation and Development, [[OECD]]）[[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]确立为贯通微观学校实践（第 9 章）与宏观跨国政策生态诊断（第 1、2、4 章）的核心理论支柱（[[Argument_Revai_2022_ChangingLandscape\|Révai, 2022]]; [[Argument_Torres_2022_KMModels\|Torres, 2022b]]; [[Argument_Hill_2022_FacilitatingActors\|Hill, 2022]]; [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al., 2022b]]）。
+> - **知识位置** 源自澳大利亚莫纳什大学 Q 项目，由 Rickinson et al. (2020, 2022) 奠定核心概念基石；在《教育研究》（*Educational Research*）正式发表跨领域[[Systematic Review\|系统综述]]奠基成果（[[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a]]），并被[[OECD\|经合组织]]（Organisation for Economic Co-operation and Development, [[OECD]]）[[Strengthening the Impact of Education Research Project\|强化教育研究影响力项目]]确立为贯通微观学校实践（第 9 章）与宏观跨国政策生态诊断（第 1、2、4 章）的核心理论支柱（[[Argument_Revai_2022_ChangingLandscape\|Révai, 2022]]; [[Argument_Torres_2022_KMModels\|Torres, 2022b]]; [[Argument_Hill_2022_FacilitatingActors\|Hill, 2022]]; [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al., 2022b]]）。
 
 > [!claim] 核心主张
 > 高质量研究证据使用并非表层的接触频次或机械套用，而是在复杂教育系统内，由个体（技能、心智、关系）、组织（领导力、文化、基础架构）与系统环境多层使能构件协同支持的、对适切研究证据的审慎参与和实施；其实质内涵体现在一线教育者共识确立的六大实践特征（目标明确、常态嵌入、连接专业精神、集体参与、依赖时间精力、好奇心驱动），唯有在制度化排程与榜样型领导力保障下打破时间赤字与单向供给偏误，方能实现研究证据与专业[[Phronesis\|实践智慧]]的深层融合。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 185–191)]]
@@ -142,9 +142,9 @@ QURE 框架的[[Ontology|本体论]]突破在于打破侧重“证据生产质�
 
 > [!theory-components] 高质量使用的双核心构件（Core Components）
 > - **适切研究证据（Appropriate Research Evidence）**
->   强调研究证据质量的情境特异性（Context-specific nature；Nutley et al., 2013）。从使用视角来看，优质研究证据不仅需要在方法学上保持严谨，更必须针对具体的教育问题、学校独特的现场情境脉络以及既定的实践用途实现三维契合。证据的适切性取决于实践者“想知道什么、为何想知道以及如何使用该证据”。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 140–141)]]; [[Argument_Torres_2022_KMModels\|(Torres, 2022b, p. 47)]]
+>   强调研究证据质量的情境特异性（Context-specific nature；Nutley et al., 2013）。从使用视角来看，优质研究证据不仅需要在方法学上保持严谨，更必须针对具体的教育问题、学校独特的现场情境脉络以及既定的实践用途实现三维契合。证据的适切性取决于实践者“想知道什么、为何想知道以及如何使用该证据”。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 140–141)]]; [[Argument_Torres_2022_KMModels\|(Torres, 2022b, p. 47)]]
 > - **审慎参与及实施（Thoughtful Engagement and Implementation）**
->   体现教育者能动克服“研究证据能够自行发声（evidence speaking for itself）”的幻想（Coburn et al., 2009）。它包含对研究证据展开批判性研读、在教研共同体中共同审议其内涵与价值，以及结合教师现场[[Professional Judgment\|专业判断]]与学生学情将证据要素渐进整合于日常专业实践（Sharples, 2013）。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, p. 141)]]
+>   体现教育者能动克服“研究证据能够自行发声（evidence speaking for itself）”的幻想（Coburn et al., 2009）。它包含对研究证据展开批判性研读、在教研共同体中共同审议其内涵与价值，以及结合教师现场[[Professional Judgment\|专业判断]]与学生学情将证据要素渐进整合于日常专业实践（Sharples, 2013）。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, p. 141)]]
 
 ### 三层使能体系与微观机制
 
@@ -152,11 +152,11 @@ QURE 框架的[[Ontology|本体论]]突破在于打破侧重“证据生产质�
 
 > [!dimension] QURE 三层使能构件体系与微观机制（Enabling Components）
 > - **个体使能构件（Individual Enablers）**
->   涵盖实践者的**技能集（Skillsets）**（检索数据库、评估质量与情境化转化能力）、**心智倾向（Mindsets）**（保持探究审问、批判反思自身偏见与前设的态度）以及**人际关系（Relationships）**（教研团队内部的互信连接与跨界协作）。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 142–143)]]
+>   涵盖实践者的**技能集（Skillsets）**（检索数据库、评估质量与情境化转化能力）、**心智倾向（Mindsets）**（保持探究审问、批判反思自身偏见与前设的态度）以及**人际关系（Relationships）**（教研团队内部的互信连接与跨界协作）。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 142–143)]]
 > - **组织使能构件（Organisational Enablers）**
->   涵盖学校**领导力（Leadership）**（校领导树立愿景、言行一致并躬身示范课堂转化）、**[[Organizational Culture\|组织文化]]（Culture）**（全校共享探究规范、鼓励反思并容忍创新试错）以及**基础架构（Infrastructure）**（日常排程中受保障的研讨工时、资源预算与专业协调员配置）。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 143–144)]]
+>   涵盖学校**领导力（Leadership）**（校领导树立愿景、言行一致并躬身示范课堂转化）、**[[Organizational Culture\|组织文化]]（Culture）**（全校共享探究规范、鼓励反思并容忍创新试错）以及**基础架构（Infrastructure）**（日常排程中受保障的研讨工时、资源预算与专业协调员配置）。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 143–144)]]
 > - **系统级环境塑造（System-level Influences）**
->   涵盖宏观绩效问责与督导制度、学区优先施政议程、学术评价与科研资助导向，以及连接实践端与研究端的跨部门支持生态对微观实践的结构塑造。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 144–145)]]
+>   涵盖宏观绩效问责与督导制度、学区优先施政议程、学术评价与科研资助导向，以及连接实践端与研究端的跨部门支持生态对微观实践的结构塑造。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 144–145)]]
 
 ### 一线实践形态：六大特征与两极对照
 
@@ -334,7 +334,7 @@ QURE 框架的[[Ontology|本体论]]突破在于打破侧重“证据生产质�
 > [!dev-timeline] 发展脉络
 > - **2019 — 跨领域[[Systematic Review\|系统综述]]与概念奠基** 莫纳什大学 Q 项目团队针对卫生保健、社会关照、公共政策与教育四大领域的[[Research Utilization\|证据使用]]文献展开系统综述与[[Narrative Synthesis\|叙事综合]]，发现各领域均缺乏关于使用质量的直接界定，初步建构 QURE 框架并开展学校利益相关者工作坊迭代。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 184, 199)]]
 > - **2020 — 框架正式发布** 团队发布奠基性专著报告《Using Evidence Better: Quality Use of Research Evidence Framework》，明确提出双核互构与三层使能系统，将研究使用议程由证据质量转向使用质量（Rickinson et al., 2020）。
-> - **2022 — 同行评议奠基论文发表于《教育研究》** [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]] 在《教育研究》（*Educational Research*）发表同行评议理论论文，详述基于卫生、社会关照、教育与政策四大领域 112 篇核心文献的跨领域系统综述与叙事综合方法，正式确立适切证据与审慎实施双核，并系统阐述个体、组织使能构件及宏观系统影响。（[[Argument_Rickinson_2022_ER\|Rickinson et al., 2022a, pp. 133–158]]）
+> - **2022 — 同行评议奠基论文发表于《教育研究》** [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a)]] 在《教育研究》（*Educational Research*）发表同行评议理论论文，详述基于卫生、社会关照、教育与政策四大领域 112 篇核心文献的跨领域系统综述与叙事综合方法，正式确立适切证据与审慎实施双核，并系统阐述个体、组织使能构件及宏观系统影响。（[[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a, pp. 133–158]]）
 > - **2022 — [[OECD]] [[Knowledge Mobilisation\|知识动员]]模型横向比较** [[Argument_Torres_2022_KMModels\|Torres (2022b)]] 将 QURE 框架作为考察使用质量的第四代创新知识动员模型纳入横向比较，指出其突破了传统模型只关注使用有无的局限，从个体、组织与系统全链条定义了“用得好”的实质内涵。[[Argument_Torres_2022_KMModels\|(Torres, 2022b, pp. 47–50)]]
 > - **2022 — OECD 跨国政策调查[[Operationalization\|操作化]]** [[Argument_Hill_2022_FacilitatingActors\|Hill (2022)]] 首次将 QURE 操作化为跨国政策调查维度，在 29 国 37 个教育系统测度了使能构件分布，揭示出高主观承诺与低信任、行政中介集聚与实践真空等深层结构矛盾。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 75–104)]]
 > - **2022 — [[Monash Q Project\|莫纳什 Q 项目]]全澳 906 名教育者实证发表** [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] 在 OECD 编著第九章系统公布澳大利亚 4 州两轮[[Questionnaire\|问卷]]（$N=906$）与[[In-depth Interview\|深度访谈]]成果，提炼出高质量使用六大实践特征、劣质使用对照矩阵，并量化检验证明了领导示范、[[Professional Learning Community\|PLCs]] 与时间赤字的决定性影响。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 182–199)]]

@@ -42,7 +42,7 @@ related_persons: []
 related_facts: []
 related_arguments:
   - "[[Argument_Hofer_1997_RER]]"
-  - "[[Argument_Lodewyk_2007_EP]]"
+  - "[[Argument_Lodewyk_2007_EducPsych]]"
 status: active
 confidence: high
 created: 2026-08-14
@@ -57,7 +57,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> 知识的简单性（simplicity of knowledge，在量化测验中常简称为简单知识，simple knowledge，SK）是构成[[Epistemological Theories\|认识论理论]]的核心维度之一（属于“知识的本质”范畴）。它指的是个体关于知识组织结构的底层信念：知识究竟是一系列相互孤立、无歧义且无需概念整合的离散事实清单，还是一个高度互联、充满条件性且依赖于具体情境的复杂概念网络。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 120)]]; [[Argument_Lodewyk_2007_EP\|(Lodewyk, 2007, pp. 309-310)]]
+> 知识的简单性（simplicity of knowledge，在量化测验中常简称为简单知识，simple knowledge，SK）是构成[[Epistemological Theories\|认识论理论]]的核心维度之一（属于“知识的本质”范畴）。它指的是个体关于知识组织结构的底层信念：知识究竟是一系列相互孤立、无歧义且无需概念整合的离散事实清单，还是一个高度互联、充满条件性且依赖于具体情境的复杂概念网络。[[Argument_Hofer_1997_RER\|(Hofer & Pintrich, 1997, p. 120)]]; [[Argument_Lodewyk_2007_EducPsych\|(Lodewyk, 2007, pp. 309-310)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 衡量个体在认知加工中对“知识复杂性与概念整合必要性”的深层假设。
@@ -90,8 +90,8 @@ updated: 2026-10-16
 > [!concept-lens] [[Task Structure\|任务结构]]情境下的特异性阻碍
 > 简单知识信念并不影响良构任务得分，但在劣构任务中构成决定性制约瓶颈。
 
-> [!claim] [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]]
-> **劣构任务中的特异性制约效应** 在良构任务（个人生活方式计划）中，因外部提供了完备的大纲与现成算法，简单知识信念与学业得分完全脱钩（$R^2 = .002, p = .69$）；然而在缺乏现成算法的劣构任务（癌症经费分配辩护）中，简单知识信念成为学业总分（$\beta = -.24, p = .02$）以及[[Reflexivity\|反思性]]判断得分（$\beta = -.24, R^2 = .06, p = .02$；控制确定知识后增量 $\Delta R^2 = .07, p = .02$）的唯一核心负向预测源。视知识为简单孤立碎片的学生回避认知歧义、过度依赖单一答案，在需要协调对立证据与价值权衡的开放任务中遭遇严重绩效受损。[[Argument_Lodewyk_2007_EP\|(Lodewyk, 2007, pp. 320-324)]]
+> [!claim] [[Argument_Lodewyk_2007_EducPsych\|Lodewyk (2007)]]
+> **劣构任务中的特异性制约效应** 在良构任务（个人生活方式计划）中，因外部提供了完备的大纲与现成算法，简单知识信念与学业得分完全脱钩（$R^2 = .002, p = .69$）；然而在缺乏现成算法的劣构任务（癌症经费分配辩护）中，简单知识信念成为学业总分（$\beta = -.24, p = .02$）以及[[Reflexivity\|反思性]]判断得分（$\beta = -.24, R^2 = .06, p = .02$；控制确定知识后增量 $\Delta R^2 = .07, p = .02$）的唯一核心负向预测源。视知识为简单孤立碎片的学生回避认知歧义、过度依赖单一答案，在需要协调对立证据与价值权衡的开放任务中遭遇严重绩效受损。[[Argument_Lodewyk_2007_EducPsych\|(Lodewyk, 2007, pp. 320-324)]]
 
 ---
 
@@ -100,8 +100,8 @@ updated: 2026-10-16
 > [!concept-lens] 学业分层中的信念断层
 > 长期优异的[[Academic Achievement\|学业成就]]深度锚定在对知识复杂互联本质的成熟认识之上。
 
-> [!claim] [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]]
-> **学业优等生与学困生的信念梯度** 简单知识信念能够显著负向预测学生的长期总体学业成就预估值（EOAA，$\Delta R^2 = .08, p < .001$）。大样本多变量分析表明，高学业成就组（平时成绩 $>80\%$）在复杂知识网络信念上的成熟度显著超越中等组与低等组（$M = -.21$ vs $.02$ 与 $.18, p < .001, \eta^2 = .06$）。学困生普遍深信知识仅是零散死记硬背清单，导致概念整合与长周期学业输出全面落后。[[Argument_Lodewyk_2007_EP\|(Lodewyk, 2007, pp. 318-320)]]
+> [!claim] [[Argument_Lodewyk_2007_EducPsych\|Lodewyk (2007)]]
+> **学业优等生与学困生的信念梯度** 简单知识信念能够显著负向预测学生的长期总体学业成就预估值（EOAA，$\Delta R^2 = .08, p < .001$）。大样本多变量分析表明，高学业成就组（平时成绩 $>80\%$）在复杂知识网络信念上的成熟度显著超越中等组与低等组（$M = -.21$ vs $.02$ 与 $.18, p < .001, \eta^2 = .06$）。学困生普遍深信知识仅是零散死记硬背清单，导致概念整合与长周期学业输出全面落后。[[Argument_Lodewyk_2007_EducPsych\|(Lodewyk, 2007, pp. 318-320)]]
 
 ---
 
@@ -110,8 +110,8 @@ updated: 2026-10-16
 > [!concept-lens] 教学任务设计的[[Epistemology\|认识论]]反噬
 > 课堂教学若长期依赖单一良构任务，会向学生传递关于知识结构的错误认识论信号。
 
-> [!claim] Spiro et al. (1988); [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]]
-> **简化错觉命题** 如果在教学中布置过多良构任务，教师提供的封闭[[Scaffolding\|脚手架]]会诱发一种该学科领域在根本上是简单孤立的虚假理解，刺激学生采取表层化的[[Student Engagement\|学习投入]]；合理的教学必须保持任务结构的动态平衡，通过引入适度的劣构任务打破简单知识错觉。[[Argument_Lodewyk_2007_EP\|(Lodewyk, 2007, p. 324)]]
+> [!claim] Spiro et al. (1988); [[Argument_Lodewyk_2007_EducPsych\|Lodewyk (2007)]]
+> **简化错觉命题** 如果在教学中布置过多良构任务，教师提供的封闭[[Scaffolding\|脚手架]]会诱发一种该学科领域在根本上是简单孤立的虚假理解，刺激学生采取表层化的[[Student Engagement\|学习投入]]；合理的教学必须保持任务结构的动态平衡，通过引入适度的劣构任务打破简单知识错觉。[[Argument_Lodewyk_2007_EducPsych\|(Lodewyk, 2007, p. 324)]]
 
 ---
 
@@ -133,7 +133,7 @@ updated: 2026-10-16
 > - **1990 年：多维量表中的独立维度析出** Schommer (1990) 首次在[[Epistemology\|认识论]][[Questionnaire\|问卷]]（EQ）中将简单知识（SK）作为独立维度量化，打破了传统单一发展阶段论。
 > - **1994 年：[[Reflective Judgment Model\|反思性判断模型]]中的结构解构** King and Kitchener (1994) 揭示个体在面对争议问题时，从视知识为简单答案向视知识为复杂概率网络的质变过程。
 > - **1997 年：确立为[[Epistemological Theories\|认识论理论]]的核心支柱** [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] 将简单知识与确定知识确立为衡量知识本质维度的两大基石。
-> - **2007 年：微观[[Task Structure\|任务结构]]实验与因果制约确证** [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] 通过十年级科学课组内平衡实验，实证确立了简单知识信念对劣构任务与[[Reflexivity\|反思性]]判断的特异性阻碍机制。
+> - **2007 年：微观[[Task Structure\|任务结构]]实验与因果制约确证** [[Argument_Lodewyk_2007_EducPsych\|Lodewyk (2007)]] 通过十年级科学课组内平衡实验，实证确立了简单知识信念对劣构任务与[[Reflexivity\|反思性]]判断的特异性阻碍机制。
 
 ---
 
@@ -152,7 +152,7 @@ updated: 2026-10-16
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 关键结果 | [[Statistical Significance\|统计显著性]]与[[Effect Size\|效应量]] | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] | 447名加拿大十年级中学生 | [[Questionnaire\|问卷调查]]与多元分层回归 | 总体[[Academic Achievement\|学业成就]]预估（EOAA）、简单知识（SK，3题，解释率 5.75%） | 控制确定知识后，SK 显著负向预测 EOAA（增量 $\Delta R^2 = .08$）；高成就组在 SK 上显著成熟于低成就组（$M = -.21$ vs $.18$） | 回归增量 $F(3,436) = 12.09, p < .001$；学业组间单因素检验 $t = 3.97, p < .001, \eta^2 = .06$ | 证实简单知识信念是区分长期优等生与学困生的核心认知断层指标 |
+> | [[Argument_Lodewyk_2007_EducPsych\|Lodewyk (2007)]] | 447名加拿大十年级中学生 | [[Questionnaire\|问卷调查]]与多元分层回归 | 总体[[Academic Achievement\|学业成就]]预估（EOAA）、简单知识（SK，3题，解释率 5.75%） | 控制确定知识后，SK 显著负向预测 EOAA（增量 $\Delta R^2 = .08$）；高成就组在 SK 上显著成熟于低成就组（$M = -.21$ vs $.18$） | 回归增量 $F(3,436) = 12.09, p < .001$；学业组间单因素检验 $t = 3.97, p < .001, \eta^2 = .06$ | 证实简单知识信念是区分长期优等生与学困生的核心认知断层指标 |
 > | 同上 | 89名加拿大十年级中学生（实验子样本） | 组内平衡设计（良构 vs [[Task Structure\|劣构任务]]） | 良构任务表现（WST）、劣构任务表现（IST）、[[Reflexivity\|反思性]]判断（RJ） | SK 无法预测 WST（$R^2 = .002, p = .69$），但显著负向预测 IST（$\beta = -.24, p = .02$）与 RJ 得分（$\beta = -.24, R^2 = .06, p = .02$；控制 CK 后增量 $\Delta R^2 = .07, p = .02$） | IST 模型 $F(3,85) = 3.80, p = .01$；RJ 模型 $F(3,85) = 2.97, p = .04$；SK 对 RJ 独立效应 $F(1,87) = 5.56, p = .02$ | 确立简单知识信念在劣构情境下对学业产出与高阶反思判断的特异性瓶颈效应 |
 
 ---
@@ -160,7 +160,7 @@ updated: 2026-10-16
 ## 应用案例
 
 > [!example] 典型教学与测评案例
-> - **高中科学劣构论辩任务中的简单知识瓶颈（[[Argument_Lodewyk_2007_EP\|Lodewyk, 2007]]）**
+> - **高中科学劣构论辩任务中的简单知识瓶颈（[[Argument_Lodewyk_2007_EducPsych\|Lodewyk, 2007]]）**
 >   在专案组癌症经费分配任务中，持有简单知识信念的学生倾向于把癌症治疗与预防简化为非此即彼的对立事实，无法综合流行病学数据与临床价值进行辩护，[[Reflexivity\|反思性]]判断评分普遍停留在阶段 1–2。
 > - **[[Concept Mapping\|概念图]]支架干预打破简单知识错觉**
 >   在科学与医学课程中引入跨学科概念图与复杂案例分析，帮助习惯于[[Rote Learning\|死记硬背]]的学生建立概念间的多维网络连接。
@@ -170,5 +170,5 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Lodewyk_2007_EP\|Lodewyk (2007)]] — 实证检验了中学生简单知识（SK）信念在不同[[Task Structure\|任务结构]]下的预测力，发现 SK 显著负向制约劣构任务表现与[[Reflexivity\|反思性]]判断，并揭示了其在不同[[Academic Achievement\|学业成就]]群体中的阶梯分化。
+> - [[Argument_Lodewyk_2007_EducPsych\|Lodewyk (2007)]] — 实证检验了中学生简单知识（SK）信念在不同[[Task Structure\|任务结构]]下的预测力，发现 SK 显著负向制约劣构任务表现与[[Reflexivity\|反思性]]判断，并揭示了其在不同[[Academic Achievement\|学业成就]]群体中的阶梯分化。
 > - [[Argument_Hofer_1997_RER\|Hofer and Pintrich (1997)]] — 系统评述了[[Epistemological Theories\|认识论理论]]中知识简单性维度的概念内涵、发展阶段与心理加工机制。

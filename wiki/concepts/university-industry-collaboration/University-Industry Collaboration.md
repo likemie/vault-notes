@@ -114,7 +114,7 @@ related_arguments:
   - "[[Argument_OxfordUIDP_2019_UIPartnerships]]"
   - "[[Argument_UIDP_2012_PartnershipContinuum]]"
   - "[[Argument_Wolf_2025_InternationalResearchCollab]]"
-  - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
+  - "[[Argument_Schulze-Cleven_2017_HE]]"
   - "[[Argument_Susalka_Carbone_2025_IP_Web]]"
 confidence: high
 status: active
@@ -306,7 +306,7 @@ updated: 2026-10-16
 > > [!axis] 财政伦理与知识产权控制：纳税人出资 vs 商业利润垄断
 > > 公共财政资助的科研成果在商业化中衍生“风险公共承担、利润私人占有”的系统性质疑。
 > >
-> > - **舒尔茨-克莱文等学者（[[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017]]）** 揭示[[Academic Capitalism|学术资本主义]]将公共资助转化为跨国公司垄断专利的“半市场”本质，指责其造成纳税人出资后又需承担高昂产品价格的双重剥削。[[Argument_Schulze-Cleven_2017_HighEduc|(Schulze-Cleven et al., 2017, pp. 800–801)]]
+> > - **舒尔茨-克莱文等学者（[[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al., 2017]]）** 揭示[[Academic Capitalism|学术资本主义]]将公共资助转化为跨国公司垄断专利的“半市场”本质，指责其造成纳税人出资后又需承担高昂产品价格的双重剥削。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, pp. 800–801)]]
 > > - **[[Technology Transfer|技术转移]]实践派（[[Argument_Susalka_Carbone_2025_IP_Web|Susalka & Carbone, 2025]]）** 坚称若无排他许可保护的商业利润预期，工业资本绝无可能承担数亿美元的高风险后续中试与[[Clinical Trial|临床试验]]。[[Argument_Susalka_Carbone_2025_IP_Web|(Susalka & Carbone, 2025, pp. 276–277)]]
 >
 > > [!axis] 协作协调机制：[[Market Fundamentalism|市场原教旨主义]] vs [[Developmental Network State|发展型网络国家]]

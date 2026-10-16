@@ -66,7 +66,7 @@ related_facts:
   - "[[Evidence Network]]"
 related_arguments:
   - "[[Argument_Wadhwa_2024_RER]]"
-  - "[[Argument_Slavin_2019_EP]]"
+  - "[[Argument_Slavin_2019_EducPsychol]]"
   - "[[Argument_Ross_Morrison_2021_ECNUROE]]"
 confidence: high
 status: active
@@ -84,7 +84,7 @@ updated: 2026-10-16
 > **最佳证据百科全书（Best Evidence Encyclopedia, BEE）** 是由国际著名[[Evidence-Based Education\|循证教育]]学者[[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin, 1950–2021）团队于约翰斯·霍普金斯大学教育研究与改革中心（Center for Research and Reform in Education, CRRE）创立的大学学术型[[Educational Evidence Clearinghouses\|证据清算中心]]，受到[[Institute of Education Sciences\|美国教育部教育科学研究院]]（Institute of Education Sciences, IES）长期持续资助。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, p. 7)]]
 
 > [!org-context] 机构背景与运营概况
-> - **成立时间 / 创设背景** 2004 年由 JHU CRRE 创设，旨在以[[Best Evidence Synthesis\|最佳证据综合]]法（Best-Evidence Synthesis, BES）解决全美中小学课程方案缺乏高质量定量[[Meta-analysis\|元分析]]综合的学术痛点。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 22–24)]]
+> - **成立时间 / 创设背景** 2004 年由 JHU CRRE 创设，旨在以[[Best Evidence Synthesis\|最佳证据综合]]法（Best-Evidence Synthesis, BES）解决全美中小学课程方案缺乏高质量定量[[Meta-analysis\|元分析]]综合的学术痛点。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 22–24)]]
 > - **总部地点 / 业务辐射** 总部设于美国马里兰州巴尔的摩市；专精于学前至高中（Pre-K–12）的阅读、数学、科学、教育技术及全校综合改革方案评价。
 > - **法人属性与经费依托** 依托顶尖[[Research Universities|研究型大学]]的专业学术清算机构；主要获得美国联邦教育部 IES 竞争性专项资助及慈善基金会资助。
 > - **在线文库与战略演进** 原始学术文库 [bestevidence.org](https://www.bestevidence.org) 持续在线归档各学科[[Systematic Review\|系统综述]]，而日常面向学校采购的实务评级与决策支持功能已全面升级迁移至符合 [[Every Student Succeeds Act\|ESSA]] [[Evidence Standards\|证据标准]]的交互式旗舰平台 **[[Evidence for ESSA]]**。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, p. 110)]]
@@ -97,7 +97,7 @@ updated: 2026-10-16
 > - **1986 — [[Best Evidence Synthesis\|最佳证据综合]]法（BES）创立** [[Robert Slavin\|罗伯特·斯莱文]]提出“最佳证据综合法”，倡导将[[Systematic Review\|系统综述]]的质性审慎与[[Meta-analysis\|元分析]]的定量加权相融通，奠定 BEE 审查的核心方法学基石。
 > - **2004 — BEE 平台由 JHU CRRE 正式设立** 获得美国教育部 [[Institute of Education Sciences\|IES]] 专项资助，针对全美 K–12 主流阅读与数学课程方案开展大规模学科元分析审查。
 > - **2007–2014 — 学科系统综述矩阵建立** 陆续在《教育研究评论》（RER）等顶级期刊发布初等阅读、中等阅读、中小学数学、幼儿早教、教育[[Technology Infusion\|技术整合]]等十余部奠基性学科元分析报告。
-> - **2015–2017 — [[Every Student Succeeds Act\|ESSA]] 法案颁布与孵化 [[Evidence for ESSA]]** 依据《每个学生成功法案》（ESSA）法定证据分级，JHU 团队依托 BEE 审查标准孵化出面向学区一线采购的新一代决策平台 **[[Evidence for ESSA]]**。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 23–24)]]
+> - **2015–2017 — [[Every Student Succeeds Act\|ESSA]] 法案颁布与孵化 [[Evidence for ESSA]]** 依据《每个学生成功法案》（ESSA）法定证据分级，JHU 团队依托 BEE 审查标准孵化出面向学区一线采购的新一代决策平台 **[[Evidence for ESSA]]**。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 23–24)]]
 > - **2019 — 全球传播网络成熟** 旗下双周刊通讯《简报中的证据》（[[Best Evidence in Brief]], BEiB）向全球数万名教育者与决策者推送，并建立中英多语种国际合作网络。
 
 ---
@@ -142,7 +142,7 @@ updated: 2026-10-16
 > [!indicators]- 影响力维度与指标
 > - **库容规模全美第二** 在全美 12 所清算中心汇总的 1,359 个去重教育干预项目池中，BEE 贡献了 **124 个项目**，规模仅次于 [[What Works Clearinghouse\|WWC]]。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, p. 16)]]
 > - **奠定现代[[Meta-analysis\|元分析]]学科审查[[Paradigm\|范式]]** 其发表的数十篇阅读与数学综合元分析累计被引数千次，成为 WWC 与英国 [[Education Endowment Foundation\|EEF]] 研制教学工具包的重要基础文献。
-> - **直接催生 [[Evidence for ESSA]]** 将学术综述库成功转化为服务各州教育厅与全美学区 [[Title I of the Elementary and Secondary Education Act\|Title I]] 采购的现代决策基础设施。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 23–25)]]
+> - **直接催生 [[Evidence for ESSA]]** 将学术综述库成功转化为服务各州教育厅与全美学区 [[Title I of the Elementary and Secondary Education Act\|Title I]] 采购的现代决策基础设施。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 23–25)]]
 
 > [!stat-cards]- 核心规模数据
 > - **124 个** BEE 纳入的去重教育干预项目总量（居全美清算中心第 2 位）。[[Argument_Wadhwa_2024_RER\|(Wadhwa et al., 2024, p. 16)]]
@@ -167,7 +167,7 @@ updated: 2026-10-16
 > > [!axis] 学者双重身份与潜在利益冲突
 > > 争论由特定干预开发者主导的清算机构是否能保持评价的中立性。
 > >
-> > - **学术批评者** 指出[[Robert Slavin\|罗伯特·斯莱文]]既是 [[Success for All\|SFA]] 的开发者，又是 BEE 与 [[Evidence for ESSA]] 的创立者与评级主管，存在潜在的利益冲突（[[Conflict of Interest in Research\|conflict of interest]]）。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 27)]]
+> > - **学术批评者** 指出[[Robert Slavin\|罗伯特·斯莱文]]既是 [[Success for All\|SFA]] 的开发者，又是 BEE 与 [[Evidence for ESSA]] 的创立者与评级主管，存在潜在的利益冲突（[[Conflict of Interest in Research\|conflict of interest]]）。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 27)]]
 > > - **BEE 团队辩护** 强调 BEE 严格执行透明公开的[[Meta-analysis\|元分析]]编码规则与同行评审出版机制，所有数据与加权计算完全公开可查，其评级结论在 [[What Works Clearinghouse\|WWC]] 等独立政府机构中亦获得高度独立印证。
 >
 > > [!axis] 元分析[[Effect Size\|效应量]]合成 vs 微观分域审查
@@ -186,7 +186,7 @@ updated: 2026-10-16
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Wadhwa_2024_RER\|Wadhwa et al. (2024)]] | 全美 12 所[[Educational Evidence Clearinghouses\|教育证据清算中心]]汇总的 1,359 个去重项目池 | 清算机构跨案例比较与[[Evidence Network\|证据网络]]分析 | 项目收录规模、学科分布、跨中心重叠率与评级一致性 | BEE 收录 124 个项目（居全美第 2 位）；初等阅读（47 项）、数学（39 项）、全校改革（23 项）；与 [[What Works Clearinghouse\|WWC]] 评级一致性达 24.1% | — | 实证确立 BEE 作为大学学术型专精清算中心的体量与基准地位（pp. 16–23） |
-> | [[Argument_Slavin_2019_EP\|Slavin (2019)]] | 全美中小学阅读与数学干预项目三十年[[Meta-analysis\|元分析]]汇总 | 宏观政策综述与方法学质评分析 | [[Business as Usual\|BAU]] 常规对照要求、12 周时长门槛、加权效应量合成与独立测验过滤 | 证实严格执行 [[Best Evidence Synthesis\|BES]] 准则可排除 90% 以上低质自编测验实验，使保留项目的加权效应量收敛于真实生态水平 | — | 阐明定量元分析[[Evidence Standards\|证据标准]]对防范虚高效应量的制度保障效能（pp. 22–26） |
+> | [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] | 全美中小学阅读与数学干预项目三十年[[Meta-analysis\|元分析]]汇总 | 宏观政策综述与方法学质评分析 | [[Business as Usual\|BAU]] 常规对照要求、12 周时长门槛、加权效应量合成与独立测验过滤 | 证实严格执行 [[Best Evidence Synthesis\|BES]] 准则可排除 90% 以上低质自编测验实验，使保留项目的加权效应量收敛于真实生态水平 | — | 阐明定量元分析[[Evidence Standards\|证据标准]]对防范虚高效应量的制度保障效能（pp. 22–26） |
 
 ---
 

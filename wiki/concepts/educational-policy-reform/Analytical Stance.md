@@ -53,7 +53,7 @@ related_persons:
 related_facts:
   - "[[World Bank]]"
 related_arguments:
-  - "[[Argument_Nelson_2017_ER]]"
+  - "[[Argument_Nelson_2017_EducRes]]"
   - "[[Argument_Arnove_2009_WorldSystems]]"
 confidence: medium
 status: draft
@@ -68,7 +68,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> 批判性分析立场（Analytical Stance，简称分析立场）指教育实践者在面对外部学术研究、商业教育产品、政策改革倡议及各类教学法宣称时，所秉持的一种主动审验研究质量、探询因果机制、评估情境适切性并警惕修辞包装的专业认知立场。在《Educational Research》特刊中，[[Argument_Nelson_2017_ER|Nelson and Campbell (2017, pp. 130–131)]] 基于 Nora Carrier（2017）等人的研究强调，成为证据知情教师不仅需要掌握检索文献的技能，更必须确立一种持久的“分析立场”——它超越了被动接受权威指令的盲从态度，也超越了彻底拒斥科学研究的经验虚无主义，构成了教师行使[[Professional Judgment|专业判断]]的[[Epistemology|认识论]]基石。
+> 批判性分析立场（Analytical Stance，简称分析立场）指教育实践者在面对外部学术研究、商业教育产品、政策改革倡议及各类教学法宣称时，所秉持的一种主动审验研究质量、探询因果机制、评估情境适切性并警惕修辞包装的专业认知立场。在《Educational Research》特刊中，[[Argument_Nelson_2017_EducRes|Nelson and Campbell (2017, pp. 130–131)]] 基于 Nora Carrier（2017）等人的研究强调，成为证据知情教师不仅需要掌握检索文献的技能，更必须确立一种持久的“分析立场”——它超越了被动接受权威指令的盲从态度，也超越了彻底拒斥科学研究的经验虚无主义，构成了教师行使[[Professional Judgment|专业判断]]的[[Epistemology|认识论]]基石。
 
 > [!concept-lens] 概念透镜
 > - **认知实质** 从“这是谁推荐的权威方法”转向“这项干预为什么有效、在何种边界条件下有效、对我班学生是否适用”的批判性追问。
@@ -76,7 +76,7 @@ updated: 2026-10-16
 > - **要素协同** 与[[Research Literacy|研究素养]]（技术技能）互为表里：研究素养提供分析工具，分析立场提供态度倾向与反思自觉。
 
 > [!citation-card] 审视研究证据与抵御修辞包装
-> 面对各种说服性极强的教育创新包装，教师必须具备一种‘分析立场’，能够审视证据的质量与来源，而非盲目接受表面华丽的宣传。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 130–131)]]
+> 面对各种说服性极强的教育创新包装，教师必须具备一种‘分析立场’，能够审视证据的质量与来源，而非盲目接受表面华丽的宣传。[[Argument_Nelson_2017_EducRes|(Nelson & Campbell, 2017, pp. 130–131)]]
 >
 > *Teachers faced with persuasive promotional rhetoric need an 'analytical stance' to scrutinise the quality and source of evidence rather than uncritically accepting superficial claims.*
 
@@ -102,7 +102,7 @@ updated: 2026-10-16
 ## 核心要素
 
 > [!feature] 核心要素构成
-> - **因果机制追问意识（Inquiry into Causal Mechanisms）** 不仅关注“是否有效”，更深入探究“它为何有效、在什么心理或社会机制下起作用”。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, p. 130)]]
+> - **因果机制追问意识（Inquiry into Causal Mechanisms）** 不仅关注“是否有效”，更深入探究“它为何有效、在什么心理或社会机制下起作用”。[[Argument_Nelson_2017_EducRes|(Nelson & Campbell, 2017, p. 130)]]
 > - **修辞解构与证据溯源能力（Rhetoric Deconstruction & Source Tracing）** 主动剥离商业营销与[[Persuasive Communication in Education|说服性修辞]]外衣，追溯原始研究的设计类型、样本规模与对照组设置。
 > - **情境边界审慎权衡（Contextual Boundary Appraisal）** 敏锐识别外部[[Study Population and Sample|研究样本]]与本校/本班学情在文化、先验知识和资源上的差异，评估移植风险。
 > - **[[Reflexivity|反思性]]自我质疑习惯（Reflective Self-Questioning）** 用[[Evidence Standards|证据标准]]审视自身既有的教学惯性与直觉偏见，保持开放迭代的专业心态。
@@ -119,8 +119,8 @@ updated: 2026-10-16
 > [!concept-lens] 破除[[Technical Rationality|技术理性]]奴役与确立专业主体性
 > 缺乏分析立场的教师必然沦为外部行政或商业处方的被动执行者。
 
-> [!claim] Nora Carrier (2017) / Campbell et al. (2017) / [[Argument_Nelson_2017_ER|Nelson and Campbell (2017)]]
-> **[[Epistemology|认识论]]解放与专业能动性** 技术理性模型预设外部专家掌握因果真理，教师只需遵从执行。确立“分析立场”意味着教师在认识论上的觉醒与能动性确立：教师不再将学术研究或政策文件视为不容置疑的“圣旨”，而是将其视作为专业审议提供参考的“对话资源”。通过主动对证据进行质量审验与情境适配，教师确立了自身在教学决策中的核心主体地位，实现了从“技术操作工”向“[[Reflexivity|反思性]]实践者”的转变。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 128–131)]]
+> [!claim] Nora Carrier (2017) / Campbell et al. (2017) / [[Argument_Nelson_2017_EducRes|Nelson and Campbell (2017)]]
+> **[[Epistemology|认识论]]解放与专业能动性** 技术理性模型预设外部专家掌握因果真理，教师只需遵从执行。确立“分析立场”意味着教师在认识论上的觉醒与能动性确立：教师不再将学术研究或政策文件视为不容置疑的“圣旨”，而是将其视作为专业审议提供参考的“对话资源”。通过主动对证据进行质量审验与情境适配，教师确立了自身在教学决策中的核心主体地位，实现了从“技术操作工”向“[[Reflexivity|反思性]]实践者”的转变。[[Argument_Nelson_2017_EducRes|(Nelson & Campbell, 2017, pp. 128–131)]]
 
 ---
 
@@ -129,8 +129,8 @@ updated: 2026-10-16
 > [!concept-lens] 组织化批判反思与集体免疫力
 > 个人层面的分析立场容易被孤立动摇，依托教研网络形成的集体分析文化才能形成长效免疫机制。
 
-> [!claim] Cooper et al. (2017) / Campbell et al. (2017) / [[Argument_Nelson_2017_ER|Nelson and Campbell (2017)]]
-> **集体批判审议与专业免疫** 一线教师在面对精心包装的商业教育产品时常常面临信息不对称。当学校或学区依托中层领导、[[Professional Learning Community|专业学习共同体]]（PLC）与教师工会网络搭建起集体研讨机制时，个体的分析立场得以汇聚为组织级的批判审验能力。教师们通过集体研读原始研究、比对本校数据并分享真实试验反馈，能够迅速戳破[[Persuasive Communication in Education|说服性修辞]]的泡沫，筑牢抵御教育伪科学与盲目跟风的系统防线。[[Argument_Nelson_2017_ER|(Nelson & Campbell, 2017, pp. 130–131)]]
+> [!claim] Cooper et al. (2017) / Campbell et al. (2017) / [[Argument_Nelson_2017_EducRes|Nelson and Campbell (2017)]]
+> **集体批判审议与专业免疫** 一线教师在面对精心包装的商业教育产品时常常面临信息不对称。当学校或学区依托中层领导、[[Professional Learning Community|专业学习共同体]]（PLC）与教师工会网络搭建起集体研讨机制时，个体的分析立场得以汇聚为组织级的批判审验能力。教师们通过集体研读原始研究、比对本校数据并分享真实试验反馈，能够迅速戳破[[Persuasive Communication in Education|说服性修辞]]的泡沫，筑牢抵御教育伪科学与盲目跟风的系统防线。[[Argument_Nelson_2017_EducRes|(Nelson & Campbell, 2017, pp. 130–131)]]
 
 ---
 
@@ -179,6 +179,6 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_Nelson_2017_ER|Nelson and Campbell (2017)]] — 阐明分析立场与[[Research Literacy|研究素养]]在[[Evidence-Informed Practice|证据知情实践]]中的核心枢纽地位。
+> - [[Argument_Nelson_2017_EducRes|Nelson and Campbell (2017)]] — 阐明分析立场与[[Research Literacy|研究素养]]在[[Evidence-Informed Practice|证据知情实践]]中的核心枢纽地位。
 > - Carrier (2017) — 提出分析立场以应对教育创新推广者的[[Persuasive Communication in Education|说服性沟通策略]]。
 > - [[Argument_Arnove_2009_WorldSystems|Arnove (2009, pp. 111–112)]] — 结合卡马特（Kamat）对非政府组织承接公共服务外包的研究，阐述批判性分析立场在抵御跨国援助机构技术[[Disciplina and Doctrina|规训]]与防止异化为“[[Shadow State|影子国家]]”中的制度防御功能。

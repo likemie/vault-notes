@@ -109,10 +109,10 @@ related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[EU Evidence-Informed Education Policy Initiatives]]"
 related_arguments:
-  - "[[Argument_Nelson_2017_ER]]"
+  - "[[Argument_Nelson_2017_EducRes]]"
   - "[[Argument_Revai_2022_ChangingLandscape]]"
   - "[[Argument_Rickinson_2022_UsingResearchWell]]"
-  - "[[Argument_Brown_2017_ER]]"
+  - "[[Argument_Brown_2017_EducRes]]"
   - "[[Argument_Brown_Greany_2018_LPS]]"
   - "[[Argument_Ross_Morrison_2021_ECNUROE]]"
   - "[[Argument_Hagevold_Forsstrom_Keles_2026_ERR]]"
@@ -133,7 +133,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> 证据知情实践（Evidence-Informed Practice, EIP）将研究证据定位为影响教育决策的多种资源之一：教育者以[[Professional Judgment\|专业判断]]为决策枢纽，在具体情境中动态整合学术研究证据、系统层面数据与课堂即时数据，拒绝照搬脚本与教条化套用。推进 EIP 的核心在于打破单向供给推送（Push）偏误，转向以一线实践者为中心的需求牵引（Pull），依托榜样型领导力示范、内置排程工时保障以及全系统[[Knowledge Mobilisation\|知识动员]]支撑，实现对适切研究证据的审慎参与与常态化实施。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, pp. 127–129)]]；[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 17–18)]]；[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 183–185)]]
+> 证据知情实践（Evidence-Informed Practice, EIP）将研究证据定位为影响教育决策的多种资源之一：教育者以[[Professional Judgment\|专业判断]]为决策枢纽，在具体情境中动态整合学术研究证据、系统层面数据与课堂即时数据，拒绝照搬脚本与教条化套用。推进 EIP 的核心在于打破单向供给推送（Push）偏误，转向以一线实践者为中心的需求牵引（Pull），依托榜样型领导力示范、内置排程工时保障以及全系统[[Knowledge Mobilisation\|知识动员]]支撑，实现对适切研究证据的审慎参与与常态化实施。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, pp. 127–129)]]；[[Argument_Revai_2022_ChangingLandscape\|(Révai, 2022, pp. 17–18)]]；[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 183–185)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 关注研究证据在教育决策中的位置、转化机制与使用质量：研究是证据拼图的关键板块，须由教育者结合微观教学现场与宏观系统数据进行批判性审议与情境化调试。
@@ -141,7 +141,7 @@ updated: 2026-10-16
 > - **边界** 回答证据在实践决策中处于何种位置以及如何被审慎整合，不直接评价具体干预设计的因果效果等级，亦不能代替对微观师生互动质量的现场专业研判。
 
 > [!citation-card] 专业技能与最佳外部证据的有机整合
-> “证据本位实践不是‘按脚本行事’式的教学或监管，也不应从不容挑战的权威位置规定发生什么；它是将专业技能与来自研究的最佳外部证据相结合，以改善实践质量。”（Sharples, 2013, p. 7，引于 [[Argument_Nelson_2017_ER\|Nelson & Campbell, 2017, p. 129]]；[[Argument_Revai_2022_ChangingLandscape\|Révai, 2022, pp. 17–18]]）
+> “证据本位实践不是‘按脚本行事’式的教学或监管，也不应从不容挑战的权威位置规定发生什么；它是将专业技能与来自研究的最佳外部证据相结合，以改善实践质量。”（Sharples, 2013, p. 7，引于 [[Argument_Nelson_2017_EducRes\|Nelson & Campbell, 2017, p. 129]]；[[Argument_Revai_2022_ChangingLandscape\|Révai, 2022, pp. 17–18]]）
 >
 > *"Evidence-based practice is not 'cook book' teaching or policing, nor should it be about prescribing what goes on from a position of unchallenged authority. It is about integrating professional expertise with the best external evidence from research to improve the quality of practice."*
 
@@ -153,8 +153,8 @@ updated: 2026-10-16
 > [!boundary]- 概念边界
 > - 区别于 [[Evidence-Based Education\|证据本位教育]]（EBE）：EBE 主张由高等级[[Experimental Research\|实验研究]]直接处方化指导决策；EIP 将研究定位为多元输入之一，由专业判断进行审慎权衡与情境改编。
 > - 区别于证据知情决策（Evidence-Informed Decision-Making, EIDM）：EIP 聚焦一线学校与课堂教学实践情境中的专业审议；EIDM 则聚焦系统治理、跨部门政策制定与公共服务项目方案调整中的决策咨询程序（Langer et al., 2016；[[Argument_Revai_2022_ChangingLandscape\|Révai, 2022, p. 18]]）。
-> - 区别于 [[Research-Informed Teaching Practice\|研究知情教学实践]]（RITP）：RITP 侧重学术文献的直接转化与教学法启发；EIP 强调系统管理数据与课堂过程性数据具有同等合法的证据地位，两者在现实中常沦为平行孤岛，EIP 致力于将二者融为一体（[[Argument_Brown_2017_ER\|Brown et al., 2017, p. 156]]）。
-> - 区别于 [[Data-Based Decision Making\|基于数据的决策]]（DBDM）：DBDM 通常局限于校内测试数据的局部调整与学情病因诊断；EIP 强调将内部数据诊断与外部成熟研究干预统一嵌入[[School Enquiry Cycle\|学校探究循环]]（[[Argument_Brown_2017_ER\|Brown et al., 2017, pp. 165–167]]）。
+> - 区别于 [[Research-Informed Teaching Practice\|研究知情教学实践]]（RITP）：RITP 侧重学术文献的直接转化与教学法启发；EIP 强调系统管理数据与课堂过程性数据具有同等合法的证据地位，两者在现实中常沦为平行孤岛，EIP 致力于将二者融为一体（[[Argument_Brown_2017_EducRes\|Brown et al., 2017, p. 156]]）。
+> - 区别于 [[Data-Based Decision Making\|基于数据的决策]]（DBDM）：DBDM 通常局限于校内测试数据的局部调整与学情病因诊断；EIP 强调将内部数据诊断与外部成熟研究干预统一嵌入[[School Enquiry Cycle\|学校探究循环]]（[[Argument_Brown_2017_EducRes\|Brown et al., 2017, pp. 165–167]]）。
 > - 区别于 [[Knowledge Mobilisation\|知识动员]]（KMb）：知识动员是支撑 EIP 实现的中介转化机制与系统策略；EIP 则是教育者在专业决策中所秉持的实践取向本身。
 
 ---
@@ -173,7 +173,7 @@ updated: 2026-10-16
 > [!term] 核心辨析点
 > - **研究与证据的外延差异** 研究特指系统学术探索的产出；证据外延更为宽泛，涵盖课堂过程性数据、系统管理信息与扎根实践的内生经验。
 > - **证据本位与证据知情的取向分歧** 证据本位常强调权威规定与依从执行；证据知情捍卫教育者的专业自主，确立证据作为判断依据而非行动指令。
-> - **证据合法性范畴** 突破单一[[Pragmatism in China\|实验主义]]对证据合法性的垄断，确立教育者在教学现场生成的[[Practice-Based Evidence\|实践本位证据]]（PBE）的正当地位。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, pp. 128–129)]]
+> - **证据合法性范畴** 突破单一[[Pragmatism in China\|实验主义]]对证据合法性的垄断，确立教育者在教学现场生成的[[Practice-Based Evidence\|实践本位证据]]（PBE）的正当地位。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, pp. 128–129)]]
 
 ---
 
@@ -193,8 +193,8 @@ updated: 2026-10-16
 > - **教研协作信任网络（Relationships）** 在专业学习教研组（PLTs）中集体研讨、共同归因，打破教师单打独斗孤岛。
 > - **榜样型领导力示范（Role-modelling Leadership）** [[School Leadership\|学校领导]]层言行一致、躬身示范[[Research Translation\|研究转化]]，为教师试错提供心理安全感。
 > - **内置工时与排程保障（Protected Infrastructure）** 在日常排课与作息中刚性划拨专业研讨时间，坚决削减行政繁冗负担。
-> - **系统性探究规程（Systematic Inquiry Protocol）** 严格遵循八步闭环（[[School Enquiry Cycle\|ESTI]]），防范教育者仅凭个人直觉草率决策或陷入证实偏见。[[Argument_Brown_2017_ER\|(Brown et al., 2017, p. 166)]]
-> - **双素养协同培育（Dual Literacy Development）** 协同培育教师的[[Data Literacy\|数据素养]]（采集与质检校本数据）与[[Research Literacy\|研究素养]]（检索与转译外部实证），打破专业能力壁垒。[[Argument_Brown_2017_ER\|(Brown et al., 2017, p. 167)]]
+> - **系统性探究规程（Systematic Inquiry Protocol）** 严格遵循八步闭环（[[School Enquiry Cycle\|ESTI]]），防范教育者仅凭个人直觉草率决策或陷入证实偏见。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, p. 166)]]
+> - **双素养协同培育（Dual Literacy Development）** 协同培育教师的[[Data Literacy\|数据素养]]（采集与质检校本数据）与[[Research Literacy\|研究素养]]（检索与转译外部实证），打破专业能力壁垒。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, p. 167)]]
 
 > [!factors] EIP 在学校层面落地的四类关键因素
 > - **能力** 参与研究并运用研究证据与数据的能力，包括解读校本数据以定位问题、判断研究方法的优势与局限、理解[[Recontextualization|再情境化]]，以及掌握[[Inquiry Cycle\|探究循环]]与影响测量的方法。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 122–123)]]
@@ -243,11 +243,11 @@ updated: 2026-10-16
 > [!concept-lens] 证据地位与多源整合机制
 > 探讨研究证据在专业决策中的本体定位，确立[[Professional Judgment\|专业判断]]作为连接抽象规律与微观课堂情境的核心转化枢纽。
 
-> [!claim] [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]]; Sharples (2013)
-> **多源整合与专业审议** 证据知情实践将专业专长、系统管理数据、课堂即时数据与来自研究的外部证据有机融合。研究证据是关键拼图，但不构成决策的全部；教育决策兼具技术性、伦理价值与政治情境性，唯有通过教育者的专业判断进行审议与改编，外部研究才能克服教条主义，转化为高质量的实践行动。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, pp. 127–129)]]
+> [!claim] [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]]; Sharples (2013)
+> **多源整合与专业审议** 证据知情实践将专业专长、系统管理数据、课堂即时数据与来自研究的外部证据有机融合。研究证据是关键拼图，但不构成决策的全部；教育决策兼具技术性、伦理价值与政治情境性，唯有通过教育者的专业判断进行审议与改编，外部研究才能克服教条主义，转化为高质量的实践行动。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, pp. 127–129)]]
 
-> [!claim] [[Argument_Brown_2017_ER\|Brown et al. (2017)]]
-> **双轨割裂超越与[[Inquiry Cycle\|探究循环]][[Operationalization\|操作化]]** 证据知情实践在微观推行中长期面临基于数据决策（[[Data-Based Decision Making\|DBDM]]）与研究知情实践（[[Research-Informed Teaching Practice\|RITP]]）两个领域的结构性割裂：前者擅长校本学情病因诊断却缺乏[[Effective Teaching\|有效教学]]干预策略，后者掌握丰富有效策略却脱离校本真实痛点。两派优势恰好呈镜像互补；通过构建“证据知情学校与教师改进”（[[School Enquiry Cycle\|ESTI]]）八步探究循环，将校本数据诊断、实践者默会智慧与外部学术研究系统咬合，EIP 方能克服抽象概念宣示，落地为兼顾有效性、高效性与公平性的整体性专业实践。[[Argument_Brown_2017_ER\|(Brown et al., 2017, pp. 156, 165–167)]]
+> [!claim] [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]]
+> **双轨割裂超越与[[Inquiry Cycle\|探究循环]][[Operationalization\|操作化]]** 证据知情实践在微观推行中长期面临基于数据决策（[[Data-Based Decision Making\|DBDM]]）与研究知情实践（[[Research-Informed Teaching Practice\|RITP]]）两个领域的结构性割裂：前者擅长校本学情病因诊断却缺乏[[Effective Teaching\|有效教学]]干预策略，后者掌握丰富有效策略却脱离校本真实痛点。两派优势恰好呈镜像互补；通过构建“证据知情学校与教师改进”（[[School Enquiry Cycle\|ESTI]]）八步探究循环，将校本数据诊断、实践者默会智慧与外部学术研究系统咬合，EIP 方能克服抽象概念宣示，落地为兼顾有效性、高效性与公平性的整体性专业实践。[[Argument_Brown_2017_EducRes\|(Brown et al., 2017, pp. 156, 165–167)]]
 
 ---
 
@@ -257,10 +257,10 @@ updated: 2026-10-16
 > 审视实证因果黄金标准与一线教师生成的实践知识之间的[[Epistemology\|认识论]]冲突，确立多元证据的共存与互补关系。
 
 > [!claim] Goldacre (2013); Bredo (2006)
-> **有效性与育人价值的[[Paradigm\|范式]]对立** [[Evidence-Based Education\|证据本位教育]]倡导者主张通过[[Randomised Controlled Trials\|随机对照试验]]（RCT）建立关于有效性（What Works）的因果证据；批判学者指出，将教育研究窄化为实验因果律会排斥关乎教育目的与伦理价值的议题（What Matters），EIP 必须包容多元认识论视角。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 128)]]
+> **有效性与育人价值的[[Paradigm\|范式]]对立** [[Evidence-Based Education\|证据本位教育]]倡导者主张通过[[Randomised Controlled Trials\|随机对照试验]]（RCT）建立关于有效性（What Works）的因果证据；批判学者指出，将教育研究窄化为实验因果律会排斥关乎教育目的与伦理价值的议题（What Matters），EIP 必须包容多元认识论视角。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 128)]]
 
 > [!claim] Bryk (2015); LaPointe-McEwan et al. (2017); Rickinson et al. (2017)
-> **实践本位证据的正当性与[[Triangulation\|三角验证]]** 教育者在日常教学中生成的细粒度知识构成[[Practice-Based Evidence\|实践本位证据]]（PBE），在形成性支持教师学习与学生成长中发挥着关键效用。实践者通过定性观察与定量测评的[[Triangulation\|三角验证]]，推动可得证据向适切证据动态转化。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, pp. 129–130)]]
+> **实践本位证据的正当性与[[Triangulation\|三角验证]]** 教育者在日常教学中生成的细粒度知识构成[[Practice-Based Evidence\|实践本位证据]]（PBE），在形成性支持教师学习与学生成长中发挥着关键效用。实践者通过定性观察与定量测评的[[Triangulation\|三角验证]]，推动可得证据向适切证据动态转化。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, pp. 129–130)]]
 
 ---
 
@@ -269,11 +269,11 @@ updated: 2026-10-16
 > [!concept-lens] 知识流动机制与系统动员条件
 > 剖析证据从生成到应用之间的转化阻滞，论证全系统生态建设与中介能力培育在克服双向能力赤字中的决定性功能。
 
-> [!claim] [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]]; Carrier (2017); Cooper et al. (2017)
-> **肥沃土壤与同行网络中介** 推进 EIP 的关键前提在于培育使教育者能够主动批判、实施与改编证据的肥沃土壤，单纯向学校推送研究报告无法突破专业壁垒。一线教师获取实践信息高度依赖同行人际网络，需发展分析性立场以抵御缺乏实证支撑的说服性商业修辞，并依托[[School Leadership\|学校领导]]与工会等中介组织实现专业转译。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, pp. 127, 130)]]
+> [!claim] [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]]; Carrier (2017); Cooper et al. (2017)
+> **肥沃土壤与同行网络中介** 推进 EIP 的关键前提在于培育使教育者能够主动批判、实施与改编证据的肥沃土壤，单纯向学校推送研究报告无法突破专业壁垒。一线教师获取实践信息高度依赖同行人际网络，需发展分析性立场以抵御缺乏实证支撑的说服性商业修辞，并依托[[School Leadership\|学校领导]]与工会等中介组织实现专业转译。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, pp. 127, 130)]]
 
 > [!claim] Campbell et al. (2017); [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]]
-> **双向能力建设与从实施转向整合** [[Knowledge Mobilisation\|知识动员]]的瓶颈在于研究生产者与使用者均普遍存在能力短板；推进 EIP 依赖优质知识产出、协作伙伴关系与全系统能力承诺的三位一体。跨国[[Systematic Review\|系统综述]]表明，学校[[Research Utilization\|研究使用]]正由自上而下的机械实施范式，转向强调[[Teacher Professional Agency\|教师能动性]]、信任网络与跨层治理的整合范式。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, pp. 130–131)]]; [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, pp. 12–15)]]
+> **双向能力建设与从实施转向整合** [[Knowledge Mobilisation\|知识动员]]的瓶颈在于研究生产者与使用者均普遍存在能力短板；推进 EIP 依赖优质知识产出、协作伙伴关系与全系统能力承诺的三位一体。跨国[[Systematic Review\|系统综述]]表明，学校[[Research Utilization\|研究使用]]正由自上而下的机械实施范式，转向强调[[Teacher Professional Agency\|教师能动性]]、信任网络与跨层治理的整合范式。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, pp. 130–131)]]; [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|(Hagevold et al., 2026, pp. 12–15)]]
 
 > [!claim] [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]]
 > **专长类型断裂与治理异化** 宏观治理环境与专长类型分野是决定 EIP 成败的深层结构[[Variable\|变量]]。推崇医学模式与随机对照试验的技术客观性代表了研究者与中介机构的[[Interactional Expertise\|交互型专长]]，而一线教师与校长的实践知识则属于高度具身、默会的情境化[[Contributory Expertise\|贡献型专长]]。在英格兰等高利害市场化治理体制下，证据被异化为学校领导者迎合外部督导与证明专业正当性的[[Performativity|表演性]]工具；唯有在低利害问责并保障[[Practitioner Enquiry\|实践者探究]]（如苏格兰部分实践与德国同行咨询）的生态中，两类专长才能展开良性协同。[[Argument_Kelly_2025_ROE\|(Kelly et al., 2025, pp. 21–23)]]
@@ -298,8 +298,8 @@ updated: 2026-10-16
 > [!concept-lens] 成果分层类型学与多维评估
 > 针对 EIP 实施程度与实际影响评估的滞后性，构建涵盖行为心智与深层实践重塑的观测框架。
 
-> [!claim] [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]]; Wentworth et al. (2017)
-> **双重知识缺口与成果分层类型学** 评估 EIP 对教学实践与学生成果的影响面临实证匮乏与方法工具不成熟的双重挑战。成效评估须区分以搜寻行为与探究心智为主的中间成果（Intermediate Outcomes），以及涵盖工具性直接改进、概念性思维重塑与象征性合法化辩护的长期成果（Long-Term Outcomes），坚持多维量化指标与丰富质性描述并重，避免落入窄化量化主义的陷阱。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, pp. 131–133)]]
+> [!claim] [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]]; Wentworth et al. (2017)
+> **双重知识缺口与成果分层类型学** 评估 EIP 对教学实践与学生成果的影响面临实证匮乏与方法工具不成熟的双重挑战。成效评估须区分以搜寻行为与探究心智为主的中间成果（Intermediate Outcomes），以及涵盖工具性直接改进、概念性思维重塑与象征性合法化辩护的长期成果（Long-Term Outcomes），坚持多维量化指标与丰富质性描述并重，避免落入窄化量化主义的陷阱。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, pp. 131–133)]]
 
 ---
 
@@ -334,7 +334,7 @@ updated: 2026-10-16
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **多源整合** | 研究证据只是决策资源之一，专业判断为情境整合枢纽，以探究循环融通数据与研究 | 克服机械执行，超越 DBDM 与 RITP 双轨割裂 | Sharples (2013); [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]]; [[Argument_Brown_2017_ER\|Brown et al. (2017)]] |
+> | **多源整合** | 研究证据只是决策资源之一，专业判断为情境整合枢纽，以探究循环融通数据与研究 | 克服机械执行，超越 DBDM 与 RITP 双轨割裂 | Sharples (2013); [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]]; [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] |
 > | **证据合法性** | 因果黄金标准与实践本位证据并存，适切性重于普遍性 | 倡导课堂数据三角验证与情境判断 | Goldacre (2013); Bredo (2006); Bryk (2015); Rickinson et al. (2017) |
 > | **系统动员** | 系统推进依赖肥沃土壤与双向能力，推动从实施转向整合 | 建设 [[Research-Practice Partnership\|RPP]] 伙伴关系、跨界中介与探究文化 | Campbell et al. (2017); [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] |
 > | **专长类型与治理体制** | 宏观治理环境与专长类型分野（贡献型 vs 交互型）决定 EIP 生态，高利害问责诱发表演性异化 | 跨国比较治理、问责生态与学校领导循证实践分析 | [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]]; Collins and Evans (2002) |
@@ -348,12 +348,12 @@ updated: 2026-10-16
 ## 概念演变
 
 > [!dev-timeline] 概念演变
-> - **1979 — [[Research Utilization\|研究利用]]理论奠基** Weiss (1979) 提出研究利用的多元模式（工具性、概念性、象征性等），打破研究直接指导决策的[[Technical Rationality\|技术理性]]设想，为 EIP 奠定[[Epistemology\|认识论]]基石。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 127)]]
+> - **1979 — [[Research Utilization\|研究利用]]理论奠基** Weiss (1979) 提出研究利用的多元模式（工具性、概念性、象征性等），打破研究直接指导决策的[[Technical Rationality\|技术理性]]设想，为 EIP 奠定[[Epistemology\|认识论]]基石。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 127)]]
 > - **1996 — 教学作为研究本位专业** Hargreaves (1996) 发表演讲，倡导重塑教学为由研究支撑的专业，引发英美等国关于教育证据角色的大规模政策论争。
 > - **2000s–2010s — 制度化推进与因果问责** 英国实施 [[Teaching and Learning Research Programme\|TLRP]] 研究计划，美国出台 [[No Child Left Behind Act 2001\|NCLB]] 强化因果实验标准与 What Works 运动，加拿大安大略省推进教育研究与评估战略。
-> - **2013–2015 — 草根转向与翻转系统** 英国一线教师发起 [[ResearchED]] 草根运动，[[Chartered College of Teaching\|特许教学学院]]成立；Evers and Kneyber (2015) 编著《Flip the System》，倡导教师[[Professional Judgment\|专业判断]]引领变革、抗衡自上而下行政问责。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 128)]]
-> - **2017 — 定义、应用与测量的三轴整合** [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]] 编辑特刊，将 EIP 系统化组织为定义（四源整合）、应用（[[Knowledge Mobilisation\|知识动员]]四策略与肥沃土壤）与测量（双重缺口与成果分层）三大主题。
-> - **2017 — [[Operationalization\|操作化]]整合模型（[[School Enquiry Cycle\|ESTI]]）与两界融通** [[Argument_Brown_2017_ER\|Brown et al. (2017)]] 针对 EIP 在实践中分裂为 [[Data-Based Decision Making\|DBDM]] 与 [[Research-Informed Teaching Practice\|RITP]] 的双轨割裂现状，提出整合内部[[Data Team Intervention\|数据团队]]与外部[[Research Learning Communities\|研究学习共同体]]的 ESTI 八步[[Inquiry Cycle\|探究循环]]，为 EIP 奠定了微观操作化理论基石。
+> - **2013–2015 — 草根转向与翻转系统** 英国一线教师发起 [[ResearchED]] 草根运动，[[Chartered College of Teaching\|特许教学学院]]成立；Evers and Kneyber (2015) 编著《Flip the System》，倡导教师[[Professional Judgment\|专业判断]]引领变革、抗衡自上而下行政问责。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 128)]]
+> - **2017 — 定义、应用与测量的三轴整合** [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] 编辑特刊，将 EIP 系统化组织为定义（四源整合）、应用（[[Knowledge Mobilisation\|知识动员]]四策略与肥沃土壤）与测量（双重缺口与成果分层）三大主题。
+> - **2017 — [[Operationalization\|操作化]]整合模型（[[School Enquiry Cycle\|ESTI]]）与两界融通** [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] 针对 EIP 在实践中分裂为 [[Data-Based Decision Making\|DBDM]] 与 [[Research-Informed Teaching Practice\|RITP]] 的双轨割裂现状，提出整合内部[[Data Team Intervention\|数据团队]]与外部[[Research Learning Communities\|研究学习共同体]]的 ESTI 八步[[Inquiry Cycle\|探究循环]]，为 EIP 奠定了微观操作化理论基石。
 > - **2018 — 组织单位上移与四类关键因素** [[Argument_Brown_Greany_2018_LPS\|Brown and Greany (2018)]] 把[[Unit of Analysis\|分析单位]]由个体决策上移至学校组织，提出参与研究的能力、研究使用的文化常规、有效学习环境与支持性结构系统资源四类关键因素，并在英格兰 79 所小学测量其准备状态;研究同时指出 EIP 的稳定推进依赖外部问责与督导框架的明确支持。[[Argument_Brown_Greany_2018_LPS\|(Brown & Greany, 2018, pp. 122–126, 133)]]
 > - **2021 — 欧洲政策语言与非处方化协调** 在[[EU|欧盟]]语境中，EIP 被重新概念化为适应成员国教育主权、培育评价文化与[[Knowledge Mediation\|知识中介]]的非处方化政策语言。[[Argument_Pellegrini_2021_ECNUROE\|(Pellegrini & Vivanet, 2021, pp. 28–31)]]
 > - **2021 — [[Local Knowledge in Evidence-Based Policy\|地方知识]]与多维决策信息的显影** [[Argument_Ross_Morrison_2021_ECNUROE\|Ross and Morrison (2021)]] 结合 [[Every Student Succeeds Act\|ESSA]] [[Evidence Standards\|证据标准]]与巴尔的摩 [[Students and Teachers Accessing Tomorrow\|STAT]] 项目，论证实施语境、成本与地方知识对证据使用的塑造作用。
@@ -371,10 +371,10 @@ updated: 2026-10-16
 > [!debates] 学术争议
 >
 > > [!axis] EIP 是否为弱化[[Evidence Standards\|证据标准]]的妥协折衷
-> > 强循证倡导者批评 EIP 将非实验证据和经验置于同等地位，可能为低质量研究或个人直觉提供庇护；EIP 支持者指出，排他性的实验因果标准无法应对复杂的微观教学现场，EIP 是对教育决策生态真实复杂性的尊重。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, pp. 128–129)]]
+> > 强循证倡导者批评 EIP 将非实验证据和经验置于同等地位，可能为低质量研究或个人直觉提供庇护；EIP 支持者指出，排他性的实验因果标准无法应对复杂的微观教学现场，EIP 是对教育决策生态真实复杂性的尊重。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, pp. 128–129)]]
 > >
 > > - **Goldacre (2013)** 坚持医学式严密 [[Randomised Controlled Trials\|RCT]] 因果标准，批评主观[[Empiricism\|经验主义]]。
-> > - **[[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]]** 捍卫多源审议，主张[[Professional Judgment\|专业判断]]具有最高整合裁决权。
+> > - **[[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]]** 捍卫多源审议，主张[[Professional Judgment\|专业判断]]具有最高整合裁决权。
 >
 > > [!axis] 谁的证据算数与[[Epistemology\|认识论]]霸权
 > > 学界围绕外部量化实验证据与内生[[Practice-Based Evidence\|实践本位证据]]的合法性展开长期辩论。一方坚持 What Works 的普适因果效度，另一方捍卫教师[[Action Research\|行动研究]]与质性课堂数据的实践价值。
@@ -390,12 +390,12 @@ updated: 2026-10-16
 
 > [!tension] 核心张力
 > - **实验黄金标准（What Works）** 追求普遍因果效度与标准化干预效果，主张依据证据金字塔等级实施干预方案。
-> - **多元价值审议（What Matters）** 关注教育的长远育人目的、伦理适切性与情境特殊性，主张专业判断具有最高裁决权。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 128)]]
+> - **多元价值审议（What Matters）** 关注教育的长远育人目的、伦理适切性与情境特殊性，主张专业判断具有最高裁决权。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 128)]]
 
 > [!warning] 适用局限
 > - **多源整合的模糊性与权衡标准缺失** 若未建立严谨的审议框架，多源整合容易导致不同利益主体各取所需，使同一批评估数据得出截然相反的结论。[[Argument_Ross_Morrison_2021_ECNUROE\|(Ross & Morrison, 2021, p. 123)]]
 > - **压倒性时间赤字与行政杂务挤压** 澳大利亚调查显示，高达 76% 教师在校缺乏时间、61% 感到耗时不划算，在缺乏专有工时保障的科层体制中，EIP 极易异化为透支教师个人休息时间的隐性负担或走过场。[[Argument_Rickinson_2022_UsingResearchWell\|(Rickinson et al., 2022b, pp. 192–193)]]
-> - **动态社会过程的测量与归因困境** EIP 是一项跨层级的复杂社会交互过程，因果链条冗长，过度追求量化指标易诱发指标异化风险。[[Argument_Nelson_2017_ER\|(Nelson & Campbell, 2017, p. 133)]]
+> - **动态社会过程的测量与归因困境** EIP 是一项跨层级的复杂社会交互过程，因果链条冗长，过度追求量化指标易诱发指标异化风险。[[Argument_Nelson_2017_EducRes\|(Nelson & Campbell, 2017, p. 133)]]
 > - **西方英语语境中心主义** 现有 EIP 理论与实证积累高度集中于英美加澳等国，在高度中央集权或资源匮乏的教育系统中，其制度适用性与中介机制仍有待检验。
 
 ---
@@ -408,12 +408,12 @@ updated: 2026-10-16
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
 > | [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] | 英格兰、苏格兰与德国汉堡 3 个教育系统的 34 所中小学（共 53 名[[School Leadership\|学校领导]]者） | 跨国比较案例研究与半结构化[[In-depth Interview\|深度访谈]] | 治理体制、专长类型分化与 EIP / [[Research Utilization\|研究使用]]形态 | 英格兰在强外部督导下以二级综述（[[Education Endowment Foundation\|EEF]] 工具包）为合规护身符；苏格兰与汉堡依托实践者探究与同行咨询融合本土经验与学术证据 | — | 质性多案例设计，反映学校领导者在不同治理体制下的主观经验与专长互动机制 |
-> | [[Argument_Brown_2017_ER\|Brown et al. (2017, pp. 158, 161)]] | 荷兰与瑞典 80 余所中小学（[[Data Team Intervention\|数据团队]]干预）及英格兰 43 所小学（[[Research Learning Communities\|RLC]] 专业网络） | [[Randomised Controlled Trials\|随机对照试验]]（RCT）、跟踪评估与[[Network Analysis\|社会网络分析]]（SNA） | [[Data-Based Decision Making\|DBDM]] 与 [[Research-Informed Teaching Practice\|RITP]] 两大微观干预对教师素养、教研文化与[[Academic Achievement\|学业成绩]]的影响 | 数据团队显著提升[[Data Literacy\|数据素养]]并带动部分学校数学与阅读成绩增长，但教师普遍苦于无法独立研制干预措施；RLC 显著提升[[Research Translation\|研究转译]]与协作文化，但缺乏数据诊断时易陷入追逐热门话题偏差 | RCT 与 SNA 检验具有显著积极成效 | 实证印证了两大[[Paradigm\|范式]]各自具有实证效能但存在互补盲区，支持通过 [[School Enquiry Cycle\|ESTI]] 整合为统一的证据知情循环 |
+> | [[Argument_Brown_2017_EducRes\|Brown et al. (2017, pp. 158, 161)]] | 荷兰与瑞典 80 余所中小学（[[Data Team Intervention\|数据团队]]干预）及英格兰 43 所小学（[[Research Learning Communities\|RLC]] 专业网络） | [[Randomised Controlled Trials\|随机对照试验]]（RCT）、跟踪评估与[[Network Analysis\|社会网络分析]]（SNA） | [[Data-Based Decision Making\|DBDM]] 与 [[Research-Informed Teaching Practice\|RITP]] 两大微观干预对教师素养、教研文化与[[Academic Achievement\|学业成绩]]的影响 | 数据团队显著提升[[Data Literacy\|数据素养]]并带动部分学校数学与阅读成绩增长，但教师普遍苦于无法独立研制干预措施；RLC 显著提升[[Research Translation\|研究转译]]与协作文化，但缺乏数据诊断时易陷入追逐热门话题偏差 | RCT 与 SNA 检验具有显著积极成效 | 实证印证了两大[[Paradigm\|范式]]各自具有实证效能但存在互补盲区，支持通过 [[School Enquiry Cycle\|ESTI]] 整合为统一的证据知情循环 |
 > | [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] | 澳大利亚 4 个州（NSW、VIC、QLD、SA）中小学 906 名教育者（Survey 1 为 492 人，Survey 2 为 414 人）及 29 名访谈受访者 | 两轮标准化[[Questionnaire\|问卷调查]]（SPSS 重编码与 Fisher 精确检验）与半结构化[[In-depth Interview\|深度访谈]]（主题分析） | [[Research Utilization\|证据使用]]行为、使能条件与阻碍因素（领导示范、[[Professional Learning Community\|PLCs]]、时间赤字、质量信心） | 76% 报告在校严重缺乏接触研究时间；61% 认为耗时过长致使用不划算；59% 课后加班、69% 周末研读；84% 管理者与 73% 教师认同领导言行一致示范；44% 缺乏质量判断信心；PLCs 显著提升常规使用概率 | Fisher 精确检验 $p < .05$ | 基于澳大利亚基础教育教师与管理者的经验自陈，课堂直接教学行为客观测量仍待跨国拓展 |
-> | [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017, p. 130)]] 转述 Cooper et al. | 教师群体，课堂评估实践信息搜寻行为 | 调查与深度访谈 | 教师获取信息的最首要渠道 | 教师主要从其他一线教师（同行网络）获取评估实践信息 | — | 证实一线人际网络在教育证据流动中的支配性地位 |
+> | [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017, p. 130)]] 转述 Cooper et al. | 教师群体，课堂评估实践信息搜寻行为 | 调查与深度访谈 | 教师获取信息的最首要渠道 | 教师主要从其他一线教师（同行网络）获取评估实践信息 | — | 证实一线人际网络在教育证据流动中的支配性地位 |
 > | 同上 转述 LaPointe-McEwan et al. | 协作探究网络中的教师证据使用 | [[Mixed Methods Research\|混合方法]]实证研究 | 各类证据来源的接纳与使用频率 | 实践来源证据的使用频率与信赖度显著高于原始学术研究 | — | 证实即使在主动推进证据使用的试验项目中，实践证据依然居主导 |
 > | 同上 转述 CUREE (2011) | 英格兰专业发展中实践者参与研究的状况 | [[Systematic Review\|系统综述]] | 实践者参与研究的普及程度 | 实践者参与研究日益普遍，但实现常态化依然进展缓慢 | — | 证实对教学实践有潜在益处，但尚未转化为全行业普遍制度文化 |
-> | [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017, p. 131)]] 转述 Dagenais et al. (2012) | EIP 实际成效与收益的实证文献库 | 实证证据综述 | EIP 实际成效的严谨实证积累量 | 严谨实证证据极其匮乏 | — | 提示教育界自身关于 EIP 成效的定量与定性评估严谨性仍显不足 |
+> | [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017, p. 131)]] 转述 Dagenais et al. (2012) | EIP 实际成效与收益的实证文献库 | 实证证据综述 | EIP 实际成效的严谨实证积累量 | 严谨实证证据极其匮乏 | — | 提示教育界自身关于 EIP 成效的定量与定性评估严谨性仍显不足 |
 > | [[Argument_Revai_2022_ChangingLandscape\|Révai (2022, pp. 25–27)]] | 29 个国家的 37 个教育系统教育部高层决策者与政策团队 | 跨国政策调查与[[Semi-structured Interview\|半结构化访谈]] | 循证政策与实践推进机制及系统性阻碍 | 绝大多数系统缺乏对多样化中介机制的统筹协调，政策与实践环境割裂严重，学术激励错位与及时性不足是核心瓶颈 | — | 代表中央与地方教育部官员主观认知与制度自陈，各系统对政策制定者边界定义存在口径差异 |
 > | [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] | 涵盖 28 个国家的 109 项学校研究使用实证研究 | 系统综述＋[[Framework Synthesis\|框架综合]] | 研究使用形态分布与主导[[Paradigm\|范式]] | 象征性与[[Conceptual, Instrumental, and Symbolic Use of Research\|工具性使用]]占据主导，深思熟虑的探究性参与相对罕见 | — | 支持从单纯外部研究实施转向内生多源整合 |
 > | [[Argument_Ross_Morrison_2021_ECNUROE\|Ross and Morrison (2021, pp. 120–121)]] | 学校教育产品与改革方案的决策者 | 问卷调查与案例分析 | 决策信息渠道的信赖与采纳偏好 | 显著偏好同伴推荐与本地试点经验，而非纯粹学术研究证据 | — | 决策者更关注项目特征、实施要求、使用满意度与本土适配性 |
@@ -428,11 +428,11 @@ updated: 2026-10-16
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Kelly_2025_ROE\|Kelly et al. (2025)]] — 比较英格兰、苏格兰与汉堡 53 名[[School Leadership\|学校领导]]者：高利害问责使[[Research Utilization\|研究使用]]沦为象征性合规，低利害探究文化促进贡献型与[[Interactional Expertise\|交互型专长]]融合。
 > - [[Argument_Knogler_2025_BB\|Knogler et al. (2025)]] — 结合 [[Clearing House Unterricht]] 十年运行与 189 名教师教育者的评估，论证以[[Meta-analysis\|元分析]]为证据基底、以师资培训者为支点，可推进 EIP 并缓解[[Research-Practice Gap\|转移困境]]。
-> - [[Argument_Brown_2017_ER\|Brown et al. (2017)]] — 诊断 EIP 在微观实践中的 [[Data-Based Decision Making\|DBDM]] 与 [[Research-Informed Teaching Practice\|RITP]] 双轨割裂困境，提出八步 [[School Enquiry Cycle\|ESTI]] [[Inquiry Cycle\|探究循环]]与三大微观支撑机制，为两界整合与 EIP 微观[[Operationalization\|操作化]]奠定理论与实证基石。
+> - [[Argument_Brown_2017_EducRes\|Brown et al. (2017)]] — 诊断 EIP 在微观实践中的 [[Data-Based Decision Making\|DBDM]] 与 [[Research-Informed Teaching Practice\|RITP]] 双轨割裂困境，提出八步 [[School Enquiry Cycle\|ESTI]] [[Inquiry Cycle\|探究循环]]与三大微观支撑机制，为两界整合与 EIP 微观[[Operationalization\|操作化]]奠定理论与实证基石。
 > - [[Argument_Rickinson_2022_UsingResearchWell\|Rickinson et al. (2022b)]] — 莫纳什大学 Q 项目旗舰成果，结合全澳 906 名教育者两轮调查与[[In-depth Interview\|深度访谈]]，系统揭示从证据质量向使用质量跃迁的实践机制，确立六大特征并量化检验榜样领导力与时间赤字的决定性影响。
 > - [[Argument_Burns_Schuller_2022_BrokerageAgencies\|Burns and Schuller (2022)]] — 追溯 15 年来循证运动从政策端向实践端的演进历程，反思证据知情标签的商业公关化风险，并借助循证医学反思捍卫教师[[Professional Judgment\|专业判断]]与[[Knowledge Mediation\|知识中介]]的独立性。
 > - [[Argument_Revai_2022_ChangingLandscape\|Révai (2022)]] — 梳理 EIP [[Epistemology\|认识论]]变迁与 20 年知识管理脉络，将实践知情与政策决策统合进复杂[[Evidence Ecosystem\|证据生态系统]]，并对 29 国跨国政策调查框架展开系统奠基。
-> - [[Argument_Nelson_2017_ER\|Nelson and Campbell (2017)]] — 系统构建 EIP 的三维理论框架，阐述四源整合机制、[[Knowledge Mobilisation\|知识动员]]策略与成果测量类型学。
+> - [[Argument_Nelson_2017_EducRes\|Nelson and Campbell (2017)]] — 系统构建 EIP 的三维理论框架，阐述四源整合机制、[[Knowledge Mobilisation\|知识动员]]策略与成果测量类型学。
 > - [[Argument_Ross_Morrison_2021_ECNUROE\|Ross and Morrison (2021)]] — 通过马里兰州 [[Students and Teachers Accessing Tomorrow\|STAT]] 技术改革项目，检验 [[Every Student Succeeds Act\|ESSA]] [[Evidence Standards\|证据标准]]在学区采购与复杂改革中的局限性，论证[[Local Knowledge in Evidence-Based Policy\|地方知识]]与实施成本对[[Evidence-Informed Decision-Making\|证据知情决策]]的塑造作用。
 > - [[Argument_Pellegrini_2021_ECNUROE\|Pellegrini and Vivanet (2021)]] — 梳理[[EU|欧盟]]证据知情教育政策与中介机构网络，提出适应成员国教育主权、非处方式推进评价文化与证据支持的跨国治理路径。
 > - [[Argument_Hagevold_Forsstrom_Keles_2026_ERR\|Hagevold et al. (2026)]] — 基于跨国 109 项研究的[[Systematic Review\|系统综述]]，提出学校[[Research Utilization\|研究使用]]应从自上而下的线性实施转向以[[Teacher Professional Agency\|教师能动性]]为核心的多维整合[[Paradigm\|范式]]。

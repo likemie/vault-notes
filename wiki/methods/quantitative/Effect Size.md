@@ -95,7 +95,7 @@ related_arguments:
   - "[[Argument_Higgins_2016_ROE]]"
   - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_Hattie_2005_ACER]]"
-  - "[[Argument_Simpson_2017_JEP]]"
+  - "[[Argument_Simpson_2017_JEdPolicy]]"
   - "[[Argument_Simpson_2019_ERE]]"
   - "[[Argument_Wiliam_2019_ERE]]"
   - "[[Argument_Kraft_2023_ER]]"
@@ -155,7 +155,7 @@ updated: 2026-10-16
 > - **2005** — [[John Hattie\|约翰·哈蒂]]（[[John Hattie]]）在 [[Australian Council for Educational Research\|ACER]] 会议报告中基于 100 余项元分析与 50 余万个效应量确立 $d = 0.40$ 为教学干预的“关节点（[[Zone of Desired Effects|Hinge Point]]）”，提出批判教育界将门槛定得过低的“零门槛谬误”，并依托[[Assessment Tools for Teaching and Learning\|教学与学习评估工具]]（[[Assessment Tools for Teaching and Learning\|asTTle]]）推动效应量在中小学校本评价与教师教学改进中的[[Going Native\|本土化]]应用（[[Argument_Hattie_2005_ACER\|Hattie, 2005, pp. 15–17]]）。
 > - **2009** — [[John Hattie]] 出版《[[Visible Learning\|可见的学习]]》，综合 800 多项元分析和 50,000 多项研究，以效应量排名各类教育干预，使效应量概念进入全球教育政策和实践[[Discourse|话语]]。
 > - **2014** — [[EEF Teaching and Learning Toolkit]] 以[[Effect Size Conversion\|效应量转换]]为"额外学习月数"的格式传播教育干预证据。
-> - **2017 至 2018** — Simpson 发表系统批判，论证效应量测量的是试验灵敏度而非干预有效性（[[Argument_Simpson_2017_JEP\|Simpson, 2017]], 2018）。
+> - **2017 至 2018** — Simpson 发表系统批判，论证效应量测量的是试验灵敏度而非干预有效性（[[Argument_Simpson_2017_JEdPolicy\|Simpson, 2017]], 2018）。
 > - **2019** — Simpson 用"教一个匈牙利单词"思想实验展示同一干预可因测试设计产生 0 到无穷大的效应量；Wrigley & McCusker 通过 [[Education Endowment Foundation\|EEF]] Toolkit 体育参与案例展示[[Meta-meta-analysis\|元-元分析]]层面的三级失真；Wiliam 提出 11 点元分析评估清单([[Argument_Simpson_2019_ERE\|Simpson, 2019]]; [[Argument_Wrigley_2019_ERE\|Wrigley & McCusker, 2019]]; [[Argument_Wiliam_2019_ERE\|Wiliam, 2019]])。
 > - **2020 至 2023** — Kraft 以教育[[Randomised Controlled Trials\|随机对照试验]]中标准化[[Academic Achievement\|学业成绩]]结果的经验分布替代 Cohen 基准，并强调 36% 的效应量小于 0.05 这一"失败频率"应成为解释政策相关性的核心参照([[Argument_Kraft_2023_ER\|Kraft, 2023, pp.183–184]])。
 > - **2025** — Kalmendal 等人发表全库[[Metascience|元科学]]质量审计，基于 Morris and DeShon（2002）的方法学原理实证剖析了效应量跨设计聚合的根本风险：指出组间与组内设计估计的是完全不同的总体参数，且与常规教学比较 vs 与积极干预比较的效应量存在翻倍差异；简单混合聚合严重摧毁了通用效应量指标的数学可比性（[[Argument_Kalmendal_2025_PsyArXiv\|Kalmendal et al., 2025, p. 16]]）。

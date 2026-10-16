@@ -76,7 +76,7 @@ related_facts:
   - "[[CREATES Project]]"
 related_arguments:
   - "[[Argument_Beech_2009_GlobalGarden]]"
-  - "[[Argument_Chinn_2011_EP]]"
+  - "[[Argument_Chinn_2011_EducPsychol]]"
   - "[[Argument_Du_Yuan_2026_AIS]]"
   - "[[Argument_Wu_2025_ER]]"
 confidence: high
@@ -92,7 +92,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> 认识立场（Epistemic Stances）是指个体、专业共同体或国际政策组织对特定知识主张、信息来源或治理模型所持有的差异化承诺程度与[[Reflexivity|反思性]]态度，包括绝对确信、批判性怀疑、暂且接受、作为工作假设（[[Working Hypothesis]]）推演或视其为开放可能性。在学习科学[[Epistemic Cognition|认识论认知]]框架中，该概念取代了传统发展心理学关于“知识要么确定、要么相对”的单一静态发展阶段论；在宏观比较教育与全球治理视阈下，该概念被运用于解构跨国机构（如[[World Bank|世界银行]]、[[UNESCO|联合国教科文组织]]、[[OECD|经合组织]]）在意识形态竞争中对教育本质与发展规律所秉持的规范性认识前设[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 346–348)]]；在当代人工智能中介学习环境中，该概念进一步演进为学习者与生成式系统交互时的**适应性认识立场（Adaptive Epistemic Stances）**，即根据任务风险与系统[[Educational Affordances|可供性]]在工具性信赖、审慎核验与对抗性质疑之间动态切换的主体能力。[[Argument_Chinn_2011_EP|(Chinn et al., 2011, p. 142)]]; [[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026, pp. 3–4)]]
+> 认识立场（Epistemic Stances）是指个体、专业共同体或国际政策组织对特定知识主张、信息来源或治理模型所持有的差异化承诺程度与[[Reflexivity|反思性]]态度，包括绝对确信、批判性怀疑、暂且接受、作为工作假设（[[Working Hypothesis]]）推演或视其为开放可能性。在学习科学[[Epistemic Cognition|认识论认知]]框架中，该概念取代了传统发展心理学关于“知识要么确定、要么相对”的单一静态发展阶段论；在宏观比较教育与全球治理视阈下，该概念被运用于解构跨国机构（如[[World Bank|世界银行]]、[[UNESCO|联合国教科文组织]]、[[OECD|经合组织]]）在意识形态竞争中对教育本质与发展规律所秉持的规范性认识前设[[Argument_Beech_2009_GlobalGarden|(Beech, 2009b, pp. 346–348)]]；在当代人工智能中介学习环境中，该概念进一步演进为学习者与生成式系统交互时的**适应性认识立场（Adaptive Epistemic Stances）**，即根据任务风险与系统[[Educational Affordances|可供性]]在工具性信赖、审慎核验与对抗性质疑之间动态切换的主体能力。[[Argument_Chinn_2011_EducPsychol|(Chinn et al., 2011, p. 142)]]; [[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026, pp. 3–4)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 认知主体与特定知识命题、信息代理或政策学说之间信奉度与批判距离的关系度量。
@@ -102,7 +102,7 @@ updated: 2026-10-16
 > - **边界** 认识立场是对命题或信源的情境化姿态，不等于个体内在固化的性格特质，亦不等于抽象的[[Epistemological Beliefs|认识论信念]]（Epistemological Beliefs）。
 
 > [!citation-card] Chinn et al. 论认识立场的多元共存
-> 个体对不同主张的态度并非铁板一块。认识立场打破了传统将确定性视为单一维度的假定，确立了学习者面对不同命题时可以展现出从完全信任、经验怀疑到作为工作假设等多元并存的认知光谱。[[Argument_Chinn_2011_EP|(Chinn et al., 2011, pp. 142–143)]]
+> 个体对不同主张的态度并非铁板一块。认识立场打破了传统将确定性视为单一维度的假定，确立了学习者面对不同命题时可以展现出从完全信任、经验怀疑到作为工作假设等多元并存的认知光谱。[[Argument_Chinn_2011_EducPsychol|(Chinn et al., 2011, pp. 142–143)]]
 >
 > *Epistemic stances encompass beliefs about whether one believes a claim, with what degree of confidence, and with what attitude—such as holding a claim as a tentative working [[Hypothesis]], accepting it provisionally, or rejecting it as unsubstantiated.*
 
@@ -170,8 +170,8 @@ updated: 2026-10-16
 > [!concept-lens] 认知姿态解构与命题特异性
 > 阐明个体对待知识的态度依存于具体命题与情境，彻底替代传统阶段论的单一指标。
 
-> [!claim] [[Argument_Chinn_2011_EP\|Chinn et al. (2011)]]
-> **命题特异性与多重立场并存** [[Epistemic Cognition\|认识论认知]]不能被简化为“个体认为知识是绝对确定还是暂定的”这般二元单维指标。同一个学习者在同一时期面对不同知识命题时，必然展现出多元并存的认识立场：例如在面对生理学中心脏泵血机制时持有绝对确信，在面对咖啡因长期健康效应时表现出怀疑，而在面对某种维生素治疗假说时则采纳工作假设态度。因此，认识立场是个体在特定领域与命题情境中动态协商的产物。[[Argument_Chinn_2011_EP\|(Chinn et al., 2011, pp. 142–143)]]
+> [!claim] [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011)]]
+> **命题特异性与多重立场并存** [[Epistemic Cognition\|认识论认知]]不能被简化为“个体认为知识是绝对确定还是暂定的”这般二元单维指标。同一个学习者在同一时期面对不同知识命题时，必然展现出多元并存的认识立场：例如在面对生理学中心脏泵血机制时持有绝对确信，在面对咖啡因长期健康效应时表现出怀疑，而在面对某种维生素治疗假说时则采纳工作假设态度。因此，认识立场是个体在特定领域与命题情境中动态协商的产物。[[Argument_Chinn_2011_EducPsychol\|(Chinn et al., 2011, pp. 142–143)]]
 
 ---
 
@@ -216,7 +216,7 @@ updated: 2026-10-16
 > [!contrast-table] 所有命题归纳
 > | 命题类型 | 核心主张 | 适用情境 | 代表学者 |
 > |---|---|---|---|
-> | **多元共存命题** | 认识立场打破单一确定性指标，在不同命题上呈现差异化态度光谱 | 科学探究、证据评估与概念学习 | [[Argument_Chinn_2011_EP\|Chinn et al. (2011, pp. 142–143)]] |
+> | **多元共存命题** | 认识立场打破单一确定性指标，在不同命题上呈现差异化态度光谱 | 科学探究、证据评估与概念学习 | [[Argument_Chinn_2011_EducPsychol\|Chinn et al. (2011, pp. 142–143)]] |
 > | **人机分化命题** | 学习者在人机交互中呈现绝对论、多元论与评价论三阶分化，决定认知卸载性质 | 生成式 AI 人机协同学习、统计推论与学术写作 | [[Argument_Wu_2025_ER\|Wu et al. (2025, pp. 360–364)]]; [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026, pp. 3–4)]] |
 > | **双轨支架命题** | 提示词支架与同行评议双轨协同能有效驱动认识立场向评价主义演进 | 智能中介探究设计、大模型提示词工程与课堂评价 | [[Argument_Wu_2025_ER\|Wu et al. (2025, pp. 361–366)]] |
 > | **机构共识命题** | 跨国机构在表层认识论立场分歧下达成以五大支柱为核心的深层治理规训共识 | 跨国教育政策转移、国际机构[[Discourse\|话语]]霸权与全球教育治理 | [[Argument_Beech_2009_GlobalGarden\|Beech (2009b, pp. 346–349)]] |
@@ -228,7 +228,7 @@ updated: 2026-10-16
 > [!dev-timeline] 概念演变脉络
 > - **1970–1990 年代 — 确定性阶段论主导** 威廉·佩里（William G. Perry）、帕特里夏·金（Patricia King）与凯伦·基奇纳（Karen Kitchener）等学者将个人[[Epistemology|认识论]]视为由绝对主义（二元确定）向相对主义、再向[[Reflexivity|反思性]]承诺发展的单向阶梯。
 > - **2009 年 — 跨国政策[[Discourse|话语]]与机构认识论立场解构** [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] 将认识论立场概念延伸至超国家治理领域，系统解构[[World Bank|世界银行]]（[[Human Capital Theory|人力资本]]投资）、[[UNESCO|联合国教科文组织]]（人文主义）与[[OECD|经合组织]]（混合新自由主义）的表层认识论对立及其深层治理方案同构。
-> - **2011 年 — 扩展[[Epistemic Cognition|认识论认知]]与立场重构** [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] 正式提出“认识立场（Epistemic Stances）”作为五大核心构件之一，彻底打破单一确定性维度，奠定命题情境化态度研究基石。
+> - **2011 年 — 扩展[[Epistemic Cognition|认识论认知]]与立场重构** [[Argument_Chinn_2011_EducPsychol|Chinn et al. (2011)]] 正式提出“认识立场（Epistemic Stances）”作为五大核心构件之一，彻底打破单一确定性维度，奠定命题情境化态度研究基石。
 > - **2025–2026 年 — 人工智能中介与自适应立场转向** [[Argument_Wu_2025_ER|Wu et al. (2025)]] 与 [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] 将其引入[[Man-Computer Symbiosis|人机共生]]学习，确立“自适应认识立场”与双轨支架干预矩阵，作为防范有害[[Epistemic Dependence|认识依赖]]、维系关系性[[Epistemic Agency|认识主体性]]的核心机制。
 
 ---
@@ -265,7 +265,7 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Wu_2025_ER|Wu et al. (2025)]] — 提出人机自适应认识立场框架，系统解构绝对论、多元论与评价论在[[Man-Computer Symbiosis|人机协同]]解决问题中的表现与转化机制，并建立双轨支架干预模型。
-> - [[Argument_Chinn_2011_EP|Chinn et al. (2011)]] — 奠基性专论，系统将确定性重构为个体的情境化认识立场，确立[[Epistemic Cognition|认识论认知]]扩展框架。
+> - [[Argument_Chinn_2011_EducPsychol|Chinn et al. (2011)]] — 奠基性专论，系统将确定性重构为个体的情境化认识立场，确立[[Epistemic Cognition|认识论认知]]扩展框架。
 > - [[Argument_Du_Yuan_2026_AIS|Du and Yuan (2026)]] — 将适应性认识立场引入人工智能中介学习审思，论证根据中介形态自适应调整立场是抵御[[Epistemic Dependence|认识依赖]]与维护主体性的关键机制。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 比较[[World Bank|世行]]、[[UNESCO|教科文组织]]与[[OECD|经合组织]]在[[Human Capital Theory|人力资本]]与人文主义上的[[Epistemology|认识论]]立场分歧，揭示其在信息时代设想与五大支柱治理处方上的深层同构。
 

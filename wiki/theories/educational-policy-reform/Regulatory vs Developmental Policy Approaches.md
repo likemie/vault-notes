@@ -39,11 +39,11 @@ related_facts:
   - "[[No Child Left Behind Act 2001]]"
   - "[[Every Student Succeeds Act]]"
 related_arguments:
-  - "[[Argument_Serpell_2020_EP]]"
+  - "[[Argument_Serpell_2020_EducPsychol]]"
 confidence: high
 status: completed
 created: 2026-09-17
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 
 # Regulatory vs Developmental Policy Approaches
@@ -59,10 +59,10 @@ updated: 2026-10-15
 > - **知识位置** 由[[Zewelanji N. Serpell\|泽韦兰吉·N·瑟佩尔]]（[[Zewelanji N. Serpell]], 2020）基于公共政策学界关于气候适应政策的分类理论（Russel et al., 2018; Sutcliffe & Court, 2005）转译拓展至教育政策与[[Output-Oriented Governance\|循证治理]]领域。
 
 > [!claim] 核心主张
-> 规制型政策进路试图建立具有强制约束力的法定行动框架，依赖单一可测指标与惩戒性问责防范违规与资金浪费，但极易引发实践异化；发展型政策进路则将政策视为动态变革的赋能工具，倡导因地制宜与本土创新，注重综合多元指标并鼓励证据使用。循证改革要真正发挥效能，必须从死板的规制型控制转向兼顾情境[[Heterogeneity\|异质性]]与组织生态的发展型治理。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 41)]]
+> 规制型政策进路试图建立具有强制约束力的法定行动框架，依赖单一可测指标与惩戒性问责防范违规与资金浪费，但极易引发实践异化；发展型政策进路则将政策视为动态变革的赋能工具，倡导因地制宜与本土创新，注重综合多元指标并鼓励证据使用。循证改革要真正发挥效能，必须从死板的规制型控制转向兼顾情境[[Heterogeneity\|异质性]]与组织生态的发展型治理。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 41)]]
 
 > [!citation-card]- 理论源流与教育转译阐述
-> 规制型进路与发展型进路之间的区分至关重要，因为每种进路都会塑造出截然不同的政策结构。规制型进路旨在建立强制性的行动框架，其目标是创建一个稳定的监管环境，以便监督和纠正行动……发展型进路则致力于将政策融入持续变革的动态情境之中，政策旨在促进而非规制，旨在培育和部署支持积极变革的新颖实践。在发展型进路中，证据不再被视作唯一或最关键的要素，关注政策制定的具体情境以及人的因素变得至关重要。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 41)]]
+> 规制型进路与发展型进路之间的区分至关重要，因为每种进路都会塑造出截然不同的政策结构。规制型进路旨在建立强制性的行动框架，其目标是创建一个稳定的监管环境，以便监督和纠正行动……发展型进路则致力于将政策融入持续变革的动态情境之中，政策旨在促进而非规制，旨在培育和部署支持积极变革的新颖实践。在发展型进路中，证据不再被视作唯一或最关键的要素，关注政策制定的具体情境以及人的因素变得至关重要。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 41)]]
 >
 > *A regulatory approach aims at establishing a framework for action that is mandated, such that the goal is to create a stable regulatory environment in which actions can be monitored and corrected... A developmental approach works to integrate policies within a dynamic context of ongoing change. Policies are therefore designed to facilitate rather than regulate... attention to the context of policymaking, including human factors is critical.*
 
@@ -89,14 +89,14 @@ updated: 2026-10-15
 > - **前提二** 在循证政策中，规制型进路倾向于将特定的因果科学标准（如是否具有合规的 [[Randomised Controlled Trials\|RCT]] 实验证据）作为准入与拨款的硬性门槛，并将学生的标准化统考成绩与教师绩效、学校存续刚性挂钩。
 > - **推导** 复杂的学校教育实践具有极高的情境复杂性与多重育人目标。当政策将奖惩单一绑定在可测指标上时，一线教师和[[School Leadership\|学校领导]]在巨大焦虑与问责压力下，必然发生目标置换：削减非统考科目时间，转向机械应试操练，乃至在极端情况下诱发系统性窜改成绩等集体舞弊行为（如亚特兰大公立学校舞弊案）。
 >   > [!evidence-grid]- 证据
->   > - **佐治亚州亚特兰大统考舞弊案例** [[No Child Left Behind Act 2001\|NCLB]] 法案下将标准化分数与人事挂钩引发学校系统集体窜改机读卡丑闻。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 41)]]
+>   > - **佐治亚州亚特兰大统考舞弊案例** [[No Child Left Behind Act 2001\|NCLB]] 法案下将标准化分数与人事挂钩引发学校系统集体窜改机读卡丑闻。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 41)]]
 
 > [!proposition-chain] 核心命题二｜发展型进路通过弹性支持与地方赋权激活本土创新，能更好地容纳情境敏感性证据
 > - **前提一** 发展型进路认识到教育系统始终处于动态变革与不确定性之中，政策的功能应当是促进（facilitate）而非规制（regulate）。
 > - **前提二** 发展型政策倾向于使用倡导性、激励性法定表述（如鼓励开展项目评估），明确界定证据分级，但将具体评估指标与干预方案的裁量权归还各州与地方学区。
 > - **推导** 发展型进路打破了单一证据等于绝对真理的迷思，将科研证据视作指导决策的重要参考而非唯一准入闸口。地方决策者得以综合考量学校文化、组织容量与学生背景[[Heterogeneity\|异质性]]，探索因地制宜的本土创新方案（如 [[Every Student Succeeds Act\|ESSA]] 对多[[Meta-meta-analysis\|元综合]]评价与学校环境指标的吸纳）。
 >   > [!evidence-grid]- 证据
->   > - **ESSA 综合评估改革** 2015 年 ESSA 修正 NCLB 单一问责弊端，引入多重非学业指标并实施分级证据奖励。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 41)]]
+>   > - **ESSA 综合评估改革** 2015 年 ESSA 修正 NCLB 单一问责弊端，引入多重非学业指标并实施分级证据奖励。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 41)]]
 
 > [!mechanism-map]- 机制演化图
 > ```mermaid
@@ -140,7 +140,7 @@ updated: 2026-10-15
 >
 > > [!axis] 发展型进路是否会导致问责软化与绩效滑坡
 > > - **规制派批评** 担忧将评价权过多归还各州与学区后，缺乏刚性统一的科学标准，容易导致部分学区掩盖少数族裔学业差距，使国家财政投入失去可问责的底线约束。
-> > - **发展派抗辩** 机械套用单一实验标准与全国统考已证明失败；真正的教育质量提升只能扎根于具有自主权的专业实践，分级证据激励体系能够在保障透明度的同时为地方提供足够操作弹性。[[Argument_Serpell_2020_EP\|(Serpell, 2020, p. 41)]]
+> > - **发展派抗辩** 机械套用单一实验标准与全国统考已证明失败；真正的教育质量提升只能扎根于具有自主权的专业实践，分级证据激励体系能够在保障透明度的同时为地方提供足够操作弹性。[[Argument_Serpell_2020_EducPsychol\|(Serpell, 2020, p. 41)]]
 
 ---
 

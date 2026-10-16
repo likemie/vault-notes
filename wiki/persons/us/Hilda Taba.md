@@ -7,7 +7,7 @@ summary: "爱沙尼亚裔美国教育学家与课程理论家，提出课程设�
 type: person
 nationality: us
 person_region: "us"
-person_related_count: 3
+person_related_count: 4
 person_related_level: 0
 person_related_stars: "☆"
 person_related_color: "#e5e7eb"
@@ -27,7 +27,8 @@ related_instruments: []
 related_persons:
   - "[[Bob Darwish]]"
 related_facts: []
-related_arguments: []
+related_arguments:
+  - "[[Argument_Darwish_2009_Queens]]"
 confidence: high
 status: active
 created: 2026-07-26

@@ -41,7 +41,7 @@ related_persons: []
 related_facts:
   - "[[Chinese Academy of Sciences]]"
 related_arguments:
-  - "[[Argument_Metli_2022_IJER]]"
+  - "[[Argument_Metli_2022_IJEdReform]]"
   - "[[Argument_Bergeron_2015_TeachingTOK]]"
 confidence: high
 status: draft
@@ -56,7 +56,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> 学习者特征（IB Learner Profile）是[[International Baccalaureate\|国际文凭]]教育的核心使命宣言，包含 10 项特质（如探究者、思考者、反思者、胸襟开阔者等），旨在培养具有国际情怀的[[Lifelong Learning\|终身学习]]者。在课程实践中，它不仅是单一学科的德育目标，更是贯穿于所有学术科目与核心组件（[[Theory of Knowledge\|TOK]]、[[Chinese Academy of Sciences|CAS]]、EE）的统一价值观，为跨学科[[Concurrency of Learning\|并发学习]]提供了稳定的教育导向。[[Argument_Metli_2022_IJER\|(Metli & Akış, 2022, pp. 227–228)]]
+> 学习者特征（IB Learner Profile）是[[International Baccalaureate\|国际文凭]]教育的核心使命宣言，包含 10 项特质（如探究者、思考者、反思者、胸襟开阔者等），旨在培养具有国际情怀的[[Lifelong Learning\|终身学习]]者。在课程实践中，它不仅是单一学科的德育目标，更是贯穿于所有学术科目与核心组件（[[Theory of Knowledge\|TOK]]、[[Chinese Academy of Sciences|CAS]]、EE）的统一价值观，为跨学科[[Concurrency of Learning\|并发学习]]提供了稳定的教育导向。[[Argument_Metli_2022_IJEdReform\|(Metli & Akış, 2022, pp. 227–228)]]
 
 > [!concept-lens] 概念透镜
 > - **含义** 学习者特征将抽象的教育使命（如国际情怀、[[Global Citizenship\|全球公民]]）[[Operationalization\|操作化]]为师生应具备的 10 个具体认知与行为特质。
@@ -87,7 +87,7 @@ updated: 2026-10-16
 
 > [!feature] 核心要素
 > - **[[Whole Person Education\|全人教育]]目标** 超越纯认知学习，强调伦理、情感与社会责任感（如“有原则的”、“懂得关爱的”）。
-> - **跨界融合枢纽** 作为一致的价值观，鼓励教师和学生展现这些特质，从而促进对跨学科学习的更深理解。[[Argument_Metli_2022_IJER\|(Metli & Akış, 2022, p. 228)]]
+> - **跨界融合枢纽** 作为一致的价值观，鼓励教师和学生展现这些特质，从而促进对跨学科学习的更深理解。[[Argument_Metli_2022_IJEdReform\|(Metli & Akış, 2022, p. 228)]]
 >
 > > [!taxonomy] 10 项核心特质（10 Attributes）
 > > - **探究者（Inquirers）** 培养发展天生的好奇心，掌握探究和研究的技能。
@@ -125,7 +125,7 @@ updated: 2026-10-16
 
 > [!claim] Metli, A. & Akış, D.
 > **通过学习者特征促进[[Concurrency of Learning\|并发学习]]** 
-> 将“学习者特征”融入全校范围的推广中，有助于提升[[Concurrency of Learning\|并发学习]]的效果。鼓励师生共同展现这些特质，能加深其对跨学科学习的理解。例如，“探究者”特质能够发展研究技能，鼓励学生去调查不同学科并发现其内在联系；而“反思者”则是并发学习中不可或缺的一环，反思经验能够引导学生发展[[Creativity\|创造性]]与[[Critical Thinking\|批判性思维]]，从而将知识从一个学科迁移到另一个学科，以及在 [[Chinese Academy of Sciences|CAS]] 和 [[Theory of Knowledge\|TOK]] 之间形成反思互文。[[Argument_Metli_2022_IJER\|(Metli & Akış, 2022, p. 228)]]
+> 将“学习者特征”融入全校范围的推广中，有助于提升[[Concurrency of Learning\|并发学习]]的效果。鼓励师生共同展现这些特质，能加深其对跨学科学习的理解。例如，“探究者”特质能够发展研究技能，鼓励学生去调查不同学科并发现其内在联系；而“反思者”则是并发学习中不可或缺的一环，反思经验能够引导学生发展[[Creativity\|创造性]]与[[Critical Thinking\|批判性思维]]，从而将知识从一个学科迁移到另一个学科，以及在 [[Chinese Academy of Sciences|CAS]] 和 [[Theory of Knowledge\|TOK]] 之间形成反思互文。[[Argument_Metli_2022_IJEdReform\|(Metli & Akış, 2022, p. 228)]]
 
 ### 命题二　探究性课程能有效激活并重塑师生双向的学习者特质
 
@@ -160,5 +160,5 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Metli_2022_IJER\|Metli & Akış (2022)]] — 探讨了 IB Learner Profile 中的具体特质（如探究、反思）在实现核心组件（Core）连贯性和[[Concurrency of Learning\|并发学习]]过程中的核心黏合剂作用。
+> - [[Argument_Metli_2022_IJEdReform\|Metli & Akış (2022)]] — 探讨了 IB Learner Profile 中的具体特质（如探究、反思）在实现核心组件（Core）连贯性和[[Concurrency of Learning\|并发学习]]过程中的核心黏合剂作用。
 > - [[Argument_Bergeron_2015_TeachingTOK\|Bergeron and Rogers (2015)]] — 证实了[[Theory of Knowledge\|知识论]]（TOK）课程能够极大地激活学生的“反思”与“胸襟开阔”特质，并揭示了教师在示范这些特质时，其自身的教学哲学也会发生深层转变。

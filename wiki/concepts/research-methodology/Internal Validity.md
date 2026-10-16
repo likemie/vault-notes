@@ -74,7 +74,7 @@ related_methods:
 related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10]]"
   - "[[Argument_Creswell_2022_SAGE]]"
-  - "[[Argument_Rickinson_2022_ER]]"
+  - "[[Argument_Rickinson_2022_EducRes]]"
 related_theories:
   - "[[Quality Use of Research Evidence Framework]]"
 status: draft
@@ -96,7 +96,7 @@ updated: 2026-10-16
 > *Internal validity threats are experimental procedures, treatments, or experiences of the participants that threaten the researcher's ability to draw correct inferences from the data about the population in an experiment.*
 
 > [!citation-card] Rickinson et al. 论内部效度与适切证据的多维拟合
-> 适切的研究证据关乎研究质量与其情境特异性的多维适配。它要求证据不仅在方法学上严谨（具备内部效度），而且必须适合具体的教育议题、组织情境脉络以及所卷入的人群（即“[[Fitness for Purpose\|目的适配性]]”）。优质的[[Research Utilization\|证据使用]]绝非对单一具备高内部效度研究的盲目套用，而是基于实践目的对多元证据适切性展开的审慎专业审议。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 140–141)]]
+> 适切的研究证据关乎研究质量与其情境特异性的多维适配。它要求证据不仅在方法学上严谨（具备内部效度），而且必须适合具体的教育议题、组织情境脉络以及所卷入的人群（即“[[Fitness for Purpose\|目的适配性]]”）。优质的[[Research Utilization\|证据使用]]绝非对单一具备高内部效度研究的盲目套用，而是基于实践目的对多元证据适切性展开的审慎专业审议。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 140–141)]]
 >
 > *Appropriate research evidence is about the quality and the context-specific appropriateness of the research... it needs to be not only methodologically rigorous, but also appropriate for the educational issues, the context and the people involved (i.e. 'fitness-for-purpose') (Nutley, Powell, and Davies 2013).*
 
@@ -109,7 +109,7 @@ updated: 2026-10-16
 > - **不等于 [[External Validity\|外部效度]]（推广度）** 内部效度保障的是微观推断的真实性，高度人工控制的环境虽能排减内部威胁，却可能损害生态现实性，使发现难以直接外推（Pilliner, 1973）。
 > - **不等于 统计显著性（$p$ 值）** $p < .05$ 仅反映拒绝虚无假设的概率界限，若研究设计存在严重的历时混淆或选择偏差，即使统计高度显著，其因果内部效度仍属无效。
 > - **不排斥 [[Qualitative Research\|质性研究]]的可信性建构** 质性探究虽不采用统计控制，但依托长期浸润、[[Triangulation\|三角验证]]与[[Member Checking\|成员核查]]等自然主义规程，同样系统追求内部效度在质性[[Paradigm\|范式]]中的对应物——可信性（Credibility）。
-> - **不等于 证据使用中的唯一决策依据** 在循证政策中，高内部效度（如实验室 [[Randomised Controlled Trials\|RCT]]）若脱离一线复杂学情与组织支持系统，依然无法达成高质量实践改进（[[Argument_Rickinson_2022_ER\|Rickinson et al., 2022a]]）。
+> - **不等于 证据使用中的唯一决策依据** 在循证政策中，高内部效度（如实验室 [[Randomised Controlled Trials\|RCT]]）若脱离一线复杂学情与组织支持系统，依然无法达成高质量实践改进（[[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a]]）。
 
 ---
 
@@ -135,7 +135,7 @@ updated: 2026-10-16
 > - **结构化威胁清单的诊断与控制（Systematic Threat Diagnostics）** 依托坎贝尔与斯坦利（Campbell & Stanley, 1963）等学者建立的经典威胁矩阵，从受试者特征、实验处理与测量程序三维排查混淆[[Variable\|变量]]。
 > - **量化控制与质性建构的双轨互补（Quantitative-Qualitative Complementarity）** 量化[[Paradigm\|范式]]通过机械与统计隔离消除外部噪音，质性范式通过[[Rich and Thick Description\|深描]]、同伴审查与[[Negative Case Analysis\|负面案例分析]]确立内在真实性，二者形成因果解释链互补。
 > - **内部效度与[[External Validity\|外部效度]]的非对称奠基（Asymmetric Foundational Priority）** 内部效度构成外部效度的逻辑前提；正如皮利纳（Pilliner, 1973）所确立：没有内部效度，研究断无外部效度可言；但高内部效度的结论未必具备跨情境适用性。
-> - **证据治理中与情境适配的动态权衡（Balancing Rigour with Contextual Fit）** 在当代[[Evidence Ecosystem\|证据生态系统]]中，内部效度不再被奉为凌驾一切的独断教条，而是作为方法严谨性维度，与议题适切性、文化契合度共同服务于实践决策（[[Argument_Rickinson_2022_ER\|Rickinson et al., 2022a]]）。
+> - **证据治理中与情境适配的动态权衡（Balancing Rigour with Contextual Fit）** 在当代[[Evidence Ecosystem\|证据生态系统]]中，内部效度不再被奉为凌驾一切的独断教条，而是作为方法严谨性维度，与议题适切性、文化契合度共同服务于实践决策（[[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a]]）。
 
 > [!logic-map]- 内部效度的机制演进与证据治理网络
 > ```mermaid
@@ -211,7 +211,7 @@ updated: 2026-10-16
 > 内部效度保障了方法学的严谨性，但绝非证据品质的唯一指标；高质量[[Research Utilization\|证据使用]]要求以“[[Fitness for Purpose\|目的适配性]]”平衡方法内部效度与教育情境适切性。
 
 > [!claim] [[Evidence-Based Education\|循证教育]]治理中内部效度与适切证据的多维协同
-> **内部效度与适切证据的多维协同** [[Evidence-Based Education\|循证教育]]长期将内部效度（以[[Randomised Controlled Trials\|随机对照试验]] RCT 为代表）视作界定“有效证据”的垄断尺度，诱发了忽视一线真实复杂学情的去情境化弊端。纳特利等（Nutley et al., 2013）与里克森等（[[Argument_Rickinson_2022_ER\|Rickinson et al., 2022a]]）指出，在高质量证据使用视域下，“适切研究证据”（Appropriate Research Evidence）由方法学严谨性（包含因果内部效度）、教育议题适切性、组织情境适配性与涉众[[Cultural Validity\|文化适切性]]四维协同互构而成。若一项研究虽然具备极高内部效度，却无法回应具体的教学问题或缺乏校本落地可行性，其在证据治理中的价值仍属有限。因此，内部效度必须经由一线实践者的[[Professional Judgment\|专业判断]]与[[Fitness for Purpose\|目的适配性]]审议，方能转化为实质的教育改进力量。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 140–141, 148)]]
+> **内部效度与适切证据的多维协同** [[Evidence-Based Education\|循证教育]]长期将内部效度（以[[Randomised Controlled Trials\|随机对照试验]] RCT 为代表）视作界定“有效证据”的垄断尺度，诱发了忽视一线真实复杂学情的去情境化弊端。纳特利等（Nutley et al., 2013）与里克森等（[[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a]]）指出，在高质量证据使用视域下，“适切研究证据”（Appropriate Research Evidence）由方法学严谨性（包含因果内部效度）、教育议题适切性、组织情境适配性与涉众[[Cultural Validity\|文化适切性]]四维协同互构而成。若一项研究虽然具备极高内部效度，却无法回应具体的教学问题或缺乏校本落地可行性，其在证据治理中的价值仍属有限。因此，内部效度必须经由一线实践者的[[Professional Judgment\|专业判断]]与[[Fitness for Purpose\|目的适配性]]审议，方能转化为实质的教育改进力量。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 140–141, 148)]]
 
 ---
 
@@ -222,7 +222,7 @@ updated: 2026-10-16
 > |---|---|---|---|
 > | **实验控制因果命题** | 实验设计通过排除受试者、处理与程序干扰，保障因果推断无偏性 | 实验室试验、现场随机对照试验、教育干预评估 | Campbell and Stanley (1963); [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]]; [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011)]] |
 > | **质性可信重构命题** | 质性探究通过多维真实性、成员核查与三角验证重构可信性表征 | [[Ethnography\|民族志]]田野[[Rich and Thick Description\|深描]]、多[[Case Study\|案例研究]]、[[Interpretive Paradigm\|自然主义探究]] | Lincoln and Guba (1985); LeCompte and Preissle (1993); Hammersley (1992b) |
-> | **适切证据协同命题** | 内部效度需与教育情境、涉众文化协同构成“适切研究证据”，打破等级制垄断 | 循证教育政策、[[Quality Use of Research Evidence Framework\|QURE]] 框架研制、复杂学校系统改进 | Nutley et al. (2013); Nelson et al. (2017); [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]] |
+> | **适切证据协同命题** | 内部效度需与教育情境、涉众文化协同构成“适切研究证据”，打破等级制垄断 | 循证教育政策、[[Quality Use of Research Evidence Framework\|QURE]] 框架研制、复杂学校系统改进 | Nutley et al. (2013); Nelson et al. (2017); [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a)]] |
 
 ---
 
@@ -235,7 +235,7 @@ updated: 2026-10-16
 > - **1992–1993 — 真实性维度与务实层级化体系** 哈默斯利（Hammersley, 1992b）提出合理性与主张类型的务实三层次；勒孔特与普赖斯勒（LeCompte & Preissle, 1993）系统构建五大真实性与八种质性效度操作类型。
 > - **2006 — 跨[[Paradigm\|范式]]混合威胁体系拓展** 奥恩韦布兹与利奇（Onwuegbuzie & Leech, 2006b）将[[Threats to Internal Validity\|内部效度威胁]]拓展至质性与[[Mixed Methods Research\|混合方法研究]]，系统梳理了 12 种跨范式推断威胁。
 > - **2011–2022 — 现代教材规范化与实验手册确立** 科恩等（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al., 2011]]）与克雷斯威尔等（[[Argument_Creswell_2022_SAGE\|Creswell & Creswell, 2022]]）将内部效度标准化整合为教育与社会科学实证研究的核心设计指南。
-> - **2022 — [[Quality Use of Research Evidence Framework\|QURE]] 框架确立“适切证据”去等级制多维拟合** 里克森等（[[Argument_Rickinson_2022_ER\|Rickinson et al., 2022a]]）跨四大领域[[Systematic Review\|系统综述]]，提出内部效度（方法学严谨性）必须与议题适用性、情境适配性动态权衡，打破唯内部效度等级制，奠定“适切研究证据”的[[Praxis|实践哲学]]。
+> - **2022 — [[Quality Use of Research Evidence Framework\|QURE]] 框架确立“适切证据”去等级制多维拟合** 里克森等（[[Argument_Rickinson_2022_EducRes\|Rickinson et al., 2022a]]）跨四大领域[[Systematic Review\|系统综述]]，提出内部效度（方法学严谨性）必须与议题适用性、情境适配性动态权衡，打破唯内部效度等级制，奠定“适切研究证据”的[[Praxis|实践哲学]]。
 
 ---
 
@@ -246,7 +246,7 @@ updated: 2026-10-16
 >
 > | 研究 | 样本与情境 | 研究设计 | [[Variable\|变量]]或指标 | 原始统计结果（无效应量） | 不确定性或显著性 | 解释边界 |
 > |---|---|---|---|---|---|---|
-> | [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a, pp. 135–141)]] | 跨卫生、社会关照、教育与公共政策四大领域文献库 | PRISMA [[Systematic Review\|系统综述]]（初检 10,813 篇 $\to$ 纳入 112 篇核心文献） | [[Evidence Standards\|证据质量标准]]与内部效度权衡 | 4 位研究员多轮交叉质评证实：仅强调内部效度的等级制（如纯粹 [[Randomised Controlled Trials\|RCT]] 排行榜）在多[[Paradigm\|范式]]复杂实践中易遭边缘化；高质量使用需方法严谨性与情境适切性多维兼顾 | 定性[[Narrative Synthesis\|叙事综合]]确证 | 证实内部效度必须与问题类型、组织脉络相匹配方能驱动高质量[[Research Utilization\|证据使用]] |
+> | [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a, pp. 135–141)]] | 跨卫生、社会关照、教育与公共政策四大领域文献库 | PRISMA [[Systematic Review\|系统综述]]（初检 10,813 篇 $\to$ 纳入 112 篇核心文献） | [[Evidence Standards\|证据质量标准]]与内部效度权衡 | 4 位研究员多轮交叉质评证实：仅强调内部效度的等级制（如纯粹 [[Randomised Controlled Trials\|RCT]] 排行榜）在多[[Paradigm\|范式]]复杂实践中易遭边缘化；高质量使用需方法严谨性与情境适切性多维兼顾 | 定性[[Narrative Synthesis\|叙事综合]]确证 | 证实内部效度必须与问题类型、组织脉络相匹配方能驱动高质量[[Research Utilization\|证据使用]] |
 > | [[Argument_Creswell_2022_SAGE\|Creswell & Creswell (2022, Ch. 8)]] | 经典社会科学与教育实验干预范例库 | [[Experimental Research\|实验研究]]程序[[Meta-analysis\|元分析]]考证 | 受试者、处理与程序三类共 10 种[[Threats to Internal Validity\|内部效度威胁]]的发生率 | [[Random Assignment\|随机化]]分配能控制 80% 以上的受试者初始偏差，但处理扩散与测量工具漂移仍需前置协议（如[[Preregistration\|预注册]]与[[Implementation Fidelity\|实施保真度]]打卡）约束 | 规范方法学案例实证 | 确立实验控制无法彻底消解生态交互，内部效度需与[[Implementation and Process Evaluation\|过程评估]]（IPE）协同保障 |
 
 ---
@@ -274,7 +274,7 @@ updated: 2026-10-16
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10\|Cohen et al. (2011, Ch. 10)]] — 经典著作《教育研究方法》第 10 章系统奠定内部效度体系，全面梳理量化内部威胁、质性可信性替代方案（Lincoln & Guba 六策略）、勒孔特真实性维度与哈默斯利三层次。
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 经典研究设计著作第 8 章与第 9 章，系统将[[Threats to Internal Validity\|内部效度威胁]]划分为受试者、处理与程序三维，并阐明[[Qualitative Research\|质性研究]]中建立可信性的研究者反思规程。
-> - [[Argument_Rickinson_2022_ER\|Rickinson et al. (2022a)]] — 跨四大领域[[Systematic Review\|系统综述]]提出 [[Quality Use of Research Evidence Framework\|QURE]] 框架，将内部效度重新定位于“适切研究证据”的严谨性维度，批判单一黄金标准等级制，确立适切证据与深思熟虑参与的双核互构模型。
+> - [[Argument_Rickinson_2022_EducRes\|Rickinson et al. (2022a)]] — 跨四大领域[[Systematic Review\|系统综述]]提出 [[Quality Use of Research Evidence Framework\|QURE]] 框架，将内部效度重新定位于“适切研究证据”的严谨性维度，批判单一黄金标准等级制，确立适切证据与深思熟虑参与的双核互构模型。
 
 ---
 
@@ -287,7 +287,7 @@ updated: 2026-10-16
 > | [[Threats to Internal Validity]] | 核心构件 | 内部效度体系的病理学清单，详述受试者、实验处理与测量程序的各项具体威胁与应对策略。 |
 > | [[External Validity]] | 对立/互补概念 | 效度的外在推广维度，内部效度构成外部效度的逻辑基石，两者在研究设计中形成经典张力与权衡。 |
 > | [[Fitness for Purpose]] | 方法论原则 | 评判研究方法与证据效度水平的实质标准，主张根据实践目的动态调和内部严谨性与情境适切性。 |
-> | [[Quality Use of Research Evidence Framework]] | 理论 | 将内部效度作为“适切研究证据”的方法严谨性基底，融入实践者深思熟虑参与的整体评价模型。[[Argument_Rickinson_2022_ER\|(Rickinson et al., 2022a, pp. 140–141)]] |
+> | [[Quality Use of Research Evidence Framework]] | 理论 | 将内部效度作为“适切研究证据”的方法严谨性基底，融入实践者深思熟虑参与的整体评价模型。[[Argument_Rickinson_2022_EducRes\|(Rickinson et al., 2022a, pp. 140–141)]] |
 > | [[Experimental Research]] | 方法 | 内部效度追求极致的核心[[Champ\|场域]]，通过[[Random Assignment\|随机化]]与[[Counterfactual\|反事实对照]]建立确定性因果联系。 |
 > | [[Qualitative Research]] | 方法 | 内部效度在自然主义[[Paradigm\|范式]]中的重构形态，依托可信性、长期参与与[[Triangulation\|三角验证]]确立质性真实性。 |
 > | [[Member Checking]] | 质性方法 | 质性探究保障内部效度（可信性）的核心工具，通过参与者对分析叙事的核查纠偏事实与诠释。 |

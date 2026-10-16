@@ -60,7 +60,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Hartmann_2022_CorporateEducation]]"
   - "[[Argument_Streeck_Thelen_2005_OUP]]"
-  - "[[Argument_Schulze-Cleven_2017_HighEduc]]"
+  - "[[Argument_Schulze-Cleven_2017_HE]]"
 confidence: high
 status: active
 created: 2026-05-18
@@ -97,7 +97,7 @@ updated: 2026-10-16
 > [!dev-timeline] 理论版本与贡献
 > - **2001 年 — 原初奠基** 霍尔与索斯基斯确立 LME 与 CME 二元类型学，提出[[Institutional Complementarity|制度互补性]]（Institutional Complementarities）与比较制度优势（Comparative Institutional Advantage）概念。
 > - **2005 年 — 动态变迁批判与内生[[Liberalization|自由化]]转向（[[Argument_Streeck_Thelen_2005_OUP|Streeck & Thelen, 2005]]）** [[Wolfgang Streeck|沃尔夫冈·施特雷克]]与[[Kathleen Thelen|凯瑟琳·希伦]]系统批判 VoC 将制度互补性等同于自我强化的超稳定功能主义均衡，指出两类体制在制度表面延续的假象下，实际均经历了通过分层、漂移与转换推动的深刻自由化，将制度研究由静态类型学引向渐进变迁动态学。
-> - **2017 年 — 高等教育与[[Academic Capitalism|学术资本主义]]跨国多样性扩展（[[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al., 2017]]）** 舒尔策-克莱文等学者将 VoC 框架引入高等教育领域，揭示[[Academic Capitalism|学术资本主义]]如何映射国家生产体制类型：美国（LME）呈现激进的市场化与学生贷款金融化，德国（保守协调）在学费政策上遭遇社会自组织反弹并撤销改革，挪威（社会民主协调）则依托强国家供给维系公共教育韧性，论证制度互补性与合法性框架塑造的强[[Path Dependence|路径依赖]]。
+> - **2017 年 — 高等教育与[[Academic Capitalism|学术资本主义]]跨国多样性扩展（[[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al., 2017]]）** 舒尔策-克莱文等学者将 VoC 框架引入高等教育领域，揭示[[Academic Capitalism|学术资本主义]]如何映射国家生产体制类型：美国（LME）呈现激进的市场化与学生贷款金融化，德国（保守协调）在学费政策上遭遇社会自组织反弹并撤销改革，挪威（社会民主协调）则依托强国家供给维系公共教育韧性，论证制度互补性与合法性框架塑造的强[[Path Dependence|路径依赖]]。
 > - **2022 年 — [[Corporate Education|企业教育]]跨国化与组织架构映射（[[Argument_Hartmann_2022_CorporateEducation|Hartmann, 2022]]）** 哈特曼将 VoC 与跨国公司（Multinational Corporations, MNCs）产业组织学结合，证实德国等 CME 企业的初始职业教育与培训（Initial Vocational Education and Training, IVET）双元[[Apprenticeship|学徒制]]深嵌于母国制度网络，在跨国移植中屡遭失败；而美英 LME 企业依托商品化市场逻辑在[[Corporate Education|企业教育]]全球化中占据主导地位。
 
 ---
@@ -131,7 +131,7 @@ updated: 2026-10-16
 > **应用实例** 德国跨国制造企业尝试在巴西、美国等分支机构复制本土享誉世界的初始职业教育与培训（IVET）双元学徒制，然而由于东道国缺乏法定的行业雇主协会协商网络、缺乏匹配的公立职业学校系统、亦缺乏工会监督与防止恶性挖角（Poaching）的规制机制，所有在海外孤立移植学徒制的尝试均以失败告终。
 
 > [!theory-proposition] 命题三｜制度遗产与政策反馈驱动公共部门市场化改革的强[[Path Dependence|路径依赖]]
-> **解释** 宏观生产体制的组织逻辑不仅约束私营企业，而且深度形塑公共与准公共部门（如高等教育、科研机构）的演化轨迹。一旦特定制度安排确立，它将通过政策反馈机制（Policy [[Feedback]]）催生庞大的既得利益选民群体与文化正当性预设。当面临共同的新自由主义市场化压力时，不同生产体制对外部冲击的吸纳方式展现出深度的路径依赖：自由主义体制下顺理成章的激进商品化，在保守协调体制下会触发剧烈的社会自我防御与政治回弹。[[Argument_Schulze-Cleven_2017_HighEduc|(Schulze-Cleven et al., 2017, pp. 803–804)]]
+> **解释** 宏观生产体制的组织逻辑不仅约束私营企业，而且深度形塑公共与准公共部门（如高等教育、科研机构）的演化轨迹。一旦特定制度安排确立，它将通过政策反馈机制（Policy [[Feedback]]）催生庞大的既得利益选民群体与文化正当性预设。当面临共同的新自由主义市场化压力时，不同生产体制对外部冲击的吸纳方式展现出深度的路径依赖：自由主义体制下顺理成章的激进商品化，在保守协调体制下会触发剧烈的社会自我防御与政治回弹。[[Argument_Schulze-Cleven_2017_HE|(Schulze-Cleven et al., 2017, pp. 803–804)]]
 >
 > **应用实例** 在高等教育[[Academic Capitalism|学术资本主义]]推进中，美国（LME）依托亲市场合法性传统，大学学费在十年内翻倍并催生万亿美元学生贷款金融衍生品；而在德国（保守协调 CME），七个联邦州在 2000 年代初尝试引入每学期仅 500 欧元的大学学费，却在全德学生运动抗议与公投压力下被迫全面废止。在德国，免费公立教育被视为战后社会契约不可剥夺的基石，而美国则视教育成本为个体在资本市场上自负盈亏的[[Human Capital Theory|人力资本]]投资。
 
@@ -202,7 +202,7 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Hartmann_2022_CorporateEducation|Hartmann (2022)]] — 运用 VoC 框架系统分析跨国公司在[[Corporate Education|企业教育]]全球化中的组织分化，解释为何德国[[German Dual Education System|双元制]][[Apprenticeship|学徒制]]在海外跨国移植中遭遇排异失败。
-> - [[Argument_Schulze-Cleven_2017_HighEduc|Schulze-Cleven et al. (2017)]] — 将 VoC 理论拓展至高等教育部门，揭示美、德、挪三国在[[Academic Capitalism|学术资本主义]]与大学学费改革中因[[Institutional Complementarity|制度互补性]]与合法性框架产生的[[Path Dependence|路径依赖]]分化。
+> - [[Argument_Schulze-Cleven_2017_HE|Schulze-Cleven et al. (2017)]] — 将 VoC 理论拓展至高等教育部门，揭示美、德、挪三国在[[Academic Capitalism|学术资本主义]]与大学学费改革中因[[Institutional Complementarity|制度互补性]]与合法性框架产生的[[Path Dependence|路径依赖]]分化。
 > - [[Argument_Streeck_Thelen_2005_OUP|Streeck and Thelen (2005)]] — 批判资本主义多样性框架中制度互补性的功能主义静态假设与连续性偏误，揭示先进资本主义体制向[[Liberalization|自由化]]渐进漂移的微观变迁机制。
 
 ---
@@ -224,5 +224,5 @@ updated: 2026-10-16
 > | [[Wolfgang Streeck]] | Person | 经济社会学家与制度学者，批判 VoC 静态功能主义互补性假设、阐明资本主义渐进[[Liberalization\|自由化]]大势的领军学者。 |
 > | [[Kathleen Thelen]] | Person | 比较政治学家与历史制度主义领军学者，系统揭示劳资与技能形成制度在互补性表象下的渐进转型机制。 |
 > | [[Argument_Hartmann_2022_CorporateEducation\|Hartmann (2022)]] | Argument | 运用 VoC 透镜解释 IVET 难以国际化及美国 MNCs 垄断全球企业教育市场的核心实证文献。 |
-> | [[Argument_Schulze-Cleven_2017_HighEduc\|Schulze-Cleven et al. (2017)]] | Argument | 将 VoC 框架引入高等教育领域并揭示学术资本主义跨国多样性机制的奠基文献。 |
+> | [[Argument_Schulze-Cleven_2017_HE\|Schulze-Cleven et al. (2017)]] | Argument | 将 VoC 框架引入高等教育领域并揭示学术资本主义跨国多样性机制的奠基文献。 |
 > | [[Argument_Streeck_Thelen_2005_OUP\|Streeck and Thelen (2005)]] | Argument | 提出过程与结果二元矩阵、批判 VoC 超稳定偏误并建构渐进制度变迁形态学的里程碑著作。 |

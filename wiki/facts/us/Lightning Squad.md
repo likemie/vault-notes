@@ -54,7 +54,7 @@ related_facts:
   - "[[What Works Clearinghouse]]"
   - "[[Sound Partners]]"
 related_arguments:
-  - "[[Argument_Slavin_2019_EP]]"
+  - "[[Argument_Slavin_2019_EducPsychol]]"
 confidence: high
 status: active
 created: 2026-09-17
@@ -68,7 +68,7 @@ updated: 2026-10-16
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> **Lightning Squad（闪电突击队 / 闪电读写小组）** 是由约翰斯·霍普金斯大学教育研究与改革中心（CRRE）[[Nancy Madden\|南希·马登]]（Nancy A. Madden）与[[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin）联合研发的计算机技术辅助早期读写小组辅导项目；其核心目标是通过将[[Gamification\|游戏化]]智能自适应学习软件与低成本教学助教现场指导紧密结合，破解传统一对一辅导昂贵且难以向全校普惠的组织瓶颈，实现“1 名助教同时高质辅导 4 至 6 名弱势儿童”的规模化效能跃升。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 27–28, 30)]]
+> **Lightning Squad（闪电突击队 / 闪电读写小组）** 是由约翰斯·霍普金斯大学教育研究与改革中心（CRRE）[[Nancy Madden\|南希·马登]]（Nancy A. Madden）与[[Robert Slavin\|罗伯特·斯莱文]]（Robert Slavin）联合研发的计算机技术辅助早期读写小组辅导项目；其核心目标是通过将[[Gamification\|游戏化]]智能自适应学习软件与低成本教学助教现场指导紧密结合，破解传统一对一辅导昂贵且难以向全校普惠的组织瓶颈，实现“1 名助教同时高质辅导 4 至 6 名弱势儿童”的规模化效能跃升。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 27–28, 30)]]
 
 > [!program-context] 项目背景
 > - **立项时间与周期** 2010 年代中期依托全员成功基金会（[[Success for All]] Foundation）与联邦创新资助启动研发，经多项多学区多中心[[Randomised Controlled Trials\|随机对照试验]]（RCT）验证并常态化应用至今。
@@ -89,7 +89,7 @@ updated: 2026-10-16
 > - **助教扮演高阶教练而非机械讲解者** 教学助教无需从零讲解拼读规则（由软件动画高保真呈现），而是巡回于各结对小组之间，专注倾听学生朗读、记录个性化卡点并给予即时正向反馈，大幅降低了对助教个人专业门槛的苛求。
 
 > [!citation-card] 斯莱文论技术辅助小组辅导的突破性价值
-> 技术辅助的小组辅导代表了未来的重要演进方向。由[[Nancy Madden\|南希·马登]]与我研发的 Lightning Squad 由教学助教带领 4–6 名学生的小组开展技术辅助辅导，在三项针对 1–3 年级学生的严格随机实验中测得平均[[Effect Size\|效应量]]达到 +0.34，获得了 [[Every Student Succeeds Act\|ESSA]] 强证据评级。这种模式使 1 名助教能够同时帮助数倍于传统 1:1 辅导的学生。[[Argument_Slavin_2019_EP\|(Slavin, 2019, pp. 28, 30)]]
+> 技术辅助的小组辅导代表了未来的重要演进方向。由[[Nancy Madden\|南希·马登]]与我研发的 Lightning Squad 由教学助教带领 4–6 名学生的小组开展技术辅助辅导，在三项针对 1–3 年级学生的严格随机实验中测得平均[[Effect Size\|效应量]]达到 +0.34，获得了 [[Every Student Succeeds Act\|ESSA]] 强证据评级。这种模式使 1 名助教能够同时帮助数倍于传统 1:1 辅导的学生。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, pp. 28, 30)]]
 >
 > *Technology-assisted small-group tutoring points the way to a high-impact future. Lightning Squad, evaluated in three studies with [[Teaching Assistant|Teaching Assistants]] working with groups of 4 to 6 first to third graders, yielded a mean effect size of +0.34, meeting the ESSA strong evidence rating.*
 
@@ -100,7 +100,7 @@ updated: 2026-10-16
 > [!dev-timeline] Lightning Squad 发展历程
 > - **2014–2016 — 软件系统研发与同伴互动模型整合** 马登与斯莱文团队完成 60 余个技术辅导故事模块开发，将 [[Success for All\|SFA]] 经典同伴学习机制（Peer Coaching）无缝植入多媒体交互流程中。
 > - **2016–2018 — 多学区严格因果评估与成果发表** Madden and Slavin (2017) 等学者在马里兰州与全美多个城市学区连续开展三项严格[[Randomised Controlled Trials\|随机对照试验]]，证实助教主导的技术辅导取得了 $+0.34$ 的显著增益。
-> - **2019–至今 — 确立为 [[Every Student Succeeds Act\|ESSA]] 强证据平台与全美推广** 被 [[Evidence for ESSA]] 与 [[What Works Clearinghouse\|WWC]] 正式收录为强证据方案，并作为技术赋能助教辅导的示范案例被写入全美各州学区采购指南。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> - **2019–至今 — 确立为 [[Every Student Succeeds Act\|ESSA]] 强证据平台与全美推广** 被 [[Evidence for ESSA]] 与 [[What Works Clearinghouse\|WWC]] 正式收录为强证据方案，并作为技术赋能助教辅导的示范案例被写入全美各州学区采购指南。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 
 ---
 
@@ -117,12 +117,12 @@ updated: 2026-10-16
 ## 成效评估与实证发现
 
 > [!finding-cards] 核心实证结论
-> - **强劲稳健的因果学业增益** 在三项针对小学一至三年级阅读困难学生的独立[[Randomised Controlled Trials\|随机对照试验]]中，Lightning Squad 取得了平均 $+0.34$ 的显著学业[[Effect Size\|效应量]]，斩获 [[Every Student Succeeds Act\|ESSA]] 强证据（Strong）最高评级。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> - **强劲稳健的因果学业增益** 在三项针对小学一至三年级阅读困难学生的独立[[Randomised Controlled Trials\|随机对照试验]]中，Lightning Squad 取得了平均 $+0.34$ 的显著学业[[Effect Size\|效应量]]，斩获 [[Every Student Succeeds Act\|ESSA]] 强证据（Strong）最高评级。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 > - **大幅摊薄师资边际成本** 传统 1:1 辅导单名教师或助教每天最多覆盖 5–6 名学生；而 Lightning Squad 模式下单名助教每节课即可覆盖 4–6 名学生，全天可服务 20 余名高危儿童，在维持极高因果效应量的同时将人均师资成本降至传统辅导的四分之一。
 > - **技术彻底锁定高保真度** 针对非专业师资易在教学中偏离规程的难题，核心知识讲解与自适应阶梯由软件硬性锁定，完全杜绝了实施失真（Fidelity [[Institutional Drift|drift]]），实现了卓越的跨校复现性。
 
 > [!stat-cards]- 关键实证数据
-> - **+0.34** 三项严格随机对照试验测得的阅读综合平均效应量（$ES$），获 ESSA 强证据（Strong）最高等级认证。[[Argument_Slavin_2019_EP\|(Slavin, 2019, p. 28)]]
+> - **+0.34** 三项严格随机对照试验测得的阅读综合平均效应量（$ES$），获 ESSA 强证据（Strong）最高等级认证。[[Argument_Slavin_2019_EducPsychol\|(Slavin, 2019, p. 28)]]
 > - **1:4–6** 辅导师生比，由 1 名受训助教主持微型小组辅导。
 > - **3 项** 达到 ESSA 强[[Evidence Standards\|证据标准]]的高质量独立因果[[Experimental Research\|实验研究]]总数。
 
@@ -131,7 +131,7 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Slavin_2019_EP\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 Lightning Squad 列为技术辅助助教小组辅导（Tier 2，[[Effect Size\|效应量]] $+0.34$）达到 [[Every Student Succeeds Act\|ESSA]] 强[[Evidence Standards\|证据标准]]的代表范例，系统论证教育技术扩增辅导效能的路径。
+> - [[Argument_Slavin_2019_EducPsychol\|Slavin (2019)]] — 桑代克终身成就奖演说论著，将 Lightning Squad 列为技术辅助助教小组辅导（Tier 2，[[Effect Size\|效应量]] $+0.34$）达到 [[Every Student Succeeds Act\|ESSA]] 强[[Evidence Standards\|证据标准]]的代表范例，系统论证教育技术扩增辅导效能的路径。
 > - [[Response to Proven Instruction]] — 循证干预反应主条目，展示如何以 Lightning Squad 等兼具低成本与高保真度的技术方案充实多层体系。
 > - [[Sound Partners]] — 经典人工一对一辅导方案，与 Lightning Squad 形成传统面对面辅导 vs [[Man-Computer Symbiosis|人机协同]]辅导的对比分析。
 > - [[Teaching Assistant]] — 教学助教主条目，分析技术辅助工具如何赋能非专业助教实现高阶教学支持。

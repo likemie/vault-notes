@@ -44,7 +44,7 @@ related_facts:
   - "[[The Importance of Teaching]]"
   - "[[Initial Teacher Training Core Content Framework]]"
 related_arguments:
-  - "[[Argument_Helgetun_2022_JEP]]"
+  - "[[Argument_Helgetun_2022_JEdPolicy]]"
 confidence: high
 status: draft
 created: 2026-09-17
@@ -58,10 +58,10 @@ updated: 2026-10-16
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 教师培训署（Teacher Training Agency, TTA；2005 年更名为学校培训与发展署 Training and Development Agency for Schools, TDA）是依据《1994 年教育法》创设的英国法定执行性非部门公共机构（Quango）。其核心法定使命在于集中统管英格兰[[Initial Teacher Training\|初始教师培训]]（Initial Teacher Training, ITT）的招生指标分配、国家财政拨款、国家培训课程规程研制以及教师专业资格认证。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 89–91)]]
+> 教师培训署（Teacher Training Agency, TTA；2005 年更名为学校培训与发展署 Training and Development Agency for Schools, TDA）是依据《1994 年教育法》创设的英国法定执行性非部门公共机构（Quango）。其核心法定使命在于集中统管英格兰[[Initial Teacher Training\|初始教师培训]]（Initial Teacher Training, ITT）的招生指标分配、国家财政拨款、国家培训课程规程研制以及教师专业资格认证。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 89–91)]]
 
 > [!org-context] 机构背景
-> - **成立时间 / 创设背景** 1994 年由梅杰保守党政府推动设立，旨在承接并强化 1984 年[[Committee for the Accreditation of Teacher Education\|教师教育认证委员会]]（CATE）的职能，打破大学教育学院在教师培养上的垄断，引入[[New Public Management\|新公共管理]]（NPM）问责机制。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, p. 90)]]
+> - **成立时间 / 创设背景** 1994 年由梅杰保守党政府推动设立，旨在承接并强化 1984 年[[Committee for the Accreditation of Teacher Education\|教师教育认证委员会]]（CATE）的职能，打破大学教育学院在教师培养上的垄断，引入[[New Public Management\|新公共管理]]（NPM）问责机制。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 90)]]
 > - **总部地点 / 业务辐射** 英国伦敦，业务全面覆盖英格兰全境所有大学教育学院、校本初始教师培训联合体（SCITT）及中小学教师队伍。
 > - **法人属性与经费基础** 法定半官方准政府机构，直接接受英国教育部财政专项划拨，独立行使教师教育拨款与标准审查权。
 > - **核心宗旨与法定职责** 确保国家教师劳动力充足供给，提高教师队伍专业质量，制定实施全国初始教师培训国家课程大纲与合格教师资格（QTS）标准。
@@ -73,7 +73,7 @@ updated: 2026-10-16
 > [!dev-timeline] 组织发展历程
 > - **1994–2005 年 — 创设与奠基期（TTA 时代）** 依据《1994 年教育法》正式设立，全面接管原由[[Higher Education Funding Council for England\|英格兰高等教育拨款委员会]]（HEFCE）掌握的 [[Initial Teacher Training\|ITT]] 资金分配权；1998 年颁布第 4/98 号通令（Circular 4/98），首次强制推行国家 ITT 课程大纲，大力扶持校本培训（SCITT）与研究生教师计划（GTP）。
 > - **2005–2012 年 — 职能扩张与更名（TDA 时代）** 依据《2005 年教育法》重组并更名为学校培训与发展署（TDA），职能由职前培训扩展至全校教育劳动力的终身持续专业发展（CPD）及辅助教职人员培训。
-> - **2012 年 — 撤销与职能回归教育部** 联合政府时期教育大臣[[Michael Gove\|迈克尔·戈夫]]（Michael Gove）推行小政府改革，撤销大量准政府机构（Quangos），TDA 被正式解散；其职能先并入国家教学与领导力学院（NCTL），后彻底回收至英国教育部（DfE）内设司局直接管理。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 90–91)]]
+> - **2012 年 — 撤销与职能回归教育部** 联合政府时期教育大臣[[Michael Gove\|迈克尔·戈夫]]（Michael Gove）推行小政府改革，撤销大量准政府机构（Quangos），TDA 被正式解散；其职能先并入国家教学与领导力学院（NCTL），后彻底回收至英国教育部（DfE）内设司局直接管理。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 90–91)]]
 
 ---
 
@@ -99,7 +99,7 @@ updated: 2026-10-16
 > - **校本学徒路径开创（SCITT & GTP）** 绕过传统大学教育学院，开创校本初始教师培训与带薪[[Apprenticeship|学徒制]]，奠定了后续“学校主导”改革的制度土壤。
 
 > [!citation-card] TTA 时代的国家集权转型
-> TTA 的创设标志着英国政府从间接的资质认证委员会模式（[[Committee for the Accreditation of Teacher Education\|CATE]]），升级为通过专属国家机构对教师教育资金、招生名额与教学大纲实施全方位的直接硬性规制。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, p. 90)]]
+> TTA 的创设标志着英国政府从间接的资质认证委员会模式（[[Committee for the Accreditation of Teacher Education\|CATE]]），升级为通过专属国家机构对教师教育资金、招生名额与教学大纲实施全方位的直接硬性规制。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, p. 90)]]
 >
 > *The establishment of the Teacher Training Agency in 1994 marked a decisive shift from advisory accreditation to direct bureaucratic allocation and statutory curriculum specification.*
 
@@ -110,7 +110,7 @@ updated: 2026-10-16
 > [!finding-cards] 关键成效与辐射影响
 > - **制度格局重塑** 终结了英国高等教育机构对教师培养的自由放任状态，建立了中央政府主导的教师专业标准与绩效拨款体制。
 > - **校本培训生态建立** 成功扶植起一批独立的校本培训机构（SCITT），为 2010 年联合政府大规模推进学校主导（School-led）体系奠定了组织与政策基础。
-> - **行政官僚专权沉淀** 塑造了英格兰教师教育政策领域高度集中化、依赖行政指令与督导考核的技术官僚治理传统。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 90–92)]]
+> - **行政官僚专权沉淀** 塑造了英格兰教师教育政策领域高度集中化、依赖行政指令与督导考核的技术官僚治理传统。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 90–92)]]
 
 ---
 
@@ -127,7 +127,7 @@ updated: 2026-10-16
 > > [!axis] 准独立 Quango 撤销后的直接政治把关
 > > > 2012 年 TDA 撤销对[[Policy Network\|政策网络]]中介机制的影响。
 > > >
-> > - **政策网络研究视角** [[Argument_Helgetun_2022_JEP\|Helgetun and Menter (2022)]] 访谈前 TDA 高级官员指出，TDA 被撤销后，其缓冲与专业中介职能丧失，教育部直接充当[[Gatekeepers\|守门人]]，导致[[Research Utilization\|证据使用]]更加屈从于部长的政治落地偏好与[[Policy-Based Evidence-Making\|基于政策的证据制造]]。[[Argument_Helgetun_2022_JEP\|(Helgetun & Menter, 2022, pp. 91, 94)]]
+> > - **政策网络研究视角** [[Argument_Helgetun_2022_JEdPolicy\|Helgetun and Menter (2022)]] 访谈前 TDA 高级官员指出，TDA 被撤销后，其缓冲与专业中介职能丧失，教育部直接充当[[Gatekeepers\|守门人]]，导致[[Research Utilization\|证据使用]]更加屈从于部长的政治落地偏好与[[Policy-Based Evidence-Making\|基于政策的证据制造]]。[[Argument_Helgetun_2022_JEdPolicy\|(Helgetun & Menter, 2022, pp. 91, 94)]]
 
 ---
 
