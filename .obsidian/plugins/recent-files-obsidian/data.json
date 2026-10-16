@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Meta-meta-analysis",
-      "path": "wiki/methods/quantitative/Meta-meta-analysis.md"
+      "basename": "Argument_Johnson_2023_CE",
+      "path": "wiki/arguments/journal-articles/Critical Education/Argument_Johnson_2023_CE.md"
     },
     {
       "basename": "Argument_Kalmendal_2025_PsyArXiv",
       "path": "wiki/arguments/journal-articles/PsyArXiv/Argument_Kalmendal_2025_PsyArXiv.md"
+    },
+    {
+      "basename": "Meta-meta-analysis",
+      "path": "wiki/methods/quantitative/Meta-meta-analysis.md"
     },
     {
       "basename": "Randomised Controlled Trials",
@@ -195,10 +199,6 @@
     {
       "basename": "Argument_Bozeman_2004_JTT",
       "path": "wiki/arguments/journal-articles/The Journal of Technology Transfer/Argument_Bozeman_2004_JTT.md"
-    },
-    {
-      "basename": "Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31",
-      "path": "wiki/arguments/books/Cohen_Manion_Morrison_2011_Routledge/Argument_Cohen_Manion_Morrison_2011_Routledge_Ch31.md"
     }
   ],
   "omittedPaths": [],
