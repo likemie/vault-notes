@@ -4853,6 +4853,18 @@
     ]
   },
   {
+    "title": "Dual-Entity Legal Structure",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Dual-Entity Legal Structure.md",
+    "aliases": [
+      "双层法人架构",
+      "双层法人制度架构",
+      "双层套利架构",
+      "Dual-Corporate Structure",
+      "慈善控股商业双层架构"
+    ]
+  },
+  {
     "title": "Educational Brokerage Agency",
     "type": "concept",
     "path": "wiki/concepts/educational-policy-reform/Educational Brokerage Agency.md",
@@ -4907,6 +4919,17 @@
       "教育研发与创新",
       "Research, Development and Innovation",
       "RDI"
+    ]
+  },
+  {
+    "title": "Efficacy Framework",
+    "type": "concept",
+    "path": "wiki/concepts/educational-policy-reform/Efficacy Framework.md",
+    "aliases": [
+      "实效性框架",
+      "效能实证框架",
+      "培生实效性框架",
+      "Pearson Efficacy Framework"
     ]
   },
   {
@@ -31135,6 +31158,24 @@
       "新西兰倡议智库",
       "NZI",
       "The New Zealand Initiative"
+    ]
+  },
+  {
+    "title": "NEXT Foundation",
+    "type": "fact",
+    "path": "wiki/facts/new-zealand/NEXT Foundation.md",
+    "aliases": [
+      "内克斯特基金会",
+      "NEXT 基金会"
+    ]
+  },
+  {
+    "title": "Springboard Trust",
+    "type": "fact",
+    "path": "wiki/facts/new-zealand/Springboard Trust.md",
+    "aliases": [
+      "跳板信托",
+      "新西兰跳板信托"
     ]
   },
   {

@@ -8,7 +8,7 @@ summary: "新西兰教育统计学家，Visible Learning作者与元分析综合
 type: person
 nationality: new-zealand
 person_region: "new-zealand"
-person_related_count: 134
+person_related_count: 135
 person_related_level: 13
 person_related_stars: "💎💎💎💎⭐"
 person_related_color: "#fef3c7"
@@ -71,6 +71,7 @@ related_concepts:
   - "[[Commensuration]]"
   - "[[Reliability]]"
   - "[[Educational Management Organisation]]"
+  - "[[Dual-Entity Legal Structure]]"
   - "[[Bildung]]"
   - "[[Screening Off]]"
   - "[[Creativity]]"
@@ -330,7 +331,7 @@ updated: 2026-10-16
 > > 批判其对教师专业主体的贬低、商业化利益冲突以及在国家硬性规制中的制度穿透力不足。
 > >
 > > - **Eacott 以及 McKnight 与 Whitburn** 定性其为新泰勒主义监控与“[[Cult of the Guru\|大师崇拜]]”，将教学拆解为最小可测量单元，以进步主义修辞包装[[Positivism\|实证主义]]与新自由主义监控。[[Argument_Eacott_2017_SLM\|(Eacott, 2017)]]; [[Argument_McKnight_2020_Discourse\|(McKnight & Whitburn, 2020)]]
-> > - **O'Neill 等人以及 Johnson 与 Janzen** 揭示政策制定者脱离语境滥用证据，系统追踪其依托 [[Educational Management Organisation|EMO]] 双层法人架构（慈善信托控股营利子公司）在公共研发（[[Assessment Tools for Teaching and Learning|asTTle]]）、非营利顾问与营利特许之间无缝切换的微观运作路径，披露其 5 年间从商业实体获取 86.9 万新西兰元版税而享有公共免税庇护的制度套利机制。[[Argument_ONeill_2012_NZJES|(O'Neill, 2012)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 65–75)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023)]]
+> > - **O'Neill 等人以及 Johnson 与 Janzen** 揭示政策制定者脱离语境滥用证据，系统追踪其依托 [[Educational Management Organisation|EMO]] [[Dual-Entity Legal Structure|双层法人架构]]（慈善信托控股营利子公司）在公共研发（[[Assessment Tools for Teaching and Learning|asTTle]]）、非营利顾问与营利特许之间无缝切换的微观运作路径，披露其 5 年间从商业实体获取 86.9 万新西兰元版税而享有公共免税庇护的制度套利机制。[[Argument_ONeill_2012_NZJES|(O'Neill, 2012)]]; [[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 65–75)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023)]]
 > > - **Steiner-Khamsi 等人** 实证表明在北欧政策咨询网络中，专家报告虽海量引用 Hattie，但在法定行政法令阶段被清洗过滤超 95%，个体明星威权远逊于[[OECD\|经济合作与发展组织]]（Organisation for Economic Co-operation and Development，OECD）等跨国治理复合体。[[Argument_Steiner-Khamsi_2024_CE\|(Steiner-Khamsi et al., 2024, pp. 547–548)]]
 >
 > > [!axis] 教育哲学审视：[[Technical Rationality\|技术理性]]、盲视框架与 [[Bildung]] 替代

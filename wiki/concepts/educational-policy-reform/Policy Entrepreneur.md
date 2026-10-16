@@ -6,7 +6,7 @@ aliases:
 summary: "指在教育系统内外通过建立跨界网络、识别政策机会窗口并策略性整合实证证据与价值话语推动政策变迁的能动主体。在理性主义比较教育传统中，政策企业家是全球治理与多行动者网络中开展远处治理的核心协调力量；在公共政策生命周期中，他们动态整合实证差距指标与两党核心价值以打破既有体制垄断；在新自由主义教育私有化改革中，他们依托教育管理组织（EMO）的双层法人架构，在公共行政、非营利信托与营利性商业公司之间无缝切换，实现学术知识产权的品牌化变现与制度套利，进而对传统代议制民主问责构成严峻挑战。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 44
+related_count: 45
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -32,6 +32,7 @@ related_concepts:
   - "[[Endogenous and Exogenous Privatisation]]"
   - "[[Visible Learning]]"
   - "[[Competitiveness]]"
+  - "[[Dual-Entity Legal Structure]]"
   - "[[School Choice]]"
   - "[[Policy Network]]"
   - "[[Variable]]"
@@ -187,7 +188,7 @@ updated: 2026-10-16
 > | 命题类型 | 核心指向 | 适用情境 | 代表学者 |
 > |---|---|---|---|
 > | **远处治理协调命题** | 揭示政策企业家如何借助跨国指标与数据网络，在分散权威空间中协调并推进远处治理 | 跨国教育空间、全球治理与多边政策流动 | [[Eleftherios Klerides\|Klerides (2023)]]; Ball (2012) |
-> | **公私双层制度套利命题** | 揭示政策企业家如何穿梭于公立、非营利与商业载体间，依托双层法人架构将学术成果商业化变现 | 国家教育私有化、教育管理组织（EMO）运营与学术资本转化 | [[John O'Neill\|O'Neill et al. (2016)]]; Mintrom (2000) |
+> | **公私双层制度套利命题** | 揭示政策企业家如何穿梭于公立、非营利与商业载体间，依托[[Dual-Entity Legal Structure\|双层法人架构]]将学术成果商业化变现 | 国家教育私有化、教育管理组织（EMO）运营与学术资本转化 | [[John O'Neill\|O'Neill et al. (2016)]]; Mintrom (2000) |
 > | **阶段权变证据整合命题** | 揭示政策企业家如何在政策生命周期中策略性打包实证差距指标、两党价值与技术护栏以突破制度垄断 | 课程标准改革、跨州政策协同与公共决策议程推进 | [[Argument_McDonnell_2013_AmJE\|McDonnell and Weatherford (2013)]]; Stone (2012) |
 
 ---
@@ -245,6 +246,6 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统剖析新西兰公立教育中政策企业家跨界无缝切换的机制，揭示双层法人架构与学术资本商业化变现路径。
+> - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统剖析新西兰公立教育中政策企业家跨界无缝切换的机制，揭示[[Dual-Entity Legal Structure|双层法人架构]]与学术资本商业化变现路径。
 > - [[Argument_McDonnell_2013_AmJE|McDonnell and Weatherford (2013)]] — 将政策企业家理论与多阶段证据利用结合，揭示跨界行动者动员实证差距指标突破[[Punctuated Equilibrium Theory|政策垄断]]并推动 [[Common Core State Standards|CCSS]] 采纳。
 > - [[Argument_Klerides_2023_CE|Klerides (2023)]] — 将政策企业家引入理性主义比较教育发展框架，解释分散权威空间中基于基准数据的[[Governing at a Distance|远处治理]]协调机制。

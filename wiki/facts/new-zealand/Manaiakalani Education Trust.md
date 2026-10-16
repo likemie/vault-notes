@@ -9,7 +9,7 @@ subtype: organization
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "organization"
-fact_related_count: 15
+fact_related_count: 16
 fact_related_level: 1
 fact_related_stars: "⭐"
 fact_related_color: "#dcfce7"
@@ -41,9 +41,10 @@ related_instruments: []
 related_persons:
   - "[[John O'Neill]]"
 related_facts:
-  - "[[The Education Trust]]"
+  - "[[NEXT Foundation]]"
   - "[[Foundation North Māori and Pasifika Education Initiative]]"
   - "[[Cognition Education]]"
+  - "[[The Education Trust]]"
 related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 confidence: high
@@ -59,12 +60,12 @@ updated: 2026-10-16
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> 马奈卡拉尼[[The Education Trust|教育信托]]（Manaiakalani Education Trust）是 2011 年在新西兰奥克兰设立的独立教育慈善信托，采用公私混合治理结构，旨在为弱势社区公立学校引入外部商业资本、高参与度慈善基金与数字化学习项目，是新西兰基础教育新自由主义现代化与外生私有化的代表性案例。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 9, 27)]]
+> 马奈卡拉尼教育信托（Manaiakalani Education Trust）是 2011 年在新西兰奥克兰设立的独立教育慈善信托，采用公私混合治理结构，旨在为弱势社区公立学校引入外部商业资本、高参与度慈善基金与数字化学习项目，是新西兰基础教育新自由主义现代化与外生私有化的代表性案例。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 9, 27)]]
 
 > [!org-context] 机构背景
 > - **创设时间与契机** 2011 年正式登记成立。前身为新西兰教育部于 2008 年资助设立的扩展学校高标准计划（Extending High Standards Across Schools, EHSAS）技术增强型扫盲集群，2010 年转变为教育部资助的信息通信技术（Information and Communications Technology, ICT）专业发展集群。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 27)]]
 > - **总部地点与辐射范围** 总部位于新西兰奥克兰塔马基（Tamaki）地区，业务起步于当地低社会经济地位（Low-Decile）公立学校集群，后通过外展项目（Manaiakalani Outreach）扩张至罗托鲁瓦（Rotorua）等全国多个低分校区。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 27, 56)]]
-> - **法人属性与资助结构** 独立非营利慈善信托法人；早期依托教育部竞争性专款，2012 年起深度转向由社群信托、企业基金会（Spark Foundation）、[[Venture Philanthropy|风险慈善]]资本（NEXT Foundation）以及跨国电子硬件企业（Samsung Electronics）构成的多元混合赞助模式。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 27, 106)]]
+> - **法人属性与资助结构** 独立非营利慈善信托法人；早期依托教育部竞争性专款，2012 年起深度转向由社群信托、企业基金会（Spark Foundation）、[[Venture Philanthropy|风险慈善]]资本（[[NEXT Foundation]]）以及跨国电子硬件企业（Samsung Electronics）构成的多元混合赞助模式。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 27, 106)]]
 > - **法定宗旨与使命表述** 明确致力于搜寻并联合外部利益相关者，为塔马基及全国弱势社区的毛利与太平洋岛民儿童和家庭提供数字化学习基础设施、智能硬件及教师技术增强型教学研修项目。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 27)]]
 
 ---
@@ -83,14 +84,14 @@ updated: 2026-10-16
 >
 >   从公立教育系统的从属试点脱钩，注册设立独立慈善信托，确立了跨界政商人士主导的治理结构，并开始承接大型区域慈善基金。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 27, 106)]]
 >
->   - **2011 年** 马奈卡拉尼[[The Education Trust|教育信托]]（Manaiakalani Education Trust）正式注册成立，确立四名教育者与四名非教育者受托人的混合治理架构，商界领袖帕特·斯内登（Pat Snedden）出任董事会主席。
+>   - **2011 年** 马奈卡拉尼教育信托（Manaiakalani Education Trust）正式注册成立，确立四名教育者与四名非教育者受托人的混合治理架构，商界领袖帕特·斯内登（Pat Snedden）出任董事会主席。
 >   - **2012 年** 获得 ASB 社区信托（ASB Community Trust，后更名为北部基金会 Foundation North）[[Foundation North Māori and Pasifika Education Initiative|毛利与太平洋岛民教育倡议]]（MPEI）第二阶段大额资助，同时吸纳新西兰电信巨头旗下的斯帕克基金会（Spark Foundation）作为创始赞助方。
 >
 > - **2015 年至今** **[[Venture Philanthropy|风险慈善]]赋能与全国网络化扩张**
 >
 >   依托大型风险慈善基金的战略注资与跨国科技巨头的硬件赞助，走出奥克兰单一社区，启动全国规模化输出工程。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 27, 56, 108)]]
 >
->   - **2015 年** 获得新西兰最大风险慈善基金内克斯特基金会（NEXT Foundation）战略级数百万资助，正式启动全国外展项目（Manaiakalani Outreach）；同年引入跨国消费电子企业三星电子（Samsung Electronics）的商业赞助。
+>   - **2015 年** 获得新西兰最大风险慈善基金[[NEXT Foundation|内克斯特基金会]]（NEXT Foundation）战略级数百万资助，正式启动全国外展项目（Manaiakalani Outreach）；同年引入跨国消费电子企业三星电子（Samsung Electronics）的商业赞助。
 >   - **2016 年** 获得由商业化教育咨询公司派生的[[Cognition Education|认知教育信托]]（Cognition Education Trust）资助，合作开展教师专业学习与发展规程研发。
 
 ---
@@ -99,7 +100,7 @@ updated: 2026-10-16
 
 > [!actor-grid] 组织治理架构
 > - **决策机构（混合受托人理事会）** 治理最高机构由四名一线学校教育工作者受托人与四名非教育界资深人士受托人组成。理事会由时任奥克兰港口总监、资深企业董事帕特·斯内登（Pat Snedden）执掌，其同时在多家政府实体、住房开发信托与跨界[[Policy Network|政策网络]]中任职，体现了高度致密的政商学交叉治理网络。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 27, 76)]]
-> - **资助同盟（[[Venture Philanthropy|风险慈善]]与跨国巨头）** 形成了由北部基金会（Foundation North）、内克斯特基金会（NEXT Foundation）两大战略型慈善财团，联合电信运营商（Spark）、硬件跨国企业（Samsung）构成的资助联盟，通过高参与度慈善投资（High-Engagement Philanthropy）直接介入项目战略设计。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 27, 108)]]
+> - **资助同盟（[[Venture Philanthropy|风险慈善]]与跨国巨头）** 形成了由北部基金会（Foundation North）、[[NEXT Foundation|内克斯特基金会]]（NEXT Foundation）两大战略型慈善财团，联合电信运营商（Spark）、硬件跨国企业（Samsung）构成的资助联盟，通过高参与度慈善投资（High-Engagement Philanthropy）直接介入项目战略设计。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 27, 108)]]
 > - **协作研发与中介网络** 与奥克兰大学教育学院等学术智库合作开展效果评估，并同[[Cognition Education|认知教育]]（Cognition Education）等商业教育服务中介维持密切业务往来，形成教师数字教学能力培养与认证链条。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 89)]]
 
 > [!pathways] 业务运行机制
@@ -113,11 +114,11 @@ updated: 2026-10-16
 
 > [!finding-cards] 核心业务矩阵
 > - **塔马基数字学习集群（Tamaki Digital Learning Initiative）** 作为信托的立足之基，将奥克兰塔马基地区多所小学与中学整合为数字化学习试验区，推行全数字化的课程交互与[[Homework|作业]]管理。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 56)]]
-> - **全国外展项目（Manaiakalani Outreach）** 在内克斯特基金会资助下设立的旗舰规模化项目，向奥克兰以外的罗托鲁瓦等地区输出数字化教育解决方案，建立跨区域的公立学校数字化互联联盟。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 27, 108)]]
+> - **全国外展项目（Manaiakalani Outreach）** 在[[NEXT Foundation|内克斯特基金会]]资助下设立的旗舰规模化项目，向奥克兰以外的罗托鲁瓦等地区输出数字化教育解决方案，建立跨区域的公立学校数字化互联联盟。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 27, 108)]]
 > - **教师专业学习与发展项目（PLD Program）** 联合[[Cognition Education|认知教育信托]]开展的[[Technology Infusion|技术整合]]教学法研修课程，指导教师如何将数字设备与[[Learner Autonomy|自主学习]]策略融入日常课堂教学。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 89)]]
 
 > [!citation-card] 机构使命与宗旨定性
-> 马奈卡拉尼[[The Education Trust|教育信托]]是一个具有混合受托人架构的慈善信托，其明确目的在于搜寻外部利益相关者，为整个塔马基社区的儿童和家庭提供学习基础设施和项目。
+> 马奈卡拉尼教育信托是一个具有混合受托人架构的慈善信托，其明确目的在于搜寻外部利益相关者，为整个塔马基社区的儿童和家庭提供学习基础设施和项目。
 >
 > *The explicit purpose of which was to find external stakeholders to provide learning infrastructure and programmes to benefit children and families throughout the Tamaki community.*（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. 27]]）
 
@@ -147,7 +148,7 @@ updated: 2026-10-16
 > | 条目 | 类型 | 关系 |
 > |:---|:---|:---|
 > | [[Network Governance]] | Concept | 马奈卡拉尼[[The Education Trust\|教育信托]]是新西兰教育网络治理的经典案例，体现公私跨界与多元筹资。 |
-> | [[Venture Philanthropy]] | Concept | 获得 NEXT Foundation 与 Foundation North 风险慈善投资并推行高参与度规模化。 |
+> | [[Venture Philanthropy]] | Concept | 获得 [[NEXT Foundation]] 与 Foundation North 风险慈善投资并推行高参与度规模化。 |
 > | [[Endogenous and Exogenous Privatisation]] | Concept | 体现了国家公共资助责任外包与办学基础设施引入商业赞助的外生私有化特征。 |
 > | [[Public-Private Partnership]] | Concept | 学校、慈善基金、电信运营商与硬件跨国企业的公私伙伴关系实践。 |
 > | [[Foundation North Māori and Pasifika Education Initiative]] | Fact | 信托在第二阶段获得该倡议的重点资助与孵化支持。 |

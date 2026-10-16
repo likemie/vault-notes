@@ -9,7 +9,7 @@ aliases:
 summary: "指基于明确的职能分工、自顶向下的层级节制、非人格化的成文规则与专业化职业考核建立的理性化组织与治理形态。在古典社会学中被视作现代性理性化效率的基石；在当代工程治理中被批判为滋生层级设卡、会议工业复合体与避险自保；而在批判公共治理研究（奥尼尔等人，2016）中，科层制所内置的法定理性与中立规章被证实是维护代议制民主问责与信息公开的关键屏障，其在现代化改革中被弹性网络与部落治理侵蚀反而引发了严重的公共透明度危机。"
 type: concept
 domain: "political-economy-geopolitics"
-related_count: 54
+related_count: 55
 related_level: 5
 related_stars: "💎⭐⭐"
 related_color: "#fecdd3"
@@ -41,6 +41,7 @@ related_concepts:
   - "[[Steering at a Distance]]"
   - "[[Block Grants]]"
   - "[[Policy Entrepreneur]]"
+  - "[[Dual-Entity Legal Structure]]"
   - "[[Constructive Disobedience]]"
   - "[[Technological Republic]]"
   - "[[Discourse]]"
@@ -249,7 +250,7 @@ updated: 2026-10-16
 
 > [!claim] O'Neill, J. et al.
 > **网络与部落治理对科层法定问责的侵蚀论断** [[John O'Neill|约翰·奥尼尔]]等人结合格雷厄姆·汤普森（Grahame Thompson, 1991）的组织治理分类学（市场、科层制、网络、部落）论证指出，战后传统的科层制（Bureaucracy）虽然因程序繁琐备受诟病，但其本质是依靠国家法制、中立公务员体系和法定程序（如成文规章与公开采购标准）保障公共教育资源公平分配的制度基石，直接受到国家《官方信息法》（Official Information Act, OIA）以及议会质询的民主监督。
-> 然而，新西兰公立教育现代化改革以打破科层僵化、引入市场竞争为名，实质上并未建立起规范公平的自由市场，而是滑向了基于私人熟人关系、智库结盟与非公开项目合同的“网络（Networks）”与“部落（Clans）”治理模式。[[Educational Management Organisation|教育管理组织]]（[[Educational Management Organisation|EMO]]）、私人咨询机构与学者型[[Policy Entrepreneur|政策企业家]]通过建立双层法人架构（慈善信托全资控股营利公司），以商业秘密为由全面拒绝向公众披露合同细则、利润流向与真实公益支出。这种治理转型实质上以非正式的私人信任取代了法理科层规程，彻底规避了公民与议会的民主质询，造成了公共教育决策与资源分配的严重问责真空。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. vii–viii, 3–7, 82–84)]]
+> 然而，新西兰公立教育现代化改革以打破科层僵化、引入市场竞争为名，实质上并未建立起规范公平的自由市场，而是滑向了基于私人熟人关系、智库结盟与非公开项目合同的“网络（Networks）”与“部落（Clans）”治理模式。[[Educational Management Organisation|教育管理组织]]（[[Educational Management Organisation|EMO]]）、私人咨询机构与学者型[[Policy Entrepreneur|政策企业家]]通过建立[[Dual-Entity Legal Structure|双层法人架构]]（慈善信托全资控股营利公司），以商业秘密为由全面拒绝向公众披露合同细则、利润流向与真实公益支出。这种治理转型实质上以非正式的私人信任取代了法理科层规程，彻底规避了公民与议会的民主质询，造成了公共教育决策与资源分配的严重问责真空。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. vii–viii, 3–7, 82–84)]]
 
 ---
 

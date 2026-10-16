@@ -31,6 +31,7 @@ related_concepts:
   - "[[Educational Management Organisation]]"
   - "[[Visible Learning]]"
   - "[[Policy Network]]"
+  - "[[Dual-Entity Legal Structure]]"
   - "[[International Education]]"
   - "[[International Schools]]"
   - "[[Screening Off]]"
@@ -52,7 +53,6 @@ related_facts:
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[Corwin Press]]"
   - "[[OECD]]"
-  - "[[The Education Trust]]"
   - "[[Jerudong International School Establishment]]"
 related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
@@ -76,7 +76,7 @@ updated: 2026-10-16
 > [!org-context] 机构背景
 > - **成立时间 / 创设背景** 1989 年 10 月新西兰推行明日学校改革，撤销原有区域教育委员会，将原本由公共部门承担的学校工资发放与校车运输等行政后勤职能从教育部剥离，交由新设的自负盈亏教育服务中心承接，Multi Serve Education Trust 由此应运而生。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 11–12)]]
 > - **总部地点 / 业务辐射** 总部位于新西兰奥克兰（Auckland），业务辐射跨越新西兰本土、文莱、海湾地区（卡塔尔、阿布扎比）、澳大利亚、英国以及美国等多个国家和地区。[[Argument_Bates_2017_CognitionEducationTrust|(Bates, 2017, pp. 21–23, 47–48)]]
-> - **法人属性与经费基础** 采用双层法人架构；母实体为免税的慈善信托（Cognition Education Trust），下设全资营利性商业运营子公司（Cognition Education Limited）；收入来源涵盖政府竞标合同、国际咨询服务费、企业并购款项及知识产权特许权使用费（Royalties）。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 66–68)]]
+> - **法人属性与经费基础** 采用[[Dual-Entity Legal Structure|双层法人架构]]；母实体为免税的慈善信托（Cognition Education Trust），下设全资营利性商业运营子公司（Cognition Education Limited）；收入来源涵盖政府竞标合同、国际咨询服务费、企业并购款项及知识产权特许权使用费（Royalties）。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 66–68)]]
 > - **官方信息法豁免与监督缝隙** 作为私营有限责任公司，其承接公共教育采购的核心合同明细、利润率与董事酬金不受新西兰《官方信息法》（Official Information Act, OIA）的约束，形成了天量公共资金流向私营中介却规避议会与公众民主审查的制度屏障。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 3–7, 82–84)]]
 > - **核心宗旨与法定职责** 机构官方宣称致力于将学习科学（Learning Science）转译为面向学校、社区与政府的专业实践服务，推动全球教育改进；在批判学者视阈下，其实质扮演了将公共教育资产私有化、推动新自由主义教育治理与知识商品化的商业先锋。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 65)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 30)]]
 
@@ -213,7 +213,7 @@ updated: 2026-10-16
 > *During the 2012–2014 period, the donations to the Trust eliminated the taxable income of Cognition Education Limited and its subsidiaries... in 2015, the Trust's charitable distributions to beneficiaries were only \$251,000, representing a mere 0.9% of the Group's total revenue. Whether this organisation should continue to enjoy tax-exempt charitable trust status while operating primarily as a commercial conglomerate raises severe public benefit concerns.*
 
 > [!citation-card] 学者董事身份与商业版税分红的伦理困境
-> [[John Hattie|哈蒂]]不仅是新西兰教育体系极具权势的政策顾问，同时还担任认知[[The Education Trust|教育信托]]理事会董事，并在 2011 至 2015 年间从认知教育商业实体收取了至少 869,453 新西兰元的版税与顾问费……即便这在法律技术层面规避了违规认定，但学者将公共政策影响力转化为私人特许经营收益的旋转门安排，在伦理观感上极其成问题。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 31)]]
+> [[John Hattie|哈蒂]]不仅是新西兰教育体系极具权势的政策顾问，同时还担任认知教育信托理事会董事，并在 2011 至 2015 年间从认知教育商业实体收取了至少 869,453 新西兰元的版税与顾问费……即便这在法律技术层面规避了违规认定，但学者将公共政策影响力转化为私人特许经营收益的旋转门安排，在伦理观感上极其成问题。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 31)]]
 >
 > *Hattie served on the board of the Cognition Education Trust while simultaneously receiving substantial third-party royalties and fees totaling at least \$869,453 NZD between 2011 and 2015 from Cognition's commercial operations... Even if this does not technically constitute a formal breach of conflict-of-interest regulations, the optics of converting academic stature into privatized commercial consulting royalties are deeply troubling.*
 

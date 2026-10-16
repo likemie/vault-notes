@@ -8,7 +8,7 @@ aliases:
 summary: "参与公立学校教育政策制定、管理运营支持与核心教育服务交付的私营部门实体，兼具营利与非营利形式。在英美多以特许学校或学院连锁运营，在新西兰则演化为母体慈善信托与全资营利公司构成的双层混合法人架构，借助官方信息法豁免构筑民主问责屏障并实现免税套利。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 26
+related_count: 27
 related_level: 2
 related_stars: "⭐⭐"
 related_color: "#99f6e4"
@@ -20,6 +20,7 @@ tags:
   - region/global
   - privatization
 related_concepts:
+  - "[[Dual-Entity Legal Structure]]"
   - "[[Venture Philanthropy]]"
   - "[[Network Governance]]"
   - "[[Paradigm]]"
@@ -67,7 +68,7 @@ updated: 2026-10-16
 > [!def] 核心定义
 > 教育管理组织（Educational Management Organisation, EMO）指深度参与公立学校教育政策制定、管理运营支持以及核心教育教学服务交付的私营部门实体，涵盖营利性（for-profit）与非营利性（not-for-profit）两种组织形态。
 > 
-> 在国际比较语境中，EMO 主要指受政府委托托管或直接运营一所及多所公立学校（如特许学校连锁或学院信托连锁），全面承担人员配备、课程设置与教学管理的第三方机构。而在新西兰特定制度土壤中，EMO 演变出独特的**双层法人架构（Two-tier Corporate Structure）** 顶层为免税的慈善信托（Charitable Trust），底层为全资拥有的营利性有限责任公司（Limited Liability Company）。这些实体不仅垄断公共部门服务外包合同，更深度介入国家政策文本起草与教育议程设置，在公共利益外衣下展开商业资本积累与制度套利（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. vi–vii, 19–20]]）。
+> 在国际比较语境中，EMO 主要指受政府委托托管或直接运营一所及多所公立学校（如特许学校连锁或学院信托连锁），全面承担人员配备、课程设置与教学管理的第三方机构。而在新西兰特定制度土壤中，EMO 演变出独特的 **[[Dual-Entity Legal Structure|双层法人架构]]（Two-tier Corporate Structure）** 顶层为免税的慈善信托（Charitable Trust），底层为全资拥有的营利性有限责任公司（Limited Liability Company）。这些实体不仅垄断公共部门服务外包合同，更深度介入国家政策文本起草与教育议程设置，在公共利益外衣下展开商业资本积累与制度套利（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. vi–vii, 19–20]]）。
 
 > [!concept-lens] 概念透镜
 > - **核心内涵** 揭示教育公共服务交付权向私营组织实体的结构性转移，聚焦其如何在商业利润、慈善特权与公共受托责任之间进行制度性套利。
@@ -258,7 +259,7 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统解构新西兰以 [[Cognition Education]] 和 CORE Education 为代表的 EMO 双层法人架构、税收冲抵套利与民主问责真空。
+> - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统解构新西兰以 [[Cognition Education]] 和 CORE Education 为代表的 EMO [[Dual-Entity Legal Structure|双层法人架构]]、税收冲抵套利与民主问责真空。
 > - Bray (2007) — 全球比较研究，剖析影子教育与私营补习机构对教育公平的侵蚀机制。
 > - Papanastasiou (2013) — 剖析英格兰与威尔士公费学校体系中私营 EMO 与学院连锁机构的政策推进路径。
 > - Erixon Arreman and Holm (2011) — 考察瑞典自由学校市场化改革中，营利性连锁组织（School Chains）的崛起与监管困境。

@@ -11,7 +11,7 @@ subtype: program
 region: new-zealand
 fact_region: "new-zealand"
 fact_kind: "program"
-fact_related_count: 22
+fact_related_count: 23
 fact_related_level: 2
 fact_related_stars: "⭐⭐"
 fact_related_color: "#ede9fe"
@@ -48,6 +48,7 @@ related_facts:
   - "[[OECD]]"
   - "[[Grammar School]]"
   - "[[Cognition Education]]"
+  - "[[NEXT Foundation]]"
   - "[[The Education Trust]]"
   - "[[Partnership Schools Kura Hourua]]"
 related_arguments:
@@ -106,7 +107,7 @@ updated: 2026-10-16
 > [!actor-grid] 治理团队与领导网络
 > - **执行领导层** 联合创始人兼首席执行官肖恩·萨顿（Shaun Sutton）曾在英国接受 Teach First 师训并在 TFA 总部实习；副总监杰伊·奥尔纳特（Jay Allnutt）为前伦敦教师及 Teach First 英国副总监；团队吸纳了跨国律所、猎头咨询与商业公关资深人士。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 54)]]
 > - **受托人理事会（Trustees）** 呈现致密的政商跨界特征：董事会主席德博拉·乔治（Deborah George）为奥克兰[[Grammar School|文法学校]]（Auckland [[Grammar School]]）招生总监兼 InZone 教育基金会董事；受托人戴维·格洛弗（David Glover）为麦肯广告前全球创意总监兼商业咨询董事长；受托人伯娜丁·维斯特（Bernadine Vester）为 COMET 前首席执行官兼中学教师协会前副主席。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 55)]]
-> - **学术顾问与政府联络** 奥克兰大学教育学院前院长、[[Cognition Education|认知教育]]受托人兼内克斯特基金会（NEXT Foundation）顾问玛格丽特·本德尔（Margaret Bendall）出任资深顾问，承担大学学分认证与政府政策协调职能。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 54–55)]]
+> - **学术顾问与政府联络** 奥克兰大学教育学院前院长、[[Cognition Education|认知教育]]受托人兼[[NEXT Foundation|内克斯特基金会]]（NEXT Foundation）顾问玛格丽特·本德尔（Margaret Bendall）出任资深顾问，承担大学学分认证与政府政策协调职能。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 54–55)]]
 
 > [!pathways] 业务运行与培养流程
 > - **严苛选拔与快速启动（Summer Institute）** 针对名校顶尖应届生进行多轮领导力情境测试，通过后进入为期仅 6 至 8 周的暑期强化集训营，迅速讲授基础教学法与班级管理技巧。
@@ -120,7 +121,7 @@ updated: 2026-10-16
 > [!table] 表一：Teach First New Zealand 赞助同盟分层矩阵与关键出资方
 > | 赞助层级（毛利命名） | 赞助级别性质 | 核心出资机构与代表性商业资本 |
 > |:---|:---|:---|
-> | **Kaitautoko Kauri** | 战略级主要出资方 | 奥特亚罗瓦基金会（Aotearoa Foundation，美国对冲基金巨头 Julian Robertson）、查普曼·特里普律所（Chapman Tripp）、德勤会计师事务所（Deloitte）、内克斯特基金会（NEXT Foundation）、沃尔夫·费舍尔信托（Woolf Fisher Trust）、辛格基金会（Harry Singer Foundation） |
+> | **Kaitautoko Kauri** | 战略级主要出资方 | 奥特亚罗瓦基金会（Aotearoa Foundation，美国对冲基金巨头 Julian Robertson）、查普曼·特里普律所（Chapman Tripp）、德勤会计师事务所（Deloitte）、[[NEXT Foundation\|内克斯特基金会]]（NEXT Foundation）、沃尔夫·费舍尔信托（Woolf Fisher Trust）、辛格基金会（Harry Singer Foundation） |
 > | **Kaitautoko Rimu** | 次级重点支持方 | [[Cognition Education\|认知教育信托]]（Cognition Education Trust）、毕马威（KPMG）、富士施乐（Fuji Xerox）、弗莱彻信托（The Fletcher Trust）、毕业生就业网（GradConnection） |
 > | **Kaitautoko Tōtara** | 合作支持方 | 可口可乐阿马蒂尔（Coca-Cola Amatil）、[[Cognition Education\|认知教育公司]]、COMET Auckland、赛富时（Salesforce.com）、新西兰中校长协会、联合国青年组织（UN Youth） |
 > | **奖学金专项伙伴** | 专属资助通道 | 新西兰教育奖学金信托（NZ Education and Scholarship Trust）及私人慈善家（Andrew Gawith & Penny Deans） |
@@ -170,7 +171,7 @@ updated: 2026-10-16
 > |:---|:---|:---|
 > | [[Public-Private Partnership]] | Concept | TFNZ 是教育部、公立大学与跨国非营利基金会建立的三方公私伙伴关系典型项目。 |
 > | [[Endogenous and Exogenous Privatisation]] | Concept | 属于将初级师资选拔与培训向私营慈善信托外包的外生私有化实践。 |
-> | [[Venture Philanthropy]] | Concept | 依托罗伯逊基金会、廷德尔基金会与内克斯特基金会等高参与度风险慈善资本运作。 |
+> | [[Venture Philanthropy]] | Concept | 依托罗伯逊基金会、廷德尔基金会与[[NEXT Foundation\|内克斯特基金会]]等高参与度风险慈善资本运作。 |
 > | [[Policy Entrepreneur]] | Concept | 萨顿等跨界行动者利用消除教育不平等的福利[[Discourse\|话语]]，在政商学界之间成功穿梭并实现制度突围。 |
 > | [[STEM Education]] | Concept | 该项目重点定向补足奥克兰与北地薄弱校数学与科学专业教师短缺。 |
 > | [[Cognition Education]] | Fact | 认知[[The Education Trust\|教育信托]]作为主要赞助方（Kaitautoko Rimu），资助了 TFNZ 的日常运营与教研业务。 |

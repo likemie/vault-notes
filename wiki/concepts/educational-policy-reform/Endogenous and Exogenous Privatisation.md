@@ -9,7 +9,7 @@ aliases:
 summary: "由斯蒂芬·鲍尔（Stephen J. Ball）与德博拉·尤德尔（Deborah Youdell）系统区分的两种教育私有化形态。内生私有化指将私营部门的市场逻辑、绩效评估与新公共管理引入公立教育体系内部；外生私有化指通过特许学校、合同外包与公私伙伴关系将公共教育供给转移至私营部门。鲍尔与托雷斯等学者进一步将其定性为新自由主义国家重构教育权力的阶级策略。"
 type: concept
 domain: "educational-policy-reform"
-related_count: 42
+related_count: 43
 related_level: 4
 related_stars: "💎⭐"
 related_color: "#fdba74"
@@ -25,6 +25,7 @@ related_concepts:
   - "[[Disciplina and Doctrina]]"
   - "[[New Public Management]]"
   - "[[Performance Indicators]]"
+  - "[[Dual-Entity Legal Structure]]"
   - "[[Screening Off]]"
   - "[[Cultural Capital]]"
   - "[[Educational Decentralization]]"
@@ -119,7 +120,7 @@ updated: 2026-10-16
 > - **内生企业化与成本转嫁机制（Endogenous Cost-Shifting）** 通过设立使用者自费项目、缩减公立经常性拨款，迫使学校像独立核算的商业实体一样面向市场自筹经费。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, p. 83)]]
 > - **外生契约外包与公私伙伴网络（Exogenous Contracting & PPPs）** 将原本属于国家的专业发展服务（PLD）、基础设施建设、学校评估乃至整校运营权承包给私营机构。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 8–12)]]
 > - **从服务交付外包向政策制定权外包深化（Privatisation of Policy-Making）** 外生私有化不再局限于非核心后勤或辅助工具的外部采买，而是进一步跃迁为私营企业高管、慈善信托受托人与跨国顾问深度进入国家教育行政中枢，直接主导国家课程大纲修改、新法案条文起草与公共政策议程设置，造成政策主权的隐性私有化。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 4–6, 49–54)]]
-> - **双层法人架构与信息审计[[Screening Off|屏蔽]]（Two-tier Corporate Shielding）** 外生私有化实体普遍采用“免税母体慈善信托 + 营利性全资有限责任公司”的双层架构；通过内部利润捐赠冲抵企业所得税，同时借助有限责任公司的私法属性合法豁免于《官方信息法》（OIA）公开审计，使公私合营与资本套利处于民主问责视线之外。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. vi–vii, 70–75)]]
+> - **[[Dual-Entity Legal Structure|双层法人架构]]与信息审计[[Screening Off|屏蔽]]（Two-tier Corporate Shielding）** 外生私有化实体普遍采用“免税母体慈善信托 + 营利性全资有限责任公司”的双层架构；通过内部利润捐赠冲抵企业所得税，同时借助有限责任公司的私法属性合法豁免于《官方信息法》（OIA）公开审计，使公私合营与资本套利处于民主问责视线之外。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. vi–vii, 70–75)]]
 > - **新自由主义国家的阶级策略（Neoliberal Class Strategy）** 借助市场选择权与分权化改革的名义，将优质教育资源向具备支付能力的中高阶层聚集，巩固阶级隔离。[[Argument_Olmos_Torres_2009_StateTheories|(Olmos & Torres, 2009, pp. 83–84)]]
 > - **跨国流动驱动的永久企业化（Transnational Market Driver）** 在高等教育中，依靠全额学费的国际留学生弥补国内财政撤资，导致大学陷入无法逆转的企业化运作轨道。[[Argument_Rizvi_2022_Springer|(Rizvi, 2022, pp. 97–98)]]
 

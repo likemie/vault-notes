@@ -11,9 +11,9 @@ title: "Argument_ONeill_2016_Report"
 argument_key: "Argument_ONeill_2016_Report"
 argument_display_title: "Charities, philanthropists, policy entrepreneurs, international companies and state schooling in Aotearoa New Zealand"
 argument_kind: "report"
-argument_related_count: 39
-argument_related_level: 3
-argument_related_stars: "💎"
+argument_related_count: 44
+argument_related_level: 4
+argument_related_stars: "💎⭐"
 argument_related_color: "#dcfce7"
 issuing_organization: Massey University
 citation: "O'Neill, J., with Duffy, C., & Fernando, S. (2016). Charities, philanthropists, policy entrepreneurs, international companies and state schooling in Aotearoa New Zealand. Final report to NZEI Te Riu Roa, NZPPTA Te Wehengarua, and NZPF Ngā Tumuaki o Aotearoa. Massey University."
@@ -40,10 +40,13 @@ related_concepts:
   - "[[Public-Private Partnership]]"
   - "[[Performance Indicators]]"
   - "[[Paradigm]]"
+  - "[[Dual-Entity Legal Structure]]"
   - "[[Visible Learning]]"
   - "[[New Pedagogies for Deep Learning]]"
   - "[[Informationalization]]"
+  - "[[Efficacy Framework]]"
   - "[[Return on Investment]]"
+  - "[[Emergence]]"
   - "[[Recommendations for Practice]]"
   - "[[Presence]]"
 related_theories: []
@@ -66,6 +69,8 @@ related_facts:
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[Business Roundtable]]"
   - "[[Foundation North Māori and Pasifika Education Initiative]]"
+  - "[[NEXT Foundation]]"
+  - "[[Springboard Trust]]"
 related_arguments: []
 sources:
   - "[[sources/ONeill_2016_Report/ONeill_2016_Report|ONeill_2016_Report]]"
@@ -226,7 +231,7 @@ citation_aliases:
 
 新西兰法律对教育类慈善实体的宽泛界定，为教育管理组织构建双层法人套利架构提供了合规通道。
 
-> [!policy-design] 新西兰《2005年慈善法》下的双层法人制度架构
+> [!policy-design] 新西兰《2005年慈善法》下的[[Dual-Entity Legal Structure|双层法人制度架构]]
 > - **目标** 拓宽非营利组织的筹资渠道，允许社会力量通过自营业务反哺公益事业。
 > - **对象** 具备促进教育法定宗旨的慈善信托及其全资附属商业实体。
 > - **工具** 设立全资控股的商业有限责任公司，打通跨国经商与免税受捐通道。
@@ -327,7 +332,7 @@ citation_aliases:
 > - **核心宗旨** 通过学习帮助人们改善生活，追求股东商业回报与全球教育市场份额。（pp.77–78）
 
 > [!case] 案例一：Pearson plc——跨国教育集团的实效性标准塑造与全球教育变现
-> - **实效性框架（Efficacy Framework）** 在首席教育顾问迈克尔·巴伯爵士（Sir Michael Barber）主导下，培生推行实效性审计，要求所有商业产品均出具提升学习成效的证据，将商业测评包装为客观科学法则。
+> - **[[Efficacy Framework|实效性框架]]（Efficacy Framework）** 在首席教育顾问迈克尔·巴伯爵士（Sir [[Michael Barber]]）主导下，培生推行[[Efficacy Framework|实效性框架]]与审计体系，要求所有商业产品均出具提升学习成效的证据，将商业测评包装为客观科学法则。（pp.11, 77–81）
 > - **智库思想倡导** 通过 Pearson Open Ideas 丛书资助全球知名学者（包括致谢约翰·海蒂与彼得·希尔），打造权威学术形象，深度介入各国课标与评价制度改革。
 > - **廉价私立学校投资** 通过培生廉价学习基金（Pearson Affordable Learning Fund, PALF），在加纳与肯尼亚投资营利性私立连锁学校，积极游说将公共教育经费转化为私立代金券。（pp.77–81）
 
@@ -400,7 +405,7 @@ citation_aliases:
 > [!case] 案例四：Foundation North——巨额资产沉淀、永久增殖偏好与社会投资试验
 > - **资本长期留存导向** 基金会确立了资产跑赢通胀与代际永久长存的投资方针，将巨额资产委托给金融市场。其总净资产从 2010 年的 10.1 亿新西兰元攀升至 2015 年的 12.15 亿新西兰元。
 > - **偏低的当期资助比率** 2010–2015 年间，该集团累计获得投资收益 6.323 亿新西兰元（年均 1.054 亿），但六年间累计发放的对外赠款总额仅为 1.47 亿，平均每年仅将[[Return on Investment|投资回报]]的 23.3% 转化为实际公益资助，其余 76.7% 被留存用于资本自我增殖。
-> - **风险慈善与社会投资项目** 设立全资咨询子公司新西兰社会影响力中心（Centre for Social Impact NZ Ltd），向政府及其他信托输出量化评估技术；设立 2000 万专项毛利与太平洋岛裔教育倡议（Māori and Pasifika Education Initiative, MPEI），孵化具有强量化考核要求的干预项目。（pp.104–115）
+> - **风险慈善与社会投资项目** 设立全资咨询子公司新西兰社会影响力中心（Centre for Social Impact NZ Ltd），向政府及其他信托输出量化评估技术；设立 2000 万专项毛利与太平洋岛裔教育倡议（Māori and Pasifika Education Initiative, MPEI），孵化具有强量化考核要求的干预项目。（pp.104–115）与北方基金会追求资本长存的传统模式相对照，新西兰战略风险慈善生态中还[[Emergence|涌现]]出采取“十年散尽本金”激进策略的[[NEXT Foundation|内克斯特基金会]]（NEXT Foundation），其全额资助由前麦肯锡合伙人发起的[[Springboard Trust|跳板信托]]（Springboard Trust），将私营企业高管作为能力伙伴派驻薄弱学校辅导校长制定商业战略规划，标志着金融化管理逻辑对公立学校内部治理的深度介入。（pp.36–38, 54–57）
 
 #### 5. 奥克兰社区教育信托充当地方政府的政策外包支点
 

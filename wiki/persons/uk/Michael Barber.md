@@ -9,7 +9,7 @@ summary: "英国著名教育政策顾问与跨国管理咨询领袖，“交付�
 type: person
 nationality: uk
 person_region: "uk"
-person_related_count: 37
+person_related_count: 38
 person_related_level: 3
 person_related_stars: "💎"
 person_related_color: "#ede9fe"
@@ -35,6 +35,7 @@ related_concepts:
   - "[[Policy Entrepreneur]]"
   - "[[Network Governance]]"
   - "[[Social Impact Investing]]"
+  - "[[Efficacy Framework]]"
   - "[[Discourse]]"
   - "[[Technical Rationality]]"
   - "[[Tracking]]"
@@ -118,7 +119,7 @@ updated: 2026-10-16
 >   - **代表著作** *The Learning Curve* (Pearson / EIU, 2012, 2014)；*How to Run a Government: So that Citizens Benefit and Taxpayers Don't Go Crazy* (2015)。
 >   - **关键概念／方法** [[Policy Entrepreneur]]、[[Network Governance]]、[[Educational Brokerage Agency]]、[[Social Impact Investing]]。
 >   - **战略工程与机制突破**
->     - **功效体系（Efficacy Framework）** 在培生全球产品线强制推行“功效审计”，要求所有商业教育产品与服务必须接受实证效能考核，将交付学评估哲学制度化为企业产品研发标准。
+>     - **功效体系（[[Efficacy Framework]]）** 在培生全球产品线强制推行“功效审计”，要求所有商业教育产品与服务必须接受实证效能考核，将交付学评估哲学制度化为企业产品研发标准。
 >     - **《学习曲线》（The Learning Curve）全球报告** 以“民调的民调”（poll of polls）形式整合[[PISA|国际学生评估项目]]（PISA）与[[TIMSS|国际数学与科学趋势研究]]（TIMSS）等认知测验数据，打造全球教育体系效能综合排行榜，将商业咨询的国际标杆比拼推向极致。
 >     - **培生可负担学习基金（PALF）与全球南方投资** 亲任 PALF 董事会主席，与凯特琳·唐纳利（Katelyn Donnelly）共同设立并追加至 6500 万美元资本，在巴基斯坦、印度、加纳、菲律宾等国大举入股营利性低收费私立学校（如 Omega Schools、Bridge International Academies 等）；运用“[[Social Impact Investing|社会影响力投资]]”的[[Discourse|话语]]修辞将资本扩张包装为援助发展，在第三世界开辟跨国教育资本新领地（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 81–82]]）。
 >   - **阶段转向** 游走于公共机构、跨国商业巨头与第三方智库之间，成为新自由主义教育治理中典型的混合型政策企业家（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 47–64]]）。
