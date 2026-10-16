@@ -305,6 +305,8 @@
   },
   "active": "234d452edd1bdd48",
   "lastOpenFiles": [
+    "wiki/facts/us/The Education Trust.md",
+    "wiki/arguments/reports-policy-documents/Argument_ONeill_2016_Report.md",
     "tests/test_yaml_duplicate_keys.py",
     "tests/test_wiki_relations.py",
     "tests/test_wiki_linker.py",
@@ -315,9 +317,7 @@
     "tests/test_citation_integrity.py",
     "tests/test_check_vault.py",
     "tests/test_bold_boundaries.py",
-    "tests/test_argument_rating.py",
     "wiki/concepts/political-economy-geopolitics/Network Governance.md",
-    "wiki/arguments/reports-policy-documents/Argument_ONeill_2016_Report.md",
     "sources/ONeill_2016_Report/figures/ONeill_2016_Report_Fig6_7_Educational_Charities_Assets.jpg",
     "sources/ONeill_2016_Report/figures/ONeill_2016_Report_Fig4_5_Educational_Charities_Expenditure.jpg",
     "sources/ONeill_2016_Report/figures/ONeill_2016_Report_Fig2_3_Educational_Charities_Income.jpg",

@@ -2,19 +2,19 @@
 title: The Education Trust
 aliases:
   - EdTrust
-  - 教育信托
-summary: "美国知名的全国性非营利教育政策分析与倡导中介机构，长期致力于消除学前至大学阶段低收入家庭与少数族裔学生的学业成就差距与教育机会不均，在联邦问责立法与共同核心州立标准等重大改革中扮演核心的知识经纪与政策企业家角色"
+  - 美国教育信托
+summary: 美国知名的全国性非营利教育政策分析与倡导中介机构，长期致力于消除学前至大学阶段低收入家庭与少数族裔学生的学业成就差距与教育机会不均，在联邦问责立法与共同核心州立标准等重大改革中扮演核心的知识经纪与政策企业家角色
 type: fact
 subtype: organization
 region: us
-fact_region: "us"
-fact_kind: "organization"
+fact_region: us
+fact_kind: organization
 fact_related_count: 25
 fact_related_level: 2
-fact_related_stars: "⭐⭐"
+fact_related_stars: ⭐⭐
 fact_related_color: "#dcfce7"
 org_type: ngo
-headquarters: "Washington, D.C., USA"
+headquarters: Washington, D.C., USA
 established: "1996"
 tags:
   - fact/organization

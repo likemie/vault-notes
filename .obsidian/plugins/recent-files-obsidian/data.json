@@ -5,6 +5,10 @@
       "path": "wiki/arguments/reports-policy-documents/Argument_ONeill_2016_Report.md"
     },
     {
+      "basename": "The Education Trust",
+      "path": "wiki/facts/us/The Education Trust.md"
+    },
+    {
       "basename": "Network Governance",
       "path": "wiki/concepts/political-economy-geopolitics/Network Governance.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Effective Teaching",
       "path": "wiki/concepts/instruction-pedagogy/Effective Teaching.md"
-    },
-    {
-      "basename": "International Baccalaureate Nutritional Science Course",
-      "path": "wiki/facts/multi/International Baccalaureate Nutritional Science Course.md"
     }
   ],
   "omittedPaths": [],
