@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -303,8 +303,11 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "9fa9dc0454e1193e",
+  "active": "234d452edd1bdd48",
   "lastOpenFiles": [
+    "wiki/facts/new-zealand/Picking Up the Pace.md",
+    "wiki/concepts/comparative-education/Recontextualization.md",
+    "wiki/facts/germany/SINUS.md",
     "wiki/arguments/journal-articles/New Zealand Journal of Educational Studies/Argument_Snook_2009_NZJES.md",
     "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md",
     "wiki/concepts/instruction-pedagogy/Visible Learning.md",
@@ -347,9 +350,6 @@
     "wiki/concepts/educational-philosophy/Deschooling.md",
     "wiki/facts/new-zealand/Visible Learning Branding and Global Influences.md",
     "wiki/facts/new-zealand/Visible Learning Meta-X.md",
-    "wiki/arguments/journal-articles/Economic and Social Changes Facts, Trends, Forecast/Argument_Golovchin_2019_ESC.md",
-    "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Garcia_Garrido_2009_SpainEU.md",
-    "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Castro_2009_MultilateralBanks.md",
-    "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Beech_2009_GlobalGarden.md"
+    "wiki/arguments/journal-articles/Economic and Social Changes Facts, Trends, Forecast/Argument_Golovchin_2019_ESC.md"
   ]
 }

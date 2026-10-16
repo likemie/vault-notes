@@ -31142,7 +31142,8 @@
     "path": "wiki/facts/new-zealand/The Scott Report.md",
     "aliases": [
       "The Scott Report 1986",
-      "斯科特报告"
+      "斯科特报告",
+      "Report on the Enquiry into the Quality of Teaching"
     ]
   },
   {
@@ -31175,6 +31176,17 @@
       "毛利与太平洋岛民教育倡议",
       "MPEI",
       "Foundation North MPEI"
+    ]
+  },
+  {
+    "title": "Picking Up the Pace",
+    "type": "fact",
+    "path": "wiki/facts/new-zealand/Picking Up the Pace.md",
+    "aliases": [
+      "加快步伐项目",
+      "PACE 项目",
+      "PACE Project",
+      "Picking up the Pace Project"
     ]
   },
   {
