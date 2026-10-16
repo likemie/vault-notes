@@ -55,6 +55,7 @@ related_facts:
   - "[[Sutton Trust]]"
   - "[[Evidence for Learning]]"
   - "[[Social Ventures Australia]]"
+  - "[[CORE Education]]"
 related_arguments:
   - "[[Argument_Rowe_2022_IJER]]"
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
@@ -104,7 +105,7 @@ updated: 2026-10-16
 > - **2021 — *Education Recovery Plan: 15-Billion Blueprint*** 提出后疫情时代系统性修复教育不平等的综合干预方案，强调单靠零星市场化补习券无法解决结构性学业滞后，必须依托专业教师队伍、延长[[Effective Teaching\|有效教学]]时间与高强度辅导。
 
 > [!claim] 核心政策哲学与中介治理主张
-> 科林斯的核心教育政策哲学可概括为“以实证证据武装教师专业裁量权，以独立中介破除行政意识形态”。他坚信教育改革长期饱受政客党派偏见的反复折腾，而破局的关键在于构建独立于政府科层、但具备法定权威的第三方证据中介；通过大规模开展基于严格[[Counterfactual\|反事实]]推断的[[Randomised Controlled Trials\|随机对照试验]]（RCT），将复杂的因果结论提炼为教师一目了然的“进展月份数”（[[Months of Progress]]）与成本量规，使每一分教育拨款都能精准投向经过检验的有效教学实践（Collins, 2018；[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 12–14]]）。
+> 科林斯的[[CORE Education|核心教育]]政策哲学可概括为“以实证证据武装教师专业裁量权，以独立中介破除行政意识形态”。他坚信教育改革长期饱受政客党派偏见的反复折腾，而破局的关键在于构建独立于政府科层、但具备法定权威的第三方证据中介；通过大规模开展基于严格[[Counterfactual\|反事实]]推断的[[Randomised Controlled Trials\|随机对照试验]]（RCT），将复杂的因果结论提炼为教师一目了然的“进展月份数”（[[Months of Progress]]）与成本量规，使每一分教育拨款都能精准投向经过检验的有效教学实践（Collins, 2018；[[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald & Nevill, 2021, pp. 12–14]]）。
 
 > [!citation-card] 科林斯论跨国[[Evidence Ecosystem\|教育证据生态系统]]愿景
 > 优质证据应当属于全世界每一间教室。我们致力于打破国界壁垒，与全球伙伴共同构建一个透明、严谨且易于获取的证据生态系统；唯有将最高标准的科学实证转化为教师触手可及的[[Phronesis\|实践智慧]]，我们才能真正消除由贫困带来的[[Academic Achievement\|学业成就]]鸿沟。[[Argument_Rowe_2022_IJER\|Collins, 2018; 引自 Rowe, 2022, p. 8]]

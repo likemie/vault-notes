@@ -70,6 +70,7 @@ related_facts:
   - "[[World Bank]]"
   - "[[UNESCO]]"
   - "[[OECD]]"
+  - "[[CORE Education]]"
   - "[[Comparative Education Center at Chicago 1958]]"
 related_arguments:
   - "[[Argument_Rust_2009_Reflections]]"
@@ -145,7 +146,7 @@ updated: 2026-10-16
 > [!indicators]- 影响力维度与指标
 > - **资源与网络规模** 拥有逾三千名注册专业会员，覆盖全球超百个主权国家；年均汇聚数千篇国际学术论文评审与宣读。
 > - **学术与[[Knowledge Production|知识生产]]** 会刊 CER 的总被引量与影响因子长期稳居[[International Education|国际教育]]学科前列，构成了衡量比较教育学理论[[Paradigm|范式]]演进与方法论创新的世界风向标。
-> - **政策与制度渗透** 学会历任骨干学者深度参与[[World Bank|世界银行]]、[[UNESCO|联合国教科文组织]]、[[OECD|经合组织]]（[[OECD]]）与美国国际开发署的核心教育援助决策，直接塑造了全球教育[[Policy Borrowing|政策借用]]与技术治理的模型库。
+> - **政策与制度渗透** 学会历任骨干学者深度参与[[World Bank|世界银行]]、[[UNESCO|联合国教科文组织]]、[[OECD|经合组织]]（[[OECD]]）与美国国际开发署的[[CORE Education|核心教育]]援助决策，直接塑造了全球教育[[Policy Borrowing|政策借用]]与技术治理的模型库。
 
 > [!finding-cards] 关键成效与辐射影响
 > - **[[Disciplinary Institutionalization|学科建制化]]确立** 终结了 19 世纪零星的个人游记与业余行政考察，将比较教育建构为具有专业学会、核心刊物、博士梯队与同行评议规程的完整现代社会科学学科。

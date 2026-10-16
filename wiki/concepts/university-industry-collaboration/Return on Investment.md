@@ -87,6 +87,7 @@ related_facts:
   - "[[World Bank]]"
   - "[[OECD]]"
   - "[[Social Ventures Australia]]"
+  - "[[Foundation North]]"
   - "[[UNESCO]]"
   - "[[Foundation North Māori and Pasifika Education Initiative]]"
   - "[[University Industry Demonstration Partnership]]"
@@ -158,7 +159,7 @@ updated: 2026-10-16
 > - **公共与私人投资回报的二元分殊与民主公共性剥离（Public vs Private ROI & Democratic Deficit）** [[Fazal Rizvi|法扎尔·里兹维]]（Fazal Rizvi）与[[Bob Lingard|鲍勃·林加德]]（Bob Lingard）指出，在新自由主义全球治理下，教育被重新定义为兼具公共与私人投资回报属性的混合商品：公共投资回报体现为提升[[Total Factor Productivity|全要素生产率]]与驱动国家经济[[Competitiveness|竞争力]]，私人投资回报体现为劳动者获取工资溢价与个人社会阶层流动。这一逻辑使教育系统的合法性完全系于其能否产生充分的投资回报（adequate return on investment），但彻底消解了民主意义上的公共善（public good in the democratic sense，如公民审议、社会正义与批判反思）。[[Argument_Rizvi_Lingard_2009_OECDEducationPolicy|(Rizvi & Lingard, 2009, pp. 449–450)]]
 > - **[[Social Impact Investing|社会投资]]回报的因果量规化（SROI Metricization）** [[Venture Philanthropy|风险慈善]]将商业尽职调查与计量经济学相结合，要求受助公立学校通过因果实验量规（如 [[Randomised Controlled Trials|RCT]]、干预效果等效月度）证明微额捐赠带来的附加价值，以量化指标作为后续拨款的先决条件。[[Argument_Rowe_2022_IJER|Rowe, 2022, pp. 3–4]]
 > - **社会投资模式与国家精算治理（Social Investment State & Actuarial Governance）** 新西兰国家党政府推行的“社会投资”（Social Investment）治理模式，将传统基于公民权利的公共普遍服务，转变为以大数据、精算模型和投资回报率（ROI）驱动的精准干预；要求公共支出必须通过降低长期国家财政成本（如减少未来司法监禁、救济金与医疗开支）证明其正当性，深刻改写了公共教育的福利国家属性。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 8, 16, 47)]]
-> - **永续信托投资回报滚存 vs 基层受助分配断裂（Perpetual Endowment Reinvestment vs Grant Allocation Gap）** 在风险慈善与巨型留本信托中，信托投资回报遵循资本市场的“永续资本保值增值”逻辑（Statement of Investment Policies and Objectives），往往将绝大多数投资回报重新滚存入金融市场；如新西兰最大的慈善信托 Foundation North（净资产 12.15 亿新西兰元，年均投资收益超 1 亿纽币），在 2010–2015 年间仅将投资回报的 23.3% 用于实际慈善资助，其余 76.7% 全部留存再投资，揭示了金融化投资回报增值目标与公立教育紧迫资助需求之间的结构性断裂。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. xiii, 14, 104)]]
+> - **永续信托投资回报滚存 vs 基层受助分配断裂（Perpetual Endowment Reinvestment vs Grant Allocation Gap）** 在风险慈善与巨型留本信托中，信托投资回报遵循资本市场的“永续资本保值增值”逻辑（Statement of Investment Policies and Objectives），往往将绝大多数投资回报重新滚存入金融市场；如新西兰最大的慈善信托 [[Foundation North]]（净资产 12.15 亿新西兰元，年均投资收益超 1 亿纽币），在 2010–2015 年间仅将投资回报的 23.3% 用于实际慈善资助，其余 76.7% 全部留存再投资，揭示了金融化投资回报增值目标与公立教育紧迫资助需求之间的结构性断裂。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. xiii, 14, 104)]]
 > - **[[Public-Private Partnership|公私伙伴关系]]（PPP）的“保证投资回报”（Guaranteed ROI in Public-Private Partnerships）** 在学校基础设施建设 PFI/PPP 模式中，国家通过长达 25 年的不可撤销服务合同、用户自费机制与财政对等补贴，向商业财团承诺“保证投资回报”（guaranteed return on investment），以公共财政风险兜底换取私营资本介入，造成教育财政支出被商业财团长期锁定。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 16–17, 134–135)]]
 > - **中间产出 vs 捕获价值（Outputs vs Captured Value）** 纯粹的技术报告、学术论文发表或会议人次属于中间产出，并不等同于真实回报；ROI 评估必须证明合作网络创造了各方可独立吸纳并转化为自身效能的捕获价值。[[Argument_OxfordUIDP_2019_UIPartnerships|(Oxford & UIDP, 2019, pp. 11–12)]]
 > - **[[Counterfactual\|反事实]]与影响额外性（Counterfactual & Additionality）** 评估必须回答“若没有该笔公共/慈善资金注入或跨界合作，既定变化是否依然会自然发生”；唯有超越反事实自然趋势线的增量效用，方能计入正向投资回报。[[Argument_OxfordUIDP_2019_UIPartnerships\|(Oxford & UIDP, 2019, pp. 23–24)]]
@@ -226,7 +227,7 @@ updated: 2026-10-16
 > **商业投资修辞对公共财政再分配的颠覆** 埃玛·罗威（Emma Rowe）揭示，在澳大利亚的异层政策网络中，以[[Social Ventures Australia|澳大利亚社会创投]]（SVA）为中枢的[[Venture Philanthropy|风险慈善]]资本将“提升社会投资回报（SROI）”确立为其核心正当性修辞。通过鼓吹“金钱是我们对话的通用货币”，SVA 等中介将传统的公共教育直接财政供给，偷换为要求“纳税人可负担能力限制”下的“社会投资”与“政府补贴”（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）。公立学校被迫为了维系生计而向免税中介乞求微额资助，并屈从于严苛的商业因果量规考核；与此同时，SVA 本身作为免税慈善机构，收到的政府直接财政补贴（2021 年达 121.6 万澳元）远超其对外资助净额（仅 62.5 万澳元，占比 51%），旗下高额咨询部门年入近千万澳元。投资回报话语实质上充当了企业资本享受税收减免、侵蚀公共民主审议并将公共财富导流向私营中介的意识形态掩体。[[Argument_Rowe_2023_ECNUROE|(Rowe, 2023, pp. 520, 524, 527–528)]]; [[Argument_Rowe_2022_IJER|(Rowe, 2022, pp. 3–6)]]
 >
 > [!claim] [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]]
-> **巨型慈善信托的投资回报资本积累与资助断裂** 奥尼尔等（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）揭示，新西兰风险慈善资本的运作生动展示了金融投资回报逻辑对公立教育的深层重构。新西兰最大的永久留本社区与风险慈善信托 Foundation North（净资产 12.15 亿纽币），在 2010–2015 年间累计实现投资收益 6.32 亿纽币（年均 1.05 亿纽币）；然而在信托“永续增值”目标的规约下，年均对外资助总额仅 2460 万纽币，实际对外捐赠仅占投资收益的 **23.3%**，高达 76.7% 的收益被重新留存滚存投资。与此同时，基金会针对毛利与太平洋岛裔教育倡议（[[Foundation North Māori and Pasifika Education Initiative|MPEI]]）专项委托 Kinnect Group 完成的“投资价值评估”（Value for Investment Evaluation）深度引入经济投资回报（EROI）与社会投资回报（SROI）模型，试图以量化回报向中央政府提供改革“概念验证”（[[Proof of Concept Programs|proof of concept]]），实质将原本基于条约正义与公平供给的公立少数族裔教育，改组为由商业风投机构进行因果干预与准市场试点的试验场。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. xiii, 14, 104, 107)]]
+> **巨型慈善信托的投资回报资本积累与资助断裂** 奥尼尔等（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）揭示，新西兰风险慈善资本的运作生动展示了金融投资回报逻辑对公立教育的深层重构。新西兰最大的永久留本社区与风险慈善信托 [[Foundation North]]（净资产 12.15 亿纽币），在 2010–2015 年间累计实现投资收益 6.32 亿纽币（年均 1.05 亿纽币）；然而在信托“永续增值”目标的规约下，年均对外资助总额仅 2460 万纽币，实际对外捐赠仅占投资收益的 **23.3%**，高达 76.7% 的收益被重新留存滚存投资。与此同时，基金会针对毛利与太平洋岛裔教育倡议（[[Foundation North Māori and Pasifika Education Initiative|MPEI]]）专项委托 Kinnect Group 完成的“投资价值评估”（Value for Investment Evaluation）深度引入经济投资回报（EROI）与社会投资回报（SROI）模型，试图以量化回报向中央政府提供改革“概念验证”（[[Proof of Concept Programs|proof of concept]]），实质将原本基于条约正义与公平供给的公立少数族裔教育，改组为由商业风投机构进行因果干预与准市场试点的试验场。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. xiii, 14, 104, 107)]]
 
 ---
 
@@ -322,7 +323,7 @@ updated: 2026-10-16
 > - **1,120 项估算** 跨越 60 年教育投资回报文献收录的独立收益率测算指标条目数。
 > - **约 9%–10%** 全球劳动力市场平均[[Educational Level\|受教育年限]]的私人收益率基准值（每增加一年教育预期增收约 9%）。
 > - **121.6 万澳元 vs 62.5 万澳元** [[Social Ventures Australia\|SVA]] 依据 SROI [[Discourse|话语]]在 2021 年吸纳的直接政府财政补贴与对外发放赠款净额对比，资助仅占政府拨款的 51%。[[Argument_Rowe_2023_ECNUROE\|(Rowe, 2023, p. 527)]]
-> - **23.3% vs 76.7%** 新西兰最大永久留本慈善信托 Foundation North（净资产 12.15 亿纽币）在 2010–2015 年间年均对外资助总额仅占其年投资收益的 23.3%，其余 76.7% 均留存滚动再投资。[[Argument_ONeill_2016_Report\|(O'Neill et al., 2016, p. xiii)]]
+> - **23.3% vs 76.7%** 新西兰最大永久留本慈善信托 [[Foundation North]]（净资产 12.15 亿纽币）在 2010–2015 年间年均对外资助总额仅占其年投资收益的 23.3%，其余 76.7% 均留存滚动再投资。[[Argument_ONeill_2016_Report\|(O'Neill et al., 2016, p. xiii)]]
 > - **2000 万纽币** Foundation North 设立毛利与太平洋岛裔教育倡议（[[Foundation North Māori and Pasifika Education Initiative|MPEI]]）专项并开展 EROI 与 SROI 评估的战略总投入。[[Argument_ONeill_2016_Report\|(O'Neill et al., 2016, pp. 106–107)]]
 
 > [!ref-table]- 跨尺度投资回报实证结果对照

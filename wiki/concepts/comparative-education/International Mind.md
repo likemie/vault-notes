@@ -32,6 +32,7 @@ related_methods:
 related_persons:
   - "[[Joseph Lauwerys]]"
 related_facts:
+  - "[[CORE Education]]"
   - "[[UNESCO]]"
   - "[[Comparative Education Society in Europe]]"
 related_arguments:
@@ -49,7 +50,7 @@ updated: 2026-10-15
 ## 定义
 
 > [!def] 核心定义
-> **国际心智（International Mind）** 是指两次世界大战之间（Interwar period）由国际联盟（League of Nations）知识合作组织（ICIC/IIIC）推动的核心教育观念。国际知识合作研究所首任副主任阿尔弗雷德·齐默恩（Alfred Zimmern）将其定义为：世界各国人民中间一种比狭隘民族主义心态更适合开展跨国合作的普遍心态。这一概念构成了理性主义比较教育传统的认知基石，旨在通过教育的科学化重构来超越地缘冲突与国家沙文主义。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 424]])
+> **国际心智（International Mind）** 是指两次世界大战之间（Interwar period）由国际联盟（League of Nations）知识合作组织（ICIC/IIIC）推动的[[CORE Education|核心教育]]观念。国际知识合作研究所首任副主任阿尔弗雷德·齐默恩（Alfred Zimmern）将其定义为：世界各国人民中间一种比狭隘民族主义心态更适合开展跨国合作的普遍心态。这一概念构成了理性主义比较教育传统的认知基石，旨在通过教育的科学化重构来超越地缘冲突与国家沙文主义。([[Argument_Klerides_2023_CE\|Klerides, 2023, p. 424]])
 
 > [!concept-lens] 概念透镜
 > - **指向关系** 它代表了一种超越本国中心主义（ethnocentrism）的心理认知状态，强调在承认民族国家主权的前提下，通过消除教科书偏见和增进学者跨国流动，形塑具有包容性和客观性的国际主义主体意识。

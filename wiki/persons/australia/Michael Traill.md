@@ -46,6 +46,7 @@ related_facts:
   - "[[Australian Schools Plus]]"
   - "[[Evidence for Learning]]"
   - "[[Australian Education Research Organisation]]"
+  - "[[CORE Education]]"
 related_arguments:
   - "[[Argument_Rowe_2023_ECNUROE]]"
 confidence: high
@@ -114,7 +115,7 @@ updated: 2026-10-15
 ## 争议与评价
 
 > [!warning] 学术批判与争议
-> - **民主问责的制度性[[Epoché\|悬置]]** [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] 指出，特雷尔作为非民选的商业精英，凭借与总理办公室高层的非公开人际网络直接介入国家核心教育立法，其主导的项目在竞标期间获得 1500 万澳元保密政府资助且免于公开披露，严重架空了民主代议制下的公共审议与选民监督（pp. 526–527）。
+> - **民主问责的制度性[[Epoché\|悬置]]** [[Argument_Rowe_2023_ECNUROE\|Rowe (2023)]] 指出，特雷尔作为非民选的商业精英，凭借与总理办公室高层的非公开人际网络直接介入国家[[CORE Education|核心教育]]立法，其主导的项目在竞标期间获得 1500 万澳元保密政府资助且免于公开披露，严重架空了民主代议制下的公共审议与选民监督（pp. 526–527）。
 > - **公共财富逆向输送与商业附庸化** 批判学者指出，特雷尔模式表面上动员了民间资本，实质上通过 [[Deductible Gift Recipient\|DGR1]] 减税特权使富裕阶层获得高额避税，同时使接受其赠款的弱势公立学校被迫屈从企业量规，剥夺了基层教育者的专业自主权（pp. 527–528）。
 
 ---

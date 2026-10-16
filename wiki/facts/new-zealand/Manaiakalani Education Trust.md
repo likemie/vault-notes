@@ -42,6 +42,7 @@ related_persons:
   - "[[John O'Neill]]"
 related_facts:
   - "[[NEXT Foundation]]"
+  - "[[Foundation North]]"
   - "[[Foundation North Māori and Pasifika Education Initiative]]"
   - "[[Cognition Education]]"
   - "[[The Education Trust]]"
@@ -85,7 +86,7 @@ updated: 2026-10-16
 >   从公立教育系统的从属试点脱钩，注册设立独立慈善信托，确立了跨界政商人士主导的治理结构，并开始承接大型区域慈善基金。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 27, 106)]]
 >
 >   - **2011 年** 马奈卡拉尼教育信托（Manaiakalani Education Trust）正式注册成立，确立四名教育者与四名非教育者受托人的混合治理架构，商界领袖帕特·斯内登（Pat Snedden）出任董事会主席。
->   - **2012 年** 获得 ASB 社区信托（ASB Community Trust，后更名为北部基金会 Foundation North）[[Foundation North Māori and Pasifika Education Initiative|毛利与太平洋岛民教育倡议]]（MPEI）第二阶段大额资助，同时吸纳新西兰电信巨头旗下的斯帕克基金会（Spark Foundation）作为创始赞助方。
+>   - **2012 年** 获得 [[Foundation North|ASB 社区信托]]（ASB Community Trust，后更名为北部基金会 Foundation North）[[Foundation North Māori and Pasifika Education Initiative|毛利与太平洋岛民教育倡议]]（MPEI）第二阶段大额资助，同时吸纳新西兰电信巨头旗下的斯帕克基金会（Spark Foundation）作为创始赞助方。
 >
 > - **2015 年至今** **[[Venture Philanthropy|风险慈善]]赋能与全国网络化扩张**
 >
@@ -100,7 +101,7 @@ updated: 2026-10-16
 
 > [!actor-grid] 组织治理架构
 > - **决策机构（混合受托人理事会）** 治理最高机构由四名一线学校教育工作者受托人与四名非教育界资深人士受托人组成。理事会由时任奥克兰港口总监、资深企业董事帕特·斯内登（Pat Snedden）执掌，其同时在多家政府实体、住房开发信托与跨界[[Policy Network|政策网络]]中任职，体现了高度致密的政商学交叉治理网络。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 27, 76)]]
-> - **资助同盟（[[Venture Philanthropy|风险慈善]]与跨国巨头）** 形成了由北部基金会（Foundation North）、[[NEXT Foundation|内克斯特基金会]]（NEXT Foundation）两大战略型慈善财团，联合电信运营商（Spark）、硬件跨国企业（Samsung）构成的资助联盟，通过高参与度慈善投资（High-Engagement Philanthropy）直接介入项目战略设计。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 27, 108)]]
+> - **资助同盟（[[Venture Philanthropy|风险慈善]]与跨国巨头）** 形成了由北部基金会（[[Foundation North]]）、[[NEXT Foundation|内克斯特基金会]]（NEXT Foundation）两大战略型慈善财团，联合电信运营商（Spark）、硬件跨国企业（Samsung）构成的资助联盟，通过高参与度慈善投资（High-Engagement Philanthropy）直接介入项目战略设计。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 27, 108)]]
 > - **协作研发与中介网络** 与奥克兰大学教育学院等学术智库合作开展效果评估，并同[[Cognition Education|认知教育]]（Cognition Education）等商业教育服务中介维持密切业务往来，形成教师数字教学能力培养与认证链条。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 89)]]
 
 > [!pathways] 业务运行机制

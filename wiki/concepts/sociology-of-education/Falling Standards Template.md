@@ -43,6 +43,7 @@ related_facts:
   - "[[TIMSS]]"
   - "[[OECD]]"
   - "[[Ofsted]]"
+  - "[[CORE Education]]"
 related_arguments:
   - "[[Argument_Grey_2018_CE]]"
 confidence: high
@@ -168,7 +169,7 @@ updated: 2026-10-16
 > | [[Policy Avoidance]] | Concept | 与水平下降模板形成镜像：媒体热衷套用模板炒作危机，却对实质政策方案采取规避。 |
 > | [[Mediatised Governance]] | Concept | 水平下降模板被政治行动者深度利用后催生的现代教育媒介化治理形态。 |
 > | [[Rashomon Effect]] | Concept | 解释在水平下降模板干扰下，同一组平稳数据为何被建构为多重不可调和的主观真实。 |
-> | [[Academic Achievement]] | Concept | 水平下降模板所声称测量、批评与裁决的核心教育实体对象。 |
+> | [[Academic Achievement]] | Concept | 水平下降模板所声称测量、批评与裁决的[[CORE Education\|核心教育]]实体对象。 |
 > | [[PISA]] | Fact (Program) | 沦为水平下降模板最常借用的跨国排列表与宏观危机修辞依据。 |
 > | [[OECD]] | Fact (Organization) | 其制作的极简排列表与价值倡导报告为媒体套用水平下降模板提供了便利燃料。 |
 > | [[Paul Morris]] | Person | 系统揭示英格兰媒体如何利用水平下降模板扭曲跨国教育评估的核心比较教育学者。 |

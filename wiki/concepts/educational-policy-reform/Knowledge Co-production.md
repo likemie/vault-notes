@@ -51,6 +51,7 @@ related_methods:
   - "[[Qualitative Research]]"
   - "[[Correlational Research]]"
 related_facts:
+  - "[[CORE Education]]"
   - "[[OECD]]"
   - "[[General Teaching Council for Scotland]]"
   - "[[Institute for Educational Monitoring and Quality Improvement]]"
@@ -105,7 +106,7 @@ updated: 2026-10-16
 ## 核心要素
 
 > [!feature] 核心要素
-> - **议题共同界定权** 实践者与研究者在初期共同确立核心教育关切与痛点，严禁学者单方强加理论议程。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, p. 90)]]
+> - **议题共同界定权** 实践者与研究者在初期共同确立[[CORE Education|核心教育]]关切与痛点，严禁学者单方强加理论议程。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, p. 90)]]
 > - **全周期实质介入** 跨界团队协同参与方案设计、过程监测、数据[[Decodification\|解码]]与结论提炼，破除阶段性隔离。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 90–91)]]
 > - **双向制度化激励** 同时为学术人员（认可社会影响力与实践转化）与一线教师（提供时间编制、考评晋升与薪资补贴）建立配套激励体制。[[Argument_Hill_2022_FacilitatingActors\|(Hill, 2022, pp. 90–92)]]
 > - **跨界专长互补** 将外部研究者的方法论规范与技术客观性（[[Interactional Expertise\|交互型专长]]）与一线教育者的情境化受训判断力（[[Contributory Expertise\|贡献型专长]]）有机结合。[[Argument_Kelly_2025_ROE\|(Kelly et al., 2025, pp. 7–8, 23–24)]]

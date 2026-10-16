@@ -166,6 +166,7 @@ related_methods:
   - "[[Multiple-Choice Questions]]"
   - "[[Accounts]]"
 related_facts:
+  - "[[CORE Education]]"
   - "[[Parliamentary Office of Science and Technology]]"
   - "[[ResearchED]]"
 sources:
@@ -722,7 +723,7 @@ Matsumoto and Yoo (2006) 识别了跨文化研究的四个阶段（pp.179–180�
 > 在实践中，两者并非互斥——研究者可以先进行先导民族志研究以确定**对参与者相关、重要和有意义**的范畴、项目和变量，然后将这些转化为[[Scale of Measurement\|测量量表]]进行进一步调查。
 
 > [!example] Brock-Utne 的谜语案例：Etic 误读的代价
-> 在一个非洲社会中，局外侨民研究者将当地谜语（riddles）解释为**娱乐和消遣**，而本地人则将它们视为重要的**教学和教育工具**以及认知发展的促进者。同一文化实践——在 Etic 框架下被归为"休闲活动"，在 Emic 框架下却是核心教育机制。这一案例精确地说明了：**谁的定义框架在运作**，决定了研究者"看见"的是什么现象（Brock-Utne, 1996, pp. 610–12）。
+> 在一个非洲社会中，局外侨民研究者将当地谜语（riddles）解释为**娱乐和消遣**，而本地人则将它们视为重要的**教学和教育工具**以及认知发展的促进者。同一文化实践——在 Etic 框架下被归为"休闲活动"，在 Emic 框架下却是[[CORE Education|核心教育]]机制。这一案例精确地说明了：**谁的定义框架在运作**，决定了研究者"看见"的是什么现象（Brock-Utne, 1996, pp. 610–12）。
 
 ---
 

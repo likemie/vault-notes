@@ -34,6 +34,7 @@ related_instruments: []
 related_persons: []
 related_facts:
   - "[[NEXT Foundation]]"
+  - "[[CORE Education]]"
   - "[[Teach First New Zealand]]"
   - "[[New Zealand Initiative]]"
 related_arguments:
@@ -148,7 +149,7 @@ updated: 2026-10-16
 >
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[School Leadership]] | Concept | 该信托致力于通过商业模型重塑的核心教育领域。 |
+> | [[School Leadership]] | Concept | 该信托致力于通过商业模型重塑的[[CORE Education\|核心教育]]领域。 |
 > | [[Venture Philanthropy]] | Concept | 支持该信托运行的外部风险慈善模式。 |
 > | [[New Managerialism]] | Concept | 信托推行的商业化管理主义与校长能力重塑取向。 |
 > | [[NEXT Foundation]] | Fact (Organization) | 为该信托提供全额战略注资的超级风险慈善母体。 |

@@ -61,6 +61,7 @@ related_persons:
   - "[[John O'Neill]]"
 related_facts:
   - "[[Cognition Education]]"
+  - "[[CORE Education]]"
   - "[[Education International]]"
   - "[[World Bank]]"
   - "[[International Monetary Fund]]"
@@ -185,7 +186,7 @@ updated: 2026-10-16
 > 揭示外生私有化不仅停留在教学设施或外围软件的技术外包，更演变为私营资本与非民选精英网络直接俘获国家立法与政策设计权。
 
 > [!claim] O'Neill, J. et al.
-> **政策制定权的隐性私有化与民主代议制架空** [[John O'Neill|约翰·奥尼尔]]等（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）指出，鲍尔与尤德尔提出的外生私有化范畴在当代治理实践中发生了质的演变。在新西兰，外生私有化已超越最初的学校后勤、基础设施建设（[[Public-Private Partnership|PPP]]）以及教师在职培训采购，进一步延伸为“教育政策制定权本身的私有化（Privatisation of Education Policy-Making）”。由跨国出版集团、本土私营[[Educational Management Organisation|教育管理组织]]（如 [[Cognition Education]]）、对冲基金以及[[Venture Philanthropy|风险慈善]]信托构成的跨界治理联盟，凭借与中央教育官僚的旋转门兼任纽带，直接介入了国家核心教育法案的制定过程（例如在《2013年教育修正法案》中为特许学校创设法定通道，在《2015年教育立法法案》中推行跨校企业化管理）。这种政策制定权的外部转包在民主程序之外隐秘进行，使公共教育的法定受托责任被彻底抽空，蜕变为少数私营政策创业者量身定制的商业特许游乐场（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 4–6, 20–23, 49–54]]）。
+> **政策制定权的隐性私有化与民主代议制架空** [[John O'Neill|约翰·奥尼尔]]等（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）指出，鲍尔与尤德尔提出的外生私有化范畴在当代治理实践中发生了质的演变。在新西兰，外生私有化已超越最初的学校后勤、基础设施建设（[[Public-Private Partnership|PPP]]）以及教师在职培训采购，进一步延伸为“教育政策制定权本身的私有化（Privatisation of Education Policy-Making）”。由跨国出版集团、本土私营[[Educational Management Organisation|教育管理组织]]（如 [[Cognition Education]]）、对冲基金以及[[Venture Philanthropy|风险慈善]]信托构成的跨界治理联盟，凭借与中央教育官僚的旋转门兼任纽带，直接介入了国家[[CORE Education|核心教育]]法案的制定过程（例如在《2013年教育修正法案》中为特许学校创设法定通道，在《2015年教育立法法案》中推行跨校企业化管理）。这种政策制定权的外部转包在民主程序之外隐秘进行，使公共教育的法定受托责任被彻底抽空，蜕变为少数私营政策创业者量身定制的商业特许游乐场（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 4–6, 20–23, 49–54]]）。
 
 ---
 

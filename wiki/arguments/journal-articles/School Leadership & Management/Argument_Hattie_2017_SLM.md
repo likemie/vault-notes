@@ -38,7 +38,8 @@ related_theories: []
 related_methods:
   - "[[Meta-meta-analysis]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[CORE Education]]"
 related_arguments:
   - "[[Argument_Eacott_2017_SLM]]"
   - "[[Argument_Snook_2009_NZJES]]"
@@ -93,7 +94,7 @@ citation_aliases:
 > - 将 [[Argument_Snook_2009_NZJES|Snook et al.(2009)]]的批评用作自身课程的教学文本，以此论证自己欢迎批评
 > - 声称 VL 的核心猜想——通过学生眼睛看学习、学生成为自身教师、[[Success Criteria\|成功标准]]、Know thy impact、信任关系、反馈、学习策略、邀请性学校——"so far no critique (that I know about)" 证伪了这些猜想
 > - 指出 Hattie, Masters and Birch(2016)已共同撰写了关于 VL 实施效果的案例书(p.427–428)
-> - 将 Eacott 的批评定性为忽视了 VL 的核心教育思想，仅关注管理主义、研究方法和"不加批判接受的指令"
+> - 将 Eacott 的批评定性为忽视了 VL 的[[CORE Education|核心教育]]思想，仅关注管理主义、研究方法和"不加批判接受的指令"
 > - 回应末尾宣称"教育者不是不加批判的[[Cult of the Guru\|大师崇拜]]信徒"，以教师和[[School Leadership\|学校领导]]的[[Phronesis\|实践智慧]]为最终检验标准(p.430)
 
 ## 关键引用

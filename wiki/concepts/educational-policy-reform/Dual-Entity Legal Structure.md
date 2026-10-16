@@ -33,6 +33,7 @@ related_persons:
   - "[[John O'Neill]]"
 related_facts:
   - "[[Cognition Education]]"
+  - "[[CORE Education]]"
 related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 status: active
@@ -144,7 +145,7 @@ updated: 2026-10-16
 > [!dev-timeline] 概念演变
 > - **1957 年 — 新西兰《慈善信托法》颁布** 确立了慈善信托作为独立法人团体的合法地位，为民间社会力量参与教育救济提供法律框架。
 > - **2005 年 — 新西兰《慈善法》改革** 设立慈善服务局（Charities Services），允许慈善信托设立全资子公司参与商业竞标，但未对关联交易与最低支出率做出硬性限制。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 47–48)]]
-> - **2008–2015 年 — 双层法人 [[Educational Management Organisation|EMO]] 规模极速扩张** 科[[Cognition Education|认知教育]]（Cognition）与核心教育（CORE）通过双层架构承揽上千万元国家教育部合同，累积数千万元免税留存资产。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 88–103)]]
+> - **2008–2015 年 — 双层法人 [[Educational Management Organisation|EMO]] 规模极速扩张** 科[[Cognition Education|认知教育]]（Cognition）与[[CORE Education|核心教育]]（CORE）通过双层架构承揽上千万元国家教育部合同，累积数千万元免税留存资产。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 88–103)]]
 > - **2016 年 — 批判政策社会学实证解构** [[John O'Neill|约翰·奥尼尔]]等学者在全国调研中首次在法理与实质经济学层面揭穿双层法人架构的资本净汲取本质。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 18, 134–136)]]
 
 ---

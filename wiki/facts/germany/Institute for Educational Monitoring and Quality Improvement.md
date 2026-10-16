@@ -55,6 +55,7 @@ related_facts:
   - "[[Gesamtstrategie zum Bildungsmonitoring]]"
   - "[[Vergleichsarbeiten]]"
   - "[[Ofsted]]"
+  - "[[CORE Education]]"
   - "[[Education Endowment Foundation]]"
 related_arguments:
   - "[[Argument_Hartong_Forschler_2019_BDS]]"
@@ -172,7 +173,7 @@ updated: 2026-10-16
 > 
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
-> | [[Data Infrastructure]] | Concept | IfBQ 建设的测评数据库、社会指数与仪表盘构成了汉堡州核心教育数据基础设施。 |
+> | [[Data Infrastructure]] | Concept | IfBQ 建设的测评数据库、社会指数与仪表盘构成了汉堡州[[CORE Education\|核心教育]]数据基础设施。 |
 > | [[School Inspection]] | Concept | IfBQ 为汉堡外部督学团队提供客观量化数据支持与目标协议达成磋商基准。 |
 > | [[Commensuration]] | Concept | IfBQ 通过算法将复杂的学生家庭背景与[[Academic Achievement\|学业成绩]]转化为 1–6 级社会指数与统计基准。 |
 > | [[Performance Indicators]] | Concept | IfBQ 研发的 SchÜb 仪表盘高度集成了全州统一的关键绩效指标。 |

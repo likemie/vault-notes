@@ -107,6 +107,7 @@ related_facts:
   - "[[Centre for Educational Research and Innovation]]"
   - "[[Programme on Educational Building]]"
   - "[[Institutional Management in Higher Education]]"
+  - "[[CORE Education]]"
   - "[[Economics of Education Movement]]"
   - "[[Research in Schools Evaluation]]"
 related_arguments: []
@@ -219,7 +220,7 @@ updated: 2026-10-16
 > - **教育建筑项目（[[Programme on Educational Building|PEB]]）** 专门研究学校物理设施、校舍空间规划与教育硬件建设的技术标准与资源分配。
 > - **高等教育机构管理项目（[[Institutional Management in Higher Education|IMHE]]）** 聚焦大学及高等教育机构的内部治理、资源调配与学术管理制度建设。
 
-在四大业务支柱支撑下，经合组织针对各成员国的多元诉求展开了广泛研究，系统覆盖了17–18个核心教育细分领域。（p. 439）
+在四大业务支柱支撑下，经合组织针对各成员国的多元诉求展开了广泛研究，系统覆盖了17–18个[[CORE Education|核心教育]]细分领域。（p. 439）
 
 > [!feature] 帕帕多普洛斯时代涵盖的核心教育细分领域（原文列举18项项目清单）
 > 原文（p. 439）系统罗列了经合组织在 1970–1980 年代由教育委员会与 CERI 资助研究的代表性项目领域：
@@ -486,7 +487,7 @@ PISA除了测试核心认知能力外，还通过庞大的[[Questionnaire|问卷
 > [!stat-cards]- 核心数据
 > - **30** 经合组织截至20世纪末的正式发达成员国数量，产出了全球约三分之二的商品与服务。（p. 438）
 > - **1961 / 1968 / 2002** 经合组织正式成立、设立[[Centre for Educational Research and Innovation|教育研究与创新中心]]（CERI），以及最终突破阻力正式设立独立教育司（Directorate for Education）的历史年份。（pp. 438, 439, 441）
-> - **17–18** 帕帕多普洛斯时代经合组织在教育委员会与CERI支持下开展的核心教育项目细分领域数量（原文罗列18项代表性项目清单）。（p. 439）
+> - **17–18** 帕帕多普洛斯时代经合组织在教育委员会与CERI支持下开展的[[CORE Education|核心教育]]项目细分领域数量（原文罗列18项代表性项目清单）。（p. 439）
 > - **3 / 15** PISA测评推行的周期频率（每 3 年一次）与其锁定的核心施测对象年龄阶段（义务教育即将结束的 15 岁学童）。
 > - **2000** 首届PISA测评正式实施并发布结果的基准年份，因德国成绩意外垫底引发了著名的全国教育恐慌。（p. 447）
 

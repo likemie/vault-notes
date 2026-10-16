@@ -40,6 +40,7 @@ related_facts:
   - "[[Teach First New Zealand]]"
   - "[[Cognition Education]]"
   - "[[New Zealand Initiative]]"
+  - "[[Foundation North]]"
   - "[[Manaiakalani Education Trust]]"
   - "[[Foundation North Māori and Pasifika Education Initiative]]"
 related_arguments:
@@ -142,7 +143,7 @@ updated: 2026-10-16
 > > - **机构立场（正方）** 传统公立官僚体系效率低下且墨守成规，风险慈善以企业效率和严格评估推动系统创新，为弱势群体提供了原本无法获取的优质教育资源。
 
 > [!citation-card] 代表性批评与反思文献
-> 与北方基金会追求资本长存的传统模式相对照，新西兰战略风险慈善生态中还[[Emergence|涌现]]出采取‘十年散尽本金’激进策略的内克斯特基金会（NEXT Foundation）……其董事会汇聚了前微软 CFO、风投创始人与投行家，将私营企业高管派驻薄弱学校，标志着金融化管理逻辑对公立学校内部治理的深度介入。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 36–38, 54–55)]]
+> 与[[Foundation North|北方基金会]]追求资本长存的传统模式相对照，新西兰战略风险慈善生态中还[[Emergence|涌现]]出采取‘十年散尽本金’激进策略的内克斯特基金会（NEXT Foundation）……其董事会汇聚了前微软 CFO、风投创始人与投行家，将私营企业高管派驻薄弱学校，标志着金融化管理逻辑对公立学校内部治理的深度介入。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 36–38, 54–55)]]
 >
 > *NEXT combines corporate and community based charitable trusts with diverse objectives, creating opportunities for the private sector to significantly influence education policy and services delivery in the public sector... mobile and fluid across charitable, local government and NGO entities.*
 

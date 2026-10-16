@@ -155,6 +155,7 @@ related_facts:
   - "[[Universal Parallel Computing Research Centers]]"
   - "[[What Works Clearinghouse]]"
   - "[[Taiwan Semiconductor Manufacturing Corporation]]"
+  - "[[CORE Education]]"
   - "[[CHIPS and Science Act]]"
 related_arguments:
   - "[[Argument_Li_2026_CEAI]]"
@@ -526,7 +527,7 @@ updated: 2026-10-16
 > - **底层先进制程算力供应链脆弱性与地缘排他性** Bown 与 Wang（2024）指出，支持生成式人工智能模型训练与推理的尖端图形处理器（GPU）与高带宽内存（HBM）制造高度集中于东亚单一地缘热点（[[Taiwan Semiconductor Manufacturing Corporation|台积电]]控制全球 90% 以上先进制程产能）；在地缘政治博弈与出口管制割裂下，全球算力基础设施面临严重的供应链单点脆弱性与战略断链风险。[[Argument_Bown_2024_JEconPersp|(Bown & Wang, 2024, pp. 88–92, 98–101)]]
 
 > [!warning] 适用局限与实施边界
-> - **无法替代具身情境与实践经验** 实验室动手操作、真实[[Fieldwork\|田野调查]]、面对面同伴共情与人际伦理协商等核心教育体验，均无法被纯文本/多模态生成式算法替代。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, pp. 32–34)]]
+> - **无法替代具身情境与实践经验** 实验室动手操作、真实[[Fieldwork\|田野调查]]、面对面同伴共情与人际伦理协商等[[CORE Education|核心教育]]体验，均无法被纯文本/多模态生成式算法替代。[[Argument_RoyalSociety_2026_ScienceForSociety_Ch01\|(The Royal Society, 2026, pp. 32–34)]]
 > - **高度依赖领域先验知识与[[Self-Regulated Learning\|自我调节学习]]能力（SRL）** 只有当使用者具备学科基准图式与高水平[[Metacognition\|元认知监控]]时，才能有效驾驭生成式 AI 并识别模型幻觉；实证确证低 SRL 学习者在生成式技术环境下促学效应显著滑落（$g = 0.284$ vs 高 SRL $0.863, p < .001$），极易陷入算法盲从与深度推理放弃。[[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 12–13)]]
 > - **跨学科认识规范的[[Incommensurability\|不可通约性]]** 生成式模型基于统计平均与概率关联生成跨学科内容，往往掩盖不同学科独特的证据[[Justificatory Standards\|确证标准]]与方法论辩护规范（例如人文学科的诠释学深度 vs 实证科学的可重复性检验），不可将其统摄为单一同质的通用确证机器。[[Argument_Du_Yuan_2026_AIS\|(Du & Yuan, 2026, pp. 4, 6)]]
 > - **警惕长期脱敏与[[Fade-out Effect\|效应衰退]]（Fade-out Effect）** 干预时间并非越长越好，过长或过短均削弱成效：① **高校情境黄金周期** [[Argument_Chen_Cheung_2025_ERR\|Chen and Cheung (2025)]] 发现短期（$<4$ 周，$g^+ = 0.541$）未充分内化，长期（$>12$ 周，$g^+ = 0.350$）易发生脱敏疲劳，**4–12 周（$g^+ = 1.014$）** 为黄金窗口；② **[[Higher-Order Thinking Skills\|高阶思维]]综合倒 U 型验证** [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] 跨学段实证同样表明，8–16 周干预成效达到峰值（$g = 0.759$），而 $>16$ 周急剧下滑至 $g = 0.372$（$p = 0.011$），跨文献交叉证实长期介入若缺乏递进式任务挑战，极易诱发工具依赖与认识论摩擦耗散。[[Argument_Chen_Cheung_2025_ERR\|(Chen & Cheung, 2025, pp. 12, 17)]]; [[Argument_Zhao_2025_JIntell\|(Zhao et al., 2025, pp. 11–12)]]

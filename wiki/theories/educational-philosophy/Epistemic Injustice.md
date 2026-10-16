@@ -58,6 +58,8 @@ related_arguments:
   - "[[Argument_Smith_2026_SPE]]"
 related_persons:
   - "[[Miranda Fricker]]"
+related_facts:
+  - "[[CORE Education]]"
 confidence: high
 status: active
 created: 2026-09-21
@@ -126,7 +128,7 @@ updated: 2026-10-16
 >
 > **应用实例** 传统学校教科书长期以主流阶层文化为唯一叙事轴心，缺乏对少数族群生计智慧与地方性知识的概念化赋权，导致少数族群学生在面对主流考评标准时，无法用所学的学术[[Discourse|话语]]表达自身的本土生存经验。
 
-> [!theory-proposition] 命题三｜[[Formative Epistemic Injustice|成长性认识不正义]]将教育与技术安排剥夺求知者实践发展权确立为核心教育之恶
+> [!theory-proposition] 命题三｜[[Formative Epistemic Injustice|成长性认识不正义]]将教育与技术安排剥夺求知者实践发展权确立为[[CORE Education|核心教育]]之恶
 > **解释** [[Argument_Smith_2026_SPE\|Smith (2026)]] 结合 Martin (2018) 与 Nikolaidis (2021) 将弗里克的理论实质性推进至教育哲学与智能教育批判核心，提出[[Formative Epistemic Injustice|成长性认识不正义]]（Formative Epistemic Injustice）。该命题指出，教育的根本使命是求知者的塑造（Formation of Knowers）；生成式 AI 在教育中的实质并非扩大计算的计算器，而是替代主体实践技能的雇佣私厨。当教学指令促使学生将灵感生成、提纲线性化与反思修改外包给 AI 时，便构成了专门针对未成年学习者的成长性认识不正义，具体由三重判据构成：① 知识传递遭到中断或扣留；② 核心技能实践被剥夺或受阻；③ 引发信度自我认知的双向扭曲（[[Learned Helplessness|自加信度赤字]]与虚假信度通胀）。[[Argument_Smith_2026_SPE|(Smith, 2026, pp. 3–5)]]; [[Argument_Du_Yuan_2026_AIS|(Du & Yuan, 2026, p. 7)]]
 >
 > **应用实例** 写作教学中教师指导学生全盘使用大模型生成论文提纲和一键润色。学生看似产出了高质量论文，但大脑完全错失了将网状观念进行思想线性化重组的高阶认知练习（Piolat & Roussey, 1996），在脱离技术时陷入深度技术依赖与自我强加的信度赤字，丧失独立求知能力。[[Argument_Smith_2026_SPE|(Smith, 2026, pp. 7–9)]]

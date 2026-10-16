@@ -45,6 +45,7 @@ related_facts:
   - "[[Social Ventures Australia]]"
   - "[[Evidence for Learning]]"
   - "[[Australian Education Research Organisation]]"
+  - "[[Foundation North]]"
   - "[[Partnership Schools Kura Hourua]]"
   - "[[Teach First New Zealand]]"
   - "[[Education Endowment Foundation]]"
@@ -157,7 +158,7 @@ updated: 2026-10-16
 > 检视风险慈善基金会的财务运作实态，揭示留本投资优先于实际赠款所造成的公共资源扭曲。
 
 > [!claim] O'Neill et al.; Rowe, E.
-> **留本增值优先与公共财政倒流** 风险慈善机构以永续增值作为优先发展战略，造成其庞大的投资收益与紧迫的社会一线需求之间产生尖锐脱节。新西兰最大慈善信托 Foundation North 数据显示，其五年间投资总收入高达 6.32 亿纽币（年均超 1 亿），但年均资助分配额仅占其[[Return on Investment\|投资回报]]的 23.3%，绝大多数收益被截留用于金融再投资；澳大利亚 SVA 的经审计财务报告亦表明，其作为免税实体所吸纳的联邦与州政府直接财政补贴，甚至长期超过了其对外发放的竞争性资助总额，实质充当了大型跨国企业享受全额税收抵免的避税庇护所，造成公共财政资源逆向流向企业化咨询中介。[[Argument_ONeill_2016_Report\|(O'Neill et al., 2016, pp. xii–xiii)]]; [[Argument_Rowe_2022_IJER\|(Rowe, 2022, pp. 5–6)]]
+> **留本增值优先与公共财政倒流** 风险慈善机构以永续增值作为优先发展战略，造成其庞大的投资收益与紧迫的社会一线需求之间产生尖锐脱节。新西兰最大慈善信托 [[Foundation North]] 数据显示，其五年间投资总收入高达 6.32 亿纽币（年均超 1 亿），但年均资助分配额仅占其[[Return on Investment\|投资回报]]的 23.3%，绝大多数收益被截留用于金融再投资；澳大利亚 SVA 的经审计财务报告亦表明，其作为免税实体所吸纳的联邦与州政府直接财政补贴，甚至长期超过了其对外发放的竞争性资助总额，实质充当了大型跨国企业享受全额税收抵免的避税庇护所，造成公共财政资源逆向流向企业化咨询中介。[[Argument_ONeill_2016_Report\|(O'Neill et al., 2016, pp. xii–xiii)]]; [[Argument_Rowe_2022_IJER\|(Rowe, 2022, pp. 5–6)]]
 
 ---
 
@@ -251,6 +252,6 @@ updated: 2026-10-16
 ## 相关研究索引
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_ONeill_2016_Report|O'Neill et al., 2016]] — 揭示新西兰 Foundation North 与 [[NEXT Foundation|NEXT 基金会]]如何通过风险慈善重塑公立教育与特许学校生态。
+> - [[Argument_ONeill_2016_Report|O'Neill et al., 2016]] — 揭示新西兰 [[Foundation North]] 与 [[NEXT Foundation|NEXT 基金会]]如何通过风险慈善重塑公立教育与特许学校生态。
 > - [[Argument_Rowe_2022_IJER|Rowe, 2022]] — 剖析[[Social Ventures Australia|澳大利亚社会创投]]（SVA）如何借助免税庇护与政策游说推动国家证据中介 [[Australian Education Research Organisation|AERO]] 的制度化装配。
 > - [[Argument_Rowe_2023_ECNUROE|Rowe, 2023]] — 实证确证风险慈善构建[[Philanthrocapitalism|慈善资本主义]]异层再分配闭环，揭示税收庇护与公立学校附庸化机制。

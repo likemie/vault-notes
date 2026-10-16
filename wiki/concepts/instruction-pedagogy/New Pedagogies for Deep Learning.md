@@ -42,6 +42,7 @@ related_persons:
   - "[[Stephen Ball]]"
 related_facts:
   - "[[OECD]]"
+  - "[[CORE Education]]"
   - "[[The New Zealand Curriculum]]"
 related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
@@ -65,7 +66,7 @@ updated: 2026-10-16
 > - **边界** 不等于学习科学与认知心理学中关于知识深层理解的纯学术理论（如 Marton 与 Säljö 的深层加工理论），亦不适用于解释国家官方依法颁布的非商业性基础教育国家课程。
 
 > [!citation-card] 专有商标、跨国特许与公立学校集群的资金绑定
-> NPDL 通过其商标将自身界定为一个‘全球伙伴关系’，并宣称致力于通过识别促进深度学习能力的教学法来改变学习……为了在新西兰推行 NPDL，CORE Education 将新西兰的 7 所学校与澳大利亚维多利亚州的 80 所及塔斯马尼亚州的 20 所学校联合打包（NPDL 全球集群的最低门槛为 100 所学校），并自此在新西兰进一步扩张。参与学校被强制要求签订为期三年的承诺协议，每年需缴纳 2,000 美元参与全球倡议，外加 3,000 新西兰元以覆盖本地协调支持成本，同时还需承担人员外出的代课支出与建议 0.2 FTE 的领导协调职数。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 24–25, 42–43)]]
+> NPDL 通过其商标将自身界定为一个‘全球伙伴关系’，并宣称致力于通过识别促进深度学习能力的教学法来改变学习……为了在新西兰推行 NPDL，[[CORE Education]] 将新西兰的 7 所学校与澳大利亚维多利亚州的 80 所及塔斯马尼亚州的 20 所学校联合打包（NPDL 全球集群的最低门槛为 100 所学校），并自此在新西兰进一步扩张。参与学校被强制要求签订为期三年的承诺协议，每年需缴纳 2,000 美元参与全球倡议，外加 3,000 新西兰元以覆盖本地协调支持成本，同时还需承担人员外出的代课支出与建议 0.2 FTE 的领导协调职数。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 24–25, 42–43)]]
 >
 > *NPDL self-describes through its trademark as a ‘global partnership’... To establish NPDL in New Zealand, CORE co-ordinated seven New Zealand schools together with 80 in Victoria and 20 in Tasmania (the minimum required size for a NPDL cluster is 100 schools). Participating schools are required to commit for three years, paying $US2,000 per annum for the global initiative, $NZ3,000 per annum for local coordination, release costs for staff, and 0.2 FTE school leader time.*
 
@@ -156,7 +157,7 @@ updated: 2026-10-16
 > [!dev-timeline] 概念演变
 > - **2012 年 — 多伦多发起创立 NPDL 全球倡议** [[Michael Fullan|迈克尔·富兰]]联合微软、英特尔等跨国科技企业及 [[OECD]] 代表创立 NPDL Global。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 24)]]
 > - **2014 年 — 培生智库资助确立理论框架** 培生 Open Ideas 丛书资助出版《丰富矿脉》（*A Rich Seam*），系统阐述 6C 素养模型并启动商业推广。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 24)]]
-> - **2014–2016 年 — 跨国集群在新西兰落地** 本土 [[Educational Management Organisation|EMO]] 核心教育代理该项目，打包澳大利亚与新西兰 107 所学校组建首期集群，并建立基督城 Kahukura NPDL 集群。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 24–25, 42–43)]]
+> - **2014–2016 年 — 跨国集群在新西兰落地** 本土 [[Educational Management Organisation|EMO]] [[CORE Education|核心教育]]代理该项目，打包澳大利亚与新西兰 107 所学校组建首期集群，并建立基督城 Kahukura NPDL 集群。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 24–25, 42–43)]]
 > - **2016 年至今 — 批判社会学解构与持续扩张** 奥尼尔等学者对其专有品牌化和资金净汲取进行学理反思，该网络后续进一步扩展至全球数十个国家学区。
 
 ---
@@ -193,4 +194,4 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统剖析新西兰 CORE Education 代理 NPDL 的运作机制，揭示专有教学法商品化对公立教师研训资金的抽吸效应。
+> - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统剖析新西兰 [[CORE Education]] 代理 NPDL 的运作机制，揭示专有教学法商品化对公立教师研训资金的抽吸效应。

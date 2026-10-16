@@ -44,6 +44,7 @@ related_persons:
   - "[[John Hattie]]"
   - "[[John O'Neill]]"
 related_facts:
+  - "[[CORE Education]]"
   - "[[Visible Learning Branding and Global Influences]]"
   - "[[Cognition Education]]"
   - "[[Corwin Press]]"
@@ -66,7 +67,7 @@ updated: 2026-10-16
 ## 定义
 
 > [!def] 核心定义
-> 教育管理组织（Educational Management Organisation, EMO）指深度参与公立学校教育政策制定、管理运营支持以及核心教育教学服务交付的私营部门实体，涵盖营利性（for-profit）与非营利性（not-for-profit）两种组织形态。
+> 教育管理组织（Educational Management Organisation, EMO）指深度参与公立学校教育政策制定、管理运营支持以及[[CORE Education|核心教育]]教学服务交付的私营部门实体，涵盖营利性（for-profit）与非营利性（not-for-profit）两种组织形态。
 > 
 > 在国际比较语境中，EMO 主要指受政府委托托管或直接运营一所及多所公立学校（如特许学校连锁或学院信托连锁），全面承担人员配备、课程设置与教学管理的第三方机构。而在新西兰特定制度土壤中，EMO 演变出独特的 **[[Dual-Entity Legal Structure|双层法人架构]]（Two-tier Corporate Structure）** 顶层为免税的慈善信托（Charitable Trust），底层为全资拥有的营利性有限责任公司（Limited Liability Company）。这些实体不仅垄断公共部门服务外包合同，更深度介入国家政策文本起草与教育议程设置，在公共利益外衣下展开商业资本积累与制度套利（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. vi–vii, 19–20]]）。
 
@@ -107,7 +108,7 @@ updated: 2026-10-16
 > - **税收冲抵与利润内循环机制（Tax-exempt Arbitrage & Retained Earnings）** 营利性子公司参与教育部高额采购合同获取可观营业利润，随后将大部分利润以慈善捐赠形式全额转移给母体信托，直接冲抵企业应纳税所得额使其纳税额归零；留存资金则由母体信托自主开展金融投资或海外商业并购（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 71–73]]）。
 > - **“固有慈善目的”免责抗辩（Inherent Charitable Purpose Doctrine）** 非营利母体将其全部有偿商业活动组合均解释为天然具有慈善公益性质，进而抗辩并免除从高额运营盈余中向社会公立学校进行实质慈善现金反哺的法定义务（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, p. vii]]）。
 > - **官方信息审计豁免屏障（OIA Scrutiny Exemption）** 私法注册的有限责任公司身份使其成功阻断《官方信息法》（Official Information Act, OIA）的监管穿透；政府外包合同的具体单价、毛利率、分包明细以及向高校学者支付的商业咨询佣金被严格锁定在商业机密保护之下（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. xv, 73]]）。
-> - **对公共财政采买的高度依附（Procurement Dependency）** 尽管以私营自由市场主体自居，新西兰大型 EMO（如 CORE Education）超过 85% 的营业收入高度依赖教育部定向外包合同，形成实质上的“依赖型准垄断采买”（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 76–85]]）。
+> - **对公共财政采买的高度依附（Procurement Dependency）** 尽管以私营自由市场主体自居，新西兰大型 EMO（如 [[CORE Education]]）超过 85% 的营业收入高度依赖教育部定向外包合同，形成实质上的“依赖型准垄断采买”（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 76–85]]）。
 > - **学术品牌商业特许与旋转门（Academic Franchise & Revolving Door）** 深度绑定学术权威（如 [[John Hattie]]），将其学术知识产权转化为由 EMO 独家垄断代理的全球注册商标（如 [[Visible Learning Branding and Global Influences|Visible Learningplus]]），并聘请前教育部高级官僚出任董监高，主导政府招标方向（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 65–70]]）。
 > - **象征性公共反哺与反向资金抽离（Marginal Reinvestment & Value Extraction）** EMO 从公立学校系统中抽取数千万计的公共财政与培训经费，但向公立学校发放的实际公益捐助与科研反哺常年维持在 1% 以下的极低水平（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. xvii, 72–73]]）。
 
@@ -174,7 +175,7 @@ updated: 2026-10-16
 > 探讨 EMO 如何通过自我赋予道德合法性，建立起对公共采购订单的高度依赖并消解实质公益责任。
 
 > [!claim] O'Neill, J. et al.
-> **“固有慈善”修辞对公共反哺义务的合法性置换** 奥尼尔等（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）深入揭露了新西兰大型非营利 EMO 的寻租本质。这些组织在法律审查与公共舆论中，坚称其向学校出售收费咨询和教师培训的行为“其自身本身就具有内在固有的慈善目的（inherently charitable purpose）”，从而在法理上免除了将营业盈余以真金白银反哺学校系统的责任。实证财务追踪表明，新西兰最大的 EMO [[Cognition Education|认知教育集团]]（Cognition Education Group）年营收达数千万新西兰元，但在 2015 年直接面向公立学校发放的公益捐助仅占集团总收入的 0.9%（251,826 / 28,688,033 新西兰元）；与此同时，第二大 EMO CORE Education 更有高达 85% 的年收入来自教育部的单一合同采购。这表明 EMO 并非真正的市场竞争主体或无私慈善家，而是演变为高度依附于国家公共财政、凭借免税道德合法性垄断教育服务入口的准垄断寻租者（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. vii, xvii, 72–73, 76–85]]）。
+> **“固有慈善”修辞对公共反哺义务的合法性置换** 奥尼尔等（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）深入揭露了新西兰大型非营利 EMO 的寻租本质。这些组织在法律审查与公共舆论中，坚称其向学校出售收费咨询和教师培训的行为“其自身本身就具有内在固有的慈善目的（inherently charitable purpose）”，从而在法理上免除了将营业盈余以真金白银反哺学校系统的责任。实证财务追踪表明，新西兰最大的 EMO [[Cognition Education|认知教育集团]]（Cognition Education Group）年营收达数千万新西兰元，但在 2015 年直接面向公立学校发放的公益捐助仅占集团总收入的 0.9%（251,826 / 28,688,033 新西兰元）；与此同时，第二大 EMO [[CORE Education]] 更有高达 85% 的年收入来自教育部的单一合同采购。这表明 EMO 并非真正的市场竞争主体或无私慈善家，而是演变为高度依附于国家公共财政、凭借免税道德合法性垄断教育服务入口的准垄断寻租者（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. vii, xvii, 72–73, 76–85]]）。
 
 ---
 
@@ -205,7 +206,7 @@ updated: 2026-10-16
 > [!dev-timeline] 概念演变
 > - **1990s — 美国营利性 EMO 模式兴起** 随着美国特许学校（Charter Schools）立法浪潮，爱迪生学校（Edison Schools，后发展为 EdisonLearning Inc.）作为最早的营利性 EMO 创立，开创了由私营公司全面承包公立学校管理的模式，并在随后的十余年间向英国、非洲拓展，服务超过 350 所学校与 15 万名学生（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 19–20]]）。
 > - **2000s — 欧洲与英国连锁学院信托（MATs）的制度化** 英国工党与保守党相继推行学院计划（Academies），催生了以多学院信托（Multi-Academy Trusts, MATs）为代表的“学校连锁（School Chains）”；瑞典自由学校（Friskolor）法案亦允许营利性企业运营学校连锁，EMO 概念从美洲本土扩展为跨国治理模式（Muir, 2012; Papanastasiou, 2013）。
-> - **2010 — 新西兰本土混合 EMO 的法人重构** 新西兰原服务于教育部的 [[Cognition Education|Multi Serve Education Trust]] 进行资产重组，分立为 Cognition Education Trust 与营利性全资子公司 Cognition Education Limited，开创了新西兰本土 EMO 独特的双层法人免税运作模式；CORE Education 亦通过整合迅速崛起（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 65, 76]]）。
+> - **2010 — 新西兰本土混合 EMO 的法人重构** 新西兰原服务于教育部的 [[Cognition Education|Multi Serve Education Trust]] 进行资产重组，分立为 Cognition Education Trust 与营利性全资子公司 Cognition Education Limited，开创了新西兰本土 EMO 独特的双层法人免税运作模式；[[CORE Education]] 亦通过整合迅速崛起（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 65, 76]]）。
 > - **2013–2015 — 新西兰立法引入整校特许承包与公私合营（[[Public-Private Partnership|PPP]]）** 国家党政府相继通过《2013年教育修正法案》（引入特许学校 [[Partnership Schools Kura Hourua|PSKH]]，允许营利与非营利赞助者运营公费学校连锁）与《2015年教育立法法案》（提议允许单执行长跨校托管），为传统英美型 EMO 在新西兰落地扫清立法障碍；首个学校建设运营 [[Public-Private Partnership|PPP]] 项目（Hobsonville Point）落地（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 20–23]]）。
 > - **2016 — 批判政策社会学对新西兰 EMO 的全面解构** [[John O'Neill|约翰·奥尼尔]]等（[[Argument_ONeill_2016_Report|O'Neill et al., 2016]]）发表里程碑式学术独立报告，系统穿透 Cognition、CORE 等 EMO 的财务报表与公司档案，揭示了双层法人避税套利、OIA 信息豁免与极低公益反哺率，确立了 EMO 在英美托管型之外的“准垄断寻租中介”理论形态。
 
@@ -218,7 +219,7 @@ updated: 2026-10-16
 > | 组织名称 | 组织法律架构与全资控股关系 | 营业收入规模与变动趋势 | 教育部（MoE）合同依赖度 | 基层公立学校实质公益反哺 | 避税冲抵与法人监管特征 |
 > |---|---|---|---|---|---|
 > | **[[Cognition Education\|认知教育集团]]（Cognition Education Group）** | 顶层为 Cognition Education Trust（免税慈善信托）；底层为 Cognition Education Ltd（100% 全资持股营利有限公司） | 2010 年最高达 6,900 万新西兰元；2015 年维持在 2,868.8 万新西兰元（p. 71） | 承担国家测评工具（[[Assessment Tools for Teaching and Learning\|asTTle]]）、教师在职培训合同，并向全球 35 国扩张业务 | 2015 年对外实际公益捐赠仅 251,826 新西兰元，占集团总收入的 **0.9%**（p. 72） | 子公司利润作为慈善捐款免税上交母体信托，企业所得税账面冲抵归零；豁免于《官方信息法》（OIA）公开审计 |
-> | **CORE Education** | 顶层为 CORE Education Trust（免税慈善信托）；底层为 CORE Education Ltd（100% 全资持股营利有限公司） | 2010 年为 780 万新西兰元；2015 年快速飙升至 2,270 万新西兰元（p. 77） | **极度依赖** 2014–2015 财年约 **85%** 的年收入直接来自教育部采购外包合同（p. 77） | 虽声称设立微额奖学金，但绝大多数营利全额用于内部团队扩张与留存利润累积 | 依靠免税非营利声誉垄断数字化学习技术与教师专业发展国家采购订单 |
+> | **[[CORE Education]]** | 顶层为 CORE Education Trust（免税慈善信托）；底层为 CORE Education Ltd（100% 全资持股营利有限公司） | 2010 年为 780 万新西兰元；2015 年快速飙升至 2,270 万新西兰元（p. 77） | **极度依赖** 2014–2015 财年约 **85%** 的年收入直接来自教育部采购外包合同（p. 77） | 虽声称设立微额奖学金，但绝大多数营利全额用于内部团队扩张与留存利润累积 | 依靠免税非营利声誉垄断数字化学习技术与教师专业发展国家采购订单 |
 > | **培生集团新西兰业务（Pearson NZ）** | 英国跨国教育巨头 Pearson [[Professional Learning Community\|PLC]] 设立的全资有限责任子公司 | 集团全球销售额达 45 亿英镑；新西兰分支年营利数百至数千万新西兰元（pp. 59–64） | 竞标国家数字化教育基础设施、教材出版及在线评估系统 | 完全商业营利驱动，不承担任何本土慈善反哺义务 | 纯粹商业跨国公司架构，跨国转移定价与资本运作，规避本土公众治理监督 |
 
 > [!ref-table]- 表二：新西兰公私教育支出比例与影子教育发展特征（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. 20–21]]）
@@ -237,7 +238,7 @@ updated: 2026-10-16
 > [!debates] 理论争议与治理张力
 >
 > > [!axis] 公共受托责任 vs 商业保密特权
-> > 争议 EMO 在使用纳税人资金交付核心教育服务时，应无条件公开全流程运营与财务账目，还是享有私法所赋予的商业机密保护。
+> > 争议 EMO 在使用纳税人资金交付[[CORE Education|核心教育]]服务时，应无条件公开全流程运营与财务账目，还是享有私法所赋予的商业机密保护。
 > >
 > > - **代议制民主审计立场** 奥尼尔等（[[Argument_ONeill_2016_Report|O'Neill et al., 2016, pp. xv, 73]]）指出，使用公共税收资助的教育活动不应存在任何免受公众穿透审计的死角，《官方信息法》（OIA）豁免直接导致公民知情权与民主问责名存实亡。
 > > - **私营 EMO 行业立场** 坚称私营企业与全资子公司拥有自主产权，公开敏感的定价公式、员工薪酬与知识产权协议将破坏企业的市场[[Competitiveness|竞争力]]与商业生存根基。
@@ -259,7 +260,7 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
-> - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统解构新西兰以 [[Cognition Education]] 和 CORE Education 为代表的 EMO [[Dual-Entity Legal Structure|双层法人架构]]、税收冲抵套利与民主问责真空。
+> - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统解构新西兰以 [[Cognition Education]] 和 [[CORE Education]] 为代表的 EMO [[Dual-Entity Legal Structure|双层法人架构]]、税收冲抵套利与民主问责真空。
 > - Bray (2007) — 全球比较研究，剖析影子教育与私营补习机构对教育公平的侵蚀机制。
 > - Papanastasiou (2013) — 剖析英格兰与威尔士公费学校体系中私营 EMO 与学院连锁机构的政策推进路径。
 > - Erixon Arreman and Holm (2011) — 考察瑞典自由学校市场化改革中，营利性连锁组织（School Chains）的崛起与监管困境。

@@ -50,6 +50,7 @@ related_facts:
   - "[[Impetus]]"
   - "[[BHP Foundation]]"
   - "[[Grammar School]]"
+  - "[[CORE Education]]"
 related_arguments:
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
 confidence: high
@@ -157,7 +158,7 @@ updated: 2026-10-16
 > > - **彼得·兰普尔（Sir Peter Lampl）** 坚持务实的循证[[Educational Meliorism\|改良主义]]，主张通过严密的因果数据证实哪些学校干预能够最大化缩小弱势群体的学业鸿沟。
 
 > [!warning] 市场化慈善与国家公共责任边界
-> 部分学者质疑由私人慈善家与商业背景理事会主导国家核心教育科研中介可能带来新自由主义偏向。对此，EEF 通过设立完全独立的学术评估顾问小组（[[Education at a Glance\|EAG]]）与严格的第三方竞争性评估防火墙，成功消解了公众对私人资本干涉国家学术议程的疑虑。
+> 部分学者质疑由私人慈善家与商业背景理事会主导国家[[CORE Education|核心教育]]科研中介可能带来新自由主义偏向。对此，EEF 通过设立完全独立的学术评估顾问小组（[[Education at a Glance\|EAG]]）与严格的第三方竞争性评估防火墙，成功消解了公众对私人资本干涉国家学术议程的疑虑。
 
 ---
 

@@ -41,6 +41,7 @@ related_persons:
 related_facts:
   - "[[Social Ventures Australia]]"
   - "[[Foundation North Māori and Pasifika Education Initiative]]"
+  - "[[Foundation North]]"
 related_arguments:
   - "[[Argument_Rowe_2023_ECNUROE]]"
   - "[[Argument_ONeill_2016_Report]]"
@@ -72,7 +73,7 @@ updated: 2026-10-16
 > [!citation-card] 奥尼尔等人论高介入风险慈善与本土社区的治理冲突
 > 北部基金会设立的[[Foundation North Māori and Pasifika Education Initiative|毛利与太平洋岛民教育倡议]]（[[Foundation North Māori and Pasifika Education Initiative|MPEI]]）代表了一种高介入度的风险慈善与社会投资模式。基金会投入 2,000 万新西兰元，引入私营咨询机构对学校强加因果量规与‘[[Theory of Change|变革理论]]’考核。然而，这种自上而下的量化规训与本土毛利社区的集体审议文化产生了深刻冲突，大量资金被外部咨询费侵吞，而基层社区的文化自治与民主信任却遭受严重侵蚀。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 61–64, 76–80)]]
 >
-> *The Foundation North MPEI represents a high-engagement venture philanthropy model investing \$20 million into high-risk, metric-driven systemic change. By imposing corporate consultancy, causal theories of change, and external milestones, the initiative conflicted directly with indigenous Maori cultural values (Tikanga), resulting in external resource extraction and community alienation.*
+> *The [[Foundation North]] MPEI represents a high-engagement venture philanthropy model investing \$20 million into high-risk, metric-driven systemic change. By imposing corporate consultancy, causal theories of change, and external milestones, the initiative conflicted directly with indigenous Maori cultural values (Tikanga), resulting in external resource extraction and community alienation.*
 
 > [!boundary]- 概念边界
 > - 不等于 传统商业风险投资（Commercial Venture Capital） — 商业风投以利润最大化为唯一导向；影响力投资必须明文约定经由第三方审计的社会效益指标作为投资存续与结算的前提（Nicholls et al., 2015）。
@@ -146,7 +147,7 @@ updated: 2026-10-16
 > 探讨以高风险高回报为特征的[[Venture Philanthropy|风险慈善]]与影响力投资，在向原住民及少数族裔弱势社区注入资本时，如何因外部强加的商业量规而瓦解本土文化自主。
 
 > [!claim] O'Neill, J. et al.
-> **高介入风险投资对本土治理自主的殖民侵蚀论断** [[John O'Neill|约翰·奥尼尔]]等人通过对新西兰北部基金会（Foundation North）投入 2,000 万新西兰元的“[[Foundation North Māori and Pasifika Education Initiative|毛利与太平洋岛民教育倡议]]”（[[Foundation North Māori and Pasifika Education Initiative|MPEI]]）长达 5 年的深度追踪指出，社会影响力投资与风险慈善在弱势社区的实践中展现出严重的制度异化：
+> **高介入风险投资对本土治理自主的殖民侵蚀论断** [[John O'Neill|约翰·奥尼尔]]等人通过对新西兰北部基金会（[[Foundation North]]）投入 2,000 万新西兰元的“[[Foundation North Māori and Pasifika Education Initiative|毛利与太平洋岛民教育倡议]]”（[[Foundation North Māori and Pasifika Education Initiative|MPEI]]）长达 5 年的深度追踪指出，社会影响力投资与风险慈善在弱势社区的实践中展现出严重的制度异化：
 > 1. **因果量规与本土文化的脱节** 影响力投资者要求受资助学校严格导入商业管理学中的“[[Theory of Change|变革理论]]”（Theory of Change）和阶梯式量化里程碑；然而，这种工具理性与毛利原住民社会基于集体审议、亲族认同与关系联结的本土价值体系（Tikanga Māori）发生剧烈冲突，被社区学校视为新殖民式的外部行政强加。
 > 2. **咨询中介的价值抽取与资本沉淀** 项目推进高度依赖外部聘请的营利性评估公司与管理咨询顾问，大量资助预算流向了技术专家的咨询费与考评差旅，真正落到薄弱学校一线教学上的资金被严重摊薄；同时，基金会自身将数十亿资产置于金融市场运作，年净收益达数千万新西兰元，对外捐赠比例却被严格限制在两成左右，形成了巨大的公益资本逆向留存。
 > 3. **信任瓦解与民主自治危机** 高介入度的严密监控与审计剥夺了一线教育者的专业裁量权与本土社区的自主权，导致社区与基金会之间的合作关系由初期的互信滑向对抗与冷漠，最终宣告以金融风投逻辑改造公立弱势教育体系的设想在文化与制度维度的双重失败。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 61–64, 76–80)]]

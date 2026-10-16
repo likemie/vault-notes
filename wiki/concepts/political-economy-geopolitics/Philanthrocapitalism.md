@@ -33,6 +33,7 @@ related_methods: []
 related_instruments: []
 related_persons: []
 related_facts:
+  - "[[CORE Education]]"
   - "[[Australian Schools Plus]]"
   - "[[Social Ventures Australia]]"
   - "[[Australian Education Research Organisation]]"
@@ -110,7 +111,7 @@ updated: 2026-10-16
 > 在慈善资本主义网络中，国家并未如国家空心化理论所断言的那样退场，而是扮演了不可或缺的制度催化者、合法性赋予者与财政注资者；国家通过将公共税收定向拨付给免税中介机构与专业顾问，改变了传统的公共财富分配路径，形成了由私营网络统摄的异层治理形态（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 522–523, 527]]）。
 
 > [!claim] 命题二：慈善资本主义构筑了侵蚀民主审议的非民选寡头网络
-> 慈善资本主义的[[Policy Network\|政策网络]]由金融家与管理顾问主导，行事遵循隐秘的非正式社会交往、保密赠款协议与子公司嵌套架构；这些非民选精英凭借免税资本在不接受选民监督的前提下直接主导国家核心教育立法与课程科研机构创设，严重架空了民主问责程序（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 521, 532]]）。
+> 慈善资本主义的[[Policy Network\|政策网络]]由金融家与管理顾问主导，行事遵循隐秘的非正式社会交往、保密赠款协议与子公司嵌套架构；这些非民选精英凭借免税资本在不接受选民监督的前提下直接主导国家[[CORE Education|核心教育]]立法与课程科研机构创设，严重架空了民主问责程序（[[Argument_Rowe_2023_ECNUROE\|Rowe, 2023, pp. 521, 532]]）。
 
 ---
 

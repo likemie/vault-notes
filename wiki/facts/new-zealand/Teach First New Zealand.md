@@ -47,6 +47,7 @@ related_persons:
 related_facts:
   - "[[OECD]]"
   - "[[Grammar School]]"
+  - "[[COMET Auckland]]"
   - "[[Cognition Education]]"
   - "[[NEXT Foundation]]"
   - "[[The Education Trust]]"
@@ -106,7 +107,7 @@ updated: 2026-10-16
 
 > [!actor-grid] 治理团队与领导网络
 > - **执行领导层** 联合创始人兼首席执行官肖恩·萨顿（Shaun Sutton）曾在英国接受 Teach First 师训并在 TFA 总部实习；副总监杰伊·奥尔纳特（Jay Allnutt）为前伦敦教师及 Teach First 英国副总监；团队吸纳了跨国律所、猎头咨询与商业公关资深人士。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 54)]]
-> - **受托人理事会（Trustees）** 呈现致密的政商跨界特征：董事会主席德博拉·乔治（Deborah George）为奥克兰[[Grammar School|文法学校]]（Auckland [[Grammar School]]）招生总监兼 InZone 教育基金会董事；受托人戴维·格洛弗（David Glover）为麦肯广告前全球创意总监兼商业咨询董事长；受托人伯娜丁·维斯特（Bernadine Vester）为 COMET 前首席执行官兼中学教师协会前副主席。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 55)]]
+> - **受托人理事会（Trustees）** 呈现致密的政商跨界特征：董事会主席德博拉·乔治（Deborah George）为奥克兰[[Grammar School|文法学校]]（Auckland [[Grammar School]]）招生总监兼 InZone 教育基金会董事；受托人戴维·格洛弗（David Glover）为麦肯广告前全球创意总监兼商业咨询董事长；受托人伯娜丁·维斯特（Bernadine Vester）为 [[COMET Auckland|COMET]] 前首席执行官兼中学教师协会前副主席。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 55)]]
 > - **学术顾问与政府联络** 奥克兰大学教育学院前院长、[[Cognition Education|认知教育]]受托人兼[[NEXT Foundation|内克斯特基金会]]（NEXT Foundation）顾问玛格丽特·本德尔（Margaret Bendall）出任资深顾问，承担大学学分认证与政府政策协调职能。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 54–55)]]
 
 > [!pathways] 业务运行与培养流程

@@ -39,7 +39,7 @@ related_theories:
 related_methods: []
 related_persons: []
 related_facts:
-  - "[[The Education Trust]]"
+  - "[[Foundation North]]"
   - "[[Achieve]]"
   - "[[Tomorrow's Schools Reforms]]"
 related_arguments:
@@ -57,12 +57,12 @@ updated: 2026-10-16
 ## 项目背景与立项契机
 
 > [!claim] 项目定位
-> [[Foundation North Māori and Pasifika Education Initiative|毛利与太平洋岛民教育倡议]]（Māori and Pasifika Education Initiative, MPEI）是由新西兰最大慈善资助机构之一北部基金会（Foundation North，前 ASB 社区信托）于 2009 年正式启动的总额达 2,000 万新西兰元、为期 5 年的高介入度[[Venture Philanthropy|风险慈善]]（Venture Philanthropy）与[[Social Impact Investing|社会影响力投资]]战略计划。该项目旨在打破传统分散小额捐赠模式，通过引入商业管理学与因果量规，实现弱势族群教育成效的系统性飞跃。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. xii–xiii, 61–64)]]
+> [[Foundation North Māori and Pasifika Education Initiative|毛利与太平洋岛民教育倡议]]（Māori and Pasifika Education Initiative, MPEI）是由新西兰最大慈善资助机构之一北部基金会（[[Foundation North]]，前 ASB 社区信托）于 2009 年正式启动的总额达 2,000 万新西兰元、为期 5 年的高介入度[[Venture Philanthropy|风险慈善]]（Venture Philanthropy）与[[Social Impact Investing|社会影响力投资]]战略计划。该项目旨在打破传统分散小额捐赠模式，通过引入商业管理学与因果量规，实现弱势族群教育成效的系统性飞跃。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. xii–xiii, 61–64)]]
 
 > [!program-context] 项目背景
 > - **立项时间 / 周期** 2009 年正式立项资助，基础运行周期为 5 年（2009–2014），后续追踪与终期项目评选延伸至 2015 年。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. xiii)]]
 > - **发起方与资助机制** 发起方为北部基金会（前 ASB 社区信托，资产规模逾 10 亿新西兰元）。基金会于 2006 年宣布全面拥抱风险慈善模式，设立 2,000 万新西兰元专款，要求以[[Return on Investment|社会投资回报]]率（[[Return on Investment|ROI]]）与[[Theory of Change|变革理论]]为考核准则。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. xii, 61)]]
-> - **覆盖范围与对象** 新西兰奥克兰（Auckland）与北地（Northland）地区集聚的毛利族（Māori）与太平洋岛民（Pasifika）弱势社区公立中小学校、基层[[The Education Trust|教育信托]]及师生群体。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 61–62)]]
+> - **覆盖范围与对象** 新西兰奥克兰（Auckland）与北地（Northland）地区集聚的毛利族（Māori）与太平洋岛民（Pasifika）弱势社区公立中小学校、基层教育信托及师生群体。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 61–62)]]
 > - **核心问题导向** 针对新西兰长期存在的原住民与少数族裔[[Academic Achievement|学业成就]]鸿沟、早期辍学率高企等系统性不平等问题，试图通过资本集中投放与专业化管理介入探索解决之道。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. xiii)]]
 
 ---
@@ -102,7 +102,7 @@ updated: 2026-10-16
 > [!actor-grid] 实施协同矩阵
 > - **发起与出资方（北部基金会）** 掌控 2,000 万新西兰元专款分配权与考核最终裁决权，实行董事会自上而下的里程碑审查。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. 61)]]
 > - **中介咨询与评估机构（营利性管理顾问与第三方机构）** 负责为受助学校量身定制“[[Theory of Change|变革理论]]”路线图，开发因果评估量规，收取高额咨询与审计费用。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 76–80)]]
-> - **一线受助组织（毛利与太平洋岛民基层[[The Education Trust|教育信托]]及学校）** 负责落地具体教学与社区帮扶方案，但需承担繁重的量化填报与指标审计负担。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 62–63)]]
+> - **一线受助组织（毛利与太平洋岛民基层教育信托及学校）** 负责落地具体教学与社区帮扶方案，但需承担繁重的量化填报与指标审计负担。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 62–63)]]
 > - **目标受益群体（原住民与岛民中小学生）** 实验干预与[[Academic Achievement|学业成绩]]测验的最终对象。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, p. xiii)]]
 
 > [!pathways]- 实施路径与管理

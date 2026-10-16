@@ -33,6 +33,7 @@ related_instruments:
 related_persons:
   - "[[Richard J. Shavelson]]"
 related_facts:
+  - "[[CORE Education]]"
   - "[[Education Resources Information Center]]"
   - "[[What Works Clearinghouse]]"
   - "[[Institute of Education Sciences]]"
@@ -59,7 +60,7 @@ updated: 2026-10-16
 ## 机构定位与宗旨
 
 > [!claim] 核心定位
-> **教育研究与改进办公室（Office of Educational Research and Improvement, OERI）** 是 1979 年至 2002 年间美国联邦教育部下辖的核心教育科研、数据统计与信息传播官方机构，统筹管理国家教育统计中心（NCES）、[[Education Resources Information Center|教育资源信息中心]]（ERIC）、区域教育实验室网络与国家研发中心，并在 2002 年资助设立[[What Works Clearinghouse|有效干预清算中心]]（WWC），其职能于 2002 年底被新设立的独立法定科研机构——[[Institute of Education Sciences|教育科学研究院]]（IES）正式取代。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–34)]]; [[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 206)]]
+> **教育研究与改进办公室（Office of Educational Research and Improvement, OERI）** 是 1979 年至 2002 年间美国联邦教育部下辖的[[CORE Education|核心教育]]科研、数据统计与信息传播官方机构，统筹管理国家教育统计中心（NCES）、[[Education Resources Information Center|教育资源信息中心]]（ERIC）、区域教育实验室网络与国家研发中心，并在 2002 年资助设立[[What Works Clearinghouse|有效干预清算中心]]（WWC），其职能于 2002 年底被新设立的独立法定科研机构——[[Institute of Education Sciences|教育科学研究院]]（IES）正式取代。[[Argument_Eisenhart_Towne_2003_ER|(Eisenhart & Towne, 2003, pp. 32–34)]]; [[Argument_Bangs_2022_PerspectivesOnResearch|(Bangs et al., 2022, p. 206)]]
 
 > [!org-context] 机构背景
 > - **成立时间与创设背景** 1979 年依据美国联邦《教育部组织法》（Department of Education Organization Act of 1979, P.L. 96-88）创设，取代原有的国家教育研究所（National Institute of Education, NIE），旨在整合原本分散在各行政署的教育研究、统计与信息传播职能。

@@ -31002,6 +31002,47 @@
     ]
   },
   {
+    "title": "COMET Auckland",
+    "type": "fact",
+    "path": "wiki/facts/new-zealand/COMET Auckland.md",
+    "aliases": [
+      "奥克兰社区教育信托",
+      "Community Education Trust Auckland",
+      "City of Manukau Education Trust",
+      "COMET"
+    ]
+  },
+  {
+    "title": "CORE Education",
+    "type": "fact",
+    "path": "wiki/facts/new-zealand/CORE Education.md",
+    "aliases": [
+      "核心教育",
+      "CORE Education Charitable Trust",
+      "CORE Education Limited"
+    ]
+  },
+  {
+    "title": "Foundation North",
+    "type": "fact",
+    "path": "wiki/facts/new-zealand/Foundation North.md",
+    "aliases": [
+      "北方基金会",
+      "ASB Community Trust",
+      "ASB 社区信托",
+      "Foundation North Group"
+    ]
+  },
+  {
+    "title": "KidsCan",
+    "type": "fact",
+    "path": "wiki/facts/new-zealand/KidsCan.md",
+    "aliases": [
+      "儿童之友",
+      "KidsCan Charitable Trust"
+    ]
+  },
+  {
     "title": "Manaiakalani Education Trust",
     "type": "fact",
     "path": "wiki/facts/new-zealand/Manaiakalani Education Trust.md",

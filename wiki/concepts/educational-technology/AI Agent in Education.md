@@ -52,6 +52,8 @@ related_methods:
   - "[[Experimental Research]]"
 related_arguments:
   - "[[Argument_Liu_2026_CHBR]]"
+related_facts:
+  - "[[CORE Education]]"
 confidence: high
 status: draft
 tags:
@@ -103,7 +105,7 @@ updated: 2026-10-16
 
 ## 核心要素
 
-> [!feature] 四类核心教育智能体技术形态（Istrate, 2025; [[Argument_Liu_2026_CHBR\|Liu et al., 2026]]）
+> [!feature] 四类[[CORE Education|核心教育]]智能体技术形态（Istrate, 2025; [[Argument_Liu_2026_CHBR\|Liu et al., 2026]]）
 > - **[[Intelligent Tutoring Systems\|智能导师系统]]（Intelligent Tutoring Systems, ITS）** 基于领域知识图谱、学生认知模型与教学决策算法，提供结构化分步解题引导与自适应规则提示的专用系统。在数学与理科程序性[[Problem Solving\|问题解决]]中展现出最强干预效能（$g = 0.540$）。
 > - **[[Educational Robotics\|人工智能教育机器人]]（AI Educational Robotics）** 具备物理具身或拟人化外显形态的智能交互实体，通过多模态交互（语音、手势、动作）提供陪伴式、[[Inquiry-Based Learning\|探究式学习]]体验（$g = 0.474$），多应用于低幼与小学阶段的语言认读与跨学科活动。
 > - **[[Generative AI Agent in Education\|生成式智能体]]（[[Generative Artificial Intelligence\|Generative AI]] Agents, GenAI Agents）** 基于大型语言模型（Large Language Models, LLM）或多模态生成技术，支持开放式问答、代码辅助调试、写作支架生成与探究任务共创的智能体系统（$g = 0.421$）。

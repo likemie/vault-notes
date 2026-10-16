@@ -101,6 +101,7 @@ related_facts:
   - "[[Corwin Press]]"
   - "[[Gonski 2.0]]"
   - "[[Victorian HITS and Literacy Toolkit]]"
+  - "[[CORE Education]]"
 related_arguments:
   - "[[Argument_Hattie_2005_ACER]]"
   - "[[Argument_McKnight_2020_Discourse]]"
@@ -301,7 +302,7 @@ updated: 2026-10-16
 > - **知识形态异质性批判立场（红方）** 批评者指出元分析混淆了表层事实记忆与深层概念建构，掩盖了不同学科独特的认知规律与情境异质性。[[Argument_Qvortrup_2015_Paideia\|(Qvortrup, 2015, pp. 29–33)]]
 >
 > [!tension] 核心张力三：宏观合成证据权威 vs [[Metascience|元科学]]审计下的[[Reproducibility Crisis|可复现性危机]]（[[Reproducibility Crisis\|可复现性危机]]）
-> - **合成证据权威立场（蓝方）** 主张即使底层元分析存在个别瑕疵或历史人工录入偏差，数亿样本与上千项元分析的整体模式仍能稳定揭示“教师激活优于被动促进”等核心教育规律。[[Argument_Hattie_2010_NZJES\|(Hattie, 2010, pp. 88–92)]]
+> - **合成证据权威立场（蓝方）** 主张即使底层元分析存在个别瑕疵或历史人工录入偏差，数亿样本与上千项元分析的整体模式仍能稳定揭示“教师激活优于被动促进”等[[CORE Education|核心教育]]规律。[[Argument_Hattie_2010_NZJES\|(Hattie, 2010, pp. 88–92)]]
 > - **元科学与计量统计解构立场（红方）** [[Christof Wecker|韦克尔]]（[[Argument_Wecker_2016_ZfE|Wecker et al., 2016]]）与卡尔门达尔（[[Argument_Kalmendal_2025_PsyArXiv|Kalmendal et al., 2025]]）等团队实证指出，VL 的问题不是局部误差，而是底层数理与方法学崩溃：两级[[Fixed-Effect Model|固定效应]]代数等价性被 93% 的文献重叠摧毁，存在[[Standard Error|标准误]]混淆导致 10 倍虚增的低级计算错误；全库仅 19% 满足 [[PICO Framework|PICO]] 标准，27% 混杂不可[[Commensuration|通约]]设计，44% 效应量无引证支持且复现率低于 1%，在科学上完全不可行。[[Argument_Wecker_2016_ZfE|(Wecker et al., 2016, pp. 24–34)]]; [[Argument_Kalmendal_2025_PsyArXiv|(Kalmendal et al., 2025, pp. 1, 14–19)]]
 - **元科学审计解构立场（红方）** 卡尔门达尔团队实证审计表明，VL 的问题不是局部误差，而是系统性方法学崩溃：缺乏基本的问题纳入关卡（仅 19% 满足 [[PICO Framework|PICO]] 标准）、将不可[[Commensuration|通约]]的统计设计强行平均化（27% 混杂设计）、严重数据提取失真（44% 效应量无引证支持且复现率低于 1%），以及技术类目存在长达 20 年的文献时效断层，因而无法作为任何可靠的教学或政策决策基准。[[Argument_Kalmendal_2025_PsyArXiv\|(Kalmendal et al., 2025, pp. 1, 14–19)]]
 >

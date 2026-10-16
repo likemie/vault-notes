@@ -62,6 +62,7 @@ related_facts:
   - "[[UNESCO Institute for Statistics]]"
   - "[[Poverty Reduction Strategy Papers]]"
   - "[[International Monetary Fund]]"
+  - "[[CORE Education]]"
 related_arguments:
   - "[[Argument_Steiner-Khamsi_2024_CE]]"
   - "[[Argument_Freeman_1995_CJE]]"
@@ -211,7 +212,7 @@ updated: 2026-10-16
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[UN Sustainable Development Goals]] | 政策事实 | [[Education for All\|EFA]] 达喀尔目标的直接制度继承者，升级为包容优质的 SDG 4 目标。 |
-> | [[Global Partnership for Education]] | 国际组织 | 由全民教育快车道倡议（EFA-FTI）演变重组而成的全球核心教育基金机构。 |
+> | [[Global Partnership for Education]] | 国际组织 | 由全民教育快车道倡议（EFA-FTI）演变重组而成的全球[[CORE Education\|核心教育]]基金机构。 |
 > | [[National Innovation System]] | 概念 | EFA 所推动的初等普及构成国家[[Systems of Innovation\|创新系统]]人才底座，但必须与中高等工科教育全链条协同才能形成[[Absorptive Capacity\|吸收能力]]。 |
 > | [[Chris Freeman]] | Person | 考察东亚与拉美后发赶超分歧，论证基础教育普及与工科高等教育协同构成国家创新系统基石的核心学者。 |
 > | [[Human Capital Theory]] | 理论 | 为[[World Bank\|世界银行]]在 EFA 中大力投资初等教育提供实证收益率依据的核心经济学理论。 |

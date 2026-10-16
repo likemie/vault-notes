@@ -64,6 +64,8 @@ related_arguments:
   - "[[Argument_Liu_2026_CHBR]]"
 related_instruments:
   - "[[Framework for Teaching]]"
+related_facts:
+  - "[[CORE Education]]"
 confidence: high
 status: active
 created: 2026-09-02
@@ -110,7 +112,7 @@ updated: 2026-10-16
 
 ## 核心要素
 
-> [!feature] 生成式 AI 促进[[Higher-Order Thinking Skills\|高阶思维]]发展的 10 大核心教育可供性维度（[[Argument_Li_2026_CEAI\|Li et al., 2026]]）
+> [!feature] 生成式 AI 促进[[Higher-Order Thinking Skills\|高阶思维]]发展的 10 大[[CORE Education|核心教育]]可供性维度（[[Argument_Li_2026_CEAI\|Li et al., 2026]]）
 > 
 > **[[Critical Thinking\|批判性思维]]促进可供性（CT Affordances, 5 大维度）**
 > - **[[Metacognition\|元认知监控]]与反思支架（Reflection, n = 27）** 作为[[Socratic Dialogue\|苏格拉底式对话]]伙伴，即时挑战学生推论并促发反思。
@@ -249,6 +251,6 @@ updated: 2026-10-16
 ## 相关研究
 
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
-> - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — 系统构建生成式 AI 促进高等教育批判性与[[Creativity\|创造性思维]]发展的 10 大核心教育可供性分类学。
+> - [[Argument_Li_2026_CEAI\|Li et al. (2026)]] — 系统构建生成式 AI 促进高等教育批判性与[[Creativity\|创造性思维]]发展的 10 大[[CORE Education|核心教育]]可供性分类学。
 > - [[Argument_Liu_2026_CHBR\|Liu et al. (2026)]] — [[Meta-analysis\|元分析]] 35 项[[Experimental Research\|实验研究]]，量化检验 AI [[AI Agent in Education\|智能体]]教育可供性在[[Procedural Skill\|程序技能]]与高阶认知任务中的效应分化。
 > - [[Argument_Du_Yuan_2026_AIS\|Du and Yuan (2026)]] — 系统推演人工智能中介学习环境下技术可供性演化为[[Epistemic Dependence\|认识依赖]]的四重社会技术路径，提出维系关系性[[Epistemic Agency\|认识主体性]]与[[Evaluative Judgement\|评价性判断]]的规范治理框架。

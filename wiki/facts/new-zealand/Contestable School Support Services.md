@@ -24,6 +24,7 @@ related_methods: []
 related_persons: []
 related_facts:
   - "[[Tomorrow's Schools Reforms]]"
+  - "[[CORE Education]]"
   - "[[Cognition Education]]"
 related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
@@ -41,7 +42,7 @@ updated: '2026-05-18'
 
 > [!info] 政策内容
 > - 将原先由大学教育学院提供的学校支持服务合同开放竞争
-> - 私营EMOs、慈善信托和其他组织可与大学平等竞标
+> - 私营[[Educational Management Organisation|EMOs]]、慈善信托和其他组织可与大学平等竞标
 
 ## 时间线
 
@@ -51,7 +52,7 @@ updated: '2026-05-18'
 ## 实施情况
 
 > [!example] 实施情况
-> - **CORE Education** 显著受益：其年收入从 2010 年的 USD 7.8M 增长至 2015 年的 USD 22.7M，员工从 55 人增至 180 人，约 85% 的年收入来自教育部合同([[Argument_ONeill_2016_Report\|O'Neill et al., 2016, pp.xii, 82]])
+> - **[[CORE Education]]** 显著受益：其年收入从 2010 年的 USD 7.8M 增长至 2015 年的 USD 22.7M，员工从 55 人增至 180 人，约 85% 的年收入来自教育部合同([[Argument_ONeill_2016_Report\|O'Neill et al., 2016, pp.xii, 82]])
 > - **[[Cognition Education\|Cognition Education]]** 在同一时期（后全球金融危机）收入从 USD 69M (2010) 降至 USD 28M (2015)，尽管服务转为竞争性招标([[Argument_ONeill_2016_Report\|O'Neill et al., 2016, pp.71]])
 > - 这一政策加强了 [[Educational Management Organisation\|EMO]] 在新西兰公立学校教育服务市场中的地位
 
@@ -59,7 +60,7 @@ updated: '2026-05-18'
 
 > [!warning] 争议与评论
 > - 支持方（政府）：较小的私营慈善机构因管理费用较低和精细化的服务合同而提供更优性价比([[Argument_ONeill_2016_Report\|O'Neill et al., 2016, p.xvii]])
-> - 批评方：竞争性招标可能使资金更多流向私营 EMOs 而非公共教育系统本身，且缺乏透明评估来确定合同外包是否真正优于公共部门直接提供服务
+> - 批评方：竞争性招标可能使资金更多流向私营 [[Educational Management Organisation|EMOs]] 而非公共教育系统本身，且缺乏透明评估来确定合同外包是否真正优于公共部门直接提供服务
 
 ## 相关概念
 

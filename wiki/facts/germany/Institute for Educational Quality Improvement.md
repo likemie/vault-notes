@@ -51,6 +51,7 @@ related_facts:
   - "[[PIRLS]]"
   - "[[Federal Ministry of Education and Research]]"
   - "[[Institute for Educational Monitoring and Quality Improvement]]"
+  - "[[CORE Education]]"
   - "[[Leibniz Institute for Educational Research and Educational Information]]"
   - "[[Zentrum für internationale Bildungsvergleichsstudien]]"
 related_arguments:
@@ -161,7 +162,7 @@ updated: 2026-10-16
 > |:-----|:-----|:-----|
 > | [[Center of Calculation]] | Concept | IQB 构成了德国联邦教育治理体系中最典型的国家计算中心。 |
 > | [[Topological Spatialisation]] | Concept | IQB 通过[[Data Infrastructure\|数据基础设施]]在各州之间编织起跨尺度的拓扑治理网络。 |
-> | [[Data Infrastructure]] | Concept | IQB 运营的题库平台与 FDZ 数据库是全德核心教育数据基础设施。 |
+> | [[Data Infrastructure]] | Concept | IQB 运营的题库平台与 FDZ 数据库是全德[[CORE Education\|核心教育]]数据基础设施。 |
 > | [[Standing Conference of the Ministers of Education and Cultural Affairs]] | Fact (Organization) | 创设并委托 IQB 执行国家教育监测战略的国家最高协调机构。 |
 > | [[Gesamtstrategie zum Bildungsmonitoring]] | Fact (Policy) | 规范 IQB 职能定位与监测支柱的国家最高政策纲领。 |
 > | [[Leibniz Institute for Educational Research and Educational Information]] | Fact (Organization) | 国家兄弟研究机构，DIPF 统筹国家教育报告与教育信息基础设施。 |

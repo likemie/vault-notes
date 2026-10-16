@@ -55,7 +55,8 @@ related_methods:
   - "[[Correlational Research]]"
   - "[[Mixed Methods Research]]"
 related_persons: []
-related_facts: []
+related_facts:
+  - "[[CORE Education]]"
 related_arguments:
   - "[[Argument_Abrami_2015_RER]]"
   - "[[Argument_Cole_2015_AJE]]"
@@ -77,7 +78,7 @@ updated: 2026-10-16
 
 > [!theory-position] 理论定位
 > - **解释对象** 如何最有效地在各级教育中发展和培养学生的[[Critical Thinking\|批判性思维]]技能与倾向。
-> - **理论问题** 批判性思维应当作为独立课程显性教授，还是作为各学科内容的副产品隐性培养？这一争论涉及课程设计、教师培训和学生学习迁移等核心教育问题。
+> - **理论问题** 批判性思维应当作为独立课程显性教授，还是作为各学科内容的副产品隐性培养？这一争论涉及课程设计、教师培训和学生学习迁移等[[CORE Education|核心教育]]问题。
 > - **理论类型** 中层[[Didaktik\|教学理论]]（mid-level pedagogical theory），在认知心理学和教育实证研究的基础上，对教学路径的有效性做出可检验的预测。
 > - **知识位置** 教育心理学与课程研究的[[Comparative Education as a Cross-Sectional Area|交叉领域]]。关键文本包括 [[Argument_Abrami_2015_RER\|Abrami et al. (2015)]] 的[[Meta-analysis\|元分析]]、Marin and Halpern（2011）的[[Experimental Research\|实验研究]]，以及 Facione（1990）的 Delphi 报告。
 

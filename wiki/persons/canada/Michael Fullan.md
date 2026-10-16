@@ -43,6 +43,7 @@ related_persons:
   - "[[Stephen Ball]]"
 related_facts:
   - "[[OECD]]"
+  - "[[CORE Education]]"
 related_arguments:
   - "[[Argument_ONeill_2016_Report]]"
 status: active
@@ -92,7 +93,7 @@ updated: 2026-10-16
 > - **2012 年–至今 — 跨国教学法商品化与品牌特许期** 联合跨国科技巨头与出版财团，将学术成果包装为专有加盟工具。
 >   - **代表著作** 《丰富矿脉：新教学法如何挖掘深度学习》（*A Rich Seam*, 2014，培生智库出版）、《深度学习：改变世界》（*Deep Learning: Engage the World Change the World*, 2018）。
 >   - **关键概念／方法** [[New Pedagogies for Deep Learning|深度学习新教学法]]、6C [[21st Century Skills and Competencies Discourse|核心素养]]、商业集群特许协议。
->   - **阶段转向** 与培生、微策略及本土[[Educational Management Organisation|教育管理组织]]（CORE Education）深度绑定，全面走向全球商业特许加盟运作。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 24–25, 41–43)]]
+>   - **阶段转向** 与培生、微策略及本土[[Educational Management Organisation|教育管理组织]]（[[CORE Education]]）深度绑定，全面走向全球商业特许加盟运作。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 24–25, 41–43)]]
 
 ---
 
@@ -112,7 +113,7 @@ updated: 2026-10-16
 > - **理论路径** 拓展了组织社会学在教育领域的应用，开创全系统变革（Whole System Change）与教师协作专业主义理论脉络。
 > - **方法路径** 开发了深度学习行为进展量规（Progressions）、[[Co-Design|协同设计]]协议与学校集群自评工具套件。
 > - **政策路径** 作为安大略省首席顾问主导全省教育改革，其政策理念被[[OECD|经合组织]]（OECD）推崇为全球系统改进标杆；深度影响澳大利亚与新西兰的教师专业学习政策。
-> - **跨国商业传播** 授权新西兰 CORE Education 等商业[[Educational Management Organisation|教育管理组织]]（EMO）推行 [[New Pedagogies for Deep Learning|NPDL]] 排他性特许加盟，通过百校集群协议收取经常性会费。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 24–25, 41–43)]]
+> - **跨国商业传播** 授权新西兰 [[CORE Education]] 等商业[[Educational Management Organisation|教育管理组织]]（EMO）推行 [[New Pedagogies for Deep Learning|NPDL]] 排他性特许加盟，通过百校集群协议收取经常性会费。[[Argument_ONeill_2016_Report|(O'Neill et al., 2016, pp. 24–25, 41–43)]]
 
 > [!evidence-grid-a]- [[Correlational Research|相关研究]]索引
 > - [[Argument_ONeill_2016_Report|O'Neill et al. (2016)]] — 系统解构富兰从学术领导者向跨国思想领袖的转型，揭示 NPDL 专有商标特许对公立学校教师研训经费的抽吸效应。
@@ -125,7 +126,7 @@ updated: 2026-10-16
 > - **学术与思想合作者** 安迪·哈格里夫斯（Andy Hargreaves） — 共同倡导专业资本（Professional Capital）与协作专业主义；乔安妮·奎因（Joanne Quinn） — 共同创办 [[New Pedagogies for Deep Learning|NPDL]] 并合著核心专著。
 > - **跨国政策思想盟友** [[Michael Barber|迈克尔·巴伯]]爵士（[[Michael Barber]]） — 共同参与跨国咨询网络与培生智库项目；约翰·海蒂（[[John Hattie]]） — 共同被培生智库致谢并同构了专有教学品牌模式。
 > - **学术批评者** [[John O'Neill|约翰·奥尼尔]]（[[John O'Neill]]）、[[Stephen Ball|斯蒂芬·鲍尔]]（[[Stephen Ball]]） — 批判其思想领袖光环背后的专有教学法商品化与新自由主义资本合谋。
-> - **代理机构与跨国实体** [[OECD|经合组织]] — 全球政策扩散支持；培生集团（Pearson plc） — 智库丛书资助出版；核心教育（CORE Education） — 新西兰独家特许代理商。
+> - **代理机构与跨国实体** [[OECD|经合组织]] — 全球政策扩散支持；培生集团（Pearson plc） — 智库丛书资助出版；[[CORE Education|核心教育]]（CORE Education） — 新西兰独家特许代理商。
 
 ---
 

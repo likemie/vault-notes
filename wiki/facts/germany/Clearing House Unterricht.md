@@ -69,6 +69,7 @@ related_facts:
   - "[[Education Endowment Foundation]]"
   - "[[Forschungsmonitor Schule]]"
   - "[[EPPI-Centre]]"
+  - "[[CORE Education]]"
 related_arguments:
   - "[[Argument_Knogler_2025_BB]]"
   - "[[Argument_Manitius_vanHolt_2019_BzS]]"
@@ -189,7 +190,7 @@ updated: 2026-10-16
 > | 条目 | 类型 | 关系 |
 > |:-----|:-----|:-----|
 > | [[Zentrum für internationale Bildungsvergleichsstudien]] | 事实 (机构) | 同设于 TUM 的战略协同伙伴，结成 CHU x ZIB 宏微观证据转化双轨网络。 |
-> | [[Forschungsmonitor Schule]] | 事实 (机构) | 德国各州联合发起的另一核心教育证据监测平台，形成跨学科与数理专精的互补格局。 |
+> | [[Forschungsmonitor Schule]] | 事实 (机构) | 德国各州联合发起的另一[[CORE Education\|核心教育]]证据监测平台，形成跨学科与数理专精的互补格局。 |
 > | [[Federal Ministry of Education and Research]] | 事实 (机构) | 平台创设初期的国家立项与全额专项资助部委。 |
 > | [[Qualitätsoffensive Lehrerbildung]] | 事实 (项目) | 平台创设所依托的全国性重大教师教育质量攻坚工程。 |
 > | [[Tina Seidel]] | 人物 | 慕尼黑工业大学讲席教授，平台的学术发起人与首席科学家。 |
