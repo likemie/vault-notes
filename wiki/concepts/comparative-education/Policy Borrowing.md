@@ -65,11 +65,10 @@ related_concepts:
   - "[[Revolutionism]]"
   - "[[Network Governance]]"
   - "[[Performance Indicators]]"
+  - "[[Visible Learning]]"
   - "[[Methodological Statism]]"
   - "[[Methodological Nationalism]]"
   - "[[Variable]]"
-  - "[[Visible Learning]]"
-  - "[[Heterogeneity]]"
 related_theories:
   - "[[World Society Theory]]"
   - "[[Governing at a Distance]]"
@@ -77,6 +76,7 @@ related_theories:
   - "[[Orientalism]]"
   - "[[Network Society]]"
   - "[[Transitology]]"
+  - "[[Panopticism]]"
 related_methods:
   - "[[Analytic Framework]]"
   - "[[Ethnography]]"
@@ -133,8 +133,8 @@ related_arguments:
   - "[[Argument_Grey_2018_CE]]"
   - "[[Argument_Mitter_2009_Europe]]"
   - "[[Argument_Beech_2009_GlobalGarden]]"
-  - "[[Argument_Beech_2015_GSE]]"
   - "[[Argument_Golovchin_2019_ESC]]"
+  - "[[Argument_Beech_2015_GSE]]"
   - "[[Argument_Li_2025_HSSC]]"
 confidence: high
 status: stable
@@ -528,6 +528,12 @@ updated: 2026-10-16
 > >
 > > - **技术官僚与政策从业者** 倾向于将比较教育作为汲取外部“最佳实践”与[[Performance Indicators|绩效指标]]排名的政策工具箱，追求立竿见影的制度借用。
 > > - **欧陆历史主义与米特立场** 坚持航海隐喻，主张学者绝不代替决策者掌舵决策，坚守深厚的历史考证与文化脉络[[Rich and Thick Description|深描]]，警惕去情境化的浅层借用沦为官僚正当性的附庸。[[Argument_Mitter_2009_Europe\|(Mitter, 2009, pp. 95–99)]]
+>
+> > [!axis] 盲目照搬的制度陷阱 vs 本土文化传统与办学现实的理性审慎
+> > 围绕转型国家与后发经济体对西方教育模式（如统考标准化、[[Bologna Process|博洛尼亚进程]]、[[Visible Learning|可见的学习]]指标）的政策借用展开深刻辩论。
+> >
+> > - **行政急躁与盲目借用立场** 部门管理层为追求治理效率标识与现代化政绩，往往在未开展区域先行先试、未考虑一线教师接纳度的情况下仓促照搬国外模式。
+> > - **制度陷阱与本土抵制立场** 戈洛夫钦（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）指出，脱离本土文化土壤与学校实际条件的机械借用不仅无法提升教育质量，反而蜕变为困扰各方参与者的“制度陷阱”（Institutional Trap）；正如俄罗斯统一国家考试（USE）仅获三分之一教师认可、盲目推行可见学习将使 79% 受困于报表的教师进一步深陷行政[[Panopticism|全景敞视]]与去专业化危机，最终引发一线专业群体的强烈反弹与体制排异。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 230, 240–241)]]
 
 > [!critique] 学术学理与方法论批判
 > - **书面文本与话语偏见** 传统的政策借用研究过度局限于国家的官方书面政策文件或媒介修辞，忽视了在治理转向中，非官方与去中心化网络中非人类技术客体与算法的微观流转机制（[[Argument_Beech_2015_GSE\|Beech & Artopoulos, 2015]]；[[Argument_Hartong_2018_GSE\|Hartong, 2018]]）。
@@ -564,7 +570,7 @@ updated: 2026-10-16
 > - [[Argument_Cowen_2009_CE\|Cowen (2009b)]] — 建立“转移—转译—形态变异”分析视角，论证教育政策元素在跨国流动中受微观权力与时空重构必然发生实质形态改变。
 > - [[Argument_Yan_2025_JCS\|Yan and Morris (2025)]] — 追踪[[Liberal Studies\|香港通识教育科]]从创立到废除的生命周期，揭示政策借用作为本土政治议程[[Externalization\|外化]]合法化工具的运作机制，并界定高压威权行政接管下政策借用[[Analytic Framework\|分析框架]]的失效边界。
 > - [[Argument_Grey_2018_CE\|Grey and Morris (2018)]] — 剖析英格兰在 PISA 2012 发布后借用东亚（上海）与 [[OECD]] [[Discourse|话语]]推行教师[[Performance Pay\|绩效工资]]等五大争议政策的过程，揭示“遗漏话语”与媒体“[[Policy Avoidance\|政策规避]]”构成的媒介化政策借用合法化新机制。
-> - [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] — 详细呈现“[[Visible Learning\|可见的学习]]”（Visible Learning）进入俄罗斯教育界后，因遭遇方法论[[Heterogeneity\|异质性]]、教师去专业化风险与行政报表官僚化威胁，最终本土学者提出“拒绝采用”建议的过程。
+> - [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] — 详细呈现西方教育模式（如《[[Visible Learning|可见的学习]]》）借入俄罗斯时的理论遭遇：论证脱离本土文化传统与办学条件的机械借用极易蜕变为“制度陷阱”（如 79% 教师深陷报表负担与职业声望危机），提出基于数理变差系数检验与制度理性反思的“拒绝借用”范例。
 > - [[Argument_Li_2025_HSSC\|Li et al. (2025)]] — 综述 PISA 国际排名如何将东亚与芬兰等确立为全球[[Reference Society\|参考社会]]，剖析韩国政策借用从日本模式向芬兰模式动态切换的制度化历程。
 > - [[Argument_Beech_2009_GlobalGarden|Beech (2009b)]] — 批判国家专员垄断的花园漫步借用传统，揭示跨国咨询、营利企业与多边机构构成的多元行动者网络，以及[[Knowledge Bank|知识银行]]通过议程与解方双重收拢闭合受援国政策话语空间的深层机制（pp. 341–344, 348–353）。
 > - [[Argument_Beech_2015_GSE\|Beech and Artopoulos (2015)]] — 批判传统政策借用局限于国家官方书面文本的静态假设，从[[Network Governance\|网络治理]]视角揭示去中心化非官方网络中话语权力的微观流转与转译机制。

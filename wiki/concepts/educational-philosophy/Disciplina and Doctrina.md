@@ -9,7 +9,7 @@ aliases:
 summary: "西方教育思想史上关于知识组织和传授的一对经典二元范式：disciplina 侧重既有知识的灌训与规训，doctrina 侧重知识的动态生产与开放更新。在当代超国家治理与循证教育中，跨国测评排位赛与新泰勒主义清单监控作为强有力的远处规训机制（disciplina），将教学活动窄化为数据合规，严重压制了教育的人文关系建构与批判性审议（doctrina）。"
 type: concept
 domain: "educational-philosophy"
-related_count: 54
+related_count: 55
 related_level: 5
 related_stars: "⭐⭐⭐⭐⭐"
 related_color: "#fecdd3"
@@ -44,6 +44,7 @@ related_concepts:
   - "[[Externalization]]"
   - "[[Critical Pedagogy]]"
   - "[[Cognitive Deskilling]]"
+  - "[[Individualised Instruction]]"
   - "[[Variable]]"
   - "[[Learning Intentions]]"
   - "[[Discourse]]"
@@ -54,6 +55,7 @@ related_concepts:
 related_theories:
   - "[[Human Capital Theory]]"
   - "[[Governing at a Distance]]"
+  - "[[Panopticism]]"
 related_methods:
   - "[[Comparative Policy Analysis]]"
   - "[[Effect Size]]"
@@ -76,6 +78,7 @@ related_arguments:
   - "[[Argument_Kazamias_2009_HistoricalReflections]]"
   - "[[Argument_Eacott_2017_SLM]]"
   - "[[Argument_Biesta_2010_SPE]]"
+  - "[[Argument_Golovchin_2019_ESC]]"
 related_instruments:
   - "[[Assessment Tools for Teaching and Learning]]"
 confidence: high
@@ -258,6 +261,12 @@ updated: 2026-10-16
 > >
 > > - **循证管理与技术官僚阵营（Hattie, 2009; Carnine, 2000）** 主张将教学向外科手术与工业工程看齐，通过标准化核查清单、气压计仪表刻度与固定教学策略（如 [[Victorian HITS and Literacy Toolkit|HITS]]）消除教师主观偏差，提高生产效率。
 > > - **[[Critical Pedagogy|批判教育学]]者（[[Argument_Biesta_2010_SPE|Biesta, 2010]]; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023, pp. 28–30]]）** 强调教学绝非机械手术缝合或打结，而是在具体社区建设师生学习共同体的复杂伦理关怀过程；强推技术清单只会催生虚伪的[[Performativity|表演性]]合规与专业[[Cognitive Deskilling|去技能化]]。
+>
+> > [!axis] 新行政全景规训与报表自证（disciplina） vs 教师专业尊严与学术天职（doctrina）
+> > 探讨在现代教育科层体系中，持续数据生产与文书考核对教师专业生命力的压抑。
+> >
+> > - **行政考核与留痕规训立场** 科层管理机构试图通过高频度的数据填报、日常检查与标准化量规，确立[[Panopticism|全景敞视]]式的规训监督闭环。
+> > - **教师主体与学术天职捍卫立场** 戈洛夫钦（[[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）指出，这种将教师转化为持续生产汇报数据工具的“新行政全景敞视”（disciplina），使一线教师深陷“组织病理”式报表负担（如俄罗斯 79% 教师工作量剧增）；不仅剥夺了教师探索[[Individualised Instruction|个性化教学]]（doctrina）的时间，更严重削弱了教师的职业声望与天职认同，直接诱发师资流失危机。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 237–238, 240–241)]]
 
 ---
 
@@ -296,6 +305,7 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] 相关论证索引
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 结合[[Neo-Taylorism|新泰勒主义]]与全景监控理论，深入剖析《[[Visible Learning|可见的学习]]》如何借助 [[Assessment Tools for Teaching and Learning|asTTle]] 系统与气压计仪表刻度将教师降格为技术规训对象，驱逐教学的人文共同体属性。
+> - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 结合俄罗斯实证反思可见学习与新泰勒主义规训对教师职业的冲击，揭示“人人注视人人”的新行政[[Panopticism|全景敞视]]如何将教学窄化为报表生产并摧毁教师专业认同。
 > - [[Argument_Schaffar_2024_CogentEdu|Schaffar and Wolff (2024)]] — 运用这一[[Paradigm|范式]]剖析了芬兰[[Phenomenon-Based Learning|现象本位学习]]在绩效评估压力下被技能原子化收纳的本质。
 > - [[Argument_Mitter_2009_Europe|Mitter (2009, p. 96)]] — 揭示超国家治理与科研资助体系如何对比较教育学者施加规训压力，促使学术[[Knowledge Production|知识生产]]向政策问责与技术官僚规训屈从。
 > - [[Argument_Kazamias_2009_HistoricalReflections|Kazamias (2009a, pp. 153–154)]] — 在第四阶段[[Discourse|话语]]梳理中引介卡诺伊批判国家理论，阐明学校在生产关系规训再生产与大众民主诉求之间的辩证张力。

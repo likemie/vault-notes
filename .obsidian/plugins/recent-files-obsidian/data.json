@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Visible Learning",
+      "path": "wiki/concepts/instruction-pedagogy/Visible Learning.md"
+    },
+    {
+      "basename": "Visible Learning Meta-X",
+      "path": "wiki/facts/new-zealand/Visible Learning Meta-X.md"
+    },
+    {
+      "basename": "Critiques of Visible Learning",
+      "path": "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md"
+    },
+    {
       "basename": "Argument_Golovchin_2019_ESC",
       "path": "wiki/arguments/journal-articles/Economic and Social Changes Facts, Trends, Forecast/Argument_Golovchin_2019_ESC.md"
     },
@@ -29,16 +41,8 @@
       "path": "wiki/arguments/journal-articles/Beiträge zur Schulentwicklung/Argument_Manitius_vanHolt_2019_BzS.md"
     },
     {
-      "basename": "Critiques of Visible Learning",
-      "path": "wiki/concepts/instruction-pedagogy/Critiques of Visible Learning.md"
-    },
-    {
       "basename": "Argument_Kalmendal_2025_PsyArXiv",
       "path": "wiki/arguments/journal-articles/PsyArXiv/Argument_Kalmendal_2025_PsyArXiv.md"
-    },
-    {
-      "basename": "Visible Learning",
-      "path": "wiki/concepts/instruction-pedagogy/Visible Learning.md"
     },
     {
       "basename": "Argument_Wecker_2016_ZfE",
@@ -195,10 +199,6 @@
     {
       "basename": "Washington Consensus",
       "path": "wiki/concepts/political-economy-geopolitics/Washington Consensus.md"
-    },
-    {
-      "basename": "Argument_Arnove_2009_WorldSystems",
-      "path": "wiki/arguments/books/Cowen(Ed.)_2009_Springer/Argument_Arnove_2009_WorldSystems.md"
     }
   ],
   "omittedPaths": [],

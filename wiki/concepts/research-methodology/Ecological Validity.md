@@ -33,6 +33,7 @@ related_concepts:
   - "[[Neo-Taylorism]]"
   - "[[Research Ethics]]"
   - "[[Visible Learning]]"
+  - "[[Epistemology]]"
 related_theories: []
 related_methods:
   - "[[Questionnaire]]"
@@ -41,6 +42,7 @@ related_methods:
   - "[[Meta-meta-analysis]]"
   - "[[Internet-Based Experiments]]"
   - "[[Meta-analysis]]"
+  - "[[Effect Size]]"
   - "[[Accounts]]"
   - "[[Correlational Research]]"
 related_instruments: []
@@ -52,6 +54,7 @@ related_arguments:
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23]]"
   - "[[Argument_Johnson_2023_CritEduc]]"
+  - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Cohen_Manion_Morrison_2011_Routledge]]"
 confidence: high
 status: draft
@@ -172,11 +175,11 @@ updated: 2026-10-16
 
 > [!debates] 学术争议
 >
-> > [!axis] 硬科学实验控制 vs 真实课堂生态效度
+> > [!axis] 硬科学实验控制 vs 真实课堂生态效度与情境抽离批判
 > > 争论教育研究是否应全力追求物理学式的实验单[[Variable|变量]]控制。
 > >
 > > - **实验控制派（Carnine, 2000; Hattie, 2009）** 主张教育必须效仿硬科学消除外部噪音，通过实验操纵或[[Meta-meta-analysis|二阶元分析]]加权剥离混杂变量，提炼普适有效规律。
-> > - **生态情境派（Phillips, 2014; Eisner, 1983; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]）** 强调课堂中的学生背景与人际互动恰恰是育人本体，消除这些变量就彻底消灭了生态效度，生产出无意义的假象。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 35–36)]]
+> > - **生态情境派（Phillips, 2014; Eisner, 1983; [[Argument_Johnson_2023_CritEduc|Johnson & Janzen, 2023]]; [[Argument_Golovchin_2019_ESC|Golovchin, 2019]]）** 强调课堂中的师生互动、社会背景与情感共鸣恰恰是育人本体；[[Argument_Golovchin_2019_ESC|Golovchin (2019)]]援引 Myburgh 等人的方法论批判指出，二阶[[Meta-analysis|元分析]]通过强行平均和排除校外社会环境变量，将教育抽离出具体的师生互动与社会现实，造成严重的生态效度塌陷，使量化[[Effect Size|效应量]]无法直接推广为微观常态课堂的教学法则。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 236–237, 240)]]; [[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, pp. 35–36)]]
 >
 > > [!axis] 丰富[[Rich and Thick Description|厚描述]] vs 伦理匿名性
 > > 争论高水平生态效度对情境细节的披露是否危及被研究机构与个体的隐私安全。
@@ -219,3 +222,4 @@ updated: 2026-10-16
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Cohen_Manion_Morrison_2011_Routledge|Cohen et al. (2011)]] — 跨章节界定生态效度内涵：辨析其与内部及[[External Validity|外部效度]]的关系与[[Variable|变量]]剥离局限（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch10|Ch. 10]]），剖析受控实验对教室生态的歪曲（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch16|Ch. 16]]），并确立质性现场观察的独特优势（[[Argument_Cohen_Manion_Morrison_2011_Routledge_Ch23|Ch. 23]]）。
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 引入科学哲学家 Phillips (2014) 与课程学者 Eisner (1983) 理论，批判 [[Visible Learning]] 等[[Meta-meta-analysis|二阶元分析]]试图以硬科学实验室控制手段提炼[[Effective Teaching|有效教学]]清单的做法彻底抹杀了教育的生态效度。
+> - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 梳理国外学者针对《可见学习》的六大方法论通病，剖析其强行汇总[[Heterogeneity|异质性]]研究、排除社会环境变量导致生态效度严重剥落的[[Epistemology|认识论]]局限。

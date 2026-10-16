@@ -8,7 +8,7 @@ aliases:
 summary: "个体在目标导向活动中主动调节注意、情绪与冲动反应以实现长远目标的非认知心理能力。在学习科学中，它构成了元认知调节与社会情感能力的底层基础，表现为反应抑制、情绪稳定与任务切换，对学业持久性与课堂适应具有关键支撑作用。"
 type: concept
 domain: "learning-science-cognitive-science"
-related_count: 44
+related_count: 45
 related_level: 4
 related_stars: "⭐⭐⭐⭐"
 related_color: "#fdba74"
@@ -61,6 +61,7 @@ related_methods:
   - "[[Qualitative Interview]]"
   - "[[Triangulation]]"
   - "[[Meta-analysis]]"
+  - "[[Meta-meta-analysis]]"
   - "[[Correlational Research]]"
 related_instruments: []
 related_persons: []
@@ -70,6 +71,7 @@ related_facts:
 related_arguments:
   - "[[Argument_Edovald_Nevill_2021_ECNUROE]]"
   - "[[Argument_Creswell_2022_SAGE]]"
+  - "[[Argument_Golovchin_2019_ESC]]"
 confidence: high
 status: active
 created: '2026-05-06'
@@ -266,6 +268,7 @@ updated: 2026-10-16
 > |---|---|---|---|---|---|---|---|
 > | [[Argument_Creswell_2022_SAGE\|Lekhal (2015; Creswell & Creswell, 2022)]] | 性别差异比较（男 vs 女） | 课堂自我控制评分（包含[[Inhibitory Control\|反应抑制]]、情绪调节、行为切换） | $N = 1,129$ 名学前与小学儿童 | 男童 $M$ 显著低于女童 | $d = -0.42$ | $p = .000$ | 横截面[[Questionnaire\|问卷]]与教师评定；证实女童在基础自控力上存在稳健中等优势，该优势在结构模型中完全中介阻碍学习行为 |
 > | [[Argument_Creswell_2022_SAGE\|Kennett et al. (2008; Creswell & Creswell, 2022, pp. 69–70)]] | 习得性资源感对自我管理支持干预 | 自我控制能力（Rosenbaum SCS 量表）与日常应对策略 | 慢性疼痛患者与对照群体（解释性顺序[[Mixed Methods Research\|混合方法]]） | 干预后 SCS 评分显著提高，[[Qualitative Interview\|质性访谈]]证实个体发展出深层认知重构与行为自我管理技巧 | — | $p < .05$ | 解释性顺序混合方法研究，证实自我控制属于包含具体技能库的习得性资源感，可通过系统训练赋能 |
+> | [[Argument_Golovchin_2019_ESC\|Hattie (2009; Golovchin, 2019, p. 233)]] | 对课外干扰因素的自我控制干预 | 基础[[Academic Achievement\|学业成绩]]与课堂学习表现 | [[Meta-analysis\|元分析]]二阶综合（收录多项中小学实证干预） | 教学策略维度中最低效应值指标之一 |  = 0.04$ | — | [[Meta-meta-analysis\|二阶元分析]]均值，显示脱离教师[[Structured Teaching\|结构化教学]]支持与情境引导的孤立课外抗干扰自控对学业成绩的直接提升微乎其微 |
 
 > [!ref-table]- 其他实证结果（无效应量）
 > <span class="concept-other-empirical-table-marker" aria-hidden="true"></span>
@@ -281,6 +284,7 @@ updated: 2026-10-16
 > [!evidence-grid-a] [[Correlational Research\|相关研究]]索引
 > - [[Argument_Edovald_Nevill_2021_ECNUROE\|Edovald and Nevill (2021)]] — 详述英国[[Education Endowment Foundation\|教育捐赠基金会]]（EEF）2014 年起将评价范围拓展至自我控制与韧性等非学业产出（Non-attainment outcomes），并揭示非认知测量工具的信效度赤字与 [[Social-Emotional Learning\|SEL]] 实践指南演化。
 > - [[Argument_Creswell_2022_SAGE\|Creswell and Creswell (2022)]] — 引用 Kennett 等（2008）的[[Mixed Methods Research\|混合方法研究]]，说明 Rosenbaum 自我控制理论与习得性资源感如何支持行为自我管理，并引述 Lekhal（2015）的性别差异证据。
+> - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 汇总 Hattie 教学策略[[Meta-analysis|元分析]]数据，指出孤立的课外干扰自我控制其学业[[Effect Size|效应量]]仅为 =0.04$，实证印证了自控力必须与教学情境及外部支持协同方能发挥效能。
 > - Duckworth and Seligman (2005) — 经典纵向追踪实证，证实自我控制对青少年[[Academic Achievement\|学业表现]]的预测力超越智商（IQ）。
 > - van Poortvliet et al. (2019) — EEF 官方实践指南，系统提炼在小学课堂中系统落地社会情感学习（SEL）与自我控制策略的循证建议。
 

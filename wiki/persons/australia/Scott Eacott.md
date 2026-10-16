@@ -40,13 +40,14 @@ related_facts: []
 related_arguments:
   - "[[Argument_Eacott_2019_IJLE]]"
   - "[[Argument_Eacott_2017_SLM]]"
+  - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Eacott_2015_EPT]]"
   - "[[Argument_Eacott_2011_JEAH]]"
   - "[[Argument_Hattie_2017_SLM]]"
 confidence: medium
 status: draft
 created: 2026-05-03
-updated: 2026-10-15
+updated: 2026-10-16
 ---
 ## 简介
 
@@ -60,6 +61,7 @@ updated: 2026-10-15
 > - **学术工作的逻辑 = 论证与反驳（argument and refutation）** 遵循 Bourdieu 的规范性立场，Eacott 主张学术实践应当以论证和反驳为核心逻辑，而非 thesis-antithesis-synthesis。区别在于：反驳要求在对对方论证进行实质性参与的基础上，检验其稳健性和[[Internal Consistency\|内部一致性]]；而非仅仅从自身规范立场出发进行否定([[Argument_Eacott_2019_IJLE\|Eacott, 2019, p.779]])
 > - **[[Parallel Monologues\|平行独白]]（Parallel Monologues）** Eacott 识别并命名了教育行政与领导力领域的结构性现象——学者们在各自子领域内发表、引用和建立事业，但很少认真尝试与他人的知识主张进行实质性交锋
 > - **"[[Cult of the Guru\|大师崇拜]]"与 [[Neo-Taylorism]] 批评** Eacott 将 Hattie 的 [[Visible Learning]] 称为"[[Neo-Taylorism\|新泰勒主义]]"（Neo-Taylorism），认为其核心逻辑与 Taylor 的科学管理原理同构——寻找"唯一正确方法"、将实践拆解为最小操作单元、最大化效率([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.418-422]])。他同时批评澳大利亚教育系统对"Hattie 品牌"的不加批判的接受为"澳大利亚[[School Leadership\|学校领导力]]的悲剧"([[Argument_Eacott_2017_SLM\|Eacott, 2017, p.413]])
+> - **“持续数据生产”与科层行政病理批判** Eacott 尖锐批判教育行政中以循证为名的“持续数据生产”（Continuous Production of Data）政策，指出其迫使学校持续产生迎检数据流，严重挤压了实质育人空间；这一洞见被跨国学者（如 Golovchin, 2019）广泛援引，用于对照揭示转型国家（如俄罗斯 79% 教师受困于报表增生）中教育治理的深层“组织病理”与专业流失危机。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 240–241)]]
 > - **关系取向的组织理论** 在 *Beyond Leadership*（2018）中，Eacott 提出了超越传统领导力研究的"关系取向"（relational approach），将关注点从个体领导者转向组织中的关系动态
 > - **Bourdieu 认识论在教育行政中的应用** Eacott 将 Bourdieu 的认识论预备（断裂、警觉、前建构对象）引入教育行政研究，论证教育行政学者的嵌入具身性（embedded embodiment）塑造其智识凝视（详见 [[Argument_Eacott_2015_EPT|Eacott (2015)]]）
 

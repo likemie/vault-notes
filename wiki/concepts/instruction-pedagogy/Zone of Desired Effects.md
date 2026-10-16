@@ -56,6 +56,7 @@ related_facts:
   - "[[CREATES Project]]"
 related_arguments:
   - "[[Argument_Johnson_2023_CritEduc]]"
+  - "[[Argument_Golovchin_2019_ESC]]"
 confidence: high
 status: draft
 created: "2026-10-16"
@@ -169,11 +170,12 @@ updated: 2026-10-16
 
 > [!debates] 学术争议
 >
-> > [!axis] 客观科学基线 vs 统计算术游戏
-> > 争论 $d=0.40$ 究竟代表了可靠的实证基线，还是不加甄别的数据堆砌均值。
+> > [!axis] 客观科学基线 vs 统计算术游戏与变差系数解构
+> > 争论 =0.40$ 究竟代表了可靠的实证基线，还是不加甄别的数据堆砌均值。
 > >
-> > - **Hattie（2009）** 主张 $d=0.40$ 能够让教师看清自身教学的真实位置，只有超过铰接点的影响因素才真正值得投入学校有限的时间与资源。
+> > - **Hattie（2009）** 主张 =0.40$ 能够让教师看清自身教学的真实位置，只有超过铰接点的影响因素才真正值得投入学校有限的时间与资源。
 > > - **[[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]]** 指出该阈值仅为 138 项因素的未加权算术均值，新增[[Variable|变量]]会导致均值稀释，将其奉为客观基线是典型的伪科学。[[Argument_Johnson_2023_CritEduc|(Johnson & Janzen, 2023, p. 26)]]
+> > - **[[Argument_Golovchin_2019_ESC|Golovchin (2019)]]** 运用变差系数（\sigma = 56.87\%$）开展严格数理检验，证实 Hattie 归纳的 133 项正向[[Effect Size|效应量]]在统计学上属于极端不均匀分布（均值 $\bar{d}=0.42$，标准差 $\sigma=0.239$），且学生（.24\%$）与学校（.97\%$）离散度极高，从数理上证明 =0.40$ 根本无法作为普适有效的因果基准分界线。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 238–241)]]
 >
 > > [!axis] 通用筛选指标 vs 忽视生态情境与校外方差
 > > 争论能否依据单一[[Effect Size|效应量]]截断值指导全学段学校改革。
@@ -220,3 +222,4 @@ updated: 2026-10-16
 
 > [!evidence-grid-a] [[Correlational Research|相关研究]]索引
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 系统批判《可见学习》期望效应区与铰接点的统计学缺陷，揭示其作为[[Neo-Taylorism|新泰勒主义]][[Disciplina and Doctrina|规训]]工具与财政紧缩借口的治理功能。
+> - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 运用变差系数数理检验证实 Hattie [[Effect Size|效应量]]总体（.87\%$）与各来源维度的极端不均匀性，实证解构了 =0.40$ 期望效应区作为决策基准的科学有效性。

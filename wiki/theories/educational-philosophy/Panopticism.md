@@ -10,7 +10,7 @@ aliases:
 summary: "Foucault 基于 Bentham 全景监狱隐喻提出的现代权力理论，揭示权力如何通过可见性非对称与潜在被注视假定，将外部强制转化为被监视者的内在心理自律，广泛用于解构教育测验软件、绩效问责与数字全景监控"
 type: theory
 theory_field: "educational-philosophy"
-theory_related_count: 18
+theory_related_count: 21
 theory_related_level: 2
 theory_related_stars: "⭐⭐"
 theory_related_color: "#e0e7ff"
@@ -29,9 +29,11 @@ related_concepts:
   - "[[Visible Learning]]"
   - "[[Ontology]]"
   - "[[Learning Intentions]]"
+  - "[[Reflexivity]]"
   - "[[Space of Flows]]"
   - "[[Avatar]]"
   - "[[Learning Analytics]]"
+  - "[[Performance Indicators]]"
 related_theories:
   - "[[Societies of Control]]"
 related_methods:
@@ -46,6 +48,7 @@ related_arguments:
   - "[[Argument_Johnson_2023_CritEduc]]"
   - "[[Argument_Terhart_2011_JCS]]"
   - "[[Argument_McKnight_2020_Discourse]]"
+  - "[[Argument_Golovchin_2019_ESC]]"
 confidence: high
 status: active
 created: 2026-10-16
@@ -72,7 +75,7 @@ updated: 2026-10-16
 
 > [!logic-map] 全景敞视权力的生成与传导逻辑
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >     A["中央观察塔：非对称可见性<br>(监视者隐形 / 被监视者全览)"] --> B["潜在被注视心理预期<br>(不确定何时被看，但确信随时可见)"]
 >     B --> C["外部强制向内在意识转化<br>(自我审查与行为自律)"]
 >     C --> D["规训机制的自动化运作<br>(权力行使成本最小化、效能最大化)"]
@@ -115,6 +118,12 @@ updated: 2026-10-16
 > - 教师被硬性规定在上课铃响前必须在白板上端正写出当堂课题与[[Learning Intentions|学习意图]]，以备巡堂管理人员随时抽检问责。
 > - 僵化的白板展示剥夺了教师根据现场生发情境施教的自由度，将丰富的人际育人过程窄化为应付全景检查的形式主义表演。
 
+#### “人人相互注视”的新行政全景敞视与报表异化
+
+> [!critique-logic] 新行政全景敞视主义与教育官僚病理（[[Argument_Golovchin_2019_ESC|Golovchin, 2019, pp. 237–238, 240–241]]；[[Argument_McKnight_2020_Discourse|McKnight & Whitburn, 2020, pp. 1–13]]）
+> - **“人人注视人人”的新行政全景敞视** McKnight 与 Whitburn 以及 Golovchin（2019）指出，以可见学习为代表的指标体系将教育引向一种“新行政全景敞视”（New Administrative Panopticism）。在该机制下，[[Reflexivity|反思性]]的内部教学被强制转化为外在的绩效问责，“人人都在监视人人”；教师为了自证符合“可见”基准，必须陷入海量表单填写与数据生产中。
+> - **报表异化与组织病理** 在俄罗斯教育实践的经验对照中，全国监控显示高达 79% 的中学教师指出日常报表负担显著加剧，逾四分之一欲离职教师将官僚报表列为首要原因。学者将这种无休止的数据留痕定性为教育系统的“组织病理”（Organizational Pathology），实证揭示了全景敞视行政问责如何摧毁教师的专业尊严与教学热情。
+
 ---
 
 ## 理论演进与时代边界
@@ -140,3 +149,4 @@ updated: 2026-10-16
 > - [[Argument_Johnson_2023_CritEduc|Johnson and Janzen (2023)]] — 结合福柯全景敞视理论，解剖 [[Assessment Tools for Teaching and Learning|asTTle]] 监控软件如何演化为可见学习[[Barometer of Achievement|气压计图表]]并压缩[[Teacher Professional Agency|教师能动性]]。
 > - [[Argument_McKnight_2020_Discourse|McKnight and Whitburn (2020)]] — 从文化政治学解构视觉霸权构建的全景监控生态及其诱发的[[Ontology|本体论]]不安全。
 > - [[Argument_Terhart_2011_JCS|Terhart (2011)]] — 诊断可见学习将互见互视置于核心，把传统公开支配转变为精致现代全景统治。
+> - [[Argument_Golovchin_2019_ESC|Golovchin (2019)]] — 剖析可见学习与[[Performance Indicators|绩效指标]]如何引入“人人相互注视”的新行政全景敞视主义，结合俄罗斯 79% 教师深陷报表负担的实证数据解构其导致的官僚组织病理。

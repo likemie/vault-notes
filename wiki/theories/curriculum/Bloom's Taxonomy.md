@@ -11,7 +11,7 @@ aliases:
 summary: "将教育目标与学习产出按认知、情感与动作技能三领域分层解构的经典课程与评价理论框架，认知领域以六级思维阶梯（识记、理解、应用、分析、评价、创造）与二维知识-认知过程矩阵为核心，支撑教学设计、目标对齐与实证测量。"
 type: theory
 theory_field: "curriculum"
-theory_related_count: 40
+theory_related_count: 42
 theory_related_level: 5
 theory_related_stars: "⭐⭐⭐⭐⭐"
 theory_related_color: "#ffedd5"
@@ -45,6 +45,7 @@ related_concepts:
   - "[[Dependent Variable]]"
   - "[[Structured Teaching]]"
   - "[[Wicked Problem]]"
+  - "[[Paradigm]]"
   - "[[International Baccalaureate]]"
   - "[[IB Diploma Programme]]"
   - "[[Cooperative Learning]]"
@@ -66,6 +67,7 @@ related_arguments:
   - "[[Argument_Gungor_2026_CP]]"
   - "[[Argument_Biggs_1999_HERD]]"
   - "[[Argument_Zhao_2025_JIntell]]"
+  - "[[Argument_Golovchin_2019_ESC]]"
   - "[[Argument_Unal_2026_JECR]]"
 confidence: high
 status: draft
@@ -126,7 +128,7 @@ updated: 2026-10-16
 
 > [!mechanism-map]- 认知目标分类与教学对齐机制图
 > ```mermaid
-> flowchart TD
+> flowchart LR
 >   subgraph KnowledgeDim["知识维度 (Knowledge Dimension)"]
 >     K1["事实性知识 (Factual)"]
 >     K2["概念性知识 (Conceptual)"]
@@ -197,10 +199,17 @@ updated: 2026-10-16
 > >
 > > - **线性阶段立场** 强调没有扎实的记忆与理解，高阶分析与评价将沦为空洞的修辞，教学必须由浅入深。
 > > - **动态网络立场** 认为真实探究往往始于高阶创造或问题评价，学生在解决[[Wicked Problem|劣构问题]]中自发逆向检索低阶事实，主张非线性、情境化的动态知识模型。[[Argument_Qvortrup_2015_Paideia\|(Qvortrup, 2015, pp. 29–32)]]
+>
+> > [!axis] 经典教学论五大支柱基石 vs 去学校化激进思潮的解构
+> > 在教学思想史与课程[[Paradigm|范式]]交锋中，布鲁姆分类学常被置于经典传统教学论与现代实验教育的张力中进行审视。
+> >
+> > - **传统教学论基石立场** 夸美纽斯（J. A. Komenský）与第斯多惠（A. Diesterweg）奠定的传统教学论建立在五大核心支柱之上：知识范式导向、教师核心主导地位、班级授课制、课堂纪律约束，以及作为技能阶梯递进策略的**布鲁姆教育目标分类学**。该立场主张认知阶梯为学校教育确立了系统、可控、分阶递进的育人秩序。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, p. 230)]]
+> > - **现代激进解构与去学校化倾向** 批判者指出，以布鲁姆分类学为支柱的传统模型将人视为简化系统，过度束缚了学生的个性与[[Creativity|创造性思维]]；然而，新一代激进方案若走向极端（如将教师降格为非学科专家的调节者或提倡去学校化），极易瓦解学科知识传承与育人纪律，引发更大的制度性混乱。[[Argument_Golovchin_2019_ESC|(Golovchin, 2019, pp. 230–231)]]
 
 > [!critique]- 批评索引
 > - [[Argument_Qvortrup_2015_Paideia\|Qvortrup (2015)]] 指出将复杂学习简单映射为 Bloom 静态层级容易割裂不同知识形式之间的动态生成关系，倡导引入 Bateson 动态知识模型替代单纯的分类学映射。
 > - [[Argument_Hughes_2014_JRIE\|Hughes (2014)]] 强调课程文件中使用 Bloom 高阶动词并不必然保证[[Critical Thinking\|批判性思维]]的发生，警惕单纯依靠动词对齐而忽视深层认知要求的形式主义风险。
+> - [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] 将布鲁姆目标分类学定性为传统教学论五大支柱之一，审视其在经典认知递进与去学校化极端解构之间的范式张力。
 
 ---
 
@@ -213,3 +222,4 @@ updated: 2026-10-16
 > - [[Argument_Unal_2026_JECR\|Ünal et al. (2026)]] 依托布鲁姆目标分类学与五维 HOTS 架构，综合 19 项 AIEd 一阶[[Meta-analysis\|元分析]]评估人工智能对分析、评价等高阶认知产出的干预成效。
 > - [[Argument_Zhao_2025_JIntell\|Zhao et al. (2025)]] 依修订版布鲁姆分类学，将生成式 AI 促学成效分为[[Critical Thinking\|批判性思维]]（g = 0.691）、[[Problem Solving\|问题解决]]（g = 0.745）与[[Creativity\|创造力]]（g = 0.444）三个层级。
 > - [[Argument_Qvortrup_2015_Paideia\|Qvortrup (2015)]] 深入反思 Bloom 分类学与 [[SOLO Taxonomy\|SOLO]] 模型在界定表层与深层知识时的理论局限，提出[[Dynamic Knowledge and Learning Model\|动态知识与学习模型]]。
+> - [[Argument_Golovchin_2019_ESC\|Golovchin (2019)]] 梳理教学思想史，探讨布鲁姆分类学作为传统教学论五支柱之一在维护系统化知识传授与抵御激进教师去专业化中的规范功能。
